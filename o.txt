@@ -1,0 +1,14 @@
+~~bc:O~~
+====== Synonyms O ======
+
+{{pagequery>@synonyms:o *;
+display=title;
+sort=name,abc;
+group;proper=header;
+layout=column;
+hidejump;
+hidemsg;
+border=inside;
+showcount;
+}}
+

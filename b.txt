@@ -1,0 +1,14 @@
+~~bc:B~~
+====== Synonyms B ======
+
+{{pagequery>@synonyms:b *;
+display=title;
+sort=name,abc;
+group;proper=header;
+layout=column;
+hidejump;
+hidemsg;
+border=inside;
+showcount;
+}}
+

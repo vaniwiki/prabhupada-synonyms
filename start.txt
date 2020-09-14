@@ -1,0 +1,19 @@
+---json
+{
+   "canonical":"synonyms"
+}
+---
+
+
+~~bc:Synonyms~~
+~~Title:Synonyms Dictionary~~
+
+====== Sanskrit & Bengali synonyms dictionary ======
+
+<div col4>
+{{simplenavi>synonyms}}
+</div>
+
+/*
+**NB!** Some of these pages contains thousands of links. It shouldn't be a problem on any modern browser, and should be fast enough on a normal connection. But under certain conditions... Oh, well. You have been warned. ;)
+*/

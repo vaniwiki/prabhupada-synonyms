@@ -1,5 +1,11 @@
-~~Title:abhipretam~~
-{{description>desire of the mind; intention; wishes of the mind.}}
+---json
+{
+    "name":"abhipretam",
+    "h1":"abhipretam",
+    "title":"abhipretam --- synonyms, prabhupada.io",
+    "description":"desire of the mind; intention; wishes of the mind."
+}
+---
 
 ==== abhipretam  ====
   * desire of the mind --- [[books:sb:1:7:1|SB 1.7.1]]

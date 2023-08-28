@@ -1,5 +1,11 @@
-~~Title:palitah~~
-{{description>grey-haired.}}
+---json
+{
+    "name":"palitah",
+    "h1":"palitah",
+    "title":"palitah --- synonyms, prabhupada.io",
+    "description":"grey-haired."
+}
+---
 
 ==== palitaḥ  ====
   * grey-haired --- [[books:sb:9:6:41-42|SB 9.6.41-42]]

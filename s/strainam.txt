@@ -1,5 +1,11 @@
-~~Title:straiṇam~~
-{{description>one who is dominated by his wife.}}
+---json
+{
+    "name":"straiṇam",
+    "h1":"straiṇam",
+    "title":"straiṇam --- synonyms, prabhupada.io",
+    "description":"one who is dominated by his wife."
+}
+---
 
 ==== straiṇam  ====
   * one who is dominated by his wife --- [[books:sb:1:11:39|SB 1.11.39]]

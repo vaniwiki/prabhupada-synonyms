@@ -1,5 +1,11 @@
-~~Title:āpadbhyaḥ~~
-{{description>from all kinds of danger.}}
+---json
+{
+    "name":"āpadbhyaḥ",
+    "h1":"āpadbhyaḥ",
+    "title":"āpadbhyaḥ --- synonyms, prabhupada.io",
+    "description":"from all kinds of danger."
+}
+---
 
 ==== sarva-āpadbhyaḥ  ====
   * from all kinds of danger --- [[books:sb:6:8:30|SB 6.8.30]]

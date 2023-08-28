@@ -1,5 +1,11 @@
-~~Title:vikhyāti~~
-{{description>the fame.}}
+---json
+{
+    "name":"vikhyāti",
+    "h1":"vikhyāti",
+    "title":"vikhyāti --- synonyms, prabhupada.io",
+    "description":"the fame."
+}
+---
 
 ==== vikhyāti  ====
   * the fame --- [[books:cc:antya:10:39|Antya 10.39]]

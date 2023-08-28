@@ -1,5 +1,11 @@
-~~Title:atyajaḥ~~
-{{description>have given up.}}
+---json
+{
+    "name":"atyajaḥ",
+    "h1":"atyajaḥ",
+    "title":"atyajaḥ --- synonyms, prabhupada.io",
+    "description":"have given up."
+}
+---
 
 ==== atyajaḥ  ====
   * have given up --- [[books:sb:4:12:2|SB 4.12.2]]

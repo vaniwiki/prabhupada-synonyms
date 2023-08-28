@@ -1,5 +1,11 @@
-~~Title:amboruha~~
-{{description>of lotus feet.}}
+---json
+{
+    "name":"amboruha",
+    "h1":"amboruha",
+    "title":"amboruha --- synonyms, prabhupada.io",
+    "description":"of lotus feet."
+}
+---
 
 ==== pāda-amboruha  ====
   * of lotus feet --- [[books:mm:5|MM 5]]

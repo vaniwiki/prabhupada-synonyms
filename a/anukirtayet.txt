@@ -1,5 +1,11 @@
-~~Title:anukīrtayet~~
-{{description>may chant or repeat; repeats; should narrate.}}
+---json
+{
+    "name":"anukīrtayet",
+    "h1":"anukīrtayet",
+    "title":"anukīrtayet --- synonyms, prabhupada.io",
+    "description":"may chant or repeat; repeats; should narrate."
+}
+---
 
 ==== anukīrtayet  ====
   * may chant or repeat --- [[books:sb:5:25:11|SB 5.25.11]]

@@ -1,5 +1,11 @@
-~~Title:durgaiḥ~~
-{{description>by fortresses.}}
+---json
+{
+    "name":"durgaiḥ",
+    "h1":"durgaiḥ",
+    "title":"durgaiḥ --- synonyms, prabhupada.io",
+    "description":"by fortresses."
+}
+---
 
 ==== durgaiḥ  ====
   * by fortresses --- [[books:sb:8:21:22|SB 8.21.22]]

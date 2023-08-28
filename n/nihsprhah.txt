@@ -1,5 +1,11 @@
-~~Title:nihsprhah~~
-{{description>desireless.}}
+---json
+{
+    "name":"nihsprhah",
+    "h1":"nihsprhah",
+    "title":"nihsprhah --- synonyms, prabhupada.io",
+    "description":"desireless."
+}
+---
 
 ==== nihṣpṛhaḥ  ====
   * desireless --- [[books:bg:2:71|Bg. 2.71]]

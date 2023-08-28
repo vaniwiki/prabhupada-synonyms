@@ -1,5 +1,11 @@
-~~Title:kevalam~~
-{{description>alone; complete; entirely; merely; only; pure; pure and perfect.}}
+---json
+{
+    "name":"kevalam",
+    "h1":"kevalam",
+    "title":"kevalam --- synonyms, prabhupada.io",
+    "description":"alone; complete; entirely; merely; only; pure; pure and perfect."
+}
+---
 
 ==== kevalam  ====
   * alone --- [[books:sb:5:26:10|SB 5.26.10]]

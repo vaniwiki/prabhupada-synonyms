@@ -1,5 +1,11 @@
-~~Title:dhanāni~~
-{{description>riches; wealth.}}
+---json
+{
+    "name":"dhanāni",
+    "h1":"dhanāni",
+    "title":"dhanāni --- synonyms, prabhupada.io",
+    "description":"riches; wealth."
+}
+---
 
 ==== dhanāni  ====
   * riches --- [[books:bg:1:32-35|Bg. 1.32-35]]

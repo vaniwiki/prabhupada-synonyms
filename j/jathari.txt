@@ -1,5 +1,11 @@
-~~Title:jaṭharī~~
-{{description>within the abdomen.}}
+---json
+{
+    "name":"jaṭharī",
+    "h1":"jaṭharī",
+    "title":"jaṭharī --- synonyms, prabhupada.io",
+    "description":"within the abdomen."
+}
+---
 
 ==== jaṭharī  ====
   * within the abdomen --- [[books:sb:3:9:20|SB 3.9.20]]

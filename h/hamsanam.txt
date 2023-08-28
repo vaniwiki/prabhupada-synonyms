@@ -1,5 +1,11 @@
-~~Title:haṁsānām~~
-{{description>of the most liberated persons.}}
+---json
+{
+    "name":"haṁsānām",
+    "h1":"haṁsānām",
+    "title":"haṁsānām --- synonyms, prabhupada.io",
+    "description":"of the most liberated persons."
+}
+---
 
 ==== parama-haṁsānām  ====
   * of the most liberated persons --- [[books:sb:5:9:20|SB 5.9.20]]

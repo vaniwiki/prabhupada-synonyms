@@ -1,5 +1,11 @@
-~~Title:pārthivāt~~
-{{description>from earth.}}
+---json
+{
+    "name":"pārthivāt",
+    "h1":"pārthivāt",
+    "title":"pārthivāt --- synonyms, prabhupada.io",
+    "description":"from earth."
+}
+---
 
 ==== pārthivāt  ====
   * from earth --- [[books:sb:1:2:24|SB 1.2.24]]

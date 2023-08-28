@@ -1,5 +1,11 @@
-~~Title:diksayam~~
-{{description>initiated.}}
+---json
+{
+    "name":"diksayam",
+    "h1":"diksayam",
+    "title":"diksayam --- synonyms, prabhupada.io",
+    "description":"initiated."
+}
+---
 
 ==== dīkṣayām cakruḥ  ====
   * initiated --- [[books:sb:6:13:18|SB 6.13.18]]

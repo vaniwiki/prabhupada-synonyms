@@ -1,5 +1,11 @@
-~~Title:paḍuyāra~~
-{{description>of students.}}
+---json
+{
+    "name":"paḍuyāra",
+    "h1":"paḍuyāra",
+    "title":"paḍuyāra --- synonyms, prabhupada.io",
+    "description":"of students."
+}
+---
 
 ==== paḍuyāra  ====
   * of students --- [[books:cc:adi:17:254|Ādi 17.254]]

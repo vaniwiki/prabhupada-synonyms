@@ -1,5 +1,11 @@
-~~Title:udayah~~
-{{description>development; glories; manifestation; raised; the attainment of; the greatness.}}
+---json
+{
+    "name":"udayah",
+    "h1":"udayah",
+    "title":"udayah --- synonyms, prabhupada.io",
+    "description":"development; glories; manifestation; raised; the attainment of; the greatness."
+}
+---
 
 ==== udayaḥ  ====
   * development --- [[books:sb:2:3:11|SB 2.3.11]]

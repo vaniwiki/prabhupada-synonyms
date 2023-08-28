@@ -1,5 +1,11 @@
-~~Title:dhāmne~~
-{{description>unto the supreme lord.}}
+---json
+{
+    "name":"dhāmne",
+    "h1":"dhāmne",
+    "title":"dhāmne --- synonyms, prabhupada.io",
+    "description":"unto the supreme lord."
+}
+---
 
 ==== dhāmne  ====
   * unto the supreme lord --- [[books:sb:7:3:26-27|SB 7.3.26-27]]

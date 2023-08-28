@@ -1,5 +1,11 @@
-~~Title:ketau~~
-{{description>who has a banner of Garuḍa.}}
+---json
+{
+    "name":"ketau",
+    "h1":"ketau",
+    "title":"ketau --- synonyms, prabhupada.io",
+    "description":"who has a banner of Garuḍa."
+}
+---
 
 ==== suparṇa-ketau  ====
   * who has a banner of Garuḍa --- [[books:sb:3:33:37|SB 3.33.37]]

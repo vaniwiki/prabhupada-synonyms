@@ -1,5 +1,11 @@
-~~Title:apādravat~~
-{{description>began to flee.}}
+---json
+{
+    "name":"apādravat",
+    "h1":"apādravat",
+    "title":"apādravat --- synonyms, prabhupada.io",
+    "description":"began to flee."
+}
+---
 
 ==== apādravat  ====
   * began to flee --- [[books:sb:4:17:14|SB 4.17.14]]

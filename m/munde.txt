@@ -1,5 +1,11 @@
-~~Title:muṇḍe~~
-{{description>on the head.}}
+---json
+{
+    "name":"muṇḍe",
+    "h1":"muṇḍe",
+    "title":"muṇḍe --- synonyms, prabhupada.io",
+    "description":"on the head."
+}
+---
 
 ==== muṇḍe  ====
   * on the head --- [[books:cc:madhya:2:29|Madhya 2.29]]

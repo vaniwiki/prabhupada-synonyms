@@ -1,5 +1,11 @@
-~~Title:banti~~
-{{description>distributed.}}
+---json
+{
+    "name":"banti",
+    "h1":"banti",
+    "title":"banti --- synonyms, prabhupada.io",
+    "description":"distributed."
+}
+---
 
 ==== bāṅṭi dila  ====
   * distributed --- [[books:cc:antya:6:72|Antya 6.72]]

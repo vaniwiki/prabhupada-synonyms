@@ -1,5 +1,11 @@
-~~Title:vāñchate~~
-{{description>desires.}}
+---json
+{
+    "name":"vāñchate",
+    "h1":"vāñchate",
+    "title":"vāñchate --- synonyms, prabhupada.io",
+    "description":"desires."
+}
+---
 
 ==== vāñchate  ====
   * desires --- [[books:sb:4:18:9-10|SB 4.18.9-10]]

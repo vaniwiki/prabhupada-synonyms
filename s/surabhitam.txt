@@ -1,5 +1,11 @@
-~~Title:surabhitām~~
-{{description>a good fragrance.}}
+---json
+{
+    "name":"surabhitām",
+    "h1":"surabhitām",
+    "title":"surabhitām --- synonyms, prabhupada.io",
+    "description":"a good fragrance."
+}
+---
 
 ==== surabhitām  ====
   * a good fragrance --- [[books:cc:antya:1:128|Antya 1.128]]

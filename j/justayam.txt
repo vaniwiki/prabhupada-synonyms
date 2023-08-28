@@ -1,5 +1,11 @@
-~~Title:juṣṭāyām~~
-{{description>fully decorated.}}
+---json
+{
+    "name":"juṣṭāyām",
+    "h1":"juṣṭāyām",
+    "title":"juṣṭāyām --- synonyms, prabhupada.io",
+    "description":"fully decorated."
+}
+---
 
 ==== juṣṭāyām  ====
   * fully decorated --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

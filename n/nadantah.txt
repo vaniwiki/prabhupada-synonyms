@@ -1,5 +1,11 @@
-~~Title:nadantaḥ~~
-{{description>vibrating.}}
+---json
+{
+    "name":"nadantaḥ",
+    "h1":"nadantaḥ",
+    "title":"nadantaḥ --- synonyms, prabhupada.io",
+    "description":"vibrating."
+}
+---
 
 ==== nadantaḥ  ====
   * vibrating --- [[books:sb:7:5:39-40|SB 7.5.39-40]]

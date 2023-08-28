@@ -1,5 +1,11 @@
-~~Title:āptān~~
-{{description>relatives.}}
+---json
+{
+    "name":"āptān",
+    "h1":"āptān",
+    "title":"āptān --- synonyms, prabhupada.io",
+    "description":"relatives."
+}
+---
 
 ==== āptān  ====
   * relatives --- [[books:sb:7:7:4-5|SB 7.7.4-5]]

@@ -1,5 +1,11 @@
-~~Title:bhita~~
-{{description>frightened.}}
+---json
+{
+    "name":"bhita",
+    "h1":"bhita",
+    "title":"bhita --- synonyms, prabhupada.io",
+    "description":"frightened."
+}
+---
 
 ==== bhīta  ====
   * frightened --- [[books:sb:7:9:15|SB 7.9.15]]

@@ -1,5 +1,11 @@
-~~Title:maksika~~
-{{description>a fly.}}
+---json
+{
+    "name":"maksika",
+    "h1":"maksika",
+    "title":"maksika --- synonyms, prabhupada.io",
+    "description":"a fly."
+}
+---
 
 ==== makṣikā  ====
   * a fly --- [[books:sb:5:14:42|SB 5.14.42]]

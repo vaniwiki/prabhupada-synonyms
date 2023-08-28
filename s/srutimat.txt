@@ -1,5 +1,11 @@
-~~Title:śrutimat~~
-{{description>hearing.}}
+---json
+{
+    "name":"śrutimat",
+    "h1":"śrutimat",
+    "title":"śrutimat --- synonyms, prabhupada.io",
+    "description":"hearing."
+}
+---
 
 ==== śrutimat  ====
   * hearing --- [[books:bg:13:14|Bg. 13.14]]

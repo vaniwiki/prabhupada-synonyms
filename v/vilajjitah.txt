@@ -1,5 +1,11 @@
-~~Title:vilajjitaḥ~~
-{{description>being ashamed.}}
+---json
+{
+    "name":"vilajjitaḥ",
+    "h1":"vilajjitaḥ",
+    "title":"vilajjitaḥ --- synonyms, prabhupada.io",
+    "description":"being ashamed."
+}
+---
 
 ==== vilajjitaḥ  ====
   * being ashamed --- [[books:sb:6:12:6|SB 6.12.6]]

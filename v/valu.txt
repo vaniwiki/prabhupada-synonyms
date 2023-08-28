@@ -1,5 +1,11 @@
-~~Title:vālu~~
-{{description>sand.}}
+---json
+{
+    "name":"vālu",
+    "h1":"vālu",
+    "title":"vālu --- synonyms, prabhupada.io",
+    "description":"sand."
+}
+---
 
 ==== vālu  ====
   * sand --- [[books:cc:antya:11:69|Antya 11.69]], [[books:cc:antya:18:71|Antya 18.71]]

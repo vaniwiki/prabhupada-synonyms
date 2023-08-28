@@ -1,5 +1,11 @@
-~~Title:viphala~~
-{{description>futile; unsuccessful.}}
+---json
+{
+    "name":"viphala",
+    "h1":"viphala",
+    "title":"viphala --- synonyms, prabhupada.io",
+    "description":"futile; unsuccessful."
+}
+---
 
 ==== viphala  ====
   * futile --- [[books:cc:madhya:2:30|Madhya 2.30]]

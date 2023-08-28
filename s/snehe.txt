@@ -1,5 +1,11 @@
-~~Title:snehe~~
-{{description>by love; in affection; in great affection; out of affection.}}
+---json
+{
+    "name":"snehe",
+    "h1":"snehe",
+    "title":"snehe --- synonyms, prabhupada.io",
+    "description":"by love; in affection; in great affection; out of affection."
+}
+---
 
 ==== snehe  ====
   * by love --- [[books:cc:madhya:12:28|Madhya 12.28]]

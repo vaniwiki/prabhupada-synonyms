@@ -1,5 +1,11 @@
-~~Title:jaihmyam~~
-{{description>crookedness.}}
+---json
+{
+    "name":"jaihmyam",
+    "h1":"jaihmyam",
+    "title":"jaihmyam --- synonyms, prabhupada.io",
+    "description":"crookedness."
+}
+---
 
 ==== jaihmyam  ====
   * crookedness --- [[books:cc:madhya:8:182|Madhya 8.182]]

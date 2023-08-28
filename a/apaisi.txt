@@ -1,5 +1,11 @@
-~~Title:apaiṣi~~
-{{description>separate.}}
+---json
+{
+    "name":"apaiṣi",
+    "h1":"apaiṣi",
+    "title":"apaiṣi --- synonyms, prabhupada.io",
+    "description":"separate."
+}
+---
 
 ==== apaiṣi  ====
   * separate --- [[books:sb:3:9:5|SB 3.9.5]]

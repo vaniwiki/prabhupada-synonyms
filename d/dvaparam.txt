@@ -1,5 +1,11 @@
-~~Title:dvāparam~~
-{{description>the age of Dvāpara.}}
+---json
+{
+    "name":"dvāparam",
+    "h1":"dvāparam",
+    "title":"dvāparam --- synonyms, prabhupada.io",
+    "description":"the age of Dvāpara."
+}
+---
 
 ==== dvāparam  ====
   * the age of Dvāpara --- [[books:sb:3:11:18|SB 3.11.18]]

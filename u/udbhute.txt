@@ -1,5 +1,11 @@
-~~Title:udbhūte~~
-{{description>when it was densely dark.}}
+---json
+{
+    "name":"udbhūte",
+    "h1":"udbhūte",
+    "title":"udbhūte --- synonyms, prabhupada.io",
+    "description":"when it was densely dark."
+}
+---
 
 ==== tamaḥ-udbhūte  ====
   * when it was densely dark --- [[books:sb:10:3:7-8|SB 10.3.7-8]]

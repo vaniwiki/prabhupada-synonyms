@@ -1,5 +1,11 @@
-~~Title:patamānaḥ~~
-{{description>even while falling down.}}
+---json
+{
+    "name":"patamānaḥ",
+    "h1":"patamānaḥ",
+    "title":"patamānaḥ --- synonyms, prabhupada.io",
+    "description":"even while falling down."
+}
+---
 
 ==== patamānaḥ api  ====
   * even while falling down --- [[books:sb:10:6:14|SB 10.6.14]]

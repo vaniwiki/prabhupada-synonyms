@@ -1,5 +1,11 @@
-~~Title:pāraye~~
-{{description>am able; am able to make.}}
+---json
+{
+    "name":"pāraye",
+    "h1":"pāraye",
+    "title":"pāraye --- synonyms, prabhupada.io",
+    "description":"am able; am able to make."
+}
+---
 
 ==== pāraye  ====
   * am able --- [[books:cc:madhya:8:93|Madhya 8.93]]

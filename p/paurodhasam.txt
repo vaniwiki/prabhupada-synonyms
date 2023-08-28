@@ -1,5 +1,11 @@
-~~Title:paurodhasam~~
-{{description>the duty of priesthood.}}
+---json
+{
+    "name":"paurodhasam",
+    "h1":"paurodhasam",
+    "title":"paurodhasam --- synonyms, prabhupada.io",
+    "description":"the duty of priesthood."
+}
+---
 
 ==== paurodhasam  ====
   * the duty of priesthood --- [[books:sb:6:7:36|SB 6.7.36]]

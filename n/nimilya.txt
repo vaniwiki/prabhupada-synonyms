@@ -1,5 +1,11 @@
-~~Title:nimīlya~~
-{{description>closing.}}
+---json
+{
+    "name":"nimīlya",
+    "h1":"nimīlya",
+    "title":"nimīlya --- synonyms, prabhupada.io",
+    "description":"closing."
+}
+---
 
 ==== nimīlya  ====
   * closing --- [[books:sb:4:1:25|SB 4.1.25]], [[books:sb:4:4:24|SB 4.4.24]]

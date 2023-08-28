@@ -1,5 +1,11 @@
-~~Title:kimpuruṣe~~
-{{description>the tract of land known as Kimpuruṣa.}}
+---json
+{
+    "name":"kimpuruṣe",
+    "h1":"kimpuruṣe",
+    "title":"kimpuruṣe --- synonyms, prabhupada.io",
+    "description":"the tract of land known as Kimpuruṣa."
+}
+---
 
 ==== kimpuruṣe varṣe  ====
   * the tract of land known as Kimpuruṣa --- [[books:sb:5:19:1|SB 5.19.1]]

@@ -1,5 +1,11 @@
-~~Title:brūte~~
-{{description>explains; he speaks.}}
+---json
+{
+    "name":"brūte",
+    "h1":"brūte",
+    "title":"brūte --- synonyms, prabhupada.io",
+    "description":"explains; he speaks."
+}
+---
 
 ==== brūte  ====
   * explains --- [[books:sb:8:14:8|SB 8.14.8]]

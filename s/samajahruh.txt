@@ -1,5 +1,11 @@
-~~Title:samājahruḥ~~
-{{description>collected.}}
+---json
+{
+    "name":"samājahruḥ",
+    "h1":"samājahruḥ",
+    "title":"samājahruḥ --- synonyms, prabhupada.io",
+    "description":"collected."
+}
+---
 
 ==== samājahruḥ  ====
   * collected --- [[books:sb:4:15:12|SB 4.15.12]]

@@ -1,5 +1,11 @@
-~~Title:adhyayana~~
-{{description>studies of the Vedas; study; study of scripture; study of Vedic literature; studying.}}
+---json
+{
+    "name":"adhyayana",
+    "h1":"adhyayana",
+    "title":"adhyayana --- synonyms, prabhupada.io",
+    "description":"studies of the Vedas; study; study of scripture; study of Vedic literature; studying."
+}
+---
 
 ==== adhyayana  ====
   * studies of the //Vedas// --- [[books:sb:7:11:13|SB 7.11.13]]

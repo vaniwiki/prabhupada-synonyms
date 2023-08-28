@@ -1,5 +1,11 @@
-~~Title:tanhai~~
-{{description>there at Vārāṇasī.}}
+---json
+{
+    "name":"tanhai",
+    "h1":"tanhai",
+    "title":"tanhai --- synonyms, prabhupada.io",
+    "description":"there at Vārāṇasī."
+}
+---
 
 ==== tāṅhai  ====
   * there at Vārāṇasī --- [[books:cc:adi:7:47|Ādi 7.47]]

@@ -1,5 +1,11 @@
-~~Title:preyaḥ~~
-{{description>very pleasing.}}
+---json
+{
+    "name":"preyaḥ",
+    "h1":"preyaḥ",
+    "title":"preyaḥ --- synonyms, prabhupada.io",
+    "description":"very pleasing."
+}
+---
 
 ==== preyaḥ-kara  ====
   * very pleasing --- [[books:sb:4:23:20|SB 4.23.20]]

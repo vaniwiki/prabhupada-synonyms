@@ -1,5 +1,11 @@
-~~Title:dola~~
-{{description>palanquin.}}
+---json
+{
+    "name":"dola",
+    "h1":"dola",
+    "title":"dola --- synonyms, prabhupada.io",
+    "description":"palanquin."
+}
+---
 
 ==== dolā  ====
   * palanquin --- [[books:cc:adi:13:114|Ādi 13.114]]

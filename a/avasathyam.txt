@@ -1,5 +1,11 @@
-~~Title:āvasathyam~~
-{{description>fire of worship.}}
+---json
+{
+    "name":"āvasathyam",
+    "h1":"āvasathyam",
+    "title":"āvasathyam --- synonyms, prabhupada.io",
+    "description":"fire of worship."
+}
+---
 
 ==== āvasathyam  ====
   * fire of worship --- [[books:sb:3:13:37|SB 3.13.37]]

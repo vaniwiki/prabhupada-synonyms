@@ -1,5 +1,11 @@
-~~Title:adri~~
-{{description>hill; hills; mountains; of Govardhana Hill; of mountain s.}}
+---json
+{
+    "name":"adri",
+    "h1":"adri",
+    "title":"adri --- synonyms, prabhupada.io",
+    "description":"hill; hills; mountains; of Govardhana Hill; of mountain s."
+}
+---
 
 ==== adri  ====
   * hill --- [[books:sb:3:1:18|SB 3.1.18]], [[books:sb:4:23:21|SB 4.23.21]]

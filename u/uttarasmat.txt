@@ -1,5 +1,11 @@
-~~Title:uttarasmāt~~
-{{description>above.}}
+---json
+{
+    "name":"uttarasmāt",
+    "h1":"uttarasmāt",
+    "title":"uttarasmāt --- synonyms, prabhupada.io",
+    "description":"above."
+}
+---
 
 ==== uttarasmāt  ====
   * above --- [[books:sb:5:22:17|SB 5.22.17]]

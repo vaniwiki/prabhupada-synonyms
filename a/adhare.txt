@@ -1,5 +1,11 @@
-~~Title:adhare~~
-{{description>on the lips.}}
+---json
+{
+    "name":"adhare",
+    "h1":"adhare",
+    "title":"adhare --- synonyms, prabhupada.io",
+    "description":"on the lips."
+}
+---
 
 ==== adhare  ====
   * on the lips --- [[books:sb:8:20:25-29|SB 8.20.25-29]], [[books:cc:antya:1:166|Antya 1.166]]

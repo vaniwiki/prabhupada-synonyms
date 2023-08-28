@@ -1,5 +1,11 @@
-~~Title:vajrāt~~
-{{description>than a thunderbolt.}}
+---json
+{
+    "name":"vajrāt",
+    "h1":"vajrāt",
+    "title":"vajrāt --- synonyms, prabhupada.io",
+    "description":"than a thunderbolt."
+}
+---
 
 ==== vajrāt api  ====
   * than a thunderbolt --- [[books:cc:madhya:7:73|Madhya 7.73]]

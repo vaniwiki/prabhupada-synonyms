@@ -1,5 +1,11 @@
-~~Title:hālāhalam~~
-{{description>called hālahala.}}
+---json
+{
+    "name":"hālāhalam",
+    "h1":"hālāhalam",
+    "title":"hālāhalam --- synonyms, prabhupada.io",
+    "description":"called hālahala."
+}
+---
 
 ==== hālāhalam  ====
   * called //hālahala// --- [[books:sb:8:7:42|SB 8.7.42]]

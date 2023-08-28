@@ -1,5 +1,11 @@
-~~Title:aṇimānam~~
-{{description>infinitesimal.}}
+---json
+{
+    "name":"aṇimānam",
+    "h1":"aṇimānam",
+    "title":"aṇimānam --- synonyms, prabhupada.io",
+    "description":"infinitesimal."
+}
+---
 
 ==== aṇimānam  ====
   * infinitesimal --- [[books:sb:3:25:17|SB 3.25.17]]

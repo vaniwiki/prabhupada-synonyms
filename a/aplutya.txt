@@ -1,5 +1,11 @@
-~~Title:āplutya~~
-{{description>taking a bath.}}
+---json
+{
+    "name":"āplutya",
+    "h1":"āplutya",
+    "title":"āplutya --- synonyms, prabhupada.io",
+    "description":"taking a bath."
+}
+---
 
 ==== āplutya  ====
   * taking a bath --- [[books:sb:4:2:35|SB 4.2.35]]

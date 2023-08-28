@@ -1,5 +1,11 @@
-~~Title:jantūn~~
-{{description>all the animals; poor animals; the animals.}}
+---json
+{
+    "name":"jantūn",
+    "h1":"jantūn",
+    "title":"jantūn --- synonyms, prabhupada.io",
+    "description":"all the animals; poor animals; the animals."
+}
+---
 
 ==== jantūn  ====
   * all the animals --- [[books:sb:10:11:39-40|SB 10.11.39-40]]

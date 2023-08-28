@@ -1,5 +1,11 @@
-~~Title:hanam~~
-{{description>troubling.}}
+---json
+{
+    "name":"hanam",
+    "h1":"hanam",
+    "title":"hanam --- synonyms, prabhupada.io",
+    "description":"troubling."
+}
+---
 
 ==== hanam  ====
   * troubling --- [[books:sb:3:15:1|SB 3.15.1]]

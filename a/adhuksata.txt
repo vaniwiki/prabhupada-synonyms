@@ -1,5 +1,11 @@
-~~Title:adhukṣata~~
-{{description>took out.}}
+---json
+{
+    "name":"adhukṣata",
+    "h1":"adhukṣata",
+    "title":"adhukṣata --- synonyms, prabhupada.io",
+    "description":"took out."
+}
+---
 
 ==== adhukṣata  ====
   * took out --- [[books:sb:4:18:18|SB 4.18.18]]

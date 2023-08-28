@@ -1,5 +1,11 @@
-~~Title:pāiye~~
-{{description>appearing; I can get; I get; one gets; we can get; we get; we shall get; you will get.}}
+---json
+{
+    "name":"pāiye",
+    "h1":"pāiye",
+    "title":"pāiye --- synonyms, prabhupada.io",
+    "description":"appearing; I can get; I get; one gets; we can get; we get; we shall get; you will get."
+}
+---
 
 ==== pāiye  ====
   * appearing --- [[books:cc:madhya:19:188|Madhya 19.188]]

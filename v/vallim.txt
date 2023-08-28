@@ -1,5 +1,11 @@
-~~Title:vallīm~~
-{{description>the branches of a creeper.}}
+---json
+{
+    "name":"vallīm",
+    "h1":"vallīm",
+    "title":"vallīm --- synonyms, prabhupada.io",
+    "description":"the branches of a creeper."
+}
+---
 
 ==== vallīm  ====
   * the branches of a creeper --- [[books:sb:5:13:18|SB 5.13.18]]

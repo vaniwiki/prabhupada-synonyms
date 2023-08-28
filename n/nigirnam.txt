@@ -1,5 +1,11 @@
-~~Title:nigīrṇam~~
-{{description>things eaten.}}
+---json
+{
+    "name":"nigīrṇam",
+    "h1":"nigīrṇam",
+    "title":"nigīrṇam --- synonyms, prabhupada.io",
+    "description":"things eaten."
+}
+---
 
 ==== nigīrṇam  ====
   * things eaten --- [[books:sb:3:25:33|SB 3.25.33]]

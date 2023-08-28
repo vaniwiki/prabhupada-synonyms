@@ -1,5 +1,11 @@
-~~Title:sambhārān~~
-{{description>ingredients.}}
+---json
+{
+    "name":"sambhārān",
+    "h1":"sambhārān",
+    "title":"sambhārān --- synonyms, prabhupada.io",
+    "description":"ingredients."
+}
+---
 
 ==== sambhārān  ====
   * ingredients --- [[books:sb:2:6:23|SB 2.6.23]]

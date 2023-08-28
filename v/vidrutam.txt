@@ -1,5 +1,11 @@
-~~Title:vidrutam~~
-{{description>melted in transcendental bliss.}}
+---json
+{
+    "name":"vidrutam",
+    "h1":"vidrutam",
+    "title":"vidrutam --- synonyms, prabhupada.io",
+    "description":"melted in transcendental bliss."
+}
+---
 
 ==== sukha-vidrutam  ====
   * melted in transcendental bliss --- [[books:cc:madhya:8:69|Madhya 8.69]]

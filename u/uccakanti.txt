@@ -1,5 +1,11 @@
-~~Title:uccakanti~~
-{{description>perceive.}}
+---json
+{
+    "name":"uccakanti",
+    "h1":"uccakanti",
+    "title":"uccakanti --- synonyms, prabhupada.io",
+    "description":"perceive."
+}
+---
 
 ==== uccakanti  ====
   * perceive --- [[books:sb:6:16:48|SB 6.16.48]]

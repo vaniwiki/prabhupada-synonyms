@@ -1,5 +1,11 @@
-~~Title:aprayogaḥ~~
-{{description>nonapplication.}}
+---json
+{
+    "name":"aprayogaḥ",
+    "h1":"aprayogaḥ",
+    "title":"aprayogaḥ --- synonyms, prabhupada.io",
+    "description":"nonapplication."
+}
+---
 
 ==== aprayogaḥ  ====
   * nonapplication --- [[books:cc:madhya:24:151|Madhya 24.151]], [[books:cc:madhya:24:297|Madhya 24.297]]

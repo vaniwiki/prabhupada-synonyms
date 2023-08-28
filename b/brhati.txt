@@ -1,5 +1,11 @@
-~~Title:bṛhatī~~
-{{description>another type of verse; great.}}
+---json
+{
+    "name":"bṛhatī",
+    "h1":"bṛhatī",
+    "title":"bṛhatī --- synonyms, prabhupada.io",
+    "description":"another type of verse; great."
+}
+---
 
 ==== bṛhatī  ====
   * another type of verse --- [[books:sb:3:12:46|SB 3.12.46]]

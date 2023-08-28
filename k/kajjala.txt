@@ -1,5 +1,11 @@
-~~Title:kajjala~~
-{{description>the ointment.}}
+---json
+{
+    "name":"kajjala",
+    "h1":"kajjala",
+    "title":"kajjala --- synonyms, prabhupada.io",
+    "description":"the ointment."
+}
+---
 
 ==== kajjala  ====
   * the ointment --- [[books:cc:madhya:8:173|Madhya 8.173]]

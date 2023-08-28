@@ -1,5 +1,11 @@
-~~Title:madhyamah~~
-{{description>a second-class devotee; mediocre; second-class or middle-class devotee; the middle one.}}
+---json
+{
+    "name":"madhyamah",
+    "h1":"madhyamah",
+    "title":"madhyamah --- synonyms, prabhupada.io",
+    "description":"a second-class devotee; mediocre; second-class or middle-class devotee; the middle one."
+}
+---
 
 ==== madhyamaḥ  ====
   * a second-class devotee --- [[books:cc:madhya:22:73|Madhya 22.73]]

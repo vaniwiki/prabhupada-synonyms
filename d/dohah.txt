@@ -1,5 +1,11 @@
-~~Title:dohāḥ~~
-{{description>yielding.}}
+---json
+{
+    "name":"dohāḥ",
+    "h1":"dohāḥ",
+    "title":"dohāḥ --- synonyms, prabhupada.io",
+    "description":"yielding."
+}
+---
 
 ==== dohāḥ  ====
   * yielding --- [[books:sb:3:17:13|SB 3.17.13]]

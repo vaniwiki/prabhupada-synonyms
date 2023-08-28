@@ -1,5 +1,11 @@
-~~Title:apāśraya~~
-{{description>having taken shelter of the devotees of the Lord.}}
+---json
+{
+    "name":"apāśraya",
+    "h1":"apāśraya",
+    "title":"apāśraya --- synonyms, prabhupada.io",
+    "description":"having taken shelter of the devotees of the Lord."
+}
+---
 
 ==== apāśraya-āśrayāḥ  ====
   * having taken shelter of the devotees of the Lord --- [[books:sb:2:4:18|SB 2.4.18]]

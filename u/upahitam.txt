@@ -1,5 +1,11 @@
-~~Title:upāhitām~~
-{{description>placed.}}
+---json
+{
+    "name":"upāhitām",
+    "h1":"upāhitām",
+    "title":"upāhitām --- synonyms, prabhupada.io",
+    "description":"placed."
+}
+---
 
 ==== upāhitām  ====
   * placed --- [[books:cc:antya:10:21|Antya 10.21]]

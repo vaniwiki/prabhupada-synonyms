@@ -1,5 +1,11 @@
-~~Title:sakhāyau~~
-{{description>friends.}}
+---json
+{
+    "name":"sakhāyau",
+    "h1":"sakhāyau",
+    "title":"sakhāyau --- synonyms, prabhupada.io",
+    "description":"friends."
+}
+---
 
 ==== sakhāyau  ====
   * friends --- [[books:sb:4:28:54|SB 4.28.54]]

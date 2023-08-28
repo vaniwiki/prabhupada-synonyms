@@ -1,5 +1,11 @@
-~~Title:varmani~~
-{{description>protector.}}
+---json
+{
+    "name":"varmani",
+    "h1":"varmani",
+    "title":"varmani --- synonyms, prabhupada.io",
+    "description":"protector."
+}
+---
 
 ==== varmaṇi  ====
   * protector --- [[books:sb:1:1:23|SB 1.1.23]]

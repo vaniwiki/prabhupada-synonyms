@@ -1,5 +1,11 @@
-~~Title:rahasyaḥ~~
-{{description>one who understands the intricacies of military art.}}
+---json
+{
+    "name":"rahasyaḥ",
+    "h1":"rahasyaḥ",
+    "title":"rahasyaḥ --- synonyms, prabhupada.io",
+    "description":"one who understands the intricacies of military art."
+}
+---
 
 ==== dhanuḥ-rahasyaḥ  ====
   * one who understands the intricacies of military art --- [[books:sb:3:1:31|SB 3.1.31]]

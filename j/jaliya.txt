@@ -1,5 +1,11 @@
-~~Title:jāliyā~~
-{{description>a fisherman; fisherman; O fisherman.}}
+---json
+{
+    "name":"jāliyā",
+    "h1":"jāliyā",
+    "title":"jāliyā --- synonyms, prabhupada.io",
+    "description":"a fisherman; fisherman; O fisherman."
+}
+---
 
 ==== jāliyā  ====
   * a fisherman --- [[books:cc:antya:20:135|Antya 20.135]]

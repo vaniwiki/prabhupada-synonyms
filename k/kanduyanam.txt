@@ -1,5 +1,11 @@
-~~Title:kaṇḍūyanam~~
-{{description>as pleasing scratching of the body.}}
+---json
+{
+    "name":"kaṇḍūyanam",
+    "h1":"kaṇḍūyanam",
+    "title":"kaṇḍūyanam --- synonyms, prabhupada.io",
+    "description":"as pleasing scratching of the body."
+}
+---
 
 ==== aṅga-kaṇḍūyanam  ====
   * as pleasing scratching of the body --- [[books:sb:8:7:10|SB 8.7.10]]

@@ -1,5 +1,11 @@
-~~Title:srjila~~
-{{description>created.}}
+---json
+{
+    "name":"srjila",
+    "h1":"srjila",
+    "title":"srjila --- synonyms, prabhupada.io",
+    "description":"created."
+}
+---
 
 ==== sṛjila  ====
   * created --- [[books:cc:madhya:20:277|Madhya 20.277]]

@@ -1,5 +1,11 @@
-~~Title:gharete~~
-{{description>at home; at My home.}}
+---json
+{
+    "name":"gharete",
+    "h1":"gharete",
+    "title":"gharete --- synonyms, prabhupada.io",
+    "description":"at home; at My home."
+}
+---
 
 ==== gharete  ====
   * at home --- [[books:cc:madhya:19:21|Madhya 19.21]]

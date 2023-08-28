@@ -1,5 +1,11 @@
-~~Title:paretya~~
-{{description>having died; having gone a long distance; in the next life.}}
+---json
+{
+    "name":"paretya",
+    "h1":"paretya",
+    "title":"paretya --- synonyms, prabhupada.io",
+    "description":"having died; having gone a long distance; in the next life."
+}
+---
 
 ==== paretya  ====
   * having died --- [[books:sb:5:26:27|SB 5.26.27]]

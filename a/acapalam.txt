@@ -1,5 +1,11 @@
-~~Title:acāpalam~~
-{{description>determination.}}
+---json
+{
+    "name":"acāpalam",
+    "h1":"acāpalam",
+    "title":"acāpalam --- synonyms, prabhupada.io",
+    "description":"determination."
+}
+---
 
 ==== acāpalam  ====
   * determination --- [[books:bg:16:1-3|Bg. 16.1-3]]

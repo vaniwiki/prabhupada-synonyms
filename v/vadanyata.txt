@@ -1,5 +1,11 @@
-~~Title:vadānyatā~~
-{{description>magnanimity.}}
+---json
+{
+    "name":"vadānyatā",
+    "h1":"vadānyatā",
+    "title":"vadānyatā --- synonyms, prabhupada.io",
+    "description":"magnanimity."
+}
+---
 
 ==== vadānyatā  ====
   * magnanimity --- [[books:cc:adi:7:1|Ādi 7.1]], [[books:cc:madhya:24:42|Madhya 24.42]]

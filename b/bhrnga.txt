@@ -1,5 +1,11 @@
-~~Title:bhṛṅga~~
-{{description>bees; bumblebee; bumblebees; of bumblebees; the bee; the bumblebees.}}
+---json
+{
+    "name":"bhṛṅga",
+    "h1":"bhṛṅga",
+    "title":"bhṛṅga --- synonyms, prabhupada.io",
+    "description":"bees; bumblebee; bumblebees; of bumblebees; the bee; the bumblebees."
+}
+---
 
 ==== bhṛṅga  ====
   * bees --- [[books:sb:8:15:20|SB 8.15.20]]

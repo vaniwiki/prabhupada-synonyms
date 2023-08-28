@@ -1,5 +1,11 @@
-~~Title:samaraḥ~~
-{{description>a fight; battle.}}
+---json
+{
+    "name":"samaraḥ",
+    "h1":"samaraḥ",
+    "title":"samaraḥ --- synonyms, prabhupada.io",
+    "description":"a fight; battle."
+}
+---
 
 ==== samaraḥ  ====
   * a fight --- [[books:sb:9:6:13|SB 9.6.13]], [[books:sb:9:14:7|SB 9.14.7]]

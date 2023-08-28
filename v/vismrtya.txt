@@ -1,5 +1,11 @@
-~~Title:vismṛtya~~
-{{description>forgetting.}}
+---json
+{
+    "name":"vismṛtya",
+    "h1":"vismṛtya",
+    "title":"vismṛtya --- synonyms, prabhupada.io",
+    "description":"forgetting."
+}
+---
 
 ==== vismṛtya  ====
   * forgetting --- [[books:sb:7:13:28|SB 7.13.28]]

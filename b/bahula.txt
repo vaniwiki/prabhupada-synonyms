@@ -1,5 +1,11 @@
-~~Title:bahula~~
-{{description>abundant; large quantities.}}
+---json
+{
+    "name":"bahula",
+    "h1":"bahula",
+    "title":"bahula --- synonyms, prabhupada.io",
+    "description":"abundant; large quantities."
+}
+---
 
 ==== bahula  ====
   * abundant --- [[books:sb:3:28:33|SB 3.28.33]]

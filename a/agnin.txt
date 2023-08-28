@@ -1,5 +1,11 @@
-~~Title:agnīn~~
-{{description>fire; fire-gods; in the fire; into the fires; the fire elements within the body; the sacrificial fires.}}
+---json
+{
+    "name":"agnīn",
+    "h1":"agnīn",
+    "title":"agnīn --- synonyms, prabhupada.io",
+    "description":"fire; fire-gods; in the fire; into the fires; the fire elements within the body; the sacrificial fires."
+}
+---
 
 ==== agnīn  ====
   * fire --- [[books:sb:1:15:39|SB 1.15.39]]

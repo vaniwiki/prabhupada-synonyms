@@ -1,5 +1,11 @@
-~~Title:cīriṇam~~
-{{description>clothed in rags.}}
+---json
+{
+    "name":"cīriṇam",
+    "h1":"cīriṇam",
+    "title":"cīriṇam --- synonyms, prabhupada.io",
+    "description":"clothed in rags."
+}
+---
 
 ==== cīriṇam  ====
   * clothed in rags --- [[books:sb:3:33:14|SB 3.33.14]]

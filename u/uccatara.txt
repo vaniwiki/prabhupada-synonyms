@@ -1,5 +1,11 @@
-~~Title:uccatara~~
-{{description>very high.}}
+---json
+{
+    "name":"uccatara",
+    "h1":"uccatara",
+    "title":"uccatara --- synonyms, prabhupada.io",
+    "description":"very high."
+}
+---
 
 ==== ati uccatara  ====
   * very high --- [[books:cc:madhya:9:312|Madhya 9.312]]

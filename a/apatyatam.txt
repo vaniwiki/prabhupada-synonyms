@@ -1,5 +1,11 @@
-~~Title:apatyatām~~
-{{description>sonhood.}}
+---json
+{
+    "name":"apatyatām",
+    "h1":"apatyatām",
+    "title":"apatyatām --- synonyms, prabhupada.io",
+    "description":"sonhood."
+}
+---
 
 ==== apatyatām  ====
   * sonhood --- [[books:sb:5:4:6|SB 5.4.6]]

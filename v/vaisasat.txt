@@ -1,5 +1,11 @@
-~~Title:vaiśasāt~~
-{{description>from killing.}}
+---json
+{
+    "name":"vaiśasāt",
+    "h1":"vaiśasāt",
+    "title":"vaiśasāt --- synonyms, prabhupada.io",
+    "description":"from killing."
+}
+---
 
 ==== vaiśasāt  ====
   * from killing --- [[books:sb:4:12:1|SB 4.12.1]]

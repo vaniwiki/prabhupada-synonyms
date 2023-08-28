@@ -1,5 +1,11 @@
-~~Title:udan~~
-{{description>facing the northern side.}}
+---json
+{
+    "name":"udan",
+    "h1":"udan",
+    "title":"udan --- synonyms, prabhupada.io",
+    "description":"facing the northern side."
+}
+---
 
 ==== udaṅ-mukhaḥ  ====
   * facing the northern side --- [[books:sb:1:19:17|SB 1.19.17]]

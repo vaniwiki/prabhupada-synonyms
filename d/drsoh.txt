@@ -1,5 +1,11 @@
-~~Title:drsoh~~
-{{description>of the two eyes.}}
+---json
+{
+    "name":"drsoh",
+    "h1":"drsoh",
+    "title":"drsoh --- synonyms, prabhupada.io",
+    "description":"of the two eyes."
+}
+---
 
 ==== drśoḥ  ====
   * of the two eyes --- [[books:cc:adi:3:66|Ādi 3.66]]

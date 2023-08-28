@@ -1,5 +1,11 @@
-~~Title:iñā~~
-{{description>taking.}}
+---json
+{
+    "name":"iñā",
+    "h1":"iñā",
+    "title":"iñā --- synonyms, prabhupada.io",
+    "description":"taking."
+}
+---
 
 ==== la-iñā  ====
   * taking --- [[books:cc:madhya:1:124|Madhya 1.124]]

@@ -1,5 +1,11 @@
-~~Title:sanghah~~
-{{description>all of them; assemblies; combination; stack.}}
+---json
+{
+    "name":"sanghah",
+    "h1":"sanghah",
+    "title":"sanghah --- synonyms, prabhupada.io",
+    "description":"all of them; assemblies; combination; stack."
+}
+---
 
 ==== saṅghāḥ  ====
   * all of them --- [[books:sb:1:19:18|SB 1.19.18]]

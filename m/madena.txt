@@ -1,5 +1,11 @@
-~~Title:madena~~
-{{description>by madness; with vanity.}}
+---json
+{
+    "name":"madena",
+    "h1":"madena",
+    "title":"madena --- synonyms, prabhupada.io",
+    "description":"by madness; with vanity."
+}
+---
 
 ==== madena  ====
   * by madness --- [[books:sb:5:10:8|SB 5.10.8]]

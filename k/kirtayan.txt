@@ -1,5 +1,11 @@
-~~Title:kīrtayan~~
-{{description>by chanting; chanting.}}
+---json
+{
+    "name":"kīrtayan",
+    "h1":"kīrtayan",
+    "title":"kīrtayan --- synonyms, prabhupada.io",
+    "description":"by chanting; chanting."
+}
+---
 
 ==== kīrtayan  ====
   * by chanting --- [[books:sb:1:9:23|SB 1.9.23]]

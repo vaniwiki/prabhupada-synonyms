@@ -1,5 +1,11 @@
-~~Title:pah~~
-{{description>the trees.}}
+---json
+{
+    "name":"pah",
+    "h1":"pah",
+    "title":"pah --- synonyms, prabhupada.io",
+    "description":"the trees."
+}
+---
 
 ==== aṅghri-pāḥ  ====
   * the trees --- [[books:cc:madhya:23:114|Madhya 23.114]]

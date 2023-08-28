@@ -1,5 +1,11 @@
-~~Title:padiya~~
-{{description>after studying; by chanting; falling down; falling flat; lying down; reading; reciting.}}
+---json
+{
+    "name":"padiya",
+    "h1":"padiya",
+    "title":"padiya --- synonyms, prabhupada.io",
+    "description":"after studying; by chanting; falling down; falling flat; lying down; reading; reciting."
+}
+---
 
 ==== paḍiyā  ====
   * after studying --- [[books:cc:adi:15:28|Ādi 15.28]]

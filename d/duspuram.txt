@@ -1,5 +1,11 @@
-~~Title:duṣpūram~~
-{{description>insatiable.}}
+---json
+{
+    "name":"duṣpūram",
+    "h1":"duṣpūram",
+    "title":"duṣpūram --- synonyms, prabhupada.io",
+    "description":"insatiable."
+}
+---
 
 ==== duṣpūram  ====
   * insatiable --- [[books:bg:16:10|Bg. 16.10]]

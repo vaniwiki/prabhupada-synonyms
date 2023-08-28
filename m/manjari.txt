@@ -1,5 +1,11 @@
-~~Title:mañjarī~~
-{{description>eight tulasī flowers.}}
+---json
+{
+    "name":"mañjarī",
+    "h1":"mañjarī",
+    "title":"mañjarī --- synonyms, prabhupada.io",
+    "description":"eight tulasī flowers."
+}
+---
 
 ==== aṣṭa-mañjarī  ====
   * eight //tulasī// flowers --- [[books:cc:antya:6:297|Antya 6.297]]

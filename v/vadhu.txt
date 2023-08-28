@@ -1,5 +1,11 @@
-~~Title:vadhū~~
-{{description>wife.}}
+---json
+{
+    "name":"vadhū",
+    "h1":"vadhū",
+    "title":"vadhū --- synonyms, prabhupada.io",
+    "description":"wife."
+}
+---
 
 ==== vadhū  ====
   * wife --- [[books:cc:antya:20:12|Antya 20.12]]

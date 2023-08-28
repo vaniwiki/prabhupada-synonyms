@@ -1,5 +1,11 @@
-~~Title:puraṭa~~
-{{description>gold; golden; made of gold; than gold.}}
+---json
+{
+    "name":"puraṭa",
+    "h1":"puraṭa",
+    "title":"puraṭa --- synonyms, prabhupada.io",
+    "description":"gold; golden; made of gold; than gold."
+}
+---
 
 ==== puraṭa  ====
   * gold --- [[books:sb:1:12:8|SB 1.12.8]]

@@ -1,5 +1,11 @@
-~~Title:saṁsmaret~~
-{{description>may remember.}}
+---json
+{
+    "name":"saṁsmaret",
+    "h1":"saṁsmaret",
+    "title":"saṁsmaret --- synonyms, prabhupada.io",
+    "description":"may remember."
+}
+---
 
 ==== saṁsmaret  ====
   * may remember --- [[books:sb:9:4:12|SB 9.4.12]]

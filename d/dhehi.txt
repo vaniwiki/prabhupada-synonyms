@@ -1,5 +1,11 @@
-~~Title:dhehi~~
-{{description>do let me know; just consider.}}
+---json
+{
+    "name":"dhehi",
+    "h1":"dhehi",
+    "title":"dhehi --- synonyms, prabhupada.io",
+    "description":"do let me know; just consider."
+}
+---
 
 ==== dhehi  ====
   * do let me know --- [[books:sb:2:9:28|SB 2.9.28]]

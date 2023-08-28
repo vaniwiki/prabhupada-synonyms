@@ -1,5 +1,11 @@
-~~Title:snāpayām~~
-{{description>he bathed.}}
+---json
+{
+    "name":"snāpayām",
+    "h1":"snāpayām",
+    "title":"snāpayām --- synonyms, prabhupada.io",
+    "description":"he bathed."
+}
+---
 
 ==== snāpayām āsa  ====
   * he bathed --- [[books:sb:4:9:44|SB 4.9.44]]

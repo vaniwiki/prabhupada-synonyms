@@ -1,5 +1,11 @@
-~~Title:pramadam~~
-{{description>pleasure.}}
+---json
+{
+    "name":"pramadam",
+    "h1":"pramadam",
+    "title":"pramadam --- synonyms, prabhupada.io",
+    "description":"pleasure."
+}
+---
 
 ==== pramadam  ====
   * pleasure --- [[books:cc:antya:1:150|Antya 1.150]]

@@ -1,5 +1,11 @@
-~~Title:anvitāya~~
-{{description>followed.}}
+---json
+{
+    "name":"anvitāya",
+    "h1":"anvitāya",
+    "title":"anvitāya --- synonyms, prabhupada.io",
+    "description":"followed."
+}
+---
 
 ==== anvitāya  ====
   * followed --- [[books:sb:3:8:8|SB 3.8.8]]

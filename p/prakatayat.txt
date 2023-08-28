@@ -1,5 +1,11 @@
-~~Title:prakaṭayat~~
-{{description>manifesting.}}
+---json
+{
+    "name":"prakaṭayat",
+    "h1":"prakaṭayat",
+    "title":"prakaṭayat --- synonyms, prabhupada.io",
+    "description":"manifesting."
+}
+---
 
 ==== prakaṭayat  ====
   * manifesting --- [[books:cc:antya:1:150|Antya 1.150]]

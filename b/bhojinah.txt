@@ -1,5 +1,11 @@
-~~Title:bhojinaḥ~~
-{{description>eating.}}
+---json
+{
+    "name":"bhojinaḥ",
+    "h1":"bhojinaḥ",
+    "title":"bhojinaḥ --- synonyms, prabhupada.io",
+    "description":"eating."
+}
+---
 
 ==== bhojinaḥ  ====
   * eating --- [[books:cc:madhya:15:237|Madhya 15.237]]

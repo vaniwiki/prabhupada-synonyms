@@ -1,5 +1,11 @@
-~~Title:galitam~~
-{{description>completely ripened; fully matured.}}
+---json
+{
+    "name":"galitam",
+    "h1":"galitam",
+    "title":"galitam --- synonyms, prabhupada.io",
+    "description":"completely ripened; fully matured."
+}
+---
 
 ==== galitam  ====
   * completely ripened --- [[books:cc:madhya:25:151|Madhya 25.151]]

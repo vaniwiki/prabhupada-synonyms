@@ -1,5 +1,11 @@
-~~Title:camūm~~
-{{description>military force; the soldiers of the demons.}}
+---json
+{
+    "name":"camūm",
+    "h1":"camūm",
+    "title":"camūm --- synonyms, prabhupada.io",
+    "description":"military force; the soldiers of the demons."
+}
+---
 
 ==== camūm  ====
   * military force --- [[books:bg:1:3|Bg. 1.3]]

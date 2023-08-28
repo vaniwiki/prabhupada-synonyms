@@ -1,5 +1,11 @@
-~~Title:abhāgiyā~~
-{{description>unfortunate.}}
+---json
+{
+    "name":"abhāgiyā",
+    "h1":"abhāgiyā",
+    "title":"abhāgiyā --- synonyms, prabhupada.io",
+    "description":"unfortunate."
+}
+---
 
 ==== abhāgiyā  ====
   * unfortunate --- [[books:cc:madhya:8:259|Madhya 8.259]]

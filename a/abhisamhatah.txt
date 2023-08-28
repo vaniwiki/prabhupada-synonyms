@@ -1,5 +1,11 @@
-~~Title:abhisaṁhatāḥ~~
-{{description>they were beaten.}}
+---json
+{
+    "name":"abhisaṁhatāḥ",
+    "h1":"abhisaṁhatāḥ",
+    "title":"abhisaṁhatāḥ --- synonyms, prabhupada.io",
+    "description":"they were beaten."
+}
+---
 
 ==== abhisaṁhatāḥ  ====
   * they were beaten --- [[books:sb:8:11:1|SB 8.11.1]]

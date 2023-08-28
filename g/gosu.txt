@@ -1,5 +1,11 @@
-~~Title:goṣu~~
-{{description>from cows; unto the cows.}}
+---json
+{
+    "name":"goṣu",
+    "h1":"goṣu",
+    "title":"goṣu --- synonyms, prabhupada.io",
+    "description":"from cows; unto the cows."
+}
+---
 
 ==== goṣu  ====
   * from cows --- [[books:sb:8:6:12|SB 8.6.12]]

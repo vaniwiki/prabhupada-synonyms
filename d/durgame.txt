@@ -1,5 +1,11 @@
-~~Title:durgame~~
-{{description>very difficult; very difficult to understand.}}
+---json
+{
+    "name":"durgame",
+    "h1":"durgame",
+    "title":"durgame --- synonyms, prabhupada.io",
+    "description":"very difficult; very difficult to understand."
+}
+---
 
 ==== durgame  ====
   * very difficult --- [[books:cc:antya:1:2|Antya 1.2]]

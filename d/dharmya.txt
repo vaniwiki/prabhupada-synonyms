@@ -1,5 +1,11 @@
-~~Title:dharmya~~
-{{description>generosity.}}
+---json
+{
+    "name":"dharmya",
+    "h1":"dharmya",
+    "title":"dharmya --- synonyms, prabhupada.io",
+    "description":"generosity."
+}
+---
 
 ==== dharmya  ====
   * generosity --- [[books:bg:12:20|Bg. 12.20]]

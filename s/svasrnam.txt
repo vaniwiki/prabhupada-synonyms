@@ -1,5 +1,11 @@
-~~Title:svasṝṇām~~
-{{description>of the sisters.}}
+---json
+{
+    "name":"svasṝṇām",
+    "h1":"svasṝṇām",
+    "title":"svasṝṇām --- synonyms, prabhupada.io",
+    "description":"of the sisters."
+}
+---
 
 ==== svasṝṇām  ====
   * of the sisters --- [[books:sb:3:1:27|SB 3.1.27]]

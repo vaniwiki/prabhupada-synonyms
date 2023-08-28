@@ -1,5 +1,11 @@
-~~Title:abhadre~~
-{{description>O unlucky one.}}
+---json
+{
+    "name":"abhadre",
+    "h1":"abhadre",
+    "title":"abhadre --- synonyms, prabhupada.io",
+    "description":"O unlucky one."
+}
+---
 
 ==== abhadre  ====
   * O unlucky one --- [[books:sb:3:14:39|SB 3.14.39]]

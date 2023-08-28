@@ -1,5 +1,11 @@
-~~Title:dikṣu~~
-{{description>all directions; directions; in all directions (east, west, north and south); in all directions; in different directions; in every direction; unto different directions.}}
+---json
+{
+    "name":"dikṣu",
+    "h1":"dikṣu",
+    "title":"dikṣu --- synonyms, prabhupada.io",
+    "description":"all directions; directions; in all directions (east, west, north and south); in all directions; in different directions; in every direction; unto different directions."
+}
+---
 
 ==== dikṣu  ====
   * all directions --- [[books:sb:1:8:6|SB 1.8.6]]

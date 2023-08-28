@@ -1,5 +1,11 @@
-~~Title:yuktān~~
-{{description>appropriately presented.}}
+---json
+{
+    "name":"yuktān",
+    "h1":"yuktān",
+    "title":"yuktān --- synonyms, prabhupada.io",
+    "description":"appropriately presented."
+}
+---
 
 ==== yuktān  ====
   * appropriately presented --- [[books:sb:1:19:22|SB 1.19.22]]

@@ -1,5 +1,11 @@
-~~Title:viṁśatim~~
-{{description>twenty-one.}}
+---json
+{
+    "name":"viṁśatim",
+    "h1":"viṁśatim",
+    "title":"viṁśatim --- synonyms, prabhupada.io",
+    "description":"twenty-one."
+}
+---
 
 ==== eka-viṁśatim  ====
   * twenty-one --- [[books:sb:5:26:7|SB 5.26.7]]

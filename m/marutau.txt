@@ -1,5 +1,11 @@
-~~Title:mārutau~~
-{{description>and air.}}
+---json
+{
+    "name":"mārutau",
+    "h1":"mārutau",
+    "title":"mārutau --- synonyms, prabhupada.io",
+    "description":"and air."
+}
+---
 
 ==== mārutau  ====
   * and air --- [[books:sb:4:30:45|SB 4.30.45]]

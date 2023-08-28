@@ -1,5 +1,11 @@
-~~Title:tuṣyat~~
-{{description>gladdened.}}
+---json
+{
+    "name":"tuṣyat",
+    "h1":"tuṣyat",
+    "title":"tuṣyat --- synonyms, prabhupada.io",
+    "description":"gladdened."
+}
+---
 
 ==== tuṣyat  ====
   * gladdened --- [[books:sb:3:16:11|SB 3.16.11]]

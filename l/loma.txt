@@ -1,5 +1,11 @@
-~~Title:loma~~
-{{description>body hair; hairs.}}
+---json
+{
+    "name":"loma",
+    "h1":"loma",
+    "title":"loma --- synonyms, prabhupada.io",
+    "description":"body hair; hairs."
+}
+---
 
 ==== loma  ====
   * body hair --- [[books:sb:3:31:3|SB 3.31.3]]

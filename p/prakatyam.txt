@@ -1,5 +1,11 @@
-~~Title:prākaṭyam~~
-{{description>the awakening.}}
+---json
+{
+    "name":"prākaṭyam",
+    "h1":"prākaṭyam",
+    "title":"prākaṭyam --- synonyms, prabhupada.io",
+    "description":"the awakening."
+}
+---
 
 ==== prākaṭyam  ====
   * the awakening --- [[books:cc:madhya:22:105|Madhya 22.105]]

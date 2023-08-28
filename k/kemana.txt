@@ -1,5 +1,11 @@
-~~Title:kemana~~
-{{description>by what means.}}
+---json
+{
+    "name":"kemana",
+    "h1":"kemana",
+    "title":"kemana --- synonyms, prabhupada.io",
+    "description":"by what means."
+}
+---
 
 ==== kemana upāye  ====
   * by what means --- [[books:cc:madhya:24:254|Madhya 24.254]]

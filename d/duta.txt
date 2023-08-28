@@ -1,5 +1,11 @@
-~~Title:dūta~~
-{{description>the attendants of Lord Viṣṇu.}}
+---json
+{
+    "name":"dūta",
+    "h1":"dūta",
+    "title":"dūta --- synonyms, prabhupada.io",
+    "description":"the attendants of Lord Viṣṇu."
+}
+---
 
 ==== viṣṇu-dūta  ====
   * the attendants of Lord Viṣṇu --- [[books:cc:antya:3:57|Antya 3.57]]

@@ -1,5 +1,11 @@
-~~Title:dudoha~~
-{{description>exploited; milked.}}
+---json
+{
+    "name":"dudoha",
+    "h1":"dudoha",
+    "title":"dudoha --- synonyms, prabhupada.io",
+    "description":"exploited; milked."
+}
+---
 
 ==== dudoha  ====
   * exploited --- [[books:sb:4:21:9|SB 4.21.9]]

@@ -1,5 +1,11 @@
-~~Title:vidha~~
-{{description>like; varieties.}}
+---json
+{
+    "name":"vidha",
+    "h1":"vidha",
+    "title":"vidha --- synonyms, prabhupada.io",
+    "description":"like; varieties."
+}
+---
 
 ==== vidha  ====
   * like --- [[books:cc:adi:5:72|Ādi 5.72]]

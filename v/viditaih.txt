@@ -1,5 +1,11 @@
-~~Title:viditaiḥ~~
-{{description>understood.}}
+---json
+{
+    "name":"viditaiḥ",
+    "h1":"viditaiḥ",
+    "title":"viditaiḥ --- synonyms, prabhupada.io",
+    "description":"understood."
+}
+---
 
 ==== viditaiḥ  ====
   * understood --- [[books:sb:3:15:47|SB 3.15.47]]

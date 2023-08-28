@@ -1,5 +1,11 @@
-~~Title:kitava~~
-{{description>O great cheater.}}
+---json
+{
+    "name":"kitava",
+    "h1":"kitava",
+    "title":"kitava --- synonyms, prabhupada.io",
+    "description":"O great cheater."
+}
+---
 
 ==== kitava  ====
   * O great cheater --- [[books:cc:madhya:19:210|Madhya 19.210]], [[books:cc:antya:7:42|Antya 7.42]]

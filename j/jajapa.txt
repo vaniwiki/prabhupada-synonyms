@@ -1,5 +1,11 @@
-~~Title:jajāpa~~
-{{description>chanted within the mouth; he chanted.}}
+---json
+{
+    "name":"jajāpa",
+    "h1":"jajāpa",
+    "title":"jajāpa --- synonyms, prabhupada.io",
+    "description":"chanted within the mouth; he chanted."
+}
+---
 
 ==== jajāpa  ====
   * chanted within the mouth --- [[books:sb:3:14:32|SB 3.14.32]]

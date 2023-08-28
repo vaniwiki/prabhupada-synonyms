@@ -1,5 +1,11 @@
-~~Title:upaśa~~
-{{description>which pacifies the miseries of the forest of material life.}}
+---json
+{
+    "name":"upaśa",
+    "h1":"upaśa",
+    "title":"upaśa --- synonyms, prabhupada.io",
+    "description":"which pacifies the miseries of the forest of material life."
+}
+---
 
 ==== tat-tāpa-upaśa-manīm  ====
   * which pacifies the miseries of the forest of material life --- [[books:sb:5:14:1|SB 5.14.1]]

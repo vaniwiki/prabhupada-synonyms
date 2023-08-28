@@ -1,5 +1,11 @@
-~~Title:śālva~~
-{{description>King Śālva.}}
+---json
+{
+    "name":"śālva",
+    "h1":"śālva",
+    "title":"śālva --- synonyms, prabhupada.io",
+    "description":"King Śālva."
+}
+---
 
 ==== śālva  ====
   * King Śālva --- [[books:sb:2:7:34-35|SB 2.7.34-35]], [[books:sb:3:3:10|SB 3.3.10]]

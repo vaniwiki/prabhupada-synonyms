@@ -1,5 +1,11 @@
-~~Title:aichebāta~~
-{{description>such a request.}}
+---json
+{
+    "name":"aichebāta",
+    "h1":"aichebāta",
+    "title":"aichebāta --- synonyms, prabhupada.io",
+    "description":"such a request."
+}
+---
 
 ==== aichebāta  ====
   * such a request --- [[books:cc:madhya:11:12|Madhya 11.12]]

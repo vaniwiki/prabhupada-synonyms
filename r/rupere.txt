@@ -1,5 +1,11 @@
-~~Title:rūpere~~
-{{description>met Rūpa Gosvāmī.}}
+---json
+{
+    "name":"rūpere",
+    "h1":"rūpere",
+    "title":"rūpere --- synonyms, prabhupada.io",
+    "description":"met Rūpa Gosvāmī."
+}
+---
 
 ==== rūpere mililā  ====
   * met Rūpa Gosvāmī --- [[books:cc:antya:1:53|Antya 1.53]]

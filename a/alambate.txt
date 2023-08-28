@@ -1,5 +1,11 @@
-~~Title:ālambate~~
-{{description>takes to.}}
+---json
+{
+    "name":"ālambate",
+    "h1":"ālambate",
+    "title":"ālambate --- synonyms, prabhupada.io",
+    "description":"takes to."
+}
+---
 
 ==== ālambate  ====
   * takes to --- [[books:cc:antya:1:145|Antya 1.145]]

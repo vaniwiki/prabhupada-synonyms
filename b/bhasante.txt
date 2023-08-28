@@ -1,5 +1,11 @@
-~~Title:bhāṣante~~
-{{description>speak.}}
+---json
+{
+    "name":"bhāṣante",
+    "h1":"bhāṣante",
+    "title":"bhāṣante --- synonyms, prabhupada.io",
+    "description":"speak."
+}
+---
 
 ==== bhāṣante  ====
   * speak --- [[books:cc:madhya:6:109|Madhya 6.109]]

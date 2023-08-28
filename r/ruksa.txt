@@ -1,5 +1,11 @@
-~~Title:rūkṣa~~
-{{description>dry; rough.}}
+---json
+{
+    "name":"rūkṣa",
+    "h1":"rūkṣa",
+    "title":"rūkṣa --- synonyms, prabhupada.io",
+    "description":"dry; rough."
+}
+---
 
 ==== rūkṣa  ====
   * dry --- [[books:sb:3:31:7|SB 3.31.7]]

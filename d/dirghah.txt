@@ -1,5 +1,11 @@
-~~Title:dīrghaḥ~~
-{{description>five large.}}
+---json
+{
+    "name":"dīrghaḥ",
+    "h1":"dīrghaḥ",
+    "title":"dīrghaḥ --- synonyms, prabhupada.io",
+    "description":"five large."
+}
+---
 
 ==== pañca-dīrghaḥ  ====
   * five large --- [[books:cc:adi:14:15|Ādi 14.15]]

@@ -1,5 +1,11 @@
-~~Title:vikṛta~~
-{{description>are deformed; moving to and fro.}}
+---json
+{
+    "name":"vikṛta",
+    "h1":"vikṛta",
+    "title":"vikṛta --- synonyms, prabhupada.io",
+    "description":"are deformed; moving to and fro."
+}
+---
 
 ==== vikṛta  ====
   * are deformed --- [[books:sb:8:10:10-12|SB 8.10.10-12]]

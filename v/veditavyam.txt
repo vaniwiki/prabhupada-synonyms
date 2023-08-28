@@ -1,5 +1,11 @@
-~~Title:veditavyam~~
-{{description>to be understood.}}
+---json
+{
+    "name":"veditavyam",
+    "h1":"veditavyam",
+    "title":"veditavyam --- synonyms, prabhupada.io",
+    "description":"to be understood."
+}
+---
 
 ==== veditavyam  ====
   * to be understood --- [[books:bg:11:18|Bg. 11.18]]

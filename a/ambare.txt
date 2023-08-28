@@ -1,5 +1,11 @@
-~~Title:ambare~~
-{{description>garments; in the sky; in the supreme sky.}}
+---json
+{
+    "name":"ambare",
+    "h1":"ambare",
+    "title":"ambare --- synonyms, prabhupada.io",
+    "description":"garments; in the sky; in the supreme sky."
+}
+---
 
 ==== ambare  ====
   * garments --- [[books:sb:6:19:2-3|SB 6.19.2-3]]

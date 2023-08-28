@@ -1,5 +1,11 @@
-~~Title:nṝn~~
-{{description>all of human society.}}
+---json
+{
+    "name":"nṝn",
+    "h1":"nṝn",
+    "title":"nṝn --- synonyms, prabhupada.io",
+    "description":"all of human society."
+}
+---
 
 ==== nṝn  ====
   * all of human society --- [[books:sb:8:1:16|SB 8.1.16]]

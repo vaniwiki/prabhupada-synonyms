@@ -1,5 +1,11 @@
-~~Title:gamiṣyāmi~~
-{{description>shall go.}}
+---json
+{
+    "name":"gamiṣyāmi",
+    "h1":"gamiṣyāmi",
+    "title":"gamiṣyāmi --- synonyms, prabhupada.io",
+    "description":"shall go."
+}
+---
 
 ==== gamiṣyāmi  ====
   * shall go --- [[books:sb:10:4:16|SB 10.4.16]]

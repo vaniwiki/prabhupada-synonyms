@@ -1,5 +1,11 @@
-~~Title:parjanyasya~~
-{{description>of rains.}}
+---json
+{
+    "name":"parjanyasya",
+    "h1":"parjanyasya",
+    "title":"parjanyasya --- synonyms, prabhupada.io",
+    "description":"of rains."
+}
+---
 
 ==== parjanyasya  ====
   * of rains --- [[books:sb:2:6:8|SB 2.6.8]]

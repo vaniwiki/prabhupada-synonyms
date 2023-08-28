@@ -1,5 +1,11 @@
-~~Title:poṣṭā~~
-{{description>maintainer; the maintainer.}}
+---json
+{
+    "name":"poṣṭā",
+    "h1":"poṣṭā",
+    "title":"poṣṭā --- synonyms, prabhupada.io",
+    "description":"maintainer; the maintainer."
+}
+---
 
 ==== poṣṭā  ====
   * maintainer --- [[books:cc:madhya:25:191|Madhya 25.191]], [[books:cc:antya:5:61|Antya 5.61]]

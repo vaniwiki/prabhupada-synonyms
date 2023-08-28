@@ -1,5 +1,11 @@
-~~Title:prahṛtya~~
-{{description>after striking.}}
+---json
+{
+    "name":"prahṛtya",
+    "h1":"prahṛtya",
+    "title":"prahṛtya --- synonyms, prabhupada.io",
+    "description":"after striking."
+}
+---
 
 ==== prahṛtya  ====
   * after striking --- [[books:sb:3:19:15|SB 3.19.15]]

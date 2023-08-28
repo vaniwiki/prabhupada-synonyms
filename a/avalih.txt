@@ -1,5 +1,11 @@
-~~Title:avalih~~
-{{description>a mass.}}
+---json
+{
+    "name":"avalih",
+    "h1":"avalih",
+    "title":"avalih --- synonyms, prabhupada.io",
+    "description":"a mass."
+}
+---
 
 ==== āvaliḥ  ====
   * a mass --- [[books:sb:3:30:1|SB 3.30.1]]

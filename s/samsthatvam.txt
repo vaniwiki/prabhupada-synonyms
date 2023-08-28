@@ -1,5 +1,11 @@
-~~Title:saṁsthātvam~~
-{{description>individuality.}}
+---json
+{
+    "name":"saṁsthātvam",
+    "h1":"saṁsthātvam",
+    "title":"saṁsthātvam --- synonyms, prabhupada.io",
+    "description":"individuality."
+}
+---
 
 ==== vyakti-saṁsthātvam  ====
   * individuality --- [[books:sb:3:26:39|SB 3.26.39]]

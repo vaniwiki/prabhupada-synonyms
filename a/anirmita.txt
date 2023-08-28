@@ -1,5 +1,11 @@
-~~Title:anirmita~~
-{{description>not performing.}}
+---json
+{
+    "name":"anirmita",
+    "h1":"anirmita",
+    "title":"anirmita --- synonyms, prabhupada.io",
+    "description":"not performing."
+}
+---
 
 ==== anirmita  ====
   * not performing --- [[books:sb:5:26:18|SB 5.26.18]]

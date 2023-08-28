@@ -1,5 +1,11 @@
-~~Title:carame~~
-{{description>while the last sacrifice.}}
+---json
+{
+    "name":"carame",
+    "h1":"carame",
+    "title":"carame --- synonyms, prabhupada.io",
+    "description":"while the last sacrifice."
+}
+---
 
 ==== carame  ====
   * while the last sacrifice --- [[books:sb:4:16:24|SB 4.16.24]]

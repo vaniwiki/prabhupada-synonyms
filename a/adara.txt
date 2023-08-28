@@ -1,5 +1,11 @@
-~~Title:ādara~~
-{{description>adoration.}}
+---json
+{
+    "name":"ādara",
+    "h1":"ādara",
+    "title":"ādara --- synonyms, prabhupada.io",
+    "description":"adoration."
+}
+---
 
 ==== ādara  ====
   * adoration --- [[books:cc:adi:16:30|Ādi 16.30]]

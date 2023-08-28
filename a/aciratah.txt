@@ -1,5 +1,11 @@
-~~Title:acirataḥ~~
-{{description>not long; soon; very soon; without delay.}}
+---json
+{
+    "name":"acirataḥ",
+    "h1":"acirataḥ",
+    "title":"acirataḥ --- synonyms, prabhupada.io",
+    "description":"not long; soon; very soon; without delay."
+}
+---
 
 ==== acirataḥ  ====
   * not long --- [[books:sb:3:16:12|SB 3.16.12]]

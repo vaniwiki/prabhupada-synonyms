@@ -1,5 +1,11 @@
-~~Title:kautūhalāya~~
-{{description>for the bewildering.}}
+---json
+{
+    "name":"kautūhalāya",
+    "h1":"kautūhalāya",
+    "title":"kautūhalāya --- synonyms, prabhupada.io",
+    "description":"for the bewildering."
+}
+---
 
 ==== kautūhalāya  ====
   * for the bewildering --- [[books:sb:8:12:15|SB 8.12.15]]

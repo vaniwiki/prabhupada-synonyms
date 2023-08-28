@@ -1,5 +1,11 @@
-~~Title:upalabdham~~
-{{description>achieved.}}
+---json
+{
+    "name":"upalabdham",
+    "h1":"upalabdham",
+    "title":"upalabdham --- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== upalabdham  ====
   * achieved --- [[books:sb:5:2:15|SB 5.2.15]]

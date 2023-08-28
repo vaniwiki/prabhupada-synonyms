@@ -1,5 +1,11 @@
-~~Title:samara~~
-{{description>who are afraid of fighting.}}
+---json
+{
+    "name":"samara",
+    "h1":"samara",
+    "title":"samara --- synonyms, prabhupada.io",
+    "description":"who are afraid of fighting."
+}
+---
 
 ==== samara-bhīravaḥ  ====
   * who are afraid of fighting --- [[books:sb:10:4:32|SB 10.4.32]]

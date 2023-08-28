@@ -1,5 +1,11 @@
-~~Title:ānibe~~
-{{description>bring; should bring; will bring; you must bring.}}
+---json
+{
+    "name":"ānibe",
+    "h1":"ānibe",
+    "title":"ānibe --- synonyms, prabhupada.io",
+    "description":"bring; should bring; will bring; you must bring."
+}
+---
 
 ==== ānibe  ====
   * bring --- [[books:cc:madhya:11:12|Madhya 11.12]]

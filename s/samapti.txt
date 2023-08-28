@@ -1,5 +1,11 @@
-~~Title:samāpti~~
-{{description>finishing.}}
+---json
+{
+    "name":"samāpti",
+    "h1":"samāpti",
+    "title":"samāpti --- synonyms, prabhupada.io",
+    "description":"finishing."
+}
+---
 
 ==== samāpti  ====
   * finishing --- [[books:cc:antya:3:114-115|Antya 3.114-115]]

@@ -1,5 +1,11 @@
-~~Title:āvahānām~~
-{{description>that which causes happiness.}}
+---json
+{
+    "name":"āvahānām",
+    "h1":"āvahānām",
+    "title":"āvahānām --- synonyms, prabhupada.io",
+    "description":"that which causes happiness."
+}
+---
 
 ==== sukha-āvahānām  ====
   * that which causes happiness --- [[books:sb:3:5:10|SB 3.5.10]]

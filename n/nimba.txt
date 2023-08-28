@@ -1,5 +1,11 @@
-~~Title:nimba~~
-{{description>the juice of nimba fruit and niśindā.}}
+---json
+{
+    "name":"nimba",
+    "h1":"nimba",
+    "title":"nimba --- synonyms, prabhupada.io",
+    "description":"the juice of nimba fruit and niśindā."
+}
+---
 
 ==== nimba-niśindā-rasa  ====
   * the juice of //nimba// fruit and //niśindā// --- [[books:cc:antya:4:163|Antya 4.163]]

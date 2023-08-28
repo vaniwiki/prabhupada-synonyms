@@ -1,5 +1,11 @@
-~~Title:asye~~
-{{description>in the mouth.}}
+---json
+{
+    "name":"asye",
+    "h1":"asye",
+    "title":"asye --- synonyms, prabhupada.io",
+    "description":"in the mouth."
+}
+---
 
 ==== asye  ====
   * in the mouth --- [[books:sb:5:26:29|SB 5.26.29]]

@@ -1,5 +1,11 @@
-~~Title:sraji~~
-{{description>in a garland; on the rope.}}
+---json
+{
+    "name":"sraji",
+    "h1":"sraji",
+    "title":"sraji --- synonyms, prabhupada.io",
+    "description":"in a garland; on the rope."
+}
+---
 
 ==== sraji  ====
   * in a garland --- [[books:sb:6:17:30|SB 6.17.30]]

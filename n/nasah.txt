@@ -1,5 +1,11 @@
-~~Title:nasah~~
-{{description>His nose.}}
+---json
+{
+    "name":"nasah",
+    "h1":"nasah",
+    "title":"nasah --- synonyms, prabhupada.io",
+    "description":"His nose."
+}
+---
 
 ==== nāsaḥ  ====
   * His nose --- [[books:sb:5:5:31|SB 5.5.31]]

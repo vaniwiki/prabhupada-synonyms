@@ -1,5 +1,11 @@
-~~Title:keṣāñcit~~
-{{description>in the opinion of some.}}
+---json
+{
+    "name":"keṣāñcit",
+    "h1":"keṣāñcit",
+    "title":"keṣāñcit --- synonyms, prabhupada.io",
+    "description":"in the opinion of some."
+}
+---
 
 ==== keṣāñcit  ====
   * in the opinion of some --- [[books:sb:4:21:27|SB 4.21.27]]

@@ -1,5 +1,11 @@
-~~Title:hasati~~
-{{description>he also laughed; laughs.}}
+---json
+{
+    "name":"hasati",
+    "h1":"hasati",
+    "title":"hasati --- synonyms, prabhupada.io",
+    "description":"he also laughed; laughs."
+}
+---
 
 ==== hasati  ====
   * he also laughed --- [[books:sb:4:25:57-61|SB 4.25.57-61]]

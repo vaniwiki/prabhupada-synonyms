@@ -1,5 +1,11 @@
-~~Title:śatarūpayā~~
-{{description>called Śatarūpā.}}
+---json
+{
+    "name":"śatarūpayā",
+    "h1":"śatarūpayā",
+    "title":"śatarūpayā --- synonyms, prabhupada.io",
+    "description":"called Śatarūpā."
+}
+---
 
 ==== śatarūpayā  ====
   * called Śatarūpā --- [[books:sb:3:21:26|SB 3.21.26]]

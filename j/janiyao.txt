@@ -1,5 +1,11 @@
-~~Title:jāniyāo~~
-{{description>although knowing.}}
+---json
+{
+    "name":"jāniyāo",
+    "h1":"jāniyāo",
+    "title":"jāniyāo --- synonyms, prabhupada.io",
+    "description":"although knowing."
+}
+---
 
 ==== jāniyāo  ====
   * although knowing --- [[books:cc:antya:19:24|Antya 19.24]]

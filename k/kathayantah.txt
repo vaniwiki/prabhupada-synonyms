@@ -1,5 +1,11 @@
-~~Title:kathayantaḥ~~
-{{description>talking also.}}
+---json
+{
+    "name":"kathayantaḥ",
+    "h1":"kathayantaḥ",
+    "title":"kathayantaḥ --- synonyms, prabhupada.io",
+    "description":"talking also."
+}
+---
 
 ==== kathayantaḥ ca  ====
   * talking also --- [[books:bg:10:9|Bg. 10.9]]

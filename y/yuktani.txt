@@ -1,5 +1,11 @@
-~~Title:yuktāni~~
-{{description>impregnated with.}}
+---json
+{
+    "name":"yuktāni",
+    "h1":"yuktāni",
+    "title":"yuktāni --- synonyms, prabhupada.io",
+    "description":"impregnated with."
+}
+---
 
 ==== yuktāni  ====
   * impregnated with --- [[books:sb:1:15:27|SB 1.15.27]]

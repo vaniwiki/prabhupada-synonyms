@@ -1,5 +1,11 @@
-~~Title:kva~~
-{{description>and everywhere; anywhere; at any time; even sometimes; how; in any place; somewhere; unto whom; what is; what is that; what sort of; where; where is; whereas; who.}}
+---json
+{
+    "name":"kva",
+    "h1":"kva",
+    "title":"kva --- synonyms, prabhupada.io",
+    "description":"and everywhere; anywhere; at any time; even sometimes; how; in any place; somewhere; unto whom; what is; what is that; what sort of; where; where is; whereas; who."
+}
+---
 
 ==== kva  ====
   * and everywhere --- [[books:sb:1:17:36|SB 1.17.36]]

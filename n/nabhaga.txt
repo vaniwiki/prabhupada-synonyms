@@ -1,5 +1,11 @@
-~~Title:nabhaga~~
-{{description>was the son of Mahārāja Nabhaga.}}
+---json
+{
+    "name":"nabhaga",
+    "h1":"nabhaga",
+    "title":"nabhaga --- synonyms, prabhupada.io",
+    "description":"was the son of Mahārāja Nabhaga."
+}
+---
 
 ==== nabhaga-apatyam  ====
   * was the son of Mahārāja Nabhaga --- [[books:sb:9:4:1|SB 9.4.1]]

@@ -1,5 +1,11 @@
-~~Title:hotram~~
-{{description>paraphernalia for sacrifice; sacrificial fires.}}
+---json
+{
+    "name":"hotram",
+    "h1":"hotram",
+    "title":"hotram --- synonyms, prabhupada.io",
+    "description":"paraphernalia for sacrifice; sacrificial fires."
+}
+---
 
 ==== hotram  ====
   * paraphernalia for sacrifice --- [[books:sb:3:12:35|SB 3.12.35]]

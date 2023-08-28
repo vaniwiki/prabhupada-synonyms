@@ -1,5 +1,11 @@
-~~Title:raṇam~~
-{{description>combat.}}
+---json
+{
+    "name":"raṇam",
+    "h1":"raṇam",
+    "title":"raṇam --- synonyms, prabhupada.io",
+    "description":"combat."
+}
+---
 
 ==== raṇam  ====
   * combat --- [[books:sb:3:17:20|SB 3.17.20]]

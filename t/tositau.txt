@@ -1,5 +1,11 @@
-~~Title:toṣitau~~
-{{description>being very pleased with her.}}
+---json
+{
+    "name":"toṣitau",
+    "h1":"toṣitau",
+    "title":"toṣitau --- synonyms, prabhupada.io",
+    "description":"being very pleased with her."
+}
+---
 
 ==== toṣitau  ====
   * being very pleased with her --- [[books:sb:9:3:17|SB 9.3.17]]

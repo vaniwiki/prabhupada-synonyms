@@ -1,5 +1,11 @@
-~~Title:yāvanti~~
-{{description>as many.}}
+---json
+{
+    "name":"yāvanti",
+    "h1":"yāvanti",
+    "title":"yāvanti --- synonyms, prabhupada.io",
+    "description":"as many."
+}
+---
 
 ==== yāvanti  ====
   * as many --- [[books:sb:5:26:14|SB 5.26.14]]

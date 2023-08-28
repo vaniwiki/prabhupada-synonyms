@@ -1,5 +1,11 @@
-~~Title:repha~~
-{{description>of the letter ra.}}
+---json
+{
+    "name":"repha",
+    "h1":"repha",
+    "title":"repha --- synonyms, prabhupada.io",
+    "description":"of the letter ra."
+}
+---
 
 ==== repha  ====
   * of the letter //ra// --- [[books:cc:adi:16:74|Ādi 16.74]]

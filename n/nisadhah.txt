@@ -1,5 +1,11 @@
-~~Title:niṣadhaḥ~~
-{{description>Niṣadha.}}
+---json
+{
+    "name":"niṣadhaḥ",
+    "h1":"niṣadhaḥ",
+    "title":"niṣadhaḥ --- synonyms, prabhupada.io",
+    "description":"Niṣadha."
+}
+---
 
 ==== niṣadhaḥ  ====
   * Niṣadha --- [[books:sb:9:12:1|SB 9.12.1]]

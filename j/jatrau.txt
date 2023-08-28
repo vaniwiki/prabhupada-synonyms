@@ -1,5 +1,11 @@
-~~Title:jatrau~~
-{{description>on the base of the neck.}}
+---json
+{
+    "name":"jatrau",
+    "h1":"jatrau",
+    "title":"jatrau --- synonyms, prabhupada.io",
+    "description":"on the base of the neck."
+}
+---
 
 ==== jatrau  ====
   * on the base of the neck --- [[books:sb:8:11:14|SB 8.11.14]]

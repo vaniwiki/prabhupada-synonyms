@@ -1,5 +1,11 @@
-~~Title:akasmāt~~
-{{description>by accident.}}
+---json
+{
+    "name":"akasmāt",
+    "h1":"akasmāt",
+    "title":"akasmāt --- synonyms, prabhupada.io",
+    "description":"by accident."
+}
+---
 
 ==== akasmāt  ====
   * by accident --- [[books:sb:5:25:11|SB 5.25.11]]

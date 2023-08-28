@@ -1,5 +1,11 @@
-~~Title:kuṭhāri~~
-{{description>choppers.}}
+---json
+{
+    "name":"kuṭhāri",
+    "h1":"kuṭhāri",
+    "title":"kuṭhāri --- synonyms, prabhupada.io",
+    "description":"choppers."
+}
+---
 
 ==== kuṭhāri  ====
   * choppers --- [[books:cc:madhya:4:49|Madhya 4.49]]

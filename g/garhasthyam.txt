@@ -1,5 +1,11 @@
-~~Title:gārhasthyam~~
-{{description>family life, householder life.}}
+---json
+{
+    "name":"gārhasthyam",
+    "h1":"gārhasthyam",
+    "title":"gārhasthyam --- synonyms, prabhupada.io",
+    "description":"family life, householder life."
+}
+---
 
 ==== gārhasthyam  ====
   * family life, householder life --- [[books:sb:9:6:47|SB 9.6.47]]

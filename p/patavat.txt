@@ -1,5 +1,11 @@
-~~Title:paṭavat~~
-{{description>like a woven cloth.}}
+---json
+{
+    "name":"paṭavat",
+    "h1":"paṭavat",
+    "title":"paṭavat --- synonyms, prabhupada.io",
+    "description":"like a woven cloth."
+}
+---
 
 ==== paṭavat  ====
   * like a woven cloth --- [[books:sb:6:3:12|SB 6.3.12]]

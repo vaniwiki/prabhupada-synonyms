@@ -1,5 +1,11 @@
-~~Title:kutsāyām~~
-{{description>in defamation.}}
+---json
+{
+    "name":"kutsāyām",
+    "h1":"kutsāyām",
+    "title":"kutsāyām --- synonyms, prabhupada.io",
+    "description":"in defamation."
+}
+---
 
 ==== kutsāyām  ====
   * in defamation --- [[books:cc:antya:1:143|Antya 1.143]]

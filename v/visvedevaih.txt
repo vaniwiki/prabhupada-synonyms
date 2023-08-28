@@ -1,5 +1,11 @@
-~~Title:viśvedevaiḥ~~
-{{description>and by the Viśvadevas.}}
+---json
+{
+    "name":"viśvedevaiḥ",
+    "h1":"viśvedevaiḥ",
+    "title":"viśvedevaiḥ --- synonyms, prabhupada.io",
+    "description":"and by the Viśvadevas."
+}
+---
 
 ==== viśvedevaiḥ ca  ====
   * and by the Viśvadevas --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

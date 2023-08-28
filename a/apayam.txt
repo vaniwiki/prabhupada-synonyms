@@ -1,5 +1,11 @@
-~~Title:apāyam~~
-{{description>own death.}}
+---json
+{
+    "name":"apāyam",
+    "h1":"apāyam",
+    "title":"apāyam --- synonyms, prabhupada.io",
+    "description":"own death."
+}
+---
 
 ==== ātma-apāyam  ====
   * own death --- [[books:sb:7:2:57|SB 7.2.57]]

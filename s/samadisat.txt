@@ -1,5 +1,11 @@
-~~Title:samādiśat~~
-{{description>foretold; ordered as follows.}}
+---json
+{
+    "name":"samādiśat",
+    "h1":"samādiśat",
+    "title":"samādiśat --- synonyms, prabhupada.io",
+    "description":"foretold; ordered as follows."
+}
+---
 
 ==== samādiśat  ====
   * foretold --- [[books:sb:3:21:37|SB 3.21.37]]

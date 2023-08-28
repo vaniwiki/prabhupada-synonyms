@@ -1,5 +1,11 @@
-~~Title:saṅghān~~
-{{description>groups of animals.}}
+---json
+{
+    "name":"saṅghān",
+    "h1":"saṅghān",
+    "title":"saṅghān --- synonyms, prabhupada.io",
+    "description":"groups of animals."
+}
+---
 
 ==== jīva-saṅghān  ====
   * groups of animals --- [[books:sb:4:25:7|SB 4.25.7]]

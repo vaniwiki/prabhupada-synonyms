@@ -1,5 +1,11 @@
-~~Title:pṛcchāmahe~~
-{{description>do inquire.}}
+---json
+{
+    "name":"pṛcchāmahe",
+    "h1":"pṛcchāmahe",
+    "title":"pṛcchāmahe --- synonyms, prabhupada.io",
+    "description":"do inquire."
+}
+---
 
 ==== pṛcchāmahe  ====
   * do inquire --- [[books:sb:1:5:5|SB 1.5.5]]

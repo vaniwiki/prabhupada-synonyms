@@ -1,5 +1,11 @@
-~~Title:sakḍi~~
-{{description>food cooked in ghee.}}
+---json
+{
+    "name":"sakḍi",
+    "h1":"sakḍi",
+    "title":"sakḍi --- synonyms, prabhupada.io",
+    "description":"food cooked in ghee."
+}
+---
 
 ==== ni-sakḍi  ====
   * food cooked in ghee --- [[books:cc:antya:6:72|Antya 6.72]]

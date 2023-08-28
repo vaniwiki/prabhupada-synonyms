@@ -1,5 +1,11 @@
-~~Title:dhāraṇāḥ~~
-{{description>those who have taken to the idea of the Lord by hearing about Him.}}
+---json
+{
+    "name":"dhāraṇāḥ",
+    "h1":"dhāraṇāḥ",
+    "title":"dhāraṇāḥ --- synonyms, prabhupada.io",
+    "description":"those who have taken to the idea of the Lord by hearing about Him."
+}
+---
 
 ==== śruta-dhāraṇāḥ  ====
   * those who have taken to the idea of the Lord by hearing about Him --- [[books:sb:2:7:46|SB 2.7.46]]

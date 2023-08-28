@@ -1,5 +1,11 @@
-~~Title:dvividam~~
-{{description>Dvivida.}}
+---json
+{
+    "name":"dvividam",
+    "h1":"dvividam",
+    "title":"dvividam --- synonyms, prabhupada.io",
+    "description":"Dvivida."
+}
+---
 
 ==== dvividam  ====
   * Dvivida --- [[books:sb:3:3:11|SB 3.3.11]]

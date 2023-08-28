@@ -1,5 +1,11 @@
-~~Title:nyakhanan~~
-{{description>dug.}}
+---json
+{
+    "name":"nyakhanan",
+    "h1":"nyakhanan",
+    "title":"nyakhanan --- synonyms, prabhupada.io",
+    "description":"dug."
+}
+---
 
 ==== nyakhanan  ====
   * dug --- [[books:sb:9:8:8|SB 9.8.8]]

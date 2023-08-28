@@ -1,5 +1,11 @@
-~~Title:amsakah~~
-{{description>born of my body.}}
+---json
+{
+    "name":"amsakah",
+    "h1":"amsakah",
+    "title":"amsakah --- synonyms, prabhupada.io",
+    "description":"born of my body."
+}
+---
 
 ==== aṁśakaḥ  ====
   * born of my body --- [[books:sb:4:5:4|SB 4.5.4]]

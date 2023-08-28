@@ -1,5 +1,11 @@
-~~Title:prāvocam~~
-{{description>explained.}}
+---json
+{
+    "name":"prāvocam",
+    "h1":"prāvocam",
+    "title":"prāvocam --- synonyms, prabhupada.io",
+    "description":"explained."
+}
+---
 
 ==== prāvocam  ====
   * explained --- [[books:sb:3:32:37|SB 3.32.37]]

@@ -1,5 +1,11 @@
-~~Title:abhimataiḥ~~
-{{description>as desired by.}}
+---json
+{
+    "name":"abhimataiḥ",
+    "h1":"abhimataiḥ",
+    "title":"abhimataiḥ --- synonyms, prabhupada.io",
+    "description":"as desired by."
+}
+---
 
 ==== abhimataiḥ  ====
   * as desired by --- [[books:sb:1:11:22|SB 1.11.22]]

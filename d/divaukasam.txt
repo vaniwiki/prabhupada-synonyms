@@ -1,5 +1,11 @@
-~~Title:divaukasām~~
-{{description>all the demigods; of the denizens of the upper planetary systems; to all the denizens of heaven.}}
+---json
+{
+    "name":"divaukasām",
+    "h1":"divaukasām",
+    "title":"divaukasām --- synonyms, prabhupada.io",
+    "description":"all the demigods; of the denizens of the upper planetary systems; to all the denizens of heaven."
+}
+---
 
 ==== divaukasām  ====
   * all the demigods --- [[books:sb:10:12:33|SB 10.12.33]]

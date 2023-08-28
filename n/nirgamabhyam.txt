@@ -1,5 +1,11 @@
-~~Title:nirgamābhyām~~
-{{description>breathing.}}
+---json
+{
+    "name":"nirgamābhyām",
+    "h1":"nirgamābhyām",
+    "title":"nirgamābhyām --- synonyms, prabhupada.io",
+    "description":"breathing."
+}
+---
 
 ==== nirgamābhyām  ====
   * breathing --- [[books:sb:3:15:28|SB 3.15.28]]

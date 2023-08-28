@@ -1,5 +1,11 @@
-~~Title:piccha~~
-{{description>peacock feathers.}}
+---json
+{
+    "name":"piccha",
+    "h1":"piccha",
+    "title":"piccha --- synonyms, prabhupada.io",
+    "description":"peacock feathers."
+}
+---
 
 ==== piccha  ====
   * peacock feathers --- [[books:sb:10:12:4|SB 10.12.4]]

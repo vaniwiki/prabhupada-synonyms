@@ -1,5 +1,11 @@
-~~Title:silah~~
-{{description>and stones; stones.}}
+---json
+{
+    "name":"silah",
+    "h1":"silah",
+    "title":"silah --- synonyms, prabhupada.io",
+    "description":"and stones; stones."
+}
+---
 
 ==== śilāḥ  ====
   * and stones --- [[books:sb:8:10:46|SB 8.10.46]]

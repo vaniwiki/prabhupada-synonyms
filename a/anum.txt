@@ -1,5 +1,11 @@
-~~Title:anum~~
-{{description>Anu; his son named Anu.}}
+---json
+{
+    "name":"anum",
+    "h1":"anum",
+    "title":"anum --- synonyms, prabhupada.io",
+    "description":"Anu; his son named Anu."
+}
+---
 
 ==== anum  ====
   * Anu --- [[books:sb:9:18:33|SB 9.18.33]]

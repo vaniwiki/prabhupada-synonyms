@@ -1,5 +1,11 @@
-~~Title:mahāvidyā~~
-{{description>Mahāvidyā.}}
+---json
+{
+    "name":"mahāvidyā",
+    "h1":"mahāvidyā",
+    "title":"mahāvidyā --- synonyms, prabhupada.io",
+    "description":"Mahāvidyā."
+}
+---
 
 ==== mahāvidyā  ====
   * Mahāvidyā --- [[books:cc:madhya:17:191|Madhya 17.191]]

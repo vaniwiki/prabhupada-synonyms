@@ -1,5 +1,11 @@
-~~Title:tittiri~~
-{{description>partridge.}}
+---json
+{
+    "name":"tittiri",
+    "h1":"tittiri",
+    "title":"tittiri --- synonyms, prabhupada.io",
+    "description":"partridge."
+}
+---
 
 ==== tittiri  ====
   * partridge --- [[books:sb:3:15:18|SB 3.15.18]]

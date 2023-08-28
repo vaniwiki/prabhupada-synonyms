@@ -1,5 +1,11 @@
-~~Title:juhavāma~~
-{{description>we shall sacrifice in the fire.}}
+---json
+{
+    "name":"juhavāma",
+    "h1":"juhavāma",
+    "title":"juhavāma --- synonyms, prabhupada.io",
+    "description":"we shall sacrifice in the fire."
+}
+---
 
 ==== juhavāma  ====
   * we shall sacrifice in the fire --- [[books:sb:4:19:28|SB 4.19.28]]

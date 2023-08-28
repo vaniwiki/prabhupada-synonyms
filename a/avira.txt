@@ -1,5 +1,11 @@
-~~Title:avīrā~~
-{{description>a woman without a husband or son.}}
+---json
+{
+    "name":"avīrā",
+    "h1":"avīrā",
+    "title":"avīrā --- synonyms, prabhupada.io",
+    "description":"a woman without a husband or son."
+}
+---
 
 ==== avīrā  ====
   * a woman without a husband or son --- [[books:sb:6:19:26-28|SB 6.19.26-28]]

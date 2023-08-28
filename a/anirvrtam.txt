@@ -1,5 +1,11 @@
-~~Title:anirvṛtam~~
-{{description>not satisfied.}}
+---json
+{
+    "name":"anirvṛtam",
+    "h1":"anirvṛtam",
+    "title":"anirvṛtam --- synonyms, prabhupada.io",
+    "description":"not satisfied."
+}
+---
 
 ==== anirvṛtam  ====
   * not satisfied --- [[books:sb:5:1:36|SB 5.1.36]]

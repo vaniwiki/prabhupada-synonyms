@@ -1,5 +1,11 @@
-~~Title:gāyata~~
-{{description>chant; please go on singing.}}
+---json
+{
+    "name":"gāyata",
+    "h1":"gāyata",
+    "title":"gāyata --- synonyms, prabhupada.io",
+    "description":"chant; please go on singing."
+}
+---
 
 ==== gāyata  ====
   * chant --- [[books:cc:madhya:23:21|Madhya 23.21]]

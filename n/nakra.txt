@@ -1,5 +1,11 @@
-~~Title:nakra~~
-{{description>crocodiles.}}
+---json
+{
+    "name":"nakra",
+    "h1":"nakra",
+    "title":"nakra --- synonyms, prabhupada.io",
+    "description":"crocodiles."
+}
+---
 
 ==== nakra  ====
   * crocodiles --- [[books:sb:2:7:24|SB 2.7.24]], [[books:sb:9:10:13|SB 9.10.13]]

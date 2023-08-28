@@ -1,5 +1,11 @@
-~~Title:manuṣyasya~~
-{{description>of a man.}}
+---json
+{
+    "name":"manuṣyasya",
+    "h1":"manuṣyasya",
+    "title":"manuṣyasya --- synonyms, prabhupada.io",
+    "description":"of a man."
+}
+---
 
 ==== manuṣyasya  ====
   * of a man --- [[books:sb:4:29:66|SB 4.29.66]]

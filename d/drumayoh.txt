@@ -1,5 +1,11 @@
-~~Title:drumayoḥ~~
-{{description>of the two trees.}}
+---json
+{
+    "name":"drumayoḥ",
+    "h1":"drumayoḥ",
+    "title":"drumayoḥ --- synonyms, prabhupada.io",
+    "description":"of the two trees."
+}
+---
 
 ==== drumayoḥ  ====
   * of the two trees --- [[books:sb:10:11:1|SB 10.11.1]]

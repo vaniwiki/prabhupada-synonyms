@@ -1,5 +1,11 @@
-~~Title:parikīrtitam~~
-{{description>described (by me).}}
+---json
+{
+    "name":"parikīrtitam",
+    "h1":"parikīrtitam",
+    "title":"parikīrtitam --- synonyms, prabhupada.io",
+    "description":"described (by me)."
+}
+---
 
 ==== parikīrtitam  ====
   * described (by me) --- [[books:sb:8:14:11|SB 8.14.11]]

@@ -1,5 +1,11 @@
-~~Title:sādho~~
-{{description>O good one; O great saintly person; O great, saintly person; O honest one; O sage; O Vidura; the great saint.}}
+---json
+{
+    "name":"sādho",
+    "h1":"sādho",
+    "title":"sādho --- synonyms, prabhupada.io",
+    "description":"O good one; O great saintly person; O great, saintly person; O honest one; O sage; O Vidura; the great saint."
+}
+---
 
 ==== sādho  ====
   * O good one --- [[books:sb:3:5:18|SB 3.5.18]]

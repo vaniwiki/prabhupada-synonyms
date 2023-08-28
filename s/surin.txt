@@ -1,5 +1,11 @@
-~~Title:sūrīn~~
-{{description>the demigods (like Brahmā and the others).}}
+---json
+{
+    "name":"sūrīn",
+    "h1":"sūrīn",
+    "title":"sūrīn --- synonyms, prabhupada.io",
+    "description":"the demigods (like Brahmā and the others)."
+}
+---
 
 ==== sūrīn  ====
   * the demigods (like Brahmā and the others) --- [[books:sb:6:17:13|SB 6.17.13]]

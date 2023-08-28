@@ -1,5 +1,11 @@
-~~Title:anuśayam~~
-{{description>designation.}}
+---json
+{
+    "name":"anuśayam",
+    "h1":"anuśayam",
+    "title":"anuśayam --- synonyms, prabhupada.io",
+    "description":"designation."
+}
+---
 
 ==== anuśayam  ====
   * designation --- [[books:sb:4:23:18|SB 4.23.18]]

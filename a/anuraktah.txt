@@ -1,5 +1,11 @@
-~~Title:anuraktah~~
-{{description>attached.}}
+---json
+{
+    "name":"anuraktah",
+    "h1":"anuraktah",
+    "title":"anuraktah --- synonyms, prabhupada.io",
+    "description":"attached."
+}
+---
 
 ==== anuraktaḥ  ====
   * attached --- [[books:sb:3:23:38|SB 3.23.38]]

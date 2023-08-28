@@ -1,5 +1,11 @@
-~~Title:bharadvājam~~
-{{description>Bharadvāja.}}
+---json
+{
+    "name":"bharadvājam",
+    "h1":"bharadvājam",
+    "title":"bharadvājam --- synonyms, prabhupada.io",
+    "description":"Bharadvāja."
+}
+---
 
 ==== bharadvājam  ====
   * Bharadvāja --- [[books:sb:9:20:35|SB 9.20.35]]

@@ -1,5 +1,11 @@
-~~Title:kṣapaṇasya~~
-{{description>of Your Lordship, who kill the demons on our own side.}}
+---json
+{
+    "name":"kṣapaṇasya",
+    "h1":"kṣapaṇasya",
+    "title":"kṣapaṇasya --- synonyms, prabhupada.io",
+    "description":"of Your Lordship, who kill the demons on our own side."
+}
+---
 
 ==== svapakṣa-kṣapaṇasya  ====
   * of Your Lordship, who kill the demons on our own side --- [[books:sb:8:22:10|SB 8.22.10]]

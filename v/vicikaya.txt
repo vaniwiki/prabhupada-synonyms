@@ -1,5 +1,11 @@
-~~Title:vicikāya~~
-{{description>searched all over.}}
+---json
+{
+    "name":"vicikāya",
+    "h1":"vicikāya",
+    "title":"vicikāya --- synonyms, prabhupada.io",
+    "description":"searched all over."
+}
+---
 
 ==== vicikāya  ====
   * searched all over --- [[books:sb:10:13:16|SB 10.13.16]]

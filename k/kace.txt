@@ -1,5 +1,11 @@
-~~Title:kace~~
-{{description>hair.}}
+---json
+{
+    "name":"kace",
+    "h1":"kace",
+    "title":"kace --- synonyms, prabhupada.io",
+    "description":"hair."
+}
+---
 
 ==== kace  ====
   * hair --- [[books:sb:10:1:35|SB 10.1.35]]

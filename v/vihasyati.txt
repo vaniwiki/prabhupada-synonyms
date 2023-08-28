@@ -1,5 +1,11 @@
-~~Title:vihāsyati~~
-{{description>will quit.}}
+---json
+{
+    "name":"vihāsyati",
+    "h1":"vihāsyati",
+    "title":"vihāsyati --- synonyms, prabhupada.io",
+    "description":"will quit."
+}
+---
 
 ==== vihāsyati  ====
   * will quit --- [[books:sb:3:14:48|SB 3.14.48]]

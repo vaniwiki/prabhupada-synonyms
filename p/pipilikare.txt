@@ -1,5 +1,11 @@
-~~Title:pipīlikāre~~
-{{description>seeing the ants.}}
+---json
+{
+    "name":"pipīlikāre",
+    "h1":"pipīlikāre",
+    "title":"pipīlikāre --- synonyms, prabhupada.io",
+    "description":"seeing the ants."
+}
+---
 
 ==== pipīlikāre dekhiyā  ====
   * seeing the ants --- [[books:cc:madhya:24:271|Madhya 24.271]]

@@ -1,5 +1,11 @@
-~~Title:samutpatitam~~
-{{description>suddenly awakened.}}
+---json
+{
+    "name":"samutpatitam",
+    "h1":"samutpatitam",
+    "title":"samutpatitam --- synonyms, prabhupada.io",
+    "description":"suddenly awakened."
+}
+---
 
 ==== samutpatitam  ====
   * suddenly awakened --- [[books:sb:6:4:14|SB 6.4.14]]

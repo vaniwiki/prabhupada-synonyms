@@ -1,5 +1,11 @@
-~~Title:nyāsa~~
-{{description>by accepting sannyāsa; keeping; of the charge; renunciation.}}
+---json
+{
+    "name":"nyāsa",
+    "h1":"nyāsa",
+    "title":"nyāsa --- synonyms, prabhupada.io",
+    "description":"by accepting sannyāsa; keeping; of the charge; renunciation."
+}
+---
 
 ==== nyāsa  ====
   * by accepting //sannyāsa// --- [[books:sb:4:31:12|SB 4.31.12]]

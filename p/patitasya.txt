@@ -1,5 +1,11 @@
-~~Title:pātitasya~~
-{{description>having been thrust.}}
+---json
+{
+    "name":"pātitasya",
+    "h1":"pātitasya",
+    "title":"pātitasya --- synonyms, prabhupada.io",
+    "description":"having been thrust."
+}
+---
 
 ==== pātitasya  ====
   * having been thrust --- [[books:sb:4:5:20|SB 4.5.20]]

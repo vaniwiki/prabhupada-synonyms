@@ -1,5 +1,11 @@
-~~Title:mauliḥ~~
-{{description>whose head.}}
+---json
+{
+    "name":"mauliḥ",
+    "h1":"mauliḥ",
+    "title":"mauliḥ --- synonyms, prabhupada.io",
+    "description":"whose head."
+}
+---
 
 ==== mauliḥ  ====
   * whose head --- [[books:cc:adi:1:57|Ādi 1.57]]

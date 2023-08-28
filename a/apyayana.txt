@@ -1,5 +1,11 @@
-~~Title:āpyāyana~~
-{{description>refreshing.}}
+---json
+{
+    "name":"āpyāyana",
+    "h1":"āpyāyana",
+    "title":"āpyāyana --- synonyms, prabhupada.io",
+    "description":"refreshing."
+}
+---
 
 ==== āpyāyana  ====
   * refreshing --- [[books:sb:3:26:43|SB 3.26.43]]

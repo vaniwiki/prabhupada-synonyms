@@ -1,5 +1,11 @@
-~~Title:śaṁsati~~
-{{description>indicates.}}
+---json
+{
+    "name":"śaṁsati",
+    "h1":"śaṁsati",
+    "title":"śaṁsati --- synonyms, prabhupada.io",
+    "description":"indicates."
+}
+---
 
 ==== śaṁsati  ====
   * indicates --- [[books:sb:4:29:66|SB 4.29.66]]

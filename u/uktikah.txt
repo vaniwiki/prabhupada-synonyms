@@ -1,5 +1,11 @@
-~~Title:uktikaḥ~~
-{{description>whose talk.}}
+---json
+{
+    "name":"uktikaḥ",
+    "h1":"uktikaḥ",
+    "title":"uktikaḥ --- synonyms, prabhupada.io",
+    "description":"whose talk."
+}
+---
 
 ==== uktikaḥ  ====
   * whose talk --- [[books:cc:antya:17:40|Antya 17.40]]

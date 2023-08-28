@@ -1,5 +1,11 @@
-~~Title:samutthena~~
-{{description>born.}}
+---json
+{
+    "name":"samutthena",
+    "h1":"samutthena",
+    "title":"samutthena --- synonyms, prabhupada.io",
+    "description":"born."
+}
+---
 
 ==== samutthena  ====
   * born --- [[books:bg:7:27|Bg. 7.27]]

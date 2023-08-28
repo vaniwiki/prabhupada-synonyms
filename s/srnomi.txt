@@ -1,5 +1,11 @@
-~~Title:śṛṇomi~~
-{{description>I can hear.}}
+---json
+{
+    "name":"śṛṇomi",
+    "h1":"śṛṇomi",
+    "title":"śṛṇomi --- synonyms, prabhupada.io",
+    "description":"I can hear."
+}
+---
 
 ==== śṛṇomi  ====
   * I can hear --- [[books:sb:6:14:58|SB 6.14.58]]

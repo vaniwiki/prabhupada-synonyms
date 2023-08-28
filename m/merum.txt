@@ -1,5 +1,11 @@
-~~Title:merum~~
-{{description>Meru Mountain; Sumeru Mountain; the mountain known as Sumeru.}}
+---json
+{
+    "name":"merum",
+    "h1":"merum",
+    "title":"merum --- synonyms, prabhupada.io",
+    "description":"Meru Mountain; Sumeru Mountain; the mountain known as Sumeru."
+}
+---
 
 ==== merum  ====
   * Meru Mountain --- [[books:sb:5:20:30|SB 5.20.30]]

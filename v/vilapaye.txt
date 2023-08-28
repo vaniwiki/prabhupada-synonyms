@@ -1,5 +1,11 @@
-~~Title:vilāpaye~~
-{{description>He laments.}}
+---json
+{
+    "name":"vilāpaye",
+    "h1":"vilāpaye",
+    "title":"vilāpaye --- synonyms, prabhupada.io",
+    "description":"He laments."
+}
+---
 
 ==== vilāpaye  ====
   * He laments --- [[books:cc:antya:19:53|Antya 19.53]]

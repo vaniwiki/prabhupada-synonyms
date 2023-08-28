@@ -1,5 +1,11 @@
-~~Title:avanikaṇṭakam~~
-{{description>thorns of the world.}}
+---json
+{
+    "name":"avanikaṇṭakam",
+    "h1":"avanikaṇṭakam",
+    "title":"avanikaṇṭakam --- synonyms, prabhupada.io",
+    "description":"thorns of the world."
+}
+---
 
 ==== avanikaṇṭakam  ====
   * thorns of the world --- [[books:sb:2:7:22|SB 2.7.22]]

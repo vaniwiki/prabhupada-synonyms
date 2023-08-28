@@ -1,5 +1,11 @@
-~~Title:hala~~
-{{description>plow.}}
+---json
+{
+    "name":"hala",
+    "h1":"hala",
+    "title":"hala --- synonyms, prabhupada.io",
+    "description":"plow."
+}
+---
 
 ==== hala  ====
   * plow --- [[books:cc:adi:10:73|Ādi 10.73]]

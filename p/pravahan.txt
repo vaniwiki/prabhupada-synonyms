@@ -1,5 +1,11 @@
-~~Title:pravahan~~
-{{description>constantly engaging in.}}
+---json
+{
+    "name":"pravahan",
+    "h1":"pravahan",
+    "title":"pravahan --- synonyms, prabhupada.io",
+    "description":"constantly engaging in."
+}
+---
 
 ==== pravahan  ====
   * constantly engaging in --- [[books:sb:4:12:18|SB 4.12.18]]

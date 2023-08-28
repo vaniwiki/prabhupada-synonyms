@@ -1,5 +1,11 @@
-~~Title:smaraṇaḥ~~
-{{description>and memory.}}
+---json
+{
+    "name":"smaraṇaḥ",
+    "h1":"smaraṇaḥ",
+    "title":"smaraṇaḥ --- synonyms, prabhupada.io",
+    "description":"and memory."
+}
+---
 
 ==== smaraṇaḥ  ====
   * and memory --- [[books:sb:9:23:26|SB 9.23.26]]

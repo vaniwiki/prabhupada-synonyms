@@ -1,5 +1,11 @@
-~~Title:visanti~~
-{{description>entering; enters; enters into; fall down; they enter.}}
+---json
+{
+    "name":"visanti",
+    "h1":"visanti",
+    "title":"visanti --- synonyms, prabhupada.io",
+    "description":"entering; enters; enters into; fall down; they enter."
+}
+---
 
 ==== viśanti  ====
   * entering --- [[books:bg:11:21|Bg. 11.21]], [[books:bg:11:26-27|Bg. 11.26-27]], [[books:bg:11:28|Bg. 11.28]], [[books:bg:11:29|Bg. 11.29]]

@@ -1,5 +1,11 @@
-~~Title:ālambiyā~~
-{{description>putting.}}
+---json
+{
+    "name":"ālambiyā",
+    "h1":"ālambiyā",
+    "title":"ālambiyā --- synonyms, prabhupada.io",
+    "description":"putting."
+}
+---
 
 ==== ālambiyā  ====
   * putting --- [[books:cc:madhya:13:91|Madhya 13.91]]

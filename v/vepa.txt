@@ -1,5 +1,11 @@
-~~Title:vepa~~
-{{description>trembling severely.}}
+---json
+{
+    "name":"vepa",
+    "h1":"vepa",
+    "title":"vepa --- synonyms, prabhupada.io",
+    "description":"trembling severely."
+}
+---
 
 ==== ati-vepa  ====
   * trembling severely --- [[books:sb:10:10:27|SB 10.10.27]]

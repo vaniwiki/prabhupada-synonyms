@@ -1,5 +1,11 @@
-~~Title:āmukhe~~
-{{description>by introduction.}}
+---json
+{
+    "name":"āmukhe",
+    "h1":"āmukhe",
+    "title":"āmukhe --- synonyms, prabhupada.io",
+    "description":"by introduction."
+}
+---
 
 ==== āmukhe  ====
   * by introduction --- [[books:cc:antya:1:134|Antya 1.134]]

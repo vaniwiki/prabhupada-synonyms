@@ -1,5 +1,11 @@
-~~Title:śaṅku~~
-{{description>wedgelike ears.}}
+---json
+{
+    "name":"śaṅku",
+    "h1":"śaṅku",
+    "title":"śaṅku --- synonyms, prabhupada.io",
+    "description":"wedgelike ears."
+}
+---
 
 ==== śaṅku-karṇāt  ====
   * wedgelike ears --- [[books:sb:7:9:15|SB 7.9.15]]

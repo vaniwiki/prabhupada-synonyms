@@ -1,5 +1,11 @@
-~~Title:proktau~~
-{{description>addressed.}}
+---json
+{
+    "name":"proktau",
+    "h1":"proktau",
+    "title":"proktau --- synonyms, prabhupada.io",
+    "description":"addressed."
+}
+---
 
 ==== proktau  ====
   * addressed --- [[books:sb:7:1:39|SB 7.1.39]]

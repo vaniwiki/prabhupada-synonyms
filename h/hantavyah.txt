@@ -1,5 +1,11 @@
-~~Title:hantavyaḥ~~
-{{description>must be killed; to be killed.}}
+---json
+{
+    "name":"hantavyaḥ",
+    "h1":"hantavyaḥ",
+    "title":"hantavyaḥ --- synonyms, prabhupada.io",
+    "description":"must be killed; to be killed."
+}
+---
 
 ==== hantavyaḥ  ====
   * must be killed --- [[books:sb:7:5:38|SB 7.5.38]]

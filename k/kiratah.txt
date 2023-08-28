@@ -1,5 +1,11 @@
-~~Title:kirātaḥ~~
-{{description>a hunter.}}
+---json
+{
+    "name":"kirātaḥ",
+    "h1":"kirātaḥ",
+    "title":"kirātaḥ --- synonyms, prabhupada.io",
+    "description":"a hunter."
+}
+---
 
 ==== kirātaḥ  ====
   * a hunter --- [[books:sb:5:6:2|SB 5.6.2]]

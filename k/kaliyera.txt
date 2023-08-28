@@ -1,5 +1,11 @@
-~~Title:kālīyera~~
-{{description>of the snake Kālīya.}}
+---json
+{
+    "name":"kālīyera",
+    "h1":"kālīyera",
+    "title":"kālīyera --- synonyms, prabhupada.io",
+    "description":"of the snake Kālīya."
+}
+---
 
 ==== kālīyera  ====
   * of the snake Kālīya --- [[books:cc:madhya:18:105|Madhya 18.105]]

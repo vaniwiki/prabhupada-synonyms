@@ -1,5 +1,11 @@
-~~Title:samplavam~~
-{{description>the dissolution of the universe.}}
+---json
+{
+    "name":"samplavam",
+    "h1":"samplavam",
+    "title":"samplavam --- synonyms, prabhupada.io",
+    "description":"the dissolution of the universe."
+}
+---
 
 ==== viśva-samplavam  ====
   * the dissolution of the universe --- [[books:sb:3:17:15|SB 3.17.15]]

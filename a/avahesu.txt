@@ -1,5 +1,11 @@
-~~Title:avaheṣu~~
-{{description>which brings distress.}}
+---json
+{
+    "name":"avaheṣu",
+    "h1":"avaheṣu",
+    "title":"avaheṣu --- synonyms, prabhupada.io",
+    "description":"which brings distress."
+}
+---
 
 ==== vṛjina-avaheṣu  ====
   * which brings distress --- [[books:sb:6:3:33|SB 6.3.33]]

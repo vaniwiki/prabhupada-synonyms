@@ -1,5 +1,11 @@
-~~Title:avaśena~~
-{{description>accidentally.}}
+---json
+{
+    "name":"avaśena",
+    "h1":"avaśena",
+    "title":"avaśena --- synonyms, prabhupada.io",
+    "description":"accidentally."
+}
+---
 
 ==== avaśena  ====
   * accidentally --- [[books:sb:6:2:15|SB 6.2.15]]

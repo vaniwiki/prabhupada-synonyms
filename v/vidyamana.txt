@@ -1,5 +1,11 @@
-~~Title:vidyamāna~~
-{{description>brightly present; experience; in the presence; present.}}
+---json
+{
+    "name":"vidyamāna",
+    "h1":"vidyamāna",
+    "title":"vidyamāna --- synonyms, prabhupada.io",
+    "description":"brightly present; experience; in the presence; present."
+}
+---
 
 ==== vidyamāna  ====
   * brightly present --- [[books:cc:antya:14:78|Antya 14.78]]

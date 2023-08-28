@@ -1,5 +1,11 @@
-~~Title:mohana~~
-{{description>mohana; enchanting.}}
+---json
+{
+    "name":"mohana",
+    "h1":"mohana",
+    "title":"mohana --- synonyms, prabhupada.io",
+    "description":"mohana; enchanting."
+}
+---
 
 ==== mohana  ====
   * //mohana// --- [[books:cc:madhya:23:58|Madhya 23.58]]

@@ -1,5 +1,11 @@
-~~Title:niveśita~~
-{{description>with full attention.}}
+---json
+{
+    "name":"niveśita",
+    "h1":"niveśita",
+    "title":"niveśita --- synonyms, prabhupada.io",
+    "description":"with full attention."
+}
+---
 
 ==== niveśita-ātmā  ====
   * with full attention --- [[books:sb:1:15:33|SB 1.15.33]]

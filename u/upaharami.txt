@@ -1,5 +1,11 @@
-~~Title:upaharāmi~~
-{{description>I am offering.}}
+---json
+{
+    "name":"upaharāmi",
+    "h1":"upaharāmi",
+    "title":"upaharāmi --- synonyms, prabhupada.io",
+    "description":"I am offering."
+}
+---
 
 ==== upaharāmi  ====
   * I am offering --- [[books:sb:6:19:7|SB 6.19.7]]

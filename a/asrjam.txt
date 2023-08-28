@@ -1,5 +1,11 @@
-~~Title:asṛjam~~
-{{description>I created.}}
+---json
+{
+    "name":"asṛjam",
+    "h1":"asṛjam",
+    "title":"asṛjam --- synonyms, prabhupada.io",
+    "description":"I created."
+}
+---
 
 ==== asṛjam  ====
   * I created --- [[books:sb:3:20:26|SB 3.20.26]]

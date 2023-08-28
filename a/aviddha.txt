@@ -1,5 +1,11 @@
-~~Title:aviddha~~
-{{description>without contamination.}}
+---json
+{
+    "name":"aviddha",
+    "h1":"aviddha",
+    "title":"aviddha --- synonyms, prabhupada.io",
+    "description":"without contamination."
+}
+---
 
 ==== aviddha  ====
   * without contamination --- [[books:cc:madhya:25:36|Madhya 25.36]]

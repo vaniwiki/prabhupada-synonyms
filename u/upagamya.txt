@@ -1,5 +1,11 @@
-~~Title:upagamya~~
-{{description>having met; reaching.}}
+---json
+{
+    "name":"upagamya",
+    "h1":"upagamya",
+    "title":"upagamya --- synonyms, prabhupada.io",
+    "description":"having met; reaching."
+}
+---
 
 ==== upagamya  ====
   * having met --- [[books:sb:3:20:4|SB 3.20.4]]

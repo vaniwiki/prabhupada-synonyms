@@ -1,5 +1,11 @@
-~~Title:trimaṭha~~
-{{description>at Trimaṭha.}}
+---json
+{
+    "name":"trimaṭha",
+    "h1":"trimaṭha",
+    "title":"trimaṭha --- synonyms, prabhupada.io",
+    "description":"at Trimaṭha."
+}
+---
 
 ==== trimaṭha  ====
   * at Trimaṭha --- [[books:cc:madhya:9:21|Madhya 9.21]]

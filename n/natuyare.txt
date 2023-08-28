@@ -1,5 +1,11 @@
-~~Title:nāṭuyāre~~
-{{description>to dancing girls.}}
+---json
+{
+    "name":"nāṭuyāre",
+    "h1":"nāṭuyāre",
+    "title":"nāṭuyāre --- synonyms, prabhupada.io",
+    "description":"to dancing girls."
+}
+---
 
 ==== dārī-nāṭuyāre  ====
   * to dancing girls --- [[books:cc:antya:9:32|Antya 9.32]]

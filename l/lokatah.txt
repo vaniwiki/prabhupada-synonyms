@@ -1,5 +1,11 @@
-~~Title:lokataḥ~~
-{{description>from Vaikuṇṭha, the abode of Lord Hari.}}
+---json
+{
+    "name":"lokataḥ",
+    "h1":"lokataḥ",
+    "title":"lokataḥ --- synonyms, prabhupada.io",
+    "description":"from Vaikuṇṭha, the abode of Lord Hari."
+}
+---
 
 ==== hari-lokataḥ  ====
   * from Vaikuṇṭha, the abode of Lord Hari --- [[books:sb:3:16:33|SB 3.16.33]]

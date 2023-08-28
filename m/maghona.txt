@@ -1,5 +1,11 @@
-~~Title:maghonā~~
-{{description>with Indra.}}
+---json
+{
+    "name":"maghonā",
+    "h1":"maghonā",
+    "title":"maghonā --- synonyms, prabhupada.io",
+    "description":"with Indra."
+}
+---
 
 ==== maghonā  ====
   * with Indra --- [[books:sb:4:19:39|SB 4.19.39]]

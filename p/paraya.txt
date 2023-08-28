@@ -1,5 +1,11 @@
-~~Title:paraya~~
-{{description>by the topmost; great; highest; of a high grade; supreme; transcendental; uncommon; with great.}}
+---json
+{
+    "name":"paraya",
+    "h1":"paraya",
+    "title":"paraya --- synonyms, prabhupada.io",
+    "description":"by the topmost; great; highest; of a high grade; supreme; transcendental; uncommon; with great."
+}
+---
 
 ==== parayā  ====
   * by the topmost --- [[books:sb:5:24:19|SB 5.24.19]]

@@ -1,5 +1,11 @@
-~~Title:nivītau~~
-{{description>hanging on the neck.}}
+---json
+{
+    "name":"nivītau",
+    "h1":"nivītau",
+    "title":"nivītau --- synonyms, prabhupada.io",
+    "description":"hanging on the neck."
+}
+---
 
 ==== nivītau  ====
   * hanging on the neck --- [[books:sb:3:15:28|SB 3.15.28]]

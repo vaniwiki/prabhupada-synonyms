@@ -1,5 +1,11 @@
-~~Title:vrīḍaḥ~~
-{{description>feeling modest.}}
+---json
+{
+    "name":"vrīḍaḥ",
+    "h1":"vrīḍaḥ",
+    "title":"vrīḍaḥ --- synonyms, prabhupada.io",
+    "description":"feeling modest."
+}
+---
 
 ==== sa-vrīḍaḥ  ====
   * feeling modest --- [[books:sb:3:22:1|SB 3.22.1]]

@@ -1,5 +1,11 @@
-~~Title:suhṛdoḥ~~
-{{description>of my brother and sister.}}
+---json
+{
+    "name":"suhṛdoḥ",
+    "h1":"suhṛdoḥ",
+    "title":"suhṛdoḥ --- synonyms, prabhupada.io",
+    "description":"of my brother and sister."
+}
+---
 
 ==== mat-suhṛdoḥ  ====
   * of my brother and sister --- [[books:sb:10:12:15|SB 10.12.15]]

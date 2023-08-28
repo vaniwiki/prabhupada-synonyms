@@ -1,5 +1,11 @@
-~~Title:anṛtam~~
-{{description>a lie; false; false promise, false statement; falsehood; falsity; lies; untruth; without permanent existence.}}
+---json
+{
+    "name":"anṛtam",
+    "h1":"anṛtam",
+    "title":"anṛtam --- synonyms, prabhupada.io",
+    "description":"a lie; false; false promise, false statement; falsehood; falsity; lies; untruth; without permanent existence."
+}
+---
 
 ==== anṛtam  ====
   * a lie --- [[books:sb:5:26:28|SB 5.26.28]], [[books:sb:6:18:47|SB 6.18.47]]

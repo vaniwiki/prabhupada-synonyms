@@ -1,5 +1,11 @@
-~~Title:sādhe~~
-{{description>collects; executes; request.}}
+---json
+{
+    "name":"sādhe",
+    "h1":"sādhe",
+    "title":"sādhe --- synonyms, prabhupada.io",
+    "description":"collects; executes; request."
+}
+---
 
 ==== sādhe  ====
   * collects --- [[books:cc:antya:6:19|Antya 6.19]]

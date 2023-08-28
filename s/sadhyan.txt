@@ -1,5 +1,11 @@
-~~Title:sādhyān~~
-{{description>the demigods; the Sādhya demigods.}}
+---json
+{
+    "name":"sādhyān",
+    "h1":"sādhyān",
+    "title":"sādhyān --- synonyms, prabhupada.io",
+    "description":"the demigods; the Sādhya demigods."
+}
+---
 
 ==== sādhyān  ====
   * the demigods --- [[books:sb:3:20:42|SB 3.20.42]]

@@ -1,5 +1,11 @@
-~~Title:asurayoḥ~~
-{{description>of the two asuras.}}
+---json
+{
+    "name":"asurayoḥ",
+    "h1":"asurayoḥ",
+    "title":"asurayoḥ --- synonyms, prabhupada.io",
+    "description":"of the two asuras."
+}
+---
 
 ==== asurayoḥ  ====
   * of the two //asuras// --- [[books:sb:3:16:36|SB 3.16.36]]

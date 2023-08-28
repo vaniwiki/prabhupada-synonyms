@@ -1,5 +1,11 @@
-~~Title:udvahat~~
-{{description>assuming.}}
+---json
+{
+    "name":"udvahat",
+    "h1":"udvahat",
+    "title":"udvahat --- synonyms, prabhupada.io",
+    "description":"assuming."
+}
+---
 
 ==== udvahat  ====
   * assuming --- [[books:sb:10:13:61|SB 10.13.61]]

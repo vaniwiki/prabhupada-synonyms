@@ -1,5 +1,11 @@
-~~Title:vibhūyāt~~
-{{description>is able.}}
+---json
+{
+    "name":"vibhūyāt",
+    "h1":"vibhūyāt",
+    "title":"vibhūyāt --- synonyms, prabhupada.io",
+    "description":"is able."
+}
+---
 
 ==== vibhūyāt  ====
   * is able --- [[books:sb:5:1:12|SB 5.1.12]]

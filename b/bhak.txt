@@ -1,5 +1,11 @@
-~~Title:bhāk~~
-{{description>shareholder.}}
+---json
+{
+    "name":"bhāk",
+    "h1":"bhāk",
+    "title":"bhāk --- synonyms, prabhupada.io",
+    "description":"shareholder."
+}
+---
 
 ==== bhāk  ====
   * shareholder --- [[books:cc:adi:10:1|Ādi 10.1]]

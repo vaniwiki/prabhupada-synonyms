@@ -1,5 +1,11 @@
-~~Title:bhumih~~
-{{description>earth; land; mother earth; surface of the earth; the earth; the land.}}
+---json
+{
+    "name":"bhumih",
+    "h1":"bhumih",
+    "title":"bhumih --- synonyms, prabhupada.io",
+    "description":"earth; land; mother earth; surface of the earth; the earth; the land."
+}
+---
 
 ==== bhūmiḥ  ====
   * earth --- [[books:bg:7:4|Bg. 7.4]], [[books:cc:madhya:6:164|Madhya 6.164]]

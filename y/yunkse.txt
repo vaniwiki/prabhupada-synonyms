@@ -1,5 +1,11 @@
-~~Title:yuṅkṣe~~
-{{description>do You engage Yourself in.}}
+---json
+{
+    "name":"yuṅkṣe",
+    "h1":"yuṅkṣe",
+    "title":"yuṅkṣe --- synonyms, prabhupada.io",
+    "description":"do You engage Yourself in."
+}
+---
 
 ==== yuṅkṣe  ====
   * do You engage Yourself in --- [[books:sb:7:9:32|SB 7.9.32]]

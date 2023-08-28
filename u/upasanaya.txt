@@ -1,5 +1,11 @@
-~~Title:upasanaya~~
-{{description>by worship of Him.}}
+---json
+{
+    "name":"upasanaya",
+    "h1":"upasanaya",
+    "title":"upasanaya --- synonyms, prabhupada.io",
+    "description":"by worship of Him."
+}
+---
 
 ==== upāsanayā  ====
   * by worship of Him --- [[books:sb:4:22:22|SB 4.22.22]]

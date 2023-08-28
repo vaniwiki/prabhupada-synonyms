@@ -1,5 +1,11 @@
-~~Title:arhaiḥ~~
-{{description>greatly valuable.}}
+---json
+{
+    "name":"arhaiḥ",
+    "h1":"arhaiḥ",
+    "title":"arhaiḥ --- synonyms, prabhupada.io",
+    "description":"greatly valuable."
+}
+---
 
 ==== mahā-arhaiḥ  ====
   * greatly valuable --- [[books:sb:3:23:19|SB 3.23.19]]

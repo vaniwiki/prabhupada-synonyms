@@ -1,5 +1,11 @@
-~~Title:mudgara~~
-{{description>with barbed missiles, mallets and lances.}}
+---json
+{
+    "name":"mudgara",
+    "h1":"mudgara",
+    "title":"mudgara --- synonyms, prabhupada.io",
+    "description":"with barbed missiles, mallets and lances."
+}
+---
 
 ==== prāsa-mudgara-tomaraiḥ  ====
   * with barbed missiles, mallets and lances --- [[books:sb:6:10:19-22|SB 6.10.19-22]]

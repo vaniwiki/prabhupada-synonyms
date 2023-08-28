@@ -1,5 +1,11 @@
-~~Title:ruddhah~~
-{{description>captured; confined.}}
+---json
+{
+    "name":"ruddhah",
+    "h1":"ruddhah",
+    "title":"ruddhah --- synonyms, prabhupada.io",
+    "description":"captured; confined."
+}
+---
 
 ==== ruddhaḥ  ====
   * captured --- [[books:sb:4:28:60|SB 4.28.60]]

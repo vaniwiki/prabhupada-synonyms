@@ -1,5 +1,11 @@
-~~Title:hemante~~
-{{description>before the winter season.}}
+---json
+{
+    "name":"hemante",
+    "h1":"hemante",
+    "title":"hemante --- synonyms, prabhupada.io",
+    "description":"before the winter season."
+}
+---
 
 ==== hemante  ====
   * before the winter season --- [[books:sb:7:14:20-23|SB 7.14.20-23]]

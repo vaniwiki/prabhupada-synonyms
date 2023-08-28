@@ -1,5 +1,11 @@
-~~Title:māriye~~
-{{description>I kill.}}
+---json
+{
+    "name":"māriye",
+    "h1":"māriye",
+    "title":"māriye --- synonyms, prabhupada.io",
+    "description":"I kill."
+}
+---
 
 ==== māriye  ====
   * I kill --- [[books:cc:antya:18:57|Antya 18.57]]

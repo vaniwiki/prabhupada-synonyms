@@ -1,5 +1,11 @@
-~~Title:śrānta~~
-{{description>fatigue; thirsty.}}
+---json
+{
+    "name":"śrānta",
+    "h1":"śrānta",
+    "title":"śrānta --- synonyms, prabhupada.io",
+    "description":"fatigue; thirsty."
+}
+---
 
 ==== śrānta  ====
   * fatigue --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

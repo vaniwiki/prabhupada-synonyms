@@ -1,5 +1,11 @@
-~~Title:anindayā~~
-{{description>without blaspheming.}}
+---json
+{
+    "name":"anindayā",
+    "h1":"anindayā",
+    "title":"anindayā --- synonyms, prabhupada.io",
+    "description":"without blaspheming."
+}
+---
 
 ==== anindayā  ====
   * without blaspheming --- [[books:sb:4:22:24|SB 4.22.24]]

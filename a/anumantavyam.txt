@@ -1,5 +1,11 @@
-~~Title:anumantavyam~~
-{{description>to be understood.}}
+---json
+{
+    "name":"anumantavyam",
+    "h1":"anumantavyam",
+    "title":"anumantavyam --- synonyms, prabhupada.io",
+    "description":"to be understood."
+}
+---
 
 ==== anumantavyam  ====
   * to be understood --- [[books:sb:4:29:67|SB 4.29.67]]

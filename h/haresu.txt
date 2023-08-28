@@ -1,5 +1,11 @@
-~~Title:hāreṣu~~
-{{description>the plunderers of his money.}}
+---json
+{
+    "name":"hāreṣu",
+    "h1":"hāreṣu",
+    "title":"hāreṣu --- synonyms, prabhupada.io",
+    "description":"the plunderers of his money."
+}
+---
 
 ==== tat-riktha-hāreṣu  ====
   * the plunderers of his money --- [[books:sb:4:27:10|SB 4.27.10]]

@@ -1,5 +1,11 @@
-~~Title:avaniḥ~~
-{{description>earth; the ground; the planet earth.}}
+---json
+{
+    "name":"avaniḥ",
+    "h1":"avaniḥ",
+    "title":"avaniḥ --- synonyms, prabhupada.io",
+    "description":"earth; the ground; the planet earth."
+}
+---
 
 ==== avaniḥ  ====
   * earth --- [[books:sb:5:8:23|SB 5.8.23]], [[books:sb:7:9:48|SB 7.9.48]]

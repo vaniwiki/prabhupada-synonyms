@@ -1,5 +1,11 @@
-~~Title:pānānām~~
-{{description>of food and drink.}}
+---json
+{
+    "name":"pānānām",
+    "h1":"pānānām",
+    "title":"pānānām --- synonyms, prabhupada.io",
+    "description":"of food and drink."
+}
+---
 
 ==== anna-pānānām  ====
   * of food and drink --- [[books:sb:2:10:29|SB 2.10.29]]

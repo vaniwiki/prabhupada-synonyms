@@ -1,5 +1,11 @@
-~~Title:siṁhalaḥ~~
-{{description>Siṁhala.}}
+---json
+{
+    "name":"siṁhalaḥ",
+    "h1":"siṁhalaḥ",
+    "title":"siṁhalaḥ --- synonyms, prabhupada.io",
+    "description":"Siṁhala."
+}
+---
 
 ==== siṁhalaḥ  ====
   * Siṁhala --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

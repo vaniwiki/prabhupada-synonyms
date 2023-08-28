@@ -1,5 +1,11 @@
-~~Title:varatreṇa~~
-{{description>used as a rope.}}
+---json
+{
+    "name":"varatreṇa",
+    "h1":"varatreṇa",
+    "title":"varatreṇa --- synonyms, prabhupada.io",
+    "description":"used as a rope."
+}
+---
 
 ==== varatreṇa  ====
   * used as a rope --- [[books:sb:8:24:45|SB 8.24.45]]

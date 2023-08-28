@@ -1,5 +1,11 @@
-~~Title:sūtraiḥ~~
-{{description>by threads.}}
+---json
+{
+    "name":"sūtraiḥ",
+    "h1":"sūtraiḥ",
+    "title":"sūtraiḥ --- synonyms, prabhupada.io",
+    "description":"by threads."
+}
+---
 
 ==== sūtraiḥ  ====
   * by threads --- [[books:sb:5:26:36|SB 5.26.36]]

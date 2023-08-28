@@ -1,5 +1,11 @@
-~~Title:channam~~
-{{description>covered.}}
+---json
+{
+    "name":"channam",
+    "h1":"channam",
+    "title":"channam --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== channam  ====
   * covered --- [[books:sb:7:13:29|SB 7.13.29]]

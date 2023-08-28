@@ -1,5 +1,11 @@
-~~Title:vividhān~~
-{{description>multifarious; various.}}
+---json
+{
+    "name":"vividhān",
+    "h1":"vividhān",
+    "title":"vividhān --- synonyms, prabhupada.io",
+    "description":"multifarious; various."
+}
+---
 
 ==== vividhān  ====
   * multifarious --- [[books:sb:1:9:25|SB 1.9.25]]

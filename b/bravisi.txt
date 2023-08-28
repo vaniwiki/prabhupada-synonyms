@@ -1,5 +1,11 @@
-~~Title:bravīṣi~~
-{{description>as you speak; explaining.}}
+---json
+{
+    "name":"bravīṣi",
+    "h1":"bravīṣi",
+    "title":"bravīṣi --- synonyms, prabhupada.io",
+    "description":"as you speak; explaining."
+}
+---
 
 ==== bravīṣi  ====
   * as you speak --- [[books:sb:1:17:22|SB 1.17.22]]

@@ -1,5 +1,11 @@
-~~Title:duḥkhitasya~~
-{{description>of one who is always unhappy.}}
+---json
+{
+    "name":"duḥkhitasya",
+    "h1":"duḥkhitasya",
+    "title":"duḥkhitasya --- synonyms, prabhupada.io",
+    "description":"of one who is always unhappy."
+}
+---
 
 ==== su-duḥkhitasya  ====
   * of one who is always unhappy --- [[books:sb:3:5:3|SB 3.5.3]]

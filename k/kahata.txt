@@ -1,5 +1,11 @@
-~~Title:kahata'~~
-{{description>kindly speak.}}
+---json
+{
+    "name":"kahata'",
+    "h1":"kahata'",
+    "title":"kahata' --- synonyms, prabhupada.io",
+    "description":"kindly speak."
+}
+---
 
 ==== kahata'  ====
   * kindly speak --- [[books:cc:antya:18:46|Antya 18.46]]

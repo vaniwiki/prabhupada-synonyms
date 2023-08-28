@@ -1,5 +1,11 @@
-~~Title:cāpa~~
-{{description>bow; bows; by bows; from the bow; the rainbow.}}
+---json
+{
+    "name":"cāpa",
+    "h1":"cāpa",
+    "title":"cāpa --- synonyms, prabhupada.io",
+    "description":"bow; bows; by bows; from the bow; the rainbow."
+}
+---
 
 ==== cāpa  ====
   * bow --- [[books:sb:4:7:20|SB 4.7.20]], [[books:sb:6:8:12|SB 6.8.12]]

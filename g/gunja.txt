@@ -1,5 +1,11 @@
-~~Title:guñjā~~
-{{description>a garland of guñjā (small berries or conchshells); small conchshells.}}
+---json
+{
+    "name":"guñjā",
+    "h1":"guñjā",
+    "title":"guñjā --- synonyms, prabhupada.io",
+    "description":"a garland of guñjā (small berries or conchshells); small conchshells."
+}
+---
 
 ==== guñjā  ====
   * a garland of //guñjā// (small berries or conchshells) --- [[books:cc:adi:17:279|Ādi 17.279]]

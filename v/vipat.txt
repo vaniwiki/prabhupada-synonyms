@@ -1,5 +1,11 @@
-~~Title:vipat~~
-{{description>reverse.}}
+---json
+{
+    "name":"vipat",
+    "h1":"vipat",
+    "title":"vipat --- synonyms, prabhupada.io",
+    "description":"reverse."
+}
+---
 
 ==== vipat  ====
   * reverse --- [[books:sb:1:9:15|SB 1.9.15]]

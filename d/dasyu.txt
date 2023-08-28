@@ -1,5 +1,11 @@
-~~Title:dasyu~~
-{{description>by the miscreants; from rogues and thieves; plunderers.}}
+---json
+{
+    "name":"dasyu",
+    "h1":"dasyu",
+    "title":"dasyu --- synonyms, prabhupada.io",
+    "description":"by the miscreants; from rogues and thieves; plunderers."
+}
+---
 
 ==== dasyu  ====
   * by the miscreants --- [[books:sb:3:21:55|SB 3.21.55]]

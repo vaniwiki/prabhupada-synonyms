@@ -1,5 +1,11 @@
-~~Title:lekha~~
-{{description>describing; description; marking; or write; the description; the writing; to describe by writing; writing.}}
+---json
+{
+    "name":"lekha",
+    "h1":"lekha",
+    "title":"lekha --- synonyms, prabhupada.io",
+    "description":"describing; description; marking; or write; the description; the writing; to describe by writing; writing."
+}
+---
 
 ==== lekhā  ====
   * describing --- [[books:cc:madhya:20:298|Madhya 20.298]]

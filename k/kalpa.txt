@@ -1,5 +1,11 @@
-~~Title:kalpa~~
-{{description>a day of Brahmā (millennium); a day of Brahmā; creation; in one day of Lord Brahmā; intermediate devastation; Kalpa; millennium; the duration of Brahmā's day.}}
+---json
+{
+    "name":"kalpa",
+    "h1":"kalpa",
+    "title":"kalpa --- synonyms, prabhupada.io",
+    "description":"a day of Brahmā (millennium); a day of Brahmā; creation; in one day of Lord Brahmā; intermediate devastation; Kalpa; millennium; the duration of Brahmā's day."
+}
+---
 
 ==== kalpa  ====
   * a day of Brahmā (millennium) --- [[books:sb:4:9:20-21|SB 4.9.20-21]]

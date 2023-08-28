@@ -1,5 +1,11 @@
-~~Title:pīyūṣam~~
-{{description>nectar.}}
+---json
+{
+    "name":"pīyūṣam",
+    "h1":"pīyūṣam",
+    "title":"pīyūṣam --- synonyms, prabhupada.io",
+    "description":"nectar."
+}
+---
 
 ==== pīyūṣam  ====
   * nectar --- [[books:sb:2:8:26|SB 2.8.26]]

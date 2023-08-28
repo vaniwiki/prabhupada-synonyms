@@ -1,5 +1,11 @@
-~~Title:bhāiera~~
-{{description>of the two brothers.}}
+---json
+{
+    "name":"bhāiera",
+    "h1":"bhāiera",
+    "title":"bhāiera --- synonyms, prabhupada.io",
+    "description":"of the two brothers."
+}
+---
 
 ==== dui bhāiera  ====
   * of the two brothers --- [[books:cc:antya:6:122|Antya 6.122]]

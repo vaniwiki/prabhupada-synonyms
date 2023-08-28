@@ -1,5 +1,11 @@
-~~Title:stabaka~~
-{{description>bunches.}}
+---json
+{
+    "name":"stabaka",
+    "h1":"stabaka",
+    "title":"stabaka --- synonyms, prabhupada.io",
+    "description":"bunches."
+}
+---
 
 ==== stabaka  ====
   * bunches --- [[books:sb:5:24:10|SB 5.24.10]]

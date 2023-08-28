@@ -1,5 +1,11 @@
-~~Title:vairāgīra~~
-{{description>of a person in the renounced order.}}
+---json
+{
+    "name":"vairāgīra",
+    "h1":"vairāgīra",
+    "title":"vairāgīra --- synonyms, prabhupada.io",
+    "description":"of a person in the renounced order."
+}
+---
 
 ==== vairāgīra  ====
   * of a person in the renounced order --- [[books:cc:antya:6:222|Antya 6.222]], [[books:cc:antya:6:226|Antya 6.226]]

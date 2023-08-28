@@ -1,5 +1,11 @@
-~~Title:nirviṣṭam~~
-{{description>entering.}}
+---json
+{
+    "name":"nirviṣṭam",
+    "h1":"nirviṣṭam",
+    "title":"nirviṣṭam --- synonyms, prabhupada.io",
+    "description":"entering."
+}
+---
 
 ==== nirviṣṭam  ====
   * entering --- [[books:sb:3:16:35|SB 3.16.35]]

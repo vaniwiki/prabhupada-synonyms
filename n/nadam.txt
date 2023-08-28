@@ -1,5 +1,11 @@
-~~Title:nadam~~
-{{description>sound.}}
+---json
+{
+    "name":"nadam",
+    "h1":"nadam",
+    "title":"nadam --- synonyms, prabhupada.io",
+    "description":"sound."
+}
+---
 
 ==== nādam  ====
   * sound --- [[books:sb:7:5:39-40|SB 7.5.39-40]]

@@ -1,5 +1,11 @@
-~~Title:maileha~~
-{{description>if dying.}}
+---json
+{
+    "name":"maileha",
+    "h1":"maileha",
+    "title":"maileha --- synonyms, prabhupada.io",
+    "description":"if dying."
+}
+---
 
 ==== maileha  ====
   * if dying --- [[books:cc:antya:20:23|Antya 20.23]]

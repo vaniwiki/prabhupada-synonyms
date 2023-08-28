@@ -1,5 +1,11 @@
-~~Title:kṣībaḥ~~
-{{description>one who is inebriated or angry.}}
+---json
+{
+    "name":"kṣībaḥ",
+    "h1":"kṣībaḥ",
+    "title":"kṣībaḥ --- synonyms, prabhupada.io",
+    "description":"one who is inebriated or angry."
+}
+---
 
 ==== kṣībaḥ  ====
   * one who is inebriated or angry --- [[books:sb:5:17:20|SB 5.17.20]]

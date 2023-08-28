@@ -1,5 +1,11 @@
-~~Title:sambhava~~
-{{description>of creation and maintenance.}}
+---json
+{
+    "name":"sambhava",
+    "h1":"sambhava",
+    "title":"sambhava --- synonyms, prabhupada.io",
+    "description":"of creation and maintenance."
+}
+---
 
 ==== bhava-sambhava  ====
   * of creation and maintenance --- [[books:sb:7:9:42|SB 7.9.42]]

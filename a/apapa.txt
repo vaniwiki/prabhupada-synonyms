@@ -1,5 +1,11 @@
-~~Title:apāpa~~
-{{description>prophylactic.}}
+---json
+{
+    "name":"apāpa",
+    "h1":"apāpa",
+    "title":"apāpa --- synonyms, prabhupada.io",
+    "description":"prophylactic."
+}
+---
 
 ==== apāpa-viddham  ====
   * prophylactic --- [[books:iso:8|Īśo 8]]

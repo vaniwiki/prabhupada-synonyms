@@ -1,5 +1,11 @@
-~~Title:nīca~~
-{{description>abominable; fallen; low; lowborn; lower; lower class; most fallen.}}
+---json
+{
+    "name":"nīca",
+    "h1":"nīca",
+    "title":"nīca --- synonyms, prabhupada.io",
+    "description":"abominable; fallen; low; lowborn; lower; lower class; most fallen."
+}
+---
 
 ==== nīca  ====
   * abominable --- [[books:cc:madhya:1:189|Madhya 1.189]]

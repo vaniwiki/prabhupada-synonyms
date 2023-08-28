@@ -1,5 +1,11 @@
-~~Title:dhanaka~~
-{{description>sons of Dhanaka.}}
+---json
+{
+    "name":"dhanaka",
+    "h1":"dhanaka",
+    "title":"dhanaka --- synonyms, prabhupada.io",
+    "description":"sons of Dhanaka."
+}
+---
 
 ==== dhanaka-ātmajāḥ  ====
   * sons of Dhanaka --- [[books:sb:9:23:23|SB 9.23.23]]

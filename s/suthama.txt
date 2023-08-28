@@ -1,5 +1,11 @@
-~~Title:suṭhāma~~
-{{description>nicely decorated with tilaka.}}
+---json
+{
+    "name":"suṭhāma",
+    "h1":"suṭhāma",
+    "title":"suṭhāma --- synonyms, prabhupada.io",
+    "description":"nicely decorated with tilaka."
+}
+---
 
 ==== tilaka suṭhāma  ====
   * nicely decorated with //tilaka// --- [[books:cc:adi:5:187|Ādi 5.187]]

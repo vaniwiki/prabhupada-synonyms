@@ -1,5 +1,11 @@
-~~Title:samāpayat~~
-{{description>executed.}}
+---json
+{
+    "name":"samāpayat",
+    "h1":"samāpayat",
+    "title":"samāpayat --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== samāpayat  ====
   * executed --- [[books:sb:9:8:29|SB 9.8.29]]

@@ -1,5 +1,11 @@
-~~Title:satyavatīm~~
-{{description>Satyavatī.}}
+---json
+{
+    "name":"satyavatīm",
+    "h1":"satyavatīm",
+    "title":"satyavatīm --- synonyms, prabhupada.io",
+    "description":"Satyavatī."
+}
+---
 
 ==== satyavatīm  ====
   * Satyavatī --- [[books:sb:9:15:5-6|SB 9.15.5-6]]

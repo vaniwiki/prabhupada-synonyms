@@ -1,5 +1,11 @@
-~~Title:kiṅkara~~
-{{description>one servant; servant; servants.}}
+---json
+{
+    "name":"kiṅkara",
+    "h1":"kiṅkara",
+    "title":"kiṅkara --- synonyms, prabhupada.io",
+    "description":"one servant; servant; servants."
+}
+---
 
 ==== kiṅkara  ====
   * one servant --- [[books:cc:madhya:10:101|Madhya 10.101]]

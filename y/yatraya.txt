@@ -1,5 +1,11 @@
-~~Title:yatraya~~
-{{description>living condition.}}
+---json
+{
+    "name":"yatraya",
+    "h1":"yatraya",
+    "title":"yatraya --- synonyms, prabhupada.io",
+    "description":"living condition."
+}
+---
 
 ==== yātrayā  ====
   * living condition --- [[books:sb:4:23:20|SB 4.23.20]]

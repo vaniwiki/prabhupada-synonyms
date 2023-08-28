@@ -1,5 +1,11 @@
-~~Title:svapantaḥ~~
-{{description>lying down.}}
+---json
+{
+    "name":"svapantaḥ",
+    "h1":"svapantaḥ",
+    "title":"svapantaḥ --- synonyms, prabhupada.io",
+    "description":"lying down."
+}
+---
 
 ==== svapantaḥ  ====
   * lying down --- [[books:sb:4:7:30|SB 4.7.30]]

@@ -1,5 +1,11 @@
-~~Title:rājate~~
-{{description>shine.}}
+---json
+{
+    "name":"rājate",
+    "h1":"rājate",
+    "title":"rājate --- synonyms, prabhupada.io",
+    "description":"shine."
+}
+---
 
 ==== rājate  ====
   * shine --- [[books:cc:madhya:17:212|Madhya 17.212]]

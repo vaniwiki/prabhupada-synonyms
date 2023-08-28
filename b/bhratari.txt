@@ -1,5 +1,11 @@
-~~Title:bhrātari~~
-{{description>brother; when the brother (Hiraṇyākṣa).}}
+---json
+{
+    "name":"bhrātari",
+    "h1":"bhrātari",
+    "title":"bhrātari --- synonyms, prabhupada.io",
+    "description":"brother; when the brother (Hiraṇyākṣa)."
+}
+---
 
 ==== bhrātari  ====
   * brother --- [[books:sb:4:9:23|SB 4.9.23]]

@@ -1,5 +1,11 @@
-~~Title:vipinam~~
-{{description>deep forests.}}
+---json
+{
+    "name":"vipinam",
+    "h1":"vipinam",
+    "title":"vipinam --- synonyms, prabhupada.io",
+    "description":"deep forests."
+}
+---
 
 ==== vipinam  ====
   * deep forests --- [[books:sb:1:6:13|SB 1.6.13]]

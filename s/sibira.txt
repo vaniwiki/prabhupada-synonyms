@@ -1,5 +1,11 @@
-~~Title:śibira~~
-{{description>military encampments.}}
+---json
+{
+    "name":"śibira",
+    "h1":"śibira",
+    "title":"śibira --- synonyms, prabhupada.io",
+    "description":"military encampments."
+}
+---
 
 ==== śibira  ====
   * military encampments --- [[books:sb:5:5:30|SB 5.5.30]]

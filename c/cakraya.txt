@@ -1,5 +1,11 @@
-~~Title:cakrāya~~
-{{description>who throws the disc.}}
+---json
+{
+    "name":"cakrāya",
+    "h1":"cakrāya",
+    "title":"cakrāya --- synonyms, prabhupada.io",
+    "description":"who throws the disc."
+}
+---
 
 ==== asta-cakrāya  ====
   * who throws the disc --- [[books:sb:6:9:31|SB 6.9.31]]

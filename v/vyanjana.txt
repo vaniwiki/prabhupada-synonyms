@@ -1,5 +1,11 @@
-~~Title:vyañjana~~
-{{description>all the vegetables; and of all other vegetables; cooked vegetables; vegetable; vegetables.}}
+---json
+{
+    "name":"vyañjana",
+    "h1":"vyañjana",
+    "title":"vyañjana --- synonyms, prabhupada.io",
+    "description":"all the vegetables; and of all other vegetables; cooked vegetables; vegetable; vegetables."
+}
+---
 
 ==== vyañjana  ====
   * all the vegetables --- [[books:cc:madhya:3:88|Madhya 3.88]]

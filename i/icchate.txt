@@ -1,5 +1,11 @@
-~~Title:icchāte~~
-{{description>by My will.}}
+---json
+{
+    "name":"icchāte",
+    "h1":"icchāte",
+    "title":"icchāte --- synonyms, prabhupada.io",
+    "description":"by My will."
+}
+---
 
 ==== icchāte  ====
   * by My will --- [[books:cc:adi:9:45|Ādi 9.45]]

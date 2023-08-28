@@ -1,5 +1,11 @@
-~~Title:upananda~~
-{{description>by the name Upananda (the elder brother of Nanda Mahārāja).}}
+---json
+{
+    "name":"upananda",
+    "h1":"upananda",
+    "title":"upananda --- synonyms, prabhupada.io",
+    "description":"by the name Upananda (the elder brother of Nanda Mahārāja)."
+}
+---
 
 ==== upananda-nāmā  ====
   * by the name Upananda (the elder brother of Nanda Mahārāja) --- [[books:sb:10:11:22|SB 10.11.22]]

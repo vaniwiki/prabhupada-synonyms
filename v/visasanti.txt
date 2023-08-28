@@ -1,5 +1,11 @@
-~~Title:viśasanti~~
-{{description>kill.}}
+---json
+{
+    "name":"viśasanti",
+    "h1":"viśasanti",
+    "title":"viśasanti --- synonyms, prabhupada.io",
+    "description":"kill."
+}
+---
 
 ==== viśasanti  ====
   * kill --- [[books:sb:5:26:25|SB 5.26.25]]

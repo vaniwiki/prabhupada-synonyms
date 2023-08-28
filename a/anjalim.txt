@@ -1,5 +1,11 @@
-~~Title:añjalim~~
-{{description>folded hands.}}
+---json
+{
+    "name":"añjalim",
+    "h1":"añjalim",
+    "title":"añjalim --- synonyms, prabhupada.io",
+    "description":"folded hands."
+}
+---
 
 ==== añjalim  ====
   * folded hands --- [[books:sb:3:31:18|SB 3.31.18]]

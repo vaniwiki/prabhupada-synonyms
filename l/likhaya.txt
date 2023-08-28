@@ -1,5 +1,11 @@
-~~Title:likhāya~~
-{{description>dictates to me.}}
+---json
+{
+    "name":"likhāya",
+    "h1":"likhāya",
+    "title":"likhāya --- synonyms, prabhupada.io",
+    "description":"dictates to me."
+}
+---
 
 ==== likhāya  ====
   * dictates to me --- [[books:cc:adi:8:79|Ādi 8.79]]

@@ -1,5 +1,11 @@
-~~Title:hariṣye~~
-{{description>I shall separate.}}
+---json
+{
+    "name":"hariṣye",
+    "h1":"hariṣye",
+    "title":"hariṣye --- synonyms, prabhupada.io",
+    "description":"I shall separate."
+}
+---
 
 ==== hariṣye  ====
   * I shall separate --- [[books:sb:8:11:6|SB 8.11.6]]

@@ -1,5 +1,11 @@
-~~Title:pañcāśa~~
-{{description>fifty.}}
+---json
+{
+    "name":"pañcāśa",
+    "h1":"pañcāśa",
+    "title":"pañcāśa --- synonyms, prabhupada.io",
+    "description":"fifty."
+}
+---
 
 ==== pañcāśa  ====
   * fifty --- [[books:cc:adi:8:57|Ādi 8.57]]

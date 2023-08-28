@@ -1,5 +1,11 @@
-~~Title:mukhyasya~~
-{{description>of the living force.}}
+---json
+{
+    "name":"mukhyasya",
+    "h1":"mukhyasya",
+    "title":"mukhyasya --- synonyms, prabhupada.io",
+    "description":"of the living force."
+}
+---
 
 ==== mukhyasya  ====
   * of the living force --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

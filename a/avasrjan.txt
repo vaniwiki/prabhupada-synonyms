@@ -1,5 +1,11 @@
-~~Title:avāsṛjan~~
-{{description>produced.}}
+---json
+{
+    "name":"avāsṛjan",
+    "h1":"avāsṛjan",
+    "title":"avāsṛjan --- synonyms, prabhupada.io",
+    "description":"produced."
+}
+---
 
 ==== avāsṛjan  ====
   * produced --- [[books:sb:3:20:14|SB 3.20.14]]

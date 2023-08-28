@@ -1,5 +1,11 @@
-~~Title:bahavah~~
-{{description>in great numbers; many; many of them; many, many.}}
+---json
+{
+    "name":"bahavah",
+    "h1":"bahavah",
+    "title":"bahavah --- synonyms, prabhupada.io",
+    "description":"in great numbers; many; many of them; many, many."
+}
+---
 
 ==== bahavaḥ  ====
   * in great numbers --- [[books:bg:1:9|Bg. 1.9]]

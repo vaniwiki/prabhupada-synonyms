@@ -1,5 +1,11 @@
-~~Title:yau~~
-{{description>which.}}
+---json
+{
+    "name":"yau",
+    "h1":"yau",
+    "title":"yau --- synonyms, prabhupada.io",
+    "description":"which."
+}
+---
 
 ==== yau  ====
   * which --- [[books:sb:2:3:22|SB 2.3.22]]

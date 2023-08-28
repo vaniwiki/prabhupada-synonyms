@@ -1,5 +1,11 @@
-~~Title:dhātā~~
-{{description>creator; Dhātā; supporter; the creator.}}
+---json
+{
+    "name":"dhātā",
+    "h1":"dhātā",
+    "title":"dhātā --- synonyms, prabhupada.io",
+    "description":"creator; Dhātā; supporter; the creator."
+}
+---
 
 ==== dhātā  ====
   * creator --- [[books:bg:10:33|Bg. 10.33]]

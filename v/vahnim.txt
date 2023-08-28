@@ -1,5 +1,11 @@
-~~Title:vahnim~~
-{{description>fire; the fire.}}
+---json
+{
+    "name":"vahnim",
+    "h1":"vahnim",
+    "title":"vahnim --- synonyms, prabhupada.io",
+    "description":"fire; the fire."
+}
+---
 
 ==== vahnim  ====
   * fire --- [[books:sb:3:17:9|SB 3.17.9]], [[books:sb:6:4:27-28|SB 6.4.27-28]], [[books:sb:7:9:47|SB 7.9.47]], [[books:sb:8:20:25-29|SB 8.20.25-29]]

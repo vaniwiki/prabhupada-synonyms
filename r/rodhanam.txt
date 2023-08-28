@@ -1,5 +1,11 @@
-~~Title:rodhanam~~
-{{description>enclosing.}}
+---json
+{
+    "name":"rodhanam",
+    "h1":"rodhanam",
+    "title":"rodhanam --- synonyms, prabhupada.io",
+    "description":"enclosing."
+}
+---
 
 ==== rodhanam  ====
   * enclosing --- [[books:sb:3:30:27|SB 3.30.27]]

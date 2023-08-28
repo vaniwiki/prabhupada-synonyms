@@ -1,5 +1,11 @@
-~~Title:anarvā~~
-{{description>Anarvā.}}
+---json
+{
+    "name":"anarvā",
+    "h1":"anarvā",
+    "title":"anarvā --- synonyms, prabhupada.io",
+    "description":"Anarvā."
+}
+---
 
 ==== anarvā  ====
   * Anarvā --- [[books:sb:6:10:19-22|SB 6.10.19-22]]

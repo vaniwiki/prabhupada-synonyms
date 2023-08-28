@@ -1,5 +1,11 @@
-~~Title:līlāte~~
-{{description>in pastimes.}}
+---json
+{
+    "name":"līlāte",
+    "h1":"līlāte",
+    "title":"līlāte --- synonyms, prabhupada.io",
+    "description":"in pastimes."
+}
+---
 
 ==== līlāte  ====
   * in pastimes --- [[books:cc:adi:6:41|Ādi 6.41]]

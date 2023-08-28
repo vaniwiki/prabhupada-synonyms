@@ -1,5 +1,11 @@
-~~Title:nivaha~~
-{{description>of the total living entities.}}
+---json
+{
+    "name":"nivaha",
+    "h1":"nivaha",
+    "title":"nivaha --- synonyms, prabhupada.io",
+    "description":"of the total living entities."
+}
+---
 
 ==== sarva-jīva-nivaha  ====
   * of the total living entities --- [[books:sb:5:22:9|SB 5.22.9]]

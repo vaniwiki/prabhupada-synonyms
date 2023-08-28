@@ -1,5 +1,11 @@
-~~Title:pratīccha~~
-{{description>accept; kindly exchange; please accept; take; You may take.}}
+---json
+{
+    "name":"pratīccha",
+    "h1":"pratīccha",
+    "title":"pratīccha --- synonyms, prabhupada.io",
+    "description":"accept; kindly exchange; please accept; take; You may take."
+}
+---
 
 ==== pratīccha  ====
   * accept --- [[books:sb:6:15:27|SB 6.15.27]]

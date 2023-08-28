@@ -1,5 +1,11 @@
-~~Title:utpatah~~
-{{description>disturbance; kind of disturbance.}}
+---json
+{
+    "name":"utpatah",
+    "h1":"utpatah",
+    "title":"utpatah --- synonyms, prabhupada.io",
+    "description":"disturbance; kind of disturbance."
+}
+---
 
 ==== utpātaḥ  ====
   * disturbance --- [[books:sb:10:11:3|SB 10.11.3]]

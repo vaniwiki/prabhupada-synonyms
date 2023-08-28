@@ -1,5 +1,11 @@
-~~Title:sampādaye~~
-{{description>shall fulfill.}}
+---json
+{
+    "name":"sampādaye",
+    "h1":"sampādaye",
+    "title":"sampādaye --- synonyms, prabhupada.io",
+    "description":"shall fulfill."
+}
+---
 
 ==== sampādaye  ====
   * shall fulfill --- [[books:sb:6:18:36|SB 6.18.36]]

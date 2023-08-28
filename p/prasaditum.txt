@@ -1,5 +1,11 @@
-~~Title:prasāditum~~
-{{description>to satisfy.}}
+---json
+{
+    "name":"prasāditum",
+    "h1":"prasāditum",
+    "title":"prasāditum --- synonyms, prabhupada.io",
+    "description":"to satisfy."
+}
+---
 
 ==== prasāditum  ====
   * to satisfy --- [[books:sb:9:19:9|SB 9.19.9]]

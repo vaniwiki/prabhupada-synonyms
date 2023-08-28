@@ -1,5 +1,11 @@
-~~Title:miṣan~~
-{{description>although seeing.}}
+---json
+{
+    "name":"miṣan",
+    "h1":"miṣan",
+    "title":"miṣan --- synonyms, prabhupada.io",
+    "description":"although seeing."
+}
+---
 
 ==== miṣan  ====
   * although seeing --- [[books:sb:5:18:3|SB 5.18.3]]

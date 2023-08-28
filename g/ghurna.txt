@@ -1,5 +1,11 @@
-~~Title:ghūrṇā~~
-{{description>agitated.}}
+---json
+{
+    "name":"ghūrṇā",
+    "h1":"ghūrṇā",
+    "title":"ghūrṇā --- synonyms, prabhupada.io",
+    "description":"agitated."
+}
+---
 
 ==== ghūrṇā  ====
   * agitated --- [[books:sb:9:10:17|SB 9.10.17]]

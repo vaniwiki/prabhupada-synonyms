@@ -1,5 +1,11 @@
-~~Title:yathocita~~
-{{description>befitting.}}
+---json
+{
+    "name":"yathocita",
+    "h1":"yathocita",
+    "title":"yathocita --- synonyms, prabhupada.io",
+    "description":"befitting."
+}
+---
 
 ==== yathocita  ====
   * befitting --- [[books:cc:madhya:4:137|Madhya 4.137]]

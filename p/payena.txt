@@ -1,5 +1,11 @@
-~~Title:pāyena~~
-{{description>gets; he gets; She gets.}}
+---json
+{
+    "name":"pāyena",
+    "h1":"pāyena",
+    "title":"pāyena --- synonyms, prabhupada.io",
+    "description":"gets; he gets; She gets."
+}
+---
 
 ==== pāyena  ====
   * gets --- [[books:cc:antya:19:4|Antya 19.4]]

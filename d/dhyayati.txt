@@ -1,5 +1,11 @@
-~~Title:dhyayati~~
-{{description>meditates; meditating; ponders.}}
+---json
+{
+    "name":"dhyayati",
+    "h1":"dhyayati",
+    "title":"dhyayati --- synonyms, prabhupada.io",
+    "description":"meditates; meditating; ponders."
+}
+---
 
 ==== dhyāyati  ====
   * meditates --- [[books:sb:7:7:35|SB 7.7.35]]

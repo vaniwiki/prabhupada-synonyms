@@ -1,5 +1,11 @@
-~~Title:vimohaḥ~~
-{{description>the bewilderment.}}
+---json
+{
+    "name":"vimohaḥ",
+    "h1":"vimohaḥ",
+    "title":"vimohaḥ --- synonyms, prabhupada.io",
+    "description":"the bewilderment."
+}
+---
 
 ==== vimohaḥ  ====
   * the bewilderment --- [[books:sb:7:2:37|SB 7.2.37]]

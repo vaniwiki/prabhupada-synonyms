@@ -1,5 +1,11 @@
-~~Title:maruttaḥ~~
-{{description>(the son) named Marutta.}}
+---json
+{
+    "name":"maruttaḥ",
+    "h1":"maruttaḥ",
+    "title":"maruttaḥ --- synonyms, prabhupada.io",
+    "description":"(the son) named Marutta."
+}
+---
 
 ==== maruttaḥ  ====
   * (the son) named Marutta --- [[books:sb:9:2:26|SB 9.2.26]]

@@ -1,5 +1,11 @@
-~~Title:ghatana~~
-{{description>happening; possible; the happening; the operation.}}
+---json
+{
+    "name":"ghatana",
+    "h1":"ghatana",
+    "title":"ghatana --- synonyms, prabhupada.io",
+    "description":"happening; possible; the happening; the operation."
+}
+---
 
 ==== ghaṭana  ====
   * happening --- [[books:cc:madhya:10:7|Madhya 10.7]]

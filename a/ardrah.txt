@@ -1,5 +1,11 @@
-~~Title:ārdraḥ~~
-{{description>merciful.}}
+---json
+{
+    "name":"ārdraḥ",
+    "h1":"ārdraḥ",
+    "title":"ārdraḥ --- synonyms, prabhupada.io",
+    "description":"merciful."
+}
+---
 
 ==== dayā-ārdraḥ  ====
   * merciful --- [[books:cc:madhya:24:349|Madhya 24.349]]

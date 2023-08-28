@@ -1,5 +1,11 @@
-~~Title:dekhimu~~
-{{description>I shall see.}}
+---json
+{
+    "name":"dekhimu",
+    "h1":"dekhimu",
+    "title":"dekhimu --- synonyms, prabhupada.io",
+    "description":"I shall see."
+}
+---
 
 ==== dekhimu  ====
   * I shall see --- [[books:cc:antya:10:128|Antya 10.128]], [[books:cc:antya:11:33|Antya 11.33]]

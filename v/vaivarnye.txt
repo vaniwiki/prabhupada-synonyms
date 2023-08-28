@@ -1,5 +1,11 @@
-~~Title:vaivarṇye~~
-{{description>by fading.}}
+---json
+{
+    "name":"vaivarṇye",
+    "h1":"vaivarṇye",
+    "title":"vaivarṇye --- synonyms, prabhupada.io",
+    "description":"by fading."
+}
+---
 
 ==== vaivarṇye  ====
   * by fading --- [[books:cc:antya:14:95|Antya 14.95]]

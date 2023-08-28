@@ -1,5 +1,11 @@
-~~Title:pratistha~~
-{{description>fame; reputation; the position; the rest.}}
+---json
+{
+    "name":"pratistha",
+    "h1":"pratistha",
+    "title":"pratistha --- synonyms, prabhupada.io",
+    "description":"fame; reputation; the position; the rest."
+}
+---
 
 ==== pratiṣṭhā  ====
   * fame --- [[books:cc:madhya:4:141|Madhya 4.141]]

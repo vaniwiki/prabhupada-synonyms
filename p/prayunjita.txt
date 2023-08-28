@@ -1,5 +1,11 @@
-~~Title:prayuñjīta~~
-{{description>may place.}}
+---json
+{
+    "name":"prayuñjīta",
+    "h1":"prayuñjīta",
+    "title":"prayuñjīta --- synonyms, prabhupada.io",
+    "description":"may place."
+}
+---
 
 ==== prayuñjīta  ====
   * may place --- [[books:sb:5:23:6|SB 5.23.6]]

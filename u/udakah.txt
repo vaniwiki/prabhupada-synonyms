@@ -1,5 +1,11 @@
-~~Title:udakāḥ~~
-{{description>water.}}
+---json
+{
+    "name":"udakāḥ",
+    "h1":"udakāḥ",
+    "title":"udakāḥ --- synonyms, prabhupada.io",
+    "description":"water."
+}
+---
 
 ==== udakāḥ  ====
   * water --- [[books:sb:7:4:17|SB 7.4.17]]

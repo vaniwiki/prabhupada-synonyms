@@ -1,5 +1,11 @@
-~~Title:kakudmi~~
-{{description>King Kakudmī.}}
+---json
+{
+    "name":"kakudmi",
+    "h1":"kakudmi",
+    "title":"kakudmi --- synonyms, prabhupada.io",
+    "description":"King Kakudmī."
+}
+---
 
 ==== kakudmī  ====
   * King Kakudmī --- [[books:sb:9:3:29|SB 9.3.29]]

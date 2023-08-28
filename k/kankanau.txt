@@ -1,5 +1,11 @@
-~~Title:kaṅkaṇau~~
-{{description>bangles.}}
+---json
+{
+    "name":"kaṅkaṇau",
+    "h1":"kaṅkaṇau",
+    "title":"kaṅkaṇau --- synonyms, prabhupada.io",
+    "description":"bangles."
+}
+---
 
 ==== kaṅkaṇau  ====
   * bangles --- [[books:sb:2:3:21|SB 2.3.21]]

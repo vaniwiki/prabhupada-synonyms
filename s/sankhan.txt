@@ -1,5 +1,11 @@
-~~Title:śaṅkhān~~
-{{description>conchshells.}}
+---json
+{
+    "name":"śaṅkhān",
+    "h1":"śaṅkhān",
+    "title":"śaṅkhān --- synonyms, prabhupada.io",
+    "description":"conchshells."
+}
+---
 
 ==== śaṅkhān  ====
   * conchshells --- [[books:bg:1:16-18|Bg. 1.16-18]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

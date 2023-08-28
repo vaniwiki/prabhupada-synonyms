@@ -1,5 +1,11 @@
-~~Title:koṭyaḥ~~
-{{description>groups of ten million.}}
+---json
+{
+    "name":"koṭyaḥ",
+    "h1":"koṭyaḥ",
+    "title":"koṭyaḥ --- synonyms, prabhupada.io",
+    "description":"groups of ten million."
+}
+---
 
 ==== koṭyaḥ  ====
   * groups of ten million --- [[books:sb:5:20:43|SB 5.20.43]]

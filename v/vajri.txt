@@ -1,5 +1,11 @@
-~~Title:vajri~~
-{{description>Indra, the holder of the thunderbolt; Indra, the King of heaven.}}
+---json
+{
+    "name":"vajri",
+    "h1":"vajri",
+    "title":"vajri --- synonyms, prabhupada.io",
+    "description":"Indra, the holder of the thunderbolt; Indra, the King of heaven."
+}
+---
 
 ==== vajrī  ====
   * Indra, the holder of the thunderbolt --- [[books:sb:6:12:3|SB 6.12.3]]

@@ -1,5 +1,11 @@
-~~Title:mahīruhaḥ~~
-{{description>a fig tree.}}
+---json
+{
+    "name":"mahīruhaḥ",
+    "h1":"mahīruhaḥ",
+    "title":"mahīruhaḥ --- synonyms, prabhupada.io",
+    "description":"a fig tree."
+}
+---
 
 ==== mahīruhaḥ  ====
   * a fig tree --- [[books:sb:5:20:24|SB 5.20.24]]

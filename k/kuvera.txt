@@ -1,5 +1,11 @@
-~~Title:kuvera~~
-{{description>Kuvera, the treasurer of the demigods.}}
+---json
+{
+    "name":"kuvera",
+    "h1":"kuvera",
+    "title":"kuvera --- synonyms, prabhupada.io",
+    "description":"Kuvera, the treasurer of the demigods."
+}
+---
 
 ==== kuvera  ====
   * Kuvera, the treasurer of the demigods --- [[books:sb:1:9:3|SB 1.9.3]]

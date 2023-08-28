@@ -1,5 +1,11 @@
-~~Title:ayanani~~
-{{description>as good as nectar.}}
+---json
+{
+    "name":"ayanani",
+    "h1":"ayanani",
+    "title":"ayanani --- synonyms, prabhupada.io",
+    "description":"as good as nectar."
+}
+---
 
 ==== amṛta-ayanāni  ====
   * as good as nectar --- [[books:sb:3:1:9|SB 3.1.9]]

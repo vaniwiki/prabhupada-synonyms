@@ -1,5 +1,11 @@
-~~Title:aprati~~
-{{description>uncontrollable.}}
+---json
+{
+    "name":"aprati",
+    "h1":"aprati",
+    "title":"aprati --- synonyms, prabhupada.io",
+    "description":"uncontrollable."
+}
+---
 
 ==== aprati  ====
   * uncontrollable --- [[books:sb:8:7:19|SB 8.7.19]]

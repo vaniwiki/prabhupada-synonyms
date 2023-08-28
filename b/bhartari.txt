@@ -1,5 +1,11 @@
-~~Title:bhartari~~
-{{description>by the husband; maintainer; the protector; toward the master; when the husband.}}
+---json
+{
+    "name":"bhartari",
+    "h1":"bhartari",
+    "title":"bhartari --- synonyms, prabhupada.io",
+    "description":"by the husband; maintainer; the protector; toward the master; when the husband."
+}
+---
 
 ==== bhartari  ====
   * by the husband --- [[books:sb:3:14:12|SB 3.14.12]]

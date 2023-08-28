@@ -1,5 +1,11 @@
-~~Title:aiśyam~~
-{{description>the ability.}}
+---json
+{
+    "name":"aiśyam",
+    "h1":"aiśyam",
+    "title":"aiśyam --- synonyms, prabhupada.io",
+    "description":"the ability."
+}
+---
 
 ==== aiśyam  ====
   * the ability --- [[books:sb:10:13:45|SB 10.13.45]]

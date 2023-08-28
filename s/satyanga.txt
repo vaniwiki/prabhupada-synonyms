@@ -1,5 +1,11 @@
-~~Title:satyāṅga~~
-{{description>Satyāṅga.}}
+---json
+{
+    "name":"satyāṅga",
+    "h1":"satyāṅga",
+    "title":"satyāṅga --- synonyms, prabhupada.io",
+    "description":"Satyāṅga."
+}
+---
 
 ==== satyāṅga  ====
   * Satyāṅga --- [[books:sb:5:20:3-4|SB 5.20.3-4]]

@@ -1,5 +1,11 @@
-~~Title:pralāpilāṅa~~
-{{description>I have said.}}
+---json
+{
+    "name":"pralāpilāṅa",
+    "h1":"pralāpilāṅa",
+    "title":"pralāpilāṅa --- synonyms, prabhupada.io",
+    "description":"I have said."
+}
+---
 
 ==== pralāpilāṅa  ====
   * I have said --- [[books:cc:madhya:24:8|Madhya 24.8]]

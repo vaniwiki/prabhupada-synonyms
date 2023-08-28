@@ -1,5 +1,11 @@
-~~Title:śodhiyā~~
-{{description>cleansing.}}
+---json
+{
+    "name":"śodhiyā",
+    "h1":"śodhiyā",
+    "title":"śodhiyā --- synonyms, prabhupada.io",
+    "description":"cleansing."
+}
+---
 
 ==== śodhiyā  ====
   * cleansing --- [[books:cc:madhya:12:105|Madhya 12.105]]

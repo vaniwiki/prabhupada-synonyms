@@ -1,5 +1,11 @@
-~~Title:kīrtaya~~
-{{description>kindly describe; narrate; please chant; please narrate.}}
+---json
+{
+    "name":"kīrtaya",
+    "h1":"kīrtaya",
+    "title":"kīrtaya --- synonyms, prabhupada.io",
+    "description":"kindly describe; narrate; please chant; please narrate."
+}
+---
 
 ==== kīrtaya  ====
   * kindly describe --- [[books:sb:3:5:15|SB 3.5.15]]

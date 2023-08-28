@@ -1,5 +1,11 @@
-~~Title:satram~~
-{{description>sacrifice; the sacrifice.}}
+---json
+{
+    "name":"satram",
+    "h1":"satram",
+    "title":"satram --- synonyms, prabhupada.io",
+    "description":"sacrifice; the sacrifice."
+}
+---
 
 ==== satram  ====
   * sacrifice --- [[books:sb:1:1:4|SB 1.1.4]], [[books:sb:9:4:3|SB 9.4.3]]

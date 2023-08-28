@@ -1,5 +1,11 @@
-~~Title:ankita~~
-{{description>marked; the author.}}
+---json
+{
+    "name":"ankita",
+    "h1":"ankita",
+    "title":"ankita --- synonyms, prabhupada.io",
+    "description":"marked; the author."
+}
+---
 
 ==== aṅkita  ====
   * marked --- [[books:sb:3:1:23|SB 3.1.23]]

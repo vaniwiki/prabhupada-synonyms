@@ -1,5 +1,11 @@
-~~Title:nivediluṅ~~
-{{description>I submitted.}}
+---json
+{
+    "name":"nivediluṅ",
+    "h1":"nivediluṅ",
+    "title":"nivediluṅ --- synonyms, prabhupada.io",
+    "description":"I submitted."
+}
+---
 
 ==== nivediluṅ  ====
   * I submitted --- [[books:cc:adi:7:80|Ādi 7.80]]

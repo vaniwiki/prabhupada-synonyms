@@ -1,5 +1,11 @@
-~~Title:sanniveśitam~~
-{{description>being situated.}}
+---json
+{
+    "name":"sanniveśitam",
+    "h1":"sanniveśitam",
+    "title":"sanniveśitam --- synonyms, prabhupada.io",
+    "description":"being situated."
+}
+---
 
 ==== sanniveśitam  ====
   * being situated --- [[books:sb:6:4:27-28|SB 6.4.27-28]]

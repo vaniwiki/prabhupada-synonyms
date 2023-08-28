@@ -1,5 +1,11 @@
-~~Title:mṛjāmi~~
-{{description>I shall wash.}}
+---json
+{
+    "name":"mṛjāmi",
+    "h1":"mṛjāmi",
+    "title":"mṛjāmi --- synonyms, prabhupada.io",
+    "description":"I shall wash."
+}
+---
 
 ==== mṛjāmi  ====
   * I shall wash --- [[books:sb:9:9:5|SB 9.9.5]]

@@ -1,5 +1,11 @@
-~~Title:amare~~
-{{description>without death.}}
+---json
+{
+    "name":"amare",
+    "h1":"amare",
+    "title":"amare --- synonyms, prabhupada.io",
+    "description":"without death."
+}
+---
 
 ==== amare  ====
   * without death --- [[books:cc:adi:9:39|Ādi 9.39]]

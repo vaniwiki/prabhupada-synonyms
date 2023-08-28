@@ -1,5 +1,11 @@
-~~Title:sāmyābhiḥ~~
-{{description>equal.}}
+---json
+{
+    "name":"sāmyābhiḥ",
+    "h1":"sāmyābhiḥ",
+    "title":"sāmyābhiḥ --- synonyms, prabhupada.io",
+    "description":"equal."
+}
+---
 
 ==== sāmyābhiḥ  ====
   * equal --- [[books:sb:5:22:12|SB 5.22.12]]

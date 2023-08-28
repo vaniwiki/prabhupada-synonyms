@@ -1,5 +1,11 @@
-~~Title:prāpnuyāt~~
-{{description>attains.}}
+---json
+{
+    "name":"prāpnuyāt",
+    "h1":"prāpnuyāt",
+    "title":"prāpnuyāt --- synonyms, prabhupada.io",
+    "description":"attains."
+}
+---
 
 ==== prāpnuyāt  ====
   * attains --- [[books:bg:18:71|Bg. 18.71]]

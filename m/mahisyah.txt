@@ -1,5 +1,11 @@
-~~Title:mahisyah~~
-{{description>O queens; the queens.}}
+---json
+{
+    "name":"mahisyah",
+    "h1":"mahisyah",
+    "title":"mahisyah --- synonyms, prabhupada.io",
+    "description":"O queens; the queens."
+}
+---
 
 ==== mahiṣyaḥ  ====
   * O queens --- [[books:sb:7:2:52|SB 7.2.52]]

@@ -1,5 +1,11 @@
-~~Title:nāsahimu~~
-{{description>I shall not tolerate.}}
+---json
+{
+    "name":"nāsahimu",
+    "h1":"nāsahimu",
+    "title":"nāsahimu --- synonyms, prabhupada.io",
+    "description":"I shall not tolerate."
+}
+---
 
 ==== nāsahimu  ====
   * I shall not tolerate --- [[books:cc:adi:17:185|Ādi 17.185]]

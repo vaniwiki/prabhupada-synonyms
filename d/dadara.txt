@@ -1,5 +1,11 @@
-~~Title:dadāra~~
-{{description>bifurcated; pierced.}}
+---json
+{
+    "name":"dadāra",
+    "h1":"dadāra",
+    "title":"dadāra --- synonyms, prabhupada.io",
+    "description":"bifurcated; pierced."
+}
+---
 
 ==== dadāra  ====
   * bifurcated --- [[books:sb:1:3:18|SB 1.3.18]], [[books:sb:10:11:51|SB 10.11.51]]

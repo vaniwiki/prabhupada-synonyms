@@ -1,5 +1,11 @@
-~~Title:gaṇane~~
-{{description>in counting.}}
+---json
+{
+    "name":"gaṇane",
+    "h1":"gaṇane",
+    "title":"gaṇane --- synonyms, prabhupada.io",
+    "description":"in counting."
+}
+---
 
 ==== gaṇane  ====
   * in counting --- [[books:cc:madhya:7:37|Madhya 7.37]], [[books:cc:madhya:8:85|Madhya 8.85]], [[books:cc:madhya:8:185|Madhya 8.185]]

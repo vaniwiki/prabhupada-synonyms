@@ -1,5 +1,11 @@
-~~Title:namasyataḥ~~
-{{description>offering obeisances.}}
+---json
+{
+    "name":"namasyataḥ",
+    "h1":"namasyataḥ",
+    "title":"namasyataḥ --- synonyms, prabhupada.io",
+    "description":"offering obeisances."
+}
+---
 
 ==== namasyataḥ  ====
   * offering obeisances --- [[books:sb:5:23:9|SB 5.23.9]]

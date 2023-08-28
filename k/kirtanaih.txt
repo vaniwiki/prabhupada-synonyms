@@ -1,5 +1,11 @@
-~~Title:kīrtanaiḥ~~
-{{description>by chanting; by glorifications.}}
+---json
+{
+    "name":"kīrtanaiḥ",
+    "h1":"kīrtanaiḥ",
+    "title":"kīrtanaiḥ --- synonyms, prabhupada.io",
+    "description":"by chanting; by glorifications."
+}
+---
 
 ==== kīrtanaiḥ  ====
   * by chanting --- [[books:cc:adi:17:4|Ādi 17.4]]

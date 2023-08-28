@@ -1,5 +1,11 @@
-~~Title:anne~~
-{{description>with so much food.}}
+---json
+{
+    "name":"anne",
+    "h1":"anne",
+    "title":"anne --- synonyms, prabhupada.io",
+    "description":"with so much food."
+}
+---
 
 ==== ei anne  ====
   * with so much food --- [[books:cc:madhya:15:248|Madhya 15.248]]

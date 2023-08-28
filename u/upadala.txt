@@ -1,5 +1,11 @@
-~~Title:upaḍāla~~
-{{description>subbranches.}}
+---json
+{
+    "name":"upaḍāla",
+    "h1":"upaḍāla",
+    "title":"upaḍāla --- synonyms, prabhupada.io",
+    "description":"subbranches."
+}
+---
 
 ==== upaḍāla  ====
   * subbranches --- [[books:cc:adi:10:160|Ādi 10.160]]

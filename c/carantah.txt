@@ -1,5 +1,11 @@
-~~Title:carantaḥ~~
-{{description>being engaged; traveling about.}}
+---json
+{
+    "name":"carantaḥ",
+    "h1":"carantaḥ",
+    "title":"carantaḥ --- synonyms, prabhupada.io",
+    "description":"being engaged; traveling about."
+}
+---
 
 ==== carantaḥ  ====
   * being engaged --- [[books:sb:4:29:45|SB 4.29.45]]

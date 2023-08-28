@@ -1,5 +1,11 @@
-~~Title:jvaram~~
-{{description>the headache.}}
+---json
+{
+    "name":"jvaram",
+    "h1":"jvaram",
+    "title":"jvaram --- synonyms, prabhupada.io",
+    "description":"the headache."
+}
+---
 
 ==== mastaka-jvaram  ====
   * the headache --- [[books:sb:7:8:35|SB 7.8.35]]

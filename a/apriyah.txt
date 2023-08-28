@@ -1,5 +1,11 @@
-~~Title:apriyaḥ~~
-{{description>enemy; not dear; not very pleasing; undesirable.}}
+---json
+{
+    "name":"apriyaḥ",
+    "h1":"apriyaḥ",
+    "title":"apriyaḥ --- synonyms, prabhupada.io",
+    "description":"enemy; not dear; not very pleasing; undesirable."
+}
+---
 
 ==== apriyaḥ  ====
   * enemy --- [[books:sb:4:4:11|SB 4.4.11]]

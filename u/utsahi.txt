@@ -1,5 +1,11 @@
-~~Title:utsāhī~~
-{{description>materially enthusiastic.}}
+---json
+{
+    "name":"utsāhī",
+    "h1":"utsāhī",
+    "title":"utsāhī --- synonyms, prabhupada.io",
+    "description":"materially enthusiastic."
+}
+---
 
 ==== utsāhī  ====
   * materially enthusiastic --- [[books:nbs:5|NBS 5]]

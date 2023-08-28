@@ -1,5 +1,11 @@
-~~Title:kandara~~
-{{description>caves.}}
+---json
+{
+    "name":"kandara",
+    "h1":"kandara",
+    "title":"kandara --- synonyms, prabhupada.io",
+    "description":"caves."
+}
+---
 
 ==== kandara  ====
   * caves --- [[books:sb:4:6:11|SB 4.6.11]], [[books:sb:8:4:17-24|SB 8.4.17-24]], [[books:cc:madhya:18:34|Madhya 18.34]], [[books:cc:antya:14:86|Antya 14.86]]

@@ -1,5 +1,11 @@
-~~Title:panthah~~
-{{description>means; path; the path; the pure unadulterated path; the pure, unadulterated path; the way; way.}}
+---json
+{
+    "name":"panthah",
+    "h1":"panthah",
+    "title":"panthah --- synonyms, prabhupada.io",
+    "description":"means; path; the path; the pure unadulterated path; the pure, unadulterated path; the way; way."
+}
+---
 
 ==== panthāḥ  ====
   * means --- [[books:sb:2:2:33|SB 2.2.33]]

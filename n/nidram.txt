@@ -1,5 +1,11 @@
-~~Title:nidrām~~
-{{description>sleep; sleeping.}}
+---json
+{
+    "name":"nidrām",
+    "h1":"nidrām",
+    "title":"nidrām --- synonyms, prabhupada.io",
+    "description":"sleep; sleeping."
+}
+---
 
 ==== nidrām  ====
   * sleep --- [[books:sb:3:9:20|SB 3.9.20]], [[books:sb:3:20:41|SB 3.20.41]]

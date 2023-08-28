@@ -1,5 +1,11 @@
-~~Title:chayera~~
-{{description>of the six philosophers.}}
+---json
+{
+    "name":"chayera",
+    "h1":"chayera",
+    "title":"chayera --- synonyms, prabhupada.io",
+    "description":"of the six philosophers."
+}
+---
 
 ==== chayera  ====
   * of the six philosophers --- [[books:cc:madhya:25:53|Madhya 25.53]]

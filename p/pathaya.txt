@@ -1,5 +1,11 @@
-~~Title:pathaya~~
-{{description>on the way of.}}
+---json
+{
+    "name":"pathaya",
+    "h1":"pathaya",
+    "title":"pathaya --- synonyms, prabhupada.io",
+    "description":"on the way of."
+}
+---
 
 ==== pathāya  ====
   * on the way of --- [[books:sb:1:15:32|SB 1.15.32]]

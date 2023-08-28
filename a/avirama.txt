@@ -1,5 +1,11 @@
-~~Title:avirāma~~
-{{description>always.}}
+---json
+{
+    "name":"avirāma",
+    "h1":"avirāma",
+    "title":"avirāma --- synonyms, prabhupada.io",
+    "description":"always."
+}
+---
 
 ==== avirāma  ====
   * always --- [[books:cc:madhya:7:117|Madhya 7.117]]

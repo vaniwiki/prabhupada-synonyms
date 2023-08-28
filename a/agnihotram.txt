@@ -1,5 +1,11 @@
-~~Title:agnihotram~~
-{{description>Agnihotra; the sacrifice known as Agnihotra-yajña.}}
+---json
+{
+    "name":"agnihotram",
+    "h1":"agnihotram",
+    "title":"agnihotram --- synonyms, prabhupada.io",
+    "description":"Agnihotra; the sacrifice known as Agnihotra-yajña."
+}
+---
 
 ==== agnihotram  ====
   * Agnihotra --- [[books:sb:6:18:1|SB 6.18.1]]

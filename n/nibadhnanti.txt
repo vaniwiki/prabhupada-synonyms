@@ -1,5 +1,11 @@
-~~Title:nibadhnanti~~
-{{description>bind; do bind up; does condition.}}
+---json
+{
+    "name":"nibadhnanti",
+    "h1":"nibadhnanti",
+    "title":"nibadhnanti --- synonyms, prabhupada.io",
+    "description":"bind; do bind up; does condition."
+}
+---
 
 ==== nibadhnanti  ====
   * bind --- [[books:bg:9:9|Bg. 9.9]]

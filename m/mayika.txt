@@ -1,5 +1,11 @@
-~~Title:māyika~~
-{{description>material.}}
+---json
+{
+    "name":"māyika",
+    "h1":"māyika",
+    "title":"māyika --- synonyms, prabhupada.io",
+    "description":"material."
+}
+---
 
 ==== māyika  ====
   * material --- [[books:cc:adi:5:53|Ādi 5.53]]

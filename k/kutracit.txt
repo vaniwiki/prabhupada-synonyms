@@ -1,5 +1,11 @@
-~~Title:kutracit~~
-{{description>anywhere; at any time; sometimes.}}
+---json
+{
+    "name":"kutracit",
+    "h1":"kutracit",
+    "title":"kutracit --- synonyms, prabhupada.io",
+    "description":"anywhere; at any time; sometimes."
+}
+---
 
 ==== kutracit  ====
   * anywhere --- [[books:cc:adi:2:74|Ādi 2.74]], [[books:cc:adi:16:58|Ādi 16.58]]

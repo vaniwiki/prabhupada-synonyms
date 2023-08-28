@@ -1,5 +1,11 @@
-~~Title:yotsya~~
-{{description>shall fight.}}
+---json
+{
+    "name":"yotsya",
+    "h1":"yotsya",
+    "title":"yotsya --- synonyms, prabhupada.io",
+    "description":"shall fight."
+}
+---
 
 ==== yotsya  ====
   * shall fight --- [[books:bg:18:59|Bg. 18.59]]

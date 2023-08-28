@@ -1,5 +1,11 @@
-~~Title:cana~~
-{{description>chick-peas; fried chick-peas.}}
+---json
+{
+    "name":"cana",
+    "h1":"cana",
+    "title":"cana --- synonyms, prabhupada.io",
+    "description":"chick-peas; fried chick-peas."
+}
+---
 
 ==== cānā  ====
   * chick-peas --- [[books:cc:madhya:19:128|Madhya 19.128]]

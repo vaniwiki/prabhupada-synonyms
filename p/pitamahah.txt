@@ -1,5 +1,11 @@
-~~Title:pitamahah~~
-{{description>grandfather; Lord Brahmā; my grandfather; the grandfather; your grandfather.}}
+---json
+{
+    "name":"pitamahah",
+    "h1":"pitamahah",
+    "title":"pitamahah --- synonyms, prabhupada.io",
+    "description":"grandfather; Lord Brahmā; my grandfather; the grandfather; your grandfather."
+}
+---
 
 ==== pitāmahaḥ  ====
   * grandfather --- [[books:bg:9:17|Bg. 9.17]], [[books:sb:4:8:21|SB 4.8.21]], [[books:sb:8:22:8|SB 8.22.8]]

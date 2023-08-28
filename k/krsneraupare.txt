@@ -1,5 +1,11 @@
-~~Title:kṛṣṇeraupare~~
-{{description>upon Kṛṣṇa.}}
+---json
+{
+    "name":"kṛṣṇeraupare",
+    "h1":"kṛṣṇeraupare",
+    "title":"kṛṣṇeraupare --- synonyms, prabhupada.io",
+    "description":"upon Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇeraupare  ====
   * upon Kṛṣṇa --- [[books:cc:antya:7:124|Antya 7.124]]

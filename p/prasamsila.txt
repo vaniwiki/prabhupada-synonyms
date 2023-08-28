@@ -1,5 +1,11 @@
-~~Title:prasamsila~~
-{{description>He praised.}}
+---json
+{
+    "name":"prasamsila",
+    "h1":"prasamsila",
+    "title":"prasamsila --- synonyms, prabhupada.io",
+    "description":"He praised."
+}
+---
 
 ==== praśaṁsilā  ====
   * He praised --- [[books:cc:antya:10:130|Antya 10.130]]

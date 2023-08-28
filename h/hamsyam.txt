@@ -1,5 +1,11 @@
-~~Title:haṁsyam~~
-{{description>the highest stage of perfection.}}
+---json
+{
+    "name":"haṁsyam",
+    "h1":"haṁsyam",
+    "title":"haṁsyam --- synonyms, prabhupada.io",
+    "description":"the highest stage of perfection."
+}
+---
 
 ==== pārama-haṁsyam  ====
   * the highest stage of perfection --- [[books:sb:1:18:22|SB 1.18.22]]

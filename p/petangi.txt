@@ -1,5 +1,11 @@
-~~Title:peṭāṅgi~~
-{{description>shirt and coat.}}
+---json
+{
+    "name":"peṭāṅgi",
+    "h1":"peṭāṅgi",
+    "title":"peṭāṅgi --- synonyms, prabhupada.io",
+    "description":"shirt and coat."
+}
+---
 
 ==== peṭāṅgi  ====
   * shirt and coat --- [[books:cc:antya:12:37|Antya 12.37]]

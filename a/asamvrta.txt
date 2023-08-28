@@ -1,5 +1,11 @@
-~~Title:asaṁvṛta~~
-{{description>as it is.}}
+---json
+{
+    "name":"asaṁvṛta",
+    "h1":"asaṁvṛta",
+    "title":"asaṁvṛta --- synonyms, prabhupada.io",
+    "description":"as it is."
+}
+---
 
 ==== asaṁvṛta-artham  ====
   * as it is --- [[books:sb:1:18:17|SB 1.18.17]]

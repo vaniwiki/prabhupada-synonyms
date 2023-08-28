@@ -1,5 +1,11 @@
-~~Title:vimuṣṭa~~
-{{description>taken away.}}
+---json
+{
+    "name":"vimuṣṭa",
+    "h1":"vimuṣṭa",
+    "title":"vimuṣṭa --- synonyms, prabhupada.io",
+    "description":"taken away."
+}
+---
 
 ==== vimuṣṭa  ====
   * taken away --- [[books:sb:7:8:32|SB 7.8.32]]

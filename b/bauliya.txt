@@ -1,5 +1,11 @@
-~~Title:bāuliyā~~
-{{description>one who does not know what is right; the Māyāvādī.}}
+---json
+{
+    "name":"bāuliyā",
+    "h1":"bāuliyā",
+    "title":"bāuliyā --- synonyms, prabhupada.io",
+    "description":"one who does not know what is right; the Māyāvādī."
+}
+---
 
 ==== bāuliyā  ====
   * one who does not know what is right --- [[books:cc:adi:12:49|Ādi 12.49]]

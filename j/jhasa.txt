@@ -1,5 +1,11 @@
-~~Title:jhaṣa~~
-{{description>an alligator; as an aquatic (such as the fish and tortoise).}}
+---json
+{
+    "name":"jhaṣa",
+    "h1":"jhaṣa",
+    "title":"jhaṣa --- synonyms, prabhupada.io",
+    "description":"an alligator; as an aquatic (such as the fish and tortoise)."
+}
+---
 
 ==== jhaṣa  ====
   * an alligator --- [[books:sb:3:19:35|SB 3.19.35]]

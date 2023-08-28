@@ -1,5 +1,11 @@
-~~Title:jajvaluḥ~~
-{{description>blazed; burned.}}
+---json
+{
+    "name":"jajvaluḥ",
+    "h1":"jajvaluḥ",
+    "title":"jajvaluḥ --- synonyms, prabhupada.io",
+    "description":"blazed; burned."
+}
+---
 
 ==== jajvaluḥ  ====
   * blazed --- [[books:sb:7:3:5|SB 7.3.5]]

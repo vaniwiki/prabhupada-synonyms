@@ -1,5 +1,11 @@
-~~Title:karmajit~~
-{{description>Karmajit.}}
+---json
+{
+    "name":"karmajit",
+    "h1":"karmajit",
+    "title":"karmajit --- synonyms, prabhupada.io",
+    "description":"Karmajit."
+}
+---
 
 ==== karmajit  ====
   * Karmajit --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

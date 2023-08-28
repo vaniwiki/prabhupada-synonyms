@@ -1,5 +1,11 @@
-~~Title:śabdavān~~
-{{description>full of sound.}}
+---json
+{
+    "name":"śabdavān",
+    "h1":"śabdavān",
+    "title":"śabdavān --- synonyms, prabhupada.io",
+    "description":"full of sound."
+}
+---
 
 ==== śabdavān  ====
   * full of sound --- [[books:sb:2:5:26-29|SB 2.5.26-29]]

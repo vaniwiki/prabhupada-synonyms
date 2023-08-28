@@ -1,5 +1,11 @@
-~~Title:adhyagāt~~
-{{description>studied; underwent studies.}}
+---json
+{
+    "name":"adhyagāt",
+    "h1":"adhyagāt",
+    "title":"adhyagāt --- synonyms, prabhupada.io",
+    "description":"studied; underwent studies."
+}
+---
 
 ==== adhyagāt  ====
   * studied --- [[books:sb:9:12:3-4|SB 9.12.3-4]], [[books:cc:madhya:24:117|Madhya 24.117]]

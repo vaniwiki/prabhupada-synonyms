@@ -1,5 +1,11 @@
-~~Title:saroja~~
-{{description>lotus; of the lotus flower.}}
+---json
+{
+    "name":"saroja",
+    "h1":"saroja",
+    "title":"saroja --- synonyms, prabhupada.io",
+    "description":"lotus; of the lotus flower."
+}
+---
 
 ==== saroja  ====
   * lotus --- [[books:sb:4:21:43|SB 4.21.43]], [[books:sb:5:1:19|SB 5.1.19]]

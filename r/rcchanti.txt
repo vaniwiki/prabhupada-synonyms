@@ -1,5 +1,11 @@
-~~Title:ṛcchanti~~
-{{description>attain.}}
+---json
+{
+    "name":"ṛcchanti",
+    "h1":"ṛcchanti",
+    "title":"ṛcchanti --- synonyms, prabhupada.io",
+    "description":"attain."
+}
+---
 
 ==== ṛcchanti  ====
   * attain --- [[books:sb:3:33:11|SB 3.33.11]]

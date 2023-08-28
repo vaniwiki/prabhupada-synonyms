@@ -1,5 +1,11 @@
-~~Title:ujjhitam~~
-{{description>abandoned; bereft of.}}
+---json
+{
+    "name":"ujjhitam",
+    "h1":"ujjhitam",
+    "title":"ujjhitam --- synonyms, prabhupada.io",
+    "description":"abandoned; bereft of."
+}
+---
 
 ==== ujjhitam  ====
   * abandoned --- [[books:sb:3:19:14|SB 3.19.14]]

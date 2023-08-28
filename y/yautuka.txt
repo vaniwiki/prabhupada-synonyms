@@ -1,5 +1,11 @@
-~~Title:yautuka~~
-{{description>presentation; presentations.}}
+---json
+{
+    "name":"yautuka",
+    "h1":"yautuka",
+    "title":"yautuka --- synonyms, prabhupada.io",
+    "description":"presentation; presentations."
+}
+---
 
 ==== yautuka  ====
   * presentation --- [[books:cc:adi:13:109|Ādi 13.109]]

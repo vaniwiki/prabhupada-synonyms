@@ -1,5 +1,11 @@
-~~Title:anuśoce~~
-{{description>I lament; I pity.}}
+---json
+{
+    "name":"anuśoce",
+    "h1":"anuśoce",
+    "title":"anuśoce --- synonyms, prabhupada.io",
+    "description":"I lament; I pity."
+}
+---
 
 ==== anuśoce  ====
   * I lament --- [[books:sb:3:1:41|SB 3.1.41]]

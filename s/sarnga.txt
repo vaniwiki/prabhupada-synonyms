@@ -1,5 +1,11 @@
-~~Title:śārṅga~~
-{{description>bow.}}
+---json
+{
+    "name":"śārṅga",
+    "h1":"śārṅga",
+    "title":"śārṅga --- synonyms, prabhupada.io",
+    "description":"bow."
+}
+---
 
 ==== śārṅga  ====
   * bow --- [[books:cc:adi:17:13|Ādi 17.13]]

@@ -1,5 +1,11 @@
-~~Title:hitam~~
-{{description>as the best way; beneficial; benefit; welfare; words of benediction.}}
+---json
+{
+    "name":"hitam",
+    "h1":"hitam",
+    "title":"hitam --- synonyms, prabhupada.io",
+    "description":"as the best way; beneficial; benefit; welfare; words of benediction."
+}
+---
 
 ==== hitam  ====
   * as the best way --- [[books:sb:10:4:43|SB 10.4.43]]

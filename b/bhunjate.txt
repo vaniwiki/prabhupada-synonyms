@@ -1,5 +1,11 @@
-~~Title:bhuñjate~~
-{{description>eats; enjoy.}}
+---json
+{
+    "name":"bhuñjate",
+    "h1":"bhuñjate",
+    "title":"bhuñjate --- synonyms, prabhupada.io",
+    "description":"eats; enjoy."
+}
+---
 
 ==== bhuñjate  ====
   * eats --- [[books:sb:4:22:46|SB 4.22.46]]

@@ -1,5 +1,11 @@
-~~Title:dalanam~~
-{{description>subduing.}}
+---json
+{
+    "name":"dalanam",
+    "h1":"dalanam",
+    "title":"dalanam --- synonyms, prabhupada.io",
+    "description":"subduing."
+}
+---
 
 ==== dalanam  ====
   * subduing --- [[books:cc:madhya:17:210|Madhya 17.210]]

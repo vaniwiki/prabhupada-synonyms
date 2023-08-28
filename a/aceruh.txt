@@ -1,5 +1,11 @@
-~~Title:āceruḥ~~
-{{description>executed.}}
+---json
+{
+    "name":"āceruḥ",
+    "h1":"āceruḥ",
+    "title":"āceruḥ --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== āceruḥ  ====
   * executed --- [[books:sb:10:4:45|SB 10.4.45]]

@@ -1,5 +1,11 @@
-~~Title:etam~~
-{{description>as it is; this; this type of behavior.}}
+---json
+{
+    "name":"etam",
+    "h1":"etam",
+    "title":"etam --- synonyms, prabhupada.io",
+    "description":"as it is; this; this type of behavior."
+}
+---
 
 ==== etam  ====
   * as it is --- [[books:sb:3:14:22|SB 3.14.22]]

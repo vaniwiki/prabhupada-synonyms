@@ -1,5 +1,11 @@
-~~Title:yacchantau~~
-{{description>giving.}}
+---json
+{
+    "name":"yacchantau",
+    "h1":"yacchantau",
+    "title":"yacchantau --- synonyms, prabhupada.io",
+    "description":"giving."
+}
+---
 
 ==== yacchantau  ====
   * giving --- [[books:sb:10:11:37|SB 10.11.37]]

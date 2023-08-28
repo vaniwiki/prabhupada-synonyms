@@ -1,5 +1,11 @@
-~~Title:mrgah~~
-{{description>an animal; animal; beast.}}
+---json
+{
+    "name":"mrgah",
+    "h1":"mrgah",
+    "title":"mrgah --- synonyms, prabhupada.io",
+    "description":"an animal; animal; beast."
+}
+---
 
 ==== mṛgaḥ  ====
   * an animal --- [[books:sb:6:12:10|SB 6.12.10]]

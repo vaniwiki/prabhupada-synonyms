@@ -1,5 +1,11 @@
-~~Title:svaccha~~
-{{description>pure.}}
+---json
+{
+    "name":"svaccha",
+    "h1":"svaccha",
+    "title":"svaccha --- synonyms, prabhupada.io",
+    "description":"pure."
+}
+---
 
 ==== svaccha  ====
   * pure --- [[books:sb:3:33:17|SB 3.33.17]], [[books:cc:adi:4:170|Ādi 4.170]]

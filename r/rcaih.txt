@@ -1,5 +1,11 @@
-~~Title:ṛcaiḥ~~
-{{description>by the śruti-mantras known as Bahvṛca-śruti, which are evidence from the Vedas.}}
+---json
+{
+    "name":"ṛcaiḥ",
+    "h1":"ṛcaiḥ",
+    "title":"ṛcaiḥ --- synonyms, prabhupada.io",
+    "description":"by the śruti-mantras known as Bahvṛca-śruti, which are evidence from the Vedas."
+}
+---
 
 ==== bahu-ṛcaiḥ  ====
   * by the //śruti-mantras// known as //Bahvṛca-śruti,// which are evidence from the //Vedas// --- [[books:sb:8:19:38|SB 8.19.38]]

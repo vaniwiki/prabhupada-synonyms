@@ -1,5 +1,11 @@
-~~Title:asvatantraiḥ~~
-{{description>not independent.}}
+---json
+{
+    "name":"asvatantraiḥ",
+    "h1":"asvatantraiḥ",
+    "title":"asvatantraiḥ --- synonyms, prabhupada.io",
+    "description":"not independent."
+}
+---
 
 ==== asvatantraiḥ  ====
   * not independent --- [[books:sb:6:15:6|SB 6.15.6]]

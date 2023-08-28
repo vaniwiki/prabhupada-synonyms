@@ -1,5 +1,11 @@
-~~Title:kathāsu~~
-{{description>by the words; in the message of; in transcendental topics; of all topics; words.}}
+---json
+{
+    "name":"kathāsu",
+    "h1":"kathāsu",
+    "title":"kathāsu --- synonyms, prabhupada.io",
+    "description":"by the words; in the message of; in transcendental topics; of all topics; words."
+}
+---
 
 ==== kathāsu  ====
   * by the words --- [[books:sb:8:1:33|SB 8.1.33]]

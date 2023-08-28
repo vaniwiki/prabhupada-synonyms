@@ -1,5 +1,11 @@
-~~Title:uktah~~
-{{description>addressed; aforementioned; already been said; being advised; being asked; being spoken; celebrated; challenged; described; having been requested; is said; known; known as such; said; spoken; was told; when advised.}}
+---json
+{
+    "name":"uktah",
+    "h1":"uktah",
+    "title":"uktah --- synonyms, prabhupada.io",
+    "description":"addressed; aforementioned; already been said; being advised; being asked; being spoken; celebrated; challenged; described; having been requested; is said; known; known as such; said; spoken; was told; when advised."
+}
+---
 
 ==== uktaḥ  ====
   * addressed --- [[books:bg:1:24|Bg. 1.24]], [[books:sb:3:4:14|SB 3.4.14]], [[books:sb:7:7:11|SB 7.7.11]]

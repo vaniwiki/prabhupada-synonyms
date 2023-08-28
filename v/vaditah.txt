@@ -1,5 +1,11 @@
-~~Title:vāditāḥ~~
-{{description>beaten by.}}
+---json
+{
+    "name":"vāditāḥ",
+    "h1":"vāditāḥ",
+    "title":"vāditāḥ --- synonyms, prabhupada.io",
+    "description":"beaten by."
+}
+---
 
 ==== vāditāḥ  ====
   * beaten by --- [[books:sb:1:9:45|SB 1.9.45]]

@@ -1,5 +1,11 @@
-~~Title:mālikayā~~
-{{description>with a garland of fresh flowers.}}
+---json
+{
+    "name":"mālikayā",
+    "h1":"mālikayā",
+    "title":"mālikayā --- synonyms, prabhupada.io",
+    "description":"with a garland of fresh flowers."
+}
+---
 
 ==== vana-mālikayā  ====
   * with a garland of fresh flowers --- [[books:sb:3:15:28|SB 3.15.28]]

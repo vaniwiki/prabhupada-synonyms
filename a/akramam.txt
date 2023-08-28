@@ -1,5 +1,11 @@
-~~Title:akramam~~
-{{description>offense; the offense.}}
+---json
+{
+    "name":"akramam",
+    "h1":"akramam",
+    "title":"akramam --- synonyms, prabhupada.io",
+    "description":"offense; the offense."
+}
+---
 
 ==== akramam  ====
   * offense --- [[books:sb:4:16:7|SB 4.16.7]]

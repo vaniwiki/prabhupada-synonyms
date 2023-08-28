@@ -1,5 +1,11 @@
-~~Title:bādheta~~
-{{description>hinders.}}
+---json
+{
+    "name":"bādheta",
+    "h1":"bādheta",
+    "title":"bādheta --- synonyms, prabhupada.io",
+    "description":"hinders."
+}
+---
 
 ==== bādheta  ====
   * hinders --- [[books:sb:8:20:2|SB 8.20.2]]

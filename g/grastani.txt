@@ -1,5 +1,11 @@
-~~Title:grastāni~~
-{{description>devoured.}}
+---json
+{
+    "name":"grastāni",
+    "h1":"grastāni",
+    "title":"grastāni --- synonyms, prabhupada.io",
+    "description":"devoured."
+}
+---
 
 ==== grastāni  ====
   * devoured --- [[books:sb:6:9:44|SB 6.9.44]]

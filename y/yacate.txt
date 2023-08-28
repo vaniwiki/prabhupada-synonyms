@@ -1,5 +1,11 @@
-~~Title:yācate~~
-{{description>prays.}}
+---json
+{
+    "name":"yācate",
+    "h1":"yācate",
+    "title":"yācate --- synonyms, prabhupada.io",
+    "description":"prays."
+}
+---
 
 ==== yācate  ====
   * prays --- [[books:cc:madhya:22:34|Madhya 22.34]]

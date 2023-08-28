@@ -1,5 +1,11 @@
-~~Title:drohaiḥ~~
-{{description>treacherous.}}
+---json
+{
+    "name":"drohaiḥ",
+    "h1":"drohaiḥ",
+    "title":"drohaiḥ --- synonyms, prabhupada.io",
+    "description":"treacherous."
+}
+---
 
 ==== drohaiḥ  ====
   * treacherous --- [[books:sb:7:5:45|SB 7.5.45]]

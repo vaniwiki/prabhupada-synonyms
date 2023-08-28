@@ -1,5 +1,11 @@
-~~Title:āsyāt~~
-{{description>from the mouth.}}
+---json
+{
+    "name":"āsyāt",
+    "h1":"āsyāt",
+    "title":"āsyāt --- synonyms, prabhupada.io",
+    "description":"from the mouth."
+}
+---
 
 ==== āsyāt  ====
   * from the mouth --- [[books:sb:3:12:26|SB 3.12.26]]

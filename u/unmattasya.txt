@@ -1,5 +1,11 @@
-~~Title:unmattasya~~
-{{description>puffed up because of great opulence.}}
+---json
+{
+    "name":"unmattasya",
+    "h1":"unmattasya",
+    "title":"unmattasya --- synonyms, prabhupada.io",
+    "description":"puffed up because of great opulence."
+}
+---
 
 ==== śriyā unmattasya  ====
   * puffed up because of great opulence --- [[books:sb:9:4:44|SB 9.4.44]]

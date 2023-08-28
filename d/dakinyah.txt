@@ -1,5 +1,11 @@
-~~Title:ḍākinyaḥ~~
-{{description>witches and devils, enemies of children.}}
+---json
+{
+    "name":"ḍākinyaḥ",
+    "h1":"ḍākinyaḥ",
+    "title":"ḍākinyaḥ --- synonyms, prabhupada.io",
+    "description":"witches and devils, enemies of children."
+}
+---
 
 ==== ḍākinyaḥ yātudhānyaḥ ca kuṣmāṇḍāḥ  ====
   * witches and devils, enemies of children --- [[books:sb:10:6:27-29|SB 10.6.27-29]]

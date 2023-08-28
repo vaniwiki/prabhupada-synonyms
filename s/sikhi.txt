@@ -1,5 +1,11 @@
-~~Title:śikhi~~
-{{description>Śikhi Māhiti.}}
+---json
+{
+    "name":"śikhi",
+    "h1":"śikhi",
+    "title":"śikhi --- synonyms, prabhupada.io",
+    "description":"Śikhi Māhiti."
+}
+---
 
 ==== śikhi māhāti  ====
   * Śikhi Māhiti --- [[books:cc:madhya:10:42|Madhya 10.42]]

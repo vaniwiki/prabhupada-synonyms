@@ -1,5 +1,11 @@
-~~Title:bhāṇḍāre~~
-{{description>in the storehouse.}}
+---json
+{
+    "name":"bhāṇḍāre",
+    "h1":"bhāṇḍāre",
+    "title":"bhāṇḍāre --- synonyms, prabhupada.io",
+    "description":"in the storehouse."
+}
+---
 
 ==== bhāṇḍāre  ====
   * in the storehouse --- [[books:cc:madhya:14:109|Madhya 14.109]]

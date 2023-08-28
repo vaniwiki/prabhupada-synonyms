@@ -1,5 +1,11 @@
-~~Title:naktaḥ~~
-{{description>a son named Nakta.}}
+---json
+{
+    "name":"naktaḥ",
+    "h1":"naktaḥ",
+    "title":"naktaḥ --- synonyms, prabhupada.io",
+    "description":"a son named Nakta."
+}
+---
 
 ==== naktaḥ  ====
   * a son named Nakta --- [[books:sb:5:15:6|SB 5.15.6]]

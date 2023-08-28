@@ -1,5 +1,11 @@
-~~Title:dvāram~~
-{{description>door; gate; the gate; the gateway; the holes; the way.}}
+---json
+{
+    "name":"dvāram",
+    "h1":"dvāram",
+    "title":"dvāram --- synonyms, prabhupada.io",
+    "description":"door; gate; the gate; the gateway; the holes; the way."
+}
+---
 
 ==== dvāram  ====
   * door --- [[books:bg:2:32|Bg. 2.32]], [[books:cc:madhya:22:82|Madhya 22.82]]

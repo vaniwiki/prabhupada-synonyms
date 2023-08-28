@@ -1,5 +1,11 @@
-~~Title:ahite~~
-{{description>enemy.}}
+---json
+{
+    "name":"ahite",
+    "h1":"ahite",
+    "title":"ahite --- synonyms, prabhupada.io",
+    "description":"enemy."
+}
+---
 
 ==== ahite  ====
   * enemy --- [[books:sb:7:2:9|SB 7.2.9]]

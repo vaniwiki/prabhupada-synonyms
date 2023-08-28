@@ -1,5 +1,11 @@
-~~Title:brūyāt~~
-{{description>if you say; who should say.}}
+---json
+{
+    "name":"brūyāt",
+    "h1":"brūyāt",
+    "title":"brūyāt --- synonyms, prabhupada.io",
+    "description":"if you say; who should say."
+}
+---
 
 ==== brūyāt  ====
   * if you say --- [[books:sb:8:19:41|SB 8.19.41]]

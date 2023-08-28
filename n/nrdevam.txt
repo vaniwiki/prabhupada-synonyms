@@ -1,5 +1,11 @@
-~~Title:nṛdevam~~
-{{description>the monarch.}}
+---json
+{
+    "name":"nṛdevam",
+    "h1":"nṛdevam",
+    "title":"nṛdevam --- synonyms, prabhupada.io",
+    "description":"the monarch."
+}
+---
 
 ==== nṛdevam  ====
   * the monarch --- [[books:sb:3:21:48|SB 3.21.48]]

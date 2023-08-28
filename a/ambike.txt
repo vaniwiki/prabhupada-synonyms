@@ -1,5 +1,11 @@
-~~Title:ambike~~
-{{description>O mother.}}
+---json
+{
+    "name":"ambike",
+    "h1":"ambike",
+    "title":"ambike --- synonyms, prabhupada.io",
+    "description":"O mother."
+}
+---
 
 ==== ambike  ====
   * O mother --- [[books:sb:6:17:17|SB 6.17.17]]

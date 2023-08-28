@@ -1,5 +1,11 @@
-~~Title:mitreṇa~~
-{{description>by the friend.}}
+---json
+{
+    "name":"mitreṇa",
+    "h1":"mitreṇa",
+    "title":"mitreṇa --- synonyms, prabhupada.io",
+    "description":"by the friend."
+}
+---
 
 ==== mitreṇa  ====
   * by the friend --- [[books:sb:1:15:45|SB 1.15.45]]

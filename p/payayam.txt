@@ -1,5 +1,11 @@
-~~Title:pāyayām~~
-{{description>fed the child; made them drink.}}
+---json
+{
+    "name":"pāyayām",
+    "h1":"pāyayām",
+    "title":"pāyayām --- synonyms, prabhupada.io",
+    "description":"fed the child; made them drink."
+}
+---
 
 ==== pāyayām āsa  ====
   * fed the child --- [[books:sb:10:7:34|SB 10.7.34]]

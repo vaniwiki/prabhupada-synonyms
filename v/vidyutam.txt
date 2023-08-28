@@ -1,5 +1,11 @@
-~~Title:vidyutām~~
-{{description>electricity.}}
+---json
+{
+    "name":"vidyutām",
+    "h1":"vidyutām",
+    "title":"vidyutām --- synonyms, prabhupada.io",
+    "description":"electricity."
+}
+---
 
 ==== vidyutām  ====
   * electricity --- [[books:sb:2:6:5|SB 2.6.5]]

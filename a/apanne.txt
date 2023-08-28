@@ -1,5 +1,11 @@
-~~Title:āpanne~~
-{{description>turns into five elements.}}
+---json
+{
+    "name":"āpanne",
+    "h1":"āpanne",
+    "title":"āpanne --- synonyms, prabhupada.io",
+    "description":"turns into five elements."
+}
+---
 
 ==== pañcatvam āpanne  ====
   * turns into five elements --- [[books:sb:10:1:39|SB 10.1.39]]

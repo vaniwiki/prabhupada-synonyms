@@ -1,5 +1,11 @@
-~~Title:aravinda~~
-{{description>My Lord, whose eyes are like the petals of a lotus; O great hero with eyes like the petals of a lotus; O lotus-eyed one.}}
+---json
+{
+    "name":"aravinda",
+    "h1":"aravinda",
+    "title":"aravinda --- synonyms, prabhupada.io",
+    "description":"My Lord, whose eyes are like the petals of a lotus; O great hero with eyes like the petals of a lotus; O lotus-eyed one."
+}
+---
 
 ==== aravinda-akṣa  ====
   * My Lord, whose eyes are like the petals of a lotus --- [[books:sb:8:24:30|SB 8.24.30]]

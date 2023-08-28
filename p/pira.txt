@@ -1,5 +1,11 @@
-~~Title:pīra~~
-{{description>a saintly person.}}
+---json
+{
+    "name":"pīra",
+    "h1":"pīra",
+    "title":"pīra --- synonyms, prabhupada.io",
+    "description":"a saintly person."
+}
+---
 
 ==== pīra  ====
   * a saintly person --- [[books:cc:madhya:18:185|Madhya 18.185]]

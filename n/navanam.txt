@@ -1,5 +1,11 @@
-~~Title:navānām~~
-{{description>of the nine; of the other nine.}}
+---json
+{
+    "name":"navānām",
+    "h1":"navānām",
+    "title":"navānām --- synonyms, prabhupada.io",
+    "description":"of the nine; of the other nine."
+}
+---
 
 ==== navānām  ====
   * of the nine --- [[books:cc:adi:2:91-92|Ādi 2.91-92]]

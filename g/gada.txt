@@ -1,5 +1,11 @@
-~~Title:gada~~
-{{description>Gada.}}
+---json
+{
+    "name":"gada",
+    "h1":"gada",
+    "title":"gada --- synonyms, prabhupada.io",
+    "description":"Gada."
+}
+---
 
 ==== gada  ====
   * Gada --- [[books:sb:1:14:28-29|SB 1.14.28-29]], [[books:sb:3:1:35|SB 3.1.35]]

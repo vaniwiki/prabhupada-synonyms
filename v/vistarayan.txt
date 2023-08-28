@@ -1,5 +1,11 @@
-~~Title:vistārayan~~
-{{description>expanding.}}
+---json
+{
+    "name":"vistārayan",
+    "h1":"vistārayan",
+    "title":"vistārayan --- synonyms, prabhupada.io",
+    "description":"expanding."
+}
+---
 
 ==== vistārayan  ====
   * expanding --- [[books:cc:madhya:21:9|Madhya 21.9]]

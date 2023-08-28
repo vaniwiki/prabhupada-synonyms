@@ -1,5 +1,11 @@
-~~Title:urī~~
-{{description>accepted.}}
+---json
+{
+    "name":"urī",
+    "h1":"urī",
+    "title":"urī --- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== urī-kṛta  ====
   * accepted --- [[books:cc:antya:1:177|Antya 1.177]]

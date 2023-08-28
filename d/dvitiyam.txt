@@ -1,5 +1,11 @@
-~~Title:dvitīyam~~
-{{description>duality; second; the next month; the second.}}
+---json
+{
+    "name":"dvitīyam",
+    "h1":"dvitīyam",
+    "title":"dvitīyam --- synonyms, prabhupada.io",
+    "description":"duality; second; the next month; the second."
+}
+---
 
 ==== dvitīyam  ====
   * duality --- [[books:sb:5:12:10|SB 5.12.10]]

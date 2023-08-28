@@ -1,5 +1,11 @@
-~~Title:sādhūn~~
-{{description>about the devotees; great devotees.}}
+---json
+{
+    "name":"sādhūn",
+    "h1":"sādhūn",
+    "title":"sādhūn --- synonyms, prabhupada.io",
+    "description":"about the devotees; great devotees."
+}
+---
 
 ==== sādhūn  ====
   * about the devotees --- [[books:sb:1:16:31|SB 1.16.31]]

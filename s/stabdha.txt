@@ -1,5 +1,11 @@
-~~Title:stabdha~~
-{{description>dull; motionless; stunned.}}
+---json
+{
+    "name":"stabdha",
+    "h1":"stabdha",
+    "title":"stabdha --- synonyms, prabhupada.io",
+    "description":"dull; motionless; stunned."
+}
+---
 
 ==== stabdha  ====
   * dull --- [[books:sb:5:10:13|SB 5.10.13]]

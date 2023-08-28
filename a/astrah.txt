@@ -1,5 +1,11 @@
-~~Title:astrah~~
-{{description>with their swords raised.}}
+---json
+{
+    "name":"astrah",
+    "h1":"astrah",
+    "title":"astrah --- synonyms, prabhupada.io",
+    "description":"with their swords raised."
+}
+---
 
 ==== udyata-astrāḥ  ====
   * with their swords raised --- [[books:sb:6:11:17|SB 6.11.17]]

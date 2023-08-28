@@ -1,5 +1,11 @@
-~~Title:ābhāṣya~~
-{{description>addressing; after addressing; talking.}}
+---json
+{
+    "name":"ābhāṣya",
+    "h1":"ābhāṣya",
+    "title":"ābhāṣya --- synonyms, prabhupada.io",
+    "description":"addressing; after addressing; talking."
+}
+---
 
 ==== ābhāṣya  ====
   * addressing --- [[books:sb:4:7:49|SB 4.7.49]], [[books:sb:10:1:34|SB 10.1.34]]

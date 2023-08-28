@@ -1,5 +1,11 @@
-~~Title:divasa~~
-{{description>a day; day; days.}}
+---json
+{
+    "name":"divasa",
+    "h1":"divasa",
+    "title":"divasa --- synonyms, prabhupada.io",
+    "description":"a day; day; days."
+}
+---
 
 ==== divasa  ====
   * a day --- [[books:cc:adi:3:8|Ādi 3.8]]

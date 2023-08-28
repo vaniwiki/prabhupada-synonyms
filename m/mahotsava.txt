@@ -1,5 +1,11 @@
-~~Title:mahotsava~~
-{{description>a festival; festival; festivals; the festival.}}
+---json
+{
+    "name":"mahotsava",
+    "h1":"mahotsava",
+    "title":"mahotsava --- synonyms, prabhupada.io",
+    "description":"a festival; festival; festivals; the festival."
+}
+---
 
 ==== mahotsava  ====
   * a festival --- [[books:cc:adi:14:18|Ādi 14.18]], [[books:cc:adi:14:20|Ādi 14.20]]

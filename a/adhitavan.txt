@@ -1,5 +1,11 @@
-~~Title:adhītavān~~
-{{description>I have studied; studied.}}
+---json
+{
+    "name":"adhītavān",
+    "h1":"adhītavān",
+    "title":"adhītavān --- synonyms, prabhupada.io",
+    "description":"I have studied; studied."
+}
+---
 
 ==== adhītavān  ====
   * I have studied --- [[books:sb:2:1:9|SB 2.1.9]]

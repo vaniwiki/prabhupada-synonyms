@@ -1,5 +1,11 @@
-~~Title:vandinaḥ~~
-{{description>general professional reciters; professional learned speakers.}}
+---json
+{
+    "name":"vandinaḥ",
+    "h1":"vandinaḥ",
+    "title":"vandinaḥ --- synonyms, prabhupada.io",
+    "description":"general professional reciters; professional learned speakers."
+}
+---
 
 ==== vandinaḥ  ====
   * general professional reciters --- [[books:sb:10:5:5|SB 10.5.5]]

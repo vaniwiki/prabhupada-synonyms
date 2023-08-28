@@ -1,5 +1,11 @@
-~~Title:bhujyatām~~
-{{description>my dear King, you eat also; please eat.}}
+---json
+{
+    "name":"bhujyatām",
+    "h1":"bhujyatām",
+    "title":"bhujyatām --- synonyms, prabhupada.io",
+    "description":"my dear King, you eat also; please eat."
+}
+---
 
 ==== bhujyatām  ====
   * my dear King, you eat also --- [[books:sb:9:5:19|SB 9.5.19]]

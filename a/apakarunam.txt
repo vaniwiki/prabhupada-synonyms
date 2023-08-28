@@ -1,5 +1,11 @@
-~~Title:apakaruṇam~~
-{{description>very cruel-hearted.}}
+---json
+{
+    "name":"apakaruṇam",
+    "h1":"apakaruṇam",
+    "title":"apakaruṇam --- synonyms, prabhupada.io",
+    "description":"very cruel-hearted."
+}
+---
 
 ==== apakaruṇam  ====
   * very cruel-hearted --- [[books:sb:5:26:13|SB 5.26.13]]

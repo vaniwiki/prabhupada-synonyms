@@ -1,5 +1,11 @@
-~~Title:bheryaḥ~~
-{{description>a kind of musical instrument; brass band; bugles.}}
+---json
+{
+    "name":"bheryaḥ",
+    "h1":"bheryaḥ",
+    "title":"bheryaḥ --- synonyms, prabhupada.io",
+    "description":"a kind of musical instrument; brass band; bugles."
+}
+---
 
 ==== bheryaḥ  ====
   * a kind of musical instrument --- [[books:sb:10:5:5|SB 10.5.5]]

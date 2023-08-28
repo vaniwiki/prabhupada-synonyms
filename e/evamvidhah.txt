@@ -1,5 +1,11 @@
-~~Title:evaṁvidhāḥ~~
-{{description>in this way.}}
+---json
+{
+    "name":"evaṁvidhāḥ",
+    "h1":"evaṁvidhāḥ",
+    "title":"evaṁvidhāḥ --- synonyms, prabhupada.io",
+    "description":"in this way."
+}
+---
 
 ==== evaṁvidhāḥ  ====
   * in this way --- [[books:sb:1:10:31|SB 1.10.31]]

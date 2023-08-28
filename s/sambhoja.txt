@@ -1,5 +1,11 @@
-~~Title:sambhoja~~
-{{description>by eating.}}
+---json
+{
+    "name":"sambhoja",
+    "h1":"sambhoja",
+    "title":"sambhoja --- synonyms, prabhupada.io",
+    "description":"by eating."
+}
+---
 
 ==== sambhoja  ====
   * by eating --- [[books:sb:7:5:38|SB 7.5.38]]

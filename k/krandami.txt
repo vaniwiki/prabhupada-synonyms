@@ -1,5 +1,11 @@
-~~Title:krandāmi~~
-{{description>I cry.}}
+---json
+{
+    "name":"krandāmi",
+    "h1":"krandāmi",
+    "title":"krandāmi --- synonyms, prabhupada.io",
+    "description":"I cry."
+}
+---
 
 ==== krandāmi  ====
   * I cry --- [[books:cc:madhya:2:45|Madhya 2.45]]

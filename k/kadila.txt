@@ -1,5 +1,11 @@
-~~Title:kāḍila~~
-{{description>delivered; has delivered; He has delivered.}}
+---json
+{
+    "name":"kāḍila",
+    "h1":"kāḍila",
+    "title":"kāḍila --- synonyms, prabhupada.io",
+    "description":"delivered; has delivered; He has delivered."
+}
+---
 
 ==== kāḍila  ====
   * delivered --- [[books:cc:madhya:19:49|Madhya 19.49]]

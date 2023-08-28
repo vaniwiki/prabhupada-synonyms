@@ -1,5 +1,11 @@
-~~Title:ahvayat~~
-{{description>called; calling one another.}}
+---json
+{
+    "name":"ahvayat",
+    "h1":"ahvayat",
+    "title":"ahvayat --- synonyms, prabhupada.io",
+    "description":"called; calling one another."
+}
+---
 
 ==== āhvayat  ====
   * called --- [[books:sb:10:11:12|SB 10.11.12]]

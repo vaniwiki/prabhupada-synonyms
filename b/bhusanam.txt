@@ -1,5 +1,11 @@
-~~Title:bhūṣaṇam~~
-{{description>the ornament.}}
+---json
+{
+    "name":"bhūṣaṇam",
+    "h1":"bhūṣaṇam",
+    "title":"bhūṣaṇam --- synonyms, prabhupada.io",
+    "description":"the ornament."
+}
+---
 
 ==== bhūṣaṇam  ====
   * the ornament --- [[books:cc:madhya:14:228|Madhya 14.228]]

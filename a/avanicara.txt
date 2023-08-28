@@ -1,5 +1,11 @@
-~~Title:avanicara~~
-{{description>by undesirable elements, wicked persons.}}
+---json
+{
+    "name":"avanicara",
+    "h1":"avanicara",
+    "title":"avanicara --- synonyms, prabhupada.io",
+    "description":"by undesirable elements, wicked persons."
+}
+---
 
 ==== avanicara-apasadaiḥ  ====
   * by undesirable elements, wicked persons --- [[books:sb:5:5:30|SB 5.5.30]]

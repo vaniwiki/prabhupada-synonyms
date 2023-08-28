@@ -1,5 +1,11 @@
-~~Title:vikābe~~
-{{description>will not sell.}}
+---json
+{
+    "name":"vikābe",
+    "h1":"vikābe",
+    "title":"vikābe --- synonyms, prabhupada.io",
+    "description":"will not sell."
+}
+---
 
 ==== nā vikābe  ====
   * will not sell --- [[books:cc:madhya:17:120|Madhya 17.120]]

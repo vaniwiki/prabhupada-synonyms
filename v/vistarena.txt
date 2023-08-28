@@ -1,5 +1,11 @@
-~~Title:vistarena~~
-{{description>in description.}}
+---json
+{
+    "name":"vistarena",
+    "h1":"vistarena",
+    "title":"vistarena --- synonyms, prabhupada.io",
+    "description":"in description."
+}
+---
 
 ==== vistareṇa  ====
   * in description --- [[books:bg:10:18|Bg. 10.18]]

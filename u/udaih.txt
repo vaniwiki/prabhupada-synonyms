@@ -1,5 +1,11 @@
-~~Title:udaiḥ~~
-{{description>with perfumed water.}}
+---json
+{
+    "name":"udaiḥ",
+    "h1":"udaiḥ",
+    "title":"udaiḥ --- synonyms, prabhupada.io",
+    "description":"with perfumed water."
+}
+---
 
 ==== gandha-udaiḥ  ====
   * with perfumed water --- [[books:sb:9:11:26|SB 9.11.26]]

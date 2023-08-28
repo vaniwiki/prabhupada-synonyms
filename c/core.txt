@@ -1,5 +1,11 @@
-~~Title:core~~
-{{description>a thief; two thieves.}}
+---json
+{
+    "name":"core",
+    "h1":"core",
+    "title":"core --- synonyms, prabhupada.io",
+    "description":"a thief; two thieves."
+}
+---
 
 ==== core  ====
   * a thief --- [[books:cc:madhya:5:61|Madhya 5.61]], [[books:cc:madhya:14:133|Madhya 14.133]]

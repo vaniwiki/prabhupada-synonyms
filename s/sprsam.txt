@@ -1,5 +1,11 @@
-~~Title:spṛśam~~
-{{description>touching the sky.}}
+---json
+{
+    "name":"spṛśam",
+    "h1":"spṛśam",
+    "title":"spṛśam --- synonyms, prabhupada.io",
+    "description":"touching the sky."
+}
+---
 
 ==== nabhaḥ spṛśam  ====
   * touching the sky --- [[books:bg:11:24|Bg. 11.24]]

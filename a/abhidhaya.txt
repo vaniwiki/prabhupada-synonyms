@@ -1,5 +1,11 @@
-~~Title:abhidhāya~~
-{{description>having spoken; uttering.}}
+---json
+{
+    "name":"abhidhāya",
+    "h1":"abhidhāya",
+    "title":"abhidhāya --- synonyms, prabhupada.io",
+    "description":"having spoken; uttering."
+}
+---
 
 ==== abhidhāya  ====
   * having spoken --- [[books:sb:5:3:19|SB 5.3.19]]

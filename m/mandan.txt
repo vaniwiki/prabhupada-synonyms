@@ -1,5 +1,11 @@
-~~Title:mandān~~
-{{description>lazy to understand self-realization.}}
+---json
+{
+    "name":"mandān",
+    "h1":"mandān",
+    "title":"mandān --- synonyms, prabhupada.io",
+    "description":"lazy to understand self-realization."
+}
+---
 
 ==== mandān  ====
   * lazy to understand self-realization --- [[books:bg:3:29|Bg. 3.29]]

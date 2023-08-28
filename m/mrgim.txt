@@ -1,5 +1,11 @@
-~~Title:mṛgīm~~
-{{description>the deer.}}
+---json
+{
+    "name":"mṛgīm",
+    "h1":"mṛgīm",
+    "title":"mṛgīm --- synonyms, prabhupada.io",
+    "description":"the deer."
+}
+---
 
 ==== mṛgīm  ====
   * the deer --- [[books:sb:5:8:30|SB 5.8.30]]

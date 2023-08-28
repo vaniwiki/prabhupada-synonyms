@@ -1,5 +1,11 @@
-~~Title:irāvatīm~~
-{{description>Irāvatī.}}
+---json
+{
+    "name":"irāvatīm",
+    "h1":"irāvatīm",
+    "title":"irāvatīm --- synonyms, prabhupada.io",
+    "description":"Irāvatī."
+}
+---
 
 ==== irāvatīm  ====
   * Irāvatī --- [[books:sb:1:16:2|SB 1.16.2]]

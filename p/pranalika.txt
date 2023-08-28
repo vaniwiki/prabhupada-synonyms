@@ -1,5 +1,11 @@
-~~Title:praṇālikā~~
-{{description>water from the outlets.}}
+---json
+{
+    "name":"praṇālikā",
+    "h1":"praṇālikā",
+    "title":"praṇālikā --- synonyms, prabhupada.io",
+    "description":"water from the outlets."
+}
+---
 
 ==== praṇālikā  ====
   * water from the outlets --- [[books:cc:madhya:12:134|Madhya 12.134]]

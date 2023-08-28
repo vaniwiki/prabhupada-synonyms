@@ -1,5 +1,11 @@
-~~Title:vasite~~
-{{description>to sit; to sit down.}}
+---json
+{
+    "name":"vasite",
+    "h1":"vasite",
+    "title":"vasite --- synonyms, prabhupada.io",
+    "description":"to sit; to sit down."
+}
+---
 
 ==== vasite  ====
   * to sit --- [[books:cc:madhya:6:222|Madhya 6.222]], [[books:cc:madhya:10:4|Madhya 10.4]]

@@ -1,5 +1,11 @@
-~~Title:yojanam~~
-{{description>yojanas (one yojana equals eight miles).}}
+---json
+{
+    "name":"yojanam",
+    "h1":"yojanam",
+    "title":"yojanam --- synonyms, prabhupada.io",
+    "description":"yojanas (one yojana equals eight miles)."
+}
+---
 
 ==== yojanam  ====
   * //yojanas// (one //yojana// equals eight miles) --- [[books:sb:5:5:33|SB 5.5.33]]

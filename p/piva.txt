@@ -1,5 +1,11 @@
-~~Title:pīvā~~
-{{description>fat; very fat; very stout and strong; very strong and stout.}}
+---json
+{
+    "name":"pīvā",
+    "h1":"pīvā",
+    "title":"pīvā --- synonyms, prabhupada.io",
+    "description":"fat; very fat; very stout and strong; very strong and stout."
+}
+---
 
 ==== pīvā  ====
   * fat --- [[books:sb:7:13:18|SB 7.13.18]]

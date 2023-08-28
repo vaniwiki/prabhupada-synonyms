@@ -1,5 +1,11 @@
-~~Title:habena~~
-{{description>will become.}}
+---json
+{
+    "name":"habena",
+    "h1":"habena",
+    "title":"habena --- synonyms, prabhupada.io",
+    "description":"will become."
+}
+---
 
 ==== habena  ====
   * will become --- [[books:cc:adi:15:20|Ādi 15.20]]

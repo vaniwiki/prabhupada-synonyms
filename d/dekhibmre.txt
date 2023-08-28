@@ -1,5 +1,11 @@
-~~Title:dekhibṁre~~
-{{description>to see.}}
+---json
+{
+    "name":"dekhibṁre",
+    "h1":"dekhibṁre",
+    "title":"dekhibṁre --- synonyms, prabhupada.io",
+    "description":"to see."
+}
+---
 
 ==== dekhibṁre  ====
   * to see --- [[books:cc:madhya:1:172|Madhya 1.172]]

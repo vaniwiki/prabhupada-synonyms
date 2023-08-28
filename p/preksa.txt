@@ -1,5 +1,11 @@
-~~Title:prekṣā~~
-{{description>for obtaining a slight favor.}}
+---json
+{
+    "name":"prekṣā",
+    "h1":"prekṣā",
+    "title":"prekṣā --- synonyms, prabhupada.io",
+    "description":"for obtaining a slight favor."
+}
+---
 
 ==== prekṣā-lava-arthaḥ  ====
   * for obtaining a slight favor --- [[books:sb:3:16:7|SB 3.16.7]]

@@ -1,5 +1,11 @@
-~~Title:bāra~~
-{{description>time; twelve; twelve pots.}}
+---json
+{
+    "name":"bāra",
+    "h1":"bāra",
+    "title":"bāra --- synonyms, prabhupada.io",
+    "description":"time; twelve; twelve pots."
+}
+---
 
 ==== bāra  ====
   * time --- [[books:cc:madhya:7:120|Madhya 7.120]]

@@ -1,5 +1,11 @@
-~~Title:adhipa~~
-{{description>King of the people.}}
+---json
+{
+    "name":"adhipa",
+    "h1":"adhipa",
+    "title":"adhipa --- synonyms, prabhupada.io",
+    "description":"King of the people."
+}
+---
 
 ==== nara-adhipa  ====
   * King of the people --- [[books:cc:madhya:1:178|Madhya 1.178]]

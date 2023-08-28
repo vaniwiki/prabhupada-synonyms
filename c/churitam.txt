@@ -1,5 +1,11 @@
-~~Title:churitam~~
-{{description>covered.}}
+---json
+{
+    "name":"churitam",
+    "h1":"churitam",
+    "title":"churitam --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== churitam  ====
   * covered --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

@@ -1,5 +1,11 @@
-~~Title:yūthapa~~
-{{description>of the leaders.}}
+---json
+{
+    "name":"yūthapa",
+    "h1":"yūthapa",
+    "title":"yūthapa --- synonyms, prabhupada.io",
+    "description":"of the leaders."
+}
+---
 
 ==== yūthapa  ====
   * of the leaders --- [[books:sb:3:18:12|SB 3.18.12]]

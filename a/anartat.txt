@@ -1,5 +1,11 @@
-~~Title:ānartāt~~
-{{description>from Ānarta.}}
+---json
+{
+    "name":"ānartāt",
+    "h1":"ānartāt",
+    "title":"ānartāt --- synonyms, prabhupada.io",
+    "description":"from Ānarta."
+}
+---
 
 ==== ānartāt  ====
   * from Ānarta --- [[books:sb:9:3:27|SB 9.3.27]]

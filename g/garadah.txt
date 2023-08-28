@@ -1,5 +1,11 @@
-~~Title:garadāḥ~~
-{{description>who administer poison.}}
+---json
+{
+    "name":"garadāḥ",
+    "h1":"garadāḥ",
+    "title":"garadāḥ --- synonyms, prabhupada.io",
+    "description":"who administer poison."
+}
+---
 
 ==== garadāḥ  ====
   * who administer poison --- [[books:sb:5:26:27|SB 5.26.27]]

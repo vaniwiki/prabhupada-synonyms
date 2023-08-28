@@ -1,5 +1,11 @@
-~~Title:svapna~~
-{{description>a dream; dream; dreaming while asleep; dreams.}}
+---json
+{
+    "name":"svapna",
+    "h1":"svapna",
+    "title":"svapna --- synonyms, prabhupada.io",
+    "description":"a dream; dream; dreaming while asleep; dreams."
+}
+---
 
 ==== svapna  ====
   * a dream --- [[books:sb:4:12:15|SB 4.12.15]], [[books:cc:madhya:19:245|Madhya 19.245]], [[books:cc:antya:12:92|Antya 12.92]]

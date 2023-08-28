@@ -1,5 +1,11 @@
-~~Title:muram~~
-{{description>Mura.}}
+---json
+{
+    "name":"muram",
+    "h1":"muram",
+    "title":"muram --- synonyms, prabhupada.io",
+    "description":"Mura."
+}
+---
 
 ==== muram  ====
   * Mura --- [[books:sb:3:3:11|SB 3.3.11]]

@@ -1,5 +1,11 @@
-~~Title:praśaṁsiluṅ~~
-{{description>we praised.}}
+---json
+{
+    "name":"praśaṁsiluṅ",
+    "h1":"praśaṁsiluṅ",
+    "title":"praśaṁsiluṅ --- synonyms, prabhupada.io",
+    "description":"we praised."
+}
+---
 
 ==== praśaṁsiluṅ  ====
   * we praised --- [[books:cc:antya:4:43|Antya 4.43]]

@@ -1,5 +1,11 @@
-~~Title:ujjhati~~
-{{description>gives up.}}
+---json
+{
+    "name":"ujjhati",
+    "h1":"ujjhati",
+    "title":"ujjhati --- synonyms, prabhupada.io",
+    "description":"gives up."
+}
+---
 
 ==== ujjhati  ====
   * gives up --- [[books:cc:antya:1:154|Antya 1.154]]

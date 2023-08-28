@@ -1,5 +1,11 @@
-~~Title:riktham~~
-{{description>the wealth.}}
+---json
+{
+    "name":"riktham",
+    "h1":"riktham",
+    "title":"riktham --- synonyms, prabhupada.io",
+    "description":"the wealth."
+}
+---
 
 ==== riktham  ====
   * the wealth --- [[books:sb:5:7:8|SB 5.7.8]]

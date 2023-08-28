@@ -1,5 +1,11 @@
-~~Title:sannirodhaiḥ~~
-{{description>by imprisonment.}}
+---json
+{
+    "name":"sannirodhaiḥ",
+    "h1":"sannirodhaiḥ",
+    "title":"sannirodhaiḥ --- synonyms, prabhupada.io",
+    "description":"by imprisonment."
+}
+---
 
 ==== sannirodhaiḥ  ====
   * by imprisonment --- [[books:sb:7:5:43-44|SB 7.5.43-44]]

@@ -1,5 +1,11 @@
-~~Title:vājinam~~
-{{description>the horses being tired.}}
+---json
+{
+    "name":"vājinam",
+    "h1":"vājinam",
+    "title":"vājinam --- synonyms, prabhupada.io",
+    "description":"the horses being tired."
+}
+---
 
 ==== śrānta-vājinam  ====
   * the horses being tired --- [[books:sb:1:7:19|SB 1.7.19]]

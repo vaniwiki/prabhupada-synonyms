@@ -1,5 +1,11 @@
-~~Title:avahi~~
-{{description>give protection.}}
+---json
+{
+    "name":"avahi",
+    "h1":"avahi",
+    "title":"avahi --- synonyms, prabhupada.io",
+    "description":"give protection."
+}
+---
 
 ==== avahi  ====
   * give protection --- [[books:sb:9:4:61|SB 9.4.61]]

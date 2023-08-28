@@ -1,5 +1,11 @@
-~~Title:bhogi~~
-{{description>the enjoyer.}}
+---json
+{
+    "name":"bhogi",
+    "h1":"bhogi",
+    "title":"bhogi --- synonyms, prabhupada.io",
+    "description":"the enjoyer."
+}
+---
 
 ==== bhogī  ====
   * the enjoyer --- [[books:bg:16:13-15|Bg. 16.13-15]]

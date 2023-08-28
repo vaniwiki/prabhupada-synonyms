@@ -1,5 +1,11 @@
-~~Title:upaśikṣitam~~
-{{description>instructed.}}
+---json
+{
+    "name":"upaśikṣitam",
+    "h1":"upaśikṣitam",
+    "title":"upaśikṣitam --- synonyms, prabhupada.io",
+    "description":"instructed."
+}
+---
 
 ==== upaśikṣitam  ====
   * instructed --- [[books:sb:5:3:4-5|SB 5.3.4-5]], [[books:sb:7:5:53|SB 7.5.53]]

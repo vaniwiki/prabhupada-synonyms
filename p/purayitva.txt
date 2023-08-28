@@ -1,5 +1,11 @@
-~~Title:pūrayitvā~~
-{{description>fulfilling.}}
+---json
+{
+    "name":"pūrayitvā",
+    "h1":"pūrayitvā",
+    "title":"pūrayitvā --- synonyms, prabhupada.io",
+    "description":"fulfilling."
+}
+---
 
 ==== pūrayitvā  ====
   * fulfilling --- [[books:sb:8:23:4|SB 8.23.4]]

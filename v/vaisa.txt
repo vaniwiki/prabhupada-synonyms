@@ -1,5 +1,11 @@
-~~Title:vaisa~~
-{{description>sit down; You are sitting.}}
+---json
+{
+    "name":"vaisa",
+    "h1":"vaisa",
+    "title":"vaisa --- synonyms, prabhupada.io",
+    "description":"sit down; You are sitting."
+}
+---
 
 ==== vaisa  ====
   * sit down --- [[books:cc:madhya:3:67|Madhya 3.67]], [[books:cc:madhya:3:69|Madhya 3.69]], [[books:cc:madhya:11:205|Madhya 11.205]]

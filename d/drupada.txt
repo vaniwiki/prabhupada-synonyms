@@ -1,5 +1,11 @@
-~~Title:drupada~~
-{{description>in the palace of King Drupada.}}
+---json
+{
+    "name":"drupada",
+    "h1":"drupada",
+    "title":"drupada --- synonyms, prabhupada.io",
+    "description":"in the palace of King Drupada."
+}
+---
 
 ==== drupada-geham  ====
   * in the palace of King Drupada --- [[books:sb:1:15:7|SB 1.15.7]]

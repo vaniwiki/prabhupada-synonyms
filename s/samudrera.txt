@@ -1,5 +1,11 @@
-~~Title:samudrera~~
-{{description>in the water of the sea.}}
+---json
+{
+    "name":"samudrera",
+    "h1":"samudrera",
+    "title":"samudrera --- synonyms, prabhupada.io",
+    "description":"in the water of the sea."
+}
+---
 
 ==== samudrera jale  ====
   * in the water of the sea --- [[books:cc:antya:18:65|Antya 18.65]]

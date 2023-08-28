@@ -1,5 +1,11 @@
-~~Title:abaddham~~
-{{description>nonsensical.}}
+---json
+{
+    "name":"abaddham",
+    "h1":"abaddham",
+    "title":"abaddham --- synonyms, prabhupada.io",
+    "description":"nonsensical."
+}
+---
 
 ==== abaddham  ====
   * nonsensical --- [[books:sb:5:10:8|SB 5.10.8]]

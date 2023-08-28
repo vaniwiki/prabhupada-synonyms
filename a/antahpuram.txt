@@ -1,5 +1,11 @@
-~~Title:antaḥpuram~~
-{{description>into the residential quarters of the princesses.}}
+---json
+{
+    "name":"antaḥpuram",
+    "h1":"antaḥpuram",
+    "title":"antaḥpuram --- synonyms, prabhupada.io",
+    "description":"into the residential quarters of the princesses."
+}
+---
 
 ==== kanyā-antaḥpuram  ====
   * into the residential quarters of the princesses --- [[books:sb:9:6:43|SB 9.6.43]]

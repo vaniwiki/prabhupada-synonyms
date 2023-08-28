@@ -1,5 +1,11 @@
-~~Title:paryaṅka~~
-{{description>bedstead; couches.}}
+---json
+{
+    "name":"paryaṅka",
+    "h1":"paryaṅka",
+    "title":"paryaṅka --- synonyms, prabhupada.io",
+    "description":"bedstead; couches."
+}
+---
 
 ==== paryaṅka  ====
   * bedstead --- [[books:cc:madhya:8:178|Madhya 8.178]]

@@ -1,5 +1,11 @@
-~~Title:bhujeṣu~~
-{{description>on the arms.}}
+---json
+{
+    "name":"bhujeṣu",
+    "h1":"bhujeṣu",
+    "title":"bhujeṣu --- synonyms, prabhupada.io",
+    "description":"on the arms."
+}
+---
 
 ==== bhujeṣu  ====
   * on the arms --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

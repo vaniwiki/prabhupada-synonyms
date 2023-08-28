@@ -1,5 +1,11 @@
-~~Title:adhirathaḥ~~
-{{description>Adhiratha; commander.}}
+---json
+{
+    "name":"adhirathaḥ",
+    "h1":"adhirathaḥ",
+    "title":"adhirathaḥ --- synonyms, prabhupada.io",
+    "description":"Adhiratha; commander."
+}
+---
 
 ==== adhirathaḥ  ====
   * Adhiratha --- [[books:sb:9:23:12|SB 9.23.12]]

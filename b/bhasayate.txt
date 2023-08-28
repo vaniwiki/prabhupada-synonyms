@@ -1,5 +1,11 @@
-~~Title:bhāsayate~~
-{{description>illuminates.}}
+---json
+{
+    "name":"bhāsayate",
+    "h1":"bhāsayate",
+    "title":"bhāsayate --- synonyms, prabhupada.io",
+    "description":"illuminates."
+}
+---
 
 ==== bhāsayate  ====
   * illuminates --- [[books:bg:15:6|Bg. 15.6]], [[books:bg:15:12|Bg. 15.12]]

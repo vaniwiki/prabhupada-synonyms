@@ -1,5 +1,11 @@
-~~Title:prabodhayan~~
-{{description>enlightening; to get everyone to rise, waking up and informing them.}}
+---json
+{
+    "name":"prabodhayan",
+    "h1":"prabodhayan",
+    "title":"prabodhayan --- synonyms, prabhupada.io",
+    "description":"enlightening; to get everyone to rise, waking up and informing them."
+}
+---
 
 ==== prabodhayan  ====
   * enlightening --- [[books:sb:3:6:3|SB 3.6.3]]

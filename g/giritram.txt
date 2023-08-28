@@ -1,5 +1,11 @@
-~~Title:giritram~~
-{{description>Rudra (Śiva).}}
+---json
+{
+    "name":"giritram",
+    "h1":"giritram",
+    "title":"giritram --- synonyms, prabhupada.io",
+    "description":"Rudra (Śiva)."
+}
+---
 
 ==== giritram  ====
   * Rudra (Śiva) --- [[books:sb:2:1:35|SB 2.1.35]]

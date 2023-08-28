@@ -1,5 +1,11 @@
-~~Title:sākṣīra~~
-{{description>of the witness.}}
+---json
+{
+    "name":"sākṣīra",
+    "h1":"sākṣīra",
+    "title":"sākṣīra --- synonyms, prabhupada.io",
+    "description":"of the witness."
+}
+---
 
 ==== sākṣīra  ====
   * of the witness --- [[books:cc:madhya:5:104|Madhya 5.104]]

@@ -1,5 +1,11 @@
-~~Title:pāruṣyam~~
-{{description>harshness.}}
+---json
+{
+    "name":"pāruṣyam",
+    "h1":"pāruṣyam",
+    "title":"pāruṣyam --- synonyms, prabhupada.io",
+    "description":"harshness."
+}
+---
 
 ==== pāruṣyam  ====
   * harshness --- [[books:bg:16:4|Bg. 16.4]]

@@ -1,5 +1,11 @@
-~~Title:ariktau~~
-{{description>infallible.}}
+---json
+{
+    "name":"ariktau",
+    "h1":"ariktau",
+    "title":"ariktau --- synonyms, prabhupada.io",
+    "description":"infallible."
+}
+---
 
 ==== ariktau  ====
   * infallible --- [[books:sb:8:15:6|SB 8.15.6]]

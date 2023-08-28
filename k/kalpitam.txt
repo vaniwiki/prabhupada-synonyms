@@ -1,5 +1,11 @@
-~~Title:kalpitam~~
-{{description>created; is accepted.}}
+---json
+{
+    "name":"kalpitam",
+    "h1":"kalpitam",
+    "title":"kalpitam --- synonyms, prabhupada.io",
+    "description":"created; is accepted."
+}
+---
 
 ==== kalpitam  ====
   * created --- [[books:sb:7:1:23|SB 7.1.23]]

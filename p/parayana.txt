@@ -1,5 +1,11 @@
-~~Title:parayana~~
-{{description>devoted to; of the devotees; those who are devotees.}}
+---json
+{
+    "name":"parayana",
+    "h1":"parayana",
+    "title":"parayana --- synonyms, prabhupada.io",
+    "description":"devoted to; of the devotees; those who are devotees."
+}
+---
 
 ==== parāyaṇa  ====
   * devoted to --- [[books:cc:antya:6:227|Antya 6.227]]

@@ -1,5 +1,11 @@
-~~Title:dambhena~~
-{{description>out of pride; with pride.}}
+---json
+{
+    "name":"dambhena",
+    "h1":"dambhena",
+    "title":"dambhena --- synonyms, prabhupada.io",
+    "description":"out of pride; with pride."
+}
+---
 
 ==== dambhena  ====
   * out of pride --- [[books:bg:16:17|Bg. 16.17]]

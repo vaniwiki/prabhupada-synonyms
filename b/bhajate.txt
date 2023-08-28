@@ -1,5 +1,11 @@
-~~Title:bhajate~~
-{{description>accepts; deserves; engaged in devotional service; he does accept as his own; He enjoys; he turns to; renders transcendental loving service; takes care of; worships.}}
+---json
+{
+    "name":"bhajate",
+    "h1":"bhajate",
+    "title":"bhajate --- synonyms, prabhupada.io",
+    "description":"accepts; deserves; engaged in devotional service; he does accept as his own; He enjoys; he turns to; renders transcendental loving service; takes care of; worships."
+}
+---
 
 ==== bhajate  ====
   * accepts --- [[books:sb:8:24:6|SB 8.24.6]]

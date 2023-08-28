@@ -1,5 +1,11 @@
-~~Title:sunaya~~
-{{description>causes to hear; recites.}}
+---json
+{
+    "name":"sunaya",
+    "h1":"sunaya",
+    "title":"sunaya --- synonyms, prabhupada.io",
+    "description":"causes to hear; recites."
+}
+---
 
 ==== śunāya  ====
   * causes to hear --- [[books:cc:madhya:21:145|Madhya 21.145]], [[books:cc:antya:15:13|Antya 15.13]]

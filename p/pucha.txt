@@ -1,5 +1,11 @@
-~~Title:pucha~~
-{{description>inquire; kindly ask; you inquire.}}
+---json
+{
+    "name":"pucha",
+    "h1":"pucha",
+    "title":"pucha --- synonyms, prabhupada.io",
+    "description":"inquire; kindly ask; you inquire."
+}
+---
 
 ==== pucha  ====
   * inquire --- [[books:cc:madhya:1:178|Madhya 1.178]]

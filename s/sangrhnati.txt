@@ -1,5 +1,11 @@
-~~Title:saṅgṛhṇāti~~
-{{description>collects.}}
+---json
+{
+    "name":"saṅgṛhṇāti",
+    "h1":"saṅgṛhṇāti",
+    "title":"saṅgṛhṇāti --- synonyms, prabhupada.io",
+    "description":"collects."
+}
+---
 
 ==== saṅgṛhṇāti  ====
   * collects --- [[books:cc:adi:3:1|Ādi 3.1]]

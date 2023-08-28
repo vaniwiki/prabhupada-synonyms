@@ -1,5 +1,11 @@
-~~Title:anṛtyan~~
-{{description>danced.}}
+---json
+{
+    "name":"anṛtyan",
+    "h1":"anṛtyan",
+    "title":"anṛtyan --- synonyms, prabhupada.io",
+    "description":"danced."
+}
+---
 
 ==== anṛtyan  ====
   * danced --- [[books:sb:8:18:8|SB 8.18.8]]

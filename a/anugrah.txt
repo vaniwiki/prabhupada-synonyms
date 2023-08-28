@@ -1,5 +1,11 @@
-~~Title:anugraḥ~~
-{{description>not ferocious.}}
+---json
+{
+    "name":"anugraḥ",
+    "h1":"anugraḥ",
+    "title":"anugraḥ --- synonyms, prabhupada.io",
+    "description":"not ferocious."
+}
+---
 
 ==== anugraḥ  ====
   * not ferocious --- [[books:cc:madhya:8:6|Madhya 8.6]]

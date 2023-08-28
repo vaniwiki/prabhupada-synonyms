@@ -1,5 +1,11 @@
-~~Title:cihna~~
-{{description>marks; symptom; symptoms; the symptom; the symptoms.}}
+---json
+{
+    "name":"cihna",
+    "h1":"cihna",
+    "title":"cihna --- synonyms, prabhupada.io",
+    "description":"marks; symptom; symptoms; the symptom; the symptoms."
+}
+---
 
 ==== cihna  ====
   * marks --- [[books:cc:adi:14:6|Ādi 14.6]], [[books:cc:adi:14:11|Ādi 14.11]]

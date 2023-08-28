@@ -1,5 +1,11 @@
-~~Title:śibiḥ~~
-{{description>Śibi.}}
+---json
+{
+    "name":"śibiḥ",
+    "h1":"śibiḥ",
+    "title":"śibiḥ --- synonyms, prabhupada.io",
+    "description":"Śibi."
+}
+---
 
 ==== śibiḥ  ====
   * Śibi --- [[books:sb:1:12:20|SB 1.12.20]], [[books:sb:9:23:3-4|SB 9.23.3-4]]

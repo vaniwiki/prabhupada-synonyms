@@ -1,5 +1,11 @@
-~~Title:yāyāḥ~~
-{{description>you shall reach.}}
+---json
+{
+    "name":"yāyāḥ",
+    "h1":"yāyāḥ",
+    "title":"yāyāḥ --- synonyms, prabhupada.io",
+    "description":"you shall reach."
+}
+---
 
 ==== yāyāḥ  ====
   * you shall reach --- [[books:sb:3:33:11|SB 3.33.11]]

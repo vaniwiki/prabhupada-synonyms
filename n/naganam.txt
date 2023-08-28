@@ -1,5 +1,11 @@
-~~Title:naganam~~
-{{description>of the trees.}}
+---json
+{
+    "name":"naganam",
+    "h1":"naganam",
+    "title":"naganam --- synonyms, prabhupada.io",
+    "description":"of the trees."
+}
+---
 
 ==== nagānām  ====
   * of the trees --- [[books:sb:8:5:34|SB 8.5.34]]

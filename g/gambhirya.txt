@@ -1,5 +1,11 @@
-~~Title:gāmbhīrya~~
-{{description>gravity.}}
+---json
+{
+    "name":"gāmbhīrya",
+    "h1":"gāmbhīrya",
+    "title":"gāmbhīrya --- synonyms, prabhupada.io",
+    "description":"gravity."
+}
+---
 
 ==== gāmbhīrya  ====
   * gravity --- [[books:cc:madhya:14:82|Madhya 14.82]]

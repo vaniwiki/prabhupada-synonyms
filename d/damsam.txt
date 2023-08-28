@@ -1,5 +1,11 @@
-~~Title:daṁśam~~
-{{description>armor.}}
+---json
+{
+    "name":"daṁśam",
+    "h1":"daṁśam",
+    "title":"daṁśam --- synonyms, prabhupada.io",
+    "description":"armor."
+}
+---
 
 ==== daṁśam  ====
   * armor --- [[books:sb:3:18:9|SB 3.18.9]]

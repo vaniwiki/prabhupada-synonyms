@@ -1,5 +1,11 @@
-~~Title:ūḍha~~
-{{description>great, deep.}}
+---json
+{
+    "name":"ūḍha",
+    "h1":"ūḍha",
+    "title":"ūḍha --- synonyms, prabhupada.io",
+    "description":"great, deep."
+}
+---
 
 ==== ūḍha  ====
   * great, deep --- [[books:sb:3:5:44|SB 3.5.44]]

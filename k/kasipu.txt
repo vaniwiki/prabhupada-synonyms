@@ -1,5 +1,11 @@
-~~Title:kaśipu~~
-{{description>on the snake bed.}}
+---json
+{
+    "name":"kaśipu",
+    "h1":"kaśipu",
+    "title":"kaśipu --- synonyms, prabhupada.io",
+    "description":"on the snake bed."
+}
+---
 
 ==== ahi-kaśipu  ====
   * on the snake bed --- [[books:sb:3:9:20|SB 3.9.20]]

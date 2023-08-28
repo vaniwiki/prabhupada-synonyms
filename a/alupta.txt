@@ -1,5 +1,11 @@
-~~Title:alupta~~
-{{description>not lost.}}
+---json
+{
+    "name":"alupta",
+    "h1":"alupta",
+    "title":"alupta --- synonyms, prabhupada.io",
+    "description":"not lost."
+}
+---
 
 ==== alupta  ====
   * not lost --- [[books:sb:3:23:38|SB 3.23.38]]

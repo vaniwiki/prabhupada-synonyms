@@ -1,5 +1,11 @@
-~~Title:prasuptasya~~
-{{description>sleeping.}}
+---json
+{
+    "name":"prasuptasya",
+    "h1":"prasuptasya",
+    "title":"prasuptasya --- synonyms, prabhupada.io",
+    "description":"sleeping."
+}
+---
 
 ==== prasuptasya  ====
   * sleeping --- [[books:sb:3:29:5|SB 3.29.5]]

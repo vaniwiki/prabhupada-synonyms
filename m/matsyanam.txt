@@ -1,5 +1,11 @@
-~~Title:matsyānām~~
-{{description>of the fish.}}
+---json
+{
+    "name":"matsyānām",
+    "h1":"matsyānām",
+    "title":"matsyānām --- synonyms, prabhupada.io",
+    "description":"of the fish."
+}
+---
 
 ==== matsyānām  ====
   * of the fish --- [[books:sb:9:13:10|SB 9.13.10]]

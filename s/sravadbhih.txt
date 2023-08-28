@@ -1,5 +1,11 @@
-~~Title:sravadbhiḥ~~
-{{description>flowing.}}
+---json
+{
+    "name":"sravadbhiḥ",
+    "h1":"sravadbhiḥ",
+    "title":"sravadbhiḥ --- synonyms, prabhupada.io",
+    "description":"flowing."
+}
+---
 
 ==== sravadbhiḥ  ====
   * flowing --- [[books:sb:4:1:18|SB 4.1.18]]

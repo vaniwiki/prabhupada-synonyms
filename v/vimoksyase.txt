@@ -1,5 +1,11 @@
-~~Title:vimokṣyase~~
-{{description>be liberated.}}
+---json
+{
+    "name":"vimokṣyase",
+    "h1":"vimokṣyase",
+    "title":"vimokṣyase --- synonyms, prabhupada.io",
+    "description":"be liberated."
+}
+---
 
 ==== vimokṣyase  ====
   * be liberated --- [[books:bg:4:32|Bg. 4.32]]

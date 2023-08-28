@@ -1,5 +1,11 @@
-~~Title:aṅghripān~~
-{{description>fruits and flowers from the trees; trees.}}
+---json
+{
+    "name":"aṅghripān",
+    "h1":"aṅghripān",
+    "title":"aṅghripān --- synonyms, prabhupada.io",
+    "description":"fruits and flowers from the trees; trees."
+}
+---
 
 ==== aṅghripān  ====
   * fruits and flowers from the trees --- [[books:sb:9:3:3|SB 9.3.3]]

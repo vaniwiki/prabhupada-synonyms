@@ -1,5 +1,11 @@
-~~Title:bhaktam~~
-{{description>a great devotee; devotee; the devotee; unto the devotees.}}
+---json
+{
+    "name":"bhaktam",
+    "h1":"bhaktam",
+    "title":"bhaktam --- synonyms, prabhupada.io",
+    "description":"a great devotee; devotee; the devotee; unto the devotees."
+}
+---
 
 ==== bhaktam  ====
   * a great devotee --- [[books:sb:6:4:42|SB 6.4.42]]

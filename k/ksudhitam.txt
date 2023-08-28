@@ -1,5 +1,11 @@
-~~Title:kṣudhitam~~
-{{description>being hungry.}}
+---json
+{
+    "name":"kṣudhitam",
+    "h1":"kṣudhitam",
+    "title":"kṣudhitam --- synonyms, prabhupada.io",
+    "description":"being hungry."
+}
+---
 
 ==== kṣudhitam  ====
   * being hungry --- [[books:sb:4:8:66|SB 4.8.66]]

@@ -1,5 +1,11 @@
-~~Title:kīrtyamāne~~
-{{description>being chanted.}}
+---json
+{
+    "name":"kīrtyamāne",
+    "h1":"kīrtyamāne",
+    "title":"kīrtyamāne --- synonyms, prabhupada.io",
+    "description":"being chanted."
+}
+---
 
 ==== kīrtyamāne  ====
   * being chanted --- [[books:sb:4:7:47|SB 4.7.47]]

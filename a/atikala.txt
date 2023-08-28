@@ -1,5 +1,11 @@
-~~Title:atikāla~~
-{{description>very late.}}
+---json
+{
+    "name":"atikāla",
+    "h1":"atikāla",
+    "title":"atikāla --- synonyms, prabhupada.io",
+    "description":"very late."
+}
+---
 
 ==== atikāla  ====
   * very late --- [[books:cc:madhya:7:83|Madhya 7.83]]

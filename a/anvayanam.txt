@@ -1,5 +1,11 @@
-~~Title:anvayānām~~
-{{description>with different gradations.}}
+---json
+{
+    "name":"anvayānām",
+    "h1":"anvayānām",
+    "title":"anvayānām --- synonyms, prabhupada.io",
+    "description":"with different gradations."
+}
+---
 
 ==== sa-anvayānām  ====
   * with different gradations --- [[books:sb:3:5:50|SB 3.5.50]]

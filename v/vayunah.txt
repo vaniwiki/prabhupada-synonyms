@@ -1,5 +1,11 @@
-~~Title:vayunaḥ~~
-{{description>with such knowledge.}}
+---json
+{
+    "name":"vayunaḥ",
+    "h1":"vayunaḥ",
+    "title":"vayunaḥ --- synonyms, prabhupada.io",
+    "description":"with such knowledge."
+}
+---
 
 ==== vayunaḥ  ====
   * with such knowledge --- [[books:sb:10:8:30|SB 10.8.30]]

@@ -1,5 +1,11 @@
-~~Title:mote~~
-{{description>in Me; to Me; unto me.}}
+---json
+{
+    "name":"mote",
+    "h1":"mote",
+    "title":"mote --- synonyms, prabhupada.io",
+    "description":"in Me; to Me; unto me."
+}
+---
 
 ==== mote  ====
   * in Me --- [[books:cc:adi:4:261|Ādi 4.261]]

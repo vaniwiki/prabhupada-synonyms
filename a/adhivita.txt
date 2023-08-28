@@ -1,5 +1,11 @@
-~~Title:adhivīta~~
-{{description>surrounded.}}
+---json
+{
+    "name":"adhivīta",
+    "h1":"adhivīta",
+    "title":"adhivīta --- synonyms, prabhupada.io",
+    "description":"surrounded."
+}
+---
 
 ==== adhivīta  ====
   * surrounded --- [[books:sb:3:8:29|SB 3.8.29]]

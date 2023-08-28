@@ -1,5 +1,11 @@
-~~Title:aśeṣāt~~
-{{description>unlimited.}}
+---json
+{
+    "name":"aśeṣāt",
+    "h1":"aśeṣāt",
+    "title":"aśeṣāt --- synonyms, prabhupada.io",
+    "description":"unlimited."
+}
+---
 
 ==== aśeṣāt  ====
   * unlimited --- [[books:sb:6:8:17|SB 6.8.17]]

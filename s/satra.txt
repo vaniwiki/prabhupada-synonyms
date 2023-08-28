@@ -1,5 +1,11 @@
-~~Title:satra~~
-{{description>remnants of yajña.}}
+---json
+{
+    "name":"satra",
+    "h1":"satra",
+    "title":"satra --- synonyms, prabhupada.io",
+    "description":"remnants of yajña."
+}
+---
 
 ==== satra-pariśeṣaṇam  ====
   * remnants of //yajña// --- [[books:sb:9:4:4-5|SB 9.4.4-5]]

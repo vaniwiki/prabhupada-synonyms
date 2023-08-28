@@ -1,5 +1,11 @@
-~~Title:sadaṇḍam~~
-{{description>with the rod.}}
+---json
+{
+    "name":"sadaṇḍam",
+    "h1":"sadaṇḍam",
+    "title":"sadaṇḍam --- synonyms, prabhupada.io",
+    "description":"with the rod."
+}
+---
 
 ==== sadaṇḍam  ====
   * with the rod --- [[books:sb:8:18:23|SB 8.18.23]]

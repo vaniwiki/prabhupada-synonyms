@@ -1,5 +1,11 @@
-~~Title:aśruta~~
-{{description>never heard of; unheard.}}
+---json
+{
+    "name":"aśruta",
+    "h1":"aśruta",
+    "title":"aśruta --- synonyms, prabhupada.io",
+    "description":"never heard of; unheard."
+}
+---
 
 ==== aśruta  ====
   * never heard of --- [[books:sb:7:9:2|SB 7.9.2]]

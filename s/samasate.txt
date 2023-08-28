@@ -1,5 +1,11 @@
-~~Title:samāsate~~
-{{description>become manifested; live; reside.}}
+---json
+{
+    "name":"samāsate",
+    "h1":"samāsate",
+    "title":"samāsate --- synonyms, prabhupada.io",
+    "description":"become manifested; live; reside."
+}
+---
 
 ==== samāsate  ====
   * become manifested --- [[books:cc:adi:8:58|Ādi 8.58]]

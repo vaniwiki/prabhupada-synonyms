@@ -1,5 +1,11 @@
-~~Title:āṅkhi~~
-{{description>eyes; the eyes.}}
+---json
+{
+    "name":"āṅkhi",
+    "h1":"āṅkhi",
+    "title":"āṅkhi --- synonyms, prabhupada.io",
+    "description":"eyes; the eyes."
+}
+---
 
 ==== āṅkhi  ====
   * eyes --- [[books:cc:adi:17:182|Ādi 17.182]]

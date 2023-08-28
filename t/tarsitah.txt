@@ -1,5 +1,11 @@
-~~Title:tarṣitaḥ~~
-{{description>being thirsty.}}
+---json
+{
+    "name":"tarṣitaḥ",
+    "h1":"tarṣitaḥ",
+    "title":"tarṣitaḥ --- synonyms, prabhupada.io",
+    "description":"being thirsty."
+}
+---
 
 ==== tarṣitaḥ  ====
   * being thirsty --- [[books:sb:9:6:27|SB 9.6.27]]

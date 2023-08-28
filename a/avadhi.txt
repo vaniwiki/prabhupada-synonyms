@@ -1,5 +1,11 @@
-~~Title:avadhi~~
-{{description>limit; limitation; the highest limit.}}
+---json
+{
+    "name":"avadhi",
+    "h1":"avadhi",
+    "title":"avadhi --- synonyms, prabhupada.io",
+    "description":"limit; limitation; the highest limit."
+}
+---
 
 ==== avadhi  ====
   * limit --- [[books:cc:madhya:8:194|Madhya 8.194]], [[books:cc:madhya:9:308|Madhya 9.308]]

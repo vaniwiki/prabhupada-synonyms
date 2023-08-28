@@ -1,5 +1,11 @@
-~~Title:vicalanam~~
-{{description>the movement of great personalities; the wandering of saintly persons.}}
+---json
+{
+    "name":"vicalanam",
+    "h1":"vicalanam",
+    "title":"vicalanam --- synonyms, prabhupada.io",
+    "description":"the movement of great personalities; the wandering of saintly persons."
+}
+---
 
 ==== mahat-vicalanam  ====
   * the movement of great personalities --- [[books:sb:10:8:4|SB 10.8.4]]

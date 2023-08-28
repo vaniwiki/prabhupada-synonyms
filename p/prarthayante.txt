@@ -1,5 +1,11 @@
-~~Title:prārthayante~~
-{{description>pray.}}
+---json
+{
+    "name":"prārthayante",
+    "h1":"prārthayante",
+    "title":"prārthayante --- synonyms, prabhupada.io",
+    "description":"pray."
+}
+---
 
 ==== prārthayante  ====
   * pray --- [[books:bg:9:20|Bg. 9.20]]

@@ -1,5 +1,11 @@
-~~Title:hetu~~
-{{description>because of; cause; causes; for the matter of; for the reason; reason; reasons; the cause; the predominating deities of sensory activities; the reason.}}
+---json
+{
+    "name":"hetu",
+    "h1":"hetu",
+    "title":"hetu --- synonyms, prabhupada.io",
+    "description":"because of; cause; causes; for the matter of; for the reason; reason; reasons; the cause; the predominating deities of sensory activities; the reason."
+}
+---
 
 ==== hetu  ====
   * because of --- [[books:cc:madhya:24:161|Madhya 24.161]], [[books:cc:antya:16:100|Antya 16.100]]

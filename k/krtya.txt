@@ -1,5 +1,11 @@
-~~Title:kṛtya~~
-{{description>duties; duty; to be done; to perform.}}
+---json
+{
+    "name":"kṛtya",
+    "h1":"kṛtya",
+    "title":"kṛtya --- synonyms, prabhupada.io",
+    "description":"duties; duty; to be done; to perform."
+}
+---
 
 ==== kṛtya  ====
   * duties --- [[books:cc:antya:14:39|Antya 14.39]]

@@ -1,5 +1,11 @@
-~~Title:śvāse~~
-{{description>by one exhalation.}}
+---json
+{
+    "name":"śvāse",
+    "h1":"śvāse",
+    "title":"śvāse --- synonyms, prabhupada.io",
+    "description":"by one exhalation."
+}
+---
 
 ==== eka-śvāse  ====
   * by one exhalation --- [[books:cc:madhya:20:323|Madhya 20.323]]

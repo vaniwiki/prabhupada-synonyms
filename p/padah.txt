@@ -1,5 +1,11 @@
-~~Title:padah~~
-{{description>a kingdom; of the place.}}
+---json
+{
+    "name":"padah",
+    "h1":"padah",
+    "title":"padah --- synonyms, prabhupada.io",
+    "description":"a kingdom; of the place."
+}
+---
 
 ==== padaḥ  ====
   * a kingdom --- [[books:sb:5:24:28|SB 5.24.28]]

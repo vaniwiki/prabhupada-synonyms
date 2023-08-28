@@ -1,5 +1,11 @@
-~~Title:kekayān~~
-{{description>the countries of the Kekayas.}}
+---json
+{
+    "name":"kekayān",
+    "h1":"kekayān",
+    "title":"kekayān --- synonyms, prabhupada.io",
+    "description":"the countries of the Kekayas."
+}
+---
 
 ==== kekayān  ====
   * the countries of the Kekayas --- [[books:sb:10:2:3|SB 10.2.3]]

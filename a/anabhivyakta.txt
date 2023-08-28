@@ -1,5 +1,11 @@
-~~Title:anabhivyakta~~
-{{description>unmanifested.}}
+---json
+{
+    "name":"anabhivyakta",
+    "h1":"anabhivyakta",
+    "title":"anabhivyakta --- synonyms, prabhupada.io",
+    "description":"unmanifested."
+}
+---
 
 ==== anabhivyakta  ====
   * unmanifested --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

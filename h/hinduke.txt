@@ -1,5 +1,11 @@
-~~Title:hinduke~~
-{{description>to a Hindu; unto the Hindus.}}
+---json
+{
+    "name":"hinduke",
+    "h1":"hinduke",
+    "title":"hinduke --- synonyms, prabhupada.io",
+    "description":"to a Hindu; unto the Hindus."
+}
+---
 
 ==== hinduke  ====
   * to a Hindu --- [[books:cc:adi:17:201-202|Ādi 17.201-202]]

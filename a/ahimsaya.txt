@@ -1,5 +1,11 @@
-~~Title:ahiṁsayā~~
-{{description>by nonviolence.}}
+---json
+{
+    "name":"ahiṁsayā",
+    "h1":"ahiṁsayā",
+    "title":"ahiṁsayā --- synonyms, prabhupada.io",
+    "description":"by nonviolence."
+}
+---
 
 ==== ahiṁsayā  ====
   * by nonviolence --- [[books:sb:4:22:24|SB 4.22.24]]

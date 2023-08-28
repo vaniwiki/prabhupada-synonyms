@@ -1,5 +1,11 @@
-~~Title:parājaya~~
-{{description>defeat.}}
+---json
+{
+    "name":"parājaya",
+    "h1":"parājaya",
+    "title":"parājaya --- synonyms, prabhupada.io",
+    "description":"defeat."
+}
+---
 
 ==== parājaya  ====
   * defeat --- [[books:cc:adi:16:6|Ādi 16.6]], [[books:cc:adi:16:95|Ādi 16.95]], [[books:cc:adi:17:183|Ādi 17.183]], [[books:cc:madhya:10:173|Madhya 10.173]]

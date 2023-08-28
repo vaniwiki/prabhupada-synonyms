@@ -1,5 +1,11 @@
-~~Title:dattāyām~~
-{{description>offered by Lord Indra.}}
+---json
+{
+    "name":"dattāyām",
+    "h1":"dattāyām",
+    "title":"dattāyām --- synonyms, prabhupada.io",
+    "description":"offered by Lord Indra."
+}
+---
 
 ==== indra-dattāyām  ====
   * offered by Lord Indra --- [[books:sb:5:4:8|SB 5.4.8]]

@@ -1,5 +1,11 @@
-~~Title:uda~~
-{{description>of water; water.}}
+---json
+{
+    "name":"uda",
+    "h1":"uda",
+    "title":"uda --- synonyms, prabhupada.io",
+    "description":"of water; water."
+}
+---
 
 ==== uda  ====
   * of water --- [[books:sb:5:10:21|SB 5.10.21]]

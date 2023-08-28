@@ -1,5 +1,11 @@
-~~Title:matim~~
-{{description>attention; concentration of the mind; consciousness; desire; His mind; intelligence; meditation; the attitude; the mind; thought.}}
+---json
+{
+    "name":"matim",
+    "h1":"matim",
+    "title":"matim --- synonyms, prabhupada.io",
+    "description":"attention; concentration of the mind; consciousness; desire; His mind; intelligence; meditation; the attitude; the mind; thought."
+}
+---
 
 ==== matim  ====
   * attention --- [[books:cc:madhya:11:118|Madhya 11.118]]

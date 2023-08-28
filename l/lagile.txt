@@ -1,5 +1,11 @@
-~~Title:lāgile~~
-{{description>when there is an offering of food known as upala-bhoga.}}
+---json
+{
+    "name":"lāgile",
+    "h1":"lāgile",
+    "title":"lāgile --- synonyms, prabhupada.io",
+    "description":"when there is an offering of food known as upala-bhoga."
+}
+---
 
 ==== upala-bhoga lāgile  ====
   * when there is an offering of food known as //upala-bhoga// --- [[books:cc:madhya:15:6|Madhya 15.6]]

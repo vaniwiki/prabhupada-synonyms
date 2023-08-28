@@ -1,5 +1,11 @@
-~~Title:kṣālana~~
-{{description>washing.}}
+---json
+{
+    "name":"kṣālana",
+    "h1":"kṣālana",
+    "title":"kṣālana --- synonyms, prabhupada.io",
+    "description":"washing."
+}
+---
 
 ==== kṣālana  ====
   * washing --- [[books:cc:antya:10:103|Antya 10.103]]

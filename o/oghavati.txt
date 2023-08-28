@@ -1,5 +1,11 @@
-~~Title:oghavatī~~
-{{description>Oghavatī.}}
+---json
+{
+    "name":"oghavatī",
+    "h1":"oghavatī",
+    "title":"oghavatī --- synonyms, prabhupada.io",
+    "description":"Oghavatī."
+}
+---
 
 ==== oghavatī  ====
   * Oghavatī --- [[books:sb:9:2:18|SB 9.2.18]]

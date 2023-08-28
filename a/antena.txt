@@ -1,5 +1,11 @@
-~~Title:antena~~
-{{description>by death-blows.}}
+---json
+{
+    "name":"antena",
+    "h1":"antena",
+    "title":"antena --- synonyms, prabhupada.io",
+    "description":"by death-blows."
+}
+---
 
 ==== kṛta-antena  ====
   * by death-blows --- [[books:sb:3:2:18|SB 3.2.18]]

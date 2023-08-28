@@ -1,5 +1,11 @@
-~~Title:hajara~~
-{{description>seven thousand.}}
+---json
+{
+    "name":"hajara",
+    "h1":"hajara",
+    "title":"hajara --- synonyms, prabhupada.io",
+    "description":"seven thousand."
+}
+---
 
 ==== sāta-hājāra  ====
   * seven thousand --- [[books:cc:madhya:20:14|Madhya 20.14]]

@@ -1,5 +1,11 @@
-~~Title:abhimene~~
-{{description>dedicated.}}
+---json
+{
+    "name":"abhimene",
+    "h1":"abhimene",
+    "title":"abhimene --- synonyms, prabhupada.io",
+    "description":"dedicated."
+}
+---
 
 ==== abhimene  ====
   * dedicated --- [[books:sb:2:7:18|SB 2.7.18]]

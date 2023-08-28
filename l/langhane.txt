@@ -1,5 +1,11 @@
-~~Title:laṅghane~~
-{{description>by surpassing the customs of etiquette.}}
+---json
+{
+    "name":"laṅghane",
+    "h1":"laṅghane",
+    "title":"laṅghane --- synonyms, prabhupada.io",
+    "description":"by surpassing the customs of etiquette."
+}
+---
 
 ==== maryādā-laṅghane  ====
   * by surpassing the customs of etiquette --- [[books:cc:antya:4:131|Antya 4.131]]

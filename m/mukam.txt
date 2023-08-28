@@ -1,5 +1,11 @@
-~~Title:mūkam~~
-{{description>a person who cannot speak; one who is dumb.}}
+---json
+{
+    "name":"mūkam",
+    "h1":"mūkam",
+    "title":"mūkam --- synonyms, prabhupada.io",
+    "description":"a person who cannot speak; one who is dumb."
+}
+---
 
 ==== mūkam  ====
   * a person who cannot speak --- [[books:cc:madhya:17:80|Madhya 17.80]]

@@ -1,5 +1,11 @@
-~~Title:upavanālī~~
-{{description>garden.}}
+---json
+{
+    "name":"upavanālī",
+    "h1":"upavanālī",
+    "title":"upavanālī --- synonyms, prabhupada.io",
+    "description":"garden."
+}
+---
 
 ==== upavanālī  ====
   * garden --- [[books:cc:antya:15:97|Antya 15.97]]

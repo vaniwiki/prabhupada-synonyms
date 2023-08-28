@@ -1,5 +1,11 @@
-~~Title:pratikaroti~~
-{{description>counteracts.}}
+---json
+{
+    "name":"pratikaroti",
+    "h1":"pratikaroti",
+    "title":"pratikaroti --- synonyms, prabhupada.io",
+    "description":"counteracts."
+}
+---
 
 ==== pratikaroti  ====
   * counteracts --- [[books:sb:4:22:47|SB 4.22.47]]

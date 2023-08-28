@@ -1,5 +1,11 @@
-~~Title:tamāla~~
-{{description>a blue tree named the tamāla.}}
+---json
+{
+    "name":"tamāla",
+    "h1":"tamāla",
+    "title":"tamāla --- synonyms, prabhupada.io",
+    "description":"a blue tree named the tamāla."
+}
+---
 
 ==== tamāla  ====
   * a blue tree named the //tamāla// --- [[books:sb:3:13:33|SB 3.13.33]]

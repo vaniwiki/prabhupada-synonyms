@@ -1,5 +1,11 @@
-~~Title:mandiram~~
-{{description>the temple.}}
+---json
+{
+    "name":"mandiram",
+    "h1":"mandiram",
+    "title":"mandiram --- synonyms, prabhupada.io",
+    "description":"the temple."
+}
+---
 
 ==== mandiram  ====
   * the temple --- [[books:cc:madhya:12:1|Madhya 12.1]]

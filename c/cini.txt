@@ -1,5 +1,11 @@
-~~Title:cini~~
-{{description>know; sugar.}}
+---json
+{
+    "name":"cini",
+    "h1":"cini",
+    "title":"cini --- synonyms, prabhupada.io",
+    "description":"know; sugar."
+}
+---
 
 ==== cini  ====
   * know --- [[books:cc:madhya:11:72|Madhya 11.72]]

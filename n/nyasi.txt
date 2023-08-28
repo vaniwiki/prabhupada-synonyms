@@ -1,5 +1,11 @@
-~~Title:nyasi~~
-{{description>sannyāsī; a sannyāsī.}}
+---json
+{
+    "name":"nyasi",
+    "h1":"nyasi",
+    "title":"nyasi --- synonyms, prabhupada.io",
+    "description":"sannyāsī; a sannyāsī."
+}
+---
 
 ==== nyāsī  ====
   * //sannyāsī// --- [[books:cc:madhya:11:191|Madhya 11.191]]

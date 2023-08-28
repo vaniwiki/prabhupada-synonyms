@@ -1,5 +1,11 @@
-~~Title:kurūdvaha~~
-{{description>O Mahārāja Parīkṣit.}}
+---json
+{
+    "name":"kurūdvaha",
+    "h1":"kurūdvaha",
+    "title":"kurūdvaha --- synonyms, prabhupada.io",
+    "description":"O Mahārāja Parīkṣit."
+}
+---
 
 ==== kurūdvaha  ====
   * O Mahārāja Parīkṣit --- [[books:sb:6:4:6|SB 6.4.6]], [[books:sb:10:13:15|SB 10.13.15]]

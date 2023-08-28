@@ -1,5 +1,11 @@
-~~Title:upadeśena~~
-{{description>by the instruction.}}
+---json
+{
+    "name":"upadeśena",
+    "h1":"upadeśena",
+    "title":"upadeśena --- synonyms, prabhupada.io",
+    "description":"by the instruction."
+}
+---
 
 ==== upadeśena  ====
   * by the instruction --- [[books:sb:9:21:26|SB 9.21.26]]

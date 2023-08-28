@@ -1,5 +1,11 @@
-~~Title:asthira~~
-{{description>agitated; restless.}}
+---json
+{
+    "name":"asthira",
+    "h1":"asthira",
+    "title":"asthira --- synonyms, prabhupada.io",
+    "description":"agitated; restless."
+}
+---
 
 ==== asthira  ====
   * agitated --- [[books:cc:madhya:1:107|Madhya 1.107]], [[books:cc:madhya:1:240|Madhya 1.240]], [[books:cc:madhya:12:166|Madhya 12.166]], [[books:cc:madhya:16:275|Madhya 16.275]], [[books:cc:antya:18:63|Antya 18.63]]

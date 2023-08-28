@@ -1,5 +1,11 @@
-~~Title:snāne~~
-{{description>bath; bathing; by bathing.}}
+---json
+{
+    "name":"snāne",
+    "h1":"snāne",
+    "title":"snāne --- synonyms, prabhupada.io",
+    "description":"bath; bathing; by bathing."
+}
+---
 
 ==== snāne  ====
   * bath --- [[books:cc:madhya:11:197|Madhya 11.197]]

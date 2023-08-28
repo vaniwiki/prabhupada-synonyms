@@ -1,5 +1,11 @@
-~~Title:ataran~~
-{{description>crossed it.}}
+---json
+{
+    "name":"ataran",
+    "h1":"ataran",
+    "title":"ataran --- synonyms, prabhupada.io",
+    "description":"crossed it."
+}
+---
 
 ==== ataran  ====
   * crossed it --- [[books:sb:10:1:5-7|SB 10.1.5-7]]

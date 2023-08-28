@@ -1,5 +1,11 @@
-~~Title:praṇayasya~~
-{{description>of the love.}}
+---json
+{
+    "name":"praṇayasya",
+    "h1":"praṇayasya",
+    "title":"praṇayasya --- synonyms, prabhupada.io",
+    "description":"of the love."
+}
+---
 
 ==== praṇayasya  ====
   * of the love --- [[books:cc:adi:17:293|Ādi 17.293]]

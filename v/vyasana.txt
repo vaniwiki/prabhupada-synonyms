@@ -1,5 +1,11 @@
-~~Title:vyasana~~
-{{description>danger; distresses; evil activities; illness; the miserable condition of life; to pursuits; with addiction.}}
+---json
+{
+    "name":"vyasana",
+    "h1":"vyasana",
+    "title":"vyasana --- synonyms, prabhupada.io",
+    "description":"danger; distresses; evil activities; illness; the miserable condition of life; to pursuits; with addiction."
+}
+---
 
 ==== vyasana  ====
   * danger --- [[books:sb:4:24:75|SB 4.24.75]]

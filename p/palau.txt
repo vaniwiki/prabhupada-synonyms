@@ -1,5 +1,11 @@
-~~Title:pālau~~
-{{description>to take care of the calves.}}
+---json
+{
+    "name":"pālau",
+    "h1":"pālau",
+    "title":"pālau --- synonyms, prabhupada.io",
+    "description":"to take care of the calves."
+}
+---
 
 ==== vatsa-pālau  ====
   * to take care of the calves --- [[books:sb:10:11:37|SB 10.11.37]]

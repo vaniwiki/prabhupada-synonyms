@@ -1,5 +1,11 @@
-~~Title:pāye~~
-{{description>on the sole; on the soles.}}
+---json
+{
+    "name":"pāye",
+    "h1":"pāye",
+    "title":"pāye --- synonyms, prabhupada.io",
+    "description":"on the sole; on the soles."
+}
+---
 
 ==== pāye  ====
   * on the sole --- [[books:cc:adi:14:11|Ādi 14.11]]

@@ -1,5 +1,11 @@
-~~Title:nindi~~
-{{description>defeating.}}
+---json
+{
+    "name":"nindi",
+    "h1":"nindi",
+    "title":"nindi --- synonyms, prabhupada.io",
+    "description":"defeating."
+}
+---
 
 ==== nindi  ====
   * defeating --- [[books:cc:antya:15:64|Antya 15.64]]

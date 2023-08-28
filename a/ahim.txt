@@ -1,5 +1,11 @@
-~~Title:ahim~~
-{{description>a serpent; a snake.}}
+---json
+{
+    "name":"ahim",
+    "h1":"ahim",
+    "title":"ahim --- synonyms, prabhupada.io",
+    "description":"a serpent; a snake."
+}
+---
 
 ==== ahim  ====
   * a serpent --- [[books:sb:9:4:48|SB 9.4.48]]

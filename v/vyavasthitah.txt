@@ -1,5 +1,11 @@
-~~Title:vyavasthitaḥ~~
-{{description>well situated.}}
+---json
+{
+    "name":"vyavasthitaḥ",
+    "h1":"vyavasthitaḥ",
+    "title":"vyavasthitaḥ --- synonyms, prabhupada.io",
+    "description":"well situated."
+}
+---
 
 ==== vyavasthitaḥ  ====
   * well situated --- [[books:sb:2:2:19|SB 2.2.19]]

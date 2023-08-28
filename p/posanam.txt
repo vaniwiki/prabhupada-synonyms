@@ -1,5 +1,11 @@
-~~Title:poṣaṇam~~
-{{description>maintenance; protection; the favoring of the Lord's devotees.}}
+---json
+{
+    "name":"poṣaṇam",
+    "h1":"poṣaṇam",
+    "title":"poṣaṇam --- synonyms, prabhupada.io",
+    "description":"maintenance; protection; the favoring of the Lord's devotees."
+}
+---
 
 ==== poṣaṇam  ====
   * maintenance --- [[books:sb:2:10:4|SB 2.10.4]]

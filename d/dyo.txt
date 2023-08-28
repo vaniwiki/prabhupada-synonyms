@@ -1,5 +1,11 @@
-~~Title:dyo~~
-{{description>the upper planetary system.}}
+---json
+{
+    "name":"dyo",
+    "h1":"dyo",
+    "title":"dyo --- synonyms, prabhupada.io",
+    "description":"the upper planetary system."
+}
+---
 
 ==== dyo  ====
   * the upper planetary system --- [[books:sb:8:17:10|SB 8.17.10]]

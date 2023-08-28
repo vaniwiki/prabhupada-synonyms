@@ -1,5 +1,11 @@
-~~Title:yajvā~~
-{{description>who performed all sacrifices.}}
+---json
+{
+    "name":"yajvā",
+    "h1":"yajvā",
+    "title":"yajvā --- synonyms, prabhupada.io",
+    "description":"who performed all sacrifices."
+}
+---
 
 ==== yajvā  ====
   * who performed all sacrifices --- [[books:sb:5:15:9|SB 5.15.9]]

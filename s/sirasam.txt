@@ -1,5 +1,11 @@
-~~Title:sirasam~~
-{{description>who have many hoods.}}
+---json
+{
+    "name":"sirasam",
+    "h1":"sirasam",
+    "title":"sirasam --- synonyms, prabhupada.io",
+    "description":"who have many hoods."
+}
+---
 
 ==== na eka-śirasām  ====
   * who have many hoods --- [[books:sb:5:24:29|SB 5.24.29]]

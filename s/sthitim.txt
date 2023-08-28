@@ -1,5 +1,11 @@
-~~Title:sthitim~~
-{{description>situation.}}
+---json
+{
+    "name":"sthitim",
+    "h1":"sthitim",
+    "title":"sthitim --- synonyms, prabhupada.io",
+    "description":"situation."
+}
+---
 
 ==== sthitim  ====
   * situation --- [[books:bg:6:33|Bg. 6.33]], [[books:sb:3:4:19|SB 3.4.19]]

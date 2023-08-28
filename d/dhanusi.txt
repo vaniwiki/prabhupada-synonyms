@@ -1,5 +1,11 @@
-~~Title:dhanusi~~
-{{description>on his bow; on the bow; upon his bow.}}
+---json
+{
+    "name":"dhanusi",
+    "h1":"dhanusi",
+    "title":"dhanusi --- synonyms, prabhupada.io",
+    "description":"on his bow; on the bow; upon his bow."
+}
+---
 
 ==== dhanuṣi  ====
   * on his bow --- [[books:sb:4:11:3|SB 4.11.3]]

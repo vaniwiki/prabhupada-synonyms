@@ -1,5 +1,11 @@
-~~Title:vibhindan~~
-{{description>digging.}}
+---json
+{
+    "name":"vibhindan",
+    "h1":"vibhindan",
+    "title":"vibhindan --- synonyms, prabhupada.io",
+    "description":"digging."
+}
+---
 
 ==== vibhindan  ====
   * digging --- [[books:sb:3:13:32|SB 3.13.32]]

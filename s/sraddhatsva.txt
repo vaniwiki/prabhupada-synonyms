@@ -1,5 +1,11 @@
-~~Title:śraddhatsva~~
-{{description>accept it as fact; you may rest assured.}}
+---json
+{
+    "name":"śraddhatsva",
+    "h1":"śraddhatsva",
+    "title":"śraddhatsva --- synonyms, prabhupada.io",
+    "description":"accept it as fact; you may rest assured."
+}
+---
 
 ==== śraddhatsva  ====
   * accept it as fact --- [[books:sb:4:29:65|SB 4.29.65]]

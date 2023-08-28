@@ -1,5 +1,11 @@
-~~Title:vāji~~
-{{description>acting as the horses; in first-class horses.}}
+---json
+{
+    "name":"vāji",
+    "h1":"vāji",
+    "title":"vāji --- synonyms, prabhupada.io",
+    "description":"acting as the horses; in first-class horses."
+}
+---
 
 ==== vāji  ====
   * acting as the horses --- [[books:sb:7:15:46|SB 7.15.46]]

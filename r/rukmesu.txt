@@ -1,5 +1,11 @@
-~~Title:rukmeṣu~~
-{{description>Rukmeṣu.}}
+---json
+{
+    "name":"rukmeṣu",
+    "h1":"rukmeṣu",
+    "title":"rukmeṣu --- synonyms, prabhupada.io",
+    "description":"Rukmeṣu."
+}
+---
 
 ==== rukmeṣu  ====
   * Rukmeṣu --- [[books:sb:9:23:34|SB 9.23.34]]

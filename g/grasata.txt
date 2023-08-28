@@ -1,5 +1,11 @@
-~~Title:grasatā~~
-{{description>swallowing.}}
+---json
+{
+    "name":"grasatā",
+    "h1":"grasatā",
+    "title":"grasatā --- synonyms, prabhupada.io",
+    "description":"swallowing."
+}
+---
 
 ==== grasatā  ====
   * swallowing --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

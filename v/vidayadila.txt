@@ -1,5 +1,11 @@
-~~Title:vidāyadilā~~
-{{description>bade farewell; bid farewell.}}
+---json
+{
+    "name":"vidāyadilā",
+    "h1":"vidāyadilā",
+    "title":"vidāyadilā --- synonyms, prabhupada.io",
+    "description":"bade farewell; bid farewell."
+}
+---
 
 ==== vidāyadilā  ====
   * bade farewell --- [[books:cc:antya:1:214|Antya 1.214]]

@@ -1,5 +1,11 @@
-~~Title:ānuṣaṅgika~~
-{{description>concomitant.}}
+---json
+{
+    "name":"ānuṣaṅgika",
+    "h1":"ānuṣaṅgika",
+    "title":"ānuṣaṅgika --- synonyms, prabhupada.io",
+    "description":"concomitant."
+}
+---
 
 ==== ānuṣaṅgika  ====
   * concomitant --- [[books:cc:antya:3:180|Antya 3.180]]

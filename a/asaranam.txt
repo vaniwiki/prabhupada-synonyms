@@ -1,5 +1,11 @@
-~~Title:asaranam~~
-{{description>without being alternatively protected.}}
+---json
+{
+    "name":"asaranam",
+    "h1":"asaranam",
+    "title":"asaranam --- synonyms, prabhupada.io",
+    "description":"without being alternatively protected."
+}
+---
 
 ==== aśaraṇam  ====
   * without being alternatively protected --- [[books:sb:1:7:19|SB 1.7.19]]

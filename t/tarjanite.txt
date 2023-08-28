@@ -1,5 +1,11 @@
-~~Title:tarjanīte~~
-{{description>with the ring finger.}}
+---json
+{
+    "name":"tarjanīte",
+    "h1":"tarjanīte",
+    "title":"tarjanīte --- synonyms, prabhupada.io",
+    "description":"with the ring finger."
+}
+---
 
 ==== tarjanīte  ====
   * with the ring finger --- [[books:cc:madhya:13:165|Madhya 13.165]]

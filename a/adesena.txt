@@ -1,5 +1,11 @@
-~~Title:ādeśena~~
-{{description>as advised.}}
+---json
+{
+    "name":"ādeśena",
+    "h1":"ādeśena",
+    "title":"ādeśena --- synonyms, prabhupada.io",
+    "description":"as advised."
+}
+---
 
 ==== ādeśena  ====
   * as advised --- [[books:sb:4:8:71|SB 4.8.71]]

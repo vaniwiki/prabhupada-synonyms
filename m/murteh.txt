@@ -1,5 +1,11 @@
-~~Title:mūrteḥ~~
-{{description>the personification.}}
+---json
+{
+    "name":"mūrteḥ",
+    "h1":"mūrteḥ",
+    "title":"mūrteḥ --- synonyms, prabhupada.io",
+    "description":"the personification."
+}
+---
 
 ==== mūrteḥ  ====
   * the personification --- [[books:sb:4:9:17|SB 4.9.17]]

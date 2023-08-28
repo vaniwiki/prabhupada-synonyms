@@ -1,5 +1,11 @@
-~~Title:parana~~
-{{description>putting on.}}
+---json
+{
+    "name":"parana",
+    "h1":"parana",
+    "title":"parana --- synonyms, prabhupada.io",
+    "description":"putting on."
+}
+---
 
 ==== parāñā  ====
   * putting on --- [[books:cc:antya:18:73|Antya 18.73]]

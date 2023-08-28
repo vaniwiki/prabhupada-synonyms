@@ -1,5 +1,11 @@
-~~Title:kauṭilya~~
-{{description>diplomatic.}}
+---json
+{
+    "name":"kauṭilya",
+    "h1":"kauṭilya",
+    "title":"kauṭilya --- synonyms, prabhupada.io",
+    "description":"diplomatic."
+}
+---
 
 ==== kauṭilya  ====
   * diplomatic --- [[books:cc:adi:8:56|Ādi 8.56]]

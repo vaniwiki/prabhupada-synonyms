@@ -1,5 +1,11 @@
-~~Title:veṣeṇa~~
-{{description>by the dress; by your dress.}}
+---json
+{
+    "name":"veṣeṇa",
+    "h1":"veṣeṇa",
+    "title":"veṣeṇa --- synonyms, prabhupada.io",
+    "description":"by the dress; by your dress."
+}
+---
 
 ==== veṣeṇa  ====
   * by the dress --- [[books:sb:6:15:10|SB 6.15.10]]

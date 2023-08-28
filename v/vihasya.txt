@@ -1,5 +1,11 @@
-~~Title:vihasya~~
-{{description>disregarding the etiquette; smiling.}}
+---json
+{
+    "name":"vihasya",
+    "h1":"vihasya",
+    "title":"vihasya --- synonyms, prabhupada.io",
+    "description":"disregarding the etiquette; smiling."
+}
+---
 
 ==== vihasya  ====
   * disregarding the etiquette --- [[books:sb:3:15:30|SB 3.15.30]]

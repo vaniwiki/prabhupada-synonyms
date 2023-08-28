@@ -1,5 +1,11 @@
-~~Title:pariṣkṛtam~~
-{{description>very nicely cleansed.}}
+---json
+{
+    "name":"pariṣkṛtam",
+    "h1":"pariṣkṛtam",
+    "title":"pariṣkṛtam --- synonyms, prabhupada.io",
+    "description":"very nicely cleansed."
+}
+---
 
 ==== pariṣkṛtam  ====
   * very nicely cleansed --- [[books:sb:4:21:3|SB 4.21.3]]

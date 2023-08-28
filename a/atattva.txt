@@ -1,5 +1,11 @@
-~~Title:atattva~~
-{{description>without reality.}}
+---json
+{
+    "name":"atattva",
+    "h1":"atattva",
+    "title":"atattva --- synonyms, prabhupada.io",
+    "description":"without reality."
+}
+---
 
 ==== atattva-arthavat  ====
   * without reality --- [[books:bg:18:22|Bg. 18.22]]

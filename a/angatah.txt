@@ -1,5 +1,11 @@
-~~Title:aṅgataḥ~~
-{{description>from King Aṅga.}}
+---json
+{
+    "name":"aṅgataḥ",
+    "h1":"aṅgataḥ",
+    "title":"aṅgataḥ --- synonyms, prabhupada.io",
+    "description":"from King Aṅga."
+}
+---
 
 ==== aṅgataḥ  ====
   * from King Aṅga --- [[books:sb:9:23:6|SB 9.23.6]]

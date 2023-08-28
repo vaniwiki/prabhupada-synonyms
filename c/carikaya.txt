@@ -1,5 +1,11 @@
-~~Title:cārikāya~~
-{{description>four bodies.}}
+---json
+{
+    "name":"cārikāya",
+    "h1":"cārikāya",
+    "title":"cārikāya --- synonyms, prabhupada.io",
+    "description":"four bodies."
+}
+---
 
 ==== cārikāya  ====
   * four bodies --- [[books:cc:adi:5:9|Ādi 5.9]]

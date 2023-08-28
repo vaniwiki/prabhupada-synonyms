@@ -1,5 +1,11 @@
-~~Title:pṛṣṭā~~
-{{description>when questioned.}}
+---json
+{
+    "name":"pṛṣṭā",
+    "h1":"pṛṣṭā",
+    "title":"pṛṣṭā --- synonyms, prabhupada.io",
+    "description":"when questioned."
+}
+---
 
 ==== pṛṣṭā  ====
   * when questioned --- [[books:cc:madhya:22:6|Madhya 22.6]]

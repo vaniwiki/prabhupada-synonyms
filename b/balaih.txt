@@ -1,5 +1,11 @@
-~~Title:balaih~~
-{{description>by strength.}}
+---json
+{
+    "name":"balaih",
+    "h1":"balaih",
+    "title":"balaih --- synonyms, prabhupada.io",
+    "description":"by strength."
+}
+---
 
 ==== balaiḥ  ====
   * by strength --- [[books:sb:1:11:11|SB 1.11.11]], [[books:sb:3:3:12|SB 3.3.12]]

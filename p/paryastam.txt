@@ -1,5 +1,11 @@
-~~Title:paryastam~~
-{{description>surrounded; surrounding the waist.}}
+---json
+{
+    "name":"paryastam",
+    "h1":"paryastam",
+    "title":"paryastam --- synonyms, prabhupada.io",
+    "description":"surrounded; surrounding the waist."
+}
+---
 
 ==== paryastam  ====
   * surrounded --- [[books:sb:4:6:22|SB 4.6.22]], [[books:sb:6:10:15|SB 6.10.15]]

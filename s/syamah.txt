@@ -1,5 +1,11 @@
-~~Title:syamah~~
-{{description>blackish.}}
+---json
+{
+    "name":"syamah",
+    "h1":"syamah",
+    "title":"syamah --- synonyms, prabhupada.io",
+    "description":"blackish."
+}
+---
 
 ==== śyāmaḥ  ====
   * blackish --- [[books:sb:4:7:20|SB 4.7.20]], [[books:cc:adi:3:39|Ādi 3.39]], [[books:cc:madhya:20:337|Madhya 20.337]]

@@ -1,5 +1,11 @@
-~~Title:śukāñā~~
-{{description>drying up.}}
+---json
+{
+    "name":"śukāñā",
+    "h1":"śukāñā",
+    "title":"śukāñā --- synonyms, prabhupada.io",
+    "description":"drying up."
+}
+---
 
 ==== śukāñā  ====
   * drying up --- [[books:cc:antya:20:23|Antya 20.23]]

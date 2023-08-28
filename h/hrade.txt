@@ -1,5 +1,11 @@
-~~Title:hrade~~
-{{description>in a lake; in the lake; lake.}}
+---json
+{
+    "name":"hrade",
+    "h1":"hrade",
+    "title":"hrade --- synonyms, prabhupada.io",
+    "description":"in a lake; in the lake; lake."
+}
+---
 
 ==== hrade  ====
   * in a lake --- [[books:sb:8:24:22|SB 8.24.22]]

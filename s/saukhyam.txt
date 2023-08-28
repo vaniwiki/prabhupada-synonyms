@@ -1,5 +1,11 @@
-~~Title:saukhyam~~
-{{description>the happiness.}}
+---json
+{
+    "name":"saukhyam",
+    "h1":"saukhyam",
+    "title":"saukhyam --- synonyms, prabhupada.io",
+    "description":"the happiness."
+}
+---
 
 ==== saukhyam  ====
   * the happiness --- [[books:cc:adi:1:6|Ādi 1.6]], [[books:cc:adi:4:230|Ādi 4.230]]

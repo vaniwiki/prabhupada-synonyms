@@ -1,5 +1,11 @@
-~~Title:niḥsare~~
-{{description>come out; comes out; vibrates.}}
+---json
+{
+    "name":"niḥsare",
+    "h1":"niḥsare",
+    "title":"niḥsare --- synonyms, prabhupada.io",
+    "description":"come out; comes out; vibrates."
+}
+---
 
 ==== niḥsare  ====
   * come out --- [[books:cc:adi:16:87|Ādi 16.87]]

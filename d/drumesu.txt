@@ -1,5 +1,11 @@
-~~Title:drumeṣu~~
-{{description>in the trees (or in houses standing like trees in which monkeys jump from one branch to another).}}
+---json
+{
+    "name":"drumeṣu",
+    "h1":"drumeṣu",
+    "title":"drumeṣu --- synonyms, prabhupada.io",
+    "description":"in the trees (or in houses standing like trees in which monkeys jump from one branch to another)."
+}
+---
 
 ==== drumeṣu  ====
   * in the trees (or in houses standing like trees in which monkeys jump from one branch to another) --- [[books:sb:5:13:18|SB 5.13.18]]

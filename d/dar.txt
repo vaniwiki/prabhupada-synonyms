@@ -1,5 +1,11 @@
-~~Title:dar~~
-{{description>interview.}}
+---json
+{
+    "name":"dar",
+    "h1":"dar",
+    "title":"dar --- synonyms, prabhupada.io",
+    "description":"interview."
+}
+---
 
 ==== dar-śana  ====
   * interview --- [[books:cc:madhya:13:124|Madhya 13.124]]

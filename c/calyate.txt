@@ -1,5 +1,11 @@
-~~Title:cālyate~~
-{{description>can be controlled.}}
+---json
+{
+    "name":"cālyate",
+    "h1":"cālyate",
+    "title":"cālyate --- synonyms, prabhupada.io",
+    "description":"can be controlled."
+}
+---
 
 ==== cālyate  ====
   * can be controlled --- [[books:sb:10:4:38|SB 10.4.38]]

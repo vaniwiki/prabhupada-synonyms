@@ -1,5 +1,11 @@
-~~Title:kapotaḥ~~
-{{description>pigeon.}}
+---json
+{
+    "name":"kapotaḥ",
+    "h1":"kapotaḥ",
+    "title":"kapotaḥ --- synonyms, prabhupada.io",
+    "description":"pigeon."
+}
+---
 
 ==== kapotaḥ  ====
   * pigeon --- [[books:sb:1:14:14|SB 1.14.14]]

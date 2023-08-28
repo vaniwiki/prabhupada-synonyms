@@ -1,5 +1,11 @@
-~~Title:sannyāsam~~
-{{description>renounced order of life; renunciation; the renounced order of life.}}
+---json
+{
+    "name":"sannyāsam",
+    "h1":"sannyāsam",
+    "title":"sannyāsam --- synonyms, prabhupada.io",
+    "description":"renounced order of life; renunciation; the renounced order of life."
+}
+---
 
 ==== sannyāsam  ====
   * renounced order of life --- [[books:bg:18:2|Bg. 18.2]]

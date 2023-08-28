@@ -1,5 +1,11 @@
-~~Title:hāne~~
-{{description>pierces.}}
+---json
+{
+    "name":"hāne",
+    "h1":"hāne",
+    "title":"hāne --- synonyms, prabhupada.io",
+    "description":"pierces."
+}
+---
 
 ==== hāne  ====
   * pierces --- [[books:cc:antya:15:73|Antya 15.73]], [[books:cc:antya:17:36|Antya 17.36]]

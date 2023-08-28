@@ -1,5 +1,11 @@
-~~Title:gaṇayan~~
-{{description>considering; counting.}}
+---json
+{
+    "name":"gaṇayan",
+    "h1":"gaṇayan",
+    "title":"gaṇayan --- synonyms, prabhupada.io",
+    "description":"considering; counting."
+}
+---
 
 ==== gaṇayan  ====
   * considering --- [[books:sb:5:8:31|SB 5.8.31]]

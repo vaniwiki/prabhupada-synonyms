@@ -1,5 +1,11 @@
-~~Title:vastu~~
-{{description>an object; as a fact; ingredients; matter; metal; object; of the Absolute Truth; substance; the facts; thing; things; truth.}}
+---json
+{
+    "name":"vastu",
+    "h1":"vastu",
+    "title":"vastu --- synonyms, prabhupada.io",
+    "description":"an object; as a fact; ingredients; matter; metal; object; of the Absolute Truth; substance; the facts; thing; things; truth."
+}
+---
 
 ==== vastu  ====
   * an object --- [[books:cc:madhya:20:356|Madhya 20.356]]

@@ -1,5 +1,11 @@
-~~Title:viśvera~~
-{{description>of the entire material world; of the material universe; of the universes; the cosmic manifestation.}}
+---json
+{
+    "name":"viśvera",
+    "h1":"viśvera",
+    "title":"viśvera --- synonyms, prabhupada.io",
+    "description":"of the entire material world; of the material universe; of the universes; the cosmic manifestation."
+}
+---
 
 ==== viśvera  ====
   * of the entire material world --- [[books:cc:adi:6:16|Ādi 6.16]]

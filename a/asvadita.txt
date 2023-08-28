@@ -1,5 +1,11 @@
-~~Title:āsvādita~~
-{{description>relished.}}
+---json
+{
+    "name":"āsvādita",
+    "h1":"āsvādita",
+    "title":"āsvādita --- synonyms, prabhupada.io",
+    "description":"relished."
+}
+---
 
 ==== āsvādita  ====
   * relished --- [[books:cc:madhya:4:170|Madhya 4.170]]

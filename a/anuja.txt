@@ -1,5 +1,11 @@
-~~Title:anuja~~
-{{description>the younger brothers; younger brother; younger brothers.}}
+---json
+{
+    "name":"anuja",
+    "h1":"anuja",
+    "title":"anuja --- synonyms, prabhupada.io",
+    "description":"the younger brothers; younger brother; younger brothers."
+}
+---
 
 ==== anuja  ====
   * the younger brothers --- [[books:sb:1:10:3|SB 1.10.3]]

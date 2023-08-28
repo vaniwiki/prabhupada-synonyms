@@ -1,5 +1,11 @@
-~~Title:tattvavit~~
-{{description>one who knows the truth; the knower of the Absolute Truth.}}
+---json
+{
+    "name":"tattvavit",
+    "h1":"tattvavit",
+    "title":"tattvavit --- synonyms, prabhupada.io",
+    "description":"one who knows the truth; the knower of the Absolute Truth."
+}
+---
 
 ==== tattvavit  ====
   * one who knows the truth --- [[books:bg:5:8-9|Bg. 5.8-9]]

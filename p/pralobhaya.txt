@@ -1,5 +1,11 @@
-~~Title:pralobhaya~~
-{{description>allure.}}
+---json
+{
+    "name":"pralobhaya",
+    "h1":"pralobhaya",
+    "title":"pralobhaya --- synonyms, prabhupada.io",
+    "description":"allure."
+}
+---
 
 ==== pralobhaya  ====
   * allure --- [[books:sb:7:10:2|SB 7.10.2]]

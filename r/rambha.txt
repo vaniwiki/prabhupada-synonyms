@@ -1,5 +1,11 @@
-~~Title:rambhā~~
-{{description>a dancing girl of heaven; bananas.}}
+---json
+{
+    "name":"rambhā",
+    "h1":"rambhā",
+    "title":"rambhā --- synonyms, prabhupada.io",
+    "description":"a dancing girl of heaven; bananas."
+}
+---
 
 ==== rambhā  ====
   * a dancing girl of heaven --- [[books:cc:adi:13:105|Ādi 13.105]]

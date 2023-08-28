@@ -1,5 +1,11 @@
-~~Title:arim~~
-{{description>the enemy.}}
+---json
+{
+    "name":"arim",
+    "h1":"arim",
+    "title":"arim --- synonyms, prabhupada.io",
+    "description":"the enemy."
+}
+---
 
 ==== arim  ====
   * the enemy --- [[books:sb:8:10:56|SB 8.10.56]]

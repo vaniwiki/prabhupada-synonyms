@@ -1,5 +1,11 @@
-~~Title:anuvartma~~
-{{description>able to follow the path.}}
+---json
+{
+    "name":"anuvartma",
+    "h1":"anuvartma",
+    "title":"anuvartma --- synonyms, prabhupada.io",
+    "description":"able to follow the path."
+}
+---
 
 ==== anuvartma arhati  ====
   * able to follow the path --- [[books:sb:5:14:42|SB 5.14.42]]

@@ -1,5 +1,11 @@
-~~Title:vyādhasya~~
-{{description>of the hunter.}}
+---json
+{
+    "name":"vyādhasya",
+    "h1":"vyādhasya",
+    "title":"vyādhasya --- synonyms, prabhupada.io",
+    "description":"of the hunter."
+}
+---
 
 ==== vyādhasya  ====
   * of the hunter --- [[books:sb:3:14:36|SB 3.14.36]]

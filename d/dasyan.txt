@@ -1,5 +1,11 @@
-~~Title:dāsyan~~
-{{description>desiring to offer them.}}
+---json
+{
+    "name":"dāsyan",
+    "h1":"dāsyan",
+    "title":"dāsyan --- synonyms, prabhupada.io",
+    "description":"desiring to offer them."
+}
+---
 
 ==== dāsyan  ====
   * desiring to offer them --- [[books:sb:10:10:7|SB 10.10.7]]

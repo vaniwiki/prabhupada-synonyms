@@ -1,5 +1,11 @@
-~~Title:visarpat~~
-{{description>curling.}}
+---json
+{
+    "name":"visarpat",
+    "h1":"visarpat",
+    "title":"visarpat --- synonyms, prabhupada.io",
+    "description":"curling."
+}
+---
 
 ==== visarpat  ====
   * curling --- [[books:sb:8:7:19|SB 8.7.19]]

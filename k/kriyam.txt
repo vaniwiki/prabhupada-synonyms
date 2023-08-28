@@ -1,5 +1,11 @@
-~~Title:kriyām~~
-{{description>Kriyā.}}
+---json
+{
+    "name":"kriyām",
+    "h1":"kriyām",
+    "title":"kriyām --- synonyms, prabhupada.io",
+    "description":"Kriyā."
+}
+---
 
 ==== kriyām  ====
   * Kriyā --- [[books:sb:3:24:22-23|SB 3.24.22-23]]

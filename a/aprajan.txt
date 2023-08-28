@@ -1,5 +1,11 @@
-~~Title:aprajān~~
-{{description>without sons.}}
+---json
+{
+    "name":"aprajān",
+    "h1":"aprajān",
+    "title":"aprajān --- synonyms, prabhupada.io",
+    "description":"without sons."
+}
+---
 
 ==== aprajān  ====
   * without sons --- [[books:sb:6:6:7|SB 6.6.7]]

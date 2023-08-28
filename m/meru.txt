@@ -1,5 +1,11 @@
-~~Title:meru~~
-{{description>of the mountain named Meru.}}
+---json
+{
+    "name":"meru",
+    "h1":"meru",
+    "title":"meru --- synonyms, prabhupada.io",
+    "description":"of the mountain named Meru."
+}
+---
 
 ==== meru  ====
   * of the mountain named Meru --- [[books:sb:4:30:5|SB 4.30.5]]

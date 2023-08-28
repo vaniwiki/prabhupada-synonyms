@@ -1,5 +1,11 @@
-~~Title:sānnāhikaḥ~~
-{{description>able to equip himself with a shield.}}
+---json
+{
+    "name":"sānnāhikaḥ",
+    "h1":"sānnāhikaḥ",
+    "title":"sānnāhikaḥ --- synonyms, prabhupada.io",
+    "description":"able to equip himself with a shield."
+}
+---
 
 ==== sānnāhikaḥ  ====
   * able to equip himself with a shield --- [[books:sb:9:7:14|SB 9.7.14]]

@@ -1,5 +1,11 @@
-~~Title:svāda~~
-{{description>taste; the taste.}}
+---json
+{
+    "name":"svāda",
+    "h1":"svāda",
+    "title":"svāda --- synonyms, prabhupada.io",
+    "description":"taste; the taste."
+}
+---
 
 ==== svāda  ====
   * taste --- [[books:cc:madhya:23:44|Madhya 23.44]], [[books:cc:antya:12:131|Antya 12.131]], [[books:cc:antya:16:93|Antya 16.93]], [[books:cc:antya:16:94|Antya 16.94]], [[books:cc:antya:16:108-109|Antya 16.108-109]], [[books:cc:antya:16:113|Antya 16.113]]

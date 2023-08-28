@@ -1,5 +1,11 @@
-~~Title:mantram~~
-{{description>mantra; hymn; the mantra.}}
+---json
+{
+    "name":"mantram",
+    "h1":"mantram",
+    "title":"mantram --- synonyms, prabhupada.io",
+    "description":"mantra; hymn; the mantra."
+}
+---
 
 ==== mantram  ====
   * //mantra// --- [[books:sb:6:8:11|SB 6.8.11]]

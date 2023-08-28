@@ -1,5 +1,11 @@
-~~Title:sapatnān~~
-{{description>adversaries; enemies; our rivals; their rivals.}}
+---json
+{
+    "name":"sapatnān",
+    "h1":"sapatnān",
+    "title":"sapatnān --- synonyms, prabhupada.io",
+    "description":"adversaries; enemies; our rivals; their rivals."
+}
+---
 
 ==== sapatnān  ====
   * adversaries --- [[books:sb:5:1:18|SB 5.1.18]]

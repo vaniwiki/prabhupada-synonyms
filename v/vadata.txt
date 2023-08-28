@@ -1,5 +1,11 @@
-~~Title:vadatā~~
-{{description>speaking.}}
+---json
+{
+    "name":"vadatā",
+    "h1":"vadatā",
+    "title":"vadatā --- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== vadatā  ====
   * speaking --- [[books:sb:8:24:25|SB 8.24.25]]

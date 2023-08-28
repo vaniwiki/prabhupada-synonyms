@@ -1,5 +1,11 @@
-~~Title:anarthaiḥ~~
-{{description>unwanted.}}
+---json
+{
+    "name":"anarthaiḥ",
+    "h1":"anarthaiḥ",
+    "title":"anarthaiḥ --- synonyms, prabhupada.io",
+    "description":"unwanted."
+}
+---
 
 ==== anarthaiḥ  ====
   * unwanted --- [[books:sb:7:7:45|SB 7.7.45]]

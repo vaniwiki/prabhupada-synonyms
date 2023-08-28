@@ -1,5 +1,11 @@
-~~Title:eṣyati~~
-{{description>comes; will achieve; will become; will return.}}
+---json
+{
+    "name":"eṣyati",
+    "h1":"eṣyati",
+    "title":"eṣyati --- synonyms, prabhupada.io",
+    "description":"comes; will achieve; will become; will return."
+}
+---
 
 ==== eṣyati  ====
   * comes --- [[books:bg:18:68|Bg. 18.68]]

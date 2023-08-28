@@ -1,5 +1,11 @@
-~~Title:goptāram~~
-{{description>protector.}}
+---json
+{
+    "name":"goptāram",
+    "h1":"goptāram",
+    "title":"goptāram --- synonyms, prabhupada.io",
+    "description":"protector."
+}
+---
 
 ==== goptāram  ====
   * protector --- [[books:sb:4:12:12|SB 4.12.12]]

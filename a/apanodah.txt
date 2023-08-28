@@ -1,5 +1,11 @@
-~~Title:apanodaḥ~~
-{{description>driving away.}}
+---json
+{
+    "name":"apanodaḥ",
+    "h1":"apanodaḥ",
+    "title":"apanodaḥ --- synonyms, prabhupada.io",
+    "description":"driving away."
+}
+---
 
 ==== apanodaḥ  ====
   * driving away --- [[books:sb:3:26:43|SB 3.26.43]]

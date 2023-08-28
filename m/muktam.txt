@@ -1,5 +1,11 @@
-~~Title:muktam~~
-{{description>liberated; scattered; thus released; transcendental.}}
+---json
+{
+    "name":"muktam",
+    "h1":"muktam",
+    "title":"muktam --- synonyms, prabhupada.io",
+    "description":"liberated; scattered; thus released; transcendental."
+}
+---
 
 ==== muktam  ====
   * liberated --- [[books:bg:18:40|Bg. 18.40]]

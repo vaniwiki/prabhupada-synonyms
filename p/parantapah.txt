@@ -1,5 +1,11 @@
-~~Title:parantapaḥ~~
-{{description>the chastiser of the enemies.}}
+---json
+{
+    "name":"parantapaḥ",
+    "h1":"parantapaḥ",
+    "title":"parantapaḥ --- synonyms, prabhupada.io",
+    "description":"the chastiser of the enemies."
+}
+---
 
 ==== parantapaḥ  ====
   * the chastiser of the enemies --- [[books:bg:2:9|Bg. 2.9]]

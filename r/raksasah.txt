@@ -1,5 +1,11 @@
-~~Title:rākṣasaḥ~~
-{{description>a man-eater.}}
+---json
+{
+    "name":"rākṣasaḥ",
+    "h1":"rākṣasaḥ",
+    "title":"rākṣasaḥ --- synonyms, prabhupada.io",
+    "description":"a man-eater."
+}
+---
 
 ==== rākṣasaḥ  ====
   * a man-eater --- [[books:sb:9:9:26-27|SB 9.9.26-27]]

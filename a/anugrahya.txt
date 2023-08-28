@@ -1,5 +1,11 @@
-~~Title:anugrāhya~~
-{{description>being very merciful.}}
+---json
+{
+    "name":"anugrāhya",
+    "h1":"anugrāhya",
+    "title":"anugrāhya --- synonyms, prabhupada.io",
+    "description":"being very merciful."
+}
+---
 
 ==== anugrāhya  ====
   * being very merciful --- [[books:sb:9:8:27|SB 9.8.27]]

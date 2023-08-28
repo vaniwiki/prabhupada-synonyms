@@ -1,5 +1,11 @@
-~~Title:vicinvan~~
-{{description>deeply thinking; searching after; searching for; searching for food; searching out; speculating; thinking much of it.}}
+---json
+{
+    "name":"vicinvan",
+    "h1":"vicinvan",
+    "title":"vicinvan --- synonyms, prabhupada.io",
+    "description":"deeply thinking; searching after; searching for; searching for food; searching out; speculating; thinking much of it."
+}
+---
 
 ==== vicinvan  ====
   * deeply thinking --- [[books:sb:3:4:6|SB 3.4.6]]

@@ -1,5 +1,11 @@
-~~Title:upaitum~~
-{{description>to go before the Lord.}}
+---json
+{
+    "name":"upaitum",
+    "h1":"upaitum",
+    "title":"upaitum --- synonyms, prabhupada.io",
+    "description":"to go before the Lord."
+}
+---
 
 ==== upaitum  ====
   * to go before the Lord --- [[books:sb:7:9:1|SB 7.9.1]]

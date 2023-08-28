@@ -1,5 +1,11 @@
-~~Title:udāvasuḥ~~
-{{description>a son named Udāvasu.}}
+---json
+{
+    "name":"udāvasuḥ",
+    "h1":"udāvasuḥ",
+    "title":"udāvasuḥ --- synonyms, prabhupada.io",
+    "description":"a son named Udāvasu."
+}
+---
 
 ==== udāvasuḥ  ====
   * a son named Udāvasu --- [[books:sb:9:13:14|SB 9.13.14]]

@@ -1,5 +1,11 @@
-~~Title:abhram~~
-{{description>cloud.}}
+---json
+{
+    "name":"abhram",
+    "h1":"abhram",
+    "title":"abhram --- synonyms, prabhupada.io",
+    "description":"cloud."
+}
+---
 
 ==== abhram  ====
   * cloud --- [[books:bg:6:38|Bg. 6.38]]

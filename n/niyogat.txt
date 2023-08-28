@@ -1,5 +1,11 @@
-~~Title:niyogāt~~
-{{description>by the order.}}
+---json
+{
+    "name":"niyogāt",
+    "h1":"niyogāt",
+    "title":"niyogāt --- synonyms, prabhupada.io",
+    "description":"by the order."
+}
+---
 
 ==== niyogāt  ====
   * by the order --- [[books:cc:madhya:10:145|Madhya 10.145]]

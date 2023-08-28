@@ -1,5 +1,11 @@
-~~Title:sevitam~~
-{{description>served.}}
+---json
+{
+    "name":"sevitam",
+    "h1":"sevitam",
+    "title":"sevitam --- synonyms, prabhupada.io",
+    "description":"served."
+}
+---
 
 ==== sevitam  ====
   * served --- [[books:sb:3:21:38-39|SB 3.21.38-39]]

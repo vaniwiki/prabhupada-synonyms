@@ -1,5 +1,11 @@
-~~Title:mocitah~~
-{{description>released; was freed.}}
+---json
+{
+    "name":"mocitah",
+    "h1":"mocitah",
+    "title":"mocitah --- synonyms, prabhupada.io",
+    "description":"released; was freed."
+}
+---
 
 ==== mocitaḥ  ====
   * released --- [[books:sb:9:22:34|SB 9.22.34]]

@@ -1,5 +1,11 @@
-~~Title:panji~~
-{{description>application; fluffing out (as of cotton).}}
+---json
+{
+    "name":"panji",
+    "h1":"panji",
+    "title":"panji --- synonyms, prabhupada.io",
+    "description":"application; fluffing out (as of cotton)."
+}
+---
 
 ==== pāṅji  ====
   * application --- [[books:cc:adi:13:29|Ādi 13.29]]

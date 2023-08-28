@@ -1,5 +1,11 @@
-~~Title:stāvayate~~
-{{description>causes to be praised.}}
+---json
+{
+    "name":"stāvayate",
+    "h1":"stāvayate",
+    "title":"stāvayate --- synonyms, prabhupada.io",
+    "description":"causes to be praised."
+}
+---
 
 ==== stāvayate  ====
   * causes to be praised --- [[books:sb:4:15:24|SB 4.15.24]]

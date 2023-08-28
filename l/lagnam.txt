@@ -1,5 +1,11 @@
-~~Title:lagnam~~
-{{description>penetrating; tightly attached.}}
+---json
+{
+    "name":"lagnam",
+    "h1":"lagnam",
+    "title":"lagnam --- synonyms, prabhupada.io",
+    "description":"penetrating; tightly attached."
+}
+---
 
 ==== lagnam  ====
   * penetrating --- [[books:cc:antya:1:195|Antya 1.195]]

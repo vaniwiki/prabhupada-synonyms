@@ -1,5 +1,11 @@
-~~Title:pravavrāja~~
-{{description>began to travel all over the world.}}
+---json
+{
+    "name":"pravavrāja",
+    "h1":"pravavrāja",
+    "title":"pravavrāja --- synonyms, prabhupada.io",
+    "description":"began to travel all over the world."
+}
+---
 
 ==== pravavrāja  ====
   * began to travel all over the world --- [[books:sb:5:5:28|SB 5.5.28]]

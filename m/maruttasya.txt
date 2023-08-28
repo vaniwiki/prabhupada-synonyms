@@ -1,5 +1,11 @@
-~~Title:maruttasya~~
-{{description>of Marutta.}}
+---json
+{
+    "name":"maruttasya",
+    "h1":"maruttasya",
+    "title":"maruttasya --- synonyms, prabhupada.io",
+    "description":"of Marutta."
+}
+---
 
 ==== maruttasya  ====
   * of Marutta --- [[books:sb:9:2:27|SB 9.2.27]], [[books:sb:9:2:29|SB 9.2.29]]

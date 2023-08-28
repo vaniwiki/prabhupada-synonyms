@@ -1,5 +1,11 @@
-~~Title:avadhayaḥ~~
-{{description>extending to.}}
+---json
+{
+    "name":"avadhayaḥ",
+    "h1":"avadhayaḥ",
+    "title":"avadhayaḥ --- synonyms, prabhupada.io",
+    "description":"extending to."
+}
+---
 
 ==== avadhayaḥ  ====
   * extending to --- [[books:sb:5:16:8|SB 5.16.8]]

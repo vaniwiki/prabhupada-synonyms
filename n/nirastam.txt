@@ -1,5 +1,11 @@
-~~Title:nirastam~~
-{{description>defeated.}}
+---json
+{
+    "name":"nirastam",
+    "h1":"nirastam",
+    "title":"nirastam --- synonyms, prabhupada.io",
+    "description":"defeated."
+}
+---
 
 ==== nirastam  ====
   * defeated --- [[books:sb:4:10:9|SB 4.10.9]]

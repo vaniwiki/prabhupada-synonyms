@@ -1,5 +1,11 @@
-~~Title:riktha~~
-{{description>of the inheritor sons.}}
+---json
+{
+    "name":"riktha",
+    "h1":"riktha",
+    "title":"riktha --- synonyms, prabhupada.io",
+    "description":"of the inheritor sons."
+}
+---
 
 ==== riktha-ādānām  ====
   * of the inheritor sons --- [[books:sb:2:9:41|SB 2.9.41]]

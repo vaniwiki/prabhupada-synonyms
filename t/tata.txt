@@ -1,5 +1,11 @@
-~~Title:tata~~
-{{description>O my father; so; so far; so many; so much; so much so; that many; that much.}}
+---json
+{
+    "name":"tata",
+    "h1":"tata",
+    "title":"tata --- synonyms, prabhupada.io",
+    "description":"O my father; so; so far; so many; so much; so much so; that many; that much."
+}
+---
 
 ==== tata  ====
   * O my father --- [[books:sb:9:4:2|SB 9.4.2]]

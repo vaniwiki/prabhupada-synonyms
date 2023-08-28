@@ -1,5 +1,11 @@
-~~Title:gṛhamedheṣu~~
-{{description>in household life.}}
+---json
+{
+    "name":"gṛhamedheṣu",
+    "h1":"gṛhamedheṣu",
+    "title":"gṛhamedheṣu --- synonyms, prabhupada.io",
+    "description":"in household life."
+}
+---
 
 ==== gṛhamedheṣu  ====
   * in household life --- [[books:sb:3:3:22|SB 3.3.22]]

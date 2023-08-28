@@ -1,5 +1,11 @@
-~~Title:mārīcam~~
-{{description>the demon Mārīca, who assumed the form of a golden deer; the son of Marīci.}}
+---json
+{
+    "name":"mārīcam",
+    "h1":"mārīcam",
+    "title":"mārīcam --- synonyms, prabhupada.io",
+    "description":"the demon Mārīca, who assumed the form of a golden deer; the son of Marīci."
+}
+---
 
 ==== mārīcam  ====
   * the demon Mārīca, who assumed the form of a golden deer --- [[books:sb:9:10:10|SB 9.10.10]]

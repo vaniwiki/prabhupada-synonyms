@@ -1,5 +1,11 @@
-~~Title:aurveṇa~~
-{{description>by the great sage Aurva.}}
+---json
+{
+    "name":"aurveṇa",
+    "h1":"aurveṇa",
+    "title":"aurveṇa --- synonyms, prabhupada.io",
+    "description":"by the great sage Aurva."
+}
+---
 
 ==== aurveṇa  ====
   * by the great sage Aurva --- [[books:sb:9:8:3|SB 9.8.3]]

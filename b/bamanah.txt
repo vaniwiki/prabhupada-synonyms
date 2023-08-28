@@ -1,5 +1,11 @@
-~~Title:bamānaḥ~~
-{{description>lingering.}}
+---json
+{
+    "name":"bamānaḥ",
+    "h1":"bamānaḥ",
+    "title":"bamānaḥ --- synonyms, prabhupada.io",
+    "description":"lingering."
+}
+---
 
 ==== vilam-bamānaḥ  ====
   * lingering --- [[books:sb:5:22:16|SB 5.22.16]]

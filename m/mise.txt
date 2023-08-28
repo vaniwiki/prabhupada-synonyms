@@ -1,5 +1,11 @@
-~~Title:mise~~
-{{description>come.}}
+---json
+{
+    "name":"mise",
+    "h1":"mise",
+    "title":"mise --- synonyms, prabhupada.io",
+    "description":"come."
+}
+---
 
 ==== ṁise  ====
   * come --- [[books:cc:madhya:1:172|Madhya 1.172]]

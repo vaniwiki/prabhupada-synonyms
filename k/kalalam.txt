@@ -1,5 +1,11 @@
-~~Title:kalalam~~
-{{description>mixing of the sperm and ovum.}}
+---json
+{
+    "name":"kalalam",
+    "h1":"kalalam",
+    "title":"kalalam --- synonyms, prabhupada.io",
+    "description":"mixing of the sperm and ovum."
+}
+---
 
 ==== kalalam  ====
   * mixing of the sperm and ovum --- [[books:sb:3:31:2|SB 3.31.2]]

@@ -1,5 +1,11 @@
-~~Title:vrajet~~
-{{description>can achieve; one can be elevated; one can go.}}
+---json
+{
+    "name":"vrajet",
+    "h1":"vrajet",
+    "title":"vrajet --- synonyms, prabhupada.io",
+    "description":"can achieve; one can be elevated; one can go."
+}
+---
 
 ==== vrajet  ====
   * can achieve --- [[books:sb:3:29:35|SB 3.29.35]], [[books:cc:madhya:1:1|Madhya 1.1]]

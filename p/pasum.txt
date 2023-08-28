@@ -1,5 +1,11 @@
-~~Title:paśum~~
-{{description>an animal; animal; like animals; Paśu; prey animal; the animals; the sacrificial animal; to use as the sacrificial animal.}}
+---json
+{
+    "name":"paśum",
+    "h1":"paśum",
+    "title":"paśum --- synonyms, prabhupada.io",
+    "description":"an animal; animal; like animals; Paśu; prey animal; the animals; the sacrificial animal; to use as the sacrificial animal."
+}
+---
 
 ==== paśum  ====
   * an animal --- [[books:sb:4:20:26|SB 4.20.26]]

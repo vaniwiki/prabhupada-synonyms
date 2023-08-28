@@ -1,5 +1,11 @@
-~~Title:adhyāsana~~
-{{description>situated on the throne.}}
+---json
+{
+    "name":"adhyāsana",
+    "h1":"adhyāsana",
+    "title":"adhyāsana --- synonyms, prabhupada.io",
+    "description":"situated on the throne."
+}
+---
 
 ==== adhyāsana-āśritaḥ  ====
   * situated on the throne --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

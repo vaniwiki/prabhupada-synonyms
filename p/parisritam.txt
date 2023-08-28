@@ -1,5 +1,11 @@
-~~Title:pariśritam~~
-{{description>surrounded.}}
+---json
+{
+    "name":"pariśritam",
+    "h1":"pariśritam",
+    "title":"pariśritam --- synonyms, prabhupada.io",
+    "description":"surrounded."
+}
+---
 
 ==== pariśritam  ====
   * surrounded --- [[books:sb:3:24:9|SB 3.24.9]]

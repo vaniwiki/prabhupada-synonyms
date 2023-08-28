@@ -1,5 +1,11 @@
-~~Title:haryaśva~~
-{{description>named the Haryaśvas.}}
+---json
+{
+    "name":"haryaśva",
+    "h1":"haryaśva",
+    "title":"haryaśva --- synonyms, prabhupada.io",
+    "description":"named the Haryaśvas."
+}
+---
 
 ==== haryaśva-saṁjñān  ====
   * named the Haryaśvas --- [[books:sb:6:5:1|SB 6.5.1]]

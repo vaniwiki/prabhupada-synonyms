@@ -1,5 +1,11 @@
-~~Title:ajāmilam~~
-{{description>Ajāmila.}}
+---json
+{
+    "name":"ajāmilam",
+    "h1":"ajāmilam",
+    "title":"ajāmilam --- synonyms, prabhupada.io",
+    "description":"Ajāmila."
+}
+---
 
 ==== ajāmilam  ====
   * Ajāmila --- [[books:sb:6:1:31|SB 6.1.31]]

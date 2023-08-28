@@ -1,5 +1,11 @@
-~~Title:remāte~~
-{{description>playing carelessly.}}
+---json
+{
+    "name":"remāte",
+    "h1":"remāte",
+    "title":"remāte --- synonyms, prabhupada.io",
+    "description":"playing carelessly."
+}
+---
 
 ==== remāte  ====
   * playing carelessly --- [[books:sb:3:1:39|SB 3.1.39]]

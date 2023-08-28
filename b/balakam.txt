@@ -1,5 +1,11 @@
-~~Title:bālakam~~
-{{description>child; Kṛṣṇa; the child; to her son; unto the child.}}
+---json
+{
+    "name":"bālakam",
+    "h1":"bālakam",
+    "title":"bālakam --- synonyms, prabhupada.io",
+    "description":"child; Kṛṣṇa; the child; to her son; unto the child."
+}
+---
 
 ==== bālakam  ====
   * child --- [[books:sb:10:3:9-10|SB 10.3.9-10]]

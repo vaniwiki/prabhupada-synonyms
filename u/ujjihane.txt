@@ -1,5 +1,11 @@
-~~Title:ujjihāne~~
-{{description>when rising.}}
+---json
+{
+    "name":"ujjihāne",
+    "h1":"ujjihāne",
+    "title":"ujjihāne --- synonyms, prabhupada.io",
+    "description":"when rising."
+}
+---
 
 ==== ujjihāne  ====
   * when rising --- [[books:sb:5:7:13|SB 5.7.13]]

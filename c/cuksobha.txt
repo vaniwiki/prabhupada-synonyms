@@ -1,5 +1,11 @@
-~~Title:cukṣobha~~
-{{description>transformed.}}
+---json
+{
+    "name":"cukṣobha",
+    "h1":"cukṣobha",
+    "title":"cukṣobha --- synonyms, prabhupada.io",
+    "description":"transformed."
+}
+---
 
 ==== cukṣobha  ====
   * transformed --- [[books:sb:3:6:5|SB 3.6.5]]

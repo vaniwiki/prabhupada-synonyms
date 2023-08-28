@@ -1,5 +1,11 @@
-~~Title:roṣaḥ~~
-{{description>anger.}}
+---json
+{
+    "name":"roṣaḥ",
+    "h1":"roṣaḥ",
+    "title":"roṣaḥ --- synonyms, prabhupada.io",
+    "description":"anger."
+}
+---
 
 ==== roṣaḥ  ====
   * anger --- [[books:sb:3:19:15|SB 3.19.15]], [[books:sb:4:6:46|SB 4.6.46]], [[books:sb:6:17:22|SB 6.17.22]], [[books:sb:8:6:25|SB 8.6.25]]

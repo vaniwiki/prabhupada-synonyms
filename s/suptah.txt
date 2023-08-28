@@ -1,5 +1,11 @@
-~~Title:suptaḥ~~
-{{description>sleeping; you have slept.}}
+---json
+{
+    "name":"suptaḥ",
+    "h1":"suptaḥ",
+    "title":"suptaḥ --- synonyms, prabhupada.io",
+    "description":"sleeping; you have slept."
+}
+---
 
 ==== suptaḥ  ====
   * sleeping --- [[books:sb:6:14:44|SB 6.14.44]]

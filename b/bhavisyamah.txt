@@ -1,5 +1,11 @@
-~~Title:bhaviṣyāmaḥ~~
-{{description>shall exist.}}
+---json
+{
+    "name":"bhaviṣyāmaḥ",
+    "h1":"bhaviṣyāmaḥ",
+    "title":"bhaviṣyāmaḥ --- synonyms, prabhupada.io",
+    "description":"shall exist."
+}
+---
 
 ==== bhaviṣyāmaḥ  ====
   * shall exist --- [[books:bg:2:12|Bg. 2.12]]

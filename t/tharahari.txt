@@ -1,5 +1,11 @@
-~~Title:tharahari~~
-{{description>with great shaking.}}
+---json
+{
+    "name":"tharahari",
+    "h1":"tharahari",
+    "title":"tharahari --- synonyms, prabhupada.io",
+    "description":"with great shaking."
+}
+---
 
 ==== tharahari  ====
   * with great shaking --- [[books:cc:madhya:6:208|Madhya 6.208]]

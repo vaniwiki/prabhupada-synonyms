@@ -1,5 +1,11 @@
-~~Title:kṛtsna~~
-{{description>although engaged in all activities.}}
+---json
+{
+    "name":"kṛtsna",
+    "h1":"kṛtsna",
+    "title":"kṛtsna --- synonyms, prabhupada.io",
+    "description":"although engaged in all activities."
+}
+---
 
 ==== kṛtsna-karma-kṛt  ====
   * although engaged in all activities --- [[books:bg:4:18|Bg. 4.18]]

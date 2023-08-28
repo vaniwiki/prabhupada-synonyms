@@ -1,5 +1,11 @@
-~~Title:stavanaiḥ~~
-{{description>by offering prayers.}}
+---json
+{
+    "name":"stavanaiḥ",
+    "h1":"stavanaiḥ",
+    "title":"stavanaiḥ --- synonyms, prabhupada.io",
+    "description":"by offering prayers."
+}
+---
 
 ==== stavanaiḥ  ====
   * by offering prayers --- [[books:sb:8:21:6-7|SB 8.21.6-7]]

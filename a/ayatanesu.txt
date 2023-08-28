@@ -1,5 +1,11 @@
-~~Title:āyataneṣu~~
-{{description>holy lands.}}
+---json
+{
+    "name":"āyataneṣu",
+    "h1":"āyataneṣu",
+    "title":"āyataneṣu --- synonyms, prabhupada.io",
+    "description":"holy lands."
+}
+---
 
 ==== āyataneṣu  ====
   * holy lands --- [[books:sb:3:1:18|SB 3.1.18]]

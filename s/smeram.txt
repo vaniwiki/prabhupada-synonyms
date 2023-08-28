@@ -1,5 +1,11 @@
-~~Title:smerām~~
-{{description>smiling.}}
+---json
+{
+    "name":"smerām",
+    "h1":"smerām",
+    "title":"smerām --- synonyms, prabhupada.io",
+    "description":"smiling."
+}
+---
 
 ==== smerām  ====
   * smiling --- [[books:cc:adi:5:224|Ādi 5.224]]

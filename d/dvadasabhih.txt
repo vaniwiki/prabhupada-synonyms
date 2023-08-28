@@ -1,5 +1,11 @@
-~~Title:dvādaśabhiḥ~~
-{{description>twelve.}}
+---json
+{
+    "name":"dvādaśabhiḥ",
+    "h1":"dvādaśabhiḥ",
+    "title":"dvādaśabhiḥ --- synonyms, prabhupada.io",
+    "description":"twelve."
+}
+---
 
 ==== dvādaśabhiḥ  ====
   * twelve --- [[books:sb:3:11:18|SB 3.11.18]], [[books:sb:7:7:19-20|SB 7.7.19-20]]

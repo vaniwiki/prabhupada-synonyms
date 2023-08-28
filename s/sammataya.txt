@@ -1,5 +1,11 @@
-~~Title:sammatāya~~
-{{description>which is highly esteemed.}}
+---json
+{
+    "name":"sammatāya",
+    "h1":"sammatāya",
+    "title":"sammatāya --- synonyms, prabhupada.io",
+    "description":"which is highly esteemed."
+}
+---
 
 ==== sammatāya  ====
   * which is highly esteemed --- [[books:sb:3:24:36|SB 3.24.36]]

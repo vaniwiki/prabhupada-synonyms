@@ -1,5 +1,11 @@
-~~Title:khagah~~
-{{description>birds; small birds; the birds.}}
+---json
+{
+    "name":"khagah",
+    "h1":"khagah",
+    "title":"khagah --- synonyms, prabhupada.io",
+    "description":"birds; small birds; the birds."
+}
+---
 
 ==== khagāḥ  ====
   * birds --- [[books:sb:2:6:13-16|SB 2.6.13-16]], [[books:sb:3:17:12|SB 3.17.12]], [[books:sb:4:20:35-36|SB 4.20.35-36]], [[books:sb:7:7:54|SB 7.7.54]]

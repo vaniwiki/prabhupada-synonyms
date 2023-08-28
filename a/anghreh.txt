@@ -1,5 +1,11 @@
-~~Title:aṅghreḥ~~
-{{description>legs.}}
+---json
+{
+    "name":"aṅghreḥ",
+    "h1":"aṅghreḥ",
+    "title":"aṅghreḥ --- synonyms, prabhupada.io",
+    "description":"legs."
+}
+---
 
 ==== aṅghreḥ  ====
   * legs --- [[books:sb:3:8:24|SB 3.8.24]]

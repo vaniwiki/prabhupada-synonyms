@@ -1,5 +1,11 @@
-~~Title:pravayasam~~
-{{description>advanced in age; old age.}}
+---json
+{
+    "name":"pravayasam",
+    "h1":"pravayasam",
+    "title":"pravayasam --- synonyms, prabhupada.io",
+    "description":"advanced in age; old age."
+}
+---
 
 ==== pravayasam  ====
   * advanced in age --- [[books:sb:4:9:67|SB 4.9.67]]

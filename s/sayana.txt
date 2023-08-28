@@ -1,5 +1,11 @@
-~~Title:sayana~~
-{{description>lie down to rest; lying down; lying down for rest; lying down to rest; lying down to sleep; on the bed; rest; resting; sleeping.}}
+---json
+{
+    "name":"sayana",
+    "h1":"sayana",
+    "title":"sayana --- synonyms, prabhupada.io",
+    "description":"lie down to rest; lying down; lying down for rest; lying down to rest; lying down to sleep; on the bed; rest; resting; sleeping."
+}
+---
 
 ==== śayana  ====
   * lie down to rest --- [[books:cc:madhya:9:353|Madhya 9.353]]

@@ -1,5 +1,11 @@
-~~Title:śatru~~
-{{description>O enemy.}}
+---json
+{
+    "name":"śatru",
+    "h1":"śatru",
+    "title":"śatru --- synonyms, prabhupada.io",
+    "description":"O enemy."
+}
+---
 
 ==== śatru  ====
   * O enemy --- [[books:sb:6:12:16|SB 6.12.16]]

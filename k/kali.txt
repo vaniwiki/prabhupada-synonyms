@@ -1,5 +1,11 @@
-~~Title:kali~~
-{{description>buds; Kali; of the age of Kali; of the age of quarrel.}}
+---json
+{
+    "name":"kali",
+    "h1":"kali",
+    "title":"kali --- synonyms, prabhupada.io",
+    "description":"buds; Kali; of the age of Kali; of the age of quarrel."
+}
+---
 
 ==== kali  ====
   * buds --- [[books:cc:antya:3:210|Antya 3.210]]

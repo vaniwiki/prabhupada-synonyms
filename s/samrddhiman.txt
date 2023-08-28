@@ -1,5 +1,11 @@
-~~Title:samṛddhimān~~
-{{description>very rich.}}
+---json
+{
+    "name":"samṛddhimān",
+    "h1":"samṛddhimān",
+    "title":"samṛddhimān --- synonyms, prabhupada.io",
+    "description":"very rich."
+}
+---
 
 ==== samṛddhimān  ====
   * very rich --- [[books:cc:madhya:23:75|Madhya 23.75]]

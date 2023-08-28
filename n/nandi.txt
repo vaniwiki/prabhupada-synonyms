@@ -1,5 +1,11 @@
-~~Title:nandi~~
-{{description>introductory verse; the introductory verse; the introductory verses.}}
+---json
+{
+    "name":"nandi",
+    "h1":"nandi",
+    "title":"nandi --- synonyms, prabhupada.io",
+    "description":"introductory verse; the introductory verse; the introductory verses."
+}
+---
 
 ==== nāndī-śloka  ====
   * introductory verse --- [[books:cc:antya:1:35|Antya 1.35]]

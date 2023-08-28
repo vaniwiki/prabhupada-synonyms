@@ -1,5 +1,11 @@
-~~Title:abuddhimān~~
-{{description>not very intelligent.}}
+---json
+{
+    "name":"abuddhimān",
+    "h1":"abuddhimān",
+    "title":"abuddhimān --- synonyms, prabhupada.io",
+    "description":"not very intelligent."
+}
+---
 
 ==== abuddhimān  ====
   * not very intelligent --- [[books:sb:8:19:19|SB 8.19.19]]

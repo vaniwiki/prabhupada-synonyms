@@ -1,5 +1,11 @@
-~~Title:duḥkhera~~
-{{description>of unhappiness.}}
+---json
+{
+    "name":"duḥkhera",
+    "h1":"duḥkhera",
+    "title":"duḥkhera --- synonyms, prabhupada.io",
+    "description":"of unhappiness."
+}
+---
 
 ==== duḥkhera  ====
   * of unhappiness --- [[books:cc:madhya:2:27|Madhya 2.27]], [[books:cc:madhya:17:68|Madhya 17.68]]

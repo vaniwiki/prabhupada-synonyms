@@ -1,5 +1,11 @@
-~~Title:anumani~~
-{{description>I guess; I imagine; we can imagine.}}
+---json
+{
+    "name":"anumani",
+    "h1":"anumani",
+    "title":"anumani --- synonyms, prabhupada.io",
+    "description":"I guess; I imagine; we can imagine."
+}
+---
 
 ==== anumāni  ====
   * I guess --- [[books:cc:antya:1:196|Antya 1.196]]

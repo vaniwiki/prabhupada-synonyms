@@ -1,5 +1,11 @@
-~~Title:sece~~
-{{description>sprinkles.}}
+---json
+{
+    "name":"sece",
+    "h1":"sece",
+    "title":"sece --- synonyms, prabhupada.io",
+    "description":"sprinkles."
+}
+---
 
 ==== sece  ====
   * sprinkles --- [[books:cc:madhya:19:155|Madhya 19.155]]

@@ -1,5 +1,11 @@
-~~Title:nari~~
-{{description>am not able; I am not able; I am unable; I cannot; I do not; unable to take; we are not able.}}
+---json
+{
+    "name":"nari",
+    "h1":"nari",
+    "title":"nari --- synonyms, prabhupada.io",
+    "description":"am not able; I am not able; I am unable; I cannot; I do not; unable to take; we are not able."
+}
+---
 
 ==== nāri  ====
   * am not able --- [[books:cc:adi:16:33|Ādi 16.33]], [[books:cc:antya:19:28|Antya 19.28]]

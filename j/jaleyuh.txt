@@ -1,5 +1,11 @@
-~~Title:jaleyuḥ~~
-{{description>Jaleyu.}}
+---json
+{
+    "name":"jaleyuḥ",
+    "h1":"jaleyuḥ",
+    "title":"jaleyuḥ --- synonyms, prabhupada.io",
+    "description":"Jaleyu."
+}
+---
 
 ==== jaleyuḥ  ====
   * Jaleyu --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

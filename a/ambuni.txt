@@ -1,5 +1,11 @@
-~~Title:ambuni~~
-{{description>in the water.}}
+---json
+{
+    "name":"ambuni",
+    "h1":"ambuni",
+    "title":"ambuni --- synonyms, prabhupada.io",
+    "description":"in the water."
+}
+---
 
 ==== ambuni  ====
   * in the water --- [[books:cc:adi:16:82|Ādi 16.82]]

@@ -1,5 +1,11 @@
-~~Title:arkaḥ~~
-{{description>Arka; sun-god; the sun.}}
+---json
+{
+    "name":"arkaḥ",
+    "h1":"arkaḥ",
+    "title":"arkaḥ --- synonyms, prabhupada.io",
+    "description":"Arka; sun-god; the sun."
+}
+---
 
 ==== arkaḥ  ====
   * Arka --- [[books:sb:6:6:10-11|SB 6.6.10-11]], [[books:sb:9:21:31-33|SB 9.21.31-33]]

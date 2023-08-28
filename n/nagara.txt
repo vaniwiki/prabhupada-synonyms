@@ -1,5 +1,11 @@
-~~Title:nagara~~
-{{description>of the city.}}
+---json
+{
+    "name":"nagara",
+    "h1":"nagara",
+    "title":"nagara --- synonyms, prabhupada.io",
+    "description":"of the city."
+}
+---
 
 ==== nagara  ====
   * of the city --- [[books:cc:adi:17:133|Ādi 17.133]]

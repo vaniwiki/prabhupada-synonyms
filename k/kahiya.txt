@@ -1,5 +1,11 @@
-~~Title:kahiyā~~
-{{description>describing; speaking.}}
+---json
+{
+    "name":"kahiyā",
+    "h1":"kahiyā",
+    "title":"kahiyā --- synonyms, prabhupada.io",
+    "description":"describing; speaking."
+}
+---
 
 ==== kahiyā  ====
   * describing --- [[books:cc:antya:14:122|Antya 14.122]]

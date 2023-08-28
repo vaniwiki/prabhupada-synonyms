@@ -1,5 +1,11 @@
-~~Title:yacchanti~~
-{{description>offer.}}
+---json
+{
+    "name":"yacchanti",
+    "h1":"yacchanti",
+    "title":"yacchanti --- synonyms, prabhupada.io",
+    "description":"offer."
+}
+---
 
 ==== yacchanti  ====
   * offer --- [[books:sb:6:14:20|SB 6.14.20]]

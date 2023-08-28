@@ -1,5 +1,11 @@
-~~Title:niḥsarati~~
-{{description>withdraws.}}
+---json
+{
+    "name":"niḥsarati",
+    "h1":"niḥsarati",
+    "title":"niḥsarati --- synonyms, prabhupada.io",
+    "description":"withdraws."
+}
+---
 
 ==== niḥsarati  ====
   * withdraws --- [[books:sb:7:15:32-33|SB 7.15.32-33]]

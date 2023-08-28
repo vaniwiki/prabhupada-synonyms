@@ -1,5 +1,11 @@
-~~Title:sūcyate~~
-{{description>is indicated.}}
+---json
+{
+    "name":"sūcyate",
+    "h1":"sūcyate",
+    "title":"sūcyate --- synonyms, prabhupada.io",
+    "description":"is indicated."
+}
+---
 
 ==== sūcyate  ====
   * is indicated --- [[books:sb:7:4:36|SB 7.4.36]]

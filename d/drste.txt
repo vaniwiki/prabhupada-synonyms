@@ -1,5 +1,11 @@
-~~Title:dṛṣṭe~~
-{{description>having seen.}}
+---json
+{
+    "name":"dṛṣṭe",
+    "h1":"dṛṣṭe",
+    "title":"dṛṣṭe --- synonyms, prabhupada.io",
+    "description":"having seen."
+}
+---
 
 ==== dṛṣṭe  ====
   * having seen --- [[books:sb:1:2:21|SB 1.2.21]]

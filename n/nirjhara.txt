@@ -1,5 +1,11 @@
-~~Title:nirjhara~~
-{{description>waterfalls.}}
+---json
+{
+    "name":"nirjhara",
+    "h1":"nirjhara",
+    "title":"nirjhara --- synonyms, prabhupada.io",
+    "description":"waterfalls."
+}
+---
 
 ==== nirjhara  ====
   * waterfalls --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

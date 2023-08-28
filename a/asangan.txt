@@ -1,5 +1,11 @@
-~~Title:āsaṅgān~~
-{{description>the upper cloths covering the body.}}
+---json
+{
+    "name":"āsaṅgān",
+    "h1":"āsaṅgān",
+    "title":"āsaṅgān --- synonyms, prabhupada.io",
+    "description":"the upper cloths covering the body."
+}
+---
 
 ==== uttara-āsaṅgān  ====
   * the upper cloths covering the body --- [[books:sb:9:10:41|SB 9.10.41]]

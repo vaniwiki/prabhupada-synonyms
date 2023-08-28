@@ -1,5 +1,11 @@
-~~Title:ajavīthī~~
-{{description>the first three stars marking the southern route (Mūlā, Pūrvaṣāḍhā and Uttarāṣāḍhā).}}
+---json
+{
+    "name":"ajavīthī",
+    "h1":"ajavīthī",
+    "title":"ajavīthī --- synonyms, prabhupada.io",
+    "description":"the first three stars marking the southern route (Mūlā, Pūrvaṣāḍhā and Uttarāṣāḍhā)."
+}
+---
 
 ==== ajavīthī  ====
   * the first three stars marking the southern route (Mūlā, Pūrvaṣāḍhā and Uttarāṣāḍhā) --- [[books:sb:5:23:5|SB 5.23.5]]

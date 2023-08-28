@@ -1,5 +1,11 @@
-~~Title:sthiti~~
-{{description>and maintenance; composition; duration of life; established; existence; existing; living; maintenance; of maintenance; of the created world; of the maintenance; peace; position; residence; resident; rest; situated; situation; stay; staying; the establishment; the existence; the maintenance; the situation.}}
+---json
+{
+    "name":"sthiti",
+    "h1":"sthiti",
+    "title":"sthiti --- synonyms, prabhupada.io",
+    "description":"and maintenance; composition; duration of life; established; existence; existing; living; maintenance; of maintenance; of the created world; of the maintenance; peace; position; residence; resident; rest; situated; situation; stay; staying; the establishment; the existence; the maintenance; the situation."
+}
+---
 
 ==== sthiti  ====
   * and maintenance --- [[books:sb:6:12:7|SB 6.12.7]]

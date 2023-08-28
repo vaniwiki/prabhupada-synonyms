@@ -1,5 +1,11 @@
-~~Title:neṣyāmaḥ~~
-{{description>we shall take.}}
+---json
+{
+    "name":"neṣyāmaḥ",
+    "h1":"neṣyāmaḥ",
+    "title":"neṣyāmaḥ --- synonyms, prabhupada.io",
+    "description":"we shall take."
+}
+---
 
 ==== neṣyāmaḥ  ====
   * we shall take --- [[books:sb:6:1:68|SB 6.1.68]]

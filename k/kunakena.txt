@@ -1,5 +1,11 @@
-~~Title:kuṇakena~~
-{{description>the deer calf.}}
+---json
+{
+    "name":"kuṇakena",
+    "h1":"kuṇakena",
+    "title":"kuṇakena --- synonyms, prabhupada.io",
+    "description":"the deer calf."
+}
+---
 
 ==== hariṇa-kuṇakena  ====
   * the deer calf --- [[books:sb:5:8:12|SB 5.8.12]]

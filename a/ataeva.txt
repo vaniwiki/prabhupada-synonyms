@@ -1,5 +1,11 @@
-~~Title:ataeva~~
-{{description>because of this; since; therefore.}}
+---json
+{
+    "name":"ataeva",
+    "h1":"ataeva",
+    "title":"ataeva --- synonyms, prabhupada.io",
+    "description":"because of this; since; therefore."
+}
+---
 
 ==== ataeva  ====
   * because of this --- [[books:cc:madhya:25:212|Madhya 25.212]]

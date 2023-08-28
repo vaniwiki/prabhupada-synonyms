@@ -1,5 +1,11 @@
-~~Title:āsoyātha~~
-{{description>envy.}}
+---json
+{
+    "name":"āsoyātha",
+    "h1":"āsoyātha",
+    "title":"āsoyātha --- synonyms, prabhupada.io",
+    "description":"envy."
+}
+---
 
 ==== āsoyātha  ====
   * envy --- [[books:cc:madhya:14:205|Madhya 14.205]]

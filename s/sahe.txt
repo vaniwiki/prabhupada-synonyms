@@ -1,5 +1,11 @@
-~~Title:sahe~~
-{{description>tolerates.}}
+---json
+{
+    "name":"sahe",
+    "h1":"sahe",
+    "title":"sahe --- synonyms, prabhupada.io",
+    "description":"tolerates."
+}
+---
 
 ==== sahe  ====
   * tolerates --- [[books:cc:antya:20:24|Antya 20.24]]

@@ -1,5 +1,11 @@
-~~Title:iṅgudaiḥ~~
-{{description>iṅgudas.}}
+---json
+{
+    "name":"iṅgudaiḥ",
+    "h1":"iṅgudaiḥ",
+    "title":"iṅgudaiḥ --- synonyms, prabhupada.io",
+    "description":"iṅgudas."
+}
+---
 
 ==== iṅgudaiḥ  ====
   * //iṅgudas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

@@ -1,5 +1,11 @@
-~~Title:āyāti~~
-{{description>come back; coming from; is coming.}}
+---json
+{
+    "name":"āyāti",
+    "h1":"āyāti",
+    "title":"āyāti --- synonyms, prabhupada.io",
+    "description":"come back; coming from; is coming."
+}
+---
 
 ==== āyāti  ====
   * come back --- [[books:sb:1:14:7|SB 1.14.7]]

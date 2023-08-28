@@ -1,5 +1,11 @@
-~~Title:khiliyā~~
-{{description>bolting closed.}}
+---json
+{
+    "name":"khiliyā",
+    "h1":"khiliyā",
+    "title":"khiliyā --- synonyms, prabhupada.io",
+    "description":"bolting closed."
+}
+---
 
 ==== khiliyā  ====
   * bolting closed --- [[books:cc:antya:12:120|Antya 12.120]]

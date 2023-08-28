@@ -1,5 +1,11 @@
-~~Title:avyavacchinna~~
-{{description>continuous.}}
+---json
+{
+    "name":"avyavacchinna",
+    "h1":"avyavacchinna",
+    "title":"avyavacchinna --- synonyms, prabhupada.io",
+    "description":"continuous."
+}
+---
 
 ==== avyavacchinna  ====
   * continuous --- [[books:sb:4:13:8-9|SB 4.13.8-9]]

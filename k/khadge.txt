@@ -1,5 +1,11 @@
-~~Title:khaḍge~~
-{{description>on the swords.}}
+---json
+{
+    "name":"khaḍge",
+    "h1":"khaḍge",
+    "title":"khaḍge --- synonyms, prabhupada.io",
+    "description":"on the swords."
+}
+---
 
 ==== khaḍge  ====
   * on the swords --- [[books:cc:antya:9:98|Antya 9.98]]

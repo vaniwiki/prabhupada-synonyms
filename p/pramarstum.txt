@@ -1,5 +1,11 @@
-~~Title:pramārṣṭum~~
-{{description>to cleanse.}}
+---json
+{
+    "name":"pramārṣṭum",
+    "h1":"pramārṣṭum",
+    "title":"pramārṣṭum --- synonyms, prabhupada.io",
+    "description":"to cleanse."
+}
+---
 
 ==== pramārṣṭum  ====
   * to cleanse --- [[books:sb:6:3:33|SB 6.3.33]]

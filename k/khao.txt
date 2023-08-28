@@ -1,5 +1,11 @@
-~~Title:khāo~~
-{{description>eat; take; You can eat; you eat.}}
+---json
+{
+    "name":"khāo",
+    "h1":"khāo",
+    "title":"khāo --- synonyms, prabhupada.io",
+    "description":"eat; take; You can eat; you eat."
+}
+---
 
 ==== khāo  ====
   * eat --- [[books:cc:adi:14:24|Ādi 14.24]], [[books:cc:antya:16:58|Antya 16.58]]

@@ -1,5 +1,11 @@
-~~Title:karābe~~
-{{description>will do.}}
+---json
+{
+    "name":"karābe",
+    "h1":"karābe",
+    "title":"karābe --- synonyms, prabhupada.io",
+    "description":"will do."
+}
+---
 
 ==== karābe  ====
   * will do --- [[books:cc:madhya:12:28|Madhya 12.28]], [[books:cc:madhya:24:345|Madhya 24.345]]

@@ -1,5 +1,11 @@
-~~Title:mudgaraiḥ~~
-{{description>a hammerlike weapon.}}
+---json
+{
+    "name":"mudgaraiḥ",
+    "h1":"mudgaraiḥ",
+    "title":"mudgaraiḥ --- synonyms, prabhupada.io",
+    "description":"a hammerlike weapon."
+}
+---
 
 ==== mudgaraiḥ  ====
   * a hammerlike weapon --- [[books:sb:4:6:1-2|SB 4.6.1-2]]

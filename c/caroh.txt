@@ -1,5 +1,11 @@
-~~Title:caroḥ~~
-{{description>of the oblation of sweet rice.}}
+---json
+{
+    "name":"caroḥ",
+    "h1":"caroḥ",
+    "title":"caroḥ --- synonyms, prabhupada.io",
+    "description":"of the oblation of sweet rice."
+}
+---
 
 ==== caroḥ  ====
   * of the oblation of sweet rice --- [[books:sb:6:19:24|SB 6.19.24]]

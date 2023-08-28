@@ -1,5 +1,11 @@
-~~Title:ādarśaḥ~~
-{{description>mirror.}}
+---json
+{
+    "name":"ādarśaḥ",
+    "h1":"ādarśaḥ",
+    "title":"ādarśaḥ --- synonyms, prabhupada.io",
+    "description":"mirror."
+}
+---
 
 ==== ādarśaḥ  ====
   * mirror --- [[books:bg:3:38|Bg. 3.38]]

@@ -1,5 +1,11 @@
-~~Title:vavrire~~
-{{description>accepted; accepted as a priest.}}
+---json
+{
+    "name":"vavrire",
+    "h1":"vavrire",
+    "title":"vavrire --- synonyms, prabhupada.io",
+    "description":"accepted; accepted as a priest."
+}
+---
 
 ==== vavrire  ====
   * accepted --- [[books:sb:9:6:38|SB 9.6.38]]

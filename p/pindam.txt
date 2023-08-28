@@ -1,5 +1,11 @@
-~~Title:piṇḍam~~
-{{description>foodstuff.}}
+---json
+{
+    "name":"piṇḍam",
+    "h1":"piṇḍam",
+    "title":"piṇḍam --- synonyms, prabhupada.io",
+    "description":"foodstuff."
+}
+---
 
 ==== piṇḍam  ====
   * foodstuff --- [[books:sb:1:13:23|SB 1.13.23]]

@@ -1,5 +1,11 @@
-~~Title:duḥkhaḥ~~
-{{description>distress.}}
+---json
+{
+    "name":"duḥkhaḥ",
+    "h1":"duḥkhaḥ",
+    "title":"duḥkhaḥ --- synonyms, prabhupada.io",
+    "description":"distress."
+}
+---
 
 ==== duḥkhaḥ  ====
   * distress --- [[books:bg:12:13-14|Bg. 12.13-14]]

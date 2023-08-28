@@ -1,5 +1,11 @@
-~~Title:vinidrah~~
-{{description>awake.}}
+---json
+{
+    "name":"vinidrah",
+    "h1":"vinidrah",
+    "title":"vinidrah --- synonyms, prabhupada.io",
+    "description":"awake."
+}
+---
 
 ==== vinidraḥ  ====
   * awake --- [[books:sb:3:27:14|SB 3.27.14]]

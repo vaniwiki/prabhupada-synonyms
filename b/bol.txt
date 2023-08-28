@@ -1,5 +1,11 @@
-~~Title:bol~~
-{{description>chant.}}
+---json
+{
+    "name":"bol",
+    "h1":"bol",
+    "title":"bol --- synonyms, prabhupada.io",
+    "description":"chant."
+}
+---
 
 ==== bol  ====
   * chant --- [[books:cc:antya:10:70|Antya 10.70]]

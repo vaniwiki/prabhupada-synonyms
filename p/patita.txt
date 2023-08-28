@@ -1,5 +1,11 @@
-~~Title:patita~~
-{{description>fallen; fallen down; of those fallen.}}
+---json
+{
+    "name":"patita",
+    "h1":"patita",
+    "title":"patita --- synonyms, prabhupada.io",
+    "description":"fallen; fallen down; of those fallen."
+}
+---
 
 ==== patita  ====
   * fallen --- [[books:sb:8:10:40|SB 8.10.40]], [[books:cc:madhya:1:191|Madhya 1.191]], [[books:cc:madhya:1:196|Madhya 1.196]], [[books:cc:madhya:15:264|Madhya 15.264]], [[books:cc:madhya:20:99|Madhya 20.99]]

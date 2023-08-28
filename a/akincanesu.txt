@@ -1,5 +1,11 @@
-~~Title:akiñcaneṣu~~
-{{description>without material possessions.}}
+---json
+{
+    "name":"akiñcaneṣu",
+    "h1":"akiñcaneṣu",
+    "title":"akiñcaneṣu --- synonyms, prabhupada.io",
+    "description":"without material possessions."
+}
+---
 
 ==== akiñcaneṣu  ====
   * without material possessions --- [[books:sb:4:31:21|SB 4.31.21]]

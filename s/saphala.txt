@@ -1,5 +1,11 @@
-~~Title:saphala~~
-{{description>successful.}}
+---json
+{
+    "name":"saphala",
+    "h1":"saphala",
+    "title":"saphala --- synonyms, prabhupada.io",
+    "description":"successful."
+}
+---
 
 ==== saphala  ====
   * successful --- [[books:cc:madhya:3:203|Madhya 3.203]], [[books:cc:madhya:4:177|Madhya 4.177]], [[books:cc:madhya:11:23|Madhya 11.23]], [[books:cc:antya:16:21|Antya 16.21]]

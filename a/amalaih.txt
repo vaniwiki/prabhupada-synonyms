@@ -1,5 +1,11 @@
-~~Title:amalaih~~
-{{description>āmalakī, a sour fruit.}}
+---json
+{
+    "name":"amalaih",
+    "h1":"amalaih",
+    "title":"amalaih --- synonyms, prabhupada.io",
+    "description":"āmalakī, a sour fruit."
+}
+---
 
 ==== āmalaiḥ  ====
   * //āmalakī,// a sour fruit --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

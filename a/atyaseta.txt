@@ -1,5 +1,11 @@
-~~Title:atyaśeta~~
-{{description>he surpassed.}}
+---json
+{
+    "name":"atyaśeta",
+    "h1":"atyaśeta",
+    "title":"atyaśeta --- synonyms, prabhupada.io",
+    "description":"he surpassed."
+}
+---
 
 ==== atyaśeta  ====
   * he surpassed --- [[books:sb:3:23:41|SB 3.23.41]]

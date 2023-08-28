@@ -1,5 +1,11 @@
-~~Title:dārikā~~
-{{description>the message from the daughter.}}
+---json
+{
+    "name":"dārikā",
+    "h1":"dārikā",
+    "title":"dārikā --- synonyms, prabhupada.io",
+    "description":"the message from the daughter."
+}
+---
 
 ==== dārikā-vacaḥ  ====
   * the message from the daughter --- [[books:sb:10:8:8-9|SB 10.8.8-9]]

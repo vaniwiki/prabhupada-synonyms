@@ -1,5 +1,11 @@
-~~Title:indrebhyaḥ~~
-{{description>and by the demigod Indra, the controller of rain.}}
+---json
+{
+    "name":"indrebhyaḥ",
+    "h1":"indrebhyaḥ",
+    "title":"indrebhyaḥ --- synonyms, prabhupada.io",
+    "description":"and by the demigod Indra, the controller of rain."
+}
+---
 
 ==== indrebhyaḥ  ====
   * and by the demigod Indra, the controller of rain --- [[books:sb:9:22:27-28|SB 9.22.27-28]]

@@ -1,5 +1,11 @@
-~~Title:abhramu~~
-{{description>headed by the she-elephant named Abhramu.}}
+---json
+{
+    "name":"abhramu",
+    "h1":"abhramu",
+    "title":"abhramu --- synonyms, prabhupada.io",
+    "description":"headed by the she-elephant named Abhramu."
+}
+---
 
 ==== abhramu-prabhṛtayaḥ  ====
   * headed by the she-elephant named Abhramu --- [[books:sb:8:8:5|SB 8.8.5]]

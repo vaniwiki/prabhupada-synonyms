@@ -1,5 +1,11 @@
-~~Title:gopura~~
-{{description>city gates; gates; palace gates; the gates of the city; the gateway of the city.}}
+---json
+{
+    "name":"gopura",
+    "h1":"gopura",
+    "title":"gopura --- synonyms, prabhupada.io",
+    "description":"city gates; gates; palace gates; the gates of the city; the gateway of the city."
+}
+---
 
 ==== gopura  ====
   * city gates --- [[books:sb:4:9:56|SB 4.9.56]]

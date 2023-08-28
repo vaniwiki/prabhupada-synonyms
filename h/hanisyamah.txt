@@ -1,5 +1,11 @@
-~~Title:haniṣyāmaḥ~~
-{{description>we shall kill.}}
+---json
+{
+    "name":"haniṣyāmaḥ",
+    "h1":"haniṣyāmaḥ",
+    "title":"haniṣyāmaḥ --- synonyms, prabhupada.io",
+    "description":"we shall kill."
+}
+---
 
 ==== haniṣyāmaḥ  ====
   * we shall kill --- [[books:sb:10:4:31|SB 10.4.31]]

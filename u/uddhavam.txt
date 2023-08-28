@@ -1,5 +1,11 @@
-~~Title:uddhavam~~
-{{description>Uddhava, one of the prominent Yadus.}}
+---json
+{
+    "name":"uddhavam",
+    "h1":"uddhavam",
+    "title":"uddhavam --- synonyms, prabhupada.io",
+    "description":"Uddhava, one of the prominent Yadus."
+}
+---
 
 ==== uddhavam  ====
   * Uddhava, one of the prominent Yadus --- [[books:sb:3:1:24|SB 3.1.24]]

@@ -1,5 +1,11 @@
-~~Title:kandarpaḥ~~
-{{description>Cupid.}}
+---json
+{
+    "name":"kandarpaḥ",
+    "h1":"kandarpaḥ",
+    "title":"kandarpaḥ --- synonyms, prabhupada.io",
+    "description":"Cupid."
+}
+---
 
 ==== kandarpaḥ  ====
   * Cupid --- [[books:bg:10:28|Bg. 10.28]], [[books:sb:4:22:61|SB 4.22.61]]

@@ -1,5 +1,11 @@
-~~Title:santaret~~
-{{description>can swim.}}
+---json
+{
+    "name":"santaret",
+    "h1":"santaret",
+    "title":"santaret --- synonyms, prabhupada.io",
+    "description":"can swim."
+}
+---
 
 ==== santaret  ====
   * can swim --- [[books:cc:adi:9:1|Ādi 9.1]]

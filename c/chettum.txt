@@ -1,5 +1,11 @@
-~~Title:chettum~~
-{{description>to dispel.}}
+---json
+{
+    "name":"chettum",
+    "h1":"chettum",
+    "title":"chettum --- synonyms, prabhupada.io",
+    "description":"to dispel."
+}
+---
 
 ==== chettum  ====
   * to dispel --- [[books:bg:6:39|Bg. 6.39]]

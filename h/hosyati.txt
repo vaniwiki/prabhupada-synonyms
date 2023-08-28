@@ -1,5 +1,11 @@
-~~Title:hoṣyati~~
-{{description>will offer as a sacrifice.}}
+---json
+{
+    "name":"hoṣyati",
+    "h1":"hoṣyati",
+    "title":"hoṣyati --- synonyms, prabhupada.io",
+    "description":"will offer as a sacrifice."
+}
+---
 
 ==== hoṣyati  ====
   * will offer as a sacrifice --- [[books:sb:9:22:36|SB 9.22.36]]

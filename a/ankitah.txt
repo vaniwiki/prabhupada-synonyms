@@ -1,5 +1,11 @@
-~~Title:aṅkitaḥ~~
-{{description>marked with an abundance.}}
+---json
+{
+    "name":"aṅkitaḥ",
+    "h1":"aṅkitaḥ",
+    "title":"aṅkitaḥ --- synonyms, prabhupada.io",
+    "description":"marked with an abundance."
+}
+---
 
 ==== atiśaya-aṅkitaḥ  ====
   * marked with an abundance --- [[books:cc:madhya:23:7|Madhya 23.7]]

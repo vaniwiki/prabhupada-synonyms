@@ -1,5 +1,11 @@
-~~Title:ki~~
-{{description>for what; how; is it; or; what; what is; whether; who.}}
+---json
+{
+    "name":"ki",
+    "h1":"ki",
+    "title":"ki --- synonyms, prabhupada.io",
+    "description":"for what; how; is it; or; what; what is; whether; who."
+}
+---
 
 ==== ki  ====
   * for what --- [[books:cc:madhya:9:229|Madhya 9.229]]

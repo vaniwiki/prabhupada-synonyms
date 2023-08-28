@@ -1,5 +1,11 @@
-~~Title:śaityam~~
-{{description>cold.}}
+---json
+{
+    "name":"śaityam",
+    "h1":"śaityam",
+    "title":"śaityam --- synonyms, prabhupada.io",
+    "description":"cold."
+}
+---
 
 ==== śaityam  ====
   * cold --- [[books:sb:3:26:36|SB 3.26.36]]

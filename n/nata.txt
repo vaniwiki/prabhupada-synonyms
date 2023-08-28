@@ -1,5 +1,11 @@
-~~Title:nata~~
-{{description>dancer; dramatists; of dancers.}}
+---json
+{
+    "name":"nata",
+    "h1":"nata",
+    "title":"nata --- synonyms, prabhupada.io",
+    "description":"dancer; dramatists; of dancers."
+}
+---
 
 ==== naṭa  ====
   * dancer --- [[books:cc:adi:4:124|Ādi 4.124]], [[books:cc:madhya:8:132|Madhya 8.132]]

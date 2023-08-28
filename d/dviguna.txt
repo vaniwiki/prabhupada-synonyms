@@ -1,5 +1,11 @@
-~~Title:dviguṇa~~
-{{description>twice the salary.}}
+---json
+{
+    "name":"dviguṇa",
+    "h1":"dviguṇa",
+    "title":"dviguṇa --- synonyms, prabhupada.io",
+    "description":"twice the salary."
+}
+---
 
 ==== dviguṇa vartana  ====
   * twice the salary --- [[books:cc:antya:9:111|Antya 9.111]]

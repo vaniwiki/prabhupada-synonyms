@@ -1,5 +1,11 @@
-~~Title:kāhinī~~
-{{description>incident; narration; our words.}}
+---json
+{
+    "name":"kāhinī",
+    "h1":"kāhinī",
+    "title":"kāhinī --- synonyms, prabhupada.io",
+    "description":"incident; narration; our words."
+}
+---
 
 ==== kāhinī  ====
   * incident --- [[books:cc:adi:14:79|Ādi 14.79]]

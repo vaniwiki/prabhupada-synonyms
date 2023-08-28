@@ -1,5 +1,11 @@
-~~Title:upete~~
-{{description>having gone away; having returned.}}
+---json
+{
+    "name":"upete",
+    "h1":"upete",
+    "title":"upete --- synonyms, prabhupada.io",
+    "description":"having gone away; having returned."
+}
+---
 
 ==== upete  ====
   * having gone away --- [[books:sb:1:1:23|SB 1.1.23]]

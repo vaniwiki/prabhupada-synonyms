@@ -1,5 +1,11 @@
-~~Title:bṛṁhitam~~
-{{description>affected by the qualities.}}
+---json
+{
+    "name":"bṛṁhitam",
+    "h1":"bṛṁhitam",
+    "title":"bṛṁhitam --- synonyms, prabhupada.io",
+    "description":"affected by the qualities."
+}
+---
 
 ==== guṇa-bṛṁhitam  ====
   * affected by the qualities --- [[books:sb:1:3:32|SB 1.3.32]]

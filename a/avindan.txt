@@ -1,5 +1,11 @@
-~~Title:avindan~~
-{{description>achieved (the desired result); perceived.}}
+---json
+{
+    "name":"avindan",
+    "h1":"avindan",
+    "title":"avindan --- synonyms, prabhupada.io",
+    "description":"achieved (the desired result); perceived."
+}
+---
 
 ==== avindan  ====
   * achieved (the desired result) --- [[books:sb:8:10:1|SB 8.10.1]]

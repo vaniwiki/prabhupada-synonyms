@@ -1,5 +1,11 @@
-~~Title:gadataḥ~~
-{{description>spoken; who am speaking.}}
+---json
+{
+    "name":"gadataḥ",
+    "h1":"gadataḥ",
+    "title":"gadataḥ --- synonyms, prabhupada.io",
+    "description":"spoken; who am speaking."
+}
+---
 
 ==== gadataḥ  ====
   * spoken --- [[books:sb:4:1:10|SB 4.1.10]]

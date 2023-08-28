@@ -1,5 +1,11 @@
-~~Title:vibhūṣaṇe~~
-{{description>ornaments; with ornaments.}}
+---json
+{
+    "name":"vibhūṣaṇe",
+    "h1":"vibhūṣaṇe",
+    "title":"vibhūṣaṇe --- synonyms, prabhupada.io",
+    "description":"ornaments; with ornaments."
+}
+---
 
 ==== vibhūṣaṇe  ====
   * ornaments --- [[books:cc:adi:13:118|Ādi 13.118]]

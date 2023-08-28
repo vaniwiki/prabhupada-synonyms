@@ -1,5 +1,11 @@
-~~Title:adhikari~~
-{{description>of possessor.}}
+---json
+{
+    "name":"adhikari",
+    "h1":"adhikari",
+    "title":"adhikari --- synonyms, prabhupada.io",
+    "description":"of possessor."
+}
+---
 
 ==== adhikāri  ====
   * of possessor --- [[books:cc:madhya:23:45|Madhya 23.45]]

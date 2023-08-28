@@ -1,5 +1,11 @@
-~~Title:uktena~~
-{{description>having been requested (by Baladeva); instructed; spoken; with the words.}}
+---json
+{
+    "name":"uktena",
+    "h1":"uktena",
+    "title":"uktena --- synonyms, prabhupada.io",
+    "description":"having been requested (by Baladeva); instructed; spoken; with the words."
+}
+---
 
 ==== uktena  ====
   * having been requested (by Baladeva) --- [[books:sb:10:13:39|SB 10.13.39]]

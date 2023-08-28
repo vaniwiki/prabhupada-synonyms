@@ -1,5 +1,11 @@
-~~Title:saṅgānām~~
-{{description>who are free from attachment.}}
+---json
+{
+    "name":"saṅgānām",
+    "h1":"saṅgānām",
+    "title":"saṅgānām --- synonyms, prabhupada.io",
+    "description":"who are free from attachment."
+}
+---
 
 ==== mukta-saṅgānām  ====
   * who are free from attachment --- [[books:sb:5:1:2|SB 5.1.2]]

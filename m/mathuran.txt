@@ -1,5 +1,11 @@
-~~Title:māthurān~~
-{{description>at the place known as the Māthura district.}}
+---json
+{
+    "name":"māthurān",
+    "h1":"māthurān",
+    "title":"māthurān --- synonyms, prabhupada.io",
+    "description":"at the place known as the Māthura district."
+}
+---
 
 ==== māthurān  ====
   * at the place known as the Māthura district --- [[books:sb:10:1:27|SB 10.1.27]]

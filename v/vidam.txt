@@ -1,5 +1,11 @@
-~~Title:vidam~~
-{{description>of the knowers; of the learned; of the self-realized persons.}}
+---json
+{
+    "name":"vidam",
+    "h1":"vidam",
+    "title":"vidam --- synonyms, prabhupada.io",
+    "description":"of the knowers; of the learned; of the self-realized persons."
+}
+---
 
 ==== vidām  ====
   * of the knowers --- [[books:sb:3:25:11|SB 3.25.11]]

@@ -1,5 +1,11 @@
-~~Title:samudyatam~~
-{{description>prepared.}}
+---json
+{
+    "name":"samudyatam",
+    "h1":"samudyatam",
+    "title":"samudyatam --- synonyms, prabhupada.io",
+    "description":"prepared."
+}
+---
 
 ==== samudyatam  ====
   * prepared --- [[books:sb:3:22:14|SB 3.22.14]]

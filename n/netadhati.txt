@@ -1,5 +1,11 @@
-~~Title:netadhaṭī~~
-{{description>with the silken cover on the head.}}
+---json
+{
+    "name":"netadhaṭī",
+    "h1":"netadhaṭī",
+    "title":"netadhaṭī --- synonyms, prabhupada.io",
+    "description":"with the silken cover on the head."
+}
+---
 
 ==== netadhaṭī-māthe  ====
   * with the silken cover on the head --- [[books:cc:antya:9:132|Antya 9.132]]

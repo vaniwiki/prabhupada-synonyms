@@ -1,5 +1,11 @@
-~~Title:cada~~
-{{description>slaps.}}
+---json
+{
+    "name":"cada",
+    "h1":"cada",
+    "title":"cada --- synonyms, prabhupada.io",
+    "description":"slaps."
+}
+---
 
 ==== caḍa māre  ====
   * slaps --- [[books:cc:adi:11:20|Ādi 11.20]]

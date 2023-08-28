@@ -1,5 +1,11 @@
-~~Title:bhaji~~
-{{description>I reciprocate; we worship; worship.}}
+---json
+{
+    "name":"bhaji",
+    "h1":"bhaji",
+    "title":"bhaji --- synonyms, prabhupada.io",
+    "description":"I reciprocate; we worship; worship."
+}
+---
 
 ==== bhaji  ====
   * I reciprocate --- [[books:cc:adi:4:19|Ādi 4.19]]

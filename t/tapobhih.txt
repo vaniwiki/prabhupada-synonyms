@@ -1,5 +1,11 @@
-~~Title:tapobhiḥ~~
-{{description>by austerities.}}
+---json
+{
+    "name":"tapobhiḥ",
+    "h1":"tapobhiḥ",
+    "title":"tapobhiḥ --- synonyms, prabhupada.io",
+    "description":"by austerities."
+}
+---
 
 ==== tapobhiḥ  ====
   * by austerities --- [[books:sb:4:20:16|SB 4.20.16]]

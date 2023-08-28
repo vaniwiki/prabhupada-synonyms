@@ -1,5 +1,11 @@
-~~Title:kṣoṇi~~
-{{description>on the surface of the globe.}}
+---json
+{
+    "name":"kṣoṇi",
+    "h1":"kṣoṇi",
+    "title":"kṣoṇi --- synonyms, prabhupada.io",
+    "description":"on the surface of the globe."
+}
+---
 
 ==== kṣoṇi-tale  ====
   * on the surface of the globe --- [[books:sb:4:21:36|SB 4.21.36]]

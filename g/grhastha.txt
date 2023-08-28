@@ -1,5 +1,11 @@
-~~Title:gṛhastha~~
-{{description>a householder; householder; householder life.}}
+---json
+{
+    "name":"gṛhastha",
+    "h1":"gṛhastha",
+    "title":"gṛhastha --- synonyms, prabhupada.io",
+    "description":"a householder; householder; householder life."
+}
+---
 
 ==== gṛhastha  ====
   * a householder --- [[books:cc:adi:15:20|Ādi 15.20]]

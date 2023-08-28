@@ -1,5 +1,11 @@
-~~Title:kumārahaṭṭe~~
-{{description>the town named Kumārahaṭṭa.}}
+---json
+{
+    "name":"kumārahaṭṭe",
+    "h1":"kumārahaṭṭe",
+    "title":"kumārahaṭṭe --- synonyms, prabhupada.io",
+    "description":"the town named Kumārahaṭṭa."
+}
+---
 
 ==== kumārahaṭṭe  ====
   * the town named Kumārahaṭṭa --- [[books:cc:madhya:16:205|Madhya 16.205]]

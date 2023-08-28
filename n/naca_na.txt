@@ -1,5 +1,11 @@
-~~Title:nācā'na~~
-{{description>made to dance.}}
+---json
+{
+    "name":"nācā'na",
+    "h1":"nācā'na",
+    "title":"nācā'na --- synonyms, prabhupada.io",
+    "description":"made to dance."
+}
+---
 
 ==== nācā'na  ====
   * made to dance --- [[books:cc:madhya:13:63|Madhya 13.63]]

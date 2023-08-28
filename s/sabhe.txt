@@ -1,5 +1,11 @@
-~~Title:sabhe~~
-{{description>all; all of them; all of us; all the gopīs; all together.}}
+---json
+{
+    "name":"sabhe",
+    "h1":"sabhe",
+    "title":"sabhe --- synonyms, prabhupada.io",
+    "description":"all; all of them; all of us; all the gopīs; all together."
+}
+---
 
 ==== sabhe  ====
   * all --- [[books:cc:adi:17:133|Ādi 17.133]], [[books:cc:adi:17:175|Ādi 17.175]]

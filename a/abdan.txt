@@ -1,5 +1,11 @@
-~~Title:abdān~~
-{{description>twelve years.}}
+---json
+{
+    "name":"abdān",
+    "h1":"abdān",
+    "title":"abdān --- synonyms, prabhupada.io",
+    "description":"twelve years."
+}
+---
 
 ==== dvādaśa-abdān  ====
   * twelve years --- [[books:sb:7:12:22|SB 7.12.22]]

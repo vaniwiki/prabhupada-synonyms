@@ -1,5 +1,11 @@
-~~Title:upaseduḥ~~
-{{description>worshiped.}}
+---json
+{
+    "name":"upaseduḥ",
+    "h1":"upaseduḥ",
+    "title":"upaseduḥ --- synonyms, prabhupada.io",
+    "description":"worshiped."
+}
+---
 
 ==== upaseduḥ  ====
   * worshiped --- [[books:sb:4:7:34|SB 4.7.34]]

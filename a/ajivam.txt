@@ -1,5 +1,11 @@
-~~Title:ajīvam~~
-{{description>inanimate, lifeless matter; nonanimated.}}
+---json
+{
+    "name":"ajīvam",
+    "h1":"ajīvam",
+    "title":"ajīvam --- synonyms, prabhupada.io",
+    "description":"inanimate, lifeless matter; nonanimated."
+}
+---
 
 ==== ajīvam  ====
   * inanimate, lifeless matter --- [[books:sb:5:12:10|SB 5.12.10]]

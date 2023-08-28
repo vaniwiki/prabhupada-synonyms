@@ -1,5 +1,11 @@
-~~Title:sthāpi~~
-{{description>if we make impersonal.}}
+---json
+{
+    "name":"sthāpi",
+    "h1":"sthāpi",
+    "title":"sthāpi --- synonyms, prabhupada.io",
+    "description":"if we make impersonal."
+}
+---
 
 ==== nirviśeṣa sthāpi  ====
   * if we make impersonal --- [[books:cc:madhya:25:33|Madhya 25.33]]

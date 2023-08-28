@@ -1,5 +1,11 @@
-~~Title:ākarṣe~~
-{{description>attracts.}}
+---json
+{
+    "name":"ākarṣe",
+    "h1":"ākarṣe",
+    "title":"ākarṣe --- synonyms, prabhupada.io",
+    "description":"attracts."
+}
+---
 
 ==== ākarṣe  ====
   * attracts --- [[books:cc:antya:19:42|Antya 19.42]]

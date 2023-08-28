@@ -1,5 +1,11 @@
-~~Title:ārabdhe~~
-{{description>made.}}
+---json
+{
+    "name":"ārabdhe",
+    "h1":"ārabdhe",
+    "title":"ārabdhe --- synonyms, prabhupada.io",
+    "description":"made."
+}
+---
 
 ==== ārabdhe  ====
   * made --- [[books:sb:3:31:30|SB 3.31.30]]

@@ -1,5 +1,11 @@
-~~Title:āpatitaḥ~~
-{{description>happened.}}
+---json
+{
+    "name":"āpatitaḥ",
+    "h1":"āpatitaḥ",
+    "title":"āpatitaḥ --- synonyms, prabhupada.io",
+    "description":"happened."
+}
+---
 
 ==== āpatitaḥ  ====
   * happened --- [[books:sb:5:14:1|SB 5.14.1]]

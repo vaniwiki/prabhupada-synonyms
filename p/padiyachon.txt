@@ -1,5 +1,11 @@
-~~Title:paḍiyāchoṅ~~
-{{description>I have fallen.}}
+---json
+{
+    "name":"paḍiyāchoṅ",
+    "h1":"paḍiyāchoṅ",
+    "title":"paḍiyāchoṅ --- synonyms, prabhupada.io",
+    "description":"I have fallen."
+}
+---
 
 ==== paḍiyāchoṅ  ====
   * I have fallen --- [[books:cc:antya:20:33|Antya 20.33]]

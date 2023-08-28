@@ -1,5 +1,11 @@
-~~Title:gātraḥ~~
-{{description>body; the whole body.}}
+---json
+{
+    "name":"gātraḥ",
+    "h1":"gātraḥ",
+    "title":"gātraḥ --- synonyms, prabhupada.io",
+    "description":"body; the whole body."
+}
+---
 
 ==== gātraḥ  ====
   * body --- [[books:sb:3:19:26|SB 3.19.26]]

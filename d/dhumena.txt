@@ -1,5 +1,11 @@
-~~Title:dhūmena~~
-{{description>by smoke; with smoke.}}
+---json
+{
+    "name":"dhūmena",
+    "h1":"dhūmena",
+    "title":"dhūmena --- synonyms, prabhupada.io",
+    "description":"by smoke; with smoke."
+}
+---
 
 ==== dhūmena  ====
   * by smoke --- [[books:bg:3:38|Bg. 3.38]], [[books:sb:8:15:19|SB 8.15.19]]

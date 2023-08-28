@@ -1,5 +1,11 @@
-~~Title:apāstapeśalam~~
-{{description>without individuality.}}
+---json
+{
+    "name":"apāstapeśalam",
+    "h1":"apāstapeśalam",
+    "title":"apāstapeśalam --- synonyms, prabhupada.io",
+    "description":"without individuality."
+}
+---
 
 ==== apāstapeśalam  ====
   * without individuality --- [[books:sb:1:10:30|SB 1.10.30]]

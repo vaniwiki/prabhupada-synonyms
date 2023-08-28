@@ -1,5 +1,11 @@
-~~Title:śerate~~
-{{description>is taking shelter.}}
+---json
+{
+    "name":"śerate",
+    "h1":"śerate",
+    "title":"śerate --- synonyms, prabhupada.io",
+    "description":"is taking shelter."
+}
+---
 
 ==== śerate  ====
   * is taking shelter --- [[books:sb:7:3:18|SB 7.3.18]]

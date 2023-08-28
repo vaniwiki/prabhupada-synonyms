@@ -1,5 +1,11 @@
-~~Title:dīpite~~
-{{description>because of the urge for self-realization; enlightened in perfect knowledge.}}
+---json
+{
+    "name":"dīpite",
+    "h1":"dīpite",
+    "title":"dīpite --- synonyms, prabhupada.io",
+    "description":"because of the urge for self-realization; enlightened in perfect knowledge."
+}
+---
 
 ==== jñāna-dīpite  ====
   * because of the urge for self-realization --- [[books:bg:4:27|Bg. 4.27]]

@@ -1,5 +1,11 @@
-~~Title:aśvastana~~
-{{description>one who does not know what is happening next.}}
+---json
+{
+    "name":"aśvastana",
+    "h1":"aśvastana",
+    "title":"aśvastana --- synonyms, prabhupada.io",
+    "description":"one who does not know what is happening next."
+}
+---
 
 ==== aśvastana-vidam  ====
   * one who does not know what is happening next --- [[books:sb:4:25:38|SB 4.25.38]]

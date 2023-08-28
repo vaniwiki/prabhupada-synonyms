@@ -1,5 +1,11 @@
-~~Title:kutila~~
-{{description>crooked; curled; curly; curved.}}
+---json
+{
+    "name":"kutila",
+    "h1":"kutila",
+    "title":"kutila --- synonyms, prabhupada.io",
+    "description":"crooked; curled; curly; curved."
+}
+---
 
 ==== kuṭila  ====
   * crooked --- [[books:cc:madhya:2:21|Madhya 2.21]]

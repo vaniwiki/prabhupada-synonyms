@@ -1,5 +1,11 @@
-~~Title:prasusruve~~
-{{description>flowed.}}
+---json
+{
+    "name":"prasusruve",
+    "h1":"prasusruve",
+    "title":"prasusruve --- synonyms, prabhupada.io",
+    "description":"flowed."
+}
+---
 
 ==== prasusruve  ====
   * flowed --- [[books:sb:3:19:23|SB 3.19.23]]

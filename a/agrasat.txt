@@ -1,5 +1,11 @@
-~~Title:agrasat~~
-{{description>swallowed.}}
+---json
+{
+    "name":"agrasat",
+    "h1":"agrasat",
+    "title":"agrasat --- synonyms, prabhupada.io",
+    "description":"swallowed."
+}
+---
 
 ==== agrasat  ====
   * swallowed --- [[books:sb:6:9:19|SB 6.9.19]], [[books:sb:10:11:48|SB 10.11.48]]

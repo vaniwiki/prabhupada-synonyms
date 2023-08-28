@@ -1,5 +1,11 @@
-~~Title:uparandhayati~~
-{{description>cooks.}}
+---json
+{
+    "name":"uparandhayati",
+    "h1":"uparandhayati",
+    "title":"uparandhayati --- synonyms, prabhupada.io",
+    "description":"cooks."
+}
+---
 
 ==== uparandhayati  ====
   * cooks --- [[books:sb:5:26:13|SB 5.26.13]]

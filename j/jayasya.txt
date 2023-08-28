@@ -1,5 +1,11 @@
-~~Title:jayasya~~
-{{description>of Jaya.}}
+---json
+{
+    "name":"jayasya",
+    "h1":"jayasya",
+    "title":"jayasya --- synonyms, prabhupada.io",
+    "description":"of Jaya."
+}
+---
 
 ==== jayasya  ====
   * of Jaya --- [[books:sb:9:15:2-3|SB 9.15.2-3]]

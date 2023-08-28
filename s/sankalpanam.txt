@@ -1,5 +1,11 @@
-~~Title:saṅkalpanam~~
-{{description>the determination.}}
+---json
+{
+    "name":"saṅkalpanam",
+    "h1":"saṅkalpanam",
+    "title":"saṅkalpanam --- synonyms, prabhupada.io",
+    "description":"the determination."
+}
+---
 
 ==== saṅkalpanam  ====
   * the determination --- [[books:sb:4:19:38|SB 4.19.38]]

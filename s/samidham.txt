@@ -1,5 +1,11 @@
-~~Title:samidham~~
-{{description>the wood.}}
+---json
+{
+    "name":"samidham",
+    "h1":"samidham",
+    "title":"samidham --- synonyms, prabhupada.io",
+    "description":"the wood."
+}
+---
 
 ==== samidham  ====
   * the wood --- [[books:cc:antya:1:139|Antya 1.139]]

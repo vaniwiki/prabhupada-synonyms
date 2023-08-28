@@ -1,5 +1,11 @@
-~~Title:prābhūt~~
-{{description>could act.}}
+---json
+{
+    "name":"prābhūt",
+    "h1":"prābhūt",
+    "title":"prābhūt --- synonyms, prabhupada.io",
+    "description":"could act."
+}
+---
 
 ==== prābhūt  ====
   * could act --- [[books:sb:9:4:14|SB 9.4.14]]

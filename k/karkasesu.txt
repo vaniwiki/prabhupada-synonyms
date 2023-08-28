@@ -1,5 +1,11 @@
-~~Title:karkaśeṣu~~
-{{description>rough; very rough and hard.}}
+---json
+{
+    "name":"karkaśeṣu",
+    "h1":"karkaśeṣu",
+    "title":"karkaśeṣu --- synonyms, prabhupada.io",
+    "description":"rough; very rough and hard."
+}
+---
 
 ==== karkaśeṣu  ====
   * rough --- [[books:cc:adi:4:173|Ādi 4.173]], [[books:cc:madhya:18:65|Madhya 18.65]], [[books:cc:antya:7:40|Antya 7.40]]

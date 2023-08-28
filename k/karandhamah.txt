@@ -1,5 +1,11 @@
-~~Title:karandhamaḥ~~
-{{description>Karandhama; named Karandhama.}}
+---json
+{
+    "name":"karandhamaḥ",
+    "h1":"karandhamaḥ",
+    "title":"karandhamaḥ --- synonyms, prabhupada.io",
+    "description":"Karandhama; named Karandhama."
+}
+---
 
 ==== karandhamaḥ  ====
   * Karandhama --- [[books:sb:9:23:17|SB 9.23.17]]

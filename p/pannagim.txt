@@ -1,5 +1,11 @@
-~~Title:pannagīm~~
-{{description>a serpent.}}
+---json
+{
+    "name":"pannagīm",
+    "h1":"pannagīm",
+    "title":"pannagīm --- synonyms, prabhupada.io",
+    "description":"a serpent."
+}
+---
 
 ==== pannagīm  ====
   * a serpent --- [[books:sb:3:19:11|SB 3.19.11]]

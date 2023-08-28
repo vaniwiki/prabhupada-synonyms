@@ -1,5 +1,11 @@
-~~Title:upavarnitam~~
-{{description>almost everything described; could be explained; described; described and perceived; stated previously; the statements.}}
+---json
+{
+    "name":"upavarnitam",
+    "h1":"upavarnitam",
+    "title":"upavarnitam --- synonyms, prabhupada.io",
+    "description":"almost everything described; could be explained; described; described and perceived; stated previously; the statements."
+}
+---
 
 ==== upavarṇitam  ====
   * almost everything described --- [[books:sb:1:18:9|SB 1.18.9]]

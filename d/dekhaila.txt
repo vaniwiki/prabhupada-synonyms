@@ -1,5 +1,11 @@
-~~Title:dekhaila~~
-{{description>exhibited; I have exhibited; showed.}}
+---json
+{
+    "name":"dekhaila",
+    "h1":"dekhaila",
+    "title":"dekhaila --- synonyms, prabhupada.io",
+    "description":"exhibited; I have exhibited; showed."
+}
+---
 
 ==== dekhāila  ====
   * exhibited --- [[books:cc:antya:4:230|Antya 4.230]]

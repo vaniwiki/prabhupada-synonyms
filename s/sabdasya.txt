@@ -1,5 +1,11 @@
-~~Title:sabdasya~~
-{{description>of sound; of the sound.}}
+---json
+{
+    "name":"sabdasya",
+    "h1":"sabdasya",
+    "title":"sabdasya --- synonyms, prabhupada.io",
+    "description":"of sound; of the sound."
+}
+---
 
 ==== śabdasya  ====
   * of sound --- [[books:sb:3:26:33|SB 3.26.33]]

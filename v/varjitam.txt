@@ -1,5 +1,11 @@
-~~Title:varjitam~~
-{{description>devoid; devoid of.}}
+---json
+{
+    "name":"varjitam",
+    "h1":"varjitam",
+    "title":"varjitam --- synonyms, prabhupada.io",
+    "description":"devoid; devoid of."
+}
+---
 
 ==== varjitam  ====
   * devoid --- [[books:cc:madhya:22:19|Madhya 22.19]]

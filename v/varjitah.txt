@@ -1,5 +1,11 @@
-~~Title:varjitah~~
-{{description>are devoid of.}}
+---json
+{
+    "name":"varjitah",
+    "h1":"varjitah",
+    "title":"varjitah --- synonyms, prabhupada.io",
+    "description":"are devoid of."
+}
+---
 
 ==== varjitāḥ  ====
   * are devoid of --- [[books:bg:4:19|Bg. 4.19]]

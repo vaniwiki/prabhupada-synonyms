@@ -1,5 +1,11 @@
-~~Title:jān~~
-{{description>the elder brothers.}}
+---json
+{
+    "name":"jān",
+    "h1":"jān",
+    "title":"jān --- synonyms, prabhupada.io",
+    "description":"the elder brothers."
+}
+---
 
 ==== agra-jān  ====
   * the elder brothers --- [[books:sb:4:22:6|SB 4.22.6]]

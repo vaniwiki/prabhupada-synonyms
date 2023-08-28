@@ -1,5 +1,11 @@
-~~Title:ratha~~
-{{description>by chariots; car; chariot; chariot car; charioteers; chariots; on a chariot; on chariots; the car; the chariot; with chariots.}}
+---json
+{
+    "name":"ratha",
+    "h1":"ratha",
+    "title":"ratha --- synonyms, prabhupada.io",
+    "description":"by chariots; car; chariot; chariot car; charioteers; chariots; on a chariot; on chariots; the car; the chariot; with chariots."
+}
+---
 
 ==== ratha  ====
   * by chariots --- [[books:sb:9:10:20|SB 9.10.20]]

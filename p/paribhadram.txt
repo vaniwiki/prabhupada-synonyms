@@ -1,5 +1,11 @@
-~~Title:pāribhadram~~
-{{description>Pāribhadra.}}
+---json
+{
+    "name":"pāribhadram",
+    "h1":"pāribhadram",
+    "title":"pāribhadram --- synonyms, prabhupada.io",
+    "description":"Pāribhadra."
+}
+---
 
 ==== pāribhadram  ====
   * Pāribhadra --- [[books:sb:5:20:9|SB 5.20.9]]

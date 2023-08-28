@@ -1,5 +1,11 @@
-~~Title:śaṁsam~~
-{{description>cruel; very cruel.}}
+---json
+{
+    "name":"śaṁsam",
+    "h1":"śaṁsam",
+    "title":"śaṁsam --- synonyms, prabhupada.io",
+    "description":"cruel; very cruel."
+}
+---
 
 ==== nṛ-śaṁsam  ====
   * cruel --- [[books:sb:6:11:13|SB 6.11.13]]

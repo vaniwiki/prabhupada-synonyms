@@ -1,5 +1,11 @@
-~~Title:kumāre~~
-{{description>unto the child.}}
+---json
+{
+    "name":"kumāre",
+    "h1":"kumāre",
+    "title":"kumāre --- synonyms, prabhupada.io",
+    "description":"unto the child."
+}
+---
 
 ==== kumāre  ====
   * unto the child --- [[books:sb:9:14:10|SB 9.14.10]]

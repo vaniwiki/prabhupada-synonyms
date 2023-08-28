@@ -1,5 +1,11 @@
-~~Title:duḥkhaiḥ~~
-{{description>by miseries; by the threefold miseries of material life; by tribulations; distresses.}}
+---json
+{
+    "name":"duḥkhaiḥ",
+    "h1":"duḥkhaiḥ",
+    "title":"duḥkhaiḥ --- synonyms, prabhupada.io",
+    "description":"by miseries; by the threefold miseries of material life; by tribulations; distresses."
+}
+---
 
 ==== duḥkhaiḥ  ====
   * by miseries --- [[books:sb:1:5:40|SB 1.5.40]]

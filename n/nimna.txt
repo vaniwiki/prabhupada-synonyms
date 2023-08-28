@@ -1,5 +1,11 @@
-~~Title:nimna~~
-{{description>flat; low; lower.}}
+---json
+{
+    "name":"nimna",
+    "h1":"nimna",
+    "title":"nimna --- synonyms, prabhupada.io",
+    "description":"flat; low; lower."
+}
+---
 
 ==== nimna  ====
   * flat --- [[books:sb:4:14:44|SB 4.14.44]]

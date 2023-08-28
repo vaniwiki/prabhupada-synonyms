@@ -1,5 +1,11 @@
-~~Title:kumbhakarṇam~~
-{{description>Kumbhakarṇa, the most important brother.}}
+---json
+{
+    "name":"kumbhakarṇam",
+    "h1":"kumbhakarṇam",
+    "title":"kumbhakarṇam --- synonyms, prabhupada.io",
+    "description":"Kumbhakarṇa, the most important brother."
+}
+---
 
 ==== kumbhakarṇam  ====
   * Kumbhakarṇa, the most important brother --- [[books:sb:9:10:18|SB 9.10.18]]

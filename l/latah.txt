@@ -1,5 +1,11 @@
-~~Title:latāḥ~~
-{{description>creepers.}}
+---json
+{
+    "name":"latāḥ",
+    "h1":"latāḥ",
+    "title":"latāḥ --- synonyms, prabhupada.io",
+    "description":"creepers."
+}
+---
 
 ==== latāḥ  ====
   * creepers --- [[books:sb:3:29:41|SB 3.29.41]]

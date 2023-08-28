@@ -1,5 +1,11 @@
-~~Title:ālokanam~~
-{{description>seeing.}}
+---json
+{
+    "name":"ālokanam",
+    "h1":"ālokanam",
+    "title":"ālokanam --- synonyms, prabhupada.io",
+    "description":"seeing."
+}
+---
 
 ==== ālokanam  ====
   * seeing --- [[books:cc:madhya:2:58|Madhya 2.58]]

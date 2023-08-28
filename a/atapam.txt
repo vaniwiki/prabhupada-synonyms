@@ -1,5 +1,11 @@
-~~Title:atapam~~
-{{description>Ātapa.}}
+---json
+{
+    "name":"atapam",
+    "h1":"atapam",
+    "title":"atapam --- synonyms, prabhupada.io",
+    "description":"Ātapa."
+}
+---
 
 ==== ātapam  ====
   * Ātapa --- [[books:sb:6:6:16|SB 6.6.16]]

@@ -1,5 +1,11 @@
-~~Title:raktah~~
-{{description>red; sometimes red.}}
+---json
+{
+    "name":"raktah",
+    "h1":"raktah",
+    "title":"raktah --- synonyms, prabhupada.io",
+    "description":"red; sometimes red."
+}
+---
 
 ==== raktaḥ  ====
   * red --- [[books:cc:adi:3:36|Ādi 3.36]], [[books:cc:madhya:6:101|Madhya 6.101]], [[books:cc:madhya:20:331|Madhya 20.331]]

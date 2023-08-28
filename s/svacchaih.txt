@@ -1,5 +1,11 @@
-~~Title:svacchaiḥ~~
-{{description>very cleanly polished.}}
+---json
+{
+    "name":"svacchaiḥ",
+    "h1":"svacchaiḥ",
+    "title":"svacchaiḥ --- synonyms, prabhupada.io",
+    "description":"very cleanly polished."
+}
+---
 
 ==== svacchaiḥ  ====
   * very cleanly polished --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

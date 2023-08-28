@@ -1,5 +1,11 @@
-~~Title:aśikṣayat~~
-{{description>instructed.}}
+---json
+{
+    "name":"aśikṣayat",
+    "h1":"aśikṣayat",
+    "title":"aśikṣayat --- synonyms, prabhupada.io",
+    "description":"instructed."
+}
+---
 
 ==== aśikṣayat  ====
   * instructed --- [[books:cc:antya:16:1|Antya 16.1]]

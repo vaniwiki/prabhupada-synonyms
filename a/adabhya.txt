@@ -1,5 +1,11 @@
-~~Title:adābhya~~
-{{description>severe.}}
+---json
+{
+    "name":"adābhya",
+    "h1":"adābhya",
+    "title":"adābhya --- synonyms, prabhupada.io",
+    "description":"severe."
+}
+---
 
 ==== adābhya  ====
   * severe --- [[books:sb:4:23:4|SB 4.23.4]]

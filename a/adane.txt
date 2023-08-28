@@ -1,5 +1,11 @@
-~~Title:ādāne~~
-{{description>in seizing by unfair means.}}
+---json
+{
+    "name":"ādāne",
+    "h1":"ādāne",
+    "title":"ādāne --- synonyms, prabhupada.io",
+    "description":"in seizing by unfair means."
+}
+---
 
 ==== ādāne  ====
   * in seizing by unfair means --- [[books:sb:5:14:36|SB 5.14.36]]

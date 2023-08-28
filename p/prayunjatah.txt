@@ -1,5 +1,11 @@
-~~Title:prayuñjataḥ~~
-{{description>fixed.}}
+---json
+{
+    "name":"prayuñjataḥ",
+    "h1":"prayuñjataḥ",
+    "title":"prayuñjataḥ --- synonyms, prabhupada.io",
+    "description":"fixed."
+}
+---
 
 ==== prayuñjataḥ  ====
   * fixed --- [[books:sb:4:11:3|SB 4.11.3]]

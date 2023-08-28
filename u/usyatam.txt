@@ -1,5 +1,11 @@
-~~Title:uṣyatām~~
-{{description>stay; stay here; you live.}}
+---json
+{
+    "name":"uṣyatām",
+    "h1":"uṣyatām",
+    "title":"uṣyatām --- synonyms, prabhupada.io",
+    "description":"stay; stay here; you live."
+}
+---
 
 ==== uṣyatām  ====
   * stay --- [[books:sb:7:7:12|SB 7.7.12]]

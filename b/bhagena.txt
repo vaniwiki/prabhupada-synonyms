@@ -1,5 +1,11 @@
-~~Title:bhagena~~
-{{description>with six opulences.}}
+---json
+{
+    "name":"bhagena",
+    "h1":"bhagena",
+    "title":"bhagena --- synonyms, prabhupada.io",
+    "description":"with six opulences."
+}
+---
 
 ==== bhagena  ====
   * with six opulences --- [[books:sb:3:9:22|SB 3.9.22]]

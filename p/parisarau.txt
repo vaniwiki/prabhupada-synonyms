@@ -1,5 +1,11 @@
-~~Title:parisarau~~
-{{description>the two ends of the flute.}}
+---json
+{
+    "name":"parisarau",
+    "h1":"parisarau",
+    "title":"parisarau --- synonyms, prabhupada.io",
+    "description":"the two ends of the flute."
+}
+---
 
 ==== tat-parisarau  ====
   * the two ends of the flute --- [[books:cc:antya:1:161|Antya 1.161]]

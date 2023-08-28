@@ -1,5 +1,11 @@
-~~Title:pasārire~~
-{{description>to all the shopkeepers.}}
+---json
+{
+    "name":"pasārire",
+    "h1":"pasārire",
+    "title":"pasārire --- synonyms, prabhupada.io",
+    "description":"to all the shopkeepers."
+}
+---
 
 ==== saba pasārire  ====
   * to all the shopkeepers --- [[books:cc:antya:11:78|Antya 11.78]]

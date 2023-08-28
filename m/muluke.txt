@@ -1,5 +1,11 @@
-~~Title:muluke~~
-{{description>in the province known as Āmbuyā.}}
+---json
+{
+    "name":"muluke",
+    "h1":"muluke",
+    "title":"muluke --- synonyms, prabhupada.io",
+    "description":"in the province known as Āmbuyā."
+}
+---
 
 ==== āmbuyā-muluke  ====
   * in the province known as Āmbuyā --- [[books:cc:antya:2:16|Antya 2.16]]

@@ -1,5 +1,11 @@
-~~Title:pūrtena~~
-{{description>by traditional good work.}}
+---json
+{
+    "name":"pūrtena",
+    "h1":"pūrtena",
+    "title":"pūrtena --- synonyms, prabhupada.io",
+    "description":"by traditional good work."
+}
+---
 
 ==== pūrtena  ====
   * by traditional good work --- [[books:sb:3:9:41|SB 3.9.41]]

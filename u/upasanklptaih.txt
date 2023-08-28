@@ -1,5 +1,11 @@
-~~Title:upasaṅkḷptaiḥ~~
-{{description>set up.}}
+---json
+{
+    "name":"upasaṅkḷptaiḥ",
+    "h1":"upasaṅkḷptaiḥ",
+    "title":"upasaṅkḷptaiḥ --- synonyms, prabhupada.io",
+    "description":"set up."
+}
+---
 
 ==== upasaṅkḷptaiḥ  ====
   * set up --- [[books:sb:4:9:54|SB 4.9.54]]

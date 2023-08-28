@@ -1,5 +1,11 @@
-~~Title:sastra~~
-{{description>and weapons; weapons.}}
+---json
+{
+    "name":"sastra",
+    "h1":"sastra",
+    "title":"sastra --- synonyms, prabhupada.io",
+    "description":"and weapons; weapons."
+}
+---
 
 ==== śastra  ====
   * and weapons --- [[books:sb:6:10:26|SB 6.10.26]], [[books:cc:adi:3:65|Ādi 3.65]]

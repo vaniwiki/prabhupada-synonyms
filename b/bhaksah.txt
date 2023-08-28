@@ -1,5 +1,11 @@
-~~Title:bhaksah~~
-{{description>breathing; eating.}}
+---json
+{
+    "name":"bhaksah",
+    "h1":"bhaksah",
+    "title":"bhaksah --- synonyms, prabhupada.io",
+    "description":"breathing; eating."
+}
+---
 
 ==== bhakṣaḥ  ====
   * breathing --- [[books:sb:4:23:5|SB 4.23.5]]

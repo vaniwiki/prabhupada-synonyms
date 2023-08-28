@@ -1,5 +1,11 @@
-~~Title:sita~~
-{{description>white.}}
+---json
+{
+    "name":"sita",
+    "h1":"sita",
+    "title":"sita --- synonyms, prabhupada.io",
+    "description":"white."
+}
+---
 
 ==== sita  ====
   * white --- [[books:sb:3:13:33|SB 3.13.33]], [[books:sb:3:21:9|SB 3.21.9]], [[books:sb:4:27:14|SB 4.27.14]]

@@ -1,5 +1,11 @@
-~~Title:sampracaratsu~~
-{{description>when beginning to perform.}}
+---json
+{
+    "name":"sampracaratsu",
+    "h1":"sampracaratsu",
+    "title":"sampracaratsu --- synonyms, prabhupada.io",
+    "description":"when beginning to perform."
+}
+---
 
 ==== sampracaratsu  ====
   * when beginning to perform --- [[books:sb:5:7:6|SB 5.7.6]]

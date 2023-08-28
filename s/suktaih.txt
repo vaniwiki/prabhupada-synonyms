@@ -1,5 +1,11 @@
-~~Title:sūktaiḥ~~
-{{description>by Vedic hymns; whose delightful words.}}
+---json
+{
+    "name":"sūktaiḥ",
+    "h1":"sūktaiḥ",
+    "title":"sūktaiḥ --- synonyms, prabhupada.io",
+    "description":"by Vedic hymns; whose delightful words."
+}
+---
 
 ==== sūktaiḥ  ====
   * by Vedic hymns --- [[books:sb:10:7:11|SB 10.7.11]]

@@ -1,5 +1,11 @@
-~~Title:āmātei~~
-{{description>in Me.}}
+---json
+{
+    "name":"āmātei",
+    "h1":"āmātei",
+    "title":"āmātei --- synonyms, prabhupada.io",
+    "description":"in Me."
+}
+---
 
 ==== āmātei  ====
   * in Me --- [[books:cc:madhya:25:112|Madhya 25.112]]

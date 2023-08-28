@@ -1,5 +1,11 @@
-~~Title:nāradau~~
-{{description>the great saint Nārada.}}
+---json
+{
+    "name":"nāradau",
+    "h1":"nāradau",
+    "title":"nāradau --- synonyms, prabhupada.io",
+    "description":"the great saint Nārada."
+}
+---
 
 ==== nāradau  ====
   * the great saint Nārada --- [[books:sb:6:17:32|SB 6.17.32]]

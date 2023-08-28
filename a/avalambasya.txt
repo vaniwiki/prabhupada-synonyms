@@ -1,5 +1,11 @@
-~~Title:avalambasya~~
-{{description>one who embraced truth as shelter.}}
+---json
+{
+    "name":"avalambasya",
+    "h1":"avalambasya",
+    "title":"avalambasya --- synonyms, prabhupada.io",
+    "description":"one who embraced truth as shelter."
+}
+---
 
 ==== satya-avalambasya  ====
   * one who embraced truth as shelter --- [[books:sb:3:1:8|SB 3.1.8]]

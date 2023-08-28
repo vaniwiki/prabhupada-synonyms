@@ -1,5 +1,11 @@
-~~Title:garjitena~~
-{{description>by His uncommon voice.}}
+---json
+{
+    "name":"garjitena",
+    "h1":"garjitena",
+    "title":"garjitena --- synonyms, prabhupada.io",
+    "description":"by His uncommon voice."
+}
+---
 
 ==== sva-garjitena  ====
   * by His uncommon voice --- [[books:sb:3:13:24|SB 3.13.24]]

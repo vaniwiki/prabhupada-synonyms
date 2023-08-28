@@ -1,5 +1,11 @@
-~~Title:viśya~~
-{{description>entering.}}
+---json
+{
+    "name":"viśya",
+    "h1":"viśya",
+    "title":"viśya --- synonyms, prabhupada.io",
+    "description":"entering."
+}
+---
 
 ==== viśya  ====
   * entering --- [[books:sb:9:11:6|SB 9.11.6]]

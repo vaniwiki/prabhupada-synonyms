@@ -1,5 +1,11 @@
-~~Title:bhuvanasya~~
-{{description>of the universe.}}
+---json
+{
+    "name":"bhuvanasya",
+    "h1":"bhuvanasya",
+    "title":"bhuvanasya --- synonyms, prabhupada.io",
+    "description":"of the universe."
+}
+---
 
 ==== bhuvanasya  ====
   * of the universe --- [[books:sb:8:17:27|SB 8.17.27]]

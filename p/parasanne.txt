@@ -1,5 +1,11 @@
-~~Title:parasanne~~
-{{description>being very pleased with Me.}}
+---json
+{
+    "name":"parasanne",
+    "h1":"parasanne",
+    "title":"parasanne --- synonyms, prabhupada.io",
+    "description":"being very pleased with Me."
+}
+---
 
 ==== hañā parasanne  ====
   * being very pleased with Me --- [[books:cc:madhya:16:277|Madhya 16.277]]

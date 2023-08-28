@@ -1,5 +1,11 @@
-~~Title:dānavīm~~
-{{description>demoniac.}}
+---json
+{
+    "name":"dānavīm",
+    "h1":"dānavīm",
+    "title":"dānavīm --- synonyms, prabhupada.io",
+    "description":"demoniac."
+}
+---
 
 ==== dānavīm  ====
   * demoniac --- [[books:sb:6:17:38|SB 6.17.38]]

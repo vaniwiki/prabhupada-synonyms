@@ -1,5 +1,11 @@
-~~Title:mumuhe~~
-{{description>he became enchanted; was illusioned.}}
+---json
+{
+    "name":"mumuhe",
+    "h1":"mumuhe",
+    "title":"mumuhe --- synonyms, prabhupada.io",
+    "description":"he became enchanted; was illusioned."
+}
+---
 
 ==== mumuhe  ====
   * he became enchanted --- [[books:sb:9:20:8-9|SB 9.20.8-9]]

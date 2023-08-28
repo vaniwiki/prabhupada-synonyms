@@ -1,5 +1,11 @@
-~~Title:dharmau~~
-{{description>religion (two sides of the wheel, up and down).}}
+---json
+{
+    "name":"dharmau",
+    "h1":"dharmau",
+    "title":"dharmau --- synonyms, prabhupada.io",
+    "description":"religion (two sides of the wheel, up and down)."
+}
+---
 
 ==== dharmau  ====
   * religion (two sides of the wheel, up and down) --- [[books:sb:7:15:42|SB 7.15.42]]

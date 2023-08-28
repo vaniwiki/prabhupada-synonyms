@@ -1,5 +1,11 @@
-~~Title:grahah~~
-{{description>a ghost.}}
+---json
+{
+    "name":"grahah",
+    "h1":"grahah",
+    "title":"grahah --- synonyms, prabhupada.io",
+    "description":"a ghost."
+}
+---
 
 ==== grahaḥ  ====
   * a ghost --- [[books:sb:5:26:36|SB 5.26.36]]

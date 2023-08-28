@@ -1,5 +1,11 @@
-~~Title:puchila~~
-{{description>asked; He inquired; I inquired; inquired; inquired about.}}
+---json
+{
+    "name":"puchila",
+    "h1":"puchila",
+    "title":"puchila --- synonyms, prabhupada.io",
+    "description":"asked; He inquired; I inquired; inquired; inquired about."
+}
+---
 
 ==== puchila  ====
   * asked --- [[books:cc:madhya:5:56|Madhya 5.56]], [[books:cc:madhya:9:294|Madhya 9.294]], [[books:cc:antya:12:57|Antya 12.57]]

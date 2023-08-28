@@ -1,5 +1,11 @@
-~~Title:pūpī~~
-{{description>cakes made with cream.}}
+---json
+{
+    "name":"pūpī",
+    "h1":"pūpī",
+    "title":"pūpī --- synonyms, prabhupada.io",
+    "description":"cakes made with cream."
+}
+---
 
 ==== sara-pūpī  ====
   * cakes made with cream --- [[books:cc:antya:10:118|Antya 10.118]]

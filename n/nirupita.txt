@@ -1,5 +1,11 @@
-~~Title:nirupita~~
-{{description>settled.}}
+---json
+{
+    "name":"nirupita",
+    "h1":"nirupita",
+    "title":"nirupita --- synonyms, prabhupada.io",
+    "description":"settled."
+}
+---
 
 ==== nirūpita  ====
   * settled --- [[books:sb:4:30:22|SB 4.30.22]]

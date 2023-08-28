@@ -1,5 +1,11 @@
-~~Title:maraṇam~~
-{{description>death.}}
+---json
+{
+    "name":"maraṇam",
+    "h1":"maraṇam",
+    "title":"maraṇam --- synonyms, prabhupada.io",
+    "description":"death."
+}
+---
 
 ==== maraṇam  ====
   * death --- [[books:sb:3:31:44|SB 3.31.44]]

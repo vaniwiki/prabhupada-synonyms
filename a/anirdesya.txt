@@ -1,5 +1,11 @@
-~~Title:anirdeśya~~
-{{description>imperceptible.}}
+---json
+{
+    "name":"anirdeśya",
+    "h1":"anirdeśya",
+    "title":"anirdeśya --- synonyms, prabhupada.io",
+    "description":"imperceptible."
+}
+---
 
 ==== anirdeśya  ====
   * imperceptible --- [[books:sb:9:7:25-26|SB 9.7.25-26]]

@@ -1,5 +1,11 @@
-~~Title:trapah~~
-{{description>shame.}}
+---json
+{
+    "name":"trapah",
+    "h1":"trapah",
+    "title":"trapah --- synonyms, prabhupada.io",
+    "description":"shame."
+}
+---
 
 ==== trapaḥ  ====
   * shame --- [[books:sb:3:31:36|SB 3.31.36]]

@@ -1,5 +1,11 @@
-~~Title:dāyakaḥ~~
-{{description>giving liberation.}}
+---json
+{
+    "name":"dāyakaḥ",
+    "h1":"dāyakaḥ",
+    "title":"dāyakaḥ --- synonyms, prabhupada.io",
+    "description":"giving liberation."
+}
+---
 
 ==== gati-dāyakaḥ  ====
   * giving liberation --- [[books:cc:madhya:23:79-81|Madhya 23.79-81]]

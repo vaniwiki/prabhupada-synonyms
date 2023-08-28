@@ -1,5 +1,11 @@
-~~Title:āsanāni~~
-{{description>chairs and benches; seats; sitting places.}}
+---json
+{
+    "name":"āsanāni",
+    "h1":"āsanāni",
+    "title":"āsanāni --- synonyms, prabhupada.io",
+    "description":"chairs and benches; seats; sitting places."
+}
+---
 
 ==== āsanāni  ====
   * chairs and benches --- [[books:sb:3:33:16|SB 3.33.16]]

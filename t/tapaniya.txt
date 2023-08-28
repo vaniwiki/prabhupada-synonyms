@@ -1,5 +1,11 @@
-~~Title:tapanīya~~
-{{description>golden.}}
+---json
+{
+    "name":"tapanīya",
+    "h1":"tapanīya",
+    "title":"tapanīya --- synonyms, prabhupada.io",
+    "description":"golden."
+}
+---
 
 ==== tapanīya  ====
   * golden --- [[books:sb:2:7:11|SB 2.7.11]]

@@ -1,5 +1,11 @@
-~~Title:avāpya~~
-{{description>achieving.}}
+---json
+{
+    "name":"avāpya",
+    "h1":"avāpya",
+    "title":"avāpya --- synonyms, prabhupada.io",
+    "description":"achieving."
+}
+---
 
 ==== avāpya  ====
   * achieving --- [[books:bg:2:8|Bg. 2.8]]

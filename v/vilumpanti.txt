@@ -1,5 +1,11 @@
-~~Title:vilumpanti~~
-{{description>kidnapped; plunder; plunder, regularly taking away all the possessions; they plunder; they plundered.}}
+---json
+{
+    "name":"vilumpanti",
+    "h1":"vilumpanti",
+    "title":"vilumpanti --- synonyms, prabhupada.io",
+    "description":"kidnapped; plunder; plunder, regularly taking away all the possessions; they plunder; they plundered."
+}
+---
 
 ==== vilumpanti  ====
   * kidnapped --- [[books:sb:5:13:10|SB 5.13.10]]

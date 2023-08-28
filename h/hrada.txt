@@ -1,5 +1,11 @@
-~~Title:hrada~~
-{{description>out of the lake.}}
+---json
+{
+    "name":"hrada",
+    "h1":"hrada",
+    "title":"hrada --- synonyms, prabhupada.io",
+    "description":"out of the lake."
+}
+---
 
 ==== hrada  ====
   * out of the lake --- [[books:sb:1:3:2|SB 1.3.2]]

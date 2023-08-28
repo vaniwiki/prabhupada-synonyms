@@ -1,5 +1,11 @@
-~~Title:hāle~~
-{{description>loosen.}}
+---json
+{
+    "name":"hāle",
+    "h1":"hāle",
+    "title":"hāle --- synonyms, prabhupada.io",
+    "description":"loosen."
+}
+---
 
 ==== hāle  ====
   * loosen --- [[books:cc:madhya:2:6|Madhya 2.6]]

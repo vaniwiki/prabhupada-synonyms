@@ -1,5 +1,11 @@
-~~Title:mārgeṣu~~
-{{description>on different roads.}}
+---json
+{
+    "name":"mārgeṣu",
+    "h1":"mārgeṣu",
+    "title":"mārgeṣu --- synonyms, prabhupada.io",
+    "description":"on different roads."
+}
+---
 
 ==== mārgeṣu  ====
   * on different roads --- [[books:sb:1:11:13|SB 1.11.13]]

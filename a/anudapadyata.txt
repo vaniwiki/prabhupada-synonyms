@@ -1,5 +1,11 @@
-~~Title:ānudapadyata~~
-{{description>was born.}}
+---json
+{
+    "name":"ānudapadyata",
+    "h1":"ānudapadyata",
+    "title":"ānudapadyata --- synonyms, prabhupada.io",
+    "description":"was born."
+}
+---
 
 ==== ānudapadyata  ====
   * was born --- [[books:sb:5:15:14-15|SB 5.15.14-15]]

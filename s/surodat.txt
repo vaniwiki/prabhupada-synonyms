@@ -1,5 +1,11 @@
-~~Title:surodāt~~
-{{description>from the ocean of liquor.}}
+---json
+{
+    "name":"surodāt",
+    "h1":"surodāt",
+    "title":"surodāt --- synonyms, prabhupada.io",
+    "description":"from the ocean of liquor."
+}
+---
 
 ==== surodāt  ====
   * from the ocean of liquor --- [[books:sb:5:20:13|SB 5.20.13]]

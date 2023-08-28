@@ -1,5 +1,11 @@
-~~Title:nirharaṇa~~
-{{description>undertakable.}}
+---json
+{
+    "name":"nirharaṇa",
+    "h1":"nirharaṇa",
+    "title":"nirharaṇa --- synonyms, prabhupada.io",
+    "description":"undertakable."
+}
+---
 
 ==== nirharaṇa-ādikam  ====
   * undertakable --- [[books:sb:1:7:58|SB 1.7.58]]

@@ -1,5 +1,11 @@
-~~Title:śaile~~
-{{description>on this hill.}}
+---json
+{
+    "name":"śaile",
+    "h1":"śaile",
+    "title":"śaile --- synonyms, prabhupada.io",
+    "description":"on this hill."
+}
+---
 
 ==== śaile  ====
   * on this hill --- [[books:sb:5:2:7|SB 5.2.7]]

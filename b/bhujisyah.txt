@@ -1,5 +1,11 @@
-~~Title:bhujiṣyāḥ~~
-{{description>servants.}}
+---json
+{
+    "name":"bhujiṣyāḥ",
+    "h1":"bhujiṣyāḥ",
+    "title":"bhujiṣyāḥ --- synonyms, prabhupada.io",
+    "description":"servants."
+}
+---
 
 ==== bhujiṣyāḥ  ====
   * servants --- [[books:cc:adi:4:211|Ādi 4.211]]

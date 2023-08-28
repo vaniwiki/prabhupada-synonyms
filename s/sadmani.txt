@@ -1,5 +1,11 @@
-~~Title:sadmani~~
-{{description>the house of the Supreme Personality.}}
+---json
+{
+    "name":"sadmani",
+    "h1":"sadmani",
+    "title":"sadmani --- synonyms, prabhupada.io",
+    "description":"the house of the Supreme Personality."
+}
+---
 
 ==== hari-sadmani  ====
   * the house of the Supreme Personality --- [[books:sb:3:15:21|SB 3.15.21]]

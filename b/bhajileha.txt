@@ -1,5 +1,11 @@
-~~Title:bhajileha~~
-{{description>if serving the Supreme Lord.}}
+---json
+{
+    "name":"bhajileha",
+    "h1":"bhajileha",
+    "title":"bhajileha --- synonyms, prabhupada.io",
+    "description":"if serving the Supreme Lord."
+}
+---
 
 ==== bhajileha  ====
   * if serving the Supreme Lord --- [[books:cc:madhya:8:230|Madhya 8.230]]

@@ -1,5 +1,11 @@
-~~Title:bhavitah~~
-{{description>fixed (in determination); remembering.}}
+---json
+{
+    "name":"bhavitah",
+    "h1":"bhavitah",
+    "title":"bhavitah --- synonyms, prabhupada.io",
+    "description":"fixed (in determination); remembering."
+}
+---
 
 ==== bhāvitaḥ  ====
   * fixed (in determination) --- [[books:sb:10:3:37-38|SB 10.3.37-38]]

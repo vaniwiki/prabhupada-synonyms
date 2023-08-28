@@ -1,5 +1,11 @@
-~~Title:ātithyena~~
-{{description>by your hospitality; with the reception of a guest.}}
+---json
+{
+    "name":"ātithyena",
+    "h1":"ātithyena",
+    "title":"ātithyena --- synonyms, prabhupada.io",
+    "description":"by your hospitality; with the reception of a guest."
+}
+---
 
 ==== ātithyena  ====
   * by your hospitality --- [[books:sb:9:5:20|SB 9.5.20]]

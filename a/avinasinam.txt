@@ -1,5 +1,11 @@
-~~Title:avināśinam~~
-{{description>indestructible.}}
+---json
+{
+    "name":"avināśinam",
+    "h1":"avināśinam",
+    "title":"avināśinam --- synonyms, prabhupada.io",
+    "description":"indestructible."
+}
+---
 
 ==== avināśinam  ====
   * indestructible --- [[books:bg:2:21|Bg. 2.21]]

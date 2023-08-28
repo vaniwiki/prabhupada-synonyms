@@ -1,5 +1,11 @@
-~~Title:bāhau~~
-{{description>the arms.}}
+---json
+{
+    "name":"bāhau",
+    "h1":"bāhau",
+    "title":"bāhau --- synonyms, prabhupada.io",
+    "description":"the arms."
+}
+---
 
 ==== bāhau  ====
   * the arms --- [[books:sb:2:2:4|SB 2.2.4]]

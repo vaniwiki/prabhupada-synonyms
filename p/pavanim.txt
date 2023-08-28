@@ -1,5 +1,11 @@
-~~Title:pāvanīm~~
-{{description>mother Ganges, who can deliver the whole universe.}}
+---json
+{
+    "name":"pāvanīm",
+    "h1":"pāvanīm",
+    "title":"pāvanīm --- synonyms, prabhupada.io",
+    "description":"mother Ganges, who can deliver the whole universe."
+}
+---
 
 ==== bhuvana-pāvanīm  ====
   * mother Ganges, who can deliver the whole universe --- [[books:sb:9:9:10|SB 9.9.10]]

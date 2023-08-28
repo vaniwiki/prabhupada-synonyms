@@ -1,5 +1,11 @@
-~~Title:dadṛśvān~~
-{{description>what you have seen.}}
+---json
+{
+    "name":"dadṛśvān",
+    "h1":"dadṛśvān",
+    "title":"dadṛśvān --- synonyms, prabhupada.io",
+    "description":"what you have seen."
+}
+---
 
 ==== dadṛśvān  ====
   * what you have seen --- [[books:sb:3:4:12|SB 3.4.12]]

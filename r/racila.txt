@@ -1,5 +1,11 @@
-~~Title:racilā~~
-{{description>planned.}}
+---json
+{
+    "name":"racilā",
+    "h1":"racilā",
+    "title":"racilā --- synonyms, prabhupada.io",
+    "description":"planned."
+}
+---
 
 ==== racilā  ====
   * planned --- [[books:cc:antya:18:83|Antya 18.83]]

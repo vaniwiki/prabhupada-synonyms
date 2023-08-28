@@ -1,5 +1,11 @@
-~~Title:bhinnabhinna~~
-{{description>different.}}
+---json
+{
+    "name":"bhinnabhinna",
+    "h1":"bhinnabhinna",
+    "title":"bhinnabhinna --- synonyms, prabhupada.io",
+    "description":"different."
+}
+---
 
 ==== bhinnabhinna  ====
   * different --- [[books:cc:adi:13:121|Ādi 13.121]]

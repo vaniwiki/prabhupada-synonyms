@@ -1,5 +1,11 @@
-~~Title:yujyante~~
-{{description>may easily associate.}}
+---json
+{
+    "name":"yujyante",
+    "h1":"yujyante",
+    "title":"yujyante --- synonyms, prabhupada.io",
+    "description":"may easily associate."
+}
+---
 
 ==== yujyante  ====
   * may easily associate --- [[books:sb:10:10:17|SB 10.10.17]]

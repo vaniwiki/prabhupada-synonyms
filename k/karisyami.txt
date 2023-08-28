@@ -1,5 +1,11 @@
-~~Title:kariṣyāmi~~
-{{description>I must execute; I shall make; I shall make it.}}
+---json
+{
+    "name":"kariṣyāmi",
+    "h1":"kariṣyāmi",
+    "title":"kariṣyāmi --- synonyms, prabhupada.io",
+    "description":"I must execute; I shall make; I shall make it."
+}
+---
 
 ==== kariṣyāmi  ====
   * I must execute --- [[books:sb:8:23:17|SB 8.23.17]]

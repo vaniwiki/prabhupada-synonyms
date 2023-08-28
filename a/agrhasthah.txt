@@ -1,5 +1,11 @@
-~~Title:agṛhasthaḥ~~
-{{description>a person who has not accepted the gṛhastha-āśrama (a brahmacārī or sannyāsī).}}
+---json
+{
+    "name":"agṛhasthaḥ",
+    "h1":"agṛhasthaḥ",
+    "title":"agṛhasthaḥ --- synonyms, prabhupada.io",
+    "description":"a person who has not accepted the gṛhastha-āśrama (a brahmacārī or sannyāsī)."
+}
+---
 
 ==== agṛhasthaḥ  ====
   * a person who has not accepted the //gṛhastha-āśrama// (a //brahmacārī// or //sannyāsī//) --- [[books:sb:7:12:7|SB 7.12.7]]

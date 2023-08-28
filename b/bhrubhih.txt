@@ -1,5 +1,11 @@
-~~Title:bhrūbhiḥ~~
-{{description>with raised eyebrows.}}
+---json
+{
+    "name":"bhrūbhiḥ",
+    "h1":"bhrūbhiḥ",
+    "title":"bhrūbhiḥ --- synonyms, prabhupada.io",
+    "description":"with raised eyebrows."
+}
+---
 
 ==== āropita-bhrūbhiḥ  ====
   * with raised eyebrows --- [[books:sb:4:3:18|SB 4.3.18]]

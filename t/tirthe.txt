@@ -1,5 +1,11 @@
-~~Title:tīrthe~~
-{{description>at the holy place; in holy places (where charity is given); in the holy place; in the holy places; on pilgrimage.}}
+---json
+{
+    "name":"tīrthe",
+    "h1":"tīrthe",
+    "title":"tīrthe --- synonyms, prabhupada.io",
+    "description":"at the holy place; in holy places (where charity is given); in the holy place; in the holy places; on pilgrimage."
+}
+---
 
 ==== tīrthe  ====
   * at the holy place --- [[books:cc:madhya:9:220|Madhya 9.220]]

@@ -1,5 +1,11 @@
-~~Title:vikṣipat~~
-{{description>throwing away.}}
+---json
+{
+    "name":"vikṣipat",
+    "h1":"vikṣipat",
+    "title":"vikṣipat --- synonyms, prabhupada.io",
+    "description":"throwing away."
+}
+---
 
 ==== vikṣipat  ====
   * throwing away --- [[books:sb:4:24:22|SB 4.24.22]]

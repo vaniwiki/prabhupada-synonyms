@@ -1,5 +1,11 @@
-~~Title:kana~~
-{{description>a fragment; a particle; broken rice; drop; fragment; fragmental portion; particle; particles; small particle.}}
+---json
+{
+    "name":"kana",
+    "h1":"kana",
+    "title":"kana --- synonyms, prabhupada.io",
+    "description":"a fragment; a particle; broken rice; drop; fragment; fragmental portion; particle; particles; small particle."
+}
+---
 
 ==== kaṇa  ====
   * a fragment --- [[books:cc:madhya:18:195|Madhya 18.195]], [[books:cc:antya:3:271|Antya 3.271]]

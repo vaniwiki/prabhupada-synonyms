@@ -1,5 +1,11 @@
-~~Title:vapi~~
-{{description>either; lake.}}
+---json
+{
+    "name":"vapi",
+    "h1":"vapi",
+    "title":"vapi --- synonyms, prabhupada.io",
+    "description":"either; lake."
+}
+---
 
 ==== vāpi  ====
   * either --- [[books:bg:15:10|Bg. 15.10]]

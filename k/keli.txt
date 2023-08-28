@@ -1,5 +1,11 @@
-~~Title:keli~~
-{{description>pastimes.}}
+---json
+{
+    "name":"keli",
+    "h1":"keli",
+    "title":"keli --- synonyms, prabhupada.io",
+    "description":"pastimes."
+}
+---
 
 ==== keli  ====
   * pastimes --- [[books:cc:madhya:14:69|Madhya 14.69]]

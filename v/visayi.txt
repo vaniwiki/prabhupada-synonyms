@@ -1,5 +1,11 @@
-~~Title:visayi~~
-{{description>a statesman; engaged in mundane affairs; government servants; materialist; materialistic man.}}
+---json
+{
+    "name":"visayi",
+    "h1":"visayi",
+    "title":"visayi --- synonyms, prabhupada.io",
+    "description":"a statesman; engaged in mundane affairs; government servants; materialist; materialistic man."
+}
+---
 
 ==== viṣayī  ====
   * a statesman --- [[books:cc:antya:2:88|Antya 2.88]]

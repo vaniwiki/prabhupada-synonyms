@@ -1,5 +1,11 @@
-~~Title:śrīdāmā~~
-{{description>Kṛṣṇa's friends, headed by Śrīdāmā; of Śrīdāmā and others.}}
+---json
+{
+    "name":"śrīdāmā",
+    "h1":"śrīdāmā",
+    "title":"śrīdāmā --- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa's friends, headed by Śrīdāmā; of Śrīdāmā and others."
+}
+---
 
 ==== śrīdāmā-ādi  ====
   * Kṛṣṇa's friends, headed by Śrīdāmā --- [[books:cc:adi:6:62|Ādi 6.62]]

@@ -1,5 +1,11 @@
-~~Title:nirbharam~~
-{{description>without feeling any weight.}}
+---json
+{
+    "name":"nirbharam",
+    "h1":"nirbharam",
+    "title":"nirbharam --- synonyms, prabhupada.io",
+    "description":"without feeling any weight."
+}
+---
 
 ==== nirbharam  ====
   * without feeling any weight --- [[books:sb:10:13:22|SB 10.13.22]]

@@ -1,5 +1,11 @@
-~~Title:kāṅpe~~
-{{description>are trembling.}}
+---json
+{
+    "name":"kāṅpe",
+    "h1":"kāṅpe",
+    "title":"kāṅpe --- synonyms, prabhupada.io",
+    "description":"are trembling."
+}
+---
 
 ==== kāṅpe  ====
   * are trembling --- [[books:cc:madhya:18:172|Madhya 18.172]]

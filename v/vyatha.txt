@@ -1,5 +1,11 @@
-~~Title:vyatha~~
-{{description>from pains.}}
+---json
+{
+    "name":"vyatha",
+    "h1":"vyatha",
+    "title":"vyatha --- synonyms, prabhupada.io",
+    "description":"from pains."
+}
+---
 
 ==== vyatha  ====
   * from pains --- [[books:sb:6:11:12|SB 6.11.12]]

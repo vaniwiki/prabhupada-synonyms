@@ -1,5 +1,11 @@
-~~Title:iham~~
-{{description>activity; whose activities.}}
+---json
+{
+    "name":"iham",
+    "h1":"iham",
+    "title":"iham --- synonyms, prabhupada.io",
+    "description":"activity; whose activities."
+}
+---
 
 ==== īham  ====
   * activity --- [[books:cc:madhya:5:1|Madhya 5.1]]

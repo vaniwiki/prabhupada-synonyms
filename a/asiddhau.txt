@@ -1,5 +1,11 @@
-~~Title:asiddhau~~
-{{description>failure.}}
+---json
+{
+    "name":"asiddhau",
+    "h1":"asiddhau",
+    "title":"asiddhau --- synonyms, prabhupada.io",
+    "description":"failure."
+}
+---
 
 ==== asiddhau  ====
   * failure --- [[books:bg:4:22|Bg. 4.22]]

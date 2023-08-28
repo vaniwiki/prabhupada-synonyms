@@ -1,5 +1,11 @@
-~~Title:nartakera~~
-{{description>of the dancer.}}
+---json
+{
+    "name":"nartakera",
+    "h1":"nartakera",
+    "title":"nartakera --- synonyms, prabhupada.io",
+    "description":"of the dancer."
+}
+---
 
 ==== nartakera  ====
   * of the dancer --- [[books:cc:antya:7:75|Antya 7.75]]

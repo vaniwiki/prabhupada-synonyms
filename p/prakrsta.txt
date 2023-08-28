@@ -1,5 +1,11 @@
-~~Title:prakṛṣṭa~~
-{{description>beautiful.}}
+---json
+{
+    "name":"prakṛṣṭa",
+    "h1":"prakṛṣṭa",
+    "title":"prakṛṣṭa --- synonyms, prabhupada.io",
+    "description":"beautiful."
+}
+---
 
 ==== prakṛṣṭa  ====
   * beautiful --- [[books:sb:8:12:19|SB 8.12.19]]

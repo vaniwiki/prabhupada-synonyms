@@ -1,5 +1,11 @@
-~~Title:daghna~~
-{{description>up to the neck.}}
+---json
+{
+    "name":"daghna",
+    "h1":"daghna",
+    "title":"daghna --- synonyms, prabhupada.io",
+    "description":"up to the neck."
+}
+---
 
 ==== kaṇṭha-daghna  ====
   * up to the neck --- [[books:cc:antya:18:89|Antya 18.89]]

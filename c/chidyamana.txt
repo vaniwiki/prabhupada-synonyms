@@ -1,5 +1,11 @@
-~~Title:chidyamāna~~
-{{description>being cut.}}
+---json
+{
+    "name":"chidyamāna",
+    "h1":"chidyamāna",
+    "title":"chidyamāna --- synonyms, prabhupada.io",
+    "description":"being cut."
+}
+---
 
 ==== chidyamāna  ====
   * being cut --- [[books:sb:5:26:15|SB 5.26.15]]

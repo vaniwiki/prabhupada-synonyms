@@ -1,5 +1,11 @@
-~~Title:pakṣam~~
-{{description>faction.}}
+---json
+{
+    "name":"pakṣam",
+    "h1":"pakṣam",
+    "title":"pakṣam --- synonyms, prabhupada.io",
+    "description":"faction."
+}
+---
 
 ==== pakṣam  ====
   * faction --- [[books:sb:7:13:7|SB 7.13.7]]

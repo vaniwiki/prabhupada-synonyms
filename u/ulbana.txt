@@ -1,5 +1,11 @@
-~~Title:ulbaṇa~~
-{{description>fearful.}}
+---json
+{
+    "name":"ulbaṇa",
+    "h1":"ulbaṇa",
+    "title":"ulbaṇa --- synonyms, prabhupada.io",
+    "description":"fearful."
+}
+---
 
 ==== ulbaṇa  ====
   * fearful --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

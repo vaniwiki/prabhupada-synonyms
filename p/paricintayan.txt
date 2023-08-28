@@ -1,5 +1,11 @@
-~~Title:paricintayan~~
-{{description>thinking.}}
+---json
+{
+    "name":"paricintayan",
+    "h1":"paricintayan",
+    "title":"paricintayan --- synonyms, prabhupada.io",
+    "description":"thinking."
+}
+---
 
 ==== paricintayan  ====
   * thinking --- [[books:bg:10:17|Bg. 10.17]]

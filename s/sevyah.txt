@@ -1,5 +1,11 @@
-~~Title:sevyāḥ~~
-{{description>eligible to serve the devotee.}}
+---json
+{
+    "name":"sevyāḥ",
+    "h1":"sevyāḥ",
+    "title":"sevyāḥ --- synonyms, prabhupada.io",
+    "description":"eligible to serve the devotee."
+}
+---
 
 ==== sat-sevyāḥ  ====
   * eligible to serve the devotee --- [[books:sb:1:19:32|SB 1.19.32]]

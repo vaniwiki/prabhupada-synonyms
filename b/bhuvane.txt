@@ -1,5 +1,11 @@
-~~Title:bhuvane~~
-{{description>in the world; within this material world.}}
+---json
+{
+    "name":"bhuvane",
+    "h1":"bhuvane",
+    "title":"bhuvane --- synonyms, prabhupada.io",
+    "description":"in the world; within this material world."
+}
+---
 
 ==== bhuvane  ====
   * in the world --- [[books:cc:adi:11:24|Ādi 11.24]]

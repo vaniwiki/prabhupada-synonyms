@@ -1,5 +1,11 @@
-~~Title:asmat~~
-{{description>all of us; by us; from me; from us; my; of me; of us; our; unto us, beginning from Brahmā down to the insignificant ant.}}
+---json
+{
+    "name":"asmat",
+    "h1":"asmat",
+    "title":"asmat --- synonyms, prabhupada.io",
+    "description":"all of us; by us; from me; from us; my; of me; of us; our; unto us, beginning from Brahmā down to the insignificant ant."
+}
+---
 
 ==== asmat  ====
   * all of us --- [[books:sb:10:12:19|SB 10.12.19]]

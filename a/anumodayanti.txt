@@ -1,5 +1,11 @@
-~~Title:anumodayanti~~
-{{description>make fragrant.}}
+---json
+{
+    "name":"anumodayanti",
+    "h1":"anumodayanti",
+    "title":"anumodayanti --- synonyms, prabhupada.io",
+    "description":"make fragrant."
+}
+---
 
 ==== anumodayanti  ====
   * make fragrant --- [[books:sb:5:16:22|SB 5.16.22]]

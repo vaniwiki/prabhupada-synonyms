@@ -1,5 +1,11 @@
-~~Title:praticchannam~~
-{{description>covered.}}
+---json
+{
+    "name":"praticchannam",
+    "h1":"praticchannam",
+    "title":"praticchannam --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== praticchannam  ====
   * covered --- [[books:sb:7:3:15-16|SB 7.3.15-16]]

@@ -1,5 +1,11 @@
-~~Title:śrutavatyā~~
-{{description>simply by hearing.}}
+---json
+{
+    "name":"śrutavatyā",
+    "h1":"śrutavatyā",
+    "title":"śrutavatyā --- synonyms, prabhupada.io",
+    "description":"simply by hearing."
+}
+---
 
 ==== śrutavatyā  ====
   * simply by hearing --- [[books:sb:3:5:42|SB 3.5.42]]

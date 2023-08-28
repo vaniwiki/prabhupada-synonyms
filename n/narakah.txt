@@ -1,5 +1,11 @@
-~~Title:narakah~~
-{{description>hell.}}
+---json
+{
+    "name":"narakah",
+    "h1":"narakah",
+    "title":"narakah --- synonyms, prabhupada.io",
+    "description":"hell."
+}
+---
 
 ==== narakaḥ  ====
   * hell --- [[books:sb:3:30:29|SB 3.30.29]], [[books:sb:6:17:20|SB 6.17.20]]

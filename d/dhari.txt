@@ -1,5 +1,11 @@
-~~Title:dhari~~
-{{description>accept; assumes; capturing; caught; I hold; I take; including; keeping; placing; taking; touching; we accept.}}
+---json
+{
+    "name":"dhari",
+    "h1":"dhari",
+    "title":"dhari --- synonyms, prabhupada.io",
+    "description":"accept; assumes; capturing; caught; I hold; I take; including; keeping; placing; taking; touching; we accept."
+}
+---
 
 ==== dhari  ====
   * accept --- [[books:cc:adi:9:7|Ādi 9.7]]

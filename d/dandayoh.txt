@@ -1,5 +1,11 @@
-~~Title:daṇḍayoḥ~~
-{{description>taxes and fines.}}
+---json
+{
+    "name":"daṇḍayoḥ",
+    "h1":"daṇḍayoḥ",
+    "title":"daṇḍayoḥ --- synonyms, prabhupada.io",
+    "description":"taxes and fines."
+}
+---
 
 ==== kara-daṇḍayoḥ  ====
   * taxes and fines --- [[books:sb:1:12:32|SB 1.12.32]]

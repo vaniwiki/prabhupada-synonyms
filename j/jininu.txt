@@ -1,5 +1,11 @@
-~~Title:jininu~~
-{{description>conquered.}}
+---json
+{
+    "name":"jininu",
+    "h1":"jininu",
+    "title":"jininu --- synonyms, prabhupada.io",
+    "description":"conquered."
+}
+---
 
 ==== jininu  ====
   * conquered --- [[books:cc:madhya:6:230|Madhya 6.230]]

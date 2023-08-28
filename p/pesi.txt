@@ -1,5 +1,11 @@
-~~Title:peśī~~
-{{description>a lump of flesh.}}
+---json
+{
+    "name":"peśī",
+    "h1":"peśī",
+    "title":"peśī --- synonyms, prabhupada.io",
+    "description":"a lump of flesh."
+}
+---
 
 ==== peśī  ====
   * a lump of flesh --- [[books:sb:3:31:2|SB 3.31.2]]

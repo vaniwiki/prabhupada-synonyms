@@ -1,5 +1,11 @@
-~~Title:anusmaret~~
-{{description>always thinking.}}
+---json
+{
+    "name":"anusmaret",
+    "h1":"anusmaret",
+    "title":"anusmaret --- synonyms, prabhupada.io",
+    "description":"always thinking."
+}
+---
 
 ==== anusmaret  ====
   * always thinking --- [[books:bg:8:9|Bg. 8.9]]

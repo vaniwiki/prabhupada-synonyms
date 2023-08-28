@@ -1,5 +1,11 @@
-~~Title:aicchat~~
-{{description>desired; liked; she desired.}}
+---json
+{
+    "name":"aicchat",
+    "h1":"aicchat",
+    "title":"aicchat --- synonyms, prabhupada.io",
+    "description":"desired; liked; she desired."
+}
+---
 
 ==== aicchat  ====
   * desired --- [[books:sb:4:9:29|SB 4.9.29]], [[books:sb:4:28:14|SB 4.28.14]], [[books:sb:5:14:44|SB 5.14.44]]

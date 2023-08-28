@@ -1,5 +1,11 @@
-~~Title:pranitah~~
-{{description>being thrown; taken away.}}
+---json
+{
+    "name":"pranitah",
+    "h1":"pranitah",
+    "title":"pranitah --- synonyms, prabhupada.io",
+    "description":"being thrown; taken away."
+}
+---
 
 ==== praṇītaḥ  ====
   * being thrown --- [[books:sb:7:9:16|SB 7.9.16]]

@@ -1,5 +1,11 @@
-~~Title:vitīrṇaiḥ~~
-{{description>distributed.}}
+---json
+{
+    "name":"vitīrṇaiḥ",
+    "h1":"vitīrṇaiḥ",
+    "title":"vitīrṇaiḥ --- synonyms, prabhupada.io",
+    "description":"distributed."
+}
+---
 
 ==== vitīrṇaiḥ  ====
   * distributed --- [[books:cc:madhya:8:1|Madhya 8.1]]

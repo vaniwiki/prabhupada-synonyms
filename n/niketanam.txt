@@ -1,5 +1,11 @@
-~~Title:niketanam~~
-{{description>home.}}
+---json
+{
+    "name":"niketanam",
+    "h1":"niketanam",
+    "title":"niketanam --- synonyms, prabhupada.io",
+    "description":"home."
+}
+---
 
 ==== niketanam  ====
   * home --- [[books:sb:4:2:19|SB 4.2.19]]

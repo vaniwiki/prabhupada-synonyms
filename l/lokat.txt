@@ -1,5 +1,11 @@
-~~Title:lokāt~~
-{{description>earth; from one planet; from persons; from the abode; from the defamation of the populace; from the people; persons.}}
+---json
+{
+    "name":"lokāt",
+    "h1":"lokāt",
+    "title":"lokāt --- synonyms, prabhupada.io",
+    "description":"earth; from one planet; from persons; from the abode; from the defamation of the populace; from the people; persons."
+}
+---
 
 ==== lokāt  ====
   * earth --- [[books:sb:3:4:30|SB 3.4.30]]

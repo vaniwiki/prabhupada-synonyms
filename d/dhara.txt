@@ -1,5 +1,11 @@
-~~Title:dhara~~
-{{description>accept; bear; carrying; have; holding; just catch; keep; please place; process; You accept; you bear; You have; You hold.}}
+---json
+{
+    "name":"dhara",
+    "h1":"dhara",
+    "title":"dhara --- synonyms, prabhupada.io",
+    "description":"accept; bear; carrying; have; holding; just catch; keep; please place; process; You accept; you bear; You have; You hold."
+}
+---
 
 ==== dhara  ====
   * accept --- [[books:cc:antya:8:83|Antya 8.83]]

@@ -1,5 +1,11 @@
-~~Title:ambaraiḥ~~
-{{description>with yellow garments.}}
+---json
+{
+    "name":"ambaraiḥ",
+    "h1":"ambaraiḥ",
+    "title":"ambaraiḥ --- synonyms, prabhupada.io",
+    "description":"with yellow garments."
+}
+---
 
 ==== ambaraiḥ  ====
   * with yellow garments --- [[books:sb:8:20:32-33|SB 8.20.32-33]]

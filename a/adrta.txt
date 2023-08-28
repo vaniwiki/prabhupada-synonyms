@@ -1,5 +1,11 @@
-~~Title:adrta~~
-{{description>accepting seriously; being favored.}}
+---json
+{
+    "name":"adrta",
+    "h1":"adrta",
+    "title":"adrta --- synonyms, prabhupada.io",
+    "description":"accepting seriously; being favored."
+}
+---
 
 ==== ādṛta  ====
   * accepting seriously --- [[books:sb:4:24:19|SB 4.24.19]]

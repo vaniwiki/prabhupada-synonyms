@@ -1,5 +1,11 @@
-~~Title:dike~~
-{{description>in the direction.}}
+---json
+{
+    "name":"dike",
+    "h1":"dike",
+    "title":"dike --- synonyms, prabhupada.io",
+    "description":"in the direction."
+}
+---
 
 ==== dike  ====
   * in the direction --- [[books:cc:antya:18:41|Antya 18.41]]

@@ -1,5 +1,11 @@
-~~Title:kaikeyaḥ~~
-{{description>the King of Kekaya.}}
+---json
+{
+    "name":"kaikeyaḥ",
+    "h1":"kaikeyaḥ",
+    "title":"kaikeyaḥ --- synonyms, prabhupada.io",
+    "description":"the King of Kekaya."
+}
+---
 
 ==== kaikeyaḥ  ====
   * the King of Kekaya --- [[books:sb:9:24:38|SB 9.24.38]]

@@ -1,5 +1,11 @@
-~~Title:cauraḥ~~
-{{description>the thief.}}
+---json
+{
+    "name":"cauraḥ",
+    "h1":"cauraḥ",
+    "title":"cauraḥ --- synonyms, prabhupada.io",
+    "description":"the thief."
+}
+---
 
 ==== cauraḥ  ====
   * the thief --- [[books:sb:9:8:9-10|SB 9.8.9-10]]

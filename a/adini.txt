@@ -1,5 +1,11 @@
-~~Title:ādīni~~
-{{description>and others; and so on; beginning with; from the very beginning.}}
+---json
+{
+    "name":"ādīni",
+    "h1":"ādīni",
+    "title":"ādīni --- synonyms, prabhupada.io",
+    "description":"and others; and so on; beginning with; from the very beginning."
+}
+---
 
 ==== ādīni  ====
   * and others --- [[books:sb:5:5:35|SB 5.5.35]]

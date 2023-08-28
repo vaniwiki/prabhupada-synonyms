@@ -1,5 +1,11 @@
-~~Title:vasāile~~
-{{description>you allowed to sit.}}
+---json
+{
+    "name":"vasāile",
+    "h1":"vasāile",
+    "title":"vasāile --- synonyms, prabhupada.io",
+    "description":"you allowed to sit."
+}
+---
 
 ==== vasāile  ====
   * you allowed to sit --- [[books:cc:madhya:15:275|Madhya 15.275]]

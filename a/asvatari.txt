@@ -1,5 +1,11 @@
-~~Title:aśvatari~~
-{{description>mule.}}
+---json
+{
+    "name":"aśvatari",
+    "h1":"aśvatari",
+    "title":"aśvatari --- synonyms, prabhupada.io",
+    "description":"mule."
+}
+---
 
 ==== aśvatari  ====
   * mule --- [[books:sb:2:1:35|SB 2.1.35]]

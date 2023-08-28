@@ -1,5 +1,11 @@
-~~Title:preta~~
-{{description>dead bodies; evil hobgoblins; evil spirits; ghosts; of the Pretas; of the skulls of dead bodies; Pretas; the inhabitants of Pretaloka.}}
+---json
+{
+    "name":"preta",
+    "h1":"preta",
+    "title":"preta --- synonyms, prabhupada.io",
+    "description":"dead bodies; evil hobgoblins; evil spirits; ghosts; of the Pretas; of the skulls of dead bodies; Pretas; the inhabitants of Pretaloka."
+}
+---
 
 ==== preta  ====
   * dead bodies --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

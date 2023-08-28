@@ -1,5 +1,11 @@
-~~Title:nyāsau~~
-{{description>who have fallen down.}}
+---json
+{
+    "name":"nyāsau",
+    "h1":"nyāsau",
+    "title":"nyāsau --- synonyms, prabhupada.io",
+    "description":"who have fallen down."
+}
+---
 
 ==== nyāsau  ====
   * who have fallen down --- [[books:sb:9:14:21|SB 9.14.21]]

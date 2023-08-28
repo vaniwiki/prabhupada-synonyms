@@ -1,5 +1,11 @@
-~~Title:ālambham~~
-{{description>being constantly in contact.}}
+---json
+{
+    "name":"ālambham",
+    "h1":"ālambham",
+    "title":"ālambham --- synonyms, prabhupada.io",
+    "description":"being constantly in contact."
+}
+---
 
 ==== ālambham  ====
   * being constantly in contact --- [[books:sb:7:7:37|SB 7.7.37]]

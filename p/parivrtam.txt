@@ -1,5 +1,11 @@
-~~Title:parivrtam~~
-{{description>covered by; enveloped.}}
+---json
+{
+    "name":"parivrtam",
+    "h1":"parivrtam",
+    "title":"parivrtam --- synonyms, prabhupada.io",
+    "description":"covered by; enveloped."
+}
+---
 
 ==== parivṛtam  ====
   * covered by --- [[books:sb:3:32:9|SB 3.32.9]]

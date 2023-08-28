@@ -1,5 +1,11 @@
-~~Title:śayyāya~~
-{{description>on my bed.}}
+---json
+{
+    "name":"śayyāya",
+    "h1":"śayyāya",
+    "title":"śayyāya --- synonyms, prabhupada.io",
+    "description":"on my bed."
+}
+---
 
 ==== śayyāya  ====
   * on my bed --- [[books:cc:madhya:11:116|Madhya 11.116]]

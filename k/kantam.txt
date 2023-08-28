@@ -1,5 +1,11 @@
-~~Title:kāntam~~
-{{description>as it desires; charming.}}
+---json
+{
+    "name":"kāntam",
+    "h1":"kāntam",
+    "title":"kāntam --- synonyms, prabhupada.io",
+    "description":"as it desires; charming."
+}
+---
 
 ==== kāntam  ====
   * as it desires --- [[books:sb:1:6:18|SB 1.6.18]]

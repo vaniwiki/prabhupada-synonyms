@@ -1,5 +1,11 @@
-~~Title:saṁyamanaḥ~~
-{{description>controller of death.}}
+---json
+{
+    "name":"saṁyamanaḥ",
+    "h1":"saṁyamanaḥ",
+    "title":"saṁyamanaḥ --- synonyms, prabhupada.io",
+    "description":"controller of death."
+}
+---
 
 ==== saṁyamanaḥ  ====
   * controller of death --- [[books:sb:3:5:20|SB 3.5.20]]

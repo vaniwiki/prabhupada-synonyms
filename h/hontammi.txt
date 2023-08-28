@@ -1,5 +1,11 @@
-~~Title:hontammi~~
-{{description>is.}}
+---json
+{
+    "name":"hontammi",
+    "h1":"hontammi",
+    "title":"hontammi --- synonyms, prabhupada.io",
+    "description":"is."
+}
+---
 
 ==== hontammi  ====
   * is --- [[books:cc:madhya:2:42|Madhya 2.42]]

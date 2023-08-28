@@ -1,5 +1,11 @@
-~~Title:tatatata~~
-{{description>as much as.}}
+---json
+{
+    "name":"tatatata",
+    "h1":"tatatata",
+    "title":"tatatata --- synonyms, prabhupada.io",
+    "description":"as much as."
+}
+---
 
 ==== tatatata  ====
   * as much as --- [[books:cc:adi:7:28|Ādi 7.28]]

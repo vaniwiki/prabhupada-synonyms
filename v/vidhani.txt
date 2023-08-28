@@ -1,5 +1,11 @@
-~~Title:vidhāni~~
-{{description>in this way.}}
+---json
+{
+    "name":"vidhāni",
+    "h1":"vidhāni",
+    "title":"vidhāni --- synonyms, prabhupada.io",
+    "description":"in this way."
+}
+---
 
 ==== evam vidhāni  ====
   * in this way --- [[books:sb:7:10:70|SB 7.10.70]]

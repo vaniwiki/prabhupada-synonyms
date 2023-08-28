@@ -1,5 +1,11 @@
-~~Title:vikurvat~~
-{{description>being transformed; due to transformation.}}
+---json
+{
+    "name":"vikurvat",
+    "h1":"vikurvat",
+    "title":"vikurvat --- synonyms, prabhupada.io",
+    "description":"being transformed; due to transformation."
+}
+---
 
 ==== vikurvat  ====
   * being transformed --- [[books:sb:3:5:33|SB 3.5.33]], [[books:sb:3:5:35|SB 3.5.35]]

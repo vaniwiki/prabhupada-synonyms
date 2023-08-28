@@ -1,5 +1,11 @@
-~~Title:adhigate~~
-{{description>perceived.}}
+---json
+{
+    "name":"adhigate",
+    "h1":"adhigate",
+    "title":"adhigate --- synonyms, prabhupada.io",
+    "description":"perceived."
+}
+---
 
 ==== adhigate  ====
   * perceived --- [[books:sb:5:1:27|SB 5.1.27]]

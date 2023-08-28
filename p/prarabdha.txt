@@ -1,5 +1,11 @@
-~~Title:prārabdha~~
-{{description>the reaction of previous activities.}}
+---json
+{
+    "name":"prārabdha",
+    "h1":"prārabdha",
+    "title":"prārabdha --- synonyms, prabhupada.io",
+    "description":"the reaction of previous activities."
+}
+---
 
 ==== prārabdha  ====
   * the reaction of previous activities --- [[books:cc:antya:6:40|Antya 6.40]]

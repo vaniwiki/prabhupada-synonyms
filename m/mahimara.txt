@@ -1,5 +1,11 @@
-~~Title:mahimāra~~
-{{description>of the glories.}}
+---json
+{
+    "name":"mahimāra",
+    "h1":"mahimāra",
+    "title":"mahimāra --- synonyms, prabhupada.io",
+    "description":"of the glories."
+}
+---
 
 ==== mahimāra  ====
   * of the glories --- [[books:cc:adi:3:53|Ādi 3.53]], [[books:cc:antya:3:271|Antya 3.271]]

@@ -1,5 +1,11 @@
-~~Title:saudarya~~
-{{description>of her sisters.}}
+---json
+{
+    "name":"saudarya",
+    "h1":"saudarya",
+    "title":"saudarya --- synonyms, prabhupada.io",
+    "description":"of her sisters."
+}
+---
 
 ==== saudarya  ====
   * of her sisters --- [[books:sb:4:4:8|SB 4.4.8]]

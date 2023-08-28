@@ -1,5 +1,11 @@
-~~Title:sammāni'~~
-{{description>respecting everyone.}}
+---json
+{
+    "name":"sammāni'",
+    "h1":"sammāni'",
+    "title":"sammāni' --- synonyms, prabhupada.io",
+    "description":"respecting everyone."
+}
+---
 
 ==== sabāre sammāni'  ====
   * respecting everyone --- [[books:cc:madhya:11:161|Madhya 11.161]]

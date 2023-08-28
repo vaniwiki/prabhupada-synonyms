@@ -1,5 +1,11 @@
-~~Title:paravyoma~~
-{{description>the spiritual sky.}}
+---json
+{
+    "name":"paravyoma",
+    "h1":"paravyoma",
+    "title":"paravyoma --- synonyms, prabhupada.io",
+    "description":"the spiritual sky."
+}
+---
 
 ==== paravyoma  ====
   * the spiritual sky --- [[books:cc:madhya:20:212|Madhya 20.212]]

@@ -1,5 +1,11 @@
-~~Title:tomāraśāstra~~
-{{description>your scripture (the Koran).}}
+---json
+{
+    "name":"tomāraśāstra",
+    "h1":"tomāraśāstra",
+    "title":"tomāraśāstra --- synonyms, prabhupada.io",
+    "description":"your scripture (the Koran)."
+}
+---
 
 ==== tomāraśāstra  ====
   * your scripture (the Koran) --- [[books:cc:madhya:18:189|Madhya 18.189]]

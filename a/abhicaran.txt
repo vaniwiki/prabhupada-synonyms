@@ -1,5 +1,11 @@
-~~Title:abhicaran~~
-{{description>acting malevolently; desiring victory over the enemy.}}
+---json
+{
+    "name":"abhicaran",
+    "h1":"abhicaran",
+    "title":"abhicaran --- synonyms, prabhupada.io",
+    "description":"acting malevolently; desiring victory over the enemy."
+}
+---
 
 ==== abhicaran  ====
   * acting malevolently --- [[books:sb:3:19:13|SB 3.19.13]]

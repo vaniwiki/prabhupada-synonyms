@@ -1,5 +1,11 @@
-~~Title:anusmaraṇāt~~
-{{description>constantly remembering.}}
+---json
+{
+    "name":"anusmaraṇāt",
+    "h1":"anusmaraṇāt",
+    "title":"anusmaraṇāt --- synonyms, prabhupada.io",
+    "description":"constantly remembering."
+}
+---
 
 ==== anusmaraṇāt  ====
   * constantly remembering --- [[books:sb:4:20:29|SB 4.20.29]]

@@ -1,5 +1,11 @@
-~~Title:janama~~
-{{description>my life; the birth; the births.}}
+---json
+{
+    "name":"janama",
+    "h1":"janama",
+    "title":"janama --- synonyms, prabhupada.io",
+    "description":"my life; the birth; the births."
+}
+---
 
 ==== janama  ====
   * my life --- [[books:cc:madhya:20:99|Madhya 20.99]]

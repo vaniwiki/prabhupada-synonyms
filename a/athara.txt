@@ -1,5 +1,11 @@
-~~Title:āṭhāra~~
-{{description>eighteen.}}
+---json
+{
+    "name":"āṭhāra",
+    "h1":"āṭhāra",
+    "title":"āṭhāra --- synonyms, prabhupada.io",
+    "description":"eighteen."
+}
+---
 
 ==== āṭhāra  ====
   * eighteen --- [[books:cc:madhya:1:249|Madhya 1.249]]

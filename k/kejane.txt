@@ -1,5 +1,11 @@
-~~Title:kejāne~~
-{{description>who can understand.}}
+---json
+{
+    "name":"kejāne",
+    "h1":"kejāne",
+    "title":"kejāne --- synonyms, prabhupada.io",
+    "description":"who can understand."
+}
+---
 
 ==== kejāne  ====
   * who can understand --- [[books:cc:antya:1:210|Antya 1.210]]

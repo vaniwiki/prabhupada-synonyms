@@ -1,5 +1,11 @@
-~~Title:bakulera~~
-{{description>of bakula flower trees.}}
+---json
+{
+    "name":"bakulera",
+    "h1":"bakulera",
+    "title":"bakulera --- synonyms, prabhupada.io",
+    "description":"of bakula flower trees."
+}
+---
 
 ==== puṣpa-bakulera  ====
   * of //bakula// flower trees --- [[books:cc:madhya:1:157|Madhya 1.157]]

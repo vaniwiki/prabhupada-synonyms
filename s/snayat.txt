@@ -1,5 +1,11 @@
-~~Title:snāyāt~~
-{{description>must bathe; one should bathe.}}
+---json
+{
+    "name":"snāyāt",
+    "h1":"snāyāt",
+    "title":"snāyāt --- synonyms, prabhupada.io",
+    "description":"must bathe; one should bathe."
+}
+---
 
 ==== snāyāt  ====
   * must bathe --- [[books:sb:6:18:48|SB 6.18.48]]

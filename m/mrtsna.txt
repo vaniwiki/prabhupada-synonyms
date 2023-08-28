@@ -1,5 +1,11 @@
-~~Title:mṛtsnā~~
-{{description>like the earth.}}
+---json
+{
+    "name":"mṛtsnā",
+    "h1":"mṛtsnā",
+    "title":"mṛtsnā --- synonyms, prabhupada.io",
+    "description":"like the earth."
+}
+---
 
 ==== mṛtsnā iva  ====
   * like the earth --- [[books:sb:8:6:10|SB 8.6.10]]

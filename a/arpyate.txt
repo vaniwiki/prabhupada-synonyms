@@ -1,5 +1,11 @@
-~~Title:arpyate~~
-{{description>is placed.}}
+---json
+{
+    "name":"arpyate",
+    "h1":"arpyate",
+    "title":"arpyate --- synonyms, prabhupada.io",
+    "description":"is placed."
+}
+---
 
 ==== arpyate  ====
   * is placed --- [[books:sb:7:7:27|SB 7.7.27]]

@@ -1,5 +1,11 @@
-~~Title:sāmrājya~~
-{{description>a great empire; imperial; the entire empire.}}
+---json
+{
+    "name":"sāmrājya",
+    "h1":"sāmrājya",
+    "title":"sāmrājya --- synonyms, prabhupada.io",
+    "description":"a great empire; imperial; the entire empire."
+}
+---
 
 ==== sāmrājya  ====
   * a great empire --- [[books:sb:6:14:25|SB 6.14.25]]

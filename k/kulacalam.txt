@@ -1,5 +1,11 @@
-~~Title:kulācalam~~
-{{description>known as Mandara; unto Kulācala.}}
+---json
+{
+    "name":"kulācalam",
+    "h1":"kulācalam",
+    "title":"kulācalam --- synonyms, prabhupada.io",
+    "description":"known as Mandara; unto Kulācala."
+}
+---
 
 ==== kulācalam  ====
   * known as Mandara --- [[books:sb:8:7:9|SB 8.7.9]]

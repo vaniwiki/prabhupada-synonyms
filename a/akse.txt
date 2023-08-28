@@ -1,5 +1,11 @@
-~~Title:akṣe~~
-{{description>in that axle.}}
+---json
+{
+    "name":"akṣe",
+    "h1":"akṣe",
+    "title":"akṣe --- synonyms, prabhupada.io",
+    "description":"in that axle."
+}
+---
 
 ==== tasmin akṣe  ====
   * in that axle --- [[books:sb:5:21:14|SB 5.21.14]]

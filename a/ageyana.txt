@@ -1,5 +1,11 @@
-~~Title:ageyāna~~
-{{description>ignorant; more advanced.}}
+---json
+{
+    "name":"ageyāna",
+    "h1":"ageyāna",
+    "title":"ageyāna --- synonyms, prabhupada.io",
+    "description":"ignorant; more advanced."
+}
+---
 
 ==== ageyāna  ====
   * ignorant --- [[books:cc:madhya:2:21|Madhya 2.21]]

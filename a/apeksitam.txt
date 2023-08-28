@@ -1,5 +1,11 @@
-~~Title:apekṣitam~~
-{{description>qualified.}}
+---json
+{
+    "name":"apekṣitam",
+    "h1":"apekṣitam",
+    "title":"apekṣitam --- synonyms, prabhupada.io",
+    "description":"qualified."
+}
+---
 
 ==== apekṣitam  ====
   * qualified --- [[books:sb:8:8:23|SB 8.8.23]]

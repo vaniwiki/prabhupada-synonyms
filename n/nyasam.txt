@@ -1,5 +1,11 @@
-~~Title:nyāsam~~
-{{description>in the renounced order of life; renunciation; the regular ritualistic ceremonies of the sannyāsa order.}}
+---json
+{
+    "name":"nyāsam",
+    "h1":"nyāsam",
+    "title":"nyāsam --- synonyms, prabhupada.io",
+    "description":"in the renounced order of life; renunciation; the regular ritualistic ceremonies of the sannyāsa order."
+}
+---
 
 ==== nyāsam  ====
   * in the renounced order of life --- [[books:sb:9:6:53|SB 9.6.53]]

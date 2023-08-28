@@ -1,5 +1,11 @@
-~~Title:yugaḥ~~
-{{description>whose two feet.}}
+---json
+{
+    "name":"yugaḥ",
+    "h1":"yugaḥ",
+    "title":"yugaḥ --- synonyms, prabhupada.io",
+    "description":"whose two feet."
+}
+---
 
 ==== aṅghri-yugaḥ  ====
   * whose two feet --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

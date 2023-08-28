@@ -1,5 +1,11 @@
-~~Title:kāśandi~~
-{{description>ādā-kāśandi.}}
+---json
+{
+    "name":"kāśandi",
+    "h1":"kāśandi",
+    "title":"kāśandi --- synonyms, prabhupada.io",
+    "description":"ādā-kāśandi."
+}
+---
 
 ==== ādā-kāśandi  ====
   * //ādā-kāśandi// --- [[books:cc:antya:10:15-16|Antya 10.15-16]]

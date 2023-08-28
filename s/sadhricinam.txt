@@ -1,5 +1,11 @@
-~~Title:sadhrīcīnam~~
-{{description>completely correct.}}
+---json
+{
+    "name":"sadhrīcīnam",
+    "h1":"sadhrīcīnam",
+    "title":"sadhrīcīnam --- synonyms, prabhupada.io",
+    "description":"completely correct."
+}
+---
 
 ==== sadhrīcīnam  ====
   * completely correct --- [[books:sb:6:5:33|SB 6.5.33]]

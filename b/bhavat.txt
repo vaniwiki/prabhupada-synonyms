@@ -1,5 +1,11 @@
-~~Title:bhavat~~
-{{description>all that is being created; and whatever was created in the past; of You; present; you; Your; your good self; yourself.}}
+---json
+{
+    "name":"bhavat",
+    "h1":"bhavat",
+    "title":"bhavat --- synonyms, prabhupada.io",
+    "description":"all that is being created; and whatever was created in the past; of You; present; you; Your; your good self; yourself."
+}
+---
 
 ==== bhavat  ====
   * all that is being created --- [[books:sb:2:5:3|SB 2.5.3]]

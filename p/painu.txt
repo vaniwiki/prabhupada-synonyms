@@ -1,5 +1,11 @@
-~~Title:pāinu~~
-{{description>got; had; I got; I have gotten; I have gotten in return; I was able; we found.}}
+---json
+{
+    "name":"pāinu",
+    "h1":"pāinu",
+    "title":"pāinu --- synonyms, prabhupada.io",
+    "description":"got; had; I got; I have gotten; I have gotten in return; I was able; we found."
+}
+---
 
 ==== pāinu  ====
   * got --- [[books:cc:adi:5:232|Ādi 5.232]]

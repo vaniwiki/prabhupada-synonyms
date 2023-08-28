@@ -1,5 +1,11 @@
-~~Title:bhāskaram~~
-{{description>the sun.}}
+---json
+{
+    "name":"bhāskaram",
+    "h1":"bhāskaram",
+    "title":"bhāskaram --- synonyms, prabhupada.io",
+    "description":"the sun."
+}
+---
 
 ==== bhāskaram  ====
   * the sun --- [[books:sb:3:11:29|SB 3.11.29]]

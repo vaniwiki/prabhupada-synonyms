@@ -1,5 +1,11 @@
-~~Title:avilupta~~
-{{description>extinct.}}
+---json
+{
+    "name":"avilupta",
+    "h1":"avilupta",
+    "title":"avilupta --- synonyms, prabhupada.io",
+    "description":"extinct."
+}
+---
 
 ==== avilupta  ====
   * extinct --- [[books:sb:3:7:5|SB 3.7.5]]

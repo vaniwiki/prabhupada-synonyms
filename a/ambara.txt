@@ -1,5 +1,11 @@
-~~Title:ambara~~
-{{description>clothing; dress; dresses; like the sky; sky.}}
+---json
+{
+    "name":"ambara",
+    "h1":"ambara",
+    "title":"ambara --- synonyms, prabhupada.io",
+    "description":"clothing; dress; dresses; like the sky; sky."
+}
+---
 
 ==== ambara  ====
   * clothing --- [[books:sb:5:16:24|SB 5.16.24]]

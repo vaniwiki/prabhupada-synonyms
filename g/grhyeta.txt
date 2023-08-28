@@ -1,5 +1,11 @@
-~~Title:gṛhyeta~~
-{{description>should be accepted.}}
+---json
+{
+    "name":"gṛhyeta",
+    "h1":"gṛhyeta",
+    "title":"gṛhyeta --- synonyms, prabhupada.io",
+    "description":"should be accepted."
+}
+---
 
 ==== gṛhyeta  ====
   * should be accepted --- [[books:sb:3:13:10|SB 3.13.10]]

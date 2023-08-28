@@ -1,5 +1,11 @@
-~~Title:tumio~~
-{{description>you also.}}
+---json
+{
+    "name":"tumio",
+    "h1":"tumio",
+    "title":"tumio --- synonyms, prabhupada.io",
+    "description":"you also."
+}
+---
 
 ==== tumio  ====
   * you also --- [[books:cc:madhya:1:74|Madhya 1.74]]

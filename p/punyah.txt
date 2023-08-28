@@ -1,5 +1,11 @@
-~~Title:punyah~~
-{{description>original.}}
+---json
+{
+    "name":"punyah",
+    "h1":"punyah",
+    "title":"punyah --- synonyms, prabhupada.io",
+    "description":"original."
+}
+---
 
 ==== puṇyaḥ  ====
   * original --- [[books:bg:7:9|Bg. 7.9]]

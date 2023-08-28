@@ -1,5 +1,11 @@
-~~Title:dhanyam~~
-{{description>auspicious; bestowing wealth; brings wealth; conferring wealth; fully successful; glorious; increases one's fortune; the source of riches; with the desire for an increase of opulence.}}
+---json
+{
+    "name":"dhanyam",
+    "h1":"dhanyam",
+    "title":"dhanyam --- synonyms, prabhupada.io",
+    "description":"auspicious; bestowing wealth; brings wealth; conferring wealth; fully successful; glorious; increases one's fortune; the source of riches; with the desire for an increase of opulence."
+}
+---
 
 ==== dhanyam  ====
   * auspicious --- [[books:cc:madhya:7:1|Madhya 7.1]]

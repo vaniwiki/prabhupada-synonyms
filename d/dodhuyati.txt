@@ -1,5 +1,11 @@
-~~Title:dodhūyati~~
-{{description>rapidly blowing.}}
+---json
+{
+    "name":"dodhūyati",
+    "h1":"dodhūyati",
+    "title":"dodhūyati --- synonyms, prabhupada.io",
+    "description":"rapidly blowing."
+}
+---
 
 ==== dodhūyati  ====
   * rapidly blowing --- [[books:sb:2:10:20|SB 2.10.20]]

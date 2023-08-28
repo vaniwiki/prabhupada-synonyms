@@ -1,5 +1,11 @@
-~~Title:dīkṣāra~~
-{{description>of initiation.}}
+---json
+{
+    "name":"dīkṣāra",
+    "h1":"dīkṣāra",
+    "title":"dīkṣāra --- synonyms, prabhupada.io",
+    "description":"of initiation."
+}
+---
 
 ==== dīkṣāra  ====
   * of initiation --- [[books:cc:antya:3:241|Antya 3.241]]

@@ -1,5 +1,11 @@
-~~Title:oṁkāra~~
-{{description>beginning with oṁkāra.}}
+---json
+{
+    "name":"oṁkāra",
+    "h1":"oṁkāra",
+    "title":"oṁkāra --- synonyms, prabhupada.io",
+    "description":"beginning with oṁkāra."
+}
+---
 
 ==== oṁkāra-ādīni  ====
   * beginning with //oṁkāra// --- [[books:sb:6:8:4-6|SB 6.8.4-6]]

@@ -1,5 +1,11 @@
-~~Title:yuktānām~~
-{{description>of the animals with hands, like the tigers.}}
+---json
+{
+    "name":"yuktānām",
+    "h1":"yuktānām",
+    "title":"yuktānām --- synonyms, prabhupada.io",
+    "description":"of the animals with hands, like the tigers."
+}
+---
 
 ==== hasta-yuktānām  ====
   * of the animals with hands, like the tigers --- [[books:sb:6:4:9|SB 6.4.9]]

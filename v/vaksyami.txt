@@ -1,5 +1,11 @@
-~~Title:vakṣyāmi~~
-{{description>describing; I shall explain; I shall now explain; I shall speak; say; shall explain; speaking.}}
+---json
+{
+    "name":"vakṣyāmi",
+    "h1":"vakṣyāmi",
+    "title":"vakṣyāmi --- synonyms, prabhupada.io",
+    "description":"describing; I shall explain; I shall now explain; I shall speak; say; shall explain; speaking."
+}
+---
 
 ==== vakṣyāmi  ====
   * describing --- [[books:bg:8:23|Bg. 8.23]]

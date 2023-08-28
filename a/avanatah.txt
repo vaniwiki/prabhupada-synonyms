@@ -1,5 +1,11 @@
-~~Title:avanataḥ~~
-{{description>very respectfully bowing down.}}
+---json
+{
+    "name":"avanataḥ",
+    "h1":"avanataḥ",
+    "title":"avanataḥ --- synonyms, prabhupada.io",
+    "description":"very respectfully bowing down."
+}
+---
 
 ==== avanataḥ  ====
   * very respectfully bowing down --- [[books:sb:9:9:3|SB 9.9.3]]

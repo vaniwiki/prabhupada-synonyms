@@ -1,5 +1,11 @@
-~~Title:aśapan~~
-{{description>cursed.}}
+---json
+{
+    "name":"aśapan",
+    "h1":"aśapan",
+    "title":"aśapan --- synonyms, prabhupada.io",
+    "description":"cursed."
+}
+---
 
 ==== aśapan  ====
   * cursed --- [[books:sb:7:1:38|SB 7.1.38]]

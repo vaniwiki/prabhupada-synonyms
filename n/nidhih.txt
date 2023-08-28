@@ -1,5 +1,11 @@
-~~Title:nidhiḥ~~
-{{description>treasure.}}
+---json
+{
+    "name":"nidhiḥ",
+    "h1":"nidhiḥ",
+    "title":"nidhiḥ --- synonyms, prabhupada.io",
+    "description":"treasure."
+}
+---
 
 ==== nidhiḥ  ====
   * treasure --- [[books:cc:antya:19:35|Antya 19.35]]

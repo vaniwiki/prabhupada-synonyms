@@ -1,5 +1,11 @@
-~~Title:bandhūnām~~
-{{description>of the friends.}}
+---json
+{
+    "name":"bandhūnām",
+    "h1":"bandhūnām",
+    "title":"bandhūnām --- synonyms, prabhupada.io",
+    "description":"of the friends."
+}
+---
 
 ==== bandhūnām  ====
   * of the friends --- [[books:sb:1:11:21|SB 1.11.21]]

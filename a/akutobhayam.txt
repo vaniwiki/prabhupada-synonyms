@@ -1,5 +1,11 @@
-~~Title:akutobhayam~~
-{{description>without fear.}}
+---json
+{
+    "name":"akutobhayam",
+    "h1":"akutobhayam",
+    "title":"akutobhayam --- synonyms, prabhupada.io",
+    "description":"without fear."
+}
+---
 
 ==== akutobhayam  ====
   * without fear --- [[books:sb:10:6:18|SB 10.6.18]]

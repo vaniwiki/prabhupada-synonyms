@@ -1,5 +1,11 @@
-~~Title:diksitah~~
-{{description>inspired.}}
+---json
+{
+    "name":"diksitah",
+    "h1":"diksitah",
+    "title":"diksitah --- synonyms, prabhupada.io",
+    "description":"inspired."
+}
+---
 
 ==== dīkṣitaḥ  ====
   * inspired --- [[books:sb:4:27:11|SB 4.27.11]]

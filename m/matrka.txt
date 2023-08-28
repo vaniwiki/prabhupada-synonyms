@@ -1,5 +1,11 @@
-~~Title:mātṛkā~~
-{{description>Mātṛkā.}}
+---json
+{
+    "name":"mātṛkā",
+    "h1":"mātṛkā",
+    "title":"mātṛkā --- synonyms, prabhupada.io",
+    "description":"Mātṛkā."
+}
+---
 
 ==== mātṛkā  ====
   * Mātṛkā --- [[books:sb:6:6:42|SB 6.6.42]]

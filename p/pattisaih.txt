@@ -1,5 +1,11 @@
-~~Title:paṭṭiśaiḥ~~
-{{description>with the weapons called paṭṭiśa.}}
+---json
+{
+    "name":"paṭṭiśaiḥ",
+    "h1":"paṭṭiśaiḥ",
+    "title":"paṭṭiśaiḥ --- synonyms, prabhupada.io",
+    "description":"with the weapons called paṭṭiśa."
+}
+---
 
 ==== paṭṭiśaiḥ  ====
   * with the weapons called //paṭṭiśa// --- [[books:sb:8:10:36|SB 8.10.36]]

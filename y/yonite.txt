@@ -1,5 +1,11 @@
-~~Title:yonite~~
-{{description>in species of life.}}
+---json
+{
+    "name":"yonite",
+    "h1":"yonite",
+    "title":"yonite --- synonyms, prabhupada.io",
+    "description":"in species of life."
+}
+---
 
 ==== yonite  ====
   * in species of life --- [[books:cc:madhya:19:138|Madhya 19.138]]

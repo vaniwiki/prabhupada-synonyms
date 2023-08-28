@@ -1,5 +1,11 @@
-~~Title:udasta~~
-{{description>bulged out.}}
+---json
+{
+    "name":"udasta",
+    "h1":"udasta",
+    "title":"udasta --- synonyms, prabhupada.io",
+    "description":"bulged out."
+}
+---
 
 ==== udasta  ====
   * bulged out --- [[books:sb:3:19:26|SB 3.19.26]]

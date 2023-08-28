@@ -1,5 +1,11 @@
-~~Title:ādikam~~
-{{description>symptoms.}}
+---json
+{
+    "name":"ādikam",
+    "h1":"ādikam",
+    "title":"ādikam --- synonyms, prabhupada.io",
+    "description":"symptoms."
+}
+---
 
 ==== ādikam  ====
   * symptoms --- [[books:sb:4:23:21|SB 4.23.21]]

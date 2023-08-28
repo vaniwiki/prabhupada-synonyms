@@ -1,5 +1,11 @@
-~~Title:matah~~
-{{description>approved; considered; decision; in My opinion; in our opinion; is approved; is celebrated; is considered; is well-known; opinion; regarded.}}
+---json
+{
+    "name":"matah",
+    "h1":"matah",
+    "title":"matah --- synonyms, prabhupada.io",
+    "description":"approved; considered; decision; in My opinion; in our opinion; is approved; is celebrated; is considered; is well-known; opinion; regarded."
+}
+---
 
 ==== mataḥ  ====
   * approved --- [[books:sb:3:14:44-45|SB 3.14.44-45]]

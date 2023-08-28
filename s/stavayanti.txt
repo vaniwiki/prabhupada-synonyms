@@ -1,5 +1,11 @@
-~~Title:stavayanti~~
-{{description>offer prayers.}}
+---json
+{
+    "name":"stavayanti",
+    "h1":"stavayanti",
+    "title":"stavayanti --- synonyms, prabhupada.io",
+    "description":"offer prayers."
+}
+---
 
 ==== stavayanti  ====
   * offer prayers --- [[books:sb:4:15:23|SB 4.15.23]]

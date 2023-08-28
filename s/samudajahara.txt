@@ -1,5 +1,11 @@
-~~Title:samudājahāra~~
-{{description>chanted.}}
+---json
+{
+    "name":"samudājahāra",
+    "h1":"samudājahāra",
+    "title":"samudājahāra --- synonyms, prabhupada.io",
+    "description":"chanted."
+}
+---
 
 ==== samudājahāra  ====
   * chanted --- [[books:sb:5:14:45|SB 5.14.45]]

@@ -1,5 +1,11 @@
-~~Title:eyivān~~
-{{description>achieved.}}
+---json
+{
+    "name":"eyivān",
+    "h1":"eyivān",
+    "title":"eyivān --- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== eyivān  ====
   * achieved --- [[books:sb:9:14:49|SB 9.14.49]]

@@ -1,5 +1,11 @@
-~~Title:vyādha~~
-{{description>a hunter; hunter; my dear hunter; O hunter; the hunter.}}
+---json
+{
+    "name":"vyādha",
+    "h1":"vyādha",
+    "title":"vyādha --- synonyms, prabhupada.io",
+    "description":"a hunter; hunter; my dear hunter; O hunter; the hunter."
+}
+---
 
 ==== vyādha  ====
   * a hunter --- [[books:cc:madhya:24:227|Madhya 24.227]]

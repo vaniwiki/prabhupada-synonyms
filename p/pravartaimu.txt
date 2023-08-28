@@ -1,5 +1,11 @@
-~~Title:pravartāimu~~
-{{description>I shall inaugurate.}}
+---json
+{
+    "name":"pravartāimu",
+    "h1":"pravartāimu",
+    "title":"pravartāimu --- synonyms, prabhupada.io",
+    "description":"I shall inaugurate."
+}
+---
 
 ==== pravartāimu  ====
   * I shall inaugurate --- [[books:cc:adi:3:19|Ādi 3.19]]

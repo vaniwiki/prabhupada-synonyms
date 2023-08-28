@@ -1,5 +1,11 @@
-~~Title:kahile~~
-{{description>describing; have said; if one speaks; if spoken; if we say; if You say; informed; speaking; You have spoken; You spoke.}}
+---json
+{
+    "name":"kahile",
+    "h1":"kahile",
+    "title":"kahile --- synonyms, prabhupada.io",
+    "description":"describing; have said; if one speaks; if spoken; if we say; if You say; informed; speaking; You have spoken; You spoke."
+}
+---
 
 ==== kahile  ====
   * describing --- [[books:cc:adi:10:41|Ādi 10.41]], [[books:cc:antya:5:71|Antya 5.71]]

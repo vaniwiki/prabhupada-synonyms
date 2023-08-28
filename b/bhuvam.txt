@@ -1,5 +1,11 @@
-~~Title:bhuvam~~
-{{description>the earth; the surface of the earth; to the planet earth.}}
+---json
+{
+    "name":"bhuvam",
+    "h1":"bhuvam",
+    "title":"bhuvam --- synonyms, prabhupada.io",
+    "description":"the earth; the surface of the earth; to the planet earth."
+}
+---
 
 ==== bhuvam  ====
   * the earth --- [[books:sb:3:22:31|SB 3.22.31]], [[books:sb:4:10:27|SB 4.10.27]], [[books:sb:8:1:8|SB 8.1.8]]

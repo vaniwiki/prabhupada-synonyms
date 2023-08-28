@@ -1,5 +1,11 @@
-~~Title:āmāsaha~~
-{{description>with Me.}}
+---json
+{
+    "name":"āmāsaha",
+    "h1":"āmāsaha",
+    "title":"āmāsaha --- synonyms, prabhupada.io",
+    "description":"with Me."
+}
+---
 
 ==== āmāsaha  ====
   * with Me --- [[books:cc:madhya:19:57|Madhya 19.57]]

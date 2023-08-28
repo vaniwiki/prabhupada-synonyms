@@ -1,5 +1,11 @@
-~~Title:apramatta~~
-{{description>without inebriation.}}
+---json
+{
+    "name":"apramatta",
+    "h1":"apramatta",
+    "title":"apramatta --- synonyms, prabhupada.io",
+    "description":"without inebriation."
+}
+---
 
 ==== apramatta  ====
   * without inebriation --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

@@ -1,5 +1,11 @@
-~~Title:vicalat~~
-{{description>rotating.}}
+---json
+{
+    "name":"vicalat",
+    "h1":"vicalat",
+    "title":"vicalat --- synonyms, prabhupada.io",
+    "description":"rotating."
+}
+---
 
 ==== vicalat  ====
   * rotating --- [[books:sb:6:12:3|SB 6.12.3]]

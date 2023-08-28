@@ -1,5 +1,11 @@
-~~Title:ānuśravika~~
-{{description>according to scripture.}}
+---json
+{
+    "name":"ānuśravika",
+    "h1":"ānuśravika",
+    "title":"ānuśravika --- synonyms, prabhupada.io",
+    "description":"according to scripture."
+}
+---
 
 ==== ānuśravika  ====
   * according to scripture --- [[books:sb:3:25:32|SB 3.25.32]]

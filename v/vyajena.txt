@@ -1,5 +1,11 @@
-~~Title:vyājena~~
-{{description>on the plea.}}
+---json
+{
+    "name":"vyājena",
+    "h1":"vyājena",
+    "title":"vyājena --- synonyms, prabhupada.io",
+    "description":"on the plea."
+}
+---
 
 ==== vyājena  ====
   * on the plea --- [[books:sb:4:24:6|SB 4.24.6]]

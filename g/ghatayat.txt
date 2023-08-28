@@ -1,5 +1,11 @@
-~~Title:ghātayat~~
-{{description>caused to be killed.}}
+---json
+{
+    "name":"ghātayat",
+    "h1":"ghātayat",
+    "title":"ghātayat --- synonyms, prabhupada.io",
+    "description":"caused to be killed."
+}
+---
 
 ==== ghātayat  ====
   * caused to be killed --- [[books:sb:3:3:11|SB 3.3.11]]

@@ -1,5 +1,11 @@
-~~Title:mahābala~~
-{{description>great strength.}}
+---json
+{
+    "name":"mahābala",
+    "h1":"mahābala",
+    "title":"mahābala --- synonyms, prabhupada.io",
+    "description":"great strength."
+}
+---
 
 ==== mahābala  ====
   * great strength --- [[books:cc:adi:11:59|Ādi 11.59]]

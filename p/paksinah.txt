@@ -1,5 +1,11 @@
-~~Title:pakṣiṇaḥ~~
-{{description>birds.}}
+---json
+{
+    "name":"pakṣiṇaḥ",
+    "h1":"pakṣiṇaḥ",
+    "title":"pakṣiṇaḥ --- synonyms, prabhupada.io",
+    "description":"birds."
+}
+---
 
 ==== pakṣiṇaḥ  ====
   * birds --- [[books:sb:5:26:13|SB 5.26.13]]

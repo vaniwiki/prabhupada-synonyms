@@ -1,5 +1,11 @@
-~~Title:laukika~~
-{{description>ordinary; popular.}}
+---json
+{
+    "name":"laukika",
+    "h1":"laukika",
+    "title":"laukika --- synonyms, prabhupada.io",
+    "description":"ordinary; popular."
+}
+---
 
 ==== laukika  ====
   * ordinary --- [[books:cc:madhya:17:161|Madhya 17.161]], [[books:cc:antya:8:1|Antya 8.1]]

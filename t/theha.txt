@@ -1,5 +1,11 @@
-~~Title:theha~~
-{{description>patience.}}
+---json
+{
+    "name":"theha",
+    "h1":"theha",
+    "title":"theha --- synonyms, prabhupada.io",
+    "description":"patience."
+}
+---
 
 ==== theha  ====
   * patience --- [[books:cc:madhya:9:339|Madhya 9.339]]

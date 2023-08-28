@@ -1,5 +1,11 @@
-~~Title:akūpārāya~~
-{{description>in the form of a tortoise.}}
+---json
+{
+    "name":"akūpārāya",
+    "h1":"akūpārāya",
+    "title":"akūpārāya --- synonyms, prabhupada.io",
+    "description":"in the form of a tortoise."
+}
+---
 
 ==== akūpārāya  ====
   * in the form of a tortoise --- [[books:sb:5:18:30|SB 5.18.30]]

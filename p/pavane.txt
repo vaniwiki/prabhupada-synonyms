@@ -1,5 +1,11 @@
-~~Title:pavane~~
-{{description>breezes; when the whirlwind.}}
+---json
+{
+    "name":"pavane",
+    "h1":"pavane",
+    "title":"pavane --- synonyms, prabhupada.io",
+    "description":"breezes; when the whirlwind."
+}
+---
 
 ==== pavane  ====
   * breezes --- [[books:cc:madhya:14:97|Madhya 14.97]]

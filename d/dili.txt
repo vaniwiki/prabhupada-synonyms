@@ -1,5 +1,11 @@
-~~Title:dili~~
-{{description>you have come to see Me.}}
+---json
+{
+    "name":"dili",
+    "h1":"dili",
+    "title":"dili --- synonyms, prabhupada.io",
+    "description":"you have come to see Me."
+}
+---
 
 ==== dili daraśana  ====
   * you have come to see Me --- [[books:cc:antya:6:47|Antya 6.47]]

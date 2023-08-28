@@ -1,5 +1,11 @@
-~~Title:upagūḍham~~
-{{description>submerged.}}
+---json
+{
+    "name":"upagūḍham",
+    "h1":"upagūḍham",
+    "title":"upagūḍham --- synonyms, prabhupada.io",
+    "description":"submerged."
+}
+---
 
 ==== upagūḍham  ====
   * submerged --- [[books:sb:3:8:30|SB 3.8.30]]

@@ -1,5 +1,11 @@
-~~Title:niravakāśe~~
-{{description>without support.}}
+---json
+{
+    "name":"niravakāśe",
+    "h1":"niravakāśe",
+    "title":"niravakāśe --- synonyms, prabhupada.io",
+    "description":"without support."
+}
+---
 
 ==== niravakāśe  ====
   * without support --- [[books:sb:5:26:28|SB 5.26.28]]

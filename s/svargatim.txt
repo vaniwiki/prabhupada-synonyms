@@ -1,5 +1,11 @@
-~~Title:svargatim~~
-{{description>passage to heaven.}}
+---json
+{
+    "name":"svargatim",
+    "h1":"svargatim",
+    "title":"svargatim --- synonyms, prabhupada.io",
+    "description":"passage to heaven."
+}
+---
 
 ==== svargatim  ====
   * passage to heaven --- [[books:bg:9:20|Bg. 9.20]]

@@ -1,5 +1,11 @@
-~~Title:kriyāt~~
-{{description>may perform.}}
+---json
+{
+    "name":"kriyāt",
+    "h1":"kriyāt",
+    "title":"kriyāt --- synonyms, prabhupada.io",
+    "description":"may perform."
+}
+---
 
 ==== kriyāt  ====
   * may perform --- [[books:cc:madhya:14:180|Madhya 14.180]]

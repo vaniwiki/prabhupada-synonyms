@@ -1,5 +1,11 @@
-~~Title:udañcati~~
-{{description>appears.}}
+---json
+{
+    "name":"udañcati",
+    "h1":"udañcati",
+    "title":"udañcati --- synonyms, prabhupada.io",
+    "description":"appears."
+}
+---
 
 ==== udañcati  ====
   * appears --- [[books:cc:madhya:8:111|Madhya 8.111]], [[books:cc:madhya:14:163|Madhya 14.163]]

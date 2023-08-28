@@ -1,5 +1,11 @@
-~~Title:saṁyujām~~
-{{description>meeting.}}
+---json
+{
+    "name":"saṁyujām",
+    "h1":"saṁyujām",
+    "title":"saṁyujām --- synonyms, prabhupada.io",
+    "description":"meeting."
+}
+---
 
 ==== saṁyujām  ====
   * meeting --- [[books:cc:madhya:8:93|Madhya 8.93]]

@@ -1,5 +1,11 @@
-~~Title:kuṭhāreṇa~~
-{{description>by his axe.}}
+---json
+{
+    "name":"kuṭhāreṇa",
+    "h1":"kuṭhāreṇa",
+    "title":"kuṭhāreṇa --- synonyms, prabhupada.io",
+    "description":"by his axe."
+}
+---
 
 ==== kuṭhāreṇa  ====
   * by his axe --- [[books:sb:9:15:34|SB 9.15.34]]

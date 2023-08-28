@@ -1,5 +1,11 @@
-~~Title:anvaśikṣan~~
-{{description>took instructions.}}
+---json
+{
+    "name":"anvaśikṣan",
+    "h1":"anvaśikṣan",
+    "title":"anvaśikṣan --- synonyms, prabhupada.io",
+    "description":"took instructions."
+}
+---
 
 ==== anvaśikṣan  ====
   * took instructions --- [[books:sb:8:1:22|SB 8.1.22]]

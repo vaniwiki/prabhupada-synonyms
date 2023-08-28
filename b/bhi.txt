@@ -1,5 +1,11 @@
-~~Title:bhī~~
-{{description>Kṛṣṇa, who is Himself the fearful element of all kinds of fear (when Kṛṣṇa is present, there is no fear).}}
+---json
+{
+    "name":"bhī",
+    "h1":"bhī",
+    "title":"bhī --- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa, who is Himself the fearful element of all kinds of fear (when Kṛṣṇa is present, there is no fear)."
+}
+---
 
 ==== kṛṣṇaḥ asya bhī-bhayam  ====
   * Kṛṣṇa, who is Himself the fearful element of all kinds of fear (when Kṛṣṇa is present, there is no fear) --- [[books:sb:10:13:13|SB 10.13.13]]

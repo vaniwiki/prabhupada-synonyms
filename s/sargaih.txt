@@ -1,5 +1,11 @@
-~~Title:sargaiḥ~~
-{{description>with their descendants.}}
+---json
+{
+    "name":"sargaiḥ",
+    "h1":"sargaiḥ",
+    "title":"sargaiḥ --- synonyms, prabhupada.io",
+    "description":"with their descendants."
+}
+---
 
 ==== sargaiḥ  ====
   * with their descendants --- [[books:sb:4:1:46-47|SB 4.1.46-47]]

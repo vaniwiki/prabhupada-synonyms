@@ -1,5 +1,11 @@
-~~Title:avispaṣṭa~~
-{{description>not being distinctly visible.}}
+---json
+{
+    "name":"avispaṣṭa",
+    "h1":"avispaṣṭa",
+    "title":"avispaṣṭa --- synonyms, prabhupada.io",
+    "description":"not being distinctly visible."
+}
+---
 
 ==== avispaṣṭa  ====
   * not being distinctly visible --- [[books:sb:5:10:5|SB 5.10.5]]

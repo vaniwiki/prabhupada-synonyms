@@ -1,5 +1,11 @@
-~~Title:dhairyam~~
-{{description>freedom from disturbance; patience; what self-control.}}
+---json
+{
+    "name":"dhairyam",
+    "h1":"dhairyam",
+    "title":"dhairyam --- synonyms, prabhupada.io",
+    "description":"freedom from disturbance; patience; what self-control."
+}
+---
 
 ==== dhairyam  ====
   * freedom from disturbance --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

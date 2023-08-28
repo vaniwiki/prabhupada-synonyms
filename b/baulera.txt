@@ -1,5 +1,11 @@
-~~Title:bāulera~~
-{{description>almost like madmen; just like a madman.}}
+---json
+{
+    "name":"bāulera",
+    "h1":"bāulera",
+    "title":"bāulera --- synonyms, prabhupada.io",
+    "description":"almost like madmen; just like a madman."
+}
+---
 
 ==== bāulera prāya  ====
   * almost like madmen --- [[books:cc:madhya:16:166|Madhya 16.166]]

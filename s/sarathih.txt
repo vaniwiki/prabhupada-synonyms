@@ -1,5 +1,11 @@
-~~Title:sārathiḥ~~
-{{description>driver; the charioteer.}}
+---json
+{
+    "name":"sārathiḥ",
+    "h1":"sārathiḥ",
+    "title":"sārathiḥ --- synonyms, prabhupada.io",
+    "description":"driver; the charioteer."
+}
+---
 
 ==== sārathiḥ  ====
   * driver --- [[books:sb:2:1:18|SB 2.1.18]]

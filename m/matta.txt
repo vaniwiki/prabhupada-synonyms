@@ -1,5 +1,11 @@
-~~Title:matta~~
-{{description>a drunkard; absorbed; always maddened; captivated; drunken; intoxicated; mad; maddened; merry; overjoyed; overwhelmed, intoxicated.}}
+---json
+{
+    "name":"matta",
+    "h1":"matta",
+    "title":"matta --- synonyms, prabhupada.io",
+    "description":"a drunkard; absorbed; always maddened; captivated; drunken; intoxicated; mad; maddened; merry; overjoyed; overwhelmed, intoxicated."
+}
+---
 
 ==== matta  ====
   * a drunkard --- [[books:sb:5:10:13|SB 5.10.13]]

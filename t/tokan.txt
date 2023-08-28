@@ -1,5 +1,11 @@
-~~Title:tokān~~
-{{description>the small children.}}
+---json
+{
+    "name":"tokān",
+    "h1":"tokān",
+    "title":"tokān --- synonyms, prabhupada.io",
+    "description":"the small children."
+}
+---
 
 ==== tokān  ====
   * the small children --- [[books:sb:10:8:29|SB 10.8.29]]

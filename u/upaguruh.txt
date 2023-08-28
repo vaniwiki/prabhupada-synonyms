@@ -1,5 +1,11 @@
-~~Title:upaguruḥ~~
-{{description>Upaguru.}}
+---json
+{
+    "name":"upaguruḥ",
+    "h1":"upaguruḥ",
+    "title":"upaguruḥ --- synonyms, prabhupada.io",
+    "description":"Upaguru."
+}
+---
 
 ==== upaguruḥ  ====
   * Upaguru --- [[books:sb:9:13:24|SB 9.13.24]]

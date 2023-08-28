@@ -1,5 +1,11 @@
-~~Title:suna~~
-{{description>animal slaughter; envy.}}
+---json
+{
+    "name":"suna",
+    "h1":"suna",
+    "title":"suna --- synonyms, prabhupada.io",
+    "description":"animal slaughter; envy."
+}
+---
 
 ==== sūnā  ====
   * animal slaughter --- [[books:sb:1:17:38|SB 1.17.38]]

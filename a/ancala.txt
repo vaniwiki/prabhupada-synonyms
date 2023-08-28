@@ -1,5 +1,11 @@
-~~Title:ancala~~
-{{description>spreading His cloth; spreading My cloth.}}
+---json
+{
+    "name":"ancala",
+    "h1":"ancala",
+    "title":"ancala --- synonyms, prabhupada.io",
+    "description":"spreading His cloth; spreading My cloth."
+}
+---
 
 ==== āṅcala pātiyā  ====
   * spreading His cloth --- [[books:cc:antya:11:73|Antya 11.73]]

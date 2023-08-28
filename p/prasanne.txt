@@ -1,5 +1,11 @@
-~~Title:prasanne~~
-{{description>being pleased.}}
+---json
+{
+    "name":"prasanne",
+    "h1":"prasanne",
+    "title":"prasanne --- synonyms, prabhupada.io",
+    "description":"being pleased."
+}
+---
 
 ==== prasanne  ====
   * being pleased --- [[books:sb:3:13:49|SB 3.13.49]]

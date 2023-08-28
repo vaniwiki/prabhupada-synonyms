@@ -1,5 +1,11 @@
-~~Title:vikīrṇa~~
-{{description>scattered.}}
+---json
+{
+    "name":"vikīrṇa",
+    "h1":"vikīrṇa",
+    "title":"vikīrṇa --- synonyms, prabhupada.io",
+    "description":"scattered."
+}
+---
 
 ==== vikīrṇa  ====
   * scattered --- [[books:sb:1:19:27|SB 1.19.27]]

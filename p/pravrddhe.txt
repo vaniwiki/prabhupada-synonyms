@@ -1,5 +1,11 @@
-~~Title:pravṛddhe~~
-{{description>in development.}}
+---json
+{
+    "name":"pravṛddhe",
+    "h1":"pravṛddhe",
+    "title":"pravṛddhe --- synonyms, prabhupada.io",
+    "description":"in development."
+}
+---
 
 ==== pravṛddhe  ====
   * in development --- [[books:bg:14:14|Bg. 14.14]]

@@ -1,5 +1,11 @@
-~~Title:dharaya~~
-{{description>with Dharā.}}
+---json
+{
+    "name":"dharaya",
+    "h1":"dharaya",
+    "title":"dharaya --- synonyms, prabhupada.io",
+    "description":"with Dharā."
+}
+---
 
 ==== dharayā  ====
   * with Dharā --- [[books:sb:10:8:48|SB 10.8.48]]

@@ -1,5 +1,11 @@
-~~Title:vyatiriktam~~
-{{description>illusion; separate.}}
+---json
+{
+    "name":"vyatiriktam",
+    "h1":"vyatiriktam",
+    "title":"vyatiriktam --- synonyms, prabhupada.io",
+    "description":"illusion; separate."
+}
+---
 
 ==== vyatiriktam  ====
   * illusion --- [[books:sb:5:11:6|SB 5.11.6]]

@@ -1,5 +1,11 @@
-~~Title:vinaṣṭe~~
-{{description>being spoiled.}}
+---json
+{
+    "name":"vinaṣṭe",
+    "h1":"vinaṣṭe",
+    "title":"vinaṣṭe --- synonyms, prabhupada.io",
+    "description":"being spoiled."
+}
+---
 
 ==== vinaṣṭe  ====
   * being spoiled --- [[books:sb:4:14:16|SB 4.14.16]]

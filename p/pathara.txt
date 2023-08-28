@@ -1,5 +1,11 @@
-~~Title:pāthara~~
-{{description>a stone; stone.}}
+---json
+{
+    "name":"pāthara",
+    "h1":"pāthara",
+    "title":"pāthara --- synonyms, prabhupada.io",
+    "description":"a stone; stone."
+}
+---
 
 ==== pāthara  ====
   * a stone --- [[books:cc:antya:8:97|Antya 8.97]]

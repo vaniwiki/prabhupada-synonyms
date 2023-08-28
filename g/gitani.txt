@@ -1,5 +1,11 @@
-~~Title:gītāni~~
-{{description>narrations; songs.}}
+---json
+{
+    "name":"gītāni",
+    "h1":"gītāni",
+    "title":"gītāni --- synonyms, prabhupada.io",
+    "description":"narrations; songs."
+}
+---
 
 ==== gītāni  ====
   * narrations --- [[books:sb:7:10:70|SB 7.10.70]]

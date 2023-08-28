@@ -1,5 +1,11 @@
-~~Title:stambhila~~
-{{description>stopped.}}
+---json
+{
+    "name":"stambhila",
+    "h1":"stambhila",
+    "title":"stambhila --- synonyms, prabhupada.io",
+    "description":"stopped."
+}
+---
 
 ==== stambhila  ====
   * stopped --- [[books:cc:antya:20:57|Antya 20.57]]

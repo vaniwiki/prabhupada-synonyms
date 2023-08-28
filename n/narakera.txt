@@ -1,5 +1,11 @@
-~~Title:narakera~~
-{{description>to hell.}}
+---json
+{
+    "name":"narakera",
+    "h1":"narakera",
+    "title":"narakera --- synonyms, prabhupada.io",
+    "description":"to hell."
+}
+---
 
 ==== narakera  ====
   * to hell --- [[books:cc:madhya:9:267|Madhya 9.267]]

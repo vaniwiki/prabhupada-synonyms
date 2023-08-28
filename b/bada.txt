@@ -1,5 +1,11 @@
-~~Title:bada~~
-{{description>advanced; big; exalted; expert; great; greater; greatest; highly advanced; is very much; most exalted; much; the topmost; very; very big; very great; very much.}}
+---json
+{
+    "name":"bada",
+    "h1":"bada",
+    "title":"bada --- synonyms, prabhupada.io",
+    "description":"advanced; big; exalted; expert; great; greater; greatest; highly advanced; is very much; most exalted; much; the topmost; very; very big; very great; very much."
+}
+---
 
 ==== baḍa  ====
   * advanced --- [[books:cc:madhya:13:197|Madhya 13.197]]

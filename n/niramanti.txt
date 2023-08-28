@@ -1,5 +1,11 @@
-~~Title:niramanti~~
-{{description>take pleasure.}}
+---json
+{
+    "name":"niramanti",
+    "h1":"niramanti",
+    "title":"niramanti --- synonyms, prabhupada.io",
+    "description":"take pleasure."
+}
+---
 
 ==== niramanti  ====
   * take pleasure --- [[books:sb:1:5:10|SB 1.5.10]]

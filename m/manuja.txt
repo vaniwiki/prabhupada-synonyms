@@ -1,5 +1,11 @@
-~~Title:manuja~~
-{{description>the human beings and so on.}}
+---json
+{
+    "name":"manuja",
+    "h1":"manuja",
+    "title":"manuja --- synonyms, prabhupada.io",
+    "description":"the human beings and so on."
+}
+---
 
 ==== manuja-ādayaḥ  ====
   * the human beings and so on --- [[books:sb:6:14:3|SB 6.14.3]]

@@ -1,5 +1,11 @@
-~~Title:āhartum~~
-{{description>to apply.}}
+---json
+{
+    "name":"āhartum",
+    "h1":"āhartum",
+    "title":"āhartum --- synonyms, prabhupada.io",
+    "description":"to apply."
+}
+---
 
 ==== āhartum  ====
   * to apply --- [[books:sb:4:19:33|SB 4.19.33]]

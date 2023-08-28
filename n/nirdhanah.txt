@@ -1,5 +1,11 @@
-~~Title:nirdhanaḥ~~
-{{description>without any money.}}
+---json
+{
+    "name":"nirdhanaḥ",
+    "h1":"nirdhanaḥ",
+    "title":"nirdhanaḥ --- synonyms, prabhupada.io",
+    "description":"without any money."
+}
+---
 
 ==== nirdhanaḥ  ====
   * without any money --- [[books:sb:4:23:33|SB 4.23.33]]

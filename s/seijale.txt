@@ -1,5 +1,11 @@
-~~Title:seijale~~
-{{description>by that water.}}
+---json
+{
+    "name":"seijale",
+    "h1":"seijale",
+    "title":"seijale --- synonyms, prabhupada.io",
+    "description":"by that water."
+}
+---
 
 ==== seijale  ====
   * by that water --- [[books:cc:adi:12:5|Ādi 12.5]]

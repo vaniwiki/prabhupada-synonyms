@@ -1,5 +1,11 @@
-~~Title:aṁhasau~~
-{{description>whose sins.}}
+---json
+{
+    "name":"aṁhasau",
+    "h1":"aṁhasau",
+    "title":"aṁhasau --- synonyms, prabhupada.io",
+    "description":"whose sins."
+}
+---
 
 ==== aṁhasau  ====
   * whose sins --- [[books:sb:7:1:46|SB 7.1.46]]

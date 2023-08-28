@@ -1,5 +1,11 @@
-~~Title:protam~~
-{{description>breadthwise; fixed on; latitude; lengthwise; strung.}}
+---json
+{
+    "name":"protam",
+    "h1":"protam",
+    "title":"protam --- synonyms, prabhupada.io",
+    "description":"breadthwise; fixed on; latitude; lengthwise; strung."
+}
+---
 
 ==== protam  ====
   * breadthwise --- [[books:cc:adi:13:77|Ādi 13.77]]

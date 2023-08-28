@@ -1,5 +1,11 @@
-~~Title:sameti~~
-{{description>achieves; comes near.}}
+---json
+{
+    "name":"sameti",
+    "h1":"sameti",
+    "title":"sameti --- synonyms, prabhupada.io",
+    "description":"achieves; comes near."
+}
+---
 
 ==== sameti  ====
   * achieves --- [[books:sb:7:7:36|SB 7.7.36]]

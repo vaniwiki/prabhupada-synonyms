@@ -1,5 +1,11 @@
-~~Title:upadānavīm~~
-{{description>Upadānavī.}}
+---json
+{
+    "name":"upadānavīm",
+    "h1":"upadānavīm",
+    "title":"upadānavīm --- synonyms, prabhupada.io",
+    "description":"Upadānavī."
+}
+---
 
 ==== upadānavīm  ====
   * Upadānavī --- [[books:sb:6:6:33-36|SB 6.6.33-36]]

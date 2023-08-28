@@ -1,5 +1,11 @@
-~~Title:karavīrau~~
-{{description>two mountains named Kailāsa and Karavīra.}}
+---json
+{
+    "name":"karavīrau",
+    "h1":"karavīrau",
+    "title":"karavīrau --- synonyms, prabhupada.io",
+    "description":"two mountains named Kailāsa and Karavīra."
+}
+---
 
 ==== kailāsa-karavīrau  ====
   * two mountains named Kailāsa and Karavīra --- [[books:sb:5:16:27|SB 5.16.27]]

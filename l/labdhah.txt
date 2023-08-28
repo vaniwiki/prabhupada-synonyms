@@ -1,5 +1,11 @@
-~~Title:labdhah~~
-{{description>obtained; so achieved.}}
+---json
+{
+    "name":"labdhah",
+    "h1":"labdhah",
+    "title":"labdhah --- synonyms, prabhupada.io",
+    "description":"obtained; so achieved."
+}
+---
 
 ==== labdhaḥ  ====
   * obtained --- [[books:cc:madhya:11:151|Madhya 11.151]]

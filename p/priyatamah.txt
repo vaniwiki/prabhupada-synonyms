@@ -1,5 +1,11 @@
-~~Title:priyatamaḥ~~
-{{description>very dear.}}
+---json
+{
+    "name":"priyatamaḥ",
+    "h1":"priyatamaḥ",
+    "title":"priyatamaḥ --- synonyms, prabhupada.io",
+    "description":"very dear."
+}
+---
 
 ==== priyatamaḥ  ====
   * very dear --- [[books:sb:2:9:41|SB 2.9.41]]

@@ -1,5 +1,11 @@
-~~Title:sulakṣaṇa~~
-{{description>full of auspicious signs.}}
+---json
+{
+    "name":"sulakṣaṇa",
+    "h1":"sulakṣaṇa",
+    "title":"sulakṣaṇa --- synonyms, prabhupada.io",
+    "description":"full of auspicious signs."
+}
+---
 
 ==== sulakṣaṇa-maya  ====
   * full of auspicious signs --- [[books:cc:adi:13:116|Ādi 13.116]]

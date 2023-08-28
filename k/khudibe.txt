@@ -1,5 +1,11 @@
-~~Title:khudibe~~
-{{description>if you dig; you will dig.}}
+---json
+{
+    "name":"khudibe",
+    "h1":"khudibe",
+    "title":"khudibe --- synonyms, prabhupada.io",
+    "description":"if you dig; you will dig."
+}
+---
 
 ==== khudibe  ====
   * if you dig --- [[books:cc:madhya:20:133|Madhya 20.133]]

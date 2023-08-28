@@ -1,5 +1,11 @@
-~~Title:vallabhāt~~
-{{description>from the dearmost.}}
+---json
+{
+    "name":"vallabhāt",
+    "h1":"vallabhāt",
+    "title":"vallabhāt --- synonyms, prabhupada.io",
+    "description":"from the dearmost."
+}
+---
 
 ==== vallabhāt  ====
   * from the dearmost --- [[books:sb:4:24:77|SB 4.24.77]]

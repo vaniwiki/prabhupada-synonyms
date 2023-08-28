@@ -1,5 +1,11 @@
-~~Title:hvayāmahe~~
-{{description>we shall call.}}
+---json
+{
+    "name":"hvayāmahe",
+    "h1":"hvayāmahe",
+    "title":"hvayāmahe --- synonyms, prabhupada.io",
+    "description":"we shall call."
+}
+---
 
 ==== hvayāmahe  ====
   * we shall call --- [[books:sb:4:19:28|SB 4.19.28]]

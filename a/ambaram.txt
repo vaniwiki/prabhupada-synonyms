@@ -1,5 +1,11 @@
-~~Title:ambaram~~
-{{description>clothing; her garments; into the sky; robes; the covering of his body; the sky.}}
+---json
+{
+    "name":"ambaram",
+    "h1":"ambaram",
+    "title":"ambaram --- synonyms, prabhupada.io",
+    "description":"clothing; her garments; into the sky; robes; the covering of his body; the sky."
+}
+---
 
 ==== ambaram  ====
   * clothing --- [[books:sb:3:21:9|SB 3.21.9]]

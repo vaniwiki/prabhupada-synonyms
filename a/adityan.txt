@@ -1,5 +1,11 @@
-~~Title:ādityān~~
-{{description>the twelve sons of Aditi.}}
+---json
+{
+    "name":"ādityān",
+    "h1":"ādityān",
+    "title":"ādityān --- synonyms, prabhupada.io",
+    "description":"the twelve sons of Aditi."
+}
+---
 
 ==== ādityān  ====
   * the twelve sons of Aditi --- [[books:bg:11:6|Bg. 11.6]]

@@ -1,5 +1,11 @@
-~~Title:kuṇḍīra~~
-{{description>of the four pots.}}
+---json
+{
+    "name":"kuṇḍīra",
+    "h1":"kuṇḍīra",
+    "title":"kuṇḍīra --- synonyms, prabhupada.io",
+    "description":"of the four pots."
+}
+---
 
 ==== cāri kuṇḍīra  ====
   * of the four pots --- [[books:cc:antya:6:94|Antya 6.94]]

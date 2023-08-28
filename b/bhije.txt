@@ -1,5 +1,11 @@
-~~Title:bhije~~
-{{description>remains wet; wet.}}
+---json
+{
+    "name":"bhije",
+    "h1":"bhije",
+    "title":"bhije --- synonyms, prabhupada.io",
+    "description":"remains wet; wet."
+}
+---
 
 ==== bhije  ====
   * remains wet --- [[books:cc:antya:6:292|Antya 6.292]]

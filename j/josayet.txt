@@ -1,5 +1,11 @@
-~~Title:joṣayet~~
-{{description>dovetailed.}}
+---json
+{
+    "name":"joṣayet",
+    "h1":"joṣayet",
+    "title":"joṣayet --- synonyms, prabhupada.io",
+    "description":"dovetailed."
+}
+---
 
 ==== joṣayet  ====
   * dovetailed --- [[books:bg:3:26|Bg. 3.26]]

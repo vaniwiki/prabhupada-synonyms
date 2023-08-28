@@ -1,5 +1,11 @@
-~~Title:tvadīya~~
-{{description>Your.}}
+---json
+{
+    "name":"tvadīya",
+    "h1":"tvadīya",
+    "title":"tvadīya --- synonyms, prabhupada.io",
+    "description":"Your."
+}
+---
 
 ==== tvadīya  ====
   * Your --- [[books:sb:3:9:5|SB 3.9.5]]

@@ -1,5 +1,11 @@
-~~Title:saṅkalpam~~
-{{description>disappointed.}}
+---json
+{
+    "name":"saṅkalpam",
+    "h1":"saṅkalpam",
+    "title":"saṅkalpam --- synonyms, prabhupada.io",
+    "description":"disappointed."
+}
+---
 
 ==== bhagna-saṅkalpam  ====
   * disappointed --- [[books:sb:7:10:61|SB 7.10.61]]

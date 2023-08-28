@@ -1,5 +1,11 @@
-~~Title:dīrghikā~~
-{{description>the Ganges flowing in the heavenly planets.}}
+---json
+{
+    "name":"dīrghikā",
+    "h1":"dīrghikā",
+    "title":"dīrghikā --- synonyms, prabhupada.io",
+    "description":"the Ganges flowing in the heavenly planets."
+}
+---
 
 ==== vihāra-sura-dīrghikā  ====
   * the Ganges flowing in the heavenly planets --- [[books:cc:antya:1:191|Antya 1.191]]

@@ -1,5 +1,11 @@
-~~Title:āhāra~~
-{{description>eatables; eating; food.}}
+---json
+{
+    "name":"āhāra",
+    "h1":"āhāra",
+    "title":"āhāra --- synonyms, prabhupada.io",
+    "description":"eatables; eating; food."
+}
+---
 
 ==== āhāra  ====
   * eatables --- [[books:cc:madhya:4:29|Madhya 4.29]]

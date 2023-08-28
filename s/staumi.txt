@@ -1,5 +1,11 @@
-~~Title:staumi~~
-{{description>praise.}}
+---json
+{
+    "name":"staumi",
+    "h1":"staumi",
+    "title":"staumi --- synonyms, prabhupada.io",
+    "description":"praise."
+}
+---
 
 ==== staumi  ====
   * praise --- [[books:sb:7:13:42|SB 7.13.42]]

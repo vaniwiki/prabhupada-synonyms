@@ -1,5 +1,11 @@
-~~Title:pihitān~~
-{{description>placed.}}
+---json
+{
+    "name":"pihitān",
+    "h1":"pihitān",
+    "title":"pihitān --- synonyms, prabhupada.io",
+    "description":"placed."
+}
+---
 
 ==== pihitān  ====
   * placed --- [[books:sb:2:7:31|SB 2.7.31]]

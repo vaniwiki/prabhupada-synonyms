@@ -1,5 +1,11 @@
-~~Title:sulabha~~
-{{description>very easily appreciated.}}
+---json
+{
+    "name":"sulabha",
+    "h1":"sulabha",
+    "title":"sulabha --- synonyms, prabhupada.io",
+    "description":"very easily appreciated."
+}
+---
 
 ==== sulabha  ====
   * very easily appreciated --- [[books:cc:madhya:21:119|Madhya 21.119]]

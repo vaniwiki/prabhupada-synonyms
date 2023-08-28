@@ -1,5 +1,11 @@
-~~Title:ksipta~~
-{{description>defeating.}}
+---json
+{
+    "name":"ksipta",
+    "h1":"ksipta",
+    "title":"ksipta --- synonyms, prabhupada.io",
+    "description":"defeating."
+}
+---
 
 ==== kṣipta  ====
   * defeating --- [[books:sb:4:24:49|SB 4.24.49]]

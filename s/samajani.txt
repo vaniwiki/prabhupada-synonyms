@@ -1,5 +1,11 @@
-~~Title:samajani~~
-{{description>took birth.}}
+---json
+{
+    "name":"samajani",
+    "h1":"samajani",
+    "title":"samajani --- synonyms, prabhupada.io",
+    "description":"took birth."
+}
+---
 
 ==== samajani  ====
   * took birth --- [[books:cc:adi:1:6|Ādi 1.6]], [[books:cc:adi:4:230|Ādi 4.230]]

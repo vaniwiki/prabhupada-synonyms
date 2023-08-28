@@ -1,5 +1,11 @@
-~~Title:pravaṇam~~
-{{description>fixing on them.}}
+---json
+{
+    "name":"pravaṇam",
+    "h1":"pravaṇam",
+    "title":"pravaṇam --- synonyms, prabhupada.io",
+    "description":"fixing on them."
+}
+---
 
 ==== tat-pravaṇam  ====
   * fixing on them --- [[books:sb:4:1:26-27|SB 4.1.26-27]]

@@ -1,5 +1,11 @@
-~~Title:labdhyā~~
-{{description>by gaining.}}
+---json
+{
+    "name":"labdhyā",
+    "h1":"labdhyā",
+    "title":"labdhyā --- synonyms, prabhupada.io",
+    "description":"by gaining."
+}
+---
 
 ==== labdhyā  ====
   * by gaining --- [[books:noi:5|NoI 5]]

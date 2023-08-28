@@ -1,5 +1,11 @@
-~~Title:padite~~
-{{description>reciting; to drop; to fall down; to read; to recite; to study; while reading.}}
+---json
+{
+    "name":"padite",
+    "h1":"padite",
+    "title":"padite --- synonyms, prabhupada.io",
+    "description":"reciting; to drop; to fall down; to read; to recite; to study; while reading."
+}
+---
 
 ==== paḍite  ====
   * reciting --- [[books:cc:madhya:4:198|Madhya 4.198]], [[books:cc:antya:13:128|Antya 13.128]]

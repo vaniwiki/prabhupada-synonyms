@@ -1,5 +1,11 @@
-~~Title:śilāra~~
-{{description>of this stone.}}
+---json
+{
+    "name":"śilāra",
+    "h1":"śilāra",
+    "title":"śilāra --- synonyms, prabhupada.io",
+    "description":"of this stone."
+}
+---
 
 ==== ei śilāra  ====
   * of this stone --- [[books:cc:antya:6:295|Antya 6.295]]

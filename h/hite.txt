@@ -1,5 +1,11 @@
-~~Title:hite~~
-{{description>for the benefit; in welfare work.}}
+---json
+{
+    "name":"hite",
+    "h1":"hite",
+    "title":"hite --- synonyms, prabhupada.io",
+    "description":"for the benefit; in welfare work."
+}
+---
 
 ==== hite  ====
   * for the benefit --- [[books:cc:madhya:8:32|Madhya 8.32]]

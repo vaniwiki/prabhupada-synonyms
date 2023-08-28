@@ -1,5 +1,11 @@
-~~Title:pūrvataram~~
-{{description>ancient predecessors.}}
+---json
+{
+    "name":"pūrvataram",
+    "h1":"pūrvataram",
+    "title":"pūrvataram --- synonyms, prabhupada.io",
+    "description":"ancient predecessors."
+}
+---
 
 ==== pūrvataram  ====
   * ancient predecessors --- [[books:bg:4:15|Bg. 4.15]]

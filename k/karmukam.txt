@@ -1,5 +1,11 @@
-~~Title:kārmukam~~
-{{description>a bow.}}
+---json
+{
+    "name":"kārmukam",
+    "h1":"kārmukam",
+    "title":"kārmukam --- synonyms, prabhupada.io",
+    "description":"a bow."
+}
+---
 
 ==== kārmukam  ====
   * a bow --- [[books:sb:9:15:28|SB 9.15.28]]

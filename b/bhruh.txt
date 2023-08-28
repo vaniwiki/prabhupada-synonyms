@@ -1,5 +1,11 @@
-~~Title:bhrūḥ~~
-{{description>eyebrows.}}
+---json
+{
+    "name":"bhrūḥ",
+    "h1":"bhrūḥ",
+    "title":"bhrūḥ --- synonyms, prabhupada.io",
+    "description":"eyebrows."
+}
+---
 
 ==== bhrūḥ  ====
   * eyebrows --- [[books:sb:3:21:22|SB 3.21.22]]

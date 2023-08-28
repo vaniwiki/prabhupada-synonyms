@@ -1,5 +1,11 @@
-~~Title:citām~~
-{{description>unto the fire.}}
+---json
+{
+    "name":"citām",
+    "h1":"citām",
+    "title":"citām --- synonyms, prabhupada.io",
+    "description":"unto the fire."
+}
+---
 
 ==== citām  ====
   * unto the fire --- [[books:sb:4:23:21|SB 4.23.21]]

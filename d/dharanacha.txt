@@ -1,5 +1,11 @@
-~~Title:dharāñācha~~
-{{description>you have given.}}
+---json
+{
+    "name":"dharāñācha",
+    "h1":"dharāñācha",
+    "title":"dharāñācha --- synonyms, prabhupada.io",
+    "description":"you have given."
+}
+---
 
 ==== dharāñācha  ====
   * you have given --- [[books:cc:antya:10:144|Antya 10.144]]

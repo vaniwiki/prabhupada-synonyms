@@ -1,5 +1,11 @@
-~~Title:mahimānam~~
-{{description>glories; greatness; Mahimā; the glory.}}
+---json
+{
+    "name":"mahimānam",
+    "h1":"mahimānam",
+    "title":"mahimānam --- synonyms, prabhupada.io",
+    "description":"glories; greatness; Mahimā; the glory."
+}
+---
 
 ==== mahimānam  ====
   * glories --- [[books:bg:11:41-42|Bg. 11.41-42]], [[books:sb:4:12:40|SB 4.12.40]], [[books:sb:8:24:38|SB 8.24.38]]

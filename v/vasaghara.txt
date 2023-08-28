@@ -1,5 +1,11 @@
-~~Title:vāsāghara~~
-{{description>to His residence.}}
+---json
+{
+    "name":"vāsāghara",
+    "h1":"vāsāghara",
+    "title":"vāsāghara --- synonyms, prabhupada.io",
+    "description":"to His residence."
+}
+---
 
 ==== vāsāghara  ====
   * to His residence --- [[books:cc:adi:7:152|Ādi 7.152]]

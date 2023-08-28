@@ -1,5 +1,11 @@
-~~Title:sandarśanam~~
-{{description>seeing; the seeing (for some material purpose).}}
+---json
+{
+    "name":"sandarśanam",
+    "h1":"sandarśanam",
+    "title":"sandarśanam --- synonyms, prabhupada.io",
+    "description":"seeing; the seeing (for some material purpose)."
+}
+---
 
 ==== sandarśanam  ====
   * seeing --- [[books:sb:3:20:35|SB 3.20.35]]

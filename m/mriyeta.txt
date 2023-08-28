@@ -1,5 +1,11 @@
-~~Title:mriyeta~~
-{{description>should die.}}
+---json
+{
+    "name":"mriyeta",
+    "h1":"mriyeta",
+    "title":"mriyeta --- synonyms, prabhupada.io",
+    "description":"should die."
+}
+---
 
 ==== mriyeta  ====
   * should die --- [[books:sb:10:1:49-50|SB 10.1.49-50]]

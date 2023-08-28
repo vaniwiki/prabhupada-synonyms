@@ -1,5 +1,11 @@
-~~Title:in~~
-{{description>dry wood.}}
+---json
+{
+    "name":"in",
+    "h1":"in",
+    "title":"in --- synonyms, prabhupada.io",
+    "description":"dry wood."
+}
+---
 
 ==== śuṣka-in-dhana  ====
   * dry wood --- [[books:cc:antya:16:124|Antya 16.124]]

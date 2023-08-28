@@ -1,5 +1,11 @@
-~~Title:preṣaṇena~~
-{{description>by order.}}
+---json
+{
+    "name":"preṣaṇena",
+    "h1":"preṣaṇena",
+    "title":"preṣaṇena --- synonyms, prabhupada.io",
+    "description":"by order."
+}
+---
 
 ==== preṣaṇena  ====
   * by order --- [[books:sb:3:20:26|SB 3.20.26]]

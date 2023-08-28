@@ -1,5 +1,11 @@
-~~Title:tamān~~
-{{description>most auspicious.}}
+---json
+{
+    "name":"tamān",
+    "h1":"tamān",
+    "title":"tamān --- synonyms, prabhupada.io",
+    "description":"most auspicious."
+}
+---
 
 ==== puṇya-tamān  ====
   * most auspicious --- [[books:sb:3:17:14|SB 3.17.14]]

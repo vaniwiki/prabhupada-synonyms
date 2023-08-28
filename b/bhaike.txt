@@ -1,5 +1,11 @@
-~~Title:bhāike~~
-{{description>my brother.}}
+---json
+{
+    "name":"bhāike",
+    "h1":"bhāike",
+    "title":"bhāike --- synonyms, prabhupada.io",
+    "description":"my brother."
+}
+---
 
 ==== bhāike  ====
   * my brother --- [[books:cc:adi:5:180|Ādi 5.180]]

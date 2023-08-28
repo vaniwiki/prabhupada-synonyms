@@ -1,5 +1,11 @@
-~~Title:dhanadasya~~
-{{description>to Kuvera.}}
+---json
+{
+    "name":"dhanadasya",
+    "h1":"dhanadasya",
+    "title":"dhanadasya --- synonyms, prabhupada.io",
+    "description":"to Kuvera."
+}
+---
 
 ==== dhanadasya  ====
   * to Kuvera --- [[books:sb:4:11:33|SB 4.11.33]]

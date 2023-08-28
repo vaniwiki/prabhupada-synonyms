@@ -1,5 +1,11 @@
-~~Title:vivastrā~~
-{{description>She was naked.}}
+---json
+{
+    "name":"vivastrā",
+    "h1":"vivastrā",
+    "title":"vivastrā --- synonyms, prabhupada.io",
+    "description":"She was naked."
+}
+---
 
 ==== vivastrā  ====
   * She was naked --- [[books:sb:8:12:26|SB 8.12.26]]

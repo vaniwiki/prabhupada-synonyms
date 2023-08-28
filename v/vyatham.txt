@@ -1,5 +1,11 @@
-~~Title:vyathām~~
-{{description>pain; painful reaction.}}
+---json
+{
+    "name":"vyathām",
+    "h1":"vyathām",
+    "title":"vyathām --- synonyms, prabhupada.io",
+    "description":"pain; painful reaction."
+}
+---
 
 ==== vyathām  ====
   * pain --- [[books:sb:10:10:14|SB 10.10.14]]

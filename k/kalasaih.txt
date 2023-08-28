@@ -1,5 +1,11 @@
-~~Title:kalaśaiḥ~~
-{{description>with golden waterpots.}}
+---json
+{
+    "name":"kalaśaiḥ",
+    "h1":"kalaśaiḥ",
+    "title":"kalaśaiḥ --- synonyms, prabhupada.io",
+    "description":"with golden waterpots."
+}
+---
 
 ==== hema-kalaśaiḥ  ====
   * with golden waterpots --- [[books:sb:9:11:27|SB 9.11.27]]

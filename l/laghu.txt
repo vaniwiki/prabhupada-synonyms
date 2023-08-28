@@ -1,5 +1,11 @@
-~~Title:laghu~~
-{{description>because of being very fine; lightness; the duration of time called a laghu; younger.}}
+---json
+{
+    "name":"laghu",
+    "h1":"laghu",
+    "title":"laghu --- synonyms, prabhupada.io",
+    "description":"because of being very fine; lightness; the duration of time called a laghu; younger."
+}
+---
 
 ==== laghu  ====
   * because of being very fine --- [[books:sb:8:12:23|SB 8.12.23]]

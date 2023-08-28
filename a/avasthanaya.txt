@@ -1,5 +1,11 @@
-~~Title:avasthānāya~~
-{{description>the shelter of everything.}}
+---json
+{
+    "name":"avasthānāya",
+    "h1":"avasthānāya",
+    "title":"avasthānāya --- synonyms, prabhupada.io",
+    "description":"the shelter of everything."
+}
+---
 
 ==== avasthānāya  ====
   * the shelter of everything --- [[books:sb:5:18:30|SB 5.18.30]]

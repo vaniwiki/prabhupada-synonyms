@@ -1,5 +1,11 @@
-~~Title:alpaiḥ~~
-{{description>after a few days.}}
+---json
+{
+    "name":"alpaiḥ",
+    "h1":"alpaiḥ",
+    "title":"alpaiḥ --- synonyms, prabhupada.io",
+    "description":"after a few days."
+}
+---
 
 ==== ahobhiḥ alpaiḥ  ====
   * after a few days --- [[books:sb:4:12:43|SB 4.12.43]]

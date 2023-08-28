@@ -1,5 +1,11 @@
-~~Title:harata~~
-{{description>bring; one should offer.}}
+---json
+{
+    "name":"harata",
+    "h1":"harata",
+    "title":"harata --- synonyms, prabhupada.io",
+    "description":"bring; one should offer."
+}
+---
 
 ==== harata  ====
   * bring --- [[books:sb:4:14:28|SB 4.14.28]]

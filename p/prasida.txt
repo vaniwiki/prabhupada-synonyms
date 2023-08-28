@@ -1,5 +1,11 @@
-~~Title:prasīda~~
-{{description>be gracious; be kind; be pleased; become pleased; just be gracious; please be kind.}}
+---json
+{
+    "name":"prasīda",
+    "h1":"prasīda",
+    "title":"prasīda --- synonyms, prabhupada.io",
+    "description":"be gracious; be kind; be pleased; become pleased; just be gracious; please be kind."
+}
+---
 
 ==== prasīda  ====
   * be gracious --- [[books:bg:11:31|Bg. 11.31]]

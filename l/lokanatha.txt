@@ -1,5 +1,11 @@
-~~Title:lokanātha~~
-{{description>Lokanātha dāsa Gosvāmī.}}
+---json
+{
+    "name":"lokanātha",
+    "h1":"lokanātha",
+    "title":"lokanātha --- synonyms, prabhupada.io",
+    "description":"Lokanātha dāsa Gosvāmī."
+}
+---
 
 ==== lokanātha  ====
   * Lokanātha dāsa Gosvāmī --- [[books:cc:madhya:18:49|Madhya 18.49]]

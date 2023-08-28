@@ -1,5 +1,11 @@
-~~Title:kaila~~
-{{description>accepted; agreed; assisted; attempted; became; brought; caused to germinate; chanted; compiled; composed; converted; decided; did; did say; did take place; do; executed; finished; fixed; formed; gave; has; has been made; has done; has made; have done; have executed; have taken; He did; He has made; He made them; he performed; I did; I have described; I have done; I have made; is made; issued; kept; made; made them; make; observed; occurred; offered; peformed; perform; performed; performs; prepared; put; showed; submitted; there was; they did; they made; took; took it; was done.}}
+---json
+{
+    "name":"kaila",
+    "h1":"kaila",
+    "title":"kaila --- synonyms, prabhupada.io",
+    "description":"accepted; agreed; assisted; attempted; became; brought; caused to germinate; chanted; compiled; composed; converted; decided; did; did say; did take place; do; executed; finished; fixed; formed; gave; has; has been made; has done; has made; have done; have executed; have taken; He did; He has made; He made them; he performed; I did; I have described; I have done; I have made; is made; issued; kept; made; made them; make; observed; occurred; offered; peformed; perform; performed; performs; prepared; put; showed; submitted; there was; they did; they made; took; took it; was done."
+}
+---
 
 ==== kaila  ====
   * accepted --- [[books:cc:madhya:3:9|Madhya 3.9]], [[books:cc:madhya:3:147|Madhya 3.147]], [[books:cc:madhya:8:54|Madhya 8.54]]

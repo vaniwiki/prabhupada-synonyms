@@ -1,5 +1,11 @@
-~~Title:krīta~~
-{{description>purchased.}}
+---json
+{
+    "name":"krīta",
+    "h1":"krīta",
+    "title":"krīta --- synonyms, prabhupada.io",
+    "description":"purchased."
+}
+---
 
 ==== krīta  ====
   * purchased --- [[books:cc:madhya:11:145|Madhya 11.145]]

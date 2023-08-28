@@ -1,5 +1,11 @@
-~~Title:āyatana~~
-{{description>the body.}}
+---json
+{
+    "name":"āyatana",
+    "h1":"āyatana",
+    "title":"āyatana --- synonyms, prabhupada.io",
+    "description":"the body."
+}
+---
 
 ==== āyatana  ====
   * the body --- [[books:sb:2:5:32|SB 2.5.32]]

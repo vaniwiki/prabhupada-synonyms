@@ -1,5 +1,11 @@
-~~Title:praduṣyanti~~
-{{description>become polluted.}}
+---json
+{
+    "name":"praduṣyanti",
+    "h1":"praduṣyanti",
+    "title":"praduṣyanti --- synonyms, prabhupada.io",
+    "description":"become polluted."
+}
+---
 
 ==== praduṣyanti  ====
   * become polluted --- [[books:bg:1:40|Bg. 1.40]]

@@ -1,5 +1,11 @@
-~~Title:bhuñjite~~
-{{description>to suffer.}}
+---json
+{
+    "name":"bhuñjite",
+    "h1":"bhuñjite",
+    "title":"bhuñjite --- synonyms, prabhupada.io",
+    "description":"to suffer."
+}
+---
 
 ==== bhuñjite  ====
   * to suffer --- [[books:cc:adi:10:42|Ādi 10.42]]

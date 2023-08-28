@@ -1,5 +1,11 @@
-~~Title:vismayam~~
-{{description>bewilderment; wonder.}}
+---json
+{
+    "name":"vismayam",
+    "h1":"vismayam",
+    "title":"vismayam --- synonyms, prabhupada.io",
+    "description":"bewilderment; wonder."
+}
+---
 
 ==== vismayam  ====
   * bewilderment --- [[books:sb:4:5:23|SB 4.5.23]]

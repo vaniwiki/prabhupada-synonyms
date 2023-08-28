@@ -1,5 +1,11 @@
-~~Title:nivasatām~~
-{{description>dwelling in Vaikuṇṭha; of those who live there.}}
+---json
+{
+    "name":"nivasatām",
+    "h1":"nivasatām",
+    "title":"nivasatām --- synonyms, prabhupada.io",
+    "description":"dwelling in Vaikuṇṭha; of those who live there."
+}
+---
 
 ==== nivasatām  ====
   * dwelling in Vaikuṇṭha --- [[books:sb:3:15:32|SB 3.15.32]]

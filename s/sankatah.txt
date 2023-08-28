@@ -1,5 +1,11 @@
-~~Title:saṅkaṭaḥ~~
-{{description>Saṅkaṭa.}}
+---json
+{
+    "name":"saṅkaṭaḥ",
+    "h1":"saṅkaṭaḥ",
+    "title":"saṅkaṭaḥ --- synonyms, prabhupada.io",
+    "description":"Saṅkaṭa."
+}
+---
 
 ==== saṅkaṭaḥ  ====
   * Saṅkaṭa --- [[books:sb:6:6:6|SB 6.6.6]]

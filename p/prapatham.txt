@@ -1,5 +1,11 @@
-~~Title:prapathām~~
-{{description>with many different public roads.}}
+---json
+{
+    "name":"prapathām",
+    "h1":"prapathām",
+    "title":"prapathām --- synonyms, prabhupada.io",
+    "description":"with many different public roads."
+}
+---
 
 ==== vibhakta-prapathām  ====
   * with many different public roads --- [[books:sb:8:15:15|SB 8.15.15]]

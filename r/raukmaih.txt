@@ -1,5 +1,11 @@
-~~Title:raukmaiḥ~~
-{{description>made of gold.}}
+---json
+{
+    "name":"raukmaiḥ",
+    "h1":"raukmaiḥ",
+    "title":"raukmaiḥ --- synonyms, prabhupada.io",
+    "description":"made of gold."
+}
+---
 
 ==== raukmaiḥ  ====
   * made of gold --- [[books:sb:10:1:30|SB 10.1.30]]

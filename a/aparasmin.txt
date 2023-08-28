@@ -1,5 +1,11 @@
-~~Title:aparasmin~~
-{{description>in the effect.}}
+---json
+{
+    "name":"aparasmin",
+    "h1":"aparasmin",
+    "title":"aparasmin --- synonyms, prabhupada.io",
+    "description":"in the effect."
+}
+---
 
 ==== aparasmin  ====
   * in the effect --- [[books:sb:3:26:49|SB 3.26.49]]

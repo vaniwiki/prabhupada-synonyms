@@ -1,5 +1,11 @@
-~~Title:mitrāṇi~~
-{{description>friends; My dear friends.}}
+---json
+{
+    "name":"mitrāṇi",
+    "h1":"mitrāṇi",
+    "title":"mitrāṇi --- synonyms, prabhupada.io",
+    "description":"friends; My dear friends."
+}
+---
 
 ==== mitrāṇi  ====
   * friends --- [[books:sb:10:12:19|SB 10.12.19]], [[books:sb:10:13:60|SB 10.13.60]], [[books:cc:madhya:17:39|Madhya 17.39]]

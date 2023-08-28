@@ -1,5 +1,11 @@
-~~Title:katham~~
-{{description>for what reason; how; how is it; how is it so; on what grounds; what; what for; what is the value of; why.}}
+---json
+{
+    "name":"katham",
+    "h1":"katham",
+    "title":"katham --- synonyms, prabhupada.io",
+    "description":"for what reason; how; how is it; how is it so; on what grounds; what; what for; what is the value of; why."
+}
+---
 
 ==== katham  ====
   * for what reason --- [[books:sb:1:4:11|SB 1.4.11]]

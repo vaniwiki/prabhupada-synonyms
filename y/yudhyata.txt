@@ -1,5 +1,11 @@
-~~Title:yudhyata~~
-{{description>fight.}}
+---json
+{
+    "name":"yudhyata",
+    "h1":"yudhyata",
+    "title":"yudhyata --- synonyms, prabhupada.io",
+    "description":"fight."
+}
+---
 
 ==== yudhyata  ====
   * fight --- [[books:sb:8:21:19|SB 8.21.19]]

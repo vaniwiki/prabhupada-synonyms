@@ -1,5 +1,11 @@
-~~Title:vidhu~~
-{{description>of His moonlike face.}}
+---json
+{
+    "name":"vidhu",
+    "h1":"vidhu",
+    "title":"vidhu --- synonyms, prabhupada.io",
+    "description":"of His moonlike face."
+}
+---
 
 ==== vadana-vidhu  ====
   * of His moonlike face --- [[books:cc:antya:19:76|Antya 19.76]]

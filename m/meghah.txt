@@ -1,5 +1,11 @@
-~~Title:meghah~~
-{{description>clouds; heavy clouds; personified clouds; the clouds.}}
+---json
+{
+    "name":"meghah",
+    "h1":"meghah",
+    "title":"meghah --- synonyms, prabhupada.io",
+    "description":"clouds; heavy clouds; personified clouds; the clouds."
+}
+---
 
 ==== meghāḥ  ====
   * clouds --- [[books:sb:8:11:20|SB 8.11.20]]

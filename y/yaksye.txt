@@ -1,5 +1,11 @@
-~~Title:yakṣye~~
-{{description>I shall sacrifice.}}
+---json
+{
+    "name":"yakṣye",
+    "h1":"yakṣye",
+    "title":"yakṣye --- synonyms, prabhupada.io",
+    "description":"I shall sacrifice."
+}
+---
 
 ==== yakṣye  ====
   * I shall sacrifice --- [[books:bg:16:13-15|Bg. 16.13-15]]

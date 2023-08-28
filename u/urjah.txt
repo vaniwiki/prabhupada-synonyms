@@ -1,5 +1,11 @@
-~~Title:urjah~~
-{{description>food grains.}}
+---json
+{
+    "name":"urjah",
+    "h1":"urjah",
+    "title":"urjah --- synonyms, prabhupada.io",
+    "description":"food grains."
+}
+---
 
 ==== ūrjāḥ  ====
   * food grains --- [[books:sb:4:17:10-11|SB 4.17.10-11]]

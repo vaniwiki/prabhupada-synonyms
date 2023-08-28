@@ -1,5 +1,11 @@
-~~Title:sandhi~~
-{{description>a peace proposal; for making negotiations; joints; meeting; the junction of different emotions.}}
+---json
+{
+    "name":"sandhi",
+    "h1":"sandhi",
+    "title":"sandhi --- synonyms, prabhupada.io",
+    "description":"a peace proposal; for making negotiations; joints; meeting; the junction of different emotions."
+}
+---
 
 ==== sandhi  ====
   * a peace proposal --- [[books:cc:madhya:16:173|Madhya 16.173]]

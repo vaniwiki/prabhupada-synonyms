@@ -1,5 +1,11 @@
-~~Title:mayaih~~
-{{description>made of.}}
+---json
+{
+    "name":"mayaih",
+    "h1":"mayaih",
+    "title":"mayaih --- synonyms, prabhupada.io",
+    "description":"made of."
+}
+---
 
 ==== mayaiḥ  ====
   * made of --- [[books:sb:3:15:20|SB 3.15.20]], [[books:sb:4:6:10|SB 4.6.10]]

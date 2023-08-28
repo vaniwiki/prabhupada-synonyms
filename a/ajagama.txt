@@ -1,5 +1,11 @@
-~~Title:ājagāma~~
-{{description>appeared there; arrived; came.}}
+---json
+{
+    "name":"ājagāma",
+    "h1":"ājagāma",
+    "title":"ājagāma --- synonyms, prabhupada.io",
+    "description":"appeared there; arrived; came."
+}
+---
 
 ==== ājagāma  ====
   * appeared there --- [[books:sb:8:22:12|SB 8.22.12]]

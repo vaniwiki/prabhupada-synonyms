@@ -1,5 +1,11 @@
-~~Title:codita~~
-{{description>whose three modes of material nature are agitated.}}
+---json
+{
+    "name":"codita",
+    "h1":"codita",
+    "title":"codita --- synonyms, prabhupada.io",
+    "description":"whose three modes of material nature are agitated."
+}
+---
 
 ==== codita-guṇa  ====
   * whose three modes of material nature are agitated --- [[books:sb:7:9:21|SB 7.9.21]]

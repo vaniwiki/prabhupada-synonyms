@@ -1,5 +1,11 @@
-~~Title:bhramara~~
-{{description>big black bees; bumblebees; of bees.}}
+---json
+{
+    "name":"bhramara",
+    "h1":"bhramara",
+    "title":"bhramara --- synonyms, prabhupada.io",
+    "description":"big black bees; bumblebees; of bees."
+}
+---
 
 ==== bhramara  ====
   * big black bees --- [[books:sb:4:7:20|SB 4.7.20]]

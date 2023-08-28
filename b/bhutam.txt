@@ -1,5 +1,11 @@
-~~Title:bhutam~~
-{{description>created; entity; it has happened; living entity; past; the material elements air, fire, water and earth; the material existence; whatever is created; which happened in the past; wonderful.}}
+---json
+{
+    "name":"bhutam",
+    "h1":"bhutam",
+    "title":"bhutam --- synonyms, prabhupada.io",
+    "description":"created; entity; it has happened; living entity; past; the material elements air, fire, water and earth; the material existence; whatever is created; which happened in the past; wonderful."
+}
+---
 
 ==== bhūtam  ====
   * created --- [[books:bg:10:39|Bg. 10.39]]

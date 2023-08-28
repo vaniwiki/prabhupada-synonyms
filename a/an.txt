@@ -1,5 +1,11 @@
-~~Title:an~~
-{{description>anyone else.}}
+---json
+{
+    "name":"an",
+    "h1":"an",
+    "title":"an --- synonyms, prabhupada.io",
+    "description":"anyone else."
+}
+---
 
 ==== ān  ====
   * anyone else --- [[books:cc:madhya:8:194|Madhya 8.194]]

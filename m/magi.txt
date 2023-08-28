@@ -1,5 +1,11 @@
-~~Title:magi~~
-{{description>beg; I beg; request.}}
+---json
+{
+    "name":"magi",
+    "h1":"magi",
+    "title":"magi --- synonyms, prabhupada.io",
+    "description":"beg; I beg; request."
+}
+---
 
 ==== māgi  ====
   * beg --- [[books:cc:madhya:24:246|Madhya 24.246]]

@@ -1,5 +1,11 @@
-~~Title:pradhānau~~
-{{description>chief.}}
+---json
+{
+    "name":"pradhānau",
+    "h1":"pradhānau",
+    "title":"pradhānau --- synonyms, prabhupada.io",
+    "description":"chief."
+}
+---
 
 ==== pradhānau  ====
   * chief --- [[books:sb:4:12:21|SB 4.12.21]]

@@ -1,5 +1,11 @@
-~~Title:vṛttānta~~
-{{description>description; details; incident; narration; story.}}
+---json
+{
+    "name":"vṛttānta",
+    "h1":"vṛttānta",
+    "title":"vṛttānta --- synonyms, prabhupada.io",
+    "description":"description; details; incident; narration; story."
+}
+---
 
 ==== vṛttānta  ====
   * description --- [[books:cc:antya:5:12|Antya 5.12]]

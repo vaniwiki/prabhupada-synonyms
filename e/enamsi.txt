@@ -1,5 +1,11 @@
-~~Title:enāṁsi~~
-{{description>all kinds of sinful activity.}}
+---json
+{
+    "name":"enāṁsi",
+    "h1":"enāṁsi",
+    "title":"enāṁsi --- synonyms, prabhupada.io",
+    "description":"all kinds of sinful activity."
+}
+---
 
 ==== enāṁsi  ====
   * all kinds of sinful activity --- [[books:cc:madhya:24:61|Madhya 24.61]]

@@ -1,5 +1,11 @@
-~~Title:vimoktum~~
-{{description>to become free.}}
+---json
+{
+    "name":"vimoktum",
+    "h1":"vimoktum",
+    "title":"vimoktum --- synonyms, prabhupada.io",
+    "description":"to become free."
+}
+---
 
 ==== vimoktum  ====
   * to become free --- [[books:sb:5:5:27|SB 5.5.27]]

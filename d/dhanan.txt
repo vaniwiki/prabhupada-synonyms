@@ -1,5 +1,11 @@
-~~Title:dhanān~~
-{{description>valuable presents.}}
+---json
+{
+    "name":"dhanān",
+    "h1":"dhanān",
+    "title":"dhanān --- synonyms, prabhupada.io",
+    "description":"valuable presents."
+}
+---
 
 ==== mahā-dhanān  ====
   * valuable presents --- [[books:sb:3:22:23|SB 3.22.23]]

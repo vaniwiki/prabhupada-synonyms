@@ -1,5 +1,11 @@
-~~Title:kahane~~
-{{description>to speak.}}
+---json
+{
+    "name":"kahane",
+    "h1":"kahane",
+    "title":"kahane --- synonyms, prabhupada.io",
+    "description":"to speak."
+}
+---
 
 ==== kahane  ====
   * to speak --- [[books:cc:adi:10:83|Ādi 10.83]]

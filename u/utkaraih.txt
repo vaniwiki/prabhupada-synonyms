@@ -1,5 +1,11 @@
-~~Title:utkaraiḥ~~
-{{description>various kinds of flowers.}}
+---json
+{
+    "name":"utkaraiḥ",
+    "h1":"utkaraiḥ",
+    "title":"utkaraiḥ --- synonyms, prabhupada.io",
+    "description":"various kinds of flowers."
+}
+---
 
 ==== kusuma-utkaraiḥ  ====
   * various kinds of flowers --- [[books:sb:7:10:68|SB 7.10.68]]

@@ -1,5 +1,11 @@
-~~Title:rauti~~
-{{description>becomes agitated; cries; crying.}}
+---json
+{
+    "name":"rauti",
+    "h1":"rauti",
+    "title":"rauti --- synonyms, prabhupada.io",
+    "description":"becomes agitated; cries; crying."
+}
+---
 
 ==== rauti  ====
   * becomes agitated --- [[books:cc:adi:7:94|Ādi 7.94]], [[books:cc:madhya:9:262|Madhya 9.262]], [[books:cc:madhya:23:41|Madhya 23.41]], [[books:cc:madhya:25:141|Madhya 25.141]], [[books:cc:antya:3:179|Antya 3.179]]

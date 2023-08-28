@@ -1,5 +1,11 @@
-~~Title:kasmāt~~
-{{description>for what purpose; for what reason, therefore; from what; from where; how; what for; what for, then; what is the reason; why.}}
+---json
+{
+    "name":"kasmāt",
+    "h1":"kasmāt",
+    "title":"kasmāt --- synonyms, prabhupada.io",
+    "description":"for what purpose; for what reason, therefore; from what; from where; how; what for; what for, then; what is the reason; why."
+}
+---
 
 ==== kasmāt  ====
   * for what purpose --- [[books:sb:5:10:16|SB 5.10.16]]

@@ -1,5 +1,11 @@
-~~Title:māpe~~
-{{description>measures.}}
+---json
+{
+    "name":"māpe",
+    "h1":"māpe",
+    "title":"māpe --- synonyms, prabhupada.io",
+    "description":"measures."
+}
+---
 
 ==== māpe  ====
   * measures --- [[books:cc:adi:12:12|Ādi 12.12]]

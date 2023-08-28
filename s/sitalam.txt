@@ -1,5 +1,11 @@
-~~Title:śītalam~~
-{{description>cool and calm.}}
+---json
+{
+    "name":"śītalam",
+    "h1":"śītalam",
+    "title":"śītalam --- synonyms, prabhupada.io",
+    "description":"cool and calm."
+}
+---
 
 ==== śītalam  ====
   * cool and calm --- [[books:cc:madhya:12:1|Madhya 12.1]]

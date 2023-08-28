@@ -1,5 +1,11 @@
-~~Title:suniścita~~
-{{description>quite certainly.}}
+---json
+{
+    "name":"suniścita",
+    "h1":"suniścita",
+    "title":"suniścita --- synonyms, prabhupada.io",
+    "description":"quite certainly."
+}
+---
 
 ==== suniścita  ====
   * quite certainly --- [[books:cc:adi:4:129|Ādi 4.129]]

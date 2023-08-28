@@ -1,5 +1,11 @@
-~~Title:viṁśakaḥ~~
-{{description>the twenty-fifth.}}
+---json
+{
+    "name":"viṁśakaḥ",
+    "h1":"viṁśakaḥ",
+    "title":"viṁśakaḥ --- synonyms, prabhupada.io",
+    "description":"the twenty-fifth."
+}
+---
 
 ==== pañca-viṁśakaḥ  ====
   * the twenty-fifth --- [[books:sb:3:26:15|SB 3.26.15]]

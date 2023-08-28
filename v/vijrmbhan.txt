@@ -1,5 +1,11 @@
-~~Title:vijṛmbhan~~
-{{description>by opening.}}
+---json
+{
+    "name":"vijṛmbhan",
+    "h1":"vijṛmbhan",
+    "title":"vijṛmbhan --- synonyms, prabhupada.io",
+    "description":"by opening."
+}
+---
 
 ==== vijṛmbhan  ====
   * by opening --- [[books:sb:3:9:25|SB 3.9.25]]

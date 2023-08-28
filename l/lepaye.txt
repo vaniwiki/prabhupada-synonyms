@@ -1,5 +1,11 @@
-~~Title:lepaye~~
-{{description>smears.}}
+---json
+{
+    "name":"lepaye",
+    "h1":"lepaye",
+    "title":"lepaye --- synonyms, prabhupada.io",
+    "description":"smears."
+}
+---
 
 ==== lepaye  ====
   * smears --- [[books:cc:madhya:15:8|Madhya 15.8]]

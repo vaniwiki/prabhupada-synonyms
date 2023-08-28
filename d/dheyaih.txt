@@ -1,5 +1,11 @@
-~~Title:dheyaiḥ~~
-{{description>by concentration of the mind.}}
+---json
+{
+    "name":"dheyaiḥ",
+    "h1":"dheyaiḥ",
+    "title":"dheyaiḥ --- synonyms, prabhupada.io",
+    "description":"by concentration of the mind."
+}
+---
 
 ==== dheyaiḥ  ====
   * by concentration of the mind --- [[books:sb:2:3:24|SB 2.3.24]]

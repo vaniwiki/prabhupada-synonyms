@@ -1,5 +1,11 @@
-~~Title:dviṭ~~
-{{description>envious.}}
+---json
+{
+    "name":"dviṭ",
+    "h1":"dviṭ",
+    "title":"dviṭ --- synonyms, prabhupada.io",
+    "description":"envious."
+}
+---
 
 ==== dviṭ  ====
   * envious --- [[books:sb:4:3:24|SB 4.3.24]]

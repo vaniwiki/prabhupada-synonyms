@@ -1,5 +1,11 @@
-~~Title:vridita~~
-{{description>looking coyly.}}
+---json
+{
+    "name":"vridita",
+    "h1":"vridita",
+    "title":"vridita --- synonyms, prabhupada.io",
+    "description":"looking coyly."
+}
+---
 
 ==== vrīḍita  ====
   * looking coyly --- [[books:sb:1:11:31|SB 1.11.31]]

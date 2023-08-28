@@ -1,5 +1,11 @@
-~~Title:namaskāre~~
-{{description>obeisances.}}
+---json
+{
+    "name":"namaskāre",
+    "h1":"namaskāre",
+    "title":"namaskāre --- synonyms, prabhupada.io",
+    "description":"obeisances."
+}
+---
 
 ==== namaskāre  ====
   * obeisances --- [[books:cc:adi:15:21|Ādi 15.21]], [[books:cc:madhya:6:31|Madhya 6.31]], [[books:cc:madhya:6:245|Madhya 6.245]], [[books:cc:madhya:10:4|Madhya 10.4]], [[books:cc:antya:3:27|Antya 3.27]]

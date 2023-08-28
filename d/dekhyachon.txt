@@ -1,5 +1,11 @@
-~~Title:dekhyāchoṅ~~
-{{description>I have seen.}}
+---json
+{
+    "name":"dekhyāchoṅ",
+    "h1":"dekhyāchoṅ",
+    "title":"dekhyāchoṅ --- synonyms, prabhupada.io",
+    "description":"I have seen."
+}
+---
 
 ==== dekhyāchoṅ  ====
   * I have seen --- [[books:cc:antya:18:68|Antya 18.68]]

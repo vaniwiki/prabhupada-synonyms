@@ -1,5 +1,11 @@
-~~Title:ta~~
-{{description>but; certainly; however; in spite of; indeed; now; of them; then; thereupon.}}
+---json
+{
+    "name":"ta",
+    "h1":"ta",
+    "title":"ta --- synonyms, prabhupada.io",
+    "description":"but; certainly; however; in spite of; indeed; now; of them; then; thereupon."
+}
+---
 
 ==== ta ====
   * but --- [[books:cc:adi:12:71|Ādi 12.71]], [[books:cc:madhya:10:163|Madhya 10.163]], [[books:cc:antya:12:116|Antya 12.116]]

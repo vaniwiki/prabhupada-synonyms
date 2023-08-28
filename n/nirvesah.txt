@@ -1,5 +1,11 @@
-~~Title:nirveśaḥ~~
-{{description>has undergone all kinds of atonement.}}
+---json
+{
+    "name":"nirveśaḥ",
+    "h1":"nirveśaḥ",
+    "title":"nirveśaḥ --- synonyms, prabhupada.io",
+    "description":"has undergone all kinds of atonement."
+}
+---
 
 ==== kṛta-nirveśaḥ  ====
   * has undergone all kinds of atonement --- [[books:sb:6:2:7|SB 6.2.7]]

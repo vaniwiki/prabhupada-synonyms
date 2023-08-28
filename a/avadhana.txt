@@ -1,5 +1,11 @@
-~~Title:avadhāna~~
-{{description>any attention; attention; glancing over.}}
+---json
+{
+    "name":"avadhāna",
+    "h1":"avadhāna",
+    "title":"avadhāna --- synonyms, prabhupada.io",
+    "description":"any attention; attention; glancing over."
+}
+---
 
 ==== avadhāna  ====
   * any attention --- [[books:cc:madhya:16:267|Madhya 16.267]]

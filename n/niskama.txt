@@ -1,5 +1,11 @@
-~~Title:niṣkāma~~
-{{description>actually desireless.}}
+---json
+{
+    "name":"niṣkāma",
+    "h1":"niṣkāma",
+    "title":"niṣkāma --- synonyms, prabhupada.io",
+    "description":"actually desireless."
+}
+---
 
 ==== niṣkāma  ====
   * actually desireless --- [[books:cc:madhya:19:149|Madhya 19.149]]

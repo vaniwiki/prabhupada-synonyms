@@ -1,5 +1,11 @@
-~~Title:vepaḥ~~
-{{description>bodily trembling.}}
+---json
+{
+    "name":"vepaḥ",
+    "h1":"vepaḥ",
+    "title":"vepaḥ --- synonyms, prabhupada.io",
+    "description":"bodily trembling."
+}
+---
 
 ==== aṅga-vepaḥ  ====
   * bodily trembling --- [[books:sb:2:7:24|SB 2.7.24]]

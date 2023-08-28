@@ -1,5 +1,11 @@
-~~Title:udapatat~~
-{{description>arose.}}
+---json
+{
+    "name":"udapatat",
+    "h1":"udapatat",
+    "title":"udapatat --- synonyms, prabhupada.io",
+    "description":"arose."
+}
+---
 
 ==== udapatat  ====
   * arose --- [[books:sb:5:8:3|SB 5.8.3]]

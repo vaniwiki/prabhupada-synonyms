@@ -1,5 +1,11 @@
-~~Title:śayanera~~
-{{description>at bedtime.}}
+---json
+{
+    "name":"śayanera",
+    "h1":"śayanera",
+    "title":"śayanera --- synonyms, prabhupada.io",
+    "description":"at bedtime."
+}
+---
 
 ==== śayanera kāle  ====
   * at bedtime --- [[books:cc:antya:13:10|Antya 13.10]]

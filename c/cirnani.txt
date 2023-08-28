@@ -1,5 +1,11 @@
-~~Title:cīrṇāni~~
-{{description>very nicely performed.}}
+---json
+{
+    "name":"cīrṇāni",
+    "h1":"cīrṇāni",
+    "title":"cīrṇāni --- synonyms, prabhupada.io",
+    "description":"very nicely performed."
+}
+---
 
 ==== cīrṇāni  ====
   * very nicely performed --- [[books:sb:6:1:18|SB 6.1.18]]

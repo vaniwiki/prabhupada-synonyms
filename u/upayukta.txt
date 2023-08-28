@@ -1,5 +1,11 @@
-~~Title:upayukta~~
-{{description>consumed; used.}}
+---json
+{
+    "name":"upayukta",
+    "h1":"upayukta",
+    "title":"upayukta --- synonyms, prabhupada.io",
+    "description":"consumed; used."
+}
+---
 
 ==== upayukta  ====
   * consumed --- [[books:cc:antya:4:64|Antya 4.64]]

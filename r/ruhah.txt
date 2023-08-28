@@ -1,5 +1,11 @@
-~~Title:ruhah~~
-{{description>Madhuruha.}}
+---json
+{
+    "name":"ruhah",
+    "h1":"ruhah",
+    "title":"ruhah --- synonyms, prabhupada.io",
+    "description":"Madhuruha."
+}
+---
 
 ==== madhu-ruhaḥ  ====
   * Madhuruha --- [[books:sb:5:20:21|SB 5.20.21]]

@@ -1,5 +1,11 @@
-~~Title:dhyānena~~
-{{description>by meditating; by meditation.}}
+---json
+{
+    "name":"dhyānena",
+    "h1":"dhyānena",
+    "title":"dhyānena --- synonyms, prabhupada.io",
+    "description":"by meditating; by meditation."
+}
+---
 
 ==== dhyānena  ====
   * by meditating --- [[books:sb:3:28:11|SB 3.28.11]]

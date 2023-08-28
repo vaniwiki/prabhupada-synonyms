@@ -1,5 +1,11 @@
-~~Title:grathita~~
-{{description>recorded.}}
+---json
+{
+    "name":"grathita",
+    "h1":"grathita",
+    "title":"grathita --- synonyms, prabhupada.io",
+    "description":"recorded."
+}
+---
 
 ==== grathita  ====
   * recorded --- [[books:cc:adi:13:15|Ādi 13.15]]

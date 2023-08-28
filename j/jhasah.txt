@@ -1,5 +1,11 @@
-~~Title:jhaṣaḥ~~
-{{description>a crocodile.}}
+---json
+{
+    "name":"jhaṣaḥ",
+    "h1":"jhaṣaḥ",
+    "title":"jhaṣaḥ --- synonyms, prabhupada.io",
+    "description":"a crocodile."
+}
+---
 
 ==== jhaṣaḥ  ====
   * a crocodile --- [[books:sb:3:18:7|SB 3.18.7]]

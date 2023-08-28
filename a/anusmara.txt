@@ -1,5 +1,11 @@
-~~Title:anusmara~~
-{{description>go on remembering; think repeatedly and then describe them.}}
+---json
+{
+    "name":"anusmara",
+    "h1":"anusmara",
+    "title":"anusmara --- synonyms, prabhupada.io",
+    "description":"go on remembering; think repeatedly and then describe them."
+}
+---
 
 ==== anusmara  ====
   * go on remembering --- [[books:bg:8:7|Bg. 8.7]]

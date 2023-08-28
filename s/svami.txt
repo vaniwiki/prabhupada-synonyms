@@ -1,5 +1,11 @@
-~~Title:svami~~
-{{description>of the husband.}}
+---json
+{
+    "name":"svami",
+    "h1":"svami",
+    "title":"svami --- synonyms, prabhupada.io",
+    "description":"of the husband."
+}
+---
 
 ==== svāmi  ====
   * of the husband --- [[books:cc:antya:7:106|Antya 7.106]]

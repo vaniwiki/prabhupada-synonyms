@@ -1,5 +1,11 @@
-~~Title:ekeśvara~~
-{{description>alone.}}
+---json
+{
+    "name":"ekeśvara",
+    "h1":"ekeśvara",
+    "title":"ekeśvara --- synonyms, prabhupada.io",
+    "description":"alone."
+}
+---
 
 ==== ekeśvara  ====
   * alone --- [[books:cc:madhya:15:195|Madhya 15.195]], [[books:cc:madhya:16:134|Madhya 16.134]], [[books:cc:antya:2:38|Antya 2.38]]

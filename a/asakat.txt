@@ -1,5 +1,11 @@
-~~Title:aśakat~~
-{{description>he was able; was able.}}
+---json
+{
+    "name":"aśakat",
+    "h1":"aśakat",
+    "title":"aśakat --- synonyms, prabhupada.io",
+    "description":"he was able; was able."
+}
+---
 
 ==== aśakat  ====
   * he was able --- [[books:sb:6:4:41|SB 6.4.41]]

@@ -1,5 +1,11 @@
-~~Title:lekhām~~
-{{description>the crest of a half-moon.}}
+---json
+{
+    "name":"lekhām",
+    "h1":"lekhām",
+    "title":"lekhām --- synonyms, prabhupada.io",
+    "description":"the crest of a half-moon."
+}
+---
 
 ==== candra-lekhām  ====
   * the crest of a half-moon --- [[books:sb:4:6:36|SB 4.6.36]]

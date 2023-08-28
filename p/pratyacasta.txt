@@ -1,5 +1,11 @@
-~~Title:pratyacasta~~
-{{description>began to wait.}}
+---json
+{
+    "name":"pratyacasta",
+    "h1":"pratyacasta",
+    "title":"pratyacasta --- synonyms, prabhupada.io",
+    "description":"began to wait."
+}
+---
 
 ==== pratyacaṣṭa  ====
   * began to wait --- [[books:sb:9:4:41|SB 9.4.41]]

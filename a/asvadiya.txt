@@ -1,5 +1,11 @@
-~~Title:āsvādiyā~~
-{{description>tasting them.}}
+---json
+{
+    "name":"āsvādiyā",
+    "h1":"āsvādiyā",
+    "title":"āsvādiyā --- synonyms, prabhupada.io",
+    "description":"tasting them."
+}
+---
 
 ==== āsvādiyā  ====
   * tasting them --- [[books:cc:adi:13:43|Ādi 13.43]]

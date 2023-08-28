@@ -1,5 +1,11 @@
-~~Title:saṁghaṭanā~~
-{{description>chains of events.}}
+---json
+{
+    "name":"saṁghaṭanā",
+    "h1":"saṁghaṭanā",
+    "title":"saṁghaṭanā --- synonyms, prabhupada.io",
+    "description":"chains of events."
+}
+---
 
 ==== saṁghaṭanā  ====
   * chains of events --- [[books:cc:antya:1:71|Antya 1.71]]

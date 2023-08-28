@@ -1,5 +1,11 @@
-~~Title:klībaḥ~~
-{{description>a eunuch.}}
+---json
+{
+    "name":"klībaḥ",
+    "h1":"klībaḥ",
+    "title":"klībaḥ --- synonyms, prabhupada.io",
+    "description":"a eunuch."
+}
+---
 
 ==== klībaḥ  ====
   * a eunuch --- [[books:sb:4:17:26|SB 4.17.26]]

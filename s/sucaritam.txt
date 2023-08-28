@@ -1,5 +1,11 @@
-~~Title:sucaritam~~
-{{description>good characteristics.}}
+---json
+{
+    "name":"sucaritam",
+    "h1":"sucaritam",
+    "title":"sucaritam --- synonyms, prabhupada.io",
+    "description":"good characteristics."
+}
+---
 
 ==== sucaritam  ====
   * good characteristics --- [[books:sb:5:4:11-12|SB 5.4.11-12]]

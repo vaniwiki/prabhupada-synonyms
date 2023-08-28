@@ -1,5 +1,11 @@
-~~Title:anāyakāḥ~~
-{{description>without any captain or leader.}}
+---json
+{
+    "name":"anāyakāḥ",
+    "h1":"anāyakāḥ",
+    "title":"anāyakāḥ --- synonyms, prabhupada.io",
+    "description":"without any captain or leader."
+}
+---
 
 ==== anāyakāḥ  ====
   * without any captain or leader --- [[books:sb:8:11:25|SB 8.11.25]]

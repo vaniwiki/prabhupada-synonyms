@@ -1,5 +1,11 @@
-~~Title:parisramah~~
-{{description>for all penances.}}
+---json
+{
+    "name":"parisramah",
+    "h1":"parisramah",
+    "title":"parisramah --- synonyms, prabhupada.io",
+    "description":"for all penances."
+}
+---
 
 ==== pariśrāmaḥ  ====
   * for all penances --- [[books:sb:2:9:21|SB 2.9.21]]

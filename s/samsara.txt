@@ -1,5 +1,11 @@
-~~Title:saṁsāra~~
-{{description>all the world; conditioned life; for the essence of enjoyment (rāsa-līlā); in material existence; in the material world; material bondage; material existence; material life; of material existence; of material life; of miserable conditions; of repeated birth and death; of this conditioned life; the bondage of material existence; the bondage to material existence; the conditioned life in material existence; the material creation; the material existence; the material world; the whole world.}}
+---json
+{
+    "name":"saṁsāra",
+    "h1":"saṁsāra",
+    "title":"saṁsāra --- synonyms, prabhupada.io",
+    "description":"all the world; conditioned life; for the essence of enjoyment (rāsa-līlā); in material existence; in the material world; material bondage; material existence; material life; of material existence; of material life; of miserable conditions; of repeated birth and death; of this conditioned life; the bondage of material existence; the bondage to material existence; the conditioned life in material existence; the material creation; the material existence; the material world; the whole world."
+}
+---
 
 ==== saṁsāra  ====
   * all the world --- [[books:cc:adi:8:40|Ādi 8.40]]

@@ -1,5 +1,11 @@
-~~Title:padya~~
-{{description>poetry; verse.}}
+---json
+{
+    "name":"padya",
+    "h1":"padya",
+    "title":"padya --- synonyms, prabhupada.io",
+    "description":"poetry; verse."
+}
+---
 
 ==== padya  ====
   * poetry --- [[books:cc:adi:2:62|Ādi 2.62]]

@@ -1,5 +1,11 @@
-~~Title:abudha~~
-{{description>you foolish rascal.}}
+---json
+{
+    "name":"abudha",
+    "h1":"abudha",
+    "title":"abudha --- synonyms, prabhupada.io",
+    "description":"you foolish rascal."
+}
+---
 
 ==== abudha  ====
   * you foolish rascal --- [[books:sb:10:1:34|SB 10.1.34]]

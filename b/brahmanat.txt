@@ -1,5 +1,11 @@
-~~Title:brāhmaṇāt~~
-{{description>of the brāhmaṇas.}}
+---json
+{
+    "name":"brāhmaṇāt",
+    "h1":"brāhmaṇāt",
+    "title":"brāhmaṇāt --- synonyms, prabhupada.io",
+    "description":"of the brāhmaṇas."
+}
+---
 
 ==== brāhmaṇāt  ====
   * of the //brāhmaṇas// --- [[books:sb:3:14:42|SB 3.14.42]]

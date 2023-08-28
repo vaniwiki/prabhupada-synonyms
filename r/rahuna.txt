@@ -1,5 +1,11 @@
-~~Title:rāhuṇā~~
-{{description>by Rāhu.}}
+---json
+{
+    "name":"rāhuṇā",
+    "h1":"rāhuṇā",
+    "title":"rāhuṇā --- synonyms, prabhupada.io",
+    "description":"by Rāhu."
+}
+---
 
 ==== rāhuṇā  ====
   * by Rāhu --- [[books:sb:8:10:30-31|SB 8.10.30-31]]

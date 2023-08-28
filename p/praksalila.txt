@@ -1,5 +1,11 @@
-~~Title:prakṣālila~~
-{{description>washed.}}
+---json
+{
+    "name":"prakṣālila",
+    "h1":"prakṣālila",
+    "title":"prakṣālila --- synonyms, prabhupada.io",
+    "description":"washed."
+}
+---
 
 ==== prakṣālila  ====
   * washed --- [[books:cc:madhya:12:98|Madhya 12.98]], [[books:cc:madhya:16:48|Madhya 16.48]]

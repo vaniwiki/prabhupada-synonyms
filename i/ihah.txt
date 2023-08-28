@@ -1,5 +1,11 @@
-~~Title:ihah~~
-{{description>whose activities here in this material world.}}
+---json
+{
+    "name":"ihah",
+    "h1":"ihah",
+    "title":"ihah --- synonyms, prabhupada.io",
+    "description":"whose activities here in this material world."
+}
+---
 
 ==== īhaḥ  ====
   * whose activities here in this material world --- [[books:sb:5:14:1|SB 5.14.1]]

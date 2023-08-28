@@ -1,5 +1,11 @@
-~~Title:bhaktiraācāra~~
-{{description>behavior as devotees.}}
+---json
+{
+    "name":"bhaktiraācāra",
+    "h1":"bhaktiraācāra",
+    "title":"bhaktiraācāra --- synonyms, prabhupada.io",
+    "description":"behavior as devotees."
+}
+---
 
 ==== bhaktiraācāra  ====
   * behavior as devotees --- [[books:cc:adi:6:96|Ādi 6.96]]

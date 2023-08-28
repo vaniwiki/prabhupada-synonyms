@@ -1,5 +1,11 @@
-~~Title:bhūtagrāmam~~
-{{description>combination of material elements.}}
+---json
+{
+    "name":"bhūtagrāmam",
+    "h1":"bhūtagrāmam",
+    "title":"bhūtagrāmam --- synonyms, prabhupada.io",
+    "description":"combination of material elements."
+}
+---
 
 ==== bhūtagrāmam  ====
   * combination of material elements --- [[books:bg:17:5-6|Bg. 17.5-6]]

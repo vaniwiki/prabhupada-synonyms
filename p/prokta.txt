@@ -1,5 +1,11 @@
-~~Title:prokta~~
-{{description>called; is called; it is said; said; was said.}}
+---json
+{
+    "name":"prokta",
+    "h1":"prokta",
+    "title":"prokta --- synonyms, prabhupada.io",
+    "description":"called; is called; it is said; said; was said."
+}
+---
 
 ==== proktā  ====
   * called --- [[books:cc:adi:4:83|Ādi 4.83]], [[books:cc:madhya:23:68|Madhya 23.68]]

@@ -1,5 +1,11 @@
-~~Title:prasādayāmi~~
-{{description>I am seeking your forgiveness.}}
+---json
+{
+    "name":"prasādayāmi",
+    "h1":"prasādayāmi",
+    "title":"prasādayāmi --- synonyms, prabhupada.io",
+    "description":"I am seeking your forgiveness."
+}
+---
 
 ==== prasādayāmi  ====
   * I am seeking your forgiveness --- [[books:sb:3:16:4|SB 3.16.4]]

@@ -1,5 +1,11 @@
-~~Title:antarhita~~
-{{description>covered; invisible; on the disappearance.}}
+---json
+{
+    "name":"antarhita",
+    "h1":"antarhita",
+    "title":"antarhita --- synonyms, prabhupada.io",
+    "description":"covered; invisible; on the disappearance."
+}
+---
 
 ==== antarhita  ====
   * covered --- [[books:sb:7:6:20-23|SB 7.6.20-23]]

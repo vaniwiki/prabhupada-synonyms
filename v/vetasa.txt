@@ -1,5 +1,11 @@
-~~Title:vetasa~~
-{{description>vetasas.}}
+---json
+{
+    "name":"vetasa",
+    "h1":"vetasa",
+    "title":"vetasa --- synonyms, prabhupada.io",
+    "description":"vetasas."
+}
+---
 
 ==== vetasa  ====
   * //vetasas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

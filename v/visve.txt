@@ -1,5 +1,11 @@
-~~Title:viśve~~
-{{description>the Viśvadevas; Viśvāsu; within the material universe; within this cosmic manifestation.}}
+---json
+{
+    "name":"viśve",
+    "h1":"viśve",
+    "title":"viśve --- synonyms, prabhupada.io",
+    "description":"the Viśvadevas; Viśvāsu; within the material universe; within this cosmic manifestation."
+}
+---
 
 ==== viśve  ====
   * the Viśvadevas --- [[books:bg:11:22|Bg. 11.22]], [[books:sb:6:6:15|SB 6.6.15]]

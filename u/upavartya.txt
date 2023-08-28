@@ -1,5 +1,11 @@
-~~Title:upāvartya~~
-{{description>bringing near.}}
+---json
+{
+    "name":"upāvartya",
+    "h1":"upāvartya",
+    "title":"upāvartya --- synonyms, prabhupada.io",
+    "description":"bringing near."
+}
+---
 
 ==== upāvartya  ====
   * bringing near --- [[books:sb:9:15:35-36|SB 9.15.35-36]]

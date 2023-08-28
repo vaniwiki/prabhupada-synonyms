@@ -1,5 +1,11 @@
-~~Title:madhupa~~
-{{description>bumblebees.}}
+---json
+{
+    "name":"madhupa",
+    "h1":"madhupa",
+    "title":"madhupa --- synonyms, prabhupada.io",
+    "description":"bumblebees."
+}
+---
 
 ==== madhupa-vṛndam  ====
   * bumblebees --- [[books:cc:antya:1:158|Antya 1.158]]

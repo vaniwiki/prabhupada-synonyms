@@ -1,5 +1,11 @@
-~~Title:dvādaśī~~
-{{description>the vow for observing Ekādaśī and Dvādaśī.}}
+---json
+{
+    "name":"dvādaśī",
+    "h1":"dvādaśī",
+    "title":"dvādaśī --- synonyms, prabhupada.io",
+    "description":"the vow for observing Ekādaśī and Dvādaśī."
+}
+---
 
 ==== dvādaśī-vratam  ====
   * the vow for observing Ekādaśī and Dvādaśī --- [[books:sb:9:4:29|SB 9.4.29]]

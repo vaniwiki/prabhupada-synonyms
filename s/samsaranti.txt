@@ -1,5 +1,11 @@
-~~Title:saṁsaranti~~
-{{description>do rotate.}}
+---json
+{
+    "name":"saṁsaranti",
+    "h1":"saṁsaranti",
+    "title":"saṁsaranti --- synonyms, prabhupada.io",
+    "description":"do rotate."
+}
+---
 
 ==== saṁsaranti  ====
   * do rotate --- [[books:sb:3:9:10|SB 3.9.10]]

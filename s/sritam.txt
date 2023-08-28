@@ -1,5 +1,11 @@
-~~Title:śritam~~
-{{description>situated in.}}
+---json
+{
+    "name":"śritam",
+    "h1":"śritam",
+    "title":"śritam --- synonyms, prabhupada.io",
+    "description":"situated in."
+}
+---
 
 ==== śritam  ====
   * situated in --- [[books:sb:4:7:30|SB 4.7.30]]

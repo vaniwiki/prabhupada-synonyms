@@ -1,5 +1,11 @@
-~~Title:śunāsīrāḥ~~
-{{description>the demigods headed by King Indra.}}
+---json
+{
+    "name":"śunāsīrāḥ",
+    "h1":"śunāsīrāḥ",
+    "title":"śunāsīrāḥ --- synonyms, prabhupada.io",
+    "description":"the demigods headed by King Indra."
+}
+---
 
 ==== śunāsīrāḥ  ====
   * the demigods headed by King Indra --- [[books:sb:4:7:7|SB 4.7.7]]

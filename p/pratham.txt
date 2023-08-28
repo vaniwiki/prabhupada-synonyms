@@ -1,5 +1,11 @@
-~~Title:prathām~~
-{{description>fame; the process.}}
+---json
+{
+    "name":"prathām",
+    "h1":"prathām",
+    "title":"prathām --- synonyms, prabhupada.io",
+    "description":"fame; the process."
+}
+---
 
 ==== prathām  ====
   * fame --- [[books:cc:adi:4:163|Ādi 4.163]]

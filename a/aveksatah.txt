@@ -1,5 +1,11 @@
-~~Title:avekṣataḥ~~
-{{description>observing.}}
+---json
+{
+    "name":"avekṣataḥ",
+    "h1":"avekṣataḥ",
+    "title":"avekṣataḥ --- synonyms, prabhupada.io",
+    "description":"observing."
+}
+---
 
 ==== avekṣataḥ  ====
   * observing --- [[books:sb:3:12:52|SB 3.12.52]]

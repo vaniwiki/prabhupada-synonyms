@@ -1,5 +1,11 @@
-~~Title:dordaṇḍaiḥ~~
-{{description>the arms of whom.}}
+---json
+{
+    "name":"dordaṇḍaiḥ",
+    "h1":"dordaṇḍaiḥ",
+    "title":"dordaṇḍaiḥ --- synonyms, prabhupada.io",
+    "description":"the arms of whom."
+}
+---
 
 ==== dordaṇḍaiḥ  ====
   * the arms of whom --- [[books:sb:8:10:40|SB 8.10.40]]

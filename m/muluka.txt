@@ -1,5 +1,11 @@
-~~Title:muluka~~
-{{description>took charge of the country.}}
+---json
+{
+    "name":"muluka",
+    "h1":"muluka",
+    "title":"muluka --- synonyms, prabhupada.io",
+    "description":"took charge of the country."
+}
+---
 
 ==== muluka nila  ====
   * took charge of the country --- [[books:cc:antya:6:18|Antya 6.18]]

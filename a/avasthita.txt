@@ -1,5 +1,11 @@
-~~Title:avasthita~~
-{{description>situated.}}
+---json
+{
+    "name":"avasthita",
+    "h1":"avasthita",
+    "title":"avasthita --- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== avasthita  ====
   * situated --- [[books:sb:3:33:26|SB 3.33.26]]

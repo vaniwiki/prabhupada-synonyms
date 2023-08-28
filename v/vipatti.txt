@@ -1,5 +1,11 @@
-~~Title:vipatti~~
-{{description>obstacle.}}
+---json
+{
+    "name":"vipatti",
+    "h1":"vipatti",
+    "title":"vipatti --- synonyms, prabhupada.io",
+    "description":"obstacle."
+}
+---
 
 ==== vipatti  ====
   * obstacle --- [[books:cc:madhya:6:61|Madhya 6.61]]

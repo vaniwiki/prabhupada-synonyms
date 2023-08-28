@@ -1,5 +1,11 @@
-~~Title:trividhaḥ~~
-{{description>three kinds.}}
+---json
+{
+    "name":"trividhaḥ",
+    "h1":"trividhaḥ",
+    "title":"trividhaḥ --- synonyms, prabhupada.io",
+    "description":"three kinds."
+}
+---
 
 ==== trividhaḥ  ====
   * three kinds --- [[books:bg:17:7|Bg. 17.7]]

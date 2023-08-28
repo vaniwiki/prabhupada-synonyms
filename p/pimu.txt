@@ -1,5 +1,11 @@
-~~Title:pimu~~
-{{description>I shall drink.}}
+---json
+{
+    "name":"pimu",
+    "h1":"pimu",
+    "title":"pimu --- synonyms, prabhupada.io",
+    "description":"I shall drink."
+}
+---
 
 ==== pimu  ====
   * I shall drink --- [[books:cc:antya:16:126|Antya 16.126]]

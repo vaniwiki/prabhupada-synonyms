@@ -1,5 +1,11 @@
-~~Title:uddhavāya~~
-{{description>unto Uddhava.}}
+---json
+{
+    "name":"uddhavāya",
+    "h1":"uddhavāya",
+    "title":"uddhavāya --- synonyms, prabhupada.io",
+    "description":"unto Uddhava."
+}
+---
 
 ==== uddhavāya  ====
   * unto Uddhava --- [[books:sb:9:24:67|SB 9.24.67]]

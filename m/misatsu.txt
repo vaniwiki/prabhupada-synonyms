@@ -1,5 +1,11 @@
-~~Title:miṣatsu~~
-{{description>while looking on.}}
+---json
+{
+    "name":"miṣatsu",
+    "h1":"miṣatsu",
+    "title":"miṣatsu --- synonyms, prabhupada.io",
+    "description":"while looking on."
+}
+---
 
 ==== miṣatsu  ====
   * while looking on --- [[books:sb:3:15:31|SB 3.15.31]]

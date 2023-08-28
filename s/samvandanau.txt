@@ -1,5 +1,11 @@
-~~Title:saṁvandanau~~
-{{description>having paid obeisances.}}
+---json
+{
+    "name":"saṁvandanau",
+    "h1":"saṁvandanau",
+    "title":"saṁvandanau --- synonyms, prabhupada.io",
+    "description":"having paid obeisances."
+}
+---
 
 ==== kṛta-saṁvandanau  ====
   * having paid obeisances --- [[books:cc:madhya:19:197|Madhya 19.197]]

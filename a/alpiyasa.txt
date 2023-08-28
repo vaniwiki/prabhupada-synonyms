@@ -1,5 +1,11 @@
-~~Title:alpīyasā~~
-{{description>very short; very shortly; which was not very long.}}
+---json
+{
+    "name":"alpīyasā",
+    "h1":"alpīyasā",
+    "title":"alpīyasā --- synonyms, prabhupada.io",
+    "description":"very short; very shortly; which was not very long."
+}
+---
 
 ==== alpīyasā  ====
   * very short --- [[books:sb:3:16:31|SB 3.16.31]]

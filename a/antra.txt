@@ -1,5 +1,11 @@
-~~Title:antra~~
-{{description>of his entrails; the intestines.}}
+---json
+{
+    "name":"antra",
+    "h1":"antra",
+    "title":"antra --- synonyms, prabhupada.io",
+    "description":"of his entrails; the intestines."
+}
+---
 
 ==== antra  ====
   * of his entrails --- [[books:sb:3:30:26|SB 3.30.26]]

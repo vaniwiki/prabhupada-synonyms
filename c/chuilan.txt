@@ -1,5 +1,11 @@
-~~Title:chuilaṅ~~
-{{description>I touched.}}
+---json
+{
+    "name":"chuilaṅ",
+    "h1":"chuilaṅ",
+    "title":"chuilaṅ --- synonyms, prabhupada.io",
+    "description":"I touched."
+}
+---
 
 ==== chuilaṅ  ====
   * I touched --- [[books:cc:madhya:21:98|Madhya 21.98]]

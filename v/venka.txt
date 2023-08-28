@@ -1,5 +1,11 @@
-~~Title:veṅka~~
-{{description>Koṅka, Veṅka and Kuṭaka.}}
+---json
+{
+    "name":"veṅka",
+    "h1":"veṅka",
+    "title":"veṅka --- synonyms, prabhupada.io",
+    "description":"Koṅka, Veṅka and Kuṭaka."
+}
+---
 
 ==== koṅka-veṅka-kuṭakān  ====
   * Koṅka, Veṅka and Kuṭaka --- [[books:sb:5:6:7|SB 5.6.7]]

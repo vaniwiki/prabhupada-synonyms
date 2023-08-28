@@ -1,5 +1,11 @@
-~~Title:sarūpā~~
-{{description>Sarūpā.}}
+---json
+{
+    "name":"sarūpā",
+    "h1":"sarūpā",
+    "title":"sarūpā --- synonyms, prabhupada.io",
+    "description":"Sarūpā."
+}
+---
 
 ==== sarūpā  ====
   * Sarūpā --- [[books:sb:6:6:17-18|SB 6.6.17-18]]

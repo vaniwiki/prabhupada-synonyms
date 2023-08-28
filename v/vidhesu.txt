@@ -1,5 +1,11 @@
-~~Title:vidheṣu~~
-{{description>unto persons like you.}}
+---json
+{
+    "name":"vidheṣu",
+    "h1":"vidheṣu",
+    "title":"vidheṣu --- synonyms, prabhupada.io",
+    "description":"unto persons like you."
+}
+---
 
 ==== bhavat-vidheṣu  ====
   * unto persons like you --- [[books:sb:3:21:24|SB 3.21.24]]

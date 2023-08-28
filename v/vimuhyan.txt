@@ -1,5 +1,11 @@
-~~Title:vimuhyan~~
-{{description>becoming bewildered.}}
+---json
+{
+    "name":"vimuhyan",
+    "h1":"vimuhyan",
+    "title":"vimuhyan --- synonyms, prabhupada.io",
+    "description":"becoming bewildered."
+}
+---
 
 ==== vimuhyan  ====
   * becoming bewildered --- [[books:sb:5:13:7|SB 5.13.7]]

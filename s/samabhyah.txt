@@ -1,5 +1,11 @@
-~~Title:samābhyaḥ~~
-{{description>time.}}
+---json
+{
+    "name":"samābhyaḥ",
+    "h1":"samābhyaḥ",
+    "title":"samābhyaḥ --- synonyms, prabhupada.io",
+    "description":"time."
+}
+---
 
 ==== samābhyaḥ  ====
   * time --- [[books:iso:8|Īśo 8]]

@@ -1,5 +1,11 @@
-~~Title:laṅghiye~~
-{{description>we can disobey.}}
+---json
+{
+    "name":"laṅghiye",
+    "h1":"laṅghiye",
+    "title":"laṅghiye --- synonyms, prabhupada.io",
+    "description":"we can disobey."
+}
+---
 
 ==== laṅghiye  ====
   * we can disobey --- [[books:cc:madhya:10:144|Madhya 10.144]]

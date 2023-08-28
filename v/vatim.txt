@@ -1,5 +1,11 @@
-~~Title:vatīm~~
-{{description>consisting of seven islands.}}
+---json
+{
+    "name":"vatīm",
+    "h1":"vatīm",
+    "title":"vatīm --- synonyms, prabhupada.io",
+    "description":"consisting of seven islands."
+}
+---
 
 ==== sapta-dvīpa-vatīm  ====
   * consisting of seven islands --- [[books:sb:3:21:2|SB 3.21.2]], [[books:sb:9:6:33-34|SB 9.6.33-34]]

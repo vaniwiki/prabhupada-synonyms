@@ -1,5 +1,11 @@
-~~Title:samprekṣya~~
-{{description>looking.}}
+---json
+{
+    "name":"samprekṣya",
+    "h1":"samprekṣya",
+    "title":"samprekṣya --- synonyms, prabhupada.io",
+    "description":"looking."
+}
+---
 
 ==== samprekṣya  ====
   * looking --- [[books:bg:6:13-14|Bg. 6.13-14]]

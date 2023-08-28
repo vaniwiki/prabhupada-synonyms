@@ -1,5 +1,11 @@
-~~Title:mukhāni~~
-{{description>faces; heads.}}
+---json
+{
+    "name":"mukhāni",
+    "h1":"mukhāni",
+    "title":"mukhāni --- synonyms, prabhupada.io",
+    "description":"faces; heads."
+}
+---
 
 ==== mukhāni  ====
   * faces --- [[books:bg:11:25|Bg. 11.25]], [[books:sb:8:7:29|SB 8.7.29]]

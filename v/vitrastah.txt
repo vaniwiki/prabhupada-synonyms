@@ -1,5 +1,11 @@
-~~Title:vitrastāḥ~~
-{{description>fearful.}}
+---json
+{
+    "name":"vitrastāḥ",
+    "h1":"vitrastāḥ",
+    "title":"vitrastāḥ --- synonyms, prabhupada.io",
+    "description":"fearful."
+}
+---
 
 ==== vitrastāḥ  ====
   * fearful --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

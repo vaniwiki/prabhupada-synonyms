@@ -1,5 +1,11 @@
-~~Title:calita~~
-{{description>deviated.}}
+---json
+{
+    "name":"calita",
+    "h1":"calita",
+    "title":"calita --- synonyms, prabhupada.io",
+    "description":"deviated."
+}
+---
 
 ==== calita  ====
   * deviated --- [[books:bg:6:37|Bg. 6.37]]

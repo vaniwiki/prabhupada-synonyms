@@ -1,5 +1,11 @@
-~~Title:yadyapio~~
-{{description>although.}}
+---json
+{
+    "name":"yadyapio",
+    "h1":"yadyapio",
+    "title":"yadyapio --- synonyms, prabhupada.io",
+    "description":"although."
+}
+---
 
 ==== yadyapio  ====
   * although --- [[books:cc:antya:4:129-130|Antya 4.129-130]]

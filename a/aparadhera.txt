@@ -1,5 +1,11 @@
-~~Title:aparādhera~~
-{{description>of offenses.}}
+---json
+{
+    "name":"aparādhera",
+    "h1":"aparādhera",
+    "title":"aparādhera --- synonyms, prabhupada.io",
+    "description":"of offenses."
+}
+---
 
 ==== aparādhera  ====
   * of offenses --- [[books:cc:adi:8:24|Ādi 8.24]]

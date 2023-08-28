@@ -1,5 +1,11 @@
-~~Title:avagacchati~~
-{{description>knows.}}
+---json
+{
+    "name":"avagacchati",
+    "h1":"avagacchati",
+    "title":"avagacchati --- synonyms, prabhupada.io",
+    "description":"knows."
+}
+---
 
 ==== avagacchati  ====
   * knows --- [[books:cc:madhya:2:18|Madhya 2.18]]

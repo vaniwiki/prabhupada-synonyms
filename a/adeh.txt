@@ -1,5 +1,11 @@
-~~Title:ādeḥ~~
-{{description>by setting on fire.}}
+---json
+{
+    "name":"ādeḥ",
+    "h1":"ādeḥ",
+    "title":"ādeḥ --- synonyms, prabhupada.io",
+    "description":"by setting on fire."
+}
+---
 
 ==== agni-ādeḥ  ====
   * by setting on fire --- [[books:sb:1:13:8|SB 1.13.8]]

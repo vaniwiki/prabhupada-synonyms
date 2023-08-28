@@ -1,5 +1,11 @@
-~~Title:caturtham~~
-{{description>fourth.}}
+---json
+{
+    "name":"caturtham",
+    "h1":"caturtham",
+    "title":"caturtham --- synonyms, prabhupada.io",
+    "description":"fourth."
+}
+---
 
 ==== caturtham  ====
   * fourth --- [[books:sb:4:8:75|SB 4.8.75]]

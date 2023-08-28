@@ -1,5 +1,11 @@
-~~Title:bheje~~
-{{description>accepted; accepted as husband; achieved; entered; having overtaken; manifests; taken to; worshiped.}}
+---json
+{
+    "name":"bheje",
+    "h1":"bheje",
+    "title":"bheje --- synonyms, prabhupada.io",
+    "description":"accepted; accepted as husband; achieved; entered; having overtaken; manifests; taken to; worshiped."
+}
+---
 
 ==== bheje  ====
   * accepted --- [[books:sb:1:3:14|SB 1.3.14]]

@@ -1,5 +1,11 @@
-~~Title:yatatā~~
-{{description>while endeavoring.}}
+---json
+{
+    "name":"yatatā",
+    "h1":"yatatā",
+    "title":"yatatā --- synonyms, prabhupada.io",
+    "description":"while endeavoring."
+}
+---
 
 ==== yatatā  ====
   * while endeavoring --- [[books:bg:6:36|Bg. 6.36]]

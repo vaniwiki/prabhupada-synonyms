@@ -1,5 +1,11 @@
-~~Title:vistara~~
-{{description>a large quantity; expansively; many; very loudly.}}
+---json
+{
+    "name":"vistara",
+    "h1":"vistara",
+    "title":"vistara --- synonyms, prabhupada.io",
+    "description":"a large quantity; expansively; many; very loudly."
+}
+---
 
 ==== vistara  ====
   * a large quantity --- [[books:cc:madhya:11:239|Madhya 11.239]]

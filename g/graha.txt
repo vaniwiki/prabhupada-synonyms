@@ -1,5 +1,11 @@
-~~Title:graha~~
-{{description>influential planets like the moon; planetary system; planets; the asteroids; the influential planets; the nine planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto); the planets.}}
+---json
+{
+    "name":"graha",
+    "h1":"graha",
+    "title":"graha --- synonyms, prabhupada.io",
+    "description":"influential planets like the moon; planetary system; planets; the asteroids; the influential planets; the nine planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto); the planets."
+}
+---
 
 ==== graha  ====
   * influential planets like the moon --- [[books:sb:3:11:13|SB 3.11.13]]

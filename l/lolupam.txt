@@ -1,5 +1,11 @@
-~~Title:lolupam~~
-{{description>rapacious.}}
+---json
+{
+    "name":"lolupam",
+    "h1":"lolupam",
+    "title":"lolupam --- synonyms, prabhupada.io",
+    "description":"rapacious."
+}
+---
 
 ==== lolupam  ====
   * rapacious --- [[books:sb:3:19:13|SB 3.19.13]]

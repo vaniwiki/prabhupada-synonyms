@@ -1,5 +1,11 @@
-~~Title:ullasita~~
-{{description>being inspired; jubilant.}}
+---json
+{
+    "name":"ullasita",
+    "h1":"ullasita",
+    "title":"ullasita --- synonyms, prabhupada.io",
+    "description":"being inspired; jubilant."
+}
+---
 
 ==== ullasita  ====
   * being inspired --- [[books:cc:madhya:14:194|Madhya 14.194]]

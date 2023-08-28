@@ -1,5 +1,11 @@
-~~Title:bibheda~~
-{{description>could pierce; pierced.}}
+---json
+{
+    "name":"bibheda",
+    "h1":"bibheda",
+    "title":"bibheda --- synonyms, prabhupada.io",
+    "description":"could pierce; pierced."
+}
+---
 
 ==== bibheda  ====
   * could pierce --- [[books:sb:8:11:32|SB 8.11.32]]

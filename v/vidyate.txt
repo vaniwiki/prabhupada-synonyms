@@ -1,5 +1,11 @@
-~~Title:vidyate~~
-{{description>exist; exists; takes to; there is.}}
+---json
+{
+    "name":"vidyate",
+    "h1":"vidyate",
+    "title":"vidyate --- synonyms, prabhupada.io",
+    "description":"exist; exists; takes to; there is."
+}
+---
 
 ==== vidyate  ====
   * exist --- [[books:bg:2:31|Bg. 2.31]], [[books:bg:3:17|Bg. 3.17]], [[books:sb:4:22:36|SB 4.22.36]]

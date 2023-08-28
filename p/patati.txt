@@ -1,5 +1,11 @@
-~~Title:patati~~
-{{description>falls; falls down; he falls down; will now fall down.}}
+---json
+{
+    "name":"patati",
+    "h1":"patati",
+    "title":"patati --- synonyms, prabhupada.io",
+    "description":"falls; falls down; he falls down; will now fall down."
+}
+---
 
 ==== patati  ====
   * falls --- [[books:sb:6:16:37|SB 6.16.37]]

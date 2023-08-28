@@ -1,5 +1,11 @@
-~~Title:anvayah~~
-{{description>descendants.}}
+---json
+{
+    "name":"anvayah",
+    "h1":"anvayah",
+    "title":"anvayah --- synonyms, prabhupada.io",
+    "description":"descendants."
+}
+---
 
 ==== anvayaḥ  ====
   * descendants --- [[books:sb:9:2:22|SB 9.2.22]]

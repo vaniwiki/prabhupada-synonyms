@@ -1,5 +1,11 @@
-~~Title:aṇīyāṁsam~~
-{{description>invisible to material eyes, although existing everywhere; smaller than.}}
+---json
+{
+    "name":"aṇīyāṁsam",
+    "h1":"aṇīyāṁsam",
+    "title":"aṇīyāṁsam --- synonyms, prabhupada.io",
+    "description":"invisible to material eyes, although existing everywhere; smaller than."
+}
+---
 
 ==== aṇīyāṁsam  ====
   * invisible to material eyes, although existing everywhere --- [[books:sb:9:18:50|SB 9.18.50]]

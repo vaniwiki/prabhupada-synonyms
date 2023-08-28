@@ -1,5 +1,11 @@
-~~Title:īritān~~
-{{description>tossed.}}
+---json
+{
+    "name":"īritān",
+    "h1":"īritān",
+    "title":"īritān --- synonyms, prabhupada.io",
+    "description":"tossed."
+}
+---
 
 ==== īritān  ====
   * tossed --- [[books:sb:3:17:26|SB 3.17.26]]

@@ -1,5 +1,11 @@
-~~Title:rāmeṇa~~
-{{description>Balarāma.}}
+---json
+{
+    "name":"rāmeṇa",
+    "h1":"rāmeṇa",
+    "title":"rāmeṇa --- synonyms, prabhupada.io",
+    "description":"Balarāma."
+}
+---
 
 ==== rāmeṇa  ====
   * Balarāma --- [[books:sb:1:1:20|SB 1.1.20]]

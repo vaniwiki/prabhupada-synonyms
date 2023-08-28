@@ -1,5 +1,11 @@
-~~Title:dambham~~
-{{description>Bluffing; false pride; pride.}}
+---json
+{
+    "name":"dambham",
+    "h1":"dambham",
+    "title":"dambham --- synonyms, prabhupada.io",
+    "description":"Bluffing; false pride; pride."
+}
+---
 
 ==== dambham  ====
   * Bluffing --- [[books:sb:4:8:2|SB 4.8.2]]

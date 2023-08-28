@@ -1,5 +1,11 @@
-~~Title:saṅgraham~~
-{{description>collection; who accepts.}}
+---json
+{
+    "name":"saṅgraham",
+    "h1":"saṅgraham",
+    "title":"saṅgraham --- synonyms, prabhupada.io",
+    "description":"collection; who accepts."
+}
+---
 
 ==== saṅgraham  ====
   * collection --- [[books:sb:4:24:45-46|SB 4.24.45-46]]

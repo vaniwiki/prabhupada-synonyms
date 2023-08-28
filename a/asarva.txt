@@ -1,5 +1,11 @@
-~~Title:asarva~~
-{{description>having qualities not fully manifested.}}
+---json
+{
+    "name":"asarva",
+    "h1":"asarva",
+    "title":"asarva --- synonyms, prabhupada.io",
+    "description":"having qualities not fully manifested."
+}
+---
 
 ==== asarva-vyañjakaḥ  ====
   * having qualities not fully manifested --- [[books:cc:madhya:20:400|Madhya 20.400]]

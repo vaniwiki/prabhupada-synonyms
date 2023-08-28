@@ -1,5 +1,11 @@
-~~Title:ghareyāñā~~
-{{description>returning home.}}
+---json
+{
+    "name":"ghareyāñā",
+    "h1":"ghareyāñā",
+    "title":"ghareyāñā --- synonyms, prabhupada.io",
+    "description":"returning home."
+}
+---
 
 ==== ghareyāñā  ====
   * returning home --- [[books:cc:madhya:3:190|Madhya 3.190]]

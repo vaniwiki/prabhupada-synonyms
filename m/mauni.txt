@@ -1,5 +1,11 @@
-~~Title:maunī~~
-{{description>grave; one who is silent; silent.}}
+---json
+{
+    "name":"maunī",
+    "h1":"maunī",
+    "title":"maunī --- synonyms, prabhupada.io",
+    "description":"grave; one who is silent; silent."
+}
+---
 
 ==== maunī  ====
   * grave --- [[books:cc:madhya:23:111-112|Madhya 23.111-112]]

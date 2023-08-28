@@ -1,5 +1,11 @@
-~~Title:dharmaiḥ~~
-{{description>by the power of religion.}}
+---json
+{
+    "name":"dharmaiḥ",
+    "h1":"dharmaiḥ",
+    "title":"dharmaiḥ --- synonyms, prabhupada.io",
+    "description":"by the power of religion."
+}
+---
 
 ==== dharmaiḥ  ====
   * by the power of religion --- [[books:sb:5:1:12|SB 5.1.12]]

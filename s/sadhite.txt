@@ -1,5 +1,11 @@
-~~Title:sādhite~~
-{{description>began to solicit.}}
+---json
+{
+    "name":"sādhite",
+    "h1":"sādhite",
+    "title":"sādhite --- synonyms, prabhupada.io",
+    "description":"began to solicit."
+}
+---
 
 ==== sādhite lāgilā  ====
   * began to solicit --- [[books:cc:madhya:12:40|Madhya 12.40]]

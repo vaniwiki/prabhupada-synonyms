@@ -1,5 +1,11 @@
-~~Title:samāmnāye~~
-{{description>in the aggregate of all alphabets.}}
+---json
+{
+    "name":"samāmnāye",
+    "h1":"samāmnāye",
+    "title":"samāmnāye --- synonyms, prabhupada.io",
+    "description":"in the aggregate of all alphabets."
+}
+---
 
 ==== varṇa-samāmnāye  ====
   * in the aggregate of all alphabets --- [[books:sb:7:15:53|SB 7.15.53]]

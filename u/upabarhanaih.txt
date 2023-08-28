@@ -1,5 +1,11 @@
-~~Title:upabarhaṇaiḥ~~
-{{description>bed and bedstead.}}
+---json
+{
+    "name":"upabarhaṇaiḥ",
+    "h1":"upabarhaṇaiḥ",
+    "title":"upabarhaṇaiḥ --- synonyms, prabhupada.io",
+    "description":"bed and bedstead."
+}
+---
 
 ==== upabarhaṇaiḥ  ====
   * bed and bedstead --- [[books:sb:2:2:4|SB 2.2.4]]

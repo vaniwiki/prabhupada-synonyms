@@ -1,5 +1,11 @@
-~~Title:iṅhāte~~
-{{description>in him.}}
+---json
+{
+    "name":"iṅhāte",
+    "h1":"iṅhāte",
+    "title":"iṅhāte --- synonyms, prabhupada.io",
+    "description":"in him."
+}
+---
 
 ==== iṅhāte  ====
   * in him --- [[books:cc:antya:2:24-25|Antya 2.24-25]]

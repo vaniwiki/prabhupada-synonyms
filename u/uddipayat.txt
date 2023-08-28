@@ -1,5 +1,11 @@
-~~Title:uddīpayat~~
-{{description>awakening.}}
+---json
+{
+    "name":"uddīpayat",
+    "h1":"uddīpayat",
+    "title":"uddīpayat --- synonyms, prabhupada.io",
+    "description":"awakening."
+}
+---
 
 ==== uddīpayat  ====
   * awakening --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

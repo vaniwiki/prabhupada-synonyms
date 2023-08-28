@@ -1,5 +1,11 @@
-~~Title:vipracitaḥ~~
-{{description>from Vipracit.}}
+---json
+{
+    "name":"vipracitaḥ",
+    "h1":"vipracitaḥ",
+    "title":"vipracitaḥ --- synonyms, prabhupada.io",
+    "description":"from Vipracit."
+}
+---
 
 ==== vipracitaḥ  ====
   * from Vipracit --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

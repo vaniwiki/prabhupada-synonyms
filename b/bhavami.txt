@@ -1,5 +1,11 @@
-~~Title:bhavāmi~~
-{{description>become.}}
+---json
+{
+    "name":"bhavāmi",
+    "h1":"bhavāmi",
+    "title":"bhavāmi --- synonyms, prabhupada.io",
+    "description":"become."
+}
+---
 
 ==== bhavāmi  ====
   * become --- [[books:bg:12:6-7|Bg. 12.6-7]]

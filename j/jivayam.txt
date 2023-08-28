@@ -1,5 +1,11 @@
-~~Title:jīvayām~~
-{{description>brought back to life; brought to life.}}
+---json
+{
+    "name":"jīvayām",
+    "h1":"jīvayām",
+    "title":"jīvayām --- synonyms, prabhupada.io",
+    "description":"brought back to life; brought to life."
+}
+---
 
 ==== jīvayām āsa  ====
   * brought back to life --- [[books:sb:8:6:37|SB 8.6.37]]

@@ -1,5 +1,11 @@
-~~Title:sara~~
-{{description>solid cream collected over yogurt.}}
+---json
+{
+    "name":"sara",
+    "h1":"sara",
+    "title":"sara --- synonyms, prabhupada.io",
+    "description":"solid cream collected over yogurt."
+}
+---
 
 ==== sara  ====
   * solid cream collected over yogurt --- [[books:cc:madhya:4:74|Madhya 4.74]]

@@ -1,5 +1,11 @@
-~~Title:badarikāśrame~~
-{{description>in the place known as Badarikāśrama.}}
+---json
+{
+    "name":"badarikāśrame",
+    "h1":"badarikāśrame",
+    "title":"badarikāśrame --- synonyms, prabhupada.io",
+    "description":"in the place known as Badarikāśrama."
+}
+---
 
 ==== badarikāśrame  ====
   * in the place known as Badarikāśrama --- [[books:sb:7:11:6|SB 7.11.6]]

@@ -1,5 +1,11 @@
-~~Title:vaḍavām~~
-{{description>a mare; Vaḍavā.}}
+---json
+{
+    "name":"vaḍavām",
+    "h1":"vaḍavām",
+    "title":"vaḍavām --- synonyms, prabhupada.io",
+    "description":"a mare; Vaḍavā."
+}
+---
 
 ==== vaḍavām  ====
   * a mare --- [[books:sb:9:1:26|SB 9.1.26]]

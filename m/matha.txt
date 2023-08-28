@@ -1,5 +1,11 @@
-~~Title:matha~~
-{{description>temple.}}
+---json
+{
+    "name":"matha",
+    "h1":"matha",
+    "title":"matha --- synonyms, prabhupada.io",
+    "description":"temple."
+}
+---
 
 ==== maṭha  ====
   * temple --- [[books:cc:madhya:4:38|Madhya 4.38]], [[books:cc:antya:13:69|Antya 13.69]]

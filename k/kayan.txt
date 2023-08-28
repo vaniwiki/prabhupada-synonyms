@@ -1,5 +1,11 @@
-~~Title:kāyān~~
-{{description>bodies.}}
+---json
+{
+    "name":"kāyān",
+    "h1":"kāyān",
+    "title":"kāyān --- synonyms, prabhupada.io",
+    "description":"bodies."
+}
+---
 
 ==== kāyān  ====
   * bodies --- [[books:sb:4:10:17|SB 4.10.17]]

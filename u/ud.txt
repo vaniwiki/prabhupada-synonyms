@@ -1,5 +1,11 @@
-~~Title:ud~~
-{{description>with uplifted weapons.}}
+---json
+{
+    "name":"ud",
+    "h1":"ud",
+    "title":"ud --- synonyms, prabhupada.io",
+    "description":"with uplifted weapons."
+}
+---
 
 ==== ud-āyudhaiḥ  ====
   * with uplifted weapons --- [[books:sb:4:7:32|SB 4.7.32]]

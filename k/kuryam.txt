@@ -1,5 +1,11 @@
-~~Title:kuryām~~
-{{description>perform; shall I do it; shall make.}}
+---json
+{
+    "name":"kuryām",
+    "h1":"kuryām",
+    "title":"kuryām --- synonyms, prabhupada.io",
+    "description":"perform; shall I do it; shall make."
+}
+---
 
 ==== kuryām  ====
   * perform --- [[books:bg:3:24|Bg. 3.24]]

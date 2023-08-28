@@ -1,5 +1,11 @@
-~~Title:stuvīta~~
-{{description>one should praise; prays; should offer prayers.}}
+---json
+{
+    "name":"stuvīta",
+    "h1":"stuvīta",
+    "title":"stuvīta --- synonyms, prabhupada.io",
+    "description":"one should praise; prays; should offer prayers."
+}
+---
 
 ==== stuvīta  ====
   * one should praise --- [[books:sb:6:19:16|SB 6.19.16]]

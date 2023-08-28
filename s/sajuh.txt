@@ -1,5 +1,11 @@
-~~Title:sajūḥ~~
-{{description>with.}}
+---json
+{
+    "name":"sajūḥ",
+    "h1":"sajūḥ",
+    "title":"sajūḥ --- synonyms, prabhupada.io",
+    "description":"with."
+}
+---
 
 ==== sajūḥ  ====
   * with --- [[books:sb:6:18:66-67|SB 6.18.66-67]]

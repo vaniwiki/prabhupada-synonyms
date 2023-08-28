@@ -1,5 +1,11 @@
-~~Title:praṇāmān~~
-{{description>offering obeisances.}}
+---json
+{
+    "name":"praṇāmān",
+    "h1":"praṇāmān",
+    "title":"praṇāmān --- synonyms, prabhupada.io",
+    "description":"offering obeisances."
+}
+---
 
 ==== praṇāmān  ====
   * offering obeisances --- [[books:sb:1:16:16|SB 1.16.16]]

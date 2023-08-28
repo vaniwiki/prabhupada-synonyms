@@ -1,5 +1,11 @@
-~~Title:srotaḥ~~
-{{description>passage of food; waves.}}
+---json
+{
+    "name":"srotaḥ",
+    "h1":"srotaḥ",
+    "title":"srotaḥ --- synonyms, prabhupada.io",
+    "description":"passage of food; waves."
+}
+---
 
 ==== srotaḥ  ====
   * passage of food --- [[books:sb:3:10:26|SB 3.10.26]]

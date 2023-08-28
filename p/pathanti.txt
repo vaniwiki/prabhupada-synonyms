@@ -1,5 +1,11 @@
-~~Title:paṭhanti~~
-{{description>all the members of the old generation recite; are reciting; it is said; they study it.}}
+---json
+{
+    "name":"paṭhanti",
+    "h1":"paṭhanti",
+    "title":"paṭhanti --- synonyms, prabhupada.io",
+    "description":"all the members of the old generation recite; are reciting; it is said; they study it."
+}
+---
 
 ==== paṭhanti  ====
   * all the members of the old generation recite --- [[books:sb:9:24:9|SB 9.24.9]]

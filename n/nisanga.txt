@@ -1,5 +1,11 @@
-~~Title:niṣaṅga~~
-{{description>quiver of arrows.}}
+---json
+{
+    "name":"niṣaṅga",
+    "h1":"niṣaṅga",
+    "title":"niṣaṅga --- synonyms, prabhupada.io",
+    "description":"quiver of arrows."
+}
+---
 
 ==== niṣaṅga  ====
   * quiver of arrows --- [[books:sb:6:1:34-36|SB 6.1.34-36]]

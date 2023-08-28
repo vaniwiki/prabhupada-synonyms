@@ -1,5 +1,11 @@
-~~Title:līlāke~~
-{{description>to the pastimes.}}
+---json
+{
+    "name":"līlāke",
+    "h1":"līlāke",
+    "title":"līlāke --- synonyms, prabhupada.io",
+    "description":"to the pastimes."
+}
+---
 
 ==== līlāke  ====
   * to the pastimes --- [[books:cc:antya:20:75|Antya 20.75]]

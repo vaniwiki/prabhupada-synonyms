@@ -1,5 +1,11 @@
-~~Title:puḍi'~~
-{{description>to ashes.}}
+---json
+{
+    "name":"puḍi'",
+    "h1":"puḍi'",
+    "title":"puḍi' --- synonyms, prabhupada.io",
+    "description":"to ashes."
+}
+---
 
 ==== puḍi'  ====
   * to ashes --- [[books:cc:adi:17:36|Ādi 17.36]]

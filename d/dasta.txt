@@ -1,5 +1,11 @@
-~~Title:daṣṭa~~
-{{description>bitten.}}
+---json
+{
+    "name":"daṣṭa",
+    "h1":"daṣṭa",
+    "title":"daṣṭa --- synonyms, prabhupada.io",
+    "description":"bitten."
+}
+---
 
 ==== daṣṭa  ====
   * bitten --- [[books:sb:3:18:16|SB 3.18.16]], [[books:sb:7:2:29-31|SB 7.2.29-31]]

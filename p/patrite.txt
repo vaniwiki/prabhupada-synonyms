@@ -1,5 +1,11 @@
-~~Title:patrīte~~
-{{description>in the note.}}
+---json
+{
+    "name":"patrīte",
+    "h1":"patrīte",
+    "title":"patrīte --- synonyms, prabhupada.io",
+    "description":"in the note."
+}
+---
 
 ==== patrīte  ====
   * in the note --- [[books:cc:adi:12:31|Ādi 12.31]]

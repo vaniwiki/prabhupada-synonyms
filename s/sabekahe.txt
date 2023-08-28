@@ -1,5 +1,11 @@
-~~Title:sabekahe~~
-{{description>everyone said.}}
+---json
+{
+    "name":"sabekahe",
+    "h1":"sabekahe",
+    "title":"sabekahe --- synonyms, prabhupada.io",
+    "description":"everyone said."
+}
+---
 
 ==== sabekahe  ====
   * everyone said --- [[books:cc:madhya:12:14|Madhya 12.14]], [[books:cc:madhya:13:53|Madhya 13.53]]

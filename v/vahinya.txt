@@ -1,5 +1,11 @@
-~~Title:vāhinyā~~
-{{description>under the sway of the material laws of nature.}}
+---json
+{
+    "name":"vāhinyā",
+    "h1":"vāhinyā",
+    "title":"vāhinyā --- synonyms, prabhupada.io",
+    "description":"under the sway of the material laws of nature."
+}
+---
 
 ==== bhava-vāhinyā  ====
   * under the sway of the material laws of nature --- [[books:sb:7:13:24|SB 7.13.24]]

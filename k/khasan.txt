@@ -1,5 +1,11 @@
-~~Title:khaśān~~
-{{description>the Mongolians.}}
+---json
+{
+    "name":"khaśān",
+    "h1":"khaśān",
+    "title":"khaśān --- synonyms, prabhupada.io",
+    "description":"the Mongolians."
+}
+---
 
 ==== khaśān  ====
   * the Mongolians --- [[books:sb:9:20:30|SB 9.20.30]]

@@ -1,5 +1,11 @@
-~~Title:ukṣitam~~
-{{description>smeared.}}
+---json
+{
+    "name":"ukṣitam",
+    "h1":"ukṣitam",
+    "title":"ukṣitam --- synonyms, prabhupada.io",
+    "description":"smeared."
+}
+---
 
 ==== ukṣitam  ====
   * smeared --- [[books:sb:8:8:18|SB 8.8.18]]

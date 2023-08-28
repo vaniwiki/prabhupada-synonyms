@@ -1,5 +1,11 @@
-~~Title:madhyei~~
-{{description>I have already stated within the synopsis.}}
+---json
+{
+    "name":"madhyei",
+    "h1":"madhyei",
+    "title":"madhyei --- synonyms, prabhupada.io",
+    "description":"I have already stated within the synopsis."
+}
+---
 
 ==== sūtra-madhyei kahiluṅ  ====
   * I have already stated within the synopsis --- [[books:cc:madhya:1:9|Madhya 1.9]]

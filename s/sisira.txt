@@ -1,5 +1,11 @@
-~~Title:śiśira~~
-{{description>cool; dew; taking away all miseries.}}
+---json
+{
+    "name":"śiśira",
+    "h1":"śiśira",
+    "title":"śiśira --- synonyms, prabhupada.io",
+    "description":"cool; dew; taking away all miseries."
+}
+---
 
 ==== śiśira  ====
   * cool --- [[books:sb:6:9:41|SB 6.9.41]]

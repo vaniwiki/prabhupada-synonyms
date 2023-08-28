@@ -1,5 +1,11 @@
-~~Title:prayujyate~~
-{{description>is used.}}
+---json
+{
+    "name":"prayujyate",
+    "h1":"prayujyate",
+    "title":"prayujyate --- synonyms, prabhupada.io",
+    "description":"is used."
+}
+---
 
 ==== prayujyate  ====
   * is used --- [[books:bg:17:26-27|Bg. 17.26-27]]

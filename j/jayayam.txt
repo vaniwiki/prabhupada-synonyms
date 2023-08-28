@@ -1,5 +1,11 @@
-~~Title:jāyāyām~~
-{{description>in the wife.}}
+---json
+{
+    "name":"jāyāyām",
+    "h1":"jāyāyām",
+    "title":"jāyāyām --- synonyms, prabhupada.io",
+    "description":"in the wife."
+}
+---
 
 ==== jāyāyām  ====
   * in the wife --- [[books:sb:5:1:28|SB 5.1.28]]

@@ -1,5 +1,11 @@
-~~Title:rādhātei~~
-{{description>in Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"rādhātei",
+    "h1":"rādhātei",
+    "title":"rādhātei --- synonyms, prabhupada.io",
+    "description":"in Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhātei  ====
   * in Śrīmatī Rādhārāṇī --- [[books:cc:adi:4:93|Ādi 4.93]]

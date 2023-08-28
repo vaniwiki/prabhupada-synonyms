@@ -1,5 +1,11 @@
-~~Title:anumodate~~
-{{description>takes pleasure.}}
+---json
+{
+    "name":"anumodate",
+    "h1":"anumodate",
+    "title":"anumodate --- synonyms, prabhupada.io",
+    "description":"takes pleasure."
+}
+---
 
 ==== anumodate  ====
   * takes pleasure --- [[books:sb:3:19:37|SB 3.19.37]]

@@ -1,5 +1,11 @@
-~~Title:prahelī~~
-{{description>enigma.}}
+---json
+{
+    "name":"prahelī",
+    "h1":"prahelī",
+    "title":"prahelī --- synonyms, prabhupada.io",
+    "description":"enigma."
+}
+---
 
 ==== prahelī  ====
   * enigma --- [[books:cc:madhya:16:265-266|Madhya 16.265-266]], [[books:cc:madhya:16:268|Madhya 16.268]]

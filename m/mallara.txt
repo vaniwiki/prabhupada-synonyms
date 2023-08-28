@@ -1,5 +1,11 @@
-~~Title:mallāra~~
-{{description>to Mallāra-deśa.}}
+---json
+{
+    "name":"mallāra",
+    "h1":"mallāra",
+    "title":"mallāra --- synonyms, prabhupada.io",
+    "description":"to Mallāra-deśa."
+}
+---
 
 ==== mallāra-deśete  ====
   * to Mallāra-deśa --- [[books:cc:madhya:9:224|Madhya 9.224]]

@@ -1,5 +1,11 @@
-~~Title:bhaumāni~~
-{{description>all material products from earth, such as pots.}}
+---json
+{
+    "name":"bhaumāni",
+    "h1":"bhaumāni",
+    "title":"bhaumāni --- synonyms, prabhupada.io",
+    "description":"all material products from earth, such as pots."
+}
+---
 
 ==== bhaumāni  ====
   * all material products from earth, such as pots --- [[books:sb:10:4:19|SB 10.4.19]]

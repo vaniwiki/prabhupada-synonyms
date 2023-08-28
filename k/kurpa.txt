@@ -1,5 +1,11 @@
-~~Title:kūrpa~~
-{{description>by small stones and so on; by the small particles of stone.}}
+---json
+{
+    "name":"kūrpa",
+    "h1":"kūrpa",
+    "title":"kūrpa --- synonyms, prabhupada.io",
+    "description":"by small stones and so on; by the small particles of stone."
+}
+---
 
 ==== kūrpa-ādibhiḥ  ====
   * by small stones and so on --- [[books:cc:adi:4:173|Ādi 4.173]], [[books:cc:madhya:18:65|Madhya 18.65]], [[books:cc:antya:7:40|Antya 7.40]]

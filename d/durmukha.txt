@@ -1,5 +1,11 @@
-~~Title:durmukha~~
-{{description>Durmukha; ferocious, using strong words; one who speaks harshly.}}
+---json
+{
+    "name":"durmukha",
+    "h1":"durmukha",
+    "title":"durmukha --- synonyms, prabhupada.io",
+    "description":"Durmukha; ferocious, using strong words; one who speaks harshly."
+}
+---
 
 ==== durmukha  ====
   * Durmukha --- [[books:sb:9:10:18|SB 9.10.18]]

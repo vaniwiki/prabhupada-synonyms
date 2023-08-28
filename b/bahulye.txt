@@ -1,5 +1,11 @@
-~~Title:bāhulye~~
-{{description>elaborately.}}
+---json
+{
+    "name":"bāhulye",
+    "h1":"bāhulye",
+    "title":"bāhulye --- synonyms, prabhupada.io",
+    "description":"elaborately."
+}
+---
 
 ==== bāhulye  ====
   * elaborately --- [[books:cc:antya:14:9|Antya 14.9]]

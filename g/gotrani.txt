@@ -1,5 +1,11 @@
-~~Title:gotrāṇi~~
-{{description>the family dynasties.}}
+---json
+{
+    "name":"gotrāṇi",
+    "h1":"gotrāṇi",
+    "title":"gotrāṇi --- synonyms, prabhupada.io",
+    "description":"the family dynasties."
+}
+---
 
 ==== gotrāṇi  ====
   * the family dynasties --- [[books:sb:9:3:32|SB 9.3.32]]

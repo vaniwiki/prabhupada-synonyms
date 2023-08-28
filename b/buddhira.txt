@@ -1,5 +1,11 @@
-~~Title:buddhira~~
-{{description>of the intelligence.}}
+---json
+{
+    "name":"buddhira",
+    "h1":"buddhira",
+    "title":"buddhira --- synonyms, prabhupada.io",
+    "description":"of the intelligence."
+}
+---
 
 ==== buddhira  ====
   * of the intelligence --- [[books:cc:adi:4:185|Ādi 4.185]]

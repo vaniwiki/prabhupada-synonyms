@@ -1,5 +1,11 @@
-~~Title:guṇāni~~
-{{description>twice.}}
+---json
+{
+    "name":"guṇāni",
+    "h1":"guṇāni",
+    "title":"guṇāni --- synonyms, prabhupada.io",
+    "description":"twice."
+}
+---
 
 ==== dvi-guṇāni  ====
   * twice --- [[books:sb:3:11:19|SB 3.11.19]]

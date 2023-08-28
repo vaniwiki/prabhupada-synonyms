@@ -1,5 +1,11 @@
-~~Title:akṣataiḥ~~
-{{description>and barley.}}
+---json
+{
+    "name":"akṣataiḥ",
+    "h1":"akṣataiḥ",
+    "title":"akṣataiḥ --- synonyms, prabhupada.io",
+    "description":"and barley."
+}
+---
 
 ==== akṣataiḥ  ====
   * and barley --- [[books:sb:4:9:57|SB 4.9.57]]

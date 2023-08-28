@@ -1,5 +1,11 @@
-~~Title:pravartane~~
-{{description>establishing.}}
+---json
+{
+    "name":"pravartane",
+    "h1":"pravartane",
+    "title":"pravartane --- synonyms, prabhupada.io",
+    "description":"establishing."
+}
+---
 
 ==== pravartane  ====
   * establishing --- [[books:cc:antya:1:202|Antya 1.202]]

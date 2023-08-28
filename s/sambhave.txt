@@ -1,5 +1,11 @@
-~~Title:sambhave~~
-{{description>possibilities; possible; the breeding place.}}
+---json
+{
+    "name":"sambhave",
+    "h1":"sambhave",
+    "title":"sambhave --- synonyms, prabhupada.io",
+    "description":"possibilities; possible; the breeding place."
+}
+---
 
 ==== sambhave  ====
   * possibilities --- [[books:cc:adi:2:111|Ādi 2.111]]

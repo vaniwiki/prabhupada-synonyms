@@ -1,5 +1,11 @@
-~~Title:pravartaka~~
-{{description>the introduction called pravartaka.}}
+---json
+{
+    "name":"pravartaka",
+    "h1":"pravartaka",
+    "title":"pravartaka --- synonyms, prabhupada.io",
+    "description":"the introduction called pravartaka."
+}
+---
 
 ==== pravartaka nāma  ====
   * the introduction called //pravartaka// --- [[books:cc:antya:1:134|Antya 1.134]]

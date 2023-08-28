@@ -1,5 +1,11 @@
-~~Title:anātmyam~~
-{{description>bodily consciousness; neglect.}}
+---json
+{
+    "name":"anātmyam",
+    "h1":"anātmyam",
+    "title":"anātmyam --- synonyms, prabhupada.io",
+    "description":"bodily consciousness; neglect."
+}
+---
 
 ==== anātmyam  ====
   * bodily consciousness --- [[books:sb:4:9:31|SB 4.9.31]]

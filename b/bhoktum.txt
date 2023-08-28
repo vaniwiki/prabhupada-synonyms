@@ -1,5 +1,11 @@
-~~Title:bhoktum~~
-{{description>to eat; to eat something more; to enjoy life.}}
+---json
+{
+    "name":"bhoktum",
+    "h1":"bhoktum",
+    "title":"bhoktum --- synonyms, prabhupada.io",
+    "description":"to eat; to eat something more; to enjoy life."
+}
+---
 
 ==== bhoktum  ====
   * to eat --- [[books:sb:1:18:34|SB 1.18.34]]

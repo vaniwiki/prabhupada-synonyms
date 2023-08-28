@@ -1,5 +1,11 @@
-~~Title:anirveśam~~
-{{description>who has not performed atonement.}}
+---json
+{
+    "name":"anirveśam",
+    "h1":"anirveśam",
+    "title":"anirveśam --- synonyms, prabhupada.io",
+    "description":"who has not performed atonement."
+}
+---
 
 ==== anirveśam  ====
   * who has not performed atonement --- [[books:sb:5:26:18|SB 5.26.18]]

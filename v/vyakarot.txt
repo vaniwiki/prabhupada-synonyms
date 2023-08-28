@@ -1,5 +1,11 @@
-~~Title:vyakarot~~
-{{description>differentiated.}}
+---json
+{
+    "name":"vyakarot",
+    "h1":"vyakarot",
+    "title":"vyakarot --- synonyms, prabhupada.io",
+    "description":"differentiated."
+}
+---
 
 ==== vyakarot  ====
   * differentiated --- [[books:sb:3:5:28|SB 3.5.28]]

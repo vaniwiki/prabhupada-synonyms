@@ -1,5 +1,11 @@
-~~Title:utsiktam~~
-{{description>proud.}}
+---json
+{
+    "name":"utsiktam",
+    "h1":"utsiktam",
+    "title":"utsiktam --- synonyms, prabhupada.io",
+    "description":"proud."
+}
+---
 
 ==== utsiktam  ====
   * proud --- [[books:sb:3:17:22|SB 3.17.22]]

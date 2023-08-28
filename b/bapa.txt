@@ -1,5 +1,11 @@
-~~Title:bāpa~~
-{{description>father.}}
+---json
+{
+    "name":"bāpa",
+    "h1":"bāpa",
+    "title":"bāpa --- synonyms, prabhupada.io",
+    "description":"father."
+}
+---
 
 ==== bāpa  ====
   * father --- [[books:cc:antya:6:197|Antya 6.197]]

@@ -1,5 +1,11 @@
-~~Title:anṛtyat~~
-{{description>the small Kṛṣṇa danced.}}
+---json
+{
+    "name":"anṛtyat",
+    "h1":"anṛtyat",
+    "title":"anṛtyat --- synonyms, prabhupada.io",
+    "description":"the small Kṛṣṇa danced."
+}
+---
 
 ==== anṛtyat  ====
   * the small Kṛṣṇa danced --- [[books:sb:10:11:7|SB 10.11.7]]

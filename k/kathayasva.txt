@@ -1,5 +1,11 @@
-~~Title:kathayasva~~
-{{description>please continue speaking.}}
+---json
+{
+    "name":"kathayasva",
+    "h1":"kathayasva",
+    "title":"kathayasva --- synonyms, prabhupada.io",
+    "description":"please continue speaking."
+}
+---
 
 ==== kathayasva  ====
   * please continue speaking --- [[books:sb:2:8:3|SB 2.8.3]]

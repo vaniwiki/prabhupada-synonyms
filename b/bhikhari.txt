@@ -1,5 +1,11 @@
-~~Title:bhikhari~~
-{{description>beggar.}}
+---json
+{
+    "name":"bhikhari",
+    "h1":"bhikhari",
+    "title":"bhikhari --- synonyms, prabhupada.io",
+    "description":"beggar."
+}
+---
 
 ==== bhikhāri  ====
   * beggar --- [[books:cc:madhya:1:172|Madhya 1.172]]

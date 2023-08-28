@@ -1,5 +1,11 @@
-~~Title:matsarah~~
-{{description>envious; intolerance.}}
+---json
+{
+    "name":"matsarah",
+    "h1":"matsarah",
+    "title":"matsarah --- synonyms, prabhupada.io",
+    "description":"envious; intolerance."
+}
+---
 
 ==== matsaraḥ  ====
   * envious --- [[books:sb:1:18:29|SB 1.18.29]]

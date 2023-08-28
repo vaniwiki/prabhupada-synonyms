@@ -1,5 +1,11 @@
-~~Title:upatapyamānam~~
-{{description>suffering.}}
+---json
+{
+    "name":"upatapyamānam",
+    "h1":"upatapyamānam",
+    "title":"upatapyamānam --- synonyms, prabhupada.io",
+    "description":"suffering."
+}
+---
 
 ==== upatapyamānam  ====
   * suffering --- [[books:sb:5:6:17|SB 5.6.17]]

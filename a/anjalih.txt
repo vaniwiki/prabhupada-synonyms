@@ -1,5 +1,11 @@
-~~Title:añjaliḥ~~
-{{description>folded hands; with folded hands.}}
+---json
+{
+    "name":"añjaliḥ",
+    "h1":"añjaliḥ",
+    "title":"añjaliḥ --- synonyms, prabhupada.io",
+    "description":"folded hands; with folded hands."
+}
+---
 
 ==== añjaliḥ  ====
   * folded hands --- [[books:sb:4:1:24|SB 4.1.24]]

@@ -1,5 +1,11 @@
-~~Title:bhāṣase~~
-{{description>speaking.}}
+---json
+{
+    "name":"bhāṣase",
+    "h1":"bhāṣase",
+    "title":"bhāṣase --- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== bhāṣase  ====
   * speaking --- [[books:bg:2:11|Bg. 2.11]]

@@ -1,5 +1,11 @@
-~~Title:sandeśa~~
-{{description>a sweetmeat; message; sweetmeat; sweetmeats; the order; the sweetmeats.}}
+---json
+{
+    "name":"sandeśa",
+    "h1":"sandeśa",
+    "title":"sandeśa --- synonyms, prabhupada.io",
+    "description":"a sweetmeat; message; sweetmeat; sweetmeats; the order; the sweetmeats."
+}
+---
 
 ==== sandeśa  ====
   * a sweetmeat --- [[books:cc:madhya:15:218|Madhya 15.218]]

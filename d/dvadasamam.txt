@@ -1,5 +1,11 @@
-~~Title:dvādaśamam~~
-{{description>the twelfth in the line.}}
+---json
+{
+    "name":"dvādaśamam",
+    "h1":"dvādaśamam",
+    "title":"dvādaśamam --- synonyms, prabhupada.io",
+    "description":"the twelfth in the line."
+}
+---
 
 ==== dvādaśamam  ====
   * the twelfth in the line --- [[books:sb:1:3:17|SB 1.3.17]]

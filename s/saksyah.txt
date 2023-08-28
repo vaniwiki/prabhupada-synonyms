@@ -1,5 +1,11 @@
-~~Title:sākṣyaḥ~~
-{{description>testimony.}}
+---json
+{
+    "name":"sākṣyaḥ",
+    "h1":"sākṣyaḥ",
+    "title":"sākṣyaḥ --- synonyms, prabhupada.io",
+    "description":"testimony."
+}
+---
 
 ==== sākṣyaḥ  ====
   * testimony --- [[books:sb:5:11:7|SB 5.11.7]]

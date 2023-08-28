@@ -1,5 +1,11 @@
-~~Title:prakāśaye~~
-{{description>exhibits.}}
+---json
+{
+    "name":"prakāśaye",
+    "h1":"prakāśaye",
+    "title":"prakāśaye --- synonyms, prabhupada.io",
+    "description":"exhibits."
+}
+---
 
 ==== prakāśaye  ====
   * exhibits --- [[books:cc:madhya:13:64|Madhya 13.64]]

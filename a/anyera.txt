@@ -1,5 +1,11 @@
-~~Title:anyera~~
-{{description>by others; for others; of others; others.}}
+---json
+{
+    "name":"anyera",
+    "h1":"anyera",
+    "title":"anyera --- synonyms, prabhupada.io",
+    "description":"by others; for others; of others; others."
+}
+---
 
 ==== anyera  ====
   * by others --- [[books:cc:antya:16:142|Antya 16.142]]

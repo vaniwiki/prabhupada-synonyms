@@ -1,5 +1,11 @@
-~~Title:bṛhatīm~~
-{{description>huge; vast; very large.}}
+---json
+{
+    "name":"bṛhatīm",
+    "h1":"bṛhatīm",
+    "title":"bṛhatīm --- synonyms, prabhupada.io",
+    "description":"huge; vast; very large."
+}
+---
 
 ==== bṛhatīm  ====
   * huge --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

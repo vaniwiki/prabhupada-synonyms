@@ -1,5 +1,11 @@
-~~Title:dhyāyantam~~
-{{description>meditating upon.}}
+---json
+{
+    "name":"dhyāyantam",
+    "h1":"dhyāyantam",
+    "title":"dhyāyantam --- synonyms, prabhupada.io",
+    "description":"meditating upon."
+}
+---
 
 ==== dhyāyantam  ====
   * meditating upon --- [[books:sb:3:19:35|SB 3.19.35]]

@@ -1,5 +1,11 @@
-~~Title:ānata~~
-{{description>lowered.}}
+---json
+{
+    "name":"ānata",
+    "h1":"ānata",
+    "title":"ānata --- synonyms, prabhupada.io",
+    "description":"lowered."
+}
+---
 
 ==== ānata  ====
   * lowered --- [[books:sb:3:4:10|SB 3.4.10]]

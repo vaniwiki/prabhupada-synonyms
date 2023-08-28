@@ -1,5 +1,11 @@
-~~Title:mañju~~
-{{description>sweet; very pleasing.}}
+---json
+{
+    "name":"mañju",
+    "h1":"mañju",
+    "title":"mañju --- synonyms, prabhupada.io",
+    "description":"sweet; very pleasing."
+}
+---
 
 ==== mañju  ====
   * sweet --- [[books:sb:3:23:14-15|SB 3.23.14-15]]

@@ -1,5 +1,11 @@
-~~Title:vasuḥ~~
-{{description>a son named Vasu; by the name Vasu; Vasu.}}
+---json
+{
+    "name":"vasuḥ",
+    "h1":"vasuḥ",
+    "title":"vasuḥ --- synonyms, prabhupada.io",
+    "description":"a son named Vasu; by the name Vasu; Vasu."
+}
+---
 
 ==== vasuḥ  ====
   * a son named Vasu --- [[books:sb:9:22:6|SB 9.22.6]]

@@ -1,5 +1,11 @@
-~~Title:arimdama~~
-{{description>O King who can subdue your enemies.}}
+---json
+{
+    "name":"arimdama",
+    "h1":"arimdama",
+    "title":"arimdama --- synonyms, prabhupada.io",
+    "description":"O King who can subdue your enemies."
+}
+---
 
 ==== arimdama  ====
   * O King who can subdue your enemies --- [[books:sb:8:24:32|SB 8.24.32]]

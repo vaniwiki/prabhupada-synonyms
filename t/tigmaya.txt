@@ -1,5 +1,11 @@
-~~Title:tigmayā~~
-{{description>very hot.}}
+---json
+{
+    "name":"tigmayā",
+    "h1":"tigmayā",
+    "title":"tigmayā --- synonyms, prabhupada.io",
+    "description":"very hot."
+}
+---
 
 ==== tigmayā  ====
   * very hot --- [[books:sb:5:26:20|SB 5.26.20]]

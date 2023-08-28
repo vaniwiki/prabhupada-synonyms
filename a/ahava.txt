@@ -1,5 +1,11 @@
-~~Title:āhava~~
-{{description>with a desire to fight.}}
+---json
+{
+    "name":"āhava",
+    "h1":"āhava",
+    "title":"āhava --- synonyms, prabhupada.io",
+    "description":"with a desire to fight."
+}
+---
 
 ==== āhava-kāmyayā  ====
   * with a desire to fight --- [[books:sb:6:11:13|SB 6.11.13]]

@@ -1,5 +1,11 @@
-~~Title:bahulī~~
-{{description>greatly magnifies.}}
+---json
+{
+    "name":"bahulī",
+    "h1":"bahulī",
+    "title":"bahulī --- synonyms, prabhupada.io",
+    "description":"greatly magnifies."
+}
+---
 
 ==== bahulī-kariṣṇavaḥ  ====
   * greatly magnifies --- [[books:sb:4:4:12|SB 4.4.12]]

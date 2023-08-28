@@ -1,5 +1,11 @@
-~~Title:svahnaḥ~~
-{{description>Svahna.}}
+---json
+{
+    "name":"svahnaḥ",
+    "h1":"svahnaḥ",
+    "title":"svahnaḥ --- synonyms, prabhupada.io",
+    "description":"Svahna."
+}
+---
 
 ==== svahnaḥ  ====
   * Svahna --- [[books:sb:4:1:7|SB 4.1.7]]

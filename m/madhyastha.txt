@@ -1,5 +1,11 @@
-~~Title:madhyastha~~
-{{description>mediator between the belligerents; neutrals.}}
+---json
+{
+    "name":"madhyastha",
+    "h1":"madhyastha",
+    "title":"madhyastha --- synonyms, prabhupada.io",
+    "description":"mediator between the belligerents; neutrals."
+}
+---
 
 ==== madhyastha  ====
   * mediator between the belligerents --- [[books:bg:6:9|Bg. 6.9]]

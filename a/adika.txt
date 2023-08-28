@@ -1,5 +1,11 @@
-~~Title:ādika~~
-{{description>and so on.}}
+---json
+{
+    "name":"ādika",
+    "h1":"ādika",
+    "title":"ādika --- synonyms, prabhupada.io",
+    "description":"and so on."
+}
+---
 
 ==== ādika  ====
   * and so on --- [[books:cc:adi:1:65-66|Ādi 1.65-66]], [[books:cc:adi:4:67|Ādi 4.67]]

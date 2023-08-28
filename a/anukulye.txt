@@ -1,5 +1,11 @@
-~~Title:ānukūlye~~
-{{description>favorably.}}
+---json
+{
+    "name":"ānukūlye",
+    "h1":"ānukūlye",
+    "title":"ānukūlye --- synonyms, prabhupada.io",
+    "description":"favorably."
+}
+---
 
 ==== ānukūlye  ====
   * favorably --- [[books:cc:madhya:19:168|Madhya 19.168]]

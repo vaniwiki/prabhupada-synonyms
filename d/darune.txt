@@ -1,5 +1,11 @@
-~~Title:dāruṇe~~
-{{description>most miserable.}}
+---json
+{
+    "name":"dāruṇe",
+    "h1":"dāruṇe",
+    "title":"dāruṇe --- synonyms, prabhupada.io",
+    "description":"most miserable."
+}
+---
 
 ==== bhṛśa-dāruṇe  ====
   * most miserable --- [[books:sb:6:2:29|SB 6.2.29]]

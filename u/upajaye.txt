@@ -1,5 +1,11 @@
-~~Title:upajaye~~
-{{description>develops.}}
+---json
+{
+    "name":"upajaye",
+    "h1":"upajaye",
+    "title":"upajaye --- synonyms, prabhupada.io",
+    "description":"develops."
+}
+---
 
 ==== upajaye  ====
   * develops --- [[books:cc:adi:7:83|Ādi 7.83]]

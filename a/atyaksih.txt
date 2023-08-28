@@ -1,5 +1,11 @@
-~~Title:atyākṣīḥ~~
-{{description>not given shelter.}}
+---json
+{
+    "name":"atyākṣīḥ",
+    "h1":"atyākṣīḥ",
+    "title":"atyākṣīḥ --- synonyms, prabhupada.io",
+    "description":"not given shelter."
+}
+---
 
 ==== atyākṣīḥ  ====
   * not given shelter --- [[books:sb:1:14:41|SB 1.14.41]]

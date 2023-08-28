@@ -1,5 +1,11 @@
-~~Title:durgatim~~
-{{description>degradation; miserable life.}}
+---json
+{
+    "name":"durgatim",
+    "h1":"durgatim",
+    "title":"durgatim --- synonyms, prabhupada.io",
+    "description":"degradation; miserable life."
+}
+---
 
 ==== durgatim  ====
   * degradation --- [[books:bg:6:40|Bg. 6.40]]

@@ -1,5 +1,11 @@
-~~Title:pratihataḥ~~
-{{description>failed; repelled; was unable to hit and returned.}}
+---json
+{
+    "name":"pratihataḥ",
+    "h1":"pratihataḥ",
+    "title":"pratihataḥ --- synonyms, prabhupada.io",
+    "description":"failed; repelled; was unable to hit and returned."
+}
+---
 
 ==== pratihataḥ  ====
   * failed --- [[books:sb:9:4:13|SB 9.4.13]]

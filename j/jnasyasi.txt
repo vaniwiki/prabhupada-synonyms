@@ -1,5 +1,11 @@
-~~Title:jñāsyasi~~
-{{description>you can know.}}
+---json
+{
+    "name":"jñāsyasi",
+    "h1":"jñāsyasi",
+    "title":"jñāsyasi --- synonyms, prabhupada.io",
+    "description":"you can know."
+}
+---
 
 ==== jñāsyasi  ====
   * you can know --- [[books:bg:7:1|Bg. 7.1]]

@@ -1,5 +1,11 @@
-~~Title:asmāsu~~
-{{description>to us.}}
+---json
+{
+    "name":"asmāsu",
+    "h1":"asmāsu",
+    "title":"asmāsu --- synonyms, prabhupada.io",
+    "description":"to us."
+}
+---
 
 ==== asmāsu  ====
   * to us --- [[books:sb:3:16:25|SB 3.16.25]]

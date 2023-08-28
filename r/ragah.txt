@@ -1,5 +1,11 @@
-~~Title:ragah~~
-{{description>attachment.}}
+---json
+{
+    "name":"ragah",
+    "h1":"ragah",
+    "title":"ragah --- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== rāgaḥ  ====
   * attachment --- [[books:sb:6:17:22|SB 6.17.22]], [[books:sb:7:15:43-44|SB 7.15.43-44]], [[books:cc:madhya:22:150|Madhya 22.150]]

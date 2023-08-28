@@ -1,5 +1,11 @@
-~~Title:āsibāra~~
-{{description>cannot come.}}
+---json
+{
+    "name":"āsibāra",
+    "h1":"āsibāra",
+    "title":"āsibāra --- synonyms, prabhupada.io",
+    "description":"cannot come."
+}
+---
 
 ==== nāre āsibāra  ====
   * cannot come --- [[books:cc:antya:5:152|Antya 5.152]]

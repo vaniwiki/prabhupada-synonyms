@@ -1,5 +1,11 @@
-~~Title:bhajile~~
-{{description>worshiping.}}
+---json
+{
+    "name":"bhajile",
+    "h1":"bhajile",
+    "title":"bhajile --- synonyms, prabhupada.io",
+    "description":"worshiping."
+}
+---
 
 ==== bhajile  ====
   * worshiping --- [[books:cc:adi:8:32|Ādi 8.32]]

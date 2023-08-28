@@ -1,5 +1,11 @@
-~~Title:karaya~~
-{{description>do; does; makes; perform.}}
+---json
+{
+    "name":"karaya",
+    "h1":"karaya",
+    "title":"karaya --- synonyms, prabhupada.io",
+    "description":"do; does; makes; perform."
+}
+---
 
 ==== karaya  ====
   * do --- [[books:cc:adi:17:258|Ādi 17.258]]

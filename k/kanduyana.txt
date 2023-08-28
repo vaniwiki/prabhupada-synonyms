@@ -1,5 +1,11 @@
-~~Title:kaṇḍūyana~~
-{{description>scratching.}}
+---json
+{
+    "name":"kaṇḍūyana",
+    "h1":"kaṇḍūyana",
+    "title":"kaṇḍūyana --- synonyms, prabhupada.io",
+    "description":"scratching."
+}
+---
 
 ==== kaṇḍūyana  ====
   * scratching --- [[books:cc:madhya:17:196|Madhya 17.196]]

@@ -1,5 +1,11 @@
-~~Title:saṁrabhya~~
-{{description>having become angry.}}
+---json
+{
+    "name":"saṁrabhya",
+    "h1":"saṁrabhya",
+    "title":"saṁrabhya --- synonyms, prabhupada.io",
+    "description":"having become angry."
+}
+---
 
 ==== saṁrabhya  ====
   * having become angry --- [[books:sb:4:27:22|SB 4.27.22]]

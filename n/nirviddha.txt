@@ -1,5 +1,11 @@
-~~Title:nirviddha~~
-{{description>pierced in the heart.}}
+---json
+{
+    "name":"nirviddha",
+    "h1":"nirviddha",
+    "title":"nirviddha --- synonyms, prabhupada.io",
+    "description":"pierced in the heart."
+}
+---
 
 ==== nirviddha-cetā  ====
   * pierced in the heart --- [[books:cc:madhya:23:65|Madhya 23.65]]

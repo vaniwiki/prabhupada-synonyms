@@ -1,5 +1,11 @@
-~~Title:amaṅgalaiḥ~~
-{{description>by misdeeds; inauspicious.}}
+---json
+{
+    "name":"amaṅgalaiḥ",
+    "h1":"amaṅgalaiḥ",
+    "title":"amaṅgalaiḥ --- synonyms, prabhupada.io",
+    "description":"by misdeeds; inauspicious."
+}
+---
 
 ==== amaṅgalaiḥ  ====
   * by misdeeds --- [[books:sb:3:24:27|SB 3.24.27]]

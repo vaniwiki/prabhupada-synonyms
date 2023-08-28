@@ -1,5 +1,11 @@
-~~Title:vitatyai~~
-{{description>to expand.}}
+---json
+{
+    "name":"vitatyai",
+    "h1":"vitatyai",
+    "title":"vitatyai --- synonyms, prabhupada.io",
+    "description":"to expand."
+}
+---
 
 ==== vitatyai  ====
   * to expand --- [[books:sb:9:10:15|SB 9.10.15]]

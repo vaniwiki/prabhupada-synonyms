@@ -1,5 +1,11 @@
-~~Title:liṭ~~
-{{description>one who licks.}}
+---json
+{
+    "name":"liṭ",
+    "h1":"liṭ",
+    "title":"liṭ --- synonyms, prabhupada.io",
+    "description":"one who licks."
+}
+---
 
 ==== liṭ  ====
   * one who licks --- [[books:sb:6:3:33|SB 6.3.33]]

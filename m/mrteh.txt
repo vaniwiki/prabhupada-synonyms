@@ -1,5 +1,11 @@
-~~Title:mṛteḥ~~
-{{description>from one death.}}
+---json
+{
+    "name":"mṛteḥ",
+    "h1":"mṛteḥ",
+    "title":"mṛteḥ --- synonyms, prabhupada.io",
+    "description":"from one death."
+}
+---
 
 ==== mṛteḥ  ====
   * from one death --- [[books:sb:6:16:57|SB 6.16.57]]

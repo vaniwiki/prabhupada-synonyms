@@ -1,5 +1,11 @@
-~~Title:cintiyā~~
-{{description>thinking of.}}
+---json
+{
+    "name":"cintiyā",
+    "h1":"cintiyā",
+    "title":"cintiyā --- synonyms, prabhupada.io",
+    "description":"thinking of."
+}
+---
 
 ==== cintiyā  ====
   * thinking of --- [[books:cc:antya:6:172|Antya 6.172]]

@@ -1,5 +1,11 @@
-~~Title:ājaghne~~
-{{description>struck.}}
+---json
+{
+    "name":"ājaghne",
+    "h1":"ājaghne",
+    "title":"ājaghne --- synonyms, prabhupada.io",
+    "description":"struck."
+}
+---
 
 ==== ājaghne  ====
   * struck --- [[books:sb:3:18:17|SB 3.18.17]]

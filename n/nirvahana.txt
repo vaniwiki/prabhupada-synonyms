@@ -1,5 +1,11 @@
-~~Title:nirvahana~~
-{{description>the execution.}}
+---json
+{
+    "name":"nirvahana",
+    "h1":"nirvahana",
+    "title":"nirvahana --- synonyms, prabhupada.io",
+    "description":"the execution."
+}
+---
 
 ==== nirvāhana  ====
   * the execution --- [[books:cc:madhya:6:283|Madhya 6.283]]

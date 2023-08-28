@@ -1,5 +1,11 @@
-~~Title:utsaṅga~~
-{{description>on his lap.}}
+---json
+{
+    "name":"utsaṅga",
+    "h1":"utsaṅga",
+    "title":"utsaṅga --- synonyms, prabhupada.io",
+    "description":"on his lap."
+}
+---
 
 ==== utsaṅga  ====
   * on his lap --- [[books:sb:4:26:20|SB 4.26.20]]

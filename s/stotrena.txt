@@ -1,5 +1,11 @@
-~~Title:stotreṇa~~
-{{description>by the verses; with prayers.}}
+---json
+{
+    "name":"stotreṇa",
+    "h1":"stotreṇa",
+    "title":"stotreṇa --- synonyms, prabhupada.io",
+    "description":"by the verses; with prayers."
+}
+---
 
 ==== stotreṇa  ====
   * by the verses --- [[books:sb:3:9:40|SB 3.9.40]]

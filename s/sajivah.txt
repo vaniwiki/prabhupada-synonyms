@@ -1,5 +1,11 @@
-~~Title:sajīvaḥ~~
-{{description>with your life.}}
+---json
+{
+    "name":"sajīvaḥ",
+    "h1":"sajīvaḥ",
+    "title":"sajīvaḥ --- synonyms, prabhupada.io",
+    "description":"with your life."
+}
+---
 
 ==== sajīvaḥ  ====
   * with your life --- [[books:sb:9:22:34|SB 9.22.34]]

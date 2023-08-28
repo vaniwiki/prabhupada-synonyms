@@ -1,5 +1,11 @@
-~~Title:yuktāyām~~
-{{description>endowed.}}
+---json
+{
+    "name":"yuktāyām",
+    "h1":"yuktāyām",
+    "title":"yuktāyām --- synonyms, prabhupada.io",
+    "description":"endowed."
+}
+---
 
 ==== yuktāyām  ====
   * endowed --- [[books:sb:3:21:4|SB 3.21.4]]

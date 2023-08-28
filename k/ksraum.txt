@@ -1,5 +1,11 @@
-~~Title:kṣraum~~
-{{description>the bīja, or seed, of mantras offering prayers to Lord Nṛsiṁha.}}
+---json
+{
+    "name":"kṣraum",
+    "h1":"kṣraum",
+    "title":"kṣraum --- synonyms, prabhupada.io",
+    "description":"the bīja, or seed, of mantras offering prayers to Lord Nṛsiṁha."
+}
+---
 
 ==== kṣraum  ====
   * the //bīja,// or seed, of //mantras// offering prayers to Lord Nṛsiṁha --- [[books:sb:5:18:8|SB 5.18.8]]

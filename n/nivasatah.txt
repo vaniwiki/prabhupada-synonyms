@@ -1,5 +1,11 @@
-~~Title:nivasataḥ~~
-{{description>living.}}
+---json
+{
+    "name":"nivasataḥ",
+    "h1":"nivasataḥ",
+    "title":"nivasataḥ --- synonyms, prabhupada.io",
+    "description":"living."
+}
+---
 
 ==== nivasataḥ  ====
   * living --- [[books:sb:6:1:23|SB 6.1.23]]

@@ -1,5 +1,11 @@
-~~Title:abhaktera~~
-{{description>of nondevotees.}}
+---json
+{
+    "name":"abhaktera",
+    "h1":"abhaktera",
+    "title":"abhaktera --- synonyms, prabhupada.io",
+    "description":"of nondevotees."
+}
+---
 
 ==== abhaktera  ====
   * of nondevotees --- [[books:cc:adi:3:86|Ādi 3.86]]

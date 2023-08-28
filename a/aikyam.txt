@@ -1,5 +1,11 @@
-~~Title:aikyam~~
-{{description>amalgamation; oneness; unity.}}
+---json
+{
+    "name":"aikyam",
+    "h1":"aikyam",
+    "title":"aikyam --- synonyms, prabhupada.io",
+    "description":"amalgamation; oneness; unity."
+}
+---
 
 ==== aikyam  ====
   * amalgamation --- [[books:cc:madhya:9:30|Madhya 9.30]]

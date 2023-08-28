@@ -1,5 +1,11 @@
-~~Title:uhyate~~
-{{description>is being carried.}}
+---json
+{
+    "name":"uhyate",
+    "h1":"uhyate",
+    "title":"uhyate --- synonyms, prabhupada.io",
+    "description":"is being carried."
+}
+---
 
 ==== uhyate  ====
   * is being carried --- [[books:sb:5:10:2|SB 5.10.2]]

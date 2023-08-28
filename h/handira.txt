@@ -1,5 +1,11 @@
-~~Title:hāṇḍīra~~
-{{description>pots.}}
+---json
+{
+    "name":"hāṇḍīra",
+    "h1":"hāṇḍīra",
+    "title":"hāṇḍīra --- synonyms, prabhupada.io",
+    "description":"pots."
+}
+---
 
 ==== hāṇḍīra  ====
   * pots --- [[books:cc:adi:14:73|Ādi 14.73]]

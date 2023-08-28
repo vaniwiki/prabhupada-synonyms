@@ -1,5 +1,11 @@
-~~Title:ghaṭate~~
-{{description>one can try for.}}
+---json
+{
+    "name":"ghaṭate",
+    "h1":"ghaṭate",
+    "title":"ghaṭate --- synonyms, prabhupada.io",
+    "description":"one can try for."
+}
+---
 
 ==== ghaṭate  ====
   * one can try for --- [[books:sb:2:1:12|SB 2.1.12]]

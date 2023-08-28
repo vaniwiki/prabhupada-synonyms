@@ -1,5 +1,11 @@
-~~Title:vatsareka~~
-{{description>for one year; one year.}}
+---json
+{
+    "name":"vatsareka",
+    "h1":"vatsareka",
+    "title":"vatsareka --- synonyms, prabhupada.io",
+    "description":"for one year; one year."
+}
+---
 
 ==== vatsareka  ====
   * for one year --- [[books:cc:antya:10:14|Antya 10.14]]

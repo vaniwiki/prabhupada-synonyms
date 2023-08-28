@@ -1,5 +1,11 @@
-~~Title:śikhāha~~
-{{description>teach others.}}
+---json
+{
+    "name":"śikhāha",
+    "h1":"śikhāha",
+    "title":"śikhāha --- synonyms, prabhupada.io",
+    "description":"teach others."
+}
+---
 
 ==== śikhāha anyere  ====
   * teach others --- [[books:cc:madhya:12:117|Madhya 12.117]]

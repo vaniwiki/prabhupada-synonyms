@@ -1,5 +1,11 @@
-~~Title:sanniyamya~~
-{{description>controlling; keeping under full control.}}
+---json
+{
+    "name":"sanniyamya",
+    "h1":"sanniyamya",
+    "title":"sanniyamya --- synonyms, prabhupada.io",
+    "description":"controlling; keeping under full control."
+}
+---
 
 ==== sanniyamya  ====
   * controlling --- [[books:bg:12:3-4|Bg. 12.3-4]], [[books:sb:4:8:24|SB 4.8.24]]

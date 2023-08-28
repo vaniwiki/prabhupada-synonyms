@@ -1,5 +1,11 @@
-~~Title:akhyatah~~
-{{description>is explained.}}
+---json
+{
+    "name":"akhyatah",
+    "h1":"akhyatah",
+    "title":"akhyatah --- synonyms, prabhupada.io",
+    "description":"is explained."
+}
+---
 
 ==== ākhyātaḥ  ====
   * is explained --- [[books:sb:4:8:5|SB 4.8.5]]

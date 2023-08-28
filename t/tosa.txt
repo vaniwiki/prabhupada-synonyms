@@ -1,5 +1,11 @@
-~~Title:toṣa~~
-{{description>the cause of pleasure to the Lord.}}
+---json
+{
+    "name":"toṣa",
+    "h1":"toṣa",
+    "title":"toṣa --- synonyms, prabhupada.io",
+    "description":"the cause of pleasure to the Lord."
+}
+---
 
 ==== toṣa-hetuḥ  ====
   * the cause of pleasure to the Lord --- [[books:sb:5:19:7|SB 5.19.7]]

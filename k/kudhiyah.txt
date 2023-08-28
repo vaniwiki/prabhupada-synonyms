@@ -1,5 +1,11 @@
-~~Title:kudhiyaḥ~~
-{{description>foolish rascals.}}
+---json
+{
+    "name":"kudhiyaḥ",
+    "h1":"kudhiyaḥ",
+    "title":"kudhiyaḥ --- synonyms, prabhupada.io",
+    "description":"foolish rascals."
+}
+---
 
 ==== kudhiyaḥ  ====
   * foolish rascals --- [[books:sb:8:22:20|SB 8.22.20]]

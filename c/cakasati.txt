@@ -1,5 +1,11 @@
-~~Title:cakāsati~~
-{{description>shine magnificently.}}
+---json
+{
+    "name":"cakāsati",
+    "h1":"cakāsati",
+    "title":"cakāsati --- synonyms, prabhupada.io",
+    "description":"shine magnificently."
+}
+---
 
 ==== cakāsati  ====
   * shine magnificently --- [[books:sb:5:24:9|SB 5.24.9]]

@@ -1,5 +1,11 @@
-~~Title:bhinatti~~
-{{description>changes.}}
+---json
+{
+    "name":"bhinatti",
+    "h1":"bhinatti",
+    "title":"bhinatti --- synonyms, prabhupada.io",
+    "description":"changes."
+}
+---
 
 ==== bhinatti  ====
   * changes --- [[books:sb:7:5:13|SB 7.5.13]]

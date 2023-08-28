@@ -1,5 +1,11 @@
-~~Title:ratnera~~
-{{description>of gems; of the valuable jewel.}}
+---json
+{
+    "name":"ratnera",
+    "h1":"ratnera",
+    "title":"ratnera --- synonyms, prabhupada.io",
+    "description":"of gems; of the valuable jewel."
+}
+---
 
 ==== ratnera  ====
   * of gems --- [[books:cc:madhya:14:221|Madhya 14.221]]

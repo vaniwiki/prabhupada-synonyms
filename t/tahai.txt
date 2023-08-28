@@ -1,5 +1,11 @@
-~~Title:tāhāi~~
-{{description>that; there.}}
+---json
+{
+    "name":"tāhāi",
+    "h1":"tāhāi",
+    "title":"tāhāi --- synonyms, prabhupada.io",
+    "description":"that; there."
+}
+---
 
 ==== tāhāi  ====
   * that --- [[books:cc:madhya:8:133|Madhya 8.133]]

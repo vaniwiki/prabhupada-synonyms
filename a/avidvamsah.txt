@@ -1,5 +1,11 @@
-~~Title:avidvāṁsaḥ~~
-{{description>ignorant; the ignorant.}}
+---json
+{
+    "name":"avidvāṁsaḥ",
+    "h1":"avidvāṁsaḥ",
+    "title":"avidvāṁsaḥ --- synonyms, prabhupada.io",
+    "description":"ignorant; the ignorant."
+}
+---
 
 ==== avidvāṁsaḥ  ====
   * ignorant --- [[books:sb:6:5:9|SB 6.5.9]]

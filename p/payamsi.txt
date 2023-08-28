@@ -1,5 +1,11 @@
-~~Title:payāṁsi~~
-{{description>milk (coming from the body).}}
+---json
+{
+    "name":"payāṁsi",
+    "h1":"payāṁsi",
+    "title":"payāṁsi --- synonyms, prabhupada.io",
+    "description":"milk (coming from the body)."
+}
+---
 
 ==== payāṁsi  ====
   * milk (coming from the body) --- [[books:sb:10:6:39-40|SB 10.6.39-40]]

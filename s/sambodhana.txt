@@ -1,5 +1,11 @@
-~~Title:sambodhana~~
-{{description>address; addressing.}}
+---json
+{
+    "name":"sambodhana",
+    "h1":"sambodhana",
+    "title":"sambodhana --- synonyms, prabhupada.io",
+    "description":"address; addressing."
+}
+---
 
 ==== sambodhana  ====
   * address --- [[books:cc:adi:17:175|Ādi 17.175]]

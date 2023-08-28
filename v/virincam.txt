@@ -1,5 +1,11 @@
-~~Title:virincam~~
-{{description>Lord Brahmā.}}
+---json
+{
+    "name":"virincam",
+    "h1":"virincam",
+    "title":"virincam --- synonyms, prabhupada.io",
+    "description":"Lord Brahmā."
+}
+---
 
 ==== viriñcam  ====
   * Lord Brahmā --- [[books:sb:9:4:52|SB 9.4.52]]

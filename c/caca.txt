@@ -1,5 +1,11 @@
-~~Title:cācā~~
-{{description>uncle.}}
+---json
+{
+    "name":"cācā",
+    "h1":"cācā",
+    "title":"cācā --- synonyms, prabhupada.io",
+    "description":"uncle."
+}
+---
 
 ==== cācā  ====
   * uncle --- [[books:cc:adi:17:148|Ādi 17.148]]

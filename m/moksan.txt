@@ -1,5 +1,11 @@
-~~Title:mokṣān~~
-{{description>ultimate salvation.}}
+---json
+{
+    "name":"mokṣān",
+    "h1":"mokṣān",
+    "title":"mokṣān --- synonyms, prabhupada.io",
+    "description":"ultimate salvation."
+}
+---
 
 ==== mokṣān  ====
   * ultimate salvation --- [[books:sb:1:9:28|SB 1.9.28]]

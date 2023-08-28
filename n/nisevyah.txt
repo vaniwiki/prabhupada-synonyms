@@ -1,5 +1,11 @@
-~~Title:niṣevyaḥ~~
-{{description>worthy of taking shelter.}}
+---json
+{
+    "name":"niṣevyaḥ",
+    "h1":"niṣevyaḥ",
+    "title":"niṣevyaḥ --- synonyms, prabhupada.io",
+    "description":"worthy of taking shelter."
+}
+---
 
 ==== niṣevyaḥ  ====
   * worthy of taking shelter --- [[books:sb:1:12:22|SB 1.12.22]]

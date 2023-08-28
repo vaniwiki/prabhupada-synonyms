@@ -1,5 +1,11 @@
-~~Title:prāptaye~~
-{{description>to obtain my mercy.}}
+---json
+{
+    "name":"prāptaye",
+    "h1":"prāptaye",
+    "title":"prāptaye --- synonyms, prabhupada.io",
+    "description":"to obtain my mercy."
+}
+---
 
 ==== mat-prāptaye  ====
   * to obtain my mercy --- [[books:sb:5:18:22|SB 5.18.22]]

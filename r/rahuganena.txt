@@ -1,5 +1,11 @@
-~~Title:rahūgaṇena~~
-{{description>by King Rahūgaṇa.}}
+---json
+{
+    "name":"rahūgaṇena",
+    "h1":"rahūgaṇena",
+    "title":"rahūgaṇena --- synonyms, prabhupada.io",
+    "description":"by King Rahūgaṇa."
+}
+---
 
 ==== rahūgaṇena  ====
   * by King Rahūgaṇa --- [[books:sb:5:13:24|SB 5.13.24]]

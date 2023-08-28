@@ -1,5 +1,11 @@
-~~Title:sthaṇḍila~~
-{{description>from lying down on the ground.}}
+---json
+{
+    "name":"sthaṇḍila",
+    "h1":"sthaṇḍila",
+    "title":"sthaṇḍila --- synonyms, prabhupada.io",
+    "description":"from lying down on the ground."
+}
+---
 
 ==== sthaṇḍila-saṁveśana  ====
   * from lying down on the ground --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

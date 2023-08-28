@@ -1,5 +1,11 @@
-~~Title:hetutvam~~
-{{description>the cause.}}
+---json
+{
+    "name":"hetutvam",
+    "h1":"hetutvam",
+    "title":"hetutvam --- synonyms, prabhupada.io",
+    "description":"the cause."
+}
+---
 
 ==== hetutvam  ====
   * the cause --- [[books:sb:3:28:36|SB 3.28.36]]

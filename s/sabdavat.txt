@@ -1,5 +1,11 @@
-~~Title:śabdavat~~
-{{description>with sound also.}}
+---json
+{
+    "name":"śabdavat",
+    "h1":"śabdavat",
+    "title":"śabdavat --- synonyms, prabhupada.io",
+    "description":"with sound also."
+}
+---
 
 ==== śabdavat  ====
   * with sound also --- [[books:sb:2:5:26-29|SB 2.5.26-29]]

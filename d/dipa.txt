@@ -1,5 +1,11 @@
-~~Title:dīpa~~
-{{description>a lamp; lamp; lamps.}}
+---json
+{
+    "name":"dīpa",
+    "h1":"dīpa",
+    "title":"dīpa --- synonyms, prabhupada.io",
+    "description":"a lamp; lamp; lamps."
+}
+---
 
 ==== dīpa  ====
   * a lamp --- [[books:cc:adi:2:89|Ādi 2.89]]

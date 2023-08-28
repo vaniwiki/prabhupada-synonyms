@@ -1,5 +1,11 @@
-~~Title:oghena~~
-{{description>by the force.}}
+---json
+{
+    "name":"oghena",
+    "h1":"oghena",
+    "title":"oghena --- synonyms, prabhupada.io",
+    "description":"by the force."
+}
+---
 
 ==== oghena  ====
   * by the force --- [[books:sb:10:5:25|SB 10.5.25]]

@@ -1,5 +1,11 @@
-~~Title:jagdha~~
-{{description>taken.}}
+---json
+{
+    "name":"jagdha",
+    "h1":"jagdha",
+    "title":"jagdha --- synonyms, prabhupada.io",
+    "description":"taken."
+}
+---
 
 ==== jagdha  ====
   * taken --- [[books:sb:3:31:5|SB 3.31.5]]

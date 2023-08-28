@@ -1,5 +1,11 @@
-~~Title:satyarathaḥ~~
-{{description>Satyaratha.}}
+---json
+{
+    "name":"satyarathaḥ",
+    "h1":"satyarathaḥ",
+    "title":"satyarathaḥ --- synonyms, prabhupada.io",
+    "description":"Satyaratha."
+}
+---
 
 ==== satyarathaḥ  ====
   * Satyaratha --- [[books:sb:9:13:24|SB 9.13.24]]

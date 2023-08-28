@@ -1,5 +1,11 @@
-~~Title:chāḍinu~~
-{{description>I abandon.}}
+---json
+{
+    "name":"chāḍinu",
+    "h1":"chāḍinu",
+    "title":"chāḍinu --- synonyms, prabhupada.io",
+    "description":"I abandon."
+}
+---
 
 ==== chāḍinu  ====
   * I abandon --- [[books:cc:antya:9:100|Antya 9.100]]

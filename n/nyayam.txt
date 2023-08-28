@@ -1,5 +1,11 @@
-~~Title:nyāyam~~
-{{description>according to law; according to time and place.}}
+---json
+{
+    "name":"nyāyam",
+    "h1":"nyāyam",
+    "title":"nyāyam --- synonyms, prabhupada.io",
+    "description":"according to law; according to time and place."
+}
+---
 
 ==== yathā-nyāyam  ====
   * according to law --- [[books:sb:8:9:7|SB 8.9.7]]

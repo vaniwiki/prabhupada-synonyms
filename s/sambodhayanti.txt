@@ -1,5 +1,11 @@
-~~Title:sambodhayanti~~
-{{description>pacify.}}
+---json
+{
+    "name":"sambodhayanti",
+    "h1":"sambodhayanti",
+    "title":"sambodhayanti --- synonyms, prabhupada.io",
+    "description":"pacify."
+}
+---
 
 ==== sambodhayanti  ====
   * pacify --- [[books:sb:3:16:11|SB 3.16.11]]

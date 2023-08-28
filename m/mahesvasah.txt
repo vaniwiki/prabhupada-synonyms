@@ -1,5 +1,11 @@
-~~Title:maheṣvāsāḥ~~
-{{description>mighty bowmen.}}
+---json
+{
+    "name":"maheṣvāsāḥ",
+    "h1":"maheṣvāsāḥ",
+    "title":"maheṣvāsāḥ --- synonyms, prabhupada.io",
+    "description":"mighty bowmen."
+}
+---
 
 ==== maheṣvāsāḥ  ====
   * mighty bowmen --- [[books:bg:1:4|Bg. 1.4]]

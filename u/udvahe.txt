@@ -1,5 +1,11 @@
-~~Title:udvāhe~~
-{{description>in the marriage ceremony.}}
+---json
+{
+    "name":"udvāhe",
+    "h1":"udvāhe",
+    "title":"udvāhe --- synonyms, prabhupada.io",
+    "description":"in the marriage ceremony."
+}
+---
 
 ==== udvāhe  ====
   * in the marriage ceremony --- [[books:sb:4:24:11|SB 4.24.11]]

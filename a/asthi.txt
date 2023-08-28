@@ -1,5 +1,11 @@
-~~Title:asthi~~
-{{description>bone; bones; the bone.}}
+---json
+{
+    "name":"asthi",
+    "h1":"asthi",
+    "title":"asthi --- synonyms, prabhupada.io",
+    "description":"bone; bones; the bone."
+}
+---
 
 ==== asthi  ====
   * bone --- [[books:sb:2:10:31|SB 2.10.31]]

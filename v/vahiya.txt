@@ -1,5 +1,11 @@
-~~Title:vahiyā~~
-{{description>carrying.}}
+---json
+{
+    "name":"vahiyā",
+    "h1":"vahiyā",
+    "title":"vahiyā --- synonyms, prabhupada.io",
+    "description":"carrying."
+}
+---
 
 ==== vahiyā  ====
   * carrying --- [[books:cc:antya:13:90|Antya 13.90]]

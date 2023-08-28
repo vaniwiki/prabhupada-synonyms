@@ -1,5 +1,11 @@
-~~Title:adhvara~~
-{{description>sacrifice; transcendental.}}
+---json
+{
+    "name":"adhvara",
+    "h1":"adhvara",
+    "title":"adhvara --- synonyms, prabhupada.io",
+    "description":"sacrifice; transcendental."
+}
+---
 
 ==== adhvara  ====
   * sacrifice --- [[books:sb:4:3:10|SB 4.3.10]], [[books:sb:4:7:27|SB 4.7.27]]

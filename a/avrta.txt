@@ -1,5 +1,11 @@
-~~Title:avrta~~
-{{description>appointed.}}
+---json
+{
+    "name":"avrta",
+    "h1":"avrta",
+    "title":"avrta --- synonyms, prabhupada.io",
+    "description":"appointed."
+}
+---
 
 ==== avṛta  ====
   * appointed --- [[books:sb:9:13:1|SB 9.13.1]]

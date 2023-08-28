@@ -1,5 +1,11 @@
-~~Title:bāpe~~
-{{description>my father.}}
+---json
+{
+    "name":"bāpe",
+    "h1":"bāpe",
+    "title":"bāpe --- synonyms, prabhupada.io",
+    "description":"my father."
+}
+---
 
 ==== bāpe  ====
   * my father --- [[books:cc:madhya:5:60|Madhya 5.60]]

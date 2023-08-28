@@ -1,5 +1,11 @@
-~~Title:vatsakam~~
-{{description>unto the calf; Vatsaka.}}
+---json
+{
+    "name":"vatsakam",
+    "h1":"vatsakam",
+    "title":"vatsakam --- synonyms, prabhupada.io",
+    "description":"unto the calf; Vatsaka."
+}
+---
 
 ==== vatsakam  ====
   * unto the calf --- [[books:sb:4:9:17|SB 4.9.17]]

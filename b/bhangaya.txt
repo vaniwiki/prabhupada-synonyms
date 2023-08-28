@@ -1,5 +1,11 @@
-~~Title:bhāṅgāya~~
-{{description>allows to break it.}}
+---json
+{
+    "name":"bhāṅgāya",
+    "h1":"bhāṅgāya",
+    "title":"bhāṅgāya --- synonyms, prabhupada.io",
+    "description":"allows to break it."
+}
+---
 
 ==== bhāṅgāya  ====
   * allows to break it --- [[books:cc:madhya:5:157|Madhya 5.157]]

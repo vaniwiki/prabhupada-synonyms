@@ -1,5 +1,11 @@
-~~Title:likhena~~
-{{description>writes.}}
+---json
+{
+    "name":"likhena",
+    "h1":"likhena",
+    "title":"likhena --- synonyms, prabhupada.io",
+    "description":"writes."
+}
+---
 
 ==== likhena  ====
   * writes --- [[books:cc:madhya:17:231|Madhya 17.231]]

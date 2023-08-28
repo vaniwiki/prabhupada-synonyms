@@ -1,5 +1,11 @@
-~~Title:upalabhate~~
-{{description>achieves.}}
+---json
+{
+    "name":"upalabhate",
+    "h1":"upalabhate",
+    "title":"upalabhate --- synonyms, prabhupada.io",
+    "description":"achieves."
+}
+---
 
 ==== upalabhate  ====
   * achieves --- [[books:sb:3:33:37|SB 3.33.37]]

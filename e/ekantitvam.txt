@@ -1,5 +1,11 @@
-~~Title:ekāntitvam~~
-{{description>rendering devotional service without diversion.}}
+---json
+{
+    "name":"ekāntitvam",
+    "h1":"ekāntitvam",
+    "title":"ekāntitvam --- synonyms, prabhupada.io",
+    "description":"rendering devotional service without diversion."
+}
+---
 
 ==== ekāntitvam  ====
   * rendering devotional service without diversion --- [[books:sb:9:2:11-13|SB 9.2.11-13]]

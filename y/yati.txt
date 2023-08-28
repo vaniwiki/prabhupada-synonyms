@@ -1,5 +1,11 @@
-~~Title:yati~~
-{{description>achieves; one in the renounced order of life; or sannyāsī.}}
+---json
+{
+    "name":"yati",
+    "h1":"yati",
+    "title":"yati --- synonyms, prabhupada.io",
+    "description":"achieves; one in the renounced order of life; or sannyāsī."
+}
+---
 
 ==== yati  ====
   * achieves --- [[books:bg:8:5|Bg. 8.5]]

@@ -1,5 +1,11 @@
-~~Title:kaḍacā~~
-{{description>with the notebooks.}}
+---json
+{
+    "name":"kaḍacā",
+    "h1":"kaḍacā",
+    "title":"kaḍacā --- synonyms, prabhupada.io",
+    "description":"with the notebooks."
+}
+---
 
 ==== kaḍacā  ====
   * with the notebooks --- [[books:cc:madhya:8:312|Madhya 8.312]]

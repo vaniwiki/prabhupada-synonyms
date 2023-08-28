@@ -1,5 +1,11 @@
-~~Title:dei~~
-{{description>chanting.}}
+---json
+{
+    "name":"dei",
+    "h1":"dei",
+    "title":"dei --- synonyms, prabhupada.io",
+    "description":"chanting."
+}
+---
 
 ==== dei  ====
   * chanting --- [[books:cc:adi:13:96|Ādi 13.96]]

@@ -1,5 +1,11 @@
-~~Title:āpavargya~~
-{{description>of persons desiring liberation.}}
+---json
+{
+    "name":"āpavargya",
+    "h1":"āpavargya",
+    "title":"āpavargya --- synonyms, prabhupada.io",
+    "description":"of persons desiring liberation."
+}
+---
 
 ==== āpavargya  ====
   * of persons desiring liberation --- [[books:sb:4:9:8|SB 4.9.8]]

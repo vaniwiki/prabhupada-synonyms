@@ -1,5 +1,11 @@
-~~Title:vasane~~
-{{description>clothing; dress.}}
+---json
+{
+    "name":"vasane",
+    "h1":"vasane",
+    "title":"vasane --- synonyms, prabhupada.io",
+    "description":"clothing; dress."
+}
+---
 
 ==== vasane  ====
   * clothing --- [[books:cc:antya:19:12|Antya 19.12]]

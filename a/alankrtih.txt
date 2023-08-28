@@ -1,5 +1,11 @@
-~~Title:alaṅkṛtiḥ~~
-{{description>Kṛṣṇa, whose head is decorated with a peacock feather.}}
+---json
+{
+    "name":"alaṅkṛtiḥ",
+    "h1":"alaṅkṛtiḥ",
+    "title":"alaṅkṛtiḥ --- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa, whose head is decorated with a peacock feather."
+}
+---
 
 ==== śikhi-candraka-alaṅkṛtiḥ  ====
   * Kṛṣṇa, whose head is decorated with a peacock feather --- [[books:cc:antya:19:35|Antya 19.35]]

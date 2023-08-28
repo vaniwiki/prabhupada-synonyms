@@ -1,5 +1,11 @@
-~~Title:turaṅga~~
-{{description>horses.}}
+---json
+{
+    "name":"turaṅga",
+    "h1":"turaṅga",
+    "title":"turaṅga --- synonyms, prabhupada.io",
+    "description":"horses."
+}
+---
 
 ==== turaṅga  ====
   * horses --- [[books:sb:1:16:11|SB 1.16.11]]

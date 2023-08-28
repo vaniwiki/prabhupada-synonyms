@@ -1,5 +1,11 @@
-~~Title:yamau~~
-{{description>the twin brothers Nakula and Sahadeva; twins (Nakula and Sahadeva); twins.}}
+---json
+{
+    "name":"yamau",
+    "h1":"yamau",
+    "title":"yamau --- synonyms, prabhupada.io",
+    "description":"the twin brothers Nakula and Sahadeva; twins (Nakula and Sahadeva); twins."
+}
+---
 
 ==== yamau  ====
   * the twin brothers Nakula and Sahadeva --- [[books:sb:1:10:9-10|SB 1.10.9-10]]

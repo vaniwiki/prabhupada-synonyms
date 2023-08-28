@@ -1,5 +1,11 @@
-~~Title:taṭāsu~~
-{{description>banks.}}
+---json
+{
+    "name":"taṭāsu",
+    "h1":"taṭāsu",
+    "title":"taṭāsu --- synonyms, prabhupada.io",
+    "description":"banks."
+}
+---
 
 ==== taṭāsu  ====
   * banks --- [[books:sb:3:15:22|SB 3.15.22]]

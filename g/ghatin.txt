@@ -1,5 +1,11 @@
-~~Title:ghātin~~
-{{description>O destroyer of all weapons.}}
+---json
+{
+    "name":"ghātin",
+    "h1":"ghātin",
+    "title":"ghātin --- synonyms, prabhupada.io",
+    "description":"O destroyer of all weapons."
+}
+---
 
 ==== sarva-astra-ghātin  ====
   * O destroyer of all weapons --- [[books:sb:9:5:4|SB 9.5.4]]

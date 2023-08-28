@@ -1,5 +1,11 @@
-~~Title:ajitam~~
-{{description>unconquerable.}}
+---json
+{
+    "name":"ajitam",
+    "h1":"ajitam",
+    "title":"ajitam --- synonyms, prabhupada.io",
+    "description":"unconquerable."
+}
+---
 
 ==== ajitam  ====
   * unconquerable --- [[books:sb:4:12:42|SB 4.12.42]]

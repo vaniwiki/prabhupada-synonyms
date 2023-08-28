@@ -1,5 +1,11 @@
-~~Title:duṣpāre~~
-{{description>unlimited.}}
+---json
+{
+    "name":"duṣpāre",
+    "h1":"duṣpāre",
+    "title":"duṣpāre --- synonyms, prabhupada.io",
+    "description":"unlimited."
+}
+---
 
 ==== duṣpāre  ====
   * unlimited --- [[books:sb:4:29:45|SB 4.29.45]]

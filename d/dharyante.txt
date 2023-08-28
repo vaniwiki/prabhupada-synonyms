@@ -1,5 +1,11 @@
-~~Title:dhāryante~~
-{{description>can assimilate.}}
+---json
+{
+    "name":"dhāryante",
+    "h1":"dhāryante",
+    "title":"dhāryante --- synonyms, prabhupada.io",
+    "description":"can assimilate."
+}
+---
 
 ==== dhāryante  ====
   * can assimilate --- [[books:sb:1:4:24|SB 1.4.24]]

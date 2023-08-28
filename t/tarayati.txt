@@ -1,5 +1,11 @@
-~~Title:tārayati~~
-{{description>delivers.}}
+---json
+{
+    "name":"tārayati",
+    "h1":"tārayati",
+    "title":"tārayati --- synonyms, prabhupada.io",
+    "description":"delivers."
+}
+---
 
 ==== tārayati  ====
   * delivers --- [[books:cc:antya:3:60|Antya 3.60]]

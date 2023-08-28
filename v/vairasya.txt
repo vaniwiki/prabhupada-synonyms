@@ -1,5 +1,11 @@
-~~Title:vairasya~~
-{{description>of one who is inimical.}}
+---json
+{
+    "name":"vairasya",
+    "h1":"vairasya",
+    "title":"vairasya --- synonyms, prabhupada.io",
+    "description":"of one who is inimical."
+}
+---
 
 ==== baddha-vairasya  ====
   * of one who is inimical --- [[books:sb:3:29:23|SB 3.29.23]]

@@ -1,5 +1,11 @@
-~~Title:huḍum~~
-{{description>making into puffed rice.}}
+---json
+{
+    "name":"huḍum",
+    "h1":"huḍum",
+    "title":"huḍum --- synonyms, prabhupada.io",
+    "description":"making into puffed rice."
+}
+---
 
 ==== huḍum kari'  ====
   * making into puffed rice --- [[books:cc:antya:10:28|Antya 10.28]]

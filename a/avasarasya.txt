@@ -1,5 +1,11 @@
-~~Title:avasarasya~~
-{{description>taking the opportunity of.}}
+---json
+{
+    "name":"avasarasya",
+    "h1":"avasarasya",
+    "title":"avasarasya --- synonyms, prabhupada.io",
+    "description":"taking the opportunity of."
+}
+---
 
 ==== vivṛta-avasarasya  ====
   * taking the opportunity of --- [[books:sb:5:2:6|SB 5.2.6]]

@@ -1,5 +1,11 @@
-~~Title:khete~~
-{{description>to eat.}}
+---json
+{
+    "name":"khete",
+    "h1":"khete",
+    "title":"khete --- synonyms, prabhupada.io",
+    "description":"to eat."
+}
+---
 
 ==== khete  ====
   * to eat --- [[books:cc:madhya:3:86|Madhya 3.86]]

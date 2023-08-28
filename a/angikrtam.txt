@@ -1,5 +1,11 @@
-~~Title:aṅgīkṛtam~~
-{{description>still accepted by the Vedic literature.}}
+---json
+{
+    "name":"aṅgīkṛtam",
+    "h1":"aṅgīkṛtam",
+    "title":"aṅgīkṛtam --- synonyms, prabhupada.io",
+    "description":"still accepted by the Vedic literature."
+}
+---
 
 ==== aṅgīkṛtam  ====
   * still accepted by the Vedic literature --- [[books:sb:5:18:5|SB 5.18.5]]

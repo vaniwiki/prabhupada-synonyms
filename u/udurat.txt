@@ -1,5 +1,11 @@
-~~Title:uḍurāṭ~~
-{{description>the moon; the moon-god.}}
+---json
+{
+    "name":"uḍurāṭ",
+    "h1":"uḍurāṭ",
+    "title":"uḍurāṭ --- synonyms, prabhupada.io",
+    "description":"the moon; the moon-god."
+}
+---
 
 ==== uḍurāṭ  ====
   * the moon --- [[books:sb:8:15:35|SB 8.15.35]]

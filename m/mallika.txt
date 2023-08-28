@@ -1,5 +1,11 @@
-~~Title:mallika~~
-{{description>mallikās.}}
+---json
+{
+    "name":"mallika",
+    "h1":"mallika",
+    "title":"mallika --- synonyms, prabhupada.io",
+    "description":"mallikās."
+}
+---
 
 ==== mallikā  ====
   * //mallikās// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

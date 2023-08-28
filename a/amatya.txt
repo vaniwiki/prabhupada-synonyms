@@ -1,5 +1,11 @@
-~~Title:amatya~~
-{{description>all the ministers; by officers and ministers; his ministers; ministers.}}
+---json
+{
+    "name":"amatya",
+    "h1":"amatya",
+    "title":"amatya --- synonyms, prabhupada.io",
+    "description":"all the ministers; by officers and ministers; his ministers; ministers."
+}
+---
 
 ==== amātya  ====
   * all the ministers --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

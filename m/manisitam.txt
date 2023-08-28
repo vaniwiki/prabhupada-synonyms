@@ -1,5 +1,11 @@
-~~Title:manīṣitam~~
-{{description>such considerations having been discussed.}}
+---json
+{
+    "name":"manīṣitam",
+    "h1":"manīṣitam",
+    "title":"manīṣitam --- synonyms, prabhupada.io",
+    "description":"such considerations having been discussed."
+}
+---
 
 ==== manīṣitam  ====
   * such considerations having been discussed --- [[books:sb:10:3:18|SB 10.3.18]]

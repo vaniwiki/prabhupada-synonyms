@@ -1,5 +1,11 @@
-~~Title:janila~~
-{{description>could understand; has understood; he knew; he understood; I know; I understand; knew; know; understand; understood.}}
+---json
+{
+    "name":"janila",
+    "h1":"janila",
+    "title":"janila --- synonyms, prabhupada.io",
+    "description":"could understand; has understood; he knew; he understood; I know; I understand; knew; know; understand; understood."
+}
+---
 
 ==== jānila  ====
   * could understand --- [[books:cc:adi:12:48|Ādi 12.48]], [[books:cc:adi:17:116|Ādi 17.116]], [[books:cc:madhya:8:16|Madhya 8.16]], [[books:cc:madhya:9:105|Madhya 9.105]]

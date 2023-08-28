@@ -1,5 +1,11 @@
-~~Title:hastīra~~
-{{description>of the elephant.}}
+---json
+{
+    "name":"hastīra",
+    "h1":"hastīra",
+    "title":"hastīra --- synonyms, prabhupada.io",
+    "description":"of the elephant."
+}
+---
 
 ==== hastīra  ====
   * of the elephant --- [[books:cc:madhya:19:157|Madhya 19.157]]

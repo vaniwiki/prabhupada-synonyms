@@ -1,5 +1,11 @@
-~~Title:suddhah~~
-{{description>a son known as Śuddha; free from all contaminated activities; pure; pure, without material contamination; purified; with no material tinge; without the material contamination of attachment and detachment; Śuddha.}}
+---json
+{
+    "name":"suddhah",
+    "h1":"suddhah",
+    "title":"suddhah --- synonyms, prabhupada.io",
+    "description":"a son known as Śuddha; free from all contaminated activities; pure; pure, without material contamination; purified; with no material tinge; without the material contamination of attachment and detachment; Śuddha."
+}
+---
 
 ==== śuddhaḥ  ====
   * a son known as Śuddha --- [[books:sb:9:17:11|SB 9.17.11]]

@@ -1,5 +1,11 @@
-~~Title:śveta~~
-{{description>white; Śveta.}}
+---json
+{
+    "name":"śveta",
+    "h1":"śveta",
+    "title":"śveta --- synonyms, prabhupada.io",
+    "description":"white; Śveta."
+}
+---
 
 ==== śveta  ====
   * white --- [[books:sb:3:21:10|SB 3.21.10]], [[books:sb:8:8:4|SB 8.8.4]], [[books:cc:antya:14:95|Antya 14.95]]

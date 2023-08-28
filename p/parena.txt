@@ -1,5 +1,11 @@
-~~Title:parena~~
-{{description>puts on; takes.}}
+---json
+{
+    "name":"parena",
+    "h1":"parena",
+    "title":"parena --- synonyms, prabhupada.io",
+    "description":"puts on; takes."
+}
+---
 
 ==== parena  ====
   * puts on --- [[books:cc:madhya:12:152|Madhya 12.152]], [[books:cc:madhya:16:79|Madhya 16.79]]

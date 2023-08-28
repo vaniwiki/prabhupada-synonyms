@@ -1,5 +1,11 @@
-~~Title:bale~~
-{{description>chant the holy name of the Lord.}}
+---json
+{
+    "name":"bale",
+    "h1":"bale",
+    "title":"bale --- synonyms, prabhupada.io",
+    "description":"chant the holy name of the Lord."
+}
+---
 
 ==== 'hari' bale  ====
   * chant the holy name of the Lord --- [[books:cc:adi:14:22|Ādi 14.22]]

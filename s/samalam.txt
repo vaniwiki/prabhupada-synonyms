@@ -1,5 +1,11 @@
-~~Title:śamalam~~
-{{description>accumulated sins; impious; material affection; material qualities like lust, anger, avarice and hankering; offenses; sinful reaction.}}
+---json
+{
+    "name":"śamalam",
+    "h1":"śamalam",
+    "title":"śamalam --- synonyms, prabhupada.io",
+    "description":"accumulated sins; impious; material affection; material qualities like lust, anger, avarice and hankering; offenses; sinful reaction."
+}
+---
 
 ==== śamalam  ====
   * accumulated sins --- [[books:sb:3:9:15|SB 3.9.15]]

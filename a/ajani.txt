@@ -1,5 +1,11 @@
-~~Title:ajani~~
-{{description>have been born; there was birth; took birth; was born.}}
+---json
+{
+    "name":"ajani",
+    "h1":"ajani",
+    "title":"ajani --- synonyms, prabhupada.io",
+    "description":"have been born; there was birth; took birth; was born."
+}
+---
 
 ==== ajani  ====
   * have been born --- [[books:cc:madhya:19:143|Madhya 19.143]]

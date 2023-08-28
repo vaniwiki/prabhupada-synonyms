@@ -1,5 +1,11 @@
-~~Title:aprattam~~
-{{description>not given.}}
+---json
+{
+    "name":"aprattam",
+    "h1":"aprattam",
+    "title":"aprattam --- synonyms, prabhupada.io",
+    "description":"not given."
+}
+---
 
 ==== aprattam  ====
   * not given --- [[books:sb:9:11:6|SB 9.11.6]]

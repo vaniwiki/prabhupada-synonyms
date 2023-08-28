@@ -1,5 +1,11 @@
-~~Title:samuccayaḥ~~
-{{description>aggregate.}}
+---json
+{
+    "name":"samuccayaḥ",
+    "h1":"samuccayaḥ",
+    "title":"samuccayaḥ --- synonyms, prabhupada.io",
+    "description":"aggregate."
+}
+---
 
 ==== samuccayaḥ  ====
   * aggregate --- [[books:sb:3:11:11|SB 3.11.11]]

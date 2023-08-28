@@ -1,5 +1,11 @@
-~~Title:avrajat~~
-{{description>went.}}
+---json
+{
+    "name":"avrajat",
+    "h1":"avrajat",
+    "title":"avrajat --- synonyms, prabhupada.io",
+    "description":"went."
+}
+---
 
 ==== avrajat  ====
   * went --- [[books:sb:4:19:22|SB 4.19.22]]

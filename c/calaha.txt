@@ -1,5 +1,11 @@
-~~Title:calaha~~
-{{description>go; just come.}}
+---json
+{
+    "name":"calaha",
+    "h1":"calaha",
+    "title":"calaha --- synonyms, prabhupada.io",
+    "description":"go; just come."
+}
+---
 
 ==== calaha  ====
   * go --- [[books:cc:madhya:4:107|Madhya 4.107]]

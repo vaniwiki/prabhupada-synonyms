@@ -1,5 +1,11 @@
-~~Title:daṁṣṭriṇaḥ~~
-{{description>animals with sharp teeth.}}
+---json
+{
+    "name":"daṁṣṭriṇaḥ",
+    "h1":"daṁṣṭriṇaḥ",
+    "title":"daṁṣṭriṇaḥ --- synonyms, prabhupada.io",
+    "description":"animals with sharp teeth."
+}
+---
 
 ==== daṁṣṭriṇaḥ  ====
   * animals with sharp teeth --- [[books:sb:4:18:23-24|SB 4.18.23-24]]

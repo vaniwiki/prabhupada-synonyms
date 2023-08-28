@@ -1,5 +1,11 @@
-~~Title:paribhavaḥ~~
-{{description>paraphernalia.}}
+---json
+{
+    "name":"paribhavaḥ",
+    "h1":"paribhavaḥ",
+    "title":"paribhavaḥ --- synonyms, prabhupada.io",
+    "description":"paraphernalia."
+}
+---
 
 ==== paribhavaḥ  ====
   * paraphernalia --- [[books:sb:3:9:6|SB 3.9.6]]

@@ -1,5 +1,11 @@
-~~Title:prābalya~~
-{{description>increase; predominant; prominence; the force.}}
+---json
+{
+    "name":"prābalya",
+    "h1":"prābalya",
+    "title":"prābalya --- synonyms, prabhupada.io",
+    "description":"increase; predominant; prominence; the force."
+}
+---
 
 ==== prābalya  ====
   * increase --- [[books:cc:madhya:13:172|Madhya 13.172]]

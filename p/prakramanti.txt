@@ -1,5 +1,11 @@
-~~Title:prakramanti~~
-{{description>circumambulate.}}
+---json
+{
+    "name":"prakramanti",
+    "h1":"prakramanti",
+    "title":"prakramanti --- synonyms, prabhupada.io",
+    "description":"circumambulate."
+}
+---
 
 ==== prakramanti  ====
   * circumambulate --- [[books:sb:5:22:17|SB 5.22.17]]

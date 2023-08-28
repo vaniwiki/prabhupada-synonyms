@@ -1,5 +1,11 @@
-~~Title:āsyatām~~
-{{description>kindly take your seat; let her remain (in our prison); please come sit here.}}
+---json
+{
+    "name":"āsyatām",
+    "h1":"āsyatām",
+    "title":"āsyatām --- synonyms, prabhupada.io",
+    "description":"kindly take your seat; let her remain (in our prison); please come sit here."
+}
+---
 
 ==== āsyatām  ====
   * kindly take your seat --- [[books:sb:9:14:19|SB 9.14.19]]

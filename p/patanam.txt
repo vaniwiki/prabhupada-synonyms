@@ -1,5 +1,11 @@
-~~Title:pātanam~~
-{{description>hurling down.}}
+---json
+{
+    "name":"pātanam",
+    "h1":"pātanam",
+    "title":"pātanam --- synonyms, prabhupada.io",
+    "description":"hurling down."
+}
+---
 
 ==== pātanam  ====
   * hurling down --- [[books:sb:3:30:27|SB 3.30.27]]

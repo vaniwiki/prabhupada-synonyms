@@ -1,5 +1,11 @@
-~~Title:gavam~~
-{{description>cows; of bulls; of the cows; that of Go; the cows.}}
+---json
+{
+    "name":"gavam",
+    "h1":"gavam",
+    "title":"gavam --- synonyms, prabhupada.io",
+    "description":"cows; of bulls; of the cows; that of Go; the cows."
+}
+---
 
 ==== gavām  ====
   * cows --- [[books:sb:9:4:33-35|SB 9.4.33-35]], [[books:sb:10:3:11|SB 10.3.11]]

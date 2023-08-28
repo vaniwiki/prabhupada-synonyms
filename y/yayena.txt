@@ -1,5 +1,11 @@
-~~Title:yāyena~~
-{{description>goes; was going.}}
+---json
+{
+    "name":"yāyena",
+    "h1":"yāyena",
+    "title":"yāyena --- synonyms, prabhupada.io",
+    "description":"goes; was going."
+}
+---
 
 ==== yāyena  ====
   * goes --- [[books:cc:madhya:2:8|Madhya 2.8]]

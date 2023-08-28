@@ -1,5 +1,11 @@
-~~Title:vinaśyatsu~~
-{{description>in the destructible.}}
+---json
+{
+    "name":"vinaśyatsu",
+    "h1":"vinaśyatsu",
+    "title":"vinaśyatsu --- synonyms, prabhupada.io",
+    "description":"in the destructible."
+}
+---
 
 ==== vinaśyatsu  ====
   * in the destructible --- [[books:bg:13:28|Bg. 13.28]]

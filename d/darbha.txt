@@ -1,5 +1,11 @@
-~~Title:darbha~~
-{{description>kuśa grass.}}
+---json
+{
+    "name":"darbha",
+    "h1":"darbha",
+    "title":"darbha --- synonyms, prabhupada.io",
+    "description":"kuśa grass."
+}
+---
 
 ==== darbha  ====
   * //kuśa// grass --- [[books:sb:4:4:6|SB 4.4.6]]

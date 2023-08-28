@@ -1,5 +1,11 @@
-~~Title:aṅgulīya~~
-{{description>finger rings.}}
+---json
+{
+    "name":"aṅgulīya",
+    "h1":"aṅgulīya",
+    "title":"aṅgulīya --- synonyms, prabhupada.io",
+    "description":"finger rings."
+}
+---
 
 ==== aṅgulīya  ====
   * finger rings --- [[books:sb:6:4:35-39|SB 6.4.35-39]]

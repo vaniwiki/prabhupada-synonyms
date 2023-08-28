@@ -1,5 +1,11 @@
-~~Title:pītayā~~
-{{description>which had been drunk.}}
+---json
+{
+    "name":"pītayā",
+    "h1":"pītayā",
+    "title":"pītayā --- synonyms, prabhupada.io",
+    "description":"which had been drunk."
+}
+---
 
 ==== pītayā  ====
   * which had been drunk --- [[books:sb:8:10:4|SB 8.10.4]]

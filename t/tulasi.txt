@@ -1,5 +1,11 @@
-~~Title:tulasi~~
-{{description>O tulasī; O tulasī plant.}}
+---json
+{
+    "name":"tulasi",
+    "h1":"tulasi",
+    "title":"tulasi --- synonyms, prabhupada.io",
+    "description":"O tulasī; O tulasī plant."
+}
+---
 
 ==== tulasi  ====
   * O //tulasī// --- [[books:cc:antya:15:40|Antya 15.40]]

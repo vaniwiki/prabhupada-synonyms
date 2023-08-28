@@ -1,5 +1,11 @@
-~~Title:devatājit~~
-{{description>named Devatājit.}}
+---json
+{
+    "name":"devatājit",
+    "h1":"devatājit",
+    "title":"devatājit --- synonyms, prabhupada.io",
+    "description":"named Devatājit."
+}
+---
 
 ==== devatājit-nāma  ====
   * named Devatājit --- [[books:sb:5:15:2|SB 5.15.2]]

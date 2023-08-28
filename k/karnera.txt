@@ -1,5 +1,11 @@
-~~Title:karṇera~~
-{{description>of the heart and the ear.}}
+---json
+{
+    "name":"karṇera",
+    "h1":"karṇera",
+    "title":"karṇera --- synonyms, prabhupada.io",
+    "description":"of the heart and the ear."
+}
+---
 
 ==== citta-karṇera  ====
   * of the heart and the ear --- [[books:cc:antya:1:194|Antya 1.194]]

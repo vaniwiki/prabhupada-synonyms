@@ -1,5 +1,11 @@
-~~Title:viśātanīm~~
-{{description>source of liberation.}}
+---json
+{
+    "name":"viśātanīm",
+    "h1":"viśātanīm",
+    "title":"viśātanīm --- synonyms, prabhupada.io",
+    "description":"source of liberation."
+}
+---
 
 ==== viśātanīm  ====
   * source of liberation --- [[books:sb:3:14:5|SB 3.14.5]]

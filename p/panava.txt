@@ -1,5 +1,11 @@
-~~Title:paṇava~~
-{{description>a kind of flute; kettledrums; of the bugles; small drums.}}
+---json
+{
+    "name":"paṇava",
+    "h1":"paṇava",
+    "title":"paṇava --- synonyms, prabhupada.io",
+    "description":"a kind of flute; kettledrums; of the bugles; small drums."
+}
+---
 
 ==== paṇava  ====
   * a kind of flute --- [[books:sb:1:10:15|SB 1.10.15]]

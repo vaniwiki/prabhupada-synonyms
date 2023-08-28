@@ -1,5 +1,11 @@
-~~Title:gaccha~~
-{{description>come; go; immediately go; now go; you go.}}
+---json
+{
+    "name":"gaccha",
+    "h1":"gaccha",
+    "title":"gaccha --- synonyms, prabhupada.io",
+    "description":"come; go; immediately go; now go; you go."
+}
+---
 
 ==== gaccha  ====
   * come --- [[books:sb:4:12:5|SB 4.12.5]], [[books:cc:antya:16:87|Antya 16.87]]

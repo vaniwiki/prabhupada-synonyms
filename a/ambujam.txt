@@ -1,5 +1,11 @@
-~~Title:ambujam~~
-{{description>lotus; lotus flower.}}
+---json
+{
+    "name":"ambujam",
+    "h1":"ambujam",
+    "title":"ambujam --- synonyms, prabhupada.io",
+    "description":"lotus; lotus flower."
+}
+---
 
 ==== ambujam  ====
   * lotus --- [[books:sb:3:19:35|SB 3.19.35]]

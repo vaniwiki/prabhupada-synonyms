@@ -1,5 +1,11 @@
-~~Title:mura~~
-{{description>in Kṛṣṇa, the killer of Murāsura.}}
+---json
+{
+    "name":"mura",
+    "h1":"mura",
+    "title":"mura --- synonyms, prabhupada.io",
+    "description":"in Kṛṣṇa, the killer of Murāsura."
+}
+---
 
 ==== mura-bhidi  ====
   * in Kṛṣṇa, the killer of Murāsura --- [[books:cc:adi:16:82|Ādi 16.82]]

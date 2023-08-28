@@ -1,5 +1,11 @@
-~~Title:vratam~~
-{{description>a vow; executing vows; in the form of worship; observance of a vrata ceremony; observing vows; the behavior; the vow; the vow of brahmacarya; vow; vows; Vrata.}}
+---json
+{
+    "name":"vratam",
+    "h1":"vratam",
+    "title":"vratam --- synonyms, prabhupada.io",
+    "description":"a vow; executing vows; in the form of worship; observance of a vrata ceremony; observing vows; the behavior; the vow; the vow of brahmacarya; vow; vows; Vrata."
+}
+---
 
 ==== vratam  ====
   * a vow --- [[books:sb:4:11:12|SB 4.11.12]]

@@ -1,5 +1,11 @@
-~~Title:srnu~~
-{{description>hear from Me.}}
+---json
+{
+    "name":"srnu",
+    "h1":"srnu",
+    "title":"srnu --- synonyms, prabhupada.io",
+    "description":"hear from Me."
+}
+---
 
 ==== sṛṇu  ====
   * hear from Me --- [[books:bg:17:2|Bg. 17.2]]

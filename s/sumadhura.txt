@@ -1,5 +1,11 @@
-~~Title:sumadhura~~
-{{description>in a very sweet voice.}}
+---json
+{
+    "name":"sumadhura",
+    "h1":"sumadhura",
+    "title":"sumadhura --- synonyms, prabhupada.io",
+    "description":"in a very sweet voice."
+}
+---
 
 ==== sumadhura-svare  ====
   * in a very sweet voice --- [[books:cc:antya:13:79|Antya 13.79]]

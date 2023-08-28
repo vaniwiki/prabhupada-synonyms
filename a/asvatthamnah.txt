@@ -1,5 +1,11 @@
-~~Title:aśvatthāmnaḥ~~
-{{description>of Aśvatthāmā.}}
+---json
+{
+    "name":"aśvatthāmnaḥ",
+    "h1":"aśvatthāmnaḥ",
+    "title":"aśvatthāmnaḥ --- synonyms, prabhupada.io",
+    "description":"of Aśvatthāmā."
+}
+---
 
 ==== aśvatthāmnaḥ  ====
   * of Aśvatthāmā --- [[books:sb:1:16:13-15|SB 1.16.13-15]]

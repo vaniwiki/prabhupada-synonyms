@@ -1,5 +1,11 @@
-~~Title:pītān~~
-{{description>those who drank.}}
+---json
+{
+    "name":"pītān",
+    "h1":"pītān",
+    "title":"pītān --- synonyms, prabhupada.io",
+    "description":"those who drank."
+}
+---
 
 ==== pītān  ====
   * those who drank --- [[books:sb:2:7:28|SB 2.7.28]]

@@ -1,5 +1,11 @@
-~~Title:adrye~~
-{{description>to the holy place Veṅkaṭa Hill.}}
+---json
+{
+    "name":"adrye",
+    "h1":"adrye",
+    "title":"adrye --- synonyms, prabhupada.io",
+    "description":"to the holy place Veṅkaṭa Hill."
+}
+---
 
 ==== vyeṅkaṭa-adrye  ====
   * to the holy place Veṅkaṭa Hill --- [[books:cc:madhya:9:64|Madhya 9.64]]

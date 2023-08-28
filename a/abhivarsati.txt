@@ -1,5 +1,11 @@
-~~Title:abhivarṣati~~
-{{description>having poured down heavy rain.}}
+---json
+{
+    "name":"abhivarṣati",
+    "h1":"abhivarṣati",
+    "title":"abhivarṣati --- synonyms, prabhupada.io",
+    "description":"having poured down heavy rain."
+}
+---
 
 ==== abhivarṣati  ====
   * having poured down heavy rain --- [[books:sb:2:7:32|SB 2.7.32]]

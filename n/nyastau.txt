@@ -1,5 +1,11 @@
-~~Title:nyastau~~
-{{description>given in charge.}}
+---json
+{
+    "name":"nyastau",
+    "h1":"nyastau",
+    "title":"nyastau --- synonyms, prabhupada.io",
+    "description":"given in charge."
+}
+---
 
 ==== nyastau  ====
   * given in charge --- [[books:sb:9:14:27|SB 9.14.27]]

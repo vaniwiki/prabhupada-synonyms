@@ -1,5 +1,11 @@
-~~Title:vijñāyate~~
-{{description>is understood.}}
+---json
+{
+    "name":"vijñāyate",
+    "h1":"vijñāyate",
+    "title":"vijñāyate --- synonyms, prabhupada.io",
+    "description":"is understood."
+}
+---
 
 ==== vijñāyate  ====
   * is understood --- [[books:sb:4:29:3|SB 4.29.3]]

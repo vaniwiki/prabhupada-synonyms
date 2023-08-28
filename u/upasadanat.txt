@@ -1,5 +1,11 @@
-~~Title:upasādanāt~~
-{{description>simply dedicating oneself unto the lotus feet.}}
+---json
+{
+    "name":"upasādanāt",
+    "h1":"upasādanāt",
+    "title":"upasādanāt --- synonyms, prabhupada.io",
+    "description":"simply dedicating oneself unto the lotus feet."
+}
+---
 
 ==== caraṇa-upasādanāt  ====
   * simply dedicating oneself unto the lotus feet --- [[books:sb:2:4:16|SB 2.4.16]]

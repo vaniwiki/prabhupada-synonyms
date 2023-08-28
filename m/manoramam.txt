@@ -1,5 +1,11 @@
-~~Title:manoramam~~
-{{description>so beautiful.}}
+---json
+{
+    "name":"manoramam",
+    "h1":"manoramam",
+    "title":"manoramam --- synonyms, prabhupada.io",
+    "description":"so beautiful."
+}
+---
 
 ==== manoramam  ====
   * so beautiful --- [[books:sb:8:18:26|SB 8.18.26]]

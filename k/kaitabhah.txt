@@ -1,5 +1,11 @@
-~~Title:kaiṭabhaḥ~~
-{{description>the demon Kaiṭabha.}}
+---json
+{
+    "name":"kaiṭabhaḥ",
+    "h1":"kaiṭabhaḥ",
+    "title":"kaiṭabhaḥ --- synonyms, prabhupada.io",
+    "description":"the demon Kaiṭabha."
+}
+---
 
 ==== kaiṭabhaḥ  ====
   * the demon Kaiṭabha --- [[books:sb:6:12:1|SB 6.12.1]]

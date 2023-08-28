@@ -1,5 +1,11 @@
-~~Title:vināyakān~~
-{{description>the goblins.}}
+---json
+{
+    "name":"vināyakān",
+    "h1":"vināyakān",
+    "title":"vināyakān --- synonyms, prabhupada.io",
+    "description":"the goblins."
+}
+---
 
 ==== vināyakān  ====
   * the goblins --- [[books:sb:2:10:37-40|SB 2.10.37-40]]

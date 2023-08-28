@@ -1,5 +1,11 @@
-~~Title:rāndhite~~
-{{description>could not cook.}}
+---json
+{
+    "name":"rāndhite",
+    "h1":"rāndhite",
+    "title":"rāndhite --- synonyms, prabhupada.io",
+    "description":"could not cook."
+}
+---
 
 ==== rāndhite nā pāre  ====
   * could not cook --- [[books:cc:madhya:15:226|Madhya 15.226]]

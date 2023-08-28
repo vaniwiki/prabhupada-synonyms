@@ -1,5 +1,11 @@
-~~Title:sāntvayan~~
-{{description>pacifying.}}
+---json
+{
+    "name":"sāntvayan",
+    "h1":"sāntvayan",
+    "title":"sāntvayan --- synonyms, prabhupada.io",
+    "description":"pacifying."
+}
+---
 
 ==== sāntvayan  ====
   * pacifying --- [[books:sb:1:7:15|SB 1.7.15]], [[books:sb:4:26:19|SB 4.26.19]], [[books:sb:4:28:51|SB 4.28.51]], [[books:sb:9:14:13|SB 9.14.13]]

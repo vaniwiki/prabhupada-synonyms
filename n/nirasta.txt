@@ -1,5 +1,11 @@
-~~Title:nirasta~~
-{{description>being absent; completely freed from; negation by absence; not being affected; nullified; vanquished; without.}}
+---json
+{
+    "name":"nirasta",
+    "h1":"nirasta",
+    "title":"nirasta --- synonyms, prabhupada.io",
+    "description":"being absent; completely freed from; negation by absence; not being affected; nullified; vanquished; without."
+}
+---
 
 ==== nirasta  ====
   * being absent --- [[books:sb:1:15:17|SB 1.15.17]]

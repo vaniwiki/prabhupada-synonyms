@@ -1,5 +1,11 @@
-~~Title:gatha~~
-{{description>a verse.}}
+---json
+{
+    "name":"gatha",
+    "h1":"gatha",
+    "title":"gatha --- synonyms, prabhupada.io",
+    "description":"a verse."
+}
+---
 
 ==== gāthā  ====
   * a verse --- [[books:cc:madhya:19:211|Madhya 19.211]]

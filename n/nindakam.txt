@@ -1,5 +1,11 @@
-~~Title:nindakam~~
-{{description>a person who was criticizing Him.}}
+---json
+{
+    "name":"nindakam",
+    "h1":"nindakam",
+    "title":"nindakam --- synonyms, prabhupada.io",
+    "description":"a person who was criticizing Him."
+}
+---
 
 ==== sva-nindakam  ====
   * a person who was criticizing Him --- [[books:cc:madhya:15:1|Madhya 15.1]]

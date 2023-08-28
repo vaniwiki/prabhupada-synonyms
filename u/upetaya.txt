@@ -1,5 +1,11 @@
-~~Title:upetayā~~
-{{description>fully equipped.}}
+---json
+{
+    "name":"upetayā",
+    "h1":"upetayā",
+    "title":"upetayā --- synonyms, prabhupada.io",
+    "description":"fully equipped."
+}
+---
 
 ==== upetayā  ====
   * fully equipped --- [[books:sb:5:9:15|SB 5.9.15]]

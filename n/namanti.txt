@@ -1,5 +1,11 @@
-~~Title:namanti~~
-{{description>bow down; offer respect.}}
+---json
+{
+    "name":"namanti",
+    "h1":"namanti",
+    "title":"namanti --- synonyms, prabhupada.io",
+    "description":"bow down; offer respect."
+}
+---
 
 ==== namanti  ====
   * bow down --- [[books:sb:1:4:11|SB 1.4.11]]

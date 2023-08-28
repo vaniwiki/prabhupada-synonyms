@@ -1,5 +1,11 @@
-~~Title:nagnam~~
-{{description>naked.}}
+---json
+{
+    "name":"nagnam",
+    "h1":"nagnam",
+    "title":"nagnam --- synonyms, prabhupada.io",
+    "description":"naked."
+}
+---
 
 ==== nagnam  ====
   * naked --- [[books:sb:9:14:31|SB 9.14.31]]

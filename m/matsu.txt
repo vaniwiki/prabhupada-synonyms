@@ -1,5 +1,11 @@
-~~Title:matsu~~
-{{description>consisting of.}}
+---json
+{
+    "name":"matsu",
+    "h1":"matsu",
+    "title":"matsu --- synonyms, prabhupada.io",
+    "description":"consisting of."
+}
+---
 
 ==== matsu  ====
   * consisting of --- [[books:sb:5:5:3|SB 5.5.3]]

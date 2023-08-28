@@ -1,5 +1,11 @@
-~~Title:śiṣṭa~~
-{{description>all respectable persons.}}
+---json
+{
+    "name":"śiṣṭa",
+    "h1":"śiṣṭa",
+    "title":"śiṣṭa --- synonyms, prabhupada.io",
+    "description":"all respectable persons."
+}
+---
 
 ==== śiṣṭa śiṣṭa jana  ====
   * all respectable persons --- [[books:cc:madhya:19:254|Madhya 19.254]]

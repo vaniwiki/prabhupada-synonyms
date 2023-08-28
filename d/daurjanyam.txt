@@ -1,5 +1,11 @@
-~~Title:daurjanyam~~
-{{description>evil deed.}}
+---json
+{
+    "name":"daurjanyam",
+    "h1":"daurjanyam",
+    "title":"daurjanyam --- synonyms, prabhupada.io",
+    "description":"evil deed."
+}
+---
 
 ==== daurjanyam  ====
   * evil deed --- [[books:sb:6:18:76|SB 6.18.76]]

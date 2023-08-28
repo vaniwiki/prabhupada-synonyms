@@ -1,5 +1,11 @@
-~~Title:pūtena~~
-{{description>purified by that.}}
+---json
+{
+    "name":"pūtena",
+    "h1":"pūtena",
+    "title":"pūtena --- synonyms, prabhupada.io",
+    "description":"purified by that."
+}
+---
 
 ==== pūtena  ====
   * purified by that --- [[books:sb:3:12:3|SB 3.12.3]]

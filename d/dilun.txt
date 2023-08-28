@@ -1,5 +1,11 @@
-~~Title:diluṅ~~
-{{description>give; I award; I gave; I give; I have given; I have given in charity.}}
+---json
+{
+    "name":"diluṅ",
+    "h1":"diluṅ",
+    "title":"diluṅ --- synonyms, prabhupada.io",
+    "description":"give; I award; I gave; I give; I have given; I have given in charity."
+}
+---
 
 ==== diluṅ  ====
   * give --- [[books:cc:adi:9:36|Ādi 9.36]]

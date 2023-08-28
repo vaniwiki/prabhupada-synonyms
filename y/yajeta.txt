@@ -1,5 +1,11 @@
-~~Title:yajeta~~
-{{description>do worship; must worship; one should worship; should worship.}}
+---json
+{
+    "name":"yajeta",
+    "h1":"yajeta",
+    "title":"yajeta --- synonyms, prabhupada.io",
+    "description":"do worship; must worship; one should worship; should worship."
+}
+---
 
 ==== yajeta  ====
   * do worship --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

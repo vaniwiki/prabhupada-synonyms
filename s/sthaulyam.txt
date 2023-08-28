@@ -1,5 +1,11 @@
-~~Title:sthaulyam~~
-{{description>being very stout and strong.}}
+---json
+{
+    "name":"sthaulyam",
+    "h1":"sthaulyam",
+    "title":"sthaulyam --- synonyms, prabhupada.io",
+    "description":"being very stout and strong."
+}
+---
 
 ==== sthaulyam  ====
   * being very stout and strong --- [[books:sb:5:10:10|SB 5.10.10]]

@@ -1,5 +1,11 @@
-~~Title:agha~~
-{{description>by sin; material contamination; of sins; sinful animals or living entities; sins.}}
+---json
+{
+    "name":"agha",
+    "h1":"agha",
+    "title":"agha --- synonyms, prabhupada.io",
+    "description":"by sin; material contamination; of sins; sinful animals or living entities; sins."
+}
+---
 
 ==== agha  ====
   * by sin --- [[books:sb:3:16:10|SB 3.16.10]]

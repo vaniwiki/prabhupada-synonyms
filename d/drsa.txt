@@ -1,5 +1,11 @@
-~~Title:drsa~~
-{{description>by experience; by glance; by intelligence; by knowledge; by looking; by the eyes; by the vision of Your eyes; with his eyes.}}
+---json
+{
+    "name":"drsa",
+    "h1":"drsa",
+    "title":"drsa --- synonyms, prabhupada.io",
+    "description":"by experience; by glance; by intelligence; by knowledge; by looking; by the eyes; by the vision of Your eyes; with his eyes."
+}
+---
 
 ==== dṛśā  ====
   * by experience --- [[books:sb:4:7:15|SB 4.7.15]]

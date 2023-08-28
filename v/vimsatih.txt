@@ -1,5 +1,11 @@
-~~Title:viṁśatiḥ~~
-{{description>another twenty years; twenty; twenty years.}}
+---json
+{
+    "name":"viṁśatiḥ",
+    "h1":"viṁśatiḥ",
+    "title":"viṁśatiḥ --- synonyms, prabhupada.io",
+    "description":"another twenty years; twenty; twenty years."
+}
+---
 
 ==== viṁśatiḥ  ====
   * another twenty years --- [[books:sb:7:6:7|SB 7.6.7]]

@@ -1,5 +1,11 @@
-~~Title:kautuka~~
-{{description>because of the festival; these funny things.}}
+---json
+{
+    "name":"kautuka",
+    "h1":"kautuka",
+    "title":"kautuka --- synonyms, prabhupada.io",
+    "description":"because of the festival; these funny things."
+}
+---
 
 ==== kautuka  ====
   * because of the festival --- [[books:sb:1:11:13|SB 1.11.13]]

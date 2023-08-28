@@ -1,5 +1,11 @@
-~~Title:udvignām~~
-{{description>disturbed and full of fear.}}
+---json
+{
+    "name":"udvignām",
+    "h1":"udvignām",
+    "title":"udvignām --- synonyms, prabhupada.io",
+    "description":"disturbed and full of fear."
+}
+---
 
 ==== bhaya-udvignām  ====
   * disturbed and full of fear --- [[books:sb:7:7:7|SB 7.7.7]]

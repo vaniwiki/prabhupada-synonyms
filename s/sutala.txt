@@ -1,5 +1,11 @@
-~~Title:sutala~~
-{{description>to the place known as Sutala.}}
+---json
+{
+    "name":"sutala",
+    "h1":"sutala",
+    "title":"sutala --- synonyms, prabhupada.io",
+    "description":"to the place known as Sutala."
+}
+---
 
 ==== sutala-ālayam  ====
   * to the place known as Sutala --- [[books:sb:8:23:9|SB 8.23.9]]

@@ -1,5 +1,11 @@
-~~Title:yaje~~
-{{description>I shall offer sacrifice.}}
+---json
+{
+    "name":"yaje",
+    "h1":"yaje",
+    "title":"yaje --- synonyms, prabhupada.io",
+    "description":"I shall offer sacrifice."
+}
+---
 
 ==== yaje  ====
   * I shall offer sacrifice --- [[books:sb:9:7:9|SB 9.7.9]]

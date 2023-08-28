@@ -1,5 +1,11 @@
-~~Title:durlabhe~~
-{{description>unapproachable.}}
+---json
+{
+    "name":"durlabhe",
+    "h1":"durlabhe",
+    "title":"durlabhe --- synonyms, prabhupada.io",
+    "description":"unapproachable."
+}
+---
 
 ==== durlabhe  ====
   * unapproachable --- [[books:sb:4:8:12|SB 4.8.12]]

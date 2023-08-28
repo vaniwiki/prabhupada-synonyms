@@ -1,5 +1,11 @@
-~~Title:dilena~~
-{{description>gave; gave them; He gave.}}
+---json
+{
+    "name":"dilena",
+    "h1":"dilena",
+    "title":"dilena --- synonyms, prabhupada.io",
+    "description":"gave; gave them; He gave."
+}
+---
 
 ==== dilena  ====
   * gave --- [[books:cc:madhya:10:105|Madhya 10.105]], [[books:cc:madhya:11:239|Madhya 11.239]], [[books:cc:antya:13:74|Antya 13.74]]

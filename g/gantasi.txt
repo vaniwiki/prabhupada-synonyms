@@ -1,5 +1,11 @@
-~~Title:gantāsi~~
-{{description>you shall go.}}
+---json
+{
+    "name":"gantāsi",
+    "h1":"gantāsi",
+    "title":"gantāsi --- synonyms, prabhupada.io",
+    "description":"you shall go."
+}
+---
 
 ==== gantāsi  ====
   * you shall go --- [[books:bg:2:52|Bg. 2.52]]

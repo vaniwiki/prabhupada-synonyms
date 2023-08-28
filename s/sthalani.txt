@@ -1,5 +1,11 @@
-~~Title:sthalāni~~
-{{description>whose cheeks.}}
+---json
+{
+    "name":"sthalāni",
+    "h1":"sthalāni",
+    "title":"sthalāni --- synonyms, prabhupada.io",
+    "description":"whose cheeks."
+}
+---
 
 ==== gaṇḍa-sthalāni  ====
   * whose cheeks --- [[books:sb:5:25:4|SB 5.25.4]]

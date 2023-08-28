@@ -1,5 +1,11 @@
-~~Title:anuyāyī~~
-{{description>accordingly.}}
+---json
+{
+    "name":"anuyāyī",
+    "h1":"anuyāyī",
+    "title":"anuyāyī --- synonyms, prabhupada.io",
+    "description":"accordingly."
+}
+---
 
 ==== anuyāyī  ====
   * accordingly --- [[books:cc:adi:6:91|Ādi 6.91]]

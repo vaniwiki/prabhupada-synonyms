@@ -1,5 +1,11 @@
-~~Title:pāvakasya~~
-{{description>of fire.}}
+---json
+{
+    "name":"pāvakasya",
+    "h1":"pāvakasya",
+    "title":"pāvakasya --- synonyms, prabhupada.io",
+    "description":"of fire."
+}
+---
 
 ==== pāvakasya  ====
   * of fire --- [[books:cc:madhya:20:113|Madhya 20.113]]

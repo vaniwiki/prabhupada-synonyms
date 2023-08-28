@@ -1,5 +1,11 @@
-~~Title:sumateḥ~~
-{{description>from Sumati.}}
+---json
+{
+    "name":"sumateḥ",
+    "h1":"sumateḥ",
+    "title":"sumateḥ --- synonyms, prabhupada.io",
+    "description":"from Sumati."
+}
+---
 
 ==== sumateḥ  ====
   * from Sumati --- [[books:sb:9:20:7|SB 9.20.7]]

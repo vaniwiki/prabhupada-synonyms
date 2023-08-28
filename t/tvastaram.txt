@@ -1,5 +1,11 @@
-~~Title:tvaṣṭāram~~
-{{description>Tvaṣṭā.}}
+---json
+{
+    "name":"tvaṣṭāram",
+    "h1":"tvaṣṭāram",
+    "title":"tvaṣṭāram --- synonyms, prabhupada.io",
+    "description":"Tvaṣṭā."
+}
+---
 
 ==== tvaṣṭāram  ====
   * Tvaṣṭā --- [[books:sb:6:14:27|SB 6.14.27]]

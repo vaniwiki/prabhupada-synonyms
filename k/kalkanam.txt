@@ -1,5 +1,11 @@
-~~Title:kalkanam~~
-{{description>mutual quarrel.}}
+---json
+{
+    "name":"kalkanam",
+    "h1":"kalkanam",
+    "title":"kalkanam --- synonyms, prabhupada.io",
+    "description":"mutual quarrel."
+}
+---
 
 ==== kalkanam  ====
   * mutual quarrel --- [[books:sb:1:14:4|SB 1.14.4]]

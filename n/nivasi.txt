@@ -1,5 +1,11 @@
-~~Title:nivāsī~~
-{{description>an inhabitant of Nadīyā.}}
+---json
+{
+    "name":"nivāsī",
+    "h1":"nivāsī",
+    "title":"nivāsī --- synonyms, prabhupada.io",
+    "description":"an inhabitant of Nadīyā."
+}
+---
 
 ==== nadīyā-nivāsī  ====
   * an inhabitant of Nadīyā --- [[books:cc:madhya:6:18|Madhya 6.18]]

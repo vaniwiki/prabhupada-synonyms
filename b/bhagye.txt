@@ -1,5 +1,11 @@
-~~Title:bhāgye~~
-{{description>by fortune; for the fortune; fortunately.}}
+---json
+{
+    "name":"bhāgye",
+    "h1":"bhāgye",
+    "title":"bhāgye --- synonyms, prabhupada.io",
+    "description":"by fortune; for the fortune; fortunately."
+}
+---
 
 ==== bhāgye  ====
   * by fortune --- [[books:cc:madhya:2:67|Madhya 2.67]], [[books:cc:antya:5:8|Antya 5.8]]

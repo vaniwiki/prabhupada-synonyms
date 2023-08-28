@@ -1,5 +1,11 @@
-~~Title:patra~~
-{{description>leaves; note; page; paper; the lotus leaves; the palm leaf.}}
+---json
+{
+    "name":"patra",
+    "h1":"patra",
+    "title":"patra --- synonyms, prabhupada.io",
+    "description":"leaves; note; page; paper; the lotus leaves; the palm leaf."
+}
+---
 
 ==== patra  ====
   * leaves --- [[books:sb:5:20:29|SB 5.20.29]], [[books:sb:6:18:57|SB 6.18.57]], [[books:cc:madhya:9:208|Madhya 9.208]], [[books:cc:madhya:9:209|Madhya 9.209]], [[books:cc:antya:6:226|Antya 6.226]]

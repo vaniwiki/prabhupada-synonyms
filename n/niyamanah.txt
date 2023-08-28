@@ -1,5 +1,11 @@
-~~Title:niyamanah~~
-{{description>being arrested and taken away.}}
+---json
+{
+    "name":"niyamanah",
+    "h1":"niyamanah",
+    "title":"niyamanah --- synonyms, prabhupada.io",
+    "description":"being arrested and taken away."
+}
+---
 
 ==== nīyamānaḥ  ====
   * being arrested and taken away --- [[books:sb:4:28:23|SB 4.28.23]]

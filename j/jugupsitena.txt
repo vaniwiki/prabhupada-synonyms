@@ -1,5 +1,11 @@
-~~Title:jugupsitena~~
-{{description>being heinous.}}
+---json
+{
+    "name":"jugupsitena",
+    "h1":"jugupsitena",
+    "title":"jugupsitena --- synonyms, prabhupada.io",
+    "description":"being heinous."
+}
+---
 
 ==== jugupsitena  ====
   * being heinous --- [[books:sb:1:7:42|SB 1.7.42]]

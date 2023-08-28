@@ -1,5 +1,11 @@
-~~Title:aṁśera~~
-{{description>of the part; of the plenary part.}}
+---json
+{
+    "name":"aṁśera",
+    "h1":"aṁśera",
+    "title":"aṁśera --- synonyms, prabhupada.io",
+    "description":"of the part; of the plenary part."
+}
+---
 
 ==== aṁśera  ====
   * of the part --- [[books:cc:adi:5:73|Ādi 5.73]]

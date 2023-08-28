@@ -1,5 +1,11 @@
-~~Title:limpanti~~
-{{description>do affect.}}
+---json
+{
+    "name":"limpanti",
+    "h1":"limpanti",
+    "title":"limpanti --- synonyms, prabhupada.io",
+    "description":"do affect."
+}
+---
 
 ==== limpanti  ====
   * do affect --- [[books:bg:4:14|Bg. 4.14]]

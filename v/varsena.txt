@@ -1,5 +1,11 @@
-~~Title:varṣeṇa~~
-{{description>by a shower of weapons.}}
+---json
+{
+    "name":"varṣeṇa",
+    "h1":"varṣeṇa",
+    "title":"varṣeṇa --- synonyms, prabhupada.io",
+    "description":"by a shower of weapons."
+}
+---
 
 ==== śastra-varṣeṇa  ====
   * by a shower of weapons --- [[books:sb:4:10:13|SB 4.10.13]]

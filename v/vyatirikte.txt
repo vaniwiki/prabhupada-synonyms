@@ -1,5 +1,11 @@
-~~Title:vyatirikte~~
-{{description>set apart.}}
+---json
+{
+    "name":"vyatirikte",
+    "h1":"vyatirikte",
+    "title":"vyatirikte --- synonyms, prabhupada.io",
+    "description":"set apart."
+}
+---
 
 ==== vyatirikte  ====
   * set apart --- [[books:sb:5:18:5|SB 5.18.5]]

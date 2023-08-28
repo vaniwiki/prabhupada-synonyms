@@ -1,5 +1,11 @@
-~~Title:samānāt~~
-{{description>with an equal.}}
+---json
+{
+    "name":"samānāt",
+    "h1":"samānāt",
+    "title":"samānāt --- synonyms, prabhupada.io",
+    "description":"with an equal."
+}
+---
 
 ==== samānāt  ====
   * with an equal --- [[books:sb:4:8:34|SB 4.8.34]]

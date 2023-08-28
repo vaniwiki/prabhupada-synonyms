@@ -1,5 +1,11 @@
-~~Title:dadatam~~
-{{description>delivering shares.}}
+---json
+{
+    "name":"dadatam",
+    "h1":"dadatam",
+    "title":"dadatam --- synonyms, prabhupada.io",
+    "description":"delivering shares."
+}
+---
 
 ==== dadatam  ====
   * delivering shares --- [[books:sb:10:9:8|SB 10.9.8]]

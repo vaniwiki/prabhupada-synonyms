@@ -1,5 +1,11 @@
-~~Title:phāḍimu~~
-{{description>I shall bifurcate.}}
+---json
+{
+    "name":"phāḍimu",
+    "h1":"phāḍimu",
+    "title":"phāḍimu --- synonyms, prabhupada.io",
+    "description":"I shall bifurcate."
+}
+---
 
 ==== phāḍimu  ====
   * I shall bifurcate --- [[books:cc:adi:17:181|Ādi 17.181]]

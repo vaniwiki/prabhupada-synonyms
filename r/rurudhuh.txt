@@ -1,5 +1,11 @@
-~~Title:rurudhuḥ~~
-{{description>encircled.}}
+---json
+{
+    "name":"rurudhuḥ",
+    "h1":"rurudhuḥ",
+    "title":"rurudhuḥ --- synonyms, prabhupada.io",
+    "description":"encircled."
+}
+---
 
 ==== rurudhuḥ  ====
   * encircled --- [[books:sb:4:28:2|SB 4.28.2]]

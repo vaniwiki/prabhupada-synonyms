@@ -1,5 +1,11 @@
-~~Title:samadistah~~
-{{description>being advised.}}
+---json
+{
+    "name":"samadistah",
+    "h1":"samadistah",
+    "title":"samadistah --- synonyms, prabhupada.io",
+    "description":"being advised."
+}
+---
 
 ==== samādiṣṭaḥ  ====
   * being advised --- [[books:sb:4:19:39|SB 4.19.39]]

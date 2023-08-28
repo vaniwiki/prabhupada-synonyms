@@ -1,5 +1,11 @@
-~~Title:āyāmāni~~
-{{description>measuring.}}
+---json
+{
+    "name":"āyāmāni",
+    "h1":"āyāmāni",
+    "title":"āyāmāni --- synonyms, prabhupada.io",
+    "description":"measuring."
+}
+---
 
 ==== āyāmāni  ====
   * measuring --- [[books:sb:5:16:6|SB 5.16.6]]

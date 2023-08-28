@@ -1,5 +1,11 @@
-~~Title:apanītam~~
-{{description>stolen.}}
+---json
+{
+    "name":"apanītam",
+    "h1":"apanītam",
+    "title":"apanītam --- synonyms, prabhupada.io",
+    "description":"stolen."
+}
+---
 
 ==== apanītam  ====
   * stolen --- [[books:sb:8:24:61|SB 8.24.61]]

@@ -1,5 +1,11 @@
-~~Title:vāme~~
-{{description>on the left; on the left-hand side; to the left side.}}
+---json
+{
+    "name":"vāme",
+    "h1":"vāme",
+    "title":"vāme --- synonyms, prabhupada.io",
+    "description":"on the left; on the left-hand side; to the left side."
+}
+---
 
 ==== vāme  ====
   * on the left --- [[books:sb:3:4:8|SB 3.4.8]], [[books:cc:madhya:13:194|Madhya 13.194]]

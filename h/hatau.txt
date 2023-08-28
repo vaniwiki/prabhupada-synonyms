@@ -1,5 +1,11 @@
-~~Title:hatau~~
-{{description>they also were killed; were killed.}}
+---json
+{
+    "name":"hatau",
+    "h1":"hatau",
+    "title":"hatau --- synonyms, prabhupada.io",
+    "description":"they also were killed; were killed."
+}
+---
 
 ==== hatau  ====
   * they also were killed --- [[books:sb:7:10:36|SB 7.10.36]]

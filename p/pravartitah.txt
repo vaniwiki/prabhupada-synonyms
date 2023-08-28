@@ -1,5 +1,11 @@
-~~Title:pravartitaḥ~~
-{{description>engaged.}}
+---json
+{
+    "name":"pravartitaḥ",
+    "h1":"pravartitaḥ",
+    "title":"pravartitaḥ --- synonyms, prabhupada.io",
+    "description":"engaged."
+}
+---
 
 ==== pravartitaḥ  ====
   * engaged --- [[books:cc:madhya:19:134|Madhya 19.134]], [[books:cc:antya:1:212|Antya 1.212]]

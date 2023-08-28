@@ -1,5 +1,11 @@
-~~Title:bāthāne~~
-{{description>in the cowshed.}}
+---json
+{
+    "name":"bāthāne",
+    "h1":"bāthāne",
+    "title":"bāthāne --- synonyms, prabhupada.io",
+    "description":"in the cowshed."
+}
+---
 
 ==== bāthāne  ====
   * in the cowshed --- [[books:cc:antya:6:174|Antya 6.174]]

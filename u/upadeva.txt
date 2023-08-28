@@ -1,5 +1,11 @@
-~~Title:upadeva~~
-{{description>of Kuvera.}}
+---json
+{
+    "name":"upadeva",
+    "h1":"upadeva",
+    "title":"upadeva --- synonyms, prabhupada.io",
+    "description":"of Kuvera."
+}
+---
 
 ==== upadeva  ====
   * of Kuvera --- [[books:sb:4:10:7|SB 4.10.7]]

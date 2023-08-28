@@ -1,5 +1,11 @@
-~~Title:sthāpila~~
-{{description>established.}}
+---json
+{
+    "name":"sthāpila",
+    "h1":"sthāpila",
+    "title":"sthāpila --- synonyms, prabhupada.io",
+    "description":"established."
+}
+---
 
 ==== sthāpila  ====
   * established --- [[books:cc:madhya:6:177|Madhya 6.177]]

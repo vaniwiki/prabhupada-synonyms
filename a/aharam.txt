@@ -1,5 +1,11 @@
-~~Title:āhāram~~
-{{description>food.}}
+---json
+{
+    "name":"āhāram",
+    "h1":"āhāram",
+    "title":"āhāram --- synonyms, prabhupada.io",
+    "description":"food."
+}
+---
 
 ==== āhāram  ====
   * food --- [[books:sb:5:9:11|SB 5.9.11]]

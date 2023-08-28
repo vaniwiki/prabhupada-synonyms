@@ -1,5 +1,11 @@
-~~Title:apaiti~~
-{{description>flees; goes away; vanishes.}}
+---json
+{
+    "name":"apaiti",
+    "h1":"apaiti",
+    "title":"apaiti --- synonyms, prabhupada.io",
+    "description":"flees; goes away; vanishes."
+}
+---
 
 ==== apaiti  ====
   * flees --- [[books:sb:10:3:27|SB 10.3.27]]

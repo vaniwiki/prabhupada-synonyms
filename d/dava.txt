@@ -1,5 +1,11 @@
-~~Title:dava~~
-{{description>by a forest fire.}}
+---json
+{
+    "name":"dava",
+    "h1":"dava",
+    "title":"dava --- synonyms, prabhupada.io",
+    "description":"by a forest fire."
+}
+---
 
 ==== dava-agni  ====
   * by a forest fire --- [[books:sb:8:7:14|SB 8.7.14]]

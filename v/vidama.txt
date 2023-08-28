@@ -1,5 +1,11 @@
-~~Title:vidāma~~
-{{description>can find; can we understand; know; that much we know; we know.}}
+---json
+{
+    "name":"vidāma",
+    "h1":"vidāma",
+    "title":"vidāma --- synonyms, prabhupada.io",
+    "description":"can find; can we understand; know; that much we know; we know."
+}
+---
 
 ==== vidāma  ====
   * can find --- [[books:sb:4:13:28|SB 4.13.28]]

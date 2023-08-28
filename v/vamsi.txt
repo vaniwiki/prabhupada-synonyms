@@ -1,5 +1,11 @@
-~~Title:vamsi~~
-{{description>a flute; flute; on the flute; the flute.}}
+---json
+{
+    "name":"vamsi",
+    "h1":"vamsi",
+    "title":"vamsi --- synonyms, prabhupada.io",
+    "description":"a flute; flute; on the flute; the flute."
+}
+---
 
 ==== vaṁśī  ====
   * a flute --- [[books:cc:adi:17:233|Ādi 17.233]]

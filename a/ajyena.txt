@@ -1,5 +1,11 @@
-~~Title:ājyena~~
-{{description>with the help of butter.}}
+---json
+{
+    "name":"ājyena",
+    "h1":"ājyena",
+    "title":"ājyena --- synonyms, prabhupada.io",
+    "description":"with the help of butter."
+}
+---
 
 ==== ājyena  ====
   * with the help of butter --- [[books:sb:1:14:18|SB 1.14.18]]

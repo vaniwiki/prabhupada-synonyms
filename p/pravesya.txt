@@ -1,5 +1,11 @@
-~~Title:praveśya~~
-{{description>made to enter; making enter.}}
+---json
+{
+    "name":"praveśya",
+    "h1":"praveśya",
+    "title":"praveśya --- synonyms, prabhupada.io",
+    "description":"made to enter; making enter."
+}
+---
 
 ==== praveśya  ====
   * made to enter --- [[books:sb:3:1:6|SB 3.1.6]]

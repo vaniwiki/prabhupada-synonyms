@@ -1,5 +1,11 @@
-~~Title:bāliśau~~
-{{description>O you two fools.}}
+---json
+{
+    "name":"bāliśau",
+    "h1":"bāliśau",
+    "title":"bāliśau --- synonyms, prabhupada.io",
+    "description":"O you two fools."
+}
+---
 
 ==== bāliśau  ====
   * O you two fools --- [[books:sb:7:1:38|SB 7.1.38]]

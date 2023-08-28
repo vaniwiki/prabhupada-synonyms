@@ -1,5 +1,11 @@
-~~Title:śekharam~~
-{{description>to Lord Śiva.}}
+---json
+{
+    "name":"śekharam",
+    "h1":"śekharam",
+    "title":"śekharam --- synonyms, prabhupada.io",
+    "description":"to Lord Śiva."
+}
+---
 
 ==== śaśāṅka-śekharam  ====
   * to Lord Śiva --- [[books:sb:4:6:41|SB 4.6.41]]

@@ -1,5 +1,11 @@
-~~Title:bhrātāre~~
-{{description>to my brother.}}
+---json
+{
+    "name":"bhrātāre",
+    "h1":"bhrātāre",
+    "title":"bhrātāre --- synonyms, prabhupada.io",
+    "description":"to my brother."
+}
+---
 
 ==== bhrātāre  ====
   * to my brother --- [[books:cc:adi:5:174|Ādi 5.174]]

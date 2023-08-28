@@ -1,5 +1,11 @@
-~~Title:prakāṇḍa~~
-{{description>big; enormous; heavy.}}
+---json
+{
+    "name":"prakāṇḍa",
+    "h1":"prakāṇḍa",
+    "title":"prakāṇḍa --- synonyms, prabhupada.io",
+    "description":"big; enormous; heavy."
+}
+---
 
 ==== prakāṇḍa  ====
   * big --- [[books:cc:madhya:8:18|Madhya 8.18]]

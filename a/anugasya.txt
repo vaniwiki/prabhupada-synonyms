@@ -1,5 +1,11 @@
-~~Title:anugasya~~
-{{description>of the follower of the rich Kuvera.}}
+---json
+{
+    "name":"anugasya",
+    "h1":"anugasya",
+    "title":"anugasya --- synonyms, prabhupada.io",
+    "description":"of the follower of the rich Kuvera."
+}
+---
 
 ==== dhanada-anugasya  ====
   * of the follower of the rich Kuvera --- [[books:sb:2:7:33|SB 2.7.33]]

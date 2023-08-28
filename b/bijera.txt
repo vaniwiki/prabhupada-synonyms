@@ -1,5 +1,11 @@
-~~Title:bījera~~
-{{description>of the seed.}}
+---json
+{
+    "name":"bījera",
+    "h1":"bījera",
+    "title":"bījera --- synonyms, prabhupada.io",
+    "description":"of the seed."
+}
+---
 
 ==== bījera  ====
   * of the seed --- [[books:cc:madhya:6:105|Madhya 6.105]]

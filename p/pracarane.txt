@@ -1,5 +1,11 @@
-~~Title:pracāraṇe~~
-{{description>preaching.}}
+---json
+{
+    "name":"pracāraṇe",
+    "h1":"pracāraṇe",
+    "title":"pracāraṇe --- synonyms, prabhupada.io",
+    "description":"preaching."
+}
+---
 
 ==== pracāraṇe  ====
   * preaching --- [[books:cc:antya:1:204|Antya 1.204]]

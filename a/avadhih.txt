@@ -1,5 +1,11 @@
-~~Title:avadhih~~
-{{description>destination; the end of life; up to the limit of.}}
+---json
+{
+    "name":"avadhih",
+    "h1":"avadhih",
+    "title":"avadhih --- synonyms, prabhupada.io",
+    "description":"destination; the end of life; up to the limit of."
+}
+---
 
 ==== avadhiḥ  ====
   * destination --- [[books:sb:4:31:13|SB 4.31.13]]

@@ -1,5 +1,11 @@
-~~Title:prathayitum~~
-{{description>to manifest.}}
+---json
+{
+    "name":"prathayitum",
+    "h1":"prathayitum",
+    "title":"prathayitum --- synonyms, prabhupada.io",
+    "description":"to manifest."
+}
+---
 
 ==== prathayitum  ====
   * to manifest --- [[books:cc:antya:1:153|Antya 1.153]]

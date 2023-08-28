@@ -1,5 +1,11 @@
-~~Title:samupetya~~
-{{description>after returning.}}
+---json
+{
+    "name":"samupetya",
+    "h1":"samupetya",
+    "title":"samupetya --- synonyms, prabhupada.io",
+    "description":"after returning."
+}
+---
 
 ==== samupetya  ====
   * after returning --- [[books:sb:9:15:35-36|SB 9.15.35-36]]

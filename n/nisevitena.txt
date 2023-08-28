@@ -1,5 +1,11 @@
-~~Title:niṣevitena~~
-{{description>executed.}}
+---json
+{
+    "name":"niṣevitena",
+    "h1":"niṣevitena",
+    "title":"niṣevitena --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== niṣevitena  ====
   * executed --- [[books:sb:3:29:15|SB 3.29.15]]

@@ -1,5 +1,11 @@
-~~Title:riktam~~
-{{description>being void; that which makes one free from attachment.}}
+---json
+{
+    "name":"riktam",
+    "h1":"riktam",
+    "title":"riktam --- synonyms, prabhupada.io",
+    "description":"being void; that which makes one free from attachment."
+}
+---
 
 ==== riktam  ====
   * being void --- [[books:sb:1:15:21|SB 1.15.21]]

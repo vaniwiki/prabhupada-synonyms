@@ -1,5 +1,11 @@
-~~Title:adhikaiḥ~~
-{{description>with ten times greater thickness.}}
+---json
+{
+    "name":"adhikaiḥ",
+    "h1":"adhikaiḥ",
+    "title":"adhikaiḥ --- synonyms, prabhupada.io",
+    "description":"with ten times greater thickness."
+}
+---
 
 ==== daśa-uttara-adhikaiḥ  ====
   * with ten times greater thickness --- [[books:sb:3:11:41|SB 3.11.41]]

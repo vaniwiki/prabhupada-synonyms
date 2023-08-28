@@ -1,5 +1,11 @@
-~~Title:upahrta~~
-{{description>being offered; collected.}}
+---json
+{
+    "name":"upahrta",
+    "h1":"upahrta",
+    "title":"upahrta --- synonyms, prabhupada.io",
+    "description":"being offered; collected."
+}
+---
 
 ==== upahṛta  ====
   * being offered --- [[books:sb:4:20:19|SB 4.20.19]]

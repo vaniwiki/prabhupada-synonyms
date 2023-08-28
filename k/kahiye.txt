@@ -1,5 +1,11 @@
-~~Title:kahiye~~
-{{description>I am speaking; I call; I can say; I describe; I say; I shall speak; I speak; let me explain; let me say; let me speak; means; say; we say.}}
+---json
+{
+    "name":"kahiye",
+    "h1":"kahiye",
+    "title":"kahiye --- synonyms, prabhupada.io",
+    "description":"I am speaking; I call; I can say; I describe; I say; I shall speak; I speak; let me explain; let me say; let me speak; means; say; we say."
+}
+---
 
 ==== kahiye  ====
   * I am speaking --- [[books:cc:madhya:8:123|Madhya 8.123]], [[books:cc:madhya:8:198|Madhya 8.198]]

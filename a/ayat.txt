@@ -1,5 +1,11 @@
-~~Title:ayat~~
-{{description>achieved; exited.}}
+---json
+{
+    "name":"ayat",
+    "h1":"ayat",
+    "title":"ayat --- synonyms, prabhupada.io",
+    "description":"achieved; exited."
+}
+---
 
 ==== ayāt  ====
   * achieved --- [[books:sb:9:9:16-17|SB 9.9.16-17]]

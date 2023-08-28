@@ -1,5 +1,11 @@
-~~Title:sammatah~~
-{{description>agreed upon as the best; approved; conclusive; esteemed; recognized.}}
+---json
+{
+    "name":"sammatah",
+    "h1":"sammatah",
+    "title":"sammatah --- synonyms, prabhupada.io",
+    "description":"agreed upon as the best; approved; conclusive; esteemed; recognized."
+}
+---
 
 ==== sammataḥ  ====
   * agreed upon as the best --- [[books:sb:7:11:3|SB 7.11.3]]

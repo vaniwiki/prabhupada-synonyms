@@ -1,5 +1,11 @@
-~~Title:adhovāsa~~
-{{description>a lower dress.}}
+---json
+{
+    "name":"adhovāsa",
+    "h1":"adhovāsa",
+    "title":"adhovāsa --- synonyms, prabhupada.io",
+    "description":"a lower dress."
+}
+---
 
 ==== adhovāsa  ====
   * a lower dress --- [[books:cc:antya:18:91|Antya 18.91]]

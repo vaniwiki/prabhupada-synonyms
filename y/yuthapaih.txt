@@ -1,5 +1,11 @@
-~~Title:yūthapaiḥ~~
-{{description>by the commanders or captains of the soldiers of the asuras.}}
+---json
+{
+    "name":"yūthapaiḥ",
+    "h1":"yūthapaiḥ",
+    "title":"yūthapaiḥ --- synonyms, prabhupada.io",
+    "description":"by the commanders or captains of the soldiers of the asuras."
+}
+---
 
 ==== asura-anīka-yūthapaiḥ  ====
   * by the commanders or captains of the soldiers of the //asuras// --- [[books:sb:6:10:15|SB 6.10.15]]

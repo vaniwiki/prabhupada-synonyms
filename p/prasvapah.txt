@@ -1,5 +1,11 @@
-~~Title:prasvāpaḥ~~
-{{description>the dream.}}
+---json
+{
+    "name":"prasvāpaḥ",
+    "h1":"prasvāpaḥ",
+    "title":"prasvāpaḥ --- synonyms, prabhupada.io",
+    "description":"the dream."
+}
+---
 
 ==== prasvāpaḥ  ====
   * the dream --- [[books:sb:3:27:25|SB 3.27.25]]

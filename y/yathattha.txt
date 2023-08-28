@@ -1,5 +1,11 @@
-~~Title:yathāttha~~
-{{description>as it is.}}
+---json
+{
+    "name":"yathāttha",
+    "h1":"yathāttha",
+    "title":"yathāttha --- synonyms, prabhupada.io",
+    "description":"as it is."
+}
+---
 
 ==== yathāttha  ====
   * as it is --- [[books:bg:11:3|Bg. 11.3]]

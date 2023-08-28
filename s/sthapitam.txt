@@ -1,5 +1,11 @@
-~~Title:sthāpitam~~
-{{description>again assembled with the pots situated properly.}}
+---json
+{
+    "name":"sthāpitam",
+    "h1":"sthāpitam",
+    "title":"sthāpitam --- synonyms, prabhupada.io",
+    "description":"again assembled with the pots situated properly."
+}
+---
 
 ==== sthāpitam  ====
   * again assembled with the pots situated properly --- [[books:sb:10:7:12|SB 10.7.12]]

@@ -1,5 +1,11 @@
-~~Title:nirhrāda~~
-{{description>by a roaring sound (caused by You).}}
+---json
+{
+    "name":"nirhrāda",
+    "h1":"nirhrāda",
+    "title":"nirhrāda --- synonyms, prabhupada.io",
+    "description":"by a roaring sound (caused by You)."
+}
+---
 
 ==== nirhrāda  ====
   * by a roaring sound (caused by You) --- [[books:sb:7:9:15|SB 7.9.15]]

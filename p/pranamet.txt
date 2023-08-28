@@ -1,5 +1,11 @@
-~~Title:praṇamet~~
-{{description>he offers respects; should offer obeisances.}}
+---json
+{
+    "name":"praṇamet",
+    "h1":"praṇamet",
+    "title":"praṇamet --- synonyms, prabhupada.io",
+    "description":"he offers respects; should offer obeisances."
+}
+---
 
 ==== praṇamet  ====
   * he offers respects --- [[books:sb:3:29:34|SB 3.29.34]]

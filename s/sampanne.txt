@@ -1,5 +1,11 @@
-~~Title:sampanne~~
-{{description>endowed with; fully equipped.}}
+---json
+{
+    "name":"sampanne",
+    "h1":"sampanne",
+    "title":"sampanne --- synonyms, prabhupada.io",
+    "description":"endowed with; fully equipped."
+}
+---
 
 ==== sampanne  ====
   * endowed with --- [[books:cc:antya:4:177|Antya 4.177]]

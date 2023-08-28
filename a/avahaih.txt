@@ -1,5 +1,11 @@
-~~Title:āvahaiḥ~~
-{{description>increasing the happiness.}}
+---json
+{
+    "name":"āvahaiḥ",
+    "h1":"āvahaiḥ",
+    "title":"āvahaiḥ --- synonyms, prabhupada.io",
+    "description":"increasing the happiness."
+}
+---
 
 ==== sukha-āvahaiḥ  ====
   * increasing the happiness --- [[books:sb:1:16:25|SB 1.16.25]]

@@ -1,5 +1,11 @@
-~~Title:vāde~~
-{{description>spiritual consideration.}}
+---json
+{
+    "name":"vāde",
+    "h1":"vāde",
+    "title":"vāde --- synonyms, prabhupada.io",
+    "description":"spiritual consideration."
+}
+---
 
 ==== ātma-vāde  ====
   * spiritual consideration --- [[books:sb:4:22:47|SB 4.22.47]]

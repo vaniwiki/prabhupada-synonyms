@@ -1,5 +1,11 @@
-~~Title:uṣṇatvam~~
-{{description>heat.}}
+---json
+{
+    "name":"uṣṇatvam",
+    "h1":"uṣṇatvam",
+    "title":"uṣṇatvam --- synonyms, prabhupada.io",
+    "description":"heat."
+}
+---
 
 ==== uṣṇatvam  ====
   * heat --- [[books:sb:3:26:36|SB 3.26.36]]

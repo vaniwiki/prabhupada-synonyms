@@ -1,5 +1,11 @@
-~~Title:ājīgartam~~
-{{description>the son of Ajīgarta.}}
+---json
+{
+    "name":"ājīgartam",
+    "h1":"ājīgartam",
+    "title":"ājīgartam --- synonyms, prabhupada.io",
+    "description":"the son of Ajīgarta."
+}
+---
 
 ==== ājīgartam  ====
   * the son of Ajīgarta --- [[books:sb:9:16:30|SB 9.16.30]]

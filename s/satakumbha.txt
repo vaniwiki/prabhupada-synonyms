@@ -1,5 +1,11 @@
-~~Title:śātakumbha~~
-{{description>golden.}}
+---json
+{
+    "name":"śātakumbha",
+    "h1":"śātakumbha",
+    "title":"śātakumbha --- synonyms, prabhupada.io",
+    "description":"golden."
+}
+---
 
 ==== śātakumbha  ====
   * golden --- [[books:sb:4:9:56|SB 4.9.56]]

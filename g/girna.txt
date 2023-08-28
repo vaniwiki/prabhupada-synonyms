@@ -1,5 +1,11 @@
-~~Title:gīrṇa~~
-{{description>whose loud sound was silenced through fear.}}
+---json
+{
+    "name":"gīrṇa",
+    "h1":"gīrṇa",
+    "title":"gīrṇa --- synonyms, prabhupada.io",
+    "description":"whose loud sound was silenced through fear."
+}
+---
 
 ==== bhaya-gīrṇa-ghoṣaḥ  ====
   * whose loud sound was silenced through fear --- [[books:sb:9:10:13|SB 9.10.13]]

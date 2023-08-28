@@ -1,5 +1,11 @@
-~~Title:abhilasa~~
-{{description>attachment.}}
+---json
+{
+    "name":"abhilasa",
+    "h1":"abhilasa",
+    "title":"abhilasa --- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== abhilāsa  ====
   * attachment --- [[books:cc:adi:14:63|Ādi 14.63]]

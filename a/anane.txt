@@ -1,5 +1,11 @@
-~~Title:ānane~~
-{{description>O lovely-faced woman.}}
+---json
+{
+    "name":"ānane",
+    "h1":"ānane",
+    "title":"ānane --- synonyms, prabhupada.io",
+    "description":"O lovely-faced woman."
+}
+---
 
 ==== vara-ānane  ====
   * O lovely-faced woman --- [[books:cc:madhya:9:32|Madhya 9.32]]

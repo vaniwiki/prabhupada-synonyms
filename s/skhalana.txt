@@ -1,5 +1,11 @@
-~~Title:skhalana~~
-{{description>stumbling.}}
+---json
+{
+    "name":"skhalana",
+    "h1":"skhalana",
+    "title":"skhalana --- synonyms, prabhupada.io",
+    "description":"stumbling."
+}
+---
 
 ==== skhalana  ====
   * stumbling --- [[books:sb:5:3:12|SB 5.3.12]]

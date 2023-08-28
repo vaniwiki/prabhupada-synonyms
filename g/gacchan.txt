@@ -1,5 +1,11 @@
-~~Title:gacchan~~
-{{description>by going; going.}}
+---json
+{
+    "name":"gacchan",
+    "h1":"gacchan",
+    "title":"gacchan --- synonyms, prabhupada.io",
+    "description":"by going; going."
+}
+---
 
 ==== gacchan  ====
   * by going --- [[books:bg:5:8-9|Bg. 5.8-9]]

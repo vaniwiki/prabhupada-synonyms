@@ -1,5 +1,11 @@
-~~Title:srita~~
-{{description>attached; situated on; taken shelter of.}}
+---json
+{
+    "name":"srita",
+    "h1":"srita",
+    "title":"srita --- synonyms, prabhupada.io",
+    "description":"attached; situated on; taken shelter of."
+}
+---
 
 ==== śritā  ====
   * attached --- [[books:sb:5:2:11|SB 5.2.11]]

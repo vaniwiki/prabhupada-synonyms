@@ -1,5 +1,11 @@
-~~Title:nirdaśaḥ~~
-{{description>has passed ten days.}}
+---json
+{
+    "name":"nirdaśaḥ",
+    "h1":"nirdaśaḥ",
+    "title":"nirdaśaḥ --- synonyms, prabhupada.io",
+    "description":"has passed ten days."
+}
+---
 
 ==== nirdaśaḥ  ====
   * has passed ten days --- [[books:sb:9:7:10|SB 9.7.10]]

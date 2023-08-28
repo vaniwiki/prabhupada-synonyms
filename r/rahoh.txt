@@ -1,5 +1,11 @@
-~~Title:rāhoḥ~~
-{{description>of the planet Rāhu.}}
+---json
+{
+    "name":"rāhoḥ",
+    "h1":"rāhoḥ",
+    "title":"rāhoḥ --- synonyms, prabhupada.io",
+    "description":"of the planet Rāhu."
+}
+---
 
 ==== rāhoḥ  ====
   * of the planet Rāhu --- [[books:sb:5:24:2|SB 5.24.2]]

@@ -1,5 +1,11 @@
-~~Title:kuñjere~~
-{{description>within the bower.}}
+---json
+{
+    "name":"kuñjere",
+    "h1":"kuñjere",
+    "title":"kuñjere --- synonyms, prabhupada.io",
+    "description":"within the bower."
+}
+---
 
 ==== kuñjere  ====
   * within the bower --- [[books:cc:antya:17:24|Antya 17.24]]

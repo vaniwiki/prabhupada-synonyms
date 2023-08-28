@@ -1,5 +1,11 @@
-~~Title:panktih~~
-{{description>a particular type of verse.}}
+---json
+{
+    "name":"panktih",
+    "h1":"panktih",
+    "title":"panktih --- synonyms, prabhupada.io",
+    "description":"a particular type of verse."
+}
+---
 
 ==== paṅktiḥ  ====
   * a particular type of verse --- [[books:sb:3:12:46|SB 3.12.46]]

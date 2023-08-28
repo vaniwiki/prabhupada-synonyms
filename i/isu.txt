@@ -1,5 +1,11 @@
-~~Title:iṣu~~
-{{description>arrow; arrows.}}
+---json
+{
+    "name":"iṣu",
+    "h1":"iṣu",
+    "title":"iṣu --- synonyms, prabhupada.io",
+    "description":"arrow; arrows."
+}
+---
 
 ==== iṣu  ====
   * arrow --- [[books:sb:6:4:35-39|SB 6.4.35-39]]

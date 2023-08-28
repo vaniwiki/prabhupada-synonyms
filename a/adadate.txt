@@ -1,5 +1,11 @@
-~~Title:ādadate~~
-{{description>took.}}
+---json
+{
+    "name":"ādadate",
+    "h1":"ādadate",
+    "title":"ādadate --- synonyms, prabhupada.io",
+    "description":"took."
+}
+---
 
 ==== ādadate  ====
   * took --- [[books:sb:4:18:13|SB 4.18.13]]

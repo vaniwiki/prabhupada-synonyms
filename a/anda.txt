@@ -1,5 +1,11 @@
-~~Title:anda~~
-{{description>universe; universes.}}
+---json
+{
+    "name":"anda",
+    "h1":"anda",
+    "title":"anda --- synonyms, prabhupada.io",
+    "description":"universe; universes."
+}
+---
 
 ==== aṇḍa  ====
   * universe --- [[books:cc:madhya:15:177|Madhya 15.177]]

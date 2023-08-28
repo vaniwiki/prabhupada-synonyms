@@ -1,5 +1,11 @@
-~~Title:vaitālikāḥ~~
-{{description>the inhabitants of Vaitālika-loka said.}}
+---json
+{
+    "name":"vaitālikāḥ",
+    "h1":"vaitālikāḥ",
+    "title":"vaitālikāḥ --- synonyms, prabhupada.io",
+    "description":"the inhabitants of Vaitālika-loka said."
+}
+---
 
 ==== śrī-vaitālikāḥ ūcuḥ  ====
   * the inhabitants of Vaitālika-loka said --- [[books:sb:7:8:54|SB 7.8.54]]

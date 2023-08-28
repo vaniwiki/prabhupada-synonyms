@@ -1,5 +1,11 @@
-~~Title:kāleṣu~~
-{{description>time.}}
+---json
+{
+    "name":"kāleṣu",
+    "h1":"kāleṣu",
+    "title":"kāleṣu --- synonyms, prabhupada.io",
+    "description":"time."
+}
+---
 
 ==== kāleṣu  ====
   * time --- [[books:bg:8:7|Bg. 8.7]]

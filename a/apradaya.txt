@@ -1,5 +1,11 @@
-~~Title:apradāya~~
-{{description>without offering.}}
+---json
+{
+    "name":"apradāya",
+    "h1":"apradāya",
+    "title":"apradāya --- synonyms, prabhupada.io",
+    "description":"without offering."
+}
+---
 
 ==== apradāya  ====
   * without offering --- [[books:bg:3:12|Bg. 3.12]]

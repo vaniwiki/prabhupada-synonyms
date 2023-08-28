@@ -1,5 +1,11 @@
-~~Title:khata~~
-{{description>bedstead.}}
+---json
+{
+    "name":"khata",
+    "h1":"khata",
+    "title":"khata --- synonyms, prabhupada.io",
+    "description":"bedstead."
+}
+---
 
 ==== khāṭa  ====
   * bedstead --- [[books:cc:madhya:4:81|Madhya 4.81]], [[books:cc:antya:13:14|Antya 13.14]], [[books:cc:antya:13:15|Antya 13.15]]

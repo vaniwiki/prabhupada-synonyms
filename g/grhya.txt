@@ -1,5 +1,11 @@
-~~Title:gṛhya~~
-{{description>thinking to be.}}
+---json
+{
+    "name":"gṛhya",
+    "h1":"gṛhya",
+    "title":"gṛhya --- synonyms, prabhupada.io",
+    "description":"thinking to be."
+}
+---
 
 ==== gṛhya  ====
   * thinking to be --- [[books:sb:4:11:10|SB 4.11.10]]

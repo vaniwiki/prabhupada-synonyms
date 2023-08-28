@@ -1,5 +1,11 @@
-~~Title:bhikṣave~~
-{{description>unto a beggar.}}
+---json
+{
+    "name":"bhikṣave",
+    "h1":"bhikṣave",
+    "title":"bhikṣave --- synonyms, prabhupada.io",
+    "description":"unto a beggar."
+}
+---
 
 ==== bhikṣave  ====
   * unto a beggar --- [[books:sb:8:19:41|SB 8.19.41]]

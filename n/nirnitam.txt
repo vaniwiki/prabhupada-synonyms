@@ -1,5 +1,11 @@
-~~Title:nirṇītam~~
-{{description>decided truth.}}
+---json
+{
+    "name":"nirṇītam",
+    "h1":"nirṇītam",
+    "title":"nirṇītam --- synonyms, prabhupada.io",
+    "description":"decided truth."
+}
+---
 
 ==== nirṇītam  ====
   * decided truth --- [[books:sb:2:1:11|SB 2.1.11]]

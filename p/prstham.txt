@@ -1,5 +1,11 @@
-~~Title:pṛṣṭham~~
-{{description>back.}}
+---json
+{
+    "name":"pṛṣṭham",
+    "h1":"pṛṣṭham",
+    "title":"pṛṣṭham --- synonyms, prabhupada.io",
+    "description":"back."
+}
+---
 
 ==== pṛṣṭham  ====
   * back --- [[books:sb:2:1:32|SB 2.1.32]]

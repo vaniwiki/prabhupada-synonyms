@@ -1,5 +1,11 @@
-~~Title:sūtye~~
-{{description>when soma-rasa is taken.}}
+---json
+{
+    "name":"sūtye",
+    "h1":"sūtye",
+    "title":"sūtye --- synonyms, prabhupada.io",
+    "description":"when soma-rasa is taken."
+}
+---
 
 ==== sūtye  ====
   * when //soma-rasa// is taken --- [[books:sb:8:21:26|SB 8.21.26]]

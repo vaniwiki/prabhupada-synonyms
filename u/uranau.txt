@@ -1,5 +1,11 @@
-~~Title:uraṇau~~
-{{description>the two lambs; two lambs.}}
+---json
+{
+    "name":"uraṇau",
+    "h1":"uraṇau",
+    "title":"uraṇau --- synonyms, prabhupada.io",
+    "description":"the two lambs; two lambs."
+}
+---
 
 ==== uraṇau  ====
   * the two lambs --- [[books:sb:9:14:31|SB 9.14.31]]

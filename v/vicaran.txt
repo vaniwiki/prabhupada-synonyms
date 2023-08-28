@@ -1,5 +1,11 @@
-~~Title:vicaran~~
-{{description>following; loitering; touring; traveling; wandering.}}
+---json
+{
+    "name":"vicaran",
+    "h1":"vicaran",
+    "title":"vicaran --- synonyms, prabhupada.io",
+    "description":"following; loitering; touring; traveling; wandering."
+}
+---
 
 ==== vicaran  ====
   * following --- [[books:sb:1:18:24-25|SB 1.18.24-25]]

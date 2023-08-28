@@ -1,5 +1,11 @@
-~~Title:śravaṇīya~~
-{{description>hearing about Him is worthwhile.}}
+---json
+{
+    "name":"śravaṇīya",
+    "h1":"śravaṇīya",
+    "title":"śravaṇīya --- synonyms, prabhupada.io",
+    "description":"hearing about Him is worthwhile."
+}
+---
 
 ==== śravaṇīya-sat-kathaḥ  ====
   * hearing about Him is worthwhile --- [[books:sb:1:15:36|SB 1.15.36]]

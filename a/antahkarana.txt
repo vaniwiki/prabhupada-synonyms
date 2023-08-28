@@ -1,5 +1,11 @@
-~~Title:antaḥkaraṇa~~
-{{description>minds.}}
+---json
+{
+    "name":"antaḥkaraṇa",
+    "h1":"antaḥkaraṇa",
+    "title":"antaḥkaraṇa --- synonyms, prabhupada.io",
+    "description":"minds."
+}
+---
 
 ==== antaḥkaraṇa  ====
   * minds --- [[books:sb:6:9:36|SB 6.9.36]]

@@ -1,5 +1,11 @@
-~~Title:proktaiḥ~~
-{{description>instructed.}}
+---json
+{
+    "name":"proktaiḥ",
+    "h1":"proktaiḥ",
+    "title":"proktaiḥ --- synonyms, prabhupada.io",
+    "description":"instructed."
+}
+---
 
 ==== proktaiḥ  ====
   * instructed --- [[books:sb:4:31:10|SB 4.31.10]]

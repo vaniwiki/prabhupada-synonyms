@@ -1,5 +1,11 @@
-~~Title:aśuci~~
-{{description>unclean; untouchable.}}
+---json
+{
+    "name":"aśuci",
+    "h1":"aśuci",
+    "title":"aśuci --- synonyms, prabhupada.io",
+    "description":"unclean; untouchable."
+}
+---
 
 ==== aśuci  ====
   * unclean --- [[books:bg:16:10|Bg. 16.10]]

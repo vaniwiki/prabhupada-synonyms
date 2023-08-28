@@ -1,5 +1,11 @@
-~~Title:vyāpti~~
-{{description>which is all-pervasive.}}
+---json
+{
+    "name":"vyāpti",
+    "h1":"vyāpti",
+    "title":"vyāpti --- synonyms, prabhupada.io",
+    "description":"which is all-pervasive."
+}
+---
 
 ==== vyāpti yāra  ====
   * which is all-pervasive --- [[books:cc:madhya:25:120|Madhya 25.120]]

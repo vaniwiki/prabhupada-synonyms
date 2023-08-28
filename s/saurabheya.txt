@@ -1,5 +1,11 @@
-~~Title:saurabheya~~
-{{description>O son of Surabhi.}}
+---json
+{
+    "name":"saurabheya",
+    "h1":"saurabheya",
+    "title":"saurabheya --- synonyms, prabhupada.io",
+    "description":"O son of Surabhi."
+}
+---
 
 ==== saurabheya  ====
   * O son of Surabhi --- [[books:sb:1:17:9|SB 1.17.9]], [[books:sb:1:17:12|SB 1.17.12]]

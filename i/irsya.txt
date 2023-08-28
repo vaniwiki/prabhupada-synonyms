@@ -1,5 +1,11 @@
-~~Title:irsya~~
-{{description>enmity.}}
+---json
+{
+    "name":"irsya",
+    "h1":"irsya",
+    "title":"irsya --- synonyms, prabhupada.io",
+    "description":"enmity."
+}
+---
 
 ==== īrṣya  ====
   * enmity --- [[books:sb:5:14:27|SB 5.14.27]]

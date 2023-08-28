@@ -1,5 +1,11 @@
-~~Title:dekhena~~
-{{description>He saw; He sees; He visited; sees; they see.}}
+---json
+{
+    "name":"dekhena",
+    "h1":"dekhena",
+    "title":"dekhena --- synonyms, prabhupada.io",
+    "description":"He saw; He sees; He visited; sees; they see."
+}
+---
 
 ==== dekhena  ====
   * He saw --- [[books:cc:antya:16:85|Antya 16.85]]

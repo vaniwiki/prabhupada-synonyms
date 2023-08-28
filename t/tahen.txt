@@ -1,5 +1,11 @@
-~~Title:tāheṅ~~
-{{description>that feature.}}
+---json
+{
+    "name":"tāheṅ",
+    "h1":"tāheṅ",
+    "title":"tāheṅ --- synonyms, prabhupada.io",
+    "description":"that feature."
+}
+---
 
 ==== tāheṅ  ====
   * that feature --- [[books:cc:madhya:21:105|Madhya 21.105]]

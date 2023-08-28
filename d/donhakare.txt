@@ -1,5 +1,11 @@
-~~Title:doṅhākāre~~
-{{description>to both of them.}}
+---json
+{
+    "name":"doṅhākāre",
+    "h1":"doṅhākāre",
+    "title":"doṅhākāre --- synonyms, prabhupada.io",
+    "description":"to both of them."
+}
+---
 
 ==== doṅhākāre  ====
   * to both of them --- [[books:cc:antya:4:53|Antya 4.53]]

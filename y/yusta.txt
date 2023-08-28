@@ -1,5 +1,11 @@
-~~Title:yuṣṭa~~
-{{description>airplanes used by the great purified souls.}}
+---json
+{
+    "name":"yuṣṭa",
+    "h1":"yuṣṭa",
+    "title":"yuṣṭa --- synonyms, prabhupada.io",
+    "description":"airplanes used by the great purified souls."
+}
+---
 
 ==== siddheśvara-yuṣṭa-dhiṣṇyam  ====
   * airplanes used by the great purified souls --- [[books:sb:2:2:26|SB 2.2.26]]

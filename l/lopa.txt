@@ -1,5 +1,11 @@
-~~Title:lopa~~
-{{description>and of annihilation; lost.}}
+---json
+{
+    "name":"lopa",
+    "h1":"lopa",
+    "title":"lopa --- synonyms, prabhupada.io",
+    "description":"and of annihilation; lost."
+}
+---
 
 ==== lopa  ====
   * and of annihilation --- [[books:sb:7:9:42|SB 7.9.42]]

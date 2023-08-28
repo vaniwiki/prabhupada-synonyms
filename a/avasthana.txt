@@ -1,5 +1,11 @@
-~~Title:avasthāna~~
-{{description>existence; remaining in this material world; residence; residing; staying; the presence; the stay.}}
+---json
+{
+    "name":"avasthāna",
+    "h1":"avasthāna",
+    "title":"avasthāna --- synonyms, prabhupada.io",
+    "description":"existence; remaining in this material world; residence; residing; staying; the presence; the stay."
+}
+---
 
 ==== avasthāna  ====
   * existence --- [[books:cc:adi:3:14|Ādi 3.14]], [[books:cc:madhya:22:7|Madhya 22.7]]

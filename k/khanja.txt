@@ -1,5 +1,11 @@
-~~Title:khañja~~
-{{description>lame.}}
+---json
+{
+    "name":"khañja",
+    "h1":"khañja",
+    "title":"khañja --- synonyms, prabhupada.io",
+    "description":"lame."
+}
+---
 
 ==== khañja  ====
   * lame --- [[books:cc:antya:14:90|Antya 14.90]]

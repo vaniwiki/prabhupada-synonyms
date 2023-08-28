@@ -1,5 +1,11 @@
-~~Title:sāyakān~~
-{{description>weapons.}}
+---json
+{
+    "name":"sāyakān",
+    "h1":"sāyakān",
+    "title":"sāyakān --- synonyms, prabhupada.io",
+    "description":"weapons."
+}
+---
 
 ==== sāyakān  ====
   * weapons --- [[books:sb:1:8:12|SB 1.8.12]]

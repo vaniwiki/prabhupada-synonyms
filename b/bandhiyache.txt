@@ -1,5 +1,11 @@
-~~Title:bāndhiyāche~~
-{{description>has bound.}}
+---json
+{
+    "name":"bāndhiyāche",
+    "h1":"bāndhiyāche",
+    "title":"bāndhiyāche --- synonyms, prabhupada.io",
+    "description":"has bound."
+}
+---
 
 ==== bāndhiyāche  ====
   * has bound --- [[books:cc:madhya:25:127|Madhya 25.127]]

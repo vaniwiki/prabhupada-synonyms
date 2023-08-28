@@ -1,5 +1,11 @@
-~~Title:sahāyāḥ~~
-{{description>assistants; helpers.}}
+---json
+{
+    "name":"sahāyāḥ",
+    "h1":"sahāyāḥ",
+    "title":"sahāyāḥ --- synonyms, prabhupada.io",
+    "description":"assistants; helpers."
+}
+---
 
 ==== sahāyāḥ  ====
   * assistants --- [[books:sb:9:11:20|SB 9.11.20]]

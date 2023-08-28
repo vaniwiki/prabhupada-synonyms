@@ -1,5 +1,11 @@
-~~Title:samādāya~~
-{{description>accepting; carrying very carefully.}}
+---json
+{
+    "name":"samādāya",
+    "h1":"samādāya",
+    "title":"samādāya --- synonyms, prabhupada.io",
+    "description":"accepting; carrying very carefully."
+}
+---
 
 ==== samādāya  ====
   * accepting --- [[books:sb:3:23:24|SB 3.23.24]]

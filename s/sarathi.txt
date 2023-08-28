@@ -1,5 +1,11 @@
-~~Title:sārathi~~
-{{description>chariot driver.}}
+---json
+{
+    "name":"sārathi",
+    "h1":"sārathi",
+    "title":"sārathi --- synonyms, prabhupada.io",
+    "description":"chariot driver."
+}
+---
 
 ==== sārathi  ====
   * chariot driver --- [[books:cc:madhya:11:37|Madhya 11.37]]

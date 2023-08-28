@@ -1,5 +1,11 @@
-~~Title:stanye~~
-{{description>for drinking breast milk.}}
+---json
+{
+    "name":"stanye",
+    "h1":"stanye",
+    "title":"stanye --- synonyms, prabhupada.io",
+    "description":"for drinking breast milk."
+}
+---
 
 ==== stanye  ====
   * for drinking breast milk --- [[books:sb:9:6:31|SB 9.6.31]]

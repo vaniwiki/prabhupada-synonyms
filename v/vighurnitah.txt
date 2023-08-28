@@ -1,5 +1,11 @@
-~~Title:vighūrṇitaḥ~~
-{{description>shaken.}}
+---json
+{
+    "name":"vighūrṇitaḥ",
+    "h1":"vighūrṇitaḥ",
+    "title":"vighūrṇitaḥ --- synonyms, prabhupada.io",
+    "description":"shaken."
+}
+---
 
 ==== vighūrṇitaḥ  ====
   * shaken --- [[books:sb:6:11:11|SB 6.11.11]]

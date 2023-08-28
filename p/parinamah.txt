@@ -1,5 +1,11 @@
-~~Title:pariṇāmaḥ~~
-{{description>transformation.}}
+---json
+{
+    "name":"pariṇāmaḥ",
+    "h1":"pariṇāmaḥ",
+    "title":"pariṇāmaḥ --- synonyms, prabhupada.io",
+    "description":"transformation."
+}
+---
 
 ==== pariṇāmaḥ  ====
   * transformation --- [[books:sb:2:5:22|SB 2.5.22]]

@@ -1,5 +1,11 @@
-~~Title:karṇāntra~~
-{{description>by the karṇāntra.}}
+---json
+{
+    "name":"karṇāntra",
+    "h1":"karṇāntra",
+    "title":"karṇāntra --- synonyms, prabhupada.io",
+    "description":"by the karṇāntra."
+}
+---
 
 ==== karṇāntra  ====
   * by the //karṇāntra// --- [[books:sb:4:6:21|SB 4.6.21]]

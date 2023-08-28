@@ -1,5 +1,11 @@
-~~Title:patala~~
-{{description>thin.}}
+---json
+{
+    "name":"patala",
+    "h1":"patala",
+    "title":"patala --- synonyms, prabhupada.io",
+    "description":"thin."
+}
+---
 
 ==== pātala  ====
   * thin --- [[books:cc:antya:10:36|Antya 10.36]]

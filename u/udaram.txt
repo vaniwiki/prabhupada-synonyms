@@ -1,5 +1,11 @@
-~~Title:udaram~~
-{{description>abdomen; His abdomen; His belly; stomach; the abdomen; the abdomen*; the belly (for various types of food); the body; the stomach; the womb; waist.}}
+---json
+{
+    "name":"udaram",
+    "h1":"udaram",
+    "title":"udaram --- synonyms, prabhupada.io",
+    "description":"abdomen; His abdomen; His belly; stomach; the abdomen; the abdomen*; the belly (for various types of food); the body; the stomach; the womb; waist."
+}
+---
 
 ==== udaram  ====
   * abdomen --- [[books:sb:1:19:27|SB 1.19.27]], [[books:sb:4:24:50|SB 4.24.50]], [[books:sb:9:9:39|SB 9.9.39]]

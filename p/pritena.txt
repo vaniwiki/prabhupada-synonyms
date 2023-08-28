@@ -1,5 +1,11 @@
-~~Title:prītena~~
-{{description>because of favor; being very pleased.}}
+---json
+{
+    "name":"prītena",
+    "h1":"prītena",
+    "title":"prītena --- synonyms, prabhupada.io",
+    "description":"because of favor; being very pleased."
+}
+---
 
 ==== prītena  ====
   * because of favor --- [[books:sb:8:13:14|SB 8.13.14]]

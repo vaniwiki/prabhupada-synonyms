@@ -1,5 +1,11 @@
-~~Title:aviditāḥ~~
-{{description>not famous.}}
+---json
+{
+    "name":"aviditāḥ",
+    "h1":"aviditāḥ",
+    "title":"aviditāḥ --- synonyms, prabhupada.io",
+    "description":"not famous."
+}
+---
 
 ==== aviditāḥ  ====
   * not famous --- [[books:sb:4:15:26|SB 4.15.26]]

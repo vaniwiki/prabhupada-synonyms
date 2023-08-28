@@ -1,5 +1,11 @@
-~~Title:vyāla~~
-{{description>snakes; venomous serpents.}}
+---json
+{
+    "name":"vyāla",
+    "h1":"vyāla",
+    "title":"vyāla --- synonyms, prabhupada.io",
+    "description":"snakes; venomous serpents."
+}
+---
 
 ==== vyāla  ====
   * snakes --- [[books:sb:1:6:13|SB 1.6.13]], [[books:sb:4:7:28|SB 4.7.28]]

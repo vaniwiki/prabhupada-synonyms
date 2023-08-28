@@ -1,5 +1,11 @@
-~~Title:badaya~~
-{{description>arranges; increases.}}
+---json
+{
+    "name":"badaya",
+    "h1":"badaya",
+    "title":"badaya --- synonyms, prabhupada.io",
+    "description":"arranges; increases."
+}
+---
 
 ==== bāḍaya  ====
   * arranges --- [[books:cc:antya:6:112|Antya 6.112]]

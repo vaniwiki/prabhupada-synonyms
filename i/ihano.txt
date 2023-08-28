@@ -1,5 +1,11 @@
-~~Title:ihāṅo~~
-{{description>here also.}}
+---json
+{
+    "name":"ihāṅo",
+    "h1":"ihāṅo",
+    "title":"ihāṅo --- synonyms, prabhupada.io",
+    "description":"here also."
+}
+---
 
 ==== ihāṅo  ====
   * here also --- [[books:cc:madhya:24:162|Madhya 24.162]]

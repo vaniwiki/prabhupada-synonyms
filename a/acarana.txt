@@ -1,5 +1,11 @@
-~~Title:ācaraṇa~~
-{{description>activities; behavior; conduct; custom; practice.}}
+---json
+{
+    "name":"ācaraṇa",
+    "h1":"ācaraṇa",
+    "title":"ācaraṇa --- synonyms, prabhupada.io",
+    "description":"activities; behavior; conduct; custom; practice."
+}
+---
 
 ==== ācaraṇa  ====
   * activities --- [[books:cc:madhya:2:85|Madhya 2.85]], [[books:cc:antya:3:242|Antya 3.242]]

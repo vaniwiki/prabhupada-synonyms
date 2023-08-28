@@ -1,5 +1,11 @@
-~~Title:hayān~~
-{{description>horses; the horses.}}
+---json
+{
+    "name":"hayān",
+    "h1":"hayān",
+    "title":"hayān --- synonyms, prabhupada.io",
+    "description":"horses; the horses."
+}
+---
 
 ==== hayān  ====
   * horses --- [[books:sb:6:14:34|SB 6.14.34]]

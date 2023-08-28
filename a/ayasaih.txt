@@ -1,5 +1,11 @@
-~~Title:ayasaiḥ~~
-{{description>made of iron.}}
+---json
+{
+    "name":"ayasaiḥ",
+    "h1":"ayasaiḥ",
+    "title":"ayasaiḥ --- synonyms, prabhupada.io",
+    "description":"made of iron."
+}
+---
 
 ==== ayasaiḥ  ====
   * made of iron --- [[books:sb:4:25:14|SB 4.25.14]]

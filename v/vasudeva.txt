@@ -1,5 +1,11 @@
-~~Title:vasudeva~~
-{{description>the father of Kṛṣṇa; Vasudeva.}}
+---json
+{
+    "name":"vasudeva",
+    "h1":"vasudeva",
+    "title":"vasudeva --- synonyms, prabhupada.io",
+    "description":"the father of Kṛṣṇa; Vasudeva."
+}
+---
 
 ==== vasudeva  ====
   * the father of Kṛṣṇa --- [[books:cc:adi:13:59|Ādi 13.59]]

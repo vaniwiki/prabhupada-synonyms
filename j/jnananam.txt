@@ -1,5 +1,11 @@
-~~Title:jñānānām~~
-{{description>of all knowledge.}}
+---json
+{
+    "name":"jñānānām",
+    "h1":"jñānānām",
+    "title":"jñānānām --- synonyms, prabhupada.io",
+    "description":"of all knowledge."
+}
+---
 
 ==== jñānānām  ====
   * of all knowledge --- [[books:bg:14:1|Bg. 14.1]]

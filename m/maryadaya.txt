@@ -1,5 +1,11 @@
-~~Title:maryādayā~~
-{{description>the limit.}}
+---json
+{
+    "name":"maryādayā",
+    "h1":"maryādayā",
+    "title":"maryādayā --- synonyms, prabhupada.io",
+    "description":"the limit."
+}
+---
 
 ==== maryādayā  ====
   * the limit --- [[books:cc:madhya:10:119|Madhya 10.119]]

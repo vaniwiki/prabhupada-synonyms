@@ -1,5 +1,11 @@
-~~Title:candraḥ~~
-{{description>by the name Candra; the controlling deity of the mind, the moon; the moon; the moon-god.}}
+---json
+{
+    "name":"candraḥ",
+    "h1":"candraḥ",
+    "title":"candraḥ --- synonyms, prabhupada.io",
+    "description":"by the name Candra; the controlling deity of the mind, the moon; the moon; the moon-god."
+}
+---
 
 ==== candraḥ  ====
   * by the name Candra --- [[books:sb:9:6:20|SB 9.6.20]]

@@ -1,5 +1,11 @@
-~~Title:yaksah~~
-{{description>a Yakṣa (a member of a demoniac species).}}
+---json
+{
+    "name":"yaksah",
+    "h1":"yaksah",
+    "title":"yaksah --- synonyms, prabhupada.io",
+    "description":"a Yakṣa (a member of a demoniac species)."
+}
+---
 
 ==== yakṣaḥ  ====
   * a Yakṣa (a member of a demoniac species) --- [[books:sb:7:7:50|SB 7.7.50]]

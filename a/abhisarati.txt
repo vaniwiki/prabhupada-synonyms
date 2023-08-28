@@ -1,5 +1,11 @@
-~~Title:abhisarati~~
-{{description>will come immediately.}}
+---json
+{
+    "name":"abhisarati",
+    "h1":"abhisarati",
+    "title":"abhisarati --- synonyms, prabhupada.io",
+    "description":"will come immediately."
+}
+---
 
 ==== abhisarati  ====
   * will come immediately --- [[books:sb:10:3:22|SB 10.3.22]]

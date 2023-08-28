@@ -1,5 +1,11 @@
-~~Title:abhiṣṭutam~~
-{{description>worshiped by.}}
+---json
+{
+    "name":"abhiṣṭutam",
+    "h1":"abhiṣṭutam",
+    "title":"abhiṣṭutam --- synonyms, prabhupada.io",
+    "description":"worshiped by."
+}
+---
 
 ==== abhiṣṭutam  ====
   * worshiped by --- [[books:sb:2:9:9|SB 2.9.9]]

@@ -1,5 +1,11 @@
-~~Title:āhvayam~~
-{{description>named Nārāyaṇa.}}
+---json
+{
+    "name":"āhvayam",
+    "h1":"āhvayam",
+    "title":"āhvayam --- synonyms, prabhupada.io",
+    "description":"named Nārāyaṇa."
+}
+---
 
 ==== nārāyaṇa-āhvayam  ====
   * named Nārāyaṇa --- [[books:sb:6:1:28-29|SB 6.1.28-29]]

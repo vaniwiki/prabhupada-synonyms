@@ -1,5 +1,11 @@
-~~Title:garhayām~~
-{{description>criticism.}}
+---json
+{
+    "name":"garhayām",
+    "h1":"garhayām",
+    "title":"garhayām --- synonyms, prabhupada.io",
+    "description":"criticism."
+}
+---
 
 ==== garhayām  ====
   * criticism --- [[books:sb:5:1:37|SB 5.1.37]]

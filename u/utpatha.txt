@@ -1,5 +1,11 @@
-~~Title:utpatha~~
-{{description>who is proceeding on the wrong path.}}
+---json
+{
+    "name":"utpatha",
+    "h1":"utpatha",
+    "title":"utpatha --- synonyms, prabhupada.io",
+    "description":"who is proceeding on the wrong path."
+}
+---
 
 ==== utpatha-gam  ====
   * who is proceeding on the wrong path --- [[books:sb:5:5:17|SB 5.5.17]]

@@ -1,5 +1,11 @@
-~~Title:bāhyān~~
-{{description>unnecessary.}}
+---json
+{
+    "name":"bāhyān",
+    "h1":"bāhyān",
+    "title":"bāhyān --- synonyms, prabhupada.io",
+    "description":"unnecessary."
+}
+---
 
 ==== bāhyān  ====
   * unnecessary --- [[books:bg:5:27-28|Bg. 5.27-28]]

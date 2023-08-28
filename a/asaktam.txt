@@ -1,5 +1,11 @@
-~~Title:asaktam~~
-{{description>without attachment; without attraction.}}
+---json
+{
+    "name":"asaktam",
+    "h1":"asaktam",
+    "title":"asaktam --- synonyms, prabhupada.io",
+    "description":"without attachment; without attraction."
+}
+---
 
 ==== asaktam  ====
   * without attachment --- [[books:bg:13:15|Bg. 13.15]]

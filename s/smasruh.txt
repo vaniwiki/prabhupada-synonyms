@@ -1,5 +1,11 @@
-~~Title:śmaśruḥ~~
-{{description>the beard of the goat.}}
+---json
+{
+    "name":"śmaśruḥ",
+    "h1":"śmaśruḥ",
+    "title":"śmaśruḥ --- synonyms, prabhupada.io",
+    "description":"the beard of the goat."
+}
+---
 
 ==== basta-śmaśruḥ  ====
   * the beard of the goat --- [[books:sb:4:7:5|SB 4.7.5]]

@@ -1,5 +1,11 @@
-~~Title:aprāpta~~
-{{description>not obtained.}}
+---json
+{
+    "name":"aprāpta",
+    "h1":"aprāpta",
+    "title":"aprāpta --- synonyms, prabhupada.io",
+    "description":"not obtained."
+}
+---
 
 ==== aprāpta  ====
   * not obtained --- [[books:cc:madhya:24:181|Madhya 24.181]]

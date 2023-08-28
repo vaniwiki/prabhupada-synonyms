@@ -1,5 +1,11 @@
-~~Title:chuṅi'~~
-{{description>touching.}}
+---json
+{
+    "name":"chuṅi'",
+    "h1":"chuṅi'",
+    "title":"chuṅi' --- synonyms, prabhupada.io",
+    "description":"touching."
+}
+---
 
 ==== chuṅi'  ====
   * touching --- [[books:cc:adi:17:219|Ādi 17.219]]

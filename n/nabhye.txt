@@ -1,5 +1,11 @@
-~~Title:nābhye~~
-{{description>out of the navel.}}
+---json
+{
+    "name":"nābhye",
+    "h1":"nābhye",
+    "title":"nābhye --- synonyms, prabhupada.io",
+    "description":"out of the navel."
+}
+---
 
 ==== nābhye  ====
   * out of the navel --- [[books:sb:3:4:13|SB 3.4.13]]

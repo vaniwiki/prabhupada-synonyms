@@ -1,5 +1,11 @@
-~~Title:pauruṣe~~
-{{description>his valor; with their own prowess.}}
+---json
+{
+    "name":"pauruṣe",
+    "h1":"pauruṣe",
+    "title":"pauruṣe --- synonyms, prabhupada.io",
+    "description":"his valor; with their own prowess."
+}
+---
 
 ==== sva-pauruṣe  ====
   * his valor --- [[books:sb:3:19:12|SB 3.19.12]]

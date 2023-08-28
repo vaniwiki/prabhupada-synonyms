@@ -1,5 +1,11 @@
-~~Title:vistāriba~~
-{{description>I shall describe.}}
+---json
+{
+    "name":"vistāriba",
+    "h1":"vistāriba",
+    "title":"vistāriba --- synonyms, prabhupada.io",
+    "description":"I shall describe."
+}
+---
 
 ==== vistāriba  ====
   * I shall describe --- [[books:cc:madhya:2:89|Madhya 2.89]]

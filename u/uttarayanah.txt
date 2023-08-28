@@ -1,5 +1,11 @@
-~~Title:uttarāyaṇaḥ~~
-{{description>the period when the sun runs on the northern horizon.}}
+---json
+{
+    "name":"uttarāyaṇaḥ",
+    "h1":"uttarāyaṇaḥ",
+    "title":"uttarāyaṇaḥ --- synonyms, prabhupada.io",
+    "description":"the period when the sun runs on the northern horizon."
+}
+---
 
 ==== uttarāyaṇaḥ  ====
   * the period when the sun runs on the northern horizon --- [[books:sb:1:9:29|SB 1.9.29]]

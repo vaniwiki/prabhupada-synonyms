@@ -1,5 +1,11 @@
-~~Title:daśadhā~~
-{{description>in ten.}}
+---json
+{
+    "name":"daśadhā",
+    "h1":"daśadhā",
+    "title":"daśadhā --- synonyms, prabhupada.io",
+    "description":"in ten."
+}
+---
 
 ==== daśadhā  ====
   * in ten --- [[books:sb:3:6:7|SB 3.6.7]]

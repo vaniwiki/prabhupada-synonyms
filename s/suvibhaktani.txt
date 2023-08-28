@@ -1,5 +1,11 @@
-~~Title:suvibhaktāni~~
-{{description>nicely divided from one another.}}
+---json
+{
+    "name":"suvibhaktāni",
+    "h1":"suvibhaktāni",
+    "title":"suvibhaktāni --- synonyms, prabhupada.io",
+    "description":"nicely divided from one another."
+}
+---
 
 ==== suvibhaktāni  ====
   * nicely divided from one another --- [[books:sb:5:16:6|SB 5.16.6]]

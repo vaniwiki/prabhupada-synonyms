@@ -1,5 +1,11 @@
-~~Title:subalaḥ~~
-{{description>Subala.}}
+---json
+{
+    "name":"subalaḥ",
+    "h1":"subalaḥ",
+    "title":"subalaḥ --- synonyms, prabhupada.io",
+    "description":"Subala."
+}
+---
 
 ==== subalaḥ  ====
   * Subala --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

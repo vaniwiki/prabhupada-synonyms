@@ -1,5 +1,11 @@
-~~Title:ahiḥ~~
-{{description>a serpent; a snake; revenging snake; snake; the snake.}}
+---json
+{
+    "name":"ahiḥ",
+    "h1":"ahiḥ",
+    "title":"ahiḥ --- synonyms, prabhupada.io",
+    "description":"a serpent; a snake; revenging snake; snake; the snake."
+}
+---
 
 ==== ahiḥ  ====
   * a serpent --- [[books:sb:7:7:3|SB 7.7.3]]

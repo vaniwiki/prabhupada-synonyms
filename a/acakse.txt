@@ -1,5 +1,11 @@
-~~Title:ācakṣe~~
-{{description>may describe.}}
+---json
+{
+    "name":"ācakṣe",
+    "h1":"ācakṣe",
+    "title":"ācakṣe --- synonyms, prabhupada.io",
+    "description":"may describe."
+}
+---
 
 ==== ācakṣe  ====
   * may describe --- [[books:sb:1:18:23|SB 1.18.23]]

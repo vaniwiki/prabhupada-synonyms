@@ -1,5 +1,11 @@
-~~Title:ājikāra~~
-{{description>on this night.}}
+---json
+{
+    "name":"ājikāra",
+    "h1":"ājikāra",
+    "title":"ājikāra --- synonyms, prabhupada.io",
+    "description":"on this night."
+}
+---
 
 ==== ājikāra rātrye  ====
   * on this night --- [[books:cc:madhya:20:30|Madhya 20.30]]

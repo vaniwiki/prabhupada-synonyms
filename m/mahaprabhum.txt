@@ -1,5 +1,11 @@
-~~Title:mahāprabhum~~
-{{description>unto Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"mahāprabhum",
+    "h1":"mahāprabhum",
+    "title":"mahāprabhum --- synonyms, prabhupada.io",
+    "description":"unto Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== śrī-caitanya-mahāprabhum  ====
   * unto Śrī Caitanya Mahāprabhu --- [[books:cc:madhya:20:1|Madhya 20.1]]

@@ -1,5 +1,11 @@
-~~Title:ani~~
-{{description>bringing; bringing back; brought; I can bring.}}
+---json
+{
+    "name":"ani",
+    "h1":"ani",
+    "title":"ani --- synonyms, prabhupada.io",
+    "description":"bringing; bringing back; brought; I can bring."
+}
+---
 
 ==== āni  ====
   * bringing --- [[books:cc:madhya:6:35|Madhya 6.35]], [[books:cc:madhya:14:212|Madhya 14.212]]

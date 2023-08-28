@@ -1,5 +1,11 @@
-~~Title:taptasya~~
-{{description>of a person suffering from a condition of material misery.}}
+---json
+{
+    "name":"taptasya",
+    "h1":"taptasya",
+    "title":"taptasya --- synonyms, prabhupada.io",
+    "description":"of a person suffering from a condition of material misery."
+}
+---
 
 ==== taptasya  ====
   * of a person suffering from a condition of material misery --- [[books:sb:7:9:19|SB 7.9.19]]

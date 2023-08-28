@@ -1,5 +1,11 @@
-~~Title:kadambaḥ~~
-{{description>the tree named Mahākadamba.}}
+---json
+{
+    "name":"kadambaḥ",
+    "h1":"kadambaḥ",
+    "title":"kadambaḥ --- synonyms, prabhupada.io",
+    "description":"the tree named Mahākadamba."
+}
+---
 
 ==== mahā-kadambaḥ  ====
   * the tree named Mahākadamba --- [[books:sb:5:16:22|SB 5.16.22]]

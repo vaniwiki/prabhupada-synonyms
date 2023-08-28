@@ -1,5 +1,11 @@
-~~Title:kṣiṇoṣi~~
-{{description>reduce.}}
+---json
+{
+    "name":"kṣiṇoṣi",
+    "h1":"kṣiṇoṣi",
+    "title":"kṣiṇoṣi --- synonyms, prabhupada.io",
+    "description":"reduce."
+}
+---
 
 ==== kṣiṇoṣi  ====
   * reduce --- [[books:sb:7:3:31|SB 7.3.31]]

@@ -1,5 +1,11 @@
-~~Title:kariha~~
-{{description>become; do; execute; have; just carry out; just do; just perform; make; offer; perform; please submit; should do; should make; should perform; take; you do; you may do; You should do.}}
+---json
+{
+    "name":"kariha",
+    "h1":"kariha",
+    "title":"kariha --- synonyms, prabhupada.io",
+    "description":"become; do; execute; have; just carry out; just do; just perform; make; offer; perform; please submit; should do; should make; should perform; take; you do; you may do; You should do."
+}
+---
 
 ==== kariha  ====
   * become --- [[books:cc:adi:16:53|Ādi 16.53]]

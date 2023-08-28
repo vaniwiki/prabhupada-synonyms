@@ -1,5 +1,11 @@
-~~Title:premaki~~
-{{description>of loving affairs.}}
+---json
+{
+    "name":"premaki",
+    "h1":"premaki",
+    "title":"premaki --- synonyms, prabhupada.io",
+    "description":"of loving affairs."
+}
+---
 
 ==== premaki  ====
   * of loving affairs --- [[books:cc:madhya:8:194|Madhya 8.194]]

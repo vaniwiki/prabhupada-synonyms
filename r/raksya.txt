@@ -1,5 +1,11 @@
-~~Title:rakṣya~~
-{{description>protection.}}
+---json
+{
+    "name":"rakṣya",
+    "h1":"rakṣya",
+    "title":"rakṣya --- synonyms, prabhupada.io",
+    "description":"protection."
+}
+---
 
 ==== rakṣya  ====
   * protection --- [[books:bg:18:44|Bg. 18.44]]

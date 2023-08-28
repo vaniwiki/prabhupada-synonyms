@@ -1,5 +1,11 @@
-~~Title:vihimsitah~~
-{{description>now (that demon) has been killed.}}
+---json
+{
+    "name":"vihimsitah",
+    "h1":"vihimsitah",
+    "title":"vihimsitah --- synonyms, prabhupada.io",
+    "description":"now (that demon) has been killed."
+}
+---
 
 ==== vihiṁsitaḥ  ====
   * now (that demon) has been killed --- [[books:sb:10:7:31|SB 10.7.31]]

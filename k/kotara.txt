@@ -1,5 +1,11 @@
-~~Title:kotara~~
-{{description>by the name Koṭarā.}}
+---json
+{
+    "name":"kotara",
+    "h1":"kotara",
+    "title":"kotara --- synonyms, prabhupada.io",
+    "description":"by the name Koṭarā."
+}
+---
 
 ==== koṭarā  ====
   * by the name Koṭarā --- [[books:sb:10:6:27-29|SB 10.6.27-29]]

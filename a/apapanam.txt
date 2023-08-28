@@ -1,5 +1,11 @@
-~~Title:apāpānām~~
-{{description>not sinful.}}
+---json
+{
+    "name":"apāpānām",
+    "h1":"apāpānām",
+    "title":"apāpānām --- synonyms, prabhupada.io",
+    "description":"not sinful."
+}
+---
 
 ==== apāpānām  ====
   * not sinful --- [[books:sb:7:11:30|SB 7.11.30]]

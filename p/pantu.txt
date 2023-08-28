@@ -1,5 +1,11 @@
-~~Title:pāntu~~
-{{description>may they protect and maintain.}}
+---json
+{
+    "name":"pāntu",
+    "h1":"pāntu",
+    "title":"pāntu --- synonyms, prabhupada.io",
+    "description":"may they protect and maintain."
+}
+---
 
 ==== pāntu  ====
   * may they protect and maintain --- [[books:sb:6:8:30|SB 6.8.30]]

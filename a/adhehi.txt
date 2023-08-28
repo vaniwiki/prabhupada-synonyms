@@ -1,5 +1,11 @@
-~~Title:ādhehi~~
-{{description>establish.}}
+---json
+{
+    "name":"ādhehi",
+    "h1":"ādhehi",
+    "title":"ādhehi --- synonyms, prabhupada.io",
+    "description":"establish."
+}
+---
 
 ==== ādhehi  ====
   * establish --- [[books:sb:3:18:28|SB 3.18.28]]

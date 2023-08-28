@@ -1,5 +1,11 @@
-~~Title:akurvan~~
-{{description>not doing.}}
+---json
+{
+    "name":"akurvan",
+    "h1":"akurvan",
+    "title":"akurvan --- synonyms, prabhupada.io",
+    "description":"not doing."
+}
+---
 
 ==== akurvan  ====
   * not doing --- [[books:sb:3:27:9|SB 3.27.9]]

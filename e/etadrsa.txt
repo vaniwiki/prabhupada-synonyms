@@ -1,5 +1,11 @@
-~~Title:etādṛśa~~
-{{description>such.}}
+---json
+{
+    "name":"etādṛśa",
+    "h1":"etādṛśa",
+    "title":"etādṛśa --- synonyms, prabhupada.io",
+    "description":"such."
+}
+---
 
 ==== etādṛśa  ====
   * such --- [[books:cc:madhya:15:228|Madhya 15.228]], [[books:cc:antya:4:91|Antya 4.91]]

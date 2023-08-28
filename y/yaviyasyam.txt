@@ -1,5 +1,11 @@
-~~Title:yavīyasyām~~
-{{description>in the youngest.}}
+---json
+{
+    "name":"yavīyasyām",
+    "h1":"yavīyasyām",
+    "title":"yavīyasyām --- synonyms, prabhupada.io",
+    "description":"in the youngest."
+}
+---
 
 ==== yavīyasyām  ====
   * in the youngest --- [[books:sb:5:9:1-2|SB 5.9.1-2]]

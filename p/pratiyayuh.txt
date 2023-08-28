@@ -1,5 +1,11 @@
-~~Title:pratiyayuḥ~~
-{{description>returned.}}
+---json
+{
+    "name":"pratiyayuḥ",
+    "h1":"pratiyayuḥ",
+    "title":"pratiyayuḥ --- synonyms, prabhupada.io",
+    "description":"returned."
+}
+---
 
 ==== pratiyayuḥ  ====
   * returned --- [[books:sb:10:2:42|SB 10.2.42]]

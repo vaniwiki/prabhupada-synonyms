@@ -1,5 +1,11 @@
-~~Title:kāryāt~~
-{{description>from the matter of some particular business.}}
+---json
+{
+    "name":"kāryāt",
+    "h1":"kāryāt",
+    "title":"kāryāt --- synonyms, prabhupada.io",
+    "description":"from the matter of some particular business."
+}
+---
 
 ==== kāryāt  ====
   * from the matter of some particular business --- [[books:cc:madhya:20:310|Madhya 20.310]]

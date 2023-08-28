@@ -1,5 +1,11 @@
-~~Title:jalasya~~
-{{description>of water.}}
+---json
+{
+    "name":"jalasya",
+    "h1":"jalasya",
+    "title":"jalasya --- synonyms, prabhupada.io",
+    "description":"of water."
+}
+---
 
 ==== jalasya  ====
   * of water --- [[books:cc:adi:3:104|Ādi 3.104]]

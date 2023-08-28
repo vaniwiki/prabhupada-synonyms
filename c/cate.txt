@@ -1,5 +1,11 @@
-~~Title:cate~~
-{{description>licked.}}
+---json
+{
+    "name":"cate",
+    "h1":"cate",
+    "title":"cate --- synonyms, prabhupada.io",
+    "description":"licked."
+}
+---
 
 ==== cāṭe  ====
   * licked --- [[books:cc:madhya:17:195|Madhya 17.195]]

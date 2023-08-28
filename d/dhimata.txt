@@ -1,5 +1,11 @@
-~~Title:dhīmatā~~
-{{description>very intelligent.}}
+---json
+{
+    "name":"dhīmatā",
+    "h1":"dhīmatā",
+    "title":"dhīmatā --- synonyms, prabhupada.io",
+    "description":"very intelligent."
+}
+---
 
 ==== dhīmatā  ====
   * very intelligent --- [[books:bg:1:3|Bg. 1.3]]

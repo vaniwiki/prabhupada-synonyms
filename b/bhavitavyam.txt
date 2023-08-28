@@ -1,5 +1,11 @@
-~~Title:bhavitavyam~~
-{{description>there must be.}}
+---json
+{
+    "name":"bhavitavyam",
+    "h1":"bhavitavyam",
+    "title":"bhavitavyam --- synonyms, prabhupada.io",
+    "description":"there must be."
+}
+---
 
 ==== bhavitavyam  ====
   * there must be --- [[books:sb:6:2:32|SB 6.2.32]]

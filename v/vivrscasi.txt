@@ -1,5 +1,11 @@
-~~Title:vivṛścasi~~
-{{description>you are cutting.}}
+---json
+{
+    "name":"vivṛścasi",
+    "h1":"vivṛścasi",
+    "title":"vivṛścasi --- synonyms, prabhupada.io",
+    "description":"you are cutting."
+}
+---
 
 ==== vivṛścasi  ====
   * you are cutting --- [[books:sb:6:14:55|SB 6.14.55]]

@@ -1,5 +1,11 @@
-~~Title:nirgatām~~
-{{description>having gone away.}}
+---json
+{
+    "name":"nirgatām",
+    "h1":"nirgatām",
+    "title":"nirgatām --- synonyms, prabhupada.io",
+    "description":"having gone away."
+}
+---
 
 ==== nirgatām  ====
   * having gone away --- [[books:sb:1:6:9|SB 1.6.9]]

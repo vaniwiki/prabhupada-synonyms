@@ -1,5 +1,11 @@
-~~Title:anvitāni~~
-{{description>empowered by the energy.}}
+---json
+{
+    "name":"anvitāni",
+    "h1":"anvitāni",
+    "title":"anvitāni --- synonyms, prabhupada.io",
+    "description":"empowered by the energy."
+}
+---
 
 ==== śaktyā anvitāni  ====
   * empowered by the energy --- [[books:sb:8:13:7|SB 8.13.7]]

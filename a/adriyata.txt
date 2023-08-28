@@ -1,5 +1,11 @@
-~~Title:ādriyata~~
-{{description>appreciated very much.}}
+---json
+{
+    "name":"ādriyata",
+    "h1":"ādriyata",
+    "title":"ādriyata --- synonyms, prabhupada.io",
+    "description":"appreciated very much."
+}
+---
 
 ==== ādriyata  ====
   * appreciated very much --- [[books:sb:9:15:25|SB 9.15.25]]

@@ -1,5 +1,11 @@
-~~Title:bhrājante~~
-{{description>glitter.}}
+---json
+{
+    "name":"bhrājante",
+    "h1":"bhrājante",
+    "title":"bhrājante --- synonyms, prabhupada.io",
+    "description":"glitter."
+}
+---
 
 ==== bhrājante  ====
   * glitter --- [[books:sb:8:15:17|SB 8.15.17]]

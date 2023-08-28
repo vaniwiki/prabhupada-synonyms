@@ -1,5 +1,11 @@
-~~Title:jānāibā~~
-{{description>let Him know.}}
+---json
+{
+    "name":"jānāibā",
+    "h1":"jānāibā",
+    "title":"jānāibā --- synonyms, prabhupada.io",
+    "description":"let Him know."
+}
+---
 
 ==== jānāibā  ====
   * let Him know --- [[books:cc:antya:9:102|Antya 9.102]]

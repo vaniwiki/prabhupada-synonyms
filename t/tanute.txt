@@ -1,5 +1,11 @@
-~~Title:tanute~~
-{{description>expands; he expands.}}
+---json
+{
+    "name":"tanute",
+    "h1":"tanute",
+    "title":"tanute --- synonyms, prabhupada.io",
+    "description":"expands; he expands."
+}
+---
 
 ==== tanute  ====
   * expands --- [[books:sb:3:29:43|SB 3.29.43]]

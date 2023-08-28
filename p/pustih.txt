@@ -1,5 +1,11 @@
-~~Title:puṣṭiḥ~~
-{{description>metabolism; Puṣṭi.}}
+---json
+{
+    "name":"puṣṭiḥ",
+    "h1":"puṣṭiḥ",
+    "title":"puṣṭiḥ --- synonyms, prabhupada.io",
+    "description":"metabolism; Puṣṭi."
+}
+---
 
 ==== puṣṭiḥ  ====
   * metabolism --- [[books:sb:2:10:29|SB 2.10.29]]

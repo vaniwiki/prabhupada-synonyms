@@ -1,5 +1,11 @@
-~~Title:ekāgram~~
-{{description>one attention.}}
+---json
+{
+    "name":"ekāgram",
+    "h1":"ekāgram",
+    "title":"ekāgram --- synonyms, prabhupada.io",
+    "description":"one attention."
+}
+---
 
 ==== ekāgram  ====
   * one attention --- [[books:bg:6:11-12|Bg. 6.11-12]]

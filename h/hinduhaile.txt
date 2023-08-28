@@ -1,5 +1,11 @@
-~~Title:hinduhaile~~
-{{description>if I was born in a Hindu family.}}
+---json
+{
+    "name":"hinduhaile",
+    "h1":"hinduhaile",
+    "title":"hinduhaile --- synonyms, prabhupada.io",
+    "description":"if I was born in a Hindu family."
+}
+---
 
 ==== hinduhaile  ====
   * if I was born in a Hindu family --- [[books:cc:madhya:16:182|Madhya 16.182]]

@@ -1,5 +1,11 @@
-~~Title:rākhibe~~
-{{description>should allow you to keep.}}
+---json
+{
+    "name":"rākhibe",
+    "h1":"rākhibe",
+    "title":"rākhibe --- synonyms, prabhupada.io",
+    "description":"should allow you to keep."
+}
+---
 
 ==== rākhibe  ====
   * should allow you to keep --- [[books:cc:madhya:20:90-91|Madhya 20.90-91]]

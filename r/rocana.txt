@@ -1,5 +1,11 @@
-~~Title:rocanā~~
-{{description>Rocanā.}}
+---json
+{
+    "name":"rocanā",
+    "h1":"rocanā",
+    "title":"rocanā --- synonyms, prabhupada.io",
+    "description":"Rocanā."
+}
+---
 
 ==== rocanā  ====
   * Rocanā --- [[books:sb:9:24:45|SB 9.24.45]]

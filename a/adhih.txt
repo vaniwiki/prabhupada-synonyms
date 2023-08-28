@@ -1,5 +1,11 @@
-~~Title:ādhiḥ~~
-{{description>anxiety; mental agitation.}}
+---json
+{
+    "name":"ādhiḥ",
+    "h1":"ādhiḥ",
+    "title":"ādhiḥ --- synonyms, prabhupada.io",
+    "description":"anxiety; mental agitation."
+}
+---
 
 ==== ādhiḥ  ====
   * anxiety --- [[books:sb:4:13:44|SB 4.13.44]]

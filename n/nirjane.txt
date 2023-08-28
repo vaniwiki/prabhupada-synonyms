@@ -1,5 +1,11 @@
-~~Title:nirjane~~
-{{description>in a secluded place; in a solitary place; in solitary places; secluded; solitary.}}
+---json
+{
+    "name":"nirjane",
+    "h1":"nirjane",
+    "title":"nirjane --- synonyms, prabhupada.io",
+    "description":"in a secluded place; in a solitary place; in solitary places; secluded; solitary."
+}
+---
 
 ==== nirjane  ====
   * in a secluded place --- [[books:cc:madhya:19:41|Madhya 19.41]]

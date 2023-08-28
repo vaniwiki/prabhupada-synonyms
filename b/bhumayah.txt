@@ -1,5 +1,11 @@
-~~Title:bhūmayaḥ~~
-{{description>lands of suffering in hellish conditions.}}
+---json
+{
+    "name":"bhūmayaḥ",
+    "h1":"bhūmayaḥ",
+    "title":"bhūmayaḥ --- synonyms, prabhupada.io",
+    "description":"lands of suffering in hellish conditions."
+}
+---
 
 ==== yātanā-bhūmayaḥ  ====
   * lands of suffering in hellish conditions --- [[books:sb:5:26:7|SB 5.26.7]]

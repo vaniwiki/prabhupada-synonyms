@@ -1,5 +1,11 @@
-~~Title:tittiriḥ~~
-{{description>a common partridge.}}
+---json
+{
+    "name":"tittiriḥ",
+    "h1":"tittiriḥ",
+    "title":"tittiriḥ --- synonyms, prabhupada.io",
+    "description":"a common partridge."
+}
+---
 
 ==== tittiriḥ  ====
   * a common partridge --- [[books:sb:6:9:5|SB 6.9.5]]

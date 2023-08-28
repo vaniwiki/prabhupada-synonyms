@@ -1,5 +1,11 @@
-~~Title:danta~~
-{{description>teeth; the teeth; tooth; tusks.}}
+---json
+{
+    "name":"danta",
+    "h1":"danta",
+    "title":"danta --- synonyms, prabhupada.io",
+    "description":"teeth; the teeth; tooth; tusks."
+}
+---
 
 ==== danta  ====
   * teeth --- [[books:cc:adi:5:188|Ādi 5.188]], [[books:cc:adi:17:180|Ādi 17.180]], [[books:cc:madhya:2:6|Madhya 2.6]]

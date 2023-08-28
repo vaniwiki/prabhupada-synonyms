@@ -1,5 +1,11 @@
-~~Title:mārjanī~~
-{{description>a broom; broom; the brooms.}}
+---json
+{
+    "name":"mārjanī",
+    "h1":"mārjanī",
+    "title":"mārjanī --- synonyms, prabhupada.io",
+    "description":"a broom; broom; the brooms."
+}
+---
 
 ==== mārjanī  ====
   * a broom --- [[books:cc:madhya:12:80|Madhya 12.80]]

@@ -1,5 +1,11 @@
-~~Title:śukram~~
-{{description>the omnipotent.}}
+---json
+{
+    "name":"śukram",
+    "h1":"śukram",
+    "title":"śukram --- synonyms, prabhupada.io",
+    "description":"the omnipotent."
+}
+---
 
 ==== śukram  ====
   * the omnipotent --- [[books:iso:8|Īśo 8]]

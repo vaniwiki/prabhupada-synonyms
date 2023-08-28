@@ -1,5 +1,11 @@
-~~Title:dravyasya~~
-{{description>of the situation.}}
+---json
+{
+    "name":"dravyasya",
+    "h1":"dravyasya",
+    "title":"dravyasya --- synonyms, prabhupada.io",
+    "description":"of the situation."
+}
+---
 
 ==== dravyasya  ====
   * of the situation --- [[books:sb:3:27:16|SB 3.27.16]]

@@ -1,5 +1,11 @@
-~~Title:kothāha~~
-{{description>anywhere.}}
+---json
+{
+    "name":"kothāha",
+    "h1":"kothāha",
+    "title":"kothāha --- synonyms, prabhupada.io",
+    "description":"anywhere."
+}
+---
 
 ==== kothāha  ====
   * anywhere --- [[books:cc:madhya:5:95|Madhya 5.95]]

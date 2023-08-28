@@ -1,5 +1,11 @@
-~~Title:vyāhṛtim~~
-{{description>Vyāhṛti.}}
+---json
+{
+    "name":"vyāhṛtim",
+    "h1":"vyāhṛtim",
+    "title":"vyāhṛtim --- synonyms, prabhupada.io",
+    "description":"Vyāhṛti."
+}
+---
 
 ==== vyāhṛtim  ====
   * Vyāhṛti --- [[books:sb:6:18:1|SB 6.18.1]]

@@ -1,5 +1,11 @@
-~~Title:anuśerate~~
-{{description>lie; serve the Lord while He sleeps.}}
+---json
+{
+    "name":"anuśerate",
+    "h1":"anuśerate",
+    "title":"anuśerate --- synonyms, prabhupada.io",
+    "description":"lie; serve the Lord while He sleeps."
+}
+---
 
 ==== anuśerate  ====
   * lie --- [[books:sb:3:9:43|SB 3.9.43]]

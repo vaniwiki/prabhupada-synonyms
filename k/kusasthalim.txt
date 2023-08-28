@@ -1,5 +1,11 @@
-~~Title:kuśasthalīm~~
-{{description>named Kuśasthalī.}}
+---json
+{
+    "name":"kuśasthalīm",
+    "h1":"kuśasthalīm",
+    "title":"kuśasthalīm --- synonyms, prabhupada.io",
+    "description":"named Kuśasthalī."
+}
+---
 
 ==== kuśasthalīm  ====
   * named Kuśasthalī --- [[books:sb:9:3:28|SB 9.3.28]]

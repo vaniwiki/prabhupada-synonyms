@@ -1,5 +1,11 @@
-~~Title:kesah~~
-{{description>with such hairs.}}
+---json
+{
+    "name":"kesah",
+    "h1":"kesah",
+    "title":"kesah --- synonyms, prabhupada.io",
+    "description":"with such hairs."
+}
+---
 
 ==== keśaḥ  ====
   * with such hairs --- [[books:sb:2:7:26|SB 2.7.26]]

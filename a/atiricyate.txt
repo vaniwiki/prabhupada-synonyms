@@ -1,5 +1,11 @@
-~~Title:atiricyate~~
-{{description>becomes more than.}}
+---json
+{
+    "name":"atiricyate",
+    "h1":"atiricyate",
+    "title":"atiricyate --- synonyms, prabhupada.io",
+    "description":"becomes more than."
+}
+---
 
 ==== atiricyate  ====
   * becomes more than --- [[books:bg:2:34|Bg. 2.34]]

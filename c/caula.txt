@@ -1,5 +1,11 @@
-~~Title:cāula~~
-{{description>rice.}}
+---json
+{
+    "name":"cāula",
+    "h1":"cāula",
+    "title":"cāula --- synonyms, prabhupada.io",
+    "description":"rice."
+}
+---
 
 ==== cāula  ====
   * rice --- [[books:cc:antya:19:20|Antya 19.20]]

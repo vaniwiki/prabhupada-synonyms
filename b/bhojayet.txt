@@ -1,5 +1,11 @@
-~~Title:bhojayet~~
-{{description>one should feed; should distribute prasāda; should feed.}}
+---json
+{
+    "name":"bhojayet",
+    "h1":"bhojayet",
+    "title":"bhojayet --- synonyms, prabhupada.io",
+    "description":"one should feed; should distribute prasāda; should feed."
+}
+---
 
 ==== bhojayet  ====
   * one should feed --- [[books:sb:7:15:3|SB 7.15.3]]

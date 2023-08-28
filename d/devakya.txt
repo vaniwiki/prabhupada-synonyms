@@ -1,5 +1,11 @@
-~~Title:devakyā~~
-{{description>Devakī.}}
+---json
+{
+    "name":"devakyā",
+    "h1":"devakyā",
+    "title":"devakyā --- synonyms, prabhupada.io",
+    "description":"Devakī."
+}
+---
 
 ==== devakyā  ====
   * Devakī --- [[books:sb:10:1:29|SB 10.1.29]]

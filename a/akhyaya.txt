@@ -1,5 +1,11 @@
-~~Title:akhyaya~~
-{{description>after instructing many people about self-realization.}}
+---json
+{
+    "name":"akhyaya",
+    "h1":"akhyaya",
+    "title":"akhyaya --- synonyms, prabhupada.io",
+    "description":"after instructing many people about self-realization."
+}
+---
 
 ==== ātma-vidyām ākhyāya  ====
   * after instructing many people about self-realization --- [[books:sb:5:15:4|SB 5.15.4]]

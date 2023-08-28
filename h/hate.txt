@@ -1,5 +1,11 @@
-~~Title:hate~~
-{{description>was killed.}}
+---json
+{
+    "name":"hate",
+    "h1":"hate",
+    "title":"hate --- synonyms, prabhupada.io",
+    "description":"was killed."
+}
+---
 
 ==== hate  ====
   * was killed --- [[books:sb:6:13:10|SB 6.13.10]]

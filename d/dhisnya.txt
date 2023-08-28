@@ -1,5 +1,11 @@
-~~Title:dhiṣṇya~~
-{{description>statue.}}
+---json
+{
+    "name":"dhiṣṇya",
+    "h1":"dhiṣṇya",
+    "title":"dhiṣṇya --- synonyms, prabhupada.io",
+    "description":"statue."
+}
+---
 
 ==== dhiṣṇya  ====
   * statue --- [[books:sb:3:29:16|SB 3.29.16]]

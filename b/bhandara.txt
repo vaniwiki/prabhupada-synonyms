@@ -1,5 +1,11 @@
-~~Title:bhāṇḍāra~~
-{{description>full store; of the storehouse; stock; store; storehouse; the store.}}
+---json
+{
+    "name":"bhāṇḍāra",
+    "h1":"bhāṇḍāra",
+    "title":"bhāṇḍāra --- synonyms, prabhupada.io",
+    "description":"full store; of the storehouse; stock; store; storehouse; the store."
+}
+---
 
 ==== bhāṇḍāra  ====
   * full store --- [[books:cc:antya:20:83|Antya 20.83]]

@@ -1,5 +1,11 @@
-~~Title:hum~~
-{{description>by angry words or by sounds of hum.}}
+---json
+{
+    "name":"hum",
+    "h1":"hum",
+    "title":"hum --- synonyms, prabhupada.io",
+    "description":"by angry words or by sounds of hum."
+}
+---
 
 ==== hum-kṛtaiḥ  ====
   * by angry words or by sounds of //hum// --- [[books:sb:4:14:34|SB 4.14.34]]

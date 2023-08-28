@@ -1,5 +1,11 @@
-~~Title:atikaṭhinā~~
-{{description>very hard in constitution.}}
+---json
+{
+    "name":"atikaṭhinā",
+    "h1":"atikaṭhinā",
+    "title":"atikaṭhinā --- synonyms, prabhupada.io",
+    "description":"very hard in constitution."
+}
+---
 
 ==== atikaṭhinā  ====
   * very hard in constitution --- [[books:cc:antya:1:163|Antya 1.163]]

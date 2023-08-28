@@ -1,5 +1,11 @@
-~~Title:kundaiḥ~~
-{{description>kundas; with kundas.}}
+---json
+{
+    "name":"kundaiḥ",
+    "h1":"kundaiḥ",
+    "title":"kundaiḥ --- synonyms, prabhupada.io",
+    "description":"kundas; with kundas."
+}
+---
 
 ==== kundaiḥ  ====
   * //kundas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

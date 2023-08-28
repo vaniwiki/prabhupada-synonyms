@@ -1,5 +1,11 @@
-~~Title:kharvaṭān~~
-{{description>mountain villages.}}
+---json
+{
+    "name":"kharvaṭān",
+    "h1":"kharvaṭān",
+    "title":"kharvaṭān --- synonyms, prabhupada.io",
+    "description":"mountain villages."
+}
+---
 
 ==== kharvaṭān  ====
   * mountain villages --- [[books:sb:4:18:31|SB 4.18.31]]

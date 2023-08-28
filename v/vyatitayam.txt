@@ -1,5 +1,11 @@
-~~Title:vyatītāyām~~
-{{description>having passed.}}
+---json
+{
+    "name":"vyatītāyām",
+    "h1":"vyatītāyām",
+    "title":"vyatītāyām --- synonyms, prabhupada.io",
+    "description":"having passed."
+}
+---
 
 ==== vyatītāyām  ====
   * having passed --- [[books:sb:10:4:29|SB 10.4.29]]

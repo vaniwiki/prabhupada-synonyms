@@ -1,5 +1,11 @@
-~~Title:navera~~
-{{description>of the nine.}}
+---json
+{
+    "name":"navera",
+    "h1":"navera",
+    "title":"navera --- synonyms, prabhupada.io",
+    "description":"of the nine."
+}
+---
 
 ==== navera  ====
   * of the nine --- [[books:cc:adi:2:93|Ādi 2.93]]

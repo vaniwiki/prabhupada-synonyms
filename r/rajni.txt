@@ -1,5 +1,11 @@
-~~Title:rajni~~
-{{description>O my dear Queen; unto the King.}}
+---json
+{
+    "name":"rajni",
+    "h1":"rajni",
+    "title":"rajni --- synonyms, prabhupada.io",
+    "description":"O my dear Queen; unto the King."
+}
+---
 
 ==== rājñi  ====
   * O my dear Queen --- [[books:sb:9:23:37|SB 9.23.37]]

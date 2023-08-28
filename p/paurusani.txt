@@ -1,5 +1,11 @@
-~~Title:pauruṣāṇi~~
-{{description>glorious activities.}}
+---json
+{
+    "name":"pauruṣāṇi",
+    "h1":"pauruṣāṇi",
+    "title":"pauruṣāṇi --- synonyms, prabhupada.io",
+    "description":"glorious activities."
+}
+---
 
 ==== pauruṣāṇi  ====
   * glorious activities --- [[books:sb:3:25:34|SB 3.25.34]], [[books:sb:4:16:2|SB 4.16.2]]

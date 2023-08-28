@@ -1,5 +1,11 @@
-~~Title:nirghatah~~
-{{description>bolt from the blue.}}
+---json
+{
+    "name":"nirghatah",
+    "h1":"nirghatah",
+    "title":"nirghatah --- synonyms, prabhupada.io",
+    "description":"bolt from the blue."
+}
+---
 
 ==== nirghātaḥ  ====
   * bolt from the blue --- [[books:sb:1:14:15|SB 1.14.15]]

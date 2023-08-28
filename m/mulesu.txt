@@ -1,5 +1,11 @@
-~~Title:mūleṣu~~
-{{description>with the root.}}
+---json
+{
+    "name":"mūleṣu",
+    "h1":"mūleṣu",
+    "title":"mūleṣu --- synonyms, prabhupada.io",
+    "description":"with the root."
+}
+---
 
 ==== mūleṣu  ====
   * with the root --- [[books:sb:1:19:17|SB 1.19.17]]

@@ -1,5 +1,11 @@
-~~Title:pravṛtaḥ~~
-{{description>accepted.}}
+---json
+{
+    "name":"pravṛtaḥ",
+    "h1":"pravṛtaḥ",
+    "title":"pravṛtaḥ --- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== pravṛtaḥ  ====
   * accepted --- [[books:sb:9:7:1|SB 9.7.1]]

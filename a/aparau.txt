@@ -1,5 +1,11 @@
-~~Title:aparau~~
-{{description>others.}}
+---json
+{
+    "name":"aparau",
+    "h1":"aparau",
+    "title":"aparau --- synonyms, prabhupada.io",
+    "description":"others."
+}
+---
 
 ==== aparau  ====
   * others --- [[books:sb:4:1:35|SB 4.1.35]]

@@ -1,5 +1,11 @@
-~~Title:abhivyañjakam~~
-{{description>indicating the classification (brāhmaṇa, kṣatriya, vaiśya, śūdra, etc.).}}
+---json
+{
+    "name":"abhivyañjakam",
+    "h1":"abhivyañjakam",
+    "title":"abhivyañjakam --- synonyms, prabhupada.io",
+    "description":"indicating the classification (brāhmaṇa, kṣatriya, vaiśya, śūdra, etc.)."
+}
+---
 
 ==== varṇa-abhivyañjakam  ====
   * indicating the classification (//brāhmaṇa, kṣatriya, vaiśya, śūdra,// etc.) --- [[books:sb:7:11:35|SB 7.11.35]]

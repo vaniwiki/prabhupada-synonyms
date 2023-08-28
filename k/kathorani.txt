@@ -1,5 +1,11 @@
-~~Title:kaṭhorāṇi~~
-{{description>harder.}}
+---json
+{
+    "name":"kaṭhorāṇi",
+    "h1":"kaṭhorāṇi",
+    "title":"kaṭhorāṇi --- synonyms, prabhupada.io",
+    "description":"harder."
+}
+---
 
 ==== kaṭhorāṇi  ====
   * harder --- [[books:cc:madhya:7:73|Madhya 7.73]]

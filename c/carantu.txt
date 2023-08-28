@@ -1,5 +1,11 @@
-~~Title:carantu~~
-{{description>let them eat.}}
+---json
+{
+    "name":"carantu",
+    "h1":"carantu",
+    "title":"carantu --- synonyms, prabhupada.io",
+    "description":"let them eat."
+}
+---
 
 ==== carantu  ====
   * let them eat --- [[books:sb:10:13:6|SB 10.13.6]]

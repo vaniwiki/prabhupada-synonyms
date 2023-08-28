@@ -1,5 +1,11 @@
-~~Title:hetura~~
-{{description>of the reason.}}
+---json
+{
+    "name":"hetura",
+    "h1":"hetura",
+    "title":"hetura --- synonyms, prabhupada.io",
+    "description":"of the reason."
+}
+---
 
 ==== hetura  ====
   * of the reason --- [[books:cc:adi:4:159|Ādi 4.159]]

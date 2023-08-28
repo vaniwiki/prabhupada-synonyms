@@ -1,5 +1,11 @@
-~~Title:bhakṣaṇera~~
-{{description>making arrangements for eating.}}
+---json
+{
+    "name":"bhakṣaṇera",
+    "h1":"bhakṣaṇera",
+    "title":"bhakṣaṇera --- synonyms, prabhupada.io",
+    "description":"making arrangements for eating."
+}
+---
 
 ==== bhakṣaṇera krama kari'  ====
   * making arrangements for eating --- [[books:cc:antya:18:103|Antya 18.103]]

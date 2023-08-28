@@ -1,5 +1,11 @@
-~~Title:mṛgayām~~
-{{description>for hunting; hunting; hunting excursion; in hunting; while hunting; while hunting in the forest.}}
+---json
+{
+    "name":"mṛgayām",
+    "h1":"mṛgayām",
+    "title":"mṛgayām --- synonyms, prabhupada.io",
+    "description":"for hunting; hunting; hunting excursion; in hunting; while hunting; while hunting in the forest."
+}
+---
 
 ==== mṛgayām  ====
   * for hunting --- [[books:sb:9:1:23-24|SB 9.1.23-24]]

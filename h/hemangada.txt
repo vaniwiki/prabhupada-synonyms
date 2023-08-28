@@ -1,5 +1,11 @@
-~~Title:hemāṅgada~~
-{{description>Hemāṅgada.}}
+---json
+{
+    "name":"hemāṅgada",
+    "h1":"hemāṅgada",
+    "title":"hemāṅgada --- synonyms, prabhupada.io",
+    "description":"Hemāṅgada."
+}
+---
 
 ==== hemāṅgada  ====
   * Hemāṅgada --- [[books:sb:9:24:49|SB 9.24.49]]

@@ -1,5 +1,11 @@
-~~Title:sudhāyāḥ~~
-{{description>of the nectar.}}
+---json
+{
+    "name":"sudhāyāḥ",
+    "h1":"sudhāyāḥ",
+    "title":"sudhāyāḥ --- synonyms, prabhupada.io",
+    "description":"of the nectar."
+}
+---
 
 ==== sudhāyāḥ  ====
   * of the nectar --- [[books:sb:3:5:46|SB 3.5.46]]

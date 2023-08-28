@@ -1,5 +1,11 @@
-~~Title:phaṇe~~
-{{description>on one of the hoods.}}
+---json
+{
+    "name":"phaṇe",
+    "h1":"phaṇe",
+    "title":"phaṇe --- synonyms, prabhupada.io",
+    "description":"on one of the hoods."
+}
+---
 
 ==== eka-phaṇe  ====
   * on one of the hoods --- [[books:cc:adi:5:119|Ādi 5.119]]

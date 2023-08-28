@@ -1,5 +1,11 @@
-~~Title:svargibhiḥ~~
-{{description>by the demigods.}}
+---json
+{
+    "name":"svargibhiḥ",
+    "h1":"svargibhiḥ",
+    "title":"svargibhiḥ --- synonyms, prabhupada.io",
+    "description":"by the demigods."
+}
+---
 
 ==== svargibhiḥ  ====
   * by the demigods --- [[books:sb:8:22:33|SB 8.22.33]]

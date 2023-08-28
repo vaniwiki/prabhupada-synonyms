@@ -1,5 +1,11 @@
-~~Title:dvārau~~
-{{description>gates; two gates.}}
+---json
+{
+    "name":"dvārau",
+    "h1":"dvārau",
+    "title":"dvārau --- synonyms, prabhupada.io",
+    "description":"gates; two gates."
+}
+---
 
 ==== dvārau  ====
   * gates --- [[books:sb:4:29:8|SB 4.29.8]]

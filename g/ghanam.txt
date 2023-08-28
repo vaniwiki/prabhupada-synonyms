@@ -1,5 +1,11 @@
-~~Title:ghanam~~
-{{description>Your Lordship, who are concentrated knowledge.}}
+---json
+{
+    "name":"ghanam",
+    "h1":"ghanam",
+    "title":"ghanam --- synonyms, prabhupada.io",
+    "description":"Your Lordship, who are concentrated knowledge."
+}
+---
 
 ==== jñāna-ghanam  ====
   * Your Lordship, who are concentrated knowledge --- [[books:sb:9:8:23|SB 9.8.23]]

@@ -1,5 +1,11 @@
-~~Title:labhante~~
-{{description>achieve; attain; do achieve; do gain.}}
+---json
+{
+    "name":"labhante",
+    "h1":"labhante",
+    "title":"labhante --- synonyms, prabhupada.io",
+    "description":"achieve; attain; do achieve; do gain."
+}
+---
 
 ==== labhante  ====
   * achieve --- [[books:bg:5:25|Bg. 5.25]]

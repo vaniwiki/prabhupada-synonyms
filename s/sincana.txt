@@ -1,5 +1,11 @@
-~~Title:siñcana~~
-{{description>sprinkling.}}
+---json
+{
+    "name":"siñcana",
+    "h1":"siñcana",
+    "title":"siñcana --- synonyms, prabhupada.io",
+    "description":"sprinkling."
+}
+---
 
 ==== siñcana  ====
   * sprinkling --- [[books:cc:antya:14:97|Antya 14.97]]

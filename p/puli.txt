@@ -1,5 +1,11 @@
-~~Title:puli~~
-{{description>cakes made with sweet rice.}}
+---json
+{
+    "name":"puli",
+    "h1":"puli",
+    "title":"puli --- synonyms, prabhupada.io",
+    "description":"cakes made with sweet rice."
+}
+---
 
 ==== kṣīra-puli  ====
   * cakes made with sweet rice --- [[books:cc:madhya:15:215|Madhya 15.215]]

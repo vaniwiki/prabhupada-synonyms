@@ -1,5 +1,11 @@
-~~Title:avahan~~
-{{description>inviting; made it possible.}}
+---json
+{
+    "name":"avahan",
+    "h1":"avahan",
+    "title":"avahan --- synonyms, prabhupada.io",
+    "description":"inviting; made it possible."
+}
+---
 
 ==== āvahan  ====
   * inviting --- [[books:sb:10:11:8|SB 10.11.8]]

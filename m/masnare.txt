@@ -1,5 +1,11 @@
-~~Title:maṣṇāre~~
-{{description>by the name Maṣṇāra, or in the place known as Maṣṇāra.}}
+---json
+{
+    "name":"maṣṇāre",
+    "h1":"maṣṇāre",
+    "title":"maṣṇāre --- synonyms, prabhupada.io",
+    "description":"by the name Maṣṇāra, or in the place known as Maṣṇāra."
+}
+---
 
 ==== maṣṇāre  ====
   * by the name Maṣṇāra, or in the place known as Maṣṇāra --- [[books:sb:9:20:28|SB 9.20.28]]

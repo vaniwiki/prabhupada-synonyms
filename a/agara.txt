@@ -1,5 +1,11 @@
-~~Title:agara~~
-{{description>home; house; residences.}}
+---json
+{
+    "name":"agara",
+    "h1":"agara",
+    "title":"agara --- synonyms, prabhupada.io",
+    "description":"home; house; residences."
+}
+---
 
 ==== agāra  ====
   * home --- [[books:sb:3:30:6|SB 3.30.6]]

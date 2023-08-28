@@ -1,5 +1,11 @@
-~~Title:duratyaye~~
-{{description>which is very difficult to traverse.}}
+---json
+{
+    "name":"duratyaye",
+    "h1":"duratyaye",
+    "title":"duratyaye --- synonyms, prabhupada.io",
+    "description":"which is very difficult to traverse."
+}
+---
 
 ==== duratyaye  ====
   * which is very difficult to traverse --- [[books:sb:5:13:1|SB 5.13.1]]

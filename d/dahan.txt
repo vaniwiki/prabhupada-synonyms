@@ -1,5 +1,11 @@
-~~Title:dahan~~
-{{description>burning.}}
+---json
+{
+    "name":"dahan",
+    "h1":"dahan",
+    "title":"dahan --- synonyms, prabhupada.io",
+    "description":"burning."
+}
+---
 
 ==== dahan  ====
   * burning --- [[books:sb:3:19:8|SB 3.19.8]], [[books:sb:4:2:8|SB 4.2.8]]

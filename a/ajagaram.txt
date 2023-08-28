@@ -1,5 +1,11 @@
-~~Title:ājagaram~~
-{{description>of a python (to stay in one place); python.}}
+---json
+{
+    "name":"ājagaram",
+    "h1":"ājagaram",
+    "title":"ājagaram --- synonyms, prabhupada.io",
+    "description":"of a python (to stay in one place); python."
+}
+---
 
 ==== ājagaram  ====
   * of a python (to stay in one place) --- [[books:sb:5:5:32|SB 5.5.32]]

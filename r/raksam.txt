@@ -1,5 +1,11 @@
-~~Title:rakṣām~~
-{{description>protection; the protection.}}
+---json
+{
+    "name":"rakṣām",
+    "h1":"rakṣām",
+    "title":"rakṣām --- synonyms, prabhupada.io",
+    "description":"protection; the protection."
+}
+---
 
 ==== rakṣām  ====
   * protection --- [[books:sb:1:8:13|SB 1.8.13]], [[books:sb:10:6:19|SB 10.6.19]], [[books:sb:10:6:20|SB 10.6.20]]

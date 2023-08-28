@@ -1,5 +1,11 @@
-~~Title:śucibhiḥ~~
-{{description>being purified.}}
+---json
+{
+    "name":"śucibhiḥ",
+    "h1":"śucibhiḥ",
+    "title":"śucibhiḥ --- synonyms, prabhupada.io",
+    "description":"being purified."
+}
+---
 
 ==== śucibhiḥ  ====
   * being purified --- [[books:sb:4:8:55|SB 4.8.55]]

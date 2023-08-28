@@ -1,5 +1,11 @@
-~~Title:lupta~~
-{{description>dissipated; forgotten; have been suspended; lost; stopped.}}
+---json
+{
+    "name":"lupta",
+    "h1":"lupta",
+    "title":"lupta --- synonyms, prabhupada.io",
+    "description":"dissipated; forgotten; have been suspended; lost; stopped."
+}
+---
 
 ==== lupta  ====
   * dissipated --- [[books:cc:adi:13:4|Ādi 13.4]]

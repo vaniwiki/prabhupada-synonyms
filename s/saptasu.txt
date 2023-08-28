@@ -1,5 +1,11 @@
-~~Title:saptasu~~
-{{description>seven.}}
+---json
+{
+    "name":"saptasu",
+    "h1":"saptasu",
+    "title":"saptasu --- synonyms, prabhupada.io",
+    "description":"seven."
+}
+---
 
 ==== saptasu  ====
   * seven --- [[books:sb:5:1:33|SB 5.1.33]]

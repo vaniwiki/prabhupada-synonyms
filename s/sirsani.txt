@@ -1,5 +1,11 @@
-~~Title:sirsani~~
-{{description>between the two eyebrows; hood; skull.}}
+---json
+{
+    "name":"sirsani",
+    "h1":"sirsani",
+    "title":"sirsani --- synonyms, prabhupada.io",
+    "description":"between the two eyebrows; hood; skull."
+}
+---
 
 ==== śīrṣaṇi  ====
   * between the two eyebrows --- [[books:sb:4:23:14|SB 4.23.14]]

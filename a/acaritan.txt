@@ -1,5 +1,11 @@
-~~Title:ācaritān~~
-{{description>executed.}}
+---json
+{
+    "name":"ācaritān",
+    "h1":"ācaritān",
+    "title":"ācaritān --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== ācaritān  ====
   * executed --- [[books:sb:8:19:15|SB 8.19.15]]

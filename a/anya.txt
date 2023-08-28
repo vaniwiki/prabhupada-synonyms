@@ -1,5 +1,11 @@
-~~Title:anya~~
-{{description>another; any other; anyone else; anything else; different; diverted; else; for others; from others; other; other types; other,; others; others'; someone else; that other.}}
+---json
+{
+    "name":"anya",
+    "h1":"anya",
+    "title":"anya --- synonyms, prabhupada.io",
+    "description":"another; any other; anyone else; anything else; different; diverted; else; for others; from others; other; other types; other,; others; others'; someone else; that other."
+}
+---
 
 ==== anya  ====
   * another --- [[books:cc:adi:17:123|Ādi 17.123]], [[books:cc:madhya:20:196|Madhya 20.196]], [[books:cc:madhya:20:201|Madhya 20.201]], [[books:cc:antya:3:55|Antya 3.55]]

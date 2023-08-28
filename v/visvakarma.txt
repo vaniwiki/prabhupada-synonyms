@@ -1,5 +1,11 @@
-~~Title:visvakarma~~
-{{description>Viśvakarmā.}}
+---json
+{
+    "name":"visvakarma",
+    "h1":"visvakarma",
+    "title":"visvakarma --- synonyms, prabhupada.io",
+    "description":"Viśvakarmā."
+}
+---
 
 ==== viśvakarmā  ====
   * Viśvakarmā --- [[books:sb:6:6:15|SB 6.6.15]], [[books:sb:8:10:29|SB 8.10.29]]

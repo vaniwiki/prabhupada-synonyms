@@ -1,5 +1,11 @@
-~~Title:niyudhyatoḥ~~
-{{description>fighting.}}
+---json
+{
+    "name":"niyudhyatoḥ",
+    "h1":"niyudhyatoḥ",
+    "title":"niyudhyatoḥ --- synonyms, prabhupada.io",
+    "description":"fighting."
+}
+---
 
 ==== niyudhyatoḥ  ====
   * fighting --- [[books:sb:8:2:29|SB 8.2.29]]

@@ -1,5 +1,11 @@
-~~Title:nakṣatrāṇi~~
-{{description>constellations; many stars; the constellations.}}
+---json
+{
+    "name":"nakṣatrāṇi",
+    "h1":"nakṣatrāṇi",
+    "title":"nakṣatrāṇi --- synonyms, prabhupada.io",
+    "description":"constellations; many stars; the constellations."
+}
+---
 
 ==== nakṣatrāṇi  ====
   * constellations --- [[books:sb:5:23:5|SB 5.23.5]]

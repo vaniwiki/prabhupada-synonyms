@@ -1,5 +1,11 @@
-~~Title:vatnyām~~
-{{description>pregnant.}}
+---json
+{
+    "name":"vatnyām",
+    "h1":"vatnyām",
+    "title":"vatnyām --- synonyms, prabhupada.io",
+    "description":"pregnant."
+}
+---
 
 ==== antaḥ-vatnyām  ====
   * pregnant --- [[books:sb:9:20:36|SB 9.20.36]]

@@ -1,5 +1,11 @@
-~~Title:trasareṇu~~
-{{description>six atoms together.}}
+---json
+{
+    "name":"trasareṇu",
+    "h1":"trasareṇu",
+    "title":"trasareṇu --- synonyms, prabhupada.io",
+    "description":"six atoms together."
+}
+---
 
 ==== trasareṇu  ====
   * six atoms together --- [[books:cc:adi:5:70|Ādi 5.70]]

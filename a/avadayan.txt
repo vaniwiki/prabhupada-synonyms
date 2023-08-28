@@ -1,5 +1,11 @@
-~~Title:avādayan~~
-{{description>sounded.}}
+---json
+{
+    "name":"avādayan",
+    "h1":"avādayan",
+    "title":"avādayan --- synonyms, prabhupada.io",
+    "description":"sounded."
+}
+---
 
 ==== avādayan  ====
   * sounded --- [[books:sb:3:24:7|SB 3.24.7]]

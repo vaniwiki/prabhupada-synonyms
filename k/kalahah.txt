@@ -1,5 +1,11 @@
-~~Title:kalahaḥ~~
-{{description>quarrel.}}
+---json
+{
+    "name":"kalahaḥ",
+    "h1":"kalahaḥ",
+    "title":"kalahaḥ --- synonyms, prabhupada.io",
+    "description":"quarrel."
+}
+---
 
 ==== kalahaḥ  ====
   * quarrel --- [[books:sb:1:17:32|SB 1.17.32]]

@@ -1,5 +1,11 @@
-~~Title:anumitam~~
-{{description>concluded to be inferior.}}
+---json
+{
+    "name":"anumitam",
+    "h1":"anumitam",
+    "title":"anumitam --- synonyms, prabhupada.io",
+    "description":"concluded to be inferior."
+}
+---
 
 ==== heya-anumitam  ====
   * concluded to be inferior --- [[books:sb:5:11:3|SB 5.11.3]]

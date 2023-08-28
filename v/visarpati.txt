@@ -1,5 +1,11 @@
-~~Title:visarpati~~
-{{description>walking with us.}}
+---json
+{
+    "name":"visarpati",
+    "h1":"visarpati",
+    "title":"visarpati --- synonyms, prabhupada.io",
+    "description":"walking with us."
+}
+---
 
 ==== visarpati  ====
   * walking with us --- [[books:sb:3:20:32|SB 3.20.32]]

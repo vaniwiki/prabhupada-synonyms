@@ -1,5 +1,11 @@
-~~Title:jāgile~~
-{{description>when He awoke.}}
+---json
+{
+    "name":"jāgile",
+    "h1":"jāgile",
+    "title":"jāgile --- synonyms, prabhupada.io",
+    "description":"when He awoke."
+}
+---
 
 ==== jāgile  ====
   * when He awoke --- [[books:cc:antya:14:21|Antya 14.21]]

@@ -1,5 +1,11 @@
-~~Title:harāmi~~
-{{description>I shall now separate; I shall take away.}}
+---json
+{
+    "name":"harāmi",
+    "h1":"harāmi",
+    "title":"harāmi --- synonyms, prabhupada.io",
+    "description":"I shall now separate; I shall take away."
+}
+---
 
 ==== harāmi  ====
   * I shall now separate --- [[books:sb:7:9:29|SB 7.9.29]]

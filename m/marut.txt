@@ -1,5 +1,11 @@
-~~Title:marut~~
-{{description>air; breathing process; the air; the breathing; the life air.}}
+---json
+{
+    "name":"marut",
+    "h1":"marut",
+    "title":"marut --- synonyms, prabhupada.io",
+    "description":"air; breathing process; the air; the breathing; the life air."
+}
+---
 
 ==== marut  ====
   * air --- [[books:sb:3:26:12|SB 3.26.12]]

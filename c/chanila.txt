@@ -1,5 +1,11 @@
-~~Title:chānila~~
-{{description>mixed.}}
+---json
+{
+    "name":"chānila",
+    "h1":"chānila",
+    "title":"chānila --- synonyms, prabhupada.io",
+    "description":"mixed."
+}
+---
 
 ==== chānila  ====
   * mixed --- [[books:cc:antya:6:57|Antya 6.57]], [[books:cc:antya:6:58|Antya 6.58]]

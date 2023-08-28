@@ -1,5 +1,11 @@
-~~Title:āruroha~~
-{{description>ascended; got up.}}
+---json
+{
+    "name":"āruroha",
+    "h1":"āruroha",
+    "title":"āruroha --- synonyms, prabhupada.io",
+    "description":"ascended; got up."
+}
+---
 
 ==== āruroha  ====
   * ascended --- [[books:sb:1:10:8|SB 1.10.8]], [[books:sb:3:14:6|SB 3.14.6]]

@@ -1,5 +1,11 @@
-~~Title:pidhānam~~
-{{description>covering all other desires; which covers all desirable things.}}
+---json
+{
+    "name":"pidhānam",
+    "h1":"pidhānam",
+    "title":"pidhānam --- synonyms, prabhupada.io",
+    "description":"covering all other desires; which covers all desirable things."
+}
+---
 
 ==== icchā-pidhānam  ====
   * covering all other desires --- [[books:cc:madhya:22:40|Madhya 22.40]], [[books:cc:madhya:24:103|Madhya 24.103]], [[books:cc:madhya:24:199|Madhya 24.199]]

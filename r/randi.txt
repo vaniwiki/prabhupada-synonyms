@@ -1,5 +1,11 @@
-~~Title:rāṇḍī~~
-{{description>widow.}}
+---json
+{
+    "name":"rāṇḍī",
+    "h1":"rāṇḍī",
+    "title":"rāṇḍī --- synonyms, prabhupada.io",
+    "description":"widow."
+}
+---
 
 ==== rāṇḍī  ====
   * widow --- [[books:cc:madhya:1:137|Madhya 1.137]]

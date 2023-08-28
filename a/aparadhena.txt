@@ -1,5 +1,11 @@
-~~Title:aparādhena~~
-{{description>with the offense.}}
+---json
+{
+    "name":"aparādhena",
+    "h1":"aparādhena",
+    "title":"aparādhena --- synonyms, prabhupada.io",
+    "description":"with the offense."
+}
+---
 
 ==== aparādhena  ====
   * with the offense --- [[books:sb:4:11:9|SB 4.11.9]]

@@ -1,5 +1,11 @@
-~~Title:bojhāte~~
-{{description>in exchange for each load of dry wood.}}
+---json
+{
+    "name":"bojhāte",
+    "h1":"bojhāte",
+    "title":"bojhāte --- synonyms, prabhupada.io",
+    "description":"in exchange for each load of dry wood."
+}
+---
 
 ==== eka eka bojhāte  ====
   * in exchange for each load of dry wood --- [[books:cc:madhya:25:204|Madhya 25.204]]

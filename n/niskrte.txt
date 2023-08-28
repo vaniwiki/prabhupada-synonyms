@@ -1,5 +1,11 @@
-~~Title:niṣkṛte~~
-{{description>atonement.}}
+---json
+{
+    "name":"niṣkṛte",
+    "h1":"niṣkṛte",
+    "title":"niṣkṛte --- synonyms, prabhupada.io",
+    "description":"atonement."
+}
+---
 
 ==== niṣkṛte  ====
   * atonement --- [[books:sb:6:2:12|SB 6.2.12]]

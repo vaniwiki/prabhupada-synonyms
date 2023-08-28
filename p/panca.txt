@@ -1,5 +1,11 @@
-~~Title:panca~~
-{{description>all five; all five qualities; five; five different varieties of products from the cow, namely milk, yogurt, clarified butter, cow dung and cow urine; five pots; five sons; the fifth; the five; the five objects of the senses (sound, form, touch, aroma and taste).}}
+---json
+{
+    "name":"panca",
+    "h1":"panca",
+    "title":"panca --- synonyms, prabhupada.io",
+    "description":"all five; all five qualities; five; five different varieties of products from the cow, namely milk, yogurt, clarified butter, cow dung and cow urine; five pots; five sons; the fifth; the five; the five objects of the senses (sound, form, touch, aroma and taste)."
+}
+---
 
 ==== pañca  ====
   * all five --- [[books:cc:madhya:8:87|Madhya 8.87]], [[books:cc:antya:15:15|Antya 15.15]]

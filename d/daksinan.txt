@@ -1,5 +1,11 @@
-~~Title:dakṣiṇān~~
-{{description>rewards.}}
+---json
+{
+    "name":"dakṣiṇān",
+    "h1":"dakṣiṇān",
+    "title":"dakṣiṇān --- synonyms, prabhupada.io",
+    "description":"rewards."
+}
+---
 
 ==== dakṣiṇān  ====
   * rewards --- [[books:sb:1:16:3|SB 1.16.3]]

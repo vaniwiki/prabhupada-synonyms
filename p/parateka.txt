@@ -1,5 +1,11 @@
-~~Title:parateka~~
-{{description>according to.}}
+---json
+{
+    "name":"parateka",
+    "h1":"parateka",
+    "title":"parateka --- synonyms, prabhupada.io",
+    "description":"according to."
+}
+---
 
 ==== parateka  ====
   * according to --- [[books:cc:madhya:18:87|Madhya 18.87]]

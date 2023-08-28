@@ -1,5 +1,11 @@
-~~Title:anasuya~~
-{{description>without envy.}}
+---json
+{
+    "name":"anasuya",
+    "h1":"anasuya",
+    "title":"anasuya --- synonyms, prabhupada.io",
+    "description":"without envy."
+}
+---
 
 ==== anasūya  ====
   * without envy --- [[books:sb:5:9:1-2|SB 5.9.1-2]]

@@ -1,5 +1,11 @@
-~~Title:tiṣṭhata~~
-{{description>just stand.}}
+---json
+{
+    "name":"tiṣṭhata",
+    "h1":"tiṣṭhata",
+    "title":"tiṣṭhata --- synonyms, prabhupada.io",
+    "description":"just stand."
+}
+---
 
 ==== tiṣṭhata  ====
   * just stand --- [[books:sb:6:11:5|SB 6.11.5]]

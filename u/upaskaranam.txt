@@ -1,5 +1,11 @@
-~~Title:upaskarāṇām~~
-{{description>playthings.}}
+---json
+{
+    "name":"upaskarāṇām",
+    "h1":"upaskarāṇām",
+    "title":"upaskarāṇām --- synonyms, prabhupada.io",
+    "description":"playthings."
+}
+---
 
 ==== krīḍa-upaskarāṇām  ====
   * playthings --- [[books:sb:1:13:43|SB 1.13.43]]

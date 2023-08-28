@@ -1,5 +1,11 @@
-~~Title:prasajya~~
-{{description>assembling.}}
+---json
+{
+    "name":"prasajya",
+    "h1":"prasajya",
+    "title":"prasajya --- synonyms, prabhupada.io",
+    "description":"assembling."
+}
+---
 
 ==== prasajya  ====
   * assembling --- [[books:sb:3:25:34|SB 3.25.34]]

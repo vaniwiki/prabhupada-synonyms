@@ -1,5 +1,11 @@
-~~Title:nāmilā~~
-{{description>got down.}}
+---json
+{
+    "name":"nāmilā",
+    "h1":"nāmilā",
+    "title":"nāmilā --- synonyms, prabhupada.io",
+    "description":"got down."
+}
+---
 
 ==== nāmilā  ====
   * got down --- [[books:cc:antya:14:27|Antya 14.27]]

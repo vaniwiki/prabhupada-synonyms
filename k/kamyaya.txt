@@ -1,5 +1,11 @@
-~~Title:kāmyayā~~
-{{description>so desiring.}}
+---json
+{
+    "name":"kāmyayā",
+    "h1":"kāmyayā",
+    "title":"kāmyayā --- synonyms, prabhupada.io",
+    "description":"so desiring."
+}
+---
 
 ==== kāmyayā  ====
   * so desiring --- [[books:sb:2:9:40|SB 2.9.40]]

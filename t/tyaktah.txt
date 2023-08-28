@@ -1,5 +1,11 @@
-~~Title:tyaktāḥ~~
-{{description>left alone, without protection.}}
+---json
+{
+    "name":"tyaktāḥ",
+    "h1":"tyaktāḥ",
+    "title":"tyaktāḥ --- synonyms, prabhupada.io",
+    "description":"left alone, without protection."
+}
+---
 
 ==== tyaktāḥ  ====
   * left alone, without protection --- [[books:sb:7:2:38|SB 7.2.38]]

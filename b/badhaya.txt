@@ -1,5 +1,11 @@
-~~Title:badhaya~~
-{{description>causes to increase.}}
+---json
+{
+    "name":"badhaya",
+    "h1":"badhaya",
+    "title":"badhaya --- synonyms, prabhupada.io",
+    "description":"causes to increase."
+}
+---
 
 ==== bāḍhāya  ====
   * causes to increase --- [[books:cc:adi:4:198|Ādi 4.198]]

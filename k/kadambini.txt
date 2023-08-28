@@ -1,5 +1,11 @@
-~~Title:kaḍambinī~~
-{{description>sprouting.}}
+---json
+{
+    "name":"kaḍambinī",
+    "h1":"kaḍambinī",
+    "title":"kaḍambinī --- synonyms, prabhupada.io",
+    "description":"sprouting."
+}
+---
 
 ==== kaḍambinī  ====
   * sprouting --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

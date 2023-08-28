@@ -1,5 +1,11 @@
-~~Title:pradhānena~~
-{{description>by pradhāna.}}
+---json
+{
+    "name":"pradhānena",
+    "h1":"pradhānena",
+    "title":"pradhānena --- synonyms, prabhupada.io",
+    "description":"by pradhāna."
+}
+---
 
 ==== pradhānena  ====
   * by //pradhāna// --- [[books:sb:3:26:52|SB 3.26.52]]

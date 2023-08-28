@@ -1,5 +1,11 @@
-~~Title:āḍānī~~
-{{description>fan.}}
+---json
+{
+    "name":"āḍānī",
+    "h1":"āḍānī",
+    "title":"āḍānī --- synonyms, prabhupada.io",
+    "description":"fan."
+}
+---
 
 ==== āḍānī  ====
   * fan --- [[books:cc:madhya:15:122|Madhya 15.122]]

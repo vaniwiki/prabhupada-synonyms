@@ -1,5 +1,11 @@
-~~Title:khara~~
-{{description>asses; Dhenukāsura; sharp; very strong.}}
+---json
+{
+    "name":"khara",
+    "h1":"khara",
+    "title":"khara --- synonyms, prabhupada.io",
+    "description":"asses; Dhenukāsura; sharp; very strong."
+}
+---
 
 ==== khara  ====
   * asses --- [[books:sb:7:14:9|SB 7.14.9]]

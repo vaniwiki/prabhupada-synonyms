@@ -1,5 +1,11 @@
-~~Title:kūṭāni~~
-{{description>enigmatic; the tops.}}
+---json
+{
+    "name":"kūṭāni",
+    "h1":"kūṭāni",
+    "title":"kūṭāni --- synonyms, prabhupada.io",
+    "description":"enigmatic; the tops."
+}
+---
 
 ==== kūṭāni  ====
   * enigmatic --- [[books:sb:6:5:29|SB 6.5.29]]

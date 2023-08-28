@@ -1,5 +1,11 @@
-~~Title:agāyata~~
-{{description>chanted; he began to chant; narrated.}}
+---json
+{
+    "name":"agāyata",
+    "h1":"agāyata",
+    "title":"agāyata --- synonyms, prabhupada.io",
+    "description":"chanted; he began to chant; narrated."
+}
+---
 
 ==== agāyata  ====
   * chanted --- [[books:sb:10:9:1-2|SB 10.9.1-2]]

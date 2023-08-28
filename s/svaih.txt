@@ -1,5 +1,11 @@
-~~Title:svaiḥ~~
-{{description>alone; by His own family members; by His personal associates; by one's own belongings; by your relatives; His own; own; personal; their own; Your own.}}
+---json
+{
+    "name":"svaiḥ",
+    "h1":"svaiḥ",
+    "title":"svaiḥ --- synonyms, prabhupada.io",
+    "description":"alone; by His own family members; by His personal associates; by one's own belongings; by your relatives; His own; own; personal; their own; Your own."
+}
+---
 
 ==== svaiḥ  ====
   * alone --- [[books:sb:3:1:19|SB 3.1.19]]

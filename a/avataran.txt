@@ -1,5 +1,11 @@
-~~Title:avatārān~~
-{{description>incarnations.}}
+---json
+{
+    "name":"avatārān",
+    "h1":"avatārān",
+    "title":"avatārān --- synonyms, prabhupada.io",
+    "description":"incarnations."
+}
+---
 
 ==== avatārān  ====
   * incarnations --- [[books:sb:2:6:46|SB 2.6.46]]

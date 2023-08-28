@@ -1,5 +1,11 @@
-~~Title:parikrāntyā~~
-{{description>by traveling.}}
+---json
+{
+    "name":"parikrāntyā",
+    "h1":"parikrāntyā",
+    "title":"parikrāntyā --- synonyms, prabhupada.io",
+    "description":"by traveling."
+}
+---
 
 ==== parikrāntyā  ====
   * by traveling --- [[books:sb:4:29:21|SB 4.29.21]]

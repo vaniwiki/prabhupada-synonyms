@@ -1,5 +1,11 @@
-~~Title:tanūnām~~
-{{description>who are nondifferent from You.}}
+---json
+{
+    "name":"tanūnām",
+    "h1":"tanūnām",
+    "title":"tanūnām --- synonyms, prabhupada.io",
+    "description":"who are nondifferent from You."
+}
+---
 
 ==== bhavat-tanūnām  ====
   * who are nondifferent from You --- [[books:sb:10:10:38|SB 10.10.38]]

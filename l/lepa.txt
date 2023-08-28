@@ -1,5 +1,11 @@
-~~Title:lepa~~
-{{description>very clean.}}
+---json
+{
+    "name":"lepa",
+    "h1":"lepa",
+    "title":"lepa --- synonyms, prabhupada.io",
+    "description":"very clean."
+}
+---
 
 ==== lepā  ====
   * very clean --- [[books:cc:antya:3:231|Antya 3.231]]

@@ -1,5 +1,11 @@
-~~Title:nisthah~~
-{{description>something ends there.}}
+---json
+{
+    "name":"nisthah",
+    "h1":"nisthah",
+    "title":"nisthah --- synonyms, prabhupada.io",
+    "description":"something ends there."
+}
+---
 
 ==== niṣṭhaḥ ayam  ====
   * something ends there --- [[books:sb:10:5:30|SB 10.5.30]]

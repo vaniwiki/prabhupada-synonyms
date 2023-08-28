@@ -1,5 +1,11 @@
-~~Title:atṛpyata~~
-{{description>satiated.}}
+---json
+{
+    "name":"atṛpyata",
+    "h1":"atṛpyata",
+    "title":"atṛpyata --- synonyms, prabhupada.io",
+    "description":"satiated."
+}
+---
 
 ==== atṛpyata  ====
   * satiated --- [[books:sb:3:16:13|SB 3.16.13]]

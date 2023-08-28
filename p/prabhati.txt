@@ -1,5 +1,11 @@
-~~Title:prabhāti~~
-{{description>looks beautiful.}}
+---json
+{
+    "name":"prabhāti",
+    "h1":"prabhāti",
+    "title":"prabhāti --- synonyms, prabhupada.io",
+    "description":"looks beautiful."
+}
+---
 
 ==== prabhāti  ====
   * looks beautiful --- [[books:cc:antya:1:165|Antya 1.165]]

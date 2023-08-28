@@ -1,5 +1,11 @@
-~~Title:saṁvaraṇasya~~
-{{description>of King Saṁvaraṇa.}}
+---json
+{
+    "name":"saṁvaraṇasya",
+    "h1":"saṁvaraṇasya",
+    "title":"saṁvaraṇasya --- synonyms, prabhupada.io",
+    "description":"of King Saṁvaraṇa."
+}
+---
 
 ==== saṁvaraṇasya  ====
   * of King Saṁvaraṇa --- [[books:sb:8:13:10|SB 8.13.10]]

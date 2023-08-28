@@ -1,5 +1,11 @@
-~~Title:pakṣau~~
-{{description>partiality toward any living being.}}
+---json
+{
+    "name":"pakṣau",
+    "h1":"pakṣau",
+    "title":"pakṣau --- synonyms, prabhupada.io",
+    "description":"partiality toward any living being."
+}
+---
 
 ==== gṛdhra-pakṣau  ====
   * partiality toward any living being --- [[books:sb:8:5:27|SB 8.5.27]]

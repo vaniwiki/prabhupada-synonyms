@@ -1,5 +1,11 @@
-~~Title:dvāradiyā~~
-{{description>closing the door.}}
+---json
+{
+    "name":"dvāradiyā",
+    "h1":"dvāradiyā",
+    "title":"dvāradiyā --- synonyms, prabhupada.io",
+    "description":"closing the door."
+}
+---
 
 ==== dvāradiyā  ====
   * closing the door --- [[books:cc:madhya:4:132|Madhya 4.132]]

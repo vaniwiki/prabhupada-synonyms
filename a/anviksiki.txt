@@ -1,5 +1,11 @@
-~~Title:ānvīkṣikī~~
-{{description>logic.}}
+---json
+{
+    "name":"ānvīkṣikī",
+    "h1":"ānvīkṣikī",
+    "title":"ānvīkṣikī --- synonyms, prabhupada.io",
+    "description":"logic."
+}
+---
 
 ==== ānvīkṣikī  ====
   * logic --- [[books:sb:3:12:44|SB 3.12.44]]

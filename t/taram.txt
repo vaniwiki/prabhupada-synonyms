@@ -1,5 +1,11 @@
-~~Title:taram~~
-{{description>Tārā; Tārā, the wife of Bṛhaspati.}}
+---json
+{
+    "name":"taram",
+    "h1":"taram",
+    "title":"taram --- synonyms, prabhupada.io",
+    "description":"Tārā; Tārā, the wife of Bṛhaspati."
+}
+---
 
 ==== tārām  ====
   * Tārā --- [[books:sb:9:14:4|SB 9.14.4]]

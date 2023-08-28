@@ -1,5 +1,11 @@
-~~Title:sucam~~
-{{description>grief.}}
+---json
+{
+    "name":"sucam",
+    "h1":"sucam",
+    "title":"sucam --- synonyms, prabhupada.io",
+    "description":"grief."
+}
+---
 
 ==== śucam  ====
   * grief --- [[books:sb:7:2:32|SB 7.2.32]]

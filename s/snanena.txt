@@ -1,5 +1,11 @@
-~~Title:snānena~~
-{{description>with bathing oils.}}
+---json
+{
+    "name":"snānena",
+    "h1":"snānena",
+    "title":"snānena --- synonyms, prabhupada.io",
+    "description":"with bathing oils."
+}
+---
 
 ==== snānena  ====
   * with bathing oils --- [[books:sb:3:23:28|SB 3.23.28]]

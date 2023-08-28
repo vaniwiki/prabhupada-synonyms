@@ -1,5 +1,11 @@
-~~Title:guhyena~~
-{{description>by the celebrated prayers known as Haṁsa-guhya.}}
+---json
+{
+    "name":"guhyena",
+    "h1":"guhyena",
+    "title":"guhyena --- synonyms, prabhupada.io",
+    "description":"by the celebrated prayers known as Haṁsa-guhya."
+}
+---
 
 ==== haṁsa-guhyena  ====
   * by the celebrated prayers known as //Haṁsa-guhya// --- [[books:sb:6:4:22|SB 6.4.22]]

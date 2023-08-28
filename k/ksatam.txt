@@ -1,5 +1,11 @@
-~~Title:kṣatam~~
-{{description>reduced.}}
+---json
+{
+    "name":"kṣatam",
+    "h1":"kṣatam",
+    "title":"kṣatam --- synonyms, prabhupada.io",
+    "description":"reduced."
+}
+---
 
 ==== kṣatam  ====
   * reduced --- [[books:sb:3:16:24|SB 3.16.24]]

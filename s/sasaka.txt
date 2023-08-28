@@ -1,5 +1,11 @@
-~~Title:sasaka~~
-{{description>a rabbit.}}
+---json
+{
+    "name":"sasaka",
+    "h1":"sasaka",
+    "title":"sasaka --- synonyms, prabhupada.io",
+    "description":"a rabbit."
+}
+---
 
 ==== śaśaka  ====
   * a rabbit --- [[books:cc:madhya:21:69|Madhya 21.69]]

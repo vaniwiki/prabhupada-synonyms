@@ -1,5 +1,11 @@
-~~Title:śaradvān~~
-{{description>Śaradvān.}}
+---json
+{
+    "name":"śaradvān",
+    "h1":"śaradvān",
+    "title":"śaradvān --- synonyms, prabhupada.io",
+    "description":"Śaradvān."
+}
+---
 
 ==== śaradvān  ====
   * Śaradvān --- [[books:sb:9:21:35|SB 9.21.35]]

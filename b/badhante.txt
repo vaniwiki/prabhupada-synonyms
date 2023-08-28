@@ -1,5 +1,11 @@
-~~Title:bādhante~~
-{{description>can trouble.}}
+---json
+{
+    "name":"bādhante",
+    "h1":"bādhante",
+    "title":"bādhante --- synonyms, prabhupada.io",
+    "description":"can trouble."
+}
+---
 
 ==== bādhante  ====
   * can trouble --- [[books:sb:3:22:37|SB 3.22.37]]

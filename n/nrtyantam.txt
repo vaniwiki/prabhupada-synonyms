@@ -1,5 +1,11 @@
-~~Title:nṛtyantam~~
-{{description>dancing.}}
+---json
+{
+    "name":"nṛtyantam",
+    "h1":"nṛtyantam",
+    "title":"nṛtyantam --- synonyms, prabhupada.io",
+    "description":"dancing."
+}
+---
 
 ==== nṛtyantam  ====
   * dancing --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

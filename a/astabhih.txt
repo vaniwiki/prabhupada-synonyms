@@ -1,5 +1,11 @@
-~~Title:aṣṭabhiḥ~~
-{{description>by eight; with eight.}}
+---json
+{
+    "name":"aṣṭabhiḥ",
+    "h1":"aṣṭabhiḥ",
+    "title":"aṣṭabhiḥ --- synonyms, prabhupada.io",
+    "description":"by eight; with eight."
+}
+---
 
 ==== aṣṭabhiḥ  ====
   * by eight --- [[books:sb:2:10:33|SB 2.10.33]], [[books:sb:5:16:6|SB 5.16.6]]

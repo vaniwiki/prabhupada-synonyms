@@ -1,5 +1,11 @@
-~~Title:pāle~~
-{{description>obeys.}}
+---json
+{
+    "name":"pāle",
+    "h1":"pāle",
+    "title":"pāle --- synonyms, prabhupada.io",
+    "description":"obeys."
+}
+---
 
 ==== pāle  ====
   * obeys --- [[books:cc:antya:7:106|Antya 7.106]]

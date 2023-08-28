@@ -1,5 +1,11 @@
-~~Title:aśānta~~
-{{description>not peaceful.}}
+---json
+{
+    "name":"aśānta",
+    "h1":"aśānta",
+    "title":"aśānta --- synonyms, prabhupada.io",
+    "description":"not peaceful."
+}
+---
 
 ==== aśānta  ====
   * not peaceful --- [[books:cc:madhya:19:149|Madhya 19.149]]

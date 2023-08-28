@@ -1,5 +1,11 @@
-~~Title:aghamarṣaṇam~~
-{{description>Aghamarṣaṇa.}}
+---json
+{
+    "name":"aghamarṣaṇam",
+    "h1":"aghamarṣaṇam",
+    "title":"aghamarṣaṇam --- synonyms, prabhupada.io",
+    "description":"Aghamarṣaṇa."
+}
+---
 
 ==== aghamarṣaṇam  ====
   * Aghamarṣaṇa --- [[books:sb:6:4:21|SB 6.4.21]]

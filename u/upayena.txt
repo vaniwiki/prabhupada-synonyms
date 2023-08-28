@@ -1,5 +1,11 @@
-~~Title:upāyena~~
-{{description>means.}}
+---json
+{
+    "name":"upāyena",
+    "h1":"upāyena",
+    "title":"upāyena --- synonyms, prabhupada.io",
+    "description":"means."
+}
+---
 
 ==== upāyena  ====
   * means --- [[books:sb:7:1:32|SB 7.1.32]]

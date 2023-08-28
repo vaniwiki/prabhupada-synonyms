@@ -1,5 +1,11 @@
-~~Title:taptam~~
-{{description>executed; having undergone austerities.}}
+---json
+{
+    "name":"taptam",
+    "h1":"taptam",
+    "title":"taptam --- synonyms, prabhupada.io",
+    "description":"executed; having undergone austerities."
+}
+---
 
 ==== taptam  ====
   * executed --- [[books:bg:17:17|Bg. 17.17]], [[books:bg:17:28|Bg. 17.28]]

@@ -1,5 +1,11 @@
-~~Title:spṛśau~~
-{{description>touching the sky.}}
+---json
+{
+    "name":"spṛśau",
+    "h1":"spṛśau",
+    "title":"spṛśau --- synonyms, prabhupada.io",
+    "description":"touching the sky."
+}
+---
 
 ==== divi-spṛśau  ====
   * touching the sky --- [[books:sb:3:17:17|SB 3.17.17]]

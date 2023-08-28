@@ -1,5 +1,11 @@
-~~Title:gurūṇām~~
-{{description>all your teachers; heavy; of superior persons, such as the spiritual master or father.}}
+---json
+{
+    "name":"gurūṇām",
+    "h1":"gurūṇām",
+    "title":"gurūṇām --- synonyms, prabhupada.io",
+    "description":"all your teachers; heavy; of superior persons, such as the spiritual master or father."
+}
+---
 
 ==== gurūṇām  ====
   * all your teachers --- [[books:sb:7:5:10|SB 7.5.10]]

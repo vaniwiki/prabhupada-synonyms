@@ -1,5 +1,11 @@
-~~Title:ugrah~~
-{{description>dreadful; ferocious; Lord Śiva; terrible; Ugra; very cruel.}}
+---json
+{
+    "name":"ugrah",
+    "h1":"ugrah",
+    "title":"ugrah --- synonyms, prabhupada.io",
+    "description":"dreadful; ferocious; Lord Śiva; terrible; Ugra; very cruel."
+}
+---
 
 ==== ugraḥ  ====
   * dreadful --- [[books:sb:1:3:39|SB 1.3.39]]

@@ -1,5 +1,11 @@
-~~Title:saṁsāraḥ~~
-{{description>material existence, in which one suffers threefold miseries; material, conditional life; the material bondage of birth and death.}}
+---json
+{
+    "name":"saṁsāraḥ",
+    "h1":"saṁsāraḥ",
+    "title":"saṁsāraḥ --- synonyms, prabhupada.io",
+    "description":"material existence, in which one suffers threefold miseries; material, conditional life; the material bondage of birth and death."
+}
+---
 
 ==== saṁsāraḥ  ====
   * material existence, in which one suffers threefold miseries --- [[books:sb:7:7:27|SB 7.7.27]]

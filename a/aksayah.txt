@@ -1,5 +1,11 @@
-~~Title:akṣayaḥ~~
-{{description>eternal.}}
+---json
+{
+    "name":"akṣayaḥ",
+    "h1":"akṣayaḥ",
+    "title":"akṣayaḥ --- synonyms, prabhupada.io",
+    "description":"eternal."
+}
+---
 
 ==== akṣayaḥ  ====
   * eternal --- [[books:bg:10:33|Bg. 10.33]]

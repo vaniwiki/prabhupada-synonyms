@@ -1,5 +1,11 @@
-~~Title:āpīḍita~~
-{{description>being drawn.}}
+---json
+{
+    "name":"āpīḍita",
+    "h1":"āpīḍita",
+    "title":"āpīḍita --- synonyms, prabhupada.io",
+    "description":"being drawn."
+}
+---
 
 ==== āpīḍita  ====
   * being drawn --- [[books:sb:5:1:29|SB 5.1.29]]

@@ -1,5 +1,11 @@
-~~Title:rasana~~
-{{description>the sense of taste.}}
+---json
+{
+    "name":"rasana",
+    "h1":"rasana",
+    "title":"rasana --- synonyms, prabhupada.io",
+    "description":"the sense of taste."
+}
+---
 
 ==== rasana  ====
   * the sense of taste --- [[books:sb:3:26:13|SB 3.26.13]]

@@ -1,5 +1,11 @@
-~~Title:trayam~~
-{{description>the three divisions; three.}}
+---json
+{
+    "name":"trayam",
+    "h1":"trayam",
+    "title":"trayam --- synonyms, prabhupada.io",
+    "description":"the three divisions; three."
+}
+---
 
 ==== trayam  ====
   * the three divisions --- [[books:bg:15:17|Bg. 15.17]]

@@ -1,5 +1,11 @@
-~~Title:svadhitinā~~
-{{description>by a sword.}}
+---json
+{
+    "name":"svadhitinā",
+    "h1":"svadhitinā",
+    "title":"svadhitinā --- synonyms, prabhupada.io",
+    "description":"by a sword."
+}
+---
 
 ==== svadhitinā  ====
   * by a sword --- [[books:sb:5:26:31|SB 5.26.31]]

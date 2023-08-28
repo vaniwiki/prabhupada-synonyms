@@ -1,5 +1,11 @@
-~~Title:raba~~
-{{description>shall not remain.}}
+---json
+{
+    "name":"raba",
+    "h1":"raba",
+    "title":"raba --- synonyms, prabhupada.io",
+    "description":"shall not remain."
+}
+---
 
 ==== nā raba  ====
   * shall not remain --- [[books:cc:madhya:20:13|Madhya 20.13]]

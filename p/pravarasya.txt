@@ -1,5 +1,11 @@
-~~Title:pravarasya~~
-{{description>the best.}}
+---json
+{
+    "name":"pravarasya",
+    "h1":"pravarasya",
+    "title":"pravarasya --- synonyms, prabhupada.io",
+    "description":"the best."
+}
+---
 
 ==== pravarasya  ====
   * the best --- [[books:sb:7:10:47|SB 7.10.47]]

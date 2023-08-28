@@ -1,5 +1,11 @@
-~~Title:samāmnāyāmnātam~~
-{{description>mentioned in the scriptures.}}
+---json
+{
+    "name":"samāmnāyāmnātam",
+    "h1":"samāmnāyāmnātam",
+    "title":"samāmnāyāmnātam --- synonyms, prabhupada.io",
+    "description":"mentioned in the scriptures."
+}
+---
 
 ==== samāmnāyāmnātam  ====
   * mentioned in the scriptures --- [[books:sb:5:4:8|SB 5.4.8]]

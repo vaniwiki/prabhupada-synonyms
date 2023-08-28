@@ -1,5 +1,11 @@
-~~Title:viṣīdati~~
-{{description>gets fatigued.}}
+---json
+{
+    "name":"viṣīdati",
+    "h1":"viṣīdati",
+    "title":"viṣīdati --- synonyms, prabhupada.io",
+    "description":"gets fatigued."
+}
+---
 
 ==== viṣīdati  ====
   * gets fatigued --- [[books:sb:3:20:36|SB 3.20.36]]

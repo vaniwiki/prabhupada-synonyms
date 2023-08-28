@@ -1,5 +1,11 @@
-~~Title:jalpantu~~
-{{description>let them speak about.}}
+---json
+{
+    "name":"jalpantu",
+    "h1":"jalpantu",
+    "title":"jalpantu --- synonyms, prabhupada.io",
+    "description":"let them speak about."
+}
+---
 
 ==== jalpantu  ====
   * let them speak about --- [[books:cc:madhya:20:145|Madhya 20.145]]

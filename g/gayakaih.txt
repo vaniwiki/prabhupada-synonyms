@@ -1,5 +1,11 @@
-~~Title:gāyakaiḥ~~
-{{description>by the singers.}}
+---json
+{
+    "name":"gāyakaiḥ",
+    "h1":"gāyakaiḥ",
+    "title":"gāyakaiḥ --- synonyms, prabhupada.io",
+    "description":"by the singers."
+}
+---
 
 ==== gāyakaiḥ  ====
   * by the singers --- [[books:sb:4:25:44|SB 4.25.44]]

@@ -1,5 +1,11 @@
-~~Title:khāṭe~~
-{{description>on a cot; on the cot.}}
+---json
+{
+    "name":"khāṭe",
+    "h1":"khāṭe",
+    "title":"khāṭe --- synonyms, prabhupada.io",
+    "description":"on a cot; on the cot."
+}
+---
 
 ==== khāṭe  ====
   * on a cot --- [[books:cc:adi:17:242|Ādi 17.242]]

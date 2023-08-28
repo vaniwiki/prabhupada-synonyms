@@ -1,5 +1,11 @@
-~~Title:viṣādī~~
-{{description>morose.}}
+---json
+{
+    "name":"viṣādī",
+    "h1":"viṣādī",
+    "title":"viṣādī --- synonyms, prabhupada.io",
+    "description":"morose."
+}
+---
 
 ==== viṣādī  ====
   * morose --- [[books:bg:18:28|Bg. 18.28]]

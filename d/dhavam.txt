@@ -1,5 +1,11 @@
-~~Title:dhavam~~
-{{description>master.}}
+---json
+{
+    "name":"dhavam",
+    "h1":"dhavam",
+    "title":"dhavam --- synonyms, prabhupada.io",
+    "description":"master."
+}
+---
 
 ==== dhavam  ====
   * master --- [[books:sb:4:28:56|SB 4.28.56]]

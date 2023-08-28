@@ -1,5 +1,11 @@
-~~Title:dhā~~
-{{description>in various ways.}}
+---json
+{
+    "name":"dhā",
+    "h1":"dhā",
+    "title":"dhā --- synonyms, prabhupada.io",
+    "description":"in various ways."
+}
+---
 
 ==== aneka-dhā  ====
   * in various ways --- [[books:sb:3:24:14|SB 3.24.14]]

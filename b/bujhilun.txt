@@ -1,5 +1,11 @@
-~~Title:bujhiluṅ~~
-{{description>I can understand.}}
+---json
+{
+    "name":"bujhiluṅ",
+    "h1":"bujhiluṅ",
+    "title":"bujhiluṅ --- synonyms, prabhupada.io",
+    "description":"I can understand."
+}
+---
 
 ==== bujhiluṅ  ====
   * I can understand --- [[books:cc:antya:4:97|Antya 4.97]]

@@ -1,5 +1,11 @@
-~~Title:pibāmaḥ~~
-{{description>drinking.}}
+---json
+{
+    "name":"pibāmaḥ",
+    "h1":"pibāmaḥ",
+    "title":"pibāmaḥ --- synonyms, prabhupada.io",
+    "description":"drinking."
+}
+---
 
 ==== pibāmaḥ  ====
   * drinking --- [[books:sb:10:12:43|SB 10.12.43]]

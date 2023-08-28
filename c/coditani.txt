@@ -1,5 +1,11 @@
-~~Title:coditāni~~
-{{description>impelled.}}
+---json
+{
+    "name":"coditāni",
+    "h1":"coditāni",
+    "title":"coditāni --- synonyms, prabhupada.io",
+    "description":"impelled."
+}
+---
 
 ==== coditāni  ====
   * impelled --- [[books:sb:6:15:4|SB 6.15.4]]

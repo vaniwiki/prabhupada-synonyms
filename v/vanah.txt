@@ -1,5 +1,11 @@
-~~Title:vanaḥ~~
-{{description>the trees.}}
+---json
+{
+    "name":"vanaḥ",
+    "h1":"vanaḥ",
+    "title":"vanaḥ --- synonyms, prabhupada.io",
+    "description":"the trees."
+}
+---
 
 ==== vanaḥ-patayaḥ  ====
   * the trees --- [[books:sb:3:29:41|SB 3.29.41]], [[books:sb:4:18:25|SB 4.18.25]]

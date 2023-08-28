@@ -1,5 +1,11 @@
-~~Title:unnaddham~~
-{{description>very powerful.}}
+---json
+{
+    "name":"unnaddham",
+    "h1":"unnaddham",
+    "title":"unnaddham --- synonyms, prabhupada.io",
+    "description":"very powerful."
+}
+---
 
 ==== unnaddham  ====
   * very powerful --- [[books:sb:1:7:28|SB 1.7.28]]

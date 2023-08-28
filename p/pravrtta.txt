@@ -1,5 +1,11 @@
-~~Title:pravrtta~~
-{{description>being engaged in; produced.}}
+---json
+{
+    "name":"pravrtta",
+    "h1":"pravrtta",
+    "title":"pravrtta --- synonyms, prabhupada.io",
+    "description":"being engaged in; produced."
+}
+---
 
 ==== pravṛtta  ====
   * being engaged in --- [[books:sb:1:10:3|SB 1.10.3]]

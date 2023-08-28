@@ -1,5 +1,11 @@
-~~Title:vatsakān~~
-{{description>the calves.}}
+---json
+{
+    "name":"vatsakān",
+    "h1":"vatsakān",
+    "title":"vatsakān --- synonyms, prabhupada.io",
+    "description":"the calves."
+}
+---
 
 ==== vatsakān  ====
   * the calves --- [[books:sb:10:13:13|SB 10.13.13]]

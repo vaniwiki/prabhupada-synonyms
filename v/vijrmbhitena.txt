@@ -1,5 +1,11 @@
-~~Title:vijṛmbhitena~~
-{{description>developed.}}
+---json
+{
+    "name":"vijṛmbhitena",
+    "h1":"vijṛmbhitena",
+    "title":"vijṛmbhitena --- synonyms, prabhupada.io",
+    "description":"developed."
+}
+---
 
 ==== vijṛmbhitena  ====
   * developed --- [[books:sb:3:25:27|SB 3.25.27]]

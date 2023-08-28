@@ -1,5 +1,11 @@
-~~Title:paribena~~
-{{description>should wear.}}
+---json
+{
+    "name":"paribena",
+    "h1":"paribena",
+    "title":"paribena --- synonyms, prabhupada.io",
+    "description":"should wear."
+}
+---
 
 ==== paribena  ====
   * should wear --- [[books:cc:madhya:10:157|Madhya 10.157]]

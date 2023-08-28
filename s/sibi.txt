@@ -1,5 +1,11 @@
-~~Title:śibi~~
-{{description>Mahārāja Śibi; Śibi.}}
+---json
+{
+    "name":"śibi",
+    "h1":"śibi",
+    "title":"śibi --- synonyms, prabhupada.io",
+    "description":"Mahārāja Śibi; Śibi."
+}
+---
 
 ==== śibi  ====
   * Mahārāja Śibi --- [[books:sb:8:20:7|SB 8.20.7]]

@@ -1,5 +1,11 @@
-~~Title:saṅkhyātāni~~
-{{description>numbering.}}
+---json
+{
+    "name":"saṅkhyātāni",
+    "h1":"saṅkhyātāni",
+    "title":"saṅkhyātāni --- synonyms, prabhupada.io",
+    "description":"numbering."
+}
+---
 
 ==== saṅkhyātāni  ====
   * numbering --- [[books:sb:3:11:19|SB 3.11.19]]

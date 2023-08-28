@@ -1,5 +1,11 @@
-~~Title:avidan~~
-{{description>not knowing.}}
+---json
+{
+    "name":"avidan",
+    "h1":"avidan",
+    "title":"avidan --- synonyms, prabhupada.io",
+    "description":"not knowing."
+}
+---
 
 ==== avidan  ====
   * not knowing --- [[books:sb:8:7:33|SB 8.7.33]]

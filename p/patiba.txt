@@ -1,5 +1,11 @@
-~~Title:pātiba~~
-{{description>shall devise.}}
+---json
+{
+    "name":"pātiba",
+    "h1":"pātiba",
+    "title":"pātiba --- synonyms, prabhupada.io",
+    "description":"shall devise."
+}
+---
 
 ==== pātiba  ====
   * shall devise --- [[books:cc:adi:7:31-32|Ādi 7.31-32]]

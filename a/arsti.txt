@@ -1,5 +1,11 @@
-~~Title:ārṣṭi~~
-{{description>Ārṣṭiṣeṇa, the chief personality of Kimpuruṣa-varṣa.}}
+---json
+{
+    "name":"ārṣṭi",
+    "h1":"ārṣṭi",
+    "title":"ārṣṭi --- synonyms, prabhupada.io",
+    "description":"Ārṣṭiṣeṇa, the chief personality of Kimpuruṣa-varṣa."
+}
+---
 
 ==== ārṣṭi-ṣeṇena  ====
   * Ārṣṭiṣeṇa, the chief personality of Kimpuruṣa-varṣa --- [[books:sb:5:19:2|SB 5.19.2]]

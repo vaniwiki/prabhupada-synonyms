@@ -1,5 +1,11 @@
-~~Title:tokena~~
-{{description>by a child.}}
+---json
+{
+    "name":"tokena",
+    "h1":"tokena",
+    "title":"tokena --- synonyms, prabhupada.io",
+    "description":"by a child."
+}
+---
 
 ==== tokena  ====
   * by a child --- [[books:sb:2:7:27|SB 2.7.27]]

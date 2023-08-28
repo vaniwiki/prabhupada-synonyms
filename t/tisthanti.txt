@@ -1,5 +1,11 @@
-~~Title:tiṣṭhanti~~
-{{description>dwell.}}
+---json
+{
+    "name":"tiṣṭhanti",
+    "h1":"tiṣṭhanti",
+    "title":"tiṣṭhanti --- synonyms, prabhupada.io",
+    "description":"dwell."
+}
+---
 
 ==== tiṣṭhanti  ====
   * dwell --- [[books:bg:14:18|Bg. 14.18]]

@@ -1,5 +1,11 @@
-~~Title:ājau~~
-{{description>in battle; on the battlefield.}}
+---json
+{
+    "name":"ājau",
+    "h1":"ājau",
+    "title":"ājau --- synonyms, prabhupada.io",
+    "description":"in battle; on the battlefield."
+}
+---
 
 ==== ājau  ====
   * in battle --- [[books:sb:4:16:23|SB 4.16.23]], [[books:sb:6:12:1|SB 6.12.1]]

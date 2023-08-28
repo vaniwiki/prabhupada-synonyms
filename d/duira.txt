@@ -1,5 +1,11 @@
-~~Title:duira~~
-{{description>of the two.}}
+---json
+{
+    "name":"duira",
+    "h1":"duira",
+    "title":"duira --- synonyms, prabhupada.io",
+    "description":"of the two."
+}
+---
 
 ==== duira  ====
   * of the two --- [[books:cc:madhya:6:264-265|Madhya 6.264-265]]

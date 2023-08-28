@@ -1,5 +1,11 @@
-~~Title:kaliṅga~~
-{{description>Kaliṅga.}}
+---json
+{
+    "name":"kaliṅga",
+    "h1":"kaliṅga",
+    "title":"kaliṅga --- synonyms, prabhupada.io",
+    "description":"Kaliṅga."
+}
+---
 
 ==== kaliṅga  ====
   * Kaliṅga --- [[books:sb:9:23:5|SB 9.23.5]]

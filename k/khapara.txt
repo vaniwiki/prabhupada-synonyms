@@ -1,5 +1,11 @@
-~~Title:khāparā~~
-{{description>basin.}}
+---json
+{
+    "name":"khāparā",
+    "h1":"khāparā",
+    "title":"khāparā --- synonyms, prabhupada.io",
+    "description":"basin."
+}
+---
 
 ==== khāparā  ====
   * basin --- [[books:cc:madhya:12:98|Madhya 12.98]]

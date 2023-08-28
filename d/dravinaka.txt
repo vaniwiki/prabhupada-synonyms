@@ -1,5 +1,11 @@
-~~Title:draviṇaka~~
-{{description>known as Draviṇaka and so on.}}
+---json
+{
+    "name":"draviṇaka",
+    "h1":"draviṇaka",
+    "title":"draviṇaka --- synonyms, prabhupada.io",
+    "description":"known as Draviṇaka and so on."
+}
+---
 
 ==== draviṇaka-ādayaḥ  ====
   * known as Draviṇaka and so on --- [[books:sb:6:6:13|SB 6.6.13]]

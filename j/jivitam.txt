@@ -1,5 +1,11 @@
-~~Title:jīvitam~~
-{{description>for the duration; let them be alive; living; the duration of life.}}
+---json
+{
+    "name":"jīvitam",
+    "h1":"jīvitam",
+    "title":"jīvitam --- synonyms, prabhupada.io",
+    "description":"for the duration; let them be alive; living; the duration of life."
+}
+---
 
 ==== jīvitam  ====
   * for the duration --- [[books:sb:4:6:6|SB 4.6.6]]

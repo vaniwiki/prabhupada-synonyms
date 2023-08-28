@@ -1,5 +1,11 @@
-~~Title:dākṣyam~~
-{{description>resourcefulness.}}
+---json
+{
+    "name":"dākṣyam",
+    "h1":"dākṣyam",
+    "title":"dākṣyam --- synonyms, prabhupada.io",
+    "description":"resourcefulness."
+}
+---
 
 ==== dākṣyam  ====
   * resourcefulness --- [[books:bg:18:43|Bg. 18.43]]

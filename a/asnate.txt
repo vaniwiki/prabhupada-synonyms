@@ -1,5 +1,11 @@
-~~Title:asnāte~~
-{{description>had not taken bath.}}
+---json
+{
+    "name":"asnāte",
+    "h1":"asnāte",
+    "title":"asnāte --- synonyms, prabhupada.io",
+    "description":"had not taken bath."
+}
+---
 
 ==== asnāte  ====
   * had not taken bath --- [[books:sb:4:28:19|SB 4.28.19]]

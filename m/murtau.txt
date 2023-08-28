@@ -1,5 +1,11 @@
-~~Title:mūrtau~~
-{{description>form of complete happiness.}}
+---json
+{
+    "name":"mūrtau",
+    "h1":"mūrtau",
+    "title":"mūrtau --- synonyms, prabhupada.io",
+    "description":"form of complete happiness."
+}
+---
 
 ==== sukha-ghana-mūrtau  ====
   * form of complete happiness --- [[books:cc:madhya:24:128|Madhya 24.128]]

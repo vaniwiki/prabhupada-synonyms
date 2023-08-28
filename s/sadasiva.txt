@@ -1,5 +1,11 @@
-~~Title:sadāśiva~~
-{{description>Sadāśiva.}}
+---json
+{
+    "name":"sadāśiva",
+    "h1":"sadāśiva",
+    "title":"sadāśiva --- synonyms, prabhupada.io",
+    "description":"Sadāśiva."
+}
+---
 
 ==== sadāśiva  ====
   * Sadāśiva --- [[books:cc:antya:6:61|Antya 6.61]]

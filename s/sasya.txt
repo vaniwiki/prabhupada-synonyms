@@ -1,5 +1,11 @@
-~~Title:śasya~~
-{{description>like crops of grains; the pulp.}}
+---json
+{
+    "name":"śasya",
+    "h1":"śasya",
+    "title":"śasya --- synonyms, prabhupada.io",
+    "description":"like crops of grains; the pulp."
+}
+---
 
 ==== śasya  ====
   * like crops of grains --- [[books:cc:madhya:21:109|Madhya 21.109]]

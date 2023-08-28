@@ -1,5 +1,11 @@
-~~Title:budhasya~~
-{{description>for such a learned man.}}
+---json
+{
+    "name":"budhasya",
+    "h1":"budhasya",
+    "title":"budhasya --- synonyms, prabhupada.io",
+    "description":"for such a learned man."
+}
+---
 
 ==== budhasya  ====
   * for such a learned man --- [[books:sb:5:1:17|SB 5.1.17]]

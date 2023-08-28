@@ -1,5 +1,11 @@
-~~Title:samālokya~~
-{{description>observing minutely.}}
+---json
+{
+    "name":"samālokya",
+    "h1":"samālokya",
+    "title":"samālokya --- synonyms, prabhupada.io",
+    "description":"observing minutely."
+}
+---
 
 ==== samālokya  ====
   * observing minutely --- [[books:sb:8:19:8|SB 8.19.8]]

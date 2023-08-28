@@ -1,5 +1,11 @@
-~~Title:yāsyati~~
-{{description>he will be elevated; He will go; returns; will come; will enter; will go.}}
+---json
+{
+    "name":"yāsyati",
+    "h1":"yāsyati",
+    "title":"yāsyati --- synonyms, prabhupada.io",
+    "description":"he will be elevated; He will go; returns; will come; will enter; will go."
+}
+---
 
 ==== yāsyati  ====
   * he will be elevated --- [[books:sb:7:10:22|SB 7.10.22]]

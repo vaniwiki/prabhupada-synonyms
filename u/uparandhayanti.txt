@@ -1,5 +1,11 @@
-~~Title:uparandhayanti~~
-{{description>cook.}}
+---json
+{
+    "name":"uparandhayanti",
+    "h1":"uparandhayanti",
+    "title":"uparandhayanti --- synonyms, prabhupada.io",
+    "description":"cook."
+}
+---
 
 ==== uparandhayanti  ====
   * cook --- [[books:sb:5:26:13|SB 5.26.13]]

@@ -1,5 +1,11 @@
-~~Title:lālase~~
-{{description>because of greed.}}
+---json
+{
+    "name":"lālase",
+    "h1":"lālase",
+    "title":"lālase --- synonyms, prabhupada.io",
+    "description":"because of greed."
+}
+---
 
 ==== lālase  ====
   * because of greed --- [[books:cc:antya:6:227|Antya 6.227]]

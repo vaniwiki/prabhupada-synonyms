@@ -1,5 +1,11 @@
-~~Title:lokenāhi~~
-{{description>people in general cannot understand.}}
+---json
+{
+    "name":"lokenāhi",
+    "h1":"lokenāhi",
+    "title":"lokenāhi --- synonyms, prabhupada.io",
+    "description":"people in general cannot understand."
+}
+---
 
 ==== lokenāhi bujhe  ====
   * people in general cannot understand --- [[books:cc:antya:2:170|Antya 2.170]]

@@ -1,5 +1,11 @@
-~~Title:bhogayoḥ~~
-{{description>like the body of a serpent.}}
+---json
+{
+    "name":"bhogayoḥ",
+    "h1":"bhogayoḥ",
+    "title":"bhogayoḥ --- synonyms, prabhupada.io",
+    "description":"like the body of a serpent."
+}
+---
 
 ==== bhogi-bhogayoḥ  ====
   * like the body of a serpent --- [[books:sb:4:25:42|SB 4.25.42]]

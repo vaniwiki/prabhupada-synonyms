@@ -1,5 +1,11 @@
-~~Title:avasthānaḥ~~
-{{description>a resting place.}}
+---json
+{
+    "name":"avasthānaḥ",
+    "h1":"avasthānaḥ",
+    "title":"avasthānaḥ --- synonyms, prabhupada.io",
+    "description":"a resting place."
+}
+---
 
 ==== avasthānaḥ  ====
   * a resting place --- [[books:sb:5:26:17|SB 5.26.17]]

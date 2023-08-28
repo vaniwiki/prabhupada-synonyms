@@ -1,5 +1,11 @@
-~~Title:duhantīm~~
-{{description>for milking.}}
+---json
+{
+    "name":"duhantīm",
+    "h1":"duhantīm",
+    "title":"duhantīm --- synonyms, prabhupada.io",
+    "description":"for milking."
+}
+---
 
 ==== duhantīm  ====
   * for milking --- [[books:sb:1:6:9|SB 1.6.9]]

@@ -1,5 +1,11 @@
-~~Title:adyatanāt~~
-{{description>from today.}}
+---json
+{
+    "name":"adyatanāt",
+    "h1":"adyatanāt",
+    "title":"adyatanāt --- synonyms, prabhupada.io",
+    "description":"from today."
+}
+---
 
 ==== adyatanāt  ====
   * from today --- [[books:sb:8:24:32|SB 8.24.32]]

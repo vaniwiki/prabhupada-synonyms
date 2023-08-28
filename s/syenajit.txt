@@ -1,5 +1,11 @@
-~~Title:syenajit~~
-{{description>Syenajit.}}
+---json
+{
+    "name":"syenajit",
+    "h1":"syenajit",
+    "title":"syenajit --- synonyms, prabhupada.io",
+    "description":"Syenajit."
+}
+---
 
 ==== syenajit  ====
   * Syenajit --- [[books:sb:9:21:23|SB 9.21.23]]

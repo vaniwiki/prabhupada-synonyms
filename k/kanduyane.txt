@@ -1,5 +1,11 @@
-~~Title:kaṇḍūyane~~
-{{description>scratching.}}
+---json
+{
+    "name":"kaṇḍūyane",
+    "h1":"kaṇḍūyane",
+    "title":"kaṇḍūyane --- synonyms, prabhupada.io",
+    "description":"scratching."
+}
+---
 
 ==== kaṇḍūyane  ====
   * scratching --- [[books:sb:3:31:26|SB 3.31.26]]

@@ -1,5 +1,11 @@
-~~Title:niyuṅkṣva~~
-{{description>engage; please engage.}}
+---json
+{
+    "name":"niyuṅkṣva",
+    "h1":"niyuṅkṣva",
+    "title":"niyuṅkṣva --- synonyms, prabhupada.io",
+    "description":"engage; please engage."
+}
+---
 
 ==== niyuṅkṣva  ====
   * engage --- [[books:sb:10:4:37|SB 10.4.37]]

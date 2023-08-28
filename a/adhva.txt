@@ -1,5 +1,11 @@
-~~Title:adhva~~
-{{description>the path; the path of liberation.}}
+---json
+{
+    "name":"adhva",
+    "h1":"adhva",
+    "title":"adhva --- synonyms, prabhupada.io",
+    "description":"the path; the path of liberation."
+}
+---
 
 ==== adhvā  ====
   * the path --- [[books:sb:5:10:9|SB 5.10.9]]

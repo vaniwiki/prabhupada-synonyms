@@ -1,5 +1,11 @@
-~~Title:rurudhe~~
-{{description>attacked.}}
+---json
+{
+    "name":"rurudhe",
+    "h1":"rurudhe",
+    "title":"rurudhe --- synonyms, prabhupada.io",
+    "description":"attacked."
+}
+---
 
 ==== rurudhe  ====
   * attacked --- [[books:sb:8:15:23|SB 8.15.23]]

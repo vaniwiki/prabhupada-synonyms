@@ -1,5 +1,11 @@
-~~Title:jhuli~~
-{{description>bag.}}
+---json
+{
+    "name":"jhuli",
+    "h1":"jhuli",
+    "title":"jhuli --- synonyms, prabhupada.io",
+    "description":"bag."
+}
+---
 
 ==== jhuli  ====
   * bag --- [[books:cc:antya:14:44|Antya 14.44]]

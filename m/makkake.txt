@@ -1,5 +1,11 @@
-~~Title:makkāke~~
-{{description>shall go to Mecca.}}
+---json
+{
+    "name":"makkāke",
+    "h1":"makkāke",
+    "title":"makkāke --- synonyms, prabhupada.io",
+    "description":"shall go to Mecca."
+}
+---
 
 ==== makkāke yāiba  ====
   * shall go to Mecca --- [[books:cc:madhya:20:13|Madhya 20.13]]

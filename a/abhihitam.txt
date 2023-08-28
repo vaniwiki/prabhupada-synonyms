@@ -1,5 +1,11 @@
-~~Title:abhihitam~~
-{{description>described; explained; informed; instructed; narrated; stated; the words spoken.}}
+---json
+{
+    "name":"abhihitam",
+    "h1":"abhihitam",
+    "title":"abhihitam --- synonyms, prabhupada.io",
+    "description":"described; explained; informed; instructed; narrated; stated; the words spoken."
+}
+---
 
 ==== abhihitam  ====
   * described --- [[books:sb:4:12:44|SB 4.12.44]], [[books:sb:4:12:52|SB 4.12.52]]

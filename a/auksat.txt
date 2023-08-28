@@ -1,5 +1,11 @@
-~~Title:aukṣat~~
-{{description>sprinkled.}}
+---json
+{
+    "name":"aukṣat",
+    "h1":"aukṣat",
+    "title":"aukṣat --- synonyms, prabhupada.io",
+    "description":"sprinkled."
+}
+---
 
 ==== aukṣat  ====
   * sprinkled --- [[books:sb:7:3:22|SB 7.3.22]]

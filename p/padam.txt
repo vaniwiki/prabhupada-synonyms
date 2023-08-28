@@ -1,5 +1,11 @@
-~~Title:padam~~
-{{description>a place; abode; an abode; any place; feet; in position; in the path; lotus feet; material world; original position; personality; place of habitation; position; post; region; residence; respective positions; situation; step; the abode; the dwelling place; the lotus feet; the path; the place; the position; the receptacle; the shelter; the status of understanding; the subject matter; this position; to the abode; to the place; to the standard; to the transcendental position; ultimate phase; ultimate stand.}}
+---json
+{
+    "name":"padam",
+    "h1":"padam",
+    "title":"padam --- synonyms, prabhupada.io",
+    "description":"a place; abode; an abode; any place; feet; in position; in the path; lotus feet; material world; original position; personality; place of habitation; position; post; region; residence; respective positions; situation; step; the abode; the dwelling place; the lotus feet; the path; the place; the position; the receptacle; the shelter; the status of understanding; the subject matter; this position; to the abode; to the place; to the standard; to the transcendental position; ultimate phase; ultimate stand."
+}
+---
 
 ==== padam  ====
   * a place --- [[books:sb:8:24:20|SB 8.24.20]]

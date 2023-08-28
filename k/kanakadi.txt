@@ -1,5 +1,11 @@
-~~Title:kāṇākaḍi~~
-{{description>a hole in a small conchshell; of a damaged conchshell.}}
+---json
+{
+    "name":"kāṇākaḍi",
+    "h1":"kāṇākaḍi",
+    "title":"kāṇākaḍi --- synonyms, prabhupada.io",
+    "description":"a hole in a small conchshell; of a damaged conchshell."
+}
+---
 
 ==== kāṇākaḍi  ====
   * a hole in a small conchshell --- [[books:cc:antya:17:48|Antya 17.48]]

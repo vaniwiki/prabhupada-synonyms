@@ -1,5 +1,11 @@
-~~Title:vaset~~
-{{description>should reside.}}
+---json
+{
+    "name":"vaset",
+    "h1":"vaset",
+    "title":"vaset --- synonyms, prabhupada.io",
+    "description":"should reside."
+}
+---
 
 ==== vaset  ====
   * should reside --- [[books:sb:7:12:13-14|SB 7.12.13-14]]

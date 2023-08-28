@@ -1,5 +1,11 @@
-~~Title:pāṭanena~~
-{{description>by the piercing of the chest.}}
+---json
+{
+    "name":"pāṭanena",
+    "h1":"pāṭanena",
+    "title":"pāṭanena --- synonyms, prabhupada.io",
+    "description":"by the piercing of the chest."
+}
+---
 
 ==== vakṣaḥ-pāṭanena  ====
   * by the piercing of the chest --- [[books:sb:7:8:47|SB 7.8.47]]

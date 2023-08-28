@@ -1,5 +1,11 @@
-~~Title:saptavatī~~
-{{description>Saptavatī.}}
+---json
+{
+    "name":"saptavatī",
+    "h1":"saptavatī",
+    "title":"saptavatī --- synonyms, prabhupada.io",
+    "description":"Saptavatī."
+}
+---
 
 ==== saptavatī  ====
   * Saptavatī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

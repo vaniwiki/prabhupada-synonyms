@@ -1,5 +1,11 @@
-~~Title:vāsāṁsi~~
-{{description>clothing; garments.}}
+---json
+{
+    "name":"vāsāṁsi",
+    "h1":"vāsāṁsi",
+    "title":"vāsāṁsi --- synonyms, prabhupada.io",
+    "description":"clothing; garments."
+}
+---
 
 ==== vāsāṁsi  ====
   * clothing --- [[books:sb:1:16:13-15|SB 1.16.13-15]], [[books:sb:3:3:27|SB 3.3.27]]

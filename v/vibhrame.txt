@@ -1,5 +1,11 @@
-~~Title:vibhrame~~
-{{description>the root of all acceptance and rejection.}}
+---json
+{
+    "name":"vibhrame",
+    "h1":"vibhrame",
+    "title":"vibhrame --- synonyms, prabhupada.io",
+    "description":"the root of all acceptance and rejection."
+}
+---
 
 ==== artha-vibhrame  ====
   * the root of all acceptance and rejection --- [[books:sb:7:13:43|SB 7.13.43]]

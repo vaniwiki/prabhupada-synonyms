@@ -1,5 +1,11 @@
-~~Title:paryaikṣata~~
-{{description>observing.}}
+---json
+{
+    "name":"paryaikṣata",
+    "h1":"paryaikṣata",
+    "title":"paryaikṣata --- synonyms, prabhupada.io",
+    "description":"observing."
+}
+---
 
 ==== paryaikṣata  ====
   * observing --- [[books:sb:1:12:10|SB 1.12.10]]

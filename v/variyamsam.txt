@@ -1,5 +1,11 @@
-~~Title:varīyāṁsam~~
-{{description>very respectable.}}
+---json
+{
+    "name":"varīyāṁsam",
+    "h1":"varīyāṁsam",
+    "title":"varīyāṁsam --- synonyms, prabhupada.io",
+    "description":"very respectable."
+}
+---
 
 ==== varīyāṁsam  ====
   * very respectable --- [[books:sb:4:1:38|SB 4.1.38]]

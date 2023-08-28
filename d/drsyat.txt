@@ -1,5 +1,11 @@
-~~Title:dṛśyāt~~
-{{description>glance over.}}
+---json
+{
+    "name":"dṛśyāt",
+    "h1":"dṛśyāt",
+    "title":"dṛśyāt --- synonyms, prabhupada.io",
+    "description":"glance over."
+}
+---
 
 ==== dṛśyāt  ====
   * glance over --- [[books:sb:4:1:57|SB 4.1.57]]

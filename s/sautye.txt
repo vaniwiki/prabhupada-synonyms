@@ -1,5 +1,11 @@
-~~Title:sautye~~
-{{description>of a charioteer; regarding a chariot driver.}}
+---json
+{
+    "name":"sautye",
+    "h1":"sautye",
+    "title":"sautye --- synonyms, prabhupada.io",
+    "description":"of a charioteer; regarding a chariot driver."
+}
+---
 
 ==== sautye  ====
   * of a charioteer --- [[books:sb:5:21:16|SB 5.21.16]]

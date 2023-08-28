@@ -1,5 +1,11 @@
-~~Title:kodāli~~
-{{description>spades.}}
+---json
+{
+    "name":"kodāli",
+    "h1":"kodāli",
+    "title":"kodāli --- synonyms, prabhupada.io",
+    "description":"spades."
+}
+---
 
 ==== kodāli  ====
   * spades --- [[books:cc:madhya:4:49|Madhya 4.49]]

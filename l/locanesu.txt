@@ -1,5 +1,11 @@
-~~Title:locaneṣu~~
-{{description>in the vision.}}
+---json
+{
+    "name":"locaneṣu",
+    "h1":"locaneṣu",
+    "title":"locaneṣu --- synonyms, prabhupada.io",
+    "description":"in the vision."
+}
+---
 
 ==== locaneṣu  ====
   * in the vision --- [[books:sb:9:13:11|SB 9.13.11]]

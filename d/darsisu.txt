@@ -1,5 +1,11 @@
-~~Title:darśiṣu~~
-{{description>equal to everyone.}}
+---json
+{
+    "name":"darśiṣu",
+    "h1":"darśiṣu",
+    "title":"darśiṣu --- synonyms, prabhupada.io",
+    "description":"equal to everyone."
+}
+---
 
 ==== sama-darśiṣu  ====
   * equal to everyone --- [[books:sb:6:17:34-35|SB 6.17.34-35]]

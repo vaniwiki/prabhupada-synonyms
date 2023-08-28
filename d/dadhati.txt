@@ -1,5 +1,11 @@
-~~Title:dadhati~~
-{{description>place.}}
+---json
+{
+    "name":"dadhati",
+    "h1":"dadhati",
+    "title":"dadhati --- synonyms, prabhupada.io",
+    "description":"place."
+}
+---
 
 ==== dadhati  ====
   * place --- [[books:sb:4:4:16|SB 4.4.16]]

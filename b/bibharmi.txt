@@ -1,5 +1,11 @@
-~~Title:bibharmi~~
-{{description>can maintain; do maintain; I bear; I carry; shall maintain.}}
+---json
+{
+    "name":"bibharmi",
+    "h1":"bibharmi",
+    "title":"bibharmi --- synonyms, prabhupada.io",
+    "description":"can maintain; do maintain; I bear; I carry; shall maintain."
+}
+---
 
 ==== bibharmi  ====
   * can maintain --- [[books:sb:9:11:9|SB 9.11.9]]

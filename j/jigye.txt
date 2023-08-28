@@ -1,5 +1,11 @@
-~~Title:jigye~~
-{{description>conquered.}}
+---json
+{
+    "name":"jigye",
+    "h1":"jigye",
+    "title":"jigye --- synonyms, prabhupada.io",
+    "description":"conquered."
+}
+---
 
 ==== jigye  ====
   * conquered --- [[books:sb:6:7:40|SB 6.7.40]]

@@ -1,5 +1,11 @@
-~~Title:avatīrṇahailā~~
-{{description>descended.}}
+---json
+{
+    "name":"avatīrṇahailā",
+    "h1":"avatīrṇahailā",
+    "title":"avatīrṇahailā --- synonyms, prabhupada.io",
+    "description":"descended."
+}
+---
 
 ==== avatīrṇahailā  ====
   * descended --- [[books:cc:adi:3:29|Ādi 3.29]]

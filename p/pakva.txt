@@ -1,5 +1,11 @@
-~~Title:pakva~~
-{{description>burned up.}}
+---json
+{
+    "name":"pakva",
+    "h1":"pakva",
+    "title":"pakva --- synonyms, prabhupada.io",
+    "description":"burned up."
+}
+---
 
 ==== pakva  ====
   * burned up --- [[books:sb:4:28:38|SB 4.28.38]]

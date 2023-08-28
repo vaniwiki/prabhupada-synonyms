@@ -1,5 +1,11 @@
-~~Title:unmādayā~~
-{{description>jubilation.}}
+---json
+{
+    "name":"unmādayā",
+    "h1":"unmādayā",
+    "title":"unmādayā --- synonyms, prabhupada.io",
+    "description":"jubilation."
+}
+---
 
 ==== unmādayā  ====
   * jubilation --- [[books:cc:madhya:10:119|Madhya 10.119]]

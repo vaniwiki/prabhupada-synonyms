@@ -1,5 +1,11 @@
-~~Title:nabhagah~~
-{{description>Nabhaga.}}
+---json
+{
+    "name":"nabhagah",
+    "h1":"nabhagah",
+    "title":"nabhagah --- synonyms, prabhupada.io",
+    "description":"Nabhaga."
+}
+---
 
 ==== nabhagaḥ  ====
   * Nabhaga --- [[books:sb:8:13:2-3|SB 8.13.2-3]]

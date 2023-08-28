@@ -1,5 +1,11 @@
-~~Title:upākhyāste~~
-{{description>I shall explain.}}
+---json
+{
+    "name":"upākhyāste",
+    "h1":"upākhyāste",
+    "title":"upākhyāste --- synonyms, prabhupada.io",
+    "description":"I shall explain."
+}
+---
 
 ==== upākhyāste  ====
   * I shall explain --- [[books:sb:2:9:46|SB 2.9.46]]

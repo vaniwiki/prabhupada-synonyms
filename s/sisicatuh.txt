@@ -1,5 +1,11 @@
-~~Title:siṣicatuḥ~~
-{{description>discharged.}}
+---json
+{
+    "name":"siṣicatuḥ",
+    "h1":"siṣicatuḥ",
+    "title":"siṣicatuḥ --- synonyms, prabhupada.io",
+    "description":"discharged."
+}
+---
 
 ==== siṣicatuḥ  ====
   * discharged --- [[books:sb:6:18:6|SB 6.18.6]]

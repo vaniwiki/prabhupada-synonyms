@@ -1,5 +1,11 @@
-~~Title:kāṅkara~~
-{{description>grains of sand.}}
+---json
+{
+    "name":"kāṅkara",
+    "h1":"kāṅkara",
+    "title":"kāṅkara --- synonyms, prabhupada.io",
+    "description":"grains of sand."
+}
+---
 
 ==== kāṅkara  ====
   * grains of sand --- [[books:cc:madhya:12:93|Madhya 12.93]], [[books:cc:madhya:12:131|Madhya 12.131]]

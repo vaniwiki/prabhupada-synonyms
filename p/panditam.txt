@@ -1,5 +1,11 @@
-~~Title:paṇḍitam~~
-{{description>learned.}}
+---json
+{
+    "name":"paṇḍitam",
+    "h1":"paṇḍitam",
+    "title":"paṇḍitam --- synonyms, prabhupada.io",
+    "description":"learned."
+}
+---
 
 ==== paṇḍitam  ====
   * learned --- [[books:bg:4:19|Bg. 4.19]]

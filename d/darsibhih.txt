@@ -1,5 +1,11 @@
-~~Title:darśibhiḥ~~
-{{description>by the seers; by those who have seen it.}}
+---json
+{
+    "name":"darśibhiḥ",
+    "h1":"darśibhiḥ",
+    "title":"darśibhiḥ --- synonyms, prabhupada.io",
+    "description":"by the seers; by those who have seen it."
+}
+---
 
 ==== darśibhiḥ  ====
   * by the seers --- [[books:bg:2:16|Bg. 2.16]]

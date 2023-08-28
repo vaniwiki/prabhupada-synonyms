@@ -1,5 +1,11 @@
-~~Title:harasi~~
-{{description>annihilate.}}
+---json
+{
+    "name":"harasi",
+    "h1":"harasi",
+    "title":"harasi --- synonyms, prabhupada.io",
+    "description":"annihilate."
+}
+---
 
 ==== harasi  ====
   * annihilate --- [[books:sb:6:9:34|SB 6.9.34]]

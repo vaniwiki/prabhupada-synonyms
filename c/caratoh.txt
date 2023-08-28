@@ -1,5 +1,11 @@
-~~Title:caratoḥ~~
-{{description>performing.}}
+---json
+{
+    "name":"caratoḥ",
+    "h1":"caratoḥ",
+    "title":"caratoḥ --- synonyms, prabhupada.io",
+    "description":"performing."
+}
+---
 
 ==== caratoḥ  ====
   * performing --- [[books:sb:3:18:19|SB 3.18.19]]

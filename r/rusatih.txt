@@ -1,5 +1,11 @@
-~~Title:ruśatīḥ~~
-{{description>strong by chanting of a mantra.}}
+---json
+{
+    "name":"ruśatīḥ",
+    "h1":"ruśatīḥ",
+    "title":"ruśatīḥ --- synonyms, prabhupada.io",
+    "description":"strong by chanting of a mantra."
+}
+---
 
 ==== ruśatīḥ  ====
   * strong by chanting of a //mantra// --- [[books:sb:9:9:23-24|SB 9.9.23-24]]

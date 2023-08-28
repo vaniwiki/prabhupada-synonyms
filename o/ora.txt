@@ -1,5 +1,11 @@
-~~Title:ora~~
-{{description>the limit.}}
+---json
+{
+    "name":"ora",
+    "h1":"ora",
+    "title":"ora --- synonyms, prabhupada.io",
+    "description":"the limit."
+}
+---
 
 ==== ora  ====
   * the limit --- [[books:cc:madhya:3:114|Madhya 3.114]]

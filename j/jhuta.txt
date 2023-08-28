@@ -1,5 +1,11 @@
-~~Title:jhuta~~
-{{description>remnants of the juice of the lips.}}
+---json
+{
+    "name":"jhuta",
+    "h1":"jhuta",
+    "title":"jhuta --- synonyms, prabhupada.io",
+    "description":"remnants of the juice of the lips."
+}
+---
 
 ==== jhuṭa-adhara-rasa  ====
   * remnants of the juice of the lips --- [[books:cc:antya:16:146|Antya 16.146]]

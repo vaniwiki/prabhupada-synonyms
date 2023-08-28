@@ -1,5 +1,11 @@
-~~Title:bāyānna~~
-{{description>fifty-two times.}}
+---json
+{
+    "name":"bāyānna",
+    "h1":"bāyānna",
+    "title":"bāyānna --- synonyms, prabhupada.io",
+    "description":"fifty-two times."
+}
+---
 
 ==== bāyānna bāra  ====
   * fifty-two times --- [[books:cc:madhya:15:239|Madhya 15.239]]

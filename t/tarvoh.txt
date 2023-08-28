@@ -1,5 +1,11 @@
-~~Title:tarvoḥ~~
-{{description>of the two trees.}}
+---json
+{
+    "name":"tarvoḥ",
+    "h1":"tarvoḥ",
+    "title":"tarvoḥ --- synonyms, prabhupada.io",
+    "description":"of the two trees."
+}
+---
 
 ==== tarvoḥ  ====
   * of the two trees --- [[books:sb:10:11:5|SB 10.11.5]]

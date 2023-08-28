@@ -1,5 +1,11 @@
-~~Title:kandena~~
-{{description>with the arrow.}}
+---json
+{
+    "name":"kandena",
+    "h1":"kandena",
+    "title":"kandena --- synonyms, prabhupada.io",
+    "description":"with the arrow."
+}
+---
 
 ==== kāṇḍena  ====
   * with the arrow --- [[books:cc:antya:1:195|Antya 1.195]]

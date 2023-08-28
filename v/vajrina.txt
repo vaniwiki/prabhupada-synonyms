@@ -1,5 +1,11 @@
-~~Title:vajriṇā~~
-{{description>by Indra, the carrier of the thunderbolt.}}
+---json
+{
+    "name":"vajriṇā",
+    "h1":"vajriṇā",
+    "title":"vajriṇā --- synonyms, prabhupada.io",
+    "description":"by Indra, the carrier of the thunderbolt."
+}
+---
 
 ==== vajriṇā  ====
   * by Indra, the carrier of the thunderbolt --- [[books:sb:6:12:26|SB 6.12.26]]

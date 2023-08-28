@@ -1,5 +1,11 @@
-~~Title:mahātalam~~
-{{description>Mahātala; the fifth planetary system below; the planets named Mahātala.}}
+---json
+{
+    "name":"mahātalam",
+    "h1":"mahātalam",
+    "title":"mahātalam --- synonyms, prabhupada.io",
+    "description":"Mahātala; the fifth planetary system below; the planets named Mahātala."
+}
+---
 
 ==== mahātalam  ====
   * Mahātala --- [[books:sb:5:24:7|SB 5.24.7]]

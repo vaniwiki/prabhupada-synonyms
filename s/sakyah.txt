@@ -1,5 +1,11 @@
-~~Title:sakyah~~
-{{description>able; can be seen; is it possible; possible; practical.}}
+---json
+{
+    "name":"sakyah",
+    "h1":"sakyah",
+    "title":"sakyah --- synonyms, prabhupada.io",
+    "description":"able; can be seen; is it possible; possible; practical."
+}
+---
 
 ==== śakyaḥ  ====
   * able --- [[books:sb:4:16:11|SB 4.16.11]]

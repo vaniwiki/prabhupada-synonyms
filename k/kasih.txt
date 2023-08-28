@@ -1,5 +1,11 @@
-~~Title:kāśiḥ~~
-{{description>Kāśi.}}
+---json
+{
+    "name":"kāśiḥ",
+    "h1":"kāśiḥ",
+    "title":"kāśiḥ --- synonyms, prabhupada.io",
+    "description":"Kāśi."
+}
+---
 
 ==== kāśiḥ  ====
   * Kāśi --- [[books:sb:9:17:4|SB 9.17.4]]

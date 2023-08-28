@@ -1,5 +1,11 @@
-~~Title:rahiba~~
-{{description>I shall stay; shall stay.}}
+---json
+{
+    "name":"rahiba",
+    "h1":"rahiba",
+    "title":"rahiba --- synonyms, prabhupada.io",
+    "description":"I shall stay; shall stay."
+}
+---
 
 ==== rahiba  ====
   * I shall stay --- [[books:cc:madhya:19:251|Madhya 19.251]]

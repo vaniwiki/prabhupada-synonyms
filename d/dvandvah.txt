@@ -1,5 +1,11 @@
-~~Title:dvandvaḥ~~
-{{description>dual.}}
+---json
+{
+    "name":"dvandvaḥ",
+    "h1":"dvandvaḥ",
+    "title":"dvandvaḥ --- synonyms, prabhupada.io",
+    "description":"dual."
+}
+---
 
 ==== dvandvaḥ  ====
   * dual --- [[books:bg:10:33|Bg. 10.33]]

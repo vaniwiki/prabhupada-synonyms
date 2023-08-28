@@ -1,5 +1,11 @@
-~~Title:tṛp~~
-{{description>of one who is satisfied.}}
+---json
+{
+    "name":"tṛp",
+    "h1":"tṛp",
+    "title":"tṛp --- synonyms, prabhupada.io",
+    "description":"of one who is satisfied."
+}
+---
 
 ==== tṛp-tasya  ====
   * of one who is satisfied --- [[books:cc:madhya:25:146|Madhya 25.146]]

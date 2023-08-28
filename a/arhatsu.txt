@@ -1,5 +1,11 @@
-~~Title:arhatsu~~
-{{description>of all those who are worshipable; the most venerable and worshipable personalities.}}
+---json
+{
+    "name":"arhatsu",
+    "h1":"arhatsu",
+    "title":"arhatsu --- synonyms, prabhupada.io",
+    "description":"of all those who are worshipable; the most venerable and worshipable personalities."
+}
+---
 
 ==== arhatsu  ====
   * of all those who are worshipable --- [[books:sb:4:21:14|SB 4.21.14]]

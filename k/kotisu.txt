@@ -1,5 +1,11 @@
-~~Title:kotisu~~
-{{description>among many millions; out of millions and trillions.}}
+---json
+{
+    "name":"kotisu",
+    "h1":"kotisu",
+    "title":"kotisu --- synonyms, prabhupada.io",
+    "description":"among many millions; out of millions and trillions."
+}
+---
 
 ==== koṭiṣu  ====
   * among many millions --- [[books:cc:madhya:19:150|Madhya 19.150]], [[books:cc:madhya:25:83|Madhya 25.83]]

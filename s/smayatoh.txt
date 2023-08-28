@@ -1,5 +1,11 @@
-~~Title:smayatoḥ~~
-{{description>were smiling.}}
+---json
+{
+    "name":"smayatoḥ",
+    "h1":"smayatoḥ",
+    "title":"smayatoḥ --- synonyms, prabhupada.io",
+    "description":"were smiling."
+}
+---
 
 ==== smayatoḥ  ====
   * were smiling --- [[books:sb:6:17:25|SB 6.17.25]]

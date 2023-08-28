@@ -1,5 +1,11 @@
-~~Title:kṣīrikā~~
-{{description>kṣīrikā fruit.}}
+---json
+{
+    "name":"kṣīrikā",
+    "h1":"kṣīrikā",
+    "title":"kṣīrikā --- synonyms, prabhupada.io",
+    "description":"kṣīrikā fruit."
+}
+---
 
 ==== kṣīrikā  ====
   * //kṣīrikā// fruit --- [[books:cc:antya:18:105|Antya 18.105]]

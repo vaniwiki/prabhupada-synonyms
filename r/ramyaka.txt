@@ -1,5 +1,11 @@
-~~Title:ramyaka~~
-{{description>Ramyaka.}}
+---json
+{
+    "name":"ramyaka",
+    "h1":"ramyaka",
+    "title":"ramyaka --- synonyms, prabhupada.io",
+    "description":"Ramyaka."
+}
+---
 
 ==== ramyaka  ====
   * Ramyaka --- [[books:sb:5:2:19|SB 5.2.19]], [[books:sb:5:16:8|SB 5.16.8]]

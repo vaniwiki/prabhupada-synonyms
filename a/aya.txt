@@ -1,5 +1,11 @@
-~~Title:āya~~
-{{description>coming; he can come back; please come.}}
+---json
+{
+    "name":"āya",
+    "h1":"āya",
+    "title":"āya --- synonyms, prabhupada.io",
+    "description":"coming; he can come back; please come."
+}
+---
 
 ==== āya  ====
   * coming --- [[books:cc:adi:5:232|Ādi 5.232]]

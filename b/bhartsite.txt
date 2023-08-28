@@ -1,5 +1,11 @@
-~~Title:bhartsite~~
-{{description>when I chastised.}}
+---json
+{
+    "name":"bhartsite",
+    "h1":"bhartsite",
+    "title":"bhartsite --- synonyms, prabhupada.io",
+    "description":"when I chastised."
+}
+---
 
 ==== bhartsite  ====
   * when I chastised --- [[books:sb:4:28:19|SB 4.28.19]]

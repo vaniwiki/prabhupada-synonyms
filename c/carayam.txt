@@ -1,5 +1,11 @@
-~~Title:cārayām~~
-{{description>tended.}}
+---json
+{
+    "name":"cārayām",
+    "h1":"cārayām",
+    "title":"cārayām --- synonyms, prabhupada.io",
+    "description":"tended."
+}
+---
 
 ==== cārayām āsatuḥ  ====
   * tended --- [[books:sb:10:11:38|SB 10.11.38]]

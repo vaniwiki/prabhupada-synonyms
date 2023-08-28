@@ -1,5 +1,11 @@
-~~Title:pūjyam~~
-{{description>the worshipable.}}
+---json
+{
+    "name":"pūjyam",
+    "h1":"pūjyam",
+    "title":"pūjyam --- synonyms, prabhupada.io",
+    "description":"the worshipable."
+}
+---
 
 ==== pūjyam  ====
   * the worshipable --- [[books:sb:1:7:46|SB 1.7.46]]

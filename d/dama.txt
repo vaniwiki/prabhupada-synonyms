@@ -1,5 +1,11 @@
-~~Title:dama~~
-{{description>control of the senses.}}
+---json
+{
+    "name":"dama",
+    "h1":"dama",
+    "title":"dama --- synonyms, prabhupada.io",
+    "description":"control of the senses."
+}
+---
 
 ==== dama  ====
   * control of the senses --- [[books:sb:5:9:1-2|SB 5.9.1-2]]

@@ -1,5 +1,11 @@
-~~Title:bhavadīyena~~
-{{description>of your good self.}}
+---json
+{
+    "name":"bhavadīyena",
+    "h1":"bhavadīyena",
+    "title":"bhavadīyena --- synonyms, prabhupada.io",
+    "description":"of your good self."
+}
+---
 
 ==== bhavadīyena  ====
   * of your good self --- [[books:sb:9:18:39|SB 9.18.39]]

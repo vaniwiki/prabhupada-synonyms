@@ -1,5 +1,11 @@
-~~Title:paricchedera~~
-{{description>of every chapter.}}
+---json
+{
+    "name":"paricchedera",
+    "h1":"paricchedera",
+    "title":"paricchedera --- synonyms, prabhupada.io",
+    "description":"of every chapter."
+}
+---
 
 ==== eka eka paricchedera  ====
   * of every chapter --- [[books:cc:antya:20:141|Antya 20.141]]

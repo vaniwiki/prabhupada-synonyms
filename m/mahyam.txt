@@ -1,5 +1,11 @@
-~~Title:mahyam~~
-{{description>for me; in my; me; My; of me; of mine; to me; unto me; unto Me also; upon me.}}
+---json
+{
+    "name":"mahyam",
+    "h1":"mahyam",
+    "title":"mahyam --- synonyms, prabhupada.io",
+    "description":"for me; in my; me; My; of me; of mine; to me; unto me; unto Me also; upon me."
+}
+---
 
 ==== mahyam  ====
   * for me --- [[books:sb:3:23:51|SB 3.23.51]]

@@ -1,5 +1,11 @@
-~~Title:totre~~
-{{description>with a whip in the right hand.}}
+---json
+{
+    "name":"totre",
+    "h1":"totre",
+    "title":"totre --- synonyms, prabhupada.io",
+    "description":"with a whip in the right hand."
+}
+---
 
 ==== ātta-totre  ====
   * with a whip in the right hand --- [[books:sb:1:9:39|SB 1.9.39]]

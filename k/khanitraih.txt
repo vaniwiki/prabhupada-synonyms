@@ -1,5 +1,11 @@
-~~Title:khanitraiḥ~~
-{{description>with digging instruments.}}
+---json
+{
+    "name":"khanitraiḥ",
+    "h1":"khanitraiḥ",
+    "title":"khanitraiḥ --- synonyms, prabhupada.io",
+    "description":"with digging instruments."
+}
+---
 
 ==== khanitraiḥ  ====
   * with digging instruments --- [[books:sb:7:2:15|SB 7.2.15]]

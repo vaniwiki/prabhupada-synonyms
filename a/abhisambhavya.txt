@@ -1,5 +1,11 @@
-~~Title:abhisambhāvya~~
-{{description>treating with great respect.}}
+---json
+{
+    "name":"abhisambhāvya",
+    "h1":"abhisambhāvya",
+    "title":"abhisambhāvya --- synonyms, prabhupada.io",
+    "description":"treating with great respect."
+}
+---
 
 ==== abhisambhāvya  ====
   * treating with great respect --- [[books:sb:3:20:33|SB 3.20.33]]

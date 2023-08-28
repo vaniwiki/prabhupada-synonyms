@@ -1,5 +1,11 @@
-~~Title:vibhāvya~~
-{{description>observing.}}
+---json
+{
+    "name":"vibhāvya",
+    "h1":"vibhāvya",
+    "title":"vibhāvya --- synonyms, prabhupada.io",
+    "description":"observing."
+}
+---
 
 ==== vibhāvya  ====
   * observing --- [[books:sb:1:15:37|SB 1.15.37]]

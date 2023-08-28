@@ -1,5 +1,11 @@
-~~Title:nāḍībhiḥ~~
-{{description>by the pipe.}}
+---json
+{
+    "name":"nāḍībhiḥ",
+    "h1":"nāḍībhiḥ",
+    "title":"nāḍībhiḥ --- synonyms, prabhupada.io",
+    "description":"by the pipe."
+}
+---
 
 ==== nāḍībhiḥ  ====
   * by the pipe --- [[books:sb:3:8:19|SB 3.8.19]]

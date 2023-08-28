@@ -1,5 +1,11 @@
-~~Title:śāpena~~
-{{description>with the curse.}}
+---json
+{
+    "name":"śāpena",
+    "h1":"śāpena",
+    "title":"śāpena --- synonyms, prabhupada.io",
+    "description":"with the curse."
+}
+---
 
 ==== śāpena  ====
   * with the curse --- [[books:sb:8:5:15-16|SB 8.5.15-16]]

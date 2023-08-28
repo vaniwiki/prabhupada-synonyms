@@ -1,5 +1,11 @@
-~~Title:avadatah~~
-{{description>completely pure; fully pure.}}
+---json
+{
+    "name":"avadatah",
+    "h1":"avadatah",
+    "title":"avadatah --- synonyms, prabhupada.io",
+    "description":"completely pure; fully pure."
+}
+---
 
 ==== avadātaḥ  ====
   * completely pure --- [[books:sb:5:1:23|SB 5.1.23]]

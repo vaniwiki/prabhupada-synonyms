@@ -1,5 +1,11 @@
-~~Title:yajanam~~
-{{description>sacrifice.}}
+---json
+{
+    "name":"yajanam",
+    "h1":"yajanam",
+    "title":"yajanam --- synonyms, prabhupada.io",
+    "description":"sacrifice."
+}
+---
 
 ==== yajanam  ====
   * sacrifice --- [[books:sb:4:4:6|SB 4.4.6]]

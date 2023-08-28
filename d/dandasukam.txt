@@ -1,5 +1,11 @@
-~~Title:dandaśūkam~~
-{{description>the snake (Vāsuki).}}
+---json
+{
+    "name":"dandaśūkam",
+    "h1":"dandaśūkam",
+    "title":"dandaśūkam --- synonyms, prabhupada.io",
+    "description":"the snake (Vāsuki)."
+}
+---
 
 ==== dandaśūkam  ====
   * the snake (Vāsuki) --- [[books:sb:8:7:17|SB 8.7.17]]

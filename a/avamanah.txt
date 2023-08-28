@@ -1,5 +1,11 @@
-~~Title:avamānaḥ~~
-{{description>insult.}}
+---json
+{
+    "name":"avamānaḥ",
+    "h1":"avamānaḥ",
+    "title":"avamānaḥ --- synonyms, prabhupada.io",
+    "description":"insult."
+}
+---
 
 ==== avamānaḥ  ====
   * insult --- [[books:sb:7:15:43-44|SB 7.15.43-44]]

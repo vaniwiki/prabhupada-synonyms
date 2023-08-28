@@ -1,5 +1,11 @@
-~~Title:phalānām~~
-{{description>of the fruits.}}
+---json
+{
+    "name":"phalānām",
+    "h1":"phalānām",
+    "title":"phalānām --- synonyms, prabhupada.io",
+    "description":"of the fruits."
+}
+---
 
 ==== phalānām  ====
   * of the fruits --- [[books:sb:7:7:18|SB 7.7.18]]

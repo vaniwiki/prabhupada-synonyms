@@ -1,5 +1,11 @@
-~~Title:arheṇa~~
-{{description>precious; very costly.}}
+---json
+{
+    "name":"arheṇa",
+    "h1":"arheṇa",
+    "title":"arheṇa --- synonyms, prabhupada.io",
+    "description":"precious; very costly."
+}
+---
 
 ==== mahā-arheṇa  ====
   * precious --- [[books:sb:3:23:32|SB 3.23.32]]

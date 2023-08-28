@@ -1,5 +1,11 @@
-~~Title:prahutam~~
-{{description>a ceremony called Baliharaṇa; food offered after ritualistic ceremonies are properly performed.}}
+---json
+{
+    "name":"prahutam",
+    "h1":"prahutam",
+    "title":"prahutam --- synonyms, prabhupada.io",
+    "description":"a ceremony called Baliharaṇa; food offered after ritualistic ceremonies are properly performed."
+}
+---
 
 ==== prahutam  ====
   * a ceremony called Baliharaṇa --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

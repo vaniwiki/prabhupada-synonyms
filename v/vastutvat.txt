@@ -1,5 +1,11 @@
-~~Title:vastutvāt~~
-{{description>being like that.}}
+---json
+{
+    "name":"vastutvāt",
+    "h1":"vastutvāt",
+    "title":"vastutvāt --- synonyms, prabhupada.io",
+    "description":"being like that."
+}
+---
 
 ==== vastutvāt  ====
   * being like that --- [[books:sb:1:3:32|SB 1.3.32]]

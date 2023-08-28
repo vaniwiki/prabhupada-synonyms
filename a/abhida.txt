@@ -1,5 +1,11 @@
-~~Title:abhidā~~
-{{description>incessantly thinking of such activities.}}
+---json
+{
+    "name":"abhidā",
+    "h1":"abhidā",
+    "title":"abhidā --- synonyms, prabhupada.io",
+    "description":"incessantly thinking of such activities."
+}
+---
 
 ==== abhidā  ====
   * incessantly thinking of such activities --- [[books:sb:7:10:40|SB 7.10.40]]

@@ -1,5 +1,11 @@
-~~Title:naṅkṣet~~
-{{description>becomes vanquished.}}
+---json
+{
+    "name":"naṅkṣet",
+    "h1":"naṅkṣet",
+    "title":"naṅkṣet --- synonyms, prabhupada.io",
+    "description":"becomes vanquished."
+}
+---
 
 ==== naṅkṣet  ====
   * becomes vanquished --- [[books:sb:4:29:2b|SB 4.29.2b]]

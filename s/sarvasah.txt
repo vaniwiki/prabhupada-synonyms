@@ -1,5 +1,11 @@
-~~Title:sarvaśaḥ~~
-{{description>all; all around; all kinds of; all of them; all professions or occupational duties; altogether; everywhere; in all respects; on all sides.}}
+---json
+{
+    "name":"sarvaśaḥ",
+    "h1":"sarvaśaḥ",
+    "title":"sarvaśaḥ --- synonyms, prabhupada.io",
+    "description":"all; all around; all kinds of; all of them; all professions or occupational duties; altogether; everywhere; in all respects; on all sides."
+}
+---
 
 ==== sarvaśaḥ  ====
   * all --- [[books:bg:1:16-18|Bg. 1.16-18]], [[books:sb:5:20:45|SB 5.20.45]]

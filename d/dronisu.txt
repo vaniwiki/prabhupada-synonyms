@@ -1,5 +1,11 @@
-~~Title:droṇīṣu~~
-{{description>in the valleys.}}
+---json
+{
+    "name":"droṇīṣu",
+    "h1":"droṇīṣu",
+    "title":"droṇīṣu --- synonyms, prabhupada.io",
+    "description":"in the valleys."
+}
+---
 
 ==== droṇīṣu  ====
   * in the valleys --- [[books:sb:3:23:39|SB 3.23.39]]

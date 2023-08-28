@@ -1,5 +1,11 @@
-~~Title:nyāye~~
-{{description>when there is a logical argument between the spiritual master and the disciple.}}
+---json
+{
+    "name":"nyāye",
+    "h1":"nyāye",
+    "title":"nyāye --- synonyms, prabhupada.io",
+    "description":"when there is a logical argument between the spiritual master and the disciple."
+}
+---
 
 ==== guru-śiṣya-nyāye  ====
   * when there is a logical argument between the spiritual master and the disciple --- [[books:cc:madhya:10:173|Madhya 10.173]]

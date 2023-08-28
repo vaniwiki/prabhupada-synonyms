@@ -1,5 +1,11 @@
-~~Title:avaham~~
-{{description>causing fear to the kings who had no respect for brahminical culture.}}
+---json
+{
+    "name":"avaham",
+    "h1":"avaham",
+    "title":"avaham --- synonyms, prabhupada.io",
+    "description":"causing fear to the kings who had no respect for brahminical culture."
+}
+---
 
 ==== abrahmaṇya-bhaya-āvahām  ====
   * causing fear to the kings who had no respect for brahminical culture --- [[books:sb:9:16:18-19|SB 9.16.18-19]]

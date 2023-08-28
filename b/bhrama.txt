@@ -1,5 +1,11 @@
-~~Title:bhrama~~
-{{description>doubt; interaction; mistake; mistakes; suspicion.}}
+---json
+{
+    "name":"bhrama",
+    "h1":"bhrama",
+    "title":"bhrama --- synonyms, prabhupada.io",
+    "description":"doubt; interaction; mistake; mistakes; suspicion."
+}
+---
 
 ==== bhrama  ====
   * doubt --- [[books:cc:adi:16:11|Ādi 16.11]]

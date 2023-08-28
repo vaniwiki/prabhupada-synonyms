@@ -1,5 +1,11 @@
-~~Title:vireje~~
-{{description>appeared; beautified.}}
+---json
+{
+    "name":"vireje",
+    "h1":"vireje",
+    "title":"vireje --- synonyms, prabhupada.io",
+    "description":"appeared; beautified."
+}
+---
 
 ==== vireje  ====
   * appeared --- [[books:sb:4:15:13|SB 4.15.13]]

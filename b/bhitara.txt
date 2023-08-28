@@ -1,5 +1,11 @@
-~~Title:bhitara~~
-{{description>inside; within.}}
+---json
+{
+    "name":"bhitara",
+    "h1":"bhitara",
+    "title":"bhitara --- synonyms, prabhupada.io",
+    "description":"inside; within."
+}
+---
 
 ==== bhitara  ====
   * inside --- [[books:cc:madhya:12:136|Madhya 12.136]]

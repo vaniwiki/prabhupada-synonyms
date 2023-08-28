@@ -1,5 +1,11 @@
-~~Title:konpathe~~
-{{description>in which way.}}
+---json
+{
+    "name":"konpathe",
+    "h1":"konpathe",
+    "title":"konpathe --- synonyms, prabhupada.io",
+    "description":"in which way."
+}
+---
 
 ==== konpathe  ====
   * in which way --- [[books:cc:madhya:3:18-19|Madhya 3.18-19]]

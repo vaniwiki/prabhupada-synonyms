@@ -1,5 +1,11 @@
-~~Title:uṭhe~~
-{{description>arise; arises; arose; awaken; awakens; gets up; got up; he arose; is awakening; rise; rise up; rises; sometimes stands; stands; stands up; stood up; there arises.}}
+---json
+{
+    "name":"uṭhe",
+    "h1":"uṭhe",
+    "title":"uṭhe --- synonyms, prabhupada.io",
+    "description":"arise; arises; arose; awaken; awakens; gets up; got up; he arose; is awakening; rise; rise up; rises; sometimes stands; stands; stands up; stood up; there arises."
+}
+---
 
 ==== uṭhe  ====
   * arise --- [[books:cc:adi:4:106|Ādi 4.106]], [[books:cc:madhya:19:158|Madhya 19.158]]

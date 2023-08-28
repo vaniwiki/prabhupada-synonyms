@@ -1,5 +1,11 @@
-~~Title:niryoga~~
-{{description>free from (the thought of) acquisition and preservation.}}
+---json
+{
+    "name":"niryoga",
+    "h1":"niryoga",
+    "title":"niryoga --- synonyms, prabhupada.io",
+    "description":"free from (the thought of) acquisition and preservation."
+}
+---
 
 ==== niryoga-kṣemaḥ  ====
   * free from (the thought of) acquisition and preservation --- [[books:bg:2:45|Bg. 2.45]]

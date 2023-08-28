@@ -1,5 +1,11 @@
-~~Title:arkavat~~
-{{description>exactly like the sun; like the sun.}}
+---json
+{
+    "name":"arkavat",
+    "h1":"arkavat",
+    "title":"arkavat --- synonyms, prabhupada.io",
+    "description":"exactly like the sun; like the sun."
+}
+---
 
 ==== arkavat  ====
   * exactly like the sun --- [[books:sb:5:22:12|SB 5.22.12]]

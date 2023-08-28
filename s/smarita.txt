@@ -1,5 +1,11 @@
-~~Title:smārita~~
-{{description>remembrance.}}
+---json
+{
+    "name":"smārita",
+    "h1":"smārita",
+    "title":"smārita --- synonyms, prabhupada.io",
+    "description":"remembrance."
+}
+---
 
 ==== smārita  ====
   * remembrance --- [[books:sb:3:2:1|SB 3.2.1]]

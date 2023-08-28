@@ -1,5 +1,11 @@
-~~Title:nandanam~~
-{{description>of the Nandana garden.}}
+---json
+{
+    "name":"nandanam",
+    "h1":"nandanam",
+    "title":"nandanam --- synonyms, prabhupada.io",
+    "description":"of the Nandana garden."
+}
+---
 
 ==== nandanam  ====
   * of the Nandana garden --- [[books:sb:5:16:13-14|SB 5.16.13-14]]

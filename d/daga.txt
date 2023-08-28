@@ -1,5 +1,11 @@
-~~Title:dāga~~
-{{description>mark.}}
+---json
+{
+    "name":"dāga",
+    "h1":"dāga",
+    "title":"dāga --- synonyms, prabhupada.io",
+    "description":"mark."
+}
+---
 
 ==== dāga  ====
   * mark --- [[books:cc:adi:4:170|Ādi 4.170]]

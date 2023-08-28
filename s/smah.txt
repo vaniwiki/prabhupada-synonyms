@@ -1,5 +1,11 @@
-~~Title:smaḥ~~
-{{description>we are.}}
+---json
+{
+    "name":"smaḥ",
+    "h1":"smaḥ",
+    "title":"smaḥ --- synonyms, prabhupada.io",
+    "description":"we are."
+}
+---
 
 ==== smaḥ  ====
   * we are --- [[books:sb:7:8:45|SB 7.8.45]]

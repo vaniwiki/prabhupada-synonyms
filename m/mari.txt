@@ -1,5 +1,11 @@
-~~Title:mari~~
-{{description>I can die any time; I die; we die.}}
+---json
+{
+    "name":"mari",
+    "h1":"mari",
+    "title":"mari --- synonyms, prabhupada.io",
+    "description":"I can die any time; I die; we die."
+}
+---
 
 ==== mari  ====
   * I can die any time --- [[books:cc:antya:20:94|Antya 20.94]]

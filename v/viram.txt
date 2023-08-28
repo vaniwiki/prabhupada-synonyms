@@ -1,5 +1,11 @@
-~~Title:vīram~~
-{{description>the great hero; the hero; the King (Śaryāti); Yayāti.}}
+---json
+{
+    "name":"vīram",
+    "h1":"vīram",
+    "title":"vīram --- synonyms, prabhupada.io",
+    "description":"the great hero; the hero; the King (Śaryāti); Yayāti."
+}
+---
 
 ==== vīram  ====
   * the great hero --- [[books:sb:3:17:31|SB 3.17.31]]

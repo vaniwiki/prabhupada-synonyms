@@ -1,5 +1,11 @@
-~~Title:variṣaya~~
-{{description>poured.}}
+---json
+{
+    "name":"variṣaya",
+    "h1":"variṣaya",
+    "title":"variṣaya --- synonyms, prabhupada.io",
+    "description":"poured."
+}
+---
 
 ==== variṣaya  ====
   * poured --- [[books:cc:madhya:16:120|Madhya 16.120]]

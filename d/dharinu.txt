@@ -1,5 +1,11 @@
-~~Title:dharinu~~
-{{description>I caught.}}
+---json
+{
+    "name":"dharinu",
+    "h1":"dharinu",
+    "title":"dharinu --- synonyms, prabhupada.io",
+    "description":"I caught."
+}
+---
 
 ==== dharinu  ====
   * I caught --- [[books:cc:madhya:5:149|Madhya 5.149]]

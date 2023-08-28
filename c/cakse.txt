@@ -1,5 +1,11 @@
-~~Title:cakṣe~~
-{{description>in the eyes.}}
+---json
+{
+    "name":"cakṣe",
+    "h1":"cakṣe",
+    "title":"cakṣe --- synonyms, prabhupada.io",
+    "description":"in the eyes."
+}
+---
 
 ==== cakṣe  ====
   * in the eyes --- [[books:cc:adi:17:219|Ādi 17.219]]

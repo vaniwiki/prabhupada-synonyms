@@ -1,5 +1,11 @@
-~~Title:edhasaḥ~~
-{{description>from fuel wood.}}
+---json
+{
+    "name":"edhasaḥ",
+    "h1":"edhasaḥ",
+    "title":"edhasaḥ --- synonyms, prabhupada.io",
+    "description":"from fuel wood."
+}
+---
 
 ==== edhasaḥ  ====
   * from fuel wood --- [[books:sb:7:3:23|SB 7.3.23]]

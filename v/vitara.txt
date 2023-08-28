@@ -1,5 +1,11 @@
-~~Title:vitara~~
-{{description>please deliver.}}
+---json
+{
+    "name":"vitara",
+    "h1":"vitara",
+    "title":"vitara --- synonyms, prabhupada.io",
+    "description":"please deliver."
+}
+---
 
 ==== vitara  ====
   * please deliver --- [[books:cc:antya:16:117|Antya 16.117]]

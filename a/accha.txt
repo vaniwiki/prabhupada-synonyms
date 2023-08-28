@@ -1,5 +1,11 @@
-~~Title:accha~~
-{{description>the very soft and clean sandy bank.}}
+---json
+{
+    "name":"accha",
+    "h1":"accha",
+    "title":"accha --- synonyms, prabhupada.io",
+    "description":"the very soft and clean sandy bank."
+}
+---
 
 ==== mṛdula-accha-bālukam  ====
   * the very soft and clean sandy bank --- [[books:sb:10:13:5|SB 10.13.5]]

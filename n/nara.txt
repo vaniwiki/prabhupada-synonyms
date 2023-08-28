@@ -1,5 +1,11 @@
-~~Title:nara~~
-{{description>human being; of Nara; the human beings; the inhabitants of the earthly planets.}}
+---json
+{
+    "name":"nara",
+    "h1":"nara",
+    "title":"nara --- synonyms, prabhupada.io",
+    "description":"human being; of Nara; the human beings; the inhabitants of the earthly planets."
+}
+---
 
 ==== nara  ====
   * human being --- [[books:sb:1:3:22|SB 1.3.22]]

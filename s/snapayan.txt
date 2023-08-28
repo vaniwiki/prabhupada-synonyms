@@ -1,5 +1,11 @@
-~~Title:snapayan~~
-{{description>bathing thoroughly.}}
+---json
+{
+    "name":"snapayan",
+    "h1":"snapayan",
+    "title":"snapayan --- synonyms, prabhupada.io",
+    "description":"bathing thoroughly."
+}
+---
 
 ==== snapayan  ====
   * bathing thoroughly --- [[books:sb:8:2:25|SB 8.2.25]]

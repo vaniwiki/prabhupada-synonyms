@@ -1,5 +1,11 @@
-~~Title:svanān~~
-{{description>transcendental sounds auspicious for everyone.}}
+---json
+{
+    "name":"svanān",
+    "h1":"svanān",
+    "title":"svanān --- synonyms, prabhupada.io",
+    "description":"transcendental sounds auspicious for everyone."
+}
+---
 
 ==== maṅgala-svanān  ====
   * transcendental sounds auspicious for everyone --- [[books:sb:10:12:35|SB 10.12.35]]

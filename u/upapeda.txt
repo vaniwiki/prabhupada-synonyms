@@ -1,5 +1,11 @@
-~~Title:upapeda~~
-{{description>received.}}
+---json
+{
+    "name":"upapeda",
+    "h1":"upapeda",
+    "title":"upapeda --- synonyms, prabhupada.io",
+    "description":"received."
+}
+---
 
 ==== upapeda  ====
   * received --- [[books:sb:1:9:41|SB 1.9.41]]

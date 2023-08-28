@@ -1,5 +1,11 @@
-~~Title:viyunakti~~
-{{description>disperses.}}
+---json
+{
+    "name":"viyunakti",
+    "h1":"viyunakti",
+    "title":"viyunakti --- synonyms, prabhupada.io",
+    "description":"disperses."
+}
+---
 
 ==== viyunakti  ====
   * disperses --- [[books:sb:1:13:41|SB 1.13.41]]

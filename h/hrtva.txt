@@ -1,5 +1,11 @@
-~~Title:hṛtvā~~
-{{description>stealing; taking away by force.}}
+---json
+{
+    "name":"hṛtvā",
+    "h1":"hṛtvā",
+    "title":"hṛtvā --- synonyms, prabhupada.io",
+    "description":"stealing; taking away by force."
+}
+---
 
 ==== hṛtvā  ====
   * stealing --- [[books:cc:adi:4:52|Ādi 4.52]], [[books:cc:adi:4:275|Ādi 4.275]]

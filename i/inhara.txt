@@ -1,5 +1,11 @@
-~~Title:inhara~~
-{{description>His.}}
+---json
+{
+    "name":"inhara",
+    "h1":"inhara",
+    "title":"inhara --- synonyms, prabhupada.io",
+    "description":"His."
+}
+---
 
 ==== iṅhara  ====
   * His --- [[books:cc:madhya:6:90|Madhya 6.90]]

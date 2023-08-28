@@ -1,5 +1,11 @@
-~~Title:andha~~
-{{description>a blind man; blind; blinded.}}
+---json
+{
+    "name":"andha",
+    "h1":"andha",
+    "title":"andha --- synonyms, prabhupada.io",
+    "description":"a blind man; blind; blinded."
+}
+---
 
 ==== andha  ====
   * a blind man --- [[books:cc:madhya:10:122|Madhya 10.122]]

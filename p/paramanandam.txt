@@ -1,5 +1,11 @@
-~~Title:paramānandam~~
-{{description>the personality of bliss.}}
+---json
+{
+    "name":"paramānandam",
+    "h1":"paramānandam",
+    "title":"paramānandam --- synonyms, prabhupada.io",
+    "description":"the personality of bliss."
+}
+---
 
 ==== paramānandam  ====
   * the personality of bliss --- [[books:cc:antya:1:166|Antya 1.166]]

@@ -1,5 +1,11 @@
-~~Title:anagha~~
-{{description>freed from all vices; O faultless Vidura; O most sinless personality (Prahlāda Mahārāja); O personality of transcendental goodness; O pure one; O sinless Mahārāja Parīkṣit; O sinless one; O sinless Vidura; O spotless one; O spotless Vidura; O supreme pure; O virtuous one; O you who are free from sinful activities; spotless; without any contamination; without any sins; without being tired.}}
+---json
+{
+    "name":"anagha",
+    "h1":"anagha",
+    "title":"anagha --- synonyms, prabhupada.io",
+    "description":"freed from all vices; O faultless Vidura; O most sinless personality (Prahlāda Mahārāja); O personality of transcendental goodness; O pure one; O sinless Mahārāja Parīkṣit; O sinless one; O sinless Vidura; O spotless one; O spotless Vidura; O supreme pure; O virtuous one; O you who are free from sinful activities; spotless; without any contamination; without any sins; without being tired."
+}
+---
 
 ==== anagha  ====
   * freed from all vices --- [[books:sb:1:1:6|SB 1.1.6]]

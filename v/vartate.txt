@@ -1,5 +1,11 @@
-~~Title:vartate~~
-{{description>exists; happens; is; is existing; is now staying; is situated; is there; remain; remains; the sun exists; there is.}}
+---json
+{
+    "name":"vartate",
+    "h1":"vartate",
+    "title":"vartate --- synonyms, prabhupada.io",
+    "description":"exists; happens; is; is existing; is now staying; is situated; is there; remain; remains; the sun exists; there is."
+}
+---
 
 ==== vartate  ====
   * exists --- [[books:sb:1:18:8|SB 1.18.8]], [[books:sb:5:17:12|SB 5.17.12]], [[books:sb:5:20:6|SB 5.20.6]], [[books:sb:6:3:8|SB 6.3.8]], [[books:cc:madhya:6:156|Madhya 6.156]], [[books:cc:madhya:20:115|Madhya 20.115]]

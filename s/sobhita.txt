@@ -1,5 +1,11 @@
-~~Title:śobhita~~
-{{description>beautiful.}}
+---json
+{
+    "name":"śobhita",
+    "h1":"śobhita",
+    "title":"śobhita --- synonyms, prabhupada.io",
+    "description":"beautiful."
+}
+---
 
 ==== śobhita  ====
   * beautiful --- [[books:sb:3:25:12|SB 3.25.12]]

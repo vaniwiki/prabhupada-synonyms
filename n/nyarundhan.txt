@@ -1,5 +1,11 @@
-~~Title:nyarundhan~~
-{{description>checking with great difficulty.}}
+---json
+{
+    "name":"nyarundhan",
+    "h1":"nyarundhan",
+    "title":"nyarundhan --- synonyms, prabhupada.io",
+    "description":"checking with great difficulty."
+}
+---
 
 ==== nyarundhan  ====
   * checking with great difficulty --- [[books:sb:1:10:14|SB 1.10.14]]

@@ -1,5 +1,11 @@
-~~Title:mathitvā~~
-{{description>by discerning.}}
+---json
+{
+    "name":"mathitvā",
+    "h1":"mathitvā",
+    "title":"mathitvā --- synonyms, prabhupada.io",
+    "description":"by discerning."
+}
+---
 
 ==== mathitvā  ====
   * by discerning --- [[books:sb:7:1:9|SB 7.1.9]]

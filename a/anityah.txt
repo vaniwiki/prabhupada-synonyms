@@ -1,5 +1,11 @@
-~~Title:anityah~~
-{{description>temporary.}}
+---json
+{
+    "name":"anityah",
+    "h1":"anityah",
+    "title":"anityah --- synonyms, prabhupada.io",
+    "description":"temporary."
+}
+---
 
 ==== anityaḥ  ====
   * temporary --- [[books:sb:6:16:7|SB 6.16.7]]

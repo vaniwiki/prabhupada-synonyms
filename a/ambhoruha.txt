@@ -1,5 +1,11 @@
-~~Title:ambhoruha~~
-{{description>of a lotus flower.}}
+---json
+{
+    "name":"ambhoruha",
+    "h1":"ambhoruha",
+    "title":"ambhoruha --- synonyms, prabhupada.io",
+    "description":"of a lotus flower."
+}
+---
 
 ==== ambhoruha  ====
   * of a lotus flower --- [[books:sb:10:13:8|SB 10.13.8]]

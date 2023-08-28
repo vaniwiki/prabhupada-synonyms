@@ -1,5 +1,11 @@
-~~Title:loṣṭra~~
-{{description>pebbles.}}
+---json
+{
+    "name":"loṣṭra",
+    "h1":"loṣṭra",
+    "title":"loṣṭra --- synonyms, prabhupada.io",
+    "description":"pebbles."
+}
+---
 
 ==== loṣṭra  ====
   * pebbles --- [[books:bg:6:8|Bg. 6.8]], [[books:cc:antya:4:178|Antya 4.178]]

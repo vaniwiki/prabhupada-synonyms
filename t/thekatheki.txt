@@ -1,5 +1,11 @@
-~~Title:ṭhekāṭheki~~
-{{description>collision.}}
+---json
+{
+    "name":"ṭhekāṭheki",
+    "h1":"ṭhekāṭheki",
+    "title":"ṭhekāṭheki --- synonyms, prabhupada.io",
+    "description":"collision."
+}
+---
 
 ==== ṭhekāṭheki  ====
   * collision --- [[books:cc:madhya:21:95|Madhya 21.95]]

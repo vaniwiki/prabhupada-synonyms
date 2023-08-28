@@ -1,5 +1,11 @@
-~~Title:jarad~~
-{{description>old cows; old, invalid cows.}}
+---json
+{
+    "name":"jarad",
+    "h1":"jarad",
+    "title":"jarad --- synonyms, prabhupada.io",
+    "description":"old cows; old, invalid cows."
+}
+---
 
 ==== jarad-gava  ====
   * old cows --- [[books:cc:adi:17:161|Ādi 17.161]]

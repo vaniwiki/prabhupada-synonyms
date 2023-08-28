@@ -1,5 +1,11 @@
-~~Title:tṛtīye~~
-{{description>for the third time; in the Third Chapter; on the third year; third.}}
+---json
+{
+    "name":"tṛtīye",
+    "h1":"tṛtīye",
+    "title":"tṛtīye --- synonyms, prabhupada.io",
+    "description":"for the third time; in the Third Chapter; on the third year; third."
+}
+---
 
 ==== tṛtīye  ====
   * for the third time --- [[books:sb:10:3:43|SB 10.3.43]]

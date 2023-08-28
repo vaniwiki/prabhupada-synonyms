@@ -1,5 +1,11 @@
-~~Title:bhogavatīm~~
-{{description>the capital of Nāgaloka; the celestial town named Bhogavatī.}}
+---json
+{
+    "name":"bhogavatīm",
+    "h1":"bhogavatīm",
+    "title":"bhogavatīm --- synonyms, prabhupada.io",
+    "description":"the capital of Nāgaloka; the celestial town named Bhogavatī."
+}
+---
 
 ==== bhogavatīm  ====
   * the capital of Nāgaloka --- [[books:sb:1:11:11|SB 1.11.11]]

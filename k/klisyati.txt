@@ -1,5 +1,11 @@
-~~Title:kliśyati~~
-{{description>suffer.}}
+---json
+{
+    "name":"kliśyati",
+    "h1":"kliśyati",
+    "title":"kliśyati --- synonyms, prabhupada.io",
+    "description":"suffer."
+}
+---
 
 ==== kliśyati  ====
   * suffer --- [[books:sb:3:7:17|SB 3.7.17]]

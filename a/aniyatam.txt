@@ -1,5 +1,11 @@
-~~Title:ānīyatām~~
-{{description>bring here; let it be brought.}}
+---json
+{
+    "name":"ānīyatām",
+    "h1":"ānīyatām",
+    "title":"ānīyatām --- synonyms, prabhupada.io",
+    "description":"bring here; let it be brought."
+}
+---
 
 ==== ānīyatām  ====
   * bring here --- [[books:sb:9:6:6|SB 9.6.6]]

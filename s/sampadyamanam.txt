@@ -1,5 +1,11 @@
-~~Title:sampadyamānam~~
-{{description>having merged into.}}
+---json
+{
+    "name":"sampadyamānam",
+    "h1":"sampadyamānam",
+    "title":"sampadyamānam --- synonyms, prabhupada.io",
+    "description":"having merged into."
+}
+---
 
 ==== sampadyamānam  ====
   * having merged into --- [[books:sb:1:9:44|SB 1.9.44]]

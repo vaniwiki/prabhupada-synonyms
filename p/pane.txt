@@ -1,5 +1,11 @@
-~~Title:pāne~~
-{{description>drinking; in drinking; toward; towards.}}
+---json
+{
+    "name":"pāne",
+    "h1":"pāne",
+    "title":"pāne --- synonyms, prabhupada.io",
+    "description":"drinking; in drinking; toward; towards."
+}
+---
 
 ==== pāne  ====
   * drinking --- [[books:cc:madhya:21:132|Madhya 21.132]], [[books:cc:antya:20:151|Antya 20.151]]

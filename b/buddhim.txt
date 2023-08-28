@@ -1,5 +1,11 @@
-~~Title:buddhim~~
-{{description>decision; intelligence; the intelligence.}}
+---json
+{
+    "name":"buddhim",
+    "h1":"buddhim",
+    "title":"buddhim --- synonyms, prabhupada.io",
+    "description":"decision; intelligence; the intelligence."
+}
+---
 
 ==== buddhim  ====
   * decision --- [[books:sb:8:2:31|SB 8.2.31]]

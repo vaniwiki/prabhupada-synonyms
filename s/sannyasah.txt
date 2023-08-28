@@ -1,5 +1,11 @@
-~~Title:sannyāsaḥ~~
-{{description>renunciation; renunciation of work; the renounced order of life.}}
+---json
+{
+    "name":"sannyāsaḥ",
+    "h1":"sannyāsaḥ",
+    "title":"sannyāsaḥ --- synonyms, prabhupada.io",
+    "description":"renunciation; renunciation of work; the renounced order of life."
+}
+---
 
 ==== sannyāsaḥ  ====
   * renunciation --- [[books:bg:18:7|Bg. 18.7]]

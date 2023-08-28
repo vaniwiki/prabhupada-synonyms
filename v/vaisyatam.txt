@@ -1,5 +1,11 @@
-~~Title:vaiśyatām~~
-{{description>the order of the vaiśyas.}}
+---json
+{
+    "name":"vaiśyatām",
+    "h1":"vaiśyatām",
+    "title":"vaiśyatām --- synonyms, prabhupada.io",
+    "description":"the order of the vaiśyas."
+}
+---
 
 ==== vaiśyatām  ====
   * the order of the //vaiśyas// --- [[books:sb:9:2:23-24|SB 9.2.23-24]]

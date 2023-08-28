@@ -1,5 +1,11 @@
-~~Title:dīghi~~
-{{description>to dig a big lake.}}
+---json
+{
+    "name":"dīghi",
+    "h1":"dīghi",
+    "title":"dīghi --- synonyms, prabhupada.io",
+    "description":"to dig a big lake."
+}
+---
 
 ==== dīghi khodāite  ====
   * to dig a big lake --- [[books:cc:madhya:25:188|Madhya 25.188]]

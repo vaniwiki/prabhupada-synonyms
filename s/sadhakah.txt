@@ -1,5 +1,11 @@
-~~Title:sādhakaḥ~~
-{{description>working in the interest.}}
+---json
+{
+    "name":"sādhakaḥ",
+    "h1":"sādhakaḥ",
+    "title":"sādhakaḥ --- synonyms, prabhupada.io",
+    "description":"working in the interest."
+}
+---
 
 ==== kārya-sādhakaḥ  ====
   * working in the interest --- [[books:sb:8:19:30|SB 8.19.30]]

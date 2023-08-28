@@ -1,5 +1,11 @@
-~~Title:nirvrtah~~
-{{description>absorbed in; being detached from the world; full of transcendental bliss; fully in love; in peace.}}
+---json
+{
+    "name":"nirvrtah",
+    "h1":"nirvrtah",
+    "title":"nirvrtah --- synonyms, prabhupada.io",
+    "description":"absorbed in; being detached from the world; full of transcendental bliss; fully in love; in peace."
+}
+---
 
 ==== nirvṛtaḥ  ====
   * absorbed in --- [[books:sb:2:3:12|SB 2.3.12]]

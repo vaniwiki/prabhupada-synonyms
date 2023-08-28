@@ -1,5 +1,11 @@
-~~Title:ālaya~~
-{{description>home; place of residence; temples.}}
+---json
+{
+    "name":"ālaya",
+    "h1":"ālaya",
+    "title":"ālaya --- synonyms, prabhupada.io",
+    "description":"home; place of residence; temples."
+}
+---
 
 ==== ālaya  ====
   * home --- [[books:sb:4:22:11|SB 4.22.11]]

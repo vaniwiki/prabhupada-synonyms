@@ -1,5 +1,11 @@
-~~Title:parivṛḍhāḥ~~
-{{description>the best of the demigods.}}
+---json
+{
+    "name":"parivṛḍhāḥ",
+    "h1":"parivṛḍhāḥ",
+    "title":"parivṛḍhāḥ --- synonyms, prabhupada.io",
+    "description":"the best of the demigods."
+}
+---
 
 ==== amara-parivṛḍhāḥ  ====
   * the best of the demigods --- [[books:sb:5:16:15|SB 5.16.15]]

@@ -1,5 +1,11 @@
-~~Title:tryambaka~~
-{{description>a deity of Lord Śiva.}}
+---json
+{
+    "name":"tryambaka",
+    "h1":"tryambaka",
+    "title":"tryambaka --- synonyms, prabhupada.io",
+    "description":"a deity of Lord Śiva."
+}
+---
 
 ==== tryambaka  ====
   * a deity of Lord Śiva --- [[books:cc:madhya:9:317|Madhya 9.317]]

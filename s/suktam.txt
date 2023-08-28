@@ -1,5 +1,11 @@
-~~Title:sūktam~~
-{{description>sweet words; Vedic conclusion.}}
+---json
+{
+    "name":"sūktam",
+    "h1":"sūktam",
+    "title":"sūktam --- synonyms, prabhupada.io",
+    "description":"sweet words; Vedic conclusion."
+}
+---
 
 ==== sūktam  ====
   * sweet words --- [[books:sb:9:14:33|SB 9.14.33]]

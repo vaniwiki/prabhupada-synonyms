@@ -1,5 +1,11 @@
-~~Title:anehasā~~
-{{description>by a moment's time.}}
+---json
+{
+    "name":"anehasā",
+    "h1":"anehasā",
+    "title":"anehasā --- synonyms, prabhupada.io",
+    "description":"by a moment's time."
+}
+---
 
 ==== truṭi-anehasā  ====
   * by a moment's time --- [[books:sb:10:13:40|SB 10.13.40]]

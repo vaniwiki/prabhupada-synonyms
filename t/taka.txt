@@ -1,5 +1,11 @@
-~~Title:ṭākā~~
-{{description>are not concealed.}}
+---json
+{
+    "name":"ṭākā",
+    "h1":"ṭākā",
+    "title":"ṭākā --- synonyms, prabhupada.io",
+    "description":"are not concealed."
+}
+---
 
 ==== ṭākā nāhi yāya  ====
   * are not concealed --- [[books:cc:madhya:18:119|Madhya 18.119]]

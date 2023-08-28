@@ -1,5 +1,11 @@
-~~Title:japaḥ~~
-{{description>chanting; pronunciation of mantras.}}
+---json
+{
+    "name":"japaḥ",
+    "h1":"japaḥ",
+    "title":"japaḥ --- synonyms, prabhupada.io",
+    "description":"chanting; pronunciation of mantras."
+}
+---
 
 ==== japaḥ  ====
   * chanting --- [[books:sb:7:14:25|SB 7.14.25]]

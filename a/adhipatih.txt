@@ -1,5 +1,11 @@
-~~Title:adhipatiḥ~~
-{{description>a ruler; commander-in-chief; king; ruler; the king of that island; the king or master; the ruler.}}
+---json
+{
+    "name":"adhipatiḥ",
+    "h1":"adhipatiḥ",
+    "title":"adhipatiḥ --- synonyms, prabhupada.io",
+    "description":"a ruler; commander-in-chief; king; ruler; the king of that island; the king or master; the ruler."
+}
+---
 
 ==== adhipatiḥ  ====
   * a ruler --- [[books:sb:3:17:28|SB 3.17.28]]

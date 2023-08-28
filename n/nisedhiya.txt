@@ -1,5 +1,11 @@
-~~Title:niṣedhiyā~~
-{{description>forbidding.}}
+---json
+{
+    "name":"niṣedhiyā",
+    "h1":"niṣedhiyā",
+    "title":"niṣedhiyā --- synonyms, prabhupada.io",
+    "description":"forbidding."
+}
+---
 
 ==== niṣedhiyā  ====
   * forbidding --- [[books:cc:madhya:7:32|Madhya 7.32]]

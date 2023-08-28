@@ -1,5 +1,11 @@
-~~Title:udatiṣṭhan~~
-{{description>stood up.}}
+---json
+{
+    "name":"udatiṣṭhan",
+    "h1":"udatiṣṭhan",
+    "title":"udatiṣṭhan --- synonyms, prabhupada.io",
+    "description":"stood up."
+}
+---
 
 ==== udatiṣṭhan  ====
   * stood up --- [[books:sb:4:2:6|SB 4.2.6]], [[books:sb:4:4:31|SB 4.4.31]]

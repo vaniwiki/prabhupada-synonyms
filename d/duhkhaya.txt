@@ -1,5 +1,11 @@
-~~Title:duḥkhāya~~
-{{description>for distress; for the distress.}}
+---json
+{
+    "name":"duḥkhāya",
+    "h1":"duḥkhāya",
+    "title":"duḥkhāya --- synonyms, prabhupada.io",
+    "description":"for distress; for the distress."
+}
+---
 
 ==== duḥkhāya  ====
   * for distress --- [[books:sb:5:1:13|SB 5.1.13]]

@@ -1,5 +1,11 @@
-~~Title:tuṇḍayoḥ~~
-{{description>by the beak.}}
+---json
+{
+    "name":"tuṇḍayoḥ",
+    "h1":"tuṇḍayoḥ",
+    "title":"tuṇḍayoḥ --- synonyms, prabhupada.io",
+    "description":"by the beak."
+}
+---
 
 ==== tuṇḍayoḥ  ====
   * by the beak --- [[books:sb:10:11:51|SB 10.11.51]]

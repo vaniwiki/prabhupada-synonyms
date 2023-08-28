@@ -1,5 +1,11 @@
-~~Title:anukṛtya~~
-{{description>imitating.}}
+---json
+{
+    "name":"anukṛtya",
+    "h1":"anukṛtya",
+    "title":"anukṛtya --- synonyms, prabhupada.io",
+    "description":"imitating."
+}
+---
 
 ==== anukṛtya  ====
   * imitating --- [[books:sb:10:11:39-40|SB 10.11.39-40]], [[books:cc:adi:5:138|Ādi 5.138]]

@@ -1,5 +1,11 @@
-~~Title:sammarṣaḥ~~
-{{description>endurance.}}
+---json
+{
+    "name":"sammarṣaḥ",
+    "h1":"sammarṣaḥ",
+    "title":"sammarṣaḥ --- synonyms, prabhupada.io",
+    "description":"endurance."
+}
+---
 
 ==== sammarṣaḥ  ====
   * endurance --- [[books:cc:madhya:19:213|Madhya 19.213]]

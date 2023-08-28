@@ -1,5 +1,11 @@
-~~Title:laiñā~~
-{{description>taking.}}
+---json
+{
+    "name":"laiñā",
+    "h1":"laiñā",
+    "title":"laiñā --- synonyms, prabhupada.io",
+    "description":"taking."
+}
+---
 
 ==== laiñā  ====
   * taking --- [[books:cc:antya:17:61|Antya 17.61]]

@@ -1,5 +1,11 @@
-~~Title:mahāmanasaḥ~~
-{{description>from Mahāmanā.}}
+---json
+{
+    "name":"mahāmanasaḥ",
+    "h1":"mahāmanasaḥ",
+    "title":"mahāmanasaḥ --- synonyms, prabhupada.io",
+    "description":"from Mahāmanā."
+}
+---
 
 ==== mahāmanasaḥ  ====
   * from Mahāmanā --- [[books:sb:9:23:2|SB 9.23.2]]

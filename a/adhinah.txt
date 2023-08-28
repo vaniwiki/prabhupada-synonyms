@@ -1,5 +1,11 @@
-~~Title:adhinah~~
-{{description>under the control of.}}
+---json
+{
+    "name":"adhinah",
+    "h1":"adhinah",
+    "title":"adhinah --- synonyms, prabhupada.io",
+    "description":"under the control of."
+}
+---
 
 ==== adhīnaḥ  ====
   * under the control of --- [[books:sb:1:13:46|SB 1.13.46]]

@@ -1,5 +1,11 @@
-~~Title:puṭām~~
-{{description>whose nostrils.}}
+---json
+{
+    "name":"puṭām",
+    "h1":"puṭām",
+    "title":"puṭām --- synonyms, prabhupada.io",
+    "description":"whose nostrils."
+}
+---
 
 ==== nāsā-puṭām  ====
   * whose nostrils --- [[books:cc:adi:4:260|Ādi 4.260]]

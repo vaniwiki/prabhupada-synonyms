@@ -1,5 +1,11 @@
-~~Title:mahiṣmān~~
-{{description>Mahiṣmān.}}
+---json
+{
+    "name":"mahiṣmān",
+    "h1":"mahiṣmān",
+    "title":"mahiṣmān --- synonyms, prabhupada.io",
+    "description":"Mahiṣmān."
+}
+---
 
 ==== mahiṣmān  ====
   * Mahiṣmān --- [[books:sb:9:23:22|SB 9.23.22]]

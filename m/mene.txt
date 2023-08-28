@@ -1,5 +1,11 @@
-~~Title:mene~~
-{{description>accepted; applied; considered; did consider; he considered; he decided; he understood; thought; thought like this; understood.}}
+---json
+{
+    "name":"mene",
+    "h1":"mene",
+    "title":"mene --- synonyms, prabhupada.io",
+    "description":"accepted; applied; considered; did consider; he considered; he decided; he understood; thought; thought like this; understood."
+}
+---
 
 ==== mene  ====
   * accepted --- [[books:sb:1:19:4|SB 1.19.4]], [[books:sb:10:4:43|SB 10.4.43]]

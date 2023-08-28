@@ -1,5 +1,11 @@
-~~Title:kūjitaiḥ~~
-{{description>by the cooing; with the whispering.}}
+---json
+{
+    "name":"kūjitaiḥ",
+    "h1":"kūjitaiḥ",
+    "title":"kūjitaiḥ --- synonyms, prabhupada.io",
+    "description":"by the cooing; with the whispering."
+}
+---
 
 ==== kūjitaiḥ  ====
   * by the cooing --- [[books:sb:4:25:19|SB 4.25.19]]

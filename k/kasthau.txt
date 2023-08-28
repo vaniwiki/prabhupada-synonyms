@@ -1,5 +1,11 @@
-~~Title:kāṣṭhau~~
-{{description>the directions.}}
+---json
+{
+    "name":"kāṣṭhau",
+    "h1":"kāṣṭhau",
+    "title":"kāṣṭhau --- synonyms, prabhupada.io",
+    "description":"the directions."
+}
+---
 
 ==== kāṣṭhau  ====
   * the directions --- [[books:sb:3:17:17|SB 3.17.17]]

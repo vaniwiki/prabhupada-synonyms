@@ -1,5 +1,11 @@
-~~Title:apasrayah~~
-{{description>the support.}}
+---json
+{
+    "name":"apasrayah",
+    "h1":"apasrayah",
+    "title":"apasrayah --- synonyms, prabhupada.io",
+    "description":"the support."
+}
+---
 
 ==== apāśrayaḥ  ====
   * the support --- [[books:sb:6:19:13|SB 6.19.13]]

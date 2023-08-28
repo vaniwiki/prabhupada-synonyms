@@ -1,5 +1,11 @@
-~~Title:jaghanya~~
-{{description>abominable.}}
+---json
+{
+    "name":"jaghanya",
+    "h1":"jaghanya",
+    "title":"jaghanya --- synonyms, prabhupada.io",
+    "description":"abominable."
+}
+---
 
 ==== jaghanya  ====
   * abominable --- [[books:bg:14:18|Bg. 14.18]]

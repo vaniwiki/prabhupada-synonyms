@@ -1,5 +1,11 @@
-~~Title:kumati~~
-{{description>bad intentions.}}
+---json
+{
+    "name":"kumati",
+    "h1":"kumati",
+    "title":"kumati --- synonyms, prabhupada.io",
+    "description":"bad intentions."
+}
+---
 
 ==== kumati  ====
   * bad intentions --- [[books:cc:adi:17:220|Ādi 17.220]]

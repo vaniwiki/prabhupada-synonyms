@@ -1,5 +1,11 @@
-~~Title:kainu~~
-{{description>did; have done; I did; I have made; I made; made.}}
+---json
+{
+    "name":"kainu",
+    "h1":"kainu",
+    "title":"kainu --- synonyms, prabhupada.io",
+    "description":"did; have done; I did; I have made; I made; made."
+}
+---
 
 ==== kainu  ====
   * did --- [[books:cc:adi:17:201-202|Ādi 17.201-202]], [[books:cc:madhya:6:200|Madhya 6.200]]

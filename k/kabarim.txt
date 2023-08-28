@@ -1,5 +1,11 @@
-~~Title:kabarīm~~
-{{description>and the hair on the head.}}
+---json
+{
+    "name":"kabarīm",
+    "h1":"kabarīm",
+    "title":"kabarīm --- synonyms, prabhupada.io",
+    "description":"and the hair on the head."
+}
+---
 
 ==== kabarīm ca  ====
   * and the hair on the head --- [[books:sb:8:12:21|SB 8.12.21]]

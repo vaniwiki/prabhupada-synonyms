@@ -1,5 +1,11 @@
-~~Title:kundalah~~
-{{description>having earrings.}}
+---json
+{
+    "name":"kundalah",
+    "h1":"kundalah",
+    "title":"kundalah --- synonyms, prabhupada.io",
+    "description":"having earrings."
+}
+---
 
 ==== kuṇḍalaḥ  ====
   * having earrings --- [[books:sb:8:10:54|SB 8.10.54]]

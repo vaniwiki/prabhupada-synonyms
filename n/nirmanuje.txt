@@ -1,5 +1,11 @@
-~~Title:nirmanuje~~
-{{description>without human habitation.}}
+---json
+{
+    "name":"nirmanuje",
+    "h1":"nirmanuje",
+    "title":"nirmanuje --- synonyms, prabhupada.io",
+    "description":"without human habitation."
+}
+---
 
 ==== nirmanuje  ====
   * without human habitation --- [[books:sb:1:6:15|SB 1.6.15]]

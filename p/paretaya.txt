@@ -1,5 +1,11 @@
-~~Title:paretāya~~
-{{description>death.}}
+---json
+{
+    "name":"paretāya",
+    "h1":"paretāya",
+    "title":"paretāya --- synonyms, prabhupada.io",
+    "description":"death."
+}
+---
 
 ==== paretāya  ====
   * death --- [[books:sb:3:1:41|SB 3.1.41]]

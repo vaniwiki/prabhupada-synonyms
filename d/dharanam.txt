@@ -1,5 +1,11 @@
-~~Title:dharanam~~
-{{description>containing substances; fixing.}}
+---json
+{
+    "name":"dharanam",
+    "h1":"dharanam",
+    "title":"dharanam --- synonyms, prabhupada.io",
+    "description":"containing substances; fixing."
+}
+---
 
 ==== dhāraṇam  ====
   * containing substances --- [[books:sb:3:26:46|SB 3.26.46]]

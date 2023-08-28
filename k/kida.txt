@@ -1,5 +1,11 @@
-~~Title:kīḍā~~
-{{description>a worm; worm; worms.}}
+---json
+{
+    "name":"kīḍā",
+    "h1":"kīḍā",
+    "title":"kīḍā --- synonyms, prabhupada.io",
+    "description":"a worm; worm; worms."
+}
+---
 
 ==== kīḍā  ====
   * a worm --- [[books:cc:madhya:7:137|Madhya 7.137]]

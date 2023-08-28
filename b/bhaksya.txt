@@ -1,5 +1,11 @@
-~~Title:bhakṣya~~
-{{description>eatable; eatables; eating; food; foods; sufficient for feeding; to be eaten.}}
+---json
+{
+    "name":"bhakṣya",
+    "h1":"bhakṣya",
+    "title":"bhakṣya --- synonyms, prabhupada.io",
+    "description":"eatable; eatables; eating; food; foods; sufficient for feeding; to be eaten."
+}
+---
 
 ==== bhakṣya  ====
   * eatable --- [[books:cc:adi:14:29|Ādi 14.29]]

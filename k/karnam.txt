@@ -1,5 +1,11 @@
-~~Title:karṇam~~
-{{description>also Karṇa; whose ears.}}
+---json
+{
+    "name":"karṇam",
+    "h1":"karṇam",
+    "title":"karṇam --- synonyms, prabhupada.io",
+    "description":"also Karṇa; whose ears."
+}
+---
 
 ==== karṇam  ====
   * also Karṇa --- [[books:bg:11:34|Bg. 11.34]]

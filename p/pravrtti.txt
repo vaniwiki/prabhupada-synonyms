@@ -1,5 +1,11 @@
-~~Title:pravṛtti~~
-{{description>attachment; by inclination; of activity; of attachment.}}
+---json
+{
+    "name":"pravṛtti",
+    "h1":"pravṛtti",
+    "title":"pravṛtti --- synonyms, prabhupada.io",
+    "description":"attachment; by inclination; of activity; of attachment."
+}
+---
 
 ==== pravṛtti  ====
   * attachment --- [[books:sb:3:32:34-36|SB 3.32.34-36]]

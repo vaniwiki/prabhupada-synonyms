@@ -1,5 +1,11 @@
-~~Title:ajīgartāt~~
-{{description>from Ajīgarta.}}
+---json
+{
+    "name":"ajīgartāt",
+    "h1":"ajīgartāt",
+    "title":"ajīgartāt --- synonyms, prabhupada.io",
+    "description":"from Ajīgarta."
+}
+---
 
 ==== ajīgartāt  ====
   * from Ajīgarta --- [[books:sb:9:7:20|SB 9.7.20]]

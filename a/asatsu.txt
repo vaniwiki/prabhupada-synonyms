@@ -1,5 +1,11 @@
-~~Title:asatsu~~
-{{description>evil; fallible; with those engaged in sense gratification.}}
+---json
+{
+    "name":"asatsu",
+    "h1":"asatsu",
+    "title":"asatsu --- synonyms, prabhupada.io",
+    "description":"evil; fallible; with those engaged in sense gratification."
+}
+---
 
 ==== asatsu  ====
   * evil --- [[books:sb:4:4:13|SB 4.4.13]]

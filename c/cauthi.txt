@@ -1,5 +1,11 @@
-~~Title:cauṭhi~~
-{{description>one-fourth.}}
+---json
+{
+    "name":"cauṭhi",
+    "h1":"cauṭhi",
+    "title":"cauṭhi --- synonyms, prabhupada.io",
+    "description":"one-fourth."
+}
+---
 
 ==== cauṭhi  ====
   * one-fourth --- [[books:cc:madhya:19:8|Madhya 19.8]]

@@ -1,5 +1,11 @@
-~~Title:puṣpa~~
-{{description>by flowers; flowers; in flowers; of flowers; with flowers.}}
+---json
+{
+    "name":"puṣpa",
+    "h1":"puṣpa",
+    "title":"puṣpa --- synonyms, prabhupada.io",
+    "description":"by flowers; flowers; in flowers; of flowers; with flowers."
+}
+---
 
 ==== puṣpa  ====
   * by flowers --- [[books:cc:antya:1:159|Antya 1.159]]

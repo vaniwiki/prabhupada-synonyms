@@ -1,5 +1,11 @@
-~~Title:vidhe~~
-{{description>O creator.}}
+---json
+{
+    "name":"vidhe",
+    "h1":"vidhe",
+    "title":"vidhe --- synonyms, prabhupada.io",
+    "description":"O creator."
+}
+---
 
 ==== vidhe  ====
   * O creator --- [[books:cc:madhya:2:18|Madhya 2.18]]

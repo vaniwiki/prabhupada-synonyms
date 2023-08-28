@@ -1,5 +1,11 @@
-~~Title:nyabhidyetām~~
-{{description>appeared.}}
+---json
+{
+    "name":"nyabhidyetām",
+    "h1":"nyabhidyetām",
+    "title":"nyabhidyetām --- synonyms, prabhupada.io",
+    "description":"appeared."
+}
+---
 
 ==== nyabhidyetām  ====
   * appeared --- [[books:sb:3:26:55|SB 3.26.55]]

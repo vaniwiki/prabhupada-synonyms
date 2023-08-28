@@ -1,5 +1,11 @@
-~~Title:upāṁśu~~
-{{description>very mildly resounding and raining very slightly.}}
+---json
+{
+    "name":"upāṁśu",
+    "h1":"upāṁśu",
+    "title":"upāṁśu --- synonyms, prabhupada.io",
+    "description":"very mildly resounding and raining very slightly."
+}
+---
 
 ==== upāṁśu-garjitaḥ  ====
   * very mildly resounding and raining very slightly --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

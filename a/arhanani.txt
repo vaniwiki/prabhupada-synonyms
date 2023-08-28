@@ -1,5 +1,11 @@
-~~Title:arhaṇāni~~
-{{description>paraphernalia for worship.}}
+---json
+{
+    "name":"arhaṇāni",
+    "h1":"arhaṇāni",
+    "title":"arhaṇāni --- synonyms, prabhupada.io",
+    "description":"paraphernalia for worship."
+}
+---
 
 ==== arhaṇāni  ====
   * paraphernalia for worship --- [[books:sb:7:15:4|SB 7.15.4]]

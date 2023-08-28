@@ -1,5 +1,11 @@
-~~Title:viṭapau~~
-{{description>those two trees, along with their branches.}}
+---json
+{
+    "name":"viṭapau",
+    "h1":"viṭapau",
+    "title":"viṭapau --- synonyms, prabhupada.io",
+    "description":"those two trees, along with their branches."
+}
+---
 
 ==== viṭapau  ====
   * those two trees, along with their branches --- [[books:sb:10:10:27|SB 10.10.27]]

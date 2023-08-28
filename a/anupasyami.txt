@@ -1,5 +1,11 @@
-~~Title:anupaśyāmi~~
-{{description>do I foresee.}}
+---json
+{
+    "name":"anupaśyāmi",
+    "h1":"anupaśyāmi",
+    "title":"anupaśyāmi --- synonyms, prabhupada.io",
+    "description":"do I foresee."
+}
+---
 
 ==== anupaśyāmi  ====
   * do I foresee --- [[books:bg:1:31|Bg. 1.31]]

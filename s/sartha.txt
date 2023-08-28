@@ -1,5 +1,11 @@
-~~Title:sārtha~~
-{{description>resting places for pilgrims.}}
+---json
+{
+    "name":"sārtha",
+    "h1":"sārtha",
+    "title":"sārtha --- synonyms, prabhupada.io",
+    "description":"resting places for pilgrims."
+}
+---
 
 ==== sārtha  ====
   * resting places for pilgrims --- [[books:sb:5:5:30|SB 5.5.30]]

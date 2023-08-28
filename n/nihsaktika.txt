@@ -1,5 +1,11 @@
-~~Title:niḥśaktika~~
-{{description>without potency.}}
+---json
+{
+    "name":"niḥśaktika",
+    "h1":"niḥśaktika",
+    "title":"niḥśaktika --- synonyms, prabhupada.io",
+    "description":"without potency."
+}
+---
 
 ==== niḥśaktika  ====
   * without potency --- [[books:cc:madhya:6:153|Madhya 6.153]]

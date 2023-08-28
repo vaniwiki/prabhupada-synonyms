@@ -1,5 +1,11 @@
-~~Title:thāke~~
-{{description>remains; there is.}}
+---json
+{
+    "name":"thāke",
+    "h1":"thāke",
+    "title":"thāke --- synonyms, prabhupada.io",
+    "description":"remains; there is."
+}
+---
 
 ==== thāke  ====
   * remains --- [[books:cc:madhya:1:65|Madhya 1.65]], [[books:cc:madhya:2:89|Madhya 2.89]]

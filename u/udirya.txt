@@ -1,5 +1,11 @@
-~~Title:udīrya~~
-{{description>speaking.}}
+---json
+{
+    "name":"udīrya",
+    "h1":"udīrya",
+    "title":"udīrya --- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== udīrya  ====
   * speaking --- [[books:sb:6:16:12|SB 6.16.12]]

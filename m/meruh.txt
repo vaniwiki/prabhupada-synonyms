@@ -1,5 +1,11 @@
-~~Title:meruḥ~~
-{{description>Meru; Mount Meru; Sumeru Mountain; the sage Meru.}}
+---json
+{
+    "name":"meruḥ",
+    "h1":"meruḥ",
+    "title":"meruḥ --- synonyms, prabhupada.io",
+    "description":"Meru; Mount Meru; Sumeru Mountain; the sage Meru."
+}
+---
 
 ==== meruḥ  ====
   * Meru --- [[books:bg:10:23|Bg. 10.23]]

@@ -1,5 +1,11 @@
-~~Title:saptabhyaḥ~~
-{{description>seven in number; unto seven.}}
+---json
+{
+    "name":"saptabhyaḥ",
+    "h1":"saptabhyaḥ",
+    "title":"saptabhyaḥ --- synonyms, prabhupada.io",
+    "description":"seven in number; unto seven."
+}
+---
 
 ==== saptabhyaḥ  ====
   * seven in number --- [[books:sb:5:20:9|SB 5.20.9]]

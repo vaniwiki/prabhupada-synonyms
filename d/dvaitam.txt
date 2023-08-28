@@ -1,5 +1,11 @@
-~~Title:dvaitam~~
-{{description>duality; second form.}}
+---json
+{
+    "name":"dvaitam",
+    "h1":"dvaitam",
+    "title":"dvaitam --- synonyms, prabhupada.io",
+    "description":"duality; second form."
+}
+---
 
 ==== dvaitam  ====
   * duality --- [[books:sb:7:12:10|SB 7.12.10]]

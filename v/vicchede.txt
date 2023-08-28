@@ -1,5 +1,11 @@
-~~Title:vicchede~~
-{{description>by separation; by the separation; due to separation; in separation; in the chapter.}}
+---json
+{
+    "name":"vicchede",
+    "h1":"vicchede",
+    "title":"vicchede --- synonyms, prabhupada.io",
+    "description":"by separation; by the separation; due to separation; in separation; in the chapter."
+}
+---
 
 ==== vicchede  ====
   * by separation --- [[books:cc:madhya:15:182|Madhya 15.182]]

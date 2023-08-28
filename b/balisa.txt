@@ -1,5 +1,11 @@
-~~Title:balisa~~
-{{description>pillow.}}
+---json
+{
+    "name":"balisa",
+    "h1":"balisa",
+    "title":"balisa --- synonyms, prabhupada.io",
+    "description":"pillow."
+}
+---
 
 ==== bālisa  ====
   * pillow --- [[books:cc:antya:13:10|Antya 13.10]], [[books:cc:antya:13:15|Antya 13.15]]

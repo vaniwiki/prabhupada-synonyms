@@ -1,5 +1,11 @@
-~~Title:patitvā~~
-{{description>falling down.}}
+---json
+{
+    "name":"patitvā",
+    "h1":"patitvā",
+    "title":"patitvā --- synonyms, prabhupada.io",
+    "description":"falling down."
+}
+---
 
 ==== patitvā  ====
   * falling down --- [[books:sb:5:17:6|SB 5.17.6]]

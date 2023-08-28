@@ -1,5 +1,11 @@
-~~Title:amaṅgalya~~
-{{description>inauspiciousness.}}
+---json
+{
+    "name":"amaṅgalya",
+    "h1":"amaṅgalya",
+    "title":"amaṅgalya --- synonyms, prabhupada.io",
+    "description":"inauspiciousness."
+}
+---
 
 ==== amaṅgalya  ====
   * inauspiciousness --- [[books:sb:4:23:34|SB 4.23.34]]

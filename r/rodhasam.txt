@@ -1,5 +1,11 @@
-~~Title:rodhasam~~
-{{description>having hips.}}
+---json
+{
+    "name":"rodhasam",
+    "h1":"rodhasam",
+    "title":"rodhasam --- synonyms, prabhupada.io",
+    "description":"having hips."
+}
+---
 
 ==== rodhasam  ====
   * having hips --- [[books:sb:3:20:29|SB 3.20.29]]

@@ -1,5 +1,11 @@
-~~Title:agniḥ~~
-{{description>a fire; Agni; fire; the demigod of fire; the fire; the fire-god; the sacrificial fire.}}
+---json
+{
+    "name":"agniḥ",
+    "h1":"agniḥ",
+    "title":"agniḥ --- synonyms, prabhupada.io",
+    "description":"a fire; Agni; fire; the demigod of fire; the fire; the fire-god; the sacrificial fire."
+}
+---
 
 ==== agniḥ  ====
   * a fire --- [[books:sb:5:20:2|SB 5.20.2]], [[books:cc:madhya:24:61|Madhya 24.61]], [[books:cc:antya:1:139|Antya 1.139]]

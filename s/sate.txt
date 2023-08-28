@@ -1,5 +1,11 @@
-~~Title:sate~~
-{{description>hundred.}}
+---json
+{
+    "name":"sate",
+    "h1":"sate",
+    "title":"sate --- synonyms, prabhupada.io",
+    "description":"hundred."
+}
+---
 
 ==== śate  ====
   * hundred --- [[books:sb:10:1:31-32|SB 10.1.31-32]]

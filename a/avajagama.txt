@@ -1,5 +1,11 @@
-~~Title:avajagāma~~
-{{description>could understand.}}
+---json
+{
+    "name":"avajagāma",
+    "h1":"avajagāma",
+    "title":"avajagāma --- synonyms, prabhupada.io",
+    "description":"could understand."
+}
+---
 
 ==== avajagāma ha  ====
   * could understand --- [[books:sb:10:13:17|SB 10.13.17]]

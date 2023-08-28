@@ -1,5 +1,11 @@
-~~Title:yujā~~
-{{description>engaged in yoga.}}
+---json
+{
+    "name":"yujā",
+    "h1":"yujā",
+    "title":"yujā --- synonyms, prabhupada.io",
+    "description":"engaged in yoga."
+}
+---
 
 ==== yujā  ====
   * engaged in //yoga// --- [[books:sb:3:21:45-47|SB 3.21.45-47]]

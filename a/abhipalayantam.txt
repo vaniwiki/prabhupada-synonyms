@@ -1,5 +1,11 @@
-~~Title:abhipālayantam~~
-{{description>tending.}}
+---json
+{
+    "name":"abhipālayantam",
+    "h1":"abhipālayantam",
+    "title":"abhipālayantam --- synonyms, prabhupada.io",
+    "description":"tending."
+}
+---
 
 ==== abhipālayantam  ====
   * tending --- [[books:cc:adi:5:22|Ādi 5.22]]

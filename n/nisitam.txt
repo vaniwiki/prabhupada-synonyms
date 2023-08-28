@@ -1,5 +1,11 @@
-~~Title:niśitam~~
-{{description>finely sharpened.}}
+---json
+{
+    "name":"niśitam",
+    "h1":"niśitam",
+    "title":"niśitam --- synonyms, prabhupada.io",
+    "description":"finely sharpened."
+}
+---
 
 ==== niśitam  ====
   * finely sharpened --- [[books:sb:5:9:16|SB 5.9.16]]

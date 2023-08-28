@@ -1,5 +1,11 @@
-~~Title:darśanayā~~
-{{description>endowed with right vision.}}
+---json
+{
+    "name":"darśanayā",
+    "h1":"darśanayā",
+    "title":"darśanayā --- synonyms, prabhupada.io",
+    "description":"endowed with right vision."
+}
+---
 
 ==== samyak-darśanayā  ====
   * endowed with right vision --- [[books:sb:3:31:48|SB 3.31.48]]

@@ -1,5 +1,11 @@
-~~Title:vyadārayat~~
-{{description>shattered.}}
+---json
+{
+    "name":"vyadārayat",
+    "h1":"vyadārayat",
+    "title":"vyadārayat --- synonyms, prabhupada.io",
+    "description":"shattered."
+}
+---
 
 ==== vyadārayat  ====
   * shattered --- [[books:bg:1:19|Bg. 1.19]]

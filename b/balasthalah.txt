@@ -1,5 +1,11 @@
-~~Title:balasthalaḥ~~
-{{description>Balasthala.}}
+---json
+{
+    "name":"balasthalaḥ",
+    "h1":"balasthalaḥ",
+    "title":"balasthalaḥ --- synonyms, prabhupada.io",
+    "description":"Balasthala."
+}
+---
 
 ==== balasthalaḥ  ====
   * Balasthala --- [[books:sb:9:12:2|SB 9.12.2]]

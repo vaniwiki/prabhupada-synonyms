@@ -1,5 +1,11 @@
-~~Title:śarīrāṇi~~
-{{description>bodies.}}
+---json
+{
+    "name":"śarīrāṇi",
+    "h1":"śarīrāṇi",
+    "title":"śarīrāṇi --- synonyms, prabhupada.io",
+    "description":"bodies."
+}
+---
 
 ==== śarīrāṇi  ====
   * bodies --- [[books:bg:2:22|Bg. 2.22]]

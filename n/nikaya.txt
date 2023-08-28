@@ -1,5 +1,11 @@
-~~Title:nikāya~~
-{{description>in total; living entities.}}
+---json
+{
+    "name":"nikāya",
+    "h1":"nikāya",
+    "title":"nikāya --- synonyms, prabhupada.io",
+    "description":"in total; living entities."
+}
+---
 
 ==== nikāya  ====
   * in total --- [[books:sb:5:1:27|SB 5.1.27]]

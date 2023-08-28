@@ -1,5 +1,11 @@
-~~Title:jitatvam~~
-{{description>the subjugation.}}
+---json
+{
+    "name":"jitatvam",
+    "h1":"jitatvam",
+    "title":"jitatvam --- synonyms, prabhupada.io",
+    "description":"the subjugation."
+}
+---
 
 ==== jitatvam  ====
   * the subjugation --- [[books:cc:madhya:19:230|Madhya 19.230]]

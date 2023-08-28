@@ -1,5 +1,11 @@
-~~Title:sūyate~~
-{{description>manifest.}}
+---json
+{
+    "name":"sūyate",
+    "h1":"sūyate",
+    "title":"sūyate --- synonyms, prabhupada.io",
+    "description":"manifest."
+}
+---
 
 ==== sūyate  ====
   * manifest --- [[books:bg:9:10|Bg. 9.10]]

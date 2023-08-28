@@ -1,5 +1,11 @@
-~~Title:pacanti~~
-{{description>prepare food.}}
+---json
+{
+    "name":"pacanti",
+    "h1":"pacanti",
+    "title":"pacanti --- synonyms, prabhupada.io",
+    "description":"prepare food."
+}
+---
 
 ==== pacanti  ====
   * prepare food --- [[books:bg:3:13|Bg. 3.13]]

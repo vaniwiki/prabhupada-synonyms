@@ -1,5 +1,11 @@
-~~Title:vicitrāṇi~~
-{{description>all very nicely decorated; various.}}
+---json
+{
+    "name":"vicitrāṇi",
+    "h1":"vicitrāṇi",
+    "title":"vicitrāṇi --- synonyms, prabhupada.io",
+    "description":"all very nicely decorated; various."
+}
+---
 
 ==== vicitrāṇi  ====
   * all very nicely decorated --- [[books:sb:8:8:16|SB 8.8.16]]

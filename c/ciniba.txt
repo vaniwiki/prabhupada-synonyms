@@ -1,5 +1,11 @@
-~~Title:ciniba~~
-{{description>how shall I recognize.}}
+---json
+{
+    "name":"ciniba",
+    "h1":"ciniba",
+    "title":"ciniba --- synonyms, prabhupada.io",
+    "description":"how shall I recognize."
+}
+---
 
 ==== ciniba kemane  ====
   * how shall I recognize --- [[books:cc:madhya:15:105|Madhya 15.105]]

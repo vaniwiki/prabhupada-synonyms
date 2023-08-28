@@ -1,5 +1,11 @@
-~~Title:namasyanti~~
-{{description>offer respectful obeisances; offering respect.}}
+---json
+{
+    "name":"namasyanti",
+    "h1":"namasyanti",
+    "title":"namasyanti --- synonyms, prabhupada.io",
+    "description":"offer respectful obeisances; offering respect."
+}
+---
 
 ==== namasyanti  ====
   * offer respectful obeisances --- [[books:sb:6:8:41|SB 6.8.41]]

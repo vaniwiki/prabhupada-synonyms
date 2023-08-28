@@ -1,5 +1,11 @@
-~~Title:sunya~~
-{{description>completely devoid; devoid of; vacant; void; without.}}
+---json
+{
+    "name":"sunya",
+    "h1":"sunya",
+    "title":"sunya --- synonyms, prabhupada.io",
+    "description":"completely devoid; devoid of; vacant; void; without."
+}
+---
 
 ==== śūnya  ====
   * completely devoid --- [[books:noi:5|NoI 5]]

@@ -1,5 +1,11 @@
-~~Title:ghṛte~~
-{{description>in ghee; with clarified butter.}}
+---json
+{
+    "name":"ghṛte",
+    "h1":"ghṛte",
+    "title":"ghṛte --- synonyms, prabhupada.io",
+    "description":"in ghee; with clarified butter."
+}
+---
 
 ==== ghṛte  ====
   * in ghee --- [[books:cc:madhya:4:71|Madhya 4.71]]

@@ -1,5 +1,11 @@
-~~Title:kīlita~~
-{{description>bedecked.}}
+---json
+{
+    "name":"kīlita",
+    "h1":"kīlita",
+    "title":"kīlita --- synonyms, prabhupada.io",
+    "description":"bedecked."
+}
+---
 
 ==== kīlita  ====
   * bedecked --- [[books:cc:antya:19:95|Antya 19.95]]

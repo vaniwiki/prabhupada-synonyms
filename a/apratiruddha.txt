@@ -1,5 +1,11 @@
-~~Title:apratiruddha~~
-{{description>without check.}}
+---json
+{
+    "name":"apratiruddha",
+    "h1":"apratiruddha",
+    "title":"apratiruddha --- synonyms, prabhupada.io",
+    "description":"without check."
+}
+---
 
 ==== apratiruddha  ====
   * without check --- [[books:sb:4:16:27|SB 4.16.27]]

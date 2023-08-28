@@ -1,5 +1,11 @@
-~~Title:pratiyoga~~
-{{description>counterattack.}}
+---json
+{
+    "name":"pratiyoga",
+    "h1":"pratiyoga",
+    "title":"pratiyoga --- synonyms, prabhupada.io",
+    "description":"counterattack."
+}
+---
 
 ==== pratiyoga  ====
   * counterattack --- [[books:sb:4:10:22|SB 4.10.22]]

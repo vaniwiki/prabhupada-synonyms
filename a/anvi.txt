@@ -1,5 +1,11 @@
-~~Title:aṇvī~~
-{{description>small.}}
+---json
+{
+    "name":"aṇvī",
+    "h1":"aṇvī",
+    "title":"aṇvī --- synonyms, prabhupada.io",
+    "description":"small."
+}
+---
 
 ==== aṇvī  ====
   * small --- [[books:sb:2:8:13|SB 2.8.13]]

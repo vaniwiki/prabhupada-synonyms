@@ -1,5 +1,11 @@
-~~Title:magha~~
-{{description>Māgha.}}
+---json
+{
+    "name":"magha",
+    "h1":"magha",
+    "title":"magha --- synonyms, prabhupada.io",
+    "description":"Māgha."
+}
+---
 
 ==== māgha  ====
   * Māgha --- [[books:cc:adi:13:80|Ādi 13.80]]

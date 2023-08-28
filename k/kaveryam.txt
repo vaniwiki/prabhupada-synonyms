@@ -1,5 +1,11 @@
-~~Title:kāveryām~~
-{{description>on the bank of the River Kāverī.}}
+---json
+{
+    "name":"kāveryām",
+    "h1":"kāveryām",
+    "title":"kāveryām --- synonyms, prabhupada.io",
+    "description":"on the bank of the River Kāverī."
+}
+---
 
 ==== kāveryām  ====
   * on the bank of the River Kāverī --- [[books:sb:7:13:12-13|SB 7.13.12-13]]

@@ -1,5 +1,11 @@
-~~Title:pibata~~
-{{description>do relish it; just drink.}}
+---json
+{
+    "name":"pibata",
+    "h1":"pibata",
+    "title":"pibata --- synonyms, prabhupada.io",
+    "description":"do relish it; just drink."
+}
+---
 
 ==== pibata  ====
   * do relish it --- [[books:sb:1:1:3|SB 1.1.3]]

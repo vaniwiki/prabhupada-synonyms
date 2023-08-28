@@ -1,5 +1,11 @@
-~~Title:samavarṇayat~~
-{{description>properly described.}}
+---json
+{
+    "name":"samavarṇayat",
+    "h1":"samavarṇayat",
+    "title":"samavarṇayat --- synonyms, prabhupada.io",
+    "description":"properly described."
+}
+---
 
 ==== samavarṇayat  ====
   * properly described --- [[books:sb:1:13:12|SB 1.13.12]]

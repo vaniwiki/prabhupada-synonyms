@@ -1,5 +1,11 @@
-~~Title:nipunam~~
-{{description>very expert.}}
+---json
+{
+    "name":"nipunam",
+    "h1":"nipunam",
+    "title":"nipunam --- synonyms, prabhupada.io",
+    "description":"very expert."
+}
+---
 
 ==== nipuṇam  ====
   * very expert --- [[books:sb:2:6:35|SB 2.6.35]]

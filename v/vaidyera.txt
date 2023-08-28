@@ -1,5 +1,11 @@
-~~Title:vaidyera~~
-{{description>of the royal physician.}}
+---json
+{
+    "name":"vaidyera",
+    "h1":"vaidyera",
+    "title":"vaidyera --- synonyms, prabhupada.io",
+    "description":"of the royal physician."
+}
+---
 
 ==== rāja-vaidyera  ====
   * of the royal physician --- [[books:cc:madhya:15:124|Madhya 15.124]]

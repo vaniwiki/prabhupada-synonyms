@@ -1,5 +1,11 @@
-~~Title:milibe~~
-{{description>he will meet; will meet; would see; You shouid meet.}}
+---json
+{
+    "name":"milibe",
+    "h1":"milibe",
+    "title":"milibe --- synonyms, prabhupada.io",
+    "description":"he will meet; will meet; would see; You shouid meet."
+}
+---
 
 ==== milibe  ====
   * he will meet --- [[books:cc:madhya:12:56|Madhya 12.56]]

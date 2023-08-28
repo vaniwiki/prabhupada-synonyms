@@ -1,5 +1,11 @@
-~~Title:tava~~
-{{description>as your share; at Your Lordship's; by You; for you; for Your good self; from you; His; in your possession; of you; of your; of your deliverance from this danger; of Your good self; of Your Lordship; of Your Majesty; of yours; to you; unto You; with you; you; your; your activities; yours.}}
+---json
+{
+    "name":"tava",
+    "h1":"tava",
+    "title":"tava --- synonyms, prabhupada.io",
+    "description":"as your share; at Your Lordship's; by You; for you; for Your good self; from you; His; in your possession; of you; of your; of your deliverance from this danger; of Your good self; of Your Lordship; of Your Majesty; of yours; to you; unto You; with you; you; your; your activities; yours."
+}
+---
 
 ==== tava  ====
   * as your share --- [[books:sb:9:4:2|SB 9.4.2]]

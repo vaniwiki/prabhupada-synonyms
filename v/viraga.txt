@@ -1,5 +1,11 @@
-~~Title:virāga~~
-{{description>detachment; separation.}}
+---json
+{
+    "name":"virāga",
+    "h1":"virāga",
+    "title":"virāga --- synonyms, prabhupada.io",
+    "description":"detachment; separation."
+}
+---
 
 ==== virāga  ====
   * detachment --- [[books:sb:4:22:26|SB 4.22.26]]

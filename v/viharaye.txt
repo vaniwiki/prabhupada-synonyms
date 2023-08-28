@@ -1,5 +1,11 @@
-~~Title:viharaye~~
-{{description>enjoy walking; enjoys transcendental bliss.}}
+---json
+{
+    "name":"viharaye",
+    "h1":"viharaye",
+    "title":"viharaye --- synonyms, prabhupada.io",
+    "description":"enjoy walking; enjoys transcendental bliss."
+}
+---
 
 ==== viharaye  ====
   * enjoy walking --- [[books:cc:madhya:24:222|Madhya 24.222]]

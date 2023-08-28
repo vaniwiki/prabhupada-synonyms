@@ -1,5 +1,11 @@
-~~Title:brahmavit~~
-{{description>Brahmavit; one who knows the Supreme perfectly.}}
+---json
+{
+    "name":"brahmavit",
+    "h1":"brahmavit",
+    "title":"brahmavit --- synonyms, prabhupada.io",
+    "description":"Brahmavit; one who knows the Supreme perfectly."
+}
+---
 
 ==== brahmavit  ====
   * Brahmavit --- [[books:sb:9:17:11|SB 9.17.11]]

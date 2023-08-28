@@ -1,5 +1,11 @@
-~~Title:nibe~~
-{{description>will carry.}}
+---json
+{
+    "name":"nibe",
+    "h1":"nibe",
+    "title":"nibe --- synonyms, prabhupada.io",
+    "description":"will carry."
+}
+---
 
 ==== vahi' nibe  ====
   * will carry --- [[books:cc:madhya:17:19|Madhya 17.19]]

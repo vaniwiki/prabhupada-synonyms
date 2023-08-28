@@ -1,5 +1,11 @@
-~~Title:pariguṇita~~
-{{description>recounted.}}
+---json
+{
+    "name":"pariguṇita",
+    "h1":"pariguṇita",
+    "title":"pariguṇita --- synonyms, prabhupada.io",
+    "description":"recounted."
+}
+---
 
 ==== pariguṇita  ====
   * recounted --- [[books:sb:5:3:11|SB 5.3.11]]

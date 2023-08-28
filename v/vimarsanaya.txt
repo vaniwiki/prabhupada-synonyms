@@ -1,5 +1,11 @@
-~~Title:vimarśanāya~~
-{{description>for understanding the truth by consultation.}}
+---json
+{
+    "name":"vimarśanāya",
+    "h1":"vimarśanāya",
+    "title":"vimarśanāya --- synonyms, prabhupada.io",
+    "description":"for understanding the truth by consultation."
+}
+---
 
 ==== tattva-vimarśanāya  ====
   * for understanding the truth by consultation --- [[books:sb:5:12:4|SB 5.12.4]]

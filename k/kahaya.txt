@@ -1,5 +1,11 @@
-~~Title:kahaya~~
-{{description>is applicable; is said; speak.}}
+---json
+{
+    "name":"kahaya",
+    "h1":"kahaya",
+    "title":"kahaya --- synonyms, prabhupada.io",
+    "description":"is applicable; is said; speak."
+}
+---
 
 ==== kahaya  ====
   * is applicable --- [[books:cc:madhya:24:162|Madhya 24.162]]

@@ -1,5 +1,11 @@
-~~Title:haṭṭa~~
-{{description>a resident of Śrīhaṭṭa.}}
+---json
+{
+    "name":"haṭṭa",
+    "h1":"haṭṭa",
+    "title":"haṭṭa --- synonyms, prabhupada.io",
+    "description":"a resident of Śrīhaṭṭa."
+}
+---
 
 ==== śrī-haṭṭa-nivāsī  ====
   * a resident of Śrīhaṭṭa --- [[books:cc:adi:13:56|Ādi 13.56]]

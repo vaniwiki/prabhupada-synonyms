@@ -1,5 +1,11 @@
-~~Title:kahilena~~
-{{description>asked; said; says.}}
+---json
+{
+    "name":"kahilena",
+    "h1":"kahilena",
+    "title":"kahilena --- synonyms, prabhupada.io",
+    "description":"asked; said; says."
+}
+---
 
 ==== kahilena  ====
   * asked --- [[books:cc:madhya:8:46|Madhya 8.46]]

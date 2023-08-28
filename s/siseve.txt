@@ -1,5 +1,11 @@
-~~Title:siṣeve~~
-{{description>enjoyed.}}
+---json
+{
+    "name":"siṣeve",
+    "h1":"siṣeve",
+    "title":"siṣeve --- synonyms, prabhupada.io",
+    "description":"enjoyed."
+}
+---
 
 ==== siṣeve  ====
   * enjoyed --- [[books:sb:3:3:19|SB 3.3.19]]

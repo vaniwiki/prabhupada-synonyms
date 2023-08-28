@@ -1,5 +1,11 @@
-~~Title:nimīla~~
-{{description>eyes closed.}}
+---json
+{
+    "name":"nimīla",
+    "h1":"nimīla",
+    "title":"nimīla --- synonyms, prabhupada.io",
+    "description":"eyes closed."
+}
+---
 
 ==== nimīla-akṣaḥ  ====
   * eyes closed --- [[books:sb:3:11:32|SB 3.11.32]]

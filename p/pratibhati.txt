@@ -1,5 +1,11 @@
-~~Title:pratibhāti~~
-{{description>appears.}}
+---json
+{
+    "name":"pratibhāti",
+    "h1":"pratibhāti",
+    "title":"pratibhāti --- synonyms, prabhupada.io",
+    "description":"appears."
+}
+---
 
 ==== pratibhāti  ====
   * appears --- [[books:sb:5:17:20|SB 5.17.20]]

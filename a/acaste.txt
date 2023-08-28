@@ -1,5 +1,11 @@
-~~Title:ācaṣṭe~~
-{{description>declare.}}
+---json
+{
+    "name":"ācaṣṭe",
+    "h1":"ācaṣṭe",
+    "title":"ācaṣṭe --- synonyms, prabhupada.io",
+    "description":"declare."
+}
+---
 
 ==== ācaṣṭe  ====
   * declare --- [[books:cc:madhya:20:147-148|Madhya 20.147-148]]

@@ -1,5 +1,11 @@
-~~Title:rāṣṭram~~
-{{description>country; kingdom.}}
+---json
+{
+    "name":"rāṣṭram",
+    "h1":"rāṣṭram",
+    "title":"rāṣṭram --- synonyms, prabhupada.io",
+    "description":"country; kingdom."
+}
+---
 
 ==== rāṣṭram  ====
   * country --- [[books:sb:4:25:50|SB 4.25.50]], [[books:sb:4:25:51|SB 4.25.51]]

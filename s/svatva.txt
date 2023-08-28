@@ -1,5 +1,11 @@
-~~Title:svatva~~
-{{description>property.}}
+---json
+{
+    "name":"svatva",
+    "h1":"svatva",
+    "title":"svatva --- synonyms, prabhupada.io",
+    "description":"property."
+}
+---
 
 ==== svatva  ====
   * property --- [[books:sb:4:28:16|SB 4.28.16]]

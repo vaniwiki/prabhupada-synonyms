@@ -1,5 +1,11 @@
-~~Title:naimittikaḥ~~
-{{description>because of that.}}
+---json
+{
+    "name":"naimittikaḥ",
+    "h1":"naimittikaḥ",
+    "title":"naimittikaḥ --- synonyms, prabhupada.io",
+    "description":"because of that."
+}
+---
 
 ==== naimittikaḥ  ====
   * because of that --- [[books:sb:8:24:7|SB 8.24.7]]

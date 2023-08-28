@@ -1,5 +1,11 @@
-~~Title:vacanaḥ~~
-{{description>whose voice.}}
+---json
+{
+    "name":"vacanaḥ",
+    "h1":"vacanaḥ",
+    "title":"vacanaḥ --- synonyms, prabhupada.io",
+    "description":"whose voice."
+}
+---
 
 ==== vacanaḥ  ====
   * whose voice --- [[books:cc:antya:15:14|Antya 15.14]]

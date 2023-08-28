@@ -1,5 +1,11 @@
-~~Title:devakulyām~~
-{{description>a daughter named Devakulyā.}}
+---json
+{
+    "name":"devakulyām",
+    "h1":"devakulyām",
+    "title":"devakulyām --- synonyms, prabhupada.io",
+    "description":"a daughter named Devakulyā."
+}
+---
 
 ==== devakulyām  ====
   * a daughter named Devakulyā --- [[books:sb:4:1:14|SB 4.1.14]]

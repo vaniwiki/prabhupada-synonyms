@@ -1,5 +1,11 @@
-~~Title:aṇimā~~
-{{description>eight kinds of yogic perfection (aṇimā, laghimā, etc.).}}
+---json
+{
+    "name":"aṇimā",
+    "h1":"aṇimā",
+    "title":"aṇimā --- synonyms, prabhupada.io",
+    "description":"eight kinds of yogic perfection (aṇimā, laghimā, etc.)."
+}
+---
 
 ==== aṇimā-ādayaḥ  ====
   * eight kinds of yogic perfection (//aṇimā, laghimā,// etc.) --- [[books:sb:9:15:17-19|SB 9.15.17-19]]

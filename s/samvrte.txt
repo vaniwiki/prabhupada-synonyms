@@ -1,5 +1,11 @@
-~~Title:saṁvṛte~~
-{{description>covering.}}
+---json
+{
+    "name":"saṁvṛte",
+    "h1":"saṁvṛte",
+    "title":"saṁvṛte --- synonyms, prabhupada.io",
+    "description":"covering."
+}
+---
 
 ==== saṁvṛte  ====
   * covering --- [[books:sb:1:7:30|SB 1.7.30]]

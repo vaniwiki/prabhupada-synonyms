@@ -1,5 +1,11 @@
-~~Title:avidūre~~
-{{description>nearby; not very far away; not very far from the residential quarters of the Vrajavāsīs.}}
+---json
+{
+    "name":"avidūre",
+    "h1":"avidūre",
+    "title":"avidūre --- synonyms, prabhupada.io",
+    "description":"nearby; not very far away; not very far from the residential quarters of the Vrajavāsīs."
+}
+---
 
 ==== avidūre  ====
   * nearby --- [[books:sb:5:2:6|SB 5.2.6]]

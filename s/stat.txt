@@ -1,5 +1,11 @@
-~~Title:stāt~~
-{{description>let it be; let there be.}}
+---json
+{
+    "name":"stāt",
+    "h1":"stāt",
+    "title":"stāt --- synonyms, prabhupada.io",
+    "description":"let it be; let there be."
+}
+---
 
 ==== stāt  ====
   * let it be --- [[books:sb:3:15:49|SB 3.15.49]]

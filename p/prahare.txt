@@ -1,5 +1,11 @@
-~~Title:prahare~~
-{{description>in praharas.}}
+---json
+{
+    "name":"prahare",
+    "h1":"prahare",
+    "title":"prahare --- synonyms, prabhupada.io",
+    "description":"in praharas."
+}
+---
 
 ==== prahare  ====
   * in praharas --- [[books:cc:madhya:20:390|Madhya 20.390]]

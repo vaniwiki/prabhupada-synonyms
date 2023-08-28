@@ -1,5 +1,11 @@
-~~Title:samudyame~~
-{{description>in the attempt.}}
+---json
+{
+    "name":"samudyame",
+    "h1":"samudyame",
+    "title":"samudyame --- synonyms, prabhupada.io",
+    "description":"in the attempt."
+}
+---
 
 ==== samudyame  ====
   * in the attempt --- [[books:bg:1:21-22|Bg. 1.21-22]]

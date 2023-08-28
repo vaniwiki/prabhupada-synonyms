@@ -1,5 +1,11 @@
-~~Title:kolāpure~~
-{{description>at Kolāpura.}}
+---json
+{
+    "name":"kolāpure",
+    "h1":"kolāpure",
+    "title":"kolāpure --- synonyms, prabhupada.io",
+    "description":"at Kolāpura."
+}
+---
 
 ==== kolāpure  ====
   * at Kolāpura --- [[books:cc:madhya:9:281|Madhya 9.281]]

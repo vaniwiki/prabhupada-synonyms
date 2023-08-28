@@ -1,5 +1,11 @@
-~~Title:ardhasya~~
-{{description>of the superior half.}}
+---json
+{
+    "name":"ardhasya",
+    "h1":"ardhasya",
+    "title":"ardhasya --- synonyms, prabhupada.io",
+    "description":"of the superior half."
+}
+---
 
 ==== para-ardhasya  ====
   * of the superior half --- [[books:sb:3:11:35|SB 3.11.35]]

@@ -1,5 +1,11 @@
-~~Title:āneṣye~~
-{{description>I shall bring back.}}
+---json
+{
+    "name":"āneṣye",
+    "h1":"āneṣye",
+    "title":"āneṣye --- synonyms, prabhupada.io",
+    "description":"I shall bring back."
+}
+---
 
 ==== āneṣye  ====
   * I shall bring back --- [[books:sb:10:13:13|SB 10.13.13]]

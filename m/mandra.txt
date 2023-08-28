@@ -1,5 +1,11 @@
-~~Title:mandra~~
-{{description>Kṛṣṇa, whose flute produces a deep sound.}}
+---json
+{
+    "name":"mandra",
+    "h1":"mandra",
+    "title":"mandra --- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa, whose flute produces a deep sound."
+}
+---
 
 ==== mandra-muralī-ravaḥ  ====
   * Kṛṣṇa, whose flute produces a deep sound --- [[books:cc:antya:19:35|Antya 19.35]]

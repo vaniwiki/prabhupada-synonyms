@@ -1,5 +1,11 @@
-~~Title:sannyasta~~
-{{description>completely surrendered; dedicated; renounced.}}
+---json
+{
+    "name":"sannyasta",
+    "h1":"sannyasta",
+    "title":"sannyasta --- synonyms, prabhupada.io",
+    "description":"completely surrendered; dedicated; renounced."
+}
+---
 
 ==== sannyasta  ====
   * completely surrendered --- [[books:sb:3:24:38|SB 3.24.38]]

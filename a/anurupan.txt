@@ -1,5 +1,11 @@
-~~Title:anurūpān~~
-{{description>exactly like.}}
+---json
+{
+    "name":"anurūpān",
+    "h1":"anurūpān",
+    "title":"anurūpān --- synonyms, prabhupada.io",
+    "description":"exactly like."
+}
+---
 
 ==== anurūpān  ====
   * exactly like --- [[books:sb:5:7:2|SB 5.7.2]]

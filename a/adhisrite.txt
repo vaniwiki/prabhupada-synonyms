@@ -1,5 +1,11 @@
-~~Title:adhiśrite~~
-{{description>in the milk pan on the oven.}}
+---json
+{
+    "name":"adhiśrite",
+    "h1":"adhiśrite",
+    "title":"adhiśrite --- synonyms, prabhupada.io",
+    "description":"in the milk pan on the oven."
+}
+---
 
 ==== adhiśrite  ====
   * in the milk pan on the oven --- [[books:sb:10:9:5|SB 10.9.5]]

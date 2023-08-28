@@ -1,5 +1,11 @@
-~~Title:kunja~~
-{{description>bushes.}}
+---json
+{
+    "name":"kunja",
+    "h1":"kunja",
+    "title":"kunja --- synonyms, prabhupada.io",
+    "description":"bushes."
+}
+---
 
 ==== kuñja  ====
   * bushes --- [[books:cc:madhya:4:49|Madhya 4.49]]

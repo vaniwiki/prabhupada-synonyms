@@ -1,5 +1,11 @@
-~~Title:upadistah~~
-{{description>being advised.}}
+---json
+{
+    "name":"upadistah",
+    "h1":"upadistah",
+    "title":"upadistah --- synonyms, prabhupada.io",
+    "description":"being advised."
+}
+---
 
 ==== upadiṣṭāḥ  ====
   * being advised --- [[books:sb:4:30:47|SB 4.30.47]]

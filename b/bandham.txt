@@ -1,5 +1,11 @@
-~~Title:bandham~~
-{{description>bondage; material bondage; obligation; the conditional life; the conditional state of life.}}
+---json
+{
+    "name":"bandham",
+    "h1":"bandham",
+    "title":"bandham --- synonyms, prabhupada.io",
+    "description":"bondage; material bondage; obligation; the conditional life; the conditional state of life."
+}
+---
 
 ==== bandham  ====
   * bondage --- [[books:sb:5:5:14|SB 5.5.14]], [[books:sb:6:2:36-37|SB 6.2.36-37]]

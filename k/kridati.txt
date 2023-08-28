@@ -1,5 +1,11 @@
-~~Title:krīḍati~~
-{{description>performs pastimes; playing; plays.}}
+---json
+{
+    "name":"krīḍati",
+    "h1":"krīḍati",
+    "title":"krīḍati --- synonyms, prabhupada.io",
+    "description":"performs pastimes; playing; plays."
+}
+---
 
 ==== krīḍati  ====
   * performs pastimes --- [[books:cc:madhya:18:12|Madhya 18.12]]

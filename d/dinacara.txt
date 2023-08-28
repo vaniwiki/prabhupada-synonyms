@@ -1,5 +1,11 @@
-~~Title:dinacāra~~
-{{description>only four days.}}
+---json
+{
+    "name":"dinacāra",
+    "h1":"dinacāra",
+    "title":"dinacāra --- synonyms, prabhupada.io",
+    "description":"only four days."
+}
+---
 
 ==== dinacāra  ====
   * only four days --- [[books:cc:madhya:1:239|Madhya 1.239]]

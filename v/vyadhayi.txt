@@ -1,5 +1,11 @@
-~~Title:vyadhāyi~~
-{{description>has been created; is described.}}
+---json
+{
+    "name":"vyadhāyi",
+    "h1":"vyadhāyi",
+    "title":"vyadhāyi --- synonyms, prabhupada.io",
+    "description":"has been created; is described."
+}
+---
 
 ==== vyadhāyi  ====
   * has been created --- [[books:cc:adi:4:202|Ādi 4.202]]

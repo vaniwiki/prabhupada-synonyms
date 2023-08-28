@@ -1,5 +1,11 @@
-~~Title:sammohitam~~
-{{description>captivated.}}
+---json
+{
+    "name":"sammohitam",
+    "h1":"sammohitam",
+    "title":"sammohitam --- synonyms, prabhupada.io",
+    "description":"captivated."
+}
+---
 
 ==== sammohitam  ====
   * captivated --- [[books:sb:10:1:25|SB 10.1.25]]

@@ -1,5 +1,11 @@
-~~Title:prīyethāḥ~~
-{{description>kindly be pleased.}}
+---json
+{
+    "name":"prīyethāḥ",
+    "h1":"prīyethāḥ",
+    "title":"prīyethāḥ --- synonyms, prabhupada.io",
+    "description":"kindly be pleased."
+}
+---
 
 ==== prīyethāḥ  ====
   * kindly be pleased --- [[books:sb:6:19:6|SB 6.19.6]]

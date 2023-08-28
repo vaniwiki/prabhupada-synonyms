@@ -1,5 +1,11 @@
-~~Title:babhañja~~
-{{description>broke it.}}
+---json
+{
+    "name":"babhañja",
+    "h1":"babhañja",
+    "title":"babhañja --- synonyms, prabhupada.io",
+    "description":"broke it."
+}
+---
 
 ==== babhañja  ====
   * broke it --- [[books:sb:9:10:6-7|SB 9.10.6-7]]

@@ -1,5 +1,11 @@
-~~Title:kaṣantam~~
-{{description>rubbing.}}
+---json
+{
+    "name":"kaṣantam",
+    "h1":"kaṣantam",
+    "title":"kaṣantam --- synonyms, prabhupada.io",
+    "description":"rubbing."
+}
+---
 
 ==== kaṣantam  ====
   * rubbing --- [[books:sb:10:9:11|SB 10.9.11]]

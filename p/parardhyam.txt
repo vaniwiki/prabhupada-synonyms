@@ -1,5 +1,11 @@
-~~Title:parārdhyam~~
-{{description>15,480,000,000,000 solar years.}}
+---json
+{
+    "name":"parārdhyam",
+    "h1":"parārdhyam",
+    "title":"parārdhyam --- synonyms, prabhupada.io",
+    "description":"15,480,000,000,000 solar years."
+}
+---
 
 ==== dvai-parārdhyam  ====
   * 15,480,000,000,000 solar years --- [[books:sb:2:2:26|SB 2.2.26]]

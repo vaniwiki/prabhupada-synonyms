@@ -1,5 +1,11 @@
-~~Title:pariveṣṭāraḥ~~
-{{description>offering the foodstuffs.}}
+---json
+{
+    "name":"pariveṣṭāraḥ",
+    "h1":"pariveṣṭāraḥ",
+    "title":"pariveṣṭāraḥ --- synonyms, prabhupada.io",
+    "description":"offering the foodstuffs."
+}
+---
 
 ==== pariveṣṭāraḥ  ====
   * offering the foodstuffs --- [[books:sb:9:2:28|SB 9.2.28]]

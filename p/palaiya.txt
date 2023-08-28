@@ -1,5 +1,11 @@
-~~Title:palāiyā~~
-{{description>running away.}}
+---json
+{
+    "name":"palāiyā",
+    "h1":"palāiyā",
+    "title":"palāiyā --- synonyms, prabhupada.io",
+    "description":"running away."
+}
+---
 
 ==== palāiyā  ====
   * running away --- [[books:cc:adi:14:72|Ādi 14.72]]

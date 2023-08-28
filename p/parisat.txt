@@ -1,5 +1,11 @@
-~~Title:parisat~~
-{{description>factual devotees.}}
+---json
+{
+    "name":"parisat",
+    "h1":"parisat",
+    "title":"parisat --- synonyms, prabhupada.io",
+    "description":"factual devotees."
+}
+---
 
 ==== pāriṣat-gaṇa  ====
   * factual devotees --- [[books:cc:adi:1:64|Ādi 1.64]]

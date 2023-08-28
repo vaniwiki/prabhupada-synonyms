@@ -1,5 +1,11 @@
-~~Title:setuṣu~~
-{{description>respective social orders.}}
+---json
+{
+    "name":"setuṣu",
+    "h1":"setuṣu",
+    "title":"setuṣu --- synonyms, prabhupada.io",
+    "description":"respective social orders."
+}
+---
 
 ==== setuṣu  ====
   * respective social orders --- [[books:sb:4:21:22|SB 4.21.22]]

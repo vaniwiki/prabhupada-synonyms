@@ -1,5 +1,11 @@
-~~Title:sevitā~~
-{{description>resorted to.}}
+---json
+{
+    "name":"sevitā",
+    "h1":"sevitā",
+    "title":"sevitā --- synonyms, prabhupada.io",
+    "description":"resorted to."
+}
+---
 
 ==== sevitā  ====
   * resorted to --- [[books:sb:3:33:32|SB 3.33.32]]

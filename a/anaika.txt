@@ -1,5 +1,11 @@
-~~Title:anaika~~
-{{description>many.}}
+---json
+{
+    "name":"anaika",
+    "h1":"anaika",
+    "title":"anaika --- synonyms, prabhupada.io",
+    "description":"many."
+}
+---
 
 ==== anaika  ====
   * many --- [[books:sb:3:9:15|SB 3.9.15]]

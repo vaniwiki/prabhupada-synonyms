@@ -1,5 +1,11 @@
-~~Title:mauli~~
-{{description>garlands; heads.}}
+---json
+{
+    "name":"mauli",
+    "h1":"mauli",
+    "title":"mauli --- synonyms, prabhupada.io",
+    "description":"garlands; heads."
+}
+---
 
 ==== mauli  ====
   * garlands --- [[books:sb:1:3:4|SB 1.3.4]]

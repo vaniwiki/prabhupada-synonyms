@@ -1,5 +1,11 @@
-~~Title:māse~~
-{{description>every month; in one month; in the month; the month.}}
+---json
+{
+    "name":"māse",
+    "h1":"māse",
+    "title":"māse --- synonyms, prabhupada.io",
+    "description":"every month; in one month; in the month; the month."
+}
+---
 
 ==== māse  ====
   * every month --- [[books:cc:antya:6:269|Antya 6.269]]

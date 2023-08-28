@@ -1,5 +1,11 @@
-~~Title:mṛgayāmi~~
-{{description>I am searching after.}}
+---json
+{
+    "name":"mṛgayāmi",
+    "h1":"mṛgayāmi",
+    "title":"mṛgayāmi --- synonyms, prabhupada.io",
+    "description":"I am searching after."
+}
+---
 
 ==== mṛgayāmi  ====
   * I am searching after --- [[books:sb:4:8:23|SB 4.8.23]]

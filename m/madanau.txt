@@ -1,5 +1,11 @@
-~~Title:mādanau~~
-{{description>the demarcation mountains of Mālyavān on the west and Gandhamādana on the east.}}
+---json
+{
+    "name":"mādanau",
+    "h1":"mādanau",
+    "title":"mādanau --- synonyms, prabhupada.io",
+    "description":"the demarcation mountains of Mālyavān on the west and Gandhamādana on the east."
+}
+---
 
 ==== mālyavad-gandha-mādanau  ====
   * the demarcation mountains of Mālyavān on the west and Gandhamādana on the east --- [[books:sb:5:16:10|SB 5.16.10]]

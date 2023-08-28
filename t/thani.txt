@@ -1,5 +1,11 @@
-~~Title:thani~~
-{{description>place; space; to the place.}}
+---json
+{
+    "name":"thani",
+    "h1":"thani",
+    "title":"thani --- synonyms, prabhupada.io",
+    "description":"place; space; to the place."
+}
+---
 
 ==== ṭhāñi  ====
   * place --- [[books:cc:madhya:1:173|Madhya 1.173]]

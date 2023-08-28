@@ -1,5 +1,11 @@
-~~Title:ketanam~~
-{{description>the house.}}
+---json
+{
+    "name":"ketanam",
+    "h1":"ketanam",
+    "title":"ketanam --- synonyms, prabhupada.io",
+    "description":"the house."
+}
+---
 
 ==== ketanam  ====
   * the house --- [[books:sb:4:3:13|SB 4.3.13]]

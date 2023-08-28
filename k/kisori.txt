@@ -1,5 +1,11 @@
-~~Title:kiśorī~~
-{{description>very young.}}
+---json
+{
+    "name":"kiśorī",
+    "h1":"kiśorī",
+    "title":"kiśorī --- synonyms, prabhupada.io",
+    "description":"very young."
+}
+---
 
 ==== kiśorī  ====
   * very young --- [[books:cc:antya:5:13|Antya 5.13]]

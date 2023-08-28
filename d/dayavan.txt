@@ -1,5 +1,11 @@
-~~Title:dayāvān~~
-{{description>merciful.}}
+---json
+{
+    "name":"dayāvān",
+    "h1":"dayāvān",
+    "title":"dayāvān --- synonyms, prabhupada.io",
+    "description":"merciful."
+}
+---
 
 ==== dayāvān  ====
   * merciful --- [[books:cc:madhya:5:79|Madhya 5.79]]

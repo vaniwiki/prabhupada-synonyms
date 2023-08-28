@@ -1,5 +1,11 @@
-~~Title:nirmathita~~
-{{description>subsided.}}
+---json
+{
+    "name":"nirmathita",
+    "h1":"nirmathita",
+    "title":"nirmathita --- synonyms, prabhupada.io",
+    "description":"subsided."
+}
+---
 
 ==== nirmathita  ====
   * subsided --- [[books:sb:1:15:29|SB 1.15.29]]

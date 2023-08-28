@@ -1,5 +1,11 @@
-~~Title:uparatam~~
-{{description>ceased; passed away; stopped.}}
+---json
+{
+    "name":"uparatam",
+    "h1":"uparatam",
+    "title":"uparatam --- synonyms, prabhupada.io",
+    "description":"ceased; passed away; stopped."
+}
+---
 
 ==== uparatam  ====
   * ceased --- [[books:bg:2:35|Bg. 2.35]]

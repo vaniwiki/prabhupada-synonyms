@@ -1,5 +1,11 @@
-~~Title:sadṛśān~~
-{{description>exactly like himself.}}
+---json
+{
+    "name":"sadṛśān",
+    "h1":"sadṛśān",
+    "title":"sadṛśān --- synonyms, prabhupada.io",
+    "description":"exactly like himself."
+}
+---
 
 ==== sva-sadṛśān  ====
   * exactly like himself --- [[books:sb:9:2:2|SB 9.2.2]]

@@ -1,5 +1,11 @@
-~~Title:pracoditah~~
-{{description>being asked.}}
+---json
+{
+    "name":"pracoditah",
+    "h1":"pracoditah",
+    "title":"pracoditah --- synonyms, prabhupada.io",
+    "description":"being asked."
+}
+---
 
 ==== pracoditaḥ  ====
   * being asked --- [[books:sb:3:25:4|SB 3.25.4]]

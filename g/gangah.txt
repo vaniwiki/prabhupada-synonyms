@@ -1,5 +1,11 @@
-~~Title:gāṅgāḥ~~
-{{description>of the River Ganges.}}
+---json
+{
+    "name":"gāṅgāḥ",
+    "h1":"gāṅgāḥ",
+    "title":"gāṅgāḥ --- synonyms, prabhupada.io",
+    "description":"of the River Ganges."
+}
+---
 
 ==== gāṅgāḥ  ====
   * of the River Ganges --- [[books:sb:3:20:5|SB 3.20.5]]

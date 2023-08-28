@@ -1,5 +1,11 @@
-~~Title:phaḍi~~
-{{description>twisting with pain.}}
+---json
+{
+    "name":"phaḍi",
+    "h1":"phaḍi",
+    "title":"phaḍi --- synonyms, prabhupada.io",
+    "description":"twisting with pain."
+}
+---
 
 ==== kare dhaḍ-phaḍi  ====
   * twisting with pain --- [[books:cc:madhya:24:231|Madhya 24.231]]

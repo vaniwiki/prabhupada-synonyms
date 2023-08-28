@@ -1,5 +1,11 @@
-~~Title:abhimateḥ~~
-{{description>from Abhimati.}}
+---json
+{
+    "name":"abhimateḥ",
+    "h1":"abhimateḥ",
+    "title":"abhimateḥ --- synonyms, prabhupada.io",
+    "description":"from Abhimati."
+}
+---
 
 ==== abhimateḥ  ====
   * from Abhimati --- [[books:sb:6:6:10-11|SB 6.6.10-11]]

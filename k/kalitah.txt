@@ -1,5 +1,11 @@
-~~Title:kalitaḥ~~
-{{description>bitten.}}
+---json
+{
+    "name":"kalitaḥ",
+    "h1":"kalitaḥ",
+    "title":"kalitaḥ --- synonyms, prabhupada.io",
+    "description":"bitten."
+}
+---
 
 ==== kalitaḥ  ====
   * bitten --- [[books:cc:antya:5:1|Antya 5.1]]

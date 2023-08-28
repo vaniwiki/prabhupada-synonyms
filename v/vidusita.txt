@@ -1,5 +1,11 @@
-~~Title:vidusita~~
-{{description>contaminated.}}
+---json
+{
+    "name":"vidusita",
+    "h1":"vidusita",
+    "title":"vidusita --- synonyms, prabhupada.io",
+    "description":"contaminated."
+}
+---
 
 ==== vidūṣitā  ====
   * contaminated --- [[books:sb:4:9:32|SB 4.9.32]]

@@ -1,5 +1,11 @@
-~~Title:lolat~~
-{{description>moving.}}
+---json
+{
+    "name":"lolat",
+    "h1":"lolat",
+    "title":"lolat --- synonyms, prabhupada.io",
+    "description":"moving."
+}
+---
 
 ==== lolat  ====
   * moving --- [[books:sb:3:15:38|SB 3.15.38]]

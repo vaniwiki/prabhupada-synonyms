@@ -1,5 +1,11 @@
-~~Title:sammoha~~
-{{description>whose mind was stupefied.}}
+---json
+{
+    "name":"sammoha",
+    "h1":"sammoha",
+    "title":"sammoha --- synonyms, prabhupada.io",
+    "description":"whose mind was stupefied."
+}
+---
 
 ==== sammoha-vimūḍha-cetāḥ  ====
   * whose mind was stupefied --- [[books:sb:3:22:17|SB 3.22.17]]

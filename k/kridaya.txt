@@ -1,5 +1,11 @@
-~~Title:krīḍayā~~
-{{description>by play; for the sake of pastimes in the mortal world.}}
+---json
+{
+    "name":"krīḍayā",
+    "h1":"krīḍayā",
+    "title":"krīḍayā --- synonyms, prabhupada.io",
+    "description":"by play; for the sake of pastimes in the mortal world."
+}
+---
 
 ==== krīḍayā  ====
   * by play --- [[books:sb:3:20:35|SB 3.20.35]]

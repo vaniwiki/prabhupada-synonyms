@@ -1,5 +1,11 @@
-~~Title:kaṇṭhyam~~
-{{description>attachment.}}
+---json
+{
+    "name":"kaṇṭhyam",
+    "h1":"kaṇṭhyam",
+    "title":"kaṇṭhyam --- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== aut-kaṇṭhyam  ====
   * attachment --- [[books:sb:10:13:35|SB 10.13.35]]

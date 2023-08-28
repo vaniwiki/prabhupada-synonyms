@@ -1,5 +1,11 @@
-~~Title:vibhakta~~
-{{description>divided.}}
+---json
+{
+    "name":"vibhakta",
+    "h1":"vibhakta",
+    "title":"vibhakta --- synonyms, prabhupada.io",
+    "description":"divided."
+}
+---
 
 ==== vibhakta  ====
   * divided --- [[books:sb:3:33:3|SB 3.33.3]], [[books:sb:4:11:18|SB 4.11.18]]

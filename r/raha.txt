@@ -1,5 +1,11 @@
-~~Title:raha~~
-{{description>just wait; keep; kindly remain; kindly stay; live; please stay; remain; stay; You remain.}}
+---json
+{
+    "name":"raha",
+    "h1":"raha",
+    "title":"raha --- synonyms, prabhupada.io",
+    "description":"just wait; keep; kindly remain; kindly stay; live; please stay; remain; stay; You remain."
+}
+---
 
 ==== raha  ====
   * just wait --- [[books:cc:antya:5:15|Antya 5.15]]

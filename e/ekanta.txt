@@ -1,5 +1,11 @@
-~~Title:ekānta~~
-{{description>exclusive; exclusively; exclusively fixed; in a solitary place; much; only; positively; pure; unflinching; without deviation.}}
+---json
+{
+    "name":"ekānta",
+    "h1":"ekānta",
+    "title":"ekānta --- synonyms, prabhupada.io",
+    "description":"exclusive; exclusively; exclusively fixed; in a solitary place; much; only; positively; pure; unflinching; without deviation."
+}
+---
 
 ==== ekānta  ====
   * exclusive --- [[books:sb:1:18:19|SB 1.18.19]]

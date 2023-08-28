@@ -1,5 +1,11 @@
-~~Title:janatam~~
-{{description>the people in general.}}
+---json
+{
+    "name":"janatam",
+    "h1":"janatam",
+    "title":"janatam --- synonyms, prabhupada.io",
+    "description":"the people in general."
+}
+---
 
 ==== janatām  ====
   * the people in general --- [[books:sb:5:4:16|SB 5.4.16]]

@@ -1,5 +1,11 @@
-~~Title:rūpāt~~
-{{description>situated in a lower position.}}
+---json
+{
+    "name":"rūpāt",
+    "h1":"rūpāt",
+    "title":"rūpāt --- synonyms, prabhupada.io",
+    "description":"situated in a lower position."
+}
+---
 
 ==== laghu-rūpāt  ====
   * situated in a lower position --- [[books:cc:antya:1:139|Antya 1.139]]

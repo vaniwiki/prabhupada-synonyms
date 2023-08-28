@@ -1,5 +1,11 @@
-~~Title:vanaruha~~
-{{description>by the fragrance of lotus flowers.}}
+---json
+{
+    "name":"vanaruha",
+    "h1":"vanaruha",
+    "title":"vanaruha --- synonyms, prabhupada.io",
+    "description":"by the fragrance of lotus flowers."
+}
+---
 
 ==== nava-vanaruha-āmoda  ====
   * by the fragrance of lotus flowers --- [[books:sb:5:17:13|SB 5.17.13]]

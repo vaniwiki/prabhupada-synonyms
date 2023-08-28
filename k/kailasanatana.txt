@@ -1,5 +1,11 @@
-~~Title:kailasanātana~~
-{{description>Sanātana has so spoken.}}
+---json
+{
+    "name":"kailasanātana",
+    "h1":"kailasanātana",
+    "title":"kailasanātana --- synonyms, prabhupada.io",
+    "description":"Sanātana has so spoken."
+}
+---
 
 ==== kailasanātana  ====
   * Sanātana has so spoken --- [[books:cc:madhya:1:228|Madhya 1.228]]

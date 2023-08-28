@@ -1,5 +1,11 @@
-~~Title:durdaive~~
-{{description>by chance; by misfortune.}}
+---json
+{
+    "name":"durdaive",
+    "h1":"durdaive",
+    "title":"durdaive --- synonyms, prabhupada.io",
+    "description":"by chance; by misfortune."
+}
+---
 
 ==== durdaive  ====
   * by chance --- [[books:cc:antya:4:47|Antya 4.47]]

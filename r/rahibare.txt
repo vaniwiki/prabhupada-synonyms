@@ -1,5 +1,11 @@
-~~Title:rahibāre~~
-{{description>could not stay.}}
+---json
+{
+    "name":"rahibāre",
+    "h1":"rahibāre",
+    "title":"rahibāre --- synonyms, prabhupada.io",
+    "description":"could not stay."
+}
+---
 
 ==== nāre rahibāre  ====
   * could not stay --- [[books:cc:madhya:12:45|Madhya 12.45]]

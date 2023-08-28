@@ -1,5 +1,11 @@
-~~Title:adhyāyaḥ~~
-{{description>study of the Vedas.}}
+---json
+{
+    "name":"adhyāyaḥ",
+    "h1":"adhyāyaḥ",
+    "title":"adhyāyaḥ --- synonyms, prabhupada.io",
+    "description":"study of the Vedas."
+}
+---
 
 ==== sva-adhyāyaḥ  ====
   * study of the //Vedas// --- [[books:sb:3:28:4|SB 3.28.4]]

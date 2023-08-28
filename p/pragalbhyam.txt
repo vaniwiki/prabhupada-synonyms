@@ -1,5 +1,11 @@
-~~Title:prāgalbhyam~~
-{{description>ingenuity.}}
+---json
+{
+    "name":"prāgalbhyam",
+    "h1":"prāgalbhyam",
+    "title":"prāgalbhyam --- synonyms, prabhupada.io",
+    "description":"ingenuity."
+}
+---
 
 ==== prāgalbhyam  ====
   * ingenuity --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

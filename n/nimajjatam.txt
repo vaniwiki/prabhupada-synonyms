@@ -1,5 +1,11 @@
-~~Title:nimajjatām~~
-{{description>just dive.}}
+---json
+{
+    "name":"nimajjatām",
+    "h1":"nimajjatām",
+    "title":"nimajjatām --- synonyms, prabhupada.io",
+    "description":"just dive."
+}
+---
 
 ==== nimajjatām  ====
   * just dive --- [[books:sb:9:3:13|SB 9.3.13]]

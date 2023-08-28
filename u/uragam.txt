@@ -1,5 +1,11 @@
-~~Title:uragam~~
-{{description>a snake; snake; unto the snake.}}
+---json
+{
+    "name":"uragam",
+    "h1":"uragam",
+    "title":"uragam --- synonyms, prabhupada.io",
+    "description":"a snake; snake; unto the snake."
+}
+---
 
 ==== uragam  ====
   * a snake --- [[books:sb:10:6:8|SB 10.6.8]]

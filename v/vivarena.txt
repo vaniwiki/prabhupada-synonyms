@@ -1,5 +1,11 @@
-~~Title:vivareṇa~~
-{{description>through the bole.}}
+---json
+{
+    "name":"vivareṇa",
+    "h1":"vivareṇa",
+    "title":"vivareṇa --- synonyms, prabhupada.io",
+    "description":"through the bole."
+}
+---
 
 ==== vivareṇa  ====
   * through the bole --- [[books:sb:5:17:1|SB 5.17.1]]

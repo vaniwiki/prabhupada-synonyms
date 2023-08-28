@@ -1,5 +1,11 @@
-~~Title:dīvyat~~
-{{description>shining.}}
+---json
+{
+    "name":"dīvyat",
+    "h1":"dīvyat",
+    "title":"dīvyat --- synonyms, prabhupada.io",
+    "description":"shining."
+}
+---
 
 ==== dīvyat  ====
   * shining --- [[books:cc:adi:1:16|Ādi 1.16]], [[books:cc:madhya:1:4|Madhya 1.4]], [[books:cc:antya:1:6|Antya 1.6]]

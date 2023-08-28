@@ -1,5 +1,11 @@
-~~Title:vṛttau~~
-{{description>equally round.}}
+---json
+{
+    "name":"vṛttau",
+    "h1":"vṛttau",
+    "title":"vṛttau --- synonyms, prabhupada.io",
+    "description":"equally round."
+}
+---
 
 ==== sama-vṛttau  ====
   * equally round --- [[books:sb:4:25:24|SB 4.25.24]]

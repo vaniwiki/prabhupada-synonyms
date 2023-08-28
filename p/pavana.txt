@@ -1,5 +1,11 @@
-~~Title:pavana~~
-{{description>air.}}
+---json
+{
+    "name":"pavana",
+    "h1":"pavana",
+    "title":"pavana --- synonyms, prabhupada.io",
+    "description":"air."
+}
+---
 
 ==== pavana  ====
   * air --- [[books:sb:4:24:22|SB 4.24.22]]

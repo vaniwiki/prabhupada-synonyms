@@ -1,5 +1,11 @@
-~~Title:madiyam~~
-{{description>my residence, Brahmaloka; pertaining to Me.}}
+---json
+{
+    "name":"madiyam",
+    "h1":"madiyam",
+    "title":"madiyam --- synonyms, prabhupada.io",
+    "description":"my residence, Brahmaloka; pertaining to Me."
+}
+---
 
 ==== madīyam  ====
   * my residence, Brahmaloka --- [[books:sb:9:4:53-54|SB 9.4.53-54]]

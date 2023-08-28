@@ -1,5 +1,11 @@
-~~Title:prathamam~~
-{{description>first; first of all.}}
+---json
+{
+    "name":"prathamam",
+    "h1":"prathamam",
+    "title":"prathamam --- synonyms, prabhupada.io",
+    "description":"first; first of all."
+}
+---
 
 ==== prathamam  ====
   * first --- [[books:sb:1:3:6|SB 1.3.6]], [[books:sb:4:7:14|SB 4.7.14]]

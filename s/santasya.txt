@@ -1,5 +1,11 @@
-~~Title:śāntasya~~
-{{description>who is peaceful.}}
+---json
+{
+    "name":"śāntasya",
+    "h1":"śāntasya",
+    "title":"śāntasya --- synonyms, prabhupada.io",
+    "description":"who is peaceful."
+}
+---
 
 ==== śāntasya  ====
   * who is peaceful --- [[books:sb:7:13:9|SB 7.13.9]]

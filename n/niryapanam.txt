@@ -1,5 +1,11 @@
-~~Title:niryāpaṇam~~
-{{description>driving away.}}
+---json
+{
+    "name":"niryāpaṇam",
+    "h1":"niryāpaṇam",
+    "title":"niryāpaṇam --- synonyms, prabhupada.io",
+    "description":"driving away."
+}
+---
 
 ==== niryāpaṇam  ====
   * driving away --- [[books:sb:1:7:57|SB 1.7.57]]

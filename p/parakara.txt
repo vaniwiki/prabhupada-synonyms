@@ -1,5 +1,11 @@
-~~Title:parakāra~~
-{{description>five categories; five varieties.}}
+---json
+{
+    "name":"parakāra",
+    "h1":"parakāra",
+    "title":"parakāra --- synonyms, prabhupada.io",
+    "description":"five categories; five varieties."
+}
+---
 
 ==== pañca parakāra  ====
   * five categories --- [[books:cc:madhya:19:183-184|Madhya 19.183-184]]

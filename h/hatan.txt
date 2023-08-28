@@ -1,5 +1,11 @@
-~~Title:hatān~~
-{{description>already killed; murdered.}}
+---json
+{
+    "name":"hatān",
+    "h1":"hatān",
+    "title":"hatān --- synonyms, prabhupada.io",
+    "description":"already killed; murdered."
+}
+---
 
 ==== hatān  ====
   * already killed --- [[books:bg:11:34|Bg. 11.34]]

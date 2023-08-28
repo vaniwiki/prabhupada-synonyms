@@ -1,5 +1,11 @@
-~~Title:vikāryam~~
-{{description>egoism.}}
+---json
+{
+    "name":"vikāryam",
+    "h1":"vikāryam",
+    "title":"vikāryam --- synonyms, prabhupada.io",
+    "description":"egoism."
+}
+---
 
 ==== vikāryam  ====
   * egoism --- [[books:sb:2:2:30|SB 2.2.30]]

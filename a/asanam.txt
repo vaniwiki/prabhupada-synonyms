@@ -1,5 +1,11 @@
-~~Title:asanam~~
-{{description>a seat; a sitting place; on the seat; position on the throne; seat; sitting accommodation; sitting position; the throne; the throne of the state; throne.}}
+---json
+{
+    "name":"asanam",
+    "h1":"asanam",
+    "title":"asanam --- synonyms, prabhupada.io",
+    "description":"a seat; a sitting place; on the seat; position on the throne; seat; sitting accommodation; sitting position; the throne; the throne of the state; throne."
+}
+---
 
 ==== āsanam  ====
   * a seat --- [[books:sb:3:28:8|SB 3.28.8]], [[books:sb:4:4:8|SB 4.4.8]]

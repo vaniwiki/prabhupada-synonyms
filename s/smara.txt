@@ -1,5 +1,11 @@
-~~Title:smara~~
-{{description>by the smiling; please remember.}}
+---json
+{
+    "name":"smara",
+    "h1":"smara",
+    "title":"smara --- synonyms, prabhupada.io",
+    "description":"by the smiling; please remember."
+}
+---
 
 ==== smara  ====
   * by the smiling --- [[books:sb:8:12:25|SB 8.12.25]]

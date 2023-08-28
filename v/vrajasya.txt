@@ -1,5 +1,11 @@
-~~Title:vrajasya~~
-{{description>of all the inhabitants of Vraja; of the herd of cows; of Vrajabhūmi.}}
+---json
+{
+    "name":"vrajasya",
+    "h1":"vrajasya",
+    "title":"vrajasya --- synonyms, prabhupada.io",
+    "description":"of all the inhabitants of Vraja; of the herd of cows; of Vrajabhūmi."
+}
+---
 
 ==== vrajasya  ====
   * of all the inhabitants of Vraja --- [[books:sb:10:13:36|SB 10.13.36]]

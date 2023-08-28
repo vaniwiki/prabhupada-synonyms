@@ -1,5 +1,11 @@
-~~Title:yāminī~~
-{{description>Yāminī.}}
+---json
+{
+    "name":"yāminī",
+    "h1":"yāminī",
+    "title":"yāminī --- synonyms, prabhupada.io",
+    "description":"Yāminī."
+}
+---
 
 ==== yāminī  ====
   * Yāminī --- [[books:sb:6:6:21-22|SB 6.6.21-22]]

@@ -1,5 +1,11 @@
-~~Title:āmiha~~
-{{description>and yet I; I; I also.}}
+---json
+{
+    "name":"āmiha",
+    "h1":"āmiha",
+    "title":"āmiha --- synonyms, prabhupada.io",
+    "description":"and yet I; I; I also."
+}
+---
 
 ==== āmiha  ====
   * and yet I --- [[books:cc:antya:19:28|Antya 19.28]]

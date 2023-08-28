@@ -1,5 +1,11 @@
-~~Title:udanvān~~
-{{description>the ocean.}}
+---json
+{
+    "name":"udanvān",
+    "h1":"udanvān",
+    "title":"udanvān --- synonyms, prabhupada.io",
+    "description":"the ocean."
+}
+---
 
 ==== udanvān  ====
   * the ocean --- [[books:sb:3:13:29|SB 3.13.29]]

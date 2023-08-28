@@ -1,5 +1,11 @@
-~~Title:dhārayati~~
-{{description>employs this prayer; executes.}}
+---json
+{
+    "name":"dhārayati",
+    "h1":"dhārayati",
+    "title":"dhārayati --- synonyms, prabhupada.io",
+    "description":"employs this prayer; executes."
+}
+---
 
 ==== dhārayati  ====
   * employs this prayer --- [[books:sb:6:8:41|SB 6.8.41]]

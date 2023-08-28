@@ -1,5 +1,11 @@
-~~Title:panasa~~
-{{description>jackfruit; O jackfruit tree; Panasa.}}
+---json
+{
+    "name":"panasa",
+    "h1":"panasa",
+    "title":"panasa --- synonyms, prabhupada.io",
+    "description":"jackfruit; O jackfruit tree; Panasa."
+}
+---
 
 ==== panasa  ====
   * jackfruit --- [[books:cc:antya:18:104|Antya 18.104]]

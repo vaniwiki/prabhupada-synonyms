@@ -1,5 +1,11 @@
-~~Title:mūlāni~~
-{{description>roots.}}
+---json
+{
+    "name":"mūlāni",
+    "h1":"mūlāni",
+    "title":"mūlāni --- synonyms, prabhupada.io",
+    "description":"roots."
+}
+---
 
 ==== mūlāni  ====
   * roots --- [[books:bg:15:2|Bg. 15.2]]

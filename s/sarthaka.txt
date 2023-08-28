@@ -1,5 +1,11 @@
-~~Title:sārthaka~~
-{{description>complete; fulfillment.}}
+---json
+{
+    "name":"sārthaka",
+    "h1":"sārthaka",
+    "title":"sārthaka --- synonyms, prabhupada.io",
+    "description":"complete; fulfillment."
+}
+---
 
 ==== sārthaka  ====
   * complete --- [[books:cc:adi:9:7|Ādi 9.7]]

@@ -1,5 +1,11 @@
-~~Title:anathah~~
-{{description>helpless.}}
+---json
+{
+    "name":"anathah",
+    "h1":"anathah",
+    "title":"anathah --- synonyms, prabhupada.io",
+    "description":"helpless."
+}
+---
 
 ==== anāthāḥ  ====
   * helpless --- [[books:sb:1:9:17|SB 1.9.17]], [[books:sb:1:13:45|SB 1.13.45]]

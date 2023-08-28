@@ -1,5 +1,11 @@
-~~Title:gahvareṣu~~
-{{description>everywhere in the mountains, the mountain caves, the bushes and narrow places.}}
+---json
+{
+    "name":"gahvareṣu",
+    "h1":"gahvareṣu",
+    "title":"gahvareṣu --- synonyms, prabhupada.io",
+    "description":"everywhere in the mountains, the mountain caves, the bushes and narrow places."
+}
+---
 
 ==== adri-darī-kuñja-gahvareṣu  ====
   * everywhere in the mountains, the mountain caves, the bushes and narrow places --- [[books:sb:10:13:14|SB 10.13.14]]

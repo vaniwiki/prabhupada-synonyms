@@ -1,5 +1,11 @@
-~~Title:aṭṭālikā~~
-{{description>ascending to the top of the palace.}}
+---json
+{
+    "name":"aṭṭālikā",
+    "h1":"aṭṭālikā",
+    "title":"aṭṭālikā --- synonyms, prabhupada.io",
+    "description":"ascending to the top of the palace."
+}
+---
 
 ==== aṭṭālikā caḍi'  ====
   * ascending to the top of the palace --- [[books:cc:madhya:11:236|Madhya 11.236]]

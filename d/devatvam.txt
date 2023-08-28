@@ -1,5 +1,11 @@
-~~Title:devatvam~~
-{{description>being a demigod; divinity.}}
+---json
+{
+    "name":"devatvam",
+    "h1":"devatvam",
+    "title":"devatvam --- synonyms, prabhupada.io",
+    "description":"being a demigod; divinity."
+}
+---
 
 ==== devatvam  ====
   * being a demigod --- [[books:sb:7:7:51-52|SB 7.7.51-52]]

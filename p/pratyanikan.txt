@@ -1,5 +1,11 @@
-~~Title:pratyanīkān~~
-{{description>inimical to them.}}
+---json
+{
+    "name":"pratyanīkān",
+    "h1":"pratyanīkān",
+    "title":"pratyanīkān --- synonyms, prabhupada.io",
+    "description":"inimical to them."
+}
+---
 
 ==== tat-pratyanīkān  ====
   * inimical to them --- [[books:sb:7:1:12|SB 7.1.12]]

@@ -1,5 +1,11 @@
-~~Title:dhauta~~
-{{description>clean; having completely washed.}}
+---json
+{
+    "name":"dhauta",
+    "h1":"dhauta",
+    "title":"dhauta --- synonyms, prabhupada.io",
+    "description":"clean; having completely washed."
+}
+---
 
 ==== dhauta  ====
   * clean --- [[books:cc:adi:4:170|Ādi 4.170]]

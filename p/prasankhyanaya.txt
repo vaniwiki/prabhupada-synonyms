@@ -1,5 +1,11 @@
-~~Title:prasaṅkhyānāya~~
-{{description>for explaining.}}
+---json
+{
+    "name":"prasaṅkhyānāya",
+    "h1":"prasaṅkhyānāya",
+    "title":"prasaṅkhyānāya --- synonyms, prabhupada.io",
+    "description":"for explaining."
+}
+---
 
 ==== prasaṅkhyānāya  ====
   * for explaining --- [[books:sb:3:24:36|SB 3.24.36]]

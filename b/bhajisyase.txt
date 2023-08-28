@@ -1,5 +1,11 @@
-~~Title:bhajiṣyase~~
-{{description>you will take to.}}
+---json
+{
+    "name":"bhajiṣyase",
+    "h1":"bhajiṣyase",
+    "title":"bhajiṣyase --- synonyms, prabhupada.io",
+    "description":"you will take to."
+}
+---
 
 ==== bhajiṣyase  ====
   * you will take to --- [[books:sb:5:10:7|SB 5.10.7]]

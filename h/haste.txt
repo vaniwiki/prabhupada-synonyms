@@ -1,5 +1,11 @@
-~~Title:haste~~
-{{description>by the hand; in the hand; in the hands; on the hand; the hands; with his hand.}}
+---json
+{
+    "name":"haste",
+    "h1":"haste",
+    "title":"haste --- synonyms, prabhupada.io",
+    "description":"by the hand; in the hand; in the hands; on the hand; the hands; with his hand."
+}
+---
 
 ==== haste  ====
   * by the hand --- [[books:sb:10:9:11|SB 10.9.11]]

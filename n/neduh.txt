@@ -1,5 +1,11 @@
-~~Title:neduḥ~~
-{{description>beaten; began to beat; made their sound; resounded; sounded; vibrated; were beaten; were sounded.}}
+---json
+{
+    "name":"neduḥ",
+    "h1":"neduḥ",
+    "title":"neduḥ --- synonyms, prabhupada.io",
+    "description":"beaten; began to beat; made their sound; resounded; sounded; vibrated; were beaten; were sounded."
+}
+---
 
 ==== neduḥ  ====
   * beaten --- [[books:sb:1:19:18|SB 1.19.18]]

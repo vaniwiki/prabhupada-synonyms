@@ -1,5 +1,11 @@
-~~Title:akarma~~
-{{description>freedom from fruitive results; inaction.}}
+---json
+{
+    "name":"akarma",
+    "h1":"akarma",
+    "title":"akarma --- synonyms, prabhupada.io",
+    "description":"freedom from fruitive results; inaction."
+}
+---
 
 ==== akarma  ====
   * freedom from fruitive results --- [[books:sb:8:1:14|SB 8.1.14]]

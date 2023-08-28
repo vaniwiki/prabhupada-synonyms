@@ -1,5 +1,11 @@
-~~Title:pākān~~
-{{description>even to the caṇḍālas, persons habituated to eating the flesh of dogs.}}
+---json
+{
+    "name":"pākān",
+    "h1":"pākān",
+    "title":"pākān --- synonyms, prabhupada.io",
+    "description":"even to the caṇḍālas, persons habituated to eating the flesh of dogs."
+}
+---
 
 ==== āśva-pākān  ====
   * even to the //caṇḍālas,// persons habituated to eating the flesh of dogs --- [[books:sb:8:16:55|SB 8.16.55]]

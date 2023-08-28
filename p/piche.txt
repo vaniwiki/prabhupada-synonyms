@@ -1,5 +1,11 @@
-~~Title:piche~~
-{{description>afterward; afterwards; later; thereafter.}}
+---json
+{
+    "name":"piche",
+    "h1":"piche",
+    "title":"piche --- synonyms, prabhupada.io",
+    "description":"afterward; afterwards; later; thereafter."
+}
+---
 
 ==== piche  ====
   * afterward --- [[books:cc:antya:8:17|Antya 8.17]]

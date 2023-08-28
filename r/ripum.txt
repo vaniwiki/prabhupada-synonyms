@@ -1,5 +1,11 @@
-~~Title:ripum~~
-{{description>enemy; even though He is my enemy; his enemy; his enemy, Vṛtrāsura; the enemies; the enemy.}}
+---json
+{
+    "name":"ripum",
+    "h1":"ripum",
+    "title":"ripum --- synonyms, prabhupada.io",
+    "description":"enemy; even though He is my enemy; his enemy; his enemy, Vṛtrāsura; the enemies; the enemy."
+}
+---
 
 ==== ripum  ====
   * enemy --- [[books:sb:1:7:36|SB 1.7.36]]

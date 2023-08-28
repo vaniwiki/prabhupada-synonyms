@@ -1,5 +1,11 @@
-~~Title:utkrāmati~~
-{{description>gives up.}}
+---json
+{
+    "name":"utkrāmati",
+    "h1":"utkrāmati",
+    "title":"utkrāmati --- synonyms, prabhupada.io",
+    "description":"gives up."
+}
+---
 
 ==== utkrāmati  ====
   * gives up --- [[books:bg:15:8|Bg. 15.8]]

@@ -1,5 +1,11 @@
-~~Title:mathana~~
-{{description>produced by the churning.}}
+---json
+{
+    "name":"mathana",
+    "h1":"mathana",
+    "title":"mathana --- synonyms, prabhupada.io",
+    "description":"produced by the churning."
+}
+---
 
 ==== mathana-udbhūtāt  ====
   * produced by the churning --- [[books:sb:8:7:37|SB 8.7.37]]

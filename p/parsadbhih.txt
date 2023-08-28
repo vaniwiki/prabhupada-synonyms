@@ -1,5 +1,11 @@
-~~Title:parṣadbhiḥ~~
-{{description>by ghostly companions.}}
+---json
+{
+    "name":"parṣadbhiḥ",
+    "h1":"parṣadbhiḥ",
+    "title":"parṣadbhiḥ --- synonyms, prabhupada.io",
+    "description":"by ghostly companions."
+}
+---
 
 ==== bhūta-parṣadbhiḥ  ====
   * by ghostly companions --- [[books:sb:3:14:24|SB 3.14.24]]

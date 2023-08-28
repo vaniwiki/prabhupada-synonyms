@@ -1,5 +1,11 @@
-~~Title:ekātma~~
-{{description>the name is tad-ekātma.}}
+---json
+{
+    "name":"ekātma",
+    "h1":"ekātma",
+    "title":"ekātma --- synonyms, prabhupada.io",
+    "description":"the name is tad-ekātma."
+}
+---
 
 ==== tat-ekātma nāma  ====
   * the name is //tad-ekātma// --- [[books:cc:madhya:20:183|Madhya 20.183]]

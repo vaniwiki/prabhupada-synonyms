@@ -1,5 +1,11 @@
-~~Title:vivarjitah~~
-{{description>being without; completely free from; giving up.}}
+---json
+{
+    "name":"vivarjitah",
+    "h1":"vivarjitah",
+    "title":"vivarjitah --- synonyms, prabhupada.io",
+    "description":"being without; completely free from; giving up."
+}
+---
 
 ==== vivarjitaḥ  ====
   * being without --- [[books:sb:4:9:34|SB 4.9.34]]

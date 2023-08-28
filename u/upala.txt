@@ -1,5 +1,11 @@
-~~Title:upala~~
-{{description>coral.}}
+---json
+{
+    "name":"upala",
+    "h1":"upala",
+    "title":"upala --- synonyms, prabhupada.io",
+    "description":"coral."
+}
+---
 
 ==== upala  ====
   * coral --- [[books:sb:3:8:24|SB 3.8.24]]

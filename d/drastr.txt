@@ -1,5 +1,11 @@
-~~Title:draṣṭṛ~~
-{{description>the seer.}}
+---json
+{
+    "name":"draṣṭṛ",
+    "h1":"draṣṭṛ",
+    "title":"draṣṭṛ --- synonyms, prabhupada.io",
+    "description":"the seer."
+}
+---
 
 ==== draṣṭṛ  ====
   * the seer --- [[books:sb:2:5:25|SB 2.5.25]]

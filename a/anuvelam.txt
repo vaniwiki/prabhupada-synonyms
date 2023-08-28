@@ -1,5 +1,11 @@
-~~Title:anuvelam~~
-{{description>occasionally.}}
+---json
+{
+    "name":"anuvelam",
+    "h1":"anuvelam",
+    "title":"anuvelam --- synonyms, prabhupada.io",
+    "description":"occasionally."
+}
+---
 
 ==== anuvelam  ====
   * occasionally --- [[books:sb:3:16:20|SB 3.16.20]]

@@ -1,5 +1,11 @@
-~~Title:mantrataḥ~~
-{{description>by chanting the required mantra; in pronouncing the Vedic mantras improperly.}}
+---json
+{
+    "name":"mantrataḥ",
+    "h1":"mantrataḥ",
+    "title":"mantrataḥ --- synonyms, prabhupada.io",
+    "description":"by chanting the required mantra; in pronouncing the Vedic mantras improperly."
+}
+---
 
 ==== mantrataḥ  ====
   * by chanting the required //mantra// --- [[books:sb:9:14:44-45|SB 9.14.44-45]]

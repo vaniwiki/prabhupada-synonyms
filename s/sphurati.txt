@@ -1,5 +1,11 @@
-~~Title:sphurati~~
-{{description>become manifest; exists; manifests.}}
+---json
+{
+    "name":"sphurati",
+    "h1":"sphurati",
+    "title":"sphurati --- synonyms, prabhupada.io",
+    "description":"become manifest; exists; manifests."
+}
+---
 
 ==== sphurati  ====
   * become manifest --- [[books:cc:madhya:17:136|Madhya 17.136]]

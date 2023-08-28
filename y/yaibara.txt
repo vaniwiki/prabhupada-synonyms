@@ -1,5 +1,11 @@
-~~Title:yāibāra~~
-{{description>for going; of going; to go.}}
+---json
+{
+    "name":"yāibāra",
+    "h1":"yāibāra",
+    "title":"yāibāra --- synonyms, prabhupada.io",
+    "description":"for going; of going; to go."
+}
+---
 
 ==== yāibāra  ====
   * for going --- [[books:cc:madhya:16:265-266|Madhya 16.265-266]]

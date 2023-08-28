@@ -1,5 +1,11 @@
-~~Title:dade~~
-{{description>shall give.}}
+---json
+{
+    "name":"dade",
+    "h1":"dade",
+    "title":"dade --- synonyms, prabhupada.io",
+    "description":"shall give."
+}
+---
 
 ==== dade  ====
   * shall give --- [[books:sb:4:22:43|SB 4.22.43]]

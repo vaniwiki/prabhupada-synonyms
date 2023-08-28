@@ -1,5 +1,11 @@
-~~Title:mukunde~~
-{{description>unto the Lord, who awards salvation.}}
+---json
+{
+    "name":"mukunde",
+    "h1":"mukunde",
+    "title":"mukunde --- synonyms, prabhupada.io",
+    "description":"unto the Lord, who awards salvation."
+}
+---
 
 ==== mukunde  ====
   * unto the Lord, who awards salvation --- [[books:sb:2:1:10|SB 2.1.10]]

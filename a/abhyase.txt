@@ -1,5 +1,11 @@
-~~Title:abhyase~~
-{{description>by habit; in the practice of.}}
+---json
+{
+    "name":"abhyase",
+    "h1":"abhyase",
+    "title":"abhyase --- synonyms, prabhupada.io",
+    "description":"by habit; in the practice of."
+}
+---
 
 ==== abhyāse  ====
   * by habit --- [[books:cc:madhya:17:228-229|Madhya 17.228-229]]

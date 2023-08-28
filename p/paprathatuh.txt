@@ -1,5 +1,11 @@
-~~Title:paprathatuḥ~~
-{{description>they extend.}}
+---json
+{
+    "name":"paprathatuḥ",
+    "h1":"paprathatuḥ",
+    "title":"paprathatuḥ --- synonyms, prabhupada.io",
+    "description":"they extend."
+}
+---
 
 ==== paprathatuḥ  ====
   * they extend --- [[books:sb:5:16:10|SB 5.16.10]]

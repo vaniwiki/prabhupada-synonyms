@@ -1,5 +1,11 @@
-~~Title:dhuli~~
-{{description>dust; the dust.}}
+---json
+{
+    "name":"dhuli",
+    "h1":"dhuli",
+    "title":"dhuli --- synonyms, prabhupada.io",
+    "description":"dust; the dust."
+}
+---
 
 ==== dhūli  ====
   * dust --- [[books:sb:3:14:25|SB 3.14.25]], [[books:cc:madhya:2:94|Madhya 2.94]], [[books:cc:madhya:12:86|Madhya 12.86]], [[books:cc:madhya:12:88|Madhya 12.88]], [[books:cc:madhya:12:89|Madhya 12.89]], [[books:cc:madhya:12:90|Madhya 12.90]], [[books:cc:antya:13:73|Antya 13.73]], [[books:cc:antya:14:45|Antya 14.45]]

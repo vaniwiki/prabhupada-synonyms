@@ -1,5 +1,11 @@
-~~Title:vadane~~
-{{description>face; in the mouth; in the mouths; mouths.}}
+---json
+{
+    "name":"vadane",
+    "h1":"vadane",
+    "title":"vadane --- synonyms, prabhupada.io",
+    "description":"face; in the mouth; in the mouths; mouths."
+}
+---
 
 ==== vadane  ====
   * face --- [[books:cc:antya:17:59|Antya 17.59]]

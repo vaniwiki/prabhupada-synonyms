@@ -1,5 +1,11 @@
-~~Title:cittāya~~
-{{description>whose mind is peaceful.}}
+---json
+{
+    "name":"cittāya",
+    "h1":"cittāya",
+    "title":"cittāya --- synonyms, prabhupada.io",
+    "description":"whose mind is peaceful."
+}
+---
 
 ==== śānta-cittāya  ====
   * whose mind is peaceful --- [[books:sb:3:32:42|SB 3.32.42]]

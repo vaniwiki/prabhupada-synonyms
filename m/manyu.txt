@@ -1,5 +1,11 @@
-~~Title:manyu~~
-{{description>anger; by wrath; of anger.}}
+---json
+{
+    "name":"manyu",
+    "h1":"manyu",
+    "title":"manyu --- synonyms, prabhupada.io",
+    "description":"anger; by wrath; of anger."
+}
+---
 
 ==== manyu  ====
   * anger --- [[books:sb:3:16:13|SB 3.16.13]], [[books:sb:5:18:14|SB 5.18.14]], [[books:sb:8:8:20|SB 8.8.20]], [[books:cc:madhya:2:76|Madhya 2.76]]

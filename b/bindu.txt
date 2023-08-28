@@ -1,5 +1,11 @@
-~~Title:bindu~~
-{{description>drop; drops.}}
+---json
+{
+    "name":"bindu",
+    "h1":"bindu",
+    "title":"bindu --- synonyms, prabhupada.io",
+    "description":"drop; drops."
+}
+---
 
 ==== bindu  ====
   * drop --- [[books:cc:adi:6:44|Ādi 6.44]], [[books:cc:adi:7:85|Ādi 7.85]], [[books:cc:madhya:2:49|Madhya 2.49]], [[books:cc:madhya:2:82|Madhya 2.82]], [[books:cc:madhya:19:137|Madhya 19.137]], [[books:cc:madhya:21:137|Madhya 21.137]], [[books:cc:antya:11:106|Antya 11.106]]

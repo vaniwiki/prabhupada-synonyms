@@ -1,5 +1,11 @@
-~~Title:bhūmiṣṭha~~
-{{description>delivery.}}
+---json
+{
+    "name":"bhūmiṣṭha",
+    "h1":"bhūmiṣṭha",
+    "title":"bhūmiṣṭha --- synonyms, prabhupada.io",
+    "description":"delivery."
+}
+---
 
 ==== bhūmiṣṭha  ====
   * delivery --- [[books:cc:adi:13:87|Ādi 13.87]]

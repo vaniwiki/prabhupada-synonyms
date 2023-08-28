@@ -1,5 +1,11 @@
-~~Title:saṁsādhakaḥ~~
-{{description>what fulfills the wishes.}}
+---json
+{
+    "name":"saṁsādhakaḥ",
+    "h1":"saṁsādhakaḥ",
+    "title":"saṁsādhakaḥ --- synonyms, prabhupada.io",
+    "description":"what fulfills the wishes."
+}
+---
 
 ==== saṁsādhakaḥ  ====
   * what fulfills the wishes --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

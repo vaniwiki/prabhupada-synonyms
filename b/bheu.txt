@@ -1,5 +1,11 @@
-~~Title:bheu~~
-{{description>barking.}}
+---json
+{
+    "name":"bheu",
+    "h1":"bheu",
+    "title":"bheu --- synonyms, prabhupada.io",
+    "description":"barking."
+}
+---
 
 ==== bheu-bheu kari  ====
   * barking --- [[books:cc:madhya:12:183|Madhya 12.183]]

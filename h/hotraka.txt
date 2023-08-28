@@ -1,5 +1,11 @@
-~~Title:hotraka~~
-{{description>of the four kinds of Vedic priests, known as hotā, adhvaryu, brahma and udgātā.}}
+---json
+{
+    "name":"hotraka",
+    "h1":"hotraka",
+    "title":"hotraka --- synonyms, prabhupada.io",
+    "description":"of the four kinds of Vedic priests, known as hotā, adhvaryu, brahma and udgātā."
+}
+---
 
 ==== catuḥ-hotraka  ====
   * of the four kinds of Vedic priests, known as //hotā, adhvaryu, brahma// and //udgātā// --- [[books:sb:7:3:30|SB 7.3.30]]

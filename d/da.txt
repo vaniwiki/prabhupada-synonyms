@@ -1,5 +1,11 @@
-~~Title:da~~
-{{description>beneficial.}}
+---json
+{
+    "name":"da",
+    "h1":"da",
+    "title":"da --- synonyms, prabhupada.io",
+    "description":"beneficial."
+}
+---
 
 ==== artha-dā  ====
   * beneficial --- [[books:sb:7:14:40|SB 7.14.40]]

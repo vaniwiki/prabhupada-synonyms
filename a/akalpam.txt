@@ -1,5 +1,11 @@
-~~Title:akalpam~~
-{{description>unable.}}
+---json
+{
+    "name":"akalpam",
+    "h1":"akalpam",
+    "title":"akalpam --- synonyms, prabhupada.io",
+    "description":"unable."
+}
+---
 
 ==== akalpam  ====
   * unable --- [[books:sb:3:30:13|SB 3.30.13]]

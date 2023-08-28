@@ -1,5 +1,11 @@
-~~Title:ḍube~~
-{{description>drowns.}}
+---json
+{
+    "name":"ḍube",
+    "h1":"ḍube",
+    "title":"ḍube --- synonyms, prabhupada.io",
+    "description":"drowns."
+}
+---
 
 ==== ḍube  ====
   * drowns --- [[books:cc:adi:4:254|Ādi 4.254]]

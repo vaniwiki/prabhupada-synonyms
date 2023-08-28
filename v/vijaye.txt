@@ -1,5 +1,11 @@
-~~Title:vijaye~~
-{{description>in victory; while conquering.}}
+---json
+{
+    "name":"vijaye",
+    "h1":"vijaye",
+    "title":"vijaye --- synonyms, prabhupada.io",
+    "description":"in victory; while conquering."
+}
+---
 
 ==== vijaye  ====
   * in victory --- [[books:sb:9:24:67|SB 9.24.67]]

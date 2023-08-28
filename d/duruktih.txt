@@ -1,5 +1,11 @@
-~~Title:duruktiḥ~~
-{{description>Harsh Speech.}}
+---json
+{
+    "name":"duruktiḥ",
+    "h1":"duruktiḥ",
+    "title":"duruktiḥ --- synonyms, prabhupada.io",
+    "description":"Harsh Speech."
+}
+---
 
 ==== duruktiḥ  ====
   * Harsh Speech --- [[books:sb:4:8:3|SB 4.8.3]]

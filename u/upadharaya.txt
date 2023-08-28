@@ -1,5 +1,11 @@
-~~Title:upadhāraya~~
-{{description>just think of me in this regard; know; try to understand.}}
+---json
+{
+    "name":"upadhāraya",
+    "h1":"upadhāraya",
+    "title":"upadhāraya --- synonyms, prabhupada.io",
+    "description":"just think of me in this regard; know; try to understand."
+}
+---
 
 ==== upadhāraya  ====
   * just think of me in this regard --- [[books:sb:4:8:67|SB 4.8.67]]

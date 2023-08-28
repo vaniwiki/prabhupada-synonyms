@@ -1,5 +1,11 @@
-~~Title:śobhase~~
-{{description>you do not look very good.}}
+---json
+{
+    "name":"śobhase",
+    "h1":"śobhase",
+    "title":"śobhase --- synonyms, prabhupada.io",
+    "description":"you do not look very good."
+}
+---
 
 ==== na śobhase  ====
   * you do not look very good --- [[books:sb:5:12:7|SB 5.12.7]]

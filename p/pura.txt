@@ -1,5 +1,11 @@
-~~Title:pura~~
-{{description>capital; cities; cities and towns; of the city; of towns; towns.}}
+---json
+{
+    "name":"pura",
+    "h1":"pura",
+    "title":"pura --- synonyms, prabhupada.io",
+    "description":"capital; cities; cities and towns; of the city; of towns; towns."
+}
+---
 
 ==== pura  ====
   * capital --- [[books:sb:1:10:20|SB 1.10.20]]

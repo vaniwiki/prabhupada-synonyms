@@ -1,5 +1,11 @@
-~~Title:pibi'~~
-{{description>drinking and drinking.}}
+---json
+{
+    "name":"pibi'",
+    "h1":"pibi'",
+    "title":"pibi' --- synonyms, prabhupada.io",
+    "description":"drinking and drinking."
+}
+---
 
 ==== pibi' pibi'  ====
   * drinking and drinking --- [[books:cc:madhya:21:114|Madhya 21.114]]

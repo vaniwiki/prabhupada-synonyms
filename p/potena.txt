@@ -1,5 +1,11 @@
-~~Title:potena~~
-{{description>by boarding such a boat as Your lotus feet.}}
+---json
+{
+    "name":"potena",
+    "h1":"potena",
+    "title":"potena --- synonyms, prabhupada.io",
+    "description":"by boarding such a boat as Your lotus feet."
+}
+---
 
 ==== tvat-pāda-potena  ====
   * by boarding such a boat as Your lotus feet --- [[books:sb:10:2:30|SB 10.2.30]]

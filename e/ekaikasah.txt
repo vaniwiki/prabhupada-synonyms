@@ -1,5 +1,11 @@
-~~Title:ekaikaśaḥ~~
-{{description>another; each one.}}
+---json
+{
+    "name":"ekaikaśaḥ",
+    "h1":"ekaikaśaḥ",
+    "title":"ekaikaśaḥ --- synonyms, prabhupada.io",
+    "description":"another; each one."
+}
+---
 
 ==== ekaikaśaḥ  ====
   * another --- [[books:sb:2:10:41|SB 2.10.41]]

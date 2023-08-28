@@ -1,5 +1,11 @@
-~~Title:kuṇḍalaiḥ~~
-{{description>and earrings; with earrings.}}
+---json
+{
+    "name":"kuṇḍalaiḥ",
+    "h1":"kuṇḍalaiḥ",
+    "title":"kuṇḍalaiḥ --- synonyms, prabhupada.io",
+    "description":"and earrings; with earrings."
+}
+---
 
 ==== kuṇḍalaiḥ  ====
   * and earrings --- [[books:sb:8:10:39|SB 8.10.39]]

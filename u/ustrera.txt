@@ -1,5 +1,11 @@
-~~Title:uṣṭrera~~
-{{description>of a camel.}}
+---json
+{
+    "name":"uṣṭrera",
+    "h1":"uṣṭrera",
+    "title":"uṣṭrera --- synonyms, prabhupada.io",
+    "description":"of a camel."
+}
+---
 
 ==== uṣṭrera  ====
   * of a camel --- [[books:cc:adi:4:235|Ādi 4.235]]

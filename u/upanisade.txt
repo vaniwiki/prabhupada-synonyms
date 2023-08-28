@@ -1,5 +1,11 @@
-~~Title:upaniṣade~~
-{{description>and in 108 Upaniṣads.}}
+---json
+{
+    "name":"upaniṣade",
+    "h1":"upaniṣade",
+    "title":"upaniṣade --- synonyms, prabhupada.io",
+    "description":"and in 108 Upaniṣads."
+}
+---
 
 ==== upaniṣade  ====
   * and in 108 //Upaniṣads// --- [[books:cc:madhya:25:98|Madhya 25.98]]

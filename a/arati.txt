@@ -1,5 +1,11 @@
-~~Title:arati~~
-{{description>a demon named Nivātakavaca; of the enemies.}}
+---json
+{
+    "name":"arati",
+    "h1":"arati",
+    "title":"arati --- synonyms, prabhupada.io",
+    "description":"a demon named Nivātakavaca; of the enemies."
+}
+---
 
 ==== arāti  ====
   * a demon named Nivātakavaca --- [[books:sb:1:15:13|SB 1.15.13]]

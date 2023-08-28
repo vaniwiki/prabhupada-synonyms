@@ -1,5 +1,11 @@
-~~Title:karuna~~
-{{description>kindly do; let Him do.}}
+---json
+{
+    "name":"karuna",
+    "h1":"karuna",
+    "title":"karuna --- synonyms, prabhupada.io",
+    "description":"kindly do; let Him do."
+}
+---
 
 ==== karuna  ====
   * kindly do --- [[books:cc:madhya:3:60|Madhya 3.60]]

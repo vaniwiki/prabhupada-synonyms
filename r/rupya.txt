@@ -1,5 +1,11 @@
-~~Title:rūpya~~
-{{description>whose hooves were covered with silver plate.}}
+---json
+{
+    "name":"rūpya",
+    "h1":"rūpya",
+    "title":"rūpya --- synonyms, prabhupada.io",
+    "description":"whose hooves were covered with silver plate."
+}
+---
 
 ==== rūpya-aṅghrīṇām  ====
   * whose hooves were covered with silver plate --- [[books:sb:9:4:33-35|SB 9.4.33-35]]

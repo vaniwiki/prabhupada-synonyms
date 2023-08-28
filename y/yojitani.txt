@@ -1,5 +1,11 @@
-~~Title:yojitāni~~
-{{description>properly executed.}}
+---json
+{
+    "name":"yojitāni",
+    "h1":"yojitāni",
+    "title":"yojitāni --- synonyms, prabhupada.io",
+    "description":"properly executed."
+}
+---
 
 ==== yojitāni  ====
   * properly executed --- [[books:sb:4:13:27|SB 4.13.27]]

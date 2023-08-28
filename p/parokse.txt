@@ -1,5 +1,11 @@
-~~Title:parokṣe~~
-{{description>in some future time; indirectly.}}
+---json
+{
+    "name":"parokṣe",
+    "h1":"parokṣe",
+    "title":"parokṣe --- synonyms, prabhupada.io",
+    "description":"in some future time; indirectly."
+}
+---
 
 ==== parokṣe  ====
   * in some future time --- [[books:sb:4:15:23|SB 4.15.23]]

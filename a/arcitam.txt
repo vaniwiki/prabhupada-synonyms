@@ -1,5 +1,11 @@
-~~Title:arcitam~~
-{{description>as worshiped by them; decorated.}}
+---json
+{
+    "name":"arcitam",
+    "h1":"arcitam",
+    "title":"arcitam --- synonyms, prabhupada.io",
+    "description":"as worshiped by them; decorated."
+}
+---
 
 ==== arcitam  ====
   * as worshiped by them --- [[books:sb:4:24:44|SB 4.24.44]]

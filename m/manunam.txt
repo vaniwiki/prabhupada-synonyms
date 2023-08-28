@@ -1,5 +1,11 @@
-~~Title:manūnām~~
-{{description>of all thinkers.}}
+---json
+{
+    "name":"manūnām",
+    "h1":"manūnām",
+    "title":"manūnām --- synonyms, prabhupada.io",
+    "description":"of all thinkers."
+}
+---
 
 ==== manūnām  ====
   * of all thinkers --- [[books:sb:4:6:39|SB 4.6.39]]

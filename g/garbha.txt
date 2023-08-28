@@ -1,5 +1,11 @@
-~~Title:garbha~~
-{{description>pregnancy; the womb; womb.}}
+---json
+{
+    "name":"garbha",
+    "h1":"garbha",
+    "title":"garbha --- synonyms, prabhupada.io",
+    "description":"pregnancy; the womb; womb."
+}
+---
 
 ==== garbha  ====
   * pregnancy --- [[books:cc:adi:13:87|Ādi 13.87]]

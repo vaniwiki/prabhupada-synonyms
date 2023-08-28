@@ -1,5 +1,11 @@
-~~Title:samvatsaram~~
-{{description>a year; for a year; for one complete year; Saṁvatsara; year.}}
+---json
+{
+    "name":"samvatsaram",
+    "h1":"samvatsaram",
+    "title":"samvatsaram --- synonyms, prabhupada.io",
+    "description":"a year; for a year; for one complete year; Saṁvatsara; year."
+}
+---
 
 ==== saṁvatsaram  ====
   * a year --- [[books:sb:6:18:66-67|SB 6.18.66-67]]

@@ -1,5 +1,11 @@
-~~Title:anarthāya~~
-{{description>without value (binding one to repeated birth and death).}}
+---json
+{
+    "name":"anarthāya",
+    "h1":"anarthāya",
+    "title":"anarthāya --- synonyms, prabhupada.io",
+    "description":"without value (binding one to repeated birth and death)."
+}
+---
 
 ==== anarthāya  ====
   * without value (binding one to repeated birth and death) --- [[books:sb:7:15:29|SB 7.15.29]]

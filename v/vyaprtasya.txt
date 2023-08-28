@@ -1,5 +1,11 @@
-~~Title:vyāpṛtasya~~
-{{description>being busy.}}
+---json
+{
+    "name":"vyāpṛtasya",
+    "h1":"vyāpṛtasya",
+    "title":"vyāpṛtasya --- synonyms, prabhupada.io",
+    "description":"being busy."
+}
+---
 
 ==== vyāpṛtasya  ====
   * being busy --- [[books:sb:3:12:51|SB 3.12.51]]

@@ -1,5 +1,11 @@
-~~Title:murccha~~
-{{description>fainting.}}
+---json
+{
+    "name":"murccha",
+    "h1":"murccha",
+    "title":"murccha --- synonyms, prabhupada.io",
+    "description":"fainting."
+}
+---
 
 ==== mūrccha  ====
   * fainting --- [[books:sb:4:29:71|SB 4.29.71]]

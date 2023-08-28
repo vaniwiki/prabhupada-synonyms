@@ -1,5 +1,11 @@
-~~Title:upadvīpān~~
-{{description>eight subordinate islands.}}
+---json
+{
+    "name":"upadvīpān",
+    "h1":"upadvīpān",
+    "title":"upadvīpān --- synonyms, prabhupada.io",
+    "description":"eight subordinate islands."
+}
+---
 
 ==== upadvīpān aṣṭau  ====
   * eight subordinate islands --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

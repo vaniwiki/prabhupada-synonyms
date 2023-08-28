@@ -1,5 +1,11 @@
-~~Title:nimitte~~
-{{description>on account of causes.}}
+---json
+{
+    "name":"nimitte",
+    "h1":"nimitte",
+    "title":"nimitte --- synonyms, prabhupada.io",
+    "description":"on account of causes."
+}
+---
 
 ==== nimitte  ====
   * on account of causes --- [[books:sb:4:22:29|SB 4.22.29]]

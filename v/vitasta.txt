@@ -1,5 +1,11 @@
-~~Title:vitastā~~
-{{description>Vitastā.}}
+---json
+{
+    "name":"vitastā",
+    "h1":"vitastā",
+    "title":"vitastā --- synonyms, prabhupada.io",
+    "description":"Vitastā."
+}
+---
 
 ==== vitastā  ====
   * Vitastā --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

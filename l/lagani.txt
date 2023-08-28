@@ -1,5 +1,11 @@
-~~Title:lāgāni~~
-{{description>instigation.}}
+---json
+{
+    "name":"lāgāni",
+    "h1":"lāgāni",
+    "title":"lāgāni --- synonyms, prabhupada.io",
+    "description":"instigation."
+}
+---
 
 ==== lāgāni  ====
   * instigation --- [[books:cc:madhya:1:173|Madhya 1.173]]

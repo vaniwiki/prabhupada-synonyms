@@ -1,5 +1,11 @@
-~~Title:upatapta~~
-{{description>afflicted.}}
+---json
+{
+    "name":"upatapta",
+    "h1":"upatapta",
+    "title":"upatapta --- synonyms, prabhupada.io",
+    "description":"afflicted."
+}
+---
 
 ==== upatapta  ====
   * afflicted --- [[books:noi:7|NoI 7]]

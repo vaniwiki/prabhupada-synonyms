@@ -1,5 +1,11 @@
-~~Title:samastān~~
-{{description>all.}}
+---json
+{
+    "name":"samastān",
+    "h1":"samastān",
+    "title":"samastān --- synonyms, prabhupada.io",
+    "description":"all."
+}
+---
 
 ==== samastān  ====
   * all --- [[books:sb:7:8:31|SB 7.8.31]]

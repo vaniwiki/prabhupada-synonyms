@@ -1,5 +1,11 @@
-~~Title:airāvatam~~
-{{description>Airāvata; Airāvata, carrying Indra.}}
+---json
+{
+    "name":"airāvatam",
+    "h1":"airāvatam",
+    "title":"airāvatam --- synonyms, prabhupada.io",
+    "description":"Airāvata; Airāvata, carrying Indra."
+}
+---
 
 ==== airāvatam  ====
   * Airāvata --- [[books:bg:10:27|Bg. 10.27]], [[books:sb:8:10:25|SB 8.10.25]]

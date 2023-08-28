@@ -1,5 +1,11 @@
-~~Title:sainyasya~~
-{{description>of the soldiers.}}
+---json
+{
+    "name":"sainyasya",
+    "h1":"sainyasya",
+    "title":"sainyasya --- synonyms, prabhupada.io",
+    "description":"of the soldiers."
+}
+---
 
 ==== sainyasya  ====
   * of the soldiers --- [[books:bg:1:7|Bg. 1.7]]

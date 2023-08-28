@@ -1,5 +1,11 @@
-~~Title:paryāptam~~
-{{description>limited.}}
+---json
+{
+    "name":"paryāptam",
+    "h1":"paryāptam",
+    "title":"paryāptam --- synonyms, prabhupada.io",
+    "description":"limited."
+}
+---
 
 ==== paryāptam  ====
   * limited --- [[books:bg:1:10|Bg. 1.10]]

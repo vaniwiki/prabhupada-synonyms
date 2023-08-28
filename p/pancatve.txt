@@ -1,5 +1,11 @@
-~~Title:pañcatve~~
-{{description>into the body made of five elements.}}
+---json
+{
+    "name":"pañcatve",
+    "h1":"pañcatve",
+    "title":"pañcatve --- synonyms, prabhupada.io",
+    "description":"into the body made of five elements."
+}
+---
 
 ==== pañcatve  ====
   * into the body made of five elements --- [[books:sb:1:15:41|SB 1.15.41]]

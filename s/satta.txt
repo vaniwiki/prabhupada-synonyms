@@ -1,5 +1,11 @@
-~~Title:sattā~~
-{{description>the existence; the presence.}}
+---json
+{
+    "name":"sattā",
+    "h1":"sattā",
+    "title":"sattā --- synonyms, prabhupada.io",
+    "description":"the existence; the presence."
+}
+---
 
 ==== sattā  ====
   * the existence --- [[books:cc:adi:4:64|Ādi 4.64]]

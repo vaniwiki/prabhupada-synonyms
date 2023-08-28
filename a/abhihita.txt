@@ -1,5 +1,11 @@
-~~Title:abhihitā~~
-{{description>described.}}
+---json
+{
+    "name":"abhihitā",
+    "h1":"abhihitā",
+    "title":"abhihitā --- synonyms, prabhupada.io",
+    "description":"described."
+}
+---
 
 ==== abhihitā  ====
   * described --- [[books:bg:2:39|Bg. 2.39]]

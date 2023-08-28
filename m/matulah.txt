@@ -1,5 +1,11 @@
-~~Title:matulah~~
-{{description>maternal uncle.}}
+---json
+{
+    "name":"matulah",
+    "h1":"matulah",
+    "title":"matulah --- synonyms, prabhupada.io",
+    "description":"maternal uncle."
+}
+---
 
 ==== mātulaḥ  ====
   * maternal uncle --- [[books:sb:1:14:26|SB 1.14.26]]

@@ -1,5 +1,11 @@
-~~Title:sarīsṛpaiḥ~~
-{{description>snakes.}}
+---json
+{
+    "name":"sarīsṛpaiḥ",
+    "h1":"sarīsṛpaiḥ",
+    "title":"sarīsṛpaiḥ --- synonyms, prabhupada.io",
+    "description":"snakes."
+}
+---
 
 ==== sarīsṛpaiḥ  ====
   * snakes --- [[books:sb:5:26:17|SB 5.26.17]]

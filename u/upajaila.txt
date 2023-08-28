@@ -1,5 +1,11 @@
-~~Title:upajāilā~~
-{{description>You generated the itching.}}
+---json
+{
+    "name":"upajāilā",
+    "h1":"upajāilā",
+    "title":"upajāilā --- synonyms, prabhupada.io",
+    "description":"You generated the itching."
+}
+---
 
 ==== kaṇḍu upajāilā  ====
   * You generated the itching --- [[books:cc:antya:4:203|Antya 4.203]]

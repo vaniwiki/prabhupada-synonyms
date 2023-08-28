@@ -1,5 +1,11 @@
-~~Title:kanduka~~
-{{description>ball; of the ball; with a ball.}}
+---json
+{
+    "name":"kanduka",
+    "h1":"kanduka",
+    "title":"kanduka --- synonyms, prabhupada.io",
+    "description":"ball; of the ball; with a ball."
+}
+---
 
 ==== kanduka  ====
   * ball --- [[books:sb:4:4:5|SB 4.4.5]]

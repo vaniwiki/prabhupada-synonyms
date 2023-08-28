@@ -1,5 +1,11 @@
-~~Title:priyaiḥ~~
-{{description>dear; very pleasing; with dear companions.}}
+---json
+{
+    "name":"priyaiḥ",
+    "h1":"priyaiḥ",
+    "title":"priyaiḥ --- synonyms, prabhupada.io",
+    "description":"dear; very pleasing; with dear companions."
+}
+---
 
 ==== priyaiḥ  ====
   * dear --- [[books:sb:6:19:17|SB 6.19.17]]

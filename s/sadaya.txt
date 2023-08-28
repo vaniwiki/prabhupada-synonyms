@@ -1,5 +1,11 @@
-~~Title:sadaya~~
-{{description>merciful.}}
+---json
+{
+    "name":"sadaya",
+    "h1":"sadaya",
+    "title":"sadaya --- synonyms, prabhupada.io",
+    "description":"merciful."
+}
+---
 
 ==== sadaya  ====
   * merciful --- [[books:cc:adi:10:51|Ādi 10.51]]

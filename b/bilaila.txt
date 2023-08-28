@@ -1,5 +1,11 @@
-~~Title:bilāila~~
-{{description>distributed.}}
+---json
+{
+    "name":"bilāila",
+    "h1":"bilāila",
+    "title":"bilāila --- synonyms, prabhupada.io",
+    "description":"distributed."
+}
+---
 
 ==== bilāila  ====
   * distributed --- [[books:cc:adi:8:21|Ādi 8.21]], [[books:cc:madhya:15:29|Madhya 15.29]]

@@ -1,5 +1,11 @@
-~~Title:tinaputra~~
-{{description>three sons.}}
+---json
+{
+    "name":"tinaputra",
+    "h1":"tinaputra",
+    "title":"tinaputra --- synonyms, prabhupada.io",
+    "description":"three sons."
+}
+---
 
 ==== tinaputra  ====
   * three sons --- [[books:cc:adi:10:62|Ādi 10.62]]

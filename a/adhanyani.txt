@@ -1,5 +1,11 @@
-~~Title:adhanyāni~~
-{{description>inauspicious.}}
+---json
+{
+    "name":"adhanyāni",
+    "h1":"adhanyāni",
+    "title":"adhanyāni --- synonyms, prabhupada.io",
+    "description":"inauspicious."
+}
+---
 
 ==== adhanyāni  ====
   * inauspicious --- [[books:cc:madhya:2:58|Madhya 2.58]]

@@ -1,5 +1,11 @@
-~~Title:vyavasthitān~~
-{{description>situated.}}
+---json
+{
+    "name":"vyavasthitān",
+    "h1":"vyavasthitān",
+    "title":"vyavasthitān --- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== vyavasthitān  ====
   * situated --- [[books:bg:1:20|Bg. 1.20]]

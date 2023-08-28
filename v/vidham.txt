@@ -1,5 +1,11 @@
-~~Title:vidham~~
-{{description>in the form of.}}
+---json
+{
+    "name":"vidham",
+    "h1":"vidham",
+    "title":"vidham --- synonyms, prabhupada.io",
+    "description":"in the form of."
+}
+---
 
 ==== vidham  ====
   * in the form of --- [[books:sb:4:29:72|SB 4.29.72]]

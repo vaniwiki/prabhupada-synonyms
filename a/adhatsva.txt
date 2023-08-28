@@ -1,5 +1,11 @@
-~~Title:ādhatsva~~
-{{description>fix; take up.}}
+---json
+{
+    "name":"ādhatsva",
+    "h1":"ādhatsva",
+    "title":"ādhatsva --- synonyms, prabhupada.io",
+    "description":"fix; take up."
+}
+---
 
 ==== ādhatsva  ====
   * fix --- [[books:bg:12:8|Bg. 12.8]]

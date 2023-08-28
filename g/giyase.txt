@@ -1,5 +1,11 @@
-~~Title:gīyase~~
-{{description>are celebrated.}}
+---json
+{
+    "name":"gīyase",
+    "h1":"gīyase",
+    "title":"gīyase --- synonyms, prabhupada.io",
+    "description":"are celebrated."
+}
+---
 
 ==== gīyase  ====
   * are celebrated --- [[books:sb:4:30:31|SB 4.30.31]]

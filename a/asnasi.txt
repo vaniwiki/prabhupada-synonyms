@@ -1,5 +1,11 @@
-~~Title:aśnāsi~~
-{{description>you eat.}}
+---json
+{
+    "name":"aśnāsi",
+    "h1":"aśnāsi",
+    "title":"aśnāsi --- synonyms, prabhupada.io",
+    "description":"you eat."
+}
+---
 
 ==== aśnāsi  ====
   * you eat --- [[books:bg:9:27|Bg. 9.27]], [[books:cc:madhya:8:60|Madhya 8.60]]

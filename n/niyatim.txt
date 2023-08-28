@@ -1,5 +1,11 @@
-~~Title:niyatim~~
-{{description>Niyati.}}
+---json
+{
+    "name":"niyatim",
+    "h1":"niyatim",
+    "title":"niyatim --- synonyms, prabhupada.io",
+    "description":"Niyati."
+}
+---
 
 ==== niyatim  ====
   * Niyati --- [[books:sb:4:1:44|SB 4.1.44]]

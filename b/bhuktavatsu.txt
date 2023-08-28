@@ -1,5 +1,11 @@
-~~Title:bhuktavatsu~~
-{{description>after feeding.}}
+---json
+{
+    "name":"bhuktavatsu",
+    "h1":"bhuktavatsu",
+    "title":"bhuktavatsu --- synonyms, prabhupada.io",
+    "description":"after feeding."
+}
+---
 
 ==== bhuktavatsu  ====
   * after feeding --- [[books:sb:8:16:56|SB 8.16.56]]

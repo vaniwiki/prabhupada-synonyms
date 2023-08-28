@@ -1,5 +1,11 @@
-~~Title:sroni~~
-{{description>lower part of the waist.}}
+---json
+{
+    "name":"sroni",
+    "h1":"sroni",
+    "title":"sroni --- synonyms, prabhupada.io",
+    "description":"lower part of the waist."
+}
+---
 
 ==== śroṇi  ====
   * lower part of the waist --- [[books:sb:4:24:51|SB 4.24.51]]

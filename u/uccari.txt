@@ -1,5 +1,11 @@
-~~Title:uccāri~~
-{{description>I vibrate.}}
+---json
+{
+    "name":"uccāri",
+    "h1":"uccāri",
+    "title":"uccāri --- synonyms, prabhupada.io",
+    "description":"I vibrate."
+}
+---
 
 ==== uccāri  ====
   * I vibrate --- [[books:cc:madhya:8:133|Madhya 8.133]]

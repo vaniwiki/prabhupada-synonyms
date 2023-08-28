@@ -1,5 +1,11 @@
-~~Title:etādṛśānām~~
-{{description>like this.}}
+---json
+{
+    "name":"etādṛśānām",
+    "h1":"etādṛśānām",
+    "title":"etādṛśānām --- synonyms, prabhupada.io",
+    "description":"like this."
+}
+---
 
 ==== etādṛśānām  ====
   * like this --- [[books:sb:4:3:18|SB 4.3.18]]

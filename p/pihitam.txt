@@ -1,5 +1,11 @@
-~~Title:pihitam~~
-{{description>covered.}}
+---json
+{
+    "name":"pihitam",
+    "h1":"pihitam",
+    "title":"pihitam --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== pihitam  ====
   * covered --- [[books:cc:madhya:24:348|Madhya 24.348]]

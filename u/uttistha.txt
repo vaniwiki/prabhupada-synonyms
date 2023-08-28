@@ -1,5 +1,11 @@
-~~Title:uttiṣṭha~~
-{{description>get up; kindly get up; please get up; stand up to fight.}}
+---json
+{
+    "name":"uttiṣṭha",
+    "h1":"uttiṣṭha",
+    "title":"uttiṣṭha --- synonyms, prabhupada.io",
+    "description":"get up; kindly get up; please get up; stand up to fight."
+}
+---
 
 ==== uttiṣṭha  ====
   * get up --- [[books:bg:2:3|Bg. 2.3]], [[books:bg:2:37|Bg. 2.37]], [[books:bg:11:33|Bg. 11.33]], [[books:sb:7:3:17|SB 7.3.17]]

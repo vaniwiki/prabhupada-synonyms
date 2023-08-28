@@ -1,5 +1,11 @@
-~~Title:ekādaśamaḥ~~
-{{description>eleventh.}}
+---json
+{
+    "name":"ekādaśamaḥ",
+    "h1":"ekādaśamaḥ",
+    "title":"ekādaśamaḥ --- synonyms, prabhupada.io",
+    "description":"eleventh."
+}
+---
 
 ==== ekādaśamaḥ  ====
   * eleventh --- [[books:sb:8:13:24|SB 8.13.24]]

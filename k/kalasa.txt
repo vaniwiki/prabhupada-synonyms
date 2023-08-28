@@ -1,5 +1,11 @@
-~~Title:kalasa~~
-{{description>container.}}
+---json
+{
+    "name":"kalasa",
+    "h1":"kalasa",
+    "title":"kalasa --- synonyms, prabhupada.io",
+    "description":"container."
+}
+---
 
 ==== kalasa  ====
   * container --- [[books:cc:madhya:12:53|Madhya 12.53]]

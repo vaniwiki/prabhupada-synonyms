@@ -1,5 +1,11 @@
-~~Title:pile~~
-{{description>have drunk.}}
+---json
+{
+    "name":"pile",
+    "h1":"pile",
+    "title":"pile --- synonyms, prabhupada.io",
+    "description":"have drunk."
+}
+---
 
 ==== pile  ====
   * have drunk --- [[books:cc:antya:20:152|Antya 20.152]]

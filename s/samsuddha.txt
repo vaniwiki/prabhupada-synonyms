@@ -1,5 +1,11 @@
-~~Title:saṁśuddha~~
-{{description>washed off.}}
+---json
+{
+    "name":"saṁśuddha",
+    "h1":"saṁśuddha",
+    "title":"saṁśuddha --- synonyms, prabhupada.io",
+    "description":"washed off."
+}
+---
 
 ==== saṁśuddha  ====
   * washed off --- [[books:bg:6:45|Bg. 6.45]]

@@ -1,5 +1,11 @@
-~~Title:ekavipra~~
-{{description>one brāhmaṇa.}}
+---json
+{
+    "name":"ekavipra",
+    "h1":"ekavipra",
+    "title":"ekavipra --- synonyms, prabhupada.io",
+    "description":"one brāhmaṇa."
+}
+---
 
 ==== ekavipra  ====
   * one //brāhmaṇa// --- [[books:cc:madhya:4:152|Madhya 4.152]]

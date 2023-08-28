@@ -1,5 +1,11 @@
-~~Title:ahrtam~~
-{{description>brought in; stolen.}}
+---json
+{
+    "name":"ahrtam",
+    "h1":"ahrtam",
+    "title":"ahrtam --- synonyms, prabhupada.io",
+    "description":"brought in; stolen."
+}
+---
 
 ==== āhṛtam  ====
   * brought in --- [[books:sb:1:7:42|SB 1.7.42]]

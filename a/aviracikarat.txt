@@ -1,5 +1,11 @@
-~~Title:āviracīkarat~~
-{{description>he produced.}}
+---json
+{
+    "name":"āviracīkarat",
+    "h1":"āviracīkarat",
+    "title":"āviracīkarat --- synonyms, prabhupada.io",
+    "description":"he produced."
+}
+---
 
 ==== āviracīkarat  ====
   * he produced --- [[books:sb:3:23:12|SB 3.23.12]]

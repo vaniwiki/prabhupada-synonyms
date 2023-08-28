@@ -1,5 +1,11 @@
-~~Title:snapana~~
-{{description>bathing.}}
+---json
+{
+    "name":"snapana",
+    "h1":"snapana",
+    "title":"snapana --- synonyms, prabhupada.io",
+    "description":"bathing."
+}
+---
 
 ==== snapana  ====
   * bathing --- [[books:sb:7:12:8|SB 7.12.8]], [[books:cc:antya:10:80|Antya 10.80]]

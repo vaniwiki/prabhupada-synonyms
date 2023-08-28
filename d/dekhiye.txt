@@ -1,5 +1,11 @@
-~~Title:dekhiye~~
-{{description>could be seen; everyone saw; I see; one sees; we see.}}
+---json
+{
+    "name":"dekhiye",
+    "h1":"dekhiye",
+    "title":"dekhiye --- synonyms, prabhupada.io",
+    "description":"could be seen; everyone saw; I see; one sees; we see."
+}
+---
 
 ==== dekhiye  ====
   * could be seen --- [[books:cc:madhya:4:32|Madhya 4.32]]

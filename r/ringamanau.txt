@@ -1,5 +1,11 @@
-~~Title:riṅgamāṇau~~
-{{description>crawling.}}
+---json
+{
+    "name":"riṅgamāṇau",
+    "h1":"riṅgamāṇau",
+    "title":"riṅgamāṇau --- synonyms, prabhupada.io",
+    "description":"crawling."
+}
+---
 
 ==== riṅgamāṇau  ====
   * crawling --- [[books:sb:10:8:21|SB 10.8.21]]

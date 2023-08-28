@@ -1,5 +1,11 @@
-~~Title:upāsīnān~~
-{{description>sitting silently nearby.}}
+---json
+{
+    "name":"upāsīnān",
+    "h1":"upāsīnān",
+    "title":"upāsīnān --- synonyms, prabhupada.io",
+    "description":"sitting silently nearby."
+}
+---
 
 ==== upāsīnān  ====
   * sitting silently nearby --- [[books:sb:1:9:11|SB 1.9.11]]

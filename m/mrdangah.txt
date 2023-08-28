@@ -1,5 +1,11 @@
-~~Title:mṛdaṅgāḥ~~
-{{description>drums.}}
+---json
+{
+    "name":"mṛdaṅgāḥ",
+    "h1":"mṛdaṅgāḥ",
+    "title":"mṛdaṅgāḥ --- synonyms, prabhupada.io",
+    "description":"drums."
+}
+---
 
 ==== mṛdaṅgāḥ  ====
   * drums --- [[books:sb:10:1:33|SB 10.1.33]]

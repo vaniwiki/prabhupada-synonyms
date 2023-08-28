@@ -1,5 +1,11 @@
-~~Title:lalāma~~
-{{description>of those women who are like ornaments.}}
+---json
+{
+    "name":"lalāma",
+    "h1":"lalāma",
+    "title":"lalāma --- synonyms, prabhupada.io",
+    "description":"of those women who are like ornaments."
+}
+---
 
 ==== lalāma  ====
   * of those women who are like ornaments --- [[books:sb:5:16:15|SB 5.16.15]]

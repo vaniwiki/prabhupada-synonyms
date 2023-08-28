@@ -1,5 +1,11 @@
-~~Title:dṛśiḥ~~
-{{description>eyes.}}
+---json
+{
+    "name":"dṛśiḥ",
+    "h1":"dṛśiḥ",
+    "title":"dṛśiḥ --- synonyms, prabhupada.io",
+    "description":"eyes."
+}
+---
 
 ==== dṛśiḥ  ====
   * eyes --- [[books:sb:5:2:11|SB 5.2.11]]

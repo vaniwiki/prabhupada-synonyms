@@ -1,5 +1,11 @@
-~~Title:devīre~~
-{{description>Lakṣmīdevī, the goddess of fortune.}}
+---json
+{
+    "name":"devīre",
+    "h1":"devīre",
+    "title":"devīre --- synonyms, prabhupada.io",
+    "description":"Lakṣmīdevī, the goddess of fortune."
+}
+---
 
 ==== lakṣmī-devīre  ====
   * Lakṣmīdevī, the goddess of fortune --- [[books:cc:madhya:14:121|Madhya 14.121]]

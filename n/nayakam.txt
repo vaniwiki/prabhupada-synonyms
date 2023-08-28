@@ -1,5 +1,11 @@
-~~Title:nāyakam~~
-{{description>the leader.}}
+---json
+{
+    "name":"nāyakam",
+    "h1":"nāyakam",
+    "title":"nāyakam --- synonyms, prabhupada.io",
+    "description":"the leader."
+}
+---
 
 ==== nāyakam  ====
   * the leader --- [[books:sb:4:29:7|SB 4.29.7]]

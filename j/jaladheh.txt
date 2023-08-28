@@ -1,5 +1,11 @@
-~~Title:jaladheḥ~~
-{{description>from the ocean.}}
+---json
+{
+    "name":"jaladheḥ",
+    "h1":"jaladheḥ",
+    "title":"jaladheḥ --- synonyms, prabhupada.io",
+    "description":"from the ocean."
+}
+---
 
 ==== jaladheḥ  ====
   * from the ocean --- [[books:sb:4:10:22|SB 4.10.22]]

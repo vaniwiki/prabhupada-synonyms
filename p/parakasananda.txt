@@ -1,5 +1,11 @@
-~~Title:parakāśānanda~~
-{{description>Prakāśānanda Sarasvatī.}}
+---json
+{
+    "name":"parakāśānanda",
+    "h1":"parakāśānanda",
+    "title":"parakāśānanda --- synonyms, prabhupada.io",
+    "description":"Prakāśānanda Sarasvatī."
+}
+---
 
 ==== parakāśānanda  ====
   * Prakāśānanda Sarasvatī --- [[books:cc:madhya:25:66|Madhya 25.66]]

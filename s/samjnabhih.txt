@@ -1,5 +1,11 @@
-~~Title:saṁjñābhiḥ~~
-{{description>by different names.}}
+---json
+{
+    "name":"saṁjñābhiḥ",
+    "h1":"saṁjñābhiḥ",
+    "title":"saṁjñābhiḥ --- synonyms, prabhupada.io",
+    "description":"by different names."
+}
+---
 
 ==== saṁjñābhiḥ  ====
   * by different names --- [[books:sb:5:21:3|SB 5.21.3]]

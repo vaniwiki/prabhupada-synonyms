@@ -1,5 +1,11 @@
-~~Title:patri~~
-{{description>a letter; letter; note; the leaf of a palm tree; the letter; the palm leaf.}}
+---json
+{
+    "name":"patri",
+    "h1":"patri",
+    "title":"patri --- synonyms, prabhupada.io",
+    "description":"a letter; letter; note; the leaf of a palm tree; the letter; the palm leaf."
+}
+---
 
 ==== patrī  ====
   * a letter --- [[books:cc:madhya:12:5|Madhya 12.5]], [[books:cc:madhya:12:6|Madhya 12.6]], [[books:cc:antya:6:180|Antya 6.180]]

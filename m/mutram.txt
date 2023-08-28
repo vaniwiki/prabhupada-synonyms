@@ -1,5 +1,11 @@
-~~Title:mūtram~~
-{{description>urine.}}
+---json
+{
+    "name":"mūtram",
+    "h1":"mūtram",
+    "title":"mūtram --- synonyms, prabhupada.io",
+    "description":"urine."
+}
+---
 
 ==== mūtram  ====
   * urine --- [[books:sb:3:17:12|SB 3.17.12]], [[books:sb:3:30:19|SB 3.30.19]]

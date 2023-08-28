@@ -1,5 +1,11 @@
-~~Title:haibe~~
-{{description>will be.}}
+---json
+{
+    "name":"haibe",
+    "h1":"haibe",
+    "title":"haibe --- synonyms, prabhupada.io",
+    "description":"will be."
+}
+---
 
 ==== haibe  ====
   * will be --- [[books:cc:antya:1:42|Antya 1.42]]

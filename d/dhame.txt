@@ -1,5 +1,11 @@
-~~Title:dhāme~~
-{{description>in the spiritual sky.}}
+---json
+{
+    "name":"dhāme",
+    "h1":"dhāme",
+    "title":"dhāme --- synonyms, prabhupada.io",
+    "description":"in the spiritual sky."
+}
+---
 
 ==== para-vyoma-dhāme  ====
   * in the spiritual sky --- [[books:cc:madhya:21:3|Madhya 21.3]]

@@ -1,5 +1,11 @@
-~~Title:pannagāḥ~~
-{{description>inhabitants of the planets where serpents live.}}
+---json
+{
+    "name":"pannagāḥ",
+    "h1":"pannagāḥ",
+    "title":"pannagāḥ --- synonyms, prabhupada.io",
+    "description":"inhabitants of the planets where serpents live."
+}
+---
 
 ==== pannagāḥ  ====
   * inhabitants of the planets where serpents live --- [[books:sb:4:20:35-36|SB 4.20.35-36]]

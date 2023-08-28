@@ -1,5 +1,11 @@
-~~Title:bolāimu~~
-{{description>I shall call as.}}
+---json
+{
+    "name":"bolāimu",
+    "h1":"bolāimu",
+    "title":"bolāimu --- synonyms, prabhupada.io",
+    "description":"I shall call as."
+}
+---
 
 ==== bolāimu  ====
   * I shall call as --- [[books:cc:madhya:5:33|Madhya 5.33]]

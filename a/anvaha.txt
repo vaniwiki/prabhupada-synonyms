@@ -1,5 +1,11 @@
-~~Title:anvāha~~
-{{description>and spoke.}}
+---json
+{
+    "name":"anvāha",
+    "h1":"anvāha",
+    "title":"anvāha --- synonyms, prabhupada.io",
+    "description":"and spoke."
+}
+---
 
 ==== anvāha  ====
   * and spoke --- [[books:sb:8:1:8|SB 8.1.8]]

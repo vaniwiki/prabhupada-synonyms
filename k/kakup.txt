@@ -1,5 +1,11 @@
-~~Title:kakup~~
-{{description>all directions within the universe; the four sides of the heavens.}}
+---json
+{
+    "name":"kakup",
+    "h1":"kakup",
+    "title":"kakup --- synonyms, prabhupada.io",
+    "description":"all directions within the universe; the four sides of the heavens."
+}
+---
 
 ==== kakup  ====
   * all directions within the universe --- [[books:sb:7:4:19|SB 7.4.19]]

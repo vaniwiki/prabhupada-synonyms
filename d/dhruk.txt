@@ -1,5 +1,11 @@
-~~Title:dhruk~~
-{{description>rebellious.}}
+---json
+{
+    "name":"dhruk",
+    "h1":"dhruk",
+    "title":"dhruk --- synonyms, prabhupada.io",
+    "description":"rebellious."
+}
+---
 
 ==== dhruk  ====
   * rebellious --- [[books:sb:1:8:43|SB 1.8.43]]

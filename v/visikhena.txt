@@ -1,5 +1,11 @@
-~~Title:viśikhena~~
-{{description>by a sharp arrow.}}
+---json
+{
+    "name":"viśikhena",
+    "h1":"viśikhena",
+    "title":"viśikhena --- synonyms, prabhupada.io",
+    "description":"by a sharp arrow."
+}
+---
 
 ==== viśikhena  ====
   * by a sharp arrow --- [[books:sb:9:10:10|SB 9.10.10]]

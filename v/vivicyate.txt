@@ -1,5 +1,11 @@
-~~Title:vivicyate~~
-{{description>are distinguished.}}
+---json
+{
+    "name":"vivicyate",
+    "h1":"vivicyate",
+    "title":"vivicyate --- synonyms, prabhupada.io",
+    "description":"are distinguished."
+}
+---
 
 ==== vivicyate  ====
   * are distinguished --- [[books:sb:7:1:9|SB 7.1.9]]

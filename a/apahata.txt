@@ -1,5 +1,11 @@
-~~Title:apahata~~
-{{description>vanquished.}}
+---json
+{
+    "name":"apahata",
+    "h1":"apahata",
+    "title":"apahata --- synonyms, prabhupada.io",
+    "description":"vanquished."
+}
+---
 
 ==== apahata  ====
   * vanquished --- [[books:sb:4:31:20|SB 4.31.20]]

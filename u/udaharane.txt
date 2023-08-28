@@ -1,5 +1,11 @@
-~~Title:udāharaṇe~~
-{{description>examples.}}
+---json
+{
+    "name":"udāharaṇe",
+    "h1":"udāharaṇe",
+    "title":"udāharaṇe --- synonyms, prabhupada.io",
+    "description":"examples."
+}
+---
 
 ==== udāharaṇe  ====
   * examples --- [[books:cc:madhya:24:311|Madhya 24.311]]

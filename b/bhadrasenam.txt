@@ -1,5 +1,11 @@
-~~Title:bhadrasenam~~
-{{description>Bhadrasena.}}
+---json
+{
+    "name":"bhadrasenam",
+    "h1":"bhadrasenam",
+    "title":"bhadrasenam --- synonyms, prabhupada.io",
+    "description":"Bhadrasena."
+}
+---
 
 ==== bhadrasenam  ====
   * Bhadrasena --- [[books:sb:9:24:53-55|SB 9.24.53-55]]

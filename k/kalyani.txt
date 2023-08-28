@@ -1,5 +1,11 @@
-~~Title:kalyani~~
-{{description>all-auspicious; O most auspicious one.}}
+---json
+{
+    "name":"kalyani",
+    "h1":"kalyani",
+    "title":"kalyani --- synonyms, prabhupada.io",
+    "description":"all-auspicious; O most auspicious one."
+}
+---
 
 ==== kalyāṇi  ====
   * all-auspicious --- [[books:cc:antya:15:33|Antya 15.33]]

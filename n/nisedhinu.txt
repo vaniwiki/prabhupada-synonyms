@@ -1,5 +1,11 @@
-~~Title:niṣedhinu~~
-{{description>forbade.}}
+---json
+{
+    "name":"niṣedhinu",
+    "h1":"niṣedhinu",
+    "title":"niṣedhinu --- synonyms, prabhupada.io",
+    "description":"forbade."
+}
+---
 
 ==== niṣedhinu  ====
   * forbade --- [[books:cc:madhya:5:66|Madhya 5.66]]

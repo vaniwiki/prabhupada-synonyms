@@ -1,5 +1,11 @@
-~~Title:suciram~~
-{{description>a very, very long time; for a long time; for such a long time.}}
+---json
+{
+    "name":"suciram",
+    "h1":"suciram",
+    "title":"suciram --- synonyms, prabhupada.io",
+    "description":"a very, very long time; for a long time; for such a long time."
+}
+---
 
 ==== suciram  ====
   * a very, very long time --- [[books:sb:2:10:19|SB 2.10.19]]

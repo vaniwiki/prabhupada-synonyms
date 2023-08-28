@@ -1,5 +1,11 @@
-~~Title:īḍyaḥ~~
-{{description>worshiped by the demons and by the demigods.}}
+---json
+{
+    "name":"īḍyaḥ",
+    "h1":"īḍyaḥ",
+    "title":"īḍyaḥ --- synonyms, prabhupada.io",
+    "description":"worshiped by the demons and by the demigods."
+}
+---
 
 ==== sura-asura-īḍyaḥ  ====
   * worshiped by the demons and by the demigods --- [[books:sb:4:31:3|SB 4.31.3]]

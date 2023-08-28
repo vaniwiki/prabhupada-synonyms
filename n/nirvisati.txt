@@ -1,5 +1,11 @@
-~~Title:nirvisati~~
-{{description>enters.}}
+---json
+{
+    "name":"nirvisati",
+    "h1":"nirvisati",
+    "title":"nirvisati --- synonyms, prabhupada.io",
+    "description":"enters."
+}
+---
 
 ==== nirviśati  ====
   * enters --- [[books:sb:5:17:15|SB 5.17.15]]

@@ -1,5 +1,11 @@
-~~Title:pauṇḍrān~~
-{{description>the Pauṇḍras.}}
+---json
+{
+    "name":"pauṇḍrān",
+    "h1":"pauṇḍrān",
+    "title":"pauṇḍrān --- synonyms, prabhupada.io",
+    "description":"the Pauṇḍras."
+}
+---
 
 ==== pauṇḍrān  ====
   * the Pauṇḍras --- [[books:sb:9:20:30|SB 9.20.30]]

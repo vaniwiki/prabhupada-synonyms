@@ -1,5 +1,11 @@
-~~Title:svāpam~~
-{{description>the subject of a dream.}}
+---json
+{
+    "name":"svāpam",
+    "h1":"svāpam",
+    "title":"svāpam --- synonyms, prabhupada.io",
+    "description":"the subject of a dream."
+}
+---
 
 ==== svāpam  ====
   * the subject of a dream --- [[books:sb:6:16:55|SB 6.16.55]]

@@ -1,5 +1,11 @@
-~~Title:vaira~~
-{{description>of enmity.}}
+---json
+{
+    "name":"vaira",
+    "h1":"vaira",
+    "title":"vaira --- synonyms, prabhupada.io",
+    "description":"of enmity."
+}
+---
 
 ==== vaira  ====
   * of enmity --- [[books:sb:5:11:16|SB 5.11.16]]

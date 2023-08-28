@@ -1,5 +1,11 @@
-~~Title:siva~~
-{{description>auspicious; jackals; Lord Śiva; pure; sacred; the temple of Lord Siva.}}
+---json
+{
+    "name":"siva",
+    "h1":"siva",
+    "title":"siva --- synonyms, prabhupada.io",
+    "description":"auspicious; jackals; Lord Śiva; pure; sacred; the temple of Lord Siva."
+}
+---
 
 ==== śiva  ====
   * auspicious --- [[books:sb:3:13:44|SB 3.13.44]], [[books:sb:3:21:38-39|SB 3.21.38-39]]

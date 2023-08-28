@@ -1,5 +1,11 @@
-~~Title:krandan~~
-{{description>sometimes crying.}}
+---json
+{
+    "name":"krandan",
+    "h1":"krandan",
+    "title":"krandan --- synonyms, prabhupada.io",
+    "description":"sometimes crying."
+}
+---
 
 ==== krandan  ====
   * sometimes crying --- [[books:sb:5:14:38|SB 5.14.38]]

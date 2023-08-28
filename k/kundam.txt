@@ -1,5 +1,11 @@
-~~Title:kuṇḍam~~
-{{description>bathing place; lake.}}
+---json
+{
+    "name":"kuṇḍam",
+    "h1":"kuṇḍam",
+    "title":"kuṇḍam --- synonyms, prabhupada.io",
+    "description":"bathing place; lake."
+}
+---
 
 ==== kuṇḍam  ====
   * bathing place --- [[books:cc:adi:4:215|Ādi 4.215]], [[books:cc:madhya:8:99|Madhya 8.99]]

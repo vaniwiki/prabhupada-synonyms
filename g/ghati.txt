@@ -1,5 +1,11 @@
-~~Title:ghati~~
-{{description>hour.}}
+---json
+{
+    "name":"ghati",
+    "h1":"ghati",
+    "title":"ghati --- synonyms, prabhupada.io",
+    "description":"hour."
+}
+---
 
 ==== ghaṭī  ====
   * hour --- [[books:cc:adi:16:36|Ādi 16.36]]

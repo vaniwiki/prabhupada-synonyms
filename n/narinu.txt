@@ -1,5 +1,11 @@
-~~Title:nārinu~~
-{{description>was unable.}}
+---json
+{
+    "name":"nārinu",
+    "h1":"nārinu",
+    "title":"nārinu --- synonyms, prabhupada.io",
+    "description":"was unable."
+}
+---
 
 ==== nārinu  ====
   * was unable --- [[books:cc:madhya:4:45|Madhya 4.45]]

@@ -1,5 +1,11 @@
-~~Title:kamalāni~~
-{{description>like lotuses.}}
+---json
+{
+    "name":"kamalāni",
+    "h1":"kamalāni",
+    "title":"kamalāni --- synonyms, prabhupada.io",
+    "description":"like lotuses."
+}
+---
 
 ==== kamalāni  ====
   * like lotuses --- [[books:cc:antya:1:175|Antya 1.175]]

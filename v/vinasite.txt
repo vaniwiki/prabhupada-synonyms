@@ -1,5 +1,11 @@
-~~Title:vināśite~~
-{{description>to destroy.}}
+---json
+{
+    "name":"vināśite",
+    "h1":"vināśite",
+    "title":"vināśite --- synonyms, prabhupada.io",
+    "description":"to destroy."
+}
+---
 
 ==== vināśite  ====
   * to destroy --- [[books:cc:antya:4:77|Antya 4.77]]

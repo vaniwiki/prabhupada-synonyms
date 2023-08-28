@@ -1,5 +1,11 @@
-~~Title:kaṇḍūyanena~~
-{{description>with the itching.}}
+---json
+{
+    "name":"kaṇḍūyanena",
+    "h1":"kaṇḍūyanena",
+    "title":"kaṇḍūyanena --- synonyms, prabhupada.io",
+    "description":"with the itching."
+}
+---
 
 ==== kaṇḍūyanena  ====
   * with the itching --- [[books:sb:7:9:45|SB 7.9.45]]

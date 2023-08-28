@@ -1,5 +1,11 @@
-~~Title:kaṭake~~
-{{description>at Kaṭaka; in the town of Kaṭaka (Cuttak); to the city of Kaṭaka.}}
+---json
+{
+    "name":"kaṭake",
+    "h1":"kaṭake",
+    "title":"kaṭake --- synonyms, prabhupada.io",
+    "description":"at Kaṭaka; in the town of Kaṭaka (Cuttak); to the city of Kaṭaka."
+}
+---
 
 ==== kaṭake  ====
   * at Kaṭaka --- [[books:cc:madhya:5:124|Madhya 5.124]]

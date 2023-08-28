@@ -1,5 +1,11 @@
-~~Title:susamāhitaḥ~~
-{{description>with great attention.}}
+---json
+{
+    "name":"susamāhitaḥ",
+    "h1":"susamāhitaḥ",
+    "title":"susamāhitaḥ --- synonyms, prabhupada.io",
+    "description":"with great attention."
+}
+---
 
 ==== susamāhitaḥ  ====
   * with great attention --- [[books:sb:9:4:12|SB 9.4.12]]

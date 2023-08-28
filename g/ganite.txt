@@ -1,5 +1,11 @@
-~~Title:gaṇite~~
-{{description>to calculate.}}
+---json
+{
+    "name":"gaṇite",
+    "h1":"gaṇite",
+    "title":"gaṇite --- synonyms, prabhupada.io",
+    "description":"to calculate."
+}
+---
 
 ==== gaṇite  ====
   * to calculate --- [[books:cc:adi:17:104|Ādi 17.104]]

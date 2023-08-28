@@ -1,5 +1,11 @@
-~~Title:pāiluṅ~~
-{{description>got; I got; I have got; I have gotten.}}
+---json
+{
+    "name":"pāiluṅ",
+    "h1":"pāiluṅ",
+    "title":"pāiluṅ --- synonyms, prabhupada.io",
+    "description":"got; I got; I have got; I have gotten."
+}
+---
 
 ==== pāiluṅ  ====
   * got --- [[books:cc:madhya:6:27|Madhya 6.27]], [[books:cc:madhya:15:152|Madhya 15.152]]

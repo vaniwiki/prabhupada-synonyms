@@ -1,5 +1,11 @@
-~~Title:samasajjanta~~
-{{description>began to fight together on an equal level.}}
+---json
+{
+    "name":"samasajjanta",
+    "h1":"samasajjanta",
+    "title":"samasajjanta --- synonyms, prabhupada.io",
+    "description":"began to fight together on an equal level."
+}
+---
 
 ==== samasajjanta  ====
   * began to fight together on an equal level --- [[books:sb:8:10:8|SB 8.10.8]]

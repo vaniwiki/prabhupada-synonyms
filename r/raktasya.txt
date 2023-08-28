@@ -1,5 +1,11 @@
-~~Title:raktasya~~
-{{description>of one addicted.}}
+---json
+{
+    "name":"raktasya",
+    "h1":"raktasya",
+    "title":"raktasya --- synonyms, prabhupada.io",
+    "description":"of one addicted."
+}
+---
 
 ==== raktasya  ====
   * of one addicted --- [[books:sb:3:22:12|SB 3.22.12]]

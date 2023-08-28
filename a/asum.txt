@@ -1,5 +1,11 @@
-~~Title:asum~~
-{{description>the life air.}}
+---json
+{
+    "name":"asum",
+    "h1":"asum",
+    "title":"asum --- synonyms, prabhupada.io",
+    "description":"the life air."
+}
+---
 
 ==== asum  ====
   * the life air --- [[books:sb:4:8:80|SB 4.8.80]]

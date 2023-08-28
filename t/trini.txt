@@ -1,5 +1,11 @@
-~~Title:trīṇi~~
-{{description>three.}}
+---json
+{
+    "name":"trīṇi",
+    "h1":"trīṇi",
+    "title":"trīṇi --- synonyms, prabhupada.io",
+    "description":"three."
+}
+---
 
 ==== trīṇi  ====
   * three --- [[books:sb:3:11:19|SB 3.11.19]], [[books:sb:6:9:1|SB 6.9.1]], [[books:sb:8:19:16|SB 8.19.16]], [[books:sb:8:19:27|SB 8.19.27]], [[books:sb:8:21:29|SB 8.21.29]], [[books:cc:adi:5:77|Ādi 5.77]], [[books:cc:madhya:20:251|Madhya 20.251]]

@@ -1,5 +1,11 @@
-~~Title:nīvyāḥ~~
-{{description>bordered by the seas.}}
+---json
+{
+    "name":"nīvyāḥ",
+    "h1":"nīvyāḥ",
+    "title":"nīvyāḥ --- synonyms, prabhupada.io",
+    "description":"bordered by the seas."
+}
+---
 
 ==== toya-nīvyāḥ  ====
   * bordered by the seas --- [[books:sb:1:15:38|SB 1.15.38]]

@@ -1,5 +1,11 @@
-~~Title:grahaṇa~~
-{{description>accept; acceptance; accepting; eclipse.}}
+---json
+{
+    "name":"grahaṇa",
+    "h1":"grahaṇa",
+    "title":"grahaṇa --- synonyms, prabhupada.io",
+    "description":"accept; acceptance; accepting; eclipse."
+}
+---
 
 ==== grahaṇa  ====
   * accept --- [[books:cc:adi:7:149|Ādi 7.149]]

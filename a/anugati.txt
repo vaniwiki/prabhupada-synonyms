@@ -1,5 +1,11 @@
-~~Title:anugati~~
-{{description>following.}}
+---json
+{
+    "name":"anugati",
+    "h1":"anugati",
+    "title":"anugati --- synonyms, prabhupada.io",
+    "description":"following."
+}
+---
 
 ==== anugati  ====
   * following --- [[books:cc:madhya:8:204-205|Madhya 8.204-205]], [[books:cc:madhya:8:225|Madhya 8.225]]

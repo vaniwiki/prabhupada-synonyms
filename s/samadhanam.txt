@@ -1,5 +1,11 @@
-~~Title:samādhānam~~
-{{description>samādhi.}}
+---json
+{
+    "name":"samādhānam",
+    "h1":"samādhānam",
+    "title":"samādhānam --- synonyms, prabhupada.io",
+    "description":"samādhi."
+}
+---
 
 ==== samādhānam  ====
   * //samādhi// --- [[books:sb:3:28:6|SB 3.28.6]]

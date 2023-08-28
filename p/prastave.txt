@@ -1,5 +1,11 @@
-~~Title:prastāve~~
-{{description>by the way; in the course of conversation; in the course of the story; incidentally; statement.}}
+---json
+{
+    "name":"prastāve",
+    "h1":"prastāve",
+    "title":"prastāve --- synonyms, prabhupada.io",
+    "description":"by the way; in the course of conversation; in the course of the story; incidentally; statement."
+}
+---
 
 ==== prastāve  ====
   * by the way --- [[books:cc:antya:5:161|Antya 5.161]]

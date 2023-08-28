@@ -1,5 +1,11 @@
-~~Title:abhavatām~~
-{{description>appeared.}}
+---json
+{
+    "name":"abhavatām",
+    "h1":"abhavatām",
+    "title":"abhavatām --- synonyms, prabhupada.io",
+    "description":"appeared."
+}
+---
 
 ==== abhavatām  ====
   * appeared --- [[books:sb:4:1:44|SB 4.1.44]]

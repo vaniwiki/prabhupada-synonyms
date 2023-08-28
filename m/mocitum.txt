@@ -1,5 +1,11 @@
-~~Title:mocitum~~
-{{description>to deliver (from this dangerous position).}}
+---json
+{
+    "name":"mocitum",
+    "h1":"mocitum",
+    "title":"mocitum --- synonyms, prabhupada.io",
+    "description":"to deliver (from this dangerous position)."
+}
+---
 
 ==== mocitum  ====
   * to deliver (from this dangerous position) --- [[books:sb:8:2:32|SB 8.2.32]]

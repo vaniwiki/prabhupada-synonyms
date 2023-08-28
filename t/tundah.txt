@@ -1,5 +1,11 @@
-~~Title:tundah~~
-{{description>tongue.}}
+---json
+{
+    "name":"tundah",
+    "h1":"tundah",
+    "title":"tundah --- synonyms, prabhupada.io",
+    "description":"tongue."
+}
+---
 
 ==== tuṇḍaḥ  ====
   * tongue --- [[books:sb:3:13:32|SB 3.13.32]]

@@ -1,5 +1,11 @@
-~~Title:markān~~
-{{description>to the monkeys.}}
+---json
+{
+    "name":"markān",
+    "h1":"markān",
+    "title":"markān --- synonyms, prabhupada.io",
+    "description":"to the monkeys."
+}
+---
 
 ==== markān  ====
   * to the monkeys --- [[books:sb:10:8:29|SB 10.8.29]]

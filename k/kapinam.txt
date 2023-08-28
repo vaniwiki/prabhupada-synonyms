@@ -1,5 +1,11 @@
-~~Title:kapīnām~~
-{{description>like monkeys.}}
+---json
+{
+    "name":"kapīnām",
+    "h1":"kapīnām",
+    "title":"kapīnām --- synonyms, prabhupada.io",
+    "description":"like monkeys."
+}
+---
 
 ==== kapīnām  ====
   * like monkeys --- [[books:sb:1:18:45|SB 1.18.45]]

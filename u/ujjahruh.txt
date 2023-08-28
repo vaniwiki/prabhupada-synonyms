@@ -1,5 +1,11 @@
-~~Title:ujjahruḥ~~
-{{description>delivered.}}
+---json
+{
+    "name":"ujjahruḥ",
+    "h1":"ujjahruḥ",
+    "title":"ujjahruḥ --- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== ujjahruḥ  ====
   * delivered --- [[books:sb:4:30:47|SB 4.30.47]]

@@ -1,5 +1,11 @@
-~~Title:patrika~~
-{{description>and of the birds.}}
+---json
+{
+    "name":"patrika",
+    "h1":"patrika",
+    "title":"patrika --- synonyms, prabhupada.io",
+    "description":"and of the birds."
+}
+---
 
 ==== patrika  ====
   * and of the birds --- [[books:sb:10:13:5|SB 10.13.5]]

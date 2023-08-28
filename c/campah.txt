@@ -1,5 +1,11 @@
-~~Title:campaḥ~~
-{{description>by the name Campa.}}
+---json
+{
+    "name":"campaḥ",
+    "h1":"campaḥ",
+    "title":"campaḥ --- synonyms, prabhupada.io",
+    "description":"by the name Campa."
+}
+---
 
 ==== campaḥ  ====
   * by the name Campa --- [[books:sb:9:8:1|SB 9.8.1]]

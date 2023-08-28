@@ -1,5 +1,11 @@
-~~Title:vidhura~~
-{{description>having a lifetime full of affliction.}}
+---json
+{
+    "name":"vidhura",
+    "h1":"vidhura",
+    "title":"vidhura --- synonyms, prabhupada.io",
+    "description":"having a lifetime full of affliction."
+}
+---
 
 ==== vidhura-āyuṣā  ====
   * having a lifetime full of affliction --- [[books:sb:7:2:54|SB 7.2.54]]

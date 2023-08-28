@@ -1,5 +1,11 @@
-~~Title:duḥkhataram~~
-{{description>more painful.}}
+---json
+{
+    "name":"duḥkhataram",
+    "h1":"duḥkhataram",
+    "title":"duḥkhataram --- synonyms, prabhupada.io",
+    "description":"more painful."
+}
+---
 
 ==== duḥkhataram  ====
   * more painful --- [[books:bg:2:36|Bg. 2.36]]

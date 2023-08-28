@@ -1,5 +1,11 @@
-~~Title:vicārera~~
-{{description>to the considerations.}}
+---json
+{
+    "name":"vicārera",
+    "h1":"vicārera",
+    "title":"vicārera --- synonyms, prabhupada.io",
+    "description":"to the considerations."
+}
+---
 
 ==== vicārera  ====
   * to the considerations --- [[books:cc:madhya:25:121|Madhya 25.121]]

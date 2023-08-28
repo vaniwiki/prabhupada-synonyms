@@ -1,5 +1,11 @@
-~~Title:śauṇḍiḥ~~
-{{description>martial activities.}}
+---json
+{
+    "name":"śauṇḍiḥ",
+    "h1":"śauṇḍiḥ",
+    "title":"śauṇḍiḥ --- synonyms, prabhupada.io",
+    "description":"martial activities."
+}
+---
 
 ==== śauṇḍiḥ  ====
   * martial activities --- [[books:sb:1:16:10|SB 1.16.10]]

@@ -1,5 +1,11 @@
-~~Title:suvam~~
-{{description>the mother of Vena.}}
+---json
+{
+    "name":"suvam",
+    "h1":"suvam",
+    "title":"suvam --- synonyms, prabhupada.io",
+    "description":"the mother of Vena."
+}
+---
 
 ==== vena-suvam  ====
   * the mother of Vena --- [[books:sb:4:13:47|SB 4.13.47]]

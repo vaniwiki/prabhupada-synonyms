@@ -1,5 +1,11 @@
-~~Title:pujya~~
-{{description>respectable; worshipable.}}
+---json
+{
+    "name":"pujya",
+    "h1":"pujya",
+    "title":"pujya --- synonyms, prabhupada.io",
+    "description":"respectable; worshipable."
+}
+---
 
 ==== pūjya  ====
   * respectable --- [[books:cc:madhya:6:54|Madhya 6.54]], [[books:cc:madhya:6:56|Madhya 6.56]]

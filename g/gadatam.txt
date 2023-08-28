@@ -1,5 +1,11 @@
-~~Title:gadatām~~
-{{description>the words.}}
+---json
+{
+    "name":"gadatām",
+    "h1":"gadatām",
+    "title":"gadatām --- synonyms, prabhupada.io",
+    "description":"the words."
+}
+---
 
 ==== gadatām  ====
   * the words --- [[books:sb:4:11:1|SB 4.11.1]]

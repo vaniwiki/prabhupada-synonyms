@@ -1,5 +1,11 @@
-~~Title:vratena~~
-{{description>under a strict disciplinary vow.}}
+---json
+{
+    "name":"vratena",
+    "h1":"vratena",
+    "title":"vratena --- synonyms, prabhupada.io",
+    "description":"under a strict disciplinary vow."
+}
+---
 
 ==== dhṛta-vratena  ====
   * under a strict disciplinary vow --- [[books:sb:1:4:28-29|SB 1.4.28-29]]

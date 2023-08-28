@@ -1,5 +1,11 @@
-~~Title:maile~~
-{{description>after death; if he dies; if I die.}}
+---json
+{
+    "name":"maile",
+    "h1":"maile",
+    "title":"maile --- synonyms, prabhupada.io",
+    "description":"after death; if he dies; if I die."
+}
+---
 
 ==== maile  ====
   * after death --- [[books:cc:adi:12:70|Ādi 12.70]]

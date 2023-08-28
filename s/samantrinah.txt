@@ -1,5 +1,11 @@
-~~Title:samantriṇaḥ~~
-{{description>with the ministers.}}
+---json
+{
+    "name":"samantriṇaḥ",
+    "h1":"samantriṇaḥ",
+    "title":"samantriṇaḥ --- synonyms, prabhupada.io",
+    "description":"with the ministers."
+}
+---
 
 ==== samantriṇaḥ  ====
   * with the ministers --- [[books:sb:4:13:11|SB 4.13.11]]

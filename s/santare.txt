@@ -1,5 +1,11 @@
-~~Title:sāṅtāre~~
-{{description>swims.}}
+---json
+{
+    "name":"sāṅtāre",
+    "h1":"sāṅtāre",
+    "title":"sāṅtāre --- synonyms, prabhupada.io",
+    "description":"swims."
+}
+---
 
 ==== sāṅtāre  ====
   * swims --- [[books:cc:madhya:17:233|Madhya 17.233]]

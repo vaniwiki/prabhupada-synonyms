@@ -1,5 +1,11 @@
-~~Title:seidinahaite~~
-{{description>from that date.}}
+---json
+{
+    "name":"seidinahaite",
+    "h1":"seidinahaite",
+    "title":"seidinahaite --- synonyms, prabhupada.io",
+    "description":"from that date."
+}
+---
 
 ==== seidinahaite  ====
   * from that date --- [[books:cc:madhya:3:160|Madhya 3.160]]

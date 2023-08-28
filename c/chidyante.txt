@@ -1,5 +1,11 @@
-~~Title:chidyante~~
-{{description>cut to pieces.}}
+---json
+{
+    "name":"chidyante",
+    "h1":"chidyante",
+    "title":"chidyante --- synonyms, prabhupada.io",
+    "description":"cut to pieces."
+}
+---
 
 ==== chidyante  ====
   * cut to pieces --- [[books:sb:1:2:21|SB 1.2.21]]

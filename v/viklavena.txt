@@ -1,5 +1,11 @@
-~~Title:viklavena~~
-{{description>agitated.}}
+---json
+{
+    "name":"viklavena",
+    "h1":"viklavena",
+    "title":"viklavena --- synonyms, prabhupada.io",
+    "description":"agitated."
+}
+---
 
 ==== viklavena  ====
   * agitated --- [[books:sb:3:23:49|SB 3.23.49]]

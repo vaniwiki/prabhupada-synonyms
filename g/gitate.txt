@@ -1,5 +1,11 @@
-~~Title:gītāte~~
-{{description>in the section known as Bhramara-gītā.}}
+---json
+{
+    "name":"gītāte",
+    "h1":"gītāte",
+    "title":"gītāte --- synonyms, prabhupada.io",
+    "description":"in the section known as Bhramara-gītā."
+}
+---
 
 ==== bhramara-gītāte  ====
   * in the section known as //Bhramara-gītā// --- [[books:cc:antya:19:107|Antya 19.107]]

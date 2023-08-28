@@ -1,5 +1,11 @@
-~~Title:vāñchi~~
-{{description>I desire.}}
+---json
+{
+    "name":"vāñchi",
+    "h1":"vāñchi",
+    "title":"vāñchi --- synonyms, prabhupada.io",
+    "description":"I desire."
+}
+---
 
 ==== vāñchi  ====
   * I desire --- [[books:cc:antya:20:52|Antya 20.52]]

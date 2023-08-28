@@ -1,5 +1,11 @@
-~~Title:nivedane~~
-{{description>inform Him; request; submission.}}
+---json
+{
+    "name":"nivedane",
+    "h1":"nivedane",
+    "title":"nivedane --- synonyms, prabhupada.io",
+    "description":"inform Him; request; submission."
+}
+---
 
 ==== nivedane  ====
   * inform Him --- [[books:cc:adi:16:14|Ādi 16.14]]

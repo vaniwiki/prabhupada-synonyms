@@ -1,5 +1,11 @@
-~~Title:puṇyavān~~
-{{description>pious.}}
+---json
+{
+    "name":"puṇyavān",
+    "h1":"puṇyavān",
+    "title":"puṇyavān --- synonyms, prabhupada.io",
+    "description":"pious."
+}
+---
 
 ==== puṇyavān  ====
   * pious --- [[books:cc:adi:17:218|Ādi 17.218]]

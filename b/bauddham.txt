@@ -1,5 +1,11 @@
-~~Title:bauddham~~
-{{description>Buddhism.}}
+---json
+{
+    "name":"bauddham",
+    "h1":"bauddham",
+    "title":"bauddham --- synonyms, prabhupada.io",
+    "description":"Buddhism."
+}
+---
 
 ==== bauddham  ====
   * Buddhism --- [[books:cc:madhya:6:182|Madhya 6.182]]

@@ -1,5 +1,11 @@
-~~Title:saṅkulaiḥ~~
-{{description>being mixed with.}}
+---json
+{
+    "name":"saṅkulaiḥ",
+    "h1":"saṅkulaiḥ",
+    "title":"saṅkulaiḥ --- synonyms, prabhupada.io",
+    "description":"being mixed with."
+}
+---
 
 ==== sa-saṅkulaiḥ  ====
   * being mixed with --- [[books:sb:1:14:17|SB 1.14.17]]

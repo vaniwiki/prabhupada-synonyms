@@ -1,5 +1,11 @@
-~~Title:kleśadāni~~
-{{description>sources of distress.}}
+---json
+{
+    "name":"kleśadāni",
+    "h1":"kleśadāni",
+    "title":"kleśadāni --- synonyms, prabhupada.io",
+    "description":"sources of distress."
+}
+---
 
 ==== kleśadāni  ====
   * sources of distress --- [[books:sb:5:6:1|SB 5.6.1]]

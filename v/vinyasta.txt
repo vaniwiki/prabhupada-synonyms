@@ -1,5 +1,11 @@
-~~Title:vinyasta~~
-{{description>arranged; expanded; having been placed; placed; rested.}}
+---json
+{
+    "name":"vinyasta",
+    "h1":"vinyasta",
+    "title":"vinyasta --- synonyms, prabhupada.io",
+    "description":"arranged; expanded; having been placed; placed; rested."
+}
+---
 
 ==== vinyasta  ====
   * arranged --- [[books:sb:4:25:22|SB 4.25.22]]

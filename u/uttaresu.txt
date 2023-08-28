@@ -1,5 +1,11 @@
-~~Title:uttareṣu~~
-{{description>on the northern side.}}
+---json
+{
+    "name":"uttareṣu",
+    "h1":"uttareṣu",
+    "title":"uttareṣu --- synonyms, prabhupada.io",
+    "description":"on the northern side."
+}
+---
 
 ==== uttareṣu  ====
   * on the northern side --- [[books:sb:5:18:34|SB 5.18.34]]

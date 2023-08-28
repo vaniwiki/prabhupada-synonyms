@@ -1,5 +1,11 @@
-~~Title:vaṁśe~~
-{{description>family; in generating progeny; in the dynasty; in the family; to the family.}}
+---json
+{
+    "name":"vaṁśe",
+    "h1":"vaṁśe",
+    "title":"vaṁśe --- synonyms, prabhupada.io",
+    "description":"family; in generating progeny; in the dynasty; in the family; to the family."
+}
+---
 
 ==== vaṁśe  ====
   * family --- [[books:sb:2:7:23|SB 2.7.23]]

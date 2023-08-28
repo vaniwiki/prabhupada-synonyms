@@ -1,5 +1,11 @@
-~~Title:sruv~~
-{{description>decorated with the sacrificial spoon, ladle and so on.}}
+---json
+{
+    "name":"sruv",
+    "h1":"sruv",
+    "title":"sruv --- synonyms, prabhupada.io",
+    "description":"decorated with the sacrificial spoon, ladle and so on."
+}
+---
 
 ==== sruk-sruv-ādi-upalakṣaṇaḥ  ====
   * decorated with the sacrificial spoon, ladle and so on --- [[books:cc:madhya:20:333|Madhya 20.333]]

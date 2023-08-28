@@ -1,5 +1,11 @@
-~~Title:nidāgha~~
-{{description>of one scorched by the heat of the sun.}}
+---json
+{
+    "name":"nidāgha",
+    "h1":"nidāgha",
+    "title":"nidāgha --- synonyms, prabhupada.io",
+    "description":"of one scorched by the heat of the sun."
+}
+---
 
 ==== nidāgha-dagdhasya  ====
   * of one scorched by the heat of the sun --- [[books:sb:5:12:2|SB 5.12.2]]

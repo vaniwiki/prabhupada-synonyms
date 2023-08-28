@@ -1,5 +1,11 @@
-~~Title:jahyuḥ~~
-{{description>are given up.}}
+---json
+{
+    "name":"jahyuḥ",
+    "h1":"jahyuḥ",
+    "title":"jahyuḥ --- synonyms, prabhupada.io",
+    "description":"are given up."
+}
+---
 
 ==== jahyuḥ  ====
   * are given up --- [[books:sb:2:7:48|SB 2.7.48]]

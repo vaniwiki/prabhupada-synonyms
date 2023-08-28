@@ -1,5 +1,11 @@
-~~Title:puṣṇāmi~~
-{{description>nourishing.}}
+---json
+{
+    "name":"puṣṇāmi",
+    "h1":"puṣṇāmi",
+    "title":"puṣṇāmi --- synonyms, prabhupada.io",
+    "description":"nourishing."
+}
+---
 
 ==== puṣṇāmi  ====
   * nourishing --- [[books:bg:15:13|Bg. 15.13]]

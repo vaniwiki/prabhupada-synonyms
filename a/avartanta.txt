@@ -1,5 +1,11 @@
-~~Title:avartanta~~
-{{description>generated.}}
+---json
+{
+    "name":"avartanta",
+    "h1":"avartanta",
+    "title":"avartanta --- synonyms, prabhupada.io",
+    "description":"generated."
+}
+---
 
 ==== avartanta  ====
   * generated --- [[books:sb:3:6:32|SB 3.6.32]]

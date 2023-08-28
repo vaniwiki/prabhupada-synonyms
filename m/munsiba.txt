@@ -1,5 +1,11 @@
-~~Title:munsiba~~
-{{description>the superintendent.}}
+---json
+{
+    "name":"munsiba",
+    "h1":"munsiba",
+    "title":"munsiba --- synonyms, prabhupada.io",
+    "description":"the superintendent."
+}
+---
 
 ==== munsiba  ====
   * the superintendent --- [[books:cc:antya:10:40|Antya 10.40]]

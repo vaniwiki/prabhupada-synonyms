@@ -1,5 +1,11 @@
-~~Title:satyaiḥ~~
-{{description>truthful.}}
+---json
+{
+    "name":"satyaiḥ",
+    "h1":"satyaiḥ",
+    "title":"satyaiḥ --- synonyms, prabhupada.io",
+    "description":"truthful."
+}
+---
 
 ==== satyaiḥ  ====
   * truthful --- [[books:sb:7:11:26-27|SB 7.11.26-27]]

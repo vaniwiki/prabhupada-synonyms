@@ -1,5 +1,11 @@
-~~Title:anāśite~~
-{{description>had not eaten.}}
+---json
+{
+    "name":"anāśite",
+    "h1":"anāśite",
+    "title":"anāśite --- synonyms, prabhupada.io",
+    "description":"had not eaten."
+}
+---
 
 ==== anāśite  ====
   * had not eaten --- [[books:sb:4:28:19|SB 4.28.19]]

@@ -1,5 +1,11 @@
-~~Title:nisṛṣṭena~~
-{{description>as spoken by destiny.}}
+---json
+{
+    "name":"nisṛṣṭena",
+    "h1":"nisṛṣṭena",
+    "title":"nisṛṣṭena --- synonyms, prabhupada.io",
+    "description":"as spoken by destiny."
+}
+---
 
 ==== daiva-nisṛṣṭena  ====
   * as spoken by destiny --- [[books:sb:10:4:5|SB 10.4.5]]

@@ -1,5 +1,11 @@
-~~Title:diyamanam~~
-{{description>being given; being offered.}}
+---json
+{
+    "name":"diyamanam",
+    "h1":"diyamanam",
+    "title":"diyamanam --- synonyms, prabhupada.io",
+    "description":"being given; being offered."
+}
+---
 
 ==== dīyamānam  ====
   * being given --- [[books:cc:adi:4:207|Ādi 4.207]], [[books:cc:madhya:19:173|Madhya 19.173]]

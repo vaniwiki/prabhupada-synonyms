@@ -1,5 +1,11 @@
-~~Title:pani~~
-{{description>tears; the water; water.}}
+---json
+{
+    "name":"pani",
+    "h1":"pani",
+    "title":"pani --- synonyms, prabhupada.io",
+    "description":"tears; the water; water."
+}
+---
 
 ==== pāni  ====
   * tears --- [[books:cc:adi:17:219|Ādi 17.219]]

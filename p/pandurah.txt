@@ -1,5 +1,11 @@
-~~Title:pāṇḍuraḥ~~
-{{description>being as white as the moon.}}
+---json
+{
+    "name":"pāṇḍuraḥ",
+    "h1":"pāṇḍuraḥ",
+    "title":"pāṇḍuraḥ --- synonyms, prabhupada.io",
+    "description":"being as white as the moon."
+}
+---
 
 ==== candra-pāṇḍuraḥ  ====
   * being as white as the moon --- [[books:sb:8:8:3|SB 8.8.3]]

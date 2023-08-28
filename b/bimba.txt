@@ -1,5 +1,11 @@
-~~Title:bimba~~
-{{description>reflection; reflections.}}
+---json
+{
+    "name":"bimba",
+    "h1":"bimba",
+    "title":"bimba --- synonyms, prabhupada.io",
+    "description":"reflection; reflections."
+}
+---
 
 ==== bimba  ====
   * reflection --- [[books:sb:3:8:27|SB 3.8.27]], [[books:cc:adi:5:37|Ādi 5.37]]

@@ -1,5 +1,11 @@
-~~Title:āropayat~~
-{{description>placed; she placed.}}
+---json
+{
+    "name":"āropayat",
+    "h1":"āropayat",
+    "title":"āropayat --- synonyms, prabhupada.io",
+    "description":"placed; she placed."
+}
+---
 
 ==== āropayat  ====
   * placed --- [[books:sb:4:23:21|SB 4.23.21]]

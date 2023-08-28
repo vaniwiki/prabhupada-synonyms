@@ -1,5 +1,11 @@
-~~Title:visrabdhah~~
-{{description>having faith.}}
+---json
+{
+    "name":"visrabdhah",
+    "h1":"visrabdhah",
+    "title":"visrabdhah --- synonyms, prabhupada.io",
+    "description":"having faith."
+}
+---
 
 ==== visrabdhaḥ  ====
   * having faith --- [[books:sb:5:8:9|SB 5.8.9]]

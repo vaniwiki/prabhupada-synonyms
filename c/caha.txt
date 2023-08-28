@@ -1,5 +1,11 @@
-~~Title:caha~~
-{{description>want; you want.}}
+---json
+{
+    "name":"caha",
+    "h1":"caha",
+    "title":"caha --- synonyms, prabhupada.io",
+    "description":"want; you want."
+}
+---
 
 ==== cāha  ====
   * want --- [[books:cc:antya:4:77|Antya 4.77]]

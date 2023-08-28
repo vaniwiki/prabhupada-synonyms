@@ -1,5 +1,11 @@
-~~Title:vidadhatīm~~
-{{description>making.}}
+---json
+{
+    "name":"vidadhatīm",
+    "h1":"vidadhatīm",
+    "title":"vidadhatīm --- synonyms, prabhupada.io",
+    "description":"making."
+}
+---
 
 ==== vidadhatīm  ====
   * making --- [[books:sb:5:2:6|SB 5.2.6]]

@@ -1,5 +1,11 @@
-~~Title:vikalpe~~
-{{description>alternation; in separation.}}
+---json
+{
+    "name":"vikalpe",
+    "h1":"vikalpe",
+    "title":"vikalpe --- synonyms, prabhupada.io",
+    "description":"alternation; in separation."
+}
+---
 
 ==== vikalpe  ====
   * alternation --- [[books:sb:4:8:28|SB 4.8.28]]

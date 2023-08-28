@@ -1,5 +1,11 @@
-~~Title:avācīnam~~
-{{description>turned downward.}}
+---json
+{
+    "name":"avācīnam",
+    "h1":"avācīnam",
+    "title":"avācīnam --- synonyms, prabhupada.io",
+    "description":"turned downward."
+}
+---
 
 ==== avācīnam  ====
   * turned downward --- [[books:sb:3:31:22|SB 3.31.22]]

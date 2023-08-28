@@ -1,5 +1,11 @@
-~~Title:kājī~~
-{{description>magistrate; the Chand Kazi; the Kazi; the magistrate.}}
+---json
+{
+    "name":"kājī",
+    "h1":"kājī",
+    "title":"kājī --- synonyms, prabhupada.io",
+    "description":"magistrate; the Chand Kazi; the Kazi; the magistrate."
+}
+---
 
 ==== kājī  ====
   * magistrate --- [[books:cc:adi:17:134|Ādi 17.134]], [[books:cc:madhya:1:170|Madhya 1.170]]

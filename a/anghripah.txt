@@ -1,5 +1,11 @@
-~~Title:anghripah~~
-{{description>like a tree.}}
+---json
+{
+    "name":"anghripah",
+    "h1":"anghripah",
+    "title":"anghripah --- synonyms, prabhupada.io",
+    "description":"like a tree."
+}
+---
 
 ==== aṅghripaḥ  ====
   * like a tree --- [[books:sb:7:14:36|SB 7.14.36]]

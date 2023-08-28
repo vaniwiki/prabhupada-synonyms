@@ -1,5 +1,11 @@
-~~Title:laba~~
-{{description>I should accept lunch.}}
+---json
+{
+    "name":"laba",
+    "h1":"laba",
+    "title":"laba --- synonyms, prabhupada.io",
+    "description":"I should accept lunch."
+}
+---
 
 ==== bhikṣā laba  ====
   * I should accept lunch --- [[books:cc:madhya:20:81|Madhya 20.81]]

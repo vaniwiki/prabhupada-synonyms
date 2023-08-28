@@ -1,5 +1,11 @@
-~~Title:anapavarga~~
-{{description>without deterioration of.}}
+---json
+{
+    "name":"anapavarga",
+    "h1":"anapavarga",
+    "title":"anapavarga --- synonyms, prabhupada.io",
+    "description":"without deterioration of."
+}
+---
 
 ==== anapavarga  ====
   * without deterioration of --- [[books:sb:1:8:43|SB 1.8.43]]

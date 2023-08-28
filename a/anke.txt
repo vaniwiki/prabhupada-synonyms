@@ -1,5 +1,11 @@
-~~Title:aṅke~~
-{{description>on the lap.}}
+---json
+{
+    "name":"aṅke",
+    "h1":"aṅke",
+    "title":"aṅke --- synonyms, prabhupada.io",
+    "description":"on the lap."
+}
+---
 
 ==== aṅke  ====
   * on the lap --- [[books:sb:6:2:5-6|SB 6.2.5-6]], [[books:sb:9:10:47|SB 9.10.47]], [[books:cc:adi:14:10|Ādi 14.10]]

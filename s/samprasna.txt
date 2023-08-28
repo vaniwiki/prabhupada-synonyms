@@ -1,5 +1,11 @@
-~~Title:sampraśna~~
-{{description>perfect inquiries; with the greetings.}}
+---json
+{
+    "name":"sampraśna",
+    "h1":"sampraśna",
+    "title":"sampraśna --- synonyms, prabhupada.io",
+    "description":"perfect inquiries; with the greetings."
+}
+---
 
 ==== sampraśna  ====
   * perfect inquiries --- [[books:sb:1:2:1|SB 1.2.1]]

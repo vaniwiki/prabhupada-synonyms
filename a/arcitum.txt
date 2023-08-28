@@ -1,5 +1,11 @@
-~~Title:arcitum~~
-{{description>to worship.}}
+---json
+{
+    "name":"arcitum",
+    "h1":"arcitum",
+    "title":"arcitum --- synonyms, prabhupada.io",
+    "description":"to worship."
+}
+---
 
 ==== arcitum  ====
   * to worship --- [[books:bg:7:21|Bg. 7.21]]

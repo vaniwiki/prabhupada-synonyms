@@ -1,5 +1,11 @@
-~~Title:nadan~~
-{{description>loudly roaring; roaring; vibrating.}}
+---json
+{
+    "name":"nadan",
+    "h1":"nadan",
+    "title":"nadan --- synonyms, prabhupada.io",
+    "description":"loudly roaring; roaring; vibrating."
+}
+---
 
 ==== nadan  ====
   * loudly roaring --- [[books:sb:7:8:23|SB 7.8.23]]

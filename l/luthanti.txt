@@ -1,5 +1,11 @@
-~~Title:luṭhanti~~
-{{description>overwhelms.}}
+---json
+{
+    "name":"luṭhanti",
+    "h1":"luṭhanti",
+    "title":"luṭhanti --- synonyms, prabhupada.io",
+    "description":"overwhelms."
+}
+---
 
 ==== luṭhanti  ====
   * overwhelms --- [[books:sb:1:15:18|SB 1.15.18]]

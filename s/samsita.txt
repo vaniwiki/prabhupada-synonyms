@@ -1,5 +1,11 @@
-~~Title:saṁśita~~
-{{description>taken to strict.}}
+---json
+{
+    "name":"saṁśita",
+    "h1":"saṁśita",
+    "title":"saṁśita --- synonyms, prabhupada.io",
+    "description":"taken to strict."
+}
+---
 
 ==== saṁśita  ====
   * taken to strict --- [[books:bg:4:28|Bg. 4.28]]

@@ -1,5 +1,11 @@
-~~Title:daśamīte~~
-{{description>on the previous Vijayā-daśamī day.}}
+---json
+{
+    "name":"daśamīte",
+    "h1":"daśamīte",
+    "title":"daśamīte --- synonyms, prabhupada.io",
+    "description":"on the previous Vijayā-daśamī day."
+}
+---
 
 ==== ei vijayā-daśamīte  ====
   * on the previous Vijayā-daśamī day --- [[books:cc:madhya:15:66|Madhya 15.66]]

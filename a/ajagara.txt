@@ -1,5 +1,11 @@
-~~Title:ajagara~~
-{{description>by the great snake known as the python.}}
+---json
+{
+    "name":"ajagara",
+    "h1":"ajagara",
+    "title":"ajagara --- synonyms, prabhupada.io",
+    "description":"by the great snake known as the python."
+}
+---
 
 ==== ajagara-ahinā  ====
   * by the great snake known as the python --- [[books:sb:5:13:9|SB 5.13.9]]

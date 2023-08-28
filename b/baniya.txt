@@ -1,5 +1,11 @@
-~~Title:bāṇiyā~~
-{{description>in the custody of a merchant.}}
+---json
+{
+    "name":"bāṇiyā",
+    "h1":"bāṇiyā",
+    "title":"bāṇiyā --- synonyms, prabhupada.io",
+    "description":"in the custody of a merchant."
+}
+---
 
 ==== bāṇiyā-sthāne  ====
   * in the custody of a merchant --- [[books:cc:madhya:25:205|Madhya 25.205]]

@@ -1,5 +1,11 @@
-~~Title:śirīṣaiḥ~~
-{{description>śirīṣas.}}
+---json
+{
+    "name":"śirīṣaiḥ",
+    "h1":"śirīṣaiḥ",
+    "title":"śirīṣaiḥ --- synonyms, prabhupada.io",
+    "description":"śirīṣas."
+}
+---
 
 ==== śirīṣaiḥ  ====
   * //śirīṣas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

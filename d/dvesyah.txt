@@ -1,5 +1,11 @@
-~~Title:dveṣyaḥ~~
-{{description>enemy; hateful; object of envy.}}
+---json
+{
+    "name":"dveṣyaḥ",
+    "h1":"dveṣyaḥ",
+    "title":"dveṣyaḥ --- synonyms, prabhupada.io",
+    "description":"enemy; hateful; object of envy."
+}
+---
 
 ==== dveṣyaḥ  ====
   * enemy --- [[books:sb:3:29:39|SB 3.29.39]]

@@ -1,5 +1,11 @@
-~~Title:dhvāntam~~
-{{description>darkness; the kingdom of darkness.}}
+---json
+{
+    "name":"dhvāntam",
+    "h1":"dhvāntam",
+    "title":"dhvāntam --- synonyms, prabhupada.io",
+    "description":"darkness; the kingdom of darkness."
+}
+---
 
 ==== dhvāntam  ====
   * darkness --- [[books:sb:3:30:31|SB 3.30.31]], [[books:sb:7:13:22|SB 7.13.22]], [[books:sb:10:12:22|SB 10.12.22]]

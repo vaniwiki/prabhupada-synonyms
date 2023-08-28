@@ -1,5 +1,11 @@
-~~Title:rājantī~~
-{{description>existing.}}
+---json
+{
+    "name":"rājantī",
+    "h1":"rājantī",
+    "title":"rājantī --- synonyms, prabhupada.io",
+    "description":"existing."
+}
+---
 
 ==== rājantī  ====
   * existing --- [[books:cc:madhya:23:95-98|Madhya 23.95-98]]

@@ -1,5 +1,11 @@
-~~Title:varṣīyān~~
-{{description>always increasing.}}
+---json
+{
+    "name":"varṣīyān",
+    "h1":"varṣīyān",
+    "title":"varṣīyān --- synonyms, prabhupada.io",
+    "description":"always increasing."
+}
+---
 
 ==== varṣīyān  ====
   * always increasing --- [[books:sb:3:9:34|SB 3.9.34]]

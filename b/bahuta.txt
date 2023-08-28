@@ -1,5 +1,11 @@
-~~Title:bahuta~~
-{{description>a great quantity; great; greatly; in great quantity; in various ways; many; many of them; much; varieties; various; very much.}}
+---json
+{
+    "name":"bahuta",
+    "h1":"bahuta",
+    "title":"bahuta --- synonyms, prabhupada.io",
+    "description":"a great quantity; great; greatly; in great quantity; in various ways; many; many of them; much; varieties; various; very much."
+}
+---
 
 ==== bahuta  ====
   * a great quantity --- [[books:cc:madhya:4:11|Madhya 4.11]]

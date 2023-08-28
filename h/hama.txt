@@ -1,5 +1,11 @@
-~~Title:hāma~~
-{{description>I.}}
+---json
+{
+    "name":"hāma",
+    "h1":"hāma",
+    "title":"hāma --- synonyms, prabhupada.io",
+    "description":"I."
+}
+---
 
 ==== hāma  ====
   * I --- [[books:cc:madhya:8:194|Madhya 8.194]], [[books:cc:antya:6:195|Antya 6.195]]

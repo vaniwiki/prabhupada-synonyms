@@ -1,5 +1,11 @@
-~~Title:likhibāre~~
-{{description>to write.}}
+---json
+{
+    "name":"likhibāre",
+    "h1":"likhibāre",
+    "title":"likhibāre --- synonyms, prabhupada.io",
+    "description":"to write."
+}
+---
 
 ==== likhibāre  ====
   * to write --- [[books:cc:madhya:17:232|Madhya 17.232]]

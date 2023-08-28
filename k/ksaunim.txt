@@ -1,5 +1,11 @@
-~~Title:kṣauṇīm~~
-{{description>land; on the earth; the earth planet.}}
+---json
+{
+    "name":"kṣauṇīm",
+    "h1":"kṣauṇīm",
+    "title":"kṣauṇīm --- synonyms, prabhupada.io",
+    "description":"land; on the earth; the earth planet."
+}
+---
 
 ==== kṣauṇīm  ====
   * land --- [[books:sb:8:6:2|SB 8.6.2]]

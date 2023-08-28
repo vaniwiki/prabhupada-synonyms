@@ -1,5 +1,11 @@
-~~Title:japyam~~
-{{description>chanted.}}
+---json
+{
+    "name":"japyam",
+    "h1":"japyam",
+    "title":"japyam --- synonyms, prabhupada.io",
+    "description":"chanted."
+}
+---
 
 ==== japyam  ====
   * chanted --- [[books:sb:1:19:38|SB 1.19.38]]

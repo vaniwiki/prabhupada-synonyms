@@ -1,5 +1,11 @@
-~~Title:māgoṅ~~
-{{description>beg; beg from You; I beg; I want.}}
+---json
+{
+    "name":"māgoṅ",
+    "h1":"māgoṅ",
+    "title":"māgoṅ --- synonyms, prabhupada.io",
+    "description":"beg; beg from You; I beg; I want."
+}
+---
 
 ==== māgoṅ  ====
   * beg --- [[books:cc:madhya:7:10|Madhya 7.10]]

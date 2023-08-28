@@ -1,5 +1,11 @@
-~~Title:ārāmasya~~
-{{description>to one who rejoices in the self; who is self-satisfied.}}
+---json
+{
+    "name":"ārāmasya",
+    "h1":"ārāmasya",
+    "title":"ārāmasya --- synonyms, prabhupada.io",
+    "description":"to one who rejoices in the self; who is self-satisfied."
+}
+---
 
 ==== ātma-ārāmasya  ====
   * to one who rejoices in the self --- [[books:sb:3:27:26|SB 3.27.26]]

@@ -1,5 +1,11 @@
-~~Title:śucaye~~
-{{description>perfectly cleansed.}}
+---json
+{
+    "name":"śucaye",
+    "h1":"śucaye",
+    "title":"śucaye --- synonyms, prabhupada.io",
+    "description":"perfectly cleansed."
+}
+---
 
 ==== śucaye  ====
   * perfectly cleansed --- [[books:sb:3:32:42|SB 3.32.42]]

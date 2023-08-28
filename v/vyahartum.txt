@@ -1,5 +1,11 @@
-~~Title:vyāhartum~~
-{{description>to describe.}}
+---json
+{
+    "name":"vyāhartum",
+    "h1":"vyāhartum",
+    "title":"vyāhartum --- synonyms, prabhupada.io",
+    "description":"to describe."
+}
+---
 
 ==== vyāhartum  ====
   * to describe --- [[books:sb:10:1:14|SB 10.1.14]]

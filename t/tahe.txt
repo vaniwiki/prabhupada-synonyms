@@ -1,5 +1,11 @@
-~~Title:tāhe~~
-{{description>about that; at that time; for that reason; from him; in that; in that connection; in that respect; in that situation; in that way; in those; in those activities; in those pastimes; on that; over and above that; there; upon it; within that.}}
+---json
+{
+    "name":"tāhe",
+    "h1":"tāhe",
+    "title":"tāhe --- synonyms, prabhupada.io",
+    "description":"about that; at that time; for that reason; from him; in that; in that connection; in that respect; in that situation; in that way; in those; in those activities; in those pastimes; on that; over and above that; there; upon it; within that."
+}
+---
 
 ==== tāhe  ====
   * about that --- [[books:cc:antya:9:35|Antya 9.35]]

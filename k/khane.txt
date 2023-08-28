@@ -1,5 +1,11 @@
-~~Title:khāne~~
-{{description>on that spot.}}
+---json
+{
+    "name":"khāne",
+    "h1":"khāne",
+    "title":"khāne --- synonyms, prabhupada.io",
+    "description":"on that spot."
+}
+---
 
 ==== sei-khāne  ====
   * on that spot --- [[books:cc:madhya:4:142|Madhya 4.142]]

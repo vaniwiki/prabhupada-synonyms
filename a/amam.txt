@@ -1,5 +1,11 @@
-~~Title:āmam~~
-{{description>mango.}}
+---json
+{
+    "name":"āmam",
+    "h1":"āmam",
+    "title":"āmam --- synonyms, prabhupada.io",
+    "description":"mango."
+}
+---
 
 ==== āmam  ====
   * mango --- [[books:sb:7:12:18|SB 7.12.18]]

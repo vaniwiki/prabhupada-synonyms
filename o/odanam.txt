@@ -1,5 +1,11 @@
-~~Title:odanam~~
-{{description>food; rice boiled in milk.}}
+---json
+{
+    "name":"odanam",
+    "h1":"odanam",
+    "title":"odanam --- synonyms, prabhupada.io",
+    "description":"food; rice boiled in milk."
+}
+---
 
 ==== odanam  ====
   * food --- [[books:sb:4:29:30-31|SB 4.29.30-31]]

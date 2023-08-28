@@ -1,5 +1,11 @@
-~~Title:dhruvāya~~
-{{description>on Dhruva.}}
+---json
+{
+    "name":"dhruvāya",
+    "h1":"dhruvāya",
+    "title":"dhruvāya --- synonyms, prabhupada.io",
+    "description":"on Dhruva."
+}
+---
 
 ==== dhruvāya  ====
   * on Dhruva --- [[books:sb:4:9:58-59|SB 4.9.58-59]]

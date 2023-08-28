@@ -1,5 +1,11 @@
-~~Title:choṅye~~
-{{description>touches.}}
+---json
+{
+    "name":"choṅye",
+    "h1":"choṅye",
+    "title":"choṅye --- synonyms, prabhupada.io",
+    "description":"touches."
+}
+---
 
 ==== choṅye  ====
   * touches --- [[books:cc:antya:18:23|Antya 18.23]]

@@ -1,5 +1,11 @@
-~~Title:ananam~~
-{{description>face; mouth; the face.}}
+---json
+{
+    "name":"ananam",
+    "h1":"ananam",
+    "title":"ananam --- synonyms, prabhupada.io",
+    "description":"face; mouth; the face."
+}
+---
 
 ==== ānanam  ====
   * face --- [[books:sb:1:19:26|SB 1.19.26]], [[books:sb:2:9:16|SB 2.9.16]], [[books:sb:3:14:50|SB 3.14.50]], [[books:sb:4:24:45-46|SB 4.24.45-46]], [[books:sb:4:25:31|SB 4.25.31]], [[books:sb:9:24:65|SB 9.24.65]], [[books:cc:madhya:21:123|Madhya 21.123]]

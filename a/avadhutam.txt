@@ -1,5 +1,11 @@
-~~Title:avadhutam~~
-{{description>appearing like a mendicant.}}
+---json
+{
+    "name":"avadhutam",
+    "h1":"avadhutam",
+    "title":"avadhutam --- synonyms, prabhupada.io",
+    "description":"appearing like a mendicant."
+}
+---
 
 ==== avadhutām  ====
   * appearing like a mendicant --- [[books:sb:4:26:18|SB 4.26.18]]

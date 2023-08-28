@@ -1,5 +1,11 @@
-~~Title:nadyām~~
-{{description>in the river.}}
+---json
+{
+    "name":"nadyām",
+    "h1":"nadyām",
+    "title":"nadyām --- synonyms, prabhupada.io",
+    "description":"in the river."
+}
+---
 
 ==== nadyām  ====
   * in the river --- [[books:sb:4:7:35|SB 4.7.35]], [[books:sb:5:26:22|SB 5.26.22]]

@@ -1,5 +1,11 @@
-~~Title:vece~~
-{{description>sells.}}
+---json
+{
+    "name":"vece",
+    "h1":"vece",
+    "title":"vece --- synonyms, prabhupada.io",
+    "description":"sells."
+}
+---
 
 ==== vece  ====
   * sells --- [[books:cc:madhya:25:204|Madhya 25.204]]

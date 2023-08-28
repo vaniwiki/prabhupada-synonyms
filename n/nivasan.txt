@@ -1,5 +1,11 @@
-~~Title:nivasan~~
-{{description>sitting; staying.}}
+---json
+{
+    "name":"nivasan",
+    "h1":"nivasan",
+    "title":"nivasan --- synonyms, prabhupada.io",
+    "description":"sitting; staying."
+}
+---
 
 ==== nivasan  ====
   * sitting --- [[books:sb:4:8:43|SB 4.8.43]]

@@ -1,5 +1,11 @@
-~~Title:yogam~~
-{{description>yoga; yoga system; absorption, trance; action in devotion; contact; devotional service; in yoga; linking with the Supreme; meditation; mystic yoga; mystic power; mystic powers; mysticism; self-realization; service; spiritual knowledge; the device; the eightfold yoga system; the mystic yoga system; the mystic performances; the mystic process; the process of devotional service to the Supreme Personality of Godhead; the science of one's relationship to the Supreme; Yoga; yoga practice; yogic power.}}
+---json
+{
+    "name":"yogam",
+    "h1":"yogam",
+    "title":"yogam --- synonyms, prabhupada.io",
+    "description":"yoga; yoga system; absorption, trance; action in devotion; contact; devotional service; in yoga; linking with the Supreme; meditation; mystic yoga; mystic power; mystic powers; mysticism; self-realization; service; spiritual knowledge; the device; the eightfold yoga system; the mystic yoga system; the mystic performances; the mystic process; the process of devotional service to the Supreme Personality of Godhead; the science of one's relationship to the Supreme; Yoga; yoga practice; yogic power."
+}
+---
 
 ==== yogam  ====
   * //yoga// --- [[books:sb:3:33:35|SB 3.33.35]]

@@ -1,5 +1,11 @@
-~~Title:nilīya~~
-{{description>having hidden.}}
+---json
+{
+    "name":"nilīya",
+    "h1":"nilīya",
+    "title":"nilīya --- synonyms, prabhupada.io",
+    "description":"having hidden."
+}
+---
 
 ==== nilīya  ====
   * having hidden --- [[books:cc:adi:17:293|Ādi 17.293]]

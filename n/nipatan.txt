@@ -1,5 +1,11 @@
-~~Title:nipatan~~
-{{description>falling down.}}
+---json
+{
+    "name":"nipatan",
+    "h1":"nipatan",
+    "title":"nipatan --- synonyms, prabhupada.io",
+    "description":"falling down."
+}
+---
 
 ==== nipatan  ====
   * falling down --- [[books:sb:8:6:35|SB 8.6.35]]

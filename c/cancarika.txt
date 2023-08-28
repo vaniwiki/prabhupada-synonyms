@@ -1,5 +1,11 @@
-~~Title:cañcarīka~~
-{{description>like bees.}}
+---json
+{
+    "name":"cañcarīka",
+    "h1":"cañcarīka",
+    "title":"cañcarīka --- synonyms, prabhupada.io",
+    "description":"like bees."
+}
+---
 
 ==== cañcarīka  ====
   * like bees --- [[books:cc:adi:4:196|Ādi 4.196]]

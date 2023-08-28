@@ -1,5 +1,11 @@
-~~Title:parivartante~~
-{{description>move around.}}
+---json
+{
+    "name":"parivartante",
+    "h1":"parivartante",
+    "title":"parivartante --- synonyms, prabhupada.io",
+    "description":"move around."
+}
+---
 
 ==== parivartante  ====
   * move around --- [[books:sb:5:23:3|SB 5.23.3]]

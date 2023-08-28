@@ -1,5 +1,11 @@
-~~Title:īdṛśāḥ~~
-{{description>like this.}}
+---json
+{
+    "name":"īdṛśāḥ",
+    "h1":"īdṛśāḥ",
+    "title":"īdṛśāḥ --- synonyms, prabhupada.io",
+    "description":"like this."
+}
+---
 
 ==== īdṛśāḥ  ====
   * like this --- [[books:sb:9:4:56|SB 9.4.56]]

@@ -1,5 +1,11 @@
-~~Title:agranih~~
-{{description>the foremost devotee.}}
+---json
+{
+    "name":"agranih",
+    "h1":"agranih",
+    "title":"agranih --- synonyms, prabhupada.io",
+    "description":"the foremost devotee."
+}
+---
 
 ==== agranīḥ  ====
   * the foremost devotee --- [[books:sb:8:22:28|SB 8.22.28]]

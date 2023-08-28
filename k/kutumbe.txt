@@ -1,5 +1,11 @@
-~~Title:kuṭumbe~~
-{{description>the object of protection at all risk; to family members.}}
+---json
+{
+    "name":"kuṭumbe",
+    "h1":"kuṭumbe",
+    "title":"kuṭumbe --- synonyms, prabhupada.io",
+    "description":"the object of protection at all risk; to family members."
+}
+---
 
 ==== kuṭumbe  ====
   * the object of protection at all risk --- [[books:sb:1:9:39|SB 1.9.39]]

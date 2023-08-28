@@ -1,5 +1,11 @@
-~~Title:vicaṣṭe~~
-{{description>acting; can search for; perceive; sees; sees this.}}
+---json
+{
+    "name":"vicaṣṭe",
+    "h1":"vicaṣṭe",
+    "title":"vicaṣṭe --- synonyms, prabhupada.io",
+    "description":"acting; can search for; perceive; sees; sees this."
+}
+---
 
 ==== vicaṣṭe  ====
   * acting --- [[books:sb:4:22:27|SB 4.22.27]]

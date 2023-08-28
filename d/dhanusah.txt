@@ -1,5 +1,11 @@
-~~Title:dhanuṣaḥ~~
-{{description>bow; of the bow.}}
+---json
+{
+    "name":"dhanuṣaḥ",
+    "h1":"dhanuṣaḥ",
+    "title":"dhanuṣaḥ --- synonyms, prabhupada.io",
+    "description":"bow; of the bow."
+}
+---
 
 ==== dhanuṣaḥ  ====
   * bow --- [[books:sb:2:7:25|SB 2.7.25]]

@@ -1,5 +1,11 @@
-~~Title:santānayām~~
-{{description>began again.}}
+---json
+{
+    "name":"santānayām",
+    "h1":"santānayām",
+    "title":"santānayām --- synonyms, prabhupada.io",
+    "description":"began again."
+}
+---
 
 ==== santānayām āsa  ====
   * began again --- [[books:sb:4:7:16|SB 4.7.16]]

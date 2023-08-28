@@ -1,5 +1,11 @@
-~~Title:balibāre~~
-{{description>to speak.}}
+---json
+{
+    "name":"balibāre",
+    "h1":"balibāre",
+    "title":"balibāre --- synonyms, prabhupada.io",
+    "description":"to speak."
+}
+---
 
 ==== balibāre  ====
   * to speak --- [[books:cc:madhya:13:96|Madhya 13.96]]

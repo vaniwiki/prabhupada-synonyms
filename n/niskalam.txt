@@ -1,5 +1,11 @@
-~~Title:niṣkalam~~
-{{description>pure; without any decrease in potency; without parts.}}
+---json
+{
+    "name":"niṣkalam",
+    "h1":"niṣkalam",
+    "title":"niṣkalam --- synonyms, prabhupada.io",
+    "description":"pure; without any decrease in potency; without parts."
+}
+---
 
 ==== niṣkalam  ====
   * pure --- [[books:sb:6:9:52|SB 6.9.52]]

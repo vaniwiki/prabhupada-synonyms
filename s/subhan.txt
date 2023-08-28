@@ -1,5 +1,11 @@
-~~Title:śubhān~~
-{{description>auspicious.}}
+---json
+{
+    "name":"śubhān",
+    "h1":"śubhān",
+    "title":"śubhān --- synonyms, prabhupada.io",
+    "description":"auspicious."
+}
+---
 
 ==== śubhān  ====
   * auspicious --- [[books:bg:18:71|Bg. 18.71]], [[books:sb:3:22:38|SB 3.22.38]]

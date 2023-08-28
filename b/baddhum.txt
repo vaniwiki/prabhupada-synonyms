@@ -1,5 +1,11 @@
-~~Title:baddhum~~
-{{description>to bind.}}
+---json
+{
+    "name":"baddhum",
+    "h1":"baddhum",
+    "title":"baddhum --- synonyms, prabhupada.io",
+    "description":"to bind."
+}
+---
 
 ==== baddhum  ====
   * to bind --- [[books:sb:10:9:12|SB 10.9.12]]

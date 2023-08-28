@@ -1,5 +1,11 @@
-~~Title:ambareṇa~~
-{{description>with garments.}}
+---json
+{
+    "name":"ambareṇa",
+    "h1":"ambareṇa",
+    "title":"ambareṇa --- synonyms, prabhupada.io",
+    "description":"with garments."
+}
+---
 
 ==== ambareṇa  ====
   * with garments --- [[books:sb:3:4:7|SB 3.4.7]]

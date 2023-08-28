@@ -1,5 +1,11 @@
-~~Title:purātanam~~
-{{description>the oldest of everyone; very old; very, very old; which is very old.}}
+---json
+{
+    "name":"purātanam",
+    "h1":"purātanam",
+    "title":"purātanam --- synonyms, prabhupada.io",
+    "description":"the oldest of everyone; very old; very, very old; which is very old."
+}
+---
 
 ==== purātanam  ====
   * the oldest of everyone --- [[books:sb:8:23:1|SB 8.23.1]]

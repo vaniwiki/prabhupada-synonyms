@@ -1,5 +1,11 @@
-~~Title:vāñchita~~
-{{description>desired; desired object; desired objects; desires; of the desired object; the desired object.}}
+---json
+{
+    "name":"vāñchita",
+    "h1":"vāñchita",
+    "title":"vāñchita --- synonyms, prabhupada.io",
+    "description":"desired; desired object; desired objects; desires; of the desired object; the desired object."
+}
+---
 
 ==== vāñchita  ====
   * desired --- [[books:cc:antya:16:58|Antya 16.58]]

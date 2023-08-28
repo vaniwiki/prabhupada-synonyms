@@ -1,5 +1,11 @@
-~~Title:dadhuḥ~~
-{{description>gave.}}
+---json
+{
+    "name":"dadhuḥ",
+    "h1":"dadhuḥ",
+    "title":"dadhuḥ --- synonyms, prabhupada.io",
+    "description":"gave."
+}
+---
 
 ==== dadhuḥ  ====
   * gave --- [[books:sb:6:10:29|SB 6.10.29]]

@@ -1,5 +1,11 @@
-~~Title:gāvalgaṇe~~
-{{description>the son of Gavalgaṇa, Sañjaya.}}
+---json
+{
+    "name":"gāvalgaṇe",
+    "h1":"gāvalgaṇe",
+    "title":"gāvalgaṇe --- synonyms, prabhupada.io",
+    "description":"the son of Gavalgaṇa, Sañjaya."
+}
+---
 
 ==== gāvalgaṇe  ====
   * the son of Gavalgaṇa, Sañjaya --- [[books:sb:1:13:32|SB 1.13.32]]

@@ -1,5 +1,11 @@
-~~Title:darśitān~~
-{{description>instructed.}}
+---json
+{
+    "name":"darśitān",
+    "h1":"darśitān",
+    "title":"darśitān --- synonyms, prabhupada.io",
+    "description":"instructed."
+}
+---
 
 ==== darśitān  ====
   * instructed --- [[books:sb:4:18:4|SB 4.18.4]]

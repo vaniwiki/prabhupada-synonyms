@@ -1,5 +1,11 @@
-~~Title:bibhratam~~
-{{description>bearing; possessing.}}
+---json
+{
+    "name":"bibhratam",
+    "h1":"bibhratam",
+    "title":"bibhratam --- synonyms, prabhupada.io",
+    "description":"bearing; possessing."
+}
+---
 
 ==== bibhratam  ====
   * bearing --- [[books:sb:4:6:36|SB 4.6.36]]

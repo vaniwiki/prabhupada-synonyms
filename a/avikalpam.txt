@@ -1,5 +1,11 @@
-~~Title:avikalpam~~
-{{description>where there is no creation; without changes.}}
+---json
+{
+    "name":"avikalpam",
+    "h1":"avikalpam",
+    "title":"avikalpam --- synonyms, prabhupada.io",
+    "description":"where there is no creation; without changes."
+}
+---
 
 ==== avikalpam  ====
   * where there is no creation --- [[books:cc:madhya:25:36|Madhya 25.36]]

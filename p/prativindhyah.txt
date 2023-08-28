@@ -1,5 +1,11 @@
-~~Title:prativindhyaḥ~~
-{{description>a son named Prativindhya.}}
+---json
+{
+    "name":"prativindhyaḥ",
+    "h1":"prativindhyaḥ",
+    "title":"prativindhyaḥ --- synonyms, prabhupada.io",
+    "description":"a son named Prativindhya."
+}
+---
 
 ==== prativindhyaḥ  ====
   * a son named Prativindhya --- [[books:sb:9:22:29|SB 9.22.29]]

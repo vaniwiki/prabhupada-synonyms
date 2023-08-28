@@ -1,5 +1,11 @@
-~~Title:vindā~~
-{{description>Mitravindā.}}
+---json
+{
+    "name":"vindā",
+    "h1":"vindā",
+    "title":"vindā --- synonyms, prabhupada.io",
+    "description":"Mitravindā."
+}
+---
 
 ==== mitra-vindā  ====
   * Mitravindā --- [[books:sb:5:20:15|SB 5.20.15]]

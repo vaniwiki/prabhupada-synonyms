@@ -1,5 +1,11 @@
-~~Title:vyākaraṇa~~
-{{description>grammar.}}
+---json
+{
+    "name":"vyākaraṇa",
+    "h1":"vyākaraṇa",
+    "title":"vyākaraṇa --- synonyms, prabhupada.io",
+    "description":"grammar."
+}
+---
 
 ==== vyākaraṇa  ====
   * grammar --- [[books:cc:adi:15:5|Ādi 15.5]], [[books:cc:adi:16:31|Ādi 16.31]], [[books:cc:antya:5:104-105|Antya 5.104-105]]

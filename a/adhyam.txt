@@ -1,5 +1,11 @@
-~~Title:adhyam~~
-{{description>adorned with; endowed with; prosperous; rich.}}
+---json
+{
+    "name":"adhyam",
+    "h1":"adhyam",
+    "title":"adhyam --- synonyms, prabhupada.io",
+    "description":"adorned with; endowed with; prosperous; rich."
+}
+---
 
 ==== āḍhyam  ====
   * adorned with --- [[books:sb:3:28:21|SB 3.28.21]]

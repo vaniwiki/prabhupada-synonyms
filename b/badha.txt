@@ -1,5 +1,11 @@
-~~Title:badha~~
-{{description>objectionable.}}
+---json
+{
+    "name":"badha",
+    "h1":"badha",
+    "title":"badha --- synonyms, prabhupada.io",
+    "description":"objectionable."
+}
+---
 
 ==== bādha  ====
   * objectionable --- [[books:cc:adi:16:57|Ādi 16.57]]

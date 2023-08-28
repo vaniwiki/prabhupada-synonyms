@@ -1,5 +1,11 @@
-~~Title:niyuktah~~
-{{description>appointment; being engaged to work with us; engaged.}}
+---json
+{
+    "name":"niyuktah",
+    "h1":"niyuktah",
+    "title":"niyuktah --- synonyms, prabhupada.io",
+    "description":"appointment; being engaged to work with us; engaged."
+}
+---
 
 ==== niyuktaḥ  ====
   * appointment --- [[books:sb:2:6:32|SB 2.6.32]]

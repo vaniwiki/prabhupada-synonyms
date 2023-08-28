@@ -1,5 +1,11 @@
-~~Title:drsam~~
-{{description>power of introspection; the direction.}}
+---json
+{
+    "name":"drsam",
+    "h1":"drsam",
+    "title":"drsam --- synonyms, prabhupada.io",
+    "description":"power of introspection; the direction."
+}
+---
 
 ==== dṛśam  ====
   * power of introspection --- [[books:sb:3:9:22|SB 3.9.22]]

@@ -1,5 +1,11 @@
-~~Title:samstham~~
-{{description>conserved.}}
+---json
+{
+    "name":"samstham",
+    "h1":"samstham",
+    "title":"samstham --- synonyms, prabhupada.io",
+    "description":"conserved."
+}
+---
 
 ==== saṁstham  ====
   * conserved --- [[books:sb:2:5:2|SB 2.5.2]]

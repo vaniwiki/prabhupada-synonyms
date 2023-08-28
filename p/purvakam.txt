@@ -1,5 +1,11 @@
-~~Title:pūrvakam~~
-{{description>in a wrong way; without following any rules and regulations.}}
+---json
+{
+    "name":"pūrvakam",
+    "h1":"pūrvakam",
+    "title":"pūrvakam --- synonyms, prabhupada.io",
+    "description":"in a wrong way; without following any rules and regulations."
+}
+---
 
 ==== avidhi-pūrvakam  ====
   * in a wrong way --- [[books:bg:9:23|Bg. 9.23]]

@@ -1,5 +1,11 @@
-~~Title:āmayāvī~~
-{{description>diseased.}}
+---json
+{
+    "name":"āmayāvī",
+    "h1":"āmayāvī",
+    "title":"āmayāvī --- synonyms, prabhupada.io",
+    "description":"diseased."
+}
+---
 
 ==== āmayāvī  ====
   * diseased --- [[books:sb:3:30:15|SB 3.30.15]]

@@ -1,5 +1,11 @@
-~~Title:nirvṛtasya~~
-{{description>one who has achieved such transcendental bliss.}}
+---json
+{
+    "name":"nirvṛtasya",
+    "h1":"nirvṛtasya",
+    "title":"nirvṛtasya --- synonyms, prabhupada.io",
+    "description":"one who has achieved such transcendental bliss."
+}
+---
 
 ==== nirvṛtasya  ====
   * one who has achieved such transcendental bliss --- [[books:sb:3:5:13|SB 3.5.13]]

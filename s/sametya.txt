@@ -1,5 +1,11 @@
-~~Title:sametya~~
-{{description>assembling; combined; having achieved; meeting.}}
+---json
+{
+    "name":"sametya",
+    "h1":"sametya",
+    "title":"sametya --- synonyms, prabhupada.io",
+    "description":"assembling; combined; having achieved; meeting."
+}
+---
 
 ==== sametya  ====
   * assembling --- [[books:sb:10:13:31|SB 10.13.31]]

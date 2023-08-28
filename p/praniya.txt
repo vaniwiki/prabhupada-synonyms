@@ -1,5 +1,11 @@
-~~Title:praṇīya~~
-{{description>after collecting.}}
+---json
+{
+    "name":"praṇīya",
+    "h1":"praṇīya",
+    "title":"praṇīya --- synonyms, prabhupada.io",
+    "description":"after collecting."
+}
+---
 
 ==== praṇīya  ====
   * after collecting --- [[books:sb:10:11:53|SB 10.11.53]]

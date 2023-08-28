@@ -1,5 +1,11 @@
-~~Title:nindākara~~
-{{description>critic of all others.}}
+---json
+{
+    "name":"nindākara",
+    "h1":"nindākara",
+    "title":"nindākara --- synonyms, prabhupada.io",
+    "description":"critic of all others."
+}
+---
 
 ==== sarva-nindākara  ====
   * critic of all others --- [[books:cc:antya:8:31|Antya 8.31]]

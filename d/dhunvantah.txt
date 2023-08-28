@@ -1,5 +1,11 @@
-~~Title:dhunvantaḥ~~
-{{description>waving.}}
+---json
+{
+    "name":"dhunvantaḥ",
+    "h1":"dhunvantaḥ",
+    "title":"dhunvantaḥ --- synonyms, prabhupada.io",
+    "description":"waving."
+}
+---
 
 ==== dhunvantaḥ  ====
   * waving --- [[books:sb:9:10:41|SB 9.10.41]]

@@ -1,5 +1,11 @@
-~~Title:guptah~~
-{{description>being protected; protected.}}
+---json
+{
+    "name":"guptah",
+    "h1":"guptah",
+    "title":"guptah --- synonyms, prabhupada.io",
+    "description":"being protected; protected."
+}
+---
 
 ==== guptaḥ  ====
   * being protected --- [[books:sb:6:8:1-2|SB 6.8.1-2]]

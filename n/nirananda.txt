@@ -1,5 +1,11 @@
-~~Title:nirānanda~~
-{{description>unhappy.}}
+---json
+{
+    "name":"nirānanda",
+    "h1":"nirānanda",
+    "title":"nirānanda --- synonyms, prabhupada.io",
+    "description":"unhappy."
+}
+---
 
 ==== nirānanda  ====
   * unhappy --- [[books:cc:antya:2:48-49|Antya 2.48-49]]

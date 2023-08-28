@@ -1,5 +1,11 @@
-~~Title:piṇḍanam~~
-{{description>coagulating.}}
+---json
+{
+    "name":"piṇḍanam",
+    "h1":"piṇḍanam",
+    "title":"piṇḍanam --- synonyms, prabhupada.io",
+    "description":"coagulating."
+}
+---
 
 ==== piṇḍanam  ====
   * coagulating --- [[books:sb:3:26:43|SB 3.26.43]]

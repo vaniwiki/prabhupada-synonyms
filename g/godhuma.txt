@@ -1,5 +1,11 @@
-~~Title:godhūma~~
-{{description>wheat flour.}}
+---json
+{
+    "name":"godhūma",
+    "h1":"godhūma",
+    "title":"godhūma --- synonyms, prabhupada.io",
+    "description":"wheat flour."
+}
+---
 
 ==== godhūma-cūrṇa  ====
   * wheat flour --- [[books:cc:madhya:4:67|Madhya 4.67]]

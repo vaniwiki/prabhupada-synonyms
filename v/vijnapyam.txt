@@ -1,5 +1,11 @@
-~~Title:vijñāpyam~~
-{{description>to be informed.}}
+---json
+{
+    "name":"vijñāpyam",
+    "h1":"vijñāpyam",
+    "title":"vijñāpyam --- synonyms, prabhupada.io",
+    "description":"to be informed."
+}
+---
 
 ==== vijñāpyam  ====
   * to be informed --- [[books:sb:6:16:46|SB 6.16.46]]

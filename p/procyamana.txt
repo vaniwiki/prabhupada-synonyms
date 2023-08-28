@@ -1,5 +1,11 @@
-~~Title:procyamāna~~
-{{description>vibrating.}}
+---json
+{
+    "name":"procyamāna",
+    "h1":"procyamāna",
+    "title":"procyamāna --- synonyms, prabhupada.io",
+    "description":"vibrating."
+}
+---
 
 ==== procyamāna  ====
   * vibrating --- [[books:sb:5:2:4|SB 5.2.4]]

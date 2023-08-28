@@ -1,5 +1,11 @@
-~~Title:mahiṣān~~
-{{description>buffalo.}}
+---json
+{
+    "name":"mahiṣān",
+    "h1":"mahiṣān",
+    "title":"mahiṣān --- synonyms, prabhupada.io",
+    "description":"buffalo."
+}
+---
 
 ==== mahiṣān  ====
   * buffalo --- [[books:sb:4:26:10|SB 4.26.10]]

@@ -1,5 +1,11 @@
-~~Title:ganana~~
-{{description>an enumeration; are counted; calculating; care; consideration; count; counted; counting; enumerate; enumeration; named; the calculation; the chronological order.}}
+---json
+{
+    "name":"ganana",
+    "h1":"ganana",
+    "title":"ganana --- synonyms, prabhupada.io",
+    "description":"an enumeration; are counted; calculating; care; consideration; count; counted; counting; enumerate; enumeration; named; the calculation; the chronological order."
+}
+---
 
 ==== gaṇana  ====
   * an enumeration --- [[books:cc:adi:17:3|Ādi 17.3]]

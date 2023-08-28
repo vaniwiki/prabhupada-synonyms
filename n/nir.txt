@@ -1,5 +1,11 @@
-~~Title:nir~~
-{{description>without.}}
+---json
+{
+    "name":"nir",
+    "h1":"nir",
+    "title":"nir --- synonyms, prabhupada.io",
+    "description":"without."
+}
+---
 
 ==== nir  ====
   * without --- [[books:bg:6:1|Bg. 6.1]], [[books:bg:15:5|Bg. 15.5]]

@@ -1,5 +1,11 @@
-~~Title:anuvanam~~
-{{description>from one forest to another; to each forest.}}
+---json
+{
+    "name":"anuvanam",
+    "h1":"anuvanam",
+    "title":"anuvanam --- synonyms, prabhupada.io",
+    "description":"from one forest to another; to each forest."
+}
+---
 
 ==== anuvanam  ====
   * from one forest to another --- [[books:sb:9:10:4|SB 9.10.4]]

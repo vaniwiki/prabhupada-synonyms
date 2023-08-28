@@ -1,5 +1,11 @@
-~~Title:prasārya~~
-{{description>expanding.}}
+---json
+{
+    "name":"prasārya",
+    "h1":"prasārya",
+    "title":"prasārya --- synonyms, prabhupada.io",
+    "description":"expanding."
+}
+---
 
 ==== prasārya  ====
   * expanding --- [[books:sb:10:6:13|SB 10.6.13]]

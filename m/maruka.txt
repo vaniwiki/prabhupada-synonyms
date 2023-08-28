@@ -1,5 +1,11 @@
-~~Title:maruka~~
-{{description>let die; let them die.}}
+---json
+{
+    "name":"maruka",
+    "h1":"maruka",
+    "title":"maruka --- synonyms, prabhupada.io",
+    "description":"let die; let them die."
+}
+---
 
 ==== maruka  ====
   * let die --- [[books:cc:antya:12:23|Antya 12.23]]

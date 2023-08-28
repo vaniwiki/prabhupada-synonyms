@@ -1,5 +1,11 @@
-~~Title:aruṇaiḥ~~
-{{description>rubies; with rubies.}}
+---json
+{
+    "name":"aruṇaiḥ",
+    "h1":"aruṇaiḥ",
+    "title":"aruṇaiḥ --- synonyms, prabhupada.io",
+    "description":"rubies; with rubies."
+}
+---
 
 ==== aruṇaiḥ  ====
   * rubies --- [[books:cc:antya:1:161|Antya 1.161]]

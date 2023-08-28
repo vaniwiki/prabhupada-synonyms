@@ -1,5 +1,11 @@
-~~Title:dhyāyasva~~
-{{description>meditate.}}
+---json
+{
+    "name":"dhyāyasva",
+    "h1":"dhyāyasva",
+    "title":"dhyāyasva --- synonyms, prabhupada.io",
+    "description":"meditate."
+}
+---
 
 ==== dhyāyasva  ====
   * meditate --- [[books:sb:8:24:43|SB 8.24.43]]

@@ -1,5 +1,11 @@
-~~Title:toṣayām~~
-{{description>he tried to please.}}
+---json
+{
+    "name":"toṣayām",
+    "h1":"toṣayām",
+    "title":"toṣayām --- synonyms, prabhupada.io",
+    "description":"he tried to please."
+}
+---
 
 ==== toṣayām āsa  ====
   * he tried to please --- [[books:sb:6:1:64|SB 6.1.64]]

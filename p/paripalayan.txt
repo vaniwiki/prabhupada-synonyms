@@ -1,5 +1,11 @@
-~~Title:paripālayan~~
-{{description>accepting the request.}}
+---json
+{
+    "name":"paripālayan",
+    "h1":"paripālayan",
+    "title":"paripālayan --- synonyms, prabhupada.io",
+    "description":"accepting the request."
+}
+---
 
 ==== paripālayan  ====
   * accepting the request --- [[books:sb:3:12:9|SB 3.12.9]]

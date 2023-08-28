@@ -1,5 +1,11 @@
-~~Title:niryāti~~
-{{description>goes out; having come out.}}
+---json
+{
+    "name":"niryāti",
+    "h1":"niryāti",
+    "title":"niryāti --- synonyms, prabhupada.io",
+    "description":"goes out; having come out."
+}
+---
 
 ==== niryāti  ====
   * goes out --- [[books:sb:2:2:26|SB 2.2.26]]

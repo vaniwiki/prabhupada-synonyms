@@ -1,5 +1,11 @@
-~~Title:abhayasya~~
-{{description>of fearlessness.}}
+---json
+{
+    "name":"abhayasya",
+    "h1":"abhayasya",
+    "title":"abhayasya --- synonyms, prabhupada.io",
+    "description":"of fearlessness."
+}
+---
 
 ==== abhayasya  ====
   * of fearlessness --- [[books:sb:2:6:18|SB 2.6.18]]

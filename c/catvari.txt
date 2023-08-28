@@ -1,5 +1,11 @@
-~~Title:catvāri~~
-{{description>four.}}
+---json
+{
+    "name":"catvāri",
+    "h1":"catvāri",
+    "title":"catvāri --- synonyms, prabhupada.io",
+    "description":"four."
+}
+---
 
 ==== catvāri  ====
   * four --- [[books:sb:3:8:16|SB 3.8.16]], [[books:sb:3:11:19|SB 3.11.19]], [[books:sb:5:16:13-14|SB 5.16.13-14]], [[books:sb:5:20:30|SB 5.20.30]]

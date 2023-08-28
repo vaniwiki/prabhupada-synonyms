@@ -1,5 +1,11 @@
-~~Title:juṣate~~
-{{description>serves.}}
+---json
+{
+    "name":"juṣate",
+    "h1":"juṣate",
+    "title":"juṣate --- synonyms, prabhupada.io",
+    "description":"serves."
+}
+---
 
 ==== juṣate  ====
   * serves --- [[books:sb:1:18:20|SB 1.18.20]]

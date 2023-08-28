@@ -1,5 +1,11 @@
-~~Title:sandiśet~~
-{{description>should actually enjoy.}}
+---json
+{
+    "name":"sandiśet",
+    "h1":"sandiśet",
+    "title":"sandiśet --- synonyms, prabhupada.io",
+    "description":"should actually enjoy."
+}
+---
 
 ==== sandiśet  ====
   * should actually enjoy --- [[books:sb:9:19:20|SB 9.19.20]]

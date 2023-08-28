@@ -1,5 +1,11 @@
-~~Title:apratīkāram~~
-{{description>without being resistant.}}
+---json
+{
+    "name":"apratīkāram",
+    "h1":"apratīkāram",
+    "title":"apratīkāram --- synonyms, prabhupada.io",
+    "description":"without being resistant."
+}
+---
 
 ==== apratīkāram  ====
   * without being resistant --- [[books:bg:1:45|Bg. 1.45]]

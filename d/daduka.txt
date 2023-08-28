@@ -1,5 +1,11 @@
-~~Title:dāḍukā~~
-{{description>shackles.}}
+---json
+{
+    "name":"dāḍukā",
+    "h1":"dāḍukā",
+    "title":"dāḍukā --- synonyms, prabhupada.io",
+    "description":"shackles."
+}
+---
 
 ==== dāḍukā  ====
   * shackles --- [[books:cc:madhya:20:15|Madhya 20.15]]

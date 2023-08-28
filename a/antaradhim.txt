@@ -1,5 +1,11 @@
-~~Title:antarādhim~~
-{{description>some disease within.}}
+---json
+{
+    "name":"antarādhim",
+    "h1":"antarādhim",
+    "title":"antarādhim --- synonyms, prabhupada.io",
+    "description":"some disease within."
+}
+---
 
 ==== antarādhim  ====
   * some disease within --- [[books:sb:1:16:19|SB 1.16.19]]

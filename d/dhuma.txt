@@ -1,5 +1,11 @@
-~~Title:dhūma~~
-{{description>smoke.}}
+---json
+{
+    "name":"dhūma",
+    "h1":"dhūma",
+    "title":"dhūma --- synonyms, prabhupada.io",
+    "description":"smoke."
+}
+---
 
 ==== dhūma  ====
   * smoke --- [[books:sb:1:18:12|SB 1.18.12]], [[books:sb:8:7:14|SB 8.7.14]]

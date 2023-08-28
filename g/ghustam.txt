@@ -1,5 +1,11 @@
-~~Title:ghuṣṭam~~
-{{description>resounded.}}
+---json
+{
+    "name":"ghuṣṭam",
+    "h1":"ghuṣṭam",
+    "title":"ghuṣṭam --- synonyms, prabhupada.io",
+    "description":"resounded."
+}
+---
 
 ==== ghuṣṭam  ====
   * resounded --- [[books:sb:3:21:41|SB 3.21.41]]

@@ -1,5 +1,11 @@
-~~Title:abhipravṛtta~~
-{{description>being engaged.}}
+---json
+{
+    "name":"abhipravṛtta",
+    "h1":"abhipravṛtta",
+    "title":"abhipravṛtta --- synonyms, prabhupada.io",
+    "description":"being engaged."
+}
+---
 
 ==== abhipravṛtta  ====
   * being engaged --- [[books:sb:3:8:22|SB 3.8.22]]

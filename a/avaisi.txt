@@ -1,5 +1,11 @@
-~~Title:avaiṣi~~
-{{description>you do not know.}}
+---json
+{
+    "name":"avaiṣi",
+    "h1":"avaiṣi",
+    "title":"avaiṣi --- synonyms, prabhupada.io",
+    "description":"you do not know."
+}
+---
 
 ==== na avaiṣi  ====
   * you do not know --- [[books:sb:4:29:49|SB 4.29.49]]

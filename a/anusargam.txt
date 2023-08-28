@@ -1,5 +1,11 @@
-~~Title:anusargam~~
-{{description>the subsequent creation.}}
+---json
+{
+    "name":"anusargam",
+    "h1":"anusargam",
+    "title":"anusargam --- synonyms, prabhupada.io",
+    "description":"the subsequent creation."
+}
+---
 
 ==== anusargam  ====
   * the subsequent creation --- [[books:sb:6:4:1-2|SB 6.4.1-2]]

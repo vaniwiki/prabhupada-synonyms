@@ -1,5 +1,11 @@
-~~Title:krauñca~~
-{{description>Krauñca.}}
+---json
+{
+    "name":"krauñca",
+    "h1":"krauñca",
+    "title":"krauñca --- synonyms, prabhupada.io",
+    "description":"Krauñca."
+}
+---
 
 ==== krauñca  ====
   * Krauñca --- [[books:sb:5:1:32|SB 5.1.32]]

@@ -1,5 +1,11 @@
-~~Title:kapilam~~
-{{description>Kapila Muni; Lord Kapila; named Kapila; the great sage Kapila; to Lord Kapila.}}
+---json
+{
+    "name":"kapilam",
+    "h1":"kapilam",
+    "title":"kapilam --- synonyms, prabhupada.io",
+    "description":"Kapila Muni; Lord Kapila; named Kapila; the great sage Kapila; to Lord Kapila."
+}
+---
 
 ==== kapilam  ====
   * Kapila Muni --- [[books:sb:3:24:16|SB 3.24.16]]

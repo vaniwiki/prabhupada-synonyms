@@ -1,5 +1,11 @@
-~~Title:visala~~
-{{description>very great.}}
+---json
+{
+    "name":"visala",
+    "h1":"visala",
+    "title":"visala --- synonyms, prabhupada.io",
+    "description":"very great."
+}
+---
 
 ==== viśāla  ====
   * very great --- [[books:bg:11:24|Bg. 11.24]]

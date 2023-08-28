@@ -1,5 +1,11 @@
-~~Title:gavayaḥ~~
-{{description>a species of animal.}}
+---json
+{
+    "name":"gavayaḥ",
+    "h1":"gavayaḥ",
+    "title":"gavayaḥ --- synonyms, prabhupada.io",
+    "description":"a species of animal."
+}
+---
 
 ==== gavayaḥ  ====
   * a species of animal --- [[books:sb:3:10:22|SB 3.10.22]]

@@ -1,5 +1,11 @@
-~~Title:gandhavān~~
-{{description>odorous.}}
+---json
+{
+    "name":"gandhavān",
+    "h1":"gandhavān",
+    "title":"gandhavān --- synonyms, prabhupada.io",
+    "description":"odorous."
+}
+---
 
 ==== gandhavān  ====
   * odorous --- [[books:sb:2:5:26-29|SB 2.5.26-29]]

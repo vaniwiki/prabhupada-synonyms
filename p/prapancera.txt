@@ -1,5 +1,11 @@
-~~Title:prapañcera~~
-{{description>equal to the material creation.}}
+---json
+{
+    "name":"prapañcera",
+    "h1":"prapañcera",
+    "title":"prapañcera --- synonyms, prabhupada.io",
+    "description":"equal to the material creation."
+}
+---
 
 ==== prapañcera sama  ====
   * equal to the material creation --- [[books:cc:adi:5:20|Ādi 5.20]]

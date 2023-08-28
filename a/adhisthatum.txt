@@ -1,5 +1,11 @@
-~~Title:adhiṣṭhātum~~
-{{description>to board.}}
+---json
+{
+    "name":"adhiṣṭhātum",
+    "h1":"adhiṣṭhātum",
+    "title":"adhiṣṭhātum --- synonyms, prabhupada.io",
+    "description":"to board."
+}
+---
 
 ==== adhiṣṭhātum  ====
   * to board --- [[books:sb:4:12:29|SB 4.12.29]]

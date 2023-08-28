@@ -1,5 +1,11 @@
-~~Title:sṛṣṭibhiḥ~~
-{{description>by any living being created by me.}}
+---json
+{
+    "name":"sṛṣṭibhiḥ",
+    "h1":"sṛṣṭibhiḥ",
+    "title":"sṛṣṭibhiḥ --- synonyms, prabhupada.io",
+    "description":"by any living being created by me."
+}
+---
 
 ==== mama sṛṣṭibhiḥ  ====
   * by any living being created by me --- [[books:sb:7:10:27|SB 7.10.27]]

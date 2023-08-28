@@ -1,5 +1,11 @@
-~~Title:jagadīśa~~
-{{description>Jagadīśa.}}
+---json
+{
+    "name":"jagadīśa",
+    "h1":"jagadīśa",
+    "title":"jagadīśa --- synonyms, prabhupada.io",
+    "description":"Jagadīśa."
+}
+---
 
 ==== jagadīśa  ====
   * Jagadīśa --- [[books:cc:antya:6:62|Antya 6.62]]

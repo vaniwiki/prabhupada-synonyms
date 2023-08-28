@@ -1,5 +1,11 @@
-~~Title:yemate~~
-{{description>as.}}
+---json
+{
+    "name":"yemate",
+    "h1":"yemate",
+    "title":"yemate --- synonyms, prabhupada.io",
+    "description":"as."
+}
+---
 
 ==== yemate  ====
   * as --- [[books:cc:madhya:16:207|Madhya 16.207]]

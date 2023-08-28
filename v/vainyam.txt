@@ -1,5 +1,11 @@
-~~Title:vainyam~~
-{{description>the son of Vena.}}
+---json
+{
+    "name":"vainyam",
+    "h1":"vainyam",
+    "title":"vainyam --- synonyms, prabhupada.io",
+    "description":"the son of Vena."
+}
+---
 
 ==== vainyam  ====
   * the son of Vena --- [[books:sb:4:23:26|SB 4.23.26]]

@@ -1,5 +1,11 @@
-~~Title:bhūtasya~~
-{{description>of Bhūta.}}
+---json
+{
+    "name":"bhūtasya",
+    "h1":"bhūtasya",
+    "title":"bhūtasya --- synonyms, prabhupada.io",
+    "description":"of Bhūta."
+}
+---
 
 ==== bhūtasya  ====
   * of Bhūta --- [[books:sb:6:6:17-18|SB 6.6.17-18]]

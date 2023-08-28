@@ -1,5 +1,11 @@
-~~Title:japata~~
-{{description>while chanting.}}
+---json
+{
+    "name":"japata",
+    "h1":"japata",
+    "title":"japata --- synonyms, prabhupada.io",
+    "description":"while chanting."
+}
+---
 
 ==== japata  ====
   * while chanting --- [[books:sb:4:24:69|SB 4.24.69]]

@@ -1,5 +1,11 @@
-~~Title:nirahankrtah~~
-{{description>without identification with the body.}}
+---json
+{
+    "name":"nirahankrtah",
+    "h1":"nirahankrtah",
+    "title":"nirahankrtah --- synonyms, prabhupada.io",
+    "description":"without identification with the body."
+}
+---
 
 ==== nirahaṅkṛtaḥ  ====
   * without identification with the body --- [[books:sb:6:16:8|SB 6.16.8]]

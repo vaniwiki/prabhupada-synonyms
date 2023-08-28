@@ -1,5 +1,11 @@
-~~Title:kāṅgālera~~
-{{description>of the beggars.}}
+---json
+{
+    "name":"kāṅgālera",
+    "h1":"kāṅgālera",
+    "title":"kāṅgālera --- synonyms, prabhupada.io",
+    "description":"of the beggars."
+}
+---
 
 ==== kāṅgālera  ====
   * of the beggars --- [[books:cc:madhya:14:45|Madhya 14.45]]

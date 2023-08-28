@@ -1,5 +1,11 @@
-~~Title:śṛṇudhvam~~
-{{description>please hear.}}
+---json
+{
+    "name":"śṛṇudhvam",
+    "h1":"śṛṇudhvam",
+    "title":"śṛṇudhvam --- synonyms, prabhupada.io",
+    "description":"please hear."
+}
+---
 
 ==== śṛṇudhvam  ====
   * please hear --- [[books:sb:6:10:31|SB 6.10.31]]

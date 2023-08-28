@@ -1,5 +1,11 @@
-~~Title:nisvanam~~
-{{description>making a terrible sound.}}
+---json
+{
+    "name":"nisvanam",
+    "h1":"nisvanam",
+    "title":"nisvanam --- synonyms, prabhupada.io",
+    "description":"making a terrible sound."
+}
+---
 
 ==== bhīma-nisvanam  ====
   * making a terrible sound --- [[books:sb:3:17:24|SB 3.17.24]]

@@ -1,5 +1,11 @@
-~~Title:śaṅkham~~
-{{description>conchshell; the conch.}}
+---json
+{
+    "name":"śaṅkham",
+    "h1":"śaṅkham",
+    "title":"śaṅkham --- synonyms, prabhupada.io",
+    "description":"conchshell; the conch."
+}
+---
 
 ==== śaṅkham  ====
   * conchshell --- [[books:bg:1:12|Bg. 1.12]], [[books:sb:4:10:6|SB 4.10.6]], [[books:sb:4:15:19|SB 4.15.19]]

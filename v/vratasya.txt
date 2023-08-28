@@ -1,5 +1,11 @@
-~~Title:vratasya~~
-{{description>of one who has taken a vow strictly; whose vows of austerity.}}
+---json
+{
+    "name":"vratasya",
+    "h1":"vratasya",
+    "title":"vratasya --- synonyms, prabhupada.io",
+    "description":"of one who has taken a vow strictly; whose vows of austerity."
+}
+---
 
 ==== vratasya  ====
   * of one who has taken a vow strictly --- [[books:sb:9:6:50|SB 9.6.50]]

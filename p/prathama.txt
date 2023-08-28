@@ -1,5 +1,11 @@
-~~Title:prathama~~
-{{description>at first; first; for the first time; in the first; the first.}}
+---json
+{
+    "name":"prathama",
+    "h1":"prathama",
+    "title":"prathama --- synonyms, prabhupada.io",
+    "description":"at first; first; for the first time; in the first; the first."
+}
+---
 
 ==== prathama  ====
   * at first --- [[books:cc:madhya:20:265|Madhya 20.265]], [[books:cc:antya:20:73|Antya 20.73]]

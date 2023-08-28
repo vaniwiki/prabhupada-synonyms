@@ -1,5 +1,11 @@
-~~Title:teiśa~~
-{{description>twenty-three different varieties of imports.}}
+---json
+{
+    "name":"teiśa",
+    "h1":"teiśa",
+    "title":"teiśa --- synonyms, prabhupada.io",
+    "description":"twenty-three different varieties of imports."
+}
+---
 
 ==== teiśa artha  ====
   * twenty-three different varieties of imports --- [[books:cc:madhya:24:220|Madhya 24.220]]

@@ -1,5 +1,11 @@
-~~Title:vataih~~
-{{description>banyan trees.}}
+---json
+{
+    "name":"vataih",
+    "h1":"vataih",
+    "title":"vataih --- synonyms, prabhupada.io",
+    "description":"banyan trees."
+}
+---
 
 ==== vaṭaiḥ  ====
   * banyan trees --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

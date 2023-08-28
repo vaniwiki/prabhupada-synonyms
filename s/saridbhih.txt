@@ -1,5 +1,11 @@
-~~Title:saridbhiḥ~~
-{{description>with sanctified water.}}
+---json
+{
+    "name":"saridbhiḥ",
+    "h1":"saridbhiḥ",
+    "title":"saridbhiḥ --- synonyms, prabhupada.io",
+    "description":"with sanctified water."
+}
+---
 
 ==== saridbhiḥ  ====
   * with sanctified water --- [[books:sb:5:15:10|SB 5.15.10]]

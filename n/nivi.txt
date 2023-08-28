@@ -1,5 +1,11 @@
-~~Title:nīvi~~
-{{description>the belt; the belts; the knots of the underwear.}}
+---json
+{
+    "name":"nīvi",
+    "h1":"nīvi",
+    "title":"nīvi --- synonyms, prabhupada.io",
+    "description":"the belt; the belts; the knots of the underwear."
+}
+---
 
 ==== nīvi  ====
   * the belt --- [[books:cc:antya:19:96|Antya 19.96]]

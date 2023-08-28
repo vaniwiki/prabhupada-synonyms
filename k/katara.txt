@@ -1,5 +1,11 @@
-~~Title:kātara~~
-{{description>agitated.}}
+---json
+{
+    "name":"kātara",
+    "h1":"kātara",
+    "title":"kātara --- synonyms, prabhupada.io",
+    "description":"agitated."
+}
+---
 
 ==== kātara  ====
   * agitated --- [[books:cc:madhya:7:46|Madhya 7.46]]

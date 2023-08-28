@@ -1,5 +1,11 @@
-~~Title:khaḍgī~~
-{{description>taking a sword.}}
+---json
+{
+    "name":"khaḍgī",
+    "h1":"khaḍgī",
+    "title":"khaḍgī --- synonyms, prabhupada.io",
+    "description":"taking a sword."
+}
+---
 
 ==== khaḍgī  ====
   * taking a sword --- [[books:sb:8:15:8-9|SB 8.15.8-9]]

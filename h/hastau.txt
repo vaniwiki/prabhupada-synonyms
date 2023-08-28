@@ -1,5 +1,11 @@
-~~Title:hastau~~
-{{description>hands; hands and legs and other senses; the hands; the two hands.}}
+---json
+{
+    "name":"hastau",
+    "h1":"hastau",
+    "title":"hastau --- synonyms, prabhupada.io",
+    "description":"hands; hands and legs and other senses; the hands; the two hands."
+}
+---
 
 ==== hastau  ====
   * hands --- [[books:sb:3:6:21|SB 3.6.21]]

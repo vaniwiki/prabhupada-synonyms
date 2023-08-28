@@ -1,5 +1,11 @@
-~~Title:sutān~~
-{{description>children; sons; the sons; their respective sons; their sons; to his own sons; to the obedient sons.}}
+---json
+{
+    "name":"sutān",
+    "h1":"sutān",
+    "title":"sutān --- synonyms, prabhupada.io",
+    "description":"children; sons; the sons; their respective sons; their sons; to his own sons; to the obedient sons."
+}
+---
 
 ==== sutān  ====
   * children --- [[books:sb:4:28:34|SB 4.28.34]]

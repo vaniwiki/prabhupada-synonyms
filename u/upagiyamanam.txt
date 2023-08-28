@@ -1,5 +1,11 @@
-~~Title:upagīyamānam~~
-{{description>glorified by the followers.}}
+---json
+{
+    "name":"upagīyamānam",
+    "h1":"upagīyamānam",
+    "title":"upagīyamānam --- synonyms, prabhupada.io",
+    "description":"glorified by the followers."
+}
+---
 
 ==== upagīyamānam  ====
   * glorified by the followers --- [[books:sb:4:24:24-25|SB 4.24.24-25]]

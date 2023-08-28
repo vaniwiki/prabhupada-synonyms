@@ -1,5 +1,11 @@
-~~Title:vyajya~~
-{{description>after instructing this.}}
+---json
+{
+    "name":"vyajya",
+    "h1":"vyajya",
+    "title":"vyajya --- synonyms, prabhupada.io",
+    "description":"after instructing this."
+}
+---
 
 ==== vyajya idam  ====
   * after instructing this --- [[books:sb:3:9:44|SB 3.9.44]]

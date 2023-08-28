@@ -1,5 +1,11 @@
-~~Title:ucyamāne~~
-{{description>while this was being said.}}
+---json
+{
+    "name":"ucyamāne",
+    "h1":"ucyamāne",
+    "title":"ucyamāne --- synonyms, prabhupada.io",
+    "description":"while this was being said."
+}
+---
 
 ==== ucyamāne  ====
   * while this was being said --- [[books:sb:4:5:12|SB 4.5.12]]

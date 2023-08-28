@@ -1,5 +1,11 @@
-~~Title:mayan~~
-{{description>made of nectar.}}
+---json
+{
+    "name":"mayan",
+    "h1":"mayan",
+    "title":"mayan --- synonyms, prabhupada.io",
+    "description":"made of nectar."
+}
+---
 
 ==== amṛta-mayān  ====
   * made of nectar --- [[books:sb:4:15:17|SB 4.15.17]]

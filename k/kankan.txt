@@ -1,5 +1,11 @@
-~~Title:kaṅkān~~
-{{description>the Kaṅkas.}}
+---json
+{
+    "name":"kaṅkān",
+    "h1":"kaṅkān",
+    "title":"kaṅkān --- synonyms, prabhupada.io",
+    "description":"the Kaṅkas."
+}
+---
 
 ==== kaṅkān  ====
   * the Kaṅkas --- [[books:sb:9:20:30|SB 9.20.30]]

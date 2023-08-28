@@ -1,5 +1,11 @@
-~~Title:vinimaye~~
-{{description>in exchange for goods.}}
+---json
+{
+    "name":"vinimaye",
+    "h1":"vinimaye",
+    "title":"vinimaye --- synonyms, prabhupada.io",
+    "description":"in exchange for goods."
+}
+---
 
 ==== dravya-vinimaye  ====
   * in exchange for goods --- [[books:sb:5:26:28|SB 5.26.28]]

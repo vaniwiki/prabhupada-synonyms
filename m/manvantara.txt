@@ -1,5 +1,11 @@
-~~Title:manvantara~~
-{{description>changes of Manus.}}
+---json
+{
+    "name":"manvantara",
+    "h1":"manvantara",
+    "title":"manvantara --- synonyms, prabhupada.io",
+    "description":"changes of Manus."
+}
+---
 
 ==== manvantara  ====
   * changes of Manus --- [[books:sb:2:10:1|SB 2.10.1]]

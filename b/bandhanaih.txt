@@ -1,5 +1,11 @@
-~~Title:bandhanaiḥ~~
-{{description>bondage.}}
+---json
+{
+    "name":"bandhanaiḥ",
+    "h1":"bandhanaiḥ",
+    "title":"bandhanaiḥ --- synonyms, prabhupada.io",
+    "description":"bondage."
+}
+---
 
 ==== bandhanaiḥ  ====
   * bondage --- [[books:bg:9:28|Bg. 9.28]]

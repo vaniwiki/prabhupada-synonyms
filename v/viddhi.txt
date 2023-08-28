@@ -1,5 +1,11 @@
-~~Title:viddhi~~
-{{description>just try to understand; know; know it; know it well; knowing; knows; must be known; must know; one should know; please know; try to know; try to understand; understand; you may know; you must know; you should know.}}
+---json
+{
+    "name":"viddhi",
+    "h1":"viddhi",
+    "title":"viddhi --- synonyms, prabhupada.io",
+    "description":"just try to understand; know; know it; know it well; knowing; knows; must be known; must know; one should know; please know; try to know; try to understand; understand; you may know; you must know; you should know."
+}
+---
 
 ==== viddhi  ====
   * just try to understand --- [[books:bg:7:5|Bg. 7.5]]

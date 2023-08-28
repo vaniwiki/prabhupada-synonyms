@@ -1,5 +1,11 @@
-~~Title:nṛtyakaribāre~~
-{{description>to dance.}}
+---json
+{
+    "name":"nṛtyakaribāre",
+    "h1":"nṛtyakaribāre",
+    "title":"nṛtyakaribāre --- synonyms, prabhupada.io",
+    "description":"to dance."
+}
+---
 
 ==== nṛtyakaribāre  ====
   * to dance --- [[books:cc:madhya:13:35|Madhya 13.35]]

@@ -1,5 +1,11 @@
-~~Title:apamāna~~
-{{description>dishonor; disrespect; insult.}}
+---json
+{
+    "name":"apamāna",
+    "h1":"apamāna",
+    "title":"apamāna --- synonyms, prabhupada.io",
+    "description":"dishonor; disrespect; insult."
+}
+---
 
 ==== apamāna  ====
   * dishonor --- [[books:cc:antya:3:103|Antya 3.103]]

@@ -1,5 +1,11 @@
-~~Title:vyañjane~~
-{{description>with vegetables.}}
+---json
+{
+    "name":"vyañjane",
+    "h1":"vyañjane",
+    "title":"vyañjane --- synonyms, prabhupada.io",
+    "description":"with vegetables."
+}
+---
 
 ==== vyañjane  ====
   * with vegetables --- [[books:cc:madhya:3:52|Madhya 3.52]], [[books:cc:madhya:3:90|Madhya 3.90]]

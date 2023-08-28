@@ -1,5 +1,11 @@
-~~Title:pāthāre~~
-{{description>in the inundation.}}
+---json
+{
+    "name":"pāthāre",
+    "h1":"pāthāre",
+    "title":"pāthāre --- synonyms, prabhupada.io",
+    "description":"in the inundation."
+}
+---
 
 ==== pāthāre  ====
   * in the inundation --- [[books:cc:madhya:17:233|Madhya 17.233]]

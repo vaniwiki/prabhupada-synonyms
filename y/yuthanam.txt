@@ -1,5 +1,11 @@
-~~Title:yūthānām~~
-{{description>of the soldiers.}}
+---json
+{
+    "name":"yūthānām",
+    "h1":"yūthānām",
+    "title":"yūthānām --- synonyms, prabhupada.io",
+    "description":"of the soldiers."
+}
+---
 
 ==== yūthānām  ====
   * of the soldiers --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

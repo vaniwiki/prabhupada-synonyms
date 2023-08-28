@@ -1,5 +1,11 @@
-~~Title:paiśe~~
-{{description>enter; enters.}}
+---json
+{
+    "name":"paiśe",
+    "h1":"paiśe",
+    "title":"paiśe --- synonyms, prabhupada.io",
+    "description":"enter; enters."
+}
+---
 
 ==== paiśe  ====
   * enter --- [[books:cc:adi:5:69|Ādi 5.69]], [[books:cc:antya:15:75|Antya 15.75]], [[books:cc:antya:18:92|Antya 18.92]]

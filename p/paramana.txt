@@ -1,5 +1,11 @@
-~~Title:paramāṇa~~
-{{description>the evidence.}}
+---json
+{
+    "name":"paramāṇa",
+    "h1":"paramāṇa",
+    "title":"paramāṇa --- synonyms, prabhupada.io",
+    "description":"the evidence."
+}
+---
 
 ==== paramāṇa  ====
   * the evidence --- [[books:cc:adi:3:68|Ādi 3.68]]

@@ -1,5 +1,11 @@
-~~Title:prajalpa~~
-{{description>named prajalpa and so on.}}
+---json
+{
+    "name":"prajalpa",
+    "h1":"prajalpa",
+    "title":"prajalpa --- synonyms, prabhupada.io",
+    "description":"named prajalpa and so on."
+}
+---
 
 ==== prajalpa-ādi-nāma  ====
   * named //prajalpa// and so on --- [[books:cc:madhya:23:60|Madhya 23.60]]

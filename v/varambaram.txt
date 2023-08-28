@@ -1,5 +1,11 @@
-~~Title:varāmbaram~~
-{{description>glittering dress.}}
+---json
+{
+    "name":"varāmbaram",
+    "h1":"varāmbaram",
+    "title":"varāmbaram --- synonyms, prabhupada.io",
+    "description":"glittering dress."
+}
+---
 
 ==== varāmbaram  ====
   * glittering dress --- [[books:sb:1:9:33|SB 1.9.33]]

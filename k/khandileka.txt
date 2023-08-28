@@ -1,5 +1,11 @@
-~~Title:khaṇḍileka~~
-{{description>dissipated.}}
+---json
+{
+    "name":"khaṇḍileka",
+    "h1":"khaṇḍileka",
+    "title":"khaṇḍileka --- synonyms, prabhupada.io",
+    "description":"dissipated."
+}
+---
 
 ==== khaṇḍileka  ====
   * dissipated --- [[books:cc:adi:13:107|Ādi 13.107]]

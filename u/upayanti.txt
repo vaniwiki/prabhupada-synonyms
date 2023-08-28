@@ -1,5 +1,11 @@
-~~Title:upayanti~~
-{{description>are able to express.}}
+---json
+{
+    "name":"upayanti",
+    "h1":"upayanti",
+    "title":"upayanti --- synonyms, prabhupada.io",
+    "description":"are able to express."
+}
+---
 
 ==== upayanti  ====
   * are able to express --- [[books:cc:adi:1:48|Ādi 1.48]], [[books:cc:madhya:22:48|Madhya 22.48]]

@@ -1,5 +1,11 @@
-~~Title:śvāvit~~
-{{description>porcupines.}}
+---json
+{
+    "name":"śvāvit",
+    "h1":"śvāvit",
+    "title":"śvāvit --- synonyms, prabhupada.io",
+    "description":"porcupines."
+}
+---
 
 ==== śvāvit  ====
   * porcupines --- [[books:sb:3:21:44|SB 3.21.44]]

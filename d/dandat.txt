@@ -1,5 +1,11 @@
-~~Title:daṇḍāt~~
-{{description>from the punishment.}}
+---json
+{
+    "name":"daṇḍāt",
+    "h1":"daṇḍāt",
+    "title":"daṇḍāt --- synonyms, prabhupada.io",
+    "description":"from the punishment."
+}
+---
 
 ==== daṇḍāt  ====
   * from the punishment --- [[books:sb:5:10:17|SB 5.10.17]]

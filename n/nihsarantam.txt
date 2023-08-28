@@ -1,5 +1,11 @@
-~~Title:niḥsarantam~~
-{{description>coming out.}}
+---json
+{
+    "name":"niḥsarantam",
+    "h1":"niḥsarantam",
+    "title":"niḥsarantam --- synonyms, prabhupada.io",
+    "description":"coming out."
+}
+---
 
 ==== niḥsarantam  ====
   * coming out --- [[books:sb:3:18:7|SB 3.18.7]]

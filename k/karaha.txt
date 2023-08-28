@@ -1,5 +1,11 @@
-~~Title:karaha~~
-{{description>accept; and perform; do; execute; give; just do; just make; just put into; kindly do; kindly give; kindly show; make; perform; please do; please give; please show; you become; you do; You give; you make.}}
+---json
+{
+    "name":"karaha",
+    "h1":"karaha",
+    "title":"karaha --- synonyms, prabhupada.io",
+    "description":"accept; and perform; do; execute; give; just do; just make; just put into; kindly do; kindly give; kindly show; make; perform; please do; please give; please show; you become; you do; You give; you make."
+}
+---
 
 ==== karaha  ====
   * accept --- [[books:cc:adi:15:18|Ādi 15.18]], [[books:cc:madhya:15:188|Madhya 15.188]]

@@ -1,5 +1,11 @@
-~~Title:tusita~~
-{{description>Tuṣitā.}}
+---json
+{
+    "name":"tusita",
+    "h1":"tusita",
+    "title":"tusita --- synonyms, prabhupada.io",
+    "description":"Tuṣitā."
+}
+---
 
 ==== tuṣitā  ====
   * Tuṣitā --- [[books:sb:8:1:21|SB 8.1.21]]

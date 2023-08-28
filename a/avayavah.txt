@@ -1,5 +1,11 @@
-~~Title:avayavah~~
-{{description>his limbs; the different parts of whose body; the part of the body.}}
+---json
+{
+    "name":"avayavah",
+    "h1":"avayavah",
+    "title":"avayavah --- synonyms, prabhupada.io",
+    "description":"his limbs; the different parts of whose body; the part of the body."
+}
+---
 
 ==== avayavaḥ  ====
   * his limbs --- [[books:sb:4:28:15|SB 4.28.15]]

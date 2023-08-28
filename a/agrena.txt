@@ -1,5 +1,11 @@
-~~Title:agreṇa~~
-{{description>by the point.}}
+---json
+{
+    "name":"agreṇa",
+    "h1":"agreṇa",
+    "title":"agreṇa --- synonyms, prabhupada.io",
+    "description":"by the point."
+}
+---
 
 ==== agreṇa  ====
   * by the point --- [[books:sb:5:8:21|SB 5.8.21]]

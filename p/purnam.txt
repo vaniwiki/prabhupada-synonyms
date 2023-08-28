@@ -1,5 +1,11 @@
-~~Title:purnam~~
-{{description>absolute; complete; complete unit; completely; completely, all; fully complete; perfectly complete; the complete; the complete balance; who is full and therefore has no need to fulfill desires.}}
+---json
+{
+    "name":"purnam",
+    "h1":"purnam",
+    "title":"purnam --- synonyms, prabhupada.io",
+    "description":"absolute; complete; complete unit; completely; completely, all; fully complete; perfectly complete; the complete; the complete balance; who is full and therefore has no need to fulfill desires."
+}
+---
 
 ==== pūrṇam  ====
   * absolute --- [[books:sb:1:7:4|SB 1.7.4]], [[books:sb:2:6:40-41|SB 2.6.40-41]]

@@ -1,5 +1,11 @@
-~~Title:grahat~~
-{{description>from the mouth of a crocodile.}}
+---json
+{
+    "name":"grahat",
+    "h1":"grahat",
+    "title":"grahat --- synonyms, prabhupada.io",
+    "description":"from the mouth of a crocodile."
+}
+---
 
 ==== grahāt  ====
   * from the mouth of a crocodile --- [[books:sb:8:1:30|SB 8.1.30]]

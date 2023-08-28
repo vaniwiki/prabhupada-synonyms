@@ -1,5 +1,11 @@
-~~Title:samvarana~~
-{{description>checking.}}
+---json
+{
+    "name":"samvarana",
+    "h1":"samvarana",
+    "title":"samvarana --- synonyms, prabhupada.io",
+    "description":"checking."
+}
+---
 
 ==== samvaraṇa  ====
   * checking --- [[books:cc:madhya:19:64|Madhya 19.64]], [[books:cc:madhya:19:82|Madhya 19.82]]

@@ -1,5 +1,11 @@
-~~Title:mādhurīte~~
-{{description>by the sweetness.}}
+---json
+{
+    "name":"mādhurīte",
+    "h1":"mādhurīte",
+    "title":"mādhurīte --- synonyms, prabhupada.io",
+    "description":"by the sweetness."
+}
+---
 
 ==== mādhurīte  ====
   * by the sweetness --- [[books:cc:adi:5:223|Ādi 5.223]]

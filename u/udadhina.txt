@@ -1,5 +1,11 @@
-~~Title:udadhinā~~
-{{description>by the ocean of salt water.}}
+---json
+{
+    "name":"udadhinā",
+    "h1":"udadhinā",
+    "title":"udadhinā --- synonyms, prabhupada.io",
+    "description":"by the ocean of salt water."
+}
+---
 
 ==== kṣāra-udadhinā  ====
   * by the ocean of salt water --- [[books:sb:5:20:2|SB 5.20.2]]

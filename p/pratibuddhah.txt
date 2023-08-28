@@ -1,5 +1,11 @@
-~~Title:pratibuddhaḥ~~
-{{description>one who knows.}}
+---json
+{
+    "name":"pratibuddhaḥ",
+    "h1":"pratibuddhaḥ",
+    "title":"pratibuddhaḥ --- synonyms, prabhupada.io",
+    "description":"one who knows."
+}
+---
 
 ==== pratibuddhaḥ  ====
   * one who knows --- [[books:sb:4:20:5|SB 4.20.5]]

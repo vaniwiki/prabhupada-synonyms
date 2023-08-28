@@ -1,5 +1,11 @@
-~~Title:amaratām~~
-{{description>immortality; liberation in one's life.}}
+---json
+{
+    "name":"amaratām",
+    "h1":"amaratām",
+    "title":"amaratām --- synonyms, prabhupada.io",
+    "description":"immortality; liberation in one's life."
+}
+---
 
 ==== amaratām  ====
   * immortality --- [[books:sb:8:9:26|SB 8.9.26]]

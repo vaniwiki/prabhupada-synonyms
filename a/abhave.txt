@@ -1,5 +1,11 @@
-~~Title:abhāve~~
-{{description>in the absence of.}}
+---json
+{
+    "name":"abhāve",
+    "h1":"abhāve",
+    "title":"abhāve --- synonyms, prabhupada.io",
+    "description":"in the absence of."
+}
+---
 
 ==== abhāve  ====
   * in the absence of --- [[books:sb:2:10:9|SB 2.10.9]]

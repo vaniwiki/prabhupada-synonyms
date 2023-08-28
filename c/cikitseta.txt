@@ -1,5 +1,11 @@
-~~Title:cikitseta~~
-{{description>would treat.}}
+---json
+{
+    "name":"cikitseta",
+    "h1":"cikitseta",
+    "title":"cikitseta --- synonyms, prabhupada.io",
+    "description":"would treat."
+}
+---
 
 ==== cikitseta  ====
   * would treat --- [[books:sb:6:1:8|SB 6.1.8]]

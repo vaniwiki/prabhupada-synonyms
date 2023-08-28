@@ -1,5 +1,11 @@
-~~Title:gopālam~~
-{{description>the Gopāla known as the witness Gopāla.}}
+---json
+{
+    "name":"gopālam",
+    "h1":"gopālam",
+    "title":"gopālam --- synonyms, prabhupada.io",
+    "description":"the Gopāla known as the witness Gopāla."
+}
+---
 
 ==== sākṣi-gopālam  ====
   * the Gopāla known as the witness Gopāla --- [[books:cc:madhya:5:1|Madhya 5.1]]

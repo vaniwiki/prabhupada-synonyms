@@ -1,5 +1,11 @@
-~~Title:śikham~~
-{{description>having three points; three-pointed.}}
+---json
+{
+    "name":"śikham",
+    "h1":"śikham",
+    "title":"śikham --- synonyms, prabhupada.io",
+    "description":"having three points; three-pointed."
+}
+---
 
 ==== tri-śikham  ====
   * having three points --- [[books:sb:5:25:3|SB 5.25.3]]

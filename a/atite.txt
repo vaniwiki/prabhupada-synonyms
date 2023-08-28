@@ -1,5 +1,11 @@
-~~Title:atīte~~
-{{description>in the past; long, long ago.}}
+---json
+{
+    "name":"atīte",
+    "h1":"atīte",
+    "title":"atīte --- synonyms, prabhupada.io",
+    "description":"in the past; long, long ago."
+}
+---
 
 ==== atīte  ====
   * in the past --- [[books:sb:8:1:3|SB 8.1.3]]

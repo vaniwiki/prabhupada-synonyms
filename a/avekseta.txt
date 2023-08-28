@@ -1,5 +1,11 @@
-~~Title:avekṣeta~~
-{{description>sees.}}
+---json
+{
+    "name":"avekṣeta",
+    "h1":"avekṣeta",
+    "title":"avekṣeta --- synonyms, prabhupada.io",
+    "description":"sees."
+}
+---
 
 ==== avekṣeta  ====
   * sees --- [[books:sb:4:28:63|SB 4.28.63]]

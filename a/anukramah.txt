@@ -1,5 +1,11 @@
-~~Title:anukramaḥ~~
-{{description>one demigod after another.}}
+---json
+{
+    "name":"anukramaḥ",
+    "h1":"anukramaḥ",
+    "title":"anukramaḥ --- synonyms, prabhupada.io",
+    "description":"one demigod after another."
+}
+---
 
 ==== devatā-anukramaḥ  ====
   * one demigod after another --- [[books:sb:2:6:26|SB 2.6.26]]

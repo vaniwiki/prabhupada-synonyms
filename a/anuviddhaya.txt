@@ -1,5 +1,11 @@
-~~Title:anuviddhayā~~
-{{description>attached.}}
+---json
+{
+    "name":"anuviddhayā",
+    "h1":"anuviddhayā",
+    "title":"anuviddhayā --- synonyms, prabhupada.io",
+    "description":"attached."
+}
+---
 
 ==== anuviddhayā  ====
   * attached --- [[books:sb:3:29:5|SB 3.29.5]]

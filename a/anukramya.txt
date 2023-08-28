@@ -1,5 +1,11 @@
-~~Title:anukramya~~
-{{description>by correction and repetition.}}
+---json
+{
+    "name":"anukramya",
+    "h1":"anukramya",
+    "title":"anukramya --- synonyms, prabhupada.io",
+    "description":"by correction and repetition."
+}
+---
 
 ==== anukramya  ====
   * by correction and repetition --- [[books:sb:1:7:8|SB 1.7.8]]

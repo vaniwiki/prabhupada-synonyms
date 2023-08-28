@@ -1,5 +1,11 @@
-~~Title:jambhena~~
-{{description>with Jambha.}}
+---json
+{
+    "name":"jambhena",
+    "h1":"jambhena",
+    "title":"jambhena --- synonyms, prabhupada.io",
+    "description":"with Jambha."
+}
+---
 
 ==== jambhena  ====
   * with Jambha --- [[books:sb:8:10:32-34|SB 8.10.32-34]]

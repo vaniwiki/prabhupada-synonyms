@@ -1,5 +1,11 @@
-~~Title:hradam~~
-{{description>the lake.}}
+---json
+{
+    "name":"hradam",
+    "h1":"hradam",
+    "title":"hradam --- synonyms, prabhupada.io",
+    "description":"the lake."
+}
+---
 
 ==== hradam  ====
   * the lake --- [[books:sb:9:3:14|SB 9.3.14]]

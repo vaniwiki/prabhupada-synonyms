@@ -1,5 +1,11 @@
-~~Title:nikṛtta~~
-{{description>being separated.}}
+---json
+{
+    "name":"nikṛtta",
+    "h1":"nikṛtta",
+    "title":"nikṛtta --- synonyms, prabhupada.io",
+    "description":"being separated."
+}
+---
 
 ==== nikṛtta  ====
   * being separated --- [[books:sb:4:11:5|SB 4.11.5]]

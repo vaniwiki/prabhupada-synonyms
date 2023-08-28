@@ -1,5 +1,11 @@
-~~Title:āsibāre~~
-{{description>to come.}}
+---json
+{
+    "name":"āsibāre",
+    "h1":"āsibāre",
+    "title":"āsibāre --- synonyms, prabhupada.io",
+    "description":"to come."
+}
+---
 
 ==== āsibāre  ====
   * to come --- [[books:cc:madhya:1:127|Madhya 1.127]]

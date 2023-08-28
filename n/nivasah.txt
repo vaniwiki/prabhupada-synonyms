@@ -1,5 +1,11 @@
-~~Title:nivāsaḥ~~
-{{description>abode; residence; residential place.}}
+---json
+{
+    "name":"nivāsaḥ",
+    "h1":"nivāsaḥ",
+    "title":"nivāsaḥ --- synonyms, prabhupada.io",
+    "description":"abode; residence; residential place."
+}
+---
 
 ==== nivāsaḥ  ====
   * abode --- [[books:bg:9:18|Bg. 9.18]]

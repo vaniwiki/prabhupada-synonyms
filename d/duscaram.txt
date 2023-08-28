@@ -1,5 +1,11 @@
-~~Title:duścaram~~
-{{description>severe; very difficult; very difficult to do; very strenuous.}}
+---json
+{
+    "name":"duścaram",
+    "h1":"duścaram",
+    "title":"duścaram --- synonyms, prabhupada.io",
+    "description":"severe; very difficult; very difficult to do; very strenuous."
+}
+---
 
 ==== duścaram  ====
   * severe --- [[books:sb:2:9:24|SB 2.9.24]]

@@ -1,5 +1,11 @@
-~~Title:rathī~~
-{{description>the chariot-fighter.}}
+---json
+{
+    "name":"rathī",
+    "h1":"rathī",
+    "title":"rathī --- synonyms, prabhupada.io",
+    "description":"the chariot-fighter."
+}
+---
 
 ==== rathī  ====
   * the chariot-fighter --- [[books:sb:1:15:21|SB 1.15.21]]

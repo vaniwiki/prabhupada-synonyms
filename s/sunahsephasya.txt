@@ -1,5 +1,11 @@
-~~Title:śunaḥśephasya~~
-{{description>about Śunaḥśepha.}}
+---json
+{
+    "name":"śunaḥśephasya",
+    "h1":"śunaḥśephasya",
+    "title":"śunaḥśephasya --- synonyms, prabhupada.io",
+    "description":"about Śunaḥśepha."
+}
+---
 
 ==== śunaḥśephasya  ====
   * about Śunaḥśepha --- [[books:sb:9:7:23|SB 9.7.23]]

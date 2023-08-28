@@ -1,5 +1,11 @@
-~~Title:apārthāya~~
-{{description>without profit.}}
+---json
+{
+    "name":"apārthāya",
+    "h1":"apārthāya",
+    "title":"apārthāya --- synonyms, prabhupada.io",
+    "description":"without profit."
+}
+---
 
 ==== apārthāya  ====
   * without profit --- [[books:sb:3:13:13|SB 3.13.13]]

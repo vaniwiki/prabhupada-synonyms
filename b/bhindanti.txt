@@ -1,5 +1,11 @@
-~~Title:bhindanti~~
-{{description>transgress.}}
+---json
+{
+    "name":"bhindanti",
+    "h1":"bhindanti",
+    "title":"bhindanti --- synonyms, prabhupada.io",
+    "description":"transgress."
+}
+---
 
 ==== bhindanti  ====
   * transgress --- [[books:sb:5:26:22|SB 5.26.22]]

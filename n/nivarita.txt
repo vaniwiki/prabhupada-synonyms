@@ -1,5 +1,11 @@
-~~Title:nivarita~~
-{{description>impeded.}}
+---json
+{
+    "name":"nivarita",
+    "h1":"nivarita",
+    "title":"nivarita --- synonyms, prabhupada.io",
+    "description":"impeded."
+}
+---
 
 ==== nivārita  ====
   * impeded --- [[books:sb:6:13:17|SB 6.13.17]]

@@ -1,5 +1,11 @@
-~~Title:thālīra~~
-{{description>on golden plates.}}
+---json
+{
+    "name":"thālīra",
+    "h1":"thālīra",
+    "title":"thālīra --- synonyms, prabhupada.io",
+    "description":"on golden plates."
+}
+---
 
 ==== suvarṇa-thālīra  ====
   * on golden plates --- [[books:cc:madhya:6:42|Madhya 6.42]]

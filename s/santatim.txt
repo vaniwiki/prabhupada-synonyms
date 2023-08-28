@@ -1,5 +1,11 @@
-~~Title:santatim~~
-{{description>a son.}}
+---json
+{
+    "name":"santatim",
+    "h1":"santatim",
+    "title":"santatim --- synonyms, prabhupada.io",
+    "description":"a son."
+}
+---
 
 ==== santatim  ====
   * a son --- [[books:sb:6:14:11|SB 6.14.11]]

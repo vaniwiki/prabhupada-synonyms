@@ -1,5 +1,11 @@
-~~Title:sahasriṇaḥ~~
-{{description>numbering one thousand.}}
+---json
+{
+    "name":"sahasriṇaḥ",
+    "h1":"sahasriṇaḥ",
+    "title":"sahasriṇaḥ --- synonyms, prabhupada.io",
+    "description":"numbering one thousand."
+}
+---
 
 ==== sahasriṇaḥ  ====
   * numbering one thousand --- [[books:sb:6:5:24|SB 6.5.24]]

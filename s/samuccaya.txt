@@ -1,5 +1,11 @@
-~~Title:samuccaya~~
-{{description>aggregation.}}
+---json
+{
+    "name":"samuccaya",
+    "h1":"samuccaya",
+    "title":"samuccaya --- synonyms, prabhupada.io",
+    "description":"aggregation."
+}
+---
 
 ==== samuccaya  ====
   * aggregation --- [[books:cc:madhya:24:152|Madhya 24.152]]

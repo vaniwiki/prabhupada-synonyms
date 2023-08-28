@@ -1,5 +1,11 @@
-~~Title:asaktah~~
-{{description>nonattachment; without attachment; without being attached.}}
+---json
+{
+    "name":"asaktah",
+    "h1":"asaktah",
+    "title":"asaktah --- synonyms, prabhupada.io",
+    "description":"nonattachment; without attachment; without being attached."
+}
+---
 
 ==== asaktaḥ  ====
   * nonattachment --- [[books:bg:3:19|Bg. 3.19]]

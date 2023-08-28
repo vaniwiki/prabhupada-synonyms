@@ -1,5 +1,11 @@
-~~Title:kṣapitaḥ~~
-{{description>relieved.}}
+---json
+{
+    "name":"kṣapitaḥ",
+    "h1":"kṣapitaḥ",
+    "title":"kṣapitaḥ --- synonyms, prabhupada.io",
+    "description":"relieved."
+}
+---
 
 ==== kṣapitaḥ  ====
   * relieved --- [[books:sb:1:15:35|SB 1.15.35]]

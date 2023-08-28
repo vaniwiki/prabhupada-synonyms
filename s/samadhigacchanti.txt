@@ -1,5 +1,11 @@
-~~Title:samadhigacchanti~~
-{{description>they attain.}}
+---json
+{
+    "name":"samadhigacchanti",
+    "h1":"samadhigacchanti",
+    "title":"samadhigacchanti --- synonyms, prabhupada.io",
+    "description":"they attain."
+}
+---
 
 ==== samadhigacchanti  ====
   * they attain --- [[books:sb:5:22:4|SB 5.22.4]]

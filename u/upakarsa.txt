@@ -1,5 +1,11 @@
-~~Title:upakarṣa~~
-{{description>kindly take me (to the shelter of Your lotus feet).}}
+---json
+{
+    "name":"upakarṣa",
+    "h1":"upakarṣa",
+    "title":"upakarṣa --- synonyms, prabhupada.io",
+    "description":"kindly take me (to the shelter of Your lotus feet)."
+}
+---
 
 ==== upakarṣa  ====
   * kindly take me (to the shelter of Your lotus feet) --- [[books:sb:7:9:22|SB 7.9.22]]

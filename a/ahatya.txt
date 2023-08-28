@@ -1,5 +1,11 @@
-~~Title:āhatya~~
-{{description>attacking; piercing.}}
+---json
+{
+    "name":"āhatya",
+    "h1":"āhatya",
+    "title":"āhatya --- synonyms, prabhupada.io",
+    "description":"attacking; piercing."
+}
+---
 
 ==== āhatya  ====
   * attacking --- [[books:sb:8:10:57|SB 8.10.57]]

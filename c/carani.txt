@@ -1,5 +1,11 @@
-~~Title:carāṇi~~
-{{description>that move.}}
+---json
+{
+    "name":"carāṇi",
+    "h1":"carāṇi",
+    "title":"carāṇi --- synonyms, prabhupada.io",
+    "description":"that move."
+}
+---
 
 ==== carāṇi  ====
   * that move --- [[books:sb:5:5:26|SB 5.5.26]]

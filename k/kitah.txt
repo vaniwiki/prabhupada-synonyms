@@ -1,5 +1,11 @@
-~~Title:kīṭaḥ~~
-{{description>a worm; the grassworm.}}
+---json
+{
+    "name":"kīṭaḥ",
+    "h1":"kīṭaḥ",
+    "title":"kīṭaḥ --- synonyms, prabhupada.io",
+    "description":"a worm; the grassworm."
+}
+---
 
 ==== kīṭaḥ  ====
   * a worm --- [[books:sb:7:10:39|SB 7.10.39]]

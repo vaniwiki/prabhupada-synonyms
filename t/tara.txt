@@ -1,5 +1,11 @@
-~~Title:tara~~
-{{description>cross over; his.}}
+---json
+{
+    "name":"tara",
+    "h1":"tara",
+    "title":"tara --- synonyms, prabhupada.io",
+    "description":"cross over; his."
+}
+---
 
 ==== tara  ====
   * cross over --- [[books:sb:5:13:20|SB 5.13.20]]

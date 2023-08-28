@@ -1,5 +1,11 @@
-~~Title:vandin~~
-{{description>O devotee offering prayers.}}
+---json
+{
+    "name":"vandin",
+    "h1":"vandin",
+    "title":"vandin --- synonyms, prabhupada.io",
+    "description":"O devotee offering prayers."
+}
+---
 
 ==== vandin  ====
   * O devotee offering prayers --- [[books:sb:4:15:22|SB 4.15.22]]

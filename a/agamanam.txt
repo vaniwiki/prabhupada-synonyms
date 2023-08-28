@@ -1,5 +1,11 @@
-~~Title:āgamanam~~
-{{description>the return of Durvāsā Muni, the great mystic brāhmaṇa.}}
+---json
+{
+    "name":"āgamanam",
+    "h1":"āgamanam",
+    "title":"āgamanam --- synonyms, prabhupada.io",
+    "description":"the return of Durvāsā Muni, the great mystic brāhmaṇa."
+}
+---
 
 ==== dvija-āgamanam  ====
   * the return of Durvāsā Muni, the great mystic //brāhmaṇa// --- [[books:sb:9:4:41|SB 9.4.41]]

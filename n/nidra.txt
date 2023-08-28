@@ -1,5 +1,11 @@
-~~Title:nidrā~~
-{{description>by sleep; sleep; sleeping.}}
+---json
+{
+    "name":"nidrā",
+    "h1":"nidrā",
+    "title":"nidrā --- synonyms, prabhupada.io",
+    "description":"by sleep; sleep; sleeping."
+}
+---
 
 ==== nidrā  ====
   * by sleep --- [[books:sb:6:18:61|SB 6.18.61]]

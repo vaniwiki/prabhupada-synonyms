@@ -1,5 +1,11 @@
-~~Title:mucyate~~
-{{description>becomes freed; gets release; is delivered; is released.}}
+---json
+{
+    "name":"mucyate",
+    "h1":"mucyate",
+    "title":"mucyate --- synonyms, prabhupada.io",
+    "description":"becomes freed; gets release; is delivered; is released."
+}
+---
 
 ==== mucyate  ====
   * becomes freed --- [[books:sb:4:24:78|SB 4.24.78]]

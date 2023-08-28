@@ -1,5 +1,11 @@
-~~Title:chandobhyaḥ~~
-{{description>the Vedic mantras.}}
+---json
+{
+    "name":"chandobhyaḥ",
+    "h1":"chandobhyaḥ",
+    "title":"chandobhyaḥ --- synonyms, prabhupada.io",
+    "description":"the Vedic mantras."
+}
+---
 
 ==== chandobhyaḥ  ====
   * the Vedic //mantras// --- [[books:sb:6:7:33|SB 6.7.33]]

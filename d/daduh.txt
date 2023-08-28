@@ -1,5 +1,11 @@
-~~Title:daduḥ~~
-{{description>administered; delivered; did not give; gave; gave in charity; offered; returned; they gave; they offered.}}
+---json
+{
+    "name":"daduḥ",
+    "h1":"daduḥ",
+    "title":"daduḥ --- synonyms, prabhupada.io",
+    "description":"administered; delivered; did not give; gave; gave in charity; offered; returned; they gave; they offered."
+}
+---
 
 ==== daduḥ  ====
   * administered --- [[books:sb:6:14:43|SB 6.14.43]]

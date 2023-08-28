@@ -1,5 +1,11 @@
-~~Title:carvita~~
-{{description>chewed; things already chewed.}}
+---json
+{
+    "name":"carvita",
+    "h1":"carvita",
+    "title":"carvita --- synonyms, prabhupada.io",
+    "description":"chewed; things already chewed."
+}
+---
 
 ==== carvita  ====
   * chewed --- [[books:cc:adi:4:254|Ādi 4.254]]

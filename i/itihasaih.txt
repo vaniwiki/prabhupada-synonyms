@@ -1,5 +1,11 @@
-~~Title:itihāsaiḥ~~
-{{description>by evidences from the histories.}}
+---json
+{
+    "name":"itihāsaiḥ",
+    "h1":"itihāsaiḥ",
+    "title":"itihāsaiḥ --- synonyms, prabhupada.io",
+    "description":"by evidences from the histories."
+}
+---
 
 ==== itihāsaiḥ  ====
   * by evidences from the histories --- [[books:sb:1:8:46|SB 1.8.46]]

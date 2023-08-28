@@ -1,5 +1,11 @@
-~~Title:yateran~~
-{{description>endeavor.}}
+---json
+{
+    "name":"yateran",
+    "h1":"yateran",
+    "title":"yateran --- synonyms, prabhupada.io",
+    "description":"endeavor."
+}
+---
 
 ==== yateran  ====
   * endeavor --- [[books:sb:5:19:25|SB 5.19.25]]

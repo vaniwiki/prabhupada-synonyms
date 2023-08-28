@@ -1,5 +1,11 @@
-~~Title:racanāḥ~~
-{{description>plans.}}
+---json
+{
+    "name":"racanāḥ",
+    "h1":"racanāḥ",
+    "title":"racanāḥ --- synonyms, prabhupada.io",
+    "description":"plans."
+}
+---
 
 ==== racanāḥ  ====
   * plans --- [[books:sb:3:9:10|SB 3.9.10]]

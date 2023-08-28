@@ -1,5 +1,11 @@
-~~Title:vitāne~~
-{{description>in the sacrificial fire.}}
+---json
+{
+    "name":"vitāne",
+    "h1":"vitāne",
+    "title":"vitāne --- synonyms, prabhupada.io",
+    "description":"in the sacrificial fire."
+}
+---
 
 ==== vitāne  ====
   * in the sacrificial fire --- [[books:sb:3:16:8|SB 3.16.8]]

@@ -1,5 +1,11 @@
-~~Title:trtiya~~
-{{description>the third; third.}}
+---json
+{
+    "name":"trtiya",
+    "h1":"trtiya",
+    "title":"trtiya --- synonyms, prabhupada.io",
+    "description":"the third; third."
+}
+---
 
 ==== tṛtīya  ====
   * the third --- [[books:cc:adi:1:65-66|Ādi 1.65-66]], [[books:cc:adi:4:159|Ādi 4.159]]

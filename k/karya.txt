@@ -1,5 +1,11 @@
-~~Title:karya~~
-{{description>activities; business; duties; duty; effect; effects; necessary activities; occupation; occupational duty; of business; plans; purposes; the activities; the body; the business; the occupation; the result or effect; the work; to be done; work; works.}}
+---json
+{
+    "name":"karya",
+    "h1":"karya",
+    "title":"karya --- synonyms, prabhupada.io",
+    "description":"activities; business; duties; duty; effect; effects; necessary activities; occupation; occupational duty; of business; plans; purposes; the activities; the body; the business; the occupation; the result or effect; the work; to be done; work; works."
+}
+---
 
 ==== kārya  ====
   * activities --- [[books:sb:1:3:22|SB 1.3.22]], [[books:cc:madhya:20:364|Madhya 20.364]]

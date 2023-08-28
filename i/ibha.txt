@@ -1,5 +1,11 @@
-~~Title:ibha~~
-{{description>by elephants; elephants; Kuvalayāpīḍa; of elephants; on an elephant.}}
+---json
+{
+    "name":"ibha",
+    "h1":"ibha",
+    "title":"ibha --- synonyms, prabhupada.io",
+    "description":"by elephants; elephants; Kuvalayāpīḍa; of elephants; on an elephant."
+}
+---
 
 ==== ibha  ====
   * by elephants --- [[books:sb:9:10:20|SB 9.10.20]]

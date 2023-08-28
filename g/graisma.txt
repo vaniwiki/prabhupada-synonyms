@@ -1,5 +1,11 @@
-~~Title:graiṣma~~
-{{description>for four months, beginning with Caitra, on the fifteenth of May.}}
+---json
+{
+    "name":"graiṣma",
+    "h1":"graiṣma",
+    "title":"graiṣma --- synonyms, prabhupada.io",
+    "description":"for four months, beginning with Caitra, on the fifteenth of May."
+}
+---
 
 ==== graiṣma-vāsantikān  ====
   * for four months, beginning with Caitra, on the fifteenth of May --- [[books:sb:5:9:5|SB 5.9.5]]

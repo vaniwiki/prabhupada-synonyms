@@ -1,5 +1,11 @@
-~~Title:saptadaśa~~
-{{description>these seventeen.}}
+---json
+{
+    "name":"saptadaśa",
+    "h1":"saptadaśa",
+    "title":"saptadaśa --- synonyms, prabhupada.io",
+    "description":"these seventeen."
+}
+---
 
 ==== ei saptadaśa  ====
   * these seventeen --- [[books:cc:adi:17:328|Ādi 17.328]]

@@ -1,5 +1,11 @@
-~~Title:parivīya~~
-{{description>encircling.}}
+---json
+{
+    "name":"parivīya",
+    "h1":"parivīya",
+    "title":"parivīya --- synonyms, prabhupada.io",
+    "description":"encircling."
+}
+---
 
 ==== parivīya  ====
   * encircling --- [[books:sb:8:7:1|SB 8.7.1]]

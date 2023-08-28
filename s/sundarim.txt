@@ -1,5 +1,11 @@
-~~Title:sundarīm~~
-{{description>a very beautiful woman.}}
+---json
+{
+    "name":"sundarīm",
+    "h1":"sundarīm",
+    "title":"sundarīm --- synonyms, prabhupada.io",
+    "description":"a very beautiful woman."
+}
+---
 
 ==== sundarīm  ====
   * a very beautiful woman --- [[books:cc:antya:20:29|Antya 20.29]]

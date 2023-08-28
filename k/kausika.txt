@@ -1,5 +1,11 @@
-~~Title:kauśika~~
-{{description>the dynasty of Kauśika.}}
+---json
+{
+    "name":"kauśika",
+    "h1":"kauśika",
+    "title":"kauśika --- synonyms, prabhupada.io",
+    "description":"the dynasty of Kauśika."
+}
+---
 
 ==== kauśika-gotram  ====
   * the dynasty of Kauśika --- [[books:sb:9:16:37|SB 9.16.37]]

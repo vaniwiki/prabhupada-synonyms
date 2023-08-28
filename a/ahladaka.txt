@@ -1,5 +1,11 @@
-~~Title:āhlādaka~~
-{{description>all-pleasing.}}
+---json
+{
+    "name":"āhlādaka",
+    "h1":"āhlādaka",
+    "title":"āhlādaka --- synonyms, prabhupada.io",
+    "description":"all-pleasing."
+}
+---
 
 ==== sarva-āhlādaka  ====
   * all-pleasing --- [[books:cc:madhya:24:38|Madhya 24.38]]

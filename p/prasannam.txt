@@ -1,5 +1,11 @@
-~~Title:prasannam~~
-{{description>joyful.}}
+---json
+{
+    "name":"prasannam",
+    "h1":"prasannam",
+    "title":"prasannam --- synonyms, prabhupada.io",
+    "description":"joyful."
+}
+---
 
 ==== prasannam  ====
   * joyful --- [[books:sb:3:28:1|SB 3.28.1]]

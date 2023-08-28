@@ -1,5 +1,11 @@
-~~Title:parivatsaram~~
-{{description>Parivatsara.}}
+---json
+{
+    "name":"parivatsaram",
+    "h1":"parivatsaram",
+    "title":"parivatsaram --- synonyms, prabhupada.io",
+    "description":"Parivatsara."
+}
+---
 
 ==== parivatsaram  ====
   * Parivatsara --- [[books:sb:5:22:7|SB 5.22.7]]

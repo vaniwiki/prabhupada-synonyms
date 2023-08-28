@@ -1,5 +1,11 @@
-~~Title:śrīvatsam~~
-{{description>the mark named Śrīvatsa.}}
+---json
+{
+    "name":"śrīvatsam",
+    "h1":"śrīvatsam",
+    "title":"śrīvatsam --- synonyms, prabhupada.io",
+    "description":"the mark named Śrīvatsa."
+}
+---
 
 ==== śrīvatsam  ====
   * the mark named Śrīvatsa --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

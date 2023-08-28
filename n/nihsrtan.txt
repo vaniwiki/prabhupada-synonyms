@@ -1,5 +1,11 @@
-~~Title:niḥsṛtān~~
-{{description>emanating.}}
+---json
+{
+    "name":"niḥsṛtān",
+    "h1":"niḥsṛtān",
+    "title":"niḥsṛtān --- synonyms, prabhupada.io",
+    "description":"emanating."
+}
+---
 
 ==== niḥsṛtān  ====
   * emanating --- [[books:sb:8:24:8|SB 8.24.8]]

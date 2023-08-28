@@ -1,5 +1,11 @@
-~~Title:pāibi~~
-{{description>you will get.}}
+---json
+{
+    "name":"pāibi",
+    "h1":"pāibi",
+    "title":"pāibi --- synonyms, prabhupada.io",
+    "description":"you will get."
+}
+---
 
 ==== pāibi  ====
   * you will get --- [[books:cc:antya:5:120|Antya 5.120]]

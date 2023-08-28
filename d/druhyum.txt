@@ -1,5 +1,11 @@
-~~Title:druhyum~~
-{{description>Druhyu; his son named Druhyu.}}
+---json
+{
+    "name":"druhyum",
+    "h1":"druhyum",
+    "title":"druhyum --- synonyms, prabhupada.io",
+    "description":"Druhyu; his son named Druhyu."
+}
+---
 
 ==== druhyum  ====
   * Druhyu --- [[books:sb:9:18:33|SB 9.18.33]]

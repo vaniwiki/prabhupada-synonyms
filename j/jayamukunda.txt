@@ -1,5 +1,11 @@
-~~Title:jayamukunda~~
-{{description>all glories to Mukunda.}}
+---json
+{
+    "name":"jayamukunda",
+    "h1":"jayamukunda",
+    "title":"jayamukunda --- synonyms, prabhupada.io",
+    "description":"all glories to Mukunda."
+}
+---
 
 ==== jayamukunda  ====
   * all glories to Mukunda --- [[books:cc:adi:13:3|Ādi 13.3]]

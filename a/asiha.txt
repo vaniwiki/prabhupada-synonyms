@@ -1,5 +1,11 @@
-~~Title:āsiha~~
-{{description>come; please come; return.}}
+---json
+{
+    "name":"āsiha",
+    "h1":"āsiha",
+    "title":"āsiha --- synonyms, prabhupada.io",
+    "description":"come; please come; return."
+}
+---
 
 ==== āsiha  ====
   * come --- [[books:cc:madhya:16:233|Madhya 16.233]]

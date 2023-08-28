@@ -1,5 +1,11 @@
-~~Title:kopiteṣu~~
-{{description>being enraged.}}
+---json
+{
+    "name":"kopiteṣu",
+    "h1":"kopiteṣu",
+    "title":"kopiteṣu --- synonyms, prabhupada.io",
+    "description":"being enraged."
+}
+---
 
 ==== kopiteṣu  ====
   * being enraged --- [[books:sb:3:14:40|SB 3.14.40]]

@@ -1,5 +1,11 @@
-~~Title:kariṣyatha~~
-{{description>you will be able to offer; you will perform.}}
+---json
+{
+    "name":"kariṣyatha",
+    "h1":"kariṣyatha",
+    "title":"kariṣyatha --- synonyms, prabhupada.io",
+    "description":"you will be able to offer; you will perform."
+}
+---
 
 ==== kariṣyatha  ====
   * you will be able to offer --- [[books:sb:4:15:23|SB 4.15.23]]

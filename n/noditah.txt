@@ -1,5 +1,11 @@
-~~Title:noditāḥ~~
-{{description>ordered.}}
+---json
+{
+    "name":"noditāḥ",
+    "h1":"noditāḥ",
+    "title":"noditāḥ --- synonyms, prabhupada.io",
+    "description":"ordered."
+}
+---
 
 ==== noditāḥ  ====
   * ordered --- [[books:sb:4:24:73|SB 4.24.73]]

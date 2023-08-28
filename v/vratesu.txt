@@ -1,5 +1,11 @@
-~~Title:vrateṣu~~
-{{description>one who is engaged in the performance of sacrifice.}}
+---json
+{
+    "name":"vrateṣu",
+    "h1":"vrateṣu",
+    "title":"vrateṣu --- synonyms, prabhupada.io",
+    "description":"one who is engaged in the performance of sacrifice."
+}
+---
 
 ==== dhṛta-vrateṣu  ====
   * one who is engaged in the performance of sacrifice --- [[books:sb:4:7:13|SB 4.7.13]]

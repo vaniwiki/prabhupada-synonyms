@@ -1,5 +1,11 @@
-~~Title:upanītasya~~
-{{description>of one who has a sacred thread.}}
+---json
+{
+    "name":"upanītasya",
+    "h1":"upanītasya",
+    "title":"upanītasya --- synonyms, prabhupada.io",
+    "description":"of one who has a sacred thread."
+}
+---
 
 ==== upanītasya  ====
   * of one who has a sacred thread --- [[books:sb:5:9:4|SB 5.9.4]]

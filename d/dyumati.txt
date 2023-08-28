@@ -1,5 +1,11 @@
-~~Title:dyumati~~
-{{description>glittering.}}
+---json
+{
+    "name":"dyumati",
+    "h1":"dyumati",
+    "title":"dyumati --- synonyms, prabhupada.io",
+    "description":"glittering."
+}
+---
 
 ==== dyumati  ====
   * glittering --- [[books:sb:9:10:21|SB 9.10.21]]

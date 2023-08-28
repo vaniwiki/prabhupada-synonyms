@@ -1,5 +1,11 @@
-~~Title:syandi~~
-{{description>pouring.}}
+---json
+{
+    "name":"syandi",
+    "h1":"syandi",
+    "title":"syandi --- synonyms, prabhupada.io",
+    "description":"pouring."
+}
+---
 
 ==== syandi  ====
   * pouring --- [[books:cc:madhya:23:33|Madhya 23.33]]

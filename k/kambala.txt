@@ -1,5 +1,11 @@
-~~Title:kambala~~
-{{description>Kambala.}}
+---json
+{
+    "name":"kambala",
+    "h1":"kambala",
+    "title":"kambala --- synonyms, prabhupada.io",
+    "description":"Kambala."
+}
+---
 
 ==== kambala  ====
   * Kambala --- [[books:sb:5:24:31|SB 5.24.31]]

@@ -1,5 +1,11 @@
-~~Title:prabādhante~~
-{{description>drive away.}}
+---json
+{
+    "name":"prabādhante",
+    "h1":"prabādhante",
+    "title":"prabādhante --- synonyms, prabhupada.io",
+    "description":"drive away."
+}
+---
 
 ==== prabādhante  ====
   * drive away --- [[books:sb:5:24:12|SB 5.24.12]]

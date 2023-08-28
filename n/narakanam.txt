@@ -1,5 +1,11 @@
-~~Title:nārakāṇām~~
-{{description>of the living entities living in hell.}}
+---json
+{
+    "name":"nārakāṇām",
+    "h1":"nārakāṇām",
+    "title":"nārakāṇām --- synonyms, prabhupada.io",
+    "description":"of the living entities living in hell."
+}
+---
 
 ==== nārakāṇām  ====
   * of the living entities living in hell --- [[books:sb:4:20:23|SB 4.20.23]]

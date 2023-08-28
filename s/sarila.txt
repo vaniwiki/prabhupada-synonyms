@@ -1,5 +1,11 @@
-~~Title:sarila~~
-{{description>was finished.}}
+---json
+{
+    "name":"sarila",
+    "h1":"sarila",
+    "title":"sarila --- synonyms, prabhupada.io",
+    "description":"was finished."
+}
+---
 
 ==== sarila  ====
   * was finished --- [[books:cc:antya:15:10|Antya 15.10]]

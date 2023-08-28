@@ -1,5 +1,11 @@
-~~Title:aniha~~
-{{description>indifferent to material acquisitions.}}
+---json
+{
+    "name":"aniha",
+    "h1":"aniha",
+    "title":"aniha --- synonyms, prabhupada.io",
+    "description":"indifferent to material acquisitions."
+}
+---
 
 ==== anīha  ====
   * indifferent to material acquisitions --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

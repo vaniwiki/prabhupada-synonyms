@@ -1,5 +1,11 @@
-~~Title:visva~~
-{{description>of the cosmic world; of the universe; of the whole universe; the material worlds; the universe; the universes; the whole cosmic manifestation; the whole universe; the whole world; the world; universal; universe.}}
+---json
+{
+    "name":"visva",
+    "h1":"visva",
+    "title":"visva --- synonyms, prabhupada.io",
+    "description":"of the cosmic world; of the universe; of the whole universe; the material worlds; the universe; the universes; the whole cosmic manifestation; the whole universe; the whole world; the world; universal; universe."
+}
+---
 
 ==== viśva  ====
   * of the cosmic world --- [[books:sb:3:5:22|SB 3.5.22]]

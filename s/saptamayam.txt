@@ -1,5 +1,11 @@
-~~Title:saptamāyām~~
-{{description>at the seventh gate.}}
+---json
+{
+    "name":"saptamāyām",
+    "h1":"saptamāyām",
+    "title":"saptamāyām --- synonyms, prabhupada.io",
+    "description":"at the seventh gate."
+}
+---
 
 ==== saptamāyām  ====
   * at the seventh gate --- [[books:sb:3:15:27|SB 3.15.27]]

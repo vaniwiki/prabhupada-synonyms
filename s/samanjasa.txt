@@ -1,5 +1,11 @@
-~~Title:samañjasa~~
-{{description>O source of all opportunities.}}
+---json
+{
+    "name":"samañjasa",
+    "h1":"samañjasa",
+    "title":"samañjasa --- synonyms, prabhupada.io",
+    "description":"O source of all opportunities."
+}
+---
 
 ==== samañjasa  ====
   * O source of all opportunities --- [[books:sb:6:11:25|SB 6.11.25]]

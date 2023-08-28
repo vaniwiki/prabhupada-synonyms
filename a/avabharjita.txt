@@ -1,5 +1,11 @@
-~~Title:avabharjita~~
-{{description>burned.}}
+---json
+{
+    "name":"avabharjita",
+    "h1":"avabharjita",
+    "title":"avabharjita --- synonyms, prabhupada.io",
+    "description":"burned."
+}
+---
 
 ==== avabharjita  ====
   * burned --- [[books:sb:5:6:1|SB 5.6.1]]

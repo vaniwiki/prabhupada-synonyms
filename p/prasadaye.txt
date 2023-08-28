@@ -1,5 +1,11 @@
-~~Title:prasādaye~~
-{{description>I am begging your mercy; I am trying to please; to beg mercy.}}
+---json
+{
+    "name":"prasādaye",
+    "h1":"prasādaye",
+    "title":"prasādaye --- synonyms, prabhupada.io",
+    "description":"I am begging your mercy; I am trying to please; to beg mercy."
+}
+---
 
 ==== prasādaye  ====
   * I am begging your mercy --- [[books:sb:9:4:9|SB 9.4.9]]

@@ -1,5 +1,11 @@
-~~Title:kakudaḥ~~
-{{description>from the womb of Kakud.}}
+---json
+{
+    "name":"kakudaḥ",
+    "h1":"kakudaḥ",
+    "title":"kakudaḥ --- synonyms, prabhupada.io",
+    "description":"from the womb of Kakud."
+}
+---
 
 ==== kakudaḥ  ====
   * from the womb of Kakud --- [[books:sb:6:6:6|SB 6.6.6]]

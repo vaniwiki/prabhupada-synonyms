@@ -1,5 +1,11 @@
-~~Title:cākāya~~
-{{description>under the wheel of the cart.}}
+---json
+{
+    "name":"cākāya",
+    "h1":"cākāya",
+    "title":"cākāya --- synonyms, prabhupada.io",
+    "description":"under the wheel of the cart."
+}
+---
 
 ==== ratha-cākāya  ====
   * under the wheel of the cart --- [[books:cc:antya:4:11|Antya 4.11]]

@@ -1,5 +1,11 @@
-~~Title:varṇyaḥ~~
-{{description>described.}}
+---json
+{
+    "name":"varṇyaḥ",
+    "h1":"varṇyaḥ",
+    "title":"varṇyaḥ --- synonyms, prabhupada.io",
+    "description":"described."
+}
+---
 
 ==== varṇyaḥ  ====
   * described --- [[books:cc:madhya:18:12|Madhya 18.12]]

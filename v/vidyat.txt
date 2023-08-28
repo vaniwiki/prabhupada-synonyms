@@ -1,5 +1,11 @@
-~~Title:vidyāt~~
-{{description>must know; one should know; one should understand; you must know.}}
+---json
+{
+    "name":"vidyāt",
+    "h1":"vidyāt",
+    "title":"vidyāt --- synonyms, prabhupada.io",
+    "description":"must know; one should know; one should understand; you must know."
+}
+---
 
 ==== vidyāt  ====
   * must know --- [[books:bg:14:11|Bg. 14.11]]

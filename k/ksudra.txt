@@ -1,5 +1,11 @@
-~~Title:kṣudra~~
-{{description>a small; infinitesimal; insignificant; unimportant, insignificant; very insignificant; very little; very small.}}
+---json
+{
+    "name":"kṣudra",
+    "h1":"kṣudra",
+    "title":"kṣudra --- synonyms, prabhupada.io",
+    "description":"a small; infinitesimal; insignificant; unimportant, insignificant; very insignificant; very little; very small."
+}
+---
 
 ==== kṣudra  ====
   * a small --- [[books:cc:adi:13:44|Ādi 13.44]]

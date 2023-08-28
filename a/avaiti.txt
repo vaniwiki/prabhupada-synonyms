@@ -1,5 +1,11 @@
-~~Title:avaiti~~
-{{description>can know; knows; understands.}}
+---json
+{
+    "name":"avaiti",
+    "h1":"avaiti",
+    "title":"avaiti --- synonyms, prabhupada.io",
+    "description":"can know; knows; understands."
+}
+---
 
 ==== avaiti  ====
   * can know --- [[books:sb:1:3:37|SB 1.3.37]]

@@ -1,5 +1,11 @@
-~~Title:janayet~~
-{{description>do.}}
+---json
+{
+    "name":"janayet",
+    "h1":"janayet",
+    "title":"janayet --- synonyms, prabhupada.io",
+    "description":"do."
+}
+---
 
 ==== janayet  ====
   * do --- [[books:bg:3:26|Bg. 3.26]]

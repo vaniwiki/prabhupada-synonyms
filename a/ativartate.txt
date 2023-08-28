@@ -1,5 +1,11 @@
-~~Title:ativartate~~
-{{description>transcend; transcends.}}
+---json
+{
+    "name":"ativartate",
+    "h1":"ativartate",
+    "title":"ativartate --- synonyms, prabhupada.io",
+    "description":"transcend; transcends."
+}
+---
 
 ==== ativartate  ====
   * transcend --- [[books:bg:14:21|Bg. 14.21]]

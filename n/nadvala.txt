@@ -1,5 +1,11 @@
-~~Title:naḍvalā~~
-{{description>Naḍvalā.}}
+---json
+{
+    "name":"naḍvalā",
+    "h1":"naḍvalā",
+    "title":"naḍvalā --- synonyms, prabhupada.io",
+    "description":"Naḍvalā."
+}
+---
 
 ==== naḍvalā  ====
   * Naḍvalā --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

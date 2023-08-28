@@ -1,5 +1,11 @@
-~~Title:siṁhikā~~
-{{description>Siṁhikā.}}
+---json
+{
+    "name":"siṁhikā",
+    "h1":"siṁhikā",
+    "title":"siṁhikā --- synonyms, prabhupada.io",
+    "description":"Siṁhikā."
+}
+---
 
 ==== siṁhikā  ====
   * Siṁhikā --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

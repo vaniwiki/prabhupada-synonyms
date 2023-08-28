@@ -1,5 +1,11 @@
-~~Title:yat~~
-{{description>which; about whom; all these; all those; although; and as; and whichever; anything; as; as a matter of fact; as it is; as its; as much as; as they are; because; because of; because of which; because of whom; by the result of which; by the Supreme Lord; by which; by which way; by whom (the Supreme Lord); by whom; by whose; by whose merciful; even though; everything that was required; fixed under Your direction; for; for which; from both of whom; from him; from which; from whom; from whose; from Yuyudha; he whose; his; His eternal form which; his son; if; in which; in whom; inasmuch as; Kṛṣṇa; now further; of him (Somāpi); of him; of Lakṣmī, the goddess of fortune; of the fire-gods; of the Lord; of the Supreme Lord; of the Supreme Personality of Godhead; of which (the intermediate space); of which; of whom (of the Supreme Lord); who; who is; whom; whose; whose form; Your.}}
+---json
+{
+    "name":"yat",
+    "h1":"yat",
+    "title":"yat --- synonyms, prabhupada.io",
+    "description":"which; about whom; all these; all those; although; and as; and whichever; anything; as; as a matter of fact; as it is; as its; as much as; as they are; because; because of; because of which; because of whom; by the result of which; by the Supreme Lord; by which; by which way; by whom (the Supreme Lord); by whom; by whose; by whose merciful; even though; everything that was required; fixed under Your direction; for; for which; from both of whom; from him; from which; from whom; from whose; from Yuyudha; he whose; his; His eternal form which; his son; if; in which; in whom; inasmuch as; Kṛṣṇa; now further; of him (Somāpi); of him; of Lakṣmī, the goddess of fortune; of the fire-gods; of the Lord; of the Supreme Lord; of the Supreme Personality of Godhead; of which (the intermediate space); of which; of whom (of the Supreme Lord); who; who is; whom; whose; whose form; Your."
+}
+---
 
 ==== yat  ====
   * //which// --- [[books:cc:madhya:25:113|Madhya 25.113]]

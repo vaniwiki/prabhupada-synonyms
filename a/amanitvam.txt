@@ -1,5 +1,11 @@
-~~Title:amānitvam~~
-{{description>humility.}}
+---json
+{
+    "name":"amānitvam",
+    "h1":"amānitvam",
+    "title":"amānitvam --- synonyms, prabhupada.io",
+    "description":"humility."
+}
+---
 
 ==== amānitvam  ====
   * humility --- [[books:bg:13:8-12|Bg. 13.8-12]]

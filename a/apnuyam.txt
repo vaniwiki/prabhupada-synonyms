@@ -1,5 +1,11 @@
-~~Title:āpnuyām~~
-{{description>may have it.}}
+---json
+{
+    "name":"āpnuyām",
+    "h1":"āpnuyām",
+    "title":"āpnuyām --- synonyms, prabhupada.io",
+    "description":"may have it."
+}
+---
 
 ==== āpnuyām  ====
   * may have it --- [[books:bg:3:2|Bg. 3.2]]

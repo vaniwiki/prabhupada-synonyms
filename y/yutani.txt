@@ -1,5 +1,11 @@
-~~Title:yutāni~~
-{{description>are conjoined.}}
+---json
+{
+    "name":"yutāni",
+    "h1":"yutāni",
+    "title":"yutāni --- synonyms, prabhupada.io",
+    "description":"are conjoined."
+}
+---
 
 ==== yutāni  ====
   * are conjoined --- [[books:sb:7:14:20-23|SB 7.14.20-23]]

@@ -1,5 +1,11 @@
-~~Title:sake~~
-{{description>in the year of the Śaka Era; in the Śaka Era.}}
+---json
+{
+    "name":"sake",
+    "h1":"sake",
+    "title":"sake --- synonyms, prabhupada.io",
+    "description":"in the year of the Śaka Era; in the Śaka Era."
+}
+---
 
 ==== śake  ====
   * in the year of the Śaka Era --- [[books:cc:adi:13:80|Ādi 13.80]]

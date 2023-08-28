@@ -1,5 +1,11 @@
-~~Title:ghaṭaka~~
-{{description>the marriage-maker.}}
+---json
+{
+    "name":"ghaṭaka",
+    "h1":"ghaṭaka",
+    "title":"ghaṭaka --- synonyms, prabhupada.io",
+    "description":"the marriage-maker."
+}
+---
 
 ==== ghaṭaka  ====
   * the marriage-maker --- [[books:cc:adi:15:29|Ādi 15.29]]

@@ -1,5 +1,11 @@
-~~Title:lena~~
-{{description>takes.}}
+---json
+{
+    "name":"lena",
+    "h1":"lena",
+    "title":"lena --- synonyms, prabhupada.io",
+    "description":"takes."
+}
+---
 
 ==== lena  ====
   * takes --- [[books:cc:antya:13:134|Antya 13.134]]

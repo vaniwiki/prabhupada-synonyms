@@ -1,5 +1,11 @@
-~~Title:sreni~~
-{{description>like swarms; rows.}}
+---json
+{
+    "name":"sreni",
+    "h1":"sreni",
+    "title":"sreni --- synonyms, prabhupada.io",
+    "description":"like swarms; rows."
+}
+---
 
 ==== śreṇī  ====
   * like swarms --- [[books:cc:adi:2:2|Ādi 2.2]]

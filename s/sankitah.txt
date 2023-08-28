@@ -1,5 +1,11 @@
-~~Title:sankitah~~
-{{description>being afraid of; being apprehensive; thus being afraid.}}
+---json
+{
+    "name":"sankitah",
+    "h1":"sankitah",
+    "title":"sankitah --- synonyms, prabhupada.io",
+    "description":"being afraid of; being apprehensive; thus being afraid."
+}
+---
 
 ==== śaṅkitaḥ  ====
   * being afraid of --- [[books:sb:1:10:32|SB 1.10.32]]

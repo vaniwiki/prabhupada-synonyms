@@ -1,5 +1,11 @@
-~~Title:itihāsaḥ~~
-{{description>an old story; history.}}
+---json
+{
+    "name":"itihāsaḥ",
+    "h1":"itihāsaḥ",
+    "title":"itihāsaḥ --- synonyms, prabhupada.io",
+    "description":"an old story; history."
+}
+---
 
 ==== itihāsaḥ  ====
   * an old story --- [[books:sb:7:1:13|SB 7.1.13]]

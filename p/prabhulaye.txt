@@ -1,5 +1,11 @@
-~~Title:prabhulaye~~
-{{description>taking the Lord.}}
+---json
+{
+    "name":"prabhulaye",
+    "h1":"prabhulaye",
+    "title":"prabhulaye --- synonyms, prabhupada.io",
+    "description":"taking the Lord."
+}
+---
 
 ==== prabhulaye  ====
   * taking the Lord --- [[books:cc:madhya:3:21|Madhya 3.21]]

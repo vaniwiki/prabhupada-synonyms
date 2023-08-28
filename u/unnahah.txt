@@ -1,5 +1,11 @@
-~~Title:unnāhāḥ~~
-{{description>which measure ten thousand yojanas high and wide.}}
+---json
+{
+    "name":"unnāhāḥ",
+    "h1":"unnāhāḥ",
+    "title":"unnāhāḥ --- synonyms, prabhupada.io",
+    "description":"which measure ten thousand yojanas high and wide."
+}
+---
 
 ==== ayuta-yojana-vistāra-unnāhāḥ  ====
   * which measure ten thousand //yojanas// high and wide --- [[books:sb:5:16:11|SB 5.16.11]]

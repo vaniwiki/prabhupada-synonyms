@@ -1,5 +1,11 @@
-~~Title:sṛtim~~
-{{description>the auspicious path of liberation.}}
+---json
+{
+    "name":"sṛtim",
+    "h1":"sṛtim",
+    "title":"sṛtim --- synonyms, prabhupada.io",
+    "description":"the auspicious path of liberation."
+}
+---
 
 ==== śreyaḥ-sṛtim  ====
   * the auspicious path of liberation --- [[books:cc:madhya:22:22|Madhya 22.22]], [[books:cc:madhya:24:140|Madhya 24.140]], [[books:cc:madhya:25:31|Madhya 25.31]]

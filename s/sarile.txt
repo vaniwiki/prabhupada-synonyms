@@ -1,5 +1,11 @@
-~~Title:sarile~~
-{{description>when the food was taken away.}}
+---json
+{
+    "name":"sarile",
+    "h1":"sarile",
+    "title":"sarile --- synonyms, prabhupada.io",
+    "description":"when the food was taken away."
+}
+---
 
 ==== bhoga sarile  ====
   * when the food was taken away --- [[books:cc:antya:16:89|Antya 16.89]]

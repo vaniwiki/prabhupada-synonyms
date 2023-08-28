@@ -1,5 +1,11 @@
-~~Title:varya~~
-{{description>of the chief; the best; the chief.}}
+---json
+{
+    "name":"varya",
+    "h1":"varya",
+    "title":"varya --- synonyms, prabhupada.io",
+    "description":"of the chief; the best; the chief."
+}
+---
 
 ==== varya  ====
   * of the chief --- [[books:sb:4:29:84|SB 4.29.84]]

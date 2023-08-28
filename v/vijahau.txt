@@ -1,5 +1,11 @@
-~~Title:vijahau~~
-{{description>rejected; relinquished.}}
+---json
+{
+    "name":"vijahau",
+    "h1":"vijahau",
+    "title":"vijahau --- synonyms, prabhupada.io",
+    "description":"rejected; relinquished."
+}
+---
 
 ==== vijahau  ====
   * rejected --- [[books:cc:antya:10:21|Antya 10.21]]

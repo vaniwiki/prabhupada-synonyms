@@ -1,5 +1,11 @@
-~~Title:vidviṣā~~
-{{description>by the enemy.}}
+---json
+{
+    "name":"vidviṣā",
+    "h1":"vidviṣā",
+    "title":"vidviṣā --- synonyms, prabhupada.io",
+    "description":"by the enemy."
+}
+---
 
 ==== vidviṣā  ====
   * by the enemy --- [[books:sb:3:17:29|SB 3.17.29]]

@@ -1,5 +1,11 @@
-~~Title:saṅgama~~
-{{description>association; association with Kṛṣṇa; direct association.}}
+---json
+{
+    "name":"saṅgama",
+    "h1":"saṅgama",
+    "title":"saṅgama --- synonyms, prabhupada.io",
+    "description":"association; association with Kṛṣṇa; direct association."
+}
+---
 
 ==== saṅgama  ====
   * association --- [[books:cc:madhya:1:197|Madhya 1.197]], [[books:cc:madhya:9:112|Madhya 9.112]], [[books:cc:madhya:9:116|Madhya 9.116]], [[books:cc:madhya:13:138|Madhya 13.138]]

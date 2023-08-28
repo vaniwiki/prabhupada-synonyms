@@ -1,5 +1,11 @@
-~~Title:āpya~~
-{{description>receiving.}}
+---json
+{
+    "name":"āpya",
+    "h1":"āpya",
+    "title":"āpya --- synonyms, prabhupada.io",
+    "description":"receiving."
+}
+---
 
 ==== āpya  ====
   * receiving --- [[books:sb:4:7:16|SB 4.7.16]]

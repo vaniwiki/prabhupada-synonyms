@@ -1,5 +1,11 @@
-~~Title:kṛtaghna~~
-{{description>ungrateful.}}
+---json
+{
+    "name":"kṛtaghna",
+    "h1":"kṛtaghna",
+    "title":"kṛtaghna --- synonyms, prabhupada.io",
+    "description":"ungrateful."
+}
+---
 
 ==== kṛtaghna  ====
   * ungrateful --- [[books:cc:adi:12:68|Ādi 12.68]]

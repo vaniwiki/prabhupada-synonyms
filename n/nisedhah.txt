@@ -1,5 +1,11 @@
-~~Title:niṣedhāḥ~~
-{{description>rules and prohibitions mentioned in the revealed scripture or given by the spiritual master.}}
+---json
+{
+    "name":"niṣedhāḥ",
+    "h1":"niṣedhāḥ",
+    "title":"niṣedhāḥ --- synonyms, prabhupada.io",
+    "description":"rules and prohibitions mentioned in the revealed scripture or given by the spiritual master."
+}
+---
 
 ==== vidhi-niṣedhāḥ  ====
   * rules and prohibitions mentioned in the revealed scripture or given by the spiritual master --- [[books:cc:madhya:22:113|Madhya 22.113]]

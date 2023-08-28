@@ -1,5 +1,11 @@
-~~Title:atyanta~~
-{{description>complete; completely; extremely; greatly; the greatest; veritable; very; very much.}}
+---json
+{
+    "name":"atyanta",
+    "h1":"atyanta",
+    "title":"atyanta --- synonyms, prabhupada.io",
+    "description":"complete; completely; extremely; greatly; the greatest; veritable; very; very much."
+}
+---
 
 ==== atyanta  ====
   * complete --- [[books:sb:3:25:13|SB 3.25.13]]

@@ -1,5 +1,11 @@
-~~Title:vratī~~
-{{description>one who keeps great vows.}}
+---json
+{
+    "name":"vratī",
+    "h1":"vratī",
+    "title":"vratī --- synonyms, prabhupada.io",
+    "description":"one who keeps great vows."
+}
+---
 
 ==== vratī  ====
   * one who keeps great vows --- [[books:cc:madhya:24:15|Madhya 24.15]]

@@ -1,5 +1,11 @@
-~~Title:upagudha~~
-{{description>bearing fragments of water.}}
+---json
+{
+    "name":"upagudha",
+    "h1":"upagudha",
+    "title":"upagudha --- synonyms, prabhupada.io",
+    "description":"bearing fragments of water."
+}
+---
 
 ==== upagūḍha  ====
   * bearing fragments of water --- [[books:sb:8:7:15|SB 8.7.15]]

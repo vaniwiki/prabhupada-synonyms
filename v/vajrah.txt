@@ -1,5 +1,11 @@
-~~Title:vajrah~~
-{{description>the thunderbolt; thunderbolt.}}
+---json
+{
+    "name":"vajrah",
+    "h1":"vajrah",
+    "title":"vajrah --- synonyms, prabhupada.io",
+    "description":"the thunderbolt; thunderbolt."
+}
+---
 
 ==== vajraḥ  ====
   * the thunderbolt --- [[books:sb:6:11:19|SB 6.11.19]], [[books:sb:6:12:33|SB 6.12.33]], [[books:sb:8:11:32|SB 8.11.32]], [[books:sb:8:11:33|SB 8.11.33]]

@@ -1,5 +1,11 @@
-~~Title:samādhātum~~
-{{description>to restrain.}}
+---json
+{
+    "name":"samādhātum",
+    "h1":"samādhātum",
+    "title":"samādhātum --- synonyms, prabhupada.io",
+    "description":"to restrain."
+}
+---
 
 ==== samādhātum  ====
   * to restrain --- [[books:sb:6:1:62|SB 6.1.62]]

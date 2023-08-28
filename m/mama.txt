@@ -1,5 +1,11 @@
-~~Title:mama~~
-{{description>by me; by Me personally; false conception; for me; for myself; from me; it is mine; me; mind; mine ("everything in relationship with this body is mine"); Mine; my (my land, my country, my family, my community, my religion); my; of Me; of Mine; of My; that; to Me; toward me; unto me; with me.}}
+---json
+{
+    "name":"mama",
+    "h1":"mama",
+    "title":"mama --- synonyms, prabhupada.io",
+    "description":"by me; by Me personally; false conception; for me; for myself; from me; it is mine; me; mind; mine ("everything in relationship with this body is mine"); Mine; my (my land, my country, my family, my community, my religion); my; of Me; of Mine; of My; that; to Me; toward me; unto me; with me."
+}
+---
 
 ==== mama  ====
   * by me --- [[books:sb:3:25:28|SB 3.25.28]], [[books:sb:4:1:10|SB 4.1.10]], [[books:sb:8:17:17|SB 8.17.17]], [[books:mm:5|MM 5]]

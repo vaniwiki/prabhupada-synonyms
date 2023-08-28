@@ -1,5 +1,11 @@
-~~Title:santuṣṭam~~
-{{description>pleased.}}
+---json
+{
+    "name":"santuṣṭam",
+    "h1":"santuṣṭam",
+    "title":"santuṣṭam --- synonyms, prabhupada.io",
+    "description":"pleased."
+}
+---
 
 ==== santuṣṭam  ====
   * pleased --- [[books:cc:antya:10:1|Antya 10.1]]

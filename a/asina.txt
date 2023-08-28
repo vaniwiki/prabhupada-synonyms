@@ -1,5 +1,11 @@
-~~Title:asina~~
-{{description>by the sword; by the weapon of; sword.}}
+---json
+{
+    "name":"asina",
+    "h1":"asina",
+    "title":"asina --- synonyms, prabhupada.io",
+    "description":"by the sword; by the weapon of; sword."
+}
+---
 
 ==== asinā  ====
   * by the sword --- [[books:sb:1:7:55|SB 1.7.55]]

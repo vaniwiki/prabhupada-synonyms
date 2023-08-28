@@ -1,5 +1,11 @@
-~~Title:avaruntse~~
-{{description>You are all-pervading and therefore know everything.}}
+---json
+{
+    "name":"avaruntse",
+    "h1":"avaruntse",
+    "title":"avaruntse --- synonyms, prabhupada.io",
+    "description":"You are all-pervading and therefore know everything."
+}
+---
 
 ==== avaruntse  ====
   * You are all-pervading and therefore know everything --- [[books:sb:8:12:11|SB 8.12.11]]

@@ -1,5 +1,11 @@
-~~Title:mastaka~~
-{{description>heads.}}
+---json
+{
+    "name":"mastaka",
+    "h1":"mastaka",
+    "title":"mastaka --- synonyms, prabhupada.io",
+    "description":"heads."
+}
+---
 
 ==== mastaka  ====
   * heads --- [[books:cc:adi:5:100-101|Ādi 5.100-101]]

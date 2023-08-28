@@ -1,5 +1,11 @@
-~~Title:guṇatvam~~
-{{description>identification of ether.}}
+---json
+{
+    "name":"guṇatvam",
+    "h1":"guṇatvam",
+    "title":"guṇatvam --- synonyms, prabhupada.io",
+    "description":"identification of ether."
+}
+---
 
 ==== nabhaḥ-guṇatvam  ====
   * identification of ether --- [[books:sb:2:2:29|SB 2.2.29]]

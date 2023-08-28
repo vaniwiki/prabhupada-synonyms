@@ -1,5 +1,11 @@
-~~Title:kṣapitam~~
-{{description>forgotten.}}
+---json
+{
+    "name":"kṣapitam",
+    "h1":"kṣapitam",
+    "title":"kṣapitam --- synonyms, prabhupada.io",
+    "description":"forgotten."
+}
+---
 
 ==== kṣapitam  ====
   * forgotten --- [[books:sb:4:31:6|SB 4.31.6]]

@@ -1,5 +1,11 @@
-~~Title:upoḍha~~
-{{description>obtained.}}
+---json
+{
+    "name":"upoḍha",
+    "h1":"upoḍha",
+    "title":"upoḍha --- synonyms, prabhupada.io",
+    "description":"obtained."
+}
+---
 
 ==== upoḍha  ====
   * obtained --- [[books:cc:antya:1:136|Antya 1.136]]

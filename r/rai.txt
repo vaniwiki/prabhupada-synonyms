@@ -1,5 +1,11 @@
-~~Title:rāi~~
-{{description>loss of a mustard seed.}}
+---json
+{
+    "name":"rāi",
+    "h1":"rāi",
+    "title":"rāi --- synonyms, prabhupada.io",
+    "description":"loss of a mustard seed."
+}
+---
 
 ==== rāi-nāśe  ====
   * loss of a mustard seed --- [[books:cc:madhya:15:177|Madhya 15.177]]

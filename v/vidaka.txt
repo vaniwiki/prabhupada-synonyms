@@ -1,5 +1,11 @@
-~~Title:viḍaka~~
-{{description>betel nuts.}}
+---json
+{
+    "name":"viḍaka",
+    "h1":"viḍaka",
+    "title":"viḍaka --- synonyms, prabhupada.io",
+    "description":"betel nuts."
+}
+---
 
 ==== viḍaka-sañcaya  ====
   * betel nuts --- [[books:cc:madhya:4:80|Madhya 4.80]]

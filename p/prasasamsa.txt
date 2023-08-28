@@ -1,5 +1,11 @@
-~~Title:praśaśaṁsa~~
-{{description>offered praise.}}
+---json
+{
+    "name":"praśaśaṁsa",
+    "h1":"praśaśaṁsa",
+    "title":"praśaśaṁsa --- synonyms, prabhupada.io",
+    "description":"offered praise."
+}
+---
 
 ==== praśaśaṁsa  ====
   * offered praise --- [[books:sb:9:5:13|SB 9.5.13]]

@@ -1,5 +1,11 @@
-~~Title:bhūyāṁsi~~
-{{description>repeatedly.}}
+---json
+{
+    "name":"bhūyāṁsi",
+    "h1":"bhūyāṁsi",
+    "title":"bhūyāṁsi --- synonyms, prabhupada.io",
+    "description":"repeatedly."
+}
+---
 
 ==== bhūyāṁsi  ====
   * repeatedly --- [[books:sb:4:21:7|SB 4.21.7]]

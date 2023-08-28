@@ -1,5 +1,11 @@
-~~Title:saṅkete~~
-{{description>by intimation.}}
+---json
+{
+    "name":"saṅkete",
+    "h1":"saṅkete",
+    "title":"saṅkete --- synonyms, prabhupada.io",
+    "description":"by intimation."
+}
+---
 
 ==== saṅkete  ====
   * by intimation --- [[books:cc:antya:3:55|Antya 3.55]]

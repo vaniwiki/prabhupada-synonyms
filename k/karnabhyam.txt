@@ -1,5 +1,11 @@
-~~Title:karṇābhyām~~
-{{description>both ears.}}
+---json
+{
+    "name":"karṇābhyām",
+    "h1":"karṇābhyām",
+    "title":"karṇābhyām --- synonyms, prabhupada.io",
+    "description":"both ears."
+}
+---
 
 ==== karṇābhyām  ====
   * both ears --- [[books:sb:4:25:22|SB 4.25.22]]

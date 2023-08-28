@@ -1,5 +1,11 @@
-~~Title:setoḥ~~
-{{description>the bridge of religion.}}
+---json
+{
+    "name":"setoḥ",
+    "h1":"setoḥ",
+    "title":"setoḥ --- synonyms, prabhupada.io",
+    "description":"the bridge of religion."
+}
+---
 
 ==== dharma-setoḥ  ====
   * the bridge of religion --- [[books:cc:antya:1:155|Antya 1.155]]

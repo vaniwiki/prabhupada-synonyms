@@ -1,5 +1,11 @@
-~~Title:pañcatām~~
-{{description>death.}}
+---json
+{
+    "name":"pañcatām",
+    "h1":"pañcatām",
+    "title":"pañcatām --- synonyms, prabhupada.io",
+    "description":"death."
+}
+---
 
 ==== pañcatām  ====
   * death --- [[books:sb:7:8:52|SB 7.8.52]], [[books:sb:9:8:3|SB 9.8.3]]

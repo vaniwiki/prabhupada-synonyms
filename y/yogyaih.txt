@@ -1,5 +1,11 @@
-~~Title:yogyaiḥ~~
-{{description>as it is befitting.}}
+---json
+{
+    "name":"yogyaiḥ",
+    "h1":"yogyaiḥ",
+    "title":"yogyaiḥ --- synonyms, prabhupada.io",
+    "description":"as it is befitting."
+}
+---
 
 ==== yogyaiḥ  ====
   * as it is befitting --- [[books:sb:7:13:24|SB 7.13.24]]

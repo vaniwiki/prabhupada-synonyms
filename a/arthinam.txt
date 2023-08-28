@@ -1,5 +1,11 @@
-~~Title:arthinam~~
-{{description>a beggar; desiring something.}}
+---json
+{
+    "name":"arthinam",
+    "h1":"arthinam",
+    "title":"arthinam --- synonyms, prabhupada.io",
+    "description":"a beggar; desiring something."
+}
+---
 
 ==== arthinam  ====
   * a beggar --- [[books:sb:8:21:33|SB 8.21.33]]

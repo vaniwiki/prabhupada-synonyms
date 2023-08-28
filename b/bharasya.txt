@@ -1,5 +1,11 @@
-~~Title:bhārasya~~
-{{description>great opulence.}}
+---json
+{
+    "name":"bhārasya",
+    "h1":"bhārasya",
+    "title":"bhārasya --- synonyms, prabhupada.io",
+    "description":"great opulence."
+}
+---
 
 ==== uru-bhārasya  ====
   * great opulence --- [[books:sb:3:2:32|SB 3.2.32]]

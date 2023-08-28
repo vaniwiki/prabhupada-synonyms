@@ -1,5 +1,11 @@
-~~Title:nimantrila~~
-{{description>he invited; invited.}}
+---json
+{
+    "name":"nimantrila",
+    "h1":"nimantrila",
+    "title":"nimantrila --- synonyms, prabhupada.io",
+    "description":"he invited; invited."
+}
+---
 
 ==== nimantrila  ====
   * he invited --- [[books:cc:madhya:25:11|Madhya 25.11]]

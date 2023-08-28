@@ -1,5 +1,11 @@
-~~Title:nirvācanam~~
-{{description>a name-giving ceremony, or nāma-karaṇa.}}
+---json
+{
+    "name":"nirvācanam",
+    "h1":"nirvācanam",
+    "title":"nirvācanam --- synonyms, prabhupada.io",
+    "description":"a name-giving ceremony, or nāma-karaṇa."
+}
+---
 
 ==== nāma-nirvācanam  ====
   * a name-giving ceremony, or //nāma-karaṇa// --- [[books:sb:9:20:37|SB 9.20.37]]

@@ -1,5 +1,11 @@
-~~Title:prāsūyanta~~
-{{description>bore fruit.}}
+---json
+{
+    "name":"prāsūyanta",
+    "h1":"prāsūyanta",
+    "title":"prāsūyanta --- synonyms, prabhupada.io",
+    "description":"bore fruit."
+}
+---
 
 ==== prāsūyanta  ====
   * bore fruit --- [[books:sb:4:19:8|SB 4.19.8]]

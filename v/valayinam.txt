@@ -1,5 +1,11 @@
-~~Title:valayinam~~
-{{description>with bangles.}}
+---json
+{
+    "name":"valayinam",
+    "h1":"valayinam",
+    "title":"valayinam --- synonyms, prabhupada.io",
+    "description":"with bangles."
+}
+---
 
 ==== valayinam  ====
   * with bangles --- [[books:sb:3:23:31|SB 3.23.31]]

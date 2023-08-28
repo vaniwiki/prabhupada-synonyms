@@ -1,5 +1,11 @@
-~~Title:akarmaṇaḥ~~
-{{description>inaction; without work.}}
+---json
+{
+    "name":"akarmaṇaḥ",
+    "h1":"akarmaṇaḥ",
+    "title":"akarmaṇaḥ --- synonyms, prabhupada.io",
+    "description":"inaction; without work."
+}
+---
 
 ==== akarmaṇaḥ  ====
   * inaction --- [[books:bg:4:17|Bg. 4.17]]

@@ -1,5 +1,11 @@
-~~Title:dvitayam~~
-{{description>consisting of duality.}}
+---json
+{
+    "name":"dvitayam",
+    "h1":"dvitayam",
+    "title":"dvitayam --- synonyms, prabhupada.io",
+    "description":"consisting of duality."
+}
+---
 
 ==== dvitayam  ====
   * consisting of duality --- [[books:sb:6:15:28|SB 6.15.28]]

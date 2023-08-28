@@ -1,5 +1,11 @@
-~~Title:karanat~~
-{{description>on account of.}}
+---json
+{
+    "name":"karanat",
+    "h1":"karanat",
+    "title":"karanat --- synonyms, prabhupada.io",
+    "description":"on account of."
+}
+---
 
 ==== kāraṇāt  ====
   * on account of --- [[books:sb:1:12:26|SB 1.12.26]]

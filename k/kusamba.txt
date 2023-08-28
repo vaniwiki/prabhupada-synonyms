@@ -1,5 +1,11 @@
-~~Title:kuśāmba~~
-{{description>Kuśāmba.}}
+---json
+{
+    "name":"kuśāmba",
+    "h1":"kuśāmba",
+    "title":"kuśāmba --- synonyms, prabhupada.io",
+    "description":"Kuśāmba."
+}
+---
 
 ==== kuśāmba  ====
   * Kuśāmba --- [[books:sb:9:22:6|SB 9.22.6]]

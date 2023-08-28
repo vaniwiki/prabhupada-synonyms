@@ -1,5 +1,11 @@
-~~Title:saṁjīvanyā~~
-{{description>by the Saṁjīvanī mantra.}}
+---json
+{
+    "name":"saṁjīvanyā",
+    "h1":"saṁjīvanyā",
+    "title":"saṁjīvanyā --- synonyms, prabhupada.io",
+    "description":"by the Saṁjīvanī mantra."
+}
+---
 
 ==== saṁjīvanyā  ====
   * by the Saṁjīvanī //mantra// --- [[books:sb:8:11:47|SB 8.11.47]]

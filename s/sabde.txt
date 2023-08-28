@@ -1,5 +1,11 @@
-~~Title:sabde~~
-{{description>by the word kevala, or "only".}}
+---json
+{
+    "name":"sabde",
+    "h1":"sabde",
+    "title":"sabde --- synonyms, prabhupada.io",
+    "description":"by the word kevala, or "only"."
+}
+---
 
 ==== 'kevala'-śabde  ====
   * by the word //kevala,// or "only" --- [[books:cc:adi:17:24|Ādi 17.24]]

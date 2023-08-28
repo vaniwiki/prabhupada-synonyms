@@ -1,5 +1,11 @@
-~~Title:āsavena~~
-{{description>with the liquor of blood.}}
+---json
+{
+    "name":"āsavena",
+    "h1":"āsavena",
+    "title":"āsavena --- synonyms, prabhupada.io",
+    "description":"with the liquor of blood."
+}
+---
 
 ==== asṛk-āsavena  ====
   * with the liquor of blood --- [[books:sb:5:9:16|SB 5.9.16]]

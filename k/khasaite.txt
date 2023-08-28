@@ -1,5 +1,11 @@
-~~Title:khasāite~~
-{{description>releasing.}}
+---json
+{
+    "name":"khasāite",
+    "h1":"khasāite",
+    "title":"khasāite --- synonyms, prabhupada.io",
+    "description":"releasing."
+}
+---
 
 ==== khasāite  ====
   * releasing --- [[books:cc:antya:18:49|Antya 18.49]]

@@ -1,5 +1,11 @@
-~~Title:himālaya~~
-{{description>the Himalayan Mountains.}}
+---json
+{
+    "name":"himālaya",
+    "h1":"himālaya",
+    "title":"himālaya --- synonyms, prabhupada.io",
+    "description":"the Himalayan Mountains."
+}
+---
 
 ==== himālaya  ====
   * the Himalayan Mountains --- [[books:cc:adi:10:87|Ādi 10.87]]

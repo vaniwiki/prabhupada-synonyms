@@ -1,5 +1,11 @@
-~~Title:śunileo~~
-{{description>even though one hears.}}
+---json
+{
+    "name":"śunileo",
+    "h1":"śunileo",
+    "title":"śunileo --- synonyms, prabhupada.io",
+    "description":"even though one hears."
+}
+---
 
 ==== śunileo  ====
   * even though one hears --- [[books:cc:madhya:18:225|Madhya 18.225]]

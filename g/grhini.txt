@@ -1,5 +1,11 @@
-~~Title:gṛhiṇī~~
-{{description>the wife; wife.}}
+---json
+{
+    "name":"gṛhiṇī",
+    "h1":"gṛhiṇī",
+    "title":"gṛhiṇī --- synonyms, prabhupada.io",
+    "description":"the wife; wife."
+}
+---
 
 ==== gṛhiṇī  ====
   * the wife --- [[books:cc:adi:15:27|Ādi 15.27]], [[books:cc:adi:16:63|Ādi 16.63]]

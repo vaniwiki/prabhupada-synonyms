@@ -1,5 +1,11 @@
-~~Title:cchala~~
-{{description>for jugglery of words.}}
+---json
+{
+    "name":"cchala",
+    "h1":"cchala",
+    "title":"cchala --- synonyms, prabhupada.io",
+    "description":"for jugglery of words."
+}
+---
 
 ==== vākya-cchala  ====
   * for jugglery of words --- [[books:cc:madhya:5:58|Madhya 5.58]]

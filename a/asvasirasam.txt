@@ -1,5 +1,11 @@
-~~Title:aśvaśirasam~~
-{{description>Aśvaśirā.}}
+---json
+{
+    "name":"aśvaśirasam",
+    "h1":"aśvaśirasam",
+    "title":"aśvaśirasam --- synonyms, prabhupada.io",
+    "description":"Aśvaśirā."
+}
+---
 
 ==== aśvaśirasam  ====
   * Aśvaśirā --- [[books:sb:4:1:42|SB 4.1.42]]

@@ -1,5 +1,11 @@
-~~Title:upakāraka~~
-{{description>working for the welfare of everyone.}}
+---json
+{
+    "name":"upakāraka",
+    "h1":"upakāraka",
+    "title":"upakāraka --- synonyms, prabhupada.io",
+    "description":"working for the welfare of everyone."
+}
+---
 
 ==== sarva-upakāraka  ====
   * working for the welfare of everyone --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

@@ -1,5 +1,11 @@
-~~Title:vijñeha~~
-{{description>even a learned scholar.}}
+---json
+{
+    "name":"vijñeha",
+    "h1":"vijñeha",
+    "title":"vijñeha --- synonyms, prabhupada.io",
+    "description":"even a learned scholar."
+}
+---
 
 ==== vijñeha  ====
   * even a learned scholar --- [[books:cc:madhya:23:39|Madhya 23.39]]

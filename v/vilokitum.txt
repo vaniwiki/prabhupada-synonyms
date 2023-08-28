@@ -1,5 +1,11 @@
-~~Title:vilokitum~~
-{{description>to look upon.}}
+---json
+{
+    "name":"vilokitum",
+    "h1":"vilokitum",
+    "title":"vilokitum --- synonyms, prabhupada.io",
+    "description":"to look upon."
+}
+---
 
 ==== vilokitum  ====
   * to look upon --- [[books:sb:4:20:21|SB 4.20.21]]

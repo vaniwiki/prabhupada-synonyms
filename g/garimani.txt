@@ -1,5 +1,11 @@
-~~Title:garimaṇi~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"garimaṇi",
+    "h1":"garimaṇi",
+    "title":"garimaṇi --- synonyms, prabhupada.io",
+    "description":"Lord Śiva."
+}
+---
 
 ==== garimaṇi  ====
   * Lord Śiva --- [[books:sb:4:5:21|SB 4.5.21]]

@@ -1,5 +1,11 @@
-~~Title:strīre~~
-{{description>the woman; woman.}}
+---json
+{
+    "name":"strīre",
+    "h1":"strīre",
+    "title":"strīre --- synonyms, prabhupada.io",
+    "description":"the woman; woman."
+}
+---
 
 ==== strīre  ====
   * the woman --- [[books:cc:antya:14:33|Antya 14.33]]

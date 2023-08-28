@@ -1,5 +1,11 @@
-~~Title:vṛṇīmahe~~
-{{description>we choose; we shall pray for; we want this benediction.}}
+---json
+{
+    "name":"vṛṇīmahe",
+    "h1":"vṛṇīmahe",
+    "title":"vṛṇīmahe --- synonyms, prabhupada.io",
+    "description":"we choose; we shall pray for; we want this benediction."
+}
+---
 
 ==== vṛṇīmahe  ====
   * we choose --- [[books:sb:6:7:32|SB 6.7.32]]

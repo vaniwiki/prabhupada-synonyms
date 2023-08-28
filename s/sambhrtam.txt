@@ -1,5 +1,11 @@
-~~Title:sambhrtam~~
-{{description>born by; filled; fully filled.}}
+---json
+{
+    "name":"sambhrtam",
+    "h1":"sambhrtam",
+    "title":"sambhrtam --- synonyms, prabhupada.io",
+    "description":"born by; filled; fully filled."
+}
+---
 
 ==== sambhṛtam  ====
   * born by --- [[books:sb:4:8:12|SB 4.8.12]]

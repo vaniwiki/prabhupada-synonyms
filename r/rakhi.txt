@@ -1,5 +1,11 @@
-~~Title:rakhi~~
-{{description>we keep.}}
+---json
+{
+    "name":"rakhi",
+    "h1":"rakhi",
+    "title":"rakhi --- synonyms, prabhupada.io",
+    "description":"we keep."
+}
+---
 
 ==== rākhi  ====
   * we keep --- [[books:cc:madhya:24:296|Madhya 24.296]]

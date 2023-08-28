@@ -1,5 +1,11 @@
-~~Title:peṭa~~
-{{description>belly; the belly.}}
+---json
+{
+    "name":"peṭa",
+    "h1":"peṭa",
+    "title":"peṭa --- synonyms, prabhupada.io",
+    "description":"belly; the belly."
+}
+---
 
 ==== peṭa  ====
   * belly --- [[books:cc:adi:9:49|Ādi 9.49]], [[books:cc:adi:17:83|Ādi 17.83]], [[books:cc:madhya:3:93|Madhya 3.93]]

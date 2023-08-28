@@ -1,5 +1,11 @@
-~~Title:purañjanyām~~
-{{description>in Purañjanī.}}
+---json
+{
+    "name":"purañjanyām",
+    "h1":"purañjanyām",
+    "title":"purañjanyām --- synonyms, prabhupada.io",
+    "description":"in Purañjanī."
+}
+---
 
 ==== purañjanyām  ====
   * in Purañjanī --- [[books:sb:4:27:6|SB 4.27.6]]

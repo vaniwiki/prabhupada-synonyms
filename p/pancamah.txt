@@ -1,5 +1,11 @@
-~~Title:pañcamaḥ~~
-{{description>fifth; the fifth; the fifth one.}}
+---json
+{
+    "name":"pañcamaḥ",
+    "h1":"pañcamaḥ",
+    "title":"pañcamaḥ --- synonyms, prabhupada.io",
+    "description":"fifth; the fifth; the fifth one."
+}
+---
 
 ==== pañcamaḥ  ====
   * fifth --- [[books:sb:3:10:17|SB 3.10.17]]

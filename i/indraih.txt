@@ -1,5 +1,11 @@
-~~Title:indraiḥ~~
-{{description>by the chiefs.}}
+---json
+{
+    "name":"indraiḥ",
+    "h1":"indraiḥ",
+    "title":"indraiḥ --- synonyms, prabhupada.io",
+    "description":"by the chiefs."
+}
+---
 
 ==== indraiḥ  ====
   * by the chiefs --- [[books:sb:4:16:27|SB 4.16.27]]

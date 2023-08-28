@@ -1,5 +1,11 @@
-~~Title:sarvasva~~
-{{description>all possessions.}}
+---json
+{
+    "name":"sarvasva",
+    "h1":"sarvasva",
+    "title":"sarvasva --- synonyms, prabhupada.io",
+    "description":"all possessions."
+}
+---
 
 ==== sarvasva  ====
   * all possessions --- [[books:cc:antya:9:111|Antya 9.111]]

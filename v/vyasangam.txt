@@ -1,5 +1,11 @@
-~~Title:vyāsaṅgam~~
-{{description>opposing attachments.}}
+---json
+{
+    "name":"vyāsaṅgam",
+    "h1":"vyāsaṅgam",
+    "title":"vyāsaṅgam --- synonyms, prabhupada.io",
+    "description":"opposing attachments."
+}
+---
 
 ==== manaḥ-vyāsaṅgam  ====
   * opposing attachments --- [[books:cc:adi:1:59|Ādi 1.59]]

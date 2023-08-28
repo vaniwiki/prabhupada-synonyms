@@ -1,5 +1,11 @@
-~~Title:antarhitam~~
-{{description>within the core of the heart.}}
+---json
+{
+    "name":"antarhitam",
+    "h1":"antarhitam",
+    "title":"antarhitam --- synonyms, prabhupada.io",
+    "description":"within the core of the heart."
+}
+---
 
 ==== antarhitam  ====
   * within the core of the heart --- [[books:sb:9:9:29|SB 9.9.29]]

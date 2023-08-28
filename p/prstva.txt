@@ -1,5 +1,11 @@
-~~Title:pṛṣṭvā~~
-{{description>asking.}}
+---json
+{
+    "name":"pṛṣṭvā",
+    "h1":"pṛṣṭvā",
+    "title":"pṛṣṭvā --- synonyms, prabhupada.io",
+    "description":"asking."
+}
+---
 
 ==== pṛṣṭvā  ====
   * asking --- [[books:sb:10:5:22|SB 10.5.22]]

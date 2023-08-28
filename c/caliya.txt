@@ -1,5 +1,11 @@
-~~Title:caliyā~~
-{{description>moving; walking.}}
+---json
+{
+    "name":"caliyā",
+    "h1":"caliyā",
+    "title":"caliyā --- synonyms, prabhupada.io",
+    "description":"moving; walking."
+}
+---
 
 ==== caliyā  ====
   * moving --- [[books:cc:madhya:13:193|Madhya 13.193]]

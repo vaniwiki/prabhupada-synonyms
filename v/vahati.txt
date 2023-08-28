@@ -1,5 +1,11 @@
-~~Title:vahatī~~
-{{description>bringing.}}
+---json
+{
+    "name":"vahatī",
+    "h1":"vahatī",
+    "title":"vahatī --- synonyms, prabhupada.io",
+    "description":"bringing."
+}
+---
 
 ==== vahatī  ====
   * bringing --- [[books:sb:3:9:9|SB 3.9.9]]

@@ -1,5 +1,11 @@
-~~Title:sambandhe~~
-{{description>by the relationship; in connection with; in relationship.}}
+---json
+{
+    "name":"sambandhe",
+    "h1":"sambandhe",
+    "title":"sambandhe --- synonyms, prabhupada.io",
+    "description":"by the relationship; in connection with; in relationship."
+}
+---
 
 ==== sambandhe  ====
   * by the relationship --- [[books:cc:madhya:6:246|Madhya 6.246]]

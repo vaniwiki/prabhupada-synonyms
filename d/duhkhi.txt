@@ -1,5 +1,11 @@
-~~Title:duḥkhī~~
-{{description>distressed; unhappy; very unhappy.}}
+---json
+{
+    "name":"duḥkhī",
+    "h1":"duḥkhī",
+    "title":"duḥkhī --- synonyms, prabhupada.io",
+    "description":"distressed; unhappy; very unhappy."
+}
+---
 
 ==== duḥkhī  ====
   * distressed --- [[books:cc:madhya:20:128|Madhya 20.128]]

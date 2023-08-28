@@ -1,5 +1,11 @@
-~~Title:upacāraḥ~~
-{{description>administration.}}
+---json
+{
+    "name":"upacāraḥ",
+    "h1":"upacāraḥ",
+    "title":"upacāraḥ --- synonyms, prabhupada.io",
+    "description":"administration."
+}
+---
 
 ==== upacāraḥ  ====
   * administration --- [[books:sb:6:3:6|SB 6.3.6]]

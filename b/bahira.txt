@@ -1,5 +1,11 @@
-~~Title:bāhira~~
-{{description>external; out; out of the temple; outside.}}
+---json
+{
+    "name":"bāhira",
+    "h1":"bāhira",
+    "title":"bāhira --- synonyms, prabhupada.io",
+    "description":"external; out; out of the temple; outside."
+}
+---
 
 ==== bāhira  ====
   * external --- [[books:cc:adi:10:97|Ādi 10.97]]

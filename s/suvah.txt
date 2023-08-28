@@ -1,5 +1,11 @@
-~~Title:suvaḥ~~
-{{description>of the Svaḥ planetary system.}}
+---json
+{
+    "name":"suvaḥ",
+    "h1":"suvaḥ",
+    "title":"suvaḥ --- synonyms, prabhupada.io",
+    "description":"of the Svaḥ planetary system."
+}
+---
 
 ==== suvaḥ  ====
   * of the Svaḥ planetary system --- [[books:sb:5:20:23|SB 5.20.23]]

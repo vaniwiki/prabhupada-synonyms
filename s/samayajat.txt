@@ -1,5 +1,11 @@
-~~Title:samayajat~~
-{{description>perfectly worshiped.}}
+---json
+{
+    "name":"samayajat",
+    "h1":"samayajat",
+    "title":"samayajat --- synonyms, prabhupada.io",
+    "description":"perfectly worshiped."
+}
+---
 
 ==== samayajat  ====
   * perfectly worshiped --- [[books:sb:1:12:34|SB 1.12.34]]

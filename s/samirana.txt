@@ -1,5 +1,11 @@
-~~Title:samīraṇa~~
-{{description>Vāyu.}}
+---json
+{
+    "name":"samīraṇa",
+    "h1":"samīraṇa",
+    "title":"samīraṇa --- synonyms, prabhupada.io",
+    "description":"Vāyu."
+}
+---
 
 ==== samīraṇa  ====
   * Vāyu --- [[books:sb:8:11:1|SB 8.11.1]]

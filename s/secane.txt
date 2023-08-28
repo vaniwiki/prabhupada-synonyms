@@ -1,5 +1,11 @@
-~~Title:secane~~
-{{description>by sprinkling.}}
+---json
+{
+    "name":"secane",
+    "h1":"secane",
+    "title":"secane --- synonyms, prabhupada.io",
+    "description":"by sprinkling."
+}
+---
 
 ==== secane  ====
   * by sprinkling --- [[books:cc:adi:12:5|Ādi 12.5]]

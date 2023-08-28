@@ -1,5 +1,11 @@
-~~Title:lakṣāṇi~~
-{{description>hundred thousands.}}
+---json
+{
+    "name":"lakṣāṇi",
+    "h1":"lakṣāṇi",
+    "title":"lakṣāṇi --- synonyms, prabhupada.io",
+    "description":"hundred thousands."
+}
+---
 
 ==== lakṣāṇi  ====
   * hundred thousands --- [[books:sb:5:21:7|SB 5.21.7]]

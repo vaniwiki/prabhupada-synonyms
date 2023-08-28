@@ -1,5 +1,11 @@
-~~Title:prapedire~~
-{{description>have been situated.}}
+---json
+{
+    "name":"prapedire",
+    "h1":"prapedire",
+    "title":"prapedire --- synonyms, prabhupada.io",
+    "description":"have been situated."
+}
+---
 
 ==== prapedire  ====
   * have been situated --- [[books:sb:3:6:28|SB 3.6.28]]

@@ -1,5 +1,11 @@
-~~Title:uṣṭraḥ~~
-{{description>camel.}}
+---json
+{
+    "name":"uṣṭraḥ",
+    "h1":"uṣṭraḥ",
+    "title":"uṣṭraḥ --- synonyms, prabhupada.io",
+    "description":"camel."
+}
+---
 
 ==== uṣṭraḥ  ====
   * camel --- [[books:sb:3:10:22|SB 3.10.22]]

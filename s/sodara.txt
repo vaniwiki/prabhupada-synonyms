@@ -1,5 +1,11 @@
-~~Title:sodara~~
-{{description>the killer of my brother and sister.}}
+---json
+{
+    "name":"sodara",
+    "h1":"sodara",
+    "title":"sodara --- synonyms, prabhupada.io",
+    "description":"the killer of my brother and sister."
+}
+---
 
 ==== sodara-nāśa-kṛt  ====
   * the killer of my brother and sister --- [[books:sb:10:12:14|SB 10.12.14]]

@@ -1,5 +1,11 @@
-~~Title:surendra~~
-{{description>of Indra.}}
+---json
+{
+    "name":"surendra",
+    "h1":"surendra",
+    "title":"surendra --- synonyms, prabhupada.io",
+    "description":"of Indra."
+}
+---
 
 ==== surendra  ====
   * of Indra --- [[books:bg:9:20|Bg. 9.20]]

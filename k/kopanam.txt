@@ -1,5 +1,11 @@
-~~Title:kopanam~~
-{{description>who was always very angry.}}
+---json
+{
+    "name":"kopanam",
+    "h1":"kopanam",
+    "title":"kopanam --- synonyms, prabhupada.io",
+    "description":"who was always very angry."
+}
+---
 
 ==== parama-kopanam  ====
   * who was always very angry --- [[books:sb:9:3:10|SB 9.3.10]]

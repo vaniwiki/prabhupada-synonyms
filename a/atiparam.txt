@@ -1,5 +1,11 @@
-~~Title:atipāram~~
-{{description>the ultimate end.}}
+---json
+{
+    "name":"atipāram",
+    "h1":"atipāram",
+    "title":"atipāram --- synonyms, prabhupada.io",
+    "description":"the ultimate end."
+}
+---
 
 ==== atipāram  ====
   * the ultimate end --- [[books:sb:5:12:16|SB 5.12.16]]

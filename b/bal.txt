@@ -1,5 +1,11 @@
-~~Title:bal~~
-{{description>sing.}}
+---json
+{
+    "name":"bal",
+    "h1":"bal",
+    "title":"bal --- synonyms, prabhupada.io",
+    "description":"sing."
+}
+---
 
 ==== bal  ====
   * sing --- [[books:cc:antya:15:90|Antya 15.90]]

@@ -1,5 +1,11 @@
-~~Title:dīpayantī~~
-{{description>enlightening.}}
+---json
+{
+    "name":"dīpayantī",
+    "h1":"dīpayantī",
+    "title":"dīpayantī --- synonyms, prabhupada.io",
+    "description":"enlightening."
+}
+---
 
 ==== dīpayantī  ====
   * enlightening --- [[books:sb:4:26:16|SB 4.26.16]]

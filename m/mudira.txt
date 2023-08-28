@@ -1,5 +1,11 @@
-~~Title:mudira~~
-{{description>as effulgent as a lightning cloud.}}
+---json
+{
+    "name":"mudira",
+    "h1":"mudira",
+    "title":"mudira --- synonyms, prabhupada.io",
+    "description":"as effulgent as a lightning cloud."
+}
+---
 
 ==== mudira-dyutiḥ  ====
   * as effulgent as a lightning cloud --- [[books:cc:antya:1:190|Antya 1.190]]

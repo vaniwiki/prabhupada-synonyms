@@ -1,5 +1,11 @@
-~~Title:nāmabhyaḥ~~
-{{description>named.}}
+---json
+{
+    "name":"nāmabhyaḥ",
+    "h1":"nāmabhyaḥ",
+    "title":"nāmabhyaḥ --- synonyms, prabhupada.io",
+    "description":"named."
+}
+---
 
 ==== nāmabhyaḥ  ====
   * named --- [[books:sb:5:20:14|SB 5.20.14]]

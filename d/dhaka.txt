@@ -1,5 +1,11 @@
-~~Title:dhaka~~
-{{description>just cover.}}
+---json
+{
+    "name":"dhaka",
+    "h1":"dhaka",
+    "title":"dhaka --- synonyms, prabhupada.io",
+    "description":"just cover."
+}
+---
 
 ==== ḍhāka  ====
   * just cover --- [[books:cc:madhya:1:279|Madhya 1.279]]

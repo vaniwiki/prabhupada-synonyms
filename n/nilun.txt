@@ -1,5 +1,11 @@
-~~Title:niluṅ~~
-{{description>have taken; I have taken; I took.}}
+---json
+{
+    "name":"niluṅ",
+    "h1":"niluṅ",
+    "title":"niluṅ --- synonyms, prabhupada.io",
+    "description":"have taken; I have taken; I took."
+}
+---
 
 ==== niluṅ  ====
   * have taken --- [[books:cc:madhya:6:59|Madhya 6.59]]

@@ -1,5 +1,11 @@
-~~Title:tapīyān~~
-{{description>extremely hard penance.}}
+---json
+{
+    "name":"tapīyān",
+    "h1":"tapīyān",
+    "title":"tapīyān --- synonyms, prabhupada.io",
+    "description":"extremely hard penance."
+}
+---
 
 ==== tapīyān  ====
   * extremely hard penance --- [[books:sb:2:9:8|SB 2.9.8]]

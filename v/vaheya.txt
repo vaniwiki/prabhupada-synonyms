@@ -1,5 +1,11 @@
-~~Title:vaheya~~
-{{description>shall bear.}}
+---json
+{
+    "name":"vaheya",
+    "h1":"vaheya",
+    "title":"vaheya --- synonyms, prabhupada.io",
+    "description":"shall bear."
+}
+---
 
 ==== vaheya  ====
   * shall bear --- [[books:sb:4:21:43|SB 4.21.43]]

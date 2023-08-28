@@ -1,5 +1,11 @@
-~~Title:stham~~
-{{description>situated.}}
+---json
+{
+    "name":"stham",
+    "h1":"stham",
+    "title":"stham --- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== stham  ====
   * situated --- [[books:sb:3:28:25|SB 3.28.25]]

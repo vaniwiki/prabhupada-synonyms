@@ -1,5 +1,11 @@
-~~Title:o~~
-{{description>on the other side of the Yamunā.}}
+---json
+{
+    "name":"o",
+    "h1":"o",
+    "title":"o --- synonyms, prabhupada.io",
+    "description":"on the other side of the Yamunā."
+}
+---
 
 ==== o-pāre  ====
   * on the other side of the Yamunā --- [[books:cc:madhya:18:86|Madhya 18.86]]

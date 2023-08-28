@@ -1,5 +1,11 @@
-~~Title:rūṣitam~~
-{{description>which was mixed.}}
+---json
+{
+    "name":"rūṣitam",
+    "h1":"rūṣitam",
+    "title":"rūṣitam --- synonyms, prabhupada.io",
+    "description":"which was mixed."
+}
+---
 
 ==== rūṣitam  ====
   * which was mixed --- [[books:sb:8:2:25|SB 8.2.25]]

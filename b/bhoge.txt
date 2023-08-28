@@ -1,5 +1,11 @@
-~~Title:bhoge~~
-{{description>suffers.}}
+---json
+{
+    "name":"bhoge",
+    "h1":"bhoge",
+    "title":"bhoge --- synonyms, prabhupada.io",
+    "description":"suffers."
+}
+---
 
 ==== bhoge  ====
   * suffers --- [[books:cc:adi:17:54|Ādi 17.54]]

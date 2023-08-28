@@ -1,5 +1,11 @@
-~~Title:tarpayan~~
-{{description>pleasing.}}
+---json
+{
+    "name":"tarpayan",
+    "h1":"tarpayan",
+    "title":"tarpayan --- synonyms, prabhupada.io",
+    "description":"pleasing."
+}
+---
 
 ==== tarpayan  ====
   * pleasing --- [[books:sb:4:22:58|SB 4.22.58]]

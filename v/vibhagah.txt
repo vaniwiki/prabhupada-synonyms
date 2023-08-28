@@ -1,5 +1,11 @@
-~~Title:vibhagah~~
-{{description>distinction; division; the division.}}
+---json
+{
+    "name":"vibhagah",
+    "h1":"vibhagah",
+    "title":"vibhagah --- synonyms, prabhupada.io",
+    "description":"distinction; division; the division."
+}
+---
 
 ==== vibhāgaḥ  ====
   * distinction --- [[books:cc:antya:5:123|Antya 5.123]]

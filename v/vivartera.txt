@@ -1,5 +1,11 @@
-~~Title:vivartera~~
-{{description>of illusion.}}
+---json
+{
+    "name":"vivartera",
+    "h1":"vivartera",
+    "title":"vivartera --- synonyms, prabhupada.io",
+    "description":"of illusion."
+}
+---
 
 ==== vivartera  ====
   * of illusion --- [[books:cc:adi:7:123|Ādi 7.123]]

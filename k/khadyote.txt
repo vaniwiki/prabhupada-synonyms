@@ -1,5 +1,11 @@
-~~Title:khadyote~~
-{{description>two luminaries.}}
+---json
+{
+    "name":"khadyote",
+    "h1":"khadyote",
+    "title":"khadyote --- synonyms, prabhupada.io",
+    "description":"two luminaries."
+}
+---
 
 ==== khadyote  ====
   * two luminaries --- [[books:sb:9:3:3|SB 9.3.3]]

@@ -1,5 +1,11 @@
-~~Title:prayāse~~
-{{description>when the endeavor.}}
+---json
+{
+    "name":"prayāse",
+    "h1":"prayāse",
+    "title":"prayāse --- synonyms, prabhupada.io",
+    "description":"when the endeavor."
+}
+---
 
 ==== prayāse  ====
   * when the endeavor --- [[books:sb:7:5:42|SB 7.5.42]]

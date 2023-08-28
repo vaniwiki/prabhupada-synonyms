@@ -1,5 +1,11 @@
-~~Title:vasan~~
-{{description>by living; living; residing; while residing.}}
+---json
+{
+    "name":"vasan",
+    "h1":"vasan",
+    "title":"vasan --- synonyms, prabhupada.io",
+    "description":"by living; living; residing; while residing."
+}
+---
 
 ==== vasan  ====
   * by living --- [[books:sb:7:12:1|SB 7.12.1]]

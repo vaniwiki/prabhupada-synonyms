@@ -1,5 +1,11 @@
-~~Title:asaṁskṛtam~~
-{{description>unpolished.}}
+---json
+{
+    "name":"asaṁskṛtam",
+    "h1":"asaṁskṛtam",
+    "title":"asaṁskṛtam --- synonyms, prabhupada.io",
+    "description":"unpolished."
+}
+---
 
 ==== asaṁskṛtam  ====
   * unpolished --- [[books:sb:3:21:45-47|SB 3.21.45-47]]

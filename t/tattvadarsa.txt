@@ -1,5 +1,11 @@
-~~Title:tattvadarśa~~
-{{description>and others, like Tattvadarśa.}}
+---json
+{
+    "name":"tattvadarśa",
+    "h1":"tattvadarśa",
+    "title":"tattvadarśa --- synonyms, prabhupada.io",
+    "description":"and others, like Tattvadarśa."
+}
+---
 
 ==== tattvadarśa-ādyāḥ  ====
   * and others, like Tattvadarśa --- [[books:sb:8:13:31|SB 8.13.31]]

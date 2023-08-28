@@ -1,5 +1,11 @@
-~~Title:ramyāṇi~~
-{{description>very beautiful.}}
+---json
+{
+    "name":"ramyāṇi",
+    "h1":"ramyāṇi",
+    "title":"ramyāṇi --- synonyms, prabhupada.io",
+    "description":"very beautiful."
+}
+---
 
 ==== ramyāṇi  ====
   * very beautiful --- [[books:sb:4:9:63|SB 4.9.63]]

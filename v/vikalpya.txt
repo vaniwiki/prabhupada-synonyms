@@ -1,5 +1,11 @@
-~~Title:vikalpya~~
-{{description>speculating.}}
+---json
+{
+    "name":"vikalpya",
+    "h1":"vikalpya",
+    "title":"vikalpya --- synonyms, prabhupada.io",
+    "description":"speculating."
+}
+---
 
 ==== vikalpya  ====
   * speculating --- [[books:cc:madhya:20:147-148|Madhya 20.147-148]]

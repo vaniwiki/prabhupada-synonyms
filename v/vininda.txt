@@ -1,5 +1,11 @@
-~~Title:vinindā~~
-{{description>the deriding of great souls.}}
+---json
+{
+    "name":"vinindā",
+    "h1":"vinindā",
+    "title":"vinindā --- synonyms, prabhupada.io",
+    "description":"the deriding of great souls."
+}
+---
 
 ==== mahat-vinindā  ====
   * the deriding of great souls --- [[books:sb:4:4:13|SB 4.4.13]]

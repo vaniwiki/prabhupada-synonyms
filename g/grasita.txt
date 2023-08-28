@@ -1,5 +1,11 @@
-~~Title:grasitā~~
-{{description>will swallow.}}
+---json
+{
+    "name":"grasitā",
+    "h1":"grasitā",
+    "title":"grasitā --- synonyms, prabhupada.io",
+    "description":"will swallow."
+}
+---
 
 ==== grasitā  ====
   * will swallow --- [[books:sb:10:12:24|SB 10.12.24]]

@@ -1,5 +1,11 @@
-~~Title:eimata~~
-{{description>in this way.}}
+---json
+{
+    "name":"eimata",
+    "h1":"eimata",
+    "title":"eimata --- synonyms, prabhupada.io",
+    "description":"in this way."
+}
+---
 
 ==== eimata  ====
   * in this way --- [[books:cc:adi:10:16|Ādi 10.16]], [[books:cc:adi:14:61|Ādi 14.61]], [[books:cc:madhya:3:88|Madhya 3.88]], [[books:cc:madhya:15:181|Madhya 15.181]]

@@ -1,5 +1,11 @@
-~~Title:hanyāt~~
-{{description>can kill; kills; one may kill; will kill.}}
+---json
+{
+    "name":"hanyāt",
+    "h1":"hanyāt",
+    "title":"hanyāt --- synonyms, prabhupada.io",
+    "description":"can kill; kills; one may kill; will kill."
+}
+---
 
 ==== hanyāt  ====
   * can kill --- [[books:sb:10:1:37|SB 10.1.37]]

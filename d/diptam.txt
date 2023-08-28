@@ -1,5 +1,11 @@
-~~Title:diptam~~
-{{description>glowing.}}
+---json
+{
+    "name":"diptam",
+    "h1":"diptam",
+    "title":"diptam --- synonyms, prabhupada.io",
+    "description":"glowing."
+}
+---
 
 ==== dīptam  ====
   * glowing --- [[books:bg:11:24|Bg. 11.24]]

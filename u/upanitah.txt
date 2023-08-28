@@ -1,5 +1,11 @@
-~~Title:upanitah~~
-{{description>being brought in; is put to.}}
+---json
+{
+    "name":"upanitah",
+    "h1":"upanitah",
+    "title":"upanitah --- synonyms, prabhupada.io",
+    "description":"being brought in; is put to."
+}
+---
 
 ==== upanītaḥ  ====
   * being brought in --- [[books:sb:5:2:6|SB 5.2.6]]

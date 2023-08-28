@@ -1,5 +1,11 @@
-~~Title:cāṅdoyā~~
-{{description>canopy.}}
+---json
+{
+    "name":"cāṅdoyā",
+    "h1":"cāṅdoyā",
+    "title":"cāṅdoyā --- synonyms, prabhupada.io",
+    "description":"canopy."
+}
+---
 
 ==== cāṅdoyā  ====
   * canopy --- [[books:cc:madhya:13:20|Madhya 13.20]]

@@ -1,5 +1,11 @@
-~~Title:māga'~~
-{{description>ask.}}
+---json
+{
+    "name":"māga'",
+    "h1":"māga'",
+    "title":"māga' --- synonyms, prabhupada.io",
+    "description":"ask."
+}
+---
 
 ==== māga'  ====
   * ask --- [[books:cc:madhya:5:114|Madhya 5.114]]

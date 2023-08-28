@@ -1,5 +1,11 @@
-~~Title:abhyasūyām~~
-{{description>envy.}}
+---json
+{
+    "name":"abhyasūyām",
+    "h1":"abhyasūyām",
+    "title":"abhyasūyām --- synonyms, prabhupada.io",
+    "description":"envy."
+}
+---
 
 ==== abhyasūyām  ====
   * envy --- [[books:cc:antya:1:108|Antya 1.108]]

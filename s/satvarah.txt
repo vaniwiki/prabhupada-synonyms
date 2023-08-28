@@ -1,5 +1,11 @@
-~~Title:satvaraḥ~~
-{{description>very quickly.}}
+---json
+{
+    "name":"satvaraḥ",
+    "h1":"satvaraḥ",
+    "title":"satvaraḥ --- synonyms, prabhupada.io",
+    "description":"very quickly."
+}
+---
 
 ==== satvaraḥ  ====
   * very quickly --- [[books:sb:10:9:9|SB 10.9.9]]

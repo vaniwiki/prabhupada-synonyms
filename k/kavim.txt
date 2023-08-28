@@ -1,5 +1,11 @@
-~~Title:kavim~~
-{{description>fully cognizant; Kavi; one who knows everything; poetic; the great scholar; the learned; the total living entities.}}
+---json
+{
+    "name":"kavim",
+    "h1":"kavim",
+    "title":"kavim --- synonyms, prabhupada.io",
+    "description":"fully cognizant; Kavi; one who knows everything; poetic; the great scholar; the learned; the total living entities."
+}
+---
 
 ==== kavim  ====
   * fully cognizant --- [[books:sb:3:24:33|SB 3.24.33]]

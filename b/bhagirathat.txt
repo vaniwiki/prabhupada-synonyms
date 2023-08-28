@@ -1,5 +1,11 @@
-~~Title:bhagīrathāt~~
-{{description>from Bhagīratha.}}
+---json
+{
+    "name":"bhagīrathāt",
+    "h1":"bhagīrathāt",
+    "title":"bhagīrathāt --- synonyms, prabhupada.io",
+    "description":"from Bhagīratha."
+}
+---
 
 ==== bhagīrathāt  ====
   * from Bhagīratha --- [[books:sb:9:9:16-17|SB 9.9.16-17]]

@@ -1,5 +1,11 @@
-~~Title:sannahyatīm~~
-{{description>trying to bind.}}
+---json
+{
+    "name":"sannahyatīm",
+    "h1":"sannahyatīm",
+    "title":"sannahyatīm --- synonyms, prabhupada.io",
+    "description":"trying to bind."
+}
+---
 
 ==== sannahyatīm  ====
   * trying to bind --- [[books:sb:8:12:21|SB 8.12.21]]

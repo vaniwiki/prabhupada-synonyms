@@ -1,5 +1,11 @@
-~~Title:vārevāre~~
-{{description>again and again.}}
+---json
+{
+    "name":"vārevāre",
+    "h1":"vārevāre",
+    "title":"vārevāre --- synonyms, prabhupada.io",
+    "description":"again and again."
+}
+---
 
 ==== vārevāre  ====
   * again and again --- [[books:cc:adi:7:93|Ādi 7.93]]

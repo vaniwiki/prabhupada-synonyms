@@ -1,5 +1,11 @@
-~~Title:padakaiḥ~~
-{{description>by Your lotus feet.}}
+---json
+{
+    "name":"padakaiḥ",
+    "h1":"padakaiḥ",
+    "title":"padakaiḥ --- synonyms, prabhupada.io",
+    "description":"by Your lotus feet."
+}
+---
 
 ==== tvat-padakaiḥ  ====
   * by Your lotus feet --- [[books:sb:10:2:38|SB 10.2.38]]

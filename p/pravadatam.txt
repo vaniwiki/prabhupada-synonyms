@@ -1,5 +1,11 @@
-~~Title:pravadatām~~
-{{description>of arguments.}}
+---json
+{
+    "name":"pravadatām",
+    "h1":"pravadatām",
+    "title":"pravadatām --- synonyms, prabhupada.io",
+    "description":"of arguments."
+}
+---
 
 ==== pravadatām  ====
   * of arguments --- [[books:bg:10:32|Bg. 10.32]]

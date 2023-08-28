@@ -1,5 +1,11 @@
-~~Title:āgamaiḥ~~
-{{description>with your own theses.}}
+---json
+{
+    "name":"āgamaiḥ",
+    "h1":"āgamaiḥ",
+    "title":"āgamaiḥ --- synonyms, prabhupada.io",
+    "description":"with your own theses."
+}
+---
 
 ==== sva-āgamaiḥ  ====
   * with your own theses --- [[books:cc:madhya:6:181|Madhya 6.181]]

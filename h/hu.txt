@@ -1,5 +1,11 @@
-~~Title:hu~~
-{{description>tumultuous sound.}}
+---json
+{
+    "name":"hu",
+    "h1":"hu",
+    "title":"hu --- synonyms, prabhupada.io",
+    "description":"tumultuous sound."
+}
+---
 
 ==== hu-huṅ-kāra  ====
   * tumultuous sound --- [[books:cc:madhya:2:73|Madhya 2.73]]

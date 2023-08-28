@@ -1,5 +1,11 @@
-~~Title:tuṇḍena~~
-{{description>with his sharp beak.}}
+---json
+{
+    "name":"tuṇḍena",
+    "h1":"tuṇḍena",
+    "title":"tuṇḍena --- synonyms, prabhupada.io",
+    "description":"with his sharp beak."
+}
+---
 
 ==== tuṇḍena  ====
   * with his sharp beak --- [[books:sb:10:11:50|SB 10.11.50]]

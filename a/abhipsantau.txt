@@ -1,5 +1,11 @@
-~~Title:abhīpsantau~~
-{{description>desiring to beg some benediction.}}
+---json
+{
+    "name":"abhīpsantau",
+    "h1":"abhīpsantau",
+    "title":"abhīpsantau --- synonyms, prabhupada.io",
+    "description":"desiring to beg some benediction."
+}
+---
 
 ==== kāmān abhīpsantau  ====
   * desiring to beg some benediction --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

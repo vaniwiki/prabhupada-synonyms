@@ -1,5 +1,11 @@
-~~Title:utsedhah~~
-{{description>height.}}
+---json
+{
+    "name":"utsedhah",
+    "h1":"utsedhah",
+    "title":"utsedhah --- synonyms, prabhupada.io",
+    "description":"height."
+}
+---
 
 ==== utsedhaḥ  ====
   * height --- [[books:sb:4:6:32|SB 4.6.32]]

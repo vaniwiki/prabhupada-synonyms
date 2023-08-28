@@ -1,5 +1,11 @@
-~~Title:purāṇeha~~
-{{description>in the Upapurāṇas.}}
+---json
+{
+    "name":"purāṇeha",
+    "h1":"purāṇeha",
+    "title":"purāṇeha --- synonyms, prabhupada.io",
+    "description":"in the Upapurāṇas."
+}
+---
 
 ==== upa-purāṇeha  ====
   * in the //Upapurāṇas// --- [[books:cc:adi:3:82|Ādi 3.82]]

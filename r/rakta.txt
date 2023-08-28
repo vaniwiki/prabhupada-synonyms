@@ -1,5 +1,11 @@
-~~Title:rakta~~
-{{description>blood; red; reddish.}}
+---json
+{
+    "name":"rakta",
+    "h1":"rakta",
+    "title":"rakta --- synonyms, prabhupada.io",
+    "description":"blood; red; reddish."
+}
+---
 
 ==== rakta  ====
   * blood --- [[books:cc:antya:4:153|Antya 4.153]]

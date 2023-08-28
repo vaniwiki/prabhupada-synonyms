@@ -1,5 +1,11 @@
-~~Title:mekhalam~~
-{{description>belt; bound.}}
+---json
+{
+    "name":"mekhalam",
+    "h1":"mekhalam",
+    "title":"mekhalam --- synonyms, prabhupada.io",
+    "description":"belt; bound."
+}
+---
 
 ==== mekhalam  ====
   * belt --- [[books:sb:4:24:47-48|SB 4.24.47-48]], [[books:sb:4:24:51|SB 4.24.51]]

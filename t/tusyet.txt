@@ -1,5 +1,11 @@
-~~Title:tuṣyet~~
-{{description>be satisfied; is satisfied; must be pleased.}}
+---json
+{
+    "name":"tuṣyet",
+    "h1":"tuṣyet",
+    "title":"tuṣyet --- synonyms, prabhupada.io",
+    "description":"be satisfied; is satisfied; must be pleased."
+}
+---
 
 ==== tuṣyet  ====
   * be satisfied --- [[books:sb:4:7:15|SB 4.7.15]]

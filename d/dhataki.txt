@@ -1,5 +1,11 @@
-~~Title:dhātaki~~
-{{description>and Dhātaki.}}
+---json
+{
+    "name":"dhātaki",
+    "h1":"dhātaki",
+    "title":"dhātaki --- synonyms, prabhupada.io",
+    "description":"and Dhātaki."
+}
+---
 
 ==== dhātaki  ====
   * and Dhātaki --- [[books:sb:5:20:31|SB 5.20.31]]

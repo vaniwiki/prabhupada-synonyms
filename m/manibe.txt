@@ -1,5 +1,11 @@
-~~Title:mānibe~~
-{{description>will feel.}}
+---json
+{
+    "name":"mānibe",
+    "h1":"mānibe",
+    "title":"mānibe --- synonyms, prabhupada.io",
+    "description":"will feel."
+}
+---
 
 ==== mānibe  ====
   * will feel --- [[books:cc:madhya:12:14|Madhya 12.14]]

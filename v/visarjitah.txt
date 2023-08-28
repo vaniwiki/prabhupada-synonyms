@@ -1,5 +1,11 @@
-~~Title:visarjitah~~
-{{description>discharged from that place.}}
+---json
+{
+    "name":"visarjitah",
+    "h1":"visarjitah",
+    "title":"visarjitah --- synonyms, prabhupada.io",
+    "description":"discharged from that place."
+}
+---
 
 ==== visarjitaḥ  ====
   * discharged from that place --- [[books:sb:8:6:39|SB 8.6.39]]

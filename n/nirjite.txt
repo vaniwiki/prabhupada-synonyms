@@ -1,5 +1,11 @@
-~~Title:nirjite~~
-{{description>overcoming.}}
+---json
+{
+    "name":"nirjite",
+    "h1":"nirjite",
+    "title":"nirjite --- synonyms, prabhupada.io",
+    "description":"overcoming."
+}
+---
 
 ==== nirjite  ====
   * overcoming --- [[books:cc:adi:2:62|Ādi 2.62]]

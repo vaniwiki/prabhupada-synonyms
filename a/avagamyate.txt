@@ -1,5 +1,11 @@
-~~Title:avagamyate~~
-{{description>are understood.}}
+---json
+{
+    "name":"avagamyate",
+    "h1":"avagamyate",
+    "title":"avagamyate --- synonyms, prabhupada.io",
+    "description":"are understood."
+}
+---
 
 ==== avagamyate  ====
   * are understood --- [[books:sb:4:29:1|SB 4.29.1]]

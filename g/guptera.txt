@@ -1,5 +1,11 @@
-~~Title:guptera~~
-{{description>of Murāri Gupta.}}
+---json
+{
+    "name":"guptera",
+    "h1":"guptera",
+    "title":"guptera --- synonyms, prabhupada.io",
+    "description":"of Murāri Gupta."
+}
+---
 
 ==== murāri-guptera  ====
   * of Murāri Gupta --- [[books:cc:antya:10:121|Antya 10.121]]

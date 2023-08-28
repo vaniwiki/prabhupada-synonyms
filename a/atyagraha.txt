@@ -1,5 +1,11 @@
-~~Title:atyāgraha~~
-{{description>strongly urging to accept the invitation.}}
+---json
+{
+    "name":"atyāgraha",
+    "h1":"atyāgraha",
+    "title":"atyāgraha --- synonyms, prabhupada.io",
+    "description":"strongly urging to accept the invitation."
+}
+---
 
 ==== atyāgraha kare  ====
   * strongly urging to accept the invitation --- [[books:cc:adi:7:57|Ādi 7.57]]

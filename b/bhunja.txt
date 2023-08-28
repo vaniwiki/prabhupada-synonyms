@@ -1,5 +1,11 @@
-~~Title:bhuñja'~~
-{{description>enjoy.}}
+---json
+{
+    "name":"bhuñja'",
+    "h1":"bhuñja'",
+    "title":"bhuñja' --- synonyms, prabhupada.io",
+    "description":"enjoy."
+}
+---
 
 ==== bhuñja'  ====
   * enjoy --- [[books:cc:madhya:16:238|Madhya 16.238]]

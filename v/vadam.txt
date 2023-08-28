@@ -1,5 +1,11 @@
-~~Title:vādam~~
-{{description>glorification.}}
+---json
+{
+    "name":"vādam",
+    "h1":"vādam",
+    "title":"vādam --- synonyms, prabhupada.io",
+    "description":"glorification."
+}
+---
 
 ==== guṇa-vādam  ====
   * glorification --- [[books:sb:3:6:37|SB 3.6.37]]

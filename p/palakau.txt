@@ -1,5 +1,11 @@
-~~Title:pālakau~~
-{{description>although They are the maintainers of all living beings throughout the whole universe.}}
+---json
+{
+    "name":"pālakau",
+    "h1":"pālakau",
+    "title":"pālakau --- synonyms, prabhupada.io",
+    "description":"although They are the maintainers of all living beings throughout the whole universe."
+}
+---
 
 ==== sarva-loka-eka-pālakau  ====
   * although They are the maintainers of all living beings throughout the whole universe --- [[books:sb:10:11:45|SB 10.11.45]]

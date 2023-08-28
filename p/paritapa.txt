@@ -1,5 +1,11 @@
-~~Title:paritāpa~~
-{{description>from miserable conditions.}}
+---json
+{
+    "name":"paritāpa",
+    "h1":"paritāpa",
+    "title":"paritāpa --- synonyms, prabhupada.io",
+    "description":"from miserable conditions."
+}
+---
 
 ==== paritāpa  ====
   * from miserable conditions --- [[books:sb:5:6:17|SB 5.6.17]]

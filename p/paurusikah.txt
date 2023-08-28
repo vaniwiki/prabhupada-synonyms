@@ -1,5 +1,11 @@
-~~Title:paurusikah~~
-{{description>the most sincere devotee of Lord Kṛṣṇa.}}
+---json
+{
+    "name":"paurusikah",
+    "h1":"paurusikah",
+    "title":"paurusikah --- synonyms, prabhupada.io",
+    "description":"the most sincere devotee of Lord Kṛṣṇa."
+}
+---
 
 ==== mahā-pauruṣikaḥ  ====
   * the most sincere devotee of Lord Kṛṣṇa --- [[books:sb:2:1:10|SB 2.1.10]]

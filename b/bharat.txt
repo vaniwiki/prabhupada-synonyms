@@ -1,5 +1,11 @@
-~~Title:bharāt~~
-{{description>due to an abundance of bodily luster.}}
+---json
+{
+    "name":"bharāt",
+    "h1":"bharāt",
+    "title":"bharāt --- synonyms, prabhupada.io",
+    "description":"due to an abundance of bodily luster."
+}
+---
 
 ==== dyuti-bharāt  ====
   * due to an abundance of bodily luster --- [[books:cc:adi:3:58|Ādi 3.58]]

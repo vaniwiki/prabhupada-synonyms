@@ -1,5 +1,11 @@
-~~Title:bhramaṇa~~
-{{description>touring; traveling; wandering.}}
+---json
+{
+    "name":"bhramaṇa",
+    "h1":"bhramaṇa",
+    "title":"bhramaṇa --- synonyms, prabhupada.io",
+    "description":"touring; traveling; wandering."
+}
+---
 
 ==== bhramaṇa  ====
   * touring --- [[books:cc:adi:13:36|Ādi 13.36]], [[books:cc:antya:3:149|Antya 3.149]]

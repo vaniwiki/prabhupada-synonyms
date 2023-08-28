@@ -1,5 +1,11 @@
-~~Title:dyāv~~
-{{description>between the upper and lower portions of the universe.}}
+---json
+{
+    "name":"dyāv",
+    "h1":"dyāv",
+    "title":"dyāv --- synonyms, prabhupada.io",
+    "description":"between the upper and lower portions of the universe."
+}
+---
 
 ==== dyāv-ā-pṛthivyoḥ antareṇa  ====
   * between the upper and lower portions of the universe --- [[books:sb:5:22:5|SB 5.22.5]]

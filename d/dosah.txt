@@ -1,5 +1,11 @@
-~~Title:dosah~~
-{{description>a fault; Doṣa; fault; offense personified; there is a fault.}}
+---json
+{
+    "name":"dosah",
+    "h1":"dosah",
+    "title":"dosah --- synonyms, prabhupada.io",
+    "description":"a fault; Doṣa; fault; offense personified; there is a fault."
+}
+---
 
 ==== doṣaḥ  ====
   * a fault --- [[books:sb:5:10:5|SB 5.10.5]]

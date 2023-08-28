@@ -1,5 +1,11 @@
-~~Title:śithilitā~~
-{{description>slackened.}}
+---json
+{
+    "name":"śithilitā",
+    "h1":"śithilitā",
+    "title":"śithilitā --- synonyms, prabhupada.io",
+    "description":"slackened."
+}
+---
 
 ==== śithilitā  ====
   * slackened --- [[books:cc:antya:1:152|Antya 1.152]]

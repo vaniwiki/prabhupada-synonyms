@@ -1,5 +1,11 @@
-~~Title:ākhyānam~~
-{{description>delineation; historical facts; narration; statements; the narration.}}
+---json
+{
+    "name":"ākhyānam",
+    "h1":"ākhyānam",
+    "title":"ākhyānam --- synonyms, prabhupada.io",
+    "description":"delineation; historical facts; narration; statements; the narration."
+}
+---
 
 ==== ākhyānam  ====
   * delineation --- [[books:sb:2:1:9|SB 2.1.9]]

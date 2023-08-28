@@ -1,5 +1,11 @@
-~~Title:uktaiḥ~~
-{{description>as directed in the Vedic literatures.}}
+---json
+{
+    "name":"uktaiḥ",
+    "h1":"uktaiḥ",
+    "title":"uktaiḥ --- synonyms, prabhupada.io",
+    "description":"as directed in the Vedic literatures."
+}
+---
 
 ==== veda-uktaiḥ  ====
   * as directed in the Vedic literatures --- [[books:sb:7:15:67|SB 7.15.67]]

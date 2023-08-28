@@ -1,5 +1,11 @@
-~~Title:aveda~~
-{{description>those who are beyond the jurisdiction of Vedic knowledge.}}
+---json
+{
+    "name":"aveda",
+    "h1":"aveda",
+    "title":"aveda --- synonyms, prabhupada.io",
+    "description":"those who are beyond the jurisdiction of Vedic knowledge."
+}
+---
 
 ==== aveda  ====
   * those who are beyond the jurisdiction of Vedic knowledge --- [[books:sb:8:5:41|SB 8.5.41]]

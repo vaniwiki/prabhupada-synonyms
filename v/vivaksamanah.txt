@@ -1,5 +1,11 @@
-~~Title:vivakṣamāṇaḥ~~
-{{description>while reciting.}}
+---json
+{
+    "name":"vivakṣamāṇaḥ",
+    "h1":"vivakṣamāṇaḥ",
+    "title":"vivakṣamāṇaḥ --- synonyms, prabhupada.io",
+    "description":"while reciting."
+}
+---
 
 ==== vivakṣamāṇaḥ  ====
   * while reciting --- [[books:sb:3:8:8|SB 3.8.8]]

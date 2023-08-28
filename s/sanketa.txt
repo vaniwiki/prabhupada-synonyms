@@ -1,5 +1,11 @@
-~~Title:sanketa~~
-{{description>indication.}}
+---json
+{
+    "name":"sanketa",
+    "h1":"sanketa",
+    "title":"sanketa --- synonyms, prabhupada.io",
+    "description":"indication."
+}
+---
 
 ==== saṅketa  ====
   * indication --- [[books:cc:adi:17:282|Ādi 17.282]], [[books:cc:madhya:12:113|Madhya 12.113]]

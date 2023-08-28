@@ -1,5 +1,11 @@
-~~Title:śubhera~~
-{{description>the cause of all good fortune.}}
+---json
+{
+    "name":"śubhera",
+    "h1":"śubhera",
+    "title":"śubhera --- synonyms, prabhupada.io",
+    "description":"the cause of all good fortune."
+}
+---
 
 ==== śubhera kāraṇa  ====
   * the cause of all good fortune --- [[books:cc:antya:20:150|Antya 20.150]]

@@ -1,5 +1,11 @@
-~~Title:samprāptau~~
-{{description>approached.}}
+---json
+{
+    "name":"samprāptau",
+    "h1":"samprāptau",
+    "title":"samprāptau --- synonyms, prabhupada.io",
+    "description":"approached."
+}
+---
 
 ==== samprāptau  ====
   * approached --- [[books:sb:4:12:24|SB 4.12.24]]

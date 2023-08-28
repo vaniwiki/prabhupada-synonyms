@@ -1,5 +1,11 @@
-~~Title:sragvi~~
-{{description>decorated with a flower garland; decorated with garlands of flowers; garlanded with flowers; wearing a flower garland.}}
+---json
+{
+    "name":"sragvi",
+    "h1":"sragvi",
+    "title":"sragvi --- synonyms, prabhupada.io",
+    "description":"decorated with a flower garland; decorated with garlands of flowers; garlanded with flowers; wearing a flower garland."
+}
+---
 
 ==== sragvī  ====
   * decorated with a flower garland --- [[books:cc:adi:5:214|Ādi 5.214]], [[books:cc:madhya:8:140|Madhya 8.140]]

@@ -1,5 +1,11 @@
-~~Title:vyapasrayah~~
-{{description>protection.}}
+---json
+{
+    "name":"vyapasrayah",
+    "h1":"vyapasrayah",
+    "title":"vyapasrayah --- synonyms, prabhupada.io",
+    "description":"protection."
+}
+---
 
 ==== vyapāśrayah  ====
   * protection --- [[books:bg:18:56|Bg. 18.56]]

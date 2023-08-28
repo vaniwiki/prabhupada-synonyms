@@ -1,5 +1,11 @@
-~~Title:ut~~
-{{description>from a long distance.}}
+---json
+{
+    "name":"ut",
+    "h1":"ut",
+    "title":"ut --- synonyms, prabhupada.io",
+    "description":"from a long distance."
+}
+---
 
 ==== ut  ====
   * from a long distance --- [[books:sb:4:7:44|SB 4.7.44]]

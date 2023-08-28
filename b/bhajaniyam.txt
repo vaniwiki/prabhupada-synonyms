@@ -1,5 +1,11 @@
-~~Title:bhajanīyam~~
-{{description>worshipable; worthy of worship.}}
+---json
+{
+    "name":"bhajanīyam",
+    "h1":"bhajanīyam",
+    "title":"bhajanīyam --- synonyms, prabhupada.io",
+    "description":"worshipable; worthy of worship."
+}
+---
 
 ==== bhajanīyam  ====
   * worshipable --- [[books:sb:1:19:38|SB 1.19.38]]

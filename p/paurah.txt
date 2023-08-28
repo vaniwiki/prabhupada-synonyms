@@ -1,5 +1,11 @@
-~~Title:paurah~~
-{{description>all the inhabitants of the house; inmates of the palace; the citizens; the inhabitants of the neighborhood.}}
+---json
+{
+    "name":"paurah",
+    "h1":"paurah",
+    "title":"paurah --- synonyms, prabhupada.io",
+    "description":"all the inhabitants of the house; inmates of the palace; the citizens; the inhabitants of the neighborhood."
+}
+---
 
 ==== paurāḥ  ====
   * all the inhabitants of the house --- [[books:sb:10:2:15|SB 10.2.15]]

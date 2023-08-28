@@ -1,5 +1,11 @@
-~~Title:śikhila~~
-{{description>learned.}}
+---json
+{
+    "name":"śikhila",
+    "h1":"śikhila",
+    "title":"śikhila --- synonyms, prabhupada.io",
+    "description":"learned."
+}
+---
 
 ==== śikhila  ====
   * learned --- [[books:cc:adi:14:94|Ādi 14.94]]

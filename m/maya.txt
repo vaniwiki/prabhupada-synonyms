@@ -1,5 +1,11 @@
-~~Title:maya~~
-{{description>consisting of; made of; O Maya.}}
+---json
+{
+    "name":"maya",
+    "h1":"maya",
+    "title":"maya --- synonyms, prabhupada.io",
+    "description":"consisting of; made of; O Maya."
+}
+---
 
 ==== maya  ====
   * consisting of --- [[books:cc:adi:4:72|Ādi 4.72]], [[books:cc:madhya:8:163|Madhya 8.163]]

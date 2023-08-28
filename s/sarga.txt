@@ -1,5 +1,11 @@
-~~Title:sarga~~
-{{description>at the time of creation; creation; generating; generation; of creation; which brings forth creation.}}
+---json
+{
+    "name":"sarga",
+    "h1":"sarga",
+    "title":"sarga --- synonyms, prabhupada.io",
+    "description":"at the time of creation; creation; generating; generation; of creation; which brings forth creation."
+}
+---
 
 ==== sarga  ====
   * at the time of creation --- [[books:sb:1:6:24|SB 1.6.24]]

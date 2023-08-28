@@ -1,5 +1,11 @@
-~~Title:ruhāṇi~~
-{{description>hairs on the body.}}
+---json
+{
+    "name":"ruhāṇi",
+    "h1":"ruhāṇi",
+    "title":"ruhāṇi --- synonyms, prabhupada.io",
+    "description":"hairs on the body."
+}
+---
 
 ==== tanū-ruhāṇi  ====
   * hairs on the body --- [[books:sb:2:1:33|SB 2.1.33]]

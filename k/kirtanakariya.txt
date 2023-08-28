@@ -1,5 +1,11 @@
-~~Title:kīrtanakariyā~~
-{{description>chanting the holy name.}}
+---json
+{
+    "name":"kīrtanakariyā",
+    "h1":"kīrtanakariyā",
+    "title":"kīrtanakariyā --- synonyms, prabhupada.io",
+    "description":"chanting the holy name."
+}
+---
 
 ==== kīrtanakariyā  ====
   * chanting the holy name --- [[books:cc:adi:3:75|Ādi 3.75]]

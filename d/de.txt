@@ -1,5 +1,11 @@
-~~Title:de~~
-{{description>who gives Himself without hesitation.}}
+---json
+{
+    "name":"de",
+    "h1":"de",
+    "title":"de --- synonyms, prabhupada.io",
+    "description":"who gives Himself without hesitation."
+}
+---
 
 ==== ātma-de  ====
   * who gives Himself without hesitation --- [[books:sb:5:24:21|SB 5.24.21]]

@@ -1,5 +1,11 @@
-~~Title:animittena~~
-{{description>without attachment to the result.}}
+---json
+{
+    "name":"animittena",
+    "h1":"animittena",
+    "title":"animittena --- synonyms, prabhupada.io",
+    "description":"without attachment to the result."
+}
+---
 
 ==== animittena  ====
   * without attachment to the result --- [[books:sb:3:29:15|SB 3.29.15]]

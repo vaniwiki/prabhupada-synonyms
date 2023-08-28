@@ -1,5 +1,11 @@
-~~Title:anyāni~~
-{{description>different; others; the others.}}
+---json
+{
+    "name":"anyāni",
+    "h1":"anyāni",
+    "title":"anyāni --- synonyms, prabhupada.io",
+    "description":"different; others; the others."
+}
+---
 
 ==== anyāni  ====
   * different --- [[books:bg:2:22|Bg. 2.22]]

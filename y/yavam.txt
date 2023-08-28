@@ -1,5 +1,11 @@
-~~Title:yavam~~
-{{description>barley.}}
+---json
+{
+    "name":"yavam",
+    "h1":"yavam",
+    "title":"yavam --- synonyms, prabhupada.io",
+    "description":"barley."
+}
+---
 
 ==== yavam  ====
   * barley --- [[books:sb:9:19:13|SB 9.19.13]]

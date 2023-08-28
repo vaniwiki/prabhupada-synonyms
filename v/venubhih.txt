@@ -1,5 +1,11 @@
-~~Title:veṇubhiḥ~~
-{{description>by flutes; with flutes.}}
+---json
+{
+    "name":"veṇubhiḥ",
+    "h1":"veṇubhiḥ",
+    "title":"veṇubhiḥ --- synonyms, prabhupada.io",
+    "description":"by flutes; with flutes."
+}
+---
 
 ==== veṇubhiḥ  ====
   * by flutes --- [[books:sb:4:9:39-40|SB 4.9.39-40]]

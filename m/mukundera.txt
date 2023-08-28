@@ -1,5 +1,11 @@
-~~Title:mukundera~~
-{{description>of Mukunda Datta.}}
+---json
+{
+    "name":"mukundera",
+    "h1":"mukundera",
+    "title":"mukundera --- synonyms, prabhupada.io",
+    "description":"of Mukunda Datta."
+}
+---
 
 ==== mukundera  ====
   * of Mukunda Datta --- [[books:cc:madhya:6:113|Madhya 6.113]]

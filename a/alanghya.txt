@@ -1,5 +1,11 @@
-~~Title:alaṅghya~~
-{{description>whose order is never neglected.}}
+---json
+{
+    "name":"alaṅghya",
+    "h1":"alaṅghya",
+    "title":"alaṅghya --- synonyms, prabhupada.io",
+    "description":"whose order is never neglected."
+}
+---
 
 ==== alaṅghya-śāsanam  ====
   * whose order is never neglected --- [[books:sb:4:4:14|SB 4.4.14]]

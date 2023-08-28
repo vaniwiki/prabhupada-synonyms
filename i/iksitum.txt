@@ -1,5 +1,11 @@
-~~Title:īkṣitum~~
-{{description>to see.}}
+---json
+{
+    "name":"īkṣitum",
+    "h1":"īkṣitum",
+    "title":"īkṣitum --- synonyms, prabhupada.io",
+    "description":"to see."
+}
+---
 
 ==== īkṣitum  ====
   * to see --- [[books:sb:3:15:9|SB 3.15.9]]

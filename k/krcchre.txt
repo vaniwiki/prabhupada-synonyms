@@ -1,5 +1,11 @@
-~~Title:kṛcchre~~
-{{description>life being put in danger.}}
+---json
+{
+    "name":"kṛcchre",
+    "h1":"kṛcchre",
+    "title":"kṛcchre --- synonyms, prabhupada.io",
+    "description":"life being put in danger."
+}
+---
 
 ==== prāṇa-kṛcchre  ====
   * life being put in danger --- [[books:sb:1:7:20|SB 1.7.20]]

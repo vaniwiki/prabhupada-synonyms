@@ -1,5 +1,11 @@
-~~Title:vijye~~
-{{description>without strings.}}
+---json
+{
+    "name":"vijye",
+    "h1":"vijye",
+    "title":"vijye --- synonyms, prabhupada.io",
+    "description":"without strings."
+}
+---
 
 ==== vijye  ====
   * without strings --- [[books:sb:5:2:7|SB 5.2.7]]

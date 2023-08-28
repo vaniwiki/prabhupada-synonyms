@@ -1,5 +1,11 @@
-~~Title:aupadharmyam~~
-{{description>subreligious principles.}}
+---json
+{
+    "name":"aupadharmyam",
+    "h1":"aupadharmyam",
+    "title":"aupadharmyam --- synonyms, prabhupada.io",
+    "description":"subreligious principles."
+}
+---
 
 ==== aupadharmyam  ====
   * subreligious principles --- [[books:sb:2:7:37|SB 2.7.37]]

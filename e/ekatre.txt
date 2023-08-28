@@ -1,5 +1,11 @@
-~~Title:ekatre~~
-{{description>together.}}
+---json
+{
+    "name":"ekatre",
+    "h1":"ekatre",
+    "title":"ekatre --- synonyms, prabhupada.io",
+    "description":"together."
+}
+---
 
 ==== ekatre  ====
   * together --- [[books:cc:madhya:12:195|Madhya 12.195]]

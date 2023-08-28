@@ -1,5 +1,11 @@
-~~Title:vayunāni~~
-{{description>actions.}}
+---json
+{
+    "name":"vayunāni",
+    "h1":"vayunāni",
+    "title":"vayunāni --- synonyms, prabhupada.io",
+    "description":"actions."
+}
+---
 
 ==== vayunāni  ====
   * actions --- [[books:iso:18|Īśo 18]]

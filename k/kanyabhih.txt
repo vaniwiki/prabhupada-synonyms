@@ -1,5 +1,11 @@
-~~Title:kanyābhiḥ~~
-{{description>by the maids.}}
+---json
+{
+    "name":"kanyābhiḥ",
+    "h1":"kanyābhiḥ",
+    "title":"kanyābhiḥ --- synonyms, prabhupada.io",
+    "description":"by the maids."
+}
+---
 
 ==== kanyābhiḥ  ====
   * by the maids --- [[books:sb:3:23:30|SB 3.23.30]]

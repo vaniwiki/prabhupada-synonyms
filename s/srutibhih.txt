@@ -1,5 +1,11 @@
-~~Title:srutibhih~~
-{{description>by particles.}}
+---json
+{
+    "name":"srutibhih",
+    "h1":"srutibhih",
+    "title":"srutibhih --- synonyms, prabhupada.io",
+    "description":"by particles."
+}
+---
 
 ==== srutibhiḥ  ====
   * by particles --- [[books:sb:8:10:38|SB 8.10.38]]

@@ -1,5 +1,11 @@
-~~Title:śalyakān~~
-{{description>porcupines.}}
+---json
+{
+    "name":"śalyakān",
+    "h1":"śalyakān",
+    "title":"śalyakān --- synonyms, prabhupada.io",
+    "description":"porcupines."
+}
+---
 
 ==== śalyakān  ====
   * porcupines --- [[books:sb:4:26:10|SB 4.26.10]]

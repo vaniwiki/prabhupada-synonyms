@@ -1,5 +1,11 @@
-~~Title:guḥ~~
-{{description>making the entire planet tremble.}}
+---json
+{
+    "name":"guḥ",
+    "h1":"guḥ",
+    "title":"guḥ --- synonyms, prabhupada.io",
+    "description":"making the entire planet tremble."
+}
+---
 
 ==== calat-guḥ  ====
   * making the entire planet tremble --- [[books:cc:madhya:16:145|Madhya 16.145]]

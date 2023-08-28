@@ -1,5 +1,11 @@
-~~Title:utaṅka~~
-{{description>Utaṅka.}}
+---json
+{
+    "name":"utaṅka",
+    "h1":"utaṅka",
+    "title":"utaṅka --- synonyms, prabhupada.io",
+    "description":"Utaṅka."
+}
+---
 
 ==== utaṅka  ====
   * Utaṅka --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

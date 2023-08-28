@@ -1,5 +1,11 @@
-~~Title:lobhī~~
-{{description>greedy.}}
+---json
+{
+    "name":"lobhī",
+    "h1":"lobhī",
+    "title":"lobhī --- synonyms, prabhupada.io",
+    "description":"greedy."
+}
+---
 
 ==== lobhī  ====
   * greedy --- [[books:cc:madhya:19:16|Madhya 19.16]]

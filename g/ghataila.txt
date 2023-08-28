@@ -1,5 +1,11 @@
-~~Title:ghataila~~
-{{description>reduced.}}
+---json
+{
+    "name":"ghataila",
+    "h1":"ghataila",
+    "title":"ghataila --- synonyms, prabhupada.io",
+    "description":"reduced."
+}
+---
 
 ==== ghāṭāila  ====
   * reduced --- [[books:cc:madhya:15:192|Madhya 15.192]]

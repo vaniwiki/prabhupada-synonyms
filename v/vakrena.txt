@@ -1,5 +1,11 @@
-~~Title:vakreṇa~~
-{{description>with a curve.}}
+---json
+{
+    "name":"vakreṇa",
+    "h1":"vakreṇa",
+    "title":"vakreṇa --- synonyms, prabhupada.io",
+    "description":"with a curve."
+}
+---
 
 ==== vakreṇa  ====
   * with a curve --- [[books:sb:5:22:14|SB 5.22.14]]

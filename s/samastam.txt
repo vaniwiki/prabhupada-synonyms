@@ -1,5 +1,11 @@
-~~Title:samastam~~
-{{description>everything; in total.}}
+---json
+{
+    "name":"samastam",
+    "h1":"samastam",
+    "title":"samastam --- synonyms, prabhupada.io",
+    "description":"everything; in total."
+}
+---
 
 ==== samastam  ====
   * everything --- [[books:sb:6:16:46|SB 6.16.46]]

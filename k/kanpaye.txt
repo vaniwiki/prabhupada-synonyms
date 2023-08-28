@@ -1,5 +1,11 @@
-~~Title:kāṅpaye~~
-{{description>trembles.}}
+---json
+{
+    "name":"kāṅpaye",
+    "h1":"kāṅpaye",
+    "title":"kāṅpaye --- synonyms, prabhupada.io",
+    "description":"trembles."
+}
+---
 
 ==== kāṅpaye  ====
   * trembles --- [[books:cc:madhya:2:90|Madhya 2.90]]

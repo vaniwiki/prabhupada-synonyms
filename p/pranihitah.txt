@@ -1,5 +1,11 @@
-~~Title:praṇihitaḥ~~
-{{description>prescribed.}}
+---json
+{
+    "name":"praṇihitaḥ",
+    "h1":"praṇihitaḥ",
+    "title":"praṇihitaḥ --- synonyms, prabhupada.io",
+    "description":"prescribed."
+}
+---
 
 ==== praṇihitaḥ  ====
   * prescribed --- [[books:sb:6:1:40|SB 6.1.40]]

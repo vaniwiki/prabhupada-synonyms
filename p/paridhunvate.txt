@@ -1,5 +1,11 @@
-~~Title:paridhunvate~~
-{{description>shaking.}}
+---json
+{
+    "name":"paridhunvate",
+    "h1":"paridhunvate",
+    "title":"paridhunvate --- synonyms, prabhupada.io",
+    "description":"shaking."
+}
+---
 
 ==== paridhunvate  ====
   * shaking --- [[books:sb:3:13:34|SB 3.13.34]]

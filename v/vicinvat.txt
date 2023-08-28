@@ -1,5 +1,11 @@
-~~Title:vicinvat~~
-{{description>searching.}}
+---json
+{
+    "name":"vicinvat",
+    "h1":"vicinvat",
+    "title":"vicinvat --- synonyms, prabhupada.io",
+    "description":"searching."
+}
+---
 
 ==== vicinvat  ====
   * searching --- [[books:sb:10:13:61|SB 10.13.61]]

@@ -1,5 +1,11 @@
-~~Title:viṣṇura~~
-{{description>of Lord Viṣṇu.}}
+---json
+{
+    "name":"viṣṇura",
+    "h1":"viṣṇura",
+    "title":"viṣṇura --- synonyms, prabhupada.io",
+    "description":"of Lord Viṣṇu."
+}
+---
 
 ==== viṣṇura  ====
   * of Lord Viṣṇu --- [[books:cc:adi:8:8|Ādi 8.8]], [[books:cc:adi:10:71|Ādi 10.71]], [[books:cc:adi:13:73|Ādi 13.73]], [[books:cc:madhya:6:94|Madhya 6.94]], [[books:cc:madhya:6:98|Madhya 6.98]]

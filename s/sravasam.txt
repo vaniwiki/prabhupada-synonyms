@@ -1,5 +1,11 @@
-~~Title:śravasam~~
-{{description>whose fame.}}
+---json
+{
+    "name":"śravasam",
+    "h1":"śravasam",
+    "title":"śravasam --- synonyms, prabhupada.io",
+    "description":"whose fame."
+}
+---
 
 ==== uru-śravasam  ====
   * whose fame --- [[books:sb:4:9:5|SB 4.9.5]]

@@ -1,5 +1,11 @@
-~~Title:sañjanayām~~
-{{description>begot.}}
+---json
+{
+    "name":"sañjanayām",
+    "h1":"sañjanayām",
+    "title":"sañjanayām --- synonyms, prabhupada.io",
+    "description":"begot."
+}
+---
 
 ==== sañjanayām āsa  ====
   * begot --- [[books:sb:6:6:1|SB 6.6.1]]

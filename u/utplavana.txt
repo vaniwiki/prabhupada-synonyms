@@ -1,5 +1,11 @@
-~~Title:utplavana~~
-{{description>by jumping here and there, etc.}}
+---json
+{
+    "name":"utplavana",
+    "h1":"utplavana",
+    "title":"utplavana --- synonyms, prabhupada.io",
+    "description":"by jumping here and there, etc."
+}
+---
 
 ==== utplavana-ādibhiḥ  ====
   * by jumping here and there, etc --- [[books:sb:10:11:59|SB 10.11.59]]

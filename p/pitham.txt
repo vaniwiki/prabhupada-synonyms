@@ -1,5 +1,11 @@
-~~Title:pitham~~
-{{description>to the seat.}}
+---json
+{
+    "name":"pitham",
+    "h1":"pitham",
+    "title":"pitham --- synonyms, prabhupada.io",
+    "description":"to the seat."
+}
+---
 
 ==== pīṭham  ====
   * to the seat --- [[books:sb:3:24:32|SB 3.24.32]]

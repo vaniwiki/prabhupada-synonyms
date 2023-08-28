@@ -1,5 +1,11 @@
-~~Title:veṣau~~
-{{description>garments.}}
+---json
+{
+    "name":"veṣau",
+    "h1":"veṣau",
+    "title":"veṣau --- synonyms, prabhupada.io",
+    "description":"garments."
+}
+---
 
 ==== veṣau  ====
   * garments --- [[books:sb:3:15:27|SB 3.15.27]]

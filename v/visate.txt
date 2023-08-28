@@ -1,5 +1,11 @@
-~~Title:viśate~~
-{{description>becomes manifest; can enter; enters.}}
+---json
+{
+    "name":"viśate",
+    "h1":"viśate",
+    "title":"viśate --- synonyms, prabhupada.io",
+    "description":"becomes manifest; can enter; enters."
+}
+---
 
 ==== viśate  ====
   * becomes manifest --- [[books:sb:2:8:4|SB 2.8.4]]

@@ -1,5 +1,11 @@
-~~Title:dhānyera~~
-{{description>of rice of a fine quality.}}
+---json
+{
+    "name":"dhānyera",
+    "h1":"dhānyera",
+    "title":"dhānyera --- synonyms, prabhupada.io",
+    "description":"of rice of a fine quality."
+}
+---
 
 ==== śāli-dhānyera  ====
   * of rice of a fine quality --- [[books:cc:antya:10:29-30|Antya 10.29-30]]

@@ -1,5 +1,11 @@
-~~Title:gajānām~~
-{{description>of elephants.}}
+---json
+{
+    "name":"gajānām",
+    "h1":"gajānām",
+    "title":"gajānām --- synonyms, prabhupada.io",
+    "description":"of elephants."
+}
+---
 
 ==== gajānām  ====
   * of elephants --- [[books:sb:10:1:31-32|SB 10.1.31-32]]

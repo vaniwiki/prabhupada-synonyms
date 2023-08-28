@@ -1,5 +1,11 @@
-~~Title:gāyamānaḥ~~
-{{description>singing constantly.}}
+---json
+{
+    "name":"gāyamānaḥ",
+    "h1":"gāyamānaḥ",
+    "title":"gāyamānaḥ --- synonyms, prabhupada.io",
+    "description":"singing constantly."
+}
+---
 
 ==== gāyamānaḥ  ====
   * singing constantly --- [[books:sb:1:6:32|SB 1.6.32]]

@@ -1,5 +1,11 @@
-~~Title:kahi~~
-{{description>I accept; I am speaking; I describe; I discuss; I express; I mention; I relate; I say; I shall describe; I shall explain; I shall mention; I shall speak; I speak; I tell; if I say; let me describe; let me explain; let Me inform; let Me say; say; speak; speaking; we call; we say; we speak.}}
+---json
+{
+    "name":"kahi",
+    "h1":"kahi",
+    "title":"kahi --- synonyms, prabhupada.io",
+    "description":"I accept; I am speaking; I describe; I discuss; I express; I mention; I relate; I say; I shall describe; I shall explain; I shall mention; I shall speak; I speak; I tell; if I say; let me describe; let me explain; let Me inform; let Me say; say; speak; speaking; we call; we say; we speak."
+}
+---
 
 ==== kahi  ====
   * I accept --- [[books:cc:madhya:6:273|Madhya 6.273]]

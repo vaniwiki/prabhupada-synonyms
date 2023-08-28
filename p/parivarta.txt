@@ -1,5 +1,11 @@
-~~Title:parivarta~~
-{{description>rolling the hill.}}
+---json
+{
+    "name":"parivarta",
+    "h1":"parivarta",
+    "title":"parivarta --- synonyms, prabhupada.io",
+    "description":"rolling the hill."
+}
+---
 
 ==== adri-parivarta  ====
   * rolling the hill --- [[books:sb:2:7:13|SB 2.7.13]]

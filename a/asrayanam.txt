@@ -1,5 +1,11 @@
-~~Title:asrayanam~~
-{{description>shelter of the surrendered.}}
+---json
+{
+    "name":"asrayanam",
+    "h1":"asrayanam",
+    "title":"asrayanam --- synonyms, prabhupada.io",
+    "description":"shelter of the surrendered."
+}
+---
 
 ==== āśrayaṇam  ====
   * shelter of the surrendered --- [[books:sb:4:8:46|SB 4.8.46]]

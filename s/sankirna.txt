@@ -1,5 +1,11 @@
-~~Title:saṅkīrṇa~~
-{{description>very narrow place.}}
+---json
+{
+    "name":"saṅkīrṇa",
+    "h1":"saṅkīrṇa",
+    "title":"saṅkīrṇa --- synonyms, prabhupada.io",
+    "description":"very narrow place."
+}
+---
 
 ==== saṅkīrṇa-sthala  ====
   * very narrow place --- [[books:cc:antya:3:153|Antya 3.153]]

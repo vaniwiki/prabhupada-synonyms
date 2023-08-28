@@ -1,5 +1,11 @@
-~~Title:kravyādāḥ~~
-{{description>named kravyāda.}}
+---json
+{
+    "name":"kravyādāḥ",
+    "h1":"kravyādāḥ",
+    "title":"kravyādāḥ --- synonyms, prabhupada.io",
+    "description":"named kravyāda."
+}
+---
 
 ==== kravyādāḥ nāma  ====
   * named //kravyāda// --- [[books:sb:5:26:12|SB 5.26.12]]

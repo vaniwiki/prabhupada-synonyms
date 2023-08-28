@@ -1,5 +1,11 @@
-~~Title:karṇikā~~
-{{description>on the surface of the whorl.}}
+---json
+{
+    "name":"karṇikā",
+    "h1":"karṇikā",
+    "title":"karṇikā --- synonyms, prabhupada.io",
+    "description":"on the surface of the whorl."
+}
+---
 
 ==== karṇikā-ālaye  ====
   * on the surface of the whorl --- [[books:sb:2:2:10|SB 2.2.10]]

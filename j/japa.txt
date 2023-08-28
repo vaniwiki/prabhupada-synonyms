@@ -1,5 +1,11 @@
-~~Title:japa~~
-{{description>chant; chanting; chanting or reciting mantras; chanting softly; murmuring.}}
+---json
+{
+    "name":"japa",
+    "h1":"japa",
+    "title":"japa --- synonyms, prabhupada.io",
+    "description":"chant; chanting; chanting or reciting mantras; chanting softly; murmuring."
+}
+---
 
 ==== japa  ====
   * chant --- [[books:cc:adi:7:72|Ādi 7.72]]

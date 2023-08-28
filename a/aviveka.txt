@@ -1,5 +1,11 @@
-~~Title:aviveka~~
-{{description>from ignorance.}}
+---json
+{
+    "name":"aviveka",
+    "h1":"aviveka",
+    "title":"aviveka --- synonyms, prabhupada.io",
+    "description":"from ignorance."
+}
+---
 
 ==== aviveka  ====
   * from ignorance --- [[books:sb:6:15:8|SB 6.15.8]]

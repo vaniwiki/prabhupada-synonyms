@@ -1,5 +1,11 @@
-~~Title:udyāne~~
-{{description>in a garden; in the garden; the garden; to a garden; to the garden.}}
+---json
+{
+    "name":"udyāne",
+    "h1":"udyāne",
+    "title":"udyāne --- synonyms, prabhupada.io",
+    "description":"in a garden; in the garden; the garden; to a garden; to the garden."
+}
+---
 
 ==== udyāne  ====
   * in a garden --- [[books:cc:antya:18:35|Antya 18.35]]

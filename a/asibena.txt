@@ -1,5 +1,11 @@
-~~Title:āsibena~~
-{{description>will come.}}
+---json
+{
+    "name":"āsibena",
+    "h1":"āsibena",
+    "title":"āsibena --- synonyms, prabhupada.io",
+    "description":"will come."
+}
+---
 
 ==== āsibena  ====
   * will come --- [[books:cc:madhya:10:134|Madhya 10.134]], [[books:cc:madhya:15:198|Madhya 15.198]], [[books:cc:antya:2:55|Antya 2.55]]

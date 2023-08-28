@@ -1,5 +1,11 @@
-~~Title:sambarilā~~
-{{description>checked.}}
+---json
+{
+    "name":"sambarilā",
+    "h1":"sambarilā",
+    "title":"sambarilā --- synonyms, prabhupada.io",
+    "description":"checked."
+}
+---
 
 ==== sambarilā  ====
   * checked --- [[books:cc:madhya:3:120|Madhya 3.120]]

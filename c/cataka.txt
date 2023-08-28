@@ -1,5 +1,11 @@
-~~Title:cataka~~
-{{description>named Caṭaka.}}
+---json
+{
+    "name":"cataka",
+    "h1":"cataka",
+    "title":"cataka --- synonyms, prabhupada.io",
+    "description":"named Caṭaka."
+}
+---
 
 ==== caṭaka  ====
   * named Caṭaka --- [[books:cc:antya:14:120|Antya 14.120]]

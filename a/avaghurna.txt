@@ -1,5 +1,11 @@
-~~Title:avaghūrṇa~~
-{{description>because of movement.}}
+---json
+{
+    "name":"avaghūrṇa",
+    "h1":"avaghūrṇa",
+    "title":"avaghūrṇa --- synonyms, prabhupada.io",
+    "description":"because of movement."
+}
+---
 
 ==== avaghūrṇa  ====
   * because of movement --- [[books:sb:3:8:17|SB 3.8.17]]

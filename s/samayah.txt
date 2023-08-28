@@ -1,5 +1,11 @@
-~~Title:samayaḥ~~
-{{description>promise.}}
+---json
+{
+    "name":"samayaḥ",
+    "h1":"samayaḥ",
+    "title":"samayaḥ --- synonyms, prabhupada.io",
+    "description":"promise."
+}
+---
 
 ==== samayaḥ  ====
   * promise --- [[books:sb:3:23:10|SB 3.23.10]]

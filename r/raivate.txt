@@ -1,5 +1,11 @@
-~~Title:raivate~~
-{{description>in the Raivata-manvantara.}}
+---json
+{
+    "name":"raivate",
+    "h1":"raivate",
+    "title":"raivate --- synonyms, prabhupada.io",
+    "description":"in the Raivata-manvantara."
+}
+---
 
 ==== raivate  ====
   * in the Raivata-manvantara --- [[books:cc:madhya:20:326|Madhya 20.326]]

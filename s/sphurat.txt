@@ -1,5 +1,11 @@
-~~Title:sphurat~~
-{{description>appearing beautiful; beautiful; blazing; brilliant; flashing; glittering; glowing; shiny.}}
+---json
+{
+    "name":"sphurat",
+    "h1":"sphurat",
+    "title":"sphurat --- synonyms, prabhupada.io",
+    "description":"appearing beautiful; beautiful; blazing; brilliant; flashing; glittering; glowing; shiny."
+}
+---
 
 ==== sphurat  ====
   * appearing beautiful --- [[books:cc:antya:15:63|Antya 15.63]]

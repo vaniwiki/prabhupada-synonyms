@@ -1,5 +1,11 @@
-~~Title:kamaṇḍalūn~~
-{{description>and a waterpot known as a kamaṇḍalu.}}
+---json
+{
+    "name":"kamaṇḍalūn",
+    "h1":"kamaṇḍalūn",
+    "title":"kamaṇḍalūn --- synonyms, prabhupada.io",
+    "description":"and a waterpot known as a kamaṇḍalu."
+}
+---
 
 ==== kamaṇḍalūn  ====
   * and a waterpot known as a //kamaṇḍalu// --- [[books:sb:7:12:4|SB 7.12.4]]

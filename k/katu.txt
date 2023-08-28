@@ -1,5 +1,11 @@
-~~Title:kaṭu~~
-{{description>bitter; pungent.}}
+---json
+{
+    "name":"kaṭu",
+    "h1":"kaṭu",
+    "title":"kaṭu --- synonyms, prabhupada.io",
+    "description":"bitter; pungent."
+}
+---
 
 ==== kaṭu  ====
   * bitter --- [[books:sb:3:31:7|SB 3.31.7]]

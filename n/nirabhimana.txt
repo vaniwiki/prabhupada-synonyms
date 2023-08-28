@@ -1,5 +1,11 @@
-~~Title:nirabhimāna~~
-{{description>without pride.}}
+---json
+{
+    "name":"nirabhimāna",
+    "h1":"nirabhimāna",
+    "title":"nirabhimāna --- synonyms, prabhupada.io",
+    "description":"without pride."
+}
+---
 
 ==== nirabhimāna  ====
   * without pride --- [[books:cc:antya:20:25|Antya 20.25]]

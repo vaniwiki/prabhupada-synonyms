@@ -1,5 +1,11 @@
-~~Title:vyaktayaḥ~~
-{{description>living entities.}}
+---json
+{
+    "name":"vyaktayaḥ",
+    "h1":"vyaktayaḥ",
+    "title":"vyaktayaḥ --- synonyms, prabhupada.io",
+    "description":"living entities."
+}
+---
 
 ==== vyaktayaḥ  ====
   * living entities --- [[books:bg:8:18|Bg. 8.18]]

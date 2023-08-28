@@ -1,5 +1,11 @@
-~~Title:sraddham~~
-{{description>faith; Śraddhā.}}
+---json
+{
+    "name":"sraddham",
+    "h1":"sraddham",
+    "title":"sraddham --- synonyms, prabhupada.io",
+    "description":"faith; Śraddhā."
+}
+---
 
 ==== śraddhām  ====
   * faith --- [[books:bg:7:21|Bg. 7.21]]

@@ -1,5 +1,11 @@
-~~Title:upūrva~~
-{{description>unparalleled.}}
+---json
+{
+    "name":"upūrva",
+    "h1":"upūrva",
+    "title":"upūrva --- synonyms, prabhupada.io",
+    "description":"unparalleled."
+}
+---
 
 ==== upūrva  ====
   * unparalleled --- [[books:cc:antya:10:14|Antya 10.14]]

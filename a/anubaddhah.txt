@@ -1,5 +1,11 @@
-~~Title:anubaddhaḥ~~
-{{description>are bound.}}
+---json
+{
+    "name":"anubaddhaḥ",
+    "h1":"anubaddhaḥ",
+    "title":"anubaddhaḥ --- synonyms, prabhupada.io",
+    "description":"are bound."
+}
+---
 
 ==== anubaddhaḥ  ====
   * are bound --- [[books:sb:3:21:16|SB 3.21.16]]

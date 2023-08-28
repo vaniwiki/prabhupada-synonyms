@@ -1,5 +1,11 @@
-~~Title:ṭuṭi'~~
-{{description>broke.}}
+---json
+{
+    "name":"ṭuṭi'",
+    "h1":"ṭuṭi'",
+    "title":"ṭuṭi' --- synonyms, prabhupada.io",
+    "description":"broke."
+}
+---
 
 ==== ṭuṭi' gela  ====
   * broke --- [[books:cc:madhya:14:246|Madhya 14.246]]

@@ -1,5 +1,11 @@
-~~Title:atikramaḥ~~
-{{description>offense; violation.}}
+---json
+{
+    "name":"atikramaḥ",
+    "h1":"atikramaḥ",
+    "title":"atikramaḥ --- synonyms, prabhupada.io",
+    "description":"offense; violation."
+}
+---
 
 ==== atikramaḥ  ====
   * offense --- [[books:sb:6:18:40|SB 6.18.40]]

@@ -1,5 +1,11 @@
-~~Title:racayati~~
-{{description>He arranges to make.}}
+---json
+{
+    "name":"racayati",
+    "h1":"racayati",
+    "title":"racayati --- synonyms, prabhupada.io",
+    "description":"He arranges to make."
+}
+---
 
 ==== racayati  ====
   * He arranges to make --- [[books:sb:10:8:30|SB 10.8.30]]

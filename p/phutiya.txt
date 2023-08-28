@@ -1,5 +1,11 @@
-~~Title:phuṭiyā~~
-{{description>pricking.}}
+---json
+{
+    "name":"phuṭiyā",
+    "h1":"phuṭiyā",
+    "title":"phuṭiyā --- synonyms, prabhupada.io",
+    "description":"pricking."
+}
+---
 
 ==== phuṭiyā  ====
   * pricking --- [[books:cc:antya:13:81|Antya 13.81]]

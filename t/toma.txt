@@ -1,5 +1,11 @@
-~~Title:toma~~
-{{description>You.}}
+---json
+{
+    "name":"toma",
+    "h1":"toma",
+    "title":"toma --- synonyms, prabhupada.io",
+    "description":"You."
+}
+---
 
 ==== toma  ====
   * You --- [[books:cc:adi:17:147|Ādi 17.147]]

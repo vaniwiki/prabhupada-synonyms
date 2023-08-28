@@ -1,5 +1,11 @@
-~~Title:auttareyeṇa~~
-{{description>by the son of Uttarā.}}
+---json
+{
+    "name":"auttareyeṇa",
+    "h1":"auttareyeṇa",
+    "title":"auttareyeṇa --- synonyms, prabhupada.io",
+    "description":"by the son of Uttarā."
+}
+---
 
 ==== auttareyeṇa  ====
   * by the son of Uttarā --- [[books:sb:1:17:40|SB 1.17.40]]

@@ -1,5 +1,11 @@
-~~Title:māyānām~~
-{{description>the magical forces.}}
+---json
+{
+    "name":"māyānām",
+    "h1":"māyānām",
+    "title":"māyānām --- synonyms, prabhupada.io",
+    "description":"the magical forces."
+}
+---
 
 ==== māyānām  ====
   * the magical forces --- [[books:sb:3:19:22|SB 3.19.22]]

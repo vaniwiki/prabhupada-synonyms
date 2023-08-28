@@ -1,5 +1,11 @@
-~~Title:paricchadau~~
-{{description>dressed very nicely in different ways and equipped with implements.}}
+---json
+{
+    "name":"paricchadau",
+    "h1":"paricchadau",
+    "title":"paricchadau --- synonyms, prabhupada.io",
+    "description":"dressed very nicely in different ways and equipped with implements."
+}
+---
 
 ==== paricchadau  ====
   * dressed very nicely in different ways and equipped with implements --- [[books:sb:10:11:38|SB 10.11.38]]

@@ -1,5 +1,11 @@
-~~Title:nihita~~
-{{description>perfectly taken to.}}
+---json
+{
+    "name":"nihita",
+    "h1":"nihita",
+    "title":"nihita --- synonyms, prabhupada.io",
+    "description":"perfectly taken to."
+}
+---
 
 ==== nihita  ====
   * perfectly taken to --- [[books:sb:5:1:38|SB 5.1.38]]

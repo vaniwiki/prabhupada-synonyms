@@ -1,5 +1,11 @@
-~~Title:vyavasita~~
-{{description>known.}}
+---json
+{
+    "name":"vyavasita",
+    "h1":"vyavasita",
+    "title":"vyavasita --- synonyms, prabhupada.io",
+    "description":"known."
+}
+---
 
 ==== vyavasita  ====
   * known --- [[books:sb:5:1:7|SB 5.1.7]]

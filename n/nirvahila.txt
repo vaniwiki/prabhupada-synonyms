@@ -1,5 +1,11 @@
-~~Title:nirvāhilā~~
-{{description>executed.}}
+---json
+{
+    "name":"nirvāhilā",
+    "h1":"nirvāhilā",
+    "title":"nirvāhilā --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== nirvāhilā  ====
   * executed --- [[books:cc:antya:4:217|Antya 4.217]]

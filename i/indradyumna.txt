@@ -1,5 +1,11 @@
-~~Title:indradyumna~~
-{{description>Indradyumna.}}
+---json
+{
+    "name":"indradyumna",
+    "h1":"indradyumna",
+    "title":"indradyumna --- synonyms, prabhupada.io",
+    "description":"Indradyumna."
+}
+---
 
 ==== indradyumna  ====
   * Indradyumna --- [[books:cc:madhya:14:75|Madhya 14.75]]

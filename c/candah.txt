@@ -1,5 +1,11 @@
-~~Title:caṇḍāḥ~~
-{{description>fierce.}}
+---json
+{
+    "name":"caṇḍāḥ",
+    "h1":"caṇḍāḥ",
+    "title":"caṇḍāḥ --- synonyms, prabhupada.io",
+    "description":"fierce."
+}
+---
 
 ==== caṇḍāḥ  ====
   * fierce --- [[books:sb:3:19:18|SB 3.19.18]]

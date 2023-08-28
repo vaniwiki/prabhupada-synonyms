@@ -1,5 +1,11 @@
-~~Title:vartmasu~~
-{{description>on the path of; on the paths.}}
+---json
+{
+    "name":"vartmasu",
+    "h1":"vartmasu",
+    "title":"vartmasu --- synonyms, prabhupada.io",
+    "description":"on the path of; on the paths."
+}
+---
 
 ==== vartmasu  ====
   * on the path of --- [[books:sb:3:7:20|SB 3.7.20]]

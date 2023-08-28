@@ -1,5 +1,11 @@
-~~Title:kāṅṭhāla~~
-{{description>jackfruit.}}
+---json
+{
+    "name":"kāṅṭhāla",
+    "h1":"kāṅṭhāla",
+    "title":"kāṅṭhāla --- synonyms, prabhupada.io",
+    "description":"jackfruit."
+}
+---
 
 ==== kāṅṭhāla  ====
   * jackfruit --- [[books:cc:madhya:14:26|Madhya 14.26]], [[books:cc:madhya:15:86|Madhya 15.86]]

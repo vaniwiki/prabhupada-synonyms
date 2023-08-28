@@ -1,5 +1,11 @@
-~~Title:nadyoḥ~~
-{{description>of the two rivers.}}
+---json
+{
+    "name":"nadyoḥ",
+    "h1":"nadyoḥ",
+    "title":"nadyoḥ --- synonyms, prabhupada.io",
+    "description":"of the two rivers."
+}
+---
 
 ==== nadyoḥ  ====
   * of the two rivers --- [[books:sb:4:21:11|SB 4.21.11]]

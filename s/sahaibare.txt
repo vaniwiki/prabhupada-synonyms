@@ -1,5 +1,11 @@
-~~Title:sahāibāre~~
-{{description>just to cause to suffer unhappiness.}}
+---json
+{
+    "name":"sahāibāre",
+    "h1":"sahāibāre",
+    "title":"sahāibāre --- synonyms, prabhupada.io",
+    "description":"just to cause to suffer unhappiness."
+}
+---
 
 ==== duḥkha sahāibāre  ====
   * just to cause to suffer unhappiness --- [[books:cc:madhya:13:145|Madhya 13.145]]

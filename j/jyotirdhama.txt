@@ -1,5 +1,11 @@
-~~Title:jyotirdhāma~~
-{{description>headed by the celebrated Jyotirdhāma.}}
+---json
+{
+    "name":"jyotirdhāma",
+    "h1":"jyotirdhāma",
+    "title":"jyotirdhāma --- synonyms, prabhupada.io",
+    "description":"headed by the celebrated Jyotirdhāma."
+}
+---
 
 ==== jyotirdhāma-ādayaḥ  ====
   * headed by the celebrated Jyotirdhāma --- [[books:sb:8:1:28|SB 8.1.28]]

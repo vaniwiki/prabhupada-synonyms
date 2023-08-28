@@ -1,5 +1,11 @@
-~~Title:krośa~~
-{{description>a distance of two miles.}}
+---json
+{
+    "name":"krośa",
+    "h1":"krośa",
+    "title":"krośa --- synonyms, prabhupada.io",
+    "description":"a distance of two miles."
+}
+---
 
 ==== krośa  ====
   * a distance of two miles --- [[books:cc:madhya:4:180|Madhya 4.180]]

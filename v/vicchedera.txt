@@ -1,5 +1,11 @@
-~~Title:vicchedera~~
-{{description>because of fearing separation.}}
+---json
+{
+    "name":"vicchedera",
+    "h1":"vicchedera",
+    "title":"vicchedera --- synonyms, prabhupada.io",
+    "description":"because of fearing separation."
+}
+---
 
 ==== vicchedera bhaya  ====
   * because of fearing separation --- [[books:cc:madhya:16:10|Madhya 16.10]]

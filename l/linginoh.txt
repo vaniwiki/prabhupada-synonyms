@@ -1,5 +1,11 @@
-~~Title:liṅginoḥ~~
-{{description>dressed like inhabitants of Vaikuṇṭha.}}
+---json
+{
+    "name":"liṅginoḥ",
+    "h1":"liṅginoḥ",
+    "title":"liṅginoḥ --- synonyms, prabhupada.io",
+    "description":"dressed like inhabitants of Vaikuṇṭha."
+}
+---
 
 ==== sura-liṅginoḥ  ====
   * dressed like inhabitants of Vaikuṇṭha --- [[books:sb:3:15:33|SB 3.15.33]]

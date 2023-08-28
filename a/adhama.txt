@@ -1,5 +1,11 @@
-~~Title:adhama~~
-{{description>bad; degraded; low; lowest; most fallen; O lowest of mankind; subordinate; the lowest; the lowest class; the lowest of mankind; the lowest of men; the lowest of the low; the most fallen; very much fallen.}}
+---json
+{
+    "name":"adhama",
+    "h1":"adhama",
+    "title":"adhama --- synonyms, prabhupada.io",
+    "description":"bad; degraded; low; lowest; most fallen; O lowest of mankind; subordinate; the lowest; the lowest class; the lowest of mankind; the lowest of men; the lowest of the low; the most fallen; very much fallen."
+}
+---
 
 ==== adhama  ====
   * bad --- [[books:cc:adi:5:208|Ādi 5.208]]

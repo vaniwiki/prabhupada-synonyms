@@ -1,5 +1,11 @@
-~~Title:śuśoca~~
-{{description>lamented.}}
+---json
+{
+    "name":"śuśoca",
+    "h1":"śuśoca",
+    "title":"śuśoca --- synonyms, prabhupada.io",
+    "description":"lamented."
+}
+---
 
 ==== śuśoca  ====
   * lamented --- [[books:sb:6:14:53|SB 6.14.53]]

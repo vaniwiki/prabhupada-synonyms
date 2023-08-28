@@ -1,5 +1,11 @@
-~~Title:bravītu~~
-{{description>just clear up.}}
+---json
+{
+    "name":"bravītu",
+    "h1":"bravītu",
+    "title":"bravītu --- synonyms, prabhupada.io",
+    "description":"just clear up."
+}
+---
 
 ==== bravītu  ====
   * just clear up --- [[books:sb:2:4:10|SB 2.4.10]]

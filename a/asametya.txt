@@ -1,5 +1,11 @@
-~~Title:asametya~~
-{{description>without combination.}}
+---json
+{
+    "name":"asametya",
+    "h1":"asametya",
+    "title":"asametya --- synonyms, prabhupada.io",
+    "description":"without combination."
+}
+---
 
 ==== asametya  ====
   * without combination --- [[books:sb:3:6:1|SB 3.6.1]]

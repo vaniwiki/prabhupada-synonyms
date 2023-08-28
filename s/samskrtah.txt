@@ -1,5 +1,11 @@
-~~Title:saṁskṛtaḥ~~
-{{description>purified.}}
+---json
+{
+    "name":"saṁskṛtaḥ",
+    "h1":"saṁskṛtaḥ",
+    "title":"saṁskṛtaḥ --- synonyms, prabhupada.io",
+    "description":"purified."
+}
+---
 
 ==== saṁskṛtaḥ  ====
   * purified --- [[books:sb:7:15:52|SB 7.15.52]]

@@ -1,5 +1,11 @@
-~~Title:emana~~
-{{description>like this; such; this kind of.}}
+---json
+{
+    "name":"emana",
+    "h1":"emana",
+    "title":"emana --- synonyms, prabhupada.io",
+    "description":"like this; such; this kind of."
+}
+---
 
 ==== emana  ====
   * like this --- [[books:cc:antya:19:46|Antya 19.46]]

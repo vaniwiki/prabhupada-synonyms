@@ -1,5 +1,11 @@
-~~Title:upacaya~~
-{{description>increase.}}
+---json
+{
+    "name":"upacaya",
+    "h1":"upacaya",
+    "title":"upacaya --- synonyms, prabhupada.io",
+    "description":"increase."
+}
+---
 
 ==== upacaya  ====
   * increase --- [[books:sb:3:23:13|SB 3.23.13]], [[books:cc:madhya:22:96|Madhya 22.96]]

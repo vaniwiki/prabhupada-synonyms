@@ -1,5 +1,11 @@
-~~Title:sūktasya~~
-{{description>spiritual education.}}
+---json
+{
+    "name":"sūktasya",
+    "h1":"sūktasya",
+    "title":"sūktasya --- synonyms, prabhupada.io",
+    "description":"spiritual education."
+}
+---
 
 ==== sūktasya  ====
   * spiritual education --- [[books:sb:1:5:22|SB 1.5.22]]

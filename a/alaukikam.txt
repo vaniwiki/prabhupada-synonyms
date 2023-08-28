@@ -1,5 +1,11 @@
-~~Title:alaukikam~~
-{{description>uncommon; which is unnatural in this world.}}
+---json
+{
+    "name":"alaukikam",
+    "h1":"alaukikam",
+    "title":"alaukikam --- synonyms, prabhupada.io",
+    "description":"uncommon; which is unnatural in this world."
+}
+---
 
 ==== alaukikam  ====
   * uncommon --- [[books:cc:antya:17:1|Antya 17.1]]

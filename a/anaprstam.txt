@@ -1,5 +1,11 @@
-~~Title:anāpṛṣṭam~~
-{{description>that which is not asked for.}}
+---json
+{
+    "name":"anāpṛṣṭam",
+    "h1":"anāpṛṣṭam",
+    "title":"anāpṛṣṭam --- synonyms, prabhupada.io",
+    "description":"that which is not asked for."
+}
+---
 
 ==== anāpṛṣṭam  ====
   * that which is not asked for --- [[books:sb:3:7:36|SB 3.7.36]]

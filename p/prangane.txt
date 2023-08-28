@@ -1,5 +1,11 @@
-~~Title:prāṅgaṇe~~
-{{description>in the courtyard; in the yard.}}
+---json
+{
+    "name":"prāṅgaṇe",
+    "h1":"prāṅgaṇe",
+    "title":"prāṅgaṇe --- synonyms, prabhupada.io",
+    "description":"in the courtyard; in the yard."
+}
+---
 
 ==== prāṅgaṇe  ====
   * in the courtyard --- [[books:cc:adi:2:2|Ādi 2.2]], [[books:cc:antya:1:83|Antya 1.83]]

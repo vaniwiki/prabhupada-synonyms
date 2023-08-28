@@ -1,5 +1,11 @@
-~~Title:savye~~
-{{description>on the left side.}}
+---json
+{
+    "name":"savye",
+    "h1":"savye",
+    "title":"savye --- synonyms, prabhupada.io",
+    "description":"on the left side."
+}
+---
 
 ==== savye  ====
   * on the left side --- [[books:sb:5:23:5|SB 5.23.5]]

@@ -1,5 +1,11 @@
-~~Title:parārdham~~
-{{description>a parārdha.}}
+---json
+{
+    "name":"parārdham",
+    "h1":"parārdham",
+    "title":"parārdham --- synonyms, prabhupada.io",
+    "description":"a parārdha."
+}
+---
 
 ==== parārdham  ====
   * a //parārdha// --- [[books:sb:3:11:34|SB 3.11.34]]

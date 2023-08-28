@@ -1,5 +1,11 @@
-~~Title:avasam~~
-{{description>automatically.}}
+---json
+{
+    "name":"avasam",
+    "h1":"avasam",
+    "title":"avasam --- synonyms, prabhupada.io",
+    "description":"automatically."
+}
+---
 
 ==== avaśam  ====
   * automatically --- [[books:bg:9:8|Bg. 9.8]]

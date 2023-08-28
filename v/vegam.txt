@@ -1,5 +1,11 @@
-~~Title:vegam~~
-{{description>force of the waves; the force of the waves; the impulse; urge.}}
+---json
+{
+    "name":"vegam",
+    "h1":"vegam",
+    "title":"vegam --- synonyms, prabhupada.io",
+    "description":"force of the waves; the force of the waves; the impulse; urge."
+}
+---
 
 ==== vegam  ====
   * force of the waves --- [[books:sb:9:9:7|SB 9.9.7]]

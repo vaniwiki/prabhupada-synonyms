@@ -1,5 +1,11 @@
-~~Title:ślokī~~
-{{description>the four famous verses known as catuḥ-ślokī.}}
+---json
+{
+    "name":"ślokī",
+    "h1":"ślokī",
+    "title":"ślokī --- synonyms, prabhupada.io",
+    "description":"the four famous verses known as catuḥ-ślokī."
+}
+---
 
 ==== catuḥ-ślokī  ====
   * the four famous verses known as //catuḥ-ślokī// --- [[books:cc:madhya:25:95|Madhya 25.95]]

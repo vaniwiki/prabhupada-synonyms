@@ -1,5 +1,11 @@
-~~Title:sasanka~~
-{{description>with rays of moonshine.}}
+---json
+{
+    "name":"sasanka",
+    "h1":"sasanka",
+    "title":"sasanka --- synonyms, prabhupada.io",
+    "description":"with rays of moonshine."
+}
+---
 
 ==== śaśaṅka-aṁśu  ====
   * with rays of moonshine --- [[books:cc:madhya:14:158|Madhya 14.158]]

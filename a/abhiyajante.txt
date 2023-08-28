@@ -1,5 +1,11 @@
-~~Title:abhiyajante~~
-{{description>worship.}}
+---json
+{
+    "name":"abhiyajante",
+    "h1":"abhiyajante",
+    "title":"abhiyajante --- synonyms, prabhupada.io",
+    "description":"worship."
+}
+---
 
 ==== abhiyajante  ====
   * worship --- [[books:cc:adi:3:58|Ādi 3.58]]

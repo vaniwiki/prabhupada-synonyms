@@ -1,5 +1,11 @@
-~~Title:etābhyām~~
-{{description>these two.}}
+---json
+{
+    "name":"etābhyām",
+    "h1":"etābhyām",
+    "title":"etābhyām --- synonyms, prabhupada.io",
+    "description":"these two."
+}
+---
 
 ==== etābhyām  ====
   * these two --- [[books:sb:7:6:29-30|SB 7.6.29-30]]

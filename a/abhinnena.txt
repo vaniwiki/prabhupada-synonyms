@@ -1,5 +1,11 @@
-~~Title:abhinnena~~
-{{description>equal.}}
+---json
+{
+    "name":"abhinnena",
+    "h1":"abhinnena",
+    "title":"abhinnena --- synonyms, prabhupada.io",
+    "description":"equal."
+}
+---
 
 ==== abhinnena  ====
   * equal --- [[books:sb:3:29:27|SB 3.29.27]]

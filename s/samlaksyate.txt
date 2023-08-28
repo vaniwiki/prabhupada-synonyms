@@ -1,5 +1,11 @@
-~~Title:saṁlakṣyate~~
-{{description>becomes visible.}}
+---json
+{
+    "name":"saṁlakṣyate",
+    "h1":"saṁlakṣyate",
+    "title":"saṁlakṣyate --- synonyms, prabhupada.io",
+    "description":"becomes visible."
+}
+---
 
 ==== saṁlakṣyate  ====
   * becomes visible --- [[books:sb:3:15:21|SB 3.15.21]]

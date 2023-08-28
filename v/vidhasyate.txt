@@ -1,5 +1,11 @@
-~~Title:vidhāsyate~~
-{{description>will execute.}}
+---json
+{
+    "name":"vidhāsyate",
+    "h1":"vidhāsyate",
+    "title":"vidhāsyate --- synonyms, prabhupada.io",
+    "description":"will execute."
+}
+---
 
 ==== vidhāsyate  ====
   * will execute --- [[books:sb:6:7:25|SB 6.7.25]]

@@ -1,5 +1,11 @@
-~~Title:ghargharitam~~
-{{description>the tumultuous sound.}}
+---json
+{
+    "name":"ghargharitam",
+    "h1":"ghargharitam",
+    "title":"ghargharitam --- synonyms, prabhupada.io",
+    "description":"the tumultuous sound."
+}
+---
 
 ==== ghargharitam  ====
   * the tumultuous sound --- [[books:sb:3:13:25|SB 3.13.25]]

@@ -1,5 +1,11 @@
-~~Title:aṭan~~
-{{description>wandering for.}}
+---json
+{
+    "name":"aṭan",
+    "h1":"aṭan",
+    "title":"aṭan --- synonyms, prabhupada.io",
+    "description":"wandering for."
+}
+---
 
 ==== aṭan  ====
   * wandering for --- [[books:cc:madhya:23:27|Madhya 23.27]]

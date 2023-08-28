@@ -1,5 +1,11 @@
-~~Title:avikari~~
-{{description>unchanging.}}
+---json
+{
+    "name":"avikari",
+    "h1":"avikari",
+    "title":"avikari --- synonyms, prabhupada.io",
+    "description":"unchanging."
+}
+---
 
 ==== avikāri  ====
   * unchanging --- [[books:sb:3:29:20|SB 3.29.20]]

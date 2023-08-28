@@ -1,5 +1,11 @@
-~~Title:doṣe~~
-{{description>by the fault; during the first portion of the night; for the fault.}}
+---json
+{
+    "name":"doṣe",
+    "h1":"doṣe",
+    "title":"doṣe --- synonyms, prabhupada.io",
+    "description":"by the fault; during the first portion of the night; for the fault."
+}
+---
 
 ==== doṣe  ====
   * by the fault --- [[books:cc:madhya:24:136|Madhya 24.136]], [[books:cc:antya:4:5|Antya 4.5]]

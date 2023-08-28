@@ -1,5 +1,11 @@
-~~Title:nikṣipya~~
-{{description>giving in charge.}}
+---json
+{
+    "name":"nikṣipya",
+    "h1":"nikṣipya",
+    "title":"nikṣipya --- synonyms, prabhupada.io",
+    "description":"giving in charge."
+}
+---
 
 ==== nikṣipya  ====
   * giving in charge --- [[books:sb:9:11:15|SB 9.11.15]]

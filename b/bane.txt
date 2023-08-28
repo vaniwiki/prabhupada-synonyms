@@ -1,5 +1,11 @@
-~~Title:bāṇe~~
-{{description>by the arrows.}}
+---json
+{
+    "name":"bāṇe",
+    "h1":"bāṇe",
+    "title":"bāṇe --- synonyms, prabhupada.io",
+    "description":"by the arrows."
+}
+---
 
 ==== bāṇe  ====
   * by the arrows --- [[books:cc:antya:15:73|Antya 15.73]]

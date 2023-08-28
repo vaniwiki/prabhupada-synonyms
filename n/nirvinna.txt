@@ -1,5 +1,11 @@
-~~Title:nirvinna~~
-{{description>advanced in renunciation; detached; sorrowful.}}
+---json
+{
+    "name":"nirvinna",
+    "h1":"nirvinna",
+    "title":"nirvinna --- synonyms, prabhupada.io",
+    "description":"advanced in renunciation; detached; sorrowful."
+}
+---
 
 ==== nirviṇṇa  ====
   * advanced in renunciation --- [[books:cc:antya:4:150|Antya 4.150]]

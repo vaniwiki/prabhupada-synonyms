@@ -1,5 +1,11 @@
-~~Title:maharṣayaḥ~~
-{{description>great sages; the great sages.}}
+---json
+{
+    "name":"maharṣayaḥ",
+    "h1":"maharṣayaḥ",
+    "title":"maharṣayaḥ --- synonyms, prabhupada.io",
+    "description":"great sages; the great sages."
+}
+---
 
 ==== maharṣayaḥ  ====
   * great sages --- [[books:bg:10:2|Bg. 10.2]]

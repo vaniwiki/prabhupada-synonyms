@@ -1,5 +1,11 @@
-~~Title:dugdhera~~
-{{description>of milk.}}
+---json
+{
+    "name":"dugdhera",
+    "h1":"dugdhera",
+    "title":"dugdhera --- synonyms, prabhupada.io",
+    "description":"of milk."
+}
+---
 
 ==== dugdhera  ====
   * of milk --- [[books:cc:madhya:12:53|Madhya 12.53]]

@@ -1,5 +1,11 @@
-~~Title:avamānam~~
-{{description>dishonor; insult.}}
+---json
+{
+    "name":"avamānam",
+    "h1":"avamānam",
+    "title":"avamānam --- synonyms, prabhupada.io",
+    "description":"dishonor; insult."
+}
+---
 
 ==== avamānam  ====
   * dishonor --- [[books:sb:5:13:12|SB 5.13.12]]

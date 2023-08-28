@@ -1,5 +1,11 @@
-~~Title:anuviśya~~
-{{description>then after entering.}}
+---json
+{
+    "name":"anuviśya",
+    "h1":"anuviśya",
+    "title":"anuviśya --- synonyms, prabhupada.io",
+    "description":"then after entering."
+}
+---
 
 ==== anuviśya  ====
   * then after entering --- [[books:sb:4:9:7|SB 4.9.7]]

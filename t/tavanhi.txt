@@ -1,5 +1,11 @@
-~~Title:tavaṅhi~~
-{{description>immediately.}}
+---json
+{
+    "name":"tavaṅhi",
+    "h1":"tavaṅhi",
+    "title":"tavaṅhi --- synonyms, prabhupada.io",
+    "description":"immediately."
+}
+---
 
 ==== tavaṅhi  ====
   * immediately --- [[books:cc:antya:1:90|Antya 1.90]]

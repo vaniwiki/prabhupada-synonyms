@@ -1,5 +1,11 @@
-~~Title:mucukunda~~
-{{description>Mucukunda.}}
+---json
+{
+    "name":"mucukunda",
+    "h1":"mucukunda",
+    "title":"mucukunda --- synonyms, prabhupada.io",
+    "description":"Mucukunda."
+}
+---
 
 ==== mucukunda  ====
   * Mucukunda --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

@@ -1,5 +1,11 @@
-~~Title:avidat~~
-{{description>could understand; find; understand.}}
+---json
+{
+    "name":"avidat",
+    "h1":"avidat",
+    "title":"avidat --- synonyms, prabhupada.io",
+    "description":"could understand; find; understand."
+}
+---
 
 ==== avidat  ====
   * could understand --- [[books:sb:3:8:17|SB 3.8.17]]

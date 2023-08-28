@@ -1,5 +1,11 @@
-~~Title:vṛtram~~
-{{description>Vṛtrāsura.}}
+---json
+{
+    "name":"vṛtram",
+    "h1":"vṛtram",
+    "title":"vṛtram --- synonyms, prabhupada.io",
+    "description":"Vṛtrāsura."
+}
+---
 
 ==== vṛtram  ====
   * Vṛtrāsura --- [[books:sb:6:10:15|SB 6.10.15]]

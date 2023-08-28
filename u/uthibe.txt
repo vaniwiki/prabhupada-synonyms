@@ -1,5 +1,11 @@
-~~Title:uṭhibe~~
-{{description>will rise.}}
+---json
+{
+    "name":"uṭhibe",
+    "h1":"uṭhibe",
+    "title":"uṭhibe --- synonyms, prabhupada.io",
+    "description":"will rise."
+}
+---
 
 ==== uṭhibe  ====
   * will rise --- [[books:cc:madhya:20:132|Madhya 20.132]]

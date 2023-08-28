@@ -1,5 +1,11 @@
-~~Title:takṣaḥ~~
-{{description>Takṣa.}}
+---json
+{
+    "name":"takṣaḥ",
+    "h1":"takṣaḥ",
+    "title":"takṣaḥ --- synonyms, prabhupada.io",
+    "description":"Takṣa."
+}
+---
 
 ==== takṣaḥ  ====
   * Takṣa --- [[books:sb:9:11:12|SB 9.11.12]]

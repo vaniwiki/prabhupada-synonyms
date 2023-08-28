@@ -1,5 +1,11 @@
-~~Title:svāmyam~~
-{{description>proprietorship; the prestigious position of being the master.}}
+---json
+{
+    "name":"svāmyam",
+    "h1":"svāmyam",
+    "title":"svāmyam --- synonyms, prabhupada.io",
+    "description":"proprietorship; the prestigious position of being the master."
+}
+---
 
 ==== svāmyam  ====
   * proprietorship --- [[books:sb:8:22:20|SB 8.22.20]]

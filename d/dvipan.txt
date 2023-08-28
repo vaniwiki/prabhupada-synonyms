@@ -1,5 +1,11 @@
-~~Title:dvipan~~
-{{description>like elephants.}}
+---json
+{
+    "name":"dvipan",
+    "h1":"dvipan",
+    "title":"dvipan --- synonyms, prabhupada.io",
+    "description":"like elephants."
+}
+---
 
 ==== dvipān  ====
   * like elephants --- [[books:cc:madhya:9:1|Madhya 9.1]]

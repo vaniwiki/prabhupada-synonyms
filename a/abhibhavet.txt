@@ -1,5 +1,11 @@
-~~Title:abhibhavet~~
-{{description>takes place.}}
+---json
+{
+    "name":"abhibhavet",
+    "h1":"abhibhavet",
+    "title":"abhibhavet --- synonyms, prabhupada.io",
+    "description":"takes place."
+}
+---
 
 ==== abhibhavet  ====
   * takes place --- [[books:sb:4:6:46|SB 4.6.46]]

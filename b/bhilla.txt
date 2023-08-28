@@ -1,5 +1,11 @@
-~~Title:bhilla~~
-{{description>like the Bheels, a kind of low people.}}
+---json
+{
+    "name":"bhilla",
+    "h1":"bhilla",
+    "title":"bhilla --- synonyms, prabhupada.io",
+    "description":"like the Bheels, a kind of low people."
+}
+---
 
 ==== bhilla-prāya  ====
   * like the Bheels, a kind of low people --- [[books:cc:madhya:17:53|Madhya 17.53]]

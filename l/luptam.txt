@@ -1,5 +1,11 @@
-~~Title:luptām~~
-{{description>lost.}}
+---json
+{
+    "name":"luptām",
+    "h1":"luptām",
+    "title":"luptām --- synonyms, prabhupada.io",
+    "description":"lost."
+}
+---
 
 ==== luptām  ====
   * lost --- [[books:cc:madhya:19:1|Madhya 19.1]]

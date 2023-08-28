@@ -1,5 +1,11 @@
-~~Title:annānām~~
-{{description>of all sorts of foodstuffs.}}
+---json
+{
+    "name":"annānām",
+    "h1":"annānām",
+    "title":"annānām --- synonyms, prabhupada.io",
+    "description":"of all sorts of foodstuffs."
+}
+---
 
 ==== annānām  ====
   * of all sorts of foodstuffs --- [[books:sb:2:6:1|SB 2.6.1]]

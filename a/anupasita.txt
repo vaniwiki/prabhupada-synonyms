@@ -1,5 +1,11 @@
-~~Title:anupāsita~~
-{{description>without worshiping.}}
+---json
+{
+    "name":"anupāsita",
+    "h1":"anupāsita",
+    "title":"anupāsita --- synonyms, prabhupada.io",
+    "description":"without worshiping."
+}
+---
 
 ==== anupāsita  ====
   * without worshiping --- [[books:sb:5:3:14|SB 5.3.14]]

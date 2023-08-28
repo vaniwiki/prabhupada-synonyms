@@ -1,5 +1,11 @@
-~~Title:khāṅna~~
-{{description>Rāmacandra Khān.}}
+---json
+{
+    "name":"khāṅna",
+    "h1":"khāṅna",
+    "title":"khāṅna --- synonyms, prabhupada.io",
+    "description":"Rāmacandra Khān."
+}
+---
 
 ==== khāṅna  ====
   * Rāmacandra Khān --- [[books:cc:antya:3:152|Antya 3.152]]

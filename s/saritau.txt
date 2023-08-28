@@ -1,5 +1,11 @@
-~~Title:saritau~~
-{{description>two rivers.}}
+---json
+{
+    "name":"saritau",
+    "h1":"saritau",
+    "title":"saritau --- synonyms, prabhupada.io",
+    "description":"two rivers."
+}
+---
 
 ==== saritau  ====
   * two rivers --- [[books:sb:4:6:24|SB 4.6.24]]

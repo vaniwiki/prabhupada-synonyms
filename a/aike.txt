@@ -1,5 +1,11 @@
-~~Title:āike~~
-{{description>mother Śacīdevī.}}
+---json
+{
+    "name":"āike",
+    "h1":"āike",
+    "title":"āike --- synonyms, prabhupada.io",
+    "description":"mother Śacīdevī."
+}
+---
 
 ==== āike  ====
   * mother Śacīdevī --- [[books:cc:madhya:10:68|Madhya 10.68]]

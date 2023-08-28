@@ -1,5 +1,11 @@
-~~Title:voḍhāraḥ~~
-{{description>carriers of the palanquin.}}
+---json
+{
+    "name":"voḍhāraḥ",
+    "h1":"voḍhāraḥ",
+    "title":"voḍhāraḥ --- synonyms, prabhupada.io",
+    "description":"carriers of the palanquin."
+}
+---
 
 ==== voḍhāraḥ  ====
   * carriers of the palanquin --- [[books:sb:5:10:2|SB 5.10.2]]

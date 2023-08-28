@@ -1,5 +1,11 @@
-~~Title:ṛg~~
-{{description>the professor of the Ṛg Veda.}}
+---json
+{
+    "name":"ṛg",
+    "h1":"ṛg",
+    "title":"ṛg --- synonyms, prabhupada.io",
+    "description":"the professor of the Ṛg Veda."
+}
+---
 
 ==== ṛg-veda-dharaḥ  ====
   * the professor of the //Ṛg Veda// --- [[books:sb:1:4:21|SB 1.4.21]]

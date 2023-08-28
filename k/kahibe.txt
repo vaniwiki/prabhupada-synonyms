@@ -1,5 +1,11 @@
-~~Title:kahibe~~
-{{description>inform; shall speak; they will say; will inform; will quote; will say; you shall say; you should speak.}}
+---json
+{
+    "name":"kahibe",
+    "h1":"kahibe",
+    "title":"kahibe --- synonyms, prabhupada.io",
+    "description":"inform; shall speak; they will say; will inform; will quote; will say; you shall say; you should speak."
+}
+---
 
 ==== kahibe  ====
   * inform --- [[books:cc:antya:12:150|Antya 12.150]]

@@ -1,5 +1,11 @@
-~~Title:adhyaya~~
-{{description>chapter; fixing.}}
+---json
+{
+    "name":"adhyaya",
+    "h1":"adhyaya",
+    "title":"adhyaya --- synonyms, prabhupada.io",
+    "description":"chapter; fixing."
+}
+---
 
 ==== adhyāya  ====
   * chapter --- [[books:cc:madhya:14:8|Madhya 14.8]]

@@ -1,5 +1,11 @@
-~~Title:sannivṛttaḥ~~
-{{description>refrained.}}
+---json
+{
+    "name":"sannivṛttaḥ",
+    "h1":"sannivṛttaḥ",
+    "title":"sannivṛttaḥ --- synonyms, prabhupada.io",
+    "description":"refrained."
+}
+---
 
 ==== sannivṛttaḥ  ====
   * refrained --- [[books:sb:10:2:23|SB 10.2.23]]

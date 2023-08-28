@@ -1,5 +1,11 @@
-~~Title:munira~~
-{{description>of even the great philosophers.}}
+---json
+{
+    "name":"munira",
+    "h1":"munira",
+    "title":"munira --- synonyms, prabhupada.io",
+    "description":"of even the great philosophers."
+}
+---
 
 ==== munira  ====
   * of even the great philosophers --- [[books:cc:antya:3:238|Antya 3.238]]

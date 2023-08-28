@@ -1,5 +1,11 @@
-~~Title:dhūsara~~
-{{description>dirt.}}
+---json
+{
+    "name":"dhūsara",
+    "h1":"dhūsara",
+    "title":"dhūsara --- synonyms, prabhupada.io",
+    "description":"dirt."
+}
+---
 
 ==== dhūsara  ====
   * dirt --- [[books:cc:madhya:12:86|Madhya 12.86]]

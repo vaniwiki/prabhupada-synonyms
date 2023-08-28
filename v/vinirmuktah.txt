@@ -1,5 +1,11 @@
-~~Title:vinirmuktah~~
-{{description>being released.}}
+---json
+{
+    "name":"vinirmuktah",
+    "h1":"vinirmuktah",
+    "title":"vinirmuktah --- synonyms, prabhupada.io",
+    "description":"being released."
+}
+---
 
 ==== vinirmuktaḥ  ====
   * being released --- [[books:sb:6:2:22|SB 6.2.22]]

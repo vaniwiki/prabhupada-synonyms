@@ -1,5 +1,11 @@
-~~Title:pratīmahi~~
-{{description>I can understand.}}
+---json
+{
+    "name":"pratīmahi",
+    "h1":"pratīmahi",
+    "title":"pratīmahi --- synonyms, prabhupada.io",
+    "description":"I can understand."
+}
+---
 
 ==== pratīmahi  ====
   * I can understand --- [[books:sb:4:24:61|SB 4.24.61]]

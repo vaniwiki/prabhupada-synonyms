@@ -1,5 +1,11 @@
-~~Title:vaca~~
-{{description>by chanting the mantra; by speech; by the statements of the Vedas; by the Vedic directions; by words; sound; speech; voice; voices; with a voice; with sweet words; with the organ of speech; with words; words.}}
+---json
+{
+    "name":"vaca",
+    "h1":"vaca",
+    "title":"vaca --- synonyms, prabhupada.io",
+    "description":"by chanting the mantra; by speech; by the statements of the Vedas; by the Vedic directions; by words; sound; speech; voice; voices; with a voice; with sweet words; with the organ of speech; with words; words."
+}
+---
 
 ==== vācā  ====
   * by chanting the //mantra// --- [[books:sb:9:1:15|SB 9.1.15]]

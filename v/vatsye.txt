@@ -1,5 +1,11 @@
-~~Title:vatsye~~
-{{description>can reside.}}
+---json
+{
+    "name":"vatsye",
+    "h1":"vatsye",
+    "title":"vatsye --- synonyms, prabhupada.io",
+    "description":"can reside."
+}
+---
 
 ==== vatsye  ====
   * can reside --- [[books:sb:1:17:37|SB 1.17.37]]

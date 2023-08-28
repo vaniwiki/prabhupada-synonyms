@@ -1,5 +1,11 @@
-~~Title:tiraskaribāre~~
-{{description>just to chastise.}}
+---json
+{
+    "name":"tiraskaribāre",
+    "h1":"tiraskaribāre",
+    "title":"tiraskaribāre --- synonyms, prabhupada.io",
+    "description":"just to chastise."
+}
+---
 
 ==== tiraskaribāre  ====
   * just to chastise --- [[books:cc:madhya:25:115|Madhya 25.115]]

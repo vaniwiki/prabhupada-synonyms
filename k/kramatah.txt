@@ -1,5 +1,11 @@
-~~Title:kramataḥ~~
-{{description>advancing; gradually.}}
+---json
+{
+    "name":"kramataḥ",
+    "h1":"kramataḥ",
+    "title":"kramataḥ --- synonyms, prabhupada.io",
+    "description":"advancing; gradually."
+}
+---
 
 ==== kramataḥ  ====
   * advancing --- [[books:sb:8:20:34|SB 8.20.34]]

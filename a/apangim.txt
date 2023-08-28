@@ -1,5 +1,11 @@
-~~Title:apāṅgīm~~
-{{description>eyes.}}
+---json
+{
+    "name":"apāṅgīm",
+    "h1":"apāṅgīm",
+    "title":"apāṅgīm --- synonyms, prabhupada.io",
+    "description":"eyes."
+}
+---
 
 ==== apāṅgīm  ====
   * eyes --- [[books:sb:3:21:27|SB 3.21.27]]

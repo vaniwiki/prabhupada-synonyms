@@ -1,5 +1,11 @@
-~~Title:śailūṣī~~
-{{description>expert dancer.}}
+---json
+{
+    "name":"śailūṣī",
+    "h1":"śailūṣī",
+    "title":"śailūṣī --- synonyms, prabhupada.io",
+    "description":"expert dancer."
+}
+---
 
 ==== śailūṣī  ====
   * expert dancer --- [[books:cc:adi:4:125|Ādi 4.125]]

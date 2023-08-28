@@ -1,5 +1,11 @@
-~~Title:punāti~~
-{{description>cure; purifies; purify; sanctifies.}}
+---json
+{
+    "name":"punāti",
+    "h1":"punāti",
+    "title":"punāti --- synonyms, prabhupada.io",
+    "description":"cure; purifies; purify; sanctifies."
+}
+---
 
 ==== punāti  ====
   * cure --- [[books:sb:1:5:33|SB 1.5.33]]

@@ -1,5 +1,11 @@
-~~Title:lekhāra~~
-{{description>it is beyond the power of writing.}}
+---json
+{
+    "name":"lekhāra",
+    "h1":"lekhāra",
+    "title":"lekhāra --- synonyms, prabhupada.io",
+    "description":"it is beyond the power of writing."
+}
+---
 
 ==== lekhāra anta  ====
   * it is beyond the power of writing --- [[books:cc:madhya:20:324|Madhya 20.324]]

@@ -1,5 +1,11 @@
-~~Title:vyapi~~
-{{description>all-expanding; expanding; extending; widespread.}}
+---json
+{
+    "name":"vyapi",
+    "h1":"vyapi",
+    "title":"vyapi --- synonyms, prabhupada.io",
+    "description":"all-expanding; expanding; extending; widespread."
+}
+---
 
 ==== vyāpi  ====
   * all-expanding --- [[books:cc:adi:1:8|Ādi 1.8]], [[books:cc:adi:5:13|Ādi 5.13]]

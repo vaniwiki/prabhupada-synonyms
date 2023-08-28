@@ -1,5 +1,11 @@
-~~Title:socanti~~
-{{description>lament; they lament; they lament for.}}
+---json
+{
+    "name":"socanti",
+    "h1":"socanti",
+    "title":"socanti --- synonyms, prabhupada.io",
+    "description":"lament; they lament; they lament for."
+}
+---
 
 ==== śocanti  ====
   * lament --- [[books:sb:4:30:20|SB 4.30.20]], [[books:sb:8:11:8|SB 8.11.8]]

@@ -1,5 +1,11 @@
-~~Title:vitanoti~~
-{{description>expands.}}
+---json
+{
+    "name":"vitanoti",
+    "h1":"vitanoti",
+    "title":"vitanoti --- synonyms, prabhupada.io",
+    "description":"expands."
+}
+---
 
 ==== vitanoti  ====
   * expands --- [[books:sb:4:22:19|SB 4.22.19]]

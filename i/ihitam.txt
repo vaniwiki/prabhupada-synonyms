@@ -1,5 +1,11 @@
-~~Title:īhitam~~
-{{description>activities; activity; pastimes; the activity; the desires; the narration.}}
+---json
+{
+    "name":"īhitam",
+    "h1":"īhitam",
+    "title":"īhitam --- synonyms, prabhupada.io",
+    "description":"activities; activity; pastimes; the activity; the desires; the narration."
+}
+---
 
 ==== īhitam  ====
   * activities --- [[books:sb:1:8:36|SB 1.8.36]], [[books:sb:4:17:36|SB 4.17.36]]

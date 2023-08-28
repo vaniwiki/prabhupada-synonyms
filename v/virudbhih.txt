@@ -1,5 +1,11 @@
-~~Title:vīrudbhiḥ~~
-{{description>by the creepers.}}
+---json
+{
+    "name":"vīrudbhiḥ",
+    "h1":"vīrudbhiḥ",
+    "title":"vīrudbhiḥ --- synonyms, prabhupada.io",
+    "description":"by the creepers."
+}
+---
 
 ==== vīrudbhiḥ  ====
   * by the creepers --- [[books:sb:5:14:4|SB 5.14.4]]

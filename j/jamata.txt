@@ -1,5 +1,11 @@
-~~Title:jāmātā~~
-{{description>son-in-law; the son-in-law.}}
+---json
+{
+    "name":"jāmātā",
+    "h1":"jāmātā",
+    "title":"jāmātā --- synonyms, prabhupada.io",
+    "description":"son-in-law; the son-in-law."
+}
+---
 
 ==== jāmātā  ====
   * son-in-law --- [[books:sb:9:3:22|SB 9.3.22]]

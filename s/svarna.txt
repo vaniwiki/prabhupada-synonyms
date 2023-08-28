@@ -1,5 +1,11 @@
-~~Title:svarṇa~~
-{{description>gold; golden; of gold.}}
+---json
+{
+    "name":"svarṇa",
+    "h1":"svarṇa",
+    "title":"svarṇa --- synonyms, prabhupada.io",
+    "description":"gold; golden; of gold."
+}
+---
 
 ==== svarṇa  ====
   * gold --- [[books:sb:1:9:2|SB 1.9.2]], [[books:sb:4:25:14|SB 4.25.14]], [[books:sb:10:12:4|SB 10.12.4]], [[books:cc:adi:13:113|Ādi 13.113]], [[books:cc:madhya:4:100|Madhya 4.100]]

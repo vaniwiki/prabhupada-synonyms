@@ -1,5 +1,11 @@
-~~Title:daṇḍita~~
-{{description>defeated.}}
+---json
+{
+    "name":"daṇḍita",
+    "h1":"daṇḍita",
+    "title":"daṇḍita --- synonyms, prabhupada.io",
+    "description":"defeated."
+}
+---
 
 ==== daṇḍita  ====
   * defeated --- [[books:cc:antya:1:165|Antya 1.165]]

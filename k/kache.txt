@@ -1,5 +1,11 @@
-~~Title:kāche~~
-{{description>in the association of the Bhaṭṭathāris.}}
+---json
+{
+    "name":"kāche",
+    "h1":"kāche",
+    "title":"kāche --- synonyms, prabhupada.io",
+    "description":"in the association of the Bhaṭṭathāris."
+}
+---
 
 ==== bhaṭṭathāri-kāche  ====
   * in the association of the Bhaṭṭathāris --- [[books:cc:madhya:10:64|Madhya 10.64]]

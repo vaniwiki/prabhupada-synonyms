@@ -1,5 +1,11 @@
-~~Title:karāili~~
-{{description>you have caused to do.}}
+---json
+{
+    "name":"karāili",
+    "h1":"karāili",
+    "title":"karāili --- synonyms, prabhupada.io",
+    "description":"you have caused to do."
+}
+---
 
 ==== karāili  ====
   * you have caused to do --- [[books:cc:adi:17:52|Ādi 17.52]]

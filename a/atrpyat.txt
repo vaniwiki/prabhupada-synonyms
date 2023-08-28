@@ -1,5 +1,11 @@
-~~Title:atṛpyat~~
-{{description>was satisfied.}}
+---json
+{
+    "name":"atṛpyat",
+    "h1":"atṛpyat",
+    "title":"atṛpyat --- synonyms, prabhupada.io",
+    "description":"was satisfied."
+}
+---
 
 ==== atṛpyat  ====
   * was satisfied --- [[books:sb:7:4:19|SB 7.4.19]]

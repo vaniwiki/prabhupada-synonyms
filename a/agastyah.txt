@@ -1,5 +1,11 @@
-~~Title:agastyaḥ~~
-{{description>Agastya; Agastya Muni; the great sage Agastya.}}
+---json
+{
+    "name":"agastyaḥ",
+    "h1":"agastyaḥ",
+    "title":"agastyaḥ --- synonyms, prabhupada.io",
+    "description":"Agastya; Agastya Muni; the great sage Agastya."
+}
+---
 
 ==== agastyaḥ  ====
   * Agastya --- [[books:sb:6:18:5|SB 6.18.5]]

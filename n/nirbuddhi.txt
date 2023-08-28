@@ -1,5 +1,11 @@
-~~Title:nirbuddhi~~
-{{description>bereft of intelligence.}}
+---json
+{
+    "name":"nirbuddhi",
+    "h1":"nirbuddhi",
+    "title":"nirbuddhi --- synonyms, prabhupada.io",
+    "description":"bereft of intelligence."
+}
+---
 
 ==== nirbuddhi  ====
   * bereft of intelligence --- [[books:cc:antya:6:32|Antya 6.32]]

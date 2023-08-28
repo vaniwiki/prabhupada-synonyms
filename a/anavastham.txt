@@ -1,5 +1,11 @@
-~~Title:anavasthām~~
-{{description>equilibrium.}}
+---json
+{
+    "name":"anavasthām",
+    "h1":"anavasthām",
+    "title":"anavasthām --- synonyms, prabhupada.io",
+    "description":"equilibrium."
+}
+---
 
 ==== anavasthām  ====
   * equilibrium --- [[books:sb:10:8:25|SB 10.8.25]]

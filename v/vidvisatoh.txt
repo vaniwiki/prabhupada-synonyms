@@ -1,5 +1,11 @@
-~~Title:vidviṣatoḥ~~
-{{description>the tension.}}
+---json
+{
+    "name":"vidviṣatoḥ",
+    "h1":"vidviṣatoḥ",
+    "title":"vidviṣatoḥ --- synonyms, prabhupada.io",
+    "description":"the tension."
+}
+---
 
 ==== vidviṣatoḥ  ====
   * the tension --- [[books:sb:4:3:1|SB 4.3.1]]

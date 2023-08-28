@@ -1,5 +1,11 @@
-~~Title:uttambhayan~~
-{{description>raising.}}
+---json
+{
+    "name":"uttambhayan",
+    "h1":"uttambhayan",
+    "title":"uttambhayan --- synonyms, prabhupada.io",
+    "description":"raising."
+}
+---
 
 ==== uttambhayan  ====
   * raising --- [[books:sb:5:25:3|SB 5.25.3]]

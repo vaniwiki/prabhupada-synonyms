@@ -1,5 +1,11 @@
-~~Title:vardhante~~
-{{description>increase.}}
+---json
+{
+    "name":"vardhante",
+    "h1":"vardhante",
+    "title":"vardhante --- synonyms, prabhupada.io",
+    "description":"increase."
+}
+---
 
 ==== vardhante  ====
   * increase --- [[books:sb:5:21:4|SB 5.21.4]], [[books:sb:5:21:6|SB 5.21.6]]

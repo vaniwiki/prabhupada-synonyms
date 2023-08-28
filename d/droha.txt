@@ -1,5 +1,11 @@
-~~Title:droha~~
-{{description>not defiant.}}
+---json
+{
+    "name":"droha",
+    "h1":"droha",
+    "title":"droha --- synonyms, prabhupada.io",
+    "description":"not defiant."
+}
+---
 
 ==== akṛta-droha  ====
   * not defiant --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

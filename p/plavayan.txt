@@ -1,5 +1,11 @@
-~~Title:plāvayan~~
-{{description>inundating.}}
+---json
+{
+    "name":"plāvayan",
+    "h1":"plāvayan",
+    "title":"plāvayan --- synonyms, prabhupada.io",
+    "description":"inundating."
+}
+---
 
 ==== plāvayan  ====
   * inundating --- [[books:sb:4:10:27|SB 4.10.27]], [[books:sb:8:24:41|SB 8.24.41]]

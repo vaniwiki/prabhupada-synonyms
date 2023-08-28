@@ -1,5 +1,11 @@
-~~Title:yuddha~~
-{{description>a fight; battle; fight; the fight.}}
+---json
+{
+    "name":"yuddha",
+    "h1":"yuddha",
+    "title":"yuddha --- synonyms, prabhupada.io",
+    "description":"a fight; battle; fight; the fight."
+}
+---
 
 ==== yuddha  ====
   * a fight --- [[books:cc:antya:18:94|Antya 18.94]]

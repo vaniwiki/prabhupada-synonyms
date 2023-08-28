@@ -1,5 +1,11 @@
-~~Title:adityah~~
-{{description>of Aditi.}}
+---json
+{
+    "name":"adityah",
+    "h1":"adityah",
+    "title":"adityah --- synonyms, prabhupada.io",
+    "description":"of Aditi."
+}
+---
 
 ==== adityāḥ  ====
   * of Aditi --- [[books:sb:8:18:9-10|SB 8.18.9-10]]

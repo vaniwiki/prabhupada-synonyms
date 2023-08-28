@@ -1,5 +1,11 @@
-~~Title:pramuṣita~~
-{{description>held back.}}
+---json
+{
+    "name":"pramuṣita",
+    "h1":"pramuṣita",
+    "title":"pramuṣita --- synonyms, prabhupada.io",
+    "description":"held back."
+}
+---
 
 ==== pramuṣita  ====
   * held back --- [[books:sb:5:1:29|SB 5.1.29]]

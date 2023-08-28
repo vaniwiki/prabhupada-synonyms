@@ -1,5 +1,11 @@
-~~Title:nirvartayet~~
-{{description>hobbling along somehow or other.}}
+---json
+{
+    "name":"nirvartayet",
+    "h1":"nirvartayet",
+    "title":"nirvartayet --- synonyms, prabhupada.io",
+    "description":"hobbling along somehow or other."
+}
+---
 
 ==== nirvartayet  ====
   * hobbling along somehow or other --- [[books:sb:1:17:25|SB 1.17.25]]

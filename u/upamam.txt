@@ -1,5 +1,11 @@
-~~Title:upamam~~
-{{description>compared to; like.}}
+---json
+{
+    "name":"upamam",
+    "h1":"upamam",
+    "title":"upamam --- synonyms, prabhupada.io",
+    "description":"compared to; like."
+}
+---
 
 ==== upamam  ====
   * compared to --- [[books:bg:18:36-37|Bg. 18.36-37]]

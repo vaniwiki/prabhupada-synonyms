@@ -1,5 +1,11 @@
-~~Title:śāśvate~~
-{{description>the Vedas.}}
+---json
+{
+    "name":"śāśvate",
+    "h1":"śāśvate",
+    "title":"śāśvate --- synonyms, prabhupada.io",
+    "description":"the Vedas."
+}
+---
 
 ==== śāśvate  ====
   * the //Vedas// --- [[books:bg:8:26|Bg. 8.26]]

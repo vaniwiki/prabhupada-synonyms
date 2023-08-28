@@ -1,5 +1,11 @@
-~~Title:lokitum~~
-{{description>to see.}}
+---json
+{
+    "name":"lokitum",
+    "h1":"lokitum",
+    "title":"lokitum --- synonyms, prabhupada.io",
+    "description":"to see."
+}
+---
 
 ==== lokitum  ====
   * to see --- [[books:cc:antya:14:120|Antya 14.120]]

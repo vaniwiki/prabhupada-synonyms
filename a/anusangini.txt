@@ -1,5 +1,11 @@
-~~Title:ānuṣaṅgiṇī~~
-{{description>secondary.}}
+---json
+{
+    "name":"ānuṣaṅgiṇī",
+    "h1":"ānuṣaṅgiṇī",
+    "title":"ānuṣaṅgiṇī --- synonyms, prabhupada.io",
+    "description":"secondary."
+}
+---
 
 ==== ānuṣaṅgiṇī  ====
   * secondary --- [[books:sb:6:18:73|SB 6.18.73]]

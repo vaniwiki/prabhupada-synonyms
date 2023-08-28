@@ -1,5 +1,11 @@
-~~Title:vikampana~~
-{{description>Vikampana.}}
+---json
+{
+    "name":"vikampana",
+    "h1":"vikampana",
+    "title":"vikampana --- synonyms, prabhupada.io",
+    "description":"Vikampana."
+}
+---
 
 ==== vikampana  ====
   * Vikampana --- [[books:sb:9:10:18|SB 9.10.18]]

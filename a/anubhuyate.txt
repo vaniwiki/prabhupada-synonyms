@@ -1,5 +1,11 @@
-~~Title:anubhūyate~~
-{{description>is experienced.}}
+---json
+{
+    "name":"anubhūyate",
+    "h1":"anubhūyate",
+    "title":"anubhūyate --- synonyms, prabhupada.io",
+    "description":"is experienced."
+}
+---
 
 ==== anubhūyate  ====
   * is experienced --- [[books:sb:6:15:21-23|SB 6.15.21-23]]

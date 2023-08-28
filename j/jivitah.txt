@@ -1,5 +1,11 @@
-~~Title:jivitah~~
-{{description>brought back to life.}}
+---json
+{
+    "name":"jivitah",
+    "h1":"jivitah",
+    "title":"jivitah --- synonyms, prabhupada.io",
+    "description":"brought back to life."
+}
+---
 
 ==== jīvitaḥ  ====
   * brought back to life --- [[books:sb:8:15:3|SB 8.15.3]]

@@ -1,5 +1,11 @@
-~~Title:ghrāṇa~~
-{{description>smell; the sense for smelling.}}
+---json
+{
+    "name":"ghrāṇa",
+    "h1":"ghrāṇa",
+    "title":"ghrāṇa --- synonyms, prabhupada.io",
+    "description":"smell; the sense for smelling."
+}
+---
 
 ==== ghrāṇa  ====
   * smell --- [[books:sb:3:18:19|SB 3.18.19]]

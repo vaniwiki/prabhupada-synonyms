@@ -1,5 +1,11 @@
-~~Title:vāmam~~
-{{description>dishonest.}}
+---json
+{
+    "name":"vāmam",
+    "h1":"vāmam",
+    "title":"vāmam --- synonyms, prabhupada.io",
+    "description":"dishonest."
+}
+---
 
 ==== vāmam  ====
   * dishonest --- [[books:sb:4:2:8|SB 4.2.8]]

@@ -1,5 +1,11 @@
-~~Title:aghāsuraḥ~~
-{{description>the demon by the name Aghāsura.}}
+---json
+{
+    "name":"aghāsuraḥ",
+    "h1":"aghāsuraḥ",
+    "title":"aghāsuraḥ --- synonyms, prabhupada.io",
+    "description":"the demon by the name Aghāsura."
+}
+---
 
 ==== aghāsuraḥ  ====
   * the demon by the name Aghāsura --- [[books:sb:10:12:14|SB 10.12.14]]

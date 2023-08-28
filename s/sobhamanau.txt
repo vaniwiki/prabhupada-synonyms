@@ -1,5 +1,11 @@
-~~Title:śobhamānau~~
-{{description>beautiful.}}
+---json
+{
+    "name":"śobhamānau",
+    "h1":"śobhamānau",
+    "title":"śobhamānau --- synonyms, prabhupada.io",
+    "description":"beautiful."
+}
+---
 
 ==== śobhamānau  ====
   * beautiful --- [[books:sb:3:28:24|SB 3.28.24]]

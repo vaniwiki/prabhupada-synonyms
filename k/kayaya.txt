@@ -1,5 +1,11 @@
-~~Title:kayāya~~
-{{description>helps.}}
+---json
+{
+    "name":"kayāya",
+    "h1":"kayāya",
+    "title":"kayāya --- synonyms, prabhupada.io",
+    "description":"helps."
+}
+---
 
 ==== kayāya  ====
   * helps --- [[books:cc:madhya:2:38|Madhya 2.38]]

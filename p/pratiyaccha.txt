@@ -1,5 +1,11 @@
-~~Title:pratiyaccha~~
-{{description>return.}}
+---json
+{
+    "name":"pratiyaccha",
+    "h1":"pratiyaccha",
+    "title":"pratiyaccha --- synonyms, prabhupada.io",
+    "description":"return."
+}
+---
 
 ==== pratiyaccha  ====
   * return --- [[books:sb:3:1:11|SB 3.1.11]]

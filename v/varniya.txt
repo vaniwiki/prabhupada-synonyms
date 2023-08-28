@@ -1,5 +1,11 @@
-~~Title:varṇiyā~~
-{{description>describing.}}
+---json
+{
+    "name":"varṇiyā",
+    "h1":"varṇiyā",
+    "title":"varṇiyā --- synonyms, prabhupada.io",
+    "description":"describing."
+}
+---
 
 ==== varṇiyā  ====
   * describing --- [[books:cc:antya:20:83|Antya 20.83]]

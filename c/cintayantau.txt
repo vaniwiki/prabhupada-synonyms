@@ -1,5 +1,11 @@
-~~Title:cintayantau~~
-{{description>thinking like that.}}
+---json
+{
+    "name":"cintayantau",
+    "h1":"cintayantau",
+    "title":"cintayantau --- synonyms, prabhupada.io",
+    "description":"thinking like that."
+}
+---
 
 ==== cintayantau  ====
   * thinking like that --- [[books:sb:10:3:45|SB 10.3.45]]

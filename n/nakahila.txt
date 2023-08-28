@@ -1,5 +1,11 @@
-~~Title:nākahila~~
-{{description>did not tell.}}
+---json
+{
+    "name":"nākahila",
+    "h1":"nākahila",
+    "title":"nākahila --- synonyms, prabhupada.io",
+    "description":"did not tell."
+}
+---
 
 ==== nākahila  ====
   * did not tell --- [[books:cc:adi:17:188|Ādi 17.188]]

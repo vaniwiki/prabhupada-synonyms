@@ -1,5 +1,11 @@
-~~Title:uddhariṣye~~
-{{description>shall deliver.}}
+---json
+{
+    "name":"uddhariṣye",
+    "h1":"uddhariṣye",
+    "title":"uddhariṣye --- synonyms, prabhupada.io",
+    "description":"shall deliver."
+}
+---
 
 ==== uddhariṣye  ====
   * shall deliver --- [[books:sb:3:31:21|SB 3.31.21]]

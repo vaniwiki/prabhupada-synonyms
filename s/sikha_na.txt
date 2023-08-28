@@ -1,5 +1,11 @@
-~~Title:śikhā'na~~
-{{description>teaching all others.}}
+---json
+{
+    "name":"śikhā'na",
+    "h1":"śikhā'na",
+    "title":"śikhā'na --- synonyms, prabhupada.io",
+    "description":"teaching all others."
+}
+---
 
 ==== śikhā'na sabāre  ====
   * teaching all others --- [[books:cc:madhya:12:84|Madhya 12.84]]

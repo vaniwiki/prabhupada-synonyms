@@ -1,5 +1,11 @@
-~~Title:sandham~~
-{{description>one who was fixed in his truthfulness.}}
+---json
+{
+    "name":"sandham",
+    "h1":"sandham",
+    "title":"sandham --- synonyms, prabhupada.io",
+    "description":"one who was fixed in his truthfulness."
+}
+---
 
 ==== satya-sandham  ====
   * one who was fixed in his truthfulness --- [[books:sb:8:20:14|SB 8.20.14]]

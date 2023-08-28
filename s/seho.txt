@@ -1,5 +1,11 @@
-~~Title:seho~~
-{{description>He; he also; such persons; that.}}
+---json
+{
+    "name":"seho",
+    "h1":"seho",
+    "title":"seho --- synonyms, prabhupada.io",
+    "description":"He; he also; such persons; that."
+}
+---
 
 ==== seho  ====
   * He --- [[books:cc:adi:3:70|Ādi 3.70]], [[books:cc:adi:4:161|Ādi 4.161]]

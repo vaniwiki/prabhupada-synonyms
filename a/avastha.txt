@@ -1,5 +1,11 @@
-~~Title:avasthā~~
-{{description>condition.}}
+---json
+{
+    "name":"avasthā",
+    "h1":"avasthā",
+    "title":"avasthā --- synonyms, prabhupada.io",
+    "description":"condition."
+}
+---
 
 ==== avasthā  ====
   * condition --- [[books:cc:antya:14:98|Antya 14.98]]

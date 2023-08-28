@@ -1,5 +1,11 @@
-~~Title:gopāyasva~~
-{{description>just raise this child.}}
+---json
+{
+    "name":"gopāyasva",
+    "h1":"gopāyasva",
+    "title":"gopāyasva --- synonyms, prabhupada.io",
+    "description":"just raise this child."
+}
+---
 
 ==== gopāyasva  ====
   * just raise this child --- [[books:sb:10:8:19|SB 10.8.19]]

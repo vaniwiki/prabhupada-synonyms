@@ -1,5 +1,11 @@
-~~Title:sāṅkhyaiḥ~~
-{{description>by means of sāṅkhya philosophy.}}
+---json
+{
+    "name":"sāṅkhyaiḥ",
+    "h1":"sāṅkhyaiḥ",
+    "title":"sāṅkhyaiḥ --- synonyms, prabhupada.io",
+    "description":"by means of sāṅkhya philosophy."
+}
+---
 
 ==== sāṅkhyaiḥ  ====
   * by means of //sāṅkhya// philosophy --- [[books:bg:5:5|Bg. 5.5]]

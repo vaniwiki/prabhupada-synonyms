@@ -1,5 +1,11 @@
-~~Title:bhāṅgile~~
-{{description>when one breaks the order.}}
+---json
+{
+    "name":"bhāṅgile",
+    "h1":"bhāṅgile",
+    "title":"bhāṅgile --- synonyms, prabhupada.io",
+    "description":"when one breaks the order."
+}
+---
 
 ==== ājñā bhāṅgile  ====
   * when one breaks the order --- [[books:cc:antya:10:8|Antya 10.8]]

@@ -1,5 +1,11 @@
-~~Title:potānām~~
-{{description>to her young cubs.}}
+---json
+{
+    "name":"potānām",
+    "h1":"potānām",
+    "title":"potānām --- synonyms, prabhupada.io",
+    "description":"to her young cubs."
+}
+---
 
 ==== sva-potānām  ====
   * to her young cubs --- [[books:cc:madhya:8:6|Madhya 8.6]]

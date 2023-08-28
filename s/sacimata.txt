@@ -1,5 +1,11 @@
-~~Title:śacīmātā~~
-{{description>with mother Śacī.}}
+---json
+{
+    "name":"śacīmātā",
+    "h1":"śacīmātā",
+    "title":"śacīmātā --- synonyms, prabhupada.io",
+    "description":"with mother Śacī."
+}
+---
 
 ==== śacīmātā-sane  ====
   * with mother Śacī --- [[books:cc:antya:12:95|Antya 12.95]]

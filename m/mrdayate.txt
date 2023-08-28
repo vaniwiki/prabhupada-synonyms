@@ -1,5 +1,11 @@
-~~Title:mṛḍayate~~
-{{description>causes happiness.}}
+---json
+{
+    "name":"mṛḍayate",
+    "h1":"mṛḍayate",
+    "title":"mṛḍayate --- synonyms, prabhupada.io",
+    "description":"causes happiness."
+}
+---
 
 ==== mṛḍayate  ====
   * causes happiness --- [[books:sb:3:9:22|SB 3.9.22]]

@@ -1,5 +1,11 @@
-~~Title:thāri~~
-{{description>a Bhaṭṭathāri.}}
+---json
+{
+    "name":"thāri",
+    "h1":"thāri",
+    "title":"thāri --- synonyms, prabhupada.io",
+    "description":"a Bhaṭṭathāri."
+}
+---
 
 ==== bhaṭṭa-thāri  ====
   * a Bhaṭṭathāri --- [[books:cc:madhya:1:112|Madhya 1.112]]

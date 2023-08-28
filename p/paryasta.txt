@@ -1,5 +1,11 @@
-~~Title:paryasta~~
-{{description>covered; disseminating.}}
+---json
+{
+    "name":"paryasta",
+    "h1":"paryasta",
+    "title":"paryasta --- synonyms, prabhupada.io",
+    "description":"covered; disseminating."
+}
+---
 
 ==== paryasta  ====
   * covered --- [[books:sb:8:12:18|SB 8.12.18]]

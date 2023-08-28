@@ -1,5 +1,11 @@
-~~Title:anyat~~
-{{description>another; any other; anyone else; anything else; anything more; anything other than You; different; differently; else; more; other; other causes; other material happinesses; other things; others; some other reason or accident; something else; yet You are everything.}}
+---json
+{
+    "name":"anyat",
+    "h1":"anyat",
+    "title":"anyat --- synonyms, prabhupada.io",
+    "description":"another; any other; anyone else; anything else; anything more; anything other than You; different; differently; else; more; other; other causes; other material happinesses; other things; others; some other reason or accident; something else; yet You are everything."
+}
+---
 
 ==== anyat  ====
   * another --- [[books:cc:madhya:8:58|Madhya 8.58]]

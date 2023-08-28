@@ -1,5 +1,11 @@
-~~Title:kathanāt~~
-{{description>by speaking.}}
+---json
+{
+    "name":"kathanāt",
+    "h1":"kathanāt",
+    "title":"kathanāt --- synonyms, prabhupada.io",
+    "description":"by speaking."
+}
+---
 
 ==== kathanāt  ====
   * by speaking --- [[books:sb:5:3:4-5|SB 5.3.4-5]]

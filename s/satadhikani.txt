@@ -1,5 +1,11 @@
-~~Title:śatādhikāni~~
-{{description>increased by eight hundred.}}
+---json
+{
+    "name":"śatādhikāni",
+    "h1":"śatādhikāni",
+    "title":"śatādhikāni --- synonyms, prabhupada.io",
+    "description":"increased by eight hundred."
+}
+---
 
 ==== aṣṭa-śatādhikāni  ====
   * increased by eight hundred --- [[books:sb:5:21:12|SB 5.21.12]]

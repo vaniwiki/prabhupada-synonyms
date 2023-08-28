@@ -1,5 +1,11 @@
-~~Title:raghu~~
-{{description>Raghu; Raghunātha dāsa.}}
+---json
+{
+    "name":"raghu",
+    "h1":"raghu",
+    "title":"raghu --- synonyms, prabhupada.io",
+    "description":"Raghu; Raghunātha dāsa."
+}
+---
 
 ==== raghu  ====
   * Raghu --- [[books:sb:2:7:43-45|SB 2.7.43-45]], [[books:cc:madhya:13:73|Madhya 13.73]], [[books:cc:madhya:17:90|Madhya 17.90]]

@@ -1,5 +1,11 @@
-~~Title:yāce~~
-{{description>I prayed for; I respectfully beg.}}
+---json
+{
+    "name":"yāce",
+    "h1":"yāce",
+    "title":"yāce --- synonyms, prabhupada.io",
+    "description":"I prayed for; I respectfully beg."
+}
+---
 
 ==== yāce  ====
   * I prayed for --- [[books:sb:4:9:31|SB 4.9.31]]

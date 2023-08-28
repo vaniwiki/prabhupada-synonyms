@@ -1,5 +1,11 @@
-~~Title:yāmānām~~
-{{description>whose every moment.}}
+---json
+{
+    "name":"yāmānām",
+    "h1":"yāmānām",
+    "title":"yāmānām --- synonyms, prabhupada.io",
+    "description":"whose every moment."
+}
+---
 
 ==== yāmānām  ====
   * whose every moment --- [[books:sb:4:30:19|SB 4.30.19]]

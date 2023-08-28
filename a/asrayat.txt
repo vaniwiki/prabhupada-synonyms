@@ -1,5 +1,11 @@
-~~Title:āśrayāt~~
-{{description>taking shelter of.}}
+---json
+{
+    "name":"āśrayāt",
+    "h1":"āśrayāt",
+    "title":"āśrayāt --- synonyms, prabhupada.io",
+    "description":"taking shelter of."
+}
+---
 
 ==== āśrayāt  ====
   * taking shelter of --- [[books:cc:adi:10:1|Ādi 10.1]]

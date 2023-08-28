@@ -1,5 +1,11 @@
-~~Title:vittam~~
-{{description>achievement; all property; his accumulated wealth; money; wealth.}}
+---json
+{
+    "name":"vittam",
+    "h1":"vittam",
+    "title":"vittam --- synonyms, prabhupada.io",
+    "description":"achievement; all property; his accumulated wealth; money; wealth."
+}
+---
 
 ==== vittam  ====
   * achievement --- [[books:sb:8:19:27|SB 8.19.27]]

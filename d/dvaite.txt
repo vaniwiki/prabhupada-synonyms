@@ -1,5 +1,11 @@
-~~Title:dvaite~~
-{{description>in the duality; in the material world; other than the self.}}
+---json
+{
+    "name":"dvaite",
+    "h1":"dvaite",
+    "title":"dvaite --- synonyms, prabhupada.io",
+    "description":"in the duality; in the material world; other than the self."
+}
+---
 
 ==== dvaite  ====
   * in the duality --- [[books:sb:6:15:26|SB 6.15.26]]

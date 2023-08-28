@@ -1,5 +1,11 @@
-~~Title:dadhīta~~
-{{description>one should place.}}
+---json
+{
+    "name":"dadhīta",
+    "h1":"dadhīta",
+    "title":"dadhīta --- synonyms, prabhupada.io",
+    "description":"one should place."
+}
+---
 
 ==== dadhīta  ====
   * one should place --- [[books:sb:5:19:13|SB 5.19.13]]

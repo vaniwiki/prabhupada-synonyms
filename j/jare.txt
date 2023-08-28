@@ -1,5 +1,11 @@
-~~Title:jare~~
-{{description>afflicts.}}
+---json
+{
+    "name":"jare",
+    "h1":"jare",
+    "title":"jare --- synonyms, prabhupada.io",
+    "description":"afflicts."
+}
+---
 
 ==== jare  ====
   * afflicts --- [[books:cc:madhya:3:124|Madhya 3.124]]

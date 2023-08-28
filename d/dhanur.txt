@@ -1,5 +1,11 @@
-~~Title:dhanur~~
-{{description>the carrier of the bow and arrow.}}
+---json
+{
+    "name":"dhanur",
+    "h1":"dhanur",
+    "title":"dhanur --- synonyms, prabhupada.io",
+    "description":"the carrier of the bow and arrow."
+}
+---
 
 ==== dhanur-dharaḥ  ====
   * the carrier of the bow and arrow --- [[books:bg:18:78|Bg. 18.78]]

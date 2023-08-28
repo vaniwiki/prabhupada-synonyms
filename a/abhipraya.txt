@@ -1,5 +1,11 @@
-~~Title:abhiprāya~~
-{{description>intention; purport; purpose; the intention.}}
+---json
+{
+    "name":"abhiprāya",
+    "h1":"abhiprāya",
+    "title":"abhiprāya --- synonyms, prabhupada.io",
+    "description":"intention; purport; purpose; the intention."
+}
+---
 
 ==== abhiprāya  ====
   * intention --- [[books:cc:adi:12:54|Ādi 12.54]], [[books:cc:antya:6:306|Antya 6.306]]

@@ -1,5 +1,11 @@
-~~Title:uṭhāñācha~~
-{{description>have you lifted.}}
+---json
+{
+    "name":"uṭhāñācha",
+    "h1":"uṭhāñācha",
+    "title":"uṭhāñācha --- synonyms, prabhupada.io",
+    "description":"have you lifted."
+}
+---
 
 ==== uṭhāñācha  ====
   * have you lifted --- [[books:cc:antya:18:67|Antya 18.67]]

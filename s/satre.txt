@@ -1,5 +1,11 @@
-~~Title:satre~~
-{{description>at a sacrifice; in the arena of sacrifice; in the sacrifice; in the sacrificial arena; in the sacrificial ceremony.}}
+---json
+{
+    "name":"satre",
+    "h1":"satre",
+    "title":"satre --- synonyms, prabhupada.io",
+    "description":"at a sacrifice; in the arena of sacrifice; in the sacrifice; in the sacrificial arena; in the sacrificial ceremony."
+}
+---
 
 ==== satre  ====
   * at a sacrifice --- [[books:sb:4:2:4|SB 4.2.4]]

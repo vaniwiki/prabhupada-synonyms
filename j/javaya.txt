@@ -1,5 +1,11 @@
-~~Title:javāya~~
-{{description>whose speed.}}
+---json
+{
+    "name":"javāya",
+    "h1":"javāya",
+    "title":"javāya --- synonyms, prabhupada.io",
+    "description":"whose speed."
+}
+---
 
 ==== javāya  ====
   * whose speed --- [[books:sb:4:30:22|SB 4.30.22]]

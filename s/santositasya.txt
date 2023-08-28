@@ -1,5 +1,11 @@
-~~Title:santoṣitasya~~
-{{description>very pleased.}}
+---json
+{
+    "name":"santoṣitasya",
+    "h1":"santoṣitasya",
+    "title":"santoṣitasya --- synonyms, prabhupada.io",
+    "description":"very pleased."
+}
+---
 
 ==== santoṣitasya  ====
   * very pleased --- [[books:sb:8:17:17|SB 8.17.17]]

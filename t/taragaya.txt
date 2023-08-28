@@ -1,5 +1,11 @@
-~~Title:tārāgāya~~
-{{description>let them sing.}}
+---json
+{
+    "name":"tārāgāya",
+    "h1":"tārāgāya",
+    "title":"tārāgāya --- synonyms, prabhupada.io",
+    "description":"let them sing."
+}
+---
 
 ==== tārāgāya  ====
   * let them sing --- [[books:cc:adi:10:19|Ādi 10.19]]

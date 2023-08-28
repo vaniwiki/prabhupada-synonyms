@@ -1,5 +1,11 @@
-~~Title:tarṣaka~~
-{{description>thirst and so on.}}
+---json
+{
+    "name":"tarṣaka",
+    "h1":"tarṣaka",
+    "title":"tarṣaka --- synonyms, prabhupada.io",
+    "description":"thirst and so on."
+}
+---
 
 ==== tarṣaka-ādikam  ====
   * thirst and so on --- [[books:sb:10:13:60|SB 10.13.60]]

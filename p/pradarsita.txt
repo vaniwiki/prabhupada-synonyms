@@ -1,5 +1,11 @@
-~~Title:pradarśita~~
-{{description>shown as an example.}}
+---json
+{
+    "name":"pradarśita",
+    "h1":"pradarśita",
+    "title":"pradarśita --- synonyms, prabhupada.io",
+    "description":"shown as an example."
+}
+---
 
 ==== pradarśita  ====
   * shown as an example --- [[books:sb:5:4:8|SB 5.4.8]]

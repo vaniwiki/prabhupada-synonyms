@@ -1,5 +1,11 @@
-~~Title:vadanāt~~
-{{description>from the mouth of Aghāsura.}}
+---json
+{
+    "name":"vadanāt",
+    "h1":"vadanāt",
+    "title":"vadanāt --- synonyms, prabhupada.io",
+    "description":"from the mouth of Aghāsura."
+}
+---
 
 ==== agha-vadanāt  ====
   * from the mouth of Aghāsura --- [[books:sb:10:13:4|SB 10.13.4]]

@@ -1,5 +1,11 @@
-~~Title:nistāri~~
-{{description>delivering.}}
+---json
+{
+    "name":"nistāri",
+    "h1":"nistāri",
+    "title":"nistāri --- synonyms, prabhupada.io",
+    "description":"delivering."
+}
+---
 
 ==== nistāri  ====
   * delivering --- [[books:cc:antya:2:12|Antya 2.12]]

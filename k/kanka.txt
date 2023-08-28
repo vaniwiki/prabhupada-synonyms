@@ -1,5 +1,11 @@
-~~Title:kanka~~
-{{description>buzzards; heron; herons.}}
+---json
+{
+    "name":"kanka",
+    "h1":"kanka",
+    "title":"kanka --- synonyms, prabhupada.io",
+    "description":"buzzards; heron; herons."
+}
+---
 
 ==== kaṅka  ====
   * buzzards --- [[books:sb:5:14:29|SB 5.14.29]]

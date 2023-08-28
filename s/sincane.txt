@@ -1,5 +1,11 @@
-~~Title:siṅcāne~~
-{{description>moistened.}}
+---json
+{
+    "name":"siṅcāne",
+    "h1":"siṅcāne",
+    "title":"siṅcāne --- synonyms, prabhupada.io",
+    "description":"moistened."
+}
+---
 
 ==== karaye siṅcāne  ====
   * moistened --- [[books:cc:madhya:11:223|Madhya 11.223]]

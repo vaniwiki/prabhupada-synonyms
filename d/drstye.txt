@@ -1,5 +1,11 @@
-~~Title:dṛṣṭye~~
-{{description>with merciful glances.}}
+---json
+{
+    "name":"dṛṣṭye",
+    "h1":"dṛṣṭye",
+    "title":"dṛṣṭye --- synonyms, prabhupada.io",
+    "description":"with merciful glances."
+}
+---
 
 ==== kṛpā-dṛṣṭye  ====
   * with merciful glances --- [[books:cc:madhya:3:153-155|Madhya 3.153-155]]

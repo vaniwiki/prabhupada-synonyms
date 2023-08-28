@@ -1,5 +1,11 @@
-~~Title:tora~~
-{{description>your.}}
+---json
+{
+    "name":"tora",
+    "h1":"tora",
+    "title":"tora --- synonyms, prabhupada.io",
+    "description":"your."
+}
+---
 
 ==== tora  ====
   * your --- [[books:cc:adi:17:52|Ādi 17.52]], [[books:cc:adi:17:182|Ādi 17.182]], [[books:cc:adi:17:183|Ādi 17.183]], [[books:cc:adi:17:57-58|Ādi 17.57-58]], [[books:cc:madhya:2:24|Madhya 2.24]], [[books:cc:madhya:3:93|Madhya 3.93]], [[books:cc:madhya:3:97|Madhya 3.97]], [[books:cc:antya:3:202|Antya 3.202]], [[books:cc:antya:5:117|Antya 5.117]], [[books:cc:antya:6:47|Antya 6.47]]

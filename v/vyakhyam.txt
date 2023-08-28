@@ -1,5 +1,11 @@
-~~Title:vyākhyām~~
-{{description>discourses.}}
+---json
+{
+    "name":"vyākhyām",
+    "h1":"vyākhyām",
+    "title":"vyākhyām --- synonyms, prabhupada.io",
+    "description":"discourses."
+}
+---
 
 ==== vyākhyām  ====
   * discourses --- [[books:sb:7:13:8|SB 7.13.8]]

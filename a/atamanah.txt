@@ -1,5 +1,11 @@
-~~Title:aṭamānaḥ~~
-{{description>wandering in the forest; while on tour; while traveling.}}
+---json
+{
+    "name":"aṭamānaḥ",
+    "h1":"aṭamānaḥ",
+    "title":"aṭamānaḥ --- synonyms, prabhupada.io",
+    "description":"wandering in the forest; while on tour; while traveling."
+}
+---
 
 ==== aṭamānaḥ  ====
   * wandering in the forest --- [[books:sb:9:10:9|SB 9.10.9]]

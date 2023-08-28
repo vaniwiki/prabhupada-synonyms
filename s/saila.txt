@@ -1,5 +1,11 @@
-~~Title:śaila~~
-{{description>hills; hills and mountains; mountain; the hill; the hills and mountains.}}
+---json
+{
+    "name":"śaila",
+    "h1":"śaila",
+    "title":"śaila --- synonyms, prabhupada.io",
+    "description":"hills; hills and mountains; mountain; the hill; the hills and mountains."
+}
+---
 
 ==== śaila  ====
   * hills --- [[books:cc:antya:4:210|Antya 4.210]]

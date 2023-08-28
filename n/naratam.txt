@@ -1,5 +1,11 @@
-~~Title:naratām~~
-{{description>the human form of life.}}
+---json
+{
+    "name":"naratām",
+    "h1":"naratām",
+    "title":"naratām --- synonyms, prabhupada.io",
+    "description":"the human form of life."
+}
+---
 
 ==== naratām  ====
   * the human form of life --- [[books:sb:7:14:5|SB 7.14.5]]

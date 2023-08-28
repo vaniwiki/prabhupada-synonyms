@@ -1,5 +1,11 @@
-~~Title:bādala~~
-{{description>rainfall.}}
+---json
+{
+    "name":"bādala",
+    "h1":"bādala",
+    "title":"bādala --- synonyms, prabhupada.io",
+    "description":"rainfall."
+}
+---
 
 ==== bādala  ====
   * rainfall --- [[books:cc:madhya:13:49|Madhya 13.49]]

@@ -1,5 +1,11 @@
-~~Title:hariṣyati~~
-{{description>will vanquish.}}
+---json
+{
+    "name":"hariṣyati",
+    "h1":"hariṣyati",
+    "title":"hariṣyati --- synonyms, prabhupada.io",
+    "description":"will vanquish."
+}
+---
 
 ==== hariṣyati  ====
   * will vanquish --- [[books:sb:2:7:33|SB 2.7.33]]

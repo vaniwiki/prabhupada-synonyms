@@ -1,5 +1,11 @@
-~~Title:ālokya~~
-{{description>having seen; seeing; seeing personally.}}
+---json
+{
+    "name":"ālokya",
+    "h1":"ālokya",
+    "title":"ālokya --- synonyms, prabhupada.io",
+    "description":"having seen; seeing; seeing personally."
+}
+---
 
 ==== ālokya  ====
   * having seen --- [[books:sb:1:7:52|SB 1.7.52]]

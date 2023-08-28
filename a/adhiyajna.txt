@@ -1,5 +1,11 @@
-~~Title:adhiyajña~~
-{{description>the master of all sacrifices.}}
+---json
+{
+    "name":"adhiyajña",
+    "h1":"adhiyajña",
+    "title":"adhiyajña --- synonyms, prabhupada.io",
+    "description":"the master of all sacrifices."
+}
+---
 
 ==== adhiyajña-patim  ====
   * the master of all sacrifices --- [[books:sb:4:14:32|SB 4.14.32]]

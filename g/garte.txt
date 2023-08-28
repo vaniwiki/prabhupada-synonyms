@@ -1,5 +1,11 @@
-~~Title:garte~~
-{{description>in a hollow; in the ditch; in the hole.}}
+---json
+{
+    "name":"garte",
+    "h1":"garte",
+    "title":"garte --- synonyms, prabhupada.io",
+    "description":"in a hollow; in the ditch; in the hole."
+}
+---
 
 ==== garte  ====
   * in a hollow --- [[books:sb:3:31:5|SB 3.31.5]]

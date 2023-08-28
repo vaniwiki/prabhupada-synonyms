@@ -1,5 +1,11 @@
-~~Title:khaṇḍa~~
-{{description>broken; candy; pieces; sugar; sugar candy; sweetmeats; with groups.}}
+---json
+{
+    "name":"khaṇḍa",
+    "h1":"khaṇḍa",
+    "title":"khaṇḍa --- synonyms, prabhupada.io",
+    "description":"broken; candy; pieces; sugar; sugar candy; sweetmeats; with groups."
+}
+---
 
 ==== khaṇḍa  ====
   * broken --- [[books:cc:madhya:5:151|Madhya 5.151]]

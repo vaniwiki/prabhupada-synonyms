@@ -1,5 +1,11 @@
-~~Title:etāvat~~
-{{description>all that you have spoken; in this way; so far; so much; this much; thus; up to this.}}
+---json
+{
+    "name":"etāvat",
+    "h1":"etāvat",
+    "title":"etāvat --- synonyms, prabhupada.io",
+    "description":"all that you have spoken; in this way; so far; so much; this much; thus; up to this."
+}
+---
 
 ==== etāvat  ====
   * all that you have spoken --- [[books:sb:2:5:10|SB 2.5.10]]

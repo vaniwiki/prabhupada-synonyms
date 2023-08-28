@@ -1,5 +1,11 @@
-~~Title:bhittye~~
-{{description>on the outside wall; on the walls.}}
+---json
+{
+    "name":"bhittye",
+    "h1":"bhittye",
+    "title":"bhittye --- synonyms, prabhupada.io",
+    "description":"on the outside wall; on the walls."
+}
+---
 
 ==== bhittye  ====
   * on the outside wall --- [[books:cc:madhya:6:253|Madhya 6.253]]

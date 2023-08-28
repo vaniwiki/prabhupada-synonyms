@@ -1,5 +1,11 @@
-~~Title:prasangah~~
-{{description>affinity; an intimate relationship; association; attached; intimate association; intimately associated; one wants association.}}
+---json
+{
+    "name":"prasangah",
+    "h1":"prasangah",
+    "title":"prasangah --- synonyms, prabhupada.io",
+    "description":"affinity; an intimate relationship; association; attached; intimate association; intimately associated; one wants association."
+}
+---
 
 ==== prasaṅgaḥ  ====
   * affinity --- [[books:sb:3:23:54|SB 3.23.54]]

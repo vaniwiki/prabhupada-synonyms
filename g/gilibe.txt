@@ -1,5 +1,11 @@
-~~Title:gilibe~~
-{{description>will devour.}}
+---json
+{
+    "name":"gilibe",
+    "h1":"gilibe",
+    "title":"gilibe --- synonyms, prabhupada.io",
+    "description":"will devour."
+}
+---
 
 ==== gilibe  ====
   * will devour --- [[books:cc:madhya:20:134|Madhya 20.134]]

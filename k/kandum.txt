@@ -1,5 +1,11 @@
-~~Title:kaṇḍūm~~
-{{description>itching.}}
+---json
+{
+    "name":"kaṇḍūm",
+    "h1":"kaṇḍūm",
+    "title":"kaṇḍūm --- synonyms, prabhupada.io",
+    "description":"itching."
+}
+---
 
 ==== kaṇḍūm  ====
   * itching --- [[books:sb:3:6:18|SB 3.6.18]]

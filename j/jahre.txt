@@ -1,5 +1,11 @@
-~~Title:jahre~~
-{{description>took away.}}
+---json
+{
+    "name":"jahre",
+    "h1":"jahre",
+    "title":"jahre --- synonyms, prabhupada.io",
+    "description":"took away."
+}
+---
 
 ==== jahre  ====
   * took away --- [[books:sb:3:3:3|SB 3.3.3]]

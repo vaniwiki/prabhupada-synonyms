@@ -1,5 +1,11 @@
-~~Title:samavetāḥ~~
-{{description>assembled.}}
+---json
+{
+    "name":"samavetāḥ",
+    "h1":"samavetāḥ",
+    "title":"samavetāḥ --- synonyms, prabhupada.io",
+    "description":"assembled."
+}
+---
 
 ==== samavetāḥ  ====
   * assembled --- [[books:bg:1:1|Bg. 1.1]]

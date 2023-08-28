@@ -1,5 +1,11 @@
-~~Title:tinera~~
-{{description>of the three; of these three; or of three.}}
+---json
+{
+    "name":"tinera",
+    "h1":"tinera",
+    "title":"tinera --- synonyms, prabhupada.io",
+    "description":"of the three; of these three; or of three."
+}
+---
 
 ==== tinera  ====
   * of the three --- [[books:cc:adi:1:19|Ādi 1.19]], [[books:cc:adi:2:57|Ādi 2.57]], [[books:cc:madhya:6:196|Madhya 6.196]], [[books:cc:madhya:20:254|Madhya 20.254]]

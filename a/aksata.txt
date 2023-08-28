@@ -1,5 +1,11 @@
-~~Title:akṣata~~
-{{description>barley; by unbroken grains; grains of rice; unbroken; without being injured.}}
+---json
+{
+    "name":"akṣata",
+    "h1":"akṣata",
+    "title":"akṣata --- synonyms, prabhupada.io",
+    "description":"barley; by unbroken grains; grains of rice; unbroken; without being injured."
+}
+---
 
 ==== akṣata  ====
   * barley --- [[books:sb:4:9:58-59|SB 4.9.58-59]]

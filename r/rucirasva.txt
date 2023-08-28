@@ -1,5 +1,11 @@
-~~Title:rucirāśva~~
-{{description>the son of Rucirāśva.}}
+---json
+{
+    "name":"rucirāśva",
+    "h1":"rucirāśva",
+    "title":"rucirāśva --- synonyms, prabhupada.io",
+    "description":"the son of Rucirāśva."
+}
+---
 
 ==== rucirāśva-sutaḥ  ====
   * the son of Rucirāśva --- [[books:sb:9:21:24|SB 9.21.24]]

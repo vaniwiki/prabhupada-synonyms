@@ -1,5 +1,11 @@
-~~Title:kariche~~
-{{description>is doing.}}
+---json
+{
+    "name":"kariche",
+    "h1":"kariche",
+    "title":"kariche --- synonyms, prabhupada.io",
+    "description":"is doing."
+}
+---
 
 ==== kariche  ====
   * is doing --- [[books:cc:madhya:19:71|Madhya 19.71]]

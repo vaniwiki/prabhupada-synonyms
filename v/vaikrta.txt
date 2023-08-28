@@ -1,5 +1,11 @@
-~~Title:vaikṛta~~
-{{description>the demigods.}}
+---json
+{
+    "name":"vaikṛta",
+    "h1":"vaikṛta",
+    "title":"vaikṛta --- synonyms, prabhupada.io",
+    "description":"the demigods."
+}
+---
 
 ==== vaikṛta  ====
   * the demigods --- [[books:sb:5:17:22-23|SB 5.17.22-23]]

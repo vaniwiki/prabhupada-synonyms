@@ -1,5 +1,11 @@
-~~Title:hṛt~~
-{{description>heart; in the heart; of the heart; the heart; to the heart; whose hearts; with the heart; within the heart.}}
+---json
+{
+    "name":"hṛt",
+    "h1":"hṛt",
+    "title":"hṛt --- synonyms, prabhupada.io",
+    "description":"heart; in the heart; of the heart; the heart; to the heart; whose hearts; with the heart; within the heart."
+}
+---
 
 ==== hṛt  ====
   * heart --- [[books:sb:2:2:10|SB 2.2.10]], [[books:sb:4:6:47|SB 4.6.47]], [[books:sb:4:29:18-20|SB 4.29.18-20]]

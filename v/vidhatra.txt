@@ -1,5 +1,11 @@
-~~Title:vidhātrā~~
-{{description>by providence.}}
+---json
+{
+    "name":"vidhātrā",
+    "h1":"vidhātrā",
+    "title":"vidhātrā --- synonyms, prabhupada.io",
+    "description":"by providence."
+}
+---
 
 ==== vidhātrā  ====
   * by providence --- [[books:sb:7:2:33|SB 7.2.33]]

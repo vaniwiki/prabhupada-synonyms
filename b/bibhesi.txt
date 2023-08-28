@@ -1,5 +1,11 @@
-~~Title:bibheṣi~~
-{{description>do fear.}}
+---json
+{
+    "name":"bibheṣi",
+    "h1":"bibheṣi",
+    "title":"bibheṣi --- synonyms, prabhupada.io",
+    "description":"do fear."
+}
+---
 
 ==== bibheṣi  ====
   * do fear --- [[books:sb:3:1:11|SB 3.1.11]]

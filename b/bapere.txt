@@ -1,5 +1,11 @@
-~~Title:bāpere~~
-{{description>Your father.}}
+---json
+{
+    "name":"bāpere",
+    "h1":"bāpere",
+    "title":"bāpere --- synonyms, prabhupada.io",
+    "description":"Your father."
+}
+---
 
 ==== bāpere  ====
   * Your father --- [[books:cc:adi:14:77|Ādi 14.77]]

@@ -1,5 +1,11 @@
-~~Title:jagatyām~~
-{{description>in this world, everywhere; within the universe.}}
+---json
+{
+    "name":"jagatyām",
+    "h1":"jagatyām",
+    "title":"jagatyām --- synonyms, prabhupada.io",
+    "description":"in this world, everywhere; within the universe."
+}
+---
 
 ==== jagatyām  ====
   * in this world, everywhere --- [[books:sb:8:1:10|SB 8.1.10]]

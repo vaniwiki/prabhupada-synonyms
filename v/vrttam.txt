@@ -1,5 +1,11 @@
-~~Title:vṛttam~~
-{{description>behavior; character; the existence; the manners; the situation.}}
+---json
+{
+    "name":"vṛttam",
+    "h1":"vṛttam",
+    "title":"vṛttam --- synonyms, prabhupada.io",
+    "description":"behavior; character; the existence; the manners; the situation."
+}
+---
 
 ==== vṛttam  ====
   * behavior --- [[books:sb:4:22:5|SB 4.22.5]]

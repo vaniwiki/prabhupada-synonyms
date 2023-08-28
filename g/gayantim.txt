@@ -1,5 +1,11 @@
-~~Title:gāyantīm~~
-{{description>dancing girl.}}
+---json
+{
+    "name":"gāyantīm",
+    "h1":"gāyantīm",
+    "title":"gāyantīm --- synonyms, prabhupada.io",
+    "description":"dancing girl."
+}
+---
 
 ==== gāyantīm  ====
   * dancing girl --- [[books:sb:5:2:3|SB 5.2.3]]

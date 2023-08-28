@@ -1,5 +1,11 @@
-~~Title:bhramite~~
-{{description>wandering.}}
+---json
+{
+    "name":"bhramite",
+    "h1":"bhramite",
+    "title":"bhramite --- synonyms, prabhupada.io",
+    "description":"wandering."
+}
+---
 
 ==== bhramite  ====
   * wandering --- [[books:cc:madhya:3:5|Madhya 3.5]], [[books:cc:madhya:13:180|Madhya 13.180]]

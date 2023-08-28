@@ -1,5 +1,11 @@
-~~Title:sadhrīcīnaḥ~~
-{{description>just appropriate.}}
+---json
+{
+    "name":"sadhrīcīnaḥ",
+    "h1":"sadhrīcīnaḥ",
+    "title":"sadhrīcīnaḥ --- synonyms, prabhupada.io",
+    "description":"just appropriate."
+}
+---
 
 ==== sadhrīcīnaḥ  ====
   * just appropriate --- [[books:sb:6:1:17|SB 6.1.17]]

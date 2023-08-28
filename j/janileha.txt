@@ -1,5 +1,11 @@
-~~Title:jānileha~~
-{{description>even though it was known.}}
+---json
+{
+    "name":"jānileha",
+    "h1":"jānileha",
+    "title":"jānileha --- synonyms, prabhupada.io",
+    "description":"even though it was known."
+}
+---
 
 ==== jānileha  ====
   * even though it was known --- [[books:cc:madhya:8:130-131|Madhya 8.130-131]]

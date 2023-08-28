@@ -1,5 +1,11 @@
-~~Title:avekṣe~~
-{{description>let me see.}}
+---json
+{
+    "name":"avekṣe",
+    "h1":"avekṣe",
+    "title":"avekṣe --- synonyms, prabhupada.io",
+    "description":"let me see."
+}
+---
 
 ==== avekṣe  ====
   * let me see --- [[books:bg:1:23|Bg. 1.23]]

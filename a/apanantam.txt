@@ -1,5 +1,11 @@
-~~Title:apānantam~~
-{{description>stop endeavoring.}}
+---json
+{
+    "name":"apānantam",
+    "h1":"apānantam",
+    "title":"apānantam --- synonyms, prabhupada.io",
+    "description":"stop endeavoring."
+}
+---
 
 ==== apānantam  ====
   * stop endeavoring --- [[books:sb:2:10:16|SB 2.10.16]]

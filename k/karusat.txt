@@ -1,5 +1,11 @@
-~~Title:karūṣāt~~
-{{description>from Karūṣa.}}
+---json
+{
+    "name":"karūṣāt",
+    "h1":"karūṣāt",
+    "title":"karūṣāt --- synonyms, prabhupada.io",
+    "description":"from Karūṣa."
+}
+---
 
 ==== karūṣāt  ====
   * from Karūṣa --- [[books:sb:9:2:16|SB 9.2.16]]

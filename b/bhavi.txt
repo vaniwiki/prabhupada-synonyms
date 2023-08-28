@@ -1,5 +1,11 @@
-~~Title:bhavi~~
-{{description>thinking; thinking of.}}
+---json
+{
+    "name":"bhavi",
+    "h1":"bhavi",
+    "title":"bhavi --- synonyms, prabhupada.io",
+    "description":"thinking; thinking of."
+}
+---
 
 ==== bhāvi'  ====
   * thinking --- [[books:cc:adi:3:29|Ādi 3.29]], [[books:cc:adi:3:107|Ādi 3.107]]

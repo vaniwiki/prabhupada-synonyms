@@ -1,5 +1,11 @@
-~~Title:uccārimu~~
-{{description>I shall chant.}}
+---json
+{
+    "name":"uccārimu",
+    "h1":"uccārimu",
+    "title":"uccārimu --- synonyms, prabhupada.io",
+    "description":"I shall chant."
+}
+---
 
 ==== uccārimu  ====
   * I shall chant --- [[books:cc:antya:11:34|Antya 11.34]]

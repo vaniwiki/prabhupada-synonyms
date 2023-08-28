@@ -1,5 +1,11 @@
-~~Title:svapan~~
-{{description>by dreaming; dreaming in sleep.}}
+---json
+{
+    "name":"svapan",
+    "h1":"svapan",
+    "title":"svapan --- synonyms, prabhupada.io",
+    "description":"by dreaming; dreaming in sleep."
+}
+---
 
 ==== svapan  ====
   * by dreaming --- [[books:bg:5:8-9|Bg. 5.8-9]]

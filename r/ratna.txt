@@ -1,5 +1,11 @@
-~~Title:ratna~~
-{{description>bedecked with jewels; gem; gems; in jewels; jewel; jewels; made of jewels; of gems; other jewels; the jewel; with jewelry; with jewels.}}
+---json
+{
+    "name":"ratna",
+    "h1":"ratna",
+    "title":"ratna --- synonyms, prabhupada.io",
+    "description":"bedecked with jewels; gem; gems; in jewels; jewel; jewels; made of jewels; of gems; other jewels; the jewel; with jewelry; with jewels."
+}
+---
 
 ==== ratna  ====
   * bedecked with jewels --- [[books:cc:adi:8:50|Ādi 8.50]]

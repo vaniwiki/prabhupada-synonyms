@@ -1,5 +1,11 @@
-~~Title:vṛṇīdhvam~~
-{{description>ask.}}
+---json
+{
+    "name":"vṛṇīdhvam",
+    "h1":"vṛṇīdhvam",
+    "title":"vṛṇīdhvam --- synonyms, prabhupada.io",
+    "description":"ask."
+}
+---
 
 ==== vṛṇīdhvam  ====
   * ask --- [[books:sb:4:30:8|SB 4.30.8]]

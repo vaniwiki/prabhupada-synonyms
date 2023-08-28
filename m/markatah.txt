@@ -1,5 +1,11 @@
-~~Title:markaṭāḥ~~
-{{description>monkeys.}}
+---json
+{
+    "name":"markaṭāḥ",
+    "h1":"markaṭāḥ",
+    "title":"markaṭāḥ --- synonyms, prabhupada.io",
+    "description":"monkeys."
+}
+---
 
 ==== markaṭāḥ  ====
   * monkeys --- [[books:sb:8:2:22|SB 8.2.22]]

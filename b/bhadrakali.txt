@@ -1,5 +1,11 @@
-~~Title:bhadrakālī~~
-{{description>Bhadra Kālī.}}
+---json
+{
+    "name":"bhadrakālī",
+    "h1":"bhadrakālī",
+    "title":"bhadrakālī --- synonyms, prabhupada.io",
+    "description":"Bhadra Kālī."
+}
+---
 
 ==== bhadrakālī  ====
   * Bhadra Kālī --- [[books:sb:8:10:30-31|SB 8.10.30-31]]

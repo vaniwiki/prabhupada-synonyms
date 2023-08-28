@@ -1,5 +1,11 @@
-~~Title:jvalana~~
-{{description>fire; lighting.}}
+---json
+{
+    "name":"jvalana",
+    "h1":"jvalana",
+    "title":"jvalana --- synonyms, prabhupada.io",
+    "description":"fire; lighting."
+}
+---
 
 ==== jvalana  ====
   * fire --- [[books:sb:3:19:13|SB 3.19.13]], [[books:cc:adi:7:116|Ādi 7.116]]

@@ -1,5 +1,11 @@
-~~Title:apavāda~~
-{{description>to counteract.}}
+---json
+{
+    "name":"apavāda",
+    "h1":"apavāda",
+    "title":"apavāda --- synonyms, prabhupada.io",
+    "description":"to counteract."
+}
+---
 
 ==== apavāda-artham  ====
   * to counteract --- [[books:sb:4:29:79|SB 4.29.79]]

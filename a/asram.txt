@@ -1,5 +1,11 @@
-~~Title:asram~~
-{{description>with tears.}}
+---json
+{
+    "name":"asram",
+    "h1":"asram",
+    "title":"asram --- synonyms, prabhupada.io",
+    "description":"with tears."
+}
+---
 
 ==== sa-asram  ====
   * with tears --- [[books:cc:antya:1:145|Antya 1.145]]

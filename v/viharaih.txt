@@ -1,5 +1,11 @@
-~~Title:vihāraiḥ~~
-{{description>by different pastimes.}}
+---json
+{
+    "name":"vihāraiḥ",
+    "h1":"vihāraiḥ",
+    "title":"vihāraiḥ --- synonyms, prabhupada.io",
+    "description":"by different pastimes."
+}
+---
 
 ==== vihāraiḥ  ====
   * by different pastimes --- [[books:sb:10:11:59|SB 10.11.59]]

@@ -1,5 +1,11 @@
-~~Title:pālayanti~~
-{{description>execute the order.}}
+---json
+{
+    "name":"pālayanti",
+    "h1":"pālayanti",
+    "title":"pālayanti --- synonyms, prabhupada.io",
+    "description":"execute the order."
+}
+---
 
 ==== pālayanti  ====
   * execute the order --- [[books:sb:8:14:6|SB 8.14.6]]

@@ -1,5 +1,11 @@
-~~Title:prasravantī~~
-{{description>flowing.}}
+---json
+{
+    "name":"prasravantī",
+    "h1":"prasravantī",
+    "title":"prasravantī --- synonyms, prabhupada.io",
+    "description":"flowing."
+}
+---
 
 ==== prasravantī  ====
   * flowing --- [[books:sb:5:17:6|SB 5.17.6]]

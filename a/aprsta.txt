@@ -1,5 +1,11 @@
-~~Title:āpṛṣṭa~~
-{{description>being questioned.}}
+---json
+{
+    "name":"āpṛṣṭa",
+    "h1":"āpṛṣṭa",
+    "title":"āpṛṣṭa --- synonyms, prabhupada.io",
+    "description":"being questioned."
+}
+---
 
 ==== āpṛṣṭa  ====
   * being questioned --- [[books:sb:3:7:42|SB 3.7.42]]

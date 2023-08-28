@@ -1,5 +1,11 @@
-~~Title:hṛte~~
-{{description>because of being lost; being inundated.}}
+---json
+{
+    "name":"hṛte",
+    "h1":"hṛte",
+    "title":"hṛte --- synonyms, prabhupada.io",
+    "description":"because of being lost; being inundated."
+}
+---
 
 ==== hṛte  ====
   * because of being lost --- [[books:sb:8:16:1|SB 8.16.1]]

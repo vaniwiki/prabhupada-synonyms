@@ -1,5 +1,11 @@
-~~Title:mauṣala~~
-{{description>the pastimes of destroying the Yadu dynasty.}}
+---json
+{
+    "name":"mauṣala",
+    "h1":"mauṣala",
+    "title":"mauṣala --- synonyms, prabhupada.io",
+    "description":"the pastimes of destroying the Yadu dynasty."
+}
+---
 
 ==== mauṣala-līlā  ====
   * the pastimes of destroying the Yadu dynasty --- [[books:cc:madhya:23:117-118|Madhya 23.117-118]]

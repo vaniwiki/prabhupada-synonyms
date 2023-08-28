@@ -1,5 +1,11 @@
-~~Title:niyokṣyati~~
-{{description>will engage you.}}
+---json
+{
+    "name":"niyokṣyati",
+    "h1":"niyokṣyati",
+    "title":"niyokṣyati --- synonyms, prabhupada.io",
+    "description":"will engage you."
+}
+---
 
 ==== niyokṣyati  ====
   * will engage you --- [[books:bg:18:59|Bg. 18.59]]

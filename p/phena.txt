@@ -1,5 +1,11 @@
-~~Title:phena~~
-{{description>foam; the foam.}}
+---json
+{
+    "name":"phena",
+    "h1":"phena",
+    "title":"phena --- synonyms, prabhupada.io",
+    "description":"foam; the foam."
+}
+---
 
 ==== phena  ====
   * foam --- [[books:sb:4:9:61|SB 4.9.61]], [[books:cc:madhya:13:109|Madhya 13.109]], [[books:cc:antya:14:68|Antya 14.68]], [[books:cc:antya:17:16|Antya 17.16]]

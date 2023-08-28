@@ -1,5 +1,11 @@
-~~Title:cakartha~~
-{{description>having performed; performed.}}
+---json
+{
+    "name":"cakartha",
+    "h1":"cakartha",
+    "title":"cakartha --- synonyms, prabhupada.io",
+    "description":"having performed; performed."
+}
+---
 
 ==== cakartha  ====
   * having performed --- [[books:sb:2:9:22|SB 2.9.22]]

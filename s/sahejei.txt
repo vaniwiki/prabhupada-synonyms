@@ -1,5 +1,11 @@
-~~Title:sahejei~~
-{{description>naturally.}}
+---json
+{
+    "name":"sahejei",
+    "h1":"sahejei",
+    "title":"sahejei --- synonyms, prabhupada.io",
+    "description":"naturally."
+}
+---
 
 ==== sahejei  ====
   * naturally --- [[books:cc:antya:13:29|Antya 13.29]]

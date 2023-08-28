@@ -1,5 +1,11 @@
-~~Title:asaṁyata~~
-{{description>unbridled.}}
+---json
+{
+    "name":"asaṁyata",
+    "h1":"asaṁyata",
+    "title":"asaṁyata --- synonyms, prabhupada.io",
+    "description":"unbridled."
+}
+---
 
 ==== asaṁyata  ====
   * unbridled --- [[books:bg:6:36|Bg. 6.36]]

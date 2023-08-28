@@ -1,5 +1,11 @@
-~~Title:mandara~~
-{{description>of Mandara Hill; the Mandara Hill.}}
+---json
+{
+    "name":"mandara",
+    "h1":"mandara",
+    "title":"mandara --- synonyms, prabhupada.io",
+    "description":"of Mandara Hill; the Mandara Hill."
+}
+---
 
 ==== mandara  ====
   * of Mandara Hill --- [[books:sb:4:23:24|SB 4.23.24]]

@@ -1,5 +1,11 @@
-~~Title:miṣṭānna~~
-{{description>sweetmeats.}}
+---json
+{
+    "name":"miṣṭānna",
+    "h1":"miṣṭānna",
+    "title":"miṣṭānna --- synonyms, prabhupada.io",
+    "description":"sweetmeats."
+}
+---
 
 ==== miṣṭānna  ====
   * sweetmeats --- [[books:cc:antya:2:77|Antya 2.77]], [[books:cc:antya:3:30|Antya 3.30]]

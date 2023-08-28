@@ -1,5 +1,11 @@
-~~Title:kṣamasva~~
-{{description>forgive.}}
+---json
+{
+    "name":"kṣamasva",
+    "h1":"kṣamasva",
+    "title":"kṣamasva --- synonyms, prabhupada.io",
+    "description":"forgive."
+}
+---
 
 ==== kṣamasva  ====
   * forgive --- [[books:sb:9:24:33|SB 9.24.33]]

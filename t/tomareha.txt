@@ -1,5 +1,11 @@
-~~Title:tomāreha~~
-{{description>even you.}}
+---json
+{
+    "name":"tomāreha",
+    "h1":"tomāreha",
+    "title":"tomāreha --- synonyms, prabhupada.io",
+    "description":"even you."
+}
+---
 
 ==== tomāreha  ====
   * even you --- [[books:cc:antya:4:160|Antya 4.160]]

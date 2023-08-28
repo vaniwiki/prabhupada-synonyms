@@ -1,5 +1,11 @@
-~~Title:kankse~~
-{{description>do I desire.}}
+---json
+{
+    "name":"kankse",
+    "h1":"kankse",
+    "title":"kankse --- synonyms, prabhupada.io",
+    "description":"do I desire."
+}
+---
 
 ==== kānkṣe  ====
   * do I desire --- [[books:bg:1:31|Bg. 1.31]]

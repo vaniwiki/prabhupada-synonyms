@@ -1,5 +1,11 @@
-~~Title:samākramya~~
-{{description>embracing.}}
+---json
+{
+    "name":"samākramya",
+    "h1":"samākramya",
+    "title":"samākramya --- synonyms, prabhupada.io",
+    "description":"embracing."
+}
+---
 
 ==== samākramya  ====
   * embracing --- [[books:sb:10:6:37-38|SB 10.6.37-38]]

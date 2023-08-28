@@ -1,5 +1,11 @@
-~~Title:nagariyāke~~
-{{description>all the citizens.}}
+---json
+{
+    "name":"nagariyāke",
+    "h1":"nagariyāke",
+    "title":"nagariyāke --- synonyms, prabhupada.io",
+    "description":"all the citizens."
+}
+---
 
 ==== nagariyāke  ====
   * all the citizens --- [[books:cc:adi:17:209|Ādi 17.209]]

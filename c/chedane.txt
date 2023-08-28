@@ -1,5 +1,11 @@
-~~Title:chedane~~
-{{description>when the chopping off of the head.}}
+---json
+{
+    "name":"chedane",
+    "h1":"chedane",
+    "title":"chedane --- synonyms, prabhupada.io",
+    "description":"when the chopping off of the head."
+}
+---
 
 ==== sva-śiraḥ-chedane  ====
   * when the chopping off of the head --- [[books:sb:5:9:20|SB 5.9.20]]

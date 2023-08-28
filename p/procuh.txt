@@ -1,5 +1,11 @@
-~~Title:procuḥ~~
-{{description>said; spoke; they said; uttered.}}
+---json
+{
+    "name":"procuḥ",
+    "h1":"procuḥ",
+    "title":"procuḥ --- synonyms, prabhupada.io",
+    "description":"said; spoke; they said; uttered."
+}
+---
 
 ==== procuḥ  ====
   * said --- [[books:sb:1:11:4-5|SB 1.11.4-5]]

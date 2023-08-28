@@ -1,5 +1,11 @@
-~~Title:samutpādya~~
-{{description>after being created.}}
+---json
+{
+    "name":"samutpādya",
+    "h1":"samutpādya",
+    "title":"samutpādya --- synonyms, prabhupada.io",
+    "description":"after being created."
+}
+---
 
 ==== samutpādya  ====
   * after being created --- [[books:sb:10:3:15-17|SB 10.3.15-17]]

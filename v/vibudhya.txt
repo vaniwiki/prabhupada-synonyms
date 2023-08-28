@@ -1,5 +1,11 @@
-~~Title:vibudhya~~
-{{description>learned about; understanding.}}
+---json
+{
+    "name":"vibudhya",
+    "h1":"vibudhya",
+    "title":"vibudhya --- synonyms, prabhupada.io",
+    "description":"learned about; understanding."
+}
+---
 
 ==== vibudhya  ====
   * learned about --- [[books:sb:3:15:37|SB 3.15.37]]

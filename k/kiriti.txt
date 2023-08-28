@@ -1,5 +1,11 @@
-~~Title:kirītī~~
-{{description>Arjuna.}}
+---json
+{
+    "name":"kirītī",
+    "h1":"kirītī",
+    "title":"kirītī --- synonyms, prabhupada.io",
+    "description":"Arjuna."
+}
+---
 
 ==== kirītī  ====
   * Arjuna --- [[books:bg:11:35|Bg. 11.35]]

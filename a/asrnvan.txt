@@ -1,5 +1,11 @@
-~~Title:aśṛṇvan~~
-{{description>without hearing.}}
+---json
+{
+    "name":"aśṛṇvan",
+    "h1":"aśṛṇvan",
+    "title":"aśṛṇvan --- synonyms, prabhupada.io",
+    "description":"without hearing."
+}
+---
 
 ==== aśṛṇvan  ====
   * without hearing --- [[books:sb:1:15:43|SB 1.15.43]]

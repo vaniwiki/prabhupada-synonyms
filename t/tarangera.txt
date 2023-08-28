@@ -1,5 +1,11 @@
-~~Title:taraṅgera~~
-{{description>the waves.}}
+---json
+{
+    "name":"taraṅgera",
+    "h1":"taraṅgera",
+    "title":"taraṅgera --- synonyms, prabhupada.io",
+    "description":"the waves."
+}
+---
 
 ==== taraṅgera gaṇe  ====
   * the waves --- [[books:cc:antya:18:29|Antya 18.29]]

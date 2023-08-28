@@ -1,5 +1,11 @@
-~~Title:papi~~
-{{description>you sinful person.}}
+---json
+{
+    "name":"papi",
+    "h1":"papi",
+    "title":"papi --- synonyms, prabhupada.io",
+    "description":"you sinful person."
+}
+---
 
 ==== pāpi  ====
   * you sinful person --- [[books:cc:adi:17:51|Ādi 17.51]]

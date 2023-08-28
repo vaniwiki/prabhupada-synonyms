@@ -1,5 +1,11 @@
-~~Title:anindite~~
-{{description>O irreproachable lady; O praiseworthy Devahūti.}}
+---json
+{
+    "name":"anindite",
+    "h1":"anindite",
+    "title":"anindite --- synonyms, prabhupada.io",
+    "description":"O irreproachable lady; O praiseworthy Devahūti."
+}
+---
 
 ==== anindite  ====
   * O irreproachable lady --- [[books:sb:6:18:32|SB 6.18.32]]

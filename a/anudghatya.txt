@@ -1,5 +1,11 @@
-~~Title:anudghāṭya~~
-{{description>without opening.}}
+---json
+{
+    "name":"anudghāṭya",
+    "h1":"anudghāṭya",
+    "title":"anudghāṭya --- synonyms, prabhupada.io",
+    "description":"without opening."
+}
+---
 
 ==== anudghāṭya  ====
   * without opening --- [[books:cc:antya:17:72|Antya 17.72]]

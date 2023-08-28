@@ -1,5 +1,11 @@
-~~Title:avidam~~
-{{description>easily understood.}}
+---json
+{
+    "name":"avidam",
+    "h1":"avidam",
+    "title":"avidam --- synonyms, prabhupada.io",
+    "description":"easily understood."
+}
+---
 
 ==== avidam  ====
   * easily understood --- [[books:sb:1:5:31|SB 1.5.31]]

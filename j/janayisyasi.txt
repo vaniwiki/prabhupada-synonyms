@@ -1,5 +1,11 @@
-~~Title:janayiṣyasi~~
-{{description>you will give birth to.}}
+---json
+{
+    "name":"janayiṣyasi",
+    "h1":"janayiṣyasi",
+    "title":"janayiṣyasi --- synonyms, prabhupada.io",
+    "description":"you will give birth to."
+}
+---
 
 ==== janayiṣyasi  ====
   * you will give birth to --- [[books:sb:9:23:37|SB 9.23.37]]

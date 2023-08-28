@@ -1,5 +1,11 @@
-~~Title:sandaṣṭaḥ~~
-{{description>bitten.}}
+---json
+{
+    "name":"sandaṣṭaḥ",
+    "h1":"sandaṣṭaḥ",
+    "title":"sandaṣṭaḥ --- synonyms, prabhupada.io",
+    "description":"bitten."
+}
+---
 
 ==== sandaṣṭaḥ  ====
   * bitten --- [[books:sb:6:2:15|SB 6.2.15]]

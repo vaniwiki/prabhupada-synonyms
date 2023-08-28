@@ -1,5 +1,11 @@
-~~Title:yanha~~
-{{description>where; wherever; which.}}
+---json
+{
+    "name":"yanha",
+    "h1":"yanha",
+    "title":"yanha --- synonyms, prabhupada.io",
+    "description":"where; wherever; which."
+}
+---
 
 ==== yāṅhā  ====
   * where --- [[books:cc:adi:5:21|Ādi 5.21]], [[books:cc:madhya:9:245|Madhya 9.245]], [[books:cc:madhya:15:299|Madhya 15.299]], [[books:cc:madhya:17:173|Madhya 17.173]], [[books:cc:madhya:24:29|Madhya 24.29]]

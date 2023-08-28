@@ -1,5 +1,11 @@
-~~Title:nāmilena~~
-{{description>got down in the water.}}
+---json
+{
+    "name":"nāmilena",
+    "h1":"nāmilena",
+    "title":"nāmilena --- synonyms, prabhupada.io",
+    "description":"got down in the water."
+}
+---
 
 ==== nāmilena jale  ====
   * got down in the water --- [[books:cc:antya:10:49|Antya 10.49]]

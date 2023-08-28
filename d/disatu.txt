@@ -1,5 +1,11 @@
-~~Title:diśatu~~
-{{description>let it give; may bestow.}}
+---json
+{
+    "name":"diśatu",
+    "h1":"diśatu",
+    "title":"diśatu --- synonyms, prabhupada.io",
+    "description":"let it give; may bestow."
+}
+---
 
 ==== diśatu  ====
   * let it give --- [[books:cc:antya:1:175|Antya 1.175]]

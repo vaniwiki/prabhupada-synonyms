@@ -1,5 +1,11 @@
-~~Title:patrera~~
-{{description>the entrance of the players.}}
+---json
+{
+    "name":"patrera",
+    "h1":"patrera",
+    "title":"patrera --- synonyms, prabhupada.io",
+    "description":"the entrance of the players."
+}
+---
 
 ==== pātrera praveśa  ====
   * the entrance of the players --- [[books:cc:antya:1:183|Antya 1.183]]

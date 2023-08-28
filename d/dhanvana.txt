@@ -1,5 +1,11 @@
-~~Title:dhanvanā~~
-{{description>the carrier, Arjuna.}}
+---json
+{
+    "name":"dhanvanā",
+    "h1":"dhanvanā",
+    "title":"dhanvanā --- synonyms, prabhupada.io",
+    "description":"the carrier, Arjuna."
+}
+---
 
 ==== dhanvanā  ====
   * the carrier, Arjuna --- [[books:sb:1:17:6|SB 1.17.6]]

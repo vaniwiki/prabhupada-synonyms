@@ -1,5 +1,11 @@
-~~Title:gaṇera~~
-{{description>of the groups.}}
+---json
+{
+    "name":"gaṇera",
+    "h1":"gaṇera",
+    "title":"gaṇera --- synonyms, prabhupada.io",
+    "description":"of the groups."
+}
+---
 
 ==== gaṇera  ====
   * of the groups --- [[books:cc:adi:4:76|Ādi 4.76]]

@@ -1,5 +1,11 @@
-~~Title:justah~~
-{{description>endowed; thus being served.}}
+---json
+{
+    "name":"justah",
+    "h1":"justah",
+    "title":"justah --- synonyms, prabhupada.io",
+    "description":"endowed; thus being served."
+}
+---
 
 ==== juṣṭaḥ  ====
   * endowed --- [[books:sb:6:19:5|SB 6.19.5]]

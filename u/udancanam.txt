@@ -1,5 +1,11 @@
-~~Title:udañcanam~~
-{{description>reservoir of water.}}
+---json
+{
+    "name":"udañcanam",
+    "h1":"udañcanam",
+    "title":"udañcanam --- synonyms, prabhupada.io",
+    "description":"reservoir of water."
+}
+---
 
 ==== udañcanam  ====
   * reservoir of water --- [[books:sb:8:24:20|SB 8.24.20]]

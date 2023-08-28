@@ -1,5 +1,11 @@
-~~Title:rājye~~
-{{description>in My kingdom; in the kingdom.}}
+---json
+{
+    "name":"rājye",
+    "h1":"rājye",
+    "title":"rājye --- synonyms, prabhupada.io",
+    "description":"in My kingdom; in the kingdom."
+}
+---
 
 ==== rājye  ====
   * in My kingdom --- [[books:cc:madhya:13:157|Madhya 13.157]]

@@ -1,5 +1,11 @@
-~~Title:upasthāsyati~~
-{{description>will appear.}}
+---json
+{
+    "name":"upasthāsyati",
+    "h1":"upasthāsyati",
+    "title":"upasthāsyati --- synonyms, prabhupada.io",
+    "description":"will appear."
+}
+---
 
 ==== upasthāsyati  ====
   * will appear --- [[books:sb:8:24:33|SB 8.24.33]]

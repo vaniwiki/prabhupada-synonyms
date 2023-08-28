@@ -1,5 +1,11 @@
-~~Title:saṅkhyānāya~~
-{{description>the reservoir of all transcendental qualities.}}
+---json
+{
+    "name":"saṅkhyānāya",
+    "h1":"saṅkhyānāya",
+    "title":"saṅkhyānāya --- synonyms, prabhupada.io",
+    "description":"the reservoir of all transcendental qualities."
+}
+---
 
 ==== sarva-guṇa-saṅkhyānāya  ====
   * the reservoir of all transcendental qualities --- [[books:sb:5:17:17|SB 5.17.17]]

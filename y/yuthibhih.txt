@@ -1,5 +1,11 @@
-~~Title:yūthībhiḥ~~
-{{description>svarṇa-yūthīs.}}
+---json
+{
+    "name":"yūthībhiḥ",
+    "h1":"yūthībhiḥ",
+    "title":"yūthībhiḥ --- synonyms, prabhupada.io",
+    "description":"svarṇa-yūthīs."
+}
+---
 
 ==== svarṇa-yūthībhiḥ  ====
   * //svarṇa-yūthīs// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

@@ -1,5 +1,11 @@
-~~Title:dhānye~~
-{{description>with riches and grains.}}
+---json
+{
+    "name":"dhānye",
+    "h1":"dhānye",
+    "title":"dhānye --- synonyms, prabhupada.io",
+    "description":"with riches and grains."
+}
+---
 
 ==== dhana-dhānye  ====
   * with riches and grains --- [[books:cc:adi:13:119|Ādi 13.119]]

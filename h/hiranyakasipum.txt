@@ -1,5 +1,11 @@
-~~Title:hiraṇyakaśipum~~
-{{description>Hiraṇyakaśipu.}}
+---json
+{
+    "name":"hiraṇyakaśipum",
+    "h1":"hiraṇyakaśipum",
+    "title":"hiraṇyakaśipum --- synonyms, prabhupada.io",
+    "description":"Hiraṇyakaśipu."
+}
+---
 
 ==== hiraṇyakaśipum  ====
   * Hiraṇyakaśipu --- [[books:sb:3:17:18|SB 3.17.18]]

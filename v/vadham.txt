@@ -1,5 +1,11 @@
-~~Title:vadham~~
-{{description>annihilation; killing; the killing; the massacre; to be killed.}}
+---json
+{
+    "name":"vadham",
+    "h1":"vadham",
+    "title":"vadham --- synonyms, prabhupada.io",
+    "description":"annihilation; killing; the killing; the massacre; to be killed."
+}
+---
 
 ==== vadham  ====
   * annihilation --- [[books:sb:3:4:23|SB 3.4.23]], [[books:sb:8:11:37|SB 8.11.37]]

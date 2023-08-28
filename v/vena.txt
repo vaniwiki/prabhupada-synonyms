@@ -1,5 +1,11 @@
-~~Title:vena~~
-{{description>King Vena; of King Vena.}}
+---json
+{
+    "name":"vena",
+    "h1":"vena",
+    "title":"vena --- synonyms, prabhupada.io",
+    "description":"King Vena; of King Vena."
+}
+---
 
 ==== vena  ====
   * King Vena --- [[books:sb:4:16:11|SB 4.16.11]]

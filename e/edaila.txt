@@ -1,5 +1,11 @@
-~~Title:eḍāila~~
-{{description>escaped.}}
+---json
+{
+    "name":"eḍāila",
+    "h1":"eḍāila",
+    "title":"eḍāila --- synonyms, prabhupada.io",
+    "description":"escaped."
+}
+---
 
 ==== eḍāila  ====
   * escaped --- [[books:cc:adi:7:39|Ādi 7.39]], [[books:cc:adi:7:31-32|Ādi 7.31-32]], [[books:cc:madhya:4:183|Madhya 4.183]]

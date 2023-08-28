@@ -1,5 +1,11 @@
-~~Title:prāṇaiḥ~~
-{{description>by life; by lives; by my life; with life.}}
+---json
+{
+    "name":"prāṇaiḥ",
+    "h1":"prāṇaiḥ",
+    "title":"prāṇaiḥ --- synonyms, prabhupada.io",
+    "description":"by life; by lives; by my life; with life."
+}
+---
 
 ==== prāṇaiḥ  ====
   * by life --- [[books:cc:adi:9:42|Ādi 9.42]]

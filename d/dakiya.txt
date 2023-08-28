@@ -1,5 +1,11 @@
-~~Title:ḍākiyā~~
-{{description>calling; calling loudly.}}
+---json
+{
+    "name":"ḍākiyā",
+    "h1":"ḍākiyā",
+    "title":"ḍākiyā --- synonyms, prabhupada.io",
+    "description":"calling; calling loudly."
+}
+---
 
 ==== ḍākiyā  ====
   * calling --- [[books:cc:madhya:4:162|Madhya 4.162]], [[books:cc:madhya:5:54|Madhya 5.54]], [[books:cc:antya:12:121|Antya 12.121]]

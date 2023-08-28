@@ -1,5 +1,11 @@
-~~Title:utthitān~~
-{{description>developed.}}
+---json
+{
+    "name":"utthitān",
+    "h1":"utthitān",
+    "title":"utthitān --- synonyms, prabhupada.io",
+    "description":"developed."
+}
+---
 
 ==== utthitān  ====
   * developed --- [[books:sb:4:14:37|SB 4.14.37]]

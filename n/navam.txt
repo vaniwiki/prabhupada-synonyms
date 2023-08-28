@@ -1,5 +1,11 @@
-~~Title:navam~~
-{{description>budding; new.}}
+---json
+{
+    "name":"navam",
+    "h1":"navam",
+    "title":"navam --- synonyms, prabhupada.io",
+    "description":"budding; new."
+}
+---
 
 ==== navam  ====
   * budding --- [[books:sb:3:20:32|SB 3.20.32]]

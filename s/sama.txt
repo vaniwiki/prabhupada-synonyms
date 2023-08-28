@@ -1,5 +1,11 @@
-~~Title:sama~~
-{{description>and equal; equal; equal level; equal or proper; equal to; equally; equiposed; just like; like; of equal; same; symmetrical; the same; unaltered.}}
+---json
+{
+    "name":"sama",
+    "h1":"sama",
+    "title":"sama --- synonyms, prabhupada.io",
+    "description":"and equal; equal; equal level; equal or proper; equal to; equally; equiposed; just like; like; of equal; same; symmetrical; the same; unaltered."
+}
+---
 
 ==== sama  ====
   * and equal --- [[books:sb:5:22:7|SB 5.22.7]]

@@ -1,5 +1,11 @@
-~~Title:upasaṅgṛhya~~
-{{description>approaching.}}
+---json
+{
+    "name":"upasaṅgṛhya",
+    "h1":"upasaṅgṛhya",
+    "title":"upasaṅgṛhya --- synonyms, prabhupada.io",
+    "description":"approaching."
+}
+---
 
 ==== upasaṅgṛhya  ====
   * approaching --- [[books:sb:9:5:18|SB 9.5.18]]

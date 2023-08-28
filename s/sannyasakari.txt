@@ -1,5 +1,11 @@
-~~Title:sannyāsakari'~~
-{{description>after accepting the sannyāsa order.}}
+---json
+{
+    "name":"sannyāsakari'",
+    "h1":"sannyāsakari'",
+    "title":"sannyāsakari' --- synonyms, prabhupada.io",
+    "description":"after accepting the sannyāsa order."
+}
+---
 
 ==== sannyāsakari'  ====
   * after accepting the //sannyāsa// order --- [[books:cc:madhya:3:4|Madhya 3.4]]

@@ -1,5 +1,11 @@
-~~Title:chābbiśe~~
-{{description>the formerly described twenty-six varieties.}}
+---json
+{
+    "name":"chābbiśe",
+    "h1":"chābbiśe",
+    "title":"chābbiśe --- synonyms, prabhupada.io",
+    "description":"the formerly described twenty-six varieties."
+}
+---
 
 ==== chābbiśe  ====
   * the formerly described twenty-six varieties --- [[books:cc:madhya:24:294|Madhya 24.294]]

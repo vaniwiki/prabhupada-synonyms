@@ -1,5 +1,11 @@
-~~Title:upayāmi~~
-{{description>I may take; let me offer my obeisances.}}
+---json
+{
+    "name":"upayāmi",
+    "h1":"upayāmi",
+    "title":"upayāmi --- synonyms, prabhupada.io",
+    "description":"I may take; let me offer my obeisances."
+}
+---
 
 ==== upayāmi  ====
   * I may take --- [[books:sb:1:19:16|SB 1.19.16]]

@@ -1,5 +1,11 @@
-~~Title:nahibe~~
-{{description>there will not be.}}
+---json
+{
+    "name":"nahibe",
+    "h1":"nahibe",
+    "title":"nahibe --- synonyms, prabhupada.io",
+    "description":"there will not be."
+}
+---
 
 ==== nahibe  ====
   * there will not be --- [[books:cc:madhya:17:18|Madhya 17.18]], [[books:cc:antya:3:25|Antya 3.25]]

@@ -1,5 +1,11 @@
-~~Title:āyojitāḥ~~
-{{description>fixed.}}
+---json
+{
+    "name":"āyojitāḥ",
+    "h1":"āyojitāḥ",
+    "title":"āyojitāḥ --- synonyms, prabhupada.io",
+    "description":"fixed."
+}
+---
 
 ==== āyojitāḥ  ====
   * fixed --- [[books:sb:5:23:3|SB 5.23.3]]

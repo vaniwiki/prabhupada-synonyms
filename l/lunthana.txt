@@ -1,5 +1,11 @@
-~~Title:luṇṭhana~~
-{{description>in plundering.}}
+---json
+{
+    "name":"luṇṭhana",
+    "h1":"luṇṭhana",
+    "title":"luṇṭhana --- synonyms, prabhupada.io",
+    "description":"in plundering."
+}
+---
 
 ==== luṇṭhana  ====
   * in plundering --- [[books:mm:1|MM 1]]

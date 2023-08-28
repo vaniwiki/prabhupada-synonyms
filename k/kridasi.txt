@@ -1,5 +1,11 @@
-~~Title:krīḍasi~~
-{{description>as You play; You play.}}
+---json
+{
+    "name":"krīḍasi",
+    "h1":"krīḍasi",
+    "title":"krīḍasi --- synonyms, prabhupada.io",
+    "description":"as You play; You play."
+}
+---
 
 ==== krīḍasi  ====
   * as You play --- [[books:sb:2:9:28|SB 2.9.28]]

@@ -1,5 +1,11 @@
-~~Title:sakra~~
-{{description>Indra; King Indra; O Indra.}}
+---json
+{
+    "name":"sakra",
+    "h1":"sakra",
+    "title":"sakra --- synonyms, prabhupada.io",
+    "description":"Indra; King Indra; O Indra."
+}
+---
 
 ==== śakra  ====
   * Indra --- [[books:sb:8:11:1|SB 8.11.1]]

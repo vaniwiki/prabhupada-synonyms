@@ -1,5 +1,11 @@
-~~Title:nirvacana~~
-{{description>speechless.}}
+---json
+{
+    "name":"nirvacana",
+    "h1":"nirvacana",
+    "title":"nirvacana --- synonyms, prabhupada.io",
+    "description":"speechless."
+}
+---
 
 ==== nirvacana  ====
   * speechless --- [[books:cc:adi:2:66|Ādi 2.66]], [[books:cc:antya:7:109|Antya 7.109]]

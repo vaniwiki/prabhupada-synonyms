@@ -1,5 +1,11 @@
-~~Title:nivītam~~
-{{description>so being enclosed.}}
+---json
+{
+    "name":"nivītam",
+    "h1":"nivītam",
+    "title":"nivītam --- synonyms, prabhupada.io",
+    "description":"so being enclosed."
+}
+---
 
 ==== nivītam  ====
   * so being enclosed --- [[books:sb:3:8:31|SB 3.8.31]]

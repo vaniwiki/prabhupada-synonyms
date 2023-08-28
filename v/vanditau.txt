@@ -1,5 +1,11 @@
-~~Title:vanditau~~
-{{description>being worshiped; worshiped.}}
+---json
+{
+    "name":"vanditau",
+    "h1":"vanditau",
+    "title":"vanditau --- synonyms, prabhupada.io",
+    "description":"being worshiped; worshiped."
+}
+---
 
 ==== vanditau  ====
   * being worshiped --- [[books:sb:7:1:40|SB 7.1.40]]

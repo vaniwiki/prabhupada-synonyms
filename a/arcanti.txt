@@ -1,5 +1,11 @@
-~~Title:arcanti~~
-{{description>worship; worships.}}
+---json
+{
+    "name":"arcanti",
+    "h1":"arcanti",
+    "title":"arcanti --- synonyms, prabhupada.io",
+    "description":"worship; worships."
+}
+---
 
 ==== arcanti  ====
   * worship --- [[books:sb:4:9:9|SB 4.9.9]]

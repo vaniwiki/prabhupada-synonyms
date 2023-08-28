@@ -1,5 +1,11 @@
-~~Title:ekelā~~
-{{description>alone.}}
+---json
+{
+    "name":"ekelā",
+    "h1":"ekelā",
+    "title":"ekelā --- synonyms, prabhupada.io",
+    "description":"alone."
+}
+---
 
 ==== ekelā  ====
   * alone --- [[books:cc:madhya:15:248|Madhya 15.248]], [[books:cc:antya:2:71|Antya 2.71]], [[books:cc:antya:3:251|Antya 3.251]], [[books:cc:antya:4:4|Antya 4.4]], [[books:cc:antya:6:36|Antya 6.36]]

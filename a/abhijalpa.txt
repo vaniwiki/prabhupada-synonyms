@@ -1,5 +1,11 @@
-~~Title:abhijalpa~~
-{{description>speaking.}}
+---json
+{
+    "name":"abhijalpa",
+    "h1":"abhijalpa",
+    "title":"abhijalpa --- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== abhijalpa  ====
   * speaking --- [[books:sb:5:11:10|SB 5.11.10]]

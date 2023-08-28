@@ -1,5 +1,11 @@
-~~Title:samṛddhayaḥ~~
-{{description>considering themselves very rich.}}
+---json
+{
+    "name":"samṛddhayaḥ",
+    "h1":"samṛddhayaḥ",
+    "title":"samṛddhayaḥ --- synonyms, prabhupada.io",
+    "description":"considering themselves very rich."
+}
+---
 
 ==== manaḥ-samṛddhayaḥ  ====
   * considering themselves very rich --- [[books:sb:4:9:36|SB 4.9.36]]

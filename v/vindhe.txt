@@ -1,5 +1,11 @@
-~~Title:vindhe~~
-{{description>pierces.}}
+---json
+{
+    "name":"vindhe",
+    "h1":"vindhe",
+    "title":"vindhe --- synonyms, prabhupada.io",
+    "description":"pierces."
+}
+---
 
 ==== vindhe  ====
   * pierces --- [[books:cc:madhya:21:105|Madhya 21.105]], [[books:cc:madhya:21:129|Madhya 21.129]]

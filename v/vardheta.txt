@@ -1,5 +1,11 @@
-~~Title:vardheta~~
-{{description>may increase.}}
+---json
+{
+    "name":"vardheta",
+    "h1":"vardheta",
+    "title":"vardheta --- synonyms, prabhupada.io",
+    "description":"may increase."
+}
+---
 
 ==== vardheta  ====
   * may increase --- [[books:sb:3:18:25|SB 3.18.25]]

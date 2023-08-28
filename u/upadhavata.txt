@@ -1,5 +1,11 @@
-~~Title:upadhavata~~
-{{description>everyone should worship.}}
+---json
+{
+    "name":"upadhavata",
+    "h1":"upadhavata",
+    "title":"upadhavata --- synonyms, prabhupada.io",
+    "description":"everyone should worship."
+}
+---
 
 ==== upadhāvata  ====
   * everyone should worship --- [[books:sb:8:1:11|SB 8.1.11]]

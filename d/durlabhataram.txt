@@ -1,5 +1,11 @@
-~~Title:durlabhataram~~
-{{description>very rare.}}
+---json
+{
+    "name":"durlabhataram",
+    "h1":"durlabhataram",
+    "title":"durlabhataram --- synonyms, prabhupada.io",
+    "description":"very rare."
+}
+---
 
 ==== durlabhataram  ====
   * very rare --- [[books:bg:6:42|Bg. 6.42]]

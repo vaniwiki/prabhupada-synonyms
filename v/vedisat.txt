@@ -1,5 +1,11 @@
-~~Title:vediṣat~~
-{{description>O King Prācīnabarhi.}}
+---json
+{
+    "name":"vediṣat",
+    "h1":"vediṣat",
+    "title":"vediṣat --- synonyms, prabhupada.io",
+    "description":"O King Prācīnabarhi."
+}
+---
 
 ==== vediṣat  ====
   * O King Prācīnabarhi --- [[books:sb:4:26:14|SB 4.26.14]]

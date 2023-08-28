@@ -1,5 +1,11 @@
-~~Title:asanah~~
-{{description>eating.}}
+---json
+{
+    "name":"asanah",
+    "h1":"asanah",
+    "title":"asanah --- synonyms, prabhupada.io",
+    "description":"eating."
+}
+---
 
 ==== aśanaḥ  ====
   * eating --- [[books:sb:4:8:72|SB 4.8.72]], [[books:sb:4:23:5|SB 4.23.5]]

@@ -1,5 +1,11 @@
-~~Title:īlayā~~
-{{description>with words.}}
+---json
+{
+    "name":"īlayā",
+    "h1":"īlayā",
+    "title":"īlayā --- synonyms, prabhupada.io",
+    "description":"with words."
+}
+---
 
 ==== īlayā  ====
   * with words --- [[books:sb:10:13:64|SB 10.13.64]]

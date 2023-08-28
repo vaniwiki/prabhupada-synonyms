@@ -1,5 +1,11 @@
-~~Title:prabhavān~~
-{{description>born of.}}
+---json
+{
+    "name":"prabhavān",
+    "h1":"prabhavān",
+    "title":"prabhavān --- synonyms, prabhupada.io",
+    "description":"born of."
+}
+---
 
 ==== prabhavān  ====
   * born of --- [[books:bg:6:24|Bg. 6.24]]

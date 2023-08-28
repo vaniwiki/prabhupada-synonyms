@@ -1,5 +1,11 @@
-~~Title:maireyam~~
-{{description>made of the soma flower.}}
+---json
+{
+    "name":"maireyam",
+    "h1":"maireyam",
+    "title":"maireyam --- synonyms, prabhupada.io",
+    "description":"made of the soma flower."
+}
+---
 
 ==== maireyam  ====
   * made of the //soma// flower --- [[books:sb:6:1:58-60|SB 6.1.58-60]]

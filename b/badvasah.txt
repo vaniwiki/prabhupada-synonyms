@@ -1,5 +1,11 @@
-~~Title:badvaśaḥ~~
-{{description>by the number of one badva (one badva equals 13,084).}}
+---json
+{
+    "name":"badvaśaḥ",
+    "h1":"badvaśaḥ",
+    "title":"badvaśaḥ --- synonyms, prabhupada.io",
+    "description":"by the number of one badva (one badva equals 13,084)."
+}
+---
 
 ==== badvaśaḥ  ====
   * by the number of one //badva// (one //badva// equals 13,084) --- [[books:sb:9:20:24-26|SB 9.20.24-26]]

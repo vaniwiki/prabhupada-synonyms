@@ -1,5 +1,11 @@
-~~Title:saṁvatsara~~
-{{description>celestial years; total years; years.}}
+---json
+{
+    "name":"saṁvatsara",
+    "h1":"saṁvatsara",
+    "title":"saṁvatsara --- synonyms, prabhupada.io",
+    "description":"celestial years; total years; years."
+}
+---
 
 ==== saṁvatsara  ====
   * celestial years --- [[books:sb:3:6:38|SB 3.6.38]]

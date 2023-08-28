@@ -1,5 +1,11 @@
-~~Title:medhyam~~
-{{description>meant for offering in the sacrifice; pure (obtained by hunting).}}
+---json
+{
+    "name":"medhyam",
+    "h1":"medhyam",
+    "title":"medhyam --- synonyms, prabhupada.io",
+    "description":"meant for offering in the sacrifice; pure (obtained by hunting)."
+}
+---
 
 ==== medhyam  ====
   * meant for offering in the sacrifice --- [[books:sb:4:17:4|SB 4.17.4]]

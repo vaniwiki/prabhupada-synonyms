@@ -1,5 +1,11 @@
-~~Title:kūṭaja~~
-{{description>kūṭajas.}}
+---json
+{
+    "name":"kūṭaja",
+    "h1":"kūṭaja",
+    "title":"kūṭaja --- synonyms, prabhupada.io",
+    "description":"kūṭajas."
+}
+---
 
 ==== kūṭaja  ====
   * //kūṭajas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

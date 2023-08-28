@@ -1,5 +1,11 @@
-~~Title:unmīlya~~
-{{description>opening; opening up.}}
+---json
+{
+    "name":"unmīlya",
+    "h1":"unmīlya",
+    "title":"unmīlya --- synonyms, prabhupada.io",
+    "description":"opening; opening up."
+}
+---
 
 ==== unmīlya  ====
   * opening --- [[books:sb:1:18:39|SB 1.18.39]]

@@ -1,5 +1,11 @@
-~~Title:ekhana~~
-{{description>here; just now; now.}}
+---json
+{
+    "name":"ekhana",
+    "h1":"ekhana",
+    "title":"ekhana --- synonyms, prabhupada.io",
+    "description":"here; just now; now."
+}
+---
 
 ==== ekhana  ====
   * here --- [[books:cc:antya:12:20|Antya 12.20]]

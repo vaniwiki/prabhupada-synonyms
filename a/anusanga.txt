@@ -1,5 +1,11 @@
-~~Title:anusanga~~
-{{description>secondary.}}
+---json
+{
+    "name":"anusanga",
+    "h1":"anusanga",
+    "title":"anusanga --- synonyms, prabhupada.io",
+    "description":"secondary."
+}
+---
 
 ==== ānuṣaṅga  ====
   * secondary --- [[books:cc:adi:4:36-37|Ādi 4.36-37]]

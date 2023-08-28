@@ -1,5 +1,11 @@
-~~Title:bharata~~
-{{description>Lord Bharata; the descendants of King Bharata.}}
+---json
+{
+    "name":"bharata",
+    "h1":"bharata",
+    "title":"bharata --- synonyms, prabhupada.io",
+    "description":"Lord Bharata; the descendants of King Bharata."
+}
+---
 
 ==== bharata  ====
   * Lord Bharata --- [[books:sb:9:10:2|SB 9.10.2]]

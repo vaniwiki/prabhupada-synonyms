@@ -1,5 +1,11 @@
-~~Title:vitasti~~
-{{description>about eight inches; about six inches.}}
+---json
+{
+    "name":"vitasti",
+    "h1":"vitasti",
+    "title":"vitasti --- synonyms, prabhupada.io",
+    "description":"about eight inches; about six inches."
+}
+---
 
 ==== vitasti  ====
   * about eight inches --- [[books:cc:madhya:2:12|Madhya 2.12]]

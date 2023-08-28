@@ -1,5 +1,11 @@
-~~Title:alpa~~
-{{description>a little; a small quantity; a very little; insignificant; little; meager; negligible; slight; small; small quantity; very little; within a very few.}}
+---json
+{
+    "name":"alpa",
+    "h1":"alpa",
+    "title":"alpa --- synonyms, prabhupada.io",
+    "description":"a little; a small quantity; a very little; insignificant; little; meager; negligible; slight; small; small quantity; very little; within a very few."
+}
+---
 
 ==== alpa  ====
   * a little --- [[books:cc:madhya:4:120|Madhya 4.120]], [[books:cc:madhya:12:174|Madhya 12.174]]

@@ -1,5 +1,11 @@
-~~Title:saṅgāt~~
-{{description>attachment; because of the association; by association; by the association; from association; from bad association.}}
+---json
+{
+    "name":"saṅgāt",
+    "h1":"saṅgāt",
+    "title":"saṅgāt --- synonyms, prabhupada.io",
+    "description":"attachment; because of the association; by association; by the association; from association; from bad association."
+}
+---
 
 ==== saṅgāt  ====
   * attachment --- [[books:bg:2:62|Bg. 2.62]]

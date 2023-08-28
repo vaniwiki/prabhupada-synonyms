@@ -1,5 +1,11 @@
-~~Title:vidhuraḥ~~
-{{description>although without beginning, end or middle.}}
+---json
+{
+    "name":"vidhuraḥ",
+    "h1":"vidhuraḥ",
+    "title":"vidhuraḥ --- synonyms, prabhupada.io",
+    "description":"although without beginning, end or middle."
+}
+---
 
 ==== traya-vidhuraḥ  ====
   * although without beginning, end or middle --- [[books:sb:6:16:36|SB 6.16.36]]

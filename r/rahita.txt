@@ -1,5 +1,11 @@
-~~Title:rahita~~
-{{description>completely devoid of.}}
+---json
+{
+    "name":"rahita",
+    "h1":"rahita",
+    "title":"rahita --- synonyms, prabhupada.io",
+    "description":"completely devoid of."
+}
+---
 
 ==== rahita  ====
   * completely devoid of --- [[books:sb:7:4:33|SB 7.4.33]]

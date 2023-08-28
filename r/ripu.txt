@@ -1,5 +1,11 @@
-~~Title:ripu~~
-{{description>of enemies.}}
+---json
+{
+    "name":"ripu",
+    "h1":"ripu",
+    "title":"ripu --- synonyms, prabhupada.io",
+    "description":"of enemies."
+}
+---
 
 ==== ripu  ====
   * of enemies --- [[books:sb:5:14:11|SB 5.14.11]]

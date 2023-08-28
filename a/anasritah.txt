@@ -1,5 +1,11 @@
-~~Title:anāśritaḥ~~
-{{description>without shelter.}}
+---json
+{
+    "name":"anāśritaḥ",
+    "h1":"anāśritaḥ",
+    "title":"anāśritaḥ --- synonyms, prabhupada.io",
+    "description":"without shelter."
+}
+---
 
 ==== anāśritaḥ  ====
   * without shelter --- [[books:bg:6:1|Bg. 6.1]]

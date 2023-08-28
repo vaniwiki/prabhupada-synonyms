@@ -1,5 +1,11 @@
-~~Title:nalina~~
-{{description>lotus; of lotus; of the lotus flower.}}
+---json
+{
+    "name":"nalina",
+    "h1":"nalina",
+    "title":"nalina --- synonyms, prabhupada.io",
+    "description":"lotus; of lotus; of the lotus flower."
+}
+---
 
 ==== nalina  ====
   * lotus --- [[books:sb:4:7:33|SB 4.7.33]]

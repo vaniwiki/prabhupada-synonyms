@@ -1,5 +1,11 @@
-~~Title:nirasya~~
-{{description>driving away.}}
+---json
+{
+    "name":"nirasya",
+    "h1":"nirasya",
+    "title":"nirasya --- synonyms, prabhupada.io",
+    "description":"driving away."
+}
+---
 
 ==== nirasya  ====
   * driving away --- [[books:sb:3:16:22|SB 3.16.22]]

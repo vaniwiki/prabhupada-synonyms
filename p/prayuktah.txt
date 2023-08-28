@@ -1,5 +1,11 @@
-~~Title:prayuktah~~
-{{description>impelled.}}
+---json
+{
+    "name":"prayuktah",
+    "h1":"prayuktah",
+    "title":"prayuktah --- synonyms, prabhupada.io",
+    "description":"impelled."
+}
+---
 
 ==== prayuktaḥ  ====
   * impelled --- [[books:bg:3:36|Bg. 3.36]]

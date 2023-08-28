@@ -1,5 +1,11 @@
-~~Title:adhyuvāsa~~
-{{description>lived in.}}
+---json
+{
+    "name":"adhyuvāsa",
+    "h1":"adhyuvāsa",
+    "title":"adhyuvāsa --- synonyms, prabhupada.io",
+    "description":"lived in."
+}
+---
 
 ==== adhyuvāsa  ====
   * lived in --- [[books:sb:7:4:8|SB 7.4.8]]

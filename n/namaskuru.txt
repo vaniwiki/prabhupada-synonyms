@@ -1,5 +1,11 @@
-~~Title:namaskuru~~
-{{description>offer obeisances; offer your obeisances.}}
+---json
+{
+    "name":"namaskuru",
+    "h1":"namaskuru",
+    "title":"namaskuru --- synonyms, prabhupada.io",
+    "description":"offer obeisances; offer your obeisances."
+}
+---
 
 ==== namaskuru  ====
   * offer obeisances --- [[books:bg:9:34|Bg. 9.34]], [[books:cc:madhya:22:57-58|Madhya 22.57-58]]

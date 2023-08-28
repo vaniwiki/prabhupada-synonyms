@@ -1,5 +1,11 @@
-~~Title:lekhe~~
-{{description>marks lines.}}
+---json
+{
+    "name":"lekhe",
+    "h1":"lekhe",
+    "title":"lekhe --- synonyms, prabhupada.io",
+    "description":"marks lines."
+}
+---
 
 ==== lekhe  ====
   * marks lines --- [[books:cc:madhya:14:137|Madhya 14.137]]

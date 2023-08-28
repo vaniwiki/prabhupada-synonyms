@@ -1,5 +1,11 @@
-~~Title:mṛgatva~~
-{{description>the cause of accepting the body of a deer.}}
+---json
+{
+    "name":"mṛgatva",
+    "h1":"mṛgatva",
+    "title":"mṛgatva --- synonyms, prabhupada.io",
+    "description":"the cause of accepting the body of a deer."
+}
+---
 
 ==== mṛgatva-kāraṇam  ====
   * the cause of accepting the body of a deer --- [[books:sb:5:8:28|SB 5.8.28]]

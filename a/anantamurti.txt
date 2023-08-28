@@ -1,5 +1,11 @@
-~~Title:anantamūrti~~
-{{description>unlimited forms.}}
+---json
+{
+    "name":"anantamūrti",
+    "h1":"anantamūrti",
+    "title":"anantamūrti --- synonyms, prabhupada.io",
+    "description":"unlimited forms."
+}
+---
 
 ==== anantamūrti  ====
   * unlimited forms --- [[books:cc:adi:6:9|Ādi 6.9]]

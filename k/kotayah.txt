@@ -1,5 +1,11 @@
-~~Title:koṭayaḥ~~
-{{description>ten millions.}}
+---json
+{
+    "name":"koṭayaḥ",
+    "h1":"koṭayaḥ",
+    "title":"koṭayaḥ --- synonyms, prabhupada.io",
+    "description":"ten millions."
+}
+---
 
 ==== koṭayaḥ  ====
   * ten millions --- [[books:sb:5:21:7|SB 5.21.7]]

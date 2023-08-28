@@ -1,5 +1,11 @@
-~~Title:śūlinyaḥ~~
-{{description>armed with tridents.}}
+---json
+{
+    "name":"śūlinyaḥ",
+    "h1":"śūlinyaḥ",
+    "title":"śūlinyaḥ --- synonyms, prabhupada.io",
+    "description":"armed with tridents."
+}
+---
 
 ==== śūlinyaḥ  ====
   * armed with tridents --- [[books:sb:3:19:20|SB 3.19.20]]

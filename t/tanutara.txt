@@ -1,5 +1,11 @@
-~~Title:tanutara~~
-{{description>small.}}
+---json
+{
+    "name":"tanutara",
+    "h1":"tanutara",
+    "title":"tanutara --- synonyms, prabhupada.io",
+    "description":"small."
+}
+---
 
 ==== tanutara  ====
   * small --- [[books:sb:5:8:23|SB 5.8.23]]

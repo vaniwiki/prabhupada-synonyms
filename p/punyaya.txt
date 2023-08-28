@@ -1,5 +1,11 @@
-~~Title:punyaya~~
-{{description>by pious.}}
+---json
+{
+    "name":"punyaya",
+    "h1":"punyaya",
+    "title":"punyaya --- synonyms, prabhupada.io",
+    "description":"by pious."
+}
+---
 
 ==== puṇyayā  ====
   * by pious --- [[books:sb:4:22:22|SB 4.22.22]]

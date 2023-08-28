@@ -1,5 +1,11 @@
-~~Title:nāṭyam~~
-{{description>dancing; the art of drama.}}
+---json
+{
+    "name":"nāṭyam",
+    "h1":"nāṭyam",
+    "title":"nāṭyam --- synonyms, prabhupada.io",
+    "description":"dancing; the art of drama."
+}
+---
 
 ==== nāṭyam  ====
   * dancing --- [[books:cc:madhya:14:227|Madhya 14.227]]

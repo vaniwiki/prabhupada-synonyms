@@ -1,5 +1,11 @@
-~~Title:mahābhojaḥ~~
-{{description>King Mahābhoja.}}
+---json
+{
+    "name":"mahābhojaḥ",
+    "h1":"mahābhojaḥ",
+    "title":"mahābhojaḥ --- synonyms, prabhupada.io",
+    "description":"King Mahābhoja."
+}
+---
 
 ==== mahābhojaḥ  ====
   * King Mahābhoja --- [[books:sb:9:24:10-11|SB 9.24.10-11]]

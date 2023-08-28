@@ -1,5 +1,11 @@
-~~Title:vācāla~~
-{{description>talkative.}}
+---json
+{
+    "name":"vācāla",
+    "h1":"vācāla",
+    "title":"vācāla --- synonyms, prabhupada.io",
+    "description":"talkative."
+}
+---
 
 ==== vācāla  ====
   * talkative --- [[books:cc:adi:17:37-38|Ādi 17.37-38]], [[books:cc:antya:5:140|Antya 5.140]]

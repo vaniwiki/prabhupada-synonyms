@@ -1,5 +1,11 @@
-~~Title:auṣadhyaḥ~~
-{{description>poisonous drugs.}}
+---json
+{
+    "name":"auṣadhyaḥ",
+    "h1":"auṣadhyaḥ",
+    "title":"auṣadhyaḥ --- synonyms, prabhupada.io",
+    "description":"poisonous drugs."
+}
+---
 
 ==== viṣa-auṣadhyaḥ  ====
   * poisonous drugs --- [[books:sb:8:7:46|SB 8.7.46]]

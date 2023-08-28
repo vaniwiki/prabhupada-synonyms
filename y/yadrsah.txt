@@ -1,5 +1,11 @@
-~~Title:yādṛśaḥ~~
-{{description>as they are.}}
+---json
+{
+    "name":"yādṛśaḥ",
+    "h1":"yādṛśaḥ",
+    "title":"yādṛśaḥ --- synonyms, prabhupada.io",
+    "description":"as they are."
+}
+---
 
 ==== yādṛśaḥ  ====
   * as they are --- [[books:sb:2:8:18|SB 2.8.18]]

@@ -1,5 +1,11 @@
-~~Title:sutalam~~
-{{description>in the planet known as Sutala; Sutala; the planet Sutala; the planetary system named Sutala; the third planetary system below.}}
+---json
+{
+    "name":"sutalam",
+    "h1":"sutalam",
+    "title":"sutalam --- synonyms, prabhupada.io",
+    "description":"in the planet known as Sutala; Sutala; the planet Sutala; the planetary system named Sutala; the third planetary system below."
+}
+---
 
 ==== sutalam  ====
   * in the planet known as Sutala --- [[books:sb:8:22:32|SB 8.22.32]], [[books:sb:8:22:33|SB 8.22.33]]

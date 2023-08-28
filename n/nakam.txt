@@ -1,5 +1,11 @@
-~~Title:nākam~~
-{{description>the heavenly planets.}}
+---json
+{
+    "name":"nākam",
+    "h1":"nākam",
+    "title":"nākam --- synonyms, prabhupada.io",
+    "description":"the heavenly planets."
+}
+---
 
 ==== tri-nākam  ====
   * the heavenly planets --- [[books:sb:8:15:4|SB 8.15.4]]

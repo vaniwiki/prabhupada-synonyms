@@ -1,5 +1,11 @@
-~~Title:patantau~~
-{{description>falling down.}}
+---json
+{
+    "name":"patantau",
+    "h1":"patantau",
+    "title":"patantau --- synonyms, prabhupada.io",
+    "description":"falling down."
+}
+---
 
 ==== patantau  ====
   * falling down --- [[books:sb:7:1:39|SB 7.1.39]]

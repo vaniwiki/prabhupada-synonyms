@@ -1,5 +1,11 @@
-~~Title:sute~~
-{{description>daughters; his son.}}
+---json
+{
+    "name":"sute",
+    "h1":"sute",
+    "title":"sute --- synonyms, prabhupada.io",
+    "description":"daughters; his son."
+}
+---
 
 ==== sute  ====
   * daughters --- [[books:sb:4:1:44|SB 4.1.44]]

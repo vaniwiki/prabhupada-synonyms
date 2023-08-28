@@ -1,5 +1,11 @@
-~~Title:devakṣatraḥ~~
-{{description>Devakṣatra.}}
+---json
+{
+    "name":"devakṣatraḥ",
+    "h1":"devakṣatraḥ",
+    "title":"devakṣatraḥ --- synonyms, prabhupada.io",
+    "description":"Devakṣatra."
+}
+---
 
 ==== devakṣatraḥ  ====
   * Devakṣatra --- [[books:sb:9:24:5|SB 9.24.5]]

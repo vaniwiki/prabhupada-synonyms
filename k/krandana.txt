@@ -1,5 +1,11 @@
-~~Title:krandana~~
-{{description>cry; crying.}}
+---json
+{
+    "name":"krandana",
+    "h1":"krandana",
+    "title":"krandana --- synonyms, prabhupada.io",
+    "description":"cry; crying."
+}
+---
 
 ==== krandana  ====
   * cry --- [[books:cc:adi:12:24|Ādi 12.24]]

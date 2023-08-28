@@ -1,5 +1,11 @@
-~~Title:ardhe~~
-{{description>in the half.}}
+---json
+{
+    "name":"ardhe",
+    "h1":"ardhe",
+    "title":"ardhe --- synonyms, prabhupada.io",
+    "description":"in the half."
+}
+---
 
 ==== ardhe  ====
   * in the half --- [[books:sb:4:3:14|SB 4.3.14]], [[books:cc:adi:5:98|Ādi 5.98]]

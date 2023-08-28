@@ -1,5 +1,11 @@
-~~Title:ayudha~~
-{{description>equipped with weapons; my weapon; of weapons; other weapons; varieties of weapons; weapons.}}
+---json
+{
+    "name":"ayudha",
+    "h1":"ayudha",
+    "title":"ayudha --- synonyms, prabhupada.io",
+    "description":"equipped with weapons; my weapon; of weapons; other weapons; varieties of weapons; weapons."
+}
+---
 
 ==== āyudha  ====
   * equipped with weapons --- [[books:sb:8:10:40|SB 8.10.40]]

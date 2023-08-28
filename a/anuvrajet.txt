@@ -1,5 +1,11 @@
-~~Title:anuvrajet~~
-{{description>he may obtain.}}
+---json
+{
+    "name":"anuvrajet",
+    "h1":"anuvrajet",
+    "title":"anuvrajet --- synonyms, prabhupada.io",
+    "description":"he may obtain."
+}
+---
 
 ==== anuvrajet  ====
   * he may obtain --- [[books:sb:3:30:4|SB 3.30.4]]

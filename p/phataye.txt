@@ -1,5 +1,11 @@
-~~Title:phāṭaye~~
-{{description>perturbs.}}
+---json
+{
+    "name":"phāṭaye",
+    "h1":"phāṭaye",
+    "title":"phāṭaye --- synonyms, prabhupada.io",
+    "description":"perturbs."
+}
+---
 
 ==== phāṭaye  ====
   * perturbs --- [[books:cc:madhya:15:157|Madhya 15.157]]

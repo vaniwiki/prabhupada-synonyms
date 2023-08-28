@@ -1,5 +1,11 @@
-~~Title:prakasila~~
-{{description>discovered; he exhibited.}}
+---json
+{
+    "name":"prakasila",
+    "h1":"prakasila",
+    "title":"prakasila --- synonyms, prabhupada.io",
+    "description":"discovered; he exhibited."
+}
+---
 
 ==== prakāśila  ====
   * discovered --- [[books:cc:madhya:1:32|Madhya 1.32]]

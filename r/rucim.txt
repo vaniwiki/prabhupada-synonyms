@@ -1,5 +1,11 @@
-~~Title:rucim~~
-{{description>beautiful.}}
+---json
+{
+    "name":"rucim",
+    "h1":"rucim",
+    "title":"rucim --- synonyms, prabhupada.io",
+    "description":"beautiful."
+}
+---
 
 ==== rucim  ====
   * beautiful --- [[books:cc:adi:17:281|Ādi 17.281]], [[books:cc:madhya:9:150|Madhya 9.150]]

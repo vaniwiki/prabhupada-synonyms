@@ -1,5 +1,11 @@
-~~Title:modaḥ~~
-{{description>pleasure.}}
+---json
+{
+    "name":"modaḥ",
+    "h1":"modaḥ",
+    "title":"modaḥ --- synonyms, prabhupada.io",
+    "description":"pleasure."
+}
+---
 
 ==== modaḥ  ====
   * pleasure --- [[books:sb:3:19:34|SB 3.19.34]]

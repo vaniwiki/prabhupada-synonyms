@@ -1,5 +1,11 @@
-~~Title:ama~~
-{{description>mucus.}}
+---json
+{
+    "name":"ama",
+    "h1":"ama",
+    "title":"ama --- synonyms, prabhupada.io",
+    "description":"mucus."
+}
+---
 
 ==== āma  ====
   * mucus --- [[books:cc:antya:10:19|Antya 10.19]]

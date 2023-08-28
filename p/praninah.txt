@@ -1,5 +1,11 @@
-~~Title:prāṇinaḥ~~
-{{description>living entities; other living entities.}}
+---json
+{
+    "name":"prāṇinaḥ",
+    "h1":"prāṇinaḥ",
+    "title":"prāṇinaḥ --- synonyms, prabhupada.io",
+    "description":"living entities; other living entities."
+}
+---
 
 ==== prāṇinaḥ  ====
   * living entities --- [[books:sb:4:18:23-24|SB 4.18.23-24]]

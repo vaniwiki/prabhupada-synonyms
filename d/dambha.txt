@@ -1,5 +1,11 @@
-~~Title:dambha~~
-{{description>by pride; false pride; prestige; pride.}}
+---json
+{
+    "name":"dambha",
+    "h1":"dambha",
+    "title":"dambha --- synonyms, prabhupada.io",
+    "description":"by pride; false pride; prestige; pride."
+}
+---
 
 ==== dambha  ====
   * by pride --- [[books:cc:adi:4:260|Ādi 4.260]]

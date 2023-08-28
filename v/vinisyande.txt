@@ -1,5 +1,11 @@
-~~Title:vinisyande~~
-{{description>in the oozing.}}
+---json
+{
+    "name":"vinisyande",
+    "h1":"vinisyande",
+    "title":"vinisyande --- synonyms, prabhupada.io",
+    "description":"in the oozing."
+}
+---
 
 ==== vinisyande  ====
   * in the oozing --- [[books:cc:antya:1:158|Antya 1.158]]

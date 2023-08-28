@@ -1,5 +1,11 @@
-~~Title:patyam~~
-{{description>supremacy.}}
+---json
+{
+    "name":"patyam",
+    "h1":"patyam",
+    "title":"patyam --- synonyms, prabhupada.io",
+    "description":"supremacy."
+}
+---
 
 ==== aika-patyam  ====
   * supremacy --- [[books:sb:7:3:37-38|SB 7.3.37-38]]

@@ -1,5 +1,11 @@
-~~Title:jalajaḥ~~
-{{description>the Lord's conchshell.}}
+---json
+{
+    "name":"jalajaḥ",
+    "h1":"jalajaḥ",
+    "title":"jalajaḥ --- synonyms, prabhupada.io",
+    "description":"the Lord's conchshell."
+}
+---
 
 ==== jalajaḥ  ====
   * the Lord's conchshell --- [[books:sb:8:20:31|SB 8.20.31]]

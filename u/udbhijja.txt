@@ -1,5 +1,11 @@
-~~Title:udbhijja~~
-{{description>vegetables.}}
+---json
+{
+    "name":"udbhijja",
+    "h1":"udbhijja",
+    "title":"udbhijja --- synonyms, prabhupada.io",
+    "description":"vegetables."
+}
+---
 
 ==== udbhijja  ====
   * vegetables --- [[books:sb:2:6:5|SB 2.6.5]]

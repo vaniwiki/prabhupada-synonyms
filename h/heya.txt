@@ -1,5 +1,11 @@
-~~Title:heya~~
-{{description>to be rejected.}}
+---json
+{
+    "name":"heya",
+    "h1":"heya",
+    "title":"heya --- synonyms, prabhupada.io",
+    "description":"to be rejected."
+}
+---
 
 ==== heya  ====
   * to be rejected --- [[books:sb:3:32:25|SB 3.32.25]]

@@ -1,5 +1,11 @@
-~~Title:kānte~~
-{{description>the hero.}}
+---json
+{
+    "name":"kānte",
+    "h1":"kānte",
+    "title":"kānte --- synonyms, prabhupada.io",
+    "description":"the hero."
+}
+---
 
 ==== kānte  ====
   * the hero --- [[books:cc:madhya:14:144|Madhya 14.144]]

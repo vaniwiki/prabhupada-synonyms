@@ -1,5 +1,11 @@
-~~Title:vistare~~
-{{description>expansive.}}
+---json
+{
+    "name":"vistare",
+    "h1":"vistare",
+    "title":"vistare --- synonyms, prabhupada.io",
+    "description":"expansive."
+}
+---
 
 ==== vistare  ====
   * expansive --- [[books:sb:4:29:45|SB 4.29.45]]

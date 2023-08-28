@@ -1,5 +1,11 @@
-~~Title:arkam~~
-{{description>the sun.}}
+---json
+{
+    "name":"arkam",
+    "h1":"arkam",
+    "title":"arkam --- synonyms, prabhupada.io",
+    "description":"the sun."
+}
+---
 
 ==== arkam  ====
   * the sun --- [[books:sb:1:9:42|SB 1.9.42]], [[books:sb:3:17:17|SB 3.17.17]], [[books:sb:3:27:10|SB 3.27.10]], [[books:sb:4:2:5|SB 4.2.5]], [[books:cc:adi:2:21|Ādi 2.21]]

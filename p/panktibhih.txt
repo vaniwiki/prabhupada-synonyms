@@ -1,5 +1,11 @@
-~~Title:paṅktibhiḥ~~
-{{description>in a line.}}
+---json
+{
+    "name":"paṅktibhiḥ",
+    "h1":"paṅktibhiḥ",
+    "title":"paṅktibhiḥ --- synonyms, prabhupada.io",
+    "description":"in a line."
+}
+---
 
 ==== paṅktibhiḥ  ====
   * in a line --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

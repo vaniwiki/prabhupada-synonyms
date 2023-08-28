@@ -1,5 +1,11 @@
-~~Title:ākhyātāni~~
-{{description>explained.}}
+---json
+{
+    "name":"ākhyātāni",
+    "h1":"ākhyātāni",
+    "title":"ākhyātāni --- synonyms, prabhupada.io",
+    "description":"explained."
+}
+---
 
 ==== ākhyātāni  ====
   * explained --- [[books:sb:1:1:6|SB 1.1.6]]

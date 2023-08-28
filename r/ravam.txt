@@ -1,5 +1,11 @@
-~~Title:ravam~~
-{{description>the high sound, as terrible as a thunderbolt.}}
+---json
+{
+    "name":"ravam",
+    "h1":"ravam",
+    "title":"ravam --- synonyms, prabhupada.io",
+    "description":"the high sound, as terrible as a thunderbolt."
+}
+---
 
 ==== ravam  ====
   * the high sound, as terrible as a thunderbolt --- [[books:sb:10:11:1|SB 10.11.1]]

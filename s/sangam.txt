@@ -1,5 +1,11 @@
-~~Title:saṅgam~~
-{{description>association; attachment; the association.}}
+---json
+{
+    "name":"saṅgam",
+    "h1":"saṅgam",
+    "title":"saṅgam --- synonyms, prabhupada.io",
+    "description":"association; attachment; the association."
+}
+---
 
 ==== saṅgam  ====
   * association --- [[books:bg:18:6|Bg. 18.6]], [[books:bg:18:9|Bg. 18.9]], [[books:sb:1:18:3|SB 1.18.3]], [[books:sb:3:31:34|SB 3.31.34]], [[books:sb:3:31:39|SB 3.31.39]], [[books:sb:4:22:34|SB 4.22.34]], [[books:sb:5:5:2|SB 5.5.2]], [[books:sb:7:6:17-18|SB 7.6.17-18]], [[books:sb:7:14:3-4|SB 7.14.3-4]], [[books:sb:9:6:51|SB 9.6.51]], [[books:sb:9:19:27-28|SB 9.19.27-28]], [[books:cc:madhya:22:88-90|Madhya 22.88-90]]

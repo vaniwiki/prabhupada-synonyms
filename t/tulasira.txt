@@ -1,5 +1,11 @@
-~~Title:tulasīra~~
-{{description>the aroma of tulasī leaves.}}
+---json
+{
+    "name":"tulasīra",
+    "h1":"tulasīra",
+    "title":"tulasīra --- synonyms, prabhupada.io",
+    "description":"the aroma of tulasī leaves."
+}
+---
 
 ==== tulasīra gandhe  ====
   * the aroma of //tulasī// leaves --- [[books:cc:madhya:17:141|Madhya 17.141]]

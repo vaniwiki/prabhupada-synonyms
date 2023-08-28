@@ -1,5 +1,11 @@
-~~Title:puchiyā~~
-{{description>asking.}}
+---json
+{
+    "name":"puchiyā",
+    "h1":"puchiyā",
+    "title":"puchiyā --- synonyms, prabhupada.io",
+    "description":"asking."
+}
+---
 
 ==== puchiyā  ====
   * asking --- [[books:cc:madhya:15:66|Madhya 15.66]]

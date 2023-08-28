@@ -1,5 +1,11 @@
-~~Title:patnīre~~
-{{description>to his wife.}}
+---json
+{
+    "name":"patnīre",
+    "h1":"patnīre",
+    "title":"patnīre --- synonyms, prabhupada.io",
+    "description":"to his wife."
+}
+---
 
 ==== tāṅra patnīre  ====
   * to his wife --- [[books:cc:antya:16:15|Antya 16.15]]

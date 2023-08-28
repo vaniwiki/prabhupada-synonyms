@@ -1,5 +1,11 @@
-~~Title:vāsaha~~
-{{description>You do not care for.}}
+---json
+{
+    "name":"vāsaha",
+    "h1":"vāsaha",
+    "title":"vāsaha --- synonyms, prabhupada.io",
+    "description":"You do not care for."
+}
+---
 
 ==== nā vāsaha  ====
   * You do not care for --- [[books:cc:antya:3:219|Antya 3.219]]

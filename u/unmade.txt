@@ -1,5 +1,11 @@
-~~Title:unmāde~~
-{{description>ecstatic; in madness.}}
+---json
+{
+    "name":"unmāde",
+    "h1":"unmāde",
+    "title":"unmāde --- synonyms, prabhupada.io",
+    "description":"ecstatic; in madness."
+}
+---
 
 ==== unmāde  ====
   * ecstatic --- [[books:cc:madhya:10:107|Madhya 10.107]]

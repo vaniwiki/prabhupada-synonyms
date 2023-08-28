@@ -1,5 +1,11 @@
-~~Title:ibena~~
-{{description>will descend.}}
+---json
+{
+    "name":"ibena",
+    "h1":"ibena",
+    "title":"ibena --- synonyms, prabhupada.io",
+    "description":"will descend."
+}
+---
 
 ==== avatīrṇa ha-ibena  ====
   * will descend --- [[books:cc:antya:3:225|Antya 3.225]]

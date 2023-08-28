@@ -1,5 +1,11 @@
-~~Title:sañcāre~~
-{{description>appear; He infuses; infuses; sprinkle.}}
+---json
+{
+    "name":"sañcāre",
+    "h1":"sañcāre",
+    "title":"sañcāre --- synonyms, prabhupada.io",
+    "description":"appear; He infuses; infuses; sprinkle."
+}
+---
 
 ==== sañcāre  ====
   * appear --- [[books:cc:madhya:22:75|Madhya 22.75]]

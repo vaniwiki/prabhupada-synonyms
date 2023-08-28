@@ -1,5 +1,11 @@
-~~Title:nidhinā~~
-{{description>the master of all arts.}}
+---json
+{
+    "name":"nidhinā",
+    "h1":"nidhinā",
+    "title":"nidhinā --- synonyms, prabhupada.io",
+    "description":"the master of all arts."
+}
+---
 
 ==== kalā-nidhinā  ====
   * the master of all arts --- [[books:cc:antya:1:184|Antya 1.184]]

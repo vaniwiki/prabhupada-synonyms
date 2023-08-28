@@ -1,5 +1,11 @@
-~~Title:kuśalam~~
-{{description>all well; auspicious activities; auspiciousness; good fortune; in happiness; pious activities; very good; welfare; well-being.}}
+---json
+{
+    "name":"kuśalam",
+    "h1":"kuśalam",
+    "title":"kuśalam --- synonyms, prabhupada.io",
+    "description":"all well; auspicious activities; auspiciousness; good fortune; in happiness; pious activities; very good; welfare; well-being."
+}
+---
 
 ==== kuśalam  ====
   * all well --- [[books:sb:3:1:26|SB 3.1.26]]

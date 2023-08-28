@@ -1,5 +1,11 @@
-~~Title:āpūrṇāḥ~~
-{{description>fully decorated.}}
+---json
+{
+    "name":"āpūrṇāḥ",
+    "h1":"āpūrṇāḥ",
+    "title":"āpūrṇāḥ --- synonyms, prabhupada.io",
+    "description":"fully decorated."
+}
+---
 
 ==== āpūrṇāḥ  ====
   * fully decorated --- [[books:sb:10:13:49|SB 10.13.49]]

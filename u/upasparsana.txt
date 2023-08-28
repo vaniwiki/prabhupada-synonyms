@@ -1,5 +1,11 @@
-~~Title:upasparśana~~
-{{description>the touching of which.}}
+---json
+{
+    "name":"upasparśana",
+    "h1":"upasparśana",
+    "title":"upasparśana --- synonyms, prabhupada.io",
+    "description":"the touching of which."
+}
+---
 
 ==== upasparśana  ====
   * the touching of which --- [[books:sb:5:17:1|SB 5.17.1]]

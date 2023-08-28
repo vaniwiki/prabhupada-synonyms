@@ -1,5 +1,11 @@
-~~Title:bandhaila~~
-{{description>constructed.}}
+---json
+{
+    "name":"bandhaila",
+    "h1":"bandhaila",
+    "title":"bandhaila --- synonyms, prabhupada.io",
+    "description":"constructed."
+}
+---
 
 ==== bāndhāila  ====
   * constructed --- [[books:cc:madhya:1:156|Madhya 1.156]]

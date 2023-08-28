@@ -1,5 +1,11 @@
-~~Title:pradesa~~
-{{description>in different locations.}}
+---json
+{
+    "name":"pradesa",
+    "h1":"pradesa",
+    "title":"pradesa --- synonyms, prabhupada.io",
+    "description":"in different locations."
+}
+---
 
 ==== pradeśa-antareṣu  ====
   * in different locations --- [[books:sb:5:22:2|SB 5.22.2]]

@@ -1,5 +1,11 @@
-~~Title:vistarasya~~
-{{description>to the extent.}}
+---json
+{
+    "name":"vistarasya",
+    "h1":"vistarasya",
+    "title":"vistarasya --- synonyms, prabhupada.io",
+    "description":"to the extent."
+}
+---
 
 ==== vistarasya  ====
   * to the extent --- [[books:bg:10:19|Bg. 10.19]]

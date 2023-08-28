@@ -1,5 +1,11 @@
-~~Title:prahitah~~
-{{description>dropped.}}
+---json
+{
+    "name":"prahitah",
+    "h1":"prahitah",
+    "title":"prahitah --- synonyms, prabhupada.io",
+    "description":"dropped."
+}
+---
 
 ==== prahitaḥ  ====
   * dropped --- [[books:sb:5:20:35|SB 5.20.35]]

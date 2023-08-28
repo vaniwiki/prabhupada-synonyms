@@ -1,5 +1,11 @@
-~~Title:atapaskāya~~
-{{description>one who is not austere.}}
+---json
+{
+    "name":"atapaskāya",
+    "h1":"atapaskāya",
+    "title":"atapaskāya --- synonyms, prabhupada.io",
+    "description":"one who is not austere."
+}
+---
 
 ==== atapaskāya  ====
   * one who is not austere --- [[books:bg:18:67|Bg. 18.67]]

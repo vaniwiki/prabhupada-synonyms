@@ -1,5 +1,11 @@
-~~Title:ananyena~~
-{{description>without deviation; without division.}}
+---json
+{
+    "name":"ananyena",
+    "h1":"ananyena",
+    "title":"ananyena --- synonyms, prabhupada.io",
+    "description":"without deviation; without division."
+}
+---
 
 ==== ananyena  ====
   * without deviation --- [[books:sb:3:15:6|SB 3.15.6]]

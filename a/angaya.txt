@@ -1,5 +1,11 @@
-~~Title:aṅgayā~~
-{{description>having six different parts.}}
+---json
+{
+    "name":"aṅgayā",
+    "h1":"aṅgayā",
+    "title":"aṅgayā --- synonyms, prabhupada.io",
+    "description":"having six different parts."
+}
+---
 
 ==== ṣaṭ-aṅgayā  ====
   * having six different parts --- [[books:sb:7:9:50|SB 7.9.50]]

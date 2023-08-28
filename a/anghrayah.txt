@@ -1,5 +1,11 @@
-~~Title:aṅghrayaḥ~~
-{{description>legs; lotus feet.}}
+---json
+{
+    "name":"aṅghrayaḥ",
+    "h1":"aṅghrayaḥ",
+    "title":"aṅghrayaḥ --- synonyms, prabhupada.io",
+    "description":"legs; lotus feet."
+}
+---
 
 ==== aṅghrayaḥ  ====
   * legs --- [[books:sb:8:10:37|SB 8.10.37]]

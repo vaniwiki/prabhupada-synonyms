@@ -1,5 +1,11 @@
-~~Title:uttarāyaṇam~~
-{{description>when the sun passes on the northern side.}}
+---json
+{
+    "name":"uttarāyaṇam",
+    "h1":"uttarāyaṇam",
+    "title":"uttarāyaṇam --- synonyms, prabhupada.io",
+    "description":"when the sun passes on the northern side."
+}
+---
 
 ==== uttarāyaṇam  ====
   * when the sun passes on the northern side --- [[books:bg:8:24|Bg. 8.24]]

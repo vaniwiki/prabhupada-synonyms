@@ -1,5 +1,11 @@
-~~Title:āśayānām~~
-{{description>whose hearts are freed from material contamination.}}
+---json
+{
+    "name":"āśayānām",
+    "h1":"āśayānām",
+    "title":"āśayānām --- synonyms, prabhupada.io",
+    "description":"whose hearts are freed from material contamination."
+}
+---
 
 ==== amala-āśayānām  ====
   * whose hearts are freed from material contamination --- [[books:sb:4:9:11|SB 4.9.11]]

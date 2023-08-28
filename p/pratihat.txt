@@ -1,5 +1,11 @@
-~~Title:pratīhāt~~
-{{description>from King Pratīha.}}
+---json
+{
+    "name":"pratīhāt",
+    "h1":"pratīhāt",
+    "title":"pratīhāt --- synonyms, prabhupada.io",
+    "description":"from King Pratīha."
+}
+---
 
 ==== pratīhāt  ====
   * from King Pratīha --- [[books:sb:5:15:5|SB 5.15.5]]

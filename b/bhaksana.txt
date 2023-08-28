@@ -1,5 +1,11 @@
-~~Title:bhakṣaṇa~~
-{{description>drinking; eat; eating; eating Himself; the eatables.}}
+---json
+{
+    "name":"bhakṣaṇa",
+    "h1":"bhakṣaṇa",
+    "title":"bhakṣaṇa --- synonyms, prabhupada.io",
+    "description":"drinking; eat; eating; eating Himself; the eatables."
+}
+---
 
 ==== bhakṣaṇa  ====
   * drinking --- [[books:cc:madhya:9:83|Madhya 9.83]], [[books:cc:madhya:11:7|Madhya 11.7]]

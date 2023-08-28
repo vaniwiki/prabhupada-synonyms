@@ -1,5 +1,11 @@
-~~Title:smayamānam~~
-{{description>the Lord's smiling.}}
+---json
+{
+    "name":"smayamānam",
+    "h1":"smayamānam",
+    "title":"smayamānam --- synonyms, prabhupada.io",
+    "description":"the Lord's smiling."
+}
+---
 
 ==== smayamānam  ====
   * the Lord's smiling --- [[books:sb:4:8:51|SB 4.8.51]]

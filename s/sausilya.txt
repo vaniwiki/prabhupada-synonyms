@@ -1,5 +1,11 @@
-~~Title:sauśīlya~~
-{{description>gentleness.}}
+---json
+{
+    "name":"sauśīlya",
+    "h1":"sauśīlya",
+    "title":"sauśīlya --- synonyms, prabhupada.io",
+    "description":"gentleness."
+}
+---
 
 ==== sauśīlya  ====
   * gentleness --- [[books:sb:3:5:1|SB 3.5.1]]

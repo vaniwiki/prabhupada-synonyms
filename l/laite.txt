@@ -1,5 +1,11 @@
-~~Title:laite~~
-{{description>accepting; continuously chanting; simply by chanting; taking; to accept; to take; used to chant.}}
+---json
+{
+    "name":"laite",
+    "h1":"laite",
+    "title":"laite --- synonyms, prabhupada.io",
+    "description":"accepting; continuously chanting; simply by chanting; taking; to accept; to take; used to chant."
+}
+---
 
 ==== laite  ====
   * accepting --- [[books:cc:adi:7:77|Ādi 7.77]]

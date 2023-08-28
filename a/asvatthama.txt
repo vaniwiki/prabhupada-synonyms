@@ -1,5 +1,11 @@
-~~Title:aśvatthāmā~~
-{{description>Aśvatthāmā.}}
+---json
+{
+    "name":"aśvatthāmā",
+    "h1":"aśvatthāmā",
+    "title":"aśvatthāmā --- synonyms, prabhupada.io",
+    "description":"Aśvatthāmā."
+}
+---
 
 ==== aśvatthāmā  ====
   * Aśvatthāmā --- [[books:bg:1:8|Bg. 1.8]]

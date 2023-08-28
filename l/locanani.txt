@@ -1,5 +1,11 @@
-~~Title:locanāni~~
-{{description>eyes.}}
+---json
+{
+    "name":"locanāni",
+    "h1":"locanāni",
+    "title":"locanāni --- synonyms, prabhupada.io",
+    "description":"eyes."
+}
+---
 
 ==== locanāni  ====
   * eyes --- [[books:sb:3:25:35|SB 3.25.35]]

@@ -1,5 +1,11 @@
-~~Title:jaja~~
-{{description>a sound indicating the name Jagannātha.}}
+---json
+{
+    "name":"jaja",
+    "h1":"jaja",
+    "title":"jaja --- synonyms, prabhupada.io",
+    "description":"a sound indicating the name Jagannātha."
+}
+---
 
 ==== jaja gaga jaja gaga  ====
   * a sound indicating the name Jagannātha --- [[books:cc:madhya:13:104|Madhya 13.104]]

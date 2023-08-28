@@ -1,5 +1,11 @@
-~~Title:seyā~~
-{{description>it is like the thorn of the seyā berry tree.}}
+---json
+{
+    "name":"seyā",
+    "h1":"seyā",
+    "title":"seyā --- synonyms, prabhupada.io",
+    "description":"it is like the thorn of the seyā berry tree."
+}
+---
 
 ==== seyā-kulera kāṅṭā  ====
   * it is like the thorn of the //seyā// berry tree --- [[books:cc:antya:19:40|Antya 19.40]]

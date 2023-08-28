@@ -1,5 +1,11 @@
-~~Title:plutaḥ~~
-{{description>infused with the mode of passion.}}
+---json
+{
+    "name":"plutaḥ",
+    "h1":"plutaḥ",
+    "title":"plutaḥ --- synonyms, prabhupada.io",
+    "description":"infused with the mode of passion."
+}
+---
 
 ==== rajaḥ-plutaḥ  ====
   * infused with the mode of passion --- [[books:sb:3:10:30|SB 3.10.30]]

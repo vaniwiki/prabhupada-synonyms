@@ -1,5 +1,11 @@
-~~Title:paḍāi~~
-{{description>yes, I teach grammar.}}
+---json
+{
+    "name":"paḍāi",
+    "h1":"paḍāi",
+    "title":"paḍāi --- synonyms, prabhupada.io",
+    "description":"yes, I teach grammar."
+}
+---
 
 ==== vyākaraṇa paḍāi  ====
   * yes, I teach grammar --- [[books:cc:adi:16:33|Ādi 16.33]]

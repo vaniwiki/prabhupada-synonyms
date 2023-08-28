@@ -1,5 +1,11 @@
-~~Title:āpādita~~
-{{description>achieved.}}
+---json
+{
+    "name":"āpādita",
+    "h1":"āpādita",
+    "title":"āpādita --- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== āpādita  ====
   * achieved --- [[books:sb:5:15:7|SB 5.15.7]]

@@ -1,5 +1,11 @@
-~~Title:āpanārasama~~
-{{description>like You.}}
+---json
+{
+    "name":"āpanārasama",
+    "h1":"āpanārasama",
+    "title":"āpanārasama --- synonyms, prabhupada.io",
+    "description":"like You."
+}
+---
 
 ==== āpanārasama  ====
   * like You --- [[books:cc:madhya:3:98|Madhya 3.98]]

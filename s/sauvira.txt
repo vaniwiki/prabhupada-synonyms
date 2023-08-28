@@ -1,5 +1,11 @@
-~~Title:sauvīra~~
-{{description>Saurastra; the kingdom of Sauvīra.}}
+---json
+{
+    "name":"sauvīra",
+    "h1":"sauvīra",
+    "title":"sauvīra --- synonyms, prabhupada.io",
+    "description":"Saurastra; the kingdom of Sauvīra."
+}
+---
 
 ==== sauvīra  ====
   * Saurastra --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

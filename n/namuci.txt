@@ -1,5 +1,11 @@
-~~Title:namuci~~
-{{description>by the skin of Namuci's neck.}}
+---json
+{
+    "name":"namuci",
+    "h1":"namuci",
+    "title":"namuci --- synonyms, prabhupada.io",
+    "description":"by the skin of Namuci's neck."
+}
+---
 
 ==== namuci-śirodhara-tvacā  ====
   * by the skin of Namuci's neck --- [[books:sb:8:11:32|SB 8.11.32]]

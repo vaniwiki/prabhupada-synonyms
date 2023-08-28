@@ -1,5 +1,11 @@
-~~Title:akaitava~~
-{{description>unalloyed love of Kṛṣṇa.}}
+---json
+{
+    "name":"akaitava",
+    "h1":"akaitava",
+    "title":"akaitava --- synonyms, prabhupada.io",
+    "description":"unalloyed love of Kṛṣṇa."
+}
+---
 
 ==== akaitava kṛṣṇa-prema  ====
   * unalloyed love of Kṛṣṇa --- [[books:cc:madhya:2:43|Madhya 2.43]]

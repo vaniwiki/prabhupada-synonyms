@@ -1,5 +1,11 @@
-~~Title:vidyotita~~
-{{description>enlightened; illuminated.}}
+---json
+{
+    "name":"vidyotita",
+    "h1":"vidyotita",
+    "title":"vidyotita --- synonyms, prabhupada.io",
+    "description":"enlightened; illuminated."
+}
+---
 
 ==== vidyotita  ====
   * enlightened --- [[books:sb:4:1:23|SB 4.1.23]]

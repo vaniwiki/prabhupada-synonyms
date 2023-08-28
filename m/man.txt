@@ -1,5 +1,11 @@
-~~Title:man~~
-{{description>giving honor.}}
+---json
+{
+    "name":"man",
+    "h1":"man",
+    "title":"man --- synonyms, prabhupada.io",
+    "description":"giving honor."
+}
+---
 
 ==== mān ya kari'  ====
   * giving honor --- [[books:cc:antya:6:64|Antya 6.64]]

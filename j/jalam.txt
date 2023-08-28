@@ -1,5 +1,11 @@
-~~Title:jalam~~
-{{description>tears; the water; water.}}
+---json
+{
+    "name":"jalam",
+    "h1":"jalam",
+    "title":"jalam --- synonyms, prabhupada.io",
+    "description":"tears; the water; water."
+}
+---
 
 ==== jalam  ====
   * tears --- [[books:sb:2:3:24|SB 2.3.24]], [[books:cc:adi:8:25|Ādi 8.25]]

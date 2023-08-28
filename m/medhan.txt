@@ -1,5 +1,11 @@
-~~Title:medhān~~
-{{description>horse sacrifices.}}
+---json
+{
+    "name":"medhān",
+    "h1":"medhān",
+    "title":"medhān --- synonyms, prabhupada.io",
+    "description":"horse sacrifices."
+}
+---
 
 ==== aśva-medhān  ====
   * horse sacrifices --- [[books:sb:1:16:3|SB 1.16.3]]

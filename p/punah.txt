@@ -1,5 +1,11 @@
-~~Title:punaḥ~~
-{{description>again (at home); again (is to be said); again (their son); again; again and again; again, for the second time; again, the second; but; then; yet.}}
+---json
+{
+    "name":"punaḥ",
+    "h1":"punaḥ",
+    "title":"punaḥ --- synonyms, prabhupada.io",
+    "description":"again (at home); again (is to be said); again (their son); again; again and again; again, for the second time; again, the second; but; then; yet."
+}
+---
 
 ==== punaḥ  ====
   * again (at home) --- [[books:sb:2:10:49-50|SB 2.10.49-50]]

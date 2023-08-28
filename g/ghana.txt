@@ -1,5 +1,11 @@
-~~Title:ghana~~
-{{description>heavy; of clouds; of dense clouds; the cloud.}}
+---json
+{
+    "name":"ghana",
+    "h1":"ghana",
+    "title":"ghana --- synonyms, prabhupada.io",
+    "description":"heavy; of clouds; of dense clouds; the cloud."
+}
+---
 
 ==== ghana  ====
   * heavy --- [[books:cc:adi:11:30|Ādi 11.30]]

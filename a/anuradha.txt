@@ -1,5 +1,11 @@
-~~Title:anurādhā~~
-{{description>the nakṣatra named Anurādhā.}}
+---json
+{
+    "name":"anurādhā",
+    "h1":"anurādhā",
+    "title":"anurādhā --- synonyms, prabhupada.io",
+    "description":"the nakṣatra named Anurādhā."
+}
+---
 
 ==== anurādhā  ====
   * the //nakṣatra// named Anurādhā --- [[books:sb:7:14:20-23|SB 7.14.20-23]]

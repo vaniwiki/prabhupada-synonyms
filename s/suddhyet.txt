@@ -1,5 +1,11 @@
-~~Title:śuddhyet~~
-{{description>becomes purified; may be purified.}}
+---json
+{
+    "name":"śuddhyet",
+    "h1":"śuddhyet",
+    "title":"śuddhyet --- synonyms, prabhupada.io",
+    "description":"becomes purified; may be purified."
+}
+---
 
 ==== śuddhyet  ====
   * becomes purified --- [[books:sb:5:5:1|SB 5.5.1]]

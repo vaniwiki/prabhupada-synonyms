@@ -1,5 +1,11 @@
-~~Title:dhariba~~
-{{description>I shall catch; shall I maintain.}}
+---json
+{
+    "name":"dhariba",
+    "h1":"dhariba",
+    "title":"dhariba --- synonyms, prabhupada.io",
+    "description":"I shall catch; shall I maintain."
+}
+---
 
 ==== dhariba  ====
   * I shall catch --- [[books:cc:madhya:12:21|Madhya 12.21]]

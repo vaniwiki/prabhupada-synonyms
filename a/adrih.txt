@@ -1,5 +1,11 @@
-~~Title:adriḥ~~
-{{description>a mountain; and mountains; hill.}}
+---json
+{
+    "name":"adriḥ",
+    "h1":"adriḥ",
+    "title":"adriḥ --- synonyms, prabhupada.io",
+    "description":"a mountain; and mountains; hill."
+}
+---
 
 ==== adriḥ  ====
   * a mountain --- [[books:sb:6:11:11|SB 6.11.11]]

@@ -1,5 +1,11 @@
-~~Title:samayam~~
-{{description>accepting one another; equilibrium.}}
+---json
+{
+    "name":"samayam",
+    "h1":"samayam",
+    "title":"samayam --- synonyms, prabhupada.io",
+    "description":"accepting one another; equilibrium."
+}
+---
 
 ==== samayam  ====
   * accepting one another --- [[books:sb:4:25:43|SB 4.25.43]]

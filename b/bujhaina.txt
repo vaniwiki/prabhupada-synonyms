@@ -1,5 +1,11 @@
-~~Title:bujhāiñā~~
-{{description>making understand.}}
+---json
+{
+    "name":"bujhāiñā",
+    "h1":"bujhāiñā",
+    "title":"bujhāiñā --- synonyms, prabhupada.io",
+    "description":"making understand."
+}
+---
 
 ==== bujhāiñā  ====
   * making understand --- [[books:cc:madhya:1:83|Madhya 1.83]]

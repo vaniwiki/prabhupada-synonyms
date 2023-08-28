@@ -1,5 +1,11 @@
-~~Title:spārhāḥ~~
-{{description>aspirations.}}
+---json
+{
+    "name":"spārhāḥ",
+    "h1":"spārhāḥ",
+    "title":"spārhāḥ --- synonyms, prabhupada.io",
+    "description":"aspirations."
+}
+---
 
 ==== spārhāḥ  ====
   * aspirations --- [[books:sb:1:12:6|SB 1.12.6]]

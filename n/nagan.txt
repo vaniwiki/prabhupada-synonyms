@@ -1,5 +1,11 @@
-~~Title:nagan~~
-{{description>the mountains.}}
+---json
+{
+    "name":"nagan",
+    "h1":"nagan",
+    "title":"nagan --- synonyms, prabhupada.io",
+    "description":"the mountains."
+}
+---
 
 ==== nagān  ====
   * the mountains --- [[books:sb:10:7:35-36|SB 10.7.35-36]]

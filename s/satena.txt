@@ -1,5 +1,11 @@
-~~Title:śatena~~
-{{description>by one hundred; numbering one hundred; to perform one hundred.}}
+---json
+{
+    "name":"śatena",
+    "h1":"śatena",
+    "title":"śatena --- synonyms, prabhupada.io",
+    "description":"by one hundred; numbering one hundred; to perform one hundred."
+}
+---
 
 ==== śatena  ====
   * by one hundred --- [[books:sb:8:15:34|SB 8.15.34]]

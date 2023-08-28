@@ -1,5 +1,11 @@
-~~Title:arnavam~~
-{{description>in the ocean; the ocean.}}
+---json
+{
+    "name":"arnavam",
+    "h1":"arnavam",
+    "title":"arnavam --- synonyms, prabhupada.io",
+    "description":"in the ocean; the ocean."
+}
+---
 
 ==== arṇavam  ====
   * in the ocean --- [[books:sb:4:24:14|SB 4.24.14]]

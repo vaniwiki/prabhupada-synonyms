@@ -1,5 +1,11 @@
-~~Title:tārayitum~~
-{{description>to free.}}
+---json
+{
+    "name":"tārayitum",
+    "h1":"tārayitum",
+    "title":"tārayitum --- synonyms, prabhupada.io",
+    "description":"to free."
+}
+---
 
 ==== tārayitum  ====
   * to free --- [[books:sb:8:2:28|SB 8.2.28]]

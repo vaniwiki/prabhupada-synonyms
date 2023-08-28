@@ -1,5 +1,11 @@
-~~Title:mūrti~~
-{{description>Deity; form; forms; in the form; representation; the Deity; the form.}}
+---json
+{
+    "name":"mūrti",
+    "h1":"mūrti",
+    "title":"mūrti --- synonyms, prabhupada.io",
+    "description":"Deity; form; forms; in the form; representation; the Deity; the form."
+}
+---
 
 ==== mūrti  ====
   * Deity --- [[books:cc:madhya:5:93|Madhya 5.93]], [[books:cc:madhya:9:64|Madhya 9.64]]

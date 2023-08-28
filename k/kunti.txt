@@ -1,5 +1,11 @@
-~~Title:kuntī~~
-{{description>like Kuntīdevī; the mother of the Pāṇḍavas.}}
+---json
+{
+    "name":"kuntī",
+    "h1":"kuntī",
+    "title":"kuntī --- synonyms, prabhupada.io",
+    "description":"like Kuntīdevī; the mother of the Pāṇḍavas."
+}
+---
 
 ==== kuntī  ====
   * like Kuntīdevī --- [[books:cc:madhya:10:53|Madhya 10.53]]

@@ -1,5 +1,11 @@
-~~Title:bhavyam~~
-{{description>auspiciousness; future; whatever will be created.}}
+---json
+{
+    "name":"bhavyam",
+    "h1":"bhavyam",
+    "title":"bhavyam --- synonyms, prabhupada.io",
+    "description":"auspiciousness; future; whatever will be created."
+}
+---
 
 ==== bhavyam  ====
   * auspiciousness --- [[books:cc:antya:5:112|Antya 5.112]]

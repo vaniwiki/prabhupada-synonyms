@@ -1,5 +1,11 @@
-~~Title:dharmajam~~
-{{description>Mahārāja Yudhiṣṭhira.}}
+---json
+{
+    "name":"dharmajam",
+    "h1":"dharmajam",
+    "title":"dharmajam --- synonyms, prabhupada.io",
+    "description":"Mahārāja Yudhiṣṭhira."
+}
+---
 
 ==== dharmajam  ====
   * Mahārāja Yudhiṣṭhira --- [[books:sb:3:3:16|SB 3.3.16]]

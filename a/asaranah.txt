@@ -1,5 +1,11 @@
-~~Title:aśaraṇaḥ~~
-{{description>not dependent on any other support.}}
+---json
+{
+    "name":"aśaraṇaḥ",
+    "h1":"aśaraṇaḥ",
+    "title":"aśaraṇaḥ --- synonyms, prabhupada.io",
+    "description":"not dependent on any other support."
+}
+---
 
 ==== aśaraṇaḥ  ====
   * not dependent on any other support --- [[books:sb:6:9:34|SB 6.9.34]]

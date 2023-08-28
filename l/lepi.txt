@@ -1,5 +1,11 @@
-~~Title:lepi'~~
-{{description>mopping that place.}}
+---json
+{
+    "name":"lepi'",
+    "h1":"lepi'",
+    "title":"lepi' --- synonyms, prabhupada.io",
+    "description":"mopping that place."
+}
+---
 
 ==== sthāna lepi'  ====
   * mopping that place --- [[books:cc:madhya:4:131|Madhya 4.131]]

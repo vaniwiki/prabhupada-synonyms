@@ -1,5 +1,11 @@
-~~Title:vimṛśena~~
-{{description>deliberation.}}
+---json
+{
+    "name":"vimṛśena",
+    "h1":"vimṛśena",
+    "title":"vimṛśena --- synonyms, prabhupada.io",
+    "description":"deliberation."
+}
+---
 
 ==== vimṛśena  ====
   * deliberation --- [[books:sb:3:16:37|SB 3.16.37]]

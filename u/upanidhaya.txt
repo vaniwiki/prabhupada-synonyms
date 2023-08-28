@@ -1,5 +1,11 @@
-~~Title:upanidhāya~~
-{{description>entrusting.}}
+---json
+{
+    "name":"upanidhāya",
+    "h1":"upanidhāya",
+    "title":"upanidhāya --- synonyms, prabhupada.io",
+    "description":"entrusting."
+}
+---
 
 ==== upanidhāya  ====
   * entrusting --- [[books:sb:5:4:5|SB 5.4.5]]

@@ -1,5 +1,11 @@
-~~Title:pad~~
-{{description>of foot soldiers.}}
+---json
+{
+    "name":"pad",
+    "h1":"pad",
+    "title":"pad --- synonyms, prabhupada.io",
+    "description":"of foot soldiers."
+}
+---
 
 ==== pad-rathānām  ====
   * of foot soldiers --- [[books:sb:3:18:12|SB 3.18.12]]

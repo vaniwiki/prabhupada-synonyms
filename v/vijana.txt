@@ -1,5 +1,11 @@
-~~Title:vījana~~
-{{description>fanning.}}
+---json
+{
+    "name":"vījana",
+    "h1":"vījana",
+    "title":"vījana --- synonyms, prabhupada.io",
+    "description":"fanning."
+}
+---
 
 ==== vījana  ====
   * fanning --- [[books:cc:antya:18:108|Antya 18.108]]

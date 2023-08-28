@@ -1,5 +1,11 @@
-~~Title:dhanvinām~~
-{{description>of the great bowmen.}}
+---json
+{
+    "name":"dhanvinām",
+    "h1":"dhanvinām",
+    "title":"dhanvinām --- synonyms, prabhupada.io",
+    "description":"of the great bowmen."
+}
+---
 
 ==== dhanvinām  ====
   * of the great bowmen --- [[books:sb:1:12:21|SB 1.12.21]]

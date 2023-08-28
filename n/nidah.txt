@@ -1,5 +1,11 @@
-~~Title:nīḍaḥ~~
-{{description>sitting place.}}
+---json
+{
+    "name":"nīḍaḥ",
+    "h1":"nīḍaḥ",
+    "title":"nīḍaḥ --- synonyms, prabhupada.io",
+    "description":"sitting place."
+}
+---
 
 ==== nīḍaḥ  ====
   * sitting place --- [[books:sb:4:29:18-20|SB 4.29.18-20]]

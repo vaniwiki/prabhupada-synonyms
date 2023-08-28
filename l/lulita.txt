@@ -1,5 +1,11 @@
-~~Title:lulita~~
-{{description>scattered; torn.}}
+---json
+{
+    "name":"lulita",
+    "h1":"lulita",
+    "title":"lulita --- synonyms, prabhupada.io",
+    "description":"scattered; torn."
+}
+---
 
 ==== lulita  ====
   * scattered --- [[books:sb:1:9:34|SB 1.9.34]]

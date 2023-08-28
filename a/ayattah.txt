@@ -1,5 +1,11 @@
-~~Title:āyattāḥ~~
-{{description>under control.}}
+---json
+{
+    "name":"āyattāḥ",
+    "h1":"āyattāḥ",
+    "title":"āyattāḥ --- synonyms, prabhupada.io",
+    "description":"under control."
+}
+---
 
 ==== āyattāḥ  ====
   * under control --- [[books:sb:3:15:8|SB 3.15.8]]

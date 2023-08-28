@@ -1,5 +1,11 @@
-~~Title:vikriyā~~
-{{description>material transformation.}}
+---json
+{
+    "name":"vikriyā",
+    "h1":"vikriyā",
+    "title":"vikriyā --- synonyms, prabhupada.io",
+    "description":"material transformation."
+}
+---
 
 ==== vikriyā  ====
   * material transformation --- [[books:sb:5:10:25|SB 5.10.25]]

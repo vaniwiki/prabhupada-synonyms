@@ -1,5 +1,11 @@
-~~Title:ākule~~
-{{description>filled with.}}
+---json
+{
+    "name":"ākule",
+    "h1":"ākule",
+    "title":"ākule --- synonyms, prabhupada.io",
+    "description":"filled with."
+}
+---
 
 ==== ākule  ====
   * filled with --- [[books:sb:4:25:17|SB 4.25.17]]

@@ -1,5 +1,11 @@
-~~Title:śayān~~
-{{description>material desires.}}
+---json
+{
+    "name":"śayān",
+    "h1":"śayān",
+    "title":"śayān --- synonyms, prabhupada.io",
+    "description":"material desires."
+}
+---
 
 ==== hṛt-śayān  ====
   * material desires --- [[books:sb:1:6:22|SB 1.6.22]]

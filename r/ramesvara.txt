@@ -1,5 +1,11 @@
-~~Title:rāmeśvara~~
-{{description>temple of Rāmeśvara.}}
+---json
+{
+    "name":"rāmeśvara",
+    "h1":"rāmeśvara",
+    "title":"rāmeśvara --- synonyms, prabhupada.io",
+    "description":"temple of Rāmeśvara."
+}
+---
 
 ==== rāmeśvara  ====
   * temple of Rāmeśvara --- [[books:cc:madhya:1:116|Madhya 1.116]]

@@ -1,5 +1,11 @@
-~~Title:guna~~
-{{description>attributes.}}
+---json
+{
+    "name":"guna",
+    "h1":"guna",
+    "title":"guna --- synonyms, prabhupada.io",
+    "description":"attributes."
+}
+---
 
 ==== guna  ====
   * attributes --- [[books:cc:antya:4:170|Antya 4.170]]

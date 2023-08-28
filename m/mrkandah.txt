@@ -1,5 +1,11 @@
-~~Title:mṛkaṇḍaḥ~~
-{{description>Mṛkaṇḍa.}}
+---json
+{
+    "name":"mṛkaṇḍaḥ",
+    "h1":"mṛkaṇḍaḥ",
+    "title":"mṛkaṇḍaḥ --- synonyms, prabhupada.io",
+    "description":"Mṛkaṇḍa."
+}
+---
 
 ==== mṛkaṇḍaḥ  ====
   * Mṛkaṇḍa --- [[books:sb:4:1:44|SB 4.1.44]]

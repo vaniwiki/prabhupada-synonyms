@@ -1,5 +1,11 @@
-~~Title:carma~~
-{{description>deerskin; shield; skin; the skin.}}
+---json
+{
+    "name":"carma",
+    "h1":"carma",
+    "title":"carma --- synonyms, prabhupada.io",
+    "description":"deerskin; shield; skin; the skin."
+}
+---
 
 ==== carma  ====
   * deerskin --- [[books:cc:madhya:10:169|Madhya 10.169]]

@@ -1,5 +1,11 @@
-~~Title:nirmitaiḥ~~
-{{description>manufactured; set.}}
+---json
+{
+    "name":"nirmitaiḥ",
+    "h1":"nirmitaiḥ",
+    "title":"nirmitaiḥ --- synonyms, prabhupada.io",
+    "description":"manufactured; set."
+}
+---
 
 ==== nirmitaiḥ  ====
   * manufactured --- [[books:sb:4:19:35|SB 4.19.35]]

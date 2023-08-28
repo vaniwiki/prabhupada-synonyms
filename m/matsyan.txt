@@ -1,5 +1,11 @@
-~~Title:matsyān~~
-{{description>the kingdom of Matsya; the province Matsyā.}}
+---json
+{
+    "name":"matsyān",
+    "h1":"matsyān",
+    "title":"matsyān --- synonyms, prabhupada.io",
+    "description":"the kingdom of Matsya; the province Matsyā."
+}
+---
 
 ==== matsyān  ====
   * the kingdom of Matsya --- [[books:sb:3:1:24|SB 3.1.24]]

@@ -1,5 +1,11 @@
-~~Title:uttamān~~
-{{description>very good.}}
+---json
+{
+    "name":"uttamān",
+    "h1":"uttamān",
+    "title":"uttamān --- synonyms, prabhupada.io",
+    "description":"very good."
+}
+---
 
 ==== uttamān  ====
   * very good --- [[books:sb:4:13:17|SB 4.13.17]]

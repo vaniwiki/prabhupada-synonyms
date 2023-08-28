@@ -1,5 +1,11 @@
-~~Title:mukhebhyaḥ~~
-{{description>from the mouths.}}
+---json
+{
+    "name":"mukhebhyaḥ",
+    "h1":"mukhebhyaḥ",
+    "title":"mukhebhyaḥ --- synonyms, prabhupada.io",
+    "description":"from the mouths."
+}
+---
 
 ==== mukhebhyaḥ  ====
   * from the mouths --- [[books:sb:8:24:61|SB 8.24.61]]

@@ -1,5 +1,11 @@
-~~Title:aiśam~~
-{{description>of Lord Śiva.}}
+---json
+{
+    "name":"aiśam",
+    "h1":"aiśam",
+    "title":"aiśam --- synonyms, prabhupada.io",
+    "description":"of Lord Śiva."
+}
+---
 
 ==== aiśam  ====
   * of Lord Śiva --- [[books:sb:9:10:6-7|SB 9.10.6-7]]

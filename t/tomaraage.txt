@@ -1,5 +1,11 @@
-~~Title:tomāraāge~~
-{{description>before you.}}
+---json
+{
+    "name":"tomāraāge",
+    "h1":"tomāraāge",
+    "title":"tomāraāge --- synonyms, prabhupada.io",
+    "description":"before you."
+}
+---
 
 ==== tomāraāge  ====
   * before you --- [[books:cc:madhya:6:105|Madhya 6.105]]

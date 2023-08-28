@@ -1,5 +1,11 @@
-~~Title:kaivalya~~
-{{description>oneness; transcendental.}}
+---json
+{
+    "name":"kaivalya",
+    "h1":"kaivalya",
+    "title":"kaivalya --- synonyms, prabhupada.io",
+    "description":"oneness; transcendental."
+}
+---
 
 ==== kaivalya  ====
   * oneness --- [[books:sb:7:10:49|SB 7.10.49]]

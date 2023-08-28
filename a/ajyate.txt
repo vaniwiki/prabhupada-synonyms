@@ -1,5 +1,11 @@
-~~Title:ajyate~~
-{{description>becomes entangled; is affected.}}
+---json
+{
+    "name":"ajyate",
+    "h1":"ajyate",
+    "title":"ajyate --- synonyms, prabhupada.io",
+    "description":"becomes entangled; is affected."
+}
+---
 
 ==== ajyate  ====
   * becomes entangled --- [[books:sb:4:11:25|SB 4.11.25]]

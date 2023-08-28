@@ -1,5 +1,11 @@
-~~Title:vikṛtasya~~
-{{description>of things that are transformed, such as the body.}}
+---json
+{
+    "name":"vikṛtasya",
+    "h1":"vikṛtasya",
+    "title":"vikṛtasya --- synonyms, prabhupada.io",
+    "description":"of things that are transformed, such as the body."
+}
+---
 
 ==== vikṛtasya  ====
   * of things that are transformed, such as the body --- [[books:sb:5:10:11|SB 5.10.11]]

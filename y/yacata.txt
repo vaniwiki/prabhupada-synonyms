@@ -1,5 +1,11 @@
-~~Title:yācata~~
-{{description>ask for.}}
+---json
+{
+    "name":"yācata",
+    "h1":"yācata",
+    "title":"yācata --- synonyms, prabhupada.io",
+    "description":"ask for."
+}
+---
 
 ==== yācata  ====
   * ask for --- [[books:sb:6:9:51|SB 6.9.51]]

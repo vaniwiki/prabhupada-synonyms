@@ -1,5 +1,11 @@
-~~Title:samuditaḥ~~
-{{description>addressed.}}
+---json
+{
+    "name":"samuditaḥ",
+    "h1":"samuditaḥ",
+    "title":"samuditaḥ --- synonyms, prabhupada.io",
+    "description":"addressed."
+}
+---
 
 ==== samuditaḥ  ====
   * addressed --- [[books:sb:3:24:41|SB 3.24.41]]

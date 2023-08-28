@@ -1,5 +1,11 @@
-~~Title:jambhaḥ~~
-{{description>Jambha; the demon Jambha.}}
+---json
+{
+    "name":"jambhaḥ",
+    "h1":"jambhaḥ",
+    "title":"jambhaḥ --- synonyms, prabhupada.io",
+    "description":"Jambha; the demon Jambha."
+}
+---
 
 ==== jambhaḥ  ====
   * Jambha --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

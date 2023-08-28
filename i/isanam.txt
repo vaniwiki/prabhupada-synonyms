@@ -1,5 +1,11 @@
-~~Title:isanam~~
-{{description>divinity; opulence.}}
+---json
+{
+    "name":"isanam",
+    "h1":"isanam",
+    "title":"isanam --- synonyms, prabhupada.io",
+    "description":"divinity; opulence."
+}
+---
 
 ==== īśanam  ====
   * divinity --- [[books:sb:1:11:38|SB 1.11.38]]

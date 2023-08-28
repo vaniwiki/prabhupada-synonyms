@@ -1,5 +1,11 @@
-~~Title:kahila~~
-{{description>addressed; declared; delivered; described; explained; has been said; has been spoken; has spoken; He informed; he said; he spoke; I have described; I have explained; I have said; I have spoken; I requested; informed; is described; it was said; narrated; ordered; recited; replied; said; say; spoke; they informed; told.}}
+---json
+{
+    "name":"kahila",
+    "h1":"kahila",
+    "title":"kahila --- synonyms, prabhupada.io",
+    "description":"addressed; declared; delivered; described; explained; has been said; has been spoken; has spoken; He informed; he said; he spoke; I have described; I have explained; I have said; I have spoken; I requested; informed; is described; it was said; narrated; ordered; recited; replied; said; say; spoke; they informed; told."
+}
+---
 
 ==== kahila  ====
   * addressed --- [[books:cc:adi:16:98|Ādi 16.98]]

@@ -1,5 +1,11 @@
-~~Title:ābharaṇāni~~
-{{description>ornaments.}}
+---json
+{
+    "name":"ābharaṇāni",
+    "h1":"ābharaṇāni",
+    "title":"ābharaṇāni --- synonyms, prabhupada.io",
+    "description":"ornaments."
+}
+---
 
 ==== ābharaṇāni  ====
   * ornaments --- [[books:sb:6:14:34|SB 6.14.34]]

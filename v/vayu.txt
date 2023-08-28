@@ -1,5 +1,11 @@
-~~Title:vāyu~~
-{{description>air; composed of air; the air; the demigod controlling air; the demigod known as Vāyu; the wind; wind.}}
+---json
+{
+    "name":"vāyu",
+    "h1":"vāyu",
+    "title":"vāyu --- synonyms, prabhupada.io",
+    "description":"air; composed of air; the air; the demigod controlling air; the demigod known as Vāyu; the wind; wind."
+}
+---
 
 ==== vāyu  ====
   * air --- [[books:sb:2:2:28|SB 2.2.28]], [[books:sb:4:8:75|SB 4.8.75]]

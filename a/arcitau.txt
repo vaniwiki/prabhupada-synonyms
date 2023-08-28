@@ -1,5 +1,11 @@
-~~Title:arcitau~~
-{{description>having been worshiped.}}
+---json
+{
+    "name":"arcitau",
+    "h1":"arcitau",
+    "title":"arcitau --- synonyms, prabhupada.io",
+    "description":"having been worshiped."
+}
+---
 
 ==== arcitau  ====
   * having been worshiped --- [[books:sb:4:1:58|SB 4.1.58]]

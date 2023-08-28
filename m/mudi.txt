@@ -1,5 +1,11 @@
-~~Title:mudi~~
-{{description>covering.}}
+---json
+{
+    "name":"mudi",
+    "h1":"mudi",
+    "title":"mudi --- synonyms, prabhupada.io",
+    "description":"covering."
+}
+---
 
 ==== muḍi  ====
   * covering --- [[books:cc:adi:4:193|Ādi 4.193]]

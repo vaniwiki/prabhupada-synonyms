@@ -1,5 +1,11 @@
-~~Title:vivṛṇu~~
-{{description>kindly explain.}}
+---json
+{
+    "name":"vivṛṇu",
+    "h1":"vivṛṇu",
+    "title":"vivṛṇu --- synonyms, prabhupada.io",
+    "description":"kindly explain."
+}
+---
 
 ==== vivṛṇu  ====
   * kindly explain --- [[books:sb:8:24:53|SB 8.24.53]]

@@ -1,5 +1,11 @@
-~~Title:bhastrāḥ~~
-{{description>bellows.}}
+---json
+{
+    "name":"bhastrāḥ",
+    "h1":"bhastrāḥ",
+    "title":"bhastrāḥ --- synonyms, prabhupada.io",
+    "description":"bellows."
+}
+---
 
 ==== bhastrāḥ  ====
   * bellows --- [[books:sb:2:3:18|SB 2.3.18]]

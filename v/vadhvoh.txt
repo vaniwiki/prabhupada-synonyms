@@ -1,5 +1,11 @@
-~~Title:vadhvoḥ~~
-{{description>of the bridegroom and the bride.}}
+---json
+{
+    "name":"vadhvoḥ",
+    "h1":"vadhvoḥ",
+    "title":"vadhvoḥ --- synonyms, prabhupada.io",
+    "description":"of the bridegroom and the bride."
+}
+---
 
 ==== vara-vadhvoḥ  ====
   * of the bridegroom and the bride --- [[books:sb:10:1:33|SB 10.1.33]]

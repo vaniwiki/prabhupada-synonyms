@@ -1,5 +1,11 @@
-~~Title:astraiḥ~~
-{{description>by weapons; with arrows.}}
+---json
+{
+    "name":"astraiḥ",
+    "h1":"astraiḥ",
+    "title":"astraiḥ --- synonyms, prabhupada.io",
+    "description":"by weapons; with arrows."
+}
+---
 
 ==== astraiḥ  ====
   * by weapons --- [[books:sb:8:11:35|SB 8.11.35]]

@@ -1,5 +1,11 @@
-~~Title:bhajam~~
-{{description>of those who entertain.}}
+---json
+{
+    "name":"bhajam",
+    "h1":"bhajam",
+    "title":"bhajam --- synonyms, prabhupada.io",
+    "description":"of those who entertain."
+}
+---
 
 ==== bhājām  ====
   * of those who entertain --- [[books:sb:2:2:23|SB 2.2.23]]

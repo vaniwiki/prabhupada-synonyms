@@ -1,5 +1,11 @@
-~~Title:kṣattaḥ~~
-{{description>my dear Vidura; O Vidura.}}
+---json
+{
+    "name":"kṣattaḥ",
+    "h1":"kṣattaḥ",
+    "title":"kṣattaḥ --- synonyms, prabhupada.io",
+    "description":"my dear Vidura; O Vidura."
+}
+---
 
 ==== kṣattaḥ  ====
   * my dear Vidura --- [[books:sb:4:10:6|SB 4.10.6]]

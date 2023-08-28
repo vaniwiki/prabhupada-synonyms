@@ -1,5 +1,11 @@
-~~Title:dehāya~~
-{{description>unto the body.}}
+---json
+{
+    "name":"dehāya",
+    "h1":"dehāya",
+    "title":"dehāya --- synonyms, prabhupada.io",
+    "description":"unto the body."
+}
+---
 
 ==== dehāya  ====
   * unto the body --- [[books:sb:4:24:39|SB 4.24.39]]

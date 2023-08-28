@@ -1,5 +1,11 @@
-~~Title:magnam~~
-{{description>merged.}}
+---json
+{
+    "name":"magnam",
+    "h1":"magnam",
+    "title":"magnam --- synonyms, prabhupada.io",
+    "description":"merged."
+}
+---
 
 ==== magnam  ====
   * merged --- [[books:sb:6:15:18-19|SB 6.15.18-19]]

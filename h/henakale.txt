@@ -1,5 +1,11 @@
-~~Title:henakāle~~
-{{description>at that time; at this time.}}
+---json
+{
+    "name":"henakāle",
+    "h1":"henakāle",
+    "title":"henakāle --- synonyms, prabhupada.io",
+    "description":"at that time; at this time."
+}
+---
 
 ==== henakāle  ====
   * at that time --- [[books:cc:madhya:3:30|Madhya 3.30]]

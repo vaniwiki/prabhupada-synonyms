@@ -1,5 +1,11 @@
-~~Title:atulyaḥ~~
-{{description>the matchless.}}
+---json
+{
+    "name":"atulyaḥ",
+    "h1":"atulyaḥ",
+    "title":"atulyaḥ --- synonyms, prabhupada.io",
+    "description":"the matchless."
+}
+---
 
 ==== atulyaḥ  ====
   * the matchless --- [[books:cc:antya:6:264|Antya 6.264]]

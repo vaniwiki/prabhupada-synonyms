@@ -1,5 +1,11 @@
-~~Title:nilaya~~
-{{description>to His residence.}}
+---json
+{
+    "name":"nilaya",
+    "h1":"nilaya",
+    "title":"nilaya --- synonyms, prabhupada.io",
+    "description":"to His residence."
+}
+---
 
 ==== āpana nilaya  ====
   * to His residence --- [[books:cc:madhya:15:6|Madhya 15.6]]

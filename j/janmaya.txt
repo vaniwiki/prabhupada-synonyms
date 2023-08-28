@@ -1,5 +1,11 @@
-~~Title:janmaya~~
-{{description>awakens; begets; creates.}}
+---json
+{
+    "name":"janmaya",
+    "h1":"janmaya",
+    "title":"janmaya --- synonyms, prabhupada.io",
+    "description":"awakens; begets; creates."
+}
+---
 
 ==== janmāya  ====
   * awakens --- [[books:cc:madhya:22:129|Madhya 22.129]]

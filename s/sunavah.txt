@@ -1,5 +1,11 @@
-~~Title:sūnavaḥ~~
-{{description>sons.}}
+---json
+{
+    "name":"sūnavaḥ",
+    "h1":"sūnavaḥ",
+    "title":"sūnavaḥ --- synonyms, prabhupada.io",
+    "description":"sons."
+}
+---
 
 ==== sūnavaḥ  ====
   * sons --- [[books:sb:5:15:5|SB 5.15.5]], [[books:sb:9:23:20-21|SB 9.23.20-21]]

@@ -1,5 +1,11 @@
-~~Title:śiśu~~
-{{description>a boy; baby; child; children; playmates; the boy; the boys; the child.}}
+---json
+{
+    "name":"śiśu",
+    "h1":"śiśu",
+    "title":"śiśu --- synonyms, prabhupada.io",
+    "description":"a boy; baby; child; children; playmates; the boy; the boys; the child."
+}
+---
 
 ==== śiśu  ====
   * a boy --- [[books:cc:adi:16:34|Ādi 16.34]]

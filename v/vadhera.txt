@@ -1,5 +1,11 @@
-~~Title:vadhera~~
-{{description>of killing.}}
+---json
+{
+    "name":"vadhera",
+    "h1":"vadhera",
+    "title":"vadhera --- synonyms, prabhupada.io",
+    "description":"of killing."
+}
+---
 
 ==== vadhera  ====
   * of killing --- [[books:cc:adi:17:156|Ādi 17.156]]

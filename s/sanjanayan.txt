@@ -1,5 +1,11 @@
-~~Title:sañjanayan~~
-{{description>increasing.}}
+---json
+{
+    "name":"sañjanayan",
+    "h1":"sañjanayan",
+    "title":"sañjanayan --- synonyms, prabhupada.io",
+    "description":"increasing."
+}
+---
 
 ==== sañjanayan  ====
   * increasing --- [[books:bg:1:12|Bg. 1.12]]

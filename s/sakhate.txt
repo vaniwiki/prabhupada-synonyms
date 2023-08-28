@@ -1,5 +1,11 @@
-~~Title:śākhāte~~
-{{description>branch; in the branch; of the branch; on the subbranches.}}
+---json
+{
+    "name":"śākhāte",
+    "h1":"śākhāte",
+    "title":"śākhāte --- synonyms, prabhupada.io",
+    "description":"branch; in the branch; of the branch; on the subbranches."
+}
+---
 
 ==== śākhāte  ====
   * branch --- [[books:cc:adi:10:160|Ādi 10.160]]

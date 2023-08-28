@@ -1,5 +1,11 @@
-~~Title:suca~~
-{{description>with lamentation.}}
+---json
+{
+    "name":"suca",
+    "h1":"suca",
+    "title":"suca --- synonyms, prabhupada.io",
+    "description":"with lamentation."
+}
+---
 
 ==== śuca  ====
   * with lamentation --- [[books:sb:6:14:52|SB 6.14.52]]

@@ -1,5 +1,11 @@
-~~Title:sarit~~
-{{description>a river; by rivers; near the shores of the rivers; of the Ganges; river; rivers; the river; the River Ganges; the rivers; water; with rivers.}}
+---json
+{
+    "name":"sarit",
+    "h1":"sarit",
+    "title":"sarit --- synonyms, prabhupada.io",
+    "description":"a river; by rivers; near the shores of the rivers; of the Ganges; river; rivers; the river; the River Ganges; the rivers; water; with rivers."
+}
+---
 
 ==== sarit  ====
   * a river --- [[books:sb:3:33:32|SB 3.33.32]]

@@ -1,5 +1,11 @@
-~~Title:manya~~
-{{description>honor; respectable.}}
+---json
+{
+    "name":"manya",
+    "h1":"manya",
+    "title":"manya --- synonyms, prabhupada.io",
+    "description":"honor; respectable."
+}
+---
 
 ==== mānya  ====
   * honor --- [[books:cc:adi:10:140|Ādi 10.140]]

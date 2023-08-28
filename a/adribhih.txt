@@ -1,5 +1,11 @@
-~~Title:adribhiḥ~~
-{{description>along with the hills and mountains.}}
+---json
+{
+    "name":"adribhiḥ",
+    "h1":"adribhiḥ",
+    "title":"adribhiḥ --- synonyms, prabhupada.io",
+    "description":"along with the hills and mountains."
+}
+---
 
 ==== saha adribhiḥ  ====
   * along with the hills and mountains --- [[books:sb:1:14:15|SB 1.14.15]]

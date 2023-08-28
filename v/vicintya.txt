@@ -1,5 +1,11 @@
-~~Title:vicintya~~
-{{description>thinking; thinking deeply; thinking to himself.}}
+---json
+{
+    "name":"vicintya",
+    "h1":"vicintya",
+    "title":"vicintya --- synonyms, prabhupada.io",
+    "description":"thinking; thinking deeply; thinking to himself."
+}
+---
 
 ==== vicintya  ====
   * thinking --- [[books:sb:10:12:25|SB 10.12.25]]

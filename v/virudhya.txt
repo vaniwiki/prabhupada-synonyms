@@ -1,5 +1,11 @@
-~~Title:virudhya~~
-{{description>being rebellious.}}
+---json
+{
+    "name":"virudhya",
+    "h1":"virudhya",
+    "title":"virudhya --- synonyms, prabhupada.io",
+    "description":"being rebellious."
+}
+---
 
 ==== virudhya  ====
   * being rebellious --- [[books:sb:2:7:23|SB 2.7.23]]

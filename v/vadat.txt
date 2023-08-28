@@ -1,5 +1,11 @@
-~~Title:vādāt~~
-{{description>from defamation.}}
+---json
+{
+    "name":"vādāt",
+    "h1":"vādāt",
+    "title":"vādāt --- synonyms, prabhupada.io",
+    "description":"from defamation."
+}
+---
 
 ==== asādhu-vādāt  ====
   * from defamation --- [[books:sb:8:22:3|SB 8.22.3]]

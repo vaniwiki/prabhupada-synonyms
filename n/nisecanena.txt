@@ -1,5 +1,11 @@
-~~Title:niṣecanena~~
-{{description>by pouring water; by watering.}}
+---json
+{
+    "name":"niṣecanena",
+    "h1":"niṣecanena",
+    "title":"niṣecanena --- synonyms, prabhupada.io",
+    "description":"by pouring water; by watering."
+}
+---
 
 ==== niṣecanena  ====
   * by pouring water --- [[books:cc:madhya:22:63|Madhya 22.63]]

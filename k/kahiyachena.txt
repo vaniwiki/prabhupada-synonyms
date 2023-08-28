@@ -1,5 +1,11 @@
-~~Title:kahiyāchena~~
-{{description>has spoken; told.}}
+---json
+{
+    "name":"kahiyāchena",
+    "h1":"kahiyāchena",
+    "title":"kahiyāchena --- synonyms, prabhupada.io",
+    "description":"has spoken; told."
+}
+---
 
 ==== kahiyāchena  ====
   * has spoken --- [[books:cc:madhya:4:194|Madhya 4.194]]

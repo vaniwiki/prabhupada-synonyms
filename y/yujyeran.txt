@@ -1,5 +1,11 @@
-~~Title:yujyeran~~
-{{description>take place.}}
+---json
+{
+    "name":"yujyeran",
+    "h1":"yujyeran",
+    "title":"yujyeran --- synonyms, prabhupada.io",
+    "description":"take place."
+}
+---
 
 ==== yujyeran  ====
   * take place --- [[books:sb:3:7:2|SB 3.7.2]]

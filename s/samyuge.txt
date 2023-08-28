@@ -1,5 +1,11 @@
-~~Title:saṁyuge~~
-{{description>in battle; in the fight; on the battlefield.}}
+---json
+{
+    "name":"saṁyuge",
+    "h1":"saṁyuge",
+    "title":"saṁyuge --- synonyms, prabhupada.io",
+    "description":"in battle; in the fight; on the battlefield."
+}
+---
 
 ==== saṁyuge  ====
   * in battle --- [[books:sb:3:17:30|SB 3.17.30]]

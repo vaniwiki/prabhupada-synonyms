@@ -1,5 +1,11 @@
-~~Title:varteyam~~
-{{description>thus engage.}}
+---json
+{
+    "name":"varteyam",
+    "h1":"varteyam",
+    "title":"varteyam --- synonyms, prabhupada.io",
+    "description":"thus engage."
+}
+---
 
 ==== varteyam  ====
   * thus engage --- [[books:bg:3:23|Bg. 3.23]]

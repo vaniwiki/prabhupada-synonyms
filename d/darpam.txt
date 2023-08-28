@@ -1,5 +1,11 @@
-~~Title:darpam~~
-{{description>Darpa; false pride; pride.}}
+---json
+{
+    "name":"darpam",
+    "h1":"darpam",
+    "title":"darpam --- synonyms, prabhupada.io",
+    "description":"Darpa; false pride; pride."
+}
+---
 
 ==== darpam  ====
   * Darpa --- [[books:sb:4:1:49-52|SB 4.1.49-52]]

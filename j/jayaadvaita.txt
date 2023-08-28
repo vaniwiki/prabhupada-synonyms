@@ -1,5 +1,11 @@
-~~Title:jayaadvaita~~
-{{description>all glories to Advaita Prabhu.}}
+---json
+{
+    "name":"jayaadvaita",
+    "h1":"jayaadvaita",
+    "title":"jayaadvaita --- synonyms, prabhupada.io",
+    "description":"all glories to Advaita Prabhu."
+}
+---
 
 ==== jayaadvaita  ====
   * all glories to Advaita Prabhu --- [[books:cc:adi:12:2|Ādi 12.2]]

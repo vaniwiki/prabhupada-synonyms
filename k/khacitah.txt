@@ -1,5 +1,11 @@
-~~Title:khacitāḥ~~
-{{description>bedecked with jewels.}}
+---json
+{
+    "name":"khacitāḥ",
+    "h1":"khacitāḥ",
+    "title":"khacitāḥ --- synonyms, prabhupada.io",
+    "description":"bedecked with jewels."
+}
+---
 
 ==== ratna-khacitāḥ  ====
   * bedecked with jewels --- [[books:cc:madhya:2:36|Madhya 2.36]]

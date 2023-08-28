@@ -1,5 +1,11 @@
-~~Title:kadambeṣu~~
-{{description>among the living entities.}}
+---json
+{
+    "name":"kadambeṣu",
+    "h1":"kadambeṣu",
+    "title":"kadambeṣu --- synonyms, prabhupada.io",
+    "description":"among the living entities."
+}
+---
 
 ==== sattva-kadambeṣu  ====
   * among the living entities --- [[books:sb:6:16:43|SB 6.16.43]]

@@ -1,5 +1,11 @@
-~~Title:virudhyate~~
-{{description>becomes contradictory; there is a contradiction.}}
+---json
+{
+    "name":"virudhyate",
+    "h1":"virudhyate",
+    "title":"virudhyate --- synonyms, prabhupada.io",
+    "description":"becomes contradictory; there is a contradiction."
+}
+---
 
 ==== virudhyate  ====
   * becomes contradictory --- [[books:sb:3:7:9|SB 3.7.9]]

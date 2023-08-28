@@ -1,5 +1,11 @@
-~~Title:viṣṭim~~
-{{description>service without remuneration.}}
+---json
+{
+    "name":"viṣṭim",
+    "h1":"viṣṭim",
+    "title":"viṣṭim --- synonyms, prabhupada.io",
+    "description":"service without remuneration."
+}
+---
 
 ==== viṣṭim  ====
   * service without remuneration --- [[books:sb:7:8:55|SB 7.8.55]]

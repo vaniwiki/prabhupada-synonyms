@@ -1,5 +1,11 @@
-~~Title:jñātavyam~~
-{{description>knowable.}}
+---json
+{
+    "name":"jñātavyam",
+    "h1":"jñātavyam",
+    "title":"jñātavyam --- synonyms, prabhupada.io",
+    "description":"knowable."
+}
+---
 
 ==== jñātavyam  ====
   * knowable --- [[books:bg:7:2|Bg. 7.2]]

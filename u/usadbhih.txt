@@ -1,5 +1,11 @@
-~~Title:uśadbhiḥ~~
-{{description>glowing.}}
+---json
+{
+    "name":"uśadbhiḥ",
+    "h1":"uśadbhiḥ",
+    "title":"uśadbhiḥ --- synonyms, prabhupada.io",
+    "description":"glowing."
+}
+---
 
 ==== uśadbhiḥ  ====
   * glowing --- [[books:sb:4:4:34|SB 4.4.34]]

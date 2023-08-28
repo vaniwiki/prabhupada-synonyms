@@ -1,5 +1,11 @@
-~~Title:unnadan~~
-{{description>roaring loudly.}}
+---json
+{
+    "name":"unnadan",
+    "h1":"unnadan",
+    "title":"unnadan --- synonyms, prabhupada.io",
+    "description":"roaring loudly."
+}
+---
 
 ==== unnadan  ====
   * roaring loudly --- [[books:sb:6:11:10|SB 6.11.10]]

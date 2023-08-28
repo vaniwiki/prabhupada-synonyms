@@ -1,5 +1,11 @@
-~~Title:tvastra~~
-{{description>with Tvaṣṭā.}}
+---json
+{
+    "name":"tvastra",
+    "h1":"tvastra",
+    "title":"tvastra --- synonyms, prabhupada.io",
+    "description":"with Tvaṣṭā."
+}
+---
 
 ==== tvaṣṭrā  ====
   * with Tvaṣṭā --- [[books:sb:8:10:29|SB 8.10.29]]

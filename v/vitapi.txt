@@ -1,5 +1,11 @@
-~~Title:viṭapi~~
-{{description>trees.}}
+---json
+{
+    "name":"viṭapi",
+    "h1":"viṭapi",
+    "title":"viṭapi --- synonyms, prabhupada.io",
+    "description":"trees."
+}
+---
 
 ==== viṭapi  ====
   * trees --- [[books:sb:5:2:4|SB 5.2.4]]

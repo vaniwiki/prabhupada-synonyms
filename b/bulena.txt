@@ -1,5 +1,11 @@
-~~Title:bulena~~
-{{description>walks; wanders.}}
+---json
+{
+    "name":"bulena",
+    "h1":"bulena",
+    "title":"bulena --- synonyms, prabhupada.io",
+    "description":"walks; wanders."
+}
+---
 
 ==== bulena  ====
   * walks --- [[books:cc:madhya:11:220|Madhya 11.220]]

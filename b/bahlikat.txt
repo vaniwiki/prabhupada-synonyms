@@ -1,5 +1,11 @@
-~~Title:bāhlīkāt~~
-{{description>from Bāhlīka.}}
+---json
+{
+    "name":"bāhlīkāt",
+    "h1":"bāhlīkāt",
+    "title":"bāhlīkāt --- synonyms, prabhupada.io",
+    "description":"from Bāhlīka."
+}
+---
 
 ==== bāhlīkāt  ====
   * from Bāhlīka --- [[books:sb:9:22:18-19|SB 9.22.18-19]]

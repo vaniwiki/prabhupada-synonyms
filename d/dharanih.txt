@@ -1,5 +1,11 @@
-~~Title:dharaṇiḥ~~
-{{description>Dharaṇi.}}
+---json
+{
+    "name":"dharaṇiḥ",
+    "h1":"dharaṇiḥ",
+    "title":"dharaṇiḥ --- synonyms, prabhupada.io",
+    "description":"Dharaṇi."
+}
+---
 
 ==== dharaṇiḥ  ====
   * Dharaṇi --- [[books:sb:6:6:12|SB 6.6.12]]

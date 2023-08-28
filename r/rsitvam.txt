@@ -1,5 +1,11 @@
-~~Title:ṛṣitvam~~
-{{description>being a saintly person.}}
+---json
+{
+    "name":"ṛṣitvam",
+    "h1":"ṛṣitvam",
+    "title":"ṛṣitvam --- synonyms, prabhupada.io",
+    "description":"being a saintly person."
+}
+---
 
 ==== ṛṣitvam  ====
   * being a saintly person --- [[books:sb:7:7:51-52|SB 7.7.51-52]]

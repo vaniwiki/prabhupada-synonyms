@@ -1,5 +1,11 @@
-~~Title:vyālaḥ~~
-{{description>a snake.}}
+---json
+{
+    "name":"vyālaḥ",
+    "h1":"vyālaḥ",
+    "title":"vyālaḥ --- synonyms, prabhupada.io",
+    "description":"a snake."
+}
+---
 
 ==== vyālaḥ  ====
   * a snake --- [[books:sb:7:8:29|SB 7.8.29]]

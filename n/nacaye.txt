@@ -1,5 +1,11 @@
-~~Title:nācaye~~
-{{description>dance; dances.}}
+---json
+{
+    "name":"nācaye",
+    "h1":"nācaye",
+    "title":"nācaye --- synonyms, prabhupada.io",
+    "description":"dance; dances."
+}
+---
 
 ==== nācaye  ====
   * dance --- [[books:cc:madhya:3:156|Madhya 3.156]]

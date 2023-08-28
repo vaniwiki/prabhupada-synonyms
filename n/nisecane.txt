@@ -1,5 +1,11 @@
-~~Title:niṣecane~~
-{{description>sprinkling.}}
+---json
+{
+    "name":"niṣecane",
+    "h1":"niṣecane",
+    "title":"niṣecane --- synonyms, prabhupada.io",
+    "description":"sprinkling."
+}
+---
 
 ==== niṣecane  ====
   * sprinkling --- [[books:cc:madhya:13:16|Madhya 13.16]]

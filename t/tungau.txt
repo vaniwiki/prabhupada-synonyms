@@ -1,5 +1,11 @@
-~~Title:tuṅgau~~
-{{description>in width and height.}}
+---json
+{
+    "name":"tuṅgau",
+    "h1":"tuṅgau",
+    "title":"tuṅgau --- synonyms, prabhupada.io",
+    "description":"in width and height."
+}
+---
 
 ==== pṛthu-tuṅgau  ====
   * in width and height --- [[books:sb:5:16:27|SB 5.16.27]]

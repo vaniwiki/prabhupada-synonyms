@@ -1,5 +1,11 @@
-~~Title:aśuddha~~
-{{description>impure.}}
+---json
+{
+    "name":"aśuddha",
+    "h1":"aśuddha",
+    "title":"aśuddha --- synonyms, prabhupada.io",
+    "description":"impure."
+}
+---
 
 ==== aśuddha  ====
   * impure --- [[books:cc:adi:16:97|Ādi 16.97]]

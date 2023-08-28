@@ -1,5 +1,11 @@
-~~Title:sapālāḥ~~
-{{description>with their presiding deities.}}
+---json
+{
+    "name":"sapālāḥ",
+    "h1":"sapālāḥ",
+    "title":"sapālāḥ --- synonyms, prabhupada.io",
+    "description":"with their presiding deities."
+}
+---
 
 ==== sapālāḥ  ====
   * with their presiding deities --- [[books:sb:4:14:20|SB 4.14.20]]

@@ -1,5 +1,11 @@
-~~Title:hāsyaḥ~~
-{{description>laughter.}}
+---json
+{
+    "name":"hāsyaḥ",
+    "h1":"hāsyaḥ",
+    "title":"hāsyaḥ --- synonyms, prabhupada.io",
+    "description":"laughter."
+}
+---
 
 ==== hāsyaḥ  ====
   * laughter --- [[books:cc:madhya:19:186|Madhya 19.186]]

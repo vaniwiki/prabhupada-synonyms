@@ -1,5 +1,11 @@
-~~Title:bṛhanti~~
-{{description>observe.}}
+---json
+{
+    "name":"bṛhanti",
+    "h1":"bṛhanti",
+    "title":"bṛhanti --- synonyms, prabhupada.io",
+    "description":"observe."
+}
+---
 
 ==== bṛhanti  ====
   * observe --- [[books:sb:4:22:12|SB 4.22.12]]

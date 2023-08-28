@@ -1,5 +1,11 @@
-~~Title:jaṭilān~~
-{{description>matted.}}
+---json
+{
+    "name":"jaṭilān",
+    "h1":"jaṭilān",
+    "title":"jaṭilān --- synonyms, prabhupada.io",
+    "description":"matted."
+}
+---
 
 ==== jaṭilān  ====
   * matted --- [[books:sb:3:33:14|SB 3.33.14]]

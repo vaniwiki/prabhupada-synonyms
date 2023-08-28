@@ -1,5 +1,11 @@
-~~Title:aprakasah~~
-{{description>darkness.}}
+---json
+{
+    "name":"aprakasah",
+    "h1":"aprakasah",
+    "title":"aprakasah --- synonyms, prabhupada.io",
+    "description":"darkness."
+}
+---
 
 ==== aprakāśaḥ  ====
   * darkness --- [[books:bg:14:13|Bg. 14.13]]

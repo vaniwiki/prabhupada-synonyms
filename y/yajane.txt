@@ -1,5 +1,11 @@
-~~Title:yajane~~
-{{description>in the arena for worshiping the demigods; in the sacrifice of the demigods.}}
+---json
+{
+    "name":"yajane",
+    "h1":"yajane",
+    "title":"yajane --- synonyms, prabhupada.io",
+    "description":"in the arena for worshiping the demigods; in the sacrifice of the demigods."
+}
+---
 
 ==== deva-yajane  ====
   * in the arena for worshiping the demigods --- [[books:sb:9:16:32|SB 9.16.32]]

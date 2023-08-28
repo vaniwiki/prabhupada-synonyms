@@ -1,5 +1,11 @@
-~~Title:matsya~~
-{{description>fish; in the forms of a fish; Matsya; of the fish; the fish incarnation; the King of Dvarbhaṅga; the Matsya incarnation.}}
+---json
+{
+    "name":"matsya",
+    "h1":"matsya",
+    "title":"matsya --- synonyms, prabhupada.io",
+    "description":"fish; in the forms of a fish; Matsya; of the fish; the fish incarnation; the King of Dvarbhaṅga; the Matsya incarnation."
+}
+---
 
 ==== matsya  ====
   * fish --- [[books:cc:antya:18:48|Antya 18.48]], [[books:cc:antya:18:57|Antya 18.57]]

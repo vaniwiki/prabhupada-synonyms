@@ -1,5 +1,11 @@
-~~Title:kalayan~~
-{{description>making; performing.}}
+---json
+{
+    "name":"kalayan",
+    "h1":"kalayan",
+    "title":"kalayan --- synonyms, prabhupada.io",
+    "description":"making; performing."
+}
+---
 
 ==== kalayan  ====
   * making --- [[books:cc:adi:4:131|Ādi 4.131]]

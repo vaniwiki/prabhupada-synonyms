@@ -1,5 +1,11 @@
-~~Title:karṣi~~
-{{description>attracting.}}
+---json
+{
+    "name":"karṣi",
+    "h1":"karṣi",
+    "title":"karṣi --- synonyms, prabhupada.io",
+    "description":"attracting."
+}
+---
 
 ==== karṣi  ====
   * attracting --- [[books:cc:antya:17:40|Antya 17.40]]

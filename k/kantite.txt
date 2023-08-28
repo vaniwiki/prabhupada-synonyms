@@ -1,5 +1,11 @@
-~~Title:kāntite~~
-{{description>by that luster.}}
+---json
+{
+    "name":"kāntite",
+    "h1":"kāntite",
+    "title":"kāntite --- synonyms, prabhupada.io",
+    "description":"by that luster."
+}
+---
 
 ==== se kāntite  ====
   * by that luster --- [[books:cc:antya:19:41|Antya 19.41]]

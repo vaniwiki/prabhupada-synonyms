@@ -1,5 +1,11 @@
-~~Title:madhuḥ~~
-{{description>Madhu.}}
+---json
+{
+    "name":"madhuḥ",
+    "h1":"madhuḥ",
+    "title":"madhuḥ --- synonyms, prabhupada.io",
+    "description":"Madhu."
+}
+---
 
 ==== madhuḥ  ====
   * Madhu --- [[books:sb:5:15:14-15|SB 5.15.14-15]], [[books:sb:9:23:27|SB 9.23.27]], [[books:sb:9:24:5|SB 9.24.5]]

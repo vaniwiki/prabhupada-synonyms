@@ -1,5 +1,11 @@
-~~Title:devarṣīṇām~~
-{{description>of all the sages amongst the demigods.}}
+---json
+{
+    "name":"devarṣīṇām",
+    "h1":"devarṣīṇām",
+    "title":"devarṣīṇām --- synonyms, prabhupada.io",
+    "description":"of all the sages amongst the demigods."
+}
+---
 
 ==== devarṣīṇām  ====
   * of all the sages amongst the demigods --- [[books:bg:10:26|Bg. 10.26]]

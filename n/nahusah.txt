@@ -1,5 +1,11 @@
-~~Title:nahusah~~
-{{description>Nahuṣa.}}
+---json
+{
+    "name":"nahusah",
+    "h1":"nahusah",
+    "title":"nahusah --- synonyms, prabhupada.io",
+    "description":"Nahuṣa."
+}
+---
 
 ==== nahuṣaḥ  ====
   * Nahuṣa --- [[books:sb:6:13:16|SB 6.13.16]], [[books:sb:9:17:1-3|SB 9.17.1-3]]

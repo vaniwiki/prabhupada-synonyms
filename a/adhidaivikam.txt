@@ -1,5 +1,11 @@
-~~Title:ādhidaivikam~~
-{{description>the leader of all the demigods.}}
+---json
+{
+    "name":"ādhidaivikam",
+    "h1":"ādhidaivikam",
+    "title":"ādhidaivikam --- synonyms, prabhupada.io",
+    "description":"the leader of all the demigods."
+}
+---
 
 ==== ādhidaivikam  ====
   * the leader of all the demigods --- [[books:sb:5:23:9|SB 5.23.9]]

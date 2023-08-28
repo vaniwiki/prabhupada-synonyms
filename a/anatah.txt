@@ -1,5 +1,11 @@
-~~Title:ānataḥ~~
-{{description>offer obeisances.}}
+---json
+{
+    "name":"ānataḥ",
+    "h1":"ānataḥ",
+    "title":"ānataḥ --- synonyms, prabhupada.io",
+    "description":"offer obeisances."
+}
+---
 
 ==== ānataḥ asmi  ====
   * offer obeisances --- [[books:sb:1:2:2|SB 1.2.2]]

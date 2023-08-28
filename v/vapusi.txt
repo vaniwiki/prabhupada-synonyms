@@ -1,5 +1,11 @@
-~~Title:vapuṣi~~
-{{description>form of virāṭ.}}
+---json
+{
+    "name":"vapuṣi",
+    "h1":"vapuṣi",
+    "title":"vapuṣi --- synonyms, prabhupada.io",
+    "description":"form of virāṭ."
+}
+---
 
 ==== vapuṣi  ====
   * form of //virāṭ// --- [[books:sb:2:1:38|SB 2.1.38]]

@@ -1,5 +1,11 @@
-~~Title:avadhūtena~~
-{{description>of the liberated wandering mendicants.}}
+---json
+{
+    "name":"avadhūtena",
+    "h1":"avadhūtena",
+    "title":"avadhūtena --- synonyms, prabhupada.io",
+    "description":"of the liberated wandering mendicants."
+}
+---
 
 ==== avadhūtena  ====
   * of the liberated wandering mendicants --- [[books:sb:6:15:10|SB 6.15.10]]

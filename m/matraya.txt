@@ -1,5 +1,11 @@
-~~Title:matraya~~
-{{description>by a plenary portion.}}
+---json
+{
+    "name":"matraya",
+    "h1":"matraya",
+    "title":"matraya --- synonyms, prabhupada.io",
+    "description":"by a plenary portion."
+}
+---
 
 ==== mātrayā  ====
   * by a plenary portion --- [[books:sb:3:6:5|SB 3.6.5]]

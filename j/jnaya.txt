@@ -1,5 +1,11 @@
-~~Title:jñāya~~
-{{description>the knower of the elements.}}
+---json
+{
+    "name":"jñāya",
+    "h1":"jñāya",
+    "title":"jñāya --- synonyms, prabhupada.io",
+    "description":"the knower of the elements."
+}
+---
 
 ==== guṇa-jñāya  ====
   * the knower of the elements --- [[books:sb:8:16:30|SB 8.16.30]]

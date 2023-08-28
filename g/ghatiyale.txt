@@ -1,5 +1,11 @@
-~~Title:ghāṭiyāle~~
-{{description>tollman.}}
+---json
+{
+    "name":"ghāṭiyāle",
+    "h1":"ghāṭiyāle",
+    "title":"ghāṭiyāle --- synonyms, prabhupada.io",
+    "description":"tollman."
+}
+---
 
 ==== ghāṭiyāle  ====
   * tollman --- [[books:cc:antya:1:20|Antya 1.20]]

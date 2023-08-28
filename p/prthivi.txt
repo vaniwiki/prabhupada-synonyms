@@ -1,5 +1,11 @@
-~~Title:pṛthivī~~
-{{description>earth; of earth; of the universe; on the surface of the earth; on this earth; planet earth; planets; the earth; the whole world.}}
+---json
+{
+    "name":"pṛthivī",
+    "h1":"pṛthivī",
+    "title":"pṛthivī --- synonyms, prabhupada.io",
+    "description":"earth; of earth; of the universe; on the surface of the earth; on this earth; planet earth; planets; the earth; the whole world."
+}
+---
 
 ==== pṛthivī  ====
   * earth --- [[books:sb:1:16:36|SB 1.16.36]]

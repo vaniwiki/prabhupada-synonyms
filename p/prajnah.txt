@@ -1,5 +1,11 @@
-~~Title:prajnah~~
-{{description>learned man; one who is intelligent; the witness in the causal designation; those who are wise.}}
+---json
+{
+    "name":"prajnah",
+    "h1":"prajnah",
+    "title":"prajnah --- synonyms, prabhupada.io",
+    "description":"learned man; one who is intelligent; the witness in the causal designation; those who are wise."
+}
+---
 
 ==== prājñaḥ  ====
   * learned man --- [[books:sb:4:26:15|SB 4.26.15]]

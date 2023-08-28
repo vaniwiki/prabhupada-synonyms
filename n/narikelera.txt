@@ -1,5 +1,11 @@
-~~Title:nārikelera~~
-{{description>the incident of offering coconuts.}}
+---json
+{
+    "name":"nārikelera",
+    "h1":"nārikelera",
+    "title":"nārikelera --- synonyms, prabhupada.io",
+    "description":"the incident of offering coconuts."
+}
+---
 
 ==== nārikelera kathā  ====
   * the incident of offering coconuts --- [[books:cc:madhya:15:70|Madhya 15.70]]

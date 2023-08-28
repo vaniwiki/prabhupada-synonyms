@@ -1,5 +1,11 @@
-~~Title:likhiyāchena~~
-{{description>has written.}}
+---json
+{
+    "name":"likhiyāchena",
+    "h1":"likhiyāchena",
+    "title":"likhiyāchena --- synonyms, prabhupada.io",
+    "description":"has written."
+}
+---
 
 ==== likhiyāchena  ====
   * has written --- [[books:cc:adi:8:37|Ādi 8.37]], [[books:cc:madhya:19:133|Madhya 19.133]]

@@ -1,5 +1,11 @@
-~~Title:ananumatam~~
-{{description>not being sanctioned by law.}}
+---json
+{
+    "name":"ananumatam",
+    "h1":"ananumatam",
+    "title":"ananumatam --- synonyms, prabhupada.io",
+    "description":"not being sanctioned by law."
+}
+---
 
 ==== ananumatam  ====
   * not being sanctioned by law --- [[books:sb:5:9:17|SB 5.9.17]]

@@ -1,5 +1,11 @@
-~~Title:prakopita~~
-{{description>ignited by.}}
+---json
+{
+    "name":"prakopita",
+    "h1":"prakopita",
+    "title":"prakopita --- synonyms, prabhupada.io",
+    "description":"ignited by."
+}
+---
 
 ==== prakopita  ====
   * ignited by --- [[books:sb:1:19:3|SB 1.19.3]]

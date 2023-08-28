@@ -1,5 +1,11 @@
-~~Title:vanyaya~~
-{{description>by inundation; in the inundation.}}
+---json
+{
+    "name":"vanyaya",
+    "h1":"vanyaya",
+    "title":"vanyaya --- synonyms, prabhupada.io",
+    "description":"by inundation; in the inundation."
+}
+---
 
 ==== vanyāya  ====
   * by inundation --- [[books:cc:madhya:14:101|Madhya 14.101]]

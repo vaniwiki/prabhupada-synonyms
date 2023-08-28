@@ -1,5 +1,11 @@
-~~Title:atitaret~~
-{{description>able to get out; can surpass.}}
+---json
+{
+    "name":"atitaret",
+    "h1":"atitaret",
+    "title":"atitaret --- synonyms, prabhupada.io",
+    "description":"able to get out; can surpass."
+}
+---
 
 ==== atitaret  ====
   * able to get out --- [[books:sb:7:9:21|SB 7.9.21]]

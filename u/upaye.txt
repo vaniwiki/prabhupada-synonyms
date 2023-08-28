@@ -1,5 +1,11 @@
-~~Title:upāye~~
-{{description>this means.}}
+---json
+{
+    "name":"upāye",
+    "h1":"upāye",
+    "title":"upāye --- synonyms, prabhupada.io",
+    "description":"this means."
+}
+---
 
 ==== ei upāye  ====
   * this means --- [[books:cc:antya:17:55|Antya 17.55]]

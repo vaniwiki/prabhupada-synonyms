@@ -1,5 +1,11 @@
-~~Title:madam~~
-{{description>illusion; intoxication; vanity.}}
+---json
+{
+    "name":"madam",
+    "h1":"madam",
+    "title":"madam --- synonyms, prabhupada.io",
+    "description":"illusion; intoxication; vanity."
+}
+---
 
 ==== madam  ====
   * illusion --- [[books:bg:18:35|Bg. 18.35]]

@@ -1,5 +1,11 @@
-~~Title:umām~~
-{{description>his wife, mother Umā.}}
+---json
+{
+    "name":"umām",
+    "h1":"umām",
+    "title":"umām --- synonyms, prabhupada.io",
+    "description":"his wife, mother Umā."
+}
+---
 
 ==== umām  ====
   * his wife, mother Umā --- [[books:sb:8:12:22|SB 8.12.22]]

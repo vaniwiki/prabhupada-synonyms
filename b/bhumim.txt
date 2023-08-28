@@ -1,5 +1,11 @@
-~~Title:bhūmim~~
-{{description>ground; such land; the background; the ground.}}
+---json
+{
+    "name":"bhūmim",
+    "h1":"bhūmim",
+    "title":"bhūmim --- synonyms, prabhupada.io",
+    "description":"ground; such land; the background; the ground."
+}
+---
 
 ==== bhūmim  ====
   * ground --- [[books:sb:8:2:4|SB 8.2.4]]

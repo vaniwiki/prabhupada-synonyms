@@ -1,5 +1,11 @@
-~~Title:miśraiḥ~~
-{{description>by the priests, headed by Marīci.}}
+---json
+{
+    "name":"miśraiḥ",
+    "h1":"miśraiḥ",
+    "title":"miśraiḥ --- synonyms, prabhupada.io",
+    "description":"by the priests, headed by Marīci."
+}
+---
 
 ==== marīci-miśraiḥ  ====
   * by the priests, headed by Marīci --- [[books:sb:6:13:21|SB 6.13.21]]

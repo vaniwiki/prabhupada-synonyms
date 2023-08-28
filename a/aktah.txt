@@ -1,5 +1,11 @@
-~~Title:aktaḥ~~
-{{description>associated with the modes of nature.}}
+---json
+{
+    "name":"aktaḥ",
+    "h1":"aktaḥ",
+    "title":"aktaḥ --- synonyms, prabhupada.io",
+    "description":"associated with the modes of nature."
+}
+---
 
 ==== guṇa-aktaḥ  ====
   * associated with the modes of nature --- [[books:sb:4:29:17|SB 4.29.17]]

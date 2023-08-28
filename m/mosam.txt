@@ -1,5 +1,11 @@
-~~Title:moṣam~~
-{{description>which covers the constitutional position of the living entity.}}
+---json
+{
+    "name":"moṣam",
+    "h1":"moṣam",
+    "title":"moṣam --- synonyms, prabhupada.io",
+    "description":"which covers the constitutional position of the living entity."
+}
+---
 
 ==== ātma-moṣam  ====
   * which covers the constitutional position of the living entity --- [[books:sb:5:11:17|SB 5.11.17]]

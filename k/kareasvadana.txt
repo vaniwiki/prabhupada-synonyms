@@ -1,5 +1,11 @@
-~~Title:kareāsvādana~~
-{{description>taste.}}
+---json
+{
+    "name":"kareāsvādana",
+    "h1":"kareāsvādana",
+    "title":"kareāsvādana --- synonyms, prabhupada.io",
+    "description":"taste."
+}
+---
 
 ==== kareāsvādana  ====
   * taste --- [[books:cc:adi:7:20-21|Ādi 7.20-21]]

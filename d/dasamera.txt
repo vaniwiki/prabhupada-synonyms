@@ -1,5 +1,11 @@
-~~Title:daśamera~~
-{{description>of the Tenth Canto.}}
+---json
+{
+    "name":"daśamera",
+    "h1":"daśamera",
+    "title":"daśamera --- synonyms, prabhupada.io",
+    "description":"of the Tenth Canto."
+}
+---
 
 ==== daśamera  ====
   * of the Tenth Canto --- [[books:cc:antya:19:108|Antya 19.108]]

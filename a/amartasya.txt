@@ -1,5 +1,11 @@
-~~Title:amartasya~~
-{{description>of one who does not die.}}
+---json
+{
+    "name":"amartasya",
+    "h1":"amartasya",
+    "title":"amartasya --- synonyms, prabhupada.io",
+    "description":"of one who does not die."
+}
+---
 
 ==== amartasya  ====
   * of one who does not die --- [[books:sb:7:3:21|SB 7.3.21]]

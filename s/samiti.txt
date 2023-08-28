@@ -1,5 +1,11 @@
-~~Title:samiti~~
-{{description>all very powerful.}}
+---json
+{
+    "name":"samiti",
+    "h1":"samiti",
+    "title":"samiti --- synonyms, prabhupada.io",
+    "description":"all very powerful."
+}
+---
 
 ==== samiti-śālinaḥ  ====
   * all very powerful --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

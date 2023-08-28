@@ -1,5 +1,11 @@
-~~Title:ramaṇaka~~
-{{description>Ramaṇaka.}}
+---json
+{
+    "name":"ramaṇaka",
+    "h1":"ramaṇaka",
+    "title":"ramaṇaka --- synonyms, prabhupada.io",
+    "description":"Ramaṇaka."
+}
+---
 
 ==== ramaṇaka  ====
   * Ramaṇaka --- [[books:sb:5:20:31|SB 5.20.31]]

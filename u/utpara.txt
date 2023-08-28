@@ -1,5 +1,11 @@
-~~Title:utpāra~~
-{{description>found the limitation of the unlimited.}}
+---json
+{
+    "name":"utpāra",
+    "h1":"utpāra",
+    "title":"utpāra --- synonyms, prabhupada.io",
+    "description":"found the limitation of the unlimited."
+}
+---
 
 ==== utpāra-pāram  ====
   * found the limitation of the unlimited --- [[books:sb:3:13:30|SB 3.13.30]]

@@ -1,5 +1,11 @@
-~~Title:amṛtaiḥ~~
-{{description>by nectar.}}
+---json
+{
+    "name":"amṛtaiḥ",
+    "h1":"amṛtaiḥ",
+    "title":"amṛtaiḥ --- synonyms, prabhupada.io",
+    "description":"by nectar."
+}
+---
 
 ==== amṛtaiḥ  ====
   * by nectar --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

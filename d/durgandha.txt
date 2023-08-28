@@ -1,5 +1,11 @@
-~~Title:durgandha~~
-{{description>having a bad smell.}}
+---json
+{
+    "name":"durgandha",
+    "h1":"durgandha",
+    "title":"durgandha --- synonyms, prabhupada.io",
+    "description":"having a bad smell."
+}
+---
 
 ==== durgandha  ====
   * having a bad smell --- [[books:cc:antya:4:197|Antya 4.197]]

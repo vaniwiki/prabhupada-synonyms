@@ -1,5 +1,11 @@
-~~Title:ākhyau~~
-{{description>known as Madhu and Kaiṭabha.}}
+---json
+{
+    "name":"ākhyau",
+    "h1":"ākhyau",
+    "title":"ākhyau --- synonyms, prabhupada.io",
+    "description":"known as Madhu and Kaiṭabha."
+}
+---
 
 ==== madhu-kaiṭabha-ākhyau  ====
   * known as Madhu and Kaiṭabha --- [[books:sb:7:9:37|SB 7.9.37]]

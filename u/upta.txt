@@ -1,5 +1,11 @@
-~~Title:upta~~
-{{description>surrendered souls.}}
+---json
+{
+    "name":"upta",
+    "h1":"upta",
+    "title":"upta --- synonyms, prabhupada.io",
+    "description":"surrendered souls."
+}
+---
 
 ==== upta-ātmanaḥ  ====
   * surrendered souls --- [[books:sb:3:2:10|SB 3.2.10]]

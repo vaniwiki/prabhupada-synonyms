@@ -1,5 +1,11 @@
-~~Title:paripānti~~
-{{description>able to protect.}}
+---json
+{
+    "name":"paripānti",
+    "h1":"paripānti",
+    "title":"paripānti --- synonyms, prabhupada.io",
+    "description":"able to protect."
+}
+---
 
 ==== paripānti  ====
   * able to protect --- [[books:sb:5:18:19|SB 5.18.19]]

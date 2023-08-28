@@ -1,5 +1,11 @@
-~~Title:pratāraṇā~~
-{{description>external formality.}}
+---json
+{
+    "name":"pratāraṇā",
+    "h1":"pratāraṇā",
+    "title":"pratāraṇā --- synonyms, prabhupada.io",
+    "description":"external formality."
+}
+---
 
 ==== bāhya pratāraṇā  ====
   * external formality --- [[books:cc:antya:4:181|Antya 4.181]]

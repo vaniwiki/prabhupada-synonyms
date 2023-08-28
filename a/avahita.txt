@@ -1,5 +1,11 @@
-~~Title:avahita~~
-{{description>completely restrained.}}
+---json
+{
+    "name":"avahita",
+    "h1":"avahita",
+    "title":"avahita --- synonyms, prabhupada.io",
+    "description":"completely restrained."
+}
+---
 
 ==== avahita  ====
   * completely restrained --- [[books:sb:5:8:22|SB 5.8.22]]

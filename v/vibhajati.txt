@@ -1,5 +1,11 @@
-~~Title:vibhajati~~
-{{description>divides their portion.}}
+---json
+{
+    "name":"vibhajati",
+    "h1":"vibhajati",
+    "title":"vibhajati --- synonyms, prabhupada.io",
+    "description":"divides their portion."
+}
+---
 
 ==== vibhajati  ====
   * divides their portion --- [[books:sb:10:8:29|SB 10.8.29]]

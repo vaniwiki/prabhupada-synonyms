@@ -1,5 +1,11 @@
-~~Title:grāmyaiḥ~~
-{{description>material.}}
+---json
+{
+    "name":"grāmyaiḥ",
+    "h1":"grāmyaiḥ",
+    "title":"grāmyaiḥ --- synonyms, prabhupada.io",
+    "description":"material."
+}
+---
 
 ==== grāmyaiḥ  ====
   * material --- [[books:sb:6:1:64|SB 6.1.64]]

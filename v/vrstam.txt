@@ -1,5 +1,11 @@
-~~Title:vṛṣṭam~~
-{{description>fallen as rain by the mercy of King Indra.}}
+---json
+{
+    "name":"vṛṣṭam",
+    "h1":"vṛṣṭam",
+    "title":"vṛṣṭam --- synonyms, prabhupada.io",
+    "description":"fallen as rain by the mercy of King Indra."
+}
+---
 
 ==== deva-vṛṣṭam  ====
   * fallen as rain by the mercy of King Indra --- [[books:sb:4:18:11|SB 4.18.11]]

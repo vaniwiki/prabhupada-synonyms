@@ -1,5 +1,11 @@
-~~Title:matsyam~~
-{{description>the fish.}}
+---json
+{
+    "name":"matsyam",
+    "h1":"matsyam",
+    "title":"matsyam --- synonyms, prabhupada.io",
+    "description":"the fish."
+}
+---
 
 ==== matsyam  ====
   * the fish --- [[books:sb:8:24:23|SB 8.24.23]]

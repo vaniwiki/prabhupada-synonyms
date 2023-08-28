@@ -1,5 +1,11 @@
-~~Title:raji~~
-{{description>Rajī.}}
+---json
+{
+    "name":"raji",
+    "h1":"raji",
+    "title":"raji --- synonyms, prabhupada.io",
+    "description":"Rajī."
+}
+---
 
 ==== rajī  ====
   * Rajī --- [[books:sb:9:17:1-3|SB 9.17.1-3]]

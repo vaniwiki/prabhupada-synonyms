@@ -1,5 +1,11 @@
-~~Title:saralaiḥ~~
-{{description>sarala trees; with saralas.}}
+---json
+{
+    "name":"saralaiḥ",
+    "h1":"saralaiḥ",
+    "title":"saralaiḥ --- synonyms, prabhupada.io",
+    "description":"sarala trees; with saralas."
+}
+---
 
 ==== saralaiḥ  ====
   * //sarala// trees --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

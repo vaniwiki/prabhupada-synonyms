@@ -1,5 +1,11 @@
-~~Title:pākam~~
-{{description>the result of his impious activities.}}
+---json
+{
+    "name":"pākam",
+    "h1":"pākam",
+    "title":"pākam --- synonyms, prabhupada.io",
+    "description":"the result of his impious activities."
+}
+---
 
 ==== karma-pākam  ====
   * the result of his impious activities --- [[books:sb:5:26:22|SB 5.26.22]]

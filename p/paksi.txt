@@ -1,5 +1,11 @@
-~~Title:paksi~~
-{{description>birds; of birds; of the birds.}}
+---json
+{
+    "name":"paksi",
+    "h1":"paksi",
+    "title":"paksi --- synonyms, prabhupada.io",
+    "description":"birds; of birds; of the birds."
+}
+---
 
 ==== pakṣi  ====
   * birds --- [[books:sb:5:26:17|SB 5.26.17]]

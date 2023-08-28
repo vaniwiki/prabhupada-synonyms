@@ -1,5 +1,11 @@
-~~Title:vidyutaḥ~~
-{{description>shining like lightning.}}
+---json
+{
+    "name":"vidyutaḥ",
+    "h1":"vidyutaḥ",
+    "title":"vidyutaḥ --- synonyms, prabhupada.io",
+    "description":"shining like lightning."
+}
+---
 
 ==== vidyutaḥ  ====
   * shining like lightning --- [[books:sb:9:14:31|SB 9.14.31]]

@@ -1,5 +1,11 @@
-~~Title:saṁstavane~~
-{{description>in offering prayers.}}
+---json
+{
+    "name":"saṁstavane",
+    "h1":"saṁstavane",
+    "title":"saṁstavane --- synonyms, prabhupada.io",
+    "description":"in offering prayers."
+}
+---
 
 ==== saṁstavane  ====
   * in offering prayers --- [[books:sb:8:7:34|SB 8.7.34]]

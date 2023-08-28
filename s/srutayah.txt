@@ -1,5 +1,11 @@
-~~Title:srutayah~~
-{{description>Vedas; great personalities who understand the Vedas.}}
+---json
+{
+    "name":"srutayah",
+    "h1":"srutayah",
+    "title":"srutayah --- synonyms, prabhupada.io",
+    "description":"Vedas; great personalities who understand the Vedas."
+}
+---
 
 ==== śrutayaḥ  ====
   * //Vedas// --- [[books:cc:madhya:17:186|Madhya 17.186]], [[books:cc:madhya:25:57|Madhya 25.57]]

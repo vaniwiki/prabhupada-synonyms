@@ -1,5 +1,11 @@
-~~Title:piṇyāka~~
-{{description>oil cakes.}}
+---json
+{
+    "name":"piṇyāka",
+    "h1":"piṇyāka",
+    "title":"piṇyāka --- synonyms, prabhupada.io",
+    "description":"oil cakes."
+}
+---
 
 ==== piṇyāka  ====
   * oil cakes --- [[books:sb:5:9:11|SB 5.9.11]]

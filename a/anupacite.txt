@@ -1,5 +1,11 @@
-~~Title:anupacite~~
-{{description>not proceeded.}}
+---json
+{
+    "name":"anupacite",
+    "h1":"anupacite",
+    "title":"anupacite --- synonyms, prabhupada.io",
+    "description":"not proceeded."
+}
+---
 
 ==== anupacite  ====
   * not proceeded --- [[books:sb:3:20:47|SB 3.20.47]]

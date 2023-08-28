@@ -1,5 +1,11 @@
-~~Title:namra~~
-{{description>bowed; submissive.}}
+---json
+{
+    "name":"namra",
+    "h1":"namra",
+    "title":"namra --- synonyms, prabhupada.io",
+    "description":"bowed; submissive."
+}
+---
 
 ==== namra  ====
   * bowed --- [[books:sb:4:12:22|SB 4.12.22]]

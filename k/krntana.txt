@@ -1,5 +1,11 @@
-~~Title:kṛntana~~
-{{description>O mischief-monger who have mercilessly separated my sons from me.}}
+---json
+{
+    "name":"kṛntana",
+    "h1":"kṛntana",
+    "title":"kṛntana --- synonyms, prabhupada.io",
+    "description":"O mischief-monger who have mercilessly separated my sons from me."
+}
+---
 
 ==== tantu-kṛntana  ====
   * O mischief-monger who have mercilessly separated my sons from me --- [[books:sb:6:5:43|SB 6.5.43]]

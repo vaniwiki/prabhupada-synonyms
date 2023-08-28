@@ -1,5 +1,11 @@
-~~Title:vāhanam~~
-{{description>with his carrier, the elephant.}}
+---json
+{
+    "name":"vāhanam",
+    "h1":"vāhanam",
+    "title":"vāhanam --- synonyms, prabhupada.io",
+    "description":"with his carrier, the elephant."
+}
+---
 
 ==== saha-vāhanam  ====
   * with his carrier, the elephant --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

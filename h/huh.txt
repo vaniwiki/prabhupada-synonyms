@@ -1,5 +1,11 @@
-~~Title:hūḥ~~
-{{description>Devahū.}}
+---json
+{
+    "name":"hūḥ",
+    "h1":"hūḥ",
+    "title":"hūḥ --- synonyms, prabhupada.io",
+    "description":"Devahū."
+}
+---
 
 ==== deva-hūḥ  ====
   * Devahū --- [[books:sb:4:29:12|SB 4.29.12]]

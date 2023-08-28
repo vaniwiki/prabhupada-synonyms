@@ -1,5 +1,11 @@
-~~Title:talam~~
-{{description>the surface of the earth.}}
+---json
+{
+    "name":"talam",
+    "h1":"talam",
+    "title":"talam --- synonyms, prabhupada.io",
+    "description":"the surface of the earth."
+}
+---
 
 ==== bhū-talam  ====
   * the surface of the earth --- [[books:sb:9:9:4|SB 9.9.4]]

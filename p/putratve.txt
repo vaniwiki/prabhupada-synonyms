@@ -1,5 +1,11 @@
-~~Title:putratve~~
-{{description>a son's being born; as the son.}}
+---json
+{
+    "name":"putratve",
+    "h1":"putratve",
+    "title":"putratve --- synonyms, prabhupada.io",
+    "description":"a son's being born; as the son."
+}
+---
 
 ==== putratve  ====
   * a son's being born --- [[books:sb:9:14:46|SB 9.14.46]]

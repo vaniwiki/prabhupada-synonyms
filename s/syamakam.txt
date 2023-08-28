@@ -1,5 +1,11 @@
-~~Title:śyāmakam~~
-{{description>Śyāmaka.}}
+---json
+{
+    "name":"śyāmakam",
+    "h1":"śyāmakam",
+    "title":"śyāmakam --- synonyms, prabhupada.io",
+    "description":"Śyāmaka."
+}
+---
 
 ==== śyāmakam  ====
   * Śyāmaka --- [[books:sb:9:24:28-31|SB 9.24.28-31]]

@@ -1,5 +1,11 @@
-~~Title:aṅkitaiḥ~~
-{{description>which indicated the glorious activities of the Lord.}}
+---json
+{
+    "name":"aṅkitaiḥ",
+    "h1":"aṅkitaiḥ",
+    "title":"aṅkitaiḥ --- synonyms, prabhupada.io",
+    "description":"which indicated the glorious activities of the Lord."
+}
+---
 
 ==== tat-vīrya-mahimā-aṅkitaiḥ  ====
   * which indicated the glorious activities of the Lord --- [[books:sb:8:21:6-7|SB 8.21.6-7]]

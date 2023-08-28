@@ -1,5 +1,11 @@
-~~Title:āvavre~~
-{{description>covered.}}
+---json
+{
+    "name":"āvavre",
+    "h1":"āvavre",
+    "title":"āvavre --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== āvavre  ====
   * covered --- [[books:cc:adi:4:52|Ādi 4.52]], [[books:cc:adi:4:275|Ādi 4.275]]

@@ -1,5 +1,11 @@
-~~Title:patana~~
-{{description>fall down; falling down.}}
+---json
+{
+    "name":"patana",
+    "h1":"patana",
+    "title":"patana --- synonyms, prabhupada.io",
+    "description":"fall down; falling down."
+}
+---
 
 ==== patana  ====
   * fall down --- [[books:cc:adi:17:52|Ādi 17.52]]

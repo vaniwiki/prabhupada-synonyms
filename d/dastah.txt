@@ -1,5 +1,11 @@
-~~Title:daṣṭaḥ~~
-{{description>being bitten.}}
+---json
+{
+    "name":"daṣṭaḥ",
+    "h1":"daṣṭaḥ",
+    "title":"daṣṭaḥ --- synonyms, prabhupada.io",
+    "description":"being bitten."
+}
+---
 
 ==== daṣṭaḥ  ====
   * being bitten --- [[books:sb:5:13:9|SB 5.13.9]]

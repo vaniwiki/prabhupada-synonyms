@@ -1,5 +1,11 @@
-~~Title:parikhāḥ~~
-{{description>trenches.}}
+---json
+{
+    "name":"parikhāḥ",
+    "h1":"parikhāḥ",
+    "title":"parikhāḥ --- synonyms, prabhupada.io",
+    "description":"trenches."
+}
+---
 
 ==== parikhāḥ  ====
   * trenches --- [[books:sb:5:1:33|SB 5.1.33]]

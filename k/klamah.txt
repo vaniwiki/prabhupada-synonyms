@@ -1,5 +1,11 @@
-~~Title:klamah~~
-{{description>distress; fatigue.}}
+---json
+{
+    "name":"klamah",
+    "h1":"klamah",
+    "title":"klamah --- synonyms, prabhupada.io",
+    "description":"distress; fatigue."
+}
+---
 
 ==== klamaḥ  ====
   * distress --- [[books:sb:9:21:13|SB 9.21.13]]

@@ -1,5 +1,11 @@
-~~Title:īśire~~
-{{description>rules; were able; were unable to proceed.}}
+---json
+{
+    "name":"īśire",
+    "h1":"īśire",
+    "title":"īśire --- synonyms, prabhupada.io",
+    "description":"rules; were able; were unable to proceed."
+}
+---
 
 ==== īśire  ====
   * rules --- [[books:sb:2:2:17|SB 2.2.17]]

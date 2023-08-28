@@ -1,5 +1,11 @@
-~~Title:ahanat~~
-{{description>attacked; attempted to attack, kill; he saved himself; killed; Rāvaṇa struck him; struck.}}
+---json
+{
+    "name":"ahanat",
+    "h1":"ahanat",
+    "title":"ahanat --- synonyms, prabhupada.io",
+    "description":"attacked; attempted to attack, kill; he saved himself; killed; Rāvaṇa struck him; struck."
+}
+---
 
 ==== ahanat  ====
   * attacked --- [[books:sb:8:11:10|SB 8.11.10]]

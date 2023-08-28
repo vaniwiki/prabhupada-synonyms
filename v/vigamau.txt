@@ -1,5 +1,11 @@
-~~Title:vigamau~~
-{{description>disunion.}}
+---json
+{
+    "name":"vigamau",
+    "h1":"vigamau",
+    "title":"vigamau --- synonyms, prabhupada.io",
+    "description":"disunion."
+}
+---
 
 ==== vigamau  ====
   * disunion --- [[books:sb:1:13:43|SB 1.13.43]]

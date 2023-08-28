@@ -1,5 +1,11 @@
-~~Title:duranvayaḥ~~
-{{description>very difficult.}}
+---json
+{
+    "name":"duranvayaḥ",
+    "h1":"duranvayaḥ",
+    "title":"duranvayaḥ --- synonyms, prabhupada.io",
+    "description":"very difficult."
+}
+---
 
 ==== duranvayaḥ  ====
   * very difficult --- [[books:sb:7:6:29-30|SB 7.6.29-30]]

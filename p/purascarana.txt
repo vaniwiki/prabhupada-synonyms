@@ -1,5 +1,11 @@
-~~Title:puraścaraṇa~~
-{{description>religious ceremonies.}}
+---json
+{
+    "name":"puraścaraṇa",
+    "h1":"puraścaraṇa",
+    "title":"puraścaraṇa --- synonyms, prabhupada.io",
+    "description":"religious ceremonies."
+}
+---
 
 ==== puraścaraṇa  ====
   * religious ceremonies --- [[books:cc:madhya:19:5|Madhya 19.5]]

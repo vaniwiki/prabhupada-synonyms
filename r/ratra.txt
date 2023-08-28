@@ -1,5 +1,11 @@
-~~Title:rātra~~
-{{description>of passing a night.}}
+---json
+{
+    "name":"rātra",
+    "h1":"rātra",
+    "title":"rātra --- synonyms, prabhupada.io",
+    "description":"of passing a night."
+}
+---
 
 ==== rātra  ====
   * of passing a night --- [[books:sb:7:13:1|SB 7.13.1]]

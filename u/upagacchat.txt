@@ -1,5 +1,11 @@
-~~Title:upāgacchat~~
-{{description>came.}}
+---json
+{
+    "name":"upāgacchat",
+    "h1":"upāgacchat",
+    "title":"upāgacchat --- synonyms, prabhupada.io",
+    "description":"came."
+}
+---
 
 ==== upāgacchat  ====
   * came --- [[books:sb:6:14:14|SB 6.14.14]]

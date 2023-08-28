@@ -1,5 +1,11 @@
-~~Title:āvriyate~~
-{{description>covered.}}
+---json
+{
+    "name":"āvriyate",
+    "h1":"āvriyate",
+    "title":"āvriyate --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== āvriyate  ====
   * covered --- [[books:bg:3:38|Bg. 3.38]]

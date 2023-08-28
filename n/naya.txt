@@ -1,5 +1,11 @@
-~~Title:naya~~
-{{description>are not; certainly is not; is not; is not possible; just carry; kindly lead; logic; not; then I shall not; they are not.}}
+---json
+{
+    "name":"naya",
+    "h1":"naya",
+    "title":"naya --- synonyms, prabhupada.io",
+    "description":"are not; certainly is not; is not; is not possible; just carry; kindly lead; logic; not; then I shall not; they are not."
+}
+---
 
 ==== naya  ====
   * are not --- [[books:cc:antya:3:178|Antya 3.178]]

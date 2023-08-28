@@ -1,5 +1,11 @@
-~~Title:akarsi~~
-{{description>attracting.}}
+---json
+{
+    "name":"akarsi",
+    "h1":"akarsi",
+    "title":"akarsi --- synonyms, prabhupada.io",
+    "description":"attracting."
+}
+---
 
 ==== ākarṣī  ====
   * attracting --- [[books:cc:madhya:23:79-81|Madhya 23.79-81]]

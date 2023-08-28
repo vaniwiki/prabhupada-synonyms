@@ -1,5 +1,11 @@
-~~Title:kardamasya~~
-{{description>Kardama Muni; of Kardama Muni.}}
+---json
+{
+    "name":"kardamasya",
+    "h1":"kardamasya",
+    "title":"kardamasya --- synonyms, prabhupada.io",
+    "description":"Kardama Muni; of Kardama Muni."
+}
+---
 
 ==== kardamasya  ====
   * Kardama Muni --- [[books:sb:3:33:15|SB 3.33.15]]

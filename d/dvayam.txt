@@ -1,5 +1,11 @@
-~~Title:dvayam~~
-{{description>both; both actions (killing the demon and saving the boys); both of them; both the weapons; the pair; two.}}
+---json
+{
+    "name":"dvayam",
+    "h1":"dvayam",
+    "title":"dvayam --- synonyms, prabhupada.io",
+    "description":"both; both actions (killing the demon and saving the boys); both of them; both the weapons; the pair; two."
+}
+---
 
 ==== dvayam  ====
   * both --- [[books:sb:1:15:34|SB 1.15.34]], [[books:sb:4:29:34|SB 4.29.34]]

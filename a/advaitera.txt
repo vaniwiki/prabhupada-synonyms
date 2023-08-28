@@ -1,5 +1,11 @@
-~~Title:advaitera~~
-{{description>of Advaita Ācārya.}}
+---json
+{
+    "name":"advaitera",
+    "h1":"advaitera",
+    "title":"advaitera --- synonyms, prabhupada.io",
+    "description":"of Advaita Ācārya."
+}
+---
 
 ==== advaitera  ====
   * of Advaita Ācārya --- [[books:cc:adi:12:56|Ādi 12.56]], [[books:cc:madhya:1:261|Madhya 1.261]]

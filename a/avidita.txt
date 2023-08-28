@@ -1,5 +1,11 @@
-~~Title:avidita~~
-{{description>without knowing the actual fact.}}
+---json
+{
+    "name":"avidita",
+    "h1":"avidita",
+    "title":"avidita --- synonyms, prabhupada.io",
+    "description":"without knowing the actual fact."
+}
+---
 
 ==== avidita-tattva  ====
   * without knowing the actual fact --- [[books:sb:4:7:15|SB 4.7.15]]

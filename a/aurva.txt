@@ -1,5 +1,11 @@
-~~Title:aurva~~
-{{description>being very powerful.}}
+---json
+{
+    "name":"aurva",
+    "h1":"aurva",
+    "title":"aurva --- synonyms, prabhupada.io",
+    "description":"being very powerful."
+}
+---
 
 ==== aurva-tejaḥ  ====
   * being very powerful --- [[books:sb:9:23:28|SB 9.23.28]]

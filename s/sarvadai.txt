@@ -1,5 +1,11 @@
-~~Title:sarvadāi~~
-{{description>always.}}
+---json
+{
+    "name":"sarvadāi",
+    "h1":"sarvadāi",
+    "title":"sarvadāi --- synonyms, prabhupada.io",
+    "description":"always."
+}
+---
 
 ==== sarvadāi  ====
   * always --- [[books:cc:antya:6:25|Antya 6.25]]

@@ -1,5 +1,11 @@
-~~Title:rajāṁsi~~
-{{description>atoms; particles; particles of dust; the atoms.}}
+---json
+{
+    "name":"rajāṁsi",
+    "h1":"rajāṁsi",
+    "title":"rajāṁsi --- synonyms, prabhupada.io",
+    "description":"atoms; particles; particles of dust; the atoms."
+}
+---
 
 ==== rajāṁsi  ====
   * atoms --- [[books:cc:madhya:21:15|Madhya 21.15]]

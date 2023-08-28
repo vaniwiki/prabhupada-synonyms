@@ -1,5 +1,11 @@
-~~Title:jānibāra~~
-{{description>to understand.}}
+---json
+{
+    "name":"jānibāra",
+    "h1":"jānibāra",
+    "title":"jānibāra --- synonyms, prabhupada.io",
+    "description":"to understand."
+}
+---
 
 ==== jānibāra tare  ====
   * to understand --- [[books:cc:madhya:15:155|Madhya 15.155]]

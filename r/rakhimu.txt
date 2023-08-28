@@ -1,5 +1,11 @@
-~~Title:rākhimu~~
-{{description>I shall keep.}}
+---json
+{
+    "name":"rākhimu",
+    "h1":"rākhimu",
+    "title":"rākhimu --- synonyms, prabhupada.io",
+    "description":"I shall keep."
+}
+---
 
 ==== rākhimu  ====
   * I shall keep --- [[books:cc:antya:12:147|Antya 12.147]]

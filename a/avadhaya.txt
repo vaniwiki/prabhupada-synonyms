@@ -1,5 +1,11 @@
-~~Title:avadhāya~~
-{{description>meditation.}}
+---json
+{
+    "name":"avadhāya",
+    "h1":"avadhāya",
+    "title":"avadhāya --- synonyms, prabhupada.io",
+    "description":"meditation."
+}
+---
 
 ==== avadhāya  ====
   * meditation --- [[books:sb:3:5:42|SB 3.5.42]]

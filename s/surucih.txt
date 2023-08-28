@@ -1,5 +1,11 @@
-~~Title:suruciḥ~~
-{{description>Queen Suruci; Suruci.}}
+---json
+{
+    "name":"suruciḥ",
+    "h1":"suruciḥ",
+    "title":"suruciḥ --- synonyms, prabhupada.io",
+    "description":"Queen Suruci; Suruci."
+}
+---
 
 ==== suruciḥ  ====
   * Queen Suruci --- [[books:sb:4:8:10|SB 4.8.10]], [[books:sb:4:9:41|SB 4.9.41]], [[books:sb:4:9:46|SB 4.9.46]]

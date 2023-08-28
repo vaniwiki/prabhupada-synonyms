@@ -1,5 +1,11 @@
-~~Title:māgaye~~
-{{description>if anyone asks anything from the tree.}}
+---json
+{
+    "name":"māgaye",
+    "h1":"māgaye",
+    "title":"māgaye --- synonyms, prabhupada.io",
+    "description":"if anyone asks anything from the tree."
+}
+---
 
 ==== yei ye māgaye  ====
   * if anyone asks anything from the tree --- [[books:cc:antya:20:24|Antya 20.24]]

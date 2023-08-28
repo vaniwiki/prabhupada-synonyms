@@ -1,5 +1,11 @@
-~~Title:purohitaiḥ~~
-{{description>accompanied by all the priests.}}
+---json
+{
+    "name":"purohitaiḥ",
+    "h1":"purohitaiḥ",
+    "title":"purohitaiḥ --- synonyms, prabhupada.io",
+    "description":"accompanied by all the priests."
+}
+---
 
 ==== purohitaiḥ  ====
   * accompanied by all the priests --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

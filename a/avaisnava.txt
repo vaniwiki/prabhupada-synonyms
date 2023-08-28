@@ -1,5 +1,11 @@
-~~Title:avaiṣṇava~~
-{{description>full of nondevotees; nondevotee; of one who is not a devotee of the Lord.}}
+---json
+{
+    "name":"avaiṣṇava",
+    "h1":"avaiṣṇava",
+    "title":"avaiṣṇava --- synonyms, prabhupada.io",
+    "description":"full of nondevotees; nondevotee; of one who is not a devotee of the Lord."
+}
+---
 
 ==== avaiṣṇava  ====
   * full of nondevotees --- [[books:cc:antya:3:223|Antya 3.223]]

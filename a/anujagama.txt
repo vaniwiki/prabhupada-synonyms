@@ -1,5 +1,11 @@
-~~Title:anujagāma~~
-{{description>followed.}}
+---json
+{
+    "name":"anujagāma",
+    "h1":"anujagāma",
+    "title":"anujagāma --- synonyms, prabhupada.io",
+    "description":"followed."
+}
+---
 
 ==== anujagāma  ====
   * followed --- [[books:sb:1:13:30|SB 1.13.30]]

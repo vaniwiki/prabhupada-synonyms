@@ -1,5 +1,11 @@
-~~Title:taḍitā~~
-{{description>with lightning.}}
+---json
+{
+    "name":"taḍitā",
+    "h1":"taḍitā",
+    "title":"taḍitā --- synonyms, prabhupada.io",
+    "description":"with lightning."
+}
+---
 
 ==== taḍitā  ====
   * with lightning --- [[books:sb:4:10:23|SB 4.10.23]]

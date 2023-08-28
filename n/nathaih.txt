@@ -1,5 +1,11 @@
-~~Title:nāthaiḥ~~
-{{description>by the company of Bhavānī.}}
+---json
+{
+    "name":"nāthaiḥ",
+    "h1":"nāthaiḥ",
+    "title":"nāthaiḥ --- synonyms, prabhupada.io",
+    "description":"by the company of Bhavānī."
+}
+---
 
 ==== bhavānī-nāthaiḥ  ====
   * by the company of Bhavānī --- [[books:sb:5:17:16|SB 5.17.16]]

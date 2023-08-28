@@ -1,5 +1,11 @@
-~~Title:ra~~
-{{description>reside.}}
+---json
+{
+    "name":"ra",
+    "h1":"ra",
+    "title":"ra --- synonyms, prabhupada.io",
+    "description":"reside."
+}
+---
 
 ==== ra-i  ====
   * reside --- [[books:cc:madhya:4:36|Madhya 4.36]]

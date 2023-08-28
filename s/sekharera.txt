@@ -1,5 +1,11 @@
-~~Title:śekharera~~
-{{description>of Candraśekhara.}}
+---json
+{
+    "name":"śekharera",
+    "h1":"śekharera",
+    "title":"śekharera --- synonyms, prabhupada.io",
+    "description":"of Candraśekhara."
+}
+---
 
 ==== śekharera  ====
   * of Candraśekhara --- [[books:cc:antya:13:102|Antya 13.102]]

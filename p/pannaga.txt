@@ -1,5 +1,11 @@
-~~Title:pannaga~~
-{{description>by the serpent.}}
+---json
+{
+    "name":"pannaga",
+    "h1":"pannaga",
+    "title":"pannaga --- synonyms, prabhupada.io",
+    "description":"by the serpent."
+}
+---
 
 ==== pannaga  ====
   * by the serpent --- [[books:sb:4:28:2|SB 4.28.2]]

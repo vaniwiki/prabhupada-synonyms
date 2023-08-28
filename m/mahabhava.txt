@@ -1,5 +1,11 @@
-~~Title:mahābhāva~~
-{{description>highly advanced ecstasy.}}
+---json
+{
+    "name":"mahābhāva",
+    "h1":"mahābhāva",
+    "title":"mahābhāva --- synonyms, prabhupada.io",
+    "description":"highly advanced ecstasy."
+}
+---
 
 ==== adhirūḍha-mahābhāva  ====
   * highly advanced ecstasy --- [[books:cc:madhya:23:58|Madhya 23.58]]

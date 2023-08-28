@@ -1,5 +1,11 @@
-~~Title:rauravaḥ~~
-{{description>Raurava.}}
+---json
+{
+    "name":"rauravaḥ",
+    "h1":"rauravaḥ",
+    "title":"rauravaḥ --- synonyms, prabhupada.io",
+    "description":"Raurava."
+}
+---
 
 ==== rauravaḥ  ====
   * Raurava --- [[books:sb:5:26:7|SB 5.26.7]]

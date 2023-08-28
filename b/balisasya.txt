@@ -1,5 +1,11 @@
-~~Title:bāliśasya~~
-{{description>a fool.}}
+---json
+{
+    "name":"bāliśasya",
+    "h1":"bāliśasya",
+    "title":"bāliśasya --- synonyms, prabhupada.io",
+    "description":"a fool."
+}
+---
 
 ==== bāliśasya  ====
   * a fool --- [[books:sb:6:18:76|SB 6.18.76]]

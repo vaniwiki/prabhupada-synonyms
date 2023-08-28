@@ -1,5 +1,11 @@
-~~Title:paraśvadha~~
-{{description>chopper.}}
+---json
+{
+    "name":"paraśvadha",
+    "h1":"paraśvadha",
+    "title":"paraśvadha --- synonyms, prabhupada.io",
+    "description":"chopper."
+}
+---
 
 ==== paraśvadha  ====
   * chopper --- [[books:sb:9:15:29|SB 9.15.29]]

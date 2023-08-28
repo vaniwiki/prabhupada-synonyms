@@ -1,5 +1,11 @@
-~~Title:camakita~~
-{{description>always full of anxieties; astonished; startled; struck with wonder.}}
+---json
+{
+    "name":"camakita",
+    "h1":"camakita",
+    "title":"camakita --- synonyms, prabhupada.io",
+    "description":"always full of anxieties; astonished; startled; struck with wonder."
+}
+---
 
 ==== camakita  ====
   * always full of anxieties --- [[books:cc:adi:17:131|Ādi 17.131]]

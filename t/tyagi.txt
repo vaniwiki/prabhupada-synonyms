@@ -1,5 +1,11 @@
-~~Title:tyāgī~~
-{{description>renouncer; the renouncer.}}
+---json
+{
+    "name":"tyāgī",
+    "h1":"tyāgī",
+    "title":"tyāgī --- synonyms, prabhupada.io",
+    "description":"renouncer; the renouncer."
+}
+---
 
 ==== tyāgī  ====
   * renouncer --- [[books:bg:18:11|Bg. 18.11]]

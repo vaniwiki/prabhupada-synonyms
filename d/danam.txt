@@ -1,5 +1,11 @@
-~~Title:dānam~~
-{{description>acts of charity; charity; generosity.}}
+---json
+{
+    "name":"dānam",
+    "h1":"dānam",
+    "title":"dānam --- synonyms, prabhupada.io",
+    "description":"acts of charity; charity; generosity."
+}
+---
 
 ==== dānam  ====
   * acts of charity --- [[books:sb:8:16:60|SB 8.16.60]]

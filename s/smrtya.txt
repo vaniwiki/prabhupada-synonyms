@@ -1,5 +1,11 @@
-~~Title:smṛtyā~~
-{{description>by remembering.}}
+---json
+{
+    "name":"smṛtyā",
+    "h1":"smṛtyā",
+    "title":"smṛtyā --- synonyms, prabhupada.io",
+    "description":"by remembering."
+}
+---
 
 ==== smṛtyā  ====
   * by remembering --- [[books:sb:4:22:24|SB 4.22.24]]

@@ -1,5 +1,11 @@
-~~Title:praśasyam~~
-{{description>glorious.}}
+---json
+{
+    "name":"praśasyam",
+    "h1":"praśasyam",
+    "title":"praśasyam --- synonyms, prabhupada.io",
+    "description":"glorious."
+}
+---
 
 ==== praśasyam  ====
   * glorious --- [[books:sb:4:12:45|SB 4.12.45]]

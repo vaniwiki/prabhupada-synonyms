@@ -1,5 +1,11 @@
-~~Title:navamī~~
-{{description>the birthday ceremony of Lord Rāmacandra.}}
+---json
+{
+    "name":"navamī",
+    "h1":"navamī",
+    "title":"navamī --- synonyms, prabhupada.io",
+    "description":"the birthday ceremony of Lord Rāmacandra."
+}
+---
 
 ==== śrī-rāma-navamī  ====
   * the birthday ceremony of Lord Rāmacandra --- [[books:cc:madhya:24:341|Madhya 24.341]]

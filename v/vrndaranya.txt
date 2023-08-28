@@ -1,5 +1,11 @@
-~~Title:vṛndāraṇya~~
-{{description>the forest of Vṛndāvana.}}
+---json
+{
+    "name":"vṛndāraṇya",
+    "h1":"vṛndāraṇya",
+    "title":"vṛndāraṇya --- synonyms, prabhupada.io",
+    "description":"the forest of Vṛndāvana."
+}
+---
 
 ==== vṛndāraṇya  ====
   * the forest of Vṛndāvana --- [[books:cc:antya:15:97|Antya 15.97]]

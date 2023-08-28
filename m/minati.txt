@@ -1,5 +1,11 @@
-~~Title:minati~~
-{{description>humility; petitions; prayers; submission.}}
+---json
+{
+    "name":"minati",
+    "h1":"minati",
+    "title":"minati --- synonyms, prabhupada.io",
+    "description":"humility; petitions; prayers; submission."
+}
+---
 
 ==== minati  ====
   * humility --- [[books:cc:madhya:5:74|Madhya 5.74]]

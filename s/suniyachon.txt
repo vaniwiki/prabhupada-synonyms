@@ -1,5 +1,11 @@
-~~Title:śuniyāchoṅ~~
-{{description>I heard.}}
+---json
+{
+    "name":"śuniyāchoṅ",
+    "h1":"śuniyāchoṅ",
+    "title":"śuniyāchoṅ --- synonyms, prabhupada.io",
+    "description":"I heard."
+}
+---
 
 ==== śuniyāchoṅ  ====
   * I heard --- [[books:cc:madhya:24:4|Madhya 24.4]]

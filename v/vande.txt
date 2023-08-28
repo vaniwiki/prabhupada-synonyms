@@ -1,5 +1,11 @@
-~~Title:vande~~
-{{description>he worships; I offer my obeisances; I offer my respectful obeisances; I offer obeisances; I offer respectful obeisances; I worship; let me offer my obeisances; let me offer my prayers; offer my respectful obeisances; offer obeisances; offer prayer; pray; worship.}}
+---json
+{
+    "name":"vande",
+    "h1":"vande",
+    "title":"vande --- synonyms, prabhupada.io",
+    "description":"he worships; I offer my obeisances; I offer my respectful obeisances; I offer obeisances; I offer respectful obeisances; I worship; let me offer my obeisances; let me offer my prayers; offer my respectful obeisances; offer obeisances; offer prayer; pray; worship."
+}
+---
 
 ==== vande  ====
   * he worships --- [[books:cc:antya:5:69|Antya 5.69]]

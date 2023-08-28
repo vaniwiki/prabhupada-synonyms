@@ -1,5 +1,11 @@
-~~Title:astuvan~~
-{{description>offered prayers.}}
+---json
+{
+    "name":"astuvan",
+    "h1":"astuvan",
+    "title":"astuvan --- synonyms, prabhupada.io",
+    "description":"offered prayers."
+}
+---
 
 ==== astuvan  ====
   * offered prayers --- [[books:sb:7:4:14|SB 7.4.14]]

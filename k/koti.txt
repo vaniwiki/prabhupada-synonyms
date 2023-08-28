@@ -1,5 +1,11 @@
-~~Title:koti~~
-{{description>countless; millions; millions of times; millions upon millions; of millions; ten million; ten million times; ten millions; unlimited.}}
+---json
+{
+    "name":"koti",
+    "h1":"koti",
+    "title":"koti --- synonyms, prabhupada.io",
+    "description":"countless; millions; millions of times; millions upon millions; of millions; ten million; ten million times; ten millions; unlimited."
+}
+---
 
 ==== koṭi  ====
   * countless --- [[books:cc:adi:7:170|Ādi 7.170]]

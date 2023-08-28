@@ -1,5 +1,11 @@
-~~Title:analam~~
-{{description>fire; into the fire.}}
+---json
+{
+    "name":"analam",
+    "h1":"analam",
+    "title":"analam --- synonyms, prabhupada.io",
+    "description":"fire; into the fire."
+}
+---
 
 ==== analam  ====
   * fire --- [[books:sb:1:11:34|SB 1.11.34]], [[books:sb:1:19:4|SB 1.19.4]], [[books:sb:4:28:44|SB 4.28.44]]

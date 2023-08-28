@@ -1,5 +1,11 @@
-~~Title:harite~~
-{{description>to attract.}}
+---json
+{
+    "name":"harite",
+    "h1":"harite",
+    "title":"harite --- synonyms, prabhupada.io",
+    "description":"to attract."
+}
+---
 
 ==== harite  ====
   * to attract --- [[books:cc:madhya:9:147|Madhya 9.147]], [[books:cc:madhya:14:123|Madhya 14.123]]

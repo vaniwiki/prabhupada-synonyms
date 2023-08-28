@@ -1,5 +1,11 @@
-~~Title:vimocitā~~
-{{description>released.}}
+---json
+{
+    "name":"vimocitā",
+    "h1":"vimocitā",
+    "title":"vimocitā --- synonyms, prabhupada.io",
+    "description":"released."
+}
+---
 
 ==== vimocitā  ====
   * released --- [[books:sb:1:8:23|SB 1.8.23]]

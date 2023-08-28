@@ -1,5 +1,11 @@
-~~Title:avabhṛtha~~
-{{description>by bathing after finishing the sacrifice.}}
+---json
+{
+    "name":"avabhṛtha",
+    "h1":"avabhṛtha",
+    "title":"avabhṛtha --- synonyms, prabhupada.io",
+    "description":"by bathing after finishing the sacrifice."
+}
+---
 
 ==== avabhṛtha-snāna  ====
   * by bathing after finishing the sacrifice --- [[books:sb:9:16:23|SB 9.16.23]]

@@ -1,5 +1,11 @@
-~~Title:jātīya~~
-{{description>types of.}}
+---json
+{
+    "name":"jātīya",
+    "h1":"jātīya",
+    "title":"jātīya --- synonyms, prabhupada.io",
+    "description":"types of."
+}
+---
 
 ==== jātīya  ====
   * types of --- [[books:cc:adi:4:262|Ādi 4.262]]

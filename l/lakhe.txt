@@ -1,5 +1,11 @@
-~~Title:lākhe~~
-{{description>in hundreds of thousands.}}
+---json
+{
+    "name":"lākhe",
+    "h1":"lākhe",
+    "title":"lākhe --- synonyms, prabhupada.io",
+    "description":"in hundreds of thousands."
+}
+---
 
 ==== lākhe lākhe  ====
   * in hundreds of thousands --- [[books:cc:antya:14:23|Antya 14.23]]

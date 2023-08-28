@@ -1,5 +1,11 @@
-~~Title:kaupīna~~
-{{description>a loincloth (just to cover the private parts); loincloth; the underwear; underwear.}}
+---json
+{
+    "name":"kaupīna",
+    "h1":"kaupīna",
+    "title":"kaupīna --- synonyms, prabhupada.io",
+    "description":"a loincloth (just to cover the private parts); loincloth; the underwear; underwear."
+}
+---
 
 ==== kaupīna  ====
   * a loincloth (just to cover the private parts) --- [[books:sb:7:13:2|SB 7.13.2]]

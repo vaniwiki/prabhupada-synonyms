@@ -1,5 +1,11 @@
-~~Title:nigamam~~
-{{description>instruction.}}
+---json
+{
+    "name":"nigamam",
+    "h1":"nigamam",
+    "title":"nigamam --- synonyms, prabhupada.io",
+    "description":"instruction."
+}
+---
 
 ==== nigamam  ====
   * instruction --- [[books:sb:6:5:30|SB 6.5.30]]

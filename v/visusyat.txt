@@ -1,5 +1,11 @@
-~~Title:viśuṣyat~~
-{{description>dried up.}}
+---json
+{
+    "name":"viśuṣyat",
+    "h1":"viśuṣyat",
+    "title":"viśuṣyat --- synonyms, prabhupada.io",
+    "description":"dried up."
+}
+---
 
 ==== viśuṣyat  ====
   * dried up --- [[books:sb:1:18:27|SB 1.18.27]]

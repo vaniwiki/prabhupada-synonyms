@@ -1,5 +1,11 @@
-~~Title:vyaste~~
-{{description>somehow or other.}}
+---json
+{
+    "name":"vyaste",
+    "h1":"vyaste",
+    "title":"vyaste --- synonyms, prabhupada.io",
+    "description":"somehow or other."
+}
+---
 
 ==== āste vyaste  ====
   * somehow or other --- [[books:cc:adi:17:251|Ādi 17.251]]

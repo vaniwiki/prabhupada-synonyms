@@ -1,5 +1,11 @@
-~~Title:vidagdha~~
-{{description>expert and humorous; intelligent; most refined; very humorous.}}
+---json
+{
+    "name":"vidagdha",
+    "h1":"vidagdha",
+    "title":"vidagdha --- synonyms, prabhupada.io",
+    "description":"expert and humorous; intelligent; most refined; very humorous."
+}
+---
 
 ==== vidagdha  ====
   * expert and humorous --- [[books:cc:adi:14:55|Ādi 14.55]]

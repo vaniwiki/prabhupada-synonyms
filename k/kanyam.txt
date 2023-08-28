@@ -1,5 +1,11 @@
-~~Title:kanyam~~
-{{description>daughter; girl; one daughter; the daughter; the daughter of Kakudmī; the girl.}}
+---json
+{
+    "name":"kanyam",
+    "h1":"kanyam",
+    "title":"kanyam --- synonyms, prabhupada.io",
+    "description":"daughter; girl; one daughter; the daughter; the daughter of Kakudmī; the girl."
+}
+---
 
 ==== kanyām  ====
   * daughter --- [[books:sb:5:1:24|SB 5.1.24]], [[books:sb:6:18:2|SB 6.18.2]]

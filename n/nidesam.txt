@@ -1,5 +1,11 @@
-~~Title:nideśam~~
-{{description>command; the order.}}
+---json
+{
+    "name":"nideśam",
+    "h1":"nideśam",
+    "title":"nideśam --- synonyms, prabhupada.io",
+    "description":"command; the order."
+}
+---
 
 ==== nideśam  ====
   * command --- [[books:sb:3:21:30|SB 3.21.30]]

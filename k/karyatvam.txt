@@ -1,5 +1,11 @@
-~~Title:kāryatvam~~
-{{description>being the effect.}}
+---json
+{
+    "name":"kāryatvam",
+    "h1":"kāryatvam",
+    "title":"kāryatvam --- synonyms, prabhupada.io",
+    "description":"being the effect."
+}
+---
 
 ==== kāryatvam  ====
   * being the effect --- [[books:sb:3:26:26|SB 3.26.26]]

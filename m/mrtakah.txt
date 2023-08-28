@@ -1,5 +1,11 @@
-~~Title:mṛtakaḥ~~
-{{description>a dead body; dead bodies.}}
+---json
+{
+    "name":"mṛtakaḥ",
+    "h1":"mṛtakaḥ",
+    "title":"mṛtakaḥ --- synonyms, prabhupada.io",
+    "description":"a dead body; dead bodies."
+}
+---
 
 ==== mṛtakaḥ  ====
   * a dead body --- [[books:sb:5:26:30|SB 5.26.30]]

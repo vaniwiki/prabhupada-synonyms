@@ -1,5 +1,11 @@
-~~Title:āsvādayet~~
-{{description>should taste.}}
+---json
+{
+    "name":"āsvādayet",
+    "h1":"āsvādayet",
+    "title":"āsvādayet --- synonyms, prabhupada.io",
+    "description":"should taste."
+}
+---
 
 ==== āsvādayet  ====
   * should taste --- [[books:cc:antya:20:154|Antya 20.154]]

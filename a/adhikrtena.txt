@@ -1,5 +1,11 @@
-~~Title:adhikṛtena~~
-{{description>borne.}}
+---json
+{
+    "name":"adhikṛtena",
+    "h1":"adhikṛtena",
+    "title":"adhikṛtena --- synonyms, prabhupada.io",
+    "description":"borne."
+}
+---
 
 ==== adhikṛtena  ====
   * borne --- [[books:sb:3:28:22|SB 3.28.22]]

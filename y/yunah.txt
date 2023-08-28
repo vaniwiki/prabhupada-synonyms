@@ -1,5 +1,11 @@
-~~Title:yūnaḥ~~
-{{description>of a youth.}}
+---json
+{
+    "name":"yūnaḥ",
+    "h1":"yūnaḥ",
+    "title":"yūnaḥ --- synonyms, prabhupada.io",
+    "description":"of a youth."
+}
+---
 
 ==== yūnaḥ  ====
   * of a youth --- [[books:sb:4:29:72|SB 4.29.72]]

@@ -1,5 +1,11 @@
-~~Title:ārabdham~~
-{{description>obtained as a result of past activity.}}
+---json
+{
+    "name":"ārabdham",
+    "h1":"ārabdham",
+    "title":"ārabdham --- synonyms, prabhupada.io",
+    "description":"obtained as a result of past activity."
+}
+---
 
 ==== ārabdham  ====
   * obtained as a result of past activity --- [[books:sb:5:1:16|SB 5.1.16]]

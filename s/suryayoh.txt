@@ -1,5 +1,11 @@
-~~Title:sūryayoḥ~~
-{{description>of the sun.}}
+---json
+{
+    "name":"sūryayoḥ",
+    "h1":"sūryayoḥ",
+    "title":"sūryayoḥ --- synonyms, prabhupada.io",
+    "description":"of the sun."
+}
+---
 
 ==== sūryayoḥ  ====
   * of the sun --- [[books:sb:3:17:8|SB 3.17.8]]

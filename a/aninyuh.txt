@@ -1,5 +1,11 @@
-~~Title:āninyuḥ~~
-{{description>brought.}}
+---json
+{
+    "name":"āninyuḥ",
+    "h1":"āninyuḥ",
+    "title":"āninyuḥ --- synonyms, prabhupada.io",
+    "description":"brought."
+}
+---
 
 ==== āninyuḥ  ====
   * brought --- [[books:sb:9:23:7-10|SB 9.23.7-10]]

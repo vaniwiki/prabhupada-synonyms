@@ -1,5 +1,11 @@
-~~Title:āgrahe~~
-{{description>the insistence.}}
+---json
+{
+    "name":"āgrahe",
+    "h1":"āgrahe",
+    "title":"āgrahe --- synonyms, prabhupada.io",
+    "description":"the insistence."
+}
+---
 
 ==== āgrahe  ====
   * the insistence --- [[books:cc:antya:1:111|Antya 1.111]]

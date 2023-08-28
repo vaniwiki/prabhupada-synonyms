@@ -1,5 +1,11 @@
-~~Title:vedi~~
-{{description>surrounding.}}
+---json
+{
+    "name":"vedi",
+    "h1":"vedi",
+    "title":"vedi --- synonyms, prabhupada.io",
+    "description":"surrounding."
+}
+---
 
 ==== veḍi  ====
   * surrounding --- [[books:cc:adi:5:190|Ādi 5.190]]

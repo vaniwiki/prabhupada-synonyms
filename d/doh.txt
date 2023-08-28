@@ -1,5 +1,11 @@
-~~Title:doḥ~~
-{{description>hands; the sense for handling; whose two arms.}}
+---json
+{
+    "name":"doḥ",
+    "h1":"doḥ",
+    "title":"doḥ --- synonyms, prabhupada.io",
+    "description":"hands; the sense for handling; whose two arms."
+}
+---
 
 ==== doḥ  ====
   * hands --- [[books:sb:4:5:10|SB 4.5.10]]

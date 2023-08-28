@@ -1,5 +1,11 @@
-~~Title:upare~~
-{{description>above; beyond; on the bank; on the head; on the platform; on the top; on top; over; upon; upon it; upon the food.}}
+---json
+{
+    "name":"upare",
+    "h1":"upare",
+    "title":"upare --- synonyms, prabhupada.io",
+    "description":"above; beyond; on the bank; on the head; on the platform; on the top; on top; over; upon; upon it; upon the food."
+}
+---
 
 ==== upare  ====
   * above --- [[books:cc:antya:6:63|Antya 6.63]]

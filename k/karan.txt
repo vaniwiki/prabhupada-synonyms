@@ -1,5 +1,11 @@
-~~Title:karan~~
-{{description>causing panic.}}
+---json
+{
+    "name":"karan",
+    "h1":"karan",
+    "title":"karan --- synonyms, prabhupada.io",
+    "description":"causing panic."
+}
+---
 
 ==== bhayam-karān  ====
   * causing panic --- [[books:sb:4:14:37|SB 4.14.37]]

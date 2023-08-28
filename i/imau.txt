@@ -1,5 +1,11 @@
-~~Title:imau~~
-{{description>both of Them; in this (world); these; these two persons (Nalakūvara and Maṇigrīva); these two young demigods.}}
+---json
+{
+    "name":"imau",
+    "h1":"imau",
+    "title":"imau --- synonyms, prabhupada.io",
+    "description":"both of Them; in this (world); these; these two persons (Nalakūvara and Maṇigrīva); these two young demigods."
+}
+---
 
 ==== imau  ====
   * both of Them --- [[books:cc:madhya:20:262|Madhya 20.262]]

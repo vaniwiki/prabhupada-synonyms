@@ -1,5 +1,11 @@
-~~Title:āmrātaka~~
-{{description>with kharjūras, āmrātakas, āmras and others.}}
+---json
+{
+    "name":"āmrātaka",
+    "h1":"āmrātaka",
+    "title":"āmrātaka --- synonyms, prabhupada.io",
+    "description":"with kharjūras, āmrātakas, āmras and others."
+}
+---
 
 ==== kharjūra-āmrātaka-āmra-ādyaiḥ  ====
   * with //kharjūras, āmrātakas, āmras// and others --- [[books:sb:4:6:18|SB 4.6.18]]

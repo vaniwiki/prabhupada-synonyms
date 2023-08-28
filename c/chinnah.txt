@@ -1,5 +1,11 @@
-~~Title:chinnah~~
-{{description>broken; finished.}}
+---json
+{
+    "name":"chinnah",
+    "h1":"chinnah",
+    "title":"chinnah --- synonyms, prabhupada.io",
+    "description":"broken; finished."
+}
+---
 
 ==== chinnaḥ  ====
   * broken --- [[books:sb:9:8:26|SB 9.8.26]]

@@ -1,5 +1,11 @@
-~~Title:mad~~
-{{description>for my sake.}}
+---json
+{
+    "name":"mad",
+    "h1":"mad",
+    "title":"mad --- synonyms, prabhupada.io",
+    "description":"for my sake."
+}
+---
 
 ==== mad-arthe  ====
   * for my sake --- [[books:bg:1:9|Bg. 1.9]]

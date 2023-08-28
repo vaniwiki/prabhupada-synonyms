@@ -1,5 +1,11 @@
-~~Title:asammatam~~
-{{description>not approved of; not very attractive.}}
+---json
+{
+    "name":"asammatam",
+    "h1":"asammatam",
+    "title":"asammatam --- synonyms, prabhupada.io",
+    "description":"not approved of; not very attractive."
+}
+---
 
 ==== asammatam  ====
   * not approved of --- [[books:sb:4:14:2|SB 4.14.2]]

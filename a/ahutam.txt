@@ -1,5 +1,11 @@
-~~Title:āhūtam~~
-{{description>as if invited.}}
+---json
+{
+    "name":"āhūtam",
+    "h1":"āhūtam",
+    "title":"āhūtam --- synonyms, prabhupada.io",
+    "description":"as if invited."
+}
+---
 
 ==== āhūtam  ====
   * as if invited --- [[books:sb:4:25:19|SB 4.25.19]]

@@ -1,5 +1,11 @@
-~~Title:kalasam~~
-{{description>a jar; the container of nectar; the jug.}}
+---json
+{
+    "name":"kalasam",
+    "h1":"kalasam",
+    "title":"kalasam --- synonyms, prabhupada.io",
+    "description":"a jar; the container of nectar; the jug."
+}
+---
 
 ==== kalasam  ====
   * a jar --- [[books:sb:8:8:33|SB 8.8.33]]

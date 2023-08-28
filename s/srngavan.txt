@@ -1,5 +1,11 @@
-~~Title:śṛṅgavān~~
-{{description>Śṛṅgavān.}}
+---json
+{
+    "name":"śṛṅgavān",
+    "h1":"śṛṅgavān",
+    "title":"śṛṅgavān --- synonyms, prabhupada.io",
+    "description":"Śṛṅgavān."
+}
+---
 
 ==== śṛṅgavān  ====
   * Śṛṅgavān --- [[books:sb:5:16:8|SB 5.16.8]]

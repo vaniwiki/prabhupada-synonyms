@@ -1,5 +1,11 @@
-~~Title:phālgunaḥ~~
-{{description>another name of Śrī Arjuna.}}
+---json
+{
+    "name":"phālgunaḥ",
+    "h1":"phālgunaḥ",
+    "title":"phālgunaḥ --- synonyms, prabhupada.io",
+    "description":"another name of Śrī Arjuna."
+}
+---
 
 ==== phālgunaḥ  ====
   * another name of Śrī Arjuna --- [[books:sb:1:7:29|SB 1.7.29]]

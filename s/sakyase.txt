@@ -1,5 +1,11 @@
-~~Title:śakyase~~
-{{description>able.}}
+---json
+{
+    "name":"śakyase",
+    "h1":"śakyase",
+    "title":"śakyase --- synonyms, prabhupada.io",
+    "description":"able."
+}
+---
 
 ==== śakyase  ====
   * able --- [[books:bg:11:8|Bg. 11.8]]

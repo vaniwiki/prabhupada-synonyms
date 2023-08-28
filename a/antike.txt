@@ -1,5 +1,11 @@
-~~Title:antike~~
-{{description>(situated) nearby; close by; in front; near; nearby; staying nearby; very near.}}
+---json
+{
+    "name":"antike",
+    "h1":"antike",
+    "title":"antike --- synonyms, prabhupada.io",
+    "description":"(situated) nearby; close by; in front; near; nearby; staying nearby; very near."
+}
+---
 
 ==== antike  ====
   * (situated) nearby --- [[books:sb:8:12:22|SB 8.12.22]]

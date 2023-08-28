@@ -1,5 +1,11 @@
-~~Title:dhakdhaki~~
-{{description>blazing.}}
+---json
+{
+    "name":"dhakdhaki",
+    "h1":"dhakdhaki",
+    "title":"dhakdhaki --- synonyms, prabhupada.io",
+    "description":"blazing."
+}
+---
 
 ==== dhakdhaki  ====
   * blazing --- [[books:cc:adi:4:136|Ādi 4.136]]

@@ -1,5 +1,11 @@
-~~Title:māsekera~~
-{{description>one month.}}
+---json
+{
+    "name":"māsekera",
+    "h1":"māsekera",
+    "title":"māsekera --- synonyms, prabhupada.io",
+    "description":"one month."
+}
+---
 
 ==== māsekera  ====
   * one month --- [[books:cc:antya:10:125-126|Antya 10.125-126]]

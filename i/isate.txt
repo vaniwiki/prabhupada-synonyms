@@ -1,5 +1,11 @@
-~~Title:īśāte~~
-{{description>are the controlling power.}}
+---json
+{
+    "name":"īśāte",
+    "h1":"īśāte",
+    "title":"īśāte --- synonyms, prabhupada.io",
+    "description":"are the controlling power."
+}
+---
 
 ==== īśāte  ====
   * are the controlling power --- [[books:cc:madhya:20:262|Madhya 20.262]]

@@ -1,5 +1,11 @@
-~~Title:goṣṭham~~
-{{description>the land of the cowshed; throughout the whole pasturing ground; to the cow sheds.}}
+---json
+{
+    "name":"goṣṭham",
+    "h1":"goṣṭham",
+    "title":"goṣṭham --- synonyms, prabhupada.io",
+    "description":"the land of the cowshed; throughout the whole pasturing ground; to the cow sheds."
+}
+---
 
 ==== goṣṭham  ====
   * the land of the cowshed --- [[books:sb:9:2:4|SB 9.2.4]]

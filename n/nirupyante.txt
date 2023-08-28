@@ -1,5 +1,11 @@
-~~Title:nirūpyante~~
-{{description>are the objective.}}
+---json
+{
+    "name":"nirūpyante",
+    "h1":"nirūpyante",
+    "title":"nirūpyante --- synonyms, prabhupada.io",
+    "description":"are the objective."
+}
+---
 
 ==== nirūpyante  ====
   * are the objective --- [[books:sb:4:1:62|SB 4.1.62]]

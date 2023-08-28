@@ -1,5 +1,11 @@
-~~Title:kārakaiḥ~~
-{{description>by the doers.}}
+---json
+{
+    "name":"kārakaiḥ",
+    "h1":"kārakaiḥ",
+    "title":"kārakaiḥ --- synonyms, prabhupada.io",
+    "description":"by the doers."
+}
+---
 
 ==== kārakaiḥ  ====
   * by the doers --- [[books:bg:1:42|Bg. 1.42]]

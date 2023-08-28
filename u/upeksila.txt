@@ -1,5 +1,11 @@
-~~Title:upekṣila~~
-{{description>criticized.}}
+---json
+{
+    "name":"upekṣila",
+    "h1":"upekṣila",
+    "title":"upekṣila --- synonyms, prabhupada.io",
+    "description":"criticized."
+}
+---
 
 ==== upekṣila  ====
   * criticized --- [[books:cc:madhya:25:5|Madhya 25.5]]

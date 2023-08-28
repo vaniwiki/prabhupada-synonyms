@@ -1,5 +1,11 @@
-~~Title:śibiram~~
-{{description>camp.}}
+---json
+{
+    "name":"śibiram",
+    "h1":"śibiram",
+    "title":"śibiram --- synonyms, prabhupada.io",
+    "description":"camp."
+}
+---
 
 ==== śibiram  ====
   * camp --- [[books:sb:1:7:41|SB 1.7.41]]

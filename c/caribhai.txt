@@ -1,5 +1,11 @@
-~~Title:cāribhāi~~
-{{description>four brothers.}}
+---json
+{
+    "name":"cāribhāi",
+    "h1":"cāribhāi",
+    "title":"cāribhāi --- synonyms, prabhupada.io",
+    "description":"four brothers."
+}
+---
 
 ==== cāribhāi  ====
   * four brothers --- [[books:cc:adi:11:46|Ādi 11.46]]

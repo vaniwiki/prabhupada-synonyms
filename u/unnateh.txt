@@ -1,5 +1,11 @@
-~~Title:unnateḥ~~
-{{description>of the elevation.}}
+---json
+{
+    "name":"unnateḥ",
+    "h1":"unnateḥ",
+    "title":"unnateḥ --- synonyms, prabhupada.io",
+    "description":"of the elevation."
+}
+---
 
 ==== unnateḥ  ====
   * of the elevation --- [[books:sb:8:15:28|SB 8.15.28]]

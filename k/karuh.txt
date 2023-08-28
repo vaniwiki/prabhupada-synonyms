@@ -1,5 +1,11 @@
-~~Title:kāruḥ~~
-{{description>the craftsman.}}
+---json
+{
+    "name":"kāruḥ",
+    "h1":"kāruḥ",
+    "title":"kāruḥ --- synonyms, prabhupada.io",
+    "description":"the craftsman."
+}
+---
 
 ==== kāruḥ  ====
   * the craftsman --- [[books:cc:madhya:8:195|Madhya 8.195]]

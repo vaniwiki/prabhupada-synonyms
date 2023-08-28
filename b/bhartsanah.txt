@@ -1,5 +1,11 @@
-~~Title:bhartsanāḥ~~
-{{description>admonitions.}}
+---json
+{
+    "name":"bhartsanāḥ",
+    "h1":"bhartsanāḥ",
+    "title":"bhartsanāḥ --- synonyms, prabhupada.io",
+    "description":"admonitions."
+}
+---
 
 ==== bhartsanāḥ  ====
   * admonitions --- [[books:cc:madhya:14:200|Madhya 14.200]]

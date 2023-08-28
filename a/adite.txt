@@ -1,5 +1,11 @@
-~~Title:ādite~~
-{{description>by processes beginning with meditation.}}
+---json
+{
+    "name":"ādite",
+    "h1":"ādite",
+    "title":"ādite --- synonyms, prabhupada.io",
+    "description":"by processes beginning with meditation."
+}
+---
 
 ==== dhyāna-ādite  ====
   * by processes beginning with meditation --- [[books:cc:madhya:20:343|Madhya 20.343]]

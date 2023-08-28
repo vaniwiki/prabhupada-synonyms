@@ -1,5 +1,11 @@
-~~Title:dhāmabhiḥ~~
-{{description>appearing like the sunshine.}}
+---json
+{
+    "name":"dhāmabhiḥ",
+    "h1":"dhāmabhiḥ",
+    "title":"dhāmabhiḥ --- synonyms, prabhupada.io",
+    "description":"appearing like the sunshine."
+}
+---
 
 ==== arka-dhāmabhiḥ  ====
   * appearing like the sunshine --- [[books:sb:9:15:29|SB 9.15.29]]

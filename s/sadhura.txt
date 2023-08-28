@@ -1,5 +1,11 @@
-~~Title:sādhura~~
-{{description>of the saintly persons.}}
+---json
+{
+    "name":"sādhura",
+    "h1":"sādhura",
+    "title":"sādhura --- synonyms, prabhupada.io",
+    "description":"of the saintly persons."
+}
+---
 
 ==== sādhura  ====
   * of the saintly persons --- [[books:cc:madhya:20:105|Madhya 20.105]]

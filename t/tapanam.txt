@@ -1,5 +1,11 @@
-~~Title:tāpanam~~
-{{description>enlightening.}}
+---json
+{
+    "name":"tāpanam",
+    "h1":"tāpanam",
+    "title":"tāpanam --- synonyms, prabhupada.io",
+    "description":"enlightening."
+}
+---
 
 ==== tāpanam  ====
   * enlightening --- [[books:sb:2:9:8|SB 2.9.8]]

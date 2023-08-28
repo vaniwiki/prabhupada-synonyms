@@ -1,5 +1,11 @@
-~~Title:ahitah~~
-{{description>who is not a well-wisher.}}
+---json
+{
+    "name":"ahitah",
+    "h1":"ahitah",
+    "title":"ahitah --- synonyms, prabhupada.io",
+    "description":"who is not a well-wisher."
+}
+---
 
 ==== ahitaḥ  ====
   * who is not a well-wisher --- [[books:sb:7:5:37|SB 7.5.37]]

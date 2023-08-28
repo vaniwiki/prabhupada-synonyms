@@ -1,5 +1,11 @@
-~~Title:sastrani~~
-{{description>all weapons.}}
+---json
+{
+    "name":"sastrani",
+    "h1":"sastrani",
+    "title":"sastrani --- synonyms, prabhupada.io",
+    "description":"all weapons."
+}
+---
 
 ==== śastrāṇi  ====
   * all weapons --- [[books:bg:2:23|Bg. 2.23]]

@@ -1,5 +1,11 @@
-~~Title:bhupah~~
-{{description>the King (Ambarīṣa).}}
+---json
+{
+    "name":"bhupah",
+    "h1":"bhupah",
+    "title":"bhupah --- synonyms, prabhupada.io",
+    "description":"the King (Ambarīṣa)."
+}
+---
 
 ==== bhūpaḥ  ====
   * the King (Ambarīṣa) --- [[books:sb:9:4:36|SB 9.4.36]]

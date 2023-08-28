@@ -1,5 +1,11 @@
-~~Title:pravāsa~~
-{{description>also pravāsa and māna.}}
+---json
+{
+    "name":"pravāsa",
+    "h1":"pravāsa",
+    "title":"pravāsa --- synonyms, prabhupada.io",
+    "description":"also pravāsa and māna."
+}
+---
 
 ==== pravāsa māne  ====
   * also //pravāsa// and //māna// --- [[books:cc:madhya:23:64|Madhya 23.64]]

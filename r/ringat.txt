@@ -1,5 +1,11 @@
-~~Title:riṅgat~~
-{{description>whose slowly moving eyebrows.}}
+---json
+{
+    "name":"riṅgat",
+    "h1":"riṅgat",
+    "title":"riṅgat --- synonyms, prabhupada.io",
+    "description":"whose slowly moving eyebrows."
+}
+---
 
 ==== riṅgat-bhrū  ====
   * whose slowly moving eyebrows --- [[books:cc:antya:1:166|Antya 1.166]]

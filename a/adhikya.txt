@@ -1,5 +1,11 @@
-~~Title:adhikya~~
-{{description>increase of intimacy.}}
+---json
+{
+    "name":"adhikya",
+    "h1":"adhikya",
+    "title":"adhikya --- synonyms, prabhupada.io",
+    "description":"increase of intimacy."
+}
+---
 
 ==== mamatā-adhikya  ====
   * increase of intimacy --- [[books:cc:madhya:19:231|Madhya 19.231]]

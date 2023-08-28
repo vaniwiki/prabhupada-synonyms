@@ -1,5 +1,11 @@
-~~Title:parābhava~~
-{{description>defeat.}}
+---json
+{
+    "name":"parābhava",
+    "h1":"parābhava",
+    "title":"parābhava --- synonyms, prabhupada.io",
+    "description":"defeat."
+}
+---
 
 ==== parābhava  ====
   * defeat --- [[books:cc:adi:17:168|Ādi 17.168]]

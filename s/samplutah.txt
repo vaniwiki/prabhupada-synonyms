@@ -1,5 +1,11 @@
-~~Title:samplutah~~
-{{description>thoroughly assimilated.}}
+---json
+{
+    "name":"samplutah",
+    "h1":"samplutah",
+    "title":"samplutah --- synonyms, prabhupada.io",
+    "description":"thoroughly assimilated."
+}
+---
 
 ==== samplutaḥ  ====
   * thoroughly assimilated --- [[books:sb:3:2:5|SB 3.2.5]]

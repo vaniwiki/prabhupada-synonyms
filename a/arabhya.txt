@@ -1,5 +1,11 @@
-~~Title:ārabhya~~
-{{description>beginning.}}
+---json
+{
+    "name":"ārabhya",
+    "h1":"ārabhya",
+    "title":"ārabhya --- synonyms, prabhupada.io",
+    "description":"beginning."
+}
+---
 
 ==== ārabhya  ====
   * beginning --- [[books:sb:3:31:10|SB 3.31.10]], [[books:sb:5:1:26|SB 5.1.26]], [[books:sb:5:7:3|SB 5.7.3]], [[books:sb:7:1:18|SB 7.1.18]], [[books:sb:8:16:48|SB 8.16.48]], [[books:sb:9:13:1|SB 9.13.1]]

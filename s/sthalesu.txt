@@ -1,5 +1,11 @@
-~~Title:sthaleṣu~~
-{{description>on the land.}}
+---json
+{
+    "name":"sthaleṣu",
+    "h1":"sthaleṣu",
+    "title":"sthaleṣu --- synonyms, prabhupada.io",
+    "description":"on the land."
+}
+---
 
 ==== sthaleṣu  ====
   * on the land --- [[books:sb:6:8:13|SB 6.8.13]]

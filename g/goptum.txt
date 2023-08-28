@@ -1,5 +1,11 @@
-~~Title:goptum~~
-{{description>prepared to give protection.}}
+---json
+{
+    "name":"goptum",
+    "h1":"goptum",
+    "title":"goptum --- synonyms, prabhupada.io",
+    "description":"prepared to give protection."
+}
+---
 
 ==== goptum udyataḥ  ====
   * prepared to give protection --- [[books:sb:4:17:31|SB 4.17.31]]

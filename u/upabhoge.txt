@@ -1,5 +1,11 @@
-~~Title:upabhoge~~
-{{description>for sense enjoyment.}}
+---json
+{
+    "name":"upabhoge",
+    "h1":"upabhoge",
+    "title":"upabhoge --- synonyms, prabhupada.io",
+    "description":"for sense enjoyment."
+}
+---
 
 ==== kāma-upabhoge  ====
   * for sense enjoyment --- [[books:mm:5|MM 5]]

@@ -1,5 +1,11 @@
-~~Title:abhisarāma~~
-{{description>may go.}}
+---json
+{
+    "name":"abhisarāma",
+    "h1":"abhisarāma",
+    "title":"abhisarāma --- synonyms, prabhupada.io",
+    "description":"may go."
+}
+---
 
 ==== abhisarāma  ====
   * may go --- [[books:sb:4:3:8|SB 4.3.8]]

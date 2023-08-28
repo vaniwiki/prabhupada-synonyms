@@ -1,5 +1,11 @@
-~~Title:rājendra~~
-{{description>O Emperor; O King; O King Parīkṣit.}}
+---json
+{
+    "name":"rājendra",
+    "h1":"rājendra",
+    "title":"rājendra --- synonyms, prabhupada.io",
+    "description":"O Emperor; O King; O King Parīkṣit."
+}
+---
 
 ==== rājendra  ====
   * O Emperor --- [[books:sb:2:1:2|SB 2.1.2]]

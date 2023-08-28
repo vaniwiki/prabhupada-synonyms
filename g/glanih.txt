@@ -1,5 +1,11 @@
-~~Title:glāniḥ~~
-{{description>decrease; discrepancies; lack of energy.}}
+---json
+{
+    "name":"glāniḥ",
+    "h1":"glāniḥ",
+    "title":"glāniḥ --- synonyms, prabhupada.io",
+    "description":"decrease; discrepancies; lack of energy."
+}
+---
 
 ==== glāniḥ  ====
   * decrease --- [[books:cc:adi:3:22|Ādi 3.22]]

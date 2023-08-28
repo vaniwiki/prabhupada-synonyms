@@ -1,5 +1,11 @@
-~~Title:sabhājitam~~
-{{description>being praised.}}
+---json
+{
+    "name":"sabhājitam",
+    "h1":"sabhājitam",
+    "title":"sabhājitam --- synonyms, prabhupada.io",
+    "description":"being praised."
+}
+---
 
 ==== sabhājitam  ====
   * being praised --- [[books:sb:4:21:8|SB 4.21.8]]

@@ -1,5 +1,11 @@
-~~Title:sanna~~
-{{description>fatigued.}}
+---json
+{
+    "name":"sanna",
+    "h1":"sanna",
+    "title":"sanna --- synonyms, prabhupada.io",
+    "description":"fatigued."
+}
+---
 
 ==== sanna  ====
   * fatigued --- [[books:sb:6:11:12|SB 6.11.12]]

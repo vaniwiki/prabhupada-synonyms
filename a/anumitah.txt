@@ -1,5 +1,11 @@
-~~Title:anumitaḥ~~
-{{description>measured.}}
+---json
+{
+    "name":"anumitaḥ",
+    "h1":"anumitaḥ",
+    "title":"anumitaḥ --- synonyms, prabhupada.io",
+    "description":"measured."
+}
+---
 
 ==== anumitaḥ  ====
   * measured --- [[books:sb:3:11:3|SB 3.11.3]]

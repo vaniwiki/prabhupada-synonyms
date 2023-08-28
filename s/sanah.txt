@@ -1,5 +1,11 @@
-~~Title:sanah~~
-{{description>the four bachelors named Sanat-kumāra, Sanaka, Sanandana and Sanātana.}}
+---json
+{
+    "name":"sanah",
+    "h1":"sanah",
+    "title":"sanah --- synonyms, prabhupada.io",
+    "description":"the four bachelors named Sanat-kumāra, Sanaka, Sanandana and Sanātana."
+}
+---
 
 ==== catuḥ-sanaḥ  ====
   * the four bachelors named Sanat-kumāra, Sanaka, Sanandana and Sanātana --- [[books:sb:2:7:5|SB 2.7.5]]

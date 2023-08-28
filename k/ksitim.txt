@@ -1,5 +1,11 @@
-~~Title:kṣitim~~
-{{description>earth; the earth; the ground; the surface of the globe; the tract of land; the whole surface of the world; the world.}}
+---json
+{
+    "name":"kṣitim",
+    "h1":"kṣitim",
+    "title":"kṣitim --- synonyms, prabhupada.io",
+    "description":"earth; the earth; the ground; the surface of the globe; the tract of land; the whole surface of the world; the world."
+}
+---
 
 ==== kṣitim  ====
   * earth --- [[books:sb:4:23:16|SB 4.23.16]]

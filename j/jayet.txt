@@ -1,5 +1,11 @@
-~~Title:jayet~~
-{{description>can conquer; one should conquer.}}
+---json
+{
+    "name":"jayet",
+    "h1":"jayet",
+    "title":"jayet --- synonyms, prabhupada.io",
+    "description":"can conquer; one should conquer."
+}
+---
 
 ==== jayet  ====
   * can conquer --- [[books:sb:7:15:25|SB 7.15.25]]

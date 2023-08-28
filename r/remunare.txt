@@ -1,5 +1,11 @@
-~~Title:remuṇāre~~
-{{description>the village known as Remuṇā.}}
+---json
+{
+    "name":"remuṇāre",
+    "h1":"remuṇāre",
+    "title":"remuṇāre --- synonyms, prabhupada.io",
+    "description":"the village known as Remuṇā."
+}
+---
 
 ==== remuṇāre  ====
   * the village known as Remuṇā --- [[books:cc:madhya:4:12|Madhya 4.12]]

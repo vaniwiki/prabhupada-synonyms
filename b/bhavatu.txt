@@ -1,5 +1,11 @@
-~~Title:bhavatu~~
-{{description>let it happen; let there be; may become.}}
+---json
+{
+    "name":"bhavatu",
+    "h1":"bhavatu",
+    "title":"bhavatu --- synonyms, prabhupada.io",
+    "description":"let it happen; let there be; may become."
+}
+---
 
 ==== bhavatu  ====
   * let it happen --- [[books:mm:5|MM 5]]

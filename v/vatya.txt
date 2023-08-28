@@ -1,5 +1,11 @@
-~~Title:vātyā~~
-{{description>by the whirlwind; cyclonic air.}}
+---json
+{
+    "name":"vātyā",
+    "h1":"vātyā",
+    "title":"vātyā --- synonyms, prabhupada.io",
+    "description":"by the whirlwind; cyclonic air."
+}
+---
 
 ==== vātyā  ====
   * by the whirlwind --- [[books:sb:5:13:4|SB 5.13.4]]

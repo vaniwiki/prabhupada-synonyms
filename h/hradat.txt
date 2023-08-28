@@ -1,5 +1,11 @@
-~~Title:hradāt~~
-{{description>from the lake.}}
+---json
+{
+    "name":"hradāt",
+    "h1":"hradāt",
+    "title":"hradāt --- synonyms, prabhupada.io",
+    "description":"from the lake."
+}
+---
 
 ==== hradāt  ====
   * from the lake --- [[books:sb:4:22:30|SB 4.22.30]]

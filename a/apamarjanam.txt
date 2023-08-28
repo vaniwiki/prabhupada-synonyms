@@ -1,5 +1,11 @@
-~~Title:apamārjanam~~
-{{description>completely vanquished.}}
+---json
+{
+    "name":"apamārjanam",
+    "h1":"apamārjanam",
+    "title":"apamārjanam --- synonyms, prabhupada.io",
+    "description":"completely vanquished."
+}
+---
 
 ==== apamārjanam  ====
   * completely vanquished --- [[books:sb:10:2:35|SB 10.2.35]]

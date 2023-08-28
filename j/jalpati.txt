@@ -1,5 +1,11 @@
-~~Title:jalpati~~
-{{description>describe; he also talked loosely; roaring.}}
+---json
+{
+    "name":"jalpati",
+    "h1":"jalpati",
+    "title":"jalpati --- synonyms, prabhupada.io",
+    "description":"describe; he also talked loosely; roaring."
+}
+---
 
 ==== jalpati  ====
   * describe --- [[books:cc:madhya:6:142|Madhya 6.142]]

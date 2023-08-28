@@ -1,5 +1,11 @@
-~~Title:viśati~~
-{{description>enters; fallen into; he enters.}}
+---json
+{
+    "name":"viśati",
+    "h1":"viśati",
+    "title":"viśati --- synonyms, prabhupada.io",
+    "description":"enters; fallen into; he enters."
+}
+---
 
 ==== viśati  ====
   * enters --- [[books:sb:3:31:32|SB 3.31.32]], [[books:sb:8:12:11|SB 8.12.11]]

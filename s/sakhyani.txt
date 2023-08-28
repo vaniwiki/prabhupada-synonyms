@@ -1,5 +1,11 @@
-~~Title:sakhyāni~~
-{{description>friendship.}}
+---json
+{
+    "name":"sakhyāni",
+    "h1":"sakhyāni",
+    "title":"sakhyāni --- synonyms, prabhupada.io",
+    "description":"friendship."
+}
+---
 
 ==== sakhyāni  ====
   * friendship --- [[books:sb:8:9:10|SB 8.9.10]]

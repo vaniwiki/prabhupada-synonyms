@@ -1,5 +1,11 @@
-~~Title:ithi~~
-{{description>for this.}}
+---json
+{
+    "name":"ithi",
+    "h1":"ithi",
+    "title":"ithi --- synonyms, prabhupada.io",
+    "description":"for this."
+}
+---
 
 ==== ithi  ====
   * for this --- [[books:cc:adi:8:10|Ādi 8.10]]

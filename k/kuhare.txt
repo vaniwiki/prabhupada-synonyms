@@ -1,5 +1,11 @@
-~~Title:kuhare~~
-{{description>in the core of the heart.}}
+---json
+{
+    "name":"kuhare",
+    "h1":"kuhare",
+    "title":"kuhare --- synonyms, prabhupada.io",
+    "description":"in the core of the heart."
+}
+---
 
 ==== antaḥ-karaṇa-kuhare  ====
   * in the core of the heart --- [[books:cc:antya:3:62|Antya 3.62]]

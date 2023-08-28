@@ -1,5 +1,11 @@
-~~Title:kūrpara~~
-{{description>an instrument.}}
+---json
+{
+    "name":"kūrpara",
+    "h1":"kūrpara",
+    "title":"kūrpara --- synonyms, prabhupada.io",
+    "description":"an instrument."
+}
+---
 
 ==== kūrpara  ====
   * an instrument --- [[books:cc:madhya:1:193|Madhya 1.193]]

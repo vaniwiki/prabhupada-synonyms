@@ -1,5 +1,11 @@
-~~Title:daksinah~~
-{{description>right; simple and liberal.}}
+---json
+{
+    "name":"daksinah",
+    "h1":"daksinah",
+    "title":"daksinah --- synonyms, prabhupada.io",
+    "description":"right; simple and liberal."
+}
+---
 
 ==== dakṣiṇaḥ  ====
   * right --- [[books:sb:4:29:9|SB 4.29.9]], [[books:sb:4:29:12|SB 4.29.12]]

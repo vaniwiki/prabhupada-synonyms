@@ -1,5 +1,11 @@
-~~Title:stuvan~~
-{{description>extolling; praising.}}
+---json
+{
+    "name":"stuvan",
+    "h1":"stuvan",
+    "title":"stuvan --- synonyms, prabhupada.io",
+    "description":"extolling; praising."
+}
+---
 
 ==== stuvan  ====
   * extolling --- [[books:sb:3:31:22|SB 3.31.22]]

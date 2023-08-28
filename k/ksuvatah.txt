@@ -1,5 +1,11 @@
-~~Title:kṣuvataḥ~~
-{{description>while sneezing.}}
+---json
+{
+    "name":"kṣuvataḥ",
+    "h1":"kṣuvataḥ",
+    "title":"kṣuvataḥ --- synonyms, prabhupada.io",
+    "description":"while sneezing."
+}
+---
 
 ==== kṣuvataḥ  ====
   * while sneezing --- [[books:sb:9:6:4|SB 9.6.4]]

@@ -1,5 +1,11 @@
-~~Title:janmi~~
-{{description>arising.}}
+---json
+{
+    "name":"janmi",
+    "h1":"janmi",
+    "title":"janmi --- synonyms, prabhupada.io",
+    "description":"arising."
+}
+---
 
 ==== janmi  ====
   * arising --- [[books:cc:antya:19:36|Antya 19.36]]

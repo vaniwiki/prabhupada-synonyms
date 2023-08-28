@@ -1,5 +1,11 @@
-~~Title:sudurlabham~~
-{{description>very rare.}}
+---json
+{
+    "name":"sudurlabham",
+    "h1":"sudurlabham",
+    "title":"sudurlabham --- synonyms, prabhupada.io",
+    "description":"very rare."
+}
+---
 
 ==== sudurlabham  ====
   * very rare --- [[books:sb:4:9:28|SB 4.9.28]]

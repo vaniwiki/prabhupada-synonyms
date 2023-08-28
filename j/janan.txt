@@ -1,5 +1,11 @@
-~~Title:janan~~
-{{description>people in general; the people in general.}}
+---json
+{
+    "name":"janan",
+    "h1":"janan",
+    "title":"janan --- synonyms, prabhupada.io",
+    "description":"people in general; the people in general."
+}
+---
 
 ==== janān  ====
   * people in general --- [[books:sb:1:4:17-18|SB 1.4.17-18]]

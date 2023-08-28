@@ -1,5 +1,11 @@
-~~Title:kbāila~~
-{{description>ate.}}
+---json
+{
+    "name":"kbāila",
+    "h1":"kbāila",
+    "title":"kbāila --- synonyms, prabhupada.io",
+    "description":"ate."
+}
+---
 
 ==== kbāila  ====
   * ate --- [[books:cc:madhya:7:86|Madhya 7.86]]

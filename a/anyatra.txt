@@ -1,5 +1,11 @@
-~~Title:anyatra~~
-{{description>any other time; anyone else; anything else; anywhere else; apart from; besides; elsewhere (in religious systems other than bhāgavata-dharma); elsewhere; except; in a different place; in another place; in other places; in other things (than such topics); or otherwise; otherwise; somewhere else; to a different place.}}
+---json
+{
+    "name":"anyatra",
+    "h1":"anyatra",
+    "title":"anyatra --- synonyms, prabhupada.io",
+    "description":"any other time; anyone else; anything else; anywhere else; apart from; besides; elsewhere (in religious systems other than bhāgavata-dharma); elsewhere; except; in a different place; in another place; in other places; in other things (than such topics); or otherwise; otherwise; somewhere else; to a different place."
+}
+---
 
 ==== anyatra  ====
   * any other time --- [[books:sb:9:14:22|SB 9.14.22]]

@@ -1,5 +1,11 @@
-~~Title:seva~~
-{{description>and service; in devotional service; of service; process of service; service; services; the service; with the service; worship.}}
+---json
+{
+    "name":"seva",
+    "h1":"seva",
+    "title":"seva --- synonyms, prabhupada.io",
+    "description":"and service; in devotional service; of service; process of service; service; services; the service; with the service; worship."
+}
+---
 
 ==== sevā  ====
   * and service --- [[books:cc:madhya:16:139|Madhya 16.139]]

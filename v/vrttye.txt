@@ -1,5 +1,11 @@
-~~Title:vṛttye~~
-{{description>by indirect meanings.}}
+---json
+{
+    "name":"vṛttye",
+    "h1":"vṛttye",
+    "title":"vṛttye --- synonyms, prabhupada.io",
+    "description":"by indirect meanings."
+}
+---
 
 ==== gauṇa-vṛttye  ====
   * by indirect meanings --- [[books:cc:adi:7:109|Ādi 7.109]]

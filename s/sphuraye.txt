@@ -1,5 +1,11 @@
-~~Title:sphuraye~~
-{{description>manifests within.}}
+---json
+{
+    "name":"sphuraye",
+    "h1":"sphuraye",
+    "title":"sphuraye --- synonyms, prabhupada.io",
+    "description":"manifests within."
+}
+---
 
 ==== sphuraye antare  ====
   * manifests within --- [[books:cc:madhya:19:236|Madhya 19.236]]

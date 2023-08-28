@@ -1,5 +1,11 @@
-~~Title:jānuka~~
-{{description>he may know; let him know.}}
+---json
+{
+    "name":"jānuka",
+    "h1":"jānuka",
+    "title":"jānuka --- synonyms, prabhupada.io",
+    "description":"he may know; let him know."
+}
+---
 
 ==== se jānuka  ====
   * he may know --- [[books:cc:antya:3:87|Antya 3.87]]

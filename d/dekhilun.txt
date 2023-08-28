@@ -1,5 +1,11 @@
-~~Title:dekhiluṅ~~
-{{description>have seen; I could see; I have seen; I saw.}}
+---json
+{
+    "name":"dekhiluṅ",
+    "h1":"dekhiluṅ",
+    "title":"dekhiluṅ --- synonyms, prabhupada.io",
+    "description":"have seen; I could see; I have seen; I saw."
+}
+---
 
 ==== dekhiluṅ  ====
   * have seen --- [[books:cc:madhya:21:82|Madhya 21.82]]

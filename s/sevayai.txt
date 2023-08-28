@@ -1,5 +1,11 @@
-~~Title:sevāyai~~
-{{description>to devotional service.}}
+---json
+{
+    "name":"sevāyai",
+    "h1":"sevāyai",
+    "title":"sevāyai --- synonyms, prabhupada.io",
+    "description":"to devotional service."
+}
+---
 
 ==== sevāyai  ====
   * to devotional service --- [[books:sb:3:23:56|SB 3.23.56]]

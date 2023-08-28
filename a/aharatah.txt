@@ -1,5 +1,11 @@
-~~Title:āhārataḥ~~
-{{description>from eating.}}
+---json
+{
+    "name":"āhārataḥ",
+    "h1":"āhārataḥ",
+    "title":"āhārataḥ --- synonyms, prabhupada.io",
+    "description":"from eating."
+}
+---
 
 ==== āhārataḥ  ====
   * from eating --- [[books:cc:antya:8:1|Antya 8.1]]

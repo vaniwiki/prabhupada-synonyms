@@ -1,5 +1,11 @@
-~~Title:vibhajasva~~
-{{description>just divide.}}
+---json
+{
+    "name":"vibhajasva",
+    "h1":"vibhajasva",
+    "title":"vibhajasva --- synonyms, prabhupada.io",
+    "description":"just divide."
+}
+---
 
 ==== vibhajasva  ====
   * just divide --- [[books:sb:8:9:7|SB 8.9.7]]

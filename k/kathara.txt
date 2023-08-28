@@ -1,5 +1,11 @@
-~~Title:kathāra~~
-{{description>of words.}}
+---json
+{
+    "name":"kathāra",
+    "h1":"kathāra",
+    "title":"kathāra --- synonyms, prabhupada.io",
+    "description":"of words."
+}
+---
 
 ==== kathāra  ====
   * of words --- [[books:cc:madhya:6:105|Madhya 6.105]]

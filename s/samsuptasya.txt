@@ -1,5 +1,11 @@
-~~Title:saṁsuptasya~~
-{{description>one who has enjoyed sound sleep.}}
+---json
+{
+    "name":"saṁsuptasya",
+    "h1":"saṁsuptasya",
+    "title":"saṁsuptasya --- synonyms, prabhupada.io",
+    "description":"one who has enjoyed sound sleep."
+}
+---
 
 ==== saṁsuptasya  ====
   * one who has enjoyed sound sleep --- [[books:sb:3:7:13|SB 3.7.13]]

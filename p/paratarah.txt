@@ -1,5 +1,11 @@
-~~Title:parataraḥ~~
-{{description>greater.}}
+---json
+{
+    "name":"parataraḥ",
+    "h1":"parataraḥ",
+    "title":"parataraḥ --- synonyms, prabhupada.io",
+    "description":"greater."
+}
+---
 
 ==== parataraḥ  ====
   * greater --- [[books:sb:4:22:32|SB 4.22.32]]

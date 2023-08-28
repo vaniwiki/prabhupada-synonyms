@@ -1,5 +1,11 @@
-~~Title:asra~~
-{{description>of tears.}}
+---json
+{
+    "name":"asra",
+    "h1":"asra",
+    "title":"asra --- synonyms, prabhupada.io",
+    "description":"of tears."
+}
+---
 
 ==== asra  ====
   * of tears --- [[books:sb:4:9:48|SB 4.9.48]]

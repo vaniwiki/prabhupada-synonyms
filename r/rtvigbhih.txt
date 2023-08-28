@@ -1,5 +1,11 @@
-~~Title:ṛtvigbhiḥ~~
-{{description>by priests; with the priests.}}
+---json
+{
+    "name":"ṛtvigbhiḥ",
+    "h1":"ṛtvigbhiḥ",
+    "title":"ṛtvigbhiḥ --- synonyms, prabhupada.io",
+    "description":"by priests; with the priests."
+}
+---
 
 ==== ṛtvigbhiḥ  ====
   * by priests --- [[books:sb:9:13:3|SB 9.13.3]]

@@ -1,5 +1,11 @@
-~~Title:bandhūn~~
-{{description>all relatives; friends; His many friends; relatives.}}
+---json
+{
+    "name":"bandhūn",
+    "h1":"bandhūn",
+    "title":"bandhūn --- synonyms, prabhupada.io",
+    "description":"all relatives; friends; His many friends; relatives."
+}
+---
 
 ==== bandhūn  ====
   * all relatives --- [[books:sb:2:10:48|SB 2.10.48]]

@@ -1,5 +1,11 @@
-~~Title:manasau~~
-{{description>being very much pleased.}}
+---json
+{
+    "name":"manasau",
+    "h1":"manasau",
+    "title":"manasau --- synonyms, prabhupada.io",
+    "description":"being very much pleased."
+}
+---
 
 ==== hṛṣṭa-manasau  ====
   * being very much pleased --- [[books:sb:10:8:22|SB 10.8.22]]

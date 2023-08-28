@@ -1,5 +1,11 @@
-~~Title:caturṇām~~
-{{description>of the four.}}
+---json
+{
+    "name":"caturṇām",
+    "h1":"caturṇām",
+    "title":"caturṇām --- synonyms, prabhupada.io",
+    "description":"of the four."
+}
+---
 
 ==== caturṇām  ====
   * of the four --- [[books:sb:4:23:35|SB 4.23.35]]

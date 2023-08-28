@@ -1,5 +1,11 @@
-~~Title:kuṭilayā~~
-{{description>arched.}}
+---json
+{
+    "name":"kuṭilayā",
+    "h1":"kuṭilayā",
+    "title":"kuṭilayā --- synonyms, prabhupada.io",
+    "description":"arched."
+}
+---
 
 ==== kuṭilayā  ====
   * arched --- [[books:sb:3:15:28|SB 3.15.28]]

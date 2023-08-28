@@ -1,5 +1,11 @@
-~~Title:uttambhita~~
-{{description>slightly raised.}}
+---json
+{
+    "name":"uttambhita",
+    "h1":"uttambhita",
+    "title":"uttambhita --- synonyms, prabhupada.io",
+    "description":"slightly raised."
+}
+---
 
 ==== kiñcit-uttambhita  ====
   * slightly raised --- [[books:sb:5:18:16|SB 5.18.16]]

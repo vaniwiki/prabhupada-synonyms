@@ -1,5 +1,11 @@
-~~Title:kūlān~~
-{{description>the upper portion facing east.}}
+---json
+{
+    "name":"kūlān",
+    "h1":"kūlān",
+    "title":"kūlān --- synonyms, prabhupada.io",
+    "description":"the upper portion facing east."
+}
+---
 
 ==== prāk-kūlān  ====
   * the upper portion facing east --- [[books:sb:8:24:40|SB 8.24.40]]

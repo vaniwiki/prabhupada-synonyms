@@ -1,5 +1,11 @@
-~~Title:pātiyāya~~
-{{description>can believe.}}
+---json
+{
+    "name":"pātiyāya",
+    "h1":"pātiyāya",
+    "title":"pātiyāya --- synonyms, prabhupada.io",
+    "description":"can believe."
+}
+---
 
 ==== pātiyāya  ====
   * can believe --- [[books:cc:antya:16:131|Antya 16.131]]

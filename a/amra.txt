@@ -1,5 +1,11 @@
-~~Title:āmra~~
-{{description>mango; mango pulp; mangoes; O mango tree.}}
+---json
+{
+    "name":"āmra",
+    "h1":"āmra",
+    "title":"āmra --- synonyms, prabhupada.io",
+    "description":"mango; mango pulp; mangoes; O mango tree."
+}
+---
 
 ==== āmra  ====
   * mango --- [[books:cc:madhya:14:26|Madhya 14.26]], [[books:cc:antya:18:104|Antya 18.104]]

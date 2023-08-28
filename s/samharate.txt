@@ -1,5 +1,11 @@
-~~Title:saṁharate~~
-{{description>winds up.}}
+---json
+{
+    "name":"saṁharate",
+    "h1":"saṁharate",
+    "title":"saṁharate --- synonyms, prabhupada.io",
+    "description":"winds up."
+}
+---
 
 ==== saṁharate  ====
   * winds up --- [[books:bg:2:58|Bg. 2.58]]

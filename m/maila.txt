@@ -1,5 +1,11 @@
-~~Title:maila~~
-{{description>die.}}
+---json
+{
+    "name":"maila",
+    "h1":"maila",
+    "title":"maila --- synonyms, prabhupada.io",
+    "description":"die."
+}
+---
 
 ==== maila  ====
   * die --- [[books:cc:adi:13:123|Ādi 13.123]]

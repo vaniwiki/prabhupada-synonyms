@@ -1,5 +1,11 @@
-~~Title:avabhātam~~
-{{description>manifested.}}
+---json
+{
+    "name":"avabhātam",
+    "h1":"avabhātam",
+    "title":"avabhātam --- synonyms, prabhupada.io",
+    "description":"manifested."
+}
+---
 
 ==== avabhātam  ====
   * manifested --- [[books:sb:3:8:22|SB 3.8.22]]

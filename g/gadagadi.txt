@@ -1,5 +1,11 @@
-~~Title:gaḍāgaḍi~~
-{{description>rolling on the ground.}}
+---json
+{
+    "name":"gaḍāgaḍi",
+    "h1":"gaḍāgaḍi",
+    "title":"gaḍāgaḍi --- synonyms, prabhupada.io",
+    "description":"rolling on the ground."
+}
+---
 
 ==== gaḍāgaḍi  ====
   * rolling on the ground --- [[books:cc:madhya:17:221|Madhya 17.221]]

@@ -1,5 +1,11 @@
-~~Title:parera~~
-{{description>by another.}}
+---json
+{
+    "name":"parera",
+    "h1":"parera",
+    "title":"parera --- synonyms, prabhupada.io",
+    "description":"by another."
+}
+---
 
 ==== parera  ====
   * by another --- [[books:cc:antya:4:88|Antya 4.88]]

@@ -1,5 +1,11 @@
-~~Title:upeta~~
-{{description>combined; mixed; one should approach.}}
+---json
+{
+    "name":"upeta",
+    "h1":"upeta",
+    "title":"upeta --- synonyms, prabhupada.io",
+    "description":"combined; mixed; one should approach."
+}
+---
 
 ==== upeta  ====
   * combined --- [[books:sb:5:18:17|SB 5.18.17]]

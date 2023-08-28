@@ -1,5 +1,11 @@
-~~Title:niṣṇātam~~
-{{description>absorbed.}}
+---json
+{
+    "name":"niṣṇātam",
+    "h1":"niṣṇātam",
+    "title":"niṣṇātam --- synonyms, prabhupada.io",
+    "description":"absorbed."
+}
+---
 
 ==== niṣṇātam  ====
   * absorbed --- [[books:sb:3:22:34|SB 3.22.34]]

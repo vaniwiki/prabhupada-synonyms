@@ -1,5 +1,11 @@
-~~Title:pranah~~
-{{description>air of life; breathing air; life; life air; living energy; moving force; Prāṇa; the life; the life air; the living energy; the living force; the vital force.}}
+---json
+{
+    "name":"pranah",
+    "h1":"pranah",
+    "title":"pranah --- synonyms, prabhupada.io",
+    "description":"air of life; breathing air; life; life air; living energy; moving force; Prāṇa; the life; the life air; the living energy; the living force; the vital force."
+}
+---
 
 ==== prāṇaḥ  ====
   * air of life --- [[books:sb:3:7:23|SB 3.7.23]]

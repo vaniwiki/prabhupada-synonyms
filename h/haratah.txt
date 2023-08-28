@@ -1,5 +1,11 @@
-~~Title:harataḥ~~
-{{description>taking away.}}
+---json
+{
+    "name":"harataḥ",
+    "h1":"harataḥ",
+    "title":"harataḥ --- synonyms, prabhupada.io",
+    "description":"taking away."
+}
+---
 
 ==== harataḥ  ====
   * taking away --- [[books:sb:4:29:54|SB 4.29.54]], [[books:sb:5:14:29|SB 5.14.29]]

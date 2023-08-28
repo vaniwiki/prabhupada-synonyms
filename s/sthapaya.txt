@@ -1,5 +1,11 @@
-~~Title:sthāpaya~~
-{{description>establishes; please keep.}}
+---json
+{
+    "name":"sthāpaya",
+    "h1":"sthāpaya",
+    "title":"sthāpaya --- synonyms, prabhupada.io",
+    "description":"establishes; please keep."
+}
+---
 
 ==== sthāpaya  ====
   * establishes --- [[books:cc:madhya:9:44|Madhya 9.44]]

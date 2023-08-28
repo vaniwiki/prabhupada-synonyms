@@ -1,5 +1,11 @@
-~~Title:unnīya~~
-{{description>having raised.}}
+---json
+{
+    "name":"unnīya",
+    "h1":"unnīya",
+    "title":"unnīya --- synonyms, prabhupada.io",
+    "description":"having raised."
+}
+---
 
 ==== unnīya  ====
   * having raised --- [[books:sb:4:25:31|SB 4.25.31]]

@@ -1,5 +1,11 @@
-~~Title:vijayinaḥ~~
-{{description>great heroes who have conquered all directions.}}
+---json
+{
+    "name":"vijayinaḥ",
+    "h1":"vijayinaḥ",
+    "title":"vijayinaḥ --- synonyms, prabhupada.io",
+    "description":"great heroes who have conquered all directions."
+}
+---
 
 ==== dik-vijayinaḥ  ====
   * great heroes who have conquered all directions --- [[books:sb:9:10:15|SB 9.10.15]]

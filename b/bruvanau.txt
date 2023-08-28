@@ -1,5 +1,11 @@
-~~Title:bruvāṇau~~
-{{description>speaking.}}
+---json
+{
+    "name":"bruvāṇau",
+    "h1":"bruvāṇau",
+    "title":"bruvāṇau --- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== bruvāṇau  ====
   * speaking --- [[books:sb:6:12:23|SB 6.12.23]]

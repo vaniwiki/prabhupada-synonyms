@@ -1,5 +1,11 @@
-~~Title:dekhinu~~
-{{description>have studied; I have seen; I saw; saw.}}
+---json
+{
+    "name":"dekhinu",
+    "h1":"dekhinu",
+    "title":"dekhinu --- synonyms, prabhupada.io",
+    "description":"have studied; I have seen; I saw; saw."
+}
+---
 
 ==== dekhinu  ====
   * have studied --- [[books:cc:madhya:18:202|Madhya 18.202]]

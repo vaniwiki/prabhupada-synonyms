@@ -1,5 +1,11 @@
-~~Title:prayayau~~
-{{description>departed from that place; He went; left (that place); left that place; returned; went.}}
+---json
+{
+    "name":"prayayau",
+    "h1":"prayayau",
+    "title":"prayayau --- synonyms, prabhupada.io",
+    "description":"departed from that place; He went; left (that place); left that place; returned; went."
+}
+---
 
 ==== prayayau  ====
   * departed from that place --- [[books:sb:6:5:32|SB 6.5.32]]

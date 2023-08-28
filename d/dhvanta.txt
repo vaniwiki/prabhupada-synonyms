@@ -1,5 +1,11 @@
-~~Title:dhvānta~~
-{{description>of ignorance.}}
+---json
+{
+    "name":"dhvānta",
+    "h1":"dhvānta",
+    "title":"dhvānta --- synonyms, prabhupada.io",
+    "description":"of ignorance."
+}
+---
 
 ==== dhvānta  ====
   * of ignorance --- [[books:cc:antya:3:62|Antya 3.62]]

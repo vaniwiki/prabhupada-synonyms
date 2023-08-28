@@ -1,5 +1,11 @@
-~~Title:kṣetra~~
-{{description>agricultural fields; body; field; field of activities (the body); holy places like the temple or Vṛndāvana and Dvārakā; land; the body; the place of pilgrimage.}}
+---json
+{
+    "name":"kṣetra",
+    "h1":"kṣetra",
+    "title":"kṣetra --- synonyms, prabhupada.io",
+    "description":"agricultural fields; body; field; field of activities (the body); holy places like the temple or Vṛndāvana and Dvārakā; land; the body; the place of pilgrimage."
+}
+---
 
 ==== kṣetra  ====
   * agricultural fields --- [[books:sb:7:2:14|SB 7.2.14]]

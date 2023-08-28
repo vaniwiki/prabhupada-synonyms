@@ -1,5 +1,11 @@
-~~Title:piśaṅga~~
-{{description>dress of the color; yellow; yellowish.}}
+---json
+{
+    "name":"piśaṅga",
+    "h1":"piśaṅga",
+    "title":"piśaṅga --- synonyms, prabhupada.io",
+    "description":"dress of the color; yellow; yellowish."
+}
+---
 
 ==== piśaṅga  ====
   * dress of the color --- [[books:sb:3:8:28|SB 3.8.28]]

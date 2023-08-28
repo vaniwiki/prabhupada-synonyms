@@ -1,5 +1,11 @@
-~~Title:paitāmaham~~
-{{description>forefather.}}
+---json
+{
+    "name":"paitāmaham",
+    "h1":"paitāmaham",
+    "title":"paitāmaham --- synonyms, prabhupada.io",
+    "description":"forefather."
+}
+---
 
 ==== paitāmaham  ====
   * forefather --- [[books:sb:1:9:49|SB 1.9.49]]

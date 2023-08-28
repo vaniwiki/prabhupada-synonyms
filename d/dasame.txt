@@ -1,5 +1,11 @@
-~~Title:daśame~~
-{{description>in the Tenth Canto; in the Tenth Chapter.}}
+---json
+{
+    "name":"daśame",
+    "h1":"daśame",
+    "title":"daśame --- synonyms, prabhupada.io",
+    "description":"in the Tenth Canto; in the Tenth Chapter."
+}
+---
 
 ==== daśame  ====
   * in the Tenth Canto --- [[books:cc:adi:2:95|Ādi 2.95]], [[books:cc:madhya:20:151|Madhya 20.151]]

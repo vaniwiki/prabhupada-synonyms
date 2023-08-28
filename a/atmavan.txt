@@ -1,5 +1,11 @@
-~~Title:atmavan~~
-{{description>a self-realized soul; consciousness; conversant with the self; engaged in devotional service in meditation with great attention; established in the Self; fully self-realized; having conquered his senses; self-realized; self-realized person; the controller of the senses; very learned scholar; well advanced in spiritual knowledge.}}
+---json
+{
+    "name":"atmavan",
+    "h1":"atmavan",
+    "title":"atmavan --- synonyms, prabhupada.io",
+    "description":"a self-realized soul; consciousness; conversant with the self; engaged in devotional service in meditation with great attention; established in the Self; fully self-realized; having conquered his senses; self-realized; self-realized person; the controller of the senses; very learned scholar; well advanced in spiritual knowledge."
+}
+---
 
 ==== ātmavān  ====
   * a self-realized soul --- [[books:sb:9:17:12|SB 9.17.12]]

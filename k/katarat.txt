@@ -1,5 +1,11 @@
-~~Title:katarat~~
-{{description>which.}}
+---json
+{
+    "name":"katarat",
+    "h1":"katarat",
+    "title":"katarat --- synonyms, prabhupada.io",
+    "description":"which."
+}
+---
 
 ==== katarat  ====
   * which --- [[books:bg:2:6|Bg. 2.6]]

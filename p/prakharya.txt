@@ -1,5 +1,11 @@
-~~Title:prākharya~~
-{{description>talkativeness.}}
+---json
+{
+    "name":"prākharya",
+    "h1":"prākharya",
+    "title":"prākharya --- synonyms, prabhupada.io",
+    "description":"talkativeness."
+}
+---
 
 ==== prākharya  ====
   * talkativeness --- [[books:cc:madhya:14:153|Madhya 14.153]]

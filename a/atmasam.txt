@@ -1,5 +1,11 @@
-~~Title:ātmasam~~
-{{description>just suitable for his position.}}
+---json
+{
+    "name":"ātmasam",
+    "h1":"ātmasam",
+    "title":"ātmasam --- synonyms, prabhupada.io",
+    "description":"just suitable for his position."
+}
+---
 
 ==== ātmasam  ====
   * just suitable for his position --- [[books:sb:5:1:21|SB 5.1.21]]

@@ -1,5 +1,11 @@
-~~Title:vādinyau~~
-{{description>impersonalists.}}
+---json
+{
+    "name":"vādinyau",
+    "h1":"vādinyau",
+    "title":"vādinyau --- synonyms, prabhupada.io",
+    "description":"impersonalists."
+}
+---
 
 ==== brahma-vādinyau  ====
   * impersonalists --- [[books:sb:4:1:64|SB 4.1.64]]

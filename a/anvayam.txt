@@ -1,5 +1,11 @@
-~~Title:anvayam~~
-{{description>the dynasty.}}
+---json
+{
+    "name":"anvayam",
+    "h1":"anvayam",
+    "title":"anvayam --- synonyms, prabhupada.io",
+    "description":"the dynasty."
+}
+---
 
 ==== anvayam  ====
   * the dynasty --- [[books:sb:9:17:1-3|SB 9.17.1-3]]

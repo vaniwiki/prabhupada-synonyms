@@ -1,5 +1,11 @@
-~~Title:adam~~
-{{description>delivered; handed over.}}
+---json
+{
+    "name":"adam",
+    "h1":"adam",
+    "title":"adam --- synonyms, prabhupada.io",
+    "description":"delivered; handed over."
+}
+---
 
 ==== adām  ====
   * delivered --- [[books:sb:1:15:8|SB 1.15.8]]

@@ -1,5 +1,11 @@
-~~Title:pratnasya~~
-{{description>of the oldest person.}}
+---json
+{
+    "name":"pratnasya",
+    "h1":"pratnasya",
+    "title":"pratnasya --- synonyms, prabhupada.io",
+    "description":"of the oldest person."
+}
+---
 
 ==== pratnasya  ====
   * of the oldest person --- [[books:sb:5:20:5|SB 5.20.5]]

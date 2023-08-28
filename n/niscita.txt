@@ -1,5 +1,11 @@
-~~Title:niscita~~
-{{description>ascertained; conclusion; for certain.}}
+---json
+{
+    "name":"niscita",
+    "h1":"niscita",
+    "title":"niscita --- synonyms, prabhupada.io",
+    "description":"ascertained; conclusion; for certain."
+}
+---
 
 ==== niścita  ====
   * ascertained --- [[books:cc:madhya:17:163|Madhya 17.163]]

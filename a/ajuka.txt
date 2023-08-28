@@ -1,5 +1,11 @@
-~~Title:ājuka~~
-{{description>today.}}
+---json
+{
+    "name":"ājuka",
+    "h1":"ājuka",
+    "title":"ājuka --- synonyms, prabhupada.io",
+    "description":"today."
+}
+---
 
 ==== ājuka  ====
   * today --- [[books:cc:madhya:3:114|Madhya 3.114]]

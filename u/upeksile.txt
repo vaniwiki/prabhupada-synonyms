@@ -1,5 +1,11 @@
-~~Title:upekṣile~~
-{{description>if You do not accept the bedding.}}
+---json
+{
+    "name":"upekṣile",
+    "h1":"upekṣile",
+    "title":"upekṣile --- synonyms, prabhupada.io",
+    "description":"if You do not accept the bedding."
+}
+---
 
 ==== śayyā upekṣile  ====
   * if You do not accept the bedding --- [[books:cc:antya:13:13|Antya 13.13]]

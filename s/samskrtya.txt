@@ -1,5 +1,11 @@
-~~Title:saṁskṛtya~~
-{{description>completely purifying.}}
+---json
+{
+    "name":"saṁskṛtya",
+    "h1":"saṁskṛtya",
+    "title":"saṁskṛtya --- synonyms, prabhupada.io",
+    "description":"completely purifying."
+}
+---
 
 ==== su-saṁskṛtya  ====
   * completely purifying --- [[books:cc:madhya:25:1|Madhya 25.1]]

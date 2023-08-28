@@ -1,5 +1,11 @@
-~~Title:nirlajja~~
-{{description>shameless; without shame.}}
+---json
+{
+    "name":"nirlajja",
+    "h1":"nirlajja",
+    "title":"nirlajja --- synonyms, prabhupada.io",
+    "description":"shameless; without shame."
+}
+---
 
 ==== nirlajja  ====
   * shameless --- [[books:cc:antya:16:136|Antya 16.136]]

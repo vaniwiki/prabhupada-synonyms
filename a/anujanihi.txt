@@ -1,5 +1,11 @@
-~~Title:anujānīhi~~
-{{description>may we have permission; please let me know.}}
+---json
+{
+    "name":"anujānīhi",
+    "h1":"anujānīhi",
+    "title":"anujānīhi --- synonyms, prabhupada.io",
+    "description":"may we have permission; please let me know."
+}
+---
 
 ==== anujānīhi  ====
   * may we have permission --- [[books:sb:10:10:37|SB 10.10.37]]

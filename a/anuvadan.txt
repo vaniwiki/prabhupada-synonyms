@@ -1,5 +1,11 @@
-~~Title:anuvadan~~
-{{description>began to repeat.}}
+---json
+{
+    "name":"anuvadan",
+    "h1":"anuvadan",
+    "title":"anuvadan --- synonyms, prabhupada.io",
+    "description":"began to repeat."
+}
+---
 
 ==== anuvadan  ====
   * began to repeat --- [[books:sb:4:21:20|SB 4.21.20]]

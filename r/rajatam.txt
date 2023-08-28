@@ -1,5 +1,11 @@
-~~Title:rajatam~~
-{{description>gold coins; silver.}}
+---json
+{
+    "name":"rajatam",
+    "h1":"rajatam",
+    "title":"rajatam --- synonyms, prabhupada.io",
+    "description":"gold coins; silver."
+}
+---
 
 ==== rajatam  ====
   * gold coins --- [[books:sb:3:3:27|SB 3.3.27]]

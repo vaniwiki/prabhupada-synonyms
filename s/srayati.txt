@@ -1,5 +1,11 @@
-~~Title:śrayati~~
-{{description>takes shelter of.}}
+---json
+{
+    "name":"śrayati",
+    "h1":"śrayati",
+    "title":"śrayati --- synonyms, prabhupada.io",
+    "description":"takes shelter of."
+}
+---
 
 ==== śrayati  ====
   * takes shelter of --- [[books:cc:madhya:8:206|Madhya 8.206]]

@@ -1,5 +1,11 @@
-~~Title:yacchati~~
-{{description>awards; is turned.}}
+---json
+{
+    "name":"yacchati",
+    "h1":"yacchati",
+    "title":"yacchati --- synonyms, prabhupada.io",
+    "description":"awards; is turned."
+}
+---
 
 ==== yacchati  ====
   * awards --- [[books:sb:3:5:4|SB 3.5.4]]

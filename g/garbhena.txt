@@ -1,5 +1,11 @@
-~~Title:garbheṇa~~
-{{description>laden with love.}}
+---json
+{
+    "name":"garbheṇa",
+    "h1":"garbheṇa",
+    "title":"garbheṇa --- synonyms, prabhupada.io",
+    "description":"laden with love."
+}
+---
 
 ==== prema-garbheṇa  ====
   * laden with love --- [[books:sb:3:19:1|SB 3.19.1]]

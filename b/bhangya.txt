@@ -1,5 +1,11 @@
-~~Title:bhaṅgyā~~
-{{description>by a trick.}}
+---json
+{
+    "name":"bhaṅgyā",
+    "h1":"bhaṅgyā",
+    "title":"bhaṅgyā --- synonyms, prabhupada.io",
+    "description":"by a trick."
+}
+---
 
 ==== bhaṅgyā  ====
   * by a trick --- [[books:cc:antya:6:1|Antya 6.1]]

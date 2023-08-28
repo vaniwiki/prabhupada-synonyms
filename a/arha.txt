@@ -1,5 +1,11 @@
-~~Title:arha~~
-{{description>and recipient; Arha; as it fits; for worshipable, saintly persons; that which is only worshipable.}}
+---json
+{
+    "name":"arha",
+    "h1":"arha",
+    "title":"arha --- synonyms, prabhupada.io",
+    "description":"and recipient; Arha; as it fits; for worshipable, saintly persons; that which is only worshipable."
+}
+---
 
 ==== arha  ====
   * and recipient --- [[books:sb:8:23:16|SB 8.23.16]]

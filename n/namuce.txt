@@ -1,5 +1,11 @@
-~~Title:namuce~~
-{{description>Namuci; O Namuci.}}
+---json
+{
+    "name":"namuce",
+    "h1":"namuce",
+    "title":"namuce --- synonyms, prabhupada.io",
+    "description":"Namuci; O Namuci."
+}
+---
 
 ==== namuce  ====
   * Namuci --- [[books:sb:7:2:4-5|SB 7.2.4-5]]

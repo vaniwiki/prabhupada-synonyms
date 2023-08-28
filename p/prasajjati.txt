@@ -1,5 +1,11 @@
-~~Title:prasajjati~~
-{{description>becomes more and more attached.}}
+---json
+{
+    "name":"prasajjati",
+    "h1":"prasajjati",
+    "title":"prasajjati --- synonyms, prabhupada.io",
+    "description":"becomes more and more attached."
+}
+---
 
 ==== prasajjati  ====
   * becomes more and more attached --- [[books:sb:5:13:16|SB 5.13.16]]

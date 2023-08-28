@@ -1,5 +1,11 @@
-~~Title:apatrapaḥ~~
-{{description>without shame.}}
+---json
+{
+    "name":"apatrapaḥ",
+    "h1":"apatrapaḥ",
+    "title":"apatrapaḥ --- synonyms, prabhupada.io",
+    "description":"without shame."
+}
+---
 
 ==== apatrapaḥ  ====
   * without shame --- [[books:sb:7:15:36|SB 7.15.36]]

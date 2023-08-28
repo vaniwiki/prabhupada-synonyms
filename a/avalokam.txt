@@ -1,5 +1,11 @@
-~~Title:avalokam~~
-{{description>glances; with glances.}}
+---json
+{
+    "name":"avalokam",
+    "h1":"avalokam",
+    "title":"avalokam --- synonyms, prabhupada.io",
+    "description":"glances; with glances."
+}
+---
 
 ==== avalokam  ====
   * glances --- [[books:sb:3:28:31|SB 3.28.31]]

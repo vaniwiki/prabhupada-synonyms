@@ -1,5 +1,11 @@
-~~Title:navamam~~
-{{description>the ninth one.}}
+---json
+{
+    "name":"navamam",
+    "h1":"navamam",
+    "title":"navamam --- synonyms, prabhupada.io",
+    "description":"the ninth one."
+}
+---
 
 ==== navamam  ====
   * the ninth one --- [[books:sb:1:3:14|SB 1.3.14]]

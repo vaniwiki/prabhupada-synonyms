@@ -1,5 +1,11 @@
-~~Title:pariplutam~~
-{{description>overflowed.}}
+---json
+{
+    "name":"pariplutam",
+    "h1":"pariplutam",
+    "title":"pariplutam --- synonyms, prabhupada.io",
+    "description":"overflowed."
+}
+---
 
 ==== pariplutam  ====
   * overflowed --- [[books:sb:3:21:38-39|SB 3.21.38-39]]

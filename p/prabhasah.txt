@@ -1,5 +1,11 @@
-~~Title:prabhāsaḥ~~
-{{description>Prabhāsakṣetra.}}
+---json
+{
+    "name":"prabhāsaḥ",
+    "h1":"prabhāsaḥ",
+    "title":"prabhāsaḥ --- synonyms, prabhupada.io",
+    "description":"Prabhāsakṣetra."
+}
+---
 
 ==== prabhāsaḥ  ====
   * Prabhāsakṣetra --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

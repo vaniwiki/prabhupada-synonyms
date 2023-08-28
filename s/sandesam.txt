@@ -1,5 +1,11 @@
-~~Title:sandeśam~~
-{{description>our desire; the direction.}}
+---json
+{
+    "name":"sandeśam",
+    "h1":"sandeśam",
+    "title":"sandeśam --- synonyms, prabhupada.io",
+    "description":"our desire; the direction."
+}
+---
 
 ==== sandeśam  ====
   * our desire --- [[books:sb:6:7:31|SB 6.7.31]]

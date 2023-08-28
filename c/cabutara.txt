@@ -1,5 +1,11 @@
-~~Title:cabutarā~~
-{{description>on the raised platform.}}
+---json
+{
+    "name":"cabutarā",
+    "h1":"cabutarā",
+    "title":"cabutarā --- synonyms, prabhupada.io",
+    "description":"on the raised platform."
+}
+---
 
 ==== cabutarā-upare  ====
   * on the raised platform --- [[books:cc:antya:6:60|Antya 6.60]]

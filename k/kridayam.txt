@@ -1,5 +1,11 @@
-~~Title:krīḍāyām~~
-{{description>in the matter of playing.}}
+---json
+{
+    "name":"krīḍāyām",
+    "h1":"krīḍāyām",
+    "title":"krīḍāyām --- synonyms, prabhupada.io",
+    "description":"in the matter of playing."
+}
+---
 
 ==== krīḍāyām  ====
   * in the matter of playing --- [[books:sb:3:7:3|SB 3.7.3]]

@@ -1,5 +1,11 @@
-~~Title:kauṇapāḥ~~
-{{description>the demons.}}
+---json
+{
+    "name":"kauṇapāḥ",
+    "h1":"kauṇapāḥ",
+    "title":"kauṇapāḥ --- synonyms, prabhupada.io",
+    "description":"the demons."
+}
+---
 
 ==== kauṇapāḥ  ====
   * the demons --- [[books:sb:10:12:29|SB 10.12.29]]

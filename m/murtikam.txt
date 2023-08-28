@@ -1,5 +1,11 @@
-~~Title:mūrtikam~~
-{{description>although one.}}
+---json
+{
+    "name":"mūrtikam",
+    "h1":"mūrtikam",
+    "title":"mūrtikam --- synonyms, prabhupada.io",
+    "description":"although one."
+}
+---
 
 ==== eka-mūrtikam  ====
   * although one --- [[books:cc:madhya:20:173|Madhya 20.173]]

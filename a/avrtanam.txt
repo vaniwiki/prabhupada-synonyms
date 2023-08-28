@@ -1,5 +1,11 @@
-~~Title:āvṛtānām~~
-{{description>those who are covered in that way.}}
+---json
+{
+    "name":"āvṛtānām",
+    "h1":"āvṛtānām",
+    "title":"āvṛtānām --- synonyms, prabhupada.io",
+    "description":"those who are covered in that way."
+}
+---
 
 ==== āvṛtānām  ====
   * those who are covered in that way --- [[books:sb:4:22:37|SB 4.22.37]]

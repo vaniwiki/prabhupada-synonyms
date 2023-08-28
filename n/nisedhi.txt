@@ -1,5 +1,11 @@
-~~Title:nisedhi~~
-{{description>forbid; forbidding.}}
+---json
+{
+    "name":"nisedhi",
+    "h1":"nisedhi",
+    "title":"nisedhi --- synonyms, prabhupada.io",
+    "description":"forbid; forbidding."
+}
+---
 
 ==== niṣedhi  ====
   * forbid --- [[books:cc:antya:18:59|Antya 18.59]]

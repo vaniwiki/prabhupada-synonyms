@@ -1,5 +1,11 @@
-~~Title:yavanere~~
-{{description>from the meat-eaters.}}
+---json
+{
+    "name":"yavanere",
+    "h1":"yavanere",
+    "title":"yavanere --- synonyms, prabhupada.io",
+    "description":"from the meat-eaters."
+}
+---
 
 ==== yavanere  ====
   * from the meat-eaters --- [[books:cc:adi:17:196|Ādi 17.196]]

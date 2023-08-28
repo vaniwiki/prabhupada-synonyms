@@ -1,5 +1,11 @@
-~~Title:bhartaḥ~~
-{{description>O husband; O my Lord.}}
+---json
+{
+    "name":"bhartaḥ",
+    "h1":"bhartaḥ",
+    "title":"bhartaḥ --- synonyms, prabhupada.io",
+    "description":"O husband; O my Lord."
+}
+---
 
 ==== bhartaḥ  ====
   * O husband --- [[books:sb:3:23:10|SB 3.23.10]]

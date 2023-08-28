@@ -1,5 +1,11 @@
-~~Title:maru~~
-{{description>desertlike; Rajasthan, the land of deserts.}}
+---json
+{
+    "name":"maru",
+    "h1":"maru",
+    "title":"maru --- synonyms, prabhupada.io",
+    "description":"desertlike; Rajasthan, the land of deserts."
+}
+---
 
 ==== maru  ====
   * desertlike --- [[books:cc:adi:2:2|Ādi 2.2]]

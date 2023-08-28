@@ -1,5 +1,11 @@
-~~Title:nadīra~~
-{{description>of the rivers.}}
+---json
+{
+    "name":"nadīra",
+    "h1":"nadīra",
+    "title":"nadīra --- synonyms, prabhupada.io",
+    "description":"of the rivers."
+}
+---
 
 ==== nadīra  ====
   * of the rivers --- [[books:cc:antya:16:147|Antya 16.147]]

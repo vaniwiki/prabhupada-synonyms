@@ -1,5 +1,11 @@
-~~Title:anukṣaṇe~~
-{{description>every moment.}}
+---json
+{
+    "name":"anukṣaṇe",
+    "h1":"anukṣaṇe",
+    "title":"anukṣaṇe --- synonyms, prabhupada.io",
+    "description":"every moment."
+}
+---
 
 ==== anukṣaṇe  ====
   * every moment --- [[books:cc:antya:19:31|Antya 19.31]]

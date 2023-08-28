@@ -1,5 +1,11 @@
-~~Title:hina~~
-{{description>bereft of; bereft of all good qualities; condemned; inferior; low; lower; nil; or lower; without.}}
+---json
+{
+    "name":"hina",
+    "h1":"hina",
+    "title":"hina --- synonyms, prabhupada.io",
+    "description":"bereft of; bereft of all good qualities; condemned; inferior; low; lower; nil; or lower; without."
+}
+---
 
 ==== hīna  ====
   * bereft of --- [[books:sb:4:14:39-40|SB 4.14.39-40]]

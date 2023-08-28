@@ -1,5 +1,11 @@
-~~Title:dhuyā~~
-{{description>refrain.}}
+---json
+{
+    "name":"dhuyā",
+    "h1":"dhuyā",
+    "title":"dhuyā --- synonyms, prabhupada.io",
+    "description":"refrain."
+}
+---
 
 ==== dhuyā  ====
   * refrain --- [[books:cc:madhya:13:125|Madhya 13.125]]

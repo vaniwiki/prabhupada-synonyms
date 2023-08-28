@@ -1,5 +1,11 @@
-~~Title:nibhān~~
-{{description>like the water in a mirage in the desert.}}
+---json
+{
+    "name":"nibhān",
+    "h1":"nibhān",
+    "title":"nibhān --- synonyms, prabhupada.io",
+    "description":"like the water in a mirage in the desert."
+}
+---
 
 ==== ātapa-udaka-nibhān  ====
   * like the water in a mirage in the desert --- [[books:sb:5:14:6|SB 5.14.6]]

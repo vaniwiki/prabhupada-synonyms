@@ -1,5 +1,11 @@
-~~Title:prabodhila~~
-{{description>pacified.}}
+---json
+{
+    "name":"prabodhila",
+    "h1":"prabodhila",
+    "title":"prabodhila --- synonyms, prabhupada.io",
+    "description":"pacified."
+}
+---
 
 ==== prabodhila  ====
   * pacified --- [[books:cc:adi:15:24|Ādi 15.24]]

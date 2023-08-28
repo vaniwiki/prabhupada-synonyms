@@ -1,5 +1,11 @@
-~~Title:upavistah~~
-{{description>sitting.}}
+---json
+{
+    "name":"upavistah",
+    "h1":"upavistah",
+    "title":"upavistah --- synonyms, prabhupada.io",
+    "description":"sitting."
+}
+---
 
 ==== upaviṣṭāḥ  ====
   * sitting --- [[books:sb:4:14:36|SB 4.14.36]]

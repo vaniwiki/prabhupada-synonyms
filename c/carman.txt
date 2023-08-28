@@ -1,5 +1,11 @@
-~~Title:carman~~
-{{description>O shield.}}
+---json
+{
+    "name":"carman",
+    "h1":"carman",
+    "title":"carman --- synonyms, prabhupada.io",
+    "description":"O shield."
+}
+---
 
 ==== carman  ====
   * O shield --- [[books:sb:6:8:26|SB 6.8.26]]

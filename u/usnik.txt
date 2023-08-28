@@ -1,5 +1,11 @@
-~~Title:uṣṇik~~
-{{description>one of the Vedic meters.}}
+---json
+{
+    "name":"uṣṇik",
+    "h1":"uṣṇik",
+    "title":"uṣṇik --- synonyms, prabhupada.io",
+    "description":"one of the Vedic meters."
+}
+---
 
 ==== uṣṇik  ====
   * one of the Vedic meters --- [[books:sb:3:12:45|SB 3.12.45]]

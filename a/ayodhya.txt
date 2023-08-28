@@ -1,5 +1,11 @@
-~~Title:ayodhya~~
-{{description>Ayodhyā (the kingdom of Lord Rāmacandra).}}
+---json
+{
+    "name":"ayodhya",
+    "h1":"ayodhya",
+    "title":"ayodhya --- synonyms, prabhupada.io",
+    "description":"Ayodhyā (the kingdom of Lord Rāmacandra)."
+}
+---
 
 ==== ayodhyā  ====
   * Ayodhyā (the kingdom of Lord Rāmacandra) --- [[books:cc:madhya:25:201|Madhya 25.201]]

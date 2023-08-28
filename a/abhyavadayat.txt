@@ -1,5 +1,11 @@
-~~Title:abhyavādayat~~
-{{description>accepted.}}
+---json
+{
+    "name":"abhyavādayat",
+    "h1":"abhyavādayat",
+    "title":"abhyavādayat --- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== abhyavādayat  ====
   * accepted --- [[books:sb:4:12:28|SB 4.12.28]]

@@ -1,5 +1,11 @@
-~~Title:ge~~
-{{description>expert in both transcendental and Vedic knowledge.}}
+---json
+{
+    "name":"ge",
+    "h1":"ge",
+    "title":"ge --- synonyms, prabhupada.io",
+    "description":"expert in both transcendental and Vedic knowledge."
+}
+---
 
 ==== jñāna-vijñāna-pāra-ge  ====
   * expert in both transcendental and Vedic knowledge --- [[books:sb:4:1:64|SB 4.1.64]]

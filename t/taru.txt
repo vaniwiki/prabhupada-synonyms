@@ -1,5 +1,11 @@
-~~Title:taru~~
-{{description>the tree; young plants.}}
+---json
+{
+    "name":"taru",
+    "h1":"taru",
+    "title":"taru --- synonyms, prabhupada.io",
+    "description":"the tree; young plants."
+}
+---
 
 ==== taru  ====
   * the tree --- [[books:cc:adi:17:28|Ādi 17.28]]

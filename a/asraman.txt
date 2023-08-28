@@ -1,5 +1,11 @@
-~~Title:āśramān~~
-{{description>orders of human society; orders of life; social orders.}}
+---json
+{
+    "name":"āśramān",
+    "h1":"āśramān",
+    "title":"āśramān --- synonyms, prabhupada.io",
+    "description":"orders of human society; orders of life; social orders."
+}
+---
 
 ==== āśramān  ====
   * orders of human society --- [[books:sb:1:16:31|SB 1.16.31]]

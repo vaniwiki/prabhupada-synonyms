@@ -1,5 +1,11 @@
-~~Title:caritāni~~
-{{description>activities; activities of.}}
+---json
+{
+    "name":"caritāni",
+    "h1":"caritāni",
+    "title":"caritāni --- synonyms, prabhupada.io",
+    "description":"activities; activities of."
+}
+---
 
 ==== caritāni  ====
   * activities --- [[books:sb:1:11:20|SB 1.11.20]], [[books:sb:3:15:17|SB 3.15.17]]

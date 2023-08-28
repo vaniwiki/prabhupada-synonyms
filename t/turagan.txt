@@ -1,5 +1,11 @@
-~~Title:turagān~~
-{{description>horses.}}
+---json
+{
+    "name":"turagān",
+    "h1":"turagān",
+    "title":"turagān --- synonyms, prabhupada.io",
+    "description":"horses."
+}
+---
 
 ==== turagān  ====
   * horses --- [[books:sb:8:18:32|SB 8.18.32]]

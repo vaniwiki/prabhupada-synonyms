@@ -1,5 +1,11 @@
-~~Title:snātum~~
-{{description>to bathe.}}
+---json
+{
+    "name":"snātum",
+    "h1":"snātum",
+    "title":"snātum --- synonyms, prabhupada.io",
+    "description":"to bathe."
+}
+---
 
 ==== snātum  ====
   * to bathe --- [[books:sb:9:15:8|SB 9.15.8]]

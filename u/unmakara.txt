@@ -1,5 +1,11 @@
-~~Title:unmakara~~
-{{description>sharks.}}
+---json
+{
+    "name":"unmakara",
+    "h1":"unmakara",
+    "title":"unmakara --- synonyms, prabhupada.io",
+    "description":"sharks."
+}
+---
 
 ==== unmakara  ====
   * sharks --- [[books:sb:8:7:18|SB 8.7.18]]

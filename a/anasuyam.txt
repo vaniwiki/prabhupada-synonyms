@@ -1,5 +1,11 @@
-~~Title:anasūyām~~
-{{description>Anasūyā.}}
+---json
+{
+    "name":"anasūyām",
+    "h1":"anasūyām",
+    "title":"anasūyām --- synonyms, prabhupada.io",
+    "description":"Anasūyā."
+}
+---
 
 ==== anasūyām  ====
   * Anasūyā --- [[books:sb:3:24:22-23|SB 3.24.22-23]]

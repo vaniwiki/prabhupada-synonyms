@@ -1,5 +1,11 @@
-~~Title:anukampita~~
-{{description>the all-compassionate Lord.}}
+---json
+{
+    "name":"anukampita",
+    "h1":"anukampita",
+    "title":"anukampita --- synonyms, prabhupada.io",
+    "description":"the all-compassionate Lord."
+}
+---
 
 ==== anukampita-ātmā  ====
   * the all-compassionate Lord --- [[books:sb:3:2:15|SB 3.2.15]]

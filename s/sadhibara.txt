@@ -1,5 +1,11 @@
-~~Title:sādhibāra~~
-{{description>to induce.}}
+---json
+{
+    "name":"sādhibāra",
+    "h1":"sādhibāra",
+    "title":"sādhibāra --- synonyms, prabhupada.io",
+    "description":"to induce."
+}
+---
 
 ==== sādhibāra tare  ====
   * to induce --- [[books:cc:antya:6:164|Antya 6.164]]

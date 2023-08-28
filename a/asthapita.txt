@@ -1,5 +1,11 @@
-~~Title:āsthāpita~~
-{{description>placed.}}
+---json
+{
+    "name":"āsthāpita",
+    "h1":"āsthāpita",
+    "title":"āsthāpita --- synonyms, prabhupada.io",
+    "description":"placed."
+}
+---
 
 ==== āsthāpita  ====
   * placed --- [[books:sb:2:2:10|SB 2.2.10]]

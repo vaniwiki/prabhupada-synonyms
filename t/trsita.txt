@@ -1,5 +1,11 @@
-~~Title:tṛṣita~~
-{{description>thirsty.}}
+---json
+{
+    "name":"tṛṣita",
+    "h1":"tṛṣita",
+    "title":"tṛṣita --- synonyms, prabhupada.io",
+    "description":"thirsty."
+}
+---
 
 ==== tṛṣita  ====
   * thirsty --- [[books:cc:madhya:10:40|Madhya 10.40]], [[books:cc:antya:18:86|Antya 18.86]]

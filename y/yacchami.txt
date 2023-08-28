@@ -1,5 +1,11 @@
-~~Title:yacchāmi~~
-{{description>I shall punish you.}}
+---json
+{
+    "name":"yacchāmi",
+    "h1":"yacchāmi",
+    "title":"yacchāmi --- synonyms, prabhupada.io",
+    "description":"I shall punish you."
+}
+---
 
 ==== yacchāmi  ====
   * I shall punish you --- [[books:sb:9:10:22|SB 9.10.22]]

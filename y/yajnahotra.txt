@@ -1,5 +1,11 @@
-~~Title:yajñahotra~~
-{{description>Yajñahotra and others.}}
+---json
+{
+    "name":"yajñahotra",
+    "h1":"yajñahotra",
+    "title":"yajñahotra --- synonyms, prabhupada.io",
+    "description":"Yajñahotra and others."
+}
+---
 
 ==== yajñahotra-ādyāḥ  ====
   * Yajñahotra and others --- [[books:sb:8:1:23|SB 8.1.23]]

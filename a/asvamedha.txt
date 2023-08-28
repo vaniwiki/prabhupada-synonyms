@@ -1,5 +1,11 @@
-~~Title:aśvamedha~~
-{{description>horse sacrifices.}}
+---json
+{
+    "name":"aśvamedha",
+    "h1":"aśvamedha",
+    "title":"aśvamedha --- synonyms, prabhupada.io",
+    "description":"horse sacrifices."
+}
+---
 
 ==== aśvamedha  ====
   * horse sacrifices --- [[books:cc:adi:3:79|Ādi 3.79]]

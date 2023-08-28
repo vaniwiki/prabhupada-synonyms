@@ -1,5 +1,11 @@
-~~Title:toṣaḥ~~
-{{description>Toṣa.}}
+---json
+{
+    "name":"toṣaḥ",
+    "h1":"toṣaḥ",
+    "title":"toṣaḥ --- synonyms, prabhupada.io",
+    "description":"Toṣa."
+}
+---
 
 ==== toṣaḥ  ====
   * Toṣa --- [[books:sb:4:1:7|SB 4.1.7]]

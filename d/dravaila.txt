@@ -1,5 +1,11 @@
-~~Title:dravāila~~
-{{description>softened.}}
+---json
+{
+    "name":"dravāila",
+    "h1":"dravāila",
+    "title":"dravāila --- synonyms, prabhupada.io",
+    "description":"softened."
+}
+---
 
 ==== dravāila  ====
   * softened --- [[books:cc:madhya:12:44|Madhya 12.44]]

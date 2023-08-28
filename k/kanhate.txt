@@ -1,5 +1,11 @@
-~~Title:kāṅhāte~~
-{{description>where did you get.}}
+---json
+{
+    "name":"kāṅhāte",
+    "h1":"kāṅhāte",
+    "title":"kāṅhāte --- synonyms, prabhupada.io",
+    "description":"where did you get."
+}
+---
 
 ==== kāṅhāte pāilā  ====
   * where did you get --- [[books:cc:antya:2:110|Antya 2.110]]

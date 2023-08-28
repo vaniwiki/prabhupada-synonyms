@@ -1,5 +1,11 @@
-~~Title:prayata~~
-{{description>by observing rules and regulations.}}
+---json
+{
+    "name":"prayata",
+    "h1":"prayata",
+    "title":"prayata --- synonyms, prabhupada.io",
+    "description":"by observing rules and regulations."
+}
+---
 
 ==== prayatā  ====
   * by observing rules and regulations --- [[books:sb:8:16:62|SB 8.16.62]]

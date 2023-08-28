@@ -1,5 +1,11 @@
-~~Title:śaṅkaram~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"śaṅkaram",
+    "h1":"śaṅkaram",
+    "title":"śaṅkaram --- synonyms, prabhupada.io",
+    "description":"Lord Śiva."
+}
+---
 
 ==== śaṅkaram  ====
   * Lord Śiva --- [[books:sb:9:1:37|SB 9.1.37]]

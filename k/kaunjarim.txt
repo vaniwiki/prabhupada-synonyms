@@ -1,5 +1,11 @@
-~~Title:kauñjarīm~~
-{{description>of an elephant.}}
+---json
+{
+    "name":"kauñjarīm",
+    "h1":"kauñjarīm",
+    "title":"kauñjarīm --- synonyms, prabhupada.io",
+    "description":"of an elephant."
+}
+---
 
 ==== kauñjarīm  ====
   * of an elephant --- [[books:sb:8:4:11-12|SB 8.4.11-12]]

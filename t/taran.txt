@@ -1,5 +1,11 @@
-~~Title:tarān~~
-{{description>very important.}}
+---json
+{
+    "name":"tarān",
+    "h1":"tarān",
+    "title":"tarān --- synonyms, prabhupada.io",
+    "description":"very important."
+}
+---
 
 ==== guru-tarān  ====
   * very important --- [[books:sb:5:8:10|SB 5.8.10]]

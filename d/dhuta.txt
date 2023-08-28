@@ -1,5 +1,11 @@
-~~Title:dhuta~~
-{{description>being cleansed.}}
+---json
+{
+    "name":"dhuta",
+    "h1":"dhuta",
+    "title":"dhuta --- synonyms, prabhupada.io",
+    "description":"being cleansed."
+}
+---
 
 ==== dhuta  ====
   * being cleansed --- [[books:sb:7:9:6|SB 7.9.6]]

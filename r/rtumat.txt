@@ -1,5 +1,11 @@
-~~Title:ṛtumat~~
-{{description>Ṛtumat.}}
+---json
+{
+    "name":"ṛtumat",
+    "h1":"ṛtumat",
+    "title":"ṛtumat --- synonyms, prabhupada.io",
+    "description":"Ṛtumat."
+}
+---
 
 ==== ṛtumat  ====
   * Ṛtumat --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

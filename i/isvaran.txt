@@ -1,5 +1,11 @@
-~~Title:īśvarān~~
-{{description>with their chief rulers.}}
+---json
+{
+    "name":"īśvarān",
+    "h1":"īśvarān",
+    "title":"īśvarān --- synonyms, prabhupada.io",
+    "description":"with their chief rulers."
+}
+---
 
 ==== sa-īśvarān  ====
   * with their chief rulers --- [[books:sb:7:10:54-55|SB 7.10.54-55]]

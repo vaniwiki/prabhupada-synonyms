@@ -1,5 +1,11 @@
-~~Title:karam~~
-{{description>hand; his hand; producing; taxes; the cause of; the share of profit.}}
+---json
+{
+    "name":"karam",
+    "h1":"karam",
+    "title":"karam --- synonyms, prabhupada.io",
+    "description":"hand; his hand; producing; taxes; the cause of; the share of profit."
+}
+---
 
 ==== karam  ====
   * hand --- [[books:sb:4:13:19-20|SB 4.13.19-20]]

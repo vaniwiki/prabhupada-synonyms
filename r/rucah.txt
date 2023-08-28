@@ -1,5 +1,11 @@
-~~Title:rucaḥ~~
-{{description>having faded lusters.}}
+---json
+{
+    "name":"rucaḥ",
+    "h1":"rucaḥ",
+    "title":"rucaḥ --- synonyms, prabhupada.io",
+    "description":"having faded lusters."
+}
+---
 
 ==== hata-rucaḥ  ====
   * having faded lusters --- [[books:sb:4:7:23|SB 4.7.23]]

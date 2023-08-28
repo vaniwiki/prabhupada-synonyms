@@ -1,5 +1,11 @@
-~~Title:vibhāga~~
-{{description>division; shares.}}
+---json
+{
+    "name":"vibhāga",
+    "h1":"vibhāga",
+    "title":"vibhāga --- synonyms, prabhupada.io",
+    "description":"division; shares."
+}
+---
 
 ==== vibhāga  ====
   * division --- [[books:cc:antya:13:128|Antya 13.128]]

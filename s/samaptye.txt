@@ -1,5 +1,11 @@
-~~Title:samāptye~~
-{{description>at the end of the performance of kīrtana.}}
+---json
+{
+    "name":"samāptye",
+    "h1":"samāptye",
+    "title":"samāptye --- synonyms, prabhupada.io",
+    "description":"at the end of the performance of kīrtana."
+}
+---
 
 ==== kīrtana-samāptye  ====
   * at the end of the performance of //kīrtana// --- [[books:cc:madhya:11:238|Madhya 11.238]]

@@ -1,5 +1,11 @@
-~~Title:prakasaya~~
-{{description>unto Him who is manifest.}}
+---json
+{
+    "name":"prakasaya",
+    "h1":"prakasaya",
+    "title":"prakasaya --- synonyms, prabhupada.io",
+    "description":"unto Him who is manifest."
+}
+---
 
 ==== prakāśāya  ====
   * unto Him who is manifest --- [[books:sb:8:3:16|SB 8.3.16]]

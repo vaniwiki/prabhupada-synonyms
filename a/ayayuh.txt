@@ -1,5 +1,11 @@
-~~Title:āyayuḥ~~
-{{description>reached; they arrived; took; went.}}
+---json
+{
+    "name":"āyayuḥ",
+    "h1":"āyayuḥ",
+    "title":"āyayuḥ --- synonyms, prabhupada.io",
+    "description":"reached; they arrived; took; went."
+}
+---
 
 ==== āyayuḥ  ====
   * reached --- [[books:sb:10:6:41|SB 10.6.41]]

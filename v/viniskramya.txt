@@ -1,5 +1,11 @@
-~~Title:viniṣkramya~~
-{{description>going out.}}
+---json
+{
+    "name":"viniṣkramya",
+    "h1":"viniṣkramya",
+    "title":"viniṣkramya --- synonyms, prabhupada.io",
+    "description":"going out."
+}
+---
 
 ==== viniṣkramya  ====
   * going out --- [[books:sb:4:2:19|SB 4.2.19]]

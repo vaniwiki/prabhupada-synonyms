@@ -1,5 +1,11 @@
-~~Title:śṛṅga~~
-{{description>horn; horns; with the peaks.}}
+---json
+{
+    "name":"śṛṅga",
+    "h1":"śṛṅga",
+    "title":"śṛṅga --- synonyms, prabhupada.io",
+    "description":"horn; horns; with the peaks."
+}
+---
 
 ==== śṛṅga  ====
   * horn --- [[books:cc:adi:11:21|Ādi 11.21]]

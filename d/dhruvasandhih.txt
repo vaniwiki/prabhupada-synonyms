@@ -1,5 +1,11 @@
-~~Title:dhruvasandhiḥ~~
-{{description>Dhruvasandhi.}}
+---json
+{
+    "name":"dhruvasandhiḥ",
+    "h1":"dhruvasandhiḥ",
+    "title":"dhruvasandhiḥ --- synonyms, prabhupada.io",
+    "description":"Dhruvasandhi."
+}
+---
 
 ==== dhruvasandhiḥ  ====
   * Dhruvasandhi --- [[books:sb:9:12:5|SB 9.12.5]]

@@ -1,5 +1,11 @@
-~~Title:anumanyeta~~
-{{description>he should obey.}}
+---json
+{
+    "name":"anumanyeta",
+    "h1":"anumanyeta",
+    "title":"anumanyeta --- synonyms, prabhupada.io",
+    "description":"he should obey."
+}
+---
 
 ==== anumanyeta  ====
   * he should obey --- [[books:sb:3:24:13|SB 3.24.13]]

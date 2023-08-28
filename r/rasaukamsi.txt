@@ -1,5 +1,11 @@
-~~Title:rasaukāṁsi~~
-{{description>such as Atala.}}
+---json
+{
+    "name":"rasaukāṁsi",
+    "h1":"rasaukāṁsi",
+    "title":"rasaukāṁsi --- synonyms, prabhupada.io",
+    "description":"such as Atala."
+}
+---
 
 ==== rasaukāṁsi  ====
   * such as Atala --- [[books:sb:5:20:45|SB 5.20.45]]

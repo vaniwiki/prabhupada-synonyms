@@ -1,5 +1,11 @@
-~~Title:kuruta~~
-{{description>execute; just execute; show.}}
+---json
+{
+    "name":"kuruta",
+    "h1":"kuruta",
+    "title":"kuruta --- synonyms, prabhupada.io",
+    "description":"execute; just execute; show."
+}
+---
 
 ==== kuruta  ====
   * execute --- [[books:sb:7:7:53|SB 7.7.53]]

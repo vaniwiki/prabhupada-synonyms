@@ -1,5 +1,11 @@
-~~Title:padaviḥ~~
-{{description>the path of philosophical speculation.}}
+---json
+{
+    "name":"padaviḥ",
+    "h1":"padaviḥ",
+    "title":"padaviḥ --- synonyms, prabhupada.io",
+    "description":"the path of philosophical speculation."
+}
+---
 
 ==== adhyātma-padaviḥ  ====
   * the path of philosophical speculation --- [[books:sb:4:7:42|SB 4.7.42]]

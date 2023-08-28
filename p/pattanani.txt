@@ -1,5 +1,11 @@
-~~Title:pattanāni~~
-{{description>settlements; the capitals.}}
+---json
+{
+    "name":"pattanāni",
+    "h1":"pattanāni",
+    "title":"pattanāni --- synonyms, prabhupada.io",
+    "description":"settlements; the capitals."
+}
+---
 
 ==== pattanāni  ====
   * settlements --- [[books:sb:4:18:31|SB 4.18.31]]

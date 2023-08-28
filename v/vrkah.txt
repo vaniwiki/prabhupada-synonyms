@@ -1,5 +1,11 @@
-~~Title:vrkah~~
-{{description>a wolf; by the name Vṛka; fox; tiger; Vṛka.}}
+---json
+{
+    "name":"vrkah",
+    "h1":"vrkah",
+    "title":"vrkah --- synonyms, prabhupada.io",
+    "description":"a wolf; by the name Vṛka; fox; tiger; Vṛka."
+}
+---
 
 ==== vṛkaḥ  ====
   * a wolf --- [[books:sb:5:8:18|SB 5.8.18]]

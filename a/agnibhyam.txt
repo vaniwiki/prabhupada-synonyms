@@ -1,5 +1,11 @@
-~~Title:agnibhyām~~
-{{description>by air and fire.}}
+---json
+{
+    "name":"agnibhyām",
+    "h1":"agnibhyām",
+    "title":"agnibhyām --- synonyms, prabhupada.io",
+    "description":"by air and fire."
+}
+---
 
 ==== vāyu-agnibhyām  ====
   * by air and fire --- [[books:sb:3:28:10|SB 3.28.10]]

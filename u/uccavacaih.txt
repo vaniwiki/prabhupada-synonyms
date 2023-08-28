@@ -1,5 +1,11 @@
-~~Title:uccāvacaiḥ~~
-{{description>very great and very small.}}
+---json
+{
+    "name":"uccāvacaiḥ",
+    "h1":"uccāvacaiḥ",
+    "title":"uccāvacaiḥ --- synonyms, prabhupada.io",
+    "description":"very great and very small."
+}
+---
 
 ==== uccāvacaiḥ  ====
   * very great and very small --- [[books:sb:5:7:5|SB 5.7.5]]

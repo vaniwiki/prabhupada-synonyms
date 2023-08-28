@@ -1,5 +1,11 @@
-~~Title:ratnaiḥ~~
-{{description>in exchange for jewels and gold.}}
+---json
+{
+    "name":"ratnaiḥ",
+    "h1":"ratnaiḥ",
+    "title":"ratnaiḥ --- synonyms, prabhupada.io",
+    "description":"in exchange for jewels and gold."
+}
+---
 
 ==== ratnaiḥ  ====
   * in exchange for jewels and gold --- [[books:sb:10:11:11|SB 10.11.11]]

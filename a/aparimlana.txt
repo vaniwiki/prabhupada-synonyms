@@ -1,5 +1,11 @@
-~~Title:aparimlāna~~
-{{description>never faded.}}
+---json
+{
+    "name":"aparimlāna",
+    "h1":"aparimlāna",
+    "title":"aparimlāna --- synonyms, prabhupada.io",
+    "description":"never faded."
+}
+---
 
 ==== aparimlāna  ====
   * never faded --- [[books:sb:5:25:7|SB 5.25.7]]

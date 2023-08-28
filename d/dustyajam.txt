@@ -1,5 +1,11 @@
-~~Title:dustyajam~~
-{{description>difficult to avoid; difficult to give up; difficult to relinquish; very difficult to give up.}}
+---json
+{
+    "name":"dustyajam",
+    "h1":"dustyajam",
+    "title":"dustyajam --- synonyms, prabhupada.io",
+    "description":"difficult to avoid; difficult to give up; difficult to relinquish; very difficult to give up."
+}
+---
 
 ==== dustyajam  ====
   * difficult to avoid --- [[books:sb:4:12:2|SB 4.12.2]]

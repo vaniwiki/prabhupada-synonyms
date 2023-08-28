@@ -1,5 +1,11 @@
-~~Title:bimbam~~
-{{description>the Deity (in the temple).}}
+---json
+{
+    "name":"bimbam",
+    "h1":"bimbam",
+    "title":"bimbam --- synonyms, prabhupada.io",
+    "description":"the Deity (in the temple)."
+}
+---
 
 ==== bimbam  ====
   * the Deity (in the temple) --- [[books:sb:7:14:27-28|SB 7.14.27-28]]

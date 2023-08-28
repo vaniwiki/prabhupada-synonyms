@@ -1,5 +1,11 @@
-~~Title:viṣaye~~
-{{description>in all subjects; in mundane subject matters; in the kingdom; in the subject matter; material enjoyment.}}
+---json
+{
+    "name":"viṣaye",
+    "h1":"viṣaye",
+    "title":"viṣaye --- synonyms, prabhupada.io",
+    "description":"in all subjects; in mundane subject matters; in the kingdom; in the subject matter; material enjoyment."
+}
+---
 
 ==== viṣaye  ====
   * in all subjects --- [[books:sb:1:4:13|SB 1.4.13]]

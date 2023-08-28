@@ -1,5 +1,11 @@
-~~Title:ghāma~~
-{{description>perspiration.}}
+---json
+{
+    "name":"ghāma",
+    "h1":"ghāma",
+    "title":"ghāma --- synonyms, prabhupada.io",
+    "description":"perspiration."
+}
+---
 
 ==== ghāma  ====
   * perspiration --- [[books:cc:madhya:9:287|Madhya 9.287]]

@@ -1,5 +1,11 @@
-~~Title:balvala~~
-{{description>King Balvala.}}
+---json
+{
+    "name":"balvala",
+    "h1":"balvala",
+    "title":"balvala --- synonyms, prabhupada.io",
+    "description":"King Balvala."
+}
+---
 
 ==== balvala  ====
   * King Balvala --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

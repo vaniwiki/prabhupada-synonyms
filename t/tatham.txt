@@ -1,5 +1,11 @@
-~~Title:tatham~~
-{{description>exactly to the right point.}}
+---json
+{
+    "name":"tatham",
+    "h1":"tatham",
+    "title":"tatham --- synonyms, prabhupada.io",
+    "description":"exactly to the right point."
+}
+---
 
 ==== yathā-tatham  ====
   * exactly to the right point --- [[books:sb:6:1:41|SB 6.1.41]]

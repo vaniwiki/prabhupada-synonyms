@@ -1,5 +1,11 @@
-~~Title:kaṭhora~~
-{{description>cruel; hard; sharp; very, very hard.}}
+---json
+{
+    "name":"kaṭhora",
+    "h1":"kaṭhora",
+    "title":"kaṭhora --- synonyms, prabhupada.io",
+    "description":"cruel; hard; sharp; very, very hard."
+}
+---
 
 ==== kaṭhora  ====
   * cruel --- [[books:sb:5:13:3|SB 5.13.3]]

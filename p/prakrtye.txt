@@ -1,5 +1,11 @@
-~~Title:prakṛtye~~
-{{description>in behavior.}}
+---json
+{
+    "name":"prakṛtye",
+    "h1":"prakṛtye",
+    "title":"prakṛtye --- synonyms, prabhupada.io",
+    "description":"in behavior."
+}
+---
 
 ==== prakṛtye  ====
   * in behavior --- [[books:cc:madhya:8:43|Madhya 8.43]]

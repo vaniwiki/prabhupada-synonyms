@@ -1,5 +1,11 @@
-~~Title:ahe~~
-{{description>on the day of the sun (Sunday).}}
+---json
+{
+    "name":"ahe",
+    "h1":"ahe",
+    "title":"ahe --- synonyms, prabhupada.io",
+    "description":"on the day of the sun (Sunday)."
+}
+---
 
 ==== sūrya-ahe  ====
   * on the day of the sun (Sunday) --- [[books:cc:antya:20:157|Antya 20.157]]

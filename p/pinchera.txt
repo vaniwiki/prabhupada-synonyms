@@ -1,5 +1,11 @@
-~~Title:piñchera~~
-{{description>upon which there is a peacock feather.}}
+---json
+{
+    "name":"piñchera",
+    "h1":"piñchera",
+    "title":"piñchera --- synonyms, prabhupada.io",
+    "description":"upon which there is a peacock feather."
+}
+---
 
 ==== śikhi-piñchera uḍāna  ====
   * upon which there is a peacock feather --- [[books:cc:antya:19:39|Antya 19.39]]

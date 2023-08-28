@@ -1,5 +1,11 @@
-~~Title:paśya~~
-{{description>behold; just behold; just see; look; please see; see; see here; there see.}}
+---json
+{
+    "name":"paśya",
+    "h1":"paśya",
+    "title":"paśya --- synonyms, prabhupada.io",
+    "description":"behold; just behold; just see; look; please see; see; see here; there see."
+}
+---
 
 ==== paśya  ====
   * behold --- [[books:bg:1:3|Bg. 1.3]], [[books:sb:3:31:38|SB 3.31.38]]

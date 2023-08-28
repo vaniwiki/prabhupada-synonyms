@@ -1,5 +1,11 @@
-~~Title:ātmya~~
-{{description>the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"ātmya",
+    "h1":"ātmya",
+    "title":"ātmya --- synonyms, prabhupada.io",
+    "description":"the Supreme Personality of Godhead."
+}
+---
 
 ==== ātmya  ====
   * the Supreme Personality of Godhead --- [[books:sb:4:21:30|SB 4.21.30]]

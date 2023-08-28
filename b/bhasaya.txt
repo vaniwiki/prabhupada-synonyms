@@ -1,5 +1,11 @@
-~~Title:bhāsāya~~
-{{description>float; floats; He floods; inundates; may cause to float.}}
+---json
+{
+    "name":"bhāsāya",
+    "h1":"bhāsāya",
+    "title":"bhāsāya --- synonyms, prabhupada.io",
+    "description":"float; floats; He floods; inundates; may cause to float."
+}
+---
 
 ==== bhāsāya  ====
   * float --- [[books:cc:antya:18:29|Antya 18.29]]

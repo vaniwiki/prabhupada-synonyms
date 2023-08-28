@@ -1,5 +1,11 @@
-~~Title:maṇḍapa~~
-{{description>on the altar of the Durgā-maṇḍapa.}}
+---json
+{
+    "name":"maṇḍapa",
+    "h1":"maṇḍapa",
+    "title":"maṇḍapa --- synonyms, prabhupada.io",
+    "description":"on the altar of the Durgā-maṇḍapa."
+}
+---
 
 ==== durgā-maṇḍapa-upare  ====
   * on the altar of the Durgā-maṇḍapa --- [[books:cc:antya:3:150|Antya 3.150]]

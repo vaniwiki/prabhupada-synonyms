@@ -1,5 +1,11 @@
-~~Title:arpilā~~
-{{description>offered.}}
+---json
+{
+    "name":"arpilā",
+    "h1":"arpilā",
+    "title":"arpilā --- synonyms, prabhupada.io",
+    "description":"offered."
+}
+---
 
 ==== arpilā  ====
   * offered --- [[books:cc:antya:16:33|Antya 16.33]]

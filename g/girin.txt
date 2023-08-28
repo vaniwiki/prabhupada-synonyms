@@ -1,5 +1,11 @@
-~~Title:girīn~~
-{{description>mountains; the mountains.}}
+---json
+{
+    "name":"girīn",
+    "h1":"girīn",
+    "title":"girīn --- synonyms, prabhupada.io",
+    "description":"mountains; the mountains."
+}
+---
 
 ==== girīn  ====
   * mountains --- [[books:sb:4:10:17|SB 4.10.17]]

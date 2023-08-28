@@ -1,5 +1,11 @@
-~~Title:bhāgavatera~~
-{{description>from Śrīmad-Bhāgavatam; of Śrīmad-Bhāgavatam; on Śrīmad-Bhāgavatam.}}
+---json
+{
+    "name":"bhāgavatera",
+    "h1":"bhāgavatera",
+    "title":"bhāgavatera --- synonyms, prabhupada.io",
+    "description":"from Śrīmad-Bhāgavatam; of Śrīmad-Bhāgavatam; on Śrīmad-Bhāgavatam."
+}
+---
 
 ==== bhāgavatera  ====
   * from //Śrīmad-Bhāgavatam// --- [[books:cc:madhya:6:260|Madhya 6.260]]

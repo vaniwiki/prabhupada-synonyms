@@ -1,5 +1,11 @@
-~~Title:kuhakaiḥ~~
-{{description>by magical feats.}}
+---json
+{
+    "name":"kuhakaiḥ",
+    "h1":"kuhakaiḥ",
+    "title":"kuhakaiḥ --- synonyms, prabhupada.io",
+    "description":"by magical feats."
+}
+---
 
 ==== kuhakaiḥ  ====
   * by magical feats --- [[books:sb:1:11:36|SB 1.11.36]]

@@ -1,5 +1,11 @@
-~~Title:dāraka~~
-{{description>befitting the calf of the deer.}}
+---json
+{
+    "name":"dāraka",
+    "h1":"dāraka",
+    "title":"dāraka --- synonyms, prabhupada.io",
+    "description":"befitting the calf of the deer."
+}
+---
 
 ==== mṛga-dāraka  ====
   * befitting the calf of the deer --- [[books:sb:5:8:20|SB 5.8.20]]

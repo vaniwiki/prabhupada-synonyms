@@ -1,5 +1,11 @@
-~~Title:avigaṇita~~
-{{description>unlimited.}}
+---json
+{
+    "name":"avigaṇita",
+    "h1":"avigaṇita",
+    "title":"avigaṇita --- synonyms, prabhupada.io",
+    "description":"unlimited."
+}
+---
 
 ==== avigaṇita  ====
   * unlimited --- [[books:cc:adi:5:72|Ādi 5.72]]

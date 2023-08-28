@@ -1,5 +1,11 @@
-~~Title:virocayantam~~
-{{description>illuminating all around.}}
+---json
+{
+    "name":"virocayantam",
+    "h1":"virocayantam",
+    "title":"virocayantam --- synonyms, prabhupada.io",
+    "description":"illuminating all around."
+}
+---
 
 ==== virocayantam  ====
   * illuminating all around --- [[books:sb:10:3:12|SB 10.3.12]]

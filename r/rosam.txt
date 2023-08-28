@@ -1,5 +1,11 @@
-~~Title:roṣam~~
-{{description>anger; wrath.}}
+---json
+{
+    "name":"roṣam",
+    "h1":"roṣam",
+    "title":"roṣam --- synonyms, prabhupada.io",
+    "description":"anger; wrath."
+}
+---
 
 ==== roṣam  ====
   * anger --- [[books:sb:3:17:29|SB 3.17.29]], [[books:sb:4:11:31|SB 4.11.31]], [[books:sb:4:19:33|SB 4.19.33]]

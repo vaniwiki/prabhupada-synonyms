@@ -1,5 +1,11 @@
-~~Title:āvartayet~~
-{{description>can cause to recite.}}
+---json
+{
+    "name":"āvartayet",
+    "h1":"āvartayet",
+    "title":"āvartayet --- synonyms, prabhupada.io",
+    "description":"can cause to recite."
+}
+---
 
 ==== āvartayet  ====
   * can cause to recite --- [[books:cc:antya:1:1|Antya 1.1]]

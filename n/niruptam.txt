@@ -1,5 +1,11 @@
-~~Title:niruptam~~
-{{description>offered.}}
+---json
+{
+    "name":"niruptam",
+    "h1":"niruptam",
+    "title":"niruptam --- synonyms, prabhupada.io",
+    "description":"offered."
+}
+---
 
 ==== niruptam  ====
   * offered --- [[books:sb:5:19:26|SB 5.19.26]]

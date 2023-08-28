@@ -1,5 +1,11 @@
-~~Title:tripati~~
-{{description>coming to Tirupati.}}
+---json
+{
+    "name":"tripati",
+    "h1":"tripati",
+    "title":"tripati --- synonyms, prabhupada.io",
+    "description":"coming to Tirupati."
+}
+---
 
 ==== tripati āsiyā  ====
   * coming to Tirupati --- [[books:cc:madhya:9:65|Madhya 9.65]]

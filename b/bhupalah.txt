@@ -1,5 +1,11 @@
-~~Title:bhūpālāḥ~~
-{{description>all those kings.}}
+---json
+{
+    "name":"bhūpālāḥ",
+    "h1":"bhūpālāḥ",
+    "title":"bhūpālāḥ --- synonyms, prabhupada.io",
+    "description":"all those kings."
+}
+---
 
 ==== bhūpālāḥ  ====
   * all those kings --- [[books:sb:9:22:49|SB 9.22.49]]

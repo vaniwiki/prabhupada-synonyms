@@ -1,5 +1,11 @@
-~~Title:praṇayase~~
-{{description>do You manifest; You manifest.}}
+---json
+{
+    "name":"praṇayase",
+    "h1":"praṇayase",
+    "title":"praṇayase --- synonyms, prabhupada.io",
+    "description":"do You manifest; You manifest."
+}
+---
 
 ==== praṇayase  ====
   * do You manifest --- [[books:sb:3:9:11|SB 3.9.11]]

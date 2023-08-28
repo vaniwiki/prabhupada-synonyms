@@ -1,5 +1,11 @@
-~~Title:dharani~~
-{{description>the earth; the material planets; the planets; the surface of the globe.}}
+---json
+{
+    "name":"dharani",
+    "h1":"dharani",
+    "title":"dharani --- synonyms, prabhupada.io",
+    "description":"the earth; the material planets; the planets; the surface of the globe."
+}
+---
 
 ==== dharaṇī  ====
   * the earth --- [[books:sb:4:17:14|SB 4.17.14]]

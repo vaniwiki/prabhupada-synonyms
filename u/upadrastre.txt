@@ -1,5 +1,11 @@
-~~Title:upadraṣṭre~~
-{{description>unto the upadraṣṭā, the priest acting as overseer to hear and check the mantras.}}
+---json
+{
+    "name":"upadraṣṭre",
+    "h1":"upadraṣṭre",
+    "title":"upadraṣṭre --- synonyms, prabhupada.io",
+    "description":"unto the upadraṣṭā, the priest acting as overseer to hear and check the mantras."
+}
+---
 
 ==== upadraṣṭre  ====
   * unto the //upadraṣṭā,// the priest acting as overseer to hear and check the //mantras// --- [[books:sb:9:16:21-22|SB 9.16.21-22]]

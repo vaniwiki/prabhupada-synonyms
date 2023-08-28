@@ -1,5 +1,11 @@
-~~Title:kalyāṇīm~~
-{{description>who is under your affection.}}
+---json
+{
+    "name":"kalyāṇīm",
+    "h1":"kalyāṇīm",
+    "title":"kalyāṇīm --- synonyms, prabhupada.io",
+    "description":"who is under your affection."
+}
+---
 
 ==== kalyāṇīm  ====
   * who is under your affection --- [[books:sb:10:1:45|SB 10.1.45]]

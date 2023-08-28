@@ -1,5 +1,11 @@
-~~Title:pūrti~~
-{{description>fulfilling; satisfaction.}}
+---json
+{
+    "name":"pūrti",
+    "h1":"pūrti",
+    "title":"pūrti --- synonyms, prabhupada.io",
+    "description":"fulfilling; satisfaction."
+}
+---
 
 ==== pūrti  ====
   * fulfilling --- [[books:cc:madhya:15:166|Madhya 15.166]]

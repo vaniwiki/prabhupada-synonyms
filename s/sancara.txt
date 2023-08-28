@@ -1,5 +1,11 @@
-~~Title:sañcāra~~
-{{description>advent; because of the movements; growing; the advent.}}
+---json
+{
+    "name":"sañcāra",
+    "h1":"sañcāra",
+    "title":"sañcāra --- synonyms, prabhupada.io",
+    "description":"advent; because of the movements; growing; the advent."
+}
+---
 
 ==== sañcāra  ====
   * advent --- [[books:cc:adi:3:102|Ādi 3.102]]

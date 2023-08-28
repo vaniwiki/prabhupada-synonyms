@@ -1,5 +1,11 @@
-~~Title:caranam~~
-{{description>feet; the lotus feet.}}
+---json
+{
+    "name":"caranam",
+    "h1":"caranam",
+    "title":"caranam --- synonyms, prabhupada.io",
+    "description":"feet; the lotus feet."
+}
+---
 
 ==== caraṇam  ====
   * feet --- [[books:sb:2:6:36|SB 2.6.36]]

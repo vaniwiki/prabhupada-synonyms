@@ -1,5 +1,11 @@
-~~Title:likhyante~~
-{{description>being described.}}
+---json
+{
+    "name":"likhyante",
+    "h1":"likhyante",
+    "title":"likhyante --- synonyms, prabhupada.io",
+    "description":"being described."
+}
+---
 
 ==== likhyante  ====
   * being described --- [[books:cc:adi:11:1|Ādi 11.1]]

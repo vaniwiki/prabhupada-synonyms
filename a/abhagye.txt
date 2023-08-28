@@ -1,5 +1,11 @@
-~~Title:abhāgye~~
-{{description>by misfortune.}}
+---json
+{
+    "name":"abhāgye",
+    "h1":"abhāgye",
+    "title":"abhāgye --- synonyms, prabhupada.io",
+    "description":"by misfortune."
+}
+---
 
 ==== abhāgye  ====
   * by misfortune --- [[books:cc:antya:17:45|Antya 17.45]]

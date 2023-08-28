@@ -1,5 +1,11 @@
-~~Title:ghṛtete~~
-{{description>frying in ghee; frying with ghee.}}
+---json
+{
+    "name":"ghṛtete",
+    "h1":"ghṛtete",
+    "title":"ghṛtete --- synonyms, prabhupada.io",
+    "description":"frying in ghee; frying with ghee."
+}
+---
 
 ==== ghṛtete bhājiyā  ====
   * frying in ghee --- [[books:cc:antya:10:28|Antya 10.28]]

@@ -1,5 +1,11 @@
-~~Title:turvasuḥ~~
-{{description>Turvasu, another son.}}
+---json
+{
+    "name":"turvasuḥ",
+    "h1":"turvasuḥ",
+    "title":"turvasuḥ --- synonyms, prabhupada.io",
+    "description":"Turvasu, another son."
+}
+---
 
 ==== turvasuḥ  ====
   * Turvasu, another son --- [[books:sb:9:18:41|SB 9.18.41]]

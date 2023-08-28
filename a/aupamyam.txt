@@ -1,5 +1,11 @@
-~~Title:aupamyam~~
-{{description>comparison or equality.}}
+---json
+{
+    "name":"aupamyam",
+    "h1":"aupamyam",
+    "title":"aupamyam --- synonyms, prabhupada.io",
+    "description":"comparison or equality."
+}
+---
 
 ==== aupamyam  ====
   * comparison or equality --- [[books:sb:5:1:41|SB 5.1.41]]

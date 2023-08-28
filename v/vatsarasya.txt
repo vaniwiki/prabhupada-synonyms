@@ -1,5 +1,11 @@
-~~Title:vatsarasya~~
-{{description>of King Vatsara.}}
+---json
+{
+    "name":"vatsarasya",
+    "h1":"vatsarasya",
+    "title":"vatsarasya --- synonyms, prabhupada.io",
+    "description":"of King Vatsara."
+}
+---
 
 ==== vatsarasya  ====
   * of King Vatsara --- [[books:sb:4:13:12|SB 4.13.12]]

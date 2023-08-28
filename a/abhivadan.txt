@@ -1,5 +1,11 @@
-~~Title:abhivadan~~
-{{description>requesting.}}
+---json
+{
+    "name":"abhivadan",
+    "h1":"abhivadan",
+    "title":"abhivadan --- synonyms, prabhupada.io",
+    "description":"requesting."
+}
+---
 
 ==== abhivadan  ====
   * requesting --- [[books:cc:antya:16:87|Antya 16.87]]

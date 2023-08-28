@@ -1,5 +1,11 @@
-~~Title:kṛmibhojane~~
-{{description>named Kṛmibhojana.}}
+---json
+{
+    "name":"kṛmibhojane",
+    "h1":"kṛmibhojane",
+    "title":"kṛmibhojane --- synonyms, prabhupada.io",
+    "description":"named Kṛmibhojana."
+}
+---
 
 ==== kṛmibhojane  ====
   * named Kṛmibhojana --- [[books:sb:5:26:18|SB 5.26.18]]

@@ -1,5 +1,11 @@
-~~Title:uparamet~~
-{{description>hesitated; should fast; should retire.}}
+---json
+{
+    "name":"uparamet",
+    "h1":"uparamet",
+    "title":"uparamet --- synonyms, prabhupada.io",
+    "description":"hesitated; should fast; should retire."
+}
+---
 
 ==== uparamet  ====
   * hesitated --- [[books:bg:6:25|Bg. 6.25]]

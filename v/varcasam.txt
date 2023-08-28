@@ -1,5 +1,11 @@
-~~Title:varcasam~~
-{{description>glow; having an effulgence.}}
+---json
+{
+    "name":"varcasam",
+    "h1":"varcasam",
+    "title":"varcasam --- synonyms, prabhupada.io",
+    "description":"glow; having an effulgence."
+}
+---
 
 ==== varcasam  ====
   * glow --- [[books:sb:3:19:27|SB 3.19.27]]

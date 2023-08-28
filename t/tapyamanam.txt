@@ -1,5 +1,11 @@
-~~Title:tapyamānam~~
-{{description>while practicing austerities.}}
+---json
+{
+    "name":"tapyamānam",
+    "h1":"tapyamānam",
+    "title":"tapyamānam --- synonyms, prabhupada.io",
+    "description":"while practicing austerities."
+}
+---
 
 ==== tapyamānam  ====
   * while practicing austerities --- [[books:sb:4:1:21|SB 4.1.21]]

@@ -1,5 +1,11 @@
-~~Title:viditam~~
-{{description>being recognized; conscious; is known by the intelligent class of men; is understood; knowing; known; well known.}}
+---json
+{
+    "name":"viditam",
+    "h1":"viditam",
+    "title":"viditam --- synonyms, prabhupada.io",
+    "description":"being recognized; conscious; is known by the intelligent class of men; is understood; knowing; known; well known."
+}
+---
 
 ==== viditam  ====
   * being recognized --- [[books:sb:3:4:7|SB 3.4.7]]

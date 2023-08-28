@@ -1,5 +1,11 @@
-~~Title:mangalah~~
-{{description>all good fortune; whose righteous acts.}}
+---json
+{
+    "name":"mangalah",
+    "h1":"mangalah",
+    "title":"mangalah --- synonyms, prabhupada.io",
+    "description":"all good fortune; whose righteous acts."
+}
+---
 
 ==== maṅgalaḥ  ====
   * all good fortune --- [[books:sb:4:14:29|SB 4.14.29]]

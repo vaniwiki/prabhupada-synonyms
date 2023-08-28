@@ -1,5 +1,11 @@
-~~Title:vandila~~
-{{description>offered obeisances; offered prayers; offered respects; worshiped.}}
+---json
+{
+    "name":"vandila",
+    "h1":"vandila",
+    "title":"vandila --- synonyms, prabhupada.io",
+    "description":"offered obeisances; offered prayers; offered respects; worshiped."
+}
+---
 
 ==== vandila  ====
   * offered obeisances --- [[books:cc:antya:7:5|Antya 7.5]]

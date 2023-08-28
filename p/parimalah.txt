@@ -1,5 +1,11 @@
-~~Title:parimalaḥ~~
-{{description>whose flavor.}}
+---json
+{
+    "name":"parimalaḥ",
+    "h1":"parimalaḥ",
+    "title":"parimalaḥ --- synonyms, prabhupada.io",
+    "description":"whose flavor."
+}
+---
 
 ==== parimalaḥ  ====
   * whose flavor --- [[books:cc:adi:4:259|Ādi 4.259]]

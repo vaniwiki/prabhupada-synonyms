@@ -1,5 +1,11 @@
-~~Title:rahāya~~
-{{description>checked.}}
+---json
+{
+    "name":"rahāya",
+    "h1":"rahāya",
+    "title":"rahāya --- synonyms, prabhupada.io",
+    "description":"checked."
+}
+---
 
 ==== rahāya  ====
   * checked --- [[books:cc:adi:17:251|Ādi 17.251]]

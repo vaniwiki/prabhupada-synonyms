@@ -1,5 +1,11 @@
-~~Title:vismarati~~
-{{description>forgets.}}
+---json
+{
+    "name":"vismarati",
+    "h1":"vismarati",
+    "title":"vismarati --- synonyms, prabhupada.io",
+    "description":"forgets."
+}
+---
 
 ==== vismarati  ====
   * forgets --- [[books:sb:7:5:46|SB 7.5.46]]

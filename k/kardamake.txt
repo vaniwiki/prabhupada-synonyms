@@ -1,5 +1,11 @@
-~~Title:kardamake~~
-{{description>to Kardama Muni.}}
+---json
+{
+    "name":"kardamake",
+    "h1":"kardamake",
+    "title":"kardamake --- synonyms, prabhupada.io",
+    "description":"to Kardama Muni."
+}
+---
 
 ==== kardamake  ====
   * to Kardama Muni --- [[books:cc:madhya:20:334|Madhya 20.334]]

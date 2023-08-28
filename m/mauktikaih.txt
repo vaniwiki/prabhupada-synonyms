@@ -1,5 +1,11 @@
-~~Title:mauktikaiḥ~~
-{{description>with pearls.}}
+---json
+{
+    "name":"mauktikaiḥ",
+    "h1":"mauktikaiḥ",
+    "title":"mauktikaiḥ --- synonyms, prabhupada.io",
+    "description":"with pearls."
+}
+---
 
 ==== mauktikaiḥ  ====
   * with pearls --- [[books:sb:4:21:1|SB 4.21.1]]

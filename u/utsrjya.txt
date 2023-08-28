@@ -1,5 +1,11 @@
-~~Title:utsrjya~~
-{{description>giving up.}}
+---json
+{
+    "name":"utsrjya",
+    "h1":"utsrjya",
+    "title":"utsrjya --- synonyms, prabhupada.io",
+    "description":"giving up."
+}
+---
 
 ==== utsrjya  ====
   * giving up --- [[books:cc:adi:1:59|Ādi 1.59]]

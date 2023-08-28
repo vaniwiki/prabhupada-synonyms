@@ -1,5 +1,11 @@
-~~Title:vāṇaiḥ~~
-{{description>by the demigods.}}
+---json
+{
+    "name":"vāṇaiḥ",
+    "h1":"vāṇaiḥ",
+    "title":"vāṇaiḥ --- synonyms, prabhupada.io",
+    "description":"by the demigods."
+}
+---
 
 ==== giḥ-vāṇaiḥ  ====
   * by the demigods --- [[books:cc:adi:3:66|Ādi 3.66]]

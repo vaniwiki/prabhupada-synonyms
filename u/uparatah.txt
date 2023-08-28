@@ -1,5 +1,11 @@
-~~Title:uparataḥ~~
-{{description>relieved.}}
+---json
+{
+    "name":"uparataḥ",
+    "h1":"uparataḥ",
+    "title":"uparataḥ --- synonyms, prabhupada.io",
+    "description":"relieved."
+}
+---
 
 ==== uparataḥ  ====
   * relieved --- [[books:sb:1:11:34|SB 1.11.34]]

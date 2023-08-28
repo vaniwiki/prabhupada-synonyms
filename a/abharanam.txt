@@ -1,5 +1,11 @@
-~~Title:abharanam~~
-{{description>ornaments.}}
+---json
+{
+    "name":"abharanam",
+    "h1":"abharanam",
+    "title":"abharanam --- synonyms, prabhupada.io",
+    "description":"ornaments."
+}
+---
 
 ==== ābharaṇam  ====
   * ornaments --- [[books:bg:11:10-11|Bg. 11.10-11]]

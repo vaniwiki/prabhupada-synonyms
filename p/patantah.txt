@@ -1,5 +1,11 @@
-~~Title:patantaḥ~~
-{{description>flowing.}}
+---json
+{
+    "name":"patantaḥ",
+    "h1":"patantaḥ",
+    "title":"patantaḥ --- synonyms, prabhupada.io",
+    "description":"flowing."
+}
+---
 
 ==== patantaḥ  ====
   * flowing --- [[books:sb:5:16:24|SB 5.16.24]]

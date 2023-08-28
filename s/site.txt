@@ -1,5 +1,11 @@
-~~Title:śīte~~
-{{description>in the winter.}}
+---json
+{
+    "name":"śīte",
+    "h1":"śīte",
+    "title":"śīte --- synonyms, prabhupada.io",
+    "description":"in the winter."
+}
+---
 
 ==== śīte  ====
   * in the winter --- [[books:cc:madhya:7:23|Madhya 7.23]]

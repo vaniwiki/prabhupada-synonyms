@@ -1,5 +1,11 @@
-~~Title:kaiphiyat~~
-{{description>sending a confidential account.}}
+---json
+{
+    "name":"kaiphiyat",
+    "h1":"kaiphiyat",
+    "title":"kaiphiyat --- synonyms, prabhupada.io",
+    "description":"sending a confidential account."
+}
+---
 
 ==== kaiphiyat diyā  ====
   * sending a confidential account --- [[books:cc:antya:6:20|Antya 6.20]]

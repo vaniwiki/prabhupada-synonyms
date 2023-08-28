@@ -1,5 +1,11 @@
-~~Title:bhāvayamānaḥ~~
-{{description>always thinking.}}
+---json
+{
+    "name":"bhāvayamānaḥ",
+    "h1":"bhāvayamānaḥ",
+    "title":"bhāvayamānaḥ --- synonyms, prabhupada.io",
+    "description":"always thinking."
+}
+---
 
 ==== bhāvayamānaḥ  ====
   * always thinking --- [[books:sb:5:7:6|SB 5.7.6]]

@@ -1,5 +1,11 @@
-~~Title:ūrṇute~~
-{{description>covers.}}
+---json
+{
+    "name":"ūrṇute",
+    "h1":"ūrṇute",
+    "title":"ūrṇute --- synonyms, prabhupada.io",
+    "description":"covers."
+}
+---
 
 ==== ūrṇute  ====
   * covers --- [[books:sb:2:9:28|SB 2.9.28]]

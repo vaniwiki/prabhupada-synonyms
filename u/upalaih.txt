@@ -1,5 +1,11 @@
-~~Title:upalaiḥ~~
-{{description>and with stones.}}
+---json
+{
+    "name":"upalaiḥ",
+    "h1":"upalaiḥ",
+    "title":"upalaiḥ --- synonyms, prabhupada.io",
+    "description":"and with stones."
+}
+---
 
 ==== upalaiḥ  ====
   * and with stones --- [[books:sb:6:10:26|SB 6.10.26]]

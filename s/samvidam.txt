@@ -1,5 +1,11 @@
-~~Title:saṁvidam~~
-{{description>indicating.}}
+---json
+{
+    "name":"saṁvidam",
+    "h1":"saṁvidam",
+    "title":"saṁvidam --- synonyms, prabhupada.io",
+    "description":"indicating."
+}
+---
 
 ==== saṁvidam  ====
   * indicating --- [[books:sb:8:6:32|SB 8.6.32]]

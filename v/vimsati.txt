@@ -1,5 +1,11 @@
-~~Title:viṁśati~~
-{{description>twenty.}}
+---json
+{
+    "name":"viṁśati",
+    "h1":"viṁśati",
+    "title":"viṁśati --- synonyms, prabhupada.io",
+    "description":"twenty."
+}
+---
 
 ==== viṁśati  ====
   * twenty --- [[books:cc:adi:7:34|Ādi 7.34]], [[books:cc:madhya:1:50|Madhya 1.50]], [[books:cc:madhya:8:175|Madhya 8.175]], [[books:cc:madhya:14:167|Madhya 14.167]]

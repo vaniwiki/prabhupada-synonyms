@@ -1,5 +1,11 @@
-~~Title:bhramaram~~
-{{description>like bumblebees.}}
+---json
+{
+    "name":"bhramaram",
+    "h1":"bhramaram",
+    "title":"bhramaram --- synonyms, prabhupada.io",
+    "description":"like bumblebees."
+}
+---
 
 ==== bhramaram  ====
   * like bumblebees --- [[books:cc:antya:1:166|Antya 1.166]]

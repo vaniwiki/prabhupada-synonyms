@@ -1,5 +1,11 @@
-~~Title:mukhyah~~
-{{description>chief; faces; prominent; the chief; the supreme.}}
+---json
+{
+    "name":"mukhyah",
+    "h1":"mukhyah",
+    "title":"mukhyah --- synonyms, prabhupada.io",
+    "description":"chief; faces; prominent; the chief; the supreme."
+}
+---
 
 ==== mukhyaḥ  ====
   * chief --- [[books:sb:7:2:45|SB 7.2.45]]

@@ -1,5 +1,11 @@
-~~Title:hātum~~
-{{description>to give up.}}
+---json
+{
+    "name":"hātum",
+    "h1":"hātum",
+    "title":"hātum --- synonyms, prabhupada.io",
+    "description":"to give up."
+}
+---
 
 ==== hātum  ====
   * to give up --- [[books:sb:1:10:11-12|SB 1.10.11-12]], [[books:sb:4:28:10|SB 4.28.10]], [[books:cc:madhya:24:98|Madhya 24.98]]

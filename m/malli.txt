@@ -1,5 +1,11 @@
-~~Title:mallī~~
-{{description>the pure fragrance of the mallikā flowers.}}
+---json
+{
+    "name":"mallī",
+    "h1":"mallī",
+    "title":"mallī --- synonyms, prabhupada.io",
+    "description":"the pure fragrance of the mallikā flowers."
+}
+---
 
 ==== amala-mallī-parimalaḥ  ====
   * the pure fragrance of the //mallikā// flowers --- [[books:cc:antya:1:160|Antya 1.160]]

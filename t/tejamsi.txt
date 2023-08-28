@@ -1,5 +1,11 @@
-~~Title:tejāṁsi~~
-{{description>all strength and prowess.}}
+---json
+{
+    "name":"tejāṁsi",
+    "h1":"tejāṁsi",
+    "title":"tejāṁsi --- synonyms, prabhupada.io",
+    "description":"all strength and prowess."
+}
+---
 
 ==== tejāṁsi  ====
   * all strength and prowess --- [[books:sb:6:9:44|SB 6.9.44]]

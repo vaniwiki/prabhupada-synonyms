@@ -1,5 +1,11 @@
-~~Title:rasikah~~
-{{description>a realized soul.}}
+---json
+{
+    "name":"rasikah",
+    "h1":"rasikah",
+    "title":"rasikah --- synonyms, prabhupada.io",
+    "description":"a realized soul."
+}
+---
 
 ==== rasikaḥ  ====
   * a realized soul --- [[books:cc:antya:20:156|Antya 20.156]]

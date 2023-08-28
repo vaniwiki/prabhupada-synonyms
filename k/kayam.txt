@@ -1,5 +1,11 @@
-~~Title:kāyam~~
-{{description>a body; body; his body; this material body; whose body.}}
+---json
+{
+    "name":"kāyam",
+    "h1":"kāyam",
+    "title":"kāyam --- synonyms, prabhupada.io",
+    "description":"a body; body; his body; this material body; whose body."
+}
+---
 
 ==== kāyam  ====
   * a body --- [[books:sb:7:13:16-17|SB 7.13.16-17]]

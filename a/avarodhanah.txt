@@ -1,5 +1,11 @@
-~~Title:avarodhanaḥ~~
-{{description>named Avarodhana.}}
+---json
+{
+    "name":"avarodhanaḥ",
+    "h1":"avarodhanaḥ",
+    "title":"avarodhanaḥ --- synonyms, prabhupada.io",
+    "description":"named Avarodhana."
+}
+---
 
 ==== avarodhanaḥ  ====
   * named Avarodhana --- [[books:sb:5:15:14-15|SB 5.15.14-15]]

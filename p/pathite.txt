@@ -1,5 +1,11 @@
-~~Title:paṭhite~~
-{{description>by reciting repeatedly.}}
+---json
+{
+    "name":"paṭhite",
+    "h1":"paṭhite",
+    "title":"paṭhite --- synonyms, prabhupada.io",
+    "description":"by reciting repeatedly."
+}
+---
 
 ==== paṭhite paṭhite  ====
   * by reciting repeatedly --- [[books:cc:madhya:4:196|Madhya 4.196]]

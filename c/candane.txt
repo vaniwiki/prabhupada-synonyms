@@ -1,5 +1,11 @@
-~~Title:candane~~
-{{description>in sandalwood.}}
+---json
+{
+    "name":"candane",
+    "h1":"candane",
+    "title":"candane --- synonyms, prabhupada.io",
+    "description":"in sandalwood."
+}
+---
 
 ==== candane  ====
   * in sandalwood --- [[books:cc:madhya:3:104|Madhya 3.104]]

@@ -1,5 +1,11 @@
-~~Title:joṣyān~~
-{{description>things very attractive in the material world (different varieties of eating, sleeping, mating and defense).}}
+---json
+{
+    "name":"joṣyān",
+    "h1":"joṣyān",
+    "title":"joṣyān --- synonyms, prabhupada.io",
+    "description":"things very attractive in the material world (different varieties of eating, sleeping, mating and defense)."
+}
+---
 
 ==== joṣyān  ====
   * things very attractive in the material world (different varieties of eating, sleeping, mating and defense) --- [[books:sb:10:10:8|SB 10.10.8]]

@@ -1,5 +1,11 @@
-~~Title:cintāmayam~~
-{{description>transcendental.}}
+---json
+{
+    "name":"cintāmayam",
+    "h1":"cintāmayam",
+    "title":"cintāmayam --- synonyms, prabhupada.io",
+    "description":"transcendental."
+}
+---
 
 ==== cintāmayam  ====
   * transcendental --- [[books:sb:2:2:12|SB 2.2.12]]

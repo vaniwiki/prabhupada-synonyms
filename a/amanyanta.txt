@@ -1,5 +1,11 @@
-~~Title:amanyanta~~
-{{description>considered.}}
+---json
+{
+    "name":"amanyanta",
+    "h1":"amanyanta",
+    "title":"amanyanta --- synonyms, prabhupada.io",
+    "description":"considered."
+}
+---
 
 ==== amanyanta  ====
   * considered --- [[books:sb:7:8:26|SB 7.8.26]]

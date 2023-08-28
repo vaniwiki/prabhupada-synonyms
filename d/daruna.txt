@@ -1,5 +1,11 @@
-~~Title:dāruṇa~~
-{{description>being very hardhearted.}}
+---json
+{
+    "name":"dāruṇa",
+    "h1":"dāruṇa",
+    "title":"dāruṇa --- synonyms, prabhupada.io",
+    "description":"being very hardhearted."
+}
+---
 
 ==== dāruṇa-cetasaḥ  ====
   * being very hardhearted --- [[books:sb:6:14:43|SB 6.14.43]]

@@ -1,5 +1,11 @@
-~~Title:dyutibhiḥ~~
-{{description>with splendor.}}
+---json
+{
+    "name":"dyutibhiḥ",
+    "h1":"dyutibhiḥ",
+    "title":"dyutibhiḥ --- synonyms, prabhupada.io",
+    "description":"with splendor."
+}
+---
 
 ==== dyutibhiḥ  ====
   * with splendor --- [[books:cc:antya:1:165|Antya 1.165]]

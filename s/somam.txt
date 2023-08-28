@@ -1,5 +1,11 @@
-~~Title:somam~~
-{{description>nectar; Soma (the moon-god); Soma; the demigod named Candra; the moon; the moon-god; the nectar.}}
+---json
+{
+    "name":"somam",
+    "h1":"somam",
+    "title":"somam --- synonyms, prabhupada.io",
+    "description":"nectar; Soma (the moon-god); Soma; the demigod named Candra; the moon; the moon-god; the nectar."
+}
+---
 
 ==== somam  ====
   * nectar --- [[books:sb:4:18:15|SB 4.18.15]], [[books:sb:8:12:1-2|SB 8.12.1-2]]

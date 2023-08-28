@@ -1,5 +1,11 @@
-~~Title:mani~~
-{{description>gemlike; jewels; made of jewels; of jewels; of precious stones; pearls; rubies; the jewels; the touchstone; with small gems.}}
+---json
+{
+    "name":"mani",
+    "h1":"mani",
+    "title":"mani --- synonyms, prabhupada.io",
+    "description":"gemlike; jewels; made of jewels; of jewels; of precious stones; pearls; rubies; the jewels; the touchstone; with small gems."
+}
+---
 
 ==== maṇi  ====
   * gemlike --- [[books:sb:3:23:50|SB 3.23.50]]

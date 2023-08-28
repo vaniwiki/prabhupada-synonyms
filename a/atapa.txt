@@ -1,5 +1,11 @@
-~~Title:ātapa~~
-{{description>dried in the sunshine; shining; strong sunshine.}}
+---json
+{
+    "name":"ātapa",
+    "h1":"ātapa",
+    "title":"ātapa --- synonyms, prabhupada.io",
+    "description":"dried in the sunshine; shining; strong sunshine."
+}
+---
 
 ==== ātapa  ====
   * dried in the sunshine --- [[books:cc:antya:10:27|Antya 10.27]]

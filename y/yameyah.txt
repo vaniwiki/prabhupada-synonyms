@@ -1,5 +1,11 @@
-~~Title:yāmeyaḥ~~
-{{description>of Yāmi.}}
+---json
+{
+    "name":"yāmeyaḥ",
+    "h1":"yāmeyaḥ",
+    "title":"yāmeyaḥ --- synonyms, prabhupada.io",
+    "description":"of Yāmi."
+}
+---
 
 ==== yāmeyaḥ  ====
   * of Yāmi --- [[books:sb:6:6:6|SB 6.6.6]]

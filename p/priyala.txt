@@ -1,5 +1,11 @@
-~~Title:priyāla~~
-{{description>O priyāla tree.}}
+---json
+{
+    "name":"priyāla",
+    "h1":"priyāla",
+    "title":"priyāla --- synonyms, prabhupada.io",
+    "description":"O priyāla tree."
+}
+---
 
 ==== priyāla  ====
   * O //priyāla// tree --- [[books:cc:antya:15:32|Antya 15.32]]

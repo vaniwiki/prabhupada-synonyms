@@ -1,5 +1,11 @@
-~~Title:vānara~~
-{{description>of the great chiefs of the monkeys.}}
+---json
+{
+    "name":"vānara",
+    "h1":"vānara",
+    "title":"vānara --- synonyms, prabhupada.io",
+    "description":"of the great chiefs of the monkeys."
+}
+---
 
 ==== vānara-indra  ====
   * of the great chiefs of the monkeys --- [[books:sb:9:10:17|SB 9.10.17]]

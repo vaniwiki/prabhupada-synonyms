@@ -1,5 +1,11 @@
-~~Title:avabodhena~~
-{{description>by understanding.}}
+---json
+{
+    "name":"avabodhena",
+    "h1":"avabodhena",
+    "title":"avabodhena --- synonyms, prabhupada.io",
+    "description":"by understanding."
+}
+---
 
 ==== avabodhena  ====
   * by understanding --- [[books:sb:3:32:34-36|SB 3.32.34-36]]

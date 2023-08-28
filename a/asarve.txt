@@ -1,5 +1,11 @@
-~~Title:asarve~~
-{{description>without any limit.}}
+---json
+{
+    "name":"asarve",
+    "h1":"asarve",
+    "title":"asarve --- synonyms, prabhupada.io",
+    "description":"without any limit."
+}
+---
 
 ==== asarve  ====
   * without any limit --- [[books:sb:4:12:11|SB 4.12.11]]

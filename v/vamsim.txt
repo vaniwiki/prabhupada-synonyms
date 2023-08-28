@@ -1,5 +1,11 @@
-~~Title:vaṁśīm~~
-{{description>flute.}}
+---json
+{
+    "name":"vaṁśīm",
+    "h1":"vaṁśīm",
+    "title":"vaṁśīm --- synonyms, prabhupada.io",
+    "description":"flute."
+}
+---
 
 ==== vaṁśīm  ====
   * flute --- [[books:cc:antya:1:166|Antya 1.166]]

@@ -1,5 +1,11 @@
-~~Title:nāciba~~
-{{description>shall dance.}}
+---json
+{
+    "name":"nāciba",
+    "h1":"nāciba",
+    "title":"nāciba --- synonyms, prabhupada.io",
+    "description":"shall dance."
+}
+---
 
 ==== nāciba  ====
   * shall dance --- [[books:cc:madhya:15:46|Madhya 15.46]]

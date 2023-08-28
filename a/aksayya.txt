@@ -1,5 +1,11 @@
-~~Title:akṣayya~~
-{{description>whose value never decreases; without deterioration.}}
+---json
+{
+    "name":"akṣayya",
+    "h1":"akṣayya",
+    "title":"akṣayya --- synonyms, prabhupada.io",
+    "description":"whose value never decreases; without deterioration."
+}
+---
 
 ==== akṣayya  ====
   * whose value never decreases --- [[books:sb:9:4:27|SB 9.4.27]]

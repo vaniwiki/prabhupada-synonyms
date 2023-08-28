@@ -1,5 +1,11 @@
-~~Title:sabera~~
-{{description>of all.}}
+---json
+{
+    "name":"sabera",
+    "h1":"sabera",
+    "title":"sabera --- synonyms, prabhupada.io",
+    "description":"of all."
+}
+---
 
 ==== sabera  ====
   * of all --- [[books:cc:antya:3:59|Antya 3.59]], [[books:cc:antya:13:36|Antya 13.36]]

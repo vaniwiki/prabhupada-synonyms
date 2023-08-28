@@ -1,5 +1,11 @@
-~~Title:hanumān~~
-{{description>Hanumān; His Grace Hanumānjī; the village deity Hanumān.}}
+---json
+{
+    "name":"hanumān",
+    "h1":"hanumān",
+    "title":"hanumān --- synonyms, prabhupada.io",
+    "description":"Hanumān; His Grace Hanumānjī; the village deity Hanumān."
+}
+---
 
 ==== hanumān  ====
   * Hanumān --- [[books:cc:madhya:15:156|Madhya 15.156]]

@@ -1,5 +1,11 @@
-~~Title:tyaktam~~
-{{description>abandoned; are rejected; given up; which was vacant.}}
+---json
+{
+    "name":"tyaktam",
+    "h1":"tyaktam",
+    "title":"tyaktam --- synonyms, prabhupada.io",
+    "description":"abandoned; are rejected; given up; which was vacant."
+}
+---
 
 ==== tyaktam  ====
   * abandoned --- [[books:sb:6:14:46|SB 6.14.46]]

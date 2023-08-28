@@ -1,5 +1,11 @@
-~~Title:nagnaḥ~~
-{{description>naked.}}
+---json
+{
+    "name":"nagnaḥ",
+    "h1":"nagnaḥ",
+    "title":"nagnaḥ --- synonyms, prabhupada.io",
+    "description":"naked."
+}
+---
 
 ==== nagnaḥ  ====
   * naked --- [[books:sb:4:2:14-15|SB 4.2.14-15]]

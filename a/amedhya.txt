@@ -1,5 +1,11 @@
-~~Title:amedhya~~
-{{description>stool and urine; untouchable.}}
+---json
+{
+    "name":"amedhya",
+    "h1":"amedhya",
+    "title":"amedhya --- synonyms, prabhupada.io",
+    "description":"stool and urine; untouchable."
+}
+---
 
 ==== amedhya  ====
   * stool and urine --- [[books:cc:antya:4:186|Antya 4.186]], [[books:cc:antya:4:187|Antya 4.187]]

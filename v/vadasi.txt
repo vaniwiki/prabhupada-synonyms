@@ -1,5 +1,11 @@
-~~Title:vadasi~~
-{{description>you are speaking; You tell.}}
+---json
+{
+    "name":"vadasi",
+    "h1":"vadasi",
+    "title":"vadasi --- synonyms, prabhupada.io",
+    "description":"you are speaking; You tell."
+}
+---
 
 ==== vadasi  ====
   * you are speaking --- [[books:sb:5:11:1|SB 5.11.1]], [[books:sb:10:4:26|SB 10.4.26]]

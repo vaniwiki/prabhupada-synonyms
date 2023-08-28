@@ -1,5 +1,11 @@
-~~Title:kumārera~~
-{{description>the potter's wheel.}}
+---json
+{
+    "name":"kumārera",
+    "h1":"kumārera",
+    "title":"kumārera --- synonyms, prabhupada.io",
+    "description":"the potter's wheel."
+}
+---
 
 ==== kumārera cāka  ====
   * the potter's wheel --- [[books:cc:antya:15:6|Antya 15.6]]

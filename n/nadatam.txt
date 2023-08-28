@@ -1,5 +1,11 @@
-~~Title:nadatām~~
-{{description>all of them making sounds together.}}
+---json
+{
+    "name":"nadatām",
+    "h1":"nadatām",
+    "title":"nadatām --- synonyms, prabhupada.io",
+    "description":"all of them making sounds together."
+}
+---
 
 ==== nadatām  ====
   * all of them making sounds together --- [[books:sb:8:10:7|SB 8.10.7]]

@@ -1,5 +1,11 @@
-~~Title:varṣayan~~
-{{description>causing rainfall.}}
+---json
+{
+    "name":"varṣayan",
+    "h1":"varṣayan",
+    "title":"varṣayan --- synonyms, prabhupada.io",
+    "description":"causing rainfall."
+}
+---
 
 ==== varṣayan  ====
   * causing rainfall --- [[books:sb:5:22:12|SB 5.22.12]]

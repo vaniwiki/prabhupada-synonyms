@@ -1,5 +1,11 @@
-~~Title:chidrāḥ~~
-{{description>taking the opportunity.}}
+---json
+{
+    "name":"chidrāḥ",
+    "h1":"chidrāḥ",
+    "title":"chidrāḥ --- synonyms, prabhupada.io",
+    "description":"taking the opportunity."
+}
+---
 
 ==== labdha-chidrāḥ  ====
   * taking the opportunity --- [[books:sb:9:16:10|SB 9.16.10]]

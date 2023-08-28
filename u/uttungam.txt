@@ -1,5 +1,11 @@
-~~Title:uttuṅgam~~
-{{description>very high.}}
+---json
+{
+    "name":"uttuṅgam",
+    "h1":"uttuṅgam",
+    "title":"uttuṅgam --- synonyms, prabhupada.io",
+    "description":"very high."
+}
+---
 
 ==== uttuṅgam  ====
   * very high --- [[books:cc:madhya:24:120|Madhya 24.120]]

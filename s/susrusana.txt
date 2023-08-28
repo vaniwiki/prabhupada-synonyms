@@ -1,5 +1,11 @@
-~~Title:śuśrūṣaṇa~~
-{{description>administration of comforts.}}
+---json
+{
+    "name":"śuśrūṣaṇa",
+    "h1":"śuśrūṣaṇa",
+    "title":"śuśrūṣaṇa --- synonyms, prabhupada.io",
+    "description":"administration of comforts."
+}
+---
 
 ==== śuśrūṣaṇa  ====
   * administration of comforts --- [[books:sb:1:14:37|SB 1.14.37]]

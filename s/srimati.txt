@@ -1,5 +1,11 @@
-~~Title:śrīmatī~~
-{{description>all-beautiful.}}
+---json
+{
+    "name":"śrīmatī",
+    "h1":"śrīmatī",
+    "title":"śrīmatī --- synonyms, prabhupada.io",
+    "description":"all-beautiful."
+}
+---
 
 ==== śrīmatī  ====
   * all-beautiful --- [[books:cc:madhya:8:182|Madhya 8.182]]

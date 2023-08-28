@@ -1,5 +1,11 @@
-~~Title:sūryam~~
-{{description>the demigod Sūrya; the sun; the sun-god.}}
+---json
+{
+    "name":"sūryam",
+    "h1":"sūryam",
+    "title":"sūryam --- synonyms, prabhupada.io",
+    "description":"the demigod Sūrya; the sun; the sun-god."
+}
+---
 
 ==== sūryam  ====
   * the demigod Sūrya --- [[books:sb:5:20:5|SB 5.20.5]]

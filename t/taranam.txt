@@ -1,5 +1,11 @@
-~~Title:tārāṇām~~
-{{description>and stars; luminaries; of the stars.}}
+---json
+{
+    "name":"tārāṇām",
+    "h1":"tārāṇām",
+    "title":"tārāṇām --- synonyms, prabhupada.io",
+    "description":"and stars; luminaries; of the stars."
+}
+---
 
 ==== tārāṇām  ====
   * and stars --- [[books:sb:4:9:20-21|SB 4.9.20-21]]

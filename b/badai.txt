@@ -1,5 +1,11 @@
-~~Title:badai~~
-{{description>very.}}
+---json
+{
+    "name":"badai",
+    "h1":"badai",
+    "title":"badai --- synonyms, prabhupada.io",
+    "description":"very."
+}
+---
 
 ==== baḍai  ====
   * very --- [[books:cc:adi:10:36|Ādi 10.36]]

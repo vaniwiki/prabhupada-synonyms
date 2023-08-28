@@ -1,5 +1,11 @@
-~~Title:damanam~~
-{{description>chariot driver.}}
+---json
+{
+    "name":"damanam",
+    "h1":"damanam",
+    "title":"damanam --- synonyms, prabhupada.io",
+    "description":"chariot driver."
+}
+---
 
 ==== damanam  ====
   * chariot driver --- [[books:sb:4:26:1-3|SB 4.26.1-3]]

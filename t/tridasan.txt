@@ -1,5 +1,11 @@
-~~Title:tridaśān~~
-{{description>unto the demigods.}}
+---json
+{
+    "name":"tridaśān",
+    "h1":"tridaśān",
+    "title":"tridaśān --- synonyms, prabhupada.io",
+    "description":"unto the demigods."
+}
+---
 
 ==== tridaśān  ====
   * unto the demigods --- [[books:sb:10:1:21|SB 10.1.21]]

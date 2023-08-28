@@ -1,5 +1,11 @@
-~~Title:avidyām~~
-{{description>ignorance; nescience.}}
+---json
+{
+    "name":"avidyām",
+    "h1":"avidyām",
+    "title":"avidyām --- synonyms, prabhupada.io",
+    "description":"ignorance; nescience."
+}
+---
 
 ==== avidyām  ====
   * ignorance --- [[books:sb:3:20:18|SB 3.20.18]]

@@ -1,5 +1,11 @@
-~~Title:karita~~
-{{description>would have made.}}
+---json
+{
+    "name":"karita",
+    "h1":"karita",
+    "title":"karita --- synonyms, prabhupada.io",
+    "description":"would have made."
+}
+---
 
 ==== karita  ====
   * would have made --- [[books:cc:adi:2:85|Ādi 2.85]]

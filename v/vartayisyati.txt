@@ -1,5 +1,11 @@
-~~Title:vartayiṣyati~~
-{{description>will propound.}}
+---json
+{
+    "name":"vartayiṣyati",
+    "h1":"vartayiṣyati",
+    "title":"vartayiṣyati --- synonyms, prabhupada.io",
+    "description":"will propound."
+}
+---
 
 ==== vartayiṣyati  ====
   * will propound --- [[books:sb:9:16:25|SB 9.16.25]]

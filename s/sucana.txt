@@ -1,5 +1,11 @@
-~~Title:sūcana~~
-{{description>indication.}}
+---json
+{
+    "name":"sūcana",
+    "h1":"sūcana",
+    "title":"sūcana --- synonyms, prabhupada.io",
+    "description":"indication."
+}
+---
 
 ==== sūcana  ====
   * indication --- [[books:cc:adi:4:102|Ādi 4.102]]

@@ -1,5 +1,11 @@
-~~Title:sirah~~
-{{description>a head; head; heads; his head; the cerebral passage; the head; the head of Jamadagni; the top of the head; tip.}}
+---json
+{
+    "name":"sirah",
+    "h1":"sirah",
+    "title":"sirah --- synonyms, prabhupada.io",
+    "description":"a head; head; heads; his head; the cerebral passage; the head; the head of Jamadagni; the top of the head; tip."
+}
+---
 
 ==== śiraḥ  ====
   * a head --- [[books:sb:3:31:3|SB 3.31.3]], [[books:sb:4:7:3|SB 4.7.3]]

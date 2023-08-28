@@ -1,5 +1,11 @@
-~~Title:varnah~~
-{{description>having the color; hue; order of life.}}
+---json
+{
+    "name":"varnah",
+    "h1":"varnah",
+    "title":"varnah --- synonyms, prabhupada.io",
+    "description":"having the color; hue; order of life."
+}
+---
 
 ==== varṇaḥ  ====
   * having the color --- [[books:cc:adi:3:49|Ādi 3.49]], [[books:cc:madhya:10:170|Madhya 10.170]]

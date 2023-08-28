@@ -1,5 +1,11 @@
-~~Title:bhoktṛ~~
-{{description>simultaneously master of the guṇas.}}
+---json
+{
+    "name":"bhoktṛ",
+    "h1":"bhoktṛ",
+    "title":"bhoktṛ --- synonyms, prabhupada.io",
+    "description":"simultaneously master of the guṇas."
+}
+---
 
 ==== guṇa-bhoktṛ  ====
   * simultaneously master of the //guṇas// --- [[books:bg:13:15|Bg. 13.15]]

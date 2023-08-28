@@ -1,5 +1,11 @@
-~~Title:saṁhitāra~~
-{{description>like the scripture Brahma-saṁhitā.}}
+---json
+{
+    "name":"saṁhitāra",
+    "h1":"saṁhitāra",
+    "title":"saṁhitāra --- synonyms, prabhupada.io",
+    "description":"like the scripture Brahma-saṁhitā."
+}
+---
 
 ==== brahma-saṁhitāra sama  ====
   * like the scripture //Brahma-saṁhitā// --- [[books:cc:madhya:9:239-240|Madhya 9.239-240]]

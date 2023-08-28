@@ -1,5 +1,11 @@
-~~Title:durbodham~~
-{{description>not easily understood; very difficult to understand.}}
+---json
+{
+    "name":"durbodham",
+    "h1":"durbodham",
+    "title":"durbodham --- synonyms, prabhupada.io",
+    "description":"not easily understood; very difficult to understand."
+}
+---
 
 ==== durbodham  ====
   * not easily understood --- [[books:sb:6:3:20-21|SB 6.3.20-21]]

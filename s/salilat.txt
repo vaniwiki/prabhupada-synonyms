@@ -1,5 +1,11 @@
-~~Title:salilāt~~
-{{description>from the water.}}
+---json
+{
+    "name":"salilāt",
+    "h1":"salilāt",
+    "title":"salilāt --- synonyms, prabhupada.io",
+    "description":"from the water."
+}
+---
 
 ==== salilāt  ====
   * from the water --- [[books:sb:3:8:17|SB 3.8.17]], [[books:sb:3:18:7|SB 3.18.7]], [[books:sb:3:26:70|SB 3.26.70]], [[books:sb:4:30:44|SB 4.30.44]]

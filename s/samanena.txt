@@ -1,5 +1,11 @@
-~~Title:samānena~~
-{{description>equal in width; of equal length.}}
+---json
+{
+    "name":"samānena",
+    "h1":"samānena",
+    "title":"samānena --- synonyms, prabhupada.io",
+    "description":"equal in width; of equal length."
+}
+---
 
 ==== samānena  ====
   * equal in width --- [[books:sb:5:20:7|SB 5.20.7]], [[books:sb:5:20:13|SB 5.20.13]], [[books:sb:5:20:29|SB 5.20.29]]

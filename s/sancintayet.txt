@@ -1,5 +1,11 @@
-~~Title:sañcintayet~~
-{{description>he should concentrate; one should meditate on.}}
+---json
+{
+    "name":"sañcintayet",
+    "h1":"sañcintayet",
+    "title":"sañcintayet --- synonyms, prabhupada.io",
+    "description":"he should concentrate; one should meditate on."
+}
+---
 
 ==== sañcintayet  ====
   * he should concentrate --- [[books:sb:3:28:21|SB 3.28.21]]

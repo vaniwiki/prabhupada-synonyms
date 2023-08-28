@@ -1,5 +1,11 @@
-~~Title:aṭati~~
-{{description>goes; he wanders; travels.}}
+---json
+{
+    "name":"aṭati",
+    "h1":"aṭati",
+    "title":"aṭati --- synonyms, prabhupada.io",
+    "description":"goes; he wanders; travels."
+}
+---
 
 ==== aṭati  ====
   * goes --- [[books:cc:adi:4:152|Ādi 4.152]], [[books:cc:madhya:21:124|Madhya 21.124]]

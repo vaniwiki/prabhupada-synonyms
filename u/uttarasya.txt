@@ -1,5 +1,11 @@
-~~Title:uttarasya~~
-{{description>of King Uttara.}}
+---json
+{
+    "name":"uttarasya",
+    "h1":"uttarasya",
+    "title":"uttarasya --- synonyms, prabhupada.io",
+    "description":"of King Uttara."
+}
+---
 
 ==== uttarasya  ====
   * of King Uttara --- [[books:sb:1:16:2|SB 1.16.2]]

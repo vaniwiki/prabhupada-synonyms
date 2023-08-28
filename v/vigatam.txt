@@ -1,5 +1,11 @@
-~~Title:vigatam~~
-{{description>expended.}}
+---json
+{
+    "name":"vigatam",
+    "h1":"vigatam",
+    "title":"vigatam --- synonyms, prabhupada.io",
+    "description":"expended."
+}
+---
 
 ==== vigatam  ====
   * expended --- [[books:sb:1:13:21|SB 1.13.21]]

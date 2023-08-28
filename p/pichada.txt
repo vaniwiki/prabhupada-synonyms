@@ -1,5 +1,11 @@
-~~Title:pichāḍā~~
-{{description>four carrier servants.}}
+---json
+{
+    "name":"pichāḍā",
+    "h1":"pichāḍā",
+    "title":"pichāḍā --- synonyms, prabhupada.io",
+    "description":"four carrier servants."
+}
+---
 
 ==== cāri pichāḍā  ====
   * four carrier servants --- [[books:cc:antya:11:77|Antya 11.77]]

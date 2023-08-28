@@ -1,5 +1,11 @@
-~~Title:caranah~~
-{{description>feet; the lotus feet; wheel; whose feet.}}
+---json
+{
+    "name":"caranah",
+    "h1":"caranah",
+    "title":"caranah --- synonyms, prabhupada.io",
+    "description":"feet; the lotus feet; wheel; whose feet."
+}
+---
 
 ==== caraṇaḥ  ====
   * feet --- [[books:sb:3:23:42|SB 3.23.42]]

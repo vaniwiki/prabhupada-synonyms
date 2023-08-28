@@ -1,5 +1,11 @@
-~~Title:divyānām~~
-{{description>divine.}}
+---json
+{
+    "name":"divyānām",
+    "h1":"divyānām",
+    "title":"divyānām --- synonyms, prabhupada.io",
+    "description":"divine."
+}
+---
 
 ==== divyānām  ====
   * divine --- [[books:bg:10:40|Bg. 10.40]]

@@ -1,5 +1,11 @@
-~~Title:cittīnām~~
-{{description>of all kinds of knowledge.}}
+---json
+{
+    "name":"cittīnām",
+    "h1":"cittīnām",
+    "title":"cittīnām --- synonyms, prabhupada.io",
+    "description":"of all kinds of knowledge."
+}
+---
 
 ==== cittīnām  ====
   * of all kinds of knowledge --- [[books:sb:5:18:18|SB 5.18.18]]

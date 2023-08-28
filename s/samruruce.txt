@@ -1,5 +1,11 @@
-~~Title:saṁruruce~~
-{{description>appeared very splendid.}}
+---json
+{
+    "name":"saṁruruce",
+    "h1":"saṁruruce",
+    "title":"saṁruruce --- synonyms, prabhupada.io",
+    "description":"appeared very splendid."
+}
+---
 
 ==== saṁruruce  ====
   * appeared very splendid --- [[books:sb:3:13:31|SB 3.13.31]]

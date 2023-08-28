@@ -1,5 +1,11 @@
-~~Title:samavyayat~~
-{{description>put on the body.}}
+---json
+{
+    "name":"samavyayat",
+    "h1":"samavyayat",
+    "title":"samavyayat --- synonyms, prabhupada.io",
+    "description":"put on the body."
+}
+---
 
 ==== samavyayat  ====
   * put on the body --- [[books:sb:9:18:10|SB 9.18.10]]

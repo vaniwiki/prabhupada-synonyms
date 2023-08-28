@@ -1,5 +1,11 @@
-~~Title:bharukaḥ~~
-{{description>by the name Bharuka.}}
+---json
+{
+    "name":"bharukaḥ",
+    "h1":"bharukaḥ",
+    "title":"bharukaḥ --- synonyms, prabhupada.io",
+    "description":"by the name Bharuka."
+}
+---
 
 ==== bharukaḥ  ====
   * by the name Bharuka --- [[books:sb:9:8:2|SB 9.8.2]]

@@ -1,5 +1,11 @@
-~~Title:kevale~~
-{{description>being one; without a second.}}
+---json
+{
+    "name":"kevale",
+    "h1":"kevale",
+    "title":"kevale --- synonyms, prabhupada.io",
+    "description":"being one; without a second."
+}
+---
 
 ==== kevale  ====
   * being one --- [[books:sb:4:7:52|SB 4.7.52]]

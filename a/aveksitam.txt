@@ -1,5 +1,11 @@
-~~Title:avekṣitam~~
-{{description>perceived.}}
+---json
+{
+    "name":"avekṣitam",
+    "h1":"avekṣitam",
+    "title":"avekṣitam --- synonyms, prabhupada.io",
+    "description":"perceived."
+}
+---
 
 ==== avekṣitam  ====
   * perceived --- [[books:sb:6:4:32|SB 6.4.32]]

@@ -1,5 +1,11 @@
-~~Title:sauhrdam~~
-{{description>a friend; a good relationship; affectionate relationship; friendliness; friendship; intimately related; regarding friendly well-wishers; very compassionate friendship.}}
+---json
+{
+    "name":"sauhrdam",
+    "h1":"sauhrdam",
+    "title":"sauhrdam --- synonyms, prabhupada.io",
+    "description":"a friend; a good relationship; affectionate relationship; friendliness; friendship; intimately related; regarding friendly well-wishers; very compassionate friendship."
+}
+---
 
 ==== sauhṛdam  ====
   * a friend --- [[books:sb:4:3:13|SB 4.3.13]]

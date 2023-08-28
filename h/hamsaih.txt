@@ -1,5 +1,11 @@
-~~Title:haṁsaiḥ~~
-{{description>by swans; on the backs of swans.}}
+---json
+{
+    "name":"haṁsaiḥ",
+    "h1":"haṁsaiḥ",
+    "title":"haṁsaiḥ --- synonyms, prabhupada.io",
+    "description":"by swans; on the backs of swans."
+}
+---
 
 ==== haṁsaiḥ  ====
   * by swans --- [[books:sb:3:21:42-43|SB 3.21.42-43]]

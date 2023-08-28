@@ -1,5 +1,11 @@
-~~Title:vivarjanam~~
-{{description>giving up.}}
+---json
+{
+    "name":"vivarjanam",
+    "h1":"vivarjanam",
+    "title":"vivarjanam --- synonyms, prabhupada.io",
+    "description":"giving up."
+}
+---
 
 ==== vivarjanam  ====
   * giving up --- [[books:cc:madhya:11:29-30|Madhya 11.29-30]]

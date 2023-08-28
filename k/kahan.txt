@@ -1,5 +1,11 @@
-~~Title:kāhāṅ~~
-{{description>where; anywhere; anywhere else; at any time; in other places; now; on one hand; on the other hand; sometimes; somewhere; to someone; what; where; where is; whereas; wherever.}}
+---json
+{
+    "name":"kāhāṅ",
+    "h1":"kāhāṅ",
+    "title":"kāhāṅ --- synonyms, prabhupada.io",
+    "description":"where; anywhere; anywhere else; at any time; in other places; now; on one hand; on the other hand; sometimes; somewhere; to someone; what; where; where is; whereas; wherever."
+}
+---
 
 ==== kāhāṅ  ====
   * //where// --- [[books:cc:madhya:2:56|Madhya 2.56]]

@@ -1,5 +1,11 @@
-~~Title:viratham~~
-{{description>one who has lost his chariot.}}
+---json
+{
+    "name":"viratham",
+    "h1":"viratham",
+    "title":"viratham --- synonyms, prabhupada.io",
+    "description":"one who has lost his chariot."
+}
+---
 
 ==== viratham  ====
   * one who has lost his chariot --- [[books:sb:1:7:36|SB 1.7.36]]

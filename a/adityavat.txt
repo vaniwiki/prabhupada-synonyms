@@ -1,5 +1,11 @@
-~~Title:ādityavat~~
-{{description>like the rising sun.}}
+---json
+{
+    "name":"ādityavat",
+    "h1":"ādityavat",
+    "title":"ādityavat --- synonyms, prabhupada.io",
+    "description":"like the rising sun."
+}
+---
 
 ==== ādityavat  ====
   * like the rising sun --- [[books:bg:5:16|Bg. 5.16]]

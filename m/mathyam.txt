@@ -1,5 +1,11 @@
-~~Title:mathyam~~
-{{description>produced from the ocean of milk.}}
+---json
+{
+    "name":"mathyam",
+    "h1":"mathyam",
+    "title":"mathyam --- synonyms, prabhupada.io",
+    "description":"produced from the ocean of milk."
+}
+---
 
 ==== sindhu-mathyam  ====
   * produced from the ocean of milk --- [[books:sb:8:12:47|SB 8.12.47]]

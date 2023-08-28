@@ -1,5 +1,11 @@
-~~Title:kaili~~
-{{description>did; you did; you have done; you have made.}}
+---json
+{
+    "name":"kaili",
+    "h1":"kaili",
+    "title":"kaili --- synonyms, prabhupada.io",
+    "description":"did; you did; you have done; you have made."
+}
+---
 
 ==== kaili  ====
   * did --- [[books:cc:antya:3:202|Antya 3.202]]

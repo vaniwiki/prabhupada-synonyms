@@ -1,5 +1,11 @@
-~~Title:jambubhiḥ~~
-{{description>jambu fruits; with jambus.}}
+---json
+{
+    "name":"jambubhiḥ",
+    "h1":"jambubhiḥ",
+    "title":"jambubhiḥ --- synonyms, prabhupada.io",
+    "description":"jambu fruits; with jambus."
+}
+---
 
 ==== jambubhiḥ  ====
   * //jambu// fruits --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

@@ -1,5 +1,11 @@
-~~Title:drakṣyāma~~
-{{description>we shall surely observe.}}
+---json
+{
+    "name":"drakṣyāma",
+    "h1":"drakṣyāma",
+    "title":"drakṣyāma --- synonyms, prabhupada.io",
+    "description":"we shall surely observe."
+}
+---
 
 ==== drakṣyāma  ====
   * we shall surely observe --- [[books:sb:10:2:38|SB 10.2.38]]

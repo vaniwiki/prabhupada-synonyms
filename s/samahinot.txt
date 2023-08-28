@@ -1,5 +1,11 @@
-~~Title:samahinot~~
-{{description>ordered (to fight with the enemies).}}
+---json
+{
+    "name":"samahinot",
+    "h1":"samahinot",
+    "title":"samahinot --- synonyms, prabhupada.io",
+    "description":"ordered (to fight with the enemies)."
+}
+---
 
 ==== samahinot  ====
   * ordered (to fight with the enemies) --- [[books:sb:9:10:18|SB 9.10.18]]

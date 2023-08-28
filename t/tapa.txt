@@ -1,5 +1,11 @@
-~~Title:tapa~~
-{{description>austerities; austerity.}}
+---json
+{
+    "name":"tapa",
+    "h1":"tapa",
+    "title":"tapa --- synonyms, prabhupada.io",
+    "description":"austerities; austerity."
+}
+---
 
 ==== tapa  ====
   * austerities --- [[books:cc:madhya:21:119|Madhya 21.119]], [[books:cc:antya:16:143|Antya 16.143]], [[books:cc:antya:16:149|Antya 16.149]]

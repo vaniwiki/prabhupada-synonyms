@@ -1,5 +1,11 @@
-~~Title:svarūpete~~
-{{description>in the localized aspect, Supersoul.}}
+---json
+{
+    "name":"svarūpete",
+    "h1":"svarūpete",
+    "title":"svarūpete --- synonyms, prabhupada.io",
+    "description":"in the localized aspect, Supersoul."
+}
+---
 
 ==== antaryāmi-svarūpete  ====
   * in the localized aspect, Supersoul --- [[books:cc:madhya:24:83|Madhya 24.83]]

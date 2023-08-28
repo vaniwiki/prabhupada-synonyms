@@ -1,5 +1,11 @@
-~~Title:gaṇḍe~~
-{{description>on the cheeks.}}
+---json
+{
+    "name":"gaṇḍe",
+    "h1":"gaṇḍe",
+    "title":"gaṇḍe --- synonyms, prabhupada.io",
+    "description":"on the cheeks."
+}
+---
 
 ==== gaṇḍe  ====
   * on the cheeks --- [[books:cc:antya:19:59|Antya 19.59]]

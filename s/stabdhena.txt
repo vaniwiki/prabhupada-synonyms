@@ -1,5 +1,11 @@
-~~Title:stabdhena~~
-{{description>being devoid of proper actions.}}
+---json
+{
+    "name":"stabdhena",
+    "h1":"stabdhena",
+    "title":"stabdhena --- synonyms, prabhupada.io",
+    "description":"being devoid of proper actions."
+}
+---
 
 ==== stabdhena  ====
   * being devoid of proper actions --- [[books:sb:4:2:10|SB 4.2.10]]

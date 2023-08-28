@@ -1,5 +1,11 @@
-~~Title:narendre~~
-{{description>in the lake known as Narendrasarovara; on the bank of Lake Narendra.}}
+---json
+{
+    "name":"narendre",
+    "h1":"narendre",
+    "title":"narendre --- synonyms, prabhupada.io",
+    "description":"in the lake known as Narendrasarovara; on the bank of Lake Narendra."
+}
+---
 
 ==== narendre  ====
   * in the lake known as Narendrasarovara --- [[books:cc:madhya:14:242|Madhya 14.242]]

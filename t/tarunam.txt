@@ -1,5 +1,11 @@
-~~Title:tarunam~~
-{{description>youthful.}}
+---json
+{
+    "name":"tarunam",
+    "h1":"tarunam",
+    "title":"tarunam --- synonyms, prabhupada.io",
+    "description":"youthful."
+}
+---
 
 ==== taruṇam  ====
   * youthful --- [[books:sb:4:8:46|SB 4.8.46]]

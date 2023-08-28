@@ -1,5 +1,11 @@
-~~Title:bhavanam~~
-{{description>house; the palace; the whole atmosphere of the house; to the palace.}}
+---json
+{
+    "name":"bhavanam",
+    "h1":"bhavanam",
+    "title":"bhavanam --- synonyms, prabhupada.io",
+    "description":"house; the palace; the whole atmosphere of the house; to the palace."
+}
+---
 
 ==== bhavanam  ====
   * house --- [[books:sb:3:23:11|SB 3.23.11]]

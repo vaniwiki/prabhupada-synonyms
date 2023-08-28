@@ -1,5 +1,11 @@
-~~Title:akṣarāṇām~~
-{{description>of letters.}}
+---json
+{
+    "name":"akṣarāṇām",
+    "h1":"akṣarāṇām",
+    "title":"akṣarāṇām --- synonyms, prabhupada.io",
+    "description":"of letters."
+}
+---
 
 ==== akṣarāṇām  ====
   * of letters --- [[books:bg:10:33|Bg. 10.33]]

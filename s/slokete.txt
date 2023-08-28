@@ -1,5 +1,11 @@
-~~Title:ślokete~~
-{{description>in the verse.}}
+---json
+{
+    "name":"ślokete",
+    "h1":"ślokete",
+    "title":"ślokete --- synonyms, prabhupada.io",
+    "description":"in the verse."
+}
+---
 
 ==== ślokete  ====
   * in the verse --- [[books:cc:adi:1:25|Ādi 1.25]], [[books:cc:adi:1:83|Ādi 1.83]]

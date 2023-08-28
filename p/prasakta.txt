@@ -1,5 +1,11 @@
-~~Title:prasakta~~
-{{description>because of his being very much attached.}}
+---json
+{
+    "name":"prasakta",
+    "h1":"prasakta",
+    "title":"prasakta --- synonyms, prabhupada.io",
+    "description":"because of his being very much attached."
+}
+---
 
 ==== prasakta-dhīḥ  ====
   * because of his being very much attached --- [[books:sb:10:5:22|SB 10.5.22]]

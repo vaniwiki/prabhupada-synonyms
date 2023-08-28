@@ -1,5 +1,11 @@
-~~Title:śīkaram~~
-{{description>a small portion.}}
+---json
+{
+    "name":"śīkaram",
+    "h1":"śīkaram",
+    "title":"śīkaram --- synonyms, prabhupada.io",
+    "description":"a small portion."
+}
+---
 
 ==== śīkaram  ====
   * a small portion --- [[books:cc:madhya:21:1|Madhya 21.1]]

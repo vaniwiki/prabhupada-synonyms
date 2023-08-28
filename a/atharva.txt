@@ -1,5 +1,11 @@
-~~Title:atharva~~
-{{description>the Atharva Veda.}}
+---json
+{
+    "name":"atharva",
+    "h1":"atharva",
+    "title":"atharva --- synonyms, prabhupada.io",
+    "description":"the Atharva Veda."
+}
+---
 
 ==== atharva  ====
   * the //Atharva Veda// --- [[books:sb:1:4:22|SB 1.4.22]]

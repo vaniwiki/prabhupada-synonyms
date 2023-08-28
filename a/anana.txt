@@ -1,5 +1,11 @@
-~~Title:anana~~
-{{description>at the face; face; mouths.}}
+---json
+{
+    "name":"anana",
+    "h1":"anana",
+    "title":"anana --- synonyms, prabhupada.io",
+    "description":"at the face; face; mouths."
+}
+---
 
 ==== ānana  ====
   * at the face --- [[books:cc:madhya:2:45|Madhya 2.45]]

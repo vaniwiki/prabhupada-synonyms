@@ -1,5 +1,11 @@
-~~Title:artiḥ~~
-{{description>pains.}}
+---json
+{
+    "name":"artiḥ",
+    "h1":"artiḥ",
+    "title":"artiḥ --- synonyms, prabhupada.io",
+    "description":"pains."
+}
+---
 
 ==== artiḥ  ====
   * pains --- [[books:sb:2:2:27|SB 2.2.27]]

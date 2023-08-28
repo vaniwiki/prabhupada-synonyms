@@ -1,5 +1,11 @@
-~~Title:aparāṇi~~
-{{description>other; others, one after another.}}
+---json
+{
+    "name":"aparāṇi",
+    "h1":"aparāṇi",
+    "title":"aparāṇi --- synonyms, prabhupada.io",
+    "description":"other; others, one after another."
+}
+---
 
 ==== aparāṇi  ====
   * other --- [[books:bg:2:22|Bg. 2.22]]

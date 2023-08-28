@@ -1,5 +1,11 @@
-~~Title:ayutaih~~
-{{description>being added.}}
+---json
+{
+    "name":"ayutaih",
+    "h1":"ayutaih",
+    "title":"ayutaih --- synonyms, prabhupada.io",
+    "description":"being added."
+}
+---
 
 ==== āyutaiḥ  ====
   * being added --- [[books:sb:1:8:49|SB 1.8.49]]

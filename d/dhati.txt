@@ -1,5 +1,11 @@
-~~Title:dhaṭī~~
-{{description>silken wrapper; the silken cloth.}}
+---json
+{
+    "name":"dhaṭī",
+    "h1":"dhaṭī",
+    "title":"dhaṭī --- synonyms, prabhupada.io",
+    "description":"silken wrapper; the silken cloth."
+}
+---
 
 ==== neta-dhaṭī  ====
   * silken wrapper --- [[books:cc:antya:9:107|Antya 9.107]]

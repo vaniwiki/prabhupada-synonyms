@@ -1,5 +1,11 @@
-~~Title:chāḍibe~~
-{{description>should give up; will give up.}}
+---json
+{
+    "name":"chāḍibe",
+    "h1":"chāḍibe",
+    "title":"chāḍibe --- synonyms, prabhupada.io",
+    "description":"should give up; will give up."
+}
+---
 
 ==== chāḍibe  ====
   * should give up --- [[books:cc:madhya:15:156|Madhya 15.156]]

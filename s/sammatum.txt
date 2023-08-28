@@ -1,5 +1,11 @@
-~~Title:sammātum~~
-{{description>place on equal footing.}}
+---json
+{
+    "name":"sammātum",
+    "h1":"sammātum",
+    "title":"sammātum --- synonyms, prabhupada.io",
+    "description":"place on equal footing."
+}
+---
 
 ==== sammātum  ====
   * place on equal footing --- [[books:sb:1:18:42|SB 1.18.42]]

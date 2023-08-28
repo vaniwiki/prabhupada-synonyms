@@ -1,5 +1,11 @@
-~~Title:abhyudayate~~
-{{description>manifests.}}
+---json
+{
+    "name":"abhyudayate",
+    "h1":"abhyudayate",
+    "title":"abhyudayate --- synonyms, prabhupada.io",
+    "description":"manifests."
+}
+---
 
 ==== abhyudayate  ====
   * manifests --- [[books:cc:madhya:2:74|Madhya 2.74]]

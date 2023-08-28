@@ -1,5 +1,11 @@
-~~Title:nāyakaiḥ~~
-{{description>the leaders.}}
+---json
+{
+    "name":"nāyakaiḥ",
+    "h1":"nāyakaiḥ",
+    "title":"nāyakaiḥ --- synonyms, prabhupada.io",
+    "description":"the leaders."
+}
+---
 
 ==== nāyakaiḥ  ====
   * the leaders --- [[books:sb:4:25:20|SB 4.25.20]]

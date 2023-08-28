@@ -1,5 +1,11 @@
-~~Title:parivṛtya~~
-{{description>after circumambulating.}}
+---json
+{
+    "name":"parivṛtya",
+    "h1":"parivṛtya",
+    "title":"parivṛtya --- synonyms, prabhupada.io",
+    "description":"after circumambulating."
+}
+---
 
 ==== parivṛtya  ====
   * after circumambulating --- [[books:sb:3:4:20|SB 3.4.20]]

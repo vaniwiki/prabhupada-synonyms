@@ -1,5 +1,11 @@
-~~Title:ūna~~
-{{description>devoid of strength to stand.}}
+---json
+{
+    "name":"ūna",
+    "h1":"ūna",
+    "title":"ūna --- synonyms, prabhupada.io",
+    "description":"devoid of strength to stand."
+}
+---
 
 ==== ūna-padam  ====
   * devoid of strength to stand --- [[books:sb:1:16:34|SB 1.16.34]]

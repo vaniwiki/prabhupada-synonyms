@@ -1,5 +1,11 @@
-~~Title:kuṇṭha~~
-{{description>full of anxieties.}}
+---json
+{
+    "name":"kuṇṭha",
+    "h1":"kuṇṭha",
+    "title":"kuṇṭha --- synonyms, prabhupada.io",
+    "description":"full of anxieties."
+}
+---
 
 ==== kuṇṭha  ====
   * full of anxieties --- [[books:sb:3:32:17|SB 3.32.17]]

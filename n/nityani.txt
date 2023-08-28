@@ -1,5 +1,11 @@
-~~Title:nityāni~~
-{{description>prescribed duties.}}
+---json
+{
+    "name":"nityāni",
+    "h1":"nityāni",
+    "title":"nityāni --- synonyms, prabhupada.io",
+    "description":"prescribed duties."
+}
+---
 
 ==== nityāni  ====
   * prescribed duties --- [[books:sb:3:32:16|SB 3.32.16]]

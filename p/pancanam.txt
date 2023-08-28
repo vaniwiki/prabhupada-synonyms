@@ -1,5 +1,11 @@
-~~Title:pañcānām~~
-{{description>of five; of the five (previously mentioned).}}
+---json
+{
+    "name":"pañcānām",
+    "h1":"pañcānām",
+    "title":"pañcānām --- synonyms, prabhupada.io",
+    "description":"of five; of the five (previously mentioned)."
+}
+---
 
 ==== pañcānām  ====
   * of five --- [[books:sb:9:21:31-33|SB 9.21.31-33]]

@@ -1,5 +1,11 @@
-~~Title:udvejayanti~~
-{{description>cause unnecessary pain.}}
+---json
+{
+    "name":"udvejayanti",
+    "h1":"udvejayanti",
+    "title":"udvejayanti --- synonyms, prabhupada.io",
+    "description":"cause unnecessary pain."
+}
+---
 
 ==== udvejayanti  ====
   * cause unnecessary pain --- [[books:sb:5:26:33|SB 5.26.33]]

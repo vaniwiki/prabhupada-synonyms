@@ -1,5 +1,11 @@
-~~Title:jñānete~~
-{{description>with knowledge of majesty.}}
+---json
+{
+    "name":"jñānete",
+    "h1":"jñānete",
+    "title":"jñānete --- synonyms, prabhupada.io",
+    "description":"with knowledge of majesty."
+}
+---
 
 ==== aiśvarya jñānete  ====
   * with knowledge of majesty --- [[books:cc:adi:4:17|Ādi 4.17]]

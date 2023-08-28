@@ -1,5 +1,11 @@
-~~Title:parva~~
-{{description>functions.}}
+---json
+{
+    "name":"parva",
+    "h1":"parva",
+    "title":"parva --- synonyms, prabhupada.io",
+    "description":"functions."
+}
+---
 
 ==== parva  ====
   * functions --- [[books:sb:3:21:18|SB 3.21.18]]

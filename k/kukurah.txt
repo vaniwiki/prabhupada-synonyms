@@ -1,5 +1,11 @@
-~~Title:kukuraḥ~~
-{{description>Kukura.}}
+---json
+{
+    "name":"kukuraḥ",
+    "h1":"kukuraḥ",
+    "title":"kukuraḥ --- synonyms, prabhupada.io",
+    "description":"Kukura."
+}
+---
 
 ==== kukuraḥ  ====
   * Kukura --- [[books:sb:9:24:19|SB 9.24.19]]

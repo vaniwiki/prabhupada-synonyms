@@ -1,5 +1,11 @@
-~~Title:samarpitam~~
-{{description>being informed of.}}
+---json
+{
+    "name":"samarpitam",
+    "h1":"samarpitam",
+    "title":"samarpitam --- synonyms, prabhupada.io",
+    "description":"being informed of."
+}
+---
 
 ==== samarpitam  ====
   * being informed of --- [[books:sb:10:3:22|SB 10.3.22]]

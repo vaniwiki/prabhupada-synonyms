@@ -1,5 +1,11 @@
-~~Title:acalitām~~
-{{description>unflinching.}}
+---json
+{
+    "name":"acalitām",
+    "h1":"acalitām",
+    "title":"acalitām --- synonyms, prabhupada.io",
+    "description":"unflinching."
+}
+---
 
 ==== acalitām  ====
   * unflinching --- [[books:sb:4:12:8|SB 4.12.8]]

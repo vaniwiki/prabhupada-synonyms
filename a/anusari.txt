@@ -1,5 +1,11 @@
-~~Title:anusārī~~
-{{description>according to the proportion of faith.}}
+---json
+{
+    "name":"anusārī",
+    "h1":"anusārī",
+    "title":"anusārī --- synonyms, prabhupada.io",
+    "description":"according to the proportion of faith."
+}
+---
 
 ==== śraddhā-anusārī  ====
   * according to the proportion of faith --- [[books:cc:madhya:22:64|Madhya 22.64]]

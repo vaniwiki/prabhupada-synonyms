@@ -1,5 +1,11 @@
-~~Title:upalipyate~~
-{{description>mixes.}}
+---json
+{
+    "name":"upalipyate",
+    "h1":"upalipyate",
+    "title":"upalipyate --- synonyms, prabhupada.io",
+    "description":"mixes."
+}
+---
 
 ==== upalipyate  ====
   * mixes --- [[books:bg:13:33|Bg. 13.33]]

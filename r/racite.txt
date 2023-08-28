@@ -1,5 +1,11 @@
-~~Title:racite~~
-{{description>compiled; made of; which is manufactured.}}
+---json
+{
+    "name":"racite",
+    "h1":"racite",
+    "title":"racite --- synonyms, prabhupada.io",
+    "description":"compiled; made of; which is manufactured."
+}
+---
 
 ==== racite  ====
   * compiled --- [[books:cc:adi:8:39|Ādi 8.39]]

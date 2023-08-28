@@ -1,5 +1,11 @@
-~~Title:rantum~~
-{{description>to enjoy.}}
+---json
+{
+    "name":"rantum",
+    "h1":"rantum",
+    "title":"rantum --- synonyms, prabhupada.io",
+    "description":"to enjoy."
+}
+---
 
 ==== rantum  ====
   * to enjoy --- [[books:mm:4|MM 4]]

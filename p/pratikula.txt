@@ -1,5 +1,11 @@
-~~Title:pratikūla~~
-{{description>acting inimically.}}
+---json
+{
+    "name":"pratikūla",
+    "h1":"pratikūla",
+    "title":"pratikūla --- synonyms, prabhupada.io",
+    "description":"acting inimically."
+}
+---
 
 ==== pratikūla-vṛttim  ====
   * acting inimically --- [[books:sb:3:16:6|SB 3.16.6]]

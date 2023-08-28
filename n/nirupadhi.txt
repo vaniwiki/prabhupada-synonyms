@@ -1,5 +1,11 @@
-~~Title:nirupādhi~~
-{{description>without identification.}}
+---json
+{
+    "name":"nirupādhi",
+    "h1":"nirupādhi",
+    "title":"nirupādhi --- synonyms, prabhupada.io",
+    "description":"without identification."
+}
+---
 
 ==== nirupādhi  ====
   * without identification --- [[books:cc:adi:4:200-201|Ādi 4.200-201]]

@@ -1,5 +1,11 @@
-~~Title:mauhurtikah~~
-{{description>moment.}}
+---json
+{
+    "name":"mauhurtikah",
+    "h1":"mauhurtikah",
+    "title":"mauhurtikah --- synonyms, prabhupada.io",
+    "description":"moment."
+}
+---
 
 ==== mauhūrtikaḥ  ====
   * moment --- [[books:sb:3:18:27|SB 3.18.27]]

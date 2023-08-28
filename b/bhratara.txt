@@ -1,5 +1,11 @@
-~~Title:bhrātāra~~
-{{description>of the brother.}}
+---json
+{
+    "name":"bhrātāra",
+    "h1":"bhrātāra",
+    "title":"bhrātāra --- synonyms, prabhupada.io",
+    "description":"of the brother."
+}
+---
 
 ==== bhrātāra  ====
   * of the brother --- [[books:cc:adi:5:178|Ādi 5.178]]

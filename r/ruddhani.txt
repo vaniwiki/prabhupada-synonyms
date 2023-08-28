@@ -1,5 +1,11 @@
-~~Title:ruddhāni~~
-{{description>hidden within yourself.}}
+---json
+{
+    "name":"ruddhāni",
+    "h1":"ruddhāni",
+    "title":"ruddhāni --- synonyms, prabhupada.io",
+    "description":"hidden within yourself."
+}
+---
 
 ==== ātma-ruddhāni  ====
   * hidden within yourself --- [[books:sb:4:17:24|SB 4.17.24]]

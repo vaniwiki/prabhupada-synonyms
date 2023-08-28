@@ -1,5 +1,11 @@
-~~Title:gaṅgāte~~
-{{description>in the Ganges; in the river Ganges; in the water of the Ganges.}}
+---json
+{
+    "name":"gaṅgāte",
+    "h1":"gaṅgāte",
+    "title":"gaṅgāte --- synonyms, prabhupada.io",
+    "description":"in the Ganges; in the river Ganges; in the water of the Ganges."
+}
+---
 
 ==== gaṅgāte  ====
   * in the Ganges --- [[books:cc:adi:14:48|Ādi 14.48]]

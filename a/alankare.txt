@@ -1,5 +1,11 @@
-~~Title:alaṅkāre~~
-{{description>ornaments.}}
+---json
+{
+    "name":"alaṅkāre",
+    "h1":"alaṅkāre",
+    "title":"alaṅkāre --- synonyms, prabhupada.io",
+    "description":"ornaments."
+}
+---
 
 ==== alaṅkāre  ====
   * ornaments --- [[books:cc:antya:18:83|Antya 18.83]]

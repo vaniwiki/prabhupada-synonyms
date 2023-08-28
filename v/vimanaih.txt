@@ -1,5 +1,11 @@
-~~Title:vimānaiḥ~~
-{{description>by airplanes; with airplanes.}}
+---json
+{
+    "name":"vimānaiḥ",
+    "h1":"vimānaiḥ",
+    "title":"vimānaiḥ --- synonyms, prabhupada.io",
+    "description":"by airplanes; with airplanes."
+}
+---
 
 ==== vimānaiḥ  ====
   * by airplanes --- [[books:sb:8:15:16|SB 8.15.16]]

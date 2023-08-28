@@ -1,5 +1,11 @@
-~~Title:saṁyacchati~~
-{{description>absorbs.}}
+---json
+{
+    "name":"saṁyacchati",
+    "h1":"saṁyacchati",
+    "title":"saṁyacchati --- synonyms, prabhupada.io",
+    "description":"absorbs."
+}
+---
 
 ==== saṁyacchati  ====
   * absorbs --- [[books:sb:2:6:39|SB 2.6.39]]

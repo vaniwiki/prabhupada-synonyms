@@ -1,5 +1,11 @@
-~~Title:bhikṣāra~~
-{{description>for accepting invitations; for eating; of acceptance of prasāda.}}
+---json
+{
+    "name":"bhikṣāra",
+    "h1":"bhikṣāra",
+    "title":"bhikṣāra --- synonyms, prabhupada.io",
+    "description":"for accepting invitations; for eating; of acceptance of prasāda."
+}
+---
 
 ==== bhikṣāra  ====
   * for accepting invitations --- [[books:cc:antya:10:153|Antya 10.153]]

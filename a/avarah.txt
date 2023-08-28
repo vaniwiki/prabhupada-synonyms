@@ -1,5 +1,11 @@
-~~Title:avarah~~
-{{description>inexperienced.}}
+---json
+{
+    "name":"avarah",
+    "h1":"avarah",
+    "title":"avarah --- synonyms, prabhupada.io",
+    "description":"inexperienced."
+}
+---
 
 ==== avaraḥ  ====
   * inexperienced --- [[books:sb:4:18:4|SB 4.18.4]]

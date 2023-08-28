@@ -1,5 +1,11 @@
-~~Title:bandhana~~
-{{description>all bondage; being bound; binding; bondage; great obligation; the arrest; the bonds; the shackles.}}
+---json
+{
+    "name":"bandhana",
+    "h1":"bandhana",
+    "title":"bandhana --- synonyms, prabhupada.io",
+    "description":"all bondage; being bound; binding; bondage; great obligation; the arrest; the bonds; the shackles."
+}
+---
 
 ==== bandhana  ====
   * all bondage --- [[books:cc:adi:16:107|Ādi 16.107]]

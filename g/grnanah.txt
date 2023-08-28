@@ -1,5 +1,11 @@
-~~Title:gṛṇānaḥ~~
-{{description>can count.}}
+---json
+{
+    "name":"gṛṇānaḥ",
+    "h1":"gṛṇānaḥ",
+    "title":"gṛṇānaḥ --- synonyms, prabhupada.io",
+    "description":"can count."
+}
+---
 
 ==== gṛṇānaḥ  ====
   * can count --- [[books:sb:8:23:29|SB 8.23.29]]

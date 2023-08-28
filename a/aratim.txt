@@ -1,5 +1,11 @@
-~~Title:arātim~~
-{{description>the enemy.}}
+---json
+{
+    "name":"arātim",
+    "h1":"arātim",
+    "title":"arātim --- synonyms, prabhupada.io",
+    "description":"the enemy."
+}
+---
 
 ==== arātim  ====
   * the enemy --- [[books:sb:3:18:17|SB 3.18.17]]

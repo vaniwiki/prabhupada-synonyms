@@ -1,5 +1,11 @@
-~~Title:sasi~~
-{{description>moon; of the moon; the moon.}}
+---json
+{
+    "name":"sasi",
+    "h1":"sasi",
+    "title":"sasi --- synonyms, prabhupada.io",
+    "description":"moon; of the moon; the moon."
+}
+---
 
 ==== śaśi  ====
   * moon --- [[books:bg:11:19|Bg. 11.19]]

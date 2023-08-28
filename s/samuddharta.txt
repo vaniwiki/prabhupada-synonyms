@@ -1,5 +1,11 @@
-~~Title:samuddhartā~~
-{{description>deliverer.}}
+---json
+{
+    "name":"samuddhartā",
+    "h1":"samuddhartā",
+    "title":"samuddhartā --- synonyms, prabhupada.io",
+    "description":"deliverer."
+}
+---
 
 ==== samuddhartā  ====
   * deliverer --- [[books:bg:12:6-7|Bg. 12.6-7]]

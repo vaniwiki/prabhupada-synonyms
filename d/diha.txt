@@ -1,5 +1,11 @@
-~~Title:diha~~
-{{description>put.}}
+---json
+{
+    "name":"diha",
+    "h1":"diha",
+    "title":"diha --- synonyms, prabhupada.io",
+    "description":"put."
+}
+---
 
 ==== diha'  ====
   * put --- [[books:cc:antya:12:104|Antya 12.104]]

@@ -1,5 +1,11 @@
-~~Title:khaḍgaiḥ~~
-{{description>by swords; on the backs of rhinoceroses.}}
+---json
+{
+    "name":"khaḍgaiḥ",
+    "h1":"khaḍgaiḥ",
+    "title":"khaḍgaiḥ --- synonyms, prabhupada.io",
+    "description":"by swords; on the backs of rhinoceroses."
+}
+---
 
 ==== khaḍgaiḥ  ====
   * by swords --- [[books:sb:6:10:23|SB 6.10.23]]

@@ -1,5 +1,11 @@
-~~Title:asantoṣam~~
-{{description>the unhappiness.}}
+---json
+{
+    "name":"asantoṣam",
+    "h1":"asantoṣam",
+    "title":"asantoṣam --- synonyms, prabhupada.io",
+    "description":"the unhappiness."
+}
+---
 
 ==== asantoṣam  ====
   * the unhappiness --- [[books:sb:5:8:20|SB 5.8.20]]

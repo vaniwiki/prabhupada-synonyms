@@ -1,5 +1,11 @@
-~~Title:utsṛṣṭam~~
-{{description>which was meant for offering.}}
+---json
+{
+    "name":"utsṛṣṭam",
+    "h1":"utsṛṣṭam",
+    "title":"utsṛṣṭam --- synonyms, prabhupada.io",
+    "description":"which was meant for offering."
+}
+---
 
 ==== utsṛṣṭam  ====
   * which was meant for offering --- [[books:sb:9:8:7|SB 9.8.7]]

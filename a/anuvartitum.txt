@@ -1,5 +1,11 @@
-~~Title:anuvartitum~~
-{{description>to follow in the footsteps.}}
+---json
+{
+    "name":"anuvartitum",
+    "h1":"anuvartitum",
+    "title":"anuvartitum --- synonyms, prabhupada.io",
+    "description":"to follow in the footsteps."
+}
+---
 
 ==== anuvartitum  ====
   * to follow in the footsteps --- [[books:sb:3:14:46|SB 3.14.46]]

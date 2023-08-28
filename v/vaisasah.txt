@@ -1,5 +1,11 @@
-~~Title:vaiśasāḥ~~
-{{description>murderous.}}
+---json
+{
+    "name":"vaiśasāḥ",
+    "h1":"vaiśasāḥ",
+    "title":"vaiśasāḥ --- synonyms, prabhupada.io",
+    "description":"murderous."
+}
+---
 
 ==== ati-vaiśasāḥ  ====
   * murderous --- [[books:sb:3:19:21|SB 3.19.21]]

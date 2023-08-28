@@ -1,5 +1,11 @@
-~~Title:ajnanam~~
-{{description>ignorance; ignoraṇce; nescience; nonsense; which is nothing but constant ignorance and darkness.}}
+---json
+{
+    "name":"ajnanam",
+    "h1":"ajnanam",
+    "title":"ajnanam --- synonyms, prabhupada.io",
+    "description":"ignorance; ignoraṇce; nescience; nonsense; which is nothing but constant ignorance and darkness."
+}
+---
 
 ==== ajñānam  ====
   * ignorance --- [[books:bg:16:4|Bg. 16.4]], [[books:sb:1:8:48|SB 1.8.48]], [[books:sb:7:13:22|SB 7.13.22]], [[books:sb:9:7:25-26|SB 9.7.25-26]]

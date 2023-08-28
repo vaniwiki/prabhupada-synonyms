@@ -1,5 +1,11 @@
-~~Title:dainam~~
-{{description>daily.}}
+---json
+{
+    "name":"dainam",
+    "h1":"dainam",
+    "title":"dainam --- synonyms, prabhupada.io",
+    "description":"daily."
+}
+---
 
 ==== dainam-dinaḥ  ====
   * daily --- [[books:sb:3:11:26|SB 3.11.26]]

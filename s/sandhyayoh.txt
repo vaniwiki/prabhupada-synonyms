@@ -1,5 +1,11 @@
-~~Title:sandhyayoḥ~~
-{{description>at sunrise and sunset.}}
+---json
+{
+    "name":"sandhyayoḥ",
+    "h1":"sandhyayoḥ",
+    "title":"sandhyayoḥ --- synonyms, prabhupada.io",
+    "description":"at sunrise and sunset."
+}
+---
 
 ==== sandhyayoḥ  ====
   * at sunrise and sunset --- [[books:sb:6:18:51|SB 6.18.51]]

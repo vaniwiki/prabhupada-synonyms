@@ -1,5 +1,11 @@
-~~Title:vinyaset~~
-{{description>one should place.}}
+---json
+{
+    "name":"vinyaset",
+    "h1":"vinyaset",
+    "title":"vinyaset --- synonyms, prabhupada.io",
+    "description":"one should place."
+}
+---
 
 ==== vinyaset  ====
   * one should place --- [[books:sb:6:8:4-6|SB 6.8.4-6]]

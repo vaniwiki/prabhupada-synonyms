@@ -1,5 +1,11 @@
-~~Title:dhrauvyam~~
-{{description>or Dhruvaloka.}}
+---json
+{
+    "name":"dhrauvyam",
+    "h1":"dhrauvyam",
+    "title":"dhrauvyam --- synonyms, prabhupada.io",
+    "description":"or Dhruvaloka."
+}
+---
 
 ==== dhrauvyam  ====
   * or Dhruvaloka --- [[books:sb:4:12:45|SB 4.12.45]]

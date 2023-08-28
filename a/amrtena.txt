@@ -1,5 +1,11 @@
-~~Title:amṛtena~~
-{{description>as sweet as nectar; by the nectar.}}
+---json
+{
+    "name":"amṛtena",
+    "h1":"amṛtena",
+    "title":"amṛtena --- synonyms, prabhupada.io",
+    "description":"as sweet as nectar; by the nectar."
+}
+---
 
 ==== amṛtena  ====
   * as sweet as nectar --- [[books:sb:3:21:22|SB 3.21.22]]

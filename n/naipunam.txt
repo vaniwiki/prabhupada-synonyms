@@ -1,5 +1,11 @@
-~~Title:naipuṇam~~
-{{description>serviceable and practical.}}
+---json
+{
+    "name":"naipuṇam",
+    "h1":"naipuṇam",
+    "title":"naipuṇam --- synonyms, prabhupada.io",
+    "description":"serviceable and practical."
+}
+---
 
 ==== naipuṇam  ====
   * serviceable and practical --- [[books:sb:3:25:14|SB 3.25.14]]

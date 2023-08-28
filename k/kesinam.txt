@@ -1,5 +1,11 @@
-~~Title:keśinam~~
-{{description>a son named Keśī.}}
+---json
+{
+    "name":"keśinam",
+    "h1":"keśinam",
+    "title":"keśinam --- synonyms, prabhupada.io",
+    "description":"a son named Keśī."
+}
+---
 
 ==== keśinam  ====
   * a son named Keśī --- [[books:sb:9:24:47-48|SB 9.24.47-48]]

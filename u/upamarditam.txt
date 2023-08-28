@@ -1,5 +1,11 @@
-~~Title:upamarditām~~
-{{description>being smashed.}}
+---json
+{
+    "name":"upamarditām",
+    "h1":"upamarditām",
+    "title":"upamarditām --- synonyms, prabhupada.io",
+    "description":"being smashed."
+}
+---
 
 ==== upamarditām  ====
   * being smashed --- [[books:sb:4:28:10|SB 4.28.10]]

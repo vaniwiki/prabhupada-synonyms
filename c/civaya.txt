@@ -1,5 +1,11 @@
-~~Title:civāya~~
-{{description>chew.}}
+---json
+{
+    "name":"civāya",
+    "h1":"civāya",
+    "title":"civāya --- synonyms, prabhupada.io",
+    "description":"chew."
+}
+---
 
 ==== civāya  ====
   * chew --- [[books:cc:madhya:19:128|Madhya 19.128]]

@@ -1,5 +1,11 @@
-~~Title:yajate~~
-{{description>worship; worships.}}
+---json
+{
+    "name":"yajate",
+    "h1":"yajate",
+    "title":"yajate --- synonyms, prabhupada.io",
+    "description":"worship; worships."
+}
+---
 
 ==== yajate  ====
   * worship --- [[books:sb:1:5:38|SB 1.5.38]]

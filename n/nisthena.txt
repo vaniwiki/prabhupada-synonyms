@@ -1,5 +1,11 @@
-~~Title:niṣṭhena~~
-{{description>aimed at executing austerity.}}
+---json
+{
+    "name":"niṣṭhena",
+    "h1":"niṣṭhena",
+    "title":"niṣṭhena --- synonyms, prabhupada.io",
+    "description":"aimed at executing austerity."
+}
+---
 
 ==== tapaḥ-niṣṭhena  ====
   * aimed at executing austerity --- [[books:sb:7:3:20|SB 7.3.20]]

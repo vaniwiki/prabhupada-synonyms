@@ -1,5 +1,11 @@
-~~Title:anvatiṣṭhata~~
-{{description>stood in one place.}}
+---json
+{
+    "name":"anvatiṣṭhata",
+    "h1":"anvatiṣṭhata",
+    "title":"anvatiṣṭhata --- synonyms, prabhupada.io",
+    "description":"stood in one place."
+}
+---
 
 ==== anvatiṣṭhata  ====
   * stood in one place --- [[books:sb:8:12:26|SB 8.12.26]]

@@ -1,5 +1,11 @@
-~~Title:evahi~~
-{{description>certainly.}}
+---json
+{
+    "name":"evahi",
+    "h1":"evahi",
+    "title":"evahi --- synonyms, prabhupada.io",
+    "description":"certainly."
+}
+---
 
 ==== evahi  ====
   * certainly --- [[books:cc:madhya:1:58|Madhya 1.58]]

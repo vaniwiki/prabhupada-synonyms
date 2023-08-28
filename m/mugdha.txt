@@ -1,5 +1,11 @@
-~~Title:mugdha~~
-{{description>struck with wonder; thus being enchanted.}}
+---json
+{
+    "name":"mugdha",
+    "h1":"mugdha",
+    "title":"mugdha --- synonyms, prabhupada.io",
+    "description":"struck with wonder; thus being enchanted."
+}
+---
 
 ==== mugdha  ====
   * struck with wonder --- [[books:sb:3:2:28|SB 3.2.28]]

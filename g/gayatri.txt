@@ -1,5 +1,11 @@
-~~Title:gāyatrī~~
-{{description>the Gāyatrī hymns; the principal Vedic hymn.}}
+---json
+{
+    "name":"gāyatrī",
+    "h1":"gāyatrī",
+    "title":"gāyatrī --- synonyms, prabhupada.io",
+    "description":"the Gāyatrī hymns; the principal Vedic hymn."
+}
+---
 
 ==== gāyatrī  ====
   * the Gāyatrī hymns --- [[books:bg:10:35|Bg. 10.35]]

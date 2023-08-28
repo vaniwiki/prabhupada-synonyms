@@ -1,5 +1,11 @@
-~~Title:uttare~~
-{{description>northern; on the northern side; passes.}}
+---json
+{
+    "name":"uttare",
+    "h1":"uttare",
+    "title":"uttare --- synonyms, prabhupada.io",
+    "description":"northern; on the northern side; passes."
+}
+---
 
 ==== uttare  ====
   * northern --- [[books:sb:8:18:21|SB 8.18.21]]

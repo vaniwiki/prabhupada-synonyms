@@ -1,5 +1,11 @@
-~~Title:ekaeka~~
-{{description>each and every; of each and every.}}
+---json
+{
+    "name":"ekaeka",
+    "h1":"ekaeka",
+    "title":"ekaeka --- synonyms, prabhupada.io",
+    "description":"each and every; of each and every."
+}
+---
 
 ==== ekaeka  ====
   * each and every --- [[books:cc:adi:6:9|Ādi 6.9]], [[books:cc:adi:6:21|Ādi 6.21]], [[books:cc:madhya:4:102|Madhya 4.102]]

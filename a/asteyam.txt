@@ -1,5 +1,11 @@
-~~Title:asteyam~~
-{{description>practicing not to steal; refraining from theft.}}
+---json
+{
+    "name":"asteyam",
+    "h1":"asteyam",
+    "title":"asteyam --- synonyms, prabhupada.io",
+    "description":"practicing not to steal; refraining from theft."
+}
+---
 
 ==== asteyam  ====
   * practicing not to steal --- [[books:sb:7:11:24|SB 7.11.24]]

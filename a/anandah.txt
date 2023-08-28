@@ -1,5 +1,11 @@
-~~Title:ānandaḥ~~
-{{description>the spiritually blissful life of the monist.}}
+---json
+{
+    "name":"ānandaḥ",
+    "h1":"ānandaḥ",
+    "title":"ānandaḥ --- synonyms, prabhupada.io",
+    "description":"the spiritually blissful life of the monist."
+}
+---
 
 ==== brahma-ānandaḥ  ====
   * the spiritually blissful life of the monist --- [[books:cc:madhya:19:165|Madhya 19.165]]

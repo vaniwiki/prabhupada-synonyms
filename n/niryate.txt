@@ -1,5 +1,11 @@
-~~Title:niryāte~~
-{{description>had gone away.}}
+---json
+{
+    "name":"niryāte",
+    "h1":"niryāte",
+    "title":"niryāte --- synonyms, prabhupada.io",
+    "description":"had gone away."
+}
+---
 
 ==== niryāte  ====
   * had gone away --- [[books:sb:9:15:27|SB 9.15.27]]

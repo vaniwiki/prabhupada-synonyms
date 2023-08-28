@@ -1,5 +1,11 @@
-~~Title:ahi~~
-{{description>by the serpent; different kinds of snakes; like a snake; serpent; snake; the cobras.}}
+---json
+{
+    "name":"ahi",
+    "h1":"ahi",
+    "title":"ahi --- synonyms, prabhupada.io",
+    "description":"by the serpent; different kinds of snakes; like a snake; serpent; snake; the cobras."
+}
+---
 
 ==== ahi  ====
   * by the serpent --- [[books:sb:5:12:2|SB 5.12.2]]

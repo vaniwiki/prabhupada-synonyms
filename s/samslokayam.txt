@@ -1,5 +1,11 @@
-~~Title:saṁślokayām~~
-{{description>described in verses.}}
+---json
+{
+    "name":"saṁślokayām",
+    "h1":"saṁślokayām",
+    "title":"saṁślokayām --- synonyms, prabhupada.io",
+    "description":"described in verses."
+}
+---
 
 ==== saṁślokayām āsa  ====
   * described in verses --- [[books:sb:5:25:8|SB 5.25.8]]

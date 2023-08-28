@@ -1,5 +1,11 @@
-~~Title:tuli~~
-{{description>batches of cotton.}}
+---json
+{
+    "name":"tuli",
+    "h1":"tuli",
+    "title":"tuli --- synonyms, prabhupada.io",
+    "description":"batches of cotton."
+}
+---
 
 ==== tuli  ====
   * batches of cotton --- [[books:cc:madhya:14:247|Madhya 14.247]]

@@ -1,5 +1,11 @@
-~~Title:kanta~~
-{{description>lover; of her husband, Nārāyaṇa.}}
+---json
+{
+    "name":"kanta",
+    "h1":"kanta",
+    "title":"kanta --- synonyms, prabhupada.io",
+    "description":"lover; of her husband, Nārāyaṇa."
+}
+---
 
 ==== kānta  ====
   * lover --- [[books:cc:adi:17:277|Ādi 17.277]]

@@ -1,5 +1,11 @@
-~~Title:iti~~
-{{description>thus; all these; also; and so on; as; as such; considering all these things; considering in that way; here; in this way (after giving everything to the brāhmaṇas); in this way; it is thus; known by these names; like that; like this; so it is; such; taking it as; that; therefore; they; this; thus (Hariścandra said); thus (saying out of contempt); thus (thinking in the above-mentioned way); thus (thinking); thus; thus accepted; thus accepting the words of Lord Brahmā; thus deciding; thus stated; thus thinking; thus vituperating.}}
+---json
+{
+    "name":"iti",
+    "h1":"iti",
+    "title":"iti --- synonyms, prabhupada.io",
+    "description":"thus; all these; also; and so on; as; as such; considering all these things; considering in that way; here; in this way (after giving everything to the brāhmaṇas); in this way; it is thus; known by these names; like that; like this; so it is; such; taking it as; that; therefore; they; this; thus (Hariścandra said); thus (saying out of contempt); thus (thinking in the above-mentioned way); thus (thinking); thus; thus accepted; thus accepting the words of Lord Brahmā; thus deciding; thus stated; thus thinking; thus vituperating."
+}
+---
 
 ==== iti  ====
   * //thus// --- [[books:cc:madhya:8:216|Madhya 8.216]]

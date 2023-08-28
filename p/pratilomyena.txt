@@ -1,5 +1,11 @@
-~~Title:prātilomyena~~
-{{description>in the reverse order.}}
+---json
+{
+    "name":"prātilomyena",
+    "h1":"prātilomyena",
+    "title":"prātilomyena --- synonyms, prabhupada.io",
+    "description":"in the reverse order."
+}
+---
 
 ==== prātilomyena  ====
   * in the reverse order --- [[books:sb:5:23:6|SB 5.23.6]]

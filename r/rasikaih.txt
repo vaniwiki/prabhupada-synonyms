@@ -1,5 +1,11 @@
-~~Title:rasikaiḥ~~
-{{description>with the devotees.}}
+---json
+{
+    "name":"rasikaiḥ",
+    "h1":"rasikaiḥ",
+    "title":"rasikaiḥ --- synonyms, prabhupada.io",
+    "description":"with the devotees."
+}
+---
 
 ==== rasikaiḥ saha  ====
   * with the devotees --- [[books:cc:madhya:22:131|Madhya 22.131]]

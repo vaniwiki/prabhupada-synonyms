@@ -1,5 +1,11 @@
-~~Title:vata~~
-{{description>farthing.}}
+---json
+{
+    "name":"vata",
+    "h1":"vata",
+    "title":"vata --- synonyms, prabhupada.io",
+    "description":"farthing."
+}
+---
 
 ==== vaṭa  ====
   * farthing --- [[books:cc:madhya:4:185|Madhya 4.185]]

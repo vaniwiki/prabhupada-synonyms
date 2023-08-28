@@ -1,5 +1,11 @@
-~~Title:raupya~~
-{{description>made of silver; silver.}}
+---json
+{
+    "name":"raupya",
+    "h1":"raupya",
+    "title":"raupya --- synonyms, prabhupada.io",
+    "description":"made of silver; silver."
+}
+---
 
 ==== raupya  ====
   * made of silver --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

@@ -1,5 +1,11 @@
-~~Title:aṅgyaḥ~~
-{{description>charming in every limb.}}
+---json
+{
+    "name":"aṅgyaḥ",
+    "h1":"aṅgyaḥ",
+    "title":"aṅgyaḥ --- synonyms, prabhupada.io",
+    "description":"charming in every limb."
+}
+---
 
 ==== cāru-sarva-aṅgyaḥ  ====
   * charming in every limb --- [[books:sb:3:23:48|SB 3.23.48]]

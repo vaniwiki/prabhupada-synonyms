@@ -1,5 +1,11 @@
-~~Title:kāṅpite~~
-{{description>while shivering.}}
+---json
+{
+    "name":"kāṅpite",
+    "h1":"kāṅpite",
+    "title":"kāṅpite --- synonyms, prabhupada.io",
+    "description":"while shivering."
+}
+---
 
 ==== kāṅpite kāṅpite  ====
   * while shivering --- [[books:cc:antya:14:96|Antya 14.96]]

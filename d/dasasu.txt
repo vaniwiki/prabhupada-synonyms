@@ -1,5 +1,11 @@
-~~Title:daśasu~~
-{{description>ten sides.}}
+---json
+{
+    "name":"daśasu",
+    "h1":"daśasu",
+    "title":"daśasu --- synonyms, prabhupada.io",
+    "description":"ten sides."
+}
+---
 
 ==== daśasu  ====
   * ten sides --- [[books:sb:2:7:20|SB 2.7.20]]

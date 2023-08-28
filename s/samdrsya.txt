@@ -1,5 +1,11 @@
-~~Title:saṁdṛśya~~
-{{description>by observing.}}
+---json
+{
+    "name":"saṁdṛśya",
+    "h1":"saṁdṛśya",
+    "title":"saṁdṛśya --- synonyms, prabhupada.io",
+    "description":"by observing."
+}
+---
 
 ==== saṁdṛśya  ====
   * by observing --- [[books:sb:10:9:7|SB 10.9.7]]

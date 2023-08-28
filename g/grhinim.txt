@@ -1,5 +1,11 @@
-~~Title:gṛhiṇīm~~
-{{description>wife.}}
+---json
+{
+    "name":"gṛhiṇīm",
+    "h1":"gṛhiṇīm",
+    "title":"gṛhiṇīm --- synonyms, prabhupada.io",
+    "description":"wife."
+}
+---
 
 ==== gṛhiṇīm  ====
   * wife --- [[books:sb:4:26:13|SB 4.26.13]]

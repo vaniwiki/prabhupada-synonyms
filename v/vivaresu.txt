@@ -1,5 +1,11 @@
-~~Title:vivareṣu~~
-{{description>in secluded places.}}
+---json
+{
+    "name":"vivareṣu",
+    "h1":"vivareṣu",
+    "title":"vivareṣu --- synonyms, prabhupada.io",
+    "description":"in secluded places."
+}
+---
 
 ==== vivareṣu  ====
   * in secluded places --- [[books:sb:10:2:7|SB 10.2.7]]

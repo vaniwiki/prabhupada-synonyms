@@ -1,5 +1,11 @@
-~~Title:āsvādaḥ~~
-{{description>enjoying the taste.}}
+---json
+{
+    "name":"āsvādaḥ",
+    "h1":"āsvādaḥ",
+    "title":"āsvādaḥ --- synonyms, prabhupada.io",
+    "description":"enjoying the taste."
+}
+---
 
 ==== āsvādaḥ  ====
   * enjoying the taste --- [[books:cc:madhya:22:131|Madhya 22.131]]

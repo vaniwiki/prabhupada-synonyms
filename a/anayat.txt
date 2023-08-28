@@ -1,5 +1,11 @@
-~~Title:anayat~~
-{{description>brought; brought back; delivered; has brought; lead; sent.}}
+---json
+{
+    "name":"anayat",
+    "h1":"anayat",
+    "title":"anayat --- synonyms, prabhupada.io",
+    "description":"brought; brought back; delivered; has brought; lead; sent."
+}
+---
 
 ==== anayat  ====
   * brought --- [[books:sb:5:8:7|SB 5.8.7]], [[books:sb:8:24:23|SB 8.24.23]], [[books:cc:madhya:8:100|Madhya 8.100]]

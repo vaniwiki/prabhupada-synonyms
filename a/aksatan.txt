@@ -1,5 +1,11 @@
-~~Title:akṣatān~~
-{{description>not injured.}}
+---json
+{
+    "name":"akṣatān",
+    "h1":"akṣatān",
+    "title":"akṣatān --- synonyms, prabhupada.io",
+    "description":"not injured."
+}
+---
 
 ==== akṣatān  ====
   * not injured --- [[books:sb:6:10:27|SB 6.10.27]]

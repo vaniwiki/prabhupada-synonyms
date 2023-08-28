@@ -1,5 +1,11 @@
-~~Title:rayah~~
-{{description>dexterity; duration of life; Raya; very powerful.}}
+---json
+{
+    "name":"rayah",
+    "h1":"rayah",
+    "title":"rayah --- synonyms, prabhupada.io",
+    "description":"dexterity; duration of life; Raya; very powerful."
+}
+---
 
 ==== rayaḥ  ====
   * dexterity --- [[books:sb:1:14:30|SB 1.14.30]]

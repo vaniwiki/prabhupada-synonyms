@@ -1,5 +1,11 @@
-~~Title:madayā~~
-{{description>full of ecstasy.}}
+---json
+{
+    "name":"madayā",
+    "h1":"madayā",
+    "title":"madayā --- synonyms, prabhupada.io",
+    "description":"full of ecstasy."
+}
+---
 
 ==== sa-madayā  ====
   * full of ecstasy --- [[books:cc:madhya:10:119|Madhya 10.119]]

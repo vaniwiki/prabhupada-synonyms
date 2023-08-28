@@ -1,5 +1,11 @@
-~~Title:paśoḥ~~
-{{description>of an animal; of the animal; of the human animal.}}
+---json
+{
+    "name":"paśoḥ",
+    "h1":"paśoḥ",
+    "title":"paśoḥ --- synonyms, prabhupada.io",
+    "description":"of an animal; of the animal; of the human animal."
+}
+---
 
 ==== paśoḥ  ====
   * of an animal --- [[books:sb:6:11:15|SB 6.11.15]]

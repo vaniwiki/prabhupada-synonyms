@@ -1,5 +1,11 @@
-~~Title:anuvādane~~
-{{description>in glorifying.}}
+---json
+{
+    "name":"anuvādane",
+    "h1":"anuvādane",
+    "title":"anuvādane --- synonyms, prabhupada.io",
+    "description":"in glorifying."
+}
+---
 
 ==== guṇa-anuvādane  ====
   * in glorifying --- [[books:sb:4:22:20|SB 4.22.20]]

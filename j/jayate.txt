@@ -1,5 +1,11 @@
-~~Title:jayate~~
-{{description>one becomes victorious.}}
+---json
+{
+    "name":"jayate",
+    "h1":"jayate",
+    "title":"jayate --- synonyms, prabhupada.io",
+    "description":"one becomes victorious."
+}
+---
 
 ==== jayate  ====
   * one becomes victorious --- [[books:sb:4:21:46|SB 4.21.46]]

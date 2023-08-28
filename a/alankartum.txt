@@ -1,5 +1,11 @@
-~~Title:alaṅkartum~~
-{{description>to decorate.}}
+---json
+{
+    "name":"alaṅkartum",
+    "h1":"alaṅkartum",
+    "title":"alaṅkartum --- synonyms, prabhupada.io",
+    "description":"to decorate."
+}
+---
 
 ==== alaṅkartum  ====
   * to decorate --- [[books:sb:4:25:29|SB 4.25.29]]

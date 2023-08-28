@@ -1,5 +1,11 @@
-~~Title:vairāgyera~~
-{{description>of the renunciation.}}
+---json
+{
+    "name":"vairāgyera",
+    "h1":"vairāgyera",
+    "title":"vairāgyera --- synonyms, prabhupada.io",
+    "description":"of the renunciation."
+}
+---
 
 ==== vairāgyera  ====
   * of the renunciation --- [[books:cc:antya:6:311|Antya 6.311]]

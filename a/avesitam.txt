@@ -1,5 +1,11 @@
-~~Title:āveśitam~~
-{{description>entered.}}
+---json
+{
+    "name":"āveśitam",
+    "h1":"āveśitam",
+    "title":"āveśitam --- synonyms, prabhupada.io",
+    "description":"entered."
+}
+---
 
 ==== āveśitam  ====
   * entered --- [[books:sb:5:16:3|SB 5.16.3]]

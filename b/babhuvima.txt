@@ -1,5 +1,11 @@
-~~Title:babhūvima~~
-{{description>created; we have become.}}
+---json
+{
+    "name":"babhūvima",
+    "h1":"babhūvima",
+    "title":"babhūvima --- synonyms, prabhupada.io",
+    "description":"created; we have become."
+}
+---
 
 ==== babhūvima  ====
   * created --- [[books:sb:3:5:51|SB 3.5.51]]

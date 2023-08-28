@@ -1,5 +1,11 @@
-~~Title:uddhava~~
-{{description>by Uddhava; My dear Uddhava; O Uddhava; of the name Uddhava; Uddhava.}}
+---json
+{
+    "name":"uddhava",
+    "h1":"uddhava",
+    "title":"uddhava --- synonyms, prabhupada.io",
+    "description":"by Uddhava; My dear Uddhava; O Uddhava; of the name Uddhava; Uddhava."
+}
+---
 
 ==== uddhava  ====
   * by Uddhava --- [[books:cc:madhya:23:8|Madhya 23.8]]

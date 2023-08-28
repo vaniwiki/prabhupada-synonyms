@@ -1,5 +1,11 @@
-~~Title:phālgune~~
-{{description>in the month of Phālguna (February-March); in the next month, Phālguna.}}
+---json
+{
+    "name":"phālgune",
+    "h1":"phālgune",
+    "title":"phālgune --- synonyms, prabhupada.io",
+    "description":"in the month of Phālguna (February-March); in the next month, Phālguna."
+}
+---
 
 ==== phālgune  ====
   * in the month of Phālguna (February-March) --- [[books:cc:madhya:20:199|Madhya 20.199]]

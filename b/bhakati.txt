@@ -1,5 +1,11 @@
-~~Title:bhakati~~
-{{description>highly developed devotional service.}}
+---json
+{
+    "name":"bhakati",
+    "h1":"bhakati",
+    "title":"bhakati --- synonyms, prabhupada.io",
+    "description":"highly developed devotional service."
+}
+---
 
 ==== parama-bhakati  ====
   * highly developed devotional service --- [[books:cc:antya:10:34|Antya 10.34]]

@@ -1,5 +1,11 @@
-~~Title:varūthinī~~
-{{description>the commander of the soldiers.}}
+---json
+{
+    "name":"varūthinī",
+    "h1":"varūthinī",
+    "title":"varūthinī --- synonyms, prabhupada.io",
+    "description":"the commander of the soldiers."
+}
+---
 
 ==== varūthinī-patiḥ  ====
   * the commander of the soldiers --- [[books:sb:8:15:23|SB 8.15.23]]

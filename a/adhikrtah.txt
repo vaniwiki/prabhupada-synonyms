@@ -1,5 +1,11 @@
-~~Title:adhikṛtaḥ~~
-{{description>occupied.}}
+---json
+{
+    "name":"adhikṛtaḥ",
+    "h1":"adhikṛtaḥ",
+    "title":"adhikṛtaḥ --- synonyms, prabhupada.io",
+    "description":"occupied."
+}
+---
 
 ==== adhikṛtaḥ  ====
   * occupied --- [[books:sb:3:5:8|SB 3.5.8]]

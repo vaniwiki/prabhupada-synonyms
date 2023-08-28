@@ -1,5 +1,11 @@
-~~Title:bāḍaye~~
-{{description>increased; increases.}}
+---json
+{
+    "name":"bāḍaye",
+    "h1":"bāḍaye",
+    "title":"bāḍaye --- synonyms, prabhupada.io",
+    "description":"increased; increases."
+}
+---
 
 ==== bāḍaye  ====
   * increased --- [[books:cc:antya:3:66|Antya 3.66]]

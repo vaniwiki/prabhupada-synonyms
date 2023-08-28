@@ -1,5 +1,11 @@
-~~Title:vistaram~~
-{{description>in detail; very expensive arrangements.}}
+---json
+{
+    "name":"vistaram",
+    "h1":"vistaram",
+    "title":"vistaram --- synonyms, prabhupada.io",
+    "description":"in detail; very expensive arrangements."
+}
+---
 
 ==== vistaram  ====
   * in detail --- [[books:sb:3:14:4|SB 3.14.4]]

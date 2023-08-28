@@ -1,5 +1,11 @@
-~~Title:yāvataḥ~~
-{{description>all that.}}
+---json
+{
+    "name":"yāvataḥ",
+    "h1":"yāvataḥ",
+    "title":"yāvataḥ --- synonyms, prabhupada.io",
+    "description":"all that."
+}
+---
 
 ==== yāvataḥ  ====
   * all that --- [[books:sb:1:13:2|SB 1.13.2]]

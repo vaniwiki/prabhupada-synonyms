@@ -1,5 +1,11 @@
-~~Title:dainyam~~
-{{description>a miserable condition; moroseness; poverty.}}
+---json
+{
+    "name":"dainyam",
+    "h1":"dainyam",
+    "title":"dainyam --- synonyms, prabhupada.io",
+    "description":"a miserable condition; moroseness; poverty."
+}
+---
 
 ==== dainyam  ====
   * a miserable condition --- [[books:sb:6:10:10|SB 6.10.10]]

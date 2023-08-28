@@ -1,5 +1,11 @@
-~~Title:anudvigna~~
-{{description>without being agitated in mind.}}
+---json
+{
+    "name":"anudvigna",
+    "h1":"anudvigna",
+    "title":"anudvigna --- synonyms, prabhupada.io",
+    "description":"without being agitated in mind."
+}
+---
 
 ==== anudvigna-manāḥ  ====
   * without being agitated in mind --- [[books:bg:2:56|Bg. 2.56]]

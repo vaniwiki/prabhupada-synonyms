@@ -1,5 +1,11 @@
-~~Title:ekāntikaḥ~~
-{{description>unalloyed devotee.}}
+---json
+{
+    "name":"ekāntikaḥ",
+    "h1":"ekāntikaḥ",
+    "title":"ekāntikaḥ --- synonyms, prabhupada.io",
+    "description":"unalloyed devotee."
+}
+---
 
 ==== ekāntikaḥ  ====
   * unalloyed devotee --- [[books:sb:3:20:2|SB 3.20.2]]

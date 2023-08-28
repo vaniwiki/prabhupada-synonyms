@@ -1,5 +1,11 @@
-~~Title:niṣpāditam~~
-{{description>performed.}}
+---json
+{
+    "name":"niṣpāditam",
+    "h1":"niṣpāditam",
+    "title":"niṣpāditam --- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== niṣpāditam  ====
   * performed --- [[books:sb:1:13:50|SB 1.13.50]]

@@ -1,5 +1,11 @@
-~~Title:nirujam~~
-{{description>without difficulties or disease.}}
+---json
+{
+    "name":"nirujam",
+    "h1":"nirujam",
+    "title":"nirujam --- synonyms, prabhupada.io",
+    "description":"without difficulties or disease."
+}
+---
 
 ==== nirujam  ====
   * without difficulties or disease --- [[books:sb:10:5:26|SB 10.5.26]]

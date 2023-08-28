@@ -1,5 +1,11 @@
-~~Title:bhavakāḥ~~
-{{description>very beneficial to others.}}
+---json
+{
+    "name":"bhavakāḥ",
+    "h1":"bhavakāḥ",
+    "title":"bhavakāḥ --- synonyms, prabhupada.io",
+    "description":"very beneficial to others."
+}
+---
 
 ==== para-artha-bhavakāḥ  ====
   * very beneficial to others --- [[books:cc:antya:15:32|Antya 15.32]]

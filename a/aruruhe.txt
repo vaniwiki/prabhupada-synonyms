@@ -1,5 +1,11 @@
-~~Title:āruruhe~~
-{{description>got up; was elevated.}}
+---json
+{
+    "name":"āruruhe",
+    "h1":"āruruhe",
+    "title":"āruruhe --- synonyms, prabhupada.io",
+    "description":"got up; was elevated."
+}
+---
 
 ==== āruruhe  ====
   * got up --- [[books:sb:8:11:16|SB 8.11.16]], [[books:sb:9:10:32|SB 9.10.32]]

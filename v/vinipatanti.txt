@@ -1,5 +1,11 @@
-~~Title:vinipatanti~~
-{{description>fall down.}}
+---json
+{
+    "name":"vinipatanti",
+    "h1":"vinipatanti",
+    "title":"vinipatanti --- synonyms, prabhupada.io",
+    "description":"fall down."
+}
+---
 
 ==== vinipatanti  ====
   * fall down --- [[books:sb:5:18:15|SB 5.18.15]]

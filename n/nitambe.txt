@@ -1,5 +1,11 @@
-~~Title:nitambe~~
-{{description>on the waist.}}
+---json
+{
+    "name":"nitambe",
+    "h1":"nitambe",
+    "title":"nitambe --- synonyms, prabhupada.io",
+    "description":"on the waist."
+}
+---
 
 ==== nitambe  ====
   * on the waist --- [[books:sb:3:8:28|SB 3.8.28]]

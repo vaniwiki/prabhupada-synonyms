@@ -1,5 +1,11 @@
-~~Title:satkāra~~
-{{description>high praise; honor; reception; respect.}}
+---json
+{
+    "name":"satkāra",
+    "h1":"satkāra",
+    "title":"satkāra --- synonyms, prabhupada.io",
+    "description":"high praise; honor; reception; respect."
+}
+---
 
 ==== satkāra  ====
   * high praise --- [[books:cc:adi:16:37|Ādi 16.37]]

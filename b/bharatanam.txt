@@ -1,5 +1,11 @@
-~~Title:bhāratānām~~
-{{description>the division named Bhārata-varṣa.}}
+---json
+{
+    "name":"bhāratānām",
+    "h1":"bhāratānām",
+    "title":"bhāratānām --- synonyms, prabhupada.io",
+    "description":"the division named Bhārata-varṣa."
+}
+---
 
 ==== bhāratānām  ====
   * the division named Bhārata-varṣa --- [[books:sb:5:16:9|SB 5.16.9]]

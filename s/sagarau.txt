@@ -1,5 +1,11 @@
-~~Title:sāgarau~~
-{{description>two oceans.}}
+---json
+{
+    "name":"sāgarau",
+    "h1":"sāgarau",
+    "title":"sāgarau --- synonyms, prabhupada.io",
+    "description":"two oceans."
+}
+---
 
 ==== sāgarau  ====
   * two oceans --- [[books:sb:8:10:13-15|SB 8.10.13-15]]

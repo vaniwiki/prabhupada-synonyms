@@ -1,5 +1,11 @@
-~~Title:nabhasā~~
-{{description>sky.}}
+---json
+{
+    "name":"nabhasā",
+    "h1":"nabhasā",
+    "title":"nabhasā --- synonyms, prabhupada.io",
+    "description":"sky."
+}
+---
 
 ==== nabhasā  ====
   * sky --- [[books:sb:3:5:34|SB 3.5.34]]

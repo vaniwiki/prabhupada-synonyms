@@ -1,5 +1,11 @@
-~~Title:vibhajyante~~
-{{description>are divided.}}
+---json
+{
+    "name":"vibhajyante",
+    "h1":"vibhajyante",
+    "title":"vibhajyante --- synonyms, prabhupada.io",
+    "description":"are divided."
+}
+---
 
 ==== vibhajyante  ====
   * are divided --- [[books:sb:5:20:45|SB 5.20.45]]

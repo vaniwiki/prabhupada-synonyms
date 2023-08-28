@@ -1,5 +1,11 @@
-~~Title:hiṁsram~~
-{{description>a system of killing and sacrificing animals.}}
+---json
+{
+    "name":"hiṁsram",
+    "h1":"hiṁsram",
+    "title":"hiṁsram --- synonyms, prabhupada.io",
+    "description":"a system of killing and sacrificing animals."
+}
+---
 
 ==== hiṁsram  ====
   * a system of killing and sacrificing animals --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

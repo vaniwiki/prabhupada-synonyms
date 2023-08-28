@@ -1,5 +1,11 @@
-~~Title:svastiḥ~~
-{{description>auspiciousness; welfare.}}
+---json
+{
+    "name":"svastiḥ",
+    "h1":"svastiḥ",
+    "title":"svastiḥ --- synonyms, prabhupada.io",
+    "description":"auspiciousness; welfare."
+}
+---
 
 ==== svastiḥ  ====
   * auspiciousness --- [[books:sb:4:24:33|SB 4.24.33]]

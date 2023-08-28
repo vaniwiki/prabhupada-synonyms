@@ -1,5 +1,11 @@
-~~Title:upekṣante~~
-{{description>neglect.}}
+---json
+{
+    "name":"upekṣante",
+    "h1":"upekṣante",
+    "title":"upekṣante --- synonyms, prabhupada.io",
+    "description":"neglect."
+}
+---
 
 ==== upekṣante  ====
   * neglect --- [[books:sb:5:8:10|SB 5.8.10]]

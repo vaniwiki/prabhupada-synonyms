@@ -1,5 +1,11 @@
-~~Title:viṭe~~
-{{description>in a debauchee.}}
+---json
+{
+    "name":"viṭe",
+    "h1":"viṭe",
+    "title":"viṭe --- synonyms, prabhupada.io",
+    "description":"in a debauchee."
+}
+---
 
 ==== viṭe  ====
   * in a debauchee --- [[books:cc:antya:1:154|Antya 1.154]]

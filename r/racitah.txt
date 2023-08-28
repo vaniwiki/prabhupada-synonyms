@@ -1,5 +1,11 @@
-~~Title:racitah~~
-{{description>made.}}
+---json
+{
+    "name":"racitah",
+    "h1":"racitah",
+    "title":"racitah --- synonyms, prabhupada.io",
+    "description":"made."
+}
+---
 
 ==== racitaḥ  ====
   * made --- [[books:sb:6:16:41|SB 6.16.41]]

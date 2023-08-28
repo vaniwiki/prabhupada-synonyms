@@ -1,5 +1,11 @@
-~~Title:iṣumān~~
-{{description>Iṣumān.}}
+---json
+{
+    "name":"iṣumān",
+    "h1":"iṣumān",
+    "title":"iṣumān --- synonyms, prabhupada.io",
+    "description":"Iṣumān."
+}
+---
 
 ==== iṣumān  ====
   * Iṣumān --- [[books:sb:9:24:41|SB 9.24.41]]

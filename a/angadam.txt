@@ -1,5 +1,11 @@
-~~Title:aṅgadam~~
-{{description>ornament.}}
+---json
+{
+    "name":"aṅgadam",
+    "h1":"aṅgadam",
+    "title":"aṅgadam --- synonyms, prabhupada.io",
+    "description":"ornament."
+}
+---
 
 ==== aṅgadam  ====
   * ornament --- [[books:sb:2:2:9|SB 2.2.9]]

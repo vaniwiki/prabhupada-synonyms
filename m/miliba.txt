@@ -1,5 +1,11 @@
-~~Title:miliba~~
-{{description>we will meet.}}
+---json
+{
+    "name":"miliba",
+    "h1":"miliba",
+    "title":"miliba --- synonyms, prabhupada.io",
+    "description":"we will meet."
+}
+---
 
 ==== miliba  ====
   * we will meet --- [[books:cc:adi:16:104|Ādi 16.104]]

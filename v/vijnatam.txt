@@ -1,5 +1,11 @@
-~~Title:vijñātam~~
-{{description>understood.}}
+---json
+{
+    "name":"vijñātam",
+    "h1":"vijñātam",
+    "title":"vijñātam --- synonyms, prabhupada.io",
+    "description":"understood."
+}
+---
 
 ==== vijñātam  ====
   * understood --- [[books:sb:8:17:12|SB 8.17.12]]

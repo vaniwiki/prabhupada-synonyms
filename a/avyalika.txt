@@ -1,5 +1,11 @@
-~~Title:avyalīka~~
-{{description>without any deceptive motive.}}
+---json
+{
+    "name":"avyalīka",
+    "h1":"avyalīka",
+    "title":"avyalīka --- synonyms, prabhupada.io",
+    "description":"without any deceptive motive."
+}
+---
 
 ==== avyalīka  ====
   * without any deceptive motive --- [[books:sb:2:9:4|SB 2.9.4]]

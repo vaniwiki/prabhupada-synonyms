@@ -1,5 +1,11 @@
-~~Title:utkrāmaṇa~~
-{{description>went away.}}
+---json
+{
+    "name":"utkrāmaṇa",
+    "h1":"utkrāmaṇa",
+    "title":"utkrāmaṇa --- synonyms, prabhupada.io",
+    "description":"went away."
+}
+---
 
 ==== kaila utkrāmaṇa  ====
   * went away --- [[books:cc:antya:11:56|Antya 11.56]]

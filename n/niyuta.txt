@@ -1,5 +1,11 @@
-~~Title:niyuta~~
-{{description>ten trillion.}}
+---json
+{
+    "name":"niyuta",
+    "h1":"niyuta",
+    "title":"niyuta --- synonyms, prabhupada.io",
+    "description":"ten trillion."
+}
+---
 
 ==== niyuta-koṭi  ====
   * ten trillion --- [[books:cc:madhya:21:85|Madhya 21.85]]

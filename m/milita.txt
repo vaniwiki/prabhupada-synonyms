@@ -1,5 +1,11 @@
-~~Title:mīlita~~
-{{description>closed.}}
+---json
+{
+    "name":"mīlita",
+    "h1":"mīlita",
+    "title":"mīlita --- synonyms, prabhupada.io",
+    "description":"closed."
+}
+---
 
 ==== mīlita  ====
   * closed --- [[books:sb:1:18:24-25|SB 1.18.24-25]], [[books:sb:1:18:31|SB 1.18.31]]

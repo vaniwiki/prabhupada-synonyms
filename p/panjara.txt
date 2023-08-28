@@ -1,5 +1,11 @@
-~~Title:pañjara~~
-{{description>inside a cage.}}
+---json
+{
+    "name":"pañjara",
+    "h1":"pañjara",
+    "title":"pañjara --- synonyms, prabhupada.io",
+    "description":"inside a cage."
+}
+---
 
 ==== pañjara-antaḥ  ====
   * inside a cage --- [[books:cc:madhya:22:91|Madhya 22.91]]

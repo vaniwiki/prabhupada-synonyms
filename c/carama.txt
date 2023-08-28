@@ -1,5 +1,11 @@
-~~Title:carama~~
-{{description>with the last body.}}
+---json
+{
+    "name":"carama",
+    "h1":"carama",
+    "title":"carama --- synonyms, prabhupada.io",
+    "description":"with the last body."
+}
+---
 
 ==== carama-śarīreṇa  ====
   * with the last body --- [[books:sb:5:9:1-2|SB 5.9.1-2]]

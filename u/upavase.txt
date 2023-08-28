@@ -1,5 +1,11 @@
-~~Title:upavāse~~
-{{description>in fasting.}}
+---json
+{
+    "name":"upavāse",
+    "h1":"upavāse",
+    "title":"upavāse --- synonyms, prabhupada.io",
+    "description":"in fasting."
+}
+---
 
 ==== upavāse  ====
   * in fasting --- [[books:cc:madhya:3:133|Madhya 3.133]]

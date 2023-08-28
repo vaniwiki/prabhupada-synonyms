@@ -1,5 +1,11 @@
-~~Title:pārṣadān~~
-{{description>associates; followers.}}
+---json
+{
+    "name":"pārṣadān",
+    "h1":"pārṣadān",
+    "title":"pārṣadān --- synonyms, prabhupada.io",
+    "description":"associates; followers."
+}
+---
 
 ==== pārṣadān  ====
   * associates --- [[books:sb:4:28:16|SB 4.28.16]]

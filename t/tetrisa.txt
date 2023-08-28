@@ -1,5 +1,11 @@
-~~Title:tetriśa~~
-{{description>thirty-three.}}
+---json
+{
+    "name":"tetriśa",
+    "h1":"tetriśa",
+    "title":"tetriśa --- synonyms, prabhupada.io",
+    "description":"thirty-three."
+}
+---
 
 ==== tetriśa  ====
   * thirty-three --- [[books:cc:madhya:23:52|Madhya 23.52]]

@@ -1,5 +1,11 @@
-~~Title:riṅgatā~~
-{{description>while crawling.}}
+---json
+{
+    "name":"riṅgatā",
+    "h1":"riṅgatā",
+    "title":"riṅgatā --- synonyms, prabhupada.io",
+    "description":"while crawling."
+}
+---
 
 ==== riṅgatā  ====
   * while crawling --- [[books:sb:2:7:27|SB 2.7.27]]

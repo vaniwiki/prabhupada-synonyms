@@ -1,5 +1,11 @@
-~~Title:anupravṛttam~~
-{{description>following.}}
+---json
+{
+    "name":"anupravṛttam",
+    "h1":"anupravṛttam",
+    "title":"anupravṛttam --- synonyms, prabhupada.io",
+    "description":"following."
+}
+---
 
 ==== anupravṛttam  ====
   * following --- [[books:sb:3:25:37|SB 3.25.37]]

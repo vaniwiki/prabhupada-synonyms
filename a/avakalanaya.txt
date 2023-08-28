@@ -1,5 +1,11 @@
-~~Title:avakalanayā~~
-{{description>by sight.}}
+---json
+{
+    "name":"avakalanayā",
+    "h1":"avakalanayā",
+    "title":"avakalanayā --- synonyms, prabhupada.io",
+    "description":"by sight."
+}
+---
 
 ==== avakalanayā  ====
   * by sight --- [[books:cc:antya:18:1|Antya 18.1]]

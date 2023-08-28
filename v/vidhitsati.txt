@@ -1,5 +1,11 @@
-~~Title:vidhitsati~~
-{{description>desires to do.}}
+---json
+{
+    "name":"vidhitsati",
+    "h1":"vidhitsati",
+    "title":"vidhitsati --- synonyms, prabhupada.io",
+    "description":"desires to do."
+}
+---
 
 ==== vidhitsati  ====
   * desires to do --- [[books:sb:3:16:36|SB 3.16.36]]

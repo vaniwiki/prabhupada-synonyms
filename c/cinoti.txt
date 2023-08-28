@@ -1,5 +1,11 @@
-~~Title:cinoti~~
-{{description>He is constructing.}}
+---json
+{
+    "name":"cinoti",
+    "h1":"cinoti",
+    "title":"cinoti --- synonyms, prabhupada.io",
+    "description":"He is constructing."
+}
+---
 
 ==== cinoti  ====
   * He is constructing --- [[books:cc:antya:1:167|Antya 1.167]]

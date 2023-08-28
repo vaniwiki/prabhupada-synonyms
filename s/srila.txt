@@ -1,5 +1,11 @@
-~~Title:śrīla~~
-{{description>most opulent.}}
+---json
+{
+    "name":"śrīla",
+    "h1":"śrīla",
+    "title":"śrīla --- synonyms, prabhupada.io",
+    "description":"most opulent."
+}
+---
 
 ==== śrīla  ====
   * most opulent --- [[books:cc:antya:17:1|Antya 17.1]], [[books:cc:antya:20:154|Antya 20.154]]

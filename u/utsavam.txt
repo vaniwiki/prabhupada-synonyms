@@ -1,5 +1,11 @@
-~~Title:utsavam~~
-{{description>blossoming; festival.}}
+---json
+{
+    "name":"utsavam",
+    "h1":"utsavam",
+    "title":"utsavam --- synonyms, prabhupada.io",
+    "description":"blossoming; festival."
+}
+---
 
 ==== utsavam  ====
   * blossoming --- [[books:sb:6:18:41|SB 6.18.41]]

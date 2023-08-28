@@ -1,5 +1,11 @@
-~~Title:prāmāṇika~~
-{{description>authority.}}
+---json
+{
+    "name":"prāmāṇika",
+    "h1":"prāmāṇika",
+    "title":"prāmāṇika --- synonyms, prabhupada.io",
+    "description":"authority."
+}
+---
 
 ==== prāmāṇika  ====
   * authority --- [[books:cc:antya:4:167|Antya 4.167]]

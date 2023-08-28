@@ -1,5 +1,11 @@
-~~Title:dānavānām~~
-{{description>of all the giants.}}
+---json
+{
+    "name":"dānavānām",
+    "h1":"dānavānām",
+    "title":"dānavānām --- synonyms, prabhupada.io",
+    "description":"of all the giants."
+}
+---
 
 ==== dānavānām  ====
   * of all the giants --- [[books:sb:7:10:33|SB 7.10.33]]

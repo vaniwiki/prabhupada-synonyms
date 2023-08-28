@@ -1,5 +1,11 @@
-~~Title:vidāyera~~
-{{description>of departure.}}
+---json
+{
+    "name":"vidāyera",
+    "h1":"vidāyera",
+    "title":"vidāyera --- synonyms, prabhupada.io",
+    "description":"of departure."
+}
+---
 
 ==== vidāyera  ====
   * of departure --- [[books:cc:madhya:1:135|Madhya 1.135]]

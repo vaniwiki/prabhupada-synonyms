@@ -1,5 +1,11 @@
-~~Title:śobhaye~~
-{{description>becomes beautiful.}}
+---json
+{
+    "name":"śobhaye",
+    "h1":"śobhaye",
+    "title":"śobhaye --- synonyms, prabhupada.io",
+    "description":"becomes beautiful."
+}
+---
 
 ==== śobhaye  ====
   * becomes beautiful --- [[books:cc:madhya:1:230|Madhya 1.230]]

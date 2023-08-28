@@ -1,5 +1,11 @@
-~~Title:sudrah~~
-{{description>a non-brāhmaṇa worker; belonging to the worker class; the laborer class; the laborer class of men; the servitors.}}
+---json
+{
+    "name":"sudrah",
+    "h1":"sudrah",
+    "title":"sudrah --- synonyms, prabhupada.io",
+    "description":"a non-brāhmaṇa worker; belonging to the worker class; the laborer class; the laborer class of men; the servitors."
+}
+---
 
 ==== śūdraḥ  ====
   * a non-//brāhmaṇa// worker --- [[books:sb:9:18:12-14|SB 9.18.12-14]]

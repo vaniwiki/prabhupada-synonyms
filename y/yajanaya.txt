@@ -1,5 +1,11 @@
-~~Title:yajanāya~~
-{{description>worshiping.}}
+---json
+{
+    "name":"yajanāya",
+    "h1":"yajanāya",
+    "title":"yajanāya --- synonyms, prabhupada.io",
+    "description":"worshiping."
+}
+---
 
 ==== yajanāya  ====
   * worshiping --- [[books:sb:4:7:33|SB 4.7.33]]

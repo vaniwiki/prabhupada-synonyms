@@ -1,5 +1,11 @@
-~~Title:samuttham~~
-{{description>sprung up.}}
+---json
+{
+    "name":"samuttham",
+    "h1":"samuttham",
+    "title":"samuttham --- synonyms, prabhupada.io",
+    "description":"sprung up."
+}
+---
 
 ==== samuttham  ====
   * sprung up --- [[books:sb:3:17:29|SB 3.17.29]]

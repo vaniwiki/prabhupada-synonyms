@@ -1,5 +1,11 @@
-~~Title:gādhi~~
-{{description>Gādhi.}}
+---json
+{
+    "name":"gādhi",
+    "h1":"gādhi",
+    "title":"gādhi --- synonyms, prabhupada.io",
+    "description":"Gādhi."
+}
+---
 
 ==== gādhi  ====
   * Gādhi --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

@@ -1,5 +1,11 @@
-~~Title:kuruṣva~~
-{{description>just do; make.}}
+---json
+{
+    "name":"kuruṣva",
+    "h1":"kuruṣva",
+    "title":"kuruṣva --- synonyms, prabhupada.io",
+    "description":"just do; make."
+}
+---
 
 ==== kuruṣva  ====
   * just do --- [[books:cc:madhya:8:60|Madhya 8.60]]

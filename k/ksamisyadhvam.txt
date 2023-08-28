@@ -1,5 +1,11 @@
-~~Title:kṣamiṣyadhvam~~
-{{description>you tolerate.}}
+---json
+{
+    "name":"kṣamiṣyadhvam",
+    "h1":"kṣamiṣyadhvam",
+    "title":"kṣamiṣyadhvam --- synonyms, prabhupada.io",
+    "description":"you tolerate."
+}
+---
 
 ==== kṣamiṣyadhvam  ====
   * you tolerate --- [[books:sb:6:7:25|SB 6.7.25]]

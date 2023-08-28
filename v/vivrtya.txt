@@ -1,5 +1,11 @@
-~~Title:vivṛtya~~
-{{description>opening wide.}}
+---json
+{
+    "name":"vivṛtya",
+    "h1":"vivṛtya",
+    "title":"vivṛtya --- synonyms, prabhupada.io",
+    "description":"opening wide."
+}
+---
 
 ==== vivṛtya  ====
   * opening wide --- [[books:sb:10:6:11|SB 10.6.11]]

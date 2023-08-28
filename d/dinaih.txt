@@ -1,5 +1,11 @@
-~~Title:dīnaiḥ~~
-{{description>poor.}}
+---json
+{
+    "name":"dīnaiḥ",
+    "h1":"dīnaiḥ",
+    "title":"dīnaiḥ --- synonyms, prabhupada.io",
+    "description":"poor."
+}
+---
 
 ==== dīnaiḥ  ====
   * poor --- [[books:sb:6:4:15|SB 6.4.15]]

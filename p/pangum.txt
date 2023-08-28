@@ -1,5 +1,11 @@
-~~Title:paṅgum~~
-{{description>a person who cannot even walk; one who is lame.}}
+---json
+{
+    "name":"paṅgum",
+    "h1":"paṅgum",
+    "title":"paṅgum --- synonyms, prabhupada.io",
+    "description":"a person who cannot even walk; one who is lame."
+}
+---
 
 ==== paṅgum  ====
   * a person who cannot even walk --- [[books:cc:madhya:17:80|Madhya 17.80]]

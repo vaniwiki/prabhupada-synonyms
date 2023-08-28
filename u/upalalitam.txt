@@ -1,5 +1,11 @@
-~~Title:upalālitam~~
-{{description>fondled; treated with great care.}}
+---json
+{
+    "name":"upalālitam",
+    "h1":"upalālitam",
+    "title":"upalālitam --- synonyms, prabhupada.io",
+    "description":"fondled; treated with great care."
+}
+---
 
 ==== upalālitam  ====
   * fondled --- [[books:sb:3:14:28|SB 3.14.28]]

@@ -1,5 +1,11 @@
-~~Title:jnatam~~
-{{description>everything is known; known; known to us.}}
+---json
+{
+    "name":"jnatam",
+    "h1":"jnatam",
+    "title":"jnatam --- synonyms, prabhupada.io",
+    "description":"everything is known; known; known to us."
+}
+---
 
 ==== jñātam  ====
   * everything is known --- [[books:sb:10:10:40|SB 10.10.40]]

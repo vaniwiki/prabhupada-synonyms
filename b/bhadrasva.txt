@@ -1,5 +1,11 @@
-~~Title:bhadrāśva~~
-{{description>Bhadrāśva.}}
+---json
+{
+    "name":"bhadrāśva",
+    "h1":"bhadrāśva",
+    "title":"bhadrāśva --- synonyms, prabhupada.io",
+    "description":"Bhadrāśva."
+}
+---
 
 ==== bhadrāśva  ====
   * Bhadrāśva --- [[books:sb:5:2:19|SB 5.2.19]]

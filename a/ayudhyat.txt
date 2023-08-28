@@ -1,5 +1,11 @@
-~~Title:ayudhyat~~
-{{description>fought one another.}}
+---json
+{
+    "name":"ayudhyat",
+    "h1":"ayudhyat",
+    "title":"ayudhyat --- synonyms, prabhupada.io",
+    "description":"fought one another."
+}
+---
 
 ==== ayudhyat  ====
   * fought one another --- [[books:sb:8:10:28|SB 8.10.28]]

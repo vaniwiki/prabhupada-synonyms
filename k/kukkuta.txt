@@ -1,5 +1,11 @@
-~~Title:kukkuṭa~~
-{{description>water fowl.}}
+---json
+{
+    "name":"kukkuṭa",
+    "h1":"kukkuṭa",
+    "title":"kukkuṭa --- synonyms, prabhupada.io",
+    "description":"water fowl."
+}
+---
 
 ==== jala-kukkuṭa  ====
   * water fowl --- [[books:sb:5:17:13|SB 5.17.13]]

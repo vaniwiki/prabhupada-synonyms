@@ -1,5 +1,11 @@
-~~Title:dṛṣṭavān~~
-{{description>seeing.}}
+---json
+{
+    "name":"dṛṣṭavān",
+    "h1":"dṛṣṭavān",
+    "title":"dṛṣṭavān --- synonyms, prabhupada.io",
+    "description":"seeing."
+}
+---
 
 ==== dṛṣṭavān  ====
   * seeing --- [[books:bg:11:53|Bg. 11.53]]

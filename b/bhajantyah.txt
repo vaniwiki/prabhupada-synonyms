@@ -1,5 +1,11 @@
-~~Title:bhajantyāḥ~~
-{{description>of your servitor.}}
+---json
+{
+    "name":"bhajantyāḥ",
+    "h1":"bhajantyāḥ",
+    "title":"bhajantyāḥ --- synonyms, prabhupada.io",
+    "description":"of your servitor."
+}
+---
 
 ==== bhajantyāḥ  ====
   * of your servitor --- [[books:sb:8:16:15|SB 8.16.15]]

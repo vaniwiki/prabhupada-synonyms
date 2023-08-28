@@ -1,5 +1,11 @@
-~~Title:karaiḥ~~
-{{description>by the shining; with the hands.}}
+---json
+{
+    "name":"karaiḥ",
+    "h1":"karaiḥ",
+    "title":"karaiḥ --- synonyms, prabhupada.io",
+    "description":"by the shining; with the hands."
+}
+---
 
 ==== karaiḥ  ====
   * by the shining --- [[books:sb:3:2:34|SB 3.2.34]]

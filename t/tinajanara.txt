@@ -1,5 +1,11 @@
-~~Title:tinajanāra~~
-{{description>of three persons.}}
+---json
+{
+    "name":"tinajanāra",
+    "h1":"tinajanāra",
+    "title":"tinajanāra --- synonyms, prabhupada.io",
+    "description":"of three persons."
+}
+---
 
 ==== tinajanāra  ====
   * of three persons --- [[books:cc:madhya:3:76|Madhya 3.76]]

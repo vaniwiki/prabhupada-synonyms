@@ -1,5 +1,11 @@
-~~Title:upahanyate~~
-{{description>develops.}}
+---json
+{
+    "name":"upahanyate",
+    "h1":"upahanyate",
+    "title":"upahanyate --- synonyms, prabhupada.io",
+    "description":"develops."
+}
+---
 
 ==== upahanyate  ====
   * develops --- [[books:sb:2:10:41|SB 2.10.41]]

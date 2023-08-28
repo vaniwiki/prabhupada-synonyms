@@ -1,5 +1,11 @@
-~~Title:tahare~~
-{{description>Him.}}
+---json
+{
+    "name":"tahare",
+    "h1":"tahare",
+    "title":"tahare --- synonyms, prabhupada.io",
+    "description":"Him."
+}
+---
 
 ==== tāhare  ====
   * Him --- [[books:cc:adi:17:256|Ādi 17.256]]

@@ -1,5 +1,11 @@
-~~Title:bahugavaḥ~~
-{{description>a son named Bahugava.}}
+---json
+{
+    "name":"bahugavaḥ",
+    "h1":"bahugavaḥ",
+    "title":"bahugavaḥ --- synonyms, prabhupada.io",
+    "description":"a son named Bahugava."
+}
+---
 
 ==== bahugavaḥ  ====
   * a son named Bahugava --- [[books:sb:9:20:3|SB 9.20.3]]

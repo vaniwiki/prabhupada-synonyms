@@ -1,5 +1,11 @@
-~~Title:adarah~~
-{{description>respect, care.}}
+---json
+{
+    "name":"adarah",
+    "h1":"adarah",
+    "title":"adarah --- synonyms, prabhupada.io",
+    "description":"respect, care."
+}
+---
 
 ==== ādaraḥ  ====
   * respect, care --- [[books:cc:madhya:11:29-30|Madhya 11.29-30]]

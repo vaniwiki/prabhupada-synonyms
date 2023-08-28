@@ -1,5 +1,11 @@
-~~Title:pitta~~
-{{description>by the bile.}}
+---json
+{
+    "name":"pitta",
+    "h1":"pitta",
+    "title":"pitta --- synonyms, prabhupada.io",
+    "description":"by the bile."
+}
+---
 
 ==== pitta  ====
   * by the bile --- [[books:noi:7|NoI 7]]

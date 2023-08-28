@@ -1,5 +1,11 @@
-~~Title:alokam~~
-{{description>the supreme abode, filled with the Brahman effulgence; who cannot be seen.}}
+---json
+{
+    "name":"alokam",
+    "h1":"alokam",
+    "title":"alokam --- synonyms, prabhupada.io",
+    "description":"the supreme abode, filled with the Brahman effulgence; who cannot be seen."
+}
+---
 
 ==== alokam  ====
   * the supreme abode, filled with the Brahman effulgence --- [[books:sb:6:12:35|SB 6.12.35]]

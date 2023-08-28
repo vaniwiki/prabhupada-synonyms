@@ -1,5 +1,11 @@
-~~Title:pravepatīm~~
-{{description>while trembling.}}
+---json
+{
+    "name":"pravepatīm",
+    "h1":"pravepatīm",
+    "title":"pravepatīm --- synonyms, prabhupada.io",
+    "description":"while trembling."
+}
+---
 
 ==== pravepatīm  ====
   * while trembling --- [[books:sb:3:14:37|SB 3.14.37]]

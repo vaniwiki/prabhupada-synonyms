@@ -1,5 +1,11 @@
-~~Title:sampat~~
-{{description>nature; of so much wealth; opulence.}}
+---json
+{
+    "name":"sampat",
+    "h1":"sampat",
+    "title":"sampat --- synonyms, prabhupada.io",
+    "description":"nature; of so much wealth; opulence."
+}
+---
 
 ==== sampat  ====
   * nature --- [[books:bg:16:5|Bg. 16.5]]

@@ -1,5 +1,11 @@
-~~Title:radhe~~
-{{description>O Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"radhe",
+    "h1":"radhe",
+    "title":"radhe --- synonyms, prabhupada.io",
+    "description":"O Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhe  ====
   * O Śrīmatī Rādhārāṇī --- [[books:cc:adi:4:259|Ādi 4.259]]

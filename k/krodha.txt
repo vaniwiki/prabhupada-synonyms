@@ -1,5 +1,11 @@
-~~Title:krodha~~
-{{description>and anger; anger; angry; of anger.}}
+---json
+{
+    "name":"krodha",
+    "h1":"krodha",
+    "title":"krodha --- synonyms, prabhupada.io",
+    "description":"and anger; anger; angry; of anger."
+}
+---
 
 ==== krodha  ====
   * and anger --- [[books:cc:madhya:14:198|Madhya 14.198]]

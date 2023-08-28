@@ -1,5 +1,11 @@
-~~Title:tīrtha~~
-{{description>holy place; holy places; holy places of pilgrimage; of holy places; pilgrimage; place of pilgrimage; places of pilgrimage; pure; sacred place; the holy places; the holy places of pilgrimage; the sacred places of pilgrimage.}}
+---json
+{
+    "name":"tīrtha",
+    "h1":"tīrtha",
+    "title":"tīrtha --- synonyms, prabhupada.io",
+    "description":"holy place; holy places; holy places of pilgrimage; of holy places; pilgrimage; place of pilgrimage; places of pilgrimage; pure; sacred place; the holy places; the holy places of pilgrimage; the sacred places of pilgrimage."
+}
+---
 
 ==== tīrtha  ====
   * holy place --- [[books:cc:madhya:18:5|Madhya 18.5]]

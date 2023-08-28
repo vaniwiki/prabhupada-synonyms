@@ -1,5 +1,11 @@
-~~Title:gandhi~~
-{{description>the fragrance of honey.}}
+---json
+{
+    "name":"gandhi",
+    "h1":"gandhi",
+    "title":"gandhi --- synonyms, prabhupada.io",
+    "description":"the fragrance of honey."
+}
+---
 
 ==== madhu-gandhi  ====
   * the fragrance of honey --- [[books:cc:madhya:21:136|Madhya 21.136]], [[books:cc:madhya:23:35|Madhya 23.35]]

@@ -1,5 +1,11 @@
-~~Title:abhidravati~~
-{{description>coming towards.}}
+---json
+{
+    "name":"abhidravati",
+    "h1":"abhidravati",
+    "title":"abhidravati --- synonyms, prabhupada.io",
+    "description":"coming towards."
+}
+---
 
 ==== abhidravati  ====
   * coming towards --- [[books:sb:1:8:10|SB 1.8.10]]

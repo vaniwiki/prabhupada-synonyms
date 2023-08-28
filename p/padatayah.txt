@@ -1,5 +1,11 @@
-~~Title:padātayaḥ~~
-{{description>infantry soldiers.}}
+---json
+{
+    "name":"padātayaḥ",
+    "h1":"padātayaḥ",
+    "title":"padātayaḥ --- synonyms, prabhupada.io",
+    "description":"infantry soldiers."
+}
+---
 
 ==== padātayaḥ  ====
   * infantry soldiers --- [[books:sb:8:10:37|SB 8.10.37]]

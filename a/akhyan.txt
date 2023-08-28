@@ -1,5 +1,11 @@
-~~Title:ākhyān~~
-{{description>of the name.}}
+---json
+{
+    "name":"ākhyān",
+    "h1":"ākhyān",
+    "title":"ākhyān --- synonyms, prabhupada.io",
+    "description":"of the name."
+}
+---
 
 ==== ākhyān  ====
   * of the name --- [[books:sb:3:12:37|SB 3.12.37]]

@@ -1,5 +1,11 @@
-~~Title:rodanam~~
-{{description>loud crying.}}
+---json
+{
+    "name":"rodanam",
+    "h1":"rodanam",
+    "title":"rodanam --- synonyms, prabhupada.io",
+    "description":"loud crying."
+}
+---
 
 ==== rodanam  ====
   * loud crying --- [[books:sb:6:14:49|SB 6.14.49]]

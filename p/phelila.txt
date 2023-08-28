@@ -1,5 +1,11 @@
-~~Title:phelila~~
-{{description>He threw them; threw.}}
+---json
+{
+    "name":"phelila",
+    "h1":"phelila",
+    "title":"phelila --- synonyms, prabhupada.io",
+    "description":"He threw them; threw."
+}
+---
 
 ==== phelila  ====
   * He threw them --- [[books:cc:adi:14:43|Ādi 14.43]]

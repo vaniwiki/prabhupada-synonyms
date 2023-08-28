@@ -1,5 +1,11 @@
-~~Title:cāraka~~
-{{description>a tender of cows.}}
+---json
+{
+    "name":"cāraka",
+    "h1":"cāraka",
+    "title":"cāraka --- synonyms, prabhupada.io",
+    "description":"a tender of cows."
+}
+---
 
 ==== go-cāraka  ====
   * a tender of cows --- [[books:cc:madhya:9:112|Madhya 9.112]]

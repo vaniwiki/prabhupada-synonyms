@@ -1,5 +1,11 @@
-~~Title:śaktira~~
-{{description>of the spiritual energy.}}
+---json
+{
+    "name":"śaktira",
+    "h1":"śaktira",
+    "title":"śaktira --- synonyms, prabhupada.io",
+    "description":"of the spiritual energy."
+}
+---
 
 ==== śaktira  ====
   * of the spiritual energy --- [[books:cc:madhya:20:260|Madhya 20.260]]

@@ -1,5 +1,11 @@
-~~Title:mahātmanā~~
-{{description>by Nārada Muni.}}
+---json
+{
+    "name":"mahātmanā",
+    "h1":"mahātmanā",
+    "title":"mahātmanā --- synonyms, prabhupada.io",
+    "description":"by Nārada Muni."
+}
+---
 
 ==== mahātmanā  ====
   * by Nārada Muni --- [[books:sb:10:10:25|SB 10.10.25]]

@@ -1,5 +1,11 @@
-~~Title:gāyana~~
-{{description>chanting; from chanting or distributing; performers of kīrtana; singers; singing.}}
+---json
+{
+    "name":"gāyana",
+    "h1":"gāyana",
+    "title":"gāyana --- synonyms, prabhupada.io",
+    "description":"chanting; from chanting or distributing; performers of kīrtana; singers; singing."
+}
+---
 
 ==== gāyana  ====
   * chanting --- [[books:cc:madhya:14:98|Madhya 14.98]]

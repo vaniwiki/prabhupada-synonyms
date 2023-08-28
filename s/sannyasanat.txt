@@ -1,5 +1,11 @@
-~~Title:sannyasanāt~~
-{{description>by renunciation.}}
+---json
+{
+    "name":"sannyasanāt",
+    "h1":"sannyasanāt",
+    "title":"sannyasanāt --- synonyms, prabhupada.io",
+    "description":"by renunciation."
+}
+---
 
 ==== sannyasanāt  ====
   * by renunciation --- [[books:bg:3:4|Bg. 3.4]]

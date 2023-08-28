@@ -1,5 +1,11 @@
-~~Title:samindhata~~
-{{description>blazed.}}
+---json
+{
+    "name":"samindhata",
+    "h1":"samindhata",
+    "title":"samindhata --- synonyms, prabhupada.io",
+    "description":"blazed."
+}
+---
 
 ==== samindhata  ====
   * blazed --- [[books:sb:10:3:1-5|SB 10.3.1-5]]

@@ -1,5 +1,11 @@
-~~Title:pūtasya~~
-{{description>already purified.}}
+---json
+{
+    "name":"pūtasya",
+    "h1":"pūtasya",
+    "title":"pūtasya --- synonyms, prabhupada.io",
+    "description":"already purified."
+}
+---
 
 ==== pūtasya  ====
   * already purified --- [[books:sb:7:10:22|SB 7.10.22]]

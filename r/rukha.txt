@@ -1,5 +1,11 @@
-~~Title:rukhā~~
-{{description>not very luxurious.}}
+---json
+{
+    "name":"rukhā",
+    "h1":"rukhā",
+    "title":"rukhā --- synonyms, prabhupada.io",
+    "description":"not very luxurious."
+}
+---
 
 ==== śukhā-rukhā  ====
   * not very luxurious --- [[books:cc:madhya:3:39|Madhya 3.39]]

@@ -1,5 +1,11 @@
-~~Title:viyāti~~
-{{description>do not go away.}}
+---json
+{
+    "name":"viyāti",
+    "h1":"viyāti",
+    "title":"viyāti --- synonyms, prabhupada.io",
+    "description":"do not go away."
+}
+---
 
 ==== na viyāti  ====
   * do not go away --- [[books:sb:5:2:16|SB 5.2.16]]

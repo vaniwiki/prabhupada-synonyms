@@ -1,5 +1,11 @@
-~~Title:nṛhari~~
-{{description>servitor of Nṛsiṁhadeva (Prahlāda).}}
+---json
+{
+    "name":"nṛhari",
+    "h1":"nṛhari",
+    "title":"nṛhari --- synonyms, prabhupada.io",
+    "description":"servitor of Nṛsiṁhadeva (Prahlāda)."
+}
+---
 
 ==== nṛhari-dāsam  ====
   * servitor of Nṛsiṁhadeva (Prahlāda) --- [[books:sb:1:15:16|SB 1.15.16]]

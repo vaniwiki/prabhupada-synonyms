@@ -1,5 +1,11 @@
-~~Title:rākheta~~
-{{description>were kept.}}
+---json
+{
+    "name":"rākheta",
+    "h1":"rākheta",
+    "title":"rākheta --- synonyms, prabhupada.io",
+    "description":"were kept."
+}
+---
 
 ==== rākheta  ====
   * were kept --- [[books:cc:madhya:3:53|Madhya 3.53]]

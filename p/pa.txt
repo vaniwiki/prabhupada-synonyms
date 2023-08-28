@@ -1,5 +1,11 @@
-~~Title:pa~~
-{{description>feet.}}
+---json
+{
+    "name":"pa",
+    "h1":"pa",
+    "title":"pa --- synonyms, prabhupada.io",
+    "description":"feet."
+}
+---
 
 ==== pā  ====
   * feet --- [[books:cc:antya:4:119|Antya 4.119]]

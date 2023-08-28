@@ -1,5 +1,11 @@
-~~Title:udāḥ~~
-{{description>and drinking water.}}
+---json
+{
+    "name":"udāḥ",
+    "h1":"udāḥ",
+    "title":"udāḥ --- synonyms, prabhupada.io",
+    "description":"and drinking water."
+}
+---
 
 ==== śuddha-udāḥ  ====
   * and drinking water --- [[books:sb:5:1:33|SB 5.1.33]]

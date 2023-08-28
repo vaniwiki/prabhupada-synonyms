@@ -1,5 +1,11 @@
-~~Title:kukkure~~
-{{description>the dog.}}
+---json
+{
+    "name":"kukkure",
+    "h1":"kukkure",
+    "title":"kukkure --- synonyms, prabhupada.io",
+    "description":"the dog."
+}
+---
 
 ==== kukkure  ====
   * the dog --- [[books:cc:antya:1:19|Antya 1.19]]

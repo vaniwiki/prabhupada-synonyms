@@ -1,5 +1,11 @@
-~~Title:apratibuddhasya~~
-{{description>of one who is sleeping.}}
+---json
+{
+    "name":"apratibuddhasya",
+    "h1":"apratibuddhasya",
+    "title":"apratibuddhasya --- synonyms, prabhupada.io",
+    "description":"of one who is sleeping."
+}
+---
 
 ==== apratibuddhasya  ====
   * of one who is sleeping --- [[books:sb:3:27:25|SB 3.27.25]]

@@ -1,5 +1,11 @@
-~~Title:vivarta~~
-{{description>illusion.}}
+---json
+{
+    "name":"vivarta",
+    "h1":"vivarta",
+    "title":"vivarta --- synonyms, prabhupada.io",
+    "description":"illusion."
+}
+---
 
 ==== vivarta  ====
   * illusion --- [[books:cc:adi:7:122|Ādi 7.122]]

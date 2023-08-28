@@ -1,5 +1,11 @@
-~~Title:mattena~~
-{{description>being very proud of material opulence.}}
+---json
+{
+    "name":"mattena",
+    "h1":"mattena",
+    "title":"mattena --- synonyms, prabhupada.io",
+    "description":"being very proud of material opulence."
+}
+---
 
 ==== aiśvarya-mattena  ====
   * being very proud of material opulence --- [[books:sb:6:7:11|SB 6.7.11]]

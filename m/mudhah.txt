@@ -1,5 +1,11 @@
-~~Title:mudhah~~
-{{description>foolish; rascal; stunted; the fool; the foolish man.}}
+---json
+{
+    "name":"mudhah",
+    "h1":"mudhah",
+    "title":"mudhah --- synonyms, prabhupada.io",
+    "description":"foolish; rascal; stunted; the fool; the foolish man."
+}
+---
 
 ==== mūḍhaḥ  ====
   * foolish --- [[books:bg:7:25|Bg. 7.25]], [[books:sb:5:5:16|SB 5.5.16]]

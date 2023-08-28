@@ -1,5 +1,11 @@
-~~Title:dala~~
-{{description>a leaf; leaves; like a leaf of a banyan tree; like the banyan leaf; lotus flowers; petals; with a feather.}}
+---json
+{
+    "name":"dala",
+    "h1":"dala",
+    "title":"dala --- synonyms, prabhupada.io",
+    "description":"a leaf; leaves; like a leaf of a banyan tree; like the banyan leaf; lotus flowers; petals; with a feather."
+}
+---
 
 ==== dala  ====
   * a leaf --- [[books:cc:adi:3:104|Ādi 3.104]]

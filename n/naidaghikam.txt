@@ -1,5 +1,11 @@
-~~Title:naidāghikam~~
-{{description>due to the summer sun.}}
+---json
+{
+    "name":"naidāghikam",
+    "h1":"naidāghikam",
+    "title":"naidāghikam --- synonyms, prabhupada.io",
+    "description":"due to the summer sun."
+}
+---
 
 ==== naidāghikam  ====
   * due to the summer sun --- [[books:sb:3:14:49|SB 3.14.49]]

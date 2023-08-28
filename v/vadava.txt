@@ -1,5 +1,11 @@
-~~Title:vaḍavā~~
-{{description>a mare.}}
+---json
+{
+    "name":"vaḍavā",
+    "h1":"vaḍavā",
+    "title":"vaḍavā --- synonyms, prabhupada.io",
+    "description":"a mare."
+}
+---
 
 ==== vaḍavā  ====
   * a mare --- [[books:sb:6:6:40|SB 6.6.40]]

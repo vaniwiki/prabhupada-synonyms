@@ -1,5 +1,11 @@
-~~Title:janmasu~~
-{{description>birth.}}
+---json
+{
+    "name":"janmasu",
+    "h1":"janmasu",
+    "title":"janmasu --- synonyms, prabhupada.io",
+    "description":"birth."
+}
+---
 
 ==== janmasu  ====
   * birth --- [[books:bg:13:22|Bg. 13.22]]

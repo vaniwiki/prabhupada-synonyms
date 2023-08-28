@@ -1,5 +1,11 @@
-~~Title:dara~~
-{{description>conchshell.}}
+---json
+{
+    "name":"dara",
+    "h1":"dara",
+    "title":"dara --- synonyms, prabhupada.io",
+    "description":"conchshell."
+}
+---
 
 ==== dara  ====
   * conchshell --- [[books:sb:6:8:12|SB 6.8.12]]

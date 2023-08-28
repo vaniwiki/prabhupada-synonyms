@@ -1,5 +1,11 @@
-~~Title:vinodinī~~
-{{description>the enjoyer.}}
+---json
+{
+    "name":"vinodinī",
+    "h1":"vinodinī",
+    "title":"vinodinī --- synonyms, prabhupada.io",
+    "description":"the enjoyer."
+}
+---
 
 ==== vinodinī  ====
   * the enjoyer --- [[books:cc:madhya:9:119|Madhya 9.119]]

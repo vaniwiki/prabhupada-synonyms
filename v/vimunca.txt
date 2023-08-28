@@ -1,5 +1,11 @@
-~~Title:vimuñca~~
-{{description>cast off; give up.}}
+---json
+{
+    "name":"vimuñca",
+    "h1":"vimuñca",
+    "title":"vimuñca --- synonyms, prabhupada.io",
+    "description":"cast off; give up."
+}
+---
 
 ==== vimuñca  ====
   * cast off --- [[books:sb:3:20:28|SB 3.20.28]]

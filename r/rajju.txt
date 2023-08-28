@@ -1,5 +1,11 @@
-~~Title:rajju~~
-{{description>by pulling on the rope of the churning rod.}}
+---json
+{
+    "name":"rajju",
+    "h1":"rajju",
+    "title":"rajju --- synonyms, prabhupada.io",
+    "description":"by pulling on the rope of the churning rod."
+}
+---
 
 ==== rajju-ākarṣa  ====
   * by pulling on the rope of the churning rod --- [[books:sb:10:9:3|SB 10.9.3]]

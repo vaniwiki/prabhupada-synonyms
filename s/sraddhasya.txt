@@ -1,5 +1,11 @@
-~~Title:śrāddhasya~~
-{{description>of the periodical offerings of respects.}}
+---json
+{
+    "name":"śrāddhasya",
+    "h1":"śrāddhasya",
+    "title":"śrāddhasya --- synonyms, prabhupada.io",
+    "description":"of the periodical offerings of respects."
+}
+---
 
 ==== śrāddhasya  ====
   * of the periodical offerings of respects --- [[books:sb:3:7:33|SB 3.7.33]]

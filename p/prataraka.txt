@@ -1,5 +1,11 @@
-~~Title:pratāraka~~
-{{description>a first-class pretender.}}
+---json
+{
+    "name":"pratāraka",
+    "h1":"pratāraka",
+    "title":"pratāraka --- synonyms, prabhupada.io",
+    "description":"a first-class pretender."
+}
+---
 
 ==== loka-pratāraka  ====
   * a first-class pretender --- [[books:cc:madhya:17:116|Madhya 17.116]]

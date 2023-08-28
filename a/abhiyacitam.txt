@@ -1,5 +1,11 @@
-~~Title:abhiyācitam~~
-{{description>request.}}
+---json
+{
+    "name":"abhiyācitam",
+    "h1":"abhiyācitam",
+    "title":"abhiyācitam --- synonyms, prabhupada.io",
+    "description":"request."
+}
+---
 
 ==== abhiyācitam  ====
   * request --- [[books:sb:6:7:35|SB 6.7.35]]

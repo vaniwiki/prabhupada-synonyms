@@ -1,5 +1,11 @@
-~~Title:darpaṇa~~
-{{description>mirror; the mirror.}}
+---json
+{
+    "name":"darpaṇa",
+    "h1":"darpaṇa",
+    "title":"darpaṇa --- synonyms, prabhupada.io",
+    "description":"mirror; the mirror."
+}
+---
 
 ==== darpaṇa  ====
   * mirror --- [[books:sb:4:4:5|SB 4.4.5]], [[books:cc:madhya:12:212|Madhya 12.212]]

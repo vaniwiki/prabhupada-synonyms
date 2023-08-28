@@ -1,5 +1,11 @@
-~~Title:pancajanyam~~
-{{description>conchshell named Pāñcajanya; the conchshell named Pāñcajanya.}}
+---json
+{
+    "name":"pancajanyam",
+    "h1":"pancajanyam",
+    "title":"pancajanyam --- synonyms, prabhupada.io",
+    "description":"conchshell named Pāñcajanya; the conchshell named Pāñcajanya."
+}
+---
 
 ==== pāñcajanyam  ====
   * conchshell named Pāñcajanya --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

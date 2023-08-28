@@ -1,5 +1,11 @@
-~~Title:āvega~~
-{{description>forces of emotion.}}
+---json
+{
+    "name":"āvega",
+    "h1":"āvega",
+    "title":"āvega --- synonyms, prabhupada.io",
+    "description":"forces of emotion."
+}
+---
 
 ==== bhāva-āvega  ====
   * forces of emotion --- [[books:cc:madhya:2:57|Madhya 2.57]]

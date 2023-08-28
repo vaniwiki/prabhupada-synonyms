@@ -1,5 +1,11 @@
-~~Title:mṛtakam~~
-{{description>a dead body.}}
+---json
+{
+    "name":"mṛtakam",
+    "h1":"mṛtakam",
+    "title":"mṛtakam --- synonyms, prabhupada.io",
+    "description":"a dead body."
+}
+---
 
 ==== mṛtakam  ====
   * a dead body --- [[books:sb:9:9:32|SB 9.9.32]]

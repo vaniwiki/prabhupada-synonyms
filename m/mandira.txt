@@ -1,5 +1,11 @@
-~~Title:mandira~~
-{{description>a temple; temple; the Durgā-maṇḍapa temple; the temple.}}
+---json
+{
+    "name":"mandira",
+    "h1":"mandira",
+    "title":"mandira --- synonyms, prabhupada.io",
+    "description":"a temple; temple; the Durgā-maṇḍapa temple; the temple."
+}
+---
 
 ==== mandira  ====
   * a temple --- [[books:cc:madhya:4:101|Madhya 4.101]], [[books:cc:madhya:5:118|Madhya 5.118]]

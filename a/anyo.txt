@@ -1,5 +1,11 @@
-~~Title:anyo~~
-{{description>for one another.}}
+---json
+{
+    "name":"anyo",
+    "h1":"anyo",
+    "title":"anyo --- synonyms, prabhupada.io",
+    "description":"for one another."
+}
+---
 
 ==== anyo 'nya  ====
   * for one another --- [[books:cc:antya:19:47|Antya 19.47]]

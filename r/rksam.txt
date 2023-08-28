@@ -1,5 +1,11 @@
-~~Title:ṛkṣam~~
-{{description>to the mountain named Ṛkṣa.}}
+---json
+{
+    "name":"ṛkṣam",
+    "h1":"ṛkṣam",
+    "title":"ṛkṣam --- synonyms, prabhupada.io",
+    "description":"to the mountain named Ṛkṣa."
+}
+---
 
 ==== ṛkṣam  ====
   * to the mountain named Ṛkṣa --- [[books:sb:4:1:17|SB 4.1.17]]

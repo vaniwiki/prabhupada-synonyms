@@ -1,5 +1,11 @@
-~~Title:durlabham~~
-{{description>a very rare achievement; although it was never to happen; very difficult to obtain; very rare; very rarely achieved; very rarely obtained.}}
+---json
+{
+    "name":"durlabham",
+    "h1":"durlabham",
+    "title":"durlabham --- synonyms, prabhupada.io",
+    "description":"a very rare achievement; although it was never to happen; very difficult to obtain; very rare; very rarely achieved; very rarely obtained."
+}
+---
 
 ==== durlabham  ====
   * a very rare achievement --- [[books:sb:8:17:21|SB 8.17.21]]

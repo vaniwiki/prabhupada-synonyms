@@ -1,5 +1,11 @@
-~~Title:jñātira~~
-{{description>kinsmen.}}
+---json
+{
+    "name":"jñātira",
+    "h1":"jñātira",
+    "title":"jñātira --- synonyms, prabhupada.io",
+    "description":"kinsmen."
+}
+---
 
 ==== jñātira  ====
   * kinsmen --- [[books:cc:madhya:5:69|Madhya 5.69]]

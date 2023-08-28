@@ -1,5 +1,11 @@
-~~Title:niryāsa~~
-{{description>the essence.}}
+---json
+{
+    "name":"niryāsa",
+    "h1":"niryāsa",
+    "title":"niryāsa --- synonyms, prabhupada.io",
+    "description":"the essence."
+}
+---
 
 ==== niryāsa  ====
   * the essence --- [[books:cc:adi:4:114|Ādi 4.114]], [[books:cc:adi:4:119-120|Ādi 4.119-120]], [[books:cc:adi:4:15-16|Ādi 4.15-16]]

@@ -1,5 +1,11 @@
-~~Title:hatah~~
-{{description>being killed; being spoiled; curbed; destroyed; has been killed; killed; slain; struck; was killed; wounded by.}}
+---json
+{
+    "name":"hatah",
+    "h1":"hatah",
+    "title":"hatah --- synonyms, prabhupada.io",
+    "description":"being killed; being spoiled; curbed; destroyed; has been killed; killed; slain; struck; was killed; wounded by."
+}
+---
 
 ==== hataḥ  ====
   * being killed --- [[books:bg:2:37|Bg. 2.37]]

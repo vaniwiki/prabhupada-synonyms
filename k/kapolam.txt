@@ -1,5 +1,11 @@
-~~Title:kapolam~~
-{{description>forehead; His cheeks.}}
+---json
+{
+    "name":"kapolam",
+    "h1":"kapolam",
+    "title":"kapolam --- synonyms, prabhupada.io",
+    "description":"forehead; His cheeks."
+}
+---
 
 ==== kapolam  ====
   * forehead --- [[books:sb:4:8:45|SB 4.8.45]]

@@ -1,5 +1,11 @@
-~~Title:māribāre~~
-{{description>to kill.}}
+---json
+{
+    "name":"māribāre",
+    "h1":"māribāre",
+    "title":"māribāre --- synonyms, prabhupada.io",
+    "description":"to kill."
+}
+---
 
 ==== māribāre  ====
   * to kill --- [[books:cc:madhya:9:231|Madhya 9.231]]

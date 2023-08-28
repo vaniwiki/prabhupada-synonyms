@@ -1,5 +1,11 @@
-~~Title:hotāram~~
-{{description>to the priest performing the yajña.}}
+---json
+{
+    "name":"hotāram",
+    "h1":"hotāram",
+    "title":"hotāram --- synonyms, prabhupada.io",
+    "description":"to the priest performing the yajña."
+}
+---
 
 ==== hotāram  ====
   * to the priest performing the //yajña// --- [[books:sb:9:1:14|SB 9.1.14]]

@@ -1,5 +1,11 @@
-~~Title:uvāca~~
-{{description>answered; described; explained; he recited; he said; inquired; prayed; replied; said; she said; she spoke; spoke; talked with them.}}
+---json
+{
+    "name":"uvāca",
+    "h1":"uvāca",
+    "title":"uvāca --- synonyms, prabhupada.io",
+    "description":"answered; described; explained; he recited; he said; inquired; prayed; replied; said; she said; she spoke; spoke; talked with them."
+}
+---
 
 ==== uvāca  ====
   * answered --- [[books:sb:2:10:49-50|SB 2.10.49-50]], [[books:sb:5:22:2|SB 5.22.2]]

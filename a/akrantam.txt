@@ -1,5 +1,11 @@
-~~Title:akrantam~~
-{{description>overcome.}}
+---json
+{
+    "name":"akrantam",
+    "h1":"akrantam",
+    "title":"akrantam --- synonyms, prabhupada.io",
+    "description":"overcome."
+}
+---
 
 ==== ākrāntām  ====
   * overcome --- [[books:sb:4:28:10|SB 4.28.10]]

@@ -1,5 +1,11 @@
-~~Title:santah~~
-{{description>devotees; sages; the devotees; those saintly persons.}}
+---json
+{
+    "name":"santah",
+    "h1":"santah",
+    "title":"santah --- synonyms, prabhupada.io",
+    "description":"devotees; sages; the devotees; those saintly persons."
+}
+---
 
 ==== santaḥ  ====
   * devotees --- [[books:sb:3:25:35|SB 3.25.35]], [[books:sb:4:22:39|SB 4.22.39]], [[books:cc:adi:1:59|Ādi 1.59]]

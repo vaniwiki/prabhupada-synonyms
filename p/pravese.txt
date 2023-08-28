@@ -1,5 +1,11 @@
-~~Title:praveśe~~
-{{description>by the entrance; enter; enters; entrance.}}
+---json
+{
+    "name":"praveśe",
+    "h1":"praveśe",
+    "title":"praveśe --- synonyms, prabhupada.io",
+    "description":"by the entrance; enter; enters; entrance."
+}
+---
 
 ==== praveśe  ====
   * by the entrance --- [[books:cc:adi:13:80|Ādi 13.80]]

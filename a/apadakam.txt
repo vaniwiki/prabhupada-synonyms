@@ -1,5 +1,11 @@
-~~Title:apādakam~~
-{{description>without legs.}}
+---json
+{
+    "name":"apādakam",
+    "h1":"apādakam",
+    "title":"apādakam --- synonyms, prabhupada.io",
+    "description":"without legs."
+}
+---
 
 ==== apādakam  ====
   * without legs --- [[books:sb:4:29:2|SB 4.29.2]]

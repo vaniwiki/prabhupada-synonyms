@@ -1,5 +1,11 @@
-~~Title:aṅganete~~
-{{description>in the courtyard.}}
+---json
+{
+    "name":"aṅganete",
+    "h1":"aṅganete",
+    "title":"aṅganete --- synonyms, prabhupada.io",
+    "description":"in the courtyard."
+}
+---
 
 ==== aṅganete  ====
   * in the courtyard --- [[books:cc:antya:6:190|Antya 6.190]]

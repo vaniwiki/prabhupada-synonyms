@@ -1,5 +1,11 @@
-~~Title:kṛṣi~~
-{{description>ploughing.}}
+---json
+{
+    "name":"kṛṣi",
+    "h1":"kṛṣi",
+    "title":"kṛṣi --- synonyms, prabhupada.io",
+    "description":"ploughing."
+}
+---
 
 ==== kṛṣi  ====
   * ploughing --- [[books:bg:18:44|Bg. 18.44]]

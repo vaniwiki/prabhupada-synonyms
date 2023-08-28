@@ -1,5 +1,11 @@
-~~Title:smarasi~~
-{{description>are you mindful of.}}
+---json
+{
+    "name":"smarasi",
+    "h1":"smarasi",
+    "title":"smarasi --- synonyms, prabhupada.io",
+    "description":"are you mindful of."
+}
+---
 
 ==== smarasi  ====
   * are you mindful of --- [[books:sb:5:2:14|SB 5.2.14]]

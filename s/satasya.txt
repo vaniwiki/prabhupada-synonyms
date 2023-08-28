@@ -1,5 +1,11 @@
-~~Title:śatasya~~
-{{description>of the one-hundredth.}}
+---json
+{
+    "name":"śatasya",
+    "h1":"śatasya",
+    "title":"śatasya --- synonyms, prabhupada.io",
+    "description":"of the one-hundredth."
+}
+---
 
 ==== śatasya  ====
   * of the one-hundredth --- [[books:sb:4:20:2|SB 4.20.2]]

@@ -1,5 +1,11 @@
-~~Title:tapanaḥ~~
-{{description>the sun.}}
+---json
+{
+    "name":"tapanaḥ",
+    "h1":"tapanaḥ",
+    "title":"tapanaḥ --- synonyms, prabhupada.io",
+    "description":"the sun."
+}
+---
 
 ==== tapanaḥ  ====
   * the sun --- [[books:sb:5:21:3|SB 5.21.3]]

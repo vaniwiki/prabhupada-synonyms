@@ -1,5 +1,11 @@
-~~Title:āmayam~~
-{{description>disease.}}
+---json
+{
+    "name":"āmayam",
+    "h1":"āmayam",
+    "title":"āmayam --- synonyms, prabhupada.io",
+    "description":"disease."
+}
+---
 
 ==== āmayam  ====
   * disease --- [[books:sb:1:5:33|SB 1.5.33]], [[books:sb:4:11:31|SB 4.11.31]]

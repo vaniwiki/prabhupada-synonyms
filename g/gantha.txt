@@ -1,5 +1,11 @@
-~~Title:gāṅthā~~
-{{description>strung together.}}
+---json
+{
+    "name":"gāṅthā",
+    "h1":"gāṅthā",
+    "title":"gāṅthā --- synonyms, prabhupada.io",
+    "description":"strung together."
+}
+---
 
 ==== gāṅthā  ====
   * strung together --- [[books:cc:antya:6:289|Antya 6.289]]

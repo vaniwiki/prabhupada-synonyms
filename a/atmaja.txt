@@ -1,5 +1,11 @@
-~~Title:atmaja~~
-{{description>for the purpose of his son's affluence.}}
+---json
+{
+    "name":"atmaja",
+    "h1":"atmaja",
+    "title":"atmaja --- synonyms, prabhupada.io",
+    "description":"for the purpose of his son's affluence."
+}
+---
 
 ==== ātmaja-abhyudaya-arthāya  ====
   * for the purpose of his son's affluence --- [[books:sb:10:7:16|SB 10.7.16]]

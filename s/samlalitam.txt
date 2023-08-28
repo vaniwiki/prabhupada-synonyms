@@ -1,5 +1,11 @@
-~~Title:saṁlālitam~~
-{{description>massaged.}}
+---json
+{
+    "name":"saṁlālitam",
+    "h1":"saṁlālitam",
+    "title":"saṁlālitam --- synonyms, prabhupada.io",
+    "description":"massaged."
+}
+---
 
 ==== saṁlālitam  ====
   * massaged --- [[books:sb:3:28:23|SB 3.28.23]]

@@ -1,5 +1,11 @@
-~~Title:pustaka~~
-{{description>books; the books.}}
+---json
+{
+    "name":"pustaka",
+    "h1":"pustaka",
+    "title":"pustaka --- synonyms, prabhupada.io",
+    "description":"books; the books."
+}
+---
 
 ==== pustaka  ====
   * books --- [[books:cc:madhya:1:120|Madhya 1.120]], [[books:cc:madhya:11:141|Madhya 11.141]]

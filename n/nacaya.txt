@@ -1,5 +1,11 @@
-~~Title:nacaya~~
-{{description>it causes Me to dance.}}
+---json
+{
+    "name":"nacaya",
+    "h1":"nacaya",
+    "title":"nacaya --- synonyms, prabhupada.io",
+    "description":"it causes Me to dance."
+}
+---
 
 ==== nācaya  ====
   * it causes Me to dance --- [[books:cc:adi:7:82|Ādi 7.82]]

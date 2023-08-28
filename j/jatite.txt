@@ -1,5 +1,11 @@
-~~Title:jātite~~
-{{description>by caste.}}
+---json
+{
+    "name":"jātite",
+    "h1":"jātite",
+    "title":"jātite --- synonyms, prabhupada.io",
+    "description":"by caste."
+}
+---
 
 ==== jātite  ====
   * by caste --- [[books:cc:adi:17:110|Ādi 17.110]]

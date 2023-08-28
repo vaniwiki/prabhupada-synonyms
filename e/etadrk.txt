@@ -1,5 +1,11 @@
-~~Title:etādṛk~~
-{{description>like this.}}
+---json
+{
+    "name":"etādṛk",
+    "h1":"etādṛk",
+    "title":"etādṛk --- synonyms, prabhupada.io",
+    "description":"like this."
+}
+---
 
 ==== etādṛk  ====
   * like this --- [[books:sb:9:11:17|SB 9.11.17]]

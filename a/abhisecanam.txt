@@ -1,5 +1,11 @@
-~~Title:abhiṣecanam~~
-{{description>the bathing ceremony.}}
+---json
+{
+    "name":"abhiṣecanam",
+    "h1":"abhiṣecanam",
+    "title":"abhiṣecanam --- synonyms, prabhupada.io",
+    "description":"the bathing ceremony."
+}
+---
 
 ==== abhiṣecanam  ====
   * the bathing ceremony --- [[books:sb:10:7:4|SB 10.7.4]]

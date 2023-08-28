@@ -1,5 +1,11 @@
-~~Title:vāri~~
-{{description>showers of rain; water.}}
+---json
+{
+    "name":"vāri",
+    "h1":"vāri",
+    "title":"vāri --- synonyms, prabhupada.io",
+    "description":"showers of rain; water."
+}
+---
 
 ==== vāri  ====
   * showers of rain --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

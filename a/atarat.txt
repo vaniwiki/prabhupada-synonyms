@@ -1,5 +1,11 @@
-~~Title:atarat~~
-{{description>became delivered.}}
+---json
+{
+    "name":"atarat",
+    "h1":"atarat",
+    "title":"atarat --- synonyms, prabhupada.io",
+    "description":"became delivered."
+}
+---
 
 ==== atarat  ====
   * became delivered --- [[books:sb:4:21:46|SB 4.21.46]]

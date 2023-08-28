@@ -1,5 +1,11 @@
-~~Title:alabhyaḥ~~
-{{description>cannot be achieved.}}
+---json
+{
+    "name":"alabhyaḥ",
+    "h1":"alabhyaḥ",
+    "title":"alabhyaḥ --- synonyms, prabhupada.io",
+    "description":"cannot be achieved."
+}
+---
 
 ==== alabhyaḥ  ====
   * cannot be achieved --- [[books:sb:10:12:12|SB 10.12.12]]

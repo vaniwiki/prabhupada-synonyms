@@ -1,5 +1,11 @@
-~~Title:utsehe~~
-{{description>became eager.}}
+---json
+{
+    "name":"utsehe",
+    "h1":"utsehe",
+    "title":"utsehe --- synonyms, prabhupada.io",
+    "description":"became eager."
+}
+---
 
 ==== utsehe  ====
   * became eager --- [[books:sb:3:2:1|SB 3.2.1]]

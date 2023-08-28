@@ -1,5 +1,11 @@
-~~Title:nivārayan~~
-{{description>stopping.}}
+---json
+{
+    "name":"nivārayan",
+    "h1":"nivārayan",
+    "title":"nivārayan --- synonyms, prabhupada.io",
+    "description":"stopping."
+}
+---
 
 ==== nivārayan  ====
   * stopping --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

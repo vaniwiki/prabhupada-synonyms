@@ -1,5 +1,11 @@
-~~Title:vārtā~~
-{{description>message; news; occupational duties, or one's livelihood; of occupational engagements; sense gratification; the news; the occupational means of livelihood for the vaiśya (agriculture, cow protection, and trade); vocation in terms of Vedic sanction.}}
+---json
+{
+    "name":"vārtā",
+    "h1":"vārtā",
+    "title":"vārtā --- synonyms, prabhupada.io",
+    "description":"message; news; occupational duties, or one's livelihood; of occupational engagements; sense gratification; the news; the occupational means of livelihood for the vaiśya (agriculture, cow protection, and trade); vocation in terms of Vedic sanction."
+}
+---
 
 ==== vārtā  ====
   * message --- [[books:cc:antya:6:16|Antya 6.16]]

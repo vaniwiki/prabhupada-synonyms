@@ -1,5 +1,11 @@
-~~Title:kṛntan~~
-{{description>cutting.}}
+---json
+{
+    "name":"kṛntan",
+    "h1":"kṛntan",
+    "title":"kṛntan --- synonyms, prabhupada.io",
+    "description":"cutting."
+}
+---
 
 ==== kṛntan  ====
   * cutting --- [[books:sb:6:12:33|SB 6.12.33]]

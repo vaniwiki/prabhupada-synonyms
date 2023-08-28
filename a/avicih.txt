@@ -1,5 +1,11 @@
-~~Title:avīciḥ~~
-{{description>Avīci.}}
+---json
+{
+    "name":"avīciḥ",
+    "h1":"avīciḥ",
+    "title":"avīciḥ --- synonyms, prabhupada.io",
+    "description":"Avīci."
+}
+---
 
 ==== avīciḥ  ====
   * Avīci --- [[books:sb:5:26:7|SB 5.26.7]]

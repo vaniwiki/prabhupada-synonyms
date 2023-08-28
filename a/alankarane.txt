@@ -1,5 +1,11 @@
-~~Title:alaṅkaraṇe~~
-{{description>to decorate His chest.}}
+---json
+{
+    "name":"alaṅkaraṇe",
+    "h1":"alaṅkaraṇe",
+    "title":"alaṅkaraṇe --- synonyms, prabhupada.io",
+    "description":"to decorate His chest."
+}
+---
 
 ==== vakṣaḥ-alaṅkaraṇe  ====
   * to decorate His chest --- [[books:sb:8:8:6|SB 8.8.6]]

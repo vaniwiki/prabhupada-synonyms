@@ -1,5 +1,11 @@
-~~Title:ahanan~~
-{{description>attacked.}}
+---json
+{
+    "name":"ahanan",
+    "h1":"ahanan",
+    "title":"ahanan --- synonyms, prabhupada.io",
+    "description":"attacked."
+}
+---
 
 ==== ahanan  ====
   * attacked --- [[books:sb:7:5:39-40|SB 7.5.39-40]]

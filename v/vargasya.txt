@@ -1,5 +1,11 @@
-~~Title:vargasya~~
-{{description>of the three processes of elevation (dharma, artha and kāma); the three goals of life (the paths of religion, economic development and sense gratification); the three means of religion, economic development and sense satisfaction.}}
+---json
+{
+    "name":"vargasya",
+    "h1":"vargasya",
+    "title":"vargasya --- synonyms, prabhupada.io",
+    "description":"of the three processes of elevation (dharma, artha and kāma); the three goals of life (the paths of religion, economic development and sense gratification); the three means of religion, economic development and sense satisfaction."
+}
+---
 
 ==== tri-vargasya  ====
   * of the three processes of elevation (//dharma, artha// and //kāma//) --- [[books:sb:8:16:11|SB 8.16.11]]

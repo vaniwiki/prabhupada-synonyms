@@ -1,5 +1,11 @@
-~~Title:pitṛvat~~
-{{description>just like the father.}}
+---json
+{
+    "name":"pitṛvat",
+    "h1":"pitṛvat",
+    "title":"pitṛvat --- synonyms, prabhupada.io",
+    "description":"just like the father."
+}
+---
 
 ==== pitṛvat  ====
   * just like the father --- [[books:sb:1:15:19|SB 1.15.19]]

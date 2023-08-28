@@ -1,5 +1,11 @@
-~~Title:bhatah~~
-{{description>all the soldiers engaged in this way; O my dear servants.}}
+---json
+{
+    "name":"bhatah",
+    "h1":"bhatah",
+    "title":"bhatah --- synonyms, prabhupada.io",
+    "description":"all the soldiers engaged in this way; O my dear servants."
+}
+---
 
 ==== bhaṭāḥ  ====
   * all the soldiers engaged in this way --- [[books:sb:8:10:9|SB 8.10.9]]

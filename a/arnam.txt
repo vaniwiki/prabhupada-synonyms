@@ -1,5 +1,11 @@
-~~Title:arṇam~~
-{{description>race; the ocean.}}
+---json
+{
+    "name":"arṇam",
+    "h1":"arṇam",
+    "title":"arṇam --- synonyms, prabhupada.io",
+    "description":"race; the ocean."
+}
+---
 
 ==== arṇam  ====
   * race --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

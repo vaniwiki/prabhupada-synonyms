@@ -1,5 +1,11 @@
-~~Title:ksatram~~
-{{description>a dynasty of kṣatriyas; administrative duty; belonging to the kṣatriya group; the kṣatriyas, the ruling class; the kṣatriyas; the power of protection; the royal order.}}
+---json
+{
+    "name":"ksatram",
+    "h1":"ksatram",
+    "title":"ksatram --- synonyms, prabhupada.io",
+    "description":"a dynasty of kṣatriyas; administrative duty; belonging to the kṣatriya group; the kṣatriyas, the ruling class; the kṣatriyas; the power of protection; the royal order."
+}
+---
 
 ==== kṣatram  ====
   * a dynasty of //kṣatriyas// --- [[books:sb:9:23:28|SB 9.23.28]]

@@ -1,5 +1,11 @@
-~~Title:kāmikam~~
-{{description>fulfilling all kinds of tastes; which fulfills all desires.}}
+---json
+{
+    "name":"kāmikam",
+    "h1":"kāmikam",
+    "title":"kāmikam --- synonyms, prabhupada.io",
+    "description":"fulfilling all kinds of tastes; which fulfills all desires."
+}
+---
 
 ==== sārva-kāmikam  ====
   * fulfilling all kinds of tastes --- [[books:sb:9:5:19|SB 9.5.19]]

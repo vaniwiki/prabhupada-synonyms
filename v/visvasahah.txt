@@ -1,5 +1,11 @@
-~~Title:viśvasahaḥ~~
-{{description>the famous King Viśvasaha was born.}}
+---json
+{
+    "name":"viśvasahaḥ",
+    "h1":"viśvasahaḥ",
+    "title":"viśvasahaḥ --- synonyms, prabhupada.io",
+    "description":"the famous King Viśvasaha was born."
+}
+---
 
 ==== rājā viśvasahaḥ  ====
   * the famous King Viśvasaha was born --- [[books:sb:9:9:41|SB 9.9.41]]

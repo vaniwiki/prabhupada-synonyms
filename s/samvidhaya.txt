@@ -1,5 +1,11 @@
-~~Title:saṁvidhāya~~
-{{description>performing.}}
+---json
+{
+    "name":"saṁvidhāya",
+    "h1":"saṁvidhāya",
+    "title":"saṁvidhāya --- synonyms, prabhupada.io",
+    "description":"performing."
+}
+---
 
 ==== saṁvidhāya  ====
   * performing --- [[books:sb:4:2:34|SB 4.2.34]]

@@ -1,5 +1,11 @@
-~~Title:śatrura~~
-{{description>the friend of the enemy.}}
+---json
+{
+    "name":"śatrura",
+    "h1":"śatrura",
+    "title":"śatrura --- synonyms, prabhupada.io",
+    "description":"the friend of the enemy."
+}
+---
 
 ==== śatrura mitra  ====
   * the friend of the enemy --- [[books:cc:antya:18:98|Antya 18.98]]

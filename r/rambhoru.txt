@@ -1,5 +1,11 @@
-~~Title:rambhoru~~
-{{description>O pretty one.}}
+---json
+{
+    "name":"rambhoru",
+    "h1":"rambhoru",
+    "title":"rambhoru --- synonyms, prabhupada.io",
+    "description":"O pretty one."
+}
+---
 
 ==== rambhoru  ====
   * O pretty one --- [[books:sb:3:20:34|SB 3.20.34]]

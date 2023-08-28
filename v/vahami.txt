@@ -1,5 +1,11 @@
-~~Title:vahāmi~~
-{{description>carry; offer.}}
+---json
+{
+    "name":"vahāmi",
+    "h1":"vahāmi",
+    "title":"vahāmi --- synonyms, prabhupada.io",
+    "description":"carry; offer."
+}
+---
 
 ==== vahāmi  ====
   * carry --- [[books:bg:9:22|Bg. 9.22]]

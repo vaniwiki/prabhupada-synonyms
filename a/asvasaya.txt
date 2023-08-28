@@ -1,5 +1,11 @@
-~~Title:asvāśaya~~
-{{description>the bodily senses.}}
+---json
+{
+    "name":"asvāśaya",
+    "h1":"asvāśaya",
+    "title":"asvāśaya --- synonyms, prabhupada.io",
+    "description":"the bodily senses."
+}
+---
 
 ==== deha-indriya-asvāśaya  ====
   * the bodily senses --- [[books:sb:5:10:22|SB 5.10.22]]

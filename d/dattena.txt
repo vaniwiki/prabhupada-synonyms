@@ -1,5 +1,11 @@
-~~Title:dattena~~
-{{description>offered.}}
+---json
+{
+    "name":"dattena",
+    "h1":"dattena",
+    "title":"dattena --- synonyms, prabhupada.io",
+    "description":"offered."
+}
+---
 
 ==== dattena  ====
   * offered --- [[books:cc:antya:10:1|Antya 10.1]]

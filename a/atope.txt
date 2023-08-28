@@ -1,5 +1,11 @@
-~~Title:āṭope~~
-{{description>by the force of congregational chanting.}}
+---json
+{
+    "name":"āṭope",
+    "h1":"āṭope",
+    "title":"āṭope --- synonyms, prabhupada.io",
+    "description":"by the force of congregational chanting."
+}
+---
 
 ==== kīrtana-āṭope  ====
   * by the force of congregational chanting --- [[books:cc:antya:10:64|Antya 10.64]]

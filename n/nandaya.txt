@@ -1,5 +1,11 @@
-~~Title:nandayā~~
-{{description>by the Nandā.}}
+---json
+{
+    "name":"nandayā",
+    "h1":"nandayā",
+    "title":"nandayā --- synonyms, prabhupada.io",
+    "description":"by the Nandā."
+}
+---
 
 ==== nandayā  ====
   * by the Nandā --- [[books:sb:4:6:22|SB 4.6.22]]

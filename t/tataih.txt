@@ -1,5 +1,11 @@
-~~Title:tataiḥ~~
-{{description>executed.}}
+---json
+{
+    "name":"tataiḥ",
+    "h1":"tataiḥ",
+    "title":"tataiḥ --- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== tataiḥ  ====
   * executed --- [[books:sb:9:4:22|SB 9.4.22]]

@@ -1,5 +1,11 @@
-~~Title:agādhayā~~
-{{description>deeply thoughtful.}}
+---json
+{
+    "name":"agādhayā",
+    "h1":"agādhayā",
+    "title":"agādhayā --- synonyms, prabhupada.io",
+    "description":"deeply thoughtful."
+}
+---
 
 ==== agādhayā  ====
   * deeply thoughtful --- [[books:sb:3:9:27-28|SB 3.9.27-28]]

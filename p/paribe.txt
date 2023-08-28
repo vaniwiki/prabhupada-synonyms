@@ -1,5 +1,11 @@
-~~Title:paribe~~
-{{description>will put on.}}
+---json
+{
+    "name":"paribe",
+    "h1":"paribe",
+    "title":"paribe --- synonyms, prabhupada.io",
+    "description":"will put on."
+}
+---
 
 ==== paribe  ====
   * will put on --- [[books:cc:madhya:4:165|Madhya 4.165]]

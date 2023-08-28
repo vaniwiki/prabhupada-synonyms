@@ -1,5 +1,11 @@
-~~Title:vidhama~~
-{{description>dissipate.}}
+---json
+{
+    "name":"vidhama",
+    "h1":"vidhama",
+    "title":"vidhama --- synonyms, prabhupada.io",
+    "description":"dissipate."
+}
+---
 
 ==== vidhama  ====
   * dissipate --- [[books:sb:7:4:46|SB 7.4.46]]

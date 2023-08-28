@@ -1,5 +1,11 @@
-~~Title:vīra~~
-{{description>chivalry; hero; my dear hero; my dear Vidura; O brave Vidura; O great hero (Mahārāja Rahūgaṇa); O great hero; O hero; O hero of charity; O heroic King; O King; O valiant King; O Vidura; O warrior; of the heroes; of Vena; Vīrabhadra and other followers of Lord Śiva.}}
+---json
+{
+    "name":"vīra",
+    "h1":"vīra",
+    "title":"vīra --- synonyms, prabhupada.io",
+    "description":"chivalry; hero; my dear hero; my dear Vidura; O brave Vidura; O great hero (Mahārāja Rahūgaṇa); O great hero; O hero; O hero of charity; O heroic King; O King; O valiant King; O Vidura; O warrior; of the heroes; of Vena; Vīrabhadra and other followers of Lord Śiva."
+}
+---
 
 ==== vīra  ====
   * chivalry --- [[books:cc:madhya:19:187|Madhya 19.187]]

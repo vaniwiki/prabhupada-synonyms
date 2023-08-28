@@ -1,5 +1,11 @@
-~~Title:karṇasya~~
-{{description>of that same Karṇa.}}
+---json
+{
+    "name":"karṇasya",
+    "h1":"karṇasya",
+    "title":"karṇasya --- synonyms, prabhupada.io",
+    "description":"of that same Karṇa."
+}
+---
 
 ==== tasya karṇasya  ====
   * of that same Karṇa --- [[books:sb:9:23:14|SB 9.23.14]]

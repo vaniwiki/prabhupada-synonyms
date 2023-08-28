@@ -1,5 +1,11 @@
-~~Title:bileśayān~~
-{{description>mice.}}
+---json
+{
+    "name":"bileśayān",
+    "h1":"bileśayān",
+    "title":"bileśayān --- synonyms, prabhupada.io",
+    "description":"mice."
+}
+---
 
 ==== bileśayān  ====
   * mice --- [[books:sb:5:26:33|SB 5.26.33]]

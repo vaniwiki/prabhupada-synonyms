@@ -1,5 +1,11 @@
-~~Title:śrīṣu~~
-{{description>in the house.}}
+---json
+{
+    "name":"śrīṣu",
+    "h1":"śrīṣu",
+    "title":"śrīṣu --- synonyms, prabhupada.io",
+    "description":"in the house."
+}
+---
 
 ==== śrīṣu gṛheṣu  ====
   * in the house --- [[books:sb:3:2:7|SB 3.2.7]]

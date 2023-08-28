@@ -1,5 +1,11 @@
-~~Title:sammohayan~~
-{{description>wanting to mystify.}}
+---json
+{
+    "name":"sammohayan",
+    "h1":"sammohayan",
+    "title":"sammohayan --- synonyms, prabhupada.io",
+    "description":"wanting to mystify."
+}
+---
 
 ==== sammohayan  ====
   * wanting to mystify --- [[books:sb:10:13:44|SB 10.13.44]]

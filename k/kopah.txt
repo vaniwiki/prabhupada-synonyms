@@ -1,5 +1,11 @@
-~~Title:kopaḥ~~
-{{description>anger.}}
+---json
+{
+    "name":"kopaḥ",
+    "h1":"kopaḥ",
+    "title":"kopaḥ --- synonyms, prabhupada.io",
+    "description":"anger."
+}
+---
 
 ==== kopaḥ  ====
   * anger --- [[books:sb:6:16:42|SB 6.16.42]]

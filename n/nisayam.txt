@@ -1,5 +1,11 @@
-~~Title:niśāyām~~
-{{description>in the night.}}
+---json
+{
+    "name":"niśāyām",
+    "h1":"niśāyām",
+    "title":"niśāyām --- synonyms, prabhupada.io",
+    "description":"in the night."
+}
+---
 
 ==== niśāyām  ====
   * in the night --- [[books:sb:3:11:29|SB 3.11.29]]

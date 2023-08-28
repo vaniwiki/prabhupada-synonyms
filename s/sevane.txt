@@ -1,5 +1,11 @@
-~~Title:sevane~~
-{{description>in service; service.}}
+---json
+{
+    "name":"sevane",
+    "h1":"sevane",
+    "title":"sevane --- synonyms, prabhupada.io",
+    "description":"in service; service."
+}
+---
 
 ==== sevane  ====
   * in service --- [[books:cc:antya:20:59|Antya 20.59]]

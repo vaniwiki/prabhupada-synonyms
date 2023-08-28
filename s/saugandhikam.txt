@@ -1,5 +1,11 @@
-~~Title:saugandhikam~~
-{{description>named Saugandhika; Saugandhika.}}
+---json
+{
+    "name":"saugandhikam",
+    "h1":"saugandhikam",
+    "title":"saugandhikam --- synonyms, prabhupada.io",
+    "description":"named Saugandhika; Saugandhika."
+}
+---
 
 ==== saugandhikam  ====
   * named Saugandhika --- [[books:sb:4:6:28|SB 4.6.28]]

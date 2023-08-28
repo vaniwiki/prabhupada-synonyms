@@ -1,5 +1,11 @@
-~~Title:ācchādita~~
-{{description>covered.}}
+---json
+{
+    "name":"ācchādita",
+    "h1":"ācchādita",
+    "title":"ācchādita --- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== ācchādita  ====
   * covered --- [[books:cc:madhya:4:51|Madhya 4.51]], [[books:cc:madhya:24:201|Madhya 24.201]]

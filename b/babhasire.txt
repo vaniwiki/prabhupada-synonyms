@@ -1,5 +1,11 @@
-~~Title:babhāṣire~~
-{{description>spoke.}}
+---json
+{
+    "name":"babhāṣire",
+    "h1":"babhāṣire",
+    "title":"babhāṣire --- synonyms, prabhupada.io",
+    "description":"spoke."
+}
+---
 
 ==== babhāṣire  ====
   * spoke --- [[books:sb:9:11:5|SB 9.11.5]]

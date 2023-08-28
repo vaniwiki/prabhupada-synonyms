@@ -1,5 +1,11 @@
-~~Title:anukrośa~~
-{{description>benediction or mercy.}}
+---json
+{
+    "name":"anukrośa",
+    "h1":"anukrośa",
+    "title":"anukrośa --- synonyms, prabhupada.io",
+    "description":"benediction or mercy."
+}
+---
 
 ==== anukrośa  ====
   * benediction or mercy --- [[books:sb:4:24:58|SB 4.24.58]]

@@ -1,5 +1,11 @@
-~~Title:gananam~~
-{{description>in the matter of accounting.}}
+---json
+{
+    "name":"gananam",
+    "h1":"gananam",
+    "title":"gananam --- synonyms, prabhupada.io",
+    "description":"in the matter of accounting."
+}
+---
 
 ==== gaṇanām  ====
   * in the matter of accounting --- [[books:sb:2:7:40|SB 2.7.40]]

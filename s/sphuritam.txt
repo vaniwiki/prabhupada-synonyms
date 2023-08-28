@@ -1,5 +1,11 @@
-~~Title:sphuritam~~
-{{description>manifested.}}
+---json
+{
+    "name":"sphuritam",
+    "h1":"sphuritam",
+    "title":"sphuritam --- synonyms, prabhupada.io",
+    "description":"manifested."
+}
+---
 
 ==== sphuritam  ====
   * manifested --- [[books:sb:4:9:2|SB 4.9.2]]

@@ -1,5 +1,11 @@
-~~Title:atigān~~
-{{description>who transgress your rulings.}}
+---json
+{
+    "name":"atigān",
+    "h1":"atigān",
+    "title":"atigān --- synonyms, prabhupada.io",
+    "description":"who transgress your rulings."
+}
+---
 
 ==== tvat-śāsana-atigān  ====
   * who transgress your rulings --- [[books:sb:8:22:34|SB 8.22.34]]

@@ -1,5 +1,11 @@
-~~Title:saṁhatya~~
-{{description>being assembled; by combination of; having combined; mixing together.}}
+---json
+{
+    "name":"saṁhatya",
+    "h1":"saṁhatya",
+    "title":"saṁhatya --- synonyms, prabhupada.io",
+    "description":"being assembled; by combination of; having combined; mixing together."
+}
+---
 
 ==== saṁhatya  ====
   * being assembled --- [[books:sb:2:5:33|SB 2.5.33]]

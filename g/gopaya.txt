@@ -1,5 +1,11 @@
-~~Title:gopaya~~
-{{description>just cover.}}
+---json
+{
+    "name":"gopaya",
+    "h1":"gopaya",
+    "title":"gopaya --- synonyms, prabhupada.io",
+    "description":"just cover."
+}
+---
 
 ==== gopaya  ====
   * just cover --- [[books:cc:madhya:6:181|Madhya 6.181]]

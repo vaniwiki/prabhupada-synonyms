@@ -1,5 +1,11 @@
-~~Title:pārśva~~
-{{description>side.}}
+---json
+{
+    "name":"pārśva",
+    "h1":"pārśva",
+    "title":"pārśva --- synonyms, prabhupada.io",
+    "description":"side."
+}
+---
 
 ==== pārśva  ====
   * side --- [[books:sb:4:7:21|SB 4.7.21]]

@@ -1,5 +1,11 @@
-~~Title:tarpaṇa~~
-{{description>to gratify the senses.}}
+---json
+{
+    "name":"tarpaṇa",
+    "h1":"tarpaṇa",
+    "title":"tarpaṇa --- synonyms, prabhupada.io",
+    "description":"to gratify the senses."
+}
+---
 
 ==== indriya-tarpaṇa  ====
   * to gratify the senses --- [[books:cc:antya:8:64|Antya 8.64]]

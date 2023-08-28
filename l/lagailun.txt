@@ -1,5 +1,11 @@
-~~Title:lāgāiluṅ~~
-{{description>I have not given.}}
+---json
+{
+    "name":"lāgāiluṅ",
+    "h1":"lāgāiluṅ",
+    "title":"lāgāiluṅ --- synonyms, prabhupada.io",
+    "description":"I have not given."
+}
+---
 
 ==== nā lāgāiluṅ  ====
   * I have not given --- [[books:cc:antya:3:36|Antya 3.36]]

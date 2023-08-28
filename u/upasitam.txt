@@ -1,5 +1,11 @@
-~~Title:upasitam~~
-{{description>being worshiped.}}
+---json
+{
+    "name":"upasitam",
+    "h1":"upasitam",
+    "title":"upasitam --- synonyms, prabhupada.io",
+    "description":"being worshiped."
+}
+---
 
 ==== upāsitam  ====
   * being worshiped --- [[books:sb:8:22:15|SB 8.22.15]]

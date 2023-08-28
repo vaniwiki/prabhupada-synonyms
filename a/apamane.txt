@@ -1,5 +1,11 @@
-~~Title:apamāne~~
-{{description>as an insult.}}
+---json
+{
+    "name":"apamāne",
+    "h1":"apamāne",
+    "title":"apamāne --- synonyms, prabhupada.io",
+    "description":"as an insult."
+}
+---
 
 ==== apamāne  ====
   * as an insult --- [[books:cc:antya:7:128|Antya 7.128]]

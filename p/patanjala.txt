@@ -1,5 +1,11 @@
-~~Title:pātañjala~~
-{{description>followers of mystic yoga.}}
+---json
+{
+    "name":"pātañjala",
+    "h1":"pātañjala",
+    "title":"pātañjala --- synonyms, prabhupada.io",
+    "description":"followers of mystic yoga."
+}
+---
 
 ==== pātañjala  ====
   * followers of mystic //yoga// --- [[books:cc:madhya:9:42|Madhya 9.42]]

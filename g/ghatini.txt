@@ -1,5 +1,11 @@
-~~Title:ghātinī~~
-{{description>a Rākṣasī who killed.}}
+---json
+{
+    "name":"ghātinī",
+    "h1":"ghātinī",
+    "title":"ghātinī --- synonyms, prabhupada.io",
+    "description":"a Rākṣasī who killed."
+}
+---
 
 ==== bāla-ghātinī  ====
   * a Rākṣasī who killed --- [[books:sb:10:6:2|SB 10.6.2]]

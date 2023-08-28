@@ -1,5 +1,11 @@
-~~Title:dalana~~
-{{description>subduing; trampling.}}
+---json
+{
+    "name":"dalana",
+    "h1":"dalana",
+    "title":"dalana --- synonyms, prabhupada.io",
+    "description":"subduing; trampling."
+}
+---
 
 ==== dalana  ====
   * subduing --- [[books:cc:madhya:1:106|Madhya 1.106]]

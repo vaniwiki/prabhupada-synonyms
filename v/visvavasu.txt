@@ -1,5 +1,11 @@
-~~Title:viśvāvasu~~
-{{description>named Viśvāvasu.}}
+---json
+{
+    "name":"viśvāvasu",
+    "h1":"viśvāvasu",
+    "title":"viśvāvasu --- synonyms, prabhupada.io",
+    "description":"named Viśvāvasu."
+}
+---
 
 ==== viśvāvasu  ====
   * named Viśvāvasu --- [[books:sb:8:11:41|SB 8.11.41]]

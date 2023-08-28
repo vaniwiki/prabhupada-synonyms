@@ -1,5 +1,11 @@
-~~Title:akāraṣīt~~
-{{description>executed; have executed.}}
+---json
+{
+    "name":"akāraṣīt",
+    "h1":"akāraṣīt",
+    "title":"akāraṣīt --- synonyms, prabhupada.io",
+    "description":"executed; have executed."
+}
+---
 
 ==== akāraṣīt  ====
   * executed --- [[books:sb:1:10:1|SB 1.10.1]]

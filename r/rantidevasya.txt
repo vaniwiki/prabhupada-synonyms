@@ -1,5 +1,11 @@
-~~Title:rantidevasya~~
-{{description>of Rantideva.}}
+---json
+{
+    "name":"rantidevasya",
+    "h1":"rantidevasya",
+    "title":"rantidevasya --- synonyms, prabhupada.io",
+    "description":"of Rantideva."
+}
+---
 
 ==== rantidevasya  ====
   * of Rantideva --- [[books:sb:9:21:2|SB 9.21.2]]

@@ -1,5 +1,11 @@
-~~Title:mahāvaśī~~
-{{description>there was a son named Mahāvaśī.}}
+---json
+{
+    "name":"mahāvaśī",
+    "h1":"mahāvaśī",
+    "title":"mahāvaśī --- synonyms, prabhupada.io",
+    "description":"there was a son named Mahāvaśī."
+}
+---
 
 ==== mahāvaśī  ====
   * there was a son named Mahāvaśī --- [[books:sb:9:13:26|SB 9.13.26]]

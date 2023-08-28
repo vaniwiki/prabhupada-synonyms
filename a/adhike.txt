@@ -1,5 +1,11 @@
-~~Title:adhike~~
-{{description>more opulent; surpassing in.}}
+---json
+{
+    "name":"adhike",
+    "h1":"adhike",
+    "title":"adhike --- synonyms, prabhupada.io",
+    "description":"more opulent; surpassing in."
+}
+---
 
 ==== adhike  ====
   * more opulent --- [[books:sb:8:13:14|SB 8.13.14]]

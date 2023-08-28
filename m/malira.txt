@@ -1,5 +1,11 @@
-~~Title:mālīra~~
-{{description>on the desire of the gardener.}}
+---json
+{
+    "name":"mālīra",
+    "h1":"mālīra",
+    "title":"mālīra --- synonyms, prabhupada.io",
+    "description":"on the desire of the gardener."
+}
+---
 
 ==== mālīra icchāya  ====
   * on the desire of the gardener --- [[books:cc:adi:10:86|Ādi 10.86]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"drume",
-    "h1":"drume",
-    "title":"drume --- synonyms, prabhupada.io",
-    "description":"in the midst of the trees."
-}
----
+~~Title:drume~~
+{{description>in the midst of the trees.}}
 
 ==== drume  ====
   * in the midst of the trees --- [[books:sb:8:12:18|SB 8.12.18]]

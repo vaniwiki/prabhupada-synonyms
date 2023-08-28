@@ -1,11 +1,5 @@
----json
-{
-    "name":"cora",
-    "h1":"cora",
-    "title":"cora --- synonyms, prabhupada.io",
-    "description":"thief."
-}
----
+~~Title:cora~~
+{{description>thief.}}
 
 ==== corā  ====
   * thief --- [[books:cc:antya:6:47|Antya 6.47]], [[books:cc:antya:6:50|Antya 6.50]]

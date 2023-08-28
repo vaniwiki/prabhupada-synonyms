@@ -1,11 +1,5 @@
----json
-{
-    "name":"navyam",
-    "h1":"navyam",
-    "title":"navyam --- synonyms, prabhupada.io",
-    "description":"newly awakened."
-}
----
+~~Title:navyam~~
+{{description>newly awakened.}}
 
 ==== navyam  ====
   * newly awakened --- [[books:cc:antya:1:169|Antya 1.169]]

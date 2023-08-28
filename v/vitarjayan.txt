@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitarjayan",
-    "h1":"vitarjayan",
-    "title":"vitarjayan --- synonyms, prabhupada.io",
-    "description":"roaring like that."
-}
----
+~~Title:vitarjayan~~
+{{description>roaring like that.}}
 
 ==== vitarjayan  ====
   * roaring like that --- [[books:sb:8:11:30|SB 8.11.30]]

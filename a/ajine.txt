@@ -1,11 +1,5 @@
----json
-{
-    "name":"ajine",
-    "h1":"ajine",
-    "title":"ajine --- synonyms, prabhupada.io",
-    "description":"and a deerskin."
-}
----
+~~Title:ajine~~
+{{description>and a deerskin.}}
 
 ==== ajine  ====
   * and a deerskin --- [[books:sb:7:12:21|SB 7.12.21]]

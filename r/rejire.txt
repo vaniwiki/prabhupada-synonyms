@@ -1,11 +1,5 @@
----json
-{
-    "name":"rejire",
-    "h1":"rejire",
-    "title":"rejire --- synonyms, prabhupada.io",
-    "description":"did not shine."
-}
----
+~~Title:rejire~~
+{{description>did not shine.}}
 
 ==== na rejire  ====
   * did not shine --- [[books:sb:7:8:33|SB 7.8.33]]

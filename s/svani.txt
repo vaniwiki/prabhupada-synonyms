@@ -1,11 +1,5 @@
----json
-{
-    "name":"svāni",
-    "h1":"svāni",
-    "title":"svāni --- synonyms, prabhupada.io",
-    "description":"own."
-}
----
+~~Title:svāni~~
+{{description>own.}}
 
 ==== svāni  ====
   * own --- [[books:sb:8:23:26-27|SB 8.23.26-27]]

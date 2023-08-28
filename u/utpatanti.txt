@@ -1,11 +1,5 @@
----json
-{
-    "name":"utpatanti",
-    "h1":"utpatanti",
-    "title":"utpatanti --- synonyms, prabhupada.io",
-    "description":"can fly."
-}
----
+~~Title:utpatanti~~
+{{description>can fly.}}
 
 ==== utpatanti  ====
   * can fly --- [[books:sb:5:24:6|SB 5.24.6]]

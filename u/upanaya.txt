@@ -1,11 +1,5 @@
----json
-{
-    "name":"upanaya",
-    "h1":"upanaya",
-    "title":"upanaya --- synonyms, prabhupada.io",
-    "description":"kindly take to."
-}
----
+~~Title:upanaya~~
+{{description>kindly take to.}}
 
 ==== upanaya  ====
   * kindly take to --- [[books:sb:7:9:24|SB 7.9.24]]

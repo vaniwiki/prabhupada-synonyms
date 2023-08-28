@@ -1,11 +1,5 @@
----json
-{
-    "name":"toye",
-    "h1":"toye",
-    "title":"toye --- synonyms, prabhupada.io",
-    "description":"in the water."
-}
----
+~~Title:toye~~
+{{description>in the water.}}
 
 ==== toye  ====
   * in the water --- [[books:sb:3:8:23|SB 3.8.23]], [[books:sb:4:23:16|SB 4.23.16]]

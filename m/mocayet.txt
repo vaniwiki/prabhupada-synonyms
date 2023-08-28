@@ -1,11 +1,5 @@
----json
-{
-    "name":"mocayet",
-    "h1":"mocayet",
-    "title":"mocayet --- synonyms, prabhupada.io",
-    "description":"can deliver."
-}
----
+~~Title:mocayet~~
+{{description>can deliver.}}
 
 ==== mocayet  ====
   * can deliver --- [[books:sb:5:5:18|SB 5.5.18]]

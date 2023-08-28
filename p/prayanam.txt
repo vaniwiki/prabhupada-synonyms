@@ -1,11 +1,5 @@
----json
-{
-    "name":"prayanam",
-    "h1":"prayanam",
-    "title":"prayanam --- synonyms, prabhupada.io",
-    "description":"the path."
-}
----
+~~Title:prayanam~~
+{{description>the path.}}
 
 ==== prāyaṇam  ====
   * the path --- [[books:sb:6:5:31|SB 6.5.31]]

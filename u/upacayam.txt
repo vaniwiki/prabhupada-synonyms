@@ -1,11 +1,5 @@
----json
-{
-    "name":"upacayam",
-    "h1":"upacayam",
-    "title":"upacayam --- synonyms, prabhupada.io",
-    "description":"increase."
-}
----
+~~Title:upacayam~~
+{{description>increase.}}
 
 ==== upacayam  ====
   * increase --- [[books:sb:4:11:21|SB 4.11.21]]

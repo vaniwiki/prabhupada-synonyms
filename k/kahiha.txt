@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahiha",
-    "h1":"kahiha",
-    "title":"kahiha --- synonyms, prabhupada.io",
-    "description":"inform; say; tell."
-}
----
+~~Title:kahiha~~
+{{description>inform; say; tell.}}
 
 ==== kahiha  ====
   * inform --- [[books:cc:antya:3:27|Antya 3.27]]

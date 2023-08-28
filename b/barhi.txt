@@ -1,11 +1,5 @@
----json
-{
-    "name":"barhi",
-    "h1":"barhi",
-    "title":"barhi --- synonyms, prabhupada.io",
-    "description":"of peacocks."
-}
----
+~~Title:barhi~~
+{{description>of peacocks.}}
 
 ==== barhi  ====
   * of peacocks --- [[books:sb:3:21:41|SB 3.21.41]]

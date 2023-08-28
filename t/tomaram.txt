@@ -1,11 +1,5 @@
----json
-{
-    "name":"tomaram",
-    "h1":"tomaram",
-    "title":"tomaram --- synonyms, prabhupada.io",
-    "description":"the tomara weapon."
-}
----
+~~Title:tomaram~~
+{{description>the tomara weapon.}}
 
 ==== tomaram  ====
   * the //tomara// weapon --- [[books:sb:8:10:44|SB 8.10.44]]

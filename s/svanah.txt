@@ -1,11 +1,5 @@
----json
-{
-    "name":"svanah",
-    "h1":"svanah",
-    "title":"svanah --- synonyms, prabhupada.io",
-    "description":"sound; whose sounds (Vedic mantras)."
-}
----
+~~Title:svanah~~
+{{description>sound; whose sounds (Vedic mantras).}}
 
 ==== svanaḥ  ====
   * sound --- [[books:sb:8:8:26|SB 8.8.26]]

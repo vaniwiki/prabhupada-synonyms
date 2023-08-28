@@ -1,11 +1,5 @@
----json
-{
-    "name":"kīrtayāmi",
-    "h1":"kīrtayāmi",
-    "title":"kīrtayāmi --- synonyms, prabhupada.io",
-    "description":"I do describe; I shall describe."
-}
----
+~~Title:kīrtayāmi~~
+{{description>I do describe; I shall describe.}}
 
 ==== kīrtayāmi  ====
   * I do describe --- [[books:sb:3:6:36|SB 3.6.36]]

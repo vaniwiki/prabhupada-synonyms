@@ -1,11 +1,5 @@
----json
-{
-    "name":"utasvit",
-    "h1":"utasvit",
-    "title":"utasvit --- synonyms, prabhupada.io",
-    "description":"whether."
-}
----
+~~Title:utasvit~~
+{{description>whether.}}
 
 ==== utasvit  ====
   * whether --- [[books:sb:3:1:39|SB 3.1.39]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"budhyet",
-    "h1":"budhyet",
-    "title":"budhyet --- synonyms, prabhupada.io",
-    "description":"one should understand."
-}
----
+~~Title:budhyet~~
+{{description>one should understand.}}
 
 ==== budhyet  ====
   * one should understand --- [[books:sb:7:7:26|SB 7.7.26]]

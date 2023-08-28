@@ -1,11 +1,5 @@
----json
-{
-    "name":"sumadhyame",
-    "h1":"sumadhyame",
-    "title":"sumadhyame --- synonyms, prabhupada.io",
-    "description":"O beautiful girl."
-}
----
+~~Title:sumadhyame~~
+{{description>O beautiful girl.}}
 
 ==== sumadhyame  ====
   * O beautiful girl --- [[books:sb:9:24:34|SB 9.24.34]]

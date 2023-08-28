@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhita",
-    "h1":"likhita",
-    "title":"likhita --- synonyms, prabhupada.io",
-    "description":"written."
-}
----
+~~Title:likhita~~
+{{description>written.}}
 
 ==== likhita  ====
   * written --- [[books:cc:adi:17:311|Ādi 17.311]]

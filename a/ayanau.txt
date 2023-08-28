@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayanau",
-    "h1":"ayanau",
-    "title":"ayanau --- synonyms, prabhupada.io",
-    "description":"together in the Mānasa Lake."
-}
----
+~~Title:ayanau~~
+{{description>together in the Mānasa Lake.}}
 
 ==== mānasa-ayanau  ====
   * together in the Mānasa Lake --- [[books:sb:4:28:54|SB 4.28.54]]

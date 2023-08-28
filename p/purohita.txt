@@ -1,11 +1,5 @@
----json
-{
-    "name":"purohita",
-    "h1":"purohita",
-    "title":"purohita --- synonyms, prabhupada.io",
-    "description":"priest; priests; the priest."
-}
----
+~~Title:purohita~~
+{{description>priest; priests; the priest.}}
 
 ==== purohita  ====
   * priest --- [[books:cc:antya:3:166|Antya 3.166]]

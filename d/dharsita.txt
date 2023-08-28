@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharsita",
-    "h1":"dharsita",
-    "title":"dharsita --- synonyms, prabhupada.io",
-    "description":"agitated."
-}
----
+~~Title:dharsita~~
+{{description>agitated.}}
 
 ==== dharṣita  ====
   * agitated --- [[books:sb:5:17:20|SB 5.17.20]]

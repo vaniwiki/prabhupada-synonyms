@@ -1,11 +1,5 @@
----json
-{
-    "name":"mohe",
-    "h1":"mohe",
-    "title":"mohe --- synonyms, prabhupada.io",
-    "description":"enchants."
-}
----
+~~Title:mohe~~
+{{description>enchants.}}
 
 ==== mohe  ====
   * enchants --- [[books:cc:antya:17:35|Antya 17.35]]

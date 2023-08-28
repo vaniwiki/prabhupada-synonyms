@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidare",
-    "h1":"vidare",
-    "title":"vidare --- synonyms, prabhupada.io",
-    "description":"splits into pieces."
-}
----
+~~Title:vidare~~
+{{description>splits into pieces.}}
 
 ==== vidare  ====
   * splits into pieces --- [[books:cc:madhya:3:126|Madhya 3.126]]

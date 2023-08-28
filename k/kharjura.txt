@@ -1,11 +1,5 @@
----json
-{
-    "name":"kharjura",
-    "h1":"kharjura",
-    "title":"kharjura --- synonyms, prabhupada.io",
-    "description":"dates."
-}
----
+~~Title:kharjura~~
+{{description>dates.}}
 
 ==== kharjura  ====
   * dates --- [[books:cc:antya:18:104|Antya 18.104]]

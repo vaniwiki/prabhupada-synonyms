@@ -1,11 +1,5 @@
----json
-{
-    "name":"vihāne",
-    "h1":"vihāne",
-    "title":"vihāne --- synonyms, prabhupada.io",
-    "description":"in the morning."
-}
----
+~~Title:vihāne~~
+{{description>in the morning.}}
 
 ==== vihāne  ====
   * in the morning --- [[books:cc:madhya:8:261|Madhya 8.261]]

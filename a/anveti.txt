@@ -1,11 +1,5 @@
----json
-{
-    "name":"anveti",
-    "h1":"anveti",
-    "title":"anveti --- synonyms, prabhupada.io",
-    "description":"extends through."
-}
----
+~~Title:anveti~~
+{{description>extends through.}}
 
 ==== anveti  ====
   * extends through --- [[books:sb:6:16:56|SB 6.16.56]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hinomi",
-    "h1":"hinomi",
-    "title":"hinomi --- synonyms, prabhupada.io",
-    "description":"may quit."
-}
----
+~~Title:hinomi~~
+{{description>may quit.}}
 
 ==== hinomi  ====
   * may quit --- [[books:sb:1:9:24|SB 1.9.24]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadana",
-    "h1":"sadana",
-    "title":"sadana --- synonyms, prabhupada.io",
-    "description":"home; place; the reservoir; the residence."
-}
----
+~~Title:sadana~~
+{{description>home; place; the reservoir; the residence.}}
 
 ==== sadana  ====
   * home --- [[books:cc:madhya:21:131|Madhya 21.131]]

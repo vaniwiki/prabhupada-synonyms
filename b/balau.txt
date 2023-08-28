@@ -1,11 +1,5 @@
----json
-{
-    "name":"balau",
-    "h1":"balau",
-    "title":"balau --- synonyms, prabhupada.io",
-    "description":"ignorant."
-}
----
+~~Title:balau~~
+{{description>ignorant.}}
 
 ==== bālau  ====
   * ignorant --- [[books:sb:4:27:25|SB 4.27.25]]

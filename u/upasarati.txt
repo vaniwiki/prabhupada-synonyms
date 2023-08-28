@@ -1,11 +1,5 @@
----json
-{
-    "name":"upasarati",
-    "h1":"upasarati",
-    "title":"upasarati --- synonyms, prabhupada.io",
-    "description":"serves the Lord."
-}
----
+~~Title:upasarati~~
+{{description>serves the Lord.}}
 
 ==== upasarati  ====
   * serves the Lord --- [[books:sb:5:19:10|SB 5.19.10]]

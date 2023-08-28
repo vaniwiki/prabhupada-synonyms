@@ -1,11 +1,5 @@
----json
-{
-    "name":"dasa",
-    "h1":"dasa",
-    "title":"dasa --- synonyms, prabhupada.io",
-    "description":"conditions; ten; ten times; up to ten."
-}
----
+~~Title:dasa~~
+{{description>conditions; ten; ten times; up to ten.}}
 
 ==== daśa  ====
   * conditions --- [[books:cc:antya:18:16-17|Antya 18.16-17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"aniruktam",
-    "h1":"aniruktam",
-    "title":"aniruktam --- synonyms, prabhupada.io",
-    "description":"indescribable."
-}
----
+~~Title:aniruktam~~
+{{description>indescribable.}}
 
 ==== aniruktam  ====
   * indescribable --- [[books:sb:8:5:26|SB 8.5.26]]

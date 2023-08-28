@@ -1,11 +1,5 @@
----json
-{
-    "name":"sudham",
-    "h1":"sudham",
-    "title":"sudham --- synonyms, prabhupada.io",
-    "description":"nectar; such nectar; the nectar."
-}
----
+~~Title:sudham~~
+{{description>nectar; such nectar; the nectar.}}
 
 ==== sudhām  ====
   * nectar --- [[books:sb:3:32:19|SB 3.32.19]], [[books:sb:8:9:12|SB 8.9.12]]

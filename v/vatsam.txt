@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsam",
-    "h1":"vatsam",
-    "title":"vatsam --- synonyms, prabhupada.io",
-    "description":"a calf; calf; the calf."
-}
----
+~~Title:vatsam~~
+{{description>a calf; calf; the calf.}}
 
 ==== vatsam  ====
   * a calf --- [[books:sb:4:18:9-10|SB 4.18.9-10]]

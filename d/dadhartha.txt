@@ -1,11 +1,5 @@
----json
-{
-    "name":"dadhartha",
-    "h1":"dadhartha",
-    "title":"dadhartha --- synonyms, prabhupada.io",
-    "description":"You awarded."
-}
----
+~~Title:dadhartha~~
+{{description>You awarded.}}
 
 ==== dadhartha  ====
   * You awarded --- [[books:sb:6:9:40|SB 6.9.40]]

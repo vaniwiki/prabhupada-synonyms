@@ -1,11 +1,5 @@
----json
-{
-    "name":"prayojane",
-    "h1":"prayojane",
-    "title":"prayojane --- synonyms, prabhupada.io",
-    "description":"what is the necessity."
-}
----
+~~Title:prayojane~~
+{{description>what is the necessity.}}
 
 ==== kon prayojane  ====
   * what is the necessity --- [[books:cc:antya:3:218|Antya 3.218]]

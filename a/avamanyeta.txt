@@ -1,11 +1,5 @@
----json
-{
-    "name":"avamanyeta",
-    "h1":"avamanyeta",
-    "title":"avamanyeta --- synonyms, prabhupada.io",
-    "description":"one should never disrespect."
-}
----
+~~Title:avamanyeta~~
+{{description>one should never disrespect.}}
 
 ==== na avamanyeta  ====
   * one should never disrespect --- [[books:cc:adi:1:46|Ādi 1.46]]

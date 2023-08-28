@@ -1,11 +1,5 @@
----json
-{
-    "name":"ninadan",
-    "h1":"ninadan",
-    "title":"ninadan --- synonyms, prabhupada.io",
-    "description":"resounding."
-}
----
+~~Title:ninadan~~
+{{description>resounding.}}
 
 ==== ninadan  ====
   * resounding --- [[books:sb:8:11:30|SB 8.11.30]]

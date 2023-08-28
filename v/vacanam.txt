@@ -1,11 +1,5 @@
----json
-{
-    "name":"vacanam",
-    "h1":"vacanam",
-    "title":"vacanam --- synonyms, prabhupada.io",
-    "description":"order; speech; words."
-}
----
+~~Title:vacanam~~
+{{description>order; speech; words.}}
 
 ==== vacanam  ====
   * order --- [[books:bg:18:73|Bg. 18.73]]

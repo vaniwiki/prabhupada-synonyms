@@ -1,11 +1,5 @@
----json
-{
-    "name":"stūpa",
-    "h1":"stūpa",
-    "title":"stūpa --- synonyms, prabhupada.io",
-    "description":"a mound."
-}
----
+~~Title:stūpa~~
+{{description>a mound.}}
 
 ==== stūpa  ====
   * a mound --- [[books:cc:madhya:3:44|Madhya 3.44]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pascima",
-    "h1":"pascima",
-    "title":"pascima --- synonyms, prabhupada.io",
-    "description":"west; western."
-}
----
+~~Title:pascima~~
+{{description>west; western.}}
 
 ==== paścima  ====
   * west --- [[books:cc:madhya:25:171|Madhya 25.171]]

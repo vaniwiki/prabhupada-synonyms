@@ -1,11 +1,5 @@
----json
-{
-    "name":"mandasya",
-    "h1":"mandasya",
-    "title":"mandasya --- synonyms, prabhupada.io",
-    "description":"of the lazy."
-}
----
+~~Title:mandasya~~
+{{description>of the lazy.}}
 
 ==== mandasya  ====
   * of the lazy --- [[books:sb:1:16:9|SB 1.16.9]]

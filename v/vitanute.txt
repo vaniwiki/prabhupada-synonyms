@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitanute",
-    "h1":"vitanute",
-    "title":"vitanute --- synonyms, prabhupada.io",
-    "description":"expands; he performs."
-}
----
+~~Title:vitanute~~
+{{description>expands; he performs.}}
 
 ==== vitanute  ====
   * expands --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

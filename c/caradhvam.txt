@@ -1,11 +1,5 @@
----json
-{
-    "name":"caradhvam",
-    "h1":"caradhvam",
-    "title":"caradhvam --- synonyms, prabhupada.io",
-    "description":"you practice."
-}
----
+~~Title:caradhvam~~
+{{description>you practice.}}
 
 ==== caradhvam  ====
   * you practice --- [[books:sb:4:24:79|SB 4.24.79]]

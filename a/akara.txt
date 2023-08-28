@@ -1,11 +1,5 @@
----json
-{
-    "name":"akara",
-    "h1":"akara",
-    "title":"akara --- synonyms, prabhupada.io",
-    "description":"a mine; mines; the mine."
-}
----
+~~Title:akara~~
+{{description>a mine; mines; the mine.}}
 
 ==== ākara  ====
   * a mine --- [[books:cc:madhya:8:181|Madhya 8.181]]

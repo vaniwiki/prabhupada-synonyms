@@ -1,11 +1,5 @@
----json
-{
-    "name":"asuya",
-    "h1":"asuya",
-    "title":"asuya --- synonyms, prabhupada.io",
-    "description":"envy."
-}
----
+~~Title:asuya~~
+{{description>envy.}}
 
 ==== asūya  ====
   * envy --- [[books:sb:10:7:13-15|SB 10.7.13-15]]

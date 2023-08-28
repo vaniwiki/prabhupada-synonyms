@@ -1,11 +1,5 @@
----json
-{
-    "name":"vadinam",
-    "h1":"vadinam",
-    "title":"vadinam --- synonyms, prabhupada.io",
-    "description":"inquiring."
-}
----
+~~Title:vadinam~~
+{{description>inquiring.}}
 
 ==== vādinam  ====
   * inquiring --- [[books:sb:4:14:45|SB 4.14.45]]

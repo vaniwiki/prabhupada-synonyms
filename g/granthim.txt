@@ -1,11 +1,5 @@
----json
-{
-    "name":"granthim",
-    "h1":"granthim",
-    "title":"granthim --- synonyms, prabhupada.io",
-    "description":"hard knot; knot; the knot."
-}
----
+~~Title:granthim~~
+{{description>hard knot; knot; the knot.}}
 
 ==== granthim  ====
   * hard knot --- [[books:sb:8:24:47|SB 8.24.47]]

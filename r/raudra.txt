@@ -1,11 +1,5 @@
----json
-{
-    "name":"raudra",
-    "h1":"raudra",
-    "title":"raudra --- synonyms, prabhupada.io",
-    "description":"anger."
-}
----
+~~Title:raudra~~
+{{description>anger.}}
 
 ==== raudra  ====
   * anger --- [[books:cc:madhya:19:187|Madhya 19.187]]

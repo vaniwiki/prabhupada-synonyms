@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilola",
-    "h1":"vilola",
-    "title":"vilola --- synonyms, prabhupada.io",
-    "description":"lurking."
-}
----
+~~Title:vilola~~
+{{description>lurking.}}
 
 ==== vilola  ====
   * lurking --- [[books:sb:2:7:28|SB 2.7.28]]

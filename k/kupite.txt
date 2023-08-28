@@ -1,11 +1,5 @@
----json
-{
-    "name":"kupite",
-    "h1":"kupite",
-    "title":"kupite --- synonyms, prabhupada.io",
-    "description":"when angered."
-}
----
+~~Title:kupite~~
+{{description>when angered.}}
 
 ==== kupite  ====
   * when angered --- [[books:sb:4:6:6|SB 4.6.6]]

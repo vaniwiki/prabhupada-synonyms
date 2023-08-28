@@ -1,11 +1,5 @@
----json
-{
-    "name":"anumodeta",
-    "h1":"anumodeta",
-    "title":"anumodeta --- synonyms, prabhupada.io",
-    "description":"he should agree."
-}
----
+~~Title:anumodeta~~
+{{description>he should agree.}}
 
 ==== anumodeta  ====
   * he should agree --- [[books:sb:7:14:6|SB 7.14.6]]

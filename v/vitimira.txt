@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitimira",
-    "h1":"vitimira",
-    "title":"vitimira --- synonyms, prabhupada.io",
-    "description":"without darkness."
-}
----
+~~Title:vitimira~~
+{{description>without darkness.}}
 
 ==== vitimira  ====
   * without darkness --- [[books:sb:6:1:34-36|SB 6.1.34-36]]

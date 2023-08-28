@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhidravate",
-    "h1":"abhidravate",
-    "title":"abhidravate --- synonyms, prabhupada.io",
-    "description":"running."
-}
----
+~~Title:abhidravate~~
+{{description>running.}}
 
 ==== abhidravate  ====
   * running --- [[books:sb:6:11:9|SB 6.11.9]]

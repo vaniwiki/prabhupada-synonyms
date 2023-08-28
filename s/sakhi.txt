@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakhi",
-    "h1":"sakhi",
-    "title":"sakhi --- synonyms, prabhupada.io",
-    "description":"friends; my dear friend; My friend; O friend; O My dear friend; O My dear friends; O my friend."
-}
----
+~~Title:sakhi~~
+{{description>friends; my dear friend; My friend; O friend; O My dear friend; O My dear friends; O my friend.}}
 
 ==== sakhi  ====
   * friends --- [[books:cc:antya:17:53|Antya 17.53]]

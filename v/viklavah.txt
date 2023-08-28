@@ -1,11 +1,5 @@
----json
-{
-    "name":"viklavah",
-    "h1":"viklavah",
-    "title":"viklavah --- synonyms, prabhupada.io",
-    "description":"agitation."
-}
----
+~~Title:viklavah~~
+{{description>agitation.}}
 
 ==== viklavaḥ  ====
   * agitation --- [[books:sb:3:31:21|SB 3.31.21]]

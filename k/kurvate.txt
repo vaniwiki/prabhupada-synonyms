@@ -1,11 +1,5 @@
----json
-{
-    "name":"kurvate",
-    "h1":"kurvate",
-    "title":"kurvate --- synonyms, prabhupada.io",
-    "description":"do they make."
-}
----
+~~Title:kurvate~~
+{{description>do they make.}}
 
 ==== kurvate  ====
   * do they make --- [[books:sb:1:10:30|SB 1.10.30]]

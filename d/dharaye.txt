@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharaye",
-    "h1":"dharaye",
-    "title":"dharaye --- synonyms, prabhupada.io",
-    "description":"captures."
-}
----
+~~Title:dharaye~~
+{{description>captures.}}
 
 ==== dharaye  ====
   * captures --- [[books:cc:adi:4:233|Ādi 4.233]]

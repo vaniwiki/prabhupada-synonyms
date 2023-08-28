@@ -1,11 +1,5 @@
----json
-{
-    "name":"palāi",
-    "h1":"palāi",
-    "title":"palāi --- synonyms, prabhupada.io",
-    "description":"go away."
-}
----
+~~Title:palāi~~
+{{description>go away.}}
 
 ==== palāi  ====
   * go away --- [[books:cc:antya:6:130|Antya 6.130]]

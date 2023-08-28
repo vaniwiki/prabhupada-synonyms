@@ -1,11 +1,5 @@
----json
-{
-    "name":"nayati",
-    "h1":"nayati",
-    "title":"nayati --- synonyms, prabhupada.io",
-    "description":"brings; saves."
-}
----
+~~Title:nayati~~
+{{description>brings; saves.}}
 
 ==== nayati  ====
   * brings --- [[books:cc:antya:1:169|Antya 1.169]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayuta",
-    "h1":"ayuta",
-    "title":"ayuta --- synonyms, prabhupada.io",
-    "description":"millions; ten thousand."
-}
----
+~~Title:ayuta~~
+{{description>millions; ten thousand.}}
 
 ==== ayuta  ====
   * millions --- [[books:sb:1:8:49|SB 1.8.49]]

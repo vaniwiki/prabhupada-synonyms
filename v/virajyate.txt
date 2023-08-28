@@ -1,11 +1,5 @@
----json
-{
-    "name":"virajyate",
-    "h1":"virajyate",
-    "title":"virajyate --- synonyms, prabhupada.io",
-    "description":"is averse."
-}
----
+~~Title:virajyate~~
+{{description>is averse.}}
 
 ==== virajyate  ====
   * is averse --- [[books:sb:3:30:4|SB 3.30.4]]

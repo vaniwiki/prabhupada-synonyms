@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatse",
-    "h1":"vatse",
-    "title":"vatse --- synonyms, prabhupada.io",
-    "description":"my dear child."
-}
----
+~~Title:vatse~~
+{{description>my dear child.}}
 
 ==== vatse  ====
   * my dear child --- [[books:sb:7:7:12|SB 7.7.12]]

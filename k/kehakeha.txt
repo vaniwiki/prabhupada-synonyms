@@ -1,11 +1,5 @@
----json
-{
-    "name":"kehakeha",
-    "h1":"kehakeha",
-    "title":"kehakeha --- synonyms, prabhupada.io",
-    "description":"some of them."
-}
----
+~~Title:kehakeha~~
+{{description>some of them.}}
 
 ==== kehakeha  ====
   * some of them --- [[books:cc:adi:17:198|Ādi 17.198]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vanete",
-    "h1":"vanete",
-    "title":"vanete --- synonyms, prabhupada.io",
-    "description":"traveling within the forest."
-}
----
+~~Title:vanete~~
+{{description>traveling within the forest.}}
 
 ==== vanete bhramiyā  ====
   * traveling within the forest --- [[books:cc:madhya:25:215|Madhya 25.215]]

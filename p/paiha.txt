@@ -1,11 +1,5 @@
----json
-{
-    "name":"pāiha",
-    "h1":"pāiha",
-    "title":"pāiha --- synonyms, prabhupada.io",
-    "description":"do not be afraid."
-}
----
+~~Title:pāiha~~
+{{description>do not be afraid.}}
 
 ==== bhaya nā pāiha  ====
   * do not be afraid --- [[books:cc:antya:18:62|Antya 18.62]]

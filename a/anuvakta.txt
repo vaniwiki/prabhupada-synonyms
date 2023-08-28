@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuvaktā",
-    "h1":"anuvaktā",
-    "title":"anuvaktā --- synonyms, prabhupada.io",
-    "description":"the speaker."
-}
----
+~~Title:anuvaktā~~
+{{description>the speaker.}}
 
 ==== anuvaktā  ====
   * the speaker --- [[books:sb:7:2:44|SB 7.2.44]], [[books:sb:7:2:45|SB 7.2.45]]

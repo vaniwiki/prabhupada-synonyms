@@ -1,11 +1,5 @@
----json
-{
-    "name":"veśmani",
-    "h1":"veśmani",
-    "title":"veśmani --- synonyms, prabhupada.io",
-    "description":"at the house."
-}
----
+~~Title:veśmani~~
+{{description>at the house.}}
 
 ==== veśmani  ====
   * at the house --- [[books:sb:4:28:28|SB 4.28.28]]

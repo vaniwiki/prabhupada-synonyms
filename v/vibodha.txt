@@ -1,11 +1,5 @@
----json
-{
-    "name":"vibodha",
-    "h1":"vibodha",
-    "title":"vibodha --- synonyms, prabhupada.io",
-    "description":"understanding."
-}
----
+~~Title:vibodha~~
+{{description>understanding.}}
 
 ==== vibodha  ====
   * understanding --- [[books:sb:3:4:20|SB 3.4.20]]

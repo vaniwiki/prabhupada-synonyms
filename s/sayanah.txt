@@ -1,11 +1,5 @@
----json
-{
-    "name":"sayanah",
-    "h1":"sayanah",
-    "title":"sayanah --- synonyms, prabhupada.io",
-    "description":"lying."
-}
----
+~~Title:sayanah~~
+{{description>lying.}}
 
 ==== śayanaḥ  ====
   * lying --- [[books:sb:3:1:19|SB 3.1.19]]

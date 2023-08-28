@@ -1,11 +1,5 @@
----json
-{
-    "name":"vinītam",
-    "h1":"vinītam",
-    "title":"vinītam --- synonyms, prabhupada.io",
-    "description":"submissive; very gentle."
-}
----
+~~Title:vinītam~~
+{{description>submissive; very gentle.}}
 
 ==== vinītam  ====
   * submissive --- [[books:cc:antya:19:70|Antya 19.70]]

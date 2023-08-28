@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahattvam",
-    "h1":"mahattvam",
-    "title":"mahattvam --- synonyms, prabhupada.io",
-    "description":"greatness."
-}
----
+~~Title:mahattvam~~
+{{description>greatness.}}
 
 ==== mahattvam  ====
   * greatness --- [[books:sb:1:16:26-30|SB 1.16.26-30]], [[books:sb:4:12:47|SB 4.12.47]], [[books:sb:5:18:13|SB 5.18.13]], [[books:sb:9:5:14|SB 9.5.14]], [[books:cc:adi:16:41|Ādi 16.41]]

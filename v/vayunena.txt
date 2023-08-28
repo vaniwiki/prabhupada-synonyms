@@ -1,11 +1,5 @@
----json
-{
-    "name":"vayunena",
-    "h1":"vayunena",
-    "title":"vayunena --- synonyms, prabhupada.io",
-    "description":"with the knowledge."
-}
----
+~~Title:vayunena~~
+{{description>with the knowledge.}}
 
 ==== vayunena  ====
   * with the knowledge --- [[books:sb:4:23:12|SB 4.23.12]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vanya",
-    "h1":"vanya",
-    "title":"vanya --- synonyms, prabhupada.io",
-    "description":"from the forest; of the forest."
-}
----
+~~Title:vanya~~
+{{description>from the forest; of the forest.}}
 
 ==== vanya  ====
   * from the forest --- [[books:cc:madhya:17:62-63|Madhya 17.62-63]]

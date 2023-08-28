@@ -1,11 +1,5 @@
----json
-{
-    "name":"patattri",
-    "h1":"patattri",
-    "title":"patattri --- synonyms, prabhupada.io",
-    "description":"the chief among birds."
-}
----
+~~Title:patattri~~
+{{description>the chief among birds.}}
 
 ==== patattri-pravarāḥ  ====
   * the chief among birds --- [[books:sb:5:24:6|SB 5.24.6]]

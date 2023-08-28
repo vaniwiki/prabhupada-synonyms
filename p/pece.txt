@@ -1,11 +1,5 @@
----json
-{
-    "name":"pece",
-    "h1":"pece",
-    "title":"pece --- synonyms, prabhupada.io",
-    "description":"cooked."
-}
----
+~~Title:pece~~
+{{description>cooked.}}
 
 ==== pece  ====
   * cooked --- [[books:sb:6:18:15|SB 6.18.15]]

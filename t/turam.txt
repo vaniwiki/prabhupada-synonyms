@@ -1,11 +1,5 @@
----json
-{
-    "name":"turam",
-    "h1":"turam",
-    "title":"turam --- synonyms, prabhupada.io",
-    "description":"Tura."
-}
----
+~~Title:turam~~
+{{description>Tura.}}
 
 ==== turam  ====
   * Tura --- [[books:sb:9:22:37|SB 9.22.37]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhāṣyate",
-    "h1":"bhāṣyate",
-    "title":"bhāṣyate --- synonyms, prabhupada.io",
-    "description":"will talk very much."
-}
----
+~~Title:bhāṣyate~~
+{{description>will talk very much.}}
 
 ==== bahu bhāṣyate  ====
   * will talk very much --- [[books:sb:2:7:37|SB 2.7.37]]

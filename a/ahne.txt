@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahne",
-    "h1":"ahne",
-    "title":"ahne --- synonyms, prabhupada.io",
-    "description":"at noon."
-}
----
+~~Title:ahne~~
+{{description>at noon.}}
 
 ==== madhya-ahne  ====
   * at noon --- [[books:cc:antya:4:118|Antya 4.118]]

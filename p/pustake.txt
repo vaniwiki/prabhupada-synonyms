@@ -1,11 +1,5 @@
----json
-{
-    "name":"pustake",
-    "h1":"pustake",
-    "title":"pustake --- synonyms, prabhupada.io",
-    "description":"the book."
-}
----
+~~Title:pustake~~
+{{description>the book.}}
 
 ==== pustake  ====
   * the book --- [[books:cc:madhya:9:209|Madhya 9.209]]

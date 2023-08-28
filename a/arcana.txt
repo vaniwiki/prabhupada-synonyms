@@ -1,11 +1,5 @@
----json
-{
-    "name":"arcana",
-    "h1":"arcana",
-    "title":"arcana --- synonyms, prabhupada.io",
-    "description":"by worshiping; offering worship."
-}
----
+~~Title:arcana~~
+{{description>by worshiping; offering worship.}}
 
 ==== arcana  ====
   * by worshiping --- [[books:sb:4:9:28|SB 4.9.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"itaram",
-    "h1":"itaram",
-    "title":"itaram --- synonyms, prabhupada.io",
-    "description":"other than auspiciousness, sinful activities."
-}
----
+~~Title:itaram~~
+{{description>other than auspiciousness, sinful activities.}}
 
 ==== itaram  ====
   * other than auspiciousness, sinful activities --- [[books:sb:5:11:4|SB 5.11.4]]

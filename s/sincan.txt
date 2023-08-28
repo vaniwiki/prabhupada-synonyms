@@ -1,11 +1,5 @@
----json
-{
-    "name":"siñcan",
-    "h1":"siñcan",
-    "title":"siñcan --- synonyms, prabhupada.io",
-    "description":"pouring water."
-}
----
+~~Title:siñcan~~
+{{description>pouring water.}}
 
 ==== siñcan  ====
   * pouring water --- [[books:cc:madhya:16:1|Madhya 16.1]]

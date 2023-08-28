@@ -1,11 +1,5 @@
----json
-{
-    "name":"calet",
-    "h1":"calet",
-    "title":"calet --- synonyms, prabhupada.io",
-    "description":"would wander."
-}
----
+~~Title:calet~~
+{{description>would wander.}}
 
 ==== calet  ====
   * would wander --- [[books:cc:madhya:24:56|Madhya 24.56]], [[books:cc:antya:17:31|Antya 17.31]]

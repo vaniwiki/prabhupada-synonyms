@@ -1,11 +1,5 @@
----json
-{
-    "name":"varjayet",
-    "h1":"varjayet",
-    "title":"varjayet --- synonyms, prabhupada.io",
-    "description":"must give up; one should give up; should give up."
-}
----
+~~Title:varjayet~~
+{{description>must give up; one should give up; should give up.}}
 
 ==== varjayet  ====
   * must give up --- [[books:sb:7:12:7|SB 7.12.7]]

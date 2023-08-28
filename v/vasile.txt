@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasile",
-    "h1":"vasile",
-    "title":"vasile --- synonyms, prabhupada.io",
-    "description":"if not sitting."
-}
----
+~~Title:vasile~~
+{{description>if not sitting.}}
 
 ==== nā vasile  ====
   * if not sitting --- [[books:cc:madhya:11:202|Madhya 11.202]]

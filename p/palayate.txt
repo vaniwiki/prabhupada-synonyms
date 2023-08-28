@@ -1,11 +1,5 @@
----json
-{
-    "name":"palayate",
-    "h1":"palayate",
-    "title":"palayate --- synonyms, prabhupada.io",
-    "description":"runs away; she flees."
-}
----
+~~Title:palayate~~
+{{description>runs away; she flees.}}
 
 ==== palāyate  ====
   * runs away --- [[books:sb:7:5:50|SB 7.5.50]]

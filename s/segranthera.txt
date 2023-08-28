@@ -1,11 +1,5 @@
----json
-{
-    "name":"segranthera",
-    "h1":"segranthera",
-    "title":"segranthera --- synonyms, prabhupada.io",
-    "description":"of that scripture."
-}
----
+~~Title:segranthera~~
+{{description>of that scripture.}}
 
 ==== segranthera  ====
   * of that scripture --- [[books:cc:adi:17:311|Ādi 17.311]]

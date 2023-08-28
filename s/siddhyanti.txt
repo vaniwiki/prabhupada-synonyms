@@ -1,11 +1,5 @@
----json
-{
-    "name":"siddhyanti",
-    "h1":"siddhyanti",
-    "title":"siddhyanti --- synonyms, prabhupada.io",
-    "description":"become successful."
-}
----
+~~Title:siddhyanti~~
+{{description>become successful.}}
 
 ==== siddhyanti  ====
   * become successful --- [[books:sb:1:18:7|SB 1.18.7]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nihitam",
-    "h1":"nihitam",
-    "title":"nihitam --- synonyms, prabhupada.io",
-    "description":"entered; placed."
-}
----
+~~Title:nihitam~~
+{{description>entered; placed.}}
 
 ==== nihitam  ====
   * entered --- [[books:sb:10:2:26|SB 10.2.26]]

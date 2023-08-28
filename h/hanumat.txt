@@ -1,11 +1,5 @@
----json
-{
-    "name":"hanumat",
-    "h1":"hanumat",
-    "title":"hanumat --- synonyms, prabhupada.io",
-    "description":"Hanumān."
-}
----
+~~Title:hanumat~~
+{{description>Hanumān.}}
 
 ==== hanumat  ====
   * Hanumān --- [[books:sb:9:10:16|SB 9.10.16]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gham",
-    "h1":"gham",
-    "title":"gham --- synonyms, prabhupada.io",
-    "description":"honey."
-}
----
+~~Title:gham~~
+{{description>honey.}}
 
 ==== sāra-gham  ====
   * honey --- [[books:sb:4:24:64|SB 4.24.64]]

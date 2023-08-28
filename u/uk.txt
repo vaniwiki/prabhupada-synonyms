@@ -1,11 +1,5 @@
----json
-{
-    "name":"uk",
-    "h1":"uk",
-    "title":"uk --- synonyms, prabhupada.io",
-    "description":"He may be; let her become; let it happen; let them become; let there be."
-}
----
+~~Title:uk~~
+{{description>He may be; let her become; let it happen; let them become; let there be.}}
 
 ==== ha-uk  ====
   * He may be --- [[books:cc:adi:14:86|Ādi 14.86]]

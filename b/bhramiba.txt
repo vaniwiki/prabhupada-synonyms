@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhramiba",
-    "h1":"bhramiba",
-    "title":"bhramiba --- synonyms, prabhupada.io",
-    "description":"I shall tour."
-}
----
+~~Title:bhramiba~~
+{{description>I shall tour.}}
 
 ==== bhramiba  ====
   * I shall tour --- [[books:cc:madhya:7:28|Madhya 7.28]]

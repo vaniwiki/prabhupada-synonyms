@@ -1,11 +1,5 @@
----json
-{
-    "name":"sayam",
-    "h1":"sayam",
-    "title":"sayam --- synonyms, prabhupada.io",
-    "description":"evening; in the evening; Sāyam; the evening; the sixth part of the day."
-}
----
+~~Title:sayam~~
+{{description>evening; in the evening; Sāyam; the evening; the sixth part of the day.}}
 
 ==== sāyam  ====
   * evening --- [[books:sb:1:3:29|SB 1.3.29]], [[books:sb:10:13:23|SB 10.13.23]]

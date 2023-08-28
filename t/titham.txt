@@ -1,11 +1,5 @@
----json
-{
-    "name":"titham",
-    "h1":"titham",
-    "title":"titham --- synonyms, prabhupada.io",
-    "description":"for many days; for many days, or for a long time; of a long, long duration."
-}
----
+~~Title:titham~~
+{{description>for many days; for many days, or for a long time; of a long, long duration.}}
 
 ==== bahu-titham  ====
   * for many days --- [[books:sb:1:16:32-33|SB 1.16.32-33]], [[books:sb:10:5:31|SB 10.5.31]]

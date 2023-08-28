@@ -1,11 +1,5 @@
----json
-{
-    "name":"avihatam",
-    "h1":"avihatam",
-    "title":"avihatam --- synonyms, prabhupada.io",
-    "description":"without being deterred."
-}
----
+~~Title:avihatam~~
+{{description>without being deterred.}}
 
 ==== avihatam  ====
   * without being deterred --- [[books:sb:2:7:20|SB 2.7.20]]

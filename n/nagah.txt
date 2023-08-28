@@ -1,11 +1,5 @@
----json
-{
-    "name":"nagah",
-    "h1":"nagah",
-    "title":"nagah --- synonyms, prabhupada.io",
-    "description":"snake."
-}
----
+~~Title:nagah~~
+{{description>snake.}}
 
 ==== nāgaḥ  ====
   * snake --- [[books:sb:4:25:35|SB 4.25.35]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vina",
-    "h1":"vina",
-    "title":"vina --- synonyms, prabhupada.io",
-    "description":"without."
-}
----
+~~Title:vina~~
+{{description>without.}}
 
 ==== vina  ====
   * without --- [[books:cc:madhya:20:254|Madhya 20.254]]

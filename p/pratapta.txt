@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratapta",
-    "h1":"pratapta",
-    "title":"pratapta --- synonyms, prabhupada.io",
-    "description":"like molten."
-}
----
+~~Title:pratapta~~
+{{description>like molten.}}
 
 ==== pratapta  ====
   * like molten --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

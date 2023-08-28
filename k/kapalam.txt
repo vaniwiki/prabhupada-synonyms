@@ -1,11 +1,5 @@
----json
-{
-    "name":"kapālam",
-    "h1":"kapālam",
-    "title":"kapālam --- synonyms, prabhupada.io",
-    "description":"three kinds of offerings."
-}
----
+~~Title:kapālam~~
+{{description>three kinds of offerings.}}
 
 ==== tri-kapālam  ====
   * three kinds of offerings --- [[books:sb:4:7:17|SB 4.7.17]]

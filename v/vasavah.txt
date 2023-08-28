@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasavah",
-    "h1":"vasavah",
-    "title":"vasavah --- synonyms, prabhupada.io",
-    "description":"the eight Vasus; the Vasus."
-}
----
+~~Title:vasavah~~
+{{description>the eight Vasus; the Vasus.}}
 
 ==== vasavaḥ  ====
   * the eight Vasus --- [[books:sb:6:3:14-15|SB 6.3.14-15]]

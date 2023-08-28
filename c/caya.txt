@@ -1,11 +1,5 @@
----json
-{
-    "name":"caya",
-    "h1":"caya",
-    "title":"caya --- synonyms, prabhupada.io",
-    "description":"all collections."
-}
----
+~~Title:caya~~
+{{description>all collections.}}
 
 ==== caya  ====
   * all collections --- [[books:cc:madhya:8:1|Madhya 8.1]]

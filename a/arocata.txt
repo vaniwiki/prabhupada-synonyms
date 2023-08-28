@@ -1,11 +1,5 @@
----json
-{
-    "name":"arocata",
-    "h1":"arocata",
-    "title":"arocata --- synonyms, prabhupada.io",
-    "description":"were very pleasing."
-}
----
+~~Title:arocata~~
+{{description>were very pleasing.}}
 
 ==== arocata  ====
   * were very pleasing --- [[books:sb:8:6:31|SB 8.6.31]]

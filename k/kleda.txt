@@ -1,11 +1,5 @@
----json
-{
-    "name":"kleda",
-    "h1":"kleda",
-    "title":"kleda --- synonyms, prabhupada.io",
-    "description":"the moisture of weeping itches."
-}
----
+~~Title:kleda~~
+{{description>the moisture of weeping itches.}}
 
 ==== kaṇḍu-kleda  ====
   * the moisture of weeping itches --- [[books:cc:antya:4:21|Antya 4.21]]

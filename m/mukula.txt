@@ -1,11 +1,5 @@
----json
-{
-    "name":"mukula",
-    "h1":"mukula",
-    "title":"mukula --- synonyms, prabhupada.io",
-    "description":"buds."
-}
----
+~~Title:mukula~~
+{{description>buds.}}
 
 ==== mukula  ====
   * buds --- [[books:sb:5:2:5|SB 5.2.5]]

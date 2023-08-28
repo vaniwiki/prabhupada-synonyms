@@ -1,11 +1,5 @@
----json
-{
-    "name":"vate",
-    "h1":"vate",
-    "title":"vate --- synonyms, prabhupada.io",
-    "description":"talks."
-}
----
+~~Title:vate~~
+{{description>talks.}}
 
 ==== vāte  ====
   * talks --- [[books:cc:antya:3:17|Antya 3.17]]

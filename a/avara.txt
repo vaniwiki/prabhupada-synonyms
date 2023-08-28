@@ -1,11 +1,5 @@
----json
-{
-    "name":"avara",
-    "h1":"avara",
-    "title":"avara --- synonyms, prabhupada.io",
-    "description":"inferior; later; mundane."
-}
----
+~~Title:avara~~
+{{description>inferior; later; mundane.}}
 
 ==== avara  ====
   * inferior --- [[books:sb:3:5:37|SB 3.5.37]]

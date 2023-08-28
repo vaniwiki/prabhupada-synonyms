@@ -1,11 +1,5 @@
----json
-{
-    "name":"antyam",
-    "h1":"antyam",
-    "title":"antyam --- synonyms, prabhupada.io",
-    "description":"and beyond that."
-}
----
+~~Title:antyam~~
+{{description>and beyond that.}}
 
 ==== antyam  ====
   * and beyond that --- [[books:sb:1:18:22|SB 1.18.22]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nite",
-    "h1":"nite",
-    "title":"nite --- synonyms, prabhupada.io",
-    "description":"and to receive; to take."
-}
----
+~~Title:nite~~
+{{description>and to receive; to take.}}
 
 ==== nite  ====
   * and to receive --- [[books:cc:adi:11:26|Ādi 11.26]]

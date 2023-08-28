@@ -1,11 +1,5 @@
----json
-{
-    "name":"udaka",
-    "h1":"udaka",
-    "title":"udaka --- synonyms, prabhupada.io",
-    "description":"in water; water."
-}
----
+~~Title:udaka~~
+{{description>in water; water.}}
 
 ==== udaka  ====
   * in water --- [[books:sb:10:1:43|SB 10.1.43]]

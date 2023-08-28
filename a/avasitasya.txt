@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasitasya",
-    "h1":"avasitasya",
-    "title":"avasitasya --- synonyms, prabhupada.io",
-    "description":"who resides."
-}
----
+~~Title:avasitasya~~
+{{description>who resides.}}
 
 ==== avasitasya  ====
   * who resides --- [[books:sb:3:28:33|SB 3.28.33]]

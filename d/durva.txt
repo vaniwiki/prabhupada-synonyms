@@ -1,11 +1,5 @@
----json
-{
-    "name":"durva",
-    "h1":"durva",
-    "title":"durva --- synonyms, prabhupada.io",
-    "description":"fresh grass."
-}
----
+~~Title:durva~~
+{{description>fresh grass.}}
 
 ==== durvā  ====
   * fresh grass --- [[books:cc:adi:13:114|Ādi 13.114]], [[books:cc:adi:13:117|Ādi 13.117]]

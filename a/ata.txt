@@ -1,11 +1,5 @@
----json
-{
-    "name":"ata",
-    "h1":"ata",
-    "title":"ata --- synonyms, prabhupada.io",
-    "description":"therefore."
-}
----
+~~Title:ata~~
+{{description>therefore.}}
 
 ==== ata eva  ====
   * therefore --- [[books:sb:6:9:43|SB 6.9.43]]

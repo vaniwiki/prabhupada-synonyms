@@ -1,11 +1,5 @@
----json
-{
-    "name":"vipulam",
-    "h1":"vipulam",
-    "title":"vipulam --- synonyms, prabhupada.io",
-    "description":"Vipula."
-}
----
+~~Title:vipulam~~
+{{description>Vipula.}}
 
 ==== vipulam  ====
   * Vipula --- [[books:sb:9:24:46|SB 9.24.46]]

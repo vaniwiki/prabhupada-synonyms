@@ -1,11 +1,5 @@
----json
-{
-    "name":"senām",
-    "h1":"senām",
-    "title":"senām --- synonyms, prabhupada.io",
-    "description":"army."
-}
----
+~~Title:senām~~
+{{description>army.}}
 
 ==== senām  ====
   * army --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

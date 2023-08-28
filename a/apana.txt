@@ -1,11 +1,5 @@
----json
-{
-    "name":"apana",
-    "h1":"apana",
-    "title":"apana --- synonyms, prabhupada.io",
-    "description":"air going downward; downgoing air."
-}
----
+~~Title:apana~~
+{{description>air going downward; downgoing air.}}
 
 ==== apāna  ====
   * air going downward --- [[books:bg:4:29|Bg. 4.29]]

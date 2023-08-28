@@ -1,11 +1,5 @@
----json
-{
-    "name":"yojayan",
-    "h1":"yojayan",
-    "title":"yojayan --- synonyms, prabhupada.io",
-    "description":"engaging."
-}
----
+~~Title:yojayan~~
+{{description>engaging.}}
 
 ==== yojayan  ====
   * engaging --- [[books:sb:5:5:15|SB 5.5.15]]

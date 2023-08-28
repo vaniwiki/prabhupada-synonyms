@@ -1,11 +1,5 @@
----json
-{
-    "name":"trai",
-    "h1":"trai",
-    "title":"trai --- synonyms, prabhupada.io",
-    "description":"the three modes of nature."
-}
----
+~~Title:trai~~
+{{description>the three modes of nature.}}
 
 ==== trai-guṇya  ====
   * the three modes of nature --- [[books:sb:6:1:2|SB 6.1.2]]

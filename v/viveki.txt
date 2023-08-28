@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivekī",
-    "h1":"vivekī",
-    "title":"vivekī --- synonyms, prabhupada.io",
-    "description":"who is intelligent."
-}
----
+~~Title:vivekī~~
+{{description>who is intelligent.}}
 
 ==== vivekī  ====
   * who is intelligent --- [[books:noi:9|NoI 9]]

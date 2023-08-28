@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarala",
-    "h1":"tarala",
-    "title":"tarala --- synonyms, prabhupada.io",
-    "description":"the locket."
-}
----
+~~Title:tarala~~
+{{description>the locket.}}
 
 ==== tarala  ====
   * the locket --- [[books:cc:madhya:8:176|Madhya 8.176]]

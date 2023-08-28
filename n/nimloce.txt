@@ -1,11 +1,5 @@
----json
-{
-    "name":"nimloce",
-    "h1":"nimloce",
-    "title":"nimloce --- synonyms, prabhupada.io",
-    "description":"having set."
-}
----
+~~Title:nimloce~~
+{{description>having set.}}
 
 ==== nimloce  ====
   * having set --- [[books:sb:3:2:7|SB 3.2.7]]

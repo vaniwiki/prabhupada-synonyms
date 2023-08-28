@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasānam",
-    "h1":"avasānam",
-    "title":"avasānam --- synonyms, prabhupada.io",
-    "description":"the end."
-}
----
+~~Title:avasānam~~
+{{description>the end.}}
 
 ==== avasānam  ====
   * the end --- [[books:sb:5:8:31|SB 5.8.31]]

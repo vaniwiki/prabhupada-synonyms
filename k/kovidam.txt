@@ -1,11 +1,5 @@
----json
-{
-    "name":"kovidam",
-    "h1":"kovidam",
-    "title":"kovidam --- synonyms, prabhupada.io",
-    "description":"very much skilled."
-}
----
+~~Title:kovidam~~
+{{description>very much skilled.}}
 
 ==== kovidam  ====
   * very much skilled --- [[books:sb:3:17:30|SB 3.17.30]]

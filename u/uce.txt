@@ -1,11 +1,5 @@
----json
-{
-    "name":"uce",
-    "h1":"uce",
-    "title":"uce --- synonyms, prabhupada.io",
-    "description":"said anything."
-}
----
+~~Title:uce~~
+{{description>said anything.}}
 
 ==== uce  ====
   * said anything --- [[books:sb:9:14:11|SB 9.14.11]]

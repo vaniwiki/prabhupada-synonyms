@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahotsave",
-    "h1":"mahotsave",
-    "title":"mahotsave --- synonyms, prabhupada.io",
-    "description":"at a festival; in the festival."
-}
----
+~~Title:mahotsave~~
+{{description>at a festival; in the festival.}}
 
 ==== mahotsave  ====
   * at a festival --- [[books:cc:antya:13:123|Antya 13.123]]

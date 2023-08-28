@@ -1,11 +1,5 @@
----json
-{
-    "name":"soma",
-    "h1":"soma",
-    "title":"soma --- synonyms, prabhupada.io",
-    "description":"of the moon; of the moon-god."
-}
----
+~~Title:soma~~
+{{description>of the moon; of the moon-god.}}
 
 ==== soma  ====
   * of the moon --- [[books:sb:5:10:17|SB 5.10.17]]

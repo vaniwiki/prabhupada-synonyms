@@ -1,11 +1,5 @@
----json
-{
-    "name":"karinu",
-    "h1":"karinu",
-    "title":"karinu --- synonyms, prabhupada.io",
-    "description":"attempted; did; have done; I did; I have done."
-}
----
+~~Title:karinu~~
+{{description>attempted; did; have done; I did; I have done.}}
 
 ==== karinu  ====
   * attempted --- [[books:cc:adi:8:77|Ādi 8.77]]

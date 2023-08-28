@@ -1,11 +1,5 @@
----json
-{
-    "name":"prabhave",
-    "h1":"prabhave",
-    "title":"prabhave --- synonyms, prabhupada.io",
-    "description":"who increases the influence."
-}
----
+~~Title:prabhave~~
+{{description>who increases the influence.}}
 
 ==== prabhave  ====
   * who increases the influence --- [[books:sb:4:30:24|SB 4.30.24]]

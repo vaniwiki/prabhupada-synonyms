@@ -1,11 +1,5 @@
----json
-{
-    "name":"priyatama",
-    "h1":"priyatama",
-    "title":"priyatama --- synonyms, prabhupada.io",
-    "description":"very dear."
-}
----
+~~Title:priyatama~~
+{{description>very dear.}}
 
 ==== priyatama  ====
   * very dear --- [[books:cc:antya:9:120|Antya 9.120]]

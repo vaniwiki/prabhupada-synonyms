@@ -1,11 +1,5 @@
----json
-{
-    "name":"acaran",
-    "h1":"acaran",
-    "title":"acaran --- synonyms, prabhupada.io",
-    "description":"performed."
-}
----
+~~Title:acaran~~
+{{description>performed.}}
 
 ==== acaran  ====
   * performed --- [[books:cc:adi:4:156|Ādi 4.156]], [[books:cc:madhya:21:112|Madhya 21.112]]

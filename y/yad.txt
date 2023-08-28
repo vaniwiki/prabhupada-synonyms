@@ -1,11 +1,5 @@
----json
-{
-    "name":"yad",
-    "h1":"yad",
-    "title":"yad --- synonyms, prabhupada.io",
-    "description":"what it may be."
-}
----
+~~Title:yad~~
+{{description>what it may be.}}
 
 ==== yad vā  ====
   * what it may be --- [[books:sb:1:19:38|SB 1.19.38]]

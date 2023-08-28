@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidyotayan",
-    "h1":"vidyotayan",
-    "title":"vidyotayan --- synonyms, prabhupada.io",
-    "description":"illuminating."
-}
----
+~~Title:vidyotayan~~
+{{description>illuminating.}}
 
 ==== vidyotayan  ====
   * illuminating --- [[books:sb:3:8:14|SB 3.8.14]]

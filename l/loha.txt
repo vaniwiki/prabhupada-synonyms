@@ -1,11 +1,5 @@
----json
-{
-    "name":"loha",
-    "h1":"loha",
-    "title":"loha --- synonyms, prabhupada.io",
-    "description":"iron ores."
-}
----
+~~Title:loha~~
+{{description>iron ores.}}
 
 ==== loha  ====
   * iron ores --- [[books:sb:2:6:5|SB 2.6.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicaret",
-    "h1":"vicaret",
-    "title":"vicaret --- synonyms, prabhupada.io",
-    "description":"can go."
-}
----
+~~Title:vicaret~~
+{{description>can go.}}
 
 ==== vicaret  ====
   * can go --- [[books:sb:5:1:18|SB 5.1.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"tomātei",
-    "h1":"tomātei",
-    "title":"tomātei --- synonyms, prabhupada.io",
-    "description":"by You."
-}
----
+~~Title:tomātei~~
+{{description>by You.}}
 
 ==== tomātei  ====
   * by You --- [[books:cc:antya:11:36|Antya 11.36]]

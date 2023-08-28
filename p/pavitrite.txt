@@ -1,11 +1,5 @@
----json
-{
-    "name":"pavitrite",
-    "h1":"pavitrite",
-    "title":"pavitrite --- synonyms, prabhupada.io",
-    "description":"to purify Myself."
-}
----
+~~Title:pavitrite~~
+{{description>to purify Myself.}}
 
 ==== ātma pavitrite  ====
   * to purify Myself --- [[books:cc:madhya:20:56|Madhya 20.56]]

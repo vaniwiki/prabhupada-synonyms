@@ -1,11 +1,5 @@
----json
-{
-    "name":"uthi",
-    "h1":"uthi",
-    "title":"uthi --- synonyms, prabhupada.io",
-    "description":"getting up."
-}
----
+~~Title:uthi~~
+{{description>getting up.}}
 
 ==== uṭhi  ====
   * getting up --- [[books:cc:antya:2:151|Antya 2.151]]

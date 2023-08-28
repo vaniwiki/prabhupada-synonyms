@@ -1,11 +1,5 @@
----json
-{
-    "name":"vittamah",
-    "h1":"vittamah",
-    "title":"vittamah --- synonyms, prabhupada.io",
-    "description":"a learned scholar in spiritual science."
-}
----
+~~Title:vittamah~~
+{{description>a learned scholar in spiritual science.}}
 
 ==== brahma-vittamaḥ  ====
   * a learned scholar in spiritual science --- [[books:sb:9:15:10|SB 9.15.10]]

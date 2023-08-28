@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarvottama",
-    "h1":"sarvottama",
-    "title":"sarvottama --- synonyms, prabhupada.io",
-    "description":"supreme; very great."
-}
----
+~~Title:sarvottama~~
+{{description>supreme; very great.}}
 
 ==== sarvottama  ====
   * supreme --- [[books:cc:adi:8:12|Ādi 8.12]]

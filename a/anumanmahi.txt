@@ -1,11 +1,5 @@
----json
-{
-    "name":"anumanmahi",
-    "h1":"anumanmahi",
-    "title":"anumanmahi --- synonyms, prabhupada.io",
-    "description":"we accept."
-}
----
+~~Title:anumanmahi~~
+{{description>we accept.}}
 
 ==== anumanmahi  ====
   * we accept --- [[books:sb:3:16:25|SB 3.16.25]]

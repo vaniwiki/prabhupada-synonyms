@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevitāni",
-    "h1":"sevitāni",
-    "title":"sevitāni --- synonyms, prabhupada.io",
-    "description":"served by you."
-}
----
+~~Title:sevitāni~~
+{{description>served by you.}}
 
 ==== sevitāni  ====
   * served by you --- [[books:sb:1:13:9|SB 1.13.9]]

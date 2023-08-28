@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedah",
-    "h1":"vedah",
-    "title":"vedah --- synonyms, prabhupada.io",
-    "description":"book of transcendental knowledge; the Vedas, books of knowledge; the Vedas; the original source of knowledge."
-}
----
+~~Title:vedah~~
+{{description>book of transcendental knowledge; the Vedas, books of knowledge; the Vedas; the original source of knowledge.}}
 
 ==== vedaḥ  ====
   * book of transcendental knowledge --- [[books:sb:9:14:48|SB 9.14.48]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravavre",
-    "h1":"pravavre",
-    "title":"pravavre --- synonyms, prabhupada.io",
-    "description":"accepted."
-}
----
+~~Title:pravavre~~
+{{description>accepted.}}
 
 ==== pravavre  ====
   * accepted --- [[books:sb:4:20:26|SB 4.20.26]]

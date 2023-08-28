@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyamyate",
-    "h1":"niyamyate",
-    "title":"niyamyate --- synonyms, prabhupada.io",
-    "description":"it is regulated."
-}
----
+~~Title:niyamyate~~
+{{description>it is regulated.}}
 
 ==== niyamyate  ====
   * it is regulated --- [[books:sb:4:26:6|SB 4.26.6]]

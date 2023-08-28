@@ -1,11 +1,5 @@
----json
-{
-    "name":"upadhana",
-    "h1":"upadhana",
-    "title":"upadhana --- synonyms, prabhupada.io",
-    "description":"pillow."
-}
----
+~~Title:upadhana~~
+{{description>pillow.}}
 
 ==== upādhāna  ====
   * pillow --- [[books:cc:adi:5:123|Ādi 5.123]]

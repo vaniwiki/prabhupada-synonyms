@@ -1,11 +1,5 @@
----json
-{
-    "name":"payasa",
-    "h1":"payasa",
-    "title":"payasa --- synonyms, prabhupada.io",
-    "description":"by oblation; with milk."
-}
----
+~~Title:payasa~~
+{{description>by oblation; with milk.}}
 
 ==== payasā  ====
   * by oblation --- [[books:sb:3:14:9|SB 3.14.9]]

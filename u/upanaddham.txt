@@ -1,11 +1,5 @@
----json
-{
-    "name":"upanaddham",
-    "h1":"upanaddham",
-    "title":"upanaddham --- synonyms, prabhupada.io",
-    "description":"covered with gold."
-}
----
+~~Title:upanaddham~~
+{{description>covered with gold.}}
 
 ==== puraṭa-upanaddham  ====
   * covered with gold --- [[books:sb:8:15:6|SB 8.15.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"basta",
-    "h1":"basta",
-    "title":"basta --- synonyms, prabhupada.io",
-    "description":"the business of the goat."
-}
----
+~~Title:basta~~
+{{description>the business of the goat.}}
 
 ==== basta-karma  ====
   * the business of the goat --- [[books:sb:9:19:7|SB 9.19.7]]

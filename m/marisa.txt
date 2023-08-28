@@ -1,11 +1,5 @@
----json
-{
-    "name":"marisa",
-    "h1":"marisa",
-    "title":"marisa --- synonyms, prabhupada.io",
-    "description":"O best of kings, Mahārāja Parīkṣit; O great King; O great Āryan king."
-}
----
+~~Title:marisa~~
+{{description>O best of kings, Mahārāja Parīkṣit; O great King; O great Āryan king.}}
 
 ==== māriṣa  ====
   * O best of kings, Mahārāja Parīkṣit --- [[books:sb:6:12:24|SB 6.12.24]]

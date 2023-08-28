@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatyah",
-    "h1":"vatyah",
-    "title":"vatyah --- synonyms, prabhupada.io",
-    "description":"powerful, beautiful."
-}
----
+~~Title:vatyah~~
+{{description>powerful, beautiful.}}
 
 ==== jyotsnā-vatyaḥ  ====
   * powerful, beautiful --- [[books:sb:4:21:27|SB 4.21.27]]

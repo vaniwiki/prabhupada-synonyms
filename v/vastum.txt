@@ -1,11 +1,5 @@
----json
-{
-    "name":"vastum",
-    "h1":"vastum",
-    "title":"vastum --- synonyms, prabhupada.io",
-    "description":"to live."
-}
----
+~~Title:vastum~~
+{{description>to live.}}
 
 ==== vastum  ====
   * to live --- [[books:sb:8:24:18|SB 8.24.18]], [[books:sb:8:24:20|SB 8.24.20]]

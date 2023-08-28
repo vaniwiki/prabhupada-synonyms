@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidhire",
-    "h1":"vidhire",
-    "title":"vidhire --- synonyms, prabhupada.io",
-    "description":"unto Providence."
-}
----
+~~Title:vidhire~~
+{{description>unto Providence.}}
 
 ==== vidhire  ====
   * unto Providence --- [[books:cc:antya:19:44|Antya 19.44]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"paricchede",
-    "h1":"paricchede",
-    "title":"paricchede --- synonyms, prabhupada.io",
-    "description":"in the chapter."
-}
----
+~~Title:paricchede~~
+{{description>in the chapter.}}
 
 ==== paricchede  ====
   * in the chapter --- [[books:cc:adi:17:327|Ādi 17.327]]

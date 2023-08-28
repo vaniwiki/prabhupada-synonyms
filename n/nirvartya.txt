@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirvartya",
-    "h1":"nirvartya",
-    "title":"nirvartya --- synonyms, prabhupada.io",
-    "description":"after finishing."
-}
----
+~~Title:nirvartya~~
+{{description>after finishing.}}
 
 ==== nirvartya  ====
   * after finishing --- [[books:sb:9:13:2|SB 9.13.2]], [[books:sb:9:13:4|SB 9.13.4]]

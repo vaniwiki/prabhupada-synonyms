@@ -1,11 +1,5 @@
----json
-{
-    "name":"nivasti",
-    "h1":"nivasti",
-    "title":"nivasti --- synonyms, prabhupada.io",
-    "description":"resides."
-}
----
+~~Title:nivasti~~
+{{description>resides.}}
 
 ==== nivasti  ====
   * resides --- [[books:cc:madhya:8:163|Madhya 8.163]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"syama",
-    "h1":"syama",
-    "title":"syama --- synonyms, prabhupada.io",
-    "description":"become; shall exist."
-}
----
+~~Title:syama~~
+{{description>become; shall exist.}}
 
 ==== syāma  ====
   * become --- [[books:bg:1:36|Bg. 1.36]]

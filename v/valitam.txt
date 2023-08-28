@@ -1,11 +1,5 @@
----json
-{
-    "name":"valitam",
-    "h1":"valitam",
-    "title":"valitam --- synonyms, prabhupada.io",
-    "description":"who is adorned with."
-}
----
+~~Title:valitam~~
+{{description>who is adorned with.}}
 
 ==== su-valitam  ====
   * who is adorned with --- [[books:cc:adi:1:5|Ādi 1.5]]

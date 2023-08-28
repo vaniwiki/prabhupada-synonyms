@@ -1,11 +1,5 @@
----json
-{
-    "name":"gajendrasya",
-    "h1":"gajendrasya",
-    "title":"gajendrasya --- synonyms, prabhupada.io",
-    "description":"infuriated elephant."
-}
----
+~~Title:gajendrasya~~
+{{description>infuriated elephant.}}
 
 ==== matam-gajendrasya  ====
   * infuriated elephant --- [[books:sb:3:13:40|SB 3.13.40]]

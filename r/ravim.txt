@@ -1,11 +1,5 @@
----json
-{
-    "name":"ravim",
-    "h1":"ravim",
-    "title":"ravim --- synonyms, prabhupada.io",
-    "description":"the sun; the sun-god."
-}
----
+~~Title:ravim~~
+{{description>the sun; the sun-god.}}
 
 ==== ravim  ====
   * the sun --- [[books:sb:1:11:9|SB 1.11.9]], [[books:sb:7:3:15-16|SB 7.3.15-16]], [[books:sb:8:18:21|SB 8.18.21]]

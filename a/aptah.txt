@@ -1,11 +1,5 @@
----json
-{
-    "name":"aptah",
-    "h1":"aptah",
-    "title":"aptah --- synonyms, prabhupada.io",
-    "description":"obtained."
-}
----
+~~Title:aptah~~
+{{description>obtained.}}
 
 ==== āptaḥ  ====
   * obtained --- [[books:sb:1:5:17|SB 1.5.17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhimanyu",
-    "h1":"abhimanyu",
-    "title":"abhimanyu --- synonyms, prabhupada.io",
-    "description":"son of Abhimanyu."
-}
----
+~~Title:abhimanyu~~
+{{description>son of Abhimanyu.}}
 
 ==== abhimanyu-sutaḥ  ====
   * son of Abhimanyu --- [[books:sb:1:17:45|SB 1.17.45]]

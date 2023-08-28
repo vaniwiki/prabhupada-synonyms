@@ -1,11 +1,5 @@
----json
-{
-    "name":"samavagata",
-    "h1":"samavagata",
-    "title":"samavagata --- synonyms, prabhupada.io",
-    "description":"having completely understood."
-}
----
+~~Title:samavagata~~
+{{description>having completely understood.}}
 
 ==== samavagata  ====
   * having completely understood --- [[books:sb:5:13:25|SB 5.13.25]]

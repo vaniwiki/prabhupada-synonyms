@@ -1,11 +1,5 @@
----json
-{
-    "name":"yudhya",
-    "h1":"yudhya",
-    "title":"yudhya --- synonyms, prabhupada.io",
-    "description":"fight."
-}
----
+~~Title:yudhya~~
+{{description>fight.}}
 
 ==== yudhya  ====
   * fight --- [[books:bg:8:7|Bg. 8.7]]

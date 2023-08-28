@@ -1,11 +1,5 @@
----json
-{
-    "name":"antarikse",
-    "h1":"antarikse",
-    "title":"antarikse --- synonyms, prabhupada.io",
-    "description":"in outer space."
-}
----
+~~Title:antarikse~~
+{{description>in outer space.}}
 
 ==== antarikṣe  ====
   * in outer space --- [[books:sb:3:17:3|SB 3.17.3]]

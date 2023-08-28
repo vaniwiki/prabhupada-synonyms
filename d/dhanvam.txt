@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhanvam",
-    "h1":"dhanvam",
-    "title":"dhanvam --- synonyms, prabhupada.io",
-    "description":"Madhya Pradesh, where water is very scanty."
-}
----
+~~Title:dhanvam~~
+{{description>Madhya Pradesh, where water is very scanty.}}
 
 ==== dhanvam  ====
   * Madhya Pradesh, where water is very scanty --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

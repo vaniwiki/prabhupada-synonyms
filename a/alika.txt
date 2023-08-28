@@ -1,11 +1,5 @@
----json
-{
-    "name":"alīka",
-    "h1":"alīka",
-    "title":"alīka --- synonyms, prabhupada.io",
-    "description":"false; unnecessary."
-}
----
+~~Title:alīka~~
+{{description>false; unnecessary.}}
 
 ==== alīka  ====
   * false --- [[books:sb:9:14:38|SB 9.14.38]]

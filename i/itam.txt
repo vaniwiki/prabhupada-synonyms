@@ -1,11 +1,5 @@
----json
-{
-    "name":"itam",
-    "h1":"itam",
-    "title":"itam --- synonyms, prabhupada.io",
-    "description":"please come back."
-}
----
+~~Title:itam~~
+{{description>please come back.}}
 
 ==== itam  ====
   * please come back --- [[books:cc:madhya:8:146|Madhya 8.146]]

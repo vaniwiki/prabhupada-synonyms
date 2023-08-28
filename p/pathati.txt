@@ -1,11 +1,5 @@
----json
-{
-    "name":"paṭhati",
-    "h1":"paṭhati",
-    "title":"paṭhati --- synonyms, prabhupada.io",
-    "description":"one reads."
-}
----
+~~Title:paṭhati~~
+{{description>one reads.}}
 
 ==== paṭhati  ====
   * one reads --- [[books:sb:5:26:38|SB 5.26.38]]

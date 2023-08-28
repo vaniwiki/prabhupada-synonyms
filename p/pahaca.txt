@@ -1,11 +1,5 @@
----json
-{
-    "name":"pahaca",
-    "h1":"pahaca",
-    "title":"pahaca --- synonyms, prabhupada.io",
-    "description":"of the twenty-two steps."
-}
----
+~~Title:pahaca~~
+{{description>of the twenty-two steps.}}
 
 ==== bāiśa 'pāhāca'  ====
   * of the twenty-two steps --- [[books:cc:antya:16:41|Antya 16.41]]

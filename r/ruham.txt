@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruham",
-    "h1":"ruham",
-    "title":"ruham --- synonyms, prabhupada.io",
-    "description":"like a lotus flower."
-}
----
+~~Title:ruham~~
+{{description>like a lotus flower.}}
 
 ==== ambhaḥ-ruhām  ====
   * like a lotus flower --- [[books:cc:adi:4:260|Ādi 4.260]]

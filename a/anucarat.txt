@@ -1,11 +1,5 @@
----json
-{
-    "name":"anucarat",
-    "h1":"anucarat",
-    "title":"anucarat --- synonyms, prabhupada.io",
-    "description":"traveled around."
-}
----
+~~Title:anucarat~~
+{{description>traveled around.}}
 
 ==== anucarat  ====
   * traveled around --- [[books:sb:6:5:22|SB 6.5.22]]

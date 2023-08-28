@@ -1,11 +1,5 @@
----json
-{
-    "name":"kiba",
-    "h1":"kiba",
-    "title":"kiba --- synonyms, prabhupada.io",
-    "description":"what."
-}
----
+~~Title:kiba~~
+{{description>what.}}
 
 ==== kiba  ====
   * what --- [[books:cc:adi:16:47|Ādi 16.47]]

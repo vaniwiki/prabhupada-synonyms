@@ -1,11 +1,5 @@
----json
-{
-    "name":"gitam",
-    "h1":"gitam",
-    "title":"gitam --- synonyms, prabhupada.io",
-    "description":"explanation; instructed; narrated; prayers offered; sung; what has been spoken."
-}
----
+~~Title:gitam~~
+{{description>explanation; instructed; narrated; prayers offered; sung; what has been spoken.}}
 
 ==== gītam  ====
   * explanation --- [[books:sb:3:17:1|SB 3.17.1]]

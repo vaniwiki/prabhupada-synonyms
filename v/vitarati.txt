@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitarati",
-    "h1":"vitarati",
-    "title":"vitarati --- synonyms, prabhupada.io",
-    "description":"bestow; restores."
-}
----
+~~Title:vitarati~~
+{{description>bestow; restores.}}
 
 ==== vitarati  ====
   * bestow --- [[books:sb:4:14:15|SB 4.14.15]]

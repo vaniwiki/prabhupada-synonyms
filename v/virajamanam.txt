@@ -1,11 +1,5 @@
----json
-{
-    "name":"virājamānam",
-    "h1":"virājamānam",
-    "title":"virājamānam --- synonyms, prabhupada.io",
-    "description":"standing there."
-}
----
+~~Title:virājamānam~~
+{{description>standing there.}}
 
 ==== virājamānam  ====
   * standing there --- [[books:sb:8:22:13|SB 8.22.13]]

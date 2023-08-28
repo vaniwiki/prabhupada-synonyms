@@ -1,11 +1,5 @@
----json
-{
-    "name":"acetane",
-    "h1":"acetane",
-    "title":"acetane --- synonyms, prabhupada.io",
-    "description":"unconscious."
-}
----
+~~Title:acetane~~
+{{description>unconscious.}}
 
 ==== acetane  ====
   * unconscious --- [[books:cc:antya:19:88|Antya 19.88]]

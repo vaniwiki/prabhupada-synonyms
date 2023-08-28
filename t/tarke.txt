@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarke",
-    "h1":"tarke",
-    "title":"tarke --- synonyms, prabhupada.io",
-    "description":"by argument; by arguments; with logic."
-}
----
+~~Title:tarke~~
+{{description>by argument; by arguments; with logic.}}
 
 ==== tarke  ====
   * by argument --- [[books:cc:madhya:8:309|Madhya 8.309]], [[books:cc:antya:2:171|Antya 2.171]]

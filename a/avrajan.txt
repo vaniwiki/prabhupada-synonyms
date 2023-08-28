@@ -1,11 +1,5 @@
----json
-{
-    "name":"avrajan",
-    "h1":"avrajan",
-    "title":"avrajan --- synonyms, prabhupada.io",
-    "description":"have reached."
-}
----
+~~Title:avrajan~~
+{{description>have reached.}}
 
 ==== avrajan  ====
   * have reached --- [[books:sb:4:12:36|SB 4.12.36]]

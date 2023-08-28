@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhāira",
-    "h1":"bhāira",
-    "title":"bhāira --- synonyms, prabhupada.io",
-    "description":"brothers."
-}
----
+~~Title:bhāira~~
+{{description>brothers.}}
 
 ==== bhāira  ====
   * brothers --- [[books:cc:adi:10:9|Ādi 10.9]]

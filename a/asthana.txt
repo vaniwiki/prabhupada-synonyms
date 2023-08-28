@@ -1,11 +1,5 @@
----json
-{
-    "name":"asthana",
-    "h1":"asthana",
-    "title":"asthana --- synonyms, prabhupada.io",
-    "description":"unfavorable place."
-}
----
+~~Title:asthana~~
+{{description>unfavorable place.}}
 
 ==== asthāna  ====
   * unfavorable place --- [[books:cc:adi:7:23|Ādi 7.23]]

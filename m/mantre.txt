@@ -1,11 +1,5 @@
----json
-{
-    "name":"mantre",
-    "h1":"mantre",
-    "title":"mantre --- synonyms, prabhupada.io",
-    "description":"by the hymn composed of eighteen letters."
-}
----
+~~Title:mantre~~
+{{description>by the hymn composed of eighteen letters.}}
 
 ==== aṣṭādaśa-akṣara-mantre  ====
   * by the hymn composed of eighteen letters --- [[books:cc:adi:5:221|Ādi 5.221]]

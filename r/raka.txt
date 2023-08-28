@@ -1,11 +1,5 @@
----json
-{
-    "name":"raka",
-    "h1":"raka",
-    "title":"raka --- synonyms, prabhupada.io",
-    "description":"the full moon at the end of the śukla-pakṣa."
-}
----
+~~Title:raka~~
+{{description>the full moon at the end of the śukla-pakṣa.}}
 
 ==== rāka  ====
   * the full moon at the end of the //śukla-pakṣa// --- [[books:sb:7:15:54|SB 7.15.54]]

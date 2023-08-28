@@ -1,11 +1,5 @@
----json
-{
-    "name":"surabhim",
-    "h1":"surabhim",
-    "title":"surabhim --- synonyms, prabhupada.io",
-    "description":"aromatic."
-}
----
+~~Title:surabhim~~
+{{description>aromatic.}}
 
 ==== surabhim  ====
   * aromatic --- [[books:sb:5:5:33|SB 5.5.33]]

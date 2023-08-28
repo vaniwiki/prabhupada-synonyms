@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhajanya",
-    "h1":"bhajanya",
-    "title":"bhajanya --- synonyms, prabhupada.io",
-    "description":"O worshipable Lord."
-}
----
+~~Title:bhajanya~~
+{{description>O worshipable Lord.}}
 
 ==== bhajanya  ====
   * O worshipable Lord --- [[books:sb:5:17:18|SB 5.17.18]]

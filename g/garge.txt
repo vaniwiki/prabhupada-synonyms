@@ -1,11 +1,5 @@
----json
-{
-    "name":"garge",
-    "h1":"garge",
-    "title":"garge --- synonyms, prabhupada.io",
-    "description":"when Gargamuni."
-}
----
+~~Title:garge~~
+{{description>when Gargamuni.}}
 
 ==== garge  ====
   * when Gargamuni --- [[books:sb:10:8:20|SB 10.8.20]]

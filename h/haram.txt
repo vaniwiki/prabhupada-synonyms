@@ -1,11 +1,5 @@
----json
-{
-    "name":"haram",
-    "h1":"haram",
-    "title":"haram --- synonyms, prabhupada.io",
-    "description":"Lord Śiva; who dispels."
-}
----
+~~Title:haram~~
+{{description>Lord Śiva; who dispels.}}
 
 ==== haram  ====
   * Lord Śiva --- [[books:sb:6:17:12|SB 6.17.12]]

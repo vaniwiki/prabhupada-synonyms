@@ -1,11 +1,5 @@
----json
-{
-    "name":"samiddha",
-    "h1":"samiddha",
-    "title":"samiddha --- synonyms, prabhupada.io",
-    "description":"as luminous as blazing fire."
-}
----
+~~Title:samiddha~~
+{{description>as luminous as blazing fire.}}
 
 ==== su-samiddha-tejāḥ  ====
   * as luminous as blazing fire --- [[books:sb:4:7:41|SB 4.7.41]]

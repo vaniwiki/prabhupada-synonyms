@@ -1,11 +1,5 @@
----json
-{
-    "name":"phalila",
-    "h1":"phalila",
-    "title":"phalila --- synonyms, prabhupada.io",
-    "description":"fructified."
-}
----
+~~Title:phalila~~
+{{description>fructified.}}
 
 ==== phalila  ====
   * fructified --- [[books:cc:antya:3:144|Antya 3.144]]

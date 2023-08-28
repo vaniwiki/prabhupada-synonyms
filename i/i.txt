@@ -1,11 +1,5 @@
----json
-{
-    "name":"i",
-    "h1":"i",
-    "title":"i --- synonyms, prabhupada.io",
-    "description":"except me."
-}
----
+~~Title:i~~
+{{description>except me.}}
 
 ==== āmā ba-i  ====
   * except me --- [[books:cc:madhya:21:65|Madhya 21.65]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gītikā",
-    "h1":"gītikā",
-    "title":"gītikā --- synonyms, prabhupada.io",
-    "description":"celestial songs."
-}
----
+~~Title:gītikā~~
+{{description>celestial songs.}}
 
 ==== gītikā  ====
   * celestial songs --- [[books:sb:10:12:35|SB 10.12.35]]

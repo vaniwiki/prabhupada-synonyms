@@ -1,11 +1,5 @@
----json
-{
-    "name":"rajatera",
-    "h1":"rajatera",
-    "title":"rajatera --- synonyms, prabhupada.io",
-    "description":"made of gold."
-}
----
+~~Title:rajatera~~
+{{description>made of gold.}}
 
 ==== rajatera  ====
   * made of gold --- [[books:cc:adi:13:112|Ādi 13.112]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedete",
-    "h1":"vedete",
-    "title":"vedete --- synonyms, prabhupada.io",
-    "description":"in Your Vedic literature."
-}
----
+~~Title:vedete~~
+{{description>in Your Vedic literature.}}
 
 ==== tomāra vedete  ====
   * in Your Vedic literature --- [[books:cc:adi:17:158|Ādi 17.158]]

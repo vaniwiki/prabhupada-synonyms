@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuvrajat",
-    "h1":"anuvrajat",
-    "title":"anuvrajat --- synonyms, prabhupada.io",
-    "description":"began to follow."
-}
----
+~~Title:anuvrajat~~
+{{description>began to follow.}}
 
 ==== anuvrajat  ====
   * began to follow --- [[books:sb:8:12:23|SB 8.12.23]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"darśaye",
-    "h1":"darśaye",
-    "title":"darśaye --- synonyms, prabhupada.io",
-    "description":"I shall show."
-}
----
+~~Title:darśaye~~
+{{description>I shall show.}}
 
 ==== darśaye  ====
   * I shall show --- [[books:sb:9:4:45|SB 9.4.45]]

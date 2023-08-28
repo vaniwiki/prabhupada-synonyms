@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhela",
-    "h1":"bhela",
-    "title":"bhela --- synonyms, prabhupada.io",
-    "description":"there was."
-}
----
+~~Title:bhela~~
+{{description>there was.}}
 
 ==== bhela  ====
   * there was --- [[books:cc:madhya:8:194|Madhya 8.194]]

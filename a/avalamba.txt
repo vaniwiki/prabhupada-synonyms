@@ -1,11 +1,5 @@
----json
-{
-    "name":"avalamba",
-    "h1":"avalamba",
-    "title":"avalamba --- synonyms, prabhupada.io",
-    "description":"support."
-}
----
+~~Title:avalamba~~
+{{description>support.}}
 
 ==== avalamba  ====
   * support --- [[books:cc:madhya:4:54|Madhya 4.54]]

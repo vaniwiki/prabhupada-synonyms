@@ -1,11 +1,5 @@
----json
-{
-    "name":"maji",
-    "h1":"maji",
-    "title":"maji --- synonyms, prabhupada.io",
-    "description":"the core."
-}
----
+~~Title:maji~~
+{{description>the core.}}
 
 ==== māji  ====
   * the core --- [[books:cc:antya:6:318|Antya 6.318]]

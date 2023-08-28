@@ -1,11 +1,5 @@
----json
-{
-    "name":"tesam",
-    "h1":"tesam",
-    "title":"tesam --- synonyms, prabhupada.io",
-    "description":"of them."
-}
----
+~~Title:tesam~~
+{{description>of them.}}
 
 ==== teśām  ====
   * of them --- [[books:bg:12:1|Bg. 12.1]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"itāma",
-    "h1":"itāma",
-    "title":"itāma --- synonyms, prabhupada.io",
-    "description":"I would have taken."
-}
----
+~~Title:itāma~~
+{{description>I would have taken.}}
 
 ==== la-itāma  ====
   * I would have taken --- [[books:cc:madhya:20:30|Madhya 20.30]]

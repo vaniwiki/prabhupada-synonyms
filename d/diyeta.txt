@@ -1,11 +1,5 @@
----json
-{
-    "name":"diyeta",
-    "h1":"diyeta",
-    "title":"diyeta --- synonyms, prabhupada.io",
-    "description":"was given."
-}
----
+~~Title:diyeta~~
+{{description>was given.}}
 
 ==== diyeta  ====
   * was given --- [[books:cc:adi:2:27|Ādi 2.27]]

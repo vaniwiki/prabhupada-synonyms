@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyata",
-    "h1":"niyata",
-    "title":"niyata --- synonyms, prabhupada.io",
-    "description":"controlled; permanent."
-}
----
+~~Title:niyata~~
+{{description>controlled; permanent.}}
 
 ==== niyata  ====
   * controlled --- [[books:bg:4:29|Bg. 4.29]]

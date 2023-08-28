@@ -1,11 +1,5 @@
----json
-{
-    "name":"aparikalita",
-    "h1":"aparikalita",
-    "title":"aparikalita --- synonyms, prabhupada.io",
-    "description":"not experienced."
-}
----
+~~Title:aparikalita~~
+{{description>not experienced.}}
 
 ==== aparikalita  ====
   * not experienced --- [[books:cc:adi:4:146|Ādi 4.146]], [[books:cc:madhya:20:182|Madhya 20.182]]

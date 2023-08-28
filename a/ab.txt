@@ -1,11 +1,5 @@
----json
-{
-    "name":"ab",
-    "h1":"ab",
-    "title":"ab --- synonyms, prabhupada.io",
-    "description":"now."
-}
----
+~~Title:ab~~
+{{description>now.}}
 
 ==== ab  ====
   * now --- [[books:cc:madhya:8:194|Madhya 8.194]]

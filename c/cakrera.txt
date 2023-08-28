@@ -1,11 +1,5 @@
----json
-{
-    "name":"cakrera",
-    "h1":"cakrera",
-    "title":"cakrera --- synonyms, prabhupada.io",
-    "description":"the circle of a firebrand."
-}
----
+~~Title:cakrera~~
+{{description>the circle of a firebrand.}}
 
 ==== alāta-cakrera  ====
   * the circle of a firebrand --- [[books:cc:madhya:15:25|Madhya 15.25]]

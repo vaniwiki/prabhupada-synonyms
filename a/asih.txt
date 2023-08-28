@@ -1,11 +1,5 @@
----json
-{
-    "name":"asih",
-    "h1":"asih",
-    "title":"asih --- synonyms, prabhupada.io",
-    "description":"the sword."
-}
----
+~~Title:asih~~
+{{description>the sword.}}
 
 ==== asiḥ  ====
   * the sword --- [[books:sb:8:20:31|SB 8.20.31]]

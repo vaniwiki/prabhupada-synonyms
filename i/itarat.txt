@@ -1,11 +1,5 @@
----json
-{
-    "name":"itarat",
-    "h1":"itarat",
-    "title":"itarat --- synonyms, prabhupada.io",
-    "description":"any other means."
-}
----
+~~Title:itarat~~
+{{description>any other means.}}
 
 ==== itarat  ====
   * any other means --- [[books:sb:9:8:28|SB 9.8.28]]

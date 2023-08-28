@@ -1,11 +1,5 @@
----json
-{
-    "name":"kapham",
-    "h1":"kapham",
-    "title":"kapham --- synonyms, prabhupada.io",
-    "description":"coughing much mucus."
-}
----
+~~Title:kapham~~
+{{description>coughing much mucus.}}
 
 ==== kapham  ====
   * coughing much mucus --- [[books:sb:1:13:22|SB 1.13.22]]

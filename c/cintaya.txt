@@ -1,11 +1,5 @@
----json
-{
-    "name":"cintaya",
-    "h1":"cintaya",
-    "title":"cintaya --- synonyms, prabhupada.io",
-    "description":"just consider; thinks."
-}
----
+~~Title:cintaya~~
+{{description>just consider; thinks.}}
 
 ==== cintaya  ====
   * just consider --- [[books:sb:8:16:15|SB 8.16.15]]

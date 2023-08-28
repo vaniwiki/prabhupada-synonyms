@@ -1,11 +1,5 @@
----json
-{
-    "name":"sankula",
-    "h1":"sankula",
-    "title":"sankula --- synonyms, prabhupada.io",
-    "description":"congested; filled."
-}
----
+~~Title:sankula~~
+{{description>congested; filled.}}
 
 ==== saṅkula  ====
   * congested --- [[books:sb:5:17:4|SB 5.17.4]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"taila",
-    "h1":"taila",
-    "title":"taila --- synonyms, prabhupada.io",
-    "description":"and oil; oil; the oil."
-}
----
+~~Title:taila~~
+{{description>and oil; oil; the oil.}}
 
 ==== taila  ====
   * and oil --- [[books:sb:10:5:7|SB 10.5.7]]

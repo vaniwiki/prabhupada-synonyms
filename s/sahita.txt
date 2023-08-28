@@ -1,11 +1,5 @@
----json
-{
-    "name":"sahita",
-    "h1":"sahita",
-    "title":"sahita --- synonyms, prabhupada.io",
-    "description":"along with; with."
-}
----
+~~Title:sahita~~
+{{description>along with; with.}}
 
 ==== sahita  ====
   * along with --- [[books:cc:adi:7:108|Ādi 7.108]], [[books:cc:adi:13:42|Ādi 13.42]]

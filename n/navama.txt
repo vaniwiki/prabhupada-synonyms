@@ -1,11 +1,5 @@
----json
-{
-    "name":"navama",
-    "h1":"navama",
-    "title":"navama --- synonyms, prabhupada.io",
-    "description":"ninth; the ninth."
-}
----
+~~Title:navama~~
+{{description>ninth; the ninth.}}
 
 ==== navama  ====
   * ninth --- [[books:cc:madhya:6:272|Madhya 6.272]]

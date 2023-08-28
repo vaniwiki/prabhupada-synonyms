@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaso",
-    "h1":"vaso",
-    "title":"vaso --- synonyms, prabhupada.io",
-    "description":"O Vasu."
-}
----
+~~Title:vaso~~
+{{description>O Vasu.}}
 
 ==== vaso  ====
   * O Vasu --- [[books:sb:3:4:11|SB 3.4.11]]

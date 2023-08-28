@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukaram",
-    "h1":"sukaram",
-    "title":"sukaram --- synonyms, prabhupada.io",
-    "description":"easy."
-}
----
+~~Title:sukaram~~
+{{description>easy.}}
 
 ==== sukaram  ====
   * easy --- [[books:cc:adi:14:1|Ādi 14.1]]

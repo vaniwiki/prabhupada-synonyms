@@ -1,11 +1,5 @@
----json
-{
-    "name":"aika",
-    "h1":"aika",
-    "title":"aika --- synonyms, prabhupada.io",
-    "description":"supremacy."
-}
----
+~~Title:aika~~
+{{description>supremacy.}}
 
 ==== aika-patyam  ====
   * supremacy --- [[books:sb:7:3:37-38|SB 7.3.37-38]]

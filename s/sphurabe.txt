@@ -1,11 +1,5 @@
----json
-{
-    "name":"sphurābe",
-    "h1":"sphurābe",
-    "title":"sphurābe --- synonyms, prabhupada.io",
-    "description":"will show."
-}
----
+~~Title:sphurābe~~
+{{description>will show.}}
 
 ==== sphurābe  ====
   * will show --- [[books:cc:madhya:16:241|Madhya 16.241]]

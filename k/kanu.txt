@@ -1,11 +1,5 @@
----json
-{
-    "name":"kānu",
-    "h1":"kānu",
-    "title":"kānu --- synonyms, prabhupada.io",
-    "description":"I can get Kṛṣṇa."
-}
----
+~~Title:kānu~~
+{{description>I can get Kṛṣṇa.}}
 
 ==== kānu pāṅ  ====
   * I can get Kṛṣṇa --- [[books:cc:madhya:3:125|Madhya 3.125]]

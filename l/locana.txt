@@ -1,11 +1,5 @@
----json
-{
-    "name":"locana",
-    "h1":"locana",
-    "title":"locana --- synonyms, prabhupada.io",
-    "description":"eyes; of eyes."
-}
----
+~~Title:locana~~
+{{description>eyes; of eyes.}}
 
 ==== locana  ====
   * eyes --- [[books:sb:1:11:31|SB 1.11.31]], [[books:sb:2:9:16|SB 2.9.16]]

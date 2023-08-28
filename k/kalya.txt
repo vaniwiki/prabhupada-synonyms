@@ -1,11 +1,5 @@
----json
-{
-    "name":"kalya",
-    "h1":"kalya",
-    "title":"kalya --- synonyms, prabhupada.io",
-    "description":"tomorrow."
-}
----
+~~Title:kalya~~
+{{description>tomorrow.}}
 
 ==== kalya  ====
   * tomorrow --- [[books:cc:madhya:14:107|Madhya 14.107]]

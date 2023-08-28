@@ -1,11 +1,5 @@
----json
-{
-    "name":"dustarka",
-    "h1":"dustarka",
-    "title":"dustarka --- synonyms, prabhupada.io",
-    "description":"of false arguments."
-}
----
+~~Title:dustarka~~
+{{description>of false arguments.}}
 
 ==== dustarka  ====
   * of false arguments --- [[books:sb:5:13:22|SB 5.13.22]]

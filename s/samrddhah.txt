@@ -1,11 +1,5 @@
----json
-{
-    "name":"samṛddhaḥ",
-    "h1":"samṛddhaḥ",
-    "title":"samṛddhaḥ --- synonyms, prabhupada.io",
-    "description":"even though one is very rich."
-}
----
+~~Title:samṛddhaḥ~~
+{{description>even though one is very rich.}}
 
 ==== su-samṛddhaḥ api  ====
   * even though one is very rich --- [[books:sb:7:15:3|SB 7.15.3]]

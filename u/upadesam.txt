@@ -1,11 +1,5 @@
----json
-{
-    "name":"upadeśam",
-    "h1":"upadeśam",
-    "title":"upadeśam --- synonyms, prabhupada.io",
-    "description":"instruction; instruction in scripture."
-}
----
+~~Title:upadeśam~~
+{{description>instruction; instruction in scripture.}}
 
 ==== upadeśam  ====
   * instruction --- [[books:sb:4:16:3|SB 4.16.3]]

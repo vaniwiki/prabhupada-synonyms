@@ -1,11 +1,5 @@
----json
-{
-    "name":"gamam",
-    "h1":"gamam",
-    "title":"gamam --- synonyms, prabhupada.io",
-    "description":"very attractive."
-}
----
+~~Title:gamam~~
+{{description>very attractive.}}
 
 ==== hṛdayam-gamam  ====
   * very attractive --- [[books:sb:4:8:57|SB 4.8.57]]

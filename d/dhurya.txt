@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhurya",
-    "h1":"dhurya",
-    "title":"dhurya --- synonyms, prabhupada.io",
-    "description":"the supermost."
-}
----
+~~Title:dhurya~~
+{{description>the supermost.}}
 
 ==== dhurya  ====
   * the supermost --- [[books:cc:madhya:8:94|Madhya 8.94]]

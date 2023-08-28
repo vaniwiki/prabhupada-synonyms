@@ -1,11 +1,5 @@
----json
-{
-    "name":"kūpa",
-    "h1":"kūpa",
-    "title":"kūpa --- synonyms, prabhupada.io",
-    "description":"digging wells; in a pool."
-}
----
+~~Title:kūpa~~
+{{description>digging wells; in a pool.}}
 
 ==== kūpa  ====
   * digging wells --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

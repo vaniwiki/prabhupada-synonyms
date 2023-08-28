@@ -1,11 +1,5 @@
----json
-{
-    "name":"pṛcchatha",
-    "h1":"pṛcchatha",
-    "title":"pṛcchatha --- synonyms, prabhupada.io",
-    "description":"you are asking."
-}
----
+~~Title:pṛcchatha~~
+{{description>you are asking.}}
 
 ==== pṛcchatha  ====
   * you are asking --- [[books:sb:2:4:3-4|SB 2.4.3-4]]

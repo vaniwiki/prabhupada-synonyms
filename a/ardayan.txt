@@ -1,11 +1,5 @@
----json
-{
-    "name":"ardayan",
-    "h1":"ardayan",
-    "title":"ardayan --- synonyms, prabhupada.io",
-    "description":"chastising."
-}
----
+~~Title:ardayan~~
+{{description>chastising.}}
 
 ==== ardayan  ====
   * chastising --- [[books:sb:7:8:14|SB 7.8.14]]

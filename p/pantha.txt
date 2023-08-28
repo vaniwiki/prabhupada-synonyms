@@ -1,11 +1,5 @@
----json
-{
-    "name":"pantha",
-    "h1":"pantha",
-    "title":"pantha --- synonyms, prabhupada.io",
-    "description":"way."
-}
----
+~~Title:pantha~~
+{{description>way.}}
 
 ==== panthā  ====
   * //way// --- [[books:cc:madhya:8:58|Madhya 8.58]]

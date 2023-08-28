@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedera",
-    "h1":"vedera",
-    "title":"vedera --- synonyms, prabhupada.io",
-    "description":"Vedas; of the Vedas; of the Vedic literature."
-}
----
+~~Title:vedera~~
+{{description>Vedas; of the Vedas; of the Vedic literature.}}
 
 ==== vedera  ====
   * //Vedas// --- [[books:cc:adi:7:139|Ādi 7.139]]

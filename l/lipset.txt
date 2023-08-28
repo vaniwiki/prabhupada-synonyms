@@ -1,11 +1,5 @@
----json
-{
-    "name":"lipset",
-    "h1":"lipset",
-    "title":"lipset --- synonyms, prabhupada.io",
-    "description":"one should feel."
-}
----
+~~Title:lipset~~
+{{description>one should feel.}}
 
 ==== lipset  ====
   * one should feel --- [[books:sb:4:8:34|SB 4.8.34]]

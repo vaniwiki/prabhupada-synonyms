@@ -1,11 +1,5 @@
----json
-{
-    "name":"lola",
-    "h1":"lola",
-    "title":"lola --- synonyms, prabhupada.io",
-    "description":"flickering; restless."
-}
----
+~~Title:lola~~
+{{description>flickering; restless.}}
 
 ==== lola  ====
   * flickering --- [[books:sb:4:23:27|SB 4.23.27]]

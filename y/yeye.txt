@@ -1,11 +1,5 @@
----json
-{
-    "name":"yeye",
-    "h1":"yeye",
-    "title":"yeye --- synonyms, prabhupada.io",
-    "description":"all those; whatever."
-}
----
+~~Title:yeye~~
+{{description>all those; whatever.}}
 
 ==== yeye  ====
   * all those --- [[books:cc:adi:10:123|Ādi 10.123]]

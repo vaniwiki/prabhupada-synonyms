@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasāt",
-    "h1":"rasāt",
-    "title":"rasāt --- synonyms, prabhupada.io",
-    "description":"the taste."
-}
----
+~~Title:rasāt~~
+{{description>the taste.}}
 
 ==== rasāt  ====
   * the taste --- [[books:sb:6:3:28|SB 6.3.28]]

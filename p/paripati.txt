@@ -1,11 +1,5 @@
----json
-{
-    "name":"paripati",
-    "h1":"paripati",
-    "title":"paripati --- synonyms, prabhupada.io",
-    "description":"He protects; maintains; now is protecting it."
-}
----
+~~Title:paripati~~
+{{description>He protects; maintains; now is protecting it.}}
 
 ==== paripāti  ====
   * He protects --- [[books:sb:8:2:33|SB 8.2.33]]

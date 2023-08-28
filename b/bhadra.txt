@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhadra",
-    "h1":"bhadra",
-    "title":"bhadra --- synonyms, prabhupada.io",
-    "description":"My good boy; O gentle one; O sober one; O Vidura; you are so gentle."
-}
----
+~~Title:bhadra~~
+{{description>My good boy; O gentle one; O sober one; O Vidura; you are so gentle.}}
 
 ==== bhadra  ====
   * My good boy --- [[books:sb:4:9:20-21|SB 4.9.20-21]]

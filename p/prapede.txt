@@ -1,11 +1,5 @@
----json
-{
-    "name":"prapede",
-    "h1":"prapede",
-    "title":"prapede --- synonyms, prabhupada.io",
-    "description":"achieved; happily felt; surrendered; took shelter."
-}
----
+~~Title:prapede~~
+{{description>achieved; happily felt; surrendered; took shelter.}}
 
 ==== prapede  ====
   * achieved --- [[books:sb:2:7:3|SB 2.7.3]]

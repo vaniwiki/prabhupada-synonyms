@@ -1,11 +1,5 @@
----json
-{
-    "name":"dasarha",
-    "h1":"dasarha",
-    "title":"dasarha --- synonyms, prabhupada.io",
-    "description":"Daśārha."
-}
----
+~~Title:dasarha~~
+{{description>Daśārha.}}
 
 ==== daśārha  ====
   * Daśārha --- [[books:sb:1:11:11|SB 1.11.11]], [[books:sb:1:14:25|SB 1.14.25]]

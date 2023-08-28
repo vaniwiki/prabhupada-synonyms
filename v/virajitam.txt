@@ -1,11 +1,5 @@
----json
-{
-    "name":"virājitam",
-    "h1":"virājitam",
-    "title":"virājitam --- synonyms, prabhupada.io",
-    "description":"embellished."
-}
----
+~~Title:virājitam~~
+{{description>embellished.}}
 
 ==== virājitam  ====
   * embellished --- [[books:sb:3:23:14-15|SB 3.23.14-15]]

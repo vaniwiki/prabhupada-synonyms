@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhujam",
-    "h1":"bhujam",
-    "title":"bhujam --- synonyms, prabhupada.io",
-    "description":"and my arm; arms; hand; the arm."
-}
----
+~~Title:bhujam~~
+{{description>and my arm; arms; hand; the arm.}}
 
 ==== bhujam  ====
   * and my arm --- [[books:sb:6:12:16|SB 6.12.16]]

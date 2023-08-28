@@ -1,11 +1,5 @@
----json
-{
-    "name":"jīvane",
-    "h1":"jīvane",
-    "title":"jīvane --- synonyms, prabhupada.io",
-    "description":"life."
-}
----
+~~Title:jīvane~~
+{{description>life.}}
 
 ==== jīvane  ====
   * life --- [[books:cc:madhya:11:23|Madhya 11.23]]

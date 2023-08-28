@@ -1,11 +1,5 @@
----json
-{
-    "name":"martye",
-    "h1":"martye",
-    "title":"martye --- synonyms, prabhupada.io",
-    "description":"in this material world."
-}
----
+~~Title:martye~~
+{{description>in this material world.}}
 
 ==== martye  ====
   * in this material world --- [[books:cc:antya:3:78-79|Antya 3.78-79]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"are",
-    "h1":"are",
-    "title":"are --- synonyms, prabhupada.io",
-    "description":"O fool; oh."
-}
----
+~~Title:are~~
+{{description>O fool; oh.}}
 
 ==== are  ====
   * O fool --- [[books:sb:5:10:7|SB 5.10.7]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pramodam",
-    "h1":"pramodam",
-    "title":"pramodam --- synonyms, prabhupada.io",
-    "description":"transcendental bliss."
-}
----
+~~Title:pramodam~~
+{{description>transcendental bliss.}}
 
 ==== pramodam  ====
   * transcendental bliss --- [[books:sb:10:8:23|SB 10.8.23]]

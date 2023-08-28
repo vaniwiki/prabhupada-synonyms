@@ -1,11 +1,5 @@
----json
-{
-    "name":"kartam",
-    "h1":"kartam",
-    "title":"kartam --- synonyms, prabhupada.io",
-    "description":"duties."
-}
----
+~~Title:kartam~~
+{{description>duties.}}
 
 ==== kartam  ====
   * duties --- [[books:cc:madhya:22:141|Madhya 22.141]]

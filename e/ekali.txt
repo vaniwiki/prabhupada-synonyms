@@ -1,11 +1,5 @@
----json
-{
-    "name":"ekali",
-    "h1":"ekali",
-    "title":"ekali --- synonyms, prabhupada.io",
-    "description":"only."
-}
----
+~~Title:ekali~~
+{{description>only.}}
 
 ==== ekali  ====
   * only --- [[books:cc:adi:4:139|Ādi 4.139]], [[books:cc:adi:4:241|Ādi 4.241]]

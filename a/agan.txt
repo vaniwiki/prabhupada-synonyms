@@ -1,11 +1,5 @@
----json
-{
-    "name":"agan",
-    "h1":"agan",
-    "title":"agan --- synonyms, prabhupada.io",
-    "description":"underwent."
-}
----
+~~Title:agan~~
+{{description>underwent.}}
 
 ==== agan  ====
   * underwent --- [[books:sb:1:9:40|SB 1.9.40]]

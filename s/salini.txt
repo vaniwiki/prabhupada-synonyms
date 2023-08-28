@@ -1,11 +1,5 @@
----json
-{
-    "name":"salini",
-    "h1":"salini",
-    "title":"salini --- synonyms, prabhupada.io",
-    "description":"O beautiful woman."
-}
----
+~~Title:salini~~
+{{description>O beautiful woman.}}
 
 ==== śālini  ====
   * O beautiful woman --- [[books:sb:3:20:36|SB 3.20.36]]

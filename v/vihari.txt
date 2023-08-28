@@ -1,11 +1,5 @@
----json
-{
-    "name":"vihari",
-    "h1":"vihari",
-    "title":"vihari --- synonyms, prabhupada.io",
-    "description":"enjoying."
-}
----
+~~Title:vihari~~
+{{description>enjoying.}}
 
 ==== vihari  ====
   * enjoying --- [[books:cc:adi:13:8|Ādi 13.8]]

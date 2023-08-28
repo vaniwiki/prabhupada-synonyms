@@ -1,11 +1,5 @@
----json
-{
-    "name":"kvāpi",
-    "h1":"kvāpi",
-    "title":"kvāpi --- synonyms, prabhupada.io",
-    "description":"any; sometimes; somewhere."
-}
----
+~~Title:kvāpi~~
+{{description>any; sometimes; somewhere.}}
 
 ==== kvāpi  ====
   * any --- [[books:sb:1:5:14|SB 1.5.14]]

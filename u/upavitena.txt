@@ -1,11 +1,5 @@
----json
-{
-    "name":"upavītena",
-    "h1":"upavītena",
-    "title":"upavītena --- synonyms, prabhupada.io",
-    "description":"with a sacred thread."
-}
----
+~~Title:upavītena~~
+{{description>with a sacred thread.}}
 
 ==== upavītena  ====
   * with a sacred thread --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

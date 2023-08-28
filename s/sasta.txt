@@ -1,11 +1,5 @@
----json
-{
-    "name":"sasta",
-    "h1":"sasta",
-    "title":"sasta --- synonyms, prabhupada.io",
-    "description":"the newly grown grass."
-}
----
+~~Title:sasta~~
+{{description>the newly grown grass.}}
 
 ==== śasta  ====
   * the newly grown grass --- [[books:sb:4:8:55|SB 4.8.55]]

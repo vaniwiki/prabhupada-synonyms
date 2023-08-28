@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyupta",
-    "h1":"vyupta",
-    "title":"vyupta --- synonyms, prabhupada.io",
-    "description":"having scattered."
-}
----
+~~Title:vyupta~~
+{{description>having scattered.}}
 
 ==== vyupta  ====
   * having scattered --- [[books:sb:4:5:10|SB 4.5.10]]

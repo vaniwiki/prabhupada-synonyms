@@ -1,11 +1,5 @@
----json
-{
-    "name":"nivase",
-    "h1":"nivase",
-    "title":"nivase --- synonyms, prabhupada.io",
-    "description":"can live."
-}
----
+~~Title:nivase~~
+{{description>can live.}}
 
 ==== nivase  ====
   * can live --- [[books:sb:8:24:18|SB 8.24.18]]

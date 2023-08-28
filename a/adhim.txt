@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhim",
-    "h1":"adhim",
-    "title":"adhim --- synonyms, prabhupada.io",
-    "description":"distresses of the mind."
-}
----
+~~Title:adhim~~
+{{description>distresses of the mind.}}
 
 ==== adhim  ====
   * distresses of the mind --- [[books:sb:4:25:42|SB 4.25.42]]

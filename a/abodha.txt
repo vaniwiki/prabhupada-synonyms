@@ -1,11 +1,5 @@
----json
-{
-    "name":"abodha",
-    "h1":"abodha",
-    "title":"abodha --- synonyms, prabhupada.io",
-    "description":"produced from ignorance."
-}
----
+~~Title:abodha~~
+{{description>produced from ignorance.}}
 
 ==== abodha-jātaḥ  ====
   * produced from ignorance --- [[books:sb:5:5:5|SB 5.5.5]]

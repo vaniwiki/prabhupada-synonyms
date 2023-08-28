@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicarat",
-    "h1":"vicarat",
-    "title":"vicarat --- synonyms, prabhupada.io",
-    "description":"wandering."
-}
----
+~~Title:vicarat~~
+{{description>wandering.}}
 
 ==== vicarat  ====
   * wandering --- [[books:sb:7:2:51|SB 7.2.51]]

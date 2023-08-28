@@ -1,11 +1,5 @@
----json
-{
-    "name":"ambudhi",
-    "h1":"ambudhi",
-    "title":"ambudhi --- synonyms, prabhupada.io",
-    "description":"the ocean."
-}
----
+~~Title:ambudhi~~
+{{description>the ocean.}}
 
 ==== ambudhi  ====
   * the ocean --- [[books:cc:antya:20:12|Antya 20.12]]

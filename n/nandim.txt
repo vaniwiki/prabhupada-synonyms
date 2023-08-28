@@ -1,11 +1,5 @@
----json
-{
-    "name":"nandim",
-    "h1":"nandim",
-    "title":"nandim --- synonyms, prabhupada.io",
-    "description":"joy."
-}
----
+~~Title:nandim~~
+{{description>joy.}}
 
 ==== nandim  ====
   * joy --- [[books:sb:3:24:25|SB 3.24.25]]

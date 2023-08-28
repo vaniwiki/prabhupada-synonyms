@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhītam",
-    "h1":"adhītam",
-    "title":"adhītam --- synonyms, prabhupada.io",
-    "description":"learning; studied; the knowledge obtained."
-}
----
+~~Title:adhītam~~
+{{description>learning; studied; the knowledge obtained.}}
 
 ==== adhītam  ====
   * learning --- [[books:sb:7:5:23-24|SB 7.5.23-24]]

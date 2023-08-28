@@ -1,11 +1,5 @@
----json
-{
-    "name":"bakam",
-    "h1":"bakam",
-    "title":"bakam --- synonyms, prabhupada.io",
-    "description":"Bakāsura."
-}
----
+~~Title:bakam~~
+{{description>Bakāsura.}}
 
 ==== bakam  ====
   * Bakāsura --- [[books:sb:10:11:51|SB 10.11.51]]

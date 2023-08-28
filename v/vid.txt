@@ -1,11 +1,5 @@
----json
-{
-    "name":"vid",
-    "h1":"vid",
-    "title":"vid --- synonyms, prabhupada.io",
-    "description":"by culture of knowledge."
-}
----
+~~Title:vid~~
+{{description>by culture of knowledge.}}
 
 ==== vid-yayā  ====
   * by culture of knowledge --- [[books:iso:10|Īśo 10]]

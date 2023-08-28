@@ -1,11 +1,5 @@
----json
-{
-    "name":"lapitam",
-    "h1":"lapitam",
-    "title":"lapitam --- synonyms, prabhupada.io",
-    "description":"talks like those of a crazy man."
-}
----
+~~Title:lapitam~~
+{{description>talks like those of a crazy man.}}
 
 ==== lapitam  ====
   * talks like those of a crazy man --- [[books:cc:antya:20:1|Antya 20.1]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anilau",
-    "h1":"anilau",
-    "title":"anilau --- synonyms, prabhupada.io",
-    "description":"the prāṇa and apāna airs."
-}
----
+~~Title:anilau~~
+{{description>the prāṇa and apāna airs.}}
 
 ==== anilau  ====
   * the //prāṇa// and //apāna// airs --- [[books:sb:4:4:25|SB 4.4.25]]

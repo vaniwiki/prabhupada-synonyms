@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravarau",
-    "h1":"pravarau",
-    "title":"pravarau --- synonyms, prabhupada.io",
-    "description":"two very beautiful demigods."
-}
----
+~~Title:pravarau~~
+{{description>two very beautiful demigods.}}
 
 ==== deva-pravarau  ====
   * two very beautiful demigods --- [[books:sb:4:12:20|SB 4.12.20]]

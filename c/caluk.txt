@@ -1,11 +1,5 @@
----json
-{
-    "name":"caluk",
-    "h1":"caluk",
-    "title":"caluk --- synonyms, prabhupada.io",
-    "description":"let go."
-}
----
+~~Title:caluk~~
+{{description>let go.}}
 
 ==== caluk  ====
   * let go --- [[books:cc:madhya:7:16|Madhya 7.16]]

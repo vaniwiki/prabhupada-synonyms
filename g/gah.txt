@@ -1,11 +1,5 @@
----json
-{
-    "name":"gah",
-    "h1":"gah",
-    "title":"gah --- synonyms, prabhupada.io",
-    "description":"bulls; cows; the cows."
-}
----
+~~Title:gah~~
+{{description>bulls; cows; the cows.}}
 
 ==== gāḥ  ====
   * bulls --- [[books:sb:6:3:13|SB 6.3.13]]

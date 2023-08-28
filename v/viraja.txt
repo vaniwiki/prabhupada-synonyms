@@ -1,11 +1,5 @@
----json
-{
-    "name":"viraja",
-    "h1":"viraja",
-    "title":"viraja --- synonyms, prabhupada.io",
-    "description":"unsullied."
-}
----
+~~Title:viraja~~
+{{description>unsullied.}}
 
 ==== viraja  ====
   * unsullied --- [[books:sb:3:23:30|SB 3.23.30]]

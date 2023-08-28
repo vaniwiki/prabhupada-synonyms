@@ -1,11 +1,5 @@
----json
-{
-    "name":"yogin",
-    "h1":"yogin",
-    "title":"yogin --- synonyms, prabhupada.io",
-    "description":"O supreme mystic."
-}
----
+~~Title:yogin~~
+{{description>O supreme mystic.}}
 
 ==== yogin  ====
   * O supreme mystic --- [[books:bg:10:17|Bg. 10.17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sutrāma",
-    "h1":"sutrāma",
-    "title":"sutrāma --- synonyms, prabhupada.io",
-    "description":"and the Sutrāmas."
-}
----
+~~Title:sutrāma~~
+{{description>and the Sutrāmas.}}
 
 ==== sutrāma-saṁjñāḥ  ====
   * and the Sutrāmas --- [[books:sb:8:13:31|SB 8.13.31]]

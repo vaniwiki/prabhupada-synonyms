@@ -1,11 +1,5 @@
----json
-{
-    "name":"vahite",
-    "h1":"vahite",
-    "title":"vahite --- synonyms, prabhupada.io",
-    "description":"to carry."
-}
----
+~~Title:vahite~~
+{{description>to carry.}}
 
 ==== vahite  ====
   * to carry --- [[books:cc:madhya:4:152|Madhya 4.152]]

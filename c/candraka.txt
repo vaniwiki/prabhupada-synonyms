@@ -1,11 +1,5 @@
----json
-{
-    "name":"candraka",
-    "h1":"candraka",
-    "title":"candraka --- synonyms, prabhupada.io",
-    "description":"Kṛṣṇa, whose head is decorated with a peacock feather."
-}
----
+~~Title:candraka~~
+{{description>Kṛṣṇa, whose head is decorated with a peacock feather.}}
 
 ==== śikhi-candraka-alaṅkṛtiḥ  ====
   * Kṛṣṇa, whose head is decorated with a peacock feather --- [[books:cc:antya:19:35|Antya 19.35]]

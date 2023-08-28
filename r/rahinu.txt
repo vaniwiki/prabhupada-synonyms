@@ -1,11 +1,5 @@
----json
-{
-    "name":"rahinu",
-    "h1":"rahinu",
-    "title":"rahinu --- synonyms, prabhupada.io",
-    "description":"I remained; remained."
-}
----
+~~Title:rahinu~~
+{{description>I remained; remained.}}
 
 ==== rahinu  ====
   * I remained --- [[books:cc:adi:17:146|Ādi 17.146]]

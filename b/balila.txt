@@ -1,11 +1,5 @@
----json
-{
-    "name":"balila",
-    "h1":"balila",
-    "title":"balila --- synonyms, prabhupada.io",
-    "description":"called; replied; said; uttered."
-}
----
+~~Title:balila~~
+{{description>called; replied; said; uttered.}}
 
 ==== balila  ====
   * called --- [[books:cc:madhya:12:162|Madhya 12.162]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bujha",
-    "h1":"bujha",
-    "title":"bujha --- synonyms, prabhupada.io",
-    "description":"understand."
-}
----
+~~Title:bujha~~
+{{description>understand.}}
 
 ==== bujha  ====
   * understand --- [[books:cc:madhya:6:125|Madhya 6.125]]

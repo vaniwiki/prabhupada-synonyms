@@ -1,11 +1,5 @@
----json
-{
-    "name":"anudita",
-    "h1":"anudita",
-    "title":"anudita --- synonyms, prabhupada.io",
-    "description":"almost not praised."
-}
----
+~~Title:anudita~~
+{{description>almost not praised.}}
 
 ==== anudita-prāyam  ====
   * almost not praised --- [[books:sb:1:5:8|SB 1.5.8]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimātum",
-    "h1":"vimātum",
-    "title":"vimātum --- synonyms, prabhupada.io",
-    "description":"to count."
-}
----
+~~Title:vimātum~~
+{{description>to count.}}
 
 ==== vimātum  ====
   * to count --- [[books:cc:madhya:21:11|Madhya 21.11]]

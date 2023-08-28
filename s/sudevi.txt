@@ -1,11 +1,5 @@
----json
-{
-    "name":"sudevi",
-    "h1":"sudevi",
-    "title":"sudevi --- synonyms, prabhupada.io",
-    "description":"Sudevī."
-}
----
+~~Title:sudevi~~
+{{description>Sudevī.}}
 
 ==== sudevi  ====
   * Sudevī --- [[books:sb:2:7:10|SB 2.7.10]]

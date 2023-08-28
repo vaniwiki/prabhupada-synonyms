@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhoke",
-    "h1":"bhoke",
-    "title":"bhoke --- synonyms, prabhupada.io",
-    "description":"hungry."
-}
----
+~~Title:bhoke~~
+{{description>hungry.}}
 
 ==== bhoke  ====
   * hungry --- [[books:cc:madhya:4:181|Madhya 4.181]]

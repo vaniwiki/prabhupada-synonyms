@@ -1,11 +1,5 @@
----json
-{
-    "name":"klpta",
-    "h1":"klpta",
-    "title":"klpta --- synonyms, prabhupada.io",
-    "description":"bedecked; dressed."
-}
----
+~~Title:klpta~~
+{{description>bedecked; dressed.}}
 
 ==== kḷpta  ====
   * bedecked --- [[books:sb:4:25:15|SB 4.25.15]]

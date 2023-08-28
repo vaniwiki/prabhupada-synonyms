@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahinu",
-    "h1":"kahinu",
-    "title":"kahinu --- synonyms, prabhupada.io",
-    "description":"shall speak."
-}
----
+~~Title:kahinu~~
+{{description>shall speak.}}
 
 ==== kahinu  ====
   * shall speak --- [[books:cc:madhya:25:106|Madhya 25.106]]

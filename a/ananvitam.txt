@@ -1,11 +1,5 @@
----json
-{
-    "name":"ananvitam",
-    "h1":"ananvitam",
-    "title":"ananvitam --- synonyms, prabhupada.io",
-    "description":"wonderful."
-}
----
+~~Title:ananvitam~~
+{{description>wonderful.}}
 
 ==== ananvitam  ====
   * wonderful --- [[books:sb:4:7:34|SB 4.7.34]]

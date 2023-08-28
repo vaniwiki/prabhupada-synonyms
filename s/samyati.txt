@@ -1,11 +1,5 @@
----json
-{
-    "name":"samyati",
-    "h1":"samyati",
-    "title":"samyati --- synonyms, prabhupada.io",
-    "description":"goes away; verily accepts."
-}
----
+~~Title:samyati~~
+{{description>goes away; verily accepts.}}
 
 ==== saṁyāti  ====
   * goes away --- [[books:bg:15:8|Bg. 15.8]]

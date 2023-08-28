@@ -1,11 +1,5 @@
----json
-{
-    "name":"rucirau",
-    "h1":"rucirau",
-    "title":"rucirau --- synonyms, prabhupada.io",
-    "description":"very beautiful."
-}
----
+~~Title:rucirau~~
+{{description>very beautiful.}}
 
 ==== rucirau  ====
   * very beautiful --- [[books:sb:5:2:8|SB 5.2.8]]

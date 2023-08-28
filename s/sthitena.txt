@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthitena",
-    "h1":"sthitena",
-    "title":"sthitena --- synonyms, prabhupada.io",
-    "description":"being situated."
-}
----
+~~Title:sthitena~~
+{{description>being situated.}}
 
 ==== sthitena  ====
   * being situated --- [[books:sb:7:10:35|SB 7.10.35]]

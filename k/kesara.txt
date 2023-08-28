@@ -1,11 +1,5 @@
----json
-{
-    "name":"kesara",
-    "h1":"kesara",
-    "title":"kesara --- synonyms, prabhupada.io",
-    "description":"pearls."
-}
----
+~~Title:kesara~~
+{{description>pearls.}}
 
 ==== kesara  ====
   * pearls --- [[books:sb:3:15:38|SB 3.15.38]]

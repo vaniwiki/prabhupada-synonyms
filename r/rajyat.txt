@@ -1,11 +1,5 @@
----json
-{
-    "name":"rajyat",
-    "h1":"rajyat",
-    "title":"rajyat --- synonyms, prabhupada.io",
-    "description":"being enlivened."
-}
----
+~~Title:rajyat~~
+{{description>being enlivened.}}
 
 ==== rajyat  ====
   * being enlivened --- [[books:cc:antya:3:62|Antya 3.62]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaha",
-    "h1":"vaha",
-    "title":"vaha --- synonyms, prabhupada.io",
-    "description":"the conveyor."
-}
----
+~~Title:vaha~~
+{{description>the conveyor.}}
 
 ==== vāha  ====
   * the conveyor --- [[books:sb:2:7:25|SB 2.7.25]]

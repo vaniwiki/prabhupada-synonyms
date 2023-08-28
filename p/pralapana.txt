@@ -1,11 +1,5 @@
----json
-{
-    "name":"pralapana",
-    "h1":"pralapana",
-    "title":"pralapana --- synonyms, prabhupada.io",
-    "description":"words of madness."
-}
----
+~~Title:pralapana~~
+{{description>words of madness.}}
 
 ==== pralāpana  ====
   * words of madness --- [[books:cc:antya:19:101|Antya 19.101]]

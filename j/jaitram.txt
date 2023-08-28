@@ -1,11 +1,5 @@
----json
-{
-    "name":"jaitram",
-    "h1":"jaitram",
-    "title":"jaitram --- synonyms, prabhupada.io",
-    "description":"victorious."
-}
----
+~~Title:jaitram~~
+{{description>victorious.}}
 
 ==== jaitram  ====
   * victorious --- [[books:sb:3:21:52-54|SB 3.21.52-54]], [[books:sb:4:10:4|SB 4.10.4]], [[books:sb:4:16:20|SB 4.16.20]]

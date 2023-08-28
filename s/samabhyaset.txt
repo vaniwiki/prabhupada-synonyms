@@ -1,11 +1,5 @@
----json
-{
-    "name":"samabhyaset",
-    "h1":"samabhyaset",
-    "title":"samabhyaset --- synonyms, prabhupada.io",
-    "description":"one should practice."
-}
----
+~~Title:samabhyaset~~
+{{description>one should practice.}}
 
 ==== samabhyaset  ====
   * one should practice --- [[books:sb:3:28:8|SB 3.28.8]]

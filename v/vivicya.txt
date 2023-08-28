@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivicya",
-    "h1":"vivicya",
-    "title":"vivicya --- synonyms, prabhupada.io",
-    "description":"considering carefully; distinguished."
-}
----
+~~Title:vivicya~~
+{{description>considering carefully; distinguished.}}
 
 ==== vivicya  ====
   * considering carefully --- [[books:sb:3:26:72|SB 3.26.72]]

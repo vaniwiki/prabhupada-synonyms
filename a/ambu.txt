@@ -1,11 +1,5 @@
----json
-{
-    "name":"ambu",
-    "h1":"ambu",
-    "title":"ambu --- synonyms, prabhupada.io",
-    "description":"like drops of water; water; with the water."
-}
----
+~~Title:ambu~~
+{{description>like drops of water; water; with the water.}}
 
 ==== ambu  ====
   * like drops of water --- [[books:sb:1:11:32|SB 1.11.32]]

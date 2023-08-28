@@ -1,11 +1,5 @@
----json
-{
-    "name":"upanamet",
-    "h1":"upanamet",
-    "title":"upanamet --- synonyms, prabhupada.io",
-    "description":"should worship."
-}
----
+~~Title:upanamet~~
+{{description>should worship.}}
 
 ==== upanamet  ====
   * should worship --- [[books:sb:6:19:17|SB 6.19.17]]

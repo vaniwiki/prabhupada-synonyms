@@ -1,11 +1,5 @@
----json
-{
-    "name":"grāmam",
-    "h1":"grāmam",
-    "title":"grāmam --- synonyms, prabhupada.io",
-    "description":"wanted to come back to the capital."
-}
----
+~~Title:grāmam~~
+{{description>wanted to come back to the capital.}}
 
 ==== grāmam eyāya  ====
   * wanted to come back to the capital --- [[books:sb:9:7:17|SB 9.7.17]]

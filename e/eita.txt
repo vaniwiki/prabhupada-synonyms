@@ -1,11 +1,5 @@
----json
-{
-    "name":"eita",
-    "h1":"eita",
-    "title":"eita --- synonyms, prabhupada.io",
-    "description":"this; thus."
-}
----
+~~Title:eita~~
+{{description>this; thus.}}
 
 ==== eita  ====
   * this --- [[books:cc:adi:17:30|Ādi 17.30]], [[books:cc:madhya:19:164|Madhya 19.164]], [[books:cc:antya:6:170|Antya 6.170]]

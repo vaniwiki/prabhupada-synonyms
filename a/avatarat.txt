@@ -1,11 +1,5 @@
----json
-{
-    "name":"avatarat",
-    "h1":"avatarat",
-    "title":"avatarat --- synonyms, prabhupada.io",
-    "description":"descending."
-}
----
+~~Title:avatarat~~
+{{description>descending.}}
 
 ==== avatarat  ====
   * descending --- [[books:sb:4:12:19|SB 4.12.19]]

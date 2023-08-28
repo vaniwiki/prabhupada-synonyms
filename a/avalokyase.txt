@@ -1,11 +1,5 @@
----json
-{
-    "name":"avalokyase",
-    "h1":"avalokyase",
-    "title":"avalokyase --- synonyms, prabhupada.io",
-    "description":"I shall see You."
-}
----
+~~Title:avalokyase~~
+{{description>I shall see You.}}
 
 ==== avalokyase  ====
   * I shall see You --- [[books:cc:madhya:4:197|Madhya 4.197]], [[books:cc:antya:8:34|Antya 8.34]]

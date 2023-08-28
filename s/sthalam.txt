@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthalam",
-    "h1":"sthalam",
-    "title":"sthalam --- synonyms, prabhupada.io",
-    "description":"land; place (the chest)."
-}
----
+~~Title:sthalam~~
+{{description>land; place (the chest).}}
 
 ==== sthalam  ====
   * land --- [[books:sb:5:26:28|SB 5.26.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"āvedyam",
-    "h1":"āvedyam",
-    "title":"āvedyam --- synonyms, prabhupada.io",
-    "description":"must be presented."
-}
----
+~~Title:āvedyam~~
+{{description>must be presented.}}
 
 ==== āvedyam  ====
   * must be presented --- [[books:sb:4:21:21|SB 4.21.21]]

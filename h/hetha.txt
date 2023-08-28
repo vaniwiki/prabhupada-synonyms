@@ -1,11 +1,5 @@
----json
-{
-    "name":"hethā",
-    "h1":"hethā",
-    "title":"hethā --- synonyms, prabhupada.io",
-    "description":"here."
-}
----
+~~Title:hethā~~
+{{description>here.}}
 
 ==== hethā  ====
   * here --- [[books:cc:adi:17:43|Ādi 17.43]], [[books:cc:antya:2:125|Antya 2.125]]

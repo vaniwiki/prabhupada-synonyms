@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhina",
-    "h1":"adhina",
-    "title":"adhina --- synonyms, prabhupada.io",
-    "description":"dependent; subordinate; subservient."
-}
----
+~~Title:adhina~~
+{{description>dependent; subordinate; subservient.}}
 
 ==== adhīna  ====
   * dependent --- [[books:cc:antya:19:10|Antya 19.10]]

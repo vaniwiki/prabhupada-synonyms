@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuhake",
-    "h1":"kuhake",
-    "title":"kuhake --- synonyms, prabhupada.io",
-    "description":"a magician; the enchanter."
-}
----
+~~Title:kuhake~~
+{{description>a magician; the enchanter.}}
 
 ==== kuhake  ====
   * a magician --- [[books:cc:antya:12:85|Antya 12.85]]

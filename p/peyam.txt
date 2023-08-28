@@ -1,11 +1,5 @@
----json
-{
-    "name":"peyam",
-    "h1":"peyam",
-    "title":"peyam --- synonyms, prabhupada.io",
-    "description":"drink."
-}
----
+~~Title:peyam~~
+{{description>drink.}}
 
 ==== peyam  ====
   * drink --- [[books:sb:8:18:32|SB 8.18.32]]

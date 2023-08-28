@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyatam",
-    "h1":"niyatam",
-    "title":"niyatam --- synonyms, prabhupada.io",
-    "description":"always; prescribed; regulated; regulative."
-}
----
+~~Title:niyatam~~
+{{description>always; prescribed; regulated; regulative.}}
 
 ==== niyatam  ====
   * always --- [[books:bg:1:43|Bg. 1.43]]

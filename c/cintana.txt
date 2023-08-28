@@ -1,11 +1,5 @@
----json
-{
-    "name":"cintana",
-    "h1":"cintana",
-    "title":"cintana --- synonyms, prabhupada.io",
-    "description":"consideration; contemplation; thinking; thinking of."
-}
----
+~~Title:cintana~~
+{{description>consideration; contemplation; thinking; thinking of.}}
 
 ==== cintana  ====
   * consideration --- [[books:cc:adi:15:25|Ādi 15.25]]

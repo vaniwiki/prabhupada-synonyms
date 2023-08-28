@@ -1,11 +1,5 @@
----json
-{
-    "name":"rahaye",
-    "h1":"rahaye",
-    "title":"rahaye --- synonyms, prabhupada.io",
-    "description":"stays; stops."
-}
----
+~~Title:rahaye~~
+{{description>stays; stops.}}
 
 ==== rahaye  ====
   * stays --- [[books:cc:madhya:10:110|Madhya 10.110]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"avidhi",
-    "h1":"avidhi",
-    "title":"avidhi --- synonyms, prabhupada.io",
-    "description":"in a wrong way; without following any rules and regulations."
-}
----
+~~Title:avidhi~~
+{{description>in a wrong way; without following any rules and regulations.}}
 
 ==== avidhi-pūrvakam  ====
   * in a wrong way --- [[books:bg:9:23|Bg. 9.23]]

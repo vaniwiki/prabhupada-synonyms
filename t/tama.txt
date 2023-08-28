@@ -1,11 +1,5 @@
----json
-{
-    "name":"tama",
-    "h1":"tama",
-    "title":"tama --- synonyms, prabhupada.io",
-    "description":"mode of ignorance; supreme."
-}
----
+~~Title:tama~~
+{{description>mode of ignorance; supreme.}}
 
 ==== tama  ====
   * mode of ignorance --- [[books:sb:1:5:28|SB 1.5.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"āgame",
-    "h1":"āgame",
-    "title":"āgame --- synonyms, prabhupada.io",
-    "description":"on arrival."
-}
----
+~~Title:āgame~~
+{{description>on arrival.}}
 
 ==== āgame  ====
   * on arrival --- [[books:bg:8:19|Bg. 8.19]]

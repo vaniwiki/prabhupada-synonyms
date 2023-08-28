@@ -1,11 +1,5 @@
----json
-{
-    "name":"sūpa",
-    "h1":"sūpa",
-    "title":"sūpa --- synonyms, prabhupada.io",
-    "description":"liquid; liquid vegetables; soup."
-}
----
+~~Title:sūpa~~
+{{description>liquid; liquid vegetables; soup.}}
 
 ==== sūpa  ====
   * liquid --- [[books:cc:madhya:4:69|Madhya 4.69]]

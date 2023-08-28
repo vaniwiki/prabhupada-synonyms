@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhinandet",
-    "h1":"abhinandet",
-    "title":"abhinandet --- synonyms, prabhupada.io",
-    "description":"one should praise."
-}
----
+~~Title:abhinandet~~
+{{description>one should praise.}}
 
 ==== abhinandet  ====
   * one should praise --- [[books:sb:7:13:6|SB 7.13.6]]

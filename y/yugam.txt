@@ -1,11 +1,5 @@
----json
-{
-    "name":"yugam",
-    "h1":"yugam",
-    "title":"yugam --- synonyms, prabhupada.io",
-    "description":"millennium."
-}
----
+~~Title:yugam~~
+{{description>millennium.}}
 
 ==== yugam  ====
   * millennium --- [[books:sb:3:11:20|SB 3.11.20]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nadim",
-    "h1":"nadim",
-    "title":"nadim --- synonyms, prabhupada.io",
-    "description":"a river; to the river."
-}
----
+~~Title:nadim~~
+{{description>a river; to the river.}}
 
 ==== nadīm  ====
   * a river --- [[books:sb:6:5:6-8|SB 6.5.6-8]], [[books:sb:9:16:18-19|SB 9.16.18-19]]

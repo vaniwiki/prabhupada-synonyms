@@ -1,11 +1,5 @@
----json
-{
-    "name":"niti",
-    "h1":"niti",
-    "title":"niti --- synonyms, prabhupada.io",
-    "description":"daily."
-}
----
+~~Title:niti~~
+{{description>daily.}}
 
 ==== niti  ====
   * daily --- [[books:cc:madhya:13:154|Madhya 13.154]]

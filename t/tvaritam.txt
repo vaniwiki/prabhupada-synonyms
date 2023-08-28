@@ -1,11 +1,5 @@
----json
-{
-    "name":"tvaritam",
-    "h1":"tvaritam",
-    "title":"tvaritam --- synonyms, prabhupada.io",
-    "description":"quickly; very quickly."
-}
----
+~~Title:tvaritam~~
+{{description>quickly; very quickly.}}
 
 ==== tvaritam  ====
   * quickly --- [[books:cc:antya:16:87|Antya 16.87]]

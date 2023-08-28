@@ -1,11 +1,5 @@
----json
-{
-    "name":"māsera",
-    "h1":"māsera",
-    "title":"māsera --- synonyms, prabhupada.io",
-    "description":"the days of four months."
-}
----
+~~Title:māsera~~
+{{description>the days of four months.}}
 
 ==== cāri māsera dina  ====
   * the days of four months --- [[books:cc:madhya:14:68|Madhya 14.68]]

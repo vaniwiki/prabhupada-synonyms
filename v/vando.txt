@@ -1,11 +1,5 @@
----json
-{
-    "name":"vando",
-    "h1":"vando",
-    "title":"vando --- synonyms, prabhupada.io",
-    "description":"I offer respectful obeisances."
-}
----
+~~Title:vando~~
+{{description>I offer respectful obeisances.}}
 
 ==== vando  ====
   * I offer respectful obeisances --- [[books:cc:adi:1:40|Ādi 1.40]]

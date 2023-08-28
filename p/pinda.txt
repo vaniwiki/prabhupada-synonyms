@@ -1,11 +1,5 @@
----json
-{
-    "name":"pinda",
-    "h1":"pinda",
-    "title":"pinda --- synonyms, prabhupada.io",
-    "description":"offerings."
-}
----
+~~Title:pinda~~
+{{description>offerings.}}
 
 ==== piṇḍa  ====
   * offerings --- [[books:bg:1:41|Bg. 1.41]]

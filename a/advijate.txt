@@ -1,11 +1,5 @@
----json
-{
-    "name":"advijate",
-    "h1":"advijate",
-    "title":"advijate --- synonyms, prabhupada.io",
-    "description":"disturbed."
-}
----
+~~Title:advijate~~
+{{description>disturbed.}}
 
 ==== advijate  ====
   * disturbed --- [[books:bg:12:15|Bg. 12.15]]

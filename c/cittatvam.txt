@@ -1,11 +1,5 @@
----json
-{
-    "name":"cittatvam",
-    "h1":"cittatvam",
-    "title":"cittatvam --- synonyms, prabhupada.io",
-    "description":"equilibrium."
-}
----
+~~Title:cittatvam~~
+{{description>equilibrium.}}
 
 ==== sama-cittatvam  ====
   * equilibrium --- [[books:bg:13:8-12|Bg. 13.8-12]]

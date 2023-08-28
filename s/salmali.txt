@@ -1,11 +1,5 @@
----json
-{
-    "name":"salmali",
-    "h1":"salmali",
-    "title":"salmali --- synonyms, prabhupada.io",
-    "description":"Śālmali."
-}
----
+~~Title:salmali~~
+{{description>Śālmali.}}
 
 ==== śālmali  ====
   * Śālmali --- [[books:sb:5:1:32|SB 5.1.32]]

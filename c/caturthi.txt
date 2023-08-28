@@ -1,11 +1,5 @@
----json
-{
-    "name":"caturthī",
-    "h1":"caturthī",
-    "title":"caturthī --- synonyms, prabhupada.io",
-    "description":"the fourth one."
-}
----
+~~Title:caturthī~~
+{{description>the fourth one.}}
 
 ==== caturthī  ====
   * the fourth one --- [[books:sb:4:1:34|SB 4.1.34]]

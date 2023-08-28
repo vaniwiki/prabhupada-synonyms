@@ -1,11 +1,5 @@
----json
-{
-    "name":"sira",
-    "h1":"sira",
-    "title":"sira --- synonyms, prabhupada.io",
-    "description":"head."
-}
----
+~~Title:sira~~
+{{description>head.}}
 
 ==== śira  ====
   * head --- [[books:cc:madhya:2:7|Madhya 2.7]], [[books:cc:madhya:2:13|Madhya 2.13]]

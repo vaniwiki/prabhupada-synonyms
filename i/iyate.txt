@@ -1,11 +1,5 @@
----json
-{
-    "name":"iyate",
-    "h1":"iyate",
-    "title":"iyate --- synonyms, prabhupada.io",
-    "description":"appears like."
-}
----
+~~Title:iyate~~
+{{description>appears like.}}
 
 ==== iyate  ====
   * appears like --- [[books:sb:1:4:4|SB 1.4.4]]

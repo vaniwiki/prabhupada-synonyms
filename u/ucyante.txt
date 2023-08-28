@@ -1,11 +1,5 @@
----json
-{
-    "name":"ucyante",
-    "h1":"ucyante",
-    "title":"ucyante --- synonyms, prabhupada.io",
-    "description":"are said."
-}
----
+~~Title:ucyante~~
+{{description>are said.}}
 
 ==== ucyante  ====
   * are said --- [[books:cc:madhya:23:79-81|Madhya 23.79-81]]

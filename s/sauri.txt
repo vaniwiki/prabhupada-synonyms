@@ -1,11 +1,5 @@
----json
-{
-    "name":"sauri",
-    "h1":"sauri",
-    "title":"sauri --- synonyms, prabhupada.io",
-    "description":"the sun-god."
-}
----
+~~Title:sauri~~
+{{description>the sun-god.}}
 
 ==== saurī  ====
   * the sun-god --- [[books:sb:9:15:40|SB 9.15.40]]

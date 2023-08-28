@@ -1,11 +1,5 @@
----json
-{
-    "name":"vistari",
-    "h1":"vistari",
-    "title":"vistari --- synonyms, prabhupada.io",
-    "description":"describing; elaborately; elaborating."
-}
----
+~~Title:vistari~~
+{{description>describing; elaborately; elaborating.}}
 
 ==== vistāri  ====
   * describing --- [[books:cc:adi:13:7|Ādi 13.7]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaktavyam",
-    "h1":"vaktavyam",
-    "title":"vaktavyam --- synonyms, prabhupada.io",
-    "description":"speeches."
-}
----
+~~Title:vaktavyam~~
+{{description>speeches.}}
 
 ==== vaktavyam  ====
   * speeches --- [[books:sb:3:6:12|SB 3.6.12]]

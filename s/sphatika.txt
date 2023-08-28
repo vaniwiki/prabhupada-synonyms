@@ -1,11 +1,5 @@
----json
-{
-    "name":"sphatika",
-    "h1":"sphatika",
-    "title":"sphatika --- synonyms, prabhupada.io",
-    "description":"crystal; made of marble; marble."
-}
----
+~~Title:sphatika~~
+{{description>crystal; made of marble; marble.}}
 
 ==== sphaṭika  ====
   * crystal --- [[books:sb:3:15:21|SB 3.15.21]], [[books:sb:4:25:15|SB 4.25.15]]

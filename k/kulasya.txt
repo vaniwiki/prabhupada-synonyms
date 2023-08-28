@@ -1,11 +1,5 @@
----json
-{
-    "name":"kulasya",
-    "h1":"kulasya",
-    "title":"kulasya --- synonyms, prabhupada.io",
-    "description":"of the family."
-}
----
+~~Title:kulasya~~
+{{description>of the family.}}
 
 ==== kulasya  ====
   * of the family --- [[books:bg:1:41|Bg. 1.41]]

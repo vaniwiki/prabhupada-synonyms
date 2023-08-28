@@ -1,11 +1,5 @@
----json
-{
-    "name":"candanera",
-    "h1":"candanera",
-    "title":"candanera --- synonyms, prabhupada.io",
-    "description":"of sandalwood."
-}
----
+~~Title:candanera~~
+{{description>of sandalwood.}}
 
 ==== candanera  ====
   * of sandalwood --- [[books:cc:adi:3:46|Ādi 3.46]]

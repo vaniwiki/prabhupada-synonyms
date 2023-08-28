@@ -1,11 +1,5 @@
----json
-{
-    "name":"seke",
-    "h1":"seke",
-    "title":"seke --- synonyms, prabhupada.io",
-    "description":"throw."
-}
----
+~~Title:seke~~
+{{description>throw.}}
 
 ==== seke  ====
   * throw --- [[books:cc:antya:18:88|Antya 18.88]]

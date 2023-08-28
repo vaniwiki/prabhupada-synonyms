@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidyamāne",
-    "h1":"vidyamāne",
-    "title":"vidyamāne --- synonyms, prabhupada.io",
-    "description":"although there is."
-}
----
+~~Title:vidyamāne~~
+{{description>although there is.}}
 
 ==== vidyamāne api  ====
   * although there is --- [[books:sb:4:8:28|SB 4.8.28]]

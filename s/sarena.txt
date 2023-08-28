@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarena",
-    "h1":"sarena",
-    "title":"sarena --- synonyms, prabhupada.io",
-    "description":"by an arrow."
-}
----
+~~Title:sarena~~
+{{description>by an arrow.}}
 
 ==== śareṇa  ====
   * by an arrow --- [[books:sb:4:29:54|SB 4.29.54]], [[books:sb:7:2:56|SB 7.2.56]]

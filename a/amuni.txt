@@ -1,11 +1,5 @@
----json
-{
-    "name":"amuni",
-    "h1":"amuni",
-    "title":"amuni --- synonyms, prabhupada.io",
-    "description":"all these."
-}
----
+~~Title:amuni~~
+{{description>all these.}}
 
 ==== amunī  ====
   * all these --- [[books:sb:2:10:35|SB 2.10.35]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"mrdam",
-    "h1":"mrdam",
-    "title":"mrdam --- synonyms, prabhupada.io",
-    "description":"dirt."
-}
----
+~~Title:mrdam~~
+{{description>dirt.}}
 
 ==== mṛdam  ====
   * dirt --- [[books:sb:10:8:34|SB 10.8.34]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"namati",
-    "h1":"namati",
-    "title":"namati --- synonyms, prabhupada.io",
-    "description":"bows."
-}
----
+~~Title:namati~~
+{{description>bows.}}
 
 ==== namati  ====
   * bows --- [[books:sb:6:3:29|SB 6.3.29]]

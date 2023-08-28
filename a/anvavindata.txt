@@ -1,11 +1,5 @@
----json
-{
-    "name":"anvavindata",
-    "h1":"anvavindata",
-    "title":"anvavindata --- synonyms, prabhupada.io",
-    "description":"could accept any one of them."
-}
----
+~~Title:anvavindata~~
+{{description>could accept any one of them.}}
 
 ==== anvavindata  ====
   * could accept any one of them --- [[books:sb:8:8:19|SB 8.8.19]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"balite",
-    "h1":"balite",
-    "title":"balite --- synonyms, prabhupada.io",
-    "description":"to say; to speak."
-}
----
+~~Title:balite~~
+{{description>to say; to speak.}}
 
 ==== balite  ====
   * to say --- [[books:cc:adi:14:29|Ādi 14.29]], [[books:cc:adi:17:107|Ādi 17.107]], [[books:cc:adi:17:248|Ādi 17.248]]

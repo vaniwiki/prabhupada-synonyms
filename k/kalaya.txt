@@ -1,11 +1,5 @@
----json
-{
-    "name":"kalaya",
-    "h1":"kalaya",
-    "title":"kalaya --- synonyms, prabhupada.io",
-    "description":"kindly perform."
-}
----
+~~Title:kalaya~~
+{{description>kindly perform.}}
 
 ==== kalaya  ====
   * kindly perform --- [[books:cc:madhya:1:84|Madhya 1.84]]

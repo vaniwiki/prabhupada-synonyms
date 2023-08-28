@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakrodha",
-    "h1":"sakrodha",
-    "title":"sakrodha --- synonyms, prabhupada.io",
-    "description":"angry."
-}
----
+~~Title:sakrodha~~
+{{description>angry.}}
 
 ==== sakrodha  ====
   * angry --- [[books:cc:adi:14:57|Ādi 14.57]]

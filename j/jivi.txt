@@ -1,11 +1,5 @@
----json
-{
-    "name":"jīvī",
-    "h1":"jīvī",
-    "title":"jīvī --- synonyms, prabhupada.io",
-    "description":"live long."
-}
----
+~~Title:jīvī~~
+{{description>live long.}}
 
 ==== cira-jīvī  ====
   * live long --- [[books:cc:adi:13:117|Ādi 13.117]]

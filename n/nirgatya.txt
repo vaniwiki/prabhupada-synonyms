@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirgatya",
-    "h1":"nirgatya",
-    "title":"nirgatya --- synonyms, prabhupada.io",
-    "description":"going out."
-}
----
+~~Title:nirgatya~~
+{{description>going out.}}
 
 ==== nirgatya  ====
   * going out --- [[books:sb:6:7:9|SB 6.7.9]]

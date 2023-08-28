@@ -1,11 +1,5 @@
----json
-{
-    "name":"gantavyam",
-    "h1":"gantavyam",
-    "title":"gantavyam --- synonyms, prabhupada.io",
-    "description":"to be reached."
-}
----
+~~Title:gantavyam~~
+{{description>to be reached.}}
 
 ==== gantavyam  ====
   * to be reached --- [[books:bg:4:24|Bg. 4.24]]

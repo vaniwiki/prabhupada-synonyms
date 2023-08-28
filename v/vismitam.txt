@@ -1,11 +1,5 @@
----json
-{
-    "name":"vismitam",
-    "h1":"vismitam",
-    "title":"vismitam --- synonyms, prabhupada.io",
-    "description":"most wonderful."
-}
----
+~~Title:vismitam~~
+{{description>most wonderful.}}
 
 ==== su-vismitam  ====
   * most wonderful --- [[books:sb:5:18:4|SB 5.18.4]]

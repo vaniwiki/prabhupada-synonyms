@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadhvasah",
-    "h1":"sadhvasah",
-    "title":"sadhvasah --- synonyms, prabhupada.io",
-    "description":"all-respectful."
-}
----
+~~Title:sadhvasah~~
+{{description>all-respectful.}}
 
 ==== sādhvasāḥ  ====
   * all-respectful --- [[books:sb:1:11:18|SB 1.11.18]]

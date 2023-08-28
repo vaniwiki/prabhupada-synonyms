@@ -1,11 +1,5 @@
----json
-{
-    "name":"sandarśam",
-    "h1":"sandarśam",
-    "title":"sandarśam --- synonyms, prabhupada.io",
-    "description":"meeting with the demigods."
-}
----
+~~Title:sandarśam~~
+{{description>meeting with the demigods.}}
 
 ==== deva-sandarśam  ====
   * meeting with the demigods --- [[books:sb:9:24:34|SB 9.24.34]]

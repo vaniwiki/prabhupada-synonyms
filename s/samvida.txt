@@ -1,11 +1,5 @@
----json
-{
-    "name":"samvida",
-    "h1":"samvida",
-    "title":"samvida --- synonyms, prabhupada.io",
-    "description":"by the samvit potency."
-}
----
+~~Title:samvida~~
+{{description>by the samvit potency.}}
 
 ==== samvidā  ====
   * by the //samvit// potency --- [[books:cc:antya:5:127|Antya 5.127]]

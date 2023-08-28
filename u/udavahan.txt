@@ -1,11 +1,5 @@
----json
-{
-    "name":"udavahan",
-    "h1":"udavahan",
-    "title":"udavahan --- synonyms, prabhupada.io",
-    "description":"married."
-}
----
+~~Title:udavahan~~
+{{description>married.}}
 
 ==== udavahan  ====
   * married --- [[books:sb:5:2:23|SB 5.2.23]]

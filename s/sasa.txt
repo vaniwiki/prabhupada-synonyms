@@ -1,11 +1,5 @@
----json
-{
-    "name":"sasa",
-    "h1":"sasa",
-    "title":"sasa --- synonyms, prabhupada.io",
-    "description":"rabbit."
-}
----
+~~Title:sasa~~
+{{description>rabbit.}}
 
 ==== śaśa  ====
   * rabbit --- [[books:sb:3:10:24|SB 3.10.24]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"amhasam",
-    "h1":"amhasam",
-    "title":"amhasam --- synonyms, prabhupada.io",
-    "description":"offense."
-}
----
+~~Title:amhasam~~
+{{description>offense.}}
 
 ==== aṁhasam  ====
   * offense --- [[books:sb:3:14:34|SB 3.14.34]]

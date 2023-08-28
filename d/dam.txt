@@ -1,11 +1,5 @@
----json
-{
-    "name":"dam",
-    "h1":"dam",
-    "title":"dam --- synonyms, prabhupada.io",
-    "description":"giving."
-}
----
+~~Title:dam~~
+{{description>giving.}}
 
 ==== dam  ====
   * giving --- [[books:sb:6:16:13|SB 6.16.13]]

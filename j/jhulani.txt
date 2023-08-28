@@ -1,11 +1,5 @@
----json
-{
-    "name":"jhulani",
-    "h1":"jhulani",
-    "title":"jhulani --- synonyms, prabhupada.io",
-    "description":"turban."
-}
----
+~~Title:jhulani~~
+{{description>turban.}}
 
 ==== jhulani  ====
   * turban --- [[books:cc:antya:14:45|Antya 14.45]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhavata",
-    "h1":"bhavata",
-    "title":"bhavata --- synonyms, prabhupada.io",
-    "description":"all of you become."
-}
----
+~~Title:bhavata~~
+{{description>all of you become.}}
 
 ==== bhavata  ====
   * all of you become --- [[books:sb:9:16:33|SB 9.16.33]]

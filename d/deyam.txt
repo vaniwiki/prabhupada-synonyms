@@ -1,11 +1,5 @@
----json
-{
-    "name":"deyam",
-    "h1":"deyam",
-    "title":"deyam --- synonyms, prabhupada.io",
-    "description":"should be given."
-}
----
+~~Title:deyam~~
+{{description>should be given.}}
 
 ==== deyam  ====
   * should be given --- [[books:cc:madhya:19:50|Madhya 19.50]], [[books:cc:madhya:20:58|Madhya 20.58]], [[books:cc:antya:16:25|Antya 16.25]]

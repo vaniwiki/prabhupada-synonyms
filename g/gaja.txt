@@ -1,11 +1,5 @@
----json
-{
-    "name":"gaja",
-    "h1":"gaja",
-    "title":"gaja --- synonyms, prabhupada.io",
-    "description":"big elephants and horses."
-}
----
+~~Title:gaja~~
+{{description>big elephants and horses.}}
 
 ==== gaja  ====
   * big elephants and horses --- [[books:sb:7:7:44|SB 7.7.44]]

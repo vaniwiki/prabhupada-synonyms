@@ -1,11 +1,5 @@
----json
-{
-    "name":"bahuyatne",
-    "h1":"bahuyatne",
-    "title":"bahuyatne --- synonyms, prabhupada.io",
-    "description":"with great attention."
-}
----
+~~Title:bahuyatne~~
+{{description>with great attention.}}
 
 ==== bahuyatne  ====
   * with great attention --- [[books:cc:madhya:9:241|Madhya 9.241]]

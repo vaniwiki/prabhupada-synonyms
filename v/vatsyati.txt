@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsyati",
-    "h1":"vatsyati",
-    "title":"vatsyati --- synonyms, prabhupada.io",
-    "description":"will live there."
-}
----
+~~Title:vatsyati~~
+{{description>will live there.}}
 
 ==== vatsyati  ====
   * will live there --- [[books:sb:9:22:40|SB 9.22.40]]

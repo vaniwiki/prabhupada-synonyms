@@ -1,11 +1,5 @@
----json
-{
-    "name":"jambu",
-    "h1":"jambu",
-    "title":"jambu --- synonyms, prabhupada.io",
-    "description":"O jambu tree."
-}
----
+~~Title:jambu~~
+{{description>O jambu tree.}}
 
 ==== jambu  ====
   * O //jambu// tree --- [[books:cc:antya:15:32|Antya 15.32]], [[books:cc:antya:15:35|Antya 15.35]]

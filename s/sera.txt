@@ -1,11 +1,5 @@
----json
-{
-    "name":"sera",
-    "h1":"sera",
-    "title":"sera --- synonyms, prabhupada.io",
-    "description":"one kilogram."
-}
----
+~~Title:sera~~
+{{description>one kilogram.}}
 
 ==== eka-sera  ====
   * one kilogram --- [[books:cc:madhya:5:100|Madhya 5.100]]

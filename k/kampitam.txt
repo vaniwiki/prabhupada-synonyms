@@ -1,11 +1,5 @@
----json
-{
-    "name":"kampitam",
-    "h1":"kampitam",
-    "title":"kampitam --- synonyms, prabhupada.io",
-    "description":"trembling."
-}
----
+~~Title:kampitam~~
+{{description>trembling.}}
 
 ==== kampitam  ====
   * trembling --- [[books:sb:3:10:5|SB 3.10.5]]

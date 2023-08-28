@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhajema",
-    "h1":"bhajema",
-    "title":"bhajema --- synonyms, prabhupada.io",
-    "description":"let us worship; must surrender."
-}
----
+~~Title:bhajema~~
+{{description>let us worship; must surrender.}}
 
 ==== bhajema  ====
   * let us worship --- [[books:sb:3:5:44|SB 3.5.44]]

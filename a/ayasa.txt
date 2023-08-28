@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayasa",
-    "h1":"ayasa",
-    "title":"ayasa --- synonyms, prabhupada.io",
-    "description":"iron."
-}
----
+~~Title:ayasa~~
+{{description>iron.}}
 
 ==== ayasa  ====
   * iron --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

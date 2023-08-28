@@ -1,11 +1,5 @@
----json
-{
-    "name":"jnanah",
-    "h1":"jnanah",
-    "title":"jnanah --- synonyms, prabhupada.io",
-    "description":"whose knowledge."
-}
----
+~~Title:jnanah~~
+{{description>whose knowledge.}}
 
 ==== jñānaḥ  ====
   * whose knowledge --- [[books:sb:4:26:18|SB 4.26.18]]

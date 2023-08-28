@@ -1,11 +1,5 @@
----json
-{
-    "name":"nayanera",
-    "h1":"nayanera",
-    "title":"nayanera --- synonyms, prabhupada.io",
-    "description":"of the eyes."
-}
----
+~~Title:nayanera~~
+{{description>of the eyes.}}
 
 ==== nayanera  ====
   * of the eyes --- [[books:cc:madhya:2:71|Madhya 2.71]]

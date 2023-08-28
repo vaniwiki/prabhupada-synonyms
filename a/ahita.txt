@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahita",
-    "h1":"ahita",
-    "title":"ahita --- synonyms, prabhupada.io",
-    "description":"activities; inauspiciousness."
-}
----
+~~Title:ahita~~
+{{description>activities; inauspiciousness.}}
 
 ==== ahita  ====
   * activities --- [[books:cc:antya:4:69|Antya 4.69]]

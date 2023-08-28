@@ -1,11 +1,5 @@
----json
-{
-    "name":"candi",
-    "h1":"candi",
-    "title":"candi --- synonyms, prabhupada.io",
-    "description":"haughty one."
-}
----
+~~Title:candi~~
+{{description>haughty one.}}
 
 ==== caṇḍi  ====
   * haughty one --- [[books:sb:3:14:39|SB 3.14.39]]

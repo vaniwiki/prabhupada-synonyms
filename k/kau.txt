@@ -1,11 +1,5 @@
----json
-{
-    "name":"kau",
-    "h1":"kau",
-    "title":"kau --- synonyms, prabhupada.io",
-    "description":"who."
-}
----
+~~Title:kau~~
+{{description>who.}}
 
 ==== kau  ====
   * who --- [[books:sb:6:15:10|SB 6.15.10]]

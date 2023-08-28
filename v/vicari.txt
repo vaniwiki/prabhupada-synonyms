@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicari",
-    "h1":"vicari",
-    "title":"vicari --- synonyms, prabhupada.io",
-    "description":"I consider; we are considering."
-}
----
+~~Title:vicari~~
+{{description>I consider; we are considering.}}
 
 ==== vicāri  ====
   * I consider --- [[books:cc:madhya:19:139|Madhya 19.139]]

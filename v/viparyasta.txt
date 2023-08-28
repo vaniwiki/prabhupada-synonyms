@@ -1,11 +1,5 @@
----json
-{
-    "name":"viparyasta",
-    "h1":"viparyasta",
-    "title":"viparyasta --- synonyms, prabhupada.io",
-    "description":"reversed."
-}
----
+~~Title:viparyasta~~
+{{description>reversed.}}
 
 ==== viparyasta  ====
   * reversed --- [[books:sb:1:14:3|SB 1.14.3]]

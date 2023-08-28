@@ -1,11 +1,5 @@
----json
-{
-    "name":"kadalaka",
-    "h1":"kadalaka",
-    "title":"kadalaka --- synonyms, prabhupada.io",
-    "description":"bananas."
-}
----
+~~Title:kadalaka~~
+{{description>bananas.}}
 
 ==== kadalaka  ====
   * bananas --- [[books:cc:madhya:14:26|Madhya 14.26]]

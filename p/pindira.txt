@@ -1,11 +1,5 @@
----json
-{
-    "name":"pindira",
-    "h1":"pindira",
-    "title":"pindira --- synonyms, prabhupada.io",
-    "description":"on the altar."
-}
----
+~~Title:pindira~~
+{{description>on the altar.}}
 
 ==== piṇḍira upara  ====
   * on the altar --- [[books:cc:antya:3:231|Antya 3.231]]

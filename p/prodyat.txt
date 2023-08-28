@@ -1,11 +1,5 @@
----json
-{
-    "name":"prodyat",
-    "h1":"prodyat",
-    "title":"prodyat --- synonyms, prabhupada.io",
-    "description":"manifesting."
-}
----
+~~Title:prodyat~~
+{{description>manifesting.}}
 
 ==== prodyat  ====
   * manifesting --- [[books:cc:adi:4:260|Ādi 4.260]]

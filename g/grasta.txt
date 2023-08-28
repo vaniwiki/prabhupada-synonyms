@@ -1,11 +1,5 @@
----json
-{
-    "name":"grasta",
-    "h1":"grasta",
-    "title":"grasta --- synonyms, prabhupada.io",
-    "description":"covered."
-}
----
+~~Title:grasta~~
+{{description>covered.}}
 
 ==== grasta  ====
   * covered --- [[books:sb:6:8:34|SB 6.8.34]]

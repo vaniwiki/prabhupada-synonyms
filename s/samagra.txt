@@ -1,11 +1,5 @@
----json
-{
-    "name":"samagra",
-    "h1":"samagra",
-    "title":"samagra --- synonyms, prabhupada.io",
-    "description":"all."
-}
----
+~~Title:samagra~~
+{{description>all.}}
 
 ==== samagra  ====
   * all --- [[books:cc:adi:10:163|Ādi 10.163]]

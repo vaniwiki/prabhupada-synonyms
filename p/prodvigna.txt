@@ -1,11 +1,5 @@
----json
-{
-    "name":"prodvigna",
-    "h1":"prodvigna",
-    "title":"prodvigna --- synonyms, prabhupada.io",
-    "description":"full of anxieties."
-}
----
+~~Title:prodvigna~~
+{{description>full of anxieties.}}
 
 ==== prodvigna  ====
   * full of anxieties --- [[books:sb:8:12:20|SB 8.12.20]]

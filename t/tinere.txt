@@ -1,11 +1,5 @@
----json
-{
-    "name":"tinere",
-    "h1":"tinere",
-    "title":"tinere --- synonyms, prabhupada.io",
-    "description":"three."
-}
----
+~~Title:tinere~~
+{{description>three.}}
 
 ==== tinere  ====
   * three --- [[books:cc:madhya:1:64|Madhya 1.64]]

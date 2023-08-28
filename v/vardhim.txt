@@ -1,11 +1,5 @@
----json
-{
-    "name":"vārdhim",
-    "h1":"vārdhim",
-    "title":"vārdhim --- synonyms, prabhupada.io",
-    "description":"in the ocean."
-}
----
+~~Title:vārdhim~~
+{{description>in the ocean.}}
 
 ==== vārdhim  ====
   * in the ocean --- [[books:sb:3:17:24|SB 3.17.24]]

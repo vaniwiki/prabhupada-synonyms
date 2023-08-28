@@ -1,11 +1,5 @@
----json
-{
-    "name":"asthiram",
-    "h1":"asthiram",
-    "title":"asthiram --- synonyms, prabhupada.io",
-    "description":"unsteady."
-}
----
+~~Title:asthiram~~
+{{description>unsteady.}}
 
 ==== asthiram  ====
   * unsteady --- [[books:bg:6:26|Bg. 6.26]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hasi",
-    "h1":"hasi",
-    "title":"hasi --- synonyms, prabhupada.io",
-    "description":"laugh; laughing; smiling."
-}
----
+~~Title:hasi~~
+{{description>laugh; laughing; smiling.}}
 
 ==== hāsi  ====
   * laugh --- [[books:cc:adi:7:78|Ādi 7.78]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sandhitam",
-    "h1":"sandhitam",
-    "title":"sandhitam --- synonyms, prabhupada.io",
-    "description":"fixed an arrow; where the two parts join."
-}
----
+~~Title:sandhitam~~
+{{description>fixed an arrow; where the two parts join.}}
 
 ==== sandhitam  ====
   * fixed an arrow --- [[books:sb:9:10:23|SB 9.10.23]]

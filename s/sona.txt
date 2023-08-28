@@ -1,11 +1,5 @@
----json
-{
-    "name":"sona",
-    "h1":"sona",
-    "title":"sona --- synonyms, prabhupada.io",
-    "description":"gold."
-}
----
+~~Title:sona~~
+{{description>gold.}}
 
 ==== sonā  ====
   * gold --- [[books:cc:madhya:8:294|Madhya 8.294]]

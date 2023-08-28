@@ -1,11 +1,5 @@
----json
-{
-    "name":"vadasva",
-    "h1":"vadasva",
-    "title":"vadasva --- synonyms, prabhupada.io",
-    "description":"kindly describe; please describe."
-}
----
+~~Title:vadasva~~
+{{description>kindly describe; please describe.}}
 
 ==== vadasva  ====
   * kindly describe --- [[books:sb:3:10:2|SB 3.10.2]], [[books:sb:8:1:1|SB 8.1.1]], [[books:sb:8:5:11-12|SB 8.5.11-12]], [[books:sb:8:14:1|SB 8.14.1]], [[books:sb:10:1:5-7|SB 10.1.5-7]]

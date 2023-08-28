@@ -1,11 +1,5 @@
----json
-{
-    "name":"alāta",
-    "h1":"alāta",
-    "title":"alāta --- synonyms, prabhupada.io",
-    "description":"circle of fire."
-}
----
+~~Title:alāta~~
+{{description>circle of fire.}}
 
 ==== alāta-ākāra  ====
   * circle of fire --- [[books:cc:madhya:13:82|Madhya 13.82]]

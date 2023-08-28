@@ -1,11 +1,5 @@
----json
-{
-    "name":"smitam",
-    "h1":"smitam",
-    "title":"smitam --- synonyms, prabhupada.io",
-    "description":"smiling."
-}
----
+~~Title:smitam~~
+{{description>smiling.}}
 
 ==== smitam  ====
   * smiling --- [[books:cc:madhya:14:181|Madhya 14.181]]

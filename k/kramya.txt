@@ -1,11 +1,5 @@
----json
-{
-    "name":"kramya",
-    "h1":"kramya",
-    "title":"kramya --- synonyms, prabhupada.io",
-    "description":"after passing."
-}
----
+~~Title:kramya~~
+{{description>after passing.}}
 
 ==== ati-kramya  ====
   * after passing --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

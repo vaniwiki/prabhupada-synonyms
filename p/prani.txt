@@ -1,11 +1,5 @@
----json
-{
-    "name":"prani",
-    "h1":"prani",
-    "title":"prani --- synonyms, prabhupada.io",
-    "description":"living entities."
-}
----
+~~Title:prani~~
+{{description>living entities.}}
 
 ==== prāṇi  ====
   * living entities --- [[books:cc:adi:9:46|Ādi 9.46]]

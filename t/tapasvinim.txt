@@ -1,11 +1,5 @@
----json
-{
-    "name":"tapasvinīm",
-    "h1":"tapasvinīm",
-    "title":"tapasvinīm --- synonyms, prabhupada.io",
-    "description":"an ascetic lady."
-}
----
+~~Title:tapasvinīm~~
+{{description>an ascetic lady.}}
 
 ==== tapasvinīm  ====
   * an ascetic lady --- [[books:sb:1:9:48|SB 1.9.48]]

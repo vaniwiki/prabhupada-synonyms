@@ -1,11 +1,5 @@
----json
-{
-    "name":"diva",
-    "h1":"diva",
-    "title":"diva --- synonyms, prabhupada.io",
-    "description":"a day; by daytime; day; days; daytime; during the daytime."
-}
----
+~~Title:diva~~
+{{description>a day; by daytime; day; days; daytime; during the daytime.}}
 
 ==== divā  ====
   * a day --- [[books:sb:5:22:5|SB 5.22.5]]

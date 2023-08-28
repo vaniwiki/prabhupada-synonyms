@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhasman",
-    "h1":"bhasman",
-    "title":"bhasman --- synonyms, prabhupada.io",
-    "description":"ashes."
-}
----
+~~Title:bhasman~~
+{{description>ashes.}}
 
 ==== bhasman  ====
   * ashes --- [[books:sb:1:15:21|SB 1.15.21]]

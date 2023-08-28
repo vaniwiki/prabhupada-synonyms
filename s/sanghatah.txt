@@ -1,11 +1,5 @@
----json
-{
-    "name":"sanghatah",
-    "h1":"sanghatah",
-    "title":"sanghatah --- synonyms, prabhupada.io",
-    "description":"the aggregate."
-}
----
+~~Title:sanghatah~~
+{{description>the aggregate.}}
 
 ==== saṅghataḥ  ====
   * the aggregate --- [[books:bg:13:6-7|Bg. 13.6-7]]

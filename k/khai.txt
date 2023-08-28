@@ -1,11 +1,5 @@
----json
-{
-    "name":"khāi",
-    "h1":"khāi",
-    "title":"khāi --- synonyms, prabhupada.io",
-    "description":"I eat."
-}
----
+~~Title:khāi~~
+{{description>I eat.}}
 
 ==== khāi  ====
   * I eat --- [[books:cc:antya:6:324|Antya 6.324]]

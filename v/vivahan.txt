@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivahan",
-    "h1":"vivahan",
-    "title":"vivahan --- synonyms, prabhupada.io",
-    "description":"sometimes marrying."
-}
----
+~~Title:vivahan~~
+{{description>sometimes marrying.}}
 
 ==== vivahan  ====
   * sometimes marrying --- [[books:sb:5:13:13|SB 5.13.13]]

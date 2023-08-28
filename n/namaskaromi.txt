@@ -1,11 +1,5 @@
----json
-{
-    "name":"namaskaromi",
-    "h1":"namaskaromi",
-    "title":"namaskaromi --- synonyms, prabhupada.io",
-    "description":"I offer my obeisances."
-}
----
+~~Title:namaskaromi~~
+{{description>I offer my obeisances.}}
 
 ==== namaskaromi  ====
   * I offer my obeisances --- [[books:sb:6:4:24|SB 6.4.24]]

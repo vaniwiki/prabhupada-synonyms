@@ -1,11 +1,5 @@
----json
-{
-    "name":"parjanya",
-    "h1":"parjanya",
-    "title":"parjanya --- synonyms, prabhupada.io",
-    "description":"like a cloud."
-}
----
+~~Title:parjanya~~
+{{description>like a cloud.}}
 
 ==== parjanya  ====
   * like a cloud --- [[books:sb:4:30:7|SB 4.30.7]]

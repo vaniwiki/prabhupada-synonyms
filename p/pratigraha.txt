@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratigraha",
-    "h1":"pratigraha",
-    "title":"pratigraha --- synonyms, prabhupada.io",
-    "description":"acceptance of alms; acceptance of gifts."
-}
----
+~~Title:pratigraha~~
+{{description>acceptance of alms; acceptance of gifts.}}
 
 ==== pratigraha  ====
   * acceptance of alms --- [[books:cc:adi:12:50|Ādi 12.50]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"srnusva",
-    "h1":"srnusva",
-    "title":"srnusva --- synonyms, prabhupada.io",
-    "description":"please hear."
-}
----
+~~Title:srnusva~~
+{{description>please hear.}}
 
 ==== śṛṇusva  ====
   * please hear --- [[books:sb:10:13:3|SB 10.13.3]]

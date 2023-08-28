@@ -1,11 +1,5 @@
----json
-{
-    "name":"alambhi",
-    "h1":"alambhi",
-    "title":"alambhi --- synonyms, prabhupada.io",
-    "description":"attained."
-}
----
+~~Title:alambhi~~
+{{description>attained.}}
 
 ==== alambhi  ====
   * attained --- [[books:cc:antya:1:191|Antya 1.191]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pāo",
-    "h1":"pāo",
-    "title":"pāo --- synonyms, prabhupada.io",
-    "description":"you get much trouble."
-}
----
+~~Title:pāo~~
+{{description>you get much trouble.}}
 
 ==== duḥkha pāo  ====
   * you get much trouble --- [[books:cc:antya:12:67|Antya 12.67]]

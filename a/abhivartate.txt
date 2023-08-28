@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhivartate",
-    "h1":"abhivartate",
-    "title":"abhivartate --- synonyms, prabhupada.io",
-    "description":"approaches."
-}
----
+~~Title:abhivartate~~
+{{description>approaches.}}
 
 ==== abhivartate  ====
   * approaches --- [[books:sb:5:22:14|SB 5.22.14]]

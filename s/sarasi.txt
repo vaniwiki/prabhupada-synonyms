@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarasi",
-    "h1":"sarasi",
-    "title":"sarasi --- synonyms, prabhupada.io",
-    "description":"in the lake; in the water."
-}
----
+~~Title:sarasi~~
+{{description>in the lake; in the water.}}
 
 ==== sarasi  ====
   * in the lake --- [[books:sb:3:23:26|SB 3.23.26]]

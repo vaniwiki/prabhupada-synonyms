@@ -1,11 +1,5 @@
----json
-{
-    "name":"nadau",
-    "h1":"nadau",
-    "title":"nadau --- synonyms, prabhupada.io",
-    "description":"two rivers."
-}
----
+~~Title:nadau~~
+{{description>two rivers.}}
 
 ==== nadau  ====
   * two rivers --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

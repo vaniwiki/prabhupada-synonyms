@@ -1,11 +1,5 @@
----json
-{
-    "name":"asta",
-    "h1":"asta",
-    "title":"asta --- synonyms, prabhupada.io",
-    "description":"bereft of."
-}
----
+~~Title:asta~~
+{{description>bereft of.}}
 
 ==== asta  ====
   * bereft of --- [[books:sb:3:30:18|SB 3.30.18]]

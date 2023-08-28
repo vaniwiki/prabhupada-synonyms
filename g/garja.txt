@@ -1,11 +1,5 @@
----json
-{
-    "name":"garja",
-    "h1":"garja",
-    "title":"garja --- synonyms, prabhupada.io",
-    "description":"murmuring in anger."
-}
----
+~~Title:garja~~
+{{description>murmuring in anger.}}
 
 ==== tarja-garja  ====
   * murmuring in anger --- [[books:cc:adi:17:140|Ādi 17.140]]

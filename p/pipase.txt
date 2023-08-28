@@ -1,11 +1,5 @@
----json
-{
-    "name":"pipāse",
-    "h1":"pipāse",
-    "title":"pipāse --- synonyms, prabhupada.io",
-    "description":"and thirst."
-}
----
+~~Title:pipāse~~
+{{description>and thirst.}}
 
 ==== pipāse  ====
   * and thirst --- [[books:sb:4:28:37|SB 4.28.37]]

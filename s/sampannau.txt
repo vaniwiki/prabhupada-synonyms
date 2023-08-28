@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampannau",
-    "h1":"sampannau",
-    "title":"sampannau --- synonyms, prabhupada.io",
-    "description":"fully developed in knowledge."
-}
----
+~~Title:sampannau~~
+{{description>fully developed in knowledge.}}
 
 ==== jñāna-sampannau  ====
   * fully developed in knowledge --- [[books:sb:6:15:10|SB 6.15.10]]

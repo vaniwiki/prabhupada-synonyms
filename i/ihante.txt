@@ -1,11 +1,5 @@
----json
-{
-    "name":"ihante",
-    "h1":"ihante",
-    "title":"ihante --- synonyms, prabhupada.io",
-    "description":"here."
-}
----
+~~Title:ihante~~
+{{description>here.}}
 
 ==== ihāṅte  ====
   * here --- [[books:cc:antya:3:28|Antya 3.28]]

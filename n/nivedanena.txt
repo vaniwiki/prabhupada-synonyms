@@ -1,11 +1,5 @@
----json
-{
-    "name":"nivedanena",
-    "h1":"nivedanena",
-    "title":"nivedanena --- synonyms, prabhupada.io",
-    "description":"by giving them everything."
-}
----
+~~Title:nivedanena~~
+{{description>by giving them everything.}}
 
 ==== artha-nivedanena  ====
   * by giving them everything --- [[books:sb:8:15:3|SB 8.15.3]]

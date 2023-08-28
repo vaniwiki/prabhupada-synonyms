@@ -1,11 +1,5 @@
----json
-{
-    "name":"durge",
-    "h1":"durge",
-    "title":"durge --- synonyms, prabhupada.io",
-    "description":"in the formidable fort."
-}
----
+~~Title:durge~~
+{{description>in the formidable fort.}}
 
 ==== durge  ====
   * in the formidable fort --- [[books:sb:4:7:28|SB 4.7.28]]

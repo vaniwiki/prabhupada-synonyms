@@ -1,11 +1,5 @@
----json
-{
-    "name":"pakvam",
-    "h1":"pakvam",
-    "title":"pakvam --- synonyms, prabhupada.io",
-    "description":"grains prepared by being cooked in fire."
-}
----
+~~Title:pakvam~~
+{{description>grains prepared by being cooked in fire.}}
 
 ==== agni-pakvam  ====
   * grains prepared by being cooked in fire --- [[books:sb:7:12:18|SB 7.12.18]]

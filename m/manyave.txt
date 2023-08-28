@@ -1,11 +1,5 @@
----json
-{
-    "name":"manyave",
-    "h1":"manyave",
-    "title":"manyave --- synonyms, prabhupada.io",
-    "description":"unto the angry."
-}
----
+~~Title:manyave~~
+{{description>unto the angry.}}
 
 ==== manyave  ====
   * unto the angry --- [[books:sb:3:14:35|SB 3.14.35]]

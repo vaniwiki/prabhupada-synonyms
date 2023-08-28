@@ -1,11 +1,5 @@
----json
-{
-    "name":"nyavadat",
-    "h1":"nyavadat",
-    "title":"nyavadat --- synonyms, prabhupada.io",
-    "description":"spoke."
-}
----
+~~Title:nyavadat~~
+{{description>spoke.}}
 
 ==== nyavadat  ====
   * spoke --- [[books:sb:4:12:1|SB 4.12.1]]

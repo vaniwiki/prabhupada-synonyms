@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrate",
-    "h1":"vrate",
-    "title":"vrate --- synonyms, prabhupada.io",
-    "description":"in the vow of celibacy."
-}
----
+~~Title:vrate~~
+{{description>in the vow of celibacy.}}
 
 ==== brahmacāri-vrate  ====
   * in the vow of celibacy --- [[books:bg:6:13-14|Bg. 6.13-14]]

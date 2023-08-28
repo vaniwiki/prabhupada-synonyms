@@ -1,11 +1,5 @@
----json
-{
-    "name":"bādhaka",
-    "h1":"bādhaka",
-    "title":"bādhaka --- synonyms, prabhupada.io",
-    "description":"hindrance."
-}
----
+~~Title:bādhaka~~
+{{description>hindrance.}}
 
 ==== bādhaka  ====
   * hindrance --- [[books:cc:adi:1:94|Ādi 1.94]]

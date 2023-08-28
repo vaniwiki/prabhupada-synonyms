@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhimanyate",
-    "h1":"abhimanyate",
-    "title":"abhimanyate --- synonyms, prabhupada.io",
-    "description":"he thinks."
-}
----
+~~Title:abhimanyate~~
+{{description>he thinks.}}
 
 ==== abhimanyate  ====
   * he thinks --- [[books:sb:3:27:2|SB 3.27.2]]

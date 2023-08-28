@@ -1,11 +1,5 @@
----json
-{
-    "name":"ravau",
-    "h1":"ravau",
-    "title":"ravau --- synonyms, prabhupada.io",
-    "description":"the sun."
-}
----
+~~Title:ravau~~
+{{description>the sun.}}
 
 ==== ravau  ====
   * the sun --- [[books:sb:3:4:2|SB 3.4.2]]

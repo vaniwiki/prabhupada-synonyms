@@ -1,11 +1,5 @@
----json
-{
-    "name":"nagarera",
-    "h1":"nagarera",
-    "title":"nagarera --- synonyms, prabhupada.io",
-    "description":"of the city."
-}
----
+~~Title:nagarera~~
+{{description>of the city.}}
 
 ==== nagarera  ====
   * of the city --- [[books:cc:madhya:3:138|Madhya 3.138]]

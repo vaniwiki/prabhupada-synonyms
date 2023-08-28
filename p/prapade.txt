@@ -1,11 +1,5 @@
----json
-{
-    "name":"prapade",
-    "h1":"prapade",
-    "title":"prapade --- synonyms, prabhupada.io",
-    "description":"the toes."
-}
----
+~~Title:prapade~~
+{{description>the toes.}}
 
 ==== prapade  ====
   * the toes --- [[books:sb:2:1:26|SB 2.1.26]]

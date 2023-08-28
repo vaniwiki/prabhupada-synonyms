@@ -1,11 +1,5 @@
----json
-{
-    "name":"manujam",
-    "h1":"manujam",
-    "title":"manujam --- synonyms, prabhupada.io",
-    "description":"ordinary man."
-}
----
+~~Title:manujam~~
+{{description>ordinary man.}}
 
 ==== manujam  ====
   * ordinary man --- [[books:sb:1:11:37|SB 1.11.37]]

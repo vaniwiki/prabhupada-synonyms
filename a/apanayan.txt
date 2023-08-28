@@ -1,11 +1,5 @@
----json
-{
-    "name":"apanayan",
-    "h1":"apanayan",
-    "title":"apanayan --- synonyms, prabhupada.io",
-    "description":"taking away."
-}
----
+~~Title:apanayan~~
+{{description>taking away.}}
 
 ==== apanayan  ====
   * taking away --- [[books:sb:6:7:31|SB 6.7.31]]

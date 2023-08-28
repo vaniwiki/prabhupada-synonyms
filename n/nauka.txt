@@ -1,11 +1,5 @@
----json
-{
-    "name":"naukā",
-    "h1":"naukā",
-    "title":"naukā --- synonyms, prabhupada.io",
-    "description":"boat; boats; the boat."
-}
----
+~~Title:naukā~~
+{{description>boat; boats; the boat.}}
 
 ==== naukā  ====
   * boat --- [[books:cc:madhya:3:21|Madhya 3.21]], [[books:cc:madhya:16:114-115|Madhya 16.114-115]], [[books:cc:madhya:16:196|Madhya 16.196]]

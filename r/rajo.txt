@@ -1,11 +1,5 @@
----json
-{
-    "name":"rajo",
-    "h1":"rajo",
-    "title":"rajo --- synonyms, prabhupada.io",
-    "description":"the mode of passion."
-}
----
+~~Title:rajo~~
+{{description>the mode of passion.}}
 
 ==== rajo-guṇa  ====
   * the mode of passion --- [[books:bg:3:37|Bg. 3.37]]

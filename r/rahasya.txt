@@ -1,11 +1,5 @@
----json
-{
-    "name":"rahasya",
-    "h1":"rahasya",
-    "title":"rahasya --- synonyms, prabhupada.io",
-    "description":"joking."
-}
----
+~~Title:rahasya~~
+{{description>joking.}}
 
 ==== rahasya  ====
   * joking --- [[books:cc:madhya:20:86|Madhya 20.86]]

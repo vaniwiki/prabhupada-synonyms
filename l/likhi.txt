@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhi",
-    "h1":"likhi",
-    "title":"likhi --- synonyms, prabhupada.io",
-    "description":"I am writing; I shall write; I write; we should write."
-}
----
+~~Title:likhi~~
+{{description>I am writing; I shall write; I write; we should write.}}
 
 ==== likhi  ====
   * I am writing --- [[books:cc:antya:11:10|Antya 11.10]]

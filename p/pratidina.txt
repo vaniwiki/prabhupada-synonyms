@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratidina",
-    "h1":"pratidina",
-    "title":"pratidina --- synonyms, prabhupada.io",
-    "description":"daily; every day."
-}
----
+~~Title:pratidina~~
+{{description>daily; every day.}}
 
 ==== pratidina  ====
   * daily --- [[books:cc:antya:1:47|Antya 1.47]], [[books:cc:antya:1:61|Antya 1.61]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"isita",
-    "h1":"isita",
-    "title":"isita --- synonyms, prabhupada.io",
-    "description":"the Supreme Lord."
-}
----
+~~Title:isita~~
+{{description>the Supreme Lord.}}
 
 ==== īśitā  ====
   * the Supreme Lord --- [[books:sb:7:1:12|SB 7.1.12]]

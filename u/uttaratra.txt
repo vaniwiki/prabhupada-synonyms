@@ -1,11 +1,5 @@
----json
-{
-    "name":"uttaratra",
-    "h1":"uttaratra",
-    "title":"uttaratra --- synonyms, prabhupada.io",
-    "description":"in later chapters."
-}
----
+~~Title:uttaratra~~
+{{description>in later chapters.}}
 
 ==== uttaratra  ====
   * in later chapters --- [[books:sb:5:18:7|SB 5.18.7]]

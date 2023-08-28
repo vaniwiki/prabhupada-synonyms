@@ -1,11 +1,5 @@
----json
-{
-    "name":"pacāmi",
-    "h1":"pacāmi",
-    "title":"pacāmi --- synonyms, prabhupada.io",
-    "description":"digest."
-}
----
+~~Title:pacāmi~~
+{{description>digest.}}
 
 ==== pacāmi  ====
   * digest --- [[books:bg:15:14|Bg. 15.14]]

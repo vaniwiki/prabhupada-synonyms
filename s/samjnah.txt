@@ -1,11 +1,5 @@
----json
-{
-    "name":"samjnah",
-    "h1":"samjnah",
-    "title":"samjnah --- synonyms, prabhupada.io",
-    "description":"named."
-}
----
+~~Title:samjnah~~
+{{description>named.}}
 
 ==== saṁjñaḥ  ====
   * named --- [[books:sb:5:4:14|SB 5.4.14]]

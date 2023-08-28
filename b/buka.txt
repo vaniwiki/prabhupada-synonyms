@@ -1,11 +1,5 @@
----json
-{
-    "name":"buka",
-    "h1":"buka",
-    "title":"buka --- synonyms, prabhupada.io",
-    "description":"chest; heart."
-}
----
+~~Title:buka~~
+{{description>chest; heart.}}
 
 ==== buka  ====
   * chest --- [[books:cc:adi:17:181|Ādi 17.181]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimana",
-    "h1":"vimana",
-    "title":"vimana --- synonyms, prabhupada.io",
-    "description":"morose."
-}
----
+~~Title:vimana~~
+{{description>morose.}}
 
 ==== vimana  ====
   * morose --- [[books:cc:antya:19:29|Antya 19.29]]

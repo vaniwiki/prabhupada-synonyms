@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhavala",
-    "h1":"dhavala",
-    "title":"dhavala --- synonyms, prabhupada.io",
-    "description":"white."
-}
----
+~~Title:dhavala~~
+{{description>white.}}
 
 ==== dhavala  ====
   * white --- [[books:sb:5:25:5|SB 5.25.5]]

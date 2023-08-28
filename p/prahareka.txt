@@ -1,11 +1,5 @@
----json
-{
-    "name":"prahareka",
-    "h1":"prahareka",
-    "title":"prahareka --- synonyms, prabhupada.io",
-    "description":"about three hours; for about three hours."
-}
----
+~~Title:prahareka~~
+{{description>about three hours; for about three hours.}}
 
 ==== prahareka  ====
   * about three hours --- [[books:cc:adi:10:100|Ādi 10.100]], [[books:cc:madhya:3:118|Madhya 3.118]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"racane",
-    "h1":"racane",
-    "title":"racane --- synonyms, prabhupada.io",
-    "description":"in a circle."
-}
----
+~~Title:racane~~
+{{description>in a circle.}}
 
 ==== maṇḍalī-racane  ====
   * in a circle --- [[books:cc:antya:6:60|Antya 6.60]]

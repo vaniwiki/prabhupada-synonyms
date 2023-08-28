@@ -1,11 +1,5 @@
----json
-{
-    "name":"rtu",
-    "h1":"rtu",
-    "title":"rtu --- synonyms, prabhupada.io",
-    "description":"seasonal; seasons."
-}
----
+~~Title:rtu~~
+{{description>seasonal; seasons.}}
 
 ==== ṛtu  ====
   * seasonal --- [[books:sb:1:14:3|SB 1.14.3]]

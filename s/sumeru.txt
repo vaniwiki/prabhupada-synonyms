@@ -1,11 +1,5 @@
----json
-{
-    "name":"sumeru",
-    "h1":"sumeru",
-    "title":"sumeru --- synonyms, prabhupada.io",
-    "description":"as high as the mountain Sumeru."
-}
----
+~~Title:sumeru~~
+{{description>as high as the mountain Sumeru.}}
 
 ==== sumeru-ākāra  ====
   * as high as the mountain Sumeru --- [[books:cc:madhya:13:19|Madhya 13.19]]

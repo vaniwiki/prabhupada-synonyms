@@ -1,11 +1,5 @@
----json
-{
-    "name":"ślokam",
-    "h1":"ślokam",
-    "title":"ślokam --- synonyms, prabhupada.io",
-    "description":"verse."
-}
----
+~~Title:ślokam~~
+{{description>verse.}}
 
 ==== ślokam  ====
   * verse --- [[books:sb:9:20:37|SB 9.20.37]]

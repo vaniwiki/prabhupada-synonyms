@@ -1,11 +1,5 @@
----json
-{
-    "name":"gajau",
-    "h1":"gajau",
-    "title":"gajau --- synonyms, prabhupada.io",
-    "description":"two elephants."
-}
----
+~~Title:gajau~~
+{{description>two elephants.}}
 
 ==== gajau  ====
   * two elephants --- [[books:sb:10:10:4|SB 10.10.4]]

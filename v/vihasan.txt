@@ -1,11 +1,5 @@
----json
-{
-    "name":"vihasan",
-    "h1":"vihasan",
-    "title":"vihasan --- synonyms, prabhupada.io",
-    "description":"smiling externally."
-}
----
+~~Title:vihasan~~
+{{description>smiling externally.}}
 
 ==== vihasan  ====
   * smiling externally --- [[books:sb:10:1:53|SB 10.1.53]]

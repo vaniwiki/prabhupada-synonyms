@@ -1,11 +1,5 @@
----json
-{
-    "name":"asyan",
-    "h1":"asyan",
-    "title":"asyan --- synonyms, prabhupada.io",
-    "description":"killing."
-}
----
+~~Title:asyan~~
+{{description>killing.}}
 
 ==== asyan  ====
   * killing --- [[books:cc:madhya:13:79|Madhya 13.79]]

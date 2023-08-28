@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampraptah",
-    "h1":"sampraptah",
-    "title":"sampraptah --- synonyms, prabhupada.io",
-    "description":"reaching."
-}
----
+~~Title:sampraptah~~
+{{description>reaching.}}
 
 ==== samprāptaḥ  ====
   * reaching --- [[books:sb:1:4:6|SB 1.4.6]]

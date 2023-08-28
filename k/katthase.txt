@@ -1,11 +1,5 @@
----json
-{
-    "name":"katthase",
-    "h1":"katthase",
-    "title":"katthase --- synonyms, prabhupada.io",
-    "description":"you are talking madly."
-}
----
+~~Title:katthase~~
+{{description>you are talking madly.}}
 
 ==== katthase  ====
   * you are talking madly --- [[books:sb:9:18:16|SB 9.18.16]]

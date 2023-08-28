@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsala",
-    "h1":"vatsala",
-    "title":"vatsala --- synonyms, prabhupada.io",
-    "description":"O favorable Lord."
-}
----
+~~Title:vatsala~~
+{{description>O favorable Lord.}}
 
 ==== vatsala  ====
   * O favorable Lord --- [[books:sb:4:7:38|SB 4.7.38]]

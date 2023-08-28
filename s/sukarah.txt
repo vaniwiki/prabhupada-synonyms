@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukarah",
-    "h1":"sukarah",
-    "title":"sukarah --- synonyms, prabhupada.io",
-    "description":"hog; the boar."
-}
----
+~~Title:sukarah~~
+{{description>hog; the boar.}}
 
 ==== sūkaraḥ  ====
   * hog --- [[books:sb:3:10:22|SB 3.10.22]]

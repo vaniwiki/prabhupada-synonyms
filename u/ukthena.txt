@@ -1,11 +1,5 @@
----json
-{
-    "name":"ukthena",
-    "h1":"ukthena",
-    "title":"ukthena --- synonyms, prabhupada.io",
-    "description":"by life."
-}
----
+~~Title:ukthena~~
+{{description>by life.}}
 
 ==== ukthena  ====
   * by life --- [[books:sb:1:15:6|SB 1.15.6]]

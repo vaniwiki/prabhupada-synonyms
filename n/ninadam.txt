@@ -1,11 +1,5 @@
----json
-{
-    "name":"ninadam",
-    "h1":"ninadam",
-    "title":"ninadam --- synonyms, prabhupada.io",
-    "description":"sound."
-}
----
+~~Title:ninadam~~
+{{description>sound.}}
 
 ==== ninadam  ====
   * sound --- [[books:sb:1:11:3|SB 1.11.3]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nahi",
-    "h1":"nahi",
-    "title":"nahi --- synonyms, prabhupada.io",
-    "description":"am not; not."
-}
----
+~~Title:nahi~~
+{{description>am not; not.}}
 
 ==== nahi  ====
   * am not --- [[books:cc:madhya:12:161|Madhya 12.161]]

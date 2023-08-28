@@ -1,11 +1,5 @@
----json
-{
-    "name":"nadīte",
-    "h1":"nadīte",
-    "title":"nadīte --- synonyms, prabhupada.io",
-    "description":"in the river."
-}
----
+~~Title:nadīte~~
+{{description>in the river.}}
 
 ==== nadīte  ====
   * in the river --- [[books:cc:madhya:20:118|Madhya 20.118]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"aniba",
-    "h1":"aniba",
-    "title":"aniba --- synonyms, prabhupada.io",
-    "description":"shall bring."
-}
----
+~~Title:aniba~~
+{{description>shall bring.}}
 
 ==== āniba  ====
   * shall bring --- [[books:cc:antya:2:51|Antya 2.51]]

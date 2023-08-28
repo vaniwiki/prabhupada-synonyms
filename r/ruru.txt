@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruru",
-    "h1":"ruru",
-    "title":"ruru --- synonyms, prabhupada.io",
-    "description":"black deer."
-}
----
+~~Title:ruru~~
+{{description>black deer.}}
 
 ==== ruru  ====
   * black deer --- [[books:sb:4:26:10|SB 4.26.10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"parājitam",
-    "h1":"parājitam",
-    "title":"parājitam --- synonyms, prabhupada.io",
-    "description":"conquered."
-}
----
+~~Title:parājitam~~
+{{description>conquered.}}
 
 ==== parājitam  ====
   * conquered --- [[books:sb:4:12:42|SB 4.12.42]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthapita",
-    "h1":"sthapita",
-    "title":"sthapita --- synonyms, prabhupada.io",
-    "description":"installed."
-}
----
+~~Title:sthapita~~
+{{description>installed.}}
 
 ==== sthāpita  ====
   * installed --- [[books:cc:madhya:4:41|Madhya 4.41]]

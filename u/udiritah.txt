@@ -1,11 +1,5 @@
----json
-{
-    "name":"udiritah",
-    "h1":"udiritah",
-    "title":"udiritah --- synonyms, prabhupada.io",
-    "description":"described."
-}
----
+~~Title:udiritah~~
+{{description>described.}}
 
 ==== udīritaḥ  ====
   * described --- [[books:sb:3:29:35|SB 3.29.35]]

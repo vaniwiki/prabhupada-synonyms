@@ -1,11 +1,5 @@
----json
-{
-    "name":"kat",
-    "h1":"kat",
-    "title":"kat --- synonyms, prabhupada.io",
-    "description":"fault."
-}
----
+~~Title:kat~~
+{{description>fault.}}
 
 ==== kat  ====
   * fault --- [[books:sb:7:5:28|SB 7.5.28]]

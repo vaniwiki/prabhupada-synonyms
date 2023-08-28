@@ -1,11 +1,5 @@
----json
-{
-    "name":"bajana",
-    "h1":"bajana",
-    "title":"bajana --- synonyms, prabhupada.io",
-    "description":"accompanied by a musical band."
-}
----
+~~Title:bajana~~
+{{description>accompanied by a musical band.}}
 
 ==== bājanā bājāya  ====
   * accompanied by a musical band --- [[books:cc:madhya:8:14|Madhya 8.14]]

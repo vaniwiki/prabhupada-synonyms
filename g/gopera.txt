@@ -1,11 +1,5 @@
----json
-{
-    "name":"gopera",
-    "h1":"gopera",
-    "title":"gopera --- synonyms, prabhupada.io",
-    "description":"of a milkman."
-}
----
+~~Title:gopera~~
+{{description>of a milkman.}}
 
 ==== eka gopera  ====
   * of a milkman --- [[books:cc:antya:6:174|Antya 6.174]]

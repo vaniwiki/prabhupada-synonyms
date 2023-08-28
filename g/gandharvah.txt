@@ -1,11 +1,5 @@
----json
-{
-    "name":"gandharvah",
-    "h1":"gandharvah",
-    "title":"gandharvah --- synonyms, prabhupada.io",
-    "description":"a Gandharva."
-}
----
+~~Title:gandharvah~~
+{{description>a Gandharva.}}
 
 ==== gandharvaḥ  ====
   * a Gandharva --- [[books:sb:7:7:50|SB 7.7.50]]

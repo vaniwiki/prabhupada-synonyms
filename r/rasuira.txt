@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasuira",
-    "h1":"rasuira",
-    "title":"rasuira --- synonyms, prabhupada.io",
-    "description":"of cooking."
-}
----
+~~Title:rasuira~~
+{{description>of cooking.}}
 
 ==== rasuira  ====
   * of cooking --- [[books:cc:antya:12:143|Antya 12.143]]

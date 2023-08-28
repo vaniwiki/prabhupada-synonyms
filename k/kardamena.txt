@@ -1,11 +1,5 @@
----json
-{
-    "name":"kardamena",
-    "h1":"kardamena",
-    "title":"kardamena --- synonyms, prabhupada.io",
-    "description":"by Kardama."
-}
----
+~~Title:kardamena~~
+{{description>by Kardama.}}
 
 ==== kardamena  ====
   * by Kardama --- [[books:sb:3:33:19|SB 3.33.19]]

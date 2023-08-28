@@ -1,11 +1,5 @@
----json
-{
-    "name":"padavya",
-    "h1":"padavya",
-    "title":"padavya --- synonyms, prabhupada.io",
-    "description":"whose path cannot be ascertained."
-}
----
+~~Title:padavya~~
+{{description>whose path cannot be ascertained.}}
 
 ==== anavasita-padavya  ====
   * whose path cannot be ascertained --- [[books:sb:5:3:14|SB 5.3.14]]

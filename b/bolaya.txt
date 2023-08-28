@@ -1,11 +1,5 @@
----json
-{
-    "name":"bolaya",
-    "h1":"bolaya",
-    "title":"bolaya --- synonyms, prabhupada.io",
-    "description":"says; speaks."
-}
----
+~~Title:bolaya~~
+{{description>says; speaks.}}
 
 ==== bolaya  ====
   * says --- [[books:cc:adi:17:28|Ādi 17.28]]

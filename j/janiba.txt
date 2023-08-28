@@ -1,11 +1,5 @@
----json
-{
-    "name":"janiba",
-    "h1":"janiba",
-    "title":"janiba --- synonyms, prabhupada.io",
-    "description":"can understand; I can understand; shall i know; we shall understand."
-}
----
+~~Title:janiba~~
+{{description>can understand; I can understand; shall i know; we shall understand.}}
 
 ==== jāniba  ====
   * can understand --- [[books:cc:antya:5:65|Antya 5.65]]

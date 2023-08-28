@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevilena",
-    "h1":"sevilena",
-    "title":"sevilena --- synonyms, prabhupada.io",
-    "description":"served."
-}
----
+~~Title:sevilena~~
+{{description>served.}}
 
 ==== sevilena  ====
   * served --- [[books:cc:antya:6:308|Antya 6.308]]

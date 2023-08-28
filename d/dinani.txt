@@ -1,11 +1,5 @@
----json
-{
-    "name":"dināni",
-    "h1":"dināni",
-    "title":"dināni --- synonyms, prabhupada.io",
-    "description":"days."
-}
----
+~~Title:dināni~~
+{{description>days.}}
 
 ==== dināni  ====
   * days --- [[books:cc:madhya:2:18|Madhya 2.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pūjaka",
-    "h1":"pūjaka",
-    "title":"pūjaka --- synonyms, prabhupada.io",
-    "description":"priest."
-}
----
+~~Title:pūjaka~~
+{{description>priest.}}
 
 ==== pūjaka  ====
   * priest --- [[books:cc:adi:8:69|Ādi 8.69]]

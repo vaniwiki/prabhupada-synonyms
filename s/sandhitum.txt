@@ -1,11 +1,5 @@
----json
-{
-    "name":"sandhitum",
-    "h1":"sandhitum",
-    "title":"sandhitum --- synonyms, prabhupada.io",
-    "description":"to satisfy."
-}
----
+~~Title:sandhitum~~
+{{description>to satisfy.}}
 
 ==== sandhitum  ====
   * to satisfy --- [[books:sb:9:19:9|SB 9.19.9]]

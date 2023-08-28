@@ -1,11 +1,5 @@
----json
-{
-    "name":"phere",
-    "h1":"phere",
-    "title":"phere --- synonyms, prabhupada.io",
-    "description":"move about; wanders."
-}
----
+~~Title:phere~~
+{{description>move about; wanders.}}
 
 ==== phere  ====
   * move about --- [[books:cc:antya:4:9|Antya 4.9]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"yacchan",
-    "h1":"yacchan",
-    "title":"yacchan --- synonyms, prabhupada.io",
-    "description":"offering."
-}
----
+~~Title:yacchan~~
+{{description>offering.}}
 
 ==== yacchan  ====
   * offering --- [[books:sb:10:6:35-36|SB 10.6.35-36]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pradipah",
-    "h1":"pradipah",
-    "title":"pradipah --- synonyms, prabhupada.io",
-    "description":"a lamp; the beacon light."
-}
----
+~~Title:pradipah~~
+{{description>a lamp; the beacon light.}}
 
 ==== pradīpaḥ  ====
   * a lamp --- [[books:sb:5:11:8|SB 5.11.8]]

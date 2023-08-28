@@ -1,11 +1,5 @@
----json
-{
-    "name":"game",
-    "h1":"game",
-    "title":"game --- synonyms, prabhupada.io",
-    "description":"O most beautiful one, pleasing to the heart."
-}
----
+~~Title:game~~
+{{description>O most beautiful one, pleasing to the heart.}}
 
 ==== hṛdayam-game  ====
   * O most beautiful one, pleasing to the heart --- [[books:sb:9:20:11|SB 9.20.11]]

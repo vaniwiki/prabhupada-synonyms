@@ -1,11 +1,5 @@
----json
-{
-    "name":"vit",
-    "h1":"vit",
-    "title":"vit --- synonyms, prabhupada.io",
-    "description":"completely aware of."
-}
----
+~~Title:vit~~
+{{description>completely aware of.}}
 
 ==== vit  ====
   * completely aware of --- [[books:sb:8:6:28|SB 8.6.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prayuktam",
-    "h1":"prayuktam",
-    "title":"prayuktam --- synonyms, prabhupada.io",
-    "description":"engaged."
-}
----
+~~Title:prayuktam~~
+{{description>engaged.}}
 
 ==== prayuktam  ====
   * engaged --- [[books:sb:5:24:3|SB 5.24.3]]

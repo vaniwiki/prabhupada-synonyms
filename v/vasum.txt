@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasum",
-    "h1":"vasum",
-    "title":"vasum --- synonyms, prabhupada.io",
-    "description":"Vasu."
-}
----
+~~Title:vasum~~
+{{description>Vasu.}}
 
 ==== vasum  ====
   * Vasu --- [[books:sb:4:13:12|SB 4.13.12]]

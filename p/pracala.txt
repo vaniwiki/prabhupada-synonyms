@@ -1,11 +1,5 @@
----json
-{
-    "name":"pracala",
-    "h1":"pracala",
-    "title":"pracala --- synonyms, prabhupada.io",
-    "description":"busily engaged in."
-}
----
+~~Title:pracala~~
+{{description>busily engaged in.}}
 
 ==== pracala  ====
   * busily engaged in --- [[books:cc:antya:15:97|Antya 15.97]]

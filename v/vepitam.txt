@@ -1,11 +1,5 @@
----json
-{
-    "name":"vepitam",
-    "h1":"vepitam",
-    "title":"vepitam --- synonyms, prabhupada.io",
-    "description":"moving."
-}
----
+~~Title:vepitam~~
+{{description>moving.}}
 
 ==== vepitam  ====
   * moving --- [[books:sb:8:7:10|SB 8.7.10]]

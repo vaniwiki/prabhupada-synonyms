@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivadan",
-    "h1":"vivadan",
-    "title":"vivadan --- synonyms, prabhupada.io",
-    "description":"sometimes exclaiming loudly."
-}
----
+~~Title:vivadan~~
+{{description>sometimes exclaiming loudly.}}
 
 ==== vivadan  ====
   * sometimes exclaiming loudly --- [[books:sb:5:14:38|SB 5.14.38]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"duite",
-    "h1":"duite",
-    "title":"duite --- synonyms, prabhupada.io",
-    "description":"in the two pots; in two."
-}
----
+~~Title:duite~~
+{{description>in the two pots; in two.}}
 
 ==== duite  ====
   * in the two pots --- [[books:cc:antya:6:67|Antya 6.67]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"plavah",
-    "h1":"plavah",
-    "title":"plavah --- synonyms, prabhupada.io",
-    "description":"boat."
-}
----
+~~Title:plavah~~
+{{description>boat.}}
 
 ==== plavaḥ  ====
   * boat --- [[books:sb:1:6:34|SB 1.6.34]]

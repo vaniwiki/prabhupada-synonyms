@@ -1,11 +1,5 @@
----json
-{
-    "name":"lokaya",
-    "h1":"lokaya",
-    "title":"lokaya --- synonyms, prabhupada.io",
-    "description":"show."
-}
----
+~~Title:lokaya~~
+{{description>show.}}
 
 ==== lokaya  ====
   * show --- [[books:cc:antya:16:87|Antya 16.87]]

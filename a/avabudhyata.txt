@@ -1,11 +1,5 @@
----json
-{
-    "name":"avabudhyata",
-    "h1":"avabudhyata",
-    "title":"avabudhyata --- synonyms, prabhupada.io",
-    "description":"could understand."
-}
----
+~~Title:avabudhyata~~
+{{description>could understand.}}
 
 ==== avabudhyata  ====
   * could understand --- [[books:sb:9:19:5-6|SB 9.19.5-6]]

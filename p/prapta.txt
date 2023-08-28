@@ -1,11 +1,5 @@
----json
-{
-    "name":"prapta",
-    "h1":"prapta",
-    "title":"prapta --- synonyms, prabhupada.io",
-    "description":"achieved; acquired; having been achieved; obtained."
-}
----
+~~Title:prapta~~
+{{description>achieved; acquired; having been achieved; obtained.}}
 
 ==== prāpta  ====
   * achieved --- [[books:cc:antya:14:41|Antya 14.41]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarani",
-    "h1":"sarani",
-    "title":"sarani --- synonyms, prabhupada.io",
-    "description":"good result."
-}
----
+~~Title:sarani~~
+{{description>good result.}}
 
 ==== sārāṇi  ====
   * good result --- [[books:sb:8:5:47|SB 8.5.47]]

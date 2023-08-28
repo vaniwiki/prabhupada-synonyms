@@ -1,11 +1,5 @@
----json
-{
-    "name":"guvāka",
-    "h1":"guvāka",
-    "title":"guvāka --- synonyms, prabhupada.io",
-    "description":"spices."
-}
----
+~~Title:guvāka~~
+{{description>spices.}}
 
 ==== guvāka  ====
   * spices --- [[books:cc:antya:7:71|Antya 7.71]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kāvye",
-    "h1":"kāvye",
-    "title":"kāvye --- synonyms, prabhupada.io",
-    "description":"in the poetry."
-}
----
+~~Title:kāvye~~
+{{description>in the poetry.}}
 
 ==== kāvye  ====
   * in the poetry --- [[books:cc:adi:16:85|Ādi 16.85]]

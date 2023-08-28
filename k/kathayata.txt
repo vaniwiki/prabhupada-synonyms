@@ -1,11 +1,5 @@
----json
-{
-    "name":"kathayata",
-    "h1":"kathayata",
-    "title":"kathayata --- synonyms, prabhupada.io",
-    "description":"please speak."
-}
----
+~~Title:kathayata~~
+{{description>please speak.}}
 
 ==== kathayata  ====
   * please speak --- [[books:cc:antya:17:51|Antya 17.51]]

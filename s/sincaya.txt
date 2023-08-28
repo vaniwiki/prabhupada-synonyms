@@ -1,11 +1,5 @@
----json
-{
-    "name":"siñcaya",
-    "h1":"siñcaya",
-    "title":"siñcaya --- synonyms, prabhupada.io",
-    "description":"sprinkles."
-}
----
+~~Title:siñcaya~~
+{{description>sprinkles.}}
 
 ==== siñcaya  ====
   * sprinkles --- [[books:cc:madhya:8:210|Madhya 8.210]]

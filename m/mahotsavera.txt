@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahotsavera",
-    "h1":"mahotsavera",
-    "title":"mahotsavera --- synonyms, prabhupada.io",
-    "description":"for holding a festival."
-}
----
+~~Title:mahotsavera~~
+{{description>for holding a festival.}}
 
 ==== mahotsavera tare  ====
   * for holding a festival --- [[books:cc:antya:11:74|Antya 11.74]]

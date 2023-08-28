@@ -1,11 +1,5 @@
----json
-{
-    "name":"cakravālam",
-    "h1":"cakravālam",
-    "title":"cakravālam --- synonyms, prabhupada.io",
-    "description":"the cycle of repeated birth and death."
-}
----
+~~Title:cakravālam~~
+{{description>the cycle of repeated birth and death.}}
 
 ==== saṁsṛti-cakravālam  ====
   * the cycle of repeated birth and death --- [[books:sb:5:18:14|SB 5.18.14]]

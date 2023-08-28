@@ -1,11 +1,5 @@
----json
-{
-    "name":"ramayan",
-    "h1":"ramayan",
-    "title":"ramayan --- synonyms, prabhupada.io",
-    "description":"pleasing."
-}
----
+~~Title:ramayan~~
+{{description>pleasing.}}
 
 ==== ramayan  ====
   * pleasing --- [[books:sb:3:3:21|SB 3.3.21]], [[books:sb:4:7:21|SB 4.7.21]], [[books:sb:5:18:16|SB 5.18.16]], [[books:sb:10:8:12|SB 10.8.12]]

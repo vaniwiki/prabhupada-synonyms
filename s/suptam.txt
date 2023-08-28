@@ -1,11 +1,5 @@
----json
-{
-    "name":"suptam",
-    "h1":"suptam",
-    "title":"suptam --- synonyms, prabhupada.io",
-    "description":"a dream; asleep; sleeping; while sleeping."
-}
----
+~~Title:suptam~~
+{{description>a dream; asleep; sleeping; while sleeping.}}
 
 ==== suptam  ====
   * a dream --- [[books:sb:4:29:2b|SB 4.29.2b]]

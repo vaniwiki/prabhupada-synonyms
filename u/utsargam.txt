@@ -1,11 +1,5 @@
----json
-{
-    "name":"utsargam",
-    "h1":"utsargam",
-    "title":"utsargam --- synonyms, prabhupada.io",
-    "description":"Utsarga."
-}
----
+~~Title:utsargam~~
+{{description>Utsarga.}}
 
 ==== utsargam  ====
   * Utsarga --- [[books:sb:6:18:6|SB 6.18.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"yaccha",
-    "h1":"yaccha",
-    "title":"yaccha --- synonyms, prabhupada.io",
-    "description":"kindly give up."
-}
----
+~~Title:yaccha~~
+{{description>kindly give up.}}
 
 ==== yaccha  ====
   * kindly give up --- [[books:sb:7:9:14|SB 7.9.14]]

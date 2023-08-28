@@ -1,11 +1,5 @@
----json
-{
-    "name":"katthate",
-    "h1":"katthate",
-    "title":"katthate --- synonyms, prabhupada.io",
-    "description":"they say."
-}
----
+~~Title:katthate~~
+{{description>they say.}}
 
 ==== katthate  ====
   * they say --- [[books:sb:5:24:16|SB 5.24.16]]

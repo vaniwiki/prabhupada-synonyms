@@ -1,11 +1,5 @@
----json
-{
-    "name":"lekhoṅ",
-    "h1":"lekhoṅ",
-    "title":"lekhoṅ --- synonyms, prabhupada.io",
-    "description":"I write."
-}
----
+~~Title:lekhoṅ~~
+{{description>I write.}}
 
 ==== lekhoṅ  ====
   * I write --- [[books:cc:adi:5:160|Ādi 5.160]]

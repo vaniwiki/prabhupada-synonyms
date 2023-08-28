@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasa",
-    "h1":"avasa",
-    "title":"avasa --- synonyms, prabhupada.io",
-    "description":"helpless."
-}
----
+~~Title:avasa~~
+{{description>helpless.}}
 
 ==== avaśa  ====
   * helpless --- [[books:cc:antya:11:60|Antya 11.60]]

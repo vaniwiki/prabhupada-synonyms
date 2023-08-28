@@ -1,11 +1,5 @@
----json
-{
-    "name":"ramanti",
-    "h1":"ramanti",
-    "title":"ramanti --- synonyms, prabhupada.io",
-    "description":"enjoy transcendental bliss."
-}
----
+~~Title:ramanti~~
+{{description>enjoy transcendental bliss.}}
 
 ==== ramanti  ====
   * enjoy transcendental bliss --- [[books:bg:10:9|Bg. 10.9]]

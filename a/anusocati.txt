@@ -1,11 +1,5 @@
----json
-{
-    "name":"anusocati",
-    "h1":"anusocati",
-    "title":"anusocati --- synonyms, prabhupada.io",
-    "description":"laments over."
-}
----
+~~Title:anusocati~~
+{{description>laments over.}}
 
 ==== anuśocati  ====
   * laments over --- [[books:sb:6:15:2|SB 6.15.2]]

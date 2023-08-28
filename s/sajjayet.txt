@@ -1,11 +1,5 @@
----json
-{
-    "name":"sajjayet",
-    "h1":"sajjayet",
-    "title":"sajjayet --- synonyms, prabhupada.io",
-    "description":"may not be perplexed."
-}
----
+~~Title:sajjayet~~
+{{description>may not be perplexed.}}
 
 ==== sajjayet  ====
   * may not be perplexed --- [[books:sb:2:2:15|SB 2.2.15]]

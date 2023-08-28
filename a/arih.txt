@@ -1,11 +1,5 @@
----json
-{
-    "name":"arih",
-    "h1":"arih",
-    "title":"arih --- synonyms, prabhupada.io",
-    "description":"the enemy."
-}
----
+~~Title:arih~~
+{{description>the enemy.}}
 
 ==== ariḥ  ====
   * the enemy --- [[books:sb:6:8:14|SB 6.8.14]]

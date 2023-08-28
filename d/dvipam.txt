@@ -1,11 +1,5 @@
----json
-{
-    "name":"dvipam",
-    "h1":"dvipam",
-    "title":"dvipam --- synonyms, prabhupada.io",
-    "description":"an elephant; the elephant."
-}
----
+~~Title:dvipam~~
+{{description>an elephant; the elephant.}}
 
 ==== dvipam  ====
   * an elephant --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

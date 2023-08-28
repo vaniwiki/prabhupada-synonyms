@@ -1,11 +1,5 @@
----json
-{
-    "name":"brahmasva",
-    "h1":"brahmasva",
-    "title":"brahmasva --- synonyms, prabhupada.io",
-    "description":"a brāhmaṇa's property."
-}
----
+~~Title:brahmasva~~
+{{description>a brāhmaṇa's property.}}
 
 ==== brahmasva  ====
   * a //brāhmaṇa's// property --- [[books:cc:antya:9:89|Antya 9.89]]

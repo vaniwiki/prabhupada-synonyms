@@ -1,11 +1,5 @@
----json
-{
-    "name":"ghanta",
-    "h1":"ghanta",
-    "title":"ghanta --- synonyms, prabhupada.io",
-    "description":"bell."
-}
----
+~~Title:ghanta~~
+{{description>bell.}}
 
 ==== ghaṇṭā  ====
   * bell --- [[books:sb:1:10:15|SB 1.10.15]]

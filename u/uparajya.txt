@@ -1,11 +1,5 @@
----json
-{
-    "name":"uparajya",
-    "h1":"uparajya",
-    "title":"uparajya --- synonyms, prabhupada.io",
-    "description":"being connected."
-}
----
+~~Title:uparajya~~
+{{description>being connected.}}
 
 ==== uparajya  ====
   * being connected --- [[books:sb:4:29:69|SB 4.29.69]]

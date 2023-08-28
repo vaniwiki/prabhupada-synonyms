@@ -1,11 +1,5 @@
----json
-{
-    "name":"sanaka",
-    "h1":"sanaka",
-    "title":"sanaka --- synonyms, prabhupada.io",
-    "description":"headed by Sanaka."
-}
----
+~~Title:sanaka~~
+{{description>headed by Sanaka.}}
 
 ==== sanaka-ādayaḥ  ====
   * headed by Sanaka --- [[books:sb:3:15:12|SB 3.15.12]], [[books:sb:4:19:6|SB 4.19.6]], [[books:sb:4:29:42-44|SB 4.29.42-44]]

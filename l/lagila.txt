@@ -1,11 +1,5 @@
----json
-{
-    "name":"lagila",
-    "h1":"lagila",
-    "title":"lagila --- synonyms, prabhupada.io",
-    "description":"began."
-}
----
+~~Title:lagila~~
+{{description>began.}}
 
 ==== lagila  ====
   * began --- [[books:cc:adi:7:40|Ādi 7.40]]

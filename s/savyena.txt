@@ -1,11 +1,5 @@
----json
-{
-    "name":"savyena",
-    "h1":"savyena",
-    "title":"savyena --- synonyms, prabhupada.io",
-    "description":"left; to the left side."
-}
----
+~~Title:savyena~~
+{{description>left; to the left side.}}
 
 ==== savyena  ====
   * left --- [[books:sb:3:19:9|SB 3.19.9]]

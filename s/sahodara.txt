@@ -1,11 +1,5 @@
----json
-{
-    "name":"sahodara",
-    "h1":"sahodara",
-    "title":"sahodara --- synonyms, prabhupada.io",
-    "description":"own brothers."
-}
----
+~~Title:sahodara~~
+{{description>own brothers.}}
 
 ==== sahodara  ====
   * own brothers --- [[books:cc:adi:10:9|Ādi 10.9]]

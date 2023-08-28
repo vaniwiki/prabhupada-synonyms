@@ -1,11 +1,5 @@
----json
-{
-    "name":"nasi",
-    "h1":"nasi",
-    "title":"nasi --- synonyms, prabhupada.io",
-    "description":"by the nose; in the nose."
-}
----
+~~Title:nasi~~
+{{description>by the nose; in the nose.}}
 
 ==== nasi  ====
   * by the nose --- [[books:sb:1:13:42|SB 1.13.42]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharanim",
-    "h1":"dharanim",
-    "title":"dharanim --- synonyms, prabhupada.io",
-    "description":"the earth."
-}
----
+~~Title:dharanim~~
+{{description>the earth.}}
 
 ==== dharaṇim  ====
   * the earth --- [[books:sb:5:13:24|SB 5.13.24]]

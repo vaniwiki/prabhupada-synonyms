@@ -1,11 +1,5 @@
----json
-{
-    "name":"veśanam",
-    "h1":"veśanam",
-    "title":"veśanam --- synonyms, prabhupada.io",
-    "description":"the entering."
-}
----
+~~Title:veśanam~~
+{{description>the entering.}}
 
 ==== veśanam  ====
   * the entering --- [[books:sb:10:12:26|SB 10.12.26]]

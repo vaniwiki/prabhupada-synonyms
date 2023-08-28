@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarje",
-    "h1":"tarje",
-    "title":"tarje --- synonyms, prabhupada.io",
-    "description":"threatens."
-}
----
+~~Title:tarje~~
+{{description>threatens.}}
 
 ==== tarje garje  ====
   * threatens --- [[books:cc:antya:6:23|Antya 6.23]]

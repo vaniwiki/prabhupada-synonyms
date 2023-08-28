@@ -1,11 +1,5 @@
----json
-{
-    "name":"praharat",
-    "h1":"praharat",
-    "title":"praharat --- synonyms, prabhupada.io",
-    "description":"slashing."
-}
----
+~~Title:praharat~~
+{{description>slashing.}}
 
 ==== praharat  ====
   * slashing --- [[books:sb:9:15:31|SB 9.15.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"buddhe",
-    "h1":"buddhe",
-    "title":"buddhe --- synonyms, prabhupada.io",
-    "description":"intelligence."
-}
----
+~~Title:buddhe~~
+{{description>intelligence.}}
 
 ==== buddhe  ====
   * intelligence --- [[books:sb:1:18:42|SB 1.18.42]]

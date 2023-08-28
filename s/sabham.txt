@@ -1,11 +1,5 @@
----json
-{
-    "name":"sabhām",
-    "h1":"sabhām",
-    "title":"sabhām --- synonyms, prabhupada.io",
-    "description":"assembly house; the assembly."
-}
----
+~~Title:sabhām~~
+{{description>assembly house; the assembly.}}
 
 ==== sabhām  ====
   * assembly house --- [[books:sb:1:14:38|SB 1.14.38]]

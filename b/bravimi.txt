@@ -1,11 +1,5 @@
----json
-{
-    "name":"bravīmi",
-    "h1":"bravīmi",
-    "title":"bravīmi --- synonyms, prabhupada.io",
-    "description":"I am speaking."
-}
----
+~~Title:bravīmi~~
+{{description>I am speaking.}}
 
 ==== bravīmi  ====
   * I am speaking --- [[books:bg:1:7|Bg. 1.7]], [[books:sb:5:1:11|SB 5.1.11]]

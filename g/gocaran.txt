@@ -1,11 +1,5 @@
----json
-{
-    "name":"gocarān",
-    "h1":"gocarān",
-    "title":"gocarān --- synonyms, prabhupada.io",
-    "description":"the forest animals."
-}
----
+~~Title:gocarān~~
+{{description>the forest animals.}}
 
 ==== vana-gocarān  ====
   * the forest animals --- [[books:sb:4:26:5|SB 4.26.5]]

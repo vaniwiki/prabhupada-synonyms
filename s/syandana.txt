@@ -1,11 +1,5 @@
----json
-{
-    "name":"syandana",
-    "h1":"syandana",
-    "title":"syandana --- synonyms, prabhupada.io",
-    "description":"in nice chariots."
-}
----
+~~Title:syandana~~
+{{description>in nice chariots.}}
 
 ==== syandana  ====
   * in nice chariots --- [[books:sb:9:4:27|SB 9.4.27]]

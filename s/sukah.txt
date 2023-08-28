@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukah",
-    "h1":"sukah",
-    "title":"sukah --- synonyms, prabhupada.io",
-    "description":"Śrī Śukadeva Gosvāmī; Śuka Gosvāmī; Śukadeva Gosvāmī."
-}
----
+~~Title:sukah~~
+{{description>Śrī Śukadeva Gosvāmī; Śuka Gosvāmī; Śukadeva Gosvāmī.}}
 
 ==== śukaḥ  ====
   * Śrī Śukadeva Gosvāmī --- [[books:sb:1:4:2|SB 1.4.2]], [[books:sb:1:12:3|SB 1.12.3]]

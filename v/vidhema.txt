@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidhema",
-    "h1":"vidhema",
-    "title":"vidhema --- synonyms, prabhupada.io",
-    "description":"do we offer; I do; let us offer."
-}
----
+~~Title:vidhema~~
+{{description>do we offer; I do; let us offer.}}
 
 ==== vidhema  ====
   * do we offer --- [[books:sb:3:13:42|SB 3.13.42]]

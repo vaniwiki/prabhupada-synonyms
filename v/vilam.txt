@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilam",
-    "h1":"vilam",
-    "title":"vilam --- synonyms, prabhupada.io",
-    "description":"lingering."
-}
----
+~~Title:vilam~~
+{{description>lingering.}}
 
 ==== vilam-bamānaḥ  ====
   * lingering --- [[books:sb:5:22:16|SB 5.22.16]]

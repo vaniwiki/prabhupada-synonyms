@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevate",
-    "h1":"sevate",
-    "title":"sevate --- synonyms, prabhupada.io",
-    "description":"renders service."
-}
----
+~~Title:sevate~~
+{{description>renders service.}}
 
 ==== sevate  ====
   * renders service --- [[books:bg:14:26|Bg. 14.26]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nayanti",
-    "h1":"nayanti",
-    "title":"nayanti --- synonyms, prabhupada.io",
-    "description":"conduct."
-}
----
+~~Title:nayanti~~
+{{description>conduct.}}
 
 ==== nayanti  ====
   * conduct --- [[books:sb:8:14:3|SB 8.14.3]]

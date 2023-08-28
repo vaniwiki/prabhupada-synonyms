@@ -1,11 +1,5 @@
----json
-{
-    "name":"pathyam",
-    "h1":"pathyam",
-    "title":"pathyam --- synonyms, prabhupada.io",
-    "description":"suitable."
-}
----
+~~Title:pathyam~~
+{{description>suitable.}}
 
 ==== pathyam  ====
   * suitable --- [[books:sb:6:1:12|SB 6.1.12]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"aloka",
-    "h1":"aloka",
-    "title":"aloka --- synonyms, prabhupada.io",
-    "description":"without seeing."
-}
----
+~~Title:aloka~~
+{{description>without seeing.}}
 
 ==== aloka  ====
   * without seeing --- [[books:cc:madhya:4:197|Madhya 4.197]], [[books:cc:antya:8:34|Antya 8.34]]

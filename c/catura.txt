@@ -1,11 +1,5 @@
----json
-{
-    "name":"catura",
-    "h1":"catura",
-    "title":"catura --- synonyms, prabhupada.io",
-    "description":"expert; intelligent."
-}
----
+~~Title:catura~~
+{{description>expert; intelligent.}}
 
 ==== catura  ====
   * expert --- [[books:cc:madhya:15:140|Madhya 15.140]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pranitam",
-    "h1":"pranitam",
-    "title":"pranitam --- synonyms, prabhupada.io",
-    "description":"enacted."
-}
----
+~~Title:pranitam~~
+{{description>enacted.}}
 
 ==== praṇītam  ====
   * enacted --- [[books:sb:6:3:19|SB 6.3.19]]

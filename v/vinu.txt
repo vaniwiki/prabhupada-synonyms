@@ -1,11 +1,5 @@
----json
-{
-    "name":"vinu",
-    "h1":"vinu",
-    "title":"vinu --- synonyms, prabhupada.io",
-    "description":"but; except; except for; without."
-}
----
+~~Title:vinu~~
+{{description>but; except; except for; without.}}
 
 ==== vinu  ====
   * but --- [[books:cc:adi:5:207|Ādi 5.207]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicchayam",
-    "h1":"vicchayam",
-    "title":"vicchayam --- synonyms, prabhupada.io",
-    "description":"pale appearance."
-}
----
+~~Title:vicchayam~~
+{{description>pale appearance.}}
 
 ==== vicchāyam  ====
   * pale appearance --- [[books:sb:1:14:24|SB 1.14.24]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gatra",
-    "h1":"gatra",
-    "title":"gatra --- synonyms, prabhupada.io",
-    "description":"bodily; body; her body; his body; the bodies."
-}
----
+~~Title:gatra~~
+{{description>bodily; body; her body; his body; the bodies.}}
 
 ==== gātra  ====
   * bodily --- [[books:sb:4:21:18|SB 4.21.18]]

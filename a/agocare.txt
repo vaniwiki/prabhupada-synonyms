@@ -1,11 +1,5 @@
----json
-{
-    "name":"agocare",
-    "h1":"agocare",
-    "title":"agocare --- synonyms, prabhupada.io",
-    "description":"in the absence of."
-}
----
+~~Title:agocare~~
+{{description>in the absence of.}}
 
 ==== agocare  ====
   * in the absence of --- [[books:cc:antya:12:34|Antya 12.34]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gatham",
-    "h1":"gatham",
-    "title":"gatham --- synonyms, prabhupada.io",
-    "description":"history; poetic verses of glorification; story; the narration."
-}
----
+~~Title:gatham~~
+{{description>history; poetic verses of glorification; story; the narration.}}
 
 ==== gāthām  ====
   * history --- [[books:sb:9:19:2|SB 9.19.2]]

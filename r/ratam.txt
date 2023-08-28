@@ -1,11 +1,5 @@
----json
-{
-    "name":"ratam",
-    "h1":"ratam",
-    "title":"ratam --- synonyms, prabhupada.io",
-    "description":"attached."
-}
----
+~~Title:ratam~~
+{{description>attached.}}
 
 ==== ratam  ====
   * attached --- [[books:sb:3:25:15|SB 3.25.15]]

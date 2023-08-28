@@ -1,11 +1,5 @@
----json
-{
-    "name":"kiñca",
-    "h1":"kiñca",
-    "title":"kiñca --- synonyms, prabhupada.io",
-    "description":"anything; moreover; some more."
-}
----
+~~Title:kiñca~~
+{{description>anything; moreover; some more.}}
 
 ==== kiñca  ====
   * anything --- [[books:sb:6:4:47|SB 6.4.47]]

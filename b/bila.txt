@@ -1,11 +1,5 @@
----json
-{
-    "name":"bila",
-    "h1":"bila",
-    "title":"bila --- synonyms, prabhupada.io",
-    "description":"the subterranean planets."
-}
----
+~~Title:bila~~
+{{description>the subterranean planets.}}
 
 ==== bila-ayanam  ====
   * the subterranean planets --- [[books:sb:5:24:16|SB 5.24.16]]

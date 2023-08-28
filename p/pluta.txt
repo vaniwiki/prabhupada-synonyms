@@ -1,11 +1,5 @@
----json
-{
-    "name":"pluta",
-    "h1":"pluta",
-    "title":"pluta --- synonyms, prabhupada.io",
-    "description":"enhanced by."
-}
----
+~~Title:pluta~~
+{{description>enhanced by.}}
 
 ==== pluta  ====
   * enhanced by --- [[books:sb:3:2:14|SB 3.2.14]]

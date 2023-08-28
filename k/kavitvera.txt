@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavitvera",
-    "h1":"kavitvera",
-    "title":"kavitvera --- synonyms, prabhupada.io",
-    "description":"of poetic quality."
-}
----
+~~Title:kavitvera~~
+{{description>of poetic quality.}}
 
 ==== kavitvera  ====
   * of poetic quality --- [[books:cc:adi:16:50|Ādi 16.50]]

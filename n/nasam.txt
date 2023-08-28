@@ -1,11 +1,5 @@
----json
-{
-    "name":"nasam",
-    "h1":"nasam",
-    "title":"nasam --- synonyms, prabhupada.io",
-    "description":"and nostrils; His nose."
-}
----
+~~Title:nasam~~
+{{description>and nostrils; His nose.}}
 
 ==== nāsam  ====
   * and nostrils --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

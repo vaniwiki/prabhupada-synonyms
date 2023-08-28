@@ -1,11 +1,5 @@
----json
-{
-    "name":"raudram",
-    "h1":"raudram",
-    "title":"raudram --- synonyms, prabhupada.io",
-    "description":"very fierce."
-}
----
+~~Title:raudram~~
+{{description>very fierce.}}
 
 ==== raudram  ====
   * very fierce --- [[books:sb:10:6:15-17|SB 10.6.15-17]]

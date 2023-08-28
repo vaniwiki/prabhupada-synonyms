@@ -1,11 +1,5 @@
----json
-{
-    "name":"varuna",
-    "h1":"varuna",
-    "title":"varuna --- synonyms, prabhupada.io",
-    "description":"the demigod controlling water."
-}
----
+~~Title:varuna~~
+{{description>the demigod controlling water.}}
 
 ==== varuṇa  ====
   * the demigod controlling water --- [[books:sb:8:10:26|SB 8.10.26]]

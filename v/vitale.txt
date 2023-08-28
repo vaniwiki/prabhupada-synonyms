@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitale",
-    "h1":"vitale",
-    "title":"vitale --- synonyms, prabhupada.io",
-    "description":"on the planet."
-}
----
+~~Title:vitale~~
+{{description>on the planet.}}
 
 ==== vitale  ====
   * on the planet --- [[books:sb:5:24:17|SB 5.24.17]]

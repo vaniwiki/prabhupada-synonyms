@@ -1,11 +1,5 @@
----json
-{
-    "name":"narakasya",
-    "h1":"narakasya",
-    "title":"narakasya --- synonyms, prabhupada.io",
-    "description":"hellish."
-}
----
+~~Title:narakasya~~
+{{description>hellish.}}
 
 ==== narakasya  ====
   * hellish --- [[books:bg:16:21|Bg. 16.21]]

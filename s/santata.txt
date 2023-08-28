@@ -1,11 +1,5 @@
----json
-{
-    "name":"santata",
-    "h1":"santata",
-    "title":"santata --- synonyms, prabhupada.io",
-    "description":"always."
-}
----
+~~Title:santata~~
+{{description>always.}}
 
 ==== santata  ====
   * always --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

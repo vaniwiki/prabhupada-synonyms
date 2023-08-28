@@ -1,11 +1,5 @@
----json
-{
-    "name":"kevalena",
-    "h1":"kevalena",
-    "title":"kevalena --- synonyms, prabhupada.io",
-    "description":"only; simply."
-}
----
+~~Title:kevalena~~
+{{description>only; simply.}}
 
 ==== kevalena  ====
   * only --- [[books:sb:9:4:39-40|SB 9.4.39-40]]

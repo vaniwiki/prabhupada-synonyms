@@ -1,11 +1,5 @@
----json
-{
-    "name":"akhara",
-    "h1":"akhara",
-    "title":"akhara --- synonyms, prabhupada.io",
-    "description":"soft."
-}
----
+~~Title:akhara~~
+{{description>soft.}}
 
 ==== akhara  ====
   * soft --- [[books:sb:5:8:23|SB 5.8.23]]

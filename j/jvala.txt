@@ -1,11 +1,5 @@
----json
-{
-    "name":"jvala",
-    "h1":"jvala",
-    "title":"jvala --- synonyms, prabhupada.io",
-    "description":"light up."
-}
----
+~~Title:jvala~~
+{{description>light up.}}
 
 ==== jvāla  ====
   * light up --- [[books:cc:adi:17:134|Ādi 17.134]]

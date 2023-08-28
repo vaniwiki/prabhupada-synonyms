@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidvat",
-    "h1":"vidvat",
-    "title":"vidvat --- synonyms, prabhupada.io",
-    "description":"advanced in knowledge."
-}
----
+~~Title:vidvat~~
+{{description>advanced in knowledge.}}
 
 ==== vidvat  ====
   * advanced in knowledge --- [[books:sb:7:7:41|SB 7.7.41]]

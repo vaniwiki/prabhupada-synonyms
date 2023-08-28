@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhojanera",
-    "h1":"bhojanera",
-    "title":"bhojanera --- synonyms, prabhupada.io",
-    "description":"at the time of eating."
-}
----
+~~Title:bhojanera~~
+{{description>at the time of eating.}}
 
 ==== bhojanera kāle  ====
   * at the time of eating --- [[books:cc:antya:1:21|Antya 1.21]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"agnira",
-    "h1":"agnira",
-    "title":"agnira --- synonyms, prabhupada.io",
-    "description":"of fire."
-}
----
+~~Title:agnira~~
+{{description>of fire.}}
 
 ==== agnira  ====
   * of fire --- [[books:cc:madhya:9:202|Madhya 9.202]]

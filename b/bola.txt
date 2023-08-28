@@ -1,11 +1,5 @@
----json
-{
-    "name":"bola",
-    "h1":"bola",
-    "title":"bola --- synonyms, prabhupada.io",
-    "description":"instruction; language; the words; words."
-}
----
+~~Title:bola~~
+{{description>instruction; language; the words; words.}}
 
 ==== bola  ====
   * instruction --- [[books:cc:madhya:21:134|Madhya 21.134]]

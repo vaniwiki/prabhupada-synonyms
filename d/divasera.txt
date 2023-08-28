@@ -1,11 +1,5 @@
----json
-{
-    "name":"divasera",
-    "h1":"divasera",
-    "title":"divasera --- synonyms, prabhupada.io",
-    "description":"of that day."
-}
----
+~~Title:divasera~~
+{{description>of that day.}}
 
 ==== se divasera  ====
   * of that day --- [[books:cc:antya:10:98|Antya 10.98]]

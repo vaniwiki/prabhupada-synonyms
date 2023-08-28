@@ -1,11 +1,5 @@
----json
-{
-    "name":"melā",
-    "h1":"melā",
-    "title":"melā --- synonyms, prabhupada.io",
-    "description":"meeting."
-}
----
+~~Title:melā~~
+{{description>meeting.}}
 
 ==== melā  ====
   * meeting --- [[books:cc:antya:16:130|Antya 16.130]]

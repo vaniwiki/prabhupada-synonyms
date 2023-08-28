@@ -1,11 +1,5 @@
----json
-{
-    "name":"kumut",
-    "h1":"kumut",
-    "title":"kumut --- synonyms, prabhupada.io",
-    "description":"the moon, which is followed by rows of lilies."
-}
----
+~~Title:kumut~~
+{{description>the moon, which is followed by rows of lilies.}}
 
 ==== kumut-gaṇavān  ====
   * the moon, which is followed by rows of lilies --- [[books:sb:3:23:38|SB 3.23.38]]

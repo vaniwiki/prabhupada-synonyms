@@ -1,11 +1,5 @@
----json
-{
-    "name":"aphala",
-    "h1":"aphala",
-    "title":"aphala --- synonyms, prabhupada.io",
-    "description":"without desires for fruits."
-}
----
+~~Title:aphala~~
+{{description>without desires for fruits.}}
 
 ==== aphala-ākāṅkṣibhiḥ  ====
   * without desires for fruits --- [[books:bg:17:17|Bg. 17.17]]

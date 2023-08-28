@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhojane",
-    "h1":"bhojane",
-    "title":"bhojane --- synonyms, prabhupada.io",
-    "description":"eating; take prasāda; to eat; to take lunch."
-}
----
+~~Title:bhojane~~
+{{description>eating; take prasāda; to eat; to take lunch.}}
 
 ==== bhojane  ====
   * eating --- [[books:cc:madhya:10:138|Madhya 10.138]], [[books:cc:antya:3:30|Antya 3.30]], [[books:cc:antya:12:141|Antya 12.141]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kujena",
-    "h1":"kujena",
-    "title":"kujena --- synonyms, prabhupada.io",
-    "description":"by the demon."
-}
----
+~~Title:kujena~~
+{{description>by the demon.}}
 
 ==== kujena  ====
   * by the demon --- [[books:sb:3:3:7|SB 3.3.7]]

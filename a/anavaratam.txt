@@ -1,11 +1,5 @@
----json
-{
-    "name":"anavaratam",
-    "h1":"anavaratam",
-    "title":"anavaratam --- synonyms, prabhupada.io",
-    "description":"constantly."
-}
----
+~~Title:anavaratam~~
+{{description>constantly.}}
 
 ==== anavaratam  ====
   * constantly --- [[books:sb:5:24:29|SB 5.24.29]]

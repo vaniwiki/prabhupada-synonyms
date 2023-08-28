@@ -1,11 +1,5 @@
----json
-{
-    "name":"udvahanti",
-    "h1":"udvahanti",
-    "title":"udvahanti --- synonyms, prabhupada.io",
-    "description":"they carry."
-}
----
+~~Title:udvahanti~~
+{{description>they carry.}}
 
 ==== udvahanti  ====
   * they carry --- [[books:sb:5:17:3|SB 5.17.3]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"tritasya",
-    "h1":"tritasya",
-    "title":"tritasya --- synonyms, prabhupada.io",
-    "description":"the pilgrimage site named Trita."
-}
----
+~~Title:tritasya~~
+{{description>the pilgrimage site named Trita.}}
 
 ==== tritasya  ====
   * the pilgrimage site named Trita --- [[books:sb:3:1:22|SB 3.1.22]]

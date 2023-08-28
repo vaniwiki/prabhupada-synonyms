@@ -1,11 +1,5 @@
----json
-{
-    "name":"apsara",
-    "h1":"apsara",
-    "title":"apsara --- synonyms, prabhupada.io",
-    "description":"the residents of the angelic planet."
-}
----
+~~Title:apsara~~
+{{description>the residents of the angelic planet.}}
 
 ==== apsara  ====
   * the residents of the angelic planet --- [[books:sb:7:8:37-39|SB 7.8.37-39]]

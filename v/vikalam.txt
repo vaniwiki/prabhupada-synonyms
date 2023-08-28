@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikalam",
-    "h1":"vikalam",
-    "title":"vikalam --- synonyms, prabhupada.io",
-    "description":"very sorrowfully."
-}
----
+~~Title:vikalam~~
+{{description>very sorrowfully.}}
 
 ==== vikala-vikalam  ====
   * very sorrowfully --- [[books:cc:antya:14:73|Antya 14.73]]

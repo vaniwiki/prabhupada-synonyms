@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasala",
-    "h1":"rasala",
-    "title":"rasala --- synonyms, prabhupada.io",
-    "description":"delicious; fruit juice; very tasteful."
-}
----
+~~Title:rasala~~
+{{description>delicious; fruit juice; very tasteful.}}
 
 ==== rasālā  ====
   * delicious --- [[books:cc:madhya:15:218|Madhya 15.218]]

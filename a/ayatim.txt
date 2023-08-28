@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayatim",
-    "h1":"ayatim",
-    "title":"ayatim --- synonyms, prabhupada.io",
-    "description":"Āyati."
-}
----
+~~Title:ayatim~~
+{{description>Āyati.}}
 
 ==== āyatim  ====
   * Āyati --- [[books:sb:4:1:44|SB 4.1.44]]

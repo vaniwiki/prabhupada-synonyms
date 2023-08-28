@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarkera",
-    "h1":"tarkera",
-    "title":"tarkera --- synonyms, prabhupada.io",
-    "description":"by argument and logic; of argument."
-}
----
+~~Title:tarkera~~
+{{description>by argument and logic; of argument.}}
 
 ==== tarkera  ====
   * by argument and logic --- [[books:cc:antya:3:206|Antya 3.206]]

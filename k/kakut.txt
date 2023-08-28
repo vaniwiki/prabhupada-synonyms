@@ -1,11 +1,5 @@
----json
-{
-    "name":"kakut",
-    "h1":"kakut",
-    "title":"kakut --- synonyms, prabhupada.io",
-    "description":"Kakud."
-}
----
+~~Title:kakut~~
+{{description>Kakud.}}
 
 ==== kakut  ====
   * Kakud --- [[books:sb:6:6:4|SB 6.6.4]]

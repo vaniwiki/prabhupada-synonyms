@@ -1,11 +1,5 @@
----json
-{
-    "name":"mantrān",
-    "h1":"mantrān",
-    "title":"mantrān --- synonyms, prabhupada.io",
-    "description":"instructions."
-}
----
+~~Title:mantrān~~
+{{description>instructions.}}
 
 ==== mantrān  ====
   * instructions --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

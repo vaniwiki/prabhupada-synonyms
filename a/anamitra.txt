@@ -1,11 +1,5 @@
----json
-{
-    "name":"anamitra",
-    "h1":"anamitra",
-    "title":"anamitra --- synonyms, prabhupada.io",
-    "description":"the son of Anamitra."
-}
----
+~~Title:anamitra~~
+{{description>the son of Anamitra.}}
 
 ==== anamitra-sutaḥ  ====
   * the son of Anamitra --- [[books:sb:9:24:13|SB 9.24.13]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"jatharena",
-    "h1":"jatharena",
-    "title":"jatharena --- synonyms, prabhupada.io",
-    "description":"within the belly."
-}
----
+~~Title:jatharena~~
+{{description>within the belly.}}
 
 ==== jaṭhareṇa  ====
   * within the belly --- [[books:sb:4:9:14|SB 4.9.14]]

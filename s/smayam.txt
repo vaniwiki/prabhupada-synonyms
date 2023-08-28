@@ -1,11 +1,5 @@
----json
-{
-    "name":"smayam",
-    "h1":"smayam",
-    "title":"smayam --- synonyms, prabhupada.io",
-    "description":"Smaya; very proud."
-}
----
+~~Title:smayam~~
+{{description>Smaya; very proud.}}
 
 ==== smayam  ====
   * Smaya --- [[books:sb:4:1:49-52|SB 4.1.49-52]]

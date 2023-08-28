@@ -1,11 +1,5 @@
----json
-{
-    "name":"eibaḍa",
-    "h1":"eibaḍa",
-    "title":"eibaḍa --- synonyms, prabhupada.io",
-    "description":"this is very."
-}
----
+~~Title:eibaḍa~~
+{{description>this is very.}}
 
 ==== eibaḍa  ====
   * this is very --- [[books:cc:adi:14:79|Ādi 14.79]]

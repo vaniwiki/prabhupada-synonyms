@@ -1,11 +1,5 @@
----json
-{
-    "name":"manastvam",
-    "h1":"manastvam",
-    "title":"manastvam --- synonyms, prabhupada.io",
-    "description":"the position of a devotee without material desires."
-}
----
+~~Title:manastvam~~
+{{description>the position of a devotee without material desires.}}
 
 ==== su-manastvam  ====
   * the position of a devotee without material desires --- [[books:cc:adi:15:1|Ādi 15.1]]

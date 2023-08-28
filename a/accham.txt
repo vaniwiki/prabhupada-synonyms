@@ -1,11 +1,5 @@
----json
-{
-    "name":"accham",
-    "h1":"accham",
-    "title":"accham --- synonyms, prabhupada.io",
-    "description":"clear."
-}
----
+~~Title:accham~~
+{{description>clear.}}
 
 ==== su-accham  ====
   * clear --- [[books:sb:4:24:20|SB 4.24.20]]

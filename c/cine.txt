@@ -1,11 +1,5 @@
----json
-{
-    "name":"cine",
-    "h1":"cine",
-    "title":"cine --- synonyms, prabhupada.io",
-    "description":"knows; recognized."
-}
----
+~~Title:cine~~
+{{description>knows; recognized.}}
 
 ==== cine  ====
   * knows --- [[books:cc:madhya:11:71|Madhya 11.71]]

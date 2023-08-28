@@ -1,11 +1,5 @@
----json
-{
-    "name":"svarya",
-    "h1":"svarya",
-    "title":"svarya --- synonyms, prabhupada.io",
-    "description":"with great humming."
-}
----
+~~Title:svarya~~
+{{description>with great humming.}}
 
 ==== sau-svarya  ====
   * with great humming --- [[books:sb:4:24:22|SB 4.24.22]]

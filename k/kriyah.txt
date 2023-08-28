@@ -1,11 +1,5 @@
----json
-{
-    "name":"kriyah",
-    "h1":"kriyah",
-    "title":"kriyah --- synonyms, prabhupada.io",
-    "description":"activities."
-}
----
+~~Title:kriyah~~
+{{description>activities.}}
 
 ==== kriyaḥ  ====
   * activities --- [[books:bg:6:11-12|Bg. 6.11-12]]

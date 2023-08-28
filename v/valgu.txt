@@ -1,11 +1,5 @@
----json
-{
-    "name":"valgu",
-    "h1":"valgu",
-    "title":"valgu --- synonyms, prabhupada.io",
-    "description":"a little; beautiful; lovely; pleasing; sweet; very beautiful; very pleasing."
-}
----
+~~Title:valgu~~
+{{description>a little; beautiful; lovely; pleasing; sweet; very beautiful; very pleasing.}}
 
 ==== valgu  ====
   * a little --- [[books:sb:5:2:6|SB 5.2.6]]

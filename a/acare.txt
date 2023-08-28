@@ -1,11 +1,5 @@
----json
-{
-    "name":"acare",
-    "h1":"acare",
-    "title":"acare --- synonyms, prabhupada.io",
-    "description":"behaves."
-}
----
+~~Title:acare~~
+{{description>behaves.}}
 
 ==== ācare  ====
   * behaves --- [[books:cc:antya:4:102|Antya 4.102]]

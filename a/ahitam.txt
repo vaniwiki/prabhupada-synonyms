@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahitam",
-    "h1":"ahitam",
-    "title":"ahitam --- synonyms, prabhupada.io",
-    "description":"enemy; injurious; not beneficial."
-}
----
+~~Title:ahitam~~
+{{description>enemy; injurious; not beneficial.}}
 
 ==== ahitam  ====
   * enemy --- [[books:sb:4:19:28|SB 4.19.28]]

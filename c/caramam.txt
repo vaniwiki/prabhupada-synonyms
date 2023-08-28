@@ -1,11 +1,5 @@
----json
-{
-    "name":"caramam",
-    "h1":"caramam",
-    "title":"caramam --- synonyms, prabhupada.io",
-    "description":"ultimate."
-}
----
+~~Title:caramam~~
+{{description>ultimate.}}
 
 ==== caramam  ====
   * ultimate --- [[books:sb:3:30:33|SB 3.30.33]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyomni",
-    "h1":"vyomni",
-    "title":"vyomni --- synonyms, prabhupada.io",
-    "description":"in space; in the sky."
-}
----
+~~Title:vyomni~~
+{{description>in space; in the sky.}}
 
 ==== vyomni  ====
   * in space --- [[books:sb:3:8:16|SB 3.8.16]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"paurva",
-    "h1":"paurva",
-    "title":"paurva --- synonyms, prabhupada.io",
-    "description":"previous."
-}
----
+~~Title:paurva~~
+{{description>previous.}}
 
 ==== paurva  ====
   * previous --- [[books:bg:6:43|Bg. 6.43]]

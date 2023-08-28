@@ -1,11 +1,5 @@
----json
-{
-    "name":"avitam",
-    "h1":"avitam",
-    "title":"avitam --- synonyms, prabhupada.io",
-    "description":"being protected."
-}
----
+~~Title:avitam~~
+{{description>being protected.}}
 
 ==== avitam  ====
   * being protected --- [[books:sb:6:13:17|SB 6.13.17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ihani",
-    "h1":"ihani",
-    "title":"ihani --- synonyms, prabhupada.io",
-    "description":"here."
-}
----
+~~Title:ihani~~
+{{description>here.}}
 
 ==== ihāṅi  ====
   * here --- [[books:cc:antya:7:59|Antya 7.59]]

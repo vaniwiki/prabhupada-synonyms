@@ -1,11 +1,5 @@
----json
-{
-    "name":"udavasya",
-    "h1":"udavasya",
-    "title":"udavasya --- synonyms, prabhupada.io",
-    "description":"after finishing."
-}
----
+~~Title:udavasya~~
+{{description>after finishing.}}
 
 ==== udavasya  ====
   * after finishing --- [[books:sb:4:7:56|SB 4.7.56]]

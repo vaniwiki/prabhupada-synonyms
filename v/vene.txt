@@ -1,11 +1,5 @@
----json
-{
-    "name":"vene",
-    "h1":"vene",
-    "title":"vene --- synonyms, prabhupada.io",
-    "description":"unto Vena."
-}
----
+~~Title:vene~~
+{{description>unto Vena.}}
 
 ==== vene  ====
   * unto Vena --- [[books:sb:4:13:22|SB 4.13.22]]

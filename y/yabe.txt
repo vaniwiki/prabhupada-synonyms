@@ -1,11 +1,5 @@
----json
-{
-    "name":"yabe",
-    "h1":"yabe",
-    "title":"yabe --- synonyms, prabhupada.io",
-    "description":"if; when; whenever; while."
-}
----
+~~Title:yabe~~
+{{description>if; when; whenever; while.}}
 
 ==== yabe  ====
   * if --- [[books:cc:madhya:17:14|Madhya 17.14]]

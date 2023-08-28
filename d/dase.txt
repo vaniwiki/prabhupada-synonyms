@@ -1,11 +1,5 @@
----json
-{
-    "name":"dase",
-    "h1":"dase",
-    "title":"dase --- synonyms, prabhupada.io",
-    "description":"the servant."
-}
----
+~~Title:dase~~
+{{description>the servant.}}
 
 ==== dāse  ====
   * the servant --- [[books:cc:adi:4:226|Ādi 4.226]]

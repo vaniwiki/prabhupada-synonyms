@@ -1,11 +1,5 @@
----json
-{
-    "name":"karatali",
-    "h1":"karatali",
-    "title":"karatali --- synonyms, prabhupada.io",
-    "description":"clapping."
-}
----
+~~Title:karatali~~
+{{description>clapping.}}
 
 ==== karatāli  ====
   * clapping --- [[books:cc:adi:17:207|Ādi 17.207]]

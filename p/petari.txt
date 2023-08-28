@@ -1,11 +1,5 @@
----json
-{
-    "name":"petāri",
-    "h1":"petāri",
-    "title":"petāri --- synonyms, prabhupada.io",
-    "description":"basket."
-}
----
+~~Title:petāri~~
+{{description>basket.}}
 
 ==== petāri  ====
   * basket --- [[books:cc:adi:13:114|Ādi 13.114]]

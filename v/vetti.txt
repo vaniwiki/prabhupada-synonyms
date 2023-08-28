@@ -1,11 +1,5 @@
----json
-{
-    "name":"vetti",
-    "h1":"vetti",
-    "title":"vetti --- synonyms, prabhupada.io",
-    "description":"does know; know; knows; one who knows; understands."
-}
----
+~~Title:vetti~~
+{{description>does know; know; knows; one who knows; understands.}}
 
 ==== vetti  ====
   * does know --- [[books:bg:7:3|Bg. 7.3]]

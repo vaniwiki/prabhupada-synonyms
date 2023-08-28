@@ -1,11 +1,5 @@
----json
-{
-    "name":"vindet",
-    "h1":"vindet",
-    "title":"vindet --- synonyms, prabhupada.io",
-    "description":"can get."
-}
----
+~~Title:vindet~~
+{{description>can get.}}
 
 ==== vindet  ====
   * can get --- [[books:sb:6:19:26-28|SB 6.19.26-28]]

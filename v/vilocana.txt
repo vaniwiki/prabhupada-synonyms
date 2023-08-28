@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilocana",
-    "h1":"vilocana",
-    "title":"vilocana --- synonyms, prabhupada.io",
-    "description":"glancing."
-}
----
+~~Title:vilocana~~
+{{description>glancing.}}
 
 ==== vilocana  ====
   * glancing --- [[books:cc:antya:1:191|Antya 1.191]]

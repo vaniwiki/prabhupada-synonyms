@@ -1,11 +1,5 @@
----json
-{
-    "name":"atsi",
-    "h1":"atsi",
-    "title":"atsi --- synonyms, prabhupada.io",
-    "description":"annihilate."
-}
----
+~~Title:atsi~~
+{{description>annihilate.}}
 
 ==== atsi  ====
   * annihilate --- [[books:sb:4:6:43|SB 4.6.43]]

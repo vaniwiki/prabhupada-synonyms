@@ -1,11 +1,5 @@
----json
-{
-    "name":"gala",
-    "h1":"gala",
-    "title":"gala --- synonyms, prabhupada.io",
-    "description":"neck."
-}
----
+~~Title:gala~~
+{{description>neck.}}
 
 ==== gala  ====
   * neck --- [[books:sb:5:5:31|SB 5.5.31]]

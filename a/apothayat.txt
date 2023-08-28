@@ -1,11 +1,5 @@
----json
-{
-    "name":"apothayat",
-    "h1":"apothayat",
-    "title":"apothayat --- synonyms, prabhupada.io",
-    "description":"smashed."
-}
----
+~~Title:apothayat~~
+{{description>smashed.}}
 
 ==== apothayat  ====
   * smashed --- [[books:sb:10:4:8|SB 10.4.8]]

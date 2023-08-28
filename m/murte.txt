@@ -1,11 +1,5 @@
----json
-{
-    "name":"mūrte",
-    "h1":"mūrte",
-    "title":"mūrte --- synonyms, prabhupada.io",
-    "description":"form."
-}
----
+~~Title:mūrte~~
+{{description>form.}}
 
 ==== mūrte  ====
   * form --- [[books:cc:adi:6:9|Ādi 6.9]]

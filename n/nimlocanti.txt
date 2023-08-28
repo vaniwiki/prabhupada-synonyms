@@ -1,11 +1,5 @@
----json
-{
-    "name":"nimlocanti",
-    "h1":"nimlocanti",
-    "title":"nimlocanti --- synonyms, prabhupada.io",
-    "description":"set."
-}
----
+~~Title:nimlocanti~~
+{{description>set.}}
 
 ==== nimlocanti  ====
   * set --- [[books:sb:5:21:11|SB 5.21.11]]

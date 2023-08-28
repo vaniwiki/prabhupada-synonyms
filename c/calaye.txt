@@ -1,11 +1,5 @@
----json
-{
-    "name":"calaye",
-    "h1":"calaye",
-    "title":"calaye --- synonyms, prabhupada.io",
-    "description":"moves."
-}
----
+~~Title:calaye~~
+{{description>moves.}}
 
 ==== calaye  ====
   * moves --- [[books:cc:madhya:6:10|Madhya 6.10]]

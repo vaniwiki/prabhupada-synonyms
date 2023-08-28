@@ -1,11 +1,5 @@
----json
-{
-    "name":"japena",
-    "h1":"japena",
-    "title":"japena --- synonyms, prabhupada.io",
-    "description":"chants."
-}
----
+~~Title:japena~~
+{{description>chants.}}
 
 ==== japena  ====
   * chants --- [[books:cc:antya:13:93|Antya 13.93]], [[books:cc:antya:13:99|Antya 13.99]]

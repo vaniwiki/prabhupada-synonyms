@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimohita",
-    "h1":"vimohita",
-    "title":"vimohita --- synonyms, prabhupada.io",
-    "description":"bewildered."
-}
----
+~~Title:vimohita~~
+{{description>bewildered.}}
 
 ==== vimohita  ====
   * bewildered --- [[books:sb:7:5:11|SB 7.5.11]], [[books:sb:8:14:10|SB 8.14.10]]

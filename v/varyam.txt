@@ -1,11 +1,5 @@
----json
-{
-    "name":"varyam",
-    "h1":"varyam",
-    "title":"varyam --- synonyms, prabhupada.io",
-    "description":"the great mountain."
-}
----
+~~Title:varyam~~
+{{description>the great mountain.}}
 
 ==== adri-varyam  ====
   * the great mountain --- [[books:cc:madhya:17:210|Madhya 17.210]]

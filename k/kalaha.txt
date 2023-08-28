@@ -1,11 +1,5 @@
----json
-{
-    "name":"kalaha",
-    "h1":"kalaha",
-    "title":"kalaha --- synonyms, prabhupada.io",
-    "description":"fight; quarrel."
-}
----
+~~Title:kalaha~~
+{{description>fight; quarrel.}}
 
 ==== kalaha  ====
   * fight --- [[books:cc:antya:6:26|Antya 6.26]]

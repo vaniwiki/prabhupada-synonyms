@@ -1,11 +1,5 @@
----json
-{
-    "name":"svapnera",
-    "h1":"svapnera",
-    "title":"svapnera --- synonyms, prabhupada.io",
-    "description":"of the dream."
-}
----
+~~Title:svapnera~~
+{{description>of the dream.}}
 
 ==== svapnera  ====
   * of the dream --- [[books:cc:adi:16:14|Ādi 16.14]], [[books:cc:antya:14:32|Antya 14.32]]

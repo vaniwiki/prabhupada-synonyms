@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarpa",
-    "h1":"sarpa",
-    "title":"sarpa --- synonyms, prabhupada.io",
-    "description":"a snake; by serpents; from snakes; of snakes."
-}
----
+~~Title:sarpa~~
+{{description>a snake; by serpents; from snakes; of snakes.}}
 
 ==== sarpa  ====
   * a snake --- [[books:cc:adi:11:20|Ādi 11.20]]

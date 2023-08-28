@@ -1,11 +1,5 @@
----json
-{
-    "name":"dayena",
-    "h1":"dayena",
-    "title":"dayena --- synonyms, prabhupada.io",
-    "description":"very merciful."
-}
----
+~~Title:dayena~~
+{{description>very merciful.}}
 
 ==== puru-dayena  ====
   * very merciful --- [[books:sb:3:31:18|SB 3.31.18]]

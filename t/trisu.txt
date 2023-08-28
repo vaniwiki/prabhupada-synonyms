@@ -1,11 +1,5 @@
----json
-{
-    "name":"triṣu",
-    "h1":"triṣu",
-    "title":"triṣu --- synonyms, prabhupada.io",
-    "description":"in the three."
-}
----
+~~Title:triṣu~~
+{{description>in the three.}}
 
 ==== triṣu  ====
   * in the three --- [[books:bg:3:22|Bg. 3.22]]

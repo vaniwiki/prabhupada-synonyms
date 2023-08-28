@@ -1,11 +1,5 @@
----json
-{
-    "name":"vadanam",
-    "h1":"vadanam",
-    "title":"vadanam --- synonyms, prabhupada.io",
-    "description":"face; mouth; the face."
-}
----
+~~Title:vadanam~~
+{{description>face; mouth; the face.}}
 
 ==== vadanam  ====
   * face --- [[books:sb:1:11:10|SB 1.11.10]], [[books:cc:madhya:21:136|Madhya 21.136]], [[books:cc:madhya:23:35|Madhya 23.35]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyathayate",
-    "h1":"vyathayate",
-    "title":"vyathayate --- synonyms, prabhupada.io",
-    "description":"gives pain."
-}
----
+~~Title:vyathayate~~
+{{description>gives pain.}}
 
 ==== vyathayate  ====
   * gives pain --- [[books:cc:madhya:23:29|Madhya 23.29]]

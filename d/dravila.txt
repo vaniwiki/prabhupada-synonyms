@@ -1,11 +1,5 @@
----json
-{
-    "name":"dravila",
-    "h1":"dravila",
-    "title":"dravila --- synonyms, prabhupada.io",
-    "description":"melted."
-}
----
+~~Title:dravila~~
+{{description>melted.}}
 
 ==== dravila  ====
   * melted --- [[books:cc:adi:13:116|Ādi 13.116]]

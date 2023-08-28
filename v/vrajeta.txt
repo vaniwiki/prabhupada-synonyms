@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrajeta",
-    "h1":"vrajeta",
-    "title":"vrajeta --- synonyms, prabhupada.io",
-    "description":"walk."
-}
----
+~~Title:vrajeta~~
+{{description>walk.}}
 
 ==== vrajeta  ====
   * walk --- [[books:bg:2:54|Bg. 2.54]]

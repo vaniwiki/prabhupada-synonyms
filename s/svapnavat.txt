@@ -1,11 +1,5 @@
----json
-{
-    "name":"svapnavat",
-    "h1":"svapnavat",
-    "title":"svapnavat --- synonyms, prabhupada.io",
-    "description":"like a dream."
-}
----
+~~Title:svapnavat~~
+{{description>like a dream.}}
 
 ==== svapnavat  ====
   * like a dream --- [[books:sb:4:29:2b|SB 4.29.2b]]

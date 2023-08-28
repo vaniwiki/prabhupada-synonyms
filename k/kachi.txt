@@ -1,11 +1,5 @@
----json
-{
-    "name":"kāchi",
-    "h1":"kāchi",
-    "title":"kāchi --- synonyms, prabhupada.io",
-    "description":"the rope."
-}
----
+~~Title:kāchi~~
+{{description>the rope.}}
 
 ==== kāchi  ====
   * the rope --- [[books:cc:madhya:14:56|Madhya 14.56]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"mantavyam",
-    "h1":"mantavyam",
-    "title":"mantavyam --- synonyms, prabhupada.io",
-    "description":"an object of adoration."
-}
----
+~~Title:mantavyam~~
+{{description>an object of adoration.}}
 
 ==== mantavyam  ====
   * an object of adoration --- [[books:sb:8:12:16|SB 8.12.16]]

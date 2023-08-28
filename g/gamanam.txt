@@ -1,11 +1,5 @@
----json
-{
-    "name":"gamanam",
-    "h1":"gamanam",
-    "title":"gamanam --- synonyms, prabhupada.io",
-    "description":"walking."
-}
----
+~~Title:gamanam~~
+{{description>walking.}}
 
 ==== gamanam  ====
   * walking --- [[books:cc:madhya:14:227|Madhya 14.227]]

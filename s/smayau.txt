@@ -1,11 +1,5 @@
----json
-{
-    "name":"smayau",
-    "h1":"smayau",
-    "title":"smayau --- synonyms, prabhupada.io",
-    "description":"morose."
-}
----
+~~Title:smayau~~
+{{description>morose.}}
 
 ==== vigata-smayau  ====
   * morose --- [[books:sb:3:16:33|SB 3.16.33]]

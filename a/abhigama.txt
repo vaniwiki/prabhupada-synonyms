@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhigama",
-    "h1":"abhigama",
-    "title":"abhigama --- synonyms, prabhupada.io",
-    "description":"journey."
-}
----
+~~Title:abhigama~~
+{{description>journey.}}
 
 ==== abhigama  ====
   * journey --- [[books:sb:1:19:8|SB 1.19.8]]

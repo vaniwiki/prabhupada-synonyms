@@ -1,11 +1,5 @@
----json
-{
-    "name":"atarkya",
-    "h1":"atarkya",
-    "title":"atarkya --- synonyms, prabhupada.io",
-    "description":"inconceivable."
-}
----
+~~Title:atarkya~~
+{{description>inconceivable.}}
 
 ==== atarkya  ====
   * inconceivable --- [[books:sb:3:33:3|SB 3.33.3]]

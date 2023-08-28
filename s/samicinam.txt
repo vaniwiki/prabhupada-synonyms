@@ -1,11 +1,5 @@
----json
-{
-    "name":"samīcīnam",
-    "h1":"samīcīnam",
-    "title":"samīcīnam --- synonyms, prabhupada.io",
-    "description":"perfectly right."
-}
----
+~~Title:samīcīnam~~
+{{description>perfectly right.}}
 
 ==== samīcīnam  ====
   * perfectly right --- [[books:sb:2:4:5|SB 2.4.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sammatam",
-    "h1":"sammatam",
-    "title":"sammatam --- synonyms, prabhupada.io",
-    "description":"approved; approved of."
-}
----
+~~Title:sammatam~~
+{{description>approved; approved of.}}
 
 ==== sammatam  ====
   * approved --- [[books:sb:4:12:44|SB 4.12.44]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"timira",
-    "h1":"timira",
-    "title":"timira --- synonyms, prabhupada.io",
-    "description":"of darkness."
-}
----
+~~Title:timira~~
+{{description>of darkness.}}
 
 ==== timira  ====
   * of darkness --- [[books:cc:antya:3:181|Antya 3.181]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vipina",
-    "h1":"vipina",
-    "title":"vipina --- synonyms, prabhupada.io",
-    "description":"from the forest."
-}
----
+~~Title:vipina~~
+{{description>from the forest.}}
 
 ==== vipina-deśataḥ  ====
   * from the forest --- [[books:cc:adi:4:196|Ādi 4.196]]

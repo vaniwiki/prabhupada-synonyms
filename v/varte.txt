@@ -1,11 +1,5 @@
----json
-{
-    "name":"varte",
-    "h1":"varte",
-    "title":"varte --- synonyms, prabhupada.io",
-    "description":"engaged."
-}
----
+~~Title:varte~~
+{{description>engaged.}}
 
 ==== varte  ====
   * engaged --- [[books:bg:3:22|Bg. 3.22]]

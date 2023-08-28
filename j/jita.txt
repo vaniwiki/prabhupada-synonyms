@@ -1,11 +1,5 @@
----json
-{
-    "name":"jita",
-    "h1":"jita",
-    "title":"jita --- synonyms, prabhupada.io",
-    "description":"controlled; having conquered."
-}
----
+~~Title:jita~~
+{{description>controlled; having conquered.}}
 
 ==== jita  ====
   * controlled --- [[books:sb:2:9:8|SB 2.9.8]], [[books:sb:3:15:7|SB 3.15.7]], [[books:sb:3:32:10|SB 3.32.10]], [[books:sb:4:12:17|SB 4.12.17]]

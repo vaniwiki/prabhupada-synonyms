@@ -1,11 +1,5 @@
----json
-{
-    "name":"avaranam",
-    "h1":"avaranam",
-    "title":"avaranam --- synonyms, prabhupada.io",
-    "description":"Āvaraṇa."
-}
----
+~~Title:avaranam~~
+{{description>Āvaraṇa.}}
 
 ==== āvaraṇam  ====
   * Āvaraṇa --- [[books:sb:5:7:2|SB 5.7.2]]

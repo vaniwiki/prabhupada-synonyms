@@ -1,11 +1,5 @@
----json
-{
-    "name":"bujhiteo",
-    "h1":"bujhiteo",
-    "title":"bujhiteo --- synonyms, prabhupada.io",
-    "description":"to understand."
-}
----
+~~Title:bujhiteo~~
+{{description>to understand.}}
 
 ==== bujhiteo  ====
   * to understand --- [[books:cc:madhya:4:190|Madhya 4.190]]

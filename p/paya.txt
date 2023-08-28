@@ -1,11 +1,5 @@
----json
-{
-    "name":"paya",
-    "h1":"paya",
-    "title":"paya --- synonyms, prabhupada.io",
-    "description":"get."
-}
----
+~~Title:paya~~
+{{description>get.}}
 
 ==== paya  ====
   * get --- [[books:cc:adi:11:60|Ādi 11.60]]

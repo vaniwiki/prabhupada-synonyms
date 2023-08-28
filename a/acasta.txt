@@ -1,11 +1,5 @@
----json
-{
-    "name":"acasta",
-    "h1":"acasta",
-    "title":"acasta --- synonyms, prabhupada.io",
-    "description":"could see; observed; recognized; saw."
-}
----
+~~Title:acasta~~
+{{description>could see; observed; recognized; saw.}}
 
 ==== acaṣṭa  ====
   * could see --- [[books:sb:4:9:8|SB 4.9.8]]

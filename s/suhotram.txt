@@ -1,11 +1,5 @@
----json
-{
-    "name":"suhotram",
-    "h1":"suhotram",
-    "title":"suhotram --- synonyms, prabhupada.io",
-    "description":"Suhotra."
-}
----
+~~Title:suhotram~~
+{{description>Suhotra.}}
 
 ==== suhotram  ====
   * Suhotra --- [[books:sb:9:22:30-31|SB 9.22.30-31]]

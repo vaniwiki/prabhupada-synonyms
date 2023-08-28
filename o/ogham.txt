@@ -1,11 +1,5 @@
----json
-{
-    "name":"ogham",
-    "h1":"ogham",
-    "title":"ogham --- synonyms, prabhupada.io",
-    "description":"flows; torrents."
-}
----
+~~Title:ogham~~
+{{description>flows; torrents.}}
 
 ==== ogham  ====
   * flows --- [[books:sb:1:8:42|SB 1.8.42]]

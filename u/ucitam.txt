@@ -1,11 +1,5 @@
----json
-{
-    "name":"ucitam",
-    "h1":"ucitam",
-    "title":"ucitam --- synonyms, prabhupada.io",
-    "description":"befitting; honor; is befitting."
-}
----
+~~Title:ucitam~~
+{{description>befitting; honor; is befitting.}}
 
 ==== ucitam  ====
   * befitting --- [[books:sb:4:11:8|SB 4.11.8]]

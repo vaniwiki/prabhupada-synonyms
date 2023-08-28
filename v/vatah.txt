@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatah",
-    "h1":"vatah",
-    "title":"vatah --- synonyms, prabhupada.io",
-    "description":"a banyan tree."
-}
----
+~~Title:vatah~~
+{{description>a banyan tree.}}
 
 ==== vaṭaḥ  ====
   * a banyan tree --- [[books:sb:5:16:24|SB 5.16.24]]

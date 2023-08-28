@@ -1,11 +1,5 @@
----json
-{
-    "name":"vahatu",
-    "h1":"vahatu",
-    "title":"vahatu --- synonyms, prabhupada.io",
-    "description":"let it flow."
-}
----
+~~Title:vahatu~~
+{{description>let it flow.}}
 
 ==== vahatu  ====
   * let it flow --- [[books:cc:adi:2:2|Ādi 2.2]]

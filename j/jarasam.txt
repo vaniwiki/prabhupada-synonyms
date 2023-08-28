@@ -1,11 +1,5 @@
----json
-{
-    "name":"jarasam",
-    "h1":"jarasam",
-    "title":"jarasam --- synonyms, prabhupada.io",
-    "description":"invalidity."
-}
----
+~~Title:jarasam~~
+{{description>invalidity.}}
 
 ==== jarasam  ====
   * invalidity --- [[books:sb:3:2:3|SB 3.2.3]]

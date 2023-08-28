@@ -1,11 +1,5 @@
----json
-{
-    "name":"parvāṇam",
-    "h1":"parvāṇam",
-    "title":"parvāṇam --- synonyms, prabhupada.io",
-    "description":"five varieties."
-}
----
+~~Title:parvāṇam~~
+{{description>five varieties.}}
 
 ==== pañca-parvāṇam  ====
   * five varieties --- [[books:sb:3:20:18|SB 3.20.18]]

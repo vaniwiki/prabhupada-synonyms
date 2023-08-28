@@ -1,11 +1,5 @@
----json
-{
-    "name":"maha",
-    "h1":"maha",
-    "title":"maha --- synonyms, prabhupada.io",
-    "description":"my."
-}
----
+~~Title:maha~~
+{{description>my.}}
 
 ==== maha  ====
   * my --- [[books:cc:antya:1:144|Antya 1.144]]

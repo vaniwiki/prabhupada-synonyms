@@ -1,11 +1,5 @@
----json
-{
-    "name":"karākari",
-    "h1":"karākari",
-    "title":"karākari --- synonyms, prabhupada.io",
-    "description":"hand to hand."
-}
----
+~~Title:karākari~~
+{{description>hand to hand.}}
 
 ==== karākari  ====
   * hand to hand --- [[books:cc:antya:18:87|Antya 18.87]]

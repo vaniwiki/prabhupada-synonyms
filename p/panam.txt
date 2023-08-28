@@ -1,11 +1,5 @@
----json
-{
-    "name":"panam",
-    "h1":"panam",
-    "title":"panam --- synonyms, prabhupada.io",
-    "description":"the prize."
-}
----
+~~Title:panam~~
+{{description>the prize.}}
 
 ==== paṇām  ====
   * the prize --- [[books:sb:4:28:29|SB 4.28.29]]

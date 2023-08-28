@@ -1,11 +1,5 @@
----json
-{
-    "name":"kupitena",
-    "h1":"kupitena",
-    "title":"kupitena --- synonyms, prabhupada.io",
-    "description":"angry."
-}
----
+~~Title:kupitena~~
+{{description>angry.}}
 
 ==== kupitena  ====
   * angry --- [[books:sb:4:5:5|SB 4.5.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pradarśaya",
-    "h1":"pradarśaya",
-    "title":"pradarśaya --- synonyms, prabhupada.io",
-    "description":"just show; please show."
-}
----
+~~Title:pradarśaya~~
+{{description>just show; please show.}}
 
 ==== pradarśaya  ====
   * just show --- [[books:sb:4:24:52|SB 4.24.52]]

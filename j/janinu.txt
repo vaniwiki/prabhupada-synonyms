@@ -1,11 +1,5 @@
----json
-{
-    "name":"jāninu",
-    "h1":"jāninu",
-    "title":"jāninu --- synonyms, prabhupada.io",
-    "description":"I can understand; I have understood; I understand."
-}
----
+~~Title:jāninu~~
+{{description>I can understand; I have understood; I understand.}}
 
 ==== jāninu  ====
   * I can understand --- [[books:cc:antya:8:75|Antya 8.75]]

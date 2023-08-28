@@ -1,11 +1,5 @@
----json
-{
-    "name":"purani",
-    "h1":"purani",
-    "title":"purani --- synonyms, prabhupada.io",
-    "description":"cities; residential places or bodies."
-}
----
+~~Title:purani~~
+{{description>cities; residential places or bodies.}}
 
 ==== purāṇi  ====
   * cities --- [[books:sb:5:20:30|SB 5.20.30]]

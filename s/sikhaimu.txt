@@ -1,11 +1,5 @@
----json
-{
-    "name":"śikhāimu",
-    "h1":"śikhāimu",
-    "title":"śikhāimu --- synonyms, prabhupada.io",
-    "description":"I shall teach."
-}
----
+~~Title:śikhāimu~~
+{{description>I shall teach.}}
 
 ==== śikhāimu  ====
   * I shall teach --- [[books:cc:adi:3:20|Ādi 3.20]]

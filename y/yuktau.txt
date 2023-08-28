@@ -1,11 +1,5 @@
----json
-{
-    "name":"yuktau",
-    "h1":"yuktau",
-    "title":"yuktau --- synonyms, prabhupada.io",
-    "description":"in logic."
-}
----
+~~Title:yuktau~~
+{{description>in logic.}}
 
 ==== yuktau  ====
   * in logic --- [[books:cc:madhya:22:66|Madhya 22.66]]

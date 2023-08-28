@@ -1,11 +1,5 @@
----json
-{
-    "name":"navani",
-    "h1":"navani",
-    "title":"navani --- synonyms, prabhupada.io",
-    "description":"new garments; new sets."
-}
----
+~~Title:navani~~
+{{description>new garments; new sets.}}
 
 ==== navāni  ====
   * new garments --- [[books:bg:2:22|Bg. 2.22]]

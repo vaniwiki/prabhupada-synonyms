@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasāyam",
-    "h1":"avasāyam",
-    "title":"avasāyam --- synonyms, prabhupada.io",
-    "description":"the intention."
-}
----
+~~Title:avasāyam~~
+{{description>the intention.}}
 
 ==== avasāyam  ====
   * the intention --- [[books:sb:3:16:12|SB 3.16.12]]

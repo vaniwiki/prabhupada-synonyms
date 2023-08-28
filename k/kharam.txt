@@ -1,11 +1,5 @@
----json
-{
-    "name":"kharam",
-    "h1":"kharam",
-    "title":"kharam --- synonyms, prabhupada.io",
-    "description":"extremely shrill."
-}
----
+~~Title:kharam~~
+{{description>extremely shrill.}}
 
 ==== kharam  ====
   * extremely shrill --- [[books:sb:7:8:28|SB 7.8.28]]

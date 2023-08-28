@@ -1,11 +1,5 @@
----json
-{
-    "name":"suci",
-    "h1":"suci",
-    "title":"suci --- synonyms, prabhupada.io",
-    "description":"on the points."
-}
----
+~~Title:suci~~
+{{description>on the points.}}
 
 ==== sūci  ====
   * on the points --- [[books:sb:4:5:10|SB 4.5.10]]

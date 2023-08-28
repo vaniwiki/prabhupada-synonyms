@@ -1,11 +1,5 @@
----json
-{
-    "name":"pasare",
-    "h1":"pasare",
-    "title":"pasare --- synonyms, prabhupada.io",
-    "description":"He forgets."
-}
----
+~~Title:pasare~~
+{{description>He forgets.}}
 
 ==== pāsare  ====
   * He forgets --- [[books:cc:adi:6:43|Ādi 6.43]]

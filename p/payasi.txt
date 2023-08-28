@@ -1,11 +1,5 @@
----json
-{
-    "name":"payasi",
-    "h1":"payasi",
-    "title":"payasi --- synonyms, prabhupada.io",
-    "description":"for the sake of milk; in milk; in the water; with milk."
-}
----
+~~Title:payasi~~
+{{description>for the sake of milk; in milk; in the water; with milk.}}
 
 ==== payasi  ====
   * for the sake of milk --- [[books:sb:4:17:35|SB 4.17.35]]

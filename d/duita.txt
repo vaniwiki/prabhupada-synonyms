@@ -1,11 +1,5 @@
----json
-{
-    "name":"duita",
-    "h1":"duita",
-    "title":"duita --- synonyms, prabhupada.io",
-    "description":"twofold."
-}
----
+~~Title:duita~~
+{{description>twofold.}}
 
 ==== duita  ====
   * twofold --- [[books:cc:madhya:19:192|Madhya 19.192]]

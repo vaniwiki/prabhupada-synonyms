@@ -1,11 +1,5 @@
----json
-{
-    "name":"ujira",
-    "h1":"ujira",
-    "title":"ujira --- synonyms, prabhupada.io",
-    "description":"minister."
-}
----
+~~Title:ujira~~
+{{description>minister.}}
 
 ==== ujira  ====
   * minister --- [[books:cc:antya:3:159|Antya 3.159]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"harinah",
-    "h1":"harinah",
-    "title":"harinah --- synonyms, prabhupada.io",
-    "description":"deer."
-}
----
+~~Title:harinah~~
+{{description>deer.}}
 
 ==== hariṇāḥ  ====
   * deer --- [[books:sb:8:2:22|SB 8.2.22]]

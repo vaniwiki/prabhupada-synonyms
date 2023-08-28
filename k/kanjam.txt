@@ -1,11 +1,5 @@
----json
-{
-    "name":"kañjam",
-    "h1":"kañjam",
-    "title":"kañjam --- synonyms, prabhupada.io",
-    "description":"lotus flower."
-}
----
+~~Title:kañjam~~
+{{description>lotus flower.}}
 
 ==== kañjam  ====
   * lotus flower --- [[books:sb:3:8:17|SB 3.8.17]]

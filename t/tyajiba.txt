@@ -1,11 +1,5 @@
----json
-{
-    "name":"tyajiba",
-    "h1":"tyajiba",
-    "title":"tyajiba --- synonyms, prabhupada.io",
-    "description":"will give up."
-}
----
+~~Title:tyajiba~~
+{{description>will give up.}}
 
 ==== tyajiba  ====
   * will give up --- [[books:cc:adi:10:94|Ādi 10.94]]

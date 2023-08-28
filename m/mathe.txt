@@ -1,11 +1,5 @@
----json
-{
-    "name":"mathe",
-    "h1":"mathe",
-    "title":"mathe --- synonyms, prabhupada.io",
-    "description":"churn; churns."
-}
----
+~~Title:mathe~~
+{{description>churn; churns.}}
 
 ==== mathe  ====
   * churn --- [[books:cc:madhya:14:214|Madhya 14.214]]

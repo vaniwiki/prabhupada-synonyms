@@ -1,11 +1,5 @@
----json
-{
-    "name":"kholā",
-    "h1":"kholā",
-    "title":"kholā --- synonyms, prabhupada.io",
-    "description":"bark of the banana tree."
-}
----
+~~Title:kholā~~
+{{description>bark of the banana tree.}}
 
 ==== kholā  ====
   * bark of the banana tree --- [[books:cc:antya:16:37|Antya 16.37]]

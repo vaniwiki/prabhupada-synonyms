@@ -1,11 +1,5 @@
----json
-{
-    "name":"stomam",
-    "h1":"stomam",
-    "title":"stomam --- synonyms, prabhupada.io",
-    "description":"hymns."
-}
----
+~~Title:stomam~~
+{{description>hymns.}}
 
 ==== stomam  ====
   * hymns --- [[books:sb:3:21:34|SB 3.21.34]]

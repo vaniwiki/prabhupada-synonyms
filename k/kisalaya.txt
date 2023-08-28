@@ -1,11 +1,5 @@
----json
-{
-    "name":"kisalaya",
-    "h1":"kisalaya",
-    "title":"kisalaya --- synonyms, prabhupada.io",
-    "description":"new twigs; newly grown."
-}
----
+~~Title:kisalaya~~
+{{description>new twigs; newly grown.}}
 
 ==== kisalaya  ====
   * new twigs --- [[books:sb:5:24:10|SB 5.24.10]]

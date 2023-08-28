@@ -1,11 +1,5 @@
----json
-{
-    "name":"surasane",
-    "h1":"surasane",
-    "title":"surasane --- synonyms, prabhupada.io",
-    "description":"in Surasana."
-}
----
+~~Title:surasane~~
+{{description>in Surasana.}}
 
 ==== surasane  ====
   * in Surasana --- [[books:sb:3:23:40|SB 3.23.40]]

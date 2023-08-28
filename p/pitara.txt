@@ -1,11 +1,5 @@
----json
-{
-    "name":"pitara",
-    "h1":"pitara",
-    "title":"pitara --- synonyms, prabhupada.io",
-    "description":"of the father."
-}
----
+~~Title:pitara~~
+{{description>of the father.}}
 
 ==== pitara  ====
   * of the father --- [[books:cc:adi:14:87|Ādi 14.87]]

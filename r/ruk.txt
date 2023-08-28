@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruk",
-    "h1":"ruk",
-    "title":"ruk --- synonyms, prabhupada.io",
-    "description":"mental distress."
-}
----
+~~Title:ruk~~
+{{description>mental distress.}}
 
 ==== ruk  ====
   * mental distress --- [[books:sb:1:14:44|SB 1.14.44]]

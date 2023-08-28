@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidāmi",
-    "h1":"vidāmi",
-    "title":"vidāmi --- synonyms, prabhupada.io",
-    "description":"do I know; know."
-}
----
+~~Title:vidāmi~~
+{{description>do I know; know.}}
 
 ==== vidāmi  ====
   * do I know --- [[books:sb:2:7:41|SB 2.7.41]]

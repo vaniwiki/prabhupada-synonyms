@@ -1,11 +1,5 @@
----json
-{
-    "name":"gajah",
-    "h1":"gajah",
-    "title":"gajah --- synonyms, prabhupada.io",
-    "description":"an elephant; elephant; the elephant."
-}
----
+~~Title:gajah~~
+{{description>an elephant; elephant; the elephant.}}
 
 ==== gajaḥ  ====
   * an elephant --- [[books:sb:8:4:10|SB 8.4.10]]

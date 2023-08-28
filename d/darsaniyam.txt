@@ -1,11 +1,5 @@
----json
-{
-    "name":"darsaniyam",
-    "h1":"darsaniyam",
-    "title":"darsaniyam --- synonyms, prabhupada.io",
-    "description":"pleasing to see."
-}
----
+~~Title:darsaniyam~~
+{{description>pleasing to see.}}
 
 ==== darśanīyam  ====
   * pleasing to see --- [[books:sb:8:18:26|SB 8.18.26]]

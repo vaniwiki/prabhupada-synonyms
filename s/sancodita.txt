@@ -1,11 +1,5 @@
----json
-{
-    "name":"sañcodita",
-    "h1":"sañcodita",
-    "title":"sañcodita --- synonyms, prabhupada.io",
-    "description":"agitated."
-}
----
+~~Title:sañcodita~~
+{{description>agitated.}}
 
 ==== sañcodita  ====
   * agitated --- [[books:sb:7:9:33|SB 7.9.33]]

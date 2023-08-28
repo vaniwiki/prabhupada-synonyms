@@ -1,11 +1,5 @@
----json
-{
-    "name":"mananera",
-    "h1":"mananera",
-    "title":"mananera --- synonyms, prabhupada.io",
-    "description":"of remembering."
-}
----
+~~Title:mananera~~
+{{description>of remembering.}}
 
 ==== mananera  ====
   * of remembering --- [[books:cc:antya:13:134|Antya 13.134]]

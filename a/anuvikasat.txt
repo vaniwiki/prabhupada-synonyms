@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuvikasat",
-    "h1":"anuvikasat",
-    "title":"anuvikasat --- synonyms, prabhupada.io",
-    "description":"blossoming."
-}
----
+~~Title:anuvikasat~~
+{{description>blossoming.}}
 
 ==== anuvikasat  ====
   * blossoming --- [[books:sb:3:15:17|SB 3.15.17]]

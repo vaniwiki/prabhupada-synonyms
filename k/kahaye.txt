@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahaye",
-    "h1":"kahaye",
-    "title":"kahaye --- synonyms, prabhupada.io",
-    "description":"he says; says; speaks; spoke."
-}
----
+~~Title:kahaye~~
+{{description>he says; says; speaks; spoke.}}
 
 ==== kahaye  ====
   * he says --- [[books:cc:antya:8:63|Antya 8.63]]

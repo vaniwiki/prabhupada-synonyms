@@ -1,11 +1,5 @@
----json
-{
-    "name":"pasarila",
-    "h1":"pasarila",
-    "title":"pasarila --- synonyms, prabhupada.io",
-    "description":"forgot."
-}
----
+~~Title:pasarila~~
+{{description>forgot.}}
 
 ==== pāsarila  ====
   * forgot --- [[books:cc:antya:10:76|Antya 10.76]]

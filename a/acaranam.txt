@@ -1,11 +1,5 @@
----json
-{
-    "name":"acaranam",
-    "h1":"acaranam",
-    "title":"acaranam --- synonyms, prabhupada.io",
-    "description":"acting practically."
-}
----
+~~Title:acaranam~~
+{{description>acting practically.}}
 
 ==== ācaraṇam  ====
   * acting practically --- [[books:cc:adi:9:42|Ādi 9.42]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hailāma",
-    "h1":"hailāma",
-    "title":"hailāma --- synonyms, prabhupada.io",
-    "description":"I have become."
-}
----
+~~Title:hailāma~~
+{{description>I have become.}}
 
 ==== hailāma  ====
   * I have become --- [[books:cc:adi:7:78|Ādi 7.78]]

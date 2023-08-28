@@ -1,11 +1,5 @@
----json
-{
-    "name":"remire",
-    "h1":"remire",
-    "title":"remire --- synonyms, prabhupada.io",
-    "description":"they enjoyed life."
-}
----
+~~Title:remire~~
+{{description>they enjoyed life.}}
 
 ==== remire  ====
   * they enjoyed life --- [[books:sb:10:12:6|SB 10.12.6]]

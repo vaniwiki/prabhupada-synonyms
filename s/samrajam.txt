@@ -1,11 +1,5 @@
----json
-{
-    "name":"samrājam",
-    "h1":"samrājam",
-    "title":"samrājam --- synonyms, prabhupada.io",
-    "description":"an emperor."
-}
----
+~~Title:samrājam~~
+{{description>an emperor.}}
 
 ==== samrājam  ====
   * an emperor --- [[books:sb:8:5:37|SB 8.5.37]]

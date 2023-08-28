@@ -1,11 +1,5 @@
----json
-{
-    "name":"ore",
-    "h1":"ore",
-    "title":"ore --- synonyms, prabhupada.io",
-    "description":"O all of you."
-}
----
+~~Title:ore~~
+{{description>O all of you.}}
 
 ==== ore  ====
   * O all of you --- [[books:cc:adi:8:33|Ādi 8.33]]

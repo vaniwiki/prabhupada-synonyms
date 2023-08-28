@@ -1,11 +1,5 @@
----json
-{
-    "name":"adyat",
-    "h1":"adyat",
-    "title":"adyat --- synonyms, prabhupada.io",
-    "description":"one should eat; one should eat personally."
-}
----
+~~Title:adyat~~
+{{description>one should eat; one should eat personally.}}
 
 ==== adyāt  ====
   * one should eat --- [[books:sb:6:19:19-20|SB 6.19.19-20]]

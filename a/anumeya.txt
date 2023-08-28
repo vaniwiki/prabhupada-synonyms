@@ -1,11 +1,5 @@
----json
-{
-    "name":"anumeya",
-    "h1":"anumeya",
-    "title":"anumeya --- synonyms, prabhupada.io",
-    "description":"hypothesis."
-}
----
+~~Title:anumeya~~
+{{description>hypothesis.}}
 
 ==== anumeya  ====
   * hypothesis --- [[books:sb:10:2:36|SB 10.2.36]]

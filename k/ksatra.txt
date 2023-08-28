@@ -1,11 +1,5 @@
----json
-{
-    "name":"ksatra",
-    "h1":"ksatra",
-    "title":"ksatra --- synonyms, prabhupada.io",
-    "description":"the kṣatriyas; the ruling class."
-}
----
+~~Title:ksatra~~
+{{description>the kṣatriyas; the ruling class.}}
 
 ==== kṣatra  ====
   * the //kṣatriyas// --- [[books:sb:2:1:37|SB 2.1.37]]

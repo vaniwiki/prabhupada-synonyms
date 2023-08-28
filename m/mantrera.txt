@@ -1,11 +1,5 @@
----json
-{
-    "name":"mantrera",
-    "h1":"mantrera",
-    "title":"mantrera --- synonyms, prabhupada.io",
-    "description":"of the mantra."
-}
----
+~~Title:mantrera~~
+{{description>of the mantra.}}
 
 ==== mantrera  ====
   * of the //mantra// --- [[books:cc:adi:17:212|Ādi 17.212]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"khala",
-    "h1":"khala",
-    "title":"khala --- synonyms, prabhupada.io",
-    "description":"ferocious."
-}
----
+~~Title:khala~~
+{{description>ferocious.}}
 
 ==== khala  ====
   * ferocious --- [[books:sb:4:7:28|SB 4.7.28]]

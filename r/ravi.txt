@@ -1,11 +1,5 @@
----json
-{
-    "name":"ravi",
-    "h1":"ravi",
-    "title":"ravi --- synonyms, prabhupada.io",
-    "description":"sun rays."
-}
----
+~~Title:ravi~~
+{{description>sun rays.}}
 
 ==== ravi-kara  ====
   * sun rays --- [[books:sb:1:9:33|SB 1.9.33]]

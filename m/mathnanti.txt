@@ -1,11 +1,5 @@
----json
-{
-    "name":"mathnanti",
-    "h1":"mathnanti",
-    "title":"mathnanti --- synonyms, prabhupada.io",
-    "description":"stir."
-}
----
+~~Title:mathnanti~~
+{{description>stir.}}
 
 ==== mathnanti  ====
   * stir --- [[books:sb:5:18:36|SB 5.18.36]]

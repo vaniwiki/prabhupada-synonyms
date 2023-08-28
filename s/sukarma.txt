@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukarma",
-    "h1":"sukarma",
-    "title":"sukarma --- synonyms, prabhupada.io",
-    "description":"the Sukarmās."
-}
----
+~~Title:sukarma~~
+{{description>the Sukarmās.}}
 
 ==== sukarma  ====
   * the Sukarmās --- [[books:sb:8:13:31|SB 8.13.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sīdati",
-    "h1":"sīdati",
-    "title":"sīdati --- synonyms, prabhupada.io",
-    "description":"he laments."
-}
----
+~~Title:sīdati~~
+{{description>he laments.}}
 
 ==== sīdati  ====
   * he laments --- [[books:sb:5:14:18|SB 5.14.18]]

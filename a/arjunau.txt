@@ -1,11 +1,5 @@
----json
-{
-    "name":"arjunau",
-    "h1":"arjunau",
-    "title":"arjunau --- synonyms, prabhupada.io",
-    "description":"the twin arjuna trees."
-}
----
+~~Title:arjunau~~
+{{description>the twin arjuna trees.}}
 
 ==== arjunau  ====
   * the twin //arjuna// trees --- [[books:sb:10:9:22|SB 10.9.22]]

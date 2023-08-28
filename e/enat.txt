@@ -1,11 +1,5 @@
----json
-{
-    "name":"enat",
-    "h1":"enat",
-    "title":"enat --- synonyms, prabhupada.io",
-    "description":"this Supreme Lord."
-}
----
+~~Title:enat~~
+{{description>this Supreme Lord.}}
 
 ==== enat  ====
   * this Supreme Lord --- [[books:iso:4|Īśo 4]]

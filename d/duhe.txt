@@ -1,11 +1,5 @@
----json
-{
-    "name":"duhe",
-    "h1":"duhe",
-    "title":"duhe --- synonyms, prabhupada.io",
-    "description":"both."
-}
----
+~~Title:duhe~~
+{{description>both.}}
 
 ==== duhe  ====
   * both --- [[books:cc:antya:6:196|Antya 6.196]]

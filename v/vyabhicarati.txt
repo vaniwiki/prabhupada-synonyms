@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyabhicarati",
-    "h1":"vyabhicarati",
-    "title":"vyabhicarati --- synonyms, prabhupada.io",
-    "description":"fails."
-}
----
+~~Title:vyabhicarati~~
+{{description>fails.}}
 
 ==== vyabhicarati  ====
   * fails --- [[books:sb:6:16:43|SB 6.16.43]]

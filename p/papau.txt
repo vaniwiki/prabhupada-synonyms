@@ -1,11 +1,5 @@
----json
-{
-    "name":"papau",
-    "h1":"papau",
-    "title":"papau --- synonyms, prabhupada.io",
-    "description":"drank; he drank."
-}
----
+~~Title:papau~~
+{{description>drank; he drank.}}
 
 ==== papau  ====
   * drank --- [[books:sb:7:10:62|SB 7.10.62]], [[books:sb:9:6:27|SB 9.6.27]], [[books:sb:10:8:46|SB 10.8.46]], [[books:cc:madhya:8:77|Madhya 8.77]], [[books:cc:antya:7:34|Antya 7.34]]

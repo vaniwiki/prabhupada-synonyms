@@ -1,11 +1,5 @@
----json
-{
-    "name":"vakti",
-    "h1":"vakti",
-    "title":"vakti --- synonyms, prabhupada.io",
-    "description":"chants; express; he speaks; say; teaches."
-}
----
+~~Title:vakti~~
+{{description>chants; express; he speaks; say; teaches.}}
 
 ==== vakti  ====
   * chants --- [[books:sb:6:3:29|SB 6.3.29]]

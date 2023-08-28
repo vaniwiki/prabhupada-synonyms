@@ -1,11 +1,5 @@
----json
-{
-    "name":"acintyam",
-    "h1":"acintyam",
-    "title":"acintyam --- synonyms, prabhupada.io",
-    "description":"inconceivable."
-}
----
+~~Title:acintyam~~
+{{description>inconceivable.}}
 
 ==== acintyam  ====
   * inconceivable --- [[books:bg:12:3-4|Bg. 12.3-4]]

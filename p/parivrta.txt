@@ -1,11 +1,5 @@
----json
-{
-    "name":"parivrta",
-    "h1":"parivrta",
-    "title":"parivrta --- synonyms, prabhupada.io",
-    "description":"surrounded."
-}
----
+~~Title:parivrta~~
+{{description>surrounded.}}
 
 ==== parivṛta  ====
   * surrounded --- [[books:cc:madhya:13:207|Madhya 13.207]]

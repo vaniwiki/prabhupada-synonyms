@@ -1,11 +1,5 @@
----json
-{
-    "name":"parivatsara",
-    "h1":"parivatsara",
-    "title":"parivatsara --- synonyms, prabhupada.io",
-    "description":"years."
-}
----
+~~Title:parivatsara~~
+{{description>years.}}
 
 ==== parivatsara  ====
   * years --- [[books:sb:5:2:18|SB 5.2.18]]

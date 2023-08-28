@@ -1,11 +1,5 @@
----json
-{
-    "name":"karis",
-    "h1":"karis",
-    "title":"karis --- synonyms, prabhupada.io",
-    "description":"you do."
-}
----
+~~Title:karis~~
+{{description>you do.}}
 
 ==== karis  ====
   * you do --- [[books:cc:antya:19:47|Antya 19.47]]

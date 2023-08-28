@@ -1,11 +1,5 @@
----json
-{
-    "name":"samastera",
-    "h1":"samastera",
-    "title":"samastera --- synonyms, prabhupada.io",
-    "description":"of all."
-}
----
+~~Title:samastera~~
+{{description>of all.}}
 
 ==== samastera  ====
   * of all --- [[books:cc:adi:4:95|Ādi 4.95]]

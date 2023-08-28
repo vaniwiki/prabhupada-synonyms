@@ -1,11 +1,5 @@
----json
-{
-    "name":"yado",
-    "h1":"yado",
-    "title":"yado --- synonyms, prabhupada.io",
-    "description":"O Yadu."
-}
----
+~~Title:yado~~
+{{description>O Yadu.}}
 
 ==== yado  ====
   * O Yadu --- [[books:sb:9:18:38|SB 9.18.38]]

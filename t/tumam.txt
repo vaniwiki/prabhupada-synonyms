@@ -1,11 +1,5 @@
----json
-{
-    "name":"tumam",
-    "h1":"tumam",
-    "title":"tumam --- synonyms, prabhupada.io",
-    "description":"You."
-}
----
+~~Title:tumam~~
+{{description>You.}}
 
 ==== tumam  ====
   * You --- [[books:cc:antya:1:144|Antya 1.144]]

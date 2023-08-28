@@ -1,11 +1,5 @@
----json
-{
-    "name":"eivastra",
-    "h1":"eivastra",
-    "title":"eivastra --- synonyms, prabhupada.io",
-    "description":"this cloth."
-}
----
+~~Title:eivastra~~
+{{description>this cloth.}}
 
 ==== eivastra  ====
   * this cloth --- [[books:cc:madhya:15:47|Madhya 15.47]]

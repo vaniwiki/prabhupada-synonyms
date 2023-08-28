@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilase",
-    "h1":"vilase",
-    "title":"vilase --- synonyms, prabhupada.io",
-    "description":"They enjoy."
-}
----
+~~Title:vilase~~
+{{description>They enjoy.}}
 
 ==== vilase  ====
   * They enjoy --- [[books:cc:adi:4:56|Ādi 4.56]]

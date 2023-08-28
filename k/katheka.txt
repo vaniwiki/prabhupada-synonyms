@@ -1,11 +1,5 @@
----json
-{
-    "name":"katheka",
-    "h1":"katheka",
-    "title":"katheka --- synonyms, prabhupada.io",
-    "description":"some days."
-}
----
+~~Title:katheka~~
+{{description>some days.}}
 
 ==== katheka dina  ====
   * some days --- [[books:cc:antya:7:153-154|Antya 7.153-154]]

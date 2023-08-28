@@ -1,11 +1,5 @@
----json
-{
-    "name":"sumukhi",
-    "h1":"sumukhi",
-    "title":"sumukhi --- synonyms, prabhupada.io",
-    "description":"O beautiful-faced one."
-}
----
+~~Title:sumukhi~~
+{{description>O beautiful-faced one.}}
 
 ==== sumukhi  ====
   * O beautiful-faced one --- [[books:cc:antya:1:167|Antya 1.167]]

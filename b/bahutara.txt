@@ -1,11 +1,5 @@
----json
-{
-    "name":"bahutara",
-    "h1":"bahutara",
-    "title":"bahutara --- synonyms, prabhupada.io",
-    "description":"visiting various holy places."
-}
----
+~~Title:bahutara~~
+{{description>visiting various holy places.}}
 
 ==== kari' tīrtha bahutara  ====
   * visiting various holy places --- [[books:cc:madhya:9:318|Madhya 9.318]]

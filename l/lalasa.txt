@@ -1,11 +1,5 @@
----json
-{
-    "name":"lalasa",
-    "h1":"lalasa",
-    "title":"lalasa --- synonyms, prabhupada.io",
-    "description":"enjoyed."
-}
----
+~~Title:lalasa~~
+{{description>enjoyed.}}
 
 ==== lalāsa  ====
   * enjoyed --- [[books:cc:madhya:3:1|Madhya 3.1]], [[books:cc:antya:19:1|Antya 19.1]]

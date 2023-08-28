@@ -1,11 +1,5 @@
----json
-{
-    "name":"gatavati",
-    "h1":"gatavati",
-    "title":"gatavati --- synonyms, prabhupada.io",
-    "description":"when I am gone."
-}
----
+~~Title:gatavati~~
+{{description>when I am gone.}}
 
 ==== gatavati mayi  ====
   * when I am gone --- [[books:sb:4:28:18|SB 4.28.18]]

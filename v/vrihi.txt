@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrīhi",
-    "h1":"vrīhi",
-    "title":"vrīhi --- synonyms, prabhupada.io",
-    "description":"food grains, rice."
-}
----
+~~Title:vrīhi~~
+{{description>food grains, rice.}}
 
 ==== vrīhi  ====
   * food grains, rice --- [[books:sb:9:19:13|SB 9.19.13]]

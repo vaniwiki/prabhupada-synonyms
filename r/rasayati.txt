@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasayati",
-    "h1":"rasayati",
-    "title":"rasayati --- synonyms, prabhupada.io",
-    "description":"tastes."
-}
----
+~~Title:rasayati~~
+{{description>tastes.}}
 
 ==== rasayati  ====
   * tastes --- [[books:cc:antya:20:154|Antya 20.154]]

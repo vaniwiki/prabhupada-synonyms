@@ -1,11 +1,5 @@
----json
-{
-    "name":"edhire",
-    "h1":"edhire",
-    "title":"edhire --- synonyms, prabhupada.io",
-    "description":"multiplied."
-}
----
+~~Title:edhire~~
+{{description>multiplied.}}
 
 ==== edhire  ====
   * multiplied --- [[books:sb:3:21:1|SB 3.21.1]]

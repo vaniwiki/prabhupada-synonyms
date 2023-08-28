@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarate",
-    "h1":"tarate",
-    "title":"tarate --- synonyms, prabhupada.io",
-    "description":"can cross over."
-}
----
+~~Title:tarate~~
+{{description>can cross over.}}
 
 ==== tarate  ====
   * can cross over --- [[books:sb:9:8:13|SB 9.8.13]]

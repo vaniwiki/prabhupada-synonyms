@@ -1,11 +1,5 @@
----json
-{
-    "name":"parigham",
-    "h1":"parigham",
-    "title":"parigham --- synonyms, prabhupada.io",
-    "description":"the club; the iron club."
-}
----
+~~Title:parigham~~
+{{description>the club; the iron club.}}
 
 ==== parigham  ====
   * the club --- [[books:sb:6:12:24|SB 6.12.24]]

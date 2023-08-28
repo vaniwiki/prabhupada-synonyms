@@ -1,11 +1,5 @@
----json
-{
-    "name":"vancha",
-    "h1":"vancha",
-    "title":"vancha --- synonyms, prabhupada.io",
-    "description":"you desire."
-}
----
+~~Title:vancha~~
+{{description>you desire.}}
 
 ==== vāñcha  ====
   * you desire --- [[books:cc:madhya:16:140|Madhya 16.140]]

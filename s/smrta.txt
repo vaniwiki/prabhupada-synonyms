@@ -1,11 +1,5 @@
----json
-{
-    "name":"smrta",
-    "h1":"smrta",
-    "title":"smrta --- synonyms, prabhupada.io",
-    "description":"likened."
-}
----
+~~Title:smrta~~
+{{description>likened.}}
 
 ==== smṛtā  ====
   * likened --- [[books:bg:6:19|Bg. 6.19]]

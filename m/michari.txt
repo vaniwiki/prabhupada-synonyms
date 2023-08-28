@@ -1,11 +1,5 @@
----json
-{
-    "name":"michari",
-    "h1":"michari",
-    "title":"michari --- synonyms, prabhupada.io",
-    "description":"rock candy."
-}
----
+~~Title:michari~~
+{{description>rock candy.}}
 
 ==== michari  ====
   * rock candy --- [[books:cc:madhya:19:179|Madhya 19.179]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"tati",
-    "h1":"tati",
-    "title":"tati --- synonyms, prabhupada.io",
-    "description":"the expansion; there."
-}
----
+~~Title:tati~~
+{{description>the expansion; there.}}
 
 ==== tati  ====
   * the expansion --- [[books:cc:adi:4:77|Ādi 4.77]]

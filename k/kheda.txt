@@ -1,11 +1,5 @@
----json
-{
-    "name":"kheda",
-    "h1":"kheda",
-    "title":"kheda --- synonyms, prabhupada.io",
-    "description":"by exhaustion."
-}
----
+~~Title:kheda~~
+{{description>by exhaustion.}}
 
 ==== kheda  ====
   * by exhaustion --- [[books:sb:5:8:6|SB 5.8.6]]

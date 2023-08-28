@@ -1,11 +1,5 @@
----json
-{
-    "name":"vihartu",
-    "h1":"vihartu",
-    "title":"vihartu --- synonyms, prabhupada.io",
-    "description":"to enjoy pastimes."
-}
----
+~~Title:vihartu~~
+{{description>to enjoy pastimes.}}
 
 ==== vihartu  ====
   * to enjoy pastimes --- [[books:sb:8:6:17|SB 8.6.17]]

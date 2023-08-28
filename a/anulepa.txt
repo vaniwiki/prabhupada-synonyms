@@ -1,11 +1,5 @@
----json
-{
-    "name":"anulepa",
-    "h1":"anulepa",
-    "title":"anulepa --- synonyms, prabhupada.io",
-    "description":"sandalwood."
-}
----
+~~Title:anulepa~~
+{{description>sandalwood.}}
 
 ==== anulepa  ====
   * sandalwood --- [[books:sb:9:6:45-46|SB 9.6.45-46]]

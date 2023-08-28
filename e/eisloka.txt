@@ -1,11 +1,5 @@
----json
-{
-    "name":"eiśloka",
-    "h1":"eiśloka",
-    "title":"eiśloka --- synonyms, prabhupada.io",
-    "description":"this verse."
-}
----
+~~Title:eiśloka~~
+{{description>this verse.}}
 
 ==== eiśloka  ====
   * this verse --- [[books:cc:madhya:3:5|Madhya 3.5]], [[books:cc:antya:1:90|Antya 1.90]]

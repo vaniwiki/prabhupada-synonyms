@@ -1,11 +1,5 @@
----json
-{
-    "name":"jānibena",
-    "h1":"jānibena",
-    "title":"jānibena --- synonyms, prabhupada.io",
-    "description":"will know."
-}
----
+~~Title:jānibena~~
+{{description>will know.}}
 
 ==== jānibena  ====
   * will know --- [[books:cc:antya:7:98|Antya 7.98]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nadat",
-    "h1":"nadat",
-    "title":"nadat --- synonyms, prabhupada.io",
-    "description":"humming; resounding; vibrating."
-}
----
+~~Title:nadat~~
+{{description>humming; resounding; vibrating.}}
 
 ==== nadat  ====
   * humming --- [[books:sb:8:8:17|SB 8.8.17]]

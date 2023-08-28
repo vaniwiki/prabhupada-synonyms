@@ -1,11 +1,5 @@
----json
-{
-    "name":"medhi",
-    "h1":"medhi",
-    "title":"medhi --- synonyms, prabhupada.io",
-    "description":"a person interested only in family life."
-}
----
+~~Title:medhi~~
+{{description>a person interested only in family life.}}
 
 ==== gṛha-medhī  ====
   * a person interested only in family life --- [[books:sb:7:14:10|SB 7.14.10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"puchiye",
-    "h1":"puchiye",
-    "title":"puchiye --- synonyms, prabhupada.io",
-    "description":"I am asking."
-}
----
+~~Title:puchiye~~
+{{description>I am asking.}}
 
 ==== puchiye  ====
   * I am asking --- [[books:cc:adi:16:51|Ādi 16.51]]

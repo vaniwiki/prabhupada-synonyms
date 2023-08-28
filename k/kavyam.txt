@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavyam",
-    "h1":"kavyam",
-    "title":"kavyam --- synonyms, prabhupada.io",
-    "description":"offerings of food to ancestors."
-}
----
+~~Title:kavyam~~
+{{description>offerings of food to ancestors.}}
 
 ==== kavyam  ====
   * offerings of food to ancestors --- [[books:sb:4:18:18|SB 4.18.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prajahi",
-    "h1":"prajahi",
-    "title":"prajahi --- synonyms, prabhupada.io",
-    "description":"curb."
-}
----
+~~Title:prajahi~~
+{{description>curb.}}
 
 ==== prajahi  ====
   * curb --- [[books:bg:3:41|Bg. 3.41]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"phule",
-    "h1":"phule",
-    "title":"phule --- synonyms, prabhupada.io",
-    "description":"eruptions; fattens; were excited."
-}
----
+~~Title:phule~~
+{{description>eruptions; fattens; were excited.}}
 
 ==== phule  ====
   * eruptions --- [[books:cc:madhya:14:60|Madhya 14.60]]

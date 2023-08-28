@@ -1,11 +1,5 @@
----json
-{
-    "name":"avatari",
-    "h1":"avatari",
-    "title":"avatari --- synonyms, prabhupada.io",
-    "description":"advented; adventing Himseif; descending."
-}
----
+~~Title:avatari~~
+{{description>advented; adventing Himseif; descending.}}
 
 ==== avatari  ====
   * advented --- [[books:cc:adi:13:94|Ādi 13.94]]

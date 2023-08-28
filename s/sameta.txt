@@ -1,11 +1,5 @@
----json
-{
-    "name":"sametā",
-    "h1":"sametā",
-    "title":"sametā --- synonyms, prabhupada.io",
-    "description":"joined."
-}
----
+~~Title:sametā~~
+{{description>joined.}}
 
 ==== sametā  ====
   * joined --- [[books:sb:8:12:40|SB 8.12.40]]

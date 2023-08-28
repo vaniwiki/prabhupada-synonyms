@@ -1,11 +1,5 @@
----json
-{
-    "name":"nadih",
-    "h1":"nadih",
-    "title":"nadih --- synonyms, prabhupada.io",
-    "description":"the rivers."
-}
----
+~~Title:nadih~~
+{{description>the rivers.}}
 
 ==== nadīḥ  ====
   * the rivers --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

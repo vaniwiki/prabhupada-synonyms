@@ -1,11 +1,5 @@
----json
-{
-    "name":"krpa",
-    "h1":"krpa",
-    "title":"krpa --- synonyms, prabhupada.io",
-    "description":"Kṛpa; mercy."
-}
----
+~~Title:krpa~~
+{{description>Kṛpa; mercy.}}
 
 ==== kṛpa  ====
   * Kṛpa --- [[books:sb:1:12:13|SB 1.12.13]]

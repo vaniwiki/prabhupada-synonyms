@@ -1,11 +1,5 @@
----json
-{
-    "name":"uccaritam",
-    "h1":"uccaritam",
-    "title":"uccaritam --- synonyms, prabhupada.io",
-    "description":"like stool."
-}
----
+~~Title:uccaritam~~
+{{description>like stool.}}
 
 ==== uccaritam  ====
   * like stool --- [[books:sb:9:18:44|SB 9.18.44]]

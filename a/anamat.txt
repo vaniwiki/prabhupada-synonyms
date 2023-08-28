@@ -1,11 +1,5 @@
----json
-{
-    "name":"anamat",
-    "h1":"anamat",
-    "title":"anamat --- synonyms, prabhupada.io",
-    "description":"offered respectful obeisances."
-}
----
+~~Title:anamat~~
+{{description>offered respectful obeisances.}}
 
 ==== anamat  ====
   * offered respectful obeisances --- [[books:sb:6:16:31|SB 6.16.31]]

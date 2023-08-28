@@ -1,11 +1,5 @@
----json
-{
-    "name":"ragi",
-    "h1":"ragi",
-    "title":"ragi --- synonyms, prabhupada.io",
-    "description":"very much attached."
-}
----
+~~Title:ragi~~
+{{description>very much attached.}}
 
 ==== rāgī  ====
   * very much attached --- [[books:bg:18:27|Bg. 18.27]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakuntah",
-    "h1":"sakuntah",
-    "title":"sakuntah --- synonyms, prabhupada.io",
-    "description":"a bird."
-}
----
+~~Title:sakuntah~~
+{{description>a bird.}}
 
 ==== śakuntaḥ  ====
   * a bird --- [[books:sb:3:31:9|SB 3.31.9]]

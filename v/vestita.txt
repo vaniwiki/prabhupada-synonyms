@@ -1,11 +1,5 @@
----json
-{
-    "name":"vestita",
-    "h1":"vestita",
-    "title":"vestita --- synonyms, prabhupada.io",
-    "description":"covered; surrounded."
-}
----
+~~Title:vestita~~
+{{description>covered; surrounded.}}
 
 ==== veṣṭita  ====
   * covered --- [[books:cc:madhya:20:114|Madhya 20.114]]

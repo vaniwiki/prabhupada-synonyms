@@ -1,11 +1,5 @@
----json
-{
-    "name":"gotra",
-    "h1":"gotra",
-    "title":"gotra --- synonyms, prabhupada.io",
-    "description":"the hill for the cows."
-}
----
+~~Title:gotra~~
+{{description>the hill for the cows.}}
 
 ==== gotra  ====
   * the hill for the cows --- [[books:sb:3:2:33|SB 3.2.33]]

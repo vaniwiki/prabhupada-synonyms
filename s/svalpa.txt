@@ -1,11 +1,5 @@
----json
-{
-    "name":"svalpa",
-    "h1":"svalpa",
-    "title":"svalpa --- synonyms, prabhupada.io",
-    "description":"a small quantity."
-}
----
+~~Title:svalpa~~
+{{description>a small quantity.}}
 
 ==== svalpa  ====
   * a small quantity --- [[books:cc:madhya:24:194|Madhya 24.194]]

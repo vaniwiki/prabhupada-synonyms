@@ -1,11 +1,5 @@
----json
-{
-    "name":"sanakam",
-    "h1":"sanakam",
-    "title":"sanakam --- synonyms, prabhupada.io",
-    "description":"Sanaka."
-}
----
+~~Title:sanakam~~
+{{description>Sanaka.}}
 
 ==== sanakam  ====
   * Sanaka --- [[books:sb:3:12:4|SB 3.12.4]]

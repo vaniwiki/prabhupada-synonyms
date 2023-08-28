@@ -1,11 +1,5 @@
----json
-{
-    "name":"likha",
-    "h1":"likha",
-    "title":"likha --- synonyms, prabhupada.io",
-    "description":"you are writing."
-}
----
+~~Title:likha~~
+{{description>you are writing.}}
 
 ==== likha  ====
   * you are writing --- [[books:cc:antya:1:96|Antya 1.96]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vipade",
-    "h1":"vipade",
-    "title":"vipade --- synonyms, prabhupada.io",
-    "description":"from danger."
-}
----
+~~Title:vipade~~
+{{description>from danger.}}
 
 ==== vipade  ====
   * from danger --- [[books:cc:antya:9:131|Antya 9.131]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kandare",
-    "h1":"kandare",
-    "title":"kandare --- synonyms, prabhupada.io",
-    "description":"in the cavern."
-}
----
+~~Title:kandare~~
+{{description>in the cavern.}}
 
 ==== kandare  ====
   * in the cavern --- [[books:cc:adi:3:31|Ādi 3.31]]

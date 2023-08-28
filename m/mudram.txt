@@ -1,11 +1,5 @@
----json
-{
-    "name":"mudrām",
-    "h1":"mudrām",
-    "title":"mudrām --- synonyms, prabhupada.io",
-    "description":"the mark."
-}
----
+~~Title:mudrām~~
+{{description>the mark.}}
 
 ==== mudrām  ====
   * the mark --- [[books:cc:adi:3:66|Ādi 3.66]]

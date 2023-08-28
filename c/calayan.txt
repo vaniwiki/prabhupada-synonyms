@@ -1,11 +1,5 @@
----json
-{
-    "name":"calayan",
-    "h1":"calayan",
-    "title":"calayan --- synonyms, prabhupada.io",
-    "description":"walking."
-}
----
+~~Title:calayan~~
+{{description>walking.}}
 
 ==== calayan  ====
   * walking --- [[books:sb:3:15:37|SB 3.15.37]]

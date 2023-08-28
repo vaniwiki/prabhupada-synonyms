@@ -1,11 +1,5 @@
----json
-{
-    "name":"sad",
-    "h1":"sad",
-    "title":"sad --- synonyms, prabhupada.io",
-    "description":"good behavior."
-}
----
+~~Title:sad~~
+{{description>good behavior.}}
 
 ==== sad-ācāra  ====
   * good behavior --- [[books:cc:adi:10:89|Ādi 10.89]]

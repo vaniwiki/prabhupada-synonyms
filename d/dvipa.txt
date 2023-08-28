@@ -1,11 +1,5 @@
----json
-{
-    "name":"dvipa",
-    "h1":"dvipa",
-    "title":"dvipa --- synonyms, prabhupada.io",
-    "description":"water elephants."
-}
----
+~~Title:dvipa~~
+{{description>water elephants.}}
 
 ==== dvipa  ====
   * water elephants --- [[books:sb:8:7:18|SB 8.7.18]]

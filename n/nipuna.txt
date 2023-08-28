@@ -1,11 +1,5 @@
----json
-{
-    "name":"nipuna",
-    "h1":"nipuna",
-    "title":"nipuna --- synonyms, prabhupada.io",
-    "description":"very expert."
-}
----
+~~Title:nipuna~~
+{{description>very expert.}}
 
 ==== nipuṇa  ====
   * very expert --- [[books:cc:madhya:12:44|Madhya 12.44]]

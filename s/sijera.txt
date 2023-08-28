@@ -1,11 +1,5 @@
----json
-{
-    "name":"sijera",
-    "h1":"sijera",
-    "title":"sijera --- synonyms, prabhupada.io",
-    "description":"thorny hedges."
-}
----
+~~Title:sijera~~
+{{description>thorny hedges.}}
 
 ==== sijera bāḍi  ====
   * thorny hedges --- [[books:cc:antya:13:81|Antya 13.81]]

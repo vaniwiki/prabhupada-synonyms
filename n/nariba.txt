@@ -1,11 +1,5 @@
----json
-{
-    "name":"nariba",
-    "h1":"nariba",
-    "title":"nariba --- synonyms, prabhupada.io",
-    "description":"I shall not be able; I will not be able; shall be unable; shall not be able."
-}
----
+~~Title:nariba~~
+{{description>I shall not be able; I will not be able; shall be unable; shall not be able.}}
 
 ==== nāriba  ====
   * I shall not be able --- [[books:cc:madhya:8:240|Madhya 8.240]]

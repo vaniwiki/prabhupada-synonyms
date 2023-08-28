@@ -1,11 +1,5 @@
----json
-{
-    "name":"homa",
-    "h1":"homa",
-    "title":"homa --- synonyms, prabhupada.io",
-    "description":"on the completion of the ceremony."
-}
----
+~~Title:homa~~
+{{description>on the completion of the ceremony.}}
 
 ==== homa-avasāne  ====
   * on the completion of the ceremony --- [[books:sb:6:19:26-28|SB 6.19.26-28]]

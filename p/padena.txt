@@ -1,11 +1,5 @@
----json
-{
-    "name":"padena",
-    "h1":"padena",
-    "title":"padena --- synonyms, prabhupada.io",
-    "description":"by the word."
-}
----
+~~Title:padena~~
+{{description>by the word.}}
 
 ==== padena  ====
   * by the word --- [[books:cc:madhya:9:29|Madhya 9.29]]

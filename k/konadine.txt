@@ -1,11 +1,5 @@
----json
-{
-    "name":"konadine",
-    "h1":"konadine",
-    "title":"konadine --- synonyms, prabhupada.io",
-    "description":"some days."
-}
----
+~~Title:konadine~~
+{{description>some days.}}
 
 ==== konadine  ====
   * some days --- [[books:cc:adi:10:156|Ādi 10.156]]

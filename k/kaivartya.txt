@@ -1,11 +1,5 @@
----json
-{
-    "name":"kaivartya",
-    "h1":"kaivartya",
-    "title":"kaivartya --- synonyms, prabhupada.io",
-    "description":"a fisherman."
-}
----
+~~Title:kaivartya~~
+{{description>a fisherman.}}
 
 ==== kaivartya  ====
   * a fisherman --- [[books:cc:madhya:18:104|Madhya 18.104]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"aut",
-    "h1":"aut",
-    "title":"aut --- synonyms, prabhupada.io",
-    "description":"attachment."
-}
----
+~~Title:aut~~
+{{description>attachment.}}
 
 ==== aut-kaṇṭhyam  ====
   * attachment --- [[books:sb:10:13:35|SB 10.13.35]]

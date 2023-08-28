@@ -1,11 +1,5 @@
----json
-{
-    "name":"pītasya",
-    "h1":"pītasya",
-    "title":"pītasya --- synonyms, prabhupada.io",
-    "description":"anyone who drinks."
-}
----
+~~Title:pītasya~~
+{{description>anyone who drinks.}}
 
 ==== pītasya  ====
   * anyone who drinks --- [[books:sb:8:6:21|SB 8.6.21]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vastura",
-    "h1":"vastura",
-    "title":"vastura --- synonyms, prabhupada.io",
-    "description":"of ingredients; of the object."
-}
----
+~~Title:vastura~~
+{{description>of ingredients; of the object.}}
 
 ==== vastura  ====
   * of ingredients --- [[books:cc:antya:16:108-109|Antya 16.108-109]]

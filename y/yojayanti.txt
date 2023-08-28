@@ -1,11 +1,5 @@
----json
-{
-    "name":"yojayanti",
-    "h1":"yojayanti",
-    "title":"yojayanti --- synonyms, prabhupada.io",
-    "description":"join."
-}
----
+~~Title:yojayanti~~
+{{description>join.}}
 
 ==== yojayanti  ====
   * join --- [[books:cc:antya:1:186|Antya 1.186]]

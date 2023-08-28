@@ -1,11 +1,5 @@
----json
-{
-    "name":"acira",
-    "h1":"acira",
-    "title":"acira --- synonyms, prabhupada.io",
-    "description":"temporarily."
-}
----
+~~Title:acira~~
+{{description>temporarily.}}
 
 ==== acira-mātram  ====
   * temporarily --- [[books:sb:3:15:18|SB 3.15.18]]

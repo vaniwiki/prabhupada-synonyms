@@ -1,11 +1,5 @@
----json
-{
-    "name":"dikera",
-    "h1":"dikera",
-    "title":"dikera --- synonyms, prabhupada.io",
-    "description":"in all four directions."
-}
----
+~~Title:dikera~~
+{{description>in all four directions.}}
 
 ==== cāri-dikera  ====
   * in all four directions --- [[books:cc:madhya:11:223|Madhya 11.223]]

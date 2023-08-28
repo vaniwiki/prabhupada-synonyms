@@ -1,11 +1,5 @@
----json
-{
-    "name":"rujam",
-    "h1":"rujam",
-    "title":"rujam --- synonyms, prabhupada.io",
-    "description":"the pain."
-}
----
+~~Title:rujam~~
+{{description>the pain.}}
 
 ==== rujam  ====
   * the pain --- [[books:sb:8:11:18|SB 8.11.18]]

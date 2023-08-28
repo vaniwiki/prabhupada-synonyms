@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravisan",
-    "h1":"pravisan",
-    "title":"pravisan --- synonyms, prabhupada.io",
-    "description":"entering."
-}
----
+~~Title:pravisan~~
+{{description>entering.}}
 
 ==== praviśan  ====
   * entering --- [[books:sb:2:7:7|SB 2.7.7]], [[books:sb:3:32:38|SB 3.32.38]], [[books:sb:5:14:18|SB 5.14.18]]

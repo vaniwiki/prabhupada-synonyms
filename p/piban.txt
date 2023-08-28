@@ -1,11 +1,5 @@
----json
-{
-    "name":"piban",
-    "h1":"piban",
-    "title":"piban --- synonyms, prabhupada.io",
-    "description":"drinking."
-}
----
+~~Title:piban~~
+{{description>drinking.}}
 
 ==== piban  ====
   * drinking --- [[books:sb:3:20:6|SB 3.20.6]]

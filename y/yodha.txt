@@ -1,11 +1,5 @@
----json
-{
-    "name":"yodha",
-    "h1":"yodha",
-    "title":"yodha --- synonyms, prabhupada.io",
-    "description":"chief among the warriors."
-}
----
+~~Title:yodha~~
+{{description>chief among the warriors.}}
 
 ==== yodha-mukhyaiḥ  ====
   * chief among the warriors --- [[books:bg:11:26-27|Bg. 11.26-27]]

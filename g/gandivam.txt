@@ -1,11 +1,5 @@
----json
-{
-    "name":"gandivam",
-    "h1":"gandivam",
-    "title":"gandivam --- synonyms, prabhupada.io",
-    "description":"Gāṇḍīva."
-}
----
+~~Title:gandivam~~
+{{description>Gāṇḍīva.}}
 
 ==== gāṇḍivam  ====
   * Gāṇḍīva --- [[books:sb:1:9:15|SB 1.9.15]]

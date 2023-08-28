@@ -1,11 +1,5 @@
----json
-{
-    "name":"arasa",
-    "h1":"arasa",
-    "title":"arasa --- synonyms, prabhupada.io",
-    "description":"those who are without mellows."
-}
----
+~~Title:arasa~~
+{{description>those who are without mellows.}}
 
 ==== arasa-jña  ====
   * those who are without mellows --- [[books:cc:madhya:8:258|Madhya 8.258]]

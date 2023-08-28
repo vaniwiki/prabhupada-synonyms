@@ -1,11 +1,5 @@
----json
-{
-    "name":"deśam",
-    "h1":"deśam",
-    "title":"deśam --- synonyms, prabhupada.io",
-    "description":"country; the country."
-}
----
+~~Title:deśam~~
+{{description>country; the country.}}
 
 ==== deśam  ====
   * country --- [[books:sb:5:5:33|SB 5.5.33]]

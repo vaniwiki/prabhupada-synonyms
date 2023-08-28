@@ -1,11 +1,5 @@
----json
-{
-    "name":"śaki",
-    "h1":"śaki",
-    "title":"śaki --- synonyms, prabhupada.io",
-    "description":"I am able."
-}
----
+~~Title:śaki~~
+{{description>I am able.}}
 
 ==== śaki  ====
   * I am able --- [[books:cc:madhya:3:54|Madhya 3.54]]

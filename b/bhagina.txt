@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhagina",
-    "h1":"bhagina",
-    "title":"bhagina --- synonyms, prabhupada.io",
-    "description":"nephew."
-}
----
+~~Title:bhagina~~
+{{description>nephew.}}
 
 ==== bhāgina  ====
   * nephew --- [[books:cc:adi:17:48|Ādi 17.48]]

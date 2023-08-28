@@ -1,11 +1,5 @@
----json
-{
-    "name":"esana",
-    "h1":"esana",
-    "title":"esana --- synonyms, prabhupada.io",
-    "description":"desires."
-}
----
+~~Title:esana~~
+{{description>desires.}}
 
 ==== eṣaṇa  ====
   * desires --- [[books:sb:4:31:20|SB 4.31.20]]

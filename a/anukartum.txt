@@ -1,11 +1,5 @@
----json
-{
-    "name":"anukartum",
-    "h1":"anukartum",
-    "title":"anukartum --- synonyms, prabhupada.io",
-    "description":"do the same."
-}
----
+~~Title:anukartum~~
+{{description>do the same.}}
 
 ==== anukartum  ====
   * do the same --- [[books:sb:3:14:21|SB 3.14.21]]

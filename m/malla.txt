@@ -1,11 +1,5 @@
----json
-{
-    "name":"malla",
-    "h1":"malla",
-    "title":"malla --- synonyms, prabhupada.io",
-    "description":"a wrestler in the court of Kaṁsa."
-}
----
+~~Title:malla~~
+{{description>a wrestler in the court of Kaṁsa.}}
 
 ==== malla  ====
   * a wrestler in the court of Kaṁsa --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

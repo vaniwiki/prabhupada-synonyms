@@ -1,11 +1,5 @@
----json
-{
-    "name":"nicitam",
-    "h1":"nicitam",
-    "title":"nicitam --- synonyms, prabhupada.io",
-    "description":"covered."
-}
----
+~~Title:nicitam~~
+{{description>covered.}}
 
 ==== nicitam  ====
   * covered --- [[books:cc:antya:20:36|Antya 20.36]]

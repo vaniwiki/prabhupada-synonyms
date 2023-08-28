@@ -1,11 +1,5 @@
----json
-{
-    "name":"randhane",
-    "h1":"randhane",
-    "title":"randhane --- synonyms, prabhupada.io",
-    "description":"in cooking."
-}
----
+~~Title:randhane~~
+{{description>in cooking.}}
 
 ==== randhane  ====
   * in cooking --- [[books:cc:madhya:9:298|Madhya 9.298]], [[books:cc:madhya:15:233|Madhya 15.233]]

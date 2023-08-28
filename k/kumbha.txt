@@ -1,11 +1,5 @@
----json
-{
-    "name":"kumbha",
-    "h1":"kumbha",
-    "title":"kumbha --- synonyms, prabhupada.io",
-    "description":"Kumbha."
-}
----
+~~Title:kumbha~~
+{{description>Kumbha.}}
 
 ==== kumbha  ====
   * Kumbha --- [[books:sb:9:10:18|SB 9.10.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hrdyah",
-    "h1":"hrdyah",
-    "title":"hrdyah --- synonyms, prabhupada.io",
-    "description":"the delight."
-}
----
+~~Title:hrdyah~~
+{{description>the delight.}}
 
 ==== hṛdyaḥ  ====
   * the delight --- [[books:sb:3:15:37|SB 3.15.37]]

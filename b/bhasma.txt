@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhasma",
-    "h1":"bhasma",
-    "title":"bhasma --- synonyms, prabhupada.io",
-    "description":"ashes; with the ashes."
-}
----
+~~Title:bhasma~~
+{{description>ashes; with the ashes.}}
 
 ==== bhasma  ====
   * ashes --- [[books:sb:3:14:25|SB 3.14.25]], [[books:sb:4:6:36|SB 4.6.36]], [[books:sb:6:18:25|SB 6.18.25]], [[books:sb:7:14:13|SB 7.14.13]]

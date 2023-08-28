@@ -1,11 +1,5 @@
----json
-{
-    "name":"apraja",
-    "h1":"apraja",
-    "title":"apraja --- synonyms, prabhupada.io",
-    "description":"having no son."
-}
----
+~~Title:apraja~~
+{{description>having no son.}}
 
 ==== aprajā  ====
   * having no son --- [[books:sb:4:13:38|SB 4.13.38]]

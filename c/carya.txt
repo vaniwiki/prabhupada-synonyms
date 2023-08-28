@@ -1,11 +1,5 @@
----json
-{
-    "name":"carya",
-    "h1":"carya",
-    "title":"carya --- synonyms, prabhupada.io",
-    "description":"activity; performances."
-}
----
+~~Title:carya~~
+{{description>activity; performances.}}
 
 ==== caryā  ====
   * activity --- [[books:sb:3:14:29|SB 3.14.29]]

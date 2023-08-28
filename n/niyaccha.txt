@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyaccha",
-    "h1":"niyaccha",
-    "title":"niyaccha --- synonyms, prabhupada.io",
-    "description":"fix; give up."
-}
----
+~~Title:niyaccha~~
+{{description>fix; give up.}}
 
 ==== niyaccha  ====
   * fix --- [[books:sb:4:29:55|SB 4.29.55]]

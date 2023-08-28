@@ -1,11 +1,5 @@
----json
-{
-    "name":"subodha",
-    "h1":"subodha",
-    "title":"subodha --- synonyms, prabhupada.io",
-    "description":"understanding."
-}
----
+~~Title:subodha~~
+{{description>understanding.}}
 
 ==== subodha  ====
   * understanding --- [[books:cc:adi:16:79|Ādi 16.79]]

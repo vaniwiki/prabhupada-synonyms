@@ -1,11 +1,5 @@
----json
-{
-    "name":"anati",
-    "h1":"anati",
-    "title":"anati --- synonyms, prabhupada.io",
-    "description":"by obeisances."
-}
----
+~~Title:anati~~
+{{description>by obeisances.}}
 
 ==== ānati  ====
   * by obeisances --- [[books:sb:3:15:20|SB 3.15.20]]

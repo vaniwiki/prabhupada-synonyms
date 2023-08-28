@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikriyate",
-    "h1":"vikriyate",
-    "title":"vikriyate --- synonyms, prabhupada.io",
-    "description":"is agitated."
-}
----
+~~Title:vikriyate~~
+{{description>is agitated.}}
 
 ==== vikriyate  ====
   * is agitated --- [[books:sb:4:29:17|SB 4.29.17]]

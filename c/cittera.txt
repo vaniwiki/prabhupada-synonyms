@@ -1,11 +1,5 @@
----json
-{
-    "name":"cittera",
-    "h1":"cittera",
-    "title":"cittera --- synonyms, prabhupada.io",
-    "description":"of the heart; of the mind."
-}
----
+~~Title:cittera~~
+{{description>of the heart; of the mind.}}
 
 ==== cittera  ====
   * of the heart --- [[books:cc:adi:1:107|Ādi 1.107]], [[books:cc:madhya:10:113|Madhya 10.113]], [[books:cc:madhya:24:351|Madhya 24.351]]

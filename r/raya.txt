@@ -1,11 +1,5 @@
----json
-{
-    "name":"raya",
-    "h1":"raya",
-    "title":"raya --- synonyms, prabhupada.io",
-    "description":"by the course; stay."
-}
----
+~~Title:raya~~
+{{description>by the course; stay.}}
 
 ==== raya  ====
   * by the course --- [[books:sb:5:3:14|SB 5.3.14]]

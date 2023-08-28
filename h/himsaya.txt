@@ -1,11 +1,5 @@
----json
-{
-    "name":"himsaya",
-    "h1":"himsaya",
-    "title":"himsaya --- synonyms, prabhupada.io",
-    "description":"by violence."
-}
----
+~~Title:himsaya~~
+{{description>by violence.}}
 
 ==== hiṁsayā  ====
   * by violence --- [[books:sb:3:30:10|SB 3.30.10]]

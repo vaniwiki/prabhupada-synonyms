@@ -1,11 +1,5 @@
----json
-{
-    "name":"viharati",
-    "h1":"viharati",
-    "title":"viharati --- synonyms, prabhupada.io",
-    "description":"glitters."
-}
----
+~~Title:viharati~~
+{{description>glitters.}}
 
 ==== viharati  ====
   * glitters --- [[books:cc:antya:1:161|Antya 1.161]]

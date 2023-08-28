@@ -1,11 +1,5 @@
----json
-{
-    "name":"vartase",
-    "h1":"vartase",
-    "title":"vartase --- synonyms, prabhupada.io",
-    "description":"you exist."
-}
----
+~~Title:vartase~~
+{{description>you exist.}}
 
 ==== vartase  ====
   * you exist --- [[books:sb:1:16:25|SB 1.16.25]]

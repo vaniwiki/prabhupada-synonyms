@@ -1,11 +1,5 @@
----json
-{
-    "name":"naradevam",
-    "h1":"naradevam",
-    "title":"naradevam --- synonyms, prabhupada.io",
-    "description":"the king."
-}
----
+~~Title:naradevam~~
+{{description>the king.}}
 
 ==== naradevam  ====
   * the king --- [[books:sb:9:15:38|SB 9.15.38]]

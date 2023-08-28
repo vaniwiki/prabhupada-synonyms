@@ -1,11 +1,5 @@
----json
-{
-    "name":"anunītena",
-    "h1":"anunītena",
-    "title":"anunītena --- synonyms, prabhupada.io",
-    "description":"pacified."
-}
----
+~~Title:anunītena~~
+{{description>pacified.}}
 
 ==== anunītena  ====
   * pacified --- [[books:sb:4:7:1|SB 4.7.1]]

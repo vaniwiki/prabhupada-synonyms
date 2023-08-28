@@ -1,11 +1,5 @@
----json
-{
-    "name":"varana",
-    "h1":"varana",
-    "title":"varana --- synonyms, prabhupada.io",
-    "description":"complexion; luster; the color."
-}
----
+~~Title:varana~~
+{{description>complexion; luster; the color.}}
 
 ==== varaṇa  ====
   * complexion --- [[books:cc:madhya:17:107|Madhya 17.107]]

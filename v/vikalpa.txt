@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikalpa",
-    "h1":"vikalpa",
-    "title":"vikalpa --- synonyms, prabhupada.io",
-    "description":"full of equivocal calculations."
-}
----
+~~Title:vikalpa~~
+{{description>full of equivocal calculations.}}
 
 ==== vikalpa  ====
   * full of equivocal calculations --- [[books:sb:6:9:36|SB 6.9.36]]

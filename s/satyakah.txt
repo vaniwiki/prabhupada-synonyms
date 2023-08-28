@@ -1,11 +1,5 @@
----json
-{
-    "name":"satyakah",
-    "h1":"satyakah",
-    "title":"satyakah --- synonyms, prabhupada.io",
-    "description":"the son named Satyaka."
-}
----
+~~Title:satyakah~~
+{{description>the son named Satyaka.}}
 
 ==== satyakaḥ  ====
   * the son named Satyaka --- [[books:sb:9:24:13|SB 9.24.13]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"cetase",
-    "h1":"cetase",
-    "title":"cetase --- synonyms, prabhupada.io",
-    "description":"to one who is too attached to family life."
-}
----
+~~Title:cetase~~
+{{description>to one who is too attached to family life.}}
 
 ==== gṛha-ārūḍha-cetase  ====
   * to one who is too attached to family life --- [[books:sb:3:32:40|SB 3.32.40]]

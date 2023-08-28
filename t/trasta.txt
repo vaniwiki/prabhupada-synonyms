@@ -1,11 +1,5 @@
----json
-{
-    "name":"trasta",
-    "h1":"trasta",
-    "title":"trasta --- synonyms, prabhupada.io",
-    "description":"become afraid; fearing; frightened."
-}
----
+~~Title:trasta~~
+{{description>become afraid; fearing; frightened.}}
 
 ==== trasta  ====
   * become afraid --- [[books:sb:7:5:49|SB 7.5.49]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevya",
-    "h1":"sevya",
-    "title":"sevya --- synonyms, prabhupada.io",
-    "description":"worshipable."
-}
----
+~~Title:sevya~~
+{{description>worshipable.}}
 
 ==== sevya  ====
   * worshipable --- [[books:cc:madhya:18:200|Madhya 18.200]]

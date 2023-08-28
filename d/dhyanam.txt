@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhyānam",
-    "h1":"dhyānam",
-    "title":"dhyānam --- synonyms, prabhupada.io",
-    "description":"meditation."
-}
----
+~~Title:dhyānam~~
+{{description>meditation.}}
 
 ==== dhyānam  ====
   * meditation --- [[books:bg:12:12|Bg. 12.12]]

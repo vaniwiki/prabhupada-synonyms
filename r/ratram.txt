@@ -1,11 +1,5 @@
----json
-{
-    "name":"rātram",
-    "h1":"rātram",
-    "title":"rātram --- synonyms, prabhupada.io",
-    "description":"one night only."
-}
----
+~~Title:rātram~~
+{{description>one night only.}}
 
 ==== eka-rātram  ====
   * one night only --- [[books:sb:9:14:39|SB 9.14.39]]

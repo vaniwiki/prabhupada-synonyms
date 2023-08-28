@@ -1,11 +1,5 @@
----json
-{
-    "name":"chatram",
-    "h1":"chatram",
-    "title":"chatram --- synonyms, prabhupada.io",
-    "description":"an umbrella; umbrella."
-}
----
+~~Title:chatram~~
+{{description>an umbrella; umbrella.}}
 
 ==== chatram  ====
   * an umbrella --- [[books:sb:8:18:15|SB 8.18.15]]

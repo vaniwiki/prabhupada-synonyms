@@ -1,11 +1,5 @@
----json
-{
-    "name":"disa",
-    "h1":"disa",
-    "title":"disa --- synonyms, prabhupada.io",
-    "description":"please order."
-}
----
+~~Title:disa~~
+{{description>please order.}}
 
 ==== diśa  ====
   * please order --- [[books:sb:7:2:34|SB 7.2.34]]

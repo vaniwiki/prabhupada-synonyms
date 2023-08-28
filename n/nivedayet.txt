@@ -1,11 +1,5 @@
----json
-{
-    "name":"nivedayet",
-    "h1":"nivedayet",
-    "title":"nivedayet --- synonyms, prabhupada.io",
-    "description":"one should offer; should offer."
-}
----
+~~Title:nivedayet~~
+{{description>one should offer; should offer.}}
 
 ==== nivedayet  ====
   * one should offer --- [[books:sb:8:16:41|SB 8.16.41]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sapatna",
-    "h1":"sapatna",
-    "title":"sapatna --- synonyms, prabhupada.io",
-    "description":"competitors; enemies."
-}
----
+~~Title:sapatna~~
+{{description>competitors; enemies.}}
 
 ==== sapatna  ====
   * competitors --- [[books:sb:1:14:9|SB 1.14.9]]

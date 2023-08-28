@@ -1,11 +1,5 @@
----json
-{
-    "name":"amanda",
-    "h1":"amanda",
-    "title":"amanda --- synonyms, prabhupada.io",
-    "description":"bright; of good fortune."
-}
----
+~~Title:amanda~~
+{{description>bright; of good fortune.}}
 
 ==== amanda  ====
   * bright --- [[books:cc:antya:15:63|Antya 15.63]]

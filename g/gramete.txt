@@ -1,11 +1,5 @@
----json
-{
-    "name":"grāmete",
-    "h1":"grāmete",
-    "title":"grāmete --- synonyms, prabhupada.io",
-    "description":"in My village."
-}
----
+~~Title:grāmete~~
+{{description>in My village.}}
 
 ==== āmāra grāmete  ====
   * in My village --- [[books:cc:madhya:4:28|Madhya 4.28]]

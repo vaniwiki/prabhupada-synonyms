@@ -1,11 +1,5 @@
----json
-{
-    "name":"kūpam",
-    "h1":"kūpam",
-    "title":"kūpam --- synonyms, prabhupada.io",
-    "description":"a well."
-}
----
+~~Title:kūpam~~
+{{description>a well.}}
 
 ==== kūpam  ====
   * a well --- [[books:sb:3:31:40|SB 3.31.40]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"guhya",
-    "h1":"guhya",
-    "title":"guhya --- synonyms, prabhupada.io",
-    "description":"confidential; very confidential."
-}
----
+~~Title:guhya~~
+{{description>confidential; very confidential.}}
 
 ==== guhya  ====
   * confidential --- [[books:sb:1:9:47|SB 1.9.47]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsare",
-    "h1":"vatsare",
-    "title":"vatsare --- synonyms, prabhupada.io",
-    "description":"in the year."
-}
----
+~~Title:vatsare~~
+{{description>in the year.}}
 
 ==== vatsare  ====
   * in the year --- [[books:cc:madhya:1:46|Madhya 1.46]]

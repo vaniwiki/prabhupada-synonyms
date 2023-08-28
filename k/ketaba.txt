@@ -1,11 +1,5 @@
----json
-{
-    "name":"ketāba",
-    "h1":"ketāba",
-    "title":"ketāba --- synonyms, prabhupada.io",
-    "description":"books."
-}
----
+~~Title:ketāba~~
+{{description>books.}}
 
 ==== ketāba  ====
   * books --- [[books:cc:madhya:20:5|Madhya 20.5]]

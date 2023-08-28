@@ -1,11 +1,5 @@
----json
-{
-    "name":"janmejanme",
-    "h1":"janmejanme",
-    "title":"janmejanme --- synonyms, prabhupada.io",
-    "description":"birth after birth."
-}
----
+~~Title:janmejanme~~
+{{description>birth after birth.}}
 
 ==== janmejanme  ====
   * birth after birth --- [[books:cc:madhya:1:215|Madhya 1.215]]

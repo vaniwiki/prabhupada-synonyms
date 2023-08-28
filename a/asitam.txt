@@ -1,11 +1,5 @@
----json
-{
-    "name":"aśitam",
-    "h1":"aśitam",
-    "title":"aśitam --- synonyms, prabhupada.io",
-    "description":"eating."
-}
----
+~~Title:aśitam~~
+{{description>eating.}}
 
 ==== aśitam  ====
   * eating --- [[books:sb:9:4:39-40|SB 9.4.39-40]]

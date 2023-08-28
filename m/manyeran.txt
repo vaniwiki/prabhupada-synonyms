@@ -1,11 +1,5 @@
----json
-{
-    "name":"manyeran",
-    "h1":"manyeran",
-    "title":"manyeran --- synonyms, prabhupada.io",
-    "description":"would think."
-}
----
+~~Title:manyeran~~
+{{description>would think.}}
 
 ==== manyeran  ====
   * would think --- [[books:cc:adi:1:73-74|Ādi 1.73-74]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuragi",
-    "h1":"anuragi",
-    "title":"anuragi --- synonyms, prabhupada.io",
-    "description":"attached."
-}
----
+~~Title:anuragi~~
+{{description>attached.}}
 
 ==== anurāgi  ====
   * attached --- [[books:noi:8|NoI 8]]

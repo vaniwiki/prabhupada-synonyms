@@ -1,11 +1,5 @@
----json
-{
-    "name":"matrah",
-    "h1":"matrah",
-    "title":"matrah --- synonyms, prabhupada.io",
-    "description":"only."
-}
----
+~~Title:matrah~~
+{{description>only.}}
 
 ==== mātraḥ  ====
   * only --- [[books:sb:3:13:22|SB 3.13.22]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"parvate",
-    "h1":"parvate",
-    "title":"parvate --- synonyms, prabhupada.io",
-    "description":"my dear Parvata; on the hill."
-}
----
+~~Title:parvate~~
+{{description>my dear Parvata; on the hill.}}
 
 ==== parvate  ====
   * my dear Parvata --- [[books:cc:madhya:24:268|Madhya 24.268]]

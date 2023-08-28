@@ -1,11 +1,5 @@
----json
-{
-    "name":"lauham",
-    "h1":"lauham",
-    "title":"lauham --- synonyms, prabhupada.io",
-    "description":"iron."
-}
----
+~~Title:lauham~~
+{{description>iron.}}
 
 ==== lauham  ====
   * iron --- [[books:sb:6:16:24|SB 6.16.24]]

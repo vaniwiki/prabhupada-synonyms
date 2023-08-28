@@ -1,11 +1,5 @@
----json
-{
-    "name":"sambandhi",
-    "h1":"sambandhi",
-    "title":"sambandhi --- synonyms, prabhupada.io",
-    "description":"in that connection."
-}
----
+~~Title:sambandhi~~
+{{description>in that connection.}}
 
 ==== tat-sambandhi  ====
   * in that connection --- [[books:sb:4:1:10|SB 4.1.10]]

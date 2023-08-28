@@ -1,11 +1,5 @@
----json
-{
-    "name":"apanudan",
-    "h1":"apanudan",
-    "title":"apanudan --- synonyms, prabhupada.io",
-    "description":"driving away."
-}
----
+~~Title:apanudan~~
+{{description>driving away.}}
 
 ==== apanudan  ====
   * driving away --- [[books:sb:5:8:20|SB 5.8.20]]

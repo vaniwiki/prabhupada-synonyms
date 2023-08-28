@@ -1,11 +1,5 @@
----json
-{
-    "name":"antya",
-    "h1":"antya",
-    "title":"antya --- synonyms, prabhupada.io",
-    "description":"final; last; the final."
-}
----
+~~Title:antya~~
+{{description>final; last; the final.}}
 
 ==== antya  ====
   * final --- [[books:cc:antya:1:11|Antya 1.11]]

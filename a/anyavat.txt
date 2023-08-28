@@ -1,11 +1,5 @@
----json
-{
-    "name":"anyavat",
-    "h1":"anyavat",
-    "title":"anyavat --- synonyms, prabhupada.io",
-    "description":"like others."
-}
----
+~~Title:anyavat~~
+{{description>like others.}}
 
 ==== anyavat  ====
   * like others --- [[books:sb:1:5:19|SB 1.5.19]]

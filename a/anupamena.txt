@@ -1,11 +1,5 @@
----json
-{
-    "name":"anupamena",
-    "h1":"anupamena",
-    "title":"anupamena --- synonyms, prabhupada.io",
-    "description":"Anupama."
-}
----
+~~Title:anupamena~~
+{{description>Anupama.}}
 
 ==== anupamena  ====
   * Anupama --- [[books:cc:madhya:19:120|Madhya 19.120]]

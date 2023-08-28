@@ -1,11 +1,5 @@
----json
-{
-    "name":"jiyaila",
-    "h1":"jiyaila",
-    "title":"jiyaila --- synonyms, prabhupada.io",
-    "description":"maintained; revived."
-}
----
+~~Title:jiyaila~~
+{{description>maintained; revived.}}
 
 ==== jīyāila  ====
   * maintained --- [[books:cc:adi:12:68|Ādi 12.68]]

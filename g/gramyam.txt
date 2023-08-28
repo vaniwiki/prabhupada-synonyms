@@ -1,11 +1,5 @@
----json
-{
-    "name":"grāmyam",
-    "h1":"grāmyam",
-    "title":"grāmyam --- synonyms, prabhupada.io",
-    "description":"material or bodily."
-}
----
+~~Title:grāmyam~~
+{{description>material or bodily.}}
 
 ==== grāmyam  ====
   * material or bodily --- [[books:sb:9:18:40|SB 9.18.40]]

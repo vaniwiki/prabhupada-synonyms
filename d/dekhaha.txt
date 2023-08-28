@@ -1,11 +1,5 @@
----json
-{
-    "name":"dekhaha",
-    "h1":"dekhaha",
-    "title":"dekhaha --- synonyms, prabhupada.io",
-    "description":"just see; just try to see."
-}
----
+~~Title:dekhaha~~
+{{description>just see; just try to see.}}
 
 ==== dekhaha  ====
   * just see --- [[books:cc:adi:3:85|Ādi 3.85]]

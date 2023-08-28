@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadanam",
-    "h1":"sadanam",
-    "title":"sadanam --- synonyms, prabhupada.io",
-    "description":"to your home."
-}
----
+~~Title:sadanam~~
+{{description>to your home.}}
 
 ==== sādanam  ====
   * to your home --- [[books:sb:10:10:42|SB 10.10.42]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samedheta",
-    "h1":"samedheta",
-    "title":"samedheta --- synonyms, prabhupada.io",
-    "description":"would flourish."
-}
----
+~~Title:samedheta~~
+{{description>would flourish.}}
 
 ==== samedheta  ====
   * would flourish --- [[books:sb:3:21:55|SB 3.21.55]]

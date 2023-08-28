@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhramat",
-    "h1":"abhramat",
-    "title":"abhramat --- synonyms, prabhupada.io",
-    "description":"traveled."
-}
----
+~~Title:abhramat~~
+{{description>traveled.}}
 
 ==== abhramat  ====
   * traveled --- [[books:cc:madhya:18:1|Madhya 18.1]]

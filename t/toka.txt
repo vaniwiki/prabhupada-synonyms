@@ -1,11 +1,5 @@
----json
-{
-    "name":"toka",
-    "h1":"toka",
-    "title":"toka --- synonyms, prabhupada.io",
-    "description":"they are also wonderful childhood pastimes."
-}
----
+~~Title:toka~~
+{{description>they are also wonderful childhood pastimes.}}
 
 ==== toka-ācaritam adbhutam  ====
   * they are also wonderful childhood pastimes --- [[books:sb:10:7:3|SB 10.7.3]]

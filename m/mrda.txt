@@ -1,11 +1,5 @@
----json
-{
-    "name":"mrda",
-    "h1":"mrda",
-    "title":"mrda --- synonyms, prabhupada.io",
-    "description":"with dirt."
-}
----
+~~Title:mrda~~
+{{description>with dirt.}}
 
 ==== mṛdā  ====
   * with dirt --- [[books:sb:8:16:26|SB 8.16.26]]

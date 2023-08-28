@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavace",
-    "h1":"kavace",
-    "title":"kavace --- synonyms, prabhupada.io",
-    "description":"protecting armor."
-}
----
+~~Title:kavace~~
+{{description>protecting armor.}}
 
 ==== kavace  ====
   * protecting armor --- [[books:sb:1:9:34|SB 1.9.34]]

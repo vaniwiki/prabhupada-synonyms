@@ -1,11 +1,5 @@
----json
-{
-    "name":"laulyena",
-    "h1":"laulyena",
-    "title":"laulyena --- synonyms, prabhupada.io",
-    "description":"because of greed."
-}
----
+~~Title:laulyena~~
+{{description>because of greed.}}
 
 ==== laulyena  ====
   * because of greed --- [[books:sb:7:15:19|SB 7.15.19]]

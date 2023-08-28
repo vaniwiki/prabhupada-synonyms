@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimardanam",
-    "h1":"vimardanam",
-    "title":"vimardanam --- synonyms, prabhupada.io",
-    "description":"the fight."
-}
----
+~~Title:vimardanam~~
+{{description>the fight.}}
 
 ==== vimardanam  ====
   * the fight --- [[books:sb:3:18:20|SB 3.18.20]]

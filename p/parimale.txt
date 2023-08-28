@@ -1,11 +1,5 @@
----json
-{
-    "name":"parimale",
-    "h1":"parimale",
-    "title":"parimale --- synonyms, prabhupada.io",
-    "description":"in the fragrance."
-}
----
+~~Title:parimale~~
+{{description>in the fragrance.}}
 
 ==== parimale  ====
   * in the fragrance --- [[books:cc:adi:4:260|Ādi 4.260]]

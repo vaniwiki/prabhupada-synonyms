@@ -1,11 +1,5 @@
----json
-{
-    "name":"manute",
-    "h1":"manute",
-    "title":"manute --- synonyms, prabhupada.io",
-    "description":"he considered; takes it for granted."
-}
----
+~~Title:manute~~
+{{description>he considered; takes it for granted.}}
 
 ==== manute  ====
   * he considered --- [[books:sb:4:27:4|SB 4.27.4]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sanginam",
-    "h1":"sanginam",
-    "title":"sanginam --- synonyms, prabhupada.io",
-    "description":"affected."
-}
----
+~~Title:sanginam~~
+{{description>affected.}}
 
 ==== saṅginam  ====
   * affected --- [[books:sb:1:11:37|SB 1.11.37]]

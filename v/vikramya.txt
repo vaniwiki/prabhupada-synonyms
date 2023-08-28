@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikramya",
-    "h1":"vikramya",
-    "title":"vikramya --- synonyms, prabhupada.io",
-    "description":"attacking; exhibiting Your prowess."
-}
----
+~~Title:vikramya~~
+{{description>attacking; exhibiting Your prowess.}}
 
 ==== vikramya  ====
   * attacking --- [[books:sb:3:14:10|SB 3.14.10]]

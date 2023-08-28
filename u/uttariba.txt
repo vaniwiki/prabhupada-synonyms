@@ -1,11 +1,5 @@
----json
-{
-    "name":"uttaribā",
-    "h1":"uttaribā",
-    "title":"uttaribā --- synonyms, prabhupada.io",
-    "description":"you should go there."
-}
----
+~~Title:uttaribā~~
+{{description>you should go there.}}
 
 ==== tāhāṅ uttaribā  ====
   * you should go there --- [[books:cc:madhya:16:112|Madhya 16.112]]

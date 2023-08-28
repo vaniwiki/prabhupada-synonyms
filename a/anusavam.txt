@@ -1,11 +1,5 @@
----json
-{
-    "name":"anusavam",
-    "h1":"anusavam",
-    "title":"anusavam --- synonyms, prabhupada.io",
-    "description":"constantly."
-}
----
+~~Title:anusavam~~
+{{description>constantly.}}
 
 ==== anusavam  ====
   * constantly --- [[books:sb:1:5:28|SB 1.5.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"balabala",
-    "h1":"balabala",
-    "title":"balabala --- synonyms, prabhupada.io",
-    "description":"go on speaking, go on speaking."
-}
----
+~~Title:balabala~~
+{{description>go on speaking, go on speaking.}}
 
 ==== balabala  ====
   * go on speaking, go on speaking --- [[books:cc:adi:17:236|Ādi 17.236]]

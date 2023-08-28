@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidhāne",
-    "h1":"vidhāne",
-    "title":"vidhāne --- synonyms, prabhupada.io",
-    "description":"in three ways."
-}
----
+~~Title:vidhāne~~
+{{description>in three ways.}}
 
 ==== tri-vidhāne  ====
   * in three ways --- [[books:cc:madhya:1:88|Madhya 1.88]]

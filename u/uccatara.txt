@@ -1,11 +1,5 @@
----json
-{
-    "name":"uccatara",
-    "h1":"uccatara",
-    "title":"uccatara --- synonyms, prabhupada.io",
-    "description":"very high."
-}
----
+~~Title:uccatara~~
+{{description>very high.}}
 
 ==== ati uccatara  ====
   * very high --- [[books:cc:madhya:9:312|Madhya 9.312]]

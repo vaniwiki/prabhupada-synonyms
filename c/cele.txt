@@ -1,11 +1,5 @@
----json
-{
-    "name":"cele",
-    "h1":"cele",
-    "title":"cele --- synonyms, prabhupada.io",
-    "description":"without leaving the clothes."
-}
----
+~~Title:cele~~
+{{description>without leaving the clothes.}}
 
 ==== sa-cele  ====
   * without leaving the clothes --- [[books:cc:adi:17:74|Ādi 17.74]]

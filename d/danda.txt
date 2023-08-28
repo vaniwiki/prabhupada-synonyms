@@ -1,11 +1,5 @@
----json
-{
-    "name":"danda",
-    "h1":"danda",
-    "title":"danda --- synonyms, prabhupada.io",
-    "description":"punishment."
-}
----
+~~Title:danda~~
+{{description>punishment.}}
 
 ==== danda  ====
   * punishment --- [[books:cc:adi:12:35|Ādi 12.35]]

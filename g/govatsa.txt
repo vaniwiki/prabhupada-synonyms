@@ -1,11 +1,5 @@
----json
-{
-    "name":"govatsa",
-    "h1":"govatsa",
-    "title":"govatsa --- synonyms, prabhupada.io",
-    "description":"like the hoofprint of a calf."
-}
----
+~~Title:govatsa~~
+{{description>like the hoofprint of a calf.}}
 
 ==== govatsa-padam  ====
   * like the hoofprint of a calf --- [[books:sb:10:2:30|SB 10.2.30]]

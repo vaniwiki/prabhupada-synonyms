@@ -1,11 +1,5 @@
----json
-{
-    "name":"avarohati",
-    "h1":"avarohati",
-    "title":"avarohati --- synonyms, prabhupada.io",
-    "description":"falls down."
-}
----
+~~Title:avarohati~~
+{{description>falls down.}}
 
 ==== avarohati  ====
   * falls down --- [[books:sb:4:14:16|SB 4.14.16]]

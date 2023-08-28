@@ -1,11 +1,5 @@
----json
-{
-    "name":"capah",
-    "h1":"capah",
-    "title":"capah --- synonyms, prabhupada.io",
-    "description":"holding the bow."
-}
----
+~~Title:capah~~
+{{description>holding the bow.}}
 
 ==== ātta-cāpaḥ  ====
   * holding the bow --- [[books:sb:4:16:20|SB 4.16.20]]

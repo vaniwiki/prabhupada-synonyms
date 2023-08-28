@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhiyanti",
-    "h1":"adhiyanti",
-    "title":"adhiyanti --- synonyms, prabhupada.io",
-    "description":"achieve."
-}
----
+~~Title:adhiyanti~~
+{{description>achieve.}}
 
 ==== adhiyanti  ====
   * achieve --- [[books:sb:8:6:12|SB 8.6.12]]

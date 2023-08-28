@@ -1,11 +1,5 @@
----json
-{
-    "name":"grāsī",
-    "h1":"grāsī",
-    "title":"grāsī --- synonyms, prabhupada.io",
-    "description":"one morsel."
-}
----
+~~Title:grāsī~~
+{{description>one morsel.}}
 
 ==== eka grāsī  ====
   * one morsel --- [[books:cc:madhya:15:242|Madhya 15.242]]

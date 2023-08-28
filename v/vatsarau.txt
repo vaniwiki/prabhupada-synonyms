@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsarau",
-    "h1":"vatsarau",
-    "title":"vatsarau --- synonyms, prabhupada.io",
-    "description":"Vatsara."
-}
----
+~~Title:vatsarau~~
+{{description>Vatsara.}}
 
 ==== vatsarau  ====
   * Vatsara --- [[books:sb:4:10:1|SB 4.10.1]]

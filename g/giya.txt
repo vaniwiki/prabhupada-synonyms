@@ -1,11 +1,5 @@
----json
-{
-    "name":"giya",
-    "h1":"giya",
-    "title":"giya --- synonyms, prabhupada.io",
-    "description":"going."
-}
----
+~~Title:giya~~
+{{description>going.}}
 
 ==== giya  ====
   * going --- [[books:cc:madhya:14:61|Madhya 14.61]]

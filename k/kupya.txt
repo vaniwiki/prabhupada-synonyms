@@ -1,11 +1,5 @@
----json
-{
-    "name":"kupya",
-    "h1":"kupya",
-    "title":"kupya --- synonyms, prabhupada.io",
-    "description":"utensils made of various metals."
-}
----
+~~Title:kupya~~
+{{description>utensils made of various metals.}}
 
 ==== nānā-rasa-kupya-bhājanam  ====
   * utensils made of various metals --- [[books:sb:10:7:7|SB 10.7.7]]

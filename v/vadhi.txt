@@ -1,11 +1,5 @@
----json
-{
-    "name":"vadhī",
-    "h1":"vadhī",
-    "title":"vadhī --- synonyms, prabhupada.io",
-    "description":"the killer of a cow."
-}
----
+~~Title:vadhī~~
+{{description>the killer of a cow.}}
 
 ==== go-vadhī  ====
   * the killer of a cow --- [[books:cc:adi:17:166|Ādi 17.166]]

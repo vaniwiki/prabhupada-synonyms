@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyatasya",
-    "h1":"niyatasya",
-    "title":"niyatasya --- synonyms, prabhupada.io",
-    "description":"prescribed duties."
-}
----
+~~Title:niyatasya~~
+{{description>prescribed duties.}}
 
 ==== niyatasya  ====
   * prescribed duties --- [[books:bg:18:7|Bg. 18.7]]

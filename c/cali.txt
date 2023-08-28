@@ -1,11 +1,5 @@
----json
-{
-    "name":"cali",
-    "h1":"cali",
-    "title":"cali --- synonyms, prabhupada.io",
-    "description":"walking."
-}
----
+~~Title:cali~~
+{{description>walking.}}
 
 ==== cali  ====
   * walking --- [[books:cc:madhya:1:166|Madhya 1.166]], [[books:cc:madhya:9:278|Madhya 9.278]], [[books:cc:antya:2:127|Antya 2.127]]

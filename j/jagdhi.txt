@@ -1,11 +1,5 @@
----json
-{
-    "name":"jagdhi",
-    "h1":"jagdhi",
-    "title":"jagdhi --- synonyms, prabhupada.io",
-    "description":"you eat."
-}
----
+~~Title:jagdhi~~
+{{description>you eat.}}
 
 ==== jagdhi  ====
   * you eat --- [[books:sb:4:17:23|SB 4.17.23]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vega",
-    "h1":"vega",
-    "title":"vega --- synonyms, prabhupada.io",
-    "description":"force; forces; the speed; with the force."
-}
----
+~~Title:vega~~
+{{description>force; forces; the speed; with the force.}}
 
 ==== vega  ====
   * force --- [[books:sb:1:11:16-17|SB 1.11.16-17]]

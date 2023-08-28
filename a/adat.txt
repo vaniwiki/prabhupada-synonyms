@@ -1,11 +1,5 @@
----json
-{
-    "name":"adat",
-    "h1":"adat",
-    "title":"adat --- synonyms, prabhupada.io",
-    "description":"ate."
-}
----
+~~Title:adat~~
+{{description>ate.}}
 
 ==== adat  ====
   * ate --- [[books:sb:9:15:9|SB 9.15.9]]

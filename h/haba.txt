@@ -1,11 +1,5 @@
----json
-{
-    "name":"haba",
-    "h1":"haba",
-    "title":"haba --- synonyms, prabhupada.io",
-    "description":"I shall."
-}
----
+~~Title:haba~~
+{{description>I shall.}}
 
 ==== haba  ====
   * I shall --- [[books:cc:adi:4:268|Ādi 4.268]]

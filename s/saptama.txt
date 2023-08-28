@@ -1,11 +1,5 @@
----json
-{
-    "name":"saptama",
-    "h1":"saptama",
-    "title":"saptama --- synonyms, prabhupada.io",
-    "description":"seventh."
-}
----
+~~Title:saptama~~
+{{description>seventh.}}
 
 ==== saptama  ====
   * seventh --- [[books:cc:adi:3:9|Ādi 3.9]]

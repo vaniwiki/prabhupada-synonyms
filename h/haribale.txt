@@ -1,11 +1,5 @@
----json
-{
-    "name":"haribale",
-    "h1":"haribale",
-    "title":"haribale --- synonyms, prabhupada.io",
-    "description":"chanted Hare Kṛṣṇa; says Hari."
-}
----
+~~Title:haribale~~
+{{description>chanted Hare Kṛṣṇa; says Hari.}}
 
 ==== haribale  ====
   * chanted Hare Kṛṣṇa --- [[books:cc:adi:12:21|Ādi 12.21]]

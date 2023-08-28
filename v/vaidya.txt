@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaidya",
-    "h1":"vaidya",
-    "title":"vaidya --- synonyms, prabhupada.io",
-    "description":"a physician; physician."
-}
----
+~~Title:vaidya~~
+{{description>a physician; physician.}}
 
 ==== vaidya  ====
   * a physician --- [[books:cc:madhya:19:20|Madhya 19.20]]

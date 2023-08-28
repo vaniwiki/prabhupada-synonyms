@@ -1,11 +1,5 @@
----json
-{
-    "name":"kataka",
-    "h1":"kataka",
-    "title":"kataka --- synonyms, prabhupada.io",
-    "description":"some."
-}
----
+~~Title:kataka~~
+{{description>some.}}
 
 ==== kataka  ====
   * some --- [[books:cc:madhya:13:9|Madhya 13.9]]

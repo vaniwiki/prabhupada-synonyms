@@ -1,11 +1,5 @@
----json
-{
-    "name":"guptere",
-    "h1":"guptere",
-    "title":"guptere --- synonyms, prabhupada.io",
-    "description":"Murāri Gupta."
-}
----
+~~Title:guptere~~
+{{description>Murāri Gupta.}}
 
 ==== murāri-guptere  ====
   * Murāri Gupta --- [[books:cc:madhya:15:137|Madhya 15.137]]

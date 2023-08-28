@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarila",
-    "h1":"tarila",
-    "title":"tarila --- synonyms, prabhupada.io",
-    "description":"delivered."
-}
----
+~~Title:tarila~~
+{{description>delivered.}}
 
 ==== tarilā  ====
   * delivered --- [[books:cc:adi:8:40|Ādi 8.40]]

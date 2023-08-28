@@ -1,11 +1,5 @@
----json
-{
-    "name":"sanarma",
-    "h1":"sanarma",
-    "title":"sanarma --- synonyms, prabhupada.io",
-    "description":"joyful."
-}
----
+~~Title:sanarma~~
+{{description>joyful.}}
 
 ==== sanarma  ====
   * joyful --- [[books:cc:antya:15:14|Antya 15.14]]

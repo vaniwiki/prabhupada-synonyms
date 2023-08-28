@@ -1,11 +1,5 @@
----json
-{
-    "name":"aprītye",
-    "h1":"aprītye",
-    "title":"aprītye --- synonyms, prabhupada.io",
-    "description":"due to some unfriendliness."
-}
----
+~~Title:aprītye~~
+{{description>due to some unfriendliness.}}
 
 ==== aprītye  ====
   * due to some unfriendliness --- [[books:cc:antya:9:124|Antya 9.124]]

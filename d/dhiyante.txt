@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhīyante",
-    "h1":"dhīyante",
-    "title":"dhīyante --- synonyms, prabhupada.io",
-    "description":"are out of sight."
-}
----
+~~Title:dhīyante~~
+{{description>are out of sight.}}
 
 ==== api dhīyante  ====
   * are out of sight --- [[books:sb:3:11:29|SB 3.11.29]]

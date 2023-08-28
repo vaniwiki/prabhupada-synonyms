@@ -1,11 +1,5 @@
----json
-{
-    "name":"codana",
-    "h1":"codana",
-    "title":"codana --- synonyms, prabhupada.io",
-    "description":"impetus."
-}
----
+~~Title:codana~~
+{{description>impetus.}}
 
 ==== codanā  ====
   * impetus --- [[books:bg:18:18|Bg. 18.18]]

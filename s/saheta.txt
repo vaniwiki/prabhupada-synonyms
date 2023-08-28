@@ -1,11 +1,5 @@
----json
-{
-    "name":"saheta",
-    "h1":"saheta",
-    "title":"saheta --- synonyms, prabhupada.io",
-    "description":"can tolerate."
-}
----
+~~Title:saheta~~
+{{description>can tolerate.}}
 
 ==== saheta  ====
   * can tolerate --- [[books:sb:1:16:35|SB 1.16.35]], [[books:sb:3:2:19|SB 3.2.19]]

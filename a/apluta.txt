@@ -1,11 +1,5 @@
----json
-{
-    "name":"apluta",
-    "h1":"apluta",
-    "title":"apluta --- synonyms, prabhupada.io",
-    "description":"bathed."
-}
----
+~~Title:apluta~~
+{{description>bathed.}}
 
 ==== āpluta  ====
   * bathed --- [[books:sb:7:6:27|SB 7.6.27]]

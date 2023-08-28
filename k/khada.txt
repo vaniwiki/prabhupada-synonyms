@@ -1,11 +1,5 @@
----json
-{
-    "name":"khada",
-    "h1":"khada",
-    "title":"khada --- synonyms, prabhupada.io",
-    "description":"eat."
-}
----
+~~Title:khada~~
+{{description>eat.}}
 
 ==== khāda  ====
   * eat --- [[books:sb:9:9:32|SB 9.9.32]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarojam",
-    "h1":"sarojam",
-    "title":"sarojam --- synonyms, prabhupada.io",
-    "description":"lotus flower."
-}
----
+~~Title:sarojam~~
+{{description>lotus flower.}}
 
 ==== sarojam  ====
   * lotus flower --- [[books:sb:3:8:32|SB 3.8.32]]

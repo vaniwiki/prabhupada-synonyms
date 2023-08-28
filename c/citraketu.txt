@@ -1,11 +1,5 @@
----json
-{
-    "name":"citraketu",
-    "h1":"citraketu",
-    "title":"citraketu --- synonyms, prabhupada.io",
-    "description":"Citraketu."
-}
----
+~~Title:citraketu~~
+{{description>Citraketu.}}
 
 ==== citraketu  ====
   * Citraketu --- [[books:sb:4:1:40|SB 4.1.40]], [[books:sb:9:24:40|SB 9.24.40]]

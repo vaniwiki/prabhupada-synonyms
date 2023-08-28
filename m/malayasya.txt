@@ -1,11 +1,5 @@
----json
-{
-    "name":"malayasya",
-    "h1":"malayasya",
-    "title":"malayasya --- synonyms, prabhupada.io",
-    "description":"Malaya hills."
-}
----
+~~Title:malayasya~~
+{{description>Malaya hills.}}
 
 ==== malayasya  ====
   * Malaya hills --- [[books:sb:1:8:32|SB 1.8.32]]

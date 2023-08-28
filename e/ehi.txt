@@ -1,11 +1,5 @@
----json
-{
-    "name":"ehi",
-    "h1":"ehi",
-    "title":"ehi --- synonyms, prabhupada.io",
-    "description":"come and fight; come here."
-}
----
+~~Title:ehi~~
+{{description>come and fight; come here.}}
 
 ==== ehi  ====
   * come and fight --- [[books:sb:3:18:3|SB 3.18.3]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nanāda",
-    "h1":"nanāda",
-    "title":"nanāda --- synonyms, prabhupada.io",
-    "description":"cried very loudly."
-}
----
+~~Title:nanāda~~
+{{description>cried very loudly.}}
 
 ==== nanāda  ====
   * cried very loudly --- [[books:sb:8:19:11|SB 8.19.11]]

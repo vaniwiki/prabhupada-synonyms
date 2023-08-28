@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharam",
-    "h1":"dharam",
-    "title":"dharam --- synonyms, prabhupada.io",
-    "description":"bearing; holding; who carried."
-}
----
+~~Title:dharam~~
+{{description>bearing; holding; who carried.}}
 
 ==== dharam  ====
   * bearing --- [[books:sb:3:18:2|SB 3.18.2]], [[books:sb:3:28:13|SB 3.28.13]]

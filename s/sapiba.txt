@@ -1,11 +1,5 @@
----json
-{
-    "name":"śapiba",
-    "h1":"śapiba",
-    "title":"śapiba --- synonyms, prabhupada.io",
-    "description":"I shall curse."
-}
----
+~~Title:śapiba~~
+{{description>I shall curse.}}
 
 ==== śapiba  ====
   * I shall curse --- [[books:cc:adi:17:62|Ādi 17.62]]

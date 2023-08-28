@@ -1,11 +1,5 @@
----json
-{
-    "name":"gandhera",
-    "h1":"gandhera",
-    "title":"gandhera --- synonyms, prabhupada.io",
-    "description":"for the fragrance."
-}
----
+~~Title:gandhera~~
+{{description>for the fragrance.}}
 
 ==== gandhera  ====
   * for the fragrance --- [[books:cc:antya:19:97|Antya 19.97]]

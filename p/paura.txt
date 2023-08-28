@@ -1,11 +1,5 @@
----json
-{
-    "name":"paura",
-    "h1":"paura",
-    "title":"paura --- synonyms, prabhupada.io",
-    "description":"all kinds of citizens."
-}
----
+~~Title:paura~~
+{{description>all kinds of citizens.}}
 
 ==== paura  ====
   * all kinds of citizens --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

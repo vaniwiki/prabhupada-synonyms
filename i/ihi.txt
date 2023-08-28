@@ -1,11 +1,5 @@
----json
-{
-    "name":"ihi",
-    "h1":"ihi",
-    "title":"ihi --- synonyms, prabhupada.io",
-    "description":"approach."
-}
----
+~~Title:ihi~~
+{{description>approach.}}
 
 ==== ihi  ====
   * approach --- [[books:sb:3:17:30|SB 3.17.30]]

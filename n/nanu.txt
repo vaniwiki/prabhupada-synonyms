@@ -1,11 +1,5 @@
----json
-{
-    "name":"nanu",
-    "h1":"nanu",
-    "title":"nanu --- synonyms, prabhupada.io",
-    "description":"as a matter of course; as a matter of fact; but; certainly; however; if at all; indeed; now; O sir; of course; only; surely."
-}
----
+~~Title:nanu~~
+{{description>as a matter of course; as a matter of fact; but; certainly; however; if at all; indeed; now; O sir; of course; only; surely.}}
 
 ==== nanu  ====
   * as a matter of course --- [[books:sb:3:11:17|SB 3.11.17]]

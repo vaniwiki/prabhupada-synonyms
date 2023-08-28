@@ -1,11 +1,5 @@
----json
-{
-    "name":"koli",
-    "h1":"koli",
-    "title":"koli --- synonyms, prabhupada.io",
-    "description":"berries."
-}
----
+~~Title:koli~~
+{{description>berries.}}
 
 ==== koli  ====
   * berries --- [[books:cc:antya:18:104|Antya 18.104]]

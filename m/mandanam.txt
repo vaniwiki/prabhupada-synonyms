@@ -1,11 +1,5 @@
----json
-{
-    "name":"mandanam",
-    "h1":"mandanam",
-    "title":"mandanam --- synonyms, prabhupada.io",
-    "description":"not very intelligent."
-}
----
+~~Title:mandanam~~
+{{description>not very intelligent.}}
 
 ==== mandānām  ====
   * not very intelligent --- [[books:sb:5:3:15|SB 5.3.15]]

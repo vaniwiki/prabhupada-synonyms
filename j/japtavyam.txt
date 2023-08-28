@@ -1,11 +1,5 @@
----json
-{
-    "name":"japtavyam",
-    "h1":"japtavyam",
-    "title":"japtavyam --- synonyms, prabhupada.io",
-    "description":"always to be chanted."
-}
----
+~~Title:japtavyam~~
+{{description>always to be chanted.}}
 
 ==== japtavyam  ====
   * always to be chanted --- [[books:sb:4:24:31|SB 4.24.31]]

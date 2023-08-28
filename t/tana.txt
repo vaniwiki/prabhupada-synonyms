@@ -1,11 +1,5 @@
----json
-{
-    "name":"tāna",
-    "h1":"tāna",
-    "title":"tāna --- synonyms, prabhupada.io",
-    "description":"the melody of the flute."
-}
----
+~~Title:tāna~~
+{{description>the melody of the flute.}}
 
 ==== muralīra tāna  ====
   * the melody of the flute --- [[books:cc:madhya:21:128|Madhya 21.128]]

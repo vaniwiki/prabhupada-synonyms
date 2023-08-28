@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuprāṇam",
-    "h1":"anuprāṇam",
-    "title":"anuprāṇam --- synonyms, prabhupada.io",
-    "description":"breathing."
-}
----
+~~Title:anuprāṇam~~
+{{description>breathing.}}
 
 ==== anuprāṇam  ====
   * breathing --- [[books:sb:1:6:29|SB 1.6.29]]

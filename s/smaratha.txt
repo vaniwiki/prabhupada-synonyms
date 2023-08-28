@@ -1,11 +1,5 @@
----json
-{
-    "name":"smaratha",
-    "h1":"smaratha",
-    "title":"smaratha --- synonyms, prabhupada.io",
-    "description":"you remember."
-}
----
+~~Title:smaratha~~
+{{description>you remember.}}
 
 ==== smaratha  ====
   * you remember --- [[books:sb:1:13:8|SB 1.13.8]]

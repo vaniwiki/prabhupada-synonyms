@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarada",
-    "h1":"sarada",
-    "title":"sarada --- synonyms, prabhupada.io",
-    "description":"autumnal; of the fall season."
-}
----
+~~Title:sarada~~
+{{description>autumnal; of the fall season.}}
 
 ==== śārada  ====
   * autumnal --- [[books:sb:3:26:28|SB 3.26.28]]

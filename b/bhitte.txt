@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhitte",
-    "h1":"bhitte",
-    "title":"bhitte --- synonyms, prabhupada.io",
-    "description":"on the wall."
-}
----
+~~Title:bhitte~~
+{{description>on the wall.}}
 
 ==== bhitte  ====
   * on the wall --- [[books:cc:madhya:2:7|Madhya 2.7]]

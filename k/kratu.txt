@@ -1,11 +1,5 @@
----json
-{
-    "name":"kratu",
-    "h1":"kratu",
-    "title":"kratu --- synonyms, prabhupada.io",
-    "description":"King Pṛthu, the master of the sacrifice."
-}
----
+~~Title:kratu~~
+{{description>King Pṛthu, the master of the sacrifice.}}
 
 ==== kratu-patim  ====
   * King Pṛthu, the master of the sacrifice --- [[books:sb:4:19:29|SB 4.19.29]]

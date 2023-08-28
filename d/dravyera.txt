@@ -1,11 +1,5 @@
----json
-{
-    "name":"dravyera",
-    "h1":"dravyera",
-    "title":"dravyera --- synonyms, prabhupada.io",
-    "description":"of the balance."
-}
----
+~~Title:dravyera~~
+{{description>of the balance.}}
 
 ==== āra dravyera  ====
   * of the balance --- [[books:cc:antya:9:54|Antya 9.54]]

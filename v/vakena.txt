@@ -1,11 +1,5 @@
----json
-{
-    "name":"vākena",
-    "h1":"vākena",
-    "title":"vākena --- synonyms, prabhupada.io",
-    "description":"by language."
-}
----
+~~Title:vākena~~
+{{description>by language.}}
 
 ==== vākena  ====
   * by language --- [[books:sb:5:1:10|SB 5.1.10]]

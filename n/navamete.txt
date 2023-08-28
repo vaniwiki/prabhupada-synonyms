@@ -1,11 +1,5 @@
----json
-{
-    "name":"navamete",
-    "h1":"navamete",
-    "title":"navamete --- synonyms, prabhupada.io",
-    "description":"in the Ninth Chapter."
-}
----
+~~Title:navamete~~
+{{description>in the Ninth Chapter.}}
 
 ==== navamete  ====
   * in the Ninth Chapter --- [[books:cc:adi:17:322|Ādi 17.322]]

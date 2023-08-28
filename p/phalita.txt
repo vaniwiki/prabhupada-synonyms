@@ -1,11 +1,5 @@
----json
-{
-    "name":"phalita",
-    "h1":"phalita",
-    "title":"phalita --- synonyms, prabhupada.io",
-    "description":"fully grown with fruits."
-}
----
+~~Title:phalita~~
+{{description>fully grown with fruits.}}
 
 ==== phalita  ====
   * fully grown with fruits --- [[books:cc:adi:17:81|Ādi 17.81]]

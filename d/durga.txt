@@ -1,11 +1,5 @@
----json
-{
-    "name":"durga",
-    "h1":"durga",
-    "title":"durga --- synonyms, prabhupada.io",
-    "description":"the stronghold."
-}
----
+~~Title:durga~~
+{{description>the stronghold.}}
 
 ==== durga  ====
   * the stronghold --- [[books:sb:5:1:19|SB 5.1.19]]

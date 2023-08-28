@@ -1,11 +1,5 @@
----json
-{
-    "name":"arbha",
-    "h1":"arbha",
-    "title":"arbha --- synonyms, prabhupada.io",
-    "description":"like boys."
-}
----
+~~Title:arbha~~
+{{description>like boys.}}
 
 ==== arbha-ābhāḥ  ====
   * like boys --- [[books:sb:7:1:37|SB 7.1.37]]

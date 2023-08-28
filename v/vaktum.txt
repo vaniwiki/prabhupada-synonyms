@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaktum",
-    "h1":"vaktum",
-    "title":"vaktum --- synonyms, prabhupada.io",
-    "description":"to describe; to narrate; to say; to speak."
-}
----
+~~Title:vaktum~~
+{{description>to describe; to narrate; to say; to speak.}}
 
 ==== vaktum  ====
   * to describe --- [[books:sb:10:1:12|SB 10.1.12]]

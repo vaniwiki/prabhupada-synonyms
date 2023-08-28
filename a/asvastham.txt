@@ -1,11 +1,5 @@
----json
-{
-    "name":"asvastham",
-    "h1":"asvastham",
-    "title":"asvastham --- synonyms, prabhupada.io",
-    "description":"not in tranquillity."
-}
----
+~~Title:asvastham~~
+{{description>not in tranquillity.}}
 
 ==== asvastham  ====
   * not in tranquillity --- [[books:sb:8:16:10|SB 8.16.10]]

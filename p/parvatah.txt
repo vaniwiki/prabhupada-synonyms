@@ -1,11 +1,5 @@
----json
-{
-    "name":"parvatah",
-    "h1":"parvatah",
-    "title":"parvatah --- synonyms, prabhupada.io",
-    "description":"Parvata Muni."
-}
----
+~~Title:parvatah~~
+{{description>Parvata Muni.}}
 
 ==== parvataḥ  ====
   * Parvata Muni --- [[books:sb:1:9:6-7|SB 1.9.6-7]]

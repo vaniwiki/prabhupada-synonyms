@@ -1,11 +1,5 @@
----json
-{
-    "name":"virale",
-    "h1":"virale",
-    "title":"virale --- synonyms, prabhupada.io",
-    "description":"secluded."
-}
----
+~~Title:virale~~
+{{description>secluded.}}
 
 ==== virale  ====
   * secluded --- [[books:cc:madhya:10:19|Madhya 10.19]]

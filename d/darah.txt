@@ -1,11 +1,5 @@
----json
-{
-    "name":"darah",
-    "h1":"darah",
-    "title":"darah --- synonyms, prabhupada.io",
-    "description":"conchshell."
-}
----
+~~Title:darah~~
+{{description>conchshell.}}
 
 ==== daraḥ  ====
   * conchshell --- [[books:sb:1:11:2|SB 1.11.2]]

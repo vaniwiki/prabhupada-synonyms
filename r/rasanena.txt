@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasanena",
-    "h1":"rasanena",
-    "title":"rasanena --- synonyms, prabhupada.io",
-    "description":"by taste."
-}
----
+~~Title:rasanena~~
+{{description>by taste.}}
 
 ==== rasanena  ====
   * by taste --- [[books:sb:2:2:29|SB 2.2.29]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bujhi",
-    "h1":"bujhi",
-    "title":"bujhi --- synonyms, prabhupada.io",
-    "description":"I understand."
-}
----
+~~Title:bujhi~~
+{{description>I understand.}}
 
 ==== bujhi  ====
   * I understand --- [[books:cc:adi:2:47|Ādi 2.47]], [[books:cc:adi:12:44|Ādi 12.44]], [[books:cc:adi:13:85|Ādi 13.85]], [[books:cc:madhya:3:85|Madhya 3.85]], [[books:cc:madhya:4:114|Madhya 4.114]]

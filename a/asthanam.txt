@@ -1,11 +1,5 @@
----json
-{
-    "name":"asthanam",
-    "h1":"asthanam",
-    "title":"asthanam --- synonyms, prabhupada.io",
-    "description":"an unsuitable place."
-}
----
+~~Title:asthanam~~
+{{description>an unsuitable place.}}
 
 ==== asthānam  ====
   * an unsuitable place --- [[books:cc:madhya:2:18|Madhya 2.18]]

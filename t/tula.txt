@@ -1,11 +1,5 @@
----json
-{
-    "name":"tula",
-    "h1":"tula",
-    "title":"tula --- synonyms, prabhupada.io",
-    "description":"cotton; cotton from inside; the cotton."
-}
----
+~~Title:tula~~
+{{description>cotton; cotton from inside; the cotton.}}
 
 ==== tulā  ====
   * cotton --- [[books:cc:madhya:6:10|Madhya 6.10]], [[books:cc:antya:13:7|Antya 13.7]]

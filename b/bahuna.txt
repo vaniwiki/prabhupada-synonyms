@@ -1,11 +1,5 @@
----json
-{
-    "name":"bahuna",
-    "h1":"bahuna",
-    "title":"bahuna --- synonyms, prabhupada.io",
-    "description":"many; much."
-}
----
+~~Title:bahuna~~
+{{description>many; much.}}
 
 ==== bahunā  ====
   * many --- [[books:bg:10:42|Bg. 10.42]]

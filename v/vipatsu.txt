@@ -1,11 +1,5 @@
----json
-{
-    "name":"vipatsu",
-    "h1":"vipatsu",
-    "title":"vipatsu --- synonyms, prabhupada.io",
-    "description":"distress; in dangers."
-}
----
+~~Title:vipatsu~~
+{{description>distress; in dangers.}}
 
 ==== vipatsu  ====
   * distress --- [[books:sb:4:20:12|SB 4.20.12]]

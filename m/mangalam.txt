@@ -1,11 +1,5 @@
----json
-{
-    "name":"mangalam",
-    "h1":"mangalam",
-    "title":"mangalam --- synonyms, prabhupada.io",
-    "description":"all-auspicious; auspicious; good fortune; welfare."
-}
----
+~~Title:mangalam~~
+{{description>all-auspicious; auspicious; good fortune; welfare.}}
 
 ==== maṅgalam  ====
   * all-auspicious --- [[books:sb:6:2:34|SB 6.2.34]]

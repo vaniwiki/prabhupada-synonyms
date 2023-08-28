@@ -1,11 +1,5 @@
----json
-{
-    "name":"adan",
-    "h1":"adan",
-    "title":"adan --- synonyms, prabhupada.io",
-    "description":"eating."
-}
----
+~~Title:adan~~
+{{description>eating.}}
 
 ==== adan  ====
   * eating --- [[books:sb:3:16:8|SB 3.16.8]]

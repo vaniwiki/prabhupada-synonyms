@@ -1,11 +1,5 @@
----json
-{
-    "name":"chidre",
-    "h1":"chidre",
-    "title":"chidre --- synonyms, prabhupada.io",
-    "description":"in the space between the hills."
-}
----
+~~Title:chidre~~
+{{description>in the space between the hills.}}
 
 ==== śaila-chidre  ====
   * in the space between the hills --- [[books:cc:antya:15:75|Antya 15.75]]

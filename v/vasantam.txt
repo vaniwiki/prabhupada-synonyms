@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasantam",
-    "h1":"vasantam",
-    "title":"vasantam --- synonyms, prabhupada.io",
-    "description":"residing."
-}
----
+~~Title:vasantam~~
+{{description>residing.}}
 
 ==== vasantam  ====
   * residing --- [[books:sb:2:2:8|SB 2.2.8]], [[books:cc:madhya:24:156|Madhya 24.156]]

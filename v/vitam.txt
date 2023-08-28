@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitam",
-    "h1":"vitam",
-    "title":"vitam --- synonyms, prabhupada.io",
-    "description":"the hunter."
-}
----
+~~Title:vitam~~
+{{description>the hunter.}}
 
 ==== viṭam  ====
   * the hunter --- [[books:cc:madhya:19:98|Madhya 19.98]]

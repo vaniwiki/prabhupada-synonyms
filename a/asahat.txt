@@ -1,11 +1,5 @@
----json
-{
-    "name":"asahat",
-    "h1":"asahat",
-    "title":"asahat --- synonyms, prabhupada.io",
-    "description":"suffered."
-}
----
+~~Title:asahat~~
+{{description>suffered.}}
 
 ==== asahat  ====
   * suffered --- [[books:sb:6:13:11|SB 6.13.11]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"yoginam",
-    "h1":"yoginam",
-    "title":"yoginam --- synonyms, prabhupada.io",
-    "description":"a highly elevated mystic; the yogī."
-}
----
+~~Title:yoginam~~
+{{description>a highly elevated mystic; the yogī.}}
 
 ==== yoginam  ====
   * a highly elevated mystic --- [[books:sb:9:6:38|SB 9.6.38]]

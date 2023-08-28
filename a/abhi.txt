@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhi",
-    "h1":"abhi",
-    "title":"abhi --- synonyms, prabhupada.io",
-    "description":"towards."
-}
----
+~~Title:abhi~~
+{{description>towards.}}
 
 ==== abhi  ====
   * towards --- [[books:sb:1:14:12|SB 1.14.12]]

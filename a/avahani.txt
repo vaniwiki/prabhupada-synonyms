@@ -1,11 +1,5 @@
----json
-{
-    "name":"avahāni",
-    "h1":"avahāni",
-    "title":"avahāni --- synonyms, prabhupada.io",
-    "description":"full of transcendental bliss."
-}
----
+~~Title:avahāni~~
+{{description>full of transcendental bliss.}}
 
 ==== sukha-avahāni  ====
   * full of transcendental bliss --- [[books:sb:10:2:29|SB 10.2.29]]

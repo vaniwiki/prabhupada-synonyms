@@ -1,11 +1,5 @@
----json
-{
-    "name":"samadhi",
-    "h1":"samadhi",
-    "title":"samadhi --- synonyms, prabhupada.io",
-    "description":"by meditation; concentration of mind; deep meditation; in ecstasy; in meditation; knowledge; trance."
-}
----
+~~Title:samadhi~~
+{{description>by meditation; concentration of mind; deep meditation; in ecstasy; in meditation; knowledge; trance.}}
 
 ==== samādhi  ====
   * by meditation --- [[books:sb:9:8:21|SB 9.8.21]]

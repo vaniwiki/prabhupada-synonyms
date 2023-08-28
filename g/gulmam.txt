@@ -1,11 +1,5 @@
----json
-{
-    "name":"gulmam",
-    "h1":"gulmam",
-    "title":"gulmam --- synonyms, prabhupada.io",
-    "description":"the dried creepers beneath a bamboo tree."
-}
----
+~~Title:gulmam~~
+{{description>the dried creepers beneath a bamboo tree.}}
 
 ==== veṇu-gulmam  ====
   * the dried creepers beneath a bamboo tree --- [[books:sb:6:1:13-14|SB 6.1.13-14]]

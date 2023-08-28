@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhyasan",
-    "h1":"abhyasan",
-    "title":"abhyasan --- synonyms, prabhupada.io",
-    "description":"practicing."
-}
----
+~~Title:abhyasan~~
+{{description>practicing.}}
 
 ==== abhyasan  ====
   * practicing --- [[books:sb:3:27:6|SB 3.27.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"paraiti",
-    "h1":"paraiti",
-    "title":"paraiti --- synonyms, prabhupada.io",
-    "description":"flies away; will dwindle."
-}
----
+~~Title:paraiti~~
+{{description>flies away; will dwindle.}}
 
 ==== paraiti  ====
   * flies away --- [[books:sb:2:7:47|SB 2.7.47]]

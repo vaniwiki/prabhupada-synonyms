@@ -1,11 +1,5 @@
----json
-{
-    "name":"vādaka",
-    "h1":"vādaka",
-    "title":"vādaka --- synonyms, prabhupada.io",
-    "description":"professional drummers."
-}
----
+~~Title:vādaka~~
+{{description>professional drummers.}}
 
 ==== vādaka  ====
   * professional drummers --- [[books:cc:adi:13:106|Ādi 13.106]]

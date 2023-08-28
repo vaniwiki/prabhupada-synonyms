@@ -1,11 +1,5 @@
----json
-{
-    "name":"udena",
-    "h1":"udena",
-    "title":"udena --- synonyms, prabhupada.io",
-    "description":"by an ocean."
-}
----
+~~Title:udena~~
+{{description>by an ocean.}}
 
 ==== udena  ====
   * by an ocean --- [[books:sb:5:20:7|SB 5.20.7]]

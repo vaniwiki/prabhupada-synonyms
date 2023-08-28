@@ -1,11 +1,5 @@
----json
-{
-    "name":"susthira",
-    "h1":"susthira",
-    "title":"susthira --- synonyms, prabhupada.io",
-    "description":"fixed up."
-}
----
+~~Title:susthira~~
+{{description>fixed up.}}
 
 ==== susthira  ====
   * fixed up --- [[books:sb:4:28:45|SB 4.28.45]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"purukha",
-    "h1":"purukha",
-    "title":"purukha --- synonyms, prabhupada.io",
-    "description":"of a beautiful person."
-}
----
+~~Title:purukha~~
+{{description>of a beautiful person.}}
 
 ==== su-purukha  ====
   * of a beautiful person --- [[books:cc:madhya:8:194|Madhya 8.194]]

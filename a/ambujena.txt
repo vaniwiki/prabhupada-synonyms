@@ -1,11 +1,5 @@
----json
-{
-    "name":"ambujena",
-    "h1":"ambujena",
-    "title":"ambujena --- synonyms, prabhupada.io",
-    "description":"playing with a lotus flower."
-}
----
+~~Title:ambujena~~
+{{description>playing with a lotus flower.}}
 
 ==== līlā-ambujena  ====
   * playing with a lotus flower --- [[books:sb:3:15:21|SB 3.15.21]]

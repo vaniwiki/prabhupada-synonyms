@@ -1,11 +1,5 @@
----json
-{
-    "name":"rocikā",
-    "h1":"rocikā",
-    "title":"rocikā --- synonyms, prabhupada.io",
-    "description":"palatable."
-}
----
+~~Title:rocikā~~
+{{description>palatable.}}
 
 ==== rocikā  ====
   * palatable --- [[books:noi:7|NoI 7]]

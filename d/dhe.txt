@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhe",
-    "h1":"dhe",
-    "title":"dhe --- synonyms, prabhupada.io",
-    "description":"my dear earthly planet."
-}
----
+~~Title:dhe~~
+{{description>my dear earthly planet.}}
 
 ==== vasu-dhe  ====
   * my dear earthly planet --- [[books:sb:4:17:22|SB 4.17.22]]

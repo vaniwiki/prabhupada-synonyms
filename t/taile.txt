@@ -1,11 +1,5 @@
----json
-{
-    "name":"taile",
-    "h1":"taile",
-    "title":"taile --- synonyms, prabhupada.io",
-    "description":"with oil."
-}
----
+~~Title:taile~~
+{{description>with oil.}}
 
 ==== taile  ====
   * with oil --- [[books:cc:antya:12:108|Antya 12.108]]

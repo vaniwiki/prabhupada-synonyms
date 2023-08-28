@@ -1,11 +1,5 @@
----json
-{
-    "name":"adesa",
-    "h1":"adesa",
-    "title":"adesa --- synonyms, prabhupada.io",
-    "description":"unpurified place."
-}
----
+~~Title:adesa~~
+{{description>unpurified place.}}
 
 ==== adesa  ====
   * unpurified place --- [[books:bg:17:22|Bg. 17.22]]

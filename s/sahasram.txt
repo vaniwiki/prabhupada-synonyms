@@ -1,11 +1,5 @@
----json
-{
-    "name":"sahasram",
-    "h1":"sahasram",
-    "title":"sahasram --- synonyms, prabhupada.io",
-    "description":"a thousand; one thousand; thousands."
-}
----
+~~Title:sahasram~~
+{{description>a thousand; one thousand; thousands.}}
 
 ==== sahasram  ====
   * a thousand --- [[books:sb:4:30:17|SB 4.30.17]]

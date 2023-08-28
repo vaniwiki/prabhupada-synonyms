@@ -1,11 +1,5 @@
----json
-{
-    "name":"cintyam",
-    "h1":"cintyam",
-    "title":"cintyam --- synonyms, prabhupada.io",
-    "description":"to be anxious."
-}
----
+~~Title:cintyam~~
+{{description>to be anxious.}}
 
 ==== cintyam  ====
   * to be anxious --- [[books:sb:7:5:49|SB 7.5.49]]

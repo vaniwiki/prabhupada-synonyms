@@ -1,11 +1,5 @@
----json
-{
-    "name":"udam",
-    "h1":"udam",
-    "title":"udam --- synonyms, prabhupada.io",
-    "description":"the ocean of milk."
-}
----
+~~Title:udam~~
+{{description>the ocean of milk.}}
 
 ==== kṣīra-udam  ====
   * the ocean of milk --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

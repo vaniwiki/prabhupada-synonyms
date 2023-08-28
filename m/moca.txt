@@ -1,11 +1,5 @@
----json
-{
-    "name":"mocā",
-    "h1":"mocā",
-    "title":"mocā --- synonyms, prabhupada.io",
-    "description":"the flowers of the banana tree."
-}
----
+~~Title:mocā~~
+{{description>the flowers of the banana tree.}}
 
 ==== mocā  ====
   * the flowers of the banana tree --- [[books:cc:adi:10:68|Ādi 10.68]]

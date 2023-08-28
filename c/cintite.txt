@@ -1,11 +1,5 @@
----json
-{
-    "name":"cintite",
-    "h1":"cintite",
-    "title":"cintite --- synonyms, prabhupada.io",
-    "description":"thinking; to think; while he was thinking."
-}
----
+~~Title:cintite~~
+{{description>thinking; to think; while he was thinking.}}
 
 ==== cintite  ====
   * thinking --- [[books:cc:antya:20:43|Antya 20.43]]

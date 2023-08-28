@@ -1,11 +1,5 @@
----json
-{
-    "name":"ramam",
-    "h1":"ramam",
-    "title":"ramam --- synonyms, prabhupada.io",
-    "description":"the goddess of fortune."
-}
----
+~~Title:ramam~~
+{{description>the goddess of fortune.}}
 
 ==== ramām  ====
   * the goddess of fortune --- [[books:sb:5:18:16|SB 5.18.16]]

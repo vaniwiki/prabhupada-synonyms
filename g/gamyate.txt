@@ -1,11 +1,5 @@
----json
-{
-    "name":"gamyate",
-    "h1":"gamyate",
-    "title":"gamyate --- synonyms, prabhupada.io",
-    "description":"one can attain; one can understand."
-}
----
+~~Title:gamyate~~
+{{description>one can attain; one can understand.}}
 
 ==== gamyate  ====
   * one can attain --- [[books:bg:5:5|Bg. 5.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kave",
-    "h1":"kave",
-    "title":"kave --- synonyms, prabhupada.io",
-    "description":"O best of learned men."
-}
----
+~~Title:kave~~
+{{description>O best of learned men.}}
 
 ==== kave  ====
   * O best of learned men --- [[books:sb:9:4:3|SB 9.4.3]]

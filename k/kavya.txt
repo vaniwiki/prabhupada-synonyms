@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavya",
-    "h1":"kavya",
-    "title":"kavya --- synonyms, prabhupada.io",
-    "description":"poetic; poetry."
-}
----
+~~Title:kavya~~
+{{description>poetic; poetry.}}
 
 ==== kāvya  ====
   * poetic --- [[books:cc:madhya:14:158|Madhya 14.158]]

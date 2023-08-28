@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampadi",
-    "h1":"sampadi",
-    "title":"sampadi --- synonyms, prabhupada.io",
-    "description":"opulent."
-}
----
+~~Title:sampadi~~
+{{description>opulent.}}
 
 ==== sampadi  ====
   * opulent --- [[books:sb:4:25:18|SB 4.25.18]]

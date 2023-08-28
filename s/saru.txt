@@ -1,11 +1,5 @@
----json
-{
-    "name":"saru",
-    "h1":"saru",
-    "title":"saru --- synonyms, prabhupada.io",
-    "description":"lean and thin."
-}
----
+~~Title:saru~~
+{{description>lean and thin.}}
 
 ==== saru  ====
   * lean and thin --- [[books:cc:antya:10:72|Antya 10.72]]

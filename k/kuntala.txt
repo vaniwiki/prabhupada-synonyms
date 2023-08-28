@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuntala",
-    "h1":"kuntala",
-    "title":"kuntala --- synonyms, prabhupada.io",
-    "description":"of hair."
-}
----
+~~Title:kuntala~~
+{{description>of hair.}}
 
 ==== kuntala  ====
   * of hair --- [[books:sb:3:28:30|SB 3.28.30]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sabdam",
-    "h1":"sabdam",
-    "title":"sabdam --- synonyms, prabhupada.io",
-    "description":"sound."
-}
----
+~~Title:sabdam~~
+{{description>sound.}}
 
 ==== śabdam  ====
   * sound --- [[books:sb:4:10:22|SB 4.10.22]]

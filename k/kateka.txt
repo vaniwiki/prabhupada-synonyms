@@ -1,11 +1,5 @@
----json
-{
-    "name":"kateka",
-    "h1":"kateka",
-    "title":"kateka --- synonyms, prabhupada.io",
-    "description":"how many; how much; so much."
-}
----
+~~Title:kateka~~
+{{description>how many; how much; so much.}}
 
 ==== kateka  ====
   * how many --- [[books:cc:madhya:10:84|Madhya 10.84]]

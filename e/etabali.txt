@@ -1,11 +1,5 @@
----json
-{
-    "name":"etabali",
-    "h1":"etabali",
-    "title":"etabali --- synonyms, prabhupada.io",
-    "description":"saying this."
-}
----
+~~Title:etabali~~
+{{description>saying this.}}
 
 ==== etabali  ====
   * saying this --- [[books:cc:madhya:1:216|Madhya 1.216]]

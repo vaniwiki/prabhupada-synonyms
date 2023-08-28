@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitalam",
-    "h1":"vitalam",
-    "title":"vitalam --- synonyms, prabhupada.io",
-    "description":"the planetary system named Vitala; the second planetary system below; Vitala."
-}
----
+~~Title:vitalam~~
+{{description>the planetary system named Vitala; the second planetary system below; Vitala.}}
 
 ==== vitalam  ====
   * the planetary system named Vitala --- [[books:sb:2:1:27|SB 2.1.27]]

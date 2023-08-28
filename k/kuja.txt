@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuja",
-    "h1":"kuja",
-    "title":"kuja --- synonyms, prabhupada.io",
-    "description":"Narakāsura."
-}
----
+~~Title:kuja~~
+{{description>Narakāsura.}}
 
 ==== kuja  ====
   * Narakāsura --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

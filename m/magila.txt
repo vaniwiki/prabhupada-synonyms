@@ -1,11 +1,5 @@
----json
-{
-    "name":"magila",
-    "h1":"magila",
-    "title":"magila --- synonyms, prabhupada.io",
-    "description":"asked; demanded; He begged; requested."
-}
----
+~~Title:magila~~
+{{description>asked; demanded; He begged; requested.}}
 
 ==== māgila  ====
   * asked --- [[books:cc:adi:17:233|Ādi 17.233]]

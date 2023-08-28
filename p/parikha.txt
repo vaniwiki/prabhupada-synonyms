@@ -1,11 +1,5 @@
----json
-{
-    "name":"parikha",
-    "h1":"parikha",
-    "title":"parikha --- synonyms, prabhupada.io",
-    "description":"a moat."
-}
----
+~~Title:parikha~~
+{{description>a moat.}}
 
 ==== parikhā  ====
   * a moat --- [[books:sb:5:20:2|SB 5.20.2]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"mandam",
-    "h1":"mandam",
-    "title":"mandam --- synonyms, prabhupada.io",
-    "description":"mildly."
-}
----
+~~Title:mandam~~
+{{description>mildly.}}
 
 ==== mandam  ====
   * mildly --- [[books:sb:1:8:44|SB 1.8.44]]

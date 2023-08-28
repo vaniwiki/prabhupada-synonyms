@@ -1,11 +1,5 @@
----json
-{
-    "name":"muhurta",
-    "h1":"muhurta",
-    "title":"muhurta --- synonyms, prabhupada.io",
-    "description":"of a moment."
-}
----
+~~Title:muhurta~~
+{{description>of a moment.}}
 
 ==== muhūrta  ====
   * of a moment --- [[books:sb:2:2:21|SB 2.2.21]]

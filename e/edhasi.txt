@@ -1,11 +1,5 @@
----json
-{
-    "name":"edhasi",
-    "h1":"edhasi",
-    "title":"edhasi --- synonyms, prabhupada.io",
-    "description":"fuel; in wood."
-}
----
+~~Title:edhasi~~
+{{description>fuel; in wood.}}
 
 ==== edhasi  ====
   * fuel --- [[books:sb:3:15:10|SB 3.15.10]]

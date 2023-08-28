@@ -1,11 +1,5 @@
----json
-{
-    "name":"avilambitam",
-    "h1":"avilambitam",
-    "title":"avilambitam --- synonyms, prabhupada.io",
-    "description":"without delay."
-}
----
+~~Title:avilambitam~~
+{{description>without delay.}}
 
 ==== avilambitam  ====
   * without delay --- [[books:sb:8:6:21|SB 8.6.21]]

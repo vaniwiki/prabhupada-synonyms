@@ -1,11 +1,5 @@
----json
-{
-    "name":"chide",
-    "h1":"chide",
-    "title":"chide --- synonyms, prabhupada.io",
-    "description":"the liberator."
-}
----
+~~Title:chide~~
+{{description>the liberator.}}
 
 ==== chide  ====
   * the liberator --- [[books:sb:2:4:13|SB 2.4.13]]

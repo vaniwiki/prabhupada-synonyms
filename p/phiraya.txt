@@ -1,11 +1,5 @@
----json
-{
-    "name":"phiraya",
-    "h1":"phiraya",
-    "title":"phiraya --- synonyms, prabhupada.io",
-    "description":"revolves."
-}
----
+~~Title:phiraya~~
+{{description>revolves.}}
 
 ==== phiraya  ====
   * revolves --- [[books:cc:antya:15:6|Antya 15.6]]

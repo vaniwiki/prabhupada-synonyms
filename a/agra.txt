@@ -1,11 +1,5 @@
----json
-{
-    "name":"agra",
-    "h1":"agra",
-    "title":"agra --- synonyms, prabhupada.io",
-    "description":"the chief."
-}
----
+~~Title:agra~~
+{{description>the chief.}}
 
 ==== agra  ====
   * the chief --- [[books:cc:antya:10:4|Antya 10.4]]

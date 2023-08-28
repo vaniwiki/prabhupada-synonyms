@@ -1,11 +1,5 @@
----json
-{
-    "name":"tva",
-    "h1":"tva",
-    "title":"tva --- synonyms, prabhupada.io",
-    "description":"on you; unto you; You; yourself."
-}
----
+~~Title:tva~~
+{{description>on you; unto you; You; yourself.}}
 
 ==== tvā  ====
   * on you --- [[books:sb:3:15:6|SB 3.15.6]]

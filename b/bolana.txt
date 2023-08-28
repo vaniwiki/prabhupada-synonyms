@@ -1,11 +1,5 @@
----json
-{
-    "name":"bolana",
-    "h1":"bolana",
-    "title":"bolana --- synonyms, prabhupada.io",
-    "description":"calls."
-}
----
+~~Title:bolana~~
+{{description>calls.}}
 
 ==== bolāna  ====
   * calls --- [[books:cc:antya:2:24-25|Antya 2.24-25]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"avilam",
-    "h1":"avilam",
-    "title":"avilam --- synonyms, prabhupada.io",
-    "description":"smeared with blood."
-}
----
+~~Title:avilam~~
+{{description>smeared with blood.}}
 
 ==== asṛk-āvilam  ====
   * smeared with blood --- [[books:sb:7:2:29-31|SB 7.2.29-31]]

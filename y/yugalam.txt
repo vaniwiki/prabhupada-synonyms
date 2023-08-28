@@ -1,11 +1,5 @@
----json
-{
-    "name":"yugalam",
-    "h1":"yugalam",
-    "title":"yugalam --- synonyms, prabhupada.io",
-    "description":"like a pair; the two."
-}
----
+~~Title:yugalam~~
+{{description>like a pair; the two.}}
 
 ==== yugalam  ====
   * like a pair --- [[books:sb:5:2:5|SB 5.2.5]]

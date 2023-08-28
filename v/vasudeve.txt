@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasudeve",
-    "h1":"vasudeve",
-    "title":"vasudeve --- synonyms, prabhupada.io",
-    "description":"when Vasudeva."
-}
----
+~~Title:vasudeve~~
+{{description>when Vasudeva.}}
 
 ==== vasudeve  ====
   * when Vasudeva --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

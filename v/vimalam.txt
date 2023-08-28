@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimalam",
-    "h1":"vimalam",
-    "title":"vimalam --- synonyms, prabhupada.io",
-    "description":"spotless."
-}
----
+~~Title:vimalam~~
+{{description>spotless.}}
 
 ==== vimalam  ====
   * spotless --- [[books:sb:4:25:5|SB 4.25.5]]

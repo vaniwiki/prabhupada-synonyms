@@ -1,11 +1,5 @@
----json
-{
-    "name":"hutah",
-    "h1":"hutah",
-    "title":"hutah --- synonyms, prabhupada.io",
-    "description":"offered."
-}
----
+~~Title:hutah~~
+{{description>offered.}}
 
 ==== hutāḥ  ====
   * offered --- [[books:sb:8:16:8|SB 8.16.8]]

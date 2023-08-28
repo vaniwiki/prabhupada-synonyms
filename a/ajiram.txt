@@ -1,11 +1,5 @@
----json
-{
-    "name":"ajiram",
-    "h1":"ajiram",
-    "title":"ajiram --- synonyms, prabhupada.io",
-    "description":"playgrounds."
-}
----
+~~Title:ajiram~~
+{{description>playgrounds.}}
 
 ==== ajiram  ====
   * playgrounds --- [[books:sb:1:6:13|SB 1.6.13]]

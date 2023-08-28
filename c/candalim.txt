@@ -1,5 +1,11 @@
-~~Title:cāṇḍālīm~~
-{{description>a woman of the lowest class.}}
+---json
+{
+    "name":"cāṇḍālīm",
+    "h1":"cāṇḍālīm",
+    "title":"cāṇḍālīm -- synonyms, prabhupada.io",
+    "description":"a woman of the lowest class."
+}
+---
 
 ==== cāṇḍālīm  ====
   * a woman of the lowest class --- [[books:sb:6:13:12-13|SB 6.13.12-13]]

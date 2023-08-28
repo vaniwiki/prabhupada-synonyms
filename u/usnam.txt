@@ -1,5 +1,11 @@
-~~Title:uṣṇam~~
-{{description>very hot.}}
+---json
+{
+    "name":"uṣṇam",
+    "h1":"uṣṇam",
+    "title":"uṣṇam -- synonyms, prabhupada.io",
+    "description":"very hot."
+}
+---
 
 ==== ati-uṣṇam  ====
   * very hot --- [[books:sb:5:9:18|SB 5.9.18]]

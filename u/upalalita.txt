@@ -1,5 +1,11 @@
-~~Title:upalālita~~
-{{description>served.}}
+---json
+{
+    "name":"upalālita",
+    "h1":"upalālita",
+    "title":"upalālita -- synonyms, prabhupada.io",
+    "description":"served."
+}
+---
 
 ==== upalālita  ====
   * served --- [[books:sb:6:16:25|SB 6.16.25]]

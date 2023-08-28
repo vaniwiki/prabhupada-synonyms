@@ -1,5 +1,11 @@
-~~Title:kathayatoḥ~~
-{{description>engaged in conversation.}}
+---json
+{
+    "name":"kathayatoḥ",
+    "h1":"kathayatoḥ",
+    "title":"kathayatoḥ -- synonyms, prabhupada.io",
+    "description":"engaged in conversation."
+}
+---
 
 ==== kathayatoḥ  ====
   * engaged in conversation --- [[books:sb:1:16:36|SB 1.16.36]]

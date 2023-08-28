@@ -1,5 +1,11 @@
-~~Title:avācyatām~~
-{{description>the cursing of Śiva.}}
+---json
+{
+    "name":"avācyatām",
+    "h1":"avācyatām",
+    "title":"avācyatām -- synonyms, prabhupada.io",
+    "description":"the cursing of Śiva."
+}
+---
 
 ==== tat-avācyatām  ====
   * the cursing of Śiva --- [[books:sb:4:2:20|SB 4.2.20]]

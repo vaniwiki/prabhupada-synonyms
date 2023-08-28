@@ -1,5 +1,11 @@
-~~Title:nirbhayam~~
-{{description>fearlessness.}}
+---json
+{
+    "name":"nirbhayam",
+    "h1":"nirbhayam",
+    "title":"nirbhayam -- synonyms, prabhupada.io",
+    "description":"fearlessness."
+}
+---
 
 ==== nirbhayam  ====
   * fearlessness --- [[books:sb:10:3:27|SB 10.3.27]]

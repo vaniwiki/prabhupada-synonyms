@@ -1,5 +1,11 @@
-~~Title:ukte~~
-{{description>being addressed; when it was replied (by the demigods).}}
+---json
+{
+    "name":"ukte",
+    "h1":"ukte",
+    "title":"ukte -- synonyms, prabhupada.io",
+    "description":"being addressed; when it was replied (by the demigods)."
+}
+---
 
 ==== ukte  ====
   * being addressed --- [[books:sb:6:1:37|SB 6.1.37]]

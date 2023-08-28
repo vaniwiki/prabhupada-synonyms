@@ -1,5 +1,11 @@
-~~Title:sarīsṛpantau~~
-{{description>crawling like snakes.}}
+---json
+{
+    "name":"sarīsṛpantau",
+    "h1":"sarīsṛpantau",
+    "title":"sarīsṛpantau -- synonyms, prabhupada.io",
+    "description":"crawling like snakes."
+}
+---
 
 ==== sarīsṛpantau  ====
   * crawling like snakes --- [[books:sb:10:8:22|SB 10.8.22]]

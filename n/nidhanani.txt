@@ -1,5 +1,11 @@
-~~Title:nidhanāni~~
-{{description>all that are vanquished.}}
+---json
+{
+    "name":"nidhanāni",
+    "h1":"nidhanāni",
+    "title":"nidhanāni -- synonyms, prabhupada.io",
+    "description":"all that are vanquished."
+}
+---
 
 ==== nidhanāni  ====
   * all that are vanquished --- [[books:bg:2:28|Bg. 2.28]]

@@ -1,5 +1,11 @@
-~~Title:kāṅhāre~~
-{{description>to someone.}}
+---json
+{
+    "name":"kāṅhāre",
+    "h1":"kāṅhāre",
+    "title":"kāṅhāre -- synonyms, prabhupada.io",
+    "description":"to someone."
+}
+---
 
 ==== kāṅhāre  ====
   * to someone --- [[books:cc:madhya:21:130|Madhya 21.130]]

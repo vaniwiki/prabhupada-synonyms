@@ -1,5 +1,11 @@
-~~Title:svakam~~
-{{description>His own; to their own.}}
+---json
+{
+    "name":"svakam",
+    "h1":"svakam",
+    "title":"svakam -- synonyms, prabhupada.io",
+    "description":"His own; to their own."
+}
+---
 
 ==== svakam  ====
   * His own --- [[books:bg:11:50|Bg. 11.50]]

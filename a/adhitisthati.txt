@@ -1,5 +1,11 @@
-~~Title:adhitiṣṭhati~~
-{{description>situated.}}
+---json
+{
+    "name":"adhitiṣṭhati",
+    "h1":"adhitiṣṭhati",
+    "title":"adhitiṣṭhati -- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== adhitiṣṭhati  ====
   * situated --- [[books:sb:2:6:13-16|SB 2.6.13-16]]

@@ -1,5 +1,11 @@
-~~Title:putri~~
-{{description>the worthy daughter.}}
+---json
+{
+    "name":"putri",
+    "h1":"putri",
+    "title":"putri -- synonyms, prabhupada.io",
+    "description":"the worthy daughter."
+}
+---
 
 ==== putrī  ====
   * the worthy daughter --- [[books:sb:1:13:30|SB 1.13.30]]

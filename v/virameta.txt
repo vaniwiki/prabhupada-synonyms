@@ -1,5 +1,11 @@
-~~Title:virameta~~
-{{description>can be detached from; ceases from.}}
+---json
+{
+    "name":"virameta",
+    "h1":"virameta",
+    "title":"virameta -- synonyms, prabhupada.io",
+    "description":"can be detached from; ceases from."
+}
+---
 
 ==== virameta  ====
   * can be detached from --- [[books:sb:1:11:33|SB 1.11.33]]

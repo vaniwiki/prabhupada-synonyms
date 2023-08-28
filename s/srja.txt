@@ -1,5 +1,11 @@
-~~Title:srja~~
-{{description>beget; generate; just generate.}}
+---json
+{
+    "name":"srja",
+    "h1":"srja",
+    "title":"srja -- synonyms, prabhupada.io",
+    "description":"beget; generate; just generate."
+}
+---
 
 ==== sṛja  ====
   * beget --- [[books:sb:3:21:6|SB 3.21.6]]

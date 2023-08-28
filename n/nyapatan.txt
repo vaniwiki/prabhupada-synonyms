@@ -1,5 +1,11 @@
-~~Title:nyapatan~~
-{{description>fell down.}}
+---json
+{
+    "name":"nyapatan",
+    "h1":"nyapatan",
+    "title":"nyapatan -- synonyms, prabhupada.io",
+    "description":"fell down."
+}
+---
 
 ==== nyapatan  ====
   * fell down --- [[books:sb:3:21:38-39|SB 3.21.38-39]], [[books:sb:3:22:29-30|SB 3.22.29-30]], [[books:sb:6:8:14|SB 6.8.14]]

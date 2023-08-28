@@ -1,5 +1,11 @@
-~~Title:tasthusam~~
-{{description>of those who do not move.}}
+---json
+{
+    "name":"tasthusam",
+    "h1":"tasthusam",
+    "title":"tasthusam -- synonyms, prabhupada.io",
+    "description":"of those who do not move."
+}
+---
 
 ==== tasthuṣām  ====
   * of those who do not move --- [[books:sb:3:10:19|SB 3.10.19]]

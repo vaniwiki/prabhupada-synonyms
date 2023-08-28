@@ -1,5 +1,11 @@
-~~Title:udāharet~~
-{{description>should chant.}}
+---json
+{
+    "name":"udāharet",
+    "h1":"udāharet",
+    "title":"udāharet -- synonyms, prabhupada.io",
+    "description":"should chant."
+}
+---
 
 ==== udāharet  ====
   * should chant --- [[books:sb:6:8:11|SB 6.8.11]]

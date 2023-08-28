@@ -1,5 +1,11 @@
-~~Title:ṛṣyamūka~~
-{{description>at the Ṛṣyamūka Mountain.}}
+---json
+{
+    "name":"ṛṣyamūka",
+    "h1":"ṛṣyamūka",
+    "title":"ṛṣyamūka -- synonyms, prabhupada.io",
+    "description":"at the Ṛṣyamūka Mountain."
+}
+---
 
 ==== ṛṣyamūka-giri  ====
   * at the Ṛṣyamūka Mountain --- [[books:cc:madhya:9:311|Madhya 9.311]]

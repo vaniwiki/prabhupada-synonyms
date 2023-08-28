@@ -1,5 +1,11 @@
-~~Title:tuṣyeta~~
-{{description>be pleased.}}
+---json
+{
+    "name":"tuṣyeta",
+    "h1":"tuṣyeta",
+    "title":"tuṣyeta -- synonyms, prabhupada.io",
+    "description":"be pleased."
+}
+---
 
 ==== tuṣyeta  ====
   * be pleased --- [[books:sb:1:5:8|SB 1.5.8]]

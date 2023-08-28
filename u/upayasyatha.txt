@@ -1,5 +1,11 @@
-~~Title:upayāsyatha~~
-{{description>you will attain.}}
+---json
+{
+    "name":"upayāsyatha",
+    "h1":"upayāsyatha",
+    "title":"upayāsyatha -- synonyms, prabhupada.io",
+    "description":"you will attain."
+}
+---
 
 ==== upayāsyatha  ====
   * you will attain --- [[books:sb:4:30:18|SB 4.30.18]]

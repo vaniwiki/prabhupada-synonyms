@@ -1,5 +1,11 @@
-~~Title:vihvalām~~
-{{description>being afraid.}}
+---json
+{
+    "name":"vihvalām",
+    "h1":"vihvalām",
+    "title":"vihvalām -- synonyms, prabhupada.io",
+    "description":"being afraid."
+}
+---
 
 ==== bhaya-vihvalām  ====
   * being afraid --- [[books:sb:1:8:8|SB 1.8.8]]

@@ -1,5 +1,11 @@
-~~Title:saphale~~
-{{description>completely successful.}}
+---json
+{
+    "name":"saphale",
+    "h1":"saphale",
+    "title":"saphale -- synonyms, prabhupada.io",
+    "description":"completely successful."
+}
+---
 
 ==== parama-saphale  ====
   * completely successful --- [[books:cc:antya:12:109|Antya 12.109]]

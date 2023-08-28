@@ -1,5 +1,11 @@
-~~Title:vaśyatām~~
-{{description>obligation to His devotees.}}
+---json
+{
+    "name":"vaśyatām",
+    "h1":"vaśyatām",
+    "title":"vaśyatām -- synonyms, prabhupada.io",
+    "description":"obligation to His devotees."
+}
+---
 
 ==== bhakta-vaśyatām  ====
   * obligation to His devotees --- [[books:cc:madhya:15:1|Madhya 15.1]]

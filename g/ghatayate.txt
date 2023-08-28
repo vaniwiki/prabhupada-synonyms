@@ -1,5 +1,11 @@
-~~Title:ghaṭayate~~
-{{description>causes to appear.}}
+---json
+{
+    "name":"ghaṭayate",
+    "h1":"ghaṭayate",
+    "title":"ghaṭayate -- synonyms, prabhupada.io",
+    "description":"causes to appear."
+}
+---
 
 ==== ghaṭayate  ====
   * causes to appear --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

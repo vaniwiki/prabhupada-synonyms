@@ -1,5 +1,11 @@
-~~Title:sthaṇḍileyuḥ~~
-{{description>Sthaṇḍileyu.}}
+---json
+{
+    "name":"sthaṇḍileyuḥ",
+    "h1":"sthaṇḍileyuḥ",
+    "title":"sthaṇḍileyuḥ -- synonyms, prabhupada.io",
+    "description":"Sthaṇḍileyu."
+}
+---
 
 ==== sthaṇḍileyuḥ  ====
   * Sthaṇḍileyu --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

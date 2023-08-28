@@ -1,5 +1,11 @@
-~~Title:vigata~~
-{{description>ceased; deprived of; devoid of; discarded; given up; is freed from; lost; without.}}
+---json
+{
+    "name":"vigata",
+    "h1":"vigata",
+    "title":"vigata -- synonyms, prabhupada.io",
+    "description":"ceased; deprived of; devoid of; discarded; given up; is freed from; lost; without."
+}
+---
 
 ==== vigata  ====
   * ceased --- [[books:sb:3:31:21|SB 3.31.21]]

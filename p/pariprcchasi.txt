@@ -1,5 +1,11 @@
-~~Title:paripṛcchasi~~
-{{description>asked.}}
+---json
+{
+    "name":"paripṛcchasi",
+    "h1":"paripṛcchasi",
+    "title":"paripṛcchasi -- synonyms, prabhupada.io",
+    "description":"asked."
+}
+---
 
 ==== paripṛcchasi  ====
   * asked --- [[books:sb:6:17:39|SB 6.17.39]], [[books:sb:6:18:78|SB 6.18.78]]

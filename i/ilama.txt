@@ -1,5 +1,11 @@
-~~Title:ilāma~~
-{{description>I remained in householder life.}}
+---json
+{
+    "name":"ilāma",
+    "h1":"ilāma",
+    "title":"ilāma -- synonyms, prabhupada.io",
+    "description":"I remained in householder life."
+}
+---
 
 ==== gṛhastha ha-ilāma  ====
   * I remained in householder life --- [[books:cc:adi:15:25|Ādi 15.25]]

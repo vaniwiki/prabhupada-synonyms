@@ -1,5 +1,11 @@
-~~Title:sparsa~~
-{{description>from contact; roughly handled; senses; the touch; touch; touched by; touching.}}
+---json
+{
+    "name":"sparsa",
+    "h1":"sparsa",
+    "title":"sparsa -- synonyms, prabhupada.io",
+    "description":"from contact; roughly handled; senses; the touch; touch; touched by; touching."
+}
+---
 
 ==== sparśa  ====
   * from contact --- [[books:sb:5:16:18|SB 5.16.18]]

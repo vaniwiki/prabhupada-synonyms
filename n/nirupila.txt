@@ -1,5 +1,11 @@
-~~Title:nirūpila~~
-{{description>has described.}}
+---json
+{
+    "name":"nirūpila",
+    "h1":"nirūpila",
+    "title":"nirūpila -- synonyms, prabhupada.io",
+    "description":"has described."
+}
+---
 
 ==== nirūpila  ====
   * has described --- [[books:cc:madhya:20:358|Madhya 20.358]]

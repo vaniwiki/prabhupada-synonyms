@@ -1,5 +1,11 @@
-~~Title:dharaha~~
-{{description>please keep Your lotus feet.}}
+---json
+{
+    "name":"dharaha",
+    "h1":"dharaha",
+    "title":"dharaha -- synonyms, prabhupada.io",
+    "description":"please keep Your lotus feet."
+}
+---
 
 ==== dharaha caraṇa  ====
   * please keep Your lotus feet --- [[books:cc:antya:7:130|Antya 7.130]]

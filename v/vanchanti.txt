@@ -1,5 +1,11 @@
-~~Title:vāñchanti~~
-{{description>jñānīs desire; desire.}}
+---json
+{
+    "name":"vāñchanti",
+    "h1":"vāñchanti",
+    "title":"vāñchanti -- synonyms, prabhupada.io",
+    "description":"jñānīs desire; desire."
+}
+---
 
 ==== vāñchanti  ====
   * //jñānīs// desire --- [[books:sb:9:13:9|SB 9.13.9]]

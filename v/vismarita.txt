@@ -1,5 +1,11 @@
-~~Title:vismārita~~
-{{description>forgotten.}}
+---json
+{
+    "name":"vismārita",
+    "h1":"vismārita",
+    "title":"vismārita -- synonyms, prabhupada.io",
+    "description":"forgotten."
+}
+---
 
 ==== vismārita  ====
   * forgotten --- [[books:sb:6:9:39|SB 6.9.39]]

@@ -1,5 +1,11 @@
-~~Title:mañjūṣa~~
-{{description>packed in a basket.}}
+---json
+{
+    "name":"mañjūṣa",
+    "h1":"mañjūṣa",
+    "title":"mañjūṣa -- synonyms, prabhupada.io",
+    "description":"packed in a basket."
+}
+---
 
 ==== mañjūṣa-antaḥgatam  ====
   * packed in a basket --- [[books:sb:9:23:13|SB 9.23.13]]

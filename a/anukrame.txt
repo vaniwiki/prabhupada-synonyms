@@ -1,5 +1,11 @@
-~~Title:anukrame~~
-{{description>one after another.}}
+---json
+{
+    "name":"anukrame",
+    "h1":"anukrame",
+    "title":"anukrame -- synonyms, prabhupada.io",
+    "description":"one after another."
+}
+---
 
 ==== anukrame  ====
   * one after another --- [[books:cc:madhya:20:381|Madhya 20.381]]

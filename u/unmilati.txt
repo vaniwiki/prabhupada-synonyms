@@ -1,5 +1,11 @@
-~~Title:unmīlati~~
-{{description>appears; manifests.}}
+---json
+{
+    "name":"unmīlati",
+    "h1":"unmīlati",
+    "title":"unmīlati -- synonyms, prabhupada.io",
+    "description":"appears; manifests."
+}
+---
 
 ==== unmīlati  ====
   * appears --- [[books:cc:antya:1:138|Antya 1.138]]

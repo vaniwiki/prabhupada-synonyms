@@ -1,5 +1,11 @@
-~~Title:vekāram~~
-{{description>the syllable ve.}}
+---json
+{
+    "name":"vekāram",
+    "h1":"vekāram",
+    "title":"vekāram -- synonyms, prabhupada.io",
+    "description":"the syllable ve."
+}
+---
 
 ==== vekāram  ====
   * the syllable //ve// --- [[books:sb:6:8:8-10|SB 6.8.8-10]]

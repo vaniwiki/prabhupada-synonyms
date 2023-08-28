@@ -1,5 +1,11 @@
-~~Title:bhujaga~~
-{{description>the chief of the reptiles.}}
+---json
+{
+    "name":"bhujaga",
+    "h1":"bhujaga",
+    "title":"bhujaga -- synonyms, prabhupada.io",
+    "description":"the chief of the reptiles."
+}
+---
 
 ==== bhujaga-adhipam  ====
   * the chief of the reptiles --- [[books:sb:3:2:31|SB 3.2.31]]

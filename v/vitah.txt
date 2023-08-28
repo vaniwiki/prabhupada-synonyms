@@ -1,5 +1,11 @@
-~~Title:vītaḥ~~
-{{description>enclosed.}}
+---json
+{
+    "name":"vītaḥ",
+    "h1":"vītaḥ",
+    "title":"vītaḥ -- synonyms, prabhupada.io",
+    "description":"enclosed."
+}
+---
 
 ==== vītaḥ  ====
   * enclosed --- [[books:sb:3:31:4|SB 3.31.4]]

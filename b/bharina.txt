@@ -1,5 +1,11 @@
-~~Title:bhariñā~~
-{{description>filling.}}
+---json
+{
+    "name":"bhariñā",
+    "h1":"bhariñā",
+    "title":"bhariñā -- synonyms, prabhupada.io",
+    "description":"filling."
+}
+---
 
 ==== bhariñā  ====
   * filling --- [[books:cc:madhya:3:53|Madhya 3.53]]

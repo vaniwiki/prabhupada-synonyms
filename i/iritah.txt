@@ -1,5 +1,11 @@
-~~Title:iritah~~
-{{description>described; explained; had been released; known; known as such; spreading.}}
+---json
+{
+    "name":"iritah",
+    "h1":"iritah",
+    "title":"iritah -- synonyms, prabhupada.io",
+    "description":"described; explained; had been released; known; known as such; spreading."
+}
+---
 
 ==== īritaḥ  ====
   * described --- [[books:sb:4:13:4|SB 4.13.4]], [[books:sb:8:4:14|SB 8.4.14]]

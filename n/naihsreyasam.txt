@@ -1,5 +1,11 @@
-~~Title:naiḥśreyasam~~
-{{description>auspicious.}}
+---json
+{
+    "name":"naiḥśreyasam",
+    "h1":"naiḥśreyasam",
+    "title":"naiḥśreyasam -- synonyms, prabhupada.io",
+    "description":"auspicious."
+}
+---
 
 ==== naiḥśreyasam  ====
   * auspicious --- [[books:sb:3:15:16|SB 3.15.16]]

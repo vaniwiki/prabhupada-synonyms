@@ -1,5 +1,11 @@
-~~Title:nyūnam~~
-{{description>deficiency; deficient; diminished; remained short; still short.}}
+---json
+{
+    "name":"nyūnam",
+    "h1":"nyūnam",
+    "title":"nyūnam -- synonyms, prabhupada.io",
+    "description":"deficiency; deficient; diminished; remained short; still short."
+}
+---
 
 ==== nyūnam  ====
   * deficiency --- [[books:sb:1:5:7|SB 1.5.7]]

@@ -1,5 +1,11 @@
-~~Title:bhoktavyam~~
-{{description>our lunch should be eaten; to be eaten.}}
+---json
+{
+    "name":"bhoktavyam",
+    "h1":"bhoktavyam",
+    "title":"bhoktavyam -- synonyms, prabhupada.io",
+    "description":"our lunch should be eaten; to be eaten."
+}
+---
 
 ==== bhoktavyam  ====
   * our lunch should be eaten --- [[books:sb:10:13:6|SB 10.13.6]]

@@ -1,5 +1,11 @@
-~~Title:unmūlayan~~
-{{description>uprooting.}}
+---json
+{
+    "name":"unmūlayan",
+    "h1":"unmūlayan",
+    "title":"unmūlayan -- synonyms, prabhupada.io",
+    "description":"uprooting."
+}
+---
 
 ==== unmūlayan  ====
   * uprooting --- [[books:sb:3:17:5|SB 3.17.5]]

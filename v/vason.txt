@@ -1,5 +1,11 @@
-~~Title:vāsoṅ~~
-{{description>I think.}}
+---json
+{
+    "name":"vāsoṅ",
+    "h1":"vāsoṅ",
+    "title":"vāsoṅ -- synonyms, prabhupada.io",
+    "description":"I think."
+}
+---
 
 ==== vāsoṅ  ====
   * I think --- [[books:cc:madhya:3:164|Madhya 3.164]]

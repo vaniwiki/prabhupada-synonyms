@@ -1,5 +1,11 @@
-~~Title:durjana~~
-{{description>rogues.}}
+---json
+{
+    "name":"durjana",
+    "h1":"durjana",
+    "title":"durjana -- synonyms, prabhupada.io",
+    "description":"rogues."
+}
+---
 
 ==== durjana  ====
   * rogues --- [[books:cc:adi:7:26|Ādi 7.26]], [[books:cc:adi:17:260|Ādi 17.260]]

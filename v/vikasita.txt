@@ -1,5 +1,11 @@
-~~Title:vikasita~~
-{{description>exhibited.}}
+---json
+{
+    "name":"vikasita",
+    "h1":"vikasita",
+    "title":"vikasita -- synonyms, prabhupada.io",
+    "description":"exhibited."
+}
+---
 
 ==== vikasita  ====
   * exhibited --- [[books:cc:antya:16:148|Antya 16.148]]

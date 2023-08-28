@@ -1,5 +1,11 @@
-~~Title:kampa~~
-{{description>movement; shivering; trembling.}}
+---json
+{
+    "name":"kampa",
+    "h1":"kampa",
+    "title":"kampa -- synonyms, prabhupada.io",
+    "description":"movement; shivering; trembling."
+}
+---
 
 ==== kampa  ====
   * movement --- [[books:cc:madhya:13:103|Madhya 13.103]]

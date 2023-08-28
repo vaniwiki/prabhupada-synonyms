@@ -1,5 +1,11 @@
-~~Title:avaram~~
-{{description>abominable; material.}}
+---json
+{
+    "name":"avaram",
+    "h1":"avaram",
+    "title":"avaram -- synonyms, prabhupada.io",
+    "description":"abominable; material."
+}
+---
 
 ==== avaram  ====
   * abominable --- [[books:bg:2:49|Bg. 2.49]]

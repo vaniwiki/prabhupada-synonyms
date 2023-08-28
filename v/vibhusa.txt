@@ -1,5 +1,11 @@
-~~Title:vibhūṣā~~
-{{description>exactly like their ornaments and dress in all their varied particulars.}}
+---json
+{
+    "name":"vibhūṣā",
+    "h1":"vibhūṣā",
+    "title":"vibhūṣā -- synonyms, prabhupada.io",
+    "description":"exactly like their ornaments and dress in all their varied particulars."
+}
+---
 
 ==== yāvat vibhūṣā-ambaram  ====
   * exactly like their ornaments and dress in all their varied particulars --- [[books:sb:10:13:19|SB 10.13.19]]

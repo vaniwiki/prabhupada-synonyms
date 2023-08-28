@@ -1,5 +1,11 @@
-~~Title:sakale~~
-{{description>all; all of them; everyone.}}
+---json
+{
+    "name":"sakale",
+    "h1":"sakale",
+    "title":"sakale -- synonyms, prabhupada.io",
+    "description":"all; all of them; everyone."
+}
+---
 
 ==== sakale  ====
   * all --- [[books:cc:antya:7:79|Antya 7.79]]

@@ -1,5 +1,11 @@
-~~Title:patagān~~
-{{description>to birds of different varieties.}}
+---json
+{
+    "name":"patagān",
+    "h1":"patagān",
+    "title":"patagān -- synonyms, prabhupada.io",
+    "description":"to birds of different varieties."
+}
+---
 
 ==== patagān  ====
   * to birds of different varieties --- [[books:sb:6:6:21-22|SB 6.6.21-22]]

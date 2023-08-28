@@ -1,5 +1,11 @@
-~~Title:bhṛtyataḥ~~
-{{description>from the servant.}}
+---json
+{
+    "name":"bhṛtyataḥ",
+    "h1":"bhṛtyataḥ",
+    "title":"bhṛtyataḥ -- synonyms, prabhupada.io",
+    "description":"from the servant."
+}
+---
 
 ==== bhṛtyataḥ  ====
   * from the servant --- [[books:sb:7:10:5|SB 7.10.5]]

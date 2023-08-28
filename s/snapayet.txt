@@ -1,5 +1,11 @@
-~~Title:snapayet~~
-{{description>should bathe.}}
+---json
+{
+    "name":"snapayet",
+    "h1":"snapayet",
+    "title":"snapayet -- synonyms, prabhupada.io",
+    "description":"should bathe."
+}
+---
 
 ==== snapayet  ====
   * should bathe --- [[books:sb:8:16:39|SB 8.16.39]]

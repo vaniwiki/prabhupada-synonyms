@@ -1,5 +1,11 @@
-~~Title:akṛṣṭam~~
-{{description>grains that have grown without tilling of the field.}}
+---json
+{
+    "name":"akṛṣṭam",
+    "h1":"akṛṣṭam",
+    "title":"akṛṣṭam -- synonyms, prabhupada.io",
+    "description":"grains that have grown without tilling of the field."
+}
+---
 
 ==== akṛṣṭam  ====
   * grains that have grown without tilling of the field --- [[books:sb:7:12:18|SB 7.12.18]]

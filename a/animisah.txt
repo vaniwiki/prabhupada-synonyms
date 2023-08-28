@@ -1,5 +1,11 @@
-~~Title:animisah~~
-{{description>eternal time; the eternal time; time; unblinking.}}
+---json
+{
+    "name":"animisah",
+    "h1":"animisah",
+    "title":"animisah -- synonyms, prabhupada.io",
+    "description":"eternal time; the eternal time; time; unblinking."
+}
+---
 
 ==== animiṣaḥ  ====
   * eternal time --- [[books:sb:3:5:14|SB 3.5.14]]

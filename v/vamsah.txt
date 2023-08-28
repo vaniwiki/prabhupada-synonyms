@@ -1,5 +1,11 @@
-~~Title:vamsah~~
-{{description>descendant; descendants; dynasty; family; family line; the dynasty.}}
+---json
+{
+    "name":"vamsah",
+    "h1":"vamsah",
+    "title":"vamsah -- synonyms, prabhupada.io",
+    "description":"descendant; descendants; dynasty; family; family line; the dynasty."
+}
+---
 
 ==== vaṁśaḥ  ====
   * descendant --- [[books:sb:3:3:17|SB 3.3.17]]

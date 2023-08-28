@@ -1,5 +1,11 @@
-~~Title:vāsuki~~
-{{description>by Vāsuki.}}
+---json
+{
+    "name":"vāsuki",
+    "h1":"vāsuki",
+    "title":"vāsuki -- synonyms, prabhupada.io",
+    "description":"by Vāsuki."
+}
+---
 
 ==== vāsuki  ====
   * by Vāsuki --- [[books:sb:5:24:31|SB 5.24.31]]

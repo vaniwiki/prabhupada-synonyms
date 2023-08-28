@@ -1,5 +1,11 @@
-~~Title:upacārān~~
-{{description>presentations.}}
+---json
+{
+    "name":"upacārān",
+    "h1":"upacārān",
+    "title":"upacārān -- synonyms, prabhupada.io",
+    "description":"presentations."
+}
+---
 
 ==== upacārān  ====
   * presentations --- [[books:sb:6:19:7|SB 6.19.7]]

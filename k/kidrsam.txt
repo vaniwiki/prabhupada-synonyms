@@ -1,5 +1,11 @@
-~~Title:kīdṛśam~~
-{{description>of what kind.}}
+---json
+{
+    "name":"kīdṛśam",
+    "h1":"kīdṛśam",
+    "title":"kīdṛśam -- synonyms, prabhupada.io",
+    "description":"of what kind."
+}
+---
 
 ==== kīdṛśam  ====
   * of what kind --- [[books:cc:adi:1:6|Ādi 1.6]], [[books:cc:adi:4:230|Ādi 4.230]]

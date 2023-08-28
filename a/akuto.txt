@@ -1,5 +1,11 @@
-~~Title:akuto~~
-{{description>without fear from any direction.}}
+---json
+{
+    "name":"akuto",
+    "h1":"akuto",
+    "title":"akuto -- synonyms, prabhupada.io",
+    "description":"without fear from any direction."
+}
+---
 
 ==== akuto-bhayā  ====
   * without fear from any direction --- [[books:sb:7:7:13|SB 7.7.13]]

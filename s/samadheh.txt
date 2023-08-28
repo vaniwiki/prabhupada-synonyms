@@ -1,5 +1,11 @@
-~~Title:samādheḥ~~
-{{description>by meditation; his trance.}}
+---json
+{
+    "name":"samādheḥ",
+    "h1":"samādheḥ",
+    "title":"samādheḥ -- synonyms, prabhupada.io",
+    "description":"by meditation; his trance."
+}
+---
 
 ==== samādheḥ  ====
   * by meditation --- [[books:sb:9:16:6|SB 9.16.6]]

@@ -1,5 +1,11 @@
-~~Title:svasanti~~
-{{description>also endeavor; breathe; live.}}
+---json
+{
+    "name":"svasanti",
+    "h1":"svasanti",
+    "title":"svasanti -- synonyms, prabhupada.io",
+    "description":"also endeavor; breathe; live."
+}
+---
 
 ==== śvasanti  ====
   * also endeavor --- [[books:sb:6:16:48|SB 6.16.48]]

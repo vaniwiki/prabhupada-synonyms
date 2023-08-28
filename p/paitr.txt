@@ -1,5 +1,11 @@
-~~Title:paitṛ~~
-{{description>in relation with the father.}}
+---json
+{
+    "name":"paitṛ",
+    "h1":"paitṛ",
+    "title":"paitṛ -- synonyms, prabhupada.io",
+    "description":"in relation with the father."
+}
+---
 
 ==== paitṛ  ====
   * in relation with the father --- [[books:sb:1:19:35|SB 1.19.35]]

@@ -1,5 +1,11 @@
-~~Title:siktāyām~~
-{{description>when sprinkled.}}
+---json
+{
+    "name":"siktāyām",
+    "h1":"siktāyām",
+    "title":"siktāyām -- synonyms, prabhupada.io",
+    "description":"when sprinkled."
+}
+---
 
 ==== siktāyām  ====
   * when sprinkled --- [[books:cc:madhya:8:211|Madhya 8.211]]

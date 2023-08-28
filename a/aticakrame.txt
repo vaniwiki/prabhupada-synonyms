@@ -1,5 +1,11 @@
-~~Title:aticakrame~~
-{{description>passed.}}
+---json
+{
+    "name":"aticakrame",
+    "h1":"aticakrame",
+    "title":"aticakrame -- synonyms, prabhupada.io",
+    "description":"passed."
+}
+---
 
 ==== aticakrame  ====
   * passed --- [[books:sb:4:3:1|SB 4.3.1]]

@@ -1,5 +1,11 @@
-~~Title:santariṣyasi~~
-{{description>you will cross completely.}}
+---json
+{
+    "name":"santariṣyasi",
+    "h1":"santariṣyasi",
+    "title":"santariṣyasi -- synonyms, prabhupada.io",
+    "description":"you will cross completely."
+}
+---
 
 ==== santariṣyasi  ====
   * you will cross completely --- [[books:bg:4:36|Bg. 4.36]]

@@ -1,5 +1,11 @@
-~~Title:uditah~~
-{{description>commanded; declared; explained; has arisen; risen.}}
+---json
+{
+    "name":"uditah",
+    "h1":"uditah",
+    "title":"uditah -- synonyms, prabhupada.io",
+    "description":"commanded; declared; explained; has arisen; risen."
+}
+---
 
 ==== uditaḥ  ====
   * commanded --- [[books:sb:3:21:6|SB 3.21.6]]

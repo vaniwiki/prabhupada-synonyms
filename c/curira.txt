@@ -1,5 +1,11 @@
-~~Title:curira~~
-{{description>a description of Gopīnātha's stealing condensed milk at Remuṇā.}}
+---json
+{
+    "name":"curira",
+    "h1":"curira",
+    "title":"curira -- synonyms, prabhupada.io",
+    "description":"a description of Gopīnātha's stealing condensed milk at Remuṇā."
+}
+---
 
 ==== kṣīra-curira varṇana  ====
   * a description of Gopīnātha's stealing condensed milk at Remuṇā --- [[books:cc:madhya:25:246|Madhya 25.246]]

@@ -1,5 +1,11 @@
-~~Title:pārthivaiḥ~~
-{{description>of the earth.}}
+---json
+{
+    "name":"pārthivaiḥ",
+    "h1":"pārthivaiḥ",
+    "title":"pārthivaiḥ -- synonyms, prabhupada.io",
+    "description":"of the earth."
+}
+---
 
 ==== pārthivaiḥ  ====
   * of the earth --- [[books:sb:6:14:3|SB 6.14.3]]

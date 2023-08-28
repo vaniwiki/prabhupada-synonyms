@@ -1,5 +1,11 @@
-~~Title:medinī~~
-{{description>this world.}}
+---json
+{
+    "name":"medinī",
+    "h1":"medinī",
+    "title":"medinī -- synonyms, prabhupada.io",
+    "description":"this world."
+}
+---
 
 ==== medinī  ====
   * this world --- [[books:cc:antya:11:97|Antya 11.97]]

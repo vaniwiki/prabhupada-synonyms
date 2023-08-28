@@ -1,5 +1,11 @@
-~~Title:śmaśrum~~
-{{description>moustache and beard.}}
+---json
+{
+    "name":"śmaśrum",
+    "h1":"śmaśrum",
+    "title":"śmaśrum -- synonyms, prabhupada.io",
+    "description":"moustache and beard."
+}
+---
 
 ==== śmaśrum  ====
   * moustache and beard --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

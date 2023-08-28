@@ -1,5 +1,11 @@
-~~Title:raukmāḥ~~
-{{description>golden.}}
+---json
+{
+    "name":"raukmāḥ",
+    "h1":"raukmāḥ",
+    "title":"raukmāḥ -- synonyms, prabhupada.io",
+    "description":"golden."
+}
+---
 
 ==== raukmāḥ  ====
   * golden --- [[books:sb:4:9:61|SB 4.9.61]]

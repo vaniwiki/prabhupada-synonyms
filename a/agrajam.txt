@@ -1,5 +1,11 @@
-~~Title:agrajam~~
-{{description>His eldest brother; the eldest brother.}}
+---json
+{
+    "name":"agrajam",
+    "h1":"agrajam",
+    "title":"agrajam -- synonyms, prabhupada.io",
+    "description":"His eldest brother; the eldest brother."
+}
+---
 
 ==== agrajam  ====
   * His eldest brother --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

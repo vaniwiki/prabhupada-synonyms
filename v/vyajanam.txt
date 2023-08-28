@@ -1,5 +1,11 @@
-~~Title:vyajanam~~
-{{description>the fan.}}
+---json
+{
+    "name":"vyajanam",
+    "h1":"vyajanam",
+    "title":"vyajanam -- synonyms, prabhupada.io",
+    "description":"the fan."
+}
+---
 
 ==== vyajanam  ====
   * the fan --- [[books:cc:madhya:19:202|Madhya 19.202]]

@@ -1,5 +1,11 @@
-~~Title:atandritā~~
-{{description>without any laziness.}}
+---json
+{
+    "name":"atandritā",
+    "h1":"atandritā",
+    "title":"atandritā -- synonyms, prabhupada.io",
+    "description":"without any laziness."
+}
+---
 
 ==== atandritā  ====
   * without any laziness --- [[books:sb:8:17:1|SB 8.17.1]]

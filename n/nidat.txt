@@ -1,5 +1,11 @@
-~~Title:nīḍāt~~
-{{description>from the nest.}}
+---json
+{
+    "name":"nīḍāt",
+    "h1":"nīḍāt",
+    "title":"nīḍāt -- synonyms, prabhupada.io",
+    "description":"from the nest."
+}
+---
 
 ==== nīḍāt  ====
   * from the nest --- [[books:sb:3:17:12|SB 3.17.12]]

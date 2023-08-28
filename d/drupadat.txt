@@ -1,5 +1,11 @@
-~~Title:drupadāt~~
-{{description>from Drupada.}}
+---json
+{
+    "name":"drupadāt",
+    "h1":"drupadāt",
+    "title":"drupadāt -- synonyms, prabhupada.io",
+    "description":"from Drupada."
+}
+---
 
 ==== drupadāt  ====
   * from Drupada --- [[books:sb:9:22:3|SB 9.22.3]]

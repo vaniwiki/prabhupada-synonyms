@@ -1,5 +1,11 @@
-~~Title:dravat~~
-{{description>melting.}}
+---json
+{
+    "name":"dravat",
+    "h1":"dravat",
+    "title":"dravat -- synonyms, prabhupada.io",
+    "description":"melting."
+}
+---
 
 ==== dravat  ====
   * melting --- [[books:sb:3:28:34|SB 3.28.34]], [[books:cc:madhya:24:157|Madhya 24.157]]

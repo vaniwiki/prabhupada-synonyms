@@ -1,5 +1,11 @@
-~~Title:prādhānyena~~
-{{description>by a general description of the chief places.}}
+---json
+{
+    "name":"prādhānyena",
+    "h1":"prādhānyena",
+    "title":"prādhānyena -- synonyms, prabhupada.io",
+    "description":"by a general description of the chief places."
+}
+---
 
 ==== prādhānyena  ====
   * by a general description of the chief places --- [[books:sb:5:16:4|SB 5.16.4]]

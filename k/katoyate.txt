@@ -1,5 +1,11 @@
-~~Title:kāṭoyāte~~
-{{description>to Katwa.}}
+---json
+{
+    "name":"kāṭoyāte",
+    "h1":"kāṭoyāte",
+    "title":"kāṭoyāte -- synonyms, prabhupada.io",
+    "description":"to Katwa."
+}
+---
 
 ==== kāṭoyāte  ====
   * to Katwa --- [[books:cc:adi:17:272|Ādi 17.272]]

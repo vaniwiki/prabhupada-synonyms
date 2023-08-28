@@ -1,5 +1,11 @@
-~~Title:samāyattā~~
-{{description>resting on.}}
+---json
+{
+    "name":"samāyattā",
+    "h1":"samāyattā",
+    "title":"samāyattā -- synonyms, prabhupada.io",
+    "description":"resting on."
+}
+---
 
 ==== samāyattā  ====
   * resting on --- [[books:sb:4:29:1a-2a|SB 4.29.1a-2a]]

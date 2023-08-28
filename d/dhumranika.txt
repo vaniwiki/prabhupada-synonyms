@@ -1,5 +1,11 @@
-~~Title:dhūmrānīka~~
-{{description>Dhūmrānīka.}}
+---json
+{
+    "name":"dhūmrānīka",
+    "h1":"dhūmrānīka",
+    "title":"dhūmrānīka -- synonyms, prabhupada.io",
+    "description":"Dhūmrānīka."
+}
+---
 
 ==== dhūmrānīka  ====
   * Dhūmrānīka --- [[books:sb:5:20:25|SB 5.20.25]]

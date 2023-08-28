@@ -1,5 +1,11 @@
-~~Title:dṛḍhaiḥ~~
-{{description>very strong.}}
+---json
+{
+    "name":"dṛḍhaiḥ",
+    "h1":"dṛḍhaiḥ",
+    "title":"dṛḍhaiḥ -- synonyms, prabhupada.io",
+    "description":"very strong."
+}
+---
 
 ==== dṛḍhaiḥ  ====
   * very strong --- [[books:sb:7:6:9|SB 7.6.9]]

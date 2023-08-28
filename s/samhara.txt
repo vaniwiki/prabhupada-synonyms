@@ -1,5 +1,11 @@
-~~Title:saṁhāra~~
-{{description>for the purpose of dissolution.}}
+---json
+{
+    "name":"saṁhāra",
+    "h1":"saṁhāra",
+    "title":"saṁhāra -- synonyms, prabhupada.io",
+    "description":"for the purpose of dissolution."
+}
+---
 
 ==== saṁhāra-arthe  ====
   * for the purpose of dissolution --- [[books:cc:madhya:20:307|Madhya 20.307]]

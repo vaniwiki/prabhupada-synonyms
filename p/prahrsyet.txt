@@ -1,5 +1,11 @@
-~~Title:prahṛṣyet~~
-{{description>rejoice.}}
+---json
+{
+    "name":"prahṛṣyet",
+    "h1":"prahṛṣyet",
+    "title":"prahṛṣyet -- synonyms, prabhupada.io",
+    "description":"rejoice."
+}
+---
 
 ==== prahṛṣyet  ====
   * rejoice --- [[books:bg:5:20|Bg. 5.20]]

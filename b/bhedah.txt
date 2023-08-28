@@ -1,5 +1,11 @@
-~~Title:bhedah~~
-{{description>difference; partiality; the distinction; the idea of difference between body and self.}}
+---json
+{
+    "name":"bhedah",
+    "h1":"bhedah",
+    "title":"bhedah -- synonyms, prabhupada.io",
+    "description":"difference; partiality; the distinction; the idea of difference between body and self."
+}
+---
 
 ==== bhedaḥ  ====
   * difference --- [[books:sb:3:5:8|SB 3.5.8]]

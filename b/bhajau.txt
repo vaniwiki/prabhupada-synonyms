@@ -1,5 +1,11 @@
-~~Title:bhājau~~
-{{description>like that.}}
+---json
+{
+    "name":"bhājau",
+    "h1":"bhājau",
+    "title":"bhājau -- synonyms, prabhupada.io",
+    "description":"like that."
+}
+---
 
 ==== bhājau  ====
   * like that --- [[books:sb:2:3:22|SB 2.3.22]]

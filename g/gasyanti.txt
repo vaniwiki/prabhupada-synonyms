@@ -1,5 +1,11 @@
-~~Title:gāsyanti~~
-{{description>will broadcast.}}
+---json
+{
+    "name":"gāsyanti",
+    "h1":"gāsyanti",
+    "title":"gāsyanti -- synonyms, prabhupada.io",
+    "description":"will broadcast."
+}
+---
 
 ==== gāsyanti  ====
   * will broadcast --- [[books:sb:3:14:44-45|SB 3.14.44-45]]

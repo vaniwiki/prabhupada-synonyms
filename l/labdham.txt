@@ -1,5 +1,11 @@
-~~Title:labdham~~
-{{description>attained; gained; has been gained; obtained; such gains; whatever he got.}}
+---json
+{
+    "name":"labdham",
+    "h1":"labdham",
+    "title":"labdham -- synonyms, prabhupada.io",
+    "description":"attained; gained; has been gained; obtained; such gains; whatever he got."
+}
+---
 
 ==== labdham  ====
   * attained --- [[books:sb:3:25:8|SB 3.25.8]]

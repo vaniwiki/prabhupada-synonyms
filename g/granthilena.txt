@@ -1,5 +1,11 @@
-~~Title:granthilena~~
-{{description>recorded.}}
+---json
+{
+    "name":"granthilena",
+    "h1":"granthilena",
+    "title":"granthilena -- synonyms, prabhupada.io",
+    "description":"recorded."
+}
+---
 
 ==== granthilena  ====
   * recorded --- [[books:cc:adi:13:16|Ādi 13.16]]

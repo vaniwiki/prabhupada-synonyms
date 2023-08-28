@@ -1,5 +1,11 @@
-~~Title:golam~~
-{{description>the globe.}}
+---json
+{
+    "name":"golam",
+    "h1":"golam",
+    "title":"golam -- synonyms, prabhupada.io",
+    "description":"the globe."
+}
+---
 
 ==== golam  ====
   * the globe --- [[books:sb:3:23:43|SB 3.23.43]]

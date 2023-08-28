@@ -1,5 +1,11 @@
-~~Title:parāita~~
-{{description>could put on.}}
+---json
+{
+    "name":"parāita",
+    "h1":"parāita",
+    "title":"parāita -- synonyms, prabhupada.io",
+    "description":"could put on."
+}
+---
 
 ==== parāita  ====
   * could put on --- [[books:cc:madhya:5:127|Madhya 5.127]]

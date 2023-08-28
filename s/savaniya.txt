@@ -1,5 +1,11 @@
-~~Title:savanīya~~
-{{description>meant for sacrifice.}}
+---json
+{
+    "name":"savanīya",
+    "h1":"savanīya",
+    "title":"savanīya -- synonyms, prabhupada.io",
+    "description":"meant for sacrifice."
+}
+---
 
 ==== savanīya  ====
   * meant for sacrifice --- [[books:sb:4:7:8|SB 4.7.8]]

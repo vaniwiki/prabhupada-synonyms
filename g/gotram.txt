@@ -1,5 +1,11 @@
-~~Title:gotram~~
-{{description>a dynasty; family history; family relationship; the Mandara Hill.}}
+---json
+{
+    "name":"gotram",
+    "h1":"gotram",
+    "title":"gotram -- synonyms, prabhupada.io",
+    "description":"a dynasty; family history; family relationship; the Mandara Hill."
+}
+---
 
 ==== gotram  ====
   * a dynasty --- [[books:sb:9:21:31-33|SB 9.21.31-33]]

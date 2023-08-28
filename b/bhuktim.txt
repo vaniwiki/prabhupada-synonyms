@@ -1,5 +1,11 @@
-~~Title:bhuktim~~
-{{description>the passage of one month.}}
+---json
+{
+    "name":"bhuktim",
+    "h1":"bhuktim",
+    "title":"bhuktim -- synonyms, prabhupada.io",
+    "description":"the passage of one month."
+}
+---
 
 ==== māsa-bhuktim  ====
   * the passage of one month --- [[books:sb:5:22:8|SB 5.22.8]]

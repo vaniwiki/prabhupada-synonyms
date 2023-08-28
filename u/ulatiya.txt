@@ -1,5 +1,11 @@
-~~Title:ulaṭiyā~~
-{{description>turning around; turning your face.}}
+---json
+{
+    "name":"ulaṭiyā",
+    "h1":"ulaṭiyā",
+    "title":"ulaṭiyā -- synonyms, prabhupada.io",
+    "description":"turning around; turning your face."
+}
+---
 
 ==== ulaṭiyā  ====
   * turning around --- [[books:cc:antya:6:171|Antya 6.171]]

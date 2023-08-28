@@ -1,5 +1,11 @@
-~~Title:carcitam~~
-{{description>sprinkled.}}
+---json
+{
+    "name":"carcitam",
+    "h1":"carcitam",
+    "title":"carcitam -- synonyms, prabhupada.io",
+    "description":"sprinkled."
+}
+---
 
 ==== carcitam  ====
   * sprinkled --- [[books:sb:4:9:57|SB 4.9.57]]

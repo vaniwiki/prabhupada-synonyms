@@ -1,5 +1,11 @@
-~~Title:pariveśana~~
-{{description>distribution; distribution of prasāda.}}
+---json
+{
+    "name":"pariveśana",
+    "h1":"pariveśana",
+    "title":"pariveśana -- synonyms, prabhupada.io",
+    "description":"distribution; distribution of prasāda."
+}
+---
 
 ==== pariveśana  ====
   * distribution --- [[books:cc:madhya:6:43|Madhya 6.43]], [[books:cc:madhya:11:115|Madhya 11.115]], [[books:cc:madhya:11:199|Madhya 11.199]], [[books:cc:madhya:14:39|Madhya 14.39]]

@@ -1,5 +1,11 @@
-~~Title:arciteṣu~~
-{{description>being worshiped according to their respective positions.}}
+---json
+{
+    "name":"arciteṣu",
+    "h1":"arciteṣu",
+    "title":"arciteṣu -- synonyms, prabhupada.io",
+    "description":"being worshiped according to their respective positions."
+}
+---
 
 ==== su-arciteṣu  ====
   * being worshiped according to their respective positions --- [[books:sb:4:21:14|SB 4.21.14]]

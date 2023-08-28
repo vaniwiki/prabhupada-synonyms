@@ -1,5 +1,11 @@
-~~Title:ravaiḥ~~
-{{description>by the sounds.}}
+---json
+{
+    "name":"ravaiḥ",
+    "h1":"ravaiḥ",
+    "title":"ravaiḥ -- synonyms, prabhupada.io",
+    "description":"by the sounds."
+}
+---
 
 ==== ravaiḥ  ====
   * by the sounds --- [[books:sb:6:9:24|SB 6.9.24]]

@@ -1,5 +1,11 @@
-~~Title:ākhyāpayantam~~
-{{description>declaring.}}
+---json
+{
+    "name":"ākhyāpayantam",
+    "h1":"ākhyāpayantam",
+    "title":"ākhyāpayantam -- synonyms, prabhupada.io",
+    "description":"declaring."
+}
+---
 
 ==== ākhyāpayantam  ====
   * declaring --- [[books:cc:madhya:19:230|Madhya 19.230]]

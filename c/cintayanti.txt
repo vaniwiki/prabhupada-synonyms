@@ -1,5 +1,11 @@
-~~Title:cintayanti~~
-{{description>constantly thinking.}}
+---json
+{
+    "name":"cintayanti",
+    "h1":"cintayanti",
+    "title":"cintayanti -- synonyms, prabhupada.io",
+    "description":"constantly thinking."
+}
+---
 
 ==== cintayanti  ====
   * constantly thinking --- [[books:sb:8:17:2-3|SB 8.17.2-3]]

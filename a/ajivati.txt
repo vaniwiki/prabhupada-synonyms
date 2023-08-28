@@ -1,5 +1,11 @@
-~~Title:ajīvati~~
-{{description>if the tree is not living.}}
+---json
+{
+    "name":"ajīvati",
+    "h1":"ajīvati",
+    "title":"ajīvati -- synonyms, prabhupada.io",
+    "description":"if the tree is not living."
+}
+---
 
 ==== vṛkṣe ajīvati  ====
   * if the tree is not living --- [[books:sb:8:19:39|SB 8.19.39]]

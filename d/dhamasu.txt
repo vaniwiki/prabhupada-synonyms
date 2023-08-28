@@ -1,5 +1,11 @@
-~~Title:dhāmasu~~
-{{description>in the planets.}}
+---json
+{
+    "name":"dhāmasu",
+    "h1":"dhāmasu",
+    "title":"dhāmasu -- synonyms, prabhupada.io",
+    "description":"in the planets."
+}
+---
 
 ==== dhāmasu  ====
   * in the planets --- [[books:cc:madhya:21:49|Madhya 21.49]]

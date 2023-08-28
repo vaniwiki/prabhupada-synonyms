@@ -1,5 +1,11 @@
-~~Title:kalpataru~~
-{{description>having the characteristic of a desire tree.}}
+---json
+{
+    "name":"kalpataru",
+    "h1":"kalpataru",
+    "title":"kalpataru -- synonyms, prabhupada.io",
+    "description":"having the characteristic of a desire tree."
+}
+---
 
 ==== kalpataru-svabhāvaḥ  ====
   * having the characteristic of a desire tree --- [[books:sb:8:23:8|SB 8.23.8]]

@@ -1,5 +1,11 @@
-~~Title:vartini~~
-{{description>being constantly associated.}}
+---json
+{
+    "name":"vartini",
+    "h1":"vartini",
+    "title":"vartini -- synonyms, prabhupada.io",
+    "description":"being constantly associated."
+}
+---
 
 ==== pārśva-vartini  ====
   * being constantly associated --- [[books:sb:4:29:69|SB 4.29.69]]

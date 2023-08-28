@@ -1,5 +1,11 @@
-~~Title:purañjaya~~
-{{description>the conqueror of the kingdoms of others.}}
+---json
+{
+    "name":"purañjaya",
+    "h1":"purañjaya",
+    "title":"purañjaya -- synonyms, prabhupada.io",
+    "description":"the conqueror of the kingdoms of others."
+}
+---
 
 ==== para-purañjaya  ====
   * the conqueror of the kingdoms of others --- [[books:sb:9:18:20-21|SB 9.18.20-21]]

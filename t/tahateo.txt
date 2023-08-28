@@ -1,5 +1,11 @@
-~~Title:tāhāteo~~
-{{description>therefore.}}
+---json
+{
+    "name":"tāhāteo",
+    "h1":"tāhāteo",
+    "title":"tāhāteo -- synonyms, prabhupada.io",
+    "description":"therefore."
+}
+---
 
 ==== tāhāteo  ====
   * therefore --- [[books:cc:adi:2:46|Ādi 2.46]]

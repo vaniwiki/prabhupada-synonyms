@@ -1,5 +1,11 @@
-~~Title:apahate~~
-{{description>futile.}}
+---json
+{
+    "name":"apahate",
+    "h1":"apahate",
+    "title":"apahate -- synonyms, prabhupada.io",
+    "description":"futile."
+}
+---
 
 ==== apahate  ====
   * futile --- [[books:sb:7:5:42|SB 7.5.42]]

@@ -1,5 +1,11 @@
-~~Title:vayasya~~
-{{description>O my friend; unto friends of the same age.}}
+---json
+{
+    "name":"vayasya",
+    "h1":"vayasya",
+    "title":"vayasya -- synonyms, prabhupada.io",
+    "description":"O my friend; unto friends of the same age."
+}
+---
 
 ==== vayasya  ====
   * O my friend --- [[books:sb:1:15:19|SB 1.15.19]]

@@ -1,5 +1,11 @@
-~~Title:hañāchi~~
-{{description>have become.}}
+---json
+{
+    "name":"hañāchi",
+    "h1":"hañāchi",
+    "title":"hañāchi -- synonyms, prabhupada.io",
+    "description":"have become."
+}
+---
 
 ==== hañāchi  ====
   * have become --- [[books:cc:adi:17:48|Ādi 17.48]]

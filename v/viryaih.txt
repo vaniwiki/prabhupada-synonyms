@@ -1,5 +1,11 @@
-~~Title:vīryaiḥ~~
-{{description>by prowess; by strength and power.}}
+---json
+{
+    "name":"vīryaiḥ",
+    "h1":"vīryaiḥ",
+    "title":"vīryaiḥ -- synonyms, prabhupada.io",
+    "description":"by prowess; by strength and power."
+}
+---
 
 ==== vīryaiḥ  ====
   * by prowess --- [[books:cc:madhya:20:355|Madhya 20.355]]

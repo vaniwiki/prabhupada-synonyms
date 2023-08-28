@@ -1,5 +1,11 @@
-~~Title:smartuḥ~~
-{{description>by remembering them.}}
+---json
+{
+    "name":"smartuḥ",
+    "h1":"smartuḥ",
+    "title":"smartuḥ -- synonyms, prabhupada.io",
+    "description":"by remembering them."
+}
+---
 
 ==== smartuḥ  ====
   * by remembering them --- [[books:sb:1:15:18|SB 1.15.18]]

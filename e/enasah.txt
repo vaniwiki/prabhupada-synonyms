@@ -1,5 +1,11 @@
-~~Title:enasaḥ~~
-{{description>sins.}}
+---json
+{
+    "name":"enasaḥ",
+    "h1":"enasaḥ",
+    "title":"enasaḥ -- synonyms, prabhupada.io",
+    "description":"sins."
+}
+---
 
 ==== enasaḥ  ====
   * sins --- [[books:sb:1:5:29|SB 1.5.29]]

@@ -1,5 +1,11 @@
-~~Title:samāviśan~~
-{{description>contacting.}}
+---json
+{
+    "name":"samāviśan",
+    "h1":"samāviśan",
+    "title":"samāviśan -- synonyms, prabhupada.io",
+    "description":"contacting."
+}
+---
 
 ==== samāviśan  ====
   * contacting --- [[books:sb:5:13:17|SB 5.13.17]]

@@ -1,5 +1,11 @@
-~~Title:atulam~~
-{{description>unlimited; very much.}}
+---json
+{
+    "name":"atulam",
+    "h1":"atulam",
+    "title":"atulam -- synonyms, prabhupada.io",
+    "description":"unlimited; very much."
+}
+---
 
 ==== atulam  ====
   * unlimited --- [[books:sb:9:4:15-16|SB 9.4.15-16]]

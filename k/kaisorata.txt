@@ -1,5 +1,11 @@
-~~Title:kaiśoratā~~
-{{description>youth.}}
+---json
+{
+    "name":"kaiśoratā",
+    "h1":"kaiśoratā",
+    "title":"kaiśoratā -- synonyms, prabhupada.io",
+    "description":"youth."
+}
+---
 
 ==== kaiśoratā  ====
   * youth --- [[books:cc:madhya:20:384|Madhya 20.384]]

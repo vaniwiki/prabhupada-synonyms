@@ -1,5 +1,11 @@
-~~Title:virudham~~
-{{description>situated on them.}}
+---json
+{
+    "name":"virudham",
+    "h1":"virudham",
+    "title":"virudham -- synonyms, prabhupada.io",
+    "description":"situated on them."
+}
+---
 
 ==== virūḍham  ====
   * situated on them --- [[books:sb:3:8:17|SB 3.8.17]]

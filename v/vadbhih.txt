@@ -1,5 +1,11 @@
-~~Title:vadbhiḥ~~
-{{description>by those who have perfectly realized the self.}}
+---json
+{
+    "name":"vadbhiḥ",
+    "h1":"vadbhiḥ",
+    "title":"vadbhiḥ -- synonyms, prabhupada.io",
+    "description":"by those who have perfectly realized the self."
+}
+---
 
 ==== sva-dṛṣṭa-vadbhiḥ  ====
   * by those who have perfectly realized the self --- [[books:sb:2:9:9|SB 2.9.9]]

@@ -1,5 +1,11 @@
-~~Title:māhiṣmatyām~~
-{{description>in the city known as Māhiṣmatī.}}
+---json
+{
+    "name":"māhiṣmatyām",
+    "h1":"māhiṣmatyām",
+    "title":"māhiṣmatyām -- synonyms, prabhupada.io",
+    "description":"in the city known as Māhiṣmatī."
+}
+---
 
 ==== māhiṣmatyām  ====
   * in the city known as Māhiṣmatī --- [[books:sb:9:15:22|SB 9.15.22]]

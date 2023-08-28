@@ -1,5 +1,11 @@
-~~Title:kaya~~
-{{description>are described; are explained; describe; describes; discussed; has said; is called; is meant; is said; is spoken; it is said; mother Sarasvatī says; said; say; says; speaks; utters.}}
+---json
+{
+    "name":"kaya",
+    "h1":"kaya",
+    "title":"kaya -- synonyms, prabhupada.io",
+    "description":"are described; are explained; describe; describes; discussed; has said; is called; is meant; is said; is spoken; it is said; mother Sarasvatī says; said; say; says; speaks; utters."
+}
+---
 
 ==== kaya  ====
   * are described --- [[books:cc:madhya:19:169|Madhya 19.169]]

@@ -1,5 +1,11 @@
-~~Title:sudurbhidām~~
-{{description>which is very difficult to give up.}}
+---json
+{
+    "name":"sudurbhidām",
+    "h1":"sudurbhidām",
+    "title":"sudurbhidām -- synonyms, prabhupada.io",
+    "description":"which is very difficult to give up."
+}
+---
 
 ==== sudurbhidām  ====
   * which is very difficult to give up --- [[books:sb:5:19:15|SB 5.19.15]]

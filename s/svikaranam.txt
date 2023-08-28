@@ -1,5 +1,11 @@
-~~Title:svīkaraṇam~~
-{{description>accepting as.}}
+---json
+{
+    "name":"svīkaraṇam",
+    "h1":"svīkaraṇam",
+    "title":"svīkaraṇam -- synonyms, prabhupada.io",
+    "description":"accepting as."
+}
+---
 
 ==== svīkaraṇam  ====
   * accepting as --- [[books:sb:5:11:10|SB 5.11.10]]

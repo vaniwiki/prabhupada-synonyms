@@ -1,5 +1,11 @@
-~~Title:phaṇāra~~
-{{description>of the hoods.}}
+---json
+{
+    "name":"phaṇāra",
+    "h1":"phaṇāra",
+    "title":"phaṇāra -- synonyms, prabhupada.io",
+    "description":"of the hoods."
+}
+---
 
 ==== phaṇāra  ====
   * of the hoods --- [[books:cc:adi:5:118|Ādi 5.118]]

@@ -1,5 +1,11 @@
-~~Title:avyaktasya~~
-{{description>of the unmanifested.}}
+---json
+{
+    "name":"avyaktasya",
+    "h1":"avyaktasya",
+    "title":"avyaktasya -- synonyms, prabhupada.io",
+    "description":"of the unmanifested."
+}
+---
 
 ==== avyaktasya  ====
   * of the unmanifested --- [[books:sb:4:11:23|SB 4.11.23]]

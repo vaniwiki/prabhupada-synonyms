@@ -1,5 +1,11 @@
-~~Title:apatrapā~~
-{{description>without shame.}}
+---json
+{
+    "name":"apatrapā",
+    "h1":"apatrapā",
+    "title":"apatrapā -- synonyms, prabhupada.io",
+    "description":"without shame."
+}
+---
 
 ==== apatrapā  ====
   * without shame --- [[books:sb:9:3:21|SB 9.3.21]]

@@ -1,5 +1,11 @@
-~~Title:vacana~~
-{{description>a slogan; complimentary words; His words; speech; speeches; statement; statements; the request; the statement; the word; the words; these words; those words; word; word of honor; words.}}
+---json
+{
+    "name":"vacana",
+    "h1":"vacana",
+    "title":"vacana -- synonyms, prabhupada.io",
+    "description":"a slogan; complimentary words; His words; speech; speeches; statement; statements; the request; the statement; the word; the words; these words; those words; word; word of honor; words."
+}
+---
 
 ==== vacana  ====
   * a slogan --- [[books:cc:madhya:5:61|Madhya 5.61]]

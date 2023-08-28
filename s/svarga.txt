@@ -1,5 +1,11 @@
-~~Title:svarga~~
-{{description>creation; elevation to the heavenly planets; heaven; heavenly; heavenly planet; in heavenly planets; in the heavenly planetary system; in the higher planetary systems; the heavenly kingdom; the heavenly planets; to the heavenly planets.}}
+---json
+{
+    "name":"svarga",
+    "h1":"svarga",
+    "title":"svarga -- synonyms, prabhupada.io",
+    "description":"creation; elevation to the heavenly planets; heaven; heavenly; heavenly planet; in heavenly planets; in the heavenly planetary system; in the higher planetary systems; the heavenly kingdom; the heavenly planets; to the heavenly planets."
+}
+---
 
 ==== svarga  ====
   * creation --- [[books:sb:7:7:24|SB 7.7.24]]

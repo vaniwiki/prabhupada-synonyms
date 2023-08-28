@@ -1,5 +1,11 @@
-~~Title:mohiteṣu~~
-{{description>bewildered.}}
+---json
+{
+    "name":"mohiteṣu",
+    "h1":"mohiteṣu",
+    "title":"mohiteṣu -- synonyms, prabhupada.io",
+    "description":"bewildered."
+}
+---
 
 ==== mohiteṣu  ====
   * bewildered --- [[books:sb:8:7:39|SB 8.7.39]]

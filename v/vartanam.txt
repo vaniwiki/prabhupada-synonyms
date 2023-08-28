@@ -1,5 +1,11 @@
-~~Title:vartanam~~
-{{description>the wandering.}}
+---json
+{
+    "name":"vartanam",
+    "h1":"vartanam",
+    "title":"vartanam -- synonyms, prabhupada.io",
+    "description":"the wandering."
+}
+---
 
 ==== vartanam  ====
   * the wandering --- [[books:sb:6:16:33|SB 6.16.33]]

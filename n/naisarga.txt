@@ -1,5 +1,11 @@
-~~Title:naisarga~~
-{{description>by nature.}}
+---json
+{
+    "name":"naisarga",
+    "h1":"naisarga",
+    "title":"naisarga -- synonyms, prabhupada.io",
+    "description":"by nature."
+}
+---
 
 ==== naisarga  ====
   * by nature --- [[books:sb:10:13:60|SB 10.13.60]], [[books:cc:madhya:17:39|Madhya 17.39]]

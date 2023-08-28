@@ -1,5 +1,11 @@
-~~Title:saubalānām~~
-{{description>Saubala.}}
+---json
+{
+    "name":"saubalānām",
+    "h1":"saubalānām",
+    "title":"saubalānām -- synonyms, prabhupada.io",
+    "description":"Saubala."
+}
+---
 
 ==== saubalānām  ====
   * Saubala --- [[books:sb:3:3:13|SB 3.3.13]]

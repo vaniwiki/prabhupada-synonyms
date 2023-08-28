@@ -1,5 +1,11 @@
-~~Title:svapana~~
-{{description>a dream.}}
+---json
+{
+    "name":"svapana",
+    "h1":"svapana",
+    "title":"svapana -- synonyms, prabhupada.io",
+    "description":"a dream."
+}
+---
 
 ==== svapana  ====
   * a dream --- [[books:cc:madhya:4:105|Madhya 4.105]], [[books:cc:madhya:4:157|Madhya 4.157]], [[books:cc:antya:14:17|Antya 14.17]]

@@ -1,5 +1,11 @@
-~~Title:padana~~
-{{description>instructs; teaches.}}
+---json
+{
+    "name":"padana",
+    "h1":"padana",
+    "title":"padana -- synonyms, prabhupada.io",
+    "description":"instructs; teaches."
+}
+---
 
 ==== paḍāna  ====
   * instructs --- [[books:cc:madhya:17:104|Madhya 17.104]]

@@ -1,5 +1,11 @@
-~~Title:prāduścakartha~~
-{{description>You have manifested.}}
+---json
+{
+    "name":"prāduścakartha",
+    "h1":"prāduścakartha",
+    "title":"prāduścakartha -- synonyms, prabhupada.io",
+    "description":"You have manifested."
+}
+---
 
 ==== prāduścakartha  ====
   * You have manifested --- [[books:sb:3:15:50|SB 3.15.50]]

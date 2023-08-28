@@ -1,5 +1,11 @@
-~~Title:tatāna~~
-{{description>explained.}}
+---json
+{
+    "name":"tatāna",
+    "h1":"tatāna",
+    "title":"tatāna -- synonyms, prabhupada.io",
+    "description":"explained."
+}
+---
 
 ==== tatāna  ====
   * explained --- [[books:cc:madhya:19:121|Madhya 19.121]]

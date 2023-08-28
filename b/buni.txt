@@ -1,5 +1,11 @@
-~~Title:buni~~
-{{description>woven.}}
+---json
+{
+    "name":"buni",
+    "h1":"buni",
+    "title":"buni -- synonyms, prabhupada.io",
+    "description":"woven."
+}
+---
 
 ==== buni  ====
   * woven --- [[books:cc:adi:13:113|Ādi 13.113]]

@@ -1,5 +1,11 @@
-~~Title:jayi~~
-{{description>the conqueror.}}
+---json
+{
+    "name":"jayi",
+    "h1":"jayi",
+    "title":"jayi -- synonyms, prabhupada.io",
+    "description":"the conqueror."
+}
+---
 
 ==== jayi  ====
   * the conqueror --- [[books:cc:adi:16:3|Ādi 16.3]]

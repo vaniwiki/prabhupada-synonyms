@@ -1,5 +1,11 @@
-~~Title:gulmāni~~
-{{description>clusters.}}
+---json
+{
+    "name":"gulmāni",
+    "h1":"gulmāni",
+    "title":"gulmāni -- synonyms, prabhupada.io",
+    "description":"clusters."
+}
+---
 
 ==== gulmāni  ====
   * clusters --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

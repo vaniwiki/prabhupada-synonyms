@@ -1,5 +1,11 @@
-~~Title:avamṛjya~~
-{{description>wiping.}}
+---json
+{
+    "name":"avamṛjya",
+    "h1":"avamṛjya",
+    "title":"avamṛjya -- synonyms, prabhupada.io",
+    "description":"wiping."
+}
+---
 
 ==== avamṛjya  ====
   * wiping --- [[books:sb:4:20:22|SB 4.20.22]]

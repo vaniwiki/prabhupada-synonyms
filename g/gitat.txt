@@ -1,5 +1,11 @@
-~~Title:gītāt~~
-{{description>by the song.}}
+---json
+{
+    "name":"gītāt",
+    "h1":"gītāt",
+    "title":"gītāt -- synonyms, prabhupada.io",
+    "description":"by the song."
+}
+---
 
 ==== gītāt  ====
   * by the song --- [[books:sb:4:24:77|SB 4.24.77]]

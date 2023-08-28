@@ -1,5 +1,11 @@
-~~Title:vepitaḥ~~
-{{description>tossed.}}
+---json
+{
+    "name":"vepitaḥ",
+    "h1":"vepitaḥ",
+    "title":"vepitaḥ -- synonyms, prabhupada.io",
+    "description":"tossed."
+}
+---
 
 ==== vepitaḥ  ====
   * tossed --- [[books:sb:3:31:10|SB 3.31.10]]

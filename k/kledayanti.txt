@@ -1,5 +1,11 @@
-~~Title:kledayanti~~
-{{description>moistens.}}
+---json
+{
+    "name":"kledayanti",
+    "h1":"kledayanti",
+    "title":"kledayanti -- synonyms, prabhupada.io",
+    "description":"moistens."
+}
+---
 
 ==== kledayanti  ====
   * moistens --- [[books:bg:2:23|Bg. 2.23]]

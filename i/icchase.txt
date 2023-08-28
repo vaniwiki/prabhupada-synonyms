@@ -1,5 +1,11 @@
-~~Title:icchase~~
-{{description>desire.}}
+---json
+{
+    "name":"icchase",
+    "h1":"icchase",
+    "title":"icchase -- synonyms, prabhupada.io",
+    "description":"desire."
+}
+---
 
 ==== icchase  ====
   * desire --- [[books:sb:4:8:19|SB 4.8.19]]

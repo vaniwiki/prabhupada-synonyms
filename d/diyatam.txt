@@ -1,5 +1,11 @@
-~~Title:dīyatām~~
-{{description>deliver; let this be instructed; please deliver.}}
+---json
+{
+    "name":"dīyatām",
+    "h1":"dīyatām",
+    "title":"dīyatām -- synonyms, prabhupada.io",
+    "description":"deliver; let this be instructed; please deliver."
+}
+---
 
 ==== dīyatām  ====
   * deliver --- [[books:sb:9:21:8|SB 9.21.8]]

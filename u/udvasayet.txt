@@ -1,5 +1,11 @@
-~~Title:udvāsayet~~
-{{description>should be thrown into a sacred place.}}
+---json
+{
+    "name":"udvāsayet",
+    "h1":"udvāsayet",
+    "title":"udvāsayet -- synonyms, prabhupada.io",
+    "description":"should be thrown into a sacred place."
+}
+---
 
 ==== udvāsayet  ====
   * should be thrown into a sacred place --- [[books:sb:8:16:43|SB 8.16.43]]

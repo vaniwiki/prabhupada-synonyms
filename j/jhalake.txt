@@ -1,5 +1,11 @@
-~~Title:jhalake~~
-{{description>in gushes.}}
+---json
+{
+    "name":"jhalake",
+    "h1":"jhalake",
+    "title":"jhalake -- synonyms, prabhupada.io",
+    "description":"in gushes."
+}
+---
 
 ==== jhalake  ====
   * in gushes --- [[books:cc:madhya:19:81|Madhya 19.81]]

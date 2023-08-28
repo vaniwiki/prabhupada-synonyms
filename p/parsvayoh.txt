@@ -1,5 +1,11 @@
-~~Title:pārśvayoḥ~~
-{{description>on the sides.}}
+---json
+{
+    "name":"pārśvayoḥ",
+    "h1":"pārśvayoḥ",
+    "title":"pārśvayoḥ -- synonyms, prabhupada.io",
+    "description":"on the sides."
+}
+---
 
 ==== pārśvayoḥ  ====
   * on the sides --- [[books:sb:5:23:5|SB 5.23.5]]

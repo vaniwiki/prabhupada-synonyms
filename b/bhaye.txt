@@ -1,5 +1,11 @@
-~~Title:bhaye~~
-{{description>being afraid; being afraid of; from fear; in fear; out of fear; when fear; with fear.}}
+---json
+{
+    "name":"bhaye",
+    "h1":"bhaye",
+    "title":"bhaye -- synonyms, prabhupada.io",
+    "description":"being afraid; being afraid of; from fear; in fear; out of fear; when fear; with fear."
+}
+---
 
 ==== bhaye  ====
   * being afraid --- [[books:cc:adi:13:49|Ādi 13.49]]

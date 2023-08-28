@@ -1,5 +1,11 @@
-~~Title:aśaivam~~
-{{description>inauspicious.}}
+---json
+{
+    "name":"aśaivam",
+    "h1":"aśaivam",
+    "title":"aśaivam -- synonyms, prabhupada.io",
+    "description":"inauspicious."
+}
+---
 
 ==== aśaivam  ====
   * inauspicious --- [[books:sb:3:1:13|SB 3.1.13]]

@@ -1,5 +1,11 @@
-~~Title:viṣayāṇām~~
-{{description>of different states.}}
+---json
+{
+    "name":"viṣayāṇām",
+    "h1":"viṣayāṇām",
+    "title":"viṣayāṇām -- synonyms, prabhupada.io",
+    "description":"of different states."
+}
+---
 
 ==== viṣayāṇām  ====
   * of different states --- [[books:sb:9:21:31-33|SB 9.21.31-33]]

@@ -1,5 +1,11 @@
-~~Title:bhaṅgīte~~
-{{description>by a hint; by behavior.}}
+---json
+{
+    "name":"bhaṅgīte",
+    "h1":"bhaṅgīte",
+    "title":"bhaṅgīte -- synonyms, prabhupada.io",
+    "description":"by a hint; by behavior."
+}
+---
 
 ==== bhaṅgīte  ====
   * by a hint --- [[books:cc:antya:9:83|Antya 9.83]]

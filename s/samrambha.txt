@@ -1,5 +1,11 @@
-~~Title:saṁrambha~~
-{{description>because of great anger; by anger; enmity; of anger; with anger.}}
+---json
+{
+    "name":"saṁrambha",
+    "h1":"saṁrambha",
+    "title":"saṁrambha -- synonyms, prabhupada.io",
+    "description":"because of great anger; by anger; enmity; of anger; with anger."
+}
+---
 
 ==== saṁrambha  ====
   * because of great anger --- [[books:sb:7:8:30|SB 7.8.30]]

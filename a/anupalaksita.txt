@@ -1,5 +1,11 @@
-~~Title:anupalakṣita~~
-{{description>described.}}
+---json
+{
+    "name":"anupalakṣita",
+    "h1":"anupalakṣita",
+    "title":"anupalakṣita -- synonyms, prabhupada.io",
+    "description":"described."
+}
+---
 
 ==== anupalakṣita  ====
   * described --- [[books:sb:5:17:1|SB 5.17.1]]

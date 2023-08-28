@@ -1,5 +1,11 @@
-~~Title:vyatyasta~~
-{{description>dislocated.}}
+---json
+{
+    "name":"vyatyasta",
+    "h1":"vyatyasta",
+    "title":"vyatyasta -- synonyms, prabhupada.io",
+    "description":"dislocated."
+}
+---
 
 ==== vyatyasta  ====
   * dislocated --- [[books:sb:10:7:7|SB 10.7.7]]

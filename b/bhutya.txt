@@ -1,5 +1,11 @@
-~~Title:bhūtyā~~
-{{description>by elegance; with opulences.}}
+---json
+{
+    "name":"bhūtyā",
+    "h1":"bhūtyā",
+    "title":"bhūtyā -- synonyms, prabhupada.io",
+    "description":"by elegance; with opulences."
+}
+---
 
 ==== bhūtyā  ====
   * by elegance --- [[books:sb:3:28:30|SB 3.28.30]]

@@ -1,5 +1,11 @@
-~~Title:anilayane~~
-{{description>not dependent on anything else.}}
+---json
+{
+    "name":"anilayane",
+    "h1":"anilayane",
+    "title":"anilayane -- synonyms, prabhupada.io",
+    "description":"not dependent on anything else."
+}
+---
 
 ==== anilayane  ====
   * not dependent on anything else --- [[books:sb:5:19:20|SB 5.19.20]]

@@ -1,5 +1,11 @@
-~~Title:arbhakasya~~
-{{description>of my child.}}
+---json
+{
+    "name":"arbhakasya",
+    "h1":"arbhakasya",
+    "title":"arbhakasya -- synonyms, prabhupada.io",
+    "description":"of my child."
+}
+---
 
 ==== mama arbhakasya  ====
   * of my child --- [[books:sb:10:8:40|SB 10.8.40]]

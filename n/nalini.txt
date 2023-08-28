@@ -1,5 +1,11 @@
-~~Title:nalini~~
-{{description>named Nalinī; of small lakes filled with lotus flowers; of the name Nalinī; with lotuses.}}
+---json
+{
+    "name":"nalini",
+    "h1":"nalini",
+    "title":"nalini -- synonyms, prabhupada.io",
+    "description":"named Nalinī; of small lakes filled with lotus flowers; of the name Nalinī; with lotuses."
+}
+---
 
 ==== nalinī  ====
   * named Nalinī --- [[books:sb:4:29:11|SB 4.29.11]]

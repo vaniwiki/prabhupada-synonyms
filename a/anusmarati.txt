@@ -1,5 +1,11 @@
-~~Title:anusmarati~~
-{{description>always remembers.}}
+---json
+{
+    "name":"anusmarati",
+    "h1":"anusmarati",
+    "title":"anusmarati -- synonyms, prabhupada.io",
+    "description":"always remembers."
+}
+---
 
 ==== anusmarati  ====
   * always remembers --- [[books:sb:4:30:9|SB 4.30.9]]

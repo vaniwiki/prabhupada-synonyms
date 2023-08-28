@@ -1,5 +1,11 @@
-~~Title:kāmayamānā~~
-{{description>like ordinary lust.}}
+---json
+{
+    "name":"kāmayamānā",
+    "h1":"kāmayamānā",
+    "title":"kāmayamānā -- synonyms, prabhupada.io",
+    "description":"like ordinary lust."
+}
+---
 
 ==== kāmayamānā  ====
   * like ordinary lust --- [[books:nbs:7|NBS 7]]

@@ -1,5 +1,11 @@
-~~Title:vicarantu~~
-{{description>let them wander.}}
+---json
+{
+    "name":"vicarantu",
+    "h1":"vicarantu",
+    "title":"vicarantu -- synonyms, prabhupada.io",
+    "description":"let them wander."
+}
+---
 
 ==== vicarantu  ====
   * let them wander --- [[books:sb:4:2:26|SB 4.2.26]]

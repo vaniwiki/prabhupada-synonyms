@@ -1,5 +1,11 @@
-~~Title:hoi~~
-{{description>becomes; there is.}}
+---json
+{
+    "name":"hoi",
+    "h1":"hoi",
+    "title":"hoi -- synonyms, prabhupada.io",
+    "description":"becomes; there is."
+}
+---
 
 ==== hoi  ====
   * becomes --- [[books:cc:madhya:2:42|Madhya 2.42]]

@@ -1,5 +1,11 @@
-~~Title:navati~~
-{{description>ninety.}}
+---json
+{
+    "name":"navati",
+    "h1":"navati",
+    "title":"navati -- synonyms, prabhupada.io",
+    "description":"ninety."
+}
+---
 
 ==== navati  ====
   * ninety --- [[books:sb:5:4:10|SB 5.4.10]]

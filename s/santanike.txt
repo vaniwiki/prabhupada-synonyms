@@ -1,5 +1,11 @@
-~~Title:sāntānike~~
-{{description>wanting a child.}}
+---json
+{
+    "name":"sāntānike",
+    "h1":"sāntānike",
+    "title":"sāntānike -- synonyms, prabhupada.io",
+    "description":"wanting a child."
+}
+---
 
 ==== sāntānike  ====
   * wanting a child --- [[books:sb:9:14:9|SB 9.14.9]]

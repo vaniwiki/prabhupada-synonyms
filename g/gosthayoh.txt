@@ -1,5 +1,11 @@
-~~Title:goṣṭhayoḥ~~
-{{description>both in Vṛndāvana and in the forest.}}
+---json
+{
+    "name":"goṣṭhayoḥ",
+    "h1":"goṣṭhayoḥ",
+    "title":"goṣṭhayoḥ -- synonyms, prabhupada.io",
+    "description":"both in Vṛndāvana and in the forest."
+}
+---
 
 ==== vana-goṣṭhayoḥ  ====
   * both in Vṛndāvana and in the forest --- [[books:sb:10:13:27|SB 10.13.27]]

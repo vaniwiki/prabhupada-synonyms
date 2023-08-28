@@ -1,5 +1,11 @@
-~~Title:abhibhāṣitam~~
-{{description>instruction; what was spoken.}}
+---json
+{
+    "name":"abhibhāṣitam",
+    "h1":"abhibhāṣitam",
+    "title":"abhibhāṣitam -- synonyms, prabhupada.io",
+    "description":"instruction; what was spoken."
+}
+---
 
 ==== abhibhāṣitam  ====
   * instruction --- [[books:sb:6:17:36|SB 6.17.36]]

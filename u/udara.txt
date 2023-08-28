@@ -1,5 +1,11 @@
-~~Title:udara~~
-{{description>bellies; belly; for the stomach; of the abdomen; on the abdomen.}}
+---json
+{
+    "name":"udara",
+    "h1":"udara",
+    "title":"udara -- synonyms, prabhupada.io",
+    "description":"bellies; belly; for the stomach; of the abdomen; on the abdomen."
+}
+---
 
 ==== udara  ====
   * bellies --- [[books:bg:11:16|Bg. 11.16]], [[books:sb:9:5:8|SB 9.5.8]]

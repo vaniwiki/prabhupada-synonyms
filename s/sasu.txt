@@ -1,5 +1,11 @@
-~~Title:ṣāsu~~
-{{description>five or six.}}
+---json
+{
+    "name":"ṣāsu",
+    "h1":"ṣāsu",
+    "title":"ṣāsu -- synonyms, prabhupada.io",
+    "description":"five or six."
+}
+---
 
 ==== pañca-ṣāsu  ====
   * five or six --- [[books:sb:10:13:28|SB 10.13.28]]

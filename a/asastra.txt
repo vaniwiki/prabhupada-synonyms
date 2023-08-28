@@ -1,5 +1,11 @@
-~~Title:aśāstra~~
-{{description>not mentioned in the scriptures.}}
+---json
+{
+    "name":"aśāstra",
+    "h1":"aśāstra",
+    "title":"aśāstra -- synonyms, prabhupada.io",
+    "description":"not mentioned in the scriptures."
+}
+---
 
 ==== aśāstra  ====
   * not mentioned in the scriptures --- [[books:bg:17:5-6|Bg. 17.5-6]]

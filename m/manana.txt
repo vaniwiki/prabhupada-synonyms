@@ -1,5 +1,11 @@
-~~Title:manana~~
-{{description>thinking.}}
+---json
+{
+    "name":"manana",
+    "h1":"manana",
+    "title":"manana -- synonyms, prabhupada.io",
+    "description":"thinking."
+}
+---
 
 ==== manana  ====
   * thinking --- [[books:sb:5:8:29|SB 5.8.29]]

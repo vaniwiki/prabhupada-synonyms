@@ -1,5 +1,11 @@
-~~Title:bileṣu~~
-{{description>in the caves of the mountain.}}
+---json
+{
+    "name":"bileṣu",
+    "h1":"bileṣu",
+    "title":"bileṣu -- synonyms, prabhupada.io",
+    "description":"in the caves of the mountain."
+}
+---
 
 ==== bileṣu  ====
   * in the caves of the mountain --- [[books:sb:2:7:31|SB 2.7.31]]

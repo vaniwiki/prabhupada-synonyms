@@ -1,5 +1,11 @@
-~~Title:dautya~~
-{{description>acceptance of the post of a messenger.}}
+---json
+{
+    "name":"dautya",
+    "h1":"dautya",
+    "title":"dautya -- synonyms, prabhupada.io",
+    "description":"acceptance of the post of a messenger."
+}
+---
 
 ==== dautya  ====
   * acceptance of the post of a messenger --- [[books:sb:1:16:16|SB 1.16.16]]

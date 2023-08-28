@@ -1,5 +1,11 @@
-~~Title:duravagamam~~
-{{description>which is difficult to understand.}}
+---json
+{
+    "name":"duravagamam",
+    "h1":"duravagamam",
+    "title":"duravagamam -- synonyms, prabhupada.io",
+    "description":"which is difficult to understand."
+}
+---
 
 ==== duravagamam  ====
   * which is difficult to understand --- [[books:sb:5:13:26|SB 5.13.26]]

@@ -1,5 +1,11 @@
-~~Title:kumudaḥ~~
-{{description>the mountain named Kumuda.}}
+---json
+{
+    "name":"kumudaḥ",
+    "h1":"kumudaḥ",
+    "title":"kumudaḥ -- synonyms, prabhupada.io",
+    "description":"the mountain named Kumuda."
+}
+---
 
 ==== kumudaḥ  ====
   * the mountain named Kumuda --- [[books:sb:5:16:11|SB 5.16.11]]

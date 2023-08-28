@@ -1,5 +1,11 @@
-~~Title:klaibyam~~
-{{description>impotence.}}
+---json
+{
+    "name":"klaibyam",
+    "h1":"klaibyam",
+    "title":"klaibyam -- synonyms, prabhupada.io",
+    "description":"impotence."
+}
+---
 
 ==== klaibyam  ====
   * impotence --- [[books:bg:2:3|Bg. 2.3]]

@@ -1,5 +1,11 @@
-~~Title:paribṛṁhita~~
-{{description>expanded.}}
+---json
+{
+    "name":"paribṛṁhita",
+    "h1":"paribṛṁhita",
+    "title":"paribṛṁhita -- synonyms, prabhupada.io",
+    "description":"expanded."
+}
+---
 
 ==== paribṛṁhita  ====
   * expanded --- [[books:sb:1:15:29|SB 1.15.29]]

@@ -1,5 +1,11 @@
-~~Title:jijñāsu~~
-{{description>inquisitive.}}
+---json
+{
+    "name":"jijñāsu",
+    "h1":"jijñāsu",
+    "title":"jijñāsu -- synonyms, prabhupada.io",
+    "description":"inquisitive."
+}
+---
 
 ==== jijñāsu  ====
   * inquisitive --- [[books:cc:madhya:24:95|Madhya 24.95]]

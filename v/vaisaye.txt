@@ -1,5 +1,11 @@
-~~Title:vaisaye~~
-{{description>sits.}}
+---json
+{
+    "name":"vaisaye",
+    "h1":"vaisaye",
+    "title":"vaisaye -- synonyms, prabhupada.io",
+    "description":"sits."
+}
+---
 
 ==== vaisaye  ====
   * sits --- [[books:cc:adi:4:92|Ādi 4.92]]

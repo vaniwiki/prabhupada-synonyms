@@ -1,5 +1,11 @@
-~~Title:navah~~
-{{description>new.}}
+---json
+{
+    "name":"navah",
+    "h1":"navah",
+    "title":"navah -- synonyms, prabhupada.io",
+    "description":"new."
+}
+---
 
 ==== navaḥ  ====
   * new --- [[books:cc:madhya:23:40|Madhya 23.40]], [[books:cc:antya:19:105|Antya 19.105]]

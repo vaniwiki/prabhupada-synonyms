@@ -1,5 +1,11 @@
-~~Title:aṇīyasaḥ~~
-{{description>smaller ones.}}
+---json
+{
+    "name":"aṇīyasaḥ",
+    "h1":"aṇīyasaḥ",
+    "title":"aṇīyasaḥ -- synonyms, prabhupada.io",
+    "description":"smaller ones."
+}
+---
 
 ==== aṇīyasaḥ  ====
   * smaller ones --- [[books:sb:1:15:25-26|SB 1.15.25-26]]

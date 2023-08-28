@@ -1,5 +1,11 @@
-~~Title:upalebhe~~
-{{description>saw.}}
+---json
+{
+    "name":"upalebhe",
+    "h1":"upalebhe",
+    "title":"upalebhe -- synonyms, prabhupada.io",
+    "description":"saw."
+}
+---
 
 ==== upalebhe  ====
   * saw --- [[books:sb:1:8:8|SB 1.8.8]]

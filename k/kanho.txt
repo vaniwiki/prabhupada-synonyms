@@ -1,5 +1,11 @@
-~~Title:kāṅho~~
-{{description>anyone; somewhere.}}
+---json
+{
+    "name":"kāṅho",
+    "h1":"kāṅho",
+    "title":"kāṅho -- synonyms, prabhupada.io",
+    "description":"anyone; somewhere."
+}
+---
 
 ==== kāṅho  ====
   * anyone --- [[books:cc:madhya:17:13|Madhya 17.13]]

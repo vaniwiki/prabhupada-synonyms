@@ -1,5 +1,11 @@
-~~Title:tantryam~~
-{{description>in the rope; to a rope.}}
+---json
+{
+    "name":"tantryam",
+    "h1":"tantryam",
+    "title":"tantryam -- synonyms, prabhupada.io",
+    "description":"in the rope; to a rope."
+}
+---
 
 ==== tantryām  ====
   * in the rope --- [[books:sb:7:2:52|SB 7.2.52]]

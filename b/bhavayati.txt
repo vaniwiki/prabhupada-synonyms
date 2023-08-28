@@ -1,5 +1,11 @@
-~~Title:bhavayati~~
-{{description>maintains.}}
+---json
+{
+    "name":"bhavayati",
+    "h1":"bhavayati",
+    "title":"bhavayati -- synonyms, prabhupada.io",
+    "description":"maintains."
+}
+---
 
 ==== bhāvayati  ====
   * maintains --- [[books:sb:1:2:34|SB 1.2.34]]

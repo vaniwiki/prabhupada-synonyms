@@ -1,5 +1,11 @@
-~~Title:koṇārkera~~
-{{description>toward the Koṇārka temple.}}
+---json
+{
+    "name":"koṇārkera",
+    "h1":"koṇārkera",
+    "title":"koṇārkera -- synonyms, prabhupada.io",
+    "description":"toward the Koṇārka temple."
+}
+---
 
 ==== koṇārkera dike  ====
   * toward the Koṇārka temple --- [[books:cc:antya:18:31|Antya 18.31]]

@@ -1,5 +1,11 @@
-~~Title:mārga~~
-{{description>by the way of; path; symmetrical; the path; ways.}}
+---json
+{
+    "name":"mārga",
+    "h1":"mārga",
+    "title":"mārga -- synonyms, prabhupada.io",
+    "description":"by the way of; path; symmetrical; the path; ways."
+}
+---
 
 ==== mārga  ====
   * by the way of --- [[books:sb:3:2:24|SB 3.2.24]]

@@ -1,5 +1,11 @@
-~~Title:kavitva~~
-{{description>poet; poetic art; poetic explanation; poetic imagination; poetic ingenuity; poetic integrity; poetic qualifications; poetry; superexcellence in poetic presentation.}}
+---json
+{
+    "name":"kavitva",
+    "h1":"kavitva",
+    "title":"kavitva -- synonyms, prabhupada.io",
+    "description":"poet; poetic art; poetic explanation; poetic imagination; poetic ingenuity; poetic integrity; poetic qualifications; poetry; superexcellence in poetic presentation."
+}
+---
 
 ==== kavitva  ====
   * poet --- [[books:cc:adi:8:5|Ādi 8.5]]

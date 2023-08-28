@@ -1,5 +1,11 @@
-~~Title:itihāsa~~
-{{description>historical records (Mahābhārata); histories; history.}}
+---json
+{
+    "name":"itihāsa",
+    "h1":"itihāsa",
+    "title":"itihāsa -- synonyms, prabhupada.io",
+    "description":"historical records (Mahābhārata); histories; history."
+}
+---
 
 ==== itihāsa  ====
   * historical records (//Mahābhārata//) --- [[books:sb:1:4:20|SB 1.4.20]]

@@ -1,5 +1,11 @@
-~~Title:kathyate~~
-{{description>is being described; was called.}}
+---json
+{
+    "name":"kathyate",
+    "h1":"kathyate",
+    "title":"kathyate -- synonyms, prabhupada.io",
+    "description":"is being described; was called."
+}
+---
 
 ==== kathyate  ====
   * is being described --- [[books:cc:antya:14:1|Antya 14.1]]

@@ -1,5 +1,11 @@
-~~Title:agrāhyam~~
-{{description>difficult to understand.}}
+---json
+{
+    "name":"agrāhyam",
+    "h1":"agrāhyam",
+    "title":"agrāhyam -- synonyms, prabhupada.io",
+    "description":"difficult to understand."
+}
+---
 
 ==== agrāhyam  ====
   * difficult to understand --- [[books:sb:5:26:38|SB 5.26.38]]

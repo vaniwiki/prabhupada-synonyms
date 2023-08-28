@@ -1,5 +1,11 @@
-~~Title:atyayam~~
-{{description>diminution of miserable conditions.}}
+---json
+{
+    "name":"atyayam",
+    "h1":"atyayam",
+    "title":"atyayam -- synonyms, prabhupada.io",
+    "description":"diminution of miserable conditions."
+}
+---
 
 ==== duḥkha-atyayam  ====
   * diminution of miserable conditions --- [[books:sb:7:13:30|SB 7.13.30]]

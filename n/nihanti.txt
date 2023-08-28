@@ -1,5 +1,11 @@
-~~Title:nihanti~~
-{{description>destroys; kills.}}
+---json
+{
+    "name":"nihanti",
+    "h1":"nihanti",
+    "title":"nihanti -- synonyms, prabhupada.io",
+    "description":"destroys; kills."
+}
+---
 
 ==== nihanti  ====
   * destroys --- [[books:sb:10:13:45|SB 10.13.45]]

@@ -1,5 +1,11 @@
-~~Title:ksudha~~
-{{description>from hunger.}}
+---json
+{
+    "name":"ksudha",
+    "h1":"ksudha",
+    "title":"ksudha -- synonyms, prabhupada.io",
+    "description":"from hunger."
+}
+---
 
 ==== kṣudha  ====
   * from hunger --- [[books:sb:5:13:5|SB 5.13.5]]

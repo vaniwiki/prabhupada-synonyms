@@ -1,5 +1,11 @@
-~~Title:vicariṣyāmi~~
-{{description>I shall travel.}}
+---json
+{
+    "name":"vicariṣyāmi",
+    "h1":"vicariṣyāmi",
+    "title":"vicariṣyāmi -- synonyms, prabhupada.io",
+    "description":"I shall travel."
+}
+---
 
 ==== vicariṣyāmi  ====
   * I shall travel --- [[books:sb:8:24:37|SB 8.24.37]]

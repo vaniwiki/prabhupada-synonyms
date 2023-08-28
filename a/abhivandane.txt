@@ -1,5 +1,11 @@
-~~Title:abhivandane~~
-{{description>in offering prayers.}}
+---json
+{
+    "name":"abhivandane",
+    "h1":"abhivandane",
+    "title":"abhivandane -- synonyms, prabhupada.io",
+    "description":"in offering prayers."
+}
+---
 
 ==== abhivandane  ====
   * in offering prayers --- [[books:cc:madhya:22:136|Madhya 22.136]]

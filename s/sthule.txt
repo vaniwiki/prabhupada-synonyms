@@ -1,5 +1,11 @@
-~~Title:sthūle~~
-{{description>grossly; in the gross matter; physical; the gross form.}}
+---json
+{
+    "name":"sthūle",
+    "h1":"sthūle",
+    "title":"sthūle -- synonyms, prabhupada.io",
+    "description":"grossly; in the gross matter; physical; the gross form."
+}
+---
 
 ==== sthūle  ====
   * grossly --- [[books:cc:madhya:24:284|Madhya 24.284]]

@@ -1,5 +1,11 @@
-~~Title:vitastim~~
-{{description>half a cubit.}}
+---json
+{
+    "name":"vitastim",
+    "h1":"vitastim",
+    "title":"vitastim -- synonyms, prabhupada.io",
+    "description":"half a cubit."
+}
+---
 
 ==== vitastim  ====
   * half a cubit --- [[books:sb:2:6:13-16|SB 2.6.13-16]]

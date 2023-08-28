@@ -1,5 +1,11 @@
-~~Title:śauṇḍīram~~
-{{description>power.}}
+---json
+{
+    "name":"śauṇḍīram",
+    "h1":"śauṇḍīram",
+    "title":"śauṇḍīram -- synonyms, prabhupada.io",
+    "description":"power."
+}
+---
 
 ==== śauṇḍīram  ====
   * power --- [[books:sb:3:18:21|SB 3.18.21]]

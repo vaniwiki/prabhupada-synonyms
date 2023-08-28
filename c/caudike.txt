@@ -1,5 +1,11 @@
-~~Title:caudike~~
-{{description>all around; in all directions.}}
+---json
+{
+    "name":"caudike",
+    "h1":"caudike",
+    "title":"caudike -- synonyms, prabhupada.io",
+    "description":"all around; in all directions."
+}
+---
 
 ==== caudike  ====
   * all around --- [[books:cc:madhya:4:73|Madhya 4.73]], [[books:cc:madhya:7:84|Madhya 7.84]]

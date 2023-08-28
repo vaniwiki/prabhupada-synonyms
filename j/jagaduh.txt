@@ -1,5 +1,11 @@
-~~Title:jagaduḥ~~
-{{description>replied.}}
+---json
+{
+    "name":"jagaduḥ",
+    "h1":"jagaduḥ",
+    "title":"jagaduḥ -- synonyms, prabhupada.io",
+    "description":"replied."
+}
+---
 
 ==== jagaduḥ  ====
   * replied --- [[books:sb:1:4:5|SB 1.4.5]]

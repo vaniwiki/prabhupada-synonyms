@@ -1,5 +1,11 @@
-~~Title:śapharīm~~
-{{description>that small fish.}}
+---json
+{
+    "name":"śapharīm",
+    "h1":"śapharīm",
+    "title":"śapharīm -- synonyms, prabhupada.io",
+    "description":"that small fish."
+}
+---
 
 ==== śapharīm  ====
   * that small fish --- [[books:sb:8:24:13|SB 8.24.13]]

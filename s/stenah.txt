@@ -1,5 +1,11 @@
-~~Title:stenaḥ~~
-{{description>a thief; one who steals; thief.}}
+---json
+{
+    "name":"stenaḥ",
+    "h1":"stenaḥ",
+    "title":"stenaḥ -- synonyms, prabhupada.io",
+    "description":"a thief; one who steals; thief."
+}
+---
 
 ==== stenaḥ  ====
   * a thief --- [[books:sb:7:14:8|SB 7.14.8]]

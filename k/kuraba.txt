@@ -1,5 +1,11 @@
-~~Title:kuraba~~
-{{description>kuraba.}}
+---json
+{
+    "name":"kuraba",
+    "h1":"kuraba",
+    "title":"kuraba -- synonyms, prabhupada.io",
+    "description":"kuraba."
+}
+---
 
 ==== kuraba  ====
   * //kuraba// --- [[books:sb:3:15:19|SB 3.15.19]]

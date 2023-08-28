@@ -1,5 +1,11 @@
-~~Title:sthāpya~~
-{{description>establishing; installing; placing; to be kept.}}
+---json
+{
+    "name":"sthāpya",
+    "h1":"sthāpya",
+    "title":"sthāpya -- synonyms, prabhupada.io",
+    "description":"establishing; installing; placing; to be kept."
+}
+---
 
 ==== sthāpya  ====
   * establishing --- [[books:sb:9:19:23|SB 9.19.23]]

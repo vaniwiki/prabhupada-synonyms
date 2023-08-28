@@ -1,5 +1,11 @@
-~~Title:pravilāpya~~
-{{description>merging.}}
+---json
+{
+    "name":"pravilāpya",
+    "h1":"pravilāpya",
+    "title":"pravilāpya -- synonyms, prabhupada.io",
+    "description":"merging."
+}
+---
 
 ==== pravilāpya  ====
   * merging --- [[books:sb:1:13:55|SB 1.13.55]]

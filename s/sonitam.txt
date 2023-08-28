@@ -1,5 +1,11 @@
-~~Title:śoṇitam~~
-{{description>and blood.}}
+---json
+{
+    "name":"śoṇitam",
+    "h1":"śoṇitam",
+    "title":"śoṇitam -- synonyms, prabhupada.io",
+    "description":"and blood."
+}
+---
 
 ==== śoṇitam  ====
   * and blood --- [[books:sb:7:3:15-16|SB 7.3.15-16]]

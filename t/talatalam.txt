@@ -1,5 +1,11 @@
-~~Title:talātalam~~
-{{description>Talātala; the fourth planetary system below; the planets named Talātala.}}
+---json
+{
+    "name":"talātalam",
+    "h1":"talātalam",
+    "title":"talātalam -- synonyms, prabhupada.io",
+    "description":"Talātala; the fourth planetary system below; the planets named Talātala."
+}
+---
 
 ==== talātalam  ====
   * Talātala --- [[books:sb:5:24:7|SB 5.24.7]]

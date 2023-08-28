@@ -1,5 +1,11 @@
-~~Title:sādharmyam~~
-{{description>nature.}}
+---json
+{
+    "name":"sādharmyam",
+    "h1":"sādharmyam",
+    "title":"sādharmyam -- synonyms, prabhupada.io",
+    "description":"nature."
+}
+---
 
 ==== sādharmyam  ====
   * nature --- [[books:bg:14:2|Bg. 14.2]]

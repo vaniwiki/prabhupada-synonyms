@@ -1,5 +1,11 @@
-~~Title:dhanera~~
-{{description>of the riches; of the treasure.}}
+---json
+{
+    "name":"dhanera",
+    "h1":"dhanera",
+    "title":"dhanera -- synonyms, prabhupada.io",
+    "description":"of the riches; of the treasure."
+}
+---
 
 ==== dhanera  ====
   * of the riches --- [[books:cc:madhya:20:129|Madhya 20.129]]

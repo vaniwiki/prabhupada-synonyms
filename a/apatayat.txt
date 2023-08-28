@@ -1,5 +1,11 @@
-~~Title:apātayat~~
-{{description>extracted.}}
+---json
+{
+    "name":"apātayat",
+    "h1":"apātayat",
+    "title":"apātayat -- synonyms, prabhupada.io",
+    "description":"extracted."
+}
+---
 
 ==== apātayat  ====
   * extracted --- [[books:sb:4:5:21|SB 4.5.21]]

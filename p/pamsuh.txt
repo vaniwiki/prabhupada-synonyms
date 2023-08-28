@@ -1,5 +1,11 @@
-~~Title:pāṁsuḥ~~
-{{description>dust.}}
+---json
+{
+    "name":"pāṁsuḥ",
+    "h1":"pāṁsuḥ",
+    "title":"pāṁsuḥ -- synonyms, prabhupada.io",
+    "description":"dust."
+}
+---
 
 ==== pāṁsuḥ  ====
   * dust --- [[books:sb:4:14:38|SB 4.14.38]]

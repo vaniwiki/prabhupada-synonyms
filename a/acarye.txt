@@ -1,5 +1,11 @@
-~~Title:ācārye~~
-{{description>Advaita Ācārya.}}
+---json
+{
+    "name":"ācārye",
+    "h1":"ācārye",
+    "title":"ācārye -- synonyms, prabhupada.io",
+    "description":"Advaita Ācārya."
+}
+---
 
 ==== ācārye  ====
   * Advaita Ācārya --- [[books:cc:madhya:3:213|Madhya 3.213]]

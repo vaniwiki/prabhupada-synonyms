@@ -1,5 +1,11 @@
-~~Title:ārogya~~
-{{description>health.}}
+---json
+{
+    "name":"ārogya",
+    "h1":"ārogya",
+    "title":"ārogya -- synonyms, prabhupada.io",
+    "description":"health."
+}
+---
 
 ==== ārogya  ====
   * health --- [[books:bg:17:8-10|Bg. 17.8-10]]

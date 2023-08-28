@@ -1,5 +1,11 @@
-~~Title:aviplutam~~
-{{description>without violation.}}
+---json
+{
+    "name":"aviplutam",
+    "h1":"aviplutam",
+    "title":"aviplutam -- synonyms, prabhupada.io",
+    "description":"without violation."
+}
+---
 
 ==== aviplutam  ====
   * without violation --- [[books:sb:6:18:54|SB 6.18.54]]

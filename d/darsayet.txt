@@ -1,5 +1,11 @@
-~~Title:darśayet~~
-{{description>should present.}}
+---json
+{
+    "name":"darśayet",
+    "h1":"darśayet",
+    "title":"darśayet -- synonyms, prabhupada.io",
+    "description":"should present."
+}
+---
 
 ==== darśayet  ====
   * should present --- [[books:sb:7:13:10|SB 7.13.10]]

@@ -1,5 +1,11 @@
-~~Title:apaviddha~~
-{{description>being pierced; giving up.}}
+---json
+{
+    "name":"apaviddha",
+    "h1":"apaviddha",
+    "title":"apaviddha -- synonyms, prabhupada.io",
+    "description":"being pierced; giving up."
+}
+---
 
 ==== apaviddha  ====
   * being pierced --- [[books:sb:4:25:5|SB 4.25.5]]

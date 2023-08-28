@@ -1,5 +1,11 @@
-~~Title:baddha~~
-{{description>bound; engaged; folded; obliged; tied on.}}
+---json
+{
+    "name":"baddha",
+    "h1":"baddha",
+    "title":"baddha -- synonyms, prabhupada.io",
+    "description":"bound; engaged; folded; obliged; tied on."
+}
+---
 
 ==== baddha  ====
   * bound --- [[books:cc:madhya:13:10|Madhya 13.10]]

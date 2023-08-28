@@ -1,5 +1,11 @@
-~~Title:masa~~
-{{description>month; months.}}
+---json
+{
+    "name":"masa",
+    "h1":"masa",
+    "title":"masa -- synonyms, prabhupada.io",
+    "description":"month; months."
+}
+---
 
 ==== māsa  ====
   * month --- [[books:cc:adi:13:87|Ādi 13.87]], [[books:cc:adi:13:89|Ādi 13.89]]

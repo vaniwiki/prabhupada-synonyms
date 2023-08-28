@@ -1,5 +1,11 @@
-~~Title:avait~~
-{{description>could understand; understood.}}
+---json
+{
+    "name":"avait",
+    "h1":"avait",
+    "title":"avait -- synonyms, prabhupada.io",
+    "description":"could understand; understood."
+}
+---
 
 ==== avait  ====
   * could understand --- [[books:sb:9:14:8|SB 9.14.8]]

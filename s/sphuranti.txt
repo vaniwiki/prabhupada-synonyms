@@ -1,5 +1,11 @@
-~~Title:sphuranti~~
-{{description>quivering.}}
+---json
+{
+    "name":"sphuranti",
+    "h1":"sphuranti",
+    "title":"sphuranti -- synonyms, prabhupada.io",
+    "description":"quivering."
+}
+---
 
 ==== sphuranti  ====
   * quivering --- [[books:sb:1:14:11|SB 1.14.11]]

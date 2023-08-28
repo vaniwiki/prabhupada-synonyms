@@ -1,5 +1,11 @@
-~~Title:nidraya~~
-{{description>by sleep; by sleeping; in deep sleep; in slumber; when overwhelmed with sleep.}}
+---json
+{
+    "name":"nidraya",
+    "h1":"nidraya",
+    "title":"nidraya -- synonyms, prabhupada.io",
+    "description":"by sleep; by sleeping; in deep sleep; in slumber; when overwhelmed with sleep."
+}
+---
 
 ==== nidrayā  ====
   * by sleep --- [[books:sb:3:27:14|SB 3.27.14]]

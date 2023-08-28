@@ -1,5 +1,11 @@
-~~Title:arcayat~~
-{{description>worshiped the Lord.}}
+---json
+{
+    "name":"arcayat",
+    "h1":"arcayat",
+    "title":"arcayat -- synonyms, prabhupada.io",
+    "description":"worshiped the Lord."
+}
+---
 
 ==== arcayat  ====
   * worshiped the Lord --- [[books:sb:9:4:30|SB 9.4.30]]

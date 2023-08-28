@@ -1,5 +1,11 @@
-~~Title:vihinah~~
-{{description>being bereft; bereft of.}}
+---json
+{
+    "name":"vihinah",
+    "h1":"vihinah",
+    "title":"vihinah -- synonyms, prabhupada.io",
+    "description":"being bereft; bereft of."
+}
+---
 
 ==== vihīnaḥ  ====
   * being bereft --- [[books:sb:5:14:36|SB 5.14.36]]

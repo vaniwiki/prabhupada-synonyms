@@ -1,5 +1,11 @@
-~~Title:anumāne~~
-{{description>by deduction; by hypothesis.}}
+---json
+{
+    "name":"anumāne",
+    "h1":"anumāne",
+    "title":"anumāne -- synonyms, prabhupada.io",
+    "description":"by deduction; by hypothesis."
+}
+---
 
 ==== anumāne  ====
   * by deduction --- [[books:cc:madhya:4:114|Madhya 4.114]]

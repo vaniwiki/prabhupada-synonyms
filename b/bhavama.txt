@@ -1,5 +1,11 @@
-~~Title:bhavāma~~
-{{description>we have become.}}
+---json
+{
+    "name":"bhavāma",
+    "h1":"bhavāma",
+    "title":"bhavāma -- synonyms, prabhupada.io",
+    "description":"we have become."
+}
+---
 
 ==== bhavāma  ====
   * we have become --- [[books:cc:madhya:24:50|Madhya 24.50]], [[books:cc:antya:15:70|Antya 15.70]]

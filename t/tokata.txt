@@ -1,5 +1,11 @@
-~~Title:tokatā~~
-{{description>Kṛṣṇa is my son.}}
+---json
+{
+    "name":"tokatā",
+    "h1":"tokatā",
+    "title":"tokatā -- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa is my son."
+}
+---
 
 ==== tokatā  ====
   * Kṛṣṇa is my son --- [[books:sb:10:13:25|SB 10.13.25]]

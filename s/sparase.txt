@@ -1,5 +1,11 @@
-~~Title:sparaśe~~
-{{description>in touching.}}
+---json
+{
+    "name":"sparaśe",
+    "h1":"sparaśe",
+    "title":"sparaśe -- synonyms, prabhupada.io",
+    "description":"in touching."
+}
+---
 
 ==== sparaśe  ====
   * in touching --- [[books:cc:madhya:22:137-139|Madhya 22.137-139]]

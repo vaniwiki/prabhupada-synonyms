@@ -1,5 +1,11 @@
-~~Title:yudhājit~~
-{{description>Yudhājit.}}
+---json
+{
+    "name":"yudhājit",
+    "h1":"yudhājit",
+    "title":"yudhājit -- synonyms, prabhupada.io",
+    "description":"Yudhājit."
+}
+---
 
 ==== yudhājit  ====
   * Yudhājit --- [[books:sb:9:24:12|SB 9.24.12]]

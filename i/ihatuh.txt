@@ -1,5 +1,11 @@
-~~Title:īhatuḥ~~
-{{description>you both executed.}}
+---json
+{
+    "name":"īhatuḥ",
+    "h1":"īhatuḥ",
+    "title":"īhatuḥ -- synonyms, prabhupada.io",
+    "description":"you both executed."
+}
+---
 
 ==== īhatuḥ  ====
   * you both executed --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

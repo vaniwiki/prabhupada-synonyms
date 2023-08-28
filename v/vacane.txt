@@ -1,5 +1,11 @@
-~~Title:vacane~~
-{{description>any word; by the words; by word; by words; in Her talking; in the words; in words; on the request; words.}}
+---json
+{
+    "name":"vacane",
+    "h1":"vacane",
+    "title":"vacane -- synonyms, prabhupada.io",
+    "description":"any word; by the words; by word; by words; in Her talking; in the words; in words; on the request; words."
+}
+---
 
 ==== vacane  ====
   * any word --- [[books:cc:madhya:12:16|Madhya 12.16]]

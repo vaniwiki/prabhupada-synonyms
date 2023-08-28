@@ -1,5 +1,11 @@
-~~Title:tamatā~~
-{{description>being most perfect.}}
+---json
+{
+    "name":"tamatā",
+    "h1":"tamatā",
+    "title":"tamatā -- synonyms, prabhupada.io",
+    "description":"being most perfect."
+}
+---
 
 ==== pūrṇa-tamatā  ====
   * being most perfect --- [[books:cc:madhya:20:401|Madhya 20.401]]

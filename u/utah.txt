@@ -1,5 +1,11 @@
-~~Title:utaḥ~~
-{{description>joined.}}
+---json
+{
+    "name":"utaḥ",
+    "h1":"utaḥ",
+    "title":"utaḥ -- synonyms, prabhupada.io",
+    "description":"joined."
+}
+---
 
 ==== utaḥ  ====
   * joined --- [[books:sb:3:26:54|SB 3.26.54]]

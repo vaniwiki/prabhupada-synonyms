@@ -1,5 +1,11 @@
-~~Title:pāṭuyā~~
-{{description>leaves and bark.}}
+---json
+{
+    "name":"pāṭuyā",
+    "h1":"pāṭuyā",
+    "title":"pāṭuyā -- synonyms, prabhupada.io",
+    "description":"leaves and bark."
+}
+---
 
 ==== pāṭuyā-kholā  ====
   * leaves and bark --- [[books:cc:antya:16:34|Antya 16.34]]

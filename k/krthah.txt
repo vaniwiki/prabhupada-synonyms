@@ -1,5 +1,11 @@
-~~Title:kṛthāḥ~~
-{{description>do.}}
+---json
+{
+    "name":"kṛthāḥ",
+    "h1":"kṛthāḥ",
+    "title":"kṛthāḥ -- synonyms, prabhupada.io",
+    "description":"do."
+}
+---
 
 ==== kṛthāḥ  ====
   * do --- [[books:sb:4:19:34|SB 4.19.34]], [[books:sb:4:29:47|SB 4.29.47]]

@@ -1,5 +1,11 @@
-~~Title:patrīra~~
-{{description>of that note.}}
+---json
+{
+    "name":"patrīra",
+    "h1":"patrīra",
+    "title":"patrīra -- synonyms, prabhupada.io",
+    "description":"of that note."
+}
+---
 
 ==== sei patrīra  ====
   * of that note --- [[books:cc:adi:12:30|Ādi 12.30]]

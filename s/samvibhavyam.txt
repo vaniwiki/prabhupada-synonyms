@@ -1,5 +1,11 @@
-~~Title:saṁvibhāvyam~~
-{{description>meditated upon, perceived.}}
+---json
+{
+    "name":"saṁvibhāvyam",
+    "h1":"saṁvibhāvyam",
+    "title":"saṁvibhāvyam -- synonyms, prabhupada.io",
+    "description":"meditated upon, perceived."
+}
+---
 
 ==== saṁvibhāvyam  ====
   * meditated upon, perceived --- [[books:sb:3:33:8|SB 3.33.8]]

@@ -1,5 +1,11 @@
-~~Title:kaṭhinatvam~~
-{{description>hardness.}}
+---json
+{
+    "name":"kaṭhinatvam",
+    "h1":"kaṭhinatvam",
+    "title":"kaṭhinatvam -- synonyms, prabhupada.io",
+    "description":"hardness."
+}
+---
 
 ==== kaṭhinatvam  ====
   * hardness --- [[books:sb:3:26:36|SB 3.26.36]]

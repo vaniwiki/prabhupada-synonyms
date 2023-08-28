@@ -1,5 +1,11 @@
-~~Title:prahitaiḥ~~
-{{description>instigated.}}
+---json
+{
+    "name":"prahitaiḥ",
+    "h1":"prahitaiḥ",
+    "title":"prahitaiḥ -- synonyms, prabhupada.io",
+    "description":"instigated."
+}
+---
 
 ==== prahitaiḥ  ====
   * instigated --- [[books:sb:9:22:16-17|SB 9.22.16-17]]

@@ -1,5 +1,11 @@
-~~Title:rahi~~
-{{description>I may stay; I remain; remain; remaining; reside; we remain.}}
+---json
+{
+    "name":"rahi",
+    "h1":"rahi",
+    "title":"rahi -- synonyms, prabhupada.io",
+    "description":"I may stay; I remain; remain; remaining; reside; we remain."
+}
+---
 
 ==== rahi  ====
   * I may stay --- [[books:cc:madhya:9:172|Madhya 9.172]]

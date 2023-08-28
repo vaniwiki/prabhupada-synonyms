@@ -1,5 +1,11 @@
-~~Title:jāniha~~
-{{description>all of you know; know; must know; please know; you all know it; you may know; you must know; you should know.}}
+---json
+{
+    "name":"jāniha",
+    "h1":"jāniha",
+    "title":"jāniha -- synonyms, prabhupada.io",
+    "description":"all of you know; know; must know; please know; you all know it; you may know; you must know; you should know."
+}
+---
 
 ==== jāniha  ====
   * all of you know --- [[books:cc:antya:20:90-91|Antya 20.90-91]]

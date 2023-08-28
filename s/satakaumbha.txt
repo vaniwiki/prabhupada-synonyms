@@ -1,5 +1,11 @@
-~~Title:śātakaumbha~~
-{{description>made of gold.}}
+---json
+{
+    "name":"śātakaumbha",
+    "h1":"śātakaumbha",
+    "title":"śātakaumbha -- synonyms, prabhupada.io",
+    "description":"made of gold."
+}
+---
 
 ==== śātakaumbha  ====
   * made of gold --- [[books:sb:3:21:36|SB 3.21.36]]

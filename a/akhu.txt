@@ -1,5 +1,11 @@
-~~Title:ākhu~~
-{{description>mice.}}
+---json
+{
+    "name":"ākhu",
+    "h1":"ākhu",
+    "title":"ākhu -- synonyms, prabhupada.io",
+    "description":"mice."
+}
+---
 
 ==== ākhu  ====
   * mice --- [[books:sb:7:14:9|SB 7.14.9]]

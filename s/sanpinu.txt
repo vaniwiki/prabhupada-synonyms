@@ -1,5 +1,11 @@
-~~Title:saṅpinu~~
-{{description>am entrusting to you.}}
+---json
+{
+    "name":"saṅpinu",
+    "h1":"saṅpinu",
+    "title":"saṅpinu -- synonyms, prabhupada.io",
+    "description":"am entrusting to you."
+}
+---
 
 ==== saṅpinu tomāre  ====
   * am entrusting to you --- [[books:cc:antya:6:202|Antya 6.202]]

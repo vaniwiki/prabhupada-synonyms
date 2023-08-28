@@ -1,5 +1,11 @@
-~~Title:abhyantara~~
-{{description>inner; inner space; inside; internal; within; within the abdomen; within the house.}}
+---json
+{
+    "name":"abhyantara",
+    "h1":"abhyantara",
+    "title":"abhyantara -- synonyms, prabhupada.io",
+    "description":"inner; inner space; inside; internal; within; within the abdomen; within the house."
+}
+---
 
 ==== abhyantara  ====
   * inner --- [[books:sb:5:16:5|SB 5.16.5]]

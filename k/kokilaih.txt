@@ -1,5 +1,11 @@
-~~Title:kokilaiḥ~~
-{{description>with the cuckoos.}}
+---json
+{
+    "name":"kokilaiḥ",
+    "h1":"kokilaiḥ",
+    "title":"kokilaiḥ -- synonyms, prabhupada.io",
+    "description":"with the cuckoos."
+}
+---
 
 ==== kokilaiḥ  ====
   * with the cuckoos --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

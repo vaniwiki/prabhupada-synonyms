@@ -1,5 +1,11 @@
-~~Title:tāḍaneo~~
-{{description>even by the persecution.}}
+---json
+{
+    "name":"tāḍaneo",
+    "h1":"tāḍaneo",
+    "title":"tāḍaneo -- synonyms, prabhupada.io",
+    "description":"even by the persecution."
+}
+---
 
 ==== tāḍaneo  ====
   * even by the persecution --- [[books:cc:adi:10:45|Ādi 10.45]]

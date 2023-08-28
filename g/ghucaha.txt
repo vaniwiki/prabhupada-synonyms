@@ -1,5 +1,11 @@
-~~Title:ghucāha~~
-{{description>please diminish; please finish.}}
+---json
+{
+    "name":"ghucāha",
+    "h1":"ghucāha",
+    "title":"ghucāha -- synonyms, prabhupada.io",
+    "description":"please diminish; please finish."
+}
+---
 
 ==== ghucāha  ====
   * please diminish --- [[books:cc:adi:17:288|Ādi 17.288]]

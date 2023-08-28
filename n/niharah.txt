@@ -1,5 +1,11 @@
-~~Title:nīhāraḥ~~
-{{description>fog.}}
+---json
+{
+    "name":"nīhāraḥ",
+    "h1":"nīhāraḥ",
+    "title":"nīhāraḥ -- synonyms, prabhupada.io",
+    "description":"fog."
+}
+---
 
 ==== nīhāraḥ  ====
   * fog --- [[books:sb:6:13:19-20|SB 6.13.19-20]]

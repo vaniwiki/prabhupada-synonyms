@@ -1,5 +1,11 @@
-~~Title:nṛpateḥ~~
-{{description>of the King.}}
+---json
+{
+    "name":"nṛpateḥ",
+    "h1":"nṛpateḥ",
+    "title":"nṛpateḥ -- synonyms, prabhupada.io",
+    "description":"of the King."
+}
+---
 
 ==== nṛpateḥ  ====
   * of the King --- [[books:sb:4:8:11|SB 4.8.11]], [[books:sb:4:14:26-27|SB 4.14.26-27]]

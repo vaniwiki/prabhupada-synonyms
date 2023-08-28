@@ -1,5 +1,11 @@
-~~Title:ghā~~
-{{description>struck.}}
+---json
+{
+    "name":"ghā",
+    "h1":"ghā",
+    "title":"ghā -- synonyms, prabhupada.io",
+    "description":"struck."
+}
+---
 
 ==== ghā māre  ====
   * struck --- [[books:cc:antya:8:57-58|Antya 8.57-58]]

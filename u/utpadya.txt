@@ -1,5 +1,11 @@
-~~Title:utpādya~~
-{{description>begot; having begotten; having created.}}
+---json
+{
+    "name":"utpādya",
+    "h1":"utpādya",
+    "title":"utpādya -- synonyms, prabhupada.io",
+    "description":"begot; having begotten; having created."
+}
+---
 
 ==== utpādya  ====
   * begot --- [[books:sb:9:24:66|SB 9.24.66]]

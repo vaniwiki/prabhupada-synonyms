@@ -1,5 +1,11 @@
-~~Title:kañculikāya~~
-{{description>by a short blouse.}}
+---json
+{
+    "name":"kañculikāya",
+    "h1":"kañculikāya",
+    "title":"kañculikāya -- synonyms, prabhupada.io",
+    "description":"by a short blouse."
+}
+---
 
 ==== kañculikāya  ====
   * by a short blouse --- [[books:cc:madhya:8:169|Madhya 8.169]]

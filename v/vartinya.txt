@@ -1,5 +1,11 @@
-~~Title:vartinyā~~
-{{description>acting under the control.}}
+---json
+{
+    "name":"vartinyā",
+    "h1":"vartinyā",
+    "title":"vartinyā -- synonyms, prabhupada.io",
+    "description":"acting under the control."
+}
+---
 
 ==== vaśa-vartinyā  ====
   * acting under the control --- [[books:sb:5:14:1|SB 5.14.1]]

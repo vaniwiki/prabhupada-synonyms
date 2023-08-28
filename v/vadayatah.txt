@@ -1,5 +1,11 @@
-~~Title:vādayataḥ~~
-{{description>blowing.}}
+---json
+{
+    "name":"vādayataḥ",
+    "h1":"vādayataḥ",
+    "title":"vādayataḥ -- synonyms, prabhupada.io",
+    "description":"blowing."
+}
+---
 
 ==== vādayataḥ  ====
   * blowing --- [[books:sb:10:11:39-40|SB 10.11.39-40]]

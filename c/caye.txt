@@ -1,5 +1,11 @@
-~~Title:caye~~
-{{description>dull creatures like the birds, the most foolish.}}
+---json
+{
+    "name":"caye",
+    "h1":"caye",
+    "title":"caye -- synonyms, prabhupada.io",
+    "description":"dull creatures like the birds, the most foolish."
+}
+---
 
 ==== pakṣi-mūrkha-caye  ====
   * dull creatures like the birds, the most foolish --- [[books:cc:madhya:24:185|Madhya 24.185]]

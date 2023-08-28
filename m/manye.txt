@@ -1,5 +1,11 @@
-~~Title:manye~~
-{{description>accept; although I think; I consider; I have vowed; I shall consider; I take it for granted; I think; I understand; think; we think.}}
+---json
+{
+    "name":"manye",
+    "h1":"manye",
+    "title":"manye -- synonyms, prabhupada.io",
+    "description":"accept; although I think; I consider; I have vowed; I shall consider; I take it for granted; I think; I understand; think; we think."
+}
+---
 
 ==== manye  ====
   * accept --- [[books:bg:10:14|Bg. 10.14]]

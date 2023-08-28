@@ -1,5 +1,11 @@
-~~Title:upākhyāna~~
-{{description>narration.}}
+---json
+{
+    "name":"upākhyāna",
+    "h1":"upākhyāna",
+    "title":"upākhyāna -- synonyms, prabhupada.io",
+    "description":"narration."
+}
+---
 
 ==== upākhyāna  ====
   * narration --- [[books:cc:madhya:9:200|Madhya 9.200]]

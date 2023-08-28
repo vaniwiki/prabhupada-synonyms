@@ -1,5 +1,11 @@
-~~Title:rociṣam~~
-{{description>blazing; Rociṣa.}}
+---json
+{
+    "name":"rociṣam",
+    "h1":"rociṣam",
+    "title":"rociṣam -- synonyms, prabhupada.io",
+    "description":"blazing; Rociṣa."
+}
+---
 
 ==== rociṣam  ====
   * blazing --- [[books:sb:4:5:2|SB 4.5.2]]

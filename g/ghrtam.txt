@@ -1,5 +1,11 @@
-~~Title:ghṛtam~~
-{{description>clarified butter or nectar.}}
+---json
+{
+    "name":"ghṛtam",
+    "h1":"ghṛtam",
+    "title":"ghṛtam -- synonyms, prabhupada.io",
+    "description":"clarified butter or nectar."
+}
+---
 
 ==== ghṛtam  ====
   * clarified butter or nectar --- [[books:sb:9:14:22|SB 9.14.22]]

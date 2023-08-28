@@ -1,5 +1,11 @@
-~~Title:puroḍāśān~~
-{{description>the cakes prepared from caru.}}
+---json
+{
+    "name":"puroḍāśān",
+    "h1":"puroḍāśān",
+    "title":"puroḍāśān -- synonyms, prabhupada.io",
+    "description":"the cakes prepared from caru."
+}
+---
 
 ==== puroḍāśān  ====
   * the cakes prepared from //caru// --- [[books:sb:7:12:19|SB 7.12.19]]

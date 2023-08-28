@@ -1,5 +1,11 @@
-~~Title:hetuḥ~~
-{{description>because of this; cause; instrument; the cause; the cause of all causes; there is any cause.}}
+---json
+{
+    "name":"hetuḥ",
+    "h1":"hetuḥ",
+    "title":"hetuḥ -- synonyms, prabhupada.io",
+    "description":"because of this; cause; instrument; the cause; the cause of all causes; there is any cause."
+}
+---
 
 ==== hetuḥ  ====
   * because of this --- [[books:sb:8:12:4|SB 8.12.4]]

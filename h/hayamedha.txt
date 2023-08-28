@@ -1,5 +1,11 @@
-~~Title:hayamedha~~
-{{description>of the aśvamedha sacrifice.}}
+---json
+{
+    "name":"hayamedha",
+    "h1":"hayamedha",
+    "title":"hayamedha -- synonyms, prabhupada.io",
+    "description":"of the aśvamedha sacrifice."
+}
+---
 
 ==== hayamedha  ====
   * of the //aśvamedha// sacrifice --- [[books:sb:8:18:23|SB 8.18.23]]

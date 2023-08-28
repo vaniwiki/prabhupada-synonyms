@@ -1,5 +1,11 @@
-~~Title:cittān~~
-{{description>absorbed in thought.}}
+---json
+{
+    "name":"cittān",
+    "h1":"cittān",
+    "title":"cittān -- synonyms, prabhupada.io",
+    "description":"absorbed in thought."
+}
+---
 
 ==== abhiniviṣṭa-cittān  ====
   * absorbed in thought --- [[books:sb:3:2:24|SB 3.2.24]]

@@ -1,5 +1,11 @@
-~~Title:randhre~~
-{{description>within the holes.}}
+---json
+{
+    "name":"randhre",
+    "h1":"randhre",
+    "title":"randhre -- synonyms, prabhupada.io",
+    "description":"within the holes."
+}
+---
 
 ==== randhre  ====
   * within the holes --- [[books:cc:adi:5:70|Ādi 5.70]]

@@ -1,5 +1,11 @@
-~~Title:nyavedayan~~
-{{description>asked; informed; reported; they submitted.}}
+---json
+{
+    "name":"nyavedayan",
+    "h1":"nyavedayan",
+    "title":"nyavedayan -- synonyms, prabhupada.io",
+    "description":"asked; informed; reported; they submitted."
+}
+---
 
 ==== nyavedayan  ====
   * asked --- [[books:sb:3:15:2|SB 3.15.2]]

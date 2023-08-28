@@ -1,5 +1,11 @@
-~~Title:puṣpera~~
-{{description>a flower garden.}}
+---json
+{
+    "name":"puṣpera",
+    "h1":"puṣpera",
+    "title":"puṣpera -- synonyms, prabhupada.io",
+    "description":"a flower garden."
+}
+---
 
 ==== puṣpera udyāna  ====
   * a flower garden --- [[books:cc:antya:15:28|Antya 15.28]]

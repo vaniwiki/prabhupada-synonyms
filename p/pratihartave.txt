@@ -1,5 +1,11 @@
-~~Title:pratihartave~~
-{{description>to award.}}
+---json
+{
+    "name":"pratihartave",
+    "h1":"pratihartave",
+    "title":"pratihartave -- synonyms, prabhupada.io",
+    "description":"to award."
+}
+---
 
 ==== pratihartave  ====
   * to award --- [[books:sb:3:5:48|SB 3.5.48]]

@@ -1,5 +1,11 @@
-~~Title:cchandayām~~
-{{description>asked to take a benediction as he liked.}}
+---json
+{
+    "name":"cchandayām",
+    "h1":"cchandayām",
+    "title":"cchandayām -- synonyms, prabhupada.io",
+    "description":"asked to take a benediction as he liked."
+}
+---
 
 ==== vareṇa cchandayām āsa  ====
   * asked to take a benediction as he liked --- [[books:sb:9:16:7|SB 9.16.7]]

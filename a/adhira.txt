@@ -1,5 +1,11 @@
-~~Title:adhira~~
-{{description>very restless.}}
+---json
+{
+    "name":"adhira",
+    "h1":"adhira",
+    "title":"adhira -- synonyms, prabhupada.io",
+    "description":"very restless."
+}
+---
 
 ==== adhīra  ====
   * very restless --- [[books:cc:madhya:14:143|Madhya 14.143]]

@@ -1,5 +1,11 @@
-~~Title:sūcitaḥ~~
-{{description>described; was pointed out.}}
+---json
+{
+    "name":"sūcitaḥ",
+    "h1":"sūcitaḥ",
+    "title":"sūcitaḥ -- synonyms, prabhupada.io",
+    "description":"described; was pointed out."
+}
+---
 
 ==== sūcitaḥ  ====
   * described --- [[books:sb:5:16:2|SB 5.16.2]]

@@ -1,5 +1,11 @@
-~~Title:maunena~~
-{{description>by samādhi, deep meditation; by silence; with gravity.}}
+---json
+{
+    "name":"maunena",
+    "h1":"maunena",
+    "title":"maunena -- synonyms, prabhupada.io",
+    "description":"by samādhi, deep meditation; by silence; with gravity."
+}
+---
 
 ==== maunena  ====
   * by //samādhi,// deep meditation --- [[books:sb:7:10:50|SB 7.10.50]]

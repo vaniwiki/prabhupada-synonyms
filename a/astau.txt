@@ -1,5 +1,11 @@
-~~Title:aṣṭau~~
-{{description>eight; for eight years.}}
+---json
+{
+    "name":"aṣṭau",
+    "h1":"aṣṭau",
+    "title":"aṣṭau -- synonyms, prabhupada.io",
+    "description":"eight; for eight years."
+}
+---
 
 ==== aṣṭau  ====
   * eight --- [[books:sb:5:16:29|SB 5.16.29]], [[books:sb:7:7:22|SB 7.7.22]], [[books:sb:8:8:5|SB 8.8.5]], [[books:sb:9:24:52|SB 9.24.52]], [[books:sb:10:1:56|SB 10.1.56]]

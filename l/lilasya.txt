@@ -1,5 +1,11 @@
-~~Title:līlasya~~
-{{description>who has pastimes.}}
+---json
+{
+    "name":"līlasya",
+    "h1":"līlasya",
+    "title":"līlasya -- synonyms, prabhupada.io",
+    "description":"who has pastimes."
+}
+---
 
 ==== līlasya  ====
   * who has pastimes --- [[books:cc:madhya:20:180|Madhya 20.180]]

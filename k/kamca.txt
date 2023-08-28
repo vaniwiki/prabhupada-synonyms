@@ -1,5 +1,11 @@
-~~Title:kaṁca~~
-{{description>any.}}
+---json
+{
+    "name":"kaṁca",
+    "h1":"kaṁca",
+    "title":"kaṁca -- synonyms, prabhupada.io",
+    "description":"any."
+}
+---
 
 ==== kaṁca  ====
   * any --- [[books:sb:7:13:7|SB 7.13.7]]

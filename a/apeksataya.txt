@@ -1,5 +1,11 @@
-~~Title:apekṣatayā~~
-{{description>everyone depends upon You.}}
+---json
+{
+    "name":"apekṣatayā",
+    "h1":"apekṣatayā",
+    "title":"apekṣatayā -- synonyms, prabhupada.io",
+    "description":"everyone depends upon You."
+}
+---
 
 ==== tat-apekṣatayā  ====
   * everyone depends upon You --- [[books:sb:8:12:7|SB 8.12.7]]

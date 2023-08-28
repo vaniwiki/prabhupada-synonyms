@@ -1,5 +1,11 @@
-~~Title:prekṣaṇa~~
-{{description>the seeing.}}
+---json
+{
+    "name":"prekṣaṇa",
+    "h1":"prekṣaṇa",
+    "title":"prekṣaṇa -- synonyms, prabhupada.io",
+    "description":"the seeing."
+}
+---
 
 ==== prekṣaṇa  ====
   * the seeing --- [[books:cc:adi:4:203|Ādi 4.203]]

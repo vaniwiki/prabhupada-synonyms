@@ -1,5 +1,11 @@
-~~Title:khaiba~~
-{{description>I shall eat; shall eat; they shall eat.}}
+---json
+{
+    "name":"khaiba",
+    "h1":"khaiba",
+    "title":"khaiba -- synonyms, prabhupada.io",
+    "description":"I shall eat; shall eat; they shall eat."
+}
+---
 
 ==== khāiba  ====
   * I shall eat --- [[books:cc:adi:14:34|Ādi 14.34]]

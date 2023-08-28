@@ -1,5 +1,11 @@
-~~Title:giriśena~~
-{{description>by Lord Śiva.}}
+---json
+{
+    "name":"giriśena",
+    "h1":"giriśena",
+    "title":"giriśena -- synonyms, prabhupada.io",
+    "description":"by Lord Śiva."
+}
+---
 
 ==== giriśena  ====
   * by Lord Śiva --- [[books:sb:4:24:15|SB 4.24.15]]

@@ -1,5 +1,11 @@
-~~Title:maitram~~
-{{description>endowed with good faith and friendship.}}
+---json
+{
+    "name":"maitram",
+    "h1":"maitram",
+    "title":"maitram -- synonyms, prabhupada.io",
+    "description":"endowed with good faith and friendship."
+}
+---
 
 ==== kṛta-maitram  ====
   * endowed with good faith and friendship --- [[books:sb:6:2:5-6|SB 6.2.5-6]]

@@ -1,5 +1,11 @@
-~~Title:ājihaite~~
-{{description>from this day.}}
+---json
+{
+    "name":"ājihaite",
+    "h1":"ājihaite",
+    "title":"ājihaite -- synonyms, prabhupada.io",
+    "description":"from this day."
+}
+---
 
 ==== ājihaite  ====
   * from this day --- [[books:cc:madhya:1:208|Madhya 1.208]]

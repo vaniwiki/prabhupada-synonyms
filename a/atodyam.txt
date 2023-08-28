@@ -1,5 +1,11 @@
-~~Title:ātodyam~~
-{{description>the stringed instrument, vīṇā.}}
+---json
+{
+    "name":"ātodyam",
+    "h1":"ātodyam",
+    "title":"ātodyam -- synonyms, prabhupada.io",
+    "description":"the stringed instrument, vīṇā."
+}
+---
 
 ==== ātodyam  ====
   * the stringed instrument, //vīṇā// --- [[books:sb:4:12:40|SB 4.12.40]]

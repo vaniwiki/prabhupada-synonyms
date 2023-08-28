@@ -1,5 +1,11 @@
-~~Title:daihikaiḥ~~
-{{description>by bodily tribulations such as hunger, thirst and fatigue.}}
+---json
+{
+    "name":"daihikaiḥ",
+    "h1":"daihikaiḥ",
+    "title":"daihikaiḥ -- synonyms, prabhupada.io",
+    "description":"by bodily tribulations such as hunger, thirst and fatigue."
+}
+---
 
 ==== daihikaiḥ  ====
   * by bodily tribulations such as hunger, thirst and fatigue --- [[books:sb:5:19:12|SB 5.19.12]]

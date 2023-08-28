@@ -1,5 +1,11 @@
-~~Title:pravadataḥ~~
-{{description>while describing.}}
+---json
+{
+    "name":"pravadataḥ",
+    "h1":"pravadataḥ",
+    "title":"pravadataḥ -- synonyms, prabhupada.io",
+    "description":"while describing."
+}
+---
 
 ==== pravadataḥ  ====
   * while describing --- [[books:sb:1:9:29|SB 1.9.29]]

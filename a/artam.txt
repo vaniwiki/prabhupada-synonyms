@@ -1,5 +1,11 @@
-~~Title:artam~~
-{{description>distressed; who was very depressed (because of being attacked by the crocodile).}}
+---json
+{
+    "name":"artam",
+    "h1":"artam",
+    "title":"artam -- synonyms, prabhupada.io",
+    "description":"distressed; who was very depressed (because of being attacked by the crocodile)."
+}
+---
 
 ==== ārtam  ====
   * distressed --- [[books:sb:7:9:39|SB 7.9.39]]

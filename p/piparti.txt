@@ -1,5 +1,11 @@
-~~Title:piparti~~
-{{description>performs.}}
+---json
+{
+    "name":"piparti",
+    "h1":"piparti",
+    "title":"piparti -- synonyms, prabhupada.io",
+    "description":"performs."
+}
+---
 
 ==== piparti  ====
   * performs --- [[books:sb:3:32:1|SB 3.32.1]]

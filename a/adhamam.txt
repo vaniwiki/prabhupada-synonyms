@@ -1,5 +1,11 @@
-~~Title:adhamam~~
-{{description>condemned.}}
+---json
+{
+    "name":"adhamam",
+    "h1":"adhamam",
+    "title":"adhamam -- synonyms, prabhupada.io",
+    "description":"condemned."
+}
+---
 
 ==== adhamām  ====
   * condemned --- [[books:bg:16:20|Bg. 16.20]]

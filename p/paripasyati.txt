@@ -1,5 +1,11 @@
-~~Title:paripaśyati~~
-{{description>one sees; understands.}}
+---json
+{
+    "name":"paripaśyati",
+    "h1":"paripaśyati",
+    "title":"paripaśyati -- synonyms, prabhupada.io",
+    "description":"one sees; understands."
+}
+---
 
 ==== paripaśyati  ====
   * one sees --- [[books:sb:3:25:18|SB 3.25.18]]

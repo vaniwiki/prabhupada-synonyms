@@ -1,5 +1,11 @@
-~~Title:arjunere~~
-{{description>Arjuna; unto Arjuna.}}
+---json
+{
+    "name":"arjunere",
+    "h1":"arjunere",
+    "title":"arjunere -- synonyms, prabhupada.io",
+    "description":"Arjuna; unto Arjuna."
+}
+---
 
 ==== arjunere  ====
   * Arjuna --- [[books:cc:madhya:22:56|Madhya 22.56]]

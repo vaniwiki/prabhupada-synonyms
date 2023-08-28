@@ -1,5 +1,11 @@
-~~Title:apagacchati~~
-{{description>is spoiled.}}
+---json
+{
+    "name":"apagacchati",
+    "h1":"apagacchati",
+    "title":"apagacchati -- synonyms, prabhupada.io",
+    "description":"is spoiled."
+}
+---
 
 ==== apagacchati  ====
   * is spoiled --- [[books:noi:6|NoI 6]]

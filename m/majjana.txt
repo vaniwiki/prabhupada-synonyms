@@ -1,5 +1,11 @@
-~~Title:majjana~~
-{{description>by bathing (in that water); immersing.}}
+---json
+{
+    "name":"majjana",
+    "h1":"majjana",
+    "title":"majjana -- synonyms, prabhupada.io",
+    "description":"by bathing (in that water); immersing."
+}
+---
 
 ==== majjana  ====
   * by bathing (in that water) --- [[books:sb:8:2:8|SB 8.2.8]]

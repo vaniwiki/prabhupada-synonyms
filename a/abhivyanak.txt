@@ -1,5 +1,11 @@
-~~Title:abhivyanak~~
-{{description>manifested.}}
+---json
+{
+    "name":"abhivyanak",
+    "h1":"abhivyanak",
+    "title":"abhivyanak -- synonyms, prabhupada.io",
+    "description":"manifested."
+}
+---
 
 ==== abhivyanak  ====
   * manifested --- [[books:sb:7:3:26-27|SB 7.3.26-27]]

@@ -1,5 +1,11 @@
-~~Title:ghnam~~
-{{description>which vanquish all sinful reactions.}}
+---json
+{
+    "name":"ghnam",
+    "h1":"ghnam",
+    "title":"ghnam -- synonyms, prabhupada.io",
+    "description":"which vanquish all sinful reactions."
+}
+---
 
 ==== agha-ghnam  ====
   * which vanquish all sinful reactions --- [[books:sb:9:11:21|SB 9.11.21]]

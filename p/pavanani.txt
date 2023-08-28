@@ -1,5 +1,11 @@
-~~Title:pāvanāni~~
-{{description>purifying.}}
+---json
+{
+    "name":"pāvanāni",
+    "h1":"pāvanāni",
+    "title":"pāvanāni -- synonyms, prabhupada.io",
+    "description":"purifying."
+}
+---
 
 ==== pāvanāni  ====
   * purifying --- [[books:bg:18:5|Bg. 18.5]]

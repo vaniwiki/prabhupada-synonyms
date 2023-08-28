@@ -1,5 +1,11 @@
-~~Title:masṛṇita~~
-{{description>which makes the heart soft.}}
+---json
+{
+    "name":"masṛṇita",
+    "h1":"masṛṇita",
+    "title":"masṛṇita -- synonyms, prabhupada.io",
+    "description":"which makes the heart soft."
+}
+---
 
 ==== masṛṇita-svāntaḥ  ====
   * which makes the heart soft --- [[books:cc:madhya:23:7|Madhya 23.7]]

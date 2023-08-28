@@ -1,5 +1,11 @@
-~~Title:romāñca~~
-{{description>standing of the hairs on the body.}}
+---json
+{
+    "name":"romāñca",
+    "h1":"romāñca",
+    "title":"romāñca -- synonyms, prabhupada.io",
+    "description":"standing of the hairs on the body."
+}
+---
 
 ==== romāñca  ====
   * standing of the hairs on the body --- [[books:cc:adi:7:89-90|Ādi 7.89-90]]

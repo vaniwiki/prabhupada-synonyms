@@ -1,5 +1,11 @@
-~~Title:viṣadguḥ~~
-{{description>a son named Viṣadgu.}}
+---json
+{
+    "name":"viṣadguḥ",
+    "h1":"viṣadguḥ",
+    "title":"viṣadguḥ -- synonyms, prabhupada.io",
+    "description":"a son named Viṣadgu."
+}
+---
 
 ==== viṣadguḥ  ====
   * a son named Viṣadgu --- [[books:sb:9:23:30-31|SB 9.23.30-31]]

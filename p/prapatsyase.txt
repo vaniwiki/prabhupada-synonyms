@@ -1,5 +1,11 @@
-~~Title:prapatsyase~~
-{{description>you will attain; you will meet with.}}
+---json
+{
+    "name":"prapatsyase",
+    "h1":"prapatsyase",
+    "title":"prapatsyase -- synonyms, prabhupada.io",
+    "description":"you will attain; you will meet with."
+}
+---
 
 ==== prapatsyase  ====
   * you will attain --- [[books:sb:3:21:30|SB 3.21.30]]

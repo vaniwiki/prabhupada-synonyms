@@ -1,5 +1,11 @@
-~~Title:anīkam~~
-{{description>an army.}}
+---json
+{
+    "name":"anīkam",
+    "h1":"anīkam",
+    "title":"anīkam -- synonyms, prabhupada.io",
+    "description":"an army."
+}
+---
 
 ==== anīkam  ====
   * an army --- [[books:sb:4:10:16|SB 4.10.16]]

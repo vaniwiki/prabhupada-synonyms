@@ -1,5 +1,11 @@
-~~Title:vavuḥ~~
-{{description>blew.}}
+---json
+{
+    "name":"vavuḥ",
+    "h1":"vavuḥ",
+    "title":"vavuḥ -- synonyms, prabhupada.io",
+    "description":"blew."
+}
+---
 
 ==== vavuḥ  ====
   * blew --- [[books:sb:8:7:15|SB 8.7.15]]

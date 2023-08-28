@@ -1,5 +1,11 @@
-~~Title:modeta~~
-{{description>take pleasure.}}
+---json
+{
+    "name":"modeta",
+    "h1":"modeta",
+    "title":"modeta -- synonyms, prabhupada.io",
+    "description":"take pleasure."
+}
+---
 
 ==== modeta  ====
   * take pleasure --- [[books:sb:7:9:14|SB 7.9.14]]

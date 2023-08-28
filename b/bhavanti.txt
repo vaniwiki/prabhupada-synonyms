@@ -1,5 +1,11 @@
-~~Title:bhavanti~~
-{{description>abide; all become possible; appear; are; are existing; are generated; arise; become; become possible; can become; exist; flourish; grow; there are; they become.}}
+---json
+{
+    "name":"bhavanti",
+    "h1":"bhavanti",
+    "title":"bhavanti -- synonyms, prabhupada.io",
+    "description":"abide; all become possible; appear; are; are existing; are generated; arise; become; become possible; can become; exist; flourish; grow; there are; they become."
+}
+---
 
 ==== bhavanti  ====
   * abide --- [[books:sb:4:14:26-27|SB 4.14.26-27]]

@@ -1,5 +1,11 @@
-~~Title:tattvān~~
-{{description>the truth of the self.}}
+---json
+{
+    "name":"tattvān",
+    "h1":"tattvān",
+    "title":"tattvān -- synonyms, prabhupada.io",
+    "description":"the truth of the self."
+}
+---
 
 ==== ātma-tattvān  ====
   * the truth of the self --- [[books:sb:3:15:30|SB 3.15.30]]

@@ -1,5 +1,11 @@
-~~Title:āpūrṇa~~
-{{description>filled to the top.}}
+---json
+{
+    "name":"āpūrṇa",
+    "h1":"āpūrṇa",
+    "title":"āpūrṇa -- synonyms, prabhupada.io",
+    "description":"filled to the top."
+}
+---
 
 ==== āpūrṇa  ====
   * filled to the top --- [[books:sb:8:8:33|SB 8.8.33]]

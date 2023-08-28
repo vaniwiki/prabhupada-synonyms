@@ -1,5 +1,11 @@
-~~Title:dheya~~
-{{description>whose holy name is worth chanting.}}
+---json
+{
+    "name":"dheya",
+    "h1":"dheya",
+    "title":"dheya -- synonyms, prabhupada.io",
+    "description":"whose holy name is worth chanting."
+}
+---
 
 ==== nāma-dheya  ====
   * whose holy name is worth chanting --- [[books:sb:2:7:15|SB 2.7.15]]

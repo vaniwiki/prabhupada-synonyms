@@ -1,5 +1,11 @@
-~~Title:adhitiṣṭha~~
-{{description>accept.}}
+---json
+{
+    "name":"adhitiṣṭha",
+    "h1":"adhitiṣṭha",
+    "title":"adhitiṣṭha -- synonyms, prabhupada.io",
+    "description":"accept."
+}
+---
 
 ==== adhitiṣṭha  ====
   * accept --- [[books:sb:6:16:3|SB 6.16.3]]

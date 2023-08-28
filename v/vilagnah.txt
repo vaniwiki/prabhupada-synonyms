@@ -1,5 +1,11 @@
-~~Title:vilagnāḥ~~
-{{description>being attacked.}}
+---json
+{
+    "name":"vilagnāḥ",
+    "h1":"vilagnāḥ",
+    "title":"vilagnāḥ -- synonyms, prabhupada.io",
+    "description":"being attacked."
+}
+---
 
 ==== vilagnāḥ  ====
   * being attacked --- [[books:bg:11:26-27|Bg. 11.26-27]]

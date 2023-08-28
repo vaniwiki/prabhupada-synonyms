@@ -1,5 +1,11 @@
-~~Title:vanīyasaḥ~~
-{{description>voluntary appearance.}}
+---json
+{
+    "name":"vanīyasaḥ",
+    "h1":"vanīyasaḥ",
+    "title":"vanīyasaḥ -- synonyms, prabhupada.io",
+    "description":"voluntary appearance."
+}
+---
 
 ==== vanīyasaḥ  ====
   * voluntary appearance --- [[books:sb:1:19:36|SB 1.19.36]]

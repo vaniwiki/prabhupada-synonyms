@@ -1,5 +1,11 @@
-~~Title:kokilera~~
-{{description>to those who are just like cuckoo birds.}}
+---json
+{
+    "name":"kokilera",
+    "h1":"kokilera",
+    "title":"kokilera -- synonyms, prabhupada.io",
+    "description":"to those who are just like cuckoo birds."
+}
+---
 
 ==== kokilera  ====
   * to those who are just like cuckoo birds --- [[books:cc:adi:4:234|Ādi 4.234]]

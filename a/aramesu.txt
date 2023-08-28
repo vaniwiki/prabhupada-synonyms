@@ -1,5 +1,11 @@
-~~Title:ārāmeṣu~~
-{{description>one who is always engaged in spiritual bliss.}}
+---json
+{
+    "name":"ārāmeṣu",
+    "h1":"ārāmeṣu",
+    "title":"ārāmeṣu -- synonyms, prabhupada.io",
+    "description":"one who is always engaged in spiritual bliss."
+}
+---
 
 ==== ātma-ārāmeṣu  ====
   * one who is always engaged in spiritual bliss --- [[books:sb:4:22:14|SB 4.22.14]]

@@ -1,5 +1,11 @@
-~~Title:grasāmi~~
-{{description>I do withdraw also by the same energy.}}
+---json
+{
+    "name":"grasāmi",
+    "h1":"grasāmi",
+    "title":"grasāmi -- synonyms, prabhupada.io",
+    "description":"I do withdraw also by the same energy."
+}
+---
 
 ==== grasāmi tapasā  ====
   * I do withdraw also by the same energy --- [[books:sb:2:9:24|SB 2.9.24]]

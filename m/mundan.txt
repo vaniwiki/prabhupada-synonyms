@@ -1,5 +1,11 @@
-~~Title:muṇḍān~~
-{{description>shaved clean.}}
+---json
+{
+    "name":"muṇḍān",
+    "h1":"muṇḍān",
+    "title":"muṇḍān -- synonyms, prabhupada.io",
+    "description":"shaved clean."
+}
+---
 
 ==== muṇḍān  ====
   * shaved clean --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

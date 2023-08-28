@@ -1,5 +1,11 @@
-~~Title:sthitaye~~
-{{description>for its maintenance.}}
+---json
+{
+    "name":"sthitaye",
+    "h1":"sthitaye",
+    "title":"sthitaye -- synonyms, prabhupada.io",
+    "description":"for its maintenance."
+}
+---
 
 ==== sthitaye  ====
   * for its maintenance --- [[books:sb:5:25:13|SB 5.25.13]]

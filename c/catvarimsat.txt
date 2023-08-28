@@ -1,5 +1,11 @@
-~~Title:catvāriṁśat~~
-{{description>forty.}}
+---json
+{
+    "name":"catvāriṁśat",
+    "h1":"catvāriṁśat",
+    "title":"catvāriṁśat -- synonyms, prabhupada.io",
+    "description":"forty."
+}
+---
 
 ==== catvāriṁśat  ====
   * forty --- [[books:sb:4:1:61|SB 4.1.61]], [[books:sb:6:18:19|SB 6.18.19]]

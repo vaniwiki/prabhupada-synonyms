@@ -1,5 +1,11 @@
-~~Title:ādare~~
-{{description>with great love.}}
+---json
+{
+    "name":"ādare",
+    "h1":"ādare",
+    "title":"ādare -- synonyms, prabhupada.io",
+    "description":"with great love."
+}
+---
 
 ==== bahuta ādare  ====
   * with great love --- [[books:cc:madhya:9:284|Madhya 9.284]]

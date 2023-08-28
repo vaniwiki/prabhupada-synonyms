@@ -1,5 +1,11 @@
-~~Title:bhikṣukera~~
-{{description>of the mendicant.}}
+---json
+{
+    "name":"bhikṣukera",
+    "h1":"bhikṣukera",
+    "title":"bhikṣukera -- synonyms, prabhupada.io",
+    "description":"of the mendicant."
+}
+---
 
 ==== bhikṣukera  ====
   * of the mendicant --- [[books:cc:madhya:12:48|Madhya 12.48]]

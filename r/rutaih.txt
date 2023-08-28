@@ -1,5 +1,11 @@
-~~Title:rutaiḥ~~
-{{description>by resounding; with cries.}}
+---json
+{
+    "name":"rutaiḥ",
+    "h1":"rutaiḥ",
+    "title":"rutaiḥ -- synonyms, prabhupada.io",
+    "description":"by resounding; with cries."
+}
+---
 
 ==== rutaiḥ  ====
   * by resounding --- [[books:sb:10:11:39-40|SB 10.11.39-40]]

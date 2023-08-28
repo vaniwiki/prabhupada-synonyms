@@ -1,5 +1,11 @@
-~~Title:mādaka~~
-{{description>great intoxicant; highly enchanting.}}
+---json
+{
+    "name":"mādaka",
+    "h1":"mādaka",
+    "title":"mādaka -- synonyms, prabhupada.io",
+    "description":"great intoxicant; highly enchanting."
+}
+---
 
 ==== mahā-mādaka  ====
   * great intoxicant --- [[books:cc:adi:9:49|Ādi 9.49]]

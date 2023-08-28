@@ -1,5 +1,11 @@
-~~Title:caḍiha~~
-{{description>do not climb.}}
+---json
+{
+    "name":"caḍiha",
+    "h1":"caḍiha",
+    "title":"caḍiha -- synonyms, prabhupada.io",
+    "description":"do not climb."
+}
+---
 
 ==== nā caḍiha  ====
   * do not climb --- [[books:cc:antya:13:39|Antya 13.39]]

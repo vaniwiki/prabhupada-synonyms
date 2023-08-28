@@ -1,5 +1,11 @@
-~~Title:chāḍiha~~
-{{description>do not give up.}}
+---json
+{
+    "name":"chāḍiha",
+    "h1":"chāḍiha",
+    "title":"chāḍiha -- synonyms, prabhupada.io",
+    "description":"do not give up."
+}
+---
 
 ==== nā chāḍiha  ====
   * do not give up --- [[books:cc:madhya:16:130|Madhya 16.130]]

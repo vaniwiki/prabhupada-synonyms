@@ -1,5 +1,11 @@
-~~Title:karṇikāram~~
-{{description>the whorl of that lotus flower.}}
+---json
+{
+    "name":"karṇikāram",
+    "h1":"karṇikāram",
+    "title":"karṇikāram -- synonyms, prabhupada.io",
+    "description":"the whorl of that lotus flower."
+}
+---
 
 ==== tat-karṇikāram  ====
   * the whorl of that lotus flower --- [[books:cc:madhya:20:258|Madhya 20.258]]

@@ -1,5 +1,11 @@
-~~Title:gāhibeka~~
-{{description>glorify.}}
+---json
+{
+    "name":"gāhibeka",
+    "h1":"gāhibeka",
+    "title":"gāhibeka -- synonyms, prabhupada.io",
+    "description":"glorify."
+}
+---
 
 ==== gāhibeka  ====
   * glorify --- [[books:cc:adi:9:40|Ādi 9.40]]

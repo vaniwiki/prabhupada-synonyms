@@ -1,5 +1,11 @@
-~~Title:tejase~~
-{{description>unto the powerful.}}
+---json
+{
+    "name":"tejase",
+    "h1":"tejase",
+    "title":"tejase -- synonyms, prabhupada.io",
+    "description":"unto the powerful."
+}
+---
 
 ==== tejase  ====
   * unto the powerful --- [[books:sb:2:9:45|SB 2.9.45]]

@@ -1,5 +1,11 @@
-~~Title:pratibrūyām~~
-{{description>I may refuse.}}
+---json
+{
+    "name":"pratibrūyām",
+    "h1":"pratibrūyām",
+    "title":"pratibrūyām -- synonyms, prabhupada.io",
+    "description":"I may refuse."
+}
+---
 
 ==== pratibrūyām  ====
   * I may refuse --- [[books:sb:6:7:37|SB 6.7.37]]

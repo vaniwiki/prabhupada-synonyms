@@ -1,5 +1,11 @@
-~~Title:ānantyam~~
-{{description>liberation from material bondage; unlimited happiness, liberation.}}
+---json
+{
+    "name":"ānantyam",
+    "h1":"ānantyam",
+    "title":"ānantyam -- synonyms, prabhupada.io",
+    "description":"liberation from material bondage; unlimited happiness, liberation."
+}
+---
 
 ==== ānantyam  ====
   * liberation from material bondage --- [[books:sb:7:15:2|SB 7.15.2]]

@@ -1,5 +1,11 @@
-~~Title:avadhya~~
-{{description>a cow or calf, which is not to be killed.}}
+---json
+{
+    "name":"avadhya",
+    "h1":"avadhya",
+    "title":"avadhya -- synonyms, prabhupada.io",
+    "description":"a cow or calf, which is not to be killed."
+}
+---
 
 ==== avadhya  ====
   * a cow or calf, which is not to be killed --- [[books:cc:antya:3:160|Antya 3.160]]

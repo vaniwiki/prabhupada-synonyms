@@ -1,5 +1,11 @@
-~~Title:vivṛttaye~~
-{{description>for understanding.}}
+---json
+{
+    "name":"vivṛttaye",
+    "h1":"vivṛttaye",
+    "title":"vivṛttaye -- synonyms, prabhupada.io",
+    "description":"for understanding."
+}
+---
 
 ==== vivṛttaye  ====
   * for understanding --- [[books:sb:3:6:10|SB 3.6.10]]

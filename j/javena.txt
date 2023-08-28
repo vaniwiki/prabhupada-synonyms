@@ -1,5 +1,11 @@
-~~Title:javena~~
-{{description>because of going very fast; very forcibly; very hastily.}}
+---json
+{
+    "name":"javena",
+    "h1":"javena",
+    "title":"javena -- synonyms, prabhupada.io",
+    "description":"because of going very fast; very forcibly; very hastily."
+}
+---
 
 ==== javena  ====
   * because of going very fast --- [[books:sb:10:9:10|SB 10.9.10]]

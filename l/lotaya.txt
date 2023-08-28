@@ -1,5 +1,11 @@
-~~Title:loṭāya~~
-{{description>rolls.}}
+---json
+{
+    "name":"loṭāya",
+    "h1":"loṭāya",
+    "title":"loṭāya -- synonyms, prabhupada.io",
+    "description":"rolls."
+}
+---
 
 ==== loṭāya  ====
   * rolls --- [[books:cc:madhya:13:85|Madhya 13.85]], [[books:cc:madhya:13:107|Madhya 13.107]]

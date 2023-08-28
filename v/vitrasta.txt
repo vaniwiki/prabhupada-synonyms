@@ -1,5 +1,11 @@
-~~Title:vitrasta~~
-{{description>afraid.}}
+---json
+{
+    "name":"vitrasta",
+    "h1":"vitrasta",
+    "title":"vitrasta -- synonyms, prabhupada.io",
+    "description":"afraid."
+}
+---
 
 ==== vitrasta  ====
   * afraid --- [[books:sb:7:9:5|SB 7.9.5]]

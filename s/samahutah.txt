@@ -1,5 +1,11 @@
-~~Title:samahutah~~
-{{description>invited.}}
+---json
+{
+    "name":"samahutah",
+    "h1":"samahutah",
+    "title":"samahutah -- synonyms, prabhupada.io",
+    "description":"invited."
+}
+---
 
 ==== samāhutāḥ  ====
   * invited --- [[books:sb:3:3:3|SB 3.3.3]]

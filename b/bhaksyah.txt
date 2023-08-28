@@ -1,5 +1,11 @@
-~~Title:bhakṣyaḥ~~
-{{description>as eatable.}}
+---json
+{
+    "name":"bhakṣyaḥ",
+    "h1":"bhakṣyaḥ",
+    "title":"bhakṣyaḥ -- synonyms, prabhupada.io",
+    "description":"as eatable."
+}
+---
 
 ==== bhakṣyaḥ  ====
   * as eatable --- [[books:sb:9:9:32|SB 9.9.32]]

@@ -1,5 +1,11 @@
-~~Title:ānakam~~
-{{description>Ānaka.}}
+---json
+{
+    "name":"ānakam",
+    "h1":"ānakam",
+    "title":"ānakam -- synonyms, prabhupada.io",
+    "description":"Ānaka."
+}
+---
 
 ==== ānakam  ====
   * Ānaka --- [[books:sb:9:24:28-31|SB 9.24.28-31]]

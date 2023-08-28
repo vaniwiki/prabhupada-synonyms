@@ -1,5 +1,11 @@
-~~Title:manete~~
-{{description>in the mind; within his mind; within the mind.}}
+---json
+{
+    "name":"manete",
+    "h1":"manete",
+    "title":"manete -- synonyms, prabhupada.io",
+    "description":"in the mind; within his mind; within the mind."
+}
+---
 
 ==== manete  ====
   * in the mind --- [[books:cc:madhya:2:14|Madhya 2.14]], [[books:cc:madhya:5:126|Madhya 5.126]], [[books:cc:madhya:18:22|Madhya 18.22]]

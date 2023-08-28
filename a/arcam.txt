@@ -1,5 +1,11 @@
-~~Title:arcām~~
-{{description>the Deity; worshipable Deity.}}
+---json
+{
+    "name":"arcām",
+    "h1":"arcām",
+    "title":"arcām -- synonyms, prabhupada.io",
+    "description":"the Deity; worshipable Deity."
+}
+---
 
 ==== arcām  ====
   * the Deity --- [[books:sb:3:29:22|SB 3.29.22]]

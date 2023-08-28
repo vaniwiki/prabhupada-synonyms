@@ -1,5 +1,11 @@
-~~Title:kamala~~
-{{description>like lotus flowers; lotus flower; lotus flowers; the lotus flower.}}
+---json
+{
+    "name":"kamala",
+    "h1":"kamala",
+    "title":"kamala -- synonyms, prabhupada.io",
+    "description":"like lotus flowers; lotus flower; lotus flowers; the lotus flower."
+}
+---
 
 ==== kamala  ====
   * like lotus flowers --- [[books:cc:madhya:21:129|Madhya 21.129]]

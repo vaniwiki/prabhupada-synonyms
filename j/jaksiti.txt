@@ -1,5 +1,11 @@
-~~Title:jakṣiti~~
-{{description>he chewed.}}
+---json
+{
+    "name":"jakṣiti",
+    "h1":"jakṣiti",
+    "title":"jakṣiti -- synonyms, prabhupada.io",
+    "description":"he chewed."
+}
+---
 
 ==== jakṣiti  ====
   * he chewed --- [[books:sb:4:25:57-61|SB 4.25.57-61]]

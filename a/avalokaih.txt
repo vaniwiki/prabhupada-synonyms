@@ -1,5 +1,11 @@
-~~Title:avalokaiḥ~~
-{{description>the glance (of mercy).}}
+---json
+{
+    "name":"avalokaiḥ",
+    "h1":"avalokaiḥ",
+    "title":"avalokaiḥ -- synonyms, prabhupada.io",
+    "description":"the glance (of mercy)."
+}
+---
 
 ==== avalokaiḥ  ====
   * the glance (of mercy) --- [[books:sb:4:1:58|SB 4.1.58]]

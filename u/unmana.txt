@@ -1,5 +1,11 @@
-~~Title:unmāna~~
-{{description>the wooden seat and wooden measuring pot.}}
+---json
+{
+    "name":"unmāna",
+    "h1":"unmāna",
+    "title":"unmāna -- synonyms, prabhupada.io",
+    "description":"the wooden seat and wooden measuring pot."
+}
+---
 
 ==== pīṭhaka-unmāna  ====
   * the wooden seat and wooden measuring pot --- [[books:sb:10:11:8|SB 10.11.8]]

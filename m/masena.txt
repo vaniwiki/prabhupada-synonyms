@@ -1,5 +1,11 @@
-~~Title:māsena~~
-{{description>within a month.}}
+---json
+{
+    "name":"māsena",
+    "h1":"māsena",
+    "title":"māsena -- synonyms, prabhupada.io",
+    "description":"within a month."
+}
+---
 
 ==== māsena  ====
   * within a month --- [[books:sb:3:31:3|SB 3.31.3]]

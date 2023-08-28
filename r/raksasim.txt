@@ -1,5 +1,11 @@
-~~Title:rākṣasīm~~
-{{description>demonic.}}
+---json
+{
+    "name":"rākṣasīm",
+    "h1":"rākṣasīm",
+    "title":"rākṣasīm -- synonyms, prabhupada.io",
+    "description":"demonic."
+}
+---
 
 ==== rākṣasīm  ====
   * demonic --- [[books:bg:9:12|Bg. 9.12]]

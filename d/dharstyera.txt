@@ -1,5 +1,11 @@
-~~Title:dhārṣṭyera~~
-{{description>a wave of impudence.}}
+---json
+{
+    "name":"dhārṣṭyera",
+    "h1":"dhārṣṭyera",
+    "title":"dhārṣṭyera -- synonyms, prabhupada.io",
+    "description":"a wave of impudence."
+}
+---
 
 ==== dhārṣṭyera taraṅga  ====
   * a wave of impudence --- [[books:cc:antya:1:185|Antya 1.185]]

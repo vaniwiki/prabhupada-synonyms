@@ -1,5 +1,11 @@
-~~Title:paiḍa~~
-{{description>a coconut preparation; coconut; coconut preparation.}}
+---json
+{
+    "name":"paiḍa",
+    "h1":"paiḍa",
+    "title":"paiḍa -- synonyms, prabhupada.io",
+    "description":"a coconut preparation; coconut; coconut preparation."
+}
+---
 
 ==== paiḍa  ====
   * a coconut preparation --- [[books:cc:antya:10:109|Antya 10.109]]

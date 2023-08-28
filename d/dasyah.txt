@@ -1,5 +1,11 @@
-~~Title:dasyah~~
-{{description>Your maidservants.}}
+---json
+{
+    "name":"dasyah",
+    "h1":"dasyah",
+    "title":"dasyah -- synonyms, prabhupada.io",
+    "description":"Your maidservants."
+}
+---
 
 ==== dāsyaḥ  ====
   * Your maidservants --- [[books:cc:madhya:24:50|Madhya 24.50]], [[books:cc:antya:15:70|Antya 15.70]]

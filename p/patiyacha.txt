@@ -1,5 +1,11 @@
-~~Title:pātiyācha~~
-{{description>have set up a market.}}
+---json
+{
+    "name":"pātiyācha",
+    "h1":"pātiyācha",
+    "title":"pātiyācha -- synonyms, prabhupada.io",
+    "description":"have set up a market."
+}
+---
 
 ==== pātiyācha hāṭa  ====
   * have set up a market --- [[books:cc:antya:3:82|Antya 3.82]]

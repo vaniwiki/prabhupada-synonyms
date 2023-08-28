@@ -1,5 +1,11 @@
-~~Title:paridehi~~
-{{description>please give away; specifically grant us.}}
+---json
+{
+    "name":"paridehi",
+    "h1":"paridehi",
+    "title":"paridehi -- synonyms, prabhupada.io",
+    "description":"please give away; specifically grant us."
+}
+---
 
 ==== paridehi  ====
   * please give away --- [[books:sb:3:24:15|SB 3.24.15]]

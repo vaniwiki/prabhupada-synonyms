@@ -1,5 +1,11 @@
-~~Title:bhārgabhūmiḥ~~
-{{description>a son named Bhārgabhūmi.}}
+---json
+{
+    "name":"bhārgabhūmiḥ",
+    "h1":"bhārgabhūmiḥ",
+    "title":"bhārgabhūmiḥ -- synonyms, prabhupada.io",
+    "description":"a son named Bhārgabhūmi."
+}
+---
 
 ==== bhārgabhūmiḥ  ====
   * a son named Bhārgabhūmi --- [[books:sb:9:17:9|SB 9.17.9]]

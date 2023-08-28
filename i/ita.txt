@@ -1,5 +1,11 @@
-~~Title:ita~~
-{{description>there would have been.}}
+---json
+{
+    "name":"ita",
+    "h1":"ita",
+    "title":"ita -- synonyms, prabhupada.io",
+    "description":"there would have been."
+}
+---
 
 ==== ha-ita  ====
   * there would have been --- [[books:cc:antya:13:85|Antya 13.85]]

@@ -1,5 +1,11 @@
-~~Title:daurbalyam~~
-{{description>weakness.}}
+---json
+{
+    "name":"daurbalyam",
+    "h1":"daurbalyam",
+    "title":"daurbalyam -- synonyms, prabhupada.io",
+    "description":"weakness."
+}
+---
 
 ==== daurbalyam  ====
   * weakness --- [[books:bg:2:3|Bg. 2.3]]

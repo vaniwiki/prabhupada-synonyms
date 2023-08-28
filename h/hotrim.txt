@@ -1,5 +1,11 @@
-~~Title:hotrīm~~
-{{description>absolutely necessary for the production of yogurt, milk and ghee to offer as oblations in the fire.}}
+---json
+{
+    "name":"hotrīm",
+    "h1":"hotrīm",
+    "title":"hotrīm -- synonyms, prabhupada.io",
+    "description":"absolutely necessary for the production of yogurt, milk and ghee to offer as oblations in the fire."
+}
+---
 
 ==== agni-hotrīm  ====
   * absolutely necessary for the production of yogurt, milk and ghee to offer as oblations in the fire --- [[books:sb:8:8:2|SB 8.8.2]]

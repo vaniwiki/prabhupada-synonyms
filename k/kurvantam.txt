@@ -1,5 +1,11 @@
-~~Title:kurvantam~~
-{{description>making.}}
+---json
+{
+    "name":"kurvantam",
+    "h1":"kurvantam",
+    "title":"kurvantam -- synonyms, prabhupada.io",
+    "description":"making."
+}
+---
 
 ==== kurvantam  ====
   * making --- [[books:sb:4:2:5|SB 4.2.5]]

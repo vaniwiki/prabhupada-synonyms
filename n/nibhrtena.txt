@@ -1,5 +1,11 @@
-~~Title:nibhṛtena~~
-{{description>with great pleasure.}}
+---json
+{
+    "name":"nibhṛtena",
+    "h1":"nibhṛtena",
+    "title":"nibhṛtena -- synonyms, prabhupada.io",
+    "description":"with great pleasure."
+}
+---
 
 ==== nibhṛtena cetasā  ====
   * with great pleasure --- [[books:sb:6:18:22|SB 6.18.22]]

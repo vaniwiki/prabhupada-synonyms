@@ -1,5 +1,11 @@
-~~Title:nirbibhide~~
-{{description>appeared.}}
+---json
+{
+    "name":"nirbibhide",
+    "h1":"nirbibhide",
+    "title":"nirbibhide -- synonyms, prabhupada.io",
+    "description":"appeared."
+}
+---
 
 ==== nirbibhide  ====
   * appeared --- [[books:sb:3:26:56|SB 3.26.56]]

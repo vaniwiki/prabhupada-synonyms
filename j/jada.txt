@@ -1,5 +1,11 @@
-~~Title:jaḍa~~
-{{description>dull; dumb; foolish; idle; inert; invalid; material.}}
+---json
+{
+    "name":"jaḍa",
+    "h1":"jaḍa",
+    "title":"jaḍa -- synonyms, prabhupada.io",
+    "description":"dull; dumb; foolish; idle; inert; invalid; material."
+}
+---
 
 ==== jaḍa  ====
   * dull --- [[books:sb:5:9:3|SB 5.9.3]], [[books:sb:5:9:9-10|SB 5.9.9-10]], [[books:cc:madhya:6:214|Madhya 6.214]], [[books:cc:madhya:21:133|Madhya 21.133]]

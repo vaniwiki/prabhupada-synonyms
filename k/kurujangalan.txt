@@ -1,5 +1,11 @@
-~~Title:kurujāṅgalān~~
-{{description>the kingdom of western India up to the Delhi province.}}
+---json
+{
+    "name":"kurujāṅgalān",
+    "h1":"kurujāṅgalān",
+    "title":"kurujāṅgalān -- synonyms, prabhupada.io",
+    "description":"the kingdom of western India up to the Delhi province."
+}
+---
 
 ==== kurujāṅgalān  ====
   * the kingdom of western India up to the Delhi province --- [[books:sb:3:1:24|SB 3.1.24]]

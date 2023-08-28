@@ -1,5 +1,11 @@
-~~Title:tṛṇaiḥ~~
-{{description>with grass.}}
+---json
+{
+    "name":"tṛṇaiḥ",
+    "h1":"tṛṇaiḥ",
+    "title":"tṛṇaiḥ -- synonyms, prabhupada.io",
+    "description":"with grass."
+}
+---
 
 ==== tṛṇaiḥ  ====
   * with grass --- [[books:sb:3:31:40|SB 3.31.40]]

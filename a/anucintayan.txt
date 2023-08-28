@@ -1,5 +1,11 @@
-~~Title:anucintayan~~
-{{description>constantly thinking of; thinking, feeling and willing.}}
+---json
+{
+    "name":"anucintayan",
+    "h1":"anucintayan",
+    "title":"anucintayan -- synonyms, prabhupada.io",
+    "description":"constantly thinking of; thinking, feeling and willing."
+}
+---
 
 ==== anucintayan  ====
   * constantly thinking of --- [[books:bg:8:8|Bg. 8.8]]

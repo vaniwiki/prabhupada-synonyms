@@ -1,5 +1,11 @@
-~~Title:vastubhiḥ~~
-{{description>with all requisite things.}}
+---json
+{
+    "name":"vastubhiḥ",
+    "h1":"vastubhiḥ",
+    "title":"vastubhiḥ -- synonyms, prabhupada.io",
+    "description":"with all requisite things."
+}
+---
 
 ==== vastubhiḥ  ====
   * with all requisite things --- [[books:sb:9:18:47|SB 9.18.47]]

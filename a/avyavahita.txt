@@ -1,5 +1,11 @@
-~~Title:avyavahitā~~
-{{description>not separated; uninterrupted.}}
+---json
+{
+    "name":"avyavahitā",
+    "h1":"avyavahitā",
+    "title":"avyavahitā -- synonyms, prabhupada.io",
+    "description":"not separated; uninterrupted."
+}
+---
 
 ==== avyavahitā  ====
   * not separated --- [[books:sb:3:29:11-12|SB 3.29.11-12]]

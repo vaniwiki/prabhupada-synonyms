@@ -1,5 +1,11 @@
-~~Title:ankura~~
-{{description>buds; fructification; sprout; sprouts; the seed; twigs.}}
+---json
+{
+    "name":"ankura",
+    "h1":"ankura",
+    "title":"ankura -- synonyms, prabhupada.io",
+    "description":"buds; fructification; sprout; sprouts; the seed; twigs."
+}
+---
 
 ==== aṅkura  ====
   * buds --- [[books:sb:4:8:55|SB 4.8.55]]

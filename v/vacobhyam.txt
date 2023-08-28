@@ -1,5 +1,11 @@
-~~Title:vacobhyām~~
-{{description>words.}}
+---json
+{
+    "name":"vacobhyām",
+    "h1":"vacobhyām",
+    "title":"vacobhyām -- synonyms, prabhupada.io",
+    "description":"words."
+}
+---
 
 ==== vacobhyām  ====
   * words --- [[books:sb:10:2:36|SB 10.2.36]]

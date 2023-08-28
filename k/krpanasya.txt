@@ -1,5 +1,11 @@
-~~Title:kṛpaṇasya~~
-{{description>a most unhappy creature; of one who is miserly; of the poor.}}
+---json
+{
+    "name":"kṛpaṇasya",
+    "h1":"kṛpaṇasya",
+    "title":"kṛpaṇasya -- synonyms, prabhupada.io",
+    "description":"a most unhappy creature; of one who is miserly; of the poor."
+}
+---
 
 ==== kṛpaṇasya  ====
   * a most unhappy creature --- [[books:sb:5:8:23|SB 5.8.23]]

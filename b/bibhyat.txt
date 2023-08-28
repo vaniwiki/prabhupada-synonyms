@@ -1,5 +1,11 @@
-~~Title:bibhyat~~
-{{description>fearing.}}
+---json
+{
+    "name":"bibhyat",
+    "h1":"bibhyat",
+    "title":"bibhyat -- synonyms, prabhupada.io",
+    "description":"fearing."
+}
+---
 
 ==== bibhyat  ====
   * fearing --- [[books:sb:5:14:38|SB 5.14.38]]

@@ -1,5 +1,11 @@
-~~Title:surya~~
-{{description>as the sun; like the sun; of the name Sūrya; of the sun; sun; suns; the destination of the sūris (great devotees); the sun; the sun-god.}}
+---json
+{
+    "name":"surya",
+    "h1":"surya",
+    "title":"surya -- synonyms, prabhupada.io",
+    "description":"as the sun; like the sun; of the name Sūrya; of the sun; sun; suns; the destination of the sūris (great devotees); the sun; the sun-god."
+}
+---
 
 ==== sūrya  ====
   * as the sun --- [[books:sb:4:22:1|SB 4.22.1]]

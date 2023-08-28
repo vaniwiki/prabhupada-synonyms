@@ -1,5 +1,11 @@
-~~Title:yarhi~~
-{{description>as if; as soon as; at any time (past, present or future); at any time; at which time; because; when; when it happens; whenever.}}
+---json
+{
+    "name":"yarhi",
+    "h1":"yarhi",
+    "title":"yarhi -- synonyms, prabhupada.io",
+    "description":"as if; as soon as; at any time (past, present or future); at any time; at which time; because; when; when it happens; whenever."
+}
+---
 
 ==== yarhi  ====
   * as if --- [[books:sb:1:8:38|SB 1.8.38]]

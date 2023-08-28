@@ -1,5 +1,11 @@
-~~Title:paritapyate~~
-{{description>is feeling pain.}}
+---json
+{
+    "name":"paritapyate",
+    "h1":"paritapyate",
+    "title":"paritapyate -- synonyms, prabhupada.io",
+    "description":"is feeling pain."
+}
+---
 
 ==== paritapyate  ====
   * is feeling pain --- [[books:sb:4:3:20|SB 4.3.20]]

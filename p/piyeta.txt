@@ -1,5 +1,11 @@
-~~Title:pīyeta~~
-{{description>let them drink.}}
+---json
+{
+    "name":"pīyeta",
+    "h1":"pīyeta",
+    "title":"pīyeta -- synonyms, prabhupada.io",
+    "description":"let them drink."
+}
+---
 
 ==== pīyeta  ====
   * let them drink --- [[books:sb:1:16:8|SB 1.16.8]]

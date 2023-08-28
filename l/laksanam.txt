@@ -1,5 +1,11 @@
-~~Title:laksanam~~
-{{description>a symptom; characteristic; characteristics; characterized by; definition; description; mark; marked in that way; possessed of; symptom; symptomized; symptoms; the characteristics; the distinctive features; the manifestation; the nature; the symptom; traits.}}
+---json
+{
+    "name":"laksanam",
+    "h1":"laksanam",
+    "title":"laksanam -- synonyms, prabhupada.io",
+    "description":"a symptom; characteristic; characteristics; characterized by; definition; description; mark; marked in that way; possessed of; symptom; symptomized; symptoms; the characteristics; the distinctive features; the manifestation; the nature; the symptom; traits."
+}
+---
 
 ==== lakṣaṇam  ====
   * a symptom --- [[books:cc:adi:17:308|Ādi 17.308]]

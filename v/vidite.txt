@@ -1,5 +1,11 @@
-~~Title:vidite~~
-{{description>is well-known.}}
+---json
+{
+    "name":"vidite",
+    "h1":"vidite",
+    "title":"vidite -- synonyms, prabhupada.io",
+    "description":"is well-known."
+}
+---
 
 ==== haya ta' vidite  ====
   * is well-known --- [[books:cc:antya:3:91|Antya 3.91]]

@@ -1,5 +1,11 @@
-~~Title:abhyabhūt~~
-{{description>could not overcome.}}
+---json
+{
+    "name":"abhyabhūt",
+    "h1":"abhyabhūt",
+    "title":"abhyabhūt -- synonyms, prabhupada.io",
+    "description":"could not overcome."
+}
+---
 
 ==== na abhyabhūt  ====
   * could not overcome --- [[books:sb:6:13:17|SB 6.13.17]]

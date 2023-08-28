@@ -1,5 +1,11 @@
-~~Title:jvalanam~~
-{{description>fire.}}
+---json
+{
+    "name":"jvalanam",
+    "h1":"jvalanam",
+    "title":"jvalanam -- synonyms, prabhupada.io",
+    "description":"fire."
+}
+---
 
 ==== jvalanam  ====
   * fire --- [[books:bg:11:29|Bg. 11.29]]

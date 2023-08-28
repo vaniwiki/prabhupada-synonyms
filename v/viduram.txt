@@ -1,5 +1,11 @@
-~~Title:viduram~~
-{{description>a son named Vidura; to Vidura; unto Vidura.}}
+---json
+{
+    "name":"viduram",
+    "h1":"viduram",
+    "title":"viduram -- synonyms, prabhupada.io",
+    "description":"a son named Vidura; to Vidura; unto Vidura."
+}
+---
 
 ==== viduram  ====
   * a son named Vidura --- [[books:sb:9:22:25|SB 9.22.25]]

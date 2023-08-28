@@ -1,5 +1,11 @@
-~~Title:mulukera~~
-{{description>of that country; of the country.}}
+---json
+{
+    "name":"mulukera",
+    "h1":"mulukera",
+    "title":"mulukera -- synonyms, prabhupada.io",
+    "description":"of that country; of the country."
+}
+---
 
 ==== mulukera  ====
   * of that country --- [[books:cc:antya:3:166|Antya 3.166]]

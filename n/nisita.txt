@@ -1,5 +1,11 @@
-~~Title:niśita~~
-{{description>sharp; strengthened.}}
+---json
+{
+    "name":"niśita",
+    "h1":"niśita",
+    "title":"niśita -- synonyms, prabhupada.io",
+    "description":"sharp; strengthened."
+}
+---
 
 ==== niśita  ====
   * sharp --- [[books:sb:1:9:34|SB 1.9.34]], [[books:cc:antya:1:167|Antya 1.167]]

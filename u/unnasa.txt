@@ -1,5 +1,11 @@
-~~Title:unnasa~~
-{{description>high nose; prominent nose.}}
+---json
+{
+    "name":"unnasa",
+    "h1":"unnasa",
+    "title":"unnasa -- synonyms, prabhupada.io",
+    "description":"high nose; prominent nose."
+}
+---
 
 ==== unnasa  ====
   * high nose --- [[books:sb:1:19:26|SB 1.19.26]]

@@ -1,5 +1,11 @@
-~~Title:uttarāṣāḍhe~~
-{{description>the stars named Abhijit and Uttarāṣāḍhā.}}
+---json
+{
+    "name":"uttarāṣāḍhe",
+    "h1":"uttarāṣāḍhe",
+    "title":"uttarāṣāḍhe -- synonyms, prabhupada.io",
+    "description":"the stars named Abhijit and Uttarāṣāḍhā."
+}
+---
 
 ==== abhijit-uttarāṣāḍhe  ====
   * the stars named Abhijit and Uttarāṣāḍhā --- [[books:sb:5:23:6|SB 5.23.6]]

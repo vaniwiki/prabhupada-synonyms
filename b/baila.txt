@@ -1,5 +1,11 @@
-~~Title:baila~~
-{{description>said.}}
+---json
+{
+    "name":"baila",
+    "h1":"baila",
+    "title":"baila -- synonyms, prabhupada.io",
+    "description":"said."
+}
+---
 
 ==== baila  ====
   * said --- [[books:cc:adi:14:24|Ādi 14.24]], [[books:cc:adi:16:42|Ādi 16.42]]

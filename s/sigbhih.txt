@@ -1,5 +1,11 @@
-~~Title:śigbhiḥ~~
-{{description>some actually in the basket or packet.}}
+---json
+{
+    "name":"śigbhiḥ",
+    "h1":"śigbhiḥ",
+    "title":"śigbhiḥ -- synonyms, prabhupada.io",
+    "description":"some actually in the basket or packet."
+}
+---
 
 ==== śigbhiḥ  ====
   * some actually in the basket or packet --- [[books:sb:10:13:9|SB 10.13.9]]

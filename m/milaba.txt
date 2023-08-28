@@ -1,5 +1,11 @@
-~~Title:milāba~~
-{{description>I shall arrange for a meeting with all of you.}}
+---json
+{
+    "name":"milāba",
+    "h1":"milāba",
+    "title":"milāba -- synonyms, prabhupada.io",
+    "description":"I shall arrange for a meeting with all of you."
+}
+---
 
 ==== milāba sabāre  ====
   * I shall arrange for a meeting with all of you --- [[books:cc:madhya:10:28|Madhya 10.28]]

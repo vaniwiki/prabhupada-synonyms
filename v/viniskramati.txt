@@ -1,5 +1,11 @@
-~~Title:viniṣkrāmati~~
-{{description>he comes out.}}
+---json
+{
+    "name":"viniṣkrāmati",
+    "h1":"viniṣkrāmati",
+    "title":"viniṣkrāmati -- synonyms, prabhupada.io",
+    "description":"he comes out."
+}
+---
 
 ==== viniṣkrāmati  ====
   * he comes out --- [[books:sb:3:31:23|SB 3.31.23]]

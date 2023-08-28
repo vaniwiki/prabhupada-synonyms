@@ -1,5 +1,11 @@
-~~Title:bhrāmyati~~
-{{description>becomes overwhelmed; is flickering; moves.}}
+---json
+{
+    "name":"bhrāmyati",
+    "h1":"bhrāmyati",
+    "title":"bhrāmyati -- synonyms, prabhupada.io",
+    "description":"becomes overwhelmed; is flickering; moves."
+}
+---
 
 ==== bhrāmyati  ====
   * becomes overwhelmed --- [[books:cc:madhya:4:197|Madhya 4.197]], [[books:cc:antya:8:34|Antya 8.34]]

@@ -1,5 +1,11 @@
-~~Title:mṛgayuḥ~~
-{{description>the hunter.}}
+---json
+{
+    "name":"mṛgayuḥ",
+    "h1":"mṛgayuḥ",
+    "title":"mṛgayuḥ -- synonyms, prabhupada.io",
+    "description":"the hunter."
+}
+---
 
 ==== mṛgayuḥ  ====
   * the hunter --- [[books:sb:4:13:40|SB 4.13.40]]

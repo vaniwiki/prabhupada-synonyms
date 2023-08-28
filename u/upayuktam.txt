@@ -1,5 +1,11 @@
-~~Title:upayuktam~~
-{{description>properly taken.}}
+---json
+{
+    "name":"upayuktam",
+    "h1":"upayuktam",
+    "title":"upayuktam -- synonyms, prabhupada.io",
+    "description":"properly taken."
+}
+---
 
 ==== upayuktam  ====
   * properly taken --- [[books:sb:6:2:19|SB 6.2.19]]

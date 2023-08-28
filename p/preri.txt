@@ -1,5 +1,11 @@
-~~Title:preri'~~
-{{description>sending.}}
+---json
+{
+    "name":"preri'",
+    "h1":"preri'",
+    "title":"preri' -- synonyms, prabhupada.io",
+    "description":"sending."
+}
+---
 
 ==== preri'  ====
   * sending --- [[books:cc:madhya:8:213|Madhya 8.213]]

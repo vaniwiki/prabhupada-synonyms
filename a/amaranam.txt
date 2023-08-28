@@ -1,5 +1,11 @@
-~~Title:amarāṇām~~
-{{description>of the demigods.}}
+---json
+{
+    "name":"amarāṇām",
+    "h1":"amarāṇām",
+    "title":"amarāṇām -- synonyms, prabhupada.io",
+    "description":"of the demigods."
+}
+---
 
 ==== amarāṇām  ====
   * of the demigods --- [[books:sb:5:22:9|SB 5.22.9]]

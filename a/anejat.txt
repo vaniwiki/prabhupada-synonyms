@@ -1,5 +1,11 @@
-~~Title:anejat~~
-{{description>fixed; not moving.}}
+---json
+{
+    "name":"anejat",
+    "h1":"anejat",
+    "title":"anejat -- synonyms, prabhupada.io",
+    "description":"fixed; not moving."
+}
+---
 
 ==== anejat  ====
   * fixed --- [[books:iso:4|Īśo 4]]

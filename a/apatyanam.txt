@@ -1,5 +1,11 @@
-~~Title:apatyānām~~
-{{description>with their offspring.}}
+---json
+{
+    "name":"apatyānām",
+    "h1":"apatyānām",
+    "title":"apatyānām -- synonyms, prabhupada.io",
+    "description":"with their offspring."
+}
+---
 
 ==== sa-apatyānām  ====
   * with their offspring --- [[books:sb:6:6:3|SB 6.6.3]]

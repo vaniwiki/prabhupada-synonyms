@@ -1,5 +1,11 @@
-~~Title:kuṭhāraiḥ~~
-{{description>by axes.}}
+---json
+{
+    "name":"kuṭhāraiḥ",
+    "h1":"kuṭhāraiḥ",
+    "title":"kuṭhāraiḥ -- synonyms, prabhupada.io",
+    "description":"by axes."
+}
+---
 
 ==== kuṭhāraiḥ  ====
   * by axes --- [[books:sb:4:28:26|SB 4.28.26]]

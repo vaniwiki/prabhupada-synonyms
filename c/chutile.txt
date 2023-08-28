@@ -1,5 +1,11 @@
-~~Title:chuṭile~~
-{{description>being separated.}}
+---json
+{
+    "name":"chuṭile",
+    "h1":"chuṭile",
+    "title":"chuṭile -- synonyms, prabhupada.io",
+    "description":"being separated."
+}
+---
 
 ==== chuṭile  ====
   * being separated --- [[books:cc:antya:18:53|Antya 18.53]]

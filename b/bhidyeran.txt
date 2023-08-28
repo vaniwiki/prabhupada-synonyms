@@ -1,5 +1,11 @@
-~~Title:bhidyeran~~
-{{description>they would be broken.}}
+---json
+{
+    "name":"bhidyeran",
+    "h1":"bhidyeran",
+    "title":"bhidyeran -- synonyms, prabhupada.io",
+    "description":"they would be broken."
+}
+---
 
 ==== bhidyeran  ====
   * they would be broken --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

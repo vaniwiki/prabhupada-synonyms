@@ -1,5 +1,11 @@
-~~Title:paridhīn~~
-{{description>all directions.}}
+---json
+{
+    "name":"paridhīn",
+    "h1":"paridhīn",
+    "title":"paridhīn -- synonyms, prabhupada.io",
+    "description":"all directions."
+}
+---
 
 ==== paridhīn  ====
   * all directions --- [[books:sb:8:15:10-11|SB 8.15.10-11]]

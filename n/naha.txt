@@ -1,5 +1,11 @@
-~~Title:naha~~
-{{description>are not; do not be; You are not.}}
+---json
+{
+    "name":"naha",
+    "h1":"naha",
+    "title":"naha -- synonyms, prabhupada.io",
+    "description":"are not; do not be; You are not."
+}
+---
 
 ==== naha  ====
   * are not --- [[books:cc:madhya:5:96|Madhya 5.96]], [[books:cc:madhya:10:58|Madhya 10.58]]

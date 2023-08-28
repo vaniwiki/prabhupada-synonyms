@@ -1,5 +1,11 @@
-~~Title:śraddhāra~~
-{{description>with faith and love.}}
+---json
+{
+    "name":"śraddhāra",
+    "h1":"śraddhāra",
+    "title":"śraddhāra -- synonyms, prabhupada.io",
+    "description":"with faith and love."
+}
+---
 
 ==== śraddhāra  ====
   * with faith and love --- [[books:cc:antya:10:132|Antya 10.132]]

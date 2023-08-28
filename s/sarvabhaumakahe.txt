@@ -1,5 +1,11 @@
-~~Title:sārvabhaumakahe~~
-{{description>Sārvabhauma Bhaṭṭācārya said.}}
+---json
+{
+    "name":"sārvabhaumakahe",
+    "h1":"sārvabhaumakahe",
+    "title":"sārvabhaumakahe -- synonyms, prabhupada.io",
+    "description":"Sārvabhauma Bhaṭṭācārya said."
+}
+---
 
 ==== sārvabhaumakahe  ====
   * Sārvabhauma Bhaṭṭācārya said --- [[books:cc:madhya:12:15|Madhya 12.15]]

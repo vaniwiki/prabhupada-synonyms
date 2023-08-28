@@ -1,5 +1,11 @@
-~~Title:cikitsitum~~
-{{description>to be treated.}}
+---json
+{
+    "name":"cikitsitum",
+    "h1":"cikitsitum",
+    "title":"cikitsitum -- synonyms, prabhupada.io",
+    "description":"to be treated."
+}
+---
 
 ==== cikitsitum  ====
   * to be treated --- [[books:sb:10:4:38|SB 10.4.38]]

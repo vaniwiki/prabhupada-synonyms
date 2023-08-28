@@ -1,5 +1,11 @@
-~~Title:vikāi~~
-{{description>I sell.}}
+---json
+{
+    "name":"vikāi",
+    "h1":"vikāi",
+    "title":"vikāi -- synonyms, prabhupada.io",
+    "description":"I sell."
+}
+---
 
 ==== vikāi  ====
   * I sell --- [[books:cc:antya:12:74|Antya 12.74]]

@@ -1,5 +1,11 @@
-~~Title:sasti~~
-{{description>rules.}}
+---json
+{
+    "name":"sasti",
+    "h1":"sasti",
+    "title":"sasti -- synonyms, prabhupada.io",
+    "description":"rules."
+}
+---
 
 ==== śāsti  ====
   * rules --- [[books:sb:3:21:25|SB 3.21.25]]

@@ -1,5 +1,11 @@
-~~Title:jīvitena~~
-{{description>by living.}}
+---json
+{
+    "name":"jīvitena",
+    "h1":"jīvitena",
+    "title":"jīvitena -- synonyms, prabhupada.io",
+    "description":"by living."
+}
+---
 
 ==== jīvitena  ====
   * by living --- [[books:bg:1:32-35|Bg. 1.32-35]]

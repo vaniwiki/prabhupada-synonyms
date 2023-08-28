@@ -1,5 +1,11 @@
-~~Title:caturdaśam~~
-{{description>the fourteenth in the line.}}
+---json
+{
+    "name":"caturdaśam",
+    "h1":"caturdaśam",
+    "title":"caturdaśam -- synonyms, prabhupada.io",
+    "description":"the fourteenth in the line."
+}
+---
 
 ==== caturdaśam  ====
   * the fourteenth in the line --- [[books:sb:1:3:18|SB 1.3.18]]

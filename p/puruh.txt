@@ -1,5 +1,11 @@
-~~Title:puruh~~
-{{description>a son named Puru.}}
+---json
+{
+    "name":"puruh",
+    "h1":"puruh",
+    "title":"puruh -- synonyms, prabhupada.io",
+    "description":"a son named Puru."
+}
+---
 
 ==== puruḥ  ====
   * a son named Puru --- [[books:sb:9:15:4|SB 9.15.4]]

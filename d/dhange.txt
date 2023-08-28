@@ -1,5 +1,11 @@
-~~Title:ḍhaṅge~~
-{{description>behavior; imposter.}}
+---json
+{
+    "name":"ḍhaṅge",
+    "h1":"ḍhaṅge",
+    "title":"ḍhaṅge -- synonyms, prabhupada.io",
+    "description":"behavior; imposter."
+}
+---
 
 ==== ḍhaṅge  ====
   * behavior --- [[books:cc:madhya:3:96|Madhya 3.96]]

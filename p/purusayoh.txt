@@ -1,5 +1,11 @@
-~~Title:purusayoh~~
-{{description>and of men.}}
+---json
+{
+    "name":"purusayoh",
+    "h1":"purusayoh",
+    "title":"purusayoh -- synonyms, prabhupada.io",
+    "description":"and of men."
+}
+---
 
 ==== puruṣayoḥ  ====
   * and of men --- [[books:sb:4:11:15|SB 4.11.15]]

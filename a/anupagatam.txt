@@ -1,5 +1,11 @@
-~~Title:anupāgatam~~
-{{description>now returned home.}}
+---json
+{
+    "name":"anupāgatam",
+    "h1":"anupāgatam",
+    "title":"anupāgatam -- synonyms, prabhupada.io",
+    "description":"now returned home."
+}
+---
 
 ==== gṛha-anupāgatam  ====
   * now returned home --- [[books:sb:1:11:31|SB 1.11.31]]

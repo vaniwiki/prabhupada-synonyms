@@ -1,5 +1,11 @@
-~~Title:nimitaḥ~~
-{{description>ordained.}}
+---json
+{
+    "name":"nimitaḥ",
+    "h1":"nimitaḥ",
+    "title":"nimitaḥ -- synonyms, prabhupada.io",
+    "description":"ordained."
+}
+---
 
 ==== nimitaḥ  ====
   * ordained --- [[books:sb:3:16:26|SB 3.16.26]]

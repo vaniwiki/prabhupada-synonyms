@@ -1,5 +1,11 @@
-~~Title:agamah~~
-{{description>did contact; difficult to obtain.}}
+---json
+{
+    "name":"agamah",
+    "h1":"agamah",
+    "title":"agamah -- synonyms, prabhupada.io",
+    "description":"did contact; difficult to obtain."
+}
+---
 
 ==== agamaḥ  ====
   * did contact --- [[books:sb:1:14:42|SB 1.14.42]]

@@ -1,5 +1,11 @@
-~~Title:akṛṣṇa~~
-{{description>not black.}}
+---json
+{
+    "name":"akṛṣṇa",
+    "h1":"akṛṣṇa",
+    "title":"akṛṣṇa -- synonyms, prabhupada.io",
+    "description":"not black."
+}
+---
 
 ==== akṛṣṇa  ====
   * not black --- [[books:cc:adi:3:57|Ādi 3.57]]

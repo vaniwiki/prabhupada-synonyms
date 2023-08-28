@@ -1,5 +1,11 @@
-~~Title:gabhira~~
-{{description>deep; insurmountable; subtle.}}
+---json
+{
+    "name":"gabhira",
+    "h1":"gabhira",
+    "title":"gabhira -- synonyms, prabhupada.io",
+    "description":"deep; insurmountable; subtle."
+}
+---
 
 ==== gabhīra  ====
   * deep --- [[books:sb:10:6:12|SB 10.6.12]], [[books:sb:10:6:15-17|SB 10.6.15-17]], [[books:cc:madhya:19:137|Madhya 19.137]], [[books:cc:antya:1:154|Antya 1.154]]

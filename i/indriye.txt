@@ -1,5 +1,11 @@
-~~Title:indriye~~
-{{description>at the senses; in the senses.}}
+---json
+{
+    "name":"indriye",
+    "h1":"indriye",
+    "title":"indriye -- synonyms, prabhupada.io",
+    "description":"at the senses; in the senses."
+}
+---
 
 ==== indriye  ====
   * at the senses --- [[books:cc:antya:15:18|Antya 15.18]]

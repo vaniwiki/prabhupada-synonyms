@@ -1,5 +1,11 @@
-~~Title:vidadāra~~
-{{description>pierced.}}
+---json
+{
+    "name":"vidadāra",
+    "h1":"vidadāra",
+    "title":"vidadāra -- synonyms, prabhupada.io",
+    "description":"pierced."
+}
+---
 
 ==== vidadāra  ====
   * pierced --- [[books:sb:2:7:14|SB 2.7.14]], [[books:sb:7:8:45|SB 7.8.45]]

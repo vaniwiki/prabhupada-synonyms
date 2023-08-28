@@ -1,5 +1,11 @@
-~~Title:pāñāchena~~
-{{description>got the benediction.}}
+---json
+{
+    "name":"pāñāchena",
+    "h1":"pāñāchena",
+    "title":"pāñāchena -- synonyms, prabhupada.io",
+    "description":"got the benediction."
+}
+---
 
 ==== pāñāchena vara  ====
   * got the benediction --- [[books:cc:antya:6:116|Antya 6.116]]

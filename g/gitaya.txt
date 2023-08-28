@@ -1,5 +1,11 @@
-~~Title:gītayā~~
-{{description>being sung.}}
+---json
+{
+    "name":"gītayā",
+    "h1":"gītayā",
+    "title":"gītayā -- synonyms, prabhupada.io",
+    "description":"being sung."
+}
+---
 
 ==== gītayā  ====
   * being sung --- [[books:sb:3:14:6|SB 3.14.6]]

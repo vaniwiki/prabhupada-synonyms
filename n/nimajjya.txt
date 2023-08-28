@@ -1,5 +1,11 @@
-~~Title:nimajjya~~
-{{description>after bathing.}}
+---json
+{
+    "name":"nimajjya",
+    "h1":"nimajjya",
+    "title":"nimajjya -- synonyms, prabhupada.io",
+    "description":"after bathing."
+}
+---
 
 ==== nimajjya  ====
   * after bathing --- [[books:sb:3:23:23|SB 3.23.23]]

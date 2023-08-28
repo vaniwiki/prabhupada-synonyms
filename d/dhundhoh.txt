@@ -1,5 +1,11 @@
-~~Title:dhundhoḥ~~
-{{description>of Dhundhu.}}
+---json
+{
+    "name":"dhundhoḥ",
+    "h1":"dhundhoḥ",
+    "title":"dhundhoḥ -- synonyms, prabhupada.io",
+    "description":"of Dhundhu."
+}
+---
 
 ==== dhundhoḥ  ====
   * of Dhundhu --- [[books:sb:9:6:23-24|SB 9.6.23-24]]

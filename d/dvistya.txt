@@ -1,5 +1,11 @@
-~~Title:dviṣṭyā~~
-{{description>by great fortune.}}
+---json
+{
+    "name":"dviṣṭyā",
+    "h1":"dviṣṭyā",
+    "title":"dviṣṭyā -- synonyms, prabhupada.io",
+    "description":"by great fortune."
+}
+---
 
 ==== dviṣṭyā  ====
   * by great fortune --- [[books:sb:7:8:54|SB 7.8.54]]

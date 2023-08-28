@@ -1,5 +1,11 @@
-~~Title:kaustubhaḥ~~
-{{description>the Kaustubha gem.}}
+---json
+{
+    "name":"kaustubhaḥ",
+    "h1":"kaustubhaḥ",
+    "title":"kaustubhaḥ -- synonyms, prabhupada.io",
+    "description":"the Kaustubha gem."
+}
+---
 
 ==== kaustubhaḥ  ====
   * the Kaustubha gem --- [[books:sb:8:18:3|SB 8.18.3]]

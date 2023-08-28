@@ -1,5 +1,11 @@
-~~Title:akapaṭe~~
-{{description>without duplicity; without pretense.}}
+---json
+{
+    "name":"akapaṭe",
+    "h1":"akapaṭe",
+    "title":"akapaṭe -- synonyms, prabhupada.io",
+    "description":"without duplicity; without pretense."
+}
+---
 
 ==== akapaṭe  ====
   * without duplicity --- [[books:cc:madhya:8:271|Madhya 8.271]], [[books:cc:antya:9:118|Antya 9.118]]

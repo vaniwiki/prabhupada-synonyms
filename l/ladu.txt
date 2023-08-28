@@ -1,5 +1,11 @@
-~~Title:lāḍu~~
-{{description>a kind of sandeśa.}}
+---json
+{
+    "name":"lāḍu",
+    "h1":"lāḍu",
+    "title":"lāḍu -- synonyms, prabhupada.io",
+    "description":"a kind of sandeśa."
+}
+---
 
 ==== manoharā-lāḍu  ====
   * a kind of //sandeśa// --- [[books:cc:madhya:14:28|Madhya 14.28]]

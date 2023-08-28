@@ -1,5 +1,11 @@
-~~Title:aṅkaḥ~~
-{{description>the demigod of love, Cupid.}}
+---json
+{
+    "name":"aṅkaḥ",
+    "h1":"aṅkaḥ",
+    "title":"aṅkaḥ -- synonyms, prabhupada.io",
+    "description":"the demigod of love, Cupid."
+}
+---
 
 ==== makara-aṅkaḥ  ====
   * the demigod of love, Cupid --- [[books:cc:adi:4:118|Ādi 4.118]]

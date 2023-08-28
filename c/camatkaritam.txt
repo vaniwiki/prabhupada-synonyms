@@ -1,5 +1,11 @@
-~~Title:camatkāritām~~
-{{description>the madness.}}
+---json
+{
+    "name":"camatkāritām",
+    "h1":"camatkāritām",
+    "title":"camatkāritām -- synonyms, prabhupada.io",
+    "description":"the madness."
+}
+---
 
 ==== camatkāritām  ====
   * the madness --- [[books:cc:antya:1:145|Antya 1.145]]

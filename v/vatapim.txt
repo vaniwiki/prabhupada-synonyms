@@ -1,5 +1,11 @@
-~~Title:vātāpim~~
-{{description>Vātāpi.}}
+---json
+{
+    "name":"vātāpim",
+    "h1":"vātāpim",
+    "title":"vātāpim -- synonyms, prabhupada.io",
+    "description":"Vātāpi."
+}
+---
 
 ==== vātāpim  ====
   * Vātāpi --- [[books:sb:6:18:15|SB 6.18.15]]

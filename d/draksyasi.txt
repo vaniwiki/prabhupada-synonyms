@@ -1,5 +1,11 @@
-~~Title:drakṣyasi~~
-{{description>you will perceive; you will see.}}
+---json
+{
+    "name":"drakṣyasi",
+    "h1":"drakṣyasi",
+    "title":"drakṣyasi -- synonyms, prabhupada.io",
+    "description":"you will perceive; you will see."
+}
+---
 
 ==== drakṣyasi  ====
   * you will perceive --- [[books:sb:3:21:31|SB 3.21.31]]

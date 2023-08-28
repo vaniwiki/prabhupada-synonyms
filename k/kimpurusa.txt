@@ -1,5 +1,11 @@
-~~Title:kimpurusa~~
-{{description>the division named Kimpuruṣa; the inhabitants of Kimpuruṣa-loka.}}
+---json
+{
+    "name":"kimpurusa",
+    "h1":"kimpurusa",
+    "title":"kimpurusa -- synonyms, prabhupada.io",
+    "description":"the division named Kimpuruṣa; the inhabitants of Kimpuruṣa-loka."
+}
+---
 
 ==== kimpuruṣa  ====
   * the division named Kimpuruṣa --- [[books:sb:5:16:9|SB 5.16.9]]

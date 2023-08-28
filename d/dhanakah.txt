@@ -1,5 +1,11 @@
-~~Title:dhanakaḥ~~
-{{description>Dhanaka.}}
+---json
+{
+    "name":"dhanakaḥ",
+    "h1":"dhanakaḥ",
+    "title":"dhanakaḥ -- synonyms, prabhupada.io",
+    "description":"Dhanaka."
+}
+---
 
 ==== dhanakaḥ  ====
   * Dhanaka --- [[books:sb:9:23:23|SB 9.23.23]]

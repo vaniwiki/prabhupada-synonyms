@@ -1,5 +1,11 @@
-~~Title:śakuniḥ~~
-{{description>Śakuni.}}
+---json
+{
+    "name":"śakuniḥ",
+    "h1":"śakuniḥ",
+    "title":"śakuniḥ -- synonyms, prabhupada.io",
+    "description":"Śakuni."
+}
+---
 
 ==== śakuniḥ  ====
   * Śakuni --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

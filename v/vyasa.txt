@@ -1,5 +1,11 @@
-~~Title:vyāsa~~
-{{description>compiler; Dvaipāyana Vyāsa; explicitly; of Vyāsadeva; the authorized writer Vyāsadeva; the great author Vyāsadeva; the sage Vyāsa; Vedavyāsa; Vyāsa; Vyāsadeva; Śrīla Vyāsadeva.}}
+---json
+{
+    "name":"vyāsa",
+    "h1":"vyāsa",
+    "title":"vyāsa -- synonyms, prabhupada.io",
+    "description":"compiler; Dvaipāyana Vyāsa; explicitly; of Vyāsadeva; the authorized writer Vyāsadeva; the great author Vyāsadeva; the sage Vyāsa; Vedavyāsa; Vyāsa; Vyāsadeva; Śrīla Vyāsadeva."
+}
+---
 
 ==== vyāsa  ====
   * compiler --- [[books:cc:adi:8:34|Ādi 8.34]]

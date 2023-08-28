@@ -1,5 +1,11 @@
-~~Title:pratibuddhya~~
-{{description>having learned.}}
+---json
+{
+    "name":"pratibuddhya",
+    "h1":"pratibuddhya",
+    "title":"pratibuddhya -- synonyms, prabhupada.io",
+    "description":"having learned."
+}
+---
 
 ==== pratibuddhya  ====
   * having learned --- [[books:sb:4:12:1|SB 4.12.1]]

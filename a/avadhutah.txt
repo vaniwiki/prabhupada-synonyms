@@ -1,5 +1,11 @@
-~~Title:avadhutah~~
-{{description>called Avadhūta; highly elevated person; without dressing (of the hair, etc.).}}
+---json
+{
+    "name":"avadhutah",
+    "h1":"avadhutah",
+    "title":"avadhutah -- synonyms, prabhupada.io",
+    "description":"called Avadhūta; highly elevated person; without dressing (of the hair, etc.)."
+}
+---
 
 ==== avadhūtaḥ  ====
   * called Avadhūta --- [[books:sb:4:29:11|SB 4.29.11]]

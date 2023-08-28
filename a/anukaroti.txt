@@ -1,5 +1,11 @@
-~~Title:anukaroti~~
-{{description>used to follow and imitate.}}
+---json
+{
+    "name":"anukaroti",
+    "h1":"anukaroti",
+    "title":"anukaroti -- synonyms, prabhupada.io",
+    "description":"used to follow and imitate."
+}
+---
 
 ==== anukaroti  ====
   * used to follow and imitate --- [[books:sb:4:25:62|SB 4.25.62]]

@@ -1,5 +1,11 @@
-~~Title:antarayan~~
-{{description>disturbing.}}
+---json
+{
+    "name":"antarayan",
+    "h1":"antarayan",
+    "title":"antarayan -- synonyms, prabhupada.io",
+    "description":"disturbing."
+}
+---
 
 ==== antarayan  ====
   * disturbing --- [[books:cc:antya:1:164|Antya 1.164]]

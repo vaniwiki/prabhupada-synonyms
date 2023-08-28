@@ -1,5 +1,11 @@
-~~Title:dhūmrākṣa~~
-{{description>Dhūmrākṣa.}}
+---json
+{
+    "name":"dhūmrākṣa",
+    "h1":"dhūmrākṣa",
+    "title":"dhūmrākṣa -- synonyms, prabhupada.io",
+    "description":"Dhūmrākṣa."
+}
+---
 
 ==== dhūmrākṣa  ====
   * Dhūmrākṣa --- [[books:sb:9:10:18|SB 9.10.18]]

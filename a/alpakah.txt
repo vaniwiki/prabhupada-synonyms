@@ -1,5 +1,11 @@
-~~Title:alpakaḥ~~
-{{description>very insignificant.}}
+---json
+{
+    "name":"alpakaḥ",
+    "h1":"alpakaḥ",
+    "title":"alpakaḥ -- synonyms, prabhupada.io",
+    "description":"very insignificant."
+}
+---
 
 ==== alpakaḥ  ====
   * very insignificant --- [[books:sb:7:8:41|SB 7.8.41]]

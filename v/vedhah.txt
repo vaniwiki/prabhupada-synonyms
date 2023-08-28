@@ -1,5 +1,11 @@
-~~Title:vedhah~~
-{{description>called a vedha.}}
+---json
+{
+    "name":"vedhah",
+    "h1":"vedhah",
+    "title":"vedhah -- synonyms, prabhupada.io",
+    "description":"called a vedha."
+}
+---
 
 ==== vedhaḥ  ====
   * called a //vedha// --- [[books:sb:3:11:6|SB 3.11.6]]

@@ -1,5 +1,11 @@
-~~Title:gandhaiḥ~~
-{{description>by the aromas.}}
+---json
+{
+    "name":"gandhaiḥ",
+    "h1":"gandhaiḥ",
+    "title":"gandhaiḥ -- synonyms, prabhupada.io",
+    "description":"by the aromas."
+}
+---
 
 ==== gandhaiḥ  ====
   * by the aromas --- [[books:sb:7:7:26|SB 7.7.26]]

@@ -1,5 +1,11 @@
-~~Title:udgrathayanti~~
-{{description>root out.}}
+---json
+{
+    "name":"udgrathayanti",
+    "h1":"udgrathayanti",
+    "title":"udgrathayanti -- synonyms, prabhupada.io",
+    "description":"root out."
+}
+---
 
 ==== udgrathayanti  ====
   * root out --- [[books:sb:4:22:39|SB 4.22.39]]

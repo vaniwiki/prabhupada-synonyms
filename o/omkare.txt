@@ -1,5 +1,11 @@
-~~Title:oṁkāre~~
-{{description>in the concise form of oṁkāra.}}
+---json
+{
+    "name":"oṁkāre",
+    "h1":"oṁkāre",
+    "title":"oṁkāre -- synonyms, prabhupada.io",
+    "description":"in the concise form of oṁkāra."
+}
+---
 
 ==== oṁkāre  ====
   * in the concise form of //oṁkāra// --- [[books:sb:7:15:53|SB 7.15.53]]

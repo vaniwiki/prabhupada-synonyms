@@ -1,5 +1,11 @@
-~~Title:praṇayinaḥ~~
-{{description>relatives.}}
+---json
+{
+    "name":"praṇayinaḥ",
+    "h1":"praṇayinaḥ",
+    "title":"praṇayinaḥ -- synonyms, prabhupada.io",
+    "description":"relatives."
+}
+---
 
 ==== praṇayinaḥ  ====
   * relatives --- [[books:sb:9:10:8|SB 9.10.8]]

@@ -1,5 +1,11 @@
-~~Title:vihīnena~~
-{{description>freed from.}}
+---json
+{
+    "name":"vihīnena",
+    "h1":"vihīnena",
+    "title":"vihīnena -- synonyms, prabhupada.io",
+    "description":"freed from."
+}
+---
 
 ==== vihīnena  ====
   * freed from --- [[books:sb:3:24:47|SB 3.24.47]]

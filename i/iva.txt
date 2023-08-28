@@ -1,5 +1,11 @@
-~~Title:iva~~
-{{description>almost the same; as; as if; as if it were so; as it; as it is; as it is so; as it was; as it were; as though; certainly; exactly; exactly like; exactly like that; in pursuance of; in the manner of; indeed; just as; just like; like (just as a king exacts taxes for the benefit of the servant or the citizens pay taxes for the benefit of the king); like; like that; like that of; like this; likened; or; quite; seemingly; similarly; simply; somewhat; thus.}}
+---json
+{
+    "name":"iva",
+    "h1":"iva",
+    "title":"iva -- synonyms, prabhupada.io",
+    "description":"almost the same; as; as if; as if it were so; as it; as it is; as it is so; as it was; as it were; as though; certainly; exactly; exactly like; exactly like that; in pursuance of; in the manner of; indeed; just as; just like; like (just as a king exacts taxes for the benefit of the servant or the citizens pay taxes for the benefit of the king); like; like that; like that of; like this; likened; or; quite; seemingly; similarly; simply; somewhat; thus."
+}
+---
 
 ==== iva  ====
   * almost the same --- [[books:sb:1:5:20|SB 1.5.20]]

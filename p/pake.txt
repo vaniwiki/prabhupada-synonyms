@@ -1,5 +1,11 @@
-~~Title:pāke~~
-{{description>by means; in cooking.}}
+---json
+{
+    "name":"pāke",
+    "h1":"pāke",
+    "title":"pāke -- synonyms, prabhupada.io",
+    "description":"by means; in cooking."
+}
+---
 
 ==== pāke  ====
   * by means --- [[books:cc:adi:12:30|Ādi 12.30]]

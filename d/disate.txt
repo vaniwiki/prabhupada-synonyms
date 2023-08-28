@@ -1,5 +1,11 @@
-~~Title:diśāte~~
-{{description>in the direction of the sand hill.}}
+---json
+{
+    "name":"diśāte",
+    "h1":"diśāte",
+    "title":"diśāte -- synonyms, prabhupada.io",
+    "description":"in the direction of the sand hill."
+}
+---
 
 ==== parvata-diśāte  ====
   * in the direction of the sand hill --- [[books:cc:antya:14:85|Antya 14.85]]

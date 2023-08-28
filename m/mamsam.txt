@@ -1,5 +1,11 @@
-~~Title:māṁsam~~
-{{description>flesh.}}
+---json
+{
+    "name":"māṁsam",
+    "h1":"māṁsam",
+    "title":"māṁsam -- synonyms, prabhupada.io",
+    "description":"flesh."
+}
+---
 
 ==== māṁsam  ====
   * flesh --- [[books:sb:9:6:6|SB 9.6.6]]

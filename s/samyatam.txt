@@ -1,5 +1,11 @@
-~~Title:samyatam~~
-{{description>remained silent.}}
+---json
+{
+    "name":"samyatam",
+    "h1":"samyatam",
+    "title":"samyatam -- synonyms, prabhupada.io",
+    "description":"remained silent."
+}
+---
 
 ==== saṁyatam  ====
   * remained silent --- [[books:sb:3:21:49|SB 3.21.49]]

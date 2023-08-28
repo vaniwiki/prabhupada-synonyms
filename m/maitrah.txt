@@ -1,5 +1,11 @@
-~~Title:maitraḥ~~
-{{description>a real friend; friendly; very friendly to everyone; worshiping the demigods.}}
+---json
+{
+    "name":"maitraḥ",
+    "h1":"maitraḥ",
+    "title":"maitraḥ -- synonyms, prabhupada.io",
+    "description":"a real friend; friendly; very friendly to everyone; worshiping the demigods."
+}
+---
 
 ==== maitraḥ  ====
   * a real friend --- [[books:sb:7:5:56-57|SB 7.5.56-57]]

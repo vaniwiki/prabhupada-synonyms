@@ -1,5 +1,11 @@
-~~Title:ādadhānam~~
-{{description>bestowing.}}
+---json
+{
+    "name":"ādadhānam",
+    "h1":"ādadhānam",
+    "title":"ādadhānam -- synonyms, prabhupada.io",
+    "description":"bestowing."
+}
+---
 
 ==== ādadhānam  ====
   * bestowing --- [[books:sb:3:28:26|SB 3.28.26]]

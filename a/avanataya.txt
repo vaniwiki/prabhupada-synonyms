@@ -1,5 +1,11 @@
-~~Title:avanatāya~~
-{{description>and submissive.}}
+---json
+{
+    "name":"avanatāya",
+    "h1":"avanatāya",
+    "title":"avanatāya -- synonyms, prabhupada.io",
+    "description":"and submissive."
+}
+---
 
 ==== avanatāya  ====
   * and submissive --- [[books:sb:7:5:52|SB 7.5.52]]

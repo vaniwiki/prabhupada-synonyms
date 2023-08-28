@@ -1,5 +1,11 @@
-~~Title:samadṛśyata~~
-{{description>he saw; King Satyavrata saw it.}}
+---json
+{
+    "name":"samadṛśyata",
+    "h1":"samadṛśyata",
+    "title":"samadṛśyata -- synonyms, prabhupada.io",
+    "description":"he saw; King Satyavrata saw it."
+}
+---
 
 ==== samadṛśyata  ====
   * he saw --- [[books:sb:7:2:51|SB 7.2.51]]

@@ -1,5 +1,11 @@
-~~Title:saghana~~
-{{description>repeatedly; very deep; with great gravity.}}
+---json
+{
+    "name":"saghana",
+    "h1":"saghana",
+    "title":"saghana -- synonyms, prabhupada.io",
+    "description":"repeatedly; very deep; with great gravity."
+}
+---
 
 ==== saghana  ====
   * repeatedly --- [[books:cc:madhya:17:157|Madhya 17.157]]

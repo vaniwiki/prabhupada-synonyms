@@ -1,5 +1,11 @@
-~~Title:saujanya~~
-{{description>the gentle behavior of Gadādhara Paṇḍita.}}
+---json
+{
+    "name":"saujanya",
+    "h1":"saujanya",
+    "title":"saujanya -- synonyms, prabhupada.io",
+    "description":"the gentle behavior of Gadādhara Paṇḍita."
+}
+---
 
 ==== paṇḍitera saujanya  ====
   * the gentle behavior of Gadādhara Paṇḍita --- [[books:cc:antya:7:166|Antya 7.166]]

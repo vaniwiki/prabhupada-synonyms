@@ -1,5 +1,11 @@
-~~Title:iṣvāsa~~
-{{description>bows.}}
+---json
+{
+    "name":"iṣvāsa",
+    "h1":"iṣvāsa",
+    "title":"iṣvāsa -- synonyms, prabhupada.io",
+    "description":"bows."
+}
+---
 
 ==== iṣvāsa  ====
   * bows --- [[books:sb:8:10:37|SB 8.10.37]]

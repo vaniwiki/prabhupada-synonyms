@@ -1,5 +1,11 @@
-~~Title:medham~~
-{{description>a sacrifice offering a horse.}}
+---json
+{
+    "name":"medham",
+    "h1":"medham",
+    "title":"medham -- synonyms, prabhupada.io",
+    "description":"a sacrifice offering a horse."
+}
+---
 
 ==== aśva-medham  ====
   * a sacrifice offering a horse --- [[books:cc:adi:17:164|Ādi 17.164]]

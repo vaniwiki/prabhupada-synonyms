@@ -1,5 +1,11 @@
-~~Title:anurodhe~~
-{{description>being obliged.}}
+---json
+{
+    "name":"anurodhe",
+    "h1":"anurodhe",
+    "title":"anurodhe -- synonyms, prabhupada.io",
+    "description":"being obliged."
+}
+---
 
 ==== anurodhe  ====
   * being obliged --- [[books:cc:adi:17:170|Ādi 17.170]]

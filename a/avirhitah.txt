@@ -1,5 +1,11 @@
-~~Title:avirhitah~~
-{{description>having appeared as.}}
+---json
+{
+    "name":"avirhitah",
+    "h1":"avirhitah",
+    "title":"avirhitah -- synonyms, prabhupada.io",
+    "description":"having appeared as."
+}
+---
 
 ==== āvirhitaḥ  ====
   * having appeared as --- [[books:sb:2:7:36|SB 2.7.36]]

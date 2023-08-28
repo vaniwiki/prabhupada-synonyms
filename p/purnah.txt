@@ -1,5 +1,11 @@
-~~Title:purnah~~
-{{description>complete; completely filled; full; perfect; Pūrṇa; the full Supreme Personality of Godhead, Kṛṣṇa; the Supreme Lord. who is full in Himself.}}
+---json
+{
+    "name":"purnah",
+    "h1":"purnah",
+    "title":"purnah -- synonyms, prabhupada.io",
+    "description":"complete; completely filled; full; perfect; Pūrṇa; the full Supreme Personality of Godhead, Kṛṣṇa; the Supreme Lord. who is full in Himself."
+}
+---
 
 ==== pūrṇaḥ  ====
   * complete --- [[books:cc:madhya:17:133|Madhya 17.133]], [[books:cc:madhya:20:399|Madhya 20.399]]

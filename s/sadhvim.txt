@@ -1,5 +1,11 @@
-~~Title:sādhvīm~~
-{{description>the chaste girl; the chaste woman.}}
+---json
+{
+    "name":"sādhvīm",
+    "h1":"sādhvīm",
+    "title":"sādhvīm -- synonyms, prabhupada.io",
+    "description":"the chaste girl; the chaste woman."
+}
+---
 
 ==== sādhvīm  ====
   * the chaste girl --- [[books:sb:3:22:19|SB 3.22.19]]

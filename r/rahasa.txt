@@ -1,5 +1,11 @@
-~~Title:rahasā~~
-{{description>by His own leg.}}
+---json
+{
+    "name":"rahasā",
+    "h1":"rahasā",
+    "title":"rahasā -- synonyms, prabhupada.io",
+    "description":"by His own leg."
+}
+---
 
 ==== sva-rahasā  ====
   * by His own leg --- [[books:sb:2:7:40|SB 2.7.40]]

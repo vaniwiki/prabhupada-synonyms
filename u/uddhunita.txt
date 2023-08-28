@@ -1,5 +1,11 @@
-~~Title:uddhūnita~~
-{{description>driven away.}}
+---json
+{
+    "name":"uddhūnita",
+    "h1":"uddhūnita",
+    "title":"uddhūnita -- synonyms, prabhupada.io",
+    "description":"driven away."
+}
+---
 
 ==== uddhūnita  ====
   * driven away --- [[books:cc:madhya:10:119|Madhya 10.119]]

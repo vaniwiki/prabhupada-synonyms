@@ -1,5 +1,11 @@
-~~Title:bhaṭānām~~
-{{description>of all my associates.}}
+---json
+{
+    "name":"bhaṭānām",
+    "h1":"bhaṭānām",
+    "title":"bhaṭānām -- synonyms, prabhupada.io",
+    "description":"of all my associates."
+}
+---
 
 ==== mat-bhaṭānām  ====
   * of all my associates --- [[books:sb:4:5:4|SB 4.5.4]]

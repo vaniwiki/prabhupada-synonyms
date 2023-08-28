@@ -1,5 +1,11 @@
-~~Title:oghah~~
-{{description>the multitudes.}}
+---json
+{
+    "name":"oghah",
+    "h1":"oghah",
+    "title":"oghah -- synonyms, prabhupada.io",
+    "description":"the multitudes."
+}
+---
 
 ==== oghāḥ  ====
   * the multitudes --- [[books:sb:6:10:26|SB 6.10.26]]

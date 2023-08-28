@@ -1,5 +1,11 @@
-~~Title:panih~~
-{{description>hand; hands; in His hand.}}
+---json
+{
+    "name":"panih",
+    "h1":"panih",
+    "title":"panih -- synonyms, prabhupada.io",
+    "description":"hand; hands; in His hand."
+}
+---
 
 ==== pāṇiḥ  ====
   * hand --- [[books:sb:9:18:20-21|SB 9.18.20-21]]

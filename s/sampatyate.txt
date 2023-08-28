@@ -1,5 +1,11 @@
-~~Title:sampātyate~~
-{{description>is thrown.}}
+---json
+{
+    "name":"sampātyate",
+    "h1":"sampātyate",
+    "title":"sampātyate -- synonyms, prabhupada.io",
+    "description":"is thrown."
+}
+---
 
 ==== sampātyate  ====
   * is thrown --- [[books:sb:5:26:28|SB 5.26.28]]

@@ -1,5 +1,11 @@
-~~Title:tumula~~
-{{description>tumultuous.}}
+---json
+{
+    "name":"tumula",
+    "h1":"tumula",
+    "title":"tumula -- synonyms, prabhupada.io",
+    "description":"tumultuous."
+}
+---
 
 ==== tumula  ====
   * tumultuous --- [[books:sb:8:8:13|SB 8.8.13]]

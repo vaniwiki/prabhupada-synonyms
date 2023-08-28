@@ -1,5 +1,11 @@
-~~Title:ābhāsei~~
-{{description>simply by the dim reflection of chanting the holy name.}}
+---json
+{
+    "name":"ābhāsei",
+    "h1":"ābhāsei",
+    "title":"ābhāsei -- synonyms, prabhupada.io",
+    "description":"simply by the dim reflection of chanting the holy name."
+}
+---
 
 ==== nāma-ābhāsei  ====
   * simply by the dim reflection of chanting the holy name --- [[books:cc:madhya:1:194|Madhya 1.194]]

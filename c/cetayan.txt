@@ -1,5 +1,11 @@
-~~Title:cetayan~~
-{{description>enlivening.}}
+---json
+{
+    "name":"cetayan",
+    "h1":"cetayan",
+    "title":"cetayan -- synonyms, prabhupada.io",
+    "description":"enlivening."
+}
+---
 
 ==== cetayan  ====
   * enlivening --- [[books:cc:antya:5:112|Antya 5.112]]

@@ -1,5 +1,11 @@
-~~Title:manāk~~
-{{description>a little; even slightly; in a small degree; like a short time; slightly; somewhat.}}
+---json
+{
+    "name":"manāk",
+    "h1":"manāk",
+    "title":"manāk -- synonyms, prabhupada.io",
+    "description":"a little; even slightly; in a small degree; like a short time; slightly; somewhat."
+}
+---
 
 ==== manāk  ====
   * a little --- [[books:sb:5:10:12|SB 5.10.12]]

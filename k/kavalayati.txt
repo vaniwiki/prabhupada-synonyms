@@ -1,5 +1,11 @@
-~~Title:kavalayati~~
-{{description>devours.}}
+---json
+{
+    "name":"kavalayati",
+    "h1":"kavalayati",
+    "title":"kavalayati -- synonyms, prabhupada.io",
+    "description":"devours."
+}
+---
 
 ==== kavalayati  ====
   * devours --- [[books:cc:antya:1:169|Antya 1.169]]

@@ -1,5 +1,11 @@
-~~Title:āyudhāni~~
-{{description>all kinds of weapons; and all the weapons; and other weapons.}}
+---json
+{
+    "name":"āyudhāni",
+    "h1":"āyudhāni",
+    "title":"āyudhāni -- synonyms, prabhupada.io",
+    "description":"all kinds of weapons; and all the weapons; and other weapons."
+}
+---
 
 ==== āyudhāni  ====
   * all kinds of weapons --- [[books:sb:8:21:13|SB 8.21.13]]

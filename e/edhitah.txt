@@ -1,5 +1,11 @@
-~~Title:edhitah~~
-{{description>flourishing.}}
+---json
+{
+    "name":"edhitah",
+    "h1":"edhitah",
+    "title":"edhitah -- synonyms, prabhupada.io",
+    "description":"flourishing."
+}
+---
 
 ==== edhitaḥ  ====
   * flourishing --- [[books:sb:1:17:25|SB 1.17.25]]

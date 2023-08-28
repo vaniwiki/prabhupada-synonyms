@@ -1,5 +1,11 @@
-~~Title:jayati~~
-{{description>all glories; all glories to; eternally lives gloriously; let it be glorified; stay.}}
+---json
+{
+    "name":"jayati",
+    "h1":"jayati",
+    "title":"jayati -- synonyms, prabhupada.io",
+    "description":"all glories; all glories to; eternally lives gloriously; let it be glorified; stay."
+}
+---
 
 ==== jayati  ====
   * all glories --- [[books:cc:madhya:13:78|Madhya 13.78]], [[books:cc:madhya:21:45|Madhya 21.45]], [[books:cc:antya:1:168|Antya 1.168]]

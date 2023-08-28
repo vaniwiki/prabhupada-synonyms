@@ -1,5 +1,11 @@
-~~Title:avakalpate~~
-{{description>acts.}}
+---json
+{
+    "name":"avakalpate",
+    "h1":"avakalpate",
+    "title":"avakalpate -- synonyms, prabhupada.io",
+    "description":"acts."
+}
+---
 
 ==== avakalpate  ====
   * acts --- [[books:sb:6:17:23|SB 6.17.23]]

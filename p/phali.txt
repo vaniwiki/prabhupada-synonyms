@@ -1,5 +1,11 @@
-~~Title:phalī~~
-{{description>broken particles of husked rice.}}
+---json
+{
+    "name":"phalī",
+    "h1":"phalī",
+    "title":"phalī -- synonyms, prabhupada.io",
+    "description":"broken particles of husked rice."
+}
+---
 
 ==== phalī-kārān  ====
   * broken particles of husked rice --- [[books:sb:4:9:35|SB 4.9.35]]

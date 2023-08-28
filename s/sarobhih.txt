@@ -1,5 +1,11 @@
-~~Title:sarobhiḥ~~
-{{description>and lakes.}}
+---json
+{
+    "name":"sarobhiḥ",
+    "h1":"sarobhiḥ",
+    "title":"sarobhiḥ -- synonyms, prabhupada.io",
+    "description":"and lakes."
+}
+---
 
 ==== sarobhiḥ  ====
   * and lakes --- [[books:sb:8:2:8|SB 8.2.8]]

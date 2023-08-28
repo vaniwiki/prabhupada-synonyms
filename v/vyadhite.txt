@@ -1,5 +1,11 @@
-~~Title:vyādhite~~
-{{description>under the influence of disease.}}
+---json
+{
+    "name":"vyādhite",
+    "h1":"vyādhite",
+    "title":"vyādhite -- synonyms, prabhupada.io",
+    "description":"under the influence of disease."
+}
+---
 
 ==== vyādhite  ====
   * under the influence of disease --- [[books:cc:madhya:18:170|Madhya 18.170]]

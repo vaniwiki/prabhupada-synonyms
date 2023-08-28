@@ -1,5 +1,11 @@
-~~Title:praśna~~
-{{description>a question; inquiry; question; questions.}}
+---json
+{
+    "name":"praśna",
+    "h1":"praśna",
+    "title":"praśna -- synonyms, prabhupada.io",
+    "description":"a question; inquiry; question; questions."
+}
+---
 
 ==== praśna  ====
   * a question --- [[books:cc:madhya:16:73|Madhya 16.73]]

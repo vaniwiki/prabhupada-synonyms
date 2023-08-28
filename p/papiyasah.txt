@@ -1,5 +1,11 @@
-~~Title:pāpīyasaḥ~~
-{{description>sinful.}}
+---json
+{
+    "name":"pāpīyasaḥ",
+    "h1":"pāpīyasaḥ",
+    "title":"pāpīyasaḥ -- synonyms, prabhupada.io",
+    "description":"sinful."
+}
+---
 
 ==== pāpīyasaḥ  ====
   * sinful --- [[books:sb:3:15:34|SB 3.15.34]]

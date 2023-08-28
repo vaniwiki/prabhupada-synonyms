@@ -1,5 +1,11 @@
-~~Title:abdhiḥ~~
-{{description>the ocean.}}
+---json
+{
+    "name":"abdhiḥ",
+    "h1":"abdhiḥ",
+    "title":"abdhiḥ -- synonyms, prabhupada.io",
+    "description":"the ocean."
+}
+---
 
 ==== abdhiḥ  ====
   * the ocean --- [[books:sb:9:10:4|SB 9.10.4]]

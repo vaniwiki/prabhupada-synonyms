@@ -1,5 +1,11 @@
-~~Title:paridhi~~
-{{description>including the seas.}}
+---json
+{
+    "name":"paridhi",
+    "h1":"paridhi",
+    "title":"paridhi -- synonyms, prabhupada.io",
+    "description":"including the seas."
+}
+---
 
 ==== paridhi-upāntām  ====
   * including the seas --- [[books:sb:1:10:3|SB 1.10.3]]

@@ -1,5 +1,11 @@
-~~Title:vana~~
-{{description>all the forests where the pastimes of the Lord took place; forest; forests; in the forest; the forests.}}
+---json
+{
+    "name":"vana",
+    "h1":"vana",
+    "title":"vana -- synonyms, prabhupada.io",
+    "description":"all the forests where the pastimes of the Lord took place; forest; forests; in the forest; the forests."
+}
+---
 
 ==== vana  ====
   * all the forests where the pastimes of the Lord took place --- [[books:cc:madhya:13:143|Madhya 13.143]]

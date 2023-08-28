@@ -1,5 +1,11 @@
-~~Title:ātmakatayā~~
-{{description>because of Your presence.}}
+---json
+{
+    "name":"ātmakatayā",
+    "h1":"ātmakatayā",
+    "title":"ātmakatayā -- synonyms, prabhupada.io",
+    "description":"because of Your presence."
+}
+---
 
 ==== ātmakatayā  ====
   * because of Your presence --- [[books:sb:8:12:11|SB 8.12.11]]

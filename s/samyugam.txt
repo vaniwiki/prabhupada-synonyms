@@ -1,5 +1,11 @@
-~~Title:saṁyugam~~
-{{description>battle.}}
+---json
+{
+    "name":"saṁyugam",
+    "h1":"saṁyugam",
+    "title":"saṁyugam -- synonyms, prabhupada.io",
+    "description":"battle."
+}
+---
 
 ==== saṁyugam  ====
   * battle --- [[books:sb:3:17:27|SB 3.17.27]]

@@ -1,5 +1,11 @@
-~~Title:bhauma~~
-{{description>by Bhaumāsura; earthly; material.}}
+---json
+{
+    "name":"bhauma",
+    "h1":"bhauma",
+    "title":"bhauma -- synonyms, prabhupada.io",
+    "description":"by Bhaumāsura; earthly; material."
+}
+---
 
 ==== bhauma  ====
   * by Bhaumāsura --- [[books:sb:10:2:1-2|SB 10.2.1-2]]

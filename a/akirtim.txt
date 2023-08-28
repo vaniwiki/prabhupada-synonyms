@@ -1,5 +1,11 @@
-~~Title:akīrtim~~
-{{description>infamy.}}
+---json
+{
+    "name":"akīrtim",
+    "h1":"akīrtim",
+    "title":"akīrtim -- synonyms, prabhupada.io",
+    "description":"infamy."
+}
+---
 
 ==== akīrtim  ====
   * infamy --- [[books:bg:2:34|Bg. 2.34]]

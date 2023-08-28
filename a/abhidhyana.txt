@@ -1,5 +1,11 @@
-~~Title:abhidhyāna~~
-{{description>thinking of, at every second.}}
+---json
+{
+    "name":"abhidhyāna",
+    "h1":"abhidhyāna",
+    "title":"abhidhyāna -- synonyms, prabhupada.io",
+    "description":"thinking of, at every second."
+}
+---
 
 ==== abhidhyāna  ====
   * thinking of, at every second --- [[books:sb:2:4:21|SB 2.4.21]]

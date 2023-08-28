@@ -1,5 +1,11 @@
-~~Title:prattān~~
-{{description>awarded.}}
+---json
+{
+    "name":"prattān",
+    "h1":"prattān",
+    "title":"prattān -- synonyms, prabhupada.io",
+    "description":"awarded."
+}
+---
 
 ==== prattān  ====
   * awarded --- [[books:sb:6:16:3|SB 6.16.3]]

@@ -1,5 +1,11 @@
-~~Title:prātapat~~
-{{description>heated.}}
+---json
+{
+    "name":"prātapat",
+    "h1":"prātapat",
+    "title":"prātapat -- synonyms, prabhupada.io",
+    "description":"heated."
+}
+---
 
 ==== prātapat  ====
   * heated --- [[books:sb:7:3:4|SB 7.3.4]]

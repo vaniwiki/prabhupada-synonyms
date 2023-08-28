@@ -1,5 +1,11 @@
-~~Title:vanyāte~~
-{{description>in an inundation.}}
+---json
+{
+    "name":"vanyāte",
+    "h1":"vanyāte",
+    "title":"vanyāte -- synonyms, prabhupada.io",
+    "description":"in an inundation."
+}
+---
 
 ==== vanyāte  ====
   * in an inundation --- [[books:cc:madhya:19:40|Madhya 19.40]]

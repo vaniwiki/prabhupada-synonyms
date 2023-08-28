@@ -1,5 +1,11 @@
-~~Title:avyaya~~
-{{description>indeclinable words; indestructible; without deterioration.}}
+---json
+{
+    "name":"avyaya",
+    "h1":"avyaya",
+    "title":"avyaya -- synonyms, prabhupada.io",
+    "description":"indeclinable words; indestructible; without deterioration."
+}
+---
 
 ==== avyaya  ====
   * indeclinable words --- [[books:cc:madhya:24:65|Madhya 24.65]]

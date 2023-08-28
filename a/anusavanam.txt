@@ -1,5 +1,11 @@
-~~Title:anusavanam~~
-{{description>almost always; always; at every moment; constantly; more and more; regularly; regularly three times (morning, noon and evening); three times; without stopping.}}
+---json
+{
+    "name":"anusavanam",
+    "h1":"anusavanam",
+    "title":"anusavanam -- synonyms, prabhupada.io",
+    "description":"almost always; always; at every moment; constantly; more and more; regularly; regularly three times (morning, noon and evening); three times; without stopping."
+}
+---
 
 ==== anusavanam  ====
   * almost always --- [[books:sb:5:7:5|SB 5.7.5]]

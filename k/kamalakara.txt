@@ -1,5 +1,11 @@
-~~Title:kamalākara~~
-{{description>Kamalākara.}}
+---json
+{
+    "name":"kamalākara",
+    "h1":"kamalākara",
+    "title":"kamalākara -- synonyms, prabhupada.io",
+    "description":"Kamalākara."
+}
+---
 
 ==== kamalākara  ====
   * Kamalākara --- [[books:cc:antya:6:61|Antya 6.61]]

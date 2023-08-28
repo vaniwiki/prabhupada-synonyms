@@ -1,5 +1,11 @@
-~~Title:ṛṣṭayaḥ~~
-{{description>the ṛṣṭi weapons.}}
+---json
+{
+    "name":"ṛṣṭayaḥ",
+    "h1":"ṛṣṭayaḥ",
+    "title":"ṛṣṭayaḥ -- synonyms, prabhupada.io",
+    "description":"the ṛṣṭi weapons."
+}
+---
 
 ==== ṛṣṭayaḥ  ====
   * the //ṛṣṭi// weapons --- [[books:sb:8:10:44|SB 8.10.44]]

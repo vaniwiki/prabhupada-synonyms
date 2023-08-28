@@ -1,5 +1,11 @@
-~~Title:vetram~~
-{{description>the stick.}}
+---json
+{
+    "name":"vetram",
+    "h1":"vetram",
+    "title":"vetram -- synonyms, prabhupada.io",
+    "description":"the stick."
+}
+---
 
 ==== vetram  ====
   * the stick --- [[books:sb:7:5:16|SB 7.5.16]]

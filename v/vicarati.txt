@@ -1,5 +1,11 @@
-~~Title:vicarati~~
-{{description>are traveling in this world; he acts.}}
+---json
+{
+    "name":"vicarati",
+    "h1":"vicarati",
+    "title":"vicarati -- synonyms, prabhupada.io",
+    "description":"are traveling in this world; he acts."
+}
+---
 
 ==== vicarati  ====
   * are traveling in this world --- [[books:sb:5:10:20|SB 5.10.20]]

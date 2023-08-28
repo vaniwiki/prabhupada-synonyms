@@ -1,5 +1,11 @@
-~~Title:grīṣme~~
-{{description>in the summer season.}}
+---json
+{
+    "name":"grīṣme",
+    "h1":"grīṣme",
+    "title":"grīṣme -- synonyms, prabhupada.io",
+    "description":"in the summer season."
+}
+---
 
 ==== grīṣme  ====
   * in the summer season --- [[books:sb:4:23:6|SB 4.23.6]]

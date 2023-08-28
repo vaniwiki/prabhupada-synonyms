@@ -1,5 +1,11 @@
-~~Title:kanda~~
-{{description>bulbs; trunk.}}
+---json
+{
+    "name":"kanda",
+    "h1":"kanda",
+    "title":"kanda -- synonyms, prabhupada.io",
+    "description":"bulbs; trunk."
+}
+---
 
 ==== kanda  ====
   * bulbs --- [[books:sb:4:28:35-36|SB 4.28.35-36]]

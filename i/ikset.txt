@@ -1,5 +1,11 @@
-~~Title:īkṣet~~
-{{description>see; wants to see.}}
+---json
+{
+    "name":"īkṣet",
+    "h1":"īkṣet",
+    "title":"īkṣet -- synonyms, prabhupada.io",
+    "description":"see; wants to see."
+}
+---
 
 ==== īkṣet  ====
   * see --- [[books:sb:4:7:38|SB 4.7.38]]

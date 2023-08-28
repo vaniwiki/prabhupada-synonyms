@@ -1,5 +1,11 @@
-~~Title:ātmabhū~~
-{{description>Brahmā, etc.}}
+---json
+{
+    "name":"ātmabhū",
+    "h1":"ātmabhū",
+    "title":"ātmabhū -- synonyms, prabhupada.io",
+    "description":"Brahmā, etc."
+}
+---
 
 ==== ātmabhū-ādayaḥ  ====
   * Brahmā, etc --- [[books:sb:4:7:24|SB 4.7.24]]

@@ -1,5 +1,11 @@
-~~Title:ādhikyam~~
-{{description>an abundance of highly elevated devotees.}}
+---json
+{
+    "name":"ādhikyam",
+    "h1":"ādhikyam",
+    "title":"ādhikyam -- synonyms, prabhupada.io",
+    "description":"an abundance of highly elevated devotees."
+}
+---
 
 ==== priya-ādhikyam  ====
   * an abundance of highly elevated devotees --- [[books:cc:madhya:23:84-85|Madhya 23.84-85]]

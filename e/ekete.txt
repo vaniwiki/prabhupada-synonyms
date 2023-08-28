@@ -1,5 +1,11 @@
-~~Title:ekete~~
-{{description>faith in one.}}
+---json
+{
+    "name":"ekete",
+    "h1":"ekete",
+    "title":"ekete -- synonyms, prabhupada.io",
+    "description":"faith in one."
+}
+---
 
 ==== ekete viśvāsa  ====
   * faith in one --- [[books:cc:adi:5:176|Ādi 5.176]]

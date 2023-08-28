@@ -1,5 +1,11 @@
-~~Title:darśayitu~~
-{{description>desiring to exhibit how to perform.}}
+---json
+{
+    "name":"darśayitu",
+    "h1":"darśayitu",
+    "title":"darśayitu -- synonyms, prabhupada.io",
+    "description":"desiring to exhibit how to perform."
+}
+---
 
 ==== darśayitu-kāmaḥ  ====
   * desiring to exhibit how to perform --- [[books:sb:5:3:20|SB 5.3.20]]

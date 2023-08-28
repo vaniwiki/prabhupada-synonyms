@@ -1,5 +1,11 @@
-~~Title:dīpta~~
-{{description>blazing; glowing.}}
+---json
+{
+    "name":"dīpta",
+    "h1":"dīpta",
+    "title":"dīpta -- synonyms, prabhupada.io",
+    "description":"blazing; glowing."
+}
+---
 
 ==== dīpta  ====
   * blazing --- [[books:bg:11:19|Bg. 11.19]]

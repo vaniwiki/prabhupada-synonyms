@@ -1,5 +1,11 @@
-~~Title:utthaiḥ~~
-{{description>produced.}}
+---json
+{
+    "name":"utthaiḥ",
+    "h1":"utthaiḥ",
+    "title":"utthaiḥ -- synonyms, prabhupada.io",
+    "description":"produced."
+}
+---
 
 ==== utthaiḥ  ====
   * produced --- [[books:sb:3:25:16|SB 3.25.16]]

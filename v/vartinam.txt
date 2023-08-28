@@ -1,5 +1,11 @@
-~~Title:vartinam~~
-{{description>who is beyond laws and orders.}}
+---json
+{
+    "name":"vartinam",
+    "h1":"vartinam",
+    "title":"vartinam -- synonyms, prabhupada.io",
+    "description":"who is beyond laws and orders."
+}
+---
 
 ==== ati-vartinam  ====
   * who is beyond laws and orders --- [[books:sb:6:17:12|SB 6.17.12]]

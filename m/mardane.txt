@@ -1,5 +1,11 @@
-~~Title:mardane~~
-{{description>by mild pressing.}}
+---json
+{
+    "name":"mardane",
+    "h1":"mardane",
+    "title":"mardane -- synonyms, prabhupada.io",
+    "description":"by mild pressing."
+}
+---
 
 ==== madhūra-mardane  ====
   * by mild pressing --- [[books:cc:antya:10:90|Antya 10.90]]

@@ -1,5 +1,11 @@
-~~Title:śambho~~
-{{description>O Lord Śiva.}}
+---json
+{
+    "name":"śambho",
+    "h1":"śambho",
+    "title":"śambho -- synonyms, prabhupada.io",
+    "description":"O Lord Śiva."
+}
+---
 
 ==== śambho  ====
   * O Lord Śiva --- [[books:sb:8:6:18|SB 8.6.18]]

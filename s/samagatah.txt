@@ -1,5 +1,11 @@
-~~Title:samagatah~~
-{{description>arrived.}}
+---json
+{
+    "name":"samagatah",
+    "h1":"samagatah",
+    "title":"samagatah -- synonyms, prabhupada.io",
+    "description":"arrived."
+}
+---
 
 ==== samāgataḥ  ====
   * arrived --- [[books:sb:1:13:19|SB 1.13.19]]

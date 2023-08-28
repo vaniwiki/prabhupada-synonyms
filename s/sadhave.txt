@@ -1,5 +1,11 @@
-~~Title:sādhave~~
-{{description>a great saint.}}
+---json
+{
+    "name":"sādhave",
+    "h1":"sādhave",
+    "title":"sādhave -- synonyms, prabhupada.io",
+    "description":"a great saint."
+}
+---
 
 ==== sādhave  ====
   * a great saint --- [[books:sb:7:4:44|SB 7.4.44]]

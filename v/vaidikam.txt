@@ -1,5 +1,11 @@
-~~Title:vaidikam~~
-{{description>according to Vedic rites; recommended in the Vedas.}}
+---json
+{
+    "name":"vaidikam",
+    "h1":"vaidikam",
+    "title":"vaidikam -- synonyms, prabhupada.io",
+    "description":"according to Vedic rites; recommended in the Vedas."
+}
+---
 
 ==== vaidikam  ====
   * according to Vedic rites --- [[books:sb:1:4:19|SB 1.4.19]]

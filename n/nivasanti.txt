@@ -1,5 +1,11 @@
-~~Title:nivasanti~~
-{{description>live; they live.}}
+---json
+{
+    "name":"nivasanti",
+    "h1":"nivasanti",
+    "title":"nivasanti -- synonyms, prabhupada.io",
+    "description":"live; they live."
+}
+---
 
 ==== nivasanti  ====
   * live --- [[books:sb:5:24:8|SB 5.24.8]], [[books:sb:5:24:31|SB 5.24.31]]

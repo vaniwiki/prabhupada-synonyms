@@ -1,5 +1,11 @@
-~~Title:niṣkiñcana~~
-{{description>a devotee who has no other support.}}
+---json
+{
+    "name":"niṣkiñcana",
+    "h1":"niṣkiñcana",
+    "title":"niṣkiñcana -- synonyms, prabhupada.io",
+    "description":"a devotee who has no other support."
+}
+---
 
 ==== niṣkiñcana bhakta  ====
   * a devotee who has no other support --- [[books:cc:antya:6:217|Antya 6.217]]

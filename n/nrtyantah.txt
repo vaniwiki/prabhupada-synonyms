@@ -1,5 +1,11 @@
-~~Title:nṛtyantaḥ~~
-{{description>dancing.}}
+---json
+{
+    "name":"nṛtyantaḥ",
+    "h1":"nṛtyantaḥ",
+    "title":"nṛtyantaḥ -- synonyms, prabhupada.io",
+    "description":"dancing."
+}
+---
 
 ==== nṛtyantaḥ  ====
   * dancing --- [[books:sb:8:18:9-10|SB 8.18.9-10]]

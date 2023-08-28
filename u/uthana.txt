@@ -1,5 +1,11 @@
-~~Title:uthana~~
-{{description>lifting up; raising.}}
+---json
+{
+    "name":"uthana",
+    "h1":"uthana",
+    "title":"uthana -- synonyms, prabhupada.io",
+    "description":"lifting up; raising."
+}
+---
 
 ==== uthāñā  ====
   * lifting up --- [[books:cc:madhya:9:290|Madhya 9.290]]

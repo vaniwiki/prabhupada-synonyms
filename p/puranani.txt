@@ -1,5 +1,11 @@
-~~Title:purāṇāni~~
-{{description>the Purāṇas (supplementary Vedas); the supplements to the Vedas with illustrative narrations.}}
+---json
+{
+    "name":"purāṇāni",
+    "h1":"purāṇāni",
+    "title":"purāṇāni -- synonyms, prabhupada.io",
+    "description":"the Purāṇas (supplementary Vedas); the supplements to the Vedas with illustrative narrations."
+}
+---
 
 ==== purāṇāni  ====
   * the //Purāṇas// (supplementary //Vedas//) --- [[books:sb:3:12:39|SB 3.12.39]]

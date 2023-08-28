@@ -1,5 +1,11 @@
-~~Title:upajīvanti~~
-{{description>execute livelihood.}}
+---json
+{
+    "name":"upajīvanti",
+    "h1":"upajīvanti",
+    "title":"upajīvanti -- synonyms, prabhupada.io",
+    "description":"execute livelihood."
+}
+---
 
 ==== upajīvanti  ====
   * execute livelihood --- [[books:sb:4:21:10|SB 4.21.10]]

@@ -1,5 +1,11 @@
-~~Title:snutāni~~
-{{description>that milk coming from the bodies of the gopīs, not artificially but because of maternal affection.}}
+---json
+{
+    "name":"snutāni",
+    "h1":"snutāni",
+    "title":"snutāni -- synonyms, prabhupada.io",
+    "description":"that milk coming from the bodies of the gopīs, not artificially but because of maternal affection."
+}
+---
 
 ==== putra-sneha-snutāni  ====
   * that milk coming from the bodies of the //gopīs,// not artificially but because of maternal affection --- [[books:sb:10:6:39-40|SB 10.6.39-40]]

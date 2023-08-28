@@ -1,5 +1,11 @@
-~~Title:avasistah~~
-{{description>remained.}}
+---json
+{
+    "name":"avasistah",
+    "h1":"avasistah",
+    "title":"avasistah -- synonyms, prabhupada.io",
+    "description":"remained."
+}
+---
 
 ==== avaśiṣṭaḥ  ====
   * remained --- [[books:sb:3:4:28|SB 3.4.28]]

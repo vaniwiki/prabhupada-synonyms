@@ -1,5 +1,11 @@
-~~Title:kuśale~~
-{{description>in auspicious; in beneficial activity.}}
+---json
+{
+    "name":"kuśale",
+    "h1":"kuśale",
+    "title":"kuśale -- synonyms, prabhupada.io",
+    "description":"in auspicious; in beneficial activity."
+}
+---
 
 ==== kuśale  ====
   * in auspicious --- [[books:bg:18:10|Bg. 18.10]]

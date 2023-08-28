@@ -1,5 +1,11 @@
-~~Title:nyadahan~~
-{{description>burned to ashes.}}
+---json
+{
+    "name":"nyadahan",
+    "h1":"nyadahan",
+    "title":"nyadahan -- synonyms, prabhupada.io",
+    "description":"burned to ashes."
+}
+---
 
 ==== nyadahan  ====
   * burned to ashes --- [[books:sb:10:6:33|SB 10.6.33]]

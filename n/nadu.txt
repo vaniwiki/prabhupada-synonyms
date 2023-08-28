@@ -1,5 +1,11 @@
-~~Title:nāḍu~~
-{{description>round sweetmeats; sweetballs.}}
+---json
+{
+    "name":"nāḍu",
+    "h1":"nāḍu",
+    "title":"nāḍu -- synonyms, prabhupada.io",
+    "description":"round sweetmeats; sweetballs."
+}
+---
 
 ==== nāḍu  ====
   * round sweetmeats --- [[books:cc:antya:10:29-30|Antya 10.29-30]]

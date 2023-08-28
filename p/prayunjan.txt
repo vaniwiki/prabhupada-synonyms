@@ -1,5 +1,11 @@
-~~Title:prayuñjan~~
-{{description>creating.}}
+---json
+{
+    "name":"prayuñjan",
+    "h1":"prayuñjan",
+    "title":"prayuñjan -- synonyms, prabhupada.io",
+    "description":"creating."
+}
+---
 
 ==== prayuñjan  ====
   * creating --- [[books:sb:8:15:23|SB 8.15.23]]

@@ -1,5 +1,11 @@
-~~Title:puroḍāśam~~
-{{description>the oblation called puroḍāśa; the paraphernalia of sacrifice.}}
+---json
+{
+    "name":"puroḍāśam",
+    "h1":"puroḍāśam",
+    "title":"puroḍāśam -- synonyms, prabhupada.io",
+    "description":"the oblation called puroḍāśa; the paraphernalia of sacrifice."
+}
+---
 
 ==== puroḍāśam  ====
   * the oblation called //puroḍāśa// --- [[books:sb:4:7:17|SB 4.7.17]]

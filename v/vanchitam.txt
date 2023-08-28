@@ -1,5 +1,11 @@
-~~Title:vāñchitam~~
-{{description>desire; desired result; whatever He wants.}}
+---json
+{
+    "name":"vāñchitam",
+    "h1":"vāñchitam",
+    "title":"vāñchitam -- synonyms, prabhupada.io",
+    "description":"desire; desired result; whatever He wants."
+}
+---
 
 ==== vāñchitam  ====
   * desire --- [[books:sb:4:3:14|SB 4.3.14]]

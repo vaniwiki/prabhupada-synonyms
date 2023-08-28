@@ -1,5 +1,11 @@
-~~Title:visphurita~~
-{{description>trembling.}}
+---json
+{
+    "name":"visphurita",
+    "h1":"visphurita",
+    "title":"visphurita -- synonyms, prabhupada.io",
+    "description":"trembling."
+}
+---
 
 ==== visphurita  ====
   * trembling --- [[books:sb:6:5:35|SB 6.5.35]]

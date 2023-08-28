@@ -1,5 +1,11 @@
-~~Title:likhite~~
-{{description>to write.}}
+---json
+{
+    "name":"likhite",
+    "h1":"likhite",
+    "title":"likhite -- synonyms, prabhupada.io",
+    "description":"to write."
+}
+---
 
 ==== likhite  ====
   * to write --- [[books:cc:madhya:2:90|Madhya 2.90]], [[books:cc:madhya:14:34|Madhya 14.34]]

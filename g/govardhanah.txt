@@ -1,5 +1,11 @@
-~~Title:govardhanaḥ~~
-{{description>Govardhana; Govardhana Hill; named Govardhana.}}
+---json
+{
+    "name":"govardhanaḥ",
+    "h1":"govardhanaḥ",
+    "title":"govardhanaḥ -- synonyms, prabhupada.io",
+    "description":"Govardhana; Govardhana Hill; named Govardhana."
+}
+---
 
 ==== govardhanaḥ  ====
   * Govardhana --- [[books:sb:5:19:16|SB 5.19.16]]

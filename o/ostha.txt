@@ -1,5 +1,11 @@
-~~Title:oṣṭha~~
-{{description>of His lips.}}
+---json
+{
+    "name":"oṣṭha",
+    "h1":"oṣṭha",
+    "title":"oṣṭha -- synonyms, prabhupada.io",
+    "description":"of His lips."
+}
+---
 
 ==== adhara-oṣṭha  ====
   * of His lips --- [[books:sb:3:28:33|SB 3.28.33]]

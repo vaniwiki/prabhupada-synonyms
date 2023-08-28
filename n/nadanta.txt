@@ -1,5 +1,11 @@
-~~Title:nadanta~~
-{{description>cried very loudly.}}
+---json
+{
+    "name":"nadanta",
+    "h1":"nadanta",
+    "title":"nadanta -- synonyms, prabhupada.io",
+    "description":"cried very loudly."
+}
+---
 
 ==== nadanta  ====
   * cried very loudly --- [[books:sb:8:6:33|SB 8.6.33]]

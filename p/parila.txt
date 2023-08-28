@@ -1,5 +1,11 @@
-~~Title:parila~~
-{{description>put on.}}
+---json
+{
+    "name":"parila",
+    "h1":"parila",
+    "title":"parila -- synonyms, prabhupada.io",
+    "description":"put on."
+}
+---
 
 ==== parila  ====
   * put on --- [[books:cc:madhya:10:161|Madhya 10.161]]

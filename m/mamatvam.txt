@@ -1,5 +1,11 @@
-~~Title:mamatvam~~
-{{description>ownership.}}
+---json
+{
+    "name":"mamatvam",
+    "h1":"mamatvam",
+    "title":"mamatvam -- synonyms, prabhupada.io",
+    "description":"ownership."
+}
+---
 
 ==== mamatvam  ====
   * ownership --- [[books:sb:6:16:7|SB 6.16.7]]

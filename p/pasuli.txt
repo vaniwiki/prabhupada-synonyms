@@ -1,5 +1,11 @@
-~~Title:pāśuli~~
-{{description>a kind of ornament covering the foot.}}
+---json
+{
+    "name":"pāśuli",
+    "h1":"pāśuli",
+    "title":"pāśuli -- synonyms, prabhupada.io",
+    "description":"a kind of ornament covering the foot."
+}
+---
 
 ==== pāśuli  ====
   * a kind of ornament covering the foot --- [[books:cc:adi:13:112|Ādi 13.112]]

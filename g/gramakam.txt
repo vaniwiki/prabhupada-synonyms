@@ -1,5 +1,11 @@
-~~Title:grāmakam~~
-{{description>of the name Grāmaka.}}
+---json
+{
+    "name":"grāmakam",
+    "h1":"grāmakam",
+    "title":"grāmakam -- synonyms, prabhupada.io",
+    "description":"of the name Grāmaka."
+}
+---
 
 ==== grāmakam  ====
   * of the name Grāmaka --- [[books:sb:4:25:52|SB 4.25.52]]

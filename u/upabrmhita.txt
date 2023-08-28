@@ -1,5 +1,11 @@
-~~Title:upabṛṁhita~~
-{{description>achieved.}}
+---json
+{
+    "name":"upabṛṁhita",
+    "h1":"upabṛṁhita",
+    "title":"upabṛṁhita -- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== upabṛṁhita  ====
   * achieved --- [[books:sb:8:17:9|SB 8.17.9]]

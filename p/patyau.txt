@@ -1,5 +1,11 @@
-~~Title:patyau~~
-{{description>within your husband.}}
+---json
+{
+    "name":"patyau",
+    "h1":"patyau",
+    "title":"patyau -- synonyms, prabhupada.io",
+    "description":"within your husband."
+}
+---
 
 ==== patyau  ====
   * within your husband --- [[books:sb:8:17:19|SB 8.17.19]]

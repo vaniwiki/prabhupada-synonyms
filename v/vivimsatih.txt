@@ -1,5 +1,11 @@
-~~Title:viviṁśatiḥ~~
-{{description>the son named Viviṁśati.}}
+---json
+{
+    "name":"viviṁśatiḥ",
+    "h1":"viviṁśatiḥ",
+    "title":"viviṁśatiḥ -- synonyms, prabhupada.io",
+    "description":"the son named Viviṁśati."
+}
+---
 
 ==== viviṁśatiḥ  ====
   * the son named Viviṁśati --- [[books:sb:9:2:23-24|SB 9.2.23-24]]

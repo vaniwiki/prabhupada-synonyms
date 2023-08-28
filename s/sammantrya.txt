@@ -1,5 +1,11 @@
-~~Title:sammantrya~~
-{{description>after considering very elaborately.}}
+---json
+{
+    "name":"sammantrya",
+    "h1":"sammantrya",
+    "title":"sammantrya -- synonyms, prabhupada.io",
+    "description":"after considering very elaborately."
+}
+---
 
 ==== sammantrya  ====
   * after considering very elaborately --- [[books:sb:10:4:43|SB 10.4.43]]

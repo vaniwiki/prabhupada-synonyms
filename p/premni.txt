@@ -1,5 +1,11 @@
-~~Title:premṇi~~
-{{description>in love.}}
+---json
+{
+    "name":"premṇi",
+    "h1":"premṇi",
+    "title":"premṇi -- synonyms, prabhupada.io",
+    "description":"in love."
+}
+---
 
 ==== premṇi  ====
   * in love --- [[books:cc:antya:10:21|Antya 10.21]]

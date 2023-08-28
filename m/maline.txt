@@ -1,5 +1,11 @@
-~~Title:māline~~
-{{description>who is always decorated with a garland of lotus flowers.}}
+---json
+{
+    "name":"māline",
+    "h1":"māline",
+    "title":"māline -- synonyms, prabhupada.io",
+    "description":"who is always decorated with a garland of lotus flowers."
+}
+---
 
 ==== kamala-māline  ====
   * who is always decorated with a garland of lotus flowers --- [[books:sb:4:30:25|SB 4.30.25]]

@@ -1,5 +1,11 @@
-~~Title:tantre~~
-{{description>in the corollaries of the Vedas.}}
+---json
+{
+    "name":"tantre",
+    "h1":"tantre",
+    "title":"tantre -- synonyms, prabhupada.io",
+    "description":"in the corollaries of the Vedas."
+}
+---
 
 ==== tantre  ====
   * in the corollaries of the //Vedas// --- [[books:sb:4:24:62|SB 4.24.62]]

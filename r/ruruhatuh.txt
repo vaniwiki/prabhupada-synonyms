@@ -1,5 +1,11 @@
-~~Title:ruruhatuḥ~~
-{{description>manifested.}}
+---json
+{
+    "name":"ruruhatuḥ",
+    "h1":"ruruhatuḥ",
+    "title":"ruruhatuḥ -- synonyms, prabhupada.io",
+    "description":"manifested."
+}
+---
 
 ==== ruruhatuḥ  ====
   * manifested --- [[books:sb:2:10:24|SB 2.10.24]]

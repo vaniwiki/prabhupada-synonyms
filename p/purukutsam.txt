@@ -1,5 +1,11 @@
-~~Title:purukutsam~~
-{{description>Purukutsa.}}
+---json
+{
+    "name":"purukutsam",
+    "h1":"purukutsam",
+    "title":"purukutsam -- synonyms, prabhupada.io",
+    "description":"Purukutsa."
+}
+---
 
 ==== purukutsam  ====
   * Purukutsa --- [[books:sb:9:6:38|SB 9.6.38]]

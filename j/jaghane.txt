@@ -1,5 +1,11 @@
-~~Title:jaghane~~
-{{description>on the hips.}}
+---json
+{
+    "name":"jaghane",
+    "h1":"jaghane",
+    "title":"jaghane -- synonyms, prabhupada.io",
+    "description":"on the hips."
+}
+---
 
 ==== jaghane  ====
   * on the hips --- [[books:sb:8:20:24|SB 8.20.24]]

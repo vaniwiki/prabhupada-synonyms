@@ -1,5 +1,11 @@
-~~Title:kasaya~~
-{{description>by whips; with a whip.}}
+---json
+{
+    "name":"kasaya",
+    "h1":"kasaya",
+    "title":"kasaya -- synonyms, prabhupada.io",
+    "description":"by whips; with a whip."
+}
+---
 
 ==== kaśayā  ====
   * by whips --- [[books:sb:5:26:20|SB 5.26.20]]

@@ -1,5 +1,11 @@
-~~Title:dīghala~~
-{{description>long.}}
+---json
+{
+    "name":"dīghala",
+    "h1":"dīghala",
+    "title":"dīghala -- synonyms, prabhupada.io",
+    "description":"long."
+}
+---
 
 ==== dīghala  ====
   * long --- [[books:cc:antya:18:52|Antya 18.52]]

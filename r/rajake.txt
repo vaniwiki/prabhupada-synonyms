@@ -1,5 +1,11 @@
-~~Title:rājāke~~
-{{description>the King; unto the King.}}
+---json
+{
+    "name":"rājāke",
+    "h1":"rājāke",
+    "title":"rājāke -- synonyms, prabhupada.io",
+    "description":"the King; unto the King."
+}
+---
 
 ==== rājāke  ====
   * the King --- [[books:cc:madhya:12:23|Madhya 12.23]], [[books:cc:madhya:12:47|Madhya 12.47]]

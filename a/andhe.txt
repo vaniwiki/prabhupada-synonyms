@@ -1,5 +1,11 @@
-~~Title:andhe~~
-{{description>blind; blind darkness; blindness; in blind; in darkness; in deep darkness.}}
+---json
+{
+    "name":"andhe",
+    "h1":"andhe",
+    "title":"andhe -- synonyms, prabhupada.io",
+    "description":"blind; blind darkness; blindness; in blind; in darkness; in deep darkness."
+}
+---
 
 ==== andhe  ====
   * blind --- [[books:sb:7:15:46|SB 7.15.46]]

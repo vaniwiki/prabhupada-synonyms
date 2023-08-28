@@ -1,5 +1,11 @@
-~~Title:anātmye~~
-{{description>having no attachment.}}
+---json
+{
+    "name":"anātmye",
+    "h1":"anātmye",
+    "title":"anātmye -- synonyms, prabhupada.io",
+    "description":"having no attachment."
+}
+---
 
 ==== anātmye  ====
   * having no attachment --- [[books:sb:5:19:20|SB 5.19.20]]

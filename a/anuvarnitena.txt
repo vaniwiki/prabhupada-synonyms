@@ -1,5 +1,11 @@
-~~Title:anuvarṇitena~~
-{{description>being chanted or recited.}}
+---json
+{
+    "name":"anuvarṇitena",
+    "h1":"anuvarṇitena",
+    "title":"anuvarṇitena -- synonyms, prabhupada.io",
+    "description":"being chanted or recited."
+}
+---
 
 ==== anuvarṇitena  ====
   * being chanted or recited --- [[books:sb:7:9:12|SB 7.9.12]]

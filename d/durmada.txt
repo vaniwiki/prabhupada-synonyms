@@ -1,5 +1,11 @@
-~~Title:durmada~~
-{{description>of the proud.}}
+---json
+{
+    "name":"durmada",
+    "h1":"durmada",
+    "title":"durmada -- synonyms, prabhupada.io",
+    "description":"of the proud."
+}
+---
 
 ==== durmada  ====
   * of the proud --- [[books:sb:3:17:28|SB 3.17.28]]

@@ -1,5 +1,11 @@
-~~Title:maughya~~
-{{description>on account of the frustration.}}
+---json
+{
+    "name":"maughya",
+    "h1":"maughya",
+    "title":"maughya -- synonyms, prabhupada.io",
+    "description":"on account of the frustration."
+}
+---
 
 ==== maughya  ====
   * on account of the frustration --- [[books:sb:10:13:32|SB 10.13.32]]

@@ -1,5 +1,11 @@
-~~Title:satyānṛtābhyām~~
-{{description>even by the profession of satyānṛta.}}
+---json
+{
+    "name":"satyānṛtābhyām",
+    "h1":"satyānṛtābhyām",
+    "title":"satyānṛtābhyām -- synonyms, prabhupada.io",
+    "description":"even by the profession of satyānṛta."
+}
+---
 
 ==== satyānṛtābhyām api  ====
   * even by the profession of //satyānṛta// --- [[books:sb:7:11:18-20|SB 7.11.18-20]]

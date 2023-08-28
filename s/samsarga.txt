@@ -1,5 +1,11 @@
-~~Title:saṁsarga~~
-{{description>contamination (doṣa) due to his touching.}}
+---json
+{
+    "name":"saṁsarga",
+    "h1":"saṁsarga",
+    "title":"saṁsarga -- synonyms, prabhupada.io",
+    "description":"contamination (doṣa) due to his touching."
+}
+---
 
 ==== saṁsarga  ====
   * contamination (//doṣa//) due to his touching --- [[books:sb:4:7:17|SB 4.7.17]]

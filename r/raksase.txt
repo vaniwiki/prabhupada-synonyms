@@ -1,5 +1,11 @@
-~~Title:rākṣase~~
-{{description>the demon Rāvaṇa.}}
+---json
+{
+    "name":"rākṣase",
+    "h1":"rākṣase",
+    "title":"rākṣase -- synonyms, prabhupada.io",
+    "description":"the demon Rāvaṇa."
+}
+---
 
 ==== rākṣase  ====
   * the demon Rāvaṇa --- [[books:cc:madhya:9:188|Madhya 9.188]]

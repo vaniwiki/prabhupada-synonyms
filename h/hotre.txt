@@ -1,5 +1,11 @@
-~~Title:hotre~~
-{{description>unto the hotā priest, who offers oblations; unto the priest known as hotā.}}
+---json
+{
+    "name":"hotre",
+    "h1":"hotre",
+    "title":"hotre -- synonyms, prabhupada.io",
+    "description":"unto the hotā priest, who offers oblations; unto the priest known as hotā."
+}
+---
 
 ==== hotre  ====
   * unto the //hotā// priest, who offers oblations --- [[books:sb:9:11:2|SB 9.11.2]]

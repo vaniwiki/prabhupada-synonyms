@@ -1,5 +1,11 @@
-~~Title:udāyudhān~~
-{{description>having raised weapons.}}
+---json
+{
+    "name":"udāyudhān",
+    "h1":"udāyudhān",
+    "title":"udāyudhān -- synonyms, prabhupada.io",
+    "description":"having raised weapons."
+}
+---
 
 ==== udāyudhān  ====
   * having raised weapons --- [[books:sb:7:8:31|SB 7.8.31]]

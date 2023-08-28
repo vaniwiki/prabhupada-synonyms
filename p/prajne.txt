@@ -1,5 +1,11 @@
-~~Title:prajñe~~
-{{description>ungrateful.}}
+---json
+{
+    "name":"prajñe",
+    "h1":"prajñe",
+    "title":"prajñe -- synonyms, prabhupada.io",
+    "description":"ungrateful."
+}
+---
 
 ==== akṛta-prajñe  ====
   * ungrateful --- [[books:sb:1:13:33|SB 1.13.33]]

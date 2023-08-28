@@ -1,5 +1,11 @@
-~~Title:ambālike~~
-{{description>Ambikā and Ambālikā.}}
+---json
+{
+    "name":"ambālike",
+    "h1":"ambālike",
+    "title":"ambālike -- synonyms, prabhupada.io",
+    "description":"Ambikā and Ambālikā."
+}
+---
 
 ==== ambikā-ambālike  ====
   * Ambikā and Ambālikā --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

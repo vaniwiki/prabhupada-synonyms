@@ -1,5 +1,11 @@
-~~Title:purāṇānām~~
-{{description>of the Purāṇas.}}
+---json
+{
+    "name":"purāṇānām",
+    "h1":"purāṇānām",
+    "title":"purāṇānām -- synonyms, prabhupada.io",
+    "description":"of the Purāṇas."
+}
+---
 
 ==== purāṇānām  ====
   * of the //Purāṇas// --- [[books:cc:madhya:25:143-144|Madhya 25.143-144]]

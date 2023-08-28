@@ -1,5 +1,11 @@
-~~Title:asmākam~~
-{{description>about ourselves; of ours; of us; our; unto us; upon us.}}
+---json
+{
+    "name":"asmākam",
+    "h1":"asmākam",
+    "title":"asmākam -- synonyms, prabhupada.io",
+    "description":"about ourselves; of ours; of us; our; unto us; upon us."
+}
+---
 
 ==== asmākam  ====
   * about ourselves --- [[books:sb:1:14:32-33|SB 1.14.32-33]]

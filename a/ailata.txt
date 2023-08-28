@@ -1,5 +1,11 @@
-~~Title:ailata~~
-{{description>Brahmā began to offer praise.}}
+---json
+{
+    "name":"ailata",
+    "h1":"ailata",
+    "title":"ailata -- synonyms, prabhupada.io",
+    "description":"Brahmā began to offer praise."
+}
+---
 
 ==== ailata  ====
   * Brahmā began to offer praise --- [[books:sb:10:13:64|SB 10.13.64]]

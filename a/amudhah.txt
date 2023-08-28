@@ -1,5 +1,11 @@
-~~Title:amūḍhāḥ~~
-{{description>unbewildered.}}
+---json
+{
+    "name":"amūḍhāḥ",
+    "h1":"amūḍhāḥ",
+    "title":"amūḍhāḥ -- synonyms, prabhupada.io",
+    "description":"unbewildered."
+}
+---
 
 ==== amūḍhāḥ  ====
   * unbewildered --- [[books:bg:15:5|Bg. 15.5]]

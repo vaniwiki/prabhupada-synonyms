@@ -1,5 +1,11 @@
-~~Title:paṭhet~~
-{{description>and go on reading; may read; reads.}}
+---json
+{
+    "name":"paṭhet",
+    "h1":"paṭhet",
+    "title":"paṭhet -- synonyms, prabhupada.io",
+    "description":"and go on reading; may read; reads."
+}
+---
 
 ==== paṭhet  ====
   * and go on reading --- [[books:sb:4:23:37|SB 4.23.37]]

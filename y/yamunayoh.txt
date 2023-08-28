@@ -1,5 +1,11 @@
-~~Title:yamunayoḥ~~
-{{description>of the River Yamunā.}}
+---json
+{
+    "name":"yamunayoḥ",
+    "h1":"yamunayoḥ",
+    "title":"yamunayoḥ -- synonyms, prabhupada.io",
+    "description":"of the River Yamunā."
+}
+---
 
 ==== yamunayoḥ  ====
   * of the River Yamunā --- [[books:sb:4:21:11|SB 4.21.11]]

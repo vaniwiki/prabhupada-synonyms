@@ -1,5 +1,11 @@
-~~Title:bhāvinaḥ~~
-{{description>the future.}}
+---json
+{
+    "name":"bhāvinaḥ",
+    "h1":"bhāvinaḥ",
+    "title":"bhāvinaḥ -- synonyms, prabhupada.io",
+    "description":"the future."
+}
+---
 
 ==== bhāvinaḥ  ====
   * the future --- [[books:sb:9:22:44-45|SB 9.22.44-45]]

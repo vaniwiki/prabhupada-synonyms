@@ -1,5 +1,11 @@
-~~Title:śanaiścaraḥ~~
-{{description>Saturn; the demigod Śani, or Saturn; the planet Saturn; Śanaiścara.}}
+---json
+{
+    "name":"śanaiścaraḥ",
+    "h1":"śanaiścaraḥ",
+    "title":"śanaiścaraḥ -- synonyms, prabhupada.io",
+    "description":"Saturn; the demigod Śani, or Saturn; the planet Saturn; Śanaiścara."
+}
+---
 
 ==== śanaiścaraḥ  ====
   * Saturn --- [[books:sb:5:23:7|SB 5.23.7]]

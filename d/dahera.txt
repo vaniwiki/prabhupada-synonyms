@@ -1,5 +1,11 @@
-~~Title:dahera~~
-{{description>in the water of Lake Kālīya.}}
+---json
+{
+    "name":"dahera",
+    "h1":"dahera",
+    "title":"dahera -- synonyms, prabhupada.io",
+    "description":"in the water of Lake Kālīya."
+}
+---
 
 ==== kālīya-dahera jale  ====
   * in the water of Lake Kālīya --- [[books:cc:madhya:18:94|Madhya 18.94]]

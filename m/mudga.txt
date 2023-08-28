@@ -1,5 +1,11 @@
-~~Title:mudga~~
-{{description>mung dhal.}}
+---json
+{
+    "name":"mudga",
+    "h1":"mudga",
+    "title":"mudga -- synonyms, prabhupada.io",
+    "description":"mung dhal."
+}
+---
 
 ==== mudga  ====
   * mung //dhal// --- [[books:cc:madhya:15:214|Madhya 15.214]]

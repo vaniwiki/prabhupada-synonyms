@@ -1,5 +1,11 @@
-~~Title:parirabdha~~
-{{description>embraced.}}
+---json
+{
+    "name":"parirabdha",
+    "h1":"parirabdha",
+    "title":"parirabdha -- synonyms, prabhupada.io",
+    "description":"embraced."
+}
+---
 
 ==== parirabdha  ====
   * embraced --- [[books:sb:4:27:3|SB 4.27.3]]

@@ -1,5 +1,11 @@
-~~Title:vine~~
-{{description>except; without.}}
+---json
+{
+    "name":"vine",
+    "h1":"vine",
+    "title":"vine -- synonyms, prabhupada.io",
+    "description":"except; without."
+}
+---
 
 ==== vine  ====
   * except --- [[books:cc:adi:5:229|Ādi 5.229]], [[books:cc:madhya:1:199|Madhya 1.199]], [[books:cc:madhya:6:237|Madhya 6.237]]

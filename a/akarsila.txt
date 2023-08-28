@@ -1,5 +1,11 @@
-~~Title:akarsila~~
-{{description>He attracted.}}
+---json
+{
+    "name":"akarsila",
+    "h1":"akarsila",
+    "title":"akarsila -- synonyms, prabhupada.io",
+    "description":"He attracted."
+}
+---
 
 ==== ākarṣila  ====
   * He attracted --- [[books:cc:adi:7:61|Ādi 7.61]]

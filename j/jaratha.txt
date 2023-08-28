@@ -1,5 +1,11 @@
-~~Title:jaraṭhā~~
-{{description>strong.}}
+---json
+{
+    "name":"jaraṭhā",
+    "h1":"jaraṭhā",
+    "title":"jaraṭhā -- synonyms, prabhupada.io",
+    "description":"strong."
+}
+---
 
 ==== jaraṭhā  ====
   * strong --- [[books:cc:madhya:8:69|Madhya 8.69]]

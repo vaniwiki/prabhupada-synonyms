@@ -1,5 +1,11 @@
-~~Title:raivatam~~
-{{description>about Raivata Manu.}}
+---json
+{
+    "name":"raivatam",
+    "h1":"raivatam",
+    "title":"raivatam -- synonyms, prabhupada.io",
+    "description":"about Raivata Manu."
+}
+---
 
 ==== raivatam  ====
   * about Raivata Manu --- [[books:sb:8:5:1|SB 8.5.1]]

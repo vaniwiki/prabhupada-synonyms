@@ -1,5 +1,11 @@
-~~Title:drakṣye~~
-{{description>I shall see.}}
+---json
+{
+    "name":"drakṣye",
+    "h1":"drakṣye",
+    "title":"drakṣye -- synonyms, prabhupada.io",
+    "description":"I shall see."
+}
+---
 
 ==== drakṣye  ====
   * I shall see --- [[books:sb:4:3:10|SB 4.3.10]]

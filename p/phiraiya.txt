@@ -1,5 +1,11 @@
-~~Title:phirāiyā~~
-{{description>turning the whole conversation.}}
+---json
+{
+    "name":"phirāiyā",
+    "h1":"phirāiyā",
+    "title":"phirāiyā -- synonyms, prabhupada.io",
+    "description":"turning the whole conversation."
+}
+---
 
 ==== siddhānta phirāiyā  ====
   * turning the whole conversation --- [[books:cc:madhya:9:151|Madhya 9.151]]

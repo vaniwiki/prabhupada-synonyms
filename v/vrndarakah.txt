@@ -1,5 +1,11 @@
-~~Title:vṛndārakāḥ~~
-{{description>O demigods.}}
+---json
+{
+    "name":"vṛndārakāḥ",
+    "h1":"vṛndārakāḥ",
+    "title":"vṛndārakāḥ -- synonyms, prabhupada.io",
+    "description":"O demigods."
+}
+---
 
 ==== vṛndārakāḥ  ====
   * O demigods --- [[books:sb:6:10:3|SB 6.10.3]]

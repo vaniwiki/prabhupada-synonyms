@@ -1,5 +1,11 @@
-~~Title:aviditvā~~
-{{description>without experiencing.}}
+---json
+{
+    "name":"aviditvā",
+    "h1":"aviditvā",
+    "title":"aviditvā -- synonyms, prabhupada.io",
+    "description":"without experiencing."
+}
+---
 
 ==== aviditvā  ====
   * without experiencing --- [[books:sb:9:18:40|SB 9.18.40]]

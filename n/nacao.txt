@@ -1,5 +1,11 @@
-~~Title:nācāo~~
-{{description>make dance; You are causing to dance; You cause to dance; You make me dance; You make to dance.}}
+---json
+{
+    "name":"nācāo",
+    "h1":"nācāo",
+    "title":"nācāo -- synonyms, prabhupada.io",
+    "description":"make dance; You are causing to dance; You cause to dance; You make me dance; You make to dance."
+}
+---
 
 ==== nācāo  ====
   * make dance --- [[books:cc:madhya:7:18|Madhya 7.18]]

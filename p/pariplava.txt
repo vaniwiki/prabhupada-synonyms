@@ -1,5 +1,11 @@
-~~Title:pāriplava~~
-{{description>whose eyes were moving to and fro.}}
+---json
+{
+    "name":"pāriplava",
+    "h1":"pāriplava",
+    "title":"pāriplava -- synonyms, prabhupada.io",
+    "description":"whose eyes were moving to and fro."
+}
+---
 
 ==== pāriplava-dṛṣṭiḥ  ====
   * whose eyes were moving to and fro --- [[books:sb:5:8:4|SB 5.8.4]]

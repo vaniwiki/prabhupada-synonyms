@@ -1,5 +1,11 @@
-~~Title:nyahanat~~
-{{description>killed; struck.}}
+---json
+{
+    "name":"nyahanat",
+    "h1":"nyahanat",
+    "title":"nyahanat -- synonyms, prabhupada.io",
+    "description":"killed; struck."
+}
+---
 
 ==== nyahanat  ====
   * killed --- [[books:sb:4:26:5|SB 4.26.5]], [[books:sb:7:1:45|SB 7.1.45]]

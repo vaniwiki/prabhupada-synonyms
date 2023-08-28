@@ -1,5 +1,11 @@
-~~Title:śūrasya~~
-{{description>of Śūra.}}
+---json
+{
+    "name":"śūrasya",
+    "h1":"śūrasya",
+    "title":"śūrasya -- synonyms, prabhupada.io",
+    "description":"of Śūra."
+}
+---
 
 ==== śūrasya  ====
   * of Śūra --- [[books:sb:9:24:27|SB 9.24.27]]

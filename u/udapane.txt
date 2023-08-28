@@ -1,5 +1,11 @@
-~~Title:udapāne~~
-{{description>in a well of water.}}
+---json
+{
+    "name":"udapāne",
+    "h1":"udapāne",
+    "title":"udapāne -- synonyms, prabhupada.io",
+    "description":"in a well of water."
+}
+---
 
 ==== udapāne  ====
   * in a well of water --- [[books:bg:2:46|Bg. 2.46]]

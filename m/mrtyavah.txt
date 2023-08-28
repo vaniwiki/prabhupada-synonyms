@@ -1,5 +1,11 @@
-~~Title:mṛtyavaḥ~~
-{{description>causes of death.}}
+---json
+{
+    "name":"mṛtyavaḥ",
+    "h1":"mṛtyavaḥ",
+    "title":"mṛtyavaḥ -- synonyms, prabhupada.io",
+    "description":"causes of death."
+}
+---
 
 ==== mṛtyavaḥ  ====
   * causes of death --- [[books:sb:10:11:55|SB 10.11.55]]

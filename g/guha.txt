@@ -1,5 +1,11 @@
-~~Title:guha~~
-{{description>in the hearts; the foundation.}}
+---json
+{
+    "name":"guha",
+    "h1":"guha",
+    "title":"guha -- synonyms, prabhupada.io",
+    "description":"in the hearts; the foundation."
+}
+---
 
 ==== guhā  ====
   * in the hearts --- [[books:sb:3:24:39|SB 3.24.39]]

@@ -1,5 +1,11 @@
-~~Title:katipayāḥ~~
-{{description>for a few.}}
+---json
+{
+    "name":"katipayāḥ",
+    "h1":"katipayāḥ",
+    "title":"katipayāḥ -- synonyms, prabhupada.io",
+    "description":"for a few."
+}
+---
 
 ==== katipayāḥ  ====
   * for a few --- [[books:sb:9:18:39|SB 9.18.39]]

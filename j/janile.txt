@@ -1,5 +1,11 @@
-~~Title:jānile~~
-{{description>understood; You know.}}
+---json
+{
+    "name":"jānile",
+    "h1":"jānile",
+    "title":"jānile -- synonyms, prabhupada.io",
+    "description":"understood; You know."
+}
+---
 
 ==== jānile  ====
   * understood --- [[books:cc:madhya:1:69|Madhya 1.69]]

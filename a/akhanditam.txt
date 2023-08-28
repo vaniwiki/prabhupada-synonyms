@@ -1,5 +1,11 @@
-~~Title:akhaṇḍitam~~
-{{description>not fragmented; unbroken; without ceasing.}}
+---json
+{
+    "name":"akhaṇḍitam",
+    "h1":"akhaṇḍitam",
+    "title":"akhaṇḍitam -- synonyms, prabhupada.io",
+    "description":"not fragmented; unbroken; without ceasing."
+}
+---
 
 ==== akhaṇḍitam  ====
   * not fragmented --- [[books:sb:3:25:17|SB 3.25.17]]

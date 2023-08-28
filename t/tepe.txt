@@ -1,5 +1,11 @@
-~~Title:tepe~~
-{{description>executed penance; performed; practiced; underwent.}}
+---json
+{
+    "name":"tepe",
+    "h1":"tepe",
+    "title":"tepe -- synonyms, prabhupada.io",
+    "description":"executed penance; performed; practiced; underwent."
+}
+---
 
 ==== tepe  ====
   * executed penance --- [[books:sb:9:9:2|SB 9.9.2]]

@@ -1,5 +1,11 @@
-~~Title:stuti~~
-{{description>and offering of prayers; offering prayers; praise; praising; prayer; prayers; praying to; sometimes by praising.}}
+---json
+{
+    "name":"stuti",
+    "h1":"stuti",
+    "title":"stuti -- synonyms, prabhupada.io",
+    "description":"and offering of prayers; offering prayers; praise; praising; prayer; prayers; praying to; sometimes by praising."
+}
+---
 
 ==== stuti  ====
   * and offering of prayers --- [[books:cc:madhya:8:4|Madhya 8.4]]

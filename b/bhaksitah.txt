@@ -1,5 +1,11 @@
-~~Title:bhakṣitaḥ~~
-{{description>was eaten up.}}
+---json
+{
+    "name":"bhakṣitaḥ",
+    "h1":"bhakṣitaḥ",
+    "title":"bhakṣitaḥ -- synonyms, prabhupada.io",
+    "description":"was eaten up."
+}
+---
 
 ==== bhakṣitaḥ  ====
   * was eaten up --- [[books:sb:9:9:35|SB 9.9.35]]

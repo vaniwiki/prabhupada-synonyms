@@ -1,5 +1,11 @@
-~~Title:prarudantam~~
-{{description>with a crying attitude.}}
+---json
+{
+    "name":"prarudantam",
+    "h1":"prarudantam",
+    "title":"prarudantam -- synonyms, prabhupada.io",
+    "description":"with a crying attitude."
+}
+---
 
 ==== prarudantam  ====
   * with a crying attitude --- [[books:sb:10:9:11|SB 10.9.11]]

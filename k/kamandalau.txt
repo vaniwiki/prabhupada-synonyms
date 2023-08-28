@@ -1,5 +1,11 @@
-~~Title:kamaṇḍalau~~
-{{description>in the waterpot; in this waterpot.}}
+---json
+{
+    "name":"kamaṇḍalau",
+    "h1":"kamaṇḍalau",
+    "title":"kamaṇḍalau -- synonyms, prabhupada.io",
+    "description":"in the waterpot; in this waterpot."
+}
+---
 
 ==== kamaṇḍalau  ====
   * in the waterpot --- [[books:sb:8:24:17|SB 8.24.17]]

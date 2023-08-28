@@ -1,5 +1,11 @@
-~~Title:vacasi~~
-{{description>when the words; you say.}}
+---json
+{
+    "name":"vacasi",
+    "h1":"vacasi",
+    "title":"vacasi -- synonyms, prabhupada.io",
+    "description":"when the words; you say."
+}
+---
 
 ==== vacasi  ====
   * when the words --- [[books:sb:6:16:21|SB 6.16.21]]

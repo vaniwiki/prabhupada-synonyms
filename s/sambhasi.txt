@@ -1,5 +1,11 @@
-~~Title:sambhāṣī~~
-{{description>one who talks with women.}}
+---json
+{
+    "name":"sambhāṣī",
+    "h1":"sambhāṣī",
+    "title":"sambhāṣī -- synonyms, prabhupada.io",
+    "description":"one who talks with women."
+}
+---
 
 ==== prakṛti-sambhāṣī  ====
   * one who talks with women --- [[books:cc:antya:2:124|Antya 2.124]]

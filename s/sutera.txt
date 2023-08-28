@@ -1,5 +1,11 @@
-~~Title:sūtera~~
-{{description>of Sūta Gosvāmī.}}
+---json
+{
+    "name":"sūtera",
+    "h1":"sūtera",
+    "title":"sūtera -- synonyms, prabhupada.io",
+    "description":"of Sūta Gosvāmī."
+}
+---
 
 ==== sūtera  ====
   * of Sūta Gosvāmī --- [[books:cc:adi:2:84|Ādi 2.84]]

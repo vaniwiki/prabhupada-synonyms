@@ -1,5 +1,11 @@
-~~Title:haiñā~~
-{{description>becoming.}}
+---json
+{
+    "name":"haiñā",
+    "h1":"haiñā",
+    "title":"haiñā -- synonyms, prabhupada.io",
+    "description":"becoming."
+}
+---
 
 ==== haiñā  ====
   * becoming --- [[books:cc:adi:6:69-70|Ādi 6.69-70]]

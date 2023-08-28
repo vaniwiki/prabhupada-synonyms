@@ -1,5 +1,11 @@
-~~Title:upadiśet~~
-{{description>one should instruct; one should teach.}}
+---json
+{
+    "name":"upadiśet",
+    "h1":"upadiśet",
+    "title":"upadiśet -- synonyms, prabhupada.io",
+    "description":"one should instruct; one should teach."
+}
+---
 
 ==== upadiśet  ====
   * one should instruct --- [[books:sb:3:32:40|SB 3.32.40]]

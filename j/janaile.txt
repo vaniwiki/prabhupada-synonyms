@@ -1,5 +1,11 @@
-~~Title:jānāile~~
-{{description>unless You make to understand.}}
+---json
+{
+    "name":"jānāile",
+    "h1":"jānāile",
+    "title":"jānāile -- synonyms, prabhupada.io",
+    "description":"unless You make to understand."
+}
+---
 
 ==== tumi nā jānāile  ====
   * unless You make to understand --- [[books:cc:antya:4:90|Antya 4.90]]

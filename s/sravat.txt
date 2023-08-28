@@ -1,5 +1,11 @@
-~~Title:sravat~~
-{{description>flowing.}}
+---json
+{
+    "name":"sravat",
+    "h1":"sravat",
+    "title":"sravat -- synonyms, prabhupada.io",
+    "description":"flowing."
+}
+---
 
 ==== sravat  ====
   * flowing --- [[books:sb:8:10:25|SB 8.10.25]]

@@ -1,5 +1,11 @@
-~~Title:kramaiḥ~~
-{{description>by steps.}}
+---json
+{
+    "name":"kramaiḥ",
+    "h1":"kramaiḥ",
+    "title":"kramaiḥ -- synonyms, prabhupada.io",
+    "description":"by steps."
+}
+---
 
 ==== kramaiḥ  ====
   * by steps --- [[books:sb:8:19:22|SB 8.19.22]], [[books:sb:8:19:33|SB 8.19.33]]

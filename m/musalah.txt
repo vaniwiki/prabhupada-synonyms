@@ -1,5 +1,11 @@
-~~Title:musalāḥ~~
-{{description>maces.}}
+---json
+{
+    "name":"musalāḥ",
+    "h1":"musalāḥ",
+    "title":"musalāḥ -- synonyms, prabhupada.io",
+    "description":"maces."
+}
+---
 
 ==== musalāḥ  ====
   * maces --- [[books:sb:4:10:25|SB 4.10.25]]

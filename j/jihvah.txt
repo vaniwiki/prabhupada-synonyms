@@ -1,5 +1,11 @@
-~~Title:jihvah~~
-{{description>the sense for tasting.}}
+---json
+{
+    "name":"jihvah",
+    "h1":"jihvah",
+    "title":"jihvah -- synonyms, prabhupada.io",
+    "description":"the sense for tasting."
+}
+---
 
 ==== jihvāḥ  ====
   * the sense for tasting --- [[books:sb:2:5:31|SB 2.5.31]]

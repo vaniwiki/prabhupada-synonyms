@@ -1,5 +1,11 @@
-~~Title:nirvṛtyai~~
-{{description>to stop fighting.}}
+---json
+{
+    "name":"nirvṛtyai",
+    "h1":"nirvṛtyai",
+    "title":"nirvṛtyai -- synonyms, prabhupada.io",
+    "description":"to stop fighting."
+}
+---
 
 ==== nirvṛtyai  ====
   * to stop fighting --- [[books:sb:5:1:40|SB 5.1.40]]

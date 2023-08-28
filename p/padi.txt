@@ -1,5 +1,11 @@
-~~Title:padi~~
-{{description>I read; I recite.}}
+---json
+{
+    "name":"padi",
+    "h1":"padi",
+    "title":"padi -- synonyms, prabhupada.io",
+    "description":"I read; I recite."
+}
+---
 
 ==== paḍi  ====
   * I read --- [[books:cc:madhya:9:98|Madhya 9.98]]

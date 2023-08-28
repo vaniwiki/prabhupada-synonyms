@@ -1,5 +1,11 @@
-~~Title:adhitiṣṭhasva~~
-{{description>just remain.}}
+---json
+{
+    "name":"adhitiṣṭhasva",
+    "h1":"adhitiṣṭhasva",
+    "title":"adhitiṣṭhasva -- synonyms, prabhupada.io",
+    "description":"just remain."
+}
+---
 
 ==== adhitiṣṭhasva  ====
   * just remain --- [[books:sb:4:25:37|SB 4.25.37]]

@@ -1,5 +1,11 @@
-~~Title:dadahuḥ~~
-{{description>they burned.}}
+---json
+{
+    "name":"dadahuḥ",
+    "h1":"dadahuḥ",
+    "title":"dadahuḥ -- synonyms, prabhupada.io",
+    "description":"they burned."
+}
+---
 
 ==== dadahuḥ  ====
   * they burned --- [[books:sb:7:2:14|SB 7.2.14]]

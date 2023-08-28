@@ -1,5 +1,11 @@
-~~Title:rahile~~
-{{description>if I remain.}}
+---json
+{
+    "name":"rahile",
+    "h1":"rahile",
+    "title":"rahile -- synonyms, prabhupada.io",
+    "description":"if I remain."
+}
+---
 
 ==== rahile  ====
   * if I remain --- [[books:cc:antya:4:155|Antya 4.155]]

@@ -1,5 +1,11 @@
-~~Title:buddha~~
-{{description>of those whose minds are not sufficiently developed.}}
+---json
+{
+    "name":"buddha",
+    "h1":"buddha",
+    "title":"buddha -- synonyms, prabhupada.io",
+    "description":"of those whose minds are not sufficiently developed."
+}
+---
 
 ==== aprati-buddha-cetasām  ====
   * of those whose minds are not sufficiently developed --- [[books:sb:1:15:36|SB 1.15.36]]

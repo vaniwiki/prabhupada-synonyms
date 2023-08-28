@@ -1,5 +1,11 @@
-~~Title:upaharat~~
-{{description>by feeding; from offering food.}}
+---json
+{
+    "name":"upaharat",
+    "h1":"upaharat",
+    "title":"upaharat -- synonyms, prabhupada.io",
+    "description":"by feeding; from offering food."
+}
+---
 
 ==== upahārāt  ====
   * by feeding --- [[books:sb:4:31:14|SB 4.31.14]]

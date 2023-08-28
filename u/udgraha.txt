@@ -1,5 +1,11 @@
-~~Title:udgrāha~~
-{{description>argument.}}
+---json
+{
+    "name":"udgrāha",
+    "h1":"udgrāha",
+    "title":"udgrāha -- synonyms, prabhupada.io",
+    "description":"argument."
+}
+---
 
 ==== udgrāha  ====
   * argument --- [[books:cc:madhya:9:47|Madhya 9.47]]

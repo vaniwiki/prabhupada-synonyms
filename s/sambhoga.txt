@@ -1,5 +1,11 @@
-~~Title:sambhoga~~
-{{description>enjoyment; of meeting (enjoyment together).}}
+---json
+{
+    "name":"sambhoga",
+    "h1":"sambhoga",
+    "title":"sambhoga -- synonyms, prabhupada.io",
+    "description":"enjoyment; of meeting (enjoyment together)."
+}
+---
 
 ==== sambhoga  ====
   * enjoyment --- [[books:cc:adi:4:166|Ādi 4.166]], [[books:cc:adi:17:4|Ādi 17.4]]

@@ -1,5 +1,11 @@
-~~Title:aplāvitaḥ~~
-{{description>without being touched.}}
+---json
+{
+    "name":"aplāvitaḥ",
+    "h1":"aplāvitaḥ",
+    "title":"aplāvitaḥ -- synonyms, prabhupada.io",
+    "description":"without being touched."
+}
+---
 
 ==== aplāvitaḥ  ====
   * without being touched --- [[books:sb:8:9:25|SB 8.9.25]]

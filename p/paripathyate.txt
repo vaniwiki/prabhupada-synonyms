@@ -1,5 +1,11 @@
-~~Title:paripaṭhyate~~
-{{description>is proclaimed.}}
+---json
+{
+    "name":"paripaṭhyate",
+    "h1":"paripaṭhyate",
+    "title":"paripaṭhyate -- synonyms, prabhupada.io",
+    "description":"is proclaimed."
+}
+---
 
 ==== paripaṭhyate  ====
   * is proclaimed --- [[books:cc:madhya:20:399|Madhya 20.399]]

@@ -1,5 +1,11 @@
-~~Title:anvākramat~~
-{{description>took shelter.}}
+---json
+{
+    "name":"anvākramat",
+    "h1":"anvākramat",
+    "title":"anvākramat -- synonyms, prabhupada.io",
+    "description":"took shelter."
+}
+---
 
 ==== anvākramat  ====
   * took shelter --- [[books:sb:3:1:17|SB 3.1.17]]

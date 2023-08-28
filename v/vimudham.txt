@@ -1,5 +1,11 @@
-~~Title:vimūḍham~~
-{{description>bewildered.}}
+---json
+{
+    "name":"vimūḍham",
+    "h1":"vimūḍham",
+    "title":"vimūḍham -- synonyms, prabhupada.io",
+    "description":"bewildered."
+}
+---
 
 ==== vimūḍham  ====
   * bewildered --- [[books:sb:2:1:20|SB 2.1.20]]

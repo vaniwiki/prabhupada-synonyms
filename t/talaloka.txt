@@ -1,5 +1,11 @@
-~~Title:talaloka~~
-{{description>the leaders of the lower planets.}}
+---json
+{
+    "name":"talaloka",
+    "h1":"talaloka",
+    "title":"talaloka -- synonyms, prabhupada.io",
+    "description":"the leaders of the lower planets."
+}
+---
 
 ==== talaloka-pālāḥ  ====
   * the leaders of the lower planets --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

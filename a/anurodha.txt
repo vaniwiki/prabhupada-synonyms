@@ -1,5 +1,11 @@
-~~Title:anurodha~~
-{{description>acceptance of someone's opinion; entreaty.}}
+---json
+{
+    "name":"anurodha",
+    "h1":"anurodha",
+    "title":"anurodha -- synonyms, prabhupada.io",
+    "description":"acceptance of someone's opinion; entreaty."
+}
+---
 
 ==== anurodha  ====
   * acceptance of someone's opinion --- [[books:cc:madhya:2:86|Madhya 2.86]]

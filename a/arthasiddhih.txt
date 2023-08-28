@@ -1,5 +1,11 @@
-~~Title:arthasiddhiḥ~~
-{{description>Arthasiddhi.}}
+---json
+{
+    "name":"arthasiddhiḥ",
+    "h1":"arthasiddhiḥ",
+    "title":"arthasiddhiḥ -- synonyms, prabhupada.io",
+    "description":"Arthasiddhi."
+}
+---
 
 ==== arthasiddhiḥ  ====
   * Arthasiddhi --- [[books:sb:6:6:7|SB 6.6.7]]

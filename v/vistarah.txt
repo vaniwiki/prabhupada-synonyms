@@ -1,5 +1,11 @@
-~~Title:vistarah~~
-{{description>expanded; various.}}
+---json
+{
+    "name":"vistarah",
+    "h1":"vistarah",
+    "title":"vistarah -- synonyms, prabhupada.io",
+    "description":"expanded; various."
+}
+---
 
 ==== vistaraḥ  ====
   * expanded --- [[books:bg:10:40|Bg. 10.40]]

@@ -1,5 +1,11 @@
-~~Title:kavacah~~
-{{description>having a shield of women.}}
+---json
+{
+    "name":"kavacah",
+    "h1":"kavacah",
+    "title":"kavacah -- synonyms, prabhupada.io",
+    "description":"having a shield of women."
+}
+---
 
 ==== nārī-kavacaḥ  ====
   * having a shield of women --- [[books:sb:9:9:40|SB 9.9.40]]

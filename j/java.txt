@@ -1,5 +1,11 @@
-~~Title:java~~
-{{description>by the force.}}
+---json
+{
+    "name":"java",
+    "h1":"java",
+    "title":"java -- synonyms, prabhupada.io",
+    "description":"by the force."
+}
+---
 
 ==== java  ====
   * by the force --- [[books:sb:10:3:50|SB 10.3.50]]

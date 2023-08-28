@@ -1,5 +1,11 @@
-~~Title:bhagasya~~
-{{description>of Bhaga; of opulences.}}
+---json
+{
+    "name":"bhagasya",
+    "h1":"bhagasya",
+    "title":"bhagasya -- synonyms, prabhupada.io",
+    "description":"of Bhaga; of opulences."
+}
+---
 
 ==== bhagasya  ====
   * of Bhaga --- [[books:sb:4:5:20|SB 4.5.20]], [[books:sb:6:18:2|SB 6.18.2]]

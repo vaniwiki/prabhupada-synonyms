@@ -1,5 +1,11 @@
-~~Title:mukhī~~
-{{description>her head bent down; with her face lowered.}}
+---json
+{
+    "name":"mukhī",
+    "h1":"mukhī",
+    "title":"mukhī -- synonyms, prabhupada.io",
+    "description":"her head bent down; with her face lowered."
+}
+---
 
 ==== adhaḥ-mukhī  ====
   * her head bent down --- [[books:sb:3:23:50|SB 3.23.50]]

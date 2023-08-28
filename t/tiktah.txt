@@ -1,5 +1,11 @@
-~~Title:tiktaḥ~~
-{{description>bitter.}}
+---json
+{
+    "name":"tiktaḥ",
+    "h1":"tiktaḥ",
+    "title":"tiktaḥ -- synonyms, prabhupada.io",
+    "description":"bitter."
+}
+---
 
 ==== tiktaḥ  ====
   * bitter --- [[books:sb:3:26:42|SB 3.26.42]]

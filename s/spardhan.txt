@@ -1,5 +1,11 @@
-~~Title:spardhan~~
-{{description>being envious.}}
+---json
+{
+    "name":"spardhan",
+    "h1":"spardhan",
+    "title":"spardhan -- synonyms, prabhupada.io",
+    "description":"being envious."
+}
+---
 
 ==== spardhan  ====
   * being envious --- [[books:sb:4:19:11|SB 4.19.11]]

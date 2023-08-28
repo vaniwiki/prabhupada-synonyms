@@ -1,5 +1,11 @@
-~~Title:na~~
-{{description>never; not; are not; but not; cannot; certainly not; could not; did not; do not; does it not; does not; is not; it is not; it is not so; may not; neither; never; never does; never to be; no; no one; none; nor; not; not like that; not preceded by oṁ; not suitable; nothing; or not; shall not; should never; there is none; there is not; there should not be; was not; whether; without.}}
+---json
+{
+    "name":"na",
+    "h1":"na",
+    "title":"na -- synonyms, prabhupada.io",
+    "description":"never; not; are not; but not; cannot; certainly not; could not; did not; do not; does it not; does not; is not; it is not; it is not so; may not; neither; never; never does; never to be; no; no one; none; nor; not; not like that; not preceded by oṁ; not suitable; nothing; or not; shall not; should never; there is none; there is not; there should not be; was not; whether; without."
+}
+---
 
 ==== na  ====
   * //never// --- [[books:cc:madhya:8:206|Madhya 8.206]]

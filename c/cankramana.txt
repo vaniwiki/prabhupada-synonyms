@@ -1,5 +1,11 @@
-~~Title:caṅkramaṇa~~
-{{description>movement; the crawling.}}
+---json
+{
+    "name":"caṅkramaṇa",
+    "h1":"caṅkramaṇa",
+    "title":"caṅkramaṇa -- synonyms, prabhupada.io",
+    "description":"movement; the crawling."
+}
+---
 
 ==== caṅkramaṇa  ====
   * movement --- [[books:cc:adi:14:23|Ādi 14.23]]

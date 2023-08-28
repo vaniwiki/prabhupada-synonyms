@@ -1,5 +1,11 @@
-~~Title:sresthah~~
-{{description>respectable leader; seniormost; the best; the best man; the best of all kings; the most powerful (the thunderbolt); you are the best.}}
+---json
+{
+    "name":"sresthah",
+    "h1":"sresthah",
+    "title":"sresthah -- synonyms, prabhupada.io",
+    "description":"respectable leader; seniormost; the best; the best man; the best of all kings; the most powerful (the thunderbolt); you are the best."
+}
+---
 
 ==== śreṣṭhaḥ  ====
   * respectable leader --- [[books:bg:3:21|Bg. 3.21]]

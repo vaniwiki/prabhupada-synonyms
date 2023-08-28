@@ -1,5 +1,11 @@
-~~Title:bhoginaḥ~~
-{{description>very addicted to material happiness.}}
+---json
+{
+    "name":"bhoginaḥ",
+    "h1":"bhoginaḥ",
+    "title":"bhoginaḥ -- synonyms, prabhupada.io",
+    "description":"very addicted to material happiness."
+}
+---
 
 ==== mahā-bhoginaḥ  ====
   * very addicted to material happiness --- [[books:sb:5:24:31|SB 5.24.31]]

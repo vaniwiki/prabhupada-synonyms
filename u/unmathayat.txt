@@ -1,5 +1,11 @@
-~~Title:unmathayat~~
-{{description>agitating.}}
+---json
+{
+    "name":"unmathayat",
+    "h1":"unmathayat",
+    "title":"unmathayat -- synonyms, prabhupada.io",
+    "description":"agitating."
+}
+---
 
 ==== unmathayat  ====
   * agitating --- [[books:sb:4:6:30|SB 4.6.30]]

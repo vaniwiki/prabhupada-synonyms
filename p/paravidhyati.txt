@@ -1,5 +1,11 @@
-~~Title:parāvidhyati~~
-{{description>pierces.}}
+---json
+{
+    "name":"parāvidhyati",
+    "h1":"parāvidhyati",
+    "title":"parāvidhyati -- synonyms, prabhupada.io",
+    "description":"pierces."
+}
+---
 
 ==== parāvidhyati  ====
   * pierces --- [[books:sb:4:29:54|SB 4.29.54]]

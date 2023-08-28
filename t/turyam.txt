@@ -1,5 +1,11 @@
-~~Title:turyam~~
-{{description>one fourth.}}
+---json
+{
+    "name":"turyam",
+    "h1":"turyam",
+    "title":"turyam -- synonyms, prabhupada.io",
+    "description":"one fourth."
+}
+---
 
 ==== turyam  ====
   * one fourth --- [[books:sb:6:9:8|SB 6.9.8]]

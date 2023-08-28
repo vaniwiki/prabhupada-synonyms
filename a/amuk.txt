@@ -1,5 +1,11 @@
-~~Title:amuk~~
-{{description>such and such devotee.}}
+---json
+{
+    "name":"amuk",
+    "h1":"amuk",
+    "title":"amuk -- synonyms, prabhupada.io",
+    "description":"such and such devotee."
+}
+---
 
 ==== amuk  ====
   * such and such devotee --- [[books:cc:antya:10:110|Antya 10.110]]

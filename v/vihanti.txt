@@ -1,5 +1,11 @@
-~~Title:vihanti~~
-{{description>give up.}}
+---json
+{
+    "name":"vihanti",
+    "h1":"vihanti",
+    "title":"vihanti -- synonyms, prabhupada.io",
+    "description":"give up."
+}
+---
 
 ==== vihanti  ====
   * give up --- [[books:sb:10:2:21|SB 10.2.21]]

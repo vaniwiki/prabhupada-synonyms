@@ -1,5 +1,11 @@
-~~Title:panti~~
-{{description>protect.}}
+---json
+{
+    "name":"panti",
+    "h1":"panti",
+    "title":"panti -- synonyms, prabhupada.io",
+    "description":"protect."
+}
+---
 
 ==== pānti  ====
   * protect --- [[books:sb:8:7:39|SB 8.7.39]]

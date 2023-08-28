@@ -1,5 +1,11 @@
-~~Title:pracalat~~
-{{description>his body trembling.}}
+---json
+{
+    "name":"pracalat",
+    "h1":"pracalat",
+    "title":"pracalat -- synonyms, prabhupada.io",
+    "description":"his body trembling."
+}
+---
 
 ==== pracalat-gātraḥ  ====
   * his body trembling --- [[books:sb:9:4:43|SB 9.4.43]]

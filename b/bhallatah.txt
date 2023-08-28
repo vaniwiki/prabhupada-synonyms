@@ -1,5 +1,11 @@
-~~Title:bhallāṭaḥ~~
-{{description>a son named Bhallāṭa.}}
+---json
+{
+    "name":"bhallāṭaḥ",
+    "h1":"bhallāṭaḥ",
+    "title":"bhallāṭaḥ -- synonyms, prabhupada.io",
+    "description":"a son named Bhallāṭa."
+}
+---
 
 ==== bhallāṭaḥ  ====
   * a son named Bhallāṭa --- [[books:sb:9:21:26|SB 9.21.26]]

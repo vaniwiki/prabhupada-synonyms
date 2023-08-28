@@ -1,5 +1,11 @@
-~~Title:sannibhaḥ~~
-{{description>like.}}
+---json
+{
+    "name":"sannibhaḥ",
+    "h1":"sannibhaḥ",
+    "title":"sannibhaḥ -- synonyms, prabhupada.io",
+    "description":"like."
+}
+---
 
 ==== sannibhaḥ  ====
   * like --- [[books:sb:3:13:23|SB 3.13.23]]

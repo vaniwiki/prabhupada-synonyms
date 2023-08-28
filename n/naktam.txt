@@ -1,5 +1,11 @@
-~~Title:naktam~~
-{{description>during the night; night; or at night.}}
+---json
+{
+    "name":"naktam",
+    "h1":"naktam",
+    "title":"naktam -- synonyms, prabhupada.io",
+    "description":"during the night; night; or at night."
+}
+---
 
 ==== naktam  ====
   * during the night --- [[books:sb:7:3:36|SB 7.3.36]]

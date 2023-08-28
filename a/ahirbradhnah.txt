@@ -1,5 +1,11 @@
-~~Title:ahirbradhnaḥ~~
-{{description>Ahirbradhna.}}
+---json
+{
+    "name":"ahirbradhnaḥ",
+    "h1":"ahirbradhnaḥ",
+    "title":"ahirbradhnaḥ -- synonyms, prabhupada.io",
+    "description":"Ahirbradhna."
+}
+---
 
 ==== ahirbradhnaḥ  ====
   * Ahirbradhna --- [[books:sb:6:6:17-18|SB 6.6.17-18]]

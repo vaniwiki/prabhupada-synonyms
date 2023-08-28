@@ -1,5 +1,11 @@
-~~Title:virājayati~~
-{{description>illuminates.}}
+---json
+{
+    "name":"virājayati",
+    "h1":"virājayati",
+    "title":"virājayati -- synonyms, prabhupada.io",
+    "description":"illuminates."
+}
+---
 
 ==== virājayati  ====
   * illuminates --- [[books:sb:5:20:13|SB 5.20.13]]

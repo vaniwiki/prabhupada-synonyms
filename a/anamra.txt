@@ -1,5 +1,11 @@
-~~Title:anamra~~
-{{description>the one who does not offer obeisances.}}
+---json
+{
+    "name":"anamra",
+    "h1":"anamra",
+    "title":"anamra -- synonyms, prabhupada.io",
+    "description":"the one who does not offer obeisances."
+}
+---
 
 ==== anamra  ====
   * the one who does not offer obeisances --- [[books:cc:antya:5:141|Antya 5.141]]

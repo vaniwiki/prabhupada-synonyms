@@ -1,5 +1,11 @@
-~~Title:kuthalī~~
-{{description>small bags.}}
+---json
+{
+    "name":"kuthalī",
+    "h1":"kuthalī",
+    "title":"kuthalī -- synonyms, prabhupada.io",
+    "description":"small bags."
+}
+---
 
 ==== kuthalī  ====
   * small bags --- [[books:cc:antya:10:23|Antya 10.23]]

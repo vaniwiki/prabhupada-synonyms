@@ -1,5 +1,11 @@
-~~Title:bhṛtaḥ~~
-{{description>accepting; done; kings; maintained; took birth.}}
+---json
+{
+    "name":"bhṛtaḥ",
+    "h1":"bhṛtaḥ",
+    "title":"bhṛtaḥ -- synonyms, prabhupada.io",
+    "description":"accepting; done; kings; maintained; took birth."
+}
+---
 
 ==== bhṛtaḥ  ====
   * accepting --- [[books:cc:adi:12:1|Ādi 12.1]]

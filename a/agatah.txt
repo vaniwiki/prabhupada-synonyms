@@ -1,5 +1,11 @@
-~~Title:agatah~~
-{{description>appeared; arrived; came; came there; coming there; has kindly come; have come; reached; returned; when he returned.}}
+---json
+{
+    "name":"agatah",
+    "h1":"agatah",
+    "title":"agatah -- synonyms, prabhupada.io",
+    "description":"appeared; arrived; came; came there; coming there; has kindly come; have come; reached; returned; when he returned."
+}
+---
 
 ==== āgataḥ  ====
   * appeared --- [[books:sb:4:12:1|SB 4.12.1]]

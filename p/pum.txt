@@ -1,5 +1,11 @@
-~~Title:pum~~
-{{description>which produces a male child.}}
+---json
+{
+    "name":"pum",
+    "h1":"pum",
+    "title":"pum -- synonyms, prabhupada.io",
+    "description":"which produces a male child."
+}
+---
 
 ==== pum-savanam  ====
   * which produces a male child --- [[books:sb:4:13:38|SB 4.13.38]]

@@ -1,5 +1,11 @@
-~~Title:paramāṇu~~
-{{description>the atom.}}
+---json
+{
+    "name":"paramāṇu",
+    "h1":"paramāṇu",
+    "title":"paramāṇu -- synonyms, prabhupada.io",
+    "description":"the atom."
+}
+---
 
 ==== paramāṇu  ====
   * the atom --- [[books:cc:madhya:25:51|Madhya 25.51]]

@@ -1,5 +1,11 @@
-~~Title:sajjet~~
-{{description>be attached; becomes attracted.}}
+---json
+{
+    "name":"sajjet",
+    "h1":"sajjet",
+    "title":"sajjet -- synonyms, prabhupada.io",
+    "description":"be attached; becomes attracted."
+}
+---
 
 ==== sajjet  ====
   * be attached --- [[books:sb:2:1:39|SB 2.1.39]]

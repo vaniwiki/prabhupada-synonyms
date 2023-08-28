@@ -1,5 +1,11 @@
-~~Title:utsmita~~
-{{description>slightly smiling.}}
+---json
+{
+    "name":"utsmita",
+    "h1":"utsmita",
+    "title":"utsmita -- synonyms, prabhupada.io",
+    "description":"slightly smiling."
+}
+---
 
 ==== utsmita  ====
   * slightly smiling --- [[books:sb:8:9:18|SB 8.9.18]]

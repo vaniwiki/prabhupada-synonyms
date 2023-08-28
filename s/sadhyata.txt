@@ -1,5 +1,11 @@
-~~Title:sādhyatā~~
-{{description>potentiality.}}
+---json
+{
+    "name":"sādhyatā",
+    "h1":"sādhyatā",
+    "title":"sādhyatā -- synonyms, prabhupada.io",
+    "description":"potentiality."
+}
+---
 
 ==== sādhyatā  ====
   * potentiality --- [[books:cc:madhya:22:105|Madhya 22.105]]

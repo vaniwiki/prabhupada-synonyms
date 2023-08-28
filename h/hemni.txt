@@ -1,5 +1,11 @@
-~~Title:hemni~~
-{{description>gold.}}
+---json
+{
+    "name":"hemni",
+    "h1":"hemni",
+    "title":"hemni -- synonyms, prabhupada.io",
+    "description":"gold."
+}
+---
 
 ==== hemni  ====
   * gold --- [[books:sb:3:15:21|SB 3.15.21]]

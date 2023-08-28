@@ -1,5 +1,11 @@
-~~Title:kaṇṭham~~
-{{description>neck; the neck.}}
+---json
+{
+    "name":"kaṇṭham",
+    "h1":"kaṇṭham",
+    "title":"kaṇṭham -- synonyms, prabhupada.io",
+    "description":"neck; the neck."
+}
+---
 
 ==== kaṇṭham  ====
   * neck --- [[books:sb:1:19:26|SB 1.19.26]], [[books:sb:10:6:22-23|SB 10.6.22-23]]

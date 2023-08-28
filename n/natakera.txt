@@ -1,5 +1,11 @@
-~~Title:nāṭakera~~
-{{description>of the drama.}}
+---json
+{
+    "name":"nāṭakera",
+    "h1":"nāṭakera",
+    "title":"nāṭakera -- synonyms, prabhupada.io",
+    "description":"of the drama."
+}
+---
 
 ==== nāṭakera  ====
   * of the drama --- [[books:cc:antya:1:35|Antya 1.35]], [[books:cc:antya:1:36|Antya 1.36]]

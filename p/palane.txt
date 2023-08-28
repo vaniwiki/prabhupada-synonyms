@@ -1,5 +1,11 @@
-~~Title:pālane~~
-{{description>in protection; maintenance.}}
+---json
+{
+    "name":"pālane",
+    "h1":"pālane",
+    "title":"pālane -- synonyms, prabhupada.io",
+    "description":"in protection; maintenance."
+}
+---
 
 ==== pālane  ====
   * in protection --- [[books:sb:4:17:18|SB 4.17.18]]

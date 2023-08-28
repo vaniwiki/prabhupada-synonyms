@@ -1,5 +1,11 @@
-~~Title:hāṭakī~~
-{{description>Hāṭakī.}}
+---json
+{
+    "name":"hāṭakī",
+    "h1":"hāṭakī",
+    "title":"hāṭakī -- synonyms, prabhupada.io",
+    "description":"Hāṭakī."
+}
+---
 
 ==== hāṭakī  ====
   * Hāṭakī --- [[books:sb:5:24:17|SB 5.24.17]]

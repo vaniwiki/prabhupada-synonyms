@@ -1,5 +1,11 @@
-~~Title:pithah~~
-{{description>feet honored by prayers.}}
+---json
+{
+    "name":"pithah",
+    "h1":"pithah",
+    "title":"pithah -- synonyms, prabhupada.io",
+    "description":"feet honored by prayers."
+}
+---
 
 ==== eḍita-pāda-pīṭhaḥ  ====
   * feet honored by prayers --- [[books:sb:3:2:21|SB 3.2.21]]

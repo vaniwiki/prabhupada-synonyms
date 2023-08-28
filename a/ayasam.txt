@@ -1,5 +1,11 @@
-~~Title:ayasam~~
-{{description>with great labor.}}
+---json
+{
+    "name":"ayasam",
+    "h1":"ayasam",
+    "title":"ayasam -- synonyms, prabhupada.io",
+    "description":"with great labor."
+}
+---
 
 ==== bahula-āyāsam  ====
   * with great labor --- [[books:bg:18:24|Bg. 18.24]]

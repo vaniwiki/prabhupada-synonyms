@@ -1,5 +1,11 @@
-~~Title:sametāya~~
-{{description>unto the reservoir.}}
+---json
+{
+    "name":"sametāya",
+    "h1":"sametāya",
+    "title":"sametāya -- synonyms, prabhupada.io",
+    "description":"unto the reservoir."
+}
+---
 
 ==== sametāya  ====
   * unto the reservoir --- [[books:sb:4:24:43|SB 4.24.43]]

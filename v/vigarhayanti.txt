@@ -1,5 +1,11 @@
-~~Title:vigarhayanti~~
-{{description>disapproving.}}
+---json
+{
+    "name":"vigarhayanti",
+    "h1":"vigarhayanti",
+    "title":"vigarhayanti -- synonyms, prabhupada.io",
+    "description":"disapproving."
+}
+---
 
 ==== vigarhayanti  ====
   * disapproving --- [[books:sb:1:7:13-14|SB 1.7.13-14]]

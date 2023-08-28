@@ -1,5 +1,11 @@
-~~Title:kṣataja~~
-{{description>bloody; by wounds.}}
+---json
+{
+    "name":"kṣataja",
+    "h1":"kṣataja",
+    "title":"kṣataja -- synonyms, prabhupada.io",
+    "description":"bloody; by wounds."
+}
+---
 
 ==== kṣataja  ====
   * bloody --- [[books:sb:7:9:15|SB 7.9.15]]

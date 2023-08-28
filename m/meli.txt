@@ -1,5 +1,11 @@
-~~Title:meli'~~
-{{description>meeting together.}}
+---json
+{
+    "name":"meli'",
+    "h1":"meli'",
+    "title":"meli' -- synonyms, prabhupada.io",
+    "description":"meeting together."
+}
+---
 
 ==== ekatra meli'  ====
   * meeting together --- [[books:cc:antya:18:81|Antya 18.81]]

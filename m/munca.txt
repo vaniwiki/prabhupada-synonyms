@@ -1,5 +1,11 @@
-~~Title:muñca~~
-{{description>give up; please release.}}
+---json
+{
+    "name":"muñca",
+    "h1":"muñca",
+    "title":"muñca -- synonyms, prabhupada.io",
+    "description":"give up; please release."
+}
+---
 
 ==== muñca  ====
   * give up --- [[books:sb:10:6:11|SB 10.6.11]]

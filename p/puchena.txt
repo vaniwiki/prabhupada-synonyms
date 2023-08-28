@@ -1,5 +1,11 @@
-~~Title:puchena~~
-{{description>inquire; inquired; inquires.}}
+---json
+{
+    "name":"puchena",
+    "h1":"puchena",
+    "title":"puchena -- synonyms, prabhupada.io",
+    "description":"inquire; inquired; inquires."
+}
+---
 
 ==== puchena  ====
   * inquire --- [[books:cc:antya:15:43|Antya 15.43]]

@@ -1,5 +1,11 @@
-~~Title:parimāṇa~~
-{{description>duration; measurement; overcrowded.}}
+---json
+{
+    "name":"parimāṇa",
+    "h1":"parimāṇa",
+    "title":"parimāṇa -- synonyms, prabhupada.io",
+    "description":"duration; measurement; overcrowded."
+}
+---
 
 ==== parimāṇa  ====
   * duration --- [[books:cc:madhya:20:388|Madhya 20.388]]

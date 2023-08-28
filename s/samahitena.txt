@@ -1,5 +1,11 @@
-~~Title:samāhitena~~
-{{description>by full adjustment; with proper attention.}}
+---json
+{
+    "name":"samāhitena",
+    "h1":"samāhitena",
+    "title":"samāhitena -- synonyms, prabhupada.io",
+    "description":"by full adjustment; with proper attention."
+}
+---
 
 ==== samāhitena  ====
   * by full adjustment --- [[books:sb:8:5:19-20|SB 8.5.19-20]]

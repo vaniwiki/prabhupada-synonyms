@@ -1,5 +1,11 @@
-~~Title:paṅcasi~~
-{{description>the full-moon day in the month of Māgha.}}
+---json
+{
+    "name":"paṅcasi",
+    "h1":"paṅcasi",
+    "title":"paṅcasi -- synonyms, prabhupada.io",
+    "description":"the full-moon day in the month of Māgha."
+}
+---
 
 ==== makara-paṅcasi  ====
   * the full-moon day in the month of Māgha --- [[books:cc:madhya:18:146|Madhya 18.146]]

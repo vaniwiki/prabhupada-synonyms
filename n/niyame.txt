@@ -1,5 +1,11 @@
-~~Title:niyame~~
-{{description>a regular duty; regulated.}}
+---json
+{
+    "name":"niyame",
+    "h1":"niyame",
+    "title":"niyame -- synonyms, prabhupada.io",
+    "description":"a regular duty; regulated."
+}
+---
 
 ==== niyame  ====
   * a regular duty --- [[books:cc:antya:9:81|Antya 9.81]]

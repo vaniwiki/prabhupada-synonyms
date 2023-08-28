@@ -1,5 +1,11 @@
-~~Title:nipāta~~
-{{description>the force of diving.}}
+---json
+{
+    "name":"nipāta",
+    "h1":"nipāta",
+    "title":"nipāta -- synonyms, prabhupada.io",
+    "description":"the force of diving."
+}
+---
 
 ==== nipāta-vega  ====
   * the force of diving --- [[books:sb:3:13:29|SB 3.13.29]]

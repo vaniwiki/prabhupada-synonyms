@@ -1,5 +1,11 @@
-~~Title:grastaḥ~~
-{{description>attacked; overcome.}}
+---json
+{
+    "name":"grastaḥ",
+    "h1":"grastaḥ",
+    "title":"grastaḥ -- synonyms, prabhupada.io",
+    "description":"attacked; overcome."
+}
+---
 
 ==== grastaḥ  ====
   * attacked --- [[books:sb:3:21:55|SB 3.21.55]]

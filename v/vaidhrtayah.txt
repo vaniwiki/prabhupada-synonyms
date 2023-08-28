@@ -1,5 +1,11 @@
-~~Title:vaidhṛtayaḥ~~
-{{description>the Vaidhṛtis.}}
+---json
+{
+    "name":"vaidhṛtayaḥ",
+    "h1":"vaidhṛtayaḥ",
+    "title":"vaidhṛtayaḥ -- synonyms, prabhupada.io",
+    "description":"the Vaidhṛtis."
+}
+---
 
 ==== vaidhṛtayaḥ  ====
   * the Vaidhṛtis --- [[books:sb:8:1:29|SB 8.1.29]]

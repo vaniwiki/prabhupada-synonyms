@@ -1,5 +1,11 @@
-~~Title:racitayā~~
-{{description>displayed.}}
+---json
+{
+    "name":"racitayā",
+    "h1":"racitayā",
+    "title":"racitayā -- synonyms, prabhupada.io",
+    "description":"displayed."
+}
+---
 
 ==== racitayā  ====
   * displayed --- [[books:sb:3:30:8|SB 3.30.8]]

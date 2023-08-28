@@ -1,5 +1,11 @@
-~~Title:vitrāsa~~
-{{description>You are naturally the destroyer of the fear of Your servants.}}
+---json
+{
+    "name":"vitrāsa",
+    "h1":"vitrāsa",
+    "title":"vitrāsa -- synonyms, prabhupada.io",
+    "description":"You are naturally the destroyer of the fear of Your servants."
+}
+---
 
 ==== bhṛtya-vitrāsa-hā asi  ====
   * You are naturally the destroyer of the fear of Your servants --- [[books:sb:10:3:28|SB 10.3.28]]

@@ -1,5 +1,11 @@
-~~Title:daśadbhiḥ~~
-{{description>biting.}}
+---json
+{
+    "name":"daśadbhiḥ",
+    "h1":"daśadbhiḥ",
+    "title":"daśadbhiḥ -- synonyms, prabhupada.io",
+    "description":"biting."
+}
+---
 
 ==== daśadbhiḥ  ====
   * biting --- [[books:sb:3:30:26|SB 3.30.26]]

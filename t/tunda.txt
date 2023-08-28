@@ -1,5 +1,11 @@
-~~Title:tunda~~
-{{description>to achieve many mouths.}}
+---json
+{
+    "name":"tunda",
+    "h1":"tunda",
+    "title":"tunda -- synonyms, prabhupada.io",
+    "description":"to achieve many mouths."
+}
+---
 
 ==== tuṇḍa-āvalī-labdhaye  ====
   * to achieve many mouths --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

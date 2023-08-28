@@ -1,5 +1,11 @@
-~~Title:citkāra~~
-{{description>crying.}}
+---json
+{
+    "name":"citkāra",
+    "h1":"citkāra",
+    "title":"citkāra -- synonyms, prabhupada.io",
+    "description":"crying."
+}
+---
 
 ==== citkāra  ====
   * crying --- [[books:cc:madhya:14:53|Madhya 14.53]]

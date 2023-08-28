@@ -1,5 +1,11 @@
-~~Title:parigītāni~~
-{{description>broadcast.}}
+---json
+{
+    "name":"parigītāni",
+    "h1":"parigītāni",
+    "title":"parigītāni -- synonyms, prabhupada.io",
+    "description":"broadcast."
+}
+---
 
 ==== parigītāni  ====
   * broadcast --- [[books:sb:1:1:17|SB 1.1.17]]

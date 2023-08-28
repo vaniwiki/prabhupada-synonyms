@@ -1,5 +1,11 @@
-~~Title:gītera~~
-{{description>of the song; of the songs.}}
+---json
+{
+    "name":"gītera",
+    "h1":"gītera",
+    "title":"gītera -- synonyms, prabhupada.io",
+    "description":"of the song; of the songs."
+}
+---
 
 ==== gītera  ====
   * of the song --- [[books:cc:madhya:8:250|Madhya 8.250]], [[books:cc:madhya:13:117|Madhya 13.117]]

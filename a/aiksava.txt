@@ -1,5 +1,11 @@
-~~Title:aikṣava~~
-{{description>sugar.}}
+---json
+{
+    "name":"aikṣava",
+    "h1":"aikṣava",
+    "title":"aikṣava -- synonyms, prabhupada.io",
+    "description":"sugar."
+}
+---
 
 ==== aikṣava  ====
   * sugar --- [[books:cc:antya:16:108-109|Antya 16.108-109]]

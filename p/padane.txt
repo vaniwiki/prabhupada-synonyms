@@ -1,5 +1,11 @@
-~~Title:pāḍane~~
-{{description>one for bedding, one for the pillow.}}
+---json
+{
+    "name":"pāḍane",
+    "h1":"pāḍane",
+    "title":"pāḍane -- synonyms, prabhupada.io",
+    "description":"one for bedding, one for the pillow."
+}
+---
 
 ==== oḍana-pāḍane  ====
   * one for bedding, one for the pillow --- [[books:cc:antya:13:19|Antya 13.19]]

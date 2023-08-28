@@ -1,5 +1,11 @@
-~~Title:modam~~
-{{description>bliss; enjoyment.}}
+---json
+{
+    "name":"modam",
+    "h1":"modam",
+    "title":"modam -- synonyms, prabhupada.io",
+    "description":"bliss; enjoyment."
+}
+---
 
 ==== modam  ====
   * bliss --- [[books:sb:10:7:30|SB 10.7.30]]

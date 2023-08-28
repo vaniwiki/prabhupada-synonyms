@@ -1,5 +1,11 @@
-~~Title:saṅghaṭṭera~~
-{{description>of crowds of people.}}
+---json
+{
+    "name":"saṅghaṭṭera",
+    "h1":"saṅghaṭṭera",
+    "title":"saṅghaṭṭera -- synonyms, prabhupada.io",
+    "description":"of crowds of people."
+}
+---
 
 ==== loka-saṅghaṭṭera  ====
   * of crowds of people --- [[books:cc:madhya:17:50|Madhya 17.50]]

@@ -1,5 +1,11 @@
-~~Title:vṛṇīhi~~
-{{description>please ask.}}
+---json
+{
+    "name":"vṛṇīhi",
+    "h1":"vṛṇīhi",
+    "title":"vṛṇīhi -- synonyms, prabhupada.io",
+    "description":"please ask."
+}
+---
 
 ==== vṛṇīhi  ====
   * please ask --- [[books:sb:4:12:7|SB 4.12.7]]

@@ -1,5 +1,11 @@
-~~Title:saudāminī~~
-{{description>lightning.}}
+---json
+{
+    "name":"saudāminī",
+    "h1":"saudāminī",
+    "title":"saudāminī -- synonyms, prabhupada.io",
+    "description":"lightning."
+}
+---
 
 ==== saudāminī  ====
   * lightning --- [[books:cc:antya:15:66|Antya 15.66]]

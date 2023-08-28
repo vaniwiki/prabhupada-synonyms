@@ -1,5 +1,11 @@
-~~Title:rahe~~
-{{description>keeps; does remain; exists; he remained; He stays; keeps; live; lives; remain; remain situated; remained; remains; resided; She remains; stay; stayed; stays; there is; there was.}}
+---json
+{
+    "name":"rahe",
+    "h1":"rahe",
+    "title":"rahe -- synonyms, prabhupada.io",
+    "description":"keeps; does remain; exists; he remained; He stays; keeps; live; lives; remain; remain situated; remained; remains; resided; She remains; stay; stayed; stays; there is; there was."
+}
+---
 
 ==== rahe  ====
   * //keeps// --- [[books:cc:madhya:14:236|Madhya 14.236]]

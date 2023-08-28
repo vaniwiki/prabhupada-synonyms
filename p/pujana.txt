@@ -1,5 +1,11 @@
-~~Title:pūjana~~
-{{description>worship; worshiping.}}
+---json
+{
+    "name":"pūjana",
+    "h1":"pūjana",
+    "title":"pūjana -- synonyms, prabhupada.io",
+    "description":"worship; worshiping."
+}
+---
 
 ==== pūjana  ====
   * worship --- [[books:cc:adi:8:8|Ādi 8.8]], [[books:cc:madhya:12:38|Madhya 12.38]]

@@ -1,5 +1,11 @@
-~~Title:śīlābhyām~~
-{{description>by most gentle behavior.}}
+---json
+{
+    "name":"śīlābhyām",
+    "h1":"śīlābhyām",
+    "title":"śīlābhyām -- synonyms, prabhupada.io",
+    "description":"by most gentle behavior."
+}
+---
 
 ==== praśraya-śīlābhyām  ====
   * by most gentle behavior --- [[books:sb:4:22:62|SB 4.22.62]]

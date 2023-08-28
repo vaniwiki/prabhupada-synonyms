@@ -1,5 +1,11 @@
-~~Title:upapannaḥ~~
-{{description>being overtaken.}}
+---json
+{
+    "name":"upapannaḥ",
+    "h1":"upapannaḥ",
+    "title":"upapannaḥ -- synonyms, prabhupada.io",
+    "description":"being overtaken."
+}
+---
 
 ==== upapannaḥ  ====
   * being overtaken --- [[books:sb:2:1:37|SB 2.1.37]]

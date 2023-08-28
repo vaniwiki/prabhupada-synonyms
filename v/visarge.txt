@@ -1,5 +1,11 @@
-~~Title:visarge~~
-{{description>in the matter of creation.}}
+---json
+{
+    "name":"visarge",
+    "h1":"visarge",
+    "title":"visarge -- synonyms, prabhupada.io",
+    "description":"in the matter of creation."
+}
+---
 
 ==== visarge  ====
   * in the matter of creation --- [[books:sb:2:9:19|SB 2.9.19]], [[books:sb:2:9:30|SB 2.9.30]]

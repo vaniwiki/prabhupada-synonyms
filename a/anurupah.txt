@@ -1,5 +1,11 @@
-~~Title:anurupah~~
-{{description>exactly to match; proper; the fit person.}}
+---json
+{
+    "name":"anurupah",
+    "h1":"anurupah",
+    "title":"anurupah -- synonyms, prabhupada.io",
+    "description":"exactly to match; proper; the fit person."
+}
+---
 
 ==== anurūpaḥ  ====
   * exactly to match --- [[books:sb:3:3:8|SB 3.3.8]]

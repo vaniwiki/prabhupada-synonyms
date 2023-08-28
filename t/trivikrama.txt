@@ -1,5 +1,11 @@
-~~Title:trivikrama~~
-{{description>a form of Lord Viṣṇu, Trivikrama; Lord Trivikrama; Trivikrama.}}
+---json
+{
+    "name":"trivikrama",
+    "h1":"trivikrama",
+    "title":"trivikrama -- synonyms, prabhupada.io",
+    "description":"a form of Lord Viṣṇu, Trivikrama; Lord Trivikrama; Trivikrama."
+}
+---
 
 ==== trivikrama  ====
   * a form of Lord Viṣṇu, Trivikrama --- [[books:cc:madhya:9:21|Madhya 9.21]]

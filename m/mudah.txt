@@ -1,5 +1,11 @@
-~~Title:mudaḥ~~
-{{description>joy.}}
+---json
+{
+    "name":"mudaḥ",
+    "h1":"mudaḥ",
+    "title":"mudaḥ -- synonyms, prabhupada.io",
+    "description":"joy."
+}
+---
 
 ==== mudaḥ  ====
   * joy --- [[books:cc:adi:1:48|Ādi 1.48]], [[books:cc:madhya:22:48|Madhya 22.48]]

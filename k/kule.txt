@@ -1,5 +1,11 @@
-~~Title:kule~~
-{{description>from a family; in the dynasty; in the dynasty or family; in the family of; in the society.}}
+---json
+{
+    "name":"kule",
+    "h1":"kule",
+    "title":"kule -- synonyms, prabhupada.io",
+    "description":"from a family; in the dynasty; in the dynasty or family; in the family of; in the society."
+}
+---
 
 ==== kule  ====
   * from a family --- [[books:sb:6:1:65|SB 6.1.65]]

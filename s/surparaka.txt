@@ -1,5 +1,11 @@
-~~Title:sūrpāraka~~
-{{description>to the holy place named Sūrpāraka.}}
+---json
+{
+    "name":"sūrpāraka",
+    "h1":"sūrpāraka",
+    "title":"sūrpāraka -- synonyms, prabhupada.io",
+    "description":"to the holy place named Sūrpāraka."
+}
+---
 
 ==== sūrpāraka-tīrthe  ====
   * to the holy place named Sūrpāraka --- [[books:cc:madhya:9:280|Madhya 9.280]]

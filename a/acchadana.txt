@@ -1,5 +1,11 @@
-~~Title:ācchādana~~
-{{description>covered; covering.}}
+---json
+{
+    "name":"ācchādana",
+    "h1":"ācchādana",
+    "title":"ācchādana -- synonyms, prabhupada.io",
+    "description":"covered; covering."
+}
+---
 
 ==== ācchādana  ====
   * covered --- [[books:cc:adi:7:130|Ādi 7.130]]

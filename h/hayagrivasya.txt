@@ -1,5 +1,11 @@
-~~Title:hayagrīvasya~~
-{{description>of Hayagrīva.}}
+---json
+{
+    "name":"hayagrīvasya",
+    "h1":"hayagrīvasya",
+    "title":"hayagrīvasya -- synonyms, prabhupada.io",
+    "description":"of Hayagrīva."
+}
+---
 
 ==== hayagrīvasya  ====
   * of Hayagrīva --- [[books:sb:8:24:9|SB 8.24.9]]

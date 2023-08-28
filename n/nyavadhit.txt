@@ -1,5 +1,11 @@
-~~Title:nyavadhīt~~
-{{description>killed.}}
+---json
+{
+    "name":"nyavadhīt",
+    "h1":"nyavadhīt",
+    "title":"nyavadhīt -- synonyms, prabhupada.io",
+    "description":"killed."
+}
+---
 
 ==== nyavadhīt  ====
   * killed --- [[books:sb:10:3:22|SB 10.3.22]]

@@ -1,5 +1,11 @@
-~~Title:aṇutām~~
-{{description>the space of an atom.}}
+---json
+{
+    "name":"aṇutām",
+    "h1":"aṇutām",
+    "title":"aṇutām -- synonyms, prabhupada.io",
+    "description":"the space of an atom."
+}
+---
 
 ==== parama-aṇutām  ====
   * the space of an atom --- [[books:sb:3:11:4|SB 3.11.4]]

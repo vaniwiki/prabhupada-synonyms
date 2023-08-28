@@ -1,5 +1,11 @@
-~~Title:sādhilena~~
-{{description>fulfilled; solicited.}}
+---json
+{
+    "name":"sādhilena",
+    "h1":"sādhilena",
+    "title":"sādhilena -- synonyms, prabhupada.io",
+    "description":"fulfilled; solicited."
+}
+---
 
 ==== sādhilena  ====
   * fulfilled --- [[books:cc:adi:4:50|Ādi 4.50]]

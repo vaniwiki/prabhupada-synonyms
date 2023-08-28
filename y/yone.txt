@@ -1,5 +1,11 @@
-~~Title:yone~~
-{{description>O Lord Brahmā.}}
+---json
+{
+    "name":"yone",
+    "h1":"yone",
+    "title":"yone -- synonyms, prabhupada.io",
+    "description":"O Lord Brahmā."
+}
+---
 
 ==== ātma-yone  ====
   * O Lord Brahmā --- [[books:sb:9:4:52|SB 9.4.52]]

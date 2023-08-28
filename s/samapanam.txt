@@ -1,5 +1,11 @@
-~~Title:samāpanam~~
-{{description>the period of worship is not over.}}
+---json
+{
+    "name":"samāpanam",
+    "h1":"samāpanam",
+    "title":"samāpanam -- synonyms, prabhupada.io",
+    "description":"the period of worship is not over."
+}
+---
 
 ==== vrata-samāpanam  ====
   * the period of worship is not over --- [[books:sb:8:16:44-45|SB 8.16.44-45]]

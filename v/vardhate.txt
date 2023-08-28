@@ -1,5 +1,11 @@
-~~Title:vardhate~~
-{{description>flourishing; increases; is increasing; overloads.}}
+---json
+{
+    "name":"vardhate",
+    "h1":"vardhate",
+    "title":"vardhate -- synonyms, prabhupada.io",
+    "description":"flourishing; increases; is increasing; overloads."
+}
+---
 
 ==== vardhate  ====
   * flourishing --- [[books:sb:1:14:30|SB 1.14.30]]

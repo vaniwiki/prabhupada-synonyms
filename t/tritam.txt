@@ -1,5 +1,11 @@
-~~Title:tritam~~
-{{description>Trita.}}
+---json
+{
+    "name":"tritam",
+    "h1":"tritam",
+    "title":"tritam -- synonyms, prabhupada.io",
+    "description":"Trita."
+}
+---
 
 ==== tritam  ====
   * Trita --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

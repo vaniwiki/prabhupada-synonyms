@@ -1,5 +1,11 @@
-~~Title:pātheyaḥ~~
-{{description>his passage money.}}
+---json
+{
+    "name":"pātheyaḥ",
+    "h1":"pātheyaḥ",
+    "title":"pātheyaḥ -- synonyms, prabhupada.io",
+    "description":"his passage money."
+}
+---
 
 ==== pātheyaḥ  ====
   * his passage money --- [[books:sb:3:30:31|SB 3.30.31]]

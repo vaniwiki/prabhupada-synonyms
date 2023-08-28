@@ -1,5 +1,11 @@
-~~Title:upadhiḥ~~
-{{description>pillow.}}
+---json
+{
+    "name":"upadhiḥ",
+    "h1":"upadhiḥ",
+    "title":"upadhiḥ -- synonyms, prabhupada.io",
+    "description":"pillow."
+}
+---
 
 ==== upadhiḥ  ====
   * pillow --- [[books:sb:4:27:4|SB 4.27.4]]

@@ -1,5 +1,11 @@
-~~Title:anāthāyāḥ~~
-{{description>having no ruler.}}
+---json
+{
+    "name":"anāthāyāḥ",
+    "h1":"anāthāyāḥ",
+    "title":"anāthāyāḥ -- synonyms, prabhupada.io",
+    "description":"having no ruler."
+}
+---
 
 ==== anāthāyāḥ  ====
   * having no ruler --- [[books:sb:4:14:37|SB 4.14.37]]

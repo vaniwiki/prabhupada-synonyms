@@ -1,5 +1,11 @@
-~~Title:sampāyayanti~~
-{{description>force to drink.}}
+---json
+{
+    "name":"sampāyayanti",
+    "h1":"sampāyayanti",
+    "title":"sampāyayanti -- synonyms, prabhupada.io",
+    "description":"force to drink."
+}
+---
 
 ==== sampāyayanti  ====
   * force to drink --- [[books:sb:5:26:26|SB 5.26.26]]

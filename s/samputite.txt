@@ -1,5 +1,11 @@
-~~Title:sampuṭite~~
-{{description>filled.}}
+---json
+{
+    "name":"sampuṭite",
+    "h1":"sampuṭite",
+    "title":"sampuṭite -- synonyms, prabhupada.io",
+    "description":"filled."
+}
+---
 
 ==== sampuṭite  ====
   * filled --- [[books:cc:antya:1:154|Antya 1.154]]

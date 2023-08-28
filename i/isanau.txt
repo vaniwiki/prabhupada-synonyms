@@ -1,5 +1,11 @@
-~~Title:īśānau~~
-{{description>and Lord Śiva.}}
+---json
+{
+    "name":"īśānau",
+    "h1":"īśānau",
+    "title":"īśānau -- synonyms, prabhupada.io",
+    "description":"and Lord Śiva."
+}
+---
 
 ==== īśānau  ====
   * and Lord Śiva --- [[books:sb:10:2:42|SB 10.2.42]]

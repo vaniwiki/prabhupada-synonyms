@@ -1,5 +1,11 @@
-~~Title:janakaḥ~~
-{{description>born uncommonly, not by the usual process; Janaka Mahārāja; the father.}}
+---json
+{
+    "name":"janakaḥ",
+    "h1":"janakaḥ",
+    "title":"janakaḥ -- synonyms, prabhupada.io",
+    "description":"born uncommonly, not by the usual process; Janaka Mahārāja; the father."
+}
+---
 
 ==== janakaḥ  ====
   * born uncommonly, not by the usual process --- [[books:sb:9:13:13|SB 9.13.13]]

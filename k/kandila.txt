@@ -1,5 +1,11 @@
-~~Title:kāndilā~~
-{{description>cried.}}
+---json
+{
+    "name":"kāndilā",
+    "h1":"kāndilā",
+    "title":"kāndilā -- synonyms, prabhupada.io",
+    "description":"cried."
+}
+---
 
 ==== kāndilā  ====
   * cried --- [[books:cc:adi:10:14|Ādi 10.14]]

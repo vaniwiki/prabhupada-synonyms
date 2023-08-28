@@ -1,5 +1,11 @@
-~~Title:pratoṣya~~
-{{description>having satisfied.}}
+---json
+{
+    "name":"pratoṣya",
+    "h1":"pratoṣya",
+    "title":"pratoṣya -- synonyms, prabhupada.io",
+    "description":"having satisfied."
+}
+---
 
 ==== pratoṣya  ====
   * having satisfied --- [[books:sb:4:30:1|SB 4.30.1]]

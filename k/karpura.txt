@@ -1,5 +1,11 @@
-~~Title:karpūra~~
-{{description>a flower; camphor; the camphor; with camphor.}}
+---json
+{
+    "name":"karpūra",
+    "h1":"karpūra",
+    "title":"karpūra -- synonyms, prabhupada.io",
+    "description":"a flower; camphor; the camphor; with camphor."
+}
+---
 
 ==== karpūra  ====
   * a flower --- [[books:cc:madhya:14:30|Madhya 14.30]]

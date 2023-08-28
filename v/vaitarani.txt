@@ -1,5 +1,11 @@
-~~Title:vaitaraṇī~~
-{{description>Vaitaraṇī.}}
+---json
+{
+    "name":"vaitaraṇī",
+    "h1":"vaitaraṇī",
+    "title":"vaitaraṇī -- synonyms, prabhupada.io",
+    "description":"Vaitaraṇī."
+}
+---
 
 ==== vaitaraṇī  ====
   * Vaitaraṇī --- [[books:sb:5:26:7|SB 5.26.7]]

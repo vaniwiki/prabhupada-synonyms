@@ -1,5 +1,11 @@
-~~Title:edhāṁsi~~
-{{description>firewood; fuel.}}
+---json
+{
+    "name":"edhāṁsi",
+    "h1":"edhāṁsi",
+    "title":"edhāṁsi -- synonyms, prabhupada.io",
+    "description":"firewood; fuel."
+}
+---
 
 ==== edhāṁsi  ====
   * firewood --- [[books:bg:4:37|Bg. 4.37]]

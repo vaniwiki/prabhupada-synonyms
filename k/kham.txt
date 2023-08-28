@@ -1,5 +1,11 @@
-~~Title:kham~~
-{{description>all-pervading like the sky; apertures; ether; ethereal; in the sky; in the vast sky; outer space; the sky.}}
+---json
+{
+    "name":"kham",
+    "h1":"kham",
+    "title":"kham -- synonyms, prabhupada.io",
+    "description":"all-pervading like the sky; apertures; ether; ethereal; in the sky; in the vast sky; outer space; the sky."
+}
+---
 
 ==== kham  ====
   * all-pervading like the sky --- [[books:sb:8:5:27|SB 8.5.27]]

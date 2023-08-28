@@ -1,5 +1,11 @@
-~~Title:helanaḥ~~
-{{description>because of transgressing the etiquette.}}
+---json
+{
+    "name":"helanaḥ",
+    "h1":"helanaḥ",
+    "title":"helanaḥ -- synonyms, prabhupada.io",
+    "description":"because of transgressing the etiquette."
+}
+---
 
 ==== kṛta-helanaḥ  ====
   * because of transgressing the etiquette --- [[books:sb:7:15:72|SB 7.15.72]]

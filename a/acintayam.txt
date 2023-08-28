@@ -1,5 +1,11 @@
-~~Title:acintayam~~
-{{description>thought over.}}
+---json
+{
+    "name":"acintayam",
+    "h1":"acintayam",
+    "title":"acintayam -- synonyms, prabhupada.io",
+    "description":"thought over."
+}
+---
 
 ==== acintayam  ====
   * thought over --- [[books:sb:1:6:15|SB 1.6.15]]

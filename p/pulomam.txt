@@ -1,5 +1,11 @@
-~~Title:pulomām~~
-{{description>Pulomā and Kālakā.}}
+---json
+{
+    "name":"pulomām",
+    "h1":"pulomām",
+    "title":"pulomām -- synonyms, prabhupada.io",
+    "description":"Pulomā and Kālakā."
+}
+---
 
 ==== pulomām kālakām ca  ====
   * Pulomā and Kālakā --- [[books:sb:6:6:33-36|SB 6.6.33-36]]

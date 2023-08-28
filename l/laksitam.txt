@@ -1,5 +1,11 @@
-~~Title:lakṣitam~~
-{{description>marked.}}
+---json
+{
+    "name":"lakṣitam",
+    "h1":"lakṣitam",
+    "title":"lakṣitam -- synonyms, prabhupada.io",
+    "description":"marked."
+}
+---
 
 ==== lakṣitam  ====
   * marked --- [[books:sb:2:9:16|SB 2.9.16]]

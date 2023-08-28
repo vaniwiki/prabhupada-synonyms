@@ -1,5 +1,11 @@
-~~Title:asisam~~
-{{description>blessings; welfare; Āśī.}}
+---json
+{
+    "name":"asisam",
+    "h1":"asisam",
+    "title":"asisam -- synonyms, prabhupada.io",
+    "description":"blessings; welfare; Āśī."
+}
+---
 
 ==== āśiṣam  ====
   * blessings --- [[books:sb:4:12:28|SB 4.12.28]]

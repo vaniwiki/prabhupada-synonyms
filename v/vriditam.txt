@@ -1,5 +1,11 @@
-~~Title:vrīḍitam~~
-{{description>ashamed.}}
+---json
+{
+    "name":"vrīḍitam",
+    "h1":"vrīḍitam",
+    "title":"vrīḍitam -- synonyms, prabhupada.io",
+    "description":"ashamed."
+}
+---
 
 ==== vrīḍitam  ====
   * ashamed --- [[books:sb:4:20:18|SB 4.20.18]]

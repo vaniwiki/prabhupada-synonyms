@@ -1,5 +1,11 @@
-~~Title:paṅkena~~
-{{description>by the mud.}}
+---json
+{
+    "name":"paṅkena",
+    "h1":"paṅkena",
+    "title":"paṅkena -- synonyms, prabhupada.io",
+    "description":"by the mud."
+}
+---
 
 ==== paṅkena  ====
   * by the mud --- [[books:sb:1:8:52|SB 1.8.52]]

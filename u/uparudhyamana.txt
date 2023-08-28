@@ -1,5 +1,11 @@
-~~Title:uparudhyamāna~~
-{{description>being disturbed.}}
+---json
+{
+    "name":"uparudhyamāna",
+    "h1":"uparudhyamāna",
+    "title":"uparudhyamāna -- synonyms, prabhupada.io",
+    "description":"being disturbed."
+}
+---
 
 ==== uparudhyamāna  ====
   * being disturbed --- [[books:sb:5:14:5|SB 5.14.5]]

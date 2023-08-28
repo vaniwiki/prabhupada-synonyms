@@ -1,5 +1,11 @@
-~~Title:sañjayam~~
-{{description>unto Sañjaya.}}
+---json
+{
+    "name":"sañjayam",
+    "h1":"sañjayam",
+    "title":"sañjayam -- synonyms, prabhupada.io",
+    "description":"unto Sañjaya."
+}
+---
 
 ==== sañjayam  ====
   * unto Sañjaya --- [[books:sb:1:13:32|SB 1.13.32]]

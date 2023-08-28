@@ -1,5 +1,11 @@
-~~Title:likhiba~~
-{{description>I shall write.}}
+---json
+{
+    "name":"likhiba",
+    "h1":"likhiba",
+    "title":"likhiba -- synonyms, prabhupada.io",
+    "description":"I shall write."
+}
+---
 
 ==== likhiba  ====
   * I shall write --- [[books:cc:madhya:1:11-12|Madhya 1.11-12]]

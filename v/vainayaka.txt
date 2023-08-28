@@ -1,5 +1,11 @@
-~~Title:vaināyaka~~
-{{description>ghosts named Vaināyakas.}}
+---json
+{
+    "name":"vaināyaka",
+    "h1":"vaināyaka",
+    "title":"vaināyaka -- synonyms, prabhupada.io",
+    "description":"ghosts named Vaināyakas."
+}
+---
 
 ==== vaināyaka  ====
   * ghosts named Vaināyakas --- [[books:sb:6:8:24|SB 6.8.24]]

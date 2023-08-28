@@ -1,5 +1,11 @@
-~~Title:upasevate~~
-{{description>enjoys.}}
+---json
+{
+    "name":"upasevate",
+    "h1":"upasevate",
+    "title":"upasevate -- synonyms, prabhupada.io",
+    "description":"enjoys."
+}
+---
 
 ==== upasevate  ====
   * enjoys --- [[books:bg:15:9|Bg. 15.9]]

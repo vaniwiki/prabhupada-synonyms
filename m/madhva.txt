@@ -1,5 +1,11 @@
-~~Title:madhva~~
-{{description>Madhvācārya.}}
+---json
+{
+    "name":"madhva",
+    "h1":"madhva",
+    "title":"madhva -- synonyms, prabhupada.io",
+    "description":"Madhvācārya."
+}
+---
 
 ==== madhva-ācārya  ====
   * Madhvācārya --- [[books:cc:madhya:9:247|Madhya 9.247]], [[books:cc:madhya:9:248|Madhya 9.248]], [[books:cc:madhya:9:275|Madhya 9.275]]

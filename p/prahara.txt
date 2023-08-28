@@ -1,5 +1,11 @@
-~~Title:prahara~~
-{{description>a duration of time comprising three hours; a period of time lasting three hours.}}
+---json
+{
+    "name":"prahara",
+    "h1":"prahara",
+    "title":"prahara -- synonyms, prabhupada.io",
+    "description":"a duration of time comprising three hours; a period of time lasting three hours."
+}
+---
 
 ==== prahara  ====
   * a duration of time comprising three hours --- [[books:cc:adi:10:17|Ādi 10.17]]

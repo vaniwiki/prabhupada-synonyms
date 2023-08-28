@@ -1,5 +1,11 @@
-~~Title:bāhukam~~
-{{description>hands.}}
+---json
+{
+    "name":"bāhukam",
+    "h1":"bāhukam",
+    "title":"bāhukam -- synonyms, prabhupada.io",
+    "description":"hands."
+}
+---
 
 ==== bāhukam  ====
   * hands --- [[books:sb:3:7:22|SB 3.7.22]]

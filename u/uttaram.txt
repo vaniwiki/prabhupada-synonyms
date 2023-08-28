@@ -1,5 +1,11 @@
-~~Title:uttaram~~
-{{description>northern; the period when the sun passes to the north; upper.}}
+---json
+{
+    "name":"uttaram",
+    "h1":"uttaram",
+    "title":"uttaram -- synonyms, prabhupada.io",
+    "description":"northern; the period when the sun passes to the north; upper."
+}
+---
 
 ==== uttaram  ====
   * northern --- [[books:sb:3:11:11|SB 3.11.11]]

@@ -1,5 +1,11 @@
-~~Title:tuṣṭye~~
-{{description>in satisfaction.}}
+---json
+{
+    "name":"tuṣṭye",
+    "h1":"tuṣṭye",
+    "title":"tuṣṭye -- synonyms, prabhupada.io",
+    "description":"in satisfaction."
+}
+---
 
 ==== tuṣṭye  ====
   * in satisfaction --- [[books:cc:madhya:6:247|Madhya 6.247]]

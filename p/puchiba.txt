@@ -1,5 +1,11 @@
-~~Title:puchiba~~
-{{description>I shall inquire.}}
+---json
+{
+    "name":"puchiba",
+    "h1":"puchiba",
+    "title":"puchiba -- synonyms, prabhupada.io",
+    "description":"I shall inquire."
+}
+---
 
 ==== puchiba  ====
   * I shall inquire --- [[books:cc:madhya:4:115|Madhya 4.115]]

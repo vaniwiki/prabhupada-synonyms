@@ -1,5 +1,11 @@
-~~Title:tuccham~~
-{{description>insignificant; very insignificant.}}
+---json
+{
+    "name":"tuccham",
+    "h1":"tuccham",
+    "title":"tuccham -- synonyms, prabhupada.io",
+    "description":"insignificant; very insignificant."
+}
+---
 
 ==== tuccham  ====
   * insignificant --- [[books:sb:7:9:45|SB 7.9.45]]

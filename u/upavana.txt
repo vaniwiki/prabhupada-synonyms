@@ -1,5 +1,11 @@
-~~Title:upavana~~
-{{description>flower gardens; parks; the small forest; with orchards.}}
+---json
+{
+    "name":"upavana",
+    "h1":"upavana",
+    "title":"upavana -- synonyms, prabhupada.io",
+    "description":"flower gardens; parks; the small forest; with orchards."
+}
+---
 
 ==== upavana  ====
   * flower gardens --- [[books:sb:1:11:12|SB 1.11.12]]

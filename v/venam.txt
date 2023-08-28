@@ -1,5 +1,11 @@
-~~Title:venam~~
-{{description>King Vena; to King Vena; unto King Vena; Vena.}}
+---json
+{
+    "name":"venam",
+    "h1":"venam",
+    "title":"venam -- synonyms, prabhupada.io",
+    "description":"King Vena; to King Vena; unto King Vena; Vena."
+}
+---
 
 ==== venam  ====
   * King Vena --- [[books:sb:4:14:33|SB 4.14.33]], [[books:sb:4:14:34|SB 4.14.34]]

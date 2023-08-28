@@ -1,5 +1,11 @@
-~~Title:arīn~~
-{{description>my enemies; the enemies.}}
+---json
+{
+    "name":"arīn",
+    "h1":"arīn",
+    "title":"arīn -- synonyms, prabhupada.io",
+    "description":"my enemies; the enemies."
+}
+---
 
 ==== arīn  ====
   * my enemies --- [[books:sb:6:8:24|SB 6.8.24]]

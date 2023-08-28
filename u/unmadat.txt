@@ -1,5 +1,11 @@
-~~Title:unmādāt~~
-{{description>because of madness.}}
+---json
+{
+    "name":"unmādāt",
+    "h1":"unmādāt",
+    "title":"unmādāt -- synonyms, prabhupada.io",
+    "description":"because of madness."
+}
+---
 
 ==== unmādāt  ====
   * because of madness --- [[books:cc:antya:19:76|Antya 19.76]]

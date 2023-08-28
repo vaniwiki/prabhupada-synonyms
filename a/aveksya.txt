@@ -1,5 +1,11 @@
-~~Title:aveksya~~
-{{description>after hearing; after observing; considering; looking down; seeing.}}
+---json
+{
+    "name":"aveksya",
+    "h1":"aveksya",
+    "title":"aveksya -- synonyms, prabhupada.io",
+    "description":"after hearing; after observing; considering; looking down; seeing."
+}
+---
 
 ==== avekṣya  ====
   * after hearing --- [[books:sb:3:23:9|SB 3.23.9]]

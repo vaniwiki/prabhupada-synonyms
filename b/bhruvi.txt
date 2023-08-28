@@ -1,5 +1,11 @@
-~~Title:bhruvi~~
-{{description>on the brow.}}
+---json
+{
+    "name":"bhruvi",
+    "h1":"bhruvi",
+    "title":"bhruvi -- synonyms, prabhupada.io",
+    "description":"on the brow."
+}
+---
 
 ==== bhruvi  ====
   * on the brow --- [[books:sb:3:18:17|SB 3.18.17]]

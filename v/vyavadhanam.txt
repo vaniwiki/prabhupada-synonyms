@@ -1,5 +1,11 @@
-~~Title:vyavadhānam~~
-{{description>difference.}}
+---json
+{
+    "name":"vyavadhānam",
+    "h1":"vyavadhānam",
+    "title":"vyavadhānam -- synonyms, prabhupada.io",
+    "description":"difference."
+}
+---
 
 ==== vyavadhānam  ====
   * difference --- [[books:sb:4:22:27|SB 4.22.27]]

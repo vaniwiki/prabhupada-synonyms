@@ -1,5 +1,11 @@
-~~Title:nipīta~~
-{{description>distinguished; prevented.}}
+---json
+{
+    "name":"nipīta",
+    "h1":"nipīta",
+    "title":"nipīta -- synonyms, prabhupada.io",
+    "description":"distinguished; prevented."
+}
+---
 
 ==== nipīta  ====
   * distinguished --- [[books:sb:3:9:14|SB 3.9.14]]

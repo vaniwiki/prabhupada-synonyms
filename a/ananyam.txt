@@ -1,5 +1,11 @@
-~~Title:ananyam~~
-{{description>without deviation.}}
+---json
+{
+    "name":"ananyam",
+    "h1":"ananyam",
+    "title":"ananyam -- synonyms, prabhupada.io",
+    "description":"without deviation."
+}
+---
 
 ==== ananyam  ====
   * without deviation --- [[books:noi:5|NoI 5]]

@@ -1,5 +1,11 @@
-~~Title:ākhye~~
-{{description>named Dandaśūka.}}
+---json
+{
+    "name":"ākhye",
+    "h1":"ākhye",
+    "title":"ākhye -- synonyms, prabhupada.io",
+    "description":"named Dandaśūka."
+}
+---
 
 ==== dandaśūka-ākhye  ====
   * named Dandaśūka --- [[books:sb:5:26:33|SB 5.26.33]]

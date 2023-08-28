@@ -1,5 +1,11 @@
-~~Title:apatye~~
-{{description>children; for a son.}}
+---json
+{
+    "name":"apatye",
+    "h1":"apatye",
+    "title":"apatye -- synonyms, prabhupada.io",
+    "description":"children; for a son."
+}
+---
 
 ==== apatye  ====
   * children --- [[books:sb:4:20:6|SB 4.20.6]]

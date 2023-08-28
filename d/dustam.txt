@@ -1,5 +1,11 @@
-~~Title:dustam~~
-{{description>contaminated; polluted; uncontrollable.}}
+---json
+{
+    "name":"dustam",
+    "h1":"dustam",
+    "title":"dustam -- synonyms, prabhupada.io",
+    "description":"contaminated; polluted; uncontrollable."
+}
+---
 
 ==== duṣṭam  ====
   * contaminated --- [[books:sb:3:28:7|SB 3.28.7]]

@@ -1,5 +1,11 @@
-~~Title:svāmibhiḥ~~
-{{description>or by the husband or relatives of the woman.}}
+---json
+{
+    "name":"svāmibhiḥ",
+    "h1":"svāmibhiḥ",
+    "title":"svāmibhiḥ -- synonyms, prabhupada.io",
+    "description":"or by the husband or relatives of the woman."
+}
+---
 
 ==== svāmibhiḥ vā  ====
   * or by the husband or relatives of the woman --- [[books:sb:5:14:22|SB 5.14.22]]

@@ -1,5 +1,11 @@
-~~Title:adhītya~~
-{{description>after studying; studying Vedic literature.}}
+---json
+{
+    "name":"adhītya",
+    "h1":"adhītya",
+    "title":"adhītya -- synonyms, prabhupada.io",
+    "description":"after studying; studying Vedic literature."
+}
+---
 
 ==== adhītya  ====
   * after studying --- [[books:sb:3:3:2|SB 3.3.2]]

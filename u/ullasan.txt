@@ -1,5 +1,11 @@
-~~Title:ullasan~~
-{{description>spreading.}}
+---json
+{
+    "name":"ullasan",
+    "h1":"ullasan",
+    "title":"ullasan -- synonyms, prabhupada.io",
+    "description":"spreading."
+}
+---
 
 ==== ullasan  ====
   * spreading --- [[books:sb:1:17:43-44|SB 1.17.43-44]]

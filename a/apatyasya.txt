@@ -1,5 +1,11 @@
-~~Title:apatyasya~~
-{{description>for the children.}}
+---json
+{
+    "name":"apatyasya",
+    "h1":"apatyasya",
+    "title":"apatyasya -- synonyms, prabhupada.io",
+    "description":"for the children."
+}
+---
 
 ==== apatyasya  ====
   * for the children --- [[books:sb:7:14:26|SB 7.14.26]]

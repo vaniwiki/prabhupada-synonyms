@@ -1,5 +1,11 @@
-~~Title:dalita~~
-{{description>conquered; powdered.}}
+---json
+{
+    "name":"dalita",
+    "h1":"dalita",
+    "title":"dalita -- synonyms, prabhupada.io",
+    "description":"conquered; powdered."
+}
+---
 
 ==== dalita  ====
   * conquered --- [[books:cc:madhya:14:194|Madhya 14.194]]

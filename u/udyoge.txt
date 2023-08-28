@@ -1,5 +1,11 @@
-~~Title:udyoge~~
-{{description>by endeavor.}}
+---json
+{
+    "name":"udyoge",
+    "h1":"udyoge",
+    "title":"udyoge -- synonyms, prabhupada.io",
+    "description":"by endeavor."
+}
+---
 
 ==== udyoge  ====
   * by endeavor --- [[books:cc:madhya:13:71|Madhya 13.71]]

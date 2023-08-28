@@ -1,5 +1,11 @@
-~~Title:varṣmasu~~
-{{description>as far as the body is concerned.}}
+---json
+{
+    "name":"varṣmasu",
+    "h1":"varṣmasu",
+    "title":"varṣmasu -- synonyms, prabhupada.io",
+    "description":"as far as the body is concerned."
+}
+---
 
 ==== varṣmasu  ====
   * as far as the body is concerned --- [[books:sb:10:12:15|SB 10.12.15]]

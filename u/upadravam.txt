@@ -1,5 +1,11 @@
-~~Title:upadravam~~
-{{description>disturbance; the disturbance.}}
+---json
+{
+    "name":"upadravam",
+    "h1":"upadravam",
+    "title":"upadravam -- synonyms, prabhupada.io",
+    "description":"disturbance; the disturbance."
+}
+---
 
 ==== upadravam  ====
   * disturbance --- [[books:sb:1:7:32|SB 1.7.32]]

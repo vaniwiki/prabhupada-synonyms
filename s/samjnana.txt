@@ -1,5 +1,11 @@
-~~Title:saṁjñāna~~
-{{description>showing full symptoms of life, knowledge and remembrance.}}
+---json
+{
+    "name":"saṁjñāna",
+    "h1":"saṁjñāna",
+    "title":"saṁjñāna -- synonyms, prabhupada.io",
+    "description":"showing full symptoms of life, knowledge and remembrance."
+}
+---
 
 ==== saṁjñāna-lakṣaṇam  ====
   * showing full symptoms of life, knowledge and remembrance --- [[books:sb:9:16:24|SB 9.16.24]]

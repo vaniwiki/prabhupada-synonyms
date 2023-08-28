@@ -1,5 +1,11 @@
-~~Title:adhvaryuḥ~~
-{{description>a person who recites hymns from the Yajur Veda and performs ritualistic ceremonies.}}
+---json
+{
+    "name":"adhvaryuḥ",
+    "h1":"adhvaryuḥ",
+    "title":"adhvaryuḥ -- synonyms, prabhupada.io",
+    "description":"a person who recites hymns from the Yajur Veda and performs ritualistic ceremonies."
+}
+---
 
 ==== adhvaryuḥ  ====
   * a person who recites hymns from the //Yajur Veda// and performs ritualistic ceremonies --- [[books:sb:9:7:22|SB 9.7.22]]

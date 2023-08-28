@@ -1,5 +1,11 @@
-~~Title:rājaputa~~
-{{description>belonging to the Rājaputa race.}}
+---json
+{
+    "name":"rājaputa",
+    "h1":"rājaputa",
+    "title":"rājaputa -- synonyms, prabhupada.io",
+    "description":"belonging to the Rājaputa race."
+}
+---
 
 ==== rājaputa  ====
   * belonging to the Rājaputa race --- [[books:cc:madhya:18:167|Madhya 18.167]]

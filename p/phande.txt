@@ -1,5 +1,11 @@
-~~Title:phānde~~
-{{description>in the network.}}
+---json
+{
+    "name":"phānde",
+    "h1":"phānde",
+    "title":"phānde -- synonyms, prabhupada.io",
+    "description":"in the network."
+}
+---
 
 ==== phānde  ====
   * in the network --- [[books:cc:antya:15:71|Antya 15.71]]

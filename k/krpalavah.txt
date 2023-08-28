@@ -1,5 +1,11 @@
-~~Title:kṛpālavaḥ~~
-{{description>very merciful.}}
+---json
+{
+    "name":"kṛpālavaḥ",
+    "h1":"kṛpālavaḥ",
+    "title":"kṛpālavaḥ -- synonyms, prabhupada.io",
+    "description":"very merciful."
+}
+---
 
 ==== kṛpālavaḥ  ====
   * very merciful --- [[books:sb:9:6:26|SB 9.6.26]]

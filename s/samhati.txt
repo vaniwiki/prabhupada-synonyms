@@ -1,5 +1,11 @@
-~~Title:saṁhati~~
-{{description>combination; in stock.}}
+---json
+{
+    "name":"saṁhati",
+    "h1":"saṁhati",
+    "title":"saṁhati -- synonyms, prabhupada.io",
+    "description":"combination; in stock."
+}
+---
 
 ==== saṁhati  ====
   * combination --- [[books:cc:madhya:10:46|Madhya 10.46]]

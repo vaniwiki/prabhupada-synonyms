@@ -1,5 +1,11 @@
-~~Title:darśayāmāsa~~
-{{description>showed.}}
+---json
+{
+    "name":"darśayāmāsa",
+    "h1":"darśayāmāsa",
+    "title":"darśayāmāsa -- synonyms, prabhupada.io",
+    "description":"showed."
+}
+---
 
 ==== darśayāmāsa  ====
   * showed --- [[books:bg:11:9|Bg. 11.9]], [[books:bg:11:50|Bg. 11.50]]

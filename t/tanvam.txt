@@ -1,5 +1,11 @@
-~~Title:tanvam~~
-{{description>body.}}
+---json
+{
+    "name":"tanvam",
+    "h1":"tanvam",
+    "title":"tanvam -- synonyms, prabhupada.io",
+    "description":"body."
+}
+---
 
 ==== tanvam  ====
   * body --- [[books:sb:3:12:33|SB 3.12.33]]

@@ -1,5 +1,11 @@
-~~Title:jaḍībhūtaḥ~~
-{{description>enchanted.}}
+---json
+{
+    "name":"jaḍībhūtaḥ",
+    "h1":"jaḍībhūtaḥ",
+    "title":"jaḍībhūtaḥ -- synonyms, prabhupada.io",
+    "description":"enchanted."
+}
+---
 
 ==== jaḍībhūtaḥ  ====
   * enchanted --- [[books:sb:6:18:29|SB 6.18.29]]

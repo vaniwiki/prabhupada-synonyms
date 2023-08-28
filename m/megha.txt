@@ -1,5 +1,11 @@
-~~Title:megha~~
-{{description>cloud; like a new cloud; of the clouds.}}
+---json
+{
+    "name":"megha",
+    "h1":"megha",
+    "title":"megha -- synonyms, prabhupada.io",
+    "description":"cloud; like a new cloud; of the clouds."
+}
+---
 
 ==== megha  ====
   * cloud --- [[books:sb:1:17:4|SB 1.17.4]]

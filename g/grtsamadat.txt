@@ -1,5 +1,11 @@
-~~Title:gṛtsamadāt~~
-{{description>from Gṛtsamada.}}
+---json
+{
+    "name":"gṛtsamadāt",
+    "h1":"gṛtsamadāt",
+    "title":"gṛtsamadāt -- synonyms, prabhupada.io",
+    "description":"from Gṛtsamada."
+}
+---
 
 ==== gṛtsamadāt  ====
   * from Gṛtsamada --- [[books:sb:9:17:1-3|SB 9.17.1-3]]

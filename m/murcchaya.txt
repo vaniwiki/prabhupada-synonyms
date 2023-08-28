@@ -1,5 +1,11 @@
-~~Title:mūrcchāya~~
-{{description>in the swoon.}}
+---json
+{
+    "name":"mūrcchāya",
+    "h1":"mūrcchāya",
+    "title":"mūrcchāya -- synonyms, prabhupada.io",
+    "description":"in the swoon."
+}
+---
 
 ==== mūrcchāya  ====
   * in the swoon --- [[books:cc:madhya:2:73|Madhya 2.73]]

@@ -1,5 +1,11 @@
-~~Title:dhiya~~
-{{description>how the intelligence is working.}}
+---json
+{
+    "name":"dhiya",
+    "h1":"dhiya",
+    "title":"dhiya -- synonyms, prabhupada.io",
+    "description":"how the intelligence is working."
+}
+---
 
 ==== dhiya  ====
   * how the intelligence is working --- [[books:sb:8:5:27|SB 8.5.27]]

@@ -1,5 +1,11 @@
-~~Title:saṅgrahe~~
-{{description>aggregate; or in protection.}}
+---json
+{
+    "name":"saṅgrahe",
+    "h1":"saṅgrahe",
+    "title":"saṅgrahe -- synonyms, prabhupada.io",
+    "description":"aggregate; or in protection."
+}
+---
 
 ==== saṅgrahe  ====
   * aggregate --- [[books:sb:4:21:35|SB 4.21.35]]

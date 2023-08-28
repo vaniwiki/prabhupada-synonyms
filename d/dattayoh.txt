@@ -1,5 +1,11 @@
-~~Title:dattayoḥ~~
-{{description>charity.}}
+---json
+{
+    "name":"dattayoḥ",
+    "h1":"dattayoḥ",
+    "title":"dattayoḥ -- synonyms, prabhupada.io",
+    "description":"charity."
+}
+---
 
 ==== dattayoḥ  ====
   * charity --- [[books:sb:1:5:22|SB 1.5.22]]

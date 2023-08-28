@@ -1,5 +1,11 @@
-~~Title:pālaiḥ~~
-{{description>by the masters.}}
+---json
+{
+    "name":"pālaiḥ",
+    "h1":"pālaiḥ",
+    "title":"pālaiḥ -- synonyms, prabhupada.io",
+    "description":"by the masters."
+}
+---
 
 ==== pālaiḥ  ====
   * by the masters --- [[books:cc:adi:5:141|Ādi 5.141]], [[books:cc:madhya:20:306|Madhya 20.306]]

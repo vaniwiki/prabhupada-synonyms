@@ -1,5 +1,11 @@
-~~Title:pravocantam~~
-{{description>speaking.}}
+---json
+{
+    "name":"pravocantam",
+    "h1":"pravocantam",
+    "title":"pravocantam -- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== pravocantam  ====
   * speaking --- [[books:sb:4:6:37|SB 4.6.37]]

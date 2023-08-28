@@ -1,5 +1,11 @@
-~~Title:tandrā~~
-{{description>dizziness or laziness; dozing.}}
+---json
+{
+    "name":"tandrā",
+    "h1":"tandrā",
+    "title":"tandrā -- synonyms, prabhupada.io",
+    "description":"dizziness or laziness; dozing."
+}
+---
 
 ==== tandrā  ====
   * dizziness or laziness --- [[books:sb:8:22:32|SB 8.22.32]]

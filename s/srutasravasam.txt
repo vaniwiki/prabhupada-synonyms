@@ -1,5 +1,11 @@
-~~Title:śrutaśravasam~~
-{{description>Śrutaśravā, another sister.}}
+---json
+{
+    "name":"śrutaśravasam",
+    "h1":"śrutaśravasam",
+    "title":"śrutaśravasam -- synonyms, prabhupada.io",
+    "description":"Śrutaśravā, another sister."
+}
+---
 
 ==== śrutaśravasam  ====
   * Śrutaśravā, another sister --- [[books:sb:9:24:39|SB 9.24.39]]

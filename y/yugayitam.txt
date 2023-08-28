@@ -1,5 +1,11 @@
-~~Title:yugāyitam~~
-{{description>appearing like a great millennium.}}
+---json
+{
+    "name":"yugāyitam",
+    "h1":"yugāyitam",
+    "title":"yugāyitam -- synonyms, prabhupada.io",
+    "description":"appearing like a great millennium."
+}
+---
 
 ==== yugāyitam  ====
   * appearing like a great millennium --- [[books:cc:antya:20:39|Antya 20.39]]

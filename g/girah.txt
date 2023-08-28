@@ -1,5 +1,11 @@
-~~Title:giraḥ~~
-{{description>of words; speech; the words; utterances; words.}}
+---json
+{
+    "name":"giraḥ",
+    "h1":"giraḥ",
+    "title":"giraḥ -- synonyms, prabhupada.io",
+    "description":"of words; speech; the words; utterances; words."
+}
+---
 
 ==== giraḥ  ====
   * of words --- [[books:sb:1:10:31|SB 1.10.31]]

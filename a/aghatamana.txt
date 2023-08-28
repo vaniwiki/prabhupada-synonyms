@@ -1,5 +1,11 @@
-~~Title:aghaṭamāna~~
-{{description>impossible to be achieved.}}
+---json
+{
+    "name":"aghaṭamāna",
+    "h1":"aghaṭamāna",
+    "title":"aghaṭamāna -- synonyms, prabhupada.io",
+    "description":"impossible to be achieved."
+}
+---
 
 ==== aghaṭamāna  ====
   * impossible to be achieved --- [[books:sb:5:8:26|SB 5.8.26]]

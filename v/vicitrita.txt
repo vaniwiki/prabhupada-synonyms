@@ -1,5 +1,11 @@
-~~Title:vicitrita~~
-{{description>decorated.}}
+---json
+{
+    "name":"vicitrita",
+    "h1":"vicitrita",
+    "title":"vicitrita -- synonyms, prabhupada.io",
+    "description":"decorated."
+}
+---
 
 ==== vicitrita  ====
   * decorated --- [[books:cc:madhya:8:171|Madhya 8.171]]

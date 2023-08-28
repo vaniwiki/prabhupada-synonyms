@@ -1,5 +1,11 @@
-~~Title:edhamānena~~
-{{description>increasing.}}
+---json
+{
+    "name":"edhamānena",
+    "h1":"edhamānena",
+    "title":"edhamānena -- synonyms, prabhupada.io",
+    "description":"increasing."
+}
+---
 
 ==== edhamānena  ====
   * increasing --- [[books:sb:3:10:6|SB 3.10.6]]

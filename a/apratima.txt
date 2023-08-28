@@ -1,5 +1,11 @@
-~~Title:apratima~~
-{{description>immeasurable.}}
+---json
+{
+    "name":"apratima",
+    "h1":"apratima",
+    "title":"apratima -- synonyms, prabhupada.io",
+    "description":"immeasurable."
+}
+---
 
 ==== apratima  ====
   * immeasurable --- [[books:bg:11:43|Bg. 11.43]]

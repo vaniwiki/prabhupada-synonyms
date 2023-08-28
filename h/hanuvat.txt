@@ -1,5 +1,11 @@
-~~Title:hanuvat~~
-{{description>resembling the lower lips.}}
+---json
+{
+    "name":"hanuvat",
+    "h1":"hanuvat",
+    "title":"hanuvat -- synonyms, prabhupada.io",
+    "description":"resembling the lower lips."
+}
+---
 
 ==== adharā-hanuvat  ====
   * resembling the lower lips --- [[books:sb:10:12:20|SB 10.12.20]]

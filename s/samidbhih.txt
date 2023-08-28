@@ -1,5 +1,11 @@
-~~Title:samidbhiḥ~~
-{{description>with sacrificial offerings.}}
+---json
+{
+    "name":"samidbhiḥ",
+    "h1":"samidbhiḥ",
+    "title":"samidbhiḥ -- synonyms, prabhupada.io",
+    "description":"with sacrificial offerings."
+}
+---
 
 ==== samidbhiḥ  ====
   * with sacrificial offerings --- [[books:sb:8:18:19|SB 8.18.19]]

@@ -1,5 +1,11 @@
-~~Title:jaram~~
-{{description>invalidity; the old age and invalidity.}}
+---json
+{
+    "name":"jaram",
+    "h1":"jaram",
+    "title":"jaram -- synonyms, prabhupada.io",
+    "description":"invalidity; the old age and invalidity."
+}
+---
 
 ==== jarām  ====
   * invalidity --- [[books:sb:9:18:38|SB 9.18.38]]

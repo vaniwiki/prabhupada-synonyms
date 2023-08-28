@@ -1,5 +1,11 @@
-~~Title:kṣetrāṇi~~
-{{description>holy places; mines; sacred places (like Kurukṣetra, Gayākṣetra and Jagannātha Purī).}}
+---json
+{
+    "name":"kṣetrāṇi",
+    "h1":"kṣetrāṇi",
+    "title":"kṣetrāṇi -- synonyms, prabhupada.io",
+    "description":"holy places; mines; sacred places (like Kurukṣetra, Gayākṣetra and Jagannātha Purī)."
+}
+---
 
 ==== kṣetrāṇi  ====
   * holy places --- [[books:sb:2:3:22|SB 2.3.22]]

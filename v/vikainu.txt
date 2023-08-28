@@ -1,5 +1,11 @@
-~~Title:vikāinu~~
-{{description>I became sold.}}
+---json
+{
+    "name":"vikāinu",
+    "h1":"vikāinu",
+    "title":"vikāinu -- synonyms, prabhupada.io",
+    "description":"I became sold."
+}
+---
 
 ==== vikāinu  ====
   * I became sold --- [[books:cc:madhya:15:100|Madhya 15.100]]

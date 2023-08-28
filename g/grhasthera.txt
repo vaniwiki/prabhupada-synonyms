@@ -1,5 +1,11 @@
-~~Title:gṛhasthera~~
-{{description>at the house of some ordinary person.}}
+---json
+{
+    "name":"gṛhasthera",
+    "h1":"gṛhasthera",
+    "title":"gṛhasthera -- synonyms, prabhupada.io",
+    "description":"at the house of some ordinary person."
+}
+---
 
 ==== gṛhasthera ghare  ====
   * at the house of some ordinary person --- [[books:cc:antya:3:152|Antya 3.152]]

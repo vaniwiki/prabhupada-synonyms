@@ -1,5 +1,11 @@
-~~Title:vāsava~~
-{{description>the demigods, headed by King Indra.}}
+---json
+{
+    "name":"vāsava",
+    "h1":"vāsava",
+    "title":"vāsava -- synonyms, prabhupada.io",
+    "description":"the demigods, headed by King Indra."
+}
+---
 
 ==== vāsava-ādayaḥ  ====
   * the demigods, headed by King Indra --- [[books:sb:7:7:3|SB 7.7.3]]

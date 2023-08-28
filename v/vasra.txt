@@ -1,5 +1,11 @@
-~~Title:vāśrā~~
-{{description>a cow.}}
+---json
+{
+    "name":"vāśrā",
+    "h1":"vāśrā",
+    "title":"vāśrā -- synonyms, prabhupada.io",
+    "description":"a cow."
+}
+---
 
 ==== vāśrā  ====
   * a cow --- [[books:sb:4:9:17|SB 4.9.17]]

@@ -1,5 +1,11 @@
-~~Title:paiśunya~~
-{{description>of envy.}}
+---json
+{
+    "name":"paiśunya",
+    "h1":"paiśunya",
+    "title":"paiśunya -- synonyms, prabhupada.io",
+    "description":"of envy."
+}
+---
 
 ==== paiśunya  ====
   * of envy --- [[books:cc:antya:5:1|Antya 5.1]]

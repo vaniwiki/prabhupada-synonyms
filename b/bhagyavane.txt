@@ -1,5 +1,11 @@
-~~Title:bhāgyavāne~~
-{{description>some fortunate men; to some fortunate person.}}
+---json
+{
+    "name":"bhāgyavāne",
+    "h1":"bhāgyavāne",
+    "title":"bhāgyavāne -- synonyms, prabhupada.io",
+    "description":"some fortunate men; to some fortunate person."
+}
+---
 
 ==== kona bhāgyavāne  ====
   * some fortunate men --- [[books:cc:antya:6:82|Antya 6.82]]

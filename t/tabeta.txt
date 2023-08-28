@@ -1,5 +1,11 @@
-~~Title:tabeta~~
-{{description>then only; thereafter.}}
+---json
+{
+    "name":"tabeta",
+    "h1":"tabeta",
+    "title":"tabeta -- synonyms, prabhupada.io",
+    "description":"then only; thereafter."
+}
+---
 
 ==== tabeta  ====
   * then only --- [[books:cc:antya:5:132|Antya 5.132]], [[books:cc:antya:5:133|Antya 5.133]]

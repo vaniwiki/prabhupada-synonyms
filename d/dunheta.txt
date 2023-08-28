@@ -1,5 +1,11 @@
-~~Title:duṅheta~~
-{{description>both of them.}}
+---json
+{
+    "name":"duṅheta",
+    "h1":"duṅheta",
+    "title":"duṅheta -- synonyms, prabhupada.io",
+    "description":"both of them."
+}
+---
 
 ==== duṅheta  ====
   * both of them --- [[books:cc:madhya:6:222|Madhya 6.222]]

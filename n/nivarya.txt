@@ -1,5 +1,11 @@
-~~Title:nivārya~~
-{{description>blocking.}}
+---json
+{
+    "name":"nivārya",
+    "h1":"nivārya",
+    "title":"nivārya -- synonyms, prabhupada.io",
+    "description":"blocking."
+}
+---
 
 ==== nivārya  ====
   * blocking --- [[books:sb:6:11:2-3|SB 6.11.2-3]]

@@ -1,5 +1,11 @@
-~~Title:buluna~~
-{{description>let Him go.}}
+---json
+{
+    "name":"buluna",
+    "h1":"buluna",
+    "title":"buluna -- synonyms, prabhupada.io",
+    "description":"let Him go."
+}
+---
 
 ==== buluna  ====
   * let Him go --- [[books:cc:madhya:1:170|Madhya 1.170]]

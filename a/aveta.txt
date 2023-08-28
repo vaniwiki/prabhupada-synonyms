@@ -1,5 +1,11 @@
-~~Title:aveta~~
-{{description>know.}}
+---json
+{
+    "name":"aveta",
+    "h1":"aveta",
+    "title":"aveta -- synonyms, prabhupada.io",
+    "description":"know."
+}
+---
 
 ==== aveta  ====
   * know --- [[books:sb:3:16:26|SB 3.16.26]]

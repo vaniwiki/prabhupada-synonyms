@@ -1,5 +1,11 @@
-~~Title:svasṛ~~
-{{description>the sons of the mother's sister.}}
+---json
+{
+    "name":"svasṛ",
+    "h1":"svasṛ",
+    "title":"svasṛ -- synonyms, prabhupada.io",
+    "description":"the sons of the mother's sister."
+}
+---
 
 ==== mātṛ-svasṛ-ātma-jau  ====
   * the sons of the mother's sister --- [[books:sb:7:1:46|SB 7.1.46]]

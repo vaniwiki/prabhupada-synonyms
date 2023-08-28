@@ -1,5 +1,11 @@
-~~Title:upalakṣita~~
-{{description>appearing in different symptoms.}}
+---json
+{
+    "name":"upalakṣita",
+    "h1":"upalakṣita",
+    "title":"upalakṣita -- synonyms, prabhupada.io",
+    "description":"appearing in different symptoms."
+}
+---
 
 ==== sat-upalakṣita  ====
   * appearing in different symptoms --- [[books:sb:7:9:36|SB 7.9.36]]

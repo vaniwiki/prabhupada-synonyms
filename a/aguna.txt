@@ -1,5 +1,11 @@
-~~Title:aguṇa~~
-{{description>transcendental.}}
+---json
+{
+    "name":"aguṇa",
+    "h1":"aguṇa",
+    "title":"aguṇa -- synonyms, prabhupada.io",
+    "description":"transcendental."
+}
+---
 
 ==== aguṇa-āśrayaḥ  ====
   * transcendental --- [[books:sb:1:18:50|SB 1.18.50]]

@@ -1,5 +1,11 @@
-~~Title:niṣevyatām~~
-{{description>always being engaged in their service.}}
+---json
+{
+    "name":"niṣevyatām",
+    "h1":"niṣevyatām",
+    "title":"niṣevyatām -- synonyms, prabhupada.io",
+    "description":"always being engaged in their service."
+}
+---
 
 ==== niṣevyatām  ====
   * always being engaged in their service --- [[books:sb:4:21:39|SB 4.21.39]]

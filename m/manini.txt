@@ -1,5 +1,11 @@
-~~Title:manini~~
-{{description>consider; O respectful one; O You who are most beautiful in Your prestigious position.}}
+---json
+{
+    "name":"manini",
+    "h1":"manini",
+    "title":"manini -- synonyms, prabhupada.io",
+    "description":"consider; O respectful one; O You who are most beautiful in Your prestigious position."
+}
+---
 
 ==== mānini  ====
   * consider --- [[books:sb:1:7:38|SB 1.7.38]]

@@ -1,5 +1,11 @@
-~~Title:avimucya~~
-{{description>without giving up.}}
+---json
+{
+    "name":"avimucya",
+    "h1":"avimucya",
+    "title":"avimucya -- synonyms, prabhupada.io",
+    "description":"without giving up."
+}
+---
 
 ==== avimucya  ====
   * without giving up --- [[books:cc:madhya:19:143|Madhya 19.143]]

@@ -1,5 +1,11 @@
-~~Title:abhadrāt~~
-{{description>from sinful activity.}}
+---json
+{
+    "name":"abhadrāt",
+    "h1":"abhadrāt",
+    "title":"abhadrāt -- synonyms, prabhupada.io",
+    "description":"from sinful activity."
+}
+---
 
 ==== abhadrāt  ====
   * from sinful activity --- [[books:sb:6:1:10|SB 6.1.10]]

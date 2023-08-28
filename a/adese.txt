@@ -1,5 +1,11 @@
-~~Title:ādeśe~~
-{{description>under the order.}}
+---json
+{
+    "name":"ādeśe",
+    "h1":"ādeśe",
+    "title":"ādeśe -- synonyms, prabhupada.io",
+    "description":"under the order."
+}
+---
 
 ==== ādeśe  ====
   * under the order --- [[books:sb:3:13:14|SB 3.13.14]]

@@ -1,5 +1,11 @@
-~~Title:rogaḥ~~
-{{description>disease.}}
+---json
+{
+    "name":"rogaḥ",
+    "h1":"rogaḥ",
+    "title":"rogaḥ -- synonyms, prabhupada.io",
+    "description":"disease."
+}
+---
 
 ==== rogaḥ  ====
   * disease --- [[books:sb:7:5:27|SB 7.5.27]]

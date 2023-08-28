@@ -1,5 +1,11 @@
-~~Title:aihika~~
-{{description>in the present life.}}
+---json
+{
+    "name":"aihika",
+    "h1":"aihika",
+    "title":"aihika -- synonyms, prabhupada.io",
+    "description":"in the present life."
+}
+---
 
 ==== aihika  ====
   * in the present life --- [[books:sb:5:19:14|SB 5.19.14]]

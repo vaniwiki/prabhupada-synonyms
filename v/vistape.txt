@@ -1,5 +1,11 @@
-~~Title:viṣṭape~~
-{{description>the kingdom of heaven.}}
+---json
+{
+    "name":"viṣṭape",
+    "h1":"viṣṭape",
+    "title":"viṣṭape -- synonyms, prabhupada.io",
+    "description":"the kingdom of heaven."
+}
+---
 
 ==== tri-viṣṭape  ====
   * the kingdom of heaven --- [[books:sb:8:16:1|SB 8.16.1]]

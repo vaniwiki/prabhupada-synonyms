@@ -1,5 +1,11 @@
-~~Title:pratikartum~~
-{{description>to repay.}}
+---json
+{
+    "name":"pratikartum",
+    "h1":"pratikartum",
+    "title":"pratikartum -- synonyms, prabhupada.io",
+    "description":"to repay."
+}
+---
 
 ==== pratikartum  ====
   * to repay --- [[books:sb:9:18:43|SB 9.18.43]]

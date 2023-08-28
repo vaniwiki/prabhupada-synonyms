@@ -1,5 +1,11 @@
-~~Title:aghavān~~
-{{description>ever sinful; the sinful.}}
+---json
+{
+    "name":"aghavān",
+    "h1":"aghavān",
+    "title":"aghavān -- synonyms, prabhupada.io",
+    "description":"ever sinful; the sinful."
+}
+---
 
 ==== aghavān  ====
   * ever sinful --- [[books:sb:4:13:23|SB 4.13.23]]

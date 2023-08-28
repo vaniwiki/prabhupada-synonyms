@@ -1,5 +1,11 @@
-~~Title:janaye~~
-{{description>know.}}
+---json
+{
+    "name":"janaye",
+    "h1":"janaye",
+    "title":"janaye -- synonyms, prabhupada.io",
+    "description":"know."
+}
+---
 
 ==== jānaye  ====
   * know --- [[books:cc:adi:3:88|Ādi 3.88]], [[books:cc:madhya:20:363|Madhya 20.363]]

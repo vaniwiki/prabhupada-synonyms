@@ -1,5 +1,11 @@
-~~Title:samanuśiṣṭena~~
-{{description>fully instructed.}}
+---json
+{
+    "name":"samanuśiṣṭena",
+    "h1":"samanuśiṣṭena",
+    "title":"samanuśiṣṭena -- synonyms, prabhupada.io",
+    "description":"fully instructed."
+}
+---
 
 ==== samanuśiṣṭena  ====
   * fully instructed --- [[books:sb:5:9:6|SB 5.9.6]]

@@ -1,5 +1,11 @@
-~~Title:prabodha~~
-{{description>pacifying.}}
+---json
+{
+    "name":"prabodha",
+    "h1":"prabodha",
+    "title":"prabodha -- synonyms, prabhupada.io",
+    "description":"pacifying."
+}
+---
 
 ==== prabodha kari'  ====
   * pacifying --- [[books:cc:madhya:3:209-210|Madhya 3.209-210]]

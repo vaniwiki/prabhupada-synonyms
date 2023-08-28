@@ -1,5 +1,11 @@
-~~Title:īriṇam~~
-{{description>the deserts.}}
+---json
+{
+    "name":"īriṇam",
+    "h1":"īriṇam",
+    "title":"īriṇam -- synonyms, prabhupada.io",
+    "description":"the deserts."
+}
+---
 
 ==== īriṇam  ====
   * the deserts --- [[books:sb:6:9:7|SB 6.9.7]]

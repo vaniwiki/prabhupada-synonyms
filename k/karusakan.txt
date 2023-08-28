@@ -1,5 +1,11 @@
-~~Title:karūṣakān~~
-{{description>named Ikṣvāku, Nṛga, Śaryāti, Diṣṭa, Dhṛṣṭa and Karūṣaka.}}
+---json
+{
+    "name":"karūṣakān",
+    "h1":"karūṣakān",
+    "title":"karūṣakān -- synonyms, prabhupada.io",
+    "description":"named Ikṣvāku, Nṛga, Śaryāti, Diṣṭa, Dhṛṣṭa and Karūṣaka."
+}
+---
 
 ==== ikṣvāku-nṛga-śaryāti-diṣṭa-dhṛṣṭa-karūṣakān  ====
   * named Ikṣvāku, Nṛga, Śaryāti, Diṣṭa, Dhṛṣṭa and Karūṣaka --- [[books:sb:9:1:11-12|SB 9.1.11-12]]

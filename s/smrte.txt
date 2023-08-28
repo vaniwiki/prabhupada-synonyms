@@ -1,5 +1,11 @@
-~~Title:smṛte~~
-{{description>by remembering; by remembrance.}}
+---json
+{
+    "name":"smṛte",
+    "h1":"smṛte",
+    "title":"smṛte -- synonyms, prabhupada.io",
+    "description":"by remembering; by remembrance."
+}
+---
 
 ==== smṛte  ====
   * by remembering --- [[books:cc:adi:14:1|Ādi 14.1]]

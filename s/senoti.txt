@@ -1,5 +1,11 @@
-~~Title:seṅoti~~
-{{description>a sweetmeat made of a kind of fragrant flower.}}
+---json
+{
+    "name":"seṅoti",
+    "h1":"seṅoti",
+    "title":"seṅoti -- synonyms, prabhupada.io",
+    "description":"a sweetmeat made of a kind of fragrant flower."
+}
+---
 
 ==== seṅoti  ====
   * a sweetmeat made of a kind of fragrant flower --- [[books:cc:madhya:14:30|Madhya 14.30]]

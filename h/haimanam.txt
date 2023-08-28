@@ -1,5 +1,11 @@
-~~Title:haimānām~~
-{{description>lined with gold.}}
+---json
+{
+    "name":"haimānām",
+    "h1":"haimānām",
+    "title":"haimānām -- synonyms, prabhupada.io",
+    "description":"lined with gold."
+}
+---
 
 ==== haimānām  ====
   * lined with gold --- [[books:cc:madhya:8:95|Madhya 8.95]]

@@ -1,5 +1,11 @@
-~~Title:pāṇḍave~~
-{{description>the five Pāṇḍavas.}}
+---json
+{
+    "name":"pāṇḍave",
+    "h1":"pāṇḍave",
+    "title":"pāṇḍave -- synonyms, prabhupada.io",
+    "description":"the five Pāṇḍavas."
+}
+---
 
 ==== pañca-pāṇḍave  ====
   * the five Pāṇḍavas --- [[books:cc:antya:9:131|Antya 9.131]]

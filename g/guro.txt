@@ -1,5 +1,11 @@
-~~Title:guro~~
-{{description>my dear lord; my dear spiritual master; O my dear spiritual master; O my lord, my spiritual master; O my spiritual master; O preceptor; O supreme spiritual master.}}
+---json
+{
+    "name":"guro",
+    "h1":"guro",
+    "title":"guro -- synonyms, prabhupada.io",
+    "description":"my dear lord; my dear spiritual master; O my dear spiritual master; O my lord, my spiritual master; O my spiritual master; O preceptor; O supreme spiritual master."
+}
+---
 
 ==== guro  ====
   * my dear lord --- [[books:sb:6:18:20|SB 6.18.20]]

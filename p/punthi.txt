@@ -1,5 +1,11 @@
-~~Title:puṅthi~~
-{{description>book; books; literatures; scripture; scriptures; the book.}}
+---json
+{
+    "name":"puṅthi",
+    "h1":"puṅthi",
+    "title":"puṅthi -- synonyms, prabhupada.io",
+    "description":"book; books; literatures; scripture; scriptures; the book."
+}
+---
 
 ==== puṅthi  ====
   * book --- [[books:cc:antya:1:96|Antya 1.96]]

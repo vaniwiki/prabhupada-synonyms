@@ -1,5 +1,11 @@
-~~Title:asammate~~
-{{description>abominable.}}
+---json
+{
+    "name":"asammate",
+    "h1":"asammate",
+    "title":"asammate -- synonyms, prabhupada.io",
+    "description":"abominable."
+}
+---
 
 ==== asammate  ====
   * abominable --- [[books:sb:3:31:5|SB 3.31.5]]

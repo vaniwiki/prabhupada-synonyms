@@ -1,5 +1,11 @@
-~~Title:auddhatye~~
-{{description>because of pride in education.}}
+---json
+{
+    "name":"auddhatye",
+    "h1":"auddhatye",
+    "title":"auddhatye -- synonyms, prabhupada.io",
+    "description":"because of pride in education."
+}
+---
 
 ==== vidyāra auddhatye  ====
   * because of pride in education --- [[books:cc:adi:17:6|Ādi 17.6]]

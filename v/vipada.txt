@@ -1,5 +1,11 @@
-~~Title:vipada~~
-{{description>dangerous condition of life.}}
+---json
+{
+    "name":"vipada",
+    "h1":"vipada",
+    "title":"vipada -- synonyms, prabhupada.io",
+    "description":"dangerous condition of life."
+}
+---
 
 ==== vipada  ====
   * dangerous condition of life --- [[books:cc:antya:9:152|Antya 9.152]]

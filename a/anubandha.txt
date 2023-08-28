@@ -1,5 +1,11 @@
-~~Title:anubandha~~
-{{description>as they are combined together; connection.}}
+---json
+{
+    "name":"anubandha",
+    "h1":"anubandha",
+    "title":"anubandha -- synonyms, prabhupada.io",
+    "description":"as they are combined together; connection."
+}
+---
 
 ==== anubandha  ====
   * as they are combined together --- [[books:cc:adi:13:6|Ādi 13.6]]

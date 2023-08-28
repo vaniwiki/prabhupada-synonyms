@@ -1,5 +1,11 @@
-~~Title:patravanam~~
-{{description>Asi-patravana; the hell known as Asi-patravana.}}
+---json
+{
+    "name":"patravanam",
+    "h1":"patravanam",
+    "title":"patravanam -- synonyms, prabhupada.io",
+    "description":"Asi-patravana; the hell known as Asi-patravana."
+}
+---
 
 ==== asi-patravanam  ====
   * Asi-patravana --- [[books:sb:5:26:7|SB 5.26.7]]

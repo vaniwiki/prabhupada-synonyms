@@ -1,5 +1,11 @@
-~~Title:puṣṇan~~
-{{description>nourishing; providing with all the necessities of life.}}
+---json
+{
+    "name":"puṣṇan",
+    "h1":"puṣṇan",
+    "title":"puṣṇan -- synonyms, prabhupada.io",
+    "description":"nourishing; providing with all the necessities of life."
+}
+---
 
 ==== puṣṇan  ====
   * nourishing --- [[books:sb:3:1:6|SB 3.1.6]]

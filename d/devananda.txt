@@ -1,5 +1,11 @@
-~~Title:devānanda~~
-{{description>of the name Devānanda.}}
+---json
+{
+    "name":"devānanda",
+    "h1":"devānanda",
+    "title":"devānanda -- synonyms, prabhupada.io",
+    "description":"of the name Devānanda."
+}
+---
 
 ==== devānanda  ====
   * of the name Devānanda --- [[books:cc:adi:11:46|Ādi 11.46]]

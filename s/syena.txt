@@ -1,5 +1,11 @@
-~~Title:śyena~~
-{{description>eagles; hawk; on the backs of hawks.}}
+---json
+{
+    "name":"śyena",
+    "h1":"śyena",
+    "title":"śyena -- synonyms, prabhupada.io",
+    "description":"eagles; hawk; on the backs of hawks."
+}
+---
 
 ==== śyena  ====
   * eagles --- [[books:sb:5:24:6|SB 5.24.6]], [[books:sb:6:6:27|SB 6.6.27]]

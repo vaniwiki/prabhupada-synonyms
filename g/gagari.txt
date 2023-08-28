@@ -1,5 +1,11 @@
-~~Title:gāgarī~~
-{{description>a big pot.}}
+---json
+{
+    "name":"gāgarī",
+    "h1":"gāgarī",
+    "title":"gāgarī -- synonyms, prabhupada.io",
+    "description":"a big pot."
+}
+---
 
 ==== gāgarī  ====
   * a big pot --- [[books:cc:antya:12:103|Antya 12.103]]

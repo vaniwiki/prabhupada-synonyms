@@ -1,5 +1,11 @@
-~~Title:phelaila~~
-{{description>threw away.}}
+---json
+{
+    "name":"phelaila",
+    "h1":"phelaila",
+    "title":"phelaila -- synonyms, prabhupada.io",
+    "description":"threw away."
+}
+---
 
 ==== phelāila  ====
   * threw away --- [[books:cc:adi:17:94|Ādi 17.94]]

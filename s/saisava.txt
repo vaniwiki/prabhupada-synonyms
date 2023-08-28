@@ -1,5 +1,11 @@
-~~Title:śaiśava~~
-{{description>childish.}}
+---json
+{
+    "name":"śaiśava",
+    "h1":"śaiśava",
+    "title":"śaiśava -- synonyms, prabhupada.io",
+    "description":"childish."
+}
+---
 
 ==== śaiśava  ====
   * childish --- [[books:cc:adi:16:103|Ādi 16.103]]

@@ -1,5 +1,11 @@
-~~Title:avatariṣyāmi~~
-{{description>I shall advent Myself.}}
+---json
+{
+    "name":"avatariṣyāmi",
+    "h1":"avatariṣyāmi",
+    "title":"avatariṣyāmi -- synonyms, prabhupada.io",
+    "description":"I shall advent Myself."
+}
+---
 
 ==== avatariṣyāmi  ====
   * I shall advent Myself --- [[books:sb:5:3:18|SB 5.3.18]]

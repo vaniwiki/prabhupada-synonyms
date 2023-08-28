@@ -1,5 +1,11 @@
-~~Title:hanaḥ~~
-{{description>the killers of the soul.}}
+---json
+{
+    "name":"hanaḥ",
+    "h1":"hanaḥ",
+    "title":"hanaḥ -- synonyms, prabhupada.io",
+    "description":"the killers of the soul."
+}
+---
 
 ==== ātma-hanaḥ  ====
   * the killers of the soul --- [[books:iso:3|Īśo 3]]

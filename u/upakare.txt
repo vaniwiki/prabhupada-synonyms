@@ -1,5 +1,11 @@
-~~Title:upakāre~~
-{{description>kindly do a favor.}}
+---json
+{
+    "name":"upakāre",
+    "h1":"upakāre",
+    "title":"upakāre -- synonyms, prabhupada.io",
+    "description":"kindly do a favor."
+}
+---
 
 ==== kara upakāre  ====
   * kindly do a favor --- [[books:cc:madhya:20:85|Madhya 20.85]]

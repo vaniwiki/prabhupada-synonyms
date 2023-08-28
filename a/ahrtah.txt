@@ -1,5 +1,11 @@
-~~Title:ahrtah~~
-{{description>called; described; was called.}}
+---json
+{
+    "name":"ahrtah",
+    "h1":"ahrtah",
+    "title":"ahrtah -- synonyms, prabhupada.io",
+    "description":"called; described; was called."
+}
+---
 
 ==== āhṛtaḥ  ====
   * called --- [[books:sb:8:1:30|SB 8.1.30]]

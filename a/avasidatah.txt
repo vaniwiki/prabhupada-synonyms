@@ -1,5 +1,11 @@
-~~Title:avasīdataḥ~~
-{{description>reduced (mental, physical and sensory strength).}}
+---json
+{
+    "name":"avasīdataḥ",
+    "h1":"avasīdataḥ",
+    "title":"avasīdataḥ -- synonyms, prabhupada.io",
+    "description":"reduced (mental, physical and sensory strength)."
+}
+---
 
 ==== avasīdataḥ  ====
   * reduced (mental, physical and sensory strength) --- [[books:sb:8:2:30|SB 8.2.30]]

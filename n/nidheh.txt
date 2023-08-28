@@ -1,5 +1,11 @@
-~~Title:nidheḥ~~
-{{description>of the ocean of milk.}}
+---json
+{
+    "name":"nidheḥ",
+    "h1":"nidheḥ",
+    "title":"nidheḥ -- synonyms, prabhupada.io",
+    "description":"of the ocean of milk."
+}
+---
 
 ==== kṣīra-payaḥ-nidheḥ  ====
   * of the ocean of milk --- [[books:sb:10:1:19|SB 10.1.19]]

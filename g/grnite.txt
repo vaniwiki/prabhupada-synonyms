@@ -1,5 +1,11 @@
-~~Title:gṛṇīte~~
-{{description>relates.}}
+---json
+{
+    "name":"gṛṇīte",
+    "h1":"gṛṇīte",
+    "title":"gṛṇīte -- synonyms, prabhupada.io",
+    "description":"relates."
+}
+---
 
 ==== gṛṇīte  ====
   * relates --- [[books:cc:adi:6:68|Ādi 6.68]]

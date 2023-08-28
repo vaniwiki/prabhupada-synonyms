@@ -1,5 +1,11 @@
-~~Title:dhvaja~~
-{{description>banner; flag; flags; of festoons; the flags.}}
+---json
+{
+    "name":"dhvaja",
+    "h1":"dhvaja",
+    "title":"dhvaja -- synonyms, prabhupada.io",
+    "description":"banner; flag; flags; of festoons; the flags."
+}
+---
 
 ==== dhvaja  ====
   * banner --- [[books:sb:3:28:21|SB 3.28.21]]

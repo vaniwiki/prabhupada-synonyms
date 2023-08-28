@@ -1,5 +1,11 @@
-~~Title:haitukam~~
-{{description>it is due to lust only.}}
+---json
+{
+    "name":"haitukam",
+    "h1":"haitukam",
+    "title":"haitukam -- synonyms, prabhupada.io",
+    "description":"it is due to lust only."
+}
+---
 
 ==== kāma-haitukam  ====
   * it is due to lust only --- [[books:bg:16:8|Bg. 16.8]]

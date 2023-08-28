@@ -1,5 +1,11 @@
-~~Title:cyutau~~
-{{description>fallen.}}
+---json
+{
+    "name":"cyutau",
+    "h1":"cyutau",
+    "title":"cyutau -- synonyms, prabhupada.io",
+    "description":"fallen."
+}
+---
 
 ==== cyutau  ====
   * fallen --- [[books:sb:7:1:33|SB 7.1.33]]

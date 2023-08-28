@@ -1,5 +1,11 @@
-~~Title:uccalanti~~
-{{description>as if going out.}}
+---json
+{
+    "name":"uccalanti",
+    "h1":"uccalanti",
+    "title":"uccalanti -- synonyms, prabhupada.io",
+    "description":"as if going out."
+}
+---
 
 ==== uccalanti  ====
   * as if going out --- [[books:sb:1:14:20|SB 1.14.20]]

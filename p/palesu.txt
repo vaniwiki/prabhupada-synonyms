@@ -1,5 +1,11 @@
-~~Title:pāleṣu~~
-{{description>maintainers like Lord Brahmā.}}
+---json
+{
+    "name":"pāleṣu",
+    "h1":"pāleṣu",
+    "title":"pāleṣu -- synonyms, prabhupada.io",
+    "description":"maintainers like Lord Brahmā."
+}
+---
 
 ==== pāleṣu  ====
   * maintainers like Lord Brahmā --- [[books:sb:8:3:5|SB 8.3.5]]

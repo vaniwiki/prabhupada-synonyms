@@ -1,5 +1,11 @@
-~~Title:rahite~~
-{{description>for My stay; free; to keep; to remain; to remain silent; to remain there; to stay.}}
+---json
+{
+    "name":"rahite",
+    "h1":"rahite",
+    "title":"rahite -- synonyms, prabhupada.io",
+    "description":"for My stay; free; to keep; to remain; to remain silent; to remain there; to stay."
+}
+---
 
 ==== rahite  ====
   * for My stay --- [[books:cc:antya:13:65|Antya 13.65]]

@@ -1,5 +1,11 @@
-~~Title:pṛthukāḥ~~
-{{description>the boys.}}
+---json
+{
+    "name":"pṛthukāḥ",
+    "h1":"pṛthukāḥ",
+    "title":"pṛthukāḥ -- synonyms, prabhupada.io",
+    "description":"the boys."
+}
+---
 
 ==== pṛthukāḥ  ====
   * the boys --- [[books:sb:10:12:2|SB 10.12.2]]

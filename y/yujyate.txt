@@ -1,5 +1,11 @@
-~~Title:yujyate~~
-{{description>could be; engaged; is accepted as; is achieved; is affected; is performed; is used; is worthy for you.}}
+---json
+{
+    "name":"yujyate",
+    "h1":"yujyate",
+    "title":"yujyate -- synonyms, prabhupada.io",
+    "description":"could be; engaged; is accepted as; is achieved; is affected; is performed; is used; is worthy for you."
+}
+---
 
 ==== yujyate  ====
   * could be --- [[books:sb:9:23:37|SB 9.23.37]]

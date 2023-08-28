@@ -1,5 +1,11 @@
-~~Title:cakrataḥ~~
-{{description>being afraid of the roaring sound of a lion.}}
+---json
+{
+    "name":"cakrataḥ",
+    "h1":"cakrataḥ",
+    "title":"cakrataḥ -- synonyms, prabhupada.io",
+    "description":"being afraid of the roaring sound of a lion."
+}
+---
 
 ==== hari-cakrataḥ trasan  ====
   * being afraid of the roaring sound of a lion --- [[books:sb:5:13:16|SB 5.13.16]]

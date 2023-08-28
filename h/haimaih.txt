@@ -1,5 +1,11 @@
-~~Title:haimaiḥ~~
-{{description>golden.}}
+---json
+{
+    "name":"haimaiḥ",
+    "h1":"haimaiḥ",
+    "title":"haimaiḥ -- synonyms, prabhupada.io",
+    "description":"golden."
+}
+---
 
 ==== haimaiḥ  ====
   * golden --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

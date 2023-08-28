@@ -1,5 +1,11 @@
-~~Title:avahāsa~~
-{{description>for the matter of joking.}}
+---json
+{
+    "name":"avahāsa",
+    "h1":"avahāsa",
+    "title":"avahāsa -- synonyms, prabhupada.io",
+    "description":"for the matter of joking."
+}
+---
 
 ==== avahāsa-artham  ====
   * for the matter of joking --- [[books:cc:madhya:19:199-200|Madhya 19.199-200]]

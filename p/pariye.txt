@@ -1,5 +1,11 @@
-~~Title:pāriye~~
-{{description>I can give up.}}
+---json
+{
+    "name":"pāriye",
+    "h1":"pāriye",
+    "title":"pāriye -- synonyms, prabhupada.io",
+    "description":"I can give up."
+}
+---
 
 ==== chāḍite pāriye  ====
   * I can give up --- [[books:cc:antya:4:55|Antya 4.55]]

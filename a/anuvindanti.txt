@@ -1,5 +1,11 @@
-~~Title:anuvindanti~~
-{{description>experience.}}
+---json
+{
+    "name":"anuvindanti",
+    "h1":"anuvindanti",
+    "title":"anuvindanti -- synonyms, prabhupada.io",
+    "description":"experience."
+}
+---
 
 ==== anuvindanti  ====
   * experience --- [[books:sb:4:14:24|SB 4.14.24]]

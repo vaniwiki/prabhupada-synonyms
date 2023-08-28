@@ -1,5 +1,11 @@
-~~Title:sakhyah~~
-{{description>female associates; female friends; friends like Lalitā and Viśākhā; O friends.}}
+---json
+{
+    "name":"sakhyah",
+    "h1":"sakhyah",
+    "title":"sakhyah -- synonyms, prabhupada.io",
+    "description":"female associates; female friends; friends like Lalitā and Viśākhā; O friends."
+}
+---
 
 ==== sakhyaḥ  ====
   * female associates --- [[books:sb:4:25:35|SB 4.25.35]]

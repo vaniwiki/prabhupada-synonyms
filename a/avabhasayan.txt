@@ -1,5 +1,11 @@
-~~Title:avabhāsayan~~
-{{description>illuminating.}}
+---json
+{
+    "name":"avabhāsayan",
+    "h1":"avabhāsayan",
+    "title":"avabhāsayan -- synonyms, prabhupada.io",
+    "description":"illuminating."
+}
+---
 
 ==== avabhāsayan  ====
   * illuminating --- [[books:sb:5:1:8|SB 5.1.8]]

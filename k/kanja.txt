@@ -1,5 +1,11 @@
-~~Title:kañja~~
-{{description>a lotus flower; lotus; lotuslike.}}
+---json
+{
+    "name":"kañja",
+    "h1":"kañja",
+    "title":"kañja -- synonyms, prabhupada.io",
+    "description":"a lotus flower; lotus; lotuslike."
+}
+---
 
 ==== kañja  ====
   * a lotus flower --- [[books:cc:madhya:24:156|Madhya 24.156]]

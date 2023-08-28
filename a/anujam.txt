@@ -1,5 +1,11 @@
-~~Title:anujam~~
-{{description>Arjuna; younger brother.}}
+---json
+{
+    "name":"anujam",
+    "h1":"anujam",
+    "title":"anujam -- synonyms, prabhupada.io",
+    "description":"Arjuna; younger brother."
+}
+---
 
 ==== anujam  ====
   * Arjuna --- [[books:sb:1:14:24|SB 1.14.24]]

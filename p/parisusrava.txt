@@ -1,5 +1,11 @@
-~~Title:parisusrāva~~
-{{description>fell down.}}
+---json
+{
+    "name":"parisusrāva",
+    "h1":"parisusrāva",
+    "title":"parisusrāva -- synonyms, prabhupada.io",
+    "description":"fell down."
+}
+---
 
 ==== parisusrāva  ====
   * fell down --- [[books:sb:5:8:29|SB 5.8.29]]

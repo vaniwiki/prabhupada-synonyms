@@ -1,5 +1,11 @@
-~~Title:phuṭkalāi~~
-{{description>fused peas fried in ghee and soaked in sugar juice.}}
+---json
+{
+    "name":"phuṭkalāi",
+    "h1":"phuṭkalāi",
+    "title":"phuṭkalāi -- synonyms, prabhupada.io",
+    "description":"fused peas fried in ghee and soaked in sugar juice."
+}
+---
 
 ==== phuṭkalāi  ====
   * fused peas fried in ghee and soaked in sugar juice --- [[books:cc:antya:10:32|Antya 10.32]]

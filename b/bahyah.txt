@@ -1,5 +1,11 @@
-~~Title:bāhyaḥ~~
-{{description>external.}}
+---json
+{
+    "name":"bāhyaḥ",
+    "h1":"bāhyaḥ",
+    "title":"bāhyaḥ -- synonyms, prabhupada.io",
+    "description":"external."
+}
+---
 
 ==== bāhyaḥ  ====
   * external --- [[books:sb:4:29:18-20|SB 4.29.18-20]]

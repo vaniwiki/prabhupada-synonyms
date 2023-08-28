@@ -1,5 +1,11 @@
-~~Title:durvaśane~~
-{{description>at Durvaśana.}}
+---json
+{
+    "name":"durvaśane",
+    "h1":"durvaśane",
+    "title":"durvaśane -- synonyms, prabhupada.io",
+    "description":"at Durvaśana."
+}
+---
 
 ==== durvaśane  ====
   * at Durvaśana --- [[books:cc:madhya:9:198|Madhya 9.198]]

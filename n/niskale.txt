@@ -1,5 +1,11 @@
-~~Title:niṣkale~~
-{{description>unlimited.}}
+---json
+{
+    "name":"niṣkale",
+    "h1":"niṣkale",
+    "title":"niṣkale -- synonyms, prabhupada.io",
+    "description":"unlimited."
+}
+---
 
 ==== niṣkale  ====
   * unlimited --- [[books:sb:1:9:44|SB 1.9.44]]

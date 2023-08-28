@@ -1,5 +1,11 @@
-~~Title:malāni~~
-{{description>and dirt on the body.}}
+---json
+{
+    "name":"malāni",
+    "h1":"malāni",
+    "title":"malāni -- synonyms, prabhupada.io",
+    "description":"and dirt on the body."
+}
+---
 
 ==== malāni  ====
   * and dirt on the body --- [[books:sb:7:12:21|SB 7.12.21]]

@@ -1,5 +1,11 @@
-~~Title:padāni~~
-{{description>different stages; footsteps; four legs; pilgrimages; steps; the legs; words.}}
+---json
+{
+    "name":"padāni",
+    "h1":"padāni",
+    "title":"padāni -- synonyms, prabhupada.io",
+    "description":"different stages; footsteps; four legs; pilgrimages; steps; the legs; words."
+}
+---
 
 ==== padāni  ====
   * different stages --- [[books:sb:7:13:21|SB 7.13.21]]

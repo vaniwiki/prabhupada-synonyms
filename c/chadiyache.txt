@@ -1,5 +1,11 @@
-~~Title:chāḍiyāche~~
-{{description>he has left that service.}}
+---json
+{
+    "name":"chāḍiyāche",
+    "h1":"chāḍiyāche",
+    "title":"chāḍiyāche -- synonyms, prabhupada.io",
+    "description":"he has left that service."
+}
+---
 
 ==== sevā chāḍiyāche  ====
   * he has left that service --- [[books:cc:antya:6:164|Antya 6.164]]

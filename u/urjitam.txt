@@ -1,5 +1,11 @@
-~~Title:urjitam~~
-{{description>excellence; excellent; full of power; glorious; strongly built; very glorious; very, very great.}}
+---json
+{
+    "name":"urjitam",
+    "h1":"urjitam",
+    "title":"urjitam -- synonyms, prabhupada.io",
+    "description":"excellence; excellent; full of power; glorious; strongly built; very glorious; very, very great."
+}
+---
 
 ==== ūrjitam  ====
   * excellence --- [[books:sb:1:3:3|SB 1.3.3]]

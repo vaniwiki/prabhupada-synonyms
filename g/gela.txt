@@ -1,5 +1,11 @@
-~~Title:gela~~
-{{description>arrived; became; disappeared; forgot; has become a fact; has gone; he went; is going away; lost; passed; reached; returned; went; went away; will go.}}
+---json
+{
+    "name":"gela",
+    "h1":"gela",
+    "title":"gela -- synonyms, prabhupada.io",
+    "description":"arrived; became; disappeared; forgot; has become a fact; has gone; he went; is going away; lost; passed; reached; returned; went; went away; will go."
+}
+---
 
 ==== gela  ====
   * arrived --- [[books:cc:madhya:14:58|Madhya 14.58]]

@@ -1,5 +1,11 @@
-~~Title:parāga~~
-{{description>dust.}}
+---json
+{
+    "name":"parāga",
+    "h1":"parāga",
+    "title":"parāga -- synonyms, prabhupada.io",
+    "description":"dust."
+}
+---
 
 ==== parāga  ====
   * dust --- [[books:sb:2:7:4|SB 2.7.4]]

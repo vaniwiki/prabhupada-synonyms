@@ -1,5 +1,11 @@
-~~Title:marena~~
-{{description>Amogha is dying.}}
+---json
+{
+    "name":"marena",
+    "h1":"marena",
+    "title":"marena -- synonyms, prabhupada.io",
+    "description":"Amogha is dying."
+}
+---
 
 ==== amogha marena  ====
   * Amogha is dying --- [[books:cc:madhya:15:267|Madhya 15.267]]

@@ -1,5 +1,11 @@
-~~Title:vāñchaye~~
-{{description>he desires.}}
+---json
+{
+    "name":"vāñchaye",
+    "h1":"vāñchaye",
+    "title":"vāñchaye -- synonyms, prabhupada.io",
+    "description":"he desires."
+}
+---
 
 ==== vāñchaye  ====
   * he desires --- [[books:cc:madhya:6:268|Madhya 6.268]]

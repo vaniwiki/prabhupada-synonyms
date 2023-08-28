@@ -1,5 +1,11 @@
-~~Title:udāvahat~~
-{{description>married.}}
+---json
+{
+    "name":"udāvahat",
+    "h1":"udāvahat",
+    "title":"udāvahat -- synonyms, prabhupada.io",
+    "description":"married."
+}
+---
 
 ==== udāvahat  ====
   * married --- [[books:cc:adi:1:71|Ādi 1.71]], [[books:cc:madhya:20:170|Madhya 20.170]]

@@ -1,5 +1,11 @@
-~~Title:dasya~~
-{{description>accepting servitorship; of servitude; servitorship; servitude.}}
+---json
+{
+    "name":"dasya",
+    "h1":"dasya",
+    "title":"dasya -- synonyms, prabhupada.io",
+    "description":"accepting servitorship; of servitude; servitorship; servitude."
+}
+---
 
 ==== dāsya  ====
   * accepting servitorship --- [[books:cc:madhya:22:121|Madhya 22.121]]

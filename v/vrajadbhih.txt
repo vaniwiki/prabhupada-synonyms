@@ -1,5 +1,11 @@
-~~Title:vrajadbhiḥ~~
-{{description>flying.}}
+---json
+{
+    "name":"vrajadbhiḥ",
+    "h1":"vrajadbhiḥ",
+    "title":"vrajadbhiḥ -- synonyms, prabhupada.io",
+    "description":"flying."
+}
+---
 
 ==== vrajadbhiḥ  ====
   * flying --- [[books:sb:4:3:12|SB 4.3.12]]

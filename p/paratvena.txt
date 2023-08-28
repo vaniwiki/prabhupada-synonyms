@@ -1,5 +1,11 @@
-~~Title:paratvena~~
-{{description>by the sole purpose of serving the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"paratvena",
+    "h1":"paratvena",
+    "title":"paratvena -- synonyms, prabhupada.io",
+    "description":"by the sole purpose of serving the Supreme Personality of Godhead."
+}
+---
 
 ==== tat-paratvena  ====
   * by the sole purpose of serving the Supreme Personality of Godhead --- [[books:cc:madhya:19:170|Madhya 19.170]]

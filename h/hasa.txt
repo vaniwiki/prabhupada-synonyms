@@ -1,5 +1,11 @@
-~~Title:hāsa~~
-{{description>laughing; laughter; smile; smiling; with smiling.}}
+---json
+{
+    "name":"hāsa",
+    "h1":"hāsa",
+    "title":"hāsa -- synonyms, prabhupada.io",
+    "description":"laughing; laughter; smile; smiling; with smiling."
+}
+---
 
 ==== hāsa  ====
   * laughing --- [[books:sb:5:1:29|SB 5.1.29]], [[books:cc:antya:17:26|Antya 17.26]]

@@ -1,5 +1,11 @@
-~~Title:yāga~~
-{{description>Allahabad.}}
+---json
+{
+    "name":"yāga",
+    "h1":"yāga",
+    "title":"yāga -- synonyms, prabhupada.io",
+    "description":"Allahabad."
+}
+---
 
 ==== pra yāga  ====
   * Allahabad --- [[books:cc:madhya:25:201|Madhya 25.201]]

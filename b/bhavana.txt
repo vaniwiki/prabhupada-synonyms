@@ -1,5 +1,11 @@
-~~Title:bhavana~~
-{{description>creation; house; houses; the original source; the whole house; to my home; to the house.}}
+---json
+{
+    "name":"bhavana",
+    "h1":"bhavana",
+    "title":"bhavana -- synonyms, prabhupada.io",
+    "description":"creation; house; houses; the original source; the whole house; to my home; to the house."
+}
+---
 
 ==== bhavana  ====
   * creation --- [[books:sb:8:17:9|SB 8.17.9]]

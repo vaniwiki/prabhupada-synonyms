@@ -1,5 +1,11 @@
-~~Title:paṅkam~~
-{{description>mud.}}
+---json
+{
+    "name":"paṅkam",
+    "h1":"paṅkam",
+    "title":"paṅkam -- synonyms, prabhupada.io",
+    "description":"mud."
+}
+---
 
 ==== paṅkam  ====
   * mud --- [[books:sb:2:7:3|SB 2.7.3]]

@@ -1,5 +1,11 @@
-~~Title:piṇḍera~~
-{{description>the platform.}}
+---json
+{
+    "name":"piṇḍera",
+    "h1":"piṇḍera",
+    "title":"piṇḍera -- synonyms, prabhupada.io",
+    "description":"the platform."
+}
+---
 
 ==== piṇḍera  ====
   * the platform --- [[books:cc:antya:11:69|Antya 11.69]]

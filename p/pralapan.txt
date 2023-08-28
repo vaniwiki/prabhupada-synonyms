@@ -1,5 +1,11 @@
-~~Title:pralapan~~
-{{description>by talking.}}
+---json
+{
+    "name":"pralapan",
+    "h1":"pralapan",
+    "title":"pralapan -- synonyms, prabhupada.io",
+    "description":"by talking."
+}
+---
 
 ==== pralapan  ====
   * by talking --- [[books:bg:5:8-9|Bg. 5.8-9]]

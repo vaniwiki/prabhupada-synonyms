@@ -1,5 +1,11 @@
-~~Title:avaruddhān~~
-{{description>obtained.}}
+---json
+{
+    "name":"avaruddhān",
+    "h1":"avaruddhān",
+    "title":"avaruddhān -- synonyms, prabhupada.io",
+    "description":"obtained."
+}
+---
 
 ==== avaruddhān  ====
   * obtained --- [[books:sb:3:23:7|SB 3.23.7]]

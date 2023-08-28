@@ -1,5 +1,11 @@
-~~Title:caryam~~
-{{description>activities.}}
+---json
+{
+    "name":"caryam",
+    "h1":"caryam",
+    "title":"caryam -- synonyms, prabhupada.io",
+    "description":"activities."
+}
+---
 
 ==== caryām  ====
   * activities --- [[books:sb:3:14:27|SB 3.14.27]]

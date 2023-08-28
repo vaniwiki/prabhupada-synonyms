@@ -1,5 +1,11 @@
-~~Title:māribe~~
-{{description>will kill.}}
+---json
+{
+    "name":"māribe",
+    "h1":"māribe",
+    "title":"māribe -- synonyms, prabhupada.io",
+    "description":"will kill."
+}
+---
 
 ==== māribe  ====
   * will kill --- [[books:cc:madhya:24:251|Madhya 24.251]]

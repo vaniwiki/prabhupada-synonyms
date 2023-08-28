@@ -1,5 +1,11 @@
-~~Title:ghaṇṭāra~~
-{{description>of bells.}}
+---json
+{
+    "name":"ghaṇṭāra",
+    "h1":"ghaṇṭāra",
+    "title":"ghaṇṭāra -- synonyms, prabhupada.io",
+    "description":"of bells."
+}
+---
 
 ==== ghaṇṭāra  ====
   * of bells --- [[books:cc:madhya:13:21|Madhya 13.21]]

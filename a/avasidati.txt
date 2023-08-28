@@ -1,5 +1,11 @@
-~~Title:avasīdati~~
-{{description>will be bereaved.}}
+---json
+{
+    "name":"avasīdati",
+    "h1":"avasīdati",
+    "title":"avasīdati -- synonyms, prabhupada.io",
+    "description":"will be bereaved."
+}
+---
 
 ==== avasīdati  ====
   * will be bereaved --- [[books:sb:3:9:34|SB 3.9.34]]

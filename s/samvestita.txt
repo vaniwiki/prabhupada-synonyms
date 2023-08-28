@@ -1,5 +1,11 @@
-~~Title:saṁveṣṭita~~
-{{description>surrounded by.}}
+---json
+{
+    "name":"saṁveṣṭita",
+    "h1":"saṁveṣṭita",
+    "title":"saṁveṣṭita -- synonyms, prabhupada.io",
+    "description":"surrounded by."
+}
+---
 
 ==== saṁveṣṭita  ====
   * surrounded by --- [[books:cc:adi:5:72|Ādi 5.72]]

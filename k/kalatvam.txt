@@ -1,5 +1,11 @@
-~~Title:kālatvam~~
-{{description>being free from wasting time.}}
+---json
+{
+    "name":"kālatvam",
+    "h1":"kālatvam",
+    "title":"kālatvam -- synonyms, prabhupada.io",
+    "description":"being free from wasting time."
+}
+---
 
 ==== avyartha-kālatvam  ====
   * being free from wasting time --- [[books:cc:madhya:23:18-19|Madhya 23.18-19]]

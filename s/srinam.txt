@@ -1,5 +1,11 @@
-~~Title:śrīṇām~~
-{{description>of your sons, who are bereft of all opulences.}}
+---json
+{
+    "name":"śrīṇām",
+    "h1":"śrīṇām",
+    "title":"śrīṇām -- synonyms, prabhupada.io",
+    "description":"of your sons, who are bereft of all opulences."
+}
+---
 
 ==== hṛta-śrīṇām  ====
   * of your sons, who are bereft of all opulences --- [[books:sb:8:17:12|SB 8.17.12]]

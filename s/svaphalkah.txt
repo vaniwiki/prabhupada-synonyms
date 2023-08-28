@@ -1,5 +1,11 @@
-~~Title:śvaphalkaḥ~~
-{{description>Śvaphalka.}}
+---json
+{
+    "name":"śvaphalkaḥ",
+    "h1":"śvaphalkaḥ",
+    "title":"śvaphalkaḥ -- synonyms, prabhupada.io",
+    "description":"Śvaphalka."
+}
+---
 
 ==== śvaphalkaḥ  ====
   * Śvaphalka --- [[books:sb:9:24:15|SB 9.24.15]]

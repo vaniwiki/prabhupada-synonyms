@@ -1,5 +1,11 @@
-~~Title:asan~~
-{{description>being temporary; not existing.}}
+---json
+{
+    "name":"asan",
+    "h1":"asan",
+    "title":"asan -- synonyms, prabhupada.io",
+    "description":"being temporary; not existing."
+}
+---
 
 ==== asan  ====
   * being temporary --- [[books:sb:5:5:4|SB 5.5.4]]

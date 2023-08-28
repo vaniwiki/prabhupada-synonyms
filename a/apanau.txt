@@ -1,5 +1,11 @@
-~~Title:apānau~~
-{{description>outgoing breath.}}
+---json
+{
+    "name":"apānau",
+    "h1":"apānau",
+    "title":"apānau -- synonyms, prabhupada.io",
+    "description":"outgoing breath."
+}
+---
 
 ==== apānau  ====
   * outgoing breath --- [[books:sb:7:15:32-33|SB 7.15.32-33]]

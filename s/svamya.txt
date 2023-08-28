@@ -1,5 +1,11 @@
-~~Title:svāmya~~
-{{description>the condition of servanthood and mastership.}}
+---json
+{
+    "name":"svāmya",
+    "h1":"svāmya",
+    "title":"svāmya -- synonyms, prabhupada.io",
+    "description":"the condition of servanthood and mastership."
+}
+---
 
 ==== sva-svāmya-bhāvaḥ  ====
   * the condition of servanthood and mastership --- [[books:sb:5:10:11|SB 5.10.11]]

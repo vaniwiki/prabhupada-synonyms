@@ -1,5 +1,11 @@
-~~Title:uthali'~~
-{{description>overpowering.}}
+---json
+{
+    "name":"uthali'",
+    "h1":"uthali'",
+    "title":"uthali' -- synonyms, prabhupada.io",
+    "description":"overpowering."
+}
+---
 
 ==== uthali'  ====
   * overpowering --- [[books:cc:madhya:11:218|Madhya 11.218]]

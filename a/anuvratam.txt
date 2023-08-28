@@ -1,5 +1,11 @@
-~~Title:anuvratam~~
-{{description>follower; following the instruction of the brāhmaṇas.}}
+---json
+{
+    "name":"anuvratam",
+    "h1":"anuvratam",
+    "title":"anuvratam -- synonyms, prabhupada.io",
+    "description":"follower; following the instruction of the brāhmaṇas."
+}
+---
 
 ==== anuvratam  ====
   * follower --- [[books:sb:1:11:39|SB 1.11.39]], [[books:sb:5:2:16|SB 5.2.16]]

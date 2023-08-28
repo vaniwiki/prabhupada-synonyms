@@ -1,5 +1,11 @@
-~~Title:jhāle~~
-{{description>and pungent.}}
+---json
+{
+    "name":"jhāle",
+    "h1":"jhāle",
+    "title":"jhāle -- synonyms, prabhupada.io",
+    "description":"and pungent."
+}
+---
 
 ==== jhāle  ====
   * and pungent --- [[books:cc:madhya:3:46|Madhya 3.46]]

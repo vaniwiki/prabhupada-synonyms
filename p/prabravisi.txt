@@ -1,5 +1,11 @@
-~~Title:prabravīṣi~~
-{{description>as you describe.}}
+---json
+{
+    "name":"prabravīṣi",
+    "h1":"prabravīṣi",
+    "title":"prabravīṣi -- synonyms, prabhupada.io",
+    "description":"as you describe."
+}
+---
 
 ==== prabravīṣi  ====
   * as you describe --- [[books:sb:2:5:10|SB 2.5.10]]

@@ -1,5 +1,11 @@
-~~Title:mūrtayaḥ~~
-{{description>forms.}}
+---json
+{
+    "name":"mūrtayaḥ",
+    "h1":"mūrtayaḥ",
+    "title":"mūrtayaḥ -- synonyms, prabhupada.io",
+    "description":"forms."
+}
+---
 
 ==== mūrtayaḥ  ====
   * forms --- [[books:bg:14:4|Bg. 14.4]], [[books:sb:10:13:54|SB 10.13.54]]

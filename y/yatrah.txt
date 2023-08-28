@@ -1,5 +1,11 @@
-~~Title:yātraḥ~~
-{{description>maintenance of the different entities.}}
+---json
+{
+    "name":"yātraḥ",
+    "h1":"yātraḥ",
+    "title":"yātraḥ -- synonyms, prabhupada.io",
+    "description":"maintenance of the different entities."
+}
+---
 
 ==== loka-yātraḥ  ====
   * maintenance of the different entities --- [[books:sb:3:9:20|SB 3.9.20]]

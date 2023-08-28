@@ -1,5 +1,11 @@
-~~Title:govardhane~~
-{{description>a place near Govardhana Hill; near the Govardhana Hill; on Govardhana Hill; on the Govardhana Hill; on the hill known as Govardhana; on the hill of Govardhana; to Govardhana Hill.}}
+---json
+{
+    "name":"govardhane",
+    "h1":"govardhane",
+    "title":"govardhane -- synonyms, prabhupada.io",
+    "description":"a place near Govardhana Hill; near the Govardhana Hill; on Govardhana Hill; on the Govardhana Hill; on the hill known as Govardhana; on the hill of Govardhana; to Govardhana Hill."
+}
+---
 
 ==== govardhane  ====
   * a place near Govardhana Hill --- [[books:cc:antya:6:307|Antya 6.307]]

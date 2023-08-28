@@ -1,5 +1,11 @@
-~~Title:nirjayaḥ~~
-{{description>conquered.}}
+---json
+{
+    "name":"nirjayaḥ",
+    "h1":"nirjayaḥ",
+    "title":"nirjayaḥ -- synonyms, prabhupada.io",
+    "description":"conquered."
+}
+---
 
 ==== nirjayaḥ  ====
   * conquered --- [[books:sb:8:8:20|SB 8.8.20]]

@@ -1,5 +1,11 @@
-~~Title:jīvema~~
-{{description>shall be able to live.}}
+---json
+{
+    "name":"jīvema",
+    "h1":"jīvema",
+    "title":"jīvema -- synonyms, prabhupada.io",
+    "description":"shall be able to live."
+}
+---
 
 ==== jīvema  ====
   * shall be able to live --- [[books:sb:1:11:10|SB 1.11.10]]

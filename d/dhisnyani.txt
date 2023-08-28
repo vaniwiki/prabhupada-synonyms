@@ -1,5 +1,11 @@
-~~Title:dhiṣṇyāni~~
-{{description>abodes; to their respective planets.}}
+---json
+{
+    "name":"dhiṣṇyāni",
+    "h1":"dhiṣṇyāni",
+    "title":"dhiṣṇyāni -- synonyms, prabhupada.io",
+    "description":"abodes; to their respective planets."
+}
+---
 
 ==== dhiṣṇyāni  ====
   * abodes --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

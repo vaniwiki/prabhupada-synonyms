@@ -1,5 +1,11 @@
-~~Title:avagāhana~~
-{{description>bathing in the water.}}
+---json
+{
+    "name":"avagāhana",
+    "h1":"avagāhana",
+    "title":"avagāhana -- synonyms, prabhupada.io",
+    "description":"bathing in the water."
+}
+---
 
 ==== jala-avagāhana  ====
   * bathing in the water --- [[books:cc:antya:18:83|Antya 18.83]]

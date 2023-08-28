@@ -1,5 +1,11 @@
-~~Title:śiniḥ~~
-{{description>a son named Śini; Śini.}}
+---json
+{
+    "name":"śiniḥ",
+    "h1":"śiniḥ",
+    "title":"śiniḥ -- synonyms, prabhupada.io",
+    "description":"a son named Śini; Śini."
+}
+---
 
 ==== śiniḥ  ====
   * a son named Śini --- [[books:sb:9:21:19-20|SB 9.21.19-20]]

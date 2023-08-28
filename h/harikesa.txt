@@ -1,5 +1,11 @@
-~~Title:harikeśa~~
-{{description>Harikeśa.}}
+---json
+{
+    "name":"harikeśa",
+    "h1":"harikeśa",
+    "title":"harikeśa -- synonyms, prabhupada.io",
+    "description":"Harikeśa."
+}
+---
 
 ==== harikeśa  ====
   * Harikeśa --- [[books:sb:9:24:42|SB 9.24.42]]

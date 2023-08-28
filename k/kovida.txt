@@ -1,5 +1,11 @@
-~~Title:kovida~~
-{{description>Kovida; O You who are expert.}}
+---json
+{
+    "name":"kovida",
+    "h1":"kovida",
+    "title":"kovida -- synonyms, prabhupada.io",
+    "description":"Kovida; O You who are expert."
+}
+---
 
 ==== kovida  ====
   * Kovida --- [[books:sb:5:20:16|SB 5.20.16]]

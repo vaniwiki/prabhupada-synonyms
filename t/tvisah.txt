@@ -1,5 +1,11 @@
-~~Title:tviṣaḥ~~
-{{description>the coils of hair.}}
+---json
+{
+    "name":"tviṣaḥ",
+    "h1":"tviṣaḥ",
+    "title":"tviṣaḥ -- synonyms, prabhupada.io",
+    "description":"the coils of hair."
+}
+---
 
 ==== tviṣaḥ  ====
   * the coils of hair --- [[books:sb:4:24:49|SB 4.24.49]]

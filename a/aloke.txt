@@ -1,5 +1,11 @@
-~~Title:āloke~~
-{{description>light.}}
+---json
+{
+    "name":"āloke",
+    "h1":"āloke",
+    "title":"āloke -- synonyms, prabhupada.io",
+    "description":"light."
+}
+---
 
 ==== āloke  ====
   * light --- [[books:sb:3:15:2|SB 3.15.2]]

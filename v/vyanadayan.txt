@@ -1,5 +1,11 @@
-~~Title:vyanādayan~~
-{{description>vibrated.}}
+---json
+{
+    "name":"vyanādayan",
+    "h1":"vyanādayan",
+    "title":"vyanādayan -- synonyms, prabhupada.io",
+    "description":"vibrated."
+}
+---
 
 ==== vyanādayan  ====
   * vibrated --- [[books:sb:8:8:13|SB 8.8.13]]

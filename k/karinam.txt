@@ -1,5 +1,11 @@
-~~Title:karinam~~
-{{description>of elephants.}}
+---json
+{
+    "name":"karinam",
+    "h1":"karinam",
+    "title":"karinam -- synonyms, prabhupada.io",
+    "description":"of elephants."
+}
+---
 
 ==== kariṇām  ====
   * of elephants --- [[books:sb:9:11:26|SB 9.11.26]]

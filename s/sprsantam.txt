@@ -1,5 +1,11 @@
-~~Title:spṛśantam~~
-{{description>just touching; touching.}}
+---json
+{
+    "name":"spṛśantam",
+    "h1":"spṛśantam",
+    "title":"spṛśantam -- synonyms, prabhupada.io",
+    "description":"just touching; touching."
+}
+---
 
 ==== spṛśantam  ====
   * just touching --- [[books:sb:4:20:22|SB 4.20.22]]

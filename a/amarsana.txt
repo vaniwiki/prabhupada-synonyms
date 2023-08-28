@@ -1,5 +1,11 @@
-~~Title:amarṣaṇa~~
-{{description>angry.}}
+---json
+{
+    "name":"amarṣaṇa",
+    "h1":"amarṣaṇa",
+    "title":"amarṣaṇa -- synonyms, prabhupada.io",
+    "description":"angry."
+}
+---
 
 ==== amarṣaṇa  ====
   * angry --- [[books:sb:4:3:18|SB 4.3.18]]

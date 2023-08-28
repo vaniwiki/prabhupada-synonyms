@@ -1,5 +1,11 @@
-~~Title:kaṅkaḥ~~
-{{description>Kaṅka.}}
+---json
+{
+    "name":"kaṅkaḥ",
+    "h1":"kaṅkaḥ",
+    "title":"kaṅkaḥ -- synonyms, prabhupada.io",
+    "description":"Kaṅka."
+}
+---
 
 ==== kaṅkaḥ  ====
   * Kaṅka --- [[books:sb:9:24:24|SB 9.24.24]]

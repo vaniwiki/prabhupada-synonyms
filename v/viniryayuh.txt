@@ -1,5 +1,11 @@
-~~Title:viniryayuḥ~~
-{{description>they came out.}}
+---json
+{
+    "name":"viniryayuḥ",
+    "h1":"viniryayuḥ",
+    "title":"viniryayuḥ -- synonyms, prabhupada.io",
+    "description":"they came out."
+}
+---
 
 ==== viniryayuḥ  ====
   * they came out --- [[books:sb:10:12:2|SB 10.12.2]]

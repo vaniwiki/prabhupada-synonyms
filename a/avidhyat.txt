@@ -1,5 +1,11 @@
-~~Title:avidhyat~~
-{{description>pierced.}}
+---json
+{
+    "name":"avidhyat",
+    "h1":"avidhyat",
+    "title":"avidhyat -- synonyms, prabhupada.io",
+    "description":"pierced."
+}
+---
 
 ==== avidhyat  ====
   * pierced --- [[books:sb:9:3:4|SB 9.3.4]]

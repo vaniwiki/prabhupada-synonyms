@@ -1,5 +1,11 @@
-~~Title:arūpasya~~
-{{description>of one who has no material form.}}
+---json
+{
+    "name":"arūpasya",
+    "h1":"arūpasya",
+    "title":"arūpasya -- synonyms, prabhupada.io",
+    "description":"of one who has no material form."
+}
+---
 
 ==== arūpasya  ====
   * of one who has no material form --- [[books:sb:1:3:30|SB 1.3.30]]

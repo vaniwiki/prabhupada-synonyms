@@ -1,5 +1,11 @@
-~~Title:nakula~~
-{{description>Nakula Brahmacārī.}}
+---json
+{
+    "name":"nakula",
+    "h1":"nakula",
+    "title":"nakula -- synonyms, prabhupada.io",
+    "description":"Nakula Brahmacārī."
+}
+---
 
 ==== nakula  ====
   * Nakula Brahmacārī --- [[books:cc:antya:2:18|Antya 2.18]]

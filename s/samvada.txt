@@ -1,5 +1,11 @@
-~~Title:saṁvāda~~
-{{description>and agreement; message; of agreement; the message.}}
+---json
+{
+    "name":"saṁvāda",
+    "h1":"saṁvāda",
+    "title":"saṁvāda -- synonyms, prabhupada.io",
+    "description":"and agreement; message; of agreement; the message."
+}
+---
 
 ==== saṁvāda  ====
   * and agreement --- [[books:sb:6:4:31|SB 6.4.31]]

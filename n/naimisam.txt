@@ -1,5 +1,11 @@
-~~Title:naimiṣam~~
-{{description>the place known as Naimiṣāraṇya (near Lucknow).}}
+---json
+{
+    "name":"naimiṣam",
+    "h1":"naimiṣam",
+    "title":"naimiṣam -- synonyms, prabhupada.io",
+    "description":"the place known as Naimiṣāraṇya (near Lucknow)."
+}
+---
 
 ==== naimiṣam  ====
   * the place known as Naimiṣāraṇya (near Lucknow) --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

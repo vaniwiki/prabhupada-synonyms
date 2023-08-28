@@ -1,5 +1,11 @@
-~~Title:vidadhati~~
-{{description>perform.}}
+---json
+{
+    "name":"vidadhati",
+    "h1":"vidadhati",
+    "title":"vidadhati -- synonyms, prabhupada.io",
+    "description":"perform."
+}
+---
 
 ==== vidadhati  ====
   * perform --- [[books:sb:4:31:21|SB 4.31.21]]

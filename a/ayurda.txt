@@ -1,5 +1,11 @@
-~~Title:āyurdā~~
-{{description>Āyurdā.}}
+---json
+{
+    "name":"āyurdā",
+    "h1":"āyurdā",
+    "title":"āyurdā -- synonyms, prabhupada.io",
+    "description":"Āyurdā."
+}
+---
 
 ==== āyurdā  ====
   * Āyurdā --- [[books:sb:5:20:26|SB 5.20.26]]

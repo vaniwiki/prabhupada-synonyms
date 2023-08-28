@@ -1,5 +1,11 @@
-~~Title:anvagacchat~~
-{{description>followed.}}
+---json
+{
+    "name":"anvagacchat",
+    "h1":"anvagacchat",
+    "title":"anvagacchat -- synonyms, prabhupada.io",
+    "description":"followed."
+}
+---
 
 ==== anvagacchat  ====
   * followed --- [[books:sb:8:12:27|SB 8.12.27]]

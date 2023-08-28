@@ -1,5 +1,11 @@
-~~Title:parīkṣiluṅ~~
-{{description>examined.}}
+---json
+{
+    "name":"parīkṣiluṅ",
+    "h1":"parīkṣiluṅ",
+    "title":"parīkṣiluṅ -- synonyms, prabhupada.io",
+    "description":"examined."
+}
+---
 
 ==== parīkṣiluṅ  ====
   * examined --- [[books:cc:antya:4:45|Antya 4.45]]

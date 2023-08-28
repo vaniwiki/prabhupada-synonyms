@@ -1,5 +1,11 @@
-~~Title:ānanān~~
-{{description>and faces.}}
+---json
+{
+    "name":"ānanān",
+    "h1":"ānanān",
+    "title":"ānanān -- synonyms, prabhupada.io",
+    "description":"and faces."
+}
+---
 
 ==== ānanān  ====
   * and faces --- [[books:sb:8:7:15|SB 8.7.15]]

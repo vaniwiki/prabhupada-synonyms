@@ -1,5 +1,11 @@
-~~Title:cintayāmi~~
-{{description>may I remember.}}
+---json
+{
+    "name":"cintayāmi",
+    "h1":"cintayāmi",
+    "title":"cintayāmi -- synonyms, prabhupada.io",
+    "description":"may I remember."
+}
+---
 
 ==== cintayāmi  ====
   * may I remember --- [[books:mm:6|MM 6]]

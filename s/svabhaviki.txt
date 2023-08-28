@@ -1,5 +1,11 @@
-~~Title:svābhāvikī~~
-{{description>natural.}}
+---json
+{
+    "name":"svābhāvikī",
+    "h1":"svābhāvikī",
+    "title":"svābhāvikī -- synonyms, prabhupada.io",
+    "description":"natural."
+}
+---
 
 ==== svābhāvikī  ====
   * natural --- [[books:sb:3:25:32|SB 3.25.32]]

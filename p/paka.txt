@@ -1,5 +1,11 @@
-~~Title:pāka~~
-{{description>cooking; Pāka.}}
+---json
+{
+    "name":"pāka",
+    "h1":"pāka",
+    "title":"pāka -- synonyms, prabhupada.io",
+    "description":"cooking; Pāka."
+}
+---
 
 ==== pāka  ====
   * cooking --- [[books:cc:madhya:3:39|Madhya 3.39]], [[books:cc:madhya:3:41|Madhya 3.41]], [[books:cc:madhya:5:102|Madhya 5.102]], [[books:cc:madhya:7:51|Madhya 7.51]], [[books:cc:madhya:9:180|Madhya 9.180]], [[books:cc:madhya:18:21|Madhya 18.21]], [[books:cc:antya:6:116|Antya 6.116]]

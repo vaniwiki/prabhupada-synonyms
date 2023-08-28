@@ -1,5 +1,11 @@
-~~Title:araṇiḥ~~
-{{description>wooden sticks.}}
+---json
+{
+    "name":"araṇiḥ",
+    "h1":"araṇiḥ",
+    "title":"araṇiḥ -- synonyms, prabhupada.io",
+    "description":"wooden sticks."
+}
+---
 
 ==== araṇiḥ  ====
   * wooden sticks --- [[books:sb:3:27:23|SB 3.27.23]]

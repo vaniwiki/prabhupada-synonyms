@@ -1,5 +1,11 @@
-~~Title:saṁyāvam~~
-{{description>varieties of food grains.}}
+---json
+{
+    "name":"saṁyāvam",
+    "h1":"saṁyāvam",
+    "title":"saṁyāvam -- synonyms, prabhupada.io",
+    "description":"varieties of food grains."
+}
+---
 
 ==== saṁyāvam  ====
   * varieties of food grains --- [[books:sb:9:21:3-5|SB 9.21.3-5]]

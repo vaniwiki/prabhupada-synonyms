@@ -1,5 +1,11 @@
-~~Title:dio~~
-{{description>deliver.}}
+---json
+{
+    "name":"dio",
+    "h1":"dio",
+    "title":"dio -- synonyms, prabhupada.io",
+    "description":"deliver."
+}
+---
 
 ==== dio  ====
   * deliver --- [[books:cc:madhya:15:41|Madhya 15.41]]

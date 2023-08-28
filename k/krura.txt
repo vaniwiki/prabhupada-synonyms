@@ -1,5 +1,11 @@
-~~Title:krūra~~
-{{description>very cruel.}}
+---json
+{
+    "name":"krūra",
+    "h1":"krūra",
+    "title":"krūra -- synonyms, prabhupada.io",
+    "description":"very cruel."
+}
+---
 
 ==== krūra  ====
   * very cruel --- [[books:cc:madhya:2:21|Madhya 2.21]]

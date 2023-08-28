@@ -1,5 +1,11 @@
-~~Title:vittaiḥ~~
-{{description>and by wealth.}}
+---json
+{
+    "name":"vittaiḥ",
+    "h1":"vittaiḥ",
+    "title":"vittaiḥ -- synonyms, prabhupada.io",
+    "description":"and by wealth."
+}
+---
 
 ==== vittaiḥ  ====
   * and by wealth --- [[books:sb:5:5:8|SB 5.5.8]]

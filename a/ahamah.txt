@@ -1,5 +1,11 @@
-~~Title:ahamaḥ~~
-{{description>false ego.}}
+---json
+{
+    "name":"ahamaḥ",
+    "h1":"ahamaḥ",
+    "title":"ahamaḥ -- synonyms, prabhupada.io",
+    "description":"false ego."
+}
+---
 
 ==== ahamaḥ  ====
   * false ego --- [[books:sb:3:10:15|SB 3.10.15]]

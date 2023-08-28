@@ -1,5 +1,11 @@
-~~Title:sahadeva~~
-{{description>Sahadevā.}}
+---json
+{
+    "name":"sahadeva",
+    "h1":"sahadeva",
+    "title":"sahadeva -- synonyms, prabhupada.io",
+    "description":"Sahadevā."
+}
+---
 
 ==== sahadevā  ====
   * Sahadevā --- [[books:sb:9:24:21-23|SB 9.24.21-23]]

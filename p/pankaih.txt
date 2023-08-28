@@ -1,5 +1,11 @@
-~~Title:paṅkaiḥ~~
-{{description>by bubbles, foam and mud.}}
+---json
+{
+    "name":"paṅkaiḥ",
+    "h1":"paṅkaiḥ",
+    "title":"paṅkaiḥ -- synonyms, prabhupada.io",
+    "description":"by bubbles, foam and mud."
+}
+---
 
 ==== budbuda-phena-paṅkaiḥ  ====
   * by bubbles, foam and mud --- [[books:noi:6|NoI 6]]

@@ -1,5 +1,11 @@
-~~Title:gokarṇa~~
-{{description>Gokarṇa.}}
+---json
+{
+    "name":"gokarṇa",
+    "h1":"gokarṇa",
+    "title":"gokarṇa -- synonyms, prabhupada.io",
+    "description":"Gokarṇa."
+}
+---
 
 ==== gokarṇa  ====
   * Gokarṇa --- [[books:cc:madhya:17:191|Madhya 17.191]]

@@ -1,5 +1,11 @@
-~~Title:vicakṣmahe~~
-{{description>observe.}}
+---json
+{
+    "name":"vicakṣmahe",
+    "h1":"vicakṣmahe",
+    "title":"vicakṣmahe -- synonyms, prabhupada.io",
+    "description":"observe."
+}
+---
 
 ==== vicakṣmahe  ====
   * observe --- [[books:sb:2:6:37|SB 2.6.37]]

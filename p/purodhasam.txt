@@ -1,5 +1,11 @@
-~~Title:purodhasām~~
-{{description>of all priests.}}
+---json
+{
+    "name":"purodhasām",
+    "h1":"purodhasām",
+    "title":"purodhasām -- synonyms, prabhupada.io",
+    "description":"of all priests."
+}
+---
 
 ==== purodhasām  ====
   * of all priests --- [[books:bg:10:24|Bg. 10.24]]

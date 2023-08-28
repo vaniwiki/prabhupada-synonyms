@@ -1,5 +1,11 @@
-~~Title:tālaiḥ~~
-{{description>palm fruits; with śālas and tālas.}}
+---json
+{
+    "name":"tālaiḥ",
+    "h1":"tālaiḥ",
+    "title":"tālaiḥ -- synonyms, prabhupada.io",
+    "description":"palm fruits; with śālas and tālas."
+}
+---
 
 ==== śāla-tālaiḥ  ====
   * palm fruits --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

@@ -1,5 +1,11 @@
-~~Title:ayatih~~
-{{description>unsuccessful transcendentalist.}}
+---json
+{
+    "name":"ayatih",
+    "h1":"ayatih",
+    "title":"ayatih -- synonyms, prabhupada.io",
+    "description":"unsuccessful transcendentalist."
+}
+---
 
 ==== ayatiḥ  ====
   * unsuccessful transcendentalist --- [[books:bg:6:37|Bg. 6.37]]

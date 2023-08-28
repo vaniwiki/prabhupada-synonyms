@@ -1,5 +1,11 @@
-~~Title:nakram~~
-{{description>sharks.}}
+---json
+{
+    "name":"nakram",
+    "h1":"nakram",
+    "title":"nakram -- synonyms, prabhupada.io",
+    "description":"sharks."
+}
+---
 
 ==== nakram  ====
   * sharks --- [[books:sb:4:22:40|SB 4.22.40]]

@@ -1,5 +1,11 @@
-~~Title:vivaram~~
-{{description>aural reception; the scope; within the earth.}}
+---json
+{
+    "name":"vivaram",
+    "h1":"vivaram",
+    "title":"vivaram -- synonyms, prabhupada.io",
+    "description":"aural reception; the scope; within the earth."
+}
+---
 
 ==== vivaram  ====
   * aural reception --- [[books:sb:5:2:6|SB 5.2.6]]

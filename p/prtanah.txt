@@ -1,5 +1,11 @@
-~~Title:pṛtanāḥ~~
-{{description>companion of Cupid.}}
+---json
+{
+    "name":"pṛtanāḥ",
+    "h1":"pṛtanāḥ",
+    "title":"pṛtanāḥ -- synonyms, prabhupada.io",
+    "description":"companion of Cupid."
+}
+---
 
 ==== anaṅga-pṛtanāḥ  ====
   * companion of Cupid --- [[books:sb:2:7:6|SB 2.7.6]]

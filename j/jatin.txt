@@ -1,5 +1,11 @@
-~~Title:jātīn~~
-{{description>the lower class of men.}}
+---json
+{
+    "name":"jātīn",
+    "h1":"jātīn",
+    "title":"jātīn -- synonyms, prabhupada.io",
+    "description":"the lower class of men."
+}
+---
 
 ==== nīca-jātīn  ====
   * the lower class of men --- [[books:cc:madhya:11:47|Madhya 11.47]]

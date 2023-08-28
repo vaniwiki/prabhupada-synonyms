@@ -1,5 +1,11 @@
-~~Title:vatsarān~~
-{{description>years.}}
+---json
+{
+    "name":"vatsarān",
+    "h1":"vatsarān",
+    "title":"vatsarān -- synonyms, prabhupada.io",
+    "description":"years."
+}
+---
 
 ==== vatsarān  ====
   * years --- [[books:sb:4:28:54|SB 4.28.54]]

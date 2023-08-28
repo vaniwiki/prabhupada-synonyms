@@ -1,5 +1,11 @@
-~~Title:chuṅiha~~
-{{description>touch.}}
+---json
+{
+    "name":"chuṅiha",
+    "h1":"chuṅiha",
+    "title":"chuṅiha -- synonyms, prabhupada.io",
+    "description":"touch."
+}
+---
 
 ==== chuṅiha  ====
   * touch --- [[books:cc:madhya:20:52|Madhya 20.52]]

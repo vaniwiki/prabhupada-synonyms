@@ -1,5 +1,11 @@
-~~Title:pracoditā~~
-{{description>inspired.}}
+---json
+{
+    "name":"pracoditā",
+    "h1":"pracoditā",
+    "title":"pracoditā -- synonyms, prabhupada.io",
+    "description":"inspired."
+}
+---
 
 ==== pracoditā  ====
   * inspired --- [[books:sb:2:4:22|SB 2.4.22]]

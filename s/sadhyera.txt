@@ -1,5 +1,11 @@
-~~Title:sādhyera~~
-{{description>of the aim of life.}}
+---json
+{
+    "name":"sādhyera",
+    "h1":"sādhyera",
+    "title":"sādhyera -- synonyms, prabhupada.io",
+    "description":"of the aim of life."
+}
+---
 
 ==== sādhyera  ====
   * of the aim of life --- [[books:cc:madhya:8:57|Madhya 8.57]]

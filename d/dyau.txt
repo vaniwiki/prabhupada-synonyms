@@ -1,5 +1,11 @@
-~~Title:dyau~~
-{{description>in outer space; of the upper world.}}
+---json
+{
+    "name":"dyau",
+    "h1":"dyau",
+    "title":"dyau -- synonyms, prabhupada.io",
+    "description":"in outer space; of the upper world."
+}
+---
 
 ==== dyau  ====
   * in outer space --- [[books:bg:11:20|Bg. 11.20]]

@@ -1,5 +1,11 @@
-~~Title:nirgacchat~~
-{{description>emanating.}}
+---json
+{
+    "name":"nirgacchat",
+    "h1":"nirgacchat",
+    "title":"nirgacchat -- synonyms, prabhupada.io",
+    "description":"emanating."
+}
+---
 
 ==== nirgacchat  ====
   * emanating --- [[books:sb:8:15:19|SB 8.15.19]]

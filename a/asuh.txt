@@ -1,5 +1,11 @@
-~~Title:asuh~~
-{{description>life air; wealth. which is as dear as one's life; whose life air.}}
+---json
+{
+    "name":"asuh",
+    "h1":"asuh",
+    "title":"asuh -- synonyms, prabhupada.io",
+    "description":"life air; wealth. which is as dear as one's life; whose life air."
+}
+---
 
 ==== asuḥ  ====
   * life air --- [[books:sb:3:12:11|SB 3.12.11]], [[books:sb:7:2:45|SB 7.2.45]]

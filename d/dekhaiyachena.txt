@@ -1,5 +1,11 @@
-~~Title:dekhāiyāchena~~
-{{description>he has shown.}}
+---json
+{
+    "name":"dekhāiyāchena",
+    "h1":"dekhāiyāchena",
+    "title":"dekhāiyāchena -- synonyms, prabhupada.io",
+    "description":"he has shown."
+}
+---
 
 ==== dekhāiyāchena  ====
   * he has shown --- [[books:cc:madhya:1:43|Madhya 1.43]]

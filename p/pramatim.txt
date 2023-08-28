@@ -1,5 +1,11 @@
-~~Title:pramatim~~
-{{description>was named Pramati.}}
+---json
+{
+    "name":"pramatim",
+    "h1":"pramatim",
+    "title":"pramatim -- synonyms, prabhupada.io",
+    "description":"was named Pramati."
+}
+---
 
 ==== pramatim  ====
   * was named Pramati --- [[books:sb:9:2:23-24|SB 9.2.23-24]]

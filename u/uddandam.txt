@@ -1,5 +1,11 @@
-~~Title:uddaṇḍam~~
-{{description>high jumping.}}
+---json
+{
+    "name":"uddaṇḍam",
+    "h1":"uddaṇḍam",
+    "title":"uddaṇḍam -- synonyms, prabhupada.io",
+    "description":"high jumping."
+}
+---
 
 ==== uddaṇḍam  ====
   * high jumping --- [[books:cc:madhya:11:1|Madhya 11.1]]

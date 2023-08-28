@@ -1,5 +1,11 @@
-~~Title:kapilena~~
-{{description>by Kapila.}}
+---json
+{
+    "name":"kapilena",
+    "h1":"kapilena",
+    "title":"kapilena -- synonyms, prabhupada.io",
+    "description":"by Kapila."
+}
+---
 
 ==== kapilena  ====
   * by Kapila --- [[books:sb:3:24:41|SB 3.24.41]]

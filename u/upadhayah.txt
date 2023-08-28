@@ -1,5 +1,11 @@
-~~Title:upādhayaḥ~~
-{{description>particular designations.}}
+---json
+{
+    "name":"upādhayaḥ",
+    "h1":"upādhayaḥ",
+    "title":"upādhayaḥ -- synonyms, prabhupada.io",
+    "description":"particular designations."
+}
+---
 
 ==== upādhayaḥ  ====
   * particular designations --- [[books:cc:adi:2:53|Ādi 2.53]]

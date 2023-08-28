@@ -1,5 +1,11 @@
-~~Title:nāsikā~~
-{{description>nose.}}
+---json
+{
+    "name":"nāsikā",
+    "h1":"nāsikā",
+    "title":"nāsikā -- synonyms, prabhupada.io",
+    "description":"nose."
+}
+---
 
 ==== nāsikā  ====
   * nose --- [[books:bg:6:13-14|Bg. 6.13-14]]

@@ -1,5 +1,11 @@
-~~Title:uddeśe~~
-{{description>in reference to that; news.}}
+---json
+{
+    "name":"uddeśe",
+    "h1":"uddeśe",
+    "title":"uddeśe -- synonyms, prabhupada.io",
+    "description":"in reference to that; news."
+}
+---
 
 ==== uddeśe  ====
   * in reference to that --- [[books:cc:madhya:25:6|Madhya 25.6]]

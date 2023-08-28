@@ -1,5 +1,11 @@
-~~Title:gauṇa~~
-{{description>indirect; secondary.}}
+---json
+{
+    "name":"gauṇa",
+    "h1":"gauṇa",
+    "title":"gauṇa -- synonyms, prabhupada.io",
+    "description":"indirect; secondary."
+}
+---
 
 ==== gauṇa  ====
   * indirect --- [[books:cc:adi:5:60|Ādi 5.60]], [[books:cc:madhya:19:187|Madhya 19.187]]

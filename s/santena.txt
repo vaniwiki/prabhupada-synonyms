@@ -1,5 +1,11 @@
-~~Title:śāntena~~
-{{description>satisfying.}}
+---json
+{
+    "name":"śāntena",
+    "h1":"śāntena",
+    "title":"śāntena -- synonyms, prabhupada.io",
+    "description":"satisfying."
+}
+---
 
 ==== śāntena  ====
   * satisfying --- [[books:sb:4:30:4|SB 4.30.4]]

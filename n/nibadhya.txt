@@ -1,5 +1,11 @@
-~~Title:nibadhya~~
-{{description>anchoring.}}
+---json
+{
+    "name":"nibadhya",
+    "h1":"nibadhya",
+    "title":"nibadhya -- synonyms, prabhupada.io",
+    "description":"anchoring."
+}
+---
 
 ==== nibadhya  ====
   * anchoring --- [[books:sb:8:24:45|SB 8.24.45]]

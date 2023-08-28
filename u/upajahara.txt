@@ -1,5 +1,11 @@
-~~Title:upajahāra~~
-{{description>offered.}}
+---json
+{
+    "name":"upajahāra",
+    "h1":"upajahāra",
+    "title":"upajahāra -- synonyms, prabhupada.io",
+    "description":"offered."
+}
+---
 
 ==== upajahāra  ====
   * offered --- [[books:sb:8:22:14|SB 8.22.14]]

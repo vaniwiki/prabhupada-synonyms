@@ -1,5 +1,11 @@
-~~Title:gauḍahaite~~
-{{description>from Bengal.}}
+---json
+{
+    "name":"gauḍahaite",
+    "h1":"gauḍahaite",
+    "title":"gauḍahaite -- synonyms, prabhupada.io",
+    "description":"from Bengal."
+}
+---
 
 ==== gauḍahaite  ====
   * from Bengal --- [[books:cc:madhya:11:67|Madhya 11.67]]

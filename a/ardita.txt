@@ -1,5 +1,11 @@
-~~Title:ardita~~
-{{description>aggrieved; being distressed.}}
+---json
+{
+    "name":"ardita",
+    "h1":"ardita",
+    "title":"ardita -- synonyms, prabhupada.io",
+    "description":"aggrieved; being distressed."
+}
+---
 
 ==== ardita  ====
   * aggrieved --- [[books:sb:4:3:19|SB 4.3.19]]

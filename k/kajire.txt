@@ -1,5 +1,11 @@
-~~Title:kajire~~
-{{description>unto the Kazi.}}
+---json
+{
+    "name":"kajire",
+    "h1":"kajire",
+    "title":"kajire -- synonyms, prabhupada.io",
+    "description":"unto the Kazi."
+}
+---
 
 ==== kājire  ====
   * unto the Kazi --- [[books:cc:adi:17:216|Ādi 17.216]]

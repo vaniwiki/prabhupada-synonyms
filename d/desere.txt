@@ -1,5 +1,11 @@
-~~Title:deśere~~
-{{description>to the country; toward their own country.}}
+---json
+{
+    "name":"deśere",
+    "h1":"deśere",
+    "title":"deśere -- synonyms, prabhupada.io",
+    "description":"to the country; toward their own country."
+}
+---
 
 ==== deśere  ====
   * to the country --- [[books:cc:adi:16:22|Ādi 16.22]]

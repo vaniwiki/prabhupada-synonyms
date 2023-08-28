@@ -1,5 +1,11 @@
-~~Title:āsikta~~
-{{description>the streets were sprinkled.}}
+---json
+{
+    "name":"āsikta",
+    "h1":"āsikta",
+    "title":"āsikta -- synonyms, prabhupada.io",
+    "description":"the streets were sprinkled."
+}
+---
 
 ==== āsikta-mārgām  ====
   * the streets were sprinkled --- [[books:sb:9:11:26|SB 9.11.26]]

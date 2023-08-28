@@ -1,5 +1,11 @@
-~~Title:vividhāni~~
-{{description>of different varieties.}}
+---json
+{
+    "name":"vividhāni",
+    "h1":"vividhāni",
+    "title":"vividhāni -- synonyms, prabhupada.io",
+    "description":"of different varieties."
+}
+---
 
 ==== vividhāni  ====
   * of different varieties --- [[books:sb:4:18:31|SB 4.18.31]]

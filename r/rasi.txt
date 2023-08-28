@@ -1,5 +1,11 @@
-~~Title:rasi~~
-{{description>You award; You bestow.}}
+---json
+{
+    "name":"rasi",
+    "h1":"rasi",
+    "title":"rasi -- synonyms, prabhupada.io",
+    "description":"You award; You bestow."
+}
+---
 
 ==== rāsi  ====
   * You award --- [[books:sb:5:18:21|SB 5.18.21]]

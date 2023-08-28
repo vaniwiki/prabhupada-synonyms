@@ -1,5 +1,11 @@
-~~Title:bhagah~~
-{{description>Bhaga; Bhagadeva; fortune; object of enjoyment; opulence.}}
+---json
+{
+    "name":"bhagah",
+    "h1":"bhagah",
+    "title":"bhagah -- synonyms, prabhupada.io",
+    "description":"Bhaga; Bhagadeva; fortune; object of enjoyment; opulence."
+}
+---
 
 ==== bhagaḥ  ====
   * Bhaga --- [[books:sb:4:7:3|SB 4.7.3]], [[books:sb:6:6:38-39|SB 6.6.38-39]]

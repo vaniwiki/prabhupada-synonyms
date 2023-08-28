@@ -1,5 +1,11 @@
-~~Title:vyatikramam~~
-{{description>the transgression of the regulative principles of religion.}}
+---json
+{
+    "name":"vyatikramam",
+    "h1":"vyatikramam",
+    "title":"vyatikramam -- synonyms, prabhupada.io",
+    "description":"the transgression of the regulative principles of religion."
+}
+---
 
 ==== dharma-vyatikramam  ====
   * the transgression of the regulative principles of religion --- [[books:sb:9:4:44|SB 9.4.44]]

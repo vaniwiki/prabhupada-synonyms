@@ -1,5 +1,11 @@
-~~Title:kathah~~
-{{description>messages or instructions; narrations; narratives; stories; talks; the stories; the topics; topics; words.}}
+---json
+{
+    "name":"kathah",
+    "h1":"kathah",
+    "title":"kathah -- synonyms, prabhupada.io",
+    "description":"messages or instructions; narrations; narratives; stories; talks; the stories; the topics; topics; words."
+}
+---
 
 ==== kathāḥ  ====
   * messages or instructions --- [[books:sb:7:10:12|SB 7.10.12]]

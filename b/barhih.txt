@@ -1,5 +1,11 @@
-~~Title:barhiḥ~~
-{{description>a seat; Barhi; sacred grass called kuśa.}}
+---json
+{
+    "name":"barhiḥ",
+    "h1":"barhiḥ",
+    "title":"barhiḥ -- synonyms, prabhupada.io",
+    "description":"a seat; Barhi; sacred grass called kuśa."
+}
+---
 
 ==== barhiḥ  ====
   * a seat --- [[books:sb:3:22:31|SB 3.22.31]]

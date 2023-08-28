@@ -1,5 +1,11 @@
-~~Title:nipah~~
-{{description>Nīpa.}}
+---json
+{
+    "name":"nipah",
+    "h1":"nipah",
+    "title":"nipah -- synonyms, prabhupada.io",
+    "description":"Nīpa."
+}
+---
 
 ==== nīpaḥ  ====
   * Nīpa --- [[books:sb:9:21:24|SB 9.21.24]], [[books:sb:9:21:28-29|SB 9.21.28-29]]

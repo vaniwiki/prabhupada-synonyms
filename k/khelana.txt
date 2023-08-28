@@ -1,5 +1,11 @@
-~~Title:khelana~~
-{{description>sporting.}}
+---json
+{
+    "name":"khelana",
+    "h1":"khelana",
+    "title":"khelana -- synonyms, prabhupada.io",
+    "description":"sporting."
+}
+---
 
 ==== khelana  ====
   * sporting --- [[books:cc:adi:14:23|Ādi 14.23]], [[books:cc:antya:10:47|Antya 10.47]]

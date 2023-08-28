@@ -1,5 +1,11 @@
-~~Title:baleharidāsa~~
-{{description>Haridāsa Ṭhākura said.}}
+---json
+{
+    "name":"baleharidāsa",
+    "h1":"baleharidāsa",
+    "title":"baleharidāsa -- synonyms, prabhupada.io",
+    "description":"Haridāsa Ṭhākura said."
+}
+---
 
 ==== baleharidāsa  ====
   * Haridāsa Ṭhākura said --- [[books:cc:antya:3:129|Antya 3.129]]

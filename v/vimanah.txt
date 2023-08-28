@@ -1,5 +1,11 @@
-~~Title:vimanah~~
-{{description>aggrieved; being indifferent; being very much anxious; disappointed; morose; stricken with sorrow.}}
+---json
+{
+    "name":"vimanah",
+    "h1":"vimanah",
+    "title":"vimanah -- synonyms, prabhupada.io",
+    "description":"aggrieved; being indifferent; being very much anxious; disappointed; morose; stricken with sorrow."
+}
+---
 
 ==== vimanāḥ  ====
   * aggrieved --- [[books:sb:6:18:38|SB 6.18.38]]

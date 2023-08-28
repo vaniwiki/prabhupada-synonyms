@@ -1,5 +1,11 @@
-~~Title:samāviśya~~
-{{description>having entered.}}
+---json
+{
+    "name":"samāviśya",
+    "h1":"samāviśya",
+    "title":"samāviśya -- synonyms, prabhupada.io",
+    "description":"having entered."
+}
+---
 
 ==== samāviśya  ====
   * having entered --- [[books:sb:4:7:51|SB 4.7.51]]

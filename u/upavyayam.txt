@@ -1,5 +1,11 @@
-~~Title:upavyayam~~
-{{description>causes loss.}}
+---json
+{
+    "name":"upavyayam",
+    "h1":"upavyayam",
+    "title":"upavyayam -- synonyms, prabhupada.io",
+    "description":"causes loss."
+}
+---
 
 ==== upavyayam  ====
   * causes loss --- [[books:sb:6:7:35|SB 6.7.35]]

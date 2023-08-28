@@ -1,5 +1,11 @@
-~~Title:dvīpe~~
-{{description>in the island.}}
+---json
+{
+    "name":"dvīpe",
+    "h1":"dvīpe",
+    "title":"dvīpe -- synonyms, prabhupada.io",
+    "description":"in the island."
+}
+---
 
 ==== dvīpe  ====
   * in the island --- [[books:sb:5:20:20|SB 5.20.20]]

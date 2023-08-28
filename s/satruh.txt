@@ -1,5 +1,11 @@
-~~Title:śatruḥ~~
-{{description>an enemy; enemy; Śatru.}}
+---json
+{
+    "name":"śatruḥ",
+    "h1":"śatruḥ",
+    "title":"śatruḥ -- synonyms, prabhupada.io",
+    "description":"an enemy; enemy; Śatru."
+}
+---
 
 ==== śatruḥ  ====
   * an enemy --- [[books:sb:7:5:38|SB 7.5.38]]

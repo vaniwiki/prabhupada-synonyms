@@ -1,5 +1,11 @@
-~~Title:upādhyāyasya~~
-{{description>along with all the priests.}}
+---json
+{
+    "name":"upādhyāyasya",
+    "h1":"upādhyāyasya",
+    "title":"upādhyāyasya -- synonyms, prabhupada.io",
+    "description":"along with all the priests."
+}
+---
 
 ==== sa-upādhyāyasya  ====
   * along with all the priests --- [[books:sb:4:20:37|SB 4.20.37]]

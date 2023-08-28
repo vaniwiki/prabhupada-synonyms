@@ -1,5 +1,11 @@
-~~Title:vyathita~~
-{{description>aggrieved; very disturbed.}}
+---json
+{
+    "name":"vyathita",
+    "h1":"vyathita",
+    "title":"vyathita -- synonyms, prabhupada.io",
+    "description":"aggrieved; very disturbed."
+}
+---
 
 ==== vyathita  ====
   * aggrieved --- [[books:cc:madhya:14:197|Madhya 14.197]]

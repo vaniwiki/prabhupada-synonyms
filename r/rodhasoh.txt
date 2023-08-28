@@ -1,5 +1,11 @@
-~~Title:rodhasoḥ~~
-{{description>of the banks.}}
+---json
+{
+    "name":"rodhasoḥ",
+    "h1":"rodhasoḥ",
+    "title":"rodhasoḥ -- synonyms, prabhupada.io",
+    "description":"of the banks."
+}
+---
 
 ==== rodhasoḥ  ====
   * of the banks --- [[books:sb:5:16:20-21|SB 5.16.20-21]]

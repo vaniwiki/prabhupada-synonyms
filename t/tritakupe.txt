@@ -1,5 +1,11 @@
-~~Title:tritakūpe~~
-{{description>to Tritakūpa.}}
+---json
+{
+    "name":"tritakūpe",
+    "h1":"tritakūpe",
+    "title":"tritakūpe -- synonyms, prabhupada.io",
+    "description":"to Tritakūpa."
+}
+---
 
 ==== tritakūpe  ====
   * to Tritakūpa --- [[books:cc:madhya:9:279|Madhya 9.279]]

@@ -1,5 +1,11 @@
-~~Title:durukti~~
-{{description>harsh words; unkind words.}}
+---json
+{
+    "name":"durukti",
+    "h1":"durukti",
+    "title":"durukti -- synonyms, prabhupada.io",
+    "description":"harsh words; unkind words."
+}
+---
 
 ==== durukti  ====
   * harsh words --- [[books:sb:4:8:14|SB 4.8.14]]

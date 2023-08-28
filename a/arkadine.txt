@@ -1,5 +1,11 @@
-~~Title:arkadine~~
-{{description>on Sunday.}}
+---json
+{
+    "name":"arkadine",
+    "h1":"arkadine",
+    "title":"arkadine -- synonyms, prabhupada.io",
+    "description":"on Sunday."
+}
+---
 
 ==== arkadine  ====
   * on Sunday --- [[books:sb:4:12:49-50|SB 4.12.49-50]]

@@ -1,5 +1,11 @@
-~~Title:kāryate~~
-{{description>he is caused to perform; is caused to perform; is forced to do; is performed.}}
+---json
+{
+    "name":"kāryate",
+    "h1":"kāryate",
+    "title":"kāryate -- synonyms, prabhupada.io",
+    "description":"he is caused to perform; is caused to perform; is forced to do; is performed."
+}
+---
 
 ==== kāryate  ====
   * he is caused to perform --- [[books:sb:6:1:53|SB 6.1.53]]

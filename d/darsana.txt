@@ -1,5 +1,11 @@
-~~Title:darsana~~
-{{description>audience; by a personal visit; by seeing; by seeing you; by sight; interview; meeting; of seeing; realization; seeing; seeing face to face; sight; the sight; vision; visit; visiting the temple.}}
+---json
+{
+    "name":"darsana",
+    "h1":"darsana",
+    "title":"darsana -- synonyms, prabhupada.io",
+    "description":"audience; by a personal visit; by seeing; by seeing you; by sight; interview; meeting; of seeing; realization; seeing; seeing face to face; sight; the sight; vision; visit; visiting the temple."
+}
+---
 
 ==== darśana  ====
   * audience --- [[books:sb:1:11:3|SB 1.11.3]], [[books:sb:2:9:18|SB 2.9.18]], [[books:sb:3:4:21|SB 3.4.21]], [[books:cc:madhya:2:59|Madhya 2.59]], [[books:cc:madhya:9:63|Madhya 9.63]], [[books:cc:antya:5:12|Antya 5.12]]

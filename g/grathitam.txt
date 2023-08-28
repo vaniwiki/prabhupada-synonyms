@@ -1,5 +1,11 @@
-~~Title:grathitam~~
-{{description>as composed; hard knot; tied tightly.}}
+---json
+{
+    "name":"grathitam",
+    "h1":"grathitam",
+    "title":"grathitam -- synonyms, prabhupada.io",
+    "description":"as composed; hard knot; tied tightly."
+}
+---
 
 ==== grathitam  ====
   * as composed --- [[books:sb:5:12:3|SB 5.12.3]]

@@ -1,5 +1,11 @@
-~~Title:samāse~~
-{{description>in the compound word.}}
+---json
+{
+    "name":"samāse",
+    "h1":"samāse",
+    "title":"samāse -- synonyms, prabhupada.io",
+    "description":"in the compound word."
+}
+---
 
 ==== samāse  ====
   * in the compound word --- [[books:cc:adi:16:59|Ādi 16.59]], [[books:cc:adi:16:60|Ādi 16.60]]

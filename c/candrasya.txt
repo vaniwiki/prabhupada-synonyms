@@ -1,5 +1,11 @@
-~~Title:candrasya~~
-{{description>of Lord Advaitacandra.}}
+---json
+{
+    "name":"candrasya",
+    "h1":"candrasya",
+    "title":"candrasya -- synonyms, prabhupada.io",
+    "description":"of Lord Advaitacandra."
+}
+---
 
 ==== advaita-candrasya  ====
   * of Lord Advaitacandra --- [[books:cc:adi:12:3|Ādi 12.3]]

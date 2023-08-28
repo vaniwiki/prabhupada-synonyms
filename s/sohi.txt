@@ -1,5 +1,11 @@
-~~Title:sohi~~
-{{description>that.}}
+---json
+{
+    "name":"sohi",
+    "h1":"sohi",
+    "title":"sohi -- synonyms, prabhupada.io",
+    "description":"that."
+}
+---
 
 ==== sohi  ====
   * that --- [[books:cc:madhya:8:194|Madhya 8.194]]

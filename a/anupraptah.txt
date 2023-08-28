@@ -1,5 +1,11 @@
-~~Title:anupraptah~~
-{{description>arrived; having achieved in that way.}}
+---json
+{
+    "name":"anupraptah",
+    "h1":"anupraptah",
+    "title":"anupraptah -- synonyms, prabhupada.io",
+    "description":"arrived; having achieved in that way."
+}
+---
 
 ==== anuprāptaḥ  ====
   * arrived --- [[books:sb:7:3:17|SB 7.3.17]]

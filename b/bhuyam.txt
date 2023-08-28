@@ -1,5 +1,11 @@
-~~Title:bhūyam~~
-{{description>the position of brāhmaṇas.}}
+---json
+{
+    "name":"bhūyam",
+    "h1":"bhūyam",
+    "title":"bhūyam -- synonyms, prabhupada.io",
+    "description":"the position of brāhmaṇas."
+}
+---
 
 ==== brahma-bhūyam  ====
   * the position of //brāhmaṇas// --- [[books:sb:9:2:17|SB 9.2.17]]

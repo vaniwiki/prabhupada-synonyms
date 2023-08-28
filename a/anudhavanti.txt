@@ -1,5 +1,11 @@
-~~Title:anudhāvanti~~
-{{description>follow behind.}}
+---json
+{
+    "name":"anudhāvanti",
+    "h1":"anudhāvanti",
+    "title":"anudhāvanti -- synonyms, prabhupada.io",
+    "description":"follow behind."
+}
+---
 
 ==== anudhāvanti  ====
   * follow behind --- [[books:sb:4:11:20|SB 4.11.20]]

@@ -1,5 +1,11 @@
-~~Title:arkāt~~
-{{description>from the sun.}}
+---json
+{
+    "name":"arkāt",
+    "h1":"arkāt",
+    "title":"arkāt -- synonyms, prabhupada.io",
+    "description":"from the sun."
+}
+---
 
 ==== arkāt  ====
   * from the sun --- [[books:sb:5:22:13|SB 5.22.13]]

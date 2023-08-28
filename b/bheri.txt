@@ -1,5 +1,11 @@
-~~Title:bherī~~
-{{description>bugles; of bugles; of kettledrums.}}
+---json
+{
+    "name":"bherī",
+    "h1":"bherī",
+    "title":"bherī -- synonyms, prabhupada.io",
+    "description":"bugles; of bugles; of kettledrums."
+}
+---
 
 ==== bherī  ====
   * bugles --- [[books:cc:madhya:4:56|Madhya 4.56]]

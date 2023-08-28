@@ -1,5 +1,11 @@
-~~Title:kutaścit~~
-{{description>anywhere; by any means; from anywhere; sometimes; somewhere; to some other side.}}
+---json
+{
+    "name":"kutaścit",
+    "h1":"kutaścit",
+    "title":"kutaścit -- synonyms, prabhupada.io",
+    "description":"anywhere; by any means; from anywhere; sometimes; somewhere; to some other side."
+}
+---
 
 ==== kutaścit  ====
   * anywhere --- [[books:sb:3:15:7|SB 3.15.7]]

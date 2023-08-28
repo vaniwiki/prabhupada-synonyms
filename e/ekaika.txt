@@ -1,5 +1,11 @@
-~~Title:ekaika~~
-{{description>each branch.}}
+---json
+{
+    "name":"ekaika",
+    "h1":"ekaika",
+    "title":"ekaika -- synonyms, prabhupada.io",
+    "description":"each branch."
+}
+---
 
 ==== ekaika  ====
   * each branch --- [[books:cc:adi:9:19|Ādi 9.19]]

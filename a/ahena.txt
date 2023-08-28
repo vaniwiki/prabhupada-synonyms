@@ -1,5 +1,11 @@
-~~Title:ahena~~
-{{description>in ten days.}}
+---json
+{
+    "name":"ahena",
+    "h1":"ahena",
+    "title":"ahena -- synonyms, prabhupada.io",
+    "description":"in ten days."
+}
+---
 
 ==== daśa-ahena  ====
   * in ten days --- [[books:sb:3:31:2|SB 3.31.2]]

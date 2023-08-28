@@ -1,5 +1,11 @@
-~~Title:didṛkṣe~~
-{{description>I wish to see.}}
+---json
+{
+    "name":"didṛkṣe",
+    "h1":"didṛkṣe",
+    "title":"didṛkṣe -- synonyms, prabhupada.io",
+    "description":"I wish to see."
+}
+---
 
 ==== didṛkṣe  ====
   * I wish to see --- [[books:sb:4:3:11|SB 4.3.11]]

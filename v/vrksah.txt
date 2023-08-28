@@ -1,5 +1,11 @@
-~~Title:vrksah~~
-{{description>a tree.}}
+---json
+{
+    "name":"vrksah",
+    "h1":"vrksah",
+    "title":"vrksah -- synonyms, prabhupada.io",
+    "description":"a tree."
+}
+---
 
 ==== vṛkṣaḥ  ====
   * a tree --- [[books:sb:8:19:40|SB 8.19.40]]

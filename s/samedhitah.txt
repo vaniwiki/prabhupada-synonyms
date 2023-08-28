@@ -1,5 +1,11 @@
-~~Title:samedhitah~~
-{{description>greatly increased.}}
+---json
+{
+    "name":"samedhitah",
+    "h1":"samedhitah",
+    "title":"samedhitah -- synonyms, prabhupada.io",
+    "description":"greatly increased."
+}
+---
 
 ==== samedhitaḥ  ====
   * greatly increased --- [[books:sb:4:27:9|SB 4.27.9]]

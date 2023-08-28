@@ -1,5 +1,11 @@
-~~Title:bhraśyanti~~
-{{description>fall down.}}
+---json
+{
+    "name":"bhraśyanti",
+    "h1":"bhraśyanti",
+    "title":"bhraśyanti -- synonyms, prabhupada.io",
+    "description":"fall down."
+}
+---
 
 ==== bhraśyanti  ====
   * fall down --- [[books:sb:10:2:33|SB 10.2.33]]

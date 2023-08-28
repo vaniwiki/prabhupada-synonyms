@@ -1,5 +1,11 @@
-~~Title:tathyam~~
-{{description>the truth.}}
+---json
+{
+    "name":"tathyam",
+    "h1":"tathyam",
+    "title":"tathyam -- synonyms, prabhupada.io",
+    "description":"the truth."
+}
+---
 
 ==== tathyam  ====
   * the truth --- [[books:sb:4:9:32|SB 4.9.32]]

@@ -1,5 +1,11 @@
-~~Title:asyamāne~~
-{{description>being blasphemed.}}
+---json
+{
+    "name":"asyamāne",
+    "h1":"asyamāne",
+    "title":"asyamāne -- synonyms, prabhupada.io",
+    "description":"being blasphemed."
+}
+---
 
 ==== asyamāne  ====
   * being blasphemed --- [[books:sb:4:4:17|SB 4.4.17]]

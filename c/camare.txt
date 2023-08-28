@@ -1,5 +1,11 @@
-~~Title:cāmare~~
-{{description>yak-tail whisks.}}
+---json
+{
+    "name":"cāmare",
+    "h1":"cāmare",
+    "title":"cāmare -- synonyms, prabhupada.io",
+    "description":"yak-tail whisks."
+}
+---
 
 ==== cāmare  ====
   * yak-tail whisks --- [[books:cc:madhya:14:109|Madhya 14.109]]

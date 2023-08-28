@@ -1,5 +1,11 @@
-~~Title:mahānta~~
-{{description>great devotees; the topmost devotee.}}
+---json
+{
+    "name":"mahānta",
+    "h1":"mahānta",
+    "title":"mahānta -- synonyms, prabhupada.io",
+    "description":"great devotees; the topmost devotee."
+}
+---
 
 ==== mahānta  ====
   * great devotees --- [[books:cc:adi:10:5|Ādi 10.5]], [[books:cc:antya:6:150|Antya 6.150]]

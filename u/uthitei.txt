@@ -1,5 +1,11 @@
-~~Title:uṭhitei~~
-{{description>as soon as He got up.}}
+---json
+{
+    "name":"uṭhitei",
+    "h1":"uṭhitei",
+    "title":"uṭhitei -- synonyms, prabhupada.io",
+    "description":"as soon as He got up."
+}
+---
 
 ==== uṭhitei  ====
   * as soon as He got up --- [[books:cc:antya:18:76|Antya 18.76]]

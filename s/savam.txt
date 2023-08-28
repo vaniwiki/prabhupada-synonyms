@@ -1,5 +1,11 @@
-~~Title:savam~~
-{{description>years.}}
+---json
+{
+    "name":"savam",
+    "h1":"savam",
+    "title":"savam -- synonyms, prabhupada.io",
+    "description":"years."
+}
+---
 
 ==== savam  ====
   * years --- [[books:sb:4:12:14|SB 4.12.14]]

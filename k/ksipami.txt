@@ -1,5 +1,11 @@
-~~Title:kṣipāmi~~
-{{description>put; throw.}}
+---json
+{
+    "name":"kṣipāmi",
+    "h1":"kṣipāmi",
+    "title":"kṣipāmi -- synonyms, prabhupada.io",
+    "description":"put; throw."
+}
+---
 
 ==== kṣipāmi  ====
   * put --- [[books:bg:16:19|Bg. 16.19]]

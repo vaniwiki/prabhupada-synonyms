@@ -1,5 +1,11 @@
-~~Title:gaḍabaḍi~~
-{{description>disturbance.}}
+---json
+{
+    "name":"gaḍabaḍi",
+    "h1":"gaḍabaḍi",
+    "title":"gaḍabaḍi -- synonyms, prabhupada.io",
+    "description":"disturbance."
+}
+---
 
 ==== gaḍabaḍi  ====
   * disturbance --- [[books:cc:madhya:18:148|Madhya 18.148]]

@@ -1,5 +1,11 @@
-~~Title:saṁsargān~~
-{{description>material association.}}
+---json
+{
+    "name":"saṁsargān",
+    "h1":"saṁsargān",
+    "title":"saṁsargān -- synonyms, prabhupada.io",
+    "description":"material association."
+}
+---
 
 ==== saṁsargān  ====
   * material association --- [[books:sb:3:28:11|SB 3.28.11]]

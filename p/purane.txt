@@ -1,5 +1,11 @@
-~~Title:purane~~
-{{description>in the Purāṇas.}}
+---json
+{
+    "name":"purane",
+    "h1":"purane",
+    "title":"purane -- synonyms, prabhupada.io",
+    "description":"in the Purāṇas."
+}
+---
 
 ==== purāṇe  ====
   * in the //Purāṇas// --- [[books:cc:adi:4:87|Ādi 4.87]]

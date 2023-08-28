@@ -1,5 +1,11 @@
-~~Title:nih~~
-{{description>negation; nor; the prefix niḥ.}}
+---json
+{
+    "name":"nih",
+    "h1":"nih",
+    "title":"nih -- synonyms, prabhupada.io",
+    "description":"negation; nor; the prefix niḥ."
+}
+---
 
 ==== niḥ  ====
   * negation --- [[books:sb:1:3:20|SB 1.3.20]]

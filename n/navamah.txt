@@ -1,5 +1,11 @@
-~~Title:navamaḥ~~
-{{description>ninth; the ninth.}}
+---json
+{
+    "name":"navamaḥ",
+    "h1":"navamaḥ",
+    "title":"navamaḥ -- synonyms, prabhupada.io",
+    "description":"ninth; the ninth."
+}
+---
 
 ==== navamaḥ  ====
   * ninth --- [[books:sb:8:13:18|SB 8.13.18]]

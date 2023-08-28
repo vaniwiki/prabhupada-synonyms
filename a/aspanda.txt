@@ -1,5 +1,11 @@
-~~Title:aspanda~~
-{{description>steady.}}
+---json
+{
+    "name":"aspanda",
+    "h1":"aspanda",
+    "title":"aspanda -- synonyms, prabhupada.io",
+    "description":"steady."
+}
+---
 
 ==== aspanda  ====
   * steady --- [[books:sb:7:4:41|SB 7.4.41]]

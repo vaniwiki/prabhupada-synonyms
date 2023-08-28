@@ -1,5 +1,11 @@
-~~Title:līneṣu~~
-{{description>merged.}}
+---json
+{
+    "name":"līneṣu",
+    "h1":"līneṣu",
+    "title":"līneṣu -- synonyms, prabhupada.io",
+    "description":"merged."
+}
+---
 
 ==== līneṣu  ====
   * merged --- [[books:sb:3:27:14|SB 3.27.14]]

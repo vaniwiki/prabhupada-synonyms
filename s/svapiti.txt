@@ -1,5 +1,11 @@
-~~Title:svapiti~~
-{{description>sleep; sleeps.}}
+---json
+{
+    "name":"svapiti",
+    "h1":"svapiti",
+    "title":"svapiti -- synonyms, prabhupada.io",
+    "description":"sleep; sleeps."
+}
+---
 
 ==== svapiti  ====
   * sleep --- [[books:sb:6:2:5-6|SB 6.2.5-6]]

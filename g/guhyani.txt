@@ -1,5 +1,11 @@
-~~Title:guhyāni~~
-{{description>mysterious.}}
+---json
+{
+    "name":"guhyāni",
+    "h1":"guhyāni",
+    "title":"guhyāni -- synonyms, prabhupada.io",
+    "description":"mysterious."
+}
+---
 
 ==== guhyāni  ====
   * mysterious --- [[books:sb:1:6:26|SB 1.6.26]]

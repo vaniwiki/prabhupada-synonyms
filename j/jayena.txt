@@ -1,5 +1,11 @@
-~~Title:jayena~~
-{{description>by controlling the mind and senses.}}
+---json
+{
+    "name":"jayena",
+    "h1":"jayena",
+    "title":"jayena -- synonyms, prabhupada.io",
+    "description":"by controlling the mind and senses."
+}
+---
 
 ==== ātma-indriya-jayena  ====
   * by controlling the mind and senses --- [[books:sb:3:32:34-36|SB 3.32.34-36]]

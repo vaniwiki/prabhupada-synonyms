@@ -1,5 +1,11 @@
-~~Title:dekhoṅ~~
-{{description>I see; I was searching; see.}}
+---json
+{
+    "name":"dekhoṅ",
+    "h1":"dekhoṅ",
+    "title":"dekhoṅ -- synonyms, prabhupada.io",
+    "description":"I see; I was searching; see."
+}
+---
 
 ==== dekhoṅ  ====
   * I see --- [[books:cc:madhya:8:270|Madhya 8.270]], [[books:cc:antya:16:126|Antya 16.126]]

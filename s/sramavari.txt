@@ -1,5 +1,11 @@
-~~Title:śramavāri~~
-{{description>perspiration.}}
+---json
+{
+    "name":"śramavāri",
+    "h1":"śramavāri",
+    "title":"śramavāri -- synonyms, prabhupada.io",
+    "description":"perspiration."
+}
+---
 
 ==== śramavāri  ====
   * perspiration --- [[books:sb:1:9:34|SB 1.9.34]]

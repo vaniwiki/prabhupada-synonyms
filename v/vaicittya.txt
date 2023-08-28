@@ -1,5 +1,11 @@
-~~Title:vaicittya~~
-{{description>diversity.}}
+---json
+{
+    "name":"vaicittya",
+    "h1":"vaicittya",
+    "title":"vaicittya -- synonyms, prabhupada.io",
+    "description":"diversity."
+}
+---
 
 ==== vaicittya  ====
   * diversity --- [[books:cc:madhya:8:176|Madhya 8.176]]

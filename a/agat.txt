@@ -1,5 +1,11 @@
-~~Title:agat~~
-{{description>accepted; achieved; arrived there; attained; came; came in front of (for the sake of fighting); entered; has almost passed; he obtained; He returned; returned; she went; went; went away; went back; went to.}}
+---json
+{
+    "name":"agat",
+    "h1":"agat",
+    "title":"agat -- synonyms, prabhupada.io",
+    "description":"accepted; achieved; arrived there; attained; came; came in front of (for the sake of fighting); entered; has almost passed; he obtained; He returned; returned; she went; went; went away; went back; went to."
+}
+---
 
 ==== agāt  ====
   * accepted --- [[books:sb:5:4:6|SB 5.4.6]], [[books:sb:9:10:2|SB 9.10.2]]

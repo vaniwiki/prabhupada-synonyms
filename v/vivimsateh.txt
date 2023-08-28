@@ -1,5 +1,11 @@
-~~Title:viviṁśateḥ~~
-{{description>from Viviṁśati.}}
+---json
+{
+    "name":"viviṁśateḥ",
+    "h1":"viviṁśateḥ",
+    "title":"viviṁśateḥ -- synonyms, prabhupada.io",
+    "description":"from Viviṁśati."
+}
+---
 
 ==== viviṁśateḥ  ====
   * from Viviṁśati --- [[books:sb:9:2:25|SB 9.2.25]]

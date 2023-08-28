@@ -1,5 +1,11 @@
-~~Title:ida~~
-{{description>the plate for eating.}}
+---json
+{
+    "name":"ida",
+    "h1":"ida",
+    "title":"ida -- synonyms, prabhupada.io",
+    "description":"the plate for eating."
+}
+---
 
 ==== iḍā  ====
   * the plate for eating --- [[books:sb:3:13:36|SB 3.13.36]]

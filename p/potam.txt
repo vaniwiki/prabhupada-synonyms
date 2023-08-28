@@ -1,5 +1,11 @@
-~~Title:potam~~
-{{description>the boat for crossing.}}
+---json
+{
+    "name":"potam",
+    "h1":"potam",
+    "title":"potam -- synonyms, prabhupada.io",
+    "description":"the boat for crossing."
+}
+---
 
 ==== potam  ====
   * the boat for crossing --- [[books:sb:3:21:14|SB 3.21.14]]

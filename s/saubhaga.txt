@@ -1,5 +1,11 @@
-~~Title:saubhaga~~
-{{description>fortunate.}}
+---json
+{
+    "name":"saubhaga",
+    "h1":"saubhaga",
+    "title":"saubhaga -- synonyms, prabhupada.io",
+    "description":"fortunate."
+}
+---
 
 ==== saubhaga  ====
   * fortunate --- [[books:sb:4:24:49|SB 4.24.49]]

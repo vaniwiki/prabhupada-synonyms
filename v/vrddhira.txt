@@ -1,5 +1,11 @@
-~~Title:vṛddhira~~
-{{description>of the increase.}}
+---json
+{
+    "name":"vṛddhira",
+    "h1":"vṛddhira",
+    "title":"vṛddhira -- synonyms, prabhupada.io",
+    "description":"of the increase."
+}
+---
 
 ==== vṛddhira  ====
   * of the increase --- [[books:cc:adi:4:217|Ādi 4.217]]

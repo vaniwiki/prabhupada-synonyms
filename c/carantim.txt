@@ -1,5 +1,11 @@
-~~Title:carantīm~~
-{{description>loitering; performing.}}
+---json
+{
+    "name":"carantīm",
+    "h1":"carantīm",
+    "title":"carantīm -- synonyms, prabhupada.io",
+    "description":"loitering; performing."
+}
+---
 
 ==== carantīm  ====
   * loitering --- [[books:sb:9:1:34|SB 9.1.34]]

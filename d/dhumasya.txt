@@ -1,5 +1,11 @@
-~~Title:dhūmasya~~
-{{description>of the smoke emanating from the fire burning the different parts of Pūtanā's body.}}
+---json
+{
+    "name":"dhūmasya",
+    "h1":"dhūmasya",
+    "title":"dhūmasya -- synonyms, prabhupada.io",
+    "description":"of the smoke emanating from the fire burning the different parts of Pūtanā's body."
+}
+---
 
 ==== kaṭa-dhūmasya  ====
   * of the smoke emanating from the fire burning the different parts of Pūtanā's body --- [[books:sb:10:6:41|SB 10.6.41]]

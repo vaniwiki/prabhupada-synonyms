@@ -1,5 +1,11 @@
-~~Title:parāha~~
-{{description>put on.}}
+---json
+{
+    "name":"parāha",
+    "h1":"parāha",
+    "title":"parāha -- synonyms, prabhupada.io",
+    "description":"put on."
+}
+---
 
 ==== parāha  ====
   * put on --- [[books:cc:madhya:5:130|Madhya 5.130]]

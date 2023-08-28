@@ -1,5 +1,11 @@
-~~Title:vidureṇa~~
-{{description>by Vidura; Vidura.}}
+---json
+{
+    "name":"vidureṇa",
+    "h1":"vidureṇa",
+    "title":"vidureṇa -- synonyms, prabhupada.io",
+    "description":"by Vidura; Vidura."
+}
+---
 
 ==== vidureṇa  ====
   * by Vidura --- [[books:sb:4:17:8|SB 4.17.8]]

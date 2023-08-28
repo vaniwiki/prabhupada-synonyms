@@ -1,5 +1,11 @@
-~~Title:havirdhānāt~~
-{{description>from Havirdhāna.}}
+---json
+{
+    "name":"havirdhānāt",
+    "h1":"havirdhānāt",
+    "title":"havirdhānāt -- synonyms, prabhupada.io",
+    "description":"from Havirdhāna."
+}
+---
 
 ==== havirdhānāt  ====
   * from Havirdhāna --- [[books:sb:4:24:8|SB 4.24.8]]

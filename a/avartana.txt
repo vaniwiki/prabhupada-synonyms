@@ -1,5 +1,11 @@
-~~Title:āvartana~~
-{{description>by the falling down; recitation.}}
+---json
+{
+    "name":"āvartana",
+    "h1":"āvartana",
+    "title":"āvartana -- synonyms, prabhupada.io",
+    "description":"by the falling down; recitation."
+}
+---
 
 ==== āvartana  ====
   * by the falling down --- [[books:sb:8:12:19|SB 8.12.19]]

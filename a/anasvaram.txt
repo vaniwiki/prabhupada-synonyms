@@ -1,5 +1,11 @@
-~~Title:anaśvaram~~
-{{description>permanently beneficial.}}
+---json
+{
+    "name":"anaśvaram",
+    "h1":"anaśvaram",
+    "title":"anaśvaram -- synonyms, prabhupada.io",
+    "description":"permanently beneficial."
+}
+---
 
 ==== anaśvaram  ====
   * permanently beneficial --- [[books:sb:7:14:25|SB 7.14.25]]

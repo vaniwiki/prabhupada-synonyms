@@ -1,5 +1,11 @@
-~~Title:aprāṇasya~~
-{{description>which is dead.}}
+---json
+{
+    "name":"aprāṇasya",
+    "h1":"aprāṇasya",
+    "title":"aprāṇasya -- synonyms, prabhupada.io",
+    "description":"which is dead."
+}
+---
 
 ==== aprāṇasya  ====
   * which is dead --- [[books:cc:madhya:19:75|Madhya 19.75]]

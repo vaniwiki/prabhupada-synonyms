@@ -1,5 +1,11 @@
-~~Title:bhramibena~~
-{{description>will tour.}}
+---json
+{
+    "name":"bhramibena",
+    "h1":"bhramibena",
+    "title":"bhramibena -- synonyms, prabhupada.io",
+    "description":"will tour."
+}
+---
 
 ==== bhramibena  ====
   * will tour --- [[books:cc:madhya:7:32|Madhya 7.32]]

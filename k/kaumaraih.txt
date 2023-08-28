@@ -1,5 +1,11 @@
-~~Title:kaumāraiḥ~~
-{{description>childish.}}
+---json
+{
+    "name":"kaumāraiḥ",
+    "h1":"kaumāraiḥ",
+    "title":"kaumāraiḥ -- synonyms, prabhupada.io",
+    "description":"childish."
+}
+---
 
 ==== kaumāraiḥ  ====
   * childish --- [[books:sb:10:11:59|SB 10.11.59]]

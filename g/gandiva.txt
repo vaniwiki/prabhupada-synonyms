@@ -1,5 +1,11 @@
-~~Title:gāṇḍīva~~
-{{description>the bow named Gāṇḍīva.}}
+---json
+{
+    "name":"gāṇḍīva",
+    "h1":"gāṇḍīva",
+    "title":"gāṇḍīva -- synonyms, prabhupada.io",
+    "description":"the bow named Gāṇḍīva."
+}
+---
 
 ==== gāṇḍīva  ====
   * the bow named Gāṇḍīva --- [[books:sb:1:15:13|SB 1.15.13]], [[books:sb:1:17:6|SB 1.17.6]]

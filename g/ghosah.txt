@@ -1,5 +1,11 @@
-~~Title:ghoṣaḥ~~
-{{description>vibration.}}
+---json
+{
+    "name":"ghoṣaḥ",
+    "h1":"ghoṣaḥ",
+    "title":"ghoṣaḥ -- synonyms, prabhupada.io",
+    "description":"vibration."
+}
+---
 
 ==== ghoṣaḥ  ====
   * vibration --- [[books:bg:1:19|Bg. 1.19]]

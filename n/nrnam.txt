@@ -1,5 +1,11 @@
-~~Title:nrnam~~
-{{description>by human beings; by the human being; by the human beings; for human beings; for human society; for the human race; in human society; men; of all human beings; of all living entities; of all men; of human beings; of human calculation; of human society; of humanity at large; of humankind; of men; of ordinary men; of persons; of the human being; of the human beings; of the people; of the people in general; persons; the bodies of human beings; to human society.}}
+---json
+{
+    "name":"nrnam",
+    "h1":"nrnam",
+    "title":"nrnam -- synonyms, prabhupada.io",
+    "description":"by human beings; by the human being; by the human beings; for human beings; for human society; for the human race; in human society; men; of all human beings; of all living entities; of all men; of human beings; of human calculation; of human society; of humanity at large; of humankind; of men; of ordinary men; of persons; of the human being; of the human beings; of the people; of the people in general; persons; the bodies of human beings; to human society."
+}
+---
 
 ==== nṛṇām  ====
   * by human beings --- [[books:cc:madhya:22:40|Madhya 22.40]], [[books:cc:madhya:24:103|Madhya 24.103]], [[books:cc:madhya:24:199|Madhya 24.199]]

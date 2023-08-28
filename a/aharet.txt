@@ -1,5 +1,11 @@
-~~Title:āharet~~
-{{description>the vānaprastha should eat.}}
+---json
+{
+    "name":"āharet",
+    "h1":"āharet",
+    "title":"āharet -- synonyms, prabhupada.io",
+    "description":"the vānaprastha should eat."
+}
+---
 
 ==== āharet  ====
   * the //vānaprastha// should eat --- [[books:sb:7:12:18|SB 7.12.18]]

@@ -1,5 +1,11 @@
-~~Title:eti~~
-{{description>achieves; attain; attained; attains; becomes; comes; comes back; does attain; gets; goes to; reaches.}}
+---json
+{
+    "name":"eti",
+    "h1":"eti",
+    "title":"eti -- synonyms, prabhupada.io",
+    "description":"achieves; attain; attained; attains; becomes; comes; comes back; does attain; gets; goes to; reaches."
+}
+---
 
 ==== eti  ====
   * achieves --- [[books:sb:6:16:24|SB 6.16.24]]

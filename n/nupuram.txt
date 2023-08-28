@@ -1,5 +1,11 @@
-~~Title:nūpuram~~
-{{description>ankle bells; anklets.}}
+---json
+{
+    "name":"nūpuram",
+    "h1":"nūpuram",
+    "title":"nūpuram -- synonyms, prabhupada.io",
+    "description":"ankle bells; anklets."
+}
+---
 
 ==== nūpuram  ====
   * ankle bells --- [[books:sb:3:23:31|SB 3.23.31]]

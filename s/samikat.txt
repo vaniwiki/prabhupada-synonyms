@@ -1,5 +1,11 @@
-~~Title:samīkāt~~
-{{description>from King Śamīka.}}
+---json
+{
+    "name":"samīkāt",
+    "h1":"samīkāt",
+    "title":"samīkāt -- synonyms, prabhupada.io",
+    "description":"from King Śamīka."
+}
+---
 
 ==== samīkāt  ====
   * from King Śamīka --- [[books:sb:9:24:44|SB 9.24.44]]

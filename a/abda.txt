@@ -1,5 +1,11 @@
-~~Title:abda~~
-{{description>at the end of the year.}}
+---json
+{
+    "name":"abda",
+    "h1":"abda",
+    "title":"abda -- synonyms, prabhupada.io",
+    "description":"at the end of the year."
+}
+---
 
 ==== abda-ante  ====
   * at the end of the year --- [[books:sb:9:14:40|SB 9.14.40]]

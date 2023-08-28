@@ -1,5 +1,11 @@
-~~Title:grāvāṇaḥ~~
-{{description>stones.}}
+---json
+{
+    "name":"grāvāṇaḥ",
+    "h1":"grāvāṇaḥ",
+    "title":"grāvāṇaḥ -- synonyms, prabhupada.io",
+    "description":"stones."
+}
+---
 
 ==== grāvāṇaḥ  ====
   * stones --- [[books:sb:3:19:18|SB 3.19.18]]

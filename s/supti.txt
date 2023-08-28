@@ -1,5 +1,11 @@
-~~Title:supti~~
-{{description>in deep sleep; in the state of unconsciousness.}}
+---json
+{
+    "name":"supti",
+    "h1":"supti",
+    "title":"supti -- synonyms, prabhupada.io",
+    "description":"in deep sleep; in the state of unconsciousness."
+}
+---
 
 ==== supti  ====
   * in deep sleep --- [[books:sb:4:29:71|SB 4.29.71]]

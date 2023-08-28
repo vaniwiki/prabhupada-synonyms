@@ -1,5 +1,11 @@
-~~Title:tare~~
-{{description>for; for the matter of; I can get relief from.}}
+---json
+{
+    "name":"tare",
+    "h1":"tare",
+    "title":"tare -- synonyms, prabhupada.io",
+    "description":"for; for the matter of; I can get relief from."
+}
+---
 
 ==== tare  ====
   * for --- [[books:cc:antya:10:131|Antya 10.131]]

@@ -1,5 +1,11 @@
-~~Title:payodhayaḥ~~
-{{description>great seas and oceans.}}
+---json
+{
+    "name":"payodhayaḥ",
+    "h1":"payodhayaḥ",
+    "title":"payodhayaḥ -- synonyms, prabhupada.io",
+    "description":"great seas and oceans."
+}
+---
 
 ==== payodhayaḥ  ====
   * great seas and oceans --- [[books:sb:8:20:21|SB 8.20.21]]

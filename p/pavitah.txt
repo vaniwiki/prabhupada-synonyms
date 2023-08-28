@@ -1,5 +1,11 @@
-~~Title:pāvitāḥ~~
-{{description>purified.}}
+---json
+{
+    "name":"pāvitāḥ",
+    "h1":"pāvitāḥ",
+    "title":"pāvitāḥ -- synonyms, prabhupada.io",
+    "description":"purified."
+}
+---
 
 ==== pāvitāḥ  ====
   * purified --- [[books:sb:3:13:44|SB 3.13.44]]

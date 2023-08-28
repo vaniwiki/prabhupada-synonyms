@@ -1,5 +1,11 @@
-~~Title:upavītam~~
-{{description>and a sacred thread.}}
+---json
+{
+    "name":"upavītam",
+    "h1":"upavītam",
+    "title":"upavītam -- synonyms, prabhupada.io",
+    "description":"and a sacred thread."
+}
+---
 
 ==== upavītam ca  ====
   * and a sacred thread --- [[books:sb:7:12:4|SB 7.12.4]]

@@ -1,5 +1,11 @@
-~~Title:varṇiluṅ~~
-{{description>have described; I have described.}}
+---json
+{
+    "name":"varṇiluṅ",
+    "h1":"varṇiluṅ",
+    "title":"varṇiluṅ -- synonyms, prabhupada.io",
+    "description":"have described; I have described."
+}
+---
 
 ==== varṇiluṅ  ====
   * have described --- [[books:cc:madhya:16:214-215|Madhya 16.214-215]]

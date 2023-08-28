@@ -1,5 +1,11 @@
-~~Title:asritam~~
-{{description>absorbed; accepted; assuming; directed.}}
+---json
+{
+    "name":"asritam",
+    "h1":"asritam",
+    "title":"asritam -- synonyms, prabhupada.io",
+    "description":"absorbed; accepted; assuming; directed."
+}
+---
 
 ==== āśritam  ====
   * absorbed --- [[books:sb:4:6:39|SB 4.6.39]]

@@ -1,5 +1,11 @@
-~~Title:abhijānāmi~~
-{{description>I could not realize even until now.}}
+---json
+{
+    "name":"abhijānāmi",
+    "h1":"abhijānāmi",
+    "title":"abhijānāmi -- synonyms, prabhupada.io",
+    "description":"I could not realize even until now."
+}
+---
 
 ==== na abhijānāmi  ====
   * I could not realize even until now --- [[books:sb:9:19:12|SB 9.19.12]]

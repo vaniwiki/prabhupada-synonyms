@@ -1,5 +1,11 @@
-~~Title:puspam~~
-{{description>a flower.}}
+---json
+{
+    "name":"puspam",
+    "h1":"puspam",
+    "title":"puspam -- synonyms, prabhupada.io",
+    "description":"a flower."
+}
+---
 
 ==== puṣpam  ====
   * a flower --- [[books:bg:9:26|Bg. 9.26]]

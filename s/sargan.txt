@@ -1,5 +1,11 @@
-~~Title:sargān~~
-{{description>generations.}}
+---json
+{
+    "name":"sargān",
+    "h1":"sargān",
+    "title":"sargān -- synonyms, prabhupada.io",
+    "description":"generations."
+}
+---
 
 ==== sargān  ====
   * generations --- [[books:sb:3:7:25|SB 3.7.25]]

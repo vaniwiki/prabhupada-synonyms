@@ -1,5 +1,11 @@
-~~Title:niveśayet~~
-{{description>one should fix.}}
+---json
+{
+    "name":"niveśayet",
+    "h1":"niveśayet",
+    "title":"niveśayet -- synonyms, prabhupada.io",
+    "description":"one should fix."
+}
+---
 
 ==== niveśayet  ====
   * one should fix --- [[books:sb:7:1:32|SB 7.1.32]]

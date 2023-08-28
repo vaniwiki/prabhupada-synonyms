@@ -1,5 +1,11 @@
-~~Title:nirbandha~~
-{{description>fixed; rules and regulations.}}
+---json
+{
+    "name":"nirbandha",
+    "h1":"nirbandha",
+    "title":"nirbandha -- synonyms, prabhupada.io",
+    "description":"fixed; rules and regulations."
+}
+---
 
 ==== nirbandha  ====
   * fixed --- [[books:cc:antya:10:156|Antya 10.156]]

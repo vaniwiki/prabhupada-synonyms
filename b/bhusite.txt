@@ -1,5 +1,11 @@
-~~Title:bhūṣite~~
-{{description>being decorated with golden ornaments.}}
+---json
+{
+    "name":"bhūṣite",
+    "h1":"bhūṣite",
+    "title":"bhūṣite -- synonyms, prabhupada.io",
+    "description":"being decorated with golden ornaments."
+}
+---
 
 ==== rukma-bhūṣite  ====
   * being decorated with golden ornaments --- [[books:sb:4:9:41|SB 4.9.41]]

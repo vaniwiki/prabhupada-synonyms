@@ -1,5 +1,11 @@
-~~Title:hrasvena~~
-{{description>short.}}
+---json
+{
+    "name":"hrasvena",
+    "h1":"hrasvena",
+    "title":"hrasvena -- synonyms, prabhupada.io",
+    "description":"short."
+}
+---
 
 ==== hrasvena  ====
   * short --- [[books:sb:4:20:15|SB 4.20.15]]

@@ -1,5 +1,11 @@
-~~Title:khaga~~
-{{description>birds; of birds.}}
+---json
+{
+    "name":"khaga",
+    "h1":"khaga",
+    "title":"khaga -- synonyms, prabhupada.io",
+    "description":"birds; of birds."
+}
+---
 
 ==== khaga  ====
   * birds --- [[books:sb:7:14:9|SB 7.14.9]]

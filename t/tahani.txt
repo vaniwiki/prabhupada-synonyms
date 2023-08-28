@@ -1,5 +1,11 @@
-~~Title:tahani~~
-{{description>on that very spot; on the spot; then and there; there; there at Ālālanātha.}}
+---json
+{
+    "name":"tahani",
+    "h1":"tahani",
+    "title":"tahani -- synonyms, prabhupada.io",
+    "description":"on that very spot; on the spot; then and there; there; there at Ālālanātha."
+}
+---
 
 ==== tāhāñi  ====
   * on that very spot --- [[books:cc:madhya:16:40|Madhya 16.40]]

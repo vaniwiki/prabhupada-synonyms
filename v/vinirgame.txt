@@ -1,5 +1,11 @@
-~~Title:vinirgame~~
-{{description>after departing; on the departure (after giving information).}}
+---json
+{
+    "name":"vinirgame",
+    "h1":"vinirgame",
+    "title":"vinirgame -- synonyms, prabhupada.io",
+    "description":"after departing; on the departure (after giving information)."
+}
+---
 
 ==== vinirgame  ====
   * after departing --- [[books:sb:3:27:28-29|SB 3.27.28-29]]

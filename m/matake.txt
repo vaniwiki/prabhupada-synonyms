@@ -1,5 +1,11 @@
-~~Title:mātāke~~
-{{description>His mother; to His mother; unto His mother.}}
+---json
+{
+    "name":"mātāke",
+    "h1":"mātāke",
+    "title":"mātāke -- synonyms, prabhupada.io",
+    "description":"His mother; to His mother; unto His mother."
+}
+---
 
 ==== mātāke  ====
   * His mother --- [[books:cc:adi:14:45|Ādi 14.45]]

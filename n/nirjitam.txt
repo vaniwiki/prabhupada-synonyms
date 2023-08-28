@@ -1,5 +1,11 @@
-~~Title:nirjitam~~
-{{description>already defeated; conquered.}}
+---json
+{
+    "name":"nirjitam",
+    "h1":"nirjitam",
+    "title":"nirjitam -- synonyms, prabhupada.io",
+    "description":"already defeated; conquered."
+}
+---
 
 ==== nirjitam  ====
   * already defeated --- [[books:sb:6:12:16|SB 6.12.16]]

@@ -1,5 +1,11 @@
-~~Title:kapata~~
-{{description>apparently; duplicity; false.}}
+---json
+{
+    "name":"kapata",
+    "h1":"kapata",
+    "title":"kapata -- synonyms, prabhupada.io",
+    "description":"apparently; duplicity; false."
+}
+---
 
 ==== kapaṭa  ====
   * apparently --- [[books:sb:1:1:20|SB 1.1.20]]

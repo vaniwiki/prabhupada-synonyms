@@ -1,5 +1,11 @@
-~~Title:niketanaḥ~~
-{{description>a son named Niketana; place of residence.}}
+---json
+{
+    "name":"niketanaḥ",
+    "h1":"niketanaḥ",
+    "title":"niketanaḥ -- synonyms, prabhupada.io",
+    "description":"a son named Niketana; place of residence."
+}
+---
 
 ==== niketanaḥ  ====
   * a son named Niketana --- [[books:sb:9:17:8|SB 9.17.8]]

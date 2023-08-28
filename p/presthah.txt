@@ -1,5 +1,11 @@
-~~Title:presthah~~
-{{description>considering dear; the dearest; very dear.}}
+---json
+{
+    "name":"presthah",
+    "h1":"presthah",
+    "title":"presthah -- synonyms, prabhupada.io",
+    "description":"considering dear; the dearest; very dear."
+}
+---
 
 ==== preṣṭhaḥ  ====
   * considering dear --- [[books:sb:4:16:18|SB 4.16.18]]

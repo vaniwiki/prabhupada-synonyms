@@ -1,5 +1,11 @@
-~~Title:kānana~~
-{{description>forests; gardens.}}
+---json
+{
+    "name":"kānana",
+    "h1":"kānana",
+    "title":"kānana -- synonyms, prabhupada.io",
+    "description":"forests; gardens."
+}
+---
 
 ==== kānana  ====
   * forests --- [[books:cc:madhya:1:239|Madhya 1.239]]

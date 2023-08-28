@@ -1,5 +1,11 @@
-~~Title:kīnāśāḥ~~
-{{description>farmers.}}
+---json
+{
+    "name":"kīnāśāḥ",
+    "h1":"kīnāśāḥ",
+    "title":"kīnāśāḥ -- synonyms, prabhupada.io",
+    "description":"farmers."
+}
+---
 
 ==== kīnāśāḥ  ====
   * farmers --- [[books:sb:3:30:13|SB 3.30.13]]

@@ -1,5 +1,11 @@
-~~Title:paridhāne~~
-{{description>by putting on a garment of skin.}}
+---json
+{
+    "name":"paridhāne",
+    "h1":"paridhāne",
+    "title":"paridhāne -- synonyms, prabhupada.io",
+    "description":"by putting on a garment of skin."
+}
+---
 
 ==== carma-ambara-paridhāne  ====
   * by putting on a garment of skin --- [[books:cc:madhya:10:159|Madhya 10.159]]

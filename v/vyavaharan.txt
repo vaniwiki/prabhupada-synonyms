@@ -1,5 +1,11 @@
-~~Title:vyavaharan~~
-{{description>trading.}}
+---json
+{
+    "name":"vyavaharan",
+    "h1":"vyavaharan",
+    "title":"vyavaharan -- synonyms, prabhupada.io",
+    "description":"trading."
+}
+---
 
 ==== vyavaharan  ====
   * trading --- [[books:sb:5:14:26|SB 5.14.26]]

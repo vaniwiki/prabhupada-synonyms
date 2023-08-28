@@ -1,5 +1,11 @@
-~~Title:adrīn~~
-{{description>hills and mountains; mountains and hills; the mountains.}}
+---json
+{
+    "name":"adrīn",
+    "h1":"adrīn",
+    "title":"adrīn -- synonyms, prabhupada.io",
+    "description":"hills and mountains; mountains and hills; the mountains."
+}
+---
 
 ==== adrīn  ====
   * hills and mountains --- [[books:sb:1:6:12|SB 1.6.12]]

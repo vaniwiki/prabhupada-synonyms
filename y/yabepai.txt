@@ -1,5 +1,11 @@
-~~Title:yabepāi~~
-{{description>if I get.}}
+---json
+{
+    "name":"yabepāi",
+    "h1":"yabepāi",
+    "title":"yabepāi -- synonyms, prabhupada.io",
+    "description":"if I get."
+}
+---
 
 ==== yabepāi  ====
   * if I get --- [[books:cc:madhya:1:80|Madhya 1.80]]

@@ -1,5 +1,11 @@
-~~Title:tuṣṭi~~
-{{description>greatly pleased.}}
+---json
+{
+    "name":"tuṣṭi",
+    "h1":"tuṣṭi",
+    "title":"tuṣṭi -- synonyms, prabhupada.io",
+    "description":"greatly pleased."
+}
+---
 
 ==== mahā-tuṣṭi  ====
   * greatly pleased --- [[books:cc:adi:4:198|Ādi 4.198]]

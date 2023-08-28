@@ -1,5 +1,11 @@
-~~Title:dāṇḍāilā~~
-{{description>stood up.}}
+---json
+{
+    "name":"dāṇḍāilā",
+    "h1":"dāṇḍāilā",
+    "title":"dāṇḍāilā -- synonyms, prabhupada.io",
+    "description":"stood up."
+}
+---
 
 ==== dāṇḍāilā  ====
   * stood up --- [[books:cc:antya:6:163|Antya 6.163]]

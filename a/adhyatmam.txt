@@ -1,5 +1,11 @@
-~~Title:adhyatmam~~
-{{description>narration of self-realization; the controlled entities; the overseer of all causes and effects; the self; transcendental.}}
+---json
+{
+    "name":"adhyatmam",
+    "h1":"adhyatmam",
+    "title":"adhyatmam -- synonyms, prabhupada.io",
+    "description":"narration of self-realization; the controlled entities; the overseer of all causes and effects; the self; transcendental."
+}
+---
 
 ==== adhyātmam  ====
   * narration of self-realization --- [[books:sb:4:28:65|SB 4.28.65]]

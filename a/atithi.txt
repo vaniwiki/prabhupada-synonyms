@@ -1,5 +1,11 @@
-~~Title:atithi~~
-{{description>guest; guests.}}
+---json
+{
+    "name":"atithi",
+    "h1":"atithi",
+    "title":"atithi -- synonyms, prabhupada.io",
+    "description":"guest; guests."
+}
+---
 
 ==== atithi  ====
   * guest --- [[books:cc:adi:14:37|Ādi 14.37]], [[books:cc:adi:17:147|Ādi 17.147]], [[books:cc:antya:16:18|Antya 16.18]]

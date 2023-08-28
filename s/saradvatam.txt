@@ -1,5 +1,11 @@
-~~Title:śāradvatam~~
-{{description>unto Kṛpācārya.}}
+---json
+{
+    "name":"śāradvatam",
+    "h1":"śāradvatam",
+    "title":"śāradvatam -- synonyms, prabhupada.io",
+    "description":"unto Kṛpācārya."
+}
+---
 
 ==== śāradvatam  ====
   * unto Kṛpācārya --- [[books:sb:1:16:3|SB 1.16.3]]

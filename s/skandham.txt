@@ -1,5 +1,11 @@
-~~Title:skandham~~
-{{description>My shoulders; the shoulder.}}
+---json
+{
+    "name":"skandham",
+    "h1":"skandham",
+    "title":"skandham -- synonyms, prabhupada.io",
+    "description":"My shoulders; the shoulder."
+}
+---
 
 ==== skandham  ====
   * My shoulders --- [[books:cc:madhya:19:207-209|Madhya 19.207-209]]

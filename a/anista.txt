@@ -1,5 +1,11 @@
-~~Title:anista~~
-{{description>of some mishap.}}
+---json
+{
+    "name":"anista",
+    "h1":"anista",
+    "title":"anista -- synonyms, prabhupada.io",
+    "description":"of some mishap."
+}
+---
 
 ==== aniṣṭa  ====
   * of some mishap --- [[books:cc:antya:18:40|Antya 18.40]]

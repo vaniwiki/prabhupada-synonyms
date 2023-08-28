@@ -1,5 +1,11 @@
-~~Title:caḍe~~
-{{description>gets up; got up.}}
+---json
+{
+    "name":"caḍe",
+    "h1":"caḍe",
+    "title":"caḍe -- synonyms, prabhupada.io",
+    "description":"gets up; got up."
+}
+---
 
 ==== caḍe  ====
   * gets up --- [[books:cc:adi:5:164|Ādi 5.164]], [[books:cc:madhya:9:129|Madhya 9.129]], [[books:cc:madhya:19:223|Madhya 19.223]]

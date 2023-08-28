@@ -1,5 +1,11 @@
-~~Title:dughaiḥ~~
-{{description>producing.}}
+---json
+{
+    "name":"dughaiḥ",
+    "h1":"dughaiḥ",
+    "title":"dughaiḥ -- synonyms, prabhupada.io",
+    "description":"producing."
+}
+---
 
 ==== dughaiḥ  ====
   * producing --- [[books:sb:5:2:6|SB 5.2.6]]

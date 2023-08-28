@@ -1,5 +1,11 @@
-~~Title:pika~~
-{{description>birds; cuckoos; of the birds; the pika birds.}}
+---json
+{
+    "name":"pika",
+    "h1":"pika",
+    "title":"pika -- synonyms, prabhupada.io",
+    "description":"birds; cuckoos; of the birds; the pika birds."
+}
+---
 
 ==== pika  ====
   * birds --- [[books:cc:madhya:14:97|Madhya 14.97]]

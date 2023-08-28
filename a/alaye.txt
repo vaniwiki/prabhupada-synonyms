@@ -1,5 +1,11 @@
-~~Title:ālaye~~
-{{description>the residential place.}}
+---json
+{
+    "name":"ālaye",
+    "h1":"ālaye",
+    "title":"ālaye -- synonyms, prabhupada.io",
+    "description":"the residential place."
+}
+---
 
 ==== ālaye  ====
   * the residential place --- [[books:cc:madhya:11:109|Madhya 11.109]]

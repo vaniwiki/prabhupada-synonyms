@@ -1,5 +1,11 @@
-~~Title:samupāharat~~
-{{description>presented.}}
+---json
+{
+    "name":"samupāharat",
+    "h1":"samupāharat",
+    "title":"samupāharat -- synonyms, prabhupada.io",
+    "description":"presented."
+}
+---
 
 ==== samupāharat  ====
   * presented --- [[books:sb:8:8:15|SB 8.8.15]]

@@ -1,5 +1,11 @@
-~~Title:vyajana~~
-{{description>chowrie; fan; fans.}}
+---json
+{
+    "name":"vyajana",
+    "h1":"vyajana",
+    "title":"vyajana -- synonyms, prabhupada.io",
+    "description":"chowrie; fan; fans."
+}
+---
 
 ==== vyajana  ====
   * chowrie --- [[books:sb:4:4:5|SB 4.4.5]]

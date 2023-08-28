@@ -1,5 +1,11 @@
-~~Title:tyaktum~~
-{{description>to give them up; to give up; to leave; to renounce.}}
+---json
+{
+    "name":"tyaktum",
+    "h1":"tyaktum",
+    "title":"tyaktum -- synonyms, prabhupada.io",
+    "description":"to give them up; to give up; to leave; to renounce."
+}
+---
 
 ==== tyaktum  ====
   * to give them up --- [[books:sb:9:4:65|SB 9.4.65]]

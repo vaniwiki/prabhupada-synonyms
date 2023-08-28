@@ -1,5 +1,11 @@
-~~Title:anisam~~
-{{description>all the time; always; constantly; incessantly; without cessation.}}
+---json
+{
+    "name":"anisam",
+    "h1":"anisam",
+    "title":"anisam -- synonyms, prabhupada.io",
+    "description":"all the time; always; constantly; incessantly; without cessation."
+}
+---
 
 ==== aniśam  ====
   * all the time --- [[books:cc:madhya:23:23|Madhya 23.23]]

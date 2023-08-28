@@ -1,5 +1,11 @@
-~~Title:abhavam~~
-{{description>became; existed as; who is not born or created.}}
+---json
+{
+    "name":"abhavam",
+    "h1":"abhavam",
+    "title":"abhavam -- synonyms, prabhupada.io",
+    "description":"became; existed as; who is not born or created."
+}
+---
 
 ==== abhavam  ====
   * became --- [[books:sb:1:5:23|SB 1.5.23]], [[books:sb:10:3:41|SB 10.3.41]]

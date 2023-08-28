@@ -1,5 +1,11 @@
-~~Title:anuvādam~~
-{{description>the subject; things already known.}}
+---json
+{
+    "name":"anuvādam",
+    "h1":"anuvādam",
+    "title":"anuvādam -- synonyms, prabhupada.io",
+    "description":"the subject; things already known."
+}
+---
 
 ==== anuvādam  ====
   * the subject --- [[books:cc:adi:2:74|Ādi 2.74]]

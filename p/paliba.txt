@@ -1,5 +1,11 @@
-~~Title:pālibā~~
-{{description>you should carry out.}}
+---json
+{
+    "name":"pālibā",
+    "h1":"pālibā",
+    "title":"pālibā -- synonyms, prabhupada.io",
+    "description":"you should carry out."
+}
+---
 
 ==== pālibā  ====
   * you should carry out --- [[books:cc:antya:2:113|Antya 2.113]]

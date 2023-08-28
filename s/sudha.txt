@@ -1,5 +1,11 @@
-~~Title:sudhā~~
-{{description>nectar; of nectar.}}
+---json
+{
+    "name":"sudhā",
+    "h1":"sudhā",
+    "title":"sudhā -- synonyms, prabhupada.io",
+    "description":"nectar; of nectar."
+}
+---
 
 ==== sudhā  ====
   * nectar --- [[books:sb:3:16:11|SB 3.16.11]], [[books:sb:8:5:10|SB 8.5.10]], [[books:sb:8:7:16|SB 8.7.16]], [[books:cc:madhya:1:158|Madhya 1.158]], [[books:cc:antya:16:144|Antya 16.144]]

@@ -1,5 +1,11 @@
-~~Title:amūlya~~
-{{description>incalculable.}}
+---json
+{
+    "name":"amūlya",
+    "h1":"amūlya",
+    "title":"amūlya -- synonyms, prabhupada.io",
+    "description":"incalculable."
+}
+---
 
 ==== amūlya  ====
   * incalculable --- [[books:cc:madhya:14:11|Madhya 14.11]]

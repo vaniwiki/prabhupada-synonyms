@@ -1,5 +1,11 @@
-~~Title:nirṇīya~~
-{{description>deciding.}}
+---json
+{
+    "name":"nirṇīya",
+    "h1":"nirṇīya",
+    "title":"nirṇīya -- synonyms, prabhupada.io",
+    "description":"deciding."
+}
+---
 
 ==== nirṇīya  ====
   * deciding --- [[books:cc:madhya:11:47|Madhya 11.47]]

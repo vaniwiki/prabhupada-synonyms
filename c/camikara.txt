@@ -1,5 +1,11 @@
-~~Title:cāmīkara~~
-{{description>gold.}}
+---json
+{
+    "name":"cāmīkara",
+    "h1":"cāmīkara",
+    "title":"cāmīkara -- synonyms, prabhupada.io",
+    "description":"gold."
+}
+---
 
 ==== cāmīkara  ====
   * gold --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

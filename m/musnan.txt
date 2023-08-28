@@ -1,5 +1,11 @@
-~~Title:muṣṇan~~
-{{description>diminishing; taking away.}}
+---json
+{
+    "name":"muṣṇan",
+    "h1":"muṣṇan",
+    "title":"muṣṇan -- synonyms, prabhupada.io",
+    "description":"diminishing; taking away."
+}
+---
 
 ==== muṣṇan  ====
   * diminishing --- [[books:sb:4:7:19|SB 4.7.19]]

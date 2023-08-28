@@ -1,5 +1,11 @@
-~~Title:bṛhacchlokaḥ~~
-{{description>Bṛhatśloka.}}
+---json
+{
+    "name":"bṛhacchlokaḥ",
+    "h1":"bṛhacchlokaḥ",
+    "title":"bṛhacchlokaḥ -- synonyms, prabhupada.io",
+    "description":"Bṛhatśloka."
+}
+---
 
 ==== bṛhacchlokaḥ  ====
   * Bṛhatśloka --- [[books:sb:6:18:8|SB 6.18.8]]

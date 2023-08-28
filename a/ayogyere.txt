@@ -1,5 +1,11 @@
-~~Title:ayogyere~~
-{{description>unto the unfit.}}
+---json
+{
+    "name":"ayogyere",
+    "h1":"ayogyere",
+    "title":"ayogyere -- synonyms, prabhupada.io",
+    "description":"unto the unfit."
+}
+---
 
 ==== ayogyere  ====
   * unto the unfit --- [[books:cc:antya:16:138|Antya 16.138]]

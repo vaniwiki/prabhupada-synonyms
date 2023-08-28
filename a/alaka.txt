@@ -1,5 +1,11 @@
-~~Title:alaka~~
-{{description>hair; of locks of hair; with hair.}}
+---json
+{
+    "name":"alaka",
+    "h1":"alaka",
+    "title":"alaka -- synonyms, prabhupada.io",
+    "description":"hair; of locks of hair; with hair."
+}
+---
 
 ==== alaka  ====
   * hair --- [[books:sb:3:20:31|SB 3.20.31]], [[books:sb:4:22:5|SB 4.22.5]]

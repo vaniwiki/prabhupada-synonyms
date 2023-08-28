@@ -1,5 +1,11 @@
-~~Title:pārayāmaḥ~~
-{{description>are able.}}
+---json
+{
+    "name":"pārayāmaḥ",
+    "h1":"pārayāmaḥ",
+    "title":"pārayāmaḥ -- synonyms, prabhupada.io",
+    "description":"are able."
+}
+---
 
 ==== pārayāmaḥ  ====
   * are able --- [[books:sb:5:10:4|SB 5.10.4]]

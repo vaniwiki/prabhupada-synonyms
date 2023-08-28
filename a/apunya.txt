@@ -1,5 +1,11 @@
-~~Title:apuṇya~~
-{{description>impious trees and creepers.}}
+---json
+{
+    "name":"apuṇya",
+    "h1":"apuṇya",
+    "title":"apuṇya -- synonyms, prabhupada.io",
+    "description":"impious trees and creepers."
+}
+---
 
 ==== apuṇya-druma-latā  ====
   * impious trees and creepers --- [[books:sb:5:14:12|SB 5.14.12]]

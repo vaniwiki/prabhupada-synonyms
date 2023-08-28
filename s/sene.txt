@@ -1,5 +1,11 @@
-~~Title:sene~~
-{{description>unto Śivānanda Sena.}}
+---json
+{
+    "name":"sene",
+    "h1":"sene",
+    "title":"sene -- synonyms, prabhupada.io",
+    "description":"unto Śivānanda Sena."
+}
+---
 
 ==== śivānanda sene  ====
   * unto Śivānanda Sena --- [[books:cc:madhya:15:93|Madhya 15.93]]

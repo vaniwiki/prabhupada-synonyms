@@ -1,5 +1,11 @@
-~~Title:aśvaḥ~~
-{{description>horse; the horses.}}
+---json
+{
+    "name":"aśvaḥ",
+    "h1":"aśvaḥ",
+    "title":"aśvaḥ -- synonyms, prabhupada.io",
+    "description":"horse; the horses."
+}
+---
 
 ==== aśvaḥ  ====
   * horse --- [[books:sb:3:10:23|SB 3.10.23]], [[books:sb:9:8:28|SB 9.8.28]]

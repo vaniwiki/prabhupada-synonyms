@@ -1,5 +1,11 @@
-~~Title:annera~~
-{{description>the flavor of the cooked rice.}}
+---json
+{
+    "name":"annera",
+    "h1":"annera",
+    "title":"annera -- synonyms, prabhupada.io",
+    "description":"the flavor of the cooked rice."
+}
+---
 
 ==== annera saurabhya  ====
   * the flavor of the cooked rice --- [[books:cc:madhya:15:229|Madhya 15.229]]

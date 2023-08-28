@@ -1,5 +1,11 @@
-~~Title:vimohitān~~
-{{description>bewildered on the path of religion.}}
+---json
+{
+    "name":"vimohitān",
+    "h1":"vimohitān",
+    "title":"vimohitān -- synonyms, prabhupada.io",
+    "description":"bewildered on the path of religion."
+}
+---
 
 ==== dharma-vimohitān  ====
   * bewildered on the path of religion --- [[books:sb:4:21:30|SB 4.21.30]]

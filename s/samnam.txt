@@ -1,5 +1,11 @@
-~~Title:sāmnām~~
-{{description>of the Sāma-veda song.}}
+---json
+{
+    "name":"sāmnām",
+    "h1":"sāmnām",
+    "title":"sāmnām -- synonyms, prabhupada.io",
+    "description":"of the Sāma-veda song."
+}
+---
 
 ==== sāmnām  ====
   * of the //Sāma-veda// song --- [[books:bg:10:35|Bg. 10.35]]

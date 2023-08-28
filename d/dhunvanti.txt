@@ -1,5 +1,11 @@
-~~Title:dhunvanti~~
-{{description>destroy.}}
+---json
+{
+    "name":"dhunvanti",
+    "h1":"dhunvanti",
+    "title":"dhunvanti -- synonyms, prabhupada.io",
+    "description":"destroy."
+}
+---
 
 ==== dhunvanti  ====
   * destroy --- [[books:sb:6:1:15|SB 6.1.15]]

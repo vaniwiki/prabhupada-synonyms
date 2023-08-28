@@ -1,5 +1,11 @@
-~~Title:puṣkara~~
-{{description>Puṣkara.}}
+---json
+{
+    "name":"puṣkara",
+    "h1":"puṣkara",
+    "title":"puṣkara -- synonyms, prabhupada.io",
+    "description":"Puṣkara."
+}
+---
 
 ==== puṣkara  ====
   * Puṣkara --- [[books:sb:5:1:32|SB 5.1.32]]

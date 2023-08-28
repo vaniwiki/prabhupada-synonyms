@@ -1,5 +1,11 @@
-~~Title:śabdyate~~
-{{description>called; is known; it is described; it so sounded.}}
+---json
+{
+    "name":"śabdyate",
+    "h1":"śabdyate",
+    "title":"śabdyate -- synonyms, prabhupada.io",
+    "description":"called; is known; it is described; it so sounded."
+}
+---
 
 ==== śabdyate  ====
   * called --- [[books:sb:2:10:7|SB 2.10.7]]

@@ -1,5 +1,11 @@
-~~Title:vyavadhīyate~~
-{{description>is separated.}}
+---json
+{
+    "name":"vyavadhīyate",
+    "h1":"vyavadhīyate",
+    "title":"vyavadhīyate -- synonyms, prabhupada.io",
+    "description":"is separated."
+}
+---
 
 ==== vyavadhīyate  ====
   * is separated --- [[books:sb:4:29:70|SB 4.29.70]]

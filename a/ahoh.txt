@@ -1,5 +1,11 @@
-~~Title:āhoḥ~~
-{{description>in sacrifice.}}
+---json
+{
+    "name":"āhoḥ",
+    "h1":"āhoḥ",
+    "title":"āhoḥ -- synonyms, prabhupada.io",
+    "description":"in sacrifice."
+}
+---
 
 ==== āhoḥ  ====
   * in sacrifice --- [[books:sb:1:16:20|SB 1.16.20]]

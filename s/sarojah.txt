@@ -1,5 +1,11 @@
-~~Title:sarojaḥ~~
-{{description>lotuslike heart.}}
+---json
+{
+    "name":"sarojaḥ",
+    "h1":"sarojaḥ",
+    "title":"sarojaḥ -- synonyms, prabhupada.io",
+    "description":"lotuslike heart."
+}
+---
 
 ==== hṛt-sarojaḥ  ====
   * lotuslike heart --- [[books:sb:1:15:2|SB 1.15.2]]

@@ -1,5 +1,11 @@
-~~Title:upajātaḥ~~
-{{description>appeared.}}
+---json
+{
+    "name":"upajātaḥ",
+    "h1":"upajātaḥ",
+    "title":"upajātaḥ -- synonyms, prabhupada.io",
+    "description":"appeared."
+}
+---
 
 ==== upajātaḥ  ====
   * appeared --- [[books:sb:5:15:3|SB 5.15.3]]

@@ -1,5 +1,11 @@
-~~Title:dve~~
-{{description>the two; two.}}
+---json
+{
+    "name":"dve",
+    "h1":"dve",
+    "title":"dve -- synonyms, prabhupada.io",
+    "description":"the two; two."
+}
+---
 
 ==== dve  ====
   * the two --- [[books:sb:6:6:33-36|SB 6.6.33-36]]

@@ -1,5 +1,11 @@
-~~Title:vahanti~~
-{{description>carry; carry on; do bear; observe.}}
+---json
+{
+    "name":"vahanti",
+    "h1":"vahanti",
+    "title":"vahanti -- synonyms, prabhupada.io",
+    "description":"carry; carry on; do bear; observe."
+}
+---
 
 ==== vahanti  ====
   * carry --- [[books:sb:5:21:15|SB 5.21.15]], [[books:sb:6:3:13|SB 6.3.13]]

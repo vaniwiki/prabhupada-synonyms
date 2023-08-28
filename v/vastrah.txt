@@ -1,5 +1,11 @@
-~~Title:vastrāḥ~~
-{{description>clothing.}}
+---json
+{
+    "name":"vastrāḥ",
+    "h1":"vastrāḥ",
+    "title":"vastrāḥ -- synonyms, prabhupada.io",
+    "description":"clothing."
+}
+---
 
 ==== vastrāḥ  ====
   * clothing --- [[books:sb:2:9:11|SB 2.9.11]]

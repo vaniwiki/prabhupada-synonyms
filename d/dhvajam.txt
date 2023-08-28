@@ -1,5 +1,11 @@
-~~Title:dhvajam~~
-{{description>flag; flagged; flags.}}
+---json
+{
+    "name":"dhvajam",
+    "h1":"dhvajam",
+    "title":"dhvajam -- synonyms, prabhupada.io",
+    "description":"flag; flagged; flags."
+}
+---
 
 ==== dhvajam  ====
   * flag --- [[books:sb:7:10:65-66|SB 7.10.65-66]]

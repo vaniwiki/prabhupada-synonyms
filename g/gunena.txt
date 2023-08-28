@@ -1,5 +1,11 @@
-~~Title:guṇena~~
-{{description>by good qualities; by the qualities; with a good quality.}}
+---json
+{
+    "name":"guṇena",
+    "h1":"guṇena",
+    "title":"guṇena -- synonyms, prabhupada.io",
+    "description":"by good qualities; by the qualities; with a good quality."
+}
+---
 
 ==== guṇena  ====
   * by good qualities --- [[books:cc:antya:1:150|Antya 1.150]]

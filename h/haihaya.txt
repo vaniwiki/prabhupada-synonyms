@@ -1,5 +1,11 @@
-~~Title:haihaya~~
-{{description>the uncivilized.}}
+---json
+{
+    "name":"haihaya",
+    "h1":"haihaya",
+    "title":"haihaya -- synonyms, prabhupada.io",
+    "description":"the uncivilized."
+}
+---
 
 ==== haihaya  ====
   * the uncivilized --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

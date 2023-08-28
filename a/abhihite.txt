@@ -1,5 +1,11 @@
-~~Title:abhihite~~
-{{description>being informed; being uttered; described.}}
+---json
+{
+    "name":"abhihite",
+    "h1":"abhihite",
+    "title":"abhihite -- synonyms, prabhupada.io",
+    "description":"being informed; being uttered; described."
+}
+---
 
 ==== abhihite  ====
   * being informed --- [[books:sb:9:23:35-36|SB 9.23.35-36]]

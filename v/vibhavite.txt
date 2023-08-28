@@ -1,5 +1,11 @@
-~~Title:vibhāvite~~
-{{description>completely purified and clean.}}
+---json
+{
+    "name":"vibhāvite",
+    "h1":"vibhāvite",
+    "title":"vibhāvite -- synonyms, prabhupada.io",
+    "description":"completely purified and clean."
+}
+---
 
 ==== yoga-vibhāvite  ====
   * completely purified and clean --- [[books:sb:8:3:27|SB 8.3.27]]

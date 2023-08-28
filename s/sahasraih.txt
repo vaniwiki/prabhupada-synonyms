@@ -1,5 +1,11 @@
-~~Title:sahasraih~~
-{{description>thousands.}}
+---json
+{
+    "name":"sahasraih",
+    "h1":"sahasraih",
+    "title":"sahasraih -- synonyms, prabhupada.io",
+    "description":"thousands."
+}
+---
 
 ==== sahasraiḥ  ====
   * thousands --- [[books:sb:9:6:22|SB 9.6.22]]

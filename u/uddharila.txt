@@ -1,5 +1,11 @@
-~~Title:uddharila~~
-{{description>delivered.}}
+---json
+{
+    "name":"uddharila",
+    "h1":"uddharila",
+    "title":"uddharila -- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== uddhārila  ====
   * delivered --- [[books:cc:adi:15:14|Ādi 15.14]]

@@ -1,5 +1,11 @@
-~~Title:vapu~~
-{{description>bodies; body.}}
+---json
+{
+    "name":"vapu",
+    "h1":"vapu",
+    "title":"vapu -- synonyms, prabhupada.io",
+    "description":"bodies; body."
+}
+---
 
 ==== vapu  ====
   * bodies --- [[books:cc:antya:18:88|Antya 18.88]]

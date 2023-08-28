@@ -1,5 +1,11 @@
-~~Title:añjana~~
-{{description>ointment; ointment or powder for decorating the eyes.}}
+---json
+{
+    "name":"añjana",
+    "h1":"añjana",
+    "title":"añjana -- synonyms, prabhupada.io",
+    "description":"ointment; ointment or powder for decorating the eyes."
+}
+---
 
 ==== añjana  ====
   * ointment --- [[books:sb:1:8:31|SB 1.8.31]], [[books:cc:antya:15:64|Antya 15.64]]

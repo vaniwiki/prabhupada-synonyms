@@ -1,5 +1,11 @@
-~~Title:japati~~
-{{description>utters.}}
+---json
+{
+    "name":"japati",
+    "h1":"japati",
+    "title":"japati -- synonyms, prabhupada.io",
+    "description":"utters."
+}
+---
 
 ==== japati  ====
   * utters --- [[books:sb:4:7:29|SB 4.7.29]]

@@ -1,5 +1,11 @@
-~~Title:muktim~~
-{{description>liberation; liberation from material bondage; salvation.}}
+---json
+{
+    "name":"muktim",
+    "h1":"muktim",
+    "title":"muktim -- synonyms, prabhupada.io",
+    "description":"liberation; liberation from material bondage; salvation."
+}
+---
 
 ==== muktim  ====
   * liberation --- [[books:sb:5:6:18|SB 5.6.18]], [[books:sb:6:3:24|SB 6.3.24]], [[books:sb:9:5:28|SB 9.5.28]], [[books:cc:adi:8:19|Ādi 8.19]], [[books:cc:antya:3:56|Antya 3.56]]

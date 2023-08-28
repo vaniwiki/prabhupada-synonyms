@@ -1,5 +1,11 @@
-~~Title:uparāgam~~
-{{description>an eclipse.}}
+---json
+{
+    "name":"uparāgam",
+    "h1":"uparāgam",
+    "title":"uparāgam -- synonyms, prabhupada.io",
+    "description":"an eclipse."
+}
+---
 
 ==== uparāgam  ====
   * an eclipse --- [[books:sb:5:24:3|SB 5.24.3]]

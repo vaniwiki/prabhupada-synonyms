@@ -1,5 +1,11 @@
-~~Title:vidadhate~~
-{{description>take to.}}
+---json
+{
+    "name":"vidadhate",
+    "h1":"vidadhate",
+    "title":"vidadhate -- synonyms, prabhupada.io",
+    "description":"take to."
+}
+---
 
 ==== vidadhate  ====
   * take to --- [[books:sb:6:3:26|SB 6.3.26]]

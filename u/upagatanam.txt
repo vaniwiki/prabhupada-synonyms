@@ -1,5 +1,11 @@
-~~Title:upāgatānām~~
-{{description>all those assembled.}}
+---json
+{
+    "name":"upāgatānām",
+    "h1":"upāgatānām",
+    "title":"upāgatānām -- synonyms, prabhupada.io",
+    "description":"all those assembled."
+}
+---
 
 ==== upāgatānām  ====
   * all those assembled --- [[books:sb:1:15:7|SB 1.15.7]]

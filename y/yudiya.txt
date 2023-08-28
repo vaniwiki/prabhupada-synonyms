@@ -1,5 +1,11 @@
-~~Title:yuḍiyā~~
-{{description>with arrows in the hand.}}
+---json
+{
+    "name":"yuḍiyā",
+    "h1":"yuḍiyā",
+    "title":"yuḍiyā -- synonyms, prabhupada.io",
+    "description":"with arrows in the hand."
+}
+---
 
 ==== bāṇa yuḍiyā  ====
   * with arrows in the hand --- [[books:cc:madhya:24:234|Madhya 24.234]]

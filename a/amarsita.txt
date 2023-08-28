@@ -1,5 +1,11 @@
-~~Title:amarṣitā~~
-{{description>being very angry.}}
+---json
+{
+    "name":"amarṣitā",
+    "h1":"amarṣitā",
+    "title":"amarṣitā -- synonyms, prabhupada.io",
+    "description":"being very angry."
+}
+---
 
 ==== amarṣitā  ====
   * being very angry --- [[books:sb:9:23:35-36|SB 9.23.35-36]]

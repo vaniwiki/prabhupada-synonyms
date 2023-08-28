@@ -1,5 +1,11 @@
-~~Title:pratyāgamana~~
-{{description>returning.}}
+---json
+{
+    "name":"pratyāgamana",
+    "h1":"pratyāgamana",
+    "title":"pratyāgamana -- synonyms, prabhupada.io",
+    "description":"returning."
+}
+---
 
 ==== pratyāgamana  ====
   * returning --- [[books:sb:9:5:18|SB 9.5.18]]

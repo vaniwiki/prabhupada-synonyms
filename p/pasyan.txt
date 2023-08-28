@@ -1,5 +1,11 @@
-~~Title:paśyan~~
-{{description>always trying to see or understand; by seeing; having been experienced; looking; realizing the position; seeing; seeing definitely; seeing like that.}}
+---json
+{
+    "name":"paśyan",
+    "h1":"paśyan",
+    "title":"paśyan -- synonyms, prabhupada.io",
+    "description":"always trying to see or understand; by seeing; having been experienced; looking; realizing the position; seeing; seeing definitely; seeing like that."
+}
+---
 
 ==== paśyan  ====
   * always trying to see or understand --- [[books:sb:7:13:5|SB 7.13.5]]

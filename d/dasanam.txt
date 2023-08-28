@@ -1,5 +1,11 @@
-~~Title:dasanam~~
-{{description>of conditions of misery; ten.}}
+---json
+{
+    "name":"dasanam",
+    "h1":"dasanam",
+    "title":"dasanam -- synonyms, prabhupada.io",
+    "description":"of conditions of misery; ten."
+}
+---
 
 ==== daśānām  ====
   * of conditions of misery --- [[books:sb:5:14:25|SB 5.14.25]]

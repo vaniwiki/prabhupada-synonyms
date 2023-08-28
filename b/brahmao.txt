@@ -1,5 +1,11 @@
-~~Title:brahmāo~~
-{{description>even Lord Brahmā.}}
+---json
+{
+    "name":"brahmāo",
+    "h1":"brahmāo",
+    "title":"brahmāo -- synonyms, prabhupada.io",
+    "description":"even Lord Brahmā."
+}
+---
 
 ==== brahmāo  ====
   * even Lord Brahmā --- [[books:cc:antya:14:118|Antya 14.118]]

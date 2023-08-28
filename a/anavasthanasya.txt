@@ -1,5 +1,11 @@
-~~Title:anavasthānasya~~
-{{description>being unsteady.}}
+---json
+{
+    "name":"anavasthānasya",
+    "h1":"anavasthānasya",
+    "title":"anavasthānasya -- synonyms, prabhupada.io",
+    "description":"being unsteady."
+}
+---
 
 ==== anavasthānasya  ====
   * being unsteady --- [[books:sb:5:6:2|SB 5.6.2]]

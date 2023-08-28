@@ -1,5 +1,11 @@
-~~Title:kahon~~
-{{description>I declare; I speak; we say.}}
+---json
+{
+    "name":"kahon",
+    "h1":"kahon",
+    "title":"kahon -- synonyms, prabhupada.io",
+    "description":"I declare; I speak; we say."
+}
+---
 
 ==== kahoṅ  ====
   * I declare --- [[books:cc:adi:17:32|Ādi 17.32]]

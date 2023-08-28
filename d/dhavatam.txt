@@ -1,5 +1,11 @@
-~~Title:dhāvatām~~
-{{description>running.}}
+---json
+{
+    "name":"dhāvatām",
+    "h1":"dhāvatām",
+    "title":"dhāvatām -- synonyms, prabhupada.io",
+    "description":"running."
+}
+---
 
 ==== dhāvatām  ====
   * running --- [[books:sb:4:14:38|SB 4.14.38]]

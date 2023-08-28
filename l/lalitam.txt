@@ -1,5 +1,11 @@
-~~Title:lalitam~~
-{{description>lalita; very gently; very nicely; very sweetly.}}
+---json
+{
+    "name":"lalitam",
+    "h1":"lalitam",
+    "title":"lalitam -- synonyms, prabhupada.io",
+    "description":"lalita; very gently; very nicely; very sweetly."
+}
+---
 
 ==== lalitam  ====
   * lalita --- [[books:cc:madhya:14:192|Madhya 14.192]]

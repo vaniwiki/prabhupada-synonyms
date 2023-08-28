@@ -1,5 +1,11 @@
-~~Title:śauca~~
-{{description>cleanliness; washed; washing.}}
+---json
+{
+    "name":"śauca",
+    "h1":"śauca",
+    "title":"śauca -- synonyms, prabhupada.io",
+    "description":"cleanliness; washed; washing."
+}
+---
 
 ==== śauca  ====
   * cleanliness --- [[books:sb:5:9:6|SB 5.9.6]], [[books:cc:madhya:24:331|Madhya 24.331]]

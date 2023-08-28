@@ -1,5 +1,11 @@
-~~Title:vidhāsyāmaḥ~~
-{{description>we shall make.}}
+---json
+{
+    "name":"vidhāsyāmaḥ",
+    "h1":"vidhāsyāmaḥ",
+    "title":"vidhāsyāmaḥ -- synonyms, prabhupada.io",
+    "description":"we shall make."
+}
+---
 
 ==== vidhāsyāmaḥ  ====
   * we shall make --- [[books:cc:madhya:2:36|Madhya 2.36]]

@@ -1,5 +1,11 @@
-~~Title:phut~~
-{{description>hissing sounds.}}
+---json
+{
+    "name":"phut",
+    "h1":"phut",
+    "title":"phut -- synonyms, prabhupada.io",
+    "description":"hissing sounds."
+}
+---
 
 ==== phūt-kārān  ====
   * hissing sounds --- [[books:sb:3:17:5|SB 3.17.5]]

@@ -1,5 +1,11 @@
-~~Title:anusevayā~~
-{{description>bringing into use; by dint of rendering continuous service.}}
+---json
+{
+    "name":"anusevayā",
+    "h1":"anusevayā",
+    "title":"anusevayā -- synonyms, prabhupada.io",
+    "description":"bringing into use; by dint of rendering continuous service."
+}
+---
 
 ==== anusevayā  ====
   * bringing into use --- [[books:sb:1:1:15|SB 1.1.15]]

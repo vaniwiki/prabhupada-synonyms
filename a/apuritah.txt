@@ -1,5 +1,11 @@
-~~Title:āpūritāḥ~~
-{{description>filled; populated.}}
+---json
+{
+    "name":"āpūritāḥ",
+    "h1":"āpūritāḥ",
+    "title":"āpūritāḥ -- synonyms, prabhupada.io",
+    "description":"filled; populated."
+}
+---
 
 ==== āpūritāḥ  ====
   * filled --- [[books:sb:6:4:17|SB 6.4.17]]

@@ -1,5 +1,11 @@
-~~Title:niṣkrāmaṇa~~
-{{description>going away.}}
+---json
+{
+    "name":"niṣkrāmaṇa",
+    "h1":"niṣkrāmaṇa",
+    "title":"niṣkrāmaṇa -- synonyms, prabhupada.io",
+    "description":"going away."
+}
+---
 
 ==== niṣkrāmaṇa  ====
   * going away --- [[books:cc:antya:11:96|Antya 11.96]]

@@ -1,5 +1,11 @@
-~~Title:niśchidram~~
-{{description>without discrepancy.}}
+---json
+{
+    "name":"niśchidram",
+    "h1":"niśchidram",
+    "title":"niśchidram -- synonyms, prabhupada.io",
+    "description":"without discrepancy."
+}
+---
 
 ==== niśchidram  ====
   * without discrepancy --- [[books:sb:8:23:16|SB 8.23.16]]

@@ -1,5 +1,11 @@
-~~Title:gaṇḍāra~~
-{{description>rhinoceros.}}
+---json
+{
+    "name":"gaṇḍāra",
+    "h1":"gaṇḍāra",
+    "title":"gaṇḍāra -- synonyms, prabhupada.io",
+    "description":"rhinoceros."
+}
+---
 
 ==== gaṇḍāra  ====
   * rhinoceros --- [[books:cc:madhya:17:26|Madhya 17.26]]

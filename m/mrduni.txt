@@ -1,5 +1,11 @@
-~~Title:mṛdūni~~
-{{description>softer.}}
+---json
+{
+    "name":"mṛdūni",
+    "h1":"mṛdūni",
+    "title":"mṛdūni -- synonyms, prabhupada.io",
+    "description":"softer."
+}
+---
 
 ==== mṛdūni  ====
   * softer --- [[books:cc:madhya:7:73|Madhya 7.73]]

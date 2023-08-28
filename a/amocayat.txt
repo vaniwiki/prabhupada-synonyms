@@ -1,5 +1,11 @@
-~~Title:amocayat~~
-{{description>delivered.}}
+---json
+{
+    "name":"amocayat",
+    "h1":"amocayat",
+    "title":"amocayat -- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== amocayat  ====
   * delivered --- [[books:sb:3:19:35|SB 3.19.35]]

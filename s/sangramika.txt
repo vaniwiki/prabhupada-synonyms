@@ -1,5 +1,11 @@
-~~Title:sāṅgrāmika~~
-{{description>equipped with all kinds of weapons required for fighting with all different types of enemies.}}
+---json
+{
+    "name":"sāṅgrāmika",
+    "h1":"sāṅgrāmika",
+    "title":"sāṅgrāmika -- synonyms, prabhupada.io",
+    "description":"equipped with all kinds of weapons required for fighting with all different types of enemies."
+}
+---
 
 ==== sāṅgrāmika-upetam  ====
   * equipped with all kinds of weapons required for fighting with all different types of enemies --- [[books:sb:8:10:16-18|SB 8.10.16-18]]

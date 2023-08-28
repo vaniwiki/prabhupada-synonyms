@@ -1,5 +1,11 @@
-~~Title:vriyatām~~
-{{description>asked you to open your minds; let it be submitted.}}
+---json
+{
+    "name":"vriyatām",
+    "h1":"vriyatām",
+    "title":"vriyatām -- synonyms, prabhupada.io",
+    "description":"asked you to open your minds; let it be submitted."
+}
+---
 
 ==== vriyatām  ====
   * asked you to open your minds --- [[books:sb:10:3:37-38|SB 10.3.37-38]]

@@ -1,5 +1,11 @@
-~~Title:ankena~~
-{{description>who always carries the mark of Śrīvatsa on His breast.}}
+---json
+{
+    "name":"ankena",
+    "h1":"ankena",
+    "title":"ankena -- synonyms, prabhupada.io",
+    "description":"who always carries the mark of Śrīvatsa on His breast."
+}
+---
 
 ==== śrīvatsa-aṅkena  ====
   * who always carries the mark of Śrīvatsa on His breast --- [[books:sb:8:12:41|SB 8.12.41]]

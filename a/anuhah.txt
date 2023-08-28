@@ -1,5 +1,11 @@
-~~Title:anuhah~~
-{{description>without consideration.}}
+---json
+{
+    "name":"anuhah",
+    "h1":"anuhah",
+    "title":"anuhah -- synonyms, prabhupada.io",
+    "description":"without consideration."
+}
+---
 
 ==== anūhaḥ  ====
   * without consideration --- [[books:sb:3:18:12|SB 3.18.12]]

@@ -1,5 +1,11 @@
-~~Title:śṛtam~~
-{{description>cooked.}}
+---json
+{
+    "name":"śṛtam",
+    "h1":"śṛtam",
+    "title":"śṛtam -- synonyms, prabhupada.io",
+    "description":"cooked."
+}
+---
 
 ==== śṛtam  ====
   * cooked --- [[books:sb:8:16:40|SB 8.16.40]]

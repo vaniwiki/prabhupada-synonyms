@@ -1,5 +1,11 @@
-~~Title:śāsanam~~
-{{description>injunction; punisher; ruling order; the ruling jurisdiction.}}
+---json
+{
+    "name":"śāsanam",
+    "h1":"śāsanam",
+    "title":"śāsanam -- synonyms, prabhupada.io",
+    "description":"injunction; punisher; ruling order; the ruling jurisdiction."
+}
+---
 
 ==== śāsanam  ====
   * injunction --- [[books:sb:1:8:50|SB 1.8.50]]

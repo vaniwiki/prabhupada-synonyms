@@ -1,5 +1,11 @@
-~~Title:siṁha~~
-{{description>a lion; lion; lions; the lion.}}
+---json
+{
+    "name":"siṁha",
+    "h1":"siṁha",
+    "title":"siṁha -- synonyms, prabhupada.io",
+    "description":"a lion; lion; lions; the lion."
+}
+---
 
 ==== siṁha  ====
   * a lion --- [[books:sb:4:24:49|SB 4.24.49]]

@@ -1,5 +1,11 @@
-~~Title:śuninu~~
-{{description>what did I hear.}}
+---json
+{
+    "name":"śuninu",
+    "h1":"śuninu",
+    "title":"śuninu -- synonyms, prabhupada.io",
+    "description":"what did I hear."
+}
+---
 
 ==== ki śuninu  ====
   * what did I hear --- [[books:cc:adi:5:198|Ādi 5.198]]

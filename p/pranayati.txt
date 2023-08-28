@@ -1,5 +1,11 @@
-~~Title:praṇayati~~
-{{description>inflicts; leads to.}}
+---json
+{
+    "name":"praṇayati",
+    "h1":"praṇayati",
+    "title":"praṇayati -- synonyms, prabhupada.io",
+    "description":"inflicts; leads to."
+}
+---
 
 ==== praṇayati  ====
   * inflicts --- [[books:sb:5:26:16|SB 5.26.16]]

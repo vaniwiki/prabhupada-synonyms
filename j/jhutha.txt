@@ -1,5 +1,11 @@
-~~Title:jhutha~~
-{{description>remnants of food.}}
+---json
+{
+    "name":"jhutha",
+    "h1":"jhutha",
+    "title":"jhutha -- synonyms, prabhupada.io",
+    "description":"remnants of food."
+}
+---
 
 ==== jhuṭha  ====
   * remnants of food --- [[books:cc:madhya:3:87|Madhya 3.87]]

@@ -1,5 +1,11 @@
-~~Title:tantau~~
-{{description>descending line.}}
+---json
+{
+    "name":"tantau",
+    "h1":"tantau",
+    "title":"tantau -- synonyms, prabhupada.io",
+    "description":"descending line."
+}
+---
 
 ==== prajā-tantau  ====
   * descending line --- [[books:sb:1:12:15|SB 1.12.15]]

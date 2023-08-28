@@ -1,5 +1,11 @@
-~~Title:thali~~
-{{description>the plate.}}
+---json
+{
+    "name":"thali",
+    "h1":"thali",
+    "title":"thali -- synonyms, prabhupada.io",
+    "description":"the plate."
+}
+---
 
 ==== thāli  ====
   * the plate --- [[books:cc:madhya:9:54|Madhya 9.54]], [[books:cc:madhya:9:55|Madhya 9.55]], [[books:cc:madhya:9:56|Madhya 9.56]]

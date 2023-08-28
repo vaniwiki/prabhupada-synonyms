@@ -1,5 +1,11 @@
-~~Title:varyān~~
-{{description>only unto the demigods.}}
+---json
+{
+    "name":"varyān",
+    "h1":"varyān",
+    "title":"varyān -- synonyms, prabhupada.io",
+    "description":"only unto the demigods."
+}
+---
 
 ==== amara-varyān  ====
   * only unto the demigods --- [[books:sb:8:12:47|SB 8.12.47]]

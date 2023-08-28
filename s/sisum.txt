@@ -1,5 +1,11 @@
-~~Title:śiśum~~
-{{description>a baby was found.}}
+---json
+{
+    "name":"śiśum",
+    "h1":"śiśum",
+    "title":"śiśum -- synonyms, prabhupada.io",
+    "description":"a baby was found."
+}
+---
 
 ==== śiśum  ====
   * a baby was found --- [[books:sb:9:23:13|SB 9.23.13]]

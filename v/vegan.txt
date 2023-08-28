@@ -1,5 +1,11 @@
-~~Title:vegān~~
-{{description>urges.}}
+---json
+{
+    "name":"vegān",
+    "h1":"vegān",
+    "title":"vegān -- synonyms, prabhupada.io",
+    "description":"urges."
+}
+---
 
 ==== vegān  ====
   * urges --- [[books:noi:1|NoI 1]]

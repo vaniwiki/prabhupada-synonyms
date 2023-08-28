@@ -1,5 +1,11 @@
-~~Title:itivat~~
-{{description>in this way, by one rāma, many rāmas are indicated.}}
+---json
+{
+    "name":"itivat",
+    "h1":"itivat",
+    "title":"itivat -- synonyms, prabhupada.io",
+    "description":"in this way, by one rāma, many rāmas are indicated."
+}
+---
 
 ==== rāmāḥ itivat  ====
   * in this way, by one //rāma,// many //rāmas// are indicated --- [[books:cc:madhya:24:151|Madhya 24.151]]

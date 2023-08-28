@@ -1,5 +1,11 @@
-~~Title:acchūri~~
-{{description>disc.}}
+---json
+{
+    "name":"acchūri",
+    "h1":"acchūri",
+    "title":"acchūri -- synonyms, prabhupada.io",
+    "description":"disc."
+}
+---
 
 ==== acchūri  ====
   * disc --- [[books:sb:5:3:3|SB 5.3.3]]

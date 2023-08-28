@@ -1,5 +1,11 @@
-~~Title:kaṇaḥ~~
-{{description>spiritual particle.}}
+---json
+{
+    "name":"kaṇaḥ",
+    "h1":"kaṇaḥ",
+    "title":"kaṇaḥ -- synonyms, prabhupada.io",
+    "description":"spiritual particle."
+}
+---
 
 ==== cit-kaṇaḥ  ====
   * spiritual particle --- [[books:cc:madhya:19:140|Madhya 19.140]]

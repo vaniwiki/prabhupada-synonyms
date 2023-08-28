@@ -1,5 +1,11 @@
-~~Title:śapanti~~
-{{description>condemn; curse; will do harm.}}
+---json
+{
+    "name":"śapanti",
+    "h1":"śapanti",
+    "title":"śapanti -- synonyms, prabhupada.io",
+    "description":"condemn; curse; will do harm."
+}
+---
 
 ==== śapanti  ====
   * condemn --- [[books:sb:10:2:22|SB 10.2.22]]

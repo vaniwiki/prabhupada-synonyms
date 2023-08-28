@@ -1,5 +1,11 @@
-~~Title:purana~~
-{{description>Purāṇas; old history recorded in the stories of the purāṇas; supplement to the Vedas; the Purāṇas; the subject matter explained in the Purāṇas, the old histories, especially the Matsya Purāṇa; the supplementary Vedic literatures called the Purāṇas.}}
+---json
+{
+    "name":"purana",
+    "h1":"purana",
+    "title":"purana -- synonyms, prabhupada.io",
+    "description":"Purāṇas; old history recorded in the stories of the purāṇas; supplement to the Vedas; the Purāṇas; the subject matter explained in the Purāṇas, the old histories, especially the Matsya Purāṇa; the supplementary Vedic literatures called the Purāṇas."
+}
+---
 
 ==== purāṇa  ====
   * //Purāṇas// --- [[books:cc:madhya:9:42|Madhya 9.42]]

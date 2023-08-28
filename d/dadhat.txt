@@ -1,5 +1,11 @@
-~~Title:dadhat~~
-{{description>concentrating; exhibiting; gave attention; holding; manifested; obtaining; one should keep; oozing forth; placed.}}
+---json
+{
+    "name":"dadhat",
+    "h1":"dadhat",
+    "title":"dadhat -- synonyms, prabhupada.io",
+    "description":"concentrating; exhibiting; gave attention; holding; manifested; obtaining; one should keep; oozing forth; placed."
+}
+---
 
 ==== dadhat  ====
   * concentrating --- [[books:sb:9:5:26|SB 9.5.26]]

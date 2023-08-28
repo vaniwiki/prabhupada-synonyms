@@ -1,5 +1,11 @@
-~~Title:prasaṅgānām~~
-{{description>of Your loving devotees.}}
+---json
+{
+    "name":"prasaṅgānām",
+    "h1":"prasaṅgānām",
+    "title":"prasaṅgānām -- synonyms, prabhupada.io",
+    "description":"of Your loving devotees."
+}
+---
 
 ==== bhavat-prasaṅgānām  ====
   * of Your loving devotees --- [[books:sb:4:30:33|SB 4.30.33]]

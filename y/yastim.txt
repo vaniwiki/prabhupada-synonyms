@@ -1,5 +1,11 @@
-~~Title:yaṣṭim~~
-{{description>the stick in her hand.}}
+---json
+{
+    "name":"yaṣṭim",
+    "h1":"yaṣṭim",
+    "title":"yaṣṭim -- synonyms, prabhupada.io",
+    "description":"the stick in her hand."
+}
+---
 
 ==== yaṣṭim  ====
   * the stick in her hand --- [[books:sb:10:9:12|SB 10.9.12]]

@@ -1,5 +1,11 @@
-~~Title:grastān~~
-{{description>captured; lost.}}
+---json
+{
+    "name":"grastān",
+    "h1":"grastān",
+    "title":"grastān -- synonyms, prabhupada.io",
+    "description":"captured; lost."
+}
+---
 
 ==== grastān  ====
   * captured --- [[books:cc:madhya:9:1|Madhya 9.1]]

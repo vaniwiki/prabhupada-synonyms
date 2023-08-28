@@ -1,5 +1,11 @@
-~~Title:sparśavat~~
-{{description>with touch.}}
+---json
+{
+    "name":"sparśavat",
+    "h1":"sparśavat",
+    "title":"sparśavat -- synonyms, prabhupada.io",
+    "description":"with touch."
+}
+---
 
 ==== sparśavat  ====
   * with touch --- [[books:sb:2:5:26-29|SB 2.5.26-29]]

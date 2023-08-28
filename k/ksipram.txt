@@ -1,5 +1,11 @@
-~~Title:kṣipram~~
-{{description>very quickly; very soon.}}
+---json
+{
+    "name":"kṣipram",
+    "h1":"kṣipram",
+    "title":"kṣipram -- synonyms, prabhupada.io",
+    "description":"very quickly; very soon."
+}
+---
 
 ==== kṣipram  ====
   * very quickly --- [[books:bg:4:12|Bg. 4.12]]

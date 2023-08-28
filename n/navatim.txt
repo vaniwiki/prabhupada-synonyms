@@ -1,5 +1,11 @@
-~~Title:navatim~~
-{{description>ninety.}}
+---json
+{
+    "name":"navatim",
+    "h1":"navatim",
+    "title":"navatim -- synonyms, prabhupada.io",
+    "description":"ninety."
+}
+---
 
 ==== navatim  ====
   * ninety --- [[books:sb:3:30:24|SB 3.30.24]]

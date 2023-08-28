@@ -1,5 +1,11 @@
-~~Title:rāddha~~
-{{description>having attained a boon.}}
+---json
+{
+    "name":"rāddha",
+    "h1":"rāddha",
+    "title":"rāddha -- synonyms, prabhupada.io",
+    "description":"having attained a boon."
+}
+---
 
 ==== rāddha-varaḥ  ====
   * having attained a boon --- [[books:sb:3:18:22-23|SB 3.18.22-23]]

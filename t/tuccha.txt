@@ -1,5 +1,11 @@
-~~Title:tuccha~~
-{{description>insignificant; insignificant, menial; menial.}}
+---json
+{
+    "name":"tuccha",
+    "h1":"tuccha",
+    "title":"tuccha -- synonyms, prabhupada.io",
+    "description":"insignificant; insignificant, menial; menial."
+}
+---
 
 ==== tuccha  ====
   * insignificant --- [[books:cc:madhya:22:18|Madhya 22.18]]

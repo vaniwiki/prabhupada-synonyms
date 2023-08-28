@@ -1,5 +1,11 @@
-~~Title:punīhi~~
-{{description>sanctify.}}
+---json
+{
+    "name":"punīhi",
+    "h1":"punīhi",
+    "title":"punīhi -- synonyms, prabhupada.io",
+    "description":"sanctify."
+}
+---
 
 ==== punīhi  ====
   * sanctify --- [[books:sb:4:7:33|SB 4.7.33]]

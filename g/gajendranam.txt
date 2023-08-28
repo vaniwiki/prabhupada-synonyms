@@ -1,5 +1,11 @@
-~~Title:gajendrāṇām~~
-{{description>of elephants.}}
+---json
+{
+    "name":"gajendrāṇām",
+    "h1":"gajendrāṇām",
+    "title":"gajendrāṇām -- synonyms, prabhupada.io",
+    "description":"of elephants."
+}
+---
 
 ==== gajendrāṇām  ====
   * of elephants --- [[books:bg:10:27|Bg. 10.27]]

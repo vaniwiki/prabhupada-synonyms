@@ -1,5 +1,11 @@
-~~Title:pralāpinu~~
-{{description>spoke in craziness.}}
+---json
+{
+    "name":"pralāpinu",
+    "h1":"pralāpinu",
+    "title":"pralāpinu -- synonyms, prabhupada.io",
+    "description":"spoke in craziness."
+}
+---
 
 ==== pralāpinu  ====
   * spoke in craziness --- [[books:cc:madhya:2:39|Madhya 2.39]]

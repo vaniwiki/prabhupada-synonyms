@@ -1,5 +1,11 @@
-~~Title:kṣipet~~
-{{description>should criticize.}}
+---json
+{
+    "name":"kṣipet",
+    "h1":"kṣipet",
+    "title":"kṣipet -- synonyms, prabhupada.io",
+    "description":"should criticize."
+}
+---
 
 ==== kṣipet  ====
   * should criticize --- [[books:sb:4:4:19|SB 4.4.19]]

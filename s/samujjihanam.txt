@@ -1,5 +1,11 @@
-~~Title:samujjihānam~~
-{{description>now appearing before us with all glories.}}
+---json
+{
+    "name":"samujjihānam",
+    "h1":"samujjihānam",
+    "title":"samujjihānam -- synonyms, prabhupada.io",
+    "description":"now appearing before us with all glories."
+}
+---
 
 ==== samujjihānam  ====
   * now appearing before us with all glories --- [[books:sb:8:6:13|SB 8.6.13]]

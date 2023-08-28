@@ -1,5 +1,11 @@
-~~Title:khilam~~
-{{description>incapable; inferior.}}
+---json
+{
+    "name":"khilam",
+    "h1":"khilam",
+    "title":"khilam -- synonyms, prabhupada.io",
+    "description":"incapable; inferior."
+}
+---
 
 ==== khilam  ====
   * incapable --- [[books:sb:6:4:49-50|SB 6.4.49-50]]

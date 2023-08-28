@@ -1,5 +1,11 @@
-~~Title:asannyasta~~
-{{description>without giving up.}}
+---json
+{
+    "name":"asannyasta",
+    "h1":"asannyasta",
+    "title":"asannyasta -- synonyms, prabhupada.io",
+    "description":"without giving up."
+}
+---
 
 ==== asannyasta  ====
   * without giving up --- [[books:bg:6:2|Bg. 6.2]]

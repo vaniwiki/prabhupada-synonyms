@@ -1,5 +1,11 @@
-~~Title:durmarsah~~
-{{description>being in a very angry mood; Durmarṣa; Lord Paraśurāma, being exceedingly angry.}}
+---json
+{
+    "name":"durmarsah",
+    "h1":"durmarsah",
+    "title":"durmarsah -- synonyms, prabhupada.io",
+    "description":"being in a very angry mood; Durmarṣa; Lord Paraśurāma, being exceedingly angry."
+}
+---
 
 ==== durmarṣaḥ  ====
   * being in a very angry mood --- [[books:sb:8:10:43|SB 8.10.43]]

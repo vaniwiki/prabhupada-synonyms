@@ -1,5 +1,11 @@
-~~Title:mekhalā~~
-{{description>a belt made of straw; belt.}}
+---json
+{
+    "name":"mekhalā",
+    "h1":"mekhalā",
+    "title":"mekhalā -- synonyms, prabhupada.io",
+    "description":"a belt made of straw; belt."
+}
+---
 
 ==== mekhalā  ====
   * a belt made of straw --- [[books:sb:7:12:4|SB 7.12.4]]

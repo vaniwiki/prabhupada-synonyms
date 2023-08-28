@@ -1,5 +1,11 @@
-~~Title:dāna~~
-{{description>as charity; by charity; charities; charity; distribution; gift; giving; in charity; the gift; this charity.}}
+---json
+{
+    "name":"dāna",
+    "h1":"dāna",
+    "title":"dāna -- synonyms, prabhupada.io",
+    "description":"as charity; by charity; charities; charity; distribution; gift; giving; in charity; the gift; this charity."
+}
+---
 
 ==== dāna  ====
   * as charity --- [[books:cc:antya:20:59|Antya 20.59]]

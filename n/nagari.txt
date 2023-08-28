@@ -1,5 +1,11 @@
-~~Title:nagari~~
-{{description>the town.}}
+---json
+{
+    "name":"nagari",
+    "h1":"nagari",
+    "title":"nagari -- synonyms, prabhupada.io",
+    "description":"the town."
+}
+---
 
 ==== nagarī  ====
   * the town --- [[books:cc:adi:4:84|Ādi 4.84]]

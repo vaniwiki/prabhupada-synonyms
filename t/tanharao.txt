@@ -1,5 +1,11 @@
-~~Title:tāṅhārāo~~
-{{description>all of them also.}}
+---json
+{
+    "name":"tāṅhārāo",
+    "h1":"tāṅhārāo",
+    "title":"tāṅhārāo -- synonyms, prabhupada.io",
+    "description":"all of them also."
+}
+---
 
 ==== tāṅhārāo  ====
   * all of them also --- [[books:cc:adi:6:72|Ādi 6.72]]

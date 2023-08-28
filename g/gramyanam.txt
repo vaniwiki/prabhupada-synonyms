@@ -1,5 +1,11 @@
-~~Title:grāmyāṇām~~
-{{description>of ordinary householders.}}
+---json
+{
+    "name":"grāmyāṇām",
+    "h1":"grāmyāṇām",
+    "title":"grāmyāṇām -- synonyms, prabhupada.io",
+    "description":"of ordinary householders."
+}
+---
 
 ==== grāmyāṇām  ====
   * of ordinary householders --- [[books:sb:3:24:29|SB 3.24.29]]

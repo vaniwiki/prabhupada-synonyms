@@ -1,5 +1,11 @@
-~~Title:ārambha~~
-{{description>begin; beginning; the beginning.}}
+---json
+{
+    "name":"ārambha",
+    "h1":"ārambha",
+    "title":"ārambha -- synonyms, prabhupada.io",
+    "description":"begin; beginning; the beginning."
+}
+---
 
 ==== ārambha  ====
   * begin --- [[books:cc:adi:16:4|Ādi 16.4]]

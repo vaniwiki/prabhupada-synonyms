@@ -1,5 +1,11 @@
-~~Title:viharatām~~
-{{description>who are proceeding.}}
+---json
+{
+    "name":"viharatām",
+    "h1":"viharatām",
+    "title":"viharatām -- synonyms, prabhupada.io",
+    "description":"who are proceeding."
+}
+---
 
 ==== viharatām  ====
   * who are proceeding --- [[books:sb:5:9:17|SB 5.9.17]]

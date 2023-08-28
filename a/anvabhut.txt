@@ -1,5 +1,11 @@
-~~Title:anvabhūt~~
-{{description>adopted.}}
+---json
+{
+    "name":"anvabhūt",
+    "h1":"anvabhūt",
+    "title":"anvabhūt -- synonyms, prabhupada.io",
+    "description":"adopted."
+}
+---
 
 ==== anvabhūt  ====
   * adopted --- [[books:sb:9:23:17|SB 9.23.17]]

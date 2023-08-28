@@ -1,5 +1,11 @@
-~~Title:amanuta~~
-{{description>he thought.}}
+---json
+{
+    "name":"amanuta",
+    "h1":"amanuta",
+    "title":"amanuta -- synonyms, prabhupada.io",
+    "description":"he thought."
+}
+---
 
 ==== amanuta  ====
   * he thought --- [[books:sb:4:29:4|SB 4.29.4]]

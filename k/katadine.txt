@@ -1,5 +1,11 @@
-~~Title:katadine~~
-{{description>in some days.}}
+---json
+{
+    "name":"katadine",
+    "h1":"katadine",
+    "title":"katadine -- synonyms, prabhupada.io",
+    "description":"in some days."
+}
+---
 
 ==== katadine  ====
   * in some days --- [[books:cc:madhya:1:128|Madhya 1.128]]

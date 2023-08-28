@@ -1,5 +1,11 @@
-~~Title:randhreṇa~~
-{{description>through the holes of the ears.}}
+---json
+{
+    "name":"randhreṇa",
+    "h1":"randhreṇa",
+    "title":"randhreṇa -- synonyms, prabhupada.io",
+    "description":"through the holes of the ears."
+}
+---
 
 ==== karṇa-randhreṇa  ====
   * through the holes of the ears --- [[books:sb:2:8:5|SB 2.8.5]]

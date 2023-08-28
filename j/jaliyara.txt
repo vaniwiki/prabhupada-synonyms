@@ -1,5 +1,11 @@
-~~Title:jāliyāra~~
-{{description>of the fisherman.}}
+---json
+{
+    "name":"jāliyāra",
+    "h1":"jāliyāra",
+    "title":"jāliyāra -- synonyms, prabhupada.io",
+    "description":"of the fisherman."
+}
+---
 
 ==== jāliyāra  ====
   * of the fisherman --- [[books:cc:antya:18:45|Antya 18.45]]

@@ -1,5 +1,11 @@
-~~Title:asṛṣṭa~~
-{{description>without distribution of prasādam.}}
+---json
+{
+    "name":"asṛṣṭa",
+    "h1":"asṛṣṭa",
+    "title":"asṛṣṭa -- synonyms, prabhupada.io",
+    "description":"without distribution of prasādam."
+}
+---
 
 ==== asṛṣṭa-annam  ====
   * without distribution of //prasādam// --- [[books:bg:17:13|Bg. 17.13]]

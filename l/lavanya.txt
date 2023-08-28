@@ -1,5 +1,11 @@
-~~Title:lāvaṇya~~
-{{description>beauty.}}
+---json
+{
+    "name":"lāvaṇya",
+    "h1":"lāvaṇya",
+    "title":"lāvaṇya -- synonyms, prabhupada.io",
+    "description":"beauty."
+}
+---
 
 ==== lāvaṇya  ====
   * beauty --- [[books:cc:antya:15:67|Antya 15.67]]

@@ -1,5 +1,11 @@
-~~Title:vikarah~~
-{{description>material ego; reaction; transformation; transformation or the false ego.}}
+---json
+{
+    "name":"vikarah",
+    "h1":"vikarah",
+    "title":"vikarah -- synonyms, prabhupada.io",
+    "description":"material ego; reaction; transformation; transformation or the false ego."
+}
+---
 
 ==== vikāraḥ  ====
   * material ego --- [[books:sb:2:6:42|SB 2.6.42]]

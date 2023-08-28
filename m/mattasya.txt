@@ -1,5 +1,11 @@
-~~Title:mattasya~~
-{{description>of one who is mad; of the illusioned.}}
+---json
+{
+    "name":"mattasya",
+    "h1":"mattasya",
+    "title":"mattasya -- synonyms, prabhupada.io",
+    "description":"of one who is mad; of the illusioned."
+}
+---
 
 ==== mattasya  ====
   * of one who is mad --- [[books:sb:6:5:16|SB 6.5.16]]

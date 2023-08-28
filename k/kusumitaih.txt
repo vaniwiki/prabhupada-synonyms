@@ -1,5 +1,11 @@
-~~Title:kusumitaiḥ~~
-{{description>with flowers and fruits.}}
+---json
+{
+    "name":"kusumitaiḥ",
+    "h1":"kusumitaiḥ",
+    "title":"kusumitaiḥ -- synonyms, prabhupada.io",
+    "description":"with flowers and fruits."
+}
+---
 
 ==== kusumitaiḥ  ====
   * with flowers and fruits --- [[books:sb:3:33:18|SB 3.33.18]]

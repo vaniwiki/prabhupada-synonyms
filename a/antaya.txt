@@ -1,5 +1,11 @@
-~~Title:antāya~~
-{{description>for destruction.}}
+---json
+{
+    "name":"antāya",
+    "h1":"antāya",
+    "title":"antāya -- synonyms, prabhupada.io",
+    "description":"for destruction."
+}
+---
 
 ==== antāya  ====
   * for destruction --- [[books:sb:3:31:29|SB 3.31.29]]

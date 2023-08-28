@@ -1,5 +1,11 @@
-~~Title:kuṇḍalau~~
-{{description>with earrings.}}
+---json
+{
+    "name":"kuṇḍalau",
+    "h1":"kuṇḍalau",
+    "title":"kuṇḍalau -- synonyms, prabhupada.io",
+    "description":"with earrings."
+}
+---
 
 ==== kuṇḍalau  ====
   * with earrings --- [[books:sb:4:12:20|SB 4.12.20]]

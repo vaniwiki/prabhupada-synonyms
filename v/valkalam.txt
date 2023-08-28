@@ -1,5 +1,11 @@
-~~Title:valkalam~~
-{{description>bark; covering cloth.}}
+---json
+{
+    "name":"valkalam",
+    "h1":"valkalam",
+    "title":"valkalam -- synonyms, prabhupada.io",
+    "description":"bark; covering cloth."
+}
+---
 
 ==== valkalam  ====
   * bark --- [[books:sb:7:13:39|SB 7.13.39]]

@@ -1,5 +1,11 @@
-~~Title:agadam~~
-{{description>medicine; the medicine.}}
+---json
+{
+    "name":"agadam",
+    "h1":"agadam",
+    "title":"agadam -- synonyms, prabhupada.io",
+    "description":"medicine; the medicine."
+}
+---
 
 ==== agadam  ====
   * medicine --- [[books:sb:6:2:19|SB 6.2.19]], [[books:sb:7:9:19|SB 7.9.19]]

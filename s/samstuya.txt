@@ -1,5 +1,11 @@
-~~Title:saṁstūya~~
-{{description>congratulating.}}
+---json
+{
+    "name":"saṁstūya",
+    "h1":"saṁstūya",
+    "title":"saṁstūya -- synonyms, prabhupada.io",
+    "description":"congratulating."
+}
+---
 
 ==== saṁstūya  ====
   * congratulating --- [[books:sb:1:4:1|SB 1.4.1]]

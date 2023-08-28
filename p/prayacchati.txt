@@ -1,5 +1,11 @@
-~~Title:prayacchati~~
-{{description>awarding; awards; delivers; gives; offers.}}
+---json
+{
+    "name":"prayacchati",
+    "h1":"prayacchati",
+    "title":"prayacchati -- synonyms, prabhupada.io",
+    "description":"awarding; awards; delivers; gives; offers."
+}
+---
 
 ==== prayacchati  ====
   * awarding --- [[books:sb:3:5:43|SB 3.5.43]]

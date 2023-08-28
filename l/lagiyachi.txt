@@ -1,5 +1,11 @@
-~~Title:lāgiyāchi~~
-{{description>began.}}
+---json
+{
+    "name":"lāgiyāchi",
+    "h1":"lāgiyāchi",
+    "title":"lāgiyāchi -- synonyms, prabhupada.io",
+    "description":"began."
+}
+---
 
 ==== lāgiyāchi  ====
   * began --- [[books:cc:madhya:9:331|Madhya 9.331]]

@@ -1,5 +1,11 @@
-~~Title:anāryam~~
-{{description>incivility; misbehavior.}}
+---json
+{
+    "name":"anāryam",
+    "h1":"anāryam",
+    "title":"anāryam -- synonyms, prabhupada.io",
+    "description":"incivility; misbehavior."
+}
+---
 
 ==== anāryam  ====
   * incivility --- [[books:sb:1:17:32|SB 1.17.32]]

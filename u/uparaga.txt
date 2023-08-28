@@ -1,5 +1,11 @@
-~~Title:uparāga~~
-{{description>the eclipse.}}
+---json
+{
+    "name":"uparāga",
+    "h1":"uparāga",
+    "title":"uparāga -- synonyms, prabhupada.io",
+    "description":"the eclipse."
+}
+---
 
 ==== uparāga  ====
   * the eclipse --- [[books:cc:adi:13:100|Ādi 13.100]]

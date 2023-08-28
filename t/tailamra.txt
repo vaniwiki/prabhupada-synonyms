@@ -1,5 +1,11 @@
-~~Title:tailāmra~~
-{{description>mango within mustard oil.}}
+---json
+{
+    "name":"tailāmra",
+    "h1":"tailāmra",
+    "title":"tailāmra -- synonyms, prabhupada.io",
+    "description":"mango within mustard oil."
+}
+---
 
 ==== tailāmra  ====
   * mango within mustard oil --- [[books:cc:antya:10:15-16|Antya 10.15-16]]

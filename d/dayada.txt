@@ -1,5 +1,11 @@
-~~Title:dāyāda~~
-{{description>O son of a brāhmaṇa.}}
+---json
+{
+    "name":"dāyāda",
+    "h1":"dāyāda",
+    "title":"dāyāda -- synonyms, prabhupada.io",
+    "description":"O son of a brāhmaṇa."
+}
+---
 
 ==== brāhmaṇa-dāyāda  ====
   * O son of a //brāhmaṇa// --- [[books:sb:8:19:18|SB 8.19.18]]

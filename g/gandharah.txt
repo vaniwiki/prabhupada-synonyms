@@ -1,5 +1,11 @@
-~~Title:gāndhāraḥ~~
-{{description>a son named Gāndhāra.}}
+---json
+{
+    "name":"gāndhāraḥ",
+    "h1":"gāndhāraḥ",
+    "title":"gāndhāraḥ -- synonyms, prabhupada.io",
+    "description":"a son named Gāndhāra."
+}
+---
 
 ==== gāndhāraḥ  ====
   * a son named Gāndhāra --- [[books:sb:9:23:15|SB 9.23.15]]

@@ -1,5 +1,11 @@
-~~Title:niyamaiḥ~~
-{{description>by discipline; by regulative principles; by strictly following the rules and regulations.}}
+---json
+{
+    "name":"niyamaiḥ",
+    "h1":"niyamaiḥ",
+    "title":"niyamaiḥ -- synonyms, prabhupada.io",
+    "description":"by discipline; by regulative principles; by strictly following the rules and regulations."
+}
+---
 
 ==== niyamaiḥ  ====
   * by discipline --- [[books:sb:3:21:23|SB 3.21.23]]

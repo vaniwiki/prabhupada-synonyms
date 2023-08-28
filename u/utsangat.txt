@@ -1,5 +1,11 @@
-~~Title:utsaṅgāt~~
-{{description>by transcendental deliberation.}}
+---json
+{
+    "name":"utsaṅgāt",
+    "h1":"utsaṅgāt",
+    "title":"utsaṅgāt -- synonyms, prabhupada.io",
+    "description":"by transcendental deliberation."
+}
+---
 
 ==== utsaṅgāt  ====
   * by transcendental deliberation --- [[books:sb:3:12:23|SB 3.12.23]]

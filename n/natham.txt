@@ -1,5 +1,11 @@
-~~Title:nātham~~
-{{description>to the Supreme Person, the controller of everything.}}
+---json
+{
+    "name":"nātham",
+    "h1":"nātham",
+    "title":"nātham -- synonyms, prabhupada.io",
+    "description":"to the Supreme Person, the controller of everything."
+}
+---
 
 ==== akhila-loka-nātham  ====
   * to the Supreme Person, the controller of everything --- [[books:sb:10:10:28|SB 10.10.28]]

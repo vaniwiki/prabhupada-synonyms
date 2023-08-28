@@ -1,5 +1,11 @@
-~~Title:mamrire~~
-{{description>died.}}
+---json
+{
+    "name":"mamrire",
+    "h1":"mamrire",
+    "title":"mamrire -- synonyms, prabhupada.io",
+    "description":"died."
+}
+---
 
 ==== mamrire  ====
   * died --- [[books:sb:6:18:72|SB 6.18.72]]

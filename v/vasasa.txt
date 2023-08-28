@@ -1,5 +1,11 @@
-~~Title:vasasa~~
-{{description>by clothing; garments.}}
+---json
+{
+    "name":"vasasa",
+    "h1":"vasasa",
+    "title":"vasasa -- synonyms, prabhupada.io",
+    "description":"by clothing; garments."
+}
+---
 
 ==== vāsasā  ====
   * by clothing --- [[books:sb:3:8:28|SB 3.8.28]]

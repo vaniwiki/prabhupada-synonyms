@@ -1,5 +1,11 @@
-~~Title:rākhiyā~~
-{{description>keeping.}}
+---json
+{
+    "name":"rākhiyā",
+    "h1":"rākhiyā",
+    "title":"rākhiyā -- synonyms, prabhupada.io",
+    "description":"keeping."
+}
+---
 
 ==== rākhiyā  ====
   * keeping --- [[books:cc:madhya:16:276|Madhya 16.276]]

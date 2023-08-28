@@ -1,5 +1,11 @@
-~~Title:sāmnā~~
-{{description>mitigating words.}}
+---json
+{
+    "name":"sāmnā",
+    "h1":"sāmnā",
+    "title":"sāmnā -- synonyms, prabhupada.io",
+    "description":"mitigating words."
+}
+---
 
 ==== sāmnā  ====
   * mitigating words --- [[books:sb:4:28:51|SB 4.28.51]]

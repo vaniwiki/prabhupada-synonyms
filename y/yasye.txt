@@ -1,5 +1,11 @@
-~~Title:yāsye~~
-{{description>I shall go; I shall go down; shall go.}}
+---json
+{
+    "name":"yāsye",
+    "h1":"yāsye",
+    "title":"yāsye -- synonyms, prabhupada.io",
+    "description":"I shall go; I shall go down; shall go."
+}
+---
 
 ==== yāsye  ====
   * I shall go --- [[books:sb:4:12:32|SB 4.12.32]], [[books:sb:9:18:28|SB 9.18.28]]

@@ -1,5 +1,11 @@
-~~Title:pāvaka~~
-{{description>all of them equal to fire in brightness and beauty.}}
+---json
+{
+    "name":"pāvaka",
+    "h1":"pāvaka",
+    "title":"pāvaka -- synonyms, prabhupada.io",
+    "description":"all of them equal to fire in brightness and beauty."
+}
+---
 
 ==== pāvaka-upamāḥ  ====
   * all of them equal to fire in brightness and beauty --- [[books:sb:10:4:5|SB 10.4.5]]

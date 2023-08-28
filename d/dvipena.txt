@@ -1,5 +1,11 @@
-~~Title:dvīpena~~
-{{description>by a complete island.}}
+---json
+{
+    "name":"dvīpena",
+    "h1":"dvīpena",
+    "title":"dvīpena -- synonyms, prabhupada.io",
+    "description":"by a complete island."
+}
+---
 
 ==== dvīpena  ====
   * by a complete island --- [[books:sb:8:19:22|SB 8.19.22]]

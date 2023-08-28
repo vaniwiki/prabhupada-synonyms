@@ -1,5 +1,11 @@
-~~Title:saṁsargeṇa~~
-{{description>by connection.}}
+---json
+{
+    "name":"saṁsargeṇa",
+    "h1":"saṁsargeṇa",
+    "title":"saṁsargeṇa -- synonyms, prabhupada.io",
+    "description":"by connection."
+}
+---
 
 ==== saṁsargeṇa  ====
   * by connection --- [[books:sb:5:1:36|SB 5.1.36]]

@@ -1,5 +1,11 @@
-~~Title:yajamānī~~
-{{description>the wife of Dakṣa.}}
+---json
+{
+    "name":"yajamānī",
+    "h1":"yajamānī",
+    "title":"yajamānī -- synonyms, prabhupada.io",
+    "description":"the wife of Dakṣa."
+}
+---
 
 ==== yajamānī  ====
   * the wife of Dakṣa --- [[books:sb:4:7:36|SB 4.7.36]]

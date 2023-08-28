@@ -1,5 +1,11 @@
-~~Title:anuvartate~~
-{{description>follow; follow in the footsteps; follows.}}
+---json
+{
+    "name":"anuvartate",
+    "h1":"anuvartate",
+    "title":"anuvartate -- synonyms, prabhupada.io",
+    "description":"follow; follow in the footsteps; follows."
+}
+---
 
 ==== anuvartate  ====
   * follow --- [[books:sb:4:4:19|SB 4.4.19]], [[books:sb:5:4:15|SB 5.4.15]], [[books:cc:adi:3:25|Ādi 3.25]], [[books:cc:madhya:17:178|Madhya 17.178]]

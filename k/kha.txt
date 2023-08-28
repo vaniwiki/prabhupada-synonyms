@@ -1,5 +1,11 @@
-~~Title:kha~~
-{{description>ether.}}
+---json
+{
+    "name":"kha",
+    "h1":"kha",
+    "title":"kha -- synonyms, prabhupada.io",
+    "description":"ether."
+}
+---
 
 ==== kha  ====
   * ether --- [[books:cc:adi:5:72|Ādi 5.72]]

@@ -1,5 +1,11 @@
-~~Title:guruke~~
-{{description>to the spiritual master.}}
+---json
+{
+    "name":"guruke",
+    "h1":"guruke",
+    "title":"guruke -- synonyms, prabhupada.io",
+    "description":"to the spiritual master."
+}
+---
 
 ==== guruke  ====
   * to the spiritual master --- [[books:cc:madhya:24:264|Madhya 24.264]]

@@ -1,5 +1,11 @@
-~~Title:adhomukha~~
-{{description>looking down.}}
+---json
+{
+    "name":"adhomukha",
+    "h1":"adhomukha",
+    "title":"adhomukha -- synonyms, prabhupada.io",
+    "description":"looking down."
+}
+---
 
 ==== adhomukha hañā  ====
   * looking down --- [[books:cc:madhya:13:165|Madhya 13.165]]

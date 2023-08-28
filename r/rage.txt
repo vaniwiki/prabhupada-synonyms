@@ -1,5 +1,11 @@
-~~Title:rāge~~
-{{description>by the reddish color; in love.}}
+---json
+{
+    "name":"rāge",
+    "h1":"rāge",
+    "title":"rāge -- synonyms, prabhupada.io",
+    "description":"by the reddish color; in love."
+}
+---
 
 ==== rāge  ====
   * by the reddish color --- [[books:cc:madhya:8:173|Madhya 8.173]]

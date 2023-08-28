@@ -1,5 +1,11 @@
-~~Title:mālinīḥ~~
-{{description>containing rows.}}
+---json
+{
+    "name":"mālinīḥ",
+    "h1":"mālinīḥ",
+    "title":"mālinīḥ -- synonyms, prabhupada.io",
+    "description":"containing rows."
+}
+---
 
 ==== mālinīḥ  ====
   * containing rows --- [[books:sb:4:6:31|SB 4.6.31]]

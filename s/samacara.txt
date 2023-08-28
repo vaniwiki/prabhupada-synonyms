@@ -1,5 +1,11 @@
-~~Title:samacara~~
-{{description>do it perfectly; perform.}}
+---json
+{
+    "name":"samacara",
+    "h1":"samacara",
+    "title":"samacara -- synonyms, prabhupada.io",
+    "description":"do it perfectly; perform."
+}
+---
 
 ==== samācara  ====
   * do it perfectly --- [[books:bg:3:9|Bg. 3.9]]

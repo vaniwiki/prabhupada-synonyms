@@ -1,5 +1,11 @@
-~~Title:sarayū~~
-{{description>Sarayū.}}
+---json
+{
+    "name":"sarayū",
+    "h1":"sarayū",
+    "title":"sarayū -- synonyms, prabhupada.io",
+    "description":"Sarayū."
+}
+---
 
 ==== sarayū  ====
   * Sarayū --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

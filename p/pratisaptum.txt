@@ -1,5 +1,11 @@
-~~Title:pratiśaptum~~
-{{description>to make a counter-curse.}}
+---json
+{
+    "name":"pratiśaptum",
+    "h1":"pratiśaptum",
+    "title":"pratiśaptum -- synonyms, prabhupada.io",
+    "description":"to make a counter-curse."
+}
+---
 
 ==== pratiśaptum  ====
   * to make a counter-curse --- [[books:sb:6:17:37|SB 6.17.37]]

@@ -1,5 +1,11 @@
-~~Title:prajastvam~~
-{{description>having ten thousand well-behaved sons; the most beautiful son.}}
+---json
+{
+    "name":"prajastvam",
+    "h1":"prajastvam",
+    "title":"prajastvam -- synonyms, prabhupada.io",
+    "description":"having ten thousand well-behaved sons; the most beautiful son."
+}
+---
 
 ==== su-prajastvam  ====
   * having ten thousand well-behaved sons --- [[books:sb:6:5:23|SB 6.5.23]]

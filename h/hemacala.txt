@@ -1,5 +1,11 @@
-~~Title:hemācala~~
-{{description>Himalayan mountain.}}
+---json
+{
+    "name":"hemācala",
+    "h1":"hemācala",
+    "title":"hemācala -- synonyms, prabhupada.io",
+    "description":"Himalayan mountain."
+}
+---
 
 ==== hemācala  ====
   * Himalayan mountain --- [[books:cc:madhya:13:173|Madhya 13.173]]

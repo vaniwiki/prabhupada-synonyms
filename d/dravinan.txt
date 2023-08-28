@@ -1,5 +1,11 @@
-~~Title:draviṇān~~
-{{description>those who possess wealth.}}
+---json
+{
+    "name":"draviṇān",
+    "h1":"draviṇān",
+    "title":"draviṇān -- synonyms, prabhupada.io",
+    "description":"those who possess wealth."
+}
+---
 
 ==== draviṇān  ====
   * those who possess wealth --- [[books:sb:5:14:12|SB 5.14.12]]

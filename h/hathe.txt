@@ -1,5 +1,11 @@
-~~Title:haṭhe~~
-{{description>has taken up a persistently angry mood.}}
+---json
+{
+    "name":"haṭhe",
+    "h1":"haṭhe",
+    "title":"haṭhe -- synonyms, prabhupada.io",
+    "description":"has taken up a persistently angry mood."
+}
+---
 
 ==== haṭhe paḍiyāche  ====
   * has taken up a persistently angry mood --- [[books:cc:antya:2:139|Antya 2.139]]

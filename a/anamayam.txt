@@ -1,5 +1,11 @@
-~~Title:anāmayam~~
-{{description>all-auspicious inquiries; health; health is all right; quite hale and hearty; without any sinful reachon; without miseries.}}
+---json
+{
+    "name":"anāmayam",
+    "h1":"anāmayam",
+    "title":"anāmayam -- synonyms, prabhupada.io",
+    "description":"all-auspicious inquiries; health; health is all right; quite hale and hearty; without any sinful reachon; without miseries."
+}
+---
 
 ==== anāmayam  ====
   * all-auspicious inquiries --- [[books:sb:10:5:22|SB 10.5.22]]

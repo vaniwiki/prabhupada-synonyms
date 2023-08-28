@@ -1,5 +1,11 @@
-~~Title:prasādakarila~~
-{{description>bestowed mercy.}}
+---json
+{
+    "name":"prasādakarila",
+    "h1":"prasādakarila",
+    "title":"prasādakarila -- synonyms, prabhupada.io",
+    "description":"bestowed mercy."
+}
+---
 
 ==== prasādakarila  ====
   * bestowed mercy --- [[books:cc:madhya:1:101|Madhya 1.101]]

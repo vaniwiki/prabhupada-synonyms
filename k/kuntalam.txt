@@ -1,5 +1,11 @@
-~~Title:kuntalam~~
-{{description>adorned with curled hair.}}
+---json
+{
+    "name":"kuntalam",
+    "h1":"kuntalam",
+    "title":"kuntalam -- synonyms, prabhupada.io",
+    "description":"adorned with curled hair."
+}
+---
 
 ==== kuṭila-kuntalam  ====
   * adorned with curled hair --- [[books:cc:adi:4:152|Ādi 4.152]], [[books:cc:madhya:21:124|Madhya 21.124]]

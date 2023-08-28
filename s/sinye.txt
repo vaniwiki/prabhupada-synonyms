@@ -1,5 +1,11 @@
-~~Title:siṅye~~
-{{description>sewing.}}
+---json
+{
+    "name":"siṅye",
+    "h1":"siṅye",
+    "title":"siṅye -- synonyms, prabhupada.io",
+    "description":"sewing."
+}
+---
 
 ==== siṅye  ====
   * sewing --- [[books:cc:adi:17:231|Ādi 17.231]]

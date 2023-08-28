@@ -1,5 +1,11 @@
-~~Title:abhipṛcche~~
-{{description>I am inquiring.}}
+---json
+{
+    "name":"abhipṛcche",
+    "h1":"abhipṛcche",
+    "title":"abhipṛcche -- synonyms, prabhupada.io",
+    "description":"I am inquiring."
+}
+---
 
 ==== ā sma abhipṛcche  ====
   * I am inquiring --- [[books:sb:3:24:34|SB 3.24.34]]

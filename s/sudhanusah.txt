@@ -1,5 +1,11 @@
-~~Title:sudhanuṣaḥ~~
-{{description>from Sudhanu.}}
+---json
+{
+    "name":"sudhanuṣaḥ",
+    "h1":"sudhanuṣaḥ",
+    "title":"sudhanuṣaḥ -- synonyms, prabhupada.io",
+    "description":"from Sudhanu."
+}
+---
 
 ==== sudhanuṣaḥ  ====
   * from Sudhanu --- [[books:sb:9:22:4-5|SB 9.22.4-5]]

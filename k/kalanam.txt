@@ -1,5 +1,11 @@
-~~Title:kalānām~~
-{{description>of plenary portions.}}
+---json
+{
+    "name":"kalānām",
+    "h1":"kalānām",
+    "title":"kalānām -- synonyms, prabhupada.io",
+    "description":"of plenary portions."
+}
+---
 
 ==== kalānām  ====
   * of plenary portions --- [[books:sb:8:12:43|SB 8.12.43]]

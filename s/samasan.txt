@@ -1,5 +1,11 @@
-~~Title:samāsan~~
-{{description>sufficiently became.}}
+---json
+{
+    "name":"samāsan",
+    "h1":"samāsan",
+    "title":"samāsan -- synonyms, prabhupada.io",
+    "description":"sufficiently became."
+}
+---
 
 ==== samāsan  ====
   * sufficiently became --- [[books:sb:5:11:3|SB 5.11.3]]

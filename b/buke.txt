@@ -1,5 +1,11 @@
-~~Title:buke~~
-{{description>on the chest.}}
+---json
+{
+    "name":"buke",
+    "h1":"buke",
+    "title":"buke -- synonyms, prabhupada.io",
+    "description":"on the chest."
+}
+---
 
 ==== buke  ====
   * on the chest --- [[books:cc:adi:17:181|Ādi 17.181]], [[books:cc:madhya:15:252|Madhya 15.252]], [[books:cc:madhya:15:273|Madhya 15.273]]

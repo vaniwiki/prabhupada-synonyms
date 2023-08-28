@@ -1,5 +1,11 @@
-~~Title:bhajaya~~
-{{description>perform devotional service; renders loving service; renders service; worship; worships.}}
+---json
+{
+    "name":"bhajaya",
+    "h1":"bhajaya",
+    "title":"bhajaya -- synonyms, prabhupada.io",
+    "description":"perform devotional service; renders loving service; renders service; worship; worships."
+}
+---
 
 ==== bhajaya  ====
   * perform devotional service --- [[books:cc:madhya:24:224|Madhya 24.224]]

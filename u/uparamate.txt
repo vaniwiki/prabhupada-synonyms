@@ -1,5 +1,11 @@
-~~Title:uparamate~~
-{{description>when one feels transcendental happiness.}}
+---json
+{
+    "name":"uparamate",
+    "h1":"uparamate",
+    "title":"uparamate -- synonyms, prabhupada.io",
+    "description":"when one feels transcendental happiness."
+}
+---
 
 ==== uparamate  ====
   * when one feels transcendental happiness --- [[books:bg:6:20-23|Bg. 6.20-23]]

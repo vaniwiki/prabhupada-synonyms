@@ -1,5 +1,11 @@
-~~Title:vivarjitam~~
-{{description>being without; devoid of.}}
+---json
+{
+    "name":"vivarjitam",
+    "h1":"vivarjitam",
+    "title":"vivarjitam -- synonyms, prabhupada.io",
+    "description":"being without; devoid of."
+}
+---
 
 ==== vivarjitam  ====
   * being without --- [[books:bg:13:15|Bg. 13.15]]

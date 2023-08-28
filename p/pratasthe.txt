@@ -1,5 +1,11 @@
-~~Title:pratasthe~~
-{{description>departed; started for.}}
+---json
+{
+    "name":"pratasthe",
+    "h1":"pratasthe",
+    "title":"pratasthe -- synonyms, prabhupada.io",
+    "description":"departed; started for."
+}
+---
 
 ==== pratasthe  ====
   * departed --- [[books:sb:4:20:20|SB 4.20.20]]

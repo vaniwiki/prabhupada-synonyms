@@ -1,5 +1,11 @@
-~~Title:svanayan~~
-{{description>crying.}}
+---json
+{
+    "name":"svanayan",
+    "h1":"svanayan",
+    "title":"svanayan -- synonyms, prabhupada.io",
+    "description":"crying."
+}
+---
 
 ==== svanayan  ====
   * crying --- [[books:sb:5:26:16|SB 5.26.16]]

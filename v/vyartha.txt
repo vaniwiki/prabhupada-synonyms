@@ -1,5 +1,11 @@
-~~Title:vyartha~~
-{{description>for nothing; futile; meaningless; unnecessarily; untruthful; useless.}}
+---json
+{
+    "name":"vyartha",
+    "h1":"vyartha",
+    "title":"vyartha -- synonyms, prabhupada.io",
+    "description":"for nothing; futile; meaningless; unnecessarily; untruthful; useless."
+}
+---
 
 ==== vyartha  ====
   * for nothing --- [[books:sb:1:16:9|SB 1.16.9]]

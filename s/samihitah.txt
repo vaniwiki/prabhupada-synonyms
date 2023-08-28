@@ -1,5 +1,11 @@
-~~Title:samīhitaḥ~~
-{{description>performed.}}
+---json
+{
+    "name":"samīhitaḥ",
+    "h1":"samīhitaḥ",
+    "title":"samīhitaḥ -- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== samīhitaḥ  ====
   * performed --- [[books:sb:6:1:45|SB 6.1.45]]

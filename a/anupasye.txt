@@ -1,5 +1,11 @@
-~~Title:anupaśye~~
-{{description>do I see.}}
+---json
+{
+    "name":"anupaśye",
+    "h1":"anupaśye",
+    "title":"anupaśye -- synonyms, prabhupada.io",
+    "description":"do I see."
+}
+---
 
 ==== anupaśye  ====
   * do I see --- [[books:sb:7:9:44|SB 7.9.44]]

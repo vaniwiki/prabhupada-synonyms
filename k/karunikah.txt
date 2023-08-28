@@ -1,5 +1,11 @@
-~~Title:karunikah~~
-{{description>kind; naturally very affectionate or merciful to the fallen souls; very merciful to all.}}
+---json
+{
+    "name":"karunikah",
+    "h1":"karunikah",
+    "title":"karunikah -- synonyms, prabhupada.io",
+    "description":"kind; naturally very affectionate or merciful to the fallen souls; very merciful to all."
+}
+---
 
 ==== kāruṇikaḥ  ====
   * kind --- [[books:sb:4:3:14|SB 4.3.14]]

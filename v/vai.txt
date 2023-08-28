@@ -1,5 +1,11 @@
-~~Title:vai~~
-{{description>actually; also; always; as a matter of course; as a matter of fact; as either; as I remember; as they are; but; by providence; certainly; duly; easily; either; even; even though; exactly; from whom everything is coming; generally; however; in fact; in particular; in that way; indeed; is certainly; of course; or; positively; undoubtedly; what else is there to say; without fail.}}
+---json
+{
+    "name":"vai",
+    "h1":"vai",
+    "title":"vai -- synonyms, prabhupada.io",
+    "description":"actually; also; always; as a matter of course; as a matter of fact; as either; as I remember; as they are; but; by providence; certainly; duly; easily; either; even; even though; exactly; from whom everything is coming; generally; however; in fact; in particular; in that way; indeed; is certainly; of course; or; positively; undoubtedly; what else is there to say; without fail."
+}
+---
 
 ==== vai  ====
   * actually --- [[books:sb:1:2:27|SB 1.2.27]]

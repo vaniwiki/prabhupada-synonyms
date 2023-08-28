@@ -1,5 +1,11 @@
-~~Title:viruddha~~
-{{description>contradiction; opposing; the Viruddhas.}}
+---json
+{
+    "name":"viruddha",
+    "h1":"viruddha",
+    "title":"viruddha -- synonyms, prabhupada.io",
+    "description":"contradiction; opposing; the Viruddhas."
+}
+---
 
 ==== viruddha  ====
   * contradiction --- [[books:cc:adi:16:64|Ādi 16.64]]

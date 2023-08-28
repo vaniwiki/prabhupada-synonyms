@@ -1,5 +1,11 @@
-~~Title:prajalpaḥ~~
-{{description>idle talk.}}
+---json
+{
+    "name":"prajalpaḥ",
+    "h1":"prajalpaḥ",
+    "title":"prajalpaḥ -- synonyms, prabhupada.io",
+    "description":"idle talk."
+}
+---
 
 ==== prajalpaḥ  ====
   * idle talk --- [[books:noi:2|NoI 2]]

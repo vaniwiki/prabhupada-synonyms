@@ -1,5 +1,11 @@
-~~Title:ajira~~
-{{description>courtyards.}}
+---json
+{
+    "name":"ajira",
+    "h1":"ajira",
+    "title":"ajira -- synonyms, prabhupada.io",
+    "description":"courtyards."
+}
+---
 
 ==== ajira  ====
   * courtyards --- [[books:sb:10:5:6|SB 10.5.6]]

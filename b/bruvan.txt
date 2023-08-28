@@ -1,5 +1,11 @@
-~~Title:bruvan~~
-{{description>accepting; murmuring; speaking; talking; while talking.}}
+---json
+{
+    "name":"bruvan",
+    "h1":"bruvan",
+    "title":"bruvan -- synonyms, prabhupada.io",
+    "description":"accepting; murmuring; speaking; talking; while talking."
+}
+---
 
 ==== bruvan  ====
   * accepting --- [[books:sb:4:29:62|SB 4.29.62]]

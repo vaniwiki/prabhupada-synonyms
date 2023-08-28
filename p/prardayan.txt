@@ -1,5 +1,11 @@
-~~Title:prārdayan~~
-{{description>giving trouble.}}
+---json
+{
+    "name":"prārdayan",
+    "h1":"prārdayan",
+    "title":"prārdayan -- synonyms, prabhupada.io",
+    "description":"giving trouble."
+}
+---
 
 ==== prārdayan  ====
   * giving trouble --- [[books:sb:4:28:4|SB 4.28.4]]

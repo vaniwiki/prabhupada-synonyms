@@ -1,5 +1,11 @@
-~~Title:vicārite~~
-{{description>considering; to consider; to deliberate; while considering.}}
+---json
+{
+    "name":"vicārite",
+    "h1":"vicārite",
+    "title":"vicārite -- synonyms, prabhupada.io",
+    "description":"considering; to consider; to deliberate; while considering."
+}
+---
 
 ==== vicārite  ====
   * considering --- [[books:cc:antya:16:121-122|Antya 16.121-122]]

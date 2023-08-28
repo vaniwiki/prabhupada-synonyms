@@ -1,5 +1,11 @@
-~~Title:kiyat~~
-{{description>a little; how little; how much; insignificant; is unnecessary; of small value; to some extent; what is the value of.}}
+---json
+{
+    "name":"kiyat",
+    "h1":"kiyat",
+    "title":"kiyat -- synonyms, prabhupada.io",
+    "description":"a little; how little; how much; insignificant; is unnecessary; of small value; to some extent; what is the value of."
+}
+---
 
 ==== kiyat  ====
   * a little --- [[books:cc:madhya:23:29|Madhya 23.29]]

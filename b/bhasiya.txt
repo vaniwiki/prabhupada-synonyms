@@ -1,5 +1,11 @@
-~~Title:bhāsiyā~~
-{{description>floating.}}
+---json
+{
+    "name":"bhāsiyā",
+    "h1":"bhāsiyā",
+    "title":"bhāsiyā -- synonyms, prabhupada.io",
+    "description":"floating."
+}
+---
 
 ==== bhāsiyā  ====
   * floating --- [[books:cc:madhya:14:90|Madhya 14.90]]

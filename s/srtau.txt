@@ -1,5 +1,11 @@
-~~Title:sṛtau~~
-{{description>in the material world.}}
+---json
+{
+    "name":"sṛtau",
+    "h1":"sṛtau",
+    "title":"sṛtau -- synonyms, prabhupada.io",
+    "description":"in the material world."
+}
+---
 
 ==== sṛtau  ====
   * in the material world --- [[books:sb:3:2:13|SB 3.2.13]]

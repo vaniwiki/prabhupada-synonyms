@@ -1,5 +1,11 @@
-~~Title:vati~~
-{{description>blowing; blows; emanate; flows.}}
+---json
+{
+    "name":"vati",
+    "h1":"vati",
+    "title":"vati -- synonyms, prabhupada.io",
+    "description":"blowing; blows; emanate; flows."
+}
+---
 
 ==== vāti  ====
   * blowing --- [[books:sb:1:14:16|SB 1.14.16]]

@@ -1,5 +1,11 @@
-~~Title:indave~~
-{{description>unto the moon-god.}}
+---json
+{
+    "name":"indave",
+    "h1":"indave",
+    "title":"indave -- synonyms, prabhupada.io",
+    "description":"unto the moon-god."
+}
+---
 
 ==== indave  ====
   * unto the moon-god --- [[books:sb:6:6:2|SB 6.6.2]]

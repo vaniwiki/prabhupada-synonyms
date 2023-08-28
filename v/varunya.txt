@@ -1,5 +1,11 @@
-~~Title:vāruṇyā~~
-{{description>named Vāruṇī.}}
+---json
+{
+    "name":"vāruṇyā",
+    "h1":"vāruṇyā",
+    "title":"vāruṇyā -- synonyms, prabhupada.io",
+    "description":"named Vāruṇī."
+}
+---
 
 ==== vāruṇyā  ====
   * named Vāruṇī --- [[books:sb:10:10:19|SB 10.10.19]]

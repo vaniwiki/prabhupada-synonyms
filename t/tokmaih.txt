@@ -1,5 +1,11 @@
-~~Title:tokmaiḥ~~
-{{description>minerals.}}
+---json
+{
+    "name":"tokmaiḥ",
+    "h1":"tokmaiḥ",
+    "title":"tokmaiḥ -- synonyms, prabhupada.io",
+    "description":"minerals."
+}
+---
 
 ==== tokmaiḥ  ====
   * minerals --- [[books:sb:4:21:2|SB 4.21.2]]

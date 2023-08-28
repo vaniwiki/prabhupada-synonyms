@@ -1,5 +1,11 @@
-~~Title:sanniveśaḥ~~
-{{description>arrangement; as they are located; Sanniveśa.}}
+---json
+{
+    "name":"sanniveśaḥ",
+    "h1":"sanniveśaḥ",
+    "title":"sanniveśaḥ -- synonyms, prabhupada.io",
+    "description":"arrangement; as they are located; Sanniveśa."
+}
+---
 
 ==== sanniveśaḥ  ====
   * arrangement --- [[books:sb:3:26:15|SB 3.26.15]]

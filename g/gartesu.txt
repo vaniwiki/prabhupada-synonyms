@@ -1,5 +1,11 @@
-~~Title:garteṣu~~
-{{description>in the holes.}}
+---json
+{
+    "name":"garteṣu",
+    "h1":"garteṣu",
+    "title":"garteṣu -- synonyms, prabhupada.io",
+    "description":"in the holes."
+}
+---
 
 ==== garteṣu  ====
   * in the holes --- [[books:sb:3:13:34|SB 3.13.34]]

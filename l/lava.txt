@@ -1,5 +1,11 @@
-~~Title:lava~~
-{{description>a fraction; fragment; small particle.}}
+---json
+{
+    "name":"lava",
+    "h1":"lava",
+    "title":"lava -- synonyms, prabhupada.io",
+    "description":"a fraction; fragment; small particle."
+}
+---
 
 ==== lava  ====
   * a fraction --- [[books:cc:antya:16:131|Antya 16.131]]

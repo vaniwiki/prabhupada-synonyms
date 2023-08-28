@@ -1,5 +1,11 @@
-~~Title:durgandhaḥ~~
-{{description>the bad smell.}}
+---json
+{
+    "name":"durgandhaḥ",
+    "h1":"durgandhaḥ",
+    "title":"durgandhaḥ -- synonyms, prabhupada.io",
+    "description":"the bad smell."
+}
+---
 
 ==== durgandhaḥ  ====
   * the bad smell --- [[books:sb:10:12:23|SB 10.12.23]]

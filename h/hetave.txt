@@ -1,5 +1,11 @@
-~~Title:hetave~~
-{{description>for the purpose of; for the sake of; the original cause; the root cause; to cause.}}
+---json
+{
+    "name":"hetave",
+    "h1":"hetave",
+    "title":"hetave -- synonyms, prabhupada.io",
+    "description":"for the purpose of; for the sake of; the original cause; the root cause; to cause."
+}
+---
 
 ==== hetave  ====
   * for the purpose of --- [[books:sb:8:1:14|SB 8.1.14]]

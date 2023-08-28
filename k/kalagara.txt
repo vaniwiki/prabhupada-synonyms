@@ -1,5 +1,11 @@
-~~Title:kālagara~~
-{{description>Kālagara.}}
+---json
+{
+    "name":"kālagara",
+    "h1":"kālagara",
+    "title":"kālagara -- synonyms, prabhupada.io",
+    "description":"Kālagara."
+}
+---
 
 ==== kālagara  ====
   * Kālagara --- [[books:sb:8:7:32|SB 8.7.32]]

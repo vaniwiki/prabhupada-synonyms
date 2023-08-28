@@ -1,5 +1,11 @@
-~~Title:cadila~~
-{{description>got up; started; went up.}}
+---json
+{
+    "name":"cadila",
+    "h1":"cadila",
+    "title":"cadila -- synonyms, prabhupada.io",
+    "description":"got up; started; went up."
+}
+---
 
 ==== caḍila  ====
   * got up --- [[books:cc:madhya:13:22|Madhya 13.22]]

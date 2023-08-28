@@ -1,5 +1,11 @@
-~~Title:avidvān~~
-{{description>one who is foolish, without knowledge; rascal; without knowledge of.}}
+---json
+{
+    "name":"avidvān",
+    "h1":"avidvān",
+    "title":"avidvān -- synonyms, prabhupada.io",
+    "description":"one who is foolish, without knowledge; rascal; without knowledge of."
+}
+---
 
 ==== avidvān  ====
   * one who is foolish, without knowledge --- [[books:sb:6:12:12|SB 6.12.12]]

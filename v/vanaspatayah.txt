@@ -1,5 +1,11 @@
-~~Title:vanaspatayaḥ~~
-{{description>along with flowers and leaves.}}
+---json
+{
+    "name":"vanaspatayaḥ",
+    "h1":"vanaspatayaḥ",
+    "title":"vanaspatayaḥ -- synonyms, prabhupada.io",
+    "description":"along with flowers and leaves."
+}
+---
 
 ==== sa-vanaspatayaḥ  ====
   * along with flowers and leaves --- [[books:sb:2:6:24|SB 2.6.24]]

@@ -1,5 +1,11 @@
-~~Title:bhavan~~
-{{description>O father; O my Lord; of yourself; unto you; You; you are; you are that person; you yourself; your good self; Your Goodness; Your Grace; Your Honor; Your Lordship (Mahārāja Parīkṣit); Your Lordship; Your Majesty; yourself.}}
+---json
+{
+    "name":"bhavan",
+    "h1":"bhavan",
+    "title":"bhavan -- synonyms, prabhupada.io",
+    "description":"O father; O my Lord; of yourself; unto you; You; you are; you are that person; you yourself; your good self; Your Goodness; Your Grace; Your Honor; Your Lordship (Mahārāja Parīkṣit); Your Lordship; Your Majesty; yourself."
+}
+---
 
 ==== bhavān  ====
   * O father --- [[books:sb:9:16:34|SB 9.16.34]]

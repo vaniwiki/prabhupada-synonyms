@@ -1,5 +1,11 @@
-~~Title:ajyam~~
-{{description>melted butter.}}
+---json
+{
+    "name":"ajyam",
+    "h1":"ajyam",
+    "title":"ajyam -- synonyms, prabhupada.io",
+    "description":"melted butter."
+}
+---
 
 ==== ajyam  ====
   * melted butter --- [[books:bg:9:16|Bg. 9.16]]

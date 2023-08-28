@@ -1,5 +1,11 @@
-~~Title:manvantaram~~
-{{description>the duration of time until the end of the life of one Manu.}}
+---json
+{
+    "name":"manvantaram",
+    "h1":"manvantaram",
+    "title":"manvantaram -- synonyms, prabhupada.io",
+    "description":"the duration of time until the end of the life of one Manu."
+}
+---
 
 ==== manvantaram  ====
   * the duration of time until the end of the life of one Manu --- [[books:sb:7:10:11|SB 7.10.11]]

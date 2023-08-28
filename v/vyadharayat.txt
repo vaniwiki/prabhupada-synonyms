@@ -1,5 +1,11 @@
-~~Title:vyadhārayat~~
-{{description>fixed.}}
+---json
+{
+    "name":"vyadhārayat",
+    "h1":"vyadhārayat",
+    "title":"vyadhārayat -- synonyms, prabhupada.io",
+    "description":"fixed."
+}
+---
 
 ==== vyadhārayat  ====
   * fixed --- [[books:sb:1:9:30|SB 1.9.30]]

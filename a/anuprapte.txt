@@ -1,5 +1,11 @@
-~~Title:anuprāpte~~
-{{description>being situated.}}
+---json
+{
+    "name":"anuprāpte",
+    "h1":"anuprāpte",
+    "title":"anuprāpte -- synonyms, prabhupada.io",
+    "description":"being situated."
+}
+---
 
 ==== anuprāpte  ====
   * being situated --- [[books:sb:4:8:76|SB 4.8.76]]

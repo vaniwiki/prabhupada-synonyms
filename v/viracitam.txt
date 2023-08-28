@@ -1,5 +1,11 @@
-~~Title:viracitam~~
-{{description>created; manufactured; meditated on; this universe, which has been created; was created.}}
+---json
+{
+    "name":"viracitam",
+    "h1":"viracitam",
+    "title":"viracitam -- synonyms, prabhupada.io",
+    "description":"created; manufactured; meditated on; this universe, which has been created; was created."
+}
+---
 
 ==== viracitam  ====
   * created --- [[books:sb:9:18:49|SB 9.18.49]]

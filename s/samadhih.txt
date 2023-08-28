@@ -1,5 +1,11 @@
-~~Title:samādhiḥ~~
-{{description>the yogic perfection of meditation; trance.}}
+---json
+{
+    "name":"samādhiḥ",
+    "h1":"samādhiḥ",
+    "title":"samādhiḥ -- synonyms, prabhupada.io",
+    "description":"the yogic perfection of meditation; trance."
+}
+---
 
 ==== samādhiḥ  ====
   * the yogic perfection of meditation --- [[books:cc:madhya:19:165|Madhya 19.165]]

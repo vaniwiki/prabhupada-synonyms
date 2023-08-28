@@ -1,5 +1,11 @@
-~~Title:nadanti~~
-{{description>are vibrating in jubilation.}}
+---json
+{
+    "name":"nadanti",
+    "h1":"nadanti",
+    "title":"nadanti -- synonyms, prabhupada.io",
+    "description":"are vibrating in jubilation."
+}
+---
 
 ==== nadanti  ====
   * are vibrating in jubilation --- [[books:sb:8:21:23|SB 8.21.23]]

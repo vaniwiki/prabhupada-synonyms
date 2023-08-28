@@ -1,5 +1,11 @@
-~~Title:saṅgīte~~
-{{description>in music.}}
+---json
+{
+    "name":"saṅgīte",
+    "h1":"saṅgīte",
+    "title":"saṅgīte -- synonyms, prabhupada.io",
+    "description":"in music."
+}
+---
 
 ==== saṅgīte  ====
   * in music --- [[books:cc:madhya:10:116|Madhya 10.116]]

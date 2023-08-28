@@ -1,5 +1,11 @@
-~~Title:tamānām~~
-{{description>of those who are great.}}
+---json
+{
+    "name":"tamānām",
+    "h1":"tamānām",
+    "title":"tamānām -- synonyms, prabhupada.io",
+    "description":"of those who are great."
+}
+---
 
 ==== mahat-tamānām  ====
   * of those who are great --- [[books:sb:1:18:18|SB 1.18.18]]

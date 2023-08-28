@@ -1,5 +1,11 @@
-~~Title:dhaila~~
-{{description>ran.}}
+---json
+{
+    "name":"dhaila",
+    "h1":"dhaila",
+    "title":"dhaila -- synonyms, prabhupada.io",
+    "description":"ran."
+}
+---
 
 ==== dhāila  ====
   * ran --- [[books:cc:madhya:15:250|Madhya 15.250]], [[books:cc:antya:14:87|Antya 14.87]]

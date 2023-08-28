@@ -1,5 +1,11 @@
-~~Title:varīyasi~~
-{{description>highly purposeful.}}
+---json
+{
+    "name":"varīyasi",
+    "h1":"varīyasi",
+    "title":"varīyasi -- synonyms, prabhupada.io",
+    "description":"highly purposeful."
+}
+---
 
 ==== varīyasi  ====
   * highly purposeful --- [[books:sb:3:1:4|SB 3.1.4]]

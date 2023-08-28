@@ -1,5 +1,11 @@
-~~Title:niṣphalam~~
-{{description>having failed; without profit, without meaning.}}
+---json
+{
+    "name":"niṣphalam",
+    "h1":"niṣphalam",
+    "title":"niṣphalam -- synonyms, prabhupada.io",
+    "description":"having failed; without profit, without meaning."
+}
+---
 
 ==== niṣphalam  ====
   * having failed --- [[books:sb:9:4:49|SB 9.4.49]]

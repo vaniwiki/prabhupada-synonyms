@@ -1,5 +1,11 @@
-~~Title:nāśaka~~
-{{description>vanquisher of māyā.}}
+---json
+{
+    "name":"nāśaka",
+    "h1":"nāśaka",
+    "title":"nāśaka -- synonyms, prabhupada.io",
+    "description":"vanquisher of māyā."
+}
+---
 
 ==== avidyā-nāśaka  ====
   * vanquisher of //māyā// --- [[books:cc:antya:5:145|Antya 5.145]]

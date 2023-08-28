@@ -1,5 +1,11 @@
-~~Title:aropita~~
-{{description>keeping.}}
+---json
+{
+    "name":"aropita",
+    "h1":"aropita",
+    "title":"aropita -- synonyms, prabhupada.io",
+    "description":"keeping."
+}
+---
 
 ==== āropita  ====
   * keeping --- [[books:sb:5:5:28|SB 5.5.28]]

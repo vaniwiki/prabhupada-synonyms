@@ -1,5 +1,11 @@
-~~Title:upasṛtam~~
-{{description>accepted; who is surrendered and standing nearby.}}
+---json
+{
+    "name":"upasṛtam",
+    "h1":"upasṛtam",
+    "title":"upasṛtam -- synonyms, prabhupada.io",
+    "description":"accepted; who is surrendered and standing nearby."
+}
+---
 
 ==== upasṛtam  ====
   * accepted --- [[books:sb:4:29:34|SB 4.29.34]]

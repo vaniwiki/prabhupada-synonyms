@@ -1,5 +1,11 @@
-~~Title:vikrayiṇī~~
-{{description>the aborigine fruit vendor, who was an elderly woman.}}
+---json
+{
+    "name":"vikrayiṇī",
+    "h1":"vikrayiṇī",
+    "title":"vikrayiṇī -- synonyms, prabhupada.io",
+    "description":"the aborigine fruit vendor, who was an elderly woman."
+}
+---
 
 ==== phala-vikrayiṇī  ====
   * the aborigine fruit vendor, who was an elderly woman --- [[books:sb:10:11:11|SB 10.11.11]]

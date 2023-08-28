@@ -1,5 +1,11 @@
-~~Title:lalana~~
-{{description>by damsels; female figures; of women; that woman; the topmost woman; woman; women.}}
+---json
+{
+    "name":"lalana",
+    "h1":"lalana",
+    "title":"lalana -- synonyms, prabhupada.io",
+    "description":"by damsels; female figures; of women; that woman; the topmost woman; woman; women."
+}
+---
 
 ==== lalanā  ====
   * by damsels --- [[books:sb:3:23:39|SB 3.23.39]]

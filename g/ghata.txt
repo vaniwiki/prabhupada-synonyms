@@ -1,5 +1,11 @@
-~~Title:ghata~~
-{{description>of earthen pots; of the waterpots; of waterpots; pots; waterpots.}}
+---json
+{
+    "name":"ghata",
+    "h1":"ghata",
+    "title":"ghata -- synonyms, prabhupada.io",
+    "description":"of earthen pots; of the waterpots; of waterpots; pots; waterpots."
+}
+---
 
 ==== ghaṭa  ====
   * of earthen pots --- [[books:cc:adi:2:37|Ādi 2.37]]

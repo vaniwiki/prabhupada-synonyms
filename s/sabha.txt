@@ -1,5 +1,11 @@
-~~Title:sabhā~~
-{{description>assembly; assembly house; assembly houses; legislative meeting rooms; of the parliament; with assembly houses.}}
+---json
+{
+    "name":"sabhā",
+    "h1":"sabhā",
+    "title":"sabhā -- synonyms, prabhupada.io",
+    "description":"assembly; assembly house; assembly houses; legislative meeting rooms; of the parliament; with assembly houses."
+}
+---
 
 ==== sabhā  ====
   * assembly --- [[books:cc:adi:8:64|Ādi 8.64]]

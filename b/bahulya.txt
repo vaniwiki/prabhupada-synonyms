@@ -1,5 +1,11 @@
-~~Title:bāhulya~~
-{{description>elaboration; more elaborately; of the expansion.}}
+---json
+{
+    "name":"bāhulya",
+    "h1":"bāhulya",
+    "title":"bāhulya -- synonyms, prabhupada.io",
+    "description":"elaboration; more elaborately; of the expansion."
+}
+---
 
 ==== bāhulya  ====
   * elaboration --- [[books:cc:adi:1:105|Ādi 1.105]]

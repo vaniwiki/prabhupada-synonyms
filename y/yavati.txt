@@ -1,5 +1,11 @@
-~~Title:yāvatī~~
-{{description>whatever.}}
+---json
+{
+    "name":"yāvatī",
+    "h1":"yāvatī",
+    "title":"yāvatī -- synonyms, prabhupada.io",
+    "description":"whatever."
+}
+---
 
 ==== yāvatī  ====
   * whatever --- [[books:sb:9:11:3|SB 9.11.3]]

@@ -1,5 +1,11 @@
-~~Title:uttasthe~~
-{{description>got up.}}
+---json
+{
+    "name":"uttasthe",
+    "h1":"uttasthe",
+    "title":"uttasthe -- synonyms, prabhupada.io",
+    "description":"got up."
+}
+---
 
 ==== uttasthe  ====
   * got up --- [[books:sb:1:6:18|SB 1.6.18]]

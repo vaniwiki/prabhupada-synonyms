@@ -1,5 +1,11 @@
-~~Title:aikya~~
-{{description>oneness.}}
+---json
+{
+    "name":"aikya",
+    "h1":"aikya",
+    "title":"aikya -- synonyms, prabhupada.io",
+    "description":"oneness."
+}
+---
 
 ==== aikya  ====
   * oneness --- [[books:sb:3:11:1|SB 3.11.1]], [[books:sb:7:15:63|SB 7.15.63]], [[books:cc:antya:2:64|Antya 2.64]]

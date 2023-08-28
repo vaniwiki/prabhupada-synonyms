@@ -1,5 +1,11 @@
-~~Title:ūrṇa~~
-{{description>a spider; the spider.}}
+---json
+{
+    "name":"ūrṇa",
+    "h1":"ūrṇa",
+    "title":"ūrṇa -- synonyms, prabhupada.io",
+    "description":"a spider; the spider."
+}
+---
 
 ==== ūrṇa-nābhiḥ  ====
   * a spider --- [[books:sb:3:21:19|SB 3.21.19]]

@@ -1,5 +1,11 @@
-~~Title:śimulera~~
-{{description>the śimula tree.}}
+---json
+{
+    "name":"śimulera",
+    "h1":"śimulera",
+    "title":"śimulera -- synonyms, prabhupada.io",
+    "description":"the śimula tree."
+}
+---
 
 ==== śimulera taru  ====
   * the //śimula// tree --- [[books:cc:antya:10:72|Antya 10.72]]

@@ -1,5 +1,11 @@
-~~Title:sevilā~~
-{{description>served.}}
+---json
+{
+    "name":"sevilā",
+    "h1":"sevilā",
+    "title":"sevilā -- synonyms, prabhupada.io",
+    "description":"served."
+}
+---
 
 ==== sevilā  ====
   * served --- [[books:cc:adi:12:13|Ādi 12.13]]

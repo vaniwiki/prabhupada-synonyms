@@ -1,5 +1,11 @@
-~~Title:gocaram~~
-{{description>who are advanced in understanding.}}
+---json
+{
+    "name":"gocaram",
+    "h1":"gocaram",
+    "title":"gocaram -- synonyms, prabhupada.io",
+    "description":"who are advanced in understanding."
+}
+---
 
 ==== gocaram  ====
   * who are advanced in understanding --- [[books:sb:6:15:18-19|SB 6.15.18-19]]

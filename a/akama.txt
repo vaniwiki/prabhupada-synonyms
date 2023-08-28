@@ -1,5 +1,11 @@
-~~Title:akama~~
-{{description>desireless; without material desires.}}
+---json
+{
+    "name":"akama",
+    "h1":"akama",
+    "title":"akama -- synonyms, prabhupada.io",
+    "description":"desireless; without material desires."
+}
+---
 
 ==== akāma  ====
   * desireless --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

@@ -1,5 +1,11 @@
-~~Title:krodaḥ~~
-{{description>anger.}}
+---json
+{
+    "name":"krodaḥ",
+    "h1":"krodaḥ",
+    "title":"krodaḥ -- synonyms, prabhupada.io",
+    "description":"anger."
+}
+---
 
 ==== krodaḥ  ====
   * anger --- [[books:bg:16:4|Bg. 16.4]]

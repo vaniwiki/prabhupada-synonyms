@@ -1,5 +1,11 @@
-~~Title:nadīyāya~~
-{{description>in Nadia; in the district of Nadia.}}
+---json
+{
+    "name":"nadīyāya",
+    "h1":"nadīyāya",
+    "title":"nadīyāya -- synonyms, prabhupada.io",
+    "description":"in Nadia; in the district of Nadia."
+}
+---
 
 ==== nadīyāya  ====
   * in Nadia --- [[books:cc:adi:3:29|Ādi 3.29]]

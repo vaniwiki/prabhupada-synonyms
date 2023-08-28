@@ -1,5 +1,11 @@
-~~Title:calam~~
-{{description>flickering; flickering, subject to end at any moment; moving.}}
+---json
+{
+    "name":"calam",
+    "h1":"calam",
+    "title":"calam -- synonyms, prabhupada.io",
+    "description":"flickering; flickering, subject to end at any moment; moving."
+}
+---
 
 ==== calam  ====
   * flickering --- [[books:bg:6:35|Bg. 6.35]], [[books:bg:17:18|Bg. 17.18]]

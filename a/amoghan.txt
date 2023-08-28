@@ -1,5 +1,11 @@
-~~Title:amoghān~~
-{{description>inviolable.}}
+---json
+{
+    "name":"amoghān",
+    "h1":"amoghān",
+    "title":"amoghān -- synonyms, prabhupada.io",
+    "description":"inviolable."
+}
+---
 
 ==== amoghān  ====
   * inviolable --- [[books:sb:1:17:34|SB 1.17.34]]

@@ -1,5 +1,11 @@
-~~Title:dṛptasya~~
-{{description>greatly proud.}}
+---json
+{
+    "name":"dṛptasya",
+    "h1":"dṛptasya",
+    "title":"dṛptasya -- synonyms, prabhupada.io",
+    "description":"greatly proud."
+}
+---
 
 ==== dṛptasya  ====
   * greatly proud --- [[books:sb:7:4:20|SB 7.4.20]]

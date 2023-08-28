@@ -1,5 +1,11 @@
-~~Title:svasan~~
-{{description>breathing; breathing heavily; breathing very heavily; by breathing; hissing; while breathing; while breathing or while alive.}}
+---json
+{
+    "name":"svasan",
+    "h1":"svasan",
+    "title":"svasan -- synonyms, prabhupada.io",
+    "description":"breathing; breathing heavily; breathing very heavily; by breathing; hissing; while breathing; while breathing or while alive."
+}
+---
 
 ==== śvasan  ====
   * breathing --- [[books:sb:6:14:50-51|SB 6.14.50-51]]

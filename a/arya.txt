@@ -1,5 +1,11 @@
-~~Title:arya~~
-{{description>O Lord.}}
+---json
+{
+    "name":"arya",
+    "h1":"arya",
+    "title":"arya -- synonyms, prabhupada.io",
+    "description":"O Lord."
+}
+---
 
 ==== arya  ====
   * O Lord --- [[books:sb:4:9:17|SB 4.9.17]]

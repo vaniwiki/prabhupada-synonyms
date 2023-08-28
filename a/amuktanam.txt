@@ -1,5 +1,11 @@
-~~Title:amuktānām~~
-{{description>of persons not freed.}}
+---json
+{
+    "name":"amuktānām",
+    "h1":"amuktānām",
+    "title":"amuktānām -- synonyms, prabhupada.io",
+    "description":"of persons not freed."
+}
+---
 
 ==== amuktānām  ====
   * of persons not freed --- [[books:sb:6:5:37|SB 6.5.37]]

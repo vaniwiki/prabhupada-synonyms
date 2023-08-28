@@ -1,5 +1,11 @@
-~~Title:aviratam~~
-{{description>always; constantly; incessantly.}}
+---json
+{
+    "name":"aviratam",
+    "h1":"aviratam",
+    "title":"aviratam -- synonyms, prabhupada.io",
+    "description":"always; constantly; incessantly."
+}
+---
 
 ==== aviratam  ====
   * always --- [[books:sb:3:30:7|SB 3.30.7]]

@@ -1,5 +1,11 @@
-~~Title:madhuvanam~~
-{{description>a forest in Vṛndāvana known as Madhuvana.}}
+---json
+{
+    "name":"madhuvanam",
+    "h1":"madhuvanam",
+    "title":"madhuvanam -- synonyms, prabhupada.io",
+    "description":"a forest in Vṛndāvana known as Madhuvana."
+}
+---
 
 ==== madhuvanam  ====
   * a forest in Vṛndāvana known as Madhuvana --- [[books:sb:4:8:62|SB 4.8.62]]

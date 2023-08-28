@@ -1,5 +1,11 @@
-~~Title:raurava~~
-{{description>the name of a hell.}}
+---json
+{
+    "name":"raurava",
+    "h1":"raurava",
+    "title":"raurava -- synonyms, prabhupada.io",
+    "description":"the name of a hell."
+}
+---
 
 ==== raurava  ====
   * the name of a hell --- [[books:sb:3:30:28|SB 3.30.28]]

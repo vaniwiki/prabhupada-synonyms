@@ -1,5 +1,11 @@
-~~Title:āyatanam~~
-{{description>resting place of all living entities.}}
+---json
+{
+    "name":"āyatanam",
+    "h1":"āyatanam",
+    "title":"āyatanam -- synonyms, prabhupada.io",
+    "description":"resting place of all living entities."
+}
+---
 
 ==== ātma-āyatanam  ====
   * resting place of all living entities --- [[books:sb:4:17:30|SB 4.17.30]]

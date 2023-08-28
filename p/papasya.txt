@@ -1,5 +1,11 @@
-~~Title:pāpasya~~
-{{description>of sinful activities.}}
+---json
+{
+    "name":"pāpasya",
+    "h1":"pāpasya",
+    "title":"pāpasya -- synonyms, prabhupada.io",
+    "description":"of sinful activities."
+}
+---
 
 ==== pāpasya  ====
   * of sinful activities --- [[books:sb:4:19:23|SB 4.19.23]]

@@ -1,5 +1,11 @@
-~~Title:nihatya~~
-{{description>by killing; killing.}}
+---json
+{
+    "name":"nihatya",
+    "h1":"nihatya",
+    "title":"nihatya -- synonyms, prabhupada.io",
+    "description":"by killing; killing."
+}
+---
 
 ==== nihatya  ====
   * by killing --- [[books:bg:1:32-35|Bg. 1.32-35]]

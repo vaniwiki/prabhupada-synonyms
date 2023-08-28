@@ -1,5 +1,11 @@
-~~Title:vidhatse~~
-{{description>execute.}}
+---json
+{
+    "name":"vidhatse",
+    "h1":"vidhatse",
+    "title":"vidhatse -- synonyms, prabhupada.io",
+    "description":"execute."
+}
+---
 
 ==== vidhatse  ====
   * execute --- [[books:sb:1:7:24|SB 1.7.24]]

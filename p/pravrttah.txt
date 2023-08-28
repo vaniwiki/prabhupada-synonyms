@@ -1,5 +1,11 @@
-~~Title:pravrttah~~
-{{description>engaged; so inclined; to engage.}}
+---json
+{
+    "name":"pravrttah",
+    "h1":"pravrttah",
+    "title":"pravrttah -- synonyms, prabhupada.io",
+    "description":"engaged; so inclined; to engage."
+}
+---
 
 ==== pravṛttaḥ  ====
   * engaged --- [[books:sb:1:10:1|SB 1.10.1]], [[books:sb:5:10:19|SB 5.10.19]]

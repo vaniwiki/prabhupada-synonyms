@@ -1,5 +1,11 @@
-~~Title:kelira~~
-{{description>of pastimes in the water.}}
+---json
+{
+    "name":"kelira",
+    "h1":"kelira",
+    "title":"kelira -- synonyms, prabhupada.io",
+    "description":"of pastimes in the water."
+}
+---
 
 ==== jala-kelira  ====
   * of pastimes in the water --- [[books:cc:antya:18:24|Antya 18.24]]

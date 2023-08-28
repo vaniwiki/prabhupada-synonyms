@@ -1,5 +1,11 @@
-~~Title:svastimān~~
-{{description>fully satisfied, relieved of the burning.}}
+---json
+{
+    "name":"svastimān",
+    "h1":"svastimān",
+    "title":"svastimān -- synonyms, prabhupada.io",
+    "description":"fully satisfied, relieved of the burning."
+}
+---
 
 ==== svastimān  ====
   * fully satisfied, relieved of the burning --- [[books:sb:9:5:13|SB 9.5.13]]

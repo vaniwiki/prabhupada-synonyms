@@ -1,5 +1,11 @@
-~~Title:adhyakṣa~~
-{{description>commander; O leader; the chief.}}
+---json
+{
+    "name":"adhyakṣa",
+    "h1":"adhyakṣa",
+    "title":"adhyakṣa -- synonyms, prabhupada.io",
+    "description":"commander; O leader; the chief."
+}
+---
 
 ==== adhyakṣa  ====
   * commander --- [[books:cc:adi:8:54|Ādi 8.54]]

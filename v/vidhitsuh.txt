@@ -1,5 +1,11 @@
-~~Title:vidhitsuḥ~~
-{{description>wishing.}}
+---json
+{
+    "name":"vidhitsuḥ",
+    "h1":"vidhitsuḥ",
+    "title":"vidhitsuḥ -- synonyms, prabhupada.io",
+    "description":"wishing."
+}
+---
 
 ==== vidhitsuḥ  ====
   * wishing --- [[books:sb:3:3:5|SB 3.3.5]]

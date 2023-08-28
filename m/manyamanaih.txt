@@ -1,5 +1,11 @@
-~~Title:manyamānaiḥ~~
-{{description>are thinking; thinking.}}
+---json
+{
+    "name":"manyamānaiḥ",
+    "h1":"manyamānaiḥ",
+    "title":"manyamānaiḥ -- synonyms, prabhupada.io",
+    "description":"are thinking; thinking."
+}
+---
 
 ==== manyamānaiḥ  ====
   * are thinking --- [[books:sb:10:10:9|SB 10.10.9]]

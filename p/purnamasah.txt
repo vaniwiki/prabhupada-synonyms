@@ -1,5 +1,11 @@
-~~Title:pūrṇamāsaḥ~~
-{{description>the pūrṇamāsa ritualistic ceremony.}}
+---json
+{
+    "name":"pūrṇamāsaḥ",
+    "h1":"pūrṇamāsaḥ",
+    "title":"pūrṇamāsaḥ -- synonyms, prabhupada.io",
+    "description":"the pūrṇamāsa ritualistic ceremony."
+}
+---
 
 ==== pūrṇamāsaḥ  ====
   * the //pūrṇamāsa// ritualistic ceremony --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

@@ -1,5 +1,11 @@
-~~Title:kathañcit~~
-{{description>a little of it; in any way; somehow; somehow or other.}}
+---json
+{
+    "name":"kathañcit",
+    "h1":"kathañcit",
+    "title":"kathañcit -- synonyms, prabhupada.io",
+    "description":"a little of it; in any way; somehow; somehow or other."
+}
+---
 
 ==== kathañcit  ====
   * a little of it --- [[books:cc:adi:10:1|Ādi 10.1]]

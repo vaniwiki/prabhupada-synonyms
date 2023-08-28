@@ -1,5 +1,11 @@
-~~Title:uruvalka~~
-{{description>sons headed by Uruvalka.}}
+---json
+{
+    "name":"uruvalka",
+    "h1":"uruvalka",
+    "title":"uruvalka -- synonyms, prabhupada.io",
+    "description":"sons headed by Uruvalka."
+}
+---
 
 ==== uruvalka-ādīn  ====
   * sons headed by Uruvalka --- [[books:sb:9:24:49|SB 9.24.49]]

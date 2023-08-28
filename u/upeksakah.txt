@@ -1,5 +1,11 @@
-~~Title:upekṣakaḥ~~
-{{description>indifferent.}}
+---json
+{
+    "name":"upekṣakaḥ",
+    "h1":"upekṣakaḥ",
+    "title":"upekṣakaḥ -- synonyms, prabhupada.io",
+    "description":"indifferent."
+}
+---
 
 ==== upekṣakaḥ  ====
   * indifferent --- [[books:sb:1:7:9|SB 1.7.9]]

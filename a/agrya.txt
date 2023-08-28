@@ -1,5 +1,11 @@
-~~Title:agrya~~
-{{description>by the foremost.}}
+---json
+{
+    "name":"agrya",
+    "h1":"agrya",
+    "title":"agrya -- synonyms, prabhupada.io",
+    "description":"by the foremost."
+}
+---
 
 ==== agrya  ====
   * by the foremost --- [[books:sb:4:20:15|SB 4.20.15]]

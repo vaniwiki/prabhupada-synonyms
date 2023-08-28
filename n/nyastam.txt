@@ -1,5 +1,11 @@
-~~Title:nyastam~~
-{{description>if it is so offered.}}
+---json
+{
+    "name":"nyastam",
+    "h1":"nyastam",
+    "title":"nyastam -- synonyms, prabhupada.io",
+    "description":"if it is so offered."
+}
+---
 
 ==== nyastam  ====
   * if it is so offered --- [[books:sb:7:15:5|SB 7.15.5]]

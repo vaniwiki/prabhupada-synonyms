@@ -1,5 +1,11 @@
-~~Title:ethāya~~
-{{description>here; here in this place.}}
+---json
+{
+    "name":"ethāya",
+    "h1":"ethāya",
+    "title":"ethāya -- synonyms, prabhupada.io",
+    "description":"here; here in this place."
+}
+---
 
 ==== ethāya  ====
   * here --- [[books:cc:madhya:15:289|Madhya 15.289]], [[books:cc:antya:12:53|Antya 12.53]]

@@ -1,5 +1,11 @@
-~~Title:śāntiḥ~~
-{{description>peace; Sānti; tranquility; Śānti.}}
+---json
+{
+    "name":"śāntiḥ",
+    "h1":"śāntiḥ",
+    "title":"śāntiḥ -- synonyms, prabhupada.io",
+    "description":"peace; Sānti; tranquility; Śānti."
+}
+---
 
 ==== śāntiḥ  ====
   * peace --- [[books:bg:2:66|Bg. 2.66]], [[books:bg:12:12|Bg. 12.12]], [[books:sb:9:4:71|SB 9.4.71]]

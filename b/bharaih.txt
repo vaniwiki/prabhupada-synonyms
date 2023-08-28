@@ -1,5 +1,11 @@
-~~Title:bharaih~~
-{{description>by the great weight.}}
+---json
+{
+    "name":"bharaih",
+    "h1":"bharaih",
+    "title":"bharaih -- synonyms, prabhupada.io",
+    "description":"by the great weight."
+}
+---
 
 ==== bhāraiḥ  ====
   * by the great weight --- [[books:sb:8:11:34|SB 8.11.34]]

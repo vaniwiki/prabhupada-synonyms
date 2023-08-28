@@ -1,5 +1,11 @@
-~~Title:nave~~
-{{description>new.}}
+---json
+{
+    "name":"nave",
+    "h1":"nave",
+    "title":"nave -- synonyms, prabhupada.io",
+    "description":"new."
+}
+---
 
 ==== nave  ====
   * new --- [[books:sb:7:12:19|SB 7.12.19]]

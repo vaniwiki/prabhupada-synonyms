@@ -1,5 +1,11 @@
-~~Title:saurabhyam~~
-{{description>the fragrance.}}
+---json
+{
+    "name":"saurabhyam",
+    "h1":"saurabhyam",
+    "title":"saurabhyam -- synonyms, prabhupada.io",
+    "description":"the fragrance."
+}
+---
 
 ==== saurabhyam  ====
   * the fragrance --- [[books:sb:10:6:41|SB 10.6.41]]

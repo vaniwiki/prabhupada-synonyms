@@ -1,5 +1,11 @@
-~~Title:harmya~~
-{{description>on the roof of the palace.}}
+---json
+{
+    "name":"harmya",
+    "h1":"harmya",
+    "title":"harmya -- synonyms, prabhupada.io",
+    "description":"on the roof of the palace."
+}
+---
 
 ==== harmya-pṛṣṭhe  ====
   * on the roof of the palace --- [[books:sb:3:22:17|SB 3.22.17]]

@@ -1,5 +1,11 @@
-~~Title:svana~~
-{{description>by the sounds.}}
+---json
+{
+    "name":"svana",
+    "h1":"svana",
+    "title":"svana -- synonyms, prabhupada.io",
+    "description":"by the sounds."
+}
+---
 
 ==== svana  ====
   * by the sounds --- [[books:sb:5:13:5|SB 5.13.5]]

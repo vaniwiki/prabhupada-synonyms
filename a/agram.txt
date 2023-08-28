@@ -1,5 +1,11 @@
-~~Title:agram~~
-{{description>the front part; the front portion of the snake; tip.}}
+---json
+{
+    "name":"agram",
+    "h1":"agram",
+    "title":"agram -- synonyms, prabhupada.io",
+    "description":"the front part; the front portion of the snake; tip."
+}
+---
 
 ==== agram  ====
   * the front part --- [[books:sb:4:20:22|SB 4.20.22]]

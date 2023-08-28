@@ -1,5 +1,11 @@
-~~Title:teja~~
-{{description>bodily effulgence; effulgence; the brilliance.}}
+---json
+{
+    "name":"teja",
+    "h1":"teja",
+    "title":"teja -- synonyms, prabhupada.io",
+    "description":"bodily effulgence; effulgence; the brilliance."
+}
+---
 
 ==== teja  ====
   * bodily effulgence --- [[books:cc:madhya:8:26|Madhya 8.26]]

@@ -1,5 +1,11 @@
-~~Title:adhidaivika~~
-{{description>created by the demigods.}}
+---json
+{
+    "name":"adhidaivika",
+    "h1":"adhidaivika",
+    "title":"adhidaivika -- synonyms, prabhupada.io",
+    "description":"created by the demigods."
+}
+---
 
 ==== adhidaivika  ====
   * created by the demigods --- [[books:sb:5:14:25|SB 5.14.25]]

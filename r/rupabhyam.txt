@@ -1,5 +1,11 @@
-~~Title:rūpābhyām~~
-{{description>without fame and ability.}}
+---json
+{
+    "name":"rūpābhyām",
+    "h1":"rūpābhyām",
+    "title":"rūpābhyām -- synonyms, prabhupada.io",
+    "description":"without fame and ability."
+}
+---
 
 ==== nāma-rūpābhyām  ====
   * without fame and ability --- [[books:sb:1:8:38|SB 1.8.38]]

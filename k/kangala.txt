@@ -1,5 +1,11 @@
-~~Title:kāṅgāla~~
-{{description>beggars; poor; the poor section of people.}}
+---json
+{
+    "name":"kāṅgāla",
+    "h1":"kāṅgāla",
+    "title":"kāṅgāla -- synonyms, prabhupada.io",
+    "description":"beggars; poor; the poor section of people."
+}
+---
 
 ==== kāṅgāla  ====
   * beggars --- [[books:cc:madhya:14:44|Madhya 14.44]]

@@ -1,5 +1,11 @@
-~~Title:ābhāsena~~
-{{description>with the apparent conception of having a body of material elements.}}
+---json
+{
+    "name":"ābhāsena",
+    "h1":"ābhāsena",
+    "title":"ābhāsena -- synonyms, prabhupada.io",
+    "description":"with the apparent conception of having a body of material elements."
+}
+---
 
 ==== abhimāna-ābhāsena  ====
   * with the apparent conception of having a body of material elements --- [[books:sb:5:6:7|SB 5.6.7]]

@@ -1,5 +1,11 @@
-~~Title:panthānam~~
-{{description>on the path.}}
+---json
+{
+    "name":"panthānam",
+    "h1":"panthānam",
+    "title":"panthānam -- synonyms, prabhupada.io",
+    "description":"on the path."
+}
+---
 
 ==== panthānam  ====
   * on the path --- [[books:sb:6:5:21|SB 6.5.21]]

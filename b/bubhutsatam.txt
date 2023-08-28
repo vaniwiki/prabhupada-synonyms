@@ -1,5 +1,11 @@
-~~Title:bubhutsatām~~
-{{description>such an enlightened person.}}
+---json
+{
+    "name":"bubhutsatām",
+    "h1":"bubhutsatām",
+    "title":"bubhutsatām -- synonyms, prabhupada.io",
+    "description":"such an enlightened person."
+}
+---
 
 ==== bubhutsatām  ====
   * such an enlightened person --- [[books:sb:8:24:50|SB 8.24.50]]

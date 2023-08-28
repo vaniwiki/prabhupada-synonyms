@@ -1,5 +1,11 @@
-~~Title:daṁṣṭreṇa~~
-{{description>with fearful teeth.}}
+---json
+{
+    "name":"daṁṣṭreṇa",
+    "h1":"daṁṣṭreṇa",
+    "title":"daṁṣṭreṇa -- synonyms, prabhupada.io",
+    "description":"with fearful teeth."
+}
+---
 
 ==== raudra-daṁṣṭreṇa  ====
   * with fearful teeth --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

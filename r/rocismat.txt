@@ -1,5 +1,11 @@
-~~Title:rociṣmat~~
-{{description>Rociṣmat.}}
+---json
+{
+    "name":"rociṣmat",
+    "h1":"rociṣmat",
+    "title":"rociṣmat -- synonyms, prabhupada.io",
+    "description":"Rociṣmat."
+}
+---
 
 ==== rociṣmat  ====
   * Rociṣmat --- [[books:sb:8:1:19|SB 8.1.19]]

@@ -1,5 +1,11 @@
-~~Title:sañjalpaḥ~~
-{{description>talking.}}
+---json
+{
+    "name":"sañjalpaḥ",
+    "h1":"sañjalpaḥ",
+    "title":"sañjalpaḥ -- synonyms, prabhupada.io",
+    "description":"talking."
+}
+---
 
 ==== sañjalpaḥ  ====
   * talking --- [[books:sb:1:10:20|SB 1.10.20]]

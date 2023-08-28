@@ -1,5 +1,11 @@
-~~Title:vyavasyate~~
-{{description>continues to act.}}
+---json
+{
+    "name":"vyavasyate",
+    "h1":"vyavasyate",
+    "title":"vyavasyate -- synonyms, prabhupada.io",
+    "description":"continues to act."
+}
+---
 
 ==== vyavasyate  ====
   * continues to act --- [[books:sb:10:3:18|SB 10.3.18]]

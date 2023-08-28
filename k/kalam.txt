@@ -1,5 +1,11 @@
-~~Title:kalam~~
-{{description>elements; energies; very sweetly.}}
+---json
+{
+    "name":"kalam",
+    "h1":"kalam",
+    "title":"kalam -- synonyms, prabhupada.io",
+    "description":"elements; energies; very sweetly."
+}
+---
 
 ==== kalam  ====
   * elements --- [[books:cc:madhya:20:266|Madhya 20.266]]

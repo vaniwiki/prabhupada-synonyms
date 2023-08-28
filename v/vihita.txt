@@ -1,5 +1,11 @@
-~~Title:vihita~~
-{{description>furnished with.}}
+---json
+{
+    "name":"vihita",
+    "h1":"vihita",
+    "title":"vihita -- synonyms, prabhupada.io",
+    "description":"furnished with."
+}
+---
 
 ==== vihita  ====
   * furnished with --- [[books:sb:5:17:13|SB 5.17.13]]

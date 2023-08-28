@@ -1,5 +1,11 @@
-~~Title:dravatvam~~
-{{description>the transcendental nature.}}
+---json
+{
+    "name":"dravatvam",
+    "h1":"dravatvam",
+    "title":"dravatvam -- synonyms, prabhupada.io",
+    "description":"the transcendental nature."
+}
+---
 
 ==== brahma-dravatvam  ====
   * the transcendental nature --- [[books:noi:6|NoI 6]]

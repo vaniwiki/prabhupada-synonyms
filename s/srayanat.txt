@@ -1,5 +1,11 @@
-~~Title:śrayaṇāt~~
-{{description>because of receiving benedictions or taking shelter.}}
+---json
+{
+    "name":"śrayaṇāt",
+    "h1":"śrayaṇāt",
+    "title":"śrayaṇāt -- synonyms, prabhupada.io",
+    "description":"because of receiving benedictions or taking shelter."
+}
+---
 
 ==== śrayaṇāt  ====
   * because of receiving benedictions or taking shelter --- [[books:sb:8:9:28|SB 8.9.28]]

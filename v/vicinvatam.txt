@@ -1,5 +1,11 @@
-~~Title:vicinvatām~~
-{{description>all of whom are thinking.}}
+---json
+{
+    "name":"vicinvatām",
+    "h1":"vicinvatām",
+    "title":"vicinvatām -- synonyms, prabhupada.io",
+    "description":"all of whom are thinking."
+}
+---
 
 ==== vicinvatām  ====
   * all of whom are thinking --- [[books:sb:8:9:10|SB 8.9.10]]

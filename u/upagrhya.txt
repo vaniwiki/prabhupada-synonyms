@@ -1,5 +1,11 @@
-~~Title:upagṛhya~~
-{{description>taking care of.}}
+---json
+{
+    "name":"upagṛhya",
+    "h1":"upagṛhya",
+    "title":"upagṛhya -- synonyms, prabhupada.io",
+    "description":"taking care of."
+}
+---
 
 ==== upagṛhya  ====
   * taking care of --- [[books:sb:10:8:23|SB 10.8.23]]

@@ -1,5 +1,11 @@
-~~Title:dhunīm~~
-{{description>aural reception.}}
+---json
+{
+    "name":"dhunīm",
+    "h1":"dhunīm",
+    "title":"dhunīm -- synonyms, prabhupada.io",
+    "description":"aural reception."
+}
+---
 
 ==== karṇa-dhunīm  ====
   * aural reception --- [[books:sb:4:29:55|SB 4.29.55]]

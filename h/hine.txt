@@ -1,5 +1,11 @@
-~~Title:hīne~~
-{{description>unto the poor and fallen.}}
+---json
+{
+    "name":"hīne",
+    "h1":"hīne",
+    "title":"hīne -- synonyms, prabhupada.io",
+    "description":"unto the poor and fallen."
+}
+---
 
 ==== dīna-hīne  ====
   * unto the poor and fallen --- [[books:cc:madhya:17:75|Madhya 17.75]]

@@ -1,5 +1,11 @@
-~~Title:parituṣyasi~~
-{{description>You become satisfied.}}
+---json
+{
+    "name":"parituṣyasi",
+    "h1":"parituṣyasi",
+    "title":"parituṣyasi -- synonyms, prabhupada.io",
+    "description":"You become satisfied."
+}
+---
 
 ==== parituṣyasi  ====
   * You become satisfied --- [[books:sb:5:3:6|SB 5.3.6]]

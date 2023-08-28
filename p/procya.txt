@@ -1,5 +1,11 @@
-~~Title:procya~~
-{{description>giving instructions.}}
+---json
+{
+    "name":"procya",
+    "h1":"procya",
+    "title":"procya -- synonyms, prabhupada.io",
+    "description":"giving instructions."
+}
+---
 
 ==== procya  ====
   * giving instructions --- [[books:sb:9:24:67|SB 9.24.67]]

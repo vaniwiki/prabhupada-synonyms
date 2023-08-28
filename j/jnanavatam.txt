@@ -1,5 +1,11 @@
-~~Title:jñānavatām~~
-{{description>of the wise.}}
+---json
+{
+    "name":"jñānavatām",
+    "h1":"jñānavatām",
+    "title":"jñānavatām -- synonyms, prabhupada.io",
+    "description":"of the wise."
+}
+---
 
 ==== jñānavatām  ====
   * of the wise --- [[books:bg:10:38|Bg. 10.38]]

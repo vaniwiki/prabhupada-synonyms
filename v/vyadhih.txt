@@ -1,5 +1,11 @@
-~~Title:vyādhiḥ~~
-{{description>disease.}}
+---json
+{
+    "name":"vyādhiḥ",
+    "h1":"vyādhiḥ",
+    "title":"vyādhiḥ -- synonyms, prabhupada.io",
+    "description":"disease."
+}
+---
 
 ==== vyādhiḥ  ====
   * disease --- [[books:cc:antya:14:53|Antya 14.53]]

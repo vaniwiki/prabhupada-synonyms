@@ -1,5 +1,11 @@
-~~Title:janena~~
-{{description>by living entities; by persons; by the persons (assembled at the sacrifice).}}
+---json
+{
+    "name":"janena",
+    "h1":"janena",
+    "title":"janena -- synonyms, prabhupada.io",
+    "description":"by living entities; by persons; by the persons (assembled at the sacrifice)."
+}
+---
 
 ==== janena  ====
   * by living entities --- [[books:sb:4:11:19|SB 4.11.19]]

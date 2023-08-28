@@ -1,5 +1,11 @@
-~~Title:menakayā~~
-{{description>by Menakā.}}
+---json
+{
+    "name":"menakayā",
+    "h1":"menakayā",
+    "title":"menakayā -- synonyms, prabhupada.io",
+    "description":"by Menakā."
+}
+---
 
 ==== menakayā  ====
   * by Menakā --- [[books:sb:9:20:13|SB 9.20.13]]

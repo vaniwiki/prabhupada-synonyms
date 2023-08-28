@@ -1,5 +1,11 @@
-~~Title:ślokau~~
-{{description>two verses.}}
+---json
+{
+    "name":"ślokau",
+    "h1":"ślokau",
+    "title":"ślokau -- synonyms, prabhupada.io",
+    "description":"two verses."
+}
+---
 
 ==== ślokau  ====
   * two verses --- [[books:sb:5:4:6|SB 5.4.6]], [[books:sb:9:24:9|SB 9.24.9]]

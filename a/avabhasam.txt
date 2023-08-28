@@ -1,5 +1,11 @@
-~~Title:avabhāsam~~
-{{description>that which clarifies.}}
+---json
+{
+    "name":"avabhāsam",
+    "h1":"avabhāsam",
+    "title":"avabhāsam -- synonyms, prabhupada.io",
+    "description":"that which clarifies."
+}
+---
 
 ==== avabhāsam  ====
   * that which clarifies --- [[books:sb:3:4:13|SB 3.4.13]]

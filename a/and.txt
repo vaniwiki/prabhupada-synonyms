@@ -1,5 +1,11 @@
-~~Title:and~~
-{{description>all plenary expansions of Vāsudeva.}}
+---json
+{
+    "name":"and",
+    "h1":"and",
+    "title":"and -- synonyms, prabhupada.io",
+    "description":"all plenary expansions of Vāsudeva."
+}
+---
 
 ==== pradyumnāya, aniruddhāya and saṅkarṣaṇāya  ====
   * all plenary expansions of Vāsudeva --- [[books:sb:1:5:37|SB 1.5.37]]

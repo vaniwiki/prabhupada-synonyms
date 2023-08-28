@@ -1,5 +1,11 @@
-~~Title:upaviṣṭe~~
-{{description>being engaged in fasting to death.}}
+---json
+{
+    "name":"upaviṣṭe",
+    "h1":"upaviṣṭe",
+    "title":"upaviṣṭe -- synonyms, prabhupada.io",
+    "description":"being engaged in fasting to death."
+}
+---
 
 ==== prāya-upaviṣṭe  ====
   * being engaged in fasting to death --- [[books:sb:1:19:18|SB 1.19.18]]

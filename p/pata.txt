@@ -1,5 +1,11 @@
-~~Title:pata~~
-{{description>the cloth.}}
+---json
+{
+    "name":"pata",
+    "h1":"pata",
+    "title":"pata -- synonyms, prabhupada.io",
+    "description":"the cloth."
+}
+---
 
 ==== paṭa  ====
   * the cloth --- [[books:sb:7:15:63|SB 7.15.63]]

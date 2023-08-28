@@ -1,5 +1,11 @@
-~~Title:vivakṣum~~
-{{description>desiring to speak.}}
+---json
+{
+    "name":"vivakṣum",
+    "h1":"vivakṣum",
+    "title":"vivakṣum -- synonyms, prabhupada.io",
+    "description":"desiring to speak."
+}
+---
 
 ==== vivakṣum  ====
   * desiring to speak --- [[books:sb:6:2:23|SB 6.2.23]]

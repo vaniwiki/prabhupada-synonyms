@@ -1,5 +1,11 @@
-~~Title:prāvṛṣi~~
-{{description>during the four months of the rainy season.}}
+---json
+{
+    "name":"prāvṛṣi",
+    "h1":"prāvṛṣi",
+    "title":"prāvṛṣi -- synonyms, prabhupada.io",
+    "description":"during the four months of the rainy season."
+}
+---
 
 ==== prāvṛṣi  ====
   * during the four months of the rainy season --- [[books:sb:1:5:23|SB 1.5.23]]

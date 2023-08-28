@@ -1,5 +1,11 @@
-~~Title:sainikān~~
-{{description>the soldiers of King Indra.}}
+---json
+{
+    "name":"sainikān",
+    "h1":"sainikān",
+    "title":"sainikān -- synonyms, prabhupada.io",
+    "description":"the soldiers of King Indra."
+}
+---
 
 ==== indra-sainikān  ====
   * the soldiers of King Indra --- [[books:sb:6:10:27|SB 6.10.27]]

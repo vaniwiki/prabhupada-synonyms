@@ -1,5 +1,11 @@
-~~Title:rathānām~~
-{{description>of chariots.}}
+---json
+{
+    "name":"rathānām",
+    "h1":"rathānām",
+    "title":"rathānām -- synonyms, prabhupada.io",
+    "description":"of chariots."
+}
+---
 
 ==== rathānām  ====
   * of chariots --- [[books:sb:10:1:31-32|SB 10.1.31-32]]

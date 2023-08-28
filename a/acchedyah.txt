@@ -1,5 +1,11 @@
-~~Title:acchedyaḥ~~
-{{description>unbreakable.}}
+---json
+{
+    "name":"acchedyaḥ",
+    "h1":"acchedyaḥ",
+    "title":"acchedyaḥ -- synonyms, prabhupada.io",
+    "description":"unbreakable."
+}
+---
 
 ==== acchedyaḥ  ====
   * unbreakable --- [[books:bg:2:24|Bg. 2.24]]

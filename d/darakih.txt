@@ -1,5 +1,11 @@
-~~Title:dārakīḥ~~
-{{description>daughters.}}
+---json
+{
+    "name":"dārakīḥ",
+    "h1":"dārakīḥ",
+    "title":"dārakīḥ -- synonyms, prabhupada.io",
+    "description":"daughters."
+}
+---
 
 ==== dārakīḥ  ====
   * daughters --- [[books:sb:4:28:21|SB 4.28.21]]

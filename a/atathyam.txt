@@ -1,5 +1,11 @@
-~~Title:atathyam~~
-{{description>a subject matter that is not a fact.}}
+---json
+{
+    "name":"atathyam",
+    "h1":"atathyam",
+    "title":"atathyam -- synonyms, prabhupada.io",
+    "description":"a subject matter that is not a fact."
+}
+---
 
 ==== atathyam  ====
   * a subject matter that is not a fact --- [[books:sb:10:12:25|SB 10.12.25]]

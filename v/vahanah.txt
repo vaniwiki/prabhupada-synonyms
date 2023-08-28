@@ -1,5 +1,11 @@
-~~Title:vahanah~~
-{{description>carrier horses and elephants.}}
+---json
+{
+    "name":"vahanah",
+    "h1":"vahanah",
+    "title":"vahanah -- synonyms, prabhupada.io",
+    "description":"carrier horses and elephants."
+}
+---
 
 ==== vāhanāḥ  ====
   * carrier horses and elephants --- [[books:sb:9:15:31|SB 9.15.31]]

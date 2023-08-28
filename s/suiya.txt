@@ -1,5 +1,11 @@
-~~Title:śuiyā~~
-{{description>lay down.}}
+---json
+{
+    "name":"śuiyā",
+    "h1":"śuiyā",
+    "title":"śuiyā -- synonyms, prabhupada.io",
+    "description":"lay down."
+}
+---
 
 ==== śuiyā rahilā  ====
   * lay down --- [[books:cc:antya:12:120|Antya 12.120]]

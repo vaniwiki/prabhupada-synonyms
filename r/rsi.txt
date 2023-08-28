@@ -1,5 +1,11 @@
-~~Title:rsi~~
-{{description>a saintly person; as a great saint (Paraśurāma); by the great sage Nārada; great sages; great saintly persons; of the sages; sages; saintly persons; the great sages; the saintly persons; with the great saintly persons.}}
+---json
+{
+    "name":"rsi",
+    "h1":"rsi",
+    "title":"rsi -- synonyms, prabhupada.io",
+    "description":"a saintly person; as a great saint (Paraśurāma); by the great sage Nārada; great sages; great saintly persons; of the sages; sages; saintly persons; the great sages; the saintly persons; with the great saintly persons."
+}
+---
 
 ==== ṛṣi  ====
   * a saintly person --- [[books:cc:madhya:24:15|Madhya 24.15]]

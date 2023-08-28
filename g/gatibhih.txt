@@ -1,5 +1,11 @@
-~~Title:gatibhiḥ~~
-{{description>by movement; by the speeds; the movements.}}
+---json
+{
+    "name":"gatibhiḥ",
+    "h1":"gatibhiḥ",
+    "title":"gatibhiḥ -- synonyms, prabhupada.io",
+    "description":"by movement; by the speeds; the movements."
+}
+---
 
 ==== gatibhiḥ  ====
   * by movement --- [[books:sb:5:21:3|SB 5.21.3]]

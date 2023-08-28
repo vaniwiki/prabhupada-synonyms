@@ -1,5 +1,11 @@
-~~Title:jīmūta~~
-{{description>like the sound of clouds.}}
+---json
+{
+    "name":"jīmūta",
+    "h1":"jīmūta",
+    "title":"jīmūta -- synonyms, prabhupada.io",
+    "description":"like the sound of clouds."
+}
+---
 
 ==== jīmūta-gabhīrayā  ====
   * like the sound of clouds --- [[books:sb:8:6:16|SB 8.6.16]]

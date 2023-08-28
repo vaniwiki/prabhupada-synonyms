@@ -1,5 +1,11 @@
-~~Title:kuṇḍikāya~~
-{{description>in three pots.}}
+---json
+{
+    "name":"kuṇḍikāya",
+    "h1":"kuṇḍikāya",
+    "title":"kuṇḍikāya -- synonyms, prabhupada.io",
+    "description":"in three pots."
+}
+---
 
 ==== tina kuṇḍikāya  ====
   * in three pots --- [[books:cc:antya:6:95|Antya 6.95]]

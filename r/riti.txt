@@ -1,5 +1,11 @@
-~~Title:rīti~~
-{{description>activities; behavior; course; etiquette; policy; process; regulative principles; style; the consequence; the process; the system; the way; the ways.}}
+---json
+{
+    "name":"rīti",
+    "h1":"rīti",
+    "title":"rīti -- synonyms, prabhupada.io",
+    "description":"activities; behavior; course; etiquette; policy; process; regulative principles; style; the consequence; the process; the system; the way; the ways."
+}
+---
 
 ==== rīti  ====
   * activities --- [[books:cc:antya:3:123|Antya 3.123]]

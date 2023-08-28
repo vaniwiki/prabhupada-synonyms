@@ -1,5 +1,11 @@
-~~Title:karotu~~
-{{description>let Him make; may He bestow benediction; may perform.}}
+---json
+{
+    "name":"karotu",
+    "h1":"karotu",
+    "title":"karotu -- synonyms, prabhupada.io",
+    "description":"let Him make; may He bestow benediction; may perform."
+}
+---
 
 ==== karotu  ====
   * let Him make --- [[books:cc:antya:20:47|Antya 20.47]]

@@ -1,5 +1,11 @@
-~~Title:savarṇām~~
-{{description>of the same caste.}}
+---json
+{
+    "name":"savarṇām",
+    "h1":"savarṇām",
+    "title":"savarṇām -- synonyms, prabhupada.io",
+    "description":"of the same caste."
+}
+---
 
 ==== savarṇām  ====
   * of the same caste --- [[books:sb:5:26:26|SB 5.26.26]]

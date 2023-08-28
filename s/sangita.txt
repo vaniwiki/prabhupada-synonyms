@@ -1,5 +1,11 @@
-~~Title:saṅgīta~~
-{{description>of singing; of songs; singing.}}
+---json
+{
+    "name":"saṅgīta",
+    "h1":"saṅgīta",
+    "title":"saṅgīta -- synonyms, prabhupada.io",
+    "description":"of singing; of songs; singing."
+}
+---
 
 ==== saṅgīta  ====
   * of singing --- [[books:sb:8:2:6|SB 8.2.6]]

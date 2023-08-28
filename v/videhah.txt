@@ -1,5 +1,11 @@
-~~Title:videhaḥ~~
-{{description>without any material body.}}
+---json
+{
+    "name":"videhaḥ",
+    "h1":"videhaḥ",
+    "title":"videhaḥ -- synonyms, prabhupada.io",
+    "description":"without any material body."
+}
+---
 
 ==== videhaḥ  ====
   * without any material body --- [[books:sb:9:13:11|SB 9.13.11]]

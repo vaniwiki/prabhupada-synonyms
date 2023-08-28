@@ -1,5 +1,11 @@
-~~Title:praṇatim~~
-{{description>one who is obeyed.}}
+---json
+{
+    "name":"praṇatim",
+    "h1":"praṇatim",
+    "title":"praṇatim -- synonyms, prabhupada.io",
+    "description":"one who is obeyed."
+}
+---
 
 ==== praṇatim  ====
   * one who is obeyed --- [[books:sb:1:16:16|SB 1.16.16]]

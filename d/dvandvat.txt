@@ -1,5 +1,11 @@
-~~Title:dvandvāt~~
-{{description>from duality.}}
+---json
+{
+    "name":"dvandvāt",
+    "h1":"dvandvāt",
+    "title":"dvandvāt -- synonyms, prabhupada.io",
+    "description":"from duality."
+}
+---
 
 ==== dvandvāt  ====
   * from duality --- [[books:sb:6:8:18|SB 6.8.18]]

@@ -1,5 +1,11 @@
-~~Title:śṛṇvīta~~
-{{description>hears.}}
+---json
+{
+    "name":"śṛṇvīta",
+    "h1":"śṛṇvīta",
+    "title":"śṛṇvīta -- synonyms, prabhupada.io",
+    "description":"hears."
+}
+---
 
 ==== śṛṇvīta  ====
   * hears --- [[books:sb:3:13:48|SB 3.13.48]]

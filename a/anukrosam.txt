@@ -1,5 +1,11 @@
-~~Title:anukrośam~~
-{{description>compassion.}}
+---json
+{
+    "name":"anukrośam",
+    "h1":"anukrośam",
+    "title":"anukrośam -- synonyms, prabhupada.io",
+    "description":"compassion."
+}
+---
 
 ==== anukrośam  ====
   * compassion --- [[books:sb:4:8:34|SB 4.8.34]]

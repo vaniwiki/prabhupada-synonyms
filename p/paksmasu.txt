@@ -1,5 +1,11 @@
-~~Title:pakṣmasu~~
-{{description>in the eyelids.}}
+---json
+{
+    "name":"pakṣmasu",
+    "h1":"pakṣmasu",
+    "title":"pakṣmasu -- synonyms, prabhupada.io",
+    "description":"in the eyelids."
+}
+---
 
 ==== pakṣmasu  ====
   * in the eyelids --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

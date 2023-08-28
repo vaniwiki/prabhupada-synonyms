@@ -1,5 +1,11 @@
-~~Title:virajaskam~~
-{{description>completely free from mundane contamination.}}
+---json
+{
+    "name":"virajaskam",
+    "h1":"virajaskam",
+    "title":"virajaskam -- synonyms, prabhupada.io",
+    "description":"completely free from mundane contamination."
+}
+---
 
 ==== virajaskam  ====
   * completely free from mundane contamination --- [[books:sb:1:19:21|SB 1.19.21]]

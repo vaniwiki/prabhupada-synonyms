@@ -1,5 +1,11 @@
-~~Title:kṣudhāya~~
-{{description>by hunger.}}
+---json
+{
+    "name":"kṣudhāya",
+    "h1":"kṣudhāya",
+    "title":"kṣudhāya -- synonyms, prabhupada.io",
+    "description":"by hunger."
+}
+---
 
 ==== kṣudhāya  ====
   * by hunger --- [[books:cc:madhya:4:76|Madhya 4.76]]

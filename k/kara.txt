@@ -1,5 +1,11 @@
-~~Title:kara~~
-{{description>accept; be engaged in; become; bestow; cause; continue; do; endeavor; engage in; explain; get; give; hand; hands; in hand; in the hand; in the hands; just do; just perform; kindly bestow; kindly do; make (me); make; observe; of the hand; perform; please do; please do unto me; practice; present; put forth; show; surname; tax; taxes; the hand; the palms; you are writing; you become; You can do; You do; You give; You made; you make; You perform; You pose.}}
+---json
+{
+    "name":"kara",
+    "h1":"kara",
+    "title":"kara -- synonyms, prabhupada.io",
+    "description":"accept; be engaged in; become; bestow; cause; continue; do; endeavor; engage in; explain; get; give; hand; hands; in hand; in the hand; in the hands; just do; just perform; kindly bestow; kindly do; make (me); make; observe; of the hand; perform; please do; please do unto me; practice; present; put forth; show; surname; tax; taxes; the hand; the palms; you are writing; you become; You can do; You do; You give; You made; you make; You perform; You pose."
+}
+---
 
 ==== kara  ====
   * accept --- [[books:cc:madhya:10:97|Madhya 10.97]]

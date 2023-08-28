@@ -1,5 +1,11 @@
-~~Title:kṛpaṇāyāḥ~~
-{{description>very much aggrieved by Your absence.}}
+---json
+{
+    "name":"kṛpaṇāyāḥ",
+    "h1":"kṛpaṇāyāḥ",
+    "title":"kṛpaṇāyāḥ -- synonyms, prabhupada.io",
+    "description":"very much aggrieved by Your absence."
+}
+---
 
 ==== kṛpaṇāyāḥ  ====
   * very much aggrieved by Your absence --- [[books:cc:adi:6:71|Ādi 6.71]]

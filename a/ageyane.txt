@@ -1,5 +1,11 @@
-~~Title:ageyāne~~
-{{description>unconscious.}}
+---json
+{
+    "name":"ageyāne",
+    "h1":"ageyāne",
+    "title":"ageyāne -- synonyms, prabhupada.io",
+    "description":"unconscious."
+}
+---
 
 ==== ageyāne  ====
   * unconscious --- [[books:cc:antya:15:9|Antya 15.9]]

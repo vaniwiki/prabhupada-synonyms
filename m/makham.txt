@@ -1,5 +1,11 @@
-~~Title:makham~~
-{{description>the sacrifice.}}
+---json
+{
+    "name":"makham",
+    "h1":"makham",
+    "title":"makham -- synonyms, prabhupada.io",
+    "description":"the sacrifice."
+}
+---
 
 ==== makham  ====
   * the sacrifice --- [[books:sb:9:13:2|SB 9.13.2]]

@@ -1,5 +1,11 @@
-~~Title:samprahāraḥ~~
-{{description>good lashing.}}
+---json
+{
+    "name":"samprahāraḥ",
+    "h1":"samprahāraḥ",
+    "title":"samprahāraḥ -- synonyms, prabhupada.io",
+    "description":"good lashing."
+}
+---
 
 ==== samprahāraḥ  ====
   * good lashing --- [[books:sb:1:13:30|SB 1.13.30]]

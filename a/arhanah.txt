@@ -1,5 +1,11 @@
-~~Title:arhanah~~
-{{description>all the paraphernalia for worship; worshipable paraphernalia.}}
+---json
+{
+    "name":"arhanah",
+    "h1":"arhanah",
+    "title":"arhanah -- synonyms, prabhupada.io",
+    "description":"all the paraphernalia for worship; worshipable paraphernalia."
+}
+---
 
 ==== arhaṇaḥ  ====
   * all the paraphernalia for worship --- [[books:sb:4:20:19|SB 4.20.19]]

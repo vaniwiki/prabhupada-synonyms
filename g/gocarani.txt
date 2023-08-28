@@ -1,5 +1,11 @@
-~~Title:gocarāṇi~~
-{{description>possible to be uttered.}}
+---json
+{
+    "name":"gocarāṇi",
+    "h1":"gocarāṇi",
+    "title":"gocarāṇi -- synonyms, prabhupada.io",
+    "description":"possible to be uttered."
+}
+---
 
 ==== vacana-gocarāṇi  ====
   * possible to be uttered --- [[books:sb:5:3:12|SB 5.3.12]]

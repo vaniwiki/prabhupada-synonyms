@@ -1,5 +1,11 @@
-~~Title:apuṅkha~~
-{{description>without a shaft.}}
+---json
+{
+    "name":"apuṅkha",
+    "h1":"apuṅkha",
+    "title":"apuṅkha -- synonyms, prabhupada.io",
+    "description":"without a shaft."
+}
+---
 
 ==== apuṅkha  ====
   * without a shaft --- [[books:sb:5:2:8|SB 5.2.8]]

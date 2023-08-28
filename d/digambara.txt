@@ -1,5 +1,11 @@
-~~Title:digambara~~
-{{description>without any dress.}}
+---json
+{
+    "name":"digambara",
+    "h1":"digambara",
+    "title":"digambara -- synonyms, prabhupada.io",
+    "description":"without any dress."
+}
+---
 
 ==== digambara  ====
   * without any dress --- [[books:cc:adi:6:81|Ādi 6.81]]

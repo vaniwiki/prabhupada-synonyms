@@ -1,5 +1,11 @@
-~~Title:abhivādana~~
-{{description>by greeting with words.}}
+---json
+{
+    "name":"abhivādana",
+    "h1":"abhivādana",
+    "title":"abhivādana -- synonyms, prabhupada.io",
+    "description":"by greeting with words."
+}
+---
 
 ==== abhivādana  ====
   * by greeting with words --- [[books:sb:1:11:22|SB 1.11.22]]

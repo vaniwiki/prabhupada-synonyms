@@ -1,5 +1,11 @@
-~~Title:saṁśrāvayām~~
-{{description>make them audible.}}
+---json
+{
+    "name":"saṁśrāvayām",
+    "h1":"saṁśrāvayām",
+    "title":"saṁśrāvayām -- synonyms, prabhupada.io",
+    "description":"make them audible."
+}
+---
 
 ==== saṁśrāvayām āsa  ====
   * make them audible --- [[books:sb:1:3:42|SB 1.3.42]]

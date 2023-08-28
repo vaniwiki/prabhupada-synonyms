@@ -1,5 +1,11 @@
-~~Title:darśayiṣyāmi~~
-{{description>shall show.}}
+---json
+{
+    "name":"darśayiṣyāmi",
+    "h1":"darśayiṣyāmi",
+    "title":"darśayiṣyāmi -- synonyms, prabhupada.io",
+    "description":"shall show."
+}
+---
 
 ==== darśayiṣyāmi  ====
   * shall show --- [[books:sb:8:12:16|SB 8.12.16]]

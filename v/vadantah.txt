@@ -1,5 +1,11 @@
-~~Title:vadantaḥ~~
-{{description>saying; speaking.}}
+---json
+{
+    "name":"vadantaḥ",
+    "h1":"vadantaḥ",
+    "title":"vadantaḥ -- synonyms, prabhupada.io",
+    "description":"saying; speaking."
+}
+---
 
 ==== vadantaḥ  ====
   * saying --- [[books:sb:7:7:3|SB 7.7.3]]

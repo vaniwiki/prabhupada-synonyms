@@ -1,5 +1,11 @@
-~~Title:tithiḥ~~
-{{description>Medhātithi.}}
+---json
+{
+    "name":"tithiḥ",
+    "h1":"tithiḥ",
+    "title":"tithiḥ -- synonyms, prabhupada.io",
+    "description":"Medhātithi."
+}
+---
 
 ==== medhā-tithiḥ  ====
   * Medhātithi --- [[books:sb:5:20:25|SB 5.20.25]]

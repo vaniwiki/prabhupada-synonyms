@@ -1,5 +1,11 @@
-~~Title:śūdrāya~~
-{{description>unto a śūdra.}}
+---json
+{
+    "name":"śūdrāya",
+    "h1":"śūdrāya",
+    "title":"śūdrāya -- synonyms, prabhupada.io",
+    "description":"unto a śūdra."
+}
+---
 
 ==== śūdrāya  ====
   * unto a //śūdra// --- [[books:sb:4:2:13|SB 4.2.13]]

@@ -1,5 +1,11 @@
-~~Title:niyutāni~~
-{{description>lakhs (one lakh equals one hundred thousand).}}
+---json
+{
+    "name":"niyutāni",
+    "h1":"niyutāni",
+    "title":"niyutāni -- synonyms, prabhupada.io",
+    "description":"lakhs (one lakh equals one hundred thousand)."
+}
+---
 
 ==== niyutāni  ====
   * //lakhs// (one //lakh// equals one hundred thousand) --- [[books:sb:9:20:28|SB 9.20.28]]

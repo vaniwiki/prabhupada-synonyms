@@ -1,5 +1,11 @@
-~~Title:vilasita~~
-{{description>bewildered; gleaming; manifested.}}
+---json
+{
+    "name":"vilasita",
+    "h1":"vilasita",
+    "title":"vilasita -- synonyms, prabhupada.io",
+    "description":"bewildered; gleaming; manifested."
+}
+---
 
 ==== vilasita  ====
   * bewildered --- [[books:sb:5:4:4|SB 5.4.4]]

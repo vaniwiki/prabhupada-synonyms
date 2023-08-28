@@ -1,5 +1,11 @@
-~~Title:bujhibāra~~
-{{description>just to understand.}}
+---json
+{
+    "name":"bujhibāra",
+    "h1":"bujhibāra",
+    "title":"bujhibāra -- synonyms, prabhupada.io",
+    "description":"just to understand."
+}
+---
 
 ==== bujhibāra lāgi'  ====
   * just to understand --- [[books:cc:madhya:6:128|Madhya 6.128]]

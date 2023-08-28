@@ -1,5 +1,11 @@
-~~Title:gajān~~
-{{description>elephants.}}
+---json
+{
+    "name":"gajān",
+    "h1":"gajān",
+    "title":"gajān -- synonyms, prabhupada.io",
+    "description":"elephants."
+}
+---
 
 ==== gajān  ====
   * elephants --- [[books:sb:6:14:34|SB 6.14.34]], [[books:sb:8:18:32|SB 8.18.32]]

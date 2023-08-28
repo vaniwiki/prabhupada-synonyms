@@ -1,5 +1,11 @@
-~~Title:nidoṣa~~
-{{description>faultless.}}
+---json
+{
+    "name":"nidoṣa",
+    "h1":"nidoṣa",
+    "title":"nidoṣa -- synonyms, prabhupada.io",
+    "description":"faultless."
+}
+---
 
 ==== nidoṣa  ====
   * faultless --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

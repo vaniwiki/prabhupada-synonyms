@@ -1,5 +1,11 @@
-~~Title:vimarśanam~~
-{{description>full knowledge of Vedānta; research (as to whether one is the body or the soul).}}
+---json
+{
+    "name":"vimarśanam",
+    "h1":"vimarśanam",
+    "title":"vimarśanam -- synonyms, prabhupada.io",
+    "description":"full knowledge of Vedānta; research (as to whether one is the body or the soul)."
+}
+---
 
 ==== vimarśanam  ====
   * full knowledge of Vedānta --- [[books:sb:6:1:11|SB 6.1.11]]

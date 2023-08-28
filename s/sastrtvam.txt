@@ -1,5 +1,11 @@
-~~Title:śāstṛtvam~~
-{{description>departmental management.}}
+---json
+{
+    "name":"śāstṛtvam",
+    "h1":"śāstṛtvam",
+    "title":"śāstṛtvam -- synonyms, prabhupada.io",
+    "description":"departmental management."
+}
+---
 
 ==== śāstṛtvam  ====
   * departmental management --- [[books:sb:6:3:6|SB 6.3.6]]

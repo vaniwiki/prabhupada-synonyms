@@ -1,5 +1,11 @@
-~~Title:sahāyakarena~~
-{{description>He helps.}}
+---json
+{
+    "name":"sahāyakarena",
+    "h1":"sahāyakarena",
+    "title":"sahāyakarena -- synonyms, prabhupada.io",
+    "description":"He helps."
+}
+---
 
 ==== sahāyakarena  ====
   * He helps --- [[books:cc:adi:6:11|Ādi 6.11]]

@@ -1,5 +1,11 @@
-~~Title:upalaksya~~
-{{description>by observing; seeing.}}
+---json
+{
+    "name":"upalaksya",
+    "h1":"upalaksya",
+    "title":"upalaksya -- synonyms, prabhupada.io",
+    "description":"by observing; seeing."
+}
+---
 
 ==== upalakṣya  ====
   * by observing --- [[books:sb:4:9:2|SB 4.9.2]]

@@ -1,5 +1,11 @@
-~~Title:agendram~~
-{{description>the big mountain.}}
+---json
+{
+    "name":"agendram",
+    "h1":"agendram",
+    "title":"agendram -- synonyms, prabhupada.io",
+    "description":"the big mountain."
+}
+---
 
 ==== agendram  ====
   * the big mountain --- [[books:sb:8:7:12|SB 8.7.12]]

@@ -1,5 +1,11 @@
-~~Title:kahiyāche~~
-{{description>has spoken; has told of.}}
+---json
+{
+    "name":"kahiyāche",
+    "h1":"kahiyāche",
+    "title":"kahiyāche -- synonyms, prabhupada.io",
+    "description":"has spoken; has told of."
+}
+---
 
 ==== kahiyāche  ====
   * has spoken --- [[books:cc:antya:19:21|Antya 19.21]]

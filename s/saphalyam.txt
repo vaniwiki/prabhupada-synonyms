@@ -1,5 +1,11 @@
-~~Title:sāphalyam~~
-{{description>perfection.}}
+---json
+{
+    "name":"sāphalyam",
+    "h1":"sāphalyam",
+    "title":"sāphalyam -- synonyms, prabhupada.io",
+    "description":"perfection."
+}
+---
 
 ==== sāphalyam  ====
   * perfection --- [[books:cc:adi:9:42|Ādi 9.42]]

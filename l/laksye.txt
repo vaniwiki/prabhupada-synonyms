@@ -1,5 +1,11 @@
-~~Title:lakṣye~~
-{{description>on account of this water.}}
+---json
+{
+    "name":"lakṣye",
+    "h1":"lakṣye",
+    "title":"lakṣye -- synonyms, prabhupada.io",
+    "description":"on account of this water."
+}
+---
 
 ==== sei pānī-lakṣye  ====
   * on account of this water --- [[books:cc:antya:4:203|Antya 4.203]]

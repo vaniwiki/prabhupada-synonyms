@@ -1,5 +1,11 @@
-~~Title:vimūḍhatvam~~
-{{description>being dull.}}
+---json
+{
+    "name":"vimūḍhatvam",
+    "h1":"vimūḍhatvam",
+    "title":"vimūḍhatvam -- synonyms, prabhupada.io",
+    "description":"being dull."
+}
+---
 
 ==== vimūḍhatvam  ====
   * being dull --- [[books:sb:3:26:26|SB 3.26.26]]

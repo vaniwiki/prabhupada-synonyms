@@ -1,5 +1,11 @@
-~~Title:bhramiyā~~
-{{description>touring.}}
+---json
+{
+    "name":"bhramiyā",
+    "h1":"bhramiyā",
+    "title":"bhramiyā -- synonyms, prabhupada.io",
+    "description":"touring."
+}
+---
 
 ==== bhramiyā  ====
   * touring --- [[books:cc:madhya:17:52|Madhya 17.52]]

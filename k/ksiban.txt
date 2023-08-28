@@ -1,5 +1,11 @@
-~~Title:kṣībān~~
-{{description>intoxicated.}}
+---json
+{
+    "name":"kṣībān",
+    "h1":"kṣībān",
+    "title":"kṣībān -- synonyms, prabhupada.io",
+    "description":"intoxicated."
+}
+---
 
 ==== kṣībān  ====
   * intoxicated --- [[books:sb:3:17:23|SB 3.17.23]]

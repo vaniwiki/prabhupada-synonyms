@@ -1,5 +1,11 @@
-~~Title:yācitum~~
-{{description>to beg.}}
+---json
+{
+    "name":"yācitum",
+    "h1":"yācitum",
+    "title":"yācitum -- synonyms, prabhupada.io",
+    "description":"to beg."
+}
+---
 
 ==== yācitum  ====
   * to beg --- [[books:sb:8:19:20|SB 8.19.20]]

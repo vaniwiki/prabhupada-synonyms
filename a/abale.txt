@@ -1,5 +1,11 @@
-~~Title:abale~~
-{{description>O beautiful girl.}}
+---json
+{
+    "name":"abale",
+    "h1":"abale",
+    "title":"abale -- synonyms, prabhupada.io",
+    "description":"O beautiful girl."
+}
+---
 
 ==== abale  ====
   * O beautiful girl --- [[books:sb:3:20:35|SB 3.20.35]]

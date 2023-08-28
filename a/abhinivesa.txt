@@ -1,5 +1,11 @@
-~~Title:abhiniveśa~~
-{{description>by the entrance.}}
+---json
+{
+    "name":"abhiniveśa",
+    "h1":"abhiniveśa",
+    "title":"abhiniveśa -- synonyms, prabhupada.io",
+    "description":"by the entrance."
+}
+---
 
 ==== abhiniveśa  ====
   * by the entrance --- [[books:sb:5:8:4|SB 5.8.4]]

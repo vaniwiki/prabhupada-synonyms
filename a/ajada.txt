@@ -1,5 +1,11 @@
-~~Title:ajada~~
-{{description>emptying.}}
+---json
+{
+    "name":"ajada",
+    "h1":"ajada",
+    "title":"ajada -- synonyms, prabhupada.io",
+    "description":"emptying."
+}
+---
 
 ==== ājāḍa kariyā  ====
   * emptying --- [[books:cc:antya:10:56|Antya 10.56]]

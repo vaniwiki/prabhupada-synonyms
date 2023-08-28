@@ -1,5 +1,11 @@
-~~Title:muralike~~
-{{description>O good flute.}}
+---json
+{
+    "name":"muralike",
+    "h1":"muralike",
+    "title":"muralike -- synonyms, prabhupada.io",
+    "description":"O good flute."
+}
+---
 
 ==== muralike  ====
   * O good flute --- [[books:cc:antya:1:162|Antya 1.162]]

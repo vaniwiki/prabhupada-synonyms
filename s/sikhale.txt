@@ -1,5 +1,11 @@
-~~Title:śikhāle~~
-{{description>give education.}}
+---json
+{
+    "name":"śikhāle",
+    "h1":"śikhāle",
+    "title":"śikhāle -- synonyms, prabhupada.io",
+    "description":"give education."
+}
+---
 
 ==== śikhāle  ====
   * give education --- [[books:cc:adi:14:87|Ādi 14.87]]

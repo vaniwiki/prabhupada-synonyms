@@ -1,5 +1,11 @@
-~~Title:anāśayan~~
-{{description>extinguished.}}
+---json
+{
+    "name":"anāśayan",
+    "h1":"anāśayan",
+    "title":"anāśayan -- synonyms, prabhupada.io",
+    "description":"extinguished."
+}
+---
 
 ==== anāśayan  ====
   * extinguished --- [[books:sb:4:5:15|SB 4.5.15]]

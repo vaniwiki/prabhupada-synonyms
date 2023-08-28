@@ -1,5 +1,11 @@
-~~Title:agniṣvāttā~~
-{{description>headed by Agniṣvāttā.}}
+---json
+{
+    "name":"agniṣvāttā",
+    "h1":"agniṣvāttā",
+    "title":"agniṣvāttā -- synonyms, prabhupada.io",
+    "description":"headed by Agniṣvāttā."
+}
+---
 
 ==== agniṣvāttā-ādayaḥ  ====
   * headed by Agniṣvāttā --- [[books:sb:5:26:5|SB 5.26.5]]

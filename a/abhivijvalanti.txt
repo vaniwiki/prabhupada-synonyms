@@ -1,5 +1,11 @@
-~~Title:abhivijvalanti~~
-{{description>blazing.}}
+---json
+{
+    "name":"abhivijvalanti",
+    "h1":"abhivijvalanti",
+    "title":"abhivijvalanti -- synonyms, prabhupada.io",
+    "description":"blazing."
+}
+---
 
 ==== abhivijvalanti  ====
   * blazing --- [[books:bg:11:28|Bg. 11.28]]

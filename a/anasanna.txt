@@ -1,5 +1,11 @@
-~~Title:anāsanna~~
-{{description>not taken shelter.}}
+---json
+{
+    "name":"anāsanna",
+    "h1":"anāsanna",
+    "title":"anāsanna -- synonyms, prabhupada.io",
+    "description":"not taken shelter."
+}
+---
 
 ==== anāsanna  ====
   * not taken shelter --- [[books:sb:3:20:27|SB 3.20.27]]

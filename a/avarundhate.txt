@@ -1,5 +1,11 @@
-~~Title:avarundhate~~
-{{description>obtain.}}
+---json
+{
+    "name":"avarundhate",
+    "h1":"avarundhate",
+    "title":"avarundhate -- synonyms, prabhupada.io",
+    "description":"obtain."
+}
+---
 
 ==== avarundhate  ====
   * obtain --- [[books:sb:5:14:39|SB 5.14.39]]

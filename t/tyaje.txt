@@ -1,5 +1,11 @@
-~~Title:tyaje~~
-{{description>give up.}}
+---json
+{
+    "name":"tyaje",
+    "h1":"tyaje",
+    "title":"tyaje -- synonyms, prabhupada.io",
+    "description":"give up."
+}
+---
 
 ==== tyaje  ====
   * give up --- [[books:cc:madhya:9:271|Madhya 9.271]]

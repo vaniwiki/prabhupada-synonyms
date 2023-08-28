@@ -1,5 +1,11 @@
-~~Title:āliliṅga~~
-{{description>embraced.}}
+---json
+{
+    "name":"āliliṅga",
+    "h1":"āliliṅga",
+    "title":"āliliṅga -- synonyms, prabhupada.io",
+    "description":"embraced."
+}
+---
 
 ==== āliliṅga  ====
   * embraced --- [[books:cc:madhya:24:349|Madhya 24.349]]

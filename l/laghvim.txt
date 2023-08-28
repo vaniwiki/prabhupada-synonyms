@@ -1,5 +1,11 @@
-~~Title:laghvīm~~
-{{description>properly composed.}}
+---json
+{
+    "name":"laghvīm",
+    "h1":"laghvīm",
+    "title":"laghvīm -- synonyms, prabhupada.io",
+    "description":"properly composed."
+}
+---
 
 ==== laghvīm  ====
   * properly composed --- [[books:sb:3:16:14|SB 3.16.14]]

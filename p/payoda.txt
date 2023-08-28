@@ -1,5 +1,11 @@
-~~Title:payoda~~
-{{description>very beautiful, being present with the hue of blackish clouds.}}
+---json
+{
+    "name":"payoda",
+    "h1":"payoda",
+    "title":"payoda -- synonyms, prabhupada.io",
+    "description":"very beautiful, being present with the hue of blackish clouds."
+}
+---
 
 ==== sāndra-payoda-saubhagam  ====
   * very beautiful, being present with the hue of blackish clouds --- [[books:sb:10:3:9-10|SB 10.3.9-10]]

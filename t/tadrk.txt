@@ -1,5 +1,11 @@
-~~Title:tādṛk~~
-{{description>similarly.}}
+---json
+{
+    "name":"tādṛk",
+    "h1":"tādṛk",
+    "title":"tādṛk -- synonyms, prabhupada.io",
+    "description":"similarly."
+}
+---
 
 ==== tādṛk  ====
   * similarly --- [[books:cc:madhya:20:316|Madhya 20.316]]

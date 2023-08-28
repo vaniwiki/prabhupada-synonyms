@@ -1,5 +1,11 @@
-~~Title:nakhe~~
-{{description>by the nails; with the nails.}}
+---json
+{
+    "name":"nakhe",
+    "h1":"nakhe",
+    "title":"nakhe -- synonyms, prabhupada.io",
+    "description":"by the nails; with the nails."
+}
+---
 
 ==== nakhe  ====
   * by the nails --- [[books:cc:madhya:2:55|Madhya 2.55]]

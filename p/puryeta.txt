@@ -1,5 +1,11 @@
-~~Title:pūryeta~~
-{{description>are filled.}}
+---json
+{
+    "name":"pūryeta",
+    "h1":"pūryeta",
+    "title":"pūryeta -- synonyms, prabhupada.io",
+    "description":"are filled."
+}
+---
 
 ==== pūryeta  ====
   * are filled --- [[books:sb:3:15:49|SB 3.15.49]]

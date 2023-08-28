@@ -1,5 +1,11 @@
-~~Title:vahe~~
-{{description>are flowing; blowing; blows; carries; discharging; flow; flowed; flowing; flows; I am accepting; there is a flow; were blowing.}}
+---json
+{
+    "name":"vahe",
+    "h1":"vahe",
+    "title":"vahe -- synonyms, prabhupada.io",
+    "description":"are flowing; blowing; blows; carries; discharging; flow; flowed; flowing; flows; I am accepting; there is a flow; were blowing."
+}
+---
 
 ==== vahe  ====
   * are flowing --- [[books:cc:madhya:13:105|Madhya 13.105]]

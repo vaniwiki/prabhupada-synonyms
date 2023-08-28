@@ -1,5 +1,11 @@
-~~Title:trāsam~~
-{{description>the cause of fear.}}
+---json
+{
+    "name":"trāsam",
+    "h1":"trāsam",
+    "title":"trāsam -- synonyms, prabhupada.io",
+    "description":"the cause of fear."
+}
+---
 
 ==== trāsam-āvahaḥ  ====
   * the cause of fear --- [[books:sb:9:11:17|SB 9.11.17]]

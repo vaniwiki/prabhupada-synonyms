@@ -1,5 +1,11 @@
-~~Title:anuvrata~~
-{{description>Anuvrata.}}
+---json
+{
+    "name":"anuvrata",
+    "h1":"anuvrata",
+    "title":"anuvrata -- synonyms, prabhupada.io",
+    "description":"Anuvrata."
+}
+---
 
 ==== anuvrata  ====
   * Anuvrata --- [[books:sb:5:20:27|SB 5.20.27]]

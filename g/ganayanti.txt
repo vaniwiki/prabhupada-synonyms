@@ -1,5 +1,11 @@
-~~Title:gaṇayanti~~
-{{description>count; they care for.}}
+---json
+{
+    "name":"gaṇayanti",
+    "h1":"gaṇayanti",
+    "title":"gaṇayanti -- synonyms, prabhupada.io",
+    "description":"count; they care for."
+}
+---
 
 ==== gaṇayanti  ====
   * count --- [[books:sb:5:26:7|SB 5.26.7]]

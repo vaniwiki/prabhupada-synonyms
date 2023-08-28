@@ -1,5 +1,11 @@
-~~Title:sandarśitaḥ~~
-{{description>meeting.}}
+---json
+{
+    "name":"sandarśitaḥ",
+    "h1":"sandarśitaḥ",
+    "title":"sandarśitaḥ -- synonyms, prabhupada.io",
+    "description":"meeting."
+}
+---
 
 ==== sandarśitaḥ  ====
   * meeting --- [[books:sb:1:1:22|SB 1.1.22]]

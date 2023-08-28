@@ -1,5 +1,11 @@
-~~Title:paśyatoḥ~~
-{{description>were watching.}}
+---json
+{
+    "name":"paśyatoḥ",
+    "h1":"paśyatoḥ",
+    "title":"paśyatoḥ -- synonyms, prabhupada.io",
+    "description":"were watching."
+}
+---
 
 ==== paśyatoḥ  ====
   * were watching --- [[books:sb:6:17:25|SB 6.17.25]]

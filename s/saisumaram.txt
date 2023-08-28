@@ -1,5 +1,11 @@
-~~Title:śaiśumāram~~
-{{description>named Śiśumāra.}}
+---json
+{
+    "name":"śaiśumāram",
+    "h1":"śaiśumāram",
+    "title":"śaiśumāram -- synonyms, prabhupada.io",
+    "description":"named Śiśumāra."
+}
+---
 
 ==== śaiśumāram  ====
   * named Śiśumāra --- [[books:sb:2:2:24|SB 2.2.24]]

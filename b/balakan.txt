@@ -1,5 +1,11 @@
-~~Title:bālakān~~
-{{description>boys; children; the boys; their sons.}}
+---json
+{
+    "name":"bālakān",
+    "h1":"bālakān",
+    "title":"bālakān -- synonyms, prabhupada.io",
+    "description":"boys; children; the boys; their sons."
+}
+---
 
 ==== bālakān  ====
   * boys --- [[books:sb:1:14:43|SB 1.14.43]]

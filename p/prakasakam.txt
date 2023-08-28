@@ -1,5 +1,11 @@
-~~Title:prakāśakam~~
-{{description>illuminating.}}
+---json
+{
+    "name":"prakāśakam",
+    "h1":"prakāśakam",
+    "title":"prakāśakam -- synonyms, prabhupada.io",
+    "description":"illuminating."
+}
+---
 
 ==== prakāśakam  ====
   * illuminating --- [[books:bg:14:6|Bg. 14.6]]

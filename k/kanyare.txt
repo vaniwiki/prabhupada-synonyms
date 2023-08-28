@@ -1,5 +1,11 @@
-~~Title:kanyāre~~
-{{description>addressing the girls, the Lord would say.}}
+---json
+{
+    "name":"kanyāre",
+    "h1":"kanyāre",
+    "title":"kanyāre -- synonyms, prabhupada.io",
+    "description":"addressing the girls, the Lord would say."
+}
+---
 
 ==== kanyāre kahe  ====
   * addressing the girls, the Lord would say --- [[books:cc:adi:14:50|Ādi 14.50]]

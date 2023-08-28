@@ -1,5 +1,11 @@
-~~Title:saṅariyā~~
-{{description>remembering.}}
+---json
+{
+    "name":"saṅariyā",
+    "h1":"saṅariyā",
+    "title":"saṅariyā -- synonyms, prabhupada.io",
+    "description":"remembering."
+}
+---
 
 ==== saṅariyā  ====
   * remembering --- [[books:cc:madhya:18:13|Madhya 18.13]], [[books:cc:antya:14:42|Antya 14.42]]

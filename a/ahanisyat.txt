@@ -1,5 +1,11 @@
-~~Title:ahaniṣyat~~
-{{description>would kill.}}
+---json
+{
+    "name":"ahaniṣyat",
+    "h1":"ahaniṣyat",
+    "title":"ahaniṣyat -- synonyms, prabhupada.io",
+    "description":"would kill."
+}
+---
 
 ==== ahaniṣyat  ====
   * would kill --- [[books:sb:4:17:19|SB 4.17.19]]

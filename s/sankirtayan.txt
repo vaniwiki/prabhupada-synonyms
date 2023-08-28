@@ -1,5 +1,11 @@
-~~Title:saṅkīrtayan~~
-{{description>by chanting, repeating.}}
+---json
+{
+    "name":"saṅkīrtayan",
+    "h1":"saṅkīrtayan",
+    "title":"saṅkīrtayan -- synonyms, prabhupada.io",
+    "description":"by chanting, repeating."
+}
+---
 
 ==== saṅkīrtayan  ====
   * by chanting, repeating --- [[books:sb:9:5:27|SB 9.5.27]]

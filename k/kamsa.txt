@@ -1,5 +1,11 @@
-~~Title:kamsa~~
-{{description>the King of Mathurā and maternal uncle of Kṛṣṇa.}}
+---json
+{
+    "name":"kamsa",
+    "h1":"kamsa",
+    "title":"kamsa -- synonyms, prabhupada.io",
+    "description":"the King of Mathurā and maternal uncle of Kṛṣṇa."
+}
+---
 
 ==== kaṁsa  ====
   * the King of Mathurā and maternal uncle of Kṛṣṇa --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

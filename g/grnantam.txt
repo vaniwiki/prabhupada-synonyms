@@ -1,5 +1,11 @@
-~~Title:gṛṇantam~~
-{{description>asking; resounding; while talking.}}
+---json
+{
+    "name":"gṛṇantam",
+    "h1":"gṛṇantam",
+    "title":"gṛṇantam -- synonyms, prabhupada.io",
+    "description":"asking; resounding; while talking."
+}
+---
 
 ==== gṛṇantam  ====
   * asking --- [[books:sb:4:5:4|SB 4.5.4]]

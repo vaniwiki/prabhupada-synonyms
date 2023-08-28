@@ -1,5 +1,11 @@
-~~Title:vikrīḍita~~
-{{description>being defeated.}}
+---json
+{
+    "name":"vikrīḍita",
+    "h1":"vikrīḍita",
+    "title":"vikrīḍita -- synonyms, prabhupada.io",
+    "description":"being defeated."
+}
+---
 
 ==== vikrīḍita  ====
   * being defeated --- [[books:sb:4:10:20|SB 4.10.20]]

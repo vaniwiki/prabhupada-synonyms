@@ -1,5 +1,11 @@
-~~Title:ojase~~
-{{description>the source of the potency of the senses; who supplies strength to the senses.}}
+---json
+{
+    "name":"ojase",
+    "h1":"ojase",
+    "title":"ojase -- synonyms, prabhupada.io",
+    "description":"the source of the potency of the senses; who supplies strength to the senses."
+}
+---
 
 ==== ojase  ====
   * the source of the potency of the senses --- [[books:sb:5:18:25|SB 5.18.25]]

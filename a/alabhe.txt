@@ -1,5 +1,11 @@
-~~Title:alābhe~~
-{{description>when eatables are unavailable or He cannot find such pots.}}
+---json
+{
+    "name":"alābhe",
+    "h1":"alābhe",
+    "title":"alābhe -- synonyms, prabhupada.io",
+    "description":"when eatables are unavailable or He cannot find such pots."
+}
+---
 
 ==== dravya-alābhe  ====
   * when eatables are unavailable or He cannot find such pots --- [[books:sb:10:8:29|SB 10.8.29]]

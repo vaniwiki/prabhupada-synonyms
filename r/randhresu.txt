@@ -1,5 +1,11 @@
-~~Title:randhreṣu~~
-{{description>in the aural holes.}}
+---json
+{
+    "name":"randhreṣu",
+    "h1":"randhreṣu",
+    "title":"randhreṣu -- synonyms, prabhupada.io",
+    "description":"in the aural holes."
+}
+---
 
 ==== karṇa-randhreṣu  ====
   * in the aural holes --- [[books:sb:4:22:63|SB 4.22.63]]

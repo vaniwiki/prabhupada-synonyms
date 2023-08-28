@@ -1,5 +1,11 @@
-~~Title:āula~~
-{{description>persons who have become mad in ecstatic love.}}
+---json
+{
+    "name":"āula",
+    "h1":"āula",
+    "title":"āula -- synonyms, prabhupada.io",
+    "description":"persons who have become mad in ecstatic love."
+}
+---
 
 ==== āula  ====
   * persons who have become mad in ecstatic love --- [[books:cc:antya:19:21|Antya 19.21]]

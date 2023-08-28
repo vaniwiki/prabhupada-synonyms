@@ -1,5 +1,11 @@
-~~Title:cāhaye~~
-{{description>wants.}}
+---json
+{
+    "name":"cāhaye",
+    "h1":"cāhaye",
+    "title":"cāhaye -- synonyms, prabhupada.io",
+    "description":"wants."
+}
+---
 
 ==== cāhaye  ====
   * wants --- [[books:cc:adi:16:88|Ādi 16.88]]

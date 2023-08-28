@@ -1,5 +1,11 @@
-~~Title:avali~~
-{{description>rows.}}
+---json
+{
+    "name":"avali",
+    "h1":"avali",
+    "title":"avali -- synonyms, prabhupada.io",
+    "description":"rows."
+}
+---
 
 ==== āvali  ====
   * rows --- [[books:cc:adi:2:2|Ādi 2.2]]

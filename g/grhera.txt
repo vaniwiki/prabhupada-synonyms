@@ -1,5 +1,11 @@
-~~Title:gṛhera~~
-{{description>within the room.}}
+---json
+{
+    "name":"gṛhera",
+    "h1":"gṛhera",
+    "title":"gṛhera -- synonyms, prabhupada.io",
+    "description":"within the room."
+}
+---
 
 ==== gṛhera bhitare  ====
   * within the room --- [[books:cc:madhya:12:200|Madhya 12.200]]

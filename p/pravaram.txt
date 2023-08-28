@@ -1,5 +1,11 @@
-~~Title:pravaram~~
-{{description>most honored; unique.}}
+---json
+{
+    "name":"pravaram",
+    "h1":"pravaram",
+    "title":"pravaram -- synonyms, prabhupada.io",
+    "description":"most honored; unique."
+}
+---
 
 ==== pravaram  ====
   * most honored --- [[books:sb:5:9:1-2|SB 5.9.1-2]]

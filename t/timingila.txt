@@ -1,5 +1,11 @@
-~~Title:timiṅgila~~
-{{description>whales that can swallow whales.}}
+---json
+{
+    "name":"timiṅgila",
+    "h1":"timiṅgila",
+    "title":"timiṅgila -- synonyms, prabhupada.io",
+    "description":"whales that can swallow whales."
+}
+---
 
 ==== timiṅgila  ====
   * whales that can swallow whales --- [[books:sb:8:7:18|SB 8.7.18]]

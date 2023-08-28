@@ -1,5 +1,11 @@
-~~Title:vedasya~~
-{{description>of the Vedas.}}
+---json
+{
+    "name":"vedasya",
+    "h1":"vedasya",
+    "title":"vedasya -- synonyms, prabhupada.io",
+    "description":"of the Vedas."
+}
+---
 
 ==== vedasya  ====
   * of the //Vedas// --- [[books:sb:3:7:29|SB 3.7.29]]

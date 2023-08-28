@@ -1,5 +1,11 @@
-~~Title:dāśuṣam~~
-{{description>because I can give You an entire island.}}
+---json
+{
+    "name":"dāśuṣam",
+    "h1":"dāśuṣam",
+    "title":"dāśuṣam -- synonyms, prabhupada.io",
+    "description":"because I can give You an entire island."
+}
+---
 
 ==== dvīpa-dāśuṣam  ====
   * because I can give You an entire island --- [[books:sb:8:19:19|SB 8.19.19]]

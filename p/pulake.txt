@@ -1,5 +1,11 @@
-~~Title:pulake~~
-{{description>in joy.}}
+---json
+{
+    "name":"pulake",
+    "h1":"pulake",
+    "title":"pulake -- synonyms, prabhupada.io",
+    "description":"in joy."
+}
+---
 
 ==== pulake  ====
   * in joy --- [[books:cc:madhya:2:72|Madhya 2.72]]

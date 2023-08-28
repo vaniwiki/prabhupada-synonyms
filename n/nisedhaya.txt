@@ -1,5 +1,11 @@
-~~Title:niṣedhaya~~
-{{description>forbid.}}
+---json
+{
+    "name":"niṣedhaya",
+    "h1":"niṣedhaya",
+    "title":"niṣedhaya -- synonyms, prabhupada.io",
+    "description":"forbid."
+}
+---
 
 ==== niṣedhaya  ====
   * forbid --- [[books:cc:madhya:8:36|Madhya 8.36]]

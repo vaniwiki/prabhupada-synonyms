@@ -1,5 +1,11 @@
-~~Title:milena~~
-{{description>meets both of them.}}
+---json
+{
+    "name":"milena",
+    "h1":"milena",
+    "title":"milena -- synonyms, prabhupada.io",
+    "description":"meets both of them."
+}
+---
 
 ==== milena dui-jane  ====
   * meets both of them --- [[books:cc:antya:4:52|Antya 4.52]]

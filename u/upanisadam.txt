@@ -1,5 +1,11 @@
-~~Title:upanisadam~~
-{{description>as well as the Upaniṣads.}}
+---json
+{
+    "name":"upanisadam",
+    "h1":"upanisadam",
+    "title":"upanisadam -- synonyms, prabhupada.io",
+    "description":"as well as the Upaniṣads."
+}
+---
 
 ==== upaniṣadam  ====
   * as well as the //Upaniṣads// --- [[books:sb:7:12:13-14|SB 7.12.13-14]]

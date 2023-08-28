@@ -1,5 +1,11 @@
-~~Title:kathayiṣyāmi~~
-{{description>I shall speak; I shall speak to you.}}
+---json
+{
+    "name":"kathayiṣyāmi",
+    "h1":"kathayiṣyāmi",
+    "title":"kathayiṣyāmi -- synonyms, prabhupada.io",
+    "description":"I shall speak; I shall speak to you."
+}
+---
 
 ==== kathayiṣyāmi  ====
   * I shall speak --- [[books:bg:10:19|Bg. 10.19]]

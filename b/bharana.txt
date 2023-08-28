@@ -1,5 +1,11 @@
-~~Title:bharana~~
-{{description>filling; in maintaining; provision; to maintain.}}
+---json
+{
+    "name":"bharana",
+    "h1":"bharana",
+    "title":"bharana -- synonyms, prabhupada.io",
+    "description":"filling; in maintaining; provision; to maintain."
+}
+---
 
 ==== bharaṇa  ====
   * filling --- [[books:cc:adi:5:96|Ādi 5.96]]

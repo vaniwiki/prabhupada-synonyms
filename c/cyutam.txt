@@ -1,5 +1,11 @@
-~~Title:cyutam~~
-{{description>fallen; fallen there; some possession dropped.}}
+---json
+{
+    "name":"cyutam",
+    "h1":"cyutam",
+    "title":"cyutam -- synonyms, prabhupada.io",
+    "description":"fallen; fallen there; some possession dropped."
+}
+---
 
 ==== cyutam  ====
   * fallen --- [[books:sb:1:9:4|SB 1.9.4]], [[books:sb:6:12:6|SB 6.12.6]]

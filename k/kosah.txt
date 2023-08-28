@@ -1,5 +1,11 @@
-~~Title:kosah~~
-{{description>treasury; whorl.}}
+---json
+{
+    "name":"kosah",
+    "h1":"kosah",
+    "title":"kosah -- synonyms, prabhupada.io",
+    "description":"treasury; whorl."
+}
+---
 
 ==== kośaḥ  ====
   * treasury --- [[books:sb:4:22:44|SB 4.22.44]]

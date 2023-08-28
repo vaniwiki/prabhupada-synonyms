@@ -1,5 +1,11 @@
-~~Title:svasmāt~~
-{{description>as well as from one's self.}}
+---json
+{
+    "name":"svasmāt",
+    "h1":"svasmāt",
+    "title":"svasmāt -- synonyms, prabhupada.io",
+    "description":"as well as from one's self."
+}
+---
 
 ==== svasmāt  ====
   * as well as from one's self --- [[books:sb:7:13:33|SB 7.13.33]]

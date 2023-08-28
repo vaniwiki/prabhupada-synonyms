@@ -1,5 +1,11 @@
-~~Title:bhasa~~
-{{description>brilliance; by the luster; by the splendor; indication; the bhāsa; vultures.}}
+---json
+{
+    "name":"bhasa",
+    "h1":"bhasa",
+    "title":"bhasa -- synonyms, prabhupada.io",
+    "description":"brilliance; by the luster; by the splendor; indication; the bhāsa; vultures."
+}
+---
 
 ==== bhāsa  ====
   * brilliance --- [[books:cc:antya:1:173|Antya 1.173]]

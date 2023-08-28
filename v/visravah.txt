@@ -1,5 +1,11 @@
-~~Title:visravah~~
-{{description>Viśravā.}}
+---json
+{
+    "name":"visravah",
+    "h1":"visravah",
+    "title":"visravah -- synonyms, prabhupada.io",
+    "description":"Viśravā."
+}
+---
 
 ==== viśravāḥ  ====
   * Viśravā --- [[books:sb:4:1:36|SB 4.1.36]], [[books:sb:9:2:32|SB 9.2.32]]

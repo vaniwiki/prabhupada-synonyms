@@ -1,5 +1,11 @@
-~~Title:udvejayan~~
-{{description>giving trouble.}}
+---json
+{
+    "name":"udvejayan",
+    "h1":"udvejayan",
+    "title":"udvejayan -- synonyms, prabhupada.io",
+    "description":"giving trouble."
+}
+---
 
 ==== udvejayan  ====
   * giving trouble --- [[books:sb:9:8:15-16|SB 9.8.15-16]]

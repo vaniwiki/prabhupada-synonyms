@@ -1,5 +1,11 @@
-~~Title:līna~~
-{{description>merged in.}}
+---json
+{
+    "name":"līna",
+    "h1":"līna",
+    "title":"līna -- synonyms, prabhupada.io",
+    "description":"merged in."
+}
+---
 
 ==== līna  ====
   * merged in --- [[books:sb:1:15:31|SB 1.15.31]]

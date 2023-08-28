@@ -1,5 +1,11 @@
-~~Title:vinimayaḥ~~
-{{description>action and reaction; the exchange.}}
+---json
+{
+    "name":"vinimayaḥ",
+    "h1":"vinimayaḥ",
+    "title":"vinimayaḥ -- synonyms, prabhupada.io",
+    "description":"action and reaction; the exchange."
+}
+---
 
 ==== vinimayaḥ  ====
   * action and reaction --- [[books:sb:1:1:1|SB 1.1.1]]

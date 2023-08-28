@@ -1,5 +1,11 @@
-~~Title:udapāsya~~
-{{description>setting far aside.}}
+---json
+{
+    "name":"udapāsya",
+    "h1":"udapāsya",
+    "title":"udapāsya -- synonyms, prabhupada.io",
+    "description":"setting far aside."
+}
+---
 
 ==== udapāsya  ====
   * setting far aside --- [[books:cc:madhya:8:67|Madhya 8.67]]

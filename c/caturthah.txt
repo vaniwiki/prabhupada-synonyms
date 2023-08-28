@@ -1,5 +1,11 @@
-~~Title:caturthaḥ~~
-{{description>the fourth.}}
+---json
+{
+    "name":"caturthaḥ",
+    "h1":"caturthaḥ",
+    "title":"caturthaḥ -- synonyms, prabhupada.io",
+    "description":"the fourth."
+}
+---
 
 ==== caturthaḥ  ====
   * the fourth --- [[books:sb:3:10:16|SB 3.10.16]], [[books:sb:7:5:16|SB 7.5.16]]

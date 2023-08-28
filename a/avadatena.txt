@@ -1,5 +1,11 @@
-~~Title:avadātena~~
-{{description>with a luster like that of molten gold.}}
+---json
+{
+    "name":"avadātena",
+    "h1":"avadātena",
+    "title":"avadātena -- synonyms, prabhupada.io",
+    "description":"with a luster like that of molten gold."
+}
+---
 
 ==== tapta-hema-avadātena  ====
   * with a luster like that of molten gold --- [[books:sb:8:6:3-7|SB 8.6.3-7]]

@@ -1,5 +1,11 @@
-~~Title:kuhakayoḥ~~
-{{description>maintaining duplicity.}}
+---json
+{
+    "name":"kuhakayoḥ",
+    "h1":"kuhakayoḥ",
+    "title":"kuhakayoḥ -- synonyms, prabhupada.io",
+    "description":"maintaining duplicity."
+}
+---
 
 ==== kuhakayoḥ  ====
   * maintaining duplicity --- [[books:sb:3:15:32|SB 3.15.32]]

@@ -1,5 +1,11 @@
-~~Title:rasena~~
-{{description>by a juice; by the juice; by transcendental mellows.}}
+---json
+{
+    "name":"rasena",
+    "h1":"rasena",
+    "title":"rasena -- synonyms, prabhupada.io",
+    "description":"by a juice; by the juice; by transcendental mellows."
+}
+---
 
 ==== rasena  ====
   * by a juice --- [[books:sb:5:24:16|SB 5.24.16]]

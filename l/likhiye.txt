@@ -1,5 +1,11 @@
-~~Title:likhiye~~
-{{description>I shall write; I write.}}
+---json
+{
+    "name":"likhiye",
+    "h1":"likhiye",
+    "title":"likhiye -- synonyms, prabhupada.io",
+    "description":"I shall write; I write."
+}
+---
 
 ==== likhiye  ====
   * I shall write --- [[books:cc:antya:1:12|Antya 1.12]]

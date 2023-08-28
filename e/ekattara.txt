@@ -1,5 +1,11 @@
-~~Title:ekāttara~~
-{{description>seventy-one.}}
+---json
+{
+    "name":"ekāttara",
+    "h1":"ekāttara",
+    "title":"ekāttara -- synonyms, prabhupada.io",
+    "description":"seventy-one."
+}
+---
 
 ==== ekāttara  ====
   * seventy-one --- [[books:cc:adi:3:8|Ādi 3.8]]

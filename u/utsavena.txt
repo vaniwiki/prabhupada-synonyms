@@ -1,5 +1,11 @@
-~~Title:utsavena~~
-{{description>appearing like a festival.}}
+---json
+{
+    "name":"utsavena",
+    "h1":"utsavena",
+    "title":"utsavena -- synonyms, prabhupada.io",
+    "description":"appearing like a festival."
+}
+---
 
 ==== mahā-utsavena  ====
   * appearing like a festival --- [[books:sb:5:5:31|SB 5.5.31]]

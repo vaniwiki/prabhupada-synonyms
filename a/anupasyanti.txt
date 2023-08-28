@@ -1,5 +1,11 @@
-~~Title:anupaśyanti~~
-{{description>can see; does see by following authorities.}}
+---json
+{
+    "name":"anupaśyanti",
+    "h1":"anupaśyanti",
+    "title":"anupaśyanti -- synonyms, prabhupada.io",
+    "description":"can see; does see by following authorities."
+}
+---
 
 ==== anupaśyanti  ====
   * can see --- [[books:bg:15:10|Bg. 15.10]]

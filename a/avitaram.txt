@@ -1,5 +1,11 @@
-~~Title:avitāram~~
-{{description>the guardian.}}
+---json
+{
+    "name":"avitāram",
+    "h1":"avitāram",
+    "title":"avitāram -- synonyms, prabhupada.io",
+    "description":"the guardian."
+}
+---
 
 ==== avitāram  ====
   * the guardian --- [[books:sb:1:11:4-5|SB 1.11.4-5]]

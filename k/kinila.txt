@@ -1,5 +1,11 @@
-~~Title:kinilā~~
-{{description>you have purchased.}}
+---json
+{
+    "name":"kinilā",
+    "h1":"kinilā",
+    "title":"kinilā -- synonyms, prabhupada.io",
+    "description":"you have purchased."
+}
+---
 
 ==== kinilā  ====
   * you have purchased --- [[books:cc:antya:7:162|Antya 7.162]]

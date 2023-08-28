@@ -1,5 +1,11 @@
-~~Title:vidyādhrān~~
-{{description>the Vidyādharas.}}
+---json
+{
+    "name":"vidyādhrān",
+    "h1":"vidyādhrān",
+    "title":"vidyādhrān -- synonyms, prabhupada.io",
+    "description":"the Vidyādharas."
+}
+---
 
 ==== vidyādhrān  ====
   * the Vidyādharas --- [[books:sb:7:4:5-7|SB 7.4.5-7]]

@@ -1,5 +1,11 @@
-~~Title:srgalah~~
-{{description>jackal.}}
+---json
+{
+    "name":"srgalah",
+    "h1":"srgalah",
+    "title":"srgalah -- synonyms, prabhupada.io",
+    "description":"jackal."
+}
+---
 
 ==== sṛgālaḥ  ====
   * jackal --- [[books:sb:3:10:24|SB 3.10.24]]

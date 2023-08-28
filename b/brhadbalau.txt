@@ -1,5 +1,11 @@
-~~Title:bṛhadbalau~~
-{{description>and Bṛhadbala.}}
+---json
+{
+    "name":"bṛhadbalau",
+    "h1":"bṛhadbalau",
+    "title":"bṛhadbalau -- synonyms, prabhupada.io",
+    "description":"and Bṛhadbala."
+}
+---
 
 ==== bṛhadbalau  ====
   * and Bṛhadbala --- [[books:sb:9:24:40|SB 9.24.40]]

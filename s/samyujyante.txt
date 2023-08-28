@@ -1,5 +1,11 @@
-~~Title:saṁyujyante~~
-{{description>they are united.}}
+---json
+{
+    "name":"saṁyujyante",
+    "h1":"saṁyujyante",
+    "title":"saṁyujyante -- synonyms, prabhupada.io",
+    "description":"they are united."
+}
+---
 
 ==== saṁyujyante  ====
   * they are united --- [[books:sb:6:15:3|SB 6.15.3]]

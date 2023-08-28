@@ -1,5 +1,11 @@
-~~Title:nembu~~
-{{description>a preparation made with lime and ginger.}}
+---json
+{
+    "name":"nembu",
+    "h1":"nembu",
+    "title":"nembu -- synonyms, prabhupada.io",
+    "description":"a preparation made with lime and ginger."
+}
+---
 
 ==== nembu-ādā  ====
   * a preparation made with lime and ginger --- [[books:cc:antya:10:15-16|Antya 10.15-16]]

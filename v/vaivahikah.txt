@@ -1,5 +1,11 @@
-~~Title:vaivāhikaḥ~~
-{{description>of marriage.}}
+---json
+{
+    "name":"vaivāhikaḥ",
+    "h1":"vaivāhikaḥ",
+    "title":"vaivāhikaḥ -- synonyms, prabhupada.io",
+    "description":"of marriage."
+}
+---
 
 ==== vaivāhikaḥ  ====
   * of marriage --- [[books:sb:3:22:15|SB 3.22.15]]

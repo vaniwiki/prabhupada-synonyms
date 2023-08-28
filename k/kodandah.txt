@@ -1,5 +1,11 @@
-~~Title:kodaṇḍaḥ~~
-{{description>bow.}}
+---json
+{
+    "name":"kodaṇḍaḥ",
+    "h1":"kodaṇḍaḥ",
+    "title":"kodaṇḍaḥ -- synonyms, prabhupada.io",
+    "description":"bow."
+}
+---
 
 ==== kodaṇḍaḥ  ====
   * bow --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

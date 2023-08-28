@@ -1,5 +1,11 @@
-~~Title:pravibhaktam~~
-{{description>divided in.}}
+---json
+{
+    "name":"pravibhaktam",
+    "h1":"pravibhaktam",
+    "title":"pravibhaktam -- synonyms, prabhupada.io",
+    "description":"divided in."
+}
+---
 
 ==== pravibhaktam  ====
   * divided in --- [[books:bg:11:13|Bg. 11.13]]

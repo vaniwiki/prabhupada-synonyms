@@ -1,5 +1,11 @@
-~~Title:śodhana~~
-{{description>cleansing; payment; purification; purifying.}}
+---json
+{
+    "name":"śodhana",
+    "h1":"śodhana",
+    "title":"śodhana -- synonyms, prabhupada.io",
+    "description":"cleansing; payment; purification; purifying."
+}
+---
 
 ==== śodhana  ====
   * cleansing --- [[books:cc:madhya:12:81|Madhya 12.81]], [[books:cc:madhya:12:93|Madhya 12.93]]

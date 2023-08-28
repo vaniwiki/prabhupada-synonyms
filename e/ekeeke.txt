@@ -1,5 +1,11 @@
-~~Title:ekeeke~~
-{{description>one after another.}}
+---json
+{
+    "name":"ekeeke",
+    "h1":"ekeeke",
+    "title":"ekeeke -- synonyms, prabhupada.io",
+    "description":"one after another."
+}
+---
 
 ==== ekeeke  ====
   * one after another --- [[books:cc:madhya:3:151|Madhya 3.151]], [[books:cc:madhya:11:130|Madhya 11.130]]

@@ -1,5 +1,11 @@
-~~Title:anyere~~
-{{description>another.}}
+---json
+{
+    "name":"anyere",
+    "h1":"anyere",
+    "title":"anyere -- synonyms, prabhupada.io",
+    "description":"another."
+}
+---
 
 ==== anyere  ====
   * another --- [[books:cc:madhya:10:157|Madhya 10.157]]

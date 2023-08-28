@@ -1,5 +1,11 @@
-~~Title:vayuna~~
-{{description>by air; by the air; by the breeze; by the wind.}}
+---json
+{
+    "name":"vayuna",
+    "h1":"vayuna",
+    "title":"vayuna -- synonyms, prabhupada.io",
+    "description":"by air; by the air; by the breeze; by the wind."
+}
+---
 
 ==== vāyunā  ====
   * by air --- [[books:sb:3:30:16|SB 3.30.16]]

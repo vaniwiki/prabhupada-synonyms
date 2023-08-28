@@ -1,5 +1,11 @@
-~~Title:kapāla~~
-{{description>a stag with a skull at the top.}}
+---json
+{
+    "name":"kapāla",
+    "h1":"kapāla",
+    "title":"kapāla -- synonyms, prabhupada.io",
+    "description":"a stag with a skull at the top."
+}
+---
 
 ==== kapāla-khaṭvāṅga  ====
   * a stag with a skull at the top --- [[books:sb:4:19:20|SB 4.19.20]]

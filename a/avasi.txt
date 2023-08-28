@@ -1,5 +1,11 @@
-~~Title:avasi~~
-{{description>protect.}}
+---json
+{
+    "name":"avasi",
+    "h1":"avasi",
+    "title":"avasi -- synonyms, prabhupada.io",
+    "description":"protect."
+}
+---
 
 ==== avasi  ====
   * protect --- [[books:sb:4:7:42|SB 4.7.42]]

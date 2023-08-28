@@ -1,5 +1,11 @@
-~~Title:anigṛhya~~
-{{description>without controlling.}}
+---json
+{
+    "name":"anigṛhya",
+    "h1":"anigṛhya",
+    "title":"anigṛhya -- synonyms, prabhupada.io",
+    "description":"without controlling."
+}
+---
 
 ==== anigṛhya  ====
   * without controlling --- [[books:sb:3:12:30|SB 3.12.30]]

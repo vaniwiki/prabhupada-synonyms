@@ -1,5 +1,11 @@
-~~Title:utsarpati~~
-{{description>overflows.}}
+---json
+{
+    "name":"utsarpati",
+    "h1":"utsarpati",
+    "title":"utsarpati -- synonyms, prabhupada.io",
+    "description":"overflows."
+}
+---
 
 ==== utsarpati  ====
   * overflows --- [[books:sb:3:29:42|SB 3.29.42]]

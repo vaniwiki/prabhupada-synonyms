@@ -1,5 +1,11 @@
-~~Title:anavāpya~~
-{{description>who is unattainable.}}
+---json
+{
+    "name":"anavāpya",
+    "h1":"anavāpya",
+    "title":"anavāpya -- synonyms, prabhupada.io",
+    "description":"who is unattainable."
+}
+---
 
 ==== anavāpya  ====
   * who is unattainable --- [[books:sb:8:3:28|SB 8.3.28]]

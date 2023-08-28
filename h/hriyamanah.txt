@@ -1,5 +1,11 @@
-~~Title:hriyamāṇaḥ~~
-{{description>being carried.}}
+---json
+{
+    "name":"hriyamāṇaḥ",
+    "h1":"hriyamāṇaḥ",
+    "title":"hriyamāṇaḥ -- synonyms, prabhupada.io",
+    "description":"being carried."
+}
+---
 
 ==== hriyamāṇaḥ  ====
   * being carried --- [[books:cc:madhya:22:44|Madhya 22.44]]

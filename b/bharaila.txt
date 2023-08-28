@@ -1,5 +1,11 @@
-~~Title:bharāilā~~
-{{description>she filled.}}
+---json
+{
+    "name":"bharāilā",
+    "h1":"bharāilā",
+    "title":"bharāilā -- synonyms, prabhupada.io",
+    "description":"she filled."
+}
+---
 
 ==== bharāilā  ====
   * she filled --- [[books:cc:antya:10:37|Antya 10.37]]

@@ -1,5 +1,11 @@
-~~Title:pṛcchate~~
-{{description>asking; to the inquiring.}}
+---json
+{
+    "name":"pṛcchate",
+    "h1":"pṛcchate",
+    "title":"pṛcchate -- synonyms, prabhupada.io",
+    "description":"asking; to the inquiring."
+}
+---
 
 ==== pṛcchate  ====
   * asking --- [[books:sb:4:6:37|SB 4.6.37]]

@@ -1,5 +1,11 @@
-~~Title:bāhute~~
-{{description>in two arms.}}
+---json
+{
+    "name":"bāhute",
+    "h1":"bāhute",
+    "title":"bāhute -- synonyms, prabhupada.io",
+    "description":"in two arms."
+}
+---
 
 ==== du-bāhute  ====
   * in two arms --- [[books:cc:adi:13:112|Ādi 13.112]]

@@ -1,5 +1,11 @@
-~~Title:babandha~~
-{{description>arrested; bound; bound up; he bound.}}
+---json
+{
+    "name":"babandha",
+    "h1":"babandha",
+    "title":"babandha -- synonyms, prabhupada.io",
+    "description":"arrested; bound; bound up; he bound."
+}
+---
 
 ==== babandha  ====
   * arrested --- [[books:sb:4:5:17|SB 4.5.17]], [[books:sb:8:15:1-2|SB 8.15.1-2]], [[books:sb:8:21:26|SB 8.21.26]]

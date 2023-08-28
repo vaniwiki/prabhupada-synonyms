@@ -1,5 +1,11 @@
-~~Title:rātri~~
-{{description>at night; night; the night; the whole night.}}
+---json
+{
+    "name":"rātri",
+    "h1":"rātri",
+    "title":"rātri -- synonyms, prabhupada.io",
+    "description":"at night; night; the night; the whole night."
+}
+---
 
 ==== rātri  ====
   * at night --- [[books:cc:madhya:3:118|Madhya 3.118]], [[books:cc:antya:14:50|Antya 14.50]]

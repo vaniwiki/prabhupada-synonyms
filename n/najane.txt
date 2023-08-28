@@ -1,5 +1,11 @@
-~~Title:nājāne~~
-{{description>if they do not know.}}
+---json
+{
+    "name":"nājāne",
+    "h1":"nājāne",
+    "title":"nājāne -- synonyms, prabhupada.io",
+    "description":"if they do not know."
+}
+---
 
 ==== se yadi nājāne  ====
   * if they do not know --- [[books:cc:adi:4:236|Ādi 4.236]]

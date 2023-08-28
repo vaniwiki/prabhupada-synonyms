@@ -1,5 +1,11 @@
-~~Title:vyarthāni~~
-{{description>meaningless.}}
+---json
+{
+    "name":"vyarthāni",
+    "h1":"vyarthāni",
+    "title":"vyarthāni -- synonyms, prabhupada.io",
+    "description":"meaningless."
+}
+---
 
 ==== vyarthāni  ====
   * meaningless --- [[books:cc:madhya:2:28|Madhya 2.28]]

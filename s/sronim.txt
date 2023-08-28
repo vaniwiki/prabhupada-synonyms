@@ -1,5 +1,11 @@
-~~Title:sronim~~
-{{description>His loins and hips.}}
+---json
+{
+    "name":"sronim",
+    "h1":"sronim",
+    "title":"sronim -- synonyms, prabhupada.io",
+    "description":"His loins and hips."
+}
+---
 
 ==== śroṇim  ====
   * His loins and hips --- [[books:sb:3:28:16|SB 3.28.16]]

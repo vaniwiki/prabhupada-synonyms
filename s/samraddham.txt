@@ -1,5 +1,11 @@
-~~Title:saṁrāddhām~~
-{{description>all-opulent.}}
+---json
+{
+    "name":"saṁrāddhām",
+    "h1":"saṁrāddhām",
+    "title":"saṁrāddhām -- synonyms, prabhupada.io",
+    "description":"all-opulent."
+}
+---
 
 ==== saṁrāddhām  ====
   * all-opulent --- [[books:sb:8:13:20|SB 8.13.20]]

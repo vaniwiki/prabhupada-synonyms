@@ -1,5 +1,11 @@
-~~Title:samāyujya~~
-{{description>assembling.}}
+---json
+{
+    "name":"samāyujya",
+    "h1":"samāyujya",
+    "title":"samāyujya -- synonyms, prabhupada.io",
+    "description":"assembling."
+}
+---
 
 ==== samāyujya  ====
   * assembling --- [[books:sb:10:11:30|SB 10.11.30]]

@@ -1,5 +1,11 @@
-~~Title:laṅghita~~
-{{description>surpassing.}}
+---json
+{
+    "name":"laṅghita",
+    "h1":"laṅghita",
+    "title":"laṅghita -- synonyms, prabhupada.io",
+    "description":"surpassing."
+}
+---
 
 ==== laṅghita  ====
   * surpassing --- [[books:sb:1:18:37|SB 1.18.37]]

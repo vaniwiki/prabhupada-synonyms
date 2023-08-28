@@ -1,5 +1,11 @@
-~~Title:kabandham~~
-{{description>the demon Kabandha.}}
+---json
+{
+    "name":"kabandham",
+    "h1":"kabandham",
+    "title":"kabandham -- synonyms, prabhupada.io",
+    "description":"the demon Kabandha."
+}
+---
 
 ==== kabandham  ====
   * the demon Kabandha --- [[books:sb:9:10:12|SB 9.10.12]]

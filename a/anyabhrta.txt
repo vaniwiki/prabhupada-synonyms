@@ -1,5 +1,11 @@
-~~Title:anyabhṛta~~
-{{description>cuckoo.}}
+---json
+{
+    "name":"anyabhṛta",
+    "h1":"anyabhṛta",
+    "title":"anyabhṛta -- synonyms, prabhupada.io",
+    "description":"cuckoo."
+}
+---
 
 ==== anyabhṛta  ====
   * cuckoo --- [[books:sb:3:15:18|SB 3.15.18]]

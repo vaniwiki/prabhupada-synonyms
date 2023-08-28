@@ -1,5 +1,11 @@
-~~Title:avyavahṛtam~~
-{{description>extraordinarily situated.}}
+---json
+{
+    "name":"avyavahṛtam",
+    "h1":"avyavahṛtam",
+    "title":"avyavahṛtam -- synonyms, prabhupada.io",
+    "description":"extraordinarily situated."
+}
+---
 
 ==== avyavahṛtam  ====
   * extraordinarily situated --- [[books:sb:5:1:21|SB 5.1.21]]

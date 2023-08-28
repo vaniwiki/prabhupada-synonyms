@@ -1,5 +1,11 @@
-~~Title:skandhāt~~
-{{description>from his shoulder.}}
+---json
+{
+    "name":"skandhāt",
+    "h1":"skandhāt",
+    "title":"skandhāt -- synonyms, prabhupada.io",
+    "description":"from his shoulder."
+}
+---
 
 ==== skandhāt  ====
   * from his shoulder --- [[books:sb:8:6:39|SB 8.6.39]]

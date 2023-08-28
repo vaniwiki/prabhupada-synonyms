@@ -1,5 +1,11 @@
-~~Title:jyā~~
-{{description>by the sound of the string.}}
+---json
+{
+    "name":"jyā",
+    "h1":"jyā",
+    "title":"jyā -- synonyms, prabhupada.io",
+    "description":"by the sound of the string."
+}
+---
 
 ==== jyā-ghoṣaiḥ  ====
   * by the sound of the string --- [[books:sb:10:4:32|SB 10.4.32]]

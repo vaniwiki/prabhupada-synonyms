@@ -1,5 +1,11 @@
-~~Title:nivedanam~~
-{{description>dedicating everything (body, mind and soul) for the service of the Lord; surrendering everything, whatever one has.}}
+---json
+{
+    "name":"nivedanam",
+    "h1":"nivedanam",
+    "title":"nivedanam -- synonyms, prabhupada.io",
+    "description":"dedicating everything (body, mind and soul) for the service of the Lord; surrendering everything, whatever one has."
+}
+---
 
 ==== ātma-nivedanam  ====
   * dedicating everything (body, mind and soul) for the service of the Lord --- [[books:cc:madhya:9:259-260|Madhya 9.259-260]]

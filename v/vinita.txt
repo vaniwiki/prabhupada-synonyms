@@ -1,5 +1,11 @@
-~~Title:vinita~~
-{{description>humble.}}
+---json
+{
+    "name":"vinita",
+    "h1":"vinita",
+    "title":"vinita -- synonyms, prabhupada.io",
+    "description":"humble."
+}
+---
 
 ==== vinītā  ====
   * humble --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

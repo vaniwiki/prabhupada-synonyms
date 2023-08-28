@@ -1,5 +1,11 @@
-~~Title:dhyeyam~~
-{{description>always to be meditated on; most worshipable; worthy to be meditated on.}}
+---json
+{
+    "name":"dhyeyam",
+    "h1":"dhyeyam",
+    "title":"dhyeyam -- synonyms, prabhupada.io",
+    "description":"always to be meditated on; most worshipable; worthy to be meditated on."
+}
+---
 
 ==== dhyeyam  ====
   * always to be meditated on --- [[books:cc:madhya:19:106|Madhya 19.106]]

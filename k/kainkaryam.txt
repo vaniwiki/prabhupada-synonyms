@@ -1,5 +1,11 @@
-~~Title:kaiṅkaryam~~
-{{description>service.}}
+---json
+{
+    "name":"kaiṅkaryam",
+    "h1":"kaiṅkaryam",
+    "title":"kaiṅkaryam -- synonyms, prabhupada.io",
+    "description":"service."
+}
+---
 
 ==== kaiṅkaryam  ====
   * service --- [[books:sb:3:2:22|SB 3.2.22]]

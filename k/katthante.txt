@@ -1,5 +1,11 @@
-~~Title:katthante~~
-{{description>criticize your acts.}}
+---json
+{
+    "name":"katthante",
+    "h1":"katthante",
+    "title":"katthante -- synonyms, prabhupada.io",
+    "description":"criticize your acts."
+}
+---
 
 ==== katthante  ====
   * criticize your acts --- [[books:sb:8:7:33|SB 8.7.33]]

@@ -1,5 +1,11 @@
-~~Title:ṛddhim~~
-{{description>opulence.}}
+---json
+{
+    "name":"ṛddhim",
+    "h1":"ṛddhim",
+    "title":"ṛddhim -- synonyms, prabhupada.io",
+    "description":"opulence."
+}
+---
 
 ==== ṛddhim  ====
   * opulence --- [[books:sb:2:7:4|SB 2.7.4]], [[books:sb:8:10:3|SB 8.10.3]]

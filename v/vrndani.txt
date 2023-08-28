@@ -1,5 +1,11 @@
-~~Title:vṛndāni~~
-{{description>groups.}}
+---json
+{
+    "name":"vṛndāni",
+    "h1":"vṛndāni",
+    "title":"vṛndāni -- synonyms, prabhupada.io",
+    "description":"groups."
+}
+---
 
 ==== vṛndāni  ====
   * //groups// --- [[books:cc:madhya:14:228|Madhya 14.228]]

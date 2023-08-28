@@ -1,5 +1,11 @@
-~~Title:upaskṛtaḥ~~
-{{description>being served by.}}
+---json
+{
+    "name":"upaskṛtaḥ",
+    "h1":"upaskṛtaḥ",
+    "title":"upaskṛtaḥ -- synonyms, prabhupada.io",
+    "description":"being served by."
+}
+---
 
 ==== upaskṛtaḥ  ====
   * being served by --- [[books:sb:1:11:27|SB 1.11.27]]

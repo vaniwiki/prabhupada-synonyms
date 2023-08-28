@@ -1,5 +1,11 @@
-~~Title:devala~~
-{{description>Devala.}}
+---json
+{
+    "name":"devala",
+    "h1":"devala",
+    "title":"devala -- synonyms, prabhupada.io",
+    "description":"Devala."
+}
+---
 
 ==== devala  ====
   * Devala --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

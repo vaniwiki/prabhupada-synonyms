@@ -1,5 +1,11 @@
-~~Title:gelāṅ~~
-{{description>I went.}}
+---json
+{
+    "name":"gelāṅ",
+    "h1":"gelāṅ",
+    "title":"gelāṅ -- synonyms, prabhupada.io",
+    "description":"I went."
+}
+---
 
 ==== gelāṅ  ====
   * I went --- [[books:cc:adi:8:73|Ādi 8.73]]

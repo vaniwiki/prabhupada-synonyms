@@ -1,5 +1,11 @@
-~~Title:sutam~~
-{{description>a son; as her son; as his son; for her son; her son; his son; son; the son (Vasudeva's son); the son; to a son; to his son; unto his son.}}
+---json
+{
+    "name":"sutam",
+    "h1":"sutam",
+    "title":"sutam -- synonyms, prabhupada.io",
+    "description":"a son; as her son; as his son; for her son; her son; his son; son; the son (Vasudeva's son); the son; to a son; to his son; unto his son."
+}
+---
 
 ==== sutam  ====
   * a son --- [[books:sb:9:20:35|SB 9.20.35]], [[books:sb:9:21:25|SB 9.21.25]], [[books:sb:10:3:40|SB 10.3.40]]

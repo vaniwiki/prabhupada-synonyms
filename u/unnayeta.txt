@@ -1,5 +1,11 @@
-~~Title:unnayeta~~
-{{description>should be brought in.}}
+---json
+{
+    "name":"unnayeta",
+    "h1":"unnayeta",
+    "title":"unnayeta -- synonyms, prabhupada.io",
+    "description":"should be brought in."
+}
+---
 
 ==== unnayeta  ====
   * should be brought in --- [[books:sb:2:2:21|SB 2.2.21]]

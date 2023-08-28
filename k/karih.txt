@@ -1,5 +1,11 @@
-~~Title:karīḥ~~
-{{description>maidservants.}}
+---json
+{
+    "name":"karīḥ",
+    "h1":"karīḥ",
+    "title":"karīḥ -- synonyms, prabhupada.io",
+    "description":"maidservants."
+}
+---
 
 ==== karma-karīḥ  ====
   * maidservants --- [[books:sb:3:23:27|SB 3.23.27]]

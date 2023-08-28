@@ -1,5 +1,11 @@
-~~Title:jyotsnām~~
-{{description>moonlight.}}
+---json
+{
+    "name":"jyotsnām",
+    "h1":"jyotsnām",
+    "title":"jyotsnām -- synonyms, prabhupada.io",
+    "description":"moonlight."
+}
+---
 
 ==== jyotsnām  ====
   * moonlight --- [[books:sb:3:20:39|SB 3.20.39]]

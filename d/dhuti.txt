@@ -1,5 +1,11 @@
-~~Title:dhuti~~
-{{description>dhoti.}}
+---json
+{
+    "name":"dhuti",
+    "h1":"dhuti",
+    "title":"dhuti -- synonyms, prabhupada.io",
+    "description":"dhoti."
+}
+---
 
 ==== dhuti  ====
   * dhoti --- [[books:cc:madhya:20:78|Madhya 20.78]]

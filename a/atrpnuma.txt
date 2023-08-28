@@ -1,5 +1,11 @@
-~~Title:atṛpnuma~~
-{{description>I am satisfied.}}
+---json
+{
+    "name":"atṛpnuma",
+    "h1":"atṛpnuma",
+    "title":"atṛpnuma -- synonyms, prabhupada.io",
+    "description":"I am satisfied."
+}
+---
 
 ==== atṛpnuma  ====
   * I am satisfied --- [[books:sb:3:5:10|SB 3.5.10]]

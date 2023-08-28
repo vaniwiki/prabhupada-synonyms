@@ -1,5 +1,11 @@
-~~Title:adrim~~
-{{description>the flying mountains; the mountain (Mandara).}}
+---json
+{
+    "name":"adrim",
+    "h1":"adrim",
+    "title":"adrim -- synonyms, prabhupada.io",
+    "description":"the flying mountains; the mountain (Mandara)."
+}
+---
 
 ==== adrim  ====
   * the flying mountains --- [[books:sb:2:7:1|SB 2.7.1]]

@@ -1,5 +1,11 @@
-~~Title:śaṅke~~
-{{description>I am afraid.}}
+---json
+{
+    "name":"śaṅke",
+    "h1":"śaṅke",
+    "title":"śaṅke -- synonyms, prabhupada.io",
+    "description":"I am afraid."
+}
+---
 
 ==== śaṅke  ====
   * I am afraid --- [[books:sb:5:10:17|SB 5.10.17]]

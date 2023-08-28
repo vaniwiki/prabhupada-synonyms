@@ -1,5 +1,11 @@
-~~Title:askandita~~
-{{description>unbroken.}}
+---json
+{
+    "name":"askandita",
+    "h1":"askandita",
+    "title":"askandita -- synonyms, prabhupada.io",
+    "description":"unbroken."
+}
+---
 
 ==== askandita  ====
   * unbroken --- [[books:sb:1:6:31|SB 1.6.31]]

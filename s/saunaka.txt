@@ -1,5 +1,11 @@
-~~Title:śaunaka~~
-{{description>headed by the sage Śaunaka.}}
+---json
+{
+    "name":"śaunaka",
+    "h1":"śaunaka",
+    "title":"śaunaka -- synonyms, prabhupada.io",
+    "description":"headed by the sage Śaunaka."
+}
+---
 
 ==== śaunaka-ādayaḥ  ====
   * headed by the sage Śaunaka --- [[books:sb:1:1:4|SB 1.1.4]]

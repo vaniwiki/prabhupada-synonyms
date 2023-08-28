@@ -1,5 +1,11 @@
-~~Title:yauthikān~~
-{{description>belonging to the herd.}}
+---json
+{
+    "name":"yauthikān",
+    "h1":"yauthikān",
+    "title":"yauthikān -- synonyms, prabhupada.io",
+    "description":"belonging to the herd."
+}
+---
 
 ==== yauthikān  ====
   * belonging to the herd --- [[books:sb:5:8:9|SB 5.8.9]]

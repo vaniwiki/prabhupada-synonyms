@@ -1,5 +1,11 @@
-~~Title:anumantā~~
-{{description>permitter.}}
+---json
+{
+    "name":"anumantā",
+    "h1":"anumantā",
+    "title":"anumantā -- synonyms, prabhupada.io",
+    "description":"permitter."
+}
+---
 
 ==== anumantā  ====
   * permitter --- [[books:bg:13:23|Bg. 13.23]]

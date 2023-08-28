@@ -1,5 +1,11 @@
-~~Title:more~~
-{{description>at Me; for me; Me; of Me; to Me; to us; unto me; upon me; with me.}}
+---json
+{
+    "name":"more",
+    "h1":"more",
+    "title":"more -- synonyms, prabhupada.io",
+    "description":"at Me; for me; Me; of Me; to Me; to us; unto me; upon me; with me."
+}
+---
 
 ==== more  ====
   * at Me --- [[books:cc:antya:16:126|Antya 16.126]]

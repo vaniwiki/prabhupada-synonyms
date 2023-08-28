@@ -1,5 +1,11 @@
-~~Title:dvijasya~~
-{{description>of the twice-born.}}
+---json
+{
+    "name":"dvijasya",
+    "h1":"dvijasya",
+    "title":"dvijasya -- synonyms, prabhupada.io",
+    "description":"of the twice-born."
+}
+---
 
 ==== dvijasya  ====
   * of the twice-born --- [[books:sb:1:7:55|SB 1.7.55]]

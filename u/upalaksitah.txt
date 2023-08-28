@@ -1,5 +1,11 @@
-~~Title:upalaksitah~~
-{{description>(You are) present and seen (by us); characterized; is designated; perceived; symbolized.}}
+---json
+{
+    "name":"upalaksitah",
+    "h1":"upalaksitah",
+    "title":"upalaksitah -- synonyms, prabhupada.io",
+    "description":"(You are) present and seen (by us); characterized; is designated; perceived; symbolized."
+}
+---
 
 ==== upalakṣitaḥ  ====
   * (You are) present and seen (by us) --- [[books:sb:5:3:9|SB 5.3.9]]

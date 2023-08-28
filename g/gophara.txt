@@ -1,5 +1,11 @@
-~~Title:gophāra~~
-{{description>within a cave.}}
+---json
+{
+    "name":"gophāra",
+    "h1":"gophāra",
+    "title":"gophāra -- synonyms, prabhupada.io",
+    "description":"within a cave."
+}
+---
 
 ==== gophāra bhitare  ====
   * within a cave --- [[books:cc:madhya:18:59|Madhya 18.59]]

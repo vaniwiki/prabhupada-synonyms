@@ -1,5 +1,11 @@
-~~Title:prekṣaṇe~~
-{{description>in the seeing of whom.}}
+---json
+{
+    "name":"prekṣaṇe",
+    "h1":"prekṣaṇe",
+    "title":"prekṣaṇe -- synonyms, prabhupada.io",
+    "description":"in the seeing of whom."
+}
+---
 
 ==== yat-prekṣaṇe  ====
   * in the seeing of whom --- [[books:cc:adi:4:153|Ādi 4.153]]

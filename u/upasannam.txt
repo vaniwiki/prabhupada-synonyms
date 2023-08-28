@@ -1,5 +1,11 @@
-~~Title:upasannam~~
-{{description>having approached for protection.}}
+---json
+{
+    "name":"upasannam",
+    "h1":"upasannam",
+    "title":"upasannam -- synonyms, prabhupada.io",
+    "description":"having approached for protection."
+}
+---
 
 ==== upasannam  ====
   * having approached for protection --- [[books:sb:3:31:12|SB 3.31.12]]

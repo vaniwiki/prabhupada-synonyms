@@ -1,5 +1,11 @@
-~~Title:kṣiptam~~
-{{description>this cart was dashed apart and immediately fell dismantled.}}
+---json
+{
+    "name":"kṣiptam",
+    "h1":"kṣiptam",
+    "title":"kṣiptam -- synonyms, prabhupada.io",
+    "description":"this cart was dashed apart and immediately fell dismantled."
+}
+---
 
 ==== kṣiptam etat  ====
   * this cart was dashed apart and immediately fell dismantled --- [[books:sb:10:7:9|SB 10.7.9]]

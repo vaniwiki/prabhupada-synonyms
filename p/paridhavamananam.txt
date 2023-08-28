@@ -1,5 +1,11 @@
-~~Title:paridhāvamānānām~~
-{{description>of those going around.}}
+---json
+{
+    "name":"paridhāvamānānām",
+    "h1":"paridhāvamānānām",
+    "title":"paridhāvamānānām -- synonyms, prabhupada.io",
+    "description":"of those going around."
+}
+---
 
 ==== paridhāvamānānām  ====
   * of those going around --- [[books:sb:5:22:2|SB 5.22.2]]

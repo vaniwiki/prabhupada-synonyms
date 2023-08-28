@@ -1,5 +1,11 @@
-~~Title:vasanta~~
-{{description>of the name Vasanta.}}
+---json
+{
+    "name":"vasanta",
+    "h1":"vasanta",
+    "title":"vasanta -- synonyms, prabhupada.io",
+    "description":"of the name Vasanta."
+}
+---
 
 ==== vasanta  ====
   * of the name Vasanta --- [[books:cc:adi:11:50|Ādi 11.50]]

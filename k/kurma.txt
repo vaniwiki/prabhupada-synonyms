@@ -1,5 +1,11 @@
-~~Title:kūrma~~
-{{description>the brāhmaṇa named Kūrma; the Kūrma incarnation; the tortoise incarnation.}}
+---json
+{
+    "name":"kūrma",
+    "h1":"kūrma",
+    "title":"kūrma -- synonyms, prabhupada.io",
+    "description":"the brāhmaṇa named Kūrma; the Kūrma incarnation; the tortoise incarnation."
+}
+---
 
 ==== kūrma  ====
   * the brāhmaṇa named Kūrma --- [[books:cc:madhya:7:135|Madhya 7.135]]

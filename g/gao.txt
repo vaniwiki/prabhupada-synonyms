@@ -1,5 +1,11 @@
-~~Title:gāo~~
-{{description>chant; sing.}}
+---json
+{
+    "name":"gāo",
+    "h1":"gāo",
+    "title":"gāo -- synonyms, prabhupada.io",
+    "description":"chant; sing."
+}
+---
 
 ==== gāo  ====
   * chant --- [[books:cc:adi:7:92|Ādi 7.92]]

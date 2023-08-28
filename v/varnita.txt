@@ -1,5 +1,11 @@
-~~Title:varṇita~~
-{{description>described.}}
+---json
+{
+    "name":"varṇita",
+    "h1":"varṇita",
+    "title":"varṇita -- synonyms, prabhupada.io",
+    "description":"described."
+}
+---
 
 ==== varṇita  ====
   * described --- [[books:sb:7:9:51|SB 7.9.51]]

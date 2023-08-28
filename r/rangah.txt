@@ -1,5 +1,11 @@
-~~Title:raṅgaḥ~~
-{{description>attachment.}}
+---json
+{
+    "name":"raṅgaḥ",
+    "h1":"raṅgaḥ",
+    "title":"raṅgaḥ -- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== raṅgaḥ  ====
   * attachment --- [[books:cc:adi:5:224|Ādi 5.224]]

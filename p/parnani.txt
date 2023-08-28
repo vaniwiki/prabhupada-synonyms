@@ -1,5 +1,11 @@
-~~Title:parṇāni~~
-{{description>the leaves.}}
+---json
+{
+    "name":"parṇāni",
+    "h1":"parṇāni",
+    "title":"parṇāni -- synonyms, prabhupada.io",
+    "description":"the leaves."
+}
+---
 
 ==== parṇāni  ====
   * the leaves --- [[books:bg:15:1|Bg. 15.1]]

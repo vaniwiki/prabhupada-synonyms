@@ -1,5 +1,11 @@
-~~Title:snigdhān~~
-{{description>full of affection.}}
+---json
+{
+    "name":"snigdhān",
+    "h1":"snigdhān",
+    "title":"snigdhān -- synonyms, prabhupada.io",
+    "description":"full of affection."
+}
+---
 
 ==== snigdhān  ====
   * full of affection --- [[books:sb:1:10:33|SB 1.10.33]]

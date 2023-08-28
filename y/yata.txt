@@ -1,5 +1,11 @@
-~~Title:yata~~
-{{description>all; ail; all (descendants); all; all kinds of; all of them; all others; all that; all the devotees who; all these; as; as many (as there are); as many; as many as; as many as there are; as many as there were; as much; as much as; controlled; controlling; so many; varieties of; various types of; whatever.}}
+---json
+{
+    "name":"yata",
+    "h1":"yata",
+    "title":"yata -- synonyms, prabhupada.io",
+    "description":"all; ail; all (descendants); all; all kinds of; all of them; all others; all that; all the devotees who; all these; as; as many (as there are); as many; as many as; as many as there are; as many as there were; as much; as much as; controlled; controlling; so many; varieties of; various types of; whatever."
+}
+---
 
 ==== yata  ====
   * //all// --- [[books:cc:madhya:21:58|Madhya 21.58]]

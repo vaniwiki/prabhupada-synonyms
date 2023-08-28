@@ -1,5 +1,11 @@
-~~Title:yūthān~~
-{{description>assembly.}}
+---json
+{
+    "name":"yūthān",
+    "h1":"yūthān",
+    "title":"yūthān -- synonyms, prabhupada.io",
+    "description":"assembly."
+}
+---
 
 ==== yūthān  ====
   * assembly --- [[books:sb:3:12:16|SB 3.12.16]]

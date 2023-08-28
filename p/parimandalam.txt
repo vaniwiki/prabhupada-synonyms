@@ -1,5 +1,11 @@
-~~Title:parimaṇḍalam~~
-{{description>circumference.}}
+---json
+{
+    "name":"parimaṇḍalam",
+    "h1":"parimaṇḍalam",
+    "title":"parimaṇḍalam -- synonyms, prabhupada.io",
+    "description":"circumference."
+}
+---
 
 ==== parimaṇḍalam  ====
   * circumference --- [[books:sb:5:21:19|SB 5.21.19]]

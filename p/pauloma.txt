@@ -1,5 +1,11 @@
-~~Title:pauloma~~
-{{description>Pauloma.}}
+---json
+{
+    "name":"pauloma",
+    "h1":"pauloma",
+    "title":"pauloma -- synonyms, prabhupada.io",
+    "description":"Pauloma."
+}
+---
 
 ==== pauloma  ====
   * Pauloma --- [[books:sb:8:7:14|SB 8.7.14]]

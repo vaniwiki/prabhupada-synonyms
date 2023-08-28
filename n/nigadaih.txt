@@ -1,5 +1,11 @@
-~~Title:nigaḍaiḥ~~
-{{description>by iron shackles.}}
+---json
+{
+    "name":"nigaḍaiḥ",
+    "h1":"nigaḍaiḥ",
+    "title":"nigaḍaiḥ -- synonyms, prabhupada.io",
+    "description":"by iron shackles."
+}
+---
 
 ==== nigaḍaiḥ  ====
   * by iron shackles --- [[books:sb:10:1:65-66|SB 10.1.65-66]]

@@ -1,5 +1,11 @@
-~~Title:gūḍham~~
-{{description>although not manifesting; hidden; meaningful; unknown; very confidential.}}
+---json
+{
+    "name":"gūḍham",
+    "h1":"gūḍham",
+    "title":"gūḍham -- synonyms, prabhupada.io",
+    "description":"although not manifesting; hidden; meaningful; unknown; very confidential."
+}
+---
 
 ==== gūḍham  ====
   * although not manifesting --- [[books:sb:6:4:27-28|SB 6.4.27-28]]

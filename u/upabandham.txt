@@ -1,5 +1,11 @@
-~~Title:upabandham~~
-{{description>ropes for tying.}}
+---json
+{
+    "name":"upabandham",
+    "h1":"upabandham",
+    "title":"upabandham -- synonyms, prabhupada.io",
+    "description":"ropes for tying."
+}
+---
 
 ==== upabandham  ====
   * ropes for tying --- [[books:sb:2:7:30|SB 2.7.30]]

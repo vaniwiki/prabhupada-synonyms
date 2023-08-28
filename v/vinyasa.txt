@@ -1,5 +1,11 @@
-~~Title:vinyāsa~~
-{{description>arrangement; in arrangement.}}
+---json
+{
+    "name":"vinyāsa",
+    "h1":"vinyāsa",
+    "title":"vinyāsa -- synonyms, prabhupada.io",
+    "description":"arrangement; in arrangement."
+}
+---
 
 ==== vinyāsa  ====
   * arrangement --- [[books:cc:madhya:8:172|Madhya 8.172]]

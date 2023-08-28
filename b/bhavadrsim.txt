@@ -1,5 +1,11 @@
-~~Title:bhavādṛśīm~~
-{{description>exactly like You.}}
+---json
+{
+    "name":"bhavādṛśīm",
+    "h1":"bhavādṛśīm",
+    "title":"bhavādṛśīm -- synonyms, prabhupada.io",
+    "description":"exactly like You."
+}
+---
 
 ==== bhavādṛśīm  ====
   * exactly like You --- [[books:sb:5:3:13|SB 5.3.13]]

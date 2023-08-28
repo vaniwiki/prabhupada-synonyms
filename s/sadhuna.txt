@@ -1,5 +1,11 @@
-~~Title:sādhunā~~
-{{description>by pious activities; by the good activity itself.}}
+---json
+{
+    "name":"sādhunā",
+    "h1":"sādhunā",
+    "title":"sādhunā -- synonyms, prabhupada.io",
+    "description":"by pious activities; by the good activity itself."
+}
+---
 
 ==== sādhunā  ====
   * by pious activities --- [[books:cc:madhya:8:93|Madhya 8.93]]

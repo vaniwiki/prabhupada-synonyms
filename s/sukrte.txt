@@ -1,5 +1,11 @@
-~~Title:sukṛte~~
-{{description>by pious activities.}}
+---json
+{
+    "name":"sukṛte",
+    "h1":"sukṛte",
+    "title":"sukṛte -- synonyms, prabhupada.io",
+    "description":"by pious activities."
+}
+---
 
 ==== sukṛte  ====
   * by pious activities --- [[books:cc:antya:16:114|Antya 16.114]], [[books:cc:antya:16:131|Antya 16.131]]

@@ -1,5 +1,11 @@
-~~Title:upara~~
-{{description>aboard; above; on; on the body; the ceiling; upon; upper; upward.}}
+---json
+{
+    "name":"upara",
+    "h1":"upara",
+    "title":"upara -- synonyms, prabhupada.io",
+    "description":"aboard; above; on; on the body; the ceiling; upon; upper; upward."
+}
+---
 
 ==== upara  ====
   * aboard --- [[books:cc:madhya:13:22|Madhya 13.22]]

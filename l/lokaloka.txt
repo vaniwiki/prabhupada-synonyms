@@ -1,5 +1,11 @@
-~~Title:lokāloka~~
-{{description>the mountain known as Lokāloka.}}
+---json
+{
+    "name":"lokāloka",
+    "h1":"lokāloka",
+    "title":"lokāloka -- synonyms, prabhupada.io",
+    "description":"the mountain known as Lokāloka."
+}
+---
 
 ==== lokāloka-acalaḥ  ====
   * the mountain known as Lokāloka --- [[books:sb:5:20:38|SB 5.20.38]]

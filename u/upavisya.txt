@@ -1,5 +1,11 @@
-~~Title:upaviśya~~
-{{description>sitting on.}}
+---json
+{
+    "name":"upaviśya",
+    "h1":"upaviśya",
+    "title":"upaviśya -- synonyms, prabhupada.io",
+    "description":"sitting on."
+}
+---
 
 ==== upaviśya  ====
   * sitting on --- [[books:bg:6:11-12|Bg. 6.11-12]]

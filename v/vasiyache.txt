@@ -1,5 +1,11 @@
-~~Title:vasiyāche~~
-{{description>He was sitting there; sat.}}
+---json
+{
+    "name":"vasiyāche",
+    "h1":"vasiyāche",
+    "title":"vasiyāche -- synonyms, prabhupada.io",
+    "description":"He was sitting there; sat."
+}
+---
 
 ==== vasiyāche  ====
   * He was sitting there --- [[books:cc:madhya:9:99|Madhya 9.99]]

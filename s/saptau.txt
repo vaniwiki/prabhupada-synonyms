@@ -1,5 +1,11 @@
-~~Title:śaptau~~
-{{description>being cursed.}}
+---json
+{
+    "name":"śaptau",
+    "h1":"śaptau",
+    "title":"śaptau -- synonyms, prabhupada.io",
+    "description":"being cursed."
+}
+---
 
 ==== śaptau  ====
   * being cursed --- [[books:sb:7:1:39|SB 7.1.39]]

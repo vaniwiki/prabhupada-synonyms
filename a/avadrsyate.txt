@@ -1,5 +1,11 @@
-~~Title:avadṛśyate~~
-{{description>is perceived.}}
+---json
+{
+    "name":"avadṛśyate",
+    "h1":"avadṛśyate",
+    "title":"avadṛśyate -- synonyms, prabhupada.io",
+    "description":"is perceived."
+}
+---
 
 ==== avadṛśyate  ====
   * is perceived --- [[books:sb:3:27:12|SB 3.27.12]]

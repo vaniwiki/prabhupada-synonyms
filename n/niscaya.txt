@@ -1,5 +1,11 @@
-~~Title:niscaya~~
-{{description>ascertain; ascertained; ascertainment; assurance; belief; certain; certainly; certainty; conclusively; confirmation; decision; fixed up; my considered opinion; proof; settlement; surely; the real fact; with certainty.}}
+---json
+{
+    "name":"niscaya",
+    "h1":"niscaya",
+    "title":"niscaya -- synonyms, prabhupada.io",
+    "description":"ascertain; ascertained; ascertainment; assurance; belief; certain; certainly; certainty; conclusively; confirmation; decision; fixed up; my considered opinion; proof; settlement; surely; the real fact; with certainty."
+}
+---
 
 ==== niścaya  ====
   * ascertain --- [[books:cc:adi:16:13|Ādi 16.13]]

@@ -1,5 +1,11 @@
-~~Title:jvālāte~~
-{{description>temperature.}}
+---json
+{
+    "name":"jvālāte",
+    "h1":"jvālāte",
+    "title":"jvālāte -- synonyms, prabhupada.io",
+    "description":"temperature."
+}
+---
 
 ==== jvālāte  ====
   * temperature --- [[books:cc:adi:4:97|Ādi 4.97]]

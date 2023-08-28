@@ -1,5 +1,11 @@
-~~Title:dīpaḥ~~
-{{description>a lamp.}}
+---json
+{
+    "name":"dīpaḥ",
+    "h1":"dīpaḥ",
+    "title":"dīpaḥ -- synonyms, prabhupada.io",
+    "description":"a lamp."
+}
+---
 
 ==== dīpaḥ  ====
   * a lamp --- [[books:bg:6:19|Bg. 6.19]]

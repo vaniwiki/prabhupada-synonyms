@@ -1,5 +1,11 @@
-~~Title:avadātānām~~
-{{description>who are purified.}}
+---json
+{
+    "name":"avadātānām",
+    "h1":"avadātānām",
+    "title":"avadātānām -- synonyms, prabhupada.io",
+    "description":"who are purified."
+}
+---
 
 ==== avadātānām  ====
   * who are purified --- [[books:sb:7:11:13|SB 7.11.13]]

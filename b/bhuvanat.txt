@@ -1,5 +1,11 @@
-~~Title:bhuvanāt~~
-{{description>from the planetary systems.}}
+---json
+{
+    "name":"bhuvanāt",
+    "h1":"bhuvanāt",
+    "title":"bhuvanāt -- synonyms, prabhupada.io",
+    "description":"from the planetary systems."
+}
+---
 
 ==== bhuvanāt  ====
   * from the planetary systems --- [[books:bg:8:16|Bg. 8.16]]

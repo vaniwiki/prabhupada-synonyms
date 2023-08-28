@@ -1,5 +1,11 @@
-~~Title:tapati~~
-{{description>enlivens; heats; is shining; shines.}}
+---json
+{
+    "name":"tapati",
+    "h1":"tapati",
+    "title":"tapati -- synonyms, prabhupada.io",
+    "description":"enlivens; heats; is shining; shines."
+}
+---
 
 ==== tapati  ====
   * enlivens --- [[books:sb:2:6:17|SB 2.6.17]]

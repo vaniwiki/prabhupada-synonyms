@@ -1,5 +1,11 @@
-~~Title:karaye~~
-{{description>becomes; did; do; do so; does; I do; is made; made; makes; perform; performed; show; was.}}
+---json
+{
+    "name":"karaye",
+    "h1":"karaye",
+    "title":"karaye -- synonyms, prabhupada.io",
+    "description":"becomes; did; do; do so; does; I do; is made; made; makes; perform; performed; show; was."
+}
+---
 
 ==== karaye  ====
   * becomes --- [[books:cc:adi:5:60|Ādi 5.60]]

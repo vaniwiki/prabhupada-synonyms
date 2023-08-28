@@ -1,5 +1,11 @@
-~~Title:dvairatham~~
-{{description>whose challenger or enemy was not seen.}}
+---json
+{
+    "name":"dvairatham",
+    "h1":"dvairatham",
+    "title":"dvairatham -- synonyms, prabhupada.io",
+    "description":"whose challenger or enemy was not seen."
+}
+---
 
 ==== alakṣita-dvairatham  ====
   * whose challenger or enemy was not seen --- [[books:sb:7:8:34|SB 7.8.34]]

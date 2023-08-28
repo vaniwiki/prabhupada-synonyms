@@ -1,5 +1,11 @@
-~~Title:sesah~~
-{{description>Ananta Śeṣa; Ananta-nāga; He is the end; known as Śeṣa; Śeṣa Nāga, the couch of Viṣṇu.}}
+---json
+{
+    "name":"sesah",
+    "h1":"sesah",
+    "title":"sesah -- synonyms, prabhupada.io",
+    "description":"Ananta Śeṣa; Ananta-nāga; He is the end; known as Śeṣa; Śeṣa Nāga, the couch of Viṣṇu."
+}
+---
 
 ==== śeṣaḥ  ====
   * Ananta Śeṣa --- [[books:cc:madhya:21:13|Madhya 21.13]]

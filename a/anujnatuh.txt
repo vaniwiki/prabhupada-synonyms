@@ -1,5 +1,11 @@
-~~Title:anujñātuḥ~~
-{{description>of the supporter.}}
+---json
+{
+    "name":"anujñātuḥ",
+    "h1":"anujñātuḥ",
+    "title":"anujñātuḥ -- synonyms, prabhupada.io",
+    "description":"of the supporter."
+}
+---
 
 ==== anujñātuḥ  ====
   * of the supporter --- [[books:sb:4:21:26|SB 4.21.26]]

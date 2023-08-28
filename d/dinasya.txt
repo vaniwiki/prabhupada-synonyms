@@ -1,5 +1,11 @@
-~~Title:dīnasya~~
-{{description>of my humble self.}}
+---json
+{
+    "name":"dīnasya",
+    "h1":"dīnasya",
+    "title":"dīnasya -- synonyms, prabhupada.io",
+    "description":"of my humble self."
+}
+---
 
 ==== dīnasya  ====
   * of my humble self --- [[books:sb:3:22:8|SB 3.22.8]]

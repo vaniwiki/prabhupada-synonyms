@@ -1,5 +1,11 @@
-~~Title:āsvādaye~~
-{{description>He tastes; taste; tastes.}}
+---json
+{
+    "name":"āsvādaye",
+    "h1":"āsvādaye",
+    "title":"āsvādaye -- synonyms, prabhupada.io",
+    "description":"He tastes; taste; tastes."
+}
+---
 
 ==== āsvādaye  ====
   * He tastes --- [[books:cc:antya:20:69|Antya 20.69]]

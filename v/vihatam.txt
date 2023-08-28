@@ -1,5 +1,11 @@
-~~Title:vihatam~~
-{{description>lost; spoiled.}}
+---json
+{
+    "name":"vihatam",
+    "h1":"vihatam",
+    "title":"vihatam -- synonyms, prabhupada.io",
+    "description":"lost; spoiled."
+}
+---
 
 ==== vihatam  ====
   * lost --- [[books:sb:7:10:51|SB 7.10.51]]

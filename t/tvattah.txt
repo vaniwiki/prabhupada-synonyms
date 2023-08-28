@@ -1,5 +1,11 @@
-~~Title:tvattaḥ~~
-{{description>are from Your Lordship; from You; from Your Majesty; you.}}
+---json
+{
+    "name":"tvattaḥ",
+    "h1":"tvattaḥ",
+    "title":"tvattaḥ -- synonyms, prabhupada.io",
+    "description":"are from Your Lordship; from You; from Your Majesty; you."
+}
+---
 
 ==== tvattaḥ  ====
   * are from Your Lordship --- [[books:sb:10:3:19|SB 10.3.19]]

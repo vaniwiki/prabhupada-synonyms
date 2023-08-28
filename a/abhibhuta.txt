@@ -1,5 +1,11 @@
-~~Title:abhibhūta~~
-{{description>overwhelmed by greed.}}
+---json
+{
+    "name":"abhibhūta",
+    "h1":"abhibhūta",
+    "title":"abhibhūta -- synonyms, prabhupada.io",
+    "description":"overwhelmed by greed."
+}
+---
 
 ==== lobha-abhibhūta  ====
   * overwhelmed by greed --- [[books:sb:3:9:7|SB 3.9.7]]

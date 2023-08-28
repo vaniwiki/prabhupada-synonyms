@@ -1,5 +1,11 @@
-~~Title:alibhih~~
-{{description>beelike; by bees; by the bees.}}
+---json
+{
+    "name":"alibhih",
+    "h1":"alibhih",
+    "title":"alibhih -- synonyms, prabhupada.io",
+    "description":"beelike; by bees; by the bees."
+}
+---
 
 ==== alibhiḥ  ====
   * beelike --- [[books:sb:4:26:23|SB 4.26.23]]

@@ -1,5 +1,11 @@
-~~Title:pārthaiḥ~~
-{{description>by the sons of Pṛthā.}}
+---json
+{
+    "name":"pārthaiḥ",
+    "h1":"pārthaiḥ",
+    "title":"pārthaiḥ -- synonyms, prabhupada.io",
+    "description":"by the sons of Pṛthā."
+}
+---
 
 ==== pārthaiḥ  ====
   * by the sons of Pṛthā --- [[books:sb:3:1:39|SB 3.1.39]]

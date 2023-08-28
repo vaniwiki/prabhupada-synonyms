@@ -1,5 +1,11 @@
-~~Title:iyāche~~
-{{description>there was.}}
+---json
+{
+    "name":"iyāche",
+    "h1":"iyāche",
+    "title":"iyāche -- synonyms, prabhupada.io",
+    "description":"there was."
+}
+---
 
 ==== ha-iyāche  ====
   * there was --- [[books:cc:adi:12:32|Ādi 12.32]]

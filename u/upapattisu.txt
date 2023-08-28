@@ -1,5 +1,11 @@
-~~Title:upapattiṣu~~
-{{description>having obtained.}}
+---json
+{
+    "name":"upapattiṣu",
+    "h1":"upapattiṣu",
+    "title":"upapattiṣu -- synonyms, prabhupada.io",
+    "description":"having obtained."
+}
+---
 
 ==== upapattiṣu  ====
   * having obtained --- [[books:bg:13:8-12|Bg. 13.8-12]]

@@ -1,5 +1,11 @@
-~~Title:sumbhah~~
-{{description>Śumbha.}}
+---json
+{
+    "name":"sumbhah",
+    "h1":"sumbhah",
+    "title":"sumbhah -- synonyms, prabhupada.io",
+    "description":"Śumbha."
+}
+---
 
 ==== śumbhaḥ  ====
   * Śumbha --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

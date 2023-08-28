@@ -1,5 +1,11 @@
-~~Title:minah~~
-{{description>the fishes.}}
+---json
+{
+    "name":"minah",
+    "h1":"minah",
+    "title":"minah -- synonyms, prabhupada.io",
+    "description":"the fishes."
+}
+---
 
 ==== mīnāḥ  ====
   * the fishes --- [[books:sb:3:2:8|SB 3.2.8]]

@@ -1,5 +1,11 @@
-~~Title:tarema~~
-{{description>can cross over; we can cross.}}
+---json
+{
+    "name":"tarema",
+    "h1":"tarema",
+    "title":"tarema -- synonyms, prabhupada.io",
+    "description":"can cross over; we can cross."
+}
+---
 
 ==== tarema  ====
   * can cross over --- [[books:sb:3:4:18|SB 3.4.18]]

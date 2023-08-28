@@ -1,5 +1,11 @@
-~~Title:saṁramasva~~
-{{description>just become my companion.}}
+---json
+{
+    "name":"saṁramasva",
+    "h1":"saṁramasva",
+    "title":"saṁramasva -- synonyms, prabhupada.io",
+    "description":"just become my companion."
+}
+---
 
 ==== saṁramasva  ====
   * just become my companion --- [[books:sb:9:14:19|SB 9.14.19]]

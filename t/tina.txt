@@ -1,5 +1,11 @@
-~~Title:tina~~
-{{description>all three; these three; three.}}
+---json
+{
+    "name":"tina",
+    "h1":"tina",
+    "title":"tina -- synonyms, prabhupada.io",
+    "description":"all three; these three; three."
+}
+---
 
 ==== tina  ====
   * all three --- [[books:cc:madhya:17:131|Madhya 17.131]]

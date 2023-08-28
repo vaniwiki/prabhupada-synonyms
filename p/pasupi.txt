@@ -1,5 +1,11 @@
-~~Title:paśupī~~
-{{description>with ecstatic enjoyment as gopīs.}}
+---json
+{
+    "name":"paśupī",
+    "h1":"paśupī",
+    "title":"paśupī -- synonyms, prabhupada.io",
+    "description":"with ecstatic enjoyment as gopīs."
+}
+---
 
 ==== paśupī-bhāva  ====
   * with ecstatic enjoyment as //gopīs// --- [[books:cc:madhya:1:84|Madhya 1.84]]

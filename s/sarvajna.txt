@@ -1,5 +1,11 @@
-~~Title:sarvajña~~
-{{description>the astrologer.}}
+---json
+{
+    "name":"sarvajña",
+    "h1":"sarvajña",
+    "title":"sarvajña -- synonyms, prabhupada.io",
+    "description":"the astrologer."
+}
+---
 
 ==== sarvajña  ====
   * the astrologer --- [[books:cc:madhya:20:131|Madhya 20.131]]

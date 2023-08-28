@@ -1,5 +1,11 @@
-~~Title:atyeti~~
-{{description>can overcome; conquers; one can cross over; surpasses.}}
+---json
+{
+    "name":"atyeti",
+    "h1":"atyeti",
+    "title":"atyeti -- synonyms, prabhupada.io",
+    "description":"can overcome; conquers; one can cross over; surpasses."
+}
+---
 
 ==== atyeti  ====
   * can overcome --- [[books:sb:8:21:22|SB 8.21.22]]

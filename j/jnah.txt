@@ -1,5 +1,11 @@
-~~Title:jnah~~
-{{description>a knower; one who knows; the supreme knower, Paramātmā.}}
+---json
+{
+    "name":"jnah",
+    "h1":"jnah",
+    "title":"jnah -- synonyms, prabhupada.io",
+    "description":"a knower; one who knows; the supreme knower, Paramātmā."
+}
+---
 
 ==== jñaḥ  ====
   * a knower --- [[books:cc:madhya:23:72|Madhya 23.72]]

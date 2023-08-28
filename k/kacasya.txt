@@ -1,5 +1,11 @@
-~~Title:kacasya~~
-{{description>of Kaca.}}
+---json
+{
+    "name":"kacasya",
+    "h1":"kacasya",
+    "title":"kacasya -- synonyms, prabhupada.io",
+    "description":"of Kaca."
+}
+---
 
 ==== kacasya  ====
   * of Kaca --- [[books:sb:9:18:22|SB 9.18.22]]

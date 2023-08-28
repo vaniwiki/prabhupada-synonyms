@@ -1,5 +1,11 @@
-~~Title:dvārakāya~~
-{{description>in Dvārakā; in Dvārakā-dhāma.}}
+---json
+{
+    "name":"dvārakāya",
+    "h1":"dvārakāya",
+    "title":"dvārakāya -- synonyms, prabhupada.io",
+    "description":"in Dvārakā; in Dvārakā-dhāma."
+}
+---
 
 ==== dvārakāya  ====
   * in Dvārakā --- [[books:cc:adi:5:23|Ādi 5.23]]

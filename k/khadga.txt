@@ -1,5 +1,11 @@
-~~Title:khaḍga~~
-{{description>by a type of sword; swords.}}
+---json
+{
+    "name":"khaḍga",
+    "h1":"khaḍga",
+    "title":"khaḍga -- synonyms, prabhupada.io",
+    "description":"by a type of sword; swords."
+}
+---
 
 ==== khaḍga  ====
   * by a type of sword --- [[books:sb:9:10:19|SB 9.10.19]]

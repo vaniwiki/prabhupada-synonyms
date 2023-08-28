@@ -1,5 +1,11 @@
-~~Title:caḍiba~~
-{{description>shall climb.}}
+---json
+{
+    "name":"caḍiba",
+    "h1":"caḍiba",
+    "title":"caḍiba -- synonyms, prabhupada.io",
+    "description":"shall climb."
+}
+---
 
 ==== caḍiba  ====
   * shall climb --- [[books:cc:madhya:18:23|Madhya 18.23]]

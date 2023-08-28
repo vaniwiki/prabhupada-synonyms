@@ -1,5 +1,11 @@
-~~Title:praptam~~
-{{description>achieved; being merged in; coming back home; gotten; had arrived; has been obtained; having accrued; inhabited; obtaining; present; received; was achieved; who had obtained.}}
+---json
+{
+    "name":"praptam",
+    "h1":"praptam",
+    "title":"praptam -- synonyms, prabhupada.io",
+    "description":"achieved; being merged in; coming back home; gotten; had arrived; has been obtained; having accrued; inhabited; obtaining; present; received; was achieved; who had obtained."
+}
+---
 
 ==== prāptam  ====
   * achieved --- [[books:sb:1:18:26|SB 1.18.26]]

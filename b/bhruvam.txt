@@ -1,5 +1,11 @@
-~~Title:bhruvam~~
-{{description>very nicely decorated eyebrows.}}
+---json
+{
+    "name":"bhruvam",
+    "h1":"bhruvam",
+    "title":"bhruvam -- synonyms, prabhupada.io",
+    "description":"very nicely decorated eyebrows."
+}
+---
 
 ==== su-bhruvam  ====
   * very nicely decorated eyebrows --- [[books:sb:4:8:45|SB 4.8.45]]

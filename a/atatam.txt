@@ -1,5 +1,11 @@
-~~Title:ātatam~~
-{{description>broadcast all over the world.}}
+---json
+{
+    "name":"ātatam",
+    "h1":"ātatam",
+    "title":"ātatam -- synonyms, prabhupada.io",
+    "description":"broadcast all over the world."
+}
+---
 
 ==== ātatam  ====
   * broadcast all over the world --- [[books:cc:madhya:14:13|Madhya 14.13]]

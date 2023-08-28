@@ -1,5 +1,11 @@
-~~Title:kuhvānaiḥ~~
-{{description>shrieking scream.}}
+---json
+{
+    "name":"kuhvānaiḥ",
+    "h1":"kuhvānaiḥ",
+    "title":"kuhvānaiḥ -- synonyms, prabhupada.io",
+    "description":"shrieking scream."
+}
+---
 
 ==== kuhvānaiḥ  ====
   * shrieking scream --- [[books:sb:1:14:14|SB 1.14.14]]

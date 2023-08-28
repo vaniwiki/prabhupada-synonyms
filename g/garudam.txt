@@ -1,5 +1,11 @@
-~~Title:garuḍam~~
-{{description>to the celebrated bird known as Garuḍa.}}
+---json
+{
+    "name":"garuḍam",
+    "h1":"garuḍam",
+    "title":"garuḍam -- synonyms, prabhupada.io",
+    "description":"to the celebrated bird known as Garuḍa."
+}
+---
 
 ==== garuḍam  ====
   * to the celebrated bird known as Garuḍa --- [[books:sb:6:6:21-22|SB 6.6.21-22]]

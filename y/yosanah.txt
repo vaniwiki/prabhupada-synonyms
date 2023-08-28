@@ -1,5 +1,11 @@
-~~Title:yoṣaṇaḥ~~
-{{description>along with wives.}}
+---json
+{
+    "name":"yoṣaṇaḥ",
+    "h1":"yoṣaṇaḥ",
+    "title":"yoṣaṇaḥ -- synonyms, prabhupada.io",
+    "description":"along with wives."
+}
+---
 
 ==== sa-yoṣaṇaḥ  ====
   * along with wives --- [[books:sb:3:12:14|SB 3.12.14]]

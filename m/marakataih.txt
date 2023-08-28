@@ -1,5 +1,11 @@
-~~Title:mārakataiḥ~~
-{{description>made of marakata stone.}}
+---json
+{
+    "name":"mārakataiḥ",
+    "h1":"mārakataiḥ",
+    "title":"mārakataiḥ -- synonyms, prabhupada.io",
+    "description":"made of marakata stone."
+}
+---
 
 ==== mārakataiḥ  ====
   * made of //marakata// stone --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

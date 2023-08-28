@@ -1,5 +1,11 @@
-~~Title:vimokṣaṇāt~~
-{{description>giving up.}}
+---json
+{
+    "name":"vimokṣaṇāt",
+    "h1":"vimokṣaṇāt",
+    "title":"vimokṣaṇāt -- synonyms, prabhupada.io",
+    "description":"giving up."
+}
+---
 
 ==== vimokṣaṇāt  ====
   * giving up --- [[books:bg:5:23|Bg. 5.23]]

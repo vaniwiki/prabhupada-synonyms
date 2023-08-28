@@ -1,5 +1,11 @@
-~~Title:nibandha~~
-{{description>by the obligations.}}
+---json
+{
+    "name":"nibandha",
+    "h1":"nibandha",
+    "title":"nibandha -- synonyms, prabhupada.io",
+    "description":"by the obligations."
+}
+---
 
 ==== nibandha  ====
   * by the obligations --- [[books:sb:6:3:13|SB 6.3.13]]

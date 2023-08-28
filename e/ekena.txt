@@ -1,5 +1,11 @@
-~~Title:ekena~~
-{{description>alone; by another foot; by one; on one only; one; with one.}}
+---json
+{
+    "name":"ekena",
+    "h1":"ekena",
+    "title":"ekena -- synonyms, prabhupada.io",
+    "description":"alone; by another foot; by one; on one only; one; with one."
+}
+---
 
 ==== ekena  ====
   * alone --- [[books:sb:7:5:49|SB 7.5.49]]

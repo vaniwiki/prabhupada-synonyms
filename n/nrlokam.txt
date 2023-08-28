@@ -1,5 +1,11 @@
-~~Title:nṛlokam~~
-{{description>the planet of the human beings.}}
+---json
+{
+    "name":"nṛlokam",
+    "h1":"nṛlokam",
+    "title":"nṛlokam -- synonyms, prabhupada.io",
+    "description":"the planet of the human beings."
+}
+---
 
 ==== nṛlokam  ====
   * the planet of the human beings --- [[books:sb:3:2:6|SB 3.2.6]]

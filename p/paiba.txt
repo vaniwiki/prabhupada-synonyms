@@ -1,5 +1,11 @@
-~~Title:paiba~~
-{{description>I shall get; we shall get.}}
+---json
+{
+    "name":"paiba",
+    "h1":"paiba",
+    "title":"paiba -- synonyms, prabhupada.io",
+    "description":"I shall get; we shall get."
+}
+---
 
 ==== pāiba  ====
   * I shall get --- [[books:cc:madhya:1:229|Madhya 1.229]], [[books:cc:madhya:18:23|Madhya 18.23]]

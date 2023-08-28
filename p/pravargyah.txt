@@ -1,5 +1,11 @@
-~~Title:pravargyaḥ~~
-{{description>prior activities.}}
+---json
+{
+    "name":"pravargyaḥ",
+    "h1":"pravargyaḥ",
+    "title":"pravargyaḥ -- synonyms, prabhupada.io",
+    "description":"prior activities."
+}
+---
 
 ==== pravargyaḥ  ====
   * prior activities --- [[books:sb:3:13:37|SB 3.13.37]]

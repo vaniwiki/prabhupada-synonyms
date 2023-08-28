@@ -1,5 +1,11 @@
-~~Title:anuvarṇayan~~
-{{description>nicely describing.}}
+---json
+{
+    "name":"anuvarṇayan",
+    "h1":"anuvarṇayan",
+    "title":"anuvarṇayan -- synonyms, prabhupada.io",
+    "description":"nicely describing."
+}
+---
 
 ==== anuvarṇayan  ====
   * nicely describing --- [[books:sb:3:9:39|SB 3.9.39]]

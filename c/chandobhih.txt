@@ -1,5 +1,11 @@
-~~Title:chandobhiḥ~~
-{{description>Vedic hymns.}}
+---json
+{
+    "name":"chandobhiḥ",
+    "h1":"chandobhiḥ",
+    "title":"chandobhiḥ -- synonyms, prabhupada.io",
+    "description":"Vedic hymns."
+}
+---
 
 ==== chandobhiḥ  ====
   * Vedic hymns --- [[books:bg:13:5|Bg. 13.5]]

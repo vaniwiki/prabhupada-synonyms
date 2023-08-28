@@ -1,5 +1,11 @@
-~~Title:beḍiyā~~
-{{description>surrounding; walking all around.}}
+---json
+{
+    "name":"beḍiyā",
+    "h1":"beḍiyā",
+    "title":"beḍiyā -- synonyms, prabhupada.io",
+    "description":"surrounding; walking all around."
+}
+---
 
 ==== beḍiyā  ====
   * surrounding --- [[books:cc:adi:5:52|Ādi 5.52]]

@@ -1,5 +1,11 @@
-~~Title:vaneyuḥ~~
-{{description>the son named Vaneyu.}}
+---json
+{
+    "name":"vaneyuḥ",
+    "h1":"vaneyuḥ",
+    "title":"vaneyuḥ -- synonyms, prabhupada.io",
+    "description":"the son named Vaneyu."
+}
+---
 
 ==== vaneyuḥ  ====
   * the son named Vaneyu --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

@@ -1,5 +1,11 @@
-~~Title:bhanga~~
-{{description>breaking; broken; by the waves.}}
+---json
+{
+    "name":"bhanga",
+    "h1":"bhanga",
+    "title":"bhanga -- synonyms, prabhupada.io",
+    "description":"breaking; broken; by the waves."
+}
+---
 
 ==== bhaṅga  ====
   * breaking --- [[books:cc:madhya:7:47|Madhya 7.47]]

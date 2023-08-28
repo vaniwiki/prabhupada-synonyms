@@ -1,5 +1,11 @@
-~~Title:sakhībhiḥ~~
-{{description>by her friends.}}
+---json
+{
+    "name":"sakhībhiḥ",
+    "h1":"sakhībhiḥ",
+    "title":"sakhībhiḥ -- synonyms, prabhupada.io",
+    "description":"by her friends."
+}
+---
 
 ==== sakhībhiḥ  ====
   * by her friends --- [[books:sb:9:3:3|SB 9.3.3]]

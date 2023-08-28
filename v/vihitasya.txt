@@ -1,5 +1,11 @@
-~~Title:vihitasya~~
-{{description>performances.}}
+---json
+{
+    "name":"vihitasya",
+    "h1":"vihitasya",
+    "title":"vihitasya -- synonyms, prabhupada.io",
+    "description":"performances."
+}
+---
 
 ==== vihitasya  ====
   * performances --- [[books:sb:2:7:49|SB 2.7.49]]

@@ -1,5 +1,11 @@
-~~Title:nirviśya~~
-{{description>entering; having entered.}}
+---json
+{
+    "name":"nirviśya",
+    "h1":"nirviśya",
+    "title":"nirviśya -- synonyms, prabhupada.io",
+    "description":"entering; having entered."
+}
+---
 
 ==== nirviśya  ====
   * entering --- [[books:cc:madhya:24:52|Madhya 24.52]]

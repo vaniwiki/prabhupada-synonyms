@@ -1,5 +1,11 @@
-~~Title:sampadam~~
-{{description>nature; qualities.}}
+---json
+{
+    "name":"sampadam",
+    "h1":"sampadam",
+    "title":"sampadam -- synonyms, prabhupada.io",
+    "description":"nature; qualities."
+}
+---
 
 ==== sampadam  ====
   * nature --- [[books:bg:16:4|Bg. 16.4]], [[books:bg:16:5|Bg. 16.5]]

@@ -1,5 +1,11 @@
-~~Title:lokye~~
-{{description>all over the universe; in the three worlds.}}
+---json
+{
+    "name":"lokye",
+    "h1":"lokye",
+    "title":"lokye -- synonyms, prabhupada.io",
+    "description":"all over the universe; in the three worlds."
+}
+---
 
 ==== trai-lokye  ====
   * all over the universe --- [[books:sb:4:22:63|SB 4.22.63]]

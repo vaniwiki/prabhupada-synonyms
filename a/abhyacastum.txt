@@ -1,5 +1,11 @@
-~~Title:abhyācaṣṭum~~
-{{description>to describe.}}
+---json
+{
+    "name":"abhyācaṣṭum",
+    "h1":"abhyācaṣṭum",
+    "title":"abhyācaṣṭum -- synonyms, prabhupada.io",
+    "description":"to describe."
+}
+---
 
 ==== abhyācaṣṭum  ====
   * to describe --- [[books:sb:8:5:14|SB 8.5.14]]

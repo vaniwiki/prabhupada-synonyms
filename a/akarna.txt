@@ -1,5 +1,11 @@
-~~Title:ākarṇa~~
-{{description>drawn up to his ear.}}
+---json
+{
+    "name":"ākarṇa",
+    "h1":"ākarṇa",
+    "title":"ākarṇa -- synonyms, prabhupada.io",
+    "description":"drawn up to his ear."
+}
+---
 
 ==== ākarṇa-pūrṇaiḥ  ====
   * drawn up to his ear --- [[books:sb:8:11:10|SB 8.11.10]]

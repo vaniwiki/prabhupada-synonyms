@@ -1,5 +1,11 @@
-~~Title:vatsarera~~
-{{description>of the years.}}
+---json
+{
+    "name":"vatsarera",
+    "h1":"vatsarera",
+    "title":"vatsarera -- synonyms, prabhupada.io",
+    "description":"of the years."
+}
+---
 
 ==== vatsarera  ====
   * of the years --- [[books:cc:madhya:1:286|Madhya 1.286]]

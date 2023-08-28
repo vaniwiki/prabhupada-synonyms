@@ -1,5 +1,11 @@
-~~Title:vyañjakaḥ~~
-{{description>manifester.}}
+---json
+{
+    "name":"vyañjakaḥ",
+    "h1":"vyañjakaḥ",
+    "title":"vyañjakaḥ -- synonyms, prabhupada.io",
+    "description":"manifester."
+}
+---
 
 ==== vyañjakaḥ  ====
   * manifester --- [[books:sb:6:19:13|SB 6.19.13]]

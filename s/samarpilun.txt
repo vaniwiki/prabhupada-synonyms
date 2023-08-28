@@ -1,5 +1,11 @@
-~~Title:samarpiluṅ~~
-{{description>surrender.}}
+---json
+{
+    "name":"samarpiluṅ",
+    "h1":"samarpiluṅ",
+    "title":"samarpiluṅ -- synonyms, prabhupada.io",
+    "description":"surrender."
+}
+---
 
 ==== samarpiluṅ  ====
   * surrender --- [[books:cc:madhya:10:55|Madhya 10.55]]

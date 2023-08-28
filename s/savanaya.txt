@@ -1,5 +1,11 @@
-~~Title:savanāya~~
-{{description>for performing Vedic sacrifices.}}
+---json
+{
+    "name":"savanāya",
+    "h1":"savanāya",
+    "title":"savanāya -- synonyms, prabhupada.io",
+    "description":"for performing Vedic sacrifices."
+}
+---
 
 ==== savanāya  ====
   * for performing Vedic sacrifices --- [[books:sb:3:33:6|SB 3.33.6]], [[books:cc:madhya:16:186|Madhya 16.186]], [[books:cc:madhya:18:125|Madhya 18.125]]

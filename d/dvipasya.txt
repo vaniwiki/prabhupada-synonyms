@@ -1,5 +1,11 @@
-~~Title:dvīpasya~~
-{{description>of that island.}}
+---json
+{
+    "name":"dvīpasya",
+    "h1":"dvīpasya",
+    "title":"dvīpasya -- synonyms, prabhupada.io",
+    "description":"of that island."
+}
+---
 
 ==== tat-dvīpasya  ====
   * of that island --- [[books:sb:5:20:31|SB 5.20.31]]

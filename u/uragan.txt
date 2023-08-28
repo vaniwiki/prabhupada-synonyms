@@ -1,5 +1,11 @@
-~~Title:uragān~~
-{{description>serpents; the great serpents.}}
+---json
+{
+    "name":"uragān",
+    "h1":"uragān",
+    "title":"uragān -- synonyms, prabhupada.io",
+    "description":"serpents; the great serpents."
+}
+---
 
 ==== uragān  ====
   * serpents --- [[books:bg:11:15|Bg. 11.15]]

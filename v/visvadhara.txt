@@ -1,5 +1,11 @@
-~~Title:viśvadhāra~~
-{{description>Viśvadhāra.}}
+---json
+{
+    "name":"viśvadhāra",
+    "h1":"viśvadhāra",
+    "title":"viśvadhāra -- synonyms, prabhupada.io",
+    "description":"Viśvadhāra."
+}
+---
 
 ==== viśvadhāra  ====
   * Viśvadhāra --- [[books:sb:5:20:25|SB 5.20.25]]

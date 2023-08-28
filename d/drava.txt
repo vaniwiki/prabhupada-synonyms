@@ -1,5 +1,11 @@
-~~Title:drava~~
-{{description>melted; semisolid and soft and therefore easily swallowable.}}
+---json
+{
+    "name":"drava",
+    "h1":"drava",
+    "title":"drava -- synonyms, prabhupada.io",
+    "description":"melted; semisolid and soft and therefore easily swallowable."
+}
+---
 
 ==== drava  ====
   * melted --- [[books:cc:madhya:8:44|Madhya 8.44]]

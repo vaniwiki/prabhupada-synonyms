@@ -1,5 +1,11 @@
-~~Title:visṛjāmi~~
-{{description>create; I create.}}
+---json
+{
+    "name":"visṛjāmi",
+    "h1":"visṛjāmi",
+    "title":"visṛjāmi -- synonyms, prabhupada.io",
+    "description":"create; I create."
+}
+---
 
 ==== visṛjāmi  ====
   * create --- [[books:bg:9:8|Bg. 9.8]]

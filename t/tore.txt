@@ -1,5 +1,11 @@
-~~Title:tore~~
-{{description>to you; unto you; You.}}
+---json
+{
+    "name":"tore",
+    "h1":"tore",
+    "title":"tore -- synonyms, prabhupada.io",
+    "description":"to you; unto you; You."
+}
+---
 
 ==== tore  ====
   * to you --- [[books:cc:madhya:5:65|Madhya 5.65]], [[books:cc:madhya:5:68|Madhya 5.68]], [[books:cc:madhya:5:71|Madhya 5.71]]

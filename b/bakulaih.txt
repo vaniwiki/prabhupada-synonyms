@@ -1,5 +1,11 @@
-~~Title:bakulaiḥ~~
-{{description>with pāṭalas, aśokas and bakulas.}}
+---json
+{
+    "name":"bakulaiḥ",
+    "h1":"bakulaiḥ",
+    "title":"bakulaiḥ -- synonyms, prabhupada.io",
+    "description":"with pāṭalas, aśokas and bakulas."
+}
+---
 
 ==== pāṭala-aśoka-bakulaiḥ  ====
   * with //pāṭalas, aśokas// and //bakulas// --- [[books:sb:4:6:14-15|SB 4.6.14-15]]

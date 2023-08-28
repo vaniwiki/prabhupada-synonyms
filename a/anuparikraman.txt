@@ -1,5 +1,11 @@
-~~Title:anuparikrāman~~
-{{description>by circumambulating.}}
+---json
+{
+    "name":"anuparikrāman",
+    "h1":"anuparikrāman",
+    "title":"anuparikrāman -- synonyms, prabhupada.io",
+    "description":"by circumambulating."
+}
+---
 
 ==== anuparikrāman  ====
   * by circumambulating --- [[books:sb:5:1:30|SB 5.1.30]]

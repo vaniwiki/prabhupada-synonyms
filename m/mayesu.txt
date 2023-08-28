@@ -1,5 +1,11 @@
-~~Title:mayeṣu~~
-{{description>in things made of earth.}}
+---json
+{
+    "name":"mayeṣu",
+    "h1":"mayeṣu",
+    "title":"mayeṣu -- synonyms, prabhupada.io",
+    "description":"in things made of earth."
+}
+---
 
 ==== mṛt-mayeṣu  ====
   * in things made of earth --- [[books:sb:6:16:22|SB 6.16.22]]

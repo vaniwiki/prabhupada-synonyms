@@ -1,5 +1,11 @@
-~~Title:purum~~
-{{description>Puru.}}
+---json
+{
+    "name":"purum",
+    "h1":"purum",
+    "title":"purum -- synonyms, prabhupada.io",
+    "description":"Puru."
+}
+---
 
 ==== purum  ====
   * Puru --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

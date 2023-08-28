@@ -1,5 +1,11 @@
-~~Title:asiba~~
-{{description>I shall come; I shall come back; shall come; shall return; will come.}}
+---json
+{
+    "name":"asiba",
+    "h1":"asiba",
+    "title":"asiba -- synonyms, prabhupada.io",
+    "description":"I shall come; I shall come back; shall come; shall return; will come."
+}
+---
 
 ==== āsiba  ====
   * I shall come --- [[books:cc:madhya:7:45|Madhya 7.45]], [[books:cc:antya:2:50|Antya 2.50]]

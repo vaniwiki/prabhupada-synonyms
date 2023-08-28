@@ -1,5 +1,11 @@
-~~Title:anale~~
-{{description>in the fire.}}
+---json
+{
+    "name":"anale",
+    "h1":"anale",
+    "title":"anale -- synonyms, prabhupada.io",
+    "description":"in the fire."
+}
+---
 
 ==== anale  ====
   * in the fire --- [[books:sb:6:19:8|SB 6.19.8]]

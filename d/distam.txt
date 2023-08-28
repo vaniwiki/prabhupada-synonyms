@@ -1,5 +1,11 @@
-~~Title:diṣṭam~~
-{{description>about the fortune; according to destiny; because of past deeds; circumstantially; destiny; directed; the order.}}
+---json
+{
+    "name":"diṣṭam",
+    "h1":"diṣṭam",
+    "title":"diṣṭam -- synonyms, prabhupada.io",
+    "description":"about the fortune; according to destiny; because of past deeds; circumstantially; destiny; directed; the order."
+}
+---
 
 ==== diṣṭam  ====
   * about the fortune --- [[books:sb:10:12:12|SB 10.12.12]]

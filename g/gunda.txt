@@ -1,5 +1,11 @@
-~~Title:guṇḍā~~
-{{description>making into a powder.}}
+---json
+{
+    "name":"guṇḍā",
+    "h1":"guṇḍā",
+    "title":"guṇḍā -- synonyms, prabhupada.io",
+    "description":"making into a powder."
+}
+---
 
 ==== guṇḍā kari'  ====
   * making into a powder --- [[books:cc:antya:10:15-16|Antya 10.15-16]]

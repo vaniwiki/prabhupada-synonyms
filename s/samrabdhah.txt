@@ -1,5 +1,11 @@
-~~Title:saṁrabdhaḥ~~
-{{description>being very angry.}}
+---json
+{
+    "name":"saṁrabdhaḥ",
+    "h1":"saṁrabdhaḥ",
+    "title":"saṁrabdhaḥ -- synonyms, prabhupada.io",
+    "description":"being very angry."
+}
+---
 
 ==== saṁrabdhaḥ  ====
   * being very angry --- [[books:sb:6:12:4|SB 6.12.4]], [[books:sb:8:11:2|SB 8.11.2]]

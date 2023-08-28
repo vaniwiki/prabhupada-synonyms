@@ -1,5 +1,11 @@
-~~Title:lagna~~
-{{description>birth moment.}}
+---json
+{
+    "name":"lagna",
+    "h1":"lagna",
+    "title":"lagna -- synonyms, prabhupada.io",
+    "description":"birth moment."
+}
+---
 
 ==== lagna  ====
   * birth moment --- [[books:cc:adi:13:90|Ādi 13.90]]

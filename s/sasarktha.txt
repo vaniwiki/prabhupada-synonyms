@@ -1,5 +1,11 @@
-~~Title:sasarktha~~
-{{description>(You) created.}}
+---json
+{
+    "name":"sasarktha",
+    "h1":"sasarktha",
+    "title":"sasarktha -- synonyms, prabhupada.io",
+    "description":"(You) created."
+}
+---
 
 ==== sasarktha  ====
   * (You) created --- [[books:sb:7:8:43|SB 7.8.43]]

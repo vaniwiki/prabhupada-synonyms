@@ -1,5 +1,11 @@
-~~Title:svasya~~
-{{description>for Himself; of Himself; of His own; of one's self or of the living entity.}}
+---json
+{
+    "name":"svasya",
+    "h1":"svasya",
+    "title":"svasya -- synonyms, prabhupada.io",
+    "description":"for Himself; of Himself; of His own; of one's self or of the living entity."
+}
+---
 
 ==== svasya  ====
   * for Himself --- [[books:cc:madhya:21:100|Madhya 21.100]]

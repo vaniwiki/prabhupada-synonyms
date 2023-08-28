@@ -1,5 +1,11 @@
-~~Title:nidhanam~~
-{{description>annihilation; death; demise; destruction; killing; massacre; the death; without end.}}
+---json
+{
+    "name":"nidhanam",
+    "h1":"nidhanam",
+    "title":"nidhanam -- synonyms, prabhupada.io",
+    "description":"annihilation; death; demise; destruction; killing; massacre; the death; without end."
+}
+---
 
 ==== nidhanam  ====
   * annihilation --- [[books:sb:7:9:31|SB 7.9.31]]

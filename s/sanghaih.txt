@@ -1,5 +1,11 @@
-~~Title:saṅghaiḥ~~
-{{description>by the assembly of; with the groups.}}
+---json
+{
+    "name":"saṅghaiḥ",
+    "h1":"saṅghaiḥ",
+    "title":"saṅghaiḥ -- synonyms, prabhupada.io",
+    "description":"by the assembly of; with the groups."
+}
+---
 
 ==== saṅghaiḥ  ====
   * by the assembly of --- [[books:sb:1:19:30|SB 1.19.30]]

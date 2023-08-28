@@ -1,5 +1,11 @@
-~~Title:śarvābhyām~~
-{{description>and by Lord Śiva.}}
+---json
+{
+    "name":"śarvābhyām",
+    "h1":"śarvābhyām",
+    "title":"śarvābhyām -- synonyms, prabhupada.io",
+    "description":"and by Lord Śiva."
+}
+---
 
 ==== śarvābhyām  ====
   * and by Lord Śiva --- [[books:sb:4:19:4|SB 4.19.4]]

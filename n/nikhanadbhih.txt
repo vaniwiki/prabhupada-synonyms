@@ -1,5 +1,11 @@
-~~Title:nikhanadbhiḥ~~
-{{description>digging.}}
+---json
+{
+    "name":"nikhanadbhiḥ",
+    "h1":"nikhanadbhiḥ",
+    "title":"nikhanadbhiḥ -- synonyms, prabhupada.io",
+    "description":"digging."
+}
+---
 
 ==== nikhanadbhiḥ  ====
   * digging --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

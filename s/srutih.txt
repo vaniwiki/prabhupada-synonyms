@@ -1,5 +1,11 @@
-~~Title:srutih~~
-{{description>essence of the Vedas; the Vedas; the Vedic hymns; Vedic mantras; Vedic knowledge.}}
+---json
+{
+    "name":"srutih",
+    "h1":"srutih",
+    "title":"srutih -- synonyms, prabhupada.io",
+    "description":"essence of the Vedas; the Vedas; the Vedic hymns; Vedic mantras; Vedic knowledge."
+}
+---
 
 ==== śrutiḥ  ====
   * essence of the //Vedas// --- [[books:sb:1:4:7|SB 1.4.7]]

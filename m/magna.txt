@@ -1,5 +1,11 @@
-~~Title:magna~~
-{{description>absorbed; fully merged; immersed; merged.}}
+---json
+{
+    "name":"magna",
+    "h1":"magna",
+    "title":"magna -- synonyms, prabhupada.io",
+    "description":"absorbed; fully merged; immersed; merged."
+}
+---
 
 ==== magna  ====
   * absorbed --- [[books:cc:madhya:13:117|Madhya 13.117]]

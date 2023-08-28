@@ -1,5 +1,11 @@
-~~Title:goloke~~
-{{description>in Goloka; in Goloka Vṛndāvana; on the planet called Goloka.}}
+---json
+{
+    "name":"goloke",
+    "h1":"goloke",
+    "title":"goloke -- synonyms, prabhupada.io",
+    "description":"in Goloka; in Goloka Vṛndāvana; on the planet called Goloka."
+}
+---
 
 ==== goloke  ====
   * in Goloka --- [[books:cc:adi:3:5|Ādi 3.5]]

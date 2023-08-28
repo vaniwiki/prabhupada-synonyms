@@ -1,5 +1,11 @@
-~~Title:kṣamāite~~
-{{description>to pardon.}}
+---json
+{
+    "name":"kṣamāite",
+    "h1":"kṣamāite",
+    "title":"kṣamāite -- synonyms, prabhupada.io",
+    "description":"to pardon."
+}
+---
 
 ==== kṣamāite  ====
   * to pardon --- [[books:cc:adi:2:31|Ādi 2.31]]

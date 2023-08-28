@@ -1,5 +1,11 @@
-~~Title:dūrī~~
-{{description>far off.}}
+---json
+{
+    "name":"dūrī",
+    "h1":"dūrī",
+    "title":"dūrī -- synonyms, prabhupada.io",
+    "description":"far off."
+}
+---
 
 ==== dūrī-bhūta  ====
   * far off --- [[books:sb:3:27:10|SB 3.27.10]]

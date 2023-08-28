@@ -1,5 +1,11 @@
-~~Title:uktasya~~
-{{description>of diligently studying the Vedic literature.}}
+---json
+{
+    "name":"uktasya",
+    "h1":"uktasya",
+    "title":"uktasya -- synonyms, prabhupada.io",
+    "description":"of diligently studying the Vedic literature."
+}
+---
 
 ==== su-uktasya  ====
   * of diligently studying the Vedic literature --- [[books:sb:5:19:28|SB 5.19.28]]

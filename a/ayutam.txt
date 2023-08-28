@@ -1,5 +1,11 @@
-~~Title:ayutam~~
-{{description>one million; ten thousand.}}
+---json
+{
+    "name":"ayutam",
+    "h1":"ayutam",
+    "title":"ayutam -- synonyms, prabhupada.io",
+    "description":"one million; ten thousand."
+}
+---
 
 ==== ayutam  ====
   * one million --- [[books:sb:4:20:24|SB 4.20.24]]

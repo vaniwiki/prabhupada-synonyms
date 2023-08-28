@@ -1,5 +1,11 @@
-~~Title:bhāvayeyam~~
-{{description>may I concentrate.}}
+---json
+{
+    "name":"bhāvayeyam",
+    "h1":"bhāvayeyam",
+    "title":"bhāvayeyam -- synonyms, prabhupada.io",
+    "description":"may I concentrate."
+}
+---
 
 ==== bhāvayeyam  ====
   * may I concentrate --- [[books:mm:4|MM 4]]

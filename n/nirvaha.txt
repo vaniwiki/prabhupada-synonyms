@@ -1,5 +1,11 @@
-~~Title:nirvāha~~
-{{description>accomplishing.}}
+---json
+{
+    "name":"nirvāha",
+    "h1":"nirvāha",
+    "title":"nirvāha -- synonyms, prabhupada.io",
+    "description":"accomplishing."
+}
+---
 
 ==== nirvāha  ====
   * accomplishing --- [[books:cc:madhya:17:228-229|Madhya 17.228-229]]

@@ -1,5 +1,11 @@
-~~Title:titarmi~~
-{{description>I shall cross.}}
+---json
+{
+    "name":"titarmi",
+    "h1":"titarmi",
+    "title":"titarmi -- synonyms, prabhupada.io",
+    "description":"I shall cross."
+}
+---
 
 ==== titarmi  ====
   * I shall cross --- [[books:sb:7:9:18|SB 7.9.18]]

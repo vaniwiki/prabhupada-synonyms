@@ -1,5 +1,11 @@
-~~Title:agāyat~~
-{{description>chanted.}}
+---json
+{
+    "name":"agāyat",
+    "h1":"agāyat",
+    "title":"agāyat -- synonyms, prabhupada.io",
+    "description":"chanted."
+}
+---
 
 ==== agāyat  ====
   * chanted --- [[books:sb:4:12:40|SB 4.12.40]]

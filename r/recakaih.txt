@@ -1,5 +1,11 @@
-~~Title:recakaiḥ~~
-{{description>by inhaling, exhaling and holding, which are technically known as pūraka, kumbhaka and recaka; by inhaling, retaining and exhaling.}}
+---json
+{
+    "name":"recakaiḥ",
+    "h1":"recakaiḥ",
+    "title":"recakaiḥ -- synonyms, prabhupada.io",
+    "description":"by inhaling, exhaling and holding, which are technically known as pūraka, kumbhaka and recaka; by inhaling, retaining and exhaling."
+}
+---
 
 ==== pūra-kumbhaka-recakaiḥ  ====
   * by inhaling, exhaling and holding, which are technically known as //pūraka, kumbhaka// and //recaka// --- [[books:sb:7:15:32-33|SB 7.15.32-33]]

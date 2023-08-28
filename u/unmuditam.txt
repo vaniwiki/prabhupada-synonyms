@@ -1,5 +1,11 @@
-~~Title:unmuditam~~
-{{description>without anxiety.}}
+---json
+{
+    "name":"unmuditam",
+    "h1":"unmuditam",
+    "title":"unmuditam -- synonyms, prabhupada.io",
+    "description":"without anxiety."
+}
+---
 
 ==== unmuditam  ====
   * without anxiety --- [[books:sb:4:26:24|SB 4.26.24]]

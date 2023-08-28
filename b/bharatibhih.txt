@@ -1,5 +1,11 @@
-~~Title:bhāratībhiḥ~~
-{{description>of the land known as Bhārata-varṣa (India).}}
+---json
+{
+    "name":"bhāratībhiḥ",
+    "h1":"bhāratībhiḥ",
+    "title":"bhāratībhiḥ -- synonyms, prabhupada.io",
+    "description":"of the land known as Bhārata-varṣa (India)."
+}
+---
 
 ==== bhāratībhiḥ  ====
   * of the land known as Bhārata-varṣa (India) --- [[books:sb:5:19:10|SB 5.19.10]]

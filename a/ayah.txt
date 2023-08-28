@@ -1,5 +1,11 @@
-~~Title:ayaḥ~~
-{{description>iron; made of iron.}}
+---json
+{
+    "name":"ayaḥ",
+    "h1":"ayaḥ",
+    "title":"ayaḥ -- synonyms, prabhupada.io",
+    "description":"iron; made of iron."
+}
+---
 
 ==== ayaḥ  ====
   * iron --- [[books:sb:4:4:6|SB 4.4.6]], [[books:sb:4:18:16|SB 4.18.16]], [[books:sb:5:18:38|SB 5.18.38]], [[books:sb:7:5:14|SB 7.5.14]]

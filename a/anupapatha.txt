@@ -1,5 +1,11 @@
-~~Title:anupapāṭha~~
-{{description>recited.}}
+---json
+{
+    "name":"anupapāṭha",
+    "h1":"anupapāṭha",
+    "title":"anupapāṭha -- synonyms, prabhupada.io",
+    "description":"recited."
+}
+---
 
 ==== anupapāṭha  ====
   * recited --- [[books:sb:7:5:3|SB 7.5.3]]

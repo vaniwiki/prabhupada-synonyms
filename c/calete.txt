@@ -1,5 +1,11 @@
-~~Title:cālete~~
-{{description>in the thatched roof.}}
+---json
+{
+    "name":"cālete",
+    "h1":"cālete",
+    "title":"cālete -- synonyms, prabhupada.io",
+    "description":"in the thatched roof."
+}
+---
 
 ==== cālete  ====
   * in the thatched roof --- [[books:cc:antya:1:80|Antya 1.80]]

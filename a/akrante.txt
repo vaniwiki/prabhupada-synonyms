@@ -1,5 +1,11 @@
-~~Title:ākrānte~~
-{{description>touched by His own hooves.}}
+---json
+{
+    "name":"ākrānte",
+    "h1":"ākrānte",
+    "title":"ākrānte -- synonyms, prabhupada.io",
+    "description":"touched by His own hooves."
+}
+---
 
 ==== sva-khura-ākrānte  ====
   * touched by His own hooves --- [[books:sb:3:13:46|SB 3.13.46]]

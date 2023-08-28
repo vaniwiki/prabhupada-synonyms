@@ -1,5 +1,11 @@
-~~Title:dvirephām~~
-{{description>surrounded by bumblebees.}}
+---json
+{
+    "name":"dvirephām",
+    "h1":"dvirephām",
+    "title":"dvirephām -- synonyms, prabhupada.io",
+    "description":"surrounded by bumblebees."
+}
+---
 
 ==== dvirephām  ====
   * surrounded by bumblebees --- [[books:sb:8:8:17|SB 8.8.17]]

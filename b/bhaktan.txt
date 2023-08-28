@@ -1,5 +1,11 @@
-~~Title:bhaktān~~
-{{description>the devotees.}}
+---json
+{
+    "name":"bhaktān",
+    "h1":"bhaktān",
+    "title":"bhaktān -- synonyms, prabhupada.io",
+    "description":"the devotees."
+}
+---
 
 ==== bhaktān  ====
   * the devotees --- [[books:cc:antya:16:1|Antya 16.1]]

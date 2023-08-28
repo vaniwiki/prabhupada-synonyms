@@ -1,5 +1,11 @@
-~~Title:svāpau~~
-{{description>sleeping.}}
+---json
+{
+    "name":"svāpau",
+    "h1":"svāpau",
+    "title":"svāpau -- synonyms, prabhupada.io",
+    "description":"sleeping."
+}
+---
 
 ==== svāpau  ====
   * sleeping --- [[books:sb:7:15:61|SB 7.15.61]]

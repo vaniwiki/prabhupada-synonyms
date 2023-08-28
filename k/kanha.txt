@@ -1,5 +1,11 @@
-~~Title:kāṅhā~~
-{{description>anywhere; what; where.}}
+---json
+{
+    "name":"kāṅhā",
+    "h1":"kāṅhā",
+    "title":"kāṅhā -- synonyms, prabhupada.io",
+    "description":"anywhere; what; where."
+}
+---
 
 ==== kāṅhā  ====
   * anywhere --- [[books:cc:antya:1:24|Antya 1.24]], [[books:cc:antya:8:43|Antya 8.43]]

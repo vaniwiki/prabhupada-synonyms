@@ -1,5 +1,11 @@
-~~Title:kāliṅgasya~~
-{{description>of the King of Kaliṅga.}}
+---json
+{
+    "name":"kāliṅgasya",
+    "h1":"kāliṅgasya",
+    "title":"kāliṅgasya -- synonyms, prabhupada.io",
+    "description":"of the King of Kaliṅga."
+}
+---
 
 ==== kāliṅgasya  ====
   * of the King of Kaliṅga --- [[books:sb:4:5:21|SB 4.5.21]]

@@ -1,5 +1,11 @@
-~~Title:upasthāsye~~
-{{description>can please.}}
+---json
+{
+    "name":"upasthāsye",
+    "h1":"upasthāsye",
+    "title":"upasthāsye -- synonyms, prabhupada.io",
+    "description":"can please."
+}
+---
 
 ==== upasthāsye  ====
   * can please --- [[books:sb:8:16:22|SB 8.16.22]]

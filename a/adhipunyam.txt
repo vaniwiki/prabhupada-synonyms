@@ -1,5 +1,11 @@
-~~Title:adhipuṇyam~~
-{{description>more pious than any other island.}}
+---json
+{
+    "name":"adhipuṇyam",
+    "h1":"adhipuṇyam",
+    "title":"adhipuṇyam -- synonyms, prabhupada.io",
+    "description":"more pious than any other island."
+}
+---
 
 ==== adhipuṇyam  ====
   * more pious than any other island --- [[books:sb:5:6:13|SB 5.6.13]]

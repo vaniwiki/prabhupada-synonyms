@@ -1,5 +1,11 @@
-~~Title:adhauta~~
-{{description>not washed.}}
+---json
+{
+    "name":"adhauta",
+    "h1":"adhauta",
+    "title":"adhauta -- synonyms, prabhupada.io",
+    "description":"not washed."
+}
+---
 
 ==== adhauta  ====
   * not washed --- [[books:sb:6:18:60|SB 6.18.60]]

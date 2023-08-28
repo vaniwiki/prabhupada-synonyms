@@ -1,5 +1,11 @@
-~~Title:suramya~~
-{{description>having the most beautiful transcendental body.}}
+---json
+{
+    "name":"suramya",
+    "h1":"suramya",
+    "title":"suramya -- synonyms, prabhupada.io",
+    "description":"having the most beautiful transcendental body."
+}
+---
 
 ==== suramya-aṅgaḥ  ====
   * having the most beautiful transcendental body --- [[books:cc:madhya:23:70|Madhya 23.70]]

@@ -1,5 +1,11 @@
-~~Title:vādinyā~~
-{{description>self-realized.}}
+---json
+{
+    "name":"vādinyā",
+    "h1":"vādinyā",
+    "title":"vādinyā -- synonyms, prabhupada.io",
+    "description":"self-realized."
+}
+---
 
 ==== brahma-vādinyā  ====
   * self-realized --- [[books:sb:3:33:12|SB 3.33.12]]

@@ -1,5 +1,11 @@
-~~Title:gahanam~~
-{{description>very dense.}}
+---json
+{
+    "name":"gahanam",
+    "h1":"gahanam",
+    "title":"gahanam -- synonyms, prabhupada.io",
+    "description":"very dense."
+}
+---
 
 ==== gahanam  ====
   * very dense --- [[books:sb:8:3:5|SB 8.3.5]]

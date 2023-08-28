@@ -1,5 +1,11 @@
-~~Title:abhihitena~~
-{{description>stated in the revealed scriptures.}}
+---json
+{
+    "name":"abhihitena",
+    "h1":"abhihitena",
+    "title":"abhihitena -- synonyms, prabhupada.io",
+    "description":"stated in the revealed scriptures."
+}
+---
 
 ==== abhihitena  ====
   * stated in the revealed scriptures --- [[books:cc:madhya:20:173|Madhya 20.173]]

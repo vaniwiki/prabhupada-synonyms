@@ -1,5 +1,11 @@
-~~Title:ahaha~~
-{{description>alas.}}
+---json
+{
+    "name":"ahaha",
+    "h1":"ahaha",
+    "title":"ahaha -- synonyms, prabhupada.io",
+    "description":"alas."
+}
+---
 
 ==== ahaha  ====
   * alas --- [[books:cc:antya:1:190|Antya 1.190]]

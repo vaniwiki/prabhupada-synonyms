@@ -1,5 +1,11 @@
-~~Title:supta~~
-{{description>dormant; inactive; sleeping; unmanifested.}}
+---json
+{
+    "name":"supta",
+    "h1":"supta",
+    "title":"supta -- synonyms, prabhupada.io",
+    "description":"dormant; inactive; sleeping; unmanifested."
+}
+---
 
 ==== supta  ====
   * dormant --- [[books:sb:4:24:63|SB 4.24.63]]

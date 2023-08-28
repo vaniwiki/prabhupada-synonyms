@@ -1,5 +1,11 @@
-~~Title:gehe~~
-{{description>in family matters; in the home; in the house of.}}
+---json
+{
+    "name":"gehe",
+    "h1":"gehe",
+    "title":"gehe -- synonyms, prabhupada.io",
+    "description":"in family matters; in the home; in the house of."
+}
+---
 
 ==== gehe  ====
   * in family matters --- [[books:sb:7:14:5|SB 7.14.5]]

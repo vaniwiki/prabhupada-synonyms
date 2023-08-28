@@ -1,5 +1,11 @@
-~~Title:dhṛtadevā~~
-{{description>headed by Dhṛtadevā.}}
+---json
+{
+    "name":"dhṛtadevā",
+    "h1":"dhṛtadevā",
+    "title":"dhṛtadevā -- synonyms, prabhupada.io",
+    "description":"headed by Dhṛtadevā."
+}
+---
 
 ==== dhṛtadevā-ādayaḥ  ====
   * headed by Dhṛtadevā --- [[books:sb:9:24:21-23|SB 9.24.21-23]]

@@ -1,5 +1,11 @@
-~~Title:ānandera~~
-{{description>toward the joy.}}
+---json
+{
+    "name":"ānandera",
+    "h1":"ānandera",
+    "title":"ānandera -- synonyms, prabhupada.io",
+    "description":"toward the joy."
+}
+---
 
 ==== ānandera prati  ====
   * toward the joy --- [[books:cc:adi:4:200-201|Ādi 4.200-201]]

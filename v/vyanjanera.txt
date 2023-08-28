@@ -1,5 +1,11 @@
-~~Title:vyañjanera~~
-{{description>of vegetables.}}
+---json
+{
+    "name":"vyañjanera",
+    "h1":"vyañjanera",
+    "title":"vyañjanera -- synonyms, prabhupada.io",
+    "description":"of vegetables."
+}
+---
 
 ==== vyañjanera  ====
   * of vegetables --- [[books:cc:madhya:15:88|Madhya 15.88]]

@@ -1,5 +1,11 @@
-~~Title:vargera~~
-{{description>of the group of respectable predecessors.}}
+---json
+{
+    "name":"vargera",
+    "h1":"vargera",
+    "title":"vargera -- synonyms, prabhupada.io",
+    "description":"of the group of respectable predecessors."
+}
+---
 
 ==== guru-vargera  ====
   * of the group of respectable predecessors --- [[books:cc:adi:3:93|Ādi 3.93]]

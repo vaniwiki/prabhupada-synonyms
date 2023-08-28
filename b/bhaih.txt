@@ -1,5 +1,11 @@
-~~Title:bhaiḥ~~
-{{description>fear.}}
+---json
+{
+    "name":"bhaiḥ",
+    "h1":"bhaiḥ",
+    "title":"bhaiḥ -- synonyms, prabhupada.io",
+    "description":"fear."
+}
+---
 
 ==== bhaiḥ  ====
   * fear --- [[books:sb:6:3:10|SB 6.3.10]]

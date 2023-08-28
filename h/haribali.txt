@@ -1,5 +1,11 @@
-~~Title:haribali'~~
-{{description>chanting the holy name.}}
+---json
+{
+    "name":"haribali'",
+    "h1":"haribali'",
+    "title":"haribali' -- synonyms, prabhupada.io",
+    "description":"chanting the holy name."
+}
+---
 
 ==== haribali'  ====
   * chanting the holy name --- [[books:cc:adi:3:62|Ādi 3.62]]

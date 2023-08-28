@@ -1,5 +1,11 @@
-~~Title:yuṣmābhiḥ~~
-{{description>by ourselves.}}
+---json
+{
+    "name":"yuṣmābhiḥ",
+    "h1":"yuṣmābhiḥ",
+    "title":"yuṣmābhiḥ -- synonyms, prabhupada.io",
+    "description":"by ourselves."
+}
+---
 
 ==== yuṣmābhiḥ  ====
   * by ourselves --- [[books:sb:9:3:6|SB 9.3.6]]

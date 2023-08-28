@@ -1,5 +1,11 @@
-~~Title:caladguḥ~~
-{{description>trampling the earth.}}
+---json
+{
+    "name":"caladguḥ",
+    "h1":"caladguḥ",
+    "title":"caladguḥ -- synonyms, prabhupada.io",
+    "description":"trampling the earth."
+}
+---
 
 ==== caladguḥ  ====
   * trampling the earth --- [[books:sb:1:9:37|SB 1.9.37]]

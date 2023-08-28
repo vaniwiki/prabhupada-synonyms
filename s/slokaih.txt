@@ -1,5 +1,11 @@
-~~Title:ślokaiḥ~~
-{{description>by famous persons who are celebrated as pious.}}
+---json
+{
+    "name":"ślokaiḥ",
+    "h1":"ślokaiḥ",
+    "title":"ślokaiḥ -- synonyms, prabhupada.io",
+    "description":"by famous persons who are celebrated as pious."
+}
+---
 
 ==== puṇya-ślokaiḥ  ====
   * by famous persons who are celebrated as pious --- [[books:sb:6:10:9|SB 6.10.9]]

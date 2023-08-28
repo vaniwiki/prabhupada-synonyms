@@ -1,5 +1,11 @@
-~~Title:avagāhite~~
-{{description>to bathe.}}
+---json
+{
+    "name":"avagāhite",
+    "h1":"avagāhite",
+    "title":"avagāhite -- synonyms, prabhupada.io",
+    "description":"to bathe."
+}
+---
 
 ==== avagāhite  ====
   * to bathe --- [[books:cc:madhya:21:98|Madhya 21.98]]

@@ -1,5 +1,11 @@
-~~Title:pravacane~~
-{{description>delivering speeches on Vedic literature.}}
+---json
+{
+    "name":"pravacane",
+    "h1":"pravacane",
+    "title":"pravacane -- synonyms, prabhupada.io",
+    "description":"delivering speeches on Vedic literature."
+}
+---
 
 ==== pravacane  ====
   * delivering speeches on Vedic literature --- [[books:sb:7:15:1|SB 7.15.1]]

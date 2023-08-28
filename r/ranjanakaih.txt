@@ -1,5 +1,11 @@
-~~Title:rañjanakaiḥ~~
-{{description>very pleasing to the mind.}}
+---json
+{
+    "name":"rañjanakaiḥ",
+    "h1":"rañjanakaiḥ",
+    "title":"rañjanakaiḥ -- synonyms, prabhupada.io",
+    "description":"very pleasing to the mind."
+}
+---
 
 ==== manaḥ-rañjanakaiḥ  ====
   * very pleasing to the mind --- [[books:sb:4:16:15|SB 4.16.15]]

@@ -1,5 +1,11 @@
-~~Title:agaresu~~
-{{description>in different compartments.}}
+---json
+{
+    "name":"agaresu",
+    "h1":"agaresu",
+    "title":"agaresu -- synonyms, prabhupada.io",
+    "description":"in different compartments."
+}
+---
 
 ==== nānā-āgāreṣu  ====
   * in different compartments --- [[books:sb:3:3:8|SB 3.3.8]]

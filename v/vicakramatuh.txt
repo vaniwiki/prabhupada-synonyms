@@ -1,5 +1,11 @@
-~~Title:vicakramatuḥ~~
-{{description>began to walk.}}
+---json
+{
+    "name":"vicakramatuḥ",
+    "h1":"vicakramatuḥ",
+    "title":"vicakramatuḥ -- synonyms, prabhupada.io",
+    "description":"began to walk."
+}
+---
 
 ==== vicakramatuḥ  ====
   * began to walk --- [[books:sb:10:8:26|SB 10.8.26]]

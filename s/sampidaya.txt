@@ -1,5 +1,11 @@
-~~Title:sampīḍayā~~
-{{description>by giving pain to others.}}
+---json
+{
+    "name":"sampīḍayā",
+    "h1":"sampīḍayā",
+    "title":"sampīḍayā -- synonyms, prabhupada.io",
+    "description":"by giving pain to others."
+}
+---
 
 ==== para-sampīḍayā  ====
   * by giving pain to others --- [[books:sb:6:16:42|SB 6.16.42]]

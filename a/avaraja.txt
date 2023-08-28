@@ -1,5 +1,11 @@
-~~Title:avarajā~~
-{{description>the youngest of all; younger sister.}}
+---json
+{
+    "name":"avarajā",
+    "h1":"avarajā",
+    "title":"avarajā -- synonyms, prabhupada.io",
+    "description":"the youngest of all; younger sister."
+}
+---
 
 ==== avarajā  ====
   * the youngest of all --- [[books:sb:10:5:29|SB 10.5.29]]

@@ -1,5 +1,11 @@
-~~Title:yauvane~~
-{{description>in His youth.}}
+---json
+{
+    "name":"yauvane",
+    "h1":"yauvane",
+    "title":"yauvane -- synonyms, prabhupada.io",
+    "description":"in His youth."
+}
+---
 
 ==== yauvane  ====
   * in His youth --- [[books:cc:adi:17:4|Ādi 17.4]]

@@ -1,5 +1,11 @@
-~~Title:parijana~~
-{{description>by Your servants; family members.}}
+---json
+{
+    "name":"parijana",
+    "h1":"parijana",
+    "title":"parijana -- synonyms, prabhupada.io",
+    "description":"by Your servants; family members."
+}
+---
 
 ==== parijana  ====
   * by Your servants --- [[books:sb:5:3:6|SB 5.3.6]]

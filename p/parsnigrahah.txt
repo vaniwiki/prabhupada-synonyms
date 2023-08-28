@@ -1,5 +1,11 @@
-~~Title:pārṣṇigrāhaḥ~~
-{{description>a very good assistant.}}
+---json
+{
+    "name":"pārṣṇigrāhaḥ",
+    "h1":"pārṣṇigrāhaḥ",
+    "title":"pārṣṇigrāhaḥ -- synonyms, prabhupada.io",
+    "description":"a very good assistant."
+}
+---
 
 ==== pārṣṇigrāhaḥ  ====
   * a very good assistant --- [[books:sb:9:6:13|SB 9.6.13]]

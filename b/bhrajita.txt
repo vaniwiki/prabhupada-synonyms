@@ -1,5 +1,11 @@
-~~Title:bhrājitā~~
-{{description>beautified.}}
+---json
+{
+    "name":"bhrājitā",
+    "h1":"bhrājitā",
+    "title":"bhrājitā -- synonyms, prabhupada.io",
+    "description":"beautified."
+}
+---
 
 ==== bhrājitā  ====
   * beautified --- [[books:cc:adi:2:2|Ādi 2.2]]

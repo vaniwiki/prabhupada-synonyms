@@ -1,5 +1,11 @@
-~~Title:samāpta~~
-{{description>ending; finished.}}
+---json
+{
+    "name":"samāpta",
+    "h1":"samāpta",
+    "title":"samāpta -- synonyms, prabhupada.io",
+    "description":"ending; finished."
+}
+---
 
 ==== samāpta  ====
   * ending --- [[books:cc:madhya:11:210|Madhya 11.210]]

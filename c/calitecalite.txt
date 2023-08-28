@@ -1,5 +1,11 @@
-~~Title:calitecalite~~
-{{description>walking in this way; walking on and on.}}
+---json
+{
+    "name":"calitecalite",
+    "h1":"calitecalite",
+    "title":"calitecalite -- synonyms, prabhupada.io",
+    "description":"walking in this way; walking on and on."
+}
+---
 
 ==== calitecalite  ====
   * walking in this way --- [[books:cc:madhya:5:147|Madhya 5.147]]

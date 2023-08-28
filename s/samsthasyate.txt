@@ -1,5 +1,11 @@
-~~Title:saṁsthāsyate~~
-{{description>will dissolve.}}
+---json
+{
+    "name":"saṁsthāsyate",
+    "h1":"saṁsthāsyate",
+    "title":"saṁsthāsyate -- synonyms, prabhupada.io",
+    "description":"will dissolve."
+}
+---
 
 ==== saṁsthāsyate  ====
   * will dissolve --- [[books:sb:3:22:20|SB 3.22.20]]

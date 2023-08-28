@@ -1,5 +1,11 @@
-~~Title:āviṣṭatā~~
-{{description>absorption.}}
+---json
+{
+    "name":"āviṣṭatā",
+    "h1":"āviṣṭatā",
+    "title":"āviṣṭatā -- synonyms, prabhupada.io",
+    "description":"absorption."
+}
+---
 
 ==== āviṣṭatā  ====
   * absorption --- [[books:cc:madhya:22:151|Madhya 22.151]]

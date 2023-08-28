@@ -1,5 +1,11 @@
-~~Title:pradān~~
-{{description>the givers.}}
+---json
+{
+    "name":"pradān",
+    "h1":"pradān",
+    "title":"pradān -- synonyms, prabhupada.io",
+    "description":"the givers."
+}
+---
 
 ==== pradān  ====
   * the givers --- [[books:cc:adi:10:7|Ādi 10.7]]

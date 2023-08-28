@@ -1,5 +1,11 @@
-~~Title:nirvīrudham~~
-{{description>treeless.}}
+---json
+{
+    "name":"nirvīrudham",
+    "h1":"nirvīrudham",
+    "title":"nirvīrudham -- synonyms, prabhupada.io",
+    "description":"treeless."
+}
+---
 
 ==== nirvīrudham  ====
   * treeless --- [[books:sb:4:30:45|SB 4.30.45]]

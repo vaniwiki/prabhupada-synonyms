@@ -1,5 +1,11 @@
-~~Title:latam~~
-{{description>Latā.}}
+---json
+{
+    "name":"latam",
+    "h1":"latam",
+    "title":"latam -- synonyms, prabhupada.io",
+    "description":"Latā."
+}
+---
 
 ==== latām  ====
   * Latā --- [[books:sb:5:2:23|SB 5.2.23]]

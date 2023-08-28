@@ -1,5 +1,11 @@
-~~Title:ayudhyataḥ~~
-{{description>and thus not fighting.}}
+---json
+{
+    "name":"ayudhyataḥ",
+    "h1":"ayudhyataḥ",
+    "title":"ayudhyataḥ -- synonyms, prabhupada.io",
+    "description":"and thus not fighting."
+}
+---
 
 ==== ayudhyataḥ  ====
   * and thus not fighting --- [[books:sb:10:4:35|SB 10.4.35]]

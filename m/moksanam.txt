@@ -1,5 +1,11 @@
-~~Title:moksanam~~
-{{description>of liberation; of salvation; salvation.}}
+---json
+{
+    "name":"moksanam",
+    "h1":"moksanam",
+    "title":"moksanam -- synonyms, prabhupada.io",
+    "description":"of liberation; of salvation; salvation."
+}
+---
 
 ==== mokṣāṇām  ====
   * of liberation --- [[books:sb:4:23:35|SB 4.23.35]]

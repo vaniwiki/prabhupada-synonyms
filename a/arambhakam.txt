@@ -1,5 +1,11 @@
-~~Title:ārambhakam~~
-{{description>begun by himself.}}
+---json
+{
+    "name":"ārambhakam",
+    "h1":"ārambhakam",
+    "title":"ārambhakam -- synonyms, prabhupada.io",
+    "description":"begun by himself."
+}
+---
 
 ==== sva-ārambhakam  ====
   * begun by himself --- [[books:sb:3:28:38|SB 3.28.38]]

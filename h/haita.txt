@@ -1,5 +1,11 @@
-~~Title:haita~~
-{{description>were; would have been.}}
+---json
+{
+    "name":"haita",
+    "h1":"haita",
+    "title":"haita -- synonyms, prabhupada.io",
+    "description":"were; would have been."
+}
+---
 
 ==== haita  ====
   * were --- [[books:cc:adi:2:84|Ādi 2.84]]

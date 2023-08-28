@@ -1,5 +1,11 @@
-~~Title:kośasya~~
-{{description>of the universe.}}
+---json
+{
+    "name":"kośasya",
+    "h1":"kośasya",
+    "title":"kośasya -- synonyms, prabhupada.io",
+    "description":"of the universe."
+}
+---
 
 ==== aṇḍa-kośasya  ====
   * of the universe --- [[books:sb:2:8:16|SB 2.8.16]]

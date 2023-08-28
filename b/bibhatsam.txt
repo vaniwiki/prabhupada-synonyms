@@ -1,5 +1,11 @@
-~~Title:bībhatsam~~
-{{description>disastrous.}}
+---json
+{
+    "name":"bībhatsam",
+    "h1":"bībhatsam",
+    "title":"bībhatsam -- synonyms, prabhupada.io",
+    "description":"disastrous."
+}
+---
 
 ==== bībhatsam  ====
   * disastrous --- [[books:sb:1:14:16|SB 1.14.16]]

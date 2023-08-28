@@ -1,5 +1,11 @@
-~~Title:śapharyāḥ~~
-{{description>of the fish.}}
+---json
+{
+    "name":"śapharyāḥ",
+    "h1":"śapharyāḥ",
+    "title":"śapharyāḥ -- synonyms, prabhupada.io",
+    "description":"of the fish."
+}
+---
 
 ==== śapharyāḥ  ====
   * of the fish --- [[books:sb:8:24:15|SB 8.24.15]]

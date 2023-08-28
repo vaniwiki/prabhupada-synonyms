@@ -1,5 +1,11 @@
-~~Title:vrddhah~~
-{{description>elderly; old.}}
+---json
+{
+    "name":"vrddhah",
+    "h1":"vrddhah",
+    "title":"vrddhah -- synonyms, prabhupada.io",
+    "description":"elderly; old."
+}
+---
 
 ==== vṛddhaḥ  ====
   * elderly --- [[books:sb:1:4:1|SB 1.4.1]]

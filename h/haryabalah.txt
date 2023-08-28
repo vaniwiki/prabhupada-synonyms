@@ -1,5 +1,11 @@
-~~Title:haryabalaḥ~~
-{{description>Haryabala.}}
+---json
+{
+    "name":"haryabalaḥ",
+    "h1":"haryabalaḥ",
+    "title":"haryabalaḥ -- synonyms, prabhupada.io",
+    "description":"Haryabala."
+}
+---
 
 ==== haryabalaḥ  ====
   * Haryabala --- [[books:sb:9:17:16|SB 9.17.16]]

@@ -1,5 +1,11 @@
-~~Title:hṛdāhṛdi~~
-{{description>chest to chest.}}
+---json
+{
+    "name":"hṛdāhṛdi",
+    "h1":"hṛdāhṛdi",
+    "title":"hṛdāhṛdi -- synonyms, prabhupada.io",
+    "description":"chest to chest."
+}
+---
 
 ==== hṛdāhṛdi  ====
   * chest to chest --- [[books:cc:antya:18:87|Antya 18.87]]

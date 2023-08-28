@@ -1,5 +1,11 @@
-~~Title:karyāchi~~
-{{description>I have done.}}
+---json
+{
+    "name":"karyāchi",
+    "h1":"karyāchi",
+    "title":"karyāchi -- synonyms, prabhupada.io",
+    "description":"I have done."
+}
+---
 
 ==== karyāchi  ====
   * I have done --- [[books:cc:madhya:16:189|Madhya 16.189]]

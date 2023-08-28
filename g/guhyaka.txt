@@ -1,5 +1,11 @@
-~~Title:guhyaka~~
-{{description>ghostly persons.}}
+---json
+{
+    "name":"guhyaka",
+    "h1":"guhyaka",
+    "title":"guhyaka -- synonyms, prabhupada.io",
+    "description":"ghostly persons."
+}
+---
 
 ==== guhyaka  ====
   * ghostly persons --- [[books:sb:4:10:5|SB 4.10.5]]

@@ -1,5 +1,11 @@
-~~Title:aiṇeya~~
-{{description>with a dress of a deerskin.}}
+---json
+{
+    "name":"aiṇeya",
+    "h1":"aiṇeya",
+    "title":"aiṇeya -- synonyms, prabhupada.io",
+    "description":"with a dress of a deerskin."
+}
+---
 
 ==== aiṇeya-ajina-vāsasa  ====
   * with a dress of a deerskin --- [[books:sb:5:7:13|SB 5.7.13]]

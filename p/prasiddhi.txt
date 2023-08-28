@@ -1,5 +1,11 @@
-~~Title:prasiddhi~~
-{{description>celebrated.}}
+---json
+{
+    "name":"prasiddhi",
+    "h1":"prasiddhi",
+    "title":"prasiddhi -- synonyms, prabhupada.io",
+    "description":"celebrated."
+}
+---
 
 ==== prasiddhi  ====
   * celebrated --- [[books:cc:adi:10:27|Ādi 10.27]]

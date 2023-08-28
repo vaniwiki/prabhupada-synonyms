@@ -1,5 +1,11 @@
-~~Title:vṛttidam~~
-{{description>providing maintenance.}}
+---json
+{
+    "name":"vṛttidam",
+    "h1":"vṛttidam",
+    "title":"vṛttidam -- synonyms, prabhupada.io",
+    "description":"providing maintenance."
+}
+---
 
 ==== vṛttidam  ====
   * providing maintenance --- [[books:sb:4:14:23|SB 4.14.23]]

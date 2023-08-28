@@ -1,5 +1,11 @@
-~~Title:āvasati~~
-{{description>resides; resides in.}}
+---json
+{
+    "name":"āvasati",
+    "h1":"āvasati",
+    "title":"āvasati -- synonyms, prabhupada.io",
+    "description":"resides; resides in."
+}
+---
 
 ==== āvasati  ====
   * resides --- [[books:sb:7:15:75|SB 7.15.75]]

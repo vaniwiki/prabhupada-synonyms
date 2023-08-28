@@ -1,5 +1,11 @@
-~~Title:visruta~~
-{{description>celebrated; was known.}}
+---json
+{
+    "name":"visruta",
+    "h1":"visruta",
+    "title":"visruta -- synonyms, prabhupada.io",
+    "description":"celebrated; was known."
+}
+---
 
 ==== viśrutā  ====
   * celebrated --- [[books:sb:4:27:20|SB 4.27.20]]

@@ -1,5 +1,11 @@
-~~Title:kāndhera~~
-{{description>on the shoulder.}}
+---json
+{
+    "name":"kāndhera",
+    "h1":"kāndhera",
+    "title":"kāndhera -- synonyms, prabhupada.io",
+    "description":"on the shoulder."
+}
+---
 
 ==== kāndhera upara  ====
   * on the shoulder --- [[books:cc:antya:14:44|Antya 14.44]]

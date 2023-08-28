@@ -1,5 +1,11 @@
-~~Title:nemicakraḥ~~
-{{description>Nemicakra.}}
+---json
+{
+    "name":"nemicakraḥ",
+    "h1":"nemicakraḥ",
+    "title":"nemicakraḥ -- synonyms, prabhupada.io",
+    "description":"Nemicakra."
+}
+---
 
 ==== nemicakraḥ  ====
   * Nemicakra --- [[books:sb:9:22:39|SB 9.22.39]]

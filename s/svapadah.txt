@@ -1,5 +1,11 @@
-~~Title:śvāpadāḥ~~
-{{description>the ferocious animals like the lions and tigers.}}
+---json
+{
+    "name":"śvāpadāḥ",
+    "h1":"śvāpadāḥ",
+    "title":"śvāpadāḥ -- synonyms, prabhupada.io",
+    "description":"the ferocious animals like the lions and tigers."
+}
+---
 
 ==== śvāpadāḥ  ====
   * the ferocious animals like the lions and tigers --- [[books:sb:6:6:24-26|SB 6.6.24-26]]

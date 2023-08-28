@@ -1,5 +1,11 @@
-~~Title:goyala~~
-{{description>the cowherd men.}}
+---json
+{
+    "name":"goyala",
+    "h1":"goyala",
+    "title":"goyala -- synonyms, prabhupada.io",
+    "description":"the cowherd men."
+}
+---
 
 ==== goyāla  ====
   * the cowherd men --- [[books:cc:madhya:17:197|Madhya 17.197]]

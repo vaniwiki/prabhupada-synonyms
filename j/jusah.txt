@@ -1,5 +1,11 @@
-~~Title:juṣaḥ~~
-{{description>all directions thus being served.}}
+---json
+{
+    "name":"juṣaḥ",
+    "h1":"juṣaḥ",
+    "title":"juṣaḥ -- synonyms, prabhupada.io",
+    "description":"all directions thus being served."
+}
+---
 
 ==== kakup-juṣaḥ  ====
   * all directions thus being served --- [[books:sb:2:7:25|SB 2.7.25]]

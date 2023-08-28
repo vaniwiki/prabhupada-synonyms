@@ -1,5 +1,11 @@
-~~Title:ajanābham~~
-{{description>Ajanābha.}}
+---json
+{
+    "name":"ajanābham",
+    "h1":"ajanābham",
+    "title":"ajanābham -- synonyms, prabhupada.io",
+    "description":"Ajanābha."
+}
+---
 
 ==== ajanābham  ====
   * Ajanābha --- [[books:sb:5:4:3|SB 5.4.3]], [[books:sb:5:7:3|SB 5.7.3]]

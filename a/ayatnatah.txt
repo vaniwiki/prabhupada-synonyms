@@ -1,5 +1,11 @@
-~~Title:ayatnataḥ~~
-{{description>without endeavor.}}
+---json
+{
+    "name":"ayatnataḥ",
+    "h1":"ayatnataḥ",
+    "title":"ayatnataḥ -- synonyms, prabhupada.io",
+    "description":"without endeavor."
+}
+---
 
 ==== ayatnataḥ  ====
   * without endeavor --- [[books:sb:7:6:3|SB 7.6.3]]

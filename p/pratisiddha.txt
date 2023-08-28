@@ -1,5 +1,11 @@
-~~Title:pratiṣiddha~~
-{{description>by what is forbidden.}}
+---json
+{
+    "name":"pratiṣiddha",
+    "h1":"pratiṣiddha",
+    "title":"pratiṣiddha -- synonyms, prabhupada.io",
+    "description":"by what is forbidden."
+}
+---
 
 ==== pratiṣiddha  ====
   * by what is forbidden --- [[books:sb:5:26:3|SB 5.26.3]]

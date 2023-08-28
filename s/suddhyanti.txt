@@ -1,5 +1,11 @@
-~~Title:śuddhyanti~~
-{{description>become purified; cleanses.}}
+---json
+{
+    "name":"śuddhyanti",
+    "h1":"śuddhyanti",
+    "title":"śuddhyanti -- synonyms, prabhupada.io",
+    "description":"become purified; cleanses."
+}
+---
 
 ==== śuddhyanti  ====
   * become purified --- [[books:cc:antya:7:10|Antya 7.10]]

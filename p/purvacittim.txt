@@ -1,5 +1,11 @@
-~~Title:pūrvacittim~~
-{{description>Pūrvacitti.}}
+---json
+{
+    "name":"pūrvacittim",
+    "h1":"pūrvacittim",
+    "title":"pūrvacittim -- synonyms, prabhupada.io",
+    "description":"Pūrvacitti."
+}
+---
 
 ==== pūrvacittim  ====
   * Pūrvacitti --- [[books:sb:5:2:3|SB 5.2.3]]

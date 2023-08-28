@@ -1,5 +1,11 @@
-~~Title:daraveśa~~
-{{description>O Muslim mendicant.}}
+---json
+{
+    "name":"daraveśa",
+    "h1":"daraveśa",
+    "title":"daraveśa -- synonyms, prabhupada.io",
+    "description":"O Muslim mendicant."
+}
+---
 
 ==== daraveśa  ====
   * O Muslim mendicant --- [[books:cc:madhya:20:50|Madhya 20.50]]

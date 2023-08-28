@@ -1,5 +1,11 @@
-~~Title:achila~~
-{{description>came; it was; there was; was; were.}}
+---json
+{
+    "name":"achila",
+    "h1":"achila",
+    "title":"achila -- synonyms, prabhupada.io",
+    "description":"came; it was; there was; was; were."
+}
+---
 
 ==== āchila  ====
   * came --- [[books:cc:madhya:9:247|Madhya 9.247]]

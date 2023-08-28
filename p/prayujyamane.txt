@@ -1,5 +1,11 @@
-~~Title:prayujyamāne~~
-{{description>having been awarded.}}
+---json
+{
+    "name":"prayujyamāne",
+    "h1":"prayujyamāne",
+    "title":"prayujyamāne -- synonyms, prabhupada.io",
+    "description":"having been awarded."
+}
+---
 
 ==== prayujyamāne  ====
   * having been awarded --- [[books:sb:1:6:28|SB 1.6.28]]

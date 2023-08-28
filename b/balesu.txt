@@ -1,5 +1,11 @@
-~~Title:bāleṣu~~
-{{description>all the cowherd boys; among the less intelligent persons; children.}}
+---json
+{
+    "name":"bāleṣu",
+    "h1":"bāleṣu",
+    "title":"bāleṣu -- synonyms, prabhupada.io",
+    "description":"all the cowherd boys; among the less intelligent persons; children."
+}
+---
 
 ==== bāleṣu  ====
   * all the cowherd boys --- [[books:sb:10:11:51|SB 10.11.51]]

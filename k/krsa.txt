@@ -1,5 +1,11 @@
-~~Title:krsa~~
-{{description>thinner; very lean and thin.}}
+---json
+{
+    "name":"krsa",
+    "h1":"krsa",
+    "title":"krsa -- synonyms, prabhupada.io",
+    "description":"thinner; very lean and thin."
+}
+---
 
 ==== kṛśa  ====
   * thinner --- [[books:cc:adi:12:69|Ādi 12.69]]

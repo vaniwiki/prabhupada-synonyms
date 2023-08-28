@@ -1,5 +1,11 @@
-~~Title:urvi~~
-{{description>on the earth.}}
+---json
+{
+    "name":"urvi",
+    "h1":"urvi",
+    "title":"urvi -- synonyms, prabhupada.io",
+    "description":"on the earth."
+}
+---
 
 ==== urvi  ====
   * on the earth --- [[books:sb:1:16:21|SB 1.16.21]]

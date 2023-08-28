@@ -1,5 +1,11 @@
-~~Title:nidadhyuḥ~~
-{{description>meditated.}}
+---json
+{
+    "name":"nidadhyuḥ",
+    "h1":"nidadhyuḥ",
+    "title":"nidadhyuḥ -- synonyms, prabhupada.io",
+    "description":"meditated."
+}
+---
 
 ==== nidadhyuḥ  ====
   * meditated --- [[books:sb:3:15:44|SB 3.15.44]]

@@ -1,5 +1,11 @@
-~~Title:sadhya~~
-{{description>achievement; by the residents of Sādhyaloka; duty; objective; objective of life; of the goal of spiritual life; of the ultimate goal; subject matter; the goal; the goal of life; the ultimate goal of life; to be established; to be gained.}}
+---json
+{
+    "name":"sadhya",
+    "h1":"sadhya",
+    "title":"sadhya -- synonyms, prabhupada.io",
+    "description":"achievement; by the residents of Sādhyaloka; duty; objective; objective of life; of the goal of spiritual life; of the ultimate goal; subject matter; the goal; the goal of life; the ultimate goal of life; to be established; to be gained."
+}
+---
 
 ==== sādhya  ====
   * achievement --- [[books:cc:madhya:8:204-205|Madhya 8.204-205]]

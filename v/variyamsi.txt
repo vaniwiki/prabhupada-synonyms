@@ -1,5 +1,11 @@
-~~Title:varīyāṁsi~~
-{{description>very excellent.}}
+---json
+{
+    "name":"varīyāṁsi",
+    "h1":"varīyāṁsi",
+    "title":"varīyāṁsi -- synonyms, prabhupada.io",
+    "description":"very excellent."
+}
+---
 
 ==== varīyāṁsi  ====
   * very excellent --- [[books:sb:3:23:29|SB 3.23.29]]

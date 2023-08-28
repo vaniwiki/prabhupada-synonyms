@@ -1,5 +1,11 @@
-~~Title:samadanti~~
-{{description>will eat.}}
+---json
+{
+    "name":"samadanti",
+    "h1":"samadanti",
+    "title":"samadanti -- synonyms, prabhupada.io",
+    "description":"will eat."
+}
+---
 
 ==== samadanti  ====
   * will eat --- [[books:sb:6:11:16|SB 6.11.16]]

@@ -1,5 +1,11 @@
-~~Title:svīya~~
-{{description>my own.}}
+---json
+{
+    "name":"svīya",
+    "h1":"svīya",
+    "title":"svīya -- synonyms, prabhupada.io",
+    "description":"my own."
+}
+---
 
 ==== svīya  ====
   * my own --- [[books:sb:7:6:16|SB 7.6.16]]

@@ -1,5 +1,11 @@
-~~Title:kutarka~~
-{{description>useless arguments.}}
+---json
+{
+    "name":"kutarka",
+    "h1":"kutarka",
+    "title":"kutarka -- synonyms, prabhupada.io",
+    "description":"useless arguments."
+}
+---
 
 ==== kutarka  ====
   * useless arguments --- [[books:sb:6:9:36|SB 6.9.36]], [[books:cc:adi:8:13|Ādi 8.13]]

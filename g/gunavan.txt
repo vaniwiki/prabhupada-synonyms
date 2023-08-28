@@ -1,5 +1,11 @@
-~~Title:guṇavān~~
-{{description>affected by the modes.}}
+---json
+{
+    "name":"guṇavān",
+    "h1":"guṇavān",
+    "title":"guṇavān -- synonyms, prabhupada.io",
+    "description":"affected by the modes."
+}
+---
 
 ==== guṇavān  ====
   * affected by the modes --- [[books:sb:1:2:31|SB 1.2.31]]

@@ -1,5 +1,11 @@
-~~Title:nistha~~
-{{description>attachment.}}
+---json
+{
+    "name":"nistha",
+    "h1":"nistha",
+    "title":"nistha -- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== niṣṭha  ====
   * attachment --- [[books:sb:7:14:13|SB 7.14.13]]

@@ -1,5 +1,11 @@
-~~Title:ruravaḥ~~
-{{description>rurus (a kind of envious animal); the ruru animals.}}
+---json
+{
+    "name":"ruravaḥ",
+    "h1":"ruravaḥ",
+    "title":"ruravaḥ -- synonyms, prabhupada.io",
+    "description":"rurus (a kind of envious animal); the ruru animals."
+}
+---
 
 ==== ruravaḥ  ====
   * //rurus// (a kind of envious animal) --- [[books:sb:5:26:11|SB 5.26.11]]

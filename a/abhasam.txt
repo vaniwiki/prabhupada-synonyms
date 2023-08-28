@@ -1,5 +1,11 @@
-~~Title:ābhāsam~~
-{{description>knowledge; original source; reflection (of the original body and senses).}}
+---json
+{
+    "name":"ābhāsam",
+    "h1":"ābhāsam",
+    "title":"ābhāsam -- synonyms, prabhupada.io",
+    "description":"knowledge; original source; reflection (of the original body and senses)."
+}
+---
 
 ==== ābhāsam  ====
   * knowledge --- [[books:sb:8:5:27|SB 8.5.27]]

@@ -1,5 +1,11 @@
-~~Title:tathāya~~
-{{description>there.}}
+---json
+{
+    "name":"tathāya",
+    "h1":"tathāya",
+    "title":"tathāya -- synonyms, prabhupada.io",
+    "description":"there."
+}
+---
 
 ==== tathāya  ====
   * there --- [[books:cc:madhya:4:168|Madhya 4.168]], [[books:cc:madhya:5:106|Madhya 5.106]], [[books:cc:madhya:17:58|Madhya 17.58]]

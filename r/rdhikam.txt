@@ -1,5 +1,11 @@
-~~Title:ṛdhikām~~
-{{description>any increase.}}
+---json
+{
+    "name":"ṛdhikām",
+    "h1":"ṛdhikām",
+    "title":"ṛdhikām -- synonyms, prabhupada.io",
+    "description":"any increase."
+}
+---
 
 ==== ṛdhikām  ====
   * any increase --- [[books:sb:10:13:25|SB 10.13.25]]

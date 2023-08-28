@@ -1,5 +1,11 @@
-~~Title:sampannān~~
-{{description>very well behaved.}}
+---json
+{
+    "name":"sampannān",
+    "h1":"sampannān",
+    "title":"sampannān -- synonyms, prabhupada.io",
+    "description":"very well behaved."
+}
+---
 
 ==== śīla-sampannān  ====
   * very well behaved --- [[books:sb:4:24:26|SB 4.24.26]]

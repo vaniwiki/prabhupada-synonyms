@@ -1,5 +1,11 @@
-~~Title:kuśottaram~~
-{{description>kuśa grass.}}
+---json
+{
+    "name":"kuśottaram",
+    "h1":"kuśottaram",
+    "title":"kuśottaram -- synonyms, prabhupada.io",
+    "description":"kuśa grass."
+}
+---
 
 ==== kuśottaram  ====
   * kuśa grass --- [[books:bg:6:11-12|Bg. 6.11-12]]

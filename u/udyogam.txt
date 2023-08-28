@@ -1,5 +1,11 @@
-~~Title:udyogam~~
-{{description>the great exertion and strength.}}
+---json
+{
+    "name":"udyogam",
+    "h1":"udyogam",
+    "title":"udyogam -- synonyms, prabhupada.io",
+    "description":"the great exertion and strength."
+}
+---
 
 ==== atibala-udyogam  ====
   * the great exertion and strength --- [[books:sb:7:7:4-5|SB 7.7.4-5]]

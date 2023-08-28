@@ -1,5 +1,11 @@
-~~Title:utthita~~
-{{description>arisen; awakened; enlivened; raised.}}
+---json
+{
+    "name":"utthita",
+    "h1":"utthita",
+    "title":"utthita -- synonyms, prabhupada.io",
+    "description":"arisen; awakened; enlivened; raised."
+}
+---
 
 ==== utthita  ====
   * arisen --- [[books:sb:3:31:7|SB 3.31.7]]

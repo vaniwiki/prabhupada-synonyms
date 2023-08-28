@@ -1,5 +1,11 @@
-~~Title:pavitrī~~
-{{description>sanctifies.}}
+---json
+{
+    "name":"pavitrī",
+    "h1":"pavitrī",
+    "title":"pavitrī -- synonyms, prabhupada.io",
+    "description":"sanctifies."
+}
+---
 
 ==== pavitrī-karoti  ====
   * sanctifies --- [[books:sb:5:7:10|SB 5.7.10]]

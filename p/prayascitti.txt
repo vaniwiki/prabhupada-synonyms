@@ -1,5 +1,11 @@
-~~Title:prāyaścitti~~
-{{description>atonement.}}
+---json
+{
+    "name":"prāyaścitti",
+    "h1":"prāyaścitti",
+    "title":"prāyaścitti -- synonyms, prabhupada.io",
+    "description":"atonement."
+}
+---
 
 ==== prāyaścitti  ====
   * atonement --- [[books:cc:madhya:25:200|Madhya 25.200]]

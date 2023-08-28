@@ -1,5 +1,11 @@
-~~Title:manyo~~
-{{description>O Lord Śiva (in an angry mood).}}
+---json
+{
+    "name":"manyo",
+    "h1":"manyo",
+    "title":"manyo -- synonyms, prabhupada.io",
+    "description":"O Lord Śiva (in an angry mood)."
+}
+---
 
 ==== manyo  ====
   * O Lord Śiva (in an angry mood) --- [[books:sb:4:6:52|SB 4.6.52]]

@@ -1,5 +1,11 @@
-~~Title:aśubhāya~~
-{{description>although I am a lowborn caṇḍāla.}}
+---json
+{
+    "name":"aśubhāya",
+    "h1":"aśubhāya",
+    "title":"aśubhāya -- synonyms, prabhupada.io",
+    "description":"although I am a lowborn caṇḍāla."
+}
+---
 
 ==== aśubhāya  ====
   * although I am a lowborn //caṇḍāla// --- [[books:sb:9:21:10|SB 9.21.10]]

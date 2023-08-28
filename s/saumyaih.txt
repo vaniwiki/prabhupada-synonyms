@@ -1,5 +1,11 @@
-~~Title:saumyaiḥ~~
-{{description>very gentle.}}
+---json
+{
+    "name":"saumyaiḥ",
+    "h1":"saumyaiḥ",
+    "title":"saumyaiḥ -- synonyms, prabhupada.io",
+    "description":"very gentle."
+}
+---
 
 ==== saumyaiḥ  ====
   * very gentle --- [[books:sb:4:22:55|SB 4.22.55]]

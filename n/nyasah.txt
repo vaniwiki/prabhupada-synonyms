@@ -1,5 +1,11 @@
-~~Title:nyāsaḥ~~
-{{description>giving up.}}
+---json
+{
+    "name":"nyāsaḥ",
+    "h1":"nyāsaḥ",
+    "title":"nyāsaḥ -- synonyms, prabhupada.io",
+    "description":"giving up."
+}
+---
 
 ==== nyāsaḥ  ====
   * giving up --- [[books:sb:7:15:8|SB 7.15.8]]

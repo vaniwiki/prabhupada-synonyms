@@ -1,5 +1,11 @@
-~~Title:maṇḍādi~~
-{{description>varieties of sweetmeats made from maṇḍa, or milk and cream.}}
+---json
+{
+    "name":"maṇḍādi",
+    "h1":"maṇḍādi",
+    "title":"maṇḍādi -- synonyms, prabhupada.io",
+    "description":"varieties of sweetmeats made from maṇḍa, or milk and cream."
+}
+---
 
 ==== maṇḍādi-vikāra  ====
   * varieties of sweetmeats made from //maṇḍa,// or milk and cream --- [[books:cc:antya:10:26|Antya 10.26]]

@@ -1,5 +1,11 @@
-~~Title:jalāt~~
-{{description>the Garbhodaka Ocean.}}
+---json
+{
+    "name":"jalāt",
+    "h1":"jalāt",
+    "title":"jalāt -- synonyms, prabhupada.io",
+    "description":"the Garbhodaka Ocean."
+}
+---
 
 ==== jalāt  ====
   * the Garbhodaka Ocean --- [[books:sb:5:26:5|SB 5.26.5]]

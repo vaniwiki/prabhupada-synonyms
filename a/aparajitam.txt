@@ -1,5 +1,11 @@
-~~Title:aparājitam~~
-{{description>not to be conquered by anyone.}}
+---json
+{
+    "name":"aparājitam",
+    "h1":"aparājitam",
+    "title":"aparājitam -- synonyms, prabhupada.io",
+    "description":"not to be conquered by anyone."
+}
+---
 
 ==== aparājitam  ====
   * not to be conquered by anyone --- [[books:sb:5:3:2|SB 5.3.2]]

@@ -1,5 +1,11 @@
-~~Title:pracchanna~~
-{{description>covered.}}
+---json
+{
+    "name":"pracchanna",
+    "h1":"pracchanna",
+    "title":"pracchanna -- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== pracchanna  ====
   * covered --- [[books:cc:madhya:8:172|Madhya 8.172]]

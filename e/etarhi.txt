@@ -1,5 +1,11 @@
-~~Title:etarhi~~
-{{description>at the present; at this moment; therefore; thus certainly.}}
+---json
+{
+    "name":"etarhi",
+    "h1":"etarhi",
+    "title":"etarhi -- synonyms, prabhupada.io",
+    "description":"at the present; at this moment; therefore; thus certainly."
+}
+---
 
 ==== etarhi  ====
   * at the present --- [[books:sb:1:17:43-44|SB 1.17.43-44]]

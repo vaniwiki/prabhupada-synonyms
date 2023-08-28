@@ -1,5 +1,11 @@
-~~Title:bhiyāna~~
-{{description>arrangements.}}
+---json
+{
+    "name":"bhiyāna",
+    "h1":"bhiyāna",
+    "title":"bhiyāna -- synonyms, prabhupada.io",
+    "description":"arrangements."
+}
+---
 
 ==== bhiyāna  ====
   * arrangements --- [[books:cc:antya:9:82|Antya 9.82]]

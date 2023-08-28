@@ -1,5 +1,11 @@
-~~Title:aṅgāram~~
-{{description>the wretched of the dynasty.}}
+---json
+{
+    "name":"aṅgāram",
+    "h1":"aṅgāram",
+    "title":"aṅgāram -- synonyms, prabhupada.io",
+    "description":"the wretched of the dynasty."
+}
+---
 
 ==== kula-aṅgāram  ====
   * the wretched of the dynasty --- [[books:sb:1:18:37|SB 1.18.37]]

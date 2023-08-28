@@ -1,5 +1,11 @@
-~~Title:nāgnajitīm~~
-{{description>Princess Nāgnijitī.}}
+---json
+{
+    "name":"nāgnajitīm",
+    "h1":"nāgnajitīm",
+    "title":"nāgnajitīm -- synonyms, prabhupada.io",
+    "description":"Princess Nāgnijitī."
+}
+---
 
 ==== nāgnajitīm  ====
   * Princess Nāgnijitī --- [[books:sb:3:3:4|SB 3.3.4]]

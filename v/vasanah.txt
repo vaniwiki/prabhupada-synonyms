@@ -1,5 +1,11 @@
-~~Title:vasanah~~
-{{description>desire for fruitive work.}}
+---json
+{
+    "name":"vasanah",
+    "h1":"vasanah",
+    "title":"vasanah -- synonyms, prabhupada.io",
+    "description":"desire for fruitive work."
+}
+---
 
 ==== karma-vāsanāḥ  ====
   * desire for fruitive work --- [[books:sb:2:10:4|SB 2.10.4]]

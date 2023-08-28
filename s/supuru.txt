@@ -1,5 +1,11 @@
-~~Title:supuru~~
-{{description>having varieties of transcendental names.}}
+---json
+{
+    "name":"supuru",
+    "h1":"supuru",
+    "title":"supuru -- synonyms, prabhupada.io",
+    "description":"having varieties of transcendental names."
+}
+---
 
 ==== supuru-hūtaye  ====
   * having varieties of transcendental names --- [[books:sb:6:9:31|SB 6.9.31]]

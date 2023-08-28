@@ -1,5 +1,11 @@
-~~Title:lālya~~
-{{description>maintained; of the maintained child.}}
+---json
+{
+    "name":"lālya",
+    "h1":"lālya",
+    "title":"lālya -- synonyms, prabhupada.io",
+    "description":"maintained; of the maintained child."
+}
+---
 
 ==== lālya  ====
   * maintained --- [[books:cc:antya:4:184|Antya 4.184]]

@@ -1,5 +1,11 @@
-~~Title:varjena~~
-{{description>prohibits.}}
+---json
+{
+    "name":"varjena",
+    "h1":"varjena",
+    "title":"varjena -- synonyms, prabhupada.io",
+    "description":"prohibits."
+}
+---
 
 ==== varjena  ====
   * prohibits --- [[books:cc:madhya:14:171|Madhya 14.171]]

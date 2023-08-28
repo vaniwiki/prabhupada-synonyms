@@ -1,5 +1,11 @@
-~~Title:bhedi~~
-{{description>piercing the coverings of the universe.}}
+---json
+{
+    "name":"bhedi",
+    "h1":"bhedi",
+    "title":"bhedi -- synonyms, prabhupada.io",
+    "description":"piercing the coverings of the universe."
+}
+---
 
 ==== aṇḍa bhedi'  ====
   * piercing the coverings of the universe --- [[books:cc:madhya:21:141|Madhya 21.141]]

@@ -1,5 +1,11 @@
-~~Title:kalpakaiḥ~~
-{{description>supplied with proper ingredients and performed by able priests.}}
+---json
+{
+    "name":"kalpakaiḥ",
+    "h1":"kalpakaiḥ",
+    "title":"kalpakaiḥ -- synonyms, prabhupada.io",
+    "description":"supplied with proper ingredients and performed by able priests."
+}
+---
 
 ==== kalpakaiḥ  ====
   * supplied with proper ingredients and performed by able priests --- [[books:sb:1:8:6|SB 1.8.6]]

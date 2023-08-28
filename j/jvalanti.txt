@@ -1,5 +1,11 @@
-~~Title:jvalantī~~
-{{description>burning.}}
+---json
+{
+    "name":"jvalantī",
+    "h1":"jvalantī",
+    "title":"jvalantī -- synonyms, prabhupada.io",
+    "description":"burning."
+}
+---
 
 ==== jvalantī  ====
   * burning --- [[books:sb:6:18:23|SB 6.18.23]]

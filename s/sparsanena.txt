@@ -1,5 +1,11 @@
-~~Title:sparśanena~~
-{{description>by touching.}}
+---json
+{
+    "name":"sparśanena",
+    "h1":"sparśanena",
+    "title":"sparśanena -- synonyms, prabhupada.io",
+    "description":"by touching."
+}
+---
 
 ==== sparśanena  ====
   * by touching --- [[books:sb:7:10:22|SB 7.10.22]]

@@ -1,5 +1,11 @@
-~~Title:helāya~~
-{{description>very easily.}}
+---json
+{
+    "name":"helāya",
+    "h1":"helāya",
+    "title":"helāya -- synonyms, prabhupada.io",
+    "description":"very easily."
+}
+---
 
 ==== helāya  ====
   * very easily --- [[books:cc:madhya:25:154|Madhya 25.154]]

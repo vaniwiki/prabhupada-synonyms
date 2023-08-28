@@ -1,5 +1,11 @@
-~~Title:yātayate~~
-{{description>gives pain.}}
+---json
+{
+    "name":"yātayate",
+    "h1":"yātayate",
+    "title":"yātayate -- synonyms, prabhupada.io",
+    "description":"gives pain."
+}
+---
 
 ==== yātayate  ====
   * gives pain --- [[books:sb:5:26:18|SB 5.26.18]]

@@ -1,5 +1,11 @@
-~~Title:gharghara~~
-{{description>gargling sound.}}
+---json
+{
+    "name":"gharghara",
+    "h1":"gharghara",
+    "title":"gharghara -- synonyms, prabhupada.io",
+    "description":"gargling sound."
+}
+---
 
 ==== gharghara  ====
   * gargling sound --- [[books:cc:antya:14:93|Antya 14.93]]

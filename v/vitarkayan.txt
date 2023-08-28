@@ -1,5 +1,11 @@
-~~Title:vitarkayan~~
-{{description>having considered.}}
+---json
+{
+    "name":"vitarkayan",
+    "h1":"vitarkayan",
+    "title":"vitarkayan -- synonyms, prabhupada.io",
+    "description":"having considered."
+}
+---
 
 ==== vitarkayan  ====
   * having considered --- [[books:sb:1:4:27|SB 1.4.27]]

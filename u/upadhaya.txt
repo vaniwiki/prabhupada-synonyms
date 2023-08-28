@@ -1,5 +1,11 @@
-~~Title:upadhāya~~
-{{description>placing.}}
+---json
+{
+    "name":"upadhāya",
+    "h1":"upadhāya",
+    "title":"upadhāya -- synonyms, prabhupada.io",
+    "description":"placing."
+}
+---
 
 ==== upadhāya  ====
   * placing --- [[books:cc:antya:15:51|Antya 15.51]]

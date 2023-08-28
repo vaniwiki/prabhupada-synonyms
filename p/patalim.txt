@@ -1,5 +1,11 @@
-~~Title:paṭalīm~~
-{{description>the mass.}}
+---json
+{
+    "name":"paṭalīm",
+    "h1":"paṭalīm",
+    "title":"paṭalīm -- synonyms, prabhupada.io",
+    "description":"the mass."
+}
+---
 
 ==== paṭalīm  ====
   * the mass --- [[books:cc:adi:3:63|Ādi 3.63]]

@@ -1,5 +1,11 @@
-~~Title:asayat~~
-{{description>gave to drink.}}
+---json
+{
+    "name":"asayat",
+    "h1":"asayat",
+    "title":"asayat -- synonyms, prabhupada.io",
+    "description":"gave to drink."
+}
+---
 
 ==== āśayat  ====
   * gave to drink --- [[books:sb:8:12:47|SB 8.12.47]]

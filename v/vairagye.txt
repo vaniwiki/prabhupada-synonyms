@@ -1,5 +1,11 @@
-~~Title:vairāgye~~
-{{description>by the renunciation.}}
+---json
+{
+    "name":"vairāgye",
+    "h1":"vairāgye",
+    "title":"vairāgye -- synonyms, prabhupada.io",
+    "description":"by the renunciation."
+}
+---
 
 ==== vairāgye  ====
   * by the renunciation --- [[books:cc:madhya:20:82|Madhya 20.82]]

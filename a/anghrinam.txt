@@ -1,5 +1,11 @@
-~~Title:aṅghrīṇām~~
-{{description>whose hooves were covered with silver plate.}}
+---json
+{
+    "name":"aṅghrīṇām",
+    "h1":"aṅghrīṇām",
+    "title":"aṅghrīṇām -- synonyms, prabhupada.io",
+    "description":"whose hooves were covered with silver plate."
+}
+---
 
 ==== rūpya-aṅghrīṇām  ====
   * whose hooves were covered with silver plate --- [[books:sb:9:4:33-35|SB 9.4.33-35]]

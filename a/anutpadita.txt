@@ -1,5 +1,11 @@
-~~Title:anutpādita~~
-{{description>not finding fault.}}
+---json
+{
+    "name":"anutpādita",
+    "h1":"anutpādita",
+    "title":"anutpādita -- synonyms, prabhupada.io",
+    "description":"not finding fault."
+}
+---
 
 ==== anutpādita-doṣa-dṛṣṭayaḥ  ====
   * not finding fault --- [[books:sb:4:3:16|SB 4.3.16]]

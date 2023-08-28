@@ -1,5 +1,11 @@
-~~Title:āpatuḥ~~
-{{description>obtained.}}
+---json
+{
+    "name":"āpatuḥ",
+    "h1":"āpatuḥ",
+    "title":"āpatuḥ -- synonyms, prabhupada.io",
+    "description":"obtained."
+}
+---
 
 ==== āpatuḥ  ====
   * obtained --- [[books:sb:10:8:25|SB 10.8.25]]

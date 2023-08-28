@@ -1,5 +1,11 @@
-~~Title:prekṣām~~
-{{description>the panorama.}}
+---json
+{
+    "name":"prekṣām",
+    "h1":"prekṣām",
+    "title":"prekṣām -- synonyms, prabhupada.io",
+    "description":"the panorama."
+}
+---
 
 ==== prekṣām  ====
   * the panorama --- [[books:sb:3:8:24|SB 3.8.24]]

@@ -1,5 +1,11 @@
-~~Title:āmnātaiḥ~~
-{{description>handed down.}}
+---json
+{
+    "name":"āmnātaiḥ",
+    "h1":"āmnātaiḥ",
+    "title":"āmnātaiḥ -- synonyms, prabhupada.io",
+    "description":"handed down."
+}
+---
 
 ==== āmnātaiḥ  ====
   * handed down --- [[books:sb:5:22:4|SB 5.22.4]]

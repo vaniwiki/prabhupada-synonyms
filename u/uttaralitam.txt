@@ -1,5 +1,11 @@
-~~Title:uttaralitam~~
-{{description>greatly excited.}}
+---json
+{
+    "name":"uttaralitam",
+    "h1":"uttaralitam",
+    "title":"uttaralitam -- synonyms, prabhupada.io",
+    "description":"greatly excited."
+}
+---
 
 ==== uttaralitam  ====
   * greatly excited --- [[books:cc:madhya:20:180|Madhya 20.180]]

@@ -1,5 +1,11 @@
-~~Title:kṣīṇe~~
-{{description>being exhausted; thin, exhausted.}}
+---json
+{
+    "name":"kṣīṇe",
+    "h1":"kṣīṇe",
+    "title":"kṣīṇe -- synonyms, prabhupada.io",
+    "description":"being exhausted; thin, exhausted."
+}
+---
 
 ==== kṣīṇe  ====
   * being exhausted --- [[books:bg:9:21|Bg. 9.21]]

@@ -1,5 +1,11 @@
-~~Title:nārena~~
-{{description>was not able.}}
+---json
+{
+    "name":"nārena",
+    "h1":"nārena",
+    "title":"nārena -- synonyms, prabhupada.io",
+    "description":"was not able."
+}
+---
 
 ==== nārena  ====
   * was not able --- [[books:cc:antya:19:74|Antya 19.74]]

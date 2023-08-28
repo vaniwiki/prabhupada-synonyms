@@ -1,5 +1,11 @@
-~~Title:praskannam~~
-{{description>scattered here and there.}}
+---json
+{
+    "name":"praskannam",
+    "h1":"praskannam",
+    "title":"praskannam -- synonyms, prabhupada.io",
+    "description":"scattered here and there."
+}
+---
 
 ==== praskannam  ====
   * scattered here and there --- [[books:sb:8:7:46|SB 8.7.46]]

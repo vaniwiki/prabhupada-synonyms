@@ -1,5 +1,11 @@
-~~Title:asambhava~~
-{{description>impossible; there is no possibility; unlikely.}}
+---json
+{
+    "name":"asambhava",
+    "h1":"asambhava",
+    "title":"asambhava -- synonyms, prabhupada.io",
+    "description":"impossible; there is no possibility; unlikely."
+}
+---
 
 ==== asambhava  ====
   * impossible --- [[books:cc:adi:2:114|Ādi 2.114]]

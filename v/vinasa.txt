@@ -1,5 +1,11 @@
-~~Title:vināśa~~
-{{description>all vanquished.}}
+---json
+{
+    "name":"vināśa",
+    "h1":"vināśa",
+    "title":"vināśa -- synonyms, prabhupada.io",
+    "description":"all vanquished."
+}
+---
 
 ==== vināśa  ====
   * all vanquished --- [[books:cc:adi:17:63|Ādi 17.63]]

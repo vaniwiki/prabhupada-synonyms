@@ -1,5 +1,11 @@
-~~Title:patet~~
-{{description>falls down.}}
+---json
+{
+    "name":"patet",
+    "h1":"patet",
+    "title":"patet -- synonyms, prabhupada.io",
+    "description":"falls down."
+}
+---
 
 ==== patet  ====
   * falls down --- [[books:sb:1:5:17|SB 1.5.17]]

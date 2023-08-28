@@ -1,5 +1,11 @@
-~~Title:jīa~~
-{{description>lives.}}
+---json
+{
+    "name":"jīa",
+    "h1":"jīa",
+    "title":"jīa -- synonyms, prabhupada.io",
+    "description":"lives."
+}
+---
 
 ==== jīa-i  ====
   * lives --- [[books:cc:madhya:2:42|Madhya 2.42]]

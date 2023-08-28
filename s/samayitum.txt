@@ -1,5 +1,11 @@
-~~Title:śamayitum~~
-{{description>to curb.}}
+---json
+{
+    "name":"śamayitum",
+    "h1":"śamayitum",
+    "title":"śamayitum -- synonyms, prabhupada.io",
+    "description":"to curb."
+}
+---
 
 ==== śamayitum  ====
   * to curb --- [[books:sb:6:9:41|SB 6.9.41]]

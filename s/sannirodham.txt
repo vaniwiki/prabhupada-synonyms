@@ -1,5 +1,11 @@
-~~Title:sannirodham~~
-{{description>completely suspended.}}
+---json
+{
+    "name":"sannirodham",
+    "h1":"sannirodham",
+    "title":"sannirodham -- synonyms, prabhupada.io",
+    "description":"completely suspended."
+}
+---
 
 ==== sannirodham  ====
   * completely suspended --- [[books:sb:2:2:30|SB 2.2.30]]

@@ -1,5 +1,11 @@
-~~Title:duḥśalā~~
-{{description>Duḥśalā.}}
+---json
+{
+    "name":"duḥśalā",
+    "h1":"duḥśalā",
+    "title":"duḥśalā -- synonyms, prabhupada.io",
+    "description":"Duḥśalā."
+}
+---
 
 ==== duḥśalā  ====
   * Duḥśalā --- [[books:sb:9:22:26|SB 9.22.26]]

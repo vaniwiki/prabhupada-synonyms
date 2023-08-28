@@ -1,5 +1,11 @@
-~~Title:ātmāra~~
-{{description>of the soul.}}
+---json
+{
+    "name":"ātmāra",
+    "h1":"ātmāra",
+    "title":"ātmāra -- synonyms, prabhupada.io",
+    "description":"of the soul."
+}
+---
 
 ==== ātmāra  ====
   * of the soul --- [[books:cc:madhya:20:161|Madhya 20.161]]

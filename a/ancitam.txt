@@ -1,5 +1,11 @@
-~~Title:añcitam~~
-{{description>expression.}}
+---json
+{
+    "name":"añcitam",
+    "h1":"añcitam",
+    "title":"añcitam -- synonyms, prabhupada.io",
+    "description":"expression."
+}
+---
 
 ==== añcitam  ====
   * expression --- [[books:cc:madhya:14:181|Madhya 14.181]]

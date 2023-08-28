@@ -1,5 +1,11 @@
-~~Title:daṇḍya~~
-{{description>a criminal.}}
+---json
+{
+    "name":"daṇḍya",
+    "h1":"daṇḍya",
+    "title":"daṇḍya -- synonyms, prabhupada.io",
+    "description":"a criminal."
+}
+---
 
 ==== daṇḍya-jane  ====
   * a criminal --- [[books:cc:madhya:20:118|Madhya 20.118]]

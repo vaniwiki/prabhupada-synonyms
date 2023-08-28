@@ -1,5 +1,11 @@
-~~Title:suvistṛtā~~
-{{description>very much expanded.}}
+---json
+{
+    "name":"suvistṛtā",
+    "h1":"suvistṛtā",
+    "title":"suvistṛtā -- synonyms, prabhupada.io",
+    "description":"very much expanded."
+}
+---
 
 ==== ati-suvistṛtā  ====
   * very much expanded --- [[books:cc:adi:15:4|Ādi 15.4]]

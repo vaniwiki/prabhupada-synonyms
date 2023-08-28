@@ -1,5 +1,11 @@
-~~Title:aśvattha~~
-{{description>the banyan trees.}}
+---json
+{
+    "name":"aśvattha",
+    "h1":"aśvattha",
+    "title":"aśvattha -- synonyms, prabhupada.io",
+    "description":"the banyan trees."
+}
+---
 
 ==== aśvattha  ====
   * the banyan trees --- [[books:cc:madhya:22:117|Madhya 22.117]]

@@ -1,5 +1,11 @@
-~~Title:vibhāgena~~
-{{description>separately.}}
+---json
+{
+    "name":"vibhāgena",
+    "h1":"vibhāgena",
+    "title":"vibhāgena -- synonyms, prabhupada.io",
+    "description":"separately."
+}
+---
 
 ==== vibhāgena  ====
   * separately --- [[books:cc:madhya:9:156|Madhya 9.156]]

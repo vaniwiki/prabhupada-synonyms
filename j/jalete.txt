@@ -1,5 +1,11 @@
-~~Title:jalete~~
-{{description>on the water.}}
+---json
+{
+    "name":"jalete",
+    "h1":"jalete",
+    "title":"jalete -- synonyms, prabhupada.io",
+    "description":"on the water."
+}
+---
 
 ==== jalete  ====
   * on the water --- [[books:cc:madhya:14:90|Madhya 14.90]]

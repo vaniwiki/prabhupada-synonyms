@@ -1,5 +1,11 @@
-~~Title:bhallātaka~~
-{{description>bhallātaka and other trees.}}
+---json
+{
+    "name":"bhallātaka",
+    "h1":"bhallātaka",
+    "title":"bhallātaka -- synonyms, prabhupada.io",
+    "description":"bhallātaka and other trees."
+}
+---
 
 ==== bhallātaka-ādibhiḥ  ====
   * //bhallātaka// and other trees --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

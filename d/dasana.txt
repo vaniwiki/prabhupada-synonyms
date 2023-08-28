@@ -1,5 +1,11 @@
-~~Title:daśana~~
-{{description>whose lips.}}
+---json
+{
+    "name":"daśana",
+    "h1":"daśana",
+    "title":"daśana -- synonyms, prabhupada.io",
+    "description":"whose lips."
+}
+---
 
 ==== daśana-chadaḥ  ====
   * whose lips --- [[books:sb:7:2:2|SB 7.2.2]]

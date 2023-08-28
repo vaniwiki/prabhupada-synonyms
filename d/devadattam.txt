@@ -1,5 +1,11 @@
-~~Title:devadattam~~
-{{description>the conchshell named Devadatta.}}
+---json
+{
+    "name":"devadattam",
+    "h1":"devadattam",
+    "title":"devadattam -- synonyms, prabhupada.io",
+    "description":"the conchshell named Devadatta."
+}
+---
 
 ==== devadattam  ====
   * the conchshell named Devadatta --- [[books:bg:1:15|Bg. 1.15]]

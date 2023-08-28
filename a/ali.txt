@@ -1,5 +1,11 @@
-~~Title:ali~~
-{{description>bees; bumblebees; by the bees; of the bumblebees; with bumblebees.}}
+---json
+{
+    "name":"ali",
+    "h1":"ali",
+    "title":"ali -- synonyms, prabhupada.io",
+    "description":"bees; bumblebees; by the bees; of the bumblebees; with bumblebees."
+}
+---
 
 ==== ali  ====
   * bees --- [[books:sb:4:25:17|SB 4.25.17]]

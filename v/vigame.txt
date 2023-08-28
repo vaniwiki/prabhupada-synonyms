@@ -1,5 +1,11 @@
-~~Title:vigame~~
-{{description>being vanquished.}}
+---json
+{
+    "name":"vigame",
+    "h1":"vigame",
+    "title":"vigame -- synonyms, prabhupada.io",
+    "description":"being vanquished."
+}
+---
 
 ==== vigame  ====
   * being vanquished --- [[books:sb:2:7:49|SB 2.7.49]]

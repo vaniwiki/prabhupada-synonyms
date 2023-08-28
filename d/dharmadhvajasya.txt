@@ -1,5 +1,11 @@
-~~Title:dharmadhvajasya~~
-{{description>from this Dharmadhvaja.}}
+---json
+{
+    "name":"dharmadhvajasya",
+    "h1":"dharmadhvajasya",
+    "title":"dharmadhvajasya -- synonyms, prabhupada.io",
+    "description":"from this Dharmadhvaja."
+}
+---
 
 ==== dharmadhvajasya  ====
   * from this Dharmadhvaja --- [[books:sb:9:13:19|SB 9.13.19]]

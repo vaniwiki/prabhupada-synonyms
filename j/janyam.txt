@@ -1,5 +1,11 @@
-~~Title:janyam~~
-{{description>the material tabernacle.}}
+---json
+{
+    "name":"janyam",
+    "h1":"janyam",
+    "title":"janyam -- synonyms, prabhupada.io",
+    "description":"the material tabernacle."
+}
+---
 
 ==== janyam  ====
   * the material tabernacle --- [[books:sb:1:9:31|SB 1.9.31]]

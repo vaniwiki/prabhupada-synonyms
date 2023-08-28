@@ -1,5 +1,11 @@
-~~Title:trāsayat~~
-{{description>threatening.}}
+---json
+{
+    "name":"trāsayat",
+    "h1":"trāsayat",
+    "title":"trāsayat -- synonyms, prabhupada.io",
+    "description":"threatening."
+}
+---
 
 ==== trāsayat  ====
   * threatening --- [[books:sb:4:10:23|SB 4.10.23]]

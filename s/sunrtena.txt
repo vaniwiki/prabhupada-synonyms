@@ -1,5 +1,11 @@
-~~Title:sūnṛtena~~
-{{description>along with mild words.}}
+---json
+{
+    "name":"sūnṛtena",
+    "h1":"sūnṛtena",
+    "title":"sūnṛtena -- synonyms, prabhupada.io",
+    "description":"along with mild words."
+}
+---
 
 ==== sa-sūnṛtena  ====
   * along with mild words --- [[books:sb:3:16:23|SB 3.16.23]]

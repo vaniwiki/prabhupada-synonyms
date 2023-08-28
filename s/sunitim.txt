@@ -1,5 +1,11 @@
-~~Title:sunītim~~
-{{description>Sunīti.}}
+---json
+{
+    "name":"sunītim",
+    "h1":"sunītim",
+    "title":"sunītim -- synonyms, prabhupada.io",
+    "description":"Sunīti."
+}
+---
 
 ==== sunītim  ====
   * Sunīti --- [[books:sb:4:12:32|SB 4.12.32]]

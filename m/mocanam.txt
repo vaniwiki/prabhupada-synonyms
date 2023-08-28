@@ -1,5 +1,11 @@
-~~Title:mocanam~~
-{{description>which eradicates.}}
+---json
+{
+    "name":"mocanam",
+    "h1":"mocanam",
+    "title":"mocanam -- synonyms, prabhupada.io",
+    "description":"which eradicates."
+}
+---
 
 ==== mocanam  ====
   * which eradicates --- [[books:sb:5:10:15|SB 5.10.15]]

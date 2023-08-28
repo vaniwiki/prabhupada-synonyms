@@ -1,5 +1,11 @@
-~~Title:dhyātaḥ~~
-{{description>being meditated upon.}}
+---json
+{
+    "name":"dhyātaḥ",
+    "h1":"dhyātaḥ",
+    "title":"dhyātaḥ -- synonyms, prabhupada.io",
+    "description":"being meditated upon."
+}
+---
 
 ==== dhyātaḥ  ====
   * being meditated upon --- [[books:sb:8:10:53|SB 8.10.53]]

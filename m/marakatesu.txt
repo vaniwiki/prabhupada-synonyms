@@ -1,5 +1,11 @@
-~~Title:mārakateṣu~~
-{{description>bedecked with valuable jewels like sapphires; decorated with valuable emeralds.}}
+---json
+{
+    "name":"mārakateṣu",
+    "h1":"mārakateṣu",
+    "title":"mārakateṣu -- synonyms, prabhupada.io",
+    "description":"bedecked with valuable jewels like sapphires; decorated with valuable emeralds."
+}
+---
 
 ==== mahā-mārakateṣu  ====
   * bedecked with valuable jewels like sapphires --- [[books:sb:4:9:62|SB 4.9.62]]

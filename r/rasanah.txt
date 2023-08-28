@@ -1,5 +1,11 @@
-~~Title:rasanah~~
-{{description>whose tongue.}}
+---json
+{
+    "name":"rasanah",
+    "h1":"rasanah",
+    "title":"rasanah -- synonyms, prabhupada.io",
+    "description":"whose tongue."
+}
+---
 
 ==== rasanaḥ  ====
   * whose tongue --- [[books:cc:antya:15:97|Antya 15.97]]

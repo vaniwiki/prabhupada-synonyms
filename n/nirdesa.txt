@@ -1,5 +1,11 @@
-~~Title:nirdeśa~~
-{{description>indication.}}
+---json
+{
+    "name":"nirdeśa",
+    "h1":"nirdeśa",
+    "title":"nirdeśa -- synonyms, prabhupada.io",
+    "description":"indication."
+}
+---
 
 ==== nirdeśa  ====
   * indication --- [[books:cc:adi:1:24|Ādi 1.24]]

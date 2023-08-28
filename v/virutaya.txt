@@ -1,5 +1,11 @@
-~~Title:virutayā~~
-{{description>humming.}}
+---json
+{
+    "name":"virutayā",
+    "h1":"virutayā",
+    "title":"virutayā -- synonyms, prabhupada.io",
+    "description":"humming."
+}
+---
 
 ==== virutayā  ====
   * humming --- [[books:sb:3:15:40|SB 3.15.40]]

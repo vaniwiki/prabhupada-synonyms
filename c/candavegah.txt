@@ -1,5 +1,11 @@
-~~Title:caṇḍavegaḥ~~
-{{description>Caṇḍavega.}}
+---json
+{
+    "name":"caṇḍavegaḥ",
+    "h1":"caṇḍavegaḥ",
+    "title":"caṇḍavegaḥ -- synonyms, prabhupada.io",
+    "description":"Caṇḍavega."
+}
+---
 
 ==== caṇḍavegaḥ  ====
   * Caṇḍavega --- [[books:sb:4:27:13|SB 4.27.13]]

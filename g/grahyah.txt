@@ -1,5 +1,11 @@
-~~Title:grāhyaḥ~~
-{{description>obtainable.}}
+---json
+{
+    "name":"grāhyaḥ",
+    "h1":"grāhyaḥ",
+    "title":"grāhyaḥ -- synonyms, prabhupada.io",
+    "description":"obtainable."
+}
+---
 
 ==== grāhyaḥ  ====
   * obtainable --- [[books:cc:madhya:20:138|Madhya 20.138]], [[books:cc:madhya:25:136|Madhya 25.136]]

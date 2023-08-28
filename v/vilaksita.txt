@@ -1,5 +1,11 @@
-~~Title:vilakṣita~~
-{{description>particularly observed.}}
+---json
+{
+    "name":"vilakṣita",
+    "h1":"vilakṣita",
+    "title":"vilakṣita -- synonyms, prabhupada.io",
+    "description":"particularly observed."
+}
+---
 
 ==== vilakṣita  ====
   * particularly observed --- [[books:sb:5:18:18|SB 5.18.18]]

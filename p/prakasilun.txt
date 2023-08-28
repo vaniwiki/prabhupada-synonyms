@@ -1,5 +1,11 @@
-~~Title:prakāśiluṅ~~
-{{description>have tried to demonstrate learning.}}
+---json
+{
+    "name":"prakāśiluṅ",
+    "h1":"prakāśiluṅ",
+    "title":"prakāśiluṅ -- synonyms, prabhupada.io",
+    "description":"have tried to demonstrate learning."
+}
+---
 
 ==== pāṇḍitya prakāśiluṅ  ====
   * have tried to demonstrate learning --- [[books:cc:antya:7:126|Antya 7.126]]

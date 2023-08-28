@@ -1,5 +1,11 @@
-~~Title:dhārayitā~~
-{{description>who can sustain.}}
+---json
+{
+    "name":"dhārayitā",
+    "h1":"dhārayitā",
+    "title":"dhārayitā -- synonyms, prabhupada.io",
+    "description":"who can sustain."
+}
+---
 
 ==== dhārayitā  ====
   * who can sustain --- [[books:sb:9:9:4|SB 9.9.4]]

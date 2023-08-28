@@ -1,5 +1,11 @@
-~~Title:acari~~
-{{description>behaving; practicing.}}
+---json
+{
+    "name":"acari",
+    "h1":"acari",
+    "title":"acari -- synonyms, prabhupada.io",
+    "description":"behaving; practicing."
+}
+---
 
 ==== ācari'  ====
   * behaving --- [[books:cc:madhya:1:22|Madhya 1.22]]

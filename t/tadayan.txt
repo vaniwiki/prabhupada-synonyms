@@ -1,5 +1,11 @@
-~~Title:tāḍayan~~
-{{description>striking at.}}
+---json
+{
+    "name":"tāḍayan",
+    "h1":"tāḍayan",
+    "title":"tāḍayan -- synonyms, prabhupada.io",
+    "description":"striking at."
+}
+---
 
 ==== tāḍayan  ====
   * striking at --- [[books:sb:3:19:10|SB 3.19.10]]

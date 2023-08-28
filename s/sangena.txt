@@ -1,5 +1,11 @@
-~~Title:saṅgena~~
-{{description>association; by association; by contacting the water of the Ganges; by the association; in the association.}}
+---json
+{
+    "name":"saṅgena",
+    "h1":"saṅgena",
+    "title":"saṅgena -- synonyms, prabhupada.io",
+    "description":"association; by association; by contacting the water of the Ganges; by the association; in the association."
+}
+---
 
 ==== saṅgena  ====
   * association --- [[books:bg:14:6|Bg. 14.6]]

@@ -1,5 +1,11 @@
-~~Title:arhāṇi~~
-{{description>worshiping.}}
+---json
+{
+    "name":"arhāṇi",
+    "h1":"arhāṇi",
+    "title":"arhāṇi -- synonyms, prabhupada.io",
+    "description":"worshiping."
+}
+---
 
 ==== arhāṇi  ====
   * worshiping --- [[books:sb:1:8:35|SB 1.8.35]]

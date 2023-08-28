@@ -1,5 +1,11 @@
-~~Title:pāṇḍum~~
-{{description>a son named Pāṇḍu.}}
+---json
+{
+    "name":"pāṇḍum",
+    "h1":"pāṇḍum",
+    "title":"pāṇḍum -- synonyms, prabhupada.io",
+    "description":"a son named Pāṇḍu."
+}
+---
 
 ==== pāṇḍum  ====
   * a son named Pāṇḍu --- [[books:sb:9:22:25|SB 9.22.25]]

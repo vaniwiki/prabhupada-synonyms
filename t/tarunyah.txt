@@ -1,5 +1,11 @@
-~~Title:tāruṇyaḥ~~
-{{description>always freshly youthful.}}
+---json
+{
+    "name":"tāruṇyaḥ",
+    "h1":"tāruṇyaḥ",
+    "title":"tāruṇyaḥ -- synonyms, prabhupada.io",
+    "description":"always freshly youthful."
+}
+---
 
 ==== nava-tāruṇyaḥ  ====
   * always freshly youthful --- [[books:cc:madhya:8:188|Madhya 8.188]]

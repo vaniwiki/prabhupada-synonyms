@@ -1,5 +1,11 @@
-~~Title:abhipatantam~~
-{{description>while falling down.}}
+---json
+{
+    "name":"abhipatantam",
+    "h1":"abhipatantam",
+    "title":"abhipatantam -- synonyms, prabhupada.io",
+    "description":"while falling down."
+}
+---
 
 ==== abhipatantam  ====
   * while falling down --- [[books:sb:2:7:14|SB 2.7.14]]

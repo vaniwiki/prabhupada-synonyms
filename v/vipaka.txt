@@ -1,5 +1,11 @@
-~~Title:vipāka~~
-{{description>the resultant destinations.}}
+---json
+{
+    "name":"vipāka",
+    "h1":"vipāka",
+    "title":"vipāka -- synonyms, prabhupada.io",
+    "description":"the resultant destinations."
+}
+---
 
 ==== vipāka-gatayaḥ  ====
   * the resultant destinations --- [[books:sb:5:25:15|SB 5.25.15]]

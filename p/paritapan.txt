@@ -1,5 +1,11 @@
-~~Title:paritāpān~~
-{{description>suffering.}}
+---json
+{
+    "name":"paritāpān",
+    "h1":"paritāpān",
+    "title":"paritāpān -- synonyms, prabhupada.io",
+    "description":"suffering."
+}
+---
 
 ==== paritāpān  ====
   * suffering --- [[books:sb:2:2:7|SB 2.2.7]]

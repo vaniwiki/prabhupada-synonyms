@@ -1,5 +1,11 @@
-~~Title:bhakṣayati~~
-{{description>gives trouble to; is eating (the poor creature).}}
+---json
+{
+    "name":"bhakṣayati",
+    "h1":"bhakṣayati",
+    "title":"bhakṣayati -- synonyms, prabhupada.io",
+    "description":"gives trouble to; is eating (the poor creature)."
+}
+---
 
 ==== bhakṣayati  ====
   * gives trouble to --- [[books:sb:5:14:14|SB 5.14.14]]

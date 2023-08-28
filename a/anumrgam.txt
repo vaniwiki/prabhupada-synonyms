@@ -1,5 +1,11 @@
-~~Title:anumṛgam~~
-{{description>behind the animals.}}
+---json
+{
+    "name":"anumṛgam",
+    "h1":"anumṛgam",
+    "title":"anumṛgam -- synonyms, prabhupada.io",
+    "description":"behind the animals."
+}
+---
 
 ==== anumṛgam  ====
   * behind the animals --- [[books:sb:9:1:23-24|SB 9.1.23-24]]

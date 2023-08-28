@@ -1,5 +1,11 @@
-~~Title:vāhanatve~~
-{{description>because of becoming the carrier.}}
+---json
+{
+    "name":"vāhanatve",
+    "h1":"vāhanatve",
+    "title":"vāhanatve -- synonyms, prabhupada.io",
+    "description":"because of becoming the carrier."
+}
+---
 
 ==== vāhanatve  ====
   * because of becoming the carrier --- [[books:sb:9:6:14|SB 9.6.14]]

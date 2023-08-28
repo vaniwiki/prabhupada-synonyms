@@ -1,5 +1,11 @@
-~~Title:rāghave~~
-{{description>Rāghava Paṇḍita.}}
+---json
+{
+    "name":"rāghave",
+    "h1":"rāghave",
+    "title":"rāghave -- synonyms, prabhupada.io",
+    "description":"Rāghava Paṇḍita."
+}
+---
 
 ==== rāghave  ====
   * Rāghava Paṇḍita --- [[books:cc:antya:6:76|Antya 6.76]]

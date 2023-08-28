@@ -1,5 +1,11 @@
-~~Title:ābhijātya~~
-{{description>among the four material principles (attractive personal bodily features, birth in an aristocratic family, being very learned, and being very rich).}}
+---json
+{
+    "name":"ābhijātya",
+    "h1":"ābhijātya",
+    "title":"ābhijātya -- synonyms, prabhupada.io",
+    "description":"among the four material principles (attractive personal bodily features, birth in an aristocratic family, being very learned, and being very rich)."
+}
+---
 
 ==== ābhijātya-ādiḥ  ====
   * among the four material principles (attractive personal bodily features, birth in an aristocratic family, being very learned, and being very rich) --- [[books:sb:10:10:8|SB 10.10.8]]

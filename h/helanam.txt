@@ -1,5 +1,11 @@
-~~Title:helanam~~
-{{description>disrespectful behavior; insult, neglect; neglectfully; negligence.}}
+---json
+{
+    "name":"helanam",
+    "h1":"helanam",
+    "title":"helanam -- synonyms, prabhupada.io",
+    "description":"disrespectful behavior; insult, neglect; neglectfully; negligence."
+}
+---
 
 ==== helanam  ====
   * disrespectful behavior --- [[books:sb:4:11:33|SB 4.11.33]]

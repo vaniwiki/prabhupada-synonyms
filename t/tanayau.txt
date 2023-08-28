@@ -1,5 +1,11 @@
-~~Title:tanayau~~
-{{description>sons; the two sons Lava and Kuśa.}}
+---json
+{
+    "name":"tanayau",
+    "h1":"tanayau",
+    "title":"tanayau -- synonyms, prabhupada.io",
+    "description":"sons; the two sons Lava and Kuśa."
+}
+---
 
 ==== tanayau  ====
   * sons --- [[books:sb:3:1:39|SB 3.1.39]]

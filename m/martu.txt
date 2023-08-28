@@ -1,5 +1,11 @@
-~~Title:martu~~
-{{description>desirous of death.}}
+---json
+{
+    "name":"martu",
+    "h1":"martu",
+    "title":"martu -- synonyms, prabhupada.io",
+    "description":"desirous of death."
+}
+---
 
 ==== martu-kāmaḥ  ====
   * desirous of death --- [[books:sb:7:8:11|SB 7.8.11]]

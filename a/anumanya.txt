@@ -1,5 +1,11 @@
-~~Title:anumānya~~
-{{description>after learning.}}
+---json
+{
+    "name":"anumānya",
+    "h1":"anumānya",
+    "title":"anumānya -- synonyms, prabhupada.io",
+    "description":"after learning."
+}
+---
 
 ==== anumānya  ====
   * after learning --- [[books:sb:3:16:28|SB 3.16.28]]

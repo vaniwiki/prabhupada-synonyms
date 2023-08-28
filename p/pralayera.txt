@@ -1,5 +1,11 @@
-~~Title:pralayera~~
-{{description>of creation, maintenance and annihilation; of the three functions, namely creation, maintenance and dissolution.}}
+---json
+{
+    "name":"pralayera",
+    "h1":"pralayera",
+    "title":"pralayera -- synonyms, prabhupada.io",
+    "description":"of creation, maintenance and annihilation; of the three functions, namely creation, maintenance and dissolution."
+}
+---
 
 ==== sṛṣṭi-sthiti-pralayera  ====
   * of creation, maintenance and annihilation --- [[books:cc:adi:5:80|Ādi 5.80]]

@@ -1,5 +1,11 @@
-~~Title:variṣaye~~
-{{description>rains.}}
+---json
+{
+    "name":"variṣaye",
+    "h1":"variṣaye",
+    "title":"variṣaye -- synonyms, prabhupada.io",
+    "description":"rains."
+}
+---
 
 ==== variṣaye  ====
   * rains --- [[books:cc:madhya:21:109|Madhya 21.109]]

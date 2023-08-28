@@ -1,5 +1,11 @@
-~~Title:prayacchatu~~
-{{description>let Him give.}}
+---json
+{
+    "name":"prayacchatu",
+    "h1":"prayacchatu",
+    "title":"prayacchatu -- synonyms, prabhupada.io",
+    "description":"let Him give."
+}
+---
 
 ==== prayacchatu  ====
   * let Him give --- [[books:sb:4:1:20|SB 4.1.20]]

@@ -1,5 +1,11 @@
-~~Title:sūryasya~~
-{{description>of the sun.}}
+---json
+{
+    "name":"sūryasya",
+    "h1":"sūryasya",
+    "title":"sūryasya -- synonyms, prabhupada.io",
+    "description":"of the sun."
+}
+---
 
 ==== sūryasya  ====
   * of the sun --- [[books:sb:2:6:3|SB 2.6.3]]

@@ -1,5 +1,11 @@
-~~Title:mārgaiḥ~~
-{{description>by the paths; with paths.}}
+---json
+{
+    "name":"mārgaiḥ",
+    "h1":"mārgaiḥ",
+    "title":"mārgaiḥ -- synonyms, prabhupada.io",
+    "description":"by the paths; with paths."
+}
+---
 
 ==== mārgaiḥ  ====
   * by the paths --- [[books:sb:4:30:22|SB 4.30.22]]

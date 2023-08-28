@@ -1,5 +1,11 @@
-~~Title:vayunam~~
-{{description>Vayuna.}}
+---json
+{
+    "name":"vayunam",
+    "h1":"vayunam",
+    "title":"vayunam -- synonyms, prabhupada.io",
+    "description":"Vayuna."
+}
+---
 
 ==== vayunam  ====
   * Vayuna --- [[books:sb:6:6:20|SB 6.6.20]]

@@ -1,5 +1,11 @@
-~~Title:vismṛta~~
-{{description>forgot; forgotten; who has forgotten.}}
+---json
+{
+    "name":"vismṛta",
+    "h1":"vismṛta",
+    "title":"vismṛta -- synonyms, prabhupada.io",
+    "description":"forgot; forgotten; who has forgotten."
+}
+---
 
 ==== vismṛta  ====
   * forgot --- [[books:sb:4:12:21|SB 4.12.21]]

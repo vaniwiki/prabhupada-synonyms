@@ -1,5 +1,11 @@
-~~Title:bhūṣāra~~
-{{description>of the ornaments.}}
+---json
+{
+    "name":"bhūṣāra",
+    "h1":"bhūṣāra",
+    "title":"bhūṣāra -- synonyms, prabhupada.io",
+    "description":"of the ornaments."
+}
+---
 
 ==== bhūṣāra  ====
   * of the ornaments --- [[books:cc:madhya:14:183|Madhya 14.183]]

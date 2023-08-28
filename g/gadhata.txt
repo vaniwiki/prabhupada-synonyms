@@ -1,5 +1,11 @@
-~~Title:gāḍhatā~~
-{{description>the intensity.}}
+---json
+{
+    "name":"gāḍhatā",
+    "h1":"gāḍhatā",
+    "title":"gāḍhatā -- synonyms, prabhupada.io",
+    "description":"the intensity."
+}
+---
 
 ==== gāḍhatā  ====
   * the intensity --- [[books:cc:madhya:8:102|Madhya 8.102]]

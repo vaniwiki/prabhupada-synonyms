@@ -1,5 +1,11 @@
-~~Title:sarabhah~~
-{{description>sarabhas.}}
+---json
+{
+    "name":"sarabhah",
+    "h1":"sarabhah",
+    "title":"sarabhah -- synonyms, prabhupada.io",
+    "description":"sarabhas."
+}
+---
 
 ==== sarabhāḥ  ====
   * //sarabhas// --- [[books:sb:8:2:21|SB 8.2.21]]

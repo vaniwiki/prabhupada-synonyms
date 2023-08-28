@@ -1,5 +1,11 @@
-~~Title:udastāt~~
-{{description>on the surface; upwards.}}
+---json
+{
+    "name":"udastāt",
+    "h1":"udastāt",
+    "title":"udastāt -- synonyms, prabhupada.io",
+    "description":"on the surface; upwards."
+}
+---
 
 ==== udastāt  ====
   * on the surface --- [[books:sb:3:18:8|SB 3.18.8]]

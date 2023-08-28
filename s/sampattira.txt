@@ -1,5 +1,11 @@
-~~Title:sampattira~~
-{{description>of the opulence; riches.}}
+---json
+{
+    "name":"sampattira",
+    "h1":"sampattira",
+    "title":"sampattira -- synonyms, prabhupada.io",
+    "description":"of the opulence; riches."
+}
+---
 
 ==== sampattira  ====
   * of the opulence --- [[books:cc:madhya:21:96|Madhya 21.96]]

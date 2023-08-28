@@ -1,5 +1,11 @@
-~~Title:netrah~~
-{{description>Netra.}}
+---json
+{
+    "name":"netrah",
+    "h1":"netrah",
+    "title":"netrah -- synonyms, prabhupada.io",
+    "description":"Netra."
+}
+---
 
 ==== netraḥ  ====
   * Netra --- [[books:sb:9:23:22|SB 9.23.22]]

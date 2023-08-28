@@ -1,5 +1,11 @@
-~~Title:ghātitaḥ~~
-{{description>killed.}}
+---json
+{
+    "name":"ghātitaḥ",
+    "h1":"ghātitaḥ",
+    "title":"ghātitaḥ -- synonyms, prabhupada.io",
+    "description":"killed."
+}
+---
 
 ==== ghātitaḥ  ====
   * killed --- [[books:sb:7:2:6|SB 7.2.6]]

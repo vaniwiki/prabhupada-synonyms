@@ -1,5 +1,11 @@
-~~Title:ādarśaiḥ~~
-{{description>with mirrors.}}
+---json
+{
+    "name":"ādarśaiḥ",
+    "h1":"ādarśaiḥ",
+    "title":"ādarśaiḥ -- synonyms, prabhupada.io",
+    "description":"with mirrors."
+}
+---
 
 ==== ādarśaiḥ  ====
   * with mirrors --- [[books:sb:9:11:28|SB 9.11.28]]

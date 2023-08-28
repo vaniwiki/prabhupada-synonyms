@@ -1,5 +1,11 @@
-~~Title:samagrān~~
-{{description>completely.}}
+---json
+{
+    "name":"samagrān",
+    "h1":"samagrān",
+    "title":"samagrān -- synonyms, prabhupada.io",
+    "description":"completely."
+}
+---
 
 ==== samagrān  ====
   * completely --- [[books:bg:11:30|Bg. 11.30]]

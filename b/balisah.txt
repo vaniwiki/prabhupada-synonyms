@@ -1,5 +1,11 @@
-~~Title:balisah~~
-{{description>a fool; inexperienced.}}
+---json
+{
+    "name":"balisah",
+    "h1":"balisah",
+    "title":"balisah -- synonyms, prabhupada.io",
+    "description":"a fool; inexperienced."
+}
+---
 
 ==== bāliśaḥ  ====
   * a fool --- [[books:sb:6:9:22|SB 6.9.22]]

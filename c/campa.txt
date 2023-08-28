@@ -1,5 +1,11 @@
-~~Title:campā~~
-{{description>the township known as Campāpurī.}}
+---json
+{
+    "name":"campā",
+    "h1":"campā",
+    "title":"campā -- synonyms, prabhupada.io",
+    "description":"the township known as Campāpurī."
+}
+---
 
 ==== campā-purī  ====
   * the township known as Campāpurī --- [[books:sb:9:8:1|SB 9.8.1]]

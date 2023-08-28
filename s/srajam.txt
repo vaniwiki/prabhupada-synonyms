@@ -1,5 +1,11 @@
-~~Title:srajam~~
-{{description>a garland; flower garland; garland; garlands.}}
+---json
+{
+    "name":"srajam",
+    "h1":"srajam",
+    "title":"srajam -- synonyms, prabhupada.io",
+    "description":"a garland; flower garland; garland; garlands."
+}
+---
 
 ==== srajam  ====
   * a garland --- [[books:cc:antya:10:21|Antya 10.21]]

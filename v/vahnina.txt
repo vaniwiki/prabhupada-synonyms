@@ -1,5 +1,11 @@
-~~Title:vahninā~~
-{{description>by fire; by the strong fire of appetite; with fire.}}
+---json
+{
+    "name":"vahninā",
+    "h1":"vahninā",
+    "title":"vahninā -- synonyms, prabhupada.io",
+    "description":"by fire; by the strong fire of appetite; with fire."
+}
+---
 
 ==== vahninā  ====
   * by fire --- [[books:sb:5:26:29|SB 5.26.29]]

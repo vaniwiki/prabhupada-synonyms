@@ -1,5 +1,11 @@
-~~Title:anjali~~
-{{description>handful; palmful; with folded hands.}}
+---json
+{
+    "name":"anjali",
+    "h1":"anjali",
+    "title":"anjali -- synonyms, prabhupada.io",
+    "description":"handful; palmful; with folded hands."
+}
+---
 
 ==== añjali  ====
   * handful --- [[books:cc:adi:9:30|Ādi 9.30]]

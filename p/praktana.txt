@@ -1,5 +1,11 @@
-~~Title:prāktana~~
-{{description>in their previous births.}}
+---json
+{
+    "name":"prāktana",
+    "h1":"prāktana",
+    "title":"prāktana -- synonyms, prabhupada.io",
+    "description":"in their previous births."
+}
+---
 
 ==== prāktana-janmani  ====
   * in their previous births --- [[books:sb:7:10:37|SB 7.10.37]]

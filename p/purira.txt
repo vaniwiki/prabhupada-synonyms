@@ -1,5 +1,11 @@
-~~Title:purīra~~
-{{description>of Dvārakā Purī; of Mādhavendra Purī; of Paramānanda Purī.}}
+---json
+{
+    "name":"purīra",
+    "h1":"purīra",
+    "title":"purīra -- synonyms, prabhupada.io",
+    "description":"of Dvārakā Purī; of Mādhavendra Purī; of Paramānanda Purī."
+}
+---
 
 ==== purīra  ====
   * of Dvārakā Purī --- [[books:cc:madhya:20:241|Madhya 20.241]]

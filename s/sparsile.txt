@@ -1,5 +1,11 @@
-~~Title:sparśile~~
-{{description>You have touched.}}
+---json
+{
+    "name":"sparśile",
+    "h1":"sparśile",
+    "title":"sparśile -- synonyms, prabhupada.io",
+    "description":"You have touched."
+}
+---
 
 ==== sparśile  ====
   * You have touched --- [[books:cc:madhya:8:34|Madhya 8.34]]

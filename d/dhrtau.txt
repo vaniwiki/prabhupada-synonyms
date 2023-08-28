@@ -1,5 +1,11 @@
-~~Title:dhṛtau~~
-{{description>Lord Brahmā.}}
+---json
+{
+    "name":"dhṛtau",
+    "h1":"dhṛtau",
+    "title":"dhṛtau -- synonyms, prabhupada.io",
+    "description":"Lord Brahmā."
+}
+---
 
 ==== śata-dhṛtau  ====
   * Lord Brahmā --- [[books:sb:3:24:21|SB 3.24.21]]

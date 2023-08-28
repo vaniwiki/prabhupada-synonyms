@@ -1,5 +1,11 @@
-~~Title:parjanyāt~~
-{{description>from rains.}}
+---json
+{
+    "name":"parjanyāt",
+    "h1":"parjanyāt",
+    "title":"parjanyāt -- synonyms, prabhupada.io",
+    "description":"from rains."
+}
+---
 
 ==== parjanyāt  ====
   * from rains --- [[books:bg:3:14|Bg. 3.14]]

@@ -1,5 +1,11 @@
-~~Title:prakrta~~
-{{description>made.}}
+---json
+{
+    "name":"prakrta",
+    "h1":"prakrta",
+    "title":"prakrta -- synonyms, prabhupada.io",
+    "description":"made."
+}
+---
 
 ==== prakṛta  ====
   * made --- [[books:sb:4:7:4|SB 4.7.4]]

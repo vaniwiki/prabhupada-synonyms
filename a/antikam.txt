@@ -1,5 +1,11 @@
-~~Title:antikam~~
-{{description>nearby; the shelter; the vicinity.}}
+---json
+{
+    "name":"antikam",
+    "h1":"antikam",
+    "title":"antikam -- synonyms, prabhupada.io",
+    "description":"nearby; the shelter; the vicinity."
+}
+---
 
 ==== antikam  ====
   * nearby --- [[books:sb:6:18:71|SB 6.18.71]]

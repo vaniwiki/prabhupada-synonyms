@@ -1,5 +1,11 @@
-~~Title:vṛndera~~
-{{description>of the multitude.}}
+---json
+{
+    "name":"vṛndera",
+    "h1":"vṛndera",
+    "title":"vṛndera -- synonyms, prabhupada.io",
+    "description":"of the multitude."
+}
+---
 
 ==== vṛndera  ====
   * of the multitude --- [[books:cc:adi:2:50|Ādi 2.50]]

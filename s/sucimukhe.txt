@@ -1,5 +1,11 @@
-~~Title:sūcīmukhe~~
-{{description>named Sūcīmukha.}}
+---json
+{
+    "name":"sūcīmukhe",
+    "h1":"sūcīmukhe",
+    "title":"sūcīmukhe -- synonyms, prabhupada.io",
+    "description":"named Sūcīmukha."
+}
+---
 
 ==== sūcīmukhe  ====
   * named Sūcīmukha --- [[books:sb:5:26:36|SB 5.26.36]]

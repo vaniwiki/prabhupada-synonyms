@@ -1,5 +1,11 @@
-~~Title:ādiśa~~
-{{description>just instruct me; please instruct.}}
+---json
+{
+    "name":"ādiśa",
+    "h1":"ādiśa",
+    "title":"ādiśa -- synonyms, prabhupada.io",
+    "description":"just instruct me; please instruct."
+}
+---
 
 ==== ādiśa  ====
   * just instruct me --- [[books:sb:8:16:23|SB 8.16.23]]

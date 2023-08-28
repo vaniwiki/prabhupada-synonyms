@@ -1,5 +1,11 @@
-~~Title:glahaḥ~~
-{{description>life is the stake.}}
+---json
+{
+    "name":"glahaḥ",
+    "h1":"glahaḥ",
+    "title":"glahaḥ -- synonyms, prabhupada.io",
+    "description":"life is the stake."
+}
+---
 
 ==== prāṇa-glahaḥ  ====
   * life is the stake --- [[books:sb:6:12:17|SB 6.12.17]]

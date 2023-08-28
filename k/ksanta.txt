@@ -1,5 +1,11 @@
-~~Title:kṣānta~~
-{{description>was relieved of anger.}}
+---json
+{
+    "name":"kṣānta",
+    "h1":"kṣānta",
+    "title":"kṣānta -- synonyms, prabhupada.io",
+    "description":"was relieved of anger."
+}
+---
 
 ==== kṣānta-roṣā  ====
   * was relieved of anger --- [[books:sb:10:4:25|SB 10.4.25]]

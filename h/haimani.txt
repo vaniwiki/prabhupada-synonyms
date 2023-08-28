@@ -1,5 +1,11 @@
-~~Title:haimāni~~
-{{description>made of gold.}}
+---json
+{
+    "name":"haimāni",
+    "h1":"haimāni",
+    "title":"haimāni -- synonyms, prabhupada.io",
+    "description":"made of gold."
+}
+---
 
 ==== haimāni  ====
   * made of gold --- [[books:sb:3:33:16|SB 3.33.16]]

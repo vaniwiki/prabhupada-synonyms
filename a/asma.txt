@@ -1,5 +1,11 @@
-~~Title:asma~~
-{{description>stone.}}
+---json
+{
+    "name":"asma",
+    "h1":"asma",
+    "title":"asma -- synonyms, prabhupada.io",
+    "description":"stone."
+}
+---
 
 ==== aśma  ====
   * stone --- [[books:bg:6:8|Bg. 6.8]], [[books:bg:14:22-25|Bg. 14.22-25]], [[books:sb:4:24:49|SB 4.24.49]], [[books:sb:7:13:40|SB 7.13.40]], [[books:cc:antya:4:178|Antya 4.178]]

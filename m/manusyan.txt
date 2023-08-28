@@ -1,5 +1,11 @@
-~~Title:manuṣyān~~
-{{description>persons.}}
+---json
+{
+    "name":"manuṣyān",
+    "h1":"manuṣyān",
+    "title":"manuṣyān -- synonyms, prabhupada.io",
+    "description":"persons."
+}
+---
 
 ==== manuṣyān  ====
   * persons --- [[books:cc:madhya:22:92|Madhya 22.92]]

@@ -1,5 +1,11 @@
-~~Title:dvārvatyām~~
-{{description>in the city of Dvārakā.}}
+---json
+{
+    "name":"dvārvatyām",
+    "h1":"dvārvatyām",
+    "title":"dvārvatyām -- synonyms, prabhupada.io",
+    "description":"in the city of Dvārakā."
+}
+---
 
 ==== dvārvatyām  ====
   * in the city of Dvārakā --- [[books:sb:3:3:19|SB 3.3.19]]

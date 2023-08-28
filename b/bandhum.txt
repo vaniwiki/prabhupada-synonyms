@@ -1,5 +1,11 @@
-~~Title:bandhum~~
-{{description>friend; relative.}}
+---json
+{
+    "name":"bandhum",
+    "h1":"bandhum",
+    "title":"bandhum -- synonyms, prabhupada.io",
+    "description":"friend; relative."
+}
+---
 
 ==== bandhum  ====
   * friend --- [[books:sb:1:16:19|SB 1.16.19]], [[books:sb:3:8:30|SB 3.8.30]]

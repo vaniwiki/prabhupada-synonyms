@@ -1,5 +1,11 @@
-~~Title:nakṣatra~~
-{{description>stars; the stars.}}
+---json
+{
+    "name":"nakṣatra",
+    "h1":"nakṣatra",
+    "title":"nakṣatra -- synonyms, prabhupada.io",
+    "description":"stars; the stars."
+}
+---
 
 ==== nakṣatra  ====
   * stars --- [[books:sb:8:18:5|SB 8.18.5]]

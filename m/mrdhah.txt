@@ -1,5 +1,11 @@
-~~Title:mṛdhaḥ~~
-{{description>an encounter; fight.}}
+---json
+{
+    "name":"mṛdhaḥ",
+    "h1":"mṛdhaḥ",
+    "title":"mṛdhaḥ -- synonyms, prabhupada.io",
+    "description":"an encounter; fight."
+}
+---
 
 ==== mṛdhaḥ  ====
   * an encounter --- [[books:sb:3:18:19|SB 3.18.19]]

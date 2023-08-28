@@ -1,5 +1,11 @@
-~~Title:siddhyeta~~
-{{description>it may he rendered fit.}}
+---json
+{
+    "name":"siddhyeta",
+    "h1":"siddhyeta",
+    "title":"siddhyeta -- synonyms, prabhupada.io",
+    "description":"it may he rendered fit."
+}
+---
 
 ==== siddhyeta  ====
   * it may he rendered fit --- [[books:sb:3:23:11|SB 3.23.11]]

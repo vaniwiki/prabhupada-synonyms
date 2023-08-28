@@ -1,5 +1,11 @@
-~~Title:sannihitam~~
-{{description>situated nearby.}}
+---json
+{
+    "name":"sannihitam",
+    "h1":"sannihitam",
+    "title":"sannihitam -- synonyms, prabhupada.io",
+    "description":"situated nearby."
+}
+---
 
 ==== sannihitam  ====
   * situated nearby --- [[books:sb:8:22:35|SB 8.22.35]]

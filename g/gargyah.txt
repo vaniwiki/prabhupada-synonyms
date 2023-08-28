@@ -1,5 +1,11 @@
-~~Title:gārgyaḥ~~
-{{description>a son named Gārgya.}}
+---json
+{
+    "name":"gārgyaḥ",
+    "h1":"gārgyaḥ",
+    "title":"gārgyaḥ -- synonyms, prabhupada.io",
+    "description":"a son named Gārgya."
+}
+---
 
 ==== gārgyaḥ  ====
   * a son named Gārgya --- [[books:sb:9:21:19-20|SB 9.21.19-20]]

@@ -1,5 +1,11 @@
-~~Title:sagara~~
-{{description>ocean; the ocean.}}
+---json
+{
+    "name":"sagara",
+    "h1":"sagara",
+    "title":"sagara -- synonyms, prabhupada.io",
+    "description":"ocean; the ocean."
+}
+---
 
 ==== sāgara  ====
   * ocean --- [[books:cc:adi:13:59|Ādi 13.59]], [[books:cc:madhya:10:102|Madhya 10.102]]

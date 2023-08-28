@@ -1,5 +1,11 @@
-~~Title:kovidah~~
-{{description>expert; one who is learned and intelligent; one who is philosophically inclined.}}
+---json
+{
+    "name":"kovidah",
+    "h1":"kovidah",
+    "title":"kovidah -- synonyms, prabhupada.io",
+    "description":"expert; one who is learned and intelligent; one who is philosophically inclined."
+}
+---
 
 ==== kovidaḥ  ====
   * expert --- [[books:sb:3:18:17|SB 3.18.17]], [[books:sb:3:21:26|SB 3.21.26]]

@@ -1,5 +1,11 @@
-~~Title:mukhyau~~
-{{description>the two chiefs of the Gandharvas.}}
+---json
+{
+    "name":"mukhyau",
+    "h1":"mukhyau",
+    "title":"mukhyau -- synonyms, prabhupada.io",
+    "description":"the two chiefs of the Gandharvas."
+}
+---
 
 ==== gandharva-mukhyau  ====
   * the two chiefs of the Gandharvas --- [[books:sb:8:11:41|SB 8.11.41]]

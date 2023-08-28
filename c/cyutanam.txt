@@ -1,5 +1,11 @@
-~~Title:cyutānām~~
-{{description>of the demigods, who have now fallen from their residential quarters.}}
+---json
+{
+    "name":"cyutānām",
+    "h1":"cyutānām",
+    "title":"cyutānām -- synonyms, prabhupada.io",
+    "description":"of the demigods, who have now fallen from their residential quarters."
+}
+---
 
 ==== divaḥ cyutānām  ====
   * of the demigods, who have now fallen from their residential quarters --- [[books:sb:8:17:28|SB 8.17.28]]

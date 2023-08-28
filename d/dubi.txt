@@ -1,5 +1,11 @@
-~~Title:ḍubi~~
-{{description>drowning.}}
+---json
+{
+    "name":"ḍubi",
+    "h1":"ḍubi",
+    "title":"ḍubi -- synonyms, prabhupada.io",
+    "description":"drowning."
+}
+---
 
 ==== ḍubi  ====
   * drowning --- [[books:cc:madhya:20:12|Madhya 20.12]]

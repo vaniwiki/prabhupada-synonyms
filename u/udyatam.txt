@@ -1,5 +1,11 @@
-~~Title:udyatam~~
-{{description>almost ready; an offering.}}
+---json
+{
+    "name":"udyatam",
+    "h1":"udyatam",
+    "title":"udyatam -- synonyms, prabhupada.io",
+    "description":"almost ready; an offering."
+}
+---
 
 ==== udyatam  ====
   * almost ready --- [[books:sb:1:17:35|SB 1.17.35]]

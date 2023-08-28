@@ -1,5 +1,11 @@
-~~Title:anivedita~~
-{{description>not touching anything not offered to the Lord.}}
+---json
+{
+    "name":"anivedita",
+    "h1":"anivedita",
+    "title":"anivedita -- synonyms, prabhupada.io",
+    "description":"not touching anything not offered to the Lord."
+}
+---
 
 ==== anivedita-tyāga  ====
   * not touching anything not offered to the Lord --- [[books:cc:madhya:24:338|Madhya 24.338]]

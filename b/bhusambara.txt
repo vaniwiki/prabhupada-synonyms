@@ -1,5 +1,11 @@
-~~Title:bhūṣāmbara~~
-{{description>dresses.}}
+---json
+{
+    "name":"bhūṣāmbara",
+    "h1":"bhūṣāmbara",
+    "title":"bhūṣāmbara -- synonyms, prabhupada.io",
+    "description":"dresses."
+}
+---
 
 ==== bhūṣāmbara  ====
   * dresses --- [[books:cc:madhya:14:130|Madhya 14.130]]

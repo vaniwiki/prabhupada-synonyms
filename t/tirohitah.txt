@@ -1,5 +1,11 @@
-~~Title:tirohitah~~
-{{description>being invisible.}}
+---json
+{
+    "name":"tirohitah",
+    "h1":"tirohitah",
+    "title":"tirohitah -- synonyms, prabhupada.io",
+    "description":"being invisible."
+}
+---
 
 ==== tirohitaḥ  ====
   * being invisible --- [[books:sb:4:19:11|SB 4.19.11]]

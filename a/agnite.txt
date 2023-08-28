@@ -1,5 +1,11 @@
-~~Title:agnite~~
-{{description>and in scorching heat.}}
+---json
+{
+    "name":"agnite",
+    "h1":"agnite",
+    "title":"agnite -- synonyms, prabhupada.io",
+    "description":"and in scorching heat."
+}
+---
 
 ==== agnite  ====
   * and in scorching heat --- [[books:cc:madhya:4:36|Madhya 4.36]]

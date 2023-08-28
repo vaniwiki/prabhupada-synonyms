@@ -1,5 +1,11 @@
-~~Title:variṣe~~
-{{description>fall down.}}
+---json
+{
+    "name":"variṣe",
+    "h1":"variṣe",
+    "title":"variṣe -- synonyms, prabhupada.io",
+    "description":"fall down."
+}
+---
 
 ==== variṣe  ====
   * fall down --- [[books:cc:antya:20:40|Antya 20.40]]

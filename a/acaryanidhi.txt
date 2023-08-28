@@ -1,5 +1,11 @@
-~~Title:ācāryanidhi~~
-{{description>Puṇḍarīka Vidyānidhi; Ācāryanidhi.}}
+---json
+{
+    "name":"ācāryanidhi",
+    "h1":"ācāryanidhi",
+    "title":"ācāryanidhi -- synonyms, prabhupada.io",
+    "description":"Puṇḍarīka Vidyānidhi; Ācāryanidhi."
+}
+---
 
 ==== ācāryanidhi  ====
   * Puṇḍarīka Vidyānidhi --- [[books:cc:antya:10:4|Antya 10.4]]

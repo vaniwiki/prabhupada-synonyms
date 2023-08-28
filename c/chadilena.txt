@@ -1,5 +1,11 @@
-~~Title:chāḍilena~~
-{{description>he left.}}
+---json
+{
+    "name":"chāḍilena",
+    "h1":"chāḍilena",
+    "title":"chāḍilena -- synonyms, prabhupada.io",
+    "description":"he left."
+}
+---
 
 ==== chāḍilena  ====
   * he left --- [[books:cc:antya:20:83|Antya 20.83]]

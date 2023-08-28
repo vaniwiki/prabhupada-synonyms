@@ -1,5 +1,11 @@
-~~Title:yātudhānī~~
-{{description>although she was a witch (whose only business was to kill small children and who had tried to kill Kṛṣṇa also).}}
+---json
+{
+    "name":"yātudhānī",
+    "h1":"yātudhānī",
+    "title":"yātudhānī -- synonyms, prabhupada.io",
+    "description":"although she was a witch (whose only business was to kill small children and who had tried to kill Kṛṣṇa also)."
+}
+---
 
 ==== yātudhānī api  ====
   * although she was a witch (whose only business was to kill small children and who had tried to kill Kṛṣṇa also) --- [[books:sb:10:6:37-38|SB 10.6.37-38]]

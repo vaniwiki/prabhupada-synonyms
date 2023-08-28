@@ -1,5 +1,11 @@
-~~Title:gatimatām~~
-{{description>of those living entities that can move.}}
+---json
+{
+    "name":"gatimatām",
+    "h1":"gatimatām",
+    "title":"gatimatām -- synonyms, prabhupada.io",
+    "description":"of those living entities that can move."
+}
+---
 
 ==== gatimatām  ====
   * of those living entities that can move --- [[books:cc:madhya:24:207|Madhya 24.207]]

@@ -1,5 +1,11 @@
-~~Title:kriyamāṇām~~
-{{description>executing.}}
+---json
+{
+    "name":"kriyamāṇām",
+    "h1":"kriyamāṇām",
+    "title":"kriyamāṇām -- synonyms, prabhupada.io",
+    "description":"executing."
+}
+---
 
 ==== kriyamāṇām  ====
   * executing --- [[books:sb:5:7:12|SB 5.7.12]]

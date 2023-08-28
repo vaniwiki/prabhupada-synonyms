@@ -1,5 +1,11 @@
-~~Title:mārgavat~~
-{{description>lanes.}}
+---json
+{
+    "name":"mārgavat",
+    "h1":"mārgavat",
+    "title":"mārgavat -- synonyms, prabhupada.io",
+    "description":"lanes."
+}
+---
 
 ==== mārgavat  ====
   * lanes --- [[books:sb:4:21:2|SB 4.21.2]]

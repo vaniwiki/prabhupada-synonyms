@@ -1,5 +1,11 @@
-~~Title:vyāpita~~
-{{description>pervaded.}}
+---json
+{
+    "name":"vyāpita",
+    "h1":"vyāpita",
+    "title":"vyāpita -- synonyms, prabhupada.io",
+    "description":"pervaded."
+}
+---
 
 ==== vyāpita  ====
   * pervaded --- [[books:cc:madhya:2:72|Madhya 2.72]]

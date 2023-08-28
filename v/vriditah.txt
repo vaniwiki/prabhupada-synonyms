@@ -1,5 +1,11 @@
-~~Title:vriditah~~
-{{description>ashamed.}}
+---json
+{
+    "name":"vriditah",
+    "h1":"vriditah",
+    "title":"vriditah -- synonyms, prabhupada.io",
+    "description":"ashamed."
+}
+---
 
 ==== vrīḍitaḥ  ====
   * ashamed --- [[books:sb:3:12:33|SB 3.12.33]]

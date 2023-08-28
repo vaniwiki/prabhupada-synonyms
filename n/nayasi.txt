@@ -1,5 +1,11 @@
-~~Title:nayasi~~
-{{description>you are bringing down.}}
+---json
+{
+    "name":"nayasi",
+    "h1":"nayasi",
+    "title":"nayasi -- synonyms, prabhupada.io",
+    "description":"you are bringing down."
+}
+---
 
 ==== nayasi  ====
   * you are bringing down --- [[books:sb:9:3:21|SB 9.3.21]]

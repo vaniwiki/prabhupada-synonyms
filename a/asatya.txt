@@ -1,5 +1,11 @@
-~~Title:asatya~~
-{{description>a false statement; untruthful statements; untruthful words.}}
+---json
+{
+    "name":"asatya",
+    "h1":"asatya",
+    "title":"asatya -- synonyms, prabhupada.io",
+    "description":"a false statement; untruthful statements; untruthful words."
+}
+---
 
 ==== asatya-vacana  ====
   * a false statement --- [[books:cc:madhya:5:70|Madhya 5.70]]

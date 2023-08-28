@@ -1,5 +1,11 @@
-~~Title:jhaḍa~~
-{{description>rainstorm.}}
+---json
+{
+    "name":"jhaḍa",
+    "h1":"jhaḍa",
+    "title":"jhaḍa -- synonyms, prabhupada.io",
+    "description":"rainstorm."
+}
+---
 
 ==== jhaḍa-variṣaṇa  ====
   * rainstorm --- [[books:cc:madhya:16:55|Madhya 16.55]]

@@ -1,5 +1,11 @@
-~~Title:jalera~~
-{{description>of the water.}}
+---json
+{
+    "name":"jalera",
+    "h1":"jalera",
+    "title":"jalera -- synonyms, prabhupada.io",
+    "description":"of the water."
+}
+---
 
 ==== jalera  ====
   * of the water --- [[books:cc:antya:4:5|Antya 4.5]]

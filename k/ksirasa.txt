@@ -1,5 +1,11 @@
-~~Title:kṣīrasā~~
-{{description>condensed milk.}}
+---json
+{
+    "name":"kṣīrasā",
+    "h1":"kṣīrasā",
+    "title":"kṣīrasā -- synonyms, prabhupada.io",
+    "description":"condensed milk."
+}
+---
 
 ==== kṣīrasā  ====
   * condensed milk --- [[books:cc:madhya:14:28|Madhya 14.28]]

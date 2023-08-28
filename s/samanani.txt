@@ -1,5 +1,11 @@
-~~Title:samānāni~~
-{{description>equal; equal in duration.}}
+---json
+{
+    "name":"samānāni",
+    "h1":"samānāni",
+    "title":"samānāni -- synonyms, prabhupada.io",
+    "description":"equal; equal in duration."
+}
+---
 
 ==== samānāni  ====
   * equal --- [[books:sb:5:21:3|SB 5.21.3]]

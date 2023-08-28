@@ -1,5 +1,11 @@
-~~Title:vidūṣyate~~
-{{description>is polluted.}}
+---json
+{
+    "name":"vidūṣyate",
+    "h1":"vidūṣyate",
+    "title":"vidūṣyate -- synonyms, prabhupada.io",
+    "description":"is polluted."
+}
+---
 
 ==== vidūṣyate  ====
   * is polluted --- [[books:sb:5:19:12|SB 5.19.12]]

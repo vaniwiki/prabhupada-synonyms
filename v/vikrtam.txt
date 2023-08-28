@@ -1,5 +1,11 @@
-~~Title:vikṛtam~~
-{{description>effect.}}
+---json
+{
+    "name":"vikṛtam",
+    "h1":"vikṛtam",
+    "title":"vikṛtam -- synonyms, prabhupada.io",
+    "description":"effect."
+}
+---
 
 ==== vikṛtam  ====
   * effect --- [[books:sb:4:7:42|SB 4.7.42]]

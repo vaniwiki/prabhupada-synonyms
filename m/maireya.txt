@@ -1,5 +1,11 @@
-~~Title:maireya~~
-{{description>of intoxication.}}
+---json
+{
+    "name":"maireya",
+    "h1":"maireya",
+    "title":"maireya -- synonyms, prabhupada.io",
+    "description":"of intoxication."
+}
+---
 
 ==== maireya  ====
   * of intoxication --- [[books:sb:3:4:2|SB 3.4.2]]

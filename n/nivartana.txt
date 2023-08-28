@@ -1,5 +1,11 @@
-~~Title:nivartana~~
-{{description>made to return.}}
+---json
+{
+    "name":"nivartana",
+    "h1":"nivartana",
+    "title":"nivartana -- synonyms, prabhupada.io",
+    "description":"made to return."
+}
+---
 
 ==== nivartana  ====
   * made to return --- [[books:cc:madhya:3:174|Madhya 3.174]]

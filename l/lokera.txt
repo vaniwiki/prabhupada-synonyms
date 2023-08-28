@@ -1,5 +1,11 @@
-~~Title:lokera~~
-{{description>of all people; of all the people; of everyone; of people; of people in general; of persons; of the people; of the people in general; of the world; persons.}}
+---json
+{
+    "name":"lokera",
+    "h1":"lokera",
+    "title":"lokera -- synonyms, prabhupada.io",
+    "description":"of all people; of all the people; of everyone; of people; of people in general; of persons; of the people; of the people in general; of the world; persons."
+}
+---
 
 ==== lokera  ====
   * of all people --- [[books:cc:adi:5:215|Ādi 5.215]], [[books:cc:adi:13:68|Ādi 13.68]], [[books:cc:antya:1:118|Antya 1.118]]

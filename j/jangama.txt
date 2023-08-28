@@ -1,5 +1,11 @@
-~~Title:jaṅgama~~
-{{description>movable; moving.}}
+---json
+{
+    "name":"jaṅgama",
+    "h1":"jaṅgama",
+    "title":"jaṅgama -- synonyms, prabhupada.io",
+    "description":"movable; moving."
+}
+---
 
 ==== jaṅgama  ====
   * movable --- [[books:cc:adi:13:97|Ādi 13.97]], [[books:cc:madhya:19:144|Madhya 19.144]]

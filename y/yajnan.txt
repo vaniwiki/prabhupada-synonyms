@@ -1,5 +1,11 @@
-~~Title:yajñān~~
-{{description>sacrifices.}}
+---json
+{
+    "name":"yajñān",
+    "h1":"yajñān",
+    "title":"yajñān -- synonyms, prabhupada.io",
+    "description":"sacrifices."
+}
+---
 
 ==== yajñān  ====
   * sacrifices --- [[books:sb:7:15:9|SB 7.15.9]]

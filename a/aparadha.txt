@@ -1,5 +1,11 @@
-~~Title:aparadha~~
-{{description>an offense; any offense; of offenses; of the offense; offense; offenses; the offense; the offenses.}}
+---json
+{
+    "name":"aparadha",
+    "h1":"aparadha",
+    "title":"aparadha -- synonyms, prabhupada.io",
+    "description":"an offense; any offense; of offenses; of the offense; offense; offenses; the offense; the offenses."
+}
+---
 
 ==== aparādha  ====
   * an offense --- [[books:cc:antya:5:121|Antya 5.121]]

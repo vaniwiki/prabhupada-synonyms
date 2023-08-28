@@ -1,5 +1,11 @@
-~~Title:upavaset~~
-{{description>should observe fasting.}}
+---json
+{
+    "name":"upavaset",
+    "h1":"upavaset",
+    "title":"upavaset -- synonyms, prabhupada.io",
+    "description":"should observe fasting."
+}
+---
 
 ==== upavaset  ====
   * should observe fasting --- [[books:sb:7:12:5|SB 7.12.5]]

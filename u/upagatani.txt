@@ -1,5 +1,11 @@
-~~Title:upagatāni~~
-{{description>achieved.}}
+---json
+{
+    "name":"upagatāni",
+    "h1":"upagatāni",
+    "title":"upagatāni -- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== upagatāni  ====
   * achieved --- [[books:sb:5:5:35|SB 5.5.35]], [[books:sb:5:6:1|SB 5.6.1]]

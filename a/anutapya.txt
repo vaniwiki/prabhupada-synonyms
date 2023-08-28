@@ -1,5 +1,11 @@
-~~Title:anutapya~~
-{{description>repenting.}}
+---json
+{
+    "name":"anutapya",
+    "h1":"anutapya",
+    "title":"anutapya -- synonyms, prabhupada.io",
+    "description":"repenting."
+}
+---
 
 ==== anutapya-mānaḥ  ====
   * repenting --- [[books:sb:5:8:28|SB 5.8.28]]

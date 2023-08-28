@@ -1,5 +1,11 @@
-~~Title:granthi~~
-{{description>knot; the knots.}}
+---json
+{
+    "name":"granthi",
+    "h1":"granthi",
+    "title":"granthi -- synonyms, prabhupada.io",
+    "description":"knot; the knots."
+}
+---
 
 ==== granthi  ====
   * knot --- [[books:sb:1:2:15|SB 1.2.15]]

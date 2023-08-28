@@ -1,5 +1,11 @@
-~~Title:aviṣamaḥ~~
-{{description>without differentiation.}}
+---json
+{
+    "name":"aviṣamaḥ",
+    "h1":"aviṣamaḥ",
+    "title":"aviṣamaḥ -- synonyms, prabhupada.io",
+    "description":"without differentiation."
+}
+---
 
 ==== aviṣamaḥ  ====
   * without differentiation --- [[books:sb:8:23:8|SB 8.23.8]]

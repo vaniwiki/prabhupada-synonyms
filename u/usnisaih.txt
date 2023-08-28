@@ -1,5 +1,11 @@
-~~Title:uṣṇīṣaiḥ~~
-{{description>with turbans.}}
+---json
+{
+    "name":"uṣṇīṣaiḥ",
+    "h1":"uṣṇīṣaiḥ",
+    "title":"uṣṇīṣaiḥ -- synonyms, prabhupada.io",
+    "description":"with turbans."
+}
+---
 
 ==== uṣṇīṣaiḥ  ====
   * with turbans --- [[books:sb:4:10:18-19|SB 4.10.18-19]]

@@ -1,5 +1,11 @@
-~~Title:kadācit~~
-{{description>at any time (past, present or future); at any time; at some time; at that time (when Kṛṣṇa was three months old); certainly; occasionally; once; once upon a time; one day; sometimes; somewhere.}}
+---json
+{
+    "name":"kadācit",
+    "h1":"kadācit",
+    "title":"kadācit -- synonyms, prabhupada.io",
+    "description":"at any time (past, present or future); at any time; at some time; at that time (when Kṛṣṇa was three months old); certainly; occasionally; once; once upon a time; one day; sometimes; somewhere."
+}
+---
 
 ==== kadācit  ====
   * at any time (past, present or future) --- [[books:bg:2:20|Bg. 2.20]]

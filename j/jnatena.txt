@@ -1,5 +1,11 @@
-~~Title:jñātena~~
-{{description>being known; knowing.}}
+---json
+{
+    "name":"jñātena",
+    "h1":"jñātena",
+    "title":"jñātena -- synonyms, prabhupada.io",
+    "description":"being known; knowing."
+}
+---
 
 ==== jñātena  ====
   * being known --- [[books:cc:adi:2:20|Ādi 2.20]], [[books:cc:madhya:20:163|Madhya 20.163]], [[books:cc:madhya:20:376|Madhya 20.376]]

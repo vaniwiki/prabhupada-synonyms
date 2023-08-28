@@ -1,5 +1,11 @@
-~~Title:asmṛtim~~
-{{description>no remembrance.}}
+---json
+{
+    "name":"asmṛtim",
+    "h1":"asmṛtim",
+    "title":"asmṛtim -- synonyms, prabhupada.io",
+    "description":"no remembrance."
+}
+---
 
 ==== asmṛtim  ====
   * no remembrance --- [[books:sb:9:16:7|SB 9.16.7]]

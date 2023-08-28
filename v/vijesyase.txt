@@ -1,5 +1,11 @@
-~~Title:vijeṣyase~~
-{{description>you will conquer.}}
+---json
+{
+    "name":"vijeṣyase",
+    "h1":"vijeṣyase",
+    "title":"vijeṣyase -- synonyms, prabhupada.io",
+    "description":"you will conquer."
+}
+---
 
 ==== vijeṣyase  ====
   * you will conquer --- [[books:sb:6:8:35|SB 6.8.35]]

@@ -1,5 +1,11 @@
-~~Title:yamam~~
-{{description>to Yamarāja; Yamarāja; Yamarāja, the superintendent of death.}}
+---json
+{
+    "name":"yamam",
+    "h1":"yamam",
+    "title":"yamam -- synonyms, prabhupada.io",
+    "description":"to Yamarāja; Yamarāja; Yamarāja, the superintendent of death."
+}
+---
 
 ==== yamam  ====
   * to Yamarāja --- [[books:sb:6:6:40|SB 6.6.40]]

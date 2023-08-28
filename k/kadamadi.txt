@@ -1,5 +1,11 @@
-~~Title:kaḍamaḍi~~
-{{description>gnashing.}}
+---json
+{
+    "name":"kaḍamaḍi",
+    "h1":"kaḍamaḍi",
+    "title":"kaḍamaḍi -- synonyms, prabhupada.io",
+    "description":"gnashing."
+}
+---
 
 ==== kaḍamaḍi  ====
   * gnashing --- [[books:cc:adi:17:180|Ādi 17.180]]

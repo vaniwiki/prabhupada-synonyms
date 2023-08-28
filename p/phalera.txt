@@ -1,5 +1,11 @@
-~~Title:phalera~~
-{{description>of the result.}}
+---json
+{
+    "name":"phalera",
+    "h1":"phalera",
+    "title":"phalera -- synonyms, prabhupada.io",
+    "description":"of the result."
+}
+---
 
 ==== phalera  ====
   * of the result --- [[books:cc:madhya:9:258|Madhya 9.258]]

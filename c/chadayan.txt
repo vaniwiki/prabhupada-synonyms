@@ -1,5 +1,11 @@
-~~Title:chādayan~~
-{{description>covering all of space up to that.}}
+---json
+{
+    "name":"chādayan",
+    "h1":"chādayan",
+    "title":"chādayan -- synonyms, prabhupada.io",
+    "description":"covering all of space up to that."
+}
+---
 
 ==== chādayan  ====
   * covering all of space up to that --- [[books:sb:8:10:38|SB 8.10.38]]

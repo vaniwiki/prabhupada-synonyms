@@ -1,5 +1,11 @@
-~~Title:duṣi'~~
-{{description>condemning.}}
+---json
+{
+    "name":"duṣi'",
+    "h1":"duṣi'",
+    "title":"duṣi' -- synonyms, prabhupada.io",
+    "description":"condemning."
+}
+---
 
 ==== duṣi'  ====
   * condemning --- [[books:cc:madhya:9:43|Madhya 9.43]]

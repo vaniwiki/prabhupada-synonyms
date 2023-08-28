@@ -1,5 +1,11 @@
-~~Title:virodhi~~
-{{description>contradictory.}}
+---json
+{
+    "name":"virodhi",
+    "h1":"virodhi",
+    "title":"virodhi -- synonyms, prabhupada.io",
+    "description":"contradictory."
+}
+---
 
 ==== virodhi  ====
   * contradictory --- [[books:sb:4:4:20|SB 4.4.20]]

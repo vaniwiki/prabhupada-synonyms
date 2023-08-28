@@ -1,5 +1,11 @@
-~~Title:aviruddha~~
-{{description>not against the religious principles.}}
+---json
+{
+    "name":"aviruddha",
+    "h1":"aviruddha",
+    "title":"aviruddha -- synonyms, prabhupada.io",
+    "description":"not against the religious principles."
+}
+---
 
 ==== dharma-aviruddha  ====
   * not against the religious principles --- [[books:bg:7:11|Bg. 7.11]]

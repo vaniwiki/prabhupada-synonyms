@@ -1,5 +1,11 @@
-~~Title:bhaktimān~~
-{{description>devotee; engaged in devotion.}}
+---json
+{
+    "name":"bhaktimān",
+    "h1":"bhaktimān",
+    "title":"bhaktimān -- synonyms, prabhupada.io",
+    "description":"devotee; engaged in devotion."
+}
+---
 
 ==== bhaktimān  ====
   * devotee --- [[books:bg:12:17|Bg. 12.17]], [[books:cc:madhya:23:111-112|Madhya 23.111-112]]

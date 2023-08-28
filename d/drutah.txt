@@ -1,5 +1,11 @@
-~~Title:drutaḥ~~
-{{description>he fled.}}
+---json
+{
+    "name":"drutaḥ",
+    "h1":"drutaḥ",
+    "title":"drutaḥ -- synonyms, prabhupada.io",
+    "description":"he fled."
+}
+---
 
 ==== drutaḥ  ====
   * he fled --- [[books:sb:9:13:20-21|SB 9.13.20-21]]

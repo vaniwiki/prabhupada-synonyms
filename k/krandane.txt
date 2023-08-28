@@ -1,5 +1,11 @@
-~~Title:krandane~~
-{{description>cries.}}
+---json
+{
+    "name":"krandane",
+    "h1":"krandane",
+    "title":"krandane -- synonyms, prabhupada.io",
+    "description":"cries."
+}
+---
 
 ==== krandane  ====
   * cries --- [[books:cc:madhya:2:9|Madhya 2.9]]

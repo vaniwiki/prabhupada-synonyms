@@ -1,5 +1,11 @@
-~~Title:kuḍyāni~~
-{{description>walls.}}
+---json
+{
+    "name":"kuḍyāni",
+    "h1":"kuḍyāni",
+    "title":"kuḍyāni -- synonyms, prabhupada.io",
+    "description":"walls."
+}
+---
 
 ==== kuḍyāni  ====
   * walls --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

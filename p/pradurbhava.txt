@@ -1,5 +1,11 @@
-~~Title:prādurbhāva~~
-{{description>appearance.}}
+---json
+{
+    "name":"prādurbhāva",
+    "h1":"prādurbhāva",
+    "title":"prādurbhāva -- synonyms, prabhupada.io",
+    "description":"appearance."
+}
+---
 
 ==== prādurbhāva  ====
   * appearance --- [[books:sb:4:1:23|SB 4.1.23]]

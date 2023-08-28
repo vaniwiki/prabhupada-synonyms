@@ -1,5 +1,11 @@
-~~Title:lakṣya~~
-{{description>aim; the target.}}
+---json
+{
+    "name":"lakṣya",
+    "h1":"lakṣya",
+    "title":"lakṣya -- synonyms, prabhupada.io",
+    "description":"aim; the target."
+}
+---
 
 ==== lakṣya  ====
   * aim --- [[books:cc:antya:7:146|Antya 7.146]]

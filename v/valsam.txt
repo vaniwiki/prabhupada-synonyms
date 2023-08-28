@@ -1,5 +1,11 @@
-~~Title:valśam~~
-{{description>shoulders.}}
+---json
+{
+    "name":"valśam",
+    "h1":"valśam",
+    "title":"valśam -- synonyms, prabhupada.io",
+    "description":"shoulders."
+}
+---
 
 ==== valśam  ====
   * shoulders --- [[books:sb:3:8:29|SB 3.8.29]]

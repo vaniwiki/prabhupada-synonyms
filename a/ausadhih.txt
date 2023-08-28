@@ -1,5 +1,11 @@
-~~Title:ausadhih~~
-{{description>all vegetables; and drugs; drugs and herbs.}}
+---json
+{
+    "name":"ausadhih",
+    "h1":"ausadhih",
+    "title":"ausadhih -- synonyms, prabhupada.io",
+    "description":"all vegetables; and drugs; drugs and herbs."
+}
+---
 
 ==== auṣadhīḥ  ====
   * all vegetables --- [[books:bg:15:13|Bg. 15.13]]

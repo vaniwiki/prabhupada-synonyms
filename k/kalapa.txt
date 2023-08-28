@@ -1,5 +1,11 @@
-~~Title:kalāpa~~
-{{description>the Kalāpa-vyākaraṇa; with a collection.}}
+---json
+{
+    "name":"kalāpa",
+    "h1":"kalāpa",
+    "title":"kalāpa -- synonyms, prabhupada.io",
+    "description":"the Kalāpa-vyākaraṇa; with a collection."
+}
+---
 
 ==== kalāpa  ====
   * the //Kalāpa-vyākaraṇa// --- [[books:cc:adi:16:32|Ādi 16.32]]

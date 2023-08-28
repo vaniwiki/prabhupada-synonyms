@@ -1,5 +1,11 @@
-~~Title:śilī~~
-{{description>arrows; by the arrows.}}
+---json
+{
+    "name":"śilī",
+    "h1":"śilī",
+    "title":"śilī -- synonyms, prabhupada.io",
+    "description":"arrows; by the arrows."
+}
+---
 
 ==== śilī-mukhaiḥ  ====
   * arrows --- [[books:sb:4:11:4|SB 4.11.4]]

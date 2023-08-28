@@ -1,5 +1,11 @@
-~~Title:pacyam~~
-{{description>grains grown by tilling of the field.}}
+---json
+{
+    "name":"pacyam",
+    "h1":"pacyam",
+    "title":"pacyam -- synonyms, prabhupada.io",
+    "description":"grains grown by tilling of the field."
+}
+---
 
 ==== kṛṣṭa-pacyam  ====
   * grains grown by tilling of the field --- [[books:sb:7:12:18|SB 7.12.18]]

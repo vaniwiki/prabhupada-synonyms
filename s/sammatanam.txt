@@ -1,5 +1,11 @@
-~~Title:sammatānām~~
-{{description>since approved by them.}}
+---json
+{
+    "name":"sammatānām",
+    "h1":"sammatānām",
+    "title":"sammatānām -- synonyms, prabhupada.io",
+    "description":"since approved by them."
+}
+---
 
 ==== sammatānām  ====
   * since approved by them --- [[books:sb:4:22:23|SB 4.22.23]]

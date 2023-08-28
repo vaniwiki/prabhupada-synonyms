@@ -1,5 +1,11 @@
-~~Title:valkala~~
-{{description>or skin; skin; the bark of a tree.}}
+---json
+{
+    "name":"valkala",
+    "h1":"valkala",
+    "title":"valkala -- synonyms, prabhupada.io",
+    "description":"or skin; skin; the bark of a tree."
+}
+---
 
 ==== valkala  ====
   * or skin --- [[books:cc:adi:17:83|Ādi 17.83]]

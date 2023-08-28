@@ -1,5 +1,11 @@
-~~Title:parāṇe~~
-{{description>life.}}
+---json
+{
+    "name":"parāṇe",
+    "h1":"parāṇe",
+    "title":"parāṇe -- synonyms, prabhupada.io",
+    "description":"life."
+}
+---
 
 ==== parāṇe  ====
   * life --- [[books:cc:antya:15:17|Antya 15.17]], [[books:cc:antya:15:18|Antya 15.18]]

@@ -1,5 +1,11 @@
-~~Title:pautrah~~
-{{description>grandchild; the grandson.}}
+---json
+{
+    "name":"pautrah",
+    "h1":"pautrah",
+    "title":"pautrah -- synonyms, prabhupada.io",
+    "description":"grandchild; the grandson."
+}
+---
 
 ==== pautraḥ  ====
   * grandchild --- [[books:sb:3:14:50|SB 3.14.50]]

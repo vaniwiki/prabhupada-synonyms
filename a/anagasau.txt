@@ -1,5 +1,11 @@
-~~Title:anāgasau~~
-{{description>sinless.}}
+---json
+{
+    "name":"anāgasau",
+    "h1":"anāgasau",
+    "title":"anāgasau -- synonyms, prabhupada.io",
+    "description":"sinless."
+}
+---
 
 ==== anāgasau  ====
   * sinless --- [[books:sb:3:16:25|SB 3.16.25]]

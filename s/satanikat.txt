@@ -1,5 +1,11 @@
-~~Title:śatānīkāt~~
-{{description>from Śatānīka.}}
+---json
+{
+    "name":"śatānīkāt",
+    "h1":"śatānīkāt",
+    "title":"śatānīkāt -- synonyms, prabhupada.io",
+    "description":"from Śatānīka."
+}
+---
 
 ==== śatānīkāt  ====
   * from Śatānīka --- [[books:sb:9:22:43|SB 9.22.43]]

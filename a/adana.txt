@@ -1,5 +1,11 @@
-~~Title:ādāna~~
-{{description>realization.}}
+---json
+{
+    "name":"ādāna",
+    "h1":"ādāna",
+    "title":"ādāna -- synonyms, prabhupada.io",
+    "description":"realization."
+}
+---
 
 ==== ādāna  ====
   * realization --- [[books:sb:4:24:6|SB 4.24.6]]

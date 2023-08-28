@@ -1,5 +1,11 @@
-~~Title:śreyas~~
-{{description>desiring the best benefit in life.}}
+---json
+{
+    "name":"śreyas",
+    "h1":"śreyas",
+    "title":"śreyas -- synonyms, prabhupada.io",
+    "description":"desiring the best benefit in life."
+}
+---
 
 ==== śreyas-kāmāḥ  ====
   * desiring the best benefit in life --- [[books:sb:7:9:54|SB 7.9.54]]

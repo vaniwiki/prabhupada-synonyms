@@ -1,5 +1,11 @@
-~~Title:ālokana~~
-{{description>with the nectar of the glance.}}
+---json
+{
+    "name":"ālokana",
+    "h1":"ālokana",
+    "title":"ālokana -- synonyms, prabhupada.io",
+    "description":"with the nectar of the glance."
+}
+---
 
 ==== ālokana-amṛtaiḥ  ====
   * with the nectar of the glance --- [[books:cc:madhya:16:1|Madhya 16.1]]

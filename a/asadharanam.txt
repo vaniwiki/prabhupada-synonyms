@@ -1,5 +1,11 @@
-~~Title:asādhāraṇam~~
-{{description>uncommon.}}
+---json
+{
+    "name":"asādhāraṇam",
+    "h1":"asādhāraṇam",
+    "title":"asādhāraṇam -- synonyms, prabhupada.io",
+    "description":"uncommon."
+}
+---
 
 ==== asādhāraṇam  ====
   * uncommon --- [[books:cc:madhya:23:84-85|Madhya 23.84-85]]

@@ -1,5 +1,11 @@
-~~Title:dūtānām~~
-{{description>of the order carriers.}}
+---json
+{
+    "name":"dūtānām",
+    "h1":"dūtānām",
+    "title":"dūtānām -- synonyms, prabhupada.io",
+    "description":"of the order carriers."
+}
+---
 
 ==== dūtānām  ====
   * of the order carriers --- [[books:sb:6:1:20|SB 6.1.20]], [[books:sb:6:2:24-25|SB 6.2.24-25]]

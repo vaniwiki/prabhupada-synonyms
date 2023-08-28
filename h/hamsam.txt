@@ -1,5 +1,11 @@
-~~Title:haṁsam~~
-{{description>a swan; one who kills the distress of his kinsmen; the living entity.}}
+---json
+{
+    "name":"haṁsam",
+    "h1":"haṁsam",
+    "title":"haṁsam -- synonyms, prabhupada.io",
+    "description":"a swan; one who kills the distress of his kinsmen; the living entity."
+}
+---
 
 ==== haṁsam  ====
   * a swan --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

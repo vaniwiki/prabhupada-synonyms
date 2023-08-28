@@ -1,5 +1,11 @@
-~~Title:kahuk~~
-{{description>may inform.}}
+---json
+{
+    "name":"kahuk",
+    "h1":"kahuk",
+    "title":"kahuk -- synonyms, prabhupada.io",
+    "description":"may inform."
+}
+---
 
 ==== kahuk  ====
   * may inform --- [[books:cc:madhya:10:73|Madhya 10.73]]

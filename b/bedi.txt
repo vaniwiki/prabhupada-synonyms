@@ -1,5 +1,11 @@
-~~Title:beḍi'~~
-{{description>surrounding.}}
+---json
+{
+    "name":"beḍi'",
+    "h1":"beḍi'",
+    "title":"beḍi' -- synonyms, prabhupada.io",
+    "description":"surrounding."
+}
+---
 
 ==== beḍi'  ====
   * surrounding --- [[books:cc:antya:11:70|Antya 11.70]]

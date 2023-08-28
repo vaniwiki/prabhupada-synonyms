@@ -1,5 +1,11 @@
-~~Title:gosāñike~~
-{{description>unto Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"gosāñike",
+    "h1":"gosāñike",
+    "title":"gosāñike -- synonyms, prabhupada.io",
+    "description":"unto Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== caitanya-gosāñike  ====
   * unto Śrī Caitanya Mahāprabhu --- [[books:cc:adi:6:42|Ādi 6.42]]

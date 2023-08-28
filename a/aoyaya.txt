@@ -1,5 +1,11 @@
-~~Title:āoyaya~~
-{{description>comes.}}
+---json
+{
+    "name":"āoyaya",
+    "h1":"āoyaya",
+    "title":"āoyaya -- synonyms, prabhupada.io",
+    "description":"comes."
+}
+---
 
 ==== āoyaya  ====
   * comes --- [[books:cc:madhya:20:10-11|Madhya 20.10-11]]

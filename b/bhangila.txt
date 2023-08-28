@@ -1,5 +1,11 @@
-~~Title:bhangila~~
-{{description>has broken; was broken.}}
+---json
+{
+    "name":"bhangila",
+    "h1":"bhangila",
+    "title":"bhangila -- synonyms, prabhupada.io",
+    "description":"has broken; was broken."
+}
+---
 
 ==== bhāṅgila  ====
   * has broken --- [[books:cc:adi:17:204|Ādi 17.204]], [[books:cc:antya:19:51|Antya 19.51]]

@@ -1,5 +1,11 @@
-~~Title:pūraya~~
-{{description>fulfilled.}}
+---json
+{
+    "name":"pūraya",
+    "h1":"pūraya",
+    "title":"pūraya -- synonyms, prabhupada.io",
+    "description":"fulfilled."
+}
+---
 
 ==== pūraya  ====
   * fulfilled --- [[books:cc:adi:17:85|Ādi 17.85]]

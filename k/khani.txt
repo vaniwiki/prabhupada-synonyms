@@ -1,5 +1,11 @@
-~~Title:khani~~
-{{description>a mine; mine.}}
+---json
+{
+    "name":"khani",
+    "h1":"khani",
+    "title":"khani -- synonyms, prabhupada.io",
+    "description":"a mine; mine."
+}
+---
 
 ==== khani  ====
   * a mine --- [[books:cc:madhya:8:108|Madhya 8.108]]

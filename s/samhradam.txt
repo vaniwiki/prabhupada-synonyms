@@ -1,5 +1,11 @@
-~~Title:saṁhrādam~~
-{{description>Saṁhlāda.}}
+---json
+{
+    "name":"saṁhrādam",
+    "h1":"saṁhrādam",
+    "title":"saṁhrādam -- synonyms, prabhupada.io",
+    "description":"Saṁhlāda."
+}
+---
 
 ==== saṁhrādam  ====
   * Saṁhlāda --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

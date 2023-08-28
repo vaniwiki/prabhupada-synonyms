@@ -1,5 +1,11 @@
-~~Title:maṇibhiḥ~~
-{{description>by gems.}}
+---json
+{
+    "name":"maṇibhiḥ",
+    "h1":"maṇibhiḥ",
+    "title":"maṇibhiḥ -- synonyms, prabhupada.io",
+    "description":"by gems."
+}
+---
 
 ==== maṇibhiḥ  ====
   * by gems --- [[books:cc:antya:1:161|Antya 1.161]]

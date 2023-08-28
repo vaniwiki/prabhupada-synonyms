@@ -1,5 +1,11 @@
-~~Title:śvetadvīpa~~
-{{description>the island named Śvetadvīpa.}}
+---json
+{
+    "name":"śvetadvīpa",
+    "h1":"śvetadvīpa",
+    "title":"śvetadvīpa -- synonyms, prabhupada.io",
+    "description":"the island named Śvetadvīpa."
+}
+---
 
 ==== śvetadvīpa nāma  ====
   * the island named Śvetadvīpa --- [[books:cc:adi:5:111|Ādi 5.111]]

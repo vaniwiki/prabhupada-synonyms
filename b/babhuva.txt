@@ -1,5 +1,11 @@
-~~Title:babhūva~~
-{{description>appeared; became; he became; immediately became; remained; there was.}}
+---json
+{
+    "name":"babhūva",
+    "h1":"babhūva",
+    "title":"babhūva -- synonyms, prabhupada.io",
+    "description":"appeared; became; he became; immediately became; remained; there was."
+}
+---
 
 ==== babhūva  ====
   * appeared --- [[books:sb:8:6:36|SB 8.6.36]]

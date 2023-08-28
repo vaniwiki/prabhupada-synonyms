@@ -1,5 +1,11 @@
-~~Title:gatya~~
-{{description>force.}}
+---json
+{
+    "name":"gatya",
+    "h1":"gatya",
+    "title":"gatya -- synonyms, prabhupada.io",
+    "description":"force."
+}
+---
 
 ==== gatya  ====
   * force --- [[books:sb:2:2:20|SB 2.2.20]]

@@ -1,5 +1,11 @@
-~~Title:piyāse~~
-{{description>from thirst.}}
+---json
+{
+    "name":"piyāse",
+    "h1":"piyāse",
+    "title":"piyāse -- synonyms, prabhupada.io",
+    "description":"from thirst."
+}
+---
 
 ==== piyāse  ====
   * from thirst --- [[books:cc:antya:15:65|Antya 15.65]], [[books:cc:antya:17:45|Antya 17.45]]

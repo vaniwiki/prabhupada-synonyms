@@ -1,5 +1,11 @@
-~~Title:abṛhat~~
-{{description>without strictly following a vow of celibacy.}}
+---json
+{
+    "name":"abṛhat",
+    "h1":"abṛhat",
+    "title":"abṛhat -- synonyms, prabhupada.io",
+    "description":"without strictly following a vow of celibacy."
+}
+---
 
 ==== abṛhat-vrataḥ  ====
   * without strictly following a vow of celibacy --- [[books:sb:2:6:20|SB 2.6.20]]

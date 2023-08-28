@@ -1,5 +1,11 @@
-~~Title:ābhiḥ~~
-{{description>by the incarnations.}}
+---json
+{
+    "name":"ābhiḥ",
+    "h1":"ābhiḥ",
+    "title":"ābhiḥ -- synonyms, prabhupada.io",
+    "description":"by the incarnations."
+}
+---
 
 ==== ābhiḥ  ====
   * by the incarnations --- [[books:sb:8:14:3|SB 8.14.3]]

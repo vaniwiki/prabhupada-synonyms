@@ -1,5 +1,11 @@
-~~Title:upāramata~~
-{{description>now cease.}}
+---json
+{
+    "name":"upāramata",
+    "h1":"upāramata",
+    "title":"upāramata -- synonyms, prabhupada.io",
+    "description":"now cease."
+}
+---
 
 ==== upāramata  ====
   * now cease --- [[books:sb:8:11:44|SB 8.11.44]]

@@ -1,5 +1,11 @@
-~~Title:manuṣyatvam~~
-{{description>a human life.}}
+---json
+{
+    "name":"manuṣyatvam",
+    "h1":"manuṣyatvam",
+    "title":"manuṣyatvam -- synonyms, prabhupada.io",
+    "description":"a human life."
+}
+---
 
 ==== manuṣyatvam  ====
   * a human life --- [[books:sb:4:29:1a-2a|SB 4.29.1a-2a]]

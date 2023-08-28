@@ -1,5 +1,11 @@
-~~Title:buddhitvāt~~
-{{description>due to unintelligence.}}
+---json
+{
+    "name":"buddhitvāt",
+    "h1":"buddhitvāt",
+    "title":"buddhitvāt -- synonyms, prabhupada.io",
+    "description":"due to unintelligence."
+}
+---
 
 ==== akṛta-buddhitvāt  ====
   * due to unintelligence --- [[books:bg:18:16|Bg. 18.16]]

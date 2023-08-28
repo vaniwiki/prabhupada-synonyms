@@ -1,5 +1,11 @@
-~~Title:māmakaiḥ~~
-{{description>even by my relatives.}}
+---json
+{
+    "name":"māmakaiḥ",
+    "h1":"māmakaiḥ",
+    "title":"māmakaiḥ -- synonyms, prabhupada.io",
+    "description":"even by my relatives."
+}
+---
 
 ==== māmakaiḥ  ====
   * even by my relatives --- [[books:sb:10:8:10|SB 10.8.10]]

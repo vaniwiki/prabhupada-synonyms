@@ -1,5 +1,11 @@
-~~Title:hindure~~
-{{description>unto a Hindu.}}
+---json
+{
+    "name":"hindure",
+    "h1":"hindure",
+    "title":"hindure -- synonyms, prabhupada.io",
+    "description":"unto a Hindu."
+}
+---
 
 ==== hindure  ====
   * unto a Hindu --- [[books:cc:adi:17:198|Ādi 17.198]]

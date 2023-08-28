@@ -1,5 +1,11 @@
-~~Title:abrūta~~
-{{description>performed.}}
+---json
+{
+    "name":"abrūta",
+    "h1":"abrūta",
+    "title":"abrūta -- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== abrūta  ====
   * performed --- [[books:sb:8:5:25|SB 8.5.25]]

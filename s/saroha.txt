@@ -1,5 +1,11 @@
-~~Title:sāroha~~
-{{description>carriers with the riders.}}
+---json
+{
+    "name":"sāroha",
+    "h1":"sāroha",
+    "title":"sāroha -- synonyms, prabhupada.io",
+    "description":"carriers with the riders."
+}
+---
 
 ==== sāroha-vāhāḥ  ====
   * carriers with the riders --- [[books:sb:8:10:37|SB 8.10.37]]

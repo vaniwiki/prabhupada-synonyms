@@ -1,5 +1,11 @@
-~~Title:saṁstutam~~
-{{description>worshiped with prayers.}}
+---json
+{
+    "name":"saṁstutam",
+    "h1":"saṁstutam",
+    "title":"saṁstutam -- synonyms, prabhupada.io",
+    "description":"worshiped with prayers."
+}
+---
 
 ==== saṁstutam  ====
   * worshiped with prayers --- [[books:sb:9:11:5|SB 9.11.5]]

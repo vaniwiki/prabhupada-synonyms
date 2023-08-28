@@ -1,5 +1,11 @@
-~~Title:vāmanatvāt~~
-{{description>and because of being a dwarf.}}
+---json
+{
+    "name":"vāmanatvāt",
+    "h1":"vāmanatvāt",
+    "title":"vāmanatvāt -- synonyms, prabhupada.io",
+    "description":"and because of being a dwarf."
+}
+---
 
 ==== vāmanatvāt ca  ====
   * and because of being a dwarf --- [[books:sb:10:3:42|SB 10.3.42]]

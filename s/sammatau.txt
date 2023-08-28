@@ -1,5 +1,11 @@
-~~Title:sammatau~~
-{{description>approved (by śāstra and great personalities); confidential servants.}}
+---json
+{
+    "name":"sammatau",
+    "h1":"sammatau",
+    "title":"sammatau -- synonyms, prabhupada.io",
+    "description":"approved (by śāstra and great personalities); confidential servants."
+}
+---
 
 ==== sammatau  ====
   * approved (by //śāstra// and great personalities) --- [[books:sb:6:10:33|SB 6.10.33]]

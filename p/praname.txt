@@ -1,5 +1,11 @@
-~~Title:praṇāme~~
-{{description>and obeisances; to the obeisances.}}
+---json
+{
+    "name":"praṇāme",
+    "h1":"praṇāme",
+    "title":"praṇāme -- synonyms, prabhupada.io",
+    "description":"and obeisances; to the obeisances."
+}
+---
 
 ==== praṇāme  ====
   * and obeisances --- [[books:cc:madhya:7:113|Madhya 7.113]]

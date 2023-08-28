@@ -1,5 +1,11 @@
-~~Title:locanah~~
-{{description>eyes; he who has the eyes; in the eyes; one who has such eyes; whose eyes.}}
+---json
+{
+    "name":"locanah",
+    "h1":"locanah",
+    "title":"locanah -- synonyms, prabhupada.io",
+    "description":"eyes; he who has the eyes; in the eyes; one who has such eyes; whose eyes."
+}
+---
 
 ==== locanaḥ  ====
   * eyes --- [[books:sb:3:19:26|SB 3.19.26]], [[books:sb:7:8:30|SB 7.8.30]]

@@ -1,5 +1,11 @@
-~~Title:havīṁṣi~~
-{{description>offerings of clarified butter; sacrificial offerings.}}
+---json
+{
+    "name":"havīṁṣi",
+    "h1":"havīṁṣi",
+    "title":"havīṁṣi -- synonyms, prabhupada.io",
+    "description":"offerings of clarified butter; sacrificial offerings."
+}
+---
 
 ==== havīṁṣi  ====
   * offerings of clarified butter --- [[books:sb:4:13:26|SB 4.13.26]]

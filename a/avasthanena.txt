@@ -1,5 +1,11 @@
-~~Title:avasthānena~~
-{{description>by being situated.}}
+---json
+{
+    "name":"avasthānena",
+    "h1":"avasthānena",
+    "title":"avasthānena -- synonyms, prabhupada.io",
+    "description":"by being situated."
+}
+---
 
 ==== avasthānena  ====
   * by being situated --- [[books:sb:5:5:30|SB 5.5.30]]

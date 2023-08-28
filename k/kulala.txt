@@ -1,5 +1,11 @@
-~~Title:kulāla~~
-{{description>a potter's wheel.}}
+---json
+{
+    "name":"kulāla",
+    "h1":"kulāla",
+    "title":"kulāla -- synonyms, prabhupada.io",
+    "description":"a potter's wheel."
+}
+---
 
 ==== kulāla-cakreṇa  ====
   * a potter's wheel --- [[books:sb:5:22:2|SB 5.22.2]]

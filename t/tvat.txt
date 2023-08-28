@@ -1,5 +1,11 @@
-~~Title:tvat~~
-{{description>but for You; by You; from You; from your good self; in You; of You; than You; to You; you; Your; Yourself.}}
+---json
+{
+    "name":"tvat",
+    "h1":"tvat",
+    "title":"tvat -- synonyms, prabhupada.io",
+    "description":"but for You; by You; from You; from your good self; in You; of You; than You; to You; you; Your; Yourself."
+}
+---
 
 ==== tvat  ====
   * but for You --- [[books:sb:7:9:44|SB 7.9.44]]

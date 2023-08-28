@@ -1,5 +1,11 @@
-~~Title:sasanah~~
-{{description>whose ruling.}}
+---json
+{
+    "name":"sasanah",
+    "h1":"sasanah",
+    "title":"sasanah -- synonyms, prabhupada.io",
+    "description":"whose ruling."
+}
+---
 
 ==== śāsanaḥ  ====
   * whose ruling --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

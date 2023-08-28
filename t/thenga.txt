@@ -1,5 +1,11 @@
-~~Title:ṭheṅgā~~
-{{description>stick.}}
+---json
+{
+    "name":"ṭheṅgā",
+    "h1":"ṭheṅgā",
+    "title":"ṭheṅgā -- synonyms, prabhupada.io",
+    "description":"stick."
+}
+---
 
 ==== ṭheṅgā  ====
   * stick --- [[books:cc:adi:17:250|Ādi 17.250]], [[books:cc:madhya:5:51|Madhya 5.51]]

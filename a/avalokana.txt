@@ -1,5 +1,11 @@
-~~Title:avalokana~~
-{{description>by glances; looking at.}}
+---json
+{
+    "name":"avalokana",
+    "h1":"avalokana",
+    "title":"avalokana -- synonyms, prabhupada.io",
+    "description":"by glances; looking at."
+}
+---
 
 ==== avalokana  ====
   * by glances --- [[books:sb:5:24:16|SB 5.24.16]]

@@ -1,5 +1,11 @@
-~~Title:seikahe~~
-{{description>the Mohammedan governor said.}}
+---json
+{
+    "name":"seikahe",
+    "h1":"seikahe",
+    "title":"seikahe -- synonyms, prabhupada.io",
+    "description":"the Mohammedan governor said."
+}
+---
 
 ==== seikahe  ====
   * the Mohammedan governor said --- [[books:cc:madhya:16:188|Madhya 16.188]]

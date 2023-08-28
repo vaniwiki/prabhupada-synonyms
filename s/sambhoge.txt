@@ -1,5 +1,11 @@
-~~Title:sambhoge~~
-{{description>in actually meeting.}}
+---json
+{
+    "name":"sambhoge",
+    "h1":"sambhoge",
+    "title":"sambhoge -- synonyms, prabhupada.io",
+    "description":"in actually meeting."
+}
+---
 
 ==== sambhoge  ====
   * in actually meeting --- [[books:cc:madhya:23:58|Madhya 23.58]]

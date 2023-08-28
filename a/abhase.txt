@@ -1,5 +1,11 @@
-~~Title:ābhāse~~
-{{description>when there is indication.}}
+---json
+{
+    "name":"ābhāse",
+    "h1":"ābhāse",
+    "title":"ābhāse -- synonyms, prabhupada.io",
+    "description":"when there is indication."
+}
+---
 
 ==== ābhāse  ====
   * when there is indication --- [[books:cc:madhya:20:368|Madhya 20.368]]

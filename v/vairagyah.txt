@@ -1,5 +1,11 @@
-~~Title:vairāgyaḥ~~
-{{description>detachment is born.}}
+---json
+{
+    "name":"vairāgyaḥ",
+    "h1":"vairāgyaḥ",
+    "title":"vairāgyaḥ -- synonyms, prabhupada.io",
+    "description":"detachment is born."
+}
+---
 
 ==== jāta-vairāgyaḥ  ====
   * detachment is born --- [[books:sb:3:27:27|SB 3.27.27]]

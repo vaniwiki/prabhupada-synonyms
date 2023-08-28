@@ -1,5 +1,11 @@
-~~Title:grahodaye~~
-{{description>constellation of stellar influence.}}
+---json
+{
+    "name":"grahodaye",
+    "h1":"grahodaye",
+    "title":"grahodaye -- synonyms, prabhupada.io",
+    "description":"constellation of stellar influence."
+}
+---
 
 ==== grahodaye  ====
   * constellation of stellar influence --- [[books:sb:1:12:12|SB 1.12.12]]

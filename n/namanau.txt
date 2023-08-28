@@ -1,5 +1,11 @@
-~~Title:nāmānau~~
-{{description>having the names.}}
+---json
+{
+    "name":"nāmānau",
+    "h1":"nāmānau",
+    "title":"nāmānau -- synonyms, prabhupada.io",
+    "description":"having the names."
+}
+---
 
 ==== nāmānau  ====
   * having the names --- [[books:sb:5:20:31|SB 5.20.31]]

@@ -1,5 +1,11 @@
-~~Title:prajāyām~~
-{{description>children.}}
+---json
+{
+    "name":"prajāyām",
+    "h1":"prajāyām",
+    "title":"prajāyām -- synonyms, prabhupada.io",
+    "description":"children."
+}
+---
 
 ==== prajāyām  ====
   * children --- [[books:sb:5:3:13|SB 5.3.13]]

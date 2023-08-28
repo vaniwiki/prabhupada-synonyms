@@ -1,5 +1,11 @@
-~~Title:śakaṭam~~
-{{description>the handcart.}}
+---json
+{
+    "name":"śakaṭam",
+    "h1":"śakaṭam",
+    "title":"śakaṭam -- synonyms, prabhupada.io",
+    "description":"the handcart."
+}
+---
 
 ==== śakaṭam  ====
   * the handcart --- [[books:sb:10:7:8|SB 10.7.8]]

@@ -1,5 +1,11 @@
-~~Title:apratihatam~~
-{{description>invincible; not being impeded; undeviated from the instructions of the spiritual master.}}
+---json
+{
+    "name":"apratihatam",
+    "h1":"apratihatam",
+    "title":"apratihatam -- synonyms, prabhupada.io",
+    "description":"invincible; not being impeded; undeviated from the instructions of the spiritual master."
+}
+---
 
 ==== apratihatam  ====
   * invincible --- [[books:sb:4:15:9-10|SB 4.15.9-10]]

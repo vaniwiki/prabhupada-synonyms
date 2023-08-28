@@ -1,5 +1,11 @@
-~~Title:bṛhadraṇaḥ~~
-{{description>Bṛhadraṇa.}}
+---json
+{
+    "name":"bṛhadraṇaḥ",
+    "h1":"bṛhadraṇaḥ",
+    "title":"bṛhadraṇaḥ -- synonyms, prabhupada.io",
+    "description":"Bṛhadraṇa."
+}
+---
 
 ==== bṛhadraṇaḥ  ====
   * Bṛhadraṇa --- [[books:sb:9:12:9|SB 9.12.9]]

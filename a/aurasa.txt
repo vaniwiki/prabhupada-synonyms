@@ -1,5 +1,11 @@
-~~Title:aurasa~~
-{{description>as if they were his sons.}}
+---json
+{
+    "name":"aurasa",
+    "h1":"aurasa",
+    "title":"aurasa -- synonyms, prabhupada.io",
+    "description":"as if they were his sons."
+}
+---
 
 ==== aurasa-vat  ====
   * as if they were his sons --- [[books:sb:5:2:1|SB 5.2.1]]

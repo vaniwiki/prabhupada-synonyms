@@ -1,5 +1,11 @@
-~~Title:hima~~
-{{description>by cold; severe cold; snow.}}
+---json
+{
+    "name":"hima",
+    "h1":"hima",
+    "title":"hima -- synonyms, prabhupada.io",
+    "description":"by cold; severe cold; snow."
+}
+---
 
 ==== hima  ====
   * by cold --- [[books:sb:7:5:43-44|SB 7.5.43-44]]

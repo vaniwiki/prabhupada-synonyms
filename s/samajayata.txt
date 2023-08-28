@@ -1,5 +1,11 @@
-~~Title:samajāyata~~
-{{description>awakened; did continue; took birth; was born; was thus born.}}
+---json
+{
+    "name":"samajāyata",
+    "h1":"samajāyata",
+    "title":"samajāyata -- synonyms, prabhupada.io",
+    "description":"awakened; did continue; took birth; was born; was thus born."
+}
+---
 
 ==== samajāyata  ====
   * awakened --- [[books:sb:3:3:22|SB 3.3.22]]

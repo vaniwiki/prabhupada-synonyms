@@ -1,5 +1,11 @@
-~~Title:sutena~~
-{{description>by Hiraṇyakaśipu, the son of Diti.}}
+---json
+{
+    "name":"sutena",
+    "h1":"sutena",
+    "title":"sutena -- synonyms, prabhupada.io",
+    "description":"by Hiraṇyakaśipu, the son of Diti."
+}
+---
 
 ==== diti-sutena  ====
   * by Hiraṇyakaśipu, the son of Diti --- [[books:sb:7:8:52|SB 7.8.52]]

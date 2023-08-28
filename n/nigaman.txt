@@ -1,5 +1,11 @@
-~~Title:nigamān~~
-{{description>Vedic injunctions.}}
+---json
+{
+    "name":"nigamān",
+    "h1":"nigamān",
+    "title":"nigamān -- synonyms, prabhupada.io",
+    "description":"Vedic injunctions."
+}
+---
 
 ==== nigamān  ====
   * Vedic injunctions --- [[books:sb:7:10:27|SB 7.10.27]]

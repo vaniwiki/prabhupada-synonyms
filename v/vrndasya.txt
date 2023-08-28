@@ -1,5 +1,11 @@
-~~Title:vṛndasya~~
-{{description>of the multitude of lovers.}}
+---json
+{
+    "name":"vṛndasya",
+    "h1":"vṛndasya",
+    "title":"vṛndasya -- synonyms, prabhupada.io",
+    "description":"of the multitude of lovers."
+}
+---
 
 ==== praṇayi-jana-vṛndasya  ====
   * of the multitude of lovers --- [[books:cc:adi:4:52|Ādi 4.52]], [[books:cc:adi:4:275|Ādi 4.275]]

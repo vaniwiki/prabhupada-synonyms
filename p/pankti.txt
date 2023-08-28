@@ -1,5 +1,11 @@
-~~Title:paṅkti~~
-{{description>of lines of teeth.}}
+---json
+{
+    "name":"paṅkti",
+    "h1":"paṅkti",
+    "title":"paṅkti -- synonyms, prabhupada.io",
+    "description":"of lines of teeth."
+}
+---
 
 ==== dvija-paṅkti  ====
   * of lines of teeth --- [[books:sb:5:2:13|SB 5.2.13]]

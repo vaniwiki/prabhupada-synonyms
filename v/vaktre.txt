@@ -1,5 +1,11 @@
-~~Title:vaktre~~
-{{description>in the mouth.}}
+---json
+{
+    "name":"vaktre",
+    "h1":"vaktre",
+    "title":"vaktre -- synonyms, prabhupada.io",
+    "description":"in the mouth."
+}
+---
 
 ==== vaktre  ====
   * in the mouth --- [[books:sb:5:2:12|SB 5.2.12]]

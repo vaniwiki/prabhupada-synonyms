@@ -1,5 +1,11 @@
-~~Title:mayah~~
-{{description>full; full of; made of; Maya; Maya Dānava; representative; the great demon Maya Dānava.}}
+---json
+{
+    "name":"mayah",
+    "h1":"mayah",
+    "title":"mayah -- synonyms, prabhupada.io",
+    "description":"full; full of; made of; Maya; Maya Dānava; representative; the great demon Maya Dānava."
+}
+---
 
 ==== mayaḥ  ====
   * full --- [[books:bg:17:3|Bg. 17.3]]

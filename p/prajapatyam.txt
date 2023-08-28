@@ -1,5 +1,11 @@
-~~Title:prajapatyam~~
-{{description>of the great Prajāpati; to execute the vow for one year.}}
+---json
+{
+    "name":"prajapatyam",
+    "h1":"prajapatyam",
+    "title":"prajapatyam -- synonyms, prabhupada.io",
+    "description":"of the great Prajāpati; to execute the vow for one year."
+}
+---
 
 ==== prājāpatyam  ====
   * of the great Prajāpati --- [[books:sb:3:15:1|SB 3.15.1]]

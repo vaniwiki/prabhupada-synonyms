@@ -1,5 +1,11 @@
-~~Title:ache~~
-{{description>is.}}
+---json
+{
+    "name":"ache",
+    "h1":"ache",
+    "title":"ache -- synonyms, prabhupada.io",
+    "description":"is."
+}
+---
 
 ==== ache  ====
   * is --- [[books:cc:antya:6:217|Antya 6.217]]

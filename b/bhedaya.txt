@@ -1,5 +1,11 @@
-~~Title:bhedāya~~
-{{description>the differentiated mode of passion.}}
+---json
+{
+    "name":"bhedāya",
+    "h1":"bhedāya",
+    "title":"bhedāya -- synonyms, prabhupada.io",
+    "description":"the differentiated mode of passion."
+}
+---
 
 ==== guṇa-bhedāya  ====
   * the differentiated mode of passion --- [[books:sb:3:15:5|SB 3.15.5]]

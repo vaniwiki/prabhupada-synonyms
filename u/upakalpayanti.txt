@@ -1,5 +1,11 @@
-~~Title:upakalpayanti~~
-{{description>are situated.}}
+---json
+{
+    "name":"upakalpayanti",
+    "h1":"upakalpayanti",
+    "title":"upakalpayanti -- synonyms, prabhupada.io",
+    "description":"are situated."
+}
+---
 
 ==== upakalpayanti  ====
   * are situated --- [[books:sb:5:23:5|SB 5.23.5]]

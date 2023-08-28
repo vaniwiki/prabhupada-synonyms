@@ -1,5 +1,11 @@
-~~Title:māritechila~~
-{{description>condemned to death.}}
+---json
+{
+    "name":"māritechila",
+    "h1":"māritechila",
+    "title":"māritechila -- synonyms, prabhupada.io",
+    "description":"condemned to death."
+}
+---
 
 ==== māritechila  ====
   * condemned to death --- [[books:cc:madhya:1:265|Madhya 1.265]]

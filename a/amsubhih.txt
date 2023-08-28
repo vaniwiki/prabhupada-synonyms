@@ -1,5 +1,11 @@
-~~Title:aṁśubhiḥ~~
-{{description>by the beams.}}
+---json
+{
+    "name":"aṁśubhiḥ",
+    "h1":"aṁśubhiḥ",
+    "title":"aṁśubhiḥ -- synonyms, prabhupada.io",
+    "description":"by the beams."
+}
+---
 
 ==== aṁśubhiḥ  ====
   * by the beams --- [[books:sb:7:3:3|SB 7.3.3]]

@@ -1,5 +1,11 @@
-~~Title:glāni~~
-{{description>bereavement.}}
+---json
+{
+    "name":"glāni",
+    "h1":"glāni",
+    "title":"glāni -- synonyms, prabhupada.io",
+    "description":"bereavement."
+}
+---
 
 ==== glāni  ====
   * bereavement --- [[books:sb:9:10:53|SB 9.10.53]]

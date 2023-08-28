@@ -1,5 +1,11 @@
-~~Title:ambujāt~~
-{{description>from a lotus flower; from the lotus.}}
+---json
+{
+    "name":"ambujāt",
+    "h1":"ambujāt",
+    "title":"ambujāt -- synonyms, prabhupada.io",
+    "description":"from a lotus flower; from the lotus."
+}
+---
 
 ==== ambujāt  ====
   * from a lotus flower --- [[books:cc:adi:16:82|Ādi 16.82]]

@@ -1,5 +1,11 @@
-~~Title:argala~~
-{{description>long bolts.}}
+---json
+{
+    "name":"argala",
+    "h1":"argala",
+    "title":"argala -- synonyms, prabhupada.io",
+    "description":"long bolts."
+}
+---
 
 ==== dīrgha-argala  ====
   * long bolts --- [[books:cc:antya:15:75|Antya 15.75]]

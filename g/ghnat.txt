@@ -1,5 +1,11 @@
-~~Title:ghnāt~~
-{{description>either a butcher or one who is killing his own personal existence.}}
+---json
+{
+    "name":"ghnāt",
+    "h1":"ghnāt",
+    "title":"ghnāt -- synonyms, prabhupada.io",
+    "description":"either a butcher or one who is killing his own personal existence."
+}
+---
 
 ==== paśu-ghnāt  ====
   * either a butcher or one who is killing his own personal existence --- [[books:sb:10:1:4|SB 10.1.4]]

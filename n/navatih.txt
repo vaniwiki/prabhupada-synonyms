@@ -1,5 +1,11 @@
-~~Title:ṇavatiḥ~~
-{{description>ninety-six.}}
+---json
+{
+    "name":"ṇavatiḥ",
+    "h1":"ṇavatiḥ",
+    "title":"ṇavatiḥ -- synonyms, prabhupada.io",
+    "description":"ninety-six."
+}
+---
 
 ==== ṣaṭ-ṇavatiḥ  ====
   * ninety-six --- [[books:sb:5:24:16|SB 5.24.16]]

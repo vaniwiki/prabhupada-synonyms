@@ -1,5 +1,11 @@
-~~Title:samṛddhān~~
-{{description>prosperous.}}
+---json
+{
+    "name":"samṛddhān",
+    "h1":"samṛddhān",
+    "title":"samṛddhān -- synonyms, prabhupada.io",
+    "description":"prosperous."
+}
+---
 
 ==== samṛddhān  ====
   * prosperous --- [[books:sb:8:18:32|SB 8.18.32]]

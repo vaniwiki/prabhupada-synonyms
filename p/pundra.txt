@@ -1,5 +1,11 @@
-~~Title:puṇḍra~~
-{{description>Puṇḍra.}}
+---json
+{
+    "name":"puṇḍra",
+    "h1":"puṇḍra",
+    "title":"puṇḍra -- synonyms, prabhupada.io",
+    "description":"Puṇḍra."
+}
+---
 
 ==== puṇḍra  ====
   * Puṇḍra --- [[books:sb:9:23:5|SB 9.23.5]]

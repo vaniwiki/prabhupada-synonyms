@@ -1,5 +1,11 @@
-~~Title:sāmarthye~~
-{{description>in the capacity.}}
+---json
+{
+    "name":"sāmarthye",
+    "h1":"sāmarthye",
+    "title":"sāmarthye -- synonyms, prabhupada.io",
+    "description":"in the capacity."
+}
+---
 
 ==== sāmarthye  ====
   * in the capacity --- [[books:cc:antya:17:50|Antya 17.50]]

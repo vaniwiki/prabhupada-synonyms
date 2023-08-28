@@ -1,5 +1,11 @@
-~~Title:prādhānye~~
-{{description>principally.}}
+---json
+{
+    "name":"prādhānye",
+    "h1":"prādhānye",
+    "title":"prādhānye -- synonyms, prabhupada.io",
+    "description":"principally."
+}
+---
 
 ==== prādhānye  ====
   * principally --- [[books:cc:madhya:6:195|Madhya 6.195]]

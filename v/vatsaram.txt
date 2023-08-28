@@ -1,5 +1,11 @@
-~~Title:vatsaram~~
-{{description>Vatsara.}}
+---json
+{
+    "name":"vatsaram",
+    "h1":"vatsaram",
+    "title":"vatsaram -- synonyms, prabhupada.io",
+    "description":"Vatsara."
+}
+---
 
 ==== vatsaram  ====
   * Vatsara --- [[books:sb:4:13:11|SB 4.13.11]], [[books:sb:5:22:7|SB 5.22.7]]

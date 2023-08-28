@@ -1,5 +1,11 @@
-~~Title:phaṇāsu~~
-{{description>on those hoods.}}
+---json
+{
+    "name":"phaṇāsu",
+    "h1":"phaṇāsu",
+    "title":"phaṇāsu -- synonyms, prabhupada.io",
+    "description":"on those hoods."
+}
+---
 
 ==== phaṇāsu  ====
   * on those hoods --- [[books:sb:5:24:31|SB 5.24.31]]

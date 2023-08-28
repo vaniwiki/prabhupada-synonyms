@@ -1,5 +1,11 @@
-~~Title:pronmīlat~~
-{{description>awakening.}}
+---json
+{
+    "name":"pronmīlat",
+    "h1":"pronmīlat",
+    "title":"pronmīlat -- synonyms, prabhupada.io",
+    "description":"awakening."
+}
+---
 
 ==== pronmīlat  ====
   * awakening --- [[books:cc:madhya:10:119|Madhya 10.119]]

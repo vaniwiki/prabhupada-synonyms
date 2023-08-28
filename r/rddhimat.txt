@@ -1,5 +1,11 @@
-~~Title:ṛddhimat~~
-{{description>prosperous.}}
+---json
+{
+    "name":"ṛddhimat",
+    "h1":"ṛddhimat",
+    "title":"ṛddhimat -- synonyms, prabhupada.io",
+    "description":"prosperous."
+}
+---
 
 ==== ṛddhimat  ====
   * prosperous --- [[books:sb:3:1:1|SB 3.1.1]]

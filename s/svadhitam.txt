@@ -1,5 +1,11 @@
-~~Title:svadhītam~~
-{{description>studied; well learned.}}
+---json
+{
+    "name":"svadhītam",
+    "h1":"svadhītam",
+    "title":"svadhītam -- synonyms, prabhupada.io",
+    "description":"studied; well learned."
+}
+---
 
 ==== svadhītam  ====
   * studied --- [[books:sb:4:30:39-40|SB 4.30.39-40]]

@@ -1,5 +1,11 @@
-~~Title:badarī~~
-{{description>badarī fruits; berry.}}
+---json
+{
+    "name":"badarī",
+    "h1":"badarī",
+    "title":"badarī -- synonyms, prabhupada.io",
+    "description":"badarī fruits; berry."
+}
+---
 
 ==== badarī  ====
   * //badarī// fruits --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

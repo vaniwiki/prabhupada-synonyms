@@ -1,5 +1,11 @@
-~~Title:hitaḥ~~
-{{description>beneficial; who does welfare.}}
+---json
+{
+    "name":"hitaḥ",
+    "h1":"hitaḥ",
+    "title":"hitaḥ -- synonyms, prabhupada.io",
+    "description":"beneficial; who does welfare."
+}
+---
 
 ==== hitaḥ  ====
   * beneficial --- [[books:sb:8:5:48|SB 8.5.48]]

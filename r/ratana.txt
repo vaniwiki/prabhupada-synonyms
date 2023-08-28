@@ -1,5 +1,11 @@
-~~Title:ratana~~
-{{description>bedecked with jewels; gems; this beautiful, transcendental, jewellike form.}}
+---json
+{
+    "name":"ratana",
+    "h1":"ratana",
+    "title":"ratana -- synonyms, prabhupada.io",
+    "description":"bedecked with jewels; gems; this beautiful, transcendental, jewellike form."
+}
+---
 
 ==== ratana  ====
   * bedecked with jewels --- [[books:cc:madhya:5:121|Madhya 5.121]]

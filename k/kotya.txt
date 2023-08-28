@@ -1,5 +1,11 @@
-~~Title:koṭyā~~
-{{description>by the edges; by the pointed end; with the curved edge.}}
+---json
+{
+    "name":"koṭyā",
+    "h1":"koṭyā",
+    "title":"koṭyā -- synonyms, prabhupada.io",
+    "description":"by the edges; by the pointed end; with the curved edge."
+}
+---
 
 ==== koṭyā  ====
   * by the edges --- [[books:sb:3:13:40|SB 3.13.40]]

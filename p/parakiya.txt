@@ -1,5 +1,11 @@
-~~Title:parakīyā~~
-{{description>and named parakīyā (another's).}}
+---json
+{
+    "name":"parakīyā",
+    "h1":"parakīyā",
+    "title":"parakīyā -- synonyms, prabhupada.io",
+    "description":"and named parakīyā (another's)."
+}
+---
 
 ==== parakīyā  ====
   * and named //parakīyā// (another's) --- [[books:cc:adi:4:46|Ādi 4.46]]

@@ -1,5 +1,11 @@
-~~Title:pracaranti~~
-{{description>they move.}}
+---json
+{
+    "name":"pracaranti",
+    "h1":"pracaranti",
+    "title":"pracaranti -- synonyms, prabhupada.io",
+    "description":"they move."
+}
+---
 
 ==== pracaranti  ====
   * they move --- [[books:sb:6:16:24|SB 6.16.24]]

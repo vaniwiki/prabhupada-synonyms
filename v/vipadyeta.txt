@@ -1,5 +1,11 @@
-~~Title:vipadyeta~~
-{{description>bewildered; fails; separate.}}
+---json
+{
+    "name":"vipadyeta",
+    "h1":"vipadyeta",
+    "title":"vipadyeta -- synonyms, prabhupada.io",
+    "description":"bewildered; fails; separate."
+}
+---
 
 ==== vipadyeta  ====
   * bewildered --- [[books:sb:7:12:22|SB 7.12.22]]

@@ -1,5 +1,11 @@
-~~Title:sannibhāni~~
-{{description>as if blazing.}}
+---json
+{
+    "name":"sannibhāni",
+    "h1":"sannibhāni",
+    "title":"sannibhāni -- synonyms, prabhupada.io",
+    "description":"as if blazing."
+}
+---
 
 ==== sannibhāni  ====
   * as if blazing --- [[books:bg:11:25|Bg. 11.25]]

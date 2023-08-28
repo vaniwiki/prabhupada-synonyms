@@ -1,5 +1,11 @@
-~~Title:saṁvṛtaḥ~~
-{{description>enclosed; surrounded; surrounded by.}}
+---json
+{
+    "name":"saṁvṛtaḥ",
+    "h1":"saṁvṛtaḥ",
+    "title":"saṁvṛtaḥ -- synonyms, prabhupada.io",
+    "description":"enclosed; surrounded; surrounded by."
+}
+---
 
 ==== saṁvṛtaḥ  ====
   * enclosed --- [[books:sb:3:31:8|SB 3.31.8]]

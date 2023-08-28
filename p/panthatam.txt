@@ -1,5 +1,11 @@
-~~Title:pānthatām~~
-{{description>a traveler on the path of the heart.}}
+---json
+{
+    "name":"pānthatām",
+    "h1":"pānthatām",
+    "title":"pānthatām -- synonyms, prabhupada.io",
+    "description":"a traveler on the path of the heart."
+}
+---
 
 ==== antaḥ-karaṇa-saraṇī-pānthatām  ====
   * a traveler on the path of the heart --- [[books:cc:madhya:19:165|Madhya 19.165]]

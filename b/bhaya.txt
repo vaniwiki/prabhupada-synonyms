@@ -1,5 +1,11 @@
-~~Title:bhaya~~
-{{description>afraid; and from fear; and sometimes by fear; fear; fearful; fearfulness; fearing; of fear.}}
+---json
+{
+    "name":"bhaya",
+    "h1":"bhaya",
+    "title":"bhaya -- synonyms, prabhupada.io",
+    "description":"afraid; and from fear; and sometimes by fear; fear; fearful; fearfulness; fearing; of fear."
+}
+---
 
 ==== bhaya  ====
   * afraid --- [[books:cc:adi:17:93|Ādi 17.93]]

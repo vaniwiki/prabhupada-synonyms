@@ -1,5 +1,11 @@
-~~Title:ṛkṣāṇi~~
-{{description>the stars.}}
+---json
+{
+    "name":"ṛkṣāṇi",
+    "h1":"ṛkṣāṇi",
+    "title":"ṛkṣāṇi -- synonyms, prabhupada.io",
+    "description":"the stars."
+}
+---
 
 ==== ṛkṣāṇi  ====
   * the stars --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

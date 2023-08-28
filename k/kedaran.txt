@@ -1,5 +1,11 @@
-~~Title:kedārān~~
-{{description>the fields.}}
+---json
+{
+    "name":"kedārān",
+    "h1":"kedārān",
+    "title":"kedārān -- synonyms, prabhupada.io",
+    "description":"the fields."
+}
+---
 
 ==== kedārān  ====
   * the fields --- [[books:sb:5:9:13|SB 5.9.13]]

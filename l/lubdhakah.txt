@@ -1,5 +1,11 @@
-~~Title:lubdhakaḥ~~
-{{description>a hunter; hunter; named Lubdhaka (very greedy); the hunter.}}
+---json
+{
+    "name":"lubdhakaḥ",
+    "h1":"lubdhakaḥ",
+    "title":"lubdhakaḥ -- synonyms, prabhupada.io",
+    "description":"a hunter; hunter; named Lubdhaka (very greedy); the hunter."
+}
+---
 
 ==== lubdhakaḥ  ====
   * a hunter --- [[books:cc:madhya:24:278|Madhya 24.278]]

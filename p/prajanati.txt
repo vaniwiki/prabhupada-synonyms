@@ -1,5 +1,11 @@
-~~Title:prajānati~~
-{{description>knows.}}
+---json
+{
+    "name":"prajānati",
+    "h1":"prajānati",
+    "title":"prajānati -- synonyms, prabhupada.io",
+    "description":"knows."
+}
+---
 
 ==== prajānati  ====
   * knows --- [[books:bg:18:31|Bg. 18.31]]

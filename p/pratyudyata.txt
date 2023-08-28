@@ -1,5 +1,11 @@
-~~Title:pratyudyata~~
-{{description>being offered presentations and worshipful regards.}}
+---json
+{
+    "name":"pratyudyata",
+    "h1":"pratyudyata",
+    "title":"pratyudyata -- synonyms, prabhupada.io",
+    "description":"being offered presentations and worshipful regards."
+}
+---
 
 ==== pratyudyata-arhaṇaḥ  ====
   * being offered presentations and worshipful regards --- [[books:sb:1:10:36|SB 1.10.36]]

@@ -1,5 +1,11 @@
-~~Title:sapta~~
-{{description>all together seven; seven; seven systems; sevenfold.}}
+---json
+{
+    "name":"sapta",
+    "h1":"sapta",
+    "title":"sapta -- synonyms, prabhupada.io",
+    "description":"all together seven; seven; seven systems; sevenfold."
+}
+---
 
 ==== sapta  ====
   * all together seven --- [[books:sb:3:26:50|SB 3.26.50]]

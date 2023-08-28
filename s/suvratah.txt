@@ -1,5 +1,11 @@
-~~Title:suvrataḥ~~
-{{description>a son named Suvrata.}}
+---json
+{
+    "name":"suvrataḥ",
+    "h1":"suvrataḥ",
+    "title":"suvrataḥ -- synonyms, prabhupada.io",
+    "description":"a son named Suvrata."
+}
+---
 
 ==== suvrataḥ  ====
   * a son named Suvrata --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

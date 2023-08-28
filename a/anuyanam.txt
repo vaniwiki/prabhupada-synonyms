@@ -1,5 +1,11 @@
-~~Title:anuyānam~~
-{{description>the following.}}
+---json
+{
+    "name":"anuyānam",
+    "h1":"anuyānam",
+    "title":"anuyānam -- synonyms, prabhupada.io",
+    "description":"the following."
+}
+---
 
 ==== anuyānam  ====
   * the following --- [[books:sb:7:2:34|SB 7.2.34]]

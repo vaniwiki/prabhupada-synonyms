@@ -1,5 +1,11 @@
-~~Title:ṭalamale~~
-{{description>tottering.}}
+---json
+{
+    "name":"ṭalamale",
+    "h1":"ṭalamale",
+    "title":"ṭalamale -- synonyms, prabhupada.io",
+    "description":"tottering."
+}
+---
 
 ==== ṭalamale  ====
   * tottering --- [[books:cc:madhya:2:57|Madhya 2.57]]

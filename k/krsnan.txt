@@ -1,5 +1,11 @@
-~~Title:kṛṣṇān~~
-{{description>with black bodies.}}
+---json
+{
+    "name":"kṛṣṇān",
+    "h1":"kṛṣṇān",
+    "title":"kṛṣṇān -- synonyms, prabhupada.io",
+    "description":"with black bodies."
+}
+---
 
 ==== kṛṣṇān  ====
   * with black bodies --- [[books:sb:9:20:28|SB 9.20.28]]

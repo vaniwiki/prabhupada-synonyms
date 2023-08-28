@@ -1,5 +1,11 @@
-~~Title:druma~~
-{{description>of trees; the trees; the trees and plants; trees; with nice trees; with trees.}}
+---json
+{
+    "name":"druma",
+    "h1":"druma",
+    "title":"druma -- synonyms, prabhupada.io",
+    "description":"of trees; the trees; the trees and plants; trees; with nice trees; with trees."
+}
+---
 
 ==== druma  ====
   * of trees --- [[books:sb:3:21:40|SB 3.21.40]]

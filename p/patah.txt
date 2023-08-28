@@ -1,5 +1,11 @@
-~~Title:patah~~
-{{description>a cloth.}}
+---json
+{
+    "name":"patah",
+    "h1":"patah",
+    "title":"patah -- synonyms, prabhupada.io",
+    "description":"a cloth."
+}
+---
 
 ==== paṭaḥ  ====
   * a cloth --- [[books:cc:adi:13:77|Ādi 13.77]]

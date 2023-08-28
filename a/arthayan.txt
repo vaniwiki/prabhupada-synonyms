@@ -1,5 +1,11 @@
-~~Title:ārthayan~~
-{{description>requested.}}
+---json
+{
+    "name":"ārthayan",
+    "h1":"ārthayan",
+    "title":"ārthayan -- synonyms, prabhupada.io",
+    "description":"requested."
+}
+---
 
 ==== ārthayan  ====
   * requested --- [[books:sb:6:13:4|SB 6.13.4]]

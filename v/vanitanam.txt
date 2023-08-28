@@ -1,5 +1,11 @@
-~~Title:vanitānām~~
-{{description>of women within household life.}}
+---json
+{
+    "name":"vanitānām",
+    "h1":"vanitānām",
+    "title":"vanitānām -- synonyms, prabhupada.io",
+    "description":"of women within household life."
+}
+---
 
 ==== pura-vanitānām  ====
   * of women within household life --- [[books:sb:5:5:31|SB 5.5.31]]

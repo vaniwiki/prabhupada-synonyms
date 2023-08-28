@@ -1,5 +1,11 @@
-~~Title:avisat~~
-{{description>drowned; entered; has entered; returned.}}
+---json
+{
+    "name":"avisat",
+    "h1":"avisat",
+    "title":"avisat -- synonyms, prabhupada.io",
+    "description":"drowned; entered; has entered; returned."
+}
+---
 
 ==== aviśat  ====
   * drowned --- [[books:sb:8:7:6|SB 8.7.6]]

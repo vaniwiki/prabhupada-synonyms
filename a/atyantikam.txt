@@ -1,5 +1,11 @@
-~~Title:ātyantikam~~
-{{description>liberation; supreme; the ultimate; uninterrupted.}}
+---json
+{
+    "name":"ātyantikam",
+    "h1":"ātyantikam",
+    "title":"ātyantikam -- synonyms, prabhupada.io",
+    "description":"liberation; supreme; the ultimate; uninterrupted."
+}
+---
 
 ==== ātyantikam  ====
   * liberation --- [[books:sb:3:15:48|SB 3.15.48]]

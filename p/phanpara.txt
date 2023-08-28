@@ -1,5 +1,11 @@
-~~Title:phāṅpara~~
-{{description>perplexed.}}
+---json
+{
+    "name":"phāṅpara",
+    "h1":"phāṅpara",
+    "title":"phāṅpara -- synonyms, prabhupada.io",
+    "description":"perplexed."
+}
+---
 
 ==== phāṅpara  ====
   * perplexed --- [[books:cc:madhya:21:31|Madhya 21.31]]

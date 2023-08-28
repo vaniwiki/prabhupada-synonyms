@@ -1,5 +1,11 @@
-~~Title:ibe~~
-{{description>he will be; must be; there must be; there will be; there would be; will be; will become.}}
+---json
+{
+    "name":"ibe",
+    "h1":"ibe",
+    "title":"ibe -- synonyms, prabhupada.io",
+    "description":"he will be; must be; there must be; there will be; there would be; will be; will become."
+}
+---
 
 ==== ha-ibe  ====
   * he will be --- [[books:cc:madhya:19:56|Madhya 19.56]]

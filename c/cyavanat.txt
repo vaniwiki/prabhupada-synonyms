@@ -1,5 +1,11 @@
-~~Title:cyavanāt~~
-{{description>from falling from a position.}}
+---json
+{
+    "name":"cyavanāt",
+    "h1":"cyavanāt",
+    "title":"cyavanāt -- synonyms, prabhupada.io",
+    "description":"from falling from a position."
+}
+---
 
 ==== sthāna-cyavanāt  ====
   * from falling from a position --- [[books:sb:8:20:5|SB 8.20.5]]

@@ -1,5 +1,11 @@
-~~Title:patākābhiḥ~~
-{{description>by flags; with flags.}}
+---json
+{
+    "name":"patākābhiḥ",
+    "h1":"patākābhiḥ",
+    "title":"patākābhiḥ -- synonyms, prabhupada.io",
+    "description":"by flags; with flags."
+}
+---
 
 ==== patākābhiḥ  ====
   * by flags --- [[books:sb:9:11:27|SB 9.11.27]]

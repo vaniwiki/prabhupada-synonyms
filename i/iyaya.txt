@@ -1,5 +1,11 @@
-~~Title:iyāya~~
-{{description>achieved; went.}}
+---json
+{
+    "name":"iyāya",
+    "h1":"iyāya",
+    "title":"iyāya -- synonyms, prabhupada.io",
+    "description":"achieved; went."
+}
+---
 
 ==== iyāya  ====
   * achieved --- [[books:sb:6:3:24|SB 6.3.24]]

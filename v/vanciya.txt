@@ -1,5 +1,11 @@
-~~Title:vañciyā~~
-{{description>passing.}}
+---json
+{
+    "name":"vañciyā",
+    "h1":"vañciyā",
+    "title":"vañciyā -- synonyms, prabhupada.io",
+    "description":"passing."
+}
+---
 
 ==== vañciyā  ====
   * passing --- [[books:cc:madhya:5:139|Madhya 5.139]]

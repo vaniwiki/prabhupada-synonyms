@@ -1,5 +1,11 @@
-~~Title:vāhinyām~~
-{{description>in the river.}}
+---json
+{
+    "name":"vāhinyām",
+    "h1":"vāhinyām",
+    "title":"vāhinyām -- synonyms, prabhupada.io",
+    "description":"in the river."
+}
+---
 
 ==== vāhinyām  ====
   * in the river --- [[books:sb:5:26:22|SB 5.26.22]]

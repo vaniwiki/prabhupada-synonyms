@@ -1,5 +1,11 @@
-~~Title:prasvinna~~
-{{description>with her body perspiring.}}
+---json
+{
+    "name":"prasvinna",
+    "h1":"prasvinna",
+    "title":"prasvinna -- synonyms, prabhupada.io",
+    "description":"with her body perspiring."
+}
+---
 
 ==== prasvinna-gātrā  ====
   * with her body perspiring --- [[books:sb:10:6:11|SB 10.6.11]]

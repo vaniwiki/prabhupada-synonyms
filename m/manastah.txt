@@ -1,5 +1,11 @@
-~~Title:manastaḥ~~
-{{description>being placed within the mind.}}
+---json
+{
+    "name":"manastaḥ",
+    "h1":"manastaḥ",
+    "title":"manastaḥ -- synonyms, prabhupada.io",
+    "description":"being placed within the mind."
+}
+---
 
 ==== manastaḥ  ====
   * being placed within the mind --- [[books:sb:10:2:18|SB 10.2.18]]

@@ -1,5 +1,11 @@
-~~Title:sammānila~~
-{{description>showed respect.}}
+---json
+{
+    "name":"sammānila",
+    "h1":"sammānila",
+    "title":"sammānila -- synonyms, prabhupada.io",
+    "description":"showed respect."
+}
+---
 
 ==== sammānila  ====
   * showed respect --- [[books:cc:madhya:15:92|Madhya 15.92]]

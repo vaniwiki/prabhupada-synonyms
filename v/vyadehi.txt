@@ -1,5 +1,11 @@
-~~Title:vyādehi~~
-{{description>open Your mouth wide (I want to see).}}
+---json
+{
+    "name":"vyādehi",
+    "h1":"vyādehi",
+    "title":"vyādehi -- synonyms, prabhupada.io",
+    "description":"open Your mouth wide (I want to see)."
+}
+---
 
 ==== vyādehi  ====
   * open Your mouth wide (I want to see) --- [[books:sb:10:8:36|SB 10.8.36]]

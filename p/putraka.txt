@@ -1,5 +1,11 @@
-~~Title:putraka~~
-{{description>my dear boy; my dear son; O my dear son; O my son.}}
+---json
+{
+    "name":"putraka",
+    "h1":"putraka",
+    "title":"putraka -- synonyms, prabhupada.io",
+    "description":"my dear boy; my dear son; O my dear son; O my son."
+}
+---
 
 ==== putraka  ====
   * my dear boy --- [[books:sb:4:8:27|SB 4.8.27]]

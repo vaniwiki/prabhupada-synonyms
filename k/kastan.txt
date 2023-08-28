@@ -1,5 +1,11 @@
-~~Title:kaṣṭān~~
-{{description>troublesome.}}
+---json
+{
+    "name":"kaṣṭān",
+    "h1":"kaṣṭān",
+    "title":"kaṣṭān -- synonyms, prabhupada.io",
+    "description":"troublesome."
+}
+---
 
 ==== kaṣṭān  ====
   * troublesome --- [[books:sb:5:5:1|SB 5.5.1]]

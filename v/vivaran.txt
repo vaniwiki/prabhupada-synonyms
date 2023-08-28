@@ -1,5 +1,11 @@
-~~Title:vivarān~~
-{{description>in all the caves; within the holes.}}
+---json
+{
+    "name":"vivarān",
+    "h1":"vivarān",
+    "title":"vivarān -- synonyms, prabhupada.io",
+    "description":"in all the caves; within the holes."
+}
+---
 
 ==== vivarān  ====
   * in all the caves --- [[books:sb:8:19:11|SB 8.19.11]]

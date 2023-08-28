@@ -1,5 +1,11 @@
-~~Title:papmanam~~
-{{description>contaminated state of mind; of sinful activities.}}
+---json
+{
+    "name":"papmanam",
+    "h1":"papmanam",
+    "title":"papmanam -- synonyms, prabhupada.io",
+    "description":"contaminated state of mind; of sinful activities."
+}
+---
 
 ==== pāpmanām  ====
   * contaminated state of mind --- [[books:sb:4:24:58|SB 4.24.58]]

@@ -1,5 +1,11 @@
-~~Title:nindāte~~
-{{description>fixed in blaspheming.}}
+---json
+{
+    "name":"nindāte",
+    "h1":"nindāte",
+    "title":"nindāte -- synonyms, prabhupada.io",
+    "description":"fixed in blaspheming."
+}
+---
 
 ==== nindāte nirbandha  ====
   * fixed in blaspheming --- [[books:cc:antya:8:27|Antya 8.27]]

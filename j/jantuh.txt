@@ -1,5 +1,11 @@
-~~Title:jantuḥ~~
-{{description>fetus; living being or animal; living entity; the child; the living being; the living entity; unintelligent living beings like animals.}}
+---json
+{
+    "name":"jantuḥ",
+    "h1":"jantuḥ",
+    "title":"jantuḥ -- synonyms, prabhupada.io",
+    "description":"fetus; living being or animal; living entity; the child; the living being; the living entity; unintelligent living beings like animals."
+}
+---
 
 ==== jantuḥ  ====
   * fetus --- [[books:sb:3:31:5|SB 3.31.5]]

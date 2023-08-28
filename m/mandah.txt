@@ -1,5 +1,11 @@
-~~Title:mandah~~
-{{description>most foolish.}}
+---json
+{
+    "name":"mandah",
+    "h1":"mandah",
+    "title":"mandah -- synonyms, prabhupada.io",
+    "description":"most foolish."
+}
+---
 
 ==== mandaḥ  ====
   * most foolish --- [[books:sb:5:6:9|SB 5.6.9]]

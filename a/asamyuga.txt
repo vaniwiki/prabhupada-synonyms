@@ -1,5 +1,11 @@
-~~Title:asaṁyuga~~
-{{description>by boasting and talking uselessly, away from the fighting.}}
+---json
+{
+    "name":"asaṁyuga",
+    "h1":"asaṁyuga",
+    "title":"asaṁyuga -- synonyms, prabhupada.io",
+    "description":"by boasting and talking uselessly, away from the fighting."
+}
+---
 
 ==== asaṁyuga-vikatthanaiḥ  ====
   * by boasting and talking uselessly, away from the fighting --- [[books:sb:10:4:36|SB 10.4.36]]

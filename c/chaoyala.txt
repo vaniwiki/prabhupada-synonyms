@@ -1,5 +1,11 @@
-~~Title:chāoyāla~~
-{{description>son.}}
+---json
+{
+    "name":"chāoyāla",
+    "h1":"chāoyāla",
+    "title":"chāoyāla -- synonyms, prabhupada.io",
+    "description":"son."
+}
+---
 
 ==== chāoyāla  ====
   * son --- [[books:cc:adi:17:111|Ādi 17.111]]

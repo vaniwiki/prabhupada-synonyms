@@ -1,5 +1,11 @@
-~~Title:uthale~~
-{{description>awakens.}}
+---json
+{
+    "name":"uthale",
+    "h1":"uthale",
+    "title":"uthale -- synonyms, prabhupada.io",
+    "description":"awakens."
+}
+---
 
 ==== uthale  ====
   * awakens --- [[books:cc:madhya:14:169|Madhya 14.169]]

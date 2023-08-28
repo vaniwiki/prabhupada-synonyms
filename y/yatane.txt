@@ -1,5 +1,11 @@
-~~Title:yatane~~
-{{description>endeavor; with care; with great care.}}
+---json
+{
+    "name":"yatane",
+    "h1":"yatane",
+    "title":"yatane -- synonyms, prabhupada.io",
+    "description":"endeavor; with care; with great care."
+}
+---
 
 ==== yatane  ====
   * endeavor --- [[books:cc:madhya:8:30|Madhya 8.30]]

@@ -1,5 +1,11 @@
-~~Title:andhakāra~~
-{{description>complete darkness; darkness.}}
+---json
+{
+    "name":"andhakāra",
+    "h1":"andhakāra",
+    "title":"andhakāra -- synonyms, prabhupada.io",
+    "description":"complete darkness; darkness."
+}
+---
 
 ==== andhakāra  ====
   * complete darkness --- [[books:cc:madhya:20:285|Madhya 20.285]]

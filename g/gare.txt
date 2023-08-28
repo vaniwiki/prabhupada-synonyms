@@ -1,5 +1,11 @@
-~~Title:gare~~
-{{description>when the poison.}}
+---json
+{
+    "name":"gare",
+    "h1":"gare",
+    "title":"gare -- synonyms, prabhupada.io",
+    "description":"when the poison."
+}
+---
 
 ==== gare  ====
   * when the poison --- [[books:sb:8:8:1|SB 8.8.1]]

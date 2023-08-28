@@ -1,5 +1,11 @@
-~~Title:adhīyata~~
-{{description>disappeared.}}
+---json
+{
+    "name":"adhīyata",
+    "h1":"adhīyata",
+    "title":"adhīyata -- synonyms, prabhupada.io",
+    "description":"disappeared."
+}
+---
 
 ==== antaḥ-adhīyata  ====
   * disappeared --- [[books:sb:8:17:21|SB 8.17.21]]

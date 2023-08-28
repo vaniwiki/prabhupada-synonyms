@@ -1,5 +1,11 @@
-~~Title:abdam~~
-{{description>years.}}
+---json
+{
+    "name":"abdam",
+    "h1":"abdam",
+    "title":"abdam -- synonyms, prabhupada.io",
+    "description":"years."
+}
+---
 
 ==== abdam  ====
   * years --- [[books:sb:2:9:8|SB 2.9.8]]

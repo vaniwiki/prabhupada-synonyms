@@ -1,5 +1,11 @@
-~~Title:sahasra~~
-{{description>a thousand; many thousands; of thousands; one thousand; thousand; thousands; thousands and thousands; thousands of.}}
+---json
+{
+    "name":"sahasra",
+    "h1":"sahasra",
+    "title":"sahasra -- synonyms, prabhupada.io",
+    "description":"a thousand; many thousands; of thousands; one thousand; thousand; thousands; thousands and thousands; thousands of."
+}
+---
 
 ==== sahasra  ====
   * a thousand --- [[books:sb:4:5:3|SB 4.5.3]], [[books:cc:adi:17:166|Ādi 17.166]], [[books:cc:adi:17:253|Ādi 17.253]], [[books:cc:madhya:4:180|Madhya 4.180]], [[books:cc:madhya:21:4|Madhya 21.4]]

@@ -1,5 +1,11 @@
-~~Title:nagarenagare~~
-{{description>in different parts of the town.}}
+---json
+{
+    "name":"nagarenagare",
+    "h1":"nagarenagare",
+    "title":"nagarenagare -- synonyms, prabhupada.io",
+    "description":"in different parts of the town."
+}
+---
 
 ==== nagarenagare  ====
   * in different parts of the town --- [[books:cc:adi:13:32|Ādi 13.32]]

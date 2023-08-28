@@ -1,5 +1,11 @@
-~~Title:āsibe~~
-{{description>please come; will come; you should all come; you should come; you will come.}}
+---json
+{
+    "name":"āsibe",
+    "h1":"āsibe",
+    "title":"āsibe -- synonyms, prabhupada.io",
+    "description":"please come; will come; you should all come; you should come; you will come."
+}
+---
 
 ==== āsibe  ====
   * please come --- [[books:cc:madhya:9:172|Madhya 9.172]], [[books:cc:madhya:15:98|Madhya 15.98]]

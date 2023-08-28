@@ -1,5 +1,11 @@
-~~Title:samupaiti~~
-{{description>accepts.}}
+---json
+{
+    "name":"samupaiti",
+    "h1":"samupaiti",
+    "title":"samupaiti -- synonyms, prabhupada.io",
+    "description":"accepts."
+}
+---
 
 ==== samupaiti  ====
   * accepts --- [[books:cc:madhya:20:310|Madhya 20.310]]

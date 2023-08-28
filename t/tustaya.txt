@@ -1,5 +1,11 @@
-~~Title:tuṣṭayā~~
-{{description>satisfied.}}
+---json
+{
+    "name":"tuṣṭayā",
+    "h1":"tuṣṭayā",
+    "title":"tuṣṭayā -- synonyms, prabhupada.io",
+    "description":"satisfied."
+}
+---
 
 ==== tuṣṭayā  ====
   * satisfied --- [[books:sb:6:18:77|SB 6.18.77]]

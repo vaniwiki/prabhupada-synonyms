@@ -1,5 +1,11 @@
-~~Title:bhavadiya~~
-{{description>in relation with You; of Your.}}
+---json
+{
+    "name":"bhavadiya",
+    "h1":"bhavadiya",
+    "title":"bhavadiya -- synonyms, prabhupada.io",
+    "description":"in relation with You; of Your."
+}
+---
 
 ==== bhavadīya  ====
   * in relation with You --- [[books:cc:madhya:24:177|Madhya 24.177]]

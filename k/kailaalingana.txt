@@ -1,5 +1,11 @@
-~~Title:kailaāliṅgana~~
-{{description>embraced.}}
+---json
+{
+    "name":"kailaāliṅgana",
+    "h1":"kailaāliṅgana",
+    "title":"kailaāliṅgana -- synonyms, prabhupada.io",
+    "description":"embraced."
+}
+---
 
 ==== kailaāliṅgana  ====
   * embraced --- [[books:cc:madhya:9:342|Madhya 9.342]]

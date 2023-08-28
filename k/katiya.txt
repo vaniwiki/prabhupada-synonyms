@@ -1,5 +1,11 @@
-~~Title:kāṭiyā~~
-{{description>breaking.}}
+---json
+{
+    "name":"kāṭiyā",
+    "h1":"kāṭiyā",
+    "title":"kāṭiyā -- synonyms, prabhupada.io",
+    "description":"breaking."
+}
+---
 
 ==== kāṭiyā  ====
   * breaking --- [[books:cc:madhya:20:15|Madhya 20.15]]

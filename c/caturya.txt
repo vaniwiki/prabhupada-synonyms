@@ -1,5 +1,11 @@
-~~Title:cāturya~~
-{{description>expertise.}}
+---json
+{
+    "name":"cāturya",
+    "h1":"cāturya",
+    "title":"cāturya -- synonyms, prabhupada.io",
+    "description":"expertise."
+}
+---
 
 ==== cāturya  ====
   * expertise --- [[books:cc:madhya:15:141|Madhya 15.141]]

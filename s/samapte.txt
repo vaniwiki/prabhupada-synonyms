@@ -1,5 +1,11 @@
-~~Title:samāpte~~
-{{description>at the end of the sacrifice known by the name Satra.}}
+---json
+{
+    "name":"samāpte",
+    "h1":"samāpte",
+    "title":"samāpte -- synonyms, prabhupada.io",
+    "description":"at the end of the sacrifice known by the name Satra."
+}
+---
 
 ==== samāpte satra-yāge  ====
   * at the end of the sacrifice known by the name Satra --- [[books:sb:9:13:7|SB 9.13.7]]

@@ -1,5 +1,11 @@
-~~Title:sandarbha~~
-{{description>the Bhāgavata-sandarbha, which is also known as Ṣaṭ-sandarbha.}}
+---json
+{
+    "name":"sandarbha",
+    "h1":"sandarbha",
+    "title":"sandarbha -- synonyms, prabhupada.io",
+    "description":"the Bhāgavata-sandarbha, which is also known as Ṣaṭ-sandarbha."
+}
+---
 
 ==== bhāgavata-sandarbha  ====
   * the //Bhāgavata-sandarbha,// which is also known as //Ṣaṭ-sandarbha// --- [[books:cc:antya:4:229|Antya 4.229]]

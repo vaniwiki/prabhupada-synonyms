@@ -1,5 +1,11 @@
-~~Title:nīraja~~
-{{description>of lotus flowers.}}
+---json
+{
+    "name":"nīraja",
+    "h1":"nīraja",
+    "title":"nīraja -- synonyms, prabhupada.io",
+    "description":"of lotus flowers."
+}
+---
 
 ==== nīraja  ====
   * of lotus flowers --- [[books:sb:5:24:10|SB 5.24.10]]

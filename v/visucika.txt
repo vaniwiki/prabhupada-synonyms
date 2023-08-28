@@ -1,5 +1,11 @@
-~~Title:visūcikā~~
-{{description>infection of cholera.}}
+---json
+{
+    "name":"visūcikā",
+    "h1":"visūcikā",
+    "title":"visūcikā -- synonyms, prabhupada.io",
+    "description":"infection of cholera."
+}
+---
 
 ==== visūcikā-vyādhi  ====
   * infection of cholera --- [[books:cc:madhya:15:266|Madhya 15.266]]

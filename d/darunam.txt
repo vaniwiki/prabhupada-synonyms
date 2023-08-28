@@ -1,5 +1,11 @@
-~~Title:darunam~~
-{{description>dangerous; difficult; extremely difficult; harsh.}}
+---json
+{
+    "name":"darunam",
+    "h1":"darunam",
+    "title":"darunam -- synonyms, prabhupada.io",
+    "description":"dangerous; difficult; extremely difficult; harsh."
+}
+---
 
 ==== dāruṇam  ====
   * dangerous --- [[books:sb:1:7:26|SB 1.7.26]], [[books:sb:1:7:33|SB 1.7.33]]

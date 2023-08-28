@@ -1,5 +1,11 @@
-~~Title:sañjñām~~
-{{description>known as Kālī.}}
+---json
+{
+    "name":"sañjñām",
+    "h1":"sañjñām",
+    "title":"sañjñām -- synonyms, prabhupada.io",
+    "description":"known as Kālī."
+}
+---
 
 ==== kāla-sañjñām  ====
   * known as Kālī --- [[books:sb:3:6:2|SB 3.6.2]]

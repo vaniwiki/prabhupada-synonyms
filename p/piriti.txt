@@ -1,5 +1,11 @@
-~~Title:pirīti~~
-{{description>love; loving symptoms.}}
+---json
+{
+    "name":"pirīti",
+    "h1":"pirīti",
+    "title":"pirīti -- synonyms, prabhupada.io",
+    "description":"love; loving symptoms."
+}
+---
 
 ==== pirīti  ====
   * love --- [[books:cc:madhya:4:95|Madhya 4.95]]

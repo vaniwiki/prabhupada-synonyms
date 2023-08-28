@@ -1,5 +1,11 @@
-~~Title:mara~~
-{{description>You kill.}}
+---json
+{
+    "name":"mara",
+    "h1":"mara",
+    "title":"mara -- synonyms, prabhupada.io",
+    "description":"You kill."
+}
+---
 
 ==== māra  ====
   * You kill --- [[books:cc:madhya:13:140|Madhya 13.140]]

@@ -1,5 +1,11 @@
-~~Title:hasanti~~
-{{description>laugh at.}}
+---json
+{
+    "name":"hasanti",
+    "h1":"hasanti",
+    "title":"hasanti -- synonyms, prabhupada.io",
+    "description":"laugh at."
+}
+---
 
 ==== hasanti  ====
   * laugh at --- [[books:sb:3:14:28|SB 3.14.28]]

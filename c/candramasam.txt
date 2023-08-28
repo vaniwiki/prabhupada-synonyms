@@ -1,5 +1,11 @@
-~~Title:cāndramasam~~
-{{description>the moon planet; to the moon.}}
+---json
+{
+    "name":"cāndramasam",
+    "h1":"cāndramasam",
+    "title":"cāndramasam -- synonyms, prabhupada.io",
+    "description":"the moon planet; to the moon."
+}
+---
 
 ==== cāndramasam  ====
   * the moon planet --- [[books:bg:8:25|Bg. 8.25]]

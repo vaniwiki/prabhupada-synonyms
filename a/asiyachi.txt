@@ -1,5 +1,11 @@
-~~Title:āsiyāchi~~
-{{description>have come.}}
+---json
+{
+    "name":"āsiyāchi",
+    "h1":"āsiyāchi",
+    "title":"āsiyāchi -- synonyms, prabhupada.io",
+    "description":"have come."
+}
+---
 
 ==== āsiyāchi  ====
   * have come --- [[books:cc:madhya:6:21|Madhya 6.21]]

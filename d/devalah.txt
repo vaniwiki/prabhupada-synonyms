@@ -1,5 +1,11 @@
-~~Title:devalaḥ~~
-{{description>Devala; the great sage Devala.}}
+---json
+{
+    "name":"devalaḥ",
+    "h1":"devalaḥ",
+    "title":"devalaḥ -- synonyms, prabhupada.io",
+    "description":"Devala; the great sage Devala."
+}
+---
 
 ==== devalaḥ  ====
   * Devala --- [[books:bg:10:12-13|Bg. 10.12-13]], [[books:sb:6:15:12-15|SB 6.15.12-15]]

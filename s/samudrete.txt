@@ -1,5 +1,11 @@
-~~Title:samudrete~~
-{{description>in an ocean of unhappiness.}}
+---json
+{
+    "name":"samudrete",
+    "h1":"samudrete",
+    "title":"samudrete -- synonyms, prabhupada.io",
+    "description":"in an ocean of unhappiness."
+}
+---
 
 ==== duḥkha-samudrete  ====
   * in an ocean of unhappiness --- [[books:cc:madhya:2:26|Madhya 2.26]]

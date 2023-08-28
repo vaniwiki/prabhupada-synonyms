@@ -1,5 +1,11 @@
-~~Title:vādinaḥ~~
-{{description>advocates; speaking; speaking, declaring.}}
+---json
+{
+    "name":"vādinaḥ",
+    "h1":"vādinaḥ",
+    "title":"vādinaḥ -- synonyms, prabhupada.io",
+    "description":"advocates; speaking; speaking, declaring."
+}
+---
 
 ==== vādinaḥ  ====
   * advocates --- [[books:bg:2:42-43|Bg. 2.42-43]]

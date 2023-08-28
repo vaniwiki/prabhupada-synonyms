@@ -1,5 +1,11 @@
-~~Title:āvala~~
-{{description>friends.}}
+---json
+{
+    "name":"āvala",
+    "h1":"āvala",
+    "title":"āvala -- synonyms, prabhupada.io",
+    "description":"friends."
+}
+---
 
 ==== sakhā-āvala  ====
   * friends --- [[books:cc:adi:4:113|Ādi 4.113]]

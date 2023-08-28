@@ -1,5 +1,11 @@
-~~Title:dekhāibā~~
-{{description>do not show.}}
+---json
+{
+    "name":"dekhāibā",
+    "h1":"dekhāibā",
+    "title":"dekhāibā -- synonyms, prabhupada.io",
+    "description":"do not show."
+}
+---
 
 ==== nā dekhāibā  ====
   * do not show --- [[books:cc:antya:11:32|Antya 11.32]]

@@ -1,5 +1,11 @@
-~~Title:sukhīnalaḥ~~
-{{description>Sukhīnala.}}
+---json
+{
+    "name":"sukhīnalaḥ",
+    "h1":"sukhīnalaḥ",
+    "title":"sukhīnalaḥ -- synonyms, prabhupada.io",
+    "description":"Sukhīnala."
+}
+---
 
 ==== sukhīnalaḥ  ====
   * Sukhīnala --- [[books:sb:9:22:41|SB 9.22.41]]

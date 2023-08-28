@@ -1,5 +1,11 @@
-~~Title:lubdhakena~~
-{{description>by the friend named Lubdhaka; by the hunter.}}
+---json
+{
+    "name":"lubdhakena",
+    "h1":"lubdhakena",
+    "title":"lubdhakena -- synonyms, prabhupada.io",
+    "description":"by the friend named Lubdhaka; by the hunter."
+}
+---
 
 ==== lubdhakena  ====
   * by the friend named Lubdhaka --- [[books:sb:4:25:53|SB 4.25.53]]

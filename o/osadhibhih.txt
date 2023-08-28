@@ -1,5 +1,11 @@
-~~Title:oṣadhibhiḥ~~
-{{description>herbs; with betel nut trees.}}
+---json
+{
+    "name":"oṣadhibhiḥ",
+    "h1":"oṣadhibhiḥ",
+    "title":"oṣadhibhiḥ -- synonyms, prabhupada.io",
+    "description":"herbs; with betel nut trees."
+}
+---
 
 ==== oṣadhibhiḥ  ====
   * herbs --- [[books:sb:3:29:41|SB 3.29.41]]

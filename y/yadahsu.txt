@@ -1,5 +1,11 @@
-~~Title:yādaḥsu~~
-{{description>in the water.}}
+---json
+{
+    "name":"yādaḥsu",
+    "h1":"yādaḥsu",
+    "title":"yādaḥsu -- synonyms, prabhupada.io",
+    "description":"in the water."
+}
+---
 
 ==== yādaḥsu  ====
   * in the water --- [[books:sb:1:8:30|SB 1.8.30]]

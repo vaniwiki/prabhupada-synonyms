@@ -1,5 +1,11 @@
-~~Title:martyān~~
-{{description>the human beings.}}
+---json
+{
+    "name":"martyān",
+    "h1":"martyān",
+    "title":"martyān -- synonyms, prabhupada.io",
+    "description":"the human beings."
+}
+---
 
 ==== martyān  ====
   * the human beings --- [[books:sb:6:3:18|SB 6.3.18]]

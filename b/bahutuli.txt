@@ -1,5 +1,11 @@
-~~Title:bāhutuli'~~
-{{description>raising the arms.}}
+---json
+{
+    "name":"bāhutuli'",
+    "h1":"bāhutuli'",
+    "title":"bāhutuli' -- synonyms, prabhupada.io",
+    "description":"raising the arms."
+}
+---
 
 ==== bāhutuli'  ====
   * raising the arms --- [[books:cc:adi:3:62|Ādi 3.62]]

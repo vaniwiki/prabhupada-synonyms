@@ -1,5 +1,11 @@
-~~Title:pramṛtena~~
-{{description>or by the profession of pramṛta.}}
+---json
+{
+    "name":"pramṛtena",
+    "h1":"pramṛtena",
+    "title":"pramṛtena -- synonyms, prabhupada.io",
+    "description":"or by the profession of pramṛta."
+}
+---
 
 ==== pramṛtena vā  ====
   * or by the profession of //pramṛta// --- [[books:sb:7:11:18-20|SB 7.11.18-20]]

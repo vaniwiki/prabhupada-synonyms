@@ -1,5 +1,11 @@
-~~Title:parigheṇa~~
-{{description>with a mace of iron.}}
+---json
+{
+    "name":"parigheṇa",
+    "h1":"parigheṇa",
+    "title":"parigheṇa -- synonyms, prabhupada.io",
+    "description":"with a mace of iron."
+}
+---
 
 ==== parigheṇa  ====
   * with a mace of iron --- [[books:sb:6:12:4|SB 6.12.4]]

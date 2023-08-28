@@ -1,5 +1,11 @@
-~~Title:dūtam~~
-{{description>messenger.}}
+---json
+{
+    "name":"dūtam",
+    "h1":"dūtam",
+    "title":"dūtam -- synonyms, prabhupada.io",
+    "description":"messenger."
+}
+---
 
 ==== dūtam  ====
   * messenger --- [[books:sb:1:9:20|SB 1.9.20]]

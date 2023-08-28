@@ -1,5 +1,11 @@
-~~Title:kaṇṭakaḥ~~
-{{description>being a pinprick for everyone.}}
+---json
+{
+    "name":"kaṇṭakaḥ",
+    "h1":"kaṇṭakaḥ",
+    "title":"kaṇṭakaḥ -- synonyms, prabhupada.io",
+    "description":"being a pinprick for everyone."
+}
+---
 
 ==== kaṇṭakaḥ  ====
   * being a pinprick for everyone --- [[books:sb:3:18:22-23|SB 3.18.22-23]]

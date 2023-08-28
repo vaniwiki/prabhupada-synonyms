@@ -1,5 +1,11 @@
-~~Title:ābhātaḥ~~
-{{description>manifest.}}
+---json
+{
+    "name":"ābhātaḥ",
+    "h1":"ābhātaḥ",
+    "title":"ābhātaḥ -- synonyms, prabhupada.io",
+    "description":"manifest."
+}
+---
 
 ==== ābhātaḥ  ====
   * manifest --- [[books:sb:8:7:24|SB 8.7.24]]

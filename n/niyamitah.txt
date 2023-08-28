@@ -1,5 +1,11 @@
-~~Title:niyamitaḥ~~
-{{description>restricted.}}
+---json
+{
+    "name":"niyamitaḥ",
+    "h1":"niyamitaḥ",
+    "title":"niyamitaḥ -- synonyms, prabhupada.io",
+    "description":"restricted."
+}
+---
 
 ==== niyamitaḥ  ====
   * restricted --- [[books:cc:antya:20:16|Antya 20.16]]

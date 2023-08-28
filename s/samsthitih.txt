@@ -1,5 +1,11 @@
-~~Title:saṁsthitiḥ~~
-{{description>actual position.}}
+---json
+{
+    "name":"saṁsthitiḥ",
+    "h1":"saṁsthitiḥ",
+    "title":"saṁsthitiḥ -- synonyms, prabhupada.io",
+    "description":"actual position."
+}
+---
 
 ==== saṁsthitiḥ  ====
   * actual position --- [[books:sb:1:18:3|SB 1.18.3]]

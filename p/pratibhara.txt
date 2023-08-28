@@ -1,5 +1,11 @@
-~~Title:pratibhāra~~
-{{description>of ingenuity.}}
+---json
+{
+    "name":"pratibhāra",
+    "h1":"pratibhāra",
+    "title":"pratibhāra -- synonyms, prabhupada.io",
+    "description":"of ingenuity."
+}
+---
 
 ==== pratibhāra  ====
   * of ingenuity --- [[books:cc:adi:16:48|Ādi 16.48]]

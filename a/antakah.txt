@@ -1,5 +1,11 @@
-~~Title:antakaḥ~~
-{{description>destroyer; killer; one who causes the end of life; the destroyer, death.}}
+---json
+{
+    "name":"antakaḥ",
+    "h1":"antakaḥ",
+    "title":"antakaḥ -- synonyms, prabhupada.io",
+    "description":"destroyer; killer; one who causes the end of life; the destroyer, death."
+}
+---
 
 ==== antakaḥ  ====
   * destroyer --- [[books:sb:4:24:66|SB 4.24.66]]

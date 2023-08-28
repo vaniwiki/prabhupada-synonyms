@@ -1,5 +1,11 @@
-~~Title:phalguḥ~~
-{{description>insignificant.}}
+---json
+{
+    "name":"phalguḥ",
+    "h1":"phalguḥ",
+    "title":"phalguḥ -- synonyms, prabhupada.io",
+    "description":"insignificant."
+}
+---
 
 ==== phalguḥ  ====
   * insignificant --- [[books:sb:5:14:44|SB 5.14.44]], [[books:cc:madhya:9:269|Madhya 9.269]]

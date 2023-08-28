@@ -1,5 +1,11 @@
-~~Title:dāsavṛndāvana~~
-{{description>Vṛndāvana dāsa Ṭhākura.}}
+---json
+{
+    "name":"dāsavṛndāvana",
+    "h1":"dāsavṛndāvana",
+    "title":"dāsavṛndāvana -- synonyms, prabhupada.io",
+    "description":"Vṛndāvana dāsa Ṭhākura."
+}
+---
 
 ==== dāsavṛndāvana  ====
   * Vṛndāvana dāsa Ṭhākura --- [[books:cc:madhya:1:13|Madhya 1.13]]

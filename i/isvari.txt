@@ -1,5 +1,11 @@
-~~Title:isvari~~
-{{description>possessing wealth.}}
+---json
+{
+    "name":"isvari",
+    "h1":"isvari",
+    "title":"isvari -- synonyms, prabhupada.io",
+    "description":"possessing wealth."
+}
+---
 
 ==== dhana-īśvarī  ====
   * possessing wealth --- [[books:sb:6:19:26-28|SB 6.19.26-28]]

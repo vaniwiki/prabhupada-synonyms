@@ -1,5 +1,11 @@
-~~Title:nivārayām~~
-{{description>they forbade.}}
+---json
+{
+    "name":"nivārayām",
+    "h1":"nivārayām",
+    "title":"nivārayām -- synonyms, prabhupada.io",
+    "description":"they forbade."
+}
+---
 
 ==== nivārayām āsuḥ  ====
   * they forbade --- [[books:sb:4:19:27|SB 4.19.27]]

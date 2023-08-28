@@ -1,5 +1,11 @@
-~~Title:gatāgati~~
-{{description>come and go.}}
+---json
+{
+    "name":"gatāgati",
+    "h1":"gatāgati",
+    "title":"gatāgati -- synonyms, prabhupada.io",
+    "description":"come and go."
+}
+---
 
 ==== gatāgati  ====
   * come and go --- [[books:cc:madhya:3:183|Madhya 3.183]]

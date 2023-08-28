@@ -1,5 +1,11 @@
-~~Title:anugṛhṇantaḥ~~
-{{description>accepted.}}
+---json
+{
+    "name":"anugṛhṇantaḥ",
+    "h1":"anugṛhṇantaḥ",
+    "title":"anugṛhṇantaḥ -- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== anugṛhṇantaḥ  ====
   * accepted --- [[books:sb:9:16:35|SB 9.16.35]]

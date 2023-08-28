@@ -1,5 +1,11 @@
-~~Title:bhūyasām~~
-{{description>of the great souls.}}
+---json
+{
+    "name":"bhūyasām",
+    "h1":"bhūyasām",
+    "title":"bhūyasām -- synonyms, prabhupada.io",
+    "description":"of the great souls."
+}
+---
 
 ==== bhūyasām  ====
   * of the great souls --- [[books:sb:4:3:17|SB 4.3.17]]

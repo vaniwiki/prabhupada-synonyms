@@ -1,5 +1,11 @@
-~~Title:mahisah~~
-{{description>Mahiṣa; the buffalo.}}
+---json
+{
+    "name":"mahisah",
+    "h1":"mahisah",
+    "title":"mahisah -- synonyms, prabhupada.io",
+    "description":"Mahiṣa; the buffalo."
+}
+---
 
 ==== mahiṣaḥ  ====
   * Mahiṣa --- [[books:sb:6:18:16|SB 6.18.16]]

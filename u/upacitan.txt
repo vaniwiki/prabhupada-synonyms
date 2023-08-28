@@ -1,5 +1,11 @@
-~~Title:upacitān~~
-{{description>powerful.}}
+---json
+{
+    "name":"upacitān",
+    "h1":"upacitān",
+    "title":"upacitān -- synonyms, prabhupada.io",
+    "description":"powerful."
+}
+---
 
 ==== upacitān  ====
   * powerful --- [[books:sb:6:7:23|SB 6.7.23]]

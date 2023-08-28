@@ -1,5 +1,11 @@
-~~Title:kariṣyan~~
-{{description>may perform.}}
+---json
+{
+    "name":"kariṣyan",
+    "h1":"kariṣyan",
+    "title":"kariṣyan -- synonyms, prabhupada.io",
+    "description":"may perform."
+}
+---
 
 ==== kariṣyan  ====
   * may perform --- [[books:sb:1:8:35|SB 1.8.35]]

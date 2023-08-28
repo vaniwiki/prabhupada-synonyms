@@ -1,5 +1,11 @@
-~~Title:agraṇyaḥ~~
-{{description>the best of the saintly persons (Yudhiṣṭhira).}}
+---json
+{
+    "name":"agraṇyaḥ",
+    "h1":"agraṇyaḥ",
+    "title":"agraṇyaḥ -- synonyms, prabhupada.io",
+    "description":"the best of the saintly persons (Yudhiṣṭhira)."
+}
+---
 
 ==== mahat-tama-agraṇyaḥ  ====
   * the best of the saintly persons (Yudhiṣṭhira) --- [[books:sb:7:11:1|SB 7.11.1]]

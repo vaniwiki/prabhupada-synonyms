@@ -1,5 +1,11 @@
-~~Title:yantrita~~
-{{description>being forced by time.}}
+---json
+{
+    "name":"yantrita",
+    "h1":"yantrita",
+    "title":"yantrita -- synonyms, prabhupada.io",
+    "description":"being forced by time."
+}
+---
 
 ==== kāla-yantritā  ====
   * being forced by time --- [[books:sb:7:2:52|SB 7.2.52]]

@@ -1,5 +1,11 @@
-~~Title:viśālena~~
-{{description>which is twice as wide.}}
+---json
+{
+    "name":"viśālena",
+    "h1":"viśālena",
+    "title":"viśālena -- synonyms, prabhupada.io",
+    "description":"which is twice as wide."
+}
+---
 
 ==== dvi-guṇa-viśālena  ====
   * which is twice as wide --- [[books:sb:5:20:2|SB 5.20.2]]

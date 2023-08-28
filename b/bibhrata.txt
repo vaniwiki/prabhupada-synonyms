@@ -1,5 +1,11 @@
-~~Title:bibhratā~~
-{{description>assuming.}}
+---json
+{
+    "name":"bibhratā",
+    "h1":"bibhratā",
+    "title":"bibhratā -- synonyms, prabhupada.io",
+    "description":"assuming."
+}
+---
 
 ==== bibhratā  ====
   * assuming --- [[books:sb:7:1:41|SB 7.1.41]]

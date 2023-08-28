@@ -1,5 +1,11 @@
-~~Title:caila~~
-{{description>of pieces of cloth.}}
+---json
+{
+    "name":"caila",
+    "h1":"caila",
+    "title":"caila -- synonyms, prabhupada.io",
+    "description":"of pieces of cloth."
+}
+---
 
 ==== caila  ====
   * of pieces of cloth --- [[books:sb:10:5:6|SB 10.5.6]]

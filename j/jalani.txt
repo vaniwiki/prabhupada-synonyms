@@ -1,5 +1,11 @@
-~~Title:jālāni~~
-{{description>the networks of duality.}}
+---json
+{
+    "name":"jālāni",
+    "h1":"jālāni",
+    "title":"jālāni -- synonyms, prabhupada.io",
+    "description":"the networks of duality."
+}
+---
 
 ==== dvandva-jālāni  ====
   * the networks of duality --- [[books:sb:6:16:39|SB 6.16.39]]

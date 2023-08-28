@@ -1,5 +1,11 @@
-~~Title:sodhi~~
-{{description>after paying the dues of the government.}}
+---json
+{
+    "name":"sodhi",
+    "h1":"sodhi",
+    "title":"sodhi -- synonyms, prabhupada.io",
+    "description":"after paying the dues of the government."
+}
+---
 
 ==== rāja-dravya śodhi'  ====
   * after paying the dues of the government --- [[books:cc:antya:9:33|Antya 9.33]]

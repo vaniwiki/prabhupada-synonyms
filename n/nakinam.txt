@@ -1,5 +1,11 @@
-~~Title:nākinām~~
-{{description>of the demigods.}}
+---json
+{
+    "name":"nākinām",
+    "h1":"nākinām",
+    "title":"nākinām -- synonyms, prabhupada.io",
+    "description":"of the demigods."
+}
+---
 
 ==== nākinām  ====
   * of the demigods --- [[books:sb:7:8:36|SB 7.8.36]]

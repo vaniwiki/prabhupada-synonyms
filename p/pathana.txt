@@ -1,5 +1,11 @@
-~~Title:pathana~~
-{{description>recitation; responding; the reading of the book.}}
+---json
+{
+    "name":"pathana",
+    "h1":"pathana",
+    "title":"pathana -- synonyms, prabhupada.io",
+    "description":"recitation; responding; the reading of the book."
+}
+---
 
 ==== paṭhana  ====
   * recitation --- [[books:cc:madhya:14:8|Madhya 14.8]], [[books:cc:antya:1:129|Antya 1.129]]

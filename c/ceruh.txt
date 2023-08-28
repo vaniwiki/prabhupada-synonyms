@@ -1,5 +1,11 @@
-~~Title:ceruḥ~~
-{{description>executed; traveled; wandered (to see the extent of the disturbances).}}
+---json
+{
+    "name":"ceruḥ",
+    "h1":"ceruḥ",
+    "title":"ceruḥ -- synonyms, prabhupada.io",
+    "description":"executed; traveled; wandered (to see the extent of the disturbances)."
+}
+---
 
 ==== ceruḥ  ====
   * executed --- [[books:sb:6:16:14|SB 6.16.14]]

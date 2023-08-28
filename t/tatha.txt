@@ -1,5 +1,11 @@
-~~Title:tatha~~
-{{description>so.}}
+---json
+{
+    "name":"tatha",
+    "h1":"tatha",
+    "title":"tatha -- synonyms, prabhupada.io",
+    "description":"so."
+}
+---
 
 ==== tatha  ====
   * so --- [[books:bg:12:18-19|Bg. 12.18-19]]

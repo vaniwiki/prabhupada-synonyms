@@ -1,5 +1,11 @@
-~~Title:samacaran~~
-{{description>executing.}}
+---json
+{
+    "name":"samacaran",
+    "h1":"samacaran",
+    "title":"samacaran -- synonyms, prabhupada.io",
+    "description":"executing."
+}
+---
 
 ==== samacaran  ====
   * executing --- [[books:sb:1:16:32-33|SB 1.16.32-33]]

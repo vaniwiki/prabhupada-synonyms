@@ -1,5 +1,11 @@
-~~Title:tṛṇera~~
-{{description>equal to straw.}}
+---json
+{
+    "name":"tṛṇera",
+    "h1":"tṛṇera",
+    "title":"tṛṇera -- synonyms, prabhupada.io",
+    "description":"equal to straw."
+}
+---
 
 ==== tṛṇera samāna  ====
   * equal to straw --- [[books:cc:antya:16:126|Antya 16.126]]

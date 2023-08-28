@@ -1,5 +1,11 @@
-~~Title:śṛṅgaḥ~~
-{{description>Catuḥ-śṛṅga.}}
+---json
+{
+    "name":"śṛṅgaḥ",
+    "h1":"śṛṅgaḥ",
+    "title":"śṛṅgaḥ -- synonyms, prabhupada.io",
+    "description":"Catuḥ-śṛṅga."
+}
+---
 
 ==== catuḥ-śṛṅgaḥ  ====
   * Catuḥ-śṛṅga --- [[books:sb:5:20:15|SB 5.20.15]]

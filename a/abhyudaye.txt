@@ -1,5 +1,11 @@
-~~Title:abhyudaye~~
-{{description>for furtherance.}}
+---json
+{
+    "name":"abhyudaye",
+    "h1":"abhyudaye",
+    "title":"abhyudaye -- synonyms, prabhupada.io",
+    "description":"for furtherance."
+}
+---
 
 ==== abhyudaye  ====
   * for furtherance --- [[books:sb:7:14:26|SB 7.14.26]]

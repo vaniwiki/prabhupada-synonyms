@@ -1,5 +1,11 @@
-~~Title:tviṣam~~
-{{description>with his body resembling black ointment for the eyes.}}
+---json
+{
+    "name":"tviṣam",
+    "h1":"tviṣam",
+    "title":"tviṣam -- synonyms, prabhupada.io",
+    "description":"with his body resembling black ointment for the eyes."
+}
+---
 
 ==== añjana-tviṣam  ====
   * with his body resembling black ointment for the eyes --- [[books:sb:8:22:13|SB 8.22.13]]

@@ -1,5 +1,11 @@
-~~Title:uḍiyāke~~
-{{description>to the representative of the Orissan government.}}
+---json
+{
+    "name":"uḍiyāke",
+    "h1":"uḍiyāke",
+    "title":"uḍiyāke -- synonyms, prabhupada.io",
+    "description":"to the representative of the Orissan government."
+}
+---
 
 ==== uḍiyāke  ====
   * to the representative of the Orissan government --- [[books:cc:madhya:16:171|Madhya 16.171]]

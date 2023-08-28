@@ -1,5 +1,11 @@
-~~Title:miśritam~~
-{{description>mixed with.}}
+---json
+{
+    "name":"miśritam",
+    "h1":"miśritam",
+    "title":"miśritam -- synonyms, prabhupada.io",
+    "description":"mixed with."
+}
+---
 
 ==== miśritam  ====
   * mixed with --- [[books:cc:antya:20:1|Antya 20.1]]

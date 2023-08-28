@@ -1,5 +1,11 @@
-~~Title:ṭhāma~~
-{{description>the feature of the child.}}
+---json
+{
+    "name":"ṭhāma",
+    "h1":"ṭhāma",
+    "title":"ṭhāma -- synonyms, prabhupada.io",
+    "description":"the feature of the child."
+}
+---
 
 ==== bālaka-ṭhāma  ====
   * the feature of the child --- [[books:cc:adi:13:115|Ādi 13.115]]

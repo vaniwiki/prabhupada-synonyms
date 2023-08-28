@@ -1,5 +1,11 @@
-~~Title:anuvarṇayitum~~
-{{description>please describe factually.}}
+---json
+{
+    "name":"anuvarṇayitum",
+    "h1":"anuvarṇayitum",
+    "title":"anuvarṇayitum -- synonyms, prabhupada.io",
+    "description":"please describe factually."
+}
+---
 
 ==== arhasi anuvarṇayitum  ====
   * please describe factually --- [[books:sb:5:16:3|SB 5.16.3]]

@@ -1,5 +1,11 @@
-~~Title:aśmānam~~
-{{description>very heavy stone like a lump of iron.}}
+---json
+{
+    "name":"aśmānam",
+    "h1":"aśmānam",
+    "title":"aśmānam -- synonyms, prabhupada.io",
+    "description":"very heavy stone like a lump of iron."
+}
+---
 
 ==== aśmānam  ====
   * very heavy stone like a lump of iron --- [[books:sb:10:7:27|SB 10.7.27]]

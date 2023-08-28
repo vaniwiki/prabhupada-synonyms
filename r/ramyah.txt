@@ -1,5 +1,11 @@
-~~Title:ramyāḥ~~
-{{description>beautiful.}}
+---json
+{
+    "name":"ramyāḥ",
+    "h1":"ramyāḥ",
+    "title":"ramyāḥ -- synonyms, prabhupada.io",
+    "description":"beautiful."
+}
+---
 
 ==== ramyāḥ  ====
   * beautiful --- [[books:sb:4:12:16|SB 4.12.16]]

@@ -1,5 +1,11 @@
-~~Title:san~~
-{{description>being; being situated in that position; being so.}}
+---json
+{
+    "name":"san",
+    "h1":"san",
+    "title":"san -- synonyms, prabhupada.io",
+    "description":"being; being situated in that position; being so."
+}
+---
 
 ==== san  ====
   * being --- [[books:sb:3:9:42|SB 3.9.42]], [[books:sb:3:21:19|SB 3.21.19]], [[books:sb:4:23:8|SB 4.23.8]], [[books:cc:madhya:4:1|Madhya 4.1]]

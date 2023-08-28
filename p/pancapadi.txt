@@ -1,5 +1,11 @@
-~~Title:pañcapadī~~
-{{description>Pañcapadī.}}
+---json
+{
+    "name":"pañcapadī",
+    "h1":"pañcapadī",
+    "title":"pañcapadī -- synonyms, prabhupada.io",
+    "description":"Pañcapadī."
+}
+---
 
 ==== pañcapadī  ====
   * Pañcapadī --- [[books:sb:5:20:26|SB 5.20.26]]

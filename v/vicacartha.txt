@@ -1,5 +1,11 @@
-~~Title:vicacartha~~
-{{description>you consulted.}}
+---json
+{
+    "name":"vicacartha",
+    "h1":"vicacartha",
+    "title":"vicacartha -- synonyms, prabhupada.io",
+    "description":"you consulted."
+}
+---
 
 ==== vicacartha  ====
   * you consulted --- [[books:sb:4:28:52|SB 4.28.52]]

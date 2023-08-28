@@ -1,5 +1,11 @@
-~~Title:nipatitau~~
-{{description>which had fallen.}}
+---json
+{
+    "name":"nipatitau",
+    "h1":"nipatitau",
+    "title":"nipatitau -- synonyms, prabhupada.io",
+    "description":"which had fallen."
+}
+---
 
 ==== nipatitau  ====
   * which had fallen --- [[books:sb:10:11:2|SB 10.11.2]]

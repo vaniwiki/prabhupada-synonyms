@@ -1,5 +1,11 @@
-~~Title:vyaharat~~
-{{description>enjoyed by traveling.}}
+---json
+{
+    "name":"vyaharat",
+    "h1":"vyaharat",
+    "title":"vyaharat -- synonyms, prabhupada.io",
+    "description":"enjoyed by traveling."
+}
+---
 
 ==== vyaharat  ====
   * enjoyed by traveling --- [[books:sb:3:2:27|SB 3.2.27]]

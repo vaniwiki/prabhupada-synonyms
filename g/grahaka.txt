@@ -1,5 +1,11 @@
-~~Title:grāhaka~~
-{{description>there is no customer; there was no customer.}}
+---json
+{
+    "name":"grāhaka",
+    "h1":"grāhaka",
+    "title":"grāhaka -- synonyms, prabhupada.io",
+    "description":"there is no customer; there was no customer."
+}
+---
 
 ==== grāhaka nāhi  ====
   * there is no customer --- [[books:cc:madhya:17:144|Madhya 17.144]]

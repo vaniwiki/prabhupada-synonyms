@@ -1,5 +1,11 @@
-~~Title:varila~~
-{{description>appointed.}}
+---json
+{
+    "name":"varila",
+    "h1":"varila",
+    "title":"varila -- synonyms, prabhupada.io",
+    "description":"appointed."
+}
+---
 
 ==== varila  ====
   * appointed --- [[books:cc:madhya:19:4|Madhya 19.4]]

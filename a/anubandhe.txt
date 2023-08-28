@@ -1,5 +1,11 @@
-~~Title:anubandhe~~
-{{description>by binding.}}
+---json
+{
+    "name":"anubandhe",
+    "h1":"anubandhe",
+    "title":"anubandhe -- synonyms, prabhupada.io",
+    "description":"by binding."
+}
+---
 
 ==== anubandhe  ====
   * by binding --- [[books:bg:18:39|Bg. 18.39]]

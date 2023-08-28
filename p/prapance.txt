@@ -1,5 +1,11 @@
-~~Title:prapañce~~
-{{description>in the material world.}}
+---json
+{
+    "name":"prapañce",
+    "h1":"prapañce",
+    "title":"prapañce -- synonyms, prabhupada.io",
+    "description":"in the material world."
+}
+---
 
 ==== prapañce  ====
   * in the material world --- [[books:cc:madhya:20:263|Madhya 20.263]]

@@ -1,5 +1,11 @@
-~~Title:paridhiḥ~~
-{{description>encirclement of burning cinders.}}
+---json
+{
+    "name":"paridhiḥ",
+    "h1":"paridhiḥ",
+    "title":"paridhiḥ -- synonyms, prabhupada.io",
+    "description":"encirclement of burning cinders."
+}
+---
 
 ==== alāta-paridhiḥ  ====
   * encirclement of burning cinders --- [[books:sb:5:2:10|SB 5.2.10]]

@@ -1,5 +1,11 @@
-~~Title:svarge~~
-{{description>in the heavenly planets; to higher planetary systems.}}
+---json
+{
+    "name":"svarge",
+    "h1":"svarge",
+    "title":"svarge -- synonyms, prabhupada.io",
+    "description":"in the heavenly planets; to higher planetary systems."
+}
+---
 
 ==== svarge  ====
   * in the heavenly planets --- [[books:cc:adi:13:96|Ādi 13.96]]

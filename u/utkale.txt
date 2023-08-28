@@ -1,5 +1,11 @@
-~~Title:utkale~~
-{{description>in Orissa.}}
+---json
+{
+    "name":"utkale",
+    "h1":"utkale",
+    "title":"utkale -- synonyms, prabhupada.io",
+    "description":"in Orissa."
+}
+---
 
 ==== utkale  ====
   * in Orissa --- [[books:cc:madhya:15:218|Madhya 15.218]]

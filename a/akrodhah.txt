@@ -1,5 +1,11 @@
-~~Title:akrodhaḥ~~
-{{description>freedom from anger.}}
+---json
+{
+    "name":"akrodhaḥ",
+    "h1":"akrodhaḥ",
+    "title":"akrodhaḥ -- synonyms, prabhupada.io",
+    "description":"freedom from anger."
+}
+---
 
 ==== akrodhaḥ  ====
   * freedom from anger --- [[books:bg:16:1-3|Bg. 16.1-3]]

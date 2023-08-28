@@ -1,5 +1,11 @@
-~~Title:ahivallikā~~
-{{description>of the betel plant.}}
+---json
+{
+    "name":"ahivallikā",
+    "h1":"ahivallikā",
+    "title":"ahivallikā -- synonyms, prabhupada.io",
+    "description":"of the betel plant."
+}
+---
 
 ==== ahivallikā  ====
   * of the betel plant --- [[books:cc:antya:16:119|Antya 16.119]]

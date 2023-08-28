@@ -1,5 +1,11 @@
-~~Title:kūjadbhiḥ~~
-{{description>jingling.}}
+---json
+{
+    "name":"kūjadbhiḥ",
+    "h1":"kūjadbhiḥ",
+    "title":"kūjadbhiḥ -- synonyms, prabhupada.io",
+    "description":"jingling."
+}
+---
 
 ==== kūjadbhiḥ  ====
   * jingling --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

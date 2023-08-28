@@ -1,5 +1,11 @@
-~~Title:āvām~~
-{{description>we; we two.}}
+---json
+{
+    "name":"āvām",
+    "h1":"āvām",
+    "title":"āvām -- synonyms, prabhupada.io",
+    "description":"we; we two."
+}
+---
 
 ==== āvām  ====
   * we --- [[books:sb:4:12:24|SB 4.12.24]]

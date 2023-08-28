@@ -1,5 +1,11 @@
-~~Title:jvalite~~
-{{description>being ignited.}}
+---json
+{
+    "name":"jvalite",
+    "h1":"jvalite",
+    "title":"jvalite -- synonyms, prabhupada.io",
+    "description":"being ignited."
+}
+---
 
 ==== jvalite  ====
   * being ignited --- [[books:sb:1:14:17|SB 1.14.17]]

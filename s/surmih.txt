@@ -1,5 +1,11 @@
-~~Title:sūrmiḥ~~
-{{description>Taptasūrmi.}}
+---json
+{
+    "name":"sūrmiḥ",
+    "h1":"sūrmiḥ",
+    "title":"sūrmiḥ -- synonyms, prabhupada.io",
+    "description":"Taptasūrmi."
+}
+---
 
 ==== tapta-sūrmiḥ  ====
   * Taptasūrmi --- [[books:sb:5:26:7|SB 5.26.7]]

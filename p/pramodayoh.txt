@@ -1,5 +1,11 @@
-~~Title:pramodayoḥ~~
-{{description>specific sport.}}
+---json
+{
+    "name":"pramodayoḥ",
+    "h1":"pramodayoḥ",
+    "title":"pramodayoḥ -- synonyms, prabhupada.io",
+    "description":"specific sport."
+}
+---
 
 ==== pramodayoḥ  ====
   * specific sport --- [[books:sb:2:6:2|SB 2.6.2]]

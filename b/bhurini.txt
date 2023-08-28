@@ -1,5 +1,11 @@
-~~Title:bhūrīṇi~~
-{{description>multifarious.}}
+---json
+{
+    "name":"bhūrīṇi",
+    "h1":"bhūrīṇi",
+    "title":"bhūrīṇi -- synonyms, prabhupada.io",
+    "description":"multifarious."
+}
+---
 
 ==== bhūrīṇi  ====
   * multifarious --- [[books:sb:1:1:11|SB 1.1.11]]

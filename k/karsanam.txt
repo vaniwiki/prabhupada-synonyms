@@ -1,5 +1,11 @@
-~~Title:karsanam~~
-{{description>rendering thin.}}
+---json
+{
+    "name":"karsanam",
+    "h1":"karsanam",
+    "title":"karsanam -- synonyms, prabhupada.io",
+    "description":"rendering thin."
+}
+---
 
 ==== karśanam  ====
   * rendering thin --- [[books:sb:4:28:35-36|SB 4.28.35-36]]

@@ -1,5 +1,11 @@
-~~Title:upadiśanti~~
-{{description>instruct; learned scholars describe; saintly persons indicate; they (learned scholars) teach; they call; they instruct.}}
+---json
+{
+    "name":"upadiśanti",
+    "h1":"upadiśanti",
+    "title":"upadiśanti -- synonyms, prabhupada.io",
+    "description":"instruct; learned scholars describe; saintly persons indicate; they (learned scholars) teach; they call; they instruct."
+}
+---
 
 ==== upadiśanti  ====
   * instruct --- [[books:sb:5:21:2|SB 5.21.2]]

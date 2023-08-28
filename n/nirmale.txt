@@ -1,5 +1,11 @@
-~~Title:nirmale~~
-{{description>spotless.}}
+---json
+{
+    "name":"nirmale",
+    "h1":"nirmale",
+    "title":"nirmale -- synonyms, prabhupada.io",
+    "description":"spotless."
+}
+---
 
 ==== nirmale  ====
   * spotless --- [[books:sb:3:23:28|SB 3.23.28]]

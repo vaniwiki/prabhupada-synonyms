@@ -1,5 +1,11 @@
-~~Title:kuṣṭhe~~
-{{description>because of leprosy.}}
+---json
+{
+    "name":"kuṣṭhe",
+    "h1":"kuṣṭhe",
+    "title":"kuṣṭhe -- synonyms, prabhupada.io",
+    "description":"because of leprosy."
+}
+---
 
 ==== kuṣṭhe  ====
   * because of leprosy --- [[books:cc:antya:3:210|Antya 3.210]]

@@ -1,5 +1,11 @@
-~~Title:prajajvāla~~
-{{description>burned.}}
+---json
+{
+    "name":"prajajvāla",
+    "h1":"prajajvāla",
+    "title":"prajajvāla -- synonyms, prabhupada.io",
+    "description":"burned."
+}
+---
 
 ==== prajajvāla  ====
   * burned --- [[books:sb:4:4:27|SB 4.4.27]]

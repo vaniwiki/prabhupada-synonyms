@@ -1,5 +1,11 @@
-~~Title:kālyante~~
-{{description>are not being driven.}}
+---json
+{
+    "name":"kālyante",
+    "h1":"kālyante",
+    "title":"kālyante -- synonyms, prabhupada.io",
+    "description":"are not being driven."
+}
+---
 
 ==== na kālyante  ====
   * are not being driven --- [[books:sb:4:5:8|SB 4.5.8]]

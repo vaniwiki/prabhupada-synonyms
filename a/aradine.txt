@@ -1,5 +1,11 @@
-~~Title:āradine~~
-{{description>the next day.}}
+---json
+{
+    "name":"āradine",
+    "h1":"āradine",
+    "title":"āradine -- synonyms, prabhupada.io",
+    "description":"the next day."
+}
+---
 
 ==== āradine  ====
   * the next day --- [[books:cc:antya:3:20|Antya 3.20]]

@@ -1,5 +1,11 @@
-~~Title:vinodah~~
-{{description>pleasure.}}
+---json
+{
+    "name":"vinodah",
+    "h1":"vinodah",
+    "title":"vinodah -- synonyms, prabhupada.io",
+    "description":"pleasure."
+}
+---
 
 ==== vinodaḥ  ====
   * pleasure --- [[books:sb:3:16:24|SB 3.16.24]]

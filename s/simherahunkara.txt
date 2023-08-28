@@ -1,5 +1,11 @@
-~~Title:siṁherahuṅkāra~~
-{{description>the roar of a lion.}}
+---json
+{
+    "name":"siṁherahuṅkāra",
+    "h1":"siṁherahuṅkāra",
+    "title":"siṁherahuṅkāra -- synonyms, prabhupada.io",
+    "description":"the roar of a lion."
+}
+---
 
 ==== siṁherahuṅkāra  ====
   * the roar of a lion --- [[books:cc:adi:3:30|Ādi 3.30]]

@@ -1,5 +1,11 @@
-~~Title:kimapi~~
-{{description>anything.}}
+---json
+{
+    "name":"kimapi",
+    "h1":"kimapi",
+    "title":"kimapi -- synonyms, prabhupada.io",
+    "description":"anything."
+}
+---
 
 ==== kimapi  ====
   * anything --- [[books:sb:5:4:18|SB 5.4.18]]

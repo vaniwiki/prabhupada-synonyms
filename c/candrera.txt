@@ -1,5 +1,11 @@
-~~Title:candrera~~
-{{description>of the moon; who is as bright as the moon.}}
+---json
+{
+    "name":"candrera",
+    "h1":"candrera",
+    "title":"candrera -- synonyms, prabhupada.io",
+    "description":"of the moon; who is as bright as the moon."
+}
+---
 
 ==== candrera  ====
   * of the moon --- [[books:cc:adi:13:92|Ādi 13.92]]

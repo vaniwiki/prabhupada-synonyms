@@ -1,5 +1,11 @@
-~~Title:bedaya~~
-{{description>loiter; walks; walks through; wanders.}}
+---json
+{
+    "name":"bedaya",
+    "h1":"bedaya",
+    "title":"bedaya -- synonyms, prabhupada.io",
+    "description":"loiter; walks; walks through; wanders."
+}
+---
 
 ==== beḍāya  ====
   * loiter --- [[books:cc:antya:8:51|Antya 8.51]]

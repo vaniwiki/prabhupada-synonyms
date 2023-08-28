@@ -1,5 +1,11 @@
-~~Title:uṣṭra~~
-{{description>camel; camels; the camel.}}
+---json
+{
+    "name":"uṣṭra",
+    "h1":"uṣṭra",
+    "title":"uṣṭra -- synonyms, prabhupada.io",
+    "description":"camel; camels; the camel."
+}
+---
 
 ==== uṣṭra  ====
   * camel --- [[books:sb:2:1:35|SB 2.1.35]]

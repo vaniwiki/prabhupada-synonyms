@@ -1,5 +1,11 @@
-~~Title:anusandhāya~~
-{{description>just to search out.}}
+---json
+{
+    "name":"anusandhāya",
+    "h1":"anusandhāya",
+    "title":"anusandhāya -- synonyms, prabhupada.io",
+    "description":"just to search out."
+}
+---
 
 ==== anusandhāya  ====
   * just to search out --- [[books:sb:2:2:20|SB 2.2.20]]

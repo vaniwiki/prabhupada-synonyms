@@ -1,5 +1,11 @@
-~~Title:kaṇṭakam~~
-{{description>thorn.}}
+---json
+{
+    "name":"kaṇṭakam",
+    "h1":"kaṇṭakam",
+    "title":"kaṇṭakam -- synonyms, prabhupada.io",
+    "description":"thorn."
+}
+---
 
 ==== kaṇṭakam  ====
   * thorn --- [[books:sb:1:15:34|SB 1.15.34]]

@@ -1,5 +1,11 @@
-~~Title:nigarbha~~
-{{description>nigarbha.}}
+---json
+{
+    "name":"nigarbha",
+    "h1":"nigarbha",
+    "title":"nigarbha -- synonyms, prabhupada.io",
+    "description":"nigarbha."
+}
+---
 
 ==== nigarbha  ====
   * //nigarbha// --- [[books:cc:madhya:24:155|Madhya 24.155]]

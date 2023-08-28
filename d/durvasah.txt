@@ -1,5 +1,11 @@
-~~Title:durvasah~~
-{{description>of Durvāsā Muni.}}
+---json
+{
+    "name":"durvasah",
+    "h1":"durvasah",
+    "title":"durvasah -- synonyms, prabhupada.io",
+    "description":"of Durvāsā Muni."
+}
+---
 
 ==== durvāsaḥ  ====
   * of Durvāsā Muni --- [[books:sb:8:5:15-16|SB 8.5.15-16]]

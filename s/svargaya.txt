@@ -1,5 +1,11 @@
-~~Title:svargāya~~
-{{description>the Lord who is glorified in heaven.}}
+---json
+{
+    "name":"svargāya",
+    "h1":"svargāya",
+    "title":"svargāya -- synonyms, prabhupada.io",
+    "description":"the Lord who is glorified in heaven."
+}
+---
 
 ==== svargāya  ====
   * the Lord who is glorified in heaven --- [[books:sb:1:1:4|SB 1.1.4]]

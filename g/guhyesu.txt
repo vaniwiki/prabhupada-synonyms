@@ -1,5 +1,11 @@
-~~Title:guhyeṣu~~
-{{description>confidentially.}}
+---json
+{
+    "name":"guhyeṣu",
+    "h1":"guhyeṣu",
+    "title":"guhyeṣu -- synonyms, prabhupada.io",
+    "description":"confidentially."
+}
+---
 
 ==== guhyeṣu  ====
   * confidentially --- [[books:sb:1:10:24|SB 1.10.24]]

@@ -1,5 +1,11 @@
-~~Title:kandharān~~
-{{description>and shoulders.}}
+---json
+{
+    "name":"kandharān",
+    "h1":"kandharān",
+    "title":"kandharān -- synonyms, prabhupada.io",
+    "description":"and shoulders."
+}
+---
 
 ==== kandharān  ====
   * and shoulders --- [[books:sb:8:6:36|SB 8.6.36]]

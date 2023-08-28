@@ -1,5 +1,11 @@
-~~Title:vanitā~~
-{{description>the women.}}
+---json
+{
+    "name":"vanitā",
+    "h1":"vanitā",
+    "title":"vanitā -- synonyms, prabhupada.io",
+    "description":"the women."
+}
+---
 
 ==== vanitā  ====
   * the women --- [[books:sb:5:2:2|SB 5.2.2]]

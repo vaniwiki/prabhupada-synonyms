@@ -1,5 +1,11 @@
-~~Title:agrete~~
-{{description>in front.}}
+---json
+{
+    "name":"agrete",
+    "h1":"agrete",
+    "title":"agrete -- synonyms, prabhupada.io",
+    "description":"in front."
+}
+---
 
 ==== agrete  ====
   * in front --- [[books:cc:adi:17:291|Ādi 17.291]], [[books:cc:madhya:1:189|Madhya 1.189]], [[books:cc:madhya:6:10|Madhya 6.10]], [[books:cc:madhya:14:208|Madhya 14.208]], [[books:cc:antya:11:50|Antya 11.50]]

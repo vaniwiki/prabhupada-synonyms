@@ -1,5 +1,11 @@
-~~Title:han~~
-{{description>am.}}
+---json
+{
+    "name":"han",
+    "h1":"han",
+    "title":"han -- synonyms, prabhupada.io",
+    "description":"am."
+}
+---
 
 ==== haṅ  ====
   * am --- [[books:cc:adi:16:103|Ādi 16.103]], [[books:cc:madhya:6:56|Madhya 6.56]]

@@ -1,5 +1,11 @@
-~~Title:kutira~~
-{{description>a cottage.}}
+---json
+{
+    "name":"kutira",
+    "h1":"kutira",
+    "title":"kutira -- synonyms, prabhupada.io",
+    "description":"a cottage."
+}
+---
 
 ==== kuṭira  ====
   * a cottage --- [[books:cc:antya:3:100|Antya 3.100]]

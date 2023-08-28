@@ -1,5 +1,11 @@
-~~Title:ojasam~~
-{{description>and power of the senses; and the strength of the senses.}}
+---json
+{
+    "name":"ojasam",
+    "h1":"ojasam",
+    "title":"ojasam -- synonyms, prabhupada.io",
+    "description":"and power of the senses; and the strength of the senses."
+}
+---
 
 ==== ojasām  ====
   * and power of the senses --- [[books:sb:7:4:13|SB 7.4.13]]

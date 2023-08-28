@@ -1,5 +1,11 @@
-~~Title:pāṭhāle~~
-{{description>you sent.}}
+---json
+{
+    "name":"pāṭhāle",
+    "h1":"pāṭhāle",
+    "title":"pāṭhāle -- synonyms, prabhupada.io",
+    "description":"you sent."
+}
+---
 
 ==== pāṭhāle  ====
   * you sent --- [[books:cc:madhya:1:209|Madhya 1.209]]

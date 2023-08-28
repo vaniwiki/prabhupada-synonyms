@@ -1,5 +1,11 @@
-~~Title:akartavya~~
-{{description>duty which is not permissible.}}
+---json
+{
+    "name":"akartavya",
+    "h1":"akartavya",
+    "title":"akartavya -- synonyms, prabhupada.io",
+    "description":"duty which is not permissible."
+}
+---
 
 ==== akartavya  ====
   * duty which is not permissible --- [[books:cc:madhya:12:26|Madhya 12.26]]

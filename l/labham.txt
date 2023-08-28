@@ -1,5 +1,11 @@
-~~Title:lābham~~
-{{description>gain.}}
+---json
+{
+    "name":"lābham",
+    "h1":"lābham",
+    "title":"lābham -- synonyms, prabhupada.io",
+    "description":"gain."
+}
+---
 
 ==== lābham  ====
   * gain --- [[books:bg:6:20-23|Bg. 6.20-23]], [[books:sb:3:6:37|SB 3.6.37]]

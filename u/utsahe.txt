@@ -1,5 +1,11 @@
-~~Title:utsahe~~
-{{description>I am able; I can be enthusiastic in that way (it is not possible); like.}}
+---json
+{
+    "name":"utsahe",
+    "h1":"utsahe",
+    "title":"utsahe -- synonyms, prabhupada.io",
+    "description":"I am able; I can be enthusiastic in that way (it is not possible); like."
+}
+---
 
 ==== utsahe  ====
   * I am able --- [[books:sb:9:18:27|SB 9.18.27]]

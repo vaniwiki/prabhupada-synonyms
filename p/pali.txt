@@ -1,5 +1,11 @@
-~~Title:pali~~
-{{description>I maintain.}}
+---json
+{
+    "name":"pali",
+    "h1":"pali",
+    "title":"pali -- synonyms, prabhupada.io",
+    "description":"I maintain."
+}
+---
 
 ==== pāli āmi  ====
   * I maintain --- [[books:cc:madhya:21:86|Madhya 21.86]]

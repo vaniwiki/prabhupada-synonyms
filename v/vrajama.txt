@@ -1,5 +1,11 @@
-~~Title:vrajāma~~
-{{description>we approach; we shall go.}}
+---json
+{
+    "name":"vrajāma",
+    "h1":"vrajāma",
+    "title":"vrajāma -- synonyms, prabhupada.io",
+    "description":"we approach; we shall go."
+}
+---
 
 ==== vrajāma  ====
   * we approach --- [[books:sb:6:9:26-27|SB 6.9.26-27]]

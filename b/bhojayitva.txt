@@ -1,5 +1,11 @@
-~~Title:bhojayitvā~~
-{{description>feeding them.}}
+---json
+{
+    "name":"bhojayitvā",
+    "h1":"bhojayitvā",
+    "title":"bhojayitvā -- synonyms, prabhupada.io",
+    "description":"feeding them."
+}
+---
 
 ==== bhojayitvā  ====
   * feeding them --- [[books:sb:9:4:33-35|SB 9.4.33-35]]

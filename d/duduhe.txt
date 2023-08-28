@@ -1,5 +1,11 @@
-~~Title:duduhe~~
-{{description>fulfilled; will milk.}}
+---json
+{
+    "name":"duduhe",
+    "h1":"duduhe",
+    "title":"duduhe -- synonyms, prabhupada.io",
+    "description":"fulfilled; will milk."
+}
+---
 
 ==== duduhe  ====
   * fulfilled --- [[books:sb:5:15:10|SB 5.15.10]]

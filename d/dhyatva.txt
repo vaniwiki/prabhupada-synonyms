@@ -1,5 +1,11 @@
-~~Title:dhyātvā~~
-{{description>after thinking; by meditating.}}
+---json
+{
+    "name":"dhyātvā",
+    "h1":"dhyātvā",
+    "title":"dhyātvā -- synonyms, prabhupada.io",
+    "description":"after thinking; by meditating."
+}
+---
 
 ==== dhyātvā  ====
   * after thinking --- [[books:sb:10:13:43|SB 10.13.43]]

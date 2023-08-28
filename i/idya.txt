@@ -1,5 +1,11 @@
-~~Title:īḍya~~
-{{description>O worshipable Lord; O worshipable one; O worshipful one; O you who are worshiped.}}
+---json
+{
+    "name":"īḍya",
+    "h1":"īḍya",
+    "title":"īḍya -- synonyms, prabhupada.io",
+    "description":"O worshipable Lord; O worshipable one; O worshipful one; O you who are worshiped."
+}
+---
 
 ==== īḍya  ====
   * O worshipable Lord --- [[books:sb:3:21:13|SB 3.21.13]]

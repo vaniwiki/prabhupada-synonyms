@@ -1,5 +1,11 @@
-~~Title:upahūya~~
-{{description>by calling.}}
+---json
+{
+    "name":"upahūya",
+    "h1":"upahūya",
+    "title":"upahūya -- synonyms, prabhupada.io",
+    "description":"by calling."
+}
+---
 
 ==== upahūya  ====
   * by calling --- [[books:sb:3:4:17|SB 3.4.17]]

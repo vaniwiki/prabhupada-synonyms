@@ -1,5 +1,11 @@
-~~Title:kaṭakete~~
-{{description>in the town of Kaṭaka.}}
+---json
+{
+    "name":"kaṭakete",
+    "h1":"kaṭakete",
+    "title":"kaṭakete -- synonyms, prabhupada.io",
+    "description":"in the town of Kaṭaka."
+}
+---
 
 ==== kaṭakete  ====
   * in the town of Kaṭaka --- [[books:cc:madhya:5:133|Madhya 5.133]]

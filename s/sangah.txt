@@ -1,5 +1,11 @@
-~~Title:sangah~~
-{{description>association; association or attachment; attachment; from material association; material association; material contamination.}}
+---json
+{
+    "name":"sangah",
+    "h1":"sangah",
+    "title":"sangah -- synonyms, prabhupada.io",
+    "description":"association; association or attachment; attachment; from material association; material association; material contamination."
+}
+---
 
 ==== saṅgaḥ  ====
   * association --- [[books:sb:1:19:7|SB 1.19.7]], [[books:sb:3:23:55|SB 3.23.55]], [[books:sb:4:23:39|SB 4.23.39]], [[books:sb:4:30:33|SB 4.30.33]], [[books:cc:madhya:22:131|Madhya 22.131]]

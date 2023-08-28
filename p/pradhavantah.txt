@@ -1,5 +1,11 @@
-~~Title:pradhāvantaḥ~~
-{{description>someone running on the ground after the birds.}}
+---json
+{
+    "name":"pradhāvantaḥ",
+    "h1":"pradhāvantaḥ",
+    "title":"pradhāvantaḥ -- synonyms, prabhupada.io",
+    "description":"someone running on the ground after the birds."
+}
+---
 
 ==== pradhāvantaḥ  ====
   * someone running on the ground after the birds --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

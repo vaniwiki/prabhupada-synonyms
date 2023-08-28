@@ -1,5 +1,11 @@
-~~Title:duiprabhu~~
-{{description>the two prabhus (Caitanya Mahāprabhu and Nityānanda Prabhu).}}
+---json
+{
+    "name":"duiprabhu",
+    "h1":"duiprabhu",
+    "title":"duiprabhu -- synonyms, prabhupada.io",
+    "description":"the two prabhus (Caitanya Mahāprabhu and Nityānanda Prabhu)."
+}
+---
 
 ==== duiprabhu  ====
   * the two //prabhus// (Caitanya Mahāprabhu and Nityānanda Prabhu) --- [[books:cc:madhya:3:64|Madhya 3.64]]

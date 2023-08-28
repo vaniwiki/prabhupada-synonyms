@@ -1,5 +1,11 @@
-~~Title:rahiyā~~
-{{description>staying.}}
+---json
+{
+    "name":"rahiyā",
+    "h1":"rahiyā",
+    "title":"rahiyā -- synonyms, prabhupada.io",
+    "description":"staying."
+}
+---
 
 ==== rahiyā  ====
   * staying --- [[books:cc:madhya:19:135|Madhya 19.135]]

@@ -1,5 +1,11 @@
-~~Title:anasam~~
-{{description>the house of the kitchen department.}}
+---json
+{
+    "name":"anasam",
+    "h1":"anasam",
+    "title":"anasam -- synonyms, prabhupada.io",
+    "description":"the house of the kitchen department."
+}
+---
 
 ==== mahā-anasam  ====
   * the house of the kitchen department --- [[books:sb:4:5:14|SB 4.5.14]]

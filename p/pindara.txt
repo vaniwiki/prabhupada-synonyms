@@ -1,5 +1,11 @@
-~~Title:pindara~~
-{{description>below the platform.}}
+---json
+{
+    "name":"pindara",
+    "h1":"pindara",
+    "title":"pindara -- synonyms, prabhupada.io",
+    "description":"below the platform."
+}
+---
 
 ==== piṇḍāra tale  ====
   * below the platform --- [[books:cc:antya:4:23|Antya 4.23]]

@@ -1,5 +1,11 @@
-~~Title:advitīye~~
-{{description>without a second.}}
+---json
+{
+    "name":"advitīye",
+    "h1":"advitīye",
+    "title":"advitīye -- synonyms, prabhupada.io",
+    "description":"without a second."
+}
+---
 
 ==== advitīye  ====
   * without a second --- [[books:sb:4:7:52|SB 4.7.52]]

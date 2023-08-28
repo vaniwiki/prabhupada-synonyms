@@ -1,5 +1,11 @@
-~~Title:samārebhe~~
-{{description>began.}}
+---json
+{
+    "name":"samārebhe",
+    "h1":"samārebhe",
+    "title":"samārebhe -- synonyms, prabhupada.io",
+    "description":"began."
+}
+---
 
 ==== samārebhe  ====
   * began --- [[books:sb:4:3:3|SB 4.3.3]]

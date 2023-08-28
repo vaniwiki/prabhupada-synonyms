@@ -1,5 +1,11 @@
-~~Title:veṣṭitam~~
-{{description>covered by wood.}}
+---json
+{
+    "name":"veṣṭitam",
+    "h1":"veṣṭitam",
+    "title":"veṣṭitam -- synonyms, prabhupada.io",
+    "description":"covered by wood."
+}
+---
 
 ==== kāṣṭha-veṣṭitam  ====
   * covered by wood --- [[books:sb:10:6:33|SB 10.6.33]]

@@ -1,5 +1,11 @@
-~~Title:ākṛte~~
-{{description>the form of a boar.}}
+---json
+{
+    "name":"ākṛte",
+    "h1":"ākṛte",
+    "title":"ākṛte -- synonyms, prabhupada.io",
+    "description":"the form of a boar."
+}
+---
 
 ==== sūkara-ākṛte  ====
   * the form of a boar --- [[books:sb:3:18:3|SB 3.18.3]]

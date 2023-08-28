@@ -1,5 +1,11 @@
-~~Title:asaṅkhyeya~~
-{{description>innumerable.}}
+---json
+{
+    "name":"asaṅkhyeya",
+    "h1":"asaṅkhyeya",
+    "title":"asaṅkhyeya -- synonyms, prabhupada.io",
+    "description":"innumerable."
+}
+---
 
 ==== asaṅkhyeya  ====
   * innumerable --- [[books:sb:5:18:33|SB 5.18.33]]

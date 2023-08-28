@@ -1,5 +1,11 @@
-~~Title:jīrṇaḥ~~
-{{description>deteriorated.}}
+---json
+{
+    "name":"jīrṇaḥ",
+    "h1":"jīrṇaḥ",
+    "title":"jīrṇaḥ -- synonyms, prabhupada.io",
+    "description":"deteriorated."
+}
+---
 
 ==== jīrṇaḥ  ====
   * deteriorated --- [[books:sb:1:13:25|SB 1.13.25]]

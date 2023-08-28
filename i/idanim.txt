@@ -1,5 +1,11 @@
-~~Title:idānīm~~
-{{description>at present; at the present moment; at this time, at the present; how; just now; now.}}
+---json
+{
+    "name":"idānīm",
+    "h1":"idānīm",
+    "title":"idānīm -- synonyms, prabhupada.io",
+    "description":"at present; at the present moment; at this time, at the present; how; just now; now."
+}
+---
 
 ==== idānīm  ====
   * at present --- [[books:sb:3:10:13|SB 3.10.13]]

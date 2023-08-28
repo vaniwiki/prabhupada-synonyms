@@ -1,5 +1,11 @@
-~~Title:anubhajan~~
-{{description>continuously engaging in devotional service.}}
+---json
+{
+    "name":"anubhajan",
+    "h1":"anubhajan",
+    "title":"anubhajan -- synonyms, prabhupada.io",
+    "description":"continuously engaging in devotional service."
+}
+---
 
 ==== anubhajan  ====
   * continuously engaging in devotional service --- [[books:sb:4:29:82|SB 4.29.82]]

@@ -1,5 +1,11 @@
-~~Title:vijña~~
-{{description>all-intelligent; experienced; learned scholar.}}
+---json
+{
+    "name":"vijña",
+    "h1":"vijña",
+    "title":"vijña -- synonyms, prabhupada.io",
+    "description":"all-intelligent; experienced; learned scholar."
+}
+---
 
 ==== vijña  ====
   * all-intelligent --- [[books:cc:madhya:22:39|Madhya 22.39]]

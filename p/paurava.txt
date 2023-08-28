@@ -1,5 +1,11 @@
-~~Title:paurava~~
-{{description>O Vidura.}}
+---json
+{
+    "name":"paurava",
+    "h1":"paurava",
+    "title":"paurava -- synonyms, prabhupada.io",
+    "description":"O Vidura."
+}
+---
 
 ==== paurava  ====
   * O Vidura --- [[books:sb:4:13:49|SB 4.13.49]]

@@ -1,5 +1,11 @@
-~~Title:vyavacchidya~~
-{{description>having decided.}}
+---json
+{
+    "name":"vyavacchidya",
+    "h1":"vyavacchidya",
+    "title":"vyavacchidya -- synonyms, prabhupada.io",
+    "description":"having decided."
+}
+---
 
 ==== vyavacchidya  ====
   * having decided --- [[books:sb:1:19:7|SB 1.19.7]]

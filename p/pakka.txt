@@ -1,5 +1,11 @@
-~~Title:pakka~~
-{{description>mature.}}
+---json
+{
+    "name":"pakka",
+    "h1":"pakka",
+    "title":"pakka -- synonyms, prabhupada.io",
+    "description":"mature."
+}
+---
 
 ==== pakka  ====
   * mature --- [[books:cc:antya:13:67|Antya 13.67]]

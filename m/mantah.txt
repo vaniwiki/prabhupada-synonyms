@@ -1,5 +1,11 @@
-~~Title:mantaḥ~~
-{{description>modest.}}
+---json
+{
+    "name":"mantaḥ",
+    "h1":"mantaḥ",
+    "title":"mantaḥ -- synonyms, prabhupada.io",
+    "description":"modest."
+}
+---
 
 ==== hrī-mantaḥ  ====
   * modest --- [[books:sb:4:15:25|SB 4.15.25]]

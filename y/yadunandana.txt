@@ -1,5 +1,11 @@
-~~Title:yadunandana~~
-{{description>the priest of the name Yadunandana Ācārya.}}
+---json
+{
+    "name":"yadunandana",
+    "h1":"yadunandana",
+    "title":"yadunandana -- synonyms, prabhupada.io",
+    "description":"the priest of the name Yadunandana Ācārya."
+}
+---
 
 ==== yadunandana-ācārya  ====
   * the priest of the name Yadunandana Ācārya --- [[books:cc:antya:6:159-160|Antya 6.159-160]]

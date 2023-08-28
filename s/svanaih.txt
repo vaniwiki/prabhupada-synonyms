@@ -1,5 +1,11 @@
-~~Title:svanaiḥ~~
-{{description>by the sounds.}}
+---json
+{
+    "name":"svanaiḥ",
+    "h1":"svanaiḥ",
+    "title":"svanaiḥ -- synonyms, prabhupada.io",
+    "description":"by the sounds."
+}
+---
 
 ==== svanaiḥ  ====
   * by the sounds --- [[books:sb:8:15:21|SB 8.15.21]], [[books:cc:adi:1:17|Ādi 1.17]], [[books:cc:antya:1:7|Antya 1.7]]

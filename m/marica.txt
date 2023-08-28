@@ -1,5 +1,11 @@
-~~Title:marica~~
-{{description>black pepper.}}
+---json
+{
+    "name":"marica",
+    "h1":"marica",
+    "title":"marica -- synonyms, prabhupada.io",
+    "description":"black pepper."
+}
+---
 
 ==== marica  ====
   * black pepper --- [[books:cc:madhya:23:49|Madhya 23.49]], [[books:cc:antya:10:29-30|Antya 10.29-30]], [[books:cc:antya:16:108-109|Antya 16.108-109]]

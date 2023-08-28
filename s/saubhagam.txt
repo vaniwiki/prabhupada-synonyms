@@ -1,5 +1,11 @@
-~~Title:saubhagam~~
-{{description>all-blissful; auspiciousness; beauty; fortune; good fortune; great fortune.}}
+---json
+{
+    "name":"saubhagam",
+    "h1":"saubhagam",
+    "title":"saubhagam -- synonyms, prabhupada.io",
+    "description":"all-blissful; auspiciousness; beauty; fortune; good fortune; great fortune."
+}
+---
 
 ==== saubhagam  ====
   * all-blissful --- [[books:sb:1:16:32-33|SB 1.16.32-33]]

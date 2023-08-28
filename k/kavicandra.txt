@@ -1,5 +1,11 @@
-~~Title:kavicandra~~
-{{description>of the name Kavicandra.}}
+---json
+{
+    "name":"kavicandra",
+    "h1":"kavicandra",
+    "title":"kavicandra -- synonyms, prabhupada.io",
+    "description":"of the name Kavicandra."
+}
+---
 
 ==== kavicandra  ====
   * of the name Kavicandra --- [[books:cc:adi:10:109|Ādi 10.109]], [[books:cc:adi:10:113|Ādi 10.113]]

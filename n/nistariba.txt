@@ -1,5 +1,11 @@
-~~Title:nistāriba~~
-{{description>I shall deliver.}}
+---json
+{
+    "name":"nistāriba",
+    "h1":"nistāriba",
+    "title":"nistāriba -- synonyms, prabhupada.io",
+    "description":"I shall deliver."
+}
+---
 
 ==== nistāriba  ====
   * I shall deliver --- [[books:cc:madhya:4:40|Madhya 4.40]]

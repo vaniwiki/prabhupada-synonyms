@@ -1,5 +1,11 @@
-~~Title:vākyatā~~
-{{description>consistency.}}
+---json
+{
+    "name":"vākyatā",
+    "h1":"vākyatā",
+    "title":"vākyatā -- synonyms, prabhupada.io",
+    "description":"consistency."
+}
+---
 
 ==== eka-vākyatā  ====
   * consistency --- [[books:cc:antya:7:114|Antya 7.114]]

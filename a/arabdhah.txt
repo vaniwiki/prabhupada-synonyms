@@ -1,5 +1,11 @@
-~~Title:arabdhah~~
-{{description>beginning; beginning from; commenced; created; was arranged; was undertaken; Ārabdha (was the son of Setu).}}
+---json
+{
+    "name":"arabdhah",
+    "h1":"arabdhah",
+    "title":"arabdhah -- synonyms, prabhupada.io",
+    "description":"beginning; beginning from; commenced; created; was arranged; was undertaken; Ārabdha (was the son of Setu)."
+}
+---
 
 ==== ārabdhaḥ  ====
   * beginning --- [[books:sb:4:23:4|SB 4.23.4]]

@@ -1,5 +1,11 @@
-~~Title:bhallaiḥ~~
-{{description>by arrows; by his arrows; with another type of arrow; with lances.}}
+---json
+{
+    "name":"bhallaiḥ",
+    "h1":"bhallaiḥ",
+    "title":"bhallaiḥ -- synonyms, prabhupada.io",
+    "description":"by arrows; by his arrows; with another type of arrow; with lances."
+}
+---
 
 ==== bhallaiḥ  ====
   * by arrows --- [[books:sb:9:6:17|SB 9.6.17]]

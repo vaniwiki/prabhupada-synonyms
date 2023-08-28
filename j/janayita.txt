@@ -1,5 +1,11 @@
-~~Title:janayitā~~
-{{description>producer.}}
+---json
+{
+    "name":"janayitā",
+    "h1":"janayitā",
+    "title":"janayitā -- synonyms, prabhupada.io",
+    "description":"producer."
+}
+---
 
 ==== janayitā  ====
   * producer --- [[books:sb:1:12:26|SB 1.12.26]]

@@ -1,5 +1,11 @@
-~~Title:pārāśarya~~
-{{description>O son of Parāśara.}}
+---json
+{
+    "name":"pārāśarya",
+    "h1":"pārāśarya",
+    "title":"pārāśarya -- synonyms, prabhupada.io",
+    "description":"O son of Parāśara."
+}
+---
 
 ==== pārāśarya  ====
   * O son of Parāśara --- [[books:sb:1:5:2|SB 1.5.2]]

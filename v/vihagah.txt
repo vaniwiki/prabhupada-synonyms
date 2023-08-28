@@ -1,5 +1,11 @@
-~~Title:vihagāḥ~~
-{{description>the birds.}}
+---json
+{
+    "name":"vihagāḥ",
+    "h1":"vihagāḥ",
+    "title":"vihagāḥ -- synonyms, prabhupada.io",
+    "description":"the birds."
+}
+---
 
 ==== vihagāḥ  ====
   * the birds --- [[books:sb:4:18:23-24|SB 4.18.23-24]], [[books:cc:madhya:24:176|Madhya 24.176]]

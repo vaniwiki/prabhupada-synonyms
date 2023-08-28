@@ -1,5 +1,11 @@
-~~Title:saṅgera~~
-{{description>association; of association; of constant companionship; the companion.}}
+---json
+{
+    "name":"saṅgera",
+    "h1":"saṅgera",
+    "title":"saṅgera -- synonyms, prabhupada.io",
+    "description":"association; of association; of constant companionship; the companion."
+}
+---
 
 ==== saṅgera  ====
   * association --- [[books:cc:antya:10:6|Antya 10.6]]

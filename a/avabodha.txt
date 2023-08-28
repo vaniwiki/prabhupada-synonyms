@@ -1,5 +1,11 @@
-~~Title:avabodha~~
-{{description>consciousness; knowledge.}}
+---json
+{
+    "name":"avabodha",
+    "h1":"avabodha",
+    "title":"avabodha -- synonyms, prabhupada.io",
+    "description":"consciousness; knowledge."
+}
+---
 
 ==== avabodha  ====
   * consciousness --- [[books:sb:3:7:5|SB 3.7.5]]

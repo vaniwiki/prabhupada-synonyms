@@ -1,5 +1,11 @@
-~~Title:pratipakah~~
-{{description>a son named Pratīpaka.}}
+---json
+{
+    "name":"pratipakah",
+    "h1":"pratipakah",
+    "title":"pratipakah -- synonyms, prabhupada.io",
+    "description":"a son named Pratīpaka."
+}
+---
 
 ==== pratīpakaḥ  ====
   * a son named Pratīpaka --- [[books:sb:9:13:16|SB 9.13.16]]

@@ -1,5 +1,11 @@
-~~Title:saṁspṛśet~~
-{{description>may touch.}}
+---json
+{
+    "name":"saṁspṛśet",
+    "h1":"saṁspṛśet",
+    "title":"saṁspṛśet -- synonyms, prabhupada.io",
+    "description":"may touch."
+}
+---
 
 ==== saṁspṛśet  ====
   * may touch --- [[books:sb:6:8:36|SB 6.8.36]]

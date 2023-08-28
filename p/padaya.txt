@@ -1,5 +1,11 @@
-~~Title:padaya~~
-{{description>fall down; falling off; touches.}}
+---json
+{
+    "name":"padaya",
+    "h1":"padaya",
+    "title":"padaya -- synonyms, prabhupada.io",
+    "description":"fall down; falling off; touches."
+}
+---
 
 ==== paḍaya  ====
   * fall down --- [[books:cc:madhya:13:103|Madhya 13.103]]

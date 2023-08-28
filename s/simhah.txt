@@ -1,5 +1,11 @@
-~~Title:simhah~~
-{{description>lion.}}
+---json
+{
+    "name":"simhah",
+    "h1":"simhah",
+    "title":"simhah -- synonyms, prabhupada.io",
+    "description":"lion."
+}
+---
 
 ==== siṁhaḥ  ====
   * lion --- [[books:sb:3:10:24|SB 3.10.24]]

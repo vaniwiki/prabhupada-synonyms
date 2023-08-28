@@ -1,5 +1,11 @@
-~~Title:yogau~~
-{{description>united with Me; work in devotional service.}}
+---json
+{
+    "name":"yogau",
+    "h1":"yogau",
+    "title":"yogau -- synonyms, prabhupada.io",
+    "description":"united with Me; work in devotional service."
+}
+---
 
 ==== yogau  ====
   * united with Me --- [[books:sb:3:16:26|SB 3.16.26]]

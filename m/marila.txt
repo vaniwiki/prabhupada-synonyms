@@ -1,5 +1,11 @@
-~~Title:marila~~
-{{description>killed.}}
+---json
+{
+    "name":"marila",
+    "h1":"marila",
+    "title":"marila -- synonyms, prabhupada.io",
+    "description":"killed."
+}
+---
 
 ==== mārila  ====
   * killed --- [[books:cc:madhya:9:205|Madhya 9.205]]

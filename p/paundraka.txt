@@ -1,5 +1,11 @@
-~~Title:pauṇḍraka~~
-{{description>Pauṇḍraka and others.}}
+---json
+{
+    "name":"pauṇḍraka",
+    "h1":"pauṇḍraka",
+    "title":"pauṇḍraka -- synonyms, prabhupada.io",
+    "description":"Pauṇḍraka and others."
+}
+---
 
 ==== pauṇḍraka-ādyāḥ  ====
   * Pauṇḍraka and others --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

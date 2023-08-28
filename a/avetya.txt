@@ -1,5 +1,11 @@
-~~Title:avetya~~
-{{description>knowing it well.}}
+---json
+{
+    "name":"avetya",
+    "h1":"avetya",
+    "title":"avetya -- synonyms, prabhupada.io",
+    "description":"knowing it well."
+}
+---
 
 ==== avetya  ====
   * knowing it well --- [[books:sb:1:5:39|SB 1.5.39]]

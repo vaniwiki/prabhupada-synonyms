@@ -1,5 +1,11 @@
-~~Title:vibhūtimat~~
-{{description>extraordinarily opulent.}}
+---json
+{
+    "name":"vibhūtimat",
+    "h1":"vibhūtimat",
+    "title":"vibhūtimat -- synonyms, prabhupada.io",
+    "description":"extraordinarily opulent."
+}
+---
 
 ==== vibhūtimat  ====
   * extraordinarily opulent --- [[books:cc:madhya:20:375|Madhya 20.375]]

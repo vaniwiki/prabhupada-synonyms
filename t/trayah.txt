@@ -1,5 +1,11 @@
-~~Title:trayaḥ~~
-{{description>the three planetary systems; three (the upper, middle and lower worlds); three; three combined; three kinds; three mountains; three of them; three sons (Yudhiṣṭhira, Bhīma and Arjuna).}}
+---json
+{
+    "name":"trayaḥ",
+    "h1":"trayaḥ",
+    "title":"trayaḥ -- synonyms, prabhupada.io",
+    "description":"the three planetary systems; three (the upper, middle and lower worlds); three; three combined; three kinds; three mountains; three of them; three sons (Yudhiṣṭhira, Bhīma and Arjuna)."
+}
+---
 
 ==== trayaḥ  ====
   * the three planetary systems --- [[books:sb:4:8:78|SB 4.8.78]]

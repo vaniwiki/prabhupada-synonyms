@@ -1,5 +1,11 @@
-~~Title:vaiklavāt~~
-{{description>inadvertently.}}
+---json
+{
+    "name":"vaiklavāt",
+    "h1":"vaiklavāt",
+    "title":"vaiklavāt -- synonyms, prabhupada.io",
+    "description":"inadvertently."
+}
+---
 
 ==== vaiklavāt  ====
   * inadvertently --- [[books:sb:1:11:32|SB 1.11.32]]

@@ -1,5 +1,11 @@
-~~Title:bhāsvān~~
-{{description>the illuminating sun.}}
+---json
+{
+    "name":"bhāsvān",
+    "h1":"bhāsvān",
+    "title":"bhāsvān -- synonyms, prabhupada.io",
+    "description":"the illuminating sun."
+}
+---
 
 ==== bhāsvān  ====
   * the illuminating sun --- [[books:cc:madhya:20:304|Madhya 20.304]]

@@ -1,5 +1,11 @@
-~~Title:cāmara~~
-{{description>and whisks; by yak-tail; fan; whisk; whisks.}}
+---json
+{
+    "name":"cāmara",
+    "h1":"cāmara",
+    "title":"cāmara -- synonyms, prabhupada.io",
+    "description":"and whisks; by yak-tail; fan; whisk; whisks."
+}
+---
 
 ==== cāmara  ====
   * and whisks --- [[books:cc:madhya:14:129|Madhya 14.129]]

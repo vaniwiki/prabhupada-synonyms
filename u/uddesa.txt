@@ -1,5 +1,11 @@
-~~Title:uddeśa~~
-{{description>direction; identification; indication; purpose; reference; the direction; the goal of my life; the purpose.}}
+---json
+{
+    "name":"uddeśa",
+    "h1":"uddeśa",
+    "title":"uddeśa -- synonyms, prabhupada.io",
+    "description":"direction; identification; indication; purpose; reference; the direction; the goal of my life; the purpose."
+}
+---
 
 ==== uddeśa  ====
   * direction --- [[books:cc:antya:15:38|Antya 15.38]]

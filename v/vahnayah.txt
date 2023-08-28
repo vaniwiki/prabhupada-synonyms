@@ -1,5 +1,11 @@
-~~Title:vahnayaḥ~~
-{{description>fiery; fires.}}
+---json
+{
+    "name":"vahnayaḥ",
+    "h1":"vahnayaḥ",
+    "title":"vahnayaḥ -- synonyms, prabhupada.io",
+    "description":"fiery; fires."
+}
+---
 
 ==== vahnayaḥ  ====
   * fiery --- [[books:sb:7:10:60|SB 7.10.60]]

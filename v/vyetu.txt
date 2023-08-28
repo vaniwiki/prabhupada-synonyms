@@ -1,5 +1,11 @@
-~~Title:vyetu~~
-{{description>let there be.}}
+---json
+{
+    "name":"vyetu",
+    "h1":"vyetu",
+    "title":"vyetu -- synonyms, prabhupada.io",
+    "description":"let there be."
+}
+---
 
 ==== vyetu  ====
   * let there be --- [[books:sb:1:17:9|SB 1.17.9]]

@@ -1,5 +1,11 @@
-~~Title:nigaditam~~
-{{description>answered; spoken; what had been thus described.}}
+---json
+{
+    "name":"nigaditam",
+    "h1":"nigaditam",
+    "title":"nigaditam -- synonyms, prabhupada.io",
+    "description":"answered; spoken; what had been thus described."
+}
+---
 
 ==== nigaditam  ====
   * answered --- [[books:sb:2:3:1|SB 2.3.1]]

@@ -1,5 +1,11 @@
-~~Title:aśaninā~~
-{{description>by a thunderbolt.}}
+---json
+{
+    "name":"aśaninā",
+    "h1":"aśaninā",
+    "title":"aśaninā -- synonyms, prabhupada.io",
+    "description":"by a thunderbolt."
+}
+---
 
 ==== aśaninā  ====
   * by a thunderbolt --- [[books:sb:6:11:7|SB 6.11.7]]

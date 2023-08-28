@@ -1,5 +1,11 @@
-~~Title:avāptiḥ~~
-{{description>attainment of all happiness.}}
+---json
+{
+    "name":"avāptiḥ",
+    "h1":"avāptiḥ",
+    "title":"avāptiḥ -- synonyms, prabhupada.io",
+    "description":"attainment of all happiness."
+}
+---
 
 ==== sukha-avāptiḥ  ====
   * attainment of all happiness --- [[books:sb:4:25:4|SB 4.25.4]]

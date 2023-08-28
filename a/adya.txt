@@ -1,5 +1,11 @@
-~~Title:adya~~
-{{description>at present; at the present; at the present moment; beginning from today; from this day; immediately; in this millennium; just now; now; now, immediately; presently; this day; till now; today (because You are personally present here); today.}}
+---json
+{
+    "name":"adya",
+    "h1":"adya",
+    "title":"adya -- synonyms, prabhupada.io",
+    "description":"at present; at the present; at the present moment; beginning from today; from this day; immediately; in this millennium; just now; now; now, immediately; presently; this day; till now; today (because You are personally present here); today."
+}
+---
 
 ==== adya  ====
   * at present --- [[books:sb:1:13:49|SB 1.13.49]]

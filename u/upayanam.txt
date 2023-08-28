@@ -1,5 +1,11 @@
-~~Title:upāyanam~~
-{{description>different kinds of presentations; for the benefit; presentations.}}
+---json
+{
+    "name":"upāyanam",
+    "h1":"upāyanam",
+    "title":"upāyanam -- synonyms, prabhupada.io",
+    "description":"different kinds of presentations; for the benefit; presentations."
+}
+---
 
 ==== upāyanam  ====
   * different kinds of presentations --- [[books:sb:4:15:12|SB 4.15.12]]

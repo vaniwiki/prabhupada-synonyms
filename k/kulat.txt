@@ -1,5 +1,11 @@
-~~Title:kulat~~
-{{description>from the group of demigods on this earth (the brāhmaṇas).}}
+---json
+{
+    "name":"kulat",
+    "h1":"kulat",
+    "title":"kulat -- synonyms, prabhupada.io",
+    "description":"from the group of demigods on this earth (the brāhmaṇas)."
+}
+---
 
 ==== bhū-sura-kulāt  ====
   * from the group of demigods on this earth (the //brāhmaṇas//) --- [[books:sb:4:26:24|SB 4.26.24]]

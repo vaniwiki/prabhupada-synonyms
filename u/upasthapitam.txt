@@ -1,5 +1,11 @@
-~~Title:upasthāpitam~~
-{{description>sent.}}
+---json
+{
+    "name":"upasthāpitam",
+    "h1":"upasthāpitam",
+    "title":"upasthāpitam -- synonyms, prabhupada.io",
+    "description":"sent."
+}
+---
 
 ==== upasthāpitam  ====
   * sent --- [[books:sb:4:12:27|SB 4.12.27]]

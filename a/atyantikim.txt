@@ -1,5 +1,11 @@
-~~Title:ātyantikīm~~
-{{description>the supreme.}}
+---json
+{
+    "name":"ātyantikīm",
+    "h1":"ātyantikīm",
+    "title":"ātyantikīm -- synonyms, prabhupada.io",
+    "description":"the supreme."
+}
+---
 
 ==== ātyantikīm  ====
   * the supreme --- [[books:sb:9:4:64|SB 9.4.64]]

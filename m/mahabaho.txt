@@ -1,5 +1,11 @@
-~~Title:mahābāho~~
-{{description>O great hero.}}
+---json
+{
+    "name":"mahābāho",
+    "h1":"mahābāho",
+    "title":"mahābāho -- synonyms, prabhupada.io",
+    "description":"O great hero."
+}
+---
 
 ==== mahābāho  ====
   * O great hero --- [[books:sb:9:15:38|SB 9.15.38]]

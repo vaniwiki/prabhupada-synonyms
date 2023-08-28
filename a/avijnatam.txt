@@ -1,5 +1,11 @@
-~~Title:avijñātam~~
-{{description>Avijñāta.}}
+---json
+{
+    "name":"avijñātam",
+    "h1":"avijñātam",
+    "title":"avijñātam -- synonyms, prabhupada.io",
+    "description":"Avijñāta."
+}
+---
 
 ==== avijñātam  ====
   * Avijñāta --- [[books:sb:5:20:9|SB 5.20.9]]

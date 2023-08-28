@@ -1,5 +1,11 @@
-~~Title:antarikṣaḥ~~
-{{description>Antarikṣa.}}
+---json
+{
+    "name":"antarikṣaḥ",
+    "h1":"antarikṣaḥ",
+    "title":"antarikṣaḥ -- synonyms, prabhupada.io",
+    "description":"Antarikṣa."
+}
+---
 
 ==== antarikṣaḥ  ====
   * Antarikṣa --- [[books:sb:5:4:11-12|SB 5.4.11-12]], [[books:sb:9:12:12|SB 9.12.12]]

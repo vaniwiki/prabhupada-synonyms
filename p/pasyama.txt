@@ -1,5 +1,11 @@
-~~Title:paśyāma~~
-{{description>see.}}
+---json
+{
+    "name":"paśyāma",
+    "h1":"paśyāma",
+    "title":"paśyāma -- synonyms, prabhupada.io",
+    "description":"see."
+}
+---
 
 ==== paśyāma  ====
   * see --- [[books:sb:6:9:25|SB 6.9.25]]

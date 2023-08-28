@@ -1,5 +1,11 @@
-~~Title:dahanāt~~
-{{description>which is causing the burning.}}
+---json
+{
+    "name":"dahanāt",
+    "h1":"dahanāt",
+    "title":"dahanāt -- synonyms, prabhupada.io",
+    "description":"which is causing the burning."
+}
+---
 
 ==== dahanāt  ====
   * which is causing the burning --- [[books:sb:8:7:21|SB 8.7.21]]

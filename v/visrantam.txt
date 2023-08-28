@@ -1,5 +1,11 @@
-~~Title:viśrāntam~~
-{{description>and having taken rest.}}
+---json
+{
+    "name":"viśrāntam",
+    "h1":"viśrāntam",
+    "title":"viśrāntam -- synonyms, prabhupada.io",
+    "description":"and having taken rest."
+}
+---
 
 ==== viśrāntam  ====
   * and having taken rest --- [[books:sb:1:13:7|SB 1.13.7]]

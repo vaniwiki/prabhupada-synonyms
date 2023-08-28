@@ -1,5 +1,11 @@
-~~Title:arayaḥ~~
-{{description>enemies; the enemies.}}
+---json
+{
+    "name":"arayaḥ",
+    "h1":"arayaḥ",
+    "title":"arayaḥ -- synonyms, prabhupada.io",
+    "description":"enemies; the enemies."
+}
+---
 
 ==== arayaḥ  ====
   * enemies --- [[books:sb:5:6:4|SB 5.6.4]], [[books:sb:8:6:20|SB 8.6.20]]

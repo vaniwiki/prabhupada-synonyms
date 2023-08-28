@@ -1,5 +1,11 @@
-~~Title:yasasam~~
-{{description>the glories of the Lord.}}
+---json
+{
+    "name":"yasasam",
+    "h1":"yasasam",
+    "title":"yasasam -- synonyms, prabhupada.io",
+    "description":"the glories of the Lord."
+}
+---
 
 ==== tīrtha-yaśasam  ====
   * the glories of the Lord --- [[books:sb:3:28:18|SB 3.28.18]]

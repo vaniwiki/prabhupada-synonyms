@@ -1,5 +1,11 @@
-~~Title:medasā~~
-{{description>by the flesh.}}
+---json
+{
+    "name":"medasā",
+    "h1":"medasā",
+    "title":"medasā -- synonyms, prabhupada.io",
+    "description":"by the flesh."
+}
+---
 
 ==== medasā  ====
   * by the flesh --- [[books:sb:4:17:25|SB 4.17.25]]

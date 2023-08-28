@@ -1,5 +1,11 @@
-~~Title:drpta~~
-{{description>puffed up.}}
+---json
+{
+    "name":"drpta",
+    "h1":"drpta",
+    "title":"drpta -- synonyms, prabhupada.io",
+    "description":"puffed up."
+}
+---
 
 ==== dṛpta  ====
   * puffed up --- [[books:sb:10:1:17|SB 10.1.17]]

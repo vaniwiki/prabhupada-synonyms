@@ -1,5 +1,11 @@
-~~Title:tejastvam~~
-{{description>effulgence.}}
+---json
+{
+    "name":"tejastvam",
+    "h1":"tejastvam",
+    "title":"tejastvam -- synonyms, prabhupada.io",
+    "description":"effulgence."
+}
+---
 
 ==== tejastvam  ====
   * effulgence --- [[books:sb:3:26:39|SB 3.26.39]]

@@ -1,5 +1,11 @@
-~~Title:upageyam~~
-{{description>song.}}
+---json
+{
+    "name":"upageyam",
+    "h1":"upageyam",
+    "title":"upageyam -- synonyms, prabhupada.io",
+    "description":"song."
+}
+---
 
 ==== upageyam  ====
   * song --- [[books:sb:5:26:38|SB 5.26.38]]

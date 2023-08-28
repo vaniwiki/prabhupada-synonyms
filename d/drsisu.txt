@@ -1,5 +1,11 @@
-~~Title:dṛśiṣu~~
-{{description>in the eyes.}}
+---json
+{
+    "name":"dṛśiṣu",
+    "h1":"dṛśiṣu",
+    "title":"dṛśiṣu -- synonyms, prabhupada.io",
+    "description":"in the eyes."
+}
+---
 
 ==== dṛśiṣu  ====
   * in the eyes --- [[books:cc:adi:4:153|Ādi 4.153]]

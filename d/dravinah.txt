@@ -1,5 +1,11 @@
-~~Title:draviṇaḥ~~
-{{description>Draviṇa.}}
+---json
+{
+    "name":"draviṇaḥ",
+    "h1":"draviṇaḥ",
+    "title":"draviṇaḥ -- synonyms, prabhupada.io",
+    "description":"Draviṇa."
+}
+---
 
 ==== draviṇaḥ  ====
   * Draviṇa --- [[books:sb:5:20:15|SB 5.20.15]]

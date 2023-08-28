@@ -1,5 +1,11 @@
-~~Title:vārtākī~~
-{{description>eggplant.}}
+---json
+{
+    "name":"vārtākī",
+    "h1":"vārtākī",
+    "title":"vārtākī -- synonyms, prabhupada.io",
+    "description":"eggplant."
+}
+---
 
 ==== vārtākī  ====
   * eggplant --- [[books:cc:madhya:3:47|Madhya 3.47]]

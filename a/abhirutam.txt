@@ -1,5 +1,11 @@
-~~Title:abhirutam~~
-{{description>resounding.}}
+---json
+{
+    "name":"abhirutam",
+    "h1":"abhirutam",
+    "title":"abhirutam -- synonyms, prabhupada.io",
+    "description":"resounding."
+}
+---
 
 ==== abhirutam  ====
   * resounding --- [[books:sb:4:6:12|SB 4.6.12]]

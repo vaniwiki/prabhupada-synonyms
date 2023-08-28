@@ -1,5 +1,11 @@
-~~Title:aichana~~
-{{description>in this way; such; that kind of.}}
+---json
+{
+    "name":"aichana",
+    "h1":"aichana",
+    "title":"aichana -- synonyms, prabhupada.io",
+    "description":"in this way; such; that kind of."
+}
+---
 
 ==== aichana  ====
   * in this way --- [[books:cc:madhya:1:78|Madhya 1.78]]

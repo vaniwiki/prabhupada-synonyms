@@ -1,5 +1,11 @@
-~~Title:koṭikoṭi~~
-{{description>innumerable.}}
+---json
+{
+    "name":"koṭikoṭi",
+    "h1":"koṭikoṭi",
+    "title":"koṭikoṭi -- synonyms, prabhupada.io",
+    "description":"innumerable."
+}
+---
 
 ==== koṭikoṭi  ====
   * innumerable --- [[books:cc:madhya:1:167|Madhya 1.167]]

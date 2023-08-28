@@ -1,5 +1,11 @@
-~~Title:vikṣipta~~
-{{description>glancing.}}
+---json
+{
+    "name":"vikṣipta",
+    "h1":"vikṣipta",
+    "title":"vikṣipta -- synonyms, prabhupada.io",
+    "description":"glancing."
+}
+---
 
 ==== vikṣipta  ====
   * glancing --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

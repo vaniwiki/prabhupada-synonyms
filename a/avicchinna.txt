@@ -1,5 +1,11 @@
-~~Title:avicchinna~~
-{{description>continuously.}}
+---json
+{
+    "name":"avicchinna",
+    "h1":"avicchinna",
+    "title":"avicchinna -- synonyms, prabhupada.io",
+    "description":"continuously."
+}
+---
 
 ==== avicchinna  ====
   * continuously --- [[books:cc:adi:5:165|Ādi 5.165]]

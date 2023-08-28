@@ -1,5 +1,11 @@
-~~Title:saṅgei~~
-{{description>along; with.}}
+---json
+{
+    "name":"saṅgei",
+    "h1":"saṅgei",
+    "title":"saṅgei -- synonyms, prabhupada.io",
+    "description":"along; with."
+}
+---
 
 ==== saṅgei  ====
   * along --- [[books:cc:antya:10:143|Antya 10.143]]

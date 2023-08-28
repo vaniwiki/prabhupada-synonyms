@@ -1,5 +1,11 @@
-~~Title:navāta~~
-{{description>another kind of sweetmeat, made with fused sugar.}}
+---json
+{
+    "name":"navāta",
+    "h1":"navāta",
+    "title":"navāta -- synonyms, prabhupada.io",
+    "description":"another kind of sweetmeat, made with fused sugar."
+}
+---
 
 ==== navāta  ====
   * another kind of sweetmeat, made with fused sugar --- [[books:cc:madhya:14:30|Madhya 14.30]]

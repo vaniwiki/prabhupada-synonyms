@@ -1,5 +1,11 @@
-~~Title:tate~~
-{{description>bank; on the bank; on the bank of; on the beach.}}
+---json
+{
+    "name":"tate",
+    "h1":"tate",
+    "title":"tate -- synonyms, prabhupada.io",
+    "description":"bank; on the bank; on the bank of; on the beach."
+}
+---
 
 ==== taṭe  ====
   * bank --- [[books:sb:1:7:2|SB 1.7.2]]

@@ -1,5 +1,11 @@
-~~Title:pūrayati~~
-{{description>fulfills.}}
+---json
+{
+    "name":"pūrayati",
+    "h1":"pūrayati",
+    "title":"pūrayati -- synonyms, prabhupada.io",
+    "description":"fulfills."
+}
+---
 
 ==== pūrayati  ====
   * fulfills --- [[books:sb:8:8:6|SB 8.8.6]]

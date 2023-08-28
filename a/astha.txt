@@ -1,5 +1,11 @@
-~~Title:āsthā~~
-{{description>special regard.}}
+---json
+{
+    "name":"āsthā",
+    "h1":"āsthā",
+    "title":"āsthā -- synonyms, prabhupada.io",
+    "description":"special regard."
+}
+---
 
 ==== āsthā  ====
   * special regard --- [[books:mm:5|MM 5]]

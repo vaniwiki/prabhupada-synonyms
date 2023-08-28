@@ -1,5 +1,11 @@
-~~Title:medhiṣu~~
-{{description>in the household.}}
+---json
+{
+    "name":"medhiṣu",
+    "h1":"medhiṣu",
+    "title":"medhiṣu -- synonyms, prabhupada.io",
+    "description":"in the household."
+}
+---
 
 ==== gṛha-medhiṣu  ====
   * in the household --- [[books:sb:3:22:11|SB 3.22.11]]

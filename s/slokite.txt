@@ -1,5 +1,11 @@
-~~Title:ślokīte~~
-{{description>in Śrīmad-Bhāgavatam summarized in four ślokas; in the four famous verses of Śrīmad-Bhāgavatam.}}
+---json
+{
+    "name":"ślokīte",
+    "h1":"ślokīte",
+    "title":"ślokīte -- synonyms, prabhupada.io",
+    "description":"in Śrīmad-Bhāgavatam summarized in four ślokas; in the four famous verses of Śrīmad-Bhāgavatam."
+}
+---
 
 ==== catuḥ-ślokīte  ====
   * in //Śrīmad-Bhāgavatam// summarized in four //ślokas// --- [[books:cc:madhya:25:94|Madhya 25.94]]

@@ -1,5 +1,11 @@
-~~Title:aśvam~~
-{{description>horse; the horse; upon a horse.}}
+---json
+{
+    "name":"aśvam",
+    "h1":"aśvam",
+    "title":"aśvam -- synonyms, prabhupada.io",
+    "description":"horse; the horse; upon a horse."
+}
+---
 
 ==== aśvam  ====
   * horse --- [[books:sb:4:19:21|SB 4.19.21]]

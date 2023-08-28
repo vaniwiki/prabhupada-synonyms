@@ -1,5 +1,11 @@
-~~Title:apānanti~~
-{{description>all others stop.}}
+---json
+{
+    "name":"apānanti",
+    "h1":"apānanti",
+    "title":"apānanti -- synonyms, prabhupada.io",
+    "description":"all others stop."
+}
+---
 
 ==== apānanti  ====
   * all others stop --- [[books:sb:2:10:16|SB 2.10.16]]

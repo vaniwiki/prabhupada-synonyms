@@ -1,5 +1,11 @@
-~~Title:uśat~~
-{{description>dressed with a very beautiful sari.}}
+---json
+{
+    "name":"uśat",
+    "h1":"uśat",
+    "title":"uśat -- synonyms, prabhupada.io",
+    "description":"dressed with a very beautiful sari."
+}
+---
 
 ==== uśat-dukūla  ====
   * dressed with a very beautiful sari --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

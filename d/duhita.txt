@@ -1,5 +1,11 @@
-~~Title:duhitā~~
-{{description>daughter; the daughter.}}
+---json
+{
+    "name":"duhitā",
+    "h1":"duhitā",
+    "title":"duhitā -- synonyms, prabhupada.io",
+    "description":"daughter; the daughter."
+}
+---
 
 ==== duhitā  ====
   * daughter --- [[books:sb:3:22:9|SB 3.22.9]]

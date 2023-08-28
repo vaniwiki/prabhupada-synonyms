@@ -1,5 +1,11 @@
-~~Title:yuga~~
-{{description>4,300,000 years; in the pair; millennium; millenniums; the four yugas.}}
+---json
+{
+    "name":"yuga",
+    "h1":"yuga",
+    "title":"yuga -- synonyms, prabhupada.io",
+    "description":"4,300,000 years; in the pair; millennium; millenniums; the four yugas."
+}
+---
 
 ==== yuga  ====
   * 4,300,000 years --- [[books:sb:1:6:30|SB 1.6.30]]

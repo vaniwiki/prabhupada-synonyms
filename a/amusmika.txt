@@ -1,5 +1,11 @@
-~~Title:amuṣmika~~
-{{description>in the expected future life.}}
+---json
+{
+    "name":"amuṣmika",
+    "h1":"amuṣmika",
+    "title":"amuṣmika -- synonyms, prabhupada.io",
+    "description":"in the expected future life."
+}
+---
 
 ==== amuṣmika  ====
   * in the expected future life --- [[books:sb:5:19:14|SB 5.19.14]]

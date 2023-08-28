@@ -1,5 +1,11 @@
-~~Title:gati~~
-{{description>admission; advancement; by her movement; destination; entrance; in the progression; movement; movements; moving; result; the course; the destination; ultimate goal; with movements.}}
+---json
+{
+    "name":"gati",
+    "h1":"gati",
+    "title":"gati -- synonyms, prabhupada.io",
+    "description":"admission; advancement; by her movement; destination; entrance; in the progression; movement; movements; moving; result; the course; the destination; ultimate goal; with movements."
+}
+---
 
 ==== gati  ====
   * admission --- [[books:cc:madhya:20:269|Madhya 20.269]]

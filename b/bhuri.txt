@@ -1,5 +1,11 @@
-~~Title:bhuri~~
-{{description>a great quantity; abundant; constantly, or more and more; extensive; extensively; extremely; great; greatly; heavy; in various ways; many; repeatedly; sufficient; sufficiently; very much.}}
+---json
+{
+    "name":"bhuri",
+    "h1":"bhuri",
+    "title":"bhuri -- synonyms, prabhupada.io",
+    "description":"a great quantity; abundant; constantly, or more and more; extensive; extensively; extremely; great; greatly; heavy; in various ways; many; repeatedly; sufficient; sufficiently; very much."
+}
+---
 
 ==== bhūri  ====
   * a great quantity --- [[books:sb:7:13:38|SB 7.13.38]]

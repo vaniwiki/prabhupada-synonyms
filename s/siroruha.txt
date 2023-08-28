@@ -1,5 +1,11 @@
-~~Title:siroruha~~
-{{description>hair.}}
+---json
+{
+    "name":"siroruha",
+    "h1":"siroruha",
+    "title":"siroruha -- synonyms, prabhupada.io",
+    "description":"hair."
+}
+---
 
 ==== śiroruha  ====
   * hair --- [[books:sb:6:14:48|SB 6.14.48]], [[books:sb:6:14:50-51|SB 6.14.50-51]]

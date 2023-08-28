@@ -1,5 +1,11 @@
-~~Title:yathābhāgam~~
-{{description>as they are differently arranged.}}
+---json
+{
+    "name":"yathābhāgam",
+    "h1":"yathābhāgam",
+    "title":"yathābhāgam -- synonyms, prabhupada.io",
+    "description":"as they are differently arranged."
+}
+---
 
 ==== yathābhāgam  ====
   * as they are differently arranged --- [[books:bg:1:11|Bg. 1.11]]

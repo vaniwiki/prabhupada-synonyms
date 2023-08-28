@@ -1,5 +1,11 @@
-~~Title:vimudhah~~
-{{description>a person without education, or one who is like an animal; being fooled by the material nature; bewildered.}}
+---json
+{
+    "name":"vimudhah",
+    "h1":"vimudhah",
+    "title":"vimudhah -- synonyms, prabhupada.io",
+    "description":"a person without education, or one who is like an animal; being fooled by the material nature; bewildered."
+}
+---
 
 ==== vimūḍhaḥ  ====
   * a person without education, or one who is like an animal --- [[books:sb:7:6:16|SB 7.6.16]]

@@ -1,5 +1,11 @@
-~~Title:aśayiṣṭa~~
-{{description>lay.}}
+---json
+{
+    "name":"aśayiṣṭa",
+    "h1":"aśayiṣṭa",
+    "title":"aśayiṣṭa -- synonyms, prabhupada.io",
+    "description":"lay."
+}
+---
 
 ==== aśayiṣṭa  ====
   * lay --- [[books:sb:3:20:15|SB 3.20.15]]

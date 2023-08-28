@@ -1,5 +1,11 @@
-~~Title:upāgāt~~
-{{description>overtaken by.}}
+---json
+{
+    "name":"upāgāt",
+    "h1":"upāgāt",
+    "title":"upāgāt -- synonyms, prabhupada.io",
+    "description":"overtaken by."
+}
+---
 
 ==== upāgāt  ====
   * overtaken by --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

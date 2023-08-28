@@ -1,5 +1,11 @@
-~~Title:pañcake~~
-{{description>in the above-mentioned five principles.}}
+---json
+{
+    "name":"pañcake",
+    "h1":"pañcake",
+    "title":"pañcake -- synonyms, prabhupada.io",
+    "description":"in the above-mentioned five principles."
+}
+---
 
 ==== pañcake  ====
   * in the above-mentioned five principles --- [[books:cc:madhya:22:133|Madhya 22.133]], [[books:cc:madhya:24:195|Madhya 24.195]]

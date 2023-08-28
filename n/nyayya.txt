@@ -1,5 +1,11 @@
-~~Title:nyāyyā~~
-{{description>correct.}}
+---json
+{
+    "name":"nyāyyā",
+    "h1":"nyāyyā",
+    "title":"nyāyyā -- synonyms, prabhupada.io",
+    "description":"correct."
+}
+---
 
 ==== nyāyyā  ====
   * correct --- [[books:cc:antya:1:153|Antya 1.153]]

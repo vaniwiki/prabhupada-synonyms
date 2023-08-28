@@ -1,5 +1,11 @@
-~~Title:laṅghimu~~
-{{description>shall disobey.}}
+---json
+{
+    "name":"laṅghimu",
+    "h1":"laṅghimu",
+    "title":"laṅghimu -- synonyms, prabhupada.io",
+    "description":"shall disobey."
+}
+---
 
 ==== laṅghimu  ====
   * shall disobey --- [[books:cc:antya:4:37|Antya 4.37]]

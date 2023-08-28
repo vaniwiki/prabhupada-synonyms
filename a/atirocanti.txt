@@ -1,5 +1,11 @@
-~~Title:atirocanti~~
-{{description>reproach.}}
+---json
+{
+    "name":"atirocanti",
+    "h1":"atirocanti",
+    "title":"atirocanti -- synonyms, prabhupada.io",
+    "description":"reproach."
+}
+---
 
 ==== atirocanti  ====
   * reproach --- [[books:sb:3:14:22|SB 3.14.22]]

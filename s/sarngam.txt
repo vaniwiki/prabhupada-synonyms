@@ -1,5 +1,11 @@
-~~Title:śārṅgam~~
-{{description>named Śārṅga.}}
+---json
+{
+    "name":"śārṅgam",
+    "h1":"śārṅgam",
+    "title":"śārṅgam -- synonyms, prabhupada.io",
+    "description":"named Śārṅga."
+}
+---
 
 ==== śārṅgam  ====
   * named Śārṅga --- [[books:sb:8:20:30|SB 8.20.30]]

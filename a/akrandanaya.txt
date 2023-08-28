@@ -1,5 +1,11 @@
-~~Title:ākrandanayā~~
-{{description>by crying very pitiably.}}
+---json
+{
+    "name":"ākrandanayā",
+    "h1":"ākrandanayā",
+    "title":"ākrandanayā -- synonyms, prabhupada.io",
+    "description":"by crying very pitiably."
+}
+---
 
 ==== ākrandanayā  ====
   * by crying very pitiably --- [[books:sb:7:2:32|SB 7.2.32]]

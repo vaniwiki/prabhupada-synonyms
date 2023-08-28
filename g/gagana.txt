@@ -1,5 +1,11 @@
-~~Title:gagana~~
-{{description>taking the sky as His dress.}}
+---json
+{
+    "name":"gagana",
+    "h1":"gagana",
+    "title":"gagana -- synonyms, prabhupada.io",
+    "description":"taking the sky as His dress."
+}
+---
 
 ==== gagana-paridhānaḥ  ====
   * taking the sky as His dress --- [[books:sb:5:5:28|SB 5.5.28]]

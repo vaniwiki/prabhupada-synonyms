@@ -1,5 +1,11 @@
-~~Title:avasita~~
-{{description>surely.}}
+---json
+{
+    "name":"avasita",
+    "h1":"avasita",
+    "title":"avasita -- synonyms, prabhupada.io",
+    "description":"surely."
+}
+---
 
 ==== avasita  ====
   * surely --- [[books:sb:2:7:29|SB 2.7.29]]

@@ -1,5 +1,11 @@
-~~Title:sankhyatah~~
-{{description>enumerated.}}
+---json
+{
+    "name":"sankhyatah",
+    "h1":"sankhyatah",
+    "title":"sankhyatah -- synonyms, prabhupada.io",
+    "description":"enumerated."
+}
+---
 
 ==== saṅkhyātaḥ  ====
   * enumerated --- [[books:sb:3:26:15|SB 3.26.15]]

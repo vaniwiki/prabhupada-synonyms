@@ -1,5 +1,11 @@
-~~Title:viśokam~~
-{{description>completely freed from all kinds of lamentation; without grief; without lamentation.}}
+---json
+{
+    "name":"viśokam",
+    "h1":"viśokam",
+    "title":"viśokam -- synonyms, prabhupada.io",
+    "description":"completely freed from all kinds of lamentation; without grief; without lamentation."
+}
+---
 
 ==== viśokam  ====
   * completely freed from all kinds of lamentation --- [[books:sb:1:19:21|SB 1.19.21]]

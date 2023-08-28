@@ -1,5 +1,11 @@
-~~Title:vedena~~
-{{description>by following the Vedic rules and regulations; by Vedic knowledge.}}
+---json
+{
+    "name":"vedena",
+    "h1":"vedena",
+    "title":"vedena -- synonyms, prabhupada.io",
+    "description":"by following the Vedic rules and regulations; by Vedic knowledge."
+}
+---
 
 ==== vedena  ====
   * by following the Vedic rules and regulations --- [[books:sb:5:20:11|SB 5.20.11]]

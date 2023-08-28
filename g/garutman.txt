@@ -1,5 +1,11 @@
-~~Title:garutmān~~
-{{description>Garuḍa.}}
+---json
+{
+    "name":"garutmān",
+    "h1":"garutmān",
+    "title":"garutmān -- synonyms, prabhupada.io",
+    "description":"Garuḍa."
+}
+---
 
 ==== garutmān  ====
   * Garuḍa --- [[books:sb:3:19:11|SB 3.19.11]]

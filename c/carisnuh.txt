@@ -1,5 +1,11 @@
-~~Title:cariṣṇuḥ~~
-{{description>movable.}}
+---json
+{
+    "name":"cariṣṇuḥ",
+    "h1":"cariṣṇuḥ",
+    "title":"cariṣṇuḥ -- synonyms, prabhupada.io",
+    "description":"movable."
+}
+---
 
 ==== cariṣṇuḥ  ====
   * movable --- [[books:cc:madhya:25:37|Madhya 25.37]]

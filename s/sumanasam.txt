@@ -1,5 +1,11 @@
-~~Title:sumanasam~~
-{{description>Sumanā.}}
+---json
+{
+    "name":"sumanasam",
+    "h1":"sumanasam",
+    "title":"sumanasam -- synonyms, prabhupada.io",
+    "description":"Sumanā."
+}
+---
 
 ==== sumanasam  ====
   * Sumanā --- [[books:sb:4:13:17|SB 4.13.17]]

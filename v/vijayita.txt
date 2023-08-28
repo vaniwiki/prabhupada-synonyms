@@ -1,5 +1,11 @@
-~~Title:vijayitā~~
-{{description>the victory.}}
+---json
+{
+    "name":"vijayitā",
+    "h1":"vijayitā",
+    "title":"vijayitā -- synonyms, prabhupada.io",
+    "description":"the victory."
+}
+---
 
 ==== vijayitā  ====
   * the victory --- [[books:cc:madhya:19:165|Madhya 19.165]]

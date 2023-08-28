@@ -1,5 +1,11 @@
-~~Title:smarantyah~~
-{{description>remembering.}}
+---json
+{
+    "name":"smarantyah",
+    "h1":"smarantyah",
+    "title":"smarantyah -- synonyms, prabhupada.io",
+    "description":"remembering."
+}
+---
 
 ==== smarantyaḥ  ====
   * remembering --- [[books:sb:6:16:14|SB 6.16.14]]

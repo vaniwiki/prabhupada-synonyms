@@ -1,5 +1,11 @@
-~~Title:yācñā~~
-{{description>a request; begging; request.}}
+---json
+{
+    "name":"yācñā",
+    "h1":"yācñā",
+    "title":"yācñā -- synonyms, prabhupada.io",
+    "description":"a request; begging; request."
+}
+---
 
 ==== yācñā  ====
   * a request --- [[books:sb:6:11:19|SB 6.11.19]]

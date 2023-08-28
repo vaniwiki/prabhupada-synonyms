@@ -1,5 +1,11 @@
-~~Title:bhakata~~
-{{description>always affectionate to devotees; very attached to His devotees.}}
+---json
+{
+    "name":"bhakata",
+    "h1":"bhakata",
+    "title":"bhakata -- synonyms, prabhupada.io",
+    "description":"always affectionate to devotees; very attached to His devotees."
+}
+---
 
 ==== bhakata-vatsala  ====
   * always affectionate to devotees --- [[books:cc:antya:11:42|Antya 11.42]]

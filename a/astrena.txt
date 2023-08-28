@@ -1,5 +1,11 @@
-~~Title:astreṇa~~
-{{description>by the weapon.}}
+---json
+{
+    "name":"astreṇa",
+    "h1":"astreṇa",
+    "title":"astreṇa -- synonyms, prabhupada.io",
+    "description":"by the weapon."
+}
+---
 
 ==== astreṇa  ====
   * by the weapon --- [[books:sb:6:18:65|SB 6.18.65]]

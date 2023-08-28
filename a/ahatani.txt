@@ -1,5 +1,11 @@
-~~Title:āhatāni~~
-{{description>first-class and new.}}
+---json
+{
+    "name":"āhatāni",
+    "h1":"āhatāni",
+    "title":"āhatāni -- synonyms, prabhupada.io",
+    "description":"first-class and new."
+}
+---
 
 ==== āhatāni  ====
   * first-class and new --- [[books:sb:8:9:14-15|SB 8.9.14-15]]

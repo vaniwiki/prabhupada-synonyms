@@ -1,5 +1,11 @@
-~~Title:agrahīṣṭa~~
-{{description>accepted.}}
+---json
+{
+    "name":"agrahīṣṭa",
+    "h1":"agrahīṣṭa",
+    "title":"agrahīṣṭa -- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== agrahīṣṭa  ====
   * accepted --- [[books:sb:4:30:11|SB 4.30.11]]

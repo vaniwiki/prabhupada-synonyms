@@ -1,5 +1,11 @@
-~~Title:mānasottara~~
-{{description>Mānasottara.}}
+---json
+{
+    "name":"mānasottara",
+    "h1":"mānasottara",
+    "title":"mānasottara -- synonyms, prabhupada.io",
+    "description":"Mānasottara."
+}
+---
 
 ==== mānasottara  ====
   * Mānasottara --- [[books:sb:5:20:30|SB 5.20.30]]

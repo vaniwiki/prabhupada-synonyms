@@ -1,5 +1,11 @@
-~~Title:urvīśaḥ~~
-{{description>highly elevated.}}
+---json
+{
+    "name":"urvīśaḥ",
+    "h1":"urvīśaḥ",
+    "title":"urvīśaḥ -- synonyms, prabhupada.io",
+    "description":"highly elevated."
+}
+---
 
 ==== urvīśaḥ  ====
   * highly elevated --- [[books:sb:4:21:19|SB 4.21.19]]

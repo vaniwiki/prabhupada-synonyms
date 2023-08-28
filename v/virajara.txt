@@ -1,5 +1,11 @@
-~~Title:virajāra~~
-{{description>of the Virajā River.}}
+---json
+{
+    "name":"virajāra",
+    "h1":"virajāra",
+    "title":"virajāra -- synonyms, prabhupada.io",
+    "description":"of the Virajā River."
+}
+---
 
 ==== virajāra  ====
   * of the Virajā River --- [[books:cc:madhya:15:172|Madhya 15.172]]

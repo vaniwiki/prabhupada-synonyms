@@ -1,5 +1,11 @@
-~~Title:prīyeta~~
-{{description>becomes satisfied.}}
+---json
+{
+    "name":"prīyeta",
+    "h1":"prīyeta",
+    "title":"prīyeta -- synonyms, prabhupada.io",
+    "description":"becomes satisfied."
+}
+---
 
 ==== prīyeta  ====
   * becomes satisfied --- [[books:sb:5:15:13|SB 5.15.13]]

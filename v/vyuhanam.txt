@@ -1,5 +1,11 @@
-~~Title:vyūhanam~~
-{{description>mixing.}}
+---json
+{
+    "name":"vyūhanam",
+    "h1":"vyūhanam",
+    "title":"vyūhanam -- synonyms, prabhupada.io",
+    "description":"mixing."
+}
+---
 
 ==== vyūhanam  ====
   * mixing --- [[books:sb:3:26:37|SB 3.26.37]]

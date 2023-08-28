@@ -1,5 +1,11 @@
-~~Title:pūrvataḥ~~
-{{description>before that.}}
+---json
+{
+    "name":"pūrvataḥ",
+    "h1":"pūrvataḥ",
+    "title":"pūrvataḥ -- synonyms, prabhupada.io",
+    "description":"before that."
+}
+---
 
 ==== pūrvataḥ  ====
   * before that --- [[books:sb:9:9:32|SB 9.9.32]]

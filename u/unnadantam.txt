@@ -1,5 +1,11 @@
-~~Title:unnadantam~~
-{{description>shouting loudly.}}
+---json
+{
+    "name":"unnadantam",
+    "h1":"unnadantam",
+    "title":"unnadantam -- synonyms, prabhupada.io",
+    "description":"shouting loudly."
+}
+---
 
 ==== unnadantam  ====
   * shouting loudly --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

@@ -1,5 +1,11 @@
-~~Title:iyān~~
-{{description>all these; like this.}}
+---json
+{
+    "name":"iyān",
+    "h1":"iyān",
+    "title":"iyān -- synonyms, prabhupada.io",
+    "description":"all these; like this."
+}
+---
 
 ==== iyān  ====
   * all these --- [[books:sb:2:1:38|SB 2.1.38]]

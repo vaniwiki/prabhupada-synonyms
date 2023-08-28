@@ -1,5 +1,11 @@
-~~Title:gabhastibhiḥ~~
-{{description>by the rays of the moon.}}
+---json
+{
+    "name":"gabhastibhiḥ",
+    "h1":"gabhastibhiḥ",
+    "title":"gabhastibhiḥ -- synonyms, prabhupada.io",
+    "description":"by the rays of the moon."
+}
+---
 
 ==== gabhastibhiḥ  ====
   * by the rays of the moon --- [[books:sb:5:8:25|SB 5.8.25]]

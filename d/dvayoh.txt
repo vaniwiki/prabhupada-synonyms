@@ -1,5 +1,11 @@
-~~Title:dvayoḥ~~
-{{description>for those two; of both; of both of them; of the two.}}
+---json
+{
+    "name":"dvayoḥ",
+    "h1":"dvayoḥ",
+    "title":"dvayoḥ -- synonyms, prabhupada.io",
+    "description":"for those two; of both; of both of them; of the two."
+}
+---
 
 ==== dvayoḥ  ====
   * for those two --- [[books:sb:10:12:14|SB 10.12.14]]

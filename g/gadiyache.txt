@@ -1,5 +1,11 @@
-~~Title:gaḍiyāche~~
-{{description>has manufactured.}}
+---json
+{
+    "name":"gaḍiyāche",
+    "h1":"gaḍiyāche",
+    "title":"gaḍiyāche -- synonyms, prabhupada.io",
+    "description":"has manufactured."
+}
+---
 
 ==== gaḍiyāche  ====
   * has manufactured --- [[books:cc:antya:14:44|Antya 14.44]]

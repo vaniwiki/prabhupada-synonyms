@@ -1,5 +1,11 @@
-~~Title:anādim~~
-{{description>without beginning.}}
+---json
+{
+    "name":"anādim",
+    "h1":"anādim",
+    "title":"anādim -- synonyms, prabhupada.io",
+    "description":"without beginning."
+}
+---
 
 ==== anādim  ====
   * without beginning --- [[books:bg:10:3|Bg. 10.3]]

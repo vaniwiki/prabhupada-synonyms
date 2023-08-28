@@ -1,5 +1,11 @@
-~~Title:sadhyah~~
-{{description>the demigods; the Sādhyas.}}
+---json
+{
+    "name":"sadhyah",
+    "h1":"sadhyah",
+    "title":"sadhyah -- synonyms, prabhupada.io",
+    "description":"the demigods; the Sādhyas."
+}
+---
 
 ==== sādhyāḥ  ====
   * the demigods --- [[books:sb:6:3:14-15|SB 6.3.14-15]]

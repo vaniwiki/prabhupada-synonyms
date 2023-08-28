@@ -1,5 +1,11 @@
-~~Title:māthāte~~
-{{description>on the head.}}
+---json
+{
+    "name":"māthāte",
+    "h1":"māthāte",
+    "title":"māthāte -- synonyms, prabhupada.io",
+    "description":"on the head."
+}
+---
 
 ==== māthāte  ====
   * on the head --- [[books:cc:madhya:4:14|Madhya 4.14]]

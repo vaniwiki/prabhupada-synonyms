@@ -1,5 +1,11 @@
-~~Title:viplavam~~
-{{description>the absence.}}
+---json
+{
+    "name":"viplavam",
+    "h1":"viplavam",
+    "title":"viplavam -- synonyms, prabhupada.io",
+    "description":"the absence."
+}
+---
 
 ==== viplavam  ====
   * the absence --- [[books:sb:4:13:49|SB 4.13.49]]

@@ -1,5 +1,11 @@
-~~Title:kūpe~~
-{{description>from the well; in the well; into a well; within a well.}}
+---json
+{
+    "name":"kūpe",
+    "h1":"kūpe",
+    "title":"kūpe -- synonyms, prabhupada.io",
+    "description":"from the well; in the well; into a well; within a well."
+}
+---
 
 ==== kūpe  ====
   * from the well --- [[books:cc:madhya:12:107|Madhya 12.107]]

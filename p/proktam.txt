@@ -1,5 +1,11 @@
-~~Title:proktam~~
-{{description>as it was said; called; declared; described (above); described; explained; has been spoken; instructed; is called; is said; it is said; prescribed; said; spoken; was said; what has already been spoken; what was said.}}
+---json
+{
+    "name":"proktam",
+    "h1":"proktam",
+    "title":"proktam -- synonyms, prabhupada.io",
+    "description":"as it was said; called; declared; described (above); described; explained; has been spoken; instructed; is called; is said; it is said; prescribed; said; spoken; was said; what has already been spoken; what was said."
+}
+---
 
 ==== proktam  ====
   * as it was said --- [[books:sb:4:29:59|SB 4.29.59]]

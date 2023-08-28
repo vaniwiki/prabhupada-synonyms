@@ -1,5 +1,11 @@
-~~Title:darśam~~
-{{description>Darśa.}}
+---json
+{
+    "name":"darśam",
+    "h1":"darśam",
+    "title":"darśam -- synonyms, prabhupada.io",
+    "description":"Darśa."
+}
+---
 
 ==== darśam  ====
   * Darśa --- [[books:sb:6:18:3-4|SB 6.18.3-4]]

@@ -1,5 +1,11 @@
-~~Title:vārṣikam~~
-{{description>for many years.}}
+---json
+{
+    "name":"vārṣikam",
+    "h1":"vārṣikam",
+    "title":"vārṣikam -- synonyms, prabhupada.io",
+    "description":"for many years."
+}
+---
 
 ==== bahu-vārṣikam  ====
   * for many years --- [[books:sb:9:7:7|SB 9.7.7]]

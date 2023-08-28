@@ -1,5 +1,11 @@
-~~Title:śrotavyasya~~
-{{description>all that is to be heard.}}
+---json
+{
+    "name":"śrotavyasya",
+    "h1":"śrotavyasya",
+    "title":"śrotavyasya -- synonyms, prabhupada.io",
+    "description":"all that is to be heard."
+}
+---
 
 ==== śrotavyasya  ====
   * all that is to be heard --- [[books:bg:2:52|Bg. 2.52]]

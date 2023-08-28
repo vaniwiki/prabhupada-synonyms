@@ -1,5 +1,11 @@
-~~Title:mithunam~~
-{{description>a couple; a male and female; a twin brother and sister; by combination; combination; couple; sex relation; the twins; twins; twins, one male and one female; with pairs.}}
+---json
+{
+    "name":"mithunam",
+    "h1":"mithunam",
+    "title":"mithunam -- synonyms, prabhupada.io",
+    "description":"a couple; a male and female; a twin brother and sister; by combination; combination; couple; sex relation; the twins; twins; twins, one male and one female; with pairs."
+}
+---
 
 ==== mithunam  ====
   * a couple --- [[books:sb:4:15:1|SB 4.15.1]]

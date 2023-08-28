@@ -1,5 +1,11 @@
-~~Title:kartāram~~
-{{description>maker; of the worker; the doer; the father; the performer.}}
+---json
+{
+    "name":"kartāram",
+    "h1":"kartāram",
+    "title":"kartāram -- synonyms, prabhupada.io",
+    "description":"maker; of the worker; the doer; the father; the performer."
+}
+---
 
 ==== kartāram  ====
   * maker --- [[books:sb:4:25:33|SB 4.25.33]]

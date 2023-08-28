@@ -1,5 +1,11 @@
-~~Title:cuda~~
-{{description>looking at the top of the temple; observing the top of the temple.}}
+---json
+{
+    "name":"cuda",
+    "h1":"cuda",
+    "title":"cuda -- synonyms, prabhupada.io",
+    "description":"looking at the top of the temple; observing the top of the temple."
+}
+---
 
 ==== cūḍā daraśana  ====
   * looking at the top of the temple --- [[books:cc:madhya:11:198|Madhya 11.198]]

@@ -1,5 +1,11 @@
-~~Title:bhitti~~
-{{description>walls; walls and floor.}}
+---json
+{
+    "name":"bhitti",
+    "h1":"bhitti",
+    "title":"bhitti -- synonyms, prabhupada.io",
+    "description":"walls; walls and floor."
+}
+---
 
 ==== bhitti  ====
   * walls --- [[books:cc:madhya:12:97|Madhya 12.97]]

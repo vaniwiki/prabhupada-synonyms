@@ -1,5 +1,11 @@
-~~Title:senayā~~
-{{description>along with infantry.}}
+---json
+{
+    "name":"senayā",
+    "h1":"senayā",
+    "title":"senayā -- synonyms, prabhupada.io",
+    "description":"along with infantry."
+}
+---
 
 ==== sva-senayā  ====
   * along with infantry --- [[books:sb:1:16:11|SB 1.16.11]]

@@ -1,5 +1,11 @@
-~~Title:dvāḥsu~~
-{{description>in the entrances.}}
+---json
+{
+    "name":"dvāḥsu",
+    "h1":"dvāḥsu",
+    "title":"dvāḥsu -- synonyms, prabhupada.io",
+    "description":"in the entrances."
+}
+---
 
 ==== dvāḥsu  ====
   * in the entrances --- [[books:sb:3:23:18|SB 3.23.18]]

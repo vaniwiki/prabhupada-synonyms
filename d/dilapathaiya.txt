@@ -1,5 +1,11 @@
-~~Title:dilapāṭhāiyā~~
-{{description>sent.}}
+---json
+{
+    "name":"dilapāṭhāiyā",
+    "h1":"dilapāṭhāiyā",
+    "title":"dilapāṭhāiyā -- synonyms, prabhupada.io",
+    "description":"sent."
+}
+---
 
 ==== dilapāṭhāiyā  ====
   * sent --- [[books:cc:adi:12:29|Ādi 12.29]]

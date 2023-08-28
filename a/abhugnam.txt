@@ -1,5 +1,11 @@
-~~Title:ābhugnam~~
-{{description>very curved.}}
+---json
+{
+    "name":"ābhugnam",
+    "h1":"ābhugnam",
+    "title":"ābhugnam -- synonyms, prabhupada.io",
+    "description":"very curved."
+}
+---
 
 ==== ābhugnam  ====
   * very curved --- [[books:cc:madhya:14:189|Madhya 14.189]]

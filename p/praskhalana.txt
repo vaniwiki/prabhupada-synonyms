@@ -1,5 +1,11 @@
-~~Title:praskhalana~~
-{{description>stumbling and so on.}}
+---json
+{
+    "name":"praskhalana",
+    "h1":"praskhalana",
+    "title":"praskhalana -- synonyms, prabhupada.io",
+    "description":"stumbling and so on."
+}
+---
 
 ==== praskhalana-ādiṣu  ====
   * stumbling and so on --- [[books:sb:5:24:20|SB 5.24.20]]

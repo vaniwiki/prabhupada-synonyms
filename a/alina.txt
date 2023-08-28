@@ -1,5 +1,11 @@
-~~Title:alīna~~
-{{description>of one who is not freed from the clutches of māyā.}}
+---json
+{
+    "name":"alīna",
+    "h1":"alīna",
+    "title":"alīna -- synonyms, prabhupada.io",
+    "description":"of one who is not freed from the clutches of māyā."
+}
+---
 
 ==== alīna-prakṛteḥ  ====
   * of one who is not freed from the clutches of //māyā// --- [[books:sb:6:1:2|SB 6.1.2]]

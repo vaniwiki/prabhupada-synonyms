@@ -1,5 +1,11 @@
-~~Title:jīveragocara~~
-{{description>within the reach of the understanding of ordinary living beings.}}
+---json
+{
+    "name":"jīveragocara",
+    "h1":"jīveragocara",
+    "title":"jīveragocara -- synonyms, prabhupada.io",
+    "description":"within the reach of the understanding of ordinary living beings."
+}
+---
 
 ==== jīveragocara  ====
   * within the reach of the understanding of ordinary living beings --- [[books:cc:adi:6:6|Ādi 6.6]]

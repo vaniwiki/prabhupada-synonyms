@@ -1,5 +1,11 @@
-~~Title:acaryah~~
-{{description>the priestly guide, or purohita; the teacher or spiritual master who instructs Vedic knowledge by his personal behavior; the teachers.}}
+---json
+{
+    "name":"acaryah",
+    "h1":"acaryah",
+    "title":"acaryah -- synonyms, prabhupada.io",
+    "description":"the priestly guide, or purohita; the teacher or spiritual master who instructs Vedic knowledge by his personal behavior; the teachers."
+}
+---
 
 ==== ācāryaḥ  ====
   * the priestly guide, or //purohita// --- [[books:sb:10:8:7|SB 10.8.7]]

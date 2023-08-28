@@ -1,5 +1,11 @@
-~~Title:daridra~~
-{{description>poor; poor man; poverty-stricken.}}
+---json
+{
+    "name":"daridra",
+    "h1":"daridra",
+    "title":"daridra -- synonyms, prabhupada.io",
+    "description":"poor; poor man; poverty-stricken."
+}
+---
 
 ==== daridra  ====
   * poor --- [[books:cc:adi:9:30|Ādi 9.30]]

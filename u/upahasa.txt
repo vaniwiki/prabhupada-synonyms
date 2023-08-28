@@ -1,5 +1,11 @@
-~~Title:upahāsa~~
-{{description>joking; laughter.}}
+---json
+{
+    "name":"upahāsa",
+    "h1":"upahāsa",
+    "title":"upahāsa -- synonyms, prabhupada.io",
+    "description":"joking; laughter."
+}
+---
 
 ==== upahāsa  ====
   * joking --- [[books:cc:madhya:5:39|Madhya 5.39]], [[books:cc:madhya:5:86|Madhya 5.86]], [[books:cc:madhya:12:48|Madhya 12.48]], [[books:cc:antya:1:181|Antya 1.181]]

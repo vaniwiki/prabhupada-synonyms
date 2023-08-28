@@ -1,5 +1,11 @@
-~~Title:sānnidhyāt~~
-{{description>on account of the presence.}}
+---json
+{
+    "name":"sānnidhyāt",
+    "h1":"sānnidhyāt",
+    "title":"sānnidhyāt -- synonyms, prabhupada.io",
+    "description":"on account of the presence."
+}
+---
 
 ==== sānnidhyāt  ====
   * on account of the presence --- [[books:sb:1:19:34|SB 1.19.34]]

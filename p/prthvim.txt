@@ -1,5 +1,11 @@
-~~Title:pṛthvīm~~
-{{description>the earth; the planet earth.}}
+---json
+{
+    "name":"pṛthvīm",
+    "h1":"pṛthvīm",
+    "title":"pṛthvīm -- synonyms, prabhupada.io",
+    "description":"the earth; the planet earth."
+}
+---
 
 ==== pṛthvīm  ====
   * the earth --- [[books:sb:4:18:27|SB 4.18.27]]

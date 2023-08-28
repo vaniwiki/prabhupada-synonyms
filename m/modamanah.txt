@@ -1,5 +1,11 @@
-~~Title:modamanah~~
-{{description>being merry; in a spirit of jubilation.}}
+---json
+{
+    "name":"modamanah",
+    "h1":"modamanah",
+    "title":"modamanah -- synonyms, prabhupada.io",
+    "description":"being merry; in a spirit of jubilation."
+}
+---
 
 ==== modamānaḥ  ====
   * being merry --- [[books:sb:6:10:2|SB 6.10.2]]

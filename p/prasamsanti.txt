@@ -1,5 +1,11 @@
-~~Title:praśaṁsanti~~
-{{description>the saintly persons praise.}}
+---json
+{
+    "name":"praśaṁsanti",
+    "h1":"praśaṁsanti",
+    "title":"praśaṁsanti -- synonyms, prabhupada.io",
+    "description":"the saintly persons praise."
+}
+---
 
 ==== praśaṁsanti  ====
   * the saintly persons praise --- [[books:sb:8:19:36|SB 8.19.36]]

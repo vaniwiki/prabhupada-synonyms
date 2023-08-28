@@ -1,5 +1,11 @@
-~~Title:nimīlati~~
-{{description>goes to sleep.}}
+---json
+{
+    "name":"nimīlati",
+    "h1":"nimīlati",
+    "title":"nimīlati -- synonyms, prabhupada.io",
+    "description":"goes to sleep."
+}
+---
 
 ==== nimīlati  ====
   * goes to sleep --- [[books:sb:3:11:22|SB 3.11.22]]

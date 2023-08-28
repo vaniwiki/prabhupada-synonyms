@@ -1,5 +1,11 @@
-~~Title:bāndhulīra~~
-{{description>a kind of red flower named bāndhulī.}}
+---json
+{
+    "name":"bāndhulīra",
+    "h1":"bāndhulīra",
+    "title":"bāndhulīra -- synonyms, prabhupada.io",
+    "description":"a kind of red flower named bāndhulī."
+}
+---
 
 ==== bāndhulīra phula  ====
   * a kind of red flower named //bāndhulī// --- [[books:cc:madhya:12:213|Madhya 12.213]]

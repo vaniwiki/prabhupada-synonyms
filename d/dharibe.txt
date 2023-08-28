@@ -1,5 +1,11 @@
-~~Title:dharibe~~
-{{description>catch hold of the lotus feet.}}
+---json
+{
+    "name":"dharibe",
+    "h1":"dharibe",
+    "title":"dharibe -- synonyms, prabhupada.io",
+    "description":"catch hold of the lotus feet."
+}
+---
 
 ==== dharibe caraṇa  ====
   * catch hold of the lotus feet --- [[books:cc:madhya:11:56|Madhya 11.56]]

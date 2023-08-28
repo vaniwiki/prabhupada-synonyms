@@ -1,5 +1,11 @@
-~~Title:anukūlaiḥ~~
-{{description>following the circumstances presented by time.}}
+---json
+{
+    "name":"anukūlaiḥ",
+    "h1":"anukūlaiḥ",
+    "title":"anukūlaiḥ -- synonyms, prabhupada.io",
+    "description":"following the circumstances presented by time."
+}
+---
 
 ==== kāla-anukūlaiḥ  ====
   * following the circumstances presented by time --- [[books:sb:6:11:2-3|SB 6.11.2-3]]

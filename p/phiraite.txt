@@ -1,5 +1,11 @@
-~~Title:phirāite~~
-{{description>to turn.}}
+---json
+{
+    "name":"phirāite",
+    "h1":"phirāite",
+    "title":"phirāite -- synonyms, prabhupada.io",
+    "description":"to turn."
+}
+---
 
 ==== phirāite  ====
   * to turn --- [[books:cc:madhya:25:13|Madhya 25.13]]

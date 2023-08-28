@@ -1,5 +1,11 @@
-~~Title:nivarila~~
-{{description>stopped.}}
+---json
+{
+    "name":"nivarila",
+    "h1":"nivarila",
+    "title":"nivarila -- synonyms, prabhupada.io",
+    "description":"stopped."
+}
+---
 
 ==== nivārila  ====
   * stopped --- [[books:cc:madhya:13:96|Madhya 13.96]]

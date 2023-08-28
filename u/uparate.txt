@@ -1,5 +1,11 @@
-~~Title:uparate~~
-{{description>being dead; cease; falling down; having disappeared; passed away; upon being relieved of the kingdom; when killed.}}
+---json
+{
+    "name":"uparate",
+    "h1":"uparate",
+    "title":"uparate -- synonyms, prabhupada.io",
+    "description":"being dead; cease; falling down; having disappeared; passed away; upon being relieved of the kingdom; when killed."
+}
+---
 
 ==== uparate  ====
   * being dead --- [[books:sb:4:14:39-40|SB 4.14.39-40]]

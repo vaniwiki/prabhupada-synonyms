@@ -1,5 +1,11 @@
-~~Title:āgete~~
-{{description>in front; later.}}
+---json
+{
+    "name":"āgete",
+    "h1":"āgete",
+    "title":"āgete -- synonyms, prabhupada.io",
+    "description":"in front; later."
+}
+---
 
 ==== āgete  ====
   * in front --- [[books:cc:madhya:5:73|Madhya 5.73]]

@@ -1,5 +1,11 @@
-~~Title:samjnitah~~
-{{description>is called; most celebrated; so nominated.}}
+---json
+{
+    "name":"samjnitah",
+    "h1":"samjnitah",
+    "title":"samjnitah -- synonyms, prabhupada.io",
+    "description":"is called; most celebrated; so nominated."
+}
+---
 
 ==== saṁjñitaḥ  ====
   * is called --- [[books:bg:8:3|Bg. 8.3]]

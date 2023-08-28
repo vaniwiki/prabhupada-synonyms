@@ -1,5 +1,11 @@
-~~Title:vaṁśaja~~
-{{description>of the bamboo flute.}}
+---json
+{
+    "name":"vaṁśaja",
+    "h1":"vaṁśaja",
+    "title":"vaṁśaja -- synonyms, prabhupada.io",
+    "description":"of the bamboo flute."
+}
+---
 
 ==== vara-vaṁśaja  ====
   * of the bamboo flute --- [[books:cc:antya:1:189|Antya 1.189]]

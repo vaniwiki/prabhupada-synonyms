@@ -1,5 +1,11 @@
-~~Title:santatayā~~
-{{description>without any gap.}}
+---json
+{
+    "name":"santatayā",
+    "h1":"santatayā",
+    "title":"santatayā -- synonyms, prabhupada.io",
+    "description":"without any gap."
+}
+---
 
 ==== santatayā  ====
   * without any gap --- [[books:sb:1:3:38|SB 1.3.38]]

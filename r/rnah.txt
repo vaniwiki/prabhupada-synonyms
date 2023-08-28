@@ -1,5 +1,11 @@
-~~Title:ṛṇaḥ~~
-{{description>free from debts.}}
+---json
+{
+    "name":"ṛṇaḥ",
+    "h1":"ṛṇaḥ",
+    "title":"ṛṇaḥ -- synonyms, prabhupada.io",
+    "description":"free from debts."
+}
+---
 
 ==== avatīrṇa-ṛṇaḥ  ====
   * free from debts --- [[books:sb:3:24:34|SB 3.24.34]]

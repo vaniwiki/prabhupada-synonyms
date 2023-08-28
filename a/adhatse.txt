@@ -1,5 +1,11 @@
-~~Title:ādhatse~~
-{{description>you assume.}}
+---json
+{
+    "name":"ādhatse",
+    "h1":"ādhatse",
+    "title":"ādhatse -- synonyms, prabhupada.io",
+    "description":"you assume."
+}
+---
 
 ==== ādhatse  ====
   * you assume --- [[books:sb:3:21:51|SB 3.21.51]]

@@ -1,5 +1,11 @@
-~~Title:āsvādya~~
-{{description>hearing; tasting.}}
+---json
+{
+    "name":"āsvādya",
+    "h1":"āsvādya",
+    "title":"āsvādya -- synonyms, prabhupada.io",
+    "description":"hearing; tasting."
+}
+---
 
 ==== āsvādya  ====
   * hearing --- [[books:sb:3:16:13|SB 3.16.13]]

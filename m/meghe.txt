@@ -1,5 +1,11 @@
-~~Title:meghe~~
-{{description>by the cloud; the cloud.}}
+---json
+{
+    "name":"meghe",
+    "h1":"meghe",
+    "title":"meghe -- synonyms, prabhupada.io",
+    "description":"by the cloud; the cloud."
+}
+---
 
 ==== meghe  ====
   * by the cloud --- [[books:cc:madhya:6:138|Madhya 6.138]]

@@ -1,5 +1,11 @@
-~~Title:sitam~~
-{{description>even Sītā; the original mother Sītā.}}
+---json
+{
+    "name":"sitam",
+    "h1":"sitam",
+    "title":"sitam -- synonyms, prabhupada.io",
+    "description":"even Sītā; the original mother Sītā."
+}
+---
 
 ==== sītām  ====
   * even Sītā --- [[books:sb:9:11:9|SB 9.11.9]]

@@ -1,5 +1,11 @@
-~~Title:apūrvaḥ~~
-{{description>unprecedented.}}
+---json
+{
+    "name":"apūrvaḥ",
+    "h1":"apūrvaḥ",
+    "title":"apūrvaḥ -- synonyms, prabhupada.io",
+    "description":"unprecedented."
+}
+---
 
 ==== apūrvaḥ  ====
   * unprecedented --- [[books:cc:antya:1:167|Antya 1.167]]

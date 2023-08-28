@@ -1,5 +1,11 @@
-~~Title:vyatikrāntena~~
-{{description>passed by.}}
+---json
+{
+    "name":"vyatikrāntena",
+    "h1":"vyatikrāntena",
+    "title":"vyatikrāntena -- synonyms, prabhupada.io",
+    "description":"passed by."
+}
+---
 
 ==== vyatikrāntena  ====
   * passed by --- [[books:sb:3:23:53|SB 3.23.53]]

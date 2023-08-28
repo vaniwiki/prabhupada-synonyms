@@ -1,5 +1,11 @@
-~~Title:pañcajanīm~~
-{{description>Pañcajanī.}}
+---json
+{
+    "name":"pañcajanīm",
+    "h1":"pañcajanīm",
+    "title":"pañcajanīm -- synonyms, prabhupada.io",
+    "description":"Pañcajanī."
+}
+---
 
 ==== pañcajanīm  ====
   * Pañcajanī --- [[books:sb:5:7:1|SB 5.7.1]]

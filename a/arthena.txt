@@ -1,5 +1,11 @@
-~~Title:arthena~~
-{{description>a purpose or meaning; by direct explanation; by explanation; by the money; for that; substance or reality; with economic development.}}
+---json
+{
+    "name":"arthena",
+    "h1":"arthena",
+    "title":"arthena -- synonyms, prabhupada.io",
+    "description":"a purpose or meaning; by direct explanation; by explanation; by the money; for that; substance or reality; with economic development."
+}
+---
 
 ==== arthena  ====
   * a purpose or meaning --- [[books:sb:3:7:10|SB 3.7.10]]

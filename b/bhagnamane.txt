@@ -1,5 +1,11 @@
-~~Title:bhagnamāne~~
-{{description>having been in anger on being insulted.}}
+---json
+{
+    "name":"bhagnamāne",
+    "h1":"bhagnamāne",
+    "title":"bhagnamāne -- synonyms, prabhupada.io",
+    "description":"having been in anger on being insulted."
+}
+---
 
 ==== kopāt bhagnamāne  ====
   * having been in anger on being insulted --- [[books:sb:3:2:33|SB 3.2.33]]

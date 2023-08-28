@@ -1,5 +1,11 @@
-~~Title:avadyam~~
-{{description>abominable (act); abominable; deplorable; great offense; harm; offense.}}
+---json
+{
+    "name":"avadyam",
+    "h1":"avadyam",
+    "title":"avadyam -- synonyms, prabhupada.io",
+    "description":"abominable (act); abominable; deplorable; great offense; harm; offense."
+}
+---
 
 ==== avadyam  ====
   * abominable (act) --- [[books:sb:4:11:12|SB 4.11.12]]

@@ -1,5 +1,11 @@
-~~Title:gandham~~
-{{description>aroma; flavor; the aroma.}}
+---json
+{
+    "name":"gandham",
+    "h1":"gandham",
+    "title":"gandham -- synonyms, prabhupada.io",
+    "description":"aroma; flavor; the aroma."
+}
+---
 
 ==== gandham  ====
   * aroma --- [[books:sb:2:2:29|SB 2.2.29]], [[books:sb:7:9:35|SB 7.9.35]]

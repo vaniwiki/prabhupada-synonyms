@@ -1,5 +1,11 @@
-~~Title:śalya~~
-{{description>Śalya.}}
+---json
+{
+    "name":"śalya",
+    "h1":"śalya",
+    "title":"śalya -- synonyms, prabhupada.io",
+    "description":"Śalya."
+}
+---
 
 ==== śalya  ====
   * Śalya --- [[books:sb:1:15:15|SB 1.15.15]], [[books:sb:1:15:16|SB 1.15.16]]

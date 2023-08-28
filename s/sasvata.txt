@@ -1,5 +1,11 @@
-~~Title:śāśvata~~
-{{description>maintainer of the eternal religion.}}
+---json
+{
+    "name":"śāśvata",
+    "h1":"śāśvata",
+    "title":"śāśvata -- synonyms, prabhupada.io",
+    "description":"maintainer of the eternal religion."
+}
+---
 
 ==== śāśvata-dharma-goptā  ====
   * maintainer of the eternal religion --- [[books:bg:11:18|Bg. 11.18]]

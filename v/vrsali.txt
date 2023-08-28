@@ -1,5 +1,11 @@
-~~Title:vṛṣalī~~
-{{description>public prostitute.}}
+---json
+{
+    "name":"vṛṣalī",
+    "h1":"vṛṣalī",
+    "title":"vṛṣalī -- synonyms, prabhupada.io",
+    "description":"public prostitute."
+}
+---
 
 ==== vṛṣalī  ====
   * public prostitute --- [[books:sb:3:14:30|SB 3.14.30]]

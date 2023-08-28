@@ -1,5 +1,11 @@
-~~Title:kaṣṭaḥ~~
-{{description>giving trouble.}}
+---json
+{
+    "name":"kaṣṭaḥ",
+    "h1":"kaṣṭaḥ",
+    "title":"kaṣṭaḥ -- synonyms, prabhupada.io",
+    "description":"giving trouble."
+}
+---
 
 ==== kaṣṭaḥ  ====
   * giving trouble --- [[books:sb:5:2:14|SB 5.2.14]]

@@ -1,5 +1,11 @@
-~~Title:pariyanti~~
-{{description>circumambulate.}}
+---json
+{
+    "name":"pariyanti",
+    "h1":"pariyanti",
+    "title":"pariyanti -- synonyms, prabhupada.io",
+    "description":"circumambulate."
+}
+---
 
 ==== pariyanti  ====
   * circumambulate --- [[books:sb:4:12:25|SB 4.12.25]]

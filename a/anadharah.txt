@@ -1,5 +1,11 @@
-~~Title:anādhāraḥ~~
-{{description>without being supported by anything.}}
+---json
+{
+    "name":"anādhāraḥ",
+    "h1":"anādhāraḥ",
+    "title":"anādhāraḥ -- synonyms, prabhupada.io",
+    "description":"without being supported by anything."
+}
+---
 
 ==== anādhāraḥ  ====
   * without being supported by anything --- [[books:sb:8:7:6|SB 8.7.6]]

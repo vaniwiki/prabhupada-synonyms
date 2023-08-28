@@ -1,5 +1,11 @@
-~~Title:śanaiścaram~~
-{{description>Saturn.}}
+---json
+{
+    "name":"śanaiścaram",
+    "h1":"śanaiścaram",
+    "title":"śanaiścaram -- synonyms, prabhupada.io",
+    "description":"Saturn."
+}
+---
 
 ==== śanaiścaram  ====
   * Saturn --- [[books:sb:6:6:41|SB 6.6.41]]

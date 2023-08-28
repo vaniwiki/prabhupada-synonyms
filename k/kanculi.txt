@@ -1,5 +1,11 @@
-~~Title:kañculi~~
-{{description>as a top dress.}}
+---json
+{
+    "name":"kañculi",
+    "h1":"kañculi",
+    "title":"kañculi -- synonyms, prabhupada.io",
+    "description":"as a top dress."
+}
+---
 
 ==== kañculi  ====
   * as a top dress --- [[books:cc:antya:18:91|Antya 18.91]]

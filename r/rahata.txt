@@ -1,5 +1,11 @@
-~~Title:rahata~~
-{{description>keep.}}
+---json
+{
+    "name":"rahata",
+    "h1":"rahata",
+    "title":"rahata -- synonyms, prabhupada.io",
+    "description":"keep."
+}
+---
 
 ==== rahata  ====
   * keep --- [[books:cc:madhya:18:102|Madhya 18.102]]

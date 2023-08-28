@@ -1,5 +1,11 @@
-~~Title:ānandi~~
-{{description>giving pleasure.}}
+---json
+{
+    "name":"ānandi",
+    "h1":"ānandi",
+    "title":"ānandi -- synonyms, prabhupada.io",
+    "description":"giving pleasure."
+}
+---
 
 ==== ānandi  ====
   * giving pleasure --- [[books:cc:antya:15:14|Antya 15.14]]

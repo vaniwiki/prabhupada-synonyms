@@ -1,5 +1,11 @@
-~~Title:seihaite~~
-{{description>from that day; from that time; since that time.}}
+---json
+{
+    "name":"seihaite",
+    "h1":"seihaite",
+    "title":"seihaite -- synonyms, prabhupada.io",
+    "description":"from that day; from that time; since that time."
+}
+---
 
 ==== seihaite  ====
   * from that day --- [[books:cc:adi:15:10|Ādi 15.10]], [[books:cc:madhya:12:68|Madhya 12.68]]

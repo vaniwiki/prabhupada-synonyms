@@ -1,5 +1,11 @@
-~~Title:pherāpheri~~
-{{description>going and coming back.}}
+---json
+{
+    "name":"pherāpheri",
+    "h1":"pherāpheri",
+    "title":"pherāpheri -- synonyms, prabhupada.io",
+    "description":"going and coming back."
+}
+---
 
 ==== pherāpheri  ====
   * going and coming back --- [[books:cc:madhya:9:5|Madhya 9.5]]

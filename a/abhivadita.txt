@@ -1,5 +1,11 @@
-~~Title:abhivādita~~
-{{description>worshiped.}}
+---json
+{
+    "name":"abhivādita",
+    "h1":"abhivādita",
+    "title":"abhivādita -- synonyms, prabhupada.io",
+    "description":"worshiped."
+}
+---
 
 ==== abhivādita  ====
   * worshiped --- [[books:sb:5:3:16|SB 5.3.16]]

@@ -1,5 +1,11 @@
-~~Title:daityam~~
-{{description>demon; the demon; unto the demon.}}
+---json
+{
+    "name":"daityam",
+    "h1":"daityam",
+    "title":"daityam -- synonyms, prabhupada.io",
+    "description":"demon; the demon; unto the demon."
+}
+---
 
 ==== daityam  ====
   * demon --- [[books:sb:2:7:1|SB 2.7.1]], [[books:sb:7:8:35|SB 7.8.35]]

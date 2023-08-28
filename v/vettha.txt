@@ -1,5 +1,11 @@
-~~Title:vettha~~
-{{description>just know from Me; know; you are well conversant; you know.}}
+---json
+{
+    "name":"vettha",
+    "h1":"vettha",
+    "title":"vettha -- synonyms, prabhupada.io",
+    "description":"just know from Me; know; you are well conversant; you know."
+}
+---
 
 ==== vettha  ====
   * just know from Me --- [[books:sb:1:7:27|SB 1.7.27]]

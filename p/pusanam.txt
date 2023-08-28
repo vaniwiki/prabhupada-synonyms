@@ -1,5 +1,11 @@
-~~Title:pūṣaṇam~~
-{{description>Pūṣā.}}
+---json
+{
+    "name":"pūṣaṇam",
+    "h1":"pūṣaṇam",
+    "title":"pūṣaṇam -- synonyms, prabhupada.io",
+    "description":"Pūṣā."
+}
+---
 
 ==== pūṣaṇam  ====
   * Pūṣā --- [[books:sb:4:5:17|SB 4.5.17]]

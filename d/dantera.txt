@@ -1,5 +1,11 @@
-~~Title:dantera~~
-{{description>of teeth.}}
+---json
+{
+    "name":"dantera",
+    "h1":"dantera",
+    "title":"dantera -- synonyms, prabhupada.io",
+    "description":"of teeth."
+}
+---
 
 ==== dantera  ====
   * of teeth --- [[books:cc:madhya:13:103|Madhya 13.103]]

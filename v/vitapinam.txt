@@ -1,5 +1,11 @@
-~~Title:viṭapinām~~
-{{description>of trees.}}
+---json
+{
+    "name":"viṭapinām",
+    "h1":"viṭapinām",
+    "title":"viṭapinām -- synonyms, prabhupada.io",
+    "description":"of trees."
+}
+---
 
 ==== viṭapinām  ====
   * of trees --- [[books:sb:5:24:10|SB 5.24.10]]

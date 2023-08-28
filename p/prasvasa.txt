@@ -1,5 +1,11 @@
-~~Title:praśvāsa~~
-{{description>breathing.}}
+---json
+{
+    "name":"praśvāsa",
+    "h1":"praśvāsa",
+    "title":"praśvāsa -- synonyms, prabhupada.io",
+    "description":"breathing."
+}
+---
 
 ==== śvāsa-praśvāsa  ====
   * breathing --- [[books:cc:madhya:6:9|Madhya 6.9]]

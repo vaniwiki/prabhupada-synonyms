@@ -1,5 +1,11 @@
-~~Title:āśramāya~~
-{{description>to his own hermitage.}}
+---json
+{
+    "name":"āśramāya",
+    "h1":"āśramāya",
+    "title":"āśramāya -- synonyms, prabhupada.io",
+    "description":"to his own hermitage."
+}
+---
 
 ==== sva-āśramāya  ====
   * to his own hermitage --- [[books:sb:3:23:43|SB 3.23.43]]

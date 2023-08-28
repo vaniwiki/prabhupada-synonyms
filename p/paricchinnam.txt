@@ -1,5 +1,11 @@
-~~Title:paricchinnam~~
-{{description>separated.}}
+---json
+{
+    "name":"paricchinnam",
+    "h1":"paricchinnam",
+    "title":"paricchinnam -- synonyms, prabhupada.io",
+    "description":"separated."
+}
+---
 
 ==== paricchinnam  ====
   * separated --- [[books:sb:3:10:12|SB 3.10.12]]

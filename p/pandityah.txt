@@ -1,5 +1,11 @@
-~~Title:pāṇḍityaḥ~~
-{{description>very learned.}}
+---json
+{
+    "name":"pāṇḍityaḥ",
+    "h1":"pāṇḍityaḥ",
+    "title":"pāṇḍityaḥ -- synonyms, prabhupada.io",
+    "description":"very learned."
+}
+---
 
 ==== su-pāṇḍityaḥ  ====
   * very learned --- [[books:cc:madhya:23:71|Madhya 23.71]]

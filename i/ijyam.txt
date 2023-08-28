@@ -1,5 +1,11 @@
-~~Title:ijyam~~
-{{description>worshipable.}}
+---json
+{
+    "name":"ijyam",
+    "h1":"ijyam",
+    "title":"ijyam -- synonyms, prabhupada.io",
+    "description":"worshipable."
+}
+---
 
 ==== ijyam  ====
   * worshipable --- [[books:sb:8:6:9|SB 8.6.9]]

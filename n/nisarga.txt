@@ -1,5 +1,11 @@
-~~Title:nisarga~~
-{{description>by nature very kind.}}
+---json
+{
+    "name":"nisarga",
+    "h1":"nisarga",
+    "title":"nisarga -- synonyms, prabhupada.io",
+    "description":"by nature very kind."
+}
+---
 
 ==== nisarga-karuṇaḥ  ====
   * by nature very kind --- [[books:sb:9:21:14|SB 9.21.14]]

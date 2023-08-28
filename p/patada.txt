@@ -1,5 +1,11 @@
-~~Title:pātaḍā~~
-{{description>in the hilly tract of land known as Pātaḍā.}}
+---json
+{
+    "name":"pātaḍā",
+    "h1":"pātaḍā",
+    "title":"pātaḍā -- synonyms, prabhupada.io",
+    "description":"in the hilly tract of land known as Pātaḍā."
+}
+---
 
 ==== pātaḍā-parvate  ====
   * in the hilly tract of land known as Pātaḍā --- [[books:cc:madhya:20:16|Madhya 20.16]]

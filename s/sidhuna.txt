@@ -1,5 +1,11 @@
-~~Title:sīdhunā~~
-{{description>by the nectar.}}
+---json
+{
+    "name":"sīdhunā",
+    "h1":"sīdhunā",
+    "title":"sīdhunā -- synonyms, prabhupada.io",
+    "description":"by the nectar."
+}
+---
 
 ==== sīdhunā  ====
   * by the nectar --- [[books:sb:4:22:24|SB 4.22.24]]

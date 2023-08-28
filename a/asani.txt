@@ -1,5 +1,11 @@
-~~Title:aśani~~
-{{description>like thunderbolts; thunderbolts.}}
+---json
+{
+    "name":"aśani",
+    "h1":"aśani",
+    "title":"aśani -- synonyms, prabhupada.io",
+    "description":"like thunderbolts; thunderbolts."
+}
+---
 
 ==== aśani  ====
   * like thunderbolts --- [[books:sb:6:8:24|SB 6.8.24]]

@@ -1,5 +1,11 @@
-~~Title:vivarana~~
-{{description>description.}}
+---json
+{
+    "name":"vivarana",
+    "h1":"vivarana",
+    "title":"vivarana -- synonyms, prabhupada.io",
+    "description":"description."
+}
+---
 
 ==== vivarana  ====
   * description --- [[books:cc:antya:6:246|Antya 6.246]]

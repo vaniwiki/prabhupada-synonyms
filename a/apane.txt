@@ -1,5 +1,11 @@
-~~Title:apane~~
-{{description>air which acts downward.}}
+---json
+{
+    "name":"apane",
+    "h1":"apane",
+    "title":"apane -- synonyms, prabhupada.io",
+    "description":"air which acts downward."
+}
+---
 
 ==== apāne  ====
   * air which acts downward --- [[books:bg:4:29|Bg. 4.29]]

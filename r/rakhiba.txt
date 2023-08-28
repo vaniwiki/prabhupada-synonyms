@@ -1,5 +1,11 @@
-~~Title:rakhiba~~
-{{description>I shall keep.}}
+---json
+{
+    "name":"rakhiba",
+    "h1":"rakhiba",
+    "title":"rakhiba -- synonyms, prabhupada.io",
+    "description":"I shall keep."
+}
+---
 
 ==== rākhiba  ====
   * I shall keep --- [[books:cc:madhya:3:117|Madhya 3.117]], [[books:cc:madhya:5:85|Madhya 5.85]], [[books:cc:madhya:5:92|Madhya 5.92]]

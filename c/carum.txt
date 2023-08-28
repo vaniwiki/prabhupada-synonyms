@@ -1,5 +1,11 @@
-~~Title:carum~~
-{{description>a preparation for offering in a sacrifice; a specific oblation of sweetrice; grains offered in the yajña.}}
+---json
+{
+    "name":"carum",
+    "h1":"carum",
+    "title":"carum -- synonyms, prabhupada.io",
+    "description":"a preparation for offering in a sacrifice; a specific oblation of sweetrice; grains offered in the yajña."
+}
+---
 
 ==== carum  ====
   * a preparation for offering in a sacrifice --- [[books:sb:9:15:8|SB 9.15.8]]

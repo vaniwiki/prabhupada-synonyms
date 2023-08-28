@@ -1,5 +1,11 @@
-~~Title:piditah~~
-{{description>aggrieved; overcome; suffering.}}
+---json
+{
+    "name":"piditah",
+    "h1":"piditah",
+    "title":"piditah -- synonyms, prabhupada.io",
+    "description":"aggrieved; overcome; suffering."
+}
+---
 
 ==== pīḍitaḥ  ====
   * aggrieved --- [[books:sb:9:5:2|SB 9.5.2]]

@@ -1,5 +1,11 @@
-~~Title:rajjvā~~
-{{description>by the ropes.}}
+---json
+{
+    "name":"rajjvā",
+    "h1":"rajjvā",
+    "title":"rajjvā -- synonyms, prabhupada.io",
+    "description":"by the ropes."
+}
+---
 
 ==== rajjvā  ====
   * by the ropes --- [[books:sb:1:7:34|SB 1.7.34]]

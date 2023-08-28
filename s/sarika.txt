@@ -1,5 +1,11 @@
-~~Title:sarika~~
-{{description>mynas; pet bird.}}
+---json
+{
+    "name":"sarika",
+    "h1":"sarika",
+    "title":"sarika -- synonyms, prabhupada.io",
+    "description":"mynas; pet bird."
+}
+---
 
 ==== sārikā  ====
   * mynas --- [[books:sb:5:24:9|SB 5.24.9]]

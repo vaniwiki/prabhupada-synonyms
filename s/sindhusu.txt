@@ -1,5 +1,11 @@
-~~Title:sindhuṣu~~
-{{description>in the state of Sindhu.}}
+---json
+{
+    "name":"sindhuṣu",
+    "h1":"sindhuṣu",
+    "title":"sindhuṣu -- synonyms, prabhupada.io",
+    "description":"in the state of Sindhu."
+}
+---
 
 ==== sindhuṣu  ====
   * in the state of Sindhu --- [[books:sb:5:12:5-6|SB 5.12.5-6]]

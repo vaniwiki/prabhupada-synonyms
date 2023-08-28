@@ -1,5 +1,11 @@
-~~Title:pūrita~~
-{{description>filled; full of.}}
+---json
+{
+    "name":"pūrita",
+    "h1":"pūrita",
+    "title":"pūrita -- synonyms, prabhupada.io",
+    "description":"filled; full of."
+}
+---
 
 ==== pūrita  ====
   * filled --- [[books:cc:madhya:8:175|Madhya 8.175]], [[books:cc:madhya:15:76|Madhya 15.76]]

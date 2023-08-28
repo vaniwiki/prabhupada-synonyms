@@ -1,5 +1,11 @@
-~~Title:lembu~~
-{{description>lemon; lime.}}
+---json
+{
+    "name":"lembu",
+    "h1":"lembu",
+    "title":"lembu -- synonyms, prabhupada.io",
+    "description":"lemon; lime."
+}
+---
 
 ==== lembu  ====
   * lemon --- [[books:cc:madhya:14:34|Madhya 14.34]], [[books:cc:madhya:15:54-55|Madhya 15.54-55]]

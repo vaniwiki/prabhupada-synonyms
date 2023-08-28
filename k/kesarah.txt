@@ -1,5 +1,11 @@
-~~Title:kesaraḥ~~
-{{description>Śatakesara.}}
+---json
+{
+    "name":"kesaraḥ",
+    "h1":"kesaraḥ",
+    "title":"kesaraḥ -- synonyms, prabhupada.io",
+    "description":"Śatakesara."
+}
+---
 
 ==== śata-kesaraḥ  ====
   * Śatakesara --- [[books:sb:5:20:26|SB 5.20.26]]

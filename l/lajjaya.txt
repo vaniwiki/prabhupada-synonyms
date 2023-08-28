@@ -1,5 +1,11 @@
-~~Title:lajjayā~~
-{{description>with shame.}}
+---json
+{
+    "name":"lajjayā",
+    "h1":"lajjayā",
+    "title":"lajjayā -- synonyms, prabhupada.io",
+    "description":"with shame."
+}
+---
 
 ==== lajjayā  ====
   * with shame --- [[books:sb:9:14:12|SB 9.14.12]]

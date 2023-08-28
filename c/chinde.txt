@@ -1,5 +1,11 @@
-~~Title:chiṇḍe~~
-{{description>breaks.}}
+---json
+{
+    "name":"chiṇḍe",
+    "h1":"chiṇḍe",
+    "title":"chiṇḍe -- synonyms, prabhupada.io",
+    "description":"breaks."
+}
+---
 
 ==== chiṇḍe  ====
   * breaks --- [[books:cc:madhya:19:156|Madhya 19.156]]

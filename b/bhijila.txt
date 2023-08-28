@@ -1,5 +1,11 @@
-~~Title:bhijila~~
-{{description>become wet.}}
+---json
+{
+    "name":"bhijila",
+    "h1":"bhijila",
+    "title":"bhijila -- synonyms, prabhupada.io",
+    "description":"become wet."
+}
+---
 
 ==== bhijila  ====
   * become wet --- [[books:cc:madhya:13:105|Madhya 13.105]]

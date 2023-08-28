@@ -1,5 +1,11 @@
-~~Title:hateṣu~~
-{{description>having been killed.}}
+---json
+{
+    "name":"hateṣu",
+    "h1":"hateṣu",
+    "title":"hateṣu -- synonyms, prabhupada.io",
+    "description":"having been killed."
+}
+---
 
 ==== hateṣu  ====
   * having been killed --- [[books:sb:10:2:4-5|SB 10.2.4-5]]

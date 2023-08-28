@@ -1,5 +1,11 @@
-~~Title:asim~~
-{{description>sword; the sword.}}
+---json
+{
+    "name":"asim",
+    "h1":"asim",
+    "title":"asim -- synonyms, prabhupada.io",
+    "description":"sword; the sword."
+}
+---
 
 ==== asim  ====
   * sword --- [[books:sb:1:17:35|SB 1.17.35]], [[books:sb:4:15:17|SB 4.15.17]]

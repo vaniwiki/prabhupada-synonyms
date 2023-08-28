@@ -1,5 +1,11 @@
-~~Title:kurūn~~
-{{description>all the members of the Kuru dynasty; the descendants of King Kuru; the kingdom of the Kuru dynasty; the land known as Kuru.}}
+---json
+{
+    "name":"kurūn",
+    "h1":"kurūn",
+    "title":"kurūn -- synonyms, prabhupada.io",
+    "description":"all the members of the Kuru dynasty; the descendants of King Kuru; the kingdom of the Kuru dynasty; the land known as Kuru."
+}
+---
 
 ==== kurūn  ====
   * all the members of the //Kuru// dynasty --- [[books:bg:1:25|Bg. 1.25]]

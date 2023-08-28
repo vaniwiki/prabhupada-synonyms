@@ -1,5 +1,11 @@
-~~Title:upacitam~~
-{{description>acquire.}}
+---json
+{
+    "name":"upacitam",
+    "h1":"upacitam",
+    "title":"upacitam -- synonyms, prabhupada.io",
+    "description":"acquire."
+}
+---
 
 ==== upacitam  ====
   * acquire --- [[books:sb:4:21:31|SB 4.21.31]]

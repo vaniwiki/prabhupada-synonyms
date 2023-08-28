@@ -1,5 +1,11 @@
-~~Title:tumita~~
-{{description>but you.}}
+---json
+{
+    "name":"tumita",
+    "h1":"tumita",
+    "title":"tumita -- synonyms, prabhupada.io",
+    "description":"but you."
+}
+---
 
 ==== tumita  ====
   * but you --- [[books:cc:adi:17:197|Ādi 17.197]]

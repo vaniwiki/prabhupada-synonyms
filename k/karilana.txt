@@ -1,5 +1,11 @@
-~~Title:karilāṅa~~
-{{description>I did; I have described.}}
+---json
+{
+    "name":"karilāṅa",
+    "h1":"karilāṅa",
+    "title":"karilāṅa -- synonyms, prabhupada.io",
+    "description":"I did; I have described."
+}
+---
 
 ==== karilāṅa  ====
   * I did --- [[books:cc:madhya:17:70|Madhya 17.70]]

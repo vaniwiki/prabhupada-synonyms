@@ -1,5 +1,11 @@
-~~Title:gauḍere~~
-{{description>to Bengal.}}
+---json
+{
+    "name":"gauḍere",
+    "h1":"gauḍere",
+    "title":"gauḍere -- synonyms, prabhupada.io",
+    "description":"to Bengal."
+}
+---
 
 ==== gauḍere  ====
   * to Bengal --- [[books:cc:madhya:1:148|Madhya 1.148]], [[books:cc:madhya:16:257|Madhya 16.257]]

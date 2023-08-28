@@ -1,5 +1,11 @@
-~~Title:plakṣa~~
-{{description>Plakṣa.}}
+---json
+{
+    "name":"plakṣa",
+    "h1":"plakṣa",
+    "title":"plakṣa -- synonyms, prabhupada.io",
+    "description":"Plakṣa."
+}
+---
 
 ==== plakṣa  ====
   * Plakṣa --- [[books:sb:5:1:32|SB 5.1.32]]

@@ -1,5 +1,11 @@
-~~Title:bhayaṅ~~
-{{description>very fearful.}}
+---json
+{
+    "name":"bhayaṅ",
+    "h1":"bhayaṅ",
+    "title":"bhayaṅ -- synonyms, prabhupada.io",
+    "description":"very fearful."
+}
+---
 
 ==== mahā-bhayaṅ-kara  ====
   * very fearful --- [[books:cc:adi:17:178-179|Ādi 17.178-179]]

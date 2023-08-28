@@ -1,5 +1,11 @@
-~~Title:śilāre~~
-{{description>the stone.}}
+---json
+{
+    "name":"śilāre",
+    "h1":"śilāre",
+    "title":"śilāre -- synonyms, prabhupada.io",
+    "description":"the stone."
+}
+---
 
 ==== śilāre  ====
   * the stone --- [[books:cc:antya:6:292|Antya 6.292]]

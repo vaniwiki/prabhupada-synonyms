@@ -1,5 +1,11 @@
-~~Title:cittiḥ~~
-{{description>Citti.}}
+---json
+{
+    "name":"cittiḥ",
+    "h1":"cittiḥ",
+    "title":"cittiḥ -- synonyms, prabhupada.io",
+    "description":"Citti."
+}
+---
 
 ==== cittiḥ  ====
   * Citti --- [[books:sb:4:1:42|SB 4.1.42]]

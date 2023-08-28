@@ -1,5 +1,11 @@
-~~Title:arikta~~
-{{description>abundantly.}}
+---json
+{
+    "name":"arikta",
+    "h1":"arikta",
+    "title":"arikta -- synonyms, prabhupada.io",
+    "description":"abundantly."
+}
+---
 
 ==== arikta  ====
   * abundantly --- [[books:sb:4:22:11|SB 4.22.11]]

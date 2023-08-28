@@ -1,5 +1,11 @@
-~~Title:darśitaḥ~~
-{{description>exhibited; I have been shown; shown; this curse is placed upon you.}}
+---json
+{
+    "name":"darśitaḥ",
+    "h1":"darśitaḥ",
+    "title":"darśitaḥ -- synonyms, prabhupada.io",
+    "description":"exhibited; I have been shown; shown; this curse is placed upon you."
+}
+---
 
 ==== darśitaḥ  ====
   * exhibited --- [[books:sb:3:9:37|SB 3.9.37]]

@@ -1,5 +1,11 @@
-~~Title:agastya~~
-{{description>obeisances to Agastya Muni.}}
+---json
+{
+    "name":"agastya",
+    "h1":"agastya",
+    "title":"agastya -- synonyms, prabhupada.io",
+    "description":"obeisances to Agastya Muni."
+}
+---
 
 ==== agastya-vandana  ====
   * obeisances to Agastya Muni --- [[books:cc:madhya:9:223|Madhya 9.223]]

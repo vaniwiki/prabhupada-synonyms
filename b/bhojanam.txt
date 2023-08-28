@@ -1,5 +1,11 @@
-~~Title:bhojanam~~
-{{description>of the Bhoja dynasty.}}
+---json
+{
+    "name":"bhojanam",
+    "h1":"bhojanam",
+    "title":"bhojanam -- synonyms, prabhupada.io",
+    "description":"of the Bhoja dynasty."
+}
+---
 
 ==== bhojānām  ====
   * of the Bhoja dynasty --- [[books:sb:10:1:35|SB 10.1.35]]

@@ -1,5 +1,11 @@
-~~Title:śrīmūrti~~
-{{description>seeing the Deity.}}
+---json
+{
+    "name":"śrīmūrti",
+    "h1":"śrīmūrti",
+    "title":"śrīmūrti -- synonyms, prabhupada.io",
+    "description":"seeing the Deity."
+}
+---
 
 ==== śrīmūrti-darśana  ====
   * seeing the Deity --- [[books:cc:madhya:22:124|Madhya 22.124]]

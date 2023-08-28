@@ -1,5 +1,11 @@
-~~Title:khāona~~
-{{description>eating.}}
+---json
+{
+    "name":"khāona",
+    "h1":"khāona",
+    "title":"khāona -- synonyms, prabhupada.io",
+    "description":"eating."
+}
+---
 
 ==== khāona  ====
   * eating --- [[books:cc:madhya:15:238|Madhya 15.238]]

@@ -1,5 +1,11 @@
-~~Title:āratikariyā~~
-{{description>after finishing the ārati.}}
+---json
+{
+    "name":"āratikariyā",
+    "h1":"āratikariyā",
+    "title":"āratikariyā -- synonyms, prabhupada.io",
+    "description":"after finishing the ārati."
+}
+---
 
 ==== āratikariyā  ====
   * after finishing the //ārati// --- [[books:cc:madhya:3:59|Madhya 3.59]]

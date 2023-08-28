@@ -1,5 +1,11 @@
-~~Title:dhanvan~~
-{{description>O great bowman Vidura.}}
+---json
+{
+    "name":"dhanvan",
+    "h1":"dhanvan",
+    "title":"dhanvan -- synonyms, prabhupada.io",
+    "description":"O great bowman Vidura."
+}
+---
 
 ==== su-dhanvan  ====
   * O great bowman Vidura --- [[books:sb:3:21:37|SB 3.21.37]]

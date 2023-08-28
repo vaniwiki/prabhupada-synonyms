@@ -1,5 +1,11 @@
-~~Title:kuśika~~
-{{description>in the family of Viśvāmitra.}}
+---json
+{
+    "name":"kuśika",
+    "h1":"kuśika",
+    "title":"kuśika -- synonyms, prabhupada.io",
+    "description":"in the family of Viśvāmitra."
+}
+---
 
 ==== kuśika-anvaye  ====
   * in the family of Viśvāmitra --- [[books:sb:9:20:15|SB 9.20.15]]

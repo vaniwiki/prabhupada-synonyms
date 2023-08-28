@@ -1,5 +1,11 @@
-~~Title:vāpīṣu~~
-{{description>in the ponds.}}
+---json
+{
+    "name":"vāpīṣu",
+    "h1":"vāpīṣu",
+    "title":"vāpīṣu -- synonyms, prabhupada.io",
+    "description":"in the ponds."
+}
+---
 
 ==== vāpīṣu  ====
   * in the ponds --- [[books:sb:3:15:22|SB 3.15.22]]

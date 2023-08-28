@@ -1,5 +1,11 @@
-~~Title:praharsitah~~
-{{description>extremely pleased.}}
+---json
+{
+    "name":"praharsitah",
+    "h1":"praharsitah",
+    "title":"praharsitah -- synonyms, prabhupada.io",
+    "description":"extremely pleased."
+}
+---
 
 ==== praharṣitaḥ  ====
   * extremely pleased --- [[books:sb:3:22:22|SB 3.22.22]]

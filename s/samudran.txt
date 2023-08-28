@@ -1,5 +1,11 @@
-~~Title:samudrān~~
-{{description>all the oceans; within the seas.}}
+---json
+{
+    "name":"samudrān",
+    "h1":"samudrān",
+    "title":"samudrān -- synonyms, prabhupada.io",
+    "description":"all the oceans; within the seas."
+}
+---
 
 ==== samudrān  ====
   * all the oceans --- [[books:sb:8:19:11|SB 8.19.11]]

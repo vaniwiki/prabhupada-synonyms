@@ -1,5 +1,11 @@
-~~Title:diśe~~
-{{description>direction.}}
+---json
+{
+    "name":"diśe",
+    "h1":"diśe",
+    "title":"diśe -- synonyms, prabhupada.io",
+    "description":"direction."
+}
+---
 
 ==== diśe  ====
   * direction --- [[books:sb:6:17:1|SB 6.17.1]]

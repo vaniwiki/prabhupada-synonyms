@@ -1,5 +1,11 @@
-~~Title:mīmāṁsaka~~
-{{description>followers of Mīmāṁsā philosophy; the Mīmāṁsaka philosophers.}}
+---json
+{
+    "name":"mīmāṁsaka",
+    "h1":"mīmāṁsaka",
+    "title":"mīmāṁsaka -- synonyms, prabhupada.io",
+    "description":"followers of Mīmāṁsā philosophy; the Mīmāṁsaka philosophers."
+}
+---
 
 ==== mīmāṁsaka  ====
   * followers of Mīmāṁsā philosophy --- [[books:cc:madhya:9:42|Madhya 9.42]]

@@ -1,5 +1,11 @@
-~~Title:prāsūta~~
-{{description>bore.}}
+---json
+{
+    "name":"prāsūta",
+    "h1":"prāsūta",
+    "title":"prāsūta -- synonyms, prabhupada.io",
+    "description":"bore."
+}
+---
 
 ==== prāsūta  ====
   * bore --- [[books:sb:6:18:2|SB 6.18.2]]

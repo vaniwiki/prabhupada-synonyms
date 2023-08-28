@@ -1,5 +1,11 @@
-~~Title:ṛṣṭibhiḥ~~
-{{description>and spears.}}
+---json
+{
+    "name":"ṛṣṭibhiḥ",
+    "h1":"ṛṣṭibhiḥ",
+    "title":"ṛṣṭibhiḥ -- synonyms, prabhupada.io",
+    "description":"and spears."
+}
+---
 
 ==== ṛṣṭibhiḥ  ====
   * and spears --- [[books:sb:4:10:11-12|SB 4.10.11-12]]

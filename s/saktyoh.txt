@@ -1,5 +1,11 @@
-~~Title:śaktyoḥ~~
-{{description>being situated in your auspicious energy.}}
+---json
+{
+    "name":"śaktyoḥ",
+    "h1":"śaktyoḥ",
+    "title":"śaktyoḥ -- synonyms, prabhupada.io",
+    "description":"being situated in your auspicious energy."
+}
+---
 
 ==== śiva-śaktyoḥ  ====
   * being situated in your auspicious energy --- [[books:sb:4:6:43|SB 4.6.43]]

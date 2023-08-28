@@ -1,5 +1,11 @@
-~~Title:paritoṣam~~
-{{description>and satisfaction.}}
+---json
+{
+    "name":"paritoṣam",
+    "h1":"paritoṣam",
+    "title":"paritoṣam -- synonyms, prabhupada.io",
+    "description":"and satisfaction."
+}
+---
 
 ==== paritoṣam ca  ====
   * and satisfaction --- [[books:sb:7:13:35|SB 7.13.35]]

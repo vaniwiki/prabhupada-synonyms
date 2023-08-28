@@ -1,5 +1,11 @@
-~~Title:pravahatām~~
-{{description>of those who perform.}}
+---json
+{
+    "name":"pravahatām",
+    "h1":"pravahatām",
+    "title":"pravahatām -- synonyms, prabhupada.io",
+    "description":"of those who perform."
+}
+---
 
 ==== pravahatām  ====
   * of those who perform --- [[books:sb:4:9:11|SB 4.9.11]]

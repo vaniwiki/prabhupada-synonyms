@@ -1,5 +1,11 @@
-~~Title:āvapanam~~
-{{description>the cultivation ground or source; the growing ground.}}
+---json
+{
+    "name":"āvapanam",
+    "h1":"āvapanam",
+    "title":"āvapanam -- synonyms, prabhupada.io",
+    "description":"the cultivation ground or source; the growing ground."
+}
+---
 
 ==== āvapanam  ====
   * the cultivation ground or source --- [[books:sb:5:14:23|SB 5.14.23]]

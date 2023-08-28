@@ -1,5 +1,11 @@
-~~Title:oḍra~~
-{{description>Oḍra.}}
+---json
+{
+    "name":"oḍra",
+    "h1":"oḍra",
+    "title":"oḍra -- synonyms, prabhupada.io",
+    "description":"Oḍra."
+}
+---
 
 ==== oḍra  ====
   * Oḍra --- [[books:sb:9:23:5|SB 9.23.5]]

@@ -1,5 +1,11 @@
-~~Title:vittāt~~
-{{description>from wealth.}}
+---json
+{
+    "name":"vittāt",
+    "h1":"vittāt",
+    "title":"vittāt -- synonyms, prabhupada.io",
+    "description":"from wealth."
+}
+---
 
 ==== vittāt  ====
   * from wealth --- [[books:sb:3:28:39|SB 3.28.39]]

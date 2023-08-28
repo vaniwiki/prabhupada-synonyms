@@ -1,5 +1,11 @@
-~~Title:vitānaiḥ~~
-{{description>by canopies decorated with pearls.}}
+---json
+{
+    "name":"vitānaiḥ",
+    "h1":"vitānaiḥ",
+    "title":"vitānaiḥ -- synonyms, prabhupada.io",
+    "description":"by canopies decorated with pearls."
+}
+---
 
 ==== muktā-vitānaiḥ  ====
   * by canopies decorated with pearls --- [[books:sb:8:15:20|SB 8.15.20]]

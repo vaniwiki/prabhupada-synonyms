@@ -1,5 +1,11 @@
-~~Title:virocamānam~~
-{{description>very beautifully decorated.}}
+---json
+{
+    "name":"virocamānam",
+    "h1":"virocamānam",
+    "title":"virocamānam -- synonyms, prabhupada.io",
+    "description":"very beautifully decorated."
+}
+---
 
 ==== virocamānam  ====
   * very beautifully decorated --- [[books:sb:10:3:9-10|SB 10.3.9-10]]

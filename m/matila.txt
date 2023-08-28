@@ -1,5 +1,11 @@
-~~Title:mātila~~
-{{description>became mad.}}
+---json
+{
+    "name":"mātila",
+    "h1":"mātila",
+    "title":"mātila -- synonyms, prabhupada.io",
+    "description":"became mad."
+}
+---
 
 ==== mātila  ====
   * became mad --- [[books:cc:adi:9:49|Ādi 9.49]]

@@ -1,5 +1,11 @@
-~~Title:kālasūtra~~
-{{description>named Kālasūtra.}}
+---json
+{
+    "name":"kālasūtra",
+    "h1":"kālasūtra",
+    "title":"kālasūtra -- synonyms, prabhupada.io",
+    "description":"named Kālasūtra."
+}
+---
 
 ==== kālasūtra-saṁjñake  ====
   * named Kālasūtra --- [[books:sb:5:26:14|SB 5.26.14]]

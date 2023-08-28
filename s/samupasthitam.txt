@@ -1,5 +1,11 @@
-~~Title:samupasthitam~~
-{{description>all present; arrived; present before.}}
+---json
+{
+    "name":"samupasthitam",
+    "h1":"samupasthitam",
+    "title":"samupasthitam -- synonyms, prabhupada.io",
+    "description":"all present; arrived; present before."
+}
+---
 
 ==== samupasthitam  ====
   * all present --- [[books:bg:1:28|Bg. 1.28]]

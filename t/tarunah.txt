@@ -1,5 +1,11 @@
-~~Title:taruṇaḥ~~
-{{description>very young.}}
+---json
+{
+    "name":"taruṇaḥ",
+    "h1":"taruṇaḥ",
+    "title":"taruṇaḥ -- synonyms, prabhupada.io",
+    "description":"very young."
+}
+---
 
 ==== taruṇaḥ  ====
   * very young --- [[books:sb:8:8:32|SB 8.8.32]]

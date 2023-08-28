@@ -1,5 +1,11 @@
-~~Title:vidhavā~~
-{{description>without a protector.}}
+---json
+{
+    "name":"vidhavā",
+    "h1":"vidhavā",
+    "title":"vidhavā -- synonyms, prabhupada.io",
+    "description":"without a protector."
+}
+---
 
 ==== vidhavā  ====
   * without a protector --- [[books:sb:9:10:28|SB 9.10.28]]

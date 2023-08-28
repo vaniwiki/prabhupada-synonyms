@@ -1,5 +1,11 @@
-~~Title:ilavilā~~
-{{description>named Ilavilā.}}
+---json
+{
+    "name":"ilavilā",
+    "h1":"ilavilā",
+    "title":"ilavilā -- synonyms, prabhupada.io",
+    "description":"named Ilavilā."
+}
+---
 
 ==== ilavilā  ====
   * named Ilavilā --- [[books:sb:9:2:31|SB 9.2.31]]

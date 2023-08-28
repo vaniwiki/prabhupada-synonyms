@@ -1,5 +1,11 @@
-~~Title:śirasau~~
-{{description>their heads having been cut off.}}
+---json
+{
+    "name":"śirasau",
+    "h1":"śirasau",
+    "title":"śirasau -- synonyms, prabhupada.io",
+    "description":"their heads having been cut off."
+}
+---
 
 ==== kṛtta-śirasau  ====
   * their heads having been cut off --- [[books:sb:8:10:57|SB 8.10.57]]

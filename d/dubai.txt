@@ -1,5 +1,11 @@
-~~Title:ḍubāi~~
-{{description>drowning.}}
+---json
+{
+    "name":"ḍubāi",
+    "h1":"ḍubāi",
+    "title":"ḍubāi -- synonyms, prabhupada.io",
+    "description":"drowning."
+}
+---
 
 ==== ḍubāi  ====
   * drowning --- [[books:cc:antya:15:19|Antya 15.19]]

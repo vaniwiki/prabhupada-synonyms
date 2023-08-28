@@ -1,5 +1,11 @@
-~~Title:samakṣataḥ~~
-{{description>in the presence.}}
+---json
+{
+    "name":"samakṣataḥ",
+    "h1":"samakṣataḥ",
+    "title":"samakṣataḥ -- synonyms, prabhupada.io",
+    "description":"in the presence."
+}
+---
 
 ==== samakṣataḥ  ====
   * in the presence --- [[books:sb:4:3:15|SB 4.3.15]]

@@ -1,5 +1,11 @@
-~~Title:mahāromā~~
-{{description>a son named Mahāromā.}}
+---json
+{
+    "name":"mahāromā",
+    "h1":"mahāromā",
+    "title":"mahāromā -- synonyms, prabhupada.io",
+    "description":"a son named Mahāromā."
+}
+---
 
 ==== mahāromā  ====
   * a son named Mahāromā --- [[books:sb:9:13:17|SB 9.13.17]]

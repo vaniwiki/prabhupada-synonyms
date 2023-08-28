@@ -1,5 +1,11 @@
-~~Title:asraya~~
-{{description>abode; object; of the shelter; shelter; take shelter; taking shelter; the abode; the refuge; the shelter; the ultimate shelter; whose shelter.}}
+---json
+{
+    "name":"asraya",
+    "h1":"asraya",
+    "title":"asraya -- synonyms, prabhupada.io",
+    "description":"abode; object; of the shelter; shelter; take shelter; taking shelter; the abode; the refuge; the shelter; the ultimate shelter; whose shelter."
+}
+---
 
 ==== āśraya  ====
   * abode --- [[books:cc:adi:4:132|Ādi 4.132]]

@@ -1,5 +1,11 @@
-~~Title:maṇḍalāni~~
-{{description>orbits.}}
+---json
+{
+    "name":"maṇḍalāni",
+    "h1":"maṇḍalāni",
+    "title":"maṇḍalāni -- synonyms, prabhupada.io",
+    "description":"orbits."
+}
+---
 
 ==== maṇḍalāni  ====
   * orbits --- [[books:sb:5:23:3|SB 5.23.3]]

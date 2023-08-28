@@ -1,5 +1,11 @@
-~~Title:panihati~~
-{{description>the place named Pānihāṭi.}}
+---json
+{
+    "name":"panihati",
+    "h1":"panihati",
+    "title":"panihati -- synonyms, prabhupada.io",
+    "description":"the place named Pānihāṭi."
+}
+---
 
 ==== pānihāṭi  ====
   * the place named Pānihāṭi --- [[books:cc:madhya:16:202|Madhya 16.202]]

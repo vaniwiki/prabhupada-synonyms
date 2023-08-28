@@ -1,5 +1,11 @@
-~~Title:sūcakam~~
-{{description>awakening; indicating.}}
+---json
+{
+    "name":"sūcakam",
+    "h1":"sūcakam",
+    "title":"sūcakam -- synonyms, prabhupada.io",
+    "description":"awakening; indicating."
+}
+---
 
 ==== sūcakam  ====
   * awakening --- [[books:sb:4:23:38|SB 4.23.38]]

@@ -1,5 +1,11 @@
-~~Title:likhe~~
-{{description>writes.}}
+---json
+{
+    "name":"likhe",
+    "h1":"likhe",
+    "title":"likhe -- synonyms, prabhupada.io",
+    "description":"writes."
+}
+---
 
 ==== likhe  ====
   * writes --- [[books:cc:madhya:13:165|Madhya 13.165]], [[books:cc:madhya:19:122|Madhya 19.122]]

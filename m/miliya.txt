@@ -1,5 +1,11 @@
-~~Title:miliyā~~
-{{description>after meeting; meeting; mixing.}}
+---json
+{
+    "name":"miliyā",
+    "h1":"miliyā",
+    "title":"miliyā -- synonyms, prabhupada.io",
+    "description":"after meeting; meeting; mixing."
+}
+---
 
 ==== miliyā  ====
   * after meeting --- [[books:cc:madhya:16:172|Madhya 16.172]], [[books:cc:antya:2:8|Antya 2.8]]

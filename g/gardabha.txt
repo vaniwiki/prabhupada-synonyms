@@ -1,5 +1,11 @@
-~~Title:gardabha~~
-{{description>and asses.}}
+---json
+{
+    "name":"gardabha",
+    "h1":"gardabha",
+    "title":"gardabha -- synonyms, prabhupada.io",
+    "description":"and asses."
+}
+---
 
 ==== gardabha  ====
   * and asses --- [[books:sb:5:26:24|SB 5.26.24]]

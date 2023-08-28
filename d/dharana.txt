@@ -1,5 +1,11 @@
-~~Title:dharana~~
-{{description>sustaining.}}
+---json
+{
+    "name":"dharana",
+    "h1":"dharana",
+    "title":"dharana -- synonyms, prabhupada.io",
+    "description":"sustaining."
+}
+---
 
 ==== dharaṇa  ====
   * sustaining --- [[books:cc:antya:20:61|Antya 20.61]]

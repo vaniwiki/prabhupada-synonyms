@@ -1,5 +1,11 @@
-~~Title:atiśayam~~
-{{description>excelling in fruitive activities.}}
+---json
+{
+    "name":"atiśayam",
+    "h1":"atiśayam",
+    "title":"atiśayam -- synonyms, prabhupada.io",
+    "description":"excelling in fruitive activities."
+}
+---
 
 ==== karma-atiśayam  ====
   * excelling in fruitive activities --- [[books:sb:4:19:2|SB 4.19.2]]

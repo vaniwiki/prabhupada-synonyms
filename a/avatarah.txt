@@ -1,5 +1,11 @@
-~~Title:avatarah~~
-{{description>incarnation; incarnations; this incarnation; whose incarnation.}}
+---json
+{
+    "name":"avatarah",
+    "h1":"avatarah",
+    "title":"avatarah -- synonyms, prabhupada.io",
+    "description":"incarnation; incarnations; this incarnation; whose incarnation."
+}
+---
 
 ==== avatāraḥ  ====
   * incarnation --- [[books:sb:1:1:13|SB 1.1.13]], [[books:sb:1:7:25|SB 1.7.25]], [[books:sb:2:6:42|SB 2.6.42]], [[books:sb:3:5:16|SB 3.5.16]], [[books:sb:3:6:8|SB 3.6.8]], [[books:cc:adi:1:12|Ādi 1.12]], [[books:cc:adi:6:4|Ādi 6.4]]

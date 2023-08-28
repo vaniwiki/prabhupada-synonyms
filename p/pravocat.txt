@@ -1,5 +1,11 @@
-~~Title:prāvocat~~
-{{description>he addressed.}}
+---json
+{
+    "name":"prāvocat",
+    "h1":"prāvocat",
+    "title":"prāvocat -- synonyms, prabhupada.io",
+    "description":"he addressed."
+}
+---
 
 ==== prāvocat  ====
   * he addressed --- [[books:sb:3:23:22|SB 3.23.22]]

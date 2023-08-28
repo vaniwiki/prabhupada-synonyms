@@ -1,5 +1,11 @@
-~~Title:ślāghya~~
-{{description>glorious.}}
+---json
+{
+    "name":"ślāghya",
+    "h1":"ślāghya",
+    "title":"ślāghya -- synonyms, prabhupada.io",
+    "description":"glorious."
+}
+---
 
 ==== ślāghya  ====
   * glorious --- [[books:cc:madhya:7:125|Madhya 7.125]]

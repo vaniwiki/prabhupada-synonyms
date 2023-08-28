@@ -1,5 +1,11 @@
-~~Title:yantra~~
-{{description>machine.}}
+---json
+{
+    "name":"yantra",
+    "h1":"yantra",
+    "title":"yantra -- synonyms, prabhupada.io",
+    "description":"machine."
+}
+---
 
 ==== yantra  ====
   * machine --- [[books:bg:18:61|Bg. 18.61]]

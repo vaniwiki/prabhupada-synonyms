@@ -1,5 +1,11 @@
-~~Title:kalevara~~
-{{description>body; expansion of the body; Her whole body; His body; the bodies; transcendental body.}}
+---json
+{
+    "name":"kalevara",
+    "h1":"kalevara",
+    "title":"kalevara -- synonyms, prabhupada.io",
+    "description":"body; expansion of the body; Her whole body; His body; the bodies; transcendental body."
+}
+---
 
 ==== kalevara  ====
   * body --- [[books:cc:adi:7:10|Ādi 7.10]], [[books:cc:adi:7:115|Ādi 7.115]], [[books:cc:madhya:11:156|Madhya 11.156]], [[books:cc:antya:11:27|Antya 11.27]], [[books:cc:antya:14:45|Antya 14.45]]

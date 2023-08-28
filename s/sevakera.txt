@@ -1,5 +1,11 @@
-~~Title:sevakera~~
-{{description>of the servants; of the servitor.}}
+---json
+{
+    "name":"sevakera",
+    "h1":"sevakera",
+    "title":"sevakera -- synonyms, prabhupada.io",
+    "description":"of the servants; of the servitor."
+}
+---
 
 ==== sevakera  ====
   * of the servants --- [[books:cc:madhya:4:165|Madhya 4.165]]

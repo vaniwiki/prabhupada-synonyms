@@ -1,5 +1,11 @@
-~~Title:abhikrama~~
-{{description>endeavoring.}}
+---json
+{
+    "name":"abhikrama",
+    "h1":"abhikrama",
+    "title":"abhikrama -- synonyms, prabhupada.io",
+    "description":"endeavoring."
+}
+---
 
 ==== abhikrama  ====
   * endeavoring --- [[books:bg:2:40|Bg. 2.40]]

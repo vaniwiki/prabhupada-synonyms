@@ -1,5 +1,11 @@
-~~Title:spṛśat~~
-{{description>touching the sky.}}
+---json
+{
+    "name":"spṛśat",
+    "h1":"spṛśat",
+    "title":"spṛśat -- synonyms, prabhupada.io",
+    "description":"touching the sky."
+}
+---
 
 ==== divi-spṛśat  ====
   * touching the sky --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

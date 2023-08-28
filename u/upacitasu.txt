@@ -1,5 +1,11 @@
-~~Title:upacitāsu~~
-{{description>to powers developed by yoga.}}
+---json
+{
+    "name":"upacitāsu",
+    "h1":"upacitāsu",
+    "title":"upacitāsu -- synonyms, prabhupada.io",
+    "description":"to powers developed by yoga."
+}
+---
 
 ==== yoga-upacitāsu  ====
   * to powers developed by //yoga// --- [[books:sb:3:27:30|SB 3.27.30]]

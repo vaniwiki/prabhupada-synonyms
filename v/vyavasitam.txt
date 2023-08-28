@@ -1,5 +1,11 @@
-~~Title:vyavasitam~~
-{{description>contemplation; determination; it was decided; the fixed decision; vow.}}
+---json
+{
+    "name":"vyavasitam",
+    "h1":"vyavasitam",
+    "title":"vyavasitam -- synonyms, prabhupada.io",
+    "description":"contemplation; determination; it was decided; the fixed decision; vow."
+}
+---
 
 ==== vyavasitam  ====
   * contemplation --- [[books:sb:4:12:33|SB 4.12.33]]

@@ -1,5 +1,11 @@
-~~Title:dhyāyet~~
-{{description>he should contemplate; he should meditate on; he should meditate upon; he should visualize; one should meditate; one should meditate on; one should meditate upon; should be concentrated upon; should meditate.}}
+---json
+{
+    "name":"dhyāyet",
+    "h1":"dhyāyet",
+    "title":"dhyāyet -- synonyms, prabhupada.io",
+    "description":"he should contemplate; he should meditate on; he should meditate upon; he should visualize; one should meditate; one should meditate on; one should meditate upon; should be concentrated upon; should meditate."
+}
+---
 
 ==== dhyāyet  ====
   * he should contemplate --- [[books:sb:3:28:31|SB 3.28.31]]

@@ -1,5 +1,11 @@
-~~Title:gena~~
-{{description>which flew according to his desire.}}
+---json
+{
+    "name":"gena",
+    "h1":"gena",
+    "title":"gena -- synonyms, prabhupada.io",
+    "description":"which flew according to his desire."
+}
+---
 
 ==== kāma-gena  ====
   * which flew according to his desire --- [[books:sb:3:23:41|SB 3.23.41]]

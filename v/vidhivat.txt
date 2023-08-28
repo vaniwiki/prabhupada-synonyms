@@ -1,5 +1,11 @@
-~~Title:vidhivat~~
-{{description>according to regulations.}}
+---json
+{
+    "name":"vidhivat",
+    "h1":"vidhivat",
+    "title":"vidhivat -- synonyms, prabhupada.io",
+    "description":"according to regulations."
+}
+---
 
 ==== vidhivat  ====
   * according to regulations --- [[books:sb:2:1:16|SB 2.1.16]]

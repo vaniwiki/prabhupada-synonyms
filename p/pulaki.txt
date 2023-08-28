@@ -1,5 +1,11 @@
-~~Title:pulakī~~
-{{description>shivering.}}
+---json
+{
+    "name":"pulakī",
+    "h1":"pulakī",
+    "title":"pulakī -- synonyms, prabhupada.io",
+    "description":"shivering."
+}
+---
 
 ==== pulakī-kṛta  ====
   * shivering --- [[books:sb:3:15:25|SB 3.15.25]]

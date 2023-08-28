@@ -1,5 +1,11 @@
-~~Title:vivikṣuḥ~~
-{{description>entered; wanted to enter.}}
+---json
+{
+    "name":"vivikṣuḥ",
+    "h1":"vivikṣuḥ",
+    "title":"vivikṣuḥ -- synonyms, prabhupada.io",
+    "description":"entered; wanted to enter."
+}
+---
 
 ==== vivikṣuḥ  ====
   * entered --- [[books:sb:4:21:47|SB 4.21.47]]

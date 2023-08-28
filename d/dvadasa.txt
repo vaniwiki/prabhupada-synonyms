@@ -1,5 +1,11 @@
-~~Title:dvādaśa~~
-{{description>twelve (bangles); twelve; twelve months.}}
+---json
+{
+    "name":"dvādaśa",
+    "h1":"dvādaśa",
+    "title":"dvādaśa -- synonyms, prabhupada.io",
+    "description":"twelve (bangles); twelve; twelve months."
+}
+---
 
 ==== dvādaśa  ====
   * twelve (bangles) --- [[books:cc:antya:14:45|Antya 14.45]]

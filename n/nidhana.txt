@@ -1,5 +1,11 @@
-~~Title:nidhāna~~
-{{description>the mine.}}
+---json
+{
+    "name":"nidhāna",
+    "h1":"nidhāna",
+    "title":"nidhāna -- synonyms, prabhupada.io",
+    "description":"the mine."
+}
+---
 
 ==== nidhāna  ====
   * the mine --- [[books:cc:antya:7:23|Antya 7.23]]

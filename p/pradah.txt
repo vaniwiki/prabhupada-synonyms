@@ -1,5 +1,11 @@
-~~Title:pradaḥ~~
-{{description>who will give.}}
+---json
+{
+    "name":"pradaḥ",
+    "h1":"pradaḥ",
+    "title":"pradaḥ -- synonyms, prabhupada.io",
+    "description":"who will give."
+}
+---
 
 ==== pradaḥ  ====
   * who will give --- [[books:sb:6:14:29|SB 6.14.29]]

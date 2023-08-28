@@ -1,5 +1,11 @@
-~~Title:rucakena~~
-{{description>with auspicious substances.}}
+---json
+{
+    "name":"rucakena",
+    "h1":"rucakena",
+    "title":"rucakena -- synonyms, prabhupada.io",
+    "description":"with auspicious substances."
+}
+---
 
 ==== rucakena  ====
   * with auspicious substances --- [[books:sb:3:23:32|SB 3.23.32]]

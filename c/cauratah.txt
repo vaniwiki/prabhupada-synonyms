@@ -1,5 +1,11 @@
-~~Title:caurataḥ~~
-{{description>from thieves and rogues.}}
+---json
+{
+    "name":"caurataḥ",
+    "h1":"caurataḥ",
+    "title":"caurataḥ -- synonyms, prabhupada.io",
+    "description":"from thieves and rogues."
+}
+---
 
 ==== caurataḥ  ====
   * from thieves and rogues --- [[books:sb:7:13:33|SB 7.13.33]]

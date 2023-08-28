@@ -1,5 +1,11 @@
-~~Title:nagare~~
-{{description>from town; in the city; to the town; to town.}}
+---json
+{
+    "name":"nagare",
+    "h1":"nagare",
+    "title":"nagare -- synonyms, prabhupada.io",
+    "description":"from town; in the city; to the town; to town."
+}
+---
 
 ==== nagare  ====
   * from town --- [[books:cc:adi:17:133|Ādi 17.133]]

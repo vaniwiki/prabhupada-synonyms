@@ -1,5 +1,11 @@
-~~Title:apahaḥ~~
-{{description>diminished; which takes away.}}
+---json
+{
+    "name":"apahaḥ",
+    "h1":"apahaḥ",
+    "title":"apahaḥ -- synonyms, prabhupada.io",
+    "description":"diminished; which takes away."
+}
+---
 
 ==== apahaḥ  ====
   * diminished --- [[books:sb:3:17:28|SB 3.17.28]]

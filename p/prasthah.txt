@@ -1,5 +1,11 @@
-~~Title:prasthaḥ~~
-{{description>Maṅgala-prastha.}}
+---json
+{
+    "name":"prasthaḥ",
+    "h1":"prasthaḥ",
+    "title":"prasthaḥ -- synonyms, prabhupada.io",
+    "description":"Maṅgala-prastha."
+}
+---
 
 ==== maṅgala-prasthaḥ  ====
   * Maṅgala-prastha --- [[books:sb:5:19:16|SB 5.19.16]]

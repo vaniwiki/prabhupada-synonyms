@@ -1,5 +1,11 @@
-~~Title:nāṭe~~
-{{description>in the manipulation of different energies.}}
+---json
+{
+    "name":"nāṭe",
+    "h1":"nāṭe",
+    "title":"nāṭe -- synonyms, prabhupada.io",
+    "description":"in the manipulation of different energies."
+}
+---
 
 ==== māyā-nāṭe  ====
   * in the manipulation of different energies --- [[books:cc:madhya:8:199|Madhya 8.199]]

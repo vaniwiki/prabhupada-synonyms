@@ -1,5 +1,11 @@
-~~Title:mokṣyase~~
-{{description>be liberated; be released; free; you will be liberated.}}
+---json
+{
+    "name":"mokṣyase",
+    "h1":"mokṣyase",
+    "title":"mokṣyase -- synonyms, prabhupada.io",
+    "description":"be liberated; be released; free; you will be liberated."
+}
+---
 
 ==== mokṣyase  ====
   * be liberated --- [[books:bg:4:16|Bg. 4.16]]

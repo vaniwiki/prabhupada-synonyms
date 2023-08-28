@@ -1,5 +1,11 @@
-~~Title:dhārayām~~
-{{description>chanted.}}
+---json
+{
+    "name":"dhārayām",
+    "h1":"dhārayām",
+    "title":"dhārayām -- synonyms, prabhupada.io",
+    "description":"chanted."
+}
+---
 
 ==== dhārayām āsa  ====
   * chanted --- [[books:sb:6:16:27|SB 6.16.27]]

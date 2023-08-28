@@ -1,5 +1,11 @@
-~~Title:nirmathane~~
-{{description>in the churning.}}
+---json
+{
+    "name":"nirmathane",
+    "h1":"nirmathane",
+    "title":"nirmathane -- synonyms, prabhupada.io",
+    "description":"in the churning."
+}
+---
 
 ==== nirmathane  ====
   * in the churning --- [[books:sb:8:12:45|SB 8.12.45]]

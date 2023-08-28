@@ -1,5 +1,11 @@
-~~Title:jīvanti~~
-{{description>do live; live; live like animals.}}
+---json
+{
+    "name":"jīvanti",
+    "h1":"jīvanti",
+    "title":"jīvanti -- synonyms, prabhupada.io",
+    "description":"do live; live; live like animals."
+}
+---
 
 ==== jīvanti  ====
   * do live --- [[books:sb:1:4:12|SB 1.4.12]]

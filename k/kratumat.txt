@@ -1,5 +1,11 @@
-~~Title:kratumat~~
-{{description>Kratumān.}}
+---json
+{
+    "name":"kratumat",
+    "h1":"kratumat",
+    "title":"kratumat -- synonyms, prabhupada.io",
+    "description":"Kratumān."
+}
+---
 
 ==== kratumat  ====
   * Kratumān --- [[books:sb:9:16:36|SB 9.16.36]]

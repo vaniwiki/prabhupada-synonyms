@@ -1,5 +1,11 @@
-~~Title:ātmikā~~
-{{description>only one fourth.}}
+---json
+{
+    "name":"ātmikā",
+    "h1":"ātmikā",
+    "title":"ātmikā -- synonyms, prabhupada.io",
+    "description":"only one fourth."
+}
+---
 
 ==== pāda-ātmikā  ====
   * only one fourth --- [[books:cc:madhya:21:56|Madhya 21.56]]

@@ -1,5 +1,11 @@
-~~Title:sanandana~~
-{{description>Sanandana and the others.}}
+---json
+{
+    "name":"sanandana",
+    "h1":"sanandana",
+    "title":"sanandana -- synonyms, prabhupada.io",
+    "description":"Sanandana and the others."
+}
+---
 
 ==== sanandana-ādayaḥ  ====
   * Sanandana and the others --- [[books:sb:7:1:36|SB 7.1.36]]

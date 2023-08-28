@@ -1,5 +1,11 @@
-~~Title:nikare~~
-{{description>among the gopīs.}}
+---json
+{
+    "name":"nikare",
+    "h1":"nikare",
+    "title":"nikare -- synonyms, prabhupada.io",
+    "description":"among the gopīs."
+}
+---
 
 ==== gopikā-nikare  ====
   * among the //gopīs// --- [[books:cc:madhya:23:57|Madhya 23.57]]

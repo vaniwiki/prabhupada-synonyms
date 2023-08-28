@@ -1,5 +1,11 @@
-~~Title:śik~~
-{{description>lunch bags.}}
+---json
+{
+    "name":"śik",
+    "h1":"śik",
+    "title":"śik -- synonyms, prabhupada.io",
+    "description":"lunch bags."
+}
+---
 
 ==== śik  ====
   * lunch bags --- [[books:sb:10:12:2|SB 10.12.2]]

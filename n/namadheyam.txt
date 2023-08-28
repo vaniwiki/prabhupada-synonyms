@@ -1,5 +1,11 @@
-~~Title:nāmadheyam~~
-{{description>holy name; of the name; the name.}}
+---json
+{
+    "name":"nāmadheyam",
+    "h1":"nāmadheyam",
+    "title":"nāmadheyam -- synonyms, prabhupada.io",
+    "description":"holy name; of the name; the name."
+}
+---
 
 ==== nāmadheyam  ====
   * holy name --- [[books:sb:4:10:30|SB 4.10.30]], [[books:sb:5:1:35|SB 5.1.35]]

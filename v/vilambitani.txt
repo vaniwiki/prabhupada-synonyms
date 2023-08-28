@@ -1,5 +1,11 @@
-~~Title:vilambitāni~~
-{{description>that which entails.}}
+---json
+{
+    "name":"vilambitāni",
+    "h1":"vilambitāni",
+    "title":"vilambitāni -- synonyms, prabhupada.io",
+    "description":"that which entails."
+}
+---
 
 ==== vilambitāni  ====
   * that which entails --- [[books:sb:1:16:23|SB 1.16.23]]

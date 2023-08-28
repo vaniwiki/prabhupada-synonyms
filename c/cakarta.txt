@@ -1,5 +1,11 @@
-~~Title:cakarta~~
-{{description>he cut.}}
+---json
+{
+    "name":"cakarta",
+    "h1":"cakarta",
+    "title":"cakarta -- synonyms, prabhupada.io",
+    "description":"he cut."
+}
+---
 
 ==== cakarta  ====
   * he cut --- [[books:sb:6:18:62|SB 6.18.62]]

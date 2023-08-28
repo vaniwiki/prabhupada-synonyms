@@ -1,5 +1,11 @@
-~~Title:lagaila~~
-{{description>made it so; offered; was offered; were offered.}}
+---json
+{
+    "name":"lagaila",
+    "h1":"lagaila",
+    "title":"lagaila -- synonyms, prabhupada.io",
+    "description":"made it so; offered; was offered; were offered."
+}
+---
 
 ==== lāgāila  ====
   * made it so --- [[books:cc:adi:17:82|Ādi 17.82]]

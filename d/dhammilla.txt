@@ -1,5 +1,11 @@
-~~Title:dhammilla~~
-{{description>of the bunches of hair.}}
+---json
+{
+    "name":"dhammilla",
+    "h1":"dhammilla",
+    "title":"dhammilla -- synonyms, prabhupada.io",
+    "description":"of the bunches of hair."
+}
+---
 
 ==== dhammilla  ====
   * of the bunches of hair --- [[books:cc:madhya:8:172|Madhya 8.172]]

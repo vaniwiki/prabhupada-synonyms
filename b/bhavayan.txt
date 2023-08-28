@@ -1,5 +1,11 @@
-~~Title:bhāvayan~~
-{{description>regarding.}}
+---json
+{
+    "name":"bhāvayan",
+    "h1":"bhāvayan",
+    "title":"bhāvayan -- synonyms, prabhupada.io",
+    "description":"regarding."
+}
+---
 
 ==== bhāvayan  ====
   * regarding --- [[books:sb:3:23:47|SB 3.23.47]]

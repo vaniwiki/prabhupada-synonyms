@@ -1,5 +1,11 @@
-~~Title:bodhāya~~
-{{description>for satisfaction; for the awakening.}}
+---json
+{
+    "name":"bodhāya",
+    "h1":"bodhāya",
+    "title":"bodhāya -- synonyms, prabhupada.io",
+    "description":"for satisfaction; for the awakening."
+}
+---
 
 ==== bodhāya  ====
   * for satisfaction --- [[books:sb:1:8:50|SB 1.8.50]]

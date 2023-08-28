@@ -1,5 +1,11 @@
-~~Title:vimala~~
-{{description>pure.}}
+---json
+{
+    "name":"vimala",
+    "h1":"vimala",
+    "title":"vimala -- synonyms, prabhupada.io",
+    "description":"pure."
+}
+---
 
 ==== vimala  ====
   * pure --- [[books:cc:antya:1:161|Antya 1.161]]

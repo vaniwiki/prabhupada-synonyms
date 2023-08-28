@@ -1,5 +1,11 @@
-~~Title:duḥsaṅga~~
-{{description>bad, unwanted association; unwanted association.}}
+---json
+{
+    "name":"duḥsaṅga",
+    "h1":"duḥsaṅga",
+    "title":"duḥsaṅga -- synonyms, prabhupada.io",
+    "description":"bad, unwanted association; unwanted association."
+}
+---
 
 ==== duḥsaṅga  ====
   * bad, unwanted association --- [[books:cc:madhya:24:99|Madhya 24.99]]

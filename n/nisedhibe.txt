@@ -1,5 +1,11 @@
-~~Title:niṣedhibe~~
-{{description>will object.}}
+---json
+{
+    "name":"niṣedhibe",
+    "h1":"niṣedhibe",
+    "title":"niṣedhibe -- synonyms, prabhupada.io",
+    "description":"will object."
+}
+---
 
 ==== niṣedhibe  ====
   * will object --- [[books:cc:madhya:5:29|Madhya 5.29]]

@@ -1,5 +1,11 @@
-~~Title:adhayah~~
-{{description>anxieties; disturbances of the mind; mental troubles; miseries pertaining to the mind; the pains of the mind.}}
+---json
+{
+    "name":"adhayah",
+    "h1":"adhayah",
+    "title":"adhayah -- synonyms, prabhupada.io",
+    "description":"anxieties; disturbances of the mind; mental troubles; miseries pertaining to the mind; the pains of the mind."
+}
+---
 
 ==== ādhayaḥ  ====
   * anxieties --- [[books:sb:1:10:6|SB 1.10.6]]

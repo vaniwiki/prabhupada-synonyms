@@ -1,5 +1,11 @@
-~~Title:pascimah~~
-{{description>the back.}}
+---json
+{
+    "name":"pascimah",
+    "h1":"pascimah",
+    "title":"pascimah -- synonyms, prabhupada.io",
+    "description":"the back."
+}
+---
 
 ==== paścimaḥ  ====
   * the back --- [[books:sb:2:6:10|SB 2.6.10]]

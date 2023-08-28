@@ -1,5 +1,11 @@
-~~Title:sahana~~
-{{description>enduring; to tolerate; tolerable; tolerating; toleration.}}
+---json
+{
+    "name":"sahana",
+    "h1":"sahana",
+    "title":"sahana -- synonyms, prabhupada.io",
+    "description":"enduring; to tolerate; tolerable; tolerating; toleration."
+}
+---
 
 ==== sahana  ====
   * enduring --- [[books:cc:madhya:7:48|Madhya 7.48]]

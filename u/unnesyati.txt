@@ -1,5 +1,11 @@
-~~Title:unneṣyati~~
-{{description>would deliver.}}
+---json
+{
+    "name":"unneṣyati",
+    "h1":"unneṣyati",
+    "title":"unneṣyati -- synonyms, prabhupada.io",
+    "description":"would deliver."
+}
+---
 
 ==== unneṣyati  ====
   * would deliver --- [[books:sb:2:7:29|SB 2.7.29]]

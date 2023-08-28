@@ -1,5 +1,11 @@
-~~Title:kariyācha~~
-{{description>have done; have executed; you have composed; You have done; You have made.}}
+---json
+{
+    "name":"kariyācha",
+    "h1":"kariyācha",
+    "title":"kariyācha -- synonyms, prabhupada.io",
+    "description":"have done; have executed; you have composed; You have done; You have made."
+}
+---
 
 ==== kariyācha  ====
   * have done --- [[books:cc:madhya:12:90|Madhya 12.90]], [[books:cc:antya:4:76|Antya 4.76]]

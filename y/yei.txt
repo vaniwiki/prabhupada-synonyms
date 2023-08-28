@@ -1,5 +1,11 @@
-~~Title:yei~~
-{{description>any; anyone; anyone who; as; He who; one; one who; that; that one who; that person who; that which; the subject matter; those; those persons who; those who; what; what is; whatever; wherever; which; whichever; who; whoever.}}
+---json
+{
+    "name":"yei",
+    "h1":"yei",
+    "title":"yei -- synonyms, prabhupada.io",
+    "description":"any; anyone; anyone who; as; He who; one; one who; that; that one who; that person who; that which; the subject matter; those; those persons who; those who; what; what is; whatever; wherever; which; whichever; who; whoever."
+}
+---
 
 ==== yei  ====
   * any --- [[books:cc:adi:17:190|Ādi 17.190]]

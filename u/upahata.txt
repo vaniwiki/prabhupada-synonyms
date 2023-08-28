@@ -1,5 +1,11 @@
-~~Title:upahata~~
-{{description>being inflicted by; has been lost; overpowered.}}
+---json
+{
+    "name":"upahata",
+    "h1":"upahata",
+    "title":"upahata -- synonyms, prabhupada.io",
+    "description":"being inflicted by; has been lost; overpowered."
+}
+---
 
 ==== upahata  ====
   * being inflicted by --- [[books:bg:2:7|Bg. 2.7]]

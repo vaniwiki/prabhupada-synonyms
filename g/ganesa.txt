@@ -1,5 +1,11 @@
-~~Title:gaṇeśa~~
-{{description>the demigod Gaṇeśa (son of Lord Śiva).}}
+---json
+{
+    "name":"gaṇeśa",
+    "h1":"gaṇeśa",
+    "title":"gaṇeśa -- synonyms, prabhupada.io",
+    "description":"the demigod Gaṇeśa (son of Lord Śiva)."
+}
+---
 
 ==== gaṇeśa  ====
   * the demigod Gaṇeśa (son of Lord Śiva) --- [[books:cc:antya:18:14|Antya 18.14]]

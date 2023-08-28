@@ -1,5 +1,11 @@
-~~Title:svasmin~~
-{{description>by His own self; personal.}}
+---json
+{
+    "name":"svasmin",
+    "h1":"svasmin",
+    "title":"svasmin -- synonyms, prabhupada.io",
+    "description":"by His own self; personal."
+}
+---
 
 ==== svasmin  ====
   * by His own self --- [[books:sb:3:6:5|SB 3.6.5]]

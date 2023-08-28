@@ -1,5 +1,11 @@
-~~Title:upahāra~~
-{{description>by presentations; gifts; offerings; offerings of food; other paraphernalia; presentation; presentations.}}
+---json
+{
+    "name":"upahāra",
+    "h1":"upahāra",
+    "title":"upahāra -- synonyms, prabhupada.io",
+    "description":"by presentations; gifts; offerings; offerings of food; other paraphernalia; presentation; presentations."
+}
+---
 
 ==== upahāra  ====
   * by presentations --- [[books:sb:10:2:10|SB 10.2.10]]

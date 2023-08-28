@@ -1,5 +1,11 @@
-~~Title:vāmana~~
-{{description>a dwarf; Lord Vāmana; the avatāra named Vāmana; the dwarf incarnation; Vāmana.}}
+---json
+{
+    "name":"vāmana",
+    "h1":"vāmana",
+    "title":"vāmana -- synonyms, prabhupada.io",
+    "description":"a dwarf; Lord Vāmana; the avatāra named Vāmana; the dwarf incarnation; Vāmana."
+}
+---
 
 ==== vāmana  ====
   * a dwarf --- [[books:cc:madhya:1:205|Madhya 1.205]], [[books:cc:madhya:5:52|Madhya 5.52]], [[books:cc:antya:18:19|Antya 18.19]]

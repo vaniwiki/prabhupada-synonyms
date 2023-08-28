@@ -1,5 +1,11 @@
-~~Title:pravāsīre~~
-{{description>to some outsider.}}
+---json
+{
+    "name":"pravāsīre",
+    "h1":"pravāsīre",
+    "title":"pravāsīre -- synonyms, prabhupada.io",
+    "description":"to some outsider."
+}
+---
 
 ==== kona pravāsīre  ====
   * to some outsider --- [[books:cc:antya:13:61|Antya 13.61]]

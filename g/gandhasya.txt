@@ -1,5 +1,11 @@
-~~Title:gandhasya~~
-{{description>aroma; of aroma.}}
+---json
+{
+    "name":"gandhasya",
+    "h1":"gandhasya",
+    "title":"gandhasya -- synonyms, prabhupada.io",
+    "description":"aroma; of aroma."
+}
+---
 
 ==== gandhasya  ====
   * aroma --- [[books:sb:3:6:14|SB 3.6.14]]

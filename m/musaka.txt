@@ -1,5 +1,11 @@
-~~Title:mūṣaka~~
-{{description>by rats and so on.}}
+---json
+{
+    "name":"mūṣaka",
+    "h1":"mūṣaka",
+    "title":"mūṣaka -- synonyms, prabhupada.io",
+    "description":"by rats and so on."
+}
+---
 
 ==== mūṣaka-ādibhiḥ  ====
   * by rats and so on --- [[books:sb:5:14:5|SB 5.14.5]]

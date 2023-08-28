@@ -1,5 +1,11 @@
-~~Title:yatamānaḥ~~
-{{description>one who endeavors.}}
+---json
+{
+    "name":"yatamānaḥ",
+    "h1":"yatamānaḥ",
+    "title":"yatamānaḥ -- synonyms, prabhupada.io",
+    "description":"one who endeavors."
+}
+---
 
 ==== yatamānaḥ  ====
   * one who endeavors --- [[books:bg:6:45|Bg. 6.45]]

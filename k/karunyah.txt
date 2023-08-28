@@ -1,5 +1,11 @@
-~~Title:kāruṇyaḥ~~
-{{description>devoid of all mercy.}}
+---json
+{
+    "name":"kāruṇyaḥ",
+    "h1":"kāruṇyaḥ",
+    "title":"kāruṇyaḥ -- synonyms, prabhupada.io",
+    "description":"devoid of all mercy."
+}
+---
 
 ==== tyakta-kāruṇyaḥ  ====
   * devoid of all mercy --- [[books:sb:10:4:16|SB 10.4.16]]

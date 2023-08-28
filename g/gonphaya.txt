@@ -1,5 +1,11 @@
-~~Title:goṅphāya~~
-{{description>in the cave.}}
+---json
+{
+    "name":"goṅphāya",
+    "h1":"goṅphāya",
+    "title":"goṅphāya -- synonyms, prabhupada.io",
+    "description":"in the cave."
+}
+---
 
 ==== goṅphāya  ====
   * in the cave --- [[books:cc:antya:3:225|Antya 3.225]]

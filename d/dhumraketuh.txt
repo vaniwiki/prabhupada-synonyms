@@ -1,5 +1,11 @@
-~~Title:dhūmraketuḥ~~
-{{description>named Dhūmraketu.}}
+---json
+{
+    "name":"dhūmraketuḥ",
+    "h1":"dhūmraketuḥ",
+    "title":"dhūmraketuḥ -- synonyms, prabhupada.io",
+    "description":"named Dhūmraketu."
+}
+---
 
 ==== dhūmraketuḥ  ====
   * named Dhūmraketu --- [[books:sb:9:2:33|SB 9.2.33]]

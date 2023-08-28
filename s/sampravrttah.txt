@@ -1,5 +1,11 @@
-~~Title:sampravṛttaḥ~~
-{{description>was begun.}}
+---json
+{
+    "name":"sampravṛttaḥ",
+    "h1":"sampravṛttaḥ",
+    "title":"sampravṛttaḥ -- synonyms, prabhupada.io",
+    "description":"was begun."
+}
+---
 
 ==== sampravṛttaḥ  ====
   * was begun --- [[books:cc:adi:1:72|Ādi 1.72]]

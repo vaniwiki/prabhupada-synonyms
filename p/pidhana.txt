@@ -1,5 +1,11 @@
-~~Title:pidhāna~~
-{{description>the covering of other desires.}}
+---json
+{
+    "name":"pidhāna",
+    "h1":"pidhāna",
+    "title":"pidhāna -- synonyms, prabhupada.io",
+    "description":"the covering of other desires."
+}
+---
 
 ==== icchāra pidhāna  ====
   * the covering of other desires --- [[books:cc:madhya:24:102|Madhya 24.102]]

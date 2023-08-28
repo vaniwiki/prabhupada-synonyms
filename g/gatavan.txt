@@ -1,5 +1,11 @@
-~~Title:gatavān~~
-{{description>achieved; had undergone; visited.}}
+---json
+{
+    "name":"gatavān",
+    "h1":"gatavān",
+    "title":"gatavān -- synonyms, prabhupada.io",
+    "description":"achieved; had undergone; visited."
+}
+---
 
 ==== gatavān  ====
   * achieved --- [[books:sb:1:12:2|SB 1.12.2]]

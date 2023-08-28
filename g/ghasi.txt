@@ -1,5 +1,11 @@
-~~Title:ghaṣi'~~
-{{description>grinding.}}
+---json
+{
+    "name":"ghaṣi'",
+    "h1":"ghaṣi'",
+    "title":"ghaṣi' -- synonyms, prabhupada.io",
+    "description":"grinding."
+}
+---
 
 ==== ghaṣi'  ====
   * grinding --- [[books:cc:madhya:4:159|Madhya 4.159]]

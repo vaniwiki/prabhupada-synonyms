@@ -1,5 +1,11 @@
-~~Title:gopa~~
-{{description>cowherd; cowherd boy; cowherd boys; of other cowherd men; the cowherd boys; the milkman.}}
+---json
+{
+    "name":"gopa",
+    "h1":"gopa",
+    "title":"gopa -- synonyms, prabhupada.io",
+    "description":"cowherd; cowherd boy; cowherd boys; of other cowherd men; the cowherd boys; the milkman."
+}
+---
 
 ==== gopa  ====
   * cowherd --- [[books:cc:madhya:9:112|Madhya 9.112]]

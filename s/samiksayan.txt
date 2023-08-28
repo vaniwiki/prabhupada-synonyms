@@ -1,5 +1,11 @@
-~~Title:samīkṣayan~~
-{{description>showing.}}
+---json
+{
+    "name":"samīkṣayan",
+    "h1":"samīkṣayan",
+    "title":"samīkṣayan -- synonyms, prabhupada.io",
+    "description":"showing."
+}
+---
 
 ==== samīkṣayan  ====
   * showing --- [[books:cc:madhya:20:180|Madhya 20.180]]

@@ -1,5 +1,11 @@
-~~Title:kaṭhina~~
-{{description>hard; very hard.}}
+---json
+{
+    "name":"kaṭhina",
+    "h1":"kaṭhina",
+    "title":"kaṭhina -- synonyms, prabhupada.io",
+    "description":"hard; very hard."
+}
+---
 
 ==== kaṭhina  ====
   * hard --- [[books:cc:madhya:7:72|Madhya 7.72]]

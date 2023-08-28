@@ -1,5 +1,11 @@
-~~Title:samprasīdatu~~
-{{description>may He bestow His causeless mercy.}}
+---json
+{
+    "name":"samprasīdatu",
+    "h1":"samprasīdatu",
+    "title":"samprasīdatu -- synonyms, prabhupada.io",
+    "description":"may He bestow His causeless mercy."
+}
+---
 
 ==== samprasīdatu  ====
   * may He bestow His causeless mercy --- [[books:cc:madhya:1:1|Madhya 1.1]]

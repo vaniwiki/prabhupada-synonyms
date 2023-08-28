@@ -1,5 +1,11 @@
-~~Title:dhātavaḥ~~
-{{description>elements; ingredients; ingredients of the body such as skin and flesh; layers of the body; skin and six other layers; the five elements.}}
+---json
+{
+    "name":"dhātavaḥ",
+    "h1":"dhātavaḥ",
+    "title":"dhātavaḥ -- synonyms, prabhupada.io",
+    "description":"elements; ingredients; ingredients of the body such as skin and flesh; layers of the body; skin and six other layers; the five elements."
+}
+---
 
 ==== dhātavaḥ  ====
   * elements --- [[books:sb:2:10:31|SB 2.10.31]]

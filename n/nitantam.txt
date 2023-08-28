@@ -1,5 +1,11 @@
-~~Title:nitāntam~~
-{{description>all descriptions.}}
+---json
+{
+    "name":"nitāntam",
+    "h1":"nitāntam",
+    "title":"nitāntam -- synonyms, prabhupada.io",
+    "description":"all descriptions."
+}
+---
 
 ==== nitāntam  ====
   * all descriptions --- [[books:sb:4:8:15|SB 4.8.15]]

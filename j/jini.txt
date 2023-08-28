@@ -1,5 +1,11 @@
-~~Title:jini~~
-{{description>conquering; overcoming; shall conquer; surpassing.}}
+---json
+{
+    "name":"jini",
+    "h1":"jini",
+    "title":"jini -- synonyms, prabhupada.io",
+    "description":"conquering; overcoming; shall conquer; surpassing."
+}
+---
 
 ==== jini  ====
   * conquering --- [[books:cc:adi:3:41|Ādi 3.41]], [[books:cc:adi:3:44|Ādi 3.44]]

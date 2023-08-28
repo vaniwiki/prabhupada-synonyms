@@ -1,5 +1,11 @@
-~~Title:puṣṇāsi~~
-{{description>maintaining.}}
+---json
+{
+    "name":"puṣṇāsi",
+    "h1":"puṣṇāsi",
+    "title":"puṣṇāsi -- synonyms, prabhupada.io",
+    "description":"maintaining."
+}
+---
 
 ==== puṣṇāsi  ====
   * maintaining --- [[books:sb:3:1:13|SB 3.1.13]]

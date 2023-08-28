@@ -1,5 +1,11 @@
-~~Title:pralambhanam~~
-{{description>cheating.}}
+---json
+{
+    "name":"pralambhanam",
+    "h1":"pralambhanam",
+    "title":"pralambhanam -- synonyms, prabhupada.io",
+    "description":"cheating."
+}
+---
 
 ==== pralambhanam  ====
   * cheating --- [[books:sb:8:22:2|SB 8.22.2]]

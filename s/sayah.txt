@@ -1,5 +1,11 @@
-~~Title:sayah~~
-{{description>lying.}}
+---json
+{
+    "name":"sayah",
+    "h1":"sayah",
+    "title":"sayah -- synonyms, prabhupada.io",
+    "description":"lying."
+}
+---
 
 ==== śayaḥ  ====
   * lying --- [[books:cc:antya:17:51|Antya 17.51]]

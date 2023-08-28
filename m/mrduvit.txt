@@ -1,5 +1,11 @@
-~~Title:mṛduvit~~
-{{description>Mṛduvit.}}
+---json
+{
+    "name":"mṛduvit",
+    "h1":"mṛduvit",
+    "title":"mṛduvit -- synonyms, prabhupada.io",
+    "description":"Mṛduvit."
+}
+---
 
 ==== mṛduvit  ====
   * Mṛduvit --- [[books:sb:9:24:16-18|SB 9.24.16-18]]

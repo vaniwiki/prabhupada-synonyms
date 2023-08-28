@@ -1,5 +1,11 @@
-~~Title:samanvitā~~
-{{description>full of.}}
+---json
+{
+    "name":"samanvitā",
+    "h1":"samanvitā",
+    "title":"samanvitā -- synonyms, prabhupada.io",
+    "description":"full of."
+}
+---
 
 ==== samanvitā  ====
   * full of --- [[books:sb:3:22:29-30|SB 3.22.29-30]]

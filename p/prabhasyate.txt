@@ -1,5 +1,11 @@
-~~Title:prabhāṣyate~~
-{{description>they are so told.}}
+---json
+{
+    "name":"prabhāṣyate",
+    "h1":"prabhāṣyate",
+    "title":"prabhāṣyate -- synonyms, prabhupada.io",
+    "description":"they are so told."
+}
+---
 
 ==== prabhāṣyate  ====
   * they are so told --- [[books:sb:3:11:14|SB 3.11.14]]

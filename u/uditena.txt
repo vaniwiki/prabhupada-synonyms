@@ -1,5 +1,11 @@
-~~Title:uditena~~
-{{description>described; instructed.}}
+---json
+{
+    "name":"uditena",
+    "h1":"uditena",
+    "title":"uditena -- synonyms, prabhupada.io",
+    "description":"described; instructed."
+}
+---
 
 ==== uditena  ====
   * described --- [[books:sb:6:13:21|SB 6.13.21]]

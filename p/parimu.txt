@@ -1,5 +1,11 @@
-~~Title:pārimu~~
-{{description>I shall not be able to tolerate.}}
+---json
+{
+    "name":"pārimu",
+    "h1":"pārimu",
+    "title":"pārimu -- synonyms, prabhupada.io",
+    "description":"I shall not be able to tolerate."
+}
+---
 
 ==== sahite nā pārimu  ====
   * I shall not be able to tolerate --- [[books:cc:madhya:17:183|Madhya 17.183]]

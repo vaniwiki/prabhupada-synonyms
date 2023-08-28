@@ -1,5 +1,11 @@
-~~Title:yuvām~~
-{{description>both of you (husband and wife); both of you (Pṛśni and Sutapā); both of you; you two.}}
+---json
+{
+    "name":"yuvām",
+    "h1":"yuvām",
+    "title":"yuvām -- synonyms, prabhupada.io",
+    "description":"both of you (husband and wife); both of you (Pṛśni and Sutapā); both of you; you two."
+}
+---
 
 ==== yuvām  ====
   * both of you (husband and wife) --- [[books:sb:10:3:40|SB 10.3.40]], [[books:sb:10:3:45|SB 10.3.45]]

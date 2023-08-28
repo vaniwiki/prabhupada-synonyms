@@ -1,5 +1,11 @@
-~~Title:dvandveṣu~~
-{{description>in duality.}}
+---json
+{
+    "name":"dvandveṣu",
+    "h1":"dvandveṣu",
+    "title":"dvandveṣu -- synonyms, prabhupada.io",
+    "description":"in duality."
+}
+---
 
 ==== dvandveṣu  ====
   * in duality --- [[books:sb:1:18:50|SB 1.18.50]]

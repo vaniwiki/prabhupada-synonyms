@@ -1,5 +1,11 @@
-~~Title:ātanuta~~
-{{description>extended.}}
+---json
+{
+    "name":"ātanuta",
+    "h1":"ātanuta",
+    "title":"ātanuta -- synonyms, prabhupada.io",
+    "description":"extended."
+}
+---
 
 ==== ātanuta  ====
   * extended --- [[books:sb:5:24:22|SB 5.24.22]]

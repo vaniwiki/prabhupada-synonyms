@@ -1,5 +1,11 @@
-~~Title:cākhāite~~
-{{description>to give a taste.}}
+---json
+{
+    "name":"cākhāite",
+    "h1":"cākhāite",
+    "title":"cākhāite -- synonyms, prabhupada.io",
+    "description":"to give a taste."
+}
+---
 
 ==== cākhāite  ====
   * to give a taste --- [[books:cc:madhya:19:137|Madhya 19.137]]

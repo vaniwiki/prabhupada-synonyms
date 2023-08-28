@@ -1,5 +1,11 @@
-~~Title:akāyam~~
-{{description>unembodied.}}
+---json
+{
+    "name":"akāyam",
+    "h1":"akāyam",
+    "title":"akāyam -- synonyms, prabhupada.io",
+    "description":"unembodied."
+}
+---
 
 ==== akāyam  ====
   * unembodied --- [[books:iso:8|Īśo 8]]

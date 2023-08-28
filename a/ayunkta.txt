@@ -1,5 +1,11 @@
-~~Title:ayuṅkta~~
-{{description>He gave.}}
+---json
+{
+    "name":"ayuṅkta",
+    "h1":"ayuṅkta",
+    "title":"ayuṅkta -- synonyms, prabhupada.io",
+    "description":"He gave."
+}
+---
 
 ==== ayuṅkta  ====
   * He gave --- [[books:sb:5:1:15|SB 5.1.15]]

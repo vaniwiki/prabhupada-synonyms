@@ -1,5 +1,11 @@
-~~Title:palāśera~~
-{{description>the leaves of palāśa.}}
+---json
+{
+    "name":"palāśera",
+    "h1":"palāśera",
+    "title":"palāśera -- synonyms, prabhupada.io",
+    "description":"the leaves of palāśa."
+}
+---
 
 ==== palāśera pāta  ====
   * the leaves of //palāśa// --- [[books:cc:madhya:4:72|Madhya 4.72]]

@@ -1,5 +1,11 @@
-~~Title:matayaḥ~~
-{{description>ambition; thesis; whose minds; worshiping the demigods.}}
+---json
+{
+    "name":"matayaḥ",
+    "h1":"matayaḥ",
+    "title":"matayaḥ -- synonyms, prabhupada.io",
+    "description":"ambition; thesis; whose minds; worshiping the demigods."
+}
+---
 
 ==== matayaḥ  ====
   * ambition --- [[books:sb:8:9:28|SB 8.9.28]]

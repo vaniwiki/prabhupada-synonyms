@@ -1,5 +1,11 @@
-~~Title:dekhileo~~
-{{description>in spite of experiencing.}}
+---json
+{
+    "name":"dekhileo",
+    "h1":"dekhileo",
+    "title":"dekhileo -- synonyms, prabhupada.io",
+    "description":"in spite of experiencing."
+}
+---
 
 ==== dekhileo  ====
   * in spite of experiencing --- [[books:cc:madhya:19:203|Madhya 19.203]]

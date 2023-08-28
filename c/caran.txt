@@ -1,5 +1,11 @@
-~~Title:caran~~
-{{description>acting; behaving; by practice of self-realization and understanding of the Absolute Truth; moving; traveling; walking; wandering; wandering in that way; while passing; while walking; while wandering (toward the lake).}}
+---json
+{
+    "name":"caran",
+    "h1":"caran",
+    "title":"caran -- synonyms, prabhupada.io",
+    "description":"acting; behaving; by practice of self-realization and understanding of the Absolute Truth; moving; traveling; walking; wandering; wandering in that way; while passing; while walking; while wandering (toward the lake)."
+}
+---
 
 ==== caran  ====
   * acting --- [[books:bg:2:64|Bg. 2.64]]

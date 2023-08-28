@@ -1,5 +1,11 @@
-~~Title:vidīrṇa~~
-{{description>mind becomes disturbed.}}
+---json
+{
+    "name":"vidīrṇa",
+    "h1":"vidīrṇa",
+    "title":"vidīrṇa -- synonyms, prabhupada.io",
+    "description":"mind becomes disturbed."
+}
+---
 
 ==== vidīrṇa haya mana  ====
   * mind becomes disturbed --- [[books:cc:madhya:11:157|Madhya 11.157]]

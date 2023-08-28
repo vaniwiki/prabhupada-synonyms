@@ -1,5 +1,11 @@
-~~Title:bhajāma~~
-{{description>we allot.}}
+---json
+{
+    "name":"bhajāma",
+    "h1":"bhajāma",
+    "title":"bhajāma -- synonyms, prabhupada.io",
+    "description":"we allot."
+}
+---
 
 ==== bhajāma  ====
   * we allot --- [[books:sb:9:4:2|SB 9.4.2]]

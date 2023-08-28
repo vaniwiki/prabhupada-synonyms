@@ -1,5 +1,11 @@
-~~Title:pramodate~~
-{{description>he enjoys.}}
+---json
+{
+    "name":"pramodate",
+    "h1":"pramodate",
+    "title":"pramodate -- synonyms, prabhupada.io",
+    "description":"he enjoys."
+}
+---
 
 ==== pramodate  ====
   * he enjoys --- [[books:sb:5:13:7|SB 5.13.7]]

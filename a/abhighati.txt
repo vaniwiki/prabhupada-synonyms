@@ -1,5 +1,11 @@
-~~Title:abhighāti~~
-{{description>destroying.}}
+---json
+{
+    "name":"abhighāti",
+    "h1":"abhighāti",
+    "title":"abhighāti -- synonyms, prabhupada.io",
+    "description":"destroying."
+}
+---
 
 ==== abhighāti  ====
   * destroying --- [[books:sb:3:16:22|SB 3.16.22]]

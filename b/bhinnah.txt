@@ -1,5 +1,11 @@
-~~Title:bhinnah~~
-{{description>separate.}}
+---json
+{
+    "name":"bhinnah",
+    "h1":"bhinnah",
+    "title":"bhinnah -- synonyms, prabhupada.io",
+    "description":"separate."
+}
+---
 
 ==== bhinnaḥ  ====
   * separate --- [[books:sb:7:2:43|SB 7.2.43]]

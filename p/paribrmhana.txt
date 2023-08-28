@@ -1,5 +1,11 @@
-~~Title:paribṛṁhaṇa~~
-{{description>the welfare.}}
+---json
+{
+    "name":"paribṛṁhaṇa",
+    "h1":"paribṛṁhaṇa",
+    "title":"paribṛṁhaṇa -- synonyms, prabhupada.io",
+    "description":"the welfare."
+}
+---
 
 ==== paribṛṁhaṇa  ====
   * the welfare --- [[books:sb:5:1:7|SB 5.1.7]]

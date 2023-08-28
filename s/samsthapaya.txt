@@ -1,5 +1,11 @@
-~~Title:saṁsthāpaya~~
-{{description>raise this earth.}}
+---json
+{
+    "name":"saṁsthāpaya",
+    "h1":"saṁsthāpaya",
+    "title":"saṁsthāpaya -- synonyms, prabhupada.io",
+    "description":"raise this earth."
+}
+---
 
 ==== saṁsthāpaya enām  ====
   * raise this earth --- [[books:sb:3:13:42|SB 3.13.42]]

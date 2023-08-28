@@ -1,5 +1,11 @@
-~~Title:vihitam~~
-{{description>destined; directed; ordained; taught.}}
+---json
+{
+    "name":"vihitam",
+    "h1":"vihitam",
+    "title":"vihitam -- synonyms, prabhupada.io",
+    "description":"destined; directed; ordained; taught."
+}
+---
 
 ==== vihitam  ====
   * destined --- [[books:sb:4:8:33|SB 4.8.33]]

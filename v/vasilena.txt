@@ -1,5 +1,11 @@
-~~Title:vasilena~~
-{{description>sat down.}}
+---json
+{
+    "name":"vasilena",
+    "h1":"vasilena",
+    "title":"vasilena -- synonyms, prabhupada.io",
+    "description":"sat down."
+}
+---
 
 ==== vasilena  ====
   * sat down --- [[books:cc:antya:17:22|Antya 17.22]]

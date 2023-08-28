@@ -1,5 +1,11 @@
-~~Title:nistriṁśaiḥ~~
-{{description>and swords.}}
+---json
+{
+    "name":"nistriṁśaiḥ",
+    "h1":"nistriṁśaiḥ",
+    "title":"nistriṁśaiḥ -- synonyms, prabhupada.io",
+    "description":"and swords."
+}
+---
 
 ==== nistriṁśaiḥ  ====
   * and swords --- [[books:sb:4:10:11-12|SB 4.10.11-12]]

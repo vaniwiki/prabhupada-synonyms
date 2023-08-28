@@ -1,5 +1,11 @@
-~~Title:apatyam~~
-{{description>a child; a son; child; issue; offspring; son; the children.}}
+---json
+{
+    "name":"apatyam",
+    "h1":"apatyam",
+    "title":"apatyam -- synonyms, prabhupada.io",
+    "description":"a child; a son; child; issue; offspring; son; the children."
+}
+---
 
 ==== apatyam  ====
   * a child --- [[books:sb:7:5:37|SB 7.5.37]]

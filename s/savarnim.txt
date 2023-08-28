@@ -1,5 +1,11 @@
-~~Title:sāvarṇim~~
-{{description>Sāvarṇi.}}
+---json
+{
+    "name":"sāvarṇim",
+    "h1":"sāvarṇim",
+    "title":"sāvarṇim -- synonyms, prabhupada.io",
+    "description":"Sāvarṇi."
+}
+---
 
 ==== sāvarṇim  ====
   * Sāvarṇi --- [[books:sb:6:6:41|SB 6.6.41]]

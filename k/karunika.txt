@@ -1,5 +1,11 @@
-~~Title:kāruṇika~~
-{{description>the supremely merciful.}}
+---json
+{
+    "name":"kāruṇika",
+    "h1":"kāruṇika",
+    "title":"kāruṇika -- synonyms, prabhupada.io",
+    "description":"the supremely merciful."
+}
+---
 
 ==== parama-kāruṇika  ====
   * the supremely merciful --- [[books:sb:6:9:33|SB 6.9.33]]

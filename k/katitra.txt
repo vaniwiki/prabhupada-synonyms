@@ -1,5 +1,11 @@
-~~Title:kaṭitra~~
-{{description>belt.}}
+---json
+{
+    "name":"kaṭitra",
+    "h1":"kaṭitra",
+    "title":"kaṭitra -- synonyms, prabhupada.io",
+    "description":"belt."
+}
+---
 
 ==== kaṭitra  ====
   * belt --- [[books:sb:6:16:30|SB 6.16.30]]

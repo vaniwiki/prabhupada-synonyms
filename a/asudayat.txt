@@ -1,5 +1,11 @@
-~~Title:asūdayat~~
-{{description>killed.}}
+---json
+{
+    "name":"asūdayat",
+    "h1":"asūdayat",
+    "title":"asūdayat -- synonyms, prabhupada.io",
+    "description":"killed."
+}
+---
 
 ==== asūdayat  ====
   * killed --- [[books:sb:9:15:30|SB 9.15.30]]

@@ -1,5 +1,11 @@
-~~Title:jīveta~~
-{{description>may live; one may live; self-preservation.}}
+---json
+{
+    "name":"jīveta",
+    "h1":"jīveta",
+    "title":"jīveta -- synonyms, prabhupada.io",
+    "description":"may live; one may live; self-preservation."
+}
+---
 
 ==== jīveta  ====
   * may live --- [[books:cc:madhya:6:261|Madhya 6.261]], [[books:cc:antya:9:77|Antya 9.77]]

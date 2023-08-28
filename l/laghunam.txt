@@ -1,5 +1,11 @@
-~~Title:laghūnām~~
-{{description>light.}}
+---json
+{
+    "name":"laghūnām",
+    "h1":"laghūnām",
+    "title":"laghūnām -- synonyms, prabhupada.io",
+    "description":"light."
+}
+---
 
 ==== laghūnām  ====
   * light --- [[books:sb:6:2:16|SB 6.2.16]]

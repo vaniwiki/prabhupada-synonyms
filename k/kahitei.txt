@@ -1,5 +1,11 @@
-~~Title:kahitei~~
-{{description>while speaking.}}
+---json
+{
+    "name":"kahitei",
+    "h1":"kahitei",
+    "title":"kahitei -- synonyms, prabhupada.io",
+    "description":"while speaking."
+}
+---
 
 ==== kahitei  ====
   * while speaking --- [[books:cc:antya:17:56|Antya 17.56]]

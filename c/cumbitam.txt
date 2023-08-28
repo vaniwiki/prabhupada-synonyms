@@ -1,5 +1,11 @@
-~~Title:cumbitam~~
-{{description>touched.}}
+---json
+{
+    "name":"cumbitam",
+    "h1":"cumbitam",
+    "title":"cumbitam -- synonyms, prabhupada.io",
+    "description":"touched."
+}
+---
 
 ==== cumbitam  ====
   * touched --- [[books:cc:antya:16:117|Antya 16.117]]

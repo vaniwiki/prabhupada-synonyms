@@ -1,5 +1,11 @@
-~~Title:tārābhiḥ~~
-{{description>by stars.}}
+---json
+{
+    "name":"tārābhiḥ",
+    "h1":"tārābhiḥ",
+    "title":"tārābhiḥ -- synonyms, prabhupada.io",
+    "description":"by stars."
+}
+---
 
 ==== tārābhiḥ  ====
   * by stars --- [[books:sb:3:23:38|SB 3.23.38]]

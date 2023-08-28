@@ -1,5 +1,11 @@
-~~Title:yūyam~~
-{{description>all of you (Pāṇḍavas); all of you (the Pāṇḍavas); all of you; all of you demigods; all of you good souls; all of you Pāṇḍavas; all you citizens; all you respectable persons who are present here; all you sons; but all of you; of all you; you (the Pāṇḍavas); you; you all; yourself.}}
+---json
+{
+    "name":"yūyam",
+    "h1":"yūyam",
+    "title":"yūyam -- synonyms, prabhupada.io",
+    "description":"all of you (Pāṇḍavas); all of you (the Pāṇḍavas); all of you; all of you demigods; all of you good souls; all of you Pāṇḍavas; all you citizens; all you respectable persons who are present here; all you sons; but all of you; of all you; you (the Pāṇḍavas); you; you all; yourself."
+}
+---
 
 ==== yūyam  ====
   * all of you (Pāṇḍavas) --- [[books:sb:7:15:68|SB 7.15.68]]

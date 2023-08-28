@@ -1,5 +1,11 @@
-~~Title:śravasā~~
-{{description>by your glory.}}
+---json
+{
+    "name":"śravasā",
+    "h1":"śravasā",
+    "title":"śravasā -- synonyms, prabhupada.io",
+    "description":"by your glory."
+}
+---
 
 ==== tvat-śravasā  ====
   * by your glory --- [[books:sb:4:19:28|SB 4.19.28]]

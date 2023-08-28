@@ -1,5 +1,11 @@
-~~Title:garagara~~
-{{description>disturbed; faltering; filled.}}
+---json
+{
+    "name":"garagara",
+    "h1":"garagara",
+    "title":"garagara -- synonyms, prabhupada.io",
+    "description":"disturbed; faltering; filled."
+}
+---
 
 ==== garagara  ====
   * disturbed --- [[books:cc:madhya:17:223|Madhya 17.223]]

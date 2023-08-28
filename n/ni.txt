@@ -1,5 +1,11 @@
-~~Title:ni~~
-{{description>uncooked food like milk products and fruits.}}
+---json
+{
+    "name":"ni",
+    "h1":"ni",
+    "title":"ni -- synonyms, prabhupada.io",
+    "description":"uncooked food like milk products and fruits."
+}
+---
 
 ==== ni-sakaḍi  ====
   * uncooked food like milk products and fruits --- [[books:cc:madhya:14:25|Madhya 14.25]]

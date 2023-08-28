@@ -1,5 +1,11 @@
-~~Title:adhruvasya~~
-{{description>temporary.}}
+---json
+{
+    "name":"adhruvasya",
+    "h1":"adhruvasya",
+    "title":"adhruvasya -- synonyms, prabhupada.io",
+    "description":"temporary."
+}
+---
 
 ==== adhruvasya  ====
   * temporary --- [[books:sb:3:30:3|SB 3.30.3]]

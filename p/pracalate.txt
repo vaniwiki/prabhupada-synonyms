@@ -1,5 +1,11 @@
-~~Title:pracalate~~
-{{description>it moves.}}
+---json
+{
+    "name":"pracalate",
+    "h1":"pracalate",
+    "title":"pracalate -- synonyms, prabhupada.io",
+    "description":"it moves."
+}
+---
 
 ==== pracalate  ====
   * it moves --- [[books:sb:5:21:10|SB 5.21.10]]

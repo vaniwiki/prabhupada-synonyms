@@ -1,5 +1,11 @@
-~~Title:sphītān~~
-{{description>very flourishing.}}
+---json
+{
+    "name":"sphītān",
+    "h1":"sphītān",
+    "title":"sphītān -- synonyms, prabhupada.io",
+    "description":"very flourishing."
+}
+---
 
 ==== sphītān  ====
   * very flourishing --- [[books:sb:1:6:11|SB 1.6.11]]

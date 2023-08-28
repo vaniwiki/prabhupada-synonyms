@@ -1,5 +1,11 @@
-~~Title:edhasā~~
-{{description>fuel.}}
+---json
+{
+    "name":"edhasā",
+    "h1":"edhasā",
+    "title":"edhasā -- synonyms, prabhupada.io",
+    "description":"fuel."
+}
+---
 
 ==== edhasā  ====
   * fuel --- [[books:sb:4:1:21|SB 4.1.21]]

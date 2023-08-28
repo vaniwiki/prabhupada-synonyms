@@ -1,5 +1,11 @@
-~~Title:khele~~
-{{description>He plays; plays; sports.}}
+---json
+{
+    "name":"khele",
+    "h1":"khele",
+    "title":"khele -- synonyms, prabhupada.io",
+    "description":"He plays; plays; sports."
+}
+---
 
 ==== khele  ====
   * He plays --- [[books:cc:adi:5:25|Ādi 5.25]], [[books:cc:madhya:14:121|Madhya 14.121]]

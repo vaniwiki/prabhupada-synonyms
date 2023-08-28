@@ -1,5 +1,11 @@
-~~Title:durmadān~~
-{{description>puffed up by strength.}}
+---json
+{
+    "name":"durmadān",
+    "h1":"durmadān",
+    "title":"durmadān -- synonyms, prabhupada.io",
+    "description":"puffed up by strength."
+}
+---
 
 ==== durmadān  ====
   * puffed up by strength --- [[books:sb:8:17:13|SB 8.17.13]]

@@ -1,5 +1,11 @@
-~~Title:yajvanām~~
-{{description>of those who have performed many sacrifices.}}
+---json
+{
+    "name":"yajvanām",
+    "h1":"yajvanām",
+    "title":"yajvanām -- synonyms, prabhupada.io",
+    "description":"of those who have performed many sacrifices."
+}
+---
 
 ==== yajvanām  ====
   * of those who have performed many sacrifices --- [[books:sb:1:12:20|SB 1.12.20]]

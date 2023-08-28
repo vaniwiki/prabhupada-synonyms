@@ -1,5 +1,11 @@
-~~Title:tatakṣaṇa~~
-{{description>immediately.}}
+---json
+{
+    "name":"tatakṣaṇa",
+    "h1":"tatakṣaṇa",
+    "title":"tatakṣaṇa -- synonyms, prabhupada.io",
+    "description":"immediately."
+}
+---
 
 ==== tatakṣaṇa  ====
   * immediately --- [[books:cc:adi:8:38|Ādi 8.38]]

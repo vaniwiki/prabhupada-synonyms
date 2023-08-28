@@ -1,5 +1,11 @@
-~~Title:tinajana~~
-{{description>three men; three persons.}}
+---json
+{
+    "name":"tinajana",
+    "h1":"tinajana",
+    "title":"tinajana -- synonyms, prabhupada.io",
+    "description":"three men; three persons."
+}
+---
 
 ==== tinajana  ====
   * three men --- [[books:cc:adi:10:117|Ādi 10.117]]

@@ -1,5 +1,11 @@
-~~Title:parivāritaḥ~~
-{{description>surrounded.}}
+---json
+{
+    "name":"parivāritaḥ",
+    "h1":"parivāritaḥ",
+    "title":"parivāritaḥ -- synonyms, prabhupada.io",
+    "description":"surrounded."
+}
+---
 
 ==== parivāritaḥ  ====
   * surrounded --- [[books:sb:5:20:40|SB 5.20.40]], [[books:sb:8:22:33|SB 8.22.33]]

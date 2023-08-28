@@ -1,5 +1,11 @@
-~~Title:yatayata~~
-{{description>as many as there are; as much as.}}
+---json
+{
+    "name":"yatayata",
+    "h1":"yatayata",
+    "title":"yatayata -- synonyms, prabhupada.io",
+    "description":"as many as there are; as much as."
+}
+---
 
 ==== yatayata  ====
   * as many as there are --- [[books:cc:adi:10:5|Ādi 10.5]]

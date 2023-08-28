@@ -1,5 +1,11 @@
-~~Title:udumbara~~
-{{description>big udumbara trees.}}
+---json
+{
+    "name":"udumbara",
+    "h1":"udumbara",
+    "title":"udumbara -- synonyms, prabhupada.io",
+    "description":"big udumbara trees."
+}
+---
 
 ==== uḍumbara  ====
   * big //udumbara// trees --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

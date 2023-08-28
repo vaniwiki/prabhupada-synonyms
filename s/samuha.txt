@@ -1,5 +1,11 @@
-~~Title:samūha~~
-{{description>kindly withdraw.}}
+---json
+{
+    "name":"samūha",
+    "h1":"samūha",
+    "title":"samūha -- synonyms, prabhupada.io",
+    "description":"kindly withdraw."
+}
+---
 
 ==== samūha  ====
   * kindly withdraw --- [[books:iso:16|Īśo 16]]

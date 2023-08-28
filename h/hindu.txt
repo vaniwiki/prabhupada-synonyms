@@ -1,5 +1,11 @@
-~~Title:hindu~~
-{{description>Hindu; Hindus; the Hindu; the Hindus.}}
+---json
+{
+    "name":"hindu",
+    "h1":"hindu",
+    "title":"hindu -- synonyms, prabhupada.io",
+    "description":"Hindu; Hindus; the Hindu; the Hindus."
+}
+---
 
 ==== hindu  ====
   * Hindu --- [[books:cc:adi:17:159|Ādi 17.159]]

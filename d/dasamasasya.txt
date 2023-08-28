@@ -1,5 +1,11 @@
-~~Title:daśamāsasya~~
-{{description>of one who is dressed by all directions.}}
+---json
+{
+    "name":"daśamāsasya",
+    "h1":"daśamāsasya",
+    "title":"daśamāsasya -- synonyms, prabhupada.io",
+    "description":"of one who is dressed by all directions."
+}
+---
 
 ==== daśamāsasya  ====
   * of one who is dressed by all directions --- [[books:sb:1:12:11|SB 1.12.11]]

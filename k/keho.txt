@@ -1,5 +1,11 @@
-~~Title:keho~~
-{{description>somebody; someone.}}
+---json
+{
+    "name":"keho",
+    "h1":"keho",
+    "title":"keho -- synonyms, prabhupada.io",
+    "description":"somebody; someone."
+}
+---
 
 ==== keho  ====
   * somebody --- [[books:cc:adi:5:128|Ādi 5.128]]

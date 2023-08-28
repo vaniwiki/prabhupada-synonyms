@@ -1,5 +1,11 @@
-~~Title:chaṭāya~~
-{{description>by the luster; by the rays.}}
+---json
+{
+    "name":"chaṭāya",
+    "h1":"chaṭāya",
+    "title":"chaṭāya -- synonyms, prabhupada.io",
+    "description":"by the luster; by the rays."
+}
+---
 
 ==== chaṭāya  ====
   * by the luster --- [[books:cc:adi:3:59|Ādi 3.59]]

@@ -1,5 +1,11 @@
-~~Title:raśmini~~
-{{description>ropes.}}
+---json
+{
+    "name":"raśmini",
+    "h1":"raśmini",
+    "title":"raśmini -- synonyms, prabhupada.io",
+    "description":"ropes."
+}
+---
 
 ==== raśmini  ====
   * ropes --- [[books:sb:1:9:39|SB 1.9.39]]

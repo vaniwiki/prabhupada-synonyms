@@ -1,5 +1,11 @@
-~~Title:virājataḥ~~
-{{description>situated.}}
+---json
+{
+    "name":"virājataḥ",
+    "h1":"virājataḥ",
+    "title":"virājataḥ -- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== virājataḥ  ====
   * situated --- [[books:noi:9|NoI 9]]

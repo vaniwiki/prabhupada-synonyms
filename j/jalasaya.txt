@@ -1,5 +1,11 @@
-~~Title:jalāśaya~~
-{{description>near the river.}}
+---json
+{
+    "name":"jalāśaya",
+    "h1":"jalāśaya",
+    "title":"jalāśaya -- synonyms, prabhupada.io",
+    "description":"near the river."
+}
+---
 
 ==== jalāśaya-abhyāśam  ====
   * near the river --- [[books:sb:5:8:2|SB 5.8.2]]

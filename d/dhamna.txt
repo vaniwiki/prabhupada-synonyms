@@ -1,5 +1,11 @@
-~~Title:dhāmnā~~
-{{description>along with all transcendental paraphernalia; with the abode.}}
+---json
+{
+    "name":"dhāmnā",
+    "h1":"dhāmnā",
+    "title":"dhāmnā -- synonyms, prabhupada.io",
+    "description":"along with all transcendental paraphernalia; with the abode."
+}
+---
 
 ==== dhāmnā  ====
   * along with all transcendental paraphernalia --- [[books:sb:1:1:1|SB 1.1.1]]

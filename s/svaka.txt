@@ -1,5 +1,11 @@
-~~Title:svaka~~
-{{description>on all eight different lotuslike parts of the body (face, navel, eyes, palms and feet).}}
+---json
+{
+    "name":"svaka",
+    "h1":"svaka",
+    "title":"svaka -- synonyms, prabhupada.io",
+    "description":"on all eight different lotuslike parts of the body (face, navel, eyes, palms and feet)."
+}
+---
 
 ==== svaka-aṅga-nalina-aṣṭake  ====
   * on all eight different lotuslike parts of the body (face, navel, eyes, palms and feet) --- [[books:cc:antya:19:91|Antya 19.91]]

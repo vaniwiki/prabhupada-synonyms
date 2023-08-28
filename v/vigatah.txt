@@ -1,5 +1,11 @@
-~~Title:vigataḥ~~
-{{description>is educated.}}
+---json
+{
+    "name":"vigataḥ",
+    "h1":"vigataḥ",
+    "title":"vigataḥ -- synonyms, prabhupada.io",
+    "description":"is educated."
+}
+---
 
 ==== vigataḥ  ====
   * is educated --- [[books:bg:11:1|Bg. 11.1]]

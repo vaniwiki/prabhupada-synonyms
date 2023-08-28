@@ -1,5 +1,11 @@
-~~Title:yajamāna~~
-{{description>by the sacrificer; the worshipers.}}
+---json
+{
+    "name":"yajamāna",
+    "h1":"yajamāna",
+    "title":"yajamāna -- synonyms, prabhupada.io",
+    "description":"by the sacrificer; the worshipers."
+}
+---
 
 ==== yajamāna  ====
   * by the sacrificer --- [[books:sb:3:16:8|SB 3.16.8]]

@@ -1,5 +1,11 @@
-~~Title:sadāi~~
-{{description>always.}}
+---json
+{
+    "name":"sadāi",
+    "h1":"sadāi",
+    "title":"sadāi -- synonyms, prabhupada.io",
+    "description":"always."
+}
+---
 
 ==== sadāi  ====
   * always --- [[books:cc:adi:4:128|Ādi 4.128]], [[books:cc:adi:4:262|Ādi 4.262]]

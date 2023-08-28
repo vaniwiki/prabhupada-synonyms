@@ -1,5 +1,11 @@
-~~Title:siñce~~
-{{description>drenches; sprinkle; sprinkled; sprinkles.}}
+---json
+{
+    "name":"siñce",
+    "h1":"siñce",
+    "title":"siñce -- synonyms, prabhupada.io",
+    "description":"drenches; sprinkle; sprinkled; sprinkles."
+}
+---
 
 ==== siñce  ====
   * drenches --- [[books:cc:antya:15:68|Antya 15.68]]

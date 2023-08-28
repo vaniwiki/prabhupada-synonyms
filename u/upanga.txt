@@ -1,5 +1,11 @@
-~~Title:upāṅga~~
-{{description>devotees; parts; servitors.}}
+---json
+{
+    "name":"upāṅga",
+    "h1":"upāṅga",
+    "title":"upāṅga -- synonyms, prabhupada.io",
+    "description":"devotees; parts; servitors."
+}
+---
 
 ==== upāṅga  ====
   * devotees --- [[books:cc:adi:3:60|Ādi 3.60]]

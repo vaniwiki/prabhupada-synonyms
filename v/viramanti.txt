@@ -1,5 +1,11 @@
-~~Title:viramanti~~
-{{description>cease.}}
+---json
+{
+    "name":"viramanti",
+    "h1":"viramanti",
+    "title":"viramanti -- synonyms, prabhupada.io",
+    "description":"cease."
+}
+---
 
 ==== viramanti  ====
   * cease --- [[books:sb:7:9:49|SB 7.9.49]]

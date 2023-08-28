@@ -1,5 +1,11 @@
-~~Title:yāge~~
-{{description>at Prayāga; to Prayāga.}}
+---json
+{
+    "name":"yāge",
+    "h1":"yāge",
+    "title":"yāge -- synonyms, prabhupada.io",
+    "description":"at Prayāga; to Prayāga."
+}
+---
 
 ==== pra yāge  ====
   * at Prayāga --- [[books:cc:antya:1:197|Antya 1.197]]

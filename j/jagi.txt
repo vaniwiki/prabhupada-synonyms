@@ -1,5 +1,11 @@
-~~Title:jāgi'~~
-{{description>awakening; keeping awake.}}
+---json
+{
+    "name":"jāgi'",
+    "h1":"jāgi'",
+    "title":"jāgi' -- synonyms, prabhupada.io",
+    "description":"awakening; keeping awake."
+}
+---
 
 ==== jāgi'  ====
   * awakening --- [[books:cc:adi:14:10|Ādi 14.10]]

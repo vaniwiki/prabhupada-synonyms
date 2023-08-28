@@ -1,5 +1,11 @@
-~~Title:avajnaya~~
-{{description>by neglectful behavior; indifferently; neglectfully.}}
+---json
+{
+    "name":"avajnaya",
+    "h1":"avajnaya",
+    "title":"avajnaya -- synonyms, prabhupada.io",
+    "description":"by neglectful behavior; indifferently; neglectfully."
+}
+---
 
 ==== avajñayā  ====
   * by neglectful behavior --- [[books:sb:3:22:13|SB 3.22.13]]

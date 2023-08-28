@@ -1,5 +1,11 @@
-~~Title:duskrtam~~
-{{description>who has committed sinful acts.}}
+---json
+{
+    "name":"duskrtam",
+    "h1":"duskrtam",
+    "title":"duskrtam -- synonyms, prabhupada.io",
+    "description":"who has committed sinful acts."
+}
+---
 
 ==== duṣkṛtam  ====
   * who has committed sinful acts --- [[books:sb:6:2:27|SB 6.2.27]]

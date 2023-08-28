@@ -1,5 +1,11 @@
-~~Title:tarka~~
-{{description>arguments; logic; unnecessary arguments.}}
+---json
+{
+    "name":"tarka",
+    "h1":"tarka",
+    "title":"tarka -- synonyms, prabhupada.io",
+    "description":"arguments; logic; unnecessary arguments."
+}
+---
 
 ==== tarka  ====
   * arguments --- [[books:cc:madhya:8:308|Madhya 8.308]]

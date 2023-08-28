@@ -1,5 +1,11 @@
-~~Title:gauraiḥ~~
-{{description>whitish.}}
+---json
+{
+    "name":"gauraiḥ",
+    "h1":"gauraiḥ",
+    "title":"gauraiḥ -- synonyms, prabhupada.io",
+    "description":"whitish."
+}
+---
 
 ==== gauraiḥ  ====
   * whitish --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

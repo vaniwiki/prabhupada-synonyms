@@ -1,5 +1,11 @@
-~~Title:sevake~~
-{{description>from the servant; to the servant; unto the servant.}}
+---json
+{
+    "name":"sevake",
+    "h1":"sevake",
+    "title":"sevake -- synonyms, prabhupada.io",
+    "description":"from the servant; to the servant; unto the servant."
+}
+---
 
 ==== sevake  ====
   * from the servant --- [[books:cc:antya:1:21|Antya 1.21]]

@@ -1,5 +1,11 @@
-~~Title:dvivida~~
-{{description>by the asura named Dvivida.}}
+---json
+{
+    "name":"dvivida",
+    "h1":"dvivida",
+    "title":"dvivida -- synonyms, prabhupada.io",
+    "description":"by the asura named Dvivida."
+}
+---
 
 ==== dvivida  ====
   * by the //asura// named Dvivida --- [[books:sb:10:2:1-2|SB 10.2.1-2]]

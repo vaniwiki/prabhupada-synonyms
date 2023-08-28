@@ -1,5 +1,11 @@
-~~Title:kusumāt~~
-{{description>than a flower.}}
+---json
+{
+    "name":"kusumāt",
+    "h1":"kusumāt",
+    "title":"kusumāt -- synonyms, prabhupada.io",
+    "description":"than a flower."
+}
+---
 
 ==== kusumāt api  ====
   * than a flower --- [[books:cc:madhya:7:73|Madhya 7.73]]

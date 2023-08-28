@@ -1,5 +1,11 @@
-~~Title:ipsitam~~
-{{description>desirable; desire; desired; is desired; some other desired benediction; the desired result; the most desirable; what you desired.}}
+---json
+{
+    "name":"ipsitam",
+    "h1":"ipsitam",
+    "title":"ipsitam -- synonyms, prabhupada.io",
+    "description":"desirable; desire; desired; is desired; some other desired benediction; the desired result; the most desirable; what you desired."
+}
+---
 
 ==== īpsitam  ====
   * desirable --- [[books:sb:6:1:39|SB 6.1.39]], [[books:sb:9:3:12|SB 9.3.12]]

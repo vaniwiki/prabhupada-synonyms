@@ -1,5 +1,11 @@
-~~Title:udgāri~~
-{{description>spreading.}}
+---json
+{
+    "name":"udgāri",
+    "h1":"udgāri",
+    "title":"udgāri -- synonyms, prabhupada.io",
+    "description":"spreading."
+}
+---
 
 ==== udgāri  ====
   * spreading --- [[books:cc:madhya:1:84|Madhya 1.84]]

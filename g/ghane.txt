@@ -1,5 +1,11 @@
-~~Title:ghane~~
-{{description>repeatedly.}}
+---json
+{
+    "name":"ghane",
+    "h1":"ghane",
+    "title":"ghane -- synonyms, prabhupada.io",
+    "description":"repeatedly."
+}
+---
 
 ==== ghane ghana  ====
   * repeatedly --- [[books:cc:madhya:12:160|Madhya 12.160]]

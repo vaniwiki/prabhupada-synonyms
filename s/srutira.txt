@@ -1,5 +1,11 @@
-~~Title:śrutira~~
-{{description>of the persons known as the śrutis.}}
+---json
+{
+    "name":"śrutira",
+    "h1":"śrutira",
+    "title":"śrutira -- synonyms, prabhupada.io",
+    "description":"of the persons known as the śrutis."
+}
+---
 
 ==== śrutira  ====
   * of the persons known as the //śrutis// --- [[books:cc:madhya:8:225|Madhya 8.225]]

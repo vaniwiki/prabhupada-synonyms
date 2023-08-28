@@ -1,5 +1,11 @@
-~~Title:apanīyate~~
-{{description>is extracted.}}
+---json
+{
+    "name":"apanīyate",
+    "h1":"apanīyate",
+    "title":"apanīyate -- synonyms, prabhupada.io",
+    "description":"is extracted."
+}
+---
 
 ==== apanīyate  ====
   * is extracted --- [[books:sb:5:18:33|SB 5.18.33]]

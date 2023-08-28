@@ -1,5 +1,11 @@
-~~Title:anuraktam~~
-{{description>being attached to the material modes of nature.}}
+---json
+{
+    "name":"anuraktam",
+    "h1":"anuraktam",
+    "title":"anuraktam -- synonyms, prabhupada.io",
+    "description":"being attached to the material modes of nature."
+}
+---
 
 ==== guṇa-anuraktam  ====
   * being attached to the material modes of nature --- [[books:sb:5:11:8|SB 5.11.8]]

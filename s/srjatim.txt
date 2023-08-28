@@ -1,5 +1,11 @@
-~~Title:sṛjatīm~~
-{{description>creating.}}
+---json
+{
+    "name":"sṛjatīm",
+    "h1":"sṛjatīm",
+    "title":"sṛjatīm -- synonyms, prabhupada.io",
+    "description":"creating."
+}
+---
 
 ==== sṛjatīm  ====
   * creating --- [[books:sb:3:26:5|SB 3.26.5]]

@@ -1,5 +1,11 @@
-~~Title:tamase~~
-{{description>in the Tāmasa-manvantara; the reign of Tāmasa Manu.}}
+---json
+{
+    "name":"tamase",
+    "h1":"tamase",
+    "title":"tamase -- synonyms, prabhupada.io",
+    "description":"in the Tāmasa-manvantara; the reign of Tāmasa Manu."
+}
+---
 
 ==== tāmase  ====
   * in the Tāmasa-manvantara --- [[books:cc:madhya:20:325|Madhya 20.325]]

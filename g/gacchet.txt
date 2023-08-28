@@ -1,5 +1,11 @@
-~~Title:gacchet~~
-{{description>is promoted; should go.}}
+---json
+{
+    "name":"gacchet",
+    "h1":"gacchet",
+    "title":"gacchet -- synonyms, prabhupada.io",
+    "description":"is promoted; should go."
+}
+---
 
 ==== gacchet  ====
   * is promoted --- [[books:sb:7:12:17|SB 7.12.17]]

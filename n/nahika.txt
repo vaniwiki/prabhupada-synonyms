@@ -1,5 +1,11 @@
-~~Title:nāhika~~
-{{description>is not; no; not; there is no; there is none; there is not; there was no; there was none; there was not; there's not.}}
+---json
+{
+    "name":"nāhika",
+    "h1":"nāhika",
+    "title":"nāhika -- synonyms, prabhupada.io",
+    "description":"is not; no; not; there is no; there is none; there is not; there was no; there was none; there was not; there's not."
+}
+---
 
 ==== nāhika  ====
   * is not --- [[books:cc:madhya:11:189|Madhya 11.189]], [[books:cc:madhya:24:316|Madhya 24.316]], [[books:cc:antya:14:77|Antya 14.77]]

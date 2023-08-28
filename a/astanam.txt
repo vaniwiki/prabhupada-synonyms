@@ -1,5 +1,11 @@
-~~Title:aṣṭānām~~
-{{description>eight.}}
+---json
+{
+    "name":"aṣṭānām",
+    "h1":"aṣṭānām",
+    "title":"aṣṭānām -- synonyms, prabhupada.io",
+    "description":"eight."
+}
+---
 
 ==== aṣṭānām  ====
   * eight --- [[books:sb:5:16:29|SB 5.16.29]]

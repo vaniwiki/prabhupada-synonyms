@@ -1,5 +1,11 @@
-~~Title:araṇam~~
-{{description>a person who can give shelter; shelter; the actual shelter of everyone; the most secure shelter; worthy to take shelter.}}
+---json
+{
+    "name":"araṇam",
+    "h1":"araṇam",
+    "title":"araṇam -- synonyms, prabhupada.io",
+    "description":"a person who can give shelter; shelter; the actual shelter of everyone; the most secure shelter; worthy to take shelter."
+}
+---
 
 ==== araṇam  ====
   * a person who can give shelter --- [[books:sb:9:4:52|SB 9.4.52]]

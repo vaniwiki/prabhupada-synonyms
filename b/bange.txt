@@ -1,5 +1,11 @@
-~~Title:baṅge~~
-{{description>in East Bengal.}}
+---json
+{
+    "name":"baṅge",
+    "h1":"baṅge",
+    "title":"baṅge -- synonyms, prabhupada.io",
+    "description":"in East Bengal."
+}
+---
 
 ==== baṅge  ====
   * in East Bengal --- [[books:cc:adi:16:20|Ādi 16.20]]

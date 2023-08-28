@@ -1,5 +1,11 @@
-~~Title:bhedāt~~
-{{description>by different types of meditation.}}
+---json
+{
+    "name":"bhedāt",
+    "h1":"bhedāt",
+    "title":"bhedāt -- synonyms, prabhupada.io",
+    "description":"by different types of meditation."
+}
+---
 
 ==== dhyāna-bhedāt  ====
   * by different types of meditation --- [[books:cc:madhya:9:156|Madhya 9.156]]

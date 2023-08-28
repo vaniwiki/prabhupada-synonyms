@@ -1,5 +1,11 @@
-~~Title:cirāya~~
-{{description>after a long time.}}
+---json
+{
+    "name":"cirāya",
+    "h1":"cirāya",
+    "title":"cirāya -- synonyms, prabhupada.io",
+    "description":"after a long time."
+}
+---
 
 ==== cirāya  ====
   * after a long time --- [[books:cc:madhya:11:151|Madhya 11.151]]

@@ -1,5 +1,11 @@
-~~Title:vārtayā~~
-{{description>in the topics of; tidings.}}
+---json
+{
+    "name":"vārtayā",
+    "h1":"vārtayā",
+    "title":"vārtayā -- synonyms, prabhupada.io",
+    "description":"in the topics of; tidings."
+}
+---
 
 ==== vārtayā  ====
   * in the topics of --- [[books:sb:2:3:17|SB 2.3.17]]

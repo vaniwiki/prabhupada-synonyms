@@ -1,5 +1,11 @@
-~~Title:svapnam~~
-{{description>dream.}}
+---json
+{
+    "name":"svapnam",
+    "h1":"svapnam",
+    "title":"svapnam -- synonyms, prabhupada.io",
+    "description":"dream."
+}
+---
 
 ==== svapnam  ====
   * dream --- [[books:bg:18:35|Bg. 18.35]]

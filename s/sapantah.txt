@@ -1,5 +1,11 @@
-~~Title:śapantaḥ~~
-{{description>condemned.}}
+---json
+{
+    "name":"śapantaḥ",
+    "h1":"śapantaḥ",
+    "title":"śapantaḥ -- synonyms, prabhupada.io",
+    "description":"condemned."
+}
+---
 
 ==== śapantaḥ ca  ====
   * condemned --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

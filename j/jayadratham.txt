@@ -1,5 +1,11 @@
-~~Title:jayadratham~~
-{{description>also Jayadratha.}}
+---json
+{
+    "name":"jayadratham",
+    "h1":"jayadratham",
+    "title":"jayadratham -- synonyms, prabhupada.io",
+    "description":"also Jayadratha."
+}
+---
 
 ==== jayadratham ca  ====
   * also Jayadratha --- [[books:bg:11:34|Bg. 11.34]]

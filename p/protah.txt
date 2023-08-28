@@ -1,5 +1,11 @@
-~~Title:protah~~
-{{description>being bound; strung.}}
+---json
+{
+    "name":"protah",
+    "h1":"protah",
+    "title":"protah -- synonyms, prabhupada.io",
+    "description":"being bound; strung."
+}
+---
 
 ==== protāḥ  ====
   * being bound --- [[books:sb:5:1:14|SB 5.1.14]]

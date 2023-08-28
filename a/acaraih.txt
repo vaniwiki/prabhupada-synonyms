@@ -1,5 +1,11 @@
-~~Title:acaraiḥ~~
-{{description>both the moving and the nonmoving.}}
+---json
+{
+    "name":"acaraiḥ",
+    "h1":"acaraiḥ",
+    "title":"acaraiḥ -- synonyms, prabhupada.io",
+    "description":"both the moving and the nonmoving."
+}
+---
 
 ==== cara-acaraiḥ  ====
   * both the moving and the nonmoving --- [[books:sb:10:13:51|SB 10.13.51]]

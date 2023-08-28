@@ -1,5 +1,11 @@
-~~Title:kamanam~~
-{{description>the most desirable.}}
+---json
+{
+    "name":"kamanam",
+    "h1":"kamanam",
+    "title":"kamanam -- synonyms, prabhupada.io",
+    "description":"the most desirable."
+}
+---
 
 ==== kamanam  ====
   * the most desirable --- [[books:sb:1:9:33|SB 1.9.33]]

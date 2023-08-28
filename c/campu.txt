@@ -1,5 +1,11 @@
-~~Title:campū~~
-{{description>Gopāla-campū.}}
+---json
+{
+    "name":"campū",
+    "h1":"campū",
+    "title":"campū -- synonyms, prabhupada.io",
+    "description":"Gopāla-campū."
+}
+---
 
 ==== gopāla-campū  ====
   * //Gopāla-campū// --- [[books:cc:madhya:1:44|Madhya 1.44]], [[books:cc:antya:4:230|Antya 4.230]]

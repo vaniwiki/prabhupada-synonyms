@@ -1,5 +1,11 @@
-~~Title:bhāsaye~~
-{{description>appears.}}
+---json
+{
+    "name":"bhāsaye",
+    "h1":"bhāsaye",
+    "title":"bhāsaye -- synonyms, prabhupada.io",
+    "description":"appears."
+}
+---
 
 ==== bhāsaye  ====
   * appears --- [[books:cc:madhya:25:117|Madhya 25.117]]

@@ -1,5 +1,11 @@
-~~Title:protkaṇṭhaḥ~~
-{{description>with an open voice.}}
+---json
+{
+    "name":"protkaṇṭhaḥ",
+    "h1":"protkaṇṭhaḥ",
+    "title":"protkaṇṭhaḥ -- synonyms, prabhupada.io",
+    "description":"with an open voice."
+}
+---
 
 ==== protkaṇṭhaḥ  ====
   * with an open voice --- [[books:sb:7:7:34|SB 7.7.34]]

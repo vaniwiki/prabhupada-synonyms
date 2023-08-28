@@ -1,5 +1,11 @@
-~~Title:siṁhān~~
-{{description>dogs.}}
+---json
+{
+    "name":"siṁhān",
+    "h1":"siṁhān",
+    "title":"siṁhān -- synonyms, prabhupada.io",
+    "description":"dogs."
+}
+---
 
 ==== grāma-siṁhān  ====
   * dogs --- [[books:sb:3:18:10|SB 3.18.10]]

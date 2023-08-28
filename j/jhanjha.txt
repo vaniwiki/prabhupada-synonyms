@@ -1,5 +1,11 @@
-~~Title:jhañjhā~~
-{{description>a high wind.}}
+---json
+{
+    "name":"jhañjhā",
+    "h1":"jhañjhā",
+    "title":"jhañjhā -- synonyms, prabhupada.io",
+    "description":"a high wind."
+}
+---
 
 ==== jhañjhā-pavane  ====
   * a high wind --- [[books:cc:antya:15:68|Antya 15.68]]

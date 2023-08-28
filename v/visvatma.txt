@@ -1,5 +1,11 @@
-~~Title:viśvātmā~~
-{{description>the Supersoul of all living entities; who is the Supersoul of everyone.}}
+---json
+{
+    "name":"viśvātmā",
+    "h1":"viśvātmā",
+    "title":"viśvātmā -- synonyms, prabhupada.io",
+    "description":"the Supersoul of all living entities; who is the Supersoul of everyone."
+}
+---
 
 ==== viśvātmā  ====
   * the Supersoul of all living entities --- [[books:sb:10:2:16|SB 10.2.16]]

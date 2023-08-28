@@ -1,5 +1,11 @@
-~~Title:ekādaśīte~~
-{{description>on the Ekādaśī day.}}
+---json
+{
+    "name":"ekādaśīte",
+    "h1":"ekādaśīte",
+    "title":"ekādaśīte -- synonyms, prabhupada.io",
+    "description":"on the Ekādaśī day."
+}
+---
 
 ==== ekādaśīte  ====
   * on the Ekādaśī day --- [[books:cc:adi:15:9|Ādi 15.9]]

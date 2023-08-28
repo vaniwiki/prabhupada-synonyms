@@ -1,5 +1,11 @@
-~~Title:sārdraka~~
-{{description>pots with ginger dishes.}}
+---json
+{
+    "name":"sārdraka",
+    "h1":"sārdraka",
+    "title":"sārdraka -- synonyms, prabhupada.io",
+    "description":"pots with ginger dishes."
+}
+---
 
 ==== sārdraka  ====
   * pots with ginger dishes --- [[books:cc:madhya:3:45|Madhya 3.45]]

@@ -1,5 +1,11 @@
-~~Title:vairi~~
-{{description>enemies.}}
+---json
+{
+    "name":"vairi",
+    "h1":"vairi",
+    "title":"vairi -- synonyms, prabhupada.io",
+    "description":"enemies."
+}
+---
 
 ==== vairi  ====
   * enemies --- [[books:cc:madhya:2:37|Madhya 2.37]]

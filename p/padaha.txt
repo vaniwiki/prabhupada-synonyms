@@ -1,5 +1,11 @@
-~~Title:paḍāha~~
-{{description>You teach.}}
+---json
+{
+    "name":"paḍāha",
+    "h1":"paḍāha",
+    "title":"paḍāha -- synonyms, prabhupada.io",
+    "description":"You teach."
+}
+---
 
 ==== paḍāha  ====
   * You teach --- [[books:cc:adi:16:31|Ādi 16.31]], [[books:cc:adi:16:32|Ādi 16.32]]

@@ -1,5 +1,11 @@
-~~Title:viniyamya~~
-{{description>regulating.}}
+---json
+{
+    "name":"viniyamya",
+    "h1":"viniyamya",
+    "title":"viniyamya -- synonyms, prabhupada.io",
+    "description":"regulating."
+}
+---
 
 ==== viniyamya  ====
   * regulating --- [[books:bg:6:24|Bg. 6.24]]

@@ -1,5 +1,11 @@
-~~Title:utkatah~~
-{{description>too puffed up because of opulence.}}
+---json
+{
+    "name":"utkatah",
+    "h1":"utkatah",
+    "title":"utkatah -- synonyms, prabhupada.io",
+    "description":"too puffed up because of opulence."
+}
+---
 
 ==== mada-utkaṭaḥ  ====
   * too puffed up because of opulence --- [[books:sb:9:15:20|SB 9.15.20]]

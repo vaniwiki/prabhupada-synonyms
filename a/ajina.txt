@@ -1,5 +1,11 @@
-~~Title:ajina~~
-{{description>animal skin for seats; skin.}}
+---json
+{
+    "name":"ajina",
+    "h1":"ajina",
+    "title":"ajina -- synonyms, prabhupada.io",
+    "description":"animal skin for seats; skin."
+}
+---
 
 ==== ajina  ====
   * animal skin for seats --- [[books:sb:3:3:27|SB 3.3.27]]

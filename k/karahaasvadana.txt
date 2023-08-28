@@ -1,5 +1,11 @@
-~~Title:karahaāsvādana~~
-{{description>You must taste.}}
+---json
+{
+    "name":"karahaāsvādana",
+    "h1":"karahaāsvādana",
+    "title":"karahaāsvādana -- synonyms, prabhupada.io",
+    "description":"You must taste."
+}
+---
 
 ==== karahaāsvādana  ====
   * You must taste --- [[books:cc:madhya:12:174|Madhya 12.174]]

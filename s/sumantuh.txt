@@ -1,5 +1,11 @@
-~~Title:sumantuḥ~~
-{{description>also known as Sumantu Muni.}}
+---json
+{
+    "name":"sumantuḥ",
+    "h1":"sumantuḥ",
+    "title":"sumantuḥ -- synonyms, prabhupada.io",
+    "description":"also known as Sumantu Muni."
+}
+---
 
 ==== sumantuḥ  ====
   * also known as Sumantu Muni --- [[books:sb:1:4:22|SB 1.4.22]]

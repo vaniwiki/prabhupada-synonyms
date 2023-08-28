@@ -1,5 +1,11 @@
-~~Title:tṛṣṇām~~
-{{description>desire; desires.}}
+---json
+{
+    "name":"tṛṣṇām",
+    "h1":"tṛṣṇām",
+    "title":"tṛṣṇām -- synonyms, prabhupada.io",
+    "description":"desire; desires."
+}
+---
 
 ==== tṛṣṇām  ====
   * desire --- [[books:sb:9:19:16|SB 9.19.16]]

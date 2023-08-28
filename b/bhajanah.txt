@@ -1,5 +1,11 @@
-~~Title:bhajanah~~
-{{description>receiving; the reservoir.}}
+---json
+{
+    "name":"bhajanah",
+    "h1":"bhajanah",
+    "title":"bhajanah -- synonyms, prabhupada.io",
+    "description":"receiving; the reservoir."
+}
+---
 
 ==== bhājanaḥ  ====
   * receiving --- [[books:sb:4:14:33|SB 4.14.33]]

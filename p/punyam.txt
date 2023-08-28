@@ -1,5 +1,11 @@
-~~Title:punyam~~
-{{description>holy; holy places; piety; pious; pious activities or their results; purifying; sacred; the holy; very pious; very pious to hear and describe; virtue; which are always full of pious activities (śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ puṇya-śravaṇa-kīrtanaḥ: [SB 1.2.17] to hear about Kṛṣṇa is always pious); which is auspicious and pious.}}
+---json
+{
+    "name":"punyam",
+    "h1":"punyam",
+    "title":"punyam -- synonyms, prabhupada.io",
+    "description":"holy; holy places; piety; pious; pious activities or their results; purifying; sacred; the holy; very pious; very pious to hear and describe; virtue; which are always full of pious activities (śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ puṇya-śravaṇa-kīrtanaḥ: [SB 1.2.17] to hear about Kṛṣṇa is always pious); which is auspicious and pious."
+}
+---
 
 ==== puṇyam  ====
   * holy --- [[books:sb:3:21:38-39|SB 3.21.38-39]]

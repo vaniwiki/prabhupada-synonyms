@@ -1,5 +1,11 @@
-~~Title:anyena~~
-{{description>another; by another.}}
+---json
+{
+    "name":"anyena",
+    "h1":"anyena",
+    "title":"anyena -- synonyms, prabhupada.io",
+    "description":"another; by another."
+}
+---
 
 ==== anyena  ====
   * another --- [[books:sb:4:29:58|SB 4.29.58]]

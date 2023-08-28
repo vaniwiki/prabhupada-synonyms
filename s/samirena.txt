@@ -1,5 +1,11 @@
-~~Title:samīreṇa~~
-{{description>by the wind.}}
+---json
+{
+    "name":"samīreṇa",
+    "h1":"samīreṇa",
+    "title":"samīreṇa -- synonyms, prabhupada.io",
+    "description":"by the wind."
+}
+---
 
 ==== samīreṇa  ====
   * by the wind --- [[books:sb:8:24:36|SB 8.24.36]]

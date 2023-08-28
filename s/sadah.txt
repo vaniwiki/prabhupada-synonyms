@@ -1,5 +1,11 @@
-~~Title:sadaḥ~~
-{{description>amongst the members of the assembly; assembly; the assembly houses; the sacrificial arena.}}
+---json
+{
+    "name":"sadaḥ",
+    "h1":"sadaḥ",
+    "title":"sadaḥ -- synonyms, prabhupada.io",
+    "description":"amongst the members of the assembly; assembly; the assembly houses; the sacrificial arena."
+}
+---
 
 ==== sadaḥ  ====
   * amongst the members of the assembly --- [[books:sb:4:21:19|SB 4.21.19]]

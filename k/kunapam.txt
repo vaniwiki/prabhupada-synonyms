@@ -1,5 +1,11 @@
-~~Title:kuṇapam~~
-{{description>dead body.}}
+---json
+{
+    "name":"kuṇapam",
+    "h1":"kuṇapam",
+    "title":"kuṇapam -- synonyms, prabhupada.io",
+    "description":"dead body."
+}
+---
 
 ==== kuṇapam  ====
   * dead body --- [[books:sb:4:4:23|SB 4.4.23]]

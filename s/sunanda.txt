@@ -1,5 +1,11 @@
-~~Title:sunanda~~
-{{description>Sunanda.}}
+---json
+{
+    "name":"sunanda",
+    "h1":"sunanda",
+    "title":"sunanda -- synonyms, prabhupada.io",
+    "description":"Sunanda."
+}
+---
 
 ==== sunanda  ====
   * Sunanda --- [[books:sb:1:14:32-33|SB 1.14.32-33]], [[books:sb:2:9:15|SB 2.9.15]], [[books:sb:4:12:22|SB 4.12.22]]

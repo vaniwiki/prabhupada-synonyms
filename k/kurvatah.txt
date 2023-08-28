@@ -1,5 +1,11 @@
-~~Title:kurvataḥ~~
-{{description>acting; engaged in; executing; fixing; performing.}}
+---json
+{
+    "name":"kurvataḥ",
+    "h1":"kurvataḥ",
+    "title":"kurvataḥ -- synonyms, prabhupada.io",
+    "description":"acting; engaged in; executing; fixing; performing."
+}
+---
 
 ==== kurvataḥ  ====
   * acting --- [[books:sb:3:22:35|SB 3.22.35]]

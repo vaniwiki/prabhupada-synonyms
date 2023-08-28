@@ -1,5 +1,11 @@
-~~Title:mātāmaha~~
-{{description>given by your maternal grandfather, Śukrācārya.}}
+---json
+{
+    "name":"mātāmaha",
+    "h1":"mātāmaha",
+    "title":"mātāmaha -- synonyms, prabhupada.io",
+    "description":"given by your maternal grandfather, Śukrācārya."
+}
+---
 
 ==== mātāmaha-kṛtām  ====
   * given by your maternal grandfather, Śukrācārya --- [[books:sb:9:18:39|SB 9.18.39]]

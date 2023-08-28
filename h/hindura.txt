@@ -1,5 +1,11 @@
-~~Title:hindura~~
-{{description>of a Hindu; of the Hindus.}}
+---json
+{
+    "name":"hindura",
+    "h1":"hindura",
+    "title":"hindura -- synonyms, prabhupada.io",
+    "description":"of a Hindu; of the Hindus."
+}
+---
 
 ==== hindura  ====
   * of a Hindu --- [[books:cc:adi:17:178-179|Ādi 17.178-179]]

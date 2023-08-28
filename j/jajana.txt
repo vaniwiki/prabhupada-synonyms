@@ -1,5 +1,11 @@
-~~Title:jajāna~~
-{{description>created; generated.}}
+---json
+{
+    "name":"jajāna",
+    "h1":"jajāna",
+    "title":"jajāna -- synonyms, prabhupada.io",
+    "description":"created; generated."
+}
+---
 
 ==== jajāna  ====
   * created --- [[books:sb:5:7:14|SB 5.7.14]]

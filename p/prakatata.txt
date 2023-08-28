@@ -1,5 +1,11 @@
-~~Title:prakaṭatā~~
-{{description>the manifestation.}}
+---json
+{
+    "name":"prakaṭatā",
+    "h1":"prakaṭatā",
+    "title":"prakaṭatā -- synonyms, prabhupada.io",
+    "description":"the manifestation."
+}
+---
 
 ==== prakaṭatā  ====
   * the manifestation --- [[books:cc:adi:1:75|Ādi 1.75]]

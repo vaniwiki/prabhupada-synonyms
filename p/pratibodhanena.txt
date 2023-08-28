@@ -1,5 +1,11 @@
-~~Title:pratibodhanena~~
-{{description>awakening.}}
+---json
+{
+    "name":"pratibodhanena",
+    "h1":"pratibodhanena",
+    "title":"pratibodhanena -- synonyms, prabhupada.io",
+    "description":"awakening."
+}
+---
 
 ==== pratibodhanena  ====
   * awakening --- [[books:sb:3:8:14|SB 3.8.14]]

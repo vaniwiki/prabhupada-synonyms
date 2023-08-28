@@ -1,5 +1,11 @@
-~~Title:arthi~~
-{{description>of persons in need of money.}}
+---json
+{
+    "name":"arthi",
+    "h1":"arthi",
+    "title":"arthi -- synonyms, prabhupada.io",
+    "description":"of persons in need of money."
+}
+---
 
 ==== arthi  ====
   * of persons in need of money --- [[books:sb:8:20:10|SB 8.20.10]]

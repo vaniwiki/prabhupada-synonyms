@@ -1,5 +1,11 @@
-~~Title:kaluṣa~~
-{{description>contamination; the pain.}}
+---json
+{
+    "name":"kaluṣa",
+    "h1":"kaluṣa",
+    "title":"kaluṣa -- synonyms, prabhupada.io",
+    "description":"contamination; the pain."
+}
+---
 
 ==== kaluṣa  ====
   * contamination --- [[books:cc:madhya:15:276|Madhya 15.276]]

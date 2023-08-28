@@ -1,5 +1,11 @@
-~~Title:rājarṣe~~
-{{description>O great King; O King (Mahārāja Parīkṣit); O saintly King.}}
+---json
+{
+    "name":"rājarṣe",
+    "h1":"rājarṣe",
+    "title":"rājarṣe -- synonyms, prabhupada.io",
+    "description":"O great King; O King (Mahārāja Parīkṣit); O saintly King."
+}
+---
 
 ==== rājarṣe  ====
   * O great King --- [[books:cc:madhya:24:47|Madhya 24.47]], [[books:cc:madhya:25:157|Madhya 25.157]]

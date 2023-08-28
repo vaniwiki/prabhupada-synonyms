@@ -1,5 +1,11 @@
-~~Title:kvacit~~
-{{description>and sometimes; at any stage; at any time; at some time; at that time; ever; in a certain case; in any circumstances; in some saintly person; once upon a time; one day; one may have full knowledge of; one may possess; rarely; someone; sometimes; sometimes or somewhere; sometimes, at the beginning of a kalpa; sometimes, in the Dakṣa-yajña; somewhere; where.}}
+---json
+{
+    "name":"kvacit",
+    "h1":"kvacit",
+    "title":"kvacit -- synonyms, prabhupada.io",
+    "description":"and sometimes; at any stage; at any time; at some time; at that time; ever; in a certain case; in any circumstances; in some saintly person; once upon a time; one day; one may have full knowledge of; one may possess; rarely; someone; sometimes; sometimes or somewhere; sometimes, at the beginning of a kalpa; sometimes, in the Dakṣa-yajña; somewhere; where."
+}
+---
 
 ==== kvacit  ====
   * and sometimes --- [[books:sb:5:13:3|SB 5.13.3]]

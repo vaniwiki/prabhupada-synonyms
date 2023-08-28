@@ -1,5 +1,11 @@
-~~Title:kartari~~
-{{description>in the false ego.}}
+---json
+{
+    "name":"kartari",
+    "h1":"kartari",
+    "title":"kartari -- synonyms, prabhupada.io",
+    "description":"in the false ego."
+}
+---
 
 ==== kartari  ====
   * in the false ego --- [[books:sb:3:28:36|SB 3.28.36]]

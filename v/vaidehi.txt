@@ -1,5 +1,11 @@
-~~Title:vaidehī~~
-{{description>mother Sītā; the daughter of the King of Videha.}}
+---json
+{
+    "name":"vaidehī",
+    "h1":"vaidehī",
+    "title":"vaidehī -- synonyms, prabhupada.io",
+    "description":"mother Sītā; the daughter of the King of Videha."
+}
+---
 
 ==== vaidehī  ====
   * mother Sītā --- [[books:sb:9:10:45-46|SB 9.10.45-46]]

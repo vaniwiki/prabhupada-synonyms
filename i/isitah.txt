@@ -1,5 +1,11 @@
-~~Title:iṣitaḥ~~
-{{description>desired.}}
+---json
+{
+    "name":"iṣitaḥ",
+    "h1":"iṣitaḥ",
+    "title":"iṣitaḥ -- synonyms, prabhupada.io",
+    "description":"desired."
+}
+---
 
 ==== iṣitaḥ  ====
   * desired --- [[books:sb:7:6:17-18|SB 7.6.17-18]]

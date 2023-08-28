@@ -1,5 +1,11 @@
-~~Title:vasi~~
-{{description>I live there; reside; situated.}}
+---json
+{
+    "name":"vasi",
+    "h1":"vasi",
+    "title":"vasi -- synonyms, prabhupada.io",
+    "description":"I live there; reside; situated."
+}
+---
 
 ==== vasi  ====
   * I live there --- [[books:cc:adi:16:16|Ādi 16.16]]

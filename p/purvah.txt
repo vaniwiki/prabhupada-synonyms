@@ -1,5 +1,11 @@
-~~Title:purvah~~
-{{description>previously; the former.}}
+---json
+{
+    "name":"purvah",
+    "h1":"purvah",
+    "title":"purvah -- synonyms, prabhupada.io",
+    "description":"previously; the former."
+}
+---
 
 ==== pūrvaḥ  ====
   * previously --- [[books:cc:adi:4:146|Ādi 4.146]], [[books:cc:madhya:20:182|Madhya 20.182]]

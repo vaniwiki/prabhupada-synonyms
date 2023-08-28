@@ -1,5 +1,11 @@
-~~Title:sevāranirbandha~~
-{{description>the arrangements for executing the daily routine of the worship of the Lord.}}
+---json
+{
+    "name":"sevāranirbandha",
+    "h1":"sevāranirbandha",
+    "title":"sevāranirbandha -- synonyms, prabhupada.io",
+    "description":"the arrangements for executing the daily routine of the worship of the Lord."
+}
+---
 
 ==== sevāranirbandha  ====
   * the arrangements for executing the daily routine of the worship of the Lord --- [[books:cc:madhya:4:109|Madhya 4.109]]

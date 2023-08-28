@@ -1,5 +1,11 @@
-~~Title:virajan~~
-{{description>without passion.}}
+---json
+{
+    "name":"virajan",
+    "h1":"virajan",
+    "title":"virajan -- synonyms, prabhupada.io",
+    "description":"without passion."
+}
+---
 
 ==== virajān  ====
   * without passion --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

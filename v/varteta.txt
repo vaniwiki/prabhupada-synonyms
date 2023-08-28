@@ -1,5 +1,11 @@
-~~Title:varteta~~
-{{description>continues to live; remains; should live (happily).}}
+---json
+{
+    "name":"varteta",
+    "h1":"varteta",
+    "title":"varteta -- synonyms, prabhupada.io",
+    "description":"continues to live; remains; should live (happily)."
+}
+---
 
 ==== varteta  ====
   * continues to live --- [[books:sb:10:2:22|SB 10.2.22]]

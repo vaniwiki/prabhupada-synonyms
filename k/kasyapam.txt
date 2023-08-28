@@ -1,5 +1,11 @@
-~~Title:kasyapam~~
-{{description>Kaśyapa; of the name Kaśyapa.}}
+---json
+{
+    "name":"kasyapam",
+    "h1":"kasyapam",
+    "title":"kasyapam -- synonyms, prabhupada.io",
+    "description":"Kaśyapa; of the name Kaśyapa."
+}
+---
 
 ==== kaśyapam  ====
   * Kaśyapa --- [[books:sb:3:14:8|SB 3.14.8]]

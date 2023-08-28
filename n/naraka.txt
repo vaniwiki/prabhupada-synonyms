@@ -1,5 +1,11 @@
-~~Title:naraka~~
-{{description>a hellish condition of life; hell; hellish life; in hell; the hellish planets.}}
+---json
+{
+    "name":"naraka",
+    "h1":"naraka",
+    "title":"naraka -- synonyms, prabhupada.io",
+    "description":"a hellish condition of life; hell; hellish life; in hell; the hellish planets."
+}
+---
 
 ==== naraka  ====
   * a hellish condition of life --- [[books:cc:madhya:6:268|Madhya 6.268]]

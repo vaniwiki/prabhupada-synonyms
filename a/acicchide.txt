@@ -1,5 +1,11 @@
-~~Title:ācicchide~~
-{{description>separated the child by force.}}
+---json
+{
+    "name":"ācicchide",
+    "h1":"ācicchide",
+    "title":"ācicchide -- synonyms, prabhupada.io",
+    "description":"separated the child by force."
+}
+---
 
 ==== ācicchide  ====
   * separated the child by force --- [[books:sb:10:4:7|SB 10.4.7]]

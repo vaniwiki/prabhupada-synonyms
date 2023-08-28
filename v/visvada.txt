@@ -1,5 +1,11 @@
-~~Title:visvāda~~
-{{description>tasteless.}}
+---json
+{
+    "name":"visvāda",
+    "h1":"visvāda",
+    "title":"visvāda -- synonyms, prabhupada.io",
+    "description":"tasteless."
+}
+---
 
 ==== visvāda  ====
   * tasteless --- [[books:cc:antya:10:125-126|Antya 10.125-126]]

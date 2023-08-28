@@ -1,5 +1,11 @@
-~~Title:janina~~
-{{description>knowing.}}
+---json
+{
+    "name":"janina",
+    "h1":"janina",
+    "title":"janina -- synonyms, prabhupada.io",
+    "description":"knowing."
+}
+---
 
 ==== jāniñā  ====
   * knowing --- [[books:cc:madhya:1:120|Madhya 1.120]], [[books:cc:madhya:11:110|Madhya 11.110]]

@@ -1,5 +1,11 @@
-~~Title:āḍāilera~~
-{{description>at the shore of the village Āḍāila.}}
+---json
+{
+    "name":"āḍāilera",
+    "h1":"āḍāilera",
+    "title":"āḍāilera -- synonyms, prabhupada.io",
+    "description":"at the shore of the village Āḍāila."
+}
+---
 
 ==== āḍāilera ghāṭe  ====
   * at the shore of the village Āḍāila --- [[books:cc:madhya:19:83|Madhya 19.83]]

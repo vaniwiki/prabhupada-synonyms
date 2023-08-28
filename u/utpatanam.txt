@@ -1,5 +1,11 @@
-~~Title:utpāṭanam~~
-{{description>the uprooting.}}
+---json
+{
+    "name":"utpāṭanam",
+    "h1":"utpāṭanam",
+    "title":"utpāṭanam -- synonyms, prabhupada.io",
+    "description":"the uprooting."
+}
+---
 
 ==== utpāṭanam  ====
   * the uprooting --- [[books:sb:10:11:5|SB 10.11.5]]

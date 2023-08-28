@@ -1,5 +1,11 @@
-~~Title:karesaṅkīrtana~~
-{{description>perform saṅkīrtana.}}
+---json
+{
+    "name":"karesaṅkīrtana",
+    "h1":"karesaṅkīrtana",
+    "title":"karesaṅkīrtana -- synonyms, prabhupada.io",
+    "description":"perform saṅkīrtana."
+}
+---
 
 ==== karesaṅkīrtana  ====
   * perform //saṅkīrtana// --- [[books:cc:adi:13:103|Ādi 13.103]]

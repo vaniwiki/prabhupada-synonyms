@@ -1,5 +1,11 @@
-~~Title:śayīran~~
-{{description>fall dead on the ground; lying down.}}
+---json
+{
+    "name":"śayīran",
+    "h1":"śayīran",
+    "title":"śayīran -- synonyms, prabhupada.io",
+    "description":"fall dead on the ground; lying down."
+}
+---
 
 ==== śayīran  ====
   * fall dead on the ground --- [[books:sb:5:13:15|SB 5.13.15]]

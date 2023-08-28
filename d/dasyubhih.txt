@@ -1,5 +1,11 @@
-~~Title:dasyubhiḥ~~
-{{description>by rogues; by rogues and thieves; by the plunderers.}}
+---json
+{
+    "name":"dasyubhiḥ",
+    "h1":"dasyubhiḥ",
+    "title":"dasyubhiḥ -- synonyms, prabhupada.io",
+    "description":"by rogues; by rogues and thieves; by the plunderers."
+}
+---
 
 ==== dasyubhiḥ  ====
   * by rogues --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

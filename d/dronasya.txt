@@ -1,5 +1,11 @@
-~~Title:droṇasya~~
-{{description>of Droṇa.}}
+---json
+{
+    "name":"droṇasya",
+    "h1":"droṇasya",
+    "title":"droṇasya -- synonyms, prabhupada.io",
+    "description":"of Droṇa."
+}
+---
 
 ==== droṇasya  ====
   * of Droṇa --- [[books:sb:6:6:10-11|SB 6.6.10-11]]

@@ -1,5 +1,11 @@
-~~Title:mandākinī~~
-{{description>Mandākinī.}}
+---json
+{
+    "name":"mandākinī",
+    "h1":"mandākinī",
+    "title":"mandākinī -- synonyms, prabhupada.io",
+    "description":"Mandākinī."
+}
+---
 
 ==== mandākinī  ====
   * Mandākinī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

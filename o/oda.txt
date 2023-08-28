@@ -1,5 +1,11 @@
-~~Title:oḍa~~
-{{description>a particular type of flower.}}
+---json
+{
+    "name":"oḍa",
+    "h1":"oḍa",
+    "title":"oḍa -- synonyms, prabhupada.io",
+    "description":"a particular type of flower."
+}
+---
 
 ==== oḍa-phula  ====
   * a particular type of flower --- [[books:cc:adi:17:39|Ādi 17.39]]

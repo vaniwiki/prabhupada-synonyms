@@ -1,5 +1,11 @@
-~~Title:ajñāne~~
-{{description>by ignorance; out of ignorance.}}
+---json
+{
+    "name":"ajñāne",
+    "h1":"ajñāne",
+    "title":"ajñāne -- synonyms, prabhupada.io",
+    "description":"by ignorance; out of ignorance."
+}
+---
 
 ==== ajñāne  ====
   * by ignorance --- [[books:cc:madhya:22:143|Madhya 22.143]]

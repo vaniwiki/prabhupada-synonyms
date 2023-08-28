@@ -1,5 +1,11 @@
-~~Title:akrīṇāt~~
-{{description>purchased.}}
+---json
+{
+    "name":"akrīṇāt",
+    "h1":"akrīṇāt",
+    "title":"akrīṇāt -- synonyms, prabhupada.io",
+    "description":"purchased."
+}
+---
 
 ==== akrīṇāt  ====
   * purchased --- [[books:sb:9:7:20|SB 9.7.20]]

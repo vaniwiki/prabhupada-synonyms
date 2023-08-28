@@ -1,5 +1,11 @@
-~~Title:avivekataḥ~~
-{{description>due to ignorance.}}
+---json
+{
+    "name":"avivekataḥ",
+    "h1":"avivekataḥ",
+    "title":"avivekataḥ -- synonyms, prabhupada.io",
+    "description":"due to ignorance."
+}
+---
 
 ==== avivekataḥ  ====
   * due to ignorance --- [[books:sb:7:7:47|SB 7.7.47]]

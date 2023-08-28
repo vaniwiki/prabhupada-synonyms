@@ -1,5 +1,11 @@
-~~Title:mānava~~
-{{description>men from all countries.}}
+---json
+{
+    "name":"mānava",
+    "h1":"mānava",
+    "title":"mānava -- synonyms, prabhupada.io",
+    "description":"men from all countries."
+}
+---
 
 ==== mānava  ====
   * men from all countries --- [[books:sb:1:9:45|SB 1.9.45]]

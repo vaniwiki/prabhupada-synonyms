@@ -1,5 +1,11 @@
-~~Title:goptari~~
-{{description>the King.}}
+---json
+{
+    "name":"goptari",
+    "h1":"goptari",
+    "title":"goptari -- synonyms, prabhupada.io",
+    "description":"the King."
+}
+---
 
 ==== goptari  ====
   * the King --- [[books:sb:4:14:1|SB 4.14.1]]

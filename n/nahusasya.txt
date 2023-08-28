@@ -1,5 +1,11 @@
-~~Title:nahuṣasya~~
-{{description>of King Nahuṣa.}}
+---json
+{
+    "name":"nahuṣasya",
+    "h1":"nahuṣasya",
+    "title":"nahuṣasya -- synonyms, prabhupada.io",
+    "description":"of King Nahuṣa."
+}
+---
 
 ==== nahuṣasya  ====
   * of King Nahuṣa --- [[books:sb:9:18:1|SB 9.18.1]]

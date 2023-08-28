@@ -1,5 +1,11 @@
-~~Title:ākāśa~~
-{{description>the sky.}}
+---json
+{
+    "name":"ākāśa",
+    "h1":"ākāśa",
+    "title":"ākāśa -- synonyms, prabhupada.io",
+    "description":"the sky."
+}
+---
 
 ==== ākāśa  ====
   * the sky --- [[books:sb:2:6:3|SB 2.6.3]], [[books:cc:madhya:12:140|Madhya 12.140]], [[books:cc:antya:20:79|Antya 20.79]]

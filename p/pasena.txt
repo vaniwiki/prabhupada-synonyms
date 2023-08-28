@@ -1,5 +1,11 @@
-~~Title:pāśena~~
-{{description>by the network of ropes.}}
+---json
+{
+    "name":"pāśena",
+    "h1":"pāśena",
+    "title":"pāśena -- synonyms, prabhupada.io",
+    "description":"by the network of ropes."
+}
+---
 
 ==== pāśena  ====
   * by the network of ropes --- [[books:sb:8:2:32|SB 8.2.32]]

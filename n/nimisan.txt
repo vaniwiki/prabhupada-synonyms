@@ -1,5 +1,11 @@
-~~Title:nimiṣan~~
-{{description>closing.}}
+---json
+{
+    "name":"nimiṣan",
+    "h1":"nimiṣan",
+    "title":"nimiṣan -- synonyms, prabhupada.io",
+    "description":"closing."
+}
+---
 
 ==== nimiṣan  ====
   * closing --- [[books:bg:5:8-9|Bg. 5.8-9]]

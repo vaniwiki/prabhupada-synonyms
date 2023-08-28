@@ -1,5 +1,11 @@
-~~Title:santyajāmi~~
-{{description>give up.}}
+---json
+{
+    "name":"santyajāmi",
+    "h1":"santyajāmi",
+    "title":"santyajāmi -- synonyms, prabhupada.io",
+    "description":"give up."
+}
+---
 
 ==== santyajāmi  ====
   * give up --- [[books:sb:6:10:7|SB 6.10.7]]

@@ -1,5 +1,11 @@
-~~Title:samācakṣva~~
-{{description>clearly explain; just deliberate.}}
+---json
+{
+    "name":"samācakṣva",
+    "h1":"samācakṣva",
+    "title":"samācakṣva -- synonyms, prabhupada.io",
+    "description":"clearly explain; just deliberate."
+}
+---
 
 ==== samācakṣva  ====
   * clearly explain --- [[books:sb:1:4:13|SB 1.4.13]]

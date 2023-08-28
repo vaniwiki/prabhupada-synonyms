@@ -1,5 +1,11 @@
-~~Title:dvitiyah~~
-{{description>a second; second; the second; the second one.}}
+---json
+{
+    "name":"dvitiyah",
+    "h1":"dvitiyah",
+    "title":"dvitiyah -- synonyms, prabhupada.io",
+    "description":"a second; second; the second; the second one."
+}
+---
 
 ==== dvitīyaḥ  ====
   * a second --- [[books:sb:5:21:14|SB 5.21.14]]

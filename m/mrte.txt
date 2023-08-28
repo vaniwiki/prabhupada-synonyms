@@ -1,5 +1,11 @@
-~~Title:mṛte~~
-{{description>dead; is finished.}}
+---json
+{
+    "name":"mṛte",
+    "h1":"mṛte",
+    "title":"mṛte -- synonyms, prabhupada.io",
+    "description":"dead; is finished."
+}
+---
 
 ==== mṛte  ====
   * dead --- [[books:sb:5:20:44|SB 5.20.44]]

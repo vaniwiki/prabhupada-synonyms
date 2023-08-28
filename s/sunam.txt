@@ -1,5 +1,11 @@
-~~Title:śunām~~
-{{description>like dogs; of the dogs.}}
+---json
+{
+    "name":"śunām",
+    "h1":"śunām",
+    "title":"śunām -- synonyms, prabhupada.io",
+    "description":"like dogs; of the dogs."
+}
+---
 
 ==== śunām  ====
   * like dogs --- [[books:sb:1:18:45|SB 1.18.45]]

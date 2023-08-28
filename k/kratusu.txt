@@ -1,5 +1,11 @@
-~~Title:kratuṣu~~
-{{description>in sacrifices (performed by him).}}
+---json
+{
+    "name":"kratuṣu",
+    "h1":"kratuṣu",
+    "title":"kratuṣu -- synonyms, prabhupada.io",
+    "description":"in sacrifices (performed by him)."
+}
+---
 
 ==== kratuṣu  ====
   * in sacrifices (performed by him) --- [[books:sb:9:4:23|SB 9.4.23]]

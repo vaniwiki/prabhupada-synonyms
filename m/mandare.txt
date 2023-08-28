@@ -1,5 +1,11 @@
-~~Title:mandāre~~
-{{description>at Mandāra-parvata.}}
+---json
+{
+    "name":"mandāre",
+    "h1":"mandāre",
+    "title":"mandāre -- synonyms, prabhupada.io",
+    "description":"at Mandāra-parvata."
+}
+---
 
 ==== mandāre  ====
   * at Mandāra-parvata --- [[books:cc:madhya:20:216|Madhya 20.216]]

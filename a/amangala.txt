@@ -1,5 +1,11 @@
-~~Title:amangala~~
-{{description>inauspiciousness.}}
+---json
+{
+    "name":"amangala",
+    "h1":"amangala",
+    "title":"amangala -- synonyms, prabhupada.io",
+    "description":"inauspiciousness."
+}
+---
 
 ==== amaṅgala  ====
   * inauspiciousness --- [[books:cc:adi:8:35|Ādi 8.35]], [[books:cc:madhya:24:59|Madhya 24.59]]

@@ -1,5 +1,11 @@
-~~Title:dyumat~~
-{{description>Dyumat; of the name Dyumān.}}
+---json
+{
+    "name":"dyumat",
+    "h1":"dyumat",
+    "title":"dyumat -- synonyms, prabhupada.io",
+    "description":"Dyumat; of the name Dyumān."
+}
+---
 
 ==== dyumat  ====
   * Dyumat --- [[books:sb:8:1:19|SB 8.1.19]]

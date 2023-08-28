@@ -1,5 +1,11 @@
-~~Title:vitāna~~
-{{description>spreading.}}
+---json
+{
+    "name":"vitāna",
+    "h1":"vitāna",
+    "title":"vitāna -- synonyms, prabhupada.io",
+    "description":"spreading."
+}
+---
 
 ==== vitāna  ====
   * spreading --- [[books:sb:1:17:33|SB 1.17.33]], [[books:sb:3:25:31|SB 3.25.31]]

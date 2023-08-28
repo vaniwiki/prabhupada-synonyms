@@ -1,5 +1,11 @@
-~~Title:yajan~~
-{{description>by worshiping; worshiping.}}
+---json
+{
+    "name":"yajan",
+    "h1":"yajan",
+    "title":"yajan -- synonyms, prabhupada.io",
+    "description":"by worshiping; worshiping."
+}
+---
 
 ==== yajan  ====
   * by worshiping --- [[books:sb:4:24:7|SB 4.24.7]]

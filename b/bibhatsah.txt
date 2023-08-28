@@ -1,5 +1,11 @@
-~~Title:bībhatsaḥ~~
-{{description>disaster.}}
+---json
+{
+    "name":"bībhatsaḥ",
+    "h1":"bībhatsaḥ",
+    "title":"bībhatsaḥ -- synonyms, prabhupada.io",
+    "description":"disaster."
+}
+---
 
 ==== bībhatsaḥ  ====
   * disaster --- [[books:cc:madhya:19:186|Madhya 19.186]]

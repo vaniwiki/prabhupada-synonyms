@@ -1,5 +1,11 @@
-~~Title:sthalaiḥ~~
-{{description>with floors.}}
+---json
+{
+    "name":"sthalaiḥ",
+    "h1":"sthalaiḥ",
+    "title":"sthalaiḥ -- synonyms, prabhupada.io",
+    "description":"with floors."
+}
+---
 
 ==== sthalaiḥ  ====
   * with floors --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

@@ -1,5 +1,11 @@
-~~Title:chuṅile~~
-{{description>if You touch.}}
+---json
+{
+    "name":"chuṅile",
+    "h1":"chuṅile",
+    "title":"chuṅile -- synonyms, prabhupada.io",
+    "description":"if You touch."
+}
+---
 
 ==== tumi chuṅile  ====
   * if You touch --- [[books:cc:antya:4:152|Antya 4.152]]

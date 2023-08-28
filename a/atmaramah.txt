@@ -1,5 +1,11 @@
-~~Title:atmaramah~~
-{{description>completely self-satisfied.}}
+---json
+{
+    "name":"atmaramah",
+    "h1":"atmaramah",
+    "title":"atmaramah -- synonyms, prabhupada.io",
+    "description":"completely self-satisfied."
+}
+---
 
 ==== ātmārāmaḥ  ====
   * completely self-satisfied --- [[books:sb:6:9:35|SB 6.9.35]]

@@ -1,5 +1,11 @@
-~~Title:manu~~
-{{description>the father of mankind.}}
+---json
+{
+    "name":"manu",
+    "h1":"manu",
+    "title":"manu -- synonyms, prabhupada.io",
+    "description":"the father of mankind."
+}
+---
 
 ==== manu  ====
   * the father of mankind --- [[books:sb:2:7:39|SB 2.7.39]]

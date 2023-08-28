@@ -1,5 +1,11 @@
-~~Title:vivardhasva~~
-{{description>increase.}}
+---json
+{
+    "name":"vivardhasva",
+    "h1":"vivardhasva",
+    "title":"vivardhasva -- synonyms, prabhupada.io",
+    "description":"increase."
+}
+---
 
 ==== vivardhasva  ====
   * increase --- [[books:sb:6:9:11|SB 6.9.11]]

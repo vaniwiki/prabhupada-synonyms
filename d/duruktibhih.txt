@@ -1,5 +1,11 @@
-~~Title:duruktibhiḥ~~
-{{description>by harsh words.}}
+---json
+{
+    "name":"duruktibhiḥ",
+    "h1":"duruktibhiḥ",
+    "title":"duruktibhiḥ -- synonyms, prabhupada.io",
+    "description":"by harsh words."
+}
+---
 
 ==== duruktibhiḥ  ====
   * by harsh words --- [[books:sb:4:3:19|SB 4.3.19]]

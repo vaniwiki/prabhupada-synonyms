@@ -1,5 +1,11 @@
-~~Title:labhet~~
-{{description>gain.}}
+---json
+{
+    "name":"labhet",
+    "h1":"labhet",
+    "title":"labhet -- synonyms, prabhupada.io",
+    "description":"gain."
+}
+---
 
 ==== labhet  ====
   * gain --- [[books:bg:18:8|Bg. 18.8]]

@@ -1,5 +1,11 @@
-~~Title:āyuṣā~~
-{{description>by duration of life; with a duration of life.}}
+---json
+{
+    "name":"āyuṣā",
+    "h1":"āyuṣā",
+    "title":"āyuṣā -- synonyms, prabhupada.io",
+    "description":"by duration of life; with a duration of life."
+}
+---
 
 ==== āyuṣā  ====
   * by duration of life --- [[books:sb:3:14:21|SB 3.14.21]]

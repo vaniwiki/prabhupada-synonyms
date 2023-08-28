@@ -1,5 +1,11 @@
-~~Title:agṛṇāt~~
-{{description>prayed.}}
+---json
+{
+    "name":"agṛṇāt",
+    "h1":"agṛṇāt",
+    "title":"agṛṇāt -- synonyms, prabhupada.io",
+    "description":"prayed."
+}
+---
 
 ==== agṛṇāt  ====
   * prayed --- [[books:sb:7:3:25|SB 7.3.25]]

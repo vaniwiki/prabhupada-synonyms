@@ -1,5 +1,11 @@
-~~Title:aghara~~
-{{description>came to His residential place.}}
+---json
+{
+    "name":"aghara",
+    "h1":"aghara",
+    "title":"aghara -- synonyms, prabhupada.io",
+    "description":"came to His residential place."
+}
+---
 
 ==== āilā vāsa-aghara  ====
   * came to His residential place --- [[books:cc:madhya:25:167|Madhya 25.167]]

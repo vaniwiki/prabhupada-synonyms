@@ -1,5 +1,11 @@
-~~Title:ksma~~
-{{description>earth; the planet earth.}}
+---json
+{
+    "name":"ksma",
+    "h1":"ksma",
+    "title":"ksma -- synonyms, prabhupada.io",
+    "description":"earth; the planet earth."
+}
+---
 
 ==== kṣmā  ====
   * earth --- [[books:sb:3:32:9|SB 3.32.9]]

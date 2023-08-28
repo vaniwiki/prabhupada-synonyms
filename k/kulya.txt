@@ -1,5 +1,11 @@
-~~Title:kulyā~~
-{{description>Madhukulyā.}}
+---json
+{
+    "name":"kulyā",
+    "h1":"kulyā",
+    "title":"kulyā -- synonyms, prabhupada.io",
+    "description":"Madhukulyā."
+}
+---
 
 ==== madhu-kulyā  ====
   * Madhukulyā --- [[books:sb:5:20:15|SB 5.20.15]]

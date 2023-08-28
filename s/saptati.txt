@@ -1,5 +1,11 @@
-~~Title:saptati~~
-{{description>seventy-eight.}}
+---json
+{
+    "name":"saptati",
+    "h1":"saptati",
+    "title":"saptati -- synonyms, prabhupada.io",
+    "description":"seventy-eight."
+}
+---
 
 ==== aṣṭa-saptati  ====
   * seventy-eight --- [[books:sb:9:20:24-26|SB 9.20.24-26]]

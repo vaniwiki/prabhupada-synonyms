@@ -1,5 +1,11 @@
-~~Title:ājñāte~~
-{{description>by the order.}}
+---json
+{
+    "name":"ājñāte",
+    "h1":"ājñāte",
+    "title":"ājñāte -- synonyms, prabhupada.io",
+    "description":"by the order."
+}
+---
 
 ==== ājñāte  ====
   * by the order --- [[books:cc:madhya:6:126|Madhya 6.126]], [[books:cc:madhya:7:45|Madhya 7.45]]

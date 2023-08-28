@@ -1,5 +1,11 @@
-~~Title:agrajāya~~
-{{description>to your elder brother.}}
+---json
+{
+    "name":"agrajāya",
+    "h1":"agrajāya",
+    "title":"agrajāya -- synonyms, prabhupada.io",
+    "description":"to your elder brother."
+}
+---
 
 ==== agrajāya  ====
   * to your elder brother --- [[books:sb:9:22:14-15|SB 9.22.14-15]]

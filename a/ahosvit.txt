@@ -1,5 +1,11 @@
-~~Title:āhosvit~~
-{{description>or.}}
+---json
+{
+    "name":"āhosvit",
+    "h1":"āhosvit",
+    "title":"āhosvit -- synonyms, prabhupada.io",
+    "description":"or."
+}
+---
 
 ==== āhosvit  ====
   * or --- [[books:sb:5:26:4|SB 5.26.4]], [[books:sb:6:9:35|SB 6.9.35]]

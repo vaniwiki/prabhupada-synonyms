@@ -1,5 +1,11 @@
-~~Title:tāluḥ~~
-{{description>palate.}}
+---json
+{
+    "name":"tāluḥ",
+    "h1":"tāluḥ",
+    "title":"tāluḥ -- synonyms, prabhupada.io",
+    "description":"palate."
+}
+---
 
 ==== tāluḥ  ====
   * palate --- [[books:sb:1:18:27|SB 1.18.27]]

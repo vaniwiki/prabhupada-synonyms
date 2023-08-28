@@ -1,5 +1,11 @@
-~~Title:samarpayat~~
-{{description>delivered.}}
+---json
+{
+    "name":"samarpayat",
+    "h1":"samarpayat",
+    "title":"samarpayat -- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== samarpayat  ====
   * delivered --- [[books:sb:9:15:35-36|SB 9.15.35-36]]

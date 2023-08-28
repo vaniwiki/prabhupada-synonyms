@@ -1,5 +1,11 @@
-~~Title:krudhām~~
-{{description>anger.}}
+---json
+{
+    "name":"krudhām",
+    "h1":"krudhām",
+    "title":"krudhām -- synonyms, prabhupada.io",
+    "description":"anger."
+}
+---
 
 ==== krudhām  ====
   * anger --- [[books:cc:madhya:14:174|Madhya 14.174]]

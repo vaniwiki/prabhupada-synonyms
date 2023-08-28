@@ -1,5 +1,11 @@
-~~Title:dhundhurī~~
-{{description>another drum.}}
+---json
+{
+    "name":"dhundhurī",
+    "h1":"dhundhurī",
+    "title":"dhundhurī -- synonyms, prabhupada.io",
+    "description":"another drum."
+}
+---
 
 ==== dhundhurī  ====
   * another drum --- [[books:sb:1:10:15|SB 1.10.15]]

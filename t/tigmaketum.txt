@@ -1,5 +1,11 @@
-~~Title:tigmaketum~~
-{{description>Tigmaketu.}}
+---json
+{
+    "name":"tigmaketum",
+    "h1":"tigmaketum",
+    "title":"tigmaketum -- synonyms, prabhupada.io",
+    "description":"Tigmaketu."
+}
+---
 
 ==== tigmaketum  ====
   * Tigmaketu --- [[books:sb:4:13:12|SB 4.13.12]]

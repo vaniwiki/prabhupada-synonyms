@@ -1,5 +1,11 @@
-~~Title:prapatsyete~~
-{{description>will get back.}}
+---json
+{
+    "name":"prapatsyete",
+    "h1":"prapatsyete",
+    "title":"prapatsyete -- synonyms, prabhupada.io",
+    "description":"will get back."
+}
+---
 
 ==== prapatsyete  ====
   * will get back --- [[books:sb:3:19:29|SB 3.19.29]]

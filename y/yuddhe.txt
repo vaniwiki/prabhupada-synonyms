@@ -1,5 +1,11 @@
-~~Title:yuddhe~~
-{{description>in battle; in the fight; in the fighting; in this battlefield; in war.}}
+---json
+{
+    "name":"yuddhe",
+    "h1":"yuddhe",
+    "title":"yuddhe -- synonyms, prabhupada.io",
+    "description":"in battle; in the fight; in the fighting; in this battlefield; in war."
+}
+---
 
 ==== yuddhe  ====
   * in battle --- [[books:bg:18:43|Bg. 18.43]], [[books:sb:7:3:37-38|SB 7.3.37-38]]

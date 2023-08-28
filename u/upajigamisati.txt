@@ -1,5 +1,11 @@
-~~Title:upajigamiṣati~~
-{{description>desires to follow.}}
+---json
+{
+    "name":"upajigamiṣati",
+    "h1":"upajigamiṣati",
+    "title":"upajigamiṣati -- synonyms, prabhupada.io",
+    "description":"desires to follow."
+}
+---
 
 ==== upajigamiṣati  ====
   * desires to follow --- [[books:sb:5:24:26|SB 5.24.26]]

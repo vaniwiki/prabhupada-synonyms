@@ -1,5 +1,11 @@
-~~Title:sthāvara~~
-{{description>dead; immovable; not moving; of nonmoving living entities; the trees and plants.}}
+---json
+{
+    "name":"sthāvara",
+    "h1":"sthāvara",
+    "title":"sthāvara -- synonyms, prabhupada.io",
+    "description":"dead; immovable; not moving; of nonmoving living entities; the trees and plants."
+}
+---
 
 ==== sthāvara  ====
   * dead --- [[books:cc:antya:16:144|Antya 16.144]]

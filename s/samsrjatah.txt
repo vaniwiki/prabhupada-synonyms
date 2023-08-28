@@ -1,5 +1,11 @@
-~~Title:saṁsṛjataḥ~~
-{{description>generating.}}
+---json
+{
+    "name":"saṁsṛjataḥ",
+    "h1":"saṁsṛjataḥ",
+    "title":"saṁsṛjataḥ -- synonyms, prabhupada.io",
+    "description":"generating."
+}
+---
 
 ==== saṁsṛjataḥ  ====
   * generating --- [[books:sb:3:9:35|SB 3.9.35]]

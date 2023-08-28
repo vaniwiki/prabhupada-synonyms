@@ -1,5 +1,11 @@
-~~Title:tyajeta~~
-{{description>can give up; must give up.}}
+---json
+{
+    "name":"tyajeta",
+    "h1":"tyajeta",
+    "title":"tyajeta -- synonyms, prabhupada.io",
+    "description":"can give up; must give up."
+}
+---
 
 ==== tyajeta  ====
   * can give up --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

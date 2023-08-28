@@ -1,5 +1,11 @@
-~~Title:bhaṅguraiḥ~~
-{{description>perishable at any moment; temporary.}}
+---json
+{
+    "name":"bhaṅguraiḥ",
+    "h1":"bhaṅguraiḥ",
+    "title":"bhaṅguraiḥ -- synonyms, prabhupada.io",
+    "description":"perishable at any moment; temporary."
+}
+---
 
 ==== kṣaṇa-bhaṅguraiḥ  ====
   * perishable at any moment --- [[books:sb:6:10:10|SB 6.10.10]]

@@ -1,5 +1,11 @@
-~~Title:yajñeśaḥ~~
-{{description>the proprietor or the supreme enjoyer.}}
+---json
+{
+    "name":"yajñeśaḥ",
+    "h1":"yajñeśaḥ",
+    "title":"yajñeśaḥ -- synonyms, prabhupada.io",
+    "description":"the proprietor or the supreme enjoyer."
+}
+---
 
 ==== yajñeśaḥ  ====
   * the proprietor or the supreme enjoyer --- [[books:sb:1:3:7|SB 1.3.7]]

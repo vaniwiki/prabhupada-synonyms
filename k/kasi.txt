@@ -1,5 +1,11 @@
-~~Title:kāśī~~
-{{description>in Benares; Kāśīśvara; to the holy place named Kāśī; Vārāṇasī.}}
+---json
+{
+    "name":"kāśī",
+    "h1":"kāśī",
+    "title":"kāśī -- synonyms, prabhupada.io",
+    "description":"in Benares; Kāśīśvara; to the holy place named Kāśī; Vārāṇasī."
+}
+---
 
 ==== kāśī  ====
   * in Benares --- [[books:cc:madhya:1:238|Madhya 1.238]]

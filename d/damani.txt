@@ -1,5 +1,11 @@
-~~Title:damani~~
-{{description>all the ropes available in the household.}}
+---json
+{
+    "name":"damani",
+    "h1":"damani",
+    "title":"damani -- synonyms, prabhupada.io",
+    "description":"all the ropes available in the household."
+}
+---
 
 ==== sva-geha-dāmāni  ====
   * all the ropes available in the household --- [[books:sb:10:9:17|SB 10.9.17]]

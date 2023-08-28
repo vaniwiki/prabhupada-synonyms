@@ -1,5 +1,11 @@
-~~Title:jiti~~
-{{description>let me become victorious.}}
+---json
+{
+    "name":"jiti",
+    "h1":"jiti",
+    "title":"jiti -- synonyms, prabhupada.io",
+    "description":"let me become victorious."
+}
+---
 
 ==== āmi jiti  ====
   * let me become victorious --- [[books:cc:antya:7:122|Antya 7.122]]

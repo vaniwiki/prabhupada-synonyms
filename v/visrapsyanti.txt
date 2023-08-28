@@ -1,5 +1,11 @@
-~~Title:visrapsyanti~~
-{{description>will spread.}}
+---json
+{
+    "name":"visrapsyanti",
+    "h1":"visrapsyanti",
+    "title":"visrapsyanti -- synonyms, prabhupada.io",
+    "description":"will spread."
+}
+---
 
 ==== visrapsyanti  ====
   * will spread --- [[books:sb:4:1:31|SB 4.1.31]]

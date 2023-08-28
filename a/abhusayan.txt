@@ -1,5 +1,11 @@
-~~Title:abhūṣayan~~
-{{description>in spite of being decorated by their mothers, the boys decorated themselves still more with the above-mentioned articles.}}
+---json
+{
+    "name":"abhūṣayan",
+    "h1":"abhūṣayan",
+    "title":"abhūṣayan -- synonyms, prabhupada.io",
+    "description":"in spite of being decorated by their mothers, the boys decorated themselves still more with the above-mentioned articles."
+}
+---
 
 ==== api abhūṣayan  ====
   * in spite of being decorated by their mothers, the boys decorated themselves still more with the above-mentioned articles --- [[books:sb:10:12:4|SB 10.12.4]]

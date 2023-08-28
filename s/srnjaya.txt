@@ -1,5 +1,11 @@
-~~Title:sṛñjaya~~
-{{description>King Sṛñjaya.}}
+---json
+{
+    "name":"sṛñjaya",
+    "h1":"sṛñjaya",
+    "title":"sṛñjaya -- synonyms, prabhupada.io",
+    "description":"King Sṛñjaya."
+}
+---
 
 ==== sṛñjaya  ====
   * King Sṛñjaya --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

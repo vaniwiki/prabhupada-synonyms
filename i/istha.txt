@@ -1,5 +1,11 @@
-~~Title:iṣṭha~~
-{{description>discussion on Kṛṣṇa.}}
+---json
+{
+    "name":"iṣṭha",
+    "h1":"iṣṭha",
+    "title":"iṣṭha -- synonyms, prabhupada.io",
+    "description":"discussion on Kṛṣṇa."
+}
+---
 
 ==== iṣṭha-goṣṭhī  ====
   * discussion on Kṛṣṇa --- [[books:cc:antya:8:10|Antya 8.10]]

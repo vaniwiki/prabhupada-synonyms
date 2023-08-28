@@ -1,5 +1,11 @@
-~~Title:śikhe~~
-{{description>learn.}}
+---json
+{
+    "name":"śikhe",
+    "h1":"śikhe",
+    "title":"śikhe -- synonyms, prabhupada.io",
+    "description":"learn."
+}
+---
 
 ==== śikhe  ====
   * learn --- [[books:cc:madhya:8:183-184|Madhya 8.183-184]]

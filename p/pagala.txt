@@ -1,5 +1,11 @@
-~~Title:pāgala~~
-{{description>foolish; intoxicated; mad; madman; You are a madman.}}
+---json
+{
+    "name":"pāgala",
+    "h1":"pāgala",
+    "title":"pāgala -- synonyms, prabhupada.io",
+    "description":"foolish; intoxicated; mad; madman; You are a madman."
+}
+---
 
 ==== pāgala  ====
   * foolish --- [[books:cc:antya:12:60|Antya 12.60]]

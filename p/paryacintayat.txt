@@ -1,5 +1,11 @@
-~~Title:paryacintayat~~
-{{description>thought.}}
+---json
+{
+    "name":"paryacintayat",
+    "h1":"paryacintayat",
+    "title":"paryacintayat -- synonyms, prabhupada.io",
+    "description":"thought."
+}
+---
 
 ==== paryacintayat  ====
   * thought --- [[books:sb:6:18:23|SB 6.18.23]]

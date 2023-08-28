@@ -1,5 +1,11 @@
-~~Title:samavākiran~~
-{{description>covered.}}
+---json
+{
+    "name":"samavākiran",
+    "h1":"samavākiran",
+    "title":"samavākiran -- synonyms, prabhupada.io",
+    "description":"covered."
+}
+---
 
 ==== samavākiran  ====
   * covered --- [[books:sb:8:18:9-10|SB 8.18.9-10]]

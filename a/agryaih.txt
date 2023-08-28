@@ -1,5 +1,11 @@
-~~Title:agryaiḥ~~
-{{description>choicest.}}
+---json
+{
+    "name":"agryaiḥ",
+    "h1":"agryaiḥ",
+    "title":"agryaiḥ -- synonyms, prabhupada.io",
+    "description":"choicest."
+}
+---
 
 ==== agryaiḥ  ====
   * choicest --- [[books:sb:3:23:19|SB 3.23.19]]

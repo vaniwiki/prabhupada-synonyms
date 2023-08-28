@@ -1,5 +1,11 @@
-~~Title:kukṣi~~
-{{description>the abdomen.}}
+---json
+{
+    "name":"kukṣi",
+    "h1":"kukṣi",
+    "title":"kukṣi -- synonyms, prabhupada.io",
+    "description":"the abdomen."
+}
+---
 
 ==== kukṣi  ====
   * the abdomen --- [[books:sb:2:10:29|SB 2.10.29]]

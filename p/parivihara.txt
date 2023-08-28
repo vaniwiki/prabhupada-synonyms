@@ -1,5 +1,11 @@
-~~Title:parivihāra~~
-{{description>pleasure-grounds.}}
+---json
+{
+    "name":"parivihāra",
+    "h1":"parivihāra",
+    "title":"parivihāra -- synonyms, prabhupada.io",
+    "description":"pleasure-grounds."
+}
+---
 
 ==== parivihāra-bhuvaḥ  ====
   * pleasure-grounds --- [[books:sb:4:12:16|SB 4.12.16]]

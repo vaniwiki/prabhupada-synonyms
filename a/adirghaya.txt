@@ -1,5 +1,11 @@
-~~Title:adīrghayā~~
-{{description>for some days.}}
+---json
+{
+    "name":"adīrghayā",
+    "h1":"adīrghayā",
+    "title":"adīrghayā -- synonyms, prabhupada.io",
+    "description":"for some days."
+}
+---
 
 ==== adīrghayā  ====
   * for some days --- [[books:sb:1:6:23|SB 1.6.23]]

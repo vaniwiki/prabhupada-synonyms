@@ -1,5 +1,11 @@
-~~Title:kāñcīte~~
-{{description>at Viṣṇu-kāñcī.}}
+---json
+{
+    "name":"kāñcīte",
+    "h1":"kāñcīte",
+    "title":"kāñcīte -- synonyms, prabhupada.io",
+    "description":"at Viṣṇu-kāñcī."
+}
+---
 
 ==== viṣṇu-kāñcīte  ====
   * at Viṣṇu-kāñcī --- [[books:cc:madhya:20:217|Madhya 20.217]]

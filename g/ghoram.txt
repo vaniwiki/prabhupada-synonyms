@@ -1,5 +1,11 @@
-~~Title:ghoram~~
-{{description>extremely fierce; fearful; ghastly; harmful to others; horrible; intolerant; severe; terrible; very fearful; very severe.}}
+---json
+{
+    "name":"ghoram",
+    "h1":"ghoram",
+    "title":"ghoram -- synonyms, prabhupada.io",
+    "description":"extremely fierce; fearful; ghastly; harmful to others; horrible; intolerant; severe; terrible; very fearful; very severe."
+}
+---
 
 ==== ghoram  ====
   * extremely fierce --- [[books:sb:9:15:28|SB 9.15.28]]

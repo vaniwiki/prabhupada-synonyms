@@ -1,5 +1,11 @@
-~~Title:jalaukasām~~
-{{description>of the aquatics.}}
+---json
+{
+    "name":"jalaukasām",
+    "h1":"jalaukasām",
+    "title":"jalaukasām -- synonyms, prabhupada.io",
+    "description":"of the aquatics."
+}
+---
 
 ==== jalaukasām  ====
   * of the aquatics --- [[books:sb:1:15:25-26|SB 1.15.25-26]]

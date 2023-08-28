@@ -1,5 +1,11 @@
-~~Title:sūryaḥ~~
-{{description>sun; the sun; the sun globe; the sun-god.}}
+---json
+{
+    "name":"sūryaḥ",
+    "h1":"sūryaḥ",
+    "title":"sūryaḥ -- synonyms, prabhupada.io",
+    "description":"sun; the sun; the sun globe; the sun-god."
+}
+---
 
 ==== sūryaḥ  ====
   * sun --- [[books:bg:15:6|Bg. 15.6]], [[books:sb:3:29:40|SB 3.29.40]], [[books:sb:4:10:14|SB 4.10.14]], [[books:sb:7:15:54|SB 7.15.54]]

@@ -1,5 +1,11 @@
-~~Title:rephān~~
-{{description>all sound vibrations.}}
+---json
+{
+    "name":"rephān",
+    "h1":"rephān",
+    "title":"rephān -- synonyms, prabhupada.io",
+    "description":"all sound vibrations."
+}
+---
 
 ==== samasta-rephān  ====
   * all sound vibrations --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

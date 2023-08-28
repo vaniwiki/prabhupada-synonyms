@@ -1,5 +1,11 @@
-~~Title:badale~~
-{{description>in exchange.}}
+---json
+{
+    "name":"badale",
+    "h1":"badale",
+    "title":"badale -- synonyms, prabhupada.io",
+    "description":"in exchange."
+}
+---
 
 ==== badale  ====
   * in exchange --- [[books:cc:adi:17:181|Ādi 17.181]]

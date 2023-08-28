@@ -1,5 +1,11 @@
-~~Title:ketanaḥ~~
-{{description>this body.}}
+---json
+{
+    "name":"ketanaḥ",
+    "h1":"ketanaḥ",
+    "title":"ketanaḥ -- synonyms, prabhupada.io",
+    "description":"this body."
+}
+---
 
 ==== ketanaḥ  ====
   * this body --- [[books:sb:4:24:67|SB 4.24.67]]

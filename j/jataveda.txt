@@ -1,5 +1,11 @@
-~~Title:jātaveda~~
-{{description>the demigod of fire.}}
+---json
+{
+    "name":"jātaveda",
+    "h1":"jātaveda",
+    "title":"jātaveda -- synonyms, prabhupada.io",
+    "description":"the demigod of fire."
+}
+---
 
 ==== jātaveda  ====
   * the demigod of fire --- [[books:sb:5:20:16|SB 5.20.16]]

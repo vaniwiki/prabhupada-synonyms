@@ -1,5 +1,11 @@
-~~Title:vāyubhiḥ~~
-{{description>by the air.}}
+---json
+{
+    "name":"vāyubhiḥ",
+    "h1":"vāyubhiḥ",
+    "title":"vāyubhiḥ -- synonyms, prabhupada.io",
+    "description":"by the air."
+}
+---
 
 ==== vāyubhiḥ  ====
   * by the air --- [[books:sb:2:10:31|SB 2.10.31]]

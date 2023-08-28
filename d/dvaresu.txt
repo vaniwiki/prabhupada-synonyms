@@ -1,5 +1,11 @@
-~~Title:dvāreṣu~~
-{{description>all the gates.}}
+---json
+{
+    "name":"dvāreṣu",
+    "h1":"dvāreṣu",
+    "title":"dvāreṣu -- synonyms, prabhupada.io",
+    "description":"all the gates."
+}
+---
 
 ==== sarva-dvāreṣu  ====
   * all the gates --- [[books:bg:14:11|Bg. 14.11]]

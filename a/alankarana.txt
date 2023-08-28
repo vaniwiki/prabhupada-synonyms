@@ -1,5 +1,11 @@
-~~Title:alaṅkaraṇa~~
-{{description>by personal ornaments.}}
+---json
+{
+    "name":"alaṅkaraṇa",
+    "h1":"alaṅkaraṇa",
+    "title":"alaṅkaraṇa -- synonyms, prabhupada.io",
+    "description":"by personal ornaments."
+}
+---
 
 ==== sva-alaṅkaraṇa  ====
   * by personal ornaments --- [[books:cc:madhya:14:189|Madhya 14.189]]

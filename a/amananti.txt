@@ -1,5 +1,11 @@
-~~Title:āmananti~~
-{{description>acknowledge; discuss; do accept; do they know; they accept; they call it so; they honor; they say; worship.}}
+---json
+{
+    "name":"āmananti",
+    "h1":"āmananti",
+    "title":"āmananti -- synonyms, prabhupada.io",
+    "description":"acknowledge; discuss; do accept; do they know; they accept; they call it so; they honor; they say; worship."
+}
+---
 
 ==== āmananti  ====
   * acknowledge --- [[books:sb:3:8:4|SB 3.8.4]]

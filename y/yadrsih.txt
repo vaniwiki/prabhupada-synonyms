@@ -1,5 +1,11 @@
-~~Title:yādṛśīḥ~~
-{{description>as it may.}}
+---json
+{
+    "name":"yādṛśīḥ",
+    "h1":"yādṛśīḥ",
+    "title":"yādṛśīḥ -- synonyms, prabhupada.io",
+    "description":"as it may."
+}
+---
 
 ==== yādṛśīḥ  ====
   * as it may --- [[books:sb:2:8:13|SB 2.8.13]]

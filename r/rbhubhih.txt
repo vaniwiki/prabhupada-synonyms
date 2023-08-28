@@ -1,5 +1,11 @@
-~~Title:ṛbhubhiḥ~~
-{{description>by the Ṛbhus.}}
+---json
+{
+    "name":"ṛbhubhiḥ",
+    "h1":"ṛbhubhiḥ",
+    "title":"ṛbhubhiḥ -- synonyms, prabhupada.io",
+    "description":"by the Ṛbhus."
+}
+---
 
 ==== ṛbhubhiḥ  ====
   * by the Ṛbhus --- [[books:sb:4:5:1|SB 4.5.1]], [[books:sb:6:7:2-8|SB 6.7.2-8]], [[books:sb:6:10:17-18|SB 6.10.17-18]]

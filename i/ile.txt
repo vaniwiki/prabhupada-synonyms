@@ -1,5 +1,11 @@
-~~Title:ile~~
-{{description>when there was consciousness.}}
+---json
+{
+    "name":"ile",
+    "h1":"ile",
+    "title":"ile -- synonyms, prabhupada.io",
+    "description":"when there was consciousness."
+}
+---
 
 ==== cetana ha-ile  ====
   * when there was consciousness --- [[books:cc:antya:17:21|Antya 17.21]]

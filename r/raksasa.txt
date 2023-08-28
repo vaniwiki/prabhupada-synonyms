@@ -1,5 +1,11 @@
-~~Title:raksasa~~
-{{description>by the demon; by the man-eating demon; by those who are like carnivorous human beings.}}
+---json
+{
+    "name":"raksasa",
+    "h1":"raksasa",
+    "title":"raksasa -- synonyms, prabhupada.io",
+    "description":"by the demon; by the man-eating demon; by those who are like carnivorous human beings."
+}
+---
 
 ==== rakṣasā  ====
   * by the demon --- [[books:sb:10:12:26|SB 10.12.26]]

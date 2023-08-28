@@ -1,5 +1,11 @@
-~~Title:upagacchati~~
-{{description>he obtains.}}
+---json
+{
+    "name":"upagacchati",
+    "h1":"upagacchati",
+    "title":"upagacchati -- synonyms, prabhupada.io",
+    "description":"he obtains."
+}
+---
 
 ==== upagacchati  ====
   * he obtains --- [[books:sb:5:14:15|SB 5.14.15]]

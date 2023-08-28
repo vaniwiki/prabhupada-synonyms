@@ -1,5 +1,11 @@
-~~Title:ruditam~~
-{{description>mother Yaśodā, crying pitifully; the crying.}}
+---json
+{
+    "name":"ruditam",
+    "h1":"ruditam",
+    "title":"ruditam -- synonyms, prabhupada.io",
+    "description":"mother Yaśodā, crying pitifully; the crying."
+}
+---
 
 ==== ruditam  ====
   * mother Yaśodā, crying pitifully --- [[books:sb:10:7:25|SB 10.7.25]]

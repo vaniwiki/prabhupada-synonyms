@@ -1,5 +1,11 @@
-~~Title:valguhāsa~~
-{{description>sweet smiling.}}
+---json
+{
+    "name":"valguhāsa",
+    "h1":"valguhāsa",
+    "title":"valguhāsa -- synonyms, prabhupada.io",
+    "description":"sweet smiling."
+}
+---
 
 ==== valguhāsa  ====
   * sweet smiling --- [[books:sb:1:9:40|SB 1.9.40]]

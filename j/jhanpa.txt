@@ -1,5 +1,11 @@
-~~Title:jhāṅpa~~
-{{description>a plunge.}}
+---json
+{
+    "name":"jhāṅpa",
+    "h1":"jhāṅpa",
+    "title":"jhāṅpa -- synonyms, prabhupada.io",
+    "description":"a plunge."
+}
+---
 
 ==== jhāṅpa  ====
   * a plunge --- [[books:cc:madhya:19:79|Madhya 19.79]]

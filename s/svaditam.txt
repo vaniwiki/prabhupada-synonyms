@@ -1,5 +1,11 @@
-~~Title:svāditam~~
-{{description>tasted.}}
+---json
+{
+    "name":"svāditam",
+    "h1":"svāditam",
+    "title":"svāditam -- synonyms, prabhupada.io",
+    "description":"tasted."
+}
+---
 
 ==== svāditam  ====
   * tasted --- [[books:cc:madhya:25:283|Madhya 25.283]]

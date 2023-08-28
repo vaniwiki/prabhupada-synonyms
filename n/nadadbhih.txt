@@ -1,5 +1,11 @@
-~~Title:nadadbhiḥ~~
-{{description>roaring.}}
+---json
+{
+    "name":"nadadbhiḥ",
+    "h1":"nadadbhiḥ",
+    "title":"nadadbhiḥ -- synonyms, prabhupada.io",
+    "description":"roaring."
+}
+---
 
 ==== nadadbhiḥ  ====
   * roaring --- [[books:sb:4:5:6|SB 4.5.6]]

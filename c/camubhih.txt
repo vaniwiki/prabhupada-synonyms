@@ -1,5 +1,11 @@
-~~Title:camūbhiḥ~~
-{{description>by movement of soldiers.}}
+---json
+{
+    "name":"camūbhiḥ",
+    "h1":"camūbhiḥ",
+    "title":"camūbhiḥ -- synonyms, prabhupada.io",
+    "description":"by movement of soldiers."
+}
+---
 
 ==== camūbhiḥ  ====
   * by movement of soldiers --- [[books:sb:3:1:43|SB 3.1.43]]

@@ -1,5 +1,11 @@
-~~Title:karah~~
-{{description>acting; the taxes.}}
+---json
+{
+    "name":"karah",
+    "h1":"karah",
+    "title":"karah -- synonyms, prabhupada.io",
+    "description":"acting; the taxes."
+}
+---
 
 ==== karaḥ  ====
   * acting --- [[books:sb:4:12:42|SB 4.12.42]]

@@ -1,5 +1,11 @@
-~~Title:tyaja~~
-{{description>deliver; give up.}}
+---json
+{
+    "name":"tyaja",
+    "h1":"tyaja",
+    "title":"tyaja -- synonyms, prabhupada.io",
+    "description":"deliver; give up."
+}
+---
 
 ==== tyaja  ====
   * deliver --- [[books:sb:9:14:9|SB 9.14.9]]

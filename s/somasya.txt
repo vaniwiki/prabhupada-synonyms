@@ -1,5 +1,11 @@
-~~Title:somasya~~
-{{description>of soma-rasa; of the soma-rasa; of the moon; of the moon-god; of the nectar; this son belongs to Soma, the moon-god.}}
+---json
+{
+    "name":"somasya",
+    "h1":"somasya",
+    "title":"somasya -- synonyms, prabhupada.io",
+    "description":"of soma-rasa; of the soma-rasa; of the moon; of the moon-god; of the nectar; this son belongs to Soma, the moon-god."
+}
+---
 
 ==== somasya  ====
   * of //soma-rasa// --- [[books:sb:9:3:12|SB 9.3.12]], [[books:sb:9:3:26|SB 9.3.26]]

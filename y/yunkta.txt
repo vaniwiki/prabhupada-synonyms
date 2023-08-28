@@ -1,5 +1,11 @@
-~~Title:yuṅkta~~
-{{description>make ready.}}
+---json
+{
+    "name":"yuṅkta",
+    "h1":"yuṅkta",
+    "title":"yuṅkta -- synonyms, prabhupada.io",
+    "description":"make ready."
+}
+---
 
 ==== yuṅkta  ====
   * make ready --- [[books:sb:10:11:29|SB 10.11.29]]

@@ -1,5 +1,11 @@
-~~Title:ākāśera~~
-{{description>of the sky.}}
+---json
+{
+    "name":"ākāśera",
+    "h1":"ākāśera",
+    "title":"ākāśera -- synonyms, prabhupada.io",
+    "description":"of the sky."
+}
+---
 
 ==== ākāśera  ====
   * of the sky --- [[books:cc:madhya:19:217|Madhya 19.217]]

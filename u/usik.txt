@@ -1,5 +1,11 @@
-~~Title:uśik~~
-{{description>those who reside in the transcendental abode.}}
+---json
+{
+    "name":"uśik",
+    "h1":"uśik",
+    "title":"uśik -- synonyms, prabhupada.io",
+    "description":"those who reside in the transcendental abode."
+}
+---
 
 ==== uśik-kṣayāḥ  ====
   * those who reside in the transcendental abode --- [[books:sb:1:5:10|SB 1.5.10]]

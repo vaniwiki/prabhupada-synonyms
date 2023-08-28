@@ -1,5 +1,11 @@
-~~Title:vimohana~~
-{{description>for bewildering the groups of the gopīs.}}
+---json
+{
+    "name":"vimohana",
+    "h1":"vimohana",
+    "title":"vimohana -- synonyms, prabhupada.io",
+    "description":"for bewildering the groups of the gopīs."
+}
+---
 
 ==== gopā-aṅganā-gaṇa-vimohana  ====
   * for bewildering the groups of the //gopīs// --- [[books:cc:antya:1:162|Antya 1.162]]

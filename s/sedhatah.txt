@@ -1,5 +1,11 @@
-~~Title:ṣedhataḥ~~
-{{description>from restrictions.}}
+---json
+{
+    "name":"ṣedhataḥ",
+    "h1":"ṣedhataḥ",
+    "title":"ṣedhataḥ -- synonyms, prabhupada.io",
+    "description":"from restrictions."
+}
+---
 
 ==== ṣedhataḥ  ====
   * from restrictions --- [[books:sb:2:1:7|SB 2.1.7]]

@@ -1,5 +1,11 @@
-~~Title:vrajiṣyasi~~
-{{description>you will go.}}
+---json
+{
+    "name":"vrajiṣyasi",
+    "h1":"vrajiṣyasi",
+    "title":"vrajiṣyasi -- synonyms, prabhupada.io",
+    "description":"you will go."
+}
+---
 
 ==== vrajiṣyasi  ====
   * you will go --- [[books:sb:4:3:25|SB 4.3.25]]

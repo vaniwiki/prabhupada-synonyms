@@ -1,5 +1,11 @@
-~~Title:kṣudhitaḥ~~
-{{description>hungry.}}
+---json
+{
+    "name":"kṣudhitaḥ",
+    "h1":"kṣudhitaḥ",
+    "title":"kṣudhitaḥ -- synonyms, prabhupada.io",
+    "description":"hungry."
+}
+---
 
 ==== kṣudhitaḥ  ====
   * hungry --- [[books:sb:1:18:24-25|SB 1.18.24-25]]

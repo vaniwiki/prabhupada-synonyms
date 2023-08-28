@@ -1,5 +1,11 @@
-~~Title:toṣayet~~
-{{description>should satisfy.}}
+---json
+{
+    "name":"toṣayet",
+    "h1":"toṣayet",
+    "title":"toṣayet -- synonyms, prabhupada.io",
+    "description":"should satisfy."
+}
+---
 
 ==== toṣayet  ====
   * should satisfy --- [[books:sb:8:16:53|SB 8.16.53]]

@@ -1,5 +1,11 @@
-~~Title:purañjayasya~~
-{{description>of Purañjaya.}}
+---json
+{
+    "name":"purañjayasya",
+    "h1":"purañjayasya",
+    "title":"purañjayasya -- synonyms, prabhupada.io",
+    "description":"of Purañjaya."
+}
+---
 
 ==== purañjayasya  ====
   * of Purañjaya --- [[books:sb:9:6:20|SB 9.6.20]]

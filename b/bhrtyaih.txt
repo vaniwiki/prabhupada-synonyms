@@ -1,5 +1,11 @@
-~~Title:bhṛtyaiḥ~~
-{{description>by servants; surrounded by servants.}}
+---json
+{
+    "name":"bhṛtyaiḥ",
+    "h1":"bhṛtyaiḥ",
+    "title":"bhṛtyaiḥ -- synonyms, prabhupada.io",
+    "description":"by servants; surrounded by servants."
+}
+---
 
 ==== bhṛtyaiḥ  ====
   * by servants --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

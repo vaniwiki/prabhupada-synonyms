@@ -1,5 +1,11 @@
-~~Title:āpavargyasya~~
-{{description>ultimate liberation.}}
+---json
+{
+    "name":"āpavargyasya",
+    "h1":"āpavargyasya",
+    "title":"āpavargyasya -- synonyms, prabhupada.io",
+    "description":"ultimate liberation."
+}
+---
 
 ==== āpavargyasya  ====
   * ultimate liberation --- [[books:sb:1:2:9|SB 1.2.9]]

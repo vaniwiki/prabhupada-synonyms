@@ -1,5 +1,11 @@
-~~Title:vitoyāḥ~~
-{{description>without depth to the water.}}
+---json
+{
+    "name":"vitoyāḥ",
+    "h1":"vitoyāḥ",
+    "title":"vitoyāḥ -- synonyms, prabhupada.io",
+    "description":"without depth to the water."
+}
+---
 
 ==== vitoyāḥ  ====
   * without depth to the water --- [[books:sb:5:13:6|SB 5.13.6]]

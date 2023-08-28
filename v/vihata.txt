@@ -1,5 +1,11 @@
-~~Title:vihata~~
-{{description>disturbed; obstructed.}}
+---json
+{
+    "name":"vihata",
+    "h1":"vihata",
+    "title":"vihata -- synonyms, prabhupada.io",
+    "description":"disturbed; obstructed."
+}
+---
 
 ==== vihata  ====
   * disturbed --- [[books:sb:5:26:17|SB 5.26.17]]

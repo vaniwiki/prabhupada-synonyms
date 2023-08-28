@@ -1,5 +1,11 @@
-~~Title:sammārjita~~
-{{description>thoroughly cleansed.}}
+---json
+{
+    "name":"sammārjita",
+    "h1":"sammārjita",
+    "title":"sammārjita -- synonyms, prabhupada.io",
+    "description":"thoroughly cleansed."
+}
+---
 
 ==== sammārjita  ====
   * thoroughly cleansed --- [[books:sb:1:11:14|SB 1.11.14]]

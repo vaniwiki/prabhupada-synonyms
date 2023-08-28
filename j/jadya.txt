@@ -1,5 +1,11 @@
-~~Title:jāḍya~~
-{{description>dullness; loss of memory; stunned.}}
+---json
+{
+    "name":"jāḍya",
+    "h1":"jāḍya",
+    "title":"jāḍya -- synonyms, prabhupada.io",
+    "description":"dullness; loss of memory; stunned."
+}
+---
 
 ==== jāḍya  ====
   * dullness --- [[books:cc:madhya:6:224|Madhya 6.224]]

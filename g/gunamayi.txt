@@ -1,5 +1,11 @@
-~~Title:guṇamayī~~
-{{description>consisting of the three modes of material nature.}}
+---json
+{
+    "name":"guṇamayī",
+    "h1":"guṇamayī",
+    "title":"guṇamayī -- synonyms, prabhupada.io",
+    "description":"consisting of the three modes of material nature."
+}
+---
 
 ==== guṇamayī  ====
   * consisting of the three modes of material nature --- [[books:bg:7:14|Bg. 7.14]]

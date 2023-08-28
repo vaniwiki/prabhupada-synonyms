@@ -1,5 +1,11 @@
-~~Title:prapaśyanti~~
-{{description>directly see.}}
+---json
+{
+    "name":"prapaśyanti",
+    "h1":"prapaśyanti",
+    "title":"prapaśyanti -- synonyms, prabhupada.io",
+    "description":"directly see."
+}
+---
 
 ==== prapaśyanti  ====
   * directly see --- [[books:sb:8:3:27|SB 8.3.27]]

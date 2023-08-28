@@ -1,5 +1,11 @@
-~~Title:vālukaiḥ~~
-{{description>resembling grains of sand.}}
+---json
+{
+    "name":"vālukaiḥ",
+    "h1":"vālukaiḥ",
+    "title":"vālukaiḥ -- synonyms, prabhupada.io",
+    "description":"resembling grains of sand."
+}
+---
 
 ==== vālukaiḥ  ====
   * resembling grains of sand --- [[books:sb:8:2:8|SB 8.2.8]]

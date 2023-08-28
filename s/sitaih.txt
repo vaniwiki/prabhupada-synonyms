@@ -1,5 +1,11 @@
-~~Title:śītaiḥ~~
-{{description>cold.}}
+---json
+{
+    "name":"śītaiḥ",
+    "h1":"śītaiḥ",
+    "title":"śītaiḥ -- synonyms, prabhupada.io",
+    "description":"cold."
+}
+---
 
 ==== śītaiḥ  ====
   * cold --- [[books:sb:4:9:44|SB 4.9.44]]

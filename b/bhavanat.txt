@@ -1,5 +1,11 @@
-~~Title:bhavanāt~~
-{{description>from the home; from the house of.}}
+---json
+{
+    "name":"bhavanāt",
+    "h1":"bhavanāt",
+    "title":"bhavanāt -- synonyms, prabhupada.io",
+    "description":"from the home; from the house of."
+}
+---
 
 ==== bhavanāt  ====
   * from the home --- [[books:sb:3:9:2|SB 3.9.2]]

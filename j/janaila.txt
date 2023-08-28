@@ -1,5 +1,11 @@
-~~Title:janaila~~
-{{description>disclosed; informed; made known.}}
+---json
+{
+    "name":"janaila",
+    "h1":"janaila",
+    "title":"janaila -- synonyms, prabhupada.io",
+    "description":"disclosed; informed; made known."
+}
+---
 
 ==== jānāila  ====
   * disclosed --- [[books:cc:madhya:9:291|Madhya 9.291]]

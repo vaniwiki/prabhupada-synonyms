@@ -1,5 +1,11 @@
-~~Title:pā'na~~
-{{description>get; gets.}}
+---json
+{
+    "name":"pā'na",
+    "h1":"pā'na",
+    "title":"pā'na -- synonyms, prabhupada.io",
+    "description":"get; gets."
+}
+---
 
 ==== pā'na  ====
   * get --- [[books:cc:madhya:18:223|Madhya 18.223]]

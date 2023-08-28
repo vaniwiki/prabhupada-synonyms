@@ -1,5 +1,11 @@
-~~Title:aprayatā~~
-{{description>without being purified.}}
+---json
+{
+    "name":"aprayatā",
+    "h1":"aprayatā",
+    "title":"aprayatā -- synonyms, prabhupada.io",
+    "description":"without being purified."
+}
+---
 
 ==== aprayatā  ====
   * without being purified --- [[books:sb:6:18:51|SB 6.18.51]]

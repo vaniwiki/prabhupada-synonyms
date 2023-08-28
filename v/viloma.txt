@@ -1,5 +1,11 @@
-~~Title:viloma~~
-{{description>Vilomā.}}
+---json
+{
+    "name":"viloma",
+    "h1":"viloma",
+    "title":"viloma -- synonyms, prabhupada.io",
+    "description":"Vilomā."
+}
+---
 
 ==== vilomā  ====
   * Vilomā --- [[books:sb:9:24:19|SB 9.24.19]]

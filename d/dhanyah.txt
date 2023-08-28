@@ -1,5 +1,11 @@
-~~Title:dhanyah~~
-{{description>all success; glorified.}}
+---json
+{
+    "name":"dhanyah",
+    "h1":"dhanyah",
+    "title":"dhanyah -- synonyms, prabhupada.io",
+    "description":"all success; glorified."
+}
+---
 
 ==== dhanyaḥ  ====
   * all success --- [[books:sb:1:6:38|SB 1.6.38]]

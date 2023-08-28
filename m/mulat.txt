@@ -1,5 +1,11 @@
-~~Title:mūlāt~~
-{{description>from the lotus feet.}}
+---json
+{
+    "name":"mūlāt",
+    "h1":"mūlāt",
+    "title":"mūlāt -- synonyms, prabhupada.io",
+    "description":"from the lotus feet."
+}
+---
 
 ==== pāda-mūlāt  ====
   * from the lotus feet --- [[books:cc:adi:4:125|Ādi 4.125]]

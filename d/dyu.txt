@@ -1,5 +1,11 @@
-~~Title:dyu~~
-{{description>the illuminating stars and planets.}}
+---json
+{
+    "name":"dyu",
+    "h1":"dyu",
+    "title":"dyu -- synonyms, prabhupada.io",
+    "description":"the illuminating stars and planets."
+}
+---
 
 ==== dyu-bhāsaḥ  ====
   * the illuminating stars and planets --- [[books:cc:madhya:21:11|Madhya 21.11]]

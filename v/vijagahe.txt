@@ -1,5 +1,11 @@
-~~Title:vijagāhe~~
-{{description>dived.}}
+---json
+{
+    "name":"vijagāhe",
+    "h1":"vijagāhe",
+    "title":"vijagāhe -- synonyms, prabhupada.io",
+    "description":"dived."
+}
+---
 
 ==== vijagāhe  ====
   * dived --- [[books:sb:3:17:24|SB 3.17.24]]

@@ -1,5 +1,11 @@
-~~Title:vinigrahaḥ~~
-{{description>control.}}
+---json
+{
+    "name":"vinigrahaḥ",
+    "h1":"vinigrahaḥ",
+    "title":"vinigrahaḥ -- synonyms, prabhupada.io",
+    "description":"control."
+}
+---
 
 ==== vinigrahaḥ  ====
   * control --- [[books:bg:17:16|Bg. 17.16]]

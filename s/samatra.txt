@@ -1,5 +1,11 @@
-~~Title:samātrā~~
-{{description>by your stepmother.}}
+---json
+{
+    "name":"samātrā",
+    "h1":"samātrā",
+    "title":"samātrā -- synonyms, prabhupada.io",
+    "description":"by your stepmother."
+}
+---
 
 ==== samātrā api  ====
   * by your stepmother --- [[books:sb:4:8:19|SB 4.8.19]]

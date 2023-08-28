@@ -1,5 +1,11 @@
-~~Title:ārabhate~~
-{{description>begins; begins to perform.}}
+---json
+{
+    "name":"ārabhate",
+    "h1":"ārabhate",
+    "title":"ārabhate -- synonyms, prabhupada.io",
+    "description":"begins; begins to perform."
+}
+---
 
 ==== ārabhate  ====
   * begins --- [[books:bg:3:7|Bg. 3.7]], [[books:sb:4:18:5|SB 4.18.5]], [[books:sb:4:29:60|SB 4.29.60]], [[books:sb:7:7:47|SB 7.7.47]]

@@ -1,5 +1,11 @@
-~~Title:śrayeta~~
-{{description>take shelter of; the vānaprastha should take shelter of.}}
+---json
+{
+    "name":"śrayeta",
+    "h1":"śrayeta",
+    "title":"śrayeta -- synonyms, prabhupada.io",
+    "description":"take shelter of; the vānaprastha should take shelter of."
+}
+---
 
 ==== śrayeta  ====
   * take shelter of --- [[books:sb:2:7:7|SB 2.7.7]]

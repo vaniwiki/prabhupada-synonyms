@@ -1,5 +1,11 @@
-~~Title:caturāli~~
-{{description>very intelligent argument.}}
+---json
+{
+    "name":"caturāli",
+    "h1":"caturāli",
+    "title":"caturāli -- synonyms, prabhupada.io",
+    "description":"very intelligent argument."
+}
+---
 
 ==== caturāli  ====
   * very intelligent argument --- [[books:cc:madhya:20:366|Madhya 20.366]]

@@ -1,5 +1,11 @@
-~~Title:ruṭ~~
-{{description>anger.}}
+---json
+{
+    "name":"ruṭ",
+    "h1":"ruṭ",
+    "title":"ruṭ -- synonyms, prabhupada.io",
+    "description":"anger."
+}
+---
 
 ==== ruṭ  ====
   * anger --- [[books:sb:10:13:60|SB 10.13.60]]

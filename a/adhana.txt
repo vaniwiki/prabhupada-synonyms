@@ -1,5 +1,11 @@
-~~Title:adhana~~
-{{description>to those who have no material possessions.}}
+---json
+{
+    "name":"adhana",
+    "h1":"adhana",
+    "title":"adhana -- synonyms, prabhupada.io",
+    "description":"to those who have no material possessions."
+}
+---
 
 ==== adhana  ====
   * to those who have no material possessions --- [[books:sb:4:31:21|SB 4.31.21]]

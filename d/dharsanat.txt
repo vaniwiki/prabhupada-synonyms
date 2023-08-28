@@ -1,5 +1,11 @@
-~~Title:dharṣaṇāt~~
-{{description>from offending.}}
+---json
+{
+    "name":"dharṣaṇāt",
+    "h1":"dharṣaṇāt",
+    "title":"dharṣaṇāt -- synonyms, prabhupada.io",
+    "description":"from offending."
+}
+---
 
 ==== dharṣaṇāt  ====
   * from offending --- [[books:sb:9:18:3|SB 9.18.3]]

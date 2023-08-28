@@ -1,5 +1,11 @@
-~~Title:mṛduḥ~~
-{{description>very mild.}}
+---json
+{
+    "name":"mṛduḥ",
+    "h1":"mṛduḥ",
+    "title":"mṛduḥ -- synonyms, prabhupada.io",
+    "description":"very mild."
+}
+---
 
 ==== mṛduḥ  ====
   * very mild --- [[books:sb:6:1:56-57|SB 6.1.56-57]]

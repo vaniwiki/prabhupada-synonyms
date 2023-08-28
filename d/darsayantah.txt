@@ -1,5 +1,11 @@
-~~Title:darśayantaḥ~~
-{{description>showing.}}
+---json
+{
+    "name":"darśayantaḥ",
+    "h1":"darśayantaḥ",
+    "title":"darśayantaḥ -- synonyms, prabhupada.io",
+    "description":"showing."
+}
+---
 
 ==== darśayantaḥ  ====
   * showing --- [[books:sb:10:13:10|SB 10.13.10]]

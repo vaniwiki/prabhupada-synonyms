@@ -1,5 +1,11 @@
-~~Title:yuḍāya~~
-{{description>satisfies.}}
+---json
+{
+    "name":"yuḍāya",
+    "h1":"yuḍāya",
+    "title":"yuḍāya -- synonyms, prabhupada.io",
+    "description":"satisfies."
+}
+---
 
 ==== yuḍāya  ====
   * satisfies --- [[books:cc:antya:2:167|Antya 2.167]]

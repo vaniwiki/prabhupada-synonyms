@@ -1,5 +1,11 @@
-~~Title:sahitam~~
-{{description>with.}}
+---json
+{
+    "name":"sahitam",
+    "h1":"sahitam",
+    "title":"sahitam -- synonyms, prabhupada.io",
+    "description":"with."
+}
+---
 
 ==== sahitam  ====
   * with --- [[books:bg:9:1|Bg. 9.1]]

@@ -1,5 +1,11 @@
-~~Title:saṁsthitim~~
-{{description>death; situations.}}
+---json
+{
+    "name":"saṁsthitim",
+    "h1":"saṁsthitim",
+    "title":"saṁsthitim -- synonyms, prabhupada.io",
+    "description":"death; situations."
+}
+---
 
 ==== saṁsthitim  ====
   * death --- [[books:sb:3:19:27|SB 3.19.27]]

@@ -1,5 +1,11 @@
-~~Title:vyāhṛta~~
-{{description>from the words.}}
+---json
+{
+    "name":"vyāhṛta",
+    "h1":"vyāhṛta",
+    "title":"vyāhṛta -- synonyms, prabhupada.io",
+    "description":"from the words."
+}
+---
 
 ==== vyāhṛta  ====
   * from the words --- [[books:sb:3:21:45-47|SB 3.21.45-47]]

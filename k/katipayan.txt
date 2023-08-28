@@ -1,5 +1,11 @@
-~~Title:katipayān~~
-{{description>a few.}}
+---json
+{
+    "name":"katipayān",
+    "h1":"katipayān",
+    "title":"katipayān -- synonyms, prabhupada.io",
+    "description":"a few."
+}
+---
 
 ==== katipayān  ====
   * a few --- [[books:sb:1:10:7|SB 1.10.7]]

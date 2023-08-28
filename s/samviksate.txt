@@ -1,5 +1,11 @@
-~~Title:saṁvīkṣate~~
-{{description>puts His merciful glance.}}
+---json
+{
+    "name":"saṁvīkṣate",
+    "h1":"saṁvīkṣate",
+    "title":"saṁvīkṣate -- synonyms, prabhupada.io",
+    "description":"puts His merciful glance."
+}
+---
 
 ==== saṁvīkṣate  ====
   * puts His merciful glance --- [[books:cc:madhya:11:47|Madhya 11.47]]

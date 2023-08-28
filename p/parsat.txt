@@ -1,5 +1,11 @@
-~~Title:pārṣat~~
-{{description>associates.}}
+---json
+{
+    "name":"pārṣat",
+    "h1":"pārṣat",
+    "title":"pārṣat -- synonyms, prabhupada.io",
+    "description":"associates."
+}
+---
 
 ==== pārṣat  ====
   * associates --- [[books:sb:4:12:21|SB 4.12.21]]

@@ -1,5 +1,11 @@
-~~Title:cāma~~
-{{description>skin.}}
+---json
+{
+    "name":"cāma",
+    "h1":"cāma",
+    "title":"cāma -- synonyms, prabhupada.io",
+    "description":"skin."
+}
+---
 
 ==== cāma  ====
   * skin --- [[books:cc:madhya:10:157|Madhya 10.157]]

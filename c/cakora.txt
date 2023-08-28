@@ -1,5 +1,11 @@
-~~Title:cakora~~
-{{description>the cakora bird.}}
+---json
+{
+    "name":"cakora",
+    "h1":"cakora",
+    "title":"cakora -- synonyms, prabhupada.io",
+    "description":"the cakora bird."
+}
+---
 
 ==== cakora  ====
   * the //cakora// bird --- [[books:cc:antya:17:45|Antya 17.45]]

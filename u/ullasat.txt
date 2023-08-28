@@ -1,5 +1,11 @@
-~~Title:ullasat~~
-{{description>all glowing; beautifully decorated; brilliant; brilliantly exhibiting; dancing; dazzling; glittering; glowing; shining; very attractive.}}
+---json
+{
+    "name":"ullasat",
+    "h1":"ullasat",
+    "title":"ullasat -- synonyms, prabhupada.io",
+    "description":"all glowing; beautifully decorated; brilliant; brilliantly exhibiting; dancing; dazzling; glittering; glowing; shining; very attractive."
+}
+---
 
 ==== ullasat  ====
   * all glowing --- [[books:sb:1:3:4|SB 1.3.4]]

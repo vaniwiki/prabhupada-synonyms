@@ -1,5 +1,11 @@
-~~Title:kṣmām~~
-{{description>all the lands; on the earth; on the surface of the earth; the earth; the land; the universe; the whole world.}}
+---json
+{
+    "name":"kṣmām",
+    "h1":"kṣmām",
+    "title":"kṣmām -- synonyms, prabhupada.io",
+    "description":"all the lands; on the earth; on the surface of the earth; the earth; the land; the universe; the whole world."
+}
+---
 
 ==== kṣmām  ====
   * all the lands --- [[books:sb:2:7:17|SB 2.7.17]]

@@ -1,5 +1,11 @@
-~~Title:vadah~~
-{{description>natural conclusion; roar; the thesis; various arguments.}}
+---json
+{
+    "name":"vadah",
+    "h1":"vadah",
+    "title":"vadah -- synonyms, prabhupada.io",
+    "description":"natural conclusion; roar; the thesis; various arguments."
+}
+---
 
 ==== vādaḥ  ====
   * natural conclusion --- [[books:bg:10:32|Bg. 10.32]]

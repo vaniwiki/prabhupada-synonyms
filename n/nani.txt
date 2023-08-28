@@ -1,5 +1,11 @@
-~~Title:nani~~
-{{description>butter.}}
+---json
+{
+    "name":"nani",
+    "h1":"nani",
+    "title":"nani -- synonyms, prabhupada.io",
+    "description":"butter."
+}
+---
 
 ==== nanī  ====
   * butter --- [[books:cc:madhya:14:33|Madhya 14.33]]

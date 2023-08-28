@@ -1,5 +1,11 @@
-~~Title:vibhavati~~
-{{description>flourishes.}}
+---json
+{
+    "name":"vibhavati",
+    "h1":"vibhavati",
+    "title":"vibhavati -- synonyms, prabhupada.io",
+    "description":"flourishes."
+}
+---
 
 ==== vibhavati  ====
   * flourishes --- [[books:cc:adi:16:41|Ādi 16.41]]

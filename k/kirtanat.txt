@@ -1,5 +1,11 @@
-~~Title:kīrtanāt~~
-{{description>by chanting; from chanting the holy name.}}
+---json
+{
+    "name":"kīrtanāt",
+    "h1":"kīrtanāt",
+    "title":"kīrtanāt -- synonyms, prabhupada.io",
+    "description":"by chanting; from chanting the holy name."
+}
+---
 
 ==== kīrtanāt  ====
   * by chanting --- [[books:cc:madhya:20:344|Madhya 20.344]]

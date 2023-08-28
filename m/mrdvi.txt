@@ -1,5 +1,11 @@
-~~Title:mṛdvī~~
-{{description>very soft.}}
+---json
+{
+    "name":"mṛdvī",
+    "h1":"mṛdvī",
+    "title":"mṛdvī -- synonyms, prabhupada.io",
+    "description":"very soft."
+}
+---
 
 ==== mṛdvī  ====
   * very soft --- [[books:cc:antya:1:151|Antya 1.151]]

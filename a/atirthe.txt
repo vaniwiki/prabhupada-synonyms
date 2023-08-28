@@ -1,5 +1,11 @@
-~~Title:atīrthe~~
-{{description>other than prescribed.}}
+---json
+{
+    "name":"atīrthe",
+    "h1":"atīrthe",
+    "title":"atīrthe -- synonyms, prabhupada.io",
+    "description":"other than prescribed."
+}
+---
 
 ==== atīrthe  ====
   * other than prescribed --- [[books:sb:5:26:24|SB 5.26.24]]

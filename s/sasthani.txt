@@ -1,5 +1,11 @@
-~~Title:ṣaṣṭhāni~~
-{{description>six.}}
+---json
+{
+    "name":"ṣaṣṭhāni",
+    "h1":"ṣaṣṭhāni",
+    "title":"ṣaṣṭhāni -- synonyms, prabhupada.io",
+    "description":"six."
+}
+---
 
 ==== ṣaṣṭhāni  ====
   * six --- [[books:bg:15:7|Bg. 15.7]]

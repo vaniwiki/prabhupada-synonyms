@@ -1,5 +1,11 @@
-~~Title:bhāveṣu~~
-{{description>nature.}}
+---json
+{
+    "name":"bhāveṣu",
+    "h1":"bhāveṣu",
+    "title":"bhāveṣu -- synonyms, prabhupada.io",
+    "description":"nature."
+}
+---
 
 ==== bhāveṣu  ====
   * nature --- [[books:bg:10:17|Bg. 10.17]]

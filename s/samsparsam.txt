@@ -1,5 +1,11 @@
-~~Title:saṁsparśam~~
-{{description>touch.}}
+---json
+{
+    "name":"saṁsparśam",
+    "h1":"saṁsparśam",
+    "title":"saṁsparśam -- synonyms, prabhupada.io",
+    "description":"touch."
+}
+---
 
 ==== saṁsparśam  ====
   * touch --- [[books:sb:3:6:16|SB 3.6.16]]

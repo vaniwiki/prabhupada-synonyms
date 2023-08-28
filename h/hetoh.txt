@@ -1,5 +1,11 @@
-~~Title:hetoḥ~~
-{{description>for reason; for the reason; for what reason; from some cause; in exchange; of the cause; reason; which is the cause.}}
+---json
+{
+    "name":"hetoḥ",
+    "h1":"hetoḥ",
+    "title":"hetoḥ -- synonyms, prabhupada.io",
+    "description":"for reason; for the reason; for what reason; from some cause; in exchange; of the cause; reason; which is the cause."
+}
+---
 
 ==== hetoḥ  ====
   * for reason --- [[books:cc:antya:6:314|Antya 6.314]]

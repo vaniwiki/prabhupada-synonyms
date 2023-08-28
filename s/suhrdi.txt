@@ -1,5 +1,11 @@
-~~Title:suhṛdi~~
-{{description>the friend.}}
+---json
+{
+    "name":"suhṛdi",
+    "h1":"suhṛdi",
+    "title":"suhṛdi -- synonyms, prabhupada.io",
+    "description":"the friend."
+}
+---
 
 ==== suhṛdi  ====
   * the friend --- [[books:sb:6:9:39|SB 6.9.39]]

@@ -1,5 +1,11 @@
-~~Title:duyāre~~
-{{description>on the threshold; on the threshold of the door.}}
+---json
+{
+    "name":"duyāre",
+    "h1":"duyāre",
+    "title":"duyāre -- synonyms, prabhupada.io",
+    "description":"on the threshold; on the threshold of the door."
+}
+---
 
 ==== duyāre  ====
   * on the threshold --- [[books:cc:madhya:15:246|Madhya 15.246]]

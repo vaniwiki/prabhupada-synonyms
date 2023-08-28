@@ -1,5 +1,11 @@
-~~Title:yeṅha~~
-{{description>one who; who.}}
+---json
+{
+    "name":"yeṅha",
+    "h1":"yeṅha",
+    "title":"yeṅha -- synonyms, prabhupada.io",
+    "description":"one who; who."
+}
+---
 
 ==== yeṅha  ====
   * one who --- [[books:cc:adi:10:53|Ādi 10.53]]

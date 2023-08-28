@@ -1,5 +1,11 @@
-~~Title:upāsyam~~
-{{description>worshipable object.}}
+---json
+{
+    "name":"upāsyam",
+    "h1":"upāsyam",
+    "title":"upāsyam -- synonyms, prabhupada.io",
+    "description":"worshipable object."
+}
+---
 
 ==== upāsyam  ====
   * worshipable object --- [[books:cc:adi:3:58|Ādi 3.58]]

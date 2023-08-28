@@ -1,5 +1,11 @@
-~~Title:svādhyāyaḥ~~
-{{description>reading of transcendental literatures like Bhagavad-gītā, Śrīmad-Bhāgavatam, Rāmāyaṇa and Mahābhārata (or, for those not in Vedic culture, reading of the Bible or Koran); study of the Vedas; study of the Vedas; study of Vedic literature.}}
+---json
+{
+    "name":"svādhyāyaḥ",
+    "h1":"svādhyāyaḥ",
+    "title":"svādhyāyaḥ -- synonyms, prabhupada.io",
+    "description":"reading of transcendental literatures like Bhagavad-gītā, Śrīmad-Bhāgavatam, Rāmāyaṇa and Mahābhārata (or, for those not in Vedic culture, reading of the Bible or Koran); study of the Vedas; study of the Vedas; study of Vedic literature."
+}
+---
 
 ==== svādhyāyaḥ  ====
   * reading of transcendental literatures like //Bhagavad-gītā, Śrīmad-Bhāgavatam, Rāmāyaṇa// and //Mahābhārata// (or, for those not in Vedic culture, reading of the Bible or Koran) --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

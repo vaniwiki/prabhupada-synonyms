@@ -1,5 +1,11 @@
-~~Title:dhāriṇīm~~
-{{description>Dhāriṇī.}}
+---json
+{
+    "name":"dhāriṇīm",
+    "h1":"dhāriṇīm",
+    "title":"dhāriṇīm -- synonyms, prabhupada.io",
+    "description":"Dhāriṇī."
+}
+---
 
 ==== dhāriṇīm  ====
   * Dhāriṇī --- [[books:sb:4:1:64|SB 4.1.64]]

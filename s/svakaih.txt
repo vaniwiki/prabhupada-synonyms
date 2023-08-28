@@ -1,5 +1,11 @@
-~~Title:svakaiḥ~~
-{{description>their own.}}
+---json
+{
+    "name":"svakaiḥ",
+    "h1":"svakaiḥ",
+    "title":"svakaiḥ -- synonyms, prabhupada.io",
+    "description":"their own."
+}
+---
 
 ==== svakaiḥ  ====
   * their own --- [[books:sb:4:3:9|SB 4.3.9]], [[books:sb:10:11:41|SB 10.11.41]]

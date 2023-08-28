@@ -1,5 +1,11 @@
-~~Title:upanayena~~
-{{description>by satisfying.}}
+---json
+{
+    "name":"upanayena",
+    "h1":"upanayena",
+    "title":"upanayena -- synonyms, prabhupada.io",
+    "description":"by satisfying."
+}
+---
 
 ==== kāma-upanayena  ====
   * by satisfying --- [[books:sb:8:20:10|SB 8.20.10]]

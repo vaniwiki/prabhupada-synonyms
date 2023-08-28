@@ -1,5 +1,11 @@
-~~Title:apāvṛta~~
-{{description>open.}}
+---json
+{
+    "name":"apāvṛta",
+    "h1":"apāvṛta",
+    "title":"apāvṛta -- synonyms, prabhupada.io",
+    "description":"open."
+}
+---
 
 ==== apāvṛta  ====
   * open --- [[books:sb:3:9:15|SB 3.9.15]]

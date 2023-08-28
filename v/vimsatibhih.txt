@@ -1,5 +1,11 @@
-~~Title:viṁśatibhiḥ~~
-{{description>twenty-four in number.}}
+---json
+{
+    "name":"viṁśatibhiḥ",
+    "h1":"viṁśatibhiḥ",
+    "title":"viṁśatibhiḥ -- synonyms, prabhupada.io",
+    "description":"twenty-four in number."
+}
+---
 
 ==== catuḥ-viṁśatibhiḥ  ====
   * twenty-four in number --- [[books:sb:10:13:52|SB 10.13.52]]

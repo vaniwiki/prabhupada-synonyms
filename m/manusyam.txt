@@ -1,5 +1,11 @@
-~~Title:manusyam~~
-{{description>the man.}}
+---json
+{
+    "name":"manusyam",
+    "h1":"manusyam",
+    "title":"manusyam -- synonyms, prabhupada.io",
+    "description":"the man."
+}
+---
 
 ==== manuṣyam  ====
   * the man --- [[books:sb:7:2:37|SB 7.2.37]]

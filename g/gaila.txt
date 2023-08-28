@@ -1,5 +1,11 @@
-~~Title:gāila~~
-{{description>has sung; sang.}}
+---json
+{
+    "name":"gāila",
+    "h1":"gāila",
+    "title":"gāila -- synonyms, prabhupada.io",
+    "description":"has sung; sang."
+}
+---
 
 ==== gāila  ====
   * has sung --- [[books:cc:antya:19:101|Antya 19.101]]

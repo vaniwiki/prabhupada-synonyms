@@ -1,5 +1,11 @@
-~~Title:autpattikī~~
-{{description>inborn.}}
+---json
+{
+    "name":"autpattikī",
+    "h1":"autpattikī",
+    "title":"autpattikī -- synonyms, prabhupada.io",
+    "description":"inborn."
+}
+---
 
 ==== autpattikī  ====
   * inborn --- [[books:sb:5:20:6|SB 5.20.6]]

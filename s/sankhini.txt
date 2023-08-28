@@ -1,5 +1,11 @@
-~~Title:śāṅkhinī~~
-{{description>ghosts and witches.}}
+---json
+{
+    "name":"śāṅkhinī",
+    "h1":"śāṅkhinī",
+    "title":"śāṅkhinī -- synonyms, prabhupada.io",
+    "description":"ghosts and witches."
+}
+---
 
 ==== ḍākinī-śāṅkhinī  ====
   * ghosts and witches --- [[books:cc:adi:13:117|Ādi 13.117]]

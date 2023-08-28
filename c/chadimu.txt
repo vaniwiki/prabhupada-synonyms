@@ -1,5 +1,11 @@
-~~Title:chāḍimu~~
-{{description>I shall give up; shall I give up.}}
+---json
+{
+    "name":"chāḍimu",
+    "h1":"chāḍimu",
+    "title":"chāḍimu -- synonyms, prabhupada.io",
+    "description":"I shall give up; shall I give up."
+}
+---
 
 ==== chāḍimu  ====
   * I shall give up --- [[books:cc:antya:4:11|Antya 4.11]]

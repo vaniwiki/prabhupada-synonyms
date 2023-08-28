@@ -1,5 +1,11 @@
-~~Title:vānta~~
-{{description>one who eats his own vomit.}}
+---json
+{
+    "name":"vānta",
+    "h1":"vānta",
+    "title":"vānta -- synonyms, prabhupada.io",
+    "description":"one who eats his own vomit."
+}
+---
 
 ==== vānta-āśī  ====
   * one who eats his own vomit --- [[books:sb:7:15:36|SB 7.15.36]]

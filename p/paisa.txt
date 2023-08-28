@@ -1,5 +1,11 @@
-~~Title:paisā~~
-{{description>four or five paise; paise.}}
+---json
+{
+    "name":"paisā",
+    "h1":"paisā",
+    "title":"paisā -- synonyms, prabhupada.io",
+    "description":"four or five paise; paise."
+}
+---
 
 ==== paisā  ====
   * four or five paise --- [[books:cc:madhya:25:205|Madhya 25.205]]

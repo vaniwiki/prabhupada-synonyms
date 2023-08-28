@@ -1,5 +1,11 @@
-~~Title:samayoji~~
-{{description>was arranged.}}
+---json
+{
+    "name":"samayoji",
+    "h1":"samayoji",
+    "title":"samayoji -- synonyms, prabhupada.io",
+    "description":"was arranged."
+}
+---
 
 ==== samayoji  ====
   * was arranged --- [[books:sb:3:21:23|SB 3.21.23]]

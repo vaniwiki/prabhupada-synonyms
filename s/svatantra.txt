@@ -1,5 +1,11 @@
-~~Title:svatantra~~
-{{description>completely independent; fully independent; independent; independently.}}
+---json
+{
+    "name":"svatantra",
+    "h1":"svatantra",
+    "title":"svatantra -- synonyms, prabhupada.io",
+    "description":"completely independent; fully independent; independent; independently."
+}
+---
 
 ==== svatantra  ====
   * completely independent --- [[books:cc:madhya:17:8|Madhya 17.8]]

@@ -1,5 +1,11 @@
-~~Title:rāhum~~
-{{description>Rāhu.}}
+---json
+{
+    "name":"rāhum",
+    "h1":"rāhum",
+    "title":"rāhum -- synonyms, prabhupada.io",
+    "description":"Rāhu."
+}
+---
 
 ==== rāhum  ====
   * Rāhu --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

@@ -1,5 +1,11 @@
-~~Title:sampannam~~
-{{description>being enriched; endowed.}}
+---json
+{
+    "name":"sampannam",
+    "h1":"sampannam",
+    "title":"sampannam -- synonyms, prabhupada.io",
+    "description":"being enriched; endowed."
+}
+---
 
 ==== sampannam  ====
   * being enriched --- [[books:sb:4:8:52|SB 4.8.52]]

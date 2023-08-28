@@ -1,5 +1,11 @@
-~~Title:śvetaḥ~~
-{{description>Śveta.}}
+---json
+{
+    "name":"śvetaḥ",
+    "h1":"śvetaḥ",
+    "title":"śvetaḥ -- synonyms, prabhupada.io",
+    "description":"Śveta."
+}
+---
 
 ==== śvetaḥ  ====
   * Śveta --- [[books:sb:5:16:8|SB 5.16.8]]

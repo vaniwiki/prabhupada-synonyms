@@ -1,5 +1,11 @@
-~~Title:alampaṭa~~
-{{description>very regular.}}
+---json
+{
+    "name":"alampaṭa",
+    "h1":"alampaṭa",
+    "title":"alampaṭa -- synonyms, prabhupada.io",
+    "description":"very regular."
+}
+---
 
 ==== alampaṭa  ====
   * very regular --- [[books:cc:adi:13:120|Ādi 13.120]]

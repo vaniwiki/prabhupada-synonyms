@@ -1,5 +1,11 @@
-~~Title:samitiñjayaḥ~~
-{{description>always victorious in battle.}}
+---json
+{
+    "name":"samitiñjayaḥ",
+    "h1":"samitiñjayaḥ",
+    "title":"samitiñjayaḥ -- synonyms, prabhupada.io",
+    "description":"always victorious in battle."
+}
+---
 
 ==== samitiñjayaḥ  ====
   * always victorious in battle --- [[books:bg:1:8|Bg. 1.8]]

@@ -1,5 +1,11 @@
-~~Title:keśeṣu~~
-{{description>within the hair.}}
+---json
+{
+    "name":"keśeṣu",
+    "h1":"keśeṣu",
+    "title":"keśeṣu -- synonyms, prabhupada.io",
+    "description":"within the hair."
+}
+---
 
 ==== keśeṣu  ====
   * within the hair --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

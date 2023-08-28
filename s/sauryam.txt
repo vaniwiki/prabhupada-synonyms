@@ -1,5 +1,11 @@
-~~Title:śauryam~~
-{{description>chivalry; heroism; power in battle.}}
+---json
+{
+    "name":"śauryam",
+    "h1":"śauryam",
+    "title":"śauryam -- synonyms, prabhupada.io",
+    "description":"chivalry; heroism; power in battle."
+}
+---
 
 ==== śauryam  ====
   * chivalry --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

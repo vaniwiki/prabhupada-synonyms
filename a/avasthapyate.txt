@@ -1,5 +1,11 @@
-~~Title:avasthāpyate~~
-{{description>is established.}}
+---json
+{
+    "name":"avasthāpyate",
+    "h1":"avasthāpyate",
+    "title":"avasthāpyate -- synonyms, prabhupada.io",
+    "description":"is established."
+}
+---
 
 ==== avasthāpyate  ====
   * is established --- [[books:sb:5:20:36|SB 5.20.36]]

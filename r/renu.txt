@@ -1,5 +1,11 @@
-~~Title:reṇu~~
-{{description>atomic particles; dust; of the dust; with the dust.}}
+---json
+{
+    "name":"reṇu",
+    "h1":"reṇu",
+    "title":"reṇu -- synonyms, prabhupada.io",
+    "description":"atomic particles; dust; of the dust; with the dust."
+}
+---
 
 ==== reṇu  ====
   * atomic particles --- [[books:cc:madhya:20:279-280|Madhya 20.279-280]]

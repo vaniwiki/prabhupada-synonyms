@@ -1,5 +1,11 @@
-~~Title:aśikṣat~~
-{{description>has learned.}}
+---json
+{
+    "name":"aśikṣat",
+    "h1":"aśikṣat",
+    "title":"aśikṣat -- synonyms, prabhupada.io",
+    "description":"has learned."
+}
+---
 
 ==== aśikṣat  ====
   * has learned --- [[books:sb:7:5:22|SB 7.5.22]]

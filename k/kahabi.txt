@@ -1,5 +1,11 @@
-~~Title:kahabi~~
-{{description>you will say.}}
+---json
+{
+    "name":"kahabi",
+    "h1":"kahabi",
+    "title":"kahabi -- synonyms, prabhupada.io",
+    "description":"you will say."
+}
+---
 
 ==== kahabi  ====
   * you will say --- [[books:cc:madhya:8:194|Madhya 8.194]]

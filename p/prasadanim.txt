@@ -1,5 +1,11 @@
-~~Title:prasādanīm~~
-{{description>that which enlivens.}}
+---json
+{
+    "name":"prasādanīm",
+    "h1":"prasādanīm",
+    "title":"prasādanīm -- synonyms, prabhupada.io",
+    "description":"that which enlivens."
+}
+---
 
 ==== prasādanīm  ====
   * that which enlivens --- [[books:sb:1:2:22|SB 1.2.22]]

@@ -1,5 +1,11 @@
-~~Title:adho~~
-{{description>fall down.}}
+---json
+{
+    "name":"adho",
+    "h1":"adho",
+    "title":"adho -- synonyms, prabhupada.io",
+    "description":"fall down."
+}
+---
 
 ==== adho maje  ====
   * fall down --- [[books:cc:madhya:24:130|Madhya 24.130]]

@@ -1,5 +1,11 @@
-~~Title:hrādasya~~
-{{description>of Hlāda.}}
+---json
+{
+    "name":"hrādasya",
+    "h1":"hrādasya",
+    "title":"hrādasya -- synonyms, prabhupada.io",
+    "description":"of Hlāda."
+}
+---
 
 ==== hrādasya  ====
   * of Hlāda --- [[books:sb:6:18:15|SB 6.18.15]]

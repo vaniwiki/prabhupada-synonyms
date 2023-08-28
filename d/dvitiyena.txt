@@ -1,5 +1,11 @@
-~~Title:dvitīyena~~
-{{description>by the second step.}}
+---json
+{
+    "name":"dvitīyena",
+    "h1":"dvitīyena",
+    "title":"dvitīyena -- synonyms, prabhupada.io",
+    "description":"by the second step."
+}
+---
 
 ==== dvitīyena  ====
   * by the second step --- [[books:sb:8:19:34|SB 8.19.34]], [[books:sb:8:21:31|SB 8.21.31]]

@@ -1,5 +1,11 @@
-~~Title:vāmatā~~
-{{description>opposition.}}
+---json
+{
+    "name":"vāmatā",
+    "h1":"vāmatā",
+    "title":"vāmatā -- synonyms, prabhupada.io",
+    "description":"opposition."
+}
+---
 
 ==== vāmatā  ====
   * opposition --- [[books:cc:madhya:8:110|Madhya 8.110]], [[books:cc:madhya:14:196|Madhya 14.196]]

@@ -1,5 +1,11 @@
-~~Title:niramayan~~
-{{description>giving pleasure.}}
+---json
+{
+    "name":"niramayan",
+    "h1":"niramayan",
+    "title":"niramayan -- synonyms, prabhupada.io",
+    "description":"giving pleasure."
+}
+---
 
 ==== niramayan  ====
   * giving pleasure --- [[books:sb:3:23:44|SB 3.23.44]]

@@ -1,5 +1,11 @@
-~~Title:vītim~~
-{{description>Devavīti.}}
+---json
+{
+    "name":"vītim",
+    "h1":"vītim",
+    "title":"vītim -- synonyms, prabhupada.io",
+    "description":"Devavīti."
+}
+---
 
 ==== deva-vītim  ====
   * Devavīti --- [[books:sb:5:2:23|SB 5.2.23]]

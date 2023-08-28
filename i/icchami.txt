@@ -1,5 +1,11 @@
-~~Title:icchāmi~~
-{{description>do I wish; I desire; I want; I wish.}}
+---json
+{
+    "name":"icchāmi",
+    "h1":"icchāmi",
+    "title":"icchāmi -- synonyms, prabhupada.io",
+    "description":"do I wish; I desire; I want; I wish."
+}
+---
 
 ==== icchāmi  ====
   * do I wish --- [[books:bg:1:32-35|Bg. 1.32-35]]

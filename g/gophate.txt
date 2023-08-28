@@ -1,5 +1,11 @@
-~~Title:gophāte~~
-{{description>in the cave where Sanātana Gosvāmī stayed.}}
+---json
+{
+    "name":"gophāte",
+    "h1":"gophāte",
+    "title":"gophāte -- synonyms, prabhupada.io",
+    "description":"in the cave where Sanātana Gosvāmī stayed."
+}
+---
 
 ==== sanātanera gophāte  ====
   * in the cave where Sanātana Gosvāmī stayed --- [[books:cc:antya:13:46|Antya 13.46]]

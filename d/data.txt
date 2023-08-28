@@ -1,5 +1,11 @@
-~~Title:data~~
-{{description>by the tusk.}}
+---json
+{
+    "name":"data",
+    "h1":"data",
+    "title":"data -- synonyms, prabhupada.io",
+    "description":"by the tusk."
+}
+---
 
 ==== datā  ====
   * by the tusk --- [[books:sb:3:13:40|SB 3.13.40]], [[books:sb:3:13:41|SB 3.13.41]]

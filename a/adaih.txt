@@ -1,5 +1,11 @@
-~~Title:adaih~~
-{{description>by the Rākṣasas (man-eaters).}}
+---json
+{
+    "name":"adaih",
+    "h1":"adaih",
+    "title":"adaih -- synonyms, prabhupada.io",
+    "description":"by the Rākṣasas (man-eaters)."
+}
+---
 
 ==== puruṣa-adaiḥ  ====
   * by the Rākṣasas (man-eaters) --- [[books:sb:6:11:16|SB 6.11.16]]

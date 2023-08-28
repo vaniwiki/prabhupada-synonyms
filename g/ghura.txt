@@ -1,5 +1,11 @@
-~~Title:ghura~~
-{{description>he produces a sound like ghura-ghura.}}
+---json
+{
+    "name":"ghura",
+    "h1":"ghura",
+    "title":"ghura -- synonyms, prabhupada.io",
+    "description":"he produces a sound like ghura-ghura."
+}
+---
 
 ==== ghura-ghurāyate  ====
   * he produces a sound like //ghura-ghura// --- [[books:sb:3:30:16|SB 3.30.16]]

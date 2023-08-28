@@ -1,5 +1,11 @@
-~~Title:bhokṣyase~~
-{{description>you enjoy.}}
+---json
+{
+    "name":"bhokṣyase",
+    "h1":"bhokṣyase",
+    "title":"bhokṣyase -- synonyms, prabhupada.io",
+    "description":"you enjoy."
+}
+---
 
 ==== bhokṣyase  ====
   * you enjoy --- [[books:bg:2:37|Bg. 2.37]]

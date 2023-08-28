@@ -1,5 +1,11 @@
-~~Title:garhayet~~
-{{description>should criticize.}}
+---json
+{
+    "name":"garhayet",
+    "h1":"garhayet",
+    "title":"garhayet -- synonyms, prabhupada.io",
+    "description":"should criticize."
+}
+---
 
 ==== garhayet  ====
   * should criticize --- [[books:cc:antya:8:78|Antya 8.78]]

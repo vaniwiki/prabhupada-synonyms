@@ -1,5 +1,11 @@
-~~Title:vācaspati~~
-{{description>and you, Vācaspati.}}
+---json
+{
+    "name":"vācaspati",
+    "h1":"vācaspati",
+    "title":"vācaspati -- synonyms, prabhupada.io",
+    "description":"and you, Vācaspati."
+}
+---
 
 ==== vācaspati  ====
   * and you, Vācaspati --- [[books:cc:madhya:15:136|Madhya 15.136]]

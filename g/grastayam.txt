@@ -1,5 +1,11 @@
-~~Title:grastāyām~~
-{{description>when seized.}}
+---json
+{
+    "name":"grastāyām",
+    "h1":"grastāyām",
+    "title":"grastāyām -- synonyms, prabhupada.io",
+    "description":"when seized."
+}
+---
 
 ==== grastāyām  ====
   * when seized --- [[books:sb:4:28:13|SB 4.28.13]]

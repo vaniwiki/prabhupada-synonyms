@@ -1,5 +1,11 @@
-~~Title:kharva~~
-{{description>cut down.}}
+---json
+{
+    "name":"kharva",
+    "h1":"kharva",
+    "title":"kharva -- synonyms, prabhupada.io",
+    "description":"cut down."
+}
+---
 
 ==== kharva  ====
   * cut down --- [[books:cc:antya:7:55|Antya 7.55]]

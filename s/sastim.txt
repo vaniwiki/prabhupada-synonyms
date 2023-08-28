@@ -1,5 +1,11 @@
-~~Title:ṣaṣṭim~~
-{{description>sixty.}}
+---json
+{
+    "name":"ṣaṣṭim",
+    "h1":"ṣaṣṭim",
+    "title":"ṣaṣṭim -- synonyms, prabhupada.io",
+    "description":"sixty."
+}
+---
 
 ==== ṣaṣṭim  ====
   * sixty --- [[books:sb:6:6:1|SB 6.6.1]], [[books:sb:9:17:7|SB 9.17.7]]

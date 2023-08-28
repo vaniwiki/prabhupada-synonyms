@@ -1,5 +1,11 @@
-~~Title:bhūruha~~
-{{description>with the trees and plants.}}
+---json
+{
+    "name":"bhūruha",
+    "h1":"bhūruha",
+    "title":"bhūruha -- synonyms, prabhupada.io",
+    "description":"with the trees and plants."
+}
+---
 
 ==== bhūruha-aṅgaiḥ  ====
   * with the trees and plants --- [[books:sb:9:10:16|SB 9.10.16]]

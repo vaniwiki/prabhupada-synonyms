@@ -1,5 +1,11 @@
-~~Title:śibirān~~
-{{description>with camps.}}
+---json
+{
+    "name":"śibirān",
+    "h1":"śibirān",
+    "title":"śibirān -- synonyms, prabhupada.io",
+    "description":"with camps."
+}
+---
 
 ==== sa-śibirān  ====
   * with camps --- [[books:sb:4:18:31|SB 4.18.31]]

@@ -1,5 +1,11 @@
-~~Title:ayukta~~
-{{description>not fit.}}
+---json
+{
+    "name":"ayukta",
+    "h1":"ayukta",
+    "title":"ayukta -- synonyms, prabhupada.io",
+    "description":"not fit."
+}
+---
 
 ==== ayukta  ====
   * not fit --- [[books:cc:madhya:9:48|Madhya 9.48]]

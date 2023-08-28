@@ -1,5 +1,11 @@
-~~Title:pujayam~~
-{{description>by worshiping.}}
+---json
+{
+    "name":"pujayam",
+    "h1":"pujayam",
+    "title":"pujayam -- synonyms, prabhupada.io",
+    "description":"by worshiping."
+}
+---
 
 ==== pūjayām  ====
   * by worshiping --- [[books:sb:4:22:4|SB 4.22.4]]

@@ -1,5 +1,11 @@
-~~Title:vidhibhiḥ~~
-{{description>by the performances of sacrifice.}}
+---json
+{
+    "name":"vidhibhiḥ",
+    "h1":"vidhibhiḥ",
+    "title":"vidhibhiḥ -- synonyms, prabhupada.io",
+    "description":"by the performances of sacrifice."
+}
+---
 
 ==== makha-vidhibhiḥ  ====
   * by the performances of sacrifice --- [[books:cc:adi:3:58|Ādi 3.58]]

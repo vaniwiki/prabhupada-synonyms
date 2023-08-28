@@ -1,5 +1,11 @@
-~~Title:uśīnareṣu~~
-{{description>in the state known as Uśīnara.}}
+---json
+{
+    "name":"uśīnareṣu",
+    "h1":"uśīnareṣu",
+    "title":"uśīnareṣu -- synonyms, prabhupada.io",
+    "description":"in the state known as Uśīnara."
+}
+---
 
 ==== uśīnareṣu  ====
   * in the state known as Uśīnara --- [[books:sb:7:2:28|SB 7.2.28]]

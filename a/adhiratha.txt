@@ -1,5 +1,11 @@
-~~Title:adhiratha~~
-{{description>great commander.}}
+---json
+{
+    "name":"adhiratha",
+    "h1":"adhiratha",
+    "title":"adhiratha -- synonyms, prabhupada.io",
+    "description":"great commander."
+}
+---
 
 ==== adhiratha  ====
   * great commander --- [[books:sb:3:4:28|SB 3.4.28]]

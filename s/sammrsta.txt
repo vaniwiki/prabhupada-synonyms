@@ -1,5 +1,11 @@
-~~Title:sammṛṣṭa~~
-{{description>very nicely cleaned.}}
+---json
+{
+    "name":"sammṛṣṭa",
+    "h1":"sammṛṣṭa",
+    "title":"sammṛṣṭa -- synonyms, prabhupada.io",
+    "description":"very nicely cleaned."
+}
+---
 
 ==== sammṛṣṭa  ====
   * very nicely cleaned --- [[books:sb:10:5:6|SB 10.5.6]]

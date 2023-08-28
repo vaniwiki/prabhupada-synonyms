@@ -1,5 +1,11 @@
-~~Title:induḥ~~
-{{description>like the moon; the moon.}}
+---json
+{
+    "name":"induḥ",
+    "h1":"induḥ",
+    "title":"induḥ -- synonyms, prabhupada.io",
+    "description":"like the moon; the moon."
+}
+---
 
 ==== induḥ  ====
   * like the moon --- [[books:cc:adi:1:6|Ādi 1.6]], [[books:cc:adi:4:230|Ādi 4.230]], [[books:cc:madhya:18:12|Madhya 18.12]]

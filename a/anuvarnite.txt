@@ -1,5 +1,11 @@
-~~Title:anuvarṇite~~
-{{description>described respectively.}}
+---json
+{
+    "name":"anuvarṇite",
+    "h1":"anuvarṇite",
+    "title":"anuvarṇite -- synonyms, prabhupada.io",
+    "description":"described respectively."
+}
+---
 
 ==== anuvarṇite  ====
   * described respectively --- [[books:sb:2:10:35|SB 2.10.35]]

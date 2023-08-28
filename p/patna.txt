@@ -1,5 +1,11 @@
-~~Title:pātnā~~
-{{description>useless straw.}}
+---json
+{
+    "name":"pātnā",
+    "h1":"pātnā",
+    "title":"pātnā -- synonyms, prabhupada.io",
+    "description":"useless straw."
+}
+---
 
 ==== pātnā  ====
   * useless straw --- [[books:cc:adi:12:12|Ādi 12.12]]

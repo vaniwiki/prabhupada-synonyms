@@ -1,5 +1,11 @@
-~~Title:ghoṣaṇa~~
-{{description>roaring.}}
+---json
+{
+    "name":"ghoṣaṇa",
+    "h1":"ghoṣaṇa",
+    "title":"ghoṣaṇa -- synonyms, prabhupada.io",
+    "description":"roaring."
+}
+---
 
 ==== ghoṣaṇa  ====
   * roaring --- [[books:sb:4:5:6|SB 4.5.6]]

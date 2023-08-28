@@ -1,5 +1,11 @@
-~~Title:gṛhān~~
-{{description>at home; at our residence; at the house; home; homes; household; household affairs; houses; in the house of; the house; the house of the Pāṇḍavas; to his own house; to the house.}}
+---json
+{
+    "name":"gṛhān",
+    "h1":"gṛhān",
+    "title":"gṛhān -- synonyms, prabhupada.io",
+    "description":"at home; at our residence; at the house; home; homes; household; household affairs; houses; in the house of; the house; the house of the Pāṇḍavas; to his own house; to the house."
+}
+---
 
 ==== gṛhān  ====
   * at home --- [[books:sb:4:8:1|SB 4.8.1]], [[books:sb:9:14:43|SB 9.14.43]]

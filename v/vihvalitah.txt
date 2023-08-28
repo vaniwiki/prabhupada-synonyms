@@ -1,5 +1,11 @@
-~~Title:vihvalitaḥ~~
-{{description>upset.}}
+---json
+{
+    "name":"vihvalitaḥ",
+    "h1":"vihvalitaḥ",
+    "title":"vihvalitaḥ -- synonyms, prabhupada.io",
+    "description":"upset."
+}
+---
 
 ==== vihvalitaḥ  ====
   * upset --- [[books:sb:8:11:15|SB 8.11.15]]

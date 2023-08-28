@@ -1,5 +1,11 @@
-~~Title:kalase~~
-{{description>jug.}}
+---json
+{
+    "name":"kalase",
+    "h1":"kalase",
+    "title":"kalase -- synonyms, prabhupada.io",
+    "description":"jug."
+}
+---
 
 ==== kalase  ====
   * jug --- [[books:sb:8:8:36|SB 8.8.36]]

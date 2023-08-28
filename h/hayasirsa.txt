@@ -1,5 +1,11 @@
-~~Title:hayaśīrṣa~~
-{{description>the Lord's incarnation named Hayaśīrṣa (also called Hayagrīva).}}
+---json
+{
+    "name":"hayaśīrṣa",
+    "h1":"hayaśīrṣa",
+    "title":"hayaśīrṣa -- synonyms, prabhupada.io",
+    "description":"the Lord's incarnation named Hayaśīrṣa (also called Hayagrīva)."
+}
+---
 
 ==== hayaśīrṣa-abhidhānām  ====
   * the Lord's incarnation named Hayaśīrṣa (also called Hayagrīva) --- [[books:sb:5:18:1|SB 5.18.1]]

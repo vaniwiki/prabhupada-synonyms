@@ -1,5 +1,11 @@
-~~Title:dadhānaḥ~~
-{{description>giving; holding.}}
+---json
+{
+    "name":"dadhānaḥ",
+    "h1":"dadhānaḥ",
+    "title":"dadhānaḥ -- synonyms, prabhupada.io",
+    "description":"giving; holding."
+}
+---
 
 ==== dadhānaḥ  ====
   * giving --- [[books:cc:antya:1:171|Antya 1.171]]

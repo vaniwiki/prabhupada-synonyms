@@ -1,5 +1,11 @@
-~~Title:avādyanta~~
-{{description>vibrated; vibrated in celebration of Vasudeva's son.}}
+---json
+{
+    "name":"avādyanta",
+    "h1":"avādyanta",
+    "title":"avādyanta -- synonyms, prabhupada.io",
+    "description":"vibrated; vibrated in celebration of Vasudeva's son."
+}
+---
 
 ==== avādyanta  ====
   * vibrated --- [[books:sb:4:1:54-55|SB 4.1.54-55]]

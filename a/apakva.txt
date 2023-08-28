@@ -1,5 +1,11 @@
-~~Title:apakva~~
-{{description>who is immature.}}
+---json
+{
+    "name":"apakva",
+    "h1":"apakva",
+    "title":"apakva -- synonyms, prabhupada.io",
+    "description":"who is immature."
+}
+---
 
 ==== apakva  ====
   * who is immature --- [[books:sb:1:18:47|SB 1.18.47]]

@@ -1,5 +1,11 @@
-~~Title:vimocitum~~
-{{description>to liberate; to liberate from material bondage.}}
+---json
+{
+    "name":"vimocitum",
+    "h1":"vimocitum",
+    "title":"vimocitum -- synonyms, prabhupada.io",
+    "description":"to liberate; to liberate from material bondage."
+}
+---
 
 ==== vimocitum  ====
   * to liberate --- [[books:sb:7:6:17-18|SB 7.6.17-18]]

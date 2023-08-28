@@ -1,5 +1,11 @@
-~~Title:āmnāya~~
-{{description>Vedic wisdom.}}
+---json
+{
+    "name":"āmnāya",
+    "h1":"āmnāya",
+    "title":"āmnāya -- synonyms, prabhupada.io",
+    "description":"Vedic wisdom."
+}
+---
 
 ==== āmnāya  ====
   * Vedic wisdom --- [[books:sb:3:8:31|SB 3.8.31]]

@@ -1,5 +1,11 @@
-~~Title:abhyarthitām~~
-{{description>desired.}}
+---json
+{
+    "name":"abhyarthitām",
+    "h1":"abhyarthitām",
+    "title":"abhyarthitām -- synonyms, prabhupada.io",
+    "description":"desired."
+}
+---
 
 ==== abhyarthitām  ====
   * desired --- [[books:sb:3:15:24|SB 3.15.24]]

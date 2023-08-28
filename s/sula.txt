@@ -1,5 +1,11 @@
-~~Title:śūla~~
-{{description>by lances; by the trident; trident; tridents.}}
+---json
+{
+    "name":"śūla",
+    "h1":"śūla",
+    "title":"śūla -- synonyms, prabhupada.io",
+    "description":"by lances; by the trident; trident; tridents."
+}
+---
 
 ==== śūla  ====
   * by lances --- [[books:sb:9:10:19|SB 9.10.19]]

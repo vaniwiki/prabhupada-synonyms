@@ -1,5 +1,11 @@
-~~Title:aśvaiḥ~~
-{{description>or on the back of a horse.}}
+---json
+{
+    "name":"aśvaiḥ",
+    "h1":"aśvaiḥ",
+    "title":"aśvaiḥ -- synonyms, prabhupada.io",
+    "description":"or on the back of a horse."
+}
+---
 
 ==== aśvaiḥ  ====
   * or on the back of a horse --- [[books:sb:7:13:41|SB 7.13.41]]

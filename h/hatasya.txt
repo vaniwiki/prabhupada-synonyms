@@ -1,5 +1,11 @@
-~~Title:hatasya~~
-{{description>killed; who was injured and fallen.}}
+---json
+{
+    "name":"hatasya",
+    "h1":"hatasya",
+    "title":"hatasya -- synonyms, prabhupada.io",
+    "description":"killed; who was injured and fallen."
+}
+---
 
 ==== hatasya  ====
   * killed --- [[books:sb:4:6:50|SB 4.6.50]]

@@ -1,5 +1,11 @@
-~~Title:goṅphā~~
-{{description>constructing a small cavelike residence.}}
+---json
+{
+    "name":"goṅphā",
+    "h1":"goṅphā",
+    "title":"goṅphā -- synonyms, prabhupada.io",
+    "description":"constructing a small cavelike residence."
+}
+---
 
 ==== goṅphā kari'  ====
   * constructing a small cavelike residence --- [[books:cc:antya:3:216|Antya 3.216]]

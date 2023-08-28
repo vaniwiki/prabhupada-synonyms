@@ -1,5 +1,11 @@
-~~Title:viyatiḥ~~
-{{description>Viyati.}}
+---json
+{
+    "name":"viyatiḥ",
+    "h1":"viyatiḥ",
+    "title":"viyatiḥ -- synonyms, prabhupada.io",
+    "description":"Viyati."
+}
+---
 
 ==== viyatiḥ  ====
   * Viyati --- [[books:sb:9:18:1|SB 9.18.1]]

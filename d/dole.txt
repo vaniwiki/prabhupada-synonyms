@@ -1,5 +1,11 @@
-~~Title:dole~~
-{{description>moves.}}
+---json
+{
+    "name":"dole",
+    "h1":"dole",
+    "title":"dole -- synonyms, prabhupada.io",
+    "description":"moves."
+}
+---
 
 ==== dole  ====
   * moves --- [[books:cc:adi:5:189|Ādi 5.189]], [[books:cc:adi:5:190|Ādi 5.190]]

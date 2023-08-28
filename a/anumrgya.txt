@@ -1,5 +1,11 @@
-~~Title:anumṛgya~~
-{{description>the destination.}}
+---json
+{
+    "name":"anumṛgya",
+    "h1":"anumṛgya",
+    "title":"anumṛgya -- synonyms, prabhupada.io",
+    "description":"the destination."
+}
+---
 
 ==== anumṛgya  ====
   * the destination --- [[books:sb:2:4:13|SB 2.4.13]]

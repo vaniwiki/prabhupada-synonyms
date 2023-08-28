@@ -1,5 +1,11 @@
-~~Title:pratisandhita~~
-{{description>executed.}}
+---json
+{
+    "name":"pratisandhita",
+    "h1":"pratisandhita",
+    "title":"pratisandhita -- synonyms, prabhupada.io",
+    "description":"executed."
+}
+---
 
 ==== pratisandhita  ====
   * executed --- [[books:sb:5:1:22|SB 5.1.22]]

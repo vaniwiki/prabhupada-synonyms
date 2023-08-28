@@ -1,5 +1,11 @@
-~~Title:kaumārīm~~
-{{description>just suitable to childhood.}}
+---json
+{
+    "name":"kaumārīm",
+    "h1":"kaumārīm",
+    "title":"kaumārīm -- synonyms, prabhupada.io",
+    "description":"just suitable to childhood."
+}
+---
 
 ==== kaumārīm  ====
   * just suitable to childhood --- [[books:sb:3:2:28|SB 3.2.28]]

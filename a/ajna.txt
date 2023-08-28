@@ -1,5 +1,11 @@
-~~Title:ajna~~
-{{description>foolish; ignorant; ignorant fool; O fool; one by whom nothing is unknown; one not expert in knowledge.}}
+---json
+{
+    "name":"ajna",
+    "h1":"ajna",
+    "title":"ajna -- synonyms, prabhupada.io",
+    "description":"foolish; ignorant; ignorant fool; O fool; one by whom nothing is unknown; one not expert in knowledge."
+}
+---
 
 ==== ajña  ====
   * foolish --- [[books:cc:madhya:24:102|Madhya 24.102]]

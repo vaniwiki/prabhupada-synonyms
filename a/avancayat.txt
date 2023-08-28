@@ -1,5 +1,11 @@
-~~Title:avañcayat~~
-{{description>dodged.}}
+---json
+{
+    "name":"avañcayat",
+    "h1":"avañcayat",
+    "title":"avañcayat -- synonyms, prabhupada.io",
+    "description":"dodged."
+}
+---
 
 ==== avañcayat  ====
   * dodged --- [[books:sb:3:18:15|SB 3.18.15]]

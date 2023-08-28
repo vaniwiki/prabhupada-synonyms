@@ -1,5 +1,11 @@
-~~Title:kurukṣetram~~
-{{description>a particular sacred place (dharma-kṣetra); the Battle of Kurukṣetra; the place where the battle was fought.}}
+---json
+{
+    "name":"kurukṣetram",
+    "h1":"kurukṣetram",
+    "title":"kurukṣetram -- synonyms, prabhupada.io",
+    "description":"a particular sacred place (dharma-kṣetra); the Battle of Kurukṣetra; the place where the battle was fought."
+}
+---
 
 ==== kurukṣetram  ====
   * a particular sacred place (//dharma-kṣetra//) --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

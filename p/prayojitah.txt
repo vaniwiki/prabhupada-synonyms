@@ -1,5 +1,11 @@
-~~Title:prayojitaḥ~~
-{{description>applied; being applied; discharged.}}
+---json
+{
+    "name":"prayojitaḥ",
+    "h1":"prayojitaḥ",
+    "title":"prayojitaḥ -- synonyms, prabhupada.io",
+    "description":"applied; being applied; discharged."
+}
+---
 
 ==== prayojitaḥ  ====
   * applied --- [[books:sb:7:4:46|SB 7.4.46]]

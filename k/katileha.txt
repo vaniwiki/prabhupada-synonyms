@@ -1,5 +1,11 @@
-~~Title:kāṭileha~~
-{{description>even being cut; when it is cut.}}
+---json
+{
+    "name":"kāṭileha",
+    "h1":"kāṭileha",
+    "title":"kāṭileha -- synonyms, prabhupada.io",
+    "description":"even being cut; when it is cut."
+}
+---
 
 ==== kāṭileha  ====
   * even being cut --- [[books:cc:adi:17:28|Ādi 17.28]]

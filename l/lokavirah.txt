@@ -1,5 +1,11 @@
-~~Title:lokavīrāḥ~~
-{{description>the kings of human society.}}
+---json
+{
+    "name":"lokavīrāḥ",
+    "h1":"lokavīrāḥ",
+    "title":"lokavīrāḥ -- synonyms, prabhupada.io",
+    "description":"the kings of human society."
+}
+---
 
 ==== nara-lokavīrāḥ  ====
   * the kings of human society --- [[books:bg:11:28|Bg. 11.28]]

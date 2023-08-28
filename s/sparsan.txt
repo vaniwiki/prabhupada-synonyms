@@ -1,5 +1,11 @@
-~~Title:sparśān~~
-{{description>external sense objects, such as sound, etc.}}
+---json
+{
+    "name":"sparśān",
+    "h1":"sparśān",
+    "title":"sparśān -- synonyms, prabhupada.io",
+    "description":"external sense objects, such as sound, etc."
+}
+---
 
 ==== sparśān  ====
   * external sense objects, such as sound, etc --- [[books:bg:5:27-28|Bg. 5.27-28]]

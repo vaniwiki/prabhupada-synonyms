@@ -1,5 +1,11 @@
-~~Title:nirjharete~~
-{{description>in the waterfalls.}}
+---json
+{
+    "name":"nirjharete",
+    "h1":"nirjharete",
+    "title":"nirjharete -- synonyms, prabhupada.io",
+    "description":"in the waterfalls."
+}
+---
 
 ==== nirjharete  ====
   * in the waterfalls --- [[books:cc:madhya:17:66|Madhya 17.66]]

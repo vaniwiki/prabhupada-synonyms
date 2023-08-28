@@ -1,5 +1,11 @@
-~~Title:agastyam~~
-{{description>the great sage Agastya.}}
+---json
+{
+    "name":"agastyam",
+    "h1":"agastyam",
+    "title":"agastyam -- synonyms, prabhupada.io",
+    "description":"the great sage Agastya."
+}
+---
 
 ==== agastyam  ====
   * the great sage Agastya --- [[books:sb:4:1:36|SB 4.1.36]]

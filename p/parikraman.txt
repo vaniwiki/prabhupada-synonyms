@@ -1,5 +1,11 @@
-~~Title:parikraman~~
-{{description>circumambulating.}}
+---json
+{
+    "name":"parikraman",
+    "h1":"parikraman",
+    "title":"parikraman -- synonyms, prabhupada.io",
+    "description":"circumambulating."
+}
+---
 
 ==== parikraman  ====
   * circumambulating --- [[books:sb:3:8:16|SB 3.8.16]]

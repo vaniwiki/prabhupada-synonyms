@@ -1,5 +1,11 @@
-~~Title:kandukita~~
-{{description>making like a small ball for throwing.}}
+---json
+{
+    "name":"kandukita",
+    "h1":"kandukita",
+    "title":"kandukita -- synonyms, prabhupada.io",
+    "description":"making like a small ball for throwing."
+}
+---
 
 ==== kandukita  ====
   * making like a small ball for throwing --- [[books:cc:madhya:17:210|Madhya 17.210]]

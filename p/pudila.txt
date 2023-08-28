@@ -1,5 +1,11 @@
-~~Title:puḍila~~
-{{description>burned.}}
+---json
+{
+    "name":"puḍila",
+    "h1":"puḍila",
+    "title":"puḍila -- synonyms, prabhupada.io",
+    "description":"burned."
+}
+---
 
 ==== puḍila  ====
   * burned --- [[books:cc:adi:17:190|Ādi 17.190]]

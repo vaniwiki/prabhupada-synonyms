@@ -1,5 +1,11 @@
-~~Title:anugau~~
-{{description>to His two attendants.}}
+---json
+{
+    "name":"anugau",
+    "h1":"anugau",
+    "title":"anugau -- synonyms, prabhupada.io",
+    "description":"to His two attendants."
+}
+---
 
 ==== anugau  ====
   * to His two attendants --- [[books:sb:3:16:29|SB 3.16.29]]

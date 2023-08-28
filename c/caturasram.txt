@@ -1,5 +1,11 @@
-~~Title:caturasrām~~
-{{description>of the same length on all sides.}}
+---json
+{
+    "name":"caturasrām",
+    "h1":"caturasrām",
+    "title":"caturasrām -- synonyms, prabhupada.io",
+    "description":"of the same length on all sides."
+}
+---
 
 ==== sama-caturasrām  ====
   * of the same length on all sides --- [[books:sb:5:16:28|SB 5.16.28]]

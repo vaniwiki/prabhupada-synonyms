@@ -1,5 +1,11 @@
-~~Title:bhih~~
-{{description>even fear personified.}}
+---json
+{
+    "name":"bhih",
+    "h1":"bhih",
+    "title":"bhih -- synonyms, prabhupada.io",
+    "description":"even fear personified."
+}
+---
 
 ==== bhīḥ api  ====
   * even fear personified --- [[books:sb:1:8:31|SB 1.8.31]]

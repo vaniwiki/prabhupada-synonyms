@@ -1,5 +1,11 @@
-~~Title:aiche~~
-{{description>as previously; exactly like that; how; in such a way; in such away; in that same way; in that way; in the above-mentioned way; in the same way; in this way; like that; like this; similar; similarly; so; so also; so much; such; such as that; this type of; thus.}}
+---json
+{
+    "name":"aiche",
+    "h1":"aiche",
+    "title":"aiche -- synonyms, prabhupada.io",
+    "description":"as previously; exactly like that; how; in such a way; in such away; in that same way; in that way; in the above-mentioned way; in the same way; in this way; like that; like this; similar; similarly; so; so also; so much; such; such as that; this type of; thus."
+}
+---
 
 ==== aiche  ====
   * as previously --- [[books:cc:antya:17:11|Antya 17.11]]

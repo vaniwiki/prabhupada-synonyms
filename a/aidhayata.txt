@@ -1,5 +1,11 @@
-~~Title:aidhayata~~
-{{description>increased.}}
+---json
+{
+    "name":"aidhayata",
+    "h1":"aidhayata",
+    "title":"aidhayata -- synonyms, prabhupada.io",
+    "description":"increased."
+}
+---
 
 ==== aidhayata  ====
   * increased --- [[books:sb:8:8:25|SB 8.8.25]]

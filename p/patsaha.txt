@@ -1,5 +1,11 @@
-~~Title:patsaha~~
-{{description>seeing the Nawab.}}
+---json
+{
+    "name":"patsaha",
+    "h1":"patsaha",
+    "title":"patsaha -- synonyms, prabhupada.io",
+    "description":"seeing the Nawab."
+}
+---
 
 ==== pātsāha dekhiyā  ====
   * seeing the Nawab --- [[books:cc:madhya:19:19|Madhya 19.19]]

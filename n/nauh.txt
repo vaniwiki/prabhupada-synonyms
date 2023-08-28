@@ -1,5 +1,11 @@
-~~Title:nauḥ~~
-{{description>a boat; boat; the boat.}}
+---json
+{
+    "name":"nauḥ",
+    "h1":"nauḥ",
+    "title":"nauḥ -- synonyms, prabhupada.io",
+    "description":"a boat; boat; the boat."
+}
+---
 
 ==== nauḥ  ====
   * a boat --- [[books:sb:9:8:13|SB 9.8.13]]

@@ -1,5 +1,11 @@
-~~Title:paribhūḥ~~
-{{description>the greatest of all.}}
+---json
+{
+    "name":"paribhūḥ",
+    "h1":"paribhūḥ",
+    "title":"paribhūḥ -- synonyms, prabhupada.io",
+    "description":"the greatest of all."
+}
+---
 
 ==== paribhūḥ  ====
   * the greatest of all --- [[books:iso:8|Īśo 8]]

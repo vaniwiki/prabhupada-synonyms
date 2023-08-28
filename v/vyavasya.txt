@@ -1,5 +1,11 @@
-~~Title:vyavasya~~
-{{description>ascertaining; deciding.}}
+---json
+{
+    "name":"vyavasya",
+    "h1":"vyavasya",
+    "title":"vyavasya -- synonyms, prabhupada.io",
+    "description":"ascertaining; deciding."
+}
+---
 
 ==== vyavasya  ====
   * ascertaining --- [[books:sb:1:9:17|SB 1.9.17]]

@@ -1,5 +1,11 @@
-~~Title:yuyodha~~
-{{description>fought.}}
+---json
+{
+    "name":"yuyodha",
+    "h1":"yuyodha",
+    "title":"yuyodha -- synonyms, prabhupada.io",
+    "description":"fought."
+}
+---
 
 ==== yuyodha  ====
   * fought --- [[books:sb:8:10:28|SB 8.10.28]]

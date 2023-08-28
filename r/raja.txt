@@ -1,5 +1,11 @@
-~~Title:raja~~
-{{description>from the government; king; of a king; of the King; the King.}}
+---json
+{
+    "name":"raja",
+    "h1":"raja",
+    "title":"raja -- synonyms, prabhupada.io",
+    "description":"from the government; king; of a king; of the King; the King."
+}
+---
 
 ==== rāja  ====
   * from the government --- [[books:sb:6:8:37|SB 6.8.37]]

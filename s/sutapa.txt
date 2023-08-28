@@ -1,5 +1,11 @@
-~~Title:sutapā~~
-{{description>Sutapā.}}
+---json
+{
+    "name":"sutapā",
+    "h1":"sutapā",
+    "title":"sutapā -- synonyms, prabhupada.io",
+    "description":"Sutapā."
+}
+---
 
 ==== sutapā  ====
   * Sutapā --- [[books:sb:10:3:32|SB 10.3.32]]

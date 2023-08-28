@@ -1,5 +1,11 @@
-~~Title:kaṇṭaka~~
-{{description>by thorns; of disturbing elements like thieves and debauchees.}}
+---json
+{
+    "name":"kaṇṭaka",
+    "h1":"kaṇṭaka",
+    "title":"kaṇṭaka -- synonyms, prabhupada.io",
+    "description":"by thorns; of disturbing elements like thieves and debauchees."
+}
+---
 
 ==== kaṇṭaka  ====
   * by thorns --- [[books:cc:madhya:13:102|Madhya 13.102]]

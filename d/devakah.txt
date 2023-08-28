@@ -1,5 +1,11 @@
-~~Title:devakaḥ~~
-{{description>a son named Devaka; Devaka; King Devaka.}}
+---json
+{
+    "name":"devakaḥ",
+    "h1":"devakaḥ",
+    "title":"devakaḥ -- synonyms, prabhupada.io",
+    "description":"a son named Devaka; Devaka; King Devaka."
+}
+---
 
 ==== devakaḥ  ====
   * a son named Devaka --- [[books:sb:9:22:30-31|SB 9.22.30-31]]

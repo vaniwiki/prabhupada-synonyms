@@ -1,5 +1,11 @@
-~~Title:ahovala~~
-{{description>Nṛsiṁhadeva, named Ahovala or at Ahovala.}}
+---json
+{
+    "name":"ahovala",
+    "h1":"ahovala",
+    "title":"ahovala -- synonyms, prabhupada.io",
+    "description":"Nṛsiṁhadeva, named Ahovala or at Ahovala."
+}
+---
 
 ==== ahovala-nṛsiṁha-ādi  ====
   * Nṛsiṁhadeva, named Ahovala or at Ahovala --- [[books:cc:madhya:1:106|Madhya 1.106]]

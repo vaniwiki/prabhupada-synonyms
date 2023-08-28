@@ -1,5 +1,11 @@
-~~Title:snanah~~
-{{description>having completely bathed, washing the head.}}
+---json
+{
+    "name":"snanah",
+    "h1":"snanah",
+    "title":"snanah -- synonyms, prabhupada.io",
+    "description":"having completely bathed, washing the head."
+}
+---
 
 ==== kṛta-śiraḥ-snānaḥ  ====
   * having completely bathed, washing the head --- [[books:sb:9:10:49|SB 9.10.49]]

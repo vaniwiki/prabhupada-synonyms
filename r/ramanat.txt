@@ -1,5 +1,11 @@
-~~Title:ramaṇāt~~
-{{description>because of various kinds of loving pastimes.}}
+---json
+{
+    "name":"ramaṇāt",
+    "h1":"ramaṇāt",
+    "title":"ramaṇāt -- synonyms, prabhupada.io",
+    "description":"because of various kinds of loving pastimes."
+}
+---
 
 ==== ramaṇāt  ====
   * because of various kinds of loving pastimes --- [[books:noi:9|NoI 9]]

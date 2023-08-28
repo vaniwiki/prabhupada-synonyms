@@ -1,5 +1,11 @@
-~~Title:gaviṣṭhaḥ~~
-{{description>the sun in the sky.}}
+---json
+{
+    "name":"gaviṣṭhaḥ",
+    "h1":"gaviṣṭhaḥ",
+    "title":"gaviṣṭhaḥ -- synonyms, prabhupada.io",
+    "description":"the sun in the sky."
+}
+---
 
 ==== gaviṣṭhaḥ  ====
   * the sun in the sky --- [[books:sb:1:10:36|SB 1.10.36]]

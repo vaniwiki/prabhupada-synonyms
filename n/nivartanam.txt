@@ -1,5 +1,11 @@
-~~Title:nivartanam~~
-{{description>avoiding.}}
+---json
+{
+    "name":"nivartanam",
+    "h1":"nivartanam",
+    "title":"nivartanam -- synonyms, prabhupada.io",
+    "description":"avoiding."
+}
+---
 
 ==== nivartanam  ====
   * avoiding --- [[books:sb:3:28:2|SB 3.28.2]]

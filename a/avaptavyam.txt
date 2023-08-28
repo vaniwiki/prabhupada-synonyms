@@ -1,5 +1,11 @@
-~~Title:avāptavyam~~
-{{description>to be gained.}}
+---json
+{
+    "name":"avāptavyam",
+    "h1":"avāptavyam",
+    "title":"avāptavyam -- synonyms, prabhupada.io",
+    "description":"to be gained."
+}
+---
 
 ==== avāptavyam  ====
   * to be gained --- [[books:bg:3:22|Bg. 3.22]]

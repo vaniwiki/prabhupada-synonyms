@@ -1,5 +1,11 @@
-~~Title:kṛt~~
-{{description>carrying out; creator; doing; one who executes; performing; the cause; which causes.}}
+---json
+{
+    "name":"kṛt",
+    "h1":"kṛt",
+    "title":"kṛt -- synonyms, prabhupada.io",
+    "description":"carrying out; creator; doing; one who executes; performing; the cause; which causes."
+}
+---
 
 ==== kṛt  ====
   * carrying out --- [[books:sb:6:1:58-60|SB 6.1.58-60]]

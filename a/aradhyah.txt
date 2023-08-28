@@ -1,5 +1,11 @@
-~~Title:ārādhyaḥ~~
-{{description>worshipable by everyone.}}
+---json
+{
+    "name":"ārādhyaḥ",
+    "h1":"ārādhyaḥ",
+    "title":"ārādhyaḥ -- synonyms, prabhupada.io",
+    "description":"worshipable by everyone."
+}
+---
 
 ==== sarva-ārādhyaḥ  ====
   * worshipable by everyone --- [[books:cc:madhya:23:75|Madhya 23.75]]

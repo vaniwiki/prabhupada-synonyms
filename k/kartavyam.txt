@@ -1,5 +1,11 @@
-~~Title:kartavyam~~
-{{description>any prescribed duty; executed; objective activities; to be done.}}
+---json
+{
+    "name":"kartavyam",
+    "h1":"kartavyam",
+    "title":"kartavyam -- synonyms, prabhupada.io",
+    "description":"any prescribed duty; executed; objective activities; to be done."
+}
+---
 
 ==== kartavyam  ====
   * any prescribed duty --- [[books:bg:3:22|Bg. 3.22]]

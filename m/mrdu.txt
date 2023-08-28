@@ -1,5 +1,11 @@
-~~Title:mrdu~~
-{{description>amiable to everyone; gentle; mild; soft; softness; very mild.}}
+---json
+{
+    "name":"mrdu",
+    "h1":"mrdu",
+    "title":"mrdu -- synonyms, prabhupada.io",
+    "description":"amiable to everyone; gentle; mild; soft; softness; very mild."
+}
+---
 
 ==== mṛdu  ====
   * amiable to everyone --- [[books:sb:3:4:22|SB 3.4.22]]

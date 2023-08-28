@@ -1,5 +1,11 @@
-~~Title:bule~~
-{{description>began to move, dancing; goes about; he goes about; moves; roam; travel; travels; walk; walks; wander; wander here and there; wandered on; wanders; was walking.}}
+---json
+{
+    "name":"bule",
+    "h1":"bule",
+    "title":"bule -- synonyms, prabhupada.io",
+    "description":"began to move, dancing; goes about; he goes about; moves; roam; travel; travels; walk; walks; wander; wander here and there; wandered on; wanders; was walking."
+}
+---
 
 ==== bule  ====
   * began to move, dancing --- [[books:cc:madhya:3:113|Madhya 3.113]]

@@ -1,5 +1,11 @@
-~~Title:gambhīrāte~~
-{{description>in the room known as the Gambhīrā.}}
+---json
+{
+    "name":"gambhīrāte",
+    "h1":"gambhīrāte",
+    "title":"gambhīrāte -- synonyms, prabhupada.io",
+    "description":"in the room known as the Gambhīrā."
+}
+---
 
 ==== gambhīrāte  ====
   * in the room known as the Gambhīrā --- [[books:cc:antya:19:55|Antya 19.55]]

@@ -1,5 +1,11 @@
-~~Title:paribhramantam~~
-{{description>loitering; rotating.}}
+---json
+{
+    "name":"paribhramantam",
+    "h1":"paribhramantam",
+    "title":"paribhramantam -- synonyms, prabhupada.io",
+    "description":"loitering; rotating."
+}
+---
 
 ==== paribhramantam  ====
   * loitering --- [[books:sb:1:12:9|SB 1.12.9]]

@@ -1,5 +1,11 @@
-~~Title:dui~~
-{{description>another two groups; both; both of them; both such actions; the two; these two; two; two persons; two pieces; two qualities.}}
+---json
+{
+    "name":"dui",
+    "h1":"dui",
+    "title":"dui -- synonyms, prabhupada.io",
+    "description":"another two groups; both; both of them; both such actions; the two; these two; two; two persons; two pieces; two qualities."
+}
+---
 
 ==== dui  ====
   * another two groups --- [[books:cc:madhya:13:47|Madhya 13.47]]

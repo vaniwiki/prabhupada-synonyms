@@ -1,5 +1,11 @@
-~~Title:anārya~~
-{{description>persons who do not know the value of life; uncivilized.}}
+---json
+{
+    "name":"anārya",
+    "h1":"anārya",
+    "title":"anārya -- synonyms, prabhupada.io",
+    "description":"persons who do not know the value of life; uncivilized."
+}
+---
 
 ==== anārya  ====
   * persons who do not know the value of life --- [[books:bg:2:2|Bg. 2.2]]

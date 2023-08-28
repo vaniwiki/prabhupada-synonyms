@@ -1,5 +1,11 @@
-~~Title:panayah~~
-{{description>all the followers of the dacoit; the human being.}}
+---json
+{
+    "name":"panayah",
+    "h1":"panayah",
+    "title":"panayah -- synonyms, prabhupada.io",
+    "description":"all the followers of the dacoit; the human being."
+}
+---
 
 ==== paṇayaḥ  ====
   * all the followers of the dacoit --- [[books:sb:5:9:15|SB 5.9.15]]

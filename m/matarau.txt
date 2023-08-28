@@ -1,5 +1,11 @@
-~~Title:mātarau~~
-{{description>to his two mothers.}}
+---json
+{
+    "name":"mātarau",
+    "h1":"mātarau",
+    "title":"mātarau -- synonyms, prabhupada.io",
+    "description":"to his two mothers."
+}
+---
 
 ==== mātarau  ====
   * to his two mothers --- [[books:sb:4:9:45|SB 4.9.45]]

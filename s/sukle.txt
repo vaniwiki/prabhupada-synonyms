@@ -1,5 +1,11 @@
-~~Title:śukle~~
-{{description>bright; unto the pure; waxing moon; white.}}
+---json
+{
+    "name":"śukle",
+    "h1":"śukle",
+    "title":"śukle -- synonyms, prabhupada.io",
+    "description":"bright; unto the pure; waxing moon; white."
+}
+---
 
 ==== śukle  ====
   * bright --- [[books:sb:6:19:2-3|SB 6.19.2-3]]

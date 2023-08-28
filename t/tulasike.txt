@@ -1,5 +1,11 @@
-~~Title:tulasīke~~
-{{description>unto the tulasī plant.}}
+---json
+{
+    "name":"tulasīke",
+    "h1":"tulasīke",
+    "title":"tulasīke -- synonyms, prabhupada.io",
+    "description":"unto the tulasī plant."
+}
+---
 
 ==== tulasīke  ====
   * unto the //tulasī// plant --- [[books:cc:antya:3:128|Antya 3.128]]

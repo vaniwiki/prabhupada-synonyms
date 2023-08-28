@@ -1,5 +1,11 @@
-~~Title:avairiṇām~~
-{{description>toward persons who are not enemies.}}
+---json
+{
+    "name":"avairiṇām",
+    "h1":"avairiṇām",
+    "title":"avairiṇām -- synonyms, prabhupada.io",
+    "description":"toward persons who are not enemies."
+}
+---
 
 ==== avairiṇām  ====
   * toward persons who are not enemies --- [[books:sb:6:5:39|SB 6.5.39]]

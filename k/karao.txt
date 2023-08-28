@@ -1,5 +1,11 @@
-~~Title:karao~~
-{{description>You may empower.}}
+---json
+{
+    "name":"karao",
+    "h1":"karao",
+    "title":"karao -- synonyms, prabhupada.io",
+    "description":"You may empower."
+}
+---
 
 ==== karāo  ====
   * You may empower --- [[books:cc:antya:1:205|Antya 1.205]]

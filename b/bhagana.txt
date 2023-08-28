@@ -1,5 +1,11 @@
-~~Title:bhāgaṇa~~
-{{description>the luminaries and higher planets.}}
+---json
+{
+    "name":"bhāgaṇa",
+    "h1":"bhāgaṇa",
+    "title":"bhāgaṇa -- synonyms, prabhupada.io",
+    "description":"the luminaries and higher planets."
+}
+---
 
 ==== bhāgaṇa-loka  ====
   * the luminaries and higher planets --- [[books:sb:5:26:40|SB 5.26.40]]

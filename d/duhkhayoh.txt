@@ -1,5 +1,11 @@
-~~Title:duḥkhayoḥ~~
-{{description>of pleasure and pain.}}
+---json
+{
+    "name":"duḥkhayoḥ",
+    "h1":"duḥkhayoḥ",
+    "title":"duḥkhayoḥ -- synonyms, prabhupada.io",
+    "description":"of pleasure and pain."
+}
+---
 
 ==== duḥkhayoḥ  ====
   * of pleasure and pain --- [[books:sb:3:28:36|SB 3.28.36]]

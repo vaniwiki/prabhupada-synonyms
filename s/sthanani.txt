@@ -1,5 +1,11 @@
-~~Title:sthānāni~~
-{{description>all these places; as well as places; in different places; places; the places; to their own places.}}
+---json
+{
+    "name":"sthānāni",
+    "h1":"sthānāni",
+    "title":"sthānāni -- synonyms, prabhupada.io",
+    "description":"all these places; as well as places; in different places; places; the places; to their own places."
+}
+---
 
 ==== sthānāni  ====
   * all these places --- [[books:sb:3:12:11|SB 3.12.11]]

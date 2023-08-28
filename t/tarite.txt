@@ -1,5 +1,11 @@
-~~Title:tārite~~
-{{description>to deliver.}}
+---json
+{
+    "name":"tārite",
+    "h1":"tārite",
+    "title":"tārite -- synonyms, prabhupada.io",
+    "description":"to deliver."
+}
+---
 
 ==== tārite  ====
   * to deliver --- [[books:cc:madhya:1:273|Madhya 1.273]], [[books:cc:madhya:8:39|Madhya 8.39]], [[books:cc:antya:2:13|Antya 2.13]], [[books:cc:antya:7:139|Antya 7.139]]

@@ -1,5 +1,11 @@
-~~Title:medhinīm~~
-{{description>one who keeps her husband in material life.}}
+---json
+{
+    "name":"medhinīm",
+    "h1":"medhinīm",
+    "title":"medhinīm -- synonyms, prabhupada.io",
+    "description":"one who keeps her husband in material life."
+}
+---
 
 ==== gṛha-medhinīm  ====
   * one who keeps her husband in material life --- [[books:sb:4:26:13|SB 4.26.13]]

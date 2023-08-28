@@ -1,5 +1,11 @@
-~~Title:satha~~
-{{description>along with; as companions; the company; with.}}
+---json
+{
+    "name":"satha",
+    "h1":"satha",
+    "title":"satha -- synonyms, prabhupada.io",
+    "description":"along with; as companions; the company; with."
+}
+---
 
 ==== sātha  ====
   * along with --- [[books:cc:antya:1:103-104|Antya 1.103-104]]

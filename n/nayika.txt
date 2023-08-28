@@ -1,5 +1,11 @@
-~~Title:nāyikā~~
-{{description>heroine.}}
+---json
+{
+    "name":"nāyikā",
+    "h1":"nāyikā",
+    "title":"nāyikā -- synonyms, prabhupada.io",
+    "description":"heroine."
+}
+---
 
 ==== nāyikā  ====
   * heroine --- [[books:cc:madhya:23:92|Madhya 23.92]]

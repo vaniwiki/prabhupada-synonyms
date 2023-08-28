@@ -1,5 +1,11 @@
-~~Title:it~~
-{{description>only.}}
+---json
+{
+    "name":"it",
+    "h1":"it",
+    "title":"it -- synonyms, prabhupada.io",
+    "description":"only."
+}
+---
 
 ==== it  ====
   * only --- [[books:sb:3:15:50|SB 3.15.50]]

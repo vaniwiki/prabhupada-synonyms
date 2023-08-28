@@ -1,5 +1,11 @@
-~~Title:nase~~
-{{description>in the nose; nostrils; of the two nostrils; the two nostrils.}}
+---json
+{
+    "name":"nase",
+    "h1":"nase",
+    "title":"nase -- synonyms, prabhupada.io",
+    "description":"in the nose; nostrils; of the two nostrils; the two nostrils."
+}
+---
 
 ==== nāse  ====
   * in the nose --- [[books:sb:2:6:2|SB 2.6.2]]

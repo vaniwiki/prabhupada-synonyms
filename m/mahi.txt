@@ -1,5 +1,11 @@
-~~Title:mahi~~
-{{description>glory; the glorification.}}
+---json
+{
+    "name":"mahi",
+    "h1":"mahi",
+    "title":"mahi -- synonyms, prabhupada.io",
+    "description":"glory; the glorification."
+}
+---
 
 ==== mahi  ====
   * glory --- [[books:sb:4:7:24|SB 4.7.24]], [[books:sb:7:9:12|SB 7.9.12]]

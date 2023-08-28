@@ -1,5 +1,11 @@
-~~Title:madaḥ~~
-{{description>illusion; intoxication; madness; pride.}}
+---json
+{
+    "name":"madaḥ",
+    "h1":"madaḥ",
+    "title":"madaḥ -- synonyms, prabhupada.io",
+    "description":"illusion; intoxication; madness; pride."
+}
+---
 
 ==== madaḥ  ====
   * illusion --- [[books:sb:5:10:10|SB 5.10.10]]

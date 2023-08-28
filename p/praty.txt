@@ -1,5 +1,11 @@
-~~Title:praty~~
-{{description>conversely dissolves also.}}
+---json
+{
+    "name":"praty",
+    "h1":"praty",
+    "title":"praty -- synonyms, prabhupada.io",
+    "description":"conversely dissolves also."
+}
+---
 
 ==== praty-apidhāsyati  ====
   * conversely dissolves also --- [[books:sb:3:7:4|SB 3.7.4]]

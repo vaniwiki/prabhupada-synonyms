@@ -1,5 +1,11 @@
-~~Title:giritrāya~~
-{{description>to Śiva.}}
+---json
+{
+    "name":"giritrāya",
+    "h1":"giritrāya",
+    "title":"giritrāya -- synonyms, prabhupada.io",
+    "description":"to Śiva."
+}
+---
 
 ==== giritrāya  ====
   * to Śiva --- [[books:sb:4:2:19|SB 4.2.19]]

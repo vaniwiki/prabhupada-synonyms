@@ -1,5 +1,11 @@
-~~Title:sūtre~~
-{{description>in notes; in the Vedānta-sūtra; in the aphorisms of the Vedānta; in the synopsis; on a thread; on the thread.}}
+---json
+{
+    "name":"sūtre",
+    "h1":"sūtre",
+    "title":"sūtre -- synonyms, prabhupada.io",
+    "description":"in notes; in the Vedānta-sūtra; in the aphorisms of the Vedānta; in the synopsis; on a thread; on the thread."
+}
+---
 
 ==== sūtre  ====
   * in notes --- [[books:cc:adi:13:46|Ādi 13.46]]

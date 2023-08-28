@@ -1,5 +1,11 @@
-~~Title:haniṣye~~
-{{description>I shall kill.}}
+---json
+{
+    "name":"haniṣye",
+    "h1":"haniṣye",
+    "title":"haniṣye -- synonyms, prabhupada.io",
+    "description":"I shall kill."
+}
+---
 
 ==== haniṣye  ====
   * I shall kill --- [[books:bg:16:13-15|Bg. 16.13-15]], [[books:sb:7:4:28|SB 7.4.28]], [[books:sb:10:12:14|SB 10.12.14]]

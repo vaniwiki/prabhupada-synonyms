@@ -1,5 +1,11 @@
-~~Title:praharṣayiṣyāmi~~
-{{description>I shall become joyful.}}
+---json
+{
+    "name":"praharṣayiṣyāmi",
+    "h1":"praharṣayiṣyāmi",
+    "title":"praharṣayiṣyāmi -- synonyms, prabhupada.io",
+    "description":"I shall become joyful."
+}
+---
 
 ==== praharṣayiṣyāmi  ====
   * I shall become joyful --- [[books:cc:madhya:1:206|Madhya 1.206]], [[books:cc:madhya:8:73|Madhya 8.73]]

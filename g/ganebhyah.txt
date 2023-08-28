@@ -1,5 +1,11 @@
-~~Title:gaṇebhyaḥ~~
-{{description>from fierce aquatic animals.}}
+---json
+{
+    "name":"gaṇebhyaḥ",
+    "h1":"gaṇebhyaḥ",
+    "title":"gaṇebhyaḥ -- synonyms, prabhupada.io",
+    "description":"from fierce aquatic animals."
+}
+---
 
 ==== yādaḥ-gaṇebhyaḥ  ====
   * from fierce aquatic animals --- [[books:sb:6:8:13|SB 6.8.13]]

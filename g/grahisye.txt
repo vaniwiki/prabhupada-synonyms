@@ -1,5 +1,11 @@
-~~Title:grahīṣye~~
-{{description>I shall give.}}
+---json
+{
+    "name":"grahīṣye",
+    "h1":"grahīṣye",
+    "title":"grahīṣye -- synonyms, prabhupada.io",
+    "description":"I shall give."
+}
+---
 
 ==== grahīṣye  ====
   * I shall give --- [[books:sb:9:3:12|SB 9.3.12]]

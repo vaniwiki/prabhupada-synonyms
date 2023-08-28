@@ -1,5 +1,11 @@
-~~Title:veciyāchoṅmāthā~~
-{{description>I have sold my head.}}
+---json
+{
+    "name":"veciyāchoṅmāthā",
+    "h1":"veciyāchoṅmāthā",
+    "title":"veciyāchoṅmāthā -- synonyms, prabhupada.io",
+    "description":"I have sold my head."
+}
+---
 
 ==== veciyāchoṅmāthā  ====
   * I have sold my head --- [[books:cc:antya:4:40|Antya 4.40]]

@@ -1,5 +1,11 @@
-~~Title:iṣṭayaḥ~~
-{{description>sacrifices.}}
+---json
+{
+    "name":"iṣṭayaḥ",
+    "h1":"iṣṭayaḥ",
+    "title":"iṣṭayaḥ -- synonyms, prabhupada.io",
+    "description":"sacrifices."
+}
+---
 
 ==== iṣṭayaḥ  ====
   * sacrifices --- [[books:sb:4:1:62|SB 4.1.62]]

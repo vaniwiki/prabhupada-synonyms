@@ -1,5 +1,11 @@
-~~Title:darpa~~
-{{description>the pride.}}
+---json
+{
+    "name":"darpa",
+    "h1":"darpa",
+    "title":"darpa -- synonyms, prabhupada.io",
+    "description":"the pride."
+}
+---
 
 ==== darpa  ====
   * the pride --- [[books:cc:madhya:21:107|Madhya 21.107]]

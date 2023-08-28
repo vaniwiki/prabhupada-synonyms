@@ -1,5 +1,11 @@
-~~Title:seviha~~
-{{description>render service.}}
+---json
+{
+    "name":"seviha",
+    "h1":"seviha",
+    "title":"seviha -- synonyms, prabhupada.io",
+    "description":"render service."
+}
+---
 
 ==== seviha  ====
   * render service --- [[books:cc:madhya:10:133|Madhya 10.133]]

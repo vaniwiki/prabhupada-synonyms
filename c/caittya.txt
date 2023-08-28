@@ -1,5 +1,11 @@
-~~Title:caittya~~
-{{description>of the Supersoul.}}
+---json
+{
+    "name":"caittya",
+    "h1":"caittya",
+    "title":"caittya -- synonyms, prabhupada.io",
+    "description":"of the Supersoul."
+}
+---
 
 ==== caittya  ====
   * of the Supersoul --- [[books:cc:adi:1:48|Ādi 1.48]], [[books:cc:madhya:22:48|Madhya 22.48]]

@@ -1,5 +1,11 @@
-~~Title:kathitam~~
-{{description>described; is explained; spoken.}}
+---json
+{
+    "name":"kathitam",
+    "h1":"kathitam",
+    "title":"kathitam -- synonyms, prabhupada.io",
+    "description":"described; is explained; spoken."
+}
+---
 
 ==== kathitam  ====
   * described --- [[books:sb:3:32:31|SB 3.32.31]]

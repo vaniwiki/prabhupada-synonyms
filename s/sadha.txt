@@ -1,5 +1,11 @@
-~~Title:sādha~~
-{{description>execution.}}
+---json
+{
+    "name":"sādha",
+    "h1":"sādha",
+    "title":"sādha -- synonyms, prabhupada.io",
+    "description":"execution."
+}
+---
 
 ==== sādha  ====
   * execution --- [[books:cc:adi:12:94|Ādi 12.94]]

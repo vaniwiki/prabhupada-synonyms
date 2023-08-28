@@ -1,5 +1,11 @@
-~~Title:gaurave~~
-{{description>out of honor; out of respect.}}
+---json
+{
+    "name":"gaurave",
+    "h1":"gaurave",
+    "title":"gaurave -- synonyms, prabhupada.io",
+    "description":"out of honor; out of respect."
+}
+---
 
 ==== gaurave  ====
   * out of honor --- [[books:cc:antya:10:147|Antya 10.147]]

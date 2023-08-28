@@ -1,5 +1,11 @@
-~~Title:kāṣṭhābhiḥ~~
-{{description>plenary development.}}
+---json
+{
+    "name":"kāṣṭhābhiḥ",
+    "h1":"kāṣṭhābhiḥ",
+    "title":"kāṣṭhābhiḥ -- synonyms, prabhupada.io",
+    "description":"plenary development."
+}
+---
 
 ==== kāṣṭhābhiḥ  ====
   * plenary development --- [[books:sb:1:12:31|SB 1.12.31]]

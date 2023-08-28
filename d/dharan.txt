@@ -1,5 +1,11 @@
-~~Title:dharān~~
-{{description>the followers.}}
+---json
+{
+    "name":"dharān",
+    "h1":"dharān",
+    "title":"dharān -- synonyms, prabhupada.io",
+    "description":"the followers."
+}
+---
 
 ==== dharān  ====
   * the followers --- [[books:sb:4:7:14|SB 4.7.14]]

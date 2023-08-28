@@ -1,5 +1,11 @@
-~~Title:svasthena~~
-{{description>with a careful.}}
+---json
+{
+    "name":"svasthena",
+    "h1":"svasthena",
+    "title":"svasthena -- synonyms, prabhupada.io",
+    "description":"with a careful."
+}
+---
 
 ==== svasthena  ====
   * with a careful --- [[books:sb:6:15:26|SB 6.15.26]]

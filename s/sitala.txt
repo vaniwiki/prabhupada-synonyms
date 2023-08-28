@@ -1,5 +1,11 @@
-~~Title:śītala~~
-{{description>cold; cool; very cool.}}
+---json
+{
+    "name":"śītala",
+    "h1":"śītala",
+    "title":"śītala -- synonyms, prabhupada.io",
+    "description":"cold; cool; very cool."
+}
+---
 
 ==== śītala  ====
   * cold --- [[books:cc:madhya:4:38|Madhya 4.38]], [[books:cc:madhya:15:220|Madhya 15.220]], [[books:cc:antya:14:100|Antya 14.100]]

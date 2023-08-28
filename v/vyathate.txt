@@ -1,5 +1,11 @@
-~~Title:vyathate~~
-{{description>are distressed; is hurt.}}
+---json
+{
+    "name":"vyathate",
+    "h1":"vyathate",
+    "title":"vyathate -- synonyms, prabhupada.io",
+    "description":"are distressed; is hurt."
+}
+---
 
 ==== vyathate  ====
   * are distressed --- [[books:cc:adi:4:173|Ādi 4.173]], [[books:cc:madhya:18:65|Madhya 18.65]], [[books:cc:antya:7:40|Antya 7.40]]

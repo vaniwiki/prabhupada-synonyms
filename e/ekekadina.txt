@@ -1,5 +1,11 @@
-~~Title:ekekadina~~
-{{description>one day after another.}}
+---json
+{
+    "name":"ekekadina",
+    "h1":"ekekadina",
+    "title":"ekekadina -- synonyms, prabhupada.io",
+    "description":"one day after another."
+}
+---
 
 ==== ekekadina  ====
   * one day after another --- [[books:cc:madhya:4:90|Madhya 4.90]]

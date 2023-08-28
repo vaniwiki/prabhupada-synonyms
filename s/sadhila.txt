@@ -1,5 +1,11 @@
-~~Title:sādhila~~
-{{description>requested.}}
+---json
+{
+    "name":"sādhila",
+    "h1":"sādhila",
+    "title":"sādhila -- synonyms, prabhupada.io",
+    "description":"requested."
+}
+---
 
 ==== sādhila  ====
   * requested --- [[books:cc:antya:9:148|Antya 9.148]]

@@ -1,5 +1,11 @@
-~~Title:apantaratamah~~
-{{description>Vyāsadeva.}}
+---json
+{
+    "name":"apantaratamah",
+    "h1":"apantaratamah",
+    "title":"apantaratamah -- synonyms, prabhupada.io",
+    "description":"Vyāsadeva."
+}
+---
 
 ==== apāntaratamaḥ  ====
   * Vyāsadeva --- [[books:sb:9:4:57-59|SB 9.4.57-59]]

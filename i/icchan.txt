@@ -1,5 +1,11 @@
-~~Title:icchan~~
-{{description>desiring; desiring material comforts.}}
+---json
+{
+    "name":"icchan",
+    "h1":"icchan",
+    "title":"icchan -- synonyms, prabhupada.io",
+    "description":"desiring; desiring material comforts."
+}
+---
 
 ==== icchan  ====
   * desiring --- [[books:sb:3:31:17|SB 3.31.17]], [[books:sb:4:11:32|SB 4.11.32]], [[books:sb:7:10:5|SB 7.10.5]], [[books:sb:8:24:5|SB 8.24.5]], [[books:cc:antya:6:314|Antya 6.314]]

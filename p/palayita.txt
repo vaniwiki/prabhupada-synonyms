@@ -1,5 +1,11 @@
-~~Title:pālayitā~~
-{{description>the maintainer, Lord Viṣṇu.}}
+---json
+{
+    "name":"pālayitā",
+    "h1":"pālayitā",
+    "title":"pālayitā -- synonyms, prabhupada.io",
+    "description":"the maintainer, Lord Viṣṇu."
+}
+---
 
 ==== pālayitā viṣṇu  ====
   * the maintainer, Lord Viṣṇu --- [[books:cc:adi:5:111|Ādi 5.111]]

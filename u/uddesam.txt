@@ -1,5 +1,11 @@
-~~Title:uddeśam~~
-{{description>to the deep forest.}}
+---json
+{
+    "name":"uddeśam",
+    "h1":"uddeśam",
+    "title":"uddeśam -- synonyms, prabhupada.io",
+    "description":"to the deep forest."
+}
+---
 
 ==== vana-uddeśam  ====
   * to the deep forest --- [[books:cc:madhya:19:207-209|Madhya 19.207-209]]

@@ -1,5 +1,11 @@
-~~Title:punarvasu~~
-{{description>the star named Punarvasu.}}
+---json
+{
+    "name":"punarvasu",
+    "h1":"punarvasu",
+    "title":"punarvasu -- synonyms, prabhupada.io",
+    "description":"the star named Punarvasu."
+}
+---
 
 ==== punarvasu  ====
   * the star named Punarvasu --- [[books:sb:5:23:6|SB 5.23.6]]

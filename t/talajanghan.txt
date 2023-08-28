@@ -1,5 +1,11 @@
-~~Title:tālajaṅghān~~
-{{description>the uncivilized clan named Tālajaṅgha.}}
+---json
+{
+    "name":"tālajaṅghān",
+    "h1":"tālajaṅghān",
+    "title":"tālajaṅghān -- synonyms, prabhupada.io",
+    "description":"the uncivilized clan named Tālajaṅgha."
+}
+---
 
 ==== tālajaṅghān  ====
   * the uncivilized clan named Tālajaṅgha --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

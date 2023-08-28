@@ -1,5 +1,11 @@
-~~Title:bhavādṛśām~~
-{{description>like your good self.}}
+---json
+{
+    "name":"bhavādṛśām",
+    "h1":"bhavādṛśām",
+    "title":"bhavādṛśām -- synonyms, prabhupada.io",
+    "description":"like your good self."
+}
+---
 
 ==== bhavādṛśām  ====
   * like your good self --- [[books:sb:8:20:10|SB 8.20.10]]

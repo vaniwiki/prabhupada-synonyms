@@ -1,5 +1,11 @@
-~~Title:vipaṇaḥ~~
-{{description>named Vipaṇa; stores.}}
+---json
+{
+    "name":"vipaṇaḥ",
+    "h1":"vipaṇaḥ",
+    "title":"vipaṇaḥ -- synonyms, prabhupada.io",
+    "description":"named Vipaṇa; stores."
+}
+---
 
 ==== vipaṇaḥ  ====
   * named Vipaṇa --- [[books:sb:4:29:11|SB 4.29.11]]

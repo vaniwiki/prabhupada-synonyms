@@ -1,5 +1,11 @@
-~~Title:adhikartum~~
-{{description>to make more.}}
+---json
+{
+    "name":"adhikartum",
+    "h1":"adhikartum",
+    "title":"adhikartum -- synonyms, prabhupada.io",
+    "description":"to make more."
+}
+---
 
 ==== adhikartum  ====
   * to make more --- [[books:cc:madhya:16:145|Madhya 16.145]]

@@ -1,5 +1,11 @@
-~~Title:ceṣṭām~~
-{{description>activities; attempt or pastimes.}}
+---json
+{
+    "name":"ceṣṭām",
+    "h1":"ceṣṭām",
+    "title":"ceṣṭām -- synonyms, prabhupada.io",
+    "description":"activities; attempt or pastimes."
+}
+---
 
 ==== ceṣṭām  ====
   * activities --- [[books:sb:3:2:28|SB 3.2.28]]

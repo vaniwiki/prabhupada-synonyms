@@ -1,5 +1,11 @@
-~~Title:bhojanaiḥ~~
-{{description>dining together.}}
+---json
+{
+    "name":"bhojanaiḥ",
+    "h1":"bhojanaiḥ",
+    "title":"bhojanaiḥ -- synonyms, prabhupada.io",
+    "description":"dining together."
+}
+---
 
 ==== bhojanaiḥ  ====
   * dining together --- [[books:sb:1:10:11-12|SB 1.10.11-12]]

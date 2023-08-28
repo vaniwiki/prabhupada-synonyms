@@ -1,5 +1,11 @@
-~~Title:dhāvat~~
-{{description>running.}}
+---json
+{
+    "name":"dhāvat",
+    "h1":"dhāvat",
+    "title":"dhāvat -- synonyms, prabhupada.io",
+    "description":"running."
+}
+---
 
 ==== dhāvat  ====
   * running --- [[books:sb:3:21:18|SB 3.21.18]]

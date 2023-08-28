@@ -1,5 +1,11 @@
-~~Title:dhānyavān~~
-{{description>very rich, possessing wealth and rice.}}
+---json
+{
+    "name":"dhānyavān",
+    "h1":"dhānyavān",
+    "title":"dhānyavān -- synonyms, prabhupada.io",
+    "description":"very rich, possessing wealth and rice."
+}
+---
 
 ==== dhana-dhānyavān  ====
   * very rich, possessing wealth and rice --- [[books:cc:adi:14:55|Ādi 14.55]]

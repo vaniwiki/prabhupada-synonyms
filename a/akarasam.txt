@@ -1,5 +1,11 @@
-~~Title:akāraṣam~~
-{{description>performed.}}
+---json
+{
+    "name":"akāraṣam",
+    "h1":"akāraṣam",
+    "title":"akāraṣam -- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== akāraṣam  ====
   * performed --- [[books:sb:1:6:5|SB 1.6.5]]

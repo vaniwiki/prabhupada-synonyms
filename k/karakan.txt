@@ -1,5 +1,11 @@
-~~Title:kārakān~~
-{{description>senses.}}
+---json
+{
+    "name":"kārakān",
+    "h1":"kārakān",
+    "title":"kārakān -- synonyms, prabhupada.io",
+    "description":"senses."
+}
+---
 
 ==== kārakān  ====
   * senses --- [[books:sb:8:6:16|SB 8.6.16]]

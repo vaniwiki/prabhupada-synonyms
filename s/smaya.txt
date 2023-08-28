@@ -1,5 +1,11 @@
-~~Title:smaya~~
-{{description>pride; the pride.}}
+---json
+{
+    "name":"smaya",
+    "h1":"smaya",
+    "title":"smaya -- synonyms, prabhupada.io",
+    "description":"pride; the pride."
+}
+---
 
 ==== smaya  ====
   * pride --- [[books:sb:1:17:24|SB 1.17.24]]

@@ -1,5 +1,11 @@
-~~Title:bhakṣitavān~~
-{{description>have eaten; have eaten dirt.}}
+---json
+{
+    "name":"bhakṣitavān",
+    "h1":"bhakṣitavān",
+    "title":"bhakṣitavān -- synonyms, prabhupada.io",
+    "description":"have eaten; have eaten dirt."
+}
+---
 
 ==== bhakṣitavān  ====
   * have eaten --- [[books:sb:10:8:34|SB 10.8.34]]

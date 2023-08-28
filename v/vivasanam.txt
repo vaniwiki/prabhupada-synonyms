@@ -1,5 +1,11 @@
-~~Title:vivaśānām~~
-{{description>unable.}}
+---json
+{
+    "name":"vivaśānām",
+    "h1":"vivaśānām",
+    "title":"vivaśānām -- synonyms, prabhupada.io",
+    "description":"unable."
+}
+---
 
 ==== vivaśānām  ====
   * unable --- [[books:sb:5:3:12|SB 5.3.12]]

@@ -1,5 +1,11 @@
-~~Title:dāsera~~
-{{description>most obedient servant of Your servant.}}
+---json
+{
+    "name":"dāsera",
+    "h1":"dāsera",
+    "title":"dāsera -- synonyms, prabhupada.io",
+    "description":"most obedient servant of Your servant."
+}
+---
 
 ==== dāsera anudāsa  ====
   * most obedient servant of Your servant --- [[books:cc:madhya:14:18|Madhya 14.18]]

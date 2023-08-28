@@ -1,5 +1,11 @@
-~~Title:apyayāt~~
-{{description>created.}}
+---json
+{
+    "name":"apyayāt",
+    "h1":"apyayāt",
+    "title":"apyayāt -- synonyms, prabhupada.io",
+    "description":"created."
+}
+---
 
 ==== apyayāt  ====
   * created --- [[books:sb:2:2:1|SB 2.2.1]]

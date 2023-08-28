@@ -1,5 +1,11 @@
-~~Title:āgnīdhraka~~
-{{description>Āgnīdhraka.}}
+---json
+{
+    "name":"āgnīdhraka",
+    "h1":"āgnīdhraka",
+    "title":"āgnīdhraka -- synonyms, prabhupada.io",
+    "description":"Āgnīdhraka."
+}
+---
 
 ==== āgnīdhraka  ====
   * Āgnīdhraka --- [[books:sb:8:13:28|SB 8.13.28]]

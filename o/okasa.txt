@@ -1,5 +1,11 @@
-~~Title:okasā~~
-{{description>who is living in the forest.}}
+---json
+{
+    "name":"okasā",
+    "h1":"okasā",
+    "title":"okasā -- synonyms, prabhupada.io",
+    "description":"who is living in the forest."
+}
+---
 
 ==== vana-okasā  ====
   * who is living in the forest --- [[books:sb:10:4:36|SB 10.4.36]]

@@ -1,5 +1,11 @@
-~~Title:anudhāvantīm~~
-{{description>chasing.}}
+---json
+{
+    "name":"anudhāvantīm",
+    "h1":"anudhāvantīm",
+    "title":"anudhāvantīm -- synonyms, prabhupada.io",
+    "description":"chasing."
+}
+---
 
 ==== anudhāvantīm  ====
   * chasing --- [[books:sb:6:13:12-13|SB 6.13.12-13]]

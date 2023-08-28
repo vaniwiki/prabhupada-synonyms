@@ -1,5 +1,11 @@
-~~Title:subha~~
-{{description>auspicious; good.}}
+---json
+{
+    "name":"subha",
+    "h1":"subha",
+    "title":"subha -- synonyms, prabhupada.io",
+    "description":"auspicious; good."
+}
+---
 
 ==== śubha  ====
   * auspicious --- [[books:bg:12:17|Bg. 12.17]]

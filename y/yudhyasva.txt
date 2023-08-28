@@ -1,5 +1,11 @@
-~~Title:yudhyasva~~
-{{description>fight; just fight.}}
+---json
+{
+    "name":"yudhyasva",
+    "h1":"yudhyasva",
+    "title":"yudhyasva -- synonyms, prabhupada.io",
+    "description":"fight; just fight."
+}
+---
 
 ==== yudhyasva  ====
   * fight --- [[books:bg:2:18|Bg. 2.18]], [[books:bg:3:30|Bg. 3.30]]

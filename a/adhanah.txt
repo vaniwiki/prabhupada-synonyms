@@ -1,5 +1,11 @@
-~~Title:adhanah~~
-{{description>a poor man; one who has no wealth.}}
+---json
+{
+    "name":"adhanah",
+    "h1":"adhanah",
+    "title":"adhanah -- synonyms, prabhupada.io",
+    "description":"a poor man; one who has no wealth."
+}
+---
 
 ==== adhanaḥ  ====
   * a poor man --- [[books:sb:4:9:35|SB 4.9.35]], [[books:sb:5:3:13|SB 5.3.13]]

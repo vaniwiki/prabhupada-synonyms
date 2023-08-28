@@ -1,5 +1,11 @@
-~~Title:vedam~~
-{{description>knowledge; the Vedas; the four Vedas; the personified Veda; the respective Vedas; the transcendental knowledge known as Veda; the Vedic literature; they are all Vedic knowledge.}}
+---json
+{
+    "name":"vedam",
+    "h1":"vedam",
+    "title":"vedam -- synonyms, prabhupada.io",
+    "description":"knowledge; the Vedas; the four Vedas; the personified Veda; the respective Vedas; the transcendental knowledge known as Veda; the Vedic literature; they are all Vedic knowledge."
+}
+---
 
 ==== vedam  ====
   * knowledge --- [[books:sb:2:7:21|SB 2.7.21]], [[books:sb:3:12:38|SB 3.12.38]]

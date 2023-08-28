@@ -1,5 +1,11 @@
-~~Title:piṅo~~
-{{description>drink.}}
+---json
+{
+    "name":"piṅo",
+    "h1":"piṅo",
+    "title":"piṅo -- synonyms, prabhupada.io",
+    "description":"drink."
+}
+---
 
 ==== piṅo  ====
   * drink --- [[books:cc:antya:16:125|Antya 16.125]]

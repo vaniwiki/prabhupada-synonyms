@@ -1,5 +1,11 @@
-~~Title:kṣauṇī~~
-{{description>the land.}}
+---json
+{
+    "name":"kṣauṇī",
+    "h1":"kṣauṇī",
+    "title":"kṣauṇī -- synonyms, prabhupada.io",
+    "description":"the land."
+}
+---
 
 ==== kṣauṇī  ====
   * the land --- [[books:cc:madhya:1:84|Madhya 1.84]]

@@ -1,5 +1,11 @@
-~~Title:aṅkure~~
-{{description>whose seed of ecstatic emotion.}}
+---json
+{
+    "name":"aṅkure",
+    "h1":"aṅkure",
+    "title":"aṅkure -- synonyms, prabhupada.io",
+    "description":"whose seed of ecstatic emotion."
+}
+---
 
 ==== bhāva-aṅkure  ====
   * whose seed of ecstatic emotion --- [[books:cc:madhya:23:18-19|Madhya 23.18-19]]

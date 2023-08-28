@@ -1,5 +1,11 @@
-~~Title:atisaktaḥ~~
-{{description>not attached to material existence.}}
+---json
+{
+    "name":"atisaktaḥ",
+    "h1":"atisaktaḥ",
+    "title":"atisaktaḥ -- synonyms, prabhupada.io",
+    "description":"not attached to material existence."
+}
+---
 
 ==== na atisaktaḥ  ====
   * not attached to material existence --- [[books:cc:madhya:22:50|Madhya 22.50]]

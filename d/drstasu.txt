@@ -1,5 +1,11 @@
-~~Title:dṛṣṭāsu~~
-{{description>when experienced.}}
+---json
+{
+    "name":"dṛṣṭāsu",
+    "h1":"dṛṣṭāsu",
+    "title":"dṛṣṭāsu -- synonyms, prabhupada.io",
+    "description":"when experienced."
+}
+---
 
 ==== dṛṣṭāsu  ====
   * when experienced --- [[books:sb:4:20:12|SB 4.20.12]]

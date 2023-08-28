@@ -1,5 +1,11 @@
-~~Title:medaḥ~~
-{{description>fat; marrow; whose fat.}}
+---json
+{
+    "name":"medaḥ",
+    "h1":"medaḥ",
+    "title":"medaḥ -- synonyms, prabhupada.io",
+    "description":"fat; marrow; whose fat."
+}
+---
 
 ==== medaḥ  ====
   * fat --- [[books:sb:2:10:31|SB 2.10.31]]

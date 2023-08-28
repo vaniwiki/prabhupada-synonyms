@@ -1,5 +1,11 @@
-~~Title:vāsāra~~
-{{description>of the residence; of the residential quarters.}}
+---json
+{
+    "name":"vāsāra",
+    "h1":"vāsāra",
+    "title":"vāsāra -- synonyms, prabhupada.io",
+    "description":"of the residence; of the residential quarters."
+}
+---
 
 ==== vāsāra  ====
   * of the residence --- [[books:cc:madhya:1:61|Madhya 1.61]]

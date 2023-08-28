@@ -1,5 +1,11 @@
-~~Title:nimnam~~
-{{description>to low ground.}}
+---json
+{
+    "name":"nimnam",
+    "h1":"nimnam",
+    "title":"nimnam -- synonyms, prabhupada.io",
+    "description":"to low ground."
+}
+---
 
 ==== nimnam  ====
   * to low ground --- [[books:sb:4:9:47|SB 4.9.47]]

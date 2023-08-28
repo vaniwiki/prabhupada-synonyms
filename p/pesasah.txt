@@ -1,5 +1,11 @@
-~~Title:peśasaḥ~~
-{{description>growing youthful.}}
+---json
+{
+    "name":"peśasaḥ",
+    "h1":"peśasaḥ",
+    "title":"peśasaḥ -- synonyms, prabhupada.io",
+    "description":"growing youthful."
+}
+---
 
 ==== su-peśasaḥ  ====
   * growing youthful --- [[books:sb:2:9:11|SB 2.9.11]]

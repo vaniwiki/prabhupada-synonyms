@@ -1,5 +1,11 @@
-~~Title:vānaprasthasya~~
-{{description>of a person in the vānaprastha-āśrama (retired life).}}
+---json
+{
+    "name":"vānaprasthasya",
+    "h1":"vānaprasthasya",
+    "title":"vānaprasthasya -- synonyms, prabhupada.io",
+    "description":"of a person in the vānaprastha-āśrama (retired life)."
+}
+---
 
 ==== vānaprasthasya  ====
   * of a person in the //vānaprastha-āśrama// (retired life) --- [[books:sb:7:12:17|SB 7.12.17]]

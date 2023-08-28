@@ -1,5 +1,11 @@
-~~Title:nahena~~
-{{description>is not; it is not.}}
+---json
+{
+    "name":"nahena",
+    "h1":"nahena",
+    "title":"nahena -- synonyms, prabhupada.io",
+    "description":"is not; it is not."
+}
+---
 
 ==== nahena  ====
   * is not --- [[books:cc:madhya:10:13|Madhya 10.13]]

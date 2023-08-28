@@ -1,5 +1,11 @@
-~~Title:parīkṣite~~
-{{description>to test.}}
+---json
+{
+    "name":"parīkṣite",
+    "h1":"parīkṣite",
+    "title":"parīkṣite -- synonyms, prabhupada.io",
+    "description":"to test."
+}
+---
 
 ==== parīkṣite  ====
   * to test --- [[books:cc:antya:4:195|Antya 4.195]], [[books:cc:antya:7:155|Antya 7.155]]

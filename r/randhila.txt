@@ -1,5 +1,11 @@
-~~Title:randhila~~
-{{description>cooked.}}
+---json
+{
+    "name":"randhila",
+    "h1":"randhila",
+    "title":"randhila -- synonyms, prabhupada.io",
+    "description":"cooked."
+}
+---
 
 ==== rāndhila  ====
   * cooked --- [[books:cc:antya:2:108|Antya 2.108]]

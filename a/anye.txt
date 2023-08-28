@@ -1,5 +1,11 @@
-~~Title:anye~~
-{{description>all; another; another debauchee; besides them; different persons; in the other; many others; other; other person; others (nondevotees); others (the ominous planets); others; similar others; still others; the others; to another; unto others.}}
+---json
+{
+    "name":"anye",
+    "h1":"anye",
+    "title":"anye -- synonyms, prabhupada.io",
+    "description":"all; another; another debauchee; besides them; different persons; in the other; many others; other; other person; others (nondevotees); others (the ominous planets); others; similar others; still others; the others; to another; unto others."
+}
+---
 
 ==== anye  ====
   * all --- [[books:sb:2:10:37-40|SB 2.10.37-40]]

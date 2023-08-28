@@ -1,5 +1,11 @@
-~~Title:yajantaḥ~~
-{{description>worshiping.}}
+---json
+{
+    "name":"yajantaḥ",
+    "h1":"yajantaḥ",
+    "title":"yajantaḥ -- synonyms, prabhupada.io",
+    "description":"worshiping."
+}
+---
 
 ==== yajantaḥ  ====
   * worshiping --- [[books:bg:9:15|Bg. 9.15]], [[books:sb:5:22:4|SB 5.22.4]]

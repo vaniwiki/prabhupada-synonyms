@@ -1,5 +1,11 @@
-~~Title:kakhana~~
-{{description>any time.}}
+---json
+{
+    "name":"kakhana",
+    "h1":"kakhana",
+    "title":"kakhana -- synonyms, prabhupada.io",
+    "description":"any time."
+}
+---
 
 ==== kakhana  ====
   * any time --- [[books:cc:adi:10:22|Ādi 10.22]]

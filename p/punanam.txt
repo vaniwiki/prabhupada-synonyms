@@ -1,5 +1,11 @@
-~~Title:punānam~~
-{{description>sanctifying.}}
+---json
+{
+    "name":"punānam",
+    "h1":"punānam",
+    "title":"punānam -- synonyms, prabhupada.io",
+    "description":"sanctifying."
+}
+---
 
 ==== punānam  ====
   * sanctifying --- [[books:sb:4:29:84|SB 4.29.84]]

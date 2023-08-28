@@ -1,5 +1,11 @@
-~~Title:pratyādade~~
-{{description>returned.}}
+---json
+{
+    "name":"pratyādade",
+    "h1":"pratyādade",
+    "title":"pratyādade -- synonyms, prabhupada.io",
+    "description":"returned."
+}
+---
 
 ==== pratyādade  ====
   * returned --- [[books:sb:5:18:6|SB 5.18.6]]

@@ -1,5 +1,11 @@
-~~Title:srakṣyāmi~~
-{{description>will be able to create.}}
+---json
+{
+    "name":"srakṣyāmi",
+    "h1":"srakṣyāmi",
+    "title":"srakṣyāmi -- synonyms, prabhupada.io",
+    "description":"will be able to create."
+}
+---
 
 ==== srakṣyāmi  ====
   * will be able to create --- [[books:sb:3:9:22|SB 3.9.22]]

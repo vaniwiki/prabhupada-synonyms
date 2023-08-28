@@ -1,5 +1,11 @@
-~~Title:varīyasā~~
-{{description>most exalted.}}
+---json
+{
+    "name":"varīyasā",
+    "h1":"varīyasā",
+    "title":"varīyasā -- synonyms, prabhupada.io",
+    "description":"most exalted."
+}
+---
 
 ==== varīyasā  ====
   * most exalted --- [[books:sb:5:4:2|SB 5.4.2]]

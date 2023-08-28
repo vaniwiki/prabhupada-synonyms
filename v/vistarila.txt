@@ -1,5 +1,11 @@
-~~Title:vistārilā~~
-{{description>expansively described.}}
+---json
+{
+    "name":"vistārilā",
+    "h1":"vistārilā",
+    "title":"vistārilā -- synonyms, prabhupada.io",
+    "description":"expansively described."
+}
+---
 
 ==== vistārilā  ====
   * expansively described --- [[books:cc:madhya:25:267|Madhya 25.267]]

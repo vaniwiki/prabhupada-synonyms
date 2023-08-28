@@ -1,5 +1,11 @@
-~~Title:madraḥ~~
-{{description>Madra.}}
+---json
+{
+    "name":"madraḥ",
+    "h1":"madraḥ",
+    "title":"madraḥ -- synonyms, prabhupada.io",
+    "description":"Madra."
+}
+---
 
 ==== madraḥ  ====
   * Madra --- [[books:sb:9:23:3-4|SB 9.23.3-4]]

@@ -1,5 +1,11 @@
-~~Title:avabhāse~~
-{{description>who manifests the three modes of material nature.}}
+---json
+{
+    "name":"avabhāse",
+    "h1":"avabhāse",
+    "title":"avabhāse -- synonyms, prabhupada.io",
+    "description":"who manifests the three modes of material nature."
+}
+---
 
 ==== guṇa-avabhāse  ====
   * who manifests the three modes of material nature --- [[books:sb:3:24:43|SB 3.24.43]]

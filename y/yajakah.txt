@@ -1,5 +1,11 @@
-~~Title:yājakāḥ~~
-{{description>the priests of the demon Hiraṇyakaśipu.}}
+---json
+{
+    "name":"yājakāḥ",
+    "h1":"yājakāḥ",
+    "title":"yājakāḥ -- synonyms, prabhupada.io",
+    "description":"the priests of the demon Hiraṇyakaśipu."
+}
+---
 
 ==== daitya-yājakāḥ  ====
   * the priests of the demon Hiraṇyakaśipu --- [[books:sb:7:5:8|SB 7.5.8]]

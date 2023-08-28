@@ -1,5 +1,11 @@
-~~Title:sāndra~~
-{{description>whose nature is very condensed.}}
+---json
+{
+    "name":"sāndra",
+    "h1":"sāndra",
+    "title":"sāndra -- synonyms, prabhupada.io",
+    "description":"whose nature is very condensed."
+}
+---
 
 ==== sāndra-ātmā  ====
   * whose nature is very condensed --- [[books:cc:madhya:23:7|Madhya 23.7]]

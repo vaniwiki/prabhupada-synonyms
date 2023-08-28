@@ -1,5 +1,11 @@
-~~Title:nākuliḥ~~
-{{description>of Nakula.}}
+---json
+{
+    "name":"nākuliḥ",
+    "h1":"nākuliḥ",
+    "title":"nākuliḥ -- synonyms, prabhupada.io",
+    "description":"of Nakula."
+}
+---
 
 ==== nākuliḥ  ====
   * of Nakula --- [[books:sb:9:22:29|SB 9.22.29]]

@@ -1,5 +1,11 @@
-~~Title:sapāda~~
-{{description>two and a quarter crores (22,500,000).}}
+---json
+{
+    "name":"sapāda",
+    "h1":"sapāda",
+    "title":"sapāda -- synonyms, prabhupada.io",
+    "description":"two and a quarter crores (22,500,000)."
+}
+---
 
 ==== sapāda-koṭi-dvayam  ====
   * two and a quarter //crores// (22,500,000) --- [[books:sb:5:21:10|SB 5.21.10]]

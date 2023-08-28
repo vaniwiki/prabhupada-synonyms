@@ -1,5 +1,11 @@
-~~Title:maṇḍite~~
-{{description>surrounded by.}}
+---json
+{
+    "name":"maṇḍite",
+    "h1":"maṇḍite",
+    "title":"maṇḍite -- synonyms, prabhupada.io",
+    "description":"surrounded by."
+}
+---
 
 ==== maṇḍite  ====
   * surrounded by --- [[books:sb:1:7:3|SB 1.7.3]]

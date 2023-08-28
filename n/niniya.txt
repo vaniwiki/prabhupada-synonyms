@@ -1,5 +1,11 @@
-~~Title:ninīya~~
-{{description>downwards; having offered.}}
+---json
+{
+    "name":"ninīya",
+    "h1":"ninīya",
+    "title":"ninīya -- synonyms, prabhupada.io",
+    "description":"downwards; having offered."
+}
+---
 
 ==== ninīya  ====
   * downwards --- [[books:sb:1:8:31|SB 1.8.31]]

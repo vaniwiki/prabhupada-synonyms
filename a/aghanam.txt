@@ -1,5 +1,11 @@
-~~Title:aghānām~~
-{{description>of all sins and offenses.}}
+---json
+{
+    "name":"aghānām",
+    "h1":"aghānām",
+    "title":"aghānām -- synonyms, prabhupada.io",
+    "description":"of all sins and offenses."
+}
+---
 
 ==== aghānām  ====
   * of all sins and offenses --- [[books:cc:madhya:3:28|Madhya 3.28]]

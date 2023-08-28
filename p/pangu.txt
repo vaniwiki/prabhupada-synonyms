@@ -1,5 +1,11 @@
-~~Title:paṅgu~~
-{{description>lame; lame man; the lame.}}
+---json
+{
+    "name":"paṅgu",
+    "h1":"paṅgu",
+    "title":"paṅgu -- synonyms, prabhupada.io",
+    "description":"lame; lame man; the lame."
+}
+---
 
 ==== paṅgu  ====
   * lame --- [[books:cc:adi:7:26|Ādi 7.26]]

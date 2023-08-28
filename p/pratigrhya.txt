@@ -1,5 +1,11 @@
-~~Title:pratigṛhya~~
-{{description>accepting the order.}}
+---json
+{
+    "name":"pratigṛhya",
+    "h1":"pratigṛhya",
+    "title":"pratigṛhya -- synonyms, prabhupada.io",
+    "description":"accepting the order."
+}
+---
 
 ==== pratigṛhya  ====
   * accepting the order --- [[books:sb:10:2:14|SB 10.2.14]]

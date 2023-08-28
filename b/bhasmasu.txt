@@ -1,5 +1,11 @@
-~~Title:bhasmasu~~
-{{description>or a pile of ashes.}}
+---json
+{
+    "name":"bhasmasu",
+    "h1":"bhasmasu",
+    "title":"bhasmasu -- synonyms, prabhupada.io",
+    "description":"or a pile of ashes."
+}
+---
 
 ==== bhasmasu  ====
   * or a pile of ashes --- [[books:sb:7:13:40|SB 7.13.40]]

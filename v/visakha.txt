@@ -1,5 +1,11 @@
-~~Title:visakha~~
-{{description>headed by Viśākha.}}
+---json
+{
+    "name":"visakha",
+    "h1":"visakha",
+    "title":"visakha -- synonyms, prabhupada.io",
+    "description":"headed by Viśākha."
+}
+---
 
 ==== viśākha-ādayaḥ  ====
   * headed by Viśākha --- [[books:sb:6:6:14|SB 6.6.14]]

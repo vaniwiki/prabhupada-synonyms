@@ -1,5 +1,11 @@
-~~Title:sattvaiḥ~~
-{{description>by creatures being used as vehicles.}}
+---json
+{
+    "name":"sattvaiḥ",
+    "h1":"sattvaiḥ",
+    "title":"sattvaiḥ -- synonyms, prabhupada.io",
+    "description":"by creatures being used as vehicles."
+}
+---
 
 ==== sattvaiḥ  ====
   * by creatures being used as vehicles --- [[books:sb:8:10:10-12|SB 8.10.10-12]]

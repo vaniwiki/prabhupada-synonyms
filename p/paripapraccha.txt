@@ -1,5 +1,11 @@
-~~Title:paripapraccha~~
-{{description>inquired.}}
+---json
+{
+    "name":"paripapraccha",
+    "h1":"paripapraccha",
+    "title":"paripapraccha -- synonyms, prabhupada.io",
+    "description":"inquired."
+}
+---
 
 ==== paripapraccha  ====
   * inquired --- [[books:sb:2:9:43|SB 2.9.43]]

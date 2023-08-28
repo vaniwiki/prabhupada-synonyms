@@ -1,5 +1,11 @@
-~~Title:nāradam~~
-{{description>the sage Nārada; to Nārada.}}
+---json
+{
+    "name":"nāradam",
+    "h1":"nāradam",
+    "title":"nāradam -- synonyms, prabhupada.io",
+    "description":"the sage Nārada; to Nārada."
+}
+---
 
 ==== nāradam  ====
   * the sage Nārada --- [[books:sb:4:13:3|SB 4.13.3]]

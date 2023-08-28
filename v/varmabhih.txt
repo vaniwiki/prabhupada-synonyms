@@ -1,5 +1,11 @@
-~~Title:varmabhiḥ~~
-{{description>covered with armor made of gold.}}
+---json
+{
+    "name":"varmabhiḥ",
+    "h1":"varmabhiḥ",
+    "title":"varmabhiḥ -- synonyms, prabhupada.io",
+    "description":"covered with armor made of gold."
+}
+---
 
 ==== puraṭa-varmabhiḥ  ====
   * covered with armor made of gold --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

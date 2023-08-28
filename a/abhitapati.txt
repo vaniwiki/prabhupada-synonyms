@@ -1,5 +1,11 @@
-~~Title:abhitapati~~
-{{description>heats (at midday).}}
+---json
+{
+    "name":"abhitapati",
+    "h1":"abhitapati",
+    "title":"abhitapati -- synonyms, prabhupada.io",
+    "description":"heats (at midday)."
+}
+---
 
 ==== abhitapati  ====
   * heats (at midday) --- [[books:sb:5:21:8-9|SB 5.21.8-9]]

@@ -1,5 +1,11 @@
-~~Title:kīcakaiḥ~~
-{{description>and bamboo sticks.}}
+---json
+{
+    "name":"kīcakaiḥ",
+    "h1":"kīcakaiḥ",
+    "title":"kīcakaiḥ -- synonyms, prabhupada.io",
+    "description":"and bamboo sticks."
+}
+---
 
 ==== kīcakaiḥ  ====
   * and bamboo sticks --- [[books:sb:7:3:15-16|SB 7.3.15-16]]

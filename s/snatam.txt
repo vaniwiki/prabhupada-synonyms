@@ -1,5 +1,11 @@
-~~Title:snatam~~
-{{description>bathed; fully acquainted.}}
+---json
+{
+    "name":"snatam",
+    "h1":"snatam",
+    "title":"snatam -- synonyms, prabhupada.io",
+    "description":"bathed; fully acquainted."
+}
+---
 
 ==== snātam  ====
   * bathed --- [[books:sb:3:23:31|SB 3.23.31]]

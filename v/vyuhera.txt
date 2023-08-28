@@ -1,5 +1,11 @@
-~~Title:vyūhera~~
-{{description>of the quadruple expansions.}}
+---json
+{
+    "name":"vyūhera",
+    "h1":"vyūhera",
+    "title":"vyūhera -- synonyms, prabhupada.io",
+    "description":"of the quadruple expansions."
+}
+---
 
 ==== catur-vyūhera  ====
   * of the quadruple expansions --- [[books:cc:adi:5:40|Ādi 5.40]]

@@ -1,5 +1,11 @@
-~~Title:bhadrah~~
-{{description>Bhadra.}}
+---json
+{
+    "name":"bhadrah",
+    "h1":"bhadrah",
+    "title":"bhadrah -- synonyms, prabhupada.io",
+    "description":"Bhadra."
+}
+---
 
 ==== bhadraḥ  ====
   * Bhadra --- [[books:sb:4:1:7|SB 4.1.7]], [[books:sb:9:24:47-48|SB 9.24.47-48]]

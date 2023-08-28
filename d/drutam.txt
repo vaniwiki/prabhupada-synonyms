@@ -1,5 +1,11 @@
-~~Title:drutam~~
-{{description>flown; hastily; quickly; very quickly; very soon.}}
+---json
+{
+    "name":"drutam",
+    "h1":"drutam",
+    "title":"drutam -- synonyms, prabhupada.io",
+    "description":"flown; hastily; quickly; very quickly; very soon."
+}
+---
 
 ==== drutam  ====
   * flown --- [[books:sb:6:18:6|SB 6.18.6]]

@@ -1,5 +1,11 @@
-~~Title:samabhyavarṣan~~
-{{description>sufficiently rained.}}
+---json
+{
+    "name":"samabhyavarṣan",
+    "h1":"samabhyavarṣan",
+    "title":"samabhyavarṣan -- synonyms, prabhupada.io",
+    "description":"sufficiently rained."
+}
+---
 
 ==== samabhyavarṣan  ====
   * sufficiently rained --- [[books:sb:8:7:15|SB 8.7.15]]

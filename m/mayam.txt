@@ -1,5 +1,11 @@
-~~Title:mayam~~
-{{description>consisting; fully engaged in; made; pervaded by; sum total; the demon named Maya; unto Maya Dānava.}}
+---json
+{
+    "name":"mayam",
+    "h1":"mayam",
+    "title":"mayam -- synonyms, prabhupada.io",
+    "description":"consisting; fully engaged in; made; pervaded by; sum total; the demon named Maya; unto Maya Dānava."
+}
+---
 
 ==== mayam  ====
   * consisting --- [[books:sb:5:26:38|SB 5.26.38]]

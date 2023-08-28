@@ -1,5 +1,11 @@
-~~Title:nirbibheda~~
-{{description>appeared; divided.}}
+---json
+{
+    "name":"nirbibheda",
+    "h1":"nirbibheda",
+    "title":"nirbibheda -- synonyms, prabhupada.io",
+    "description":"appeared; divided."
+}
+---
 
 ==== nirbibheda  ====
   * appeared --- [[books:sb:3:26:56|SB 3.26.56]]

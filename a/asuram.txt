@@ -1,5 +1,11 @@
-~~Title:asuram~~
-{{description>a demon; demoniac; demonic; the demon (Hiraṇyakaśipu); the demon.}}
+---json
+{
+    "name":"asuram",
+    "h1":"asuram",
+    "title":"asuram -- synonyms, prabhupada.io",
+    "description":"a demon; demoniac; demonic; the demon (Hiraṇyakaśipu); the demon."
+}
+---
 
 ==== asuram  ====
   * a demon --- [[books:sb:9:6:22|SB 9.6.22]]

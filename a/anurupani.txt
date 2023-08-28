@@ -1,5 +1,11 @@
-~~Title:anurūpāṇi~~
-{{description>words suitable to reply to theirs.}}
+---json
+{
+    "name":"anurūpāṇi",
+    "h1":"anurūpāṇi",
+    "title":"anurūpāṇi -- synonyms, prabhupada.io",
+    "description":"words suitable to reply to theirs."
+}
+---
 
 ==== tat-anurūpāṇi  ====
   * words suitable to reply to theirs --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

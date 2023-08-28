@@ -1,5 +1,11 @@
-~~Title:niviṣṭān~~
-{{description>who have attempted to enter.}}
+---json
+{
+    "name":"niviṣṭān",
+    "h1":"niviṣṭān",
+    "title":"niviṣṭān -- synonyms, prabhupada.io",
+    "description":"who have attempted to enter."
+}
+---
 
 ==== niviṣṭān  ====
   * who have attempted to enter --- [[books:sb:10:12:24|SB 10.12.24]]

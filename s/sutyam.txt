@@ -1,5 +1,11 @@
-~~Title:sūtyām~~
-{{description>at the time of his birth.}}
+---json
+{
+    "name":"sūtyām",
+    "h1":"sūtyām",
+    "title":"sūtyām -- synonyms, prabhupada.io",
+    "description":"at the time of his birth."
+}
+---
 
 ==== sūtyām  ====
   * at the time of his birth --- [[books:sb:1:16:1|SB 1.16.1]]

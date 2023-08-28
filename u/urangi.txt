@@ -1,5 +1,11 @@
-~~Title:uraṅgī~~
-{{description>like a serpent.}}
+---json
+{
+    "name":"uraṅgī",
+    "h1":"uraṅgī",
+    "title":"uraṅgī -- synonyms, prabhupada.io",
+    "description":"like a serpent."
+}
+---
 
 ==== uraṅgī iva  ====
   * like a serpent --- [[books:sb:9:18:15|SB 9.18.15]]

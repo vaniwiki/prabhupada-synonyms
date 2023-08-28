@@ -1,5 +1,11 @@
-~~Title:vijaya~~
-{{description>Arjuna; departure; for glorification; named Vijaya; victory; Vijaya; welcome.}}
+---json
+{
+    "name":"vijaya",
+    "h1":"vijaya",
+    "title":"vijaya -- synonyms, prabhupada.io",
+    "description":"Arjuna; departure; for glorification; named Vijaya; victory; Vijaya; welcome."
+}
+---
 
 ==== vijaya  ====
   * Arjuna --- [[books:sb:1:9:39|SB 1.9.39]], [[books:sb:3:1:36|SB 3.1.36]]

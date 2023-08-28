@@ -1,5 +1,11 @@
-~~Title:cālāo~~
-{{description>you propagate.}}
+---json
+{
+    "name":"cālāo",
+    "h1":"cālāo",
+    "title":"cālāo -- synonyms, prabhupada.io",
+    "description":"you propagate."
+}
+---
 
 ==== cālāo  ====
   * you propagate --- [[books:cc:adi:17:126|Ādi 17.126]]

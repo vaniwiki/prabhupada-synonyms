@@ -1,5 +1,11 @@
-~~Title:santyajya~~
-{{description>giving up.}}
+---json
+{
+    "name":"santyajya",
+    "h1":"santyajya",
+    "title":"santyajya -- synonyms, prabhupada.io",
+    "description":"giving up."
+}
+---
 
 ==== santyajya  ====
   * giving up --- [[books:cc:madhya:9:264|Madhya 9.264]]

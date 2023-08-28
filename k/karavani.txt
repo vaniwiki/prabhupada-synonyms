@@ -1,5 +1,11 @@
-~~Title:karavāṇi~~
-{{description>by acting; let me do.}}
+---json
+{
+    "name":"karavāṇi",
+    "h1":"karavāṇi",
+    "title":"karavāṇi -- synonyms, prabhupada.io",
+    "description":"by acting; let me do."
+}
+---
 
 ==== karavāṇi  ====
   * by acting --- [[books:sb:2:9:29|SB 2.9.29]]

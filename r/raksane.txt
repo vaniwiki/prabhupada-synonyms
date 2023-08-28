@@ -1,5 +1,11 @@
-~~Title:rakṣaṇe~~
-{{description>cannot be protected.}}
+---json
+{
+    "name":"rakṣaṇe",
+    "h1":"rakṣaṇe",
+    "title":"rakṣaṇe -- synonyms, prabhupada.io",
+    "description":"cannot be protected."
+}
+---
 
 ==== nā yāya rakṣaṇe  ====
   * cannot be protected --- [[books:cc:antya:3:23|Antya 3.23]]

@@ -1,5 +1,11 @@
-~~Title:unmattaḥ~~
-{{description>a madman.}}
+---json
+{
+    "name":"unmattaḥ",
+    "h1":"unmattaḥ",
+    "title":"unmattaḥ -- synonyms, prabhupada.io",
+    "description":"a madman."
+}
+---
 
 ==== unmattaḥ  ====
   * a madman --- [[books:sb:5:5:28|SB 5.5.28]]

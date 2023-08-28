@@ -1,5 +1,11 @@
-~~Title:āhṛtibhiḥ~~
-{{description>by presentation.}}
+---json
+{
+    "name":"āhṛtibhiḥ",
+    "h1":"āhṛtibhiḥ",
+    "title":"āhṛtibhiḥ -- synonyms, prabhupada.io",
+    "description":"by presentation."
+}
+---
 
 ==== āhṛtibhiḥ  ====
   * by presentation --- [[books:sb:1:10:30|SB 1.10.30]]

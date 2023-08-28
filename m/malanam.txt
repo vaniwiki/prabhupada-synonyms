@@ -1,5 +1,11 @@
-~~Title:malānām~~
-{{description>whose dirty things.}}
+---json
+{
+    "name":"malānām",
+    "h1":"malānām",
+    "title":"malānām -- synonyms, prabhupada.io",
+    "description":"whose dirty things."
+}
+---
 
 ==== malānām  ====
   * whose dirty things --- [[books:sb:5:3:11|SB 5.3.11]]

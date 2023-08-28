@@ -1,5 +1,11 @@
-~~Title:catasraḥ~~
-{{description>four.}}
+---json
+{
+    "name":"catasraḥ",
+    "h1":"catasraḥ",
+    "title":"catasraḥ -- synonyms, prabhupada.io",
+    "description":"four."
+}
+---
 
 ==== catasraḥ  ====
   * four --- [[books:sb:3:1:40|SB 3.1.40]], [[books:sb:4:1:34|SB 4.1.34]], [[books:sb:6:6:33-36|SB 6.6.33-36]]

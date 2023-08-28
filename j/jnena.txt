@@ -1,5 +1,11 @@
-~~Title:jñena~~
-{{description>ungrateful.}}
+---json
+{
+    "name":"jñena",
+    "h1":"jñena",
+    "title":"jñena -- synonyms, prabhupada.io",
+    "description":"ungrateful."
+}
+---
 
 ==== akṛta-jñena  ====
   * ungrateful --- [[books:sb:6:2:28|SB 6.2.28]]

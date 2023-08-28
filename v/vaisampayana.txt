@@ -1,5 +1,11 @@
-~~Title:vaiśampāyana~~
-{{description>named Vaiśampāyana.}}
+---json
+{
+    "name":"vaiśampāyana",
+    "h1":"vaiśampāyana",
+    "title":"vaiśampāyana -- synonyms, prabhupada.io",
+    "description":"named Vaiśampāyana."
+}
+---
 
 ==== vaiśampāyana  ====
   * named Vaiśampāyana --- [[books:cc:adi:3:47|Ādi 3.47]]

@@ -1,5 +1,11 @@
-~~Title:utpatti~~
-{{description>beginning; birth; creation; generation; of creation; of manifestation; of the creation; of the origin; production; repeated birth and death.}}
+---json
+{
+    "name":"utpatti",
+    "h1":"utpatti",
+    "title":"utpatti -- synonyms, prabhupada.io",
+    "description":"beginning; birth; creation; generation; of creation; of manifestation; of the creation; of the origin; production; repeated birth and death."
+}
+---
 
 ==== utpatti  ====
   * beginning --- [[books:cc:adi:16:80|Ādi 16.80]]

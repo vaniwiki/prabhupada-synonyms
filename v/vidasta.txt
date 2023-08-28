@@ -1,5 +1,11 @@
-~~Title:vidaṣṭa~~
-{{description>bitten.}}
+---json
+{
+    "name":"vidaṣṭa",
+    "h1":"vidaṣṭa",
+    "title":"vidaṣṭa -- synonyms, prabhupada.io",
+    "description":"bitten."
+}
+---
 
 ==== vidaṣṭa  ====
   * bitten --- [[books:sb:5:12:2|SB 5.12.2]]

@@ -1,5 +1,11 @@
-~~Title:meṣau~~
-{{description>the two lambs.}}
+---json
+{
+    "name":"meṣau",
+    "h1":"meṣau",
+    "title":"meṣau -- synonyms, prabhupada.io",
+    "description":"the two lambs."
+}
+---
 
 ==== meṣau  ====
   * the two lambs --- [[books:sb:9:14:31|SB 9.14.31]]

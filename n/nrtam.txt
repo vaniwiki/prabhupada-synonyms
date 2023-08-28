@@ -1,5 +1,11 @@
-~~Title:nṛtam~~
-{{description>very pleasing; very true.}}
+---json
+{
+    "name":"nṛtam",
+    "h1":"nṛtam",
+    "title":"nṛtam -- synonyms, prabhupada.io",
+    "description":"very pleasing; very true."
+}
+---
 
 ==== sū-nṛtam  ====
   * very pleasing --- [[books:sb:8:19:1|SB 8.19.1]]

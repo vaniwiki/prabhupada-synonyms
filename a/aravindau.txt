@@ -1,5 +1,11 @@
-~~Title:aravindau~~
-{{description>the lotus flowers.}}
+---json
+{
+    "name":"aravindau",
+    "h1":"aravindau",
+    "title":"aravindau -- synonyms, prabhupada.io",
+    "description":"the lotus flowers."
+}
+---
 
 ==== aravindau  ====
   * the lotus flowers --- [[books:mm:6|MM 6]]

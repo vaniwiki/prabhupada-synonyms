@@ -1,5 +1,11 @@
-~~Title:sañcayān~~
-{{description>accumulate.}}
+---json
+{
+    "name":"sañcayān",
+    "h1":"sañcayān",
+    "title":"sañcayān -- synonyms, prabhupada.io",
+    "description":"accumulate."
+}
+---
 
 ==== sañcayān  ====
   * accumulate --- [[books:bg:16:11-12|Bg. 16.11-12]]

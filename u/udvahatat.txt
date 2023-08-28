@@ -1,5 +1,11 @@
-~~Title:udvahatāt~~
-{{description>may overflow.}}
+---json
+{
+    "name":"udvahatāt",
+    "h1":"udvahatāt",
+    "title":"udvahatāt -- synonyms, prabhupada.io",
+    "description":"may overflow."
+}
+---
 
 ==== udvahatāt  ====
   * may overflow --- [[books:sb:1:8:42|SB 1.8.42]]

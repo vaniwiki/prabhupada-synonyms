@@ -1,5 +1,11 @@
-~~Title:pratyagra~~
-{{description>Pratyagra.}}
+---json
+{
+    "name":"pratyagra",
+    "h1":"pratyagra",
+    "title":"pratyagra -- synonyms, prabhupada.io",
+    "description":"Pratyagra."
+}
+---
 
 ==== pratyagra  ====
   * Pratyagra --- [[books:sb:9:22:6|SB 9.22.6]]

@@ -1,5 +1,11 @@
-~~Title:nirvāsanaḥ~~
-{{description>banishment.}}
+---json
+{
+    "name":"nirvāsanaḥ",
+    "h1":"nirvāsanaḥ",
+    "title":"nirvāsanaḥ -- synonyms, prabhupada.io",
+    "description":"banishment."
+}
+---
 
 ==== nirvāsanaḥ  ====
   * banishment --- [[books:cc:madhya:2:52|Madhya 2.52]], [[books:cc:antya:1:148|Antya 1.148]]

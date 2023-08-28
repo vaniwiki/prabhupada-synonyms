@@ -1,5 +1,11 @@
-~~Title:sankarasya~~
-{{description>of unwanted population.}}
+---json
+{
+    "name":"sankarasya",
+    "h1":"sankarasya",
+    "title":"sankarasya -- synonyms, prabhupada.io",
+    "description":"of unwanted population."
+}
+---
 
 ==== saṅkarasya  ====
   * of unwanted population --- [[books:bg:3:24|Bg. 3.24]], [[books:cc:adi:3:24|Ādi 3.24]]

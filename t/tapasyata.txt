@@ -1,5 +1,11 @@
-~~Title:tapasyatā~~
-{{description>who is always engaged in meditation.}}
+---json
+{
+    "name":"tapasyatā",
+    "h1":"tapasyatā",
+    "title":"tapasyatā -- synonyms, prabhupada.io",
+    "description":"who is always engaged in meditation."
+}
+---
 
 ==== tapasyatā  ====
   * who is always engaged in meditation --- [[books:sb:10:4:36|SB 10.4.36]]

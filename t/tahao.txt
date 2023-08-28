@@ -1,5 +1,11 @@
-~~Title:tāhāo~~
-{{description>I shall see it.}}
+---json
+{
+    "name":"tāhāo",
+    "h1":"tāhāo",
+    "title":"tāhāo -- synonyms, prabhupada.io",
+    "description":"I shall see it."
+}
+---
 
 ==== tāhāo dekhiba  ====
   * I shall see it --- [[books:cc:madhya:12:27|Madhya 12.27]]

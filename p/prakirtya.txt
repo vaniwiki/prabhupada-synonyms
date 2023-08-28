@@ -1,5 +1,11 @@
-~~Title:prakīrtya~~
-{{description>glories.}}
+---json
+{
+    "name":"prakīrtya",
+    "h1":"prakīrtya",
+    "title":"prakīrtya -- synonyms, prabhupada.io",
+    "description":"glories."
+}
+---
 
 ==== prakīrtya  ====
   * glories --- [[books:bg:11:36|Bg. 11.36]]

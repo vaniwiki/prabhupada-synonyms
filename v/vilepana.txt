@@ -1,5 +1,11 @@
-~~Title:vilepana~~
-{{description>smearing.}}
+---json
+{
+    "name":"vilepana",
+    "h1":"vilepana",
+    "title":"vilepana -- synonyms, prabhupada.io",
+    "description":"smearing."
+}
+---
 
 ==== vilepana  ====
   * smearing --- [[books:cc:madhya:8:170|Madhya 8.170]]

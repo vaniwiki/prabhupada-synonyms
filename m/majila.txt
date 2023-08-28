@@ -1,5 +1,11 @@
-~~Title:majila~~
-{{description>polished.}}
+---json
+{
+    "name":"majila",
+    "h1":"majila",
+    "title":"majila -- synonyms, prabhupada.io",
+    "description":"polished."
+}
+---
 
 ==== mājila  ====
   * polished --- [[books:cc:madhya:12:104|Madhya 12.104]]

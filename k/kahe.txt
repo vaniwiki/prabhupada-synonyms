@@ -1,5 +1,11 @@
-~~Title:kahe~~
-{{description>says; addresses; answer; anyone who describes; are indicated; asks; began to chant; began to explain; began to speak; both of them said; call; chant; chants; continued to speak; continues to speak; could say; declare; describe; described; describes; discussed; explains; expresses; he said; He says; indicates; informs; instructs; is enjoined; is known; is meant; is mentioned; is said; is sometimes said; is stated; is to be understood; is trying to speak; is understood; it is ordered; it is said; it is stated; it means; it says; Lord Caitanya Mahāprabhu says; means; mention; one means; one says; one speaks; orders; recites; replied; replies; requested; requests; said; say; says; she said; She says; someone says; speak; speaks; spoke; state; stated; submits; talk; tells; the paṇḍita says; the Lord says; they said; they say; they speak; utters; was speaking; will speak.}}
+---json
+{
+    "name":"kahe",
+    "h1":"kahe",
+    "title":"kahe -- synonyms, prabhupada.io",
+    "description":"says; addresses; answer; anyone who describes; are indicated; asks; began to chant; began to explain; began to speak; both of them said; call; chant; chants; continued to speak; continues to speak; could say; declare; describe; described; describes; discussed; explains; expresses; he said; He says; indicates; informs; instructs; is enjoined; is known; is meant; is mentioned; is said; is sometimes said; is stated; is to be understood; is trying to speak; is understood; it is ordered; it is said; it is stated; it means; it says; Lord Caitanya Mahāprabhu says; means; mention; one means; one says; one speaks; orders; recites; replied; replies; requested; requests; said; say; says; she said; She says; someone says; speak; speaks; spoke; state; stated; submits; talk; tells; the paṇḍita says; the Lord says; they said; they say; they speak; utters; was speaking; will speak."
+}
+---
 
 ==== kahe  ====
   * //says// --- [[books:cc:madhya:6:39|Madhya 6.39]]

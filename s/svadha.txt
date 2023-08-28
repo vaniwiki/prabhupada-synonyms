@@ -1,5 +1,11 @@
-~~Title:svadhā~~
-{{description>oblation; Svadhā; the ingredients to perform sacrifices; the offering to the forefathers.}}
+---json
+{
+    "name":"svadhā",
+    "h1":"svadhā",
+    "title":"svadhā -- synonyms, prabhupada.io",
+    "description":"oblation; Svadhā; the ingredients to perform sacrifices; the offering to the forefathers."
+}
+---
 
 ==== svadhā  ====
   * oblation --- [[books:bg:9:16|Bg. 9.16]]

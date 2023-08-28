@@ -1,5 +1,11 @@
-~~Title:hasantaḥ~~
-{{description>after tasting, they were all laughing.}}
+---json
+{
+    "name":"hasantaḥ",
+    "h1":"hasantaḥ",
+    "title":"hasantaḥ -- synonyms, prabhupada.io",
+    "description":"after tasting, they were all laughing."
+}
+---
 
 ==== hasantaḥ  ====
   * after tasting, they were all laughing --- [[books:sb:10:13:10|SB 10.13.10]]

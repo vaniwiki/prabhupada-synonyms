@@ -1,5 +1,11 @@
-~~Title:samānābhiḥ~~
-{{description>and by equality.}}
+---json
+{
+    "name":"samānābhiḥ",
+    "h1":"samānābhiḥ",
+    "title":"samānābhiḥ -- synonyms, prabhupada.io",
+    "description":"and by equality."
+}
+---
 
 ==== samānābhiḥ  ====
   * and by equality --- [[books:sb:5:21:3|SB 5.21.3]]

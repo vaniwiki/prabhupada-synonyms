@@ -1,5 +1,11 @@
-~~Title:anugṛṇan~~
-{{description>constantly describing.}}
+---json
+{
+    "name":"anugṛṇan",
+    "h1":"anugṛṇan",
+    "title":"anugṛṇan -- synonyms, prabhupada.io",
+    "description":"constantly describing."
+}
+---
 
 ==== anugṛṇan  ====
   * constantly describing --- [[books:sb:7:9:18|SB 7.9.18]]

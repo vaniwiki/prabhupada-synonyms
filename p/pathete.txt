@@ -1,5 +1,11 @@
-~~Title:pathete~~
-{{description>on the way.}}
+---json
+{
+    "name":"pathete",
+    "h1":"pathete",
+    "title":"pathete -- synonyms, prabhupada.io",
+    "description":"on the way."
+}
+---
 
 ==== pathete  ====
   * on the way --- [[books:cc:antya:13:94|Antya 13.94]]

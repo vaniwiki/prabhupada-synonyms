@@ -1,5 +1,11 @@
-~~Title:apaharati~~
-{{description>steals; takes away; vanquishes.}}
+---json
+{
+    "name":"apaharati",
+    "h1":"apaharati",
+    "title":"apaharati -- synonyms, prabhupada.io",
+    "description":"steals; takes away; vanquishes."
+}
+---
 
 ==== apaharati  ====
   * steals --- [[books:sb:5:26:19|SB 5.26.19]]

@@ -1,5 +1,11 @@
-~~Title:kṣaya~~
-{{description>destruction; diminished; dissipation; loss; lost; to destruction; vanquished.}}
+---json
+{
+    "name":"kṣaya",
+    "h1":"kṣaya",
+    "title":"kṣaya -- synonyms, prabhupada.io",
+    "description":"destruction; diminished; dissipation; loss; lost; to destruction; vanquished."
+}
+---
 
 ==== kṣaya  ====
   * destruction --- [[books:cc:adi:17:182|Ādi 17.182]], [[books:cc:adi:17:266|Ādi 17.266]], [[books:cc:madhya:15:107|Madhya 15.107]], [[books:cc:madhya:22:51|Madhya 22.51]], [[books:cc:antya:3:61|Antya 3.61]]

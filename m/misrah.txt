@@ -1,5 +1,11 @@
-~~Title:misrah~~
-{{description>smeared.}}
+---json
+{
+    "name":"misrah",
+    "h1":"misrah",
+    "title":"misrah -- synonyms, prabhupada.io",
+    "description":"smeared."
+}
+---
 
 ==== miśraḥ  ====
   * smeared --- [[books:sb:3:31:24|SB 3.31.24]]

@@ -1,5 +1,11 @@
-~~Title:sureṣu~~
-{{description>all the demigods.}}
+---json
+{
+    "name":"sureṣu",
+    "h1":"sureṣu",
+    "title":"sureṣu -- synonyms, prabhupada.io",
+    "description":"all the demigods."
+}
+---
 
 ==== sureṣu  ====
   * all the demigods --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

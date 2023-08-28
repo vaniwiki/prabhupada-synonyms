@@ -1,5 +1,11 @@
-~~Title:nāka~~
-{{description>nose.}}
+---json
+{
+    "name":"nāka",
+    "h1":"nāka",
+    "title":"nāka -- synonyms, prabhupada.io",
+    "description":"nose."
+}
+---
 
 ==== nāka  ====
   * nose --- [[books:cc:antya:3:198|Antya 3.198]], [[books:cc:antya:3:199|Antya 3.199]]

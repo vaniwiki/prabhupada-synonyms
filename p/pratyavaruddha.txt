@@ -1,5 +1,11 @@
-~~Title:pratyavaruddha~~
-{{description>restricted.}}
+---json
+{
+    "name":"pratyavaruddha",
+    "h1":"pratyavaruddha",
+    "title":"pratyavaruddha -- synonyms, prabhupada.io",
+    "description":"restricted."
+}
+---
 
 ==== pratyavaruddha  ====
   * restricted --- [[books:sb:1:10:1|SB 1.10.1]]

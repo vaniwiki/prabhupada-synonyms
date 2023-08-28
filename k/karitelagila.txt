@@ -1,5 +1,11 @@
-~~Title:karitelāgilā~~
-{{description>began to observe.}}
+---json
+{
+    "name":"karitelāgilā",
+    "h1":"karitelāgilā",
+    "title":"karitelāgilā -- synonyms, prabhupada.io",
+    "description":"began to observe."
+}
+---
 
 ==== karitelāgilā  ====
   * began to observe --- [[books:cc:adi:15:10|Ādi 15.10]]

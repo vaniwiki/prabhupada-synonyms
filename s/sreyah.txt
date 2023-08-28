@@ -1,5 +1,11 @@
-~~Title:sreyah~~
-{{description>benediction.}}
+---json
+{
+    "name":"sreyah",
+    "h1":"sreyah",
+    "title":"sreyah -- synonyms, prabhupada.io",
+    "description":"benediction."
+}
+---
 
 ==== sreyaḥ  ====
   * benediction --- [[books:bg:3:11|Bg. 3.11]]

@@ -1,5 +1,11 @@
-~~Title:divaḥ~~
-{{description>from the sky; of the sky; of the upper planetary system; that which glitters.}}
+---json
+{
+    "name":"divaḥ",
+    "h1":"divaḥ",
+    "title":"divaḥ -- synonyms, prabhupada.io",
+    "description":"from the sky; of the sky; of the upper planetary system; that which glitters."
+}
+---
 
 ==== divaḥ  ====
   * from the sky --- [[books:sb:1:9:4|SB 1.9.4]]

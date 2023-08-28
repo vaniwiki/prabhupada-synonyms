@@ -1,5 +1,11 @@
-~~Title:pataka~~
-{{description>big flags; flag; of flags.}}
+---json
+{
+    "name":"pataka",
+    "h1":"pataka",
+    "title":"pataka -- synonyms, prabhupada.io",
+    "description":"big flags; flag; of flags."
+}
+---
 
 ==== patākā  ====
   * big flags --- [[books:cc:madhya:14:110|Madhya 14.110]]

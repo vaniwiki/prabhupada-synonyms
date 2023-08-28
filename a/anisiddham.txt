@@ -1,5 +1,11 @@
-~~Title:aniṣiddham~~
-{{description>not forbidden.}}
+---json
+{
+    "name":"aniṣiddham",
+    "h1":"aniṣiddham",
+    "title":"aniṣiddham -- synonyms, prabhupada.io",
+    "description":"not forbidden."
+}
+---
 
 ==== aniṣiddham  ====
   * not forbidden --- [[books:sb:7:15:66|SB 7.15.66]]

@@ -1,5 +1,11 @@
-~~Title:nindaya~~
-{{description>defeating.}}
+---json
+{
+    "name":"nindaya",
+    "h1":"nindaya",
+    "title":"nindaya -- synonyms, prabhupada.io",
+    "description":"defeating."
+}
+---
 
 ==== nindaya  ====
   * defeating --- [[books:cc:madhya:15:214|Madhya 15.214]]

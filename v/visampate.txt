@@ -1,5 +1,11 @@
-~~Title:viśāmpate~~
-{{description>O King; O King Parīkṣit.}}
+---json
+{
+    "name":"viśāmpate",
+    "h1":"viśāmpate",
+    "title":"viśāmpate -- synonyms, prabhupada.io",
+    "description":"O King; O King Parīkṣit."
+}
+---
 
 ==== viśāmpate  ====
   * O King --- [[books:sb:6:13:14|SB 6.13.14]]

@@ -1,5 +1,11 @@
-~~Title:jānāmi~~
-{{description>I know.}}
+---json
+{
+    "name":"jānāmi",
+    "h1":"jānāmi",
+    "title":"jānāmi -- synonyms, prabhupada.io",
+    "description":"I know."
+}
+---
 
 ==== jānāmi  ====
   * I know --- [[books:sb:4:25:5|SB 4.25.5]], [[books:sb:8:15:28|SB 8.15.28]]

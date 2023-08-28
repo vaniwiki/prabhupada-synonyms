@@ -1,5 +1,11 @@
-~~Title:prabhāṣeta~~
-{{description>speak.}}
+---json
+{
+    "name":"prabhāṣeta",
+    "h1":"prabhāṣeta",
+    "title":"prabhāṣeta -- synonyms, prabhupada.io",
+    "description":"speak."
+}
+---
 
 ==== prabhāṣeta  ====
   * speak --- [[books:bg:2:54|Bg. 2.54]]

@@ -1,5 +1,11 @@
-~~Title:dinera~~
-{{description>of days; of the day.}}
+---json
+{
+    "name":"dinera",
+    "h1":"dinera",
+    "title":"dinera -- synonyms, prabhupada.io",
+    "description":"of days; of the day."
+}
+---
 
 ==== dinera  ====
   * of days --- [[books:cc:madhya:17:62-63|Madhya 17.62-63]]

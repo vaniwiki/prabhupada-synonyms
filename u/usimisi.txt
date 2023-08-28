@@ -1,5 +1,11 @@
-~~Title:usimisi~~
-{{description>restless.}}
+---json
+{
+    "name":"usimisi",
+    "h1":"usimisi",
+    "title":"usimisi -- synonyms, prabhupada.io",
+    "description":"restless."
+}
+---
 
 ==== usimisi  ====
   * restless --- [[books:cc:antya:3:123|Antya 3.123]]

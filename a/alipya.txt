@@ -1,5 +1,11 @@
-~~Title:ālipya~~
-{{description>smearing the body.}}
+---json
+{
+    "name":"ālipya",
+    "h1":"ālipya",
+    "title":"ālipya -- synonyms, prabhupada.io",
+    "description":"smearing the body."
+}
+---
 
 ==== ālipya  ====
   * smearing the body --- [[books:sb:8:16:26|SB 8.16.26]]

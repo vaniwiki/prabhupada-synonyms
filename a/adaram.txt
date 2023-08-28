@@ -1,5 +1,11 @@
-~~Title:ādaram~~
-{{description>along with respect; with great delight; with great respect (as befitting Lord Śiva); with great respect; with proper respect.}}
+---json
+{
+    "name":"ādaram",
+    "h1":"ādaram",
+    "title":"ādaram -- synonyms, prabhupada.io",
+    "description":"along with respect; with great delight; with great respect (as befitting Lord Śiva); with great respect; with proper respect."
+}
+---
 
 ==== sa-ādaram  ====
   * along with respect --- [[books:sb:4:4:8|SB 4.4.8]]

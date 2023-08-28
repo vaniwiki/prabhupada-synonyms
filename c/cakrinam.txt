@@ -1,5 +1,11 @@
-~~Title:cakriṇam~~
-{{description>with discs.}}
+---json
+{
+    "name":"cakriṇam",
+    "h1":"cakriṇam",
+    "title":"cakriṇam -- synonyms, prabhupada.io",
+    "description":"with discs."
+}
+---
 
 ==== cakriṇam  ====
   * with discs --- [[books:bg:11:17|Bg. 11.17]]

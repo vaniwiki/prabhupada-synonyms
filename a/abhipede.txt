@@ -1,5 +1,11 @@
-~~Title:abhipede~~
-{{description>achieved.}}
+---json
+{
+    "name":"abhipede",
+    "h1":"abhipede",
+    "title":"abhipede -- synonyms, prabhupada.io",
+    "description":"achieved."
+}
+---
 
 ==== abhipede  ====
   * achieved --- [[books:sb:4:8:21|SB 4.8.21]]

@@ -1,5 +1,11 @@
-~~Title:yāo~~
-{{description>go; You go.}}
+---json
+{
+    "name":"yāo",
+    "h1":"yāo",
+    "title":"yāo -- synonyms, prabhupada.io",
+    "description":"go; You go."
+}
+---
 
 ==== yāo  ====
   * go --- [[books:cc:adi:16:16|Ādi 16.16]], [[books:cc:antya:8:24|Antya 8.24]]

@@ -1,5 +1,11 @@
-~~Title:viviśe~~
-{{description>entered into.}}
+---json
+{
+    "name":"viviśe",
+    "h1":"viviśe",
+    "title":"viviśe -- synonyms, prabhupada.io",
+    "description":"entered into."
+}
+---
 
 ==== viviśe  ====
   * entered into --- [[books:sb:1:6:29|SB 1.6.29]]

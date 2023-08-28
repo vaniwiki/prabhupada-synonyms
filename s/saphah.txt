@@ -1,5 +1,11 @@
-~~Title:śaphāḥ~~
-{{description>hoof.}}
+---json
+{
+    "name":"śaphāḥ",
+    "h1":"śaphāḥ",
+    "title":"śaphāḥ -- synonyms, prabhupada.io",
+    "description":"hoof."
+}
+---
 
 ==== śaphāḥ  ====
   * hoof --- [[books:sb:3:10:23|SB 3.10.23]]

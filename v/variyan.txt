@@ -1,5 +1,11 @@
-~~Title:varīyān~~
-{{description>excellent; glorious; the best.}}
+---json
+{
+    "name":"varīyān",
+    "h1":"varīyān",
+    "title":"varīyān -- synonyms, prabhupada.io",
+    "description":"excellent; glorious; the best."
+}
+---
 
 ==== varīyān  ====
   * excellent --- [[books:sb:3:1:10|SB 3.1.10]]

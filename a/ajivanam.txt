@@ -1,5 +1,11 @@
-~~Title:ajīvānām~~
-{{description>than inanimate objects.}}
+---json
+{
+    "name":"ajīvānām",
+    "h1":"ajīvānām",
+    "title":"ajīvānām -- synonyms, prabhupada.io",
+    "description":"than inanimate objects."
+}
+---
 
 ==== ajīvānām  ====
   * than inanimate objects --- [[books:sb:3:29:28|SB 3.29.28]]

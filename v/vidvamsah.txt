@@ -1,5 +1,11 @@
-~~Title:vidvāṁsaḥ~~
-{{description>the learned men.}}
+---json
+{
+    "name":"vidvāṁsaḥ",
+    "h1":"vidvāṁsaḥ",
+    "title":"vidvāṁsaḥ -- synonyms, prabhupada.io",
+    "description":"the learned men."
+}
+---
 
 ==== vidvāṁsaḥ  ====
   * the learned men --- [[books:cc:adi:3:58|Ādi 3.58]]

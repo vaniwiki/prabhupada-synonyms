@@ -1,5 +1,11 @@
-~~Title:vyuṣṭam~~
-{{description>Vyuṣṭa.}}
+---json
+{
+    "name":"vyuṣṭam",
+    "h1":"vyuṣṭam",
+    "title":"vyuṣṭam -- synonyms, prabhupada.io",
+    "description":"Vyuṣṭa."
+}
+---
 
 ==== vyuṣṭam  ====
   * Vyuṣṭa --- [[books:sb:6:6:16|SB 6.6.16]]

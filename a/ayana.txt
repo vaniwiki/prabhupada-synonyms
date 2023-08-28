@@ -1,5 +1,11 @@
-~~Title:ayana~~
-{{description>the body; the motion; the shelters.}}
+---json
+{
+    "name":"ayana",
+    "h1":"ayana",
+    "title":"ayana -- synonyms, prabhupada.io",
+    "description":"the body; the motion; the shelters."
+}
+---
 
 ==== ayana  ====
   * the body --- [[books:sb:5:18:37|SB 5.18.37]]

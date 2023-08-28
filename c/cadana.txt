@@ -1,5 +1,11 @@
-~~Title:caḍāñā~~
-{{description>mounting; putting aboard; raising; seating.}}
+---json
+{
+    "name":"caḍāñā",
+    "h1":"caḍāñā",
+    "title":"caḍāñā -- synonyms, prabhupada.io",
+    "description":"mounting; putting aboard; raising; seating."
+}
+---
 
 ==== caḍāñā  ====
   * mounting --- [[books:cc:antya:11:79|Antya 11.79]]

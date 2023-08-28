@@ -1,5 +1,11 @@
-~~Title:kuḍāya~~
-{{description>how much one has collected.}}
+---json
+{
+    "name":"kuḍāya",
+    "h1":"kuḍāya",
+    "title":"kuḍāya -- synonyms, prabhupada.io",
+    "description":"how much one has collected."
+}
+---
 
 ==== ke kata kuḍāya  ====
   * how much one has collected --- [[books:cc:madhya:12:132|Madhya 12.132]]

@@ -1,5 +1,11 @@
-~~Title:ketam~~
-{{description>taking shelter.}}
+---json
+{
+    "name":"ketam",
+    "h1":"ketam",
+    "title":"ketam -- synonyms, prabhupada.io",
+    "description":"taking shelter."
+}
+---
 
 ==== kṛta-ketam  ====
   * taking shelter --- [[books:sb:3:4:6|SB 3.4.6]]

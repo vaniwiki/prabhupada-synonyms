@@ -1,5 +1,11 @@
-~~Title:vinikṣipta~~
-{{description>placed.}}
+---json
+{
+    "name":"vinikṣipta",
+    "h1":"vinikṣipta",
+    "title":"vinikṣipta -- synonyms, prabhupada.io",
+    "description":"placed."
+}
+---
 
 ==== vinikṣipta  ====
   * placed --- [[books:sb:3:23:17|SB 3.23.17]]

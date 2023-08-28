@@ -1,5 +1,11 @@
-~~Title:kroḍaiḥ~~
-{{description>by boars; with boars.}}
+---json
+{
+    "name":"kroḍaiḥ",
+    "h1":"kroḍaiḥ",
+    "title":"kroḍaiḥ -- synonyms, prabhupada.io",
+    "description":"by boars; with boars."
+}
+---
 
 ==== kroḍaiḥ  ====
   * by boars --- [[books:sb:3:21:44|SB 3.21.44]]

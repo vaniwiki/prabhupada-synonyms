@@ -1,5 +1,11 @@
-~~Title:subhadra~~
-{{description>all-auspicious; auspicious.}}
+---json
+{
+    "name":"subhadra",
+    "h1":"subhadra",
+    "title":"subhadra -- synonyms, prabhupada.io",
+    "description":"all-auspicious; auspicious."
+}
+---
 
 ==== subhadra  ====
   * all-auspicious --- [[books:sb:2:4:15|SB 2.4.15]], [[books:sb:2:4:16|SB 2.4.16]]

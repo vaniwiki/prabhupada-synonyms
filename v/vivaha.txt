@@ -1,5 +1,11 @@
-~~Title:vivāha~~
-{{description>marriage.}}
+---json
+{
+    "name":"vivāha",
+    "h1":"vivāha",
+    "title":"vivāha -- synonyms, prabhupada.io",
+    "description":"marriage."
+}
+---
 
 ==== vivāha  ====
   * marriage --- [[books:cc:adi:13:26|Ādi 13.26]], [[books:cc:adi:15:11|Ādi 15.11]], [[books:cc:adi:15:26|Ādi 15.26]], [[books:cc:adi:15:30|Ādi 15.30]]

@@ -1,5 +1,11 @@
-~~Title:aṁhasi~~
-{{description>an offense.}}
+---json
+{
+    "name":"aṁhasi",
+    "h1":"aṁhasi",
+    "title":"aṁhasi -- synonyms, prabhupada.io",
+    "description":"an offense."
+}
+---
 
 ==== aṁhasi  ====
   * an offense --- [[books:sb:9:15:15|SB 9.15.15]]

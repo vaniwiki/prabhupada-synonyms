@@ -1,5 +1,11 @@
-~~Title:nacila~~
-{{description>danced.}}
+---json
+{
+    "name":"nacila",
+    "h1":"nacila",
+    "title":"nacila -- synonyms, prabhupada.io",
+    "description":"danced."
+}
+---
 
 ==== nācila  ====
   * danced --- [[books:cc:adi:10:46|Ādi 10.46]]

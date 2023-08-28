@@ -1,5 +1,11 @@
-~~Title:prahāsyasi~~
-{{description>you can be released from.}}
+---json
+{
+    "name":"prahāsyasi",
+    "h1":"prahāsyasi",
+    "title":"prahāsyasi -- synonyms, prabhupada.io",
+    "description":"you can be released from."
+}
+---
 
 ==== prahāsyasi  ====
   * you can be released from --- [[books:bg:2:39|Bg. 2.39]]

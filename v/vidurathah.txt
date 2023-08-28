@@ -1,5 +1,11 @@
-~~Title:vidūrathaḥ~~
-{{description>a son named Vidūratha.}}
+---json
+{
+    "name":"vidūrathaḥ",
+    "h1":"vidūrathaḥ",
+    "title":"vidūrathaḥ -- synonyms, prabhupada.io",
+    "description":"a son named Vidūratha."
+}
+---
 
 ==== vidūrathaḥ  ====
   * a son named Vidūratha --- [[books:sb:9:22:10|SB 9.22.10]]

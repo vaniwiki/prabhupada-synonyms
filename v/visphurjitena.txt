@@ -1,5 +1,11 @@
-~~Title:visphūrjitena~~
-{{description>simply by the feature.}}
+---json
+{
+    "name":"visphūrjitena",
+    "h1":"visphūrjitena",
+    "title":"visphūrjitena -- synonyms, prabhupada.io",
+    "description":"simply by the feature."
+}
+---
 
 ==== visphūrjitena  ====
   * simply by the feature --- [[books:sb:7:9:23|SB 7.9.23]]

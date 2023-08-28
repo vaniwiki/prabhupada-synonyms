@@ -1,5 +1,11 @@
-~~Title:sahaja~~
-{{description>natural; rightly; simple; the direct.}}
+---json
+{
+    "name":"sahaja",
+    "h1":"sahaja",
+    "title":"sahaja -- synonyms, prabhupada.io",
+    "description":"natural; rightly; simple; the direct."
+}
+---
 
 ==== sahaja  ====
   * natural --- [[books:cc:adi:17:299|Ādi 17.299]], [[books:cc:madhya:4:95|Madhya 4.95]], [[books:cc:madhya:8:215|Madhya 8.215]], [[books:cc:madhya:14:117-118|Madhya 14.117-118]], [[books:cc:antya:5:78|Antya 5.78]], [[books:cc:antya:8:84|Antya 8.84]]

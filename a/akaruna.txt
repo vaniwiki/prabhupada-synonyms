@@ -1,5 +1,11 @@
-~~Title:akaruna~~
-{{description>most unkind.}}
+---json
+{
+    "name":"akaruna",
+    "h1":"akaruna",
+    "title":"akaruna -- synonyms, prabhupada.io",
+    "description":"most unkind."
+}
+---
 
 ==== akaruṇa  ====
   * most unkind --- [[books:cc:antya:19:48|Antya 19.48]]

@@ -1,5 +1,11 @@
-~~Title:vyavahāram~~
-{{description>mundane and social behavior.}}
+---json
+{
+    "name":"vyavahāram",
+    "h1":"vyavahāram",
+    "title":"vyavahāram -- synonyms, prabhupada.io",
+    "description":"mundane and social behavior."
+}
+---
 
 ==== vyavahāram  ====
   * mundane and social behavior --- [[books:sb:5:11:1|SB 5.11.1]]

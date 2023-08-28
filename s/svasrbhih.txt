@@ -1,5 +1,11 @@
-~~Title:svasṛbhiḥ~~
-{{description>by her aunts.}}
+---json
+{
+    "name":"svasṛbhiḥ",
+    "h1":"svasṛbhiḥ",
+    "title":"svasṛbhiḥ -- synonyms, prabhupada.io",
+    "description":"by her aunts."
+}
+---
 
 ==== mātṛ-svasṛbhiḥ  ====
   * by her aunts --- [[books:sb:4:4:8|SB 4.4.8]]

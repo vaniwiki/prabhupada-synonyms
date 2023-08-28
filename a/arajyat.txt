@@ -1,5 +1,11 @@
-~~Title:ārajyat~~
-{{description>being completely attracted.}}
+---json
+{
+    "name":"ārajyat",
+    "h1":"ārajyat",
+    "title":"ārajyat -- synonyms, prabhupada.io",
+    "description":"being completely attracted."
+}
+---
 
 ==== ārajyat  ====
   * being completely attracted --- [[books:cc:adi:4:260|Ādi 4.260]]

@@ -1,5 +1,11 @@
-~~Title:kāhāṅte~~
-{{description>anywhere.}}
+---json
+{
+    "name":"kāhāṅte",
+    "h1":"kāhāṅte",
+    "title":"kāhāṅte -- synonyms, prabhupada.io",
+    "description":"anywhere."
+}
+---
 
 ==== kāhāṅte  ====
   * anywhere --- [[books:cc:antya:1:66|Antya 1.66]]

@@ -1,5 +1,11 @@
-~~Title:śāsataḥ~~
-{{description>while ruling.}}
+---json
+{
+    "name":"śāsataḥ",
+    "h1":"śāsataḥ",
+    "title":"śāsataḥ -- synonyms, prabhupada.io",
+    "description":"while ruling."
+}
+---
 
 ==== śāsataḥ  ====
   * while ruling --- [[books:sb:1:17:16|SB 1.17.16]]

@@ -1,5 +1,11 @@
-~~Title:paresam~~
-{{description>the supreme controller.}}
+---json
+{
+    "name":"paresam",
+    "h1":"paresam",
+    "title":"paresam -- synonyms, prabhupada.io",
+    "description":"the supreme controller."
+}
+---
 
 ==== pareśam  ====
   * the supreme controller --- [[books:sb:8:12:9|SB 8.12.9]]

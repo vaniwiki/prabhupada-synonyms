@@ -1,5 +1,11 @@
-~~Title:utsave~~
-{{description>who gives pleasure.}}
+---json
+{
+    "name":"utsave",
+    "h1":"utsave",
+    "title":"utsave -- synonyms, prabhupada.io",
+    "description":"who gives pleasure."
+}
+---
 
 ==== utsave  ====
   * who gives pleasure --- [[books:cc:antya:17:51|Antya 17.51]]

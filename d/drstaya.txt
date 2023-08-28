@@ -1,5 +1,11 @@
-~~Title:dṛṣṭāya~~
-{{description>seen.}}
+---json
+{
+    "name":"dṛṣṭāya",
+    "h1":"dṛṣṭāya",
+    "title":"dṛṣṭāya -- synonyms, prabhupada.io",
+    "description":"seen."
+}
+---
 
 ==== dṛṣṭāya  ====
   * seen --- [[books:sb:4:9:58-59|SB 4.9.58-59]]

@@ -1,5 +1,11 @@
-~~Title:maitrāya~~
-{{description>friendly.}}
+---json
+{
+    "name":"maitrāya",
+    "h1":"maitrāya",
+    "title":"maitrāya -- synonyms, prabhupada.io",
+    "description":"friendly."
+}
+---
 
 ==== kṛta-maitrāya  ====
   * friendly --- [[books:sb:3:32:41|SB 3.32.41]]

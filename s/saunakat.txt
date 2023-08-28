@@ -1,5 +1,11 @@
-~~Title:śaunakāt~~
-{{description>from Śaunaka Ṛṣi.}}
+---json
+{
+    "name":"śaunakāt",
+    "h1":"śaunakāt",
+    "title":"śaunakāt -- synonyms, prabhupada.io",
+    "description":"from Śaunaka Ṛṣi."
+}
+---
 
 ==== śaunakāt  ====
   * from Śaunaka Ṛṣi --- [[books:sb:9:22:38|SB 9.22.38]]

@@ -1,5 +1,11 @@
-~~Title:visargasya~~
-{{description>the creation.}}
+---json
+{
+    "name":"visargasya",
+    "h1":"visargasya",
+    "title":"visargasya -- synonyms, prabhupada.io",
+    "description":"the creation."
+}
+---
 
 ==== visargasya  ====
   * the creation --- [[books:sb:6:9:32|SB 6.9.32]]

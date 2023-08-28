@@ -1,5 +1,11 @@
-~~Title:dvijottama~~
-{{description>the best of the brāhmaṇas.}}
+---json
+{
+    "name":"dvijottama",
+    "h1":"dvijottama",
+    "title":"dvijottama -- synonyms, prabhupada.io",
+    "description":"the best of the brāhmaṇas."
+}
+---
 
 ==== dvijottama  ====
   * the best of the //brāhmaṇas// --- [[books:bg:1:7|Bg. 1.7]]

@@ -1,5 +1,11 @@
-~~Title:korāṇa~~
-{{description>the Koran.}}
+---json
+{
+    "name":"korāṇa",
+    "h1":"korāṇa",
+    "title":"korāṇa -- synonyms, prabhupada.io",
+    "description":"the Koran."
+}
+---
 
 ==== korāṇa  ====
   * the Koran --- [[books:cc:adi:17:155|Ādi 17.155]], [[books:cc:madhya:20:5|Madhya 20.5]]

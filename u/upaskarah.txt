@@ -1,5 +1,11 @@
-~~Title:upaskarāḥ~~
-{{description>furniture.}}
+---json
+{
+    "name":"upaskarāḥ",
+    "h1":"upaskarāḥ",
+    "title":"upaskarāḥ -- synonyms, prabhupada.io",
+    "description":"furniture."
+}
+---
 
 ==== upaskarāḥ  ====
   * furniture --- [[books:sb:4:9:61|SB 4.9.61]]

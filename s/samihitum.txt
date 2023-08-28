@@ -1,5 +1,11 @@
-~~Title:samīhitum~~
-{{description>please act on my behalf.}}
+---json
+{
+    "name":"samīhitum",
+    "h1":"samīhitum",
+    "title":"samīhitum -- synonyms, prabhupada.io",
+    "description":"please act on my behalf."
+}
+---
 
 ==== arhasi naḥ samīhitum  ====
   * please act on my behalf --- [[books:sb:4:20:31|SB 4.20.31]]

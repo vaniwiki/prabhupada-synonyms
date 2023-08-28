@@ -1,5 +1,11 @@
-~~Title:avagalitaḥ~~
-{{description>having slipped out.}}
+---json
+{
+    "name":"avagalitaḥ",
+    "h1":"avagalitaḥ",
+    "title":"avagalitaḥ -- synonyms, prabhupada.io",
+    "description":"having slipped out."
+}
+---
 
 ==== avagalitaḥ  ====
   * having slipped out --- [[books:sb:5:8:5|SB 5.8.5]]

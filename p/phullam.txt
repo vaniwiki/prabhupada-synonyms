@@ -1,5 +1,11 @@
-~~Title:phullam~~
-{{description>fructified.}}
+---json
+{
+    "name":"phullam",
+    "h1":"phullam",
+    "title":"phullam -- synonyms, prabhupada.io",
+    "description":"fructified."
+}
+---
 
 ==== phullam  ====
   * fructified --- [[books:cc:antya:1:169|Antya 1.169]]

@@ -1,5 +1,11 @@
-~~Title:svargyaḥ~~
-{{description>leading to the heavenly planets.}}
+---json
+{
+    "name":"svargyaḥ",
+    "h1":"svargyaḥ",
+    "title":"svargyaḥ -- synonyms, prabhupada.io",
+    "description":"leading to the heavenly planets."
+}
+---
 
 ==== svargyaḥ  ====
   * leading to the heavenly planets --- [[books:sb:6:11:4|SB 6.11.4]]

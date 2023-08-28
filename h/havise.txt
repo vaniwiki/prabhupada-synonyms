@@ -1,5 +1,11 @@
-~~Title:haviṣe~~
-{{description>for the sake of pure clarified butter.}}
+---json
+{
+    "name":"haviṣe",
+    "h1":"haviṣe",
+    "title":"haviṣe -- synonyms, prabhupada.io",
+    "description":"for the sake of pure clarified butter."
+}
+---
 
 ==== haviṣe  ====
   * for the sake of pure clarified butter --- [[books:sb:8:8:2|SB 8.8.2]]

@@ -1,5 +1,11 @@
-~~Title:aiḍayan~~
-{{description>pleased.}}
+---json
+{
+    "name":"aiḍayan",
+    "h1":"aiḍayan",
+    "title":"aiḍayan -- synonyms, prabhupada.io",
+    "description":"pleased."
+}
+---
 
 ==== aiḍayan  ====
   * pleased --- [[books:sb:10:2:25|SB 10.2.25]]

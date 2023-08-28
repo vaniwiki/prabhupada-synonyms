@@ -1,5 +1,11 @@
-~~Title:samādhāne~~
-{{description>accommodation; distribution.}}
+---json
+{
+    "name":"samādhāne",
+    "h1":"samādhāne",
+    "title":"samādhāne -- synonyms, prabhupada.io",
+    "description":"accommodation; distribution."
+}
+---
 
 ==== samādhāne  ====
   * accommodation --- [[books:cc:madhya:11:171|Madhya 11.171]]

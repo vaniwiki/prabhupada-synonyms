@@ -1,5 +1,11 @@
-~~Title:anuruṇaddhi~~
-{{description>causes.}}
+---json
+{
+    "name":"anuruṇaddhi",
+    "h1":"anuruṇaddhi",
+    "title":"anuruṇaddhi -- synonyms, prabhupada.io",
+    "description":"causes."
+}
+---
 
 ==== anuruṇaddhi  ====
   * causes --- [[books:sb:4:17:33|SB 4.17.33]]

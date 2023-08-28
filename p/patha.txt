@@ -1,5 +1,11 @@
-~~Title:patha~~
-{{description>of the direction; path; paths; public way; road; the general path; the path; the road; the way; way.}}
+---json
+{
+    "name":"patha",
+    "h1":"patha",
+    "title":"patha -- synonyms, prabhupada.io",
+    "description":"of the direction; path; paths; public way; road; the general path; the path; the road; the way; way."
+}
+---
 
 ==== patha  ====
   * of the direction --- [[books:sb:9:2:16|SB 9.2.16]]

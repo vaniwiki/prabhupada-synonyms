@@ -1,5 +1,11 @@
-~~Title:māgibāre~~
-{{description>to beg; to receive.}}
+---json
+{
+    "name":"māgibāre",
+    "h1":"māgibāre",
+    "title":"māgibāre -- synonyms, prabhupada.io",
+    "description":"to beg; to receive."
+}
+---
 
 ==== māgibāre  ====
   * to beg --- [[books:cc:madhya:7:43|Madhya 7.43]]

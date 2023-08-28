@@ -1,5 +1,11 @@
-~~Title:pāśān~~
-{{description>ropes; the ropes.}}
+---json
+{
+    "name":"pāśān",
+    "h1":"pāśān",
+    "title":"pāśān -- synonyms, prabhupada.io",
+    "description":"ropes; the ropes."
+}
+---
 
 ==== pāśān  ====
   * ropes --- [[books:sb:6:8:12|SB 6.8.12]]

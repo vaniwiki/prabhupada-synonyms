@@ -1,5 +1,11 @@
-~~Title:vākāya~~
-{{description>for speaking eloquently.}}
+---json
+{
+    "name":"vākāya",
+    "h1":"vākāya",
+    "title":"vākāya -- synonyms, prabhupada.io",
+    "description":"for speaking eloquently."
+}
+---
 
 ==== su-ukta-vākāya  ====
   * for speaking eloquently --- [[books:sb:5:21:17|SB 5.21.17]]

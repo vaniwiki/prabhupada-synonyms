@@ -1,5 +1,11 @@
-~~Title:svāpaḥ~~
-{{description>sleep.}}
+---json
+{
+    "name":"svāpaḥ",
+    "h1":"svāpaḥ",
+    "title":"svāpaḥ -- synonyms, prabhupada.io",
+    "description":"sleep."
+}
+---
 
 ==== svāpaḥ  ====
   * sleep --- [[books:sb:3:26:30|SB 3.26.30]]

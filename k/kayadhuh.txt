@@ -1,5 +1,11 @@
-~~Title:kayādhuḥ~~
-{{description>Kayādhu.}}
+---json
+{
+    "name":"kayādhuḥ",
+    "h1":"kayādhuḥ",
+    "title":"kayādhuḥ -- synonyms, prabhupada.io",
+    "description":"Kayādhu."
+}
+---
 
 ==== kayādhuḥ  ====
   * Kayādhu --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

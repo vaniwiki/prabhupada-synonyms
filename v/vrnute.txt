@@ -1,5 +1,11 @@
-~~Title:vṛṇute~~
-{{description>select.}}
+---json
+{
+    "name":"vṛṇute",
+    "h1":"vṛṇute",
+    "title":"vṛṇute -- synonyms, prabhupada.io",
+    "description":"select."
+}
+---
 
 ==== vṛṇute  ====
   * select --- [[books:sb:9:20:15|SB 9.20.15]]

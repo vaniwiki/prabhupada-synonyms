@@ -1,5 +1,11 @@
-~~Title:kliṣṭam~~
-{{description>suffering.}}
+---json
+{
+    "name":"kliṣṭam",
+    "h1":"kliṣṭam",
+    "title":"kliṣṭam -- synonyms, prabhupada.io",
+    "description":"suffering."
+}
+---
 
 ==== kliṣṭam  ====
   * suffering --- [[books:sb:1:9:12|SB 1.9.12]]

@@ -1,5 +1,11 @@
-~~Title:upakalpitaiḥ~~
-{{description>performed.}}
+---json
+{
+    "name":"upakalpitaiḥ",
+    "h1":"upakalpitaiḥ",
+    "title":"upakalpitaiḥ -- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== upakalpitaiḥ  ====
   * performed --- [[books:sb:8:18:20|SB 8.18.20]]

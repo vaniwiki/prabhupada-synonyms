@@ -1,5 +1,11 @@
-~~Title:vidrāvitam~~
-{{description>were driven away.}}
+---json
+{
+    "name":"vidrāvitam",
+    "h1":"vidrāvitam",
+    "title":"vidrāvitam -- synonyms, prabhupada.io",
+    "description":"were driven away."
+}
+---
 
 ==== vidrāvitam  ====
   * were driven away --- [[books:sb:4:5:1|SB 4.5.1]]

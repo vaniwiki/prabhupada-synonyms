@@ -1,5 +1,11 @@
-~~Title:hasila~~
-{{description>smiled.}}
+---json
+{
+    "name":"hasila",
+    "h1":"hasila",
+    "title":"hasila -- synonyms, prabhupada.io",
+    "description":"smiled."
+}
+---
 
 ==== hāsila  ====
   * smiled --- [[books:cc:madhya:25:61|Madhya 25.61]]

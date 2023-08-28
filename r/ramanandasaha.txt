@@ -1,5 +1,11 @@
-~~Title:rāmānandasaha~~
-{{description>with Śrī Rāmānanda Rāya.}}
+---json
+{
+    "name":"rāmānandasaha",
+    "h1":"rāmānandasaha",
+    "title":"rāmānandasaha -- synonyms, prabhupada.io",
+    "description":"with Śrī Rāmānanda Rāya."
+}
+---
 
 ==== rāmānandasaha  ====
   * with Śrī Rāmānanda Rāya --- [[books:cc:adi:10:134|Ādi 10.134]]

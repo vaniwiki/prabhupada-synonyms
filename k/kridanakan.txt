@@ -1,5 +1,11 @@
-~~Title:krīḍanakān~~
-{{description>dolls.}}
+---json
+{
+    "name":"krīḍanakān",
+    "h1":"krīḍanakān",
+    "title":"krīḍanakān -- synonyms, prabhupada.io",
+    "description":"dolls."
+}
+---
 
 ==== krīḍanakān  ====
   * dolls --- [[books:sb:3:2:30|SB 3.2.30]]

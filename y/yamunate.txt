@@ -1,5 +1,11 @@
-~~Title:yamunāte~~
-{{description>in the river Yamunā.}}
+---json
+{
+    "name":"yamunāte",
+    "h1":"yamunāte",
+    "title":"yamunāte -- synonyms, prabhupada.io",
+    "description":"in the river Yamunā."
+}
+---
 
 ==== yamunāte  ====
   * in the river Yamunā --- [[books:cc:madhya:3:35|Madhya 3.35]], [[books:cc:antya:18:32|Antya 18.32]]

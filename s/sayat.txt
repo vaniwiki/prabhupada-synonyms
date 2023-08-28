@@ -1,5 +1,11 @@
-~~Title:śayāt~~
-{{description>lying.}}
+---json
+{
+    "name":"śayāt",
+    "h1":"śayāt",
+    "title":"śayāt -- synonyms, prabhupada.io",
+    "description":"lying."
+}
+---
 
 ==== śayāt  ====
   * lying --- [[books:sb:3:26:53|SB 3.26.53]]

@@ -1,5 +1,11 @@
-~~Title:asiknī~~
-{{description>Asiknī.}}
+---json
+{
+    "name":"asiknī",
+    "h1":"asiknī",
+    "title":"asiknī -- synonyms, prabhupada.io",
+    "description":"Asiknī."
+}
+---
 
 ==== asiknī  ====
   * Asiknī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

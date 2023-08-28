@@ -1,5 +1,11 @@
-~~Title:mahānābham~~
-{{description>Mahānābha.}}
+---json
+{
+    "name":"mahānābham",
+    "h1":"mahānābham",
+    "title":"mahānābham -- synonyms, prabhupada.io",
+    "description":"Mahānābha."
+}
+---
 
 ==== mahānābham  ====
   * Mahānābha --- [[books:sb:7:2:18-19|SB 7.2.18-19]]

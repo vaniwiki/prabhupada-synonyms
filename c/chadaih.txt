@@ -1,5 +1,11 @@
-~~Title:chadaiḥ~~
-{{description>leaves.}}
+---json
+{
+    "name":"chadaiḥ",
+    "h1":"chadaiḥ",
+    "title":"chadaiḥ -- synonyms, prabhupada.io",
+    "description":"leaves."
+}
+---
 
 ==== chadaiḥ  ====
   * leaves --- [[books:sb:4:6:28|SB 4.6.28]]

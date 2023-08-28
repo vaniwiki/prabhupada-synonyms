@@ -1,5 +1,11 @@
-~~Title:radhaya~~
-{{description>Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"radhaya",
+    "h1":"radhaya",
+    "title":"radhaya -- synonyms, prabhupada.io",
+    "description":"Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhayā  ====
   * Śrīmatī Rādhārāṇī --- [[books:cc:antya:1:136|Antya 1.136]]

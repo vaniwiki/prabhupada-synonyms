@@ -1,5 +1,11 @@
-~~Title:ūrmīn~~
-{{description>gigantic waves.}}
+---json
+{
+    "name":"ūrmīn",
+    "h1":"ūrmīn",
+    "title":"ūrmīn -- synonyms, prabhupada.io",
+    "description":"gigantic waves."
+}
+---
 
 ==== mahā-ūrmīn  ====
   * gigantic waves --- [[books:sb:3:17:26|SB 3.17.26]]

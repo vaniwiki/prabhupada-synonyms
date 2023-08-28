@@ -1,5 +1,11 @@
-~~Title:uccakrāma~~
-{{description>crossed the river.}}
+---json
+{
+    "name":"uccakrāma",
+    "h1":"uccakrāma",
+    "title":"uccakrāma -- synonyms, prabhupada.io",
+    "description":"crossed the river."
+}
+---
 
 ==== uccakrāma  ====
   * crossed the river --- [[books:sb:5:8:4|SB 5.8.4]]

@@ -1,5 +1,11 @@
-~~Title:bhrāmyan~~
-{{description>wandering.}}
+---json
+{
+    "name":"bhrāmyan",
+    "h1":"bhrāmyan",
+    "title":"bhrāmyan -- synonyms, prabhupada.io",
+    "description":"wandering."
+}
+---
 
 ==== bhrāmyan  ====
   * wandering --- [[books:sb:4:25:6|SB 4.25.6]], [[books:sb:6:17:18|SB 6.17.18]]

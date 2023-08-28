@@ -1,5 +1,11 @@
-~~Title:vyaṣṭi~~
-{{description>the individual; total.}}
+---json
+{
+    "name":"vyaṣṭi",
+    "h1":"vyaṣṭi",
+    "title":"vyaṣṭi -- synonyms, prabhupada.io",
+    "description":"the individual; total."
+}
+---
 
 ==== vyaṣṭi  ====
   * the individual --- [[books:cc:adi:2:51|Ādi 2.51]]

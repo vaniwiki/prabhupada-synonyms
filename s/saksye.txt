@@ -1,5 +1,11 @@
-~~Title:sākṣye~~
-{{description>giving witness.}}
+---json
+{
+    "name":"sākṣye",
+    "h1":"sākṣye",
+    "title":"sākṣye -- synonyms, prabhupada.io",
+    "description":"giving witness."
+}
+---
 
 ==== sākṣye  ====
   * giving witness --- [[books:sb:5:26:28|SB 5.26.28]]

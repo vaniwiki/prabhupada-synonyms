@@ -1,5 +1,11 @@
-~~Title:havyam~~
-{{description>offerings; the duties.}}
+---json
+{
+    "name":"havyam",
+    "h1":"havyam",
+    "title":"havyam -- synonyms, prabhupada.io",
+    "description":"offerings; the duties."
+}
+---
 
 ==== havyam  ====
   * offerings --- [[books:sb:4:7:41|SB 4.7.41]]

@@ -1,5 +1,11 @@
-~~Title:guḍatvaka~~
-{{description>licorice.}}
+---json
+{
+    "name":"guḍatvaka",
+    "h1":"guḍatvaka",
+    "title":"guḍatvaka -- synonyms, prabhupada.io",
+    "description":"licorice."
+}
+---
 
 ==== guḍatvaka  ====
   * licorice --- [[books:cc:antya:16:108-109|Antya 16.108-109]]

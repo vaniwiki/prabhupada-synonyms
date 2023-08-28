@@ -1,5 +1,11 @@
-~~Title:chuṭāya~~
-{{description>loosens.}}
+---json
+{
+    "name":"chuṭāya",
+    "h1":"chuṭāya",
+    "title":"chuṭāya -- synonyms, prabhupada.io",
+    "description":"loosens."
+}
+---
 
 ==== chuṭāya  ====
   * loosens --- [[books:cc:antya:19:96|Antya 19.96]]

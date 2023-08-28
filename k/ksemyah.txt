@@ -1,5 +1,11 @@
-~~Title:kṣemyaḥ~~
-{{description>Kṣemya.}}
+---json
+{
+    "name":"kṣemyaḥ",
+    "h1":"kṣemyaḥ",
+    "title":"kṣemyaḥ -- synonyms, prabhupada.io",
+    "description":"Kṣemya."
+}
+---
 
 ==== kṣemyaḥ  ====
   * Kṣemya --- [[books:sb:9:21:28-29|SB 9.21.28-29]]

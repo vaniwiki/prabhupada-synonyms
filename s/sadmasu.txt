@@ -1,5 +1,11 @@
-~~Title:sadmasu~~
-{{description>in abodes.}}
+---json
+{
+    "name":"sadmasu",
+    "h1":"sadmasu",
+    "title":"sadmasu -- synonyms, prabhupada.io",
+    "description":"in abodes."
+}
+---
 
 ==== sadmasu  ====
   * in abodes --- [[books:cc:adi:5:22|Ādi 5.22]]

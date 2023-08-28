@@ -1,5 +1,11 @@
-~~Title:bhāgān~~
-{{description>share; shares.}}
+---json
+{
+    "name":"bhāgān",
+    "h1":"bhāgān",
+    "title":"bhāgān -- synonyms, prabhupada.io",
+    "description":"share; shares."
+}
+---
 
 ==== bhāgān  ====
   * share --- [[books:sb:1:16:20|SB 1.16.20]]

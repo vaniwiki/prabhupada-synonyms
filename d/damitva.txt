@@ -1,5 +1,11 @@
-~~Title:damitvā~~
-{{description>subduing.}}
+---json
+{
+    "name":"damitvā",
+    "h1":"damitvā",
+    "title":"damitvā -- synonyms, prabhupada.io",
+    "description":"subduing."
+}
+---
 
 ==== damitvā  ====
   * subduing --- [[books:sb:3:3:4|SB 3.3.4]]

@@ -1,5 +1,11 @@
-~~Title:dīyate~~
-{{description>given; is given; is given in charity.}}
+---json
+{
+    "name":"dīyate",
+    "h1":"dīyate",
+    "title":"dīyate -- synonyms, prabhupada.io",
+    "description":"given; is given; is given in charity."
+}
+---
 
 ==== dīyate  ====
   * given --- [[books:bg:17:20|Bg. 17.20]]

@@ -1,5 +1,11 @@
-~~Title:ucchrāya~~
-{{description>whose height and width.}}
+---json
+{
+    "name":"ucchrāya",
+    "h1":"ucchrāya",
+    "title":"ucchrāya -- synonyms, prabhupada.io",
+    "description":"whose height and width."
+}
+---
 
 ==== ucchrāya-āyāmaḥ  ====
   * whose height and width --- [[books:sb:5:20:30|SB 5.20.30]]

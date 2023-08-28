@@ -1,5 +1,11 @@
-~~Title:nirgamyatām~~
-{{description>please get out immediately.}}
+---json
+{
+    "name":"nirgamyatām",
+    "h1":"nirgamyatām",
+    "title":"nirgamyatām -- synonyms, prabhupada.io",
+    "description":"please get out immediately."
+}
+---
 
 ==== nirgamyatām  ====
   * please get out immediately --- [[books:sb:1:13:18|SB 1.13.18]]

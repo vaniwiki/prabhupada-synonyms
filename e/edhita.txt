@@ -1,5 +1,11 @@
-~~Title:edhita~~
-{{description>increasing; inflated.}}
+---json
+{
+    "name":"edhita",
+    "h1":"edhita",
+    "title":"edhita -- synonyms, prabhupada.io",
+    "description":"increasing; inflated."
+}
+---
 
 ==== edhita  ====
   * increasing --- [[books:sb:4:31:20|SB 4.31.20]]

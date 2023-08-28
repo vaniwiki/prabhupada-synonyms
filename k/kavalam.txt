@@ -1,5 +1,11 @@
-~~Title:kavalam~~
-{{description>very nice food prepared with rice and first-class curd.}}
+---json
+{
+    "name":"kavalam",
+    "h1":"kavalam",
+    "title":"kavalam -- synonyms, prabhupada.io",
+    "description":"very nice food prepared with rice and first-class curd."
+}
+---
 
 ==== masṛṇa-kavalam  ====
   * very nice food prepared with rice and first-class curd --- [[books:sb:10:13:11|SB 10.13.11]]

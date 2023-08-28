@@ -1,5 +1,11 @@
-~~Title:vijayam~~
-{{description>the victory; victory.}}
+---json
+{
+    "name":"vijayam",
+    "h1":"vijayam",
+    "title":"vijayam -- synonyms, prabhupada.io",
+    "description":"the victory; victory."
+}
+---
 
 ==== vijayam  ====
   * the victory --- [[books:sb:6:13:22-23|SB 6.13.22-23]]

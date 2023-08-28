@@ -1,5 +1,11 @@
-~~Title:kaścit~~
-{{description>any; any of them; anyone; anything; some; someone.}}
+---json
+{
+    "name":"kaścit",
+    "h1":"kaścit",
+    "title":"kaścit -- synonyms, prabhupada.io",
+    "description":"any; any of them; anyone; anything; some; someone."
+}
+---
 
 ==== kaścit  ====
   * any --- [[books:bg:3:18|Bg. 3.18]]

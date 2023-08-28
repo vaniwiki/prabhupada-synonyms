@@ -1,5 +1,11 @@
-~~Title:dhanah~~
-{{description>grains.}}
+---json
+{
+    "name":"dhanah",
+    "h1":"dhanah",
+    "title":"dhanah -- synonyms, prabhupada.io",
+    "description":"grains."
+}
+---
 
 ==== dhānāḥ  ====
   * grains --- [[books:sb:6:15:4|SB 6.15.4]]

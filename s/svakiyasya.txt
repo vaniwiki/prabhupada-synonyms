@@ -1,5 +1,11 @@
-~~Title:svakīyasya~~
-{{description>His own.}}
+---json
+{
+    "name":"svakīyasya",
+    "h1":"svakīyasya",
+    "title":"svakīyasya -- synonyms, prabhupada.io",
+    "description":"His own."
+}
+---
 
 ==== svakīyasya  ====
   * His own --- [[books:cc:antya:19:76|Antya 19.76]]

@@ -1,5 +1,11 @@
-~~Title:trātvā~~
-{{description>by delivering.}}
+---json
+{
+    "name":"trātvā",
+    "h1":"trātvā",
+    "title":"trātvā -- synonyms, prabhupada.io",
+    "description":"by delivering."
+}
+---
 
 ==== trātvā  ====
   * by delivering --- [[books:sb:2:7:9|SB 2.7.9]]

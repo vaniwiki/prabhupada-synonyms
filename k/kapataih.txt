@@ -1,5 +1,11 @@
-~~Title:kapataih~~
-{{description>with deceit.}}
+---json
+{
+    "name":"kapataih",
+    "h1":"kapataih",
+    "title":"kapataih -- synonyms, prabhupada.io",
+    "description":"with deceit."
+}
+---
 
 ==== kapaṭaiḥ  ====
   * with deceit --- [[books:cc:antya:1:154|Antya 1.154]]

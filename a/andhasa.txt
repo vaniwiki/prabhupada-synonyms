@@ -1,5 +1,11 @@
-~~Title:andhasā~~
-{{description>with her food.}}
+---json
+{
+    "name":"andhasā",
+    "h1":"andhasā",
+    "title":"andhasā -- synonyms, prabhupada.io",
+    "description":"with her food."
+}
+---
 
 ==== andhasā saha  ====
   * with her food --- [[books:sb:9:8:4|SB 9.8.4]]

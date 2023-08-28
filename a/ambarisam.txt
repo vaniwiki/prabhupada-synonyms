@@ -1,5 +1,11 @@
-~~Title:ambarīṣam~~
-{{description>Ambarīṣa; unto Mahārāja Ambarīṣa.}}
+---json
+{
+    "name":"ambarīṣam",
+    "h1":"ambarīṣam",
+    "title":"ambarīṣam -- synonyms, prabhupada.io",
+    "description":"Ambarīṣa; unto Mahārāja Ambarīṣa."
+}
+---
 
 ==== ambarīṣam  ====
   * Ambarīṣa --- [[books:sb:9:6:38|SB 9.6.38]]

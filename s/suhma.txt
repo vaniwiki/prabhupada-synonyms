@@ -1,5 +1,11 @@
-~~Title:suhma~~
-{{description>Suhma.}}
+---json
+{
+    "name":"suhma",
+    "h1":"suhma",
+    "title":"suhma -- synonyms, prabhupada.io",
+    "description":"Suhma."
+}
+---
 
 ==== suhma  ====
   * Suhma --- [[books:sb:9:23:5|SB 9.23.5]]

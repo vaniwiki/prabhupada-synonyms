@@ -1,5 +1,11 @@
-~~Title:bhaṅgīm~~
-{{description>the semblance of.}}
+---json
+{
+    "name":"bhaṅgīm",
+    "h1":"bhaṅgīm",
+    "title":"bhaṅgīm -- synonyms, prabhupada.io",
+    "description":"the semblance of."
+}
+---
 
 ==== bhaṅgīm  ====
   * the semblance of --- [[books:cc:antya:1:171|Antya 1.171]]

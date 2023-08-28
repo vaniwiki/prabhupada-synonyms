@@ -1,5 +1,11 @@
-~~Title:darunah~~
-{{description>fierce; firewood; formidable; he who was the most fiercely cruel; most dreadful; seriously devoted to the Atharva Veda; very evil.}}
+---json
+{
+    "name":"darunah",
+    "h1":"darunah",
+    "title":"darunah -- synonyms, prabhupada.io",
+    "description":"fierce; firewood; formidable; he who was the most fiercely cruel; most dreadful; seriously devoted to the Atharva Veda; very evil."
+}
+---
 
 ==== dāruṇaḥ  ====
   * fierce --- [[books:sb:8:10:5|SB 8.10.5]]

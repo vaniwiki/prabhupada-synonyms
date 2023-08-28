@@ -1,5 +1,11 @@
-~~Title:ghara~~
-{{description>a room; home; house; residence; room; rooms; their house.}}
+---json
+{
+    "name":"ghara",
+    "h1":"ghara",
+    "title":"ghara -- synonyms, prabhupada.io",
+    "description":"a room; home; house; residence; room; rooms; their house."
+}
+---
 
 ==== ghara  ====
   * a room --- [[books:cc:madhya:16:196|Madhya 16.196]]

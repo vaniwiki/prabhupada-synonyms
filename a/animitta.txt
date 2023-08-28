@@ -1,5 +1,11 @@
-~~Title:animitta~~
-{{description>without desire for sense gratification.}}
+---json
+{
+    "name":"animitta",
+    "h1":"animitta",
+    "title":"animitta -- synonyms, prabhupada.io",
+    "description":"without desire for sense gratification."
+}
+---
 
 ==== animitta  ====
   * without desire for sense gratification --- [[books:sb:3:15:14|SB 3.15.14]]

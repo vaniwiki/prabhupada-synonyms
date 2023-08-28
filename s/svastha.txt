@@ -1,5 +1,11 @@
-~~Title:svastha~~
-{{description>healthy.}}
+---json
+{
+    "name":"svastha",
+    "h1":"svastha",
+    "title":"svastha -- synonyms, prabhupada.io",
+    "description":"healthy."
+}
+---
 
 ==== svastha  ====
   * healthy --- [[books:sb:6:16:31|SB 6.16.31]]

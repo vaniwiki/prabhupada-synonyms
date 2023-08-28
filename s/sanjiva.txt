@@ -1,5 +1,11 @@
-~~Title:sañjīva~~
-{{description>live.}}
+---json
+{
+    "name":"sañjīva",
+    "h1":"sañjīva",
+    "title":"sañjīva -- synonyms, prabhupada.io",
+    "description":"live."
+}
+---
 
 ==== sañjīva  ====
   * live --- [[books:sb:4:21:48|SB 4.21.48]]

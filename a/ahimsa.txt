@@ -1,5 +1,11 @@
-~~Title:ahiṁsā~~
-{{description>nonviolence (not subjecting any living entity to the threefold miseries); nonviolence.}}
+---json
+{
+    "name":"ahiṁsā",
+    "h1":"ahiṁsā",
+    "title":"ahiṁsā -- synonyms, prabhupada.io",
+    "description":"nonviolence (not subjecting any living entity to the threefold miseries); nonviolence."
+}
+---
 
 ==== ahiṁsā  ====
   * nonviolence (not subjecting any living entity to the threefold miseries) --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

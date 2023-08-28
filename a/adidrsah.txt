@@ -1,5 +1,11 @@
-~~Title:adīdṛśaḥ~~
-{{description>You have manifested.}}
+---json
+{
+    "name":"adīdṛśaḥ",
+    "h1":"adīdṛśaḥ",
+    "title":"adīdṛśaḥ -- synonyms, prabhupada.io",
+    "description":"You have manifested."
+}
+---
 
 ==== adīdṛśaḥ  ====
   * You have manifested --- [[books:sb:8:24:30|SB 8.24.30]]

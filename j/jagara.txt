@@ -1,5 +1,11 @@
-~~Title:jāgara~~
-{{description>wakefulness.}}
+---json
+{
+    "name":"jāgara",
+    "h1":"jāgara",
+    "title":"jāgara -- synonyms, prabhupada.io",
+    "description":"wakefulness."
+}
+---
 
 ==== jāgara  ====
   * wakefulness --- [[books:cc:antya:14:53|Antya 14.53]]

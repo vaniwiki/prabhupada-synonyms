@@ -1,5 +1,11 @@
-~~Title:damstri~~
-{{description>of a boar.}}
+---json
+{
+    "name":"damstri",
+    "h1":"damstri",
+    "title":"damstri -- synonyms, prabhupada.io",
+    "description":"of a boar."
+}
+---
 
 ==== daṁṣṭri  ====
   * of a boar --- [[books:cc:antya:3:56|Antya 3.56]]

@@ -1,5 +1,11 @@
-~~Title:ketumāla~~
-{{description>of the two varṣas named Ketumāla and Bhadrāśva.}}
+---json
+{
+    "name":"ketumāla",
+    "h1":"ketumāla",
+    "title":"ketumāla -- synonyms, prabhupada.io",
+    "description":"of the two varṣas named Ketumāla and Bhadrāśva."
+}
+---
 
 ==== ketumāla-bhadrāśvayoḥ  ====
   * of the two //varṣas// named Ketumāla and Bhadrāśva --- [[books:sb:5:16:10|SB 5.16.10]]

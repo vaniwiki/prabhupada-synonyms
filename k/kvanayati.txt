@@ -1,5 +1,11 @@
-~~Title:kvaṇayatī~~
-{{description>tinkling.}}
+---json
+{
+    "name":"kvaṇayatī",
+    "h1":"kvaṇayatī",
+    "title":"kvaṇayatī -- synonyms, prabhupada.io",
+    "description":"tinkling."
+}
+---
 
 ==== kvaṇayatī  ====
   * tinkling --- [[books:sb:3:15:21|SB 3.15.21]]

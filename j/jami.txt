@@ -1,5 +1,11 @@
-~~Title:jāmi~~
-{{description>daughters-in-law.}}
+---json
+{
+    "name":"jāmi",
+    "h1":"jāmi",
+    "title":"jāmi -- synonyms, prabhupada.io",
+    "description":"daughters-in-law."
+}
+---
 
 ==== jāmi  ====
   * daughters-in-law --- [[books:sb:4:28:16|SB 4.28.16]]

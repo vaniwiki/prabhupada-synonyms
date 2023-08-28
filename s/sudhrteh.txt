@@ -1,5 +1,11 @@
-~~Title:sudhṛteḥ~~
-{{description>from Sudhṛti.}}
+---json
+{
+    "name":"sudhṛteḥ",
+    "h1":"sudhṛteḥ",
+    "title":"sudhṛteḥ -- synonyms, prabhupada.io",
+    "description":"from Sudhṛti."
+}
+---
 
 ==== sudhṛteḥ  ====
   * from Sudhṛti --- [[books:sb:9:13:15|SB 9.13.15]]

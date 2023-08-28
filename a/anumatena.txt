@@ -1,5 +1,11 @@
-~~Title:anumatena~~
-{{description>by the order; by the permission; permitted by the mercy of the glance (time).}}
+---json
+{
+    "name":"anumatena",
+    "h1":"anumatena",
+    "title":"anumatena -- synonyms, prabhupada.io",
+    "description":"by the order; by the permission; permitted by the mercy of the glance (time)."
+}
+---
 
 ==== anumatena  ====
   * by the order --- [[books:sb:8:8:30|SB 8.8.30]]

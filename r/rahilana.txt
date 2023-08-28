@@ -1,5 +1,11 @@
-~~Title:rahilāṅa~~
-{{description>I stayed.}}
+---json
+{
+    "name":"rahilāṅa",
+    "h1":"rahilāṅa",
+    "title":"rahilāṅa -- synonyms, prabhupada.io",
+    "description":"I stayed."
+}
+---
 
 ==== rahilāṅa  ====
   * I stayed --- [[books:cc:antya:3:134|Antya 3.134]]

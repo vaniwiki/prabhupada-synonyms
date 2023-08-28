@@ -1,5 +1,11 @@
-~~Title:ādriyeta~~
-{{description>one must honour.}}
+---json
+{
+    "name":"ādriyeta",
+    "h1":"ādriyeta",
+    "title":"ādriyeta -- synonyms, prabhupada.io",
+    "description":"one must honour."
+}
+---
 
 ==== ādriyeta  ====
   * one must honour --- [[books:noi:5|NoI 5]]

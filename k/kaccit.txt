@@ -1,5 +1,11 @@
-~~Title:kaccit~~
-{{description>if it is; whether.}}
+---json
+{
+    "name":"kaccit",
+    "h1":"kaccit",
+    "title":"kaccit -- synonyms, prabhupada.io",
+    "description":"if it is; whether."
+}
+---
 
 ==== kaccit  ====
   * if it is --- [[books:sb:1:5:2|SB 1.5.2]]

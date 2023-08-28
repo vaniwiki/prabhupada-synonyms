@@ -1,5 +1,11 @@
-~~Title:avinaṣṭa~~
-{{description>the demons who had been killed but whose bodily parts had not been lost.}}
+---json
+{
+    "name":"avinaṣṭa",
+    "h1":"avinaṣṭa",
+    "title":"avinaṣṭa -- synonyms, prabhupada.io",
+    "description":"the demons who had been killed but whose bodily parts had not been lost."
+}
+---
 
 ==== avinaṣṭa-avayavān  ====
   * the demons who had been killed but whose bodily parts had not been lost --- [[books:sb:8:11:47|SB 8.11.47]]

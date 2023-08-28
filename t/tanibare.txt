@@ -1,5 +1,11 @@
-~~Title:ṭānibāre~~
-{{description>gave to pull.}}
+---json
+{
+    "name":"ṭānibāre",
+    "h1":"ṭānibāre",
+    "title":"ṭānibāre -- synonyms, prabhupada.io",
+    "description":"gave to pull."
+}
+---
 
 ==== ṭānibāre dila  ====
   * gave to pull --- [[books:cc:madhya:14:54|Madhya 14.54]]

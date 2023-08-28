@@ -1,5 +1,11 @@
-~~Title:pratyudyamam~~
-{{description>action against.}}
+---json
+{
+    "name":"pratyudyamam",
+    "h1":"pratyudyamam",
+    "title":"pratyudyamam -- synonyms, prabhupada.io",
+    "description":"action against."
+}
+---
 
 ==== pratyudyamam  ====
   * action against --- [[books:sb:6:7:18|SB 6.7.18]]

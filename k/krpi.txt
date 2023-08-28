@@ -1,5 +1,11 @@
-~~Title:kṛpī~~
-{{description>Kṛpī; named Kṛpī; the sister of Kṛpācārya.}}
+---json
+{
+    "name":"kṛpī",
+    "h1":"kṛpī",
+    "title":"kṛpī -- synonyms, prabhupada.io",
+    "description":"Kṛpī; named Kṛpī; the sister of Kṛpācārya."
+}
+---
 
 ==== kṛpī  ====
   * Kṛpī --- [[books:sb:1:13:3-4|SB 1.13.3-4]]

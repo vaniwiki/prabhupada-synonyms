@@ -1,5 +1,11 @@
-~~Title:gābhī~~
-{{description>all the cows; cow; cows; the cow (is).}}
+---json
+{
+    "name":"gābhī",
+    "h1":"gābhī",
+    "title":"gābhī -- synonyms, prabhupada.io",
+    "description":"all the cows; cow; cows; the cow (is)."
+}
+---
 
 ==== gābhī  ====
   * all the cows --- [[books:cc:madhya:17:195|Madhya 17.195]]

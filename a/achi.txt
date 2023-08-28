@@ -1,5 +1,11 @@
-~~Title:āchi~~
-{{description>reside.}}
+---json
+{
+    "name":"āchi",
+    "h1":"āchi",
+    "title":"āchi -- synonyms, prabhupada.io",
+    "description":"reside."
+}
+---
 
 ==== āchi  ====
   * reside --- [[books:cc:antya:3:39|Antya 3.39]]

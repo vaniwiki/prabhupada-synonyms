@@ -1,5 +1,11 @@
-~~Title:daśān~~
-{{description>of the denizens of heaven; the thirty million demigods.}}
+---json
+{
+    "name":"daśān",
+    "h1":"daśān",
+    "title":"daśān -- synonyms, prabhupada.io",
+    "description":"of the denizens of heaven; the thirty million demigods."
+}
+---
 
 ==== tri-daśān  ====
   * of the denizens of heaven --- [[books:sb:1:14:37|SB 1.14.37]]

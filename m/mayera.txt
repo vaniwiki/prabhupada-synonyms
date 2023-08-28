@@ -1,5 +1,11 @@
-~~Title:māyera~~
-{{description>the womb of the mother.}}
+---json
+{
+    "name":"māyera",
+    "h1":"māyera",
+    "title":"māyera -- synonyms, prabhupada.io",
+    "description":"the womb of the mother."
+}
+---
 
 ==== māyera garbhe  ====
   * the womb of the mother --- [[books:cc:antya:12:48|Antya 12.48]]

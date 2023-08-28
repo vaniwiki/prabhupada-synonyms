@@ -1,5 +1,11 @@
-~~Title:prabhāṣate~~
-{{description>he used to speak; talks.}}
+---json
+{
+    "name":"prabhāṣate",
+    "h1":"prabhāṣate",
+    "title":"prabhāṣate -- synonyms, prabhupada.io",
+    "description":"he used to speak; talks."
+}
+---
 
 ==== prabhāṣate  ====
   * he used to speak --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

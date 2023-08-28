@@ -1,5 +1,11 @@
-~~Title:nikumbha~~
-{{description>Nikumbha.}}
+---json
+{
+    "name":"nikumbha",
+    "h1":"nikumbha",
+    "title":"nikumbha -- synonyms, prabhupada.io",
+    "description":"Nikumbha."
+}
+---
 
 ==== nikumbha  ====
   * Nikumbha --- [[books:sb:9:10:18|SB 9.10.18]]

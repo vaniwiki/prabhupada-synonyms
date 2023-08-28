@@ -1,5 +1,11 @@
-~~Title:niṣevya~~
-{{description>having enjoyed.}}
+---json
+{
+    "name":"niṣevya",
+    "h1":"niṣevya",
+    "title":"niṣevya -- synonyms, prabhupada.io",
+    "description":"having enjoyed."
+}
+---
 
 ==== niṣevya  ====
   * having enjoyed --- [[books:sb:3:32:12-15|SB 3.32.12-15]]

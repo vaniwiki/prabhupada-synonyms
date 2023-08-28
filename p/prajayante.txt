@@ -1,5 +1,11 @@
-~~Title:prajāyante~~
-{{description>they take birth.}}
+---json
+{
+    "name":"prajāyante",
+    "h1":"prajāyante",
+    "title":"prajāyante -- synonyms, prabhupada.io",
+    "description":"they take birth."
+}
+---
 
 ==== prajāyante  ====
   * they take birth --- [[books:sb:3:32:20|SB 3.32.20]]

@@ -1,5 +1,11 @@
-~~Title:dhruvāṇi~~
-{{description>permanent; that do not move.}}
+---json
+{
+    "name":"dhruvāṇi",
+    "h1":"dhruvāṇi",
+    "title":"dhruvāṇi -- synonyms, prabhupada.io",
+    "description":"permanent; that do not move."
+}
+---
 
 ==== dhruvāṇi  ====
   * permanent --- [[books:sb:3:30:3|SB 3.30.3]]

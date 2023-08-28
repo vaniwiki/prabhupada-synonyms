@@ -1,5 +1,11 @@
-~~Title:arṣat~~
-{{description>moving quickly.}}
+---json
+{
+    "name":"arṣat",
+    "h1":"arṣat",
+    "title":"arṣat -- synonyms, prabhupada.io",
+    "description":"moving quickly."
+}
+---
 
 ==== arṣat  ====
   * moving quickly --- [[books:iso:4|Īśo 4]]

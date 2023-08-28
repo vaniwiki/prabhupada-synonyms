@@ -1,5 +1,11 @@
-~~Title:geham~~
-{{description>family affairs; in family affairs; to the house.}}
+---json
+{
+    "name":"geham",
+    "h1":"geham",
+    "title":"geham -- synonyms, prabhupada.io",
+    "description":"family affairs; in family affairs; to the house."
+}
+---
 
 ==== geham  ====
   * family affairs --- [[books:cc:madhya:1:81|Madhya 1.81]]

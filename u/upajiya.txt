@@ -1,5 +1,11 @@
-~~Title:upajiyā~~
-{{description>being cultivated.}}
+---json
+{
+    "name":"upajiyā",
+    "h1":"upajiyā",
+    "title":"upajiyā -- synonyms, prabhupada.io",
+    "description":"being cultivated."
+}
+---
 
 ==== upajiyā  ====
   * being cultivated --- [[books:cc:madhya:19:153|Madhya 19.153]]

@@ -1,5 +1,11 @@
-~~Title:sarvah~~
-{{description>everyone; everything.}}
+---json
+{
+    "name":"sarvah",
+    "h1":"sarvah",
+    "title":"sarvah -- synonyms, prabhupada.io",
+    "description":"everyone; everything."
+}
+---
 
 ==== sarvaḥ  ====
   * everyone --- [[books:sb:10:4:21|SB 10.4.21]]

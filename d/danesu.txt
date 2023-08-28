@@ -1,5 +1,11 @@
-~~Title:dāneṣu~~
-{{description>in giving charities.}}
+---json
+{
+    "name":"dāneṣu",
+    "h1":"dāneṣu",
+    "title":"dāneṣu -- synonyms, prabhupada.io",
+    "description":"in giving charities."
+}
+---
 
 ==== dāneṣu  ====
   * in giving charities --- [[books:bg:8:28|Bg. 8.28]]

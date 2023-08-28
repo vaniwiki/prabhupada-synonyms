@@ -1,5 +1,11 @@
-~~Title:bindavaḥ~~
-{{description>teardrops.}}
+---json
+{
+    "name":"bindavaḥ",
+    "h1":"bindavaḥ",
+    "title":"bindavaḥ -- synonyms, prabhupada.io",
+    "description":"teardrops."
+}
+---
 
 ==== aśru-bindavaḥ  ====
   * teardrops --- [[books:sb:3:21:38-39|SB 3.21.38-39]]

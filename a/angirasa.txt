@@ -1,5 +1,11 @@
-~~Title:angirasa~~
-{{description>by Aṅgirā Muni; the great saint Aṅgirā.}}
+---json
+{
+    "name":"angirasa",
+    "h1":"angirasa",
+    "title":"angirasa -- synonyms, prabhupada.io",
+    "description":"by Aṅgirā Muni; the great saint Aṅgirā."
+}
+---
 
 ==== aṅgirasā  ====
   * by Aṅgirā Muni --- [[books:sb:9:14:8|SB 9.14.8]]

@@ -1,5 +1,11 @@
-~~Title:jñāti~~
-{{description>family members; kinsman; of family relations; relative; relatives; relatives and friends.}}
+---json
+{
+    "name":"jñāti",
+    "h1":"jñāti",
+    "title":"jñāti -- synonyms, prabhupada.io",
+    "description":"family members; kinsman; of family relations; relative; relatives; relatives and friends."
+}
+---
 
 ==== jñāti  ====
   * family members --- [[books:sb:6:16:5|SB 6.16.5]]

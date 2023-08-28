@@ -1,5 +1,11 @@
-~~Title:vilīyate~~
-{{description>is vanquished.}}
+---json
+{
+    "name":"vilīyate",
+    "h1":"vilīyate",
+    "title":"vilīyate -- synonyms, prabhupada.io",
+    "description":"is vanquished."
+}
+---
 
 ==== vilīyate  ====
   * is vanquished --- [[books:sb:6:1:55|SB 6.1.55]]

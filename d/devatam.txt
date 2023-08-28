@@ -1,5 +1,11 @@
-~~Title:devatām~~
-{{description>a denizen of the heavens; demigod; to be Lord Buddha or a similar Buddhist deity.}}
+---json
+{
+    "name":"devatām",
+    "h1":"devatām",
+    "title":"devatām -- synonyms, prabhupada.io",
+    "description":"a denizen of the heavens; demigod; to be Lord Buddha or a similar Buddhist deity."
+}
+---
 
 ==== devatām  ====
   * a denizen of the heavens --- [[books:sb:4:25:23|SB 4.25.23]]

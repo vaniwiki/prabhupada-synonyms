@@ -1,5 +1,11 @@
-~~Title:ancale~~
-{{description>by the skirt; in the end of His cloth.}}
+---json
+{
+    "name":"ancale",
+    "h1":"ancale",
+    "title":"ancale -- synonyms, prabhupada.io",
+    "description":"by the skirt; in the end of His cloth."
+}
+---
 
 ==== añcale  ====
   * by the skirt --- [[books:cc:madhya:4:128|Madhya 4.128]]

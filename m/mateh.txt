@@ -1,5 +1,11 @@
-~~Title:mateḥ~~
-{{description>whose mind is that.}}
+---json
+{
+    "name":"mateḥ",
+    "h1":"mateḥ",
+    "title":"mateḥ -- synonyms, prabhupada.io",
+    "description":"whose mind is that."
+}
+---
 
 ==== mateḥ  ====
   * whose mind is that --- [[books:sb:5:8:16|SB 5.8.16]]

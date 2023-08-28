@@ -1,5 +1,11 @@
-~~Title:sahilā~~
-{{description>you tolerated.}}
+---json
+{
+    "name":"sahilā",
+    "h1":"sahilā",
+    "title":"sahilā -- synonyms, prabhupada.io",
+    "description":"you tolerated."
+}
+---
 
 ==== sahilā  ====
   * you tolerated --- [[books:cc:antya:7:161|Antya 7.161]]

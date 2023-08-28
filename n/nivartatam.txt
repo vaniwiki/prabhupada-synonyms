@@ -1,5 +1,11 @@
-~~Title:nivartatām~~
-{{description>just stop yourself.}}
+---json
+{
+    "name":"nivartatām",
+    "h1":"nivartatām",
+    "title":"nivartatām -- synonyms, prabhupada.io",
+    "description":"just stop yourself."
+}
+---
 
 ==== nivartatām  ====
   * just stop yourself --- [[books:sb:4:8:32|SB 4.8.32]]

@@ -1,5 +1,11 @@
-~~Title:ime~~
-{{description>all; all of them; all of these; all these; all these things; in all these; these; these material creations, made of material energy; these senses (do not be under the control of your senses); these two.}}
+---json
+{
+    "name":"ime",
+    "h1":"ime",
+    "title":"ime -- synonyms, prabhupada.io",
+    "description":"all; all of them; all of these; all these; all these things; in all these; these; these material creations, made of material energy; these senses (do not be under the control of your senses); these two."
+}
+---
 
 ==== ime  ====
   * all --- [[books:sb:2:6:13-16|SB 2.6.13-16]]

@@ -1,5 +1,11 @@
-~~Title:akārye~~
-{{description>reaction.}}
+---json
+{
+    "name":"akārye",
+    "h1":"akārye",
+    "title":"akārye -- synonyms, prabhupada.io",
+    "description":"reaction."
+}
+---
 
 ==== akārye  ====
   * reaction --- [[books:bg:18:30|Bg. 18.30]]

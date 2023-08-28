@@ -1,5 +1,11 @@
-~~Title:puṣyau~~
-{{description>and the star named Puṣyā.}}
+---json
+{
+    "name":"puṣyau",
+    "h1":"puṣyau",
+    "title":"puṣyau -- synonyms, prabhupada.io",
+    "description":"and the star named Puṣyā."
+}
+---
 
 ==== puṣyau  ====
   * and the star named Puṣyā --- [[books:sb:5:23:6|SB 5.23.6]]

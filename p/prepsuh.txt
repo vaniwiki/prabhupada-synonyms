@@ -1,5 +1,11 @@
-~~Title:prepsuḥ~~
-{{description>desiring; desiring to find.}}
+---json
+{
+    "name":"prepsuḥ",
+    "h1":"prepsuḥ",
+    "title":"prepsuḥ -- synonyms, prabhupada.io",
+    "description":"desiring; desiring to find."
+}
+---
 
 ==== prepsuḥ  ====
   * desiring --- [[books:bg:18:27|Bg. 18.27]]

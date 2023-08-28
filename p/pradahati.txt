@@ -1,5 +1,11 @@
-~~Title:pradahati~~
-{{description>is burnt up.}}
+---json
+{
+    "name":"pradahati",
+    "h1":"pradahati",
+    "title":"pradahati -- synonyms, prabhupada.io",
+    "description":"is burnt up."
+}
+---
 
 ==== pradahati  ====
   * is burnt up --- [[books:sb:1:7:48|SB 1.7.48]]

@@ -1,5 +1,11 @@
-~~Title:kathyatām~~
-{{description>kindly describe; let it be told; please describe; please tell me.}}
+---json
+{
+    "name":"kathyatām",
+    "h1":"kathyatām",
+    "title":"kathyatām -- synonyms, prabhupada.io",
+    "description":"kindly describe; let it be told; please describe; please tell me."
+}
+---
 
 ==== kathyatām  ====
   * kindly describe --- [[books:sb:3:21:1|SB 3.21.1]]

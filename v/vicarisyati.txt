@@ -1,5 +1,11 @@
-~~Title:vicariṣyati~~
-{{description>He will travel over.}}
+---json
+{
+    "name":"vicariṣyati",
+    "h1":"vicariṣyati",
+    "title":"vicariṣyati -- synonyms, prabhupada.io",
+    "description":"He will travel over."
+}
+---
 
 ==== vicariṣyati  ====
   * He will travel over --- [[books:sb:3:24:18|SB 3.24.18]]

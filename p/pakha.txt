@@ -1,5 +1,11 @@
-~~Title:pākhā~~
-{{description>wing.}}
+---json
+{
+    "name":"pākhā",
+    "h1":"pākhā",
+    "title":"pākhā -- synonyms, prabhupada.io",
+    "description":"wing."
+}
+---
 
 ==== pākhā  ====
   * wing --- [[books:cc:adi:10:20|Ādi 10.20]]

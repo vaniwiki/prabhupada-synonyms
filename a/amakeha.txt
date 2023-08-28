@@ -1,5 +1,11 @@
-~~Title:āmākeha~~
-{{description>even Me.}}
+---json
+{
+    "name":"āmākeha",
+    "h1":"āmākeha",
+    "title":"āmākeha -- synonyms, prabhupada.io",
+    "description":"even Me."
+}
+---
 
 ==== āmākeha  ====
   * even Me --- [[books:cc:antya:4:168|Antya 4.168]]

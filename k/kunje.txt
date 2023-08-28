@@ -1,5 +1,11 @@
-~~Title:kuñje~~
-{{description>in a grove; in the bush; in the bushes; in the bushes on the bank; in the gardens or bushes of Vṛndāvana.}}
+---json
+{
+    "name":"kuñje",
+    "h1":"kuñje",
+    "title":"kuñje -- synonyms, prabhupada.io",
+    "description":"in a grove; in the bush; in the bushes; in the bushes on the bank; in the gardens or bushes of Vṛndāvana."
+}
+---
 
 ==== kuñje  ====
   * in a grove --- [[books:cc:adi:17:293|Ādi 17.293]]

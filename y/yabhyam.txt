@@ -1,5 +1,11 @@
-~~Title:yābhyām~~
-{{description>by which.}}
+---json
+{
+    "name":"yābhyām",
+    "h1":"yābhyām",
+    "title":"yābhyām -- synonyms, prabhupada.io",
+    "description":"by which."
+}
+---
 
 ==== yābhyām  ====
   * by which --- [[books:sb:4:21:9|SB 4.21.9]]

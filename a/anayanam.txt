@@ -1,5 +1,11 @@
-~~Title:ānayanam~~
-{{description>bringing him.}}
+---json
+{
+    "name":"ānayanam",
+    "h1":"ānayanam",
+    "title":"ānayanam -- synonyms, prabhupada.io",
+    "description":"bringing him."
+}
+---
 
 ==== ānayanam  ====
   * bringing him --- [[books:sb:1:7:43|SB 1.7.43]]

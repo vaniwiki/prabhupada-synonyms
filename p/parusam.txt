@@ -1,5 +1,11 @@
-~~Title:paruṣam~~
-{{description>not a gentle person.}}
+---json
+{
+    "name":"paruṣam",
+    "h1":"paruṣam",
+    "title":"paruṣam -- synonyms, prabhupada.io",
+    "description":"not a gentle person."
+}
+---
 
 ==== ugra-paruṣam  ====
   * not a gentle person --- [[books:sb:8:7:33|SB 8.7.33]]

@@ -1,5 +1,11 @@
-~~Title:apagata~~
-{{description>without fear.}}
+---json
+{
+    "name":"apagata",
+    "h1":"apagata",
+    "title":"apagata -- synonyms, prabhupada.io",
+    "description":"without fear."
+}
+---
 
 ==== apagata-sādhvasaḥ  ====
   * without fear --- [[books:sb:5:24:18|SB 5.24.18]]

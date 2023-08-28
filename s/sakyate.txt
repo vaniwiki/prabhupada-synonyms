@@ -1,5 +1,11 @@
-~~Title:śakyate~~
-{{description>is able; one is able.}}
+---json
+{
+    "name":"śakyate",
+    "h1":"śakyate",
+    "title":"śakyate -- synonyms, prabhupada.io",
+    "description":"is able; one is able."
+}
+---
 
 ==== śakyate  ====
   * is able --- [[books:sb:7:2:49|SB 7.2.49]], [[books:sb:10:4:38|SB 10.4.38]]

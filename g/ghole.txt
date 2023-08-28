@@ -1,5 +1,11 @@
-~~Title:ghole~~
-{{description>like nectarean buttermilk.}}
+---json
+{
+    "name":"ghole",
+    "h1":"ghole",
+    "title":"ghole -- synonyms, prabhupada.io",
+    "description":"like nectarean buttermilk."
+}
+---
 
 ==== amṛta-ghole  ====
   * like nectarean buttermilk --- [[books:cc:antya:17:38|Antya 17.38]]

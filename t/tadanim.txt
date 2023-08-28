@@ -1,5 +1,11 @@
-~~Title:tadānīm~~
-{{description>at that time.}}
+---json
+{
+    "name":"tadānīm",
+    "h1":"tadānīm",
+    "title":"tadānīm -- synonyms, prabhupada.io",
+    "description":"at that time."
+}
+---
 
 ==== tadānīm  ====
   * at that time --- [[books:sb:5:8:27|SB 5.8.27]]

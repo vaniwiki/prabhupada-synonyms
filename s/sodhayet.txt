@@ -1,5 +1,11 @@
-~~Title:śodhayet~~
-{{description>one should clear.}}
+---json
+{
+    "name":"śodhayet",
+    "h1":"śodhayet",
+    "title":"śodhayet -- synonyms, prabhupada.io",
+    "description":"one should clear."
+}
+---
 
 ==== śodhayet  ====
   * one should clear --- [[books:sb:3:28:9|SB 3.28.9]]

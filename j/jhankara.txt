@@ -1,5 +1,11 @@
-~~Title:jhankara~~
-{{description>making a humming sound.}}
+---json
+{
+    "name":"jhankara",
+    "h1":"jhankara",
+    "title":"jhankara -- synonyms, prabhupada.io",
+    "description":"making a humming sound."
+}
+---
 
 ==== jhaṅkāra  ====
   * making a humming sound --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

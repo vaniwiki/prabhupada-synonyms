@@ -1,5 +1,11 @@
-~~Title:priyah~~
-{{description>beloved; dear; lover; most beloved; most dear; the beloved; the dear; the dear one; the most dear; to be served; very dear; very dear friend; very, very dear; who is dear.}}
+---json
+{
+    "name":"priyah",
+    "h1":"priyah",
+    "title":"priyah -- synonyms, prabhupada.io",
+    "description":"beloved; dear; lover; most beloved; most dear; the beloved; the dear; the dear one; the most dear; to be served; very dear; very dear friend; very, very dear; who is dear."
+}
+---
 
 ==== priyaḥ  ====
   * beloved --- [[books:sb:1:7:11|SB 1.7.11]], [[books:sb:3:17:20|SB 3.17.20]], [[books:sb:6:17:34-35|SB 6.17.34-35]], [[books:sb:7:1:1|SB 7.1.1]]

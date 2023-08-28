@@ -1,5 +1,11 @@
-~~Title:lekhaila~~
-{{description>had written.}}
+---json
+{
+    "name":"lekhaila",
+    "h1":"lekhaila",
+    "title":"lekhaila -- synonyms, prabhupada.io",
+    "description":"had written."
+}
+---
 
 ==== lekhāila  ====
   * had written --- [[books:cc:madhya:16:110|Madhya 16.110]]

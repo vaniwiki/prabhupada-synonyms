@@ -1,5 +1,11 @@
-~~Title:grāhyam~~
-{{description>acceptable; perceived; should be accepted (remnants of food); to be accepted.}}
+---json
+{
+    "name":"grāhyam",
+    "h1":"grāhyam",
+    "title":"grāhyam -- synonyms, prabhupada.io",
+    "description":"acceptable; perceived; should be accepted (remnants of food); to be accepted."
+}
+---
 
 ==== grāhyam  ====
   * acceptable --- [[books:bg:6:20-23|Bg. 6.20-23]]

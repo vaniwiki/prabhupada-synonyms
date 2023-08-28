@@ -1,5 +1,11 @@
-~~Title:pañcatvam~~
-{{description>death; five elements; when everything illusory is annihilated.}}
+---json
+{
+    "name":"pañcatvam",
+    "h1":"pañcatvam",
+    "title":"pañcatvam -- synonyms, prabhupada.io",
+    "description":"death; five elements; when everything illusory is annihilated."
+}
+---
 
 ==== pañcatvam  ====
   * death --- [[books:sb:3:31:45-46|SB 3.31.45-46]]

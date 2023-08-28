@@ -1,5 +1,11 @@
-~~Title:lajjā~~
-{{description>ashamed; bashfulness; being ashamed; humility; privacy; shame; shyness; timidity.}}
+---json
+{
+    "name":"lajjā",
+    "h1":"lajjā",
+    "title":"lajjā -- synonyms, prabhupada.io",
+    "description":"ashamed; bashfulness; being ashamed; humility; privacy; shame; shyness; timidity."
+}
+---
 
 ==== lajjā  ====
   * ashamed --- [[books:cc:madhya:1:190|Madhya 1.190]], [[books:cc:antya:1:181|Antya 1.181]]

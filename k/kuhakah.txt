@@ -1,5 +1,11 @@
-~~Title:kuhakaḥ~~
-{{description>some trickery; something magical.}}
+---json
+{
+    "name":"kuhakaḥ",
+    "h1":"kuhakaḥ",
+    "title":"kuhakaḥ -- synonyms, prabhupada.io",
+    "description":"some trickery; something magical."
+}
+---
 
 ==== kuhakaḥ  ====
   * some trickery --- [[books:cc:madhya:23:21|Madhya 23.21]]

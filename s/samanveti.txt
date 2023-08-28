@@ -1,5 +1,11 @@
-~~Title:samanveti~~
-{{description>exists.}}
+---json
+{
+    "name":"samanveti",
+    "h1":"samanveti",
+    "title":"samanveti -- synonyms, prabhupada.io",
+    "description":"exists."
+}
+---
 
 ==== samanveti  ====
   * exists --- [[books:sb:3:26:18|SB 3.26.18]]

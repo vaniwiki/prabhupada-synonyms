@@ -1,5 +1,11 @@
-~~Title:kosat~~
-{{description>from the core.}}
+---json
+{
+    "name":"kosat",
+    "h1":"kosat",
+    "title":"kosat -- synonyms, prabhupada.io",
+    "description":"from the core."
+}
+---
 
 ==== koṣāt  ====
   * from the core --- [[books:cc:antya:1:190|Antya 1.190]]

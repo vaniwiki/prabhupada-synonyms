@@ -1,5 +1,11 @@
-~~Title:vyudasta~~
-{{description>given up; who dispel.}}
+---json
+{
+    "name":"vyudasta",
+    "h1":"vyudasta",
+    "title":"vyudasta -- synonyms, prabhupada.io",
+    "description":"given up; who dispel."
+}
+---
 
 ==== vyudasta  ====
   * given up --- [[books:cc:madhya:17:138|Madhya 17.138]]

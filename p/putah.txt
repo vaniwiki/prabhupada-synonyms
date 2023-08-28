@@ -1,5 +1,11 @@
-~~Title:putah~~
-{{description>(although he was) purified; purified.}}
+---json
+{
+    "name":"putah",
+    "h1":"putah",
+    "title":"putah -- synonyms, prabhupada.io",
+    "description":"(although he was) purified; purified."
+}
+---
 
 ==== pūtaḥ  ====
   * (although he was) purified --- [[books:sb:7:10:15-17|SB 7.10.15-17]]

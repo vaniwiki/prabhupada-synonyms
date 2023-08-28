@@ -1,5 +1,11 @@
-~~Title:mayinam~~
-{{description>affected by material energy.}}
+---json
+{
+    "name":"mayinam",
+    "h1":"mayinam",
+    "title":"mayinam -- synonyms, prabhupada.io",
+    "description":"affected by material energy."
+}
+---
 
 ==== māyinam  ====
   * affected by material energy --- [[books:sb:2:5:19|SB 2.5.19]]

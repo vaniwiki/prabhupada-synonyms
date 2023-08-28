@@ -1,5 +1,11 @@
-~~Title:naiyamika~~
-{{description>having taken a bath after finishing the daily external duties such as passing stool and urine and brushing the teeth.}}
+---json
+{
+    "name":"naiyamika",
+    "h1":"naiyamika",
+    "title":"naiyamika -- synonyms, prabhupada.io",
+    "description":"having taken a bath after finishing the daily external duties such as passing stool and urine and brushing the teeth."
+}
+---
 
 ==== kṛta-abhiṣeka-naiyamika-avaśyakaḥ  ====
   * having taken a bath after finishing the daily external duties such as passing stool and urine and brushing the teeth --- [[books:sb:5:8:1|SB 5.8.1]]

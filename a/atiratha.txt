@@ -1,5 +1,11 @@
-~~Title:atiratha~~
-{{description>a great fighter who could defeat the atirathas.}}
+---json
+{
+    "name":"atiratha",
+    "h1":"atiratha",
+    "title":"atiratha -- synonyms, prabhupada.io",
+    "description":"a great fighter who could defeat the atirathas."
+}
+---
 
 ==== sarva-atiratha-jit  ====
   * a great fighter who could defeat the //atirathas// --- [[books:sb:9:22:33|SB 9.22.33]]

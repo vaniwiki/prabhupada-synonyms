@@ -1,5 +1,11 @@
-~~Title:babhūvire~~
-{{description>took place.}}
+---json
+{
+    "name":"babhūvire",
+    "h1":"babhūvire",
+    "title":"babhūvire -- synonyms, prabhupada.io",
+    "description":"took place."
+}
+---
 
 ==== babhūvire  ====
   * took place --- [[books:sb:3:12:55|SB 3.12.55]]

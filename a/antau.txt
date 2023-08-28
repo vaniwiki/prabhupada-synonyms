@@ -1,5 +1,11 @@
-~~Title:antau~~
-{{description>and the end; end.}}
+---json
+{
+    "name":"antau",
+    "h1":"antau",
+    "title":"antau -- synonyms, prabhupada.io",
+    "description":"and the end; end."
+}
+---
 
 ==== antau  ====
   * and the end --- [[books:sb:8:12:5|SB 8.12.5]]

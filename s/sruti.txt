@@ -1,5 +1,11 @@
-~~Title:śruti~~
-{{description>by hearing; the Vedas; the aim of understanding; the Vedas; the Vedic version; Vedic mantras; Vedic revelation.}}
+---json
+{
+    "name":"śruti",
+    "h1":"śruti",
+    "title":"śruti -- synonyms, prabhupada.io",
+    "description":"by hearing; the Vedas; the aim of understanding; the Vedas; the Vedic version; Vedic mantras; Vedic revelation."
+}
+---
 
 ==== śruti  ====
   * by hearing --- [[books:sb:3:29:11-12|SB 3.29.11-12]]

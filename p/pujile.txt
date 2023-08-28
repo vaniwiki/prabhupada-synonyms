@@ -1,5 +1,11 @@
-~~Title:pūjile~~
-{{description>if you worship.}}
+---json
+{
+    "name":"pūjile",
+    "h1":"pūjile",
+    "title":"pūjile -- synonyms, prabhupada.io",
+    "description":"if you worship."
+}
+---
 
 ==== pūjile  ====
   * if you worship --- [[books:cc:adi:14:66|Ādi 14.66]]

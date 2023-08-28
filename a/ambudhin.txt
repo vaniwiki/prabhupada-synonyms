@@ -1,5 +1,11 @@
-~~Title:ambudhīn~~
-{{description>the seas.}}
+---json
+{
+    "name":"ambudhīn",
+    "h1":"ambudhīn",
+    "title":"ambudhīn -- synonyms, prabhupada.io",
+    "description":"the seas."
+}
+---
 
 ==== ambudhīn  ====
   * the seas --- [[books:sb:10:7:35-36|SB 10.7.35-36]]

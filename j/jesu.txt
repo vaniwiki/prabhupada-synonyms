@@ -1,5 +1,11 @@
-~~Title:jeṣu~~
-{{description>unto his sons.}}
+---json
+{
+    "name":"jeṣu",
+    "h1":"jeṣu",
+    "title":"jeṣu -- synonyms, prabhupada.io",
+    "description":"unto his sons."
+}
+---
 
 ==== ātma-jeṣu  ====
   * unto his sons --- [[books:sb:4:23:1-3|SB 4.23.1-3]]

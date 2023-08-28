@@ -1,5 +1,11 @@
-~~Title:kaṣāyāṇām~~
-{{description>material dirt.}}
+---json
+{
+    "name":"kaṣāyāṇām",
+    "h1":"kaṣāyāṇām",
+    "title":"kaṣāyāṇām -- synonyms, prabhupada.io",
+    "description":"material dirt."
+}
+---
 
 ==== kaṣāyāṇām  ====
   * material dirt --- [[books:sb:1:6:21|SB 1.6.21]]

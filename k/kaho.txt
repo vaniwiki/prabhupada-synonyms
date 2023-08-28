@@ -1,5 +1,11 @@
-~~Title:kāho~~
-{{description>anyone; anyone else; anywhere; someone; somewhere.}}
+---json
+{
+    "name":"kāho",
+    "h1":"kāho",
+    "title":"kāho -- synonyms, prabhupada.io",
+    "description":"anyone; anyone else; anywhere; someone; somewhere."
+}
+---
 
 ==== kāho  ====
   * anyone --- [[books:cc:madhya:11:72|Madhya 11.72]]

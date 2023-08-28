@@ -1,5 +1,11 @@
-~~Title:vyākhyātam~~
-{{description>described.}}
+---json
+{
+    "name":"vyākhyātam",
+    "h1":"vyākhyātam",
+    "title":"vyākhyātam -- synonyms, prabhupada.io",
+    "description":"described."
+}
+---
 
 ==== vyākhyātam  ====
   * described --- [[books:sb:5:20:42|SB 5.20.42]]

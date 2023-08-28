@@ -1,5 +1,11 @@
-~~Title:kayācit~~
-{{description>by someone.}}
+---json
+{
+    "name":"kayācit",
+    "h1":"kayācit",
+    "title":"kayācit -- synonyms, prabhupada.io",
+    "description":"by someone."
+}
+---
 
 ==== kayācit  ====
   * by someone --- [[books:sb:4:28:55|SB 4.28.55]]

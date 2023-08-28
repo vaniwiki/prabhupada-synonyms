@@ -1,5 +1,11 @@
-~~Title:mo~~
-{{description>as me.}}
+---json
+{
+    "name":"mo",
+    "h1":"mo",
+    "title":"mo -- synonyms, prabhupada.io",
+    "description":"as me."
+}
+---
 
 ==== mo  ====
   * as me --- [[books:cc:adi:5:209|Ādi 5.209]]

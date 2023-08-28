@@ -1,5 +1,11 @@
-~~Title:āgasi~~
-{{description>has been offended; has committed something wrong.}}
+---json
+{
+    "name":"āgasi",
+    "h1":"āgasi",
+    "title":"āgasi -- synonyms, prabhupada.io",
+    "description":"has been offended; has committed something wrong."
+}
+---
 
 ==== kṛta-āgasi  ====
   * has been offended --- [[books:sb:4:6:4|SB 4.6.4]]

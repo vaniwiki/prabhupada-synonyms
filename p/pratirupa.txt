@@ -1,5 +1,11 @@
-~~Title:pratirūpa~~
-{{description>tangible example.}}
+---json
+{
+    "name":"pratirūpa",
+    "h1":"pratirūpa",
+    "title":"pratirūpa -- synonyms, prabhupada.io",
+    "description":"tangible example."
+}
+---
 
 ==== pratirūpa-dhṛk  ====
   * tangible example --- [[books:sb:7:10:21|SB 7.10.21]]

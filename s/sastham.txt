@@ -1,5 +1,11 @@
-~~Title:ṣaṣṭham~~
-{{description>sixth; the sixth; the sixth one.}}
+---json
+{
+    "name":"ṣaṣṭham",
+    "h1":"ṣaṣṭham",
+    "title":"ṣaṣṭham -- synonyms, prabhupada.io",
+    "description":"sixth; the sixth; the sixth one."
+}
+---
 
 ==== ṣaṣṭham  ====
   * sixth --- [[books:sb:9:4:3|SB 9.4.3]]

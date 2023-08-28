@@ -1,5 +1,11 @@
-~~Title:sravah~~
-{{description>glorious activities.}}
+---json
+{
+    "name":"sravah",
+    "h1":"sravah",
+    "title":"sravah -- synonyms, prabhupada.io",
+    "description":"glorious activities."
+}
+---
 
 ==== śravaḥ  ====
   * glorious activities --- [[books:sb:4:17:6-7|SB 4.17.6-7]]

@@ -1,5 +1,11 @@
-~~Title:vitānaḥ~~
-{{description>the extension of the planetary systems.}}
+---json
+{
+    "name":"vitānaḥ",
+    "h1":"vitānaḥ",
+    "title":"vitānaḥ -- synonyms, prabhupada.io",
+    "description":"the extension of the planetary systems."
+}
+---
 
 ==== loka-vitānaḥ  ====
   * the extension of the planetary systems --- [[books:sb:3:26:52|SB 3.26.52]]

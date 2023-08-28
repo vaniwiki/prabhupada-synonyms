@@ -1,5 +1,11 @@
-~~Title:padmanābhera~~
-{{description>of the Deity known as Padmanābha.}}
+---json
+{
+    "name":"padmanābhera",
+    "h1":"padmanābhera",
+    "title":"padmanābhera -- synonyms, prabhupada.io",
+    "description":"of the Deity known as Padmanābha."
+}
+---
 
 ==== padmanābhera  ====
   * of the Deity known as Padmanābha --- [[books:cc:madhya:9:242|Madhya 9.242]]

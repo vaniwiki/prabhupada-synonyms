@@ -1,5 +1,11 @@
-~~Title:jalaruha~~
-{{description>appeared very beautiful because of blooming lotuses all around.}}
+---json
+{
+    "name":"jalaruha",
+    "h1":"jalaruha",
+    "title":"jalaruha -- synonyms, prabhupada.io",
+    "description":"appeared very beautiful because of blooming lotuses all around."
+}
+---
 
 ==== jalaruha-śriyaḥ  ====
   * appeared very beautiful because of blooming lotuses all around --- [[books:sb:10:3:1-5|SB 10.3.1-5]]

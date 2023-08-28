@@ -1,5 +1,11 @@
-~~Title:vṛndāvanāt~~
-{{description>from Vṛndāvana.}}
+---json
+{
+    "name":"vṛndāvanāt",
+    "h1":"vṛndāvanāt",
+    "title":"vṛndāvanāt -- synonyms, prabhupada.io",
+    "description":"from Vṛndāvana."
+}
+---
 
 ==== vṛndāvanāt  ====
   * from Vṛndāvana --- [[books:cc:antya:4:1|Antya 4.1]]

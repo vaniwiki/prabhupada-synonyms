@@ -1,5 +1,11 @@
-~~Title:paramau~~
-{{description>accepting Me as the supreme destination of life.}}
+---json
+{
+    "name":"paramau",
+    "h1":"paramau",
+    "title":"paramau -- synonyms, prabhupada.io",
+    "description":"accepting Me as the supreme destination of life."
+}
+---
 
 ==== mat-paramau  ====
   * accepting Me as the supreme destination of life --- [[books:sb:10:10:42|SB 10.10.42]]

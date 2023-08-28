@@ -1,5 +1,11 @@
-~~Title:pākhāli'~~
-{{description>washing.}}
+---json
+{
+    "name":"pākhāli'",
+    "h1":"pākhāli'",
+    "title":"pākhāli' -- synonyms, prabhupada.io",
+    "description":"washing."
+}
+---
 
 ==== pākhāli'  ====
   * washing --- [[books:cc:madhya:6:40|Madhya 6.40]]

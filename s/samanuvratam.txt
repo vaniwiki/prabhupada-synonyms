@@ -1,5 +1,11 @@
-~~Title:samanuvratām~~
-{{description>fully devoted.}}
+---json
+{
+    "name":"samanuvratām",
+    "h1":"samanuvratām",
+    "title":"samanuvratām -- synonyms, prabhupada.io",
+    "description":"fully devoted."
+}
+---
 
 ==== samanuvratām  ====
   * fully devoted --- [[books:sb:3:23:4-5|SB 3.23.4-5]]

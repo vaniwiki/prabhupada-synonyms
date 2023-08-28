@@ -1,5 +1,11 @@
-~~Title:himavān~~
-{{description>the Himalaya Mountains.}}
+---json
+{
+    "name":"himavān",
+    "h1":"himavān",
+    "title":"himavān -- synonyms, prabhupada.io",
+    "description":"the Himalaya Mountains."
+}
+---
 
 ==== himavān  ====
   * the Himalaya Mountains --- [[books:sb:1:12:22|SB 1.12.22]]

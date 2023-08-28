@@ -1,5 +1,11 @@
-~~Title:durgeṣu~~
-{{description>in places where travel is very difficult.}}
+---json
+{
+    "name":"durgeṣu",
+    "h1":"durgeṣu",
+    "title":"durgeṣu -- synonyms, prabhupada.io",
+    "description":"in places where travel is very difficult."
+}
+---
 
 ==== durgeṣu  ====
   * in places where travel is very difficult --- [[books:sb:6:8:14|SB 6.8.14]]

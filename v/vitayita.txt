@@ -1,5 +1,11 @@
-~~Title:vitāyitā~~
-{{description>will perform.}}
+---json
+{
+    "name":"vitāyitā",
+    "h1":"vitāyitā",
+    "title":"vitāyitā -- synonyms, prabhupada.io",
+    "description":"will perform."
+}
+---
 
 ==== vitāyitā  ====
   * will perform --- [[books:sb:8:13:35|SB 8.13.35]]

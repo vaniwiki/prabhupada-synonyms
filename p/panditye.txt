@@ -1,5 +1,11 @@
-~~Title:pāṇḍitye~~
-{{description>in learning.}}
+---json
+{
+    "name":"pāṇḍitye",
+    "h1":"pāṇḍitye",
+    "title":"pāṇḍitye -- synonyms, prabhupada.io",
+    "description":"in learning."
+}
+---
 
 ==== pāṇḍitye  ====
   * in learning --- [[books:cc:antya:4:112|Antya 4.112]]

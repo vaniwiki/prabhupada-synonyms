@@ -1,5 +1,11 @@
-~~Title:bhṛgupāta~~
-{{description>falling down.}}
+---json
+{
+    "name":"bhṛgupāta",
+    "h1":"bhṛgupāta",
+    "title":"bhṛgupāta -- synonyms, prabhupada.io",
+    "description":"falling down."
+}
+---
 
 ==== bhṛgupāta  ====
   * falling down --- [[books:cc:adi:10:94|Ādi 10.94]]

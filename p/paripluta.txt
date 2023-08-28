@@ -1,5 +1,11 @@
-~~Title:paripluta~~
-{{description>overpowered; overwhelmed; spreading everywhere.}}
+---json
+{
+    "name":"paripluta",
+    "h1":"paripluta",
+    "title":"paripluta -- synonyms, prabhupada.io",
+    "description":"overpowered; overwhelmed; spreading everywhere."
+}
+---
 
 ==== paripluta  ====
   * overpowered --- [[books:sb:3:19:7|SB 3.19.7]]

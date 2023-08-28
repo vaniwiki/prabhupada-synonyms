@@ -1,5 +1,11 @@
-~~Title:dhāvamānam~~
-{{description>moving.}}
+---json
+{
+    "name":"dhāvamānam",
+    "h1":"dhāvamānam",
+    "title":"dhāvamānam -- synonyms, prabhupada.io",
+    "description":"moving."
+}
+---
 
 ==== dhāvamānam  ====
   * moving --- [[books:sb:4:11:20|SB 4.11.20]]

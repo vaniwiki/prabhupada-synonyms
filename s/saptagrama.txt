@@ -1,5 +1,11 @@
-~~Title:saptagrāma~~
-{{description>of the place known as Saptagrāma.}}
+---json
+{
+    "name":"saptagrāma",
+    "h1":"saptagrāma",
+    "title":"saptagrāma -- synonyms, prabhupada.io",
+    "description":"of the place known as Saptagrāma."
+}
+---
 
 ==== saptagrāma-mulukera  ====
   * of the place known as Saptagrāma --- [[books:cc:antya:6:17|Antya 6.17]]

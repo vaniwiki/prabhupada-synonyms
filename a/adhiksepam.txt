@@ -1,5 +1,11 @@
-~~Title:adhikṣepam~~
-{{description>the chastisement.}}
+---json
+{
+    "name":"adhikṣepam",
+    "h1":"adhikṣepam",
+    "title":"adhikṣepam -- synonyms, prabhupada.io",
+    "description":"the chastisement."
+}
+---
 
 ==== adhikṣepam  ====
   * the chastisement --- [[books:sb:8:11:11|SB 8.11.11]]

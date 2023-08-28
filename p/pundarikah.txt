@@ -1,5 +1,11 @@
-~~Title:puṇḍarīkaḥ~~
-{{description>Puṇḍarīka.}}
+---json
+{
+    "name":"puṇḍarīkaḥ",
+    "h1":"puṇḍarīkaḥ",
+    "title":"puṇḍarīkaḥ -- synonyms, prabhupada.io",
+    "description":"Puṇḍarīka."
+}
+---
 
 ==== puṇḍarīkaḥ  ====
   * Puṇḍarīka --- [[books:sb:9:12:1|SB 9.12.1]]

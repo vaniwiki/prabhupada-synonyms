@@ -1,5 +1,11 @@
-~~Title:hantāraḥ~~
-{{description>killers.}}
+---json
+{
+    "name":"hantāraḥ",
+    "h1":"hantāraḥ",
+    "title":"hantāraḥ -- synonyms, prabhupada.io",
+    "description":"killers."
+}
+---
 
 ==== hantāraḥ  ====
   * killers --- [[books:sb:4:11:24|SB 4.11.24]]

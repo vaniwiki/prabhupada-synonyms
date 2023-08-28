@@ -1,5 +1,11 @@
-~~Title:abhadra~~
-{{description>O inauspicious one; O mischievous one.}}
+---json
+{
+    "name":"abhadra",
+    "h1":"abhadra",
+    "title":"abhadra -- synonyms, prabhupada.io",
+    "description":"O inauspicious one; O mischievous one."
+}
+---
 
 ==== abhadra  ====
   * O inauspicious one --- [[books:sb:7:5:29|SB 7.5.29]]

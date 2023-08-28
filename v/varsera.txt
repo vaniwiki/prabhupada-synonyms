@@ -1,5 +1,11 @@
-~~Title:varṣera~~
-{{description>years.}}
+---json
+{
+    "name":"varṣera",
+    "h1":"varṣera",
+    "title":"varṣera -- synonyms, prabhupada.io",
+    "description":"years."
+}
+---
 
 ==== varṣera  ====
   * years --- [[books:cc:adi:12:17|Ādi 12.17]]

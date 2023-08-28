@@ -1,5 +1,11 @@
-~~Title:harati~~
-{{description>annihilates; decreases; destroys; one collects; stole; takes away; vanquishes.}}
+---json
+{
+    "name":"harati",
+    "h1":"harati",
+    "title":"harati -- synonyms, prabhupada.io",
+    "description":"annihilates; decreases; destroys; one collects; stole; takes away; vanquishes."
+}
+---
 
 ==== harati  ====
   * annihilates --- [[books:cc:madhya:20:318|Madhya 20.318]], [[books:cc:madhya:21:37|Madhya 21.37]]

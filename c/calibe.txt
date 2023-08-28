@@ -1,5 +1,11 @@
-~~Title:calibe~~
-{{description>the Lord will start.}}
+---json
+{
+    "name":"calibe",
+    "h1":"calibe",
+    "title":"calibe -- synonyms, prabhupada.io",
+    "description":"the Lord will start."
+}
+---
 
 ==== calibe prabhu  ====
   * the Lord will start --- [[books:cc:madhya:16:117|Madhya 16.117]]

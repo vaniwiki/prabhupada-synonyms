@@ -1,5 +1,11 @@
-~~Title:prahetiḥ~~
-{{description>Praheti.}}
+---json
+{
+    "name":"prahetiḥ",
+    "h1":"prahetiḥ",
+    "title":"prahetiḥ -- synonyms, prabhupada.io",
+    "description":"Praheti."
+}
+---
 
 ==== prahetiḥ  ====
   * Praheti --- [[books:sb:6:10:19-22|SB 6.10.19-22]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

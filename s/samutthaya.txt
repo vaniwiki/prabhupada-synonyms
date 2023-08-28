@@ -1,5 +1,11 @@
-~~Title:samutthāya~~
-{{description>getting up; standing up; waking up.}}
+---json
+{
+    "name":"samutthāya",
+    "h1":"samutthāya",
+    "title":"samutthāya -- synonyms, prabhupada.io",
+    "description":"getting up; standing up; waking up."
+}
+---
 
 ==== samutthāya  ====
   * getting up --- [[books:sb:9:1:30|SB 9.1.30]]

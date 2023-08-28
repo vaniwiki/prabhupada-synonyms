@@ -1,5 +1,11 @@
-~~Title:sandehaḥ~~
-{{description>all doubts; doubts.}}
+---json
+{
+    "name":"sandehaḥ",
+    "h1":"sandehaḥ",
+    "title":"sandehaḥ -- synonyms, prabhupada.io",
+    "description":"all doubts; doubts."
+}
+---
 
 ==== sandehaḥ  ====
   * all doubts --- [[books:bg:18:73|Bg. 18.73]]

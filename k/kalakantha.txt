@@ -1,5 +1,11 @@
-~~Title:kalakaṇṭha~~
-{{description>sweetly chirping.}}
+---json
+{
+    "name":"kalakaṇṭha",
+    "h1":"kalakaṇṭha",
+    "title":"kalakaṇṭha -- synonyms, prabhupada.io",
+    "description":"sweetly chirping."
+}
+---
 
 ==== kalakaṇṭha  ====
   * sweetly chirping --- [[books:sb:8:2:7|SB 8.2.7]]

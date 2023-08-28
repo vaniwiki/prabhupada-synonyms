@@ -1,5 +1,11 @@
-~~Title:abhyupatiṣṭhan~~
-{{description>worshiping.}}
+---json
+{
+    "name":"abhyupatiṣṭhan",
+    "h1":"abhyupatiṣṭhan",
+    "title":"abhyupatiṣṭhan -- synonyms, prabhupada.io",
+    "description":"worshiping."
+}
+---
 
 ==== abhyupatiṣṭhan  ====
   * worshiping --- [[books:sb:5:7:13|SB 5.7.13]]

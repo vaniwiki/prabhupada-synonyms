@@ -1,5 +1,11 @@
-~~Title:karmiṇām~~
-{{description>persons performing actions.}}
+---json
+{
+    "name":"karmiṇām",
+    "h1":"karmiṇām",
+    "title":"karmiṇām -- synonyms, prabhupada.io",
+    "description":"persons performing actions."
+}
+---
 
 ==== karmiṇām  ====
   * persons performing actions --- [[books:sb:6:3:6|SB 6.3.6]]

@@ -1,5 +1,11 @@
-~~Title:ātmajau~~
-{{description>two sons.}}
+---json
+{
+    "name":"ātmajau",
+    "h1":"ātmajau",
+    "title":"ātmajau -- synonyms, prabhupada.io",
+    "description":"two sons."
+}
+---
 
 ==== ātmajau  ====
   * two sons --- [[books:sb:9:11:12|SB 9.11.12]], [[books:sb:9:23:2|SB 9.23.2]], [[books:sb:9:24:21-23|SB 9.24.21-23]]

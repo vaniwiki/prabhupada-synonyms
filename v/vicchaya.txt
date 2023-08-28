@@ -1,5 +1,11 @@
-~~Title:vicchāyā~~
-{{description>appear to be covered with the shadow of grief.}}
+---json
+{
+    "name":"vicchāyā",
+    "h1":"vicchāyā",
+    "title":"vicchāyā -- synonyms, prabhupada.io",
+    "description":"appear to be covered with the shadow of grief."
+}
+---
 
 ==== vicchāyā asi  ====
   * appear to be covered with the shadow of grief --- [[books:sb:1:16:19|SB 1.16.19]]

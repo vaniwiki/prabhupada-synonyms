@@ -1,5 +1,11 @@
-~~Title:hoḍa~~
-{{description>challenging.}}
+---json
+{
+    "name":"hoḍa",
+    "h1":"hoḍa",
+    "title":"hoḍa -- synonyms, prabhupada.io",
+    "description":"challenging."
+}
+---
 
 ==== hoḍa kari'  ====
   * challenging --- [[books:cc:adi:4:142|Ādi 4.142]]

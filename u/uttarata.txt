@@ -1,5 +1,11 @@
-~~Title:uttarata~~
-{{description>escaped.}}
+---json
+{
+    "name":"uttarata",
+    "h1":"uttarata",
+    "title":"uttarata -- synonyms, prabhupada.io",
+    "description":"escaped."
+}
+---
 
 ==== uttarata  ====
   * escaped --- [[books:sb:7:15:68|SB 7.15.68]]

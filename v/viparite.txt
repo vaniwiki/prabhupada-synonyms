@@ -1,5 +1,11 @@
-~~Title:viparīte~~
-{{description>it has become just the opposite.}}
+---json
+{
+    "name":"viparīte",
+    "h1":"viparīte",
+    "title":"viparīte -- synonyms, prabhupada.io",
+    "description":"it has become just the opposite."
+}
+---
 
 ==== haila viparīte  ====
   * it has become just the opposite --- [[books:cc:antya:4:140|Antya 4.140]]

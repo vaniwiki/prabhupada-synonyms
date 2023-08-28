@@ -1,5 +1,11 @@
-~~Title:svakarma~~
-{{description>by his own duty.}}
+---json
+{
+    "name":"svakarma",
+    "h1":"svakarma",
+    "title":"svakarma -- synonyms, prabhupada.io",
+    "description":"by his own duty."
+}
+---
 
 ==== svakarma  ====
   * by his own duty --- [[books:bg:18:45|Bg. 18.45]]

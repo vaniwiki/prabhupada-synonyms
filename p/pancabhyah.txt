@@ -1,5 +1,11 @@
-~~Title:pañcabhyaḥ~~
-{{description>from the five brothers (Yudhiṣṭhira, Bhīma, Arjuna, Nakula and Sahadeva).}}
+---json
+{
+    "name":"pañcabhyaḥ",
+    "h1":"pañcabhyaḥ",
+    "title":"pañcabhyaḥ -- synonyms, prabhupada.io",
+    "description":"from the five brothers (Yudhiṣṭhira, Bhīma, Arjuna, Nakula and Sahadeva)."
+}
+---
 
 ==== pañcabhyaḥ  ====
   * from the five brothers (Yudhiṣṭhira, Bhīma, Arjuna, Nakula and Sahadeva) --- [[books:sb:9:22:27-28|SB 9.22.27-28]]

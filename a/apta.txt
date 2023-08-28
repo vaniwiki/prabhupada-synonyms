@@ -1,5 +1,11 @@
-~~Title:āpta~~
-{{description>achieved; already achieved; attained; friends and relatives; fulfilled; of friends and relatives; relatives; relatives, society.}}
+---json
+{
+    "name":"āpta",
+    "h1":"āpta",
+    "title":"āpta -- synonyms, prabhupada.io",
+    "description":"achieved; already achieved; attained; friends and relatives; fulfilled; of friends and relatives; relatives; relatives, society."
+}
+---
 
 ==== āpta  ====
   * achieved --- [[books:sb:3:2:21|SB 3.2.21]], [[books:sb:4:22:49|SB 4.22.49]], [[books:sb:4:25:28|SB 4.25.28]]

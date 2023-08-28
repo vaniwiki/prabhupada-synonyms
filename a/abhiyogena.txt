@@ -1,5 +1,11 @@
-~~Title:abhiyogena~~
-{{description>by absorption in.}}
+---json
+{
+    "name":"abhiyogena",
+    "h1":"abhiyogena",
+    "title":"abhiyogena -- synonyms, prabhupada.io",
+    "description":"by absorption in."
+}
+---
 
 ==== abhiyogena  ====
   * by absorption in --- [[books:sb:5:8:29|SB 5.8.29]]

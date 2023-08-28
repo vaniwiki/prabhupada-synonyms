@@ -1,5 +1,11 @@
-~~Title:vyavocat~~
-{{description>he replied.}}
+---json
+{
+    "name":"vyavocat",
+    "h1":"vyavocat",
+    "title":"vyavocat -- synonyms, prabhupada.io",
+    "description":"he replied."
+}
+---
 
 ==== vyavocat  ====
   * he replied --- [[books:sb:3:17:29|SB 3.17.29]]

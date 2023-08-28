@@ -1,5 +1,11 @@
-~~Title:mardanam~~
-{{description>destruction.}}
+---json
+{
+    "name":"mardanam",
+    "h1":"mardanam",
+    "title":"mardanam -- synonyms, prabhupada.io",
+    "description":"destruction."
+}
+---
 
 ==== mardanam  ====
   * destruction --- [[books:sb:3:4:2|SB 3.4.2]]

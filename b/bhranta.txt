@@ -1,5 +1,11 @@
-~~Title:bhrānta~~
-{{description>bewilderment; mistaken.}}
+---json
+{
+    "name":"bhrānta",
+    "h1":"bhrānta",
+    "title":"bhrānta -- synonyms, prabhupada.io",
+    "description":"bewilderment; mistaken."
+}
+---
 
 ==== bhrānta  ====
   * bewilderment --- [[books:cc:adi:7:77|Ādi 7.77]]

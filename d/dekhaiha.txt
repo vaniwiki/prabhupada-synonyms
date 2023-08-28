@@ -1,5 +1,11 @@
-~~Title:dekhāiha~~
-{{description>please show.}}
+---json
+{
+    "name":"dekhāiha",
+    "h1":"dekhāiha",
+    "title":"dekhāiha -- synonyms, prabhupada.io",
+    "description":"please show."
+}
+---
 
 ==== dekhāiha  ====
   * please show --- [[books:cc:madhya:3:17|Madhya 3.17]]

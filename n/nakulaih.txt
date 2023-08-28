@@ -1,5 +1,11 @@
-~~Title:nakulaiḥ~~
-{{description>by mongooses.}}
+---json
+{
+    "name":"nakulaiḥ",
+    "h1":"nakulaiḥ",
+    "title":"nakulaiḥ -- synonyms, prabhupada.io",
+    "description":"by mongooses."
+}
+---
 
 ==== nakulaiḥ  ====
   * by mongooses --- [[books:sb:3:21:44|SB 3.21.44]]

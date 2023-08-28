@@ -1,5 +1,11 @@
-~~Title:proktāni~~
-{{description>described; mentioned; said.}}
+---json
+{
+    "name":"proktāni",
+    "h1":"proktāni",
+    "title":"proktāni -- synonyms, prabhupada.io",
+    "description":"described; mentioned; said."
+}
+---
 
 ==== proktāni  ====
   * described --- [[books:sb:8:13:36|SB 8.13.36]]

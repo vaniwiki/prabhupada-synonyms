@@ -1,5 +1,11 @@
-~~Title:akliṣṭa~~
-{{description>with your intelligence, without material contamination.}}
+---json
+{
+    "name":"akliṣṭa",
+    "h1":"akliṣṭa",
+    "title":"akliṣṭa -- synonyms, prabhupada.io",
+    "description":"with your intelligence, without material contamination."
+}
+---
 
 ==== akliṣṭa-buddhyā  ====
   * with your intelligence, without material contamination --- [[books:sb:5:5:20|SB 5.5.20]]

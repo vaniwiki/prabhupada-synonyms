@@ -1,5 +1,11 @@
-~~Title:caliba~~
-{{description>I shall go; shall go.}}
+---json
+{
+    "name":"caliba",
+    "h1":"caliba",
+    "title":"caliba -- synonyms, prabhupada.io",
+    "description":"I shall go; shall go."
+}
+---
 
 ==== caliba  ====
   * I shall go --- [[books:cc:madhya:16:89|Madhya 16.89]], [[books:cc:madhya:20:43|Madhya 20.43]]

@@ -1,5 +1,11 @@
-~~Title:andhakaḥ~~
-{{description>Andhaka.}}
+---json
+{
+    "name":"andhakaḥ",
+    "h1":"andhakaḥ",
+    "title":"andhakaḥ -- synonyms, prabhupada.io",
+    "description":"Andhaka."
+}
+---
 
 ==== andhakaḥ  ====
   * Andhaka --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

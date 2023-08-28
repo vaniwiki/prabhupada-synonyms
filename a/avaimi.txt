@@ -1,5 +1,11 @@
-~~Title:avaimi~~
-{{description>I know.}}
+---json
+{
+    "name":"avaimi",
+    "h1":"avaimi",
+    "title":"avaimi -- synonyms, prabhupada.io",
+    "description":"I know."
+}
+---
 
 ==== avaimi  ====
   * I know --- [[books:sb:3:23:10|SB 3.23.10]]

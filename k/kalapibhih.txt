@@ -1,5 +1,11 @@
-~~Title:kalāpibhiḥ~~
-{{description>with the peacocks.}}
+---json
+{
+    "name":"kalāpibhiḥ",
+    "h1":"kalāpibhiḥ",
+    "title":"kalāpibhiḥ -- synonyms, prabhupada.io",
+    "description":"with the peacocks."
+}
+---
 
 ==== kalāpibhiḥ  ====
   * with the peacocks --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

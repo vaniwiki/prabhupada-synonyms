@@ -1,5 +1,11 @@
-~~Title:bilāt~~
-{{description>money due the King.}}
+---json
+{
+    "name":"bilāt",
+    "h1":"bilāt",
+    "title":"bilāt -- synonyms, prabhupada.io",
+    "description":"money due the King."
+}
+---
 
 ==== rāja-bilāt  ====
   * money due the King --- [[books:cc:antya:9:32|Antya 9.32]]

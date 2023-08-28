@@ -1,5 +1,11 @@
-~~Title:upaśamanīm~~
-{{description>relieving.}}
+---json
+{
+    "name":"upaśamanīm",
+    "h1":"upaśamanīm",
+    "title":"upaśamanīm -- synonyms, prabhupada.io",
+    "description":"relieving."
+}
+---
 
 ==== upaśamanīm  ====
   * relieving --- [[books:sb:6:9:43|SB 6.9.43]]

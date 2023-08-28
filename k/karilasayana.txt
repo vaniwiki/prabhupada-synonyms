@@ -1,5 +1,11 @@
-~~Title:karilāśayana~~
-{{description>took rest.}}
+---json
+{
+    "name":"karilāśayana",
+    "h1":"karilāśayana",
+    "title":"karilāśayana -- synonyms, prabhupada.io",
+    "description":"took rest."
+}
+---
 
 ==== karilāśayana  ====
   * took rest --- [[books:cc:adi:14:76|Ādi 14.76]]

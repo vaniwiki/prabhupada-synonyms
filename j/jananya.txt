@@ -1,5 +1,11 @@
-~~Title:jananyā~~
-{{description>by your mother; mother.}}
+---json
+{
+    "name":"jananyā",
+    "h1":"jananyā",
+    "title":"jananyā -- synonyms, prabhupada.io",
+    "description":"by your mother; mother."
+}
+---
 
 ==== jananyā  ====
   * by your mother --- [[books:sb:4:8:40|SB 4.8.40]]

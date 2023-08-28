@@ -1,5 +1,11 @@
-~~Title:vratat~~
-{{description>from the multitude of mines in the form of scriptures.}}
+---json
+{
+    "name":"vratat",
+    "h1":"vratat",
+    "title":"vratat -- synonyms, prabhupada.io",
+    "description":"from the multitude of mines in the form of scriptures."
+}
+---
 
 ==== ākara-vrātāt  ====
   * from the multitude of mines in the form of scriptures --- [[books:cc:adi:3:1|Ādi 3.1]]

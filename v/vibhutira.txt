@@ -1,5 +1,11 @@
-~~Title:vibhūtira~~
-{{description>of one fourth of the energy.}}
+---json
+{
+    "name":"vibhūtira",
+    "h1":"vibhūtira",
+    "title":"vibhūtira -- synonyms, prabhupada.io",
+    "description":"of one fourth of the energy."
+}
+---
 
 ==== eka-pāda vibhūtira  ====
   * of one fourth of the energy --- [[books:cc:madhya:21:57|Madhya 21.57]]

@@ -1,5 +1,11 @@
-~~Title:bhūriṣeṇa~~
-{{description>Bhūriṣeṇa and others.}}
+---json
+{
+    "name":"bhūriṣeṇa",
+    "h1":"bhūriṣeṇa",
+    "title":"bhūriṣeṇa -- synonyms, prabhupada.io",
+    "description":"Bhūriṣeṇa and others."
+}
+---
 
 ==== bhūriṣeṇa-ādyāḥ  ====
   * Bhūriṣeṇa and others --- [[books:sb:8:13:21|SB 8.13.21]]

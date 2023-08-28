@@ -1,5 +1,11 @@
-~~Title:kaiche~~
-{{description>as; how.}}
+---json
+{
+    "name":"kaiche",
+    "h1":"kaiche",
+    "title":"kaiche -- synonyms, prabhupada.io",
+    "description":"as; how."
+}
+---
 
 ==== kaiche  ====
   * as --- [[books:cc:madhya:6:45|Madhya 6.45]]

@@ -1,5 +1,11 @@
-~~Title:ba~~
-{{description>except; except for this.}}
+---json
+{
+    "name":"ba",
+    "h1":"ba",
+    "title":"ba -- synonyms, prabhupada.io",
+    "description":"except; except for this."
+}
+---
 
 ==== ba-i  ====
   * except --- [[books:cc:adi:17:193|Ādi 17.193]]

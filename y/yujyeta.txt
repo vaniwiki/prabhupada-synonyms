@@ -1,5 +1,11 @@
-~~Title:yujyeta~~
-{{description>engaged.}}
+---json
+{
+    "name":"yujyeta",
+    "h1":"yujyeta",
+    "title":"yujyeta -- synonyms, prabhupada.io",
+    "description":"engaged."
+}
+---
 
 ==== yujyeta  ====
   * engaged --- [[books:sb:3:7:5|SB 3.7.5]]

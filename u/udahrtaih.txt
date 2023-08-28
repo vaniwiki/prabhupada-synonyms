@@ -1,5 +1,11 @@
-~~Title:udāhṛtaiḥ~~
-{{description>chanted.}}
+---json
+{
+    "name":"udāhṛtaiḥ",
+    "h1":"udāhṛtaiḥ",
+    "title":"udāhṛtaiḥ -- synonyms, prabhupada.io",
+    "description":"chanted."
+}
+---
 
 ==== udāhṛtaiḥ  ====
   * chanted --- [[books:sb:6:2:11|SB 6.2.11]]

@@ -1,5 +1,11 @@
-~~Title:yoni~~
-{{description>species of life.}}
+---json
+{
+    "name":"yoni",
+    "h1":"yoni",
+    "title":"yoni -- synonyms, prabhupada.io",
+    "description":"species of life."
+}
+---
 
 ==== yoni  ====
   * species of life --- [[books:bg:13:22|Bg. 13.22]]

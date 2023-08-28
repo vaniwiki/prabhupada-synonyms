@@ -1,5 +1,11 @@
-~~Title:kāryāṇi~~
-{{description>must be done; prescribed activities.}}
+---json
+{
+    "name":"kāryāṇi",
+    "h1":"kāryāṇi",
+    "title":"kāryāṇi -- synonyms, prabhupada.io",
+    "description":"must be done; prescribed activities."
+}
+---
 
 ==== kāryāṇi  ====
   * must be done --- [[books:sb:6:18:46|SB 6.18.46]]

@@ -1,5 +1,11 @@
-~~Title:prasūte~~
-{{description>O my daughter, born in the family.}}
+---json
+{
+    "name":"prasūte",
+    "h1":"prasūte",
+    "title":"prasūte -- synonyms, prabhupada.io",
+    "description":"O my daughter, born in the family."
+}
+---
 
 ==== kula-prasūte  ====
   * O my daughter, born in the family --- [[books:sb:9:3:21|SB 9.3.21]]

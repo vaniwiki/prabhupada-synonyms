@@ -1,5 +1,11 @@
-~~Title:kṛtāgniḥ~~
-{{description>by the name Kṛtāgni.}}
+---json
+{
+    "name":"kṛtāgniḥ",
+    "h1":"kṛtāgniḥ",
+    "title":"kṛtāgniḥ -- synonyms, prabhupada.io",
+    "description":"by the name Kṛtāgni."
+}
+---
 
 ==== kṛtāgniḥ  ====
   * by the name Kṛtāgni --- [[books:sb:9:23:23|SB 9.23.23]]

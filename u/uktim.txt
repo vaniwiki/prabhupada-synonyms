@@ -1,5 +1,11 @@
-~~Title:uktim~~
-{{description>words of obeisance.}}
+---json
+{
+    "name":"uktim",
+    "h1":"uktim",
+    "title":"uktim -- synonyms, prabhupada.io",
+    "description":"words of obeisance."
+}
+---
 
 ==== namaḥ uktim  ====
   * words of obeisance --- [[books:iso:18|Īśo 18]]

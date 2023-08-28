@@ -1,5 +1,11 @@
-~~Title:bhaginyaḥ~~
-{{description>sisters.}}
+---json
+{
+    "name":"bhaginyaḥ",
+    "h1":"bhaginyaḥ",
+    "title":"bhaginyaḥ -- synonyms, prabhupada.io",
+    "description":"sisters."
+}
+---
 
 ==== bhaginyaḥ  ====
   * sisters --- [[books:sb:4:3:9|SB 4.3.9]], [[books:sb:9:24:28-31|SB 9.24.28-31]]

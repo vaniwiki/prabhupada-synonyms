@@ -1,5 +1,11 @@
-~~Title:vasudhā~~
-{{description>the earth.}}
+---json
+{
+    "name":"vasudhā",
+    "h1":"vasudhā",
+    "title":"vasudhā -- synonyms, prabhupada.io",
+    "description":"the earth."
+}
+---
 
 ==== vasudhā  ====
   * the earth --- [[books:sb:2:7:9|SB 2.7.9]]

@@ -1,5 +1,11 @@
-~~Title:kuṭhāra~~
-{{description>by the axe of Lord Paraśurāma.}}
+---json
+{
+    "name":"kuṭhāra",
+    "h1":"kuṭhāra",
+    "title":"kuṭhāra -- synonyms, prabhupada.io",
+    "description":"by the axe of Lord Paraśurāma."
+}
+---
 
 ==== rāma-kuṭhāra  ====
   * by the axe of Lord Paraśurāma --- [[books:sb:9:15:32|SB 9.15.32]]

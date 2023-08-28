@@ -1,5 +1,11 @@
-~~Title:bubhukṣate~~
-{{description>hankering for food.}}
+---json
+{
+    "name":"bubhukṣate",
+    "h1":"bubhukṣate",
+    "title":"bubhukṣate -- synonyms, prabhupada.io",
+    "description":"hankering for food."
+}
+---
 
 ==== bubhukṣate  ====
   * hankering for food --- [[books:sb:9:21:8|SB 9.21.8]]

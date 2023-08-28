@@ -1,5 +1,11 @@
-~~Title:prahīṇam~~
-{{description>to collect.}}
+---json
+{
+    "name":"prahīṇam",
+    "h1":"prahīṇam",
+    "title":"prahīṇam -- synonyms, prabhupada.io",
+    "description":"to collect."
+}
+---
 
 ==== prahīṇam  ====
   * to collect --- [[books:sb:1:12:33|SB 1.12.33]]

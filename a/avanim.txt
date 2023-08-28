@@ -1,5 +1,11 @@
-~~Title:avanim~~
-{{description>on the ground; the earth; the whole world.}}
+---json
+{
+    "name":"avanim",
+    "h1":"avanim",
+    "title":"avanim -- synonyms, prabhupada.io",
+    "description":"on the ground; the earth; the whole world."
+}
+---
 
 ==== avanim  ====
   * on the ground --- [[books:sb:8:6:3-7|SB 8.6.3-7]]

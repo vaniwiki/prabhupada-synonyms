@@ -1,5 +1,11 @@
-~~Title:nistīrya~~
-{{description>being liberated from.}}
+---json
+{
+    "name":"nistīrya",
+    "h1":"nistīrya",
+    "title":"nistīrya -- synonyms, prabhupada.io",
+    "description":"being liberated from."
+}
+---
 
 ==== nistīrya  ====
   * being liberated from --- [[books:sb:3:16:31|SB 3.16.31]]

@@ -1,5 +1,11 @@
-~~Title:kadmā~~
-{{description>a sweetmeat made from sesame seeds.}}
+---json
+{
+    "name":"kadmā",
+    "h1":"kadmā",
+    "title":"kadmā -- synonyms, prabhupada.io",
+    "description":"a sweetmeat made from sesame seeds."
+}
+---
 
 ==== kadmā  ====
   * a sweetmeat made from sesame seeds --- [[books:cc:madhya:14:31|Madhya 14.31]]

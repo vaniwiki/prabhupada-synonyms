@@ -1,5 +1,11 @@
-~~Title:janalokaḥ~~
-{{description>the Janaloka planetary system.}}
+---json
+{
+    "name":"janalokaḥ",
+    "h1":"janalokaḥ",
+    "title":"janalokaḥ -- synonyms, prabhupada.io",
+    "description":"the Janaloka planetary system."
+}
+---
 
 ==== janalokaḥ  ====
   * the Janaloka planetary system --- [[books:sb:2:5:39|SB 2.5.39]]

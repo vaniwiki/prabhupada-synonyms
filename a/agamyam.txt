@@ -1,5 +1,11 @@
-~~Title:agamyam~~
-{{description>unsuitable.}}
+---json
+{
+    "name":"agamyam",
+    "h1":"agamyam",
+    "title":"agamyam -- synonyms, prabhupada.io",
+    "description":"unsuitable."
+}
+---
 
 ==== agamyam  ====
   * unsuitable --- [[books:sb:5:26:20|SB 5.26.20]]

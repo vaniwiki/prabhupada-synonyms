@@ -1,5 +1,11 @@
-~~Title:prāya~~
-{{description>almost; almost always; almost like; just like; like.}}
+---json
+{
+    "name":"prāya",
+    "h1":"prāya",
+    "title":"prāya -- synonyms, prabhupada.io",
+    "description":"almost; almost always; almost like; just like; like."
+}
+---
 
 ==== prāya  ====
   * almost --- [[books:cc:madhya:20:315|Madhya 20.315]], [[books:cc:antya:2:5-6|Antya 2.5-6]]

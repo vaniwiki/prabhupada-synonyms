@@ -1,5 +1,11 @@
-~~Title:karebhyaḥ~~
-{{description>who bring renown to heroes themselves.}}
+---json
+{
+    "name":"karebhyaḥ",
+    "h1":"karebhyaḥ",
+    "title":"karebhyaḥ -- synonyms, prabhupada.io",
+    "description":"who bring renown to heroes themselves."
+}
+---
 
 ==== vīra-yaśaḥ-karebhyaḥ  ====
   * who bring renown to heroes themselves --- [[books:sb:4:17:36|SB 4.17.36]]

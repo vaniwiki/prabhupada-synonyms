@@ -1,5 +1,11 @@
-~~Title:merudevīm~~
-{{description>Merudevī.}}
+---json
+{
+    "name":"merudevīm",
+    "h1":"merudevīm",
+    "title":"merudevīm -- synonyms, prabhupada.io",
+    "description":"Merudevī."
+}
+---
 
 ==== merudevīm  ====
   * Merudevī --- [[books:sb:5:2:23|SB 5.2.23]]

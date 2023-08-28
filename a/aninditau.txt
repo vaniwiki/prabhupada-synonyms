@@ -1,5 +1,11 @@
-~~Title:aninditau~~
-{{description>not abominable, not accused by anyone.}}
+---json
+{
+    "name":"aninditau",
+    "h1":"aninditau",
+    "title":"aninditau -- synonyms, prabhupada.io",
+    "description":"not abominable, not accused by anyone."
+}
+---
 
 ==== aninditau  ====
   * not abominable, not accused by anyone --- [[books:sb:9:20:20|SB 9.20.20]]

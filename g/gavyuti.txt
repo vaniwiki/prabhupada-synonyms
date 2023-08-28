@@ -1,5 +1,11 @@
-~~Title:gavyūti~~
-{{description>within a limit of twelve miles.}}
+---json
+{
+    "name":"gavyūti",
+    "h1":"gavyūti",
+    "title":"gavyūti -- synonyms, prabhupada.io",
+    "description":"within a limit of twelve miles."
+}
+---
 
 ==== tri-gavyūti-antara  ====
   * within a limit of twelve miles --- [[books:sb:10:6:14|SB 10.6.14]]

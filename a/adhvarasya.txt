@@ -1,5 +1,11 @@
-~~Title:adhvarasya~~
-{{description>of the sacrifice.}}
+---json
+{
+    "name":"adhvarasya",
+    "h1":"adhvarasya",
+    "title":"adhvarasya -- synonyms, prabhupada.io",
+    "description":"of the sacrifice."
+}
+---
 
 ==== adhvarasya  ====
   * of the sacrifice --- [[books:sb:4:6:6|SB 4.6.6]], [[books:sb:4:6:50|SB 4.6.50]], [[books:sb:4:6:53|SB 4.6.53]]

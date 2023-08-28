@@ -1,5 +1,11 @@
-~~Title:śailam~~
-{{description>a mountain; the mountain.}}
+---json
+{
+    "name":"śailam",
+    "h1":"śailam",
+    "title":"śailam -- synonyms, prabhupada.io",
+    "description":"a mountain; the mountain."
+}
+---
 
 ==== śailam  ====
   * a mountain --- [[books:cc:antya:1:1|Antya 1.1]]

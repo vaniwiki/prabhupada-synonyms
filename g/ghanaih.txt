@@ -1,5 +1,11 @@
-~~Title:ghanaiḥ~~
-{{description>by the dense clouds.}}
+---json
+{
+    "name":"ghanaiḥ",
+    "h1":"ghanaiḥ",
+    "title":"ghanaiḥ -- synonyms, prabhupada.io",
+    "description":"by the dense clouds."
+}
+---
 
 ==== nabhaḥ-ghanaiḥ  ====
   * by the dense clouds --- [[books:sb:6:10:24|SB 6.10.24]]

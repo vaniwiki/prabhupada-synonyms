@@ -1,5 +1,11 @@
-~~Title:tomara~~
-{{description>tomara weapons; Your.}}
+---json
+{
+    "name":"tomara",
+    "h1":"tomara",
+    "title":"tomara -- synonyms, prabhupada.io",
+    "description":"tomara weapons; Your."
+}
+---
 
 ==== tomara  ====
   * //tomara// weapons --- [[books:sb:9:10:19|SB 9.10.19]]

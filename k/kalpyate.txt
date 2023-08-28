@@ -1,5 +1,11 @@
-~~Title:kalpyate~~
-{{description>is performed.}}
+---json
+{
+    "name":"kalpyate",
+    "h1":"kalpyate",
+    "title":"kalpyate -- synonyms, prabhupada.io",
+    "description":"is performed."
+}
+---
 
 ==== kalpyate  ====
   * is performed --- [[books:sb:7:1:25|SB 7.1.25]]

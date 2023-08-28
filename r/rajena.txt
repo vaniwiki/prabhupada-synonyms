@@ -1,5 +1,11 @@
-~~Title:rājena~~
-{{description>by the original king (Pṛthu).}}
+---json
+{
+    "name":"rājena",
+    "h1":"rājena",
+    "title":"rājena -- synonyms, prabhupada.io",
+    "description":"by the original king (Pṛthu)."
+}
+---
 
 ==== ādi-rājena  ====
   * by the original king (Pṛthu) --- [[books:sb:4:20:32|SB 4.20.32]], [[books:sb:4:22:48|SB 4.22.48]]

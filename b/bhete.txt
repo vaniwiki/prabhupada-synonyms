@@ -1,5 +1,11 @@
-~~Title:bheṭe~~
-{{description>presentation.}}
+---json
+{
+    "name":"bheṭe",
+    "h1":"bheṭe",
+    "title":"bheṭe -- synonyms, prabhupada.io",
+    "description":"presentation."
+}
+---
 
 ==== bheṭe  ====
   * presentation --- [[books:cc:madhya:2:84|Madhya 2.84]]

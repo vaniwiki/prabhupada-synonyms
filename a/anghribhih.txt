@@ -1,5 +1,11 @@
-~~Title:aṅghribhiḥ~~
-{{description>by foot.}}
+---json
+{
+    "name":"aṅghribhiḥ",
+    "h1":"aṅghribhiḥ",
+    "title":"aṅghribhiḥ -- synonyms, prabhupada.io",
+    "description":"by foot."
+}
+---
 
 ==== aṅghribhiḥ  ====
   * by foot --- [[books:sb:1:14:38|SB 1.14.38]]

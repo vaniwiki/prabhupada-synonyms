@@ -1,5 +1,11 @@
-~~Title:upasṛṣṭam~~
-{{description>created; curbed down.}}
+---json
+{
+    "name":"upasṛṣṭam",
+    "h1":"upasṛṣṭam",
+    "title":"upasṛṣṭam -- synonyms, prabhupada.io",
+    "description":"created; curbed down."
+}
+---
 
 ==== upasṛṣṭam  ====
   * created --- [[books:sb:4:12:16|SB 4.12.16]]

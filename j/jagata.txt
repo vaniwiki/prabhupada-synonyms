@@ -1,5 +1,11 @@
-~~Title:jagata~~
-{{description>the whole world.}}
+---json
+{
+    "name":"jagata",
+    "h1":"jagata",
+    "title":"jagata -- synonyms, prabhupada.io",
+    "description":"the whole world."
+}
+---
 
 ==== jagata  ====
   * the whole world --- [[books:cc:madhya:4:173|Madhya 4.173]]

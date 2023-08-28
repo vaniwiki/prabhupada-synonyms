@@ -1,5 +1,11 @@
-~~Title:pāmu~~
-{{description>shall accept.}}
+---json
+{
+    "name":"pāmu",
+    "h1":"pāmu",
+    "title":"pāmu -- synonyms, prabhupada.io",
+    "description":"shall accept."
+}
+---
 
 ==== pāmu  ====
   * shall accept --- [[books:cc:madhya:3:62|Madhya 3.62]]

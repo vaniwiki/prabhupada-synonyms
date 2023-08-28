@@ -1,5 +1,11 @@
-~~Title:adina~~
-{{description>very magnanimous.}}
+---json
+{
+    "name":"adina",
+    "h1":"adina",
+    "title":"adina -- synonyms, prabhupada.io",
+    "description":"very magnanimous."
+}
+---
 
 ==== adīna  ====
   * very magnanimous --- [[books:sb:2:2:12|SB 2.2.12]]

@@ -1,5 +1,11 @@
-~~Title:alambana~~
-{{description>the meeting of the lover and beloved.}}
+---json
+{
+    "name":"alambana",
+    "h1":"alambana",
+    "title":"alambana -- synonyms, prabhupada.io",
+    "description":"the meeting of the lover and beloved."
+}
+---
 
 ==== 'ālambana'  ====
   * the meeting of the lover and beloved --- [[books:cc:madhya:2:47|Madhya 2.47]]

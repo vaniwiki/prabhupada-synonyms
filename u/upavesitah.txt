@@ -1,5 +1,11 @@
-~~Title:upaveśitaḥ~~
-{{description>situated.}}
+---json
+{
+    "name":"upaveśitaḥ",
+    "h1":"upaveśitaḥ",
+    "title":"upaveśitaḥ -- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== upaveśitaḥ  ====
   * situated --- [[books:sb:5:20:24|SB 5.20.24]]

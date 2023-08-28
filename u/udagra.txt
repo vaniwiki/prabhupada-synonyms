@@ -1,5 +1,11 @@
-~~Title:udagra~~
-{{description>arched instep.}}
+---json
+{
+    "name":"udagra",
+    "h1":"udagra",
+    "title":"udagra -- synonyms, prabhupada.io",
+    "description":"arched instep."
+}
+---
 
 ==== udagra-pāt  ====
   * arched instep --- [[books:sb:4:21:16|SB 4.21.16]]

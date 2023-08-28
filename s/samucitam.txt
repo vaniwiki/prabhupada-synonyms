@@ -1,5 +1,11 @@
-~~Title:samucitam~~
-{{description>required.}}
+---json
+{
+    "name":"samucitam",
+    "h1":"samucitam",
+    "title":"samucitam -- synonyms, prabhupada.io",
+    "description":"required."
+}
+---
 
 ==== samucitam  ====
   * required --- [[books:sb:5:3:7|SB 5.3.7]]

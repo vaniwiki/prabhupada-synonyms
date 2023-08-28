@@ -1,5 +1,11 @@
-~~Title:videhān~~
-{{description>the country of Videha.}}
+---json
+{
+    "name":"videhān",
+    "h1":"videhān",
+    "title":"videhān -- synonyms, prabhupada.io",
+    "description":"the country of Videha."
+}
+---
 
 ==== videhān  ====
   * the country of Videha --- [[books:sb:10:2:3|SB 10.2.3]]

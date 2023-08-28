@@ -1,5 +1,11 @@
-~~Title:nihsattvah~~
-{{description>poor-minded; ruined.}}
+---json
+{
+    "name":"nihsattvah",
+    "h1":"nihsattvah",
+    "title":"nihsattvah -- synonyms, prabhupada.io",
+    "description":"poor-minded; ruined."
+}
+---
 
 ==== niḥsattvaḥ  ====
   * poor-minded --- [[books:sb:8:19:3|SB 8.19.3]]

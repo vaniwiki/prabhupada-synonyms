@@ -1,5 +1,11 @@
-~~Title:anvagāt~~
-{{description>achieved; followed; returned; undertook.}}
+---json
+{
+    "name":"anvagāt",
+    "h1":"anvagāt",
+    "title":"anvagāt -- synonyms, prabhupada.io",
+    "description":"achieved; followed; returned; undertook."
+}
+---
 
 ==== anvagāt  ====
   * achieved --- [[books:sb:9:6:32|SB 9.6.32]]

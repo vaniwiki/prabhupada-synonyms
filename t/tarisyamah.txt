@@ -1,5 +1,11 @@
-~~Title:tariṣyāmaḥ~~
-{{description>we can cross over.}}
+---json
+{
+    "name":"tariṣyāmaḥ",
+    "h1":"tariṣyāmaḥ",
+    "title":"tariṣyāmaḥ -- synonyms, prabhupada.io",
+    "description":"we can cross over."
+}
+---
 
 ==== tariṣyāmaḥ  ====
   * we can cross over --- [[books:sb:4:31:7|SB 4.31.7]]

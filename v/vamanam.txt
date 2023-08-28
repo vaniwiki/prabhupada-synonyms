@@ -1,5 +1,11 @@
-~~Title:vāmanam~~
-{{description>dwarf; incarnation of Lord Vāmana; Lord Vāmana; Lord Vāmanadeva.}}
+---json
+{
+    "name":"vāmanam",
+    "h1":"vāmanam",
+    "title":"vāmanam -- synonyms, prabhupada.io",
+    "description":"dwarf; incarnation of Lord Vāmana; Lord Vāmana; Lord Vāmanadeva."
+}
+---
 
 ==== vāmanam  ====
   * dwarf --- [[books:sb:8:18:13|SB 8.18.13]]

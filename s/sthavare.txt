@@ -1,5 +1,11 @@
-~~Title:sthāvare~~
-{{description>the unmovable; unto the nonmoving living entities.}}
+---json
+{
+    "name":"sthāvare",
+    "h1":"sthāvare",
+    "title":"sthāvare -- synonyms, prabhupada.io",
+    "description":"the unmovable; unto the nonmoving living entities."
+}
+---
 
 ==== sthāvare  ====
   * the unmovable --- [[books:cc:antya:16:69|Antya 16.69]]

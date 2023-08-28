@@ -1,5 +1,11 @@
-~~Title:dandahyamānam~~
-{{description>burning to ashes.}}
+---json
+{
+    "name":"dandahyamānam",
+    "h1":"dandahyamānam",
+    "title":"dandahyamānam -- synonyms, prabhupada.io",
+    "description":"burning to ashes."
+}
+---
 
 ==== dandahyamānam  ====
   * burning to ashes --- [[books:sb:2:2:26|SB 2.2.26]]

@@ -1,5 +1,11 @@
-~~Title:saṁyojayām~~
-{{description>engaged to work; married.}}
+---json
+{
+    "name":"saṁyojayām",
+    "h1":"saṁyojayām",
+    "title":"saṁyojayām -- synonyms, prabhupada.io",
+    "description":"engaged to work; married."
+}
+---
 
 ==== saṁyojayām āsa  ====
   * engaged to work --- [[books:sb:3:6:3|SB 3.6.3]]

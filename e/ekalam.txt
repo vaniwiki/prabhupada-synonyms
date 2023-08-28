@@ -1,5 +1,11 @@
-~~Title:ekalam~~
-{{description>only.}}
+---json
+{
+    "name":"ekalam",
+    "h1":"ekalam",
+    "title":"ekalam -- synonyms, prabhupada.io",
+    "description":"only."
+}
+---
 
 ==== ekalam  ====
   * only --- [[books:cc:madhya:8:70|Madhya 8.70]]

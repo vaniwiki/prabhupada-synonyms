@@ -1,5 +1,11 @@
-~~Title:kemane~~
-{{description>how; by which method; how.}}
+---json
+{
+    "name":"kemane",
+    "h1":"kemane",
+    "title":"kemane -- synonyms, prabhupada.io",
+    "description":"how; by which method; how."
+}
+---
 
 ==== kemane  ====
   * //how// --- [[books:cc:madhya:8:185|Madhya 8.185]]

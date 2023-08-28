@@ -1,5 +1,11 @@
-~~Title:āgatau~~
-{{description>has appeared; reached.}}
+---json
+{
+    "name":"āgatau",
+    "h1":"āgatau",
+    "title":"āgatau -- synonyms, prabhupada.io",
+    "description":"has appeared; reached."
+}
+---
 
 ==== āgatau  ====
   * has appeared --- [[books:sb:4:1:59|SB 4.1.59]]

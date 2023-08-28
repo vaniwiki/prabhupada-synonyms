@@ -1,5 +1,11 @@
-~~Title:kalpaiḥ~~
-{{description>by great scientists.}}
+---json
+{
+    "name":"kalpaiḥ",
+    "h1":"kalpaiḥ",
+    "title":"kalpaiḥ -- synonyms, prabhupada.io",
+    "description":"by great scientists."
+}
+---
 
 ==== su-kalpaiḥ  ====
   * by great scientists --- [[books:cc:madhya:21:11|Madhya 21.11]]

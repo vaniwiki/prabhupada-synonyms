@@ -1,5 +1,11 @@
-~~Title:agraḥ~~
-{{description>the tip of his nose.}}
+---json
+{
+    "name":"agraḥ",
+    "h1":"agraḥ",
+    "title":"agraḥ -- synonyms, prabhupada.io",
+    "description":"the tip of his nose."
+}
+---
 
 ==== nāsa-agraḥ  ====
   * the tip of his nose --- [[books:sb:4:14:44|SB 4.14.44]]

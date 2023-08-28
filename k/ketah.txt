@@ -1,5 +1,11 @@
-~~Title:ketah~~
-{{description>the shelter.}}
+---json
+{
+    "name":"ketah",
+    "h1":"ketah",
+    "title":"ketah -- synonyms, prabhupada.io",
+    "description":"the shelter."
+}
+---
 
 ==== ketaḥ  ====
   * the shelter --- [[books:sb:8:5:38|SB 8.5.38]]

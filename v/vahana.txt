@@ -1,5 +1,11 @@
-~~Title:vahana~~
-{{description>carrying.}}
+---json
+{
+    "name":"vahana",
+    "h1":"vahana",
+    "title":"vahana -- synonyms, prabhupada.io",
+    "description":"carrying."
+}
+---
 
 ==== vahāñā  ====
   * carrying --- [[books:cc:madhya:6:8|Madhya 6.8]]

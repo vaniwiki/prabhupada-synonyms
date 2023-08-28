@@ -1,5 +1,11 @@
-~~Title:andhaka~~
-{{description>and by the Andhakas; Andhaka; of the Andhaka dynasty; one of the kings of the Yadu dynasty.}}
+---json
+{
+    "name":"andhaka",
+    "h1":"andhaka",
+    "title":"andhaka -- synonyms, prabhupada.io",
+    "description":"and by the Andhakas; Andhaka; of the Andhaka dynasty; one of the kings of the Yadu dynasty."
+}
+---
 
 ==== andhaka  ====
   * and by the Andhakas --- [[books:sb:9:24:63-64|SB 9.24.63-64]]

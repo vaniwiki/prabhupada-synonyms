@@ -1,5 +1,11 @@
-~~Title:pratyuvāca~~
-{{description>replied.}}
+---json
+{
+    "name":"pratyuvāca",
+    "h1":"pratyuvāca",
+    "title":"pratyuvāca -- synonyms, prabhupada.io",
+    "description":"replied."
+}
+---
 
 ==== pratyuvāca  ====
   * replied --- [[books:sb:4:22:17|SB 4.22.17]]

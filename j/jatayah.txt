@@ -1,5 +1,11 @@
-~~Title:jatayah~~
-{{description>because of your birth.}}
+---json
+{
+    "name":"jatayah",
+    "h1":"jatayah",
+    "title":"jatayah -- synonyms, prabhupada.io",
+    "description":"because of your birth."
+}
+---
 
 ==== jātāyāḥ  ====
   * because of your birth --- [[books:sb:9:20:15|SB 9.20.15]]

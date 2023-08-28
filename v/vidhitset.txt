@@ -1,5 +1,11 @@
-~~Title:vidhitset~~
-{{description>should wish to devise.}}
+---json
+{
+    "name":"vidhitset",
+    "h1":"vidhitset",
+    "title":"vidhitset -- synonyms, prabhupada.io",
+    "description":"should wish to devise."
+}
+---
 
 ==== vidhitset  ====
   * should wish to devise --- [[books:sb:4:6:7|SB 4.6.7]]

@@ -1,5 +1,11 @@
-~~Title:lālasam~~
-{{description>so desiring.}}
+---json
+{
+    "name":"lālasam",
+    "h1":"lālasam",
+    "title":"lālasam -- synonyms, prabhupada.io",
+    "description":"so desiring."
+}
+---
 
 ==== lālasam  ====
   * so desiring --- [[books:sb:4:24:66|SB 4.24.66]]

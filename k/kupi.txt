@@ -1,5 +1,11 @@
-~~Title:kūpī~~
-{{description>a pot of camphor.}}
+---json
+{
+    "name":"kūpī",
+    "h1":"kūpī",
+    "title":"kūpī -- synonyms, prabhupada.io",
+    "description":"a pot of camphor."
+}
+---
 
 ==== karpūra-kūpī  ====
   * a pot of camphor --- [[books:cc:antya:10:118|Antya 10.118]]

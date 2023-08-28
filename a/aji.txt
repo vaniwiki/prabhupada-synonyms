@@ -1,5 +1,11 @@
-~~Title:āji~~
-{{description>today; immediately today; now; today; today also.}}
+---json
+{
+    "name":"āji",
+    "h1":"āji",
+    "title":"āji -- synonyms, prabhupada.io",
+    "description":"today; immediately today; now; today; today also."
+}
+---
 
 ==== āji  ====
   * //today// --- [[books:cc:madhya:7:125|Madhya 7.125]]

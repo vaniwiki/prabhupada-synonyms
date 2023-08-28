@@ -1,5 +1,11 @@
-~~Title:trāse~~
-{{description>being afraid.}}
+---json
+{
+    "name":"trāse",
+    "h1":"trāse",
+    "title":"trāse -- synonyms, prabhupada.io",
+    "description":"being afraid."
+}
+---
 
 ==== trāse  ====
   * being afraid --- [[books:cc:madhya:17:50|Madhya 17.50]]

@@ -1,5 +1,11 @@
-~~Title:vṛndaḥ~~
-{{description>disciples.}}
+---json
+{
+    "name":"vṛndaḥ",
+    "h1":"vṛndaḥ",
+    "title":"vṛndaḥ -- synonyms, prabhupada.io",
+    "description":"disciples."
+}
+---
 
 ==== śiṣya-vṛndaḥ  ====
   * disciples --- [[books:cc:antya:14:41|Antya 14.41]]

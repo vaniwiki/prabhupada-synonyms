@@ -1,5 +1,11 @@
-~~Title:karayeunmatta~~
-{{description>makes mad.}}
+---json
+{
+    "name":"karayeunmatta",
+    "h1":"karayeunmatta",
+    "title":"karayeunmatta -- synonyms, prabhupada.io",
+    "description":"makes mad."
+}
+---
 
 ==== karayeunmatta  ====
   * makes mad --- [[books:cc:adi:6:49-50|Ādi 6.49-50]]

@@ -1,5 +1,11 @@
-~~Title:unmukha~~
-{{description>inclined; ready; turned toward; very eager.}}
+---json
+{
+    "name":"unmukha",
+    "h1":"unmukha",
+    "title":"unmukha -- synonyms, prabhupada.io",
+    "description":"inclined; ready; turned toward; very eager."
+}
+---
 
 ==== unmukha  ====
   * inclined --- [[books:sb:1:16:22|SB 1.16.22]]

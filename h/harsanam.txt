@@ -1,5 +1,11 @@
-~~Title:harṣaṇam~~
-{{description>the hearing of which makes one's hairs stand on end.}}
+---json
+{
+    "name":"harṣaṇam",
+    "h1":"harṣaṇam",
+    "title":"harṣaṇam -- synonyms, prabhupada.io",
+    "description":"the hearing of which makes one's hairs stand on end."
+}
+---
 
 ==== loma-harṣaṇam  ====
   * the hearing of which makes one's hairs stand on end --- [[books:sb:9:6:17|SB 9.6.17]]

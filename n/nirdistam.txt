@@ -1,5 +1,11 @@
-~~Title:nirdiṣṭam~~
-{{description>foretold.}}
+---json
+{
+    "name":"nirdiṣṭam",
+    "h1":"nirdiṣṭam",
+    "title":"nirdiṣṭam -- synonyms, prabhupada.io",
+    "description":"foretold."
+}
+---
 
 ==== nirdiṣṭam  ====
   * foretold --- [[books:sb:3:16:30|SB 3.16.30]]

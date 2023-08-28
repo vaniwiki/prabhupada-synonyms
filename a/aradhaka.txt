@@ -1,5 +1,11 @@
-~~Title:ārādhaka~~
-{{description>worshiper.}}
+---json
+{
+    "name":"ārādhaka",
+    "h1":"ārādhaka",
+    "title":"ārādhaka -- synonyms, prabhupada.io",
+    "description":"worshiper."
+}
+---
 
 ==== ārādhaka  ====
   * worshiper --- [[books:cc:adi:7:15|Ādi 7.15]]

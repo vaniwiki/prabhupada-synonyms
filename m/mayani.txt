@@ -1,5 +1,11 @@
-~~Title:mayāni~~
-{{description>predominating.}}
+---json
+{
+    "name":"mayāni",
+    "h1":"mayāni",
+    "title":"mayāni -- synonyms, prabhupada.io",
+    "description":"predominating."
+}
+---
 
 ==== mayāni  ====
   * predominating --- [[books:sb:3:5:31|SB 3.5.31]]

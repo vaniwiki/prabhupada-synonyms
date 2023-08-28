@@ -1,5 +1,11 @@
-~~Title:śoṣa~~
-{{description>all hunger and thirst.}}
+---json
+{
+    "name":"śoṣa",
+    "h1":"śoṣa",
+    "title":"śoṣa -- synonyms, prabhupada.io",
+    "description":"all hunger and thirst."
+}
+---
 
 ==== bhoka-śoṣa  ====
   * all hunger and thirst --- [[books:cc:madhya:4:26|Madhya 4.26]]

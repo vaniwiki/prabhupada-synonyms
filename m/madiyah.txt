@@ -1,5 +1,11 @@
-~~Title:madiyah~~
-{{description>my personal; of Me.}}
+---json
+{
+    "name":"madiyah",
+    "h1":"madiyah",
+    "title":"madiyah -- synonyms, prabhupada.io",
+    "description":"my personal; of Me."
+}
+---
 
 ==== madīyaḥ  ====
   * my personal --- [[books:sb:10:8:40|SB 10.8.40]]

@@ -1,5 +1,11 @@
-~~Title:sambhramāt~~
-{{description>because of respectfulness.}}
+---json
+{
+    "name":"sambhramāt",
+    "h1":"sambhramāt",
+    "title":"sambhramāt -- synonyms, prabhupada.io",
+    "description":"because of respectfulness."
+}
+---
 
 ==== sambhramāt  ====
   * because of respectfulness --- [[books:cc:madhya:14:197|Madhya 14.197]]

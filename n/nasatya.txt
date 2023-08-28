@@ -1,5 +1,11 @@
-~~Title:nāsatya~~
-{{description>the demigods known as the Aśvinī-kumāras.}}
+---json
+{
+    "name":"nāsatya",
+    "h1":"nāsatya",
+    "title":"nāsatya -- synonyms, prabhupada.io",
+    "description":"the demigods known as the Aśvinī-kumāras."
+}
+---
 
 ==== nāsatya-dasrau  ====
   * the demigods known as the Aśvinī-kumāras --- [[books:sb:2:1:29|SB 2.1.29]]

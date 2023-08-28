@@ -1,5 +1,11 @@
-~~Title:yoginī~~
-{{description>a female mystic.}}
+---json
+{
+    "name":"yoginī",
+    "h1":"yoginī",
+    "title":"yoginī -- synonyms, prabhupada.io",
+    "description":"a female mystic."
+}
+---
 
 ==== yoginī  ====
   * a female mystic --- [[books:cc:antya:17:35|Antya 17.35]]

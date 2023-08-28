@@ -1,5 +1,11 @@
-~~Title:bhidyamānaḥ~~
-{{description>although situated in this uncomfortable position.}}
+---json
+{
+    "name":"bhidyamānaḥ",
+    "h1":"bhidyamānaḥ",
+    "title":"bhidyamānaḥ -- synonyms, prabhupada.io",
+    "description":"although situated in this uncomfortable position."
+}
+---
 
 ==== bhidyamānaḥ api  ====
   * although situated in this uncomfortable position --- [[books:sb:8:22:1|SB 8.22.1]]

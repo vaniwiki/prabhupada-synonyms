@@ -1,5 +1,11 @@
-~~Title:abhijana~~
-{{description>aristocratic family.}}
+---json
+{
+    "name":"abhijana",
+    "h1":"abhijana",
+    "title":"abhijana -- synonyms, prabhupada.io",
+    "description":"aristocratic family."
+}
+---
 
 ==== abhijana  ====
   * aristocratic family --- [[books:sb:7:9:9|SB 7.9.9]]

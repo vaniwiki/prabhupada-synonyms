@@ -1,5 +1,11 @@
-~~Title:nīlaiḥ~~
-{{description>bluish.}}
+---json
+{
+    "name":"nīlaiḥ",
+    "h1":"nīlaiḥ",
+    "title":"nīlaiḥ -- synonyms, prabhupada.io",
+    "description":"bluish."
+}
+---
 
 ==== nīlaiḥ  ====
   * bluish --- [[books:sb:3:23:33|SB 3.23.33]]

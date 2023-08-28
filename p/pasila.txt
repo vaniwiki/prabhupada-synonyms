@@ -1,5 +1,11 @@
-~~Title:pasila~~
-{{description>entered.}}
+---json
+{
+    "name":"pasila",
+    "h1":"pasila",
+    "title":"pasila -- synonyms, prabhupada.io",
+    "description":"entered."
+}
+---
 
 ==== paśila  ====
   * entered --- [[books:cc:adi:13:84|Ādi 13.84]], [[books:cc:antya:17:57|Antya 17.57]], [[books:cc:antya:18:49|Antya 18.49]]

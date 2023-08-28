@@ -1,5 +1,11 @@
-~~Title:slokah~~
-{{description>verses.}}
+---json
+{
+    "name":"slokah",
+    "h1":"slokah",
+    "title":"slokah -- synonyms, prabhupada.io",
+    "description":"verses."
+}
+---
 
 ==== ślokāḥ  ====
   * verses --- [[books:sb:5:1:39|SB 5.1.39]]

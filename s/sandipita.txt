@@ -1,5 +1,11 @@
-~~Title:sandīpita~~
-{{description>glowing.}}
+---json
+{
+    "name":"sandīpita",
+    "h1":"sandīpita",
+    "title":"sandīpita -- synonyms, prabhupada.io",
+    "description":"glowing."
+}
+---
 
 ==== sandīpita  ====
   * glowing --- [[books:sb:3:13:31|SB 3.13.31]]

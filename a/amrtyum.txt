@@ -1,5 +1,11 @@
-~~Title:amṛtyum~~
-{{description>immortal.}}
+---json
+{
+    "name":"amṛtyum",
+    "h1":"amṛtyum",
+    "title":"amṛtyum -- synonyms, prabhupada.io",
+    "description":"immortal."
+}
+---
 
 ==== amṛtyum  ====
   * immortal --- [[books:sb:6:18:37|SB 6.18.37]]

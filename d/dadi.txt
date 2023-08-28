@@ -1,5 +1,11 @@
-~~Title:dāḍi~~
-{{description>beard.}}
+---json
+{
+    "name":"dāḍi",
+    "h1":"dāḍi",
+    "title":"dāḍi -- synonyms, prabhupada.io",
+    "description":"beard."
+}
+---
 
 ==== dāḍi  ====
   * beard --- [[books:cc:adi:17:190|Ādi 17.190]]

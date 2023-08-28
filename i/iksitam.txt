@@ -1,5 +1,11 @@
-~~Title:īkṣitam~~
-{{description>is seen; remembered.}}
+---json
+{
+    "name":"īkṣitam",
+    "h1":"īkṣitam",
+    "title":"īkṣitam -- synonyms, prabhupada.io",
+    "description":"is seen; remembered."
+}
+---
 
 ==== īkṣitam  ====
   * is seen --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

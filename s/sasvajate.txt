@@ -1,5 +1,11 @@
-~~Title:sasvajāte~~
-{{description>embraced.}}
+---json
+{
+    "name":"sasvajāte",
+    "h1":"sasvajāte",
+    "title":"sasvajāte -- synonyms, prabhupada.io",
+    "description":"embraced."
+}
+---
 
 ==== sasvajāte  ====
   * embraced --- [[books:cc:madhya:19:197|Madhya 19.197]]

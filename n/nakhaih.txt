@@ -1,5 +1,11 @@
-~~Title:nakhaiḥ~~
-{{description>by the nails; with the nails.}}
+---json
+{
+    "name":"nakhaiḥ",
+    "h1":"nakhaiḥ",
+    "title":"nakhaiḥ -- synonyms, prabhupada.io",
+    "description":"by the nails; with the nails."
+}
+---
 
 ==== nakhaiḥ  ====
   * by the nails --- [[books:sb:2:7:14|SB 2.7.14]], [[books:sb:7:8:45|SB 7.8.45]]

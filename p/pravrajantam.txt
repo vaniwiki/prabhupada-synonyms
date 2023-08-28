@@ -1,5 +1,11 @@
-~~Title:pravrajantam~~
-{{description>while going away for the renounced order of life.}}
+---json
+{
+    "name":"pravrajantam",
+    "h1":"pravrajantam",
+    "title":"pravrajantam -- synonyms, prabhupada.io",
+    "description":"while going away for the renounced order of life."
+}
+---
 
 ==== pravrajantam  ====
   * while going away for the renounced order of life --- [[books:sb:1:2:2|SB 1.2.2]]

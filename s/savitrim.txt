@@ -1,5 +1,11 @@
-~~Title:sāvitrīm~~
-{{description>Sāvitrī; the Gāyatrī mantra.}}
+---json
+{
+    "name":"sāvitrīm",
+    "h1":"sāvitrīm",
+    "title":"sāvitrīm -- synonyms, prabhupada.io",
+    "description":"Sāvitrī; the Gāyatrī mantra."
+}
+---
 
 ==== sāvitrīm  ====
   * Sāvitrī --- [[books:sb:6:18:1|SB 6.18.1]]

@@ -1,5 +1,11 @@
-~~Title:gṛhaiḥ~~
-{{description>with houses.}}
+---json
+{
+    "name":"gṛhaiḥ",
+    "h1":"gṛhaiḥ",
+    "title":"gṛhaiḥ -- synonyms, prabhupada.io",
+    "description":"with houses."
+}
+---
 
 ==== gṛhaiḥ  ====
   * with houses --- [[books:sb:4:25:14|SB 4.25.14]]

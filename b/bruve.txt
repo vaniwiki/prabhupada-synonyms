@@ -1,5 +1,11 @@
-~~Title:bruve~~
-{{description>I shall say.}}
+---json
+{
+    "name":"bruve",
+    "h1":"bruve",
+    "title":"bruve -- synonyms, prabhupada.io",
+    "description":"I shall say."
+}
+---
 
 ==== bruve  ====
   * I shall say --- [[books:cc:madhya:1:190|Madhya 1.190]]

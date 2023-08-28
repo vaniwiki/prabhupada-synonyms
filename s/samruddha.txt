@@ -1,5 +1,11 @@
-~~Title:saṁruddha~~
-{{description>congested; covered.}}
+---json
+{
+    "name":"saṁruddha",
+    "h1":"saṁruddha",
+    "title":"saṁruddha -- synonyms, prabhupada.io",
+    "description":"congested; covered."
+}
+---
 
 ==== saṁruddha  ====
   * congested --- [[books:sb:3:30:16|SB 3.30.16]]

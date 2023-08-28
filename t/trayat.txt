@@ -1,5 +1,11 @@
-~~Title:trayāt~~
-{{description>from the three.}}
+---json
+{
+    "name":"trayāt",
+    "h1":"trayāt",
+    "title":"trayāt -- synonyms, prabhupada.io",
+    "description":"from the three."
+}
+---
 
 ==== trayāt  ====
   * from the three --- [[books:sb:1:18:26|SB 1.18.26]]

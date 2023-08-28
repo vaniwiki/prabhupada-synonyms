@@ -1,5 +1,11 @@
-~~Title:māniyā~~
-{{description>accepting.}}
+---json
+{
+    "name":"māniyā",
+    "h1":"māniyā",
+    "title":"māniyā -- synonyms, prabhupada.io",
+    "description":"accepting."
+}
+---
 
 ==== māniyā  ====
   * accepting --- [[books:cc:madhya:6:168|Madhya 6.168]]

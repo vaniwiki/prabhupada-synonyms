@@ -1,5 +1,11 @@
-~~Title:pravṛṇomi~~
-{{description>prefer.}}
+---json
+{
+    "name":"pravṛṇomi",
+    "h1":"pravṛṇomi",
+    "title":"pravṛṇomi -- synonyms, prabhupada.io",
+    "description":"prefer."
+}
+---
 
 ==== pravṛṇomi  ====
   * prefer --- [[books:sb:3:4:15|SB 3.4.15]]

@@ -1,5 +1,11 @@
-~~Title:giriśau~~
-{{description>Lord Śiva and his wife, Pārvatī.}}
+---json
+{
+    "name":"giriśau",
+    "h1":"giriśau",
+    "title":"giriśau -- synonyms, prabhupada.io",
+    "description":"Lord Śiva and his wife, Pārvatī."
+}
+---
 
 ==== giriśau  ====
   * Lord Śiva and his wife, Pārvatī --- [[books:sb:6:17:25|SB 6.17.25]]

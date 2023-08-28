@@ -1,5 +1,11 @@
-~~Title:apāpān~~
-{{description>sinless.}}
+---json
+{
+    "name":"apāpān",
+    "h1":"apāpān",
+    "title":"apāpān -- synonyms, prabhupada.io",
+    "description":"sinless."
+}
+---
 
 ==== apāpān  ====
   * sinless --- [[books:sb:4:22:2|SB 4.22.2]]

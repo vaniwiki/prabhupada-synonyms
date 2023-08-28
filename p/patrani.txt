@@ -1,5 +1,11 @@
-~~Title:pātrāṇi~~
-{{description>the fuel, the kuśa grass and the sacrificial pots.}}
+---json
+{
+    "name":"pātrāṇi",
+    "h1":"pātrāṇi",
+    "title":"pātrāṇi -- synonyms, prabhupada.io",
+    "description":"the fuel, the kuśa grass and the sacrificial pots."
+}
+---
 
 ==== samit-darbha-pātrāṇi  ====
   * the fuel, the //kuśa// grass and the sacrificial pots --- [[books:sb:4:7:45|SB 4.7.45]]

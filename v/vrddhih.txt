@@ -1,5 +1,11 @@
-~~Title:vṛddhiḥ~~
-{{description>increasing.}}
+---json
+{
+    "name":"vṛddhiḥ",
+    "h1":"vṛddhiḥ",
+    "title":"vṛddhiḥ -- synonyms, prabhupada.io",
+    "description":"increasing."
+}
+---
 
 ==== vṛddhiḥ  ====
   * increasing --- [[books:sb:9:24:56|SB 9.24.56]]

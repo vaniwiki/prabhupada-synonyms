@@ -1,5 +1,11 @@
-~~Title:vadan~~
-{{description>saying.}}
+---json
+{
+    "name":"vadan",
+    "h1":"vadan",
+    "title":"vadan -- synonyms, prabhupada.io",
+    "description":"saying."
+}
+---
 
 ==== vadan  ====
   * saying --- [[books:cc:madhya:22:101|Madhya 22.101]]

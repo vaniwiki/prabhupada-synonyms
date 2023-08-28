@@ -1,5 +1,11 @@
-~~Title:sāmyam~~
-{{description>indiscrimination between friend and foe.}}
+---json
+{
+    "name":"sāmyam",
+    "h1":"sāmyam",
+    "title":"sāmyam -- synonyms, prabhupada.io",
+    "description":"indiscrimination between friend and foe."
+}
+---
 
 ==== sāmyam  ====
   * indiscrimination between friend and foe --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

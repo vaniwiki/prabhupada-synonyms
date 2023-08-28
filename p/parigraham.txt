@@ -1,5 +1,11 @@
-~~Title:parigraham~~
-{{description>acceptance of material things; arrangement of.}}
+---json
+{
+    "name":"parigraham",
+    "h1":"parigraham",
+    "title":"parigraham -- synonyms, prabhupada.io",
+    "description":"acceptance of material things; arrangement of."
+}
+---
 
 ==== parigraham  ====
   * acceptance of material things --- [[books:bg:18:51-53|Bg. 18.51-53]]

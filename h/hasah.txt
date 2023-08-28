@@ -1,5 +1,11 @@
-~~Title:hāsaḥ~~
-{{description>smile.}}
+---json
+{
+    "name":"hāsaḥ",
+    "h1":"hāsaḥ",
+    "title":"hāsaḥ -- synonyms, prabhupada.io",
+    "description":"smile."
+}
+---
 
 ==== hāsaḥ  ====
   * smile --- [[books:sb:2:1:31|SB 2.1.31]]

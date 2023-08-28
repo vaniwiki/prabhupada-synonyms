@@ -1,5 +1,11 @@
-~~Title:grahīṣyanti~~
-{{description>will accept.}}
+---json
+{
+    "name":"grahīṣyanti",
+    "h1":"grahīṣyanti",
+    "title":"grahīṣyanti -- synonyms, prabhupada.io",
+    "description":"will accept."
+}
+---
 
 ==== grahīṣyanti  ====
   * will accept --- [[books:sb:4:13:33|SB 4.13.33]]

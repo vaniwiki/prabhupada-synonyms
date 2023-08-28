@@ -1,5 +1,11 @@
-~~Title:pāyitāḥ~~
-{{description>were fed.}}
+---json
+{
+    "name":"pāyitāḥ",
+    "h1":"pāyitāḥ",
+    "title":"pāyitāḥ -- synonyms, prabhupada.io",
+    "description":"were fed."
+}
+---
 
 ==== pāyitāḥ  ====
   * were fed --- [[books:sb:8:12:13|SB 8.12.13]]

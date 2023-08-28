@@ -1,5 +1,11 @@
-~~Title:raśmi~~
-{{description>by the rays; rope, rein.}}
+---json
+{
+    "name":"raśmi",
+    "h1":"raśmi",
+    "title":"raśmi -- synonyms, prabhupada.io",
+    "description":"by the rays; rope, rein."
+}
+---
 
 ==== raśmi  ====
   * by the rays --- [[books:sb:3:11:5|SB 3.11.5]]

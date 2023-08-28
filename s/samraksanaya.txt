@@ -1,5 +1,11 @@
-~~Title:saṁrakṣaṇāya~~
-{{description>for the protection.}}
+---json
+{
+    "name":"saṁrakṣaṇāya",
+    "h1":"saṁrakṣaṇāya",
+    "title":"saṁrakṣaṇāya -- synonyms, prabhupada.io",
+    "description":"for the protection."
+}
+---
 
 ==== saṁrakṣaṇāya  ====
   * for the protection --- [[books:sb:3:21:50|SB 3.21.50]]

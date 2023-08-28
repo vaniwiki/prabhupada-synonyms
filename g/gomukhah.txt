@@ -1,5 +1,11 @@
-~~Title:gomukhāḥ~~
-{{description>another flute.}}
+---json
+{
+    "name":"gomukhāḥ",
+    "h1":"gomukhāḥ",
+    "title":"gomukhāḥ -- synonyms, prabhupada.io",
+    "description":"another flute."
+}
+---
 
 ==== gomukhāḥ  ====
   * another flute --- [[books:sb:1:10:15|SB 1.10.15]]

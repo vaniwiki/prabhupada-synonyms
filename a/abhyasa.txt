@@ -1,5 +1,11 @@
-~~Title:abhyāsa~~
-{{description>practice.}}
+---json
+{
+    "name":"abhyāsa",
+    "h1":"abhyāsa",
+    "title":"abhyāsa -- synonyms, prabhupada.io",
+    "description":"practice."
+}
+---
 
 ==== abhyāsa  ====
   * practice --- [[books:bg:8:8|Bg. 8.8]], [[books:bg:12:9|Bg. 12.9]]

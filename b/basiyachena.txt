@@ -1,5 +1,11 @@
-~~Title:basiyāchena~~
-{{description>sat down.}}
+---json
+{
+    "name":"basiyāchena",
+    "h1":"basiyāchena",
+    "title":"basiyāchena -- synonyms, prabhupada.io",
+    "description":"sat down."
+}
+---
 
 ==== basiyāchena  ====
   * sat down --- [[books:cc:adi:14:73|Ādi 14.73]]

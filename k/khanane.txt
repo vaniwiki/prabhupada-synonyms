@@ -1,5 +1,11 @@
-~~Title:khanane~~
-{{description>to uproot them completely.}}
+---json
+{
+    "name":"khanane",
+    "h1":"khanane",
+    "title":"khanane -- synonyms, prabhupada.io",
+    "description":"to uproot them completely."
+}
+---
 
 ==== tat-mūla-khanane  ====
   * to uproot them completely --- [[books:sb:10:4:37|SB 10.4.37]]

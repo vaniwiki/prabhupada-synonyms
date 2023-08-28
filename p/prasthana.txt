@@ -1,5 +1,11 @@
-~~Title:prasthāna~~
-{{description>to leave.}}
+---json
+{
+    "name":"prasthāna",
+    "h1":"prasthāna",
+    "title":"prasthāna -- synonyms, prabhupada.io",
+    "description":"to leave."
+}
+---
 
 ==== prasthāna  ====
   * to leave --- [[books:sb:4:20:20|SB 4.20.20]]

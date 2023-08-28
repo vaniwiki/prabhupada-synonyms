@@ -1,5 +1,11 @@
-~~Title:alampaṭaḥ~~
-{{description>virtuous.}}
+---json
+{
+    "name":"alampaṭaḥ",
+    "h1":"alampaṭaḥ",
+    "title":"alampaṭaḥ -- synonyms, prabhupada.io",
+    "description":"virtuous."
+}
+---
 
 ==== alampaṭaḥ  ====
   * virtuous --- [[books:sb:3:14:49|SB 3.14.49]]

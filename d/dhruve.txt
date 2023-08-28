@@ -1,5 +1,11 @@
-~~Title:dhruve~~
-{{description>against Dhruva; to Dhruvaloka.}}
+---json
+{
+    "name":"dhruve",
+    "h1":"dhruve",
+    "title":"dhruve -- synonyms, prabhupada.io",
+    "description":"against Dhruva; to Dhruvaloka."
+}
+---
 
 ==== dhruve  ====
   * against Dhruva --- [[books:sb:4:10:29|SB 4.10.29]]

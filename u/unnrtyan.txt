@@ -1,5 +1,11 @@
-~~Title:unnṛtyān~~
-{{description>dancing.}}
+---json
+{
+    "name":"unnṛtyān",
+    "h1":"unnṛtyān",
+    "title":"unnṛtyān -- synonyms, prabhupada.io",
+    "description":"dancing."
+}
+---
 
 ==== unnṛtyān  ====
   * dancing --- [[books:cc:madhya:17:1|Madhya 17.1]]

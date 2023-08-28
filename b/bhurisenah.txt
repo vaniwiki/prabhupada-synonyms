@@ -1,5 +1,11 @@
-~~Title:bhurisenah~~
-{{description>Bhūriṣeṇa.}}
+---json
+{
+    "name":"bhurisenah",
+    "h1":"bhurisenah",
+    "title":"bhurisenah -- synonyms, prabhupada.io",
+    "description":"Bhūriṣeṇa."
+}
+---
 
 ==== bhūriṣeṇaḥ  ====
   * Bhūriṣeṇa --- [[books:sb:9:3:27|SB 9.3.27]]

@@ -1,5 +1,11 @@
-~~Title:sṛjāila~~
-{{description>fructified.}}
+---json
+{
+    "name":"sṛjāila",
+    "h1":"sṛjāila",
+    "title":"sṛjāila -- synonyms, prabhupada.io",
+    "description":"fructified."
+}
+---
 
 ==== sṛjāila  ====
   * fructified --- [[books:cc:adi:12:68|Ādi 12.68]]

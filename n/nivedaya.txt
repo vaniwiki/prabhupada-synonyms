@@ -1,5 +1,11 @@
-~~Title:nivedaya~~
-{{description>Raghunātha dāsa inquires.}}
+---json
+{
+    "name":"nivedaya",
+    "h1":"nivedaya",
+    "title":"nivedaya -- synonyms, prabhupada.io",
+    "description":"Raghunātha dāsa inquires."
+}
+---
 
 ==== raghunātha nivedaya  ====
   * Raghunātha dāsa inquires --- [[books:cc:antya:6:231|Antya 6.231]]

@@ -1,5 +1,11 @@
-~~Title:gṛṇāmi~~
-{{description>I shall chant or describe.}}
+---json
+{
+    "name":"gṛṇāmi",
+    "h1":"gṛṇāmi",
+    "title":"gṛṇāmi -- synonyms, prabhupada.io",
+    "description":"I shall chant or describe."
+}
+---
 
 ==== gṛṇāmi  ====
   * I shall chant or describe --- [[books:sb:7:9:12|SB 7.9.12]]

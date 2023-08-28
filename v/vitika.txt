@@ -1,5 +1,11 @@
-~~Title:vīṭikā~~
-{{description>pan.}}
+---json
+{
+    "name":"vīṭikā",
+    "h1":"vīṭikā",
+    "title":"vīṭikā -- synonyms, prabhupada.io",
+    "description":"pan."
+}
+---
 
 ==== vīṭikā  ====
   * pan --- [[books:cc:antya:16:119|Antya 16.119]]

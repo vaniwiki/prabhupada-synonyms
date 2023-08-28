@@ -1,5 +1,11 @@
-~~Title:sahāyena~~
-{{description>with a helper.}}
+---json
+{
+    "name":"sahāyena",
+    "h1":"sahāyena",
+    "title":"sahāyena -- synonyms, prabhupada.io",
+    "description":"with a helper."
+}
+---
 
 ==== sahāyena  ====
   * with a helper --- [[books:sb:8:6:22-23|SB 8.6.22-23]]

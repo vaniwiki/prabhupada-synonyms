@@ -1,5 +1,11 @@
-~~Title:apṛcchata~~
-{{description>inquired; you asked from me.}}
+---json
+{
+    "name":"apṛcchata",
+    "h1":"apṛcchata",
+    "title":"apṛcchata -- synonyms, prabhupada.io",
+    "description":"inquired; you asked from me."
+}
+---
 
 ==== apṛcchata  ====
   * inquired --- [[books:sb:3:14:13|SB 3.14.13]]

@@ -1,5 +1,11 @@
-~~Title:parivartanena~~
-{{description>by the revolving.}}
+---json
+{
+    "name":"parivartanena",
+    "h1":"parivartanena",
+    "title":"parivartanena -- synonyms, prabhupada.io",
+    "description":"by the revolving."
+}
+---
 
 ==== parivartanena  ====
   * by the revolving --- [[books:sb:3:28:27|SB 3.28.27]]

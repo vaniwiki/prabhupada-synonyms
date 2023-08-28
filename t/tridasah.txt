@@ -1,5 +1,11 @@
-~~Title:tridaśāḥ~~
-{{description>demigods.}}
+---json
+{
+    "name":"tridaśāḥ",
+    "h1":"tridaśāḥ",
+    "title":"tridaśāḥ -- synonyms, prabhupada.io",
+    "description":"demigods."
+}
+---
 
 ==== tridaśāḥ  ====
   * demigods --- [[books:sb:4:7:57|SB 4.7.57]]

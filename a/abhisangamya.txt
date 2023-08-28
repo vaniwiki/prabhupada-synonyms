@@ -1,5 +1,11 @@
-~~Title:abhisaṅgamya~~
-{{description>approaching.}}
+---json
+{
+    "name":"abhisaṅgamya",
+    "h1":"abhisaṅgamya",
+    "title":"abhisaṅgamya -- synonyms, prabhupada.io",
+    "description":"approaching."
+}
+---
 
 ==== abhisaṅgamya  ====
   * approaching --- [[books:sb:1:13:5|SB 1.13.5]]

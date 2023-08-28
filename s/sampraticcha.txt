@@ -1,5 +1,11 @@
-~~Title:sampratīccha~~
-{{description>You may take.}}
+---json
+{
+    "name":"sampratīccha",
+    "h1":"sampratīccha",
+    "title":"sampratīccha -- synonyms, prabhupada.io",
+    "description":"You may take."
+}
+---
 
 ==== sampratīccha  ====
   * You may take --- [[books:sb:8:18:32|SB 8.18.32]]

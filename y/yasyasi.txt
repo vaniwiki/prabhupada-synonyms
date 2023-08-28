@@ -1,5 +1,11 @@
-~~Title:yāsyasi~~
-{{description>will go; you shall go; You will go.}}
+---json
+{
+    "name":"yāsyasi",
+    "h1":"yāsyasi",
+    "title":"yāsyasi -- synonyms, prabhupada.io",
+    "description":"will go; you shall go; You will go."
+}
+---
 
 ==== yāsyasi  ====
   * will go --- [[books:bg:2:35|Bg. 2.35]]

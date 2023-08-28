@@ -1,5 +1,11 @@
-~~Title:aṇḍera~~
-{{description>of universes.}}
+---json
+{
+    "name":"aṇḍera",
+    "h1":"aṇḍera",
+    "title":"aṇḍera -- synonyms, prabhupada.io",
+    "description":"of universes."
+}
+---
 
 ==== brahma-aṇḍera  ====
   * of universes --- [[books:cc:adi:2:102|Ādi 2.102]]

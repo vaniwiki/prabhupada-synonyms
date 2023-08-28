@@ -1,5 +1,11 @@
-~~Title:jitah~~
-{{description>conquered.}}
+---json
+{
+    "name":"jitah",
+    "h1":"jitah",
+    "title":"jitah -- synonyms, prabhupada.io",
+    "description":"conquered."
+}
+---
 
 ==== jitaḥ  ====
   * conquered --- [[books:bg:5:19|Bg. 5.19]], [[books:bg:6:6|Bg. 6.6]], [[books:sb:6:16:34|SB 6.16.34]], [[books:sb:7:3:20|SB 7.3.20]], [[books:sb:7:14:12|SB 7.14.12]], [[books:cc:madhya:8:67|Madhya 8.67]]

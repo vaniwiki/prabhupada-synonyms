@@ -1,5 +1,11 @@
-~~Title:saṁjñitā~~
-{{description>known by the name.}}
+---json
+{
+    "name":"saṁjñitā",
+    "h1":"saṁjñitā",
+    "title":"saṁjñitā -- synonyms, prabhupada.io",
+    "description":"known by the name."
+}
+---
 
 ==== saṁjñitā  ====
   * known by the name --- [[books:cc:madhya:6:156|Madhya 6.156]], [[books:cc:madhya:20:115|Madhya 20.115]]

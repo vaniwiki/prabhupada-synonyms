@@ -1,5 +1,11 @@
-~~Title:sampanna~~
-{{description>like having merged.}}
+---json
+{
+    "name":"sampanna",
+    "h1":"sampanna",
+    "title":"sampanna -- synonyms, prabhupada.io",
+    "description":"like having merged."
+}
+---
 
 ==== sampanna-vat  ====
   * like having merged --- [[books:sb:4:7:35|SB 4.7.35]]

@@ -1,5 +1,11 @@
-~~Title:pauravendra~~
-{{description>Duryodhana.}}
+---json
+{
+    "name":"pauravendra",
+    "h1":"pauravendra",
+    "title":"pauravendra -- synonyms, prabhupada.io",
+    "description":"Duryodhana."
+}
+---
 
 ==== pauravendra  ====
   * Duryodhana --- [[books:sb:3:1:2|SB 3.1.2]]

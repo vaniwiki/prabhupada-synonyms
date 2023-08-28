@@ -1,5 +1,11 @@
-~~Title:abhyacasta~~
-{{description>attempted to speak; began to speak.}}
+---json
+{
+    "name":"abhyacasta",
+    "h1":"abhyacasta",
+    "title":"abhyacasta -- synonyms, prabhupada.io",
+    "description":"attempted to speak; began to speak."
+}
+---
 
 ==== abhyacaṣṭa  ====
   * attempted to speak --- [[books:sb:3:13:5|SB 3.13.5]]

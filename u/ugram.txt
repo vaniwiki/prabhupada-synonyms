@@ -1,5 +1,11 @@
-~~Title:ugram~~
-{{description>severe; terrible; very fierce.}}
+---json
+{
+    "name":"ugram",
+    "h1":"ugram",
+    "title":"ugram -- synonyms, prabhupada.io",
+    "description":"severe; terrible; very fierce."
+}
+---
 
 ==== ugram  ====
   * severe --- [[books:sb:5:18:22|SB 5.18.22]], [[books:sb:6:5:4-5|SB 6.5.4-5]]

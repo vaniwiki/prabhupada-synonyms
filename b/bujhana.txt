@@ -1,5 +1,11 @@
-~~Title:bujhana~~
-{{description>understanding.}}
+---json
+{
+    "name":"bujhana",
+    "h1":"bujhana",
+    "title":"bujhana -- synonyms, prabhupada.io",
+    "description":"understanding."
+}
+---
 
 ==== bujhana  ====
   * understanding --- [[books:cc:madhya:2:60|Madhya 2.60]], [[books:cc:madhya:3:130|Madhya 3.130]], [[books:cc:madhya:6:148|Madhya 6.148]], [[books:cc:madhya:16:137|Madhya 16.137]]

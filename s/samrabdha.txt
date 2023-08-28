@@ -1,5 +1,11 @@
-~~Title:saṁrabdha~~
-{{description>very angry.}}
+---json
+{
+    "name":"saṁrabdha",
+    "h1":"saṁrabdha",
+    "title":"saṁrabdha -- synonyms, prabhupada.io",
+    "description":"very angry."
+}
+---
 
 ==== saṁrabdha  ====
   * very angry --- [[books:sb:8:10:6|SB 8.10.6]]

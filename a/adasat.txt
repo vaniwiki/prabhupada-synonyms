@@ -1,5 +1,11 @@
-~~Title:adasat~~
-{{description>bitten.}}
+---json
+{
+    "name":"adasat",
+    "h1":"adasat",
+    "title":"adasat -- synonyms, prabhupada.io",
+    "description":"bitten."
+}
+---
 
 ==== adaśat  ====
   * bitten --- [[books:sb:1:6:9|SB 1.6.9]]

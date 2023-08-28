@@ -1,5 +1,11 @@
-~~Title:vidhvastah~~
-{{description>devastated.}}
+---json
+{
+    "name":"vidhvastah",
+    "h1":"vidhvastah",
+    "title":"vidhvastah -- synonyms, prabhupada.io",
+    "description":"devastated."
+}
+---
 
 ==== vidhvastaḥ  ====
   * devastated --- [[books:sb:4:7:33|SB 4.7.33]]

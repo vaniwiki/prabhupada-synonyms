@@ -1,5 +1,11 @@
-~~Title:vikriyām~~
-{{description>resolution.}}
+---json
+{
+    "name":"vikriyām",
+    "h1":"vikriyām",
+    "title":"vikriyām -- synonyms, prabhupada.io",
+    "description":"resolution."
+}
+---
 
 ==== vikriyām  ====
   * resolution --- [[books:sb:3:6:24|SB 3.6.24]]

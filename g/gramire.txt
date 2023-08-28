@@ -1,5 +1,11 @@
-~~Title:grāmīre~~
-{{description>unto the inhabitants of Kulīna-grāma.}}
+---json
+{
+    "name":"grāmīre",
+    "h1":"grāmīre",
+    "title":"grāmīre -- synonyms, prabhupada.io",
+    "description":"unto the inhabitants of Kulīna-grāma."
+}
+---
 
 ==== kulīna-grāmīre  ====
   * unto the inhabitants of Kulīna-grāma --- [[books:cc:madhya:15:98|Madhya 15.98]]

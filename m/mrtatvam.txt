@@ -1,5 +1,11 @@
-~~Title:mṛtatvam~~
-{{description>the quality of being dead while living.}}
+---json
+{
+    "name":"mṛtatvam",
+    "h1":"mṛtatvam",
+    "title":"mṛtatvam -- synonyms, prabhupada.io",
+    "description":"the quality of being dead while living."
+}
+---
 
 ==== jīvat-mṛtatvam  ====
   * the quality of being dead while living --- [[books:sb:5:10:11|SB 5.10.11]]

@@ -1,5 +1,11 @@
-~~Title:sabhya~~
-{{description>member of a learned society.}}
+---json
+{
+    "name":"sabhya",
+    "h1":"sabhya",
+    "title":"sabhya -- synonyms, prabhupada.io",
+    "description":"member of a learned society."
+}
+---
 
 ==== sabhya  ====
   * member of a learned society --- [[books:sb:1:1:10|SB 1.1.10]]

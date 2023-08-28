@@ -1,5 +1,11 @@
-~~Title:bīja~~
-{{description>seed; seed of devotional service; seeds; semina; the seed; the seed or original cause of material existence.}}
+---json
+{
+    "name":"bīja",
+    "h1":"bīja",
+    "title":"bīja -- synonyms, prabhupada.io",
+    "description":"seed; seed of devotional service; seeds; semina; the seed; the seed or original cause of material existence."
+}
+---
 
 ==== bīja  ====
   * seed --- [[books:cc:adi:8:29-30|Ādi 8.29-30]], [[books:cc:antya:3:144|Antya 3.144]]

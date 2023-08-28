@@ -1,5 +1,11 @@
-~~Title:parāñāchila~~
-{{description>was put on it.}}
+---json
+{
+    "name":"parāñāchila",
+    "h1":"parāñāchila",
+    "title":"parāñāchila -- synonyms, prabhupada.io",
+    "description":"was put on it."
+}
+---
 
 ==== parāñāchila  ====
   * was put on it --- [[books:cc:madhya:5:129|Madhya 5.129]]

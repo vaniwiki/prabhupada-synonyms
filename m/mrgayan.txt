@@ -1,5 +1,11 @@
-~~Title:mṛgayan~~
-{{description>seeking.}}
+---json
+{
+    "name":"mṛgayan",
+    "h1":"mṛgayan",
+    "title":"mṛgayan -- synonyms, prabhupada.io",
+    "description":"seeking."
+}
+---
 
 ==== mṛgayan  ====
   * seeking --- [[books:sb:3:17:20|SB 3.17.20]]

@@ -1,5 +1,11 @@
-~~Title:nīce~~
-{{description>to a low-class person; to a lower family.}}
+---json
+{
+    "name":"nīce",
+    "h1":"nīce",
+    "title":"nīce -- synonyms, prabhupada.io",
+    "description":"to a low-class person; to a lower family."
+}
+---
 
 ==== nīce  ====
   * to a low-class person --- [[books:cc:antya:3:219|Antya 3.219]]

@@ -1,5 +1,11 @@
-~~Title:devaka~~
-{{description>Devaka.}}
+---json
+{
+    "name":"devaka",
+    "h1":"devaka",
+    "title":"devaka -- synonyms, prabhupada.io",
+    "description":"Devaka."
+}
+---
 
 ==== devaka  ====
   * Devaka --- [[books:sb:5:20:22|SB 5.20.22]]

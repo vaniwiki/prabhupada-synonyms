@@ -1,5 +1,11 @@
-~~Title:vyāpṛta~~
-{{description>engrossed.}}
+---json
+{
+    "name":"vyāpṛta",
+    "h1":"vyāpṛta",
+    "title":"vyāpṛta -- synonyms, prabhupada.io",
+    "description":"engrossed."
+}
+---
 
 ==== vyāpṛta  ====
   * engrossed --- [[books:sb:3:30:18|SB 3.30.18]]

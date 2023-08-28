@@ -1,5 +1,11 @@
-~~Title:aśvatthaḥ~~
-{{description>the banyan tree.}}
+---json
+{
+    "name":"aśvatthaḥ",
+    "h1":"aśvatthaḥ",
+    "title":"aśvatthaḥ -- synonyms, prabhupada.io",
+    "description":"the banyan tree."
+}
+---
 
 ==== aśvatthaḥ  ====
   * the banyan tree --- [[books:bg:10:26|Bg. 10.26]]

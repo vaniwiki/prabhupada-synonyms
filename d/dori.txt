@@ -1,5 +1,11 @@
-~~Title:ḍorī~~
-{{description>ropes; the ropes.}}
+---json
+{
+    "name":"ḍorī",
+    "h1":"ḍorī",
+    "title":"ḍorī -- synonyms, prabhupada.io",
+    "description":"ropes; the ropes."
+}
+---
 
 ==== ḍorī  ====
   * ropes --- [[books:cc:madhya:14:249|Madhya 14.249]]

@@ -1,5 +1,11 @@
-~~Title:brūta~~
-{{description>just speak; kindly explain; kindly tell me.}}
+---json
+{
+    "name":"brūta",
+    "h1":"brūta",
+    "title":"brūta -- synonyms, prabhupada.io",
+    "description":"just speak; kindly explain; kindly tell me."
+}
+---
 
 ==== brūta  ====
   * just speak --- [[books:sb:6:1:38|SB 6.1.38]]

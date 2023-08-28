@@ -1,5 +1,11 @@
-~~Title:muktera~~
-{{description>of the liberation.}}
+---json
+{
+    "name":"muktera",
+    "h1":"muktera",
+    "title":"muktera -- synonyms, prabhupada.io",
+    "description":"of the liberation."
+}
+---
 
 ==== muktera  ====
   * of the liberation --- [[books:cc:adi:5:31|Ādi 5.31]]

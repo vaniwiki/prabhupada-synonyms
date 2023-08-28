@@ -1,5 +1,11 @@
-~~Title:pāṭhāibā~~
-{{description>will send.}}
+---json
+{
+    "name":"pāṭhāibā",
+    "h1":"pāṭhāibā",
+    "title":"pāṭhāibā -- synonyms, prabhupada.io",
+    "description":"will send."
+}
+---
 
 ==== pāṭhāibā  ====
   * will send --- [[books:cc:antya:3:78-79|Antya 3.78-79]]

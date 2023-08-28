@@ -1,5 +1,11 @@
-~~Title:śarma~~
-{{description>auspiciousness; happiness; in happiness; peace; peace of mind.}}
+---json
+{
+    "name":"śarma",
+    "h1":"śarma",
+    "title":"śarma -- synonyms, prabhupada.io",
+    "description":"auspiciousness; happiness; in happiness; peace; peace of mind."
+}
+---
 
 ==== śarma  ====
   * auspiciousness --- [[books:cc:antya:1:177|Antya 1.177]]

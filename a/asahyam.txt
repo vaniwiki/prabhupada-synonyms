@@ -1,5 +1,11 @@
-~~Title:asahyam~~
-{{description>intolerable; unbearable.}}
+---json
+{
+    "name":"asahyam",
+    "h1":"asahyam",
+    "title":"asahyam -- synonyms, prabhupada.io",
+    "description":"intolerable; unbearable."
+}
+---
 
 ==== asahyam  ====
   * intolerable --- [[books:sb:2:7:7|SB 2.7.7]]

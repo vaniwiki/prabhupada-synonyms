@@ -1,5 +1,11 @@
-~~Title:prācurya~~
-{{description>abundance.}}
+---json
+{
+    "name":"prācurya",
+    "h1":"prācurya",
+    "title":"prācurya -- synonyms, prabhupada.io",
+    "description":"abundance."
+}
+---
 
 ==== prācurya  ====
   * abundance --- [[books:cc:madhya:21:118|Madhya 21.118]]

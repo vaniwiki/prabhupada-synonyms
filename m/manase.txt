@@ -1,5 +1,11 @@
-~~Title:mānase~~
-{{description>by the Mānasa-sarovara Lake; within the mind.}}
+---json
+{
+    "name":"mānase",
+    "h1":"mānase",
+    "title":"mānase -- synonyms, prabhupada.io",
+    "description":"by the Mānasa-sarovara Lake; within the mind."
+}
+---
 
 ==== mānase  ====
   * by the Mānasa-sarovara Lake --- [[books:sb:3:23:40|SB 3.23.40]]

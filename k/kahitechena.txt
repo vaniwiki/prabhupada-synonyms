@@ -1,5 +1,11 @@
-~~Title:kahitechena~~
-{{description>He is speaking.}}
+---json
+{
+    "name":"kahitechena",
+    "h1":"kahitechena",
+    "title":"kahitechena -- synonyms, prabhupada.io",
+    "description":"He is speaking."
+}
+---
 
 ==== kahitechena  ====
   * He is speaking --- [[books:cc:madhya:9:100|Madhya 9.100]]

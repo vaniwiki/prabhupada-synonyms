@@ -1,5 +1,11 @@
-~~Title:kurvāṇān~~
-{{description>doing so.}}
+---json
+{
+    "name":"kurvāṇān",
+    "h1":"kurvāṇān",
+    "title":"kurvāṇān -- synonyms, prabhupada.io",
+    "description":"doing so."
+}
+---
 
 ==== kurvāṇān  ====
   * doing so --- [[books:sb:4:22:2|SB 4.22.2]]

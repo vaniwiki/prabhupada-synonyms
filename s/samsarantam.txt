@@ -1,5 +1,11 @@
-~~Title:saṁsarantam~~
-{{description>undergoing the material way of life.}}
+---json
+{
+    "name":"saṁsarantam",
+    "h1":"saṁsarantam",
+    "title":"saṁsarantam -- synonyms, prabhupada.io",
+    "description":"undergoing the material way of life."
+}
+---
 
 ==== saṁsarantam  ====
   * undergoing the material way of life --- [[books:sb:6:5:15|SB 6.5.15]]

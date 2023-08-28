@@ -1,5 +1,11 @@
-~~Title:vanas~~
-{{description>a tree.}}
+---json
+{
+    "name":"vanas",
+    "h1":"vanas",
+    "title":"vanas -- synonyms, prabhupada.io",
+    "description":"a tree."
+}
+---
 
 ==== vanas-patau  ====
   * a tree --- [[books:sb:7:2:9|SB 7.2.9]]

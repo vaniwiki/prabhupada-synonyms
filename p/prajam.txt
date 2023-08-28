@@ -1,5 +1,11 @@
-~~Title:prajam~~
-{{description>by his subjects.}}
+---json
+{
+    "name":"prajam",
+    "h1":"prajam",
+    "title":"prajam -- synonyms, prabhupada.io",
+    "description":"by his subjects."
+}
+---
 
 ==== prajam  ====
   * by his subjects --- [[books:sb:4:9:66|SB 4.9.66]]

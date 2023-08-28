@@ -1,5 +1,11 @@
-~~Title:sattamah~~
-{{description>a first-class person; the supreme.}}
+---json
+{
+    "name":"sattamah",
+    "h1":"sattamah",
+    "title":"sattamah -- synonyms, prabhupada.io",
+    "description":"a first-class person; the supreme."
+}
+---
 
 ==== sattamaḥ  ====
   * a first-class person --- [[books:cc:madhya:8:62|Madhya 8.62]]

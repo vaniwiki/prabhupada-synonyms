@@ -1,5 +1,11 @@
-~~Title:jālakādibhiḥ~~
-{{description>jālakās.}}
+---json
+{
+    "name":"jālakādibhiḥ",
+    "h1":"jālakādibhiḥ",
+    "title":"jālakādibhiḥ -- synonyms, prabhupada.io",
+    "description":"jālakās."
+}
+---
 
 ==== jālakādibhiḥ  ====
   * //jālakās// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

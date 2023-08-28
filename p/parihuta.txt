@@ -1,5 +1,11 @@
-~~Title:parihūta~~
-{{description>to call the cows.}}
+---json
+{
+    "name":"parihūta",
+    "h1":"parihūta",
+    "title":"parihūta -- synonyms, prabhupada.io",
+    "description":"to call the cows."
+}
+---
 
 ==== parihūta-saṅgatān  ====
   * to call the cows --- [[books:sb:10:13:24|SB 10.13.24]]

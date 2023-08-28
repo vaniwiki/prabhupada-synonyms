@@ -1,5 +1,11 @@
-~~Title:katthate~~
-{{description>they say.}}
+---json
+{
+    "name":"katthate",
+    "h1":"katthate",
+    "title":"katthate -- synonyms, prabhupada.io",
+    "description":"they say."
+}
+---
 
 ==== katthate  ====
   * they say --- [[books:sb:5:24:16|SB 5.24.16]]

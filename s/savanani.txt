@@ -1,5 +1,11 @@
-~~Title:savanāni~~
-{{description>ritualistic performances of the morning.}}
+---json
+{
+    "name":"savanāni",
+    "h1":"savanāni",
+    "title":"savanāni -- synonyms, prabhupada.io",
+    "description":"ritualistic performances of the morning."
+}
+---
 
 ==== savanāni  ====
   * ritualistic performances of the morning --- [[books:sb:3:13:38|SB 3.13.38]]

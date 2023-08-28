@@ -1,5 +1,11 @@
-~~Title:laharī~~
-{{description>the waves of the Ganges.}}
+---json
+{
+    "name":"laharī",
+    "h1":"laharī",
+    "title":"laharī -- synonyms, prabhupada.io",
+    "description":"the waves of the Ganges."
+}
+---
 
 ==== gaṅgāra laharī  ====
   * the waves of the Ganges --- [[books:cc:antya:3:230|Antya 3.230]]

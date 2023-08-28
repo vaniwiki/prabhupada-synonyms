@@ -1,5 +1,11 @@
-~~Title:vikledaḥ~~
-{{description>drooling.}}
+---json
+{
+    "name":"vikledaḥ",
+    "h1":"vikledaḥ",
+    "title":"vikledaḥ -- synonyms, prabhupada.io",
+    "description":"drooling."
+}
+---
 
 ==== indriya-vikledaḥ  ====
   * drooling --- [[books:sb:3:20:41|SB 3.20.41]]

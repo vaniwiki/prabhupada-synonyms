@@ -1,5 +1,11 @@
-~~Title:lāge~~
-{{description>appears; arises; becomes fixed; can become possible; capture; come in contact; cost; costs; feel; grow; is required; sticks; strikes; there are; there is; they offer; touch; touched; touches; will attach.}}
+---json
+{
+    "name":"lāge",
+    "h1":"lāge",
+    "title":"lāge -- synonyms, prabhupada.io",
+    "description":"appears; arises; becomes fixed; can become possible; capture; come in contact; cost; costs; feel; grow; is required; sticks; strikes; there are; there is; they offer; touch; touched; touches; will attach."
+}
+---
 
 ==== lāge  ====
   * appears --- [[books:cc:adi:9:25|Ādi 9.25]], [[books:cc:antya:4:172|Antya 4.172]]

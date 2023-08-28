@@ -1,5 +1,11 @@
-~~Title:avarudhya~~
-{{description>being locked up; getting.}}
+---json
+{
+    "name":"avarudhya",
+    "h1":"avarudhya",
+    "title":"avarudhya -- synonyms, prabhupada.io",
+    "description":"being locked up; getting."
+}
+---
 
 ==== avarudhya  ====
   * being locked up --- [[books:sb:2:2:16|SB 2.2.16]]

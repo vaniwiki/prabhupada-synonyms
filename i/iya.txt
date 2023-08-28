@@ -1,5 +1,11 @@
-~~Title:iyā~~
-{{description>taking two forms.}}
+---json
+{
+    "name":"iyā",
+    "h1":"iyā",
+    "title":"iyā -- synonyms, prabhupada.io",
+    "description":"taking two forms."
+}
+---
 
 ==== dvi-mūrti ha-iyā  ====
   * taking two forms --- [[books:cc:adi:6:14-15|Ādi 6.14-15]]

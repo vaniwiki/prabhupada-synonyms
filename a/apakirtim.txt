@@ -1,5 +1,11 @@
-~~Title:apakīrtim~~
-{{description>ill fame.}}
+---json
+{
+    "name":"apakīrtim",
+    "h1":"apakīrtim",
+    "title":"apakīrtim -- synonyms, prabhupada.io",
+    "description":"ill fame."
+}
+---
 
 ==== apakīrtim  ====
   * ill fame --- [[books:sb:4:4:30|SB 4.4.30]]

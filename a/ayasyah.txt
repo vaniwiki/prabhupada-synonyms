@@ -1,5 +1,11 @@
-~~Title:ayāsyaḥ~~
-{{description>another great sage.}}
+---json
+{
+    "name":"ayāsyaḥ",
+    "h1":"ayāsyaḥ",
+    "title":"ayāsyaḥ -- synonyms, prabhupada.io",
+    "description":"another great sage."
+}
+---
 
 ==== ayāsyaḥ  ====
   * another great sage --- [[books:sb:9:7:22|SB 9.7.22]]

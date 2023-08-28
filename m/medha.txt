@@ -1,5 +1,11 @@
-~~Title:medha~~
-{{description>sacrifice; sacrifices.}}
+---json
+{
+    "name":"medha",
+    "h1":"medha",
+    "title":"medha -- synonyms, prabhupada.io",
+    "description":"sacrifice; sacrifices."
+}
+---
 
 ==== medha  ====
   * sacrifice --- [[books:sb:4:20:2|SB 4.20.2]]

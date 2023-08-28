@@ -1,5 +1,11 @@
-~~Title:ikṣuḥ~~
-{{description>sugarcane.}}
+---json
+{
+    "name":"ikṣuḥ",
+    "h1":"ikṣuḥ",
+    "title":"ikṣuḥ -- synonyms, prabhupada.io",
+    "description":"sugarcane."
+}
+---
 
 ==== ikṣuḥ  ====
   * sugarcane --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

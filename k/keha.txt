@@ -1,5 +1,11 @@
-~~Title:keha~~
-{{description>a person; all of them; another; any of you; anybody; anyone; else; some; some of them; some persons; some women; somebody; someone; someone else.}}
+---json
+{
+    "name":"keha",
+    "h1":"keha",
+    "title":"keha -- synonyms, prabhupada.io",
+    "description":"a person; all of them; another; any of you; anybody; anyone; else; some; some of them; some persons; some women; somebody; someone; someone else."
+}
+---
 
 ==== keha  ====
   * a person --- [[books:cc:madhya:24:323|Madhya 24.323]]

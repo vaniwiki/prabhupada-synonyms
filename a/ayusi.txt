@@ -1,5 +1,11 @@
-~~Title:āyuṣi~~
-{{description>for one whose life.}}
+---json
+{
+    "name":"āyuṣi",
+    "h1":"āyuṣi",
+    "title":"āyuṣi -- synonyms, prabhupada.io",
+    "description":"for one whose life."
+}
+---
 
 ==== āyuṣi  ====
   * for one whose life --- [[books:sb:4:9:34|SB 4.9.34]]

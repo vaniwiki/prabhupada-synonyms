@@ -1,5 +1,11 @@
-~~Title:udyantam~~
-{{description>rising.}}
+---json
+{
+    "name":"udyantam",
+    "h1":"udyantam",
+    "title":"udyantam -- synonyms, prabhupada.io",
+    "description":"rising."
+}
+---
 
 ==== udyantam  ====
   * rising --- [[books:sb:1:14:12|SB 1.14.12]]

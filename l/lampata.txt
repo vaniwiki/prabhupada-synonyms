@@ -1,5 +1,11 @@
-~~Title:lampata~~
-{{description>debauchee; extravagant.}}
+---json
+{
+    "name":"lampata",
+    "h1":"lampata",
+    "title":"lampata -- synonyms, prabhupada.io",
+    "description":"debauchee; extravagant."
+}
+---
 
 ==== lampaṭa  ====
   * debauchee --- [[books:cc:antya:20:51|Antya 20.51]]

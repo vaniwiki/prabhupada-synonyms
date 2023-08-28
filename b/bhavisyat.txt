@@ -1,5 +1,11 @@
-~~Title:bhaviṣyat~~
-{{description>future; may occur; which will be in the future.}}
+---json
+{
+    "name":"bhaviṣyat",
+    "h1":"bhaviṣyat",
+    "title":"bhaviṣyat -- synonyms, prabhupada.io",
+    "description":"future; may occur; which will be in the future."
+}
+---
 
 ==== bhaviṣyat  ====
   * future --- [[books:sb:4:29:2b|SB 4.29.2b]]

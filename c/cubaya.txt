@@ -1,5 +1,11 @@
-~~Title:cubāya~~
-{{description>dunks.}}
+---json
+{
+    "name":"cubāya",
+    "h1":"cubāya",
+    "title":"cubāya -- synonyms, prabhupada.io",
+    "description":"dunks."
+}
+---
 
 ==== cubāya  ====
   * dunks --- [[books:cc:madhya:20:118|Madhya 20.118]]

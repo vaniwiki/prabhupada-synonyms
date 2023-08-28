@@ -1,5 +1,11 @@
-~~Title:āmada~~
-{{description>intoxication by drinking.}}
+---json
+{
+    "name":"āmada",
+    "h1":"āmada",
+    "title":"āmada -- synonyms, prabhupada.io",
+    "description":"intoxication by drinking."
+}
+---
 
 ==== madhu-āmada  ====
   * intoxication by drinking --- [[books:sb:3:3:15|SB 3.3.15]]

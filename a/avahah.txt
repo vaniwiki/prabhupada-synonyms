@@ -1,5 +1,11 @@
-~~Title:avahah~~
-{{description>dangerous.}}
+---json
+{
+    "name":"avahah",
+    "h1":"avahah",
+    "title":"avahah -- synonyms, prabhupada.io",
+    "description":"dangerous."
+}
+---
 
 ==== bhaya-āvahaḥ  ====
   * dangerous --- [[books:bg:3:35|Bg. 3.35]]

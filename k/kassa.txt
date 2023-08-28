@@ -1,5 +1,11 @@
-~~Title:kassa~~
-{{description>whose.}}
+---json
+{
+    "name":"kassa",
+    "h1":"kassa",
+    "title":"kassa -- synonyms, prabhupada.io",
+    "description":"whose."
+}
+---
 
 ==== kassa  ====
   * whose --- [[books:cc:madhya:2:42|Madhya 2.42]]

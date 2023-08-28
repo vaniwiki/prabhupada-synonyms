@@ -1,5 +1,11 @@
-~~Title:tvaksārāḥ~~
-{{description>pipe plants.}}
+---json
+{
+    "name":"tvaksārāḥ",
+    "h1":"tvaksārāḥ",
+    "title":"tvaksārāḥ -- synonyms, prabhupada.io",
+    "description":"pipe plants."
+}
+---
 
 ==== tvaksārāḥ  ====
   * pipe plants --- [[books:sb:3:10:19|SB 3.10.19]]

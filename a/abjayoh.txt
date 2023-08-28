@@ -1,5 +1,11 @@
-~~Title:abjayoḥ~~
-{{description>from the lotuslike eyes.}}
+---json
+{
+    "name":"abjayoḥ",
+    "h1":"abjayoḥ",
+    "title":"abjayoḥ -- synonyms, prabhupada.io",
+    "description":"from the lotuslike eyes."
+}
+---
 
 ==== nayana-abjayoḥ  ====
   * from the lotuslike eyes --- [[books:sb:1:14:23|SB 1.14.23]]

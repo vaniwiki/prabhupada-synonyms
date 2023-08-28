@@ -1,5 +1,11 @@
-~~Title:raśmibhiḥ~~
-{{description>with the dazzling illumination of the sunshine.}}
+---json
+{
+    "name":"raśmibhiḥ",
+    "h1":"raśmibhiḥ",
+    "title":"raśmibhiḥ -- synonyms, prabhupada.io",
+    "description":"with the dazzling illumination of the sunshine."
+}
+---
 
 ==== sūrya-raśmibhiḥ  ====
   * with the dazzling illumination of the sunshine --- [[books:sb:8:10:13-15|SB 8.10.13-15]]

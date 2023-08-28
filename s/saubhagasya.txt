@@ -1,5 +1,11 @@
-~~Title:saubhagasya~~
-{{description>of all auspicious opportunities.}}
+---json
+{
+    "name":"saubhagasya",
+    "h1":"saubhagasya",
+    "title":"saubhagasya -- synonyms, prabhupada.io",
+    "description":"of all auspicious opportunities."
+}
+---
 
 ==== saubhagasya  ====
   * of all auspicious opportunities --- [[books:sb:2:6:4|SB 2.6.4]]

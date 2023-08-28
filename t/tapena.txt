@@ -1,5 +1,11 @@
-~~Title:tāpena~~
-{{description>from the heat of the fire of the Sudarśana cakra.}}
+---json
+{
+    "name":"tāpena",
+    "h1":"tāpena",
+    "title":"tāpena -- synonyms, prabhupada.io",
+    "description":"from the heat of the fire of the Sudarśana cakra."
+}
+---
 
 ==== astra-agni-tāpena  ====
   * from the heat of the fire of the Sudarśana //cakra// --- [[books:sb:9:5:13|SB 9.5.13]]

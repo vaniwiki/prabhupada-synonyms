@@ -1,5 +1,11 @@
-~~Title:nidhanasya~~
-{{description>of the annihilation.}}
+---json
+{
+    "name":"nidhanasya",
+    "h1":"nidhanasya",
+    "title":"nidhanasya -- synonyms, prabhupada.io",
+    "description":"of the annihilation."
+}
+---
 
 ==== nidhanasya  ====
   * of the annihilation --- [[books:sb:2:6:11|SB 2.6.11]]

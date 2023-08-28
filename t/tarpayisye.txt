@@ -1,5 +1,11 @@
-~~Title:tarpayiṣye~~
-{{description>I shall please.}}
+---json
+{
+    "name":"tarpayiṣye",
+    "h1":"tarpayiṣye",
+    "title":"tarpayiṣye -- synonyms, prabhupada.io",
+    "description":"I shall please."
+}
+---
 
 ==== tarpayiṣye  ====
   * I shall please --- [[books:sb:7:2:7-8|SB 7.2.7-8]]

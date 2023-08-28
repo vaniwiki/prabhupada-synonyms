@@ -1,5 +1,11 @@
-~~Title:arhayet~~
-{{description>one should propitiate.}}
+---json
+{
+    "name":"arhayet",
+    "h1":"arhayet",
+    "title":"arhayet -- synonyms, prabhupada.io",
+    "description":"one should propitiate."
+}
+---
 
 ==== arhayet  ====
   * one should propitiate --- [[books:sb:3:29:27|SB 3.29.27]]

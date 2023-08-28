@@ -1,5 +1,11 @@
-~~Title:yāiha~~
-{{description>go.}}
+---json
+{
+    "name":"yāiha",
+    "h1":"yāiha",
+    "title":"yāiha -- synonyms, prabhupada.io",
+    "description":"go."
+}
+---
 
 ==== yāiha  ====
   * go --- [[books:cc:madhya:6:62|Madhya 6.62]], [[books:cc:madhya:17:121|Madhya 17.121]]

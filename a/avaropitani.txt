@@ -1,5 +1,11 @@
-~~Title:avaropitāni~~
-{{description>put into disorder.}}
+---json
+{
+    "name":"avaropitāni",
+    "h1":"avaropitāni",
+    "title":"avaropitāni -- synonyms, prabhupada.io",
+    "description":"put into disorder."
+}
+---
 
 ==== avaropitāni  ====
   * put into disorder --- [[books:sb:1:16:22|SB 1.16.22]]

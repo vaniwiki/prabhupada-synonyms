@@ -1,5 +1,11 @@
-~~Title:ghoraya~~
-{{description>very dangerous.}}
+---json
+{
+    "name":"ghoraya",
+    "h1":"ghoraya",
+    "title":"ghoraya -- synonyms, prabhupada.io",
+    "description":"very dangerous."
+}
+---
 
 ==== ghorayā  ====
   * very dangerous --- [[books:sb:4:24:18|SB 4.24.18]]

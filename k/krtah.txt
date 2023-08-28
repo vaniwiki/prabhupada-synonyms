@@ -1,5 +1,11 @@
-~~Title:krtah~~
-{{description>accepted; applied; being done; bestowed; conducted; created; done; finished; fixed; has been done; has been done by You; have accepted; having been engaged; I did; if done; it was so done; Kṛta; made; made by you; male; of the creator; performed; performing; was done; was excavated; was made; while doing so.}}
+---json
+{
+    "name":"krtah",
+    "h1":"krtah",
+    "title":"krtah -- synonyms, prabhupada.io",
+    "description":"accepted; applied; being done; bestowed; conducted; created; done; finished; fixed; has been done; has been done by You; have accepted; having been engaged; I did; if done; it was so done; Kṛta; made; made by you; male; of the creator; performed; performing; was done; was excavated; was made; while doing so."
+}
+---
 
 ==== kṛtaḥ  ====
   * accepted --- [[books:sb:8:24:50|SB 8.24.50]]

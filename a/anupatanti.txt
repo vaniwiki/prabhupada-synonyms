@@ -1,5 +1,11 @@
-~~Title:anupatanti~~
-{{description>grieving.}}
+---json
+{
+    "name":"anupatanti",
+    "h1":"anupatanti",
+    "title":"anupatanti -- synonyms, prabhupada.io",
+    "description":"grieving."
+}
+---
 
 ==== anupatanti  ====
   * grieving --- [[books:sb:1:17:8|SB 1.17.8]]

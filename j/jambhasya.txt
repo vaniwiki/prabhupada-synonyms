@@ -1,5 +1,11 @@
-~~Title:jambhasya~~
-{{description>of Jambha; of the great demon Jambha.}}
+---json
+{
+    "name":"jambhasya",
+    "h1":"jambhasya",
+    "title":"jambhasya -- synonyms, prabhupada.io",
+    "description":"of Jambha; of the great demon Jambha."
+}
+---
 
 ==== jambhasya  ====
   * of Jambha --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

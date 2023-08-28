@@ -1,5 +1,11 @@
-~~Title:vyatikrama~~
-{{description>offense.}}
+---json
+{
+    "name":"vyatikrama",
+    "h1":"vyatikrama",
+    "title":"vyatikrama -- synonyms, prabhupada.io",
+    "description":"offense."
+}
+---
 
 ==== vyatikrama  ====
   * offense --- [[books:sb:3:16:12|SB 3.16.12]]

@@ -1,5 +1,11 @@
-~~Title:avikāra~~
-{{description>unchanged.}}
+---json
+{
+    "name":"avikāra",
+    "h1":"avikāra",
+    "title":"avikāra -- synonyms, prabhupada.io",
+    "description":"unchanged."
+}
+---
 
 ==== avikāra  ====
   * unchanged --- [[books:cc:madhya:6:171|Madhya 6.171]]

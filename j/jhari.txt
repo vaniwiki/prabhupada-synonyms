@@ -1,5 +1,11 @@
-~~Title:jhari~~
-{{description>the pot; water pitchers.}}
+---json
+{
+    "name":"jhari",
+    "h1":"jhari",
+    "title":"jhari -- synonyms, prabhupada.io",
+    "description":"the pot; water pitchers."
+}
+---
 
 ==== jhāri  ====
   * the pot --- [[books:cc:madhya:20:135|Madhya 20.135]]

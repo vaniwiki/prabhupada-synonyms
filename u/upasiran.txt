@@ -1,5 +1,11 @@
-~~Title:upāsīran~~
-{{description>being saved.}}
+---json
+{
+    "name":"upāsīran",
+    "h1":"upāsīran",
+    "title":"upāsīran -- synonyms, prabhupada.io",
+    "description":"being saved."
+}
+---
 
 ==== upāsīran  ====
   * being saved --- [[books:sb:3:7:37|SB 3.7.37]]

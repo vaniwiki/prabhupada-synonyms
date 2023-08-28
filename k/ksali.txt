@@ -1,5 +1,11 @@
-~~Title:kṣāli'~~
-{{description>purifying.}}
+---json
+{
+    "name":"kṣāli'",
+    "h1":"kṣāli'",
+    "title":"kṣāli' -- synonyms, prabhupada.io",
+    "description":"purifying."
+}
+---
 
 ==== kṣāli'  ====
   * purifying --- [[books:cc:adi:1:98|Ādi 1.98]]

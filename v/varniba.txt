@@ -1,5 +1,11 @@
-~~Title:varṇibā~~
-{{description>you will describe.}}
+---json
+{
+    "name":"varṇibā",
+    "h1":"varṇibā",
+    "title":"varṇibā -- synonyms, prabhupada.io",
+    "description":"you will describe."
+}
+---
 
 ==== varṇibā  ====
   * you will describe --- [[books:cc:antya:5:133|Antya 5.133]]

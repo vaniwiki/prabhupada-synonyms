@@ -1,5 +1,11 @@
-~~Title:argalaḥ~~
-{{description>like bolts.}}
+---json
+{
+    "name":"argalaḥ",
+    "h1":"argalaḥ",
+    "title":"argalaḥ -- synonyms, prabhupada.io",
+    "description":"like bolts."
+}
+---
 
 ==== argalaḥ  ====
   * like bolts --- [[books:cc:antya:15:78|Antya 15.78]]

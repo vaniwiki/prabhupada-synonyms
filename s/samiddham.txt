@@ -1,5 +1,11 @@
-~~Title:samiddham~~
-{{description>blazing.}}
+---json
+{
+    "name":"samiddham",
+    "h1":"samiddham",
+    "title":"samiddham -- synonyms, prabhupada.io",
+    "description":"blazing."
+}
+---
 
 ==== samiddham  ====
   * blazing --- [[books:sb:8:18:19|SB 8.18.19]]

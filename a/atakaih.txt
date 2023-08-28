@@ -1,5 +1,11 @@
-~~Title:āṭakaiḥ~~
-{{description>with crossroads.}}
+---json
+{
+    "name":"āṭakaiḥ",
+    "h1":"āṭakaiḥ",
+    "title":"āṭakaiḥ -- synonyms, prabhupada.io",
+    "description":"with crossroads."
+}
+---
 
 ==== śṛṅga-āṭakaiḥ  ====
   * with crossroads --- [[books:sb:8:15:16|SB 8.15.16]]

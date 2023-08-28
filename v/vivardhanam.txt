@@ -1,5 +1,11 @@
-~~Title:vivardhanam~~
-{{description>which will increase.}}
+---json
+{
+    "name":"vivardhanam",
+    "h1":"vivardhanam",
+    "title":"vivardhanam -- synonyms, prabhupada.io",
+    "description":"which will increase."
+}
+---
 
 ==== vivardhanam  ====
   * which will increase --- [[books:sb:4:14:14|SB 4.14.14]]

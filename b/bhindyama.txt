@@ -1,5 +1,11 @@
-~~Title:bhindyāma~~
-{{description>may give up.}}
+---json
+{
+    "name":"bhindyāma",
+    "h1":"bhindyāma",
+    "title":"bhindyāma -- synonyms, prabhupada.io",
+    "description":"may give up."
+}
+---
 
 ==== bhindyāma  ====
   * may give up --- [[books:sb:5:19:15|SB 5.19.15]]

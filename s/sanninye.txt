@@ -1,5 +1,11 @@
-~~Title:sanninye~~
-{{description>arranged for restarting.}}
+---json
+{
+    "name":"sanninye",
+    "h1":"sanninye",
+    "title":"sanninye -- synonyms, prabhupada.io",
+    "description":"arranged for restarting."
+}
+---
 
 ==== sanninye  ====
   * arranged for restarting --- [[books:sb:4:7:48|SB 4.7.48]]

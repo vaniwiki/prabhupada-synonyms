@@ -1,5 +1,11 @@
-~~Title:stabdhāya~~
-{{description>to the proud.}}
+---json
+{
+    "name":"stabdhāya",
+    "h1":"stabdhāya",
+    "title":"stabdhāya -- synonyms, prabhupada.io",
+    "description":"to the proud."
+}
+---
 
 ==== stabdhāya  ====
   * to the proud --- [[books:sb:3:32:39|SB 3.32.39]]

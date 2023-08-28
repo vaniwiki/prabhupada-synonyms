@@ -1,5 +1,11 @@
-~~Title:pañcajanam~~
-{{description>Pañcajana.}}
+---json
+{
+    "name":"pañcajanam",
+    "h1":"pañcajanam",
+    "title":"pañcajanam -- synonyms, prabhupada.io",
+    "description":"Pañcajana."
+}
+---
 
 ==== pañcajanam  ====
   * Pañcajana --- [[books:sb:6:18:14|SB 6.18.14]]

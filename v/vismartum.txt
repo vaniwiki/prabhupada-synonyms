@@ -1,5 +1,11 @@
-~~Title:vismartum~~
-{{description>to forget.}}
+---json
+{
+    "name":"vismartum",
+    "h1":"vismartum",
+    "title":"vismartum -- synonyms, prabhupada.io",
+    "description":"to forget."
+}
+---
 
 ==== vismartum  ====
   * to forget --- [[books:sb:3:2:18|SB 3.2.18]]

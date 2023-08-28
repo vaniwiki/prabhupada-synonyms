@@ -1,5 +1,11 @@
-~~Title:aṅgāni~~
-{{description>branches; his limbs; limbs; the limbs of the body; their bodies.}}
+---json
+{
+    "name":"aṅgāni",
+    "h1":"aṅgāni",
+    "title":"aṅgāni -- synonyms, prabhupada.io",
+    "description":"branches; his limbs; limbs; the limbs of the body; their bodies."
+}
+---
 
 ==== aṅgāni  ====
   * branches --- [[books:sb:3:25:29|SB 3.25.29]]

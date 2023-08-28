@@ -1,5 +1,11 @@
-~~Title:randhiḥ~~
-{{description>the center of the rice within the milk becomes cooked.}}
+---json
+{
+    "name":"randhiḥ",
+    "h1":"randhiḥ",
+    "title":"randhiḥ -- synonyms, prabhupada.io",
+    "description":"the center of the rice within the milk becomes cooked."
+}
+---
 
 ==== taṇḍula-garbha-randhiḥ  ====
   * the center of the rice within the milk becomes cooked --- [[books:sb:5:10:22|SB 5.10.22]]

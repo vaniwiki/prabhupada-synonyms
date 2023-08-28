@@ -1,5 +1,11 @@
-~~Title:viḍambi~~
-{{description>deriding.}}
+---json
+{
+    "name":"viḍambi",
+    "h1":"viḍambi",
+    "title":"viḍambi -- synonyms, prabhupada.io",
+    "description":"deriding."
+}
+---
 
 ==== viḍambi  ====
   * deriding --- [[books:cc:antya:1:165|Antya 1.165]]

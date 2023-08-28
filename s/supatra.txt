@@ -1,5 +1,11 @@
-~~Title:supātra~~
-{{description>of fitness.}}
+---json
+{
+    "name":"supātra",
+    "h1":"supātra",
+    "title":"supātra -- synonyms, prabhupada.io",
+    "description":"of fitness."
+}
+---
 
 ==== supātra  ====
   * of fitness --- [[books:cc:madhya:23:72|Madhya 23.72]]

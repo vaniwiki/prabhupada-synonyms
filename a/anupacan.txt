@@ -1,5 +1,11 @@
-~~Title:anupacan~~
-{{description>always digesting.}}
+---json
+{
+    "name":"anupacan",
+    "h1":"anupacan",
+    "title":"anupacan -- synonyms, prabhupada.io",
+    "description":"always digesting."
+}
+---
 
 ==== anupacan  ====
   * always digesting --- [[books:sb:8:5:35|SB 8.5.35]]

@@ -1,5 +1,11 @@
-~~Title:nināya~~
-{{description>delivered.}}
+---json
+{
+    "name":"nināya",
+    "h1":"nināya",
+    "title":"nināya -- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== nināya  ====
   * delivered --- [[books:sb:4:11:5|SB 4.11.5]]

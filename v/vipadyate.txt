@@ -1,5 +1,11 @@
-~~Title:vipadyate~~
-{{description>becomes endangered.}}
+---json
+{
+    "name":"vipadyate",
+    "h1":"vipadyate",
+    "title":"vipadyate -- synonyms, prabhupada.io",
+    "description":"becomes endangered."
+}
+---
 
 ==== vipadyate  ====
   * becomes endangered --- [[books:sb:8:19:36|SB 8.19.36]]

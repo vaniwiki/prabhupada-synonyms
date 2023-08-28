@@ -1,5 +1,11 @@
-~~Title:aindriyakam~~
-{{description>knowledge derived from the senses; produced by the senses; with reference to the material senses.}}
+---json
+{
+    "name":"aindriyakam",
+    "h1":"aindriyakam",
+    "title":"aindriyakam -- synonyms, prabhupada.io",
+    "description":"knowledge derived from the senses; produced by the senses; with reference to the material senses."
+}
+---
 
 ==== aindriyakam  ====
   * knowledge derived from the senses --- [[books:sb:7:15:58|SB 7.15.58]]

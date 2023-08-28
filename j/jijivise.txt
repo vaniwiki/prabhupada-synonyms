@@ -1,5 +1,11 @@
-~~Title:jijīviṣe~~
-{{description>wish to live long.}}
+---json
+{
+    "name":"jijīviṣe",
+    "h1":"jijīviṣe",
+    "title":"jijīviṣe -- synonyms, prabhupada.io",
+    "description":"wish to live long."
+}
+---
 
 ==== jijīviṣe  ====
   * wish to live long --- [[books:sb:8:3:25|SB 8.3.25]]

@@ -1,5 +1,11 @@
-~~Title:juṣā~~
-{{description>who is living in a solitary place within the core of the heart.}}
+---json
+{
+    "name":"juṣā",
+    "h1":"juṣā",
+    "title":"juṣā -- synonyms, prabhupada.io",
+    "description":"who is living in a solitary place within the core of the heart."
+}
+---
 
 ==== rahaḥ-juṣā  ====
   * who is living in a solitary place within the core of the heart --- [[books:sb:10:4:36|SB 10.4.36]]

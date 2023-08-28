@@ -1,5 +1,11 @@
-~~Title:viprere~~
-{{description>brāhmaṇa.}}
+---json
+{
+    "name":"viprere",
+    "h1":"viprere",
+    "title":"viprere -- synonyms, prabhupada.io",
+    "description":"brāhmaṇa."
+}
+---
 
 ==== viprere  ====
   * //brāhmaṇa// --- [[books:cc:madhya:5:56|Madhya 5.56]]

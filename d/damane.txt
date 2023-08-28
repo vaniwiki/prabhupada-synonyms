@@ -1,5 +1,11 @@
-~~Title:damane~~
-{{description>curbed.}}
+---json
+{
+    "name":"damane",
+    "h1":"damane",
+    "title":"damane -- synonyms, prabhupada.io",
+    "description":"curbed."
+}
+---
 
 ==== damane  ====
   * curbed --- [[books:sb:1:17:14|SB 1.17.14]]

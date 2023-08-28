@@ -1,5 +1,11 @@
-~~Title:akarmaṇi~~
-{{description>in inaction; in not doing.}}
+---json
+{
+    "name":"akarmaṇi",
+    "h1":"akarmaṇi",
+    "title":"akarmaṇi -- synonyms, prabhupada.io",
+    "description":"in inaction; in not doing."
+}
+---
 
 ==== akarmaṇi  ====
   * in inaction --- [[books:bg:4:18|Bg. 4.18]]

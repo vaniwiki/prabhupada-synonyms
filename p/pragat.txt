@@ -1,5 +1,11 @@
-~~Title:prāgāt~~
-{{description>he went.}}
+---json
+{
+    "name":"prāgāt",
+    "h1":"prāgāt",
+    "title":"prāgāt -- synonyms, prabhupada.io",
+    "description":"he went."
+}
+---
 
 ==== prāgāt  ====
   * he went --- [[books:sb:1:9:1|SB 1.9.1]]

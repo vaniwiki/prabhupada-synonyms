@@ -1,5 +1,11 @@
-~~Title:apārayan~~
-{{description>being unable.}}
+---json
+{
+    "name":"apārayan",
+    "h1":"apārayan",
+    "title":"apārayan -- synonyms, prabhupada.io",
+    "description":"being unable."
+}
+---
 
 ==== apārayan  ====
   * being unable --- [[books:sb:8:2:31|SB 8.2.31]]

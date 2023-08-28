@@ -1,5 +1,11 @@
-~~Title:ālālita~~
-{{description>whose body is covered.}}
+---json
+{
+    "name":"ālālita",
+    "h1":"ālālita",
+    "title":"ālālita -- synonyms, prabhupada.io",
+    "description":"whose body is covered."
+}
+---
 
 ==== ālālita-tanuḥ  ====
   * whose body is covered --- [[books:cc:madhya:14:194|Madhya 14.194]]

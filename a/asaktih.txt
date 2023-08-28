@@ -1,5 +1,11 @@
-~~Title:asaktih~~
-{{description>without attachment.}}
+---json
+{
+    "name":"asaktih",
+    "h1":"asaktih",
+    "title":"asaktih -- synonyms, prabhupada.io",
+    "description":"without attachment."
+}
+---
 
 ==== asaktiḥ  ====
   * without attachment --- [[books:bg:13:8-12|Bg. 13.8-12]]

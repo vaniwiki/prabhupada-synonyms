@@ -1,5 +1,11 @@
-~~Title:gṛhyatām~~
-{{description>please accept; you can take.}}
+---json
+{
+    "name":"gṛhyatām",
+    "h1":"gṛhyatām",
+    "title":"gṛhyatām -- synonyms, prabhupada.io",
+    "description":"please accept; you can take."
+}
+---
 
 ==== gṛhyatām  ====
   * please accept --- [[books:sb:9:20:14|SB 9.20.14]]

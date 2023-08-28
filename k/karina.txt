@@ -1,5 +1,11 @@
-~~Title:karina~~
-{{description>accepting; doing; making; showing; squeezing; taking as.}}
+---json
+{
+    "name":"karina",
+    "h1":"karina",
+    "title":"karina -- synonyms, prabhupada.io",
+    "description":"accepting; doing; making; showing; squeezing; taking as."
+}
+---
 
 ==== kariñā  ====
   * accepting --- [[books:cc:madhya:3:177|Madhya 3.177]]

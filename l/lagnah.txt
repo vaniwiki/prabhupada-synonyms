@@ -1,5 +1,11 @@
-~~Title:lagnaḥ~~
-{{description>attachment.}}
+---json
+{
+    "name":"lagnaḥ",
+    "h1":"lagnaḥ",
+    "title":"lagnaḥ -- synonyms, prabhupada.io",
+    "description":"attachment."
+}
+---
 
 ==== lagnaḥ  ====
   * attachment --- [[books:cc:antya:1:142|Antya 1.142]]

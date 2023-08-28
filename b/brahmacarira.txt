@@ -1,5 +1,11 @@
-~~Title:brahmacārīra~~
-{{description>of a brahmacārī named Nakula.}}
+---json
+{
+    "name":"brahmacārīra",
+    "h1":"brahmacārīra",
+    "title":"brahmacārīra -- synonyms, prabhupada.io",
+    "description":"of a brahmacārī named Nakula."
+}
+---
 
 ==== nakula-brahmacārīra  ====
   * of a //brahmacārī// named Nakula --- [[books:cc:antya:2:5-6|Antya 2.5-6]]

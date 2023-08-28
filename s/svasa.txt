@@ -1,5 +1,11 @@
-~~Title:svasa~~
-{{description>sister.}}
+---json
+{
+    "name":"svasa",
+    "h1":"svasa",
+    "title":"svasa -- synonyms, prabhupada.io",
+    "description":"sister."
+}
+---
 
 ==== svasā  ====
   * sister --- [[books:sb:3:22:9|SB 3.22.9]], [[books:sb:4:8:3|SB 4.8.3]], [[books:sb:9:24:16-18|SB 9.24.16-18]]

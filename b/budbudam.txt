@@ -1,5 +1,11 @@
-~~Title:budbudam~~
-{{description>a bubble.}}
+---json
+{
+    "name":"budbudam",
+    "h1":"budbudam",
+    "title":"budbudam -- synonyms, prabhupada.io",
+    "description":"a bubble."
+}
+---
 
 ==== budbudam  ====
   * a bubble --- [[books:sb:3:31:2|SB 3.31.2]]

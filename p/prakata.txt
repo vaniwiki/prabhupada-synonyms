@@ -1,5 +1,11 @@
-~~Title:prakata~~
-{{description>appearance; discovering; displayed; exhibited; exhibition; known; manifest; manifestation; manifested; manifesting; visible.}}
+---json
+{
+    "name":"prakata",
+    "h1":"prakata",
+    "title":"prakata -- synonyms, prabhupada.io",
+    "description":"appearance; discovering; displayed; exhibited; exhibition; known; manifest; manifestation; manifested; manifesting; visible."
+}
+---
 
 ==== prakaṭa  ====
   * appearance --- [[books:cc:madhya:4:98|Madhya 4.98]]

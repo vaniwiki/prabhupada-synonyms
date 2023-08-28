@@ -1,5 +1,11 @@
-~~Title:yāre~~
-{{description>anyone; He whom; in which; to anyone; to whom; to whomever; unto whom; upon whom; which; whoever; whom; whomever.}}
+---json
+{
+    "name":"yāre",
+    "h1":"yāre",
+    "title":"yāre -- synonyms, prabhupada.io",
+    "description":"anyone; He whom; in which; to anyone; to whom; to whomever; unto whom; upon whom; which; whoever; whom; whomever."
+}
+---
 
 ==== yāre  ====
   * anyone --- [[books:cc:adi:9:36|Ādi 9.36]]

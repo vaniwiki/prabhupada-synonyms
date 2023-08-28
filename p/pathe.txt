@@ -1,5 +1,11 @@
-~~Title:pathe~~
-{{description>along the way; by the path; on the path; on the road; on the way.}}
+---json
+{
+    "name":"pathe",
+    "h1":"pathe",
+    "title":"pathe -- synonyms, prabhupada.io",
+    "description":"along the way; by the path; on the path; on the road; on the way."
+}
+---
 
 ==== pathe  ====
   * along the way --- [[books:cc:madhya:9:341|Madhya 9.341]]

@@ -1,5 +1,11 @@
-~~Title:tarajāra~~
-{{description>of the sonnet.}}
+---json
+{
+    "name":"tarajāra",
+    "h1":"tarajāra",
+    "title":"tarajāra -- synonyms, prabhupada.io",
+    "description":"of the sonnet."
+}
+---
 
 ==== tarajāra  ====
   * of the sonnet --- [[books:cc:antya:19:27|Antya 19.27]], [[books:cc:antya:19:28|Antya 19.28]]

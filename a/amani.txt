@@ -1,5 +1,11 @@
-~~Title:amānī~~
-{{description>not expecting any respect; without false prestige.}}
+---json
+{
+    "name":"amānī",
+    "h1":"amānī",
+    "title":"amānī -- synonyms, prabhupada.io",
+    "description":"not expecting any respect; without false prestige."
+}
+---
 
 ==== amānī  ====
   * not expecting any respect --- [[books:cc:antya:6:237|Antya 6.237]]

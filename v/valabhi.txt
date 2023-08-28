@@ -1,5 +1,11 @@
-~~Title:valabhī~~
-{{description>the frontage of great palaces.}}
+---json
+{
+    "name":"valabhī",
+    "h1":"valabhī",
+    "title":"valabhī -- synonyms, prabhupada.io",
+    "description":"the frontage of great palaces."
+}
+---
 
 ==== valabhī  ====
   * the frontage of great palaces --- [[books:sb:9:10:17|SB 9.10.17]]

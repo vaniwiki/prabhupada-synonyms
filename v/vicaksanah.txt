@@ -1,5 +1,11 @@
-~~Title:vicaksanah~~
-{{description>very expert.}}
+---json
+{
+    "name":"vicaksanah",
+    "h1":"vicaksanah",
+    "title":"vicaksanah -- synonyms, prabhupada.io",
+    "description":"very expert."
+}
+---
 
 ==== vicakṣaṇaḥ  ====
   * very expert --- [[books:sb:1:5:16|SB 1.5.16]]

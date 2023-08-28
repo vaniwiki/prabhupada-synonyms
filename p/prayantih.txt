@@ -1,5 +1,11 @@
-~~Title:prayāntīḥ~~
-{{description>going.}}
+---json
+{
+    "name":"prayāntīḥ",
+    "h1":"prayāntīḥ",
+    "title":"prayāntīḥ -- synonyms, prabhupada.io",
+    "description":"going."
+}
+---
 
 ==== prayāntīḥ  ====
   * going --- [[books:sb:4:3:12|SB 4.3.12]]

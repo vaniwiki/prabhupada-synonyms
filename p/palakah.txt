@@ -1,5 +1,11 @@
-~~Title:palakah~~
-{{description>although ruling princes.}}
+---json
+{
+    "name":"palakah",
+    "h1":"palakah",
+    "title":"palakah -- synonyms, prabhupada.io",
+    "description":"although ruling princes."
+}
+---
 
 ==== pālakāḥ  ====
   * although ruling princes --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

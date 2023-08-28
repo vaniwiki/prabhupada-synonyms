@@ -1,5 +1,11 @@
-~~Title:paribhramat~~
-{{description>wheeling.}}
+---json
+{
+    "name":"paribhramat",
+    "h1":"paribhramat",
+    "title":"paribhramat -- synonyms, prabhupada.io",
+    "description":"wheeling."
+}
+---
 
 ==== paribhramat  ====
   * wheeling --- [[books:sb:3:19:26|SB 3.19.26]]

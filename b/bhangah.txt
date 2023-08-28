@@ -1,5 +1,11 @@
-~~Title:bhaṅgaḥ~~
-{{description>detachment.}}
+---json
+{
+    "name":"bhaṅgaḥ",
+    "h1":"bhaṅgaḥ",
+    "title":"bhaṅgaḥ -- synonyms, prabhupada.io",
+    "description":"detachment."
+}
+---
 
 ==== bhaṅgaḥ  ====
   * detachment --- [[books:sb:2:8:20|SB 2.8.20]]

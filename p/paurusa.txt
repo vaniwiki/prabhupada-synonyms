@@ -1,5 +1,11 @@
-~~Title:pauruṣa~~
-{{description>diligence; great deeds.}}
+---json
+{
+    "name":"pauruṣa",
+    "h1":"pauruṣa",
+    "title":"pauruṣa -- synonyms, prabhupada.io",
+    "description":"diligence; great deeds."
+}
+---
 
 ==== pauruṣa  ====
   * diligence --- [[books:sb:7:9:9|SB 7.9.9]]

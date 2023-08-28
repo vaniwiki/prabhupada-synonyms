@@ -1,5 +1,11 @@
-~~Title:abhyavarṣat~~
-{{description>He poured water.}}
+---json
+{
+    "name":"abhyavarṣat",
+    "h1":"abhyavarṣat",
+    "title":"abhyavarṣat -- synonyms, prabhupada.io",
+    "description":"He poured water."
+}
+---
 
 ==== abhyavarṣat  ====
   * He poured water --- [[books:sb:5:4:3|SB 5.4.3]]

@@ -1,5 +1,11 @@
-~~Title:malina~~
-{{description>contaminated; dirty.}}
+---json
+{
+    "name":"malina",
+    "h1":"malina",
+    "title":"malina -- synonyms, prabhupada.io",
+    "description":"contaminated; dirty."
+}
+---
 
 ==== malina  ====
   * contaminated --- [[books:cc:antya:6:278|Antya 6.278]], [[books:cc:antya:6:279|Antya 6.279]]

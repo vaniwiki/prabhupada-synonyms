@@ -1,5 +1,11 @@
-~~Title:pūryate~~
-{{description>cannot be satisfied.}}
+---json
+{
+    "name":"pūryate",
+    "h1":"pūryate",
+    "title":"pūryate -- synonyms, prabhupada.io",
+    "description":"cannot be satisfied."
+}
+---
 
 ==== na pūryate  ====
   * cannot be satisfied --- [[books:sb:8:19:22|SB 8.19.22]]

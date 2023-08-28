@@ -1,5 +1,11 @@
-~~Title:kuti~~
-{{description>eyebrows; of her eyebrows.}}
+---json
+{
+    "name":"kuti",
+    "h1":"kuti",
+    "title":"kuti -- synonyms, prabhupada.io",
+    "description":"eyebrows; of her eyebrows."
+}
+---
 
 ==== bhru-kuṭi  ====
   * eyebrows --- [[books:sb:2:7:14|SB 2.7.14]]

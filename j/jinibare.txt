@@ -1,5 +1,11 @@
-~~Title:jinibāre~~
-{{description>to win.}}
+---json
+{
+    "name":"jinibāre",
+    "h1":"jinibāre",
+    "title":"jinibāre -- synonyms, prabhupada.io",
+    "description":"to win."
+}
+---
 
 ==== jinibāre  ====
   * to win --- [[books:cc:madhya:5:64|Madhya 5.64]]

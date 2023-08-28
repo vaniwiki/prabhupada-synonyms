@@ -1,5 +1,11 @@
-~~Title:upāvṛtya~~
-{{description>approaching.}}
+---json
+{
+    "name":"upāvṛtya",
+    "h1":"upāvṛtya",
+    "title":"upāvṛtya -- synonyms, prabhupada.io",
+    "description":"approaching."
+}
+---
 
 ==== upāvṛtya  ====
   * approaching --- [[books:sb:9:5:1|SB 9.5.1]]

@@ -1,5 +1,11 @@
-~~Title:mṛga~~
-{{description>animals; beasts; deer; hunting; the animals; wild beasts.}}
+---json
+{
+    "name":"mṛga",
+    "h1":"mṛga",
+    "title":"mṛga -- synonyms, prabhupada.io",
+    "description":"animals; beasts; deer; hunting; the animals; wild beasts."
+}
+---
 
 ==== mṛga  ====
   * animals --- [[books:sb:2:6:43-45|SB 2.6.43-45]], [[books:sb:3:21:40|SB 3.21.40]], [[books:sb:4:7:28|SB 4.7.28]], [[books:sb:4:25:19|SB 4.25.19]], [[books:cc:madhya:24:58|Madhya 24.58]]

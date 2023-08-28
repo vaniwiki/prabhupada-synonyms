@@ -1,5 +1,11 @@
-~~Title:śūle~~
-{{description>on his spear.}}
+---json
+{
+    "name":"śūle",
+    "h1":"śūle",
+    "title":"śūle -- synonyms, prabhupada.io",
+    "description":"on his spear."
+}
+---
 
 ==== śūle  ====
   * on his spear --- [[books:sb:6:9:13-17|SB 6.9.13-17]]

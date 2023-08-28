@@ -1,5 +1,11 @@
-~~Title:visada~~
-{{description>bright; elaborate description; spotless; uncontaminated; white.}}
+---json
+{
+    "name":"visada",
+    "h1":"visada",
+    "title":"visada -- synonyms, prabhupada.io",
+    "description":"bright; elaborate description; spotless; uncontaminated; white."
+}
+---
 
 ==== viśada  ====
   * bright --- [[books:sb:4:16:9|SB 4.16.9]], [[books:sb:6:9:41|SB 6.9.41]]

@@ -1,5 +1,11 @@
-~~Title:daṅkṣyati~~
-{{description>will bite.}}
+---json
+{
+    "name":"daṅkṣyati",
+    "h1":"daṅkṣyati",
+    "title":"daṅkṣyati -- synonyms, prabhupada.io",
+    "description":"will bite."
+}
+---
 
 ==== daṅkṣyati  ====
   * will bite --- [[books:sb:1:18:37|SB 1.18.37]]

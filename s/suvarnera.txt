@@ -1,5 +1,11 @@
-~~Title:suvarṇera~~
-{{description>made of gold; of gold.}}
+---json
+{
+    "name":"suvarṇera",
+    "h1":"suvarṇera",
+    "title":"suvarṇera -- synonyms, prabhupada.io",
+    "description":"made of gold; of gold."
+}
+---
 
 ==== suvarṇera  ====
   * made of gold --- [[books:cc:adi:13:112|Ādi 13.112]], [[books:cc:madhya:14:128|Madhya 14.128]]

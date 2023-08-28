@@ -1,5 +1,11 @@
-~~Title:rosa~~
-{{description>and anger; and wrath; anger; angry; in anger.}}
+---json
+{
+    "name":"rosa",
+    "h1":"rosa",
+    "title":"rosa -- synonyms, prabhupada.io",
+    "description":"and anger; and wrath; anger; angry; in anger."
+}
+---
 
 ==== roṣa  ====
   * and anger --- [[books:cc:madhya:6:113|Madhya 6.113]]

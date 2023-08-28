@@ -1,5 +1,11 @@
-~~Title:ākhyāna~~
-{{description>by recitation of historical narrations; calling; description; has the name of; named; narration; narrations; the elaboration; the explanation.}}
+---json
+{
+    "name":"ākhyāna",
+    "h1":"ākhyāna",
+    "title":"ākhyāna -- synonyms, prabhupada.io",
+    "description":"by recitation of historical narrations; calling; description; has the name of; named; narration; narrations; the elaboration; the explanation."
+}
+---
 
 ==== ākhyāna  ====
   * by recitation of historical narrations --- [[books:sb:1:9:28|SB 1.9.28]]

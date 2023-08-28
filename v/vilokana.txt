@@ -1,5 +1,11 @@
-~~Title:vilokana~~
-{{description>glancing.}}
+---json
+{
+    "name":"vilokana",
+    "h1":"vilokana",
+    "title":"vilokana -- synonyms, prabhupada.io",
+    "description":"glancing."
+}
+---
 
 ==== vilokana  ====
   * glancing --- [[books:cc:madhya:6:145-146|Madhya 6.145-146]]

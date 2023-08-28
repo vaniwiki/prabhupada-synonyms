@@ -1,5 +1,11 @@
-~~Title:vāva~~
-{{description>certainly; indeed; wonderful.}}
+---json
+{
+    "name":"vāva",
+    "h1":"vāva",
+    "title":"vāva -- synonyms, prabhupada.io",
+    "description":"certainly; indeed; wonderful."
+}
+---
 
 ==== vāva  ====
   * certainly --- [[books:sb:2:9:3|SB 2.9.3]]

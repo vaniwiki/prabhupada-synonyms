@@ -1,5 +1,11 @@
-~~Title:jagatīm~~
-{{description>earth; in the form of the world; the universe; the whole world.}}
+---json
+{
+    "name":"jagatīm",
+    "h1":"jagatīm",
+    "title":"jagatīm -- synonyms, prabhupada.io",
+    "description":"earth; in the form of the world; the universe; the whole world."
+}
+---
 
 ==== jagatīm  ====
   * earth --- [[books:sb:3:13:32|SB 3.13.32]], [[books:sb:5:6:7|SB 5.6.7]]

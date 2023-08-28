@@ -1,5 +1,11 @@
-~~Title:abdhim~~
-{{description>the ocean of milk; to the ocean of milk.}}
+---json
+{
+    "name":"abdhim",
+    "h1":"abdhim",
+    "title":"abdhim -- synonyms, prabhupada.io",
+    "description":"the ocean of milk; to the ocean of milk."
+}
+---
 
 ==== abdhim  ====
   * the ocean of milk --- [[books:sb:8:7:1|SB 8.7.1]], [[books:sb:8:7:13|SB 8.7.13]]

@@ -1,5 +1,11 @@
-~~Title:vākyena~~
-{{description>words.}}
+---json
+{
+    "name":"vākyena",
+    "h1":"vākyena",
+    "title":"vākyena -- synonyms, prabhupada.io",
+    "description":"words."
+}
+---
 
 ==== vākyena  ====
   * words --- [[books:bg:3:2|Bg. 3.2]]

@@ -1,5 +1,11 @@
-~~Title:pūjane~~
-{{description>in worshiping the Deity of the Lord.}}
+---json
+{
+    "name":"pūjane",
+    "h1":"pūjane",
+    "title":"pūjane -- synonyms, prabhupada.io",
+    "description":"in worshiping the Deity of the Lord."
+}
+---
 
 ==== pūjane  ====
   * in worshiping the Deity of the Lord --- [[books:cc:madhya:22:136|Madhya 22.136]]

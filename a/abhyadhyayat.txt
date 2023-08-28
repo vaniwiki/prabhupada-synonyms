@@ -1,5 +1,11 @@
-~~Title:abhyadhyāyat~~
-{{description>he thought.}}
+---json
+{
+    "name":"abhyadhyāyat",
+    "h1":"abhyadhyāyat",
+    "title":"abhyadhyāyat -- synonyms, prabhupada.io",
+    "description":"he thought."
+}
+---
 
 ==== abhyadhyāyat  ====
   * he thought --- [[books:sb:5:7:6|SB 5.7.6]]

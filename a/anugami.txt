@@ -1,5 +1,11 @@
-~~Title:anugāmī~~
-{{description>following.}}
+---json
+{
+    "name":"anugāmī",
+    "h1":"anugāmī",
+    "title":"anugāmī -- synonyms, prabhupada.io",
+    "description":"following."
+}
+---
 
 ==== anugāmī  ====
   * following --- [[books:noi:8|NoI 8]]

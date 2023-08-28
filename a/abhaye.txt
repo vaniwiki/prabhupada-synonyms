@@ -1,5 +1,11 @@
-~~Title:abhaye~~
-{{description>fearlessness.}}
+---json
+{
+    "name":"abhaye",
+    "h1":"abhaye",
+    "title":"abhaye -- synonyms, prabhupada.io",
+    "description":"fearlessness."
+}
+---
 
 ==== abhaye  ====
   * fearlessness --- [[books:bg:18:30|Bg. 18.30]]

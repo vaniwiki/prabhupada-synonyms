@@ -1,5 +1,11 @@
-~~Title:cīrṇam~~
-{{description>has been done for a very long time; practiced.}}
+---json
+{
+    "name":"cīrṇam",
+    "h1":"cīrṇam",
+    "title":"cīrṇam -- synonyms, prabhupada.io",
+    "description":"has been done for a very long time; practiced."
+}
+---
 
 ==== cīrṇam  ====
   * has been done for a very long time --- [[books:sb:10:7:32|SB 10.7.32]]

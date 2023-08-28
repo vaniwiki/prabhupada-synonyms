@@ -1,5 +1,11 @@
-~~Title:udyānam~~
-{{description>a garden.}}
+---json
+{
+    "name":"udyānam",
+    "h1":"udyānam",
+    "title":"udyānam -- synonyms, prabhupada.io",
+    "description":"a garden."
+}
+---
 
 ==== udyānam  ====
   * a garden --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

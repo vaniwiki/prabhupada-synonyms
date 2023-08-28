@@ -1,5 +1,11 @@
-~~Title:mukhān~~
-{{description>headed by Kṛṣṇa.}}
+---json
+{
+    "name":"mukhān",
+    "h1":"mukhān",
+    "title":"mukhān -- synonyms, prabhupada.io",
+    "description":"headed by Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇa-mukhān  ====
   * headed by Kṛṣṇa --- [[books:sb:10:12:14|SB 10.12.14]]

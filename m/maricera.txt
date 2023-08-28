@@ -1,5 +1,11 @@
-~~Title:maricera~~
-{{description>a pungent preparation made with black pepper; a pungent preparation with black pepper.}}
+---json
+{
+    "name":"maricera",
+    "h1":"maricera",
+    "title":"maricera -- synonyms, prabhupada.io",
+    "description":"a pungent preparation made with black pepper; a pungent preparation with black pepper."
+}
+---
 
 ==== maricera jhāla  ====
   * a pungent preparation made with black pepper --- [[books:cc:madhya:15:210|Madhya 15.210]]

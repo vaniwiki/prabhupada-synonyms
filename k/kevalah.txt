@@ -1,5 +1,11 @@
-~~Title:kevalaḥ~~
-{{description>was named Kevala.}}
+---json
+{
+    "name":"kevalaḥ",
+    "h1":"kevalaḥ",
+    "title":"kevalaḥ -- synonyms, prabhupada.io",
+    "description":"was named Kevala."
+}
+---
 
 ==== kevalaḥ  ====
   * was named Kevala --- [[books:sb:9:2:30|SB 9.2.30]]

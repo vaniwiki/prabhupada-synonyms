@@ -1,5 +1,11 @@
-~~Title:avalibhih~~
-{{description>assemblage.}}
+---json
+{
+    "name":"avalibhih",
+    "h1":"avalibhih",
+    "title":"avalibhih -- synonyms, prabhupada.io",
+    "description":"assemblage."
+}
+---
 
 ==== avalibhiḥ  ====
   * assemblage --- [[books:sb:2:9:13|SB 2.9.13]]

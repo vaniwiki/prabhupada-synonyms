@@ -1,5 +1,11 @@
-~~Title:khāyena~~
-{{description>eat; eats.}}
+---json
+{
+    "name":"khāyena",
+    "h1":"khāyena",
+    "title":"khāyena -- synonyms, prabhupada.io",
+    "description":"eat; eats."
+}
+---
 
 ==== khāyena  ====
   * eat --- [[books:cc:adi:17:86|Ādi 17.86]]

@@ -1,5 +1,11 @@
-~~Title:vrnda~~
-{{description>by a multitude; groups; multitude.}}
+---json
+{
+    "name":"vrnda",
+    "h1":"vrnda",
+    "title":"vrnda -- synonyms, prabhupada.io",
+    "description":"by a multitude; groups; multitude."
+}
+---
 
 ==== vṛnda  ====
   * by a multitude --- [[books:sb:3:28:30|SB 3.28.30]]

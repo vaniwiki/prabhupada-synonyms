@@ -1,5 +1,11 @@
-~~Title:laṅghite~~
-{{description>cannot deny.}}
+---json
+{
+    "name":"laṅghite",
+    "h1":"laṅghite",
+    "title":"laṅghite -- synonyms, prabhupada.io",
+    "description":"cannot deny."
+}
+---
 
 ==== nā pāre laṅghite  ====
   * cannot deny --- [[books:cc:antya:7:107|Antya 7.107]]

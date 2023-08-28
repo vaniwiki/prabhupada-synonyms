@@ -1,5 +1,11 @@
-~~Title:madhava~~
-{{description>Bindu Mādhava; Lord Kṛṣṇa; Mādhava; Mādhavendra Purī; O Kṛṣṇa, husband of the goddess of fortune; O Lord, husband of the goddess of fortune; O master of all energies; of the name Mādhava; the predominating Deity there, Veṇī Mādhava; Śrī Kṛṣṇa.}}
+---json
+{
+    "name":"madhava",
+    "h1":"madhava",
+    "title":"madhava -- synonyms, prabhupada.io",
+    "description":"Bindu Mādhava; Lord Kṛṣṇa; Mādhava; Mādhavendra Purī; O Kṛṣṇa, husband of the goddess of fortune; O Lord, husband of the goddess of fortune; O master of all energies; of the name Mādhava; the predominating Deity there, Veṇī Mādhava; Śrī Kṛṣṇa."
+}
+---
 
 ==== mādhava  ====
   * Bindu Mādhava --- [[books:cc:madhya:20:216|Madhya 20.216]]

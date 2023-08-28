@@ -1,5 +1,11 @@
-~~Title:sikdāra~~
-{{description>to the commander.}}
+---json
+{
+    "name":"sikdāra",
+    "h1":"sikdāra",
+    "title":"sikdāra -- synonyms, prabhupada.io",
+    "description":"to the commander."
+}
+---
 
 ==== sikdāra-pāśa  ====
   * to the commander --- [[books:cc:madhya:18:168|Madhya 18.168]]

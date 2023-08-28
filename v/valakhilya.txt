@@ -1,5 +1,11 @@
-~~Title:vālakhilya~~
-{{description>one who quits his former stock of grains on receipt of more.}}
+---json
+{
+    "name":"vālakhilya",
+    "h1":"vālakhilya",
+    "title":"vālakhilya -- synonyms, prabhupada.io",
+    "description":"one who quits his former stock of grains on receipt of more."
+}
+---
 
 ==== vālakhilya  ====
   * one who quits his former stock of grains on receipt of more --- [[books:sb:3:12:43|SB 3.12.43]]

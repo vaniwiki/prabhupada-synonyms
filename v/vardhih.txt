@@ -1,5 +1,11 @@
-~~Title:vārdhiḥ~~
-{{description>the ocean.}}
+---json
+{
+    "name":"vārdhiḥ",
+    "h1":"vārdhiḥ",
+    "title":"vārdhiḥ -- synonyms, prabhupada.io",
+    "description":"the ocean."
+}
+---
 
 ==== vārdhiḥ  ====
   * the ocean --- [[books:sb:3:17:7|SB 3.17.7]]

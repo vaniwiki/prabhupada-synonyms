@@ -1,5 +1,11 @@
-~~Title:śunakaḥ~~
-{{description>Śunaka.}}
+---json
+{
+    "name":"śunakaḥ",
+    "h1":"śunakaḥ",
+    "title":"śunakaḥ -- synonyms, prabhupada.io",
+    "description":"Śunaka."
+}
+---
 
 ==== śunakaḥ  ====
   * Śunaka --- [[books:sb:9:13:26|SB 9.13.26]], [[books:sb:9:17:1-3|SB 9.17.1-3]]

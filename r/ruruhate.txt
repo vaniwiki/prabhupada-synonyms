@@ -1,5 +1,11 @@
-~~Title:ruruhāte~~
-{{description>being manifested.}}
+---json
+{
+    "name":"ruruhāte",
+    "h1":"ruruhāte",
+    "title":"ruruhāte -- synonyms, prabhupada.io",
+    "description":"being manifested."
+}
+---
 
 ==== ruruhāte  ====
   * being manifested --- [[books:sb:2:10:25|SB 2.10.25]]

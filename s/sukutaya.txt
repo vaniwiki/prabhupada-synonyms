@@ -1,5 +1,11 @@
-~~Title:sukutāya~~
-{{description>from sukutā.}}
+---json
+{
+    "name":"sukutāya",
+    "h1":"sukutāya",
+    "title":"sukutāya -- synonyms, prabhupada.io",
+    "description":"from sukutā."
+}
+---
 
 ==== sukutāya  ====
   * from //sukutā// --- [[books:cc:antya:10:17|Antya 10.17]]

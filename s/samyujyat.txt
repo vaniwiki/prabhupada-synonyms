@@ -1,5 +1,11 @@
-~~Title:saṁyujyāt~~
-{{description>should fix the mind.}}
+---json
+{
+    "name":"saṁyujyāt",
+    "h1":"saṁyujyāt",
+    "title":"saṁyujyāt -- synonyms, prabhupada.io",
+    "description":"should fix the mind."
+}
+---
 
 ==== saṁyujyāt  ====
   * should fix the mind --- [[books:sb:3:28:20|SB 3.28.20]]

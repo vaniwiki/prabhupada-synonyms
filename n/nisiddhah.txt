@@ -1,5 +1,11 @@
-~~Title:niṣiddhāḥ~~
-{{description>being forbidden.}}
+---json
+{
+    "name":"niṣiddhāḥ",
+    "h1":"niṣiddhāḥ",
+    "title":"niṣiddhāḥ -- synonyms, prabhupada.io",
+    "description":"being forbidden."
+}
+---
 
 ==== niṣiddhāḥ  ====
   * being forbidden --- [[books:sb:7:8:49|SB 7.8.49]]

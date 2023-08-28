@@ -1,5 +1,11 @@
-~~Title:chāḍena~~
-{{description>gives up.}}
+---json
+{
+    "name":"chāḍena",
+    "h1":"chāḍena",
+    "title":"chāḍena -- synonyms, prabhupada.io",
+    "description":"gives up."
+}
+---
 
 ==== chāḍena  ====
   * gives up --- [[books:cc:madhya:3:88|Madhya 3.88]]

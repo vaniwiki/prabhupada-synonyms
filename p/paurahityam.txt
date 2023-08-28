@@ -1,5 +1,11 @@
-~~Title:paurahityam~~
-{{description>the priesthood.}}
+---json
+{
+    "name":"paurahityam",
+    "h1":"paurahityam",
+    "title":"paurahityam -- synonyms, prabhupada.io",
+    "description":"the priesthood."
+}
+---
 
 ==== paurahityam  ====
   * the priesthood --- [[books:sb:6:7:38|SB 6.7.38]]

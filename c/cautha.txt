@@ -1,5 +1,11 @@
-~~Title:cauṭha~~
-{{description>a fourth man.}}
+---json
+{
+    "name":"cauṭha",
+    "h1":"cauṭha",
+    "title":"cauṭha -- synonyms, prabhupada.io",
+    "description":"a fourth man."
+}
+---
 
 ==== cauṭha-jana  ====
   * a fourth man --- [[books:cc:madhya:4:195|Madhya 4.195]]

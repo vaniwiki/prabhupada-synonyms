@@ -1,5 +1,11 @@
-~~Title:dīrghāt~~
-{{description>far off.}}
+---json
+{
+    "name":"dīrghāt",
+    "h1":"dīrghāt",
+    "title":"dīrghāt -- synonyms, prabhupada.io",
+    "description":"far off."
+}
+---
 
 ==== dīrghāt  ====
   * far off --- [[books:sb:1:19:2|SB 1.19.2]]

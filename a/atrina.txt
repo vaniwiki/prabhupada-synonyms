@@ -1,5 +1,11 @@
-~~Title:atriṇā~~
-{{description>by the great sage Atri.}}
+---json
+{
+    "name":"atriṇā",
+    "h1":"atriṇā",
+    "title":"atriṇā -- synonyms, prabhupada.io",
+    "description":"by the great sage Atri."
+}
+---
 
 ==== atriṇā  ====
   * by the great sage Atri --- [[books:sb:4:19:13|SB 4.19.13]], [[books:sb:4:19:21|SB 4.19.21]]

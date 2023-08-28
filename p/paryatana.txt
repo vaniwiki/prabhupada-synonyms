@@ -1,5 +1,11 @@
-~~Title:paryaṭana~~
-{{description>touring.}}
+---json
+{
+    "name":"paryaṭana",
+    "h1":"paryaṭana",
+    "title":"paryaṭana -- synonyms, prabhupada.io",
+    "description":"touring."
+}
+---
 
 ==== paryaṭana  ====
   * touring --- [[books:cc:madhya:1:172|Madhya 1.172]]

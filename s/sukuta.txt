@@ -1,5 +1,11 @@
-~~Title:sukutā~~
-{{description>sukutā.}}
+---json
+{
+    "name":"sukutā",
+    "h1":"sukutā",
+    "title":"sukutā -- synonyms, prabhupada.io",
+    "description":"sukutā."
+}
+---
 
 ==== sukutā  ====
   * sukutā --- [[books:cc:antya:10:17|Antya 10.17]]

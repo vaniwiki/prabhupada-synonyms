@@ -1,5 +1,11 @@
-~~Title:niyantum~~
-{{description>to control.}}
+---json
+{
+    "name":"niyantum",
+    "h1":"niyantum",
+    "title":"niyantum -- synonyms, prabhupada.io",
+    "description":"to control."
+}
+---
 
 ==== niyantum  ====
   * to control --- [[books:sb:3:12:6|SB 3.12.6]]

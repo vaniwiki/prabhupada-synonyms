@@ -1,5 +1,11 @@
-~~Title:premī~~
-{{description>a great lover; a great lover of Kṛṣṇa.}}
+---json
+{
+    "name":"premī",
+    "h1":"premī",
+    "title":"premī -- synonyms, prabhupada.io",
+    "description":"a great lover; a great lover of Kṛṣṇa."
+}
+---
 
 ==== premī  ====
   * a great lover --- [[books:cc:adi:8:69|Ādi 8.69]]

@@ -1,5 +1,11 @@
-~~Title:aśokera~~
-{{description>underneath an aśoka tree.}}
+---json
+{
+    "name":"aśokera",
+    "h1":"aśokera",
+    "title":"aśokera -- synonyms, prabhupada.io",
+    "description":"underneath an aśoka tree."
+}
+---
 
 ==== aśokera tale  ====
   * underneath an //aśoka// tree --- [[books:cc:antya:19:85|Antya 19.85]]

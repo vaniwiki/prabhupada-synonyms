@@ -1,5 +1,11 @@
-~~Title:sāṁsārika~~
-{{description>conditioned.}}
+---json
+{
+    "name":"sāṁsārika",
+    "h1":"sāṁsārika",
+    "title":"sāṁsārika -- synonyms, prabhupada.io",
+    "description":"conditioned."
+}
+---
 
 ==== sāṁsārika  ====
   * conditioned --- [[books:cc:madhya:10:11|Madhya 10.11]]

@@ -1,5 +1,11 @@
-~~Title:aṣṭāviṁśat~~
-{{description>twenty-eight.}}
+---json
+{
+    "name":"aṣṭāviṁśat",
+    "h1":"aṣṭāviṁśat",
+    "title":"aṣṭāviṁśat -- synonyms, prabhupada.io",
+    "description":"twenty-eight."
+}
+---
 
 ==== aṣṭāviṁśat  ====
   * twenty-eight --- [[books:sb:3:10:21|SB 3.10.21]]

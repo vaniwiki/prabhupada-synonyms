@@ -1,5 +1,11 @@
-~~Title:rasera~~
-{{description>filled with transcendental humors; of mellow; of mellows; of the mellow; of the mellows; of transcendental mellows.}}
+---json
+{
+    "name":"rasera",
+    "h1":"rasera",
+    "title":"rasera -- synonyms, prabhupada.io",
+    "description":"filled with transcendental humors; of mellow; of mellows; of the mellow; of the mellows; of transcendental mellows."
+}
+---
 
 ==== rasera  ====
   * filled with transcendental humors --- [[books:cc:adi:17:239|Ādi 17.239]]

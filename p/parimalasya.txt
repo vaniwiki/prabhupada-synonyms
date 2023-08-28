@@ -1,5 +1,11 @@
-~~Title:parimalasya~~
-{{description>whose fragrance.}}
+---json
+{
+    "name":"parimalasya",
+    "h1":"parimalasya",
+    "title":"parimalasya -- synonyms, prabhupada.io",
+    "description":"whose fragrance."
+}
+---
 
 ==== parimalasya  ====
   * whose fragrance --- [[books:cc:madhya:20:180|Madhya 20.180]]

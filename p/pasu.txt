@@ -1,5 +1,11 @@
-~~Title:paśu~~
-{{description>an animal; animals; horses and elephants; of animals (cows, elephants and other household animals); of the animals.}}
+---json
+{
+    "name":"paśu",
+    "h1":"paśu",
+    "title":"paśu -- synonyms, prabhupada.io",
+    "description":"an animal; animals; horses and elephants; of animals (cows, elephants and other household animals); of the animals."
+}
+---
 
 ==== paśu  ====
   * an animal --- [[books:sb:8:3:17|SB 8.3.17]]

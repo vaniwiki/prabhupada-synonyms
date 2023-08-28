@@ -1,5 +1,11 @@
-~~Title:kauśa~~
-{{description>silken.}}
+---json
+{
+    "name":"kauśa",
+    "h1":"kauśa",
+    "title":"kauśa -- synonyms, prabhupada.io",
+    "description":"silken."
+}
+---
 
 ==== kauśa  ====
   * silken --- [[books:sb:3:4:7|SB 3.4.7]]

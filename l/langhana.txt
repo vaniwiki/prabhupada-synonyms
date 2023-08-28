@@ -1,5 +1,11 @@
-~~Title:laṅghana~~
-{{description>fasting and difficult endeavor.}}
+---json
+{
+    "name":"laṅghana",
+    "h1":"laṅghana",
+    "title":"laṅghana -- synonyms, prabhupada.io",
+    "description":"fasting and difficult endeavor."
+}
+---
 
 ==== laṅghana  ====
   * fasting and difficult endeavor --- [[books:cc:antya:6:207|Antya 6.207]]

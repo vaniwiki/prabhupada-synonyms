@@ -1,5 +1,11 @@
-~~Title:akupyan~~
-{{description>became very angry.}}
+---json
+{
+    "name":"akupyan",
+    "h1":"akupyan",
+    "title":"akupyan -- synonyms, prabhupada.io",
+    "description":"became very angry."
+}
+---
 
 ==== akupyan  ====
   * became very angry --- [[books:sb:4:30:44|SB 4.30.44]]

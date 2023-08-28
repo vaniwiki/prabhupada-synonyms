@@ -1,5 +1,11 @@
-~~Title:ramāyāḥ~~
-{{description>of the goddess of fortune.}}
+---json
+{
+    "name":"ramāyāḥ",
+    "h1":"ramāyāḥ",
+    "title":"ramāyāḥ -- synonyms, prabhupada.io",
+    "description":"of the goddess of fortune."
+}
+---
 
 ==== ramāyāḥ  ====
   * of the goddess of fortune --- [[books:sb:7:9:26|SB 7.9.26]]

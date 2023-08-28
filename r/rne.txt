@@ -1,5 +1,11 @@
-~~Title:ṛṇe~~
-{{description>by the debt.}}
+---json
+{
+    "name":"ṛṇe",
+    "h1":"ṛṇe",
+    "title":"ṛṇe -- synonyms, prabhupada.io",
+    "description":"by the debt."
+}
+---
 
 ==== ṛṇe  ====
   * by the debt --- [[books:cc:antya:12:70|Antya 12.70]]

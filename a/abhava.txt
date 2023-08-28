@@ -1,5 +1,11 @@
-~~Title:abhava~~
-{{description>O never-born.}}
+---json
+{
+    "name":"abhava",
+    "h1":"abhava",
+    "title":"abhava -- synonyms, prabhupada.io",
+    "description":"O never-born."
+}
+---
 
 ==== abhava  ====
   * O never-born --- [[books:sb:4:3:12|SB 4.3.12]]

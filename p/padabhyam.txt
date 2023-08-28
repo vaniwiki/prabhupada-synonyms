@@ -1,5 +1,11 @@
-~~Title:pādābhyām~~
-{{description>with the hind legs.}}
+---json
+{
+    "name":"pādābhyām",
+    "h1":"pādābhyām",
+    "title":"pādābhyām -- synonyms, prabhupada.io",
+    "description":"with the hind legs."
+}
+---
 
 ==== apara-pādābhyām  ====
   * with the hind legs --- [[books:sb:10:11:43|SB 10.11.43]]

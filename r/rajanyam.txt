@@ -1,5 +1,11 @@
-~~Title:rājanyam~~
-{{description>the profession of the kṣatriyas.}}
+---json
+{
+    "name":"rājanyam",
+    "h1":"rājanyam",
+    "title":"rājanyam -- synonyms, prabhupada.io",
+    "description":"the profession of the kṣatriyas."
+}
+---
 
 ==== rājanyam  ====
   * the profession of the //kṣatriyas// --- [[books:sb:7:11:17|SB 7.11.17]]

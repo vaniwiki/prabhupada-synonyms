@@ -1,5 +1,11 @@
-~~Title:abhyagamat~~
-{{description>arrived.}}
+---json
+{
+    "name":"abhyagamat",
+    "h1":"abhyagamat",
+    "title":"abhyagamat -- synonyms, prabhupada.io",
+    "description":"arrived."
+}
+---
 
 ==== abhyagamat  ====
   * arrived --- [[books:sb:8:3:31|SB 8.3.31]]

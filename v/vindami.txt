@@ -1,5 +1,11 @@
-~~Title:vindāmi~~
-{{description>and have.}}
+---json
+{
+    "name":"vindāmi",
+    "h1":"vindāmi",
+    "title":"vindāmi -- synonyms, prabhupada.io",
+    "description":"and have."
+}
+---
 
 ==== vindāmi  ====
   * and have --- [[books:bg:11:24|Bg. 11.24]]

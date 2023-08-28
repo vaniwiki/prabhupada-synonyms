@@ -1,5 +1,11 @@
-~~Title:kāṅji~~
-{{description>cakes made with sour rice-water.}}
+---json
+{
+    "name":"kāṅji",
+    "h1":"kāṅji",
+    "title":"kāṅji -- synonyms, prabhupada.io",
+    "description":"cakes made with sour rice-water."
+}
+---
 
 ==== kāṅji-baḍā  ====
   * cakes made with sour rice-water --- [[books:cc:madhya:15:216|Madhya 15.216]]

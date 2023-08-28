@@ -1,5 +1,11 @@
-~~Title:dvimīḍhaḥ~~
-{{description>Dvimīḍha.}}
+---json
+{
+    "name":"dvimīḍhaḥ",
+    "h1":"dvimīḍhaḥ",
+    "title":"dvimīḍhaḥ -- synonyms, prabhupada.io",
+    "description":"Dvimīḍha."
+}
+---
 
 ==== dvimīḍhaḥ  ====
   * Dvimīḍha --- [[books:sb:9:21:21|SB 9.21.21]]

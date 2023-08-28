@@ -1,5 +1,11 @@
-~~Title:aiṣata~~
-{{description>desired.}}
+---json
+{
+    "name":"aiṣata",
+    "h1":"aiṣata",
+    "title":"aiṣata -- synonyms, prabhupada.io",
+    "description":"desired."
+}
+---
 
 ==== aiṣata  ====
   * desired --- [[books:sb:1:4:11|SB 1.4.11]]

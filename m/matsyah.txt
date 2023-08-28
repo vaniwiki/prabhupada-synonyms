@@ -1,5 +1,11 @@
-~~Title:matsyaḥ~~
-{{description>a big fish; incarnation of the fish; the fish target.}}
+---json
+{
+    "name":"matsyaḥ",
+    "h1":"matsyaḥ",
+    "title":"matsyaḥ -- synonyms, prabhupada.io",
+    "description":"a big fish; incarnation of the fish; the fish target."
+}
+---
 
 ==== matsyaḥ  ====
   * a big fish --- [[books:sb:8:24:44|SB 8.24.44]]

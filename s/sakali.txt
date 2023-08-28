@@ -1,5 +1,11 @@
-~~Title:sakali~~
-{{description>all; all of them; everything.}}
+---json
+{
+    "name":"sakali",
+    "h1":"sakali",
+    "title":"sakali -- synonyms, prabhupada.io",
+    "description":"all; all of them; everything."
+}
+---
 
 ==== sakali  ====
   * all --- [[books:cc:adi:4:139|Ādi 4.139]], [[books:cc:adi:6:33|Ādi 6.33]], [[books:cc:madhya:22:75|Madhya 22.75]], [[books:cc:madhya:23:115|Madhya 23.115]]

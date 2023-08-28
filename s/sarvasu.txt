@@ -1,5 +1,11 @@
-~~Title:sarvāsu~~
-{{description>everywhere.}}
+---json
+{
+    "name":"sarvāsu",
+    "h1":"sarvāsu",
+    "title":"sarvāsu -- synonyms, prabhupada.io",
+    "description":"everywhere."
+}
+---
 
 ==== sarvāsu  ====
   * everywhere --- [[books:sb:8:21:8|SB 8.21.8]]

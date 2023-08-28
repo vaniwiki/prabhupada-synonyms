@@ -1,5 +1,11 @@
-~~Title:rocanam~~
-{{description>pleasing; very pleasing.}}
+---json
+{
+    "name":"rocanam",
+    "h1":"rocanam",
+    "title":"rocanam -- synonyms, prabhupada.io",
+    "description":"pleasing; very pleasing."
+}
+---
 
 ==== rocanam  ====
   * pleasing --- [[books:sb:1:10:11-12|SB 1.10.11-12]]

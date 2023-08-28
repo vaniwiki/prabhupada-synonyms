@@ -1,5 +1,11 @@
-~~Title:adṛśyanta~~
-{{description>were seen.}}
+---json
+{
+    "name":"adṛśyanta",
+    "h1":"adṛśyanta",
+    "title":"adṛśyanta -- synonyms, prabhupada.io",
+    "description":"were seen."
+}
+---
 
 ==== adṛśyanta  ====
   * were seen --- [[books:sb:6:10:24|SB 6.10.24]]

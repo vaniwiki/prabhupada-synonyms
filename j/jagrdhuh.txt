@@ -1,5 +1,11 @@
-~~Title:jagṛdhuḥ~~
-{{description>desired.}}
+---json
+{
+    "name":"jagṛdhuḥ",
+    "h1":"jagṛdhuḥ",
+    "title":"jagṛdhuḥ -- synonyms, prabhupada.io",
+    "description":"desired."
+}
+---
 
 ==== jagṛdhuḥ  ====
   * desired --- [[books:sb:5:4:1|SB 5.4.1]]

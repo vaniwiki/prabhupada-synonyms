@@ -1,5 +1,11 @@
-~~Title:abhojanaiḥ~~
-{{description>by starving.}}
+---json
+{
+    "name":"abhojanaiḥ",
+    "h1":"abhojanaiḥ",
+    "title":"abhojanaiḥ -- synonyms, prabhupada.io",
+    "description":"by starving."
+}
+---
 
 ==== abhojanaiḥ  ====
   * by starving --- [[books:sb:7:5:43-44|SB 7.5.43-44]]

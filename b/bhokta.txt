@@ -1,5 +1,11 @@
-~~Title:bhoktā~~
-{{description>eating; enjoyer; supreme enjoyer; the person who accepts such an offering.}}
+---json
+{
+    "name":"bhoktā",
+    "h1":"bhoktā",
+    "title":"bhoktā -- synonyms, prabhupada.io",
+    "description":"eating; enjoyer; supreme enjoyer; the person who accepts such an offering."
+}
+---
 
 ==== bhoktā  ====
   * eating --- [[books:cc:antya:8:87|Antya 8.87]]

@@ -1,5 +1,11 @@
-~~Title:abhiviśaṅkī~~
-{{description>always fearful of being cheated by others, even by superiors.}}
+---json
+{
+    "name":"abhiviśaṅkī",
+    "h1":"abhiviśaṅkī",
+    "title":"abhiviśaṅkī -- synonyms, prabhupada.io",
+    "description":"always fearful of being cheated by others, even by superiors."
+}
+---
 
 ==== sarvataḥ abhiviśaṅkī  ====
   * always fearful of being cheated by others, even by superiors --- [[books:sb:5:26:36|SB 5.26.36]]

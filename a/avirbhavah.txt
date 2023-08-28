@@ -1,5 +1,11 @@
-~~Title:āvirbhāvaḥ~~
-{{description>manifestation.}}
+---json
+{
+    "name":"āvirbhāvaḥ",
+    "h1":"āvirbhāvaḥ",
+    "title":"āvirbhāvaḥ -- synonyms, prabhupada.io",
+    "description":"manifestation."
+}
+---
 
 ==== āvirbhāvaḥ  ====
   * manifestation --- [[books:sb:3:31:44|SB 3.31.44]]

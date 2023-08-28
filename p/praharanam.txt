@@ -1,5 +1,11 @@
-~~Title:praharaṇam~~
-{{description>weapons.}}
+---json
+{
+    "name":"praharaṇam",
+    "h1":"praharaṇam",
+    "title":"praharaṇam -- synonyms, prabhupada.io",
+    "description":"weapons."
+}
+---
 
 ==== praharaṇam  ====
   * weapons --- [[books:sb:4:26:1-3|SB 4.26.1-3]]

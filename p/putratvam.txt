@@ -1,5 +1,11 @@
-~~Title:putratvam~~
-{{description>becoming the sons; becoming your son; sonhood.}}
+---json
+{
+    "name":"putratvam",
+    "h1":"putratvam",
+    "title":"putratvam -- synonyms, prabhupada.io",
+    "description":"becoming the sons; becoming your son; sonhood."
+}
+---
 
 ==== putratvam  ====
   * becoming the sons --- [[books:sb:7:10:35|SB 7.10.35]]

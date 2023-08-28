@@ -1,5 +1,11 @@
-~~Title:kuśāvarta~~
-{{description>Kuśāvarta.}}
+---json
+{
+    "name":"kuśāvarta",
+    "h1":"kuśāvarta",
+    "title":"kuśāvarta -- synonyms, prabhupada.io",
+    "description":"Kuśāvarta."
+}
+---
 
 ==== kuśāvarta  ====
   * Kuśāvarta --- [[books:sb:5:4:10|SB 5.4.10]]

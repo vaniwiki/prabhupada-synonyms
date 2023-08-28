@@ -1,5 +1,11 @@
-~~Title:vatih~~
-{{description>flower gardens.}}
+---json
+{
+    "name":"vatih",
+    "h1":"vatih",
+    "title":"vatih -- synonyms, prabhupada.io",
+    "description":"flower gardens."
+}
+---
 
 ==== vāṭīḥ  ====
   * flower gardens --- [[books:sb:1:6:11|SB 1.6.11]]

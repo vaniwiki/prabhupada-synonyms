@@ -1,5 +1,11 @@
-~~Title:prasidatam~~
-{{description>be pleased with.}}
+---json
+{
+    "name":"prasidatam",
+    "h1":"prasidatam",
+    "title":"prasidatam -- synonyms, prabhupada.io",
+    "description":"be pleased with."
+}
+---
 
 ==== prasīdatam  ====
   * be pleased with --- [[books:sb:3:2:17|SB 3.2.17]]

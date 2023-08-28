@@ -1,5 +1,11 @@
-~~Title:udyamam~~
-{{description>endeavor; enterprise; enterprises; the endeavor.}}
+---json
+{
+    "name":"udyamam",
+    "h1":"udyamam",
+    "title":"udyamam -- synonyms, prabhupada.io",
+    "description":"endeavor; enterprise; enterprises; the endeavor."
+}
+---
 
 ==== udyamam  ====
   * endeavor --- [[books:sb:8:11:29|SB 8.11.29]]

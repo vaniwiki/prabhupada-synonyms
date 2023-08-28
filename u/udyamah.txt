@@ -1,5 +1,11 @@
-~~Title:udyamah~~
-{{description>active; enthusiasm; whose effort.}}
+---json
+{
+    "name":"udyamah",
+    "h1":"udyamah",
+    "title":"udyamah -- synonyms, prabhupada.io",
+    "description":"active; enthusiasm; whose effort."
+}
+---
 
 ==== udyamaḥ  ====
   * active --- [[books:sb:7:11:23|SB 7.11.23]]

@@ -1,5 +1,11 @@
-~~Title:patrete~~
-{{description>on a plate.}}
+---json
+{
+    "name":"patrete",
+    "h1":"patrete",
+    "title":"patrete -- synonyms, prabhupada.io",
+    "description":"on a plate."
+}
+---
 
 ==== pātrete  ====
   * on a plate --- [[books:cc:madhya:15:231|Madhya 15.231]]

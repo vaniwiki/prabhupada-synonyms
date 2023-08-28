@@ -1,5 +1,11 @@
-~~Title:uparodhena~~
-{{description>because of being surrounded.}}
+---json
+{
+    "name":"uparodhena",
+    "h1":"uparodhena",
+    "title":"uparodhena -- synonyms, prabhupada.io",
+    "description":"because of being surrounded."
+}
+---
 
 ==== uparodhena  ====
   * because of being surrounded --- [[books:sb:5:2:6|SB 5.2.6]]

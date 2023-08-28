@@ -1,5 +1,11 @@
-~~Title:upasaṁyamaḥ~~
-{{description>controlling.}}
+---json
+{
+    "name":"upasaṁyamaḥ",
+    "h1":"upasaṁyamaḥ",
+    "title":"upasaṁyamaḥ -- synonyms, prabhupada.io",
+    "description":"controlling."
+}
+---
 
 ==== upasaṁyamaḥ  ====
   * controlling --- [[books:sb:1:7:44|SB 1.7.44]]

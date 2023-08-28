@@ -1,5 +1,11 @@
-~~Title:samadhigamaḥ~~
-{{description>the complete understanding.}}
+---json
+{
+    "name":"samadhigamaḥ",
+    "h1":"samadhigamaḥ",
+    "title":"samadhigamaḥ -- synonyms, prabhupada.io",
+    "description":"the complete understanding."
+}
+---
 
 ==== samadhigamaḥ  ====
   * the complete understanding --- [[books:sb:5:13:26|SB 5.13.26]]

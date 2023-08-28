@@ -1,5 +1,11 @@
-~~Title:vimokṣya~~
-{{description>delivering.}}
+---json
+{
+    "name":"vimokṣya",
+    "h1":"vimokṣya",
+    "title":"vimokṣya -- synonyms, prabhupada.io",
+    "description":"delivering."
+}
+---
 
 ==== vimokṣya  ====
   * delivering --- [[books:sb:8:4:13|SB 8.4.13]]

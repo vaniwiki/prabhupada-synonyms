@@ -1,5 +1,11 @@
-~~Title:gile~~
-{{description>swallow.}}
+---json
+{
+    "name":"gile",
+    "h1":"gile",
+    "title":"gile -- synonyms, prabhupada.io",
+    "description":"swallow."
+}
+---
 
 ==== gile  ====
   * swallow --- [[books:cc:madhya:13:142|Madhya 13.142]]

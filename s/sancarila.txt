@@ -1,5 +1,11 @@
-~~Title:sancarila~~
-{{description>has spread; have become transferred.}}
+---json
+{
+    "name":"sancarila",
+    "h1":"sancarila",
+    "title":"sancarila -- synonyms, prabhupada.io",
+    "description":"has spread; have become transferred."
+}
+---
 
 ==== sañcārila  ====
   * has spread --- [[books:cc:antya:16:94|Antya 16.94]]

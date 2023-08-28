@@ -1,5 +1,11 @@
-~~Title:jīlā~~
-{{description>became alive.}}
+---json
+{
+    "name":"jīlā",
+    "h1":"jīlā",
+    "title":"jīlā -- synonyms, prabhupada.io",
+    "description":"became alive."
+}
+---
 
 ==== jīlā  ====
   * became alive --- [[books:cc:madhya:25:225|Madhya 25.225]]

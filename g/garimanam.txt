@@ -1,5 +1,11 @@
-~~Title:garimāṇam~~
-{{description>because of an increase in heaviness.}}
+---json
+{
+    "name":"garimāṇam",
+    "h1":"garimāṇam",
+    "title":"garimāṇam -- synonyms, prabhupada.io",
+    "description":"because of an increase in heaviness."
+}
+---
 
 ==== garimāṇam  ====
   * because of an increase in heaviness --- [[books:sb:10:7:18|SB 10.7.18]]

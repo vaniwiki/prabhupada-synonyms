@@ -1,5 +1,11 @@
-~~Title:pitāmahī~~
-{{description>grandmother.}}
+---json
+{
+    "name":"pitāmahī",
+    "h1":"pitāmahī",
+    "title":"pitāmahī -- synonyms, prabhupada.io",
+    "description":"grandmother."
+}
+---
 
 ==== pitāmahī  ====
   * grandmother --- [[books:sb:9:24:53-55|SB 9.24.53-55]]

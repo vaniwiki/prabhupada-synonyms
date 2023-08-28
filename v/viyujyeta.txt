@@ -1,5 +1,11 @@
-~~Title:viyujyeta~~
-{{description>do give up.}}
+---json
+{
+    "name":"viyujyeta",
+    "h1":"viyujyeta",
+    "title":"viyujyeta -- synonyms, prabhupada.io",
+    "description":"do give up."
+}
+---
 
 ==== viyujyeta  ====
   * do give up --- [[books:sb:1:13:20|SB 1.13.20]]

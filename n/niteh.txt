@@ -1,5 +1,11 @@
-~~Title:nīteḥ~~
-{{description>of law and order.}}
+---json
+{
+    "name":"nīteḥ",
+    "h1":"nīteḥ",
+    "title":"nīteḥ -- synonyms, prabhupada.io",
+    "description":"of law and order."
+}
+---
 
 ==== daṇḍa-nīteḥ  ====
   * of law and order --- [[books:sb:3:7:32|SB 3.7.32]]

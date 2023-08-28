@@ -1,5 +1,11 @@
-~~Title:niraya~~
-{{description>to hell; with hell.}}
+---json
+{
+    "name":"niraya",
+    "h1":"niraya",
+    "title":"niraya -- synonyms, prabhupada.io",
+    "description":"to hell; with hell."
+}
+---
 
 ==== niraya  ====
   * to hell --- [[books:sb:3:31:39|SB 3.31.39]]

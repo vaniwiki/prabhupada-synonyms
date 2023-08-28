@@ -1,5 +1,11 @@
-~~Title:ayajat~~
-{{description>he worshiped; offered sacrifices; performed; worshiped.}}
+---json
+{
+    "name":"ayajat",
+    "h1":"ayajat",
+    "title":"ayajat -- synonyms, prabhupada.io",
+    "description":"he worshiped; offered sacrifices; performed; worshiped."
+}
+---
 
 ==== ayajat  ====
   * he worshiped --- [[books:sb:6:14:27|SB 6.14.27]], [[books:sb:9:16:20|SB 9.16.20]]

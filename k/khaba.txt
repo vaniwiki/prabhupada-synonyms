@@ -1,5 +1,11 @@
-~~Title:khāba~~
-{{description>eat.}}
+---json
+{
+    "name":"khāba",
+    "h1":"khāba",
+    "title":"khāba -- synonyms, prabhupada.io",
+    "description":"eat."
+}
+---
 
 ==== khāba  ====
   * eat --- [[books:cc:adi:9:37|Ādi 9.37]]

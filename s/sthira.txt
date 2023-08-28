@@ -1,5 +1,11 @@
-~~Title:sthira~~
-{{description>fixed; nonmoving; not moving; pacified; patient; peaceful; steady; still.}}
+---json
+{
+    "name":"sthira",
+    "h1":"sthira",
+    "title":"sthira -- synonyms, prabhupada.io",
+    "description":"fixed; nonmoving; not moving; pacified; patient; peaceful; steady; still."
+}
+---
 
 ==== sthira  ====
   * fixed --- [[books:bg:12:18-19|Bg. 12.18-19]], [[books:cc:madhya:22:78-80|Madhya 22.78-80]], [[books:cc:antya:18:86|Antya 18.86]]

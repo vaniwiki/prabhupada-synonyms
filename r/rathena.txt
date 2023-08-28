@@ -1,5 +1,11 @@
-~~Title:rathena~~
-{{description>being seated on the chariot; by the presence of such a chariot; getting on the chariot; on a chariot; on the chariot.}}
+---json
+{
+    "name":"rathena",
+    "h1":"rathena",
+    "title":"rathena -- synonyms, prabhupada.io",
+    "description":"being seated on the chariot; by the presence of such a chariot; getting on the chariot; on a chariot; on the chariot."
+}
+---
 
 ==== rathena  ====
   * being seated on the chariot --- [[books:sb:1:15:14|SB 1.15.14]]

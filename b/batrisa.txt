@@ -1,5 +1,11 @@
-~~Title:batriśa~~
-{{description>thirty-two.}}
+---json
+{
+    "name":"batriśa",
+    "h1":"batriśa",
+    "title":"batriśa -- synonyms, prabhupada.io",
+    "description":"thirty-two."
+}
+---
 
 ==== batriśa  ====
   * thirty-two --- [[books:cc:adi:14:14|Ādi 14.14]], [[books:cc:madhya:11:216|Madhya 11.216]], [[books:cc:madhya:24:284|Madhya 24.284]]

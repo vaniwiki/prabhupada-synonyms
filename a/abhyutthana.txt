@@ -1,5 +1,11 @@
-~~Title:abhyutthana~~
-{{description>stand up.}}
+---json
+{
+    "name":"abhyutthana",
+    "h1":"abhyutthana",
+    "title":"abhyutthana -- synonyms, prabhupada.io",
+    "description":"stand up."
+}
+---
 
 ==== abhyūtthāna  ====
   * stand up --- [[books:cc:madhya:22:122|Madhya 22.122]]

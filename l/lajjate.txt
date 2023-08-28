@@ -1,5 +1,11 @@
-~~Title:lajjāte~~
-{{description>in great shyness.}}
+---json
+{
+    "name":"lajjāte",
+    "h1":"lajjāte",
+    "title":"lajjāte -- synonyms, prabhupada.io",
+    "description":"in great shyness."
+}
+---
 
 ==== lajjāte  ====
   * in great shyness --- [[books:cc:antya:1:112|Antya 1.112]]

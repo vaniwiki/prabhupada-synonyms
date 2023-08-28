@@ -1,5 +1,11 @@
-~~Title:pita~~
-{{description>(is) your father; a father; father; his father; just like my father; of His father; the father (Mahārāja Nābhi); the father; the father of Lord Caitanya Mahāprabhu; the father, Hiraṇyakaśipu; your father.}}
+---json
+{
+    "name":"pita",
+    "h1":"pita",
+    "title":"pita -- synonyms, prabhupada.io",
+    "description":"(is) your father; a father; father; his father; just like my father; of His father; the father (Mahārāja Nābhi); the father; the father of Lord Caitanya Mahāprabhu; the father, Hiraṇyakaśipu; your father."
+}
+---
 
 ==== pitā  ====
   * (is) your father --- [[books:cc:adi:17:153|Ādi 17.153]]

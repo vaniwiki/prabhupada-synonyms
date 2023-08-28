@@ -1,5 +1,11 @@
-~~Title:arṇava~~
-{{description>within the ocean of nescience.}}
+---json
+{
+    "name":"arṇava",
+    "h1":"arṇava",
+    "title":"arṇava -- synonyms, prabhupada.io",
+    "description":"within the ocean of nescience."
+}
+---
 
 ==== bhava-arṇava-antaḥ  ====
   * within the ocean of nescience --- [[books:cc:madhya:11:151|Madhya 11.151]]

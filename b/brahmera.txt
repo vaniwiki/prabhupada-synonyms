@@ -1,5 +1,11 @@
-~~Title:brahmera~~
-{{description>of Brahman; of the Absolute Truth.}}
+---json
+{
+    "name":"brahmera",
+    "h1":"brahmera",
+    "title":"brahmera -- synonyms, prabhupada.io",
+    "description":"of Brahman; of the Absolute Truth."
+}
+---
 
 ==== brahmera  ====
   * of Brahman --- [[books:cc:adi:2:15|Ādi 2.15]]

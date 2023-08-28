@@ -1,5 +1,11 @@
-~~Title:alpam~~
-{{description>a very small quantity; brief; very little.}}
+---json
+{
+    "name":"alpam",
+    "h1":"alpam",
+    "title":"alpam -- synonyms, prabhupada.io",
+    "description":"a very small quantity; brief; very little."
+}
+---
 
 ==== alpam  ====
   * a very small quantity --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

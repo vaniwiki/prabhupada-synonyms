@@ -1,5 +1,11 @@
-~~Title:āniyāchena~~
-{{description>has brought.}}
+---json
+{
+    "name":"āniyāchena",
+    "h1":"āniyāchena",
+    "title":"āniyāchena -- synonyms, prabhupada.io",
+    "description":"has brought."
+}
+---
 
 ==== āniyāchena  ====
   * has brought --- [[books:cc:antya:12:105|Antya 12.105]]

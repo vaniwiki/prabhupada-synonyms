@@ -1,5 +1,11 @@
-~~Title:ameyātmā~~
-{{description>the all-pervading Supersoul.}}
+---json
+{
+    "name":"ameyātmā",
+    "h1":"ameyātmā",
+    "title":"ameyātmā -- synonyms, prabhupada.io",
+    "description":"the all-pervading Supersoul."
+}
+---
 
 ==== ameyātmā  ====
   * the all-pervading Supersoul --- [[books:sb:1:12:11|SB 1.12.11]]

@@ -1,5 +1,11 @@
-~~Title:sandeha~~
-{{description>do not be doubtful.}}
+---json
+{
+    "name":"sandeha",
+    "h1":"sandeha",
+    "title":"sandeha -- synonyms, prabhupada.io",
+    "description":"do not be doubtful."
+}
+---
 
 ==== kichu sandeha nā kara  ====
   * do not be doubtful --- [[books:cc:antya:2:56|Antya 2.56]]

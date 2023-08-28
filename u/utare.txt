@@ -1,5 +1,11 @@
-~~Title:utare~~
-{{description>descends.}}
+---json
+{
+    "name":"utare",
+    "h1":"utare",
+    "title":"utare -- synonyms, prabhupada.io",
+    "description":"descends."
+}
+---
 
 ==== utare  ====
   * descends --- [[books:cc:madhya:18:43|Madhya 18.43]]

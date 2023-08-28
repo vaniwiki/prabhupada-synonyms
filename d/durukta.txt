@@ -1,5 +1,11 @@
-~~Title:durukta~~
-{{description>by the abusive words.}}
+---json
+{
+    "name":"durukta",
+    "h1":"durukta",
+    "title":"durukta -- synonyms, prabhupada.io",
+    "description":"by the abusive words."
+}
+---
 
 ==== durukta  ====
   * by the abusive words --- [[books:sb:3:18:6|SB 3.18.6]]

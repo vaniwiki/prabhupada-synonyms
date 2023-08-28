@@ -1,5 +1,11 @@
-~~Title:paravara~~
-{{description>like a great ocean.}}
+---json
+{
+    "name":"paravara",
+    "h1":"paravara",
+    "title":"paravara -- synonyms, prabhupada.io",
+    "description":"like a great ocean."
+}
+---
 
 ==== pārāvāra  ====
   * like a great ocean --- [[books:cc:madhya:21:113|Madhya 21.113]]

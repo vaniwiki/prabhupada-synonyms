@@ -1,5 +1,11 @@
-~~Title:aupamyena~~
-{{description>by comparison; by comparison with the self.}}
+---json
+{
+    "name":"aupamyena",
+    "h1":"aupamyena",
+    "title":"aupamyena -- synonyms, prabhupada.io",
+    "description":"by comparison; by comparison with the self."
+}
+---
 
 ==== aupamyena  ====
   * by comparison --- [[books:bg:6:32|Bg. 6.32]]

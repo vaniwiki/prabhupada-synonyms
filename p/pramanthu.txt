@@ -1,5 +1,11 @@
-~~Title:pramanthū~~
-{{description>two sons named Manthu and Pramanthu.}}
+---json
+{
+    "name":"pramanthū",
+    "h1":"pramanthū",
+    "title":"pramanthū -- synonyms, prabhupada.io",
+    "description":"two sons named Manthu and Pramanthu."
+}
+---
 
 ==== manthu-pramanthū  ====
   * two sons named Manthu and Pramanthu --- [[books:sb:5:15:14-15|SB 5.15.14-15]]

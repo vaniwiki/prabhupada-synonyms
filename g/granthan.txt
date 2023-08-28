@@ -1,5 +1,11 @@
-~~Title:granthān~~
-{{description>unnecessary literatures.}}
+---json
+{
+    "name":"granthān",
+    "h1":"granthān",
+    "title":"granthān -- synonyms, prabhupada.io",
+    "description":"unnecessary literatures."
+}
+---
 
 ==== granthān  ====
   * unnecessary literatures --- [[books:sb:7:13:8|SB 7.13.8]]

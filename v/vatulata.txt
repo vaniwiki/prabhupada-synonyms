@@ -1,5 +1,11 @@
-~~Title:vātulatā~~
-{{description>craziness.}}
+---json
+{
+    "name":"vātulatā",
+    "h1":"vātulatā",
+    "title":"vātulatā -- synonyms, prabhupada.io",
+    "description":"craziness."
+}
+---
 
 ==== vātulatā  ====
   * craziness --- [[books:cc:madhya:16:243|Madhya 16.243]]

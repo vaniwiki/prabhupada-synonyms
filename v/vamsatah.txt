@@ -1,5 +1,11 @@
-~~Title:vaṁśataḥ~~
-{{description>very respectable families.}}
+---json
+{
+    "name":"vaṁśataḥ",
+    "h1":"vaṁśataḥ",
+    "title":"vaṁśataḥ -- synonyms, prabhupada.io",
+    "description":"very respectable families."
+}
+---
 
 ==== sat-vaṁśataḥ  ====
   * very respectable families --- [[books:cc:antya:1:162|Antya 1.162]]

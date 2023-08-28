@@ -1,5 +1,11 @@
-~~Title:adhikṛtam~~
-{{description>predominated.}}
+---json
+{
+    "name":"adhikṛtam",
+    "h1":"adhikṛtam",
+    "title":"adhikṛtam -- synonyms, prabhupada.io",
+    "description":"predominated."
+}
+---
 
 ==== adhikṛtam  ====
   * predominated --- [[books:sb:3:15:26|SB 3.15.26]]

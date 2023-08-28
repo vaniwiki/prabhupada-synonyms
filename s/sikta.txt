@@ -1,5 +1,11 @@
-~~Title:sikta~~
-{{description>mixed.}}
+---json
+{
+    "name":"sikta",
+    "h1":"sikta",
+    "title":"sikta -- synonyms, prabhupada.io",
+    "description":"mixed."
+}
+---
 
 ==== sikta  ====
   * mixed --- [[books:cc:madhya:15:208|Madhya 15.208]]

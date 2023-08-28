@@ -1,5 +1,11 @@
-~~Title:kolākuli~~
-{{description>embracing.}}
+---json
+{
+    "name":"kolākuli",
+    "h1":"kolākuli",
+    "title":"kolākuli -- synonyms, prabhupada.io",
+    "description":"embracing."
+}
+---
 
 ==== kolākuli  ====
   * embracing --- [[books:cc:madhya:16:193|Madhya 16.193]], [[books:cc:madhya:17:159|Madhya 17.159]]

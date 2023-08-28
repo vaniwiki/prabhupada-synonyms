@@ -1,5 +1,11 @@
-~~Title:taijasaiḥ~~
-{{description>and with fire.}}
+---json
+{
+    "name":"taijasaiḥ",
+    "h1":"taijasaiḥ",
+    "title":"taijasaiḥ -- synonyms, prabhupada.io",
+    "description":"and with fire."
+}
+---
 
 ==== taijasaiḥ  ====
   * and with fire --- [[books:sb:7:2:42|SB 7.2.42]]

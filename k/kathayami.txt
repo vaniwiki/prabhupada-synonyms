@@ -1,5 +1,11 @@
-~~Title:kathayāmi~~
-{{description>shall I speak; shall speak.}}
+---json
+{
+    "name":"kathayāmi",
+    "h1":"kathayāmi",
+    "title":"kathayāmi -- synonyms, prabhupada.io",
+    "description":"shall I speak; shall speak."
+}
+---
 
 ==== kathayāmi  ====
   * shall I speak --- [[books:sb:6:18:78|SB 6.18.78]]

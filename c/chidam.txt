@@ -1,5 +1,11 @@
-~~Title:chidam~~
-{{description>the Personality of Godhead, who can cut the chain of birth and death; who cuts the knot of material entanglement.}}
+---json
+{
+    "name":"chidam",
+    "h1":"chidam",
+    "title":"chidam -- synonyms, prabhupada.io",
+    "description":"the Personality of Godhead, who can cut the chain of birth and death; who cuts the knot of material entanglement."
+}
+---
 
 ==== bhava-chidam  ====
   * the Personality of Godhead, who can cut the chain of birth and death --- [[books:sb:4:9:34|SB 4.9.34]]

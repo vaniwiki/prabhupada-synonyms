@@ -1,5 +1,11 @@
-~~Title:avadhīyamānaḥ~~
-{{description>existing as the controller.}}
+---json
+{
+    "name":"avadhīyamānaḥ",
+    "h1":"avadhīyamānaḥ",
+    "title":"avadhīyamānaḥ -- synonyms, prabhupada.io",
+    "description":"existing as the controller."
+}
+---
 
 ==== avadhīyamānaḥ  ====
   * existing as the controller --- [[books:sb:5:11:13-14|SB 5.11.13-14]]

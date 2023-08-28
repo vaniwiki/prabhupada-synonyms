@@ -1,5 +1,11 @@
-~~Title:bhajase~~
-{{description>you have accepted.}}
+---json
+{
+    "name":"bhajase",
+    "h1":"bhajase",
+    "title":"bhajase -- synonyms, prabhupada.io",
+    "description":"you have accepted."
+}
+---
 
 ==== bhajase  ====
   * you have accepted --- [[books:sb:9:3:20|SB 9.3.20]]

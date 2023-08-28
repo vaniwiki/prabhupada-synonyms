@@ -1,5 +1,11 @@
-~~Title:kṣudram~~
-{{description>on grass; very little.}}
+---json
+{
+    "name":"kṣudram",
+    "h1":"kṣudram",
+    "title":"kṣudram -- synonyms, prabhupada.io",
+    "description":"on grass; very little."
+}
+---
 
 ==== kṣudram  ====
   * on grass --- [[books:sb:4:29:53|SB 4.29.53]]

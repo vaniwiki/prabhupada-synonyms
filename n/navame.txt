@@ -1,5 +1,11 @@
-~~Title:navame~~
-{{description>in the Ninth Chapter.}}
+---json
+{
+    "name":"navame",
+    "h1":"navame",
+    "title":"navame -- synonyms, prabhupada.io",
+    "description":"in the Ninth Chapter."
+}
+---
 
 ==== navame  ====
   * in the Ninth Chapter --- [[books:cc:madhya:25:250|Madhya 25.250]], [[books:cc:antya:20:116|Antya 20.116]]

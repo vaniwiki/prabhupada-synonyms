@@ -1,5 +1,11 @@
-~~Title:samarpayiṣye~~
-{{description>I shall deliver to you.}}
+---json
+{
+    "name":"samarpayiṣye",
+    "h1":"samarpayiṣye",
+    "title":"samarpayiṣye -- synonyms, prabhupada.io",
+    "description":"I shall deliver to you."
+}
+---
 
 ==== samarpayiṣye  ====
   * I shall deliver to you --- [[books:sb:10:1:54|SB 10.1.54]]

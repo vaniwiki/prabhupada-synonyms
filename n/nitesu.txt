@@ -1,5 +1,11 @@
-~~Title:nīteṣu~~
-{{description>when forcibly brought.}}
+---json
+{
+    "name":"nīteṣu",
+    "h1":"nīteṣu",
+    "title":"nīteṣu -- synonyms, prabhupada.io",
+    "description":"when forcibly brought."
+}
+---
 
 ==== nīteṣu  ====
   * when forcibly brought --- [[books:cc:madhya:20:145|Madhya 20.145]]

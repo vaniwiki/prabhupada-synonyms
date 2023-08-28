@@ -1,5 +1,11 @@
-~~Title:sarvakāmaḥ~~
-{{description>by the name Sarvakāma.}}
+---json
+{
+    "name":"sarvakāmaḥ",
+    "h1":"sarvakāmaḥ",
+    "title":"sarvakāmaḥ -- synonyms, prabhupada.io",
+    "description":"by the name Sarvakāma."
+}
+---
 
 ==== sarvakāmaḥ  ====
   * by the name Sarvakāma --- [[books:sb:9:9:16-17|SB 9.9.16-17]]

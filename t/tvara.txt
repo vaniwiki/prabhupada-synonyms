@@ -1,5 +1,11 @@
-~~Title:tvara~~
-{{description>immediately.}}
+---json
+{
+    "name":"tvara",
+    "h1":"tvara",
+    "title":"tvara -- synonyms, prabhupada.io",
+    "description":"immediately."
+}
+---
 
 ==== tvara  ====
   * immediately --- [[books:sb:10:13:22|SB 10.13.22]]

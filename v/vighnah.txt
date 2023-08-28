@@ -1,5 +1,11 @@
-~~Title:vighnāḥ~~
-{{description>obstacles.}}
+---json
+{
+    "name":"vighnāḥ",
+    "h1":"vighnāḥ",
+    "title":"vighnāḥ -- synonyms, prabhupada.io",
+    "description":"obstacles."
+}
+---
 
 ==== yajña-vighnāḥ  ====
   * obstacles --- [[books:sb:4:7:47|SB 4.7.47]]

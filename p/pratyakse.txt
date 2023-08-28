@@ -1,5 +1,11 @@
-~~Title:pratyakṣe~~
-{{description>directly.}}
+---json
+{
+    "name":"pratyakṣe",
+    "h1":"pratyakṣe",
+    "title":"pratyakṣe -- synonyms, prabhupada.io",
+    "description":"directly."
+}
+---
 
 ==== pratyakṣe  ====
   * directly --- [[books:cc:adi:3:85|Ādi 3.85]]

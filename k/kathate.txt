@@ -1,5 +1,11 @@
-~~Title:kathāte~~
-{{description>in all these narrations.}}
+---json
+{
+    "name":"kathāte",
+    "h1":"kathāte",
+    "title":"kathāte -- synonyms, prabhupada.io",
+    "description":"in all these narrations."
+}
+---
 
 ==== e-saba kathāte  ====
   * in all these narrations --- [[books:cc:antya:3:260|Antya 3.260]]

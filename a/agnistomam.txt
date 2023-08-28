@@ -1,5 +1,11 @@
-~~Title:agniṣṭomam~~
-{{description>Agniṣṭoma.}}
+---json
+{
+    "name":"agniṣṭomam",
+    "h1":"agniṣṭomam",
+    "title":"agniṣṭomam -- synonyms, prabhupada.io",
+    "description":"Agniṣṭoma."
+}
+---
 
 ==== agniṣṭomam  ====
   * Agniṣṭoma --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

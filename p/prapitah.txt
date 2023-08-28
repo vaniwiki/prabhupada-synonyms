@@ -1,5 +1,11 @@
-~~Title:prapitah~~
-{{description>achieved; being completely possessed of; has achieved.}}
+---json
+{
+    "name":"prapitah",
+    "h1":"prapitah",
+    "title":"prapitah -- synonyms, prabhupada.io",
+    "description":"achieved; being completely possessed of; has achieved."
+}
+---
 
 ==== prāpitaḥ  ====
   * achieved --- [[books:sb:7:13:25|SB 7.13.25]]

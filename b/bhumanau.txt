@@ -1,5 +1,11 @@
-~~Title:bhūmānau~~
-{{description>the two sons Aja and Bhūmā.}}
+---json
+{
+    "name":"bhūmānau",
+    "h1":"bhūmānau",
+    "title":"bhūmānau -- synonyms, prabhupada.io",
+    "description":"the two sons Aja and Bhūmā."
+}
+---
 
 ==== aja-bhūmānau  ====
   * the two sons Aja and Bhūmā --- [[books:sb:5:15:5|SB 5.15.5]]

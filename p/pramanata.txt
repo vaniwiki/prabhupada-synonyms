@@ -1,5 +1,11 @@
-~~Title:pramāṇatā~~
-{{description>self-evidence.}}
+---json
+{
+    "name":"pramāṇatā",
+    "h1":"pramāṇatā",
+    "title":"pramāṇatā -- synonyms, prabhupada.io",
+    "description":"self-evidence."
+}
+---
 
 ==== svataḥ-pramāṇatā  ====
   * self-evidence --- [[books:cc:adi:7:132|Ādi 7.132]]

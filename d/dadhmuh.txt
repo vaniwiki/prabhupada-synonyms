@@ -1,5 +1,11 @@
-~~Title:dadhmuḥ~~
-{{description>blew.}}
+---json
+{
+    "name":"dadhmuḥ",
+    "h1":"dadhmuḥ",
+    "title":"dadhmuḥ -- synonyms, prabhupada.io",
+    "description":"blew."
+}
+---
 
 ==== dadhmuḥ  ====
   * blew --- [[books:bg:1:16-18|Bg. 1.16-18]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

@@ -1,5 +1,11 @@
-~~Title:vilulita~~
-{{description>disheveled.}}
+---json
+{
+    "name":"vilulita",
+    "h1":"vilulita",
+    "title":"vilulita -- synonyms, prabhupada.io",
+    "description":"disheveled."
+}
+---
 
 ==== vilulita  ====
   * disheveled --- [[books:sb:8:7:17|SB 8.7.17]]

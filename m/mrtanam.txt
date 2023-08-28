@@ -1,5 +1,11 @@
-~~Title:mṛtānām~~
-{{description>of the dead.}}
+---json
+{
+    "name":"mṛtānām",
+    "h1":"mṛtānām",
+    "title":"mṛtānām -- synonyms, prabhupada.io",
+    "description":"of the dead."
+}
+---
 
 ==== mṛtānām  ====
   * of the dead --- [[books:sb:1:7:58|SB 1.7.58]]

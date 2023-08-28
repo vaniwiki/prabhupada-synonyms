@@ -1,5 +1,11 @@
-~~Title:sarāmṛta~~
-{{description>cream.}}
+---json
+{
+    "name":"sarāmṛta",
+    "h1":"sarāmṛta",
+    "title":"sarāmṛta -- synonyms, prabhupada.io",
+    "description":"cream."
+}
+---
 
 ==== sarāmṛta  ====
   * cream --- [[books:cc:madhya:14:29|Madhya 14.29]]

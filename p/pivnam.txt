@@ -1,5 +1,11 @@
-~~Title:pīvnām~~
-{{description>of one who is brought up.}}
+---json
+{
+    "name":"pīvnām",
+    "h1":"pīvnām",
+    "title":"pīvnām -- synonyms, prabhupada.io",
+    "description":"of one who is brought up."
+}
+---
 
 ==== pīvnām  ====
   * of one who is brought up --- [[books:sb:1:18:33|SB 1.18.33]]

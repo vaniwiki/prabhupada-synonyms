@@ -1,5 +1,11 @@
-~~Title:vibhāvasau~~
-{{description>in the fire.}}
+---json
+{
+    "name":"vibhāvasau",
+    "h1":"vibhāvasau",
+    "title":"vibhāvasau -- synonyms, prabhupada.io",
+    "description":"in the fire."
+}
+---
 
 ==== vibhāvasau  ====
   * in the fire --- [[books:bg:7:9|Bg. 7.9]]

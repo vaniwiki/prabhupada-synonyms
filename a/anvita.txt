@@ -1,5 +1,11 @@
-~~Title:anvita~~
-{{description>just obey.}}
+---json
+{
+    "name":"anvita",
+    "h1":"anvita",
+    "title":"anvita -- synonyms, prabhupada.io",
+    "description":"just obey."
+}
+---
 
 ==== anvita  ====
   * just obey --- [[books:sb:9:16:36|SB 9.16.36]]

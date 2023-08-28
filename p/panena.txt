@@ -1,5 +1,11 @@
-~~Title:pānena~~
-{{description>by drinking.}}
+---json
+{
+    "name":"pānena",
+    "h1":"pānena",
+    "title":"pānena -- synonyms, prabhupada.io",
+    "description":"by drinking."
+}
+---
 
 ==== pānena  ====
   * by drinking --- [[books:sb:3:5:46|SB 3.5.46]]

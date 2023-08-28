@@ -1,5 +1,11 @@
-~~Title:dṛśya~~
-{{description>among the visible objects, beginning with the body.}}
+---json
+{
+    "name":"dṛśya",
+    "h1":"dṛśya",
+    "title":"dṛśya -- synonyms, prabhupada.io",
+    "description":"among the visible objects, beginning with the body."
+}
+---
 
 ==== dṛśya-guṇeṣu  ====
   * among the visible objects, beginning with the body --- [[books:sb:10:3:18|SB 10.3.18]]

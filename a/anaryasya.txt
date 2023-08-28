@@ -1,5 +1,11 @@
-~~Title:anāryasya~~
-{{description>the most ill-behaved.}}
+---json
+{
+    "name":"anāryasya",
+    "h1":"anāryasya",
+    "title":"anāryasya -- synonyms, prabhupada.io",
+    "description":"the most ill-behaved."
+}
+---
 
 ==== anāryasya  ====
   * the most ill-behaved --- [[books:sb:5:8:16|SB 5.8.16]]

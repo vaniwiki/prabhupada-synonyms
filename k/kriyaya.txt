@@ -1,5 +1,11 @@
-~~Title:kriyaya~~
-{{description>by fruitive activities; by religious rituals.}}
+---json
+{
+    "name":"kriyaya",
+    "h1":"kriyaya",
+    "title":"kriyaya -- synonyms, prabhupada.io",
+    "description":"by fruitive activities; by religious rituals."
+}
+---
 
 ==== kriyayā  ====
   * by fruitive activities --- [[books:sb:3:32:34-36|SB 3.32.34-36]]

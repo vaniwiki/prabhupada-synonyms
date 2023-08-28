@@ -1,5 +1,11 @@
-~~Title:pariklistam~~
-{{description>grudgingly.}}
+---json
+{
+    "name":"pariklistam",
+    "h1":"pariklistam",
+    "title":"pariklistam -- synonyms, prabhupada.io",
+    "description":"grudgingly."
+}
+---
 
 ==== parikliṣṭam  ====
   * grudgingly --- [[books:bg:17:21|Bg. 17.21]]

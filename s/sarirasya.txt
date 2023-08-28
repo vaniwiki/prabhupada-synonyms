@@ -1,5 +1,11 @@
-~~Title:śarīrasya~~
-{{description>the Supersoul of the whole universe.}}
+---json
+{
+    "name":"śarīrasya",
+    "h1":"śarīrasya",
+    "title":"śarīrasya -- synonyms, prabhupada.io",
+    "description":"the Supersoul of the whole universe."
+}
+---
 
 ==== ākāśa-śarīrasya  ====
   * the Supersoul of the whole universe --- [[books:sb:6:9:42|SB 6.9.42]]

@@ -1,5 +1,11 @@
-~~Title:veditum~~
-{{description>to know; to understand.}}
+---json
+{
+    "name":"veditum",
+    "h1":"veditum",
+    "title":"veditum -- synonyms, prabhupada.io",
+    "description":"to know; to understand."
+}
+---
 
 ==== veditum  ====
   * to know --- [[books:sb:6:3:10|SB 6.3.10]], [[books:sb:6:19:1|SB 6.19.1]], [[books:sb:7:1:17|SB 7.1.17]], [[books:sb:7:4:44|SB 7.4.44]], [[books:sb:9:9:19|SB 9.9.19]]

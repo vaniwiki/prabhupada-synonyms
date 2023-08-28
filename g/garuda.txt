@@ -1,5 +1,11 @@
-~~Title:garuḍa~~
-{{description>by Garuḍa; of the statue of Garuḍa; the biggest eagle; the Garuḍas.}}
+---json
+{
+    "name":"garuḍa",
+    "h1":"garuḍa",
+    "title":"garuḍa -- synonyms, prabhupada.io",
+    "description":"by Garuḍa; of the statue of Garuḍa; the biggest eagle; the Garuḍas."
+}
+---
 
 ==== garuḍa  ====
   * by Garuḍa --- [[books:sb:4:30:6|SB 4.30.6]]

@@ -1,5 +1,11 @@
-~~Title:bhūpate~~
-{{description>O King (Mahārāja Parīkṣit).}}
+---json
+{
+    "name":"bhūpate",
+    "h1":"bhūpate",
+    "title":"bhūpate -- synonyms, prabhupada.io",
+    "description":"O King (Mahārāja Parīkṣit)."
+}
+---
 
 ==== bhūpate  ====
   * O King (Mahārāja Parīkṣit) --- [[books:sb:9:5:27|SB 9.5.27]]

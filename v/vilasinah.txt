@@ -1,5 +1,11 @@
-~~Title:vilāsinaḥ~~
-{{description>who enjoys the pastimes of Vraja.}}
+---json
+{
+    "name":"vilāsinaḥ",
+    "h1":"vilāsinaḥ",
+    "title":"vilāsinaḥ -- synonyms, prabhupada.io",
+    "description":"who enjoys the pastimes of Vraja."
+}
+---
 
 ==== vraja-vilāsinaḥ  ====
   * who enjoys the pastimes of Vraja --- [[books:cc:adi:4:1|Ādi 4.1]]

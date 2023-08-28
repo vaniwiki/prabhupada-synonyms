@@ -1,5 +1,11 @@
-~~Title:vicarana~~
-{{description>consideration; considering.}}
+---json
+{
+    "name":"vicarana",
+    "h1":"vicarana",
+    "title":"vicarana -- synonyms, prabhupada.io",
+    "description":"consideration; considering."
+}
+---
 
 ==== vicāraṇa  ====
   * consideration --- [[books:cc:madhya:24:317|Madhya 24.317]], [[books:cc:madhya:24:340|Madhya 24.340]]

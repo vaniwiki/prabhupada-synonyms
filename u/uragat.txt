@@ -1,5 +1,11 @@
-~~Title:uragāt~~
-{{description>from the great serpent of time, which brings death.}}
+---json
+{
+    "name":"uragāt",
+    "h1":"uragāt",
+    "title":"uragāt -- synonyms, prabhupada.io",
+    "description":"from the great serpent of time, which brings death."
+}
+---
 
 ==== antaka-uragāt  ====
   * from the great serpent of time, which brings death --- [[books:sb:8:2:33|SB 8.2.33]]

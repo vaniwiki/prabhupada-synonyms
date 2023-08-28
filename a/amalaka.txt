@@ -1,5 +1,11 @@
-~~Title:āmalaka~~
-{{description>just like a walnut within your grip.}}
+---json
+{
+    "name":"āmalaka",
+    "h1":"āmalaka",
+    "title":"āmalaka -- synonyms, prabhupada.io",
+    "description":"just like a walnut within your grip."
+}
+---
 
 ==== kara-āmalaka-vat  ====
   * just like a walnut within your grip --- [[books:sb:2:5:3|SB 2.5.3]]

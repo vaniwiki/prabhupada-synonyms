@@ -1,5 +1,11 @@
-~~Title:karileka~~
-{{description>has done.}}
+---json
+{
+    "name":"karileka",
+    "h1":"karileka",
+    "title":"karileka -- synonyms, prabhupada.io",
+    "description":"has done."
+}
+---
 
 ==== karileka  ====
   * has done --- [[books:cc:madhya:7:47|Madhya 7.47]]

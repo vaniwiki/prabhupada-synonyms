@@ -1,5 +1,11 @@
-~~Title:anayan~~
-{{description>passing.}}
+---json
+{
+    "name":"anayan",
+    "h1":"anayan",
+    "title":"anayan -- synonyms, prabhupada.io",
+    "description":"passing."
+}
+---
 
 ==== ānayan  ====
   * passing --- [[books:sb:4:8:74|SB 4.8.74]]

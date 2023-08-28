@@ -1,5 +1,11 @@
-~~Title:calila~~
-{{description>began to move; began to proceed; departed; moved; proceeded; started for; went; went along.}}
+---json
+{
+    "name":"calila",
+    "h1":"calila",
+    "title":"calila -- synonyms, prabhupada.io",
+    "description":"began to move; began to proceed; departed; moved; proceeded; started for; went; went along."
+}
+---
 
 ==== calila  ====
   * began to move --- [[books:cc:madhya:14:55|Madhya 14.55]]

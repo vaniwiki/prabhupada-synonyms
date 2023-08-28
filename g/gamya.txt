@@ -1,5 +1,11 @@
-~~Title:gamya~~
-{{description>within the reach of words and mind.}}
+---json
+{
+    "name":"gamya",
+    "h1":"gamya",
+    "title":"gamya -- synonyms, prabhupada.io",
+    "description":"within the reach of words and mind."
+}
+---
 
 ==== vāk-manaḥ-gamya  ====
   * within the reach of words and mind --- [[books:cc:madhya:21:26|Madhya 21.26]]

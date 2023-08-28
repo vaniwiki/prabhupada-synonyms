@@ -1,5 +1,11 @@
-~~Title:vasya~~
-{{description>controlled.}}
+---json
+{
+    "name":"vasya",
+    "h1":"vasya",
+    "title":"vasya -- synonyms, prabhupada.io",
+    "description":"controlled."
+}
+---
 
 ==== vaśya  ====
   * controlled --- [[books:bg:6:36|Bg. 6.36]]

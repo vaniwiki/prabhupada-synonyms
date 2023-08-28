@@ -1,5 +1,11 @@
-~~Title:abhaya~~
-{{description>abhaya fruits; immunity from material pangs.}}
+---json
+{
+    "name":"abhaya",
+    "h1":"abhaya",
+    "title":"abhaya -- synonyms, prabhupada.io",
+    "description":"abhaya fruits; immunity from material pangs."
+}
+---
 
 ==== abhaya  ====
   * //abhaya// fruits --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

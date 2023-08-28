@@ -1,5 +1,11 @@
-~~Title:āpyāyanam~~
-{{description>Āpyāyana.}}
+---json
+{
+    "name":"āpyāyanam",
+    "h1":"āpyāyanam",
+    "title":"āpyāyanam -- synonyms, prabhupada.io",
+    "description":"Āpyāyana."
+}
+---
 
 ==== āpyāyanam  ====
   * Āpyāyana --- [[books:sb:5:20:9|SB 5.20.9]]

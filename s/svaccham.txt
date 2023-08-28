@@ -1,5 +1,11 @@
-~~Title:svaccham~~
-{{description>clear.}}
+---json
+{
+    "name":"svaccham",
+    "h1":"svaccham",
+    "title":"svaccham -- synonyms, prabhupada.io",
+    "description":"clear."
+}
+---
 
 ==== svaccham  ====
   * clear --- [[books:sb:3:26:21|SB 3.26.21]]

@@ -1,5 +1,11 @@
-~~Title:asaṅgata~~
-{{description>unreasonable.}}
+---json
+{
+    "name":"asaṅgata",
+    "h1":"asaṅgata",
+    "title":"asaṅgata -- synonyms, prabhupada.io",
+    "description":"unreasonable."
+}
+---
 
 ==== asaṅgata  ====
   * unreasonable --- [[books:cc:adi:7:105|Ādi 7.105]]

@@ -1,5 +1,11 @@
-~~Title:cintila~~
-{{description>thought.}}
+---json
+{
+    "name":"cintila",
+    "h1":"cintila",
+    "title":"cintila -- synonyms, prabhupada.io",
+    "description":"thought."
+}
+---
 
 ==== cintila  ====
   * thought --- [[books:cc:madhya:6:7|Madhya 6.7]]

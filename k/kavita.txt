@@ -1,5 +1,11 @@
-~~Title:kavita~~
-{{description>poetry.}}
+---json
+{
+    "name":"kavita",
+    "h1":"kavita",
+    "title":"kavita -- synonyms, prabhupada.io",
+    "description":"poetry."
+}
+---
 
 ==== kavita  ====
   * poetry --- [[books:cc:adi:16:38|Ādi 16.38]]

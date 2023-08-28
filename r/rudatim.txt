@@ -1,5 +1,11 @@
-~~Title:rudatīm~~
-{{description>crying; while she was crying.}}
+---json
+{
+    "name":"rudatīm",
+    "h1":"rudatīm",
+    "title":"rudatīm -- synonyms, prabhupada.io",
+    "description":"crying; while she was crying."
+}
+---
 
 ==== rudatīm  ====
   * crying --- [[books:sb:7:7:7|SB 7.7.7]]

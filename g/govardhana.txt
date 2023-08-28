@@ -1,5 +1,11 @@
-~~Title:govardhana~~
-{{description>Govardhana; Govardhana Hill; Govardhana Hill in Vṛndāvana.}}
+---json
+{
+    "name":"govardhana",
+    "h1":"govardhana",
+    "title":"govardhana -- synonyms, prabhupada.io",
+    "description":"Govardhana; Govardhana Hill; Govardhana Hill in Vṛndāvana."
+}
+---
 
 ==== govardhana  ====
   * Govardhana --- [[books:cc:madhya:16:217|Madhya 16.217]], [[books:cc:antya:3:166|Antya 3.166]], [[books:cc:antya:3:174|Antya 3.174]]

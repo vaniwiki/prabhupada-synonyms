@@ -1,5 +1,11 @@
-~~Title:śatruvat~~
-{{description>as an enemy.}}
+---json
+{
+    "name":"śatruvat",
+    "h1":"śatruvat",
+    "title":"śatruvat -- synonyms, prabhupada.io",
+    "description":"as an enemy."
+}
+---
 
 ==== śatruvat  ====
   * as an enemy --- [[books:bg:6:6|Bg. 6.6]]

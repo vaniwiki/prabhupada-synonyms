@@ -1,5 +1,11 @@
-~~Title:luṭiyā~~
-{{description>plundering.}}
+---json
+{
+    "name":"luṭiyā",
+    "h1":"luṭiyā",
+    "title":"luṭiyā -- synonyms, prabhupada.io",
+    "description":"plundering."
+}
+---
 
 ==== luṭiyā  ====
   * plundering --- [[books:cc:adi:7:24|Ādi 7.24]]

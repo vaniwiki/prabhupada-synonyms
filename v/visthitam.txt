@@ -1,5 +1,11 @@
-~~Title:viṣṭhitam~~
-{{description>situated.}}
+---json
+{
+    "name":"viṣṭhitam",
+    "h1":"viṣṭhitam",
+    "title":"viṣṭhitam -- synonyms, prabhupada.io",
+    "description":"situated."
+}
+---
 
 ==== viṣṭhitam  ====
   * situated --- [[books:bg:13:18|Bg. 13.18]]

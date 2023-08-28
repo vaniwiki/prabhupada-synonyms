@@ -1,5 +1,11 @@
-~~Title:badhnāti~~
-{{description>binds; conditions; encroaches.}}
+---json
+{
+    "name":"badhnāti",
+    "h1":"badhnāti",
+    "title":"badhnāti -- synonyms, prabhupada.io",
+    "description":"binds; conditions; encroaches."
+}
+---
 
 ==== badhnāti  ====
   * binds --- [[books:sb:6:3:13|SB 6.3.13]]

@@ -1,5 +1,11 @@
-~~Title:anumāpakaiḥ~~
-{{description>by hypothesis.}}
+---json
+{
+    "name":"anumāpakaiḥ",
+    "h1":"anumāpakaiḥ",
+    "title":"anumāpakaiḥ -- synonyms, prabhupada.io",
+    "description":"by hypothesis."
+}
+---
 
 ==== anumāpakaiḥ  ====
   * by hypothesis --- [[books:sb:2:2:35|SB 2.2.35]]

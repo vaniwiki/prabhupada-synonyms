@@ -1,5 +1,11 @@
-~~Title:gaṇibe~~
-{{description>can count.}}
+---json
+{
+    "name":"gaṇibe",
+    "h1":"gaṇibe",
+    "title":"gaṇibe -- synonyms, prabhupada.io",
+    "description":"can count."
+}
+---
 
 ==== gaṇibe  ====
   * can count --- [[books:cc:adi:9:19|Ādi 9.19]], [[books:cc:madhya:8:185|Madhya 8.185]]

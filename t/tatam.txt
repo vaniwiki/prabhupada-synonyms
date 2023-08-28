@@ -1,5 +1,11 @@
-~~Title:tatam~~
-{{description>distributed; expanded; is pervaded; pervaded; spread; spread throughout; the father; widespread.}}
+---json
+{
+    "name":"tatam",
+    "h1":"tatam",
+    "title":"tatam -- synonyms, prabhupada.io",
+    "description":"distributed; expanded; is pervaded; pervaded; spread; spread throughout; the father; widespread."
+}
+---
 
 ==== tatam  ====
   * distributed --- [[books:bg:8:22|Bg. 8.22]]

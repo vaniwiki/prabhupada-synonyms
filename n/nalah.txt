@@ -1,5 +1,11 @@
-~~Title:nalaḥ~~
-{{description>Nala.}}
+---json
+{
+    "name":"nalaḥ",
+    "h1":"nalaḥ",
+    "title":"nalaḥ -- synonyms, prabhupada.io",
+    "description":"Nala."
+}
+---
 
 ==== nalaḥ  ====
   * Nala --- [[books:sb:9:23:20-21|SB 9.23.20-21]]

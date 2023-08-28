@@ -1,5 +1,11 @@
-~~Title:āhvayāya~~
-{{description>whose name.}}
+---json
+{
+    "name":"āhvayāya",
+    "h1":"āhvayāya",
+    "title":"āhvayāya -- synonyms, prabhupada.io",
+    "description":"whose name."
+}
+---
 
 ==== āhvayāya  ====
   * whose name --- [[books:sb:4:30:22|SB 4.30.22]]

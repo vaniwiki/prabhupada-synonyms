@@ -1,5 +1,11 @@
-~~Title:cyavate~~
-{{description>deviates; gives up.}}
+---json
+{
+    "name":"cyavate",
+    "h1":"cyavate",
+    "title":"cyavate -- synonyms, prabhupada.io",
+    "description":"deviates; gives up."
+}
+---
 
 ==== cyavate  ====
   * deviates --- [[books:sb:3:28:18|SB 3.28.18]]

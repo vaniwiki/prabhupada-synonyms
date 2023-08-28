@@ -1,5 +1,11 @@
-~~Title:yaman~~
-{{description>principles of control.}}
+---json
+{
+    "name":"yaman",
+    "h1":"yaman",
+    "title":"yaman -- synonyms, prabhupada.io",
+    "description":"principles of control."
+}
+---
 
 ==== yamān  ====
   * principles of control --- [[books:sb:2:9:40|SB 2.9.40]]

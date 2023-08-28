@@ -1,5 +1,11 @@
-~~Title:piye~~
-{{description>drink; drinks; he drinks; they drink.}}
+---json
+{
+    "name":"piye",
+    "h1":"piye",
+    "title":"piye -- synonyms, prabhupada.io",
+    "description":"drink; drinks; he drinks; they drink."
+}
+---
 
 ==== piye  ====
   * drink --- [[books:cc:adi:7:20-21|Ādi 7.20-21]], [[books:cc:antya:9:121|Antya 9.121]], [[books:cc:antya:11:65|Antya 11.65]], [[books:cc:antya:16:147|Antya 16.147]], [[books:cc:antya:19:42|Antya 19.42]]

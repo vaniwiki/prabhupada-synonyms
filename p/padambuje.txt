@@ -1,5 +1,11 @@
-~~Title:padāmbuje~~
-{{description>the lotus feet.}}
+---json
+{
+    "name":"padāmbuje",
+    "h1":"padāmbuje",
+    "title":"padāmbuje -- synonyms, prabhupada.io",
+    "description":"the lotus feet."
+}
+---
 
 ==== padāmbuje  ====
   * the lotus feet --- [[books:sb:6:5:22|SB 6.5.22]]

@@ -1,5 +1,11 @@
-~~Title:suta~~
-{{description>children; his son; of sons; son; sons.}}
+---json
+{
+    "name":"suta",
+    "h1":"suta",
+    "title":"suta -- synonyms, prabhupada.io",
+    "description":"children; his son; of sons; son; sons."
+}
+---
 
 ==== suta  ====
   * children --- [[books:sb:3:30:6|SB 3.30.6]], [[books:sb:5:1:4|SB 5.1.4]], [[books:sb:5:5:8|SB 5.5.8]], [[books:sb:5:14:44|SB 5.14.44]], [[books:cc:madhya:9:269|Madhya 9.269]]

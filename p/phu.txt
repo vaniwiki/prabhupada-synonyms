@@ -1,5 +1,11 @@
-~~Title:phu~~
-{{description>a loud call.}}
+---json
+{
+    "name":"phu",
+    "h1":"phu",
+    "title":"phu -- synonyms, prabhupada.io",
+    "description":"a loud call."
+}
+---
 
 ==== phu-kāra  ====
   * a loud call --- [[books:cc:antya:14:88|Antya 14.88]]

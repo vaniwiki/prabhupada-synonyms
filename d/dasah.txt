@@ -1,5 +1,11 @@
-~~Title:dasah~~
-{{description>servants.}}
+---json
+{
+    "name":"dasah",
+    "h1":"dasah",
+    "title":"dasah -- synonyms, prabhupada.io",
+    "description":"servants."
+}
+---
 
 ==== dāsāḥ  ====
   * servants --- [[books:cc:madhya:15:237|Madhya 15.237]]

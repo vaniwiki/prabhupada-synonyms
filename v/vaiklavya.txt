@@ -1,5 +1,11 @@
-~~Title:vaiklavya~~
-{{description>ecstasy; transformation.}}
+---json
+{
+    "name":"vaiklavya",
+    "h1":"vaiklavya",
+    "title":"vaiklavya -- synonyms, prabhupada.io",
+    "description":"ecstasy; transformation."
+}
+---
 
 ==== vaiklavya  ====
   * ecstasy --- [[books:sb:3:15:25|SB 3.15.25]]

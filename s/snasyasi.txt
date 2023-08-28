@@ -1,5 +1,11 @@
-~~Title:snāsyasi~~
-{{description>take your bath.}}
+---json
+{
+    "name":"snāsyasi",
+    "h1":"snāsyasi",
+    "title":"snāsyasi -- synonyms, prabhupada.io",
+    "description":"take your bath."
+}
+---
 
 ==== snāsyasi  ====
   * take your bath --- [[books:sb:1:7:16|SB 1.7.16]]

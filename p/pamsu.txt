@@ -1,5 +1,11 @@
-~~Title:pamsu~~
-{{description>by dust.}}
+---json
+{
+    "name":"pamsu",
+    "h1":"pamsu",
+    "title":"pamsu -- synonyms, prabhupada.io",
+    "description":"by dust."
+}
+---
 
 ==== pāṁsu  ====
   * by dust --- [[books:sb:5:13:4|SB 5.13.4]]

@@ -1,5 +1,11 @@
-~~Title:veṇyā~~
-{{description>Kṛṣṇāveṇyā.}}
+---json
+{
+    "name":"veṇyā",
+    "h1":"veṇyā",
+    "title":"veṇyā -- synonyms, prabhupada.io",
+    "description":"Kṛṣṇāveṇyā."
+}
+---
 
 ==== kṛṣṇā-veṇyā  ====
   * Kṛṣṇāveṇyā --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

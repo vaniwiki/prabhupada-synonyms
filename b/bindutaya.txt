@@ -1,5 +1,11 @@
-~~Title:bindutayā~~
-{{description>with a very minute quantity.}}
+---json
+{
+    "name":"bindutayā",
+    "h1":"bindutayā",
+    "title":"bindutayā -- synonyms, prabhupada.io",
+    "description":"with a very minute quantity."
+}
+---
 
 ==== bindu-bindutayā  ====
   * with a very minute quantity --- [[books:cc:madhya:23:77|Madhya 23.77]]

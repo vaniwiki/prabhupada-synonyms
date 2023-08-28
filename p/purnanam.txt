@@ -1,5 +1,11 @@
-~~Title:pūrṇānām~~
-{{description>full of clear and transparent water.}}
+---json
+{
+    "name":"pūrṇānām",
+    "h1":"pūrṇānām",
+    "title":"pūrṇānām -- synonyms, prabhupada.io",
+    "description":"full of clear and transparent water."
+}
+---
 
 ==== amala-jala-pūrṇānām  ====
   * full of clear and transparent water --- [[books:sb:5:24:10|SB 5.24.10]]

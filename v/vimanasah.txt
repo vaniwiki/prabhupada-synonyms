@@ -1,5 +1,11 @@
-~~Title:vimanasaḥ~~
-{{description>morose.}}
+---json
+{
+    "name":"vimanasaḥ",
+    "h1":"vimanasaḥ",
+    "title":"vimanasaḥ -- synonyms, prabhupada.io",
+    "description":"morose."
+}
+---
 
 ==== vimanasaḥ  ====
   * morose --- [[books:sb:9:1:27|SB 9.1.27]]

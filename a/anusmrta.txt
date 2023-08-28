@@ -1,5 +1,11 @@
-~~Title:anusmṛta~~
-{{description>remembered.}}
+---json
+{
+    "name":"anusmṛta",
+    "h1":"anusmṛta",
+    "title":"anusmṛta -- synonyms, prabhupada.io",
+    "description":"remembered."
+}
+---
 
 ==== anusmṛta  ====
   * remembered --- [[books:sb:5:9:3|SB 5.9.3]]

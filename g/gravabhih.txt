@@ -1,5 +1,11 @@
-~~Title:grāvabhiḥ~~
-{{description>by stones.}}
+---json
+{
+    "name":"grāvabhiḥ",
+    "h1":"grāvabhiḥ",
+    "title":"grāvabhiḥ -- synonyms, prabhupada.io",
+    "description":"by stones."
+}
+---
 
 ==== grāvabhiḥ  ====
   * by stones --- [[books:sb:4:5:18|SB 4.5.18]]

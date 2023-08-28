@@ -1,5 +1,11 @@
-~~Title:vegena~~
-{{description>with great force.}}
+---json
+{
+    "name":"vegena",
+    "h1":"vegena",
+    "title":"vegena -- synonyms, prabhupada.io",
+    "description":"with great force."
+}
+---
 
 ==== vegena  ====
   * with great force --- [[books:sb:7:8:27|SB 7.8.27]]

@@ -1,5 +1,11 @@
-~~Title:uḍi'~~
-{{description>being blown; flying.}}
+---json
+{
+    "name":"uḍi'",
+    "h1":"uḍi'",
+    "title":"uḍi' -- synonyms, prabhupada.io",
+    "description":"being blown; flying."
+}
+---
 
 ==== uḍi'  ====
   * being blown --- [[books:cc:madhya:15:82|Madhya 15.82]]

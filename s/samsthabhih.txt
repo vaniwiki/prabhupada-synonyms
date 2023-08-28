@@ -1,5 +1,11 @@
-~~Title:saṁsthābhiḥ~~
-{{description>as well as with their different situations.}}
+---json
+{
+    "name":"saṁsthābhiḥ",
+    "h1":"saṁsthābhiḥ",
+    "title":"saṁsthābhiḥ -- synonyms, prabhupada.io",
+    "description":"as well as with their different situations."
+}
+---
 
 ==== saṁsthābhiḥ  ====
   * as well as with their different situations --- [[books:sb:5:20:38|SB 5.20.38]]

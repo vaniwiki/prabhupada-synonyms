@@ -1,5 +1,11 @@
-~~Title:pesala~~
-{{description>formation of the body.}}
+---json
+{
+    "name":"pesala",
+    "h1":"pesala",
+    "title":"pesala -- synonyms, prabhupada.io",
+    "description":"formation of the body."
+}
+---
 
 ==== peśala  ====
   * formation of the body --- [[books:sb:7:15:70|SB 7.15.70]]

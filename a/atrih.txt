@@ -1,5 +1,11 @@
-~~Title:atriḥ~~
-{{description>Atri; by the name Atri; the great sage Atri; the sage Atri.}}
+---json
+{
+    "name":"atriḥ",
+    "h1":"atriḥ",
+    "title":"atriḥ -- synonyms, prabhupada.io",
+    "description":"Atri; by the name Atri; the great sage Atri; the sage Atri."
+}
+---
 
 ==== atriḥ  ====
   * Atri --- [[books:sb:1:9:6-7|SB 1.9.6-7]], [[books:sb:4:1:17|SB 4.1.17]], [[books:sb:8:13:5|SB 8.13.5]]

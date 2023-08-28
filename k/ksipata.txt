@@ -1,5 +1,11 @@
-~~Title:kṣipata~~
-{{description>supersedes.}}
+---json
+{
+    "name":"kṣipata",
+    "h1":"kṣipata",
+    "title":"kṣipata -- synonyms, prabhupada.io",
+    "description":"supersedes."
+}
+---
 
 ==== kṣipata  ====
   * supersedes --- [[books:sb:4:1:57|SB 4.1.57]]

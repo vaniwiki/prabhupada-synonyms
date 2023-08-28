@@ -1,5 +1,11 @@
-~~Title:oṣṭhaḥ~~
-{{description>lip.}}
+---json
+{
+    "name":"oṣṭhaḥ",
+    "h1":"oṣṭhaḥ",
+    "title":"oṣṭhaḥ -- synonyms, prabhupada.io",
+    "description":"lip."
+}
+---
 
 ==== oṣṭhaḥ  ====
   * lip --- [[books:sb:2:1:32|SB 2.1.32]]

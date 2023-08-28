@@ -1,5 +1,11 @@
-~~Title:prapatan~~
-{{description>constantly falling down; falling down (in this condition).}}
+---json
+{
+    "name":"prapatan",
+    "h1":"prapatan",
+    "title":"prapatan -- synonyms, prabhupada.io",
+    "description":"constantly falling down; falling down (in this condition)."
+}
+---
 
 ==== prapatan  ====
   * constantly falling down --- [[books:sb:6:14:50-51|SB 6.14.50-51]]

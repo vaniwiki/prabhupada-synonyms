@@ -1,5 +1,11 @@
-~~Title:āgatena~~
-{{description>by words of welcome.}}
+---json
+{
+    "name":"āgatena",
+    "h1":"āgatena",
+    "title":"āgatena -- synonyms, prabhupada.io",
+    "description":"by words of welcome."
+}
+---
 
 ==== su-āgatena  ====
   * by words of welcome --- [[books:sb:8:18:27|SB 8.18.27]]

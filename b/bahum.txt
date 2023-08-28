@@ -1,5 +1,11 @@
-~~Title:bāhum~~
-{{description>arm; arms; hand; hands.}}
+---json
+{
+    "name":"bāhum",
+    "h1":"bāhum",
+    "title":"bāhum -- synonyms, prabhupada.io",
+    "description":"arm; arms; hand; hands."
+}
+---
 
 ==== bāhum  ====
   * arm --- [[books:cc:antya:15:51|Antya 15.51]]

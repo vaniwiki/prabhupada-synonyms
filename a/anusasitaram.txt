@@ -1,5 +1,11 @@
-~~Title:anuśāsitāram~~
-{{description>the controller.}}
+---json
+{
+    "name":"anuśāsitāram",
+    "h1":"anuśāsitāram",
+    "title":"anuśāsitāram -- synonyms, prabhupada.io",
+    "description":"the controller."
+}
+---
 
 ==== anuśāsitāram  ====
   * the controller --- [[books:bg:8:9|Bg. 8.9]]

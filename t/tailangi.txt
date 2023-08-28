@@ -1,5 +1,11 @@
-~~Title:tailaṅgī~~
-{{description>cows belonging to the Tailaṅga district.}}
+---json
+{
+    "name":"tailaṅgī",
+    "h1":"tailaṅgī",
+    "title":"tailaṅgī -- synonyms, prabhupada.io",
+    "description":"cows belonging to the Tailaṅga district."
+}
+---
 
 ==== tailaṅgī-gābhī-gaṇa  ====
   * cows belonging to the Tailaṅga district --- [[books:cc:antya:17:12|Antya 17.12]]

@@ -1,5 +1,11 @@
-~~Title:biśa~~
-{{description>twenty.}}
+---json
+{
+    "name":"biśa",
+    "h1":"biśa",
+    "title":"biśa -- synonyms, prabhupada.io",
+    "description":"twenty."
+}
+---
 
 ==== biśa  ====
   * twenty --- [[books:cc:madhya:21:67|Madhya 21.67]], [[books:cc:antya:6:151|Antya 6.151]]

@@ -1,5 +1,11 @@
-~~Title:jihvāte~~
-{{description>on the tongue.}}
+---json
+{
+    "name":"jihvāte",
+    "h1":"jihvāte",
+    "title":"jihvāte -- synonyms, prabhupada.io",
+    "description":"on the tongue."
+}
+---
 
 ==== jihvāte  ====
   * on the tongue --- [[books:cc:madhya:9:27|Madhya 9.27]], [[books:cc:antya:16:92|Antya 16.92]]

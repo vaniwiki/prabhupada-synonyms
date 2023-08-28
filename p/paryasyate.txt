@@ -1,5 +1,11 @@
-~~Title:paryasyate~~
-{{description>he will circumambulate.}}
+---json
+{
+    "name":"paryasyate",
+    "h1":"paryasyate",
+    "title":"paryasyate -- synonyms, prabhupada.io",
+    "description":"he will circumambulate."
+}
+---
 
 ==== paryasyate  ====
   * he will circumambulate --- [[books:sb:4:16:20|SB 4.16.20]]

@@ -1,5 +1,11 @@
-~~Title:mamarda~~
-{{description>trampled.}}
+---json
+{
+    "name":"mamarda",
+    "h1":"mamarda",
+    "title":"mamarda -- synonyms, prabhupada.io",
+    "description":"trampled."
+}
+---
 
 ==== mamarda  ====
   * trampled --- [[books:sb:6:11:8|SB 6.11.8]]

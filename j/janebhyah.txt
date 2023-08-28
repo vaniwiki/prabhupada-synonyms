@@ -1,5 +1,11 @@
-~~Title:janebhyaḥ~~
-{{description>to the people in general.}}
+---json
+{
+    "name":"janebhyaḥ",
+    "h1":"janebhyaḥ",
+    "title":"janebhyaḥ -- synonyms, prabhupada.io",
+    "description":"to the people in general."
+}
+---
 
 ==== janebhyaḥ  ====
   * to the people in general --- [[books:cc:madhya:23:1|Madhya 23.1]]

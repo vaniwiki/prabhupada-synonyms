@@ -1,5 +1,11 @@
-~~Title:samvartakah~~
-{{description>the fire of devastation.}}
+---json
+{
+    "name":"samvartakah",
+    "h1":"samvartakah",
+    "title":"samvartakah -- synonyms, prabhupada.io",
+    "description":"the fire of devastation."
+}
+---
 
 ==== saṁvartakaḥ  ====
   * the fire of devastation --- [[books:sb:4:30:45|SB 4.30.45]]

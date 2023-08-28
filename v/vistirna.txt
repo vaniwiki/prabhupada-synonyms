@@ -1,5 +1,11 @@
-~~Title:vistīrṇa~~
-{{description>spread.}}
+---json
+{
+    "name":"vistīrṇa",
+    "h1":"vistīrṇa",
+    "title":"vistīrṇa -- synonyms, prabhupada.io",
+    "description":"spread."
+}
+---
 
 ==== vistīrṇa  ====
   * spread --- [[books:cc:adi:5:118|Ādi 5.118]]

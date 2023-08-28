@@ -1,5 +1,11 @@
-~~Title:camūpatiḥ~~
-{{description>the master of all the chiefs of the demons.}}
+---json
+{
+    "name":"camūpatiḥ",
+    "h1":"camūpatiḥ",
+    "title":"camūpatiḥ -- synonyms, prabhupada.io",
+    "description":"the master of all the chiefs of the demons."
+}
+---
 
 ==== sarva-asura-camūpatiḥ  ====
   * the master of all the chiefs of the demons --- [[books:sb:8:23:11-12|SB 8.23.11-12]]

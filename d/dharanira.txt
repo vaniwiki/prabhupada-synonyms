@@ -1,5 +1,11 @@
-~~Title:dharaṇīra~~
-{{description>among the material planets.}}
+---json
+{
+    "name":"dharaṇīra",
+    "h1":"dharaṇīra",
+    "title":"dharaṇīra -- synonyms, prabhupada.io",
+    "description":"among the material planets."
+}
+---
 
 ==== dharaṇīra madhye  ====
   * among the material planets --- [[books:cc:adi:5:110|Ādi 5.110]]

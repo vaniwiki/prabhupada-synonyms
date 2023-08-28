@@ -1,5 +1,11 @@
-~~Title:ārebhire~~
-{{description>began; began to act.}}
+---json
+{
+    "name":"ārebhire",
+    "h1":"ārebhire",
+    "title":"ārebhire -- synonyms, prabhupada.io",
+    "description":"began; began to act."
+}
+---
 
 ==== ārebhire  ====
   * began --- [[books:sb:4:27:15|SB 4.27.15]]

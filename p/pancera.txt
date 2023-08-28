@@ -1,5 +1,11 @@
-~~Title:pāṅcera~~
-{{description>of the five.}}
+---json
+{
+    "name":"pāṅcera",
+    "h1":"pāṅcera",
+    "title":"pāṅcera -- synonyms, prabhupada.io",
+    "description":"of the five."
+}
+---
 
 ==== pāṅcera  ====
   * of the five --- [[books:cc:adi:7:3|Ādi 7.3]], [[books:cc:madhya:22:129|Madhya 22.129]]

@@ -1,5 +1,11 @@
-~~Title:karśitām~~
-{{description>emaciated.}}
+---json
+{
+    "name":"karśitām",
+    "h1":"karśitām",
+    "title":"karśitām -- synonyms, prabhupada.io",
+    "description":"emaciated."
+}
+---
 
 ==== karśitām  ====
   * emaciated --- [[books:sb:3:23:4-5|SB 3.23.4-5]]

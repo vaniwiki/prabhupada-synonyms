@@ -1,5 +1,11 @@
-~~Title:tāvantaḥ~~
-{{description>the same number of boys.}}
+---json
+{
+    "name":"tāvantaḥ",
+    "h1":"tāvantaḥ",
+    "title":"tāvantaḥ -- synonyms, prabhupada.io",
+    "description":"the same number of boys."
+}
+---
 
 ==== tāvantaḥ  ====
   * the same number of boys --- [[books:sb:10:13:42|SB 10.13.42]]

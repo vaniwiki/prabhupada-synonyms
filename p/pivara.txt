@@ -1,5 +1,11 @@
-~~Title:pīvara~~
-{{description>fat; stout and strong.}}
+---json
+{
+    "name":"pīvara",
+    "h1":"pīvara",
+    "title":"pīvara -- synonyms, prabhupada.io",
+    "description":"fat; stout and strong."
+}
+---
 
 ==== pīvara  ====
   * fat --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

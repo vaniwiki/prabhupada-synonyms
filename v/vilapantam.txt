@@ -1,5 +1,11 @@
-~~Title:vilapantam~~
-{{description>while lamenting.}}
+---json
+{
+    "name":"vilapantam",
+    "h1":"vilapantam",
+    "title":"vilapantam -- synonyms, prabhupada.io",
+    "description":"while lamenting."
+}
+---
 
 ==== vilapantam  ====
   * while lamenting --- [[books:sb:7:2:56|SB 7.2.56]]

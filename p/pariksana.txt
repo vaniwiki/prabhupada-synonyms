@@ -1,5 +1,11 @@
-~~Title:parīkṣaṇa~~
-{{description>examination; examining; testing; the testing.}}
+---json
+{
+    "name":"parīkṣaṇa",
+    "h1":"parīkṣaṇa",
+    "title":"parīkṣaṇa -- synonyms, prabhupada.io",
+    "description":"examination; examining; testing; the testing."
+}
+---
 
 ==== parīkṣaṇa  ====
   * examination --- [[books:cc:madhya:1:260|Madhya 1.260]], [[books:cc:madhya:10:114|Madhya 10.114]]

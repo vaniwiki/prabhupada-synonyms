@@ -1,5 +1,11 @@
-~~Title:purātana~~
-{{description>old; the old; very old.}}
+---json
+{
+    "name":"purātana",
+    "h1":"purātana",
+    "title":"purātana -- synonyms, prabhupada.io",
+    "description":"old; the old; very old."
+}
+---
 
 ==== purātana  ====
   * old --- [[books:cc:madhya:1:119|Madhya 1.119]], [[books:cc:madhya:1:207|Madhya 1.207]], [[books:cc:madhya:20:77|Madhya 20.77]], [[books:cc:madhya:20:78|Madhya 20.78]]

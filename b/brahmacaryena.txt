@@ -1,5 +1,11 @@
-~~Title:brahmacaryeṇa~~
-{{description>by celibacy (the first austerity); by observing celibacy.}}
+---json
+{
+    "name":"brahmacaryeṇa",
+    "h1":"brahmacaryeṇa",
+    "title":"brahmacaryeṇa -- synonyms, prabhupada.io",
+    "description":"by celibacy (the first austerity); by observing celibacy."
+}
+---
 
 ==== brahmacaryeṇa  ====
   * by celibacy (the first austerity) --- [[books:sb:6:1:13-14|SB 6.1.13-14]]

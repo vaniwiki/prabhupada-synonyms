@@ -1,5 +1,11 @@
-~~Title:samudra~~
-{{description>in the ocean; oceans; oceans and seas; of the ocean; of the ocean of milk; of the sea; sea; the Indian Ocean; the oceans; the sea.}}
+---json
+{
+    "name":"samudra",
+    "h1":"samudra",
+    "title":"samudra -- synonyms, prabhupada.io",
+    "description":"in the ocean; oceans; oceans and seas; of the ocean; of the ocean of milk; of the sea; sea; the Indian Ocean; the oceans; the sea."
+}
+---
 
 ==== samudra  ====
   * in the ocean --- [[books:sb:8:3:20-21|SB 8.3.20-21]], [[books:sb:8:24:7|SB 8.24.7]]

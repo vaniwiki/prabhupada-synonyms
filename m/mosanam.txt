@@ -1,5 +1,11 @@
-~~Title:moṣaṇam~~
-{{description>which robs one.}}
+---json
+{
+    "name":"moṣaṇam",
+    "h1":"moṣaṇam",
+    "title":"moṣaṇam -- synonyms, prabhupada.io",
+    "description":"which robs one."
+}
+---
 
 ==== moṣaṇam  ====
   * which robs one --- [[books:sb:5:24:22|SB 5.24.22]]

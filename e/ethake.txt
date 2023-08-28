@@ -1,5 +1,11 @@
-~~Title:ethāke~~
-{{description>here.}}
+---json
+{
+    "name":"ethāke",
+    "h1":"ethāke",
+    "title":"ethāke -- synonyms, prabhupada.io",
+    "description":"here."
+}
+---
 
 ==== ethāke  ====
   * here --- [[books:cc:madhya:16:172|Madhya 16.172]]

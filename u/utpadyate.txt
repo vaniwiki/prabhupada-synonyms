@@ -1,5 +1,11 @@
-~~Title:utpadyate~~
-{{description>sprout up.}}
+---json
+{
+    "name":"utpadyate",
+    "h1":"utpadyate",
+    "title":"utpadyate -- synonyms, prabhupada.io",
+    "description":"sprout up."
+}
+---
 
 ==== utpadyate  ====
   * sprout up --- [[books:sb:1:7:7|SB 1.7.7]]

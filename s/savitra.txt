@@ -1,5 +1,11 @@
-~~Title:savitra~~
-{{description>with the sun-god.}}
+---json
+{
+    "name":"savitra",
+    "h1":"savitra",
+    "title":"savitra -- synonyms, prabhupada.io",
+    "description":"with the sun-god."
+}
+---
 
 ==== savitrā  ====
   * with the sun-god --- [[books:sb:8:10:29|SB 8.10.29]]

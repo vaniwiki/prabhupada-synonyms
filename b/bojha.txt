@@ -1,5 +1,11 @@
-~~Title:bojhā~~
-{{description>burden; in loads; load.}}
+---json
+{
+    "name":"bojhā",
+    "h1":"bojhā",
+    "title":"bojhā -- synonyms, prabhupada.io",
+    "description":"burden; in loads; load."
+}
+---
 
 ==== bojhā  ====
   * burden --- [[books:cc:madhya:25:170|Madhya 25.170]]

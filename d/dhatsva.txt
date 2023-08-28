@@ -1,5 +1,11 @@
-~~Title:dhatsva~~
-{{description>make.}}
+---json
+{
+    "name":"dhatsva",
+    "h1":"dhatsva",
+    "title":"dhatsva -- synonyms, prabhupada.io",
+    "description":"make."
+}
+---
 
 ==== dhatsva  ====
   * make --- [[books:sb:7:8:9|SB 7.8.9]]

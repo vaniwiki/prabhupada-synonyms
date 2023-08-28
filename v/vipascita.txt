@@ -1,5 +1,11 @@
-~~Title:vipaścitā~~
-{{description>by persons who are sufficiently learned.}}
+---json
+{
+    "name":"vipaścitā",
+    "h1":"vipaścitā",
+    "title":"vipaścitā -- synonyms, prabhupada.io",
+    "description":"by persons who are sufficiently learned."
+}
+---
 
 ==== vipaścitā  ====
   * by persons who are sufficiently learned --- [[books:sb:8:3:11|SB 8.3.11]]

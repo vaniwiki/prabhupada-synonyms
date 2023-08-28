@@ -1,5 +1,11 @@
-~~Title:yāpana~~
-{{description>passing.}}
+---json
+{
+    "name":"yāpana",
+    "h1":"yāpana",
+    "title":"yāpana -- synonyms, prabhupada.io",
+    "description":"passing."
+}
+---
 
 ==== yāpana  ====
   * passing --- [[books:cc:madhya:5:4|Madhya 5.4]]

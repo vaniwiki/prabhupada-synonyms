@@ -1,5 +1,11 @@
-~~Title:āmrera~~
-{{description>of mango.}}
+---json
+{
+    "name":"āmrera",
+    "h1":"āmrera",
+    "title":"āmrera -- synonyms, prabhupada.io",
+    "description":"of mango."
+}
+---
 
 ==== āmrera  ====
   * of mango --- [[books:cc:adi:4:234|Ādi 4.234]]

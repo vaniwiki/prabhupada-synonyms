@@ -1,5 +1,11 @@
-~~Title:avasecanam~~
-{{description>watering.}}
+---json
+{
+    "name":"avasecanam",
+    "h1":"avasecanam",
+    "title":"avasecanam -- synonyms, prabhupada.io",
+    "description":"watering."
+}
+---
 
 ==== avasecanam  ====
   * watering --- [[books:sb:8:5:49|SB 8.5.49]]

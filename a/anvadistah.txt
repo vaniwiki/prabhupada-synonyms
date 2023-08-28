@@ -1,5 +1,11 @@
-~~Title:anvādiṣṭāḥ~~
-{{description>ordered.}}
+---json
+{
+    "name":"anvādiṣṭāḥ",
+    "h1":"anvādiṣṭāḥ",
+    "title":"anvādiṣṭāḥ -- synonyms, prabhupada.io",
+    "description":"ordered."
+}
+---
 
 ==== anvādiṣṭāḥ  ====
   * ordered --- [[books:sb:6:4:10|SB 6.4.10]]

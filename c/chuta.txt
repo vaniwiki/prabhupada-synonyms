@@ -1,5 +1,11 @@
-~~Title:chuṭā~~
-{{description>the betel.}}
+---json
+{
+    "name":"chuṭā",
+    "h1":"chuṭā",
+    "title":"chuṭā -- synonyms, prabhupada.io",
+    "description":"the betel."
+}
+---
 
 ==== chuṭā pāna  ====
   * the betel --- [[books:cc:antya:13:124|Antya 13.124]]

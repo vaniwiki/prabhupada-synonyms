@@ -1,5 +1,11 @@
-~~Title:amāninā~~
-{{description>without being puffed up by false pride.}}
+---json
+{
+    "name":"amāninā",
+    "h1":"amāninā",
+    "title":"amāninā -- synonyms, prabhupada.io",
+    "description":"without being puffed up by false pride."
+}
+---
 
 ==== amāninā  ====
   * without being puffed up by false pride --- [[books:cc:adi:17:31|Ādi 17.31]], [[books:cc:antya:6:239|Antya 6.239]], [[books:cc:antya:20:21|Antya 20.21]]

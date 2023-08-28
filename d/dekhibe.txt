@@ -1,5 +1,11 @@
-~~Title:dekhibe~~
-{{description>will see; will see you; you will see.}}
+---json
+{
+    "name":"dekhibe",
+    "h1":"dekhibe",
+    "title":"dekhibe -- synonyms, prabhupada.io",
+    "description":"will see; will see you; you will see."
+}
+---
 
 ==== dekhibe  ====
   * will see --- [[books:cc:madhya:21:134|Madhya 21.134]]

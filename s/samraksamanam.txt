@@ -1,5 +1,11 @@
-~~Title:saṁrakṣamāṇam~~
-{{description>protecting.}}
+---json
+{
+    "name":"saṁrakṣamāṇam",
+    "h1":"saṁrakṣamāṇam",
+    "title":"saṁrakṣamāṇam -- synonyms, prabhupada.io",
+    "description":"protecting."
+}
+---
 
 ==== saṁrakṣamāṇam  ====
   * protecting --- [[books:sb:5:9:13|SB 5.9.13]]

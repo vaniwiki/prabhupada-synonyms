@@ -1,5 +1,11 @@
-~~Title:kṛtavatī~~
-{{description>performed.}}
+---json
+{
+    "name":"kṛtavatī",
+    "h1":"kṛtavatī",
+    "title":"kṛtavatī -- synonyms, prabhupada.io",
+    "description":"performed."
+}
+---
 
 ==== kṛtavatī  ====
   * performed --- [[books:sb:10:11:20|SB 10.11.20]]

@@ -1,5 +1,11 @@
-~~Title:sandaṁśaiḥ~~
-{{description>with tongs.}}
+---json
+{
+    "name":"sandaṁśaiḥ",
+    "h1":"sandaṁśaiḥ",
+    "title":"sandaṁśaiḥ -- synonyms, prabhupada.io",
+    "description":"with tongs."
+}
+---
 
 ==== sandaṁśaiḥ  ====
   * with tongs --- [[books:sb:5:26:19|SB 5.26.19]]

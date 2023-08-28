@@ -1,5 +1,11 @@
-~~Title:śūdrāṇām~~
-{{description>the śūdras.}}
+---json
+{
+    "name":"śūdrāṇām",
+    "h1":"śūdrāṇām",
+    "title":"śūdrāṇām -- synonyms, prabhupada.io",
+    "description":"the śūdras."
+}
+---
 
 ==== śūdrāṇām  ====
   * the //śūdras// --- [[books:bg:18:41|Bg. 18.41]]

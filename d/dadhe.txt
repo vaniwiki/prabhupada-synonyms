@@ -1,5 +1,11 @@
-~~Title:dadhe~~
-{{description>accepted; became; decided; fixed; gave attention; I offer; shall give.}}
+---json
+{
+    "name":"dadhe",
+    "h1":"dadhe",
+    "title":"dadhe -- synonyms, prabhupada.io",
+    "description":"accepted; became; decided; fixed; gave attention; I offer; shall give."
+}
+---
 
 ==== dadhe  ====
   * accepted --- [[books:cc:madhya:24:348|Madhya 24.348]]

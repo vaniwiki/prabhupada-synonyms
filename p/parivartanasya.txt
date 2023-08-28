@@ -1,5 +1,11 @@
-~~Title:parivartanasya~~
-{{description>of the circumambulation.}}
+---json
+{
+    "name":"parivartanasya",
+    "h1":"parivartanasya",
+    "title":"parivartanasya -- synonyms, prabhupada.io",
+    "description":"of the circumambulation."
+}
+---
 
 ==== parivartanasya  ====
   * of the circumambulation --- [[books:sb:5:21:7|SB 5.21.7]]

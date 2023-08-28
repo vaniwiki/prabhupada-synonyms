@@ -1,5 +1,11 @@
-~~Title:anurataḥ~~
-{{description>assuming the role.}}
+---json
+{
+    "name":"anurataḥ",
+    "h1":"anurataḥ",
+    "title":"anurataḥ -- synonyms, prabhupada.io",
+    "description":"assuming the role."
+}
+---
 
 ==== anurataḥ  ====
   * assuming the role --- [[books:sb:1:2:34|SB 1.2.34]]

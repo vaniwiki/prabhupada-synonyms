@@ -1,5 +1,11 @@
-~~Title:kavau~~
-{{description>unto the supreme learned person, Lord Brahmā.}}
+---json
+{
+    "name":"kavau",
+    "h1":"kavau",
+    "title":"kavau -- synonyms, prabhupada.io",
+    "description":"unto the supreme learned person, Lord Brahmā."
+}
+---
 
 ==== kavau pare  ====
   * unto the supreme learned person, Lord Brahmā --- [[books:sb:7:12:29-30|SB 7.12.29-30]]

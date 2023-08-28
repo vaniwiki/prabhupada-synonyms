@@ -1,5 +1,11 @@
-~~Title:anuparitaḥ~~
-{{description>surrounding.}}
+---json
+{
+    "name":"anuparitaḥ",
+    "h1":"anuparitaḥ",
+    "title":"anuparitaḥ -- synonyms, prabhupada.io",
+    "description":"surrounding."
+}
+---
 
 ==== anuparitaḥ  ====
   * surrounding --- [[books:sb:5:16:29|SB 5.16.29]]

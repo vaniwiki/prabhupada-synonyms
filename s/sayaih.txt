@@ -1,5 +1,11 @@
-~~Title:śayaiḥ~~
-{{description>unlimited.}}
+---json
+{
+    "name":"śayaiḥ",
+    "h1":"śayaiḥ",
+    "title":"śayaiḥ -- synonyms, prabhupada.io",
+    "description":"unlimited."
+}
+---
 
 ==== ati-śayaiḥ  ====
   * unlimited --- [[books:sb:10:10:34-35|SB 10.10.34-35]]

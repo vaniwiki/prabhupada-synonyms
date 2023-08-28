@@ -1,5 +1,11 @@
-~~Title:visalam~~
-{{description>vast.}}
+---json
+{
+    "name":"visalam",
+    "h1":"visalam",
+    "title":"visalam -- synonyms, prabhupada.io",
+    "description":"vast."
+}
+---
 
 ==== viśālam  ====
   * vast --- [[books:bg:9:21|Bg. 9.21]], [[books:sb:3:8:14|SB 3.8.14]]

@@ -1,5 +1,11 @@
-~~Title:hṛdayāni~~
-{{description>hearts; the cores of the hearts.}}
+---json
+{
+    "name":"hṛdayāni",
+    "h1":"hṛdayāni",
+    "title":"hṛdayāni -- synonyms, prabhupada.io",
+    "description":"hearts; the cores of the hearts."
+}
+---
 
 ==== hṛdayāni  ====
   * hearts --- [[books:bg:1:19|Bg. 1.19]], [[books:cc:antya:18:40|Antya 18.40]]

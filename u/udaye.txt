@@ -1,5 +1,11 @@
-~~Title:udaye~~
-{{description>at the time of rising in the evening; when there is awakening.}}
+---json
+{
+    "name":"udaye",
+    "h1":"udaye",
+    "title":"udaye -- synonyms, prabhupada.io",
+    "description":"at the time of rising in the evening; when there is awakening."
+}
+---
 
 ==== udaye  ====
   * at the time of rising in the evening --- [[books:sb:8:10:16-18|SB 8.10.16-18]]

@@ -1,5 +1,11 @@
-~~Title:yajadhvam~~
-{{description>worship.}}
+---json
+{
+    "name":"yajadhvam",
+    "h1":"yajadhvam",
+    "title":"yajadhvam -- synonyms, prabhupada.io",
+    "description":"worship."
+}
+---
 
 ==== yajadhvam  ====
   * worship --- [[books:sb:4:14:28|SB 4.14.28]]

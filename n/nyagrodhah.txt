@@ -1,5 +1,11 @@
-~~Title:nyagrodhah~~
-{{description>Nyagrodha.}}
+---json
+{
+    "name":"nyagrodhah",
+    "h1":"nyagrodhah",
+    "title":"nyagrodhah -- synonyms, prabhupada.io",
+    "description":"Nyagrodha."
+}
+---
 
 ==== nyagrodhaḥ  ====
   * Nyagrodha --- [[books:sb:9:24:24|SB 9.24.24]]

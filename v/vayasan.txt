@@ -1,5 +1,11 @@
-~~Title:vayasān~~
-{{description>along with His companions.}}
+---json
+{
+    "name":"vayasān",
+    "h1":"vayasān",
+    "title":"vayasān -- synonyms, prabhupada.io",
+    "description":"along with His companions."
+}
+---
 
 ==== sa-vayasān  ====
   * along with His companions --- [[books:sb:10:13:38|SB 10.13.38]]

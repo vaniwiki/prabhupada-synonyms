@@ -1,5 +1,11 @@
-~~Title:vidhure~~
-{{description>aggrieved.}}
+---json
+{
+    "name":"vidhure",
+    "h1":"vidhure",
+    "title":"vidhure -- synonyms, prabhupada.io",
+    "description":"aggrieved."
+}
+---
 
 ==== vidhure  ====
   * aggrieved --- [[books:cc:antya:1:151|Antya 1.151]]

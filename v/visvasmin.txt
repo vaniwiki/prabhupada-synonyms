@@ -1,5 +1,11 @@
-~~Title:viśvasmin~~
-{{description>in the cosmic manifestation.}}
+---json
+{
+    "name":"viśvasmin",
+    "h1":"viśvasmin",
+    "title":"viśvasmin -- synonyms, prabhupada.io",
+    "description":"in the cosmic manifestation."
+}
+---
 
 ==== viśvasmin  ====
   * in the cosmic manifestation --- [[books:sb:4:24:60|SB 4.24.60]]

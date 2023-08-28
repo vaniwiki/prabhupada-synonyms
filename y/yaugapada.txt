@@ -1,5 +1,11 @@
-~~Title:yaugapada~~
-{{description>both activities in one person.}}
+---json
+{
+    "name":"yaugapada",
+    "h1":"yaugapada",
+    "title":"yaugapada -- synonyms, prabhupada.io",
+    "description":"both activities in one person."
+}
+---
 
 ==== yaugapada-eka-kartari  ====
   * both activities in one person --- [[books:sb:4:4:20|SB 4.4.20]]

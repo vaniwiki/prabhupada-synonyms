@@ -1,5 +1,11 @@
-~~Title:ghnantam~~
-{{description>death; engaged in killing; hurting.}}
+---json
+{
+    "name":"ghnantam",
+    "h1":"ghnantam",
+    "title":"ghnantam -- synonyms, prabhupada.io",
+    "description":"death; engaged in killing; hurting."
+}
+---
 
 ==== ghnantam  ====
   * death --- [[books:sb:5:18:3|SB 5.18.3]]

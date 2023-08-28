@@ -1,5 +1,11 @@
-~~Title:vṛṣalāḥ~~
-{{description>the lower class śūdras.}}
+---json
+{
+    "name":"vṛṣalāḥ",
+    "h1":"vṛṣalāḥ",
+    "title":"vṛṣalāḥ -- synonyms, prabhupada.io",
+    "description":"the lower class śūdras."
+}
+---
 
 ==== vṛṣalāḥ  ====
   * the lower class //śūdras// --- [[books:sb:2:7:38|SB 2.7.38]]

@@ -1,5 +1,11 @@
-~~Title:caidyaḥ~~
-{{description>King Śiśupāla.}}
+---json
+{
+    "name":"caidyaḥ",
+    "h1":"caidyaḥ",
+    "title":"caidyaḥ -- synonyms, prabhupada.io",
+    "description":"King Śiśupāla."
+}
+---
 
 ==== caidyaḥ  ====
   * King Śiśupāla --- [[books:sb:7:1:33|SB 7.1.33]]

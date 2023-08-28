@@ -1,5 +1,11 @@
-~~Title:arthitam~~
-{{description>that which is desired; the object prayed for.}}
+---json
+{
+    "name":"arthitam",
+    "h1":"arthitam",
+    "title":"arthitam -- synonyms, prabhupada.io",
+    "description":"that which is desired; the object prayed for."
+}
+---
 
 ==== arthitam  ====
   * that which is desired --- [[books:cc:madhya:22:40|Madhya 22.40]], [[books:cc:madhya:24:103|Madhya 24.103]], [[books:cc:madhya:24:199|Madhya 24.199]]

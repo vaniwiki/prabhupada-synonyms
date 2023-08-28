@@ -1,5 +1,11 @@
-~~Title:balvalam~~
-{{description>Balvala.}}
+---json
+{
+    "name":"balvalam",
+    "h1":"balvalam",
+    "title":"balvalam -- synonyms, prabhupada.io",
+    "description":"Balvala."
+}
+---
 
 ==== balvalam  ====
   * Balvala --- [[books:sb:3:3:11|SB 3.3.11]]

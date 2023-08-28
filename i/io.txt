@@ -1,5 +1,11 @@
-~~Title:io~~
-{{description>kindly be attentive.}}
+---json
+{
+    "name":"io",
+    "h1":"io",
+    "title":"io -- synonyms, prabhupada.io",
+    "description":"kindly be attentive."
+}
+---
 
 ==== ha-io sāvadhāna  ====
   * kindly be attentive --- [[books:cc:madhya:5:75|Madhya 5.75]]

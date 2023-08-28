@@ -1,5 +1,11 @@
-~~Title:jātukarṇaḥ~~
-{{description>Jātukarṇa.}}
+---json
+{
+    "name":"jātukarṇaḥ",
+    "h1":"jātukarṇaḥ",
+    "title":"jātukarṇaḥ -- synonyms, prabhupada.io",
+    "description":"Jātukarṇa."
+}
+---
 
 ==== jātukarṇaḥ  ====
   * Jātukarṇa --- [[books:sb:6:15:12-15|SB 6.15.12-15]]

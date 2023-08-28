@@ -1,5 +1,11 @@
-~~Title:anuvarṇayiṣyāmaḥ~~
-{{description>I shall explain.}}
+---json
+{
+    "name":"anuvarṇayiṣyāmaḥ",
+    "h1":"anuvarṇayiṣyāmaḥ",
+    "title":"anuvarṇayiṣyāmaḥ -- synonyms, prabhupada.io",
+    "description":"I shall explain."
+}
+---
 
 ==== anuvarṇayiṣyāmaḥ  ====
   * I shall explain --- [[books:sb:5:26:3|SB 5.26.3]]

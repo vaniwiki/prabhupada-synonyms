@@ -1,5 +1,11 @@
-~~Title:nirvṛtta~~
-{{description>breasts not agitated.}}
+---json
+{
+    "name":"nirvṛtta",
+    "h1":"nirvṛtta",
+    "title":"nirvṛtta -- synonyms, prabhupada.io",
+    "description":"breasts not agitated."
+}
+---
 
 ==== nirvṛtta-stana  ====
   * breasts not agitated --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

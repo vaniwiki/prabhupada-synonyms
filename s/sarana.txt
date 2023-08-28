@@ -1,5 +1,11 @@
-~~Title:sarana~~
-{{description>directly.}}
+---json
+{
+    "name":"sarana",
+    "h1":"sarana",
+    "title":"sarana -- synonyms, prabhupada.io",
+    "description":"directly."
+}
+---
 
 ==== sarāna  ====
   * directly --- [[books:cc:madhya:25:210|Madhya 25.210]]

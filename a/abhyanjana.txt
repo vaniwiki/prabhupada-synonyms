@@ -1,5 +1,11 @@
-~~Title:abhyañjana~~
-{{description>massaging the head.}}
+---json
+{
+    "name":"abhyañjana",
+    "h1":"abhyañjana",
+    "title":"abhyañjana -- synonyms, prabhupada.io",
+    "description":"massaging the head."
+}
+---
 
 ==== abhyañjana  ====
   * massaging the head --- [[books:sb:7:12:12|SB 7.12.12]]

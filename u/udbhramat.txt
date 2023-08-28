@@ -1,5 +1,11 @@
-~~Title:udbhramat~~
-{{description>exciting love.}}
+---json
+{
+    "name":"udbhramat",
+    "h1":"udbhramat",
+    "title":"udbhramat -- synonyms, prabhupada.io",
+    "description":"exciting love."
+}
+---
 
 ==== prema-udbhramat  ====
   * exciting love --- [[books:sb:4:25:25|SB 4.25.25]]

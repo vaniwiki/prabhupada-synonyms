@@ -1,5 +1,11 @@
-~~Title:nāi~~
-{{description>he does not have; is not; is not possible; never; there is no mention; there is none; there is not.}}
+---json
+{
+    "name":"nāi",
+    "h1":"nāi",
+    "title":"nāi -- synonyms, prabhupada.io",
+    "description":"he does not have; is not; is not possible; never; there is no mention; there is none; there is not."
+}
+---
 
 ==== nāi  ====
   * he does not have --- [[books:cc:madhya:10:44|Madhya 10.44]]

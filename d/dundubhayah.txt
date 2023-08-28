@@ -1,5 +1,11 @@
-~~Title:dundubhayaḥ~~
-{{description>a kind of musical instrument; celestial drums; drums; kettledrums; other different types of drums; the kettledrums; trumpets and kettledrums.}}
+---json
+{
+    "name":"dundubhayaḥ",
+    "h1":"dundubhayaḥ",
+    "title":"dundubhayaḥ -- synonyms, prabhupada.io",
+    "description":"a kind of musical instrument; celestial drums; drums; kettledrums; other different types of drums; the kettledrums; trumpets and kettledrums."
+}
+---
 
 ==== dundubhayaḥ  ====
   * a kind of musical instrument --- [[books:sb:10:5:5|SB 10.5.5]]

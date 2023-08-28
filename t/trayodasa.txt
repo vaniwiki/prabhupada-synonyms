@@ -1,5 +1,11 @@
-~~Title:trayodaśa~~
-{{description>thirteen; thirteenth; thirty.}}
+---json
+{
+    "name":"trayodaśa",
+    "h1":"trayodaśa",
+    "title":"trayodaśa -- synonyms, prabhupada.io",
+    "description":"thirteen; thirteenth; thirty."
+}
+---
 
 ==== trayodaśa  ====
   * thirteen --- [[books:sb:3:14:14|SB 3.14.14]], [[books:sb:3:21:18|SB 3.21.18]], [[books:sb:4:1:48|SB 4.1.48]], [[books:sb:4:10:11-12|SB 4.10.11-12]]

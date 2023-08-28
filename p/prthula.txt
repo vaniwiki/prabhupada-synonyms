@@ -1,5 +1,11 @@
-~~Title:pṛthula~~
-{{description>highly.}}
+---json
+{
+    "name":"pṛthula",
+    "h1":"pṛthula",
+    "title":"pṛthula -- synonyms, prabhupada.io",
+    "description":"highly."
+}
+---
 
 ==== pṛthula  ====
   * highly --- [[books:sb:4:22:1|SB 4.22.1]]

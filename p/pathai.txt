@@ -1,5 +1,11 @@
-~~Title:pāṭhāi~~
-{{description>we may send.}}
+---json
+{
+    "name":"pāṭhāi",
+    "h1":"pāṭhāi",
+    "title":"pāṭhāi -- synonyms, prabhupada.io",
+    "description":"we may send."
+}
+---
 
 ==== pāṭhāi  ====
   * we may send --- [[books:cc:madhya:10:71|Madhya 10.71]]

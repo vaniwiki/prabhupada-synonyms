@@ -1,5 +1,11 @@
-~~Title:suniba~~
-{{description>I shall hear; shall we hear.}}
+---json
+{
+    "name":"suniba",
+    "h1":"suniba",
+    "title":"suniba -- synonyms, prabhupada.io",
+    "description":"I shall hear; shall we hear."
+}
+---
 
 ==== śuniba  ====
   * I shall hear --- [[books:cc:adi:16:104|Ādi 16.104]]

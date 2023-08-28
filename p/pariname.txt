@@ -1,5 +1,11 @@
-~~Title:pariṇāme~~
-{{description>at the end; by transformation.}}
+---json
+{
+    "name":"pariṇāme",
+    "h1":"pariṇāme",
+    "title":"pariṇāme -- synonyms, prabhupada.io",
+    "description":"at the end; by transformation."
+}
+---
 
 ==== pariṇāme  ====
   * at the end --- [[books:bg:18:36-37|Bg. 18.36-37]], [[books:bg:18:38|Bg. 18.38]]

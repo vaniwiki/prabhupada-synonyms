@@ -1,5 +1,11 @@
-~~Title:hṛdam~~
-{{description>whose heart.}}
+---json
+{
+    "name":"hṛdam",
+    "h1":"hṛdam",
+    "title":"hṛdam -- synonyms, prabhupada.io",
+    "description":"whose heart."
+}
+---
 
 ==== hṛdam  ====
   * whose heart --- [[books:noi:5|NoI 5]]

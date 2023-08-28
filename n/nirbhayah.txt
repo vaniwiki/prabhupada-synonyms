@@ -1,5 +1,11 @@
-~~Title:nirbhayah~~
-{{description>without any doubt.}}
+---json
+{
+    "name":"nirbhayah",
+    "h1":"nirbhayah",
+    "title":"nirbhayah -- synonyms, prabhupada.io",
+    "description":"without any doubt."
+}
+---
 
 ==== nirbhayaḥ  ====
   * without any doubt --- [[books:sb:2:2:28|SB 2.2.28]]

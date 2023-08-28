@@ -1,5 +1,11 @@
-~~Title:gih~~
-{{description>the subject of being described.}}
+---json
+{
+    "name":"gih",
+    "h1":"gih",
+    "title":"gih -- synonyms, prabhupada.io",
+    "description":"the subject of being described."
+}
+---
 
 ==== gīḥ-gocaraḥ  ====
   * the subject of being described --- [[books:cc:madhya:14:181|Madhya 14.181]]

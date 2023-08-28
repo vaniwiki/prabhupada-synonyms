@@ -1,5 +1,11 @@
-~~Title:nīpa~~
-{{description>nīpas.}}
+---json
+{
+    "name":"nīpa",
+    "h1":"nīpa",
+    "title":"nīpa -- synonyms, prabhupada.io",
+    "description":"nīpas."
+}
+---
 
 ==== nīpa  ====
   * //nīpas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

@@ -1,5 +1,11 @@
-~~Title:netreṇa~~
-{{description>under the supervision of the Lord.}}
+---json
+{
+    "name":"netreṇa",
+    "h1":"netreṇa",
+    "title":"netreṇa -- synonyms, prabhupada.io",
+    "description":"under the supervision of the Lord."
+}
+---
 
 ==== daiva-netreṇa  ====
   * under the supervision of the Lord --- [[books:sb:3:31:1|SB 3.31.1]]

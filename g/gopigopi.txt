@@ -1,5 +1,11 @@
-~~Title:gopīgopī~~
-{{description>the names "Gopī, Gopī".}}
+---json
+{
+    "name":"gopīgopī",
+    "h1":"gopīgopī",
+    "title":"gopīgopī -- synonyms, prabhupada.io",
+    "description":"the names "Gopī, Gopī"."
+}
+---
 
 ==== gopīgopī  ====
   * the names "Gopī, Gopī" --- [[books:cc:adi:17:249|Ādi 17.249]]

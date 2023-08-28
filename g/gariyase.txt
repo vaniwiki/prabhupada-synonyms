@@ -1,5 +1,11 @@
-~~Title:garīyase~~
-{{description>You are better than.}}
+---json
+{
+    "name":"garīyase",
+    "h1":"garīyase",
+    "title":"garīyase -- synonyms, prabhupada.io",
+    "description":"You are better than."
+}
+---
 
 ==== garīyase  ====
   * You are better than --- [[books:bg:11:37|Bg. 11.37]]

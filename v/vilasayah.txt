@@ -1,5 +1,11 @@
-~~Title:vilāsāyāḥ~~
-{{description>whose pastime.}}
+---json
+{
+    "name":"vilāsāyāḥ",
+    "h1":"vilāsāyāḥ",
+    "title":"vilāsāyāḥ -- synonyms, prabhupada.io",
+    "description":"whose pastime."
+}
+---
 
 ==== vilāsāyāḥ  ====
   * whose pastime --- [[books:sb:5:2:5|SB 5.2.5]]

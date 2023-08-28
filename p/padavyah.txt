@@ -1,5 +1,11 @@
-~~Title:padavyaḥ~~
-{{description>opulences.}}
+---json
+{
+    "name":"padavyaḥ",
+    "h1":"padavyaḥ",
+    "title":"padavyaḥ -- synonyms, prabhupada.io",
+    "description":"opulences."
+}
+---
 
 ==== padavyaḥ  ====
   * opulences --- [[books:sb:4:4:21|SB 4.4.21]]

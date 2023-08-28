@@ -1,5 +1,11 @@
-~~Title:vivāsitā~~
-{{description>banished; taken away from our residential quarters.}}
+---json
+{
+    "name":"vivāsitā",
+    "h1":"vivāsitā",
+    "title":"vivāsitā -- synonyms, prabhupada.io",
+    "description":"banished; taken away from our residential quarters."
+}
+---
 
 ==== vivāsitā  ====
   * banished --- [[books:sb:9:11:15|SB 9.11.15]]

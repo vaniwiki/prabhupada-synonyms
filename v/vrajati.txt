@@ -1,5 +1,11 @@
-~~Title:vrajati~~
-{{description>going; thus he goes; works.}}
+---json
+{
+    "name":"vrajati",
+    "h1":"vrajati",
+    "title":"vrajati -- synonyms, prabhupada.io",
+    "description":"going; thus he goes; works."
+}
+---
 
 ==== vrajati  ====
   * going --- [[books:sb:4:23:26|SB 4.23.26]]

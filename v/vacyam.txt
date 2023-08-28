@@ -1,5 +1,11 @@
-~~Title:vācyam~~
-{{description>the ultimate object; to be spoken.}}
+---json
+{
+    "name":"vācyam",
+    "h1":"vācyam",
+    "title":"vācyam -- synonyms, prabhupada.io",
+    "description":"the ultimate object; to be spoken."
+}
+---
 
 ==== vācyam  ====
   * the ultimate object --- [[books:sb:7:15:57|SB 7.15.57]]

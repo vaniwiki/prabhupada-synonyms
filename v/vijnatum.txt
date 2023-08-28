@@ -1,5 +1,11 @@
-~~Title:vijñātum~~
-{{description>just to know; to know; to understand.}}
+---json
+{
+    "name":"vijñātum",
+    "h1":"vijñātum",
+    "title":"vijñātum -- synonyms, prabhupada.io",
+    "description":"just to know; to know; to understand."
+}
+---
 
 ==== vijñātum  ====
   * just to know --- [[books:bg:11:31|Bg. 11.31]]

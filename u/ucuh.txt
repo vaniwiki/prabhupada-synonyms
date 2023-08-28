@@ -1,5 +1,11 @@
-~~Title:ūcuḥ~~
-{{description>addressed; began to say; prayed; replied; requested or spoke; said; talked; they said.}}
+---json
+{
+    "name":"ūcuḥ",
+    "h1":"ūcuḥ",
+    "title":"ūcuḥ -- synonyms, prabhupada.io",
+    "description":"addressed; began to say; prayed; replied; requested or spoke; said; talked; they said."
+}
+---
 
 ==== ūcuḥ  ====
   * addressed --- [[books:sb:1:12:15|SB 1.12.15]]

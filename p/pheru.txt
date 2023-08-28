@@ -1,5 +1,11 @@
-~~Title:pheru~~
-{{description>of jackals.}}
+---json
+{
+    "name":"pheru",
+    "h1":"pheru",
+    "title":"pheru -- synonyms, prabhupada.io",
+    "description":"of jackals."
+}
+---
 
 ==== pheru-rāja  ====
   * of jackals --- [[books:sb:8:16:7|SB 8.16.7]]

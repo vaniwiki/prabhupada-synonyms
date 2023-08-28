@@ -1,5 +1,11 @@
-~~Title:vigṛhīta~~
-{{description>accepted.}}
+---json
+{
+    "name":"vigṛhīta",
+    "h1":"vigṛhīta",
+    "title":"vigṛhīta -- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== vigṛhīta  ====
   * accepted --- [[books:sb:4:1:26-27|SB 4.1.26-27]]

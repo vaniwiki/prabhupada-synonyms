@@ -1,5 +1,11 @@
-~~Title:sasvatam~~
-{{description>eternal.}}
+---json
+{
+    "name":"sasvatam",
+    "h1":"sasvatam",
+    "title":"sasvatam -- synonyms, prabhupada.io",
+    "description":"eternal."
+}
+---
 
 ==== sāśvatam  ====
   * eternal --- [[books:bg:18:56|Bg. 18.56]]

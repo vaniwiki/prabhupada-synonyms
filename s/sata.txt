@@ -1,5 +1,11 @@
-~~Title:sata~~
-{{description>automatically.}}
+---json
+{
+    "name":"sata",
+    "h1":"sata",
+    "title":"sata -- synonyms, prabhupada.io",
+    "description":"automatically."
+}
+---
 
 ==== satā  ====
   * automatically --- [[books:sb:3:8:18|SB 3.8.18]]

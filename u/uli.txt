@@ -1,5 +1,11 @@
-~~Title:uli~~
-{{description>bangles worn on the hand.}}
+---json
+{
+    "name":"uli",
+    "h1":"uli",
+    "title":"uli -- synonyms, prabhupada.io",
+    "description":"bangles worn on the hand."
+}
+---
 
 ==== kaḍi-ba-uli  ====
   * bangles worn on the hand --- [[books:cc:adi:13:112|Ādi 13.112]]

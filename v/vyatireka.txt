@@ -1,5 +1,11 @@
-~~Title:vyatireka~~
-{{description>distinct.}}
+---json
+{
+    "name":"vyatireka",
+    "h1":"vyatireka",
+    "title":"vyatireka -- synonyms, prabhupada.io",
+    "description":"distinct."
+}
+---
 
 ==== vyatireka  ====
   * distinct --- [[books:cc:madhya:25:116|Madhya 25.116]]

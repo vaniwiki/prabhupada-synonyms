@@ -1,5 +1,11 @@
-~~Title:ghoṣavat~~
-{{description>with sound.}}
+---json
+{
+    "name":"ghoṣavat",
+    "h1":"ghoṣavat",
+    "title":"ghoṣavat -- synonyms, prabhupada.io",
+    "description":"with sound."
+}
+---
 
 ==== ghoṣavat  ====
   * with sound --- [[books:sb:2:5:26-29|SB 2.5.26-29]]

@@ -1,5 +1,11 @@
-~~Title:kṛtyaḥ~~
-{{description>performed all kinds of ritualistic ceremonies; the most perfect.}}
+---json
+{
+    "name":"kṛtyaḥ",
+    "h1":"kṛtyaḥ",
+    "title":"kṛtyaḥ -- synonyms, prabhupada.io",
+    "description":"performed all kinds of ritualistic ceremonies; the most perfect."
+}
+---
 
 ==== kṛta-kṛtyaḥ  ====
   * performed all kinds of ritualistic ceremonies --- [[books:sb:9:17:12|SB 9.17.12]]

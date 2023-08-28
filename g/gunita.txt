@@ -1,5 +1,11 @@
-~~Title:guṇita~~
-{{description>flowing.}}
+---json
+{
+    "name":"guṇita",
+    "h1":"guṇita",
+    "title":"guṇita -- synonyms, prabhupada.io",
+    "description":"flowing."
+}
+---
 
 ==== guṇita  ====
   * flowing --- [[books:sb:5:8:25|SB 5.8.25]]

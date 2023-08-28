@@ -1,5 +1,11 @@
-~~Title:vinipāṭya~~
-{{description>cutting in two.}}
+---json
+{
+    "name":"vinipāṭya",
+    "h1":"vinipāṭya",
+    "title":"vinipāṭya -- synonyms, prabhupada.io",
+    "description":"cutting in two."
+}
+---
 
 ==== vinipāṭya  ====
   * cutting in two --- [[books:sb:2:7:16|SB 2.7.16]]

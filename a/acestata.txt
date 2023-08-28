@@ -1,5 +1,11 @@
-~~Title:aceṣṭata~~
-{{description>exhibited.}}
+---json
+{
+    "name":"aceṣṭata",
+    "h1":"aceṣṭata",
+    "title":"aceṣṭata -- synonyms, prabhupada.io",
+    "description":"exhibited."
+}
+---
 
 ==== aceṣṭata  ====
   * exhibited --- [[books:sb:3:1:32|SB 3.1.32]]

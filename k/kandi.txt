@@ -1,5 +1,11 @@
-~~Title:kandi~~
-{{description>cry.}}
+---json
+{
+    "name":"kandi",
+    "h1":"kandi",
+    "title":"kandi -- synonyms, prabhupada.io",
+    "description":"cry."
+}
+---
 
 ==== kāndi  ====
   * cry --- [[books:cc:adi:7:78|Ādi 7.78]]

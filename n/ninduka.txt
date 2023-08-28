@@ -1,5 +1,11 @@
-~~Title:ninduka~~
-{{description>a critic by nature.}}
+---json
+{
+    "name":"ninduka",
+    "h1":"ninduka",
+    "title":"ninduka -- synonyms, prabhupada.io",
+    "description":"a critic by nature."
+}
+---
 
 ==== ninduka-svabhāva  ====
   * a critic by nature --- [[books:cc:antya:8:72|Antya 8.72]]

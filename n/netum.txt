@@ -1,5 +1,11 @@
-~~Title:netum~~
-{{description>to drag away; to lead; to take; to take away.}}
+---json
+{
+    "name":"netum",
+    "h1":"netum",
+    "title":"netum -- synonyms, prabhupada.io",
+    "description":"to drag away; to lead; to take; to take away."
+}
+---
 
 ==== netum  ====
   * to drag away --- [[books:sb:7:7:8|SB 7.7.8]]

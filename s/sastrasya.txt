@@ -1,5 +1,11 @@
-~~Title:śāstrasya~~
-{{description>of the scriptures.}}
+---json
+{
+    "name":"śāstrasya",
+    "h1":"śāstrasya",
+    "title":"śāstrasya -- synonyms, prabhupada.io",
+    "description":"of the scriptures."
+}
+---
 
 ==== śāstrasya  ====
   * of the scriptures --- [[books:sb:6:5:20|SB 6.5.20]]

@@ -1,5 +1,11 @@
-~~Title:jāgrat~~
-{{description>waking.}}
+---json
+{
+    "name":"jāgrat",
+    "h1":"jāgrat",
+    "title":"jāgrat -- synonyms, prabhupada.io",
+    "description":"waking."
+}
+---
 
 ==== jāgrat  ====
   * waking --- [[books:sb:7:15:61|SB 7.15.61]]

@@ -1,5 +1,11 @@
-~~Title:jagau~~
-{{description>instructed; said; sang; taught; uttered.}}
+---json
+{
+    "name":"jagau",
+    "h1":"jagau",
+    "title":"jagau -- synonyms, prabhupada.io",
+    "description":"instructed; said; sang; taught; uttered."
+}
+---
 
 ==== jagau  ====
   * instructed --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

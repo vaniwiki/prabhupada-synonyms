@@ -1,5 +1,11 @@
-~~Title:pakṣma~~
-{{description>the eyelid.}}
+---json
+{
+    "name":"pakṣma",
+    "h1":"pakṣma",
+    "title":"pakṣma -- synonyms, prabhupada.io",
+    "description":"the eyelid."
+}
+---
 
 ==== pakṣma  ====
   * the eyelid --- [[books:sb:6:4:12|SB 6.4.12]]

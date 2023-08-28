@@ -1,5 +1,11 @@
-~~Title:upamāna~~
-{{description>all comparison.}}
+---json
+{
+    "name":"upamāna",
+    "h1":"upamāna",
+    "title":"upamāna -- synonyms, prabhupada.io",
+    "description":"all comparison."
+}
+---
 
 ==== upamāna-gaṇa  ====
   * all comparison --- [[books:cc:antya:15:64|Antya 15.64]]

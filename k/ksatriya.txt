@@ -1,5 +1,11 @@
-~~Title:kṣatriya~~
-{{description>a kṣatriya; belonging to the kṣatriya community; of the royal order; the kṣatriyas.}}
+---json
+{
+    "name":"kṣatriya",
+    "h1":"kṣatriya",
+    "title":"kṣatriya -- synonyms, prabhupada.io",
+    "description":"a kṣatriya; belonging to the kṣatriya community; of the royal order; the kṣatriyas."
+}
+---
 
 ==== kṣatriya  ====
   * a kṣatriya --- [[books:cc:madhya:20:177|Madhya 20.177]]

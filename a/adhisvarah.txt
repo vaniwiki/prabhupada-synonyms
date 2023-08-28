@@ -1,5 +1,11 @@
-~~Title:adhisvarah~~
-{{description>capable; proprietor of everything; the master; the Supreme Lord; the supreme master.}}
+---json
+{
+    "name":"adhisvarah",
+    "h1":"adhisvarah",
+    "title":"adhisvarah -- synonyms, prabhupada.io",
+    "description":"capable; proprietor of everything; the master; the Supreme Lord; the supreme master."
+}
+---
 
 ==== adhīśvaraḥ  ====
   * capable --- [[books:sb:8:15:26|SB 8.15.26]]

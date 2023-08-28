@@ -1,5 +1,11 @@
-~~Title:nirmucya~~
-{{description>releasing; shaving clean.}}
+---json
+{
+    "name":"nirmucya",
+    "h1":"nirmucya",
+    "title":"nirmucya -- synonyms, prabhupada.io",
+    "description":"releasing; shaving clean."
+}
+---
 
 ==== nirmucya  ====
   * releasing --- [[books:sb:6:2:20|SB 6.2.20]]

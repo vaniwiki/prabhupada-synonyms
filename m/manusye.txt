@@ -1,5 +1,11 @@
-~~Title:manuṣye~~
-{{description>a human being; messenger.}}
+---json
+{
+    "name":"manuṣye",
+    "h1":"manuṣye",
+    "title":"manuṣye -- synonyms, prabhupada.io",
+    "description":"a human being; messenger."
+}
+---
 
 ==== manuṣye  ====
   * a human being --- [[books:cc:adi:8:39|Ādi 8.39]]

@@ -1,5 +1,11 @@
-~~Title:abhirata~~
-{{description>engaged.}}
+---json
+{
+    "name":"abhirata",
+    "h1":"abhirata",
+    "title":"abhirata -- synonyms, prabhupada.io",
+    "description":"engaged."
+}
+---
 
 ==== abhirata  ====
   * engaged --- [[books:sb:3:32:17|SB 3.32.17]]

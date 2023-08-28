@@ -1,5 +1,11 @@
-~~Title:āveśena~~
-{{description>being absorbed in that thought.}}
+---json
+{
+    "name":"āveśena",
+    "h1":"āveśena",
+    "title":"āveśena -- synonyms, prabhupada.io",
+    "description":"being absorbed in that thought."
+}
+---
 
 ==== āveśena  ====
   * being absorbed in that thought --- [[books:sb:1:15:49|SB 1.15.49]]

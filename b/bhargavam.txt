@@ -1,5 +1,11 @@
-~~Title:bhārgavam~~
-{{description>born in the Bhṛgu dynasty; unto Ṛcīka.}}
+---json
+{
+    "name":"bhārgavam",
+    "h1":"bhārgavam",
+    "title":"bhārgavam -- synonyms, prabhupada.io",
+    "description":"born in the Bhṛgu dynasty; unto Ṛcīka."
+}
+---
 
 ==== bhārgavam  ====
   * born in the Bhṛgu dynasty --- [[books:sb:9:16:30|SB 9.16.30]]

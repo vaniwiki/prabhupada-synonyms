@@ -1,5 +1,11 @@
-~~Title:yājinaḥ~~
-{{description>devotees.}}
+---json
+{
+    "name":"yājinaḥ",
+    "h1":"yājinaḥ",
+    "title":"yājinaḥ -- synonyms, prabhupada.io",
+    "description":"devotees."
+}
+---
 
 ==== yājinaḥ  ====
   * devotees --- [[books:bg:9:25|Bg. 9.25]]

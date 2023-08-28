@@ -1,5 +1,11 @@
-~~Title:kāyasya~~
-{{description>of that great demon, who had expanded his body to a very large size.}}
+---json
+{
+    "name":"kāyasya",
+    "h1":"kāyasya",
+    "title":"kāyasya -- synonyms, prabhupada.io",
+    "description":"of that great demon, who had expanded his body to a very large size."
+}
+---
 
 ==== ati-kāyasya  ====
   * of that great demon, who had expanded his body to a very large size --- [[books:sb:10:12:31|SB 10.12.31]]

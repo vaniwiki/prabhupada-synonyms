@@ -1,5 +1,11 @@
-~~Title:yogeśvara~~
-{{description>masters of mystic yoga practice; the avatāra named Yogeśvara; the Lord of all mystic power.}}
+---json
+{
+    "name":"yogeśvara",
+    "h1":"yogeśvara",
+    "title":"yogeśvara -- synonyms, prabhupada.io",
+    "description":"masters of mystic yoga practice; the avatāra named Yogeśvara; the Lord of all mystic power."
+}
+---
 
 ==== yogeśvara  ====
   * masters of mystic yoga practice --- [[books:cc:madhya:13:141|Madhya 13.141]]

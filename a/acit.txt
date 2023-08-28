@@ -1,5 +1,11 @@
-~~Title:acit~~
-{{description>and material.}}
+---json
+{
+    "name":"acit",
+    "h1":"acit",
+    "title":"acit -- synonyms, prabhupada.io",
+    "description":"and material."
+}
+---
 
 ==== acit  ====
   * and material --- [[books:sb:7:3:34|SB 7.3.34]]

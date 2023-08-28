@@ -1,5 +1,11 @@
-~~Title:animisam~~
-{{description>unceasingly.}}
+---json
+{
+    "name":"animisam",
+    "h1":"animisam",
+    "title":"animisam -- synonyms, prabhupada.io",
+    "description":"unceasingly."
+}
+---
 
 ==== animiṣam  ====
   * unceasingly --- [[books:sb:4:12:39|SB 4.12.39]]

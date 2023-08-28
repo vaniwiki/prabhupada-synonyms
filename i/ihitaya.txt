@@ -1,5 +1,11 @@
-~~Title:īhitāya~~
-{{description>whose resolution never fails.}}
+---json
+{
+    "name":"īhitāya",
+    "h1":"īhitāya",
+    "title":"īhitāya -- synonyms, prabhupada.io",
+    "description":"whose resolution never fails."
+}
+---
 
 ==== avitatha-īhitāya  ====
   * whose resolution never fails --- [[books:sb:5:18:6|SB 5.18.6]]

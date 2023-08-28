@@ -1,5 +1,11 @@
-~~Title:suvirūḍha~~
-{{description>strongly.}}
+---json
+{
+    "name":"suvirūḍha",
+    "h1":"suvirūḍha",
+    "title":"suvirūḍha -- synonyms, prabhupada.io",
+    "description":"strongly."
+}
+---
 
 ==== suvirūḍha  ====
   * strongly --- [[books:bg:15:3-4|Bg. 15.3-4]]

@@ -1,5 +1,11 @@
-~~Title:kṛttam~~
-{{description>done by himself.}}
+---json
+{
+    "name":"kṛttam",
+    "h1":"kṛttam",
+    "title":"kṛttam -- synonyms, prabhupada.io",
+    "description":"done by himself."
+}
+---
 
 ==== sva-kṛttam  ====
   * done by himself --- [[books:sb:3:30:25|SB 3.30.25]]

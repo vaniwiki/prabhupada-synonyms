@@ -1,5 +1,11 @@
-~~Title:nirasanāni~~
-{{description>which can dispel.}}
+---json
+{
+    "name":"nirasanāni",
+    "h1":"nirasanāni",
+    "title":"nirasanāni -- synonyms, prabhupada.io",
+    "description":"which can dispel."
+}
+---
 
 ==== nirasanāni  ====
   * which can dispel --- [[books:sb:5:3:12|SB 5.3.12]]

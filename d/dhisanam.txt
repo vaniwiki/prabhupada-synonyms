@@ -1,5 +1,11 @@
-~~Title:dhisanam~~
-{{description>throne.}}
+---json
+{
+    "name":"dhisanam",
+    "h1":"dhisanam",
+    "title":"dhisanam -- synonyms, prabhupada.io",
+    "description":"throne."
+}
+---
 
 ==== dhiṣaṇam  ====
   * throne --- [[books:sb:6:7:13|SB 6.7.13]]

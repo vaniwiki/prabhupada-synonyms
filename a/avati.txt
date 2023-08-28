@@ -1,5 +1,11 @@
-~~Title:avati~~
-{{description>give protection; maintain s; maintains; protects.}}
+---json
+{
+    "name":"avati",
+    "h1":"avati",
+    "title":"avati -- synonyms, prabhupada.io",
+    "description":"give protection; maintain s; maintains; protects."
+}
+---
 
 ==== avati  ====
   * give protection --- [[books:sb:2:2:5|SB 2.2.5]]

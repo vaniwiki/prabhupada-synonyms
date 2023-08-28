@@ -1,5 +1,11 @@
-~~Title:chāḍāimu~~
-{{description>i shall get you released.}}
+---json
+{
+    "name":"chāḍāimu",
+    "h1":"chāḍāimu",
+    "title":"chāḍāimu -- synonyms, prabhupada.io",
+    "description":"i shall get you released."
+}
+---
 
 ==== chāḍāimu tomā'  ====
   * i shall get you released --- [[books:cc:antya:6:30|Antya 6.30]]

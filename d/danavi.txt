@@ -1,5 +1,11 @@
-~~Title:dānavī~~
-{{description>descendant of Danu.}}
+---json
+{
+    "name":"dānavī",
+    "h1":"dānavī",
+    "title":"dānavī -- synonyms, prabhupada.io",
+    "description":"descendant of Danu."
+}
+---
 
 ==== dānavī  ====
   * descendant of Danu --- [[books:sb:6:18:12-13|SB 6.18.12-13]]

@@ -1,5 +1,11 @@
-~~Title:vaṭuḥ~~
-{{description>a brāhmaṇa brahmacārī; the brahmacārī.}}
+---json
+{
+    "name":"vaṭuḥ",
+    "h1":"vaṭuḥ",
+    "title":"vaṭuḥ -- synonyms, prabhupada.io",
+    "description":"a brāhmaṇa brahmacārī; the brahmacārī."
+}
+---
 
 ==== vaṭuḥ  ====
   * a //brāhmaṇa brahmacārī// --- [[books:sb:8:18:12|SB 8.18.12]]

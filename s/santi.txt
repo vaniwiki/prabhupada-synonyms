@@ -1,5 +1,11 @@
-~~Title:santi~~
-{{description>are; are possible; are there; become; can become; exist; exists; may be; there are; there is; what there is in stock.}}
+---json
+{
+    "name":"santi",
+    "h1":"santi",
+    "title":"santi -- synonyms, prabhupada.io",
+    "description":"are; are possible; are there; become; can become; exist; exists; may be; there are; there is; what there is in stock."
+}
+---
 
 ==== santi  ====
   * are --- [[books:sb:5:17:10|SB 5.17.10]], [[books:sb:5:26:37|SB 5.26.37]], [[books:sb:7:5:27|SB 7.5.27]], [[books:sb:7:8:9|SB 7.8.9]], [[books:cc:madhya:6:109|Madhya 6.109]], [[books:cc:madhya:8:211|Madhya 8.211]], [[books:cc:madhya:23:114|Madhya 23.114]]

@@ -1,5 +1,11 @@
-~~Title:mlāna~~
-{{description>lost; morose, dried up.}}
+---json
+{
+    "name":"mlāna",
+    "h1":"mlāna",
+    "title":"mlāna -- synonyms, prabhupada.io",
+    "description":"lost; morose, dried up."
+}
+---
 
 ==== mlāna  ====
   * lost --- [[books:sb:7:5:48|SB 7.5.48]]

@@ -1,5 +1,11 @@
-~~Title:ṭoṭāya~~
-{{description>in the garden.}}
+---json
+{
+    "name":"ṭoṭāya",
+    "h1":"ṭoṭāya",
+    "title":"ṭoṭāya -- synonyms, prabhupada.io",
+    "description":"in the garden."
+}
+---
 
 ==== ṭoṭāya  ====
   * in the garden --- [[books:cc:antya:10:104|Antya 10.104]]

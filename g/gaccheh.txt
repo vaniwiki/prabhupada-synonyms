@@ -1,5 +1,11 @@
-~~Title:gaccheḥ~~
-{{description>would do.}}
+---json
+{
+    "name":"gaccheḥ",
+    "h1":"gaccheḥ",
+    "title":"gaccheḥ -- synonyms, prabhupada.io",
+    "description":"would do."
+}
+---
 
 ==== gaccheḥ  ====
   * would do --- [[books:sb:3:12:30|SB 3.12.30]]

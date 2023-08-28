@@ -1,5 +1,11 @@
-~~Title:mahabhaga~~
-{{description>O greatly fortunate one.}}
+---json
+{
+    "name":"mahabhaga",
+    "h1":"mahabhaga",
+    "title":"mahabhaga -- synonyms, prabhupada.io",
+    "description":"O greatly fortunate one."
+}
+---
 
 ==== mahābhāga  ====
   * O greatly fortunate one --- [[books:sb:2:8:3|SB 2.8.3]]

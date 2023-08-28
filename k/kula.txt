@@ -1,5 +1,11 @@
-~~Title:kula~~
-{{description>aristocracy; berries; by groups; family; family tradition; flocks of; groups of.}}
+---json
+{
+    "name":"kula",
+    "h1":"kula",
+    "title":"kula -- synonyms, prabhupada.io",
+    "description":"aristocracy; berries; by groups; family; family tradition; flocks of; groups of."
+}
+---
 
 ==== kula  ====
   * aristocracy --- [[books:sb:4:31:21|SB 4.31.21]]

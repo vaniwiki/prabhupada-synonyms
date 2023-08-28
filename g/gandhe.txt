@@ -1,5 +1,11 @@
-~~Title:gandhe~~
-{{description>by the aroma; by the fragrance; by the scent; fragrance; simply by the slight fragrance.}}
+---json
+{
+    "name":"gandhe",
+    "h1":"gandhe",
+    "title":"gandhe -- synonyms, prabhupada.io",
+    "description":"by the aroma; by the fragrance; by the scent; fragrance; simply by the slight fragrance."
+}
+---
 
 ==== gandhe  ====
   * by the aroma --- [[books:cc:antya:16:90|Antya 16.90]]

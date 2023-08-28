@@ -1,5 +1,11 @@
-~~Title:praskhalan~~
-{{description>scattering.}}
+---json
+{
+    "name":"praskhalan",
+    "h1":"praskhalan",
+    "title":"praskhalan -- synonyms, prabhupada.io",
+    "description":"scattering."
+}
+---
 
 ==== praskhalan  ====
   * scattering --- [[books:sb:10:4:3|SB 10.4.3]]

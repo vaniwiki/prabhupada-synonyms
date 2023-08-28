@@ -1,5 +1,11 @@
-~~Title:siṣicuḥ~~
-{{description>wet.}}
+---json
+{
+    "name":"siṣicuḥ",
+    "h1":"siṣicuḥ",
+    "title":"siṣicuḥ -- synonyms, prabhupada.io",
+    "description":"wet."
+}
+---
 
 ==== siṣicuḥ  ====
   * wet --- [[books:sb:1:11:29|SB 1.11.29]]

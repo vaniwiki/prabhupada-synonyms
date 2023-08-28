@@ -1,5 +1,11 @@
-~~Title:samudya~~
-{{description>being equally enthusiastic.}}
+---json
+{
+    "name":"samudya",
+    "h1":"samudya",
+    "title":"samudya -- synonyms, prabhupada.io",
+    "description":"being equally enthusiastic."
+}
+---
 
 ==== samudya  ====
   * being equally enthusiastic --- [[books:sb:4:25:43|SB 4.25.43]]

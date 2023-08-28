@@ -1,5 +1,11 @@
-~~Title:alakam~~
-{{description>Alakā.}}
+---json
+{
+    "name":"alakam",
+    "h1":"alakam",
+    "title":"alakam -- synonyms, prabhupada.io",
+    "description":"Alakā."
+}
+---
 
 ==== alakām  ====
   * Alakā --- [[books:sb:4:6:23|SB 4.6.23]]

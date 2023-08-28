@@ -1,5 +1,11 @@
-~~Title:saṁsūcita~~
-{{description>indicated.}}
+---json
+{
+    "name":"saṁsūcita",
+    "h1":"saṁsūcita",
+    "title":"saṁsūcita -- synonyms, prabhupada.io",
+    "description":"indicated."
+}
+---
 
 ==== saṁsūcita  ====
   * indicated --- [[books:sb:2:2:12|SB 2.2.12]]

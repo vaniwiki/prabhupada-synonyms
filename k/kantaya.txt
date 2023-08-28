@@ -1,5 +1,11 @@
-~~Title:kantaya~~
-{{description>Your wife.}}
+---json
+{
+    "name":"kantaya",
+    "h1":"kantaya",
+    "title":"kantaya -- synonyms, prabhupada.io",
+    "description":"Your wife."
+}
+---
 
 ==== kāntayā  ====
   * Your wife --- [[books:sb:4:7:36|SB 4.7.36]]

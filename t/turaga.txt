@@ -1,5 +1,11 @@
-~~Title:turaga~~
-{{description>horses; the horse.}}
+---json
+{
+    "name":"turaga",
+    "h1":"turaga",
+    "title":"turaga -- synonyms, prabhupada.io",
+    "description":"horses; the horse."
+}
+---
 
 ==== turaga  ====
   * horses --- [[books:sb:1:9:34|SB 1.9.34]]

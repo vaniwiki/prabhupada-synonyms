@@ -1,5 +1,11 @@
-~~Title:patalam~~
-{{description>mass.}}
+---json
+{
+    "name":"patalam",
+    "h1":"patalam",
+    "title":"patalam -- synonyms, prabhupada.io",
+    "description":"mass."
+}
+---
 
 ==== paṭalam  ====
   * mass --- [[books:sb:3:14:27|SB 3.14.27]]

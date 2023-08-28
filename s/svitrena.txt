@@ -1,5 +1,11 @@
-~~Title:śvitreṇa~~
-{{description>by a white spot of leprosy.}}
+---json
+{
+    "name":"śvitreṇa",
+    "h1":"śvitreṇa",
+    "title":"śvitreṇa -- synonyms, prabhupada.io",
+    "description":"by a white spot of leprosy."
+}
+---
 
 ==== śvitreṇa  ====
   * by a white spot of leprosy --- [[books:cc:adi:16:71|Ādi 16.71]]

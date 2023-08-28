@@ -1,5 +1,11 @@
-~~Title:thuila~~
-{{description>kept; placed.}}
+---json
+{
+    "name":"thuila",
+    "h1":"thuila",
+    "title":"thuila -- synonyms, prabhupada.io",
+    "description":"kept; placed."
+}
+---
 
 ==== thuila  ====
   * kept --- [[books:cc:adi:10:66|Ādi 10.66]], [[books:cc:adi:13:117|Ādi 13.117]]

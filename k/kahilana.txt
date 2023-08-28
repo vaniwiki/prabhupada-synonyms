@@ -1,5 +1,11 @@
-~~Title:kahilāṅa~~
-{{description>I spoke.}}
+---json
+{
+    "name":"kahilāṅa",
+    "h1":"kahilāṅa",
+    "title":"kahilāṅa -- synonyms, prabhupada.io",
+    "description":"I spoke."
+}
+---
 
 ==== kahilāṅa  ====
   * I spoke --- [[books:cc:antya:2:56|Antya 2.56]]

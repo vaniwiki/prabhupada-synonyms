@@ -1,5 +1,11 @@
-~~Title:silaya~~
-{{description>in the stone from Govardhana.}}
+---json
+{
+    "name":"silaya",
+    "h1":"silaya",
+    "title":"silaya -- synonyms, prabhupada.io",
+    "description":"in the stone from Govardhana."
+}
+---
 
 ==== śilāya  ====
   * in the stone from Govardhana --- [[books:cc:antya:6:300|Antya 6.300]]

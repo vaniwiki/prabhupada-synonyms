@@ -1,5 +1,11 @@
-~~Title:narinam~~
-{{description>of women.}}
+---json
+{
+    "name":"narinam",
+    "h1":"narinam",
+    "title":"narinam -- synonyms, prabhupada.io",
+    "description":"of women."
+}
+---
 
 ==== nārīṇām  ====
   * of women --- [[books:sb:6:18:33-34|SB 6.18.33-34]]

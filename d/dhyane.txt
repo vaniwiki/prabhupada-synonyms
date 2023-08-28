@@ -1,5 +1,11 @@
-~~Title:dhyāne~~
-{{description>by meditation; in meditation; meditation.}}
+---json
+{
+    "name":"dhyāne",
+    "h1":"dhyāne",
+    "title":"dhyāne -- synonyms, prabhupada.io",
+    "description":"by meditation; in meditation; meditation."
+}
+---
 
 ==== dhyāne  ====
   * by meditation --- [[books:cc:adi:17:105|Ādi 17.105]]

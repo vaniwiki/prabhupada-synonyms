@@ -1,5 +1,11 @@
-~~Title:kratau~~
-{{description>at the sacrifice; at the time of sacrifice.}}
+---json
+{
+    "name":"kratau",
+    "h1":"kratau",
+    "title":"kratau -- synonyms, prabhupada.io",
+    "description":"at the sacrifice; at the time of sacrifice."
+}
+---
 
 ==== kratau  ====
   * at the sacrifice --- [[books:sb:7:1:14-15|SB 7.1.14-15]]

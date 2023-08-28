@@ -1,5 +1,11 @@
-~~Title:ku~~
-{{description>exactly like a person who has a polluted wife.}}
+---json
+{
+    "name":"ku",
+    "h1":"ku",
+    "title":"ku -- synonyms, prabhupada.io",
+    "description":"exactly like a person who has a polluted wife."
+}
+---
 
 ==== ku-bhārya-vat  ====
   * exactly like a person who has a polluted wife --- [[books:sb:6:5:15|SB 6.5.15]]

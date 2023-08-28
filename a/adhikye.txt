@@ -1,5 +1,11 @@
-~~Title:adhikye~~
-{{description>from the increase of tasting by the devotees.}}
+---json
+{
+    "name":"adhikye",
+    "h1":"adhikye",
+    "title":"adhikye -- synonyms, prabhupada.io",
+    "description":"from the increase of tasting by the devotees."
+}
+---
 
 ==== āsvāda-adhikye  ====
   * from the increase of tasting by the devotees --- [[books:cc:madhya:19:234|Madhya 19.234]]

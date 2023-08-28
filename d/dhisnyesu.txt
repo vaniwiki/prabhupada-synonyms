@@ -1,5 +1,11 @@
-~~Title:dhiṣṇyeṣu~~
-{{description>on the altar.}}
+---json
+{
+    "name":"dhiṣṇyeṣu",
+    "h1":"dhiṣṇyeṣu",
+    "title":"dhiṣṇyeṣu -- synonyms, prabhupada.io",
+    "description":"on the altar."
+}
+---
 
 ==== sva-dhiṣṇyeṣu  ====
   * on the altar --- [[books:sb:4:22:6|SB 4.22.6]]

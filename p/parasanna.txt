@@ -1,5 +1,11 @@
-~~Title:parasanna~~
-{{description>satisfied; very much pleased.}}
+---json
+{
+    "name":"parasanna",
+    "h1":"parasanna",
+    "title":"parasanna -- synonyms, prabhupada.io",
+    "description":"satisfied; very much pleased."
+}
+---
 
 ==== parasanna  ====
   * satisfied --- [[books:cc:madhya:14:150|Madhya 14.150]]

@@ -1,5 +1,11 @@
-~~Title:pracuraḥ~~
-{{description>abundant; too much.}}
+---json
+{
+    "name":"pracuraḥ",
+    "h1":"pracuraḥ",
+    "title":"pracuraḥ -- synonyms, prabhupada.io",
+    "description":"abundant; too much."
+}
+---
 
 ==== pracuraḥ  ====
   * abundant --- [[books:sb:5:13:21|SB 5.13.21]]

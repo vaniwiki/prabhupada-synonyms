@@ -1,5 +1,11 @@
-~~Title:ardanaḥ~~
-{{description>vanquishing.}}
+---json
+{
+    "name":"ardanaḥ",
+    "h1":"ardanaḥ",
+    "title":"ardanaḥ -- synonyms, prabhupada.io",
+    "description":"vanquishing."
+}
+---
 
 ==== ardanaḥ  ====
   * vanquishing --- [[books:sb:3:7:19|SB 3.7.19]]

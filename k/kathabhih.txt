@@ -1,5 +1,11 @@
-~~Title:kathābhiḥ~~
-{{description>by reciting the Bhāgavatam, Bhagavad-gītā and similar literature.}}
+---json
+{
+    "name":"kathābhiḥ",
+    "h1":"kathābhiḥ",
+    "title":"kathābhiḥ -- synonyms, prabhupada.io",
+    "description":"by reciting the Bhāgavatam, Bhagavad-gītā and similar literature."
+}
+---
 
 ==== tat-kathābhiḥ  ====
   * by reciting the //Bhāgavatam, Bhagavad-gītā// and similar literature --- [[books:sb:8:16:57|SB 8.16.57]]

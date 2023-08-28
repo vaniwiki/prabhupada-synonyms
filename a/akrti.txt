@@ -1,5 +1,11 @@
-~~Title:akrti~~
-{{description>bodily features; form.}}
+---json
+{
+    "name":"akrti",
+    "h1":"akrti",
+    "title":"akrti -- synonyms, prabhupada.io",
+    "description":"bodily features; form."
+}
+---
 
 ==== ākṛti  ====
   * bodily features --- [[books:sb:3:12:15|SB 3.12.15]], [[books:cc:madhya:18:117|Madhya 18.117]], [[books:cc:madhya:20:357|Madhya 20.357]]

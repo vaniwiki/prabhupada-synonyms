@@ -1,5 +1,11 @@
-~~Title:darpaṇaḥ~~
-{{description>the wonderful manifester.}}
+---json
+{
+    "name":"darpaṇaḥ",
+    "h1":"darpaṇaḥ",
+    "title":"darpaṇaḥ -- synonyms, prabhupada.io",
+    "description":"the wonderful manifester."
+}
+---
 
 ==== adbhuta-darpaṇaḥ  ====
   * the wonderful manifester --- [[books:sb:6:5:17|SB 6.5.17]]

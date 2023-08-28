@@ -1,5 +1,11 @@
-~~Title:ṭānite~~
-{{description>to pull.}}
+---json
+{
+    "name":"ṭānite",
+    "h1":"ṭānite",
+    "title":"ṭānite -- synonyms, prabhupada.io",
+    "description":"to pull."
+}
+---
 
 ==== ṭānite  ====
   * to pull --- [[books:cc:madhya:14:56|Madhya 14.56]]

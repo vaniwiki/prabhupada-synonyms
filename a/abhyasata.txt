@@ -1,5 +1,11 @@
-~~Title:abhyasata~~
-{{description>practice.}}
+---json
+{
+    "name":"abhyasata",
+    "h1":"abhyasata",
+    "title":"abhyasata -- synonyms, prabhupada.io",
+    "description":"practice."
+}
+---
 
 ==== abhyasata  ====
   * practice --- [[books:sb:4:24:71|SB 4.24.71]]

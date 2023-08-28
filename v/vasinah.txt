@@ -1,5 +1,11 @@
-~~Title:vāsinaḥ~~
-{{description>the inhabitants of Ayodhyā.}}
+---json
+{
+    "name":"vāsinaḥ",
+    "h1":"vāsinaḥ",
+    "title":"vāsinaḥ -- synonyms, prabhupada.io",
+    "description":"the inhabitants of Ayodhyā."
+}
+---
 
 ==== ayodhyā-vāsinaḥ  ====
   * the inhabitants of Ayodhyā --- [[books:sb:9:8:18|SB 9.8.18]]

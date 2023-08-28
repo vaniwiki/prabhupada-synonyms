@@ -1,5 +1,11 @@
-~~Title:subalita~~
-{{description>very strongly built.}}
+---json
+{
+    "name":"subalita",
+    "h1":"subalita",
+    "title":"subalita -- synonyms, prabhupada.io",
+    "description":"very strongly built."
+}
+---
 
 ==== subalita  ====
   * very strongly built --- [[books:cc:madhya:8:18|Madhya 8.18]]

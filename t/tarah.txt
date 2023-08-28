@@ -1,5 +1,11 @@
-~~Title:tarah~~
-{{description>the luminaries; the stars.}}
+---json
+{
+    "name":"tarah",
+    "h1":"tarah",
+    "title":"tarah -- synonyms, prabhupada.io",
+    "description":"the luminaries; the stars."
+}
+---
 
 ==== tārāḥ  ====
   * the luminaries --- [[books:sb:2:6:13-16|SB 2.6.13-16]]

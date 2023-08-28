@@ -1,5 +1,11 @@
-~~Title:avanatam~~
-{{description>bowed down; prostrated before Him.}}
+---json
+{
+    "name":"avanatam",
+    "h1":"avanatam",
+    "title":"avanatam -- synonyms, prabhupada.io",
+    "description":"bowed down; prostrated before Him."
+}
+---
 
 ==== avanatam  ====
   * bowed down --- [[books:sb:4:14:45|SB 4.14.45]]

@@ -1,5 +1,11 @@
-~~Title:grāhyaiḥ~~
-{{description>with the objects of the senses.}}
+---json
+{
+    "name":"grāhyaiḥ",
+    "h1":"grāhyaiḥ",
+    "title":"grāhyaiḥ -- synonyms, prabhupada.io",
+    "description":"with the objects of the senses."
+}
+---
 
 ==== grāhyaiḥ  ====
   * with the objects of the senses --- [[books:sb:10:3:15-17|SB 10.3.15-17]]

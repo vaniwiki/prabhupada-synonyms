@@ -1,5 +1,11 @@
-~~Title:divāya~~
-{{description>to the heavenly planets.}}
+---json
+{
+    "name":"divāya",
+    "h1":"divāya",
+    "title":"divāya -- synonyms, prabhupada.io",
+    "description":"to the heavenly planets."
+}
+---
 
 ==== tri-divāya  ====
   * to the heavenly planets --- [[books:sb:3:17:1|SB 3.17.1]]

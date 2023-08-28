@@ -1,5 +1,11 @@
-~~Title:virūpāt~~
-{{description>from Virūpa.}}
+---json
+{
+    "name":"virūpāt",
+    "h1":"virūpāt",
+    "title":"virūpāt -- synonyms, prabhupada.io",
+    "description":"from Virūpa."
+}
+---
 
 ==== virūpāt  ====
   * from Virūpa --- [[books:sb:9:6:1|SB 9.6.1]]

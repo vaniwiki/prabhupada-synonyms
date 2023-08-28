@@ -1,5 +1,11 @@
-~~Title:rocayan~~
-{{description>pleasing; pleasing everywhere.}}
+---json
+{
+    "name":"rocayan",
+    "h1":"rocayan",
+    "title":"rocayan -- synonyms, prabhupada.io",
+    "description":"pleasing; pleasing everywhere."
+}
+---
 
 ==== rocayan  ====
   * pleasing --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

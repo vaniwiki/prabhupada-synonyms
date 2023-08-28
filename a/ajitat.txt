@@ -1,5 +1,11 @@
-~~Title:ajitāt~~
-{{description>uncontrolled.}}
+---json
+{
+    "name":"ajitāt",
+    "h1":"ajitāt",
+    "title":"ajitāt -- synonyms, prabhupada.io",
+    "description":"uncontrolled."
+}
+---
 
 ==== ajitāt  ====
   * uncontrolled --- [[books:sb:7:8:9|SB 7.8.9]]

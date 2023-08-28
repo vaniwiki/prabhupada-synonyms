@@ -1,5 +1,11 @@
-~~Title:ātmatā~~
-{{description>great attachment; the quality of being the self.}}
+---json
+{
+    "name":"ātmatā",
+    "h1":"ātmatā",
+    "title":"ātmatā -- synonyms, prabhupada.io",
+    "description":"great attachment; the quality of being the self."
+}
+---
 
 ==== ātmatā  ====
   * great attachment --- [[books:sb:7:1:48|SB 7.1.48]]

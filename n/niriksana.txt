@@ -1,5 +1,11 @@
-~~Title:niriksana~~
-{{description>looking upon; observing.}}
+---json
+{
+    "name":"niriksana",
+    "h1":"niriksana",
+    "title":"niriksana -- synonyms, prabhupada.io",
+    "description":"looking upon; observing."
+}
+---
 
 ==== nirīkṣaṇa  ====
   * looking upon --- [[books:sb:1:9:40|SB 1.9.40]]

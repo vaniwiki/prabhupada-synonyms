@@ -1,5 +1,11 @@
-~~Title:nirmatsarāya~~
-{{description>nonenvious.}}
+---json
+{
+    "name":"nirmatsarāya",
+    "h1":"nirmatsarāya",
+    "title":"nirmatsarāya -- synonyms, prabhupada.io",
+    "description":"nonenvious."
+}
+---
 
 ==== nirmatsarāya  ====
   * nonenvious --- [[books:sb:3:32:42|SB 3.32.42]]

@@ -1,5 +1,11 @@
-~~Title:cāriṇām~~
-{{description>of the animals who move on legs, like the cows and buffalo.}}
+---json
+{
+    "name":"cāriṇām",
+    "h1":"cāriṇām",
+    "title":"cāriṇām -- synonyms, prabhupada.io",
+    "description":"of the animals who move on legs, like the cows and buffalo."
+}
+---
 
 ==== pāda-cāriṇām  ====
   * of the animals who move on legs, like the cows and buffalo --- [[books:sb:6:4:9|SB 6.4.9]]

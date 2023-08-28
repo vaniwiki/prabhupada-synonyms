@@ -1,5 +1,11 @@
-~~Title:ṛddheḥ~~
-{{description>of the opulent.}}
+---json
+{
+    "name":"ṛddheḥ",
+    "h1":"ṛddheḥ",
+    "title":"ṛddheḥ -- synonyms, prabhupada.io",
+    "description":"of the opulent."
+}
+---
 
 ==== saubhaga-ṛddheḥ  ====
   * of the opulent --- [[books:sb:3:2:12|SB 3.2.12]]

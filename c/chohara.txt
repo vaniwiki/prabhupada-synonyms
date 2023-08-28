@@ -1,5 +1,11 @@
-~~Title:chohārā~~
-{{description>dried fruit.}}
+---json
+{
+    "name":"chohārā",
+    "h1":"chohārā",
+    "title":"chohārā -- synonyms, prabhupada.io",
+    "description":"dried fruit."
+}
+---
 
 ==== chohārā  ====
   * dried fruit --- [[books:cc:madhya:14:27|Madhya 14.27]]

@@ -1,5 +1,11 @@
-~~Title:lakṣayāmaḥ~~
-{{description>I can see.}}
+---json
+{
+    "name":"lakṣayāmaḥ",
+    "h1":"lakṣayāmaḥ",
+    "title":"lakṣayāmaḥ -- synonyms, prabhupada.io",
+    "description":"I can see."
+}
+---
 
 ==== lakṣayāmaḥ  ====
   * I can see --- [[books:sb:4:8:27|SB 4.8.27]]

@@ -1,5 +1,11 @@
-~~Title:kuliṅga~~
-{{description>a pair of (male and female) birds known as kuliṅga.}}
+---json
+{
+    "name":"kuliṅga",
+    "h1":"kuliṅga",
+    "title":"kuliṅga -- synonyms, prabhupada.io",
+    "description":"a pair of (male and female) birds known as kuliṅga."
+}
+---
 
 ==== kuliṅga-mithunam  ====
   * a pair of (male and female) birds known as //kuliṅga// --- [[books:sb:7:2:51|SB 7.2.51]]

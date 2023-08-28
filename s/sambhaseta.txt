@@ -1,5 +1,11 @@
-~~Title:sambhāṣeta~~
-{{description>must not speak.}}
+---json
+{
+    "name":"sambhāṣeta",
+    "h1":"sambhāṣeta",
+    "title":"sambhāṣeta -- synonyms, prabhupada.io",
+    "description":"must not speak."
+}
+---
 
 ==== na sambhāṣeta  ====
   * must not speak --- [[books:sb:6:18:48|SB 6.18.48]]

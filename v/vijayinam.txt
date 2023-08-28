@@ -1,5 +1,11 @@
-~~Title:vijayinam~~
-{{description>coming.}}
+---json
+{
+    "name":"vijayinam",
+    "h1":"vijayinam",
+    "title":"vijayinam -- synonyms, prabhupada.io",
+    "description":"coming."
+}
+---
 
 ==== vijayinam  ====
   * coming --- [[books:cc:adi:4:196|Ādi 4.196]]

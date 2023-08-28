@@ -1,5 +1,11 @@
-~~Title:ghoreṣu~~
-{{description>horrible.}}
+---json
+{
+    "name":"ghoreṣu",
+    "h1":"ghoreṣu",
+    "title":"ghoreṣu -- synonyms, prabhupada.io",
+    "description":"horrible."
+}
+---
 
 ==== ghoreṣu  ====
   * horrible --- [[books:sb:4:2:14-15|SB 4.2.14-15]]

@@ -1,5 +1,11 @@
-~~Title:sūye~~
-{{description>a royal performance of sacrifice.}}
+---json
+{
+    "name":"sūye",
+    "h1":"sūye",
+    "title":"sūye -- synonyms, prabhupada.io",
+    "description":"a royal performance of sacrifice."
+}
+---
 
 ==== rāja-sūye  ====
   * a royal performance of sacrifice --- [[books:sb:1:9:41|SB 1.9.41]]

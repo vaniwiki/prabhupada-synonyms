@@ -1,5 +1,11 @@
-~~Title:piṇḍāte~~
-{{description>on a raised place; on the altar.}}
+---json
+{
+    "name":"piṇḍāte",
+    "h1":"piṇḍāte",
+    "title":"piṇḍāte -- synonyms, prabhupada.io",
+    "description":"on a raised place; on the altar."
+}
+---
 
 ==== piṇḍāte  ====
   * on a raised place --- [[books:cc:antya:1:110|Antya 1.110]]

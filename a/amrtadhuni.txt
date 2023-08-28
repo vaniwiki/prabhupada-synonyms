@@ -1,5 +1,11 @@
-~~Title:amṛtadhunī~~
-{{description>of the river of nectar.}}
+---json
+{
+    "name":"amṛtadhunī",
+    "h1":"amṛtadhunī",
+    "title":"amṛtadhunī -- synonyms, prabhupada.io",
+    "description":"of the river of nectar."
+}
+---
 
 ==== amṛtadhunī  ====
   * of the river of nectar --- [[books:cc:adi:13:123|Ādi 13.123]]

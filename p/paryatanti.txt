@@ -1,5 +1,11 @@
-~~Title:paryatanti~~
-{{description>move about.}}
+---json
+{
+    "name":"paryatanti",
+    "h1":"paryatanti",
+    "title":"paryatanti -- synonyms, prabhupada.io",
+    "description":"move about."
+}
+---
 
 ==== paryaṭanti  ====
   * move about --- [[books:sb:6:16:6|SB 6.16.6]]

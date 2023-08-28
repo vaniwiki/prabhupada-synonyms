@@ -1,5 +1,11 @@
-~~Title:dhāvantī~~
-{{description>fleeing.}}
+---json
+{
+    "name":"dhāvantī",
+    "h1":"dhāvantī",
+    "title":"dhāvantī -- synonyms, prabhupada.io",
+    "description":"fleeing."
+}
+---
 
 ==== dhāvantī  ====
   * fleeing --- [[books:sb:4:17:16|SB 4.17.16]]

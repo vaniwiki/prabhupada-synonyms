@@ -1,5 +1,11 @@
-~~Title:bhutaya~~
-{{description>as a trench.}}
+---json
+{
+    "name":"bhutaya",
+    "h1":"bhutaya",
+    "title":"bhutaya -- synonyms, prabhupada.io",
+    "description":"as a trench."
+}
+---
 
 ==== parikha-bhūtayā  ====
   * as a trench --- [[books:sb:8:15:14|SB 8.15.14]]

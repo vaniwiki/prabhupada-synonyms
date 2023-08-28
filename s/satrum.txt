@@ -1,5 +1,11 @@
-~~Title:śatrum~~
-{{description>the enemy; your enemy.}}
+---json
+{
+    "name":"śatrum",
+    "h1":"śatrum",
+    "title":"śatrum -- synonyms, prabhupada.io",
+    "description":"the enemy; your enemy."
+}
+---
 
 ==== śatrum  ====
   * the enemy --- [[books:bg:3:43|Bg. 3.43]], [[books:sb:6:10:15|SB 6.10.15]]

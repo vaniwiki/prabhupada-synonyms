@@ -1,5 +1,11 @@
-~~Title:samṛddham~~
-{{description>flourishing.}}
+---json
+{
+    "name":"samṛddham",
+    "h1":"samṛddham",
+    "title":"samṛddham -- synonyms, prabhupada.io",
+    "description":"flourishing."
+}
+---
 
 ==== samṛddham  ====
   * flourishing --- [[books:bg:11:33|Bg. 11.33]]

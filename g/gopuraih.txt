@@ -1,5 +1,11 @@
-~~Title:gopuraiḥ~~
-{{description>with gates made of excellent marble.}}
+---json
+{
+    "name":"gopuraiḥ",
+    "h1":"gopuraiḥ",
+    "title":"gopuraiḥ -- synonyms, prabhupada.io",
+    "description":"with gates made of excellent marble."
+}
+---
 
 ==== sphaṭika-gopuraiḥ  ====
   * with gates made of excellent marble --- [[books:sb:8:15:15|SB 8.15.15]]

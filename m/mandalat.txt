@@ -1,5 +1,11 @@
-~~Title:maṇḍalāt~~
-{{description>from the sun globe.}}
+---json
+{
+    "name":"maṇḍalāt",
+    "h1":"maṇḍalāt",
+    "title":"maṇḍalāt -- synonyms, prabhupada.io",
+    "description":"from the sun globe."
+}
+---
 
 ==== sūrya-maṇḍalāt  ====
   * from the sun globe --- [[books:sb:7:10:58|SB 7.10.58]]

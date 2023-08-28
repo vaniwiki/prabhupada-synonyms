@@ -1,5 +1,11 @@
-~~Title:aśmakaḥ~~
-{{description>by the name Aśmaka.}}
+---json
+{
+    "name":"aśmakaḥ",
+    "h1":"aśmakaḥ",
+    "title":"aśmakaḥ -- synonyms, prabhupada.io",
+    "description":"by the name Aśmaka."
+}
+---
 
 ==== aśmakaḥ  ====
   * by the name Aśmaka --- [[books:sb:9:9:39|SB 9.9.39]]

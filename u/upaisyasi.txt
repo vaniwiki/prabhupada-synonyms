@@ -1,5 +1,11 @@
-~~Title:upaiṣyasi~~
-{{description>you will attain.}}
+---json
+{
+    "name":"upaiṣyasi",
+    "h1":"upaiṣyasi",
+    "title":"upaiṣyasi -- synonyms, prabhupada.io",
+    "description":"you will attain."
+}
+---
 
 ==== upaiṣyasi  ====
   * you will attain --- [[books:bg:9:28|Bg. 9.28]]

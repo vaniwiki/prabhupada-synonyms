@@ -1,5 +1,11 @@
-~~Title:dantau~~
-{{description>having a very sharp point.}}
+---json
+{
+    "name":"dantau",
+    "h1":"dantau",
+    "title":"dantau -- synonyms, prabhupada.io",
+    "description":"having a very sharp point."
+}
+---
 
 ==== ati-tigma-dantau  ====
   * having a very sharp point --- [[books:sb:5:2:8|SB 5.2.8]]

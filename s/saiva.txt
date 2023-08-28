@@ -1,5 +1,11 @@
-~~Title:śaiva~~
-{{description>devotees of Lord Śiva.}}
+---json
+{
+    "name":"śaiva",
+    "h1":"śaiva",
+    "title":"śaiva -- synonyms, prabhupada.io",
+    "description":"devotees of Lord Śiva."
+}
+---
 
 ==== śaiva  ====
   * devotees of Lord Śiva --- [[books:cc:madhya:9:76|Madhya 9.76]]

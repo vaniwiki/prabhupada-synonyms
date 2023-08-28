@@ -1,5 +1,11 @@
-~~Title:andhah~~
-{{description>Andha; blind; eatables; food grains; the food grains.}}
+---json
+{
+    "name":"andhah",
+    "h1":"andhah",
+    "title":"andhah -- synonyms, prabhupada.io",
+    "description":"Andha; blind; eatables; food grains; the food grains."
+}
+---
 
 ==== andhaḥ  ====
   * Andha --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

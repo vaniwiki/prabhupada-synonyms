@@ -1,5 +1,11 @@
-~~Title:vitatam~~
-{{description>expanded (in the spirit of material enjoyment); expanded; spread; spread out.}}
+---json
+{
+    "name":"vitatam",
+    "h1":"vitatam",
+    "title":"vitatam -- synonyms, prabhupada.io",
+    "description":"expanded (in the spirit of material enjoyment); expanded; spread; spread out."
+}
+---
 
 ==== vitatam  ====
   * expanded (in the spirit of material enjoyment) --- [[books:sb:6:16:52|SB 6.16.52]]

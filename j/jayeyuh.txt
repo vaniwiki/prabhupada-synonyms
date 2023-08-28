@@ -1,5 +1,11 @@
-~~Title:jayeyuḥ~~
-{{description>conquer.}}
+---json
+{
+    "name":"jayeyuḥ",
+    "h1":"jayeyuḥ",
+    "title":"jayeyuḥ -- synonyms, prabhupada.io",
+    "description":"conquer."
+}
+---
 
 ==== jayeyuḥ  ====
   * conquer --- [[books:bg:2:6|Bg. 2.6]]

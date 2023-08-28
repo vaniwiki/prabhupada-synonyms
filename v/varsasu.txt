@@ -1,5 +1,11 @@
-~~Title:varṣāsu~~
-{{description>in the rainy season.}}
+---json
+{
+    "name":"varṣāsu",
+    "h1":"varṣāsu",
+    "title":"varṣāsu -- synonyms, prabhupada.io",
+    "description":"in the rainy season."
+}
+---
 
 ==== varṣāsu  ====
   * in the rainy season --- [[books:sb:4:23:6|SB 4.23.6]]

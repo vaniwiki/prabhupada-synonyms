@@ -1,5 +1,11 @@
-~~Title:duṣyeta~~
-{{description>becomes polluted.}}
+---json
+{
+    "name":"duṣyeta",
+    "h1":"duṣyeta",
+    "title":"duṣyeta -- synonyms, prabhupada.io",
+    "description":"becomes polluted."
+}
+---
 
 ==== duṣyeta  ====
   * becomes polluted --- [[books:sb:9:24:34|SB 9.24.34]]

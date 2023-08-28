@@ -1,5 +1,11 @@
-~~Title:kāja~~
-{{description>activities; success; the only business; work.}}
+---json
+{
+    "name":"kāja",
+    "h1":"kāja",
+    "title":"kāja -- synonyms, prabhupada.io",
+    "description":"activities; success; the only business; work."
+}
+---
 
 ==== kāja  ====
   * activities --- [[books:cc:madhya:2:19|Madhya 2.19]]

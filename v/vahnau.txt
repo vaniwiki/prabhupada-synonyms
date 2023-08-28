@@ -1,5 +1,11 @@
-~~Title:vahnau~~
-{{description>unto the fire.}}
+---json
+{
+    "name":"vahnau",
+    "h1":"vahnau",
+    "title":"vahnau -- synonyms, prabhupada.io",
+    "description":"unto the fire."
+}
+---
 
 ==== vahnau  ====
   * unto the fire --- [[books:sb:8:16:28|SB 8.16.28]]

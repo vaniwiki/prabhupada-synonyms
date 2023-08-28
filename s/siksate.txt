@@ -1,5 +1,11 @@
-~~Title:śikṣāte~~
-{{description>by the teaching of my father.}}
+---json
+{
+    "name":"śikṣāte",
+    "h1":"śikṣāte",
+    "title":"śikṣāte -- synonyms, prabhupada.io",
+    "description":"by the teaching of my father."
+}
+---
 
 ==== pitāra śikṣāte  ====
   * by the teaching of my father --- [[books:cc:madhya:24:242|Madhya 24.242]]

@@ -1,5 +1,11 @@
-~~Title:jit~~
-{{description>conquering the aromatic smell of musk.}}
+---json
+{
+    "name":"jit",
+    "h1":"jit",
+    "title":"jit -- synonyms, prabhupada.io",
+    "description":"conquering the aromatic smell of musk."
+}
+---
 
 ==== kuraṅga-mada-jit  ====
   * conquering the aromatic smell of musk --- [[books:cc:antya:19:91|Antya 19.91]]

@@ -1,5 +1,11 @@
-~~Title:seveta~~
-{{description>can accept; come in contact; should accept; worship; would render service; would serve.}}
+---json
+{
+    "name":"seveta",
+    "h1":"seveta",
+    "title":"seveta -- synonyms, prabhupada.io",
+    "description":"can accept; come in contact; should accept; worship; would render service; would serve."
+}
+---
 
 ==== seveta  ====
   * can accept --- [[books:sb:9:14:23|SB 9.14.23]]

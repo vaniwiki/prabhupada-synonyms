@@ -1,5 +1,11 @@
-~~Title:ācāryān~~
-{{description>teachers.}}
+---json
+{
+    "name":"ācāryān",
+    "h1":"ācāryān",
+    "title":"ācāryān -- synonyms, prabhupada.io",
+    "description":"teachers."
+}
+---
 
 ==== ācāryān  ====
   * teachers --- [[books:bg:1:26|Bg. 1.26]]

@@ -1,5 +1,11 @@
-~~Title:asugame~~
-{{description>being difficult to pass through.}}
+---json
+{
+    "name":"asugame",
+    "h1":"asugame",
+    "title":"asugame -- synonyms, prabhupada.io",
+    "description":"being difficult to pass through."
+}
+---
 
 ==== asugame  ====
   * being difficult to pass through --- [[books:sb:5:14:1|SB 5.14.1]]

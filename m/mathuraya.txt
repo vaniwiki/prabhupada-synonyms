@@ -1,5 +1,11 @@
-~~Title:mathurāya~~
-{{description>at Mathurā; in Mathurā.}}
+---json
+{
+    "name":"mathurāya",
+    "h1":"mathurāya",
+    "title":"mathurāya -- synonyms, prabhupada.io",
+    "description":"at Mathurā; in Mathurā."
+}
+---
 
 ==== mathurāya  ====
   * at Mathurā --- [[books:cc:madhya:20:181|Madhya 20.181]]

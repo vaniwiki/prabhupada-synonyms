@@ -1,5 +1,11 @@
-~~Title:āilāṅa~~
-{{description>came; I came; I came back; I have come.}}
+---json
+{
+    "name":"āilāṅa",
+    "h1":"āilāṅa",
+    "title":"āilāṅa -- synonyms, prabhupada.io",
+    "description":"came; I came; I came back; I have come."
+}
+---
 
 ==== āilāṅa  ====
   * came --- [[books:cc:madhya:17:144|Madhya 17.144]], [[books:cc:antya:4:140|Antya 4.140]]

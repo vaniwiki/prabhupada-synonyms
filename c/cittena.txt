@@ -1,5 +1,11 @@
-~~Title:cittena~~
-{{description>along with reason, consciousness.}}
+---json
+{
+    "name":"cittena",
+    "h1":"cittena",
+    "title":"cittena -- synonyms, prabhupada.io",
+    "description":"along with reason, consciousness."
+}
+---
 
 ==== cittena  ====
   * along with reason, consciousness --- [[books:sb:3:26:70|SB 3.26.70]]

@@ -1,5 +1,11 @@
-~~Title:āmuktam~~
-{{description>like a liberated person.}}
+---json
+{
+    "name":"āmuktam",
+    "h1":"āmuktam",
+    "title":"āmuktam -- synonyms, prabhupada.io",
+    "description":"like a liberated person."
+}
+---
 
 ==== āmuktam iva  ====
   * like a liberated person --- [[books:sb:4:19:12|SB 4.19.12]]

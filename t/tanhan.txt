@@ -1,5 +1,11 @@
-~~Title:tāṅhāṅ~~
-{{description>there.}}
+---json
+{
+    "name":"tāṅhāṅ",
+    "h1":"tāṅhāṅ",
+    "title":"tāṅhāṅ -- synonyms, prabhupada.io",
+    "description":"there."
+}
+---
 
 ==== tāṅhāṅ  ====
   * there --- [[books:cc:madhya:9:223|Madhya 9.223]]

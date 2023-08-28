@@ -1,5 +1,11 @@
-~~Title:caṭula~~
-{{description>flickering.}}
+---json
+{
+    "name":"caṭula",
+    "h1":"caṭula",
+    "title":"caṭula -- synonyms, prabhupada.io",
+    "description":"flickering."
+}
+---
 
 ==== caṭula  ====
   * flickering --- [[books:cc:madhya:1:84|Madhya 1.84]]

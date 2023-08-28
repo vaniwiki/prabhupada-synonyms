@@ -1,5 +1,11 @@
-~~Title:cauryam~~
-{{description>robbery.}}
+---json
+{
+    "name":"cauryam",
+    "h1":"cauryam",
+    "title":"cauryam -- synonyms, prabhupada.io",
+    "description":"robbery."
+}
+---
 
 ==== cauryam  ====
   * robbery --- [[books:sb:1:17:32|SB 1.17.32]]

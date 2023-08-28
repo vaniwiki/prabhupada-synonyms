@@ -1,5 +1,11 @@
-~~Title:cite~~
-{{description>in the heart; within the heart; within your mind.}}
+---json
+{
+    "name":"cite",
+    "h1":"cite",
+    "title":"cite -- synonyms, prabhupada.io",
+    "description":"in the heart; within the heart; within your mind."
+}
+---
 
 ==== cite  ====
   * in the heart --- [[books:cc:adi:13:117|Ādi 13.117]]

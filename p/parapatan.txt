@@ -1,5 +1,11 @@
-~~Title:parāpatan~~
-{{description>scattered.}}
+---json
+{
+    "name":"parāpatan",
+    "h1":"parāpatan",
+    "title":"parāpatan -- synonyms, prabhupada.io",
+    "description":"scattered."
+}
+---
 
 ==== parāpatan  ====
   * scattered --- [[books:sb:7:8:32|SB 7.8.32]]

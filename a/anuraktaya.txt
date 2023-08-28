@@ -1,5 +1,11 @@
-~~Title:anuraktāya~~
-{{description>very much attentive.}}
+---json
+{
+    "name":"anuraktāya",
+    "h1":"anuraktāya",
+    "title":"anuraktāya -- synonyms, prabhupada.io",
+    "description":"very much attentive."
+}
+---
 
 ==== anuraktāya  ====
   * very much attentive --- [[books:sb:4:17:6-7|SB 4.17.6-7]]

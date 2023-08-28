@@ -1,5 +1,11 @@
-~~Title:padminī~~
-{{description>the lotus flower.}}
+---json
+{
+    "name":"padminī",
+    "h1":"padminī",
+    "title":"padminī -- synonyms, prabhupada.io",
+    "description":"the lotus flower."
+}
+---
 
 ==== padminī  ====
   * the lotus flower --- [[books:sb:3:13:40|SB 3.13.40]]

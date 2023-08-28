@@ -1,5 +1,11 @@
-~~Title:vikārāṇi~~
-{{description>along with the sense organs.}}
+---json
+{
+    "name":"vikārāṇi",
+    "h1":"vikārāṇi",
+    "title":"vikārāṇi -- synonyms, prabhupada.io",
+    "description":"along with the sense organs."
+}
+---
 
 ==== sa-vikārāṇi  ====
   * along with the sense organs --- [[books:sb:3:7:21|SB 3.7.21]]

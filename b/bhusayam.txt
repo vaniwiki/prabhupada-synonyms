@@ -1,5 +1,11 @@
-~~Title:bhūṣayām~~
-{{description>dressed very nicely to attend the festival.}}
+---json
+{
+    "name":"bhūṣayām",
+    "h1":"bhūṣayām",
+    "title":"bhūṣayām -- synonyms, prabhupada.io",
+    "description":"dressed very nicely to attend the festival."
+}
+---
 
 ==== bhūṣayām cakruḥ  ====
   * dressed very nicely to attend the festival --- [[books:sb:10:5:9|SB 10.5.9]]

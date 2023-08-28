@@ -1,5 +1,11 @@
-~~Title:karabhān~~
-{{description>to the children.}}
+---json
+{
+    "name":"karabhān",
+    "h1":"karabhān",
+    "title":"karabhān -- synonyms, prabhupada.io",
+    "description":"to the children."
+}
+---
 
 ==== karabhān  ====
   * to the children --- [[books:sb:8:2:26|SB 8.2.26]]

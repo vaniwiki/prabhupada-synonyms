@@ -1,5 +1,11 @@
-~~Title:vitapah~~
-{{description>the branches and leaves; the trees.}}
+---json
+{
+    "name":"vitapah",
+    "h1":"vitapah",
+    "title":"vitapah -- synonyms, prabhupada.io",
+    "description":"the branches and leaves; the trees."
+}
+---
 
 ==== viṭapāḥ  ====
   * the branches and leaves --- [[books:sb:7:2:9|SB 7.2.9]]

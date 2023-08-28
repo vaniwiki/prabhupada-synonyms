@@ -1,5 +1,11 @@
-~~Title:martasya~~
-{{description>of one who is destined to die.}}
+---json
+{
+    "name":"martasya",
+    "h1":"martasya",
+    "title":"martasya -- synonyms, prabhupada.io",
+    "description":"of one who is destined to die."
+}
+---
 
 ==== martasya  ====
   * of one who is destined to die --- [[books:sb:7:3:21|SB 7.3.21]]

@@ -1,5 +1,11 @@
-~~Title:ninyuḥ~~
-{{description>brought; took away.}}
+---json
+{
+    "name":"ninyuḥ",
+    "h1":"ninyuḥ",
+    "title":"ninyuḥ -- synonyms, prabhupada.io",
+    "description":"brought; took away."
+}
+---
 
 ==== ninyuḥ  ====
   * brought --- [[books:sb:8:6:33|SB 8.6.33]], [[books:sb:9:15:26|SB 9.15.26]]

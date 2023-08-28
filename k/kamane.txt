@@ -1,5 +1,11 @@
-~~Title:kāmāne~~
-{{description>one hundred cannons.}}
+---json
+{
+    "name":"kāmāne",
+    "h1":"kāmāne",
+    "title":"kāmāne -- synonyms, prabhupada.io",
+    "description":"one hundred cannons."
+}
+---
 
 ==== śateka kāmāne  ====
   * one hundred cannons --- [[books:cc:madhya:18:173|Madhya 18.173]]

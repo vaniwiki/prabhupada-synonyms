@@ -1,5 +1,11 @@
-~~Title:mahādeva~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"mahādeva",
+    "h1":"mahādeva",
+    "title":"mahādeva -- synonyms, prabhupada.io",
+    "description":"Lord Śiva."
+}
+---
 
 ==== mahādeva  ====
   * Lord Śiva --- [[books:cc:madhya:9:71|Madhya 9.71]]

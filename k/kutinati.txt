@@ -1,5 +1,11 @@
-~~Title:kutinati~~
-{{description>tricks.}}
+---json
+{
+    "name":"kutinati",
+    "h1":"kutinati",
+    "title":"kutinati -- synonyms, prabhupada.io",
+    "description":"tricks."
+}
+---
 
 ==== kuṭināṭi  ====
   * tricks --- [[books:cc:antya:16:133|Antya 16.133]]

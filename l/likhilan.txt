@@ -1,5 +1,11 @@
-~~Title:likhilāṅ~~
-{{description>I have written.}}
+---json
+{
+    "name":"likhilāṅ",
+    "h1":"likhilāṅ",
+    "title":"likhilāṅ -- synonyms, prabhupada.io",
+    "description":"I have written."
+}
+---
 
 ==== likhilāṅ  ====
   * I have written --- [[books:cc:adi:11:57|Ādi 11.57]]

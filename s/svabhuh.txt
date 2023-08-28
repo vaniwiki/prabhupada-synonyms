@@ -1,5 +1,11 @@
-~~Title:svabhūḥ~~
-{{description>Brahmā.}}
+---json
+{
+    "name":"svabhūḥ",
+    "h1":"svabhūḥ",
+    "title":"svabhūḥ -- synonyms, prabhupada.io",
+    "description":"Brahmā."
+}
+---
 
 ==== svabhūḥ  ====
   * Brahmā --- [[books:sb:3:12:5|SB 3.12.5]]

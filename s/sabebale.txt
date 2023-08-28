@@ -1,5 +1,11 @@
-~~Title:sabebale~~
-{{description>all the Vaiṣṇavas say.}}
+---json
+{
+    "name":"sabebale",
+    "h1":"sabebale",
+    "title":"sabebale -- synonyms, prabhupada.io",
+    "description":"all the Vaiṣṇavas say."
+}
+---
 
 ==== sabebale  ====
   * all the Vaiṣṇavas say --- [[books:cc:madhya:1:220|Madhya 1.220]]

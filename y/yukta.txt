@@ -1,5 +1,11 @@
-~~Title:yukta~~
-{{description>appropriate; as much as necessary; combined together; contemplating; proper; regulated.}}
+---json
+{
+    "name":"yukta",
+    "h1":"yukta",
+    "title":"yukta -- synonyms, prabhupada.io",
+    "description":"appropriate; as much as necessary; combined together; contemplating; proper; regulated."
+}
+---
 
 ==== yukta  ====
   * appropriate --- [[books:cc:madhya:24:147|Madhya 24.147]]

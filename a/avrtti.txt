@@ -1,5 +1,11 @@
-~~Title:āvṛtti~~
-{{description>repetition.}}
+---json
+{
+    "name":"āvṛtti",
+    "h1":"āvṛtti",
+    "title":"āvṛtti -- synonyms, prabhupada.io",
+    "description":"repetition."
+}
+---
 
 ==== āvṛtti  ====
   * repetition --- [[books:cc:antya:15:97|Antya 15.97]]

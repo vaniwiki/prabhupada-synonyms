@@ -1,5 +1,11 @@
-~~Title:sarasa~~
-{{description>sweet words.}}
+---json
+{
+    "name":"sarasa",
+    "h1":"sarasa",
+    "title":"sarasa -- synonyms, prabhupada.io",
+    "description":"sweet words."
+}
+---
 
 ==== sarasa  ====
   * sweet words --- [[books:sb:5:2:12|SB 5.2.12]]

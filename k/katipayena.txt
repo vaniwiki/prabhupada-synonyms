@@ -1,5 +1,11 @@
-~~Title:katipayena~~
-{{description>with only a few.}}
+---json
+{
+    "name":"katipayena",
+    "h1":"katipayena",
+    "title":"katipayena -- synonyms, prabhupada.io",
+    "description":"with only a few."
+}
+---
 
 ==== katipayena  ====
   * with only a few --- [[books:sb:5:8:8|SB 5.8.8]]

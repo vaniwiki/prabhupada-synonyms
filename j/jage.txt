@@ -1,5 +1,11 @@
-~~Title:jāge~~
-{{description>awakens; remains prominent.}}
+---json
+{
+    "name":"jāge",
+    "h1":"jāge",
+    "title":"jāge -- synonyms, prabhupada.io",
+    "description":"awakens; remains prominent."
+}
+---
 
 ==== jāge  ====
   * awakens --- [[books:cc:antya:19:104|Antya 19.104]]

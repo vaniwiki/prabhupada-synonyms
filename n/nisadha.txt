@@ -1,5 +1,11 @@
-~~Title:niṣadha~~
-{{description>on the northern side up to the mountain known as Nīla and on the southern side up to the mountain known as Niṣadha.}}
+---json
+{
+    "name":"niṣadha",
+    "h1":"niṣadha",
+    "title":"niṣadha -- synonyms, prabhupada.io",
+    "description":"on the northern side up to the mountain known as Nīla and on the southern side up to the mountain known as Niṣadha."
+}
+---
 
 ==== ā-nīla-niṣadha-āyatau  ====
   * on the northern side up to the mountain known as Nīla and on the southern side up to the mountain known as Niṣadha --- [[books:sb:5:16:10|SB 5.16.10]]

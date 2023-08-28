@@ -1,5 +1,11 @@
-~~Title:viśālāyām~~
-{{description>in Badarikāśrama.}}
+---json
+{
+    "name":"viśālāyām",
+    "h1":"viśālāyām",
+    "title":"viśālāyām -- synonyms, prabhupada.io",
+    "description":"in Badarikāśrama."
+}
+---
 
 ==== viśālāyām  ====
   * in Badarikāśrama --- [[books:sb:5:4:5|SB 5.4.5]]

@@ -1,5 +1,11 @@
-~~Title:āhlāde~~
-{{description>gives pleasure.}}
+---json
+{
+    "name":"āhlāde",
+    "h1":"āhlāde",
+    "title":"āhlāde -- synonyms, prabhupada.io",
+    "description":"gives pleasure."
+}
+---
 
 ==== āhlāde  ====
   * gives pleasure --- [[books:cc:madhya:8:157|Madhya 8.157]]

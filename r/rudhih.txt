@@ -1,5 +1,11 @@
-~~Title:rūḍhiḥ~~
-{{description>the chief meaning.}}
+---json
+{
+    "name":"rūḍhiḥ",
+    "h1":"rūḍhiḥ",
+    "title":"rūḍhiḥ -- synonyms, prabhupada.io",
+    "description":"the chief meaning."
+}
+---
 
 ==== rūḍhiḥ  ====
   * the chief meaning --- [[books:cc:antya:7:86|Antya 7.86]]

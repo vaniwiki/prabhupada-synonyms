@@ -1,5 +1,11 @@
-~~Title:mātāra~~
-{{description>and mother; of mother Śacīdevī; of My mother; of the mother; of Śacīmātā.}}
+---json
+{
+    "name":"mātāra",
+    "h1":"mātāra",
+    "title":"mātāra -- synonyms, prabhupada.io",
+    "description":"and mother; of mother Śacīdevī; of My mother; of the mother; of Śacīmātā."
+}
+---
 
 ==== mātāra  ====
   * and mother --- [[books:cc:adi:14:78|Ādi 14.78]]

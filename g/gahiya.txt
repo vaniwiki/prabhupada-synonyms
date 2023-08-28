@@ -1,5 +1,11 @@
-~~Title:gāhiyā~~
-{{description>travel while chanting.}}
+---json
+{
+    "name":"gāhiyā",
+    "h1":"gāhiyā",
+    "title":"gāhiyā -- synonyms, prabhupada.io",
+    "description":"travel while chanting."
+}
+---
 
 ==== gāhiyā bule  ====
   * travel while chanting --- [[books:cc:madhya:18:211|Madhya 18.211]]

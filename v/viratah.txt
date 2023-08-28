@@ -1,5 +1,11 @@
-~~Title:viratah~~
-{{description>stopping.}}
+---json
+{
+    "name":"viratah",
+    "h1":"viratah",
+    "title":"viratah -- synonyms, prabhupada.io",
+    "description":"stopping."
+}
+---
 
 ==== virataḥ  ====
   * stopping --- [[books:sb:8:16:2|SB 8.16.2]]

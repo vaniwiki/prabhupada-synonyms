@@ -1,5 +1,11 @@
-~~Title:siṁhena~~
-{{description>with the mark of a lion.}}
+---json
+{
+    "name":"siṁhena",
+    "h1":"siṁhena",
+    "title":"siṁhena -- synonyms, prabhupada.io",
+    "description":"with the mark of a lion."
+}
+---
 
 ==== siṁhena  ====
   * with the mark of a lion --- [[books:sb:8:15:5|SB 8.15.5]]

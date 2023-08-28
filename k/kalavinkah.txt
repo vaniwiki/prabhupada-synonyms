@@ -1,5 +1,11 @@
-~~Title:kalaviṅkaḥ~~
-{{description>a sparrow.}}
+---json
+{
+    "name":"kalaviṅkaḥ",
+    "h1":"kalaviṅkaḥ",
+    "title":"kalaviṅkaḥ -- synonyms, prabhupada.io",
+    "description":"a sparrow."
+}
+---
 
 ==== kalaviṅkaḥ  ====
   * a sparrow --- [[books:sb:6:9:5|SB 6.9.5]]

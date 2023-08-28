@@ -1,5 +1,11 @@
-~~Title:agatasya~~
-{{description>of one who has not obtained.}}
+---json
+{
+    "name":"agatasya",
+    "h1":"agatasya",
+    "title":"agatasya -- synonyms, prabhupada.io",
+    "description":"of one who has not obtained."
+}
+---
 
 ==== agatasya  ====
   * of one who has not obtained --- [[books:sb:6:5:14|SB 6.5.14]]

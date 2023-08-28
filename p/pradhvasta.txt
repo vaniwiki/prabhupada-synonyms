@@ -1,5 +1,11 @@
-~~Title:pradhvasta~~
-{{description>free from contamination.}}
+---json
+{
+    "name":"pradhvasta",
+    "h1":"pradhvasta",
+    "title":"pradhvasta -- synonyms, prabhupada.io",
+    "description":"free from contamination."
+}
+---
 
 ==== pradhvasta  ====
   * free from contamination --- [[books:sb:9:8:23|SB 9.8.23]]

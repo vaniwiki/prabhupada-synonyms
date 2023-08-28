@@ -1,5 +1,11 @@
-~~Title:sanniveśa~~
-{{description>groups.}}
+---json
+{
+    "name":"sanniveśa",
+    "h1":"sanniveśa",
+    "title":"sanniveśa -- synonyms, prabhupada.io",
+    "description":"groups."
+}
+---
 
 ==== sanniveśa  ====
   * groups --- [[books:cc:adi:5:67|Ādi 5.67]]

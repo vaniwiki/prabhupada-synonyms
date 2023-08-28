@@ -1,5 +1,11 @@
-~~Title:bhāse~~
-{{description>appear; appears; are exhibited; are situated; began to float; exists; float; floats; inundated; shines.}}
+---json
+{
+    "name":"bhāse",
+    "h1":"bhāse",
+    "title":"bhāse -- synonyms, prabhupada.io",
+    "description":"appear; appears; are exhibited; are situated; began to float; exists; float; floats; inundated; shines."
+}
+---
 
 ==== bhāse  ====
   * appear --- [[books:cc:antya:5:147|Antya 5.147]]

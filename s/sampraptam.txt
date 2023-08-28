@@ -1,5 +1,11 @@
-~~Title:samprāptam~~
-{{description>as available; having appeared in the assembly.}}
+---json
+{
+    "name":"samprāptam",
+    "h1":"samprāptam",
+    "title":"samprāptam -- synonyms, prabhupada.io",
+    "description":"as available; having appeared in the assembly."
+}
+---
 
 ==== samprāptam  ====
   * as available --- [[books:sb:7:13:39|SB 7.13.39]]

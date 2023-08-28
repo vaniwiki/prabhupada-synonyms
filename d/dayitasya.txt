@@ -1,5 +1,11 @@
-~~Title:dayitasya~~
-{{description>of the merciful.}}
+---json
+{
+    "name":"dayitasya",
+    "h1":"dayitasya",
+    "title":"dayitasya -- synonyms, prabhupada.io",
+    "description":"of the merciful."
+}
+---
 
 ==== dayitasya  ====
   * of the merciful --- [[books:sb:4:23:21|SB 4.23.21]]

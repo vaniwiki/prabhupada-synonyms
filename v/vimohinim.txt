@@ -1,5 +1,11 @@
-~~Title:vimohinīm~~
-{{description>bewildering.}}
+---json
+{
+    "name":"vimohinīm",
+    "h1":"vimohinīm",
+    "title":"vimohinīm -- synonyms, prabhupada.io",
+    "description":"bewildering."
+}
+---
 
 ==== vimohinīm  ====
   * bewildering --- [[books:sb:4:20:30|SB 4.20.30]]

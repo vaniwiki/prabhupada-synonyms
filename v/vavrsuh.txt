@@ -1,5 +1,11 @@
-~~Title:vavṛṣuḥ~~
-{{description>constantly rained; rained; released; showered.}}
+---json
+{
+    "name":"vavṛṣuḥ",
+    "h1":"vavṛṣuḥ",
+    "title":"vavṛṣuḥ -- synonyms, prabhupada.io",
+    "description":"constantly rained; rained; released; showered."
+}
+---
 
 ==== vavṛṣuḥ  ====
   * constantly rained --- [[books:cc:madhya:8:276|Madhya 8.276]], [[books:cc:madhya:24:208|Madhya 24.208]]

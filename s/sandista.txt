@@ -1,5 +1,11 @@
-~~Title:sandiṣṭā~~
-{{description>having been ordered.}}
+---json
+{
+    "name":"sandiṣṭā",
+    "h1":"sandiṣṭā",
+    "title":"sandiṣṭā -- synonyms, prabhupada.io",
+    "description":"having been ordered."
+}
+---
 
 ==== sandiṣṭā  ====
   * having been ordered --- [[books:sb:10:2:14|SB 10.2.14]]

@@ -1,5 +1,11 @@
-~~Title:asti~~
-{{description>has; is; is there; there are; there is; there may be; there must be.}}
+---json
+{
+    "name":"asti",
+    "h1":"asti",
+    "title":"asti -- synonyms, prabhupada.io",
+    "description":"has; is; is there; there are; there is; there may be; there must be."
+}
+---
 
 ==== asti  ====
   * has --- [[books:cc:adi:8:58|Ādi 8.58]]

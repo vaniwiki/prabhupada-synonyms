@@ -1,5 +1,11 @@
-~~Title:maṇḍape~~
-{{description>in the room for offering food.}}
+---json
+{
+    "name":"maṇḍape",
+    "h1":"maṇḍape",
+    "title":"maṇḍape -- synonyms, prabhupada.io",
+    "description":"in the room for offering food."
+}
+---
 
 ==== bhoga-maṇḍape  ====
   * in the room for offering food --- [[books:cc:madhya:12:210|Madhya 12.210]]

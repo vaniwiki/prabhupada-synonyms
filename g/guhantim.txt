@@ -1,5 +1,11 @@
-~~Title:gūhantīm~~
-{{description>hiding.}}
+---json
+{
+    "name":"gūhantīm",
+    "h1":"gūhantīm",
+    "title":"gūhantīm -- synonyms, prabhupada.io",
+    "description":"hiding."
+}
+---
 
 ==== gūhantīm  ====
   * hiding --- [[books:sb:3:20:31|SB 3.20.31]]

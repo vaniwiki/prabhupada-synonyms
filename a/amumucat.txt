@@ -1,5 +1,11 @@
-~~Title:amūmucat~~
-{{description>delivered.}}
+---json
+{
+    "name":"amūmucat",
+    "h1":"amūmucat",
+    "title":"amūmucat -- synonyms, prabhupada.io",
+    "description":"delivered."
+}
+---
 
 ==== amūmucat  ====
   * delivered --- [[books:sb:8:1:31|SB 8.1.31]]

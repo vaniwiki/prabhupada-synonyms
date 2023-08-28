@@ -1,5 +1,11 @@
-~~Title:adāma~~
-{{description>shall partake; we shall share.}}
+---json
+{
+    "name":"adāma",
+    "h1":"adāma",
+    "title":"adāma -- synonyms, prabhupada.io",
+    "description":"shall partake; we shall share."
+}
+---
 
 ==== adāma  ====
   * shall partake --- [[books:sb:3:5:49|SB 3.5.49]]

@@ -1,5 +1,11 @@
-~~Title:vegah~~
-{{description>the force.}}
+---json
+{
+    "name":"vegah",
+    "h1":"vegah",
+    "title":"vegah -- synonyms, prabhupada.io",
+    "description":"the force."
+}
+---
 
 ==== vegaḥ  ====
   * the force --- [[books:sb:5:25:6|SB 5.25.6]]

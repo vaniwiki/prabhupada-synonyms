@@ -1,5 +1,11 @@
-~~Title:stambhayām~~
-{{description>paralyzed.}}
+---json
+{
+    "name":"stambhayām",
+    "h1":"stambhayām",
+    "title":"stambhayām -- synonyms, prabhupada.io",
+    "description":"paralyzed."
+}
+---
 
 ==== stambhayām āsa  ====
   * paralyzed --- [[books:sb:9:3:25|SB 9.3.25]]

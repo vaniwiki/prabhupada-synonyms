@@ -1,5 +1,11 @@
-~~Title:prabhau~~
-{{description>unto the Lord.}}
+---json
+{
+    "name":"prabhau",
+    "h1":"prabhau",
+    "title":"prabhau -- synonyms, prabhupada.io",
+    "description":"unto the Lord."
+}
+---
 
 ==== prabhau  ====
   * unto the Lord --- [[books:sb:3:13:49|SB 3.13.49]]

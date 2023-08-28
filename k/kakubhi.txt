@@ -1,5 +1,11 @@
-~~Title:kakubhi~~
-{{description>in the northern direction.}}
+---json
+{
+    "name":"kakubhi",
+    "h1":"kakubhi",
+    "title":"kakubhi -- synonyms, prabhupada.io",
+    "description":"in the northern direction."
+}
+---
 
 ==== kakubhi udīcyām  ====
   * in the northern direction --- [[books:sb:4:5:7|SB 4.5.7]]

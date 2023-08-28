@@ -1,5 +1,11 @@
-~~Title:anuh~~
-{{description>Anu; Anu, another son.}}
+---json
+{
+    "name":"anuh",
+    "h1":"anuh",
+    "title":"anuh -- synonyms, prabhupada.io",
+    "description":"Anu; Anu, another son."
+}
+---
 
 ==== anuḥ  ====
   * Anu --- [[books:sb:9:24:5|SB 9.24.5]], [[books:sb:9:24:20|SB 9.24.20]]

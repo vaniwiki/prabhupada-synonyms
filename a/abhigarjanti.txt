@@ -1,5 +1,11 @@
-~~Title:abhigarjanti~~
-{{description>roar.}}
+---json
+{
+    "name":"abhigarjanti",
+    "h1":"abhigarjanti",
+    "title":"abhigarjanti -- synonyms, prabhupada.io",
+    "description":"roar."
+}
+---
 
 ==== abhigarjanti  ====
   * roar --- [[books:sb:8:2:6|SB 8.2.6]]

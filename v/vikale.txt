@@ -1,5 +1,11 @@
-~~Title:vikale~~
-{{description>agitated.}}
+---json
+{
+    "name":"vikale",
+    "h1":"vikale",
+    "title":"vikale -- synonyms, prabhupada.io",
+    "description":"agitated."
+}
+---
 
 ==== vikale  ====
   * agitated --- [[books:cc:madhya:12:145|Madhya 12.145]]

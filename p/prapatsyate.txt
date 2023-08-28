@@ -1,5 +1,11 @@
-~~Title:prapatsyate~~
-{{description>having taken shelter of.}}
+---json
+{
+    "name":"prapatsyate",
+    "h1":"prapatsyate",
+    "title":"prapatsyate -- synonyms, prabhupada.io",
+    "description":"having taken shelter of."
+}
+---
 
 ==== prapatsyate  ====
   * having taken shelter of --- [[books:sb:1:12:27|SB 1.12.27]]

@@ -1,5 +1,11 @@
-~~Title:bāṅśera~~
-{{description>of bamboo.}}
+---json
+{
+    "name":"bāṅśera",
+    "h1":"bāṅśera",
+    "title":"bāṅśera -- synonyms, prabhupada.io",
+    "description":"of bamboo."
+}
+---
 
 ==== bāṅśera  ====
   * of bamboo --- [[books:cc:antya:16:129|Antya 16.129]]

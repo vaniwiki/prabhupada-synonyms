@@ -1,5 +1,11 @@
-~~Title:trasareṇuḥ~~
-{{description>hexatom.}}
+---json
+{
+    "name":"trasareṇuḥ",
+    "h1":"trasareṇuḥ",
+    "title":"trasareṇuḥ -- synonyms, prabhupada.io",
+    "description":"hexatom."
+}
+---
 
 ==== trasareṇuḥ  ====
   * hexatom --- [[books:sb:3:11:5|SB 3.11.5]]

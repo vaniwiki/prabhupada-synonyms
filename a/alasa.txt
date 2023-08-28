@@ -1,5 +1,11 @@
-~~Title:alasa~~
-{{description>lazy.}}
+---json
+{
+    "name":"alasa",
+    "h1":"alasa",
+    "title":"alasa -- synonyms, prabhupada.io",
+    "description":"lazy."
+}
+---
 
 ==== alasa  ====
   * lazy --- [[books:cc:adi:2:117|Ādi 2.117]]

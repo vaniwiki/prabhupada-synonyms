@@ -1,5 +1,11 @@
-~~Title:śayīta~~
-{{description>should lie down; will lie down.}}
+---json
+{
+    "name":"śayīta",
+    "h1":"śayīta",
+    "title":"śayīta -- synonyms, prabhupada.io",
+    "description":"should lie down; will lie down."
+}
+---
 
 ==== śayīta  ====
   * should lie down --- [[books:sb:6:18:51|SB 6.18.51]]

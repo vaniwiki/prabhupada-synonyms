@@ -1,5 +1,11 @@
-~~Title:vighna~~
-{{description>hindrances; impediments; some obstruction; the obstruction (the sinking of the mountain).}}
+---json
+{
+    "name":"vighna",
+    "h1":"vighna",
+    "title":"vighna -- synonyms, prabhupada.io",
+    "description":"hindrances; impediments; some obstruction; the obstruction (the sinking of the mountain)."
+}
+---
 
 ==== vighna  ====
   * hindrances --- [[books:cc:madhya:4:12|Madhya 4.12]]

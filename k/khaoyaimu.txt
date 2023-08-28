@@ -1,5 +1,11 @@
-~~Title:khāoyāimu~~
-{{description>I shall cause you to be bitten.}}
+---json
+{
+    "name":"khāoyāimu",
+    "h1":"khāoyāimu",
+    "title":"khāoyāimu -- synonyms, prabhupada.io",
+    "description":"I shall cause you to be bitten."
+}
+---
 
 ==== khāoyāimu  ====
   * I shall cause you to be bitten --- [[books:cc:adi:17:51|Ādi 17.51]]

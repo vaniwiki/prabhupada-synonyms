@@ -1,5 +1,11 @@
-~~Title:evatsara~~
-{{description>this year.}}
+---json
+{
+    "name":"evatsara",
+    "h1":"evatsara",
+    "title":"evatsara -- synonyms, prabhupada.io",
+    "description":"this year."
+}
+---
 
 ==== evatsara  ====
   * this year --- [[books:cc:antya:2:43|Antya 2.43]]

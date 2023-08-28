@@ -1,5 +1,11 @@
-~~Title:mano~~
-{{description>O Lord Śiva.}}
+---json
+{
+    "name":"mano",
+    "h1":"mano",
+    "title":"mano -- synonyms, prabhupada.io",
+    "description":"O Lord Śiva."
+}
+---
 
 ==== mano  ====
   * O Lord Śiva --- [[books:sb:4:6:50|SB 4.6.50]]

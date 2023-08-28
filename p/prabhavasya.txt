@@ -1,5 +1,11 @@
-~~Title:prabhāvasya~~
-{{description>by the influence of austerity.}}
+---json
+{
+    "name":"prabhāvasya",
+    "h1":"prabhāvasya",
+    "title":"prabhāvasya -- synonyms, prabhupada.io",
+    "description":"by the influence of austerity."
+}
+---
 
 ==== tapaḥ-prabhāvasya  ====
   * by the influence of austerity --- [[books:sb:4:12:41|SB 4.12.41]]

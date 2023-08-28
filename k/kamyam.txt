@@ -1,5 +1,11 @@
-~~Title:kāmyam~~
-{{description>full of unlimited material desires.}}
+---json
+{
+    "name":"kāmyam",
+    "h1":"kāmyam",
+    "title":"kāmyam -- synonyms, prabhupada.io",
+    "description":"full of unlimited material desires."
+}
+---
 
 ==== kāmyam  ====
   * full of unlimited material desires --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

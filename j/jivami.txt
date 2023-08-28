@@ -1,5 +1,11 @@
-~~Title:jīvāmi~~
-{{description>am living.}}
+---json
+{
+    "name":"jīvāmi",
+    "h1":"jīvāmi",
+    "title":"jīvāmi -- synonyms, prabhupada.io",
+    "description":"am living."
+}
+---
 
 ==== jīvāmi  ====
   * am living --- [[books:cc:antya:1:152|Antya 1.152]]

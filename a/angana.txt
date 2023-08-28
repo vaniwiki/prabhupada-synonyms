@@ -1,5 +1,11 @@
-~~Title:angana~~
-{{description>courtyard; the courtyard.}}
+---json
+{
+    "name":"angana",
+    "h1":"angana",
+    "title":"angana -- synonyms, prabhupada.io",
+    "description":"courtyard; the courtyard."
+}
+---
 
 ==== aṅgana  ====
   * courtyard --- [[books:cc:adi:14:80|Ādi 14.80]]

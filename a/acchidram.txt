@@ -1,5 +1,11 @@
-~~Title:acchidram~~
-{{description>without any weak spot.}}
+---json
+{
+    "name":"acchidram",
+    "h1":"acchidram",
+    "title":"acchidram -- synonyms, prabhupada.io",
+    "description":"without any weak spot."
+}
+---
 
 ==== acchidram  ====
   * without any weak spot --- [[books:sb:7:8:28|SB 7.8.28]]

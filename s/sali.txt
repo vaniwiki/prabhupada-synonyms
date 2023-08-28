@@ -1,5 +1,11 @@
-~~Title:sali~~
-{{description>cooked rice made of śāli paddy; the rice of fine quality; very fine rice.}}
+---json
+{
+    "name":"sali",
+    "h1":"sali",
+    "title":"sali -- synonyms, prabhupada.io",
+    "description":"cooked rice made of śāli paddy; the rice of fine quality; very fine rice."
+}
+---
 
 ==== śāli-anna  ====
   * cooked rice made of //śāli// paddy --- [[books:cc:madhya:15:54-55|Madhya 15.54-55]]

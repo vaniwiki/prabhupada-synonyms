@@ -1,5 +1,11 @@
-~~Title:sattra~~
-{{description>sacrifice.}}
+---json
+{
+    "name":"sattra",
+    "h1":"sattra",
+    "title":"sattra -- synonyms, prabhupada.io",
+    "description":"sacrifice."
+}
+---
 
 ==== sattra  ====
   * sacrifice --- [[books:sb:4:24:6|SB 4.24.6]]

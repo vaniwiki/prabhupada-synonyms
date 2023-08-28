@@ -1,5 +1,11 @@
-~~Title:nirdaśān~~
-{{description>and those who are just over ten days old.}}
+---json
+{
+    "name":"nirdaśān",
+    "h1":"nirdaśān",
+    "title":"nirdaśān -- synonyms, prabhupada.io",
+    "description":"and those who are just over ten days old."
+}
+---
 
 ==== nirdaśān ca  ====
   * and those who are just over ten days old --- [[books:sb:10:4:31|SB 10.4.31]]

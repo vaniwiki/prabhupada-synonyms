@@ -1,5 +1,11 @@
-~~Title:cikrīḍe~~
-{{description>enjoyed the pastimes; played very happily.}}
+---json
+{
+    "name":"cikrīḍe",
+    "h1":"cikrīḍe",
+    "title":"cikrīḍe -- synonyms, prabhupada.io",
+    "description":"enjoyed the pastimes; played very happily."
+}
+---
 
 ==== cikrīḍe  ====
   * enjoyed the pastimes --- [[books:sb:10:13:27|SB 10.13.27]]

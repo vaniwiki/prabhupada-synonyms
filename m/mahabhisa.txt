@@ -1,5 +1,11 @@
-~~Title:mahābhiṣa~~
-{{description>Mahābhiṣa.}}
+---json
+{
+    "name":"mahābhiṣa",
+    "h1":"mahābhiṣa",
+    "title":"mahābhiṣa -- synonyms, prabhupada.io",
+    "description":"Mahābhiṣa."
+}
+---
 
 ==== mahābhiṣa  ====
   * Mahābhiṣa --- [[books:sb:9:22:12-13|SB 9.22.12-13]]

@@ -1,5 +1,11 @@
-~~Title:śakuna~~
-{{description>Śakuna.}}
+---json
+{
+    "name":"śakuna",
+    "h1":"śakuna",
+    "title":"śakuna -- synonyms, prabhupada.io",
+    "description":"Śakuna."
+}
+---
 
 ==== śakuna  ====
   * Śakuna --- [[books:sb:7:2:4-5|SB 7.2.4-5]]

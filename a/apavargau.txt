@@ -1,5 +1,11 @@
-~~Title:apavargau~~
-{{description>and the places for liberation.}}
+---json
+{
+    "name":"apavargau",
+    "h1":"apavargau",
+    "title":"apavargau -- synonyms, prabhupada.io",
+    "description":"and the places for liberation."
+}
+---
 
 ==== apavargau  ====
   * and the places for liberation --- [[books:sb:5:20:45|SB 5.20.45]]

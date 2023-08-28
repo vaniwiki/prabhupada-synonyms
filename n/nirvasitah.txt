@@ -1,5 +1,11 @@
-~~Title:nirvāsitaḥ~~
-{{description>is banished.}}
+---json
+{
+    "name":"nirvāsitaḥ",
+    "h1":"nirvāsitaḥ",
+    "title":"nirvāsitaḥ -- synonyms, prabhupada.io",
+    "description":"is banished."
+}
+---
 
 ==== nirvāsitaḥ  ====
   * is banished --- [[books:sb:4:8:65|SB 4.8.65]]

@@ -1,5 +1,11 @@
-~~Title:dese~~
-{{description>in place.}}
+---json
+{
+    "name":"dese",
+    "h1":"dese",
+    "title":"dese -- synonyms, prabhupada.io",
+    "description":"in place."
+}
+---
 
 ==== dese  ====
   * in place --- [[books:bg:17:20|Bg. 17.20]]

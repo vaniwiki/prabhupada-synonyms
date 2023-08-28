@@ -1,5 +1,11 @@
-~~Title:saṅkocāt~~
-{{description>by contracting within the body.}}
+---json
+{
+    "name":"saṅkocāt",
+    "h1":"saṅkocāt",
+    "title":"saṅkocāt -- synonyms, prabhupada.io",
+    "description":"by contracting within the body."
+}
+---
 
 ==== tanu-udyat-saṅkocāt  ====
   * by contracting within the body --- [[books:cc:antya:17:72|Antya 17.72]]

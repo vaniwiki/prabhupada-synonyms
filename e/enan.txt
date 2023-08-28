@@ -1,5 +1,11 @@
-~~Title:enān~~
-{{description>all of them.}}
+---json
+{
+    "name":"enān",
+    "h1":"enān",
+    "title":"enān -- synonyms, prabhupada.io",
+    "description":"all of them."
+}
+---
 
 ==== enān  ====
   * all of them --- [[books:sb:1:19:22|SB 1.19.22]]

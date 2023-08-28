@@ -1,5 +1,11 @@
-~~Title:pāṁsavam~~
-{{description>caused by dust.}}
+---json
+{
+    "name":"pāṁsavam",
+    "h1":"pāṁsavam",
+    "title":"pāṁsavam -- synonyms, prabhupada.io",
+    "description":"caused by dust."
+}
+---
 
 ==== pāṁsavam  ====
   * caused by dust --- [[books:sb:3:19:18|SB 3.19.18]]

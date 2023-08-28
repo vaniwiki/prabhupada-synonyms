@@ -1,5 +1,11 @@
-~~Title:anuvihitaḥ~~
-{{description>as desired.}}
+---json
+{
+    "name":"anuvihitaḥ",
+    "h1":"anuvihitaḥ",
+    "title":"anuvihitaḥ -- synonyms, prabhupada.io",
+    "description":"as desired."
+}
+---
 
 ==== anuvihitaḥ  ====
   * as desired --- [[books:sb:1:9:17|SB 1.9.17]]

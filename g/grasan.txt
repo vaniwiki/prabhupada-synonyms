@@ -1,5 +1,11 @@
-~~Title:grasan~~
-{{description>devouring.}}
+---json
+{
+    "name":"grasan",
+    "h1":"grasan",
+    "title":"grasan -- synonyms, prabhupada.io",
+    "description":"devouring."
+}
+---
 
 ==== grasan  ====
   * devouring --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

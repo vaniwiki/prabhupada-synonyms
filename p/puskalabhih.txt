@@ -1,5 +1,11 @@
-~~Title:puṣkalābhiḥ~~
-{{description>Vedic hymns.}}
+---json
+{
+    "name":"puṣkalābhiḥ",
+    "h1":"puṣkalābhiḥ",
+    "title":"puṣkalābhiḥ -- synonyms, prabhupada.io",
+    "description":"Vedic hymns."
+}
+---
 
 ==== puṣkalābhiḥ  ====
   * Vedic hymns --- [[books:bg:11:21|Bg. 11.21]]

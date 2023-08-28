@@ -1,5 +1,11 @@
-~~Title:samayācata~~
-{{description>begged properly.}}
+---json
+{
+    "name":"samayācata",
+    "h1":"samayācata",
+    "title":"samayācata -- synonyms, prabhupada.io",
+    "description":"begged properly."
+}
+---
 
 ==== samayācata  ====
   * begged properly --- [[books:sb:9:1:14|SB 9.1.14]]

@@ -1,5 +1,11 @@
-~~Title:pulkasakaḥ~~
-{{description>a caṇḍāla, one who is less than a śūdra.}}
+---json
+{
+    "name":"pulkasakaḥ",
+    "h1":"pulkasakaḥ",
+    "title":"pulkasakaḥ -- synonyms, prabhupada.io",
+    "description":"a caṇḍāla, one who is less than a śūdra."
+}
+---
 
 ==== pulkasakaḥ  ====
   * a //caṇḍāla,// one who is less than a //śūdra// --- [[books:sb:6:13:8-9|SB 6.13.8-9]]

@@ -1,5 +1,11 @@
-~~Title:kanaka~~
-{{description>gold; golden; of gold.}}
+---json
+{
+    "name":"kanaka",
+    "h1":"kanaka",
+    "title":"kanaka -- synonyms, prabhupada.io",
+    "description":"gold; golden; of gold."
+}
+---
 
 ==== kanaka  ====
   * gold --- [[books:sb:4:30:6|SB 4.30.6]], [[books:sb:5:20:29|SB 5.20.29]]

@@ -1,5 +1,11 @@
-~~Title:kenenaya~~
-{{description>may be so or not.}}
+---json
+{
+    "name":"kenenaya",
+    "h1":"kenenaya",
+    "title":"kenenaya -- synonyms, prabhupada.io",
+    "description":"may be so or not."
+}
+---
 
 ==== kenenaya  ====
   * may be so or not --- [[books:cc:adi:14:86|Ādi 14.86]]

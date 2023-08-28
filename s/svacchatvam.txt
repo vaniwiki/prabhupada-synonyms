@@ -1,5 +1,11 @@
-~~Title:svacchatvam~~
-{{description>clarity.}}
+---json
+{
+    "name":"svacchatvam",
+    "h1":"svacchatvam",
+    "title":"svacchatvam -- synonyms, prabhupada.io",
+    "description":"clarity."
+}
+---
 
 ==== svacchatvam  ====
   * clarity --- [[books:sb:3:26:22|SB 3.26.22]]

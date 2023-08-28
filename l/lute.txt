@@ -1,5 +1,11 @@
-~~Title:luṭe~~
-{{description>plunder; plundered.}}
+---json
+{
+    "name":"luṭe",
+    "h1":"luṭe",
+    "title":"luṭe -- synonyms, prabhupada.io",
+    "description":"plunder; plundered."
+}
+---
 
 ==== luṭe  ====
   * plunder --- [[books:cc:adi:7:20-21|Ādi 7.20-21]], [[books:cc:antya:9:121|Antya 9.121]], [[books:cc:antya:18:98|Antya 18.98]]

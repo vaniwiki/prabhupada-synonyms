@@ -1,5 +1,11 @@
-~~Title:stanaḥ~~
-{{description>breast.}}
+---json
+{
+    "name":"stanaḥ",
+    "h1":"stanaḥ",
+    "title":"stanaḥ -- synonyms, prabhupada.io",
+    "description":"breast."
+}
+---
 
 ==== stanaḥ  ====
   * breast --- [[books:sb:2:1:32|SB 2.1.32]]

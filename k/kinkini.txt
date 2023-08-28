@@ -1,5 +1,11 @@
-~~Title:kinkini~~
-{{description>tinkling.}}
+---json
+{
+    "name":"kinkini",
+    "h1":"kinkini",
+    "title":"kinkini -- synonyms, prabhupada.io",
+    "description":"tinkling."
+}
+---
 
 ==== kiṅkinī  ====
   * tinkling --- [[books:cc:antya:17:43|Antya 17.43]]

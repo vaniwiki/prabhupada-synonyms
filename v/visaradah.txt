@@ -1,5 +1,11 @@
-~~Title:visaradah~~
-{{description>expert.}}
+---json
+{
+    "name":"visaradah",
+    "h1":"visaradah",
+    "title":"visaradah -- synonyms, prabhupada.io",
+    "description":"expert."
+}
+---
 
 ==== viśāradaḥ  ====
   * expert --- [[books:sb:2:3:25|SB 2.3.25]], [[books:cc:madhya:8:188|Madhya 8.188]]

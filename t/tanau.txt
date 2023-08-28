@@ -1,5 +1,11 @@
-~~Title:tanau~~
-{{description>in his body.}}
+---json
+{
+    "name":"tanau",
+    "h1":"tanau",
+    "title":"tanau -- synonyms, prabhupada.io",
+    "description":"in his body."
+}
+---
 
 ==== tanau  ====
   * in his body --- [[books:sb:4:16:5|SB 4.16.5]]

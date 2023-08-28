@@ -1,5 +1,11 @@
-~~Title:viprakahe~~
-{{description>the brāhmaṇa said.}}
+---json
+{
+    "name":"viprakahe",
+    "h1":"viprakahe",
+    "title":"viprakahe -- synonyms, prabhupada.io",
+    "description":"the brāhmaṇa said."
+}
+---
 
 ==== viprakahe  ====
   * the //brāhmaṇa// said --- [[books:cc:madhya:9:187|Madhya 9.187]]

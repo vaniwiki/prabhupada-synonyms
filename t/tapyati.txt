@@ -1,5 +1,11 @@
-~~Title:tapyati~~
-{{description>suffers.}}
+---json
+{
+    "name":"tapyati",
+    "h1":"tapyati",
+    "title":"tapyati -- synonyms, prabhupada.io",
+    "description":"suffers."
+}
+---
 
 ==== tapyati  ====
   * suffers --- [[books:sb:4:3:19|SB 4.3.19]]

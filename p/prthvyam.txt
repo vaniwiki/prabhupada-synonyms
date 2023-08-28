@@ -1,5 +1,11 @@
-~~Title:pṛthvyām~~
-{{description>on the ground.}}
+---json
+{
+    "name":"pṛthvyām",
+    "h1":"pṛthvyām",
+    "title":"pṛthvyām -- synonyms, prabhupada.io",
+    "description":"on the ground."
+}
+---
 
 ==== pṛthvyām  ====
   * on the ground --- [[books:sb:10:13:62|SB 10.13.62]]

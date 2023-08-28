@@ -1,5 +1,11 @@
-~~Title:māhātmye~~
-{{description>unfathomable ability and glories.}}
+---json
+{
+    "name":"māhātmye",
+    "h1":"māhātmye",
+    "title":"māhātmye -- synonyms, prabhupada.io",
+    "description":"unfathomable ability and glories."
+}
+---
 
 ==== māhātmye  ====
   * unfathomable ability and glories --- [[books:sb:6:9:36|SB 6.9.36]]

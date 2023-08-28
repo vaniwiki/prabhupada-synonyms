@@ -1,5 +1,11 @@
-~~Title:udīritayā~~
-{{description>for further development.}}
+---json
+{
+    "name":"udīritayā",
+    "h1":"udīritayā",
+    "title":"udīritayā -- synonyms, prabhupada.io",
+    "description":"for further development."
+}
+---
 
 ==== udīritayā  ====
   * for further development --- [[books:sb:3:8:12|SB 3.8.12]]

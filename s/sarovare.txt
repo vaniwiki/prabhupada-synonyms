@@ -1,5 +1,11 @@
-~~Title:sarovare~~
-{{description>from the lake; in a lake; in the lake.}}
+---json
+{
+    "name":"sarovare",
+    "h1":"sarovare",
+    "title":"sarovare -- synonyms, prabhupada.io",
+    "description":"from the lake; in a lake; in the lake."
+}
+---
 
 ==== sarovare  ====
   * from the lake --- [[books:cc:madhya:12:107|Madhya 12.107]]

@@ -1,5 +1,11 @@
-~~Title:jalena~~
-{{description>by water.}}
+---json
+{
+    "name":"jalena",
+    "h1":"jalena",
+    "title":"jalena -- synonyms, prabhupada.io",
+    "description":"by water."
+}
+---
 
 ==== jalena  ====
   * by water --- [[books:sb:7:3:22|SB 7.3.22]]

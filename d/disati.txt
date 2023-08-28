@@ -1,5 +1,11 @@
-~~Title:diśati~~
-{{description>bestows; He awards; He offers; she directs.}}
+---json
+{
+    "name":"diśati",
+    "h1":"diśati",
+    "title":"diśati -- synonyms, prabhupada.io",
+    "description":"bestows; He awards; He offers; she directs."
+}
+---
 
 ==== diśati  ====
   * bestows --- [[books:sb:4:8:59-60|SB 4.8.59-60]]

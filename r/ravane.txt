@@ -1,5 +1,11 @@
-~~Title:rāvaṇe~~
-{{description>Rāvaṇa; the demon Rāvaṇa.}}
+---json
+{
+    "name":"rāvaṇe",
+    "h1":"rāvaṇe",
+    "title":"rāvaṇe -- synonyms, prabhupada.io",
+    "description":"Rāvaṇa; the demon Rāvaṇa."
+}
+---
 
 ==== rāvaṇe  ====
   * Rāvaṇa --- [[books:cc:madhya:9:205|Madhya 9.205]]

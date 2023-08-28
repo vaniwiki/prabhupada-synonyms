@@ -1,5 +1,11 @@
-~~Title:prakāśana~~
-{{description>exhibition; manifesting; revelation.}}
+---json
+{
+    "name":"prakāśana",
+    "h1":"prakāśana",
+    "title":"prakāśana -- synonyms, prabhupada.io",
+    "description":"exhibition; manifesting; revelation."
+}
+---
 
 ==== prakāśana  ====
   * exhibition --- [[books:cc:antya:4:222|Antya 4.222]]

@@ -1,5 +1,11 @@
-~~Title:prāśitram~~
-{{description>the plate called the Brahmā plate.}}
+---json
+{
+    "name":"prāśitram",
+    "h1":"prāśitram",
+    "title":"prāśitram -- synonyms, prabhupada.io",
+    "description":"the plate called the Brahmā plate."
+}
+---
 
 ==== prāśitram  ====
   * the plate called the Brahmā plate --- [[books:sb:3:13:36|SB 3.13.36]]

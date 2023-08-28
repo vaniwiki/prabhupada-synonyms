@@ -1,5 +1,11 @@
-~~Title:upovāha~~
-{{description>has been fulfilled.}}
+---json
+{
+    "name":"upovāha",
+    "h1":"upovāha",
+    "title":"upovāha -- synonyms, prabhupada.io",
+    "description":"has been fulfilled."
+}
+---
 
 ==== upovāha  ====
   * has been fulfilled --- [[books:sb:3:23:51|SB 3.23.51]]

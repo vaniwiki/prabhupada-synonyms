@@ -1,5 +1,11 @@
-~~Title:viśīrṇānām~~
-{{description>which are broken to pieces.}}
+---json
+{
+    "name":"viśīrṇānām",
+    "h1":"viśīrṇānām",
+    "title":"viśīrṇānām -- synonyms, prabhupada.io",
+    "description":"which are broken to pieces."
+}
+---
 
 ==== viśīrṇānām  ====
   * which are broken to pieces --- [[books:sb:5:16:19|SB 5.16.19]]

@@ -1,5 +1,11 @@
-~~Title:jātibhiḥ~~
-{{description>jātīs.}}
+---json
+{
+    "name":"jātibhiḥ",
+    "h1":"jātibhiḥ",
+    "title":"jātibhiḥ -- synonyms, prabhupada.io",
+    "description":"jātīs."
+}
+---
 
 ==== jātibhiḥ  ====
   * //jātīs// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

@@ -1,5 +1,11 @@
-~~Title:ota~~
-{{description>like the rope.}}
+---json
+{
+    "name":"ota",
+    "h1":"ota",
+    "title":"ota -- synonyms, prabhupada.io",
+    "description":"like the rope."
+}
+---
 
 ==== ota-vat  ====
   * like the rope --- [[books:sb:6:3:12|SB 6.3.12]]

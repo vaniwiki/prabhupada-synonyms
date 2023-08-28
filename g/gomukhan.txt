@@ -1,5 +1,11 @@
-~~Title:gomukhān~~
-{{description>a type of bugle.}}
+---json
+{
+    "name":"gomukhān",
+    "h1":"gomukhān",
+    "title":"gomukhān -- synonyms, prabhupada.io",
+    "description":"a type of bugle."
+}
+---
 
 ==== gomukhān  ====
   * a type of bugle --- [[books:sb:8:8:13|SB 8.8.13]]

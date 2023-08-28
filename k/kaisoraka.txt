@@ -1,5 +1,11 @@
-~~Title:kaiśoraka~~
-{{description>the age of adolescence.}}
+---json
+{
+    "name":"kaiśoraka",
+    "h1":"kaiśoraka",
+    "title":"kaiśoraka -- synonyms, prabhupada.io",
+    "description":"the age of adolescence."
+}
+---
 
 ==== kaiśoraka-vayaḥ  ====
   * the age of adolescence --- [[books:cc:adi:4:116|Ādi 4.116]]

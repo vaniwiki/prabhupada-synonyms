@@ -1,5 +1,11 @@
-~~Title:kālyamānām~~
-{{description>being chased.}}
+---json
+{
+    "name":"kālyamānām",
+    "h1":"kālyamānām",
+    "title":"kālyamānām -- synonyms, prabhupada.io",
+    "description":"being chased."
+}
+---
 
 ==== kālyamānām  ====
   * being chased --- [[books:sb:6:11:2-3|SB 6.11.2-3]]

@@ -1,5 +1,11 @@
-~~Title:ṭhāre~~
-{{description>by indications.}}
+---json
+{
+    "name":"ṭhāre",
+    "h1":"ṭhāre",
+    "title":"ṭhāre -- synonyms, prabhupada.io",
+    "description":"by indications."
+}
+---
 
 ==== ṭhāre  ====
   * by indications --- [[books:cc:antya:16:55|Antya 16.55]]

@@ -1,5 +1,11 @@
-~~Title:bhuvaneṣu~~
-{{description>within the worlds.}}
+---json
+{
+    "name":"bhuvaneṣu",
+    "h1":"bhuvaneṣu",
+    "title":"bhuvaneṣu -- synonyms, prabhupada.io",
+    "description":"within the worlds."
+}
+---
 
 ==== bhuvaneṣu  ====
   * within the worlds --- [[books:cc:adi:5:155|Ādi 5.155]]

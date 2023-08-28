@@ -1,5 +1,11 @@
-~~Title:āmiṣa~~
-{{description>is like the fleshy smell coming out from within.}}
+---json
+{
+    "name":"āmiṣa",
+    "h1":"āmiṣa",
+    "title":"āmiṣa -- synonyms, prabhupada.io",
+    "description":"is like the fleshy smell coming out from within."
+}
+---
 
 ==== antaḥ-āmiṣa-gandha-vat  ====
   * is like the fleshy smell coming out from within --- [[books:sb:10:12:23|SB 10.12.23]]

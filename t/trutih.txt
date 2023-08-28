@@ -1,5 +1,11 @@
-~~Title:truṭiḥ~~
-{{description>by the name truṭi; half a second.}}
+---json
+{
+    "name":"truṭiḥ",
+    "h1":"truṭiḥ",
+    "title":"truṭiḥ -- synonyms, prabhupada.io",
+    "description":"by the name truṭi; half a second."
+}
+---
 
 ==== truṭiḥ  ====
   * by the name //truṭi// --- [[books:sb:3:11:6|SB 3.11.6]]

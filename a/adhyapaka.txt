@@ -1,5 +1,11 @@
-~~Title:adhyāpaka~~
-{{description>a teacher; professors.}}
+---json
+{
+    "name":"adhyāpaka",
+    "h1":"adhyāpaka",
+    "title":"adhyāpaka -- synonyms, prabhupada.io",
+    "description":"a teacher; professors."
+}
+---
 
 ==== adhyāpaka  ====
   * a teacher --- [[books:cc:antya:13:92|Antya 13.92]]

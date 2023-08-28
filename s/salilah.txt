@@ -1,5 +1,11 @@
-~~Title:salilāḥ~~
-{{description>the waters became clear.}}
+---json
+{
+    "name":"salilāḥ",
+    "h1":"salilāḥ",
+    "title":"salilāḥ -- synonyms, prabhupada.io",
+    "description":"the waters became clear."
+}
+---
 
 ==== prasanna-salilāḥ  ====
   * the waters became clear --- [[books:sb:10:3:1-5|SB 10.3.1-5]]

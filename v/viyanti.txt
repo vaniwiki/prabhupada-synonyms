@@ -1,5 +1,11 @@
-~~Title:viyanti~~
-{{description>deteriorates.}}
+---json
+{
+    "name":"viyanti",
+    "h1":"viyanti",
+    "title":"viyanti -- synonyms, prabhupada.io",
+    "description":"deteriorates."
+}
+---
 
 ==== viyanti  ====
   * deteriorates --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

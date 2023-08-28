@@ -1,5 +1,11 @@
-~~Title:śūnyāya~~
-{{description>to nothing.}}
+---json
+{
+    "name":"śūnyāya",
+    "h1":"śūnyāya",
+    "title":"śūnyāya -- synonyms, prabhupada.io",
+    "description":"to nothing."
+}
+---
 
 ==== śūnyāya  ====
   * to nothing --- [[books:sb:6:13:19-20|SB 6.13.19-20]]

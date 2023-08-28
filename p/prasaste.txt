@@ -1,5 +1,11 @@
-~~Title:praśaste~~
-{{description>bona fide.}}
+---json
+{
+    "name":"praśaste",
+    "h1":"praśaste",
+    "title":"praśaste -- synonyms, prabhupada.io",
+    "description":"bona fide."
+}
+---
 
 ==== praśaste  ====
   * bona fide --- [[books:bg:17:26-27|Bg. 17.26-27]]

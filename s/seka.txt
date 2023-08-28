@@ -1,5 +1,11 @@
-~~Title:seka~~
-{{description>sprinkling water.}}
+---json
+{
+    "name":"seka",
+    "h1":"seka",
+    "title":"seka -- synonyms, prabhupada.io",
+    "description":"sprinkling water."
+}
+---
 
 ==== seka-jala  ====
   * sprinkling water --- [[books:cc:madhya:19:160|Madhya 19.160]]

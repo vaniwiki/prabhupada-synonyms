@@ -1,5 +1,11 @@
-~~Title:pallī~~
-{{description>from the village of the cowherd men.}}
+---json
+{
+    "name":"pallī",
+    "h1":"pallī",
+    "title":"pallī -- synonyms, prabhupada.io",
+    "description":"from the village of the cowherd men."
+}
+---
 
 ==== ābhīra-pallī  ====
   * from the village of the cowherd men --- [[books:cc:antya:1:154|Antya 1.154]]

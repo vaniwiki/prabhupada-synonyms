@@ -1,5 +1,11 @@
-~~Title:vijayāya~~
-{{description>for the victory and increasing prestige.}}
+---json
+{
+    "name":"vijayāya",
+    "h1":"vijayāya",
+    "title":"vijayāya -- synonyms, prabhupada.io",
+    "description":"for the victory and increasing prestige."
+}
+---
 
 ==== vijayāya  ====
   * for the victory and increasing prestige --- [[books:sb:7:3:13|SB 7.3.13]]

@@ -1,5 +1,11 @@
-~~Title:arthāt~~
-{{description>only for the sake of Yajña, or Viṣṇu.}}
+---json
+{
+    "name":"arthāt",
+    "h1":"arthāt",
+    "title":"arthāt -- synonyms, prabhupada.io",
+    "description":"only for the sake of Yajña, or Viṣṇu."
+}
+---
 
 ==== yajña-arthāt  ====
   * only for the sake of Yajña, or Viṣṇu --- [[books:bg:3:9|Bg. 3.9]]

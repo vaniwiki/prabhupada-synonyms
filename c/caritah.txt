@@ -1,5 +1,11 @@
-~~Title:caritaḥ~~
-{{description>whose character.}}
+---json
+{
+    "name":"caritaḥ",
+    "h1":"caritaḥ",
+    "title":"caritaḥ -- synonyms, prabhupada.io",
+    "description":"whose character."
+}
+---
 
 ==== caritaḥ  ====
   * whose character --- [[books:sb:9:10:54|SB 9.10.54]]

@@ -1,5 +1,11 @@
-~~Title:pāṭhāo~~
-{{description>you do not need to send.}}
+---json
+{
+    "name":"pāṭhāo",
+    "h1":"pāṭhāo",
+    "title":"pāṭhāo -- synonyms, prabhupada.io",
+    "description":"you do not need to send."
+}
+---
 
 ==== nā pāṭhāo  ====
   * you do not need to send --- [[books:cc:madhya:24:280|Madhya 24.280]]

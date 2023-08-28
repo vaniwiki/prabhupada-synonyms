@@ -1,5 +1,11 @@
-~~Title:gāi~~
-{{description>I chant; is sung; sing; we sing.}}
+---json
+{
+    "name":"gāi",
+    "h1":"gāi",
+    "title":"gāi -- synonyms, prabhupada.io",
+    "description":"I chant; is sung; sing; we sing."
+}
+---
 
 ==== gāi  ====
   * I chant --- [[books:cc:madhya:9:35|Madhya 9.35]]

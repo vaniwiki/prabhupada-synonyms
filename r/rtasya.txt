@@ -1,5 +1,11 @@
-~~Title:ṛtasya~~
-{{description>of dharma.}}
+---json
+{
+    "name":"ṛtasya",
+    "h1":"ṛtasya",
+    "title":"ṛtasya -- synonyms, prabhupada.io",
+    "description":"of dharma."
+}
+---
 
 ==== ṛtasya  ====
   * of //dharma// --- [[books:sb:5:20:5|SB 5.20.5]]

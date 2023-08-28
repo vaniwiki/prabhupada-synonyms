@@ -1,5 +1,11 @@
-~~Title:prasidata~~
-{{description>being merciful to me.}}
+---json
+{
+    "name":"prasidata",
+    "h1":"prasidata",
+    "title":"prasidata -- synonyms, prabhupada.io",
+    "description":"being merciful to me."
+}
+---
 
 ==== prasīdata  ====
   * being merciful to me --- [[books:sb:4:1:28|SB 4.1.28]]

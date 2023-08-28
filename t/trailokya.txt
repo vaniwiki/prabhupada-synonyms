@@ -1,5 +1,11 @@
-~~Title:trailokya~~
-{{description>for the three worlds; of all the three worlds; of the three material worlds; of the three worlds.}}
+---json
+{
+    "name":"trailokya",
+    "h1":"trailokya",
+    "title":"trailokya -- synonyms, prabhupada.io",
+    "description":"for the three worlds; of all the three worlds; of the three material worlds; of the three worlds."
+}
+---
 
 ==== trailokya  ====
   * for the three worlds --- [[books:sb:9:10:15|SB 9.10.15]]

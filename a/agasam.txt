@@ -1,5 +1,11 @@
-~~Title:agasam~~
-{{description>of the faultless; of those who are offenseless.}}
+---json
+{
+    "name":"agasam",
+    "h1":"agasam",
+    "title":"agasam -- synonyms, prabhupada.io",
+    "description":"of the faultless; of those who are offenseless."
+}
+---
 
 ==== akṛta-āgasām  ====
   * of the faultless --- [[books:sb:3:14:40|SB 3.14.40]]

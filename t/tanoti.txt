@@ -1,5 +1,11 @@
-~~Title:tanoti~~
-{{description>does deliver; expands; increases; manifests; offers; spreads.}}
+---json
+{
+    "name":"tanoti",
+    "h1":"tanoti",
+    "title":"tanoti -- synonyms, prabhupada.io",
+    "description":"does deliver; expands; increases; manifests; offers; spreads."
+}
+---
 
 ==== tanoti  ====
   * does deliver --- [[books:sb:4:17:22|SB 4.17.22]]

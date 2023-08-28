@@ -1,5 +1,11 @@
-~~Title:yūtha~~
-{{description>bereft of her husband.}}
+---json
+{
+    "name":"yūtha",
+    "h1":"yūtha",
+    "title":"yūtha -- synonyms, prabhupada.io",
+    "description":"bereft of her husband."
+}
+---
 
 ==== yūtha-bhraṣṭā  ====
   * bereft of her husband --- [[books:sb:4:28:46|SB 4.28.46]]

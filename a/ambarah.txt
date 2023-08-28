@@ -1,5 +1,11 @@
-~~Title:ambarah~~
-{{description>and dress; whose dress.}}
+---json
+{
+    "name":"ambarah",
+    "h1":"ambarah",
+    "title":"ambarah -- synonyms, prabhupada.io",
+    "description":"and dress; whose dress."
+}
+---
 
 ==== ambaraḥ  ====
   * and dress --- [[books:sb:6:14:50-51|SB 6.14.50-51]]

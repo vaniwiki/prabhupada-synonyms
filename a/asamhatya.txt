@@ -1,5 +1,11 @@
-~~Title:asaṁhatya~~
-{{description>being unmixed.}}
+---json
+{
+    "name":"asaṁhatya",
+    "h1":"asaṁhatya",
+    "title":"asaṁhatya -- synonyms, prabhupada.io",
+    "description":"being unmixed."
+}
+---
 
 ==== asaṁhatya  ====
   * being unmixed --- [[books:sb:3:26:50|SB 3.26.50]]

@@ -1,5 +1,11 @@
-~~Title:niṣadhān~~
-{{description>the countries occupied by the Niṣadhas.}}
+---json
+{
+    "name":"niṣadhān",
+    "h1":"niṣadhān",
+    "title":"niṣadhān -- synonyms, prabhupada.io",
+    "description":"the countries occupied by the Niṣadhas."
+}
+---
 
 ==== niṣadhān  ====
   * the countries occupied by the Niṣadhas --- [[books:sb:10:2:3|SB 10.2.3]]

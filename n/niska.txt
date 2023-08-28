@@ -1,5 +1,11 @@
-~~Title:niṣka~~
-{{description>a gold necklace with a locket.}}
+---json
+{
+    "name":"niṣka",
+    "h1":"niṣka",
+    "title":"niṣka -- synonyms, prabhupada.io",
+    "description":"a gold necklace with a locket."
+}
+---
 
 ==== niṣka  ====
   * a gold necklace with a locket --- [[books:sb:3:23:31|SB 3.23.31]]

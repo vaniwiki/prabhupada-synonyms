@@ -1,5 +1,11 @@
-~~Title:ghumāñā~~
-{{description>he falls asleep.}}
+---json
+{
+    "name":"ghumāñā",
+    "h1":"ghumāñā",
+    "title":"ghumāñā -- synonyms, prabhupada.io",
+    "description":"he falls asleep."
+}
+---
 
 ==== ghumāñā paḍena  ====
   * he falls asleep --- [[books:cc:antya:19:71|Antya 19.71]]

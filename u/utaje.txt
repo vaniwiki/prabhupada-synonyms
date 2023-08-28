@@ -1,5 +1,11 @@
-~~Title:uṭaje~~
-{{description>along with the thatched cottage.}}
+---json
+{
+    "name":"uṭaje",
+    "h1":"uṭaje",
+    "title":"uṭaje -- synonyms, prabhupada.io",
+    "description":"along with the thatched cottage."
+}
+---
 
 ==== saha-uṭaje  ====
   * along with the thatched cottage --- [[books:sb:1:13:58|SB 1.13.58]]

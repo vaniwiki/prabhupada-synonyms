@@ -1,5 +1,11 @@
-~~Title:śāpe~~
-{{description>cursing.}}
+---json
+{
+    "name":"śāpe",
+    "h1":"śāpe",
+    "title":"śāpe -- synonyms, prabhupada.io",
+    "description":"cursing."
+}
+---
 
 ==== śāpe  ====
   * cursing --- [[books:cc:adi:17:62|Ādi 17.62]]

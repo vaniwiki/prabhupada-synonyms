@@ -1,5 +1,11 @@
-~~Title:antaḥsthāni~~
-{{description>within.}}
+---json
+{
+    "name":"antaḥsthāni",
+    "h1":"antaḥsthāni",
+    "title":"antaḥsthāni -- synonyms, prabhupada.io",
+    "description":"within."
+}
+---
 
 ==== antaḥsthāni  ====
   * within --- [[books:bg:8:22|Bg. 8.22]]

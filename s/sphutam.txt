@@ -1,5 +1,11 @@
-~~Title:sphutam~~
-{{description>always factual, as it is; clearly; clearly manifested; explicitly; the cosmic manifestation.}}
+---json
+{
+    "name":"sphutam",
+    "h1":"sphutam",
+    "title":"sphutam -- synonyms, prabhupada.io",
+    "description":"always factual, as it is; clearly; clearly manifested; explicitly; the cosmic manifestation."
+}
+---
 
 ==== sphuṭam  ====
   * always factual, as it is --- [[books:sb:10:7:17|SB 10.7.17]]

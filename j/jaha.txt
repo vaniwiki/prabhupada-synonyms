@@ -1,5 +1,11 @@
-~~Title:jaha~~
-{{description>as much as.}}
+---json
+{
+    "name":"jaha",
+    "h1":"jaha",
+    "title":"jaha -- synonyms, prabhupada.io",
+    "description":"as much as."
+}
+---
 
 ==== jaha jaha  ====
   * as much as --- [[books:cc:antya:1:144|Antya 1.144]]

@@ -1,5 +1,11 @@
-~~Title:manyante~~
-{{description>consider; think.}}
+---json
+{
+    "name":"manyante",
+    "h1":"manyante",
+    "title":"manyante -- synonyms, prabhupada.io",
+    "description":"consider; think."
+}
+---
 
 ==== manyante  ====
   * consider --- [[books:sb:7:8:10|SB 7.8.10]]

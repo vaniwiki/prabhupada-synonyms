@@ -1,5 +1,11 @@
-~~Title:sandhyā~~
-{{description>evening; evening time; in the evening; morning duties; transitional period before.}}
+---json
+{
+    "name":"sandhyā",
+    "h1":"sandhyā",
+    "title":"sandhyā -- synonyms, prabhupada.io",
+    "description":"evening; evening time; in the evening; morning duties; transitional period before."
+}
+---
 
 ==== sandhyā  ====
   * evening --- [[books:sb:6:1:42|SB 6.1.42]], [[books:cc:madhya:8:54|Madhya 8.54]]

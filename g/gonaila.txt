@@ -1,5 +1,11 @@
-~~Title:gonaila~~
-{{description>passed; passed away.}}
+---json
+{
+    "name":"gonaila",
+    "h1":"gonaila",
+    "title":"gonaila -- synonyms, prabhupada.io",
+    "description":"passed; passed away."
+}
+---
 
 ==== goṅāila  ====
   * passed --- [[books:cc:madhya:1:110|Madhya 1.110]], [[books:cc:madhya:9:86|Madhya 9.86]], [[books:cc:madhya:9:293|Madhya 9.293]]

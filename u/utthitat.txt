@@ -1,5 +1,11 @@
-~~Title:utthitāt~~
-{{description>caused by.}}
+---json
+{
+    "name":"utthitāt",
+    "h1":"utthitāt",
+    "title":"utthitāt -- synonyms, prabhupada.io",
+    "description":"caused by."
+}
+---
 
 ==== utthitāt  ====
   * caused by --- [[books:sb:1:18:2|SB 1.18.2]]

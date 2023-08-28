@@ -1,5 +1,11 @@
-~~Title:ḍhakkā~~
-{{description>of a drum.}}
+---json
+{
+    "name":"ḍhakkā",
+    "h1":"ḍhakkā",
+    "title":"ḍhakkā -- synonyms, prabhupada.io",
+    "description":"of a drum."
+}
+---
 
 ==== ḍhakkā  ====
   * of a drum --- [[books:cc:madhya:6:256|Madhya 6.256]]

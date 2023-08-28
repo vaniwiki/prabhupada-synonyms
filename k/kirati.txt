@@ -1,5 +1,11 @@
-~~Title:kirati~~
-{{description>expands.}}
+---json
+{
+    "name":"kirati",
+    "h1":"kirati",
+    "title":"kirati -- synonyms, prabhupada.io",
+    "description":"expands."
+}
+---
 
 ==== kirati  ====
   * expands --- [[books:cc:antya:1:177|Antya 1.177]]

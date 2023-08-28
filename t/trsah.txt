@@ -1,5 +1,11 @@
-~~Title:tṛṣaḥ~~
-{{description>eager to enjoy sense gratification.}}
+---json
+{
+    "name":"tṛṣaḥ",
+    "h1":"tṛṣaḥ",
+    "title":"tṛṣaḥ -- synonyms, prabhupada.io",
+    "description":"eager to enjoy sense gratification."
+}
+---
 
 ==== viṣaya-tṛṣaḥ  ====
   * eager to enjoy sense gratification --- [[books:sb:6:16:38|SB 6.16.38]]

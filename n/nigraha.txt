@@ -1,5 +1,11 @@
-~~Title:nigraha~~
-{{description>in destruction.}}
+---json
+{
+    "name":"nigraha",
+    "h1":"nigraha",
+    "title":"nigraha -- synonyms, prabhupada.io",
+    "description":"in destruction."
+}
+---
 
 ==== nigraha  ====
   * in destruction --- [[books:sb:7:2:39|SB 7.2.39]]

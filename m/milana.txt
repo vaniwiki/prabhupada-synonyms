@@ -1,5 +1,11 @@
-~~Title:milana~~
-{{description>combining; conjunction; meeting; mixture.}}
+---json
+{
+    "name":"milana",
+    "h1":"milana",
+    "title":"milana -- synonyms, prabhupada.io",
+    "description":"combining; conjunction; meeting; mixture."
+}
+---
 
 ==== milana  ====
   * combining --- [[books:cc:antya:17:49|Antya 17.49]]

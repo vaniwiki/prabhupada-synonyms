@@ -1,5 +1,11 @@
-~~Title:jambham~~
-{{description>Jambhāsura.}}
+---json
+{
+    "name":"jambham",
+    "h1":"jambham",
+    "title":"jambham -- synonyms, prabhupada.io",
+    "description":"Jambhāsura."
+}
+---
 
 ==== jambham  ====
   * Jambhāsura --- [[books:sb:8:11:19|SB 8.11.19]]

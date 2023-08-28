@@ -1,5 +1,11 @@
-~~Title:aviśrāma~~
-{{description>was chanting incessantly.}}
+---json
+{
+    "name":"aviśrāma",
+    "h1":"aviśrāma",
+    "title":"aviśrāma -- synonyms, prabhupada.io",
+    "description":"was chanting incessantly."
+}
+---
 
 ==== kahe aviśrāma  ====
   * was chanting incessantly --- [[books:cc:antya:9:56|Antya 9.56]]

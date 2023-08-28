@@ -1,5 +1,11 @@
-~~Title:avagata~~
-{{description>became aware of; being fully convinced about.}}
+---json
+{
+    "name":"avagata",
+    "h1":"avagata",
+    "title":"avagata -- synonyms, prabhupada.io",
+    "description":"became aware of; being fully convinced about."
+}
+---
 
 ==== avagata  ====
   * became aware of --- [[books:sb:5:1:6|SB 5.1.6]]

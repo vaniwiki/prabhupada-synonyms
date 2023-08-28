@@ -1,5 +1,11 @@
-~~Title:dahadbhiḥ~~
-{{description>burning.}}
+---json
+{
+    "name":"dahadbhiḥ",
+    "h1":"dahadbhiḥ",
+    "title":"dahadbhiḥ -- synonyms, prabhupada.io",
+    "description":"burning."
+}
+---
 
 ==== dahadbhiḥ  ====
   * burning --- [[books:sb:8:15:10-11|SB 8.15.10-11]]

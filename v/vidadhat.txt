@@ -1,5 +1,11 @@
-~~Title:vidadhat~~
-{{description>always thinking of; executing, offering; offering.}}
+---json
+{
+    "name":"vidadhat",
+    "h1":"vidadhat",
+    "title":"vidadhat -- synonyms, prabhupada.io",
+    "description":"always thinking of; executing, offering; offering."
+}
+---
 
 ==== vidadhat  ====
   * always thinking of --- [[books:sb:5:9:3|SB 5.9.3]]

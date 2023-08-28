@@ -1,5 +1,11 @@
-~~Title:gāndhārī~~
-{{description>Gāndhārī; the mother of Duryodhana.}}
+---json
+{
+    "name":"gāndhārī",
+    "h1":"gāndhārī",
+    "title":"gāndhārī -- synonyms, prabhupada.io",
+    "description":"Gāndhārī; the mother of Duryodhana."
+}
+---
 
 ==== gāndhārī  ====
   * Gāndhārī --- [[books:sb:1:13:3-4|SB 1.13.3-4]]

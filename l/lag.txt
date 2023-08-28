@@ -1,5 +1,11 @@
-~~Title:lāg~~
-{{description>contact.}}
+---json
+{
+    "name":"lāg",
+    "h1":"lāg",
+    "title":"lāg -- synonyms, prabhupada.io",
+    "description":"contact."
+}
+---
 
 ==== lāg  ====
   * contact --- [[books:cc:madhya:9:341|Madhya 9.341]], [[books:cc:madhya:20:12|Madhya 20.12]]

@@ -1,5 +1,11 @@
-~~Title:viśikha~~
-{{description>arrows.}}
+---json
+{
+    "name":"viśikha",
+    "h1":"viśikha",
+    "title":"viśikha -- synonyms, prabhupada.io",
+    "description":"arrows."
+}
+---
 
 ==== viśikha  ====
   * arrows --- [[books:sb:1:9:38|SB 1.9.38]]

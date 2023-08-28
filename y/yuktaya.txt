@@ -1,5 +1,11 @@
-~~Title:yuktaya~~
-{{description>strengthened; thus being equipped; well equipped with.}}
+---json
+{
+    "name":"yuktaya",
+    "h1":"yuktaya",
+    "title":"yuktaya -- synonyms, prabhupada.io",
+    "description":"strengthened; thus being equipped; well equipped with."
+}
+---
 
 ==== yuktayā  ====
   * strengthened --- [[books:sb:3:31:48|SB 3.31.48]]

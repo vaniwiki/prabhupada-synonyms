@@ -1,5 +1,11 @@
-~~Title:aśmanā~~
-{{description>by a stone.}}
+---json
+{
+    "name":"aśmanā",
+    "h1":"aśmanā",
+    "title":"aśmanā -- synonyms, prabhupada.io",
+    "description":"by a stone."
+}
+---
 
 ==== aśmanā  ====
   * by a stone --- [[books:sb:9:9:39|SB 9.9.39]]

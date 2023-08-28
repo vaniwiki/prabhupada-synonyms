@@ -1,5 +1,11 @@
-~~Title:kākere~~
-{{description>unto a crow.}}
+---json
+{
+    "name":"kākere",
+    "h1":"kākere",
+    "title":"kākere -- synonyms, prabhupada.io",
+    "description":"unto a crow."
+}
+---
 
 ==== kākere  ====
   * unto a crow --- [[books:cc:madhya:12:182|Madhya 12.182]]

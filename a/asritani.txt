@@ -1,5 +1,11 @@
-~~Title:āśritāni~~
-{{description>places of shelter.}}
+---json
+{
+    "name":"āśritāni",
+    "h1":"āśritāni",
+    "title":"āśritāni -- synonyms, prabhupada.io",
+    "description":"places of shelter."
+}
+---
 
 ==== āśritāni  ====
   * places of shelter --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

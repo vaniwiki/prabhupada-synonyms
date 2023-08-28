@@ -1,5 +1,11 @@
-~~Title:kukṣiṣu~~
-{{description>on the waist.}}
+---json
+{
+    "name":"kukṣiṣu",
+    "h1":"kukṣiṣu",
+    "title":"kukṣiṣu -- synonyms, prabhupada.io",
+    "description":"on the waist."
+}
+---
 
 ==== kukṣiṣu  ====
   * on the waist --- [[books:sb:8:20:24|SB 8.20.24]]

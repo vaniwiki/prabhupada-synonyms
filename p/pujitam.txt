@@ -1,5 +1,11 @@
-~~Title:pūjitam~~
-{{description>worshiped by the demigods.}}
+---json
+{
+    "name":"pūjitam",
+    "h1":"pūjitam",
+    "title":"pūjitam -- synonyms, prabhupada.io",
+    "description":"worshiped by the demigods."
+}
+---
 
 ==== sura-pūjitam  ====
   * worshiped by the demigods --- [[books:sb:1:4:33|SB 1.4.33]]

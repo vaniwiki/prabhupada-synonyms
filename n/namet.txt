@@ -1,5 +1,11 @@
-~~Title:namet~~
-{{description>bow down; one should offer obeisances.}}
+---json
+{
+    "name":"namet",
+    "h1":"namet",
+    "title":"namet -- synonyms, prabhupada.io",
+    "description":"bow down; one should offer obeisances."
+}
+---
 
 ==== namet  ====
   * bow down --- [[books:sb:2:3:21|SB 2.3.21]]

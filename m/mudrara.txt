@@ -1,5 +1,11 @@
-~~Title:mudrāra~~
-{{description>of coins.}}
+---json
+{
+    "name":"mudrāra",
+    "h1":"mudrāra",
+    "title":"mudrāra -- synonyms, prabhupada.io",
+    "description":"of coins."
+}
+---
 
 ==== mudrāra  ====
   * of coins --- [[books:cc:madhya:16:217|Madhya 16.217]]

@@ -1,5 +1,11 @@
-~~Title:chāḍile~~
-{{description>if I give up.}}
+---json
+{
+    "name":"chāḍile",
+    "h1":"chāḍile",
+    "title":"chāḍile -- synonyms, prabhupada.io",
+    "description":"if I give up."
+}
+---
 
 ==== chāḍile  ====
   * if I give up --- [[books:cc:antya:17:55|Antya 17.55]]

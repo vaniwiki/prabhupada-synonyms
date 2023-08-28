@@ -1,5 +1,11 @@
-~~Title:ajamidha~~
-{{description>O descendant of King Ajamīḍha.}}
+---json
+{
+    "name":"ajamidha",
+    "h1":"ajamidha",
+    "title":"ajamidha -- synonyms, prabhupada.io",
+    "description":"O descendant of King Ajamīḍha."
+}
+---
 
 ==== ājamīḍha  ====
   * O descendant of King Ajamīḍha --- [[books:sb:1:15:13|SB 1.15.13]]

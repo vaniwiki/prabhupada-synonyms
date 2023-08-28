@@ -1,5 +1,11 @@
-~~Title:amūmucan~~
-{{description>rescued.}}
+---json
+{
+    "name":"amūmucan",
+    "h1":"amūmucan",
+    "title":"amūmucan -- synonyms, prabhupada.io",
+    "description":"rescued."
+}
+---
 
 ==== amūmucan  ====
   * rescued --- [[books:sb:6:2:20|SB 6.2.20]]

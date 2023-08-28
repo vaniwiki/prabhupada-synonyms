@@ -1,5 +1,11 @@
-~~Title:vidhamantam~~
-{{description>the act of vanishing.}}
+---json
+{
+    "name":"vidhamantam",
+    "h1":"vidhamantam",
+    "title":"vidhamantam -- synonyms, prabhupada.io",
+    "description":"the act of vanishing."
+}
+---
 
 ==== vidhamantam  ====
   * the act of vanishing --- [[books:sb:1:12:10|SB 1.12.10]]

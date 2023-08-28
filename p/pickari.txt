@@ -1,5 +1,11 @@
-~~Title:pickāri~~
-{{description>like water coming in force from a syringe.}}
+---json
+{
+    "name":"pickāri",
+    "h1":"pickāri",
+    "title":"pickāri -- synonyms, prabhupada.io",
+    "description":"like water coming in force from a syringe."
+}
+---
 
 ==== pickāri-dhārā  ====
   * like water coming in force from a syringe --- [[books:cc:madhya:11:223|Madhya 11.223]]

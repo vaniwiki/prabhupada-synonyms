@@ -1,5 +1,11 @@
-~~Title:guṇasya~~
-{{description>of the instruments of knowledge; whose qualities.}}
+---json
+{
+    "name":"guṇasya",
+    "h1":"guṇasya",
+    "title":"guṇasya -- synonyms, prabhupada.io",
+    "description":"of the instruments of knowledge; whose qualities."
+}
+---
 
 ==== guṇasya  ====
   * of the instruments of knowledge --- [[books:sb:4:7:31|SB 4.7.31]]

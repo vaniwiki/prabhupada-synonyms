@@ -1,5 +1,11 @@
-~~Title:agrayā~~
-{{description>with full attention.}}
+---json
+{
+    "name":"agrayā",
+    "h1":"agrayā",
+    "title":"agrayā -- synonyms, prabhupada.io",
+    "description":"with full attention."
+}
+---
 
 ==== eka-agrayā  ====
   * with full attention --- [[books:sb:8:17:2-3|SB 8.17.2-3]]

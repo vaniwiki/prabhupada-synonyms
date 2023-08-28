@@ -1,5 +1,11 @@
-~~Title:pradyumnam~~
-{{description>Pradyumna.}}
+---json
+{
+    "name":"pradyumnam",
+    "h1":"pradyumnam",
+    "title":"pradyumnam -- synonyms, prabhupada.io",
+    "description":"Pradyumna."
+}
+---
 
 ==== pradyumnam  ====
   * Pradyumna --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

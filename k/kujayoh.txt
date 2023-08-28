@@ -1,5 +1,11 @@
-~~Title:kujayoḥ~~
-{{description>from between the two trees.}}
+---json
+{
+    "name":"kujayoḥ",
+    "h1":"kujayoḥ",
+    "title":"kujayoḥ -- synonyms, prabhupada.io",
+    "description":"from between the two trees."
+}
+---
 
 ==== kujayoḥ  ====
   * from between the two trees --- [[books:sb:10:10:28|SB 10.10.28]]

@@ -1,5 +1,11 @@
-~~Title:sumitraḥ~~
-{{description>Sumitra; Sumitra, the son of Suratha.}}
+---json
+{
+    "name":"sumitraḥ",
+    "h1":"sumitraḥ",
+    "title":"sumitraḥ -- synonyms, prabhupada.io",
+    "description":"Sumitra; Sumitra, the son of Suratha."
+}
+---
 
 ==== sumitraḥ  ====
   * Sumitra --- [[books:sb:9:24:12|SB 9.24.12]]

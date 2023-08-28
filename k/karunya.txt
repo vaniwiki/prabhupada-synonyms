@@ -1,5 +1,11 @@
-~~Title:kāruṇya~~
-{{description>favor.}}
+---json
+{
+    "name":"kāruṇya",
+    "h1":"kāruṇya",
+    "title":"kāruṇya -- synonyms, prabhupada.io",
+    "description":"favor."
+}
+---
 
 ==== kāruṇya  ====
   * favor --- [[books:cc:antya:2:168|Antya 2.168]]

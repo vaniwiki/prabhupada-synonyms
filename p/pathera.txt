@@ -1,5 +1,11 @@
-~~Title:pathera~~
-{{description>on the path.}}
+---json
+{
+    "name":"pathera",
+    "h1":"pathera",
+    "title":"pathera -- synonyms, prabhupada.io",
+    "description":"on the path."
+}
+---
 
 ==== pathera  ====
   * on the path --- [[books:cc:madhya:24:270|Madhya 24.270]]

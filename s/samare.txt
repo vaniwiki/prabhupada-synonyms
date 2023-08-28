@@ -1,5 +1,11 @@
-~~Title:samare~~
-{{description>in battle; in the fight; on the Battlefield of Kurukṣetra.}}
+---json
+{
+    "name":"samare",
+    "h1":"samare",
+    "title":"samare -- synonyms, prabhupada.io",
+    "description":"in battle; in the fight; on the Battlefield of Kurukṣetra."
+}
+---
 
 ==== samare  ====
   * in battle --- [[books:sb:6:14:7|SB 6.14.7]]

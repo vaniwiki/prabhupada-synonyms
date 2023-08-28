@@ -1,5 +1,11 @@
-~~Title:nasena~~
-{{description>by His pleasing nose.}}
+---json
+{
+    "name":"nasena",
+    "h1":"nasena",
+    "title":"nasena -- synonyms, prabhupada.io",
+    "description":"by His pleasing nose."
+}
+---
 
 ==== su-nasena  ====
   * by His pleasing nose --- [[books:sb:3:8:27|SB 3.8.27]]

@@ -1,5 +1,11 @@
-~~Title:grasanti~~
-{{description>eat.}}
+---json
+{
+    "name":"grasanti",
+    "h1":"grasanti",
+    "title":"grasanti -- synonyms, prabhupada.io",
+    "description":"eat."
+}
+---
 
 ==== grasanti  ====
   * eat --- [[books:sb:5:26:33|SB 5.26.33]]

@@ -1,5 +1,11 @@
-~~Title:āśravam~~
-{{description>simply full of miseries.}}
+---json
+{
+    "name":"āśravam",
+    "h1":"āśravam",
+    "title":"āśravam -- synonyms, prabhupada.io",
+    "description":"simply full of miseries."
+}
+---
 
 ==== āśravam  ====
   * simply full of miseries --- [[books:cc:madhya:2:18|Madhya 2.18]]

@@ -1,5 +1,11 @@
-~~Title:unmūlita~~
-{{description>uprooted.}}
+---json
+{
+    "name":"unmūlita",
+    "h1":"unmūlita",
+    "title":"unmūlita -- synonyms, prabhupada.io",
+    "description":"uprooted."
+}
+---
 
 ==== unmūlita  ====
   * uprooted --- [[books:cc:antya:1:151|Antya 1.151]]

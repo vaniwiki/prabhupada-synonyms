@@ -1,5 +1,11 @@
-~~Title:uddāya~~
-{{description>snatching.}}
+---json
+{
+    "name":"uddāya",
+    "h1":"uddāya",
+    "title":"uddāya -- synonyms, prabhupada.io",
+    "description":"snatching."
+}
+---
 
 ==== uddāya  ====
   * snatching --- [[books:sb:3:1:39|SB 3.1.39]]

@@ -1,5 +1,11 @@
-~~Title:vyamuñcata~~
-{{description>released.}}
+---json
+{
+    "name":"vyamuñcata",
+    "h1":"vyamuñcata",
+    "title":"vyamuñcata -- synonyms, prabhupada.io",
+    "description":"released."
+}
+---
 
 ==== vyamuñcata  ====
   * released --- [[books:sb:7:10:57|SB 7.10.57]]

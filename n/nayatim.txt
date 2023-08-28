@@ -1,5 +1,11 @@
-~~Title:nayatīm~~
-{{description>moving.}}
+---json
+{
+    "name":"nayatīm",
+    "h1":"nayatīm",
+    "title":"nayatīm -- synonyms, prabhupada.io",
+    "description":"moving."
+}
+---
 
 ==== nayatīm  ====
   * moving --- [[books:sb:8:12:19|SB 8.12.19]]

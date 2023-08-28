@@ -1,5 +1,11 @@
-~~Title:śoṇita~~
-{{description>blood.}}
+---json
+{
+    "name":"śoṇita",
+    "h1":"śoṇita",
+    "title":"śoṇita -- synonyms, prabhupada.io",
+    "description":"blood."
+}
+---
 
 ==== śoṇita  ====
   * blood --- [[books:sb:5:26:22|SB 5.26.22]]

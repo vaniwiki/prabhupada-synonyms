@@ -1,5 +1,11 @@
-~~Title:gandhamādana~~
-{{description>of Gandhamādana Mountain.}}
+---json
+{
+    "name":"gandhamādana",
+    "h1":"gandhamādana",
+    "title":"gandhamādana -- synonyms, prabhupada.io",
+    "description":"of Gandhamādana Mountain."
+}
+---
 
 ==== gandhamādana  ====
   * of Gandhamādana Mountain --- [[books:sb:5:17:6|SB 5.17.6]]

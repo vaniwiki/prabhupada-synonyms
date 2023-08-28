@@ -1,5 +1,11 @@
-~~Title:nāhikahi~~
-{{description>I did not say.}}
+---json
+{
+    "name":"nāhikahi",
+    "h1":"nāhikahi",
+    "title":"nāhikahi -- synonyms, prabhupada.io",
+    "description":"I did not say."
+}
+---
 
 ==== nāhikahi  ====
   * I did not say --- [[books:cc:madhya:5:44|Madhya 5.44]]

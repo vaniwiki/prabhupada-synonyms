@@ -1,5 +1,11 @@
-~~Title:gaudiyara~~
-{{description>of this Vaiṣṇava from Bengal.}}
+---json
+{
+    "name":"gaudiyara",
+    "h1":"gaudiyara",
+    "title":"gaudiyara -- synonyms, prabhupada.io",
+    "description":"of this Vaiṣṇava from Bengal."
+}
+---
 
 ==== gauḍīyāra  ====
   * of this Vaiṣṇava from Bengal --- [[books:cc:madhya:12:125|Madhya 12.125]]

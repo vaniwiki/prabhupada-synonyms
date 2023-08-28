@@ -1,5 +1,11 @@
-~~Title:asesatah~~
-{{description>completely.}}
+---json
+{
+    "name":"asesatah",
+    "h1":"asesatah",
+    "title":"asesatah -- synonyms, prabhupada.io",
+    "description":"completely."
+}
+---
 
 ==== aśeṣatah  ====
   * completely --- [[books:bg:6:24|Bg. 6.24]]

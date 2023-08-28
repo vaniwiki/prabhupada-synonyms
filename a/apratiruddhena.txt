@@ -1,5 +1,11 @@
-~~Title:apratiruddhena~~
-{{description>without hindrance.}}
+---json
+{
+    "name":"apratiruddhena",
+    "h1":"apratiruddhena",
+    "title":"apratiruddhena -- synonyms, prabhupada.io",
+    "description":"without hindrance."
+}
+---
 
 ==== apratiruddhena  ====
   * without hindrance --- [[books:sb:2:9:25|SB 2.9.25]]

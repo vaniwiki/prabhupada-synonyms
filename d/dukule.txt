@@ -1,5 +1,11 @@
-~~Title:dukūle~~
-{{description>in fine cloth.}}
+---json
+{
+    "name":"dukūle",
+    "h1":"dukūle",
+    "title":"dukūle -- synonyms, prabhupada.io",
+    "description":"in fine cloth."
+}
+---
 
 ==== dukūle  ====
   * in fine cloth --- [[books:sb:3:23:28|SB 3.23.28]]

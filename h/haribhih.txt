@@ -1,5 +1,11 @@
-~~Title:haribhih~~
-{{description>by lions; on the backs of lions; with horses.}}
+---json
+{
+    "name":"haribhih",
+    "h1":"haribhih",
+    "title":"haribhih -- synonyms, prabhupada.io",
+    "description":"by lions; on the backs of lions; with horses."
+}
+---
 
 ==== haribhiḥ  ====
   * by lions --- [[books:sb:3:21:44|SB 3.21.44]]

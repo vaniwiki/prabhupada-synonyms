@@ -1,5 +1,11 @@
-~~Title:pratinedire~~
-{{description>vibrated.}}
+---json
+{
+    "name":"pratinedire",
+    "h1":"pratinedire",
+    "title":"pratinedire -- synonyms, prabhupada.io",
+    "description":"vibrated."
+}
+---
 
 ==== pratinedire  ====
   * vibrated --- [[books:sb:10:6:12|SB 10.6.12]]

@@ -1,5 +1,11 @@
-~~Title:mohanaḥ~~
-{{description>the enchanter.}}
+---json
+{
+    "name":"mohanaḥ",
+    "h1":"mohanaḥ",
+    "title":"mohanaḥ -- synonyms, prabhupada.io",
+    "description":"the enchanter."
+}
+---
 
 ==== mohanaḥ  ====
   * the enchanter --- [[books:cc:madhya:17:214|Madhya 17.214]]

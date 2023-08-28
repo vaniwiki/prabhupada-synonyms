@@ -1,5 +1,11 @@
-~~Title:campaka~~
-{{description>campaka; campaka flowers; of a golden-hued flower.}}
+---json
+{
+    "name":"campaka",
+    "h1":"campaka",
+    "title":"campaka -- synonyms, prabhupada.io",
+    "description":"campaka; campaka flowers; of a golden-hued flower."
+}
+---
 
 ==== campaka  ====
   * //campaka// --- [[books:sb:3:15:19|SB 3.15.19]]

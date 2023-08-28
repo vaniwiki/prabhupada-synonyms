@@ -1,5 +1,11 @@
-~~Title:caturdvāre~~
-{{description>at the place named Caturdvāra.}}
+---json
+{
+    "name":"caturdvāre",
+    "h1":"caturdvāre",
+    "title":"caturdvāre -- synonyms, prabhupada.io",
+    "description":"at the place named Caturdvāra."
+}
+---
 
 ==== caturdvāre  ====
   * at the place named Caturdvāra --- [[books:cc:madhya:16:116|Madhya 16.116]]

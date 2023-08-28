@@ -1,5 +1,11 @@
-~~Title:sevām~~
-{{description>service; transcendental loving service.}}
+---json
+{
+    "name":"sevām",
+    "h1":"sevām",
+    "title":"sevām -- synonyms, prabhupada.io",
+    "description":"service; transcendental loving service."
+}
+---
 
 ==== sevām  ====
   * service --- [[books:cc:antya:1:108|Antya 1.108]], [[books:noi:9|NoI 9]]

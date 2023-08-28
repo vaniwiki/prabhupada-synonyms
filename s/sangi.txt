@@ -1,5 +1,11 @@
-~~Title:sangi~~
-{{description>associate; connected; of associates; with associates.}}
+---json
+{
+    "name":"sangi",
+    "h1":"sangi",
+    "title":"sangi -- synonyms, prabhupada.io",
+    "description":"associate; connected; of associates; with associates."
+}
+---
 
 ==== saṅgi  ====
   * associate --- [[books:sb:4:24:57|SB 4.24.57]]

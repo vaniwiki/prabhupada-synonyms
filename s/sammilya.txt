@@ -1,5 +1,11 @@
-~~Title:sammīlya~~
-{{description>opening.}}
+---json
+{
+    "name":"sammīlya",
+    "h1":"sammīlya",
+    "title":"sammīlya -- synonyms, prabhupada.io",
+    "description":"opening."
+}
+---
 
 ==== sammīlya  ====
   * opening --- [[books:sb:10:7:37|SB 10.7.37]]

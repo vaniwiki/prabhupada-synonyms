@@ -1,5 +1,11 @@
-~~Title:paritrastā~~
-{{description>frightened.}}
+---json
+{
+    "name":"paritrastā",
+    "h1":"paritrastā",
+    "title":"paritrastā -- synonyms, prabhupada.io",
+    "description":"frightened."
+}
+---
 
 ==== paritrastā  ====
   * frightened --- [[books:cc:antya:1:151|Antya 1.151]]

@@ -1,5 +1,11 @@
-~~Title:saṅkīrtanāt~~
-{{description>from chanting the holy name.}}
+---json
+{
+    "name":"saṅkīrtanāt",
+    "h1":"saṅkīrtanāt",
+    "title":"saṅkīrtanāt -- synonyms, prabhupada.io",
+    "description":"from chanting the holy name."
+}
+---
 
 ==== nāma-saṅkīrtanāt  ====
   * from chanting the holy name --- [[books:sb:3:29:18|SB 3.29.18]]

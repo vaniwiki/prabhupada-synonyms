@@ -1,5 +1,11 @@
-~~Title:kalāpena~~
-{{description>by masses.}}
+---json
+{
+    "name":"kalāpena",
+    "h1":"kalāpena",
+    "title":"kalāpena -- synonyms, prabhupada.io",
+    "description":"by masses."
+}
+---
 
 ==== kalāpena  ====
   * by masses --- [[books:sb:5:7:13|SB 5.7.13]]

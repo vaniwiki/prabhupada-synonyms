@@ -1,5 +1,11 @@
-~~Title:nakhān~~
-{{description>nails.}}
+---json
+{
+    "name":"nakhān",
+    "h1":"nakhān",
+    "title":"nakhān -- synonyms, prabhupada.io",
+    "description":"nails."
+}
+---
 
 ==== nakhān  ====
   * nails --- [[books:sb:3:10:23|SB 3.10.23]]

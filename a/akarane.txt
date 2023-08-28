@@ -1,5 +1,11 @@
-~~Title:akarane~~
-{{description>without purpose.}}
+---json
+{
+    "name":"akarane",
+    "h1":"akarane",
+    "title":"akarane -- synonyms, prabhupada.io",
+    "description":"without purpose."
+}
+---
 
 ==== akāraṇe  ====
   * without purpose --- [[books:cc:madhya:2:31|Madhya 2.31]]

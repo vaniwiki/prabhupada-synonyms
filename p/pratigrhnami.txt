@@ -1,5 +1,11 @@
-~~Title:pratigṛhṇāmi~~
-{{description>I accept.}}
+---json
+{
+    "name":"pratigṛhṇāmi",
+    "h1":"pratigṛhṇāmi",
+    "title":"pratigṛhṇāmi -- synonyms, prabhupada.io",
+    "description":"I accept."
+}
+---
 
 ==== pratigṛhṇāmi  ====
   * I accept --- [[books:sb:6:17:17|SB 6.17.17]]

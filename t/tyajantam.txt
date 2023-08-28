@@ -1,5 +1,11 @@
-~~Title:tyajantam~~
-{{description>leaving me anyway, today or tomorrow.}}
+---json
+{
+    "name":"tyajantam",
+    "h1":"tyajantam",
+    "title":"tyajantam -- synonyms, prabhupada.io",
+    "description":"leaving me anyway, today or tomorrow."
+}
+---
 
 ==== tyajantam  ====
   * leaving me anyway, today or tomorrow --- [[books:sb:6:10:7|SB 6.10.7]]

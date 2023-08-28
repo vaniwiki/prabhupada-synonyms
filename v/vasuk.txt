@@ -1,5 +1,11 @@
-~~Title:vasuk~~
-{{description>let Him sit.}}
+---json
+{
+    "name":"vasuk",
+    "h1":"vasuk",
+    "title":"vasuk -- synonyms, prabhupada.io",
+    "description":"let Him sit."
+}
+---
 
 ==== vasuk  ====
   * let Him sit --- [[books:cc:adi:3:31|Ādi 3.31]]

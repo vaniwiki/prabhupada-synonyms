@@ -1,5 +1,11 @@
-~~Title:pāvakān~~
-{{description>fire.}}
+---json
+{
+    "name":"pāvakān",
+    "h1":"pāvakān",
+    "title":"pāvakān -- synonyms, prabhupada.io",
+    "description":"fire."
+}
+---
 
 ==== pāvakān  ====
   * fire --- [[books:sb:4:22:6|SB 4.22.6]]

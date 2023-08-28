@@ -1,5 +1,11 @@
-~~Title:citvā~~
-{{description>having piled up.}}
+---json
+{
+    "name":"citvā",
+    "h1":"citvā",
+    "title":"citvā -- synonyms, prabhupada.io",
+    "description":"having piled up."
+}
+---
 
 ==== citvā  ====
   * having piled up --- [[books:sb:4:28:50|SB 4.28.50]]

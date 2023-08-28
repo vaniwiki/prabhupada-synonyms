@@ -1,5 +1,11 @@
-~~Title:mamatva~~
-{{description>of a sense of ownership.}}
+---json
+{
+    "name":"mamatva",
+    "h1":"mamatva",
+    "title":"mamatva -- synonyms, prabhupada.io",
+    "description":"of a sense of ownership."
+}
+---
 
 ==== mamatva  ====
   * of a sense of ownership --- [[books:cc:madhya:23:7|Madhya 23.7]]

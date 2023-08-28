@@ -1,5 +1,11 @@
-~~Title:parvata~~
-{{description>another small hill; big mountains; the hilly tract; the hilly tract of land; the top of the hill.}}
+---json
+{
+    "name":"parvata",
+    "h1":"parvata",
+    "title":"parvata -- synonyms, prabhupada.io",
+    "description":"another small hill; big mountains; the hilly tract; the hilly tract of land; the top of the hill."
+}
+---
 
 ==== parvata  ====
   * another small hill --- [[books:cc:madhya:4:73|Madhya 4.73]]

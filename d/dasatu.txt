@@ -1,5 +1,11 @@
-~~Title:daśatu~~
-{{description>let it bite.}}
+---json
+{
+    "name":"daśatu",
+    "h1":"daśatu",
+    "title":"daśatu -- synonyms, prabhupada.io",
+    "description":"let it bite."
+}
+---
 
 ==== daśatu  ====
   * let it bite --- [[books:sb:1:19:15|SB 1.19.15]], [[books:cc:madhya:23:21|Madhya 23.21]]

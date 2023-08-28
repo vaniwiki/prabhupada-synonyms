@@ -1,5 +1,11 @@
-~~Title:leliha~~
-{{description>like a snake.}}
+---json
+{
+    "name":"leliha",
+    "h1":"leliha",
+    "title":"leliha -- synonyms, prabhupada.io",
+    "description":"like a snake."
+}
+---
 
 ==== leliha  ====
   * like a snake --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

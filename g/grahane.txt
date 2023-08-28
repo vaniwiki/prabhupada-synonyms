@@ -1,5 +1,11 @@
-~~Title:grahaṇe~~
-{{description>acceptance; in the control; taking; when capturing.}}
+---json
+{
+    "name":"grahaṇe",
+    "h1":"grahaṇe",
+    "title":"grahaṇe -- synonyms, prabhupada.io",
+    "description":"acceptance; in the control; taking; when capturing."
+}
+---
 
 ==== grahaṇe  ====
   * acceptance --- [[books:cc:adi:4:204|Ādi 4.204]]

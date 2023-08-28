@@ -1,5 +1,11 @@
-~~Title:āśrayatvam~~
-{{description>that which conveys the meaning of an object.}}
+---json
+{
+    "name":"āśrayatvam",
+    "h1":"āśrayatvam",
+    "title":"āśrayatvam -- synonyms, prabhupada.io",
+    "description":"that which conveys the meaning of an object."
+}
+---
 
 ==== artha-āśrayatvam  ====
   * that which conveys the meaning of an object --- [[books:sb:3:26:33|SB 3.26.33]]

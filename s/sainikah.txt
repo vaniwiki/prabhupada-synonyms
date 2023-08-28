@@ -1,5 +1,11 @@
-~~Title:sainikah~~
-{{description>with soldiers.}}
+---json
+{
+    "name":"sainikah",
+    "h1":"sainikah",
+    "title":"sainikah -- synonyms, prabhupada.io",
+    "description":"with soldiers."
+}
+---
 
 ==== sainikaḥ  ====
   * with soldiers --- [[books:sb:4:27:30|SB 4.27.30]]

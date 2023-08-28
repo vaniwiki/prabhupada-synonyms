@@ -1,5 +1,11 @@
-~~Title:adhidaivam~~
-{{description>for worshiping the demigods; the controlling entities; the demigods; underlying all the demigods.}}
+---json
+{
+    "name":"adhidaivam",
+    "h1":"adhidaivam",
+    "title":"adhidaivam -- synonyms, prabhupada.io",
+    "description":"for worshiping the demigods; the controlling entities; the demigods; underlying all the demigods."
+}
+---
 
 ==== adhidaivam  ====
   * for worshiping the demigods --- [[books:sb:4:7:27|SB 4.7.27]]

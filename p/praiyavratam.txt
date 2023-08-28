@@ -1,5 +1,11 @@
-~~Title:praiyavratam~~
-{{description>coming from King Priyavrata.}}
+---json
+{
+    "name":"praiyavratam",
+    "h1":"praiyavratam",
+    "title":"praiyavratam -- synonyms, prabhupada.io",
+    "description":"coming from King Priyavrata."
+}
+---
 
 ==== praiyavratam  ====
   * coming from King Priyavrata --- [[books:sb:5:15:16|SB 5.15.16]]

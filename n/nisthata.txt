@@ -1,5 +1,11 @@
-~~Title:niṣṭhatā~~
-{{description>the quality of attachment.}}
+---json
+{
+    "name":"niṣṭhatā",
+    "h1":"niṣṭhatā",
+    "title":"niṣṭhatā -- synonyms, prabhupada.io",
+    "description":"the quality of attachment."
+}
+---
 
 ==== niṣṭhatā  ====
   * the quality of attachment --- [[books:cc:madhya:19:211|Madhya 19.211]]

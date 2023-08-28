@@ -1,5 +1,11 @@
-~~Title:savanaiḥ~~
-{{description>movements.}}
+---json
+{
+    "name":"savanaiḥ",
+    "h1":"savanaiḥ",
+    "title":"savanaiḥ -- synonyms, prabhupada.io",
+    "description":"movements."
+}
+---
 
 ==== savanaiḥ  ====
   * movements --- [[books:sb:5:23:3|SB 5.23.3]]

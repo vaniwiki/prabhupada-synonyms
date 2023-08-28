@@ -1,5 +1,11 @@
-~~Title:pariśrama~~
-{{description>all labor; fatigue; full of miserable conditions and hard work; how much you have labored; labor; misery; the pain; too laborious.}}
+---json
+{
+    "name":"pariśrama",
+    "h1":"pariśrama",
+    "title":"pariśrama -- synonyms, prabhupada.io",
+    "description":"all labor; fatigue; full of miserable conditions and hard work; how much you have labored; labor; misery; the pain; too laborious."
+}
+---
 
 ==== pariśrama  ====
   * all labor --- [[books:cc:antya:19:46|Antya 19.46]]

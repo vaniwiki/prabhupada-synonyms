@@ -1,5 +1,11 @@
-~~Title:kṣobhān~~
-{{description>who became agitated.}}
+---json
+{
+    "name":"kṣobhān",
+    "h1":"kṣobhān",
+    "title":"kṣobhān -- synonyms, prabhupada.io",
+    "description":"who became agitated."
+}
+---
 
 ==== jāta-kṣobhān  ====
   * who became agitated --- [[books:sb:8:6:28|SB 8.6.28]]

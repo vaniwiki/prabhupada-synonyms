@@ -1,5 +1,11 @@
-~~Title:atyagāḥ~~
-{{description>have overstepped.}}
+---json
+{
+    "name":"atyagāḥ",
+    "h1":"atyagāḥ",
+    "title":"atyagāḥ -- synonyms, prabhupada.io",
+    "description":"have overstepped."
+}
+---
 
 ==== atyagāḥ  ====
   * have overstepped --- [[books:sb:7:8:6|SB 7.8.6]]

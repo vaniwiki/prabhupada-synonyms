@@ -1,5 +1,11 @@
-~~Title:āsvādyam~~
-{{description>everywhere perceived.}}
+---json
+{
+    "name":"āsvādyam",
+    "h1":"āsvādyam",
+    "title":"āsvādyam -- synonyms, prabhupada.io",
+    "description":"everywhere perceived."
+}
+---
 
 ==== āsvādyam  ====
   * everywhere perceived --- [[books:cc:madhya:14:227|Madhya 14.227]]

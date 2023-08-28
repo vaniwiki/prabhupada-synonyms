@@ -1,5 +1,11 @@
-~~Title:taruḥ~~
-{{description>tree.}}
+---json
+{
+    "name":"taruḥ",
+    "h1":"taruḥ",
+    "title":"taruḥ -- synonyms, prabhupada.io",
+    "description":"tree."
+}
+---
 
 ==== taruḥ  ====
   * tree --- [[books:cc:adi:9:6|Ādi 9.6]]

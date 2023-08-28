@@ -1,5 +1,11 @@
-~~Title:makhāya~~
-{{description>for sacrifice.}}
+---json
+{
+    "name":"makhāya",
+    "h1":"makhāya",
+    "title":"makhāya -- synonyms, prabhupada.io",
+    "description":"for sacrifice."
+}
+---
 
 ==== makhāya  ====
   * for sacrifice --- [[books:sb:1:15:9|SB 1.15.9]]

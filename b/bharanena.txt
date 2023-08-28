@@ -1,5 +1,11 @@
-~~Title:bharaṇena~~
-{{description>maintaining.}}
+---json
+{
+    "name":"bharaṇena",
+    "h1":"bharaṇena",
+    "title":"bharaṇena -- synonyms, prabhupada.io",
+    "description":"maintaining."
+}
+---
 
 ==== bharaṇena  ====
   * maintaining --- [[books:sb:2:1:3|SB 2.1.3]]

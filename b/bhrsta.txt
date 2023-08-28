@@ -1,5 +1,11 @@
-~~Title:bhṛṣṭa~~
-{{description>fried.}}
+---json
+{
+    "name":"bhṛṣṭa",
+    "h1":"bhṛṣṭa",
+    "title":"bhṛṣṭa -- synonyms, prabhupada.io",
+    "description":"fried."
+}
+---
 
 ==== bhṛṣṭa  ====
   * fried --- [[books:cc:madhya:15:54-55|Madhya 15.54-55]], [[books:cc:madhya:15:214|Madhya 15.214]], [[books:cc:antya:10:137|Antya 10.137]]

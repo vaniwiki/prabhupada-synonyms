@@ -1,5 +1,11 @@
-~~Title:uśanasaḥ~~
-{{description>the pilgrimage site named Uśanā.}}
+---json
+{
+    "name":"uśanasaḥ",
+    "h1":"uśanasaḥ",
+    "title":"uśanasaḥ -- synonyms, prabhupada.io",
+    "description":"the pilgrimage site named Uśanā."
+}
+---
 
 ==== uśanasaḥ  ====
   * the pilgrimage site named Uśanā --- [[books:sb:3:1:22|SB 3.1.22]]

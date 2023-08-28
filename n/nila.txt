@@ -1,5 +1,11 @@
-~~Title:nila~~
-{{description>brought; He took; I accepted; took; took away.}}
+---json
+{
+    "name":"nila",
+    "h1":"nila",
+    "title":"nila -- synonyms, prabhupada.io",
+    "description":"brought; He took; I accepted; took; took away."
+}
+---
 
 ==== nila  ====
   * brought --- [[books:cc:madhya:6:8|Madhya 6.8]], [[books:cc:madhya:9:53|Madhya 9.53]], [[books:cc:madhya:19:44|Madhya 19.44]], [[books:cc:antya:15:68|Antya 15.68]]

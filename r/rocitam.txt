@@ -1,5 +1,11 @@
-~~Title:rocitam~~
-{{description>already created potentially.}}
+---json
+{
+    "name":"rocitam",
+    "h1":"rocitam",
+    "title":"rocitam -- synonyms, prabhupada.io",
+    "description":"already created potentially."
+}
+---
 
 ==== rocitam  ====
   * already created potentially --- [[books:sb:2:5:11|SB 2.5.11]]

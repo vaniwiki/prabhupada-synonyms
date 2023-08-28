@@ -1,5 +1,11 @@
-~~Title:sahane~~
-{{description>could not tolerate.}}
+---json
+{
+    "name":"sahane",
+    "h1":"sahane",
+    "title":"sahane -- synonyms, prabhupada.io",
+    "description":"could not tolerate."
+}
+---
 
 ==== nā yāya sahane  ====
   * could not tolerate --- [[books:cc:antya:13:64|Antya 13.64]]

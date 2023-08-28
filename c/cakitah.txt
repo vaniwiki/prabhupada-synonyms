@@ -1,5 +1,11 @@
-~~Title:cakitah~~
-{{description>being fearful.}}
+---json
+{
+    "name":"cakitah",
+    "h1":"cakitah",
+    "title":"cakitah -- synonyms, prabhupada.io",
+    "description":"being fearful."
+}
+---
 
 ==== cakitāḥ  ====
   * being fearful --- [[books:sb:6:3:13|SB 6.3.13]]

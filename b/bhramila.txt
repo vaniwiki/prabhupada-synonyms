@@ -1,5 +1,11 @@
-~~Title:bhramila~~
-{{description>He traveled.}}
+---json
+{
+    "name":"bhramila",
+    "h1":"bhramila",
+    "title":"bhramila -- synonyms, prabhupada.io",
+    "description":"He traveled."
+}
+---
 
 ==== bhramila  ====
   * He traveled --- [[books:cc:madhya:17:230|Madhya 17.230]]

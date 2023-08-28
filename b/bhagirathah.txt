@@ -1,5 +1,11 @@
-~~Title:bhagīrathaḥ~~
-{{description>King Bhagīratha.}}
+---json
+{
+    "name":"bhagīrathaḥ",
+    "h1":"bhagīrathaḥ",
+    "title":"bhagīrathaḥ -- synonyms, prabhupada.io",
+    "description":"King Bhagīratha."
+}
+---
 
 ==== bhagīrathaḥ  ====
   * King Bhagīratha --- [[books:sb:9:9:10|SB 9.9.10]]

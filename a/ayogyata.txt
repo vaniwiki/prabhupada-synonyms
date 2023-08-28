@@ -1,5 +1,11 @@
-~~Title:ayogyatā~~
-{{description>incapability.}}
+---json
+{
+    "name":"ayogyatā",
+    "h1":"ayogyatā",
+    "title":"ayogyatā -- synonyms, prabhupada.io",
+    "description":"incapability."
+}
+---
 
 ==== ayogyatā  ====
   * incapability --- [[books:sb:3:31:45-46|SB 3.31.45-46]]

@@ -1,5 +1,11 @@
-~~Title:adbhute~~
-{{description>decorative.}}
+---json
+{
+    "name":"adbhute",
+    "h1":"adbhute",
+    "title":"adbhute -- synonyms, prabhupada.io",
+    "description":"decorative."
+}
+---
 
 ==== parama-adbhute  ====
   * decorative --- [[books:sb:1:10:18|SB 1.10.18]]

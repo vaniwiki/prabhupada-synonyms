@@ -1,5 +1,11 @@
-~~Title:prīṇīhi~~
-{{description>just accept.}}
+---json
+{
+    "name":"prīṇīhi",
+    "h1":"prīṇīhi",
+    "title":"prīṇīhi -- synonyms, prabhupada.io",
+    "description":"just accept."
+}
+---
 
 ==== prīṇīhi  ====
   * just accept --- [[books:sb:4:29:55|SB 4.29.55]]

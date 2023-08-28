@@ -1,5 +1,11 @@
-~~Title:prayuñjyāt~~
-{{description>one should worship.}}
+---json
+{
+    "name":"prayuñjyāt",
+    "h1":"prayuñjyāt",
+    "title":"prayuñjyāt -- synonyms, prabhupada.io",
+    "description":"one should worship."
+}
+---
 
 ==== prayuñjyāt  ====
   * one should worship --- [[books:sb:4:8:58|SB 4.8.58]]

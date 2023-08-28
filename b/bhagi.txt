@@ -1,5 +1,11 @@
-~~Title:bhagi~~
-{{description>shareholder.}}
+---json
+{
+    "name":"bhagi",
+    "h1":"bhagi",
+    "title":"bhagi -- synonyms, prabhupada.io",
+    "description":"shareholder."
+}
+---
 
 ==== bhāgī  ====
   * shareholder --- [[books:cc:antya:6:32|Antya 6.32]]

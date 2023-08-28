@@ -1,5 +1,11 @@
-~~Title:kṣīṇeṣu~~
-{{description>decreased.}}
+---json
+{
+    "name":"kṣīṇeṣu",
+    "h1":"kṣīṇeṣu",
+    "title":"kṣīṇeṣu -- synonyms, prabhupada.io",
+    "description":"decreased."
+}
+---
 
 ==== kṣīṇeṣu  ====
   * decreased --- [[books:sb:5:1:18|SB 5.1.18]]

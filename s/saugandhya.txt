@@ -1,5 +1,11 @@
-~~Title:saugandhya~~
-{{description>possessing a good fragrance; the fragrance; very fragrant, being decorated with various flower garlands and sandalwood pulp.}}
+---json
+{
+    "name":"saugandhya",
+    "h1":"saugandhya",
+    "title":"saugandhya -- synonyms, prabhupada.io",
+    "description":"possessing a good fragrance; the fragrance; very fragrant, being decorated with various flower garlands and sandalwood pulp."
+}
+---
 
 ==== saugandhya  ====
   * possessing a good fragrance --- [[books:sb:5:5:33|SB 5.5.33]]

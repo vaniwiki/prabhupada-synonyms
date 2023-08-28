@@ -1,5 +1,11 @@
-~~Title:nirvṛti~~
-{{description>spiritual pleasure.}}
+---json
+{
+    "name":"nirvṛti",
+    "h1":"nirvṛti",
+    "title":"nirvṛti -- synonyms, prabhupada.io",
+    "description":"spiritual pleasure."
+}
+---
 
 ==== nirvṛti  ====
   * spiritual pleasure --- [[books:cc:madhya:9:30|Madhya 9.30]]

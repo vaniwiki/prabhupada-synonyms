@@ -1,5 +1,11 @@
-~~Title:camūḥ~~
-{{description>military power; soldiers; the armies, paraphernalia, soldiers and retinues.}}
+---json
+{
+    "name":"camūḥ",
+    "h1":"camūḥ",
+    "title":"camūḥ -- synonyms, prabhupada.io",
+    "description":"military power; soldiers; the armies, paraphernalia, soldiers and retinues."
+}
+---
 
 ==== camūḥ  ====
   * military power --- [[books:sb:6:7:40|SB 6.7.40]]

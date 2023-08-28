@@ -1,5 +1,11 @@
-~~Title:vyākhyāsyāmaḥ~~
-{{description>I shall try to explain; we shall try to explain.}}
+---json
+{
+    "name":"vyākhyāsyāmaḥ",
+    "h1":"vyākhyāsyāmaḥ",
+    "title":"vyākhyāsyāmaḥ -- synonyms, prabhupada.io",
+    "description":"I shall try to explain; we shall try to explain."
+}
+---
 
 ==== vyākhyāsyāmaḥ  ====
   * I shall try to explain --- [[books:sb:5:16:4|SB 5.16.4]]

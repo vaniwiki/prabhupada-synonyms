@@ -1,5 +1,11 @@
-~~Title:āyayau~~
-{{description>achieved; returned.}}
+---json
+{
+    "name":"āyayau",
+    "h1":"āyayau",
+    "title":"āyayau -- synonyms, prabhupada.io",
+    "description":"achieved; returned."
+}
+---
 
 ==== āyayau  ====
   * achieved --- [[books:sb:9:20:27|SB 9.20.27]]

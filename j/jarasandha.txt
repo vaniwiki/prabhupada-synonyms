@@ -1,5 +1,11 @@
-~~Title:jarāsandha~~
-{{description>King Jarāsandha.}}
+---json
+{
+    "name":"jarāsandha",
+    "h1":"jarāsandha",
+    "title":"jarāsandha -- synonyms, prabhupada.io",
+    "description":"King Jarāsandha."
+}
+---
 
 ==== jarāsandha  ====
   * King Jarāsandha --- [[books:cc:adi:8:8|Ādi 8.8]]

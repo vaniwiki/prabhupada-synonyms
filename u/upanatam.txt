@@ -1,5 +1,11 @@
-~~Title:upanatam~~
-{{description>obtained by Kṛṣṇa's grace; presented.}}
+---json
+{
+    "name":"upanatam",
+    "h1":"upanatam",
+    "title":"upanatam -- synonyms, prabhupada.io",
+    "description":"obtained by Kṛṣṇa's grace; presented."
+}
+---
 
 ==== upanatam  ====
   * obtained by Kṛṣṇa's grace --- [[books:sb:5:26:18|SB 5.26.18]]

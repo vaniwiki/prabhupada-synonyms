@@ -1,5 +1,11 @@
-~~Title:prayacchanti~~
-{{description>deliver; they bestow.}}
+---json
+{
+    "name":"prayacchanti",
+    "h1":"prayacchanti",
+    "title":"prayacchanti -- synonyms, prabhupada.io",
+    "description":"deliver; they bestow."
+}
+---
 
 ==== prayacchanti  ====
   * deliver --- [[books:sb:6:6:9|SB 6.6.9]]

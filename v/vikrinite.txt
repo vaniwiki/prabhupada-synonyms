@@ -1,5 +1,11 @@
-~~Title:vikrīṇīte~~
-{{description>sells.}}
+---json
+{
+    "name":"vikrīṇīte",
+    "h1":"vikrīṇīte",
+    "title":"vikrīṇīte -- synonyms, prabhupada.io",
+    "description":"sells."
+}
+---
 
 ==== vikrīṇīte  ====
   * sells --- [[books:cc:adi:3:104|Ādi 3.104]]

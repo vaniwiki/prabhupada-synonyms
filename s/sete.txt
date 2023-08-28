@@ -1,5 +1,11 @@
-~~Title:śete~~
-{{description>are sleeping; does lie on; He lies; he lies down; he used to lie down; lie down; lies; lies down; remains; rests; sleeps; sometimes lies.}}
+---json
+{
+    "name":"śete",
+    "h1":"śete",
+    "title":"śete -- synonyms, prabhupada.io",
+    "description":"are sleeping; does lie on; He lies; he lies down; he used to lie down; lie down; lies; lies down; remains; rests; sleeps; sometimes lies."
+}
+---
 
 ==== śete  ====
   * are sleeping --- [[books:sb:10:3:27|SB 10.3.27]]

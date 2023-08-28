@@ -1,5 +1,11 @@
-~~Title:vicitritaiḥ~~
-{{description>decorated very nicely.}}
+---json
+{
+    "name":"vicitritaiḥ",
+    "h1":"vicitritaiḥ",
+    "title":"vicitritaiḥ -- synonyms, prabhupada.io",
+    "description":"decorated very nicely."
+}
+---
 
 ==== vicitritaiḥ  ====
   * decorated very nicely --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

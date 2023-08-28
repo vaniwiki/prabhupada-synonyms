@@ -1,5 +1,11 @@
-~~Title:upababhrāma~~
-{{description>began to walk in.}}
+---json
+{
+    "name":"upababhrāma",
+    "h1":"upababhrāma",
+    "title":"upababhrāma -- synonyms, prabhupada.io",
+    "description":"began to walk in."
+}
+---
 
 ==== upababhrāma  ====
   * began to walk in --- [[books:sb:5:2:4|SB 5.2.4]]

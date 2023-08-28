@@ -1,5 +1,11 @@
-~~Title:recaka~~
-{{description>exhaling.}}
+---json
+{
+    "name":"recaka",
+    "h1":"recaka",
+    "title":"recaka -- synonyms, prabhupada.io",
+    "description":"exhaling."
+}
+---
 
 ==== recaka  ====
   * exhaling --- [[books:sb:4:24:50|SB 4.24.50]]

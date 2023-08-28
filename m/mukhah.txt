@@ -1,5 +1,11 @@
-~~Title:mukhah~~
-{{description>face; whose face.}}
+---json
+{
+    "name":"mukhah",
+    "h1":"mukhah",
+    "title":"mukhah -- synonyms, prabhupada.io",
+    "description":"face; whose face."
+}
+---
 
 ==== mukhaḥ  ====
   * face --- [[books:sb:8:22:14|SB 8.22.14]]

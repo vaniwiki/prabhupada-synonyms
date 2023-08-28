@@ -1,5 +1,11 @@
-~~Title:budhye~~
-{{description>can understand.}}
+---json
+{
+    "name":"budhye",
+    "h1":"budhye",
+    "title":"budhye -- synonyms, prabhupada.io",
+    "description":"can understand."
+}
+---
 
 ==== budhye  ====
   * can understand --- [[books:sb:2:5:8|SB 2.5.8]]

@@ -1,5 +1,11 @@
-~~Title:kairava~~
-{{description>the white lotus.}}
+---json
+{
+    "name":"kairava",
+    "h1":"kairava",
+    "title":"kairava -- synonyms, prabhupada.io",
+    "description":"the white lotus."
+}
+---
 
 ==== kairava  ====
   * the white lotus --- [[books:cc:antya:20:12|Antya 20.12]]

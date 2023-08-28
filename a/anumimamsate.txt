@@ -1,5 +1,11 @@
-~~Title:anumīmāṁsate~~
-{{description>he considers.}}
+---json
+{
+    "name":"anumīmāṁsate",
+    "h1":"anumīmāṁsate",
+    "title":"anumīmāṁsate -- synonyms, prabhupada.io",
+    "description":"he considers."
+}
+---
 
 ==== anumīmāṁsate  ====
   * he considers --- [[books:sb:6:1:48|SB 6.1.48]]

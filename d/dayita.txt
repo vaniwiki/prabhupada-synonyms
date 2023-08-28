@@ -1,5 +1,11 @@
-~~Title:dayita~~
-{{description>merciful; O most beloved; of their beloved husband; pleasing.}}
+---json
+{
+    "name":"dayita",
+    "h1":"dayita",
+    "title":"dayita -- synonyms, prabhupada.io",
+    "description":"merciful; O most beloved; of their beloved husband; pleasing."
+}
+---
 
 ==== dayita  ====
   * merciful --- [[books:cc:madhya:2:67|Madhya 2.67]]

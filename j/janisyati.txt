@@ -1,5 +1,11 @@
-~~Title:janiṣyati~~
-{{description>will take birth.}}
+---json
+{
+    "name":"janiṣyati",
+    "h1":"janiṣyati",
+    "title":"janiṣyati -- synonyms, prabhupada.io",
+    "description":"will take birth."
+}
+---
 
 ==== janiṣyati  ====
   * will take birth --- [[books:sb:9:22:42|SB 9.22.42]]

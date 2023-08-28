@@ -1,5 +1,11 @@
-~~Title:bhokṣyatha~~
-{{description>you will enjoy.}}
+---json
+{
+    "name":"bhokṣyatha",
+    "h1":"bhokṣyatha",
+    "title":"bhokṣyatha -- synonyms, prabhupada.io",
+    "description":"you will enjoy."
+}
+---
 
 ==== bhokṣyatha  ====
   * you will enjoy --- [[books:sb:4:30:17|SB 4.30.17]]

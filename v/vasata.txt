@@ -1,5 +1,11 @@
-~~Title:vasatā~~
-{{description>sitting.}}
+---json
+{
+    "name":"vasatā",
+    "h1":"vasatā",
+    "title":"vasatā -- synonyms, prabhupada.io",
+    "description":"sitting."
+}
+---
 
 ==== vasatā  ====
   * sitting --- [[books:cc:adi:17:293|Ādi 17.293]]

@@ -1,5 +1,11 @@
-~~Title:mahimne~~
-{{description>unto You whose glories are covered by Your personal energy.}}
+---json
+{
+    "name":"mahimne",
+    "h1":"mahimne",
+    "title":"mahimne -- synonyms, prabhupada.io",
+    "description":"unto You whose glories are covered by Your personal energy."
+}
+---
 
 ==== ātma-dyota-guṇaiḥ channa-mahimne  ====
   * unto You whose glories are covered by Your personal energy --- [[books:sb:10:10:33|SB 10.10.33]]

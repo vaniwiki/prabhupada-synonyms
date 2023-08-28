@@ -1,5 +1,11 @@
-~~Title:itihāsāni~~
-{{description>along with the histories.}}
+---json
+{
+    "name":"itihāsāni",
+    "h1":"itihāsāni",
+    "title":"itihāsāni -- synonyms, prabhupada.io",
+    "description":"along with the histories."
+}
+---
 
 ==== sa-itihāsāni  ====
   * along with the histories --- [[books:sb:1:1:6|SB 1.1.6]]

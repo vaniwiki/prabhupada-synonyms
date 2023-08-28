@@ -1,5 +1,11 @@
-~~Title:rahoṅ~~
-{{description>I may stay; remain.}}
+---json
+{
+    "name":"rahoṅ",
+    "h1":"rahoṅ",
+    "title":"rahoṅ -- synonyms, prabhupada.io",
+    "description":"I may stay; remain."
+}
+---
 
 ==== rahoṅ  ====
   * I may stay --- [[books:cc:madhya:11:19|Madhya 11.19]]

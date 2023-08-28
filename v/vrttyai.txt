@@ -1,5 +1,11 @@
-~~Title:vṛttyai~~
-{{description>for maintaining the body.}}
+---json
+{
+    "name":"vṛttyai",
+    "h1":"vṛttyai",
+    "title":"vṛttyai -- synonyms, prabhupada.io",
+    "description":"for maintaining the body."
+}
+---
 
 ==== vṛttyai  ====
   * for maintaining the body --- [[books:sb:4:2:26|SB 4.2.26]]

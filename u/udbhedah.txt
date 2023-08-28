@@ -1,5 +1,11 @@
-~~Title:udbhedaḥ~~
-{{description>enlivened; the place for manifestation.}}
+---json
+{
+    "name":"udbhedaḥ",
+    "h1":"udbhedaḥ",
+    "title":"udbhedaḥ -- synonyms, prabhupada.io",
+    "description":"enlivened; the place for manifestation."
+}
+---
 
 ==== udbhedaḥ  ====
   * enlivened --- [[books:sb:7:3:25|SB 7.3.25]]

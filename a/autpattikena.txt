@@ -1,5 +1,11 @@
-~~Title:autpattikena~~
-{{description>naturally.}}
+---json
+{
+    "name":"autpattikena",
+    "h1":"autpattikena",
+    "title":"autpattikena -- synonyms, prabhupada.io",
+    "description":"naturally."
+}
+---
 
 ==== autpattikena  ====
   * naturally --- [[books:sb:5:2:21|SB 5.2.21]]

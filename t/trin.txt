@@ -1,5 +1,11 @@
-~~Title:trīn~~
-{{description>the three; the three categories of experience (happiness, distress and a mixture of both); three (divisions); three (upper, lower and middle); three; within the three worlds.}}
+---json
+{
+    "name":"trīn",
+    "h1":"trīn",
+    "title":"trīn -- synonyms, prabhupada.io",
+    "description":"the three; the three categories of experience (happiness, distress and a mixture of both); three (divisions); three (upper, lower and middle); three; within the three worlds."
+}
+---
 
 ==== trīn  ====
   * the three --- [[books:sb:5:20:37|SB 5.20.37]], [[books:sb:7:15:62|SB 7.15.62]]

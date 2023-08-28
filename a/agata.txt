@@ -1,5 +1,11 @@
-~~Title:agata~~
-{{description>not gone; not past; not perceivable.}}
+---json
+{
+    "name":"agata",
+    "h1":"agata",
+    "title":"agata -- synonyms, prabhupada.io",
+    "description":"not gone; not past; not perceivable."
+}
+---
 
 ==== agata  ====
   * not gone --- [[books:sb:3:32:10|SB 3.32.10]]

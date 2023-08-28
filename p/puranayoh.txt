@@ -1,5 +1,11 @@
-~~Title:purāṇayoḥ~~
-{{description>of the Purāṇas.}}
+---json
+{
+    "name":"purāṇayoḥ",
+    "h1":"purāṇayoḥ",
+    "title":"purāṇayoḥ -- synonyms, prabhupada.io",
+    "description":"of the Purāṇas."
+}
+---
 
 ==== purāṇayoḥ  ====
   * of the //Purāṇas// --- [[books:sb:2:8:20|SB 2.8.20]]

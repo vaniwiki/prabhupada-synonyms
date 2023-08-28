@@ -1,5 +1,11 @@
-~~Title:parivartaḥ~~
-{{description>repetition.}}
+---json
+{
+    "name":"parivartaḥ",
+    "h1":"parivartaḥ",
+    "title":"parivartaḥ -- synonyms, prabhupada.io",
+    "description":"repetition."
+}
+---
 
 ==== parivartaḥ  ====
   * repetition --- [[books:sb:1:3:39|SB 1.3.39]]

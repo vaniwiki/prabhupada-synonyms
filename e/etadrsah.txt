@@ -1,5 +1,11 @@
-~~Title:etādṛśaḥ~~
-{{description>like this.}}
+---json
+{
+    "name":"etādṛśaḥ",
+    "h1":"etādṛśaḥ",
+    "title":"etādṛśaḥ -- synonyms, prabhupada.io",
+    "description":"like this."
+}
+---
 
 ==== etādṛśaḥ  ====
   * like this --- [[books:sb:7:15:8|SB 7.15.8]]

@@ -1,5 +1,11 @@
-~~Title:anidam~~
-{{description>transcendental.}}
+---json
+{
+    "name":"anidam",
+    "h1":"anidam",
+    "title":"anidam -- synonyms, prabhupada.io",
+    "description":"transcendental."
+}
+---
 
 ==== anidam  ====
   * transcendental --- [[books:sb:10:2:42|SB 10.2.42]]

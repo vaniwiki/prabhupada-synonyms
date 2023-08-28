@@ -1,5 +1,11 @@
-~~Title:pāchete~~
-{{description>behind.}}
+---json
+{
+    "name":"pāchete",
+    "h1":"pāchete",
+    "title":"pāchete -- synonyms, prabhupada.io",
+    "description":"behind."
+}
+---
 
 ==== pāchete  ====
   * behind --- [[books:cc:antya:13:82|Antya 13.82]]

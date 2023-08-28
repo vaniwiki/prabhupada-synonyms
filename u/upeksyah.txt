@@ -1,5 +1,11 @@
-~~Title:upekṣyāḥ~~
-{{description>should not be neglected.}}
+---json
+{
+    "name":"upekṣyāḥ",
+    "h1":"upekṣyāḥ",
+    "title":"upekṣyāḥ -- synonyms, prabhupada.io",
+    "description":"should not be neglected."
+}
+---
 
 ==== na upekṣyāḥ  ====
   * should not be neglected --- [[books:sb:10:4:37|SB 10.4.37]]

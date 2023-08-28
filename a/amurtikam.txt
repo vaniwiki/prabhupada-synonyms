@@ -1,5 +1,11 @@
-~~Title:amūrtikam~~
-{{description>the Lord, who has no material form.}}
+---json
+{
+    "name":"amūrtikam",
+    "h1":"amūrtikam",
+    "title":"amūrtikam -- synonyms, prabhupada.io",
+    "description":"the Lord, who has no material form."
+}
+---
 
 ==== amūrtikam  ====
   * the Lord, who has no material form --- [[books:sb:1:5:38|SB 1.5.38]]

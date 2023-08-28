@@ -1,5 +1,11 @@
-~~Title:talāte~~
-{{description>underneath the Teṅtulī tree.}}
+---json
+{
+    "name":"talāte",
+    "h1":"talāte",
+    "title":"talāte -- synonyms, prabhupada.io",
+    "description":"underneath the Teṅtulī tree."
+}
+---
 
 ==== teṅtulī-talāte  ====
   * underneath the Teṅtulī tree --- [[books:cc:madhya:18:75|Madhya 18.75]]

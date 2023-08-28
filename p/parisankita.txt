@@ -1,5 +1,11 @@
-~~Title:pariśaṅkitā~~
-{{description>being afraid.}}
+---json
+{
+    "name":"pariśaṅkitā",
+    "h1":"pariśaṅkitā",
+    "title":"pariśaṅkitā -- synonyms, prabhupada.io",
+    "description":"being afraid."
+}
+---
 
 ==== pariśaṅkitā  ====
   * being afraid --- [[books:sb:4:4:1|SB 4.4.1]]

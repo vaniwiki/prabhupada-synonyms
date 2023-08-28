@@ -1,5 +1,11 @@
-~~Title:dordaṇḍa~~
-{{description>arms; strength of arms.}}
+---json
+{
+    "name":"dordaṇḍa",
+    "h1":"dordaṇḍa",
+    "title":"dordaṇḍa -- synonyms, prabhupada.io",
+    "description":"arms; strength of arms."
+}
+---
 
 ==== dordaṇḍa  ====
   * arms --- [[books:sb:3:8:29|SB 3.8.29]]

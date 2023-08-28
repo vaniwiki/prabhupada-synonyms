@@ -1,5 +1,11 @@
-~~Title:jighāṁsum~~
-{{description>willing to kill.}}
+---json
+{
+    "name":"jighāṁsum",
+    "h1":"jighāṁsum",
+    "title":"jighāṁsum -- synonyms, prabhupada.io",
+    "description":"willing to kill."
+}
+---
 
 ==== jighāṁsum  ====
   * willing to kill --- [[books:sb:1:17:29|SB 1.17.29]]

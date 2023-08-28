@@ -1,5 +1,11 @@
-~~Title:alakṣyam~~
-{{description>the invisible.}}
+---json
+{
+    "name":"alakṣyam",
+    "h1":"alakṣyam",
+    "title":"alakṣyam -- synonyms, prabhupada.io",
+    "description":"the invisible."
+}
+---
 
 ==== alakṣyam  ====
   * the invisible --- [[books:sb:1:8:18|SB 1.8.18]]

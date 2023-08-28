@@ -1,5 +1,11 @@
-~~Title:mardaniyā~~
-{{description>masseur.}}
+---json
+{
+    "name":"mardaniyā",
+    "h1":"mardaniyā",
+    "title":"mardaniyā -- synonyms, prabhupada.io",
+    "description":"masseur."
+}
+---
 
 ==== mardaniyā  ====
   * masseur --- [[books:cc:antya:12:112|Antya 12.112]]

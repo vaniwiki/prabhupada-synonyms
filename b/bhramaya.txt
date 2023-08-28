@@ -1,5 +1,11 @@
-~~Title:bhramaya~~
-{{description>are wandering.}}
+---json
+{
+    "name":"bhramaya",
+    "h1":"bhramaya",
+    "title":"bhramaya -- synonyms, prabhupada.io",
+    "description":"are wandering."
+}
+---
 
 ==== bhramaya  ====
   * are wandering --- [[books:cc:antya:15:61|Antya 15.61]]

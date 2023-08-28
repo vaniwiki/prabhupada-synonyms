@@ -1,5 +1,11 @@
-~~Title:medhya~~
-{{description>pure.}}
+---json
+{
+    "name":"medhya",
+    "h1":"medhya",
+    "title":"medhya -- synonyms, prabhupada.io",
+    "description":"pure."
+}
+---
 
 ==== medhya  ====
   * pure --- [[books:sb:3:1:19|SB 3.1.19]], [[books:sb:3:28:3|SB 3.28.3]]

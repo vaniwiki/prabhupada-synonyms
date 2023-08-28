@@ -1,5 +1,11 @@
-~~Title:pratijagrāha~~
-{{description>accepted.}}
+---json
+{
+    "name":"pratijagrāha",
+    "h1":"pratijagrāha",
+    "title":"pratijagrāha -- synonyms, prabhupada.io",
+    "description":"accepted."
+}
+---
 
 ==== pratijagrāha  ====
   * accepted --- [[books:sb:6:5:44|SB 6.5.44]], [[books:sb:9:18:23|SB 9.18.23]]

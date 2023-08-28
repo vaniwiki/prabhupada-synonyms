@@ -1,5 +1,11 @@
-~~Title:vyasyan~~
-{{description>rendered.}}
+---json
+{
+    "name":"vyasyan",
+    "h1":"vyasyan",
+    "title":"vyasyan -- synonyms, prabhupada.io",
+    "description":"rendered."
+}
+---
 
 ==== vyasyan  ====
   * rendered --- [[books:sb:1:4:23|SB 1.4.23]]

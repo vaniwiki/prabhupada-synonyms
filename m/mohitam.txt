@@ -1,5 +1,11 @@
-~~Title:mohitam~~
-{{description>bewildered; deluded.}}
+---json
+{
+    "name":"mohitam",
+    "h1":"mohitam",
+    "title":"mohitam -- synonyms, prabhupada.io",
+    "description":"bewildered; deluded."
+}
+---
 
 ==== mohitam  ====
   * bewildered --- [[books:sb:3:13:45|SB 3.13.45]]

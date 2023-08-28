@@ -1,5 +1,11 @@
-~~Title:hṛd~~
-{{description>in the location of the heart.}}
+---json
+{
+    "name":"hṛd",
+    "h1":"hṛd",
+    "title":"hṛd -- synonyms, prabhupada.io",
+    "description":"in the location of the heart."
+}
+---
 
 ==== hṛd-deśe  ====
   * in the location of the heart --- [[books:bg:18:61|Bg. 18.61]]

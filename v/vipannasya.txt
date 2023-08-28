@@ -1,5 +1,11 @@
-~~Title:vipannasya~~
-{{description>dead.}}
+---json
+{
+    "name":"vipannasya",
+    "h1":"vipannasya",
+    "title":"vipannasya -- synonyms, prabhupada.io",
+    "description":"dead."
+}
+---
 
 ==== vipannasya  ====
   * dead --- [[books:sb:4:14:43|SB 4.14.43]]

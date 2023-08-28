@@ -1,5 +1,11 @@
-~~Title:nṛtyanti~~
-{{description>dance; danced; were dancing.}}
+---json
+{
+    "name":"nṛtyanti",
+    "h1":"nṛtyanti",
+    "title":"nṛtyanti -- synonyms, prabhupada.io",
+    "description":"dance; danced; were dancing."
+}
+---
 
 ==== nṛtyanti  ====
   * dance --- [[books:sb:5:26:31|SB 5.26.31]]

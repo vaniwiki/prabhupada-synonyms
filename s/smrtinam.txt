@@ -1,5 +1,11 @@
-~~Title:smṛtīnām~~
-{{description>of those following different rituals.}}
+---json
+{
+    "name":"smṛtīnām",
+    "h1":"smṛtīnām",
+    "title":"smṛtīnām -- synonyms, prabhupada.io",
+    "description":"of those following different rituals."
+}
+---
 
 ==== smṛtīnām  ====
   * of those following different rituals --- [[books:sb:3:5:14|SB 3.5.14]]

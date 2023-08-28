@@ -1,5 +1,11 @@
-~~Title:bhīmasenāt~~
-{{description>from Bhīmasena.}}
+---json
+{
+    "name":"bhīmasenāt",
+    "h1":"bhīmasenāt",
+    "title":"bhīmasenāt -- synonyms, prabhupada.io",
+    "description":"from Bhīmasena."
+}
+---
 
 ==== bhīmasenāt  ====
   * from Bhīmasena --- [[books:sb:9:22:30-31|SB 9.22.30-31]]

@@ -1,5 +1,11 @@
-~~Title:asure~~
-{{description>among the demons; belonging to the asura community; unto that demon.}}
+---json
+{
+    "name":"asure",
+    "h1":"asure",
+    "title":"asure -- synonyms, prabhupada.io",
+    "description":"among the demons; belonging to the asura community; unto that demon."
+}
+---
 
 ==== asure  ====
   * among the demons --- [[books:cc:adi:8:12|Ādi 8.12]]

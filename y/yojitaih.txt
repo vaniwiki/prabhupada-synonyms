@@ -1,5 +1,11 @@
-~~Title:yojitaiḥ~~
-{{description>engaged in.}}
+---json
+{
+    "name":"yojitaiḥ",
+    "h1":"yojitaiḥ",
+    "title":"yojitaiḥ -- synonyms, prabhupada.io",
+    "description":"engaged in."
+}
+---
 
 ==== yojitaiḥ  ====
   * engaged in --- [[books:sb:3:13:17|SB 3.13.17]]

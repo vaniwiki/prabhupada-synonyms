@@ -1,5 +1,11 @@
-~~Title:unnamayya~~
-{{description>raising.}}
+---json
+{
+    "name":"unnamayya",
+    "h1":"unnamayya",
+    "title":"unnamayya -- synonyms, prabhupada.io",
+    "description":"raising."
+}
+---
 
 ==== unnamayya  ====
   * raising --- [[books:sb:3:17:10|SB 3.17.10]]

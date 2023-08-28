@@ -1,5 +1,11 @@
-~~Title:maharṣi~~
-{{description>great sages.}}
+---json
+{
+    "name":"maharṣi",
+    "h1":"maharṣi",
+    "title":"maharṣi -- synonyms, prabhupada.io",
+    "description":"great sages."
+}
+---
 
 ==== maharṣi  ====
   * great sages --- [[books:bg:11:21|Bg. 11.21]]

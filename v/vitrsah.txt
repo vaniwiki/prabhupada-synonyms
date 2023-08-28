@@ -1,5 +1,11 @@
-~~Title:vitṛṣaḥ~~
-{{description>not being thirsty.}}
+---json
+{
+    "name":"vitṛṣaḥ",
+    "h1":"vitṛṣaḥ",
+    "title":"vitṛṣaḥ -- synonyms, prabhupada.io",
+    "description":"not being thirsty."
+}
+---
 
 ==== vitṛṣaḥ  ====
   * not being thirsty --- [[books:sb:4:6:26|SB 4.6.26]]

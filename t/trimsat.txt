@@ -1,5 +1,11 @@
-~~Title:triṁśat~~
-{{description>thirty.}}
+---json
+{
+    "name":"triṁśat",
+    "h1":"triṁśat",
+    "title":"triṁśat -- synonyms, prabhupada.io",
+    "description":"thirty."
+}
+---
 
 ==== triṁśat  ====
   * thirty --- [[books:sb:5:25:1|SB 5.25.1]], [[books:sb:9:20:27|SB 9.20.27]]

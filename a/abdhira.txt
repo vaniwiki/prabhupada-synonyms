@@ -1,5 +1,11 @@
-~~Title:abdhira~~
-{{description>to the Causal Ocean.}}
+---json
+{
+    "name":"abdhira",
+    "h1":"abdhira",
+    "title":"abdhira -- synonyms, prabhupada.io",
+    "description":"to the Causal Ocean."
+}
+---
 
 ==== kāraṇa-abdhira  ====
   * to the Causal Ocean --- [[books:cc:adi:5:57|Ādi 5.57]]

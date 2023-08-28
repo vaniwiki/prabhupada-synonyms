@@ -1,5 +1,11 @@
-~~Title:niravastāre~~
-{{description>without bedding.}}
+---json
+{
+    "name":"niravastāre",
+    "h1":"niravastāre",
+    "title":"niravastāre -- synonyms, prabhupada.io",
+    "description":"without bedding."
+}
+---
 
 ==== niravastāre  ====
   * without bedding --- [[books:sb:4:26:17|SB 4.26.17]]

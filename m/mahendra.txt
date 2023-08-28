@@ -1,5 +1,11 @@
-~~Title:mahendra~~
-{{description>by the tricks of Indra, the King of heaven; known as Mahendra.}}
+---json
+{
+    "name":"mahendra",
+    "h1":"mahendra",
+    "title":"mahendra -- synonyms, prabhupada.io",
+    "description":"by the tricks of Indra, the King of heaven; known as Mahendra."
+}
+---
 
 ==== mahendra  ====
   * by the tricks of Indra, the King of heaven --- [[books:sb:9:8:11|SB 9.8.11]]

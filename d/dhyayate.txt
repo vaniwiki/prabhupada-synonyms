@@ -1,5 +1,11 @@
-~~Title:dhyāyate~~
-{{description>unto the meditative.}}
+---json
+{
+    "name":"dhyāyate",
+    "h1":"dhyāyate",
+    "title":"dhyāyate -- synonyms, prabhupada.io",
+    "description":"unto the meditative."
+}
+---
 
 ==== dhyāyate  ====
   * unto the meditative --- [[books:sb:2:9:45|SB 2.9.45]]

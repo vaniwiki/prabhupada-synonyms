@@ -1,5 +1,11 @@
-~~Title:dyūtam~~
-{{description>gambling.}}
+---json
+{
+    "name":"dyūtam",
+    "h1":"dyūtam",
+    "title":"dyūtam -- synonyms, prabhupada.io",
+    "description":"gambling."
+}
+---
 
 ==== dyūtam  ====
   * gambling --- [[books:bg:10:36|Bg. 10.36]], [[books:sb:1:17:38|SB 1.17.38]], [[books:sb:10:10:8|SB 10.10.8]]

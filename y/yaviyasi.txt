@@ -1,5 +1,11 @@
-~~Title:yavīyasī~~
-{{description>the youngest.}}
+---json
+{
+    "name":"yavīyasī",
+    "h1":"yavīyasī",
+    "title":"yavīyasī -- synonyms, prabhupada.io",
+    "description":"the youngest."
+}
+---
 
 ==== yavīyasī  ====
   * the youngest --- [[books:sb:5:9:7|SB 5.9.7]]

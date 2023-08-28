@@ -1,5 +1,11 @@
-~~Title:dadāsi~~
-{{description>you give away; you give in charity.}}
+---json
+{
+    "name":"dadāsi",
+    "h1":"dadāsi",
+    "title":"dadāsi -- synonyms, prabhupada.io",
+    "description":"you give away; you give in charity."
+}
+---
 
 ==== dadāsi  ====
   * you give away --- [[books:bg:9:27|Bg. 9.27]]

@@ -1,5 +1,11 @@
-~~Title:daśāra~~
-{{description>of the internal condition.}}
+---json
+{
+    "name":"daśāra",
+    "h1":"daśāra",
+    "title":"daśāra -- synonyms, prabhupada.io",
+    "description":"of the internal condition."
+}
+---
 
 ==== antaḥ-daśāra  ====
   * of the internal condition --- [[books:cc:antya:18:78|Antya 18.78]]

@@ -1,5 +1,11 @@
-~~Title:dacchadāt~~
-{{description>from between the lips.}}
+---json
+{
+    "name":"dacchadāt",
+    "h1":"dacchadāt",
+    "title":"dacchadāt -- synonyms, prabhupada.io",
+    "description":"from between the lips."
+}
+---
 
 ==== adhara-dacchadāt  ====
   * from between the lips --- [[books:sb:3:12:26|SB 3.12.26]]

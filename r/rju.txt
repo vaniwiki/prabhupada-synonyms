@@ -1,5 +1,11 @@
-~~Title:ṛju~~
-{{description>the body perpendicularly straight.}}
+---json
+{
+    "name":"ṛju",
+    "h1":"ṛju",
+    "title":"ṛju -- synonyms, prabhupada.io",
+    "description":"the body perpendicularly straight."
+}
+---
 
 ==== ṛju-aṅgaḥ  ====
   * the body perpendicularly straight --- [[books:sb:7:15:31|SB 7.15.31]]

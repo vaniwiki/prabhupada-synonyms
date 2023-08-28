@@ -1,5 +1,11 @@
-~~Title:tapana~~
-{{description>Tapana Miśra.}}
+---json
+{
+    "name":"tapana",
+    "h1":"tapana",
+    "title":"tapana -- synonyms, prabhupada.io",
+    "description":"Tapana Miśra."
+}
+---
 
 ==== tapana  ====
   * Tapana Miśra --- [[books:cc:adi:16:12|Ādi 16.12]], [[books:cc:madhya:25:63|Madhya 25.63]]

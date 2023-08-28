@@ -1,5 +1,11 @@
-~~Title:anavadya~~
-{{description>magnanimous; unimpeachable.}}
+---json
+{
+    "name":"anavadya",
+    "h1":"anavadya",
+    "title":"anavadya -- synonyms, prabhupada.io",
+    "description":"magnanimous; unimpeachable."
+}
+---
 
 ==== anavadya  ====
   * magnanimous --- [[books:sb:4:21:7|SB 4.21.7]]

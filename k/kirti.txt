@@ -1,5 +1,11 @@
-~~Title:kīrti~~
-{{description>fame; glorification; glorious activities; glory; merit; reputation.}}
+---json
+{
+    "name":"kīrti",
+    "h1":"kīrti",
+    "title":"kīrti -- synonyms, prabhupada.io",
+    "description":"fame; glorification; glorious activities; glory; merit; reputation."
+}
+---
 
 ==== kīrti  ====
   * fame --- [[books:sb:3:24:19|SB 3.24.19]]

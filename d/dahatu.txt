@@ -1,5 +1,11 @@
-~~Title:dahatu~~
-{{description>let it burn.}}
+---json
+{
+    "name":"dahatu",
+    "h1":"dahatu",
+    "title":"dahatu -- synonyms, prabhupada.io",
+    "description":"let it burn."
+}
+---
 
 ==== dahatu  ====
   * let it burn --- [[books:sb:1:8:10|SB 1.8.10]]

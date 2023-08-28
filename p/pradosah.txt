@@ -1,5 +1,11 @@
-~~Title:pradoṣaḥ~~
-{{description>Pradoṣa.}}
+---json
+{
+    "name":"pradoṣaḥ",
+    "h1":"pradoṣaḥ",
+    "title":"pradoṣaḥ -- synonyms, prabhupada.io",
+    "description":"Pradoṣa."
+}
+---
 
 ==== pradoṣaḥ  ====
   * Pradoṣa --- [[books:sb:4:13:14|SB 4.13.14]]

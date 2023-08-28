@@ -1,5 +1,11 @@
-~~Title:kāṅcā~~
-{{description>raw.}}
+---json
+{
+    "name":"kāṅcā",
+    "h1":"kāṅcā",
+    "title":"kāṅcā -- synonyms, prabhupada.io",
+    "description":"raw."
+}
+---
 
 ==== kāṅcā  ====
   * raw --- [[books:cc:adi:13:104|Ādi 13.104]]

@@ -1,5 +1,11 @@
-~~Title:japan~~
-{{description>by murmuring; murmuring.}}
+---json
+{
+    "name":"japan",
+    "h1":"japan",
+    "title":"japan -- synonyms, prabhupada.io",
+    "description":"by murmuring; murmuring."
+}
+---
 
 ==== japan  ====
   * by murmuring --- [[books:sb:4:24:74|SB 4.24.74]]

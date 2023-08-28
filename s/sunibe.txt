@@ -1,5 +1,11 @@
-~~Title:śunibe~~
-{{description>never hear.}}
+---json
+{
+    "name":"śunibe",
+    "h1":"śunibe",
+    "title":"śunibe -- synonyms, prabhupada.io",
+    "description":"never hear."
+}
+---
 
 ==== nā śunibe  ====
   * never hear --- [[books:cc:antya:6:236|Antya 6.236]]

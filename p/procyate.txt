@@ -1,5 +1,11 @@
-~~Title:procyate~~
-{{description>are designated; is said.}}
+---json
+{
+    "name":"procyate",
+    "h1":"procyate",
+    "title":"procyate -- synonyms, prabhupada.io",
+    "description":"are designated; is said."
+}
+---
 
 ==== procyate  ====
   * are designated --- [[books:sb:1:15:6|SB 1.15.6]]

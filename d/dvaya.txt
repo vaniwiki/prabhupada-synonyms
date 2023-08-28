@@ -1,5 +1,11 @@
-~~Title:dvaya~~
-{{description>a pair; of two.}}
+---json
+{
+    "name":"dvaya",
+    "h1":"dvaya",
+    "title":"dvaya -- synonyms, prabhupada.io",
+    "description":"a pair; of two."
+}
+---
 
 ==== dvaya  ====
   * a pair --- [[books:sb:3:28:30|SB 3.28.30]]

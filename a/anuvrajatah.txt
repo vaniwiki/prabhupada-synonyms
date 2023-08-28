@@ -1,5 +1,11 @@
-~~Title:anuvrajataḥ~~
-{{description>goes after.}}
+---json
+{
+    "name":"anuvrajataḥ",
+    "h1":"anuvrajataḥ",
+    "title":"anuvrajataḥ -- synonyms, prabhupada.io",
+    "description":"goes after."
+}
+---
 
 ==== anuvrajataḥ  ====
   * goes after --- [[books:sb:2:3:22|SB 2.3.22]]

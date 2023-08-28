@@ -1,5 +1,11 @@
-~~Title:abhiṣiktasya~~
-{{description>who is noted as the emperor.}}
+---json
+{
+    "name":"abhiṣiktasya",
+    "h1":"abhiṣiktasya",
+    "title":"abhiṣiktasya -- synonyms, prabhupada.io",
+    "description":"who is noted as the emperor."
+}
+---
 
 ==== mūrdha-abhiṣiktasya  ====
   * who is noted as the emperor --- [[books:sb:9:15:41|SB 9.15.41]]

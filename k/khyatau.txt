@@ -1,5 +1,11 @@
-~~Title:khyātau~~
-{{description>celebrated; very famous; well known.}}
+---json
+{
+    "name":"khyātau",
+    "h1":"khyātau",
+    "title":"khyātau -- synonyms, prabhupada.io",
+    "description":"celebrated; very famous; well known."
+}
+---
 
 ==== khyātau  ====
   * celebrated --- [[books:sb:9:11:11|SB 9.11.11]]

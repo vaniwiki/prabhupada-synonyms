@@ -1,5 +1,11 @@
-~~Title:hasita~~
-{{description>smiling.}}
+---json
+{
+    "name":"hasita",
+    "h1":"hasita",
+    "title":"hasita -- synonyms, prabhupada.io",
+    "description":"smiling."
+}
+---
 
 ==== hasita  ====
   * smiling --- [[books:sb:2:2:12|SB 2.2.12]], [[books:sb:3:23:9|SB 3.23.9]], [[books:sb:4:26:23|SB 4.26.23]], [[books:cc:madhya:12:213|Madhya 12.213]]

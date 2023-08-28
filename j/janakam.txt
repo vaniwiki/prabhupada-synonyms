@@ -1,5 +1,11 @@
-~~Title:janakam~~
-{{description>producing the results.}}
+---json
+{
+    "name":"janakam",
+    "h1":"janakam",
+    "title":"janakam -- synonyms, prabhupada.io",
+    "description":"producing the results."
+}
+---
 
 ==== phala-janakam  ====
   * producing the results --- [[books:cc:antya:3:60|Antya 3.60]]

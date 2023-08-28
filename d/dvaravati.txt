@@ -1,5 +1,11 @@
-~~Title:dvārāvatī~~
-{{description>Dvārakā.}}
+---json
+{
+    "name":"dvārāvatī",
+    "h1":"dvārāvatī",
+    "title":"dvārāvatī -- synonyms, prabhupada.io",
+    "description":"Dvārakā."
+}
+---
 
 ==== dvārāvatī  ====
   * Dvārakā --- [[books:cc:madhya:21:91|Madhya 21.91]]

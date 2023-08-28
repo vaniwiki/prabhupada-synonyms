@@ -1,5 +1,11 @@
-~~Title:phalguni~~
-{{description>not very great.}}
+---json
+{
+    "name":"phalguni",
+    "h1":"phalguni",
+    "title":"phalguni -- synonyms, prabhupada.io",
+    "description":"not very great."
+}
+---
 
 ==== phalguni  ====
   * not very great --- [[books:sb:9:15:15|SB 9.15.15]]

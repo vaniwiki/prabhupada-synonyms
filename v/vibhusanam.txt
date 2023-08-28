@@ -1,5 +1,11 @@
-~~Title:vibhūṣaṇam~~
-{{description>fully decorated; ornament.}}
+---json
+{
+    "name":"vibhūṣaṇam",
+    "h1":"vibhūṣaṇam",
+    "title":"vibhūṣaṇam -- synonyms, prabhupada.io",
+    "description":"fully decorated; ornament."
+}
+---
 
 ==== vibhūṣaṇam  ====
   * fully decorated --- [[books:sb:4:24:45-46|SB 4.24.45-46]]

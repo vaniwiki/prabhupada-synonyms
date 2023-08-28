@@ -1,5 +1,11 @@
-~~Title:anuvratānām~~
-{{description>the followers.}}
+---json
+{
+    "name":"anuvratānām",
+    "h1":"anuvratānām",
+    "title":"anuvratānām -- synonyms, prabhupada.io",
+    "description":"the followers."
+}
+---
 
 ==== anuvratānām  ====
   * the followers --- [[books:sb:3:7:36|SB 3.7.36]]

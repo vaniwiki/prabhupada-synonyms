@@ -1,5 +1,11 @@
-~~Title:pramukhe~~
-{{description>in the front.}}
+---json
+{
+    "name":"pramukhe",
+    "h1":"pramukhe",
+    "title":"pramukhe -- synonyms, prabhupada.io",
+    "description":"in the front."
+}
+---
 
 ==== pramukhe  ====
   * in the front --- [[books:bg:2:6|Bg. 2.6]]

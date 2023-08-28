@@ -1,5 +1,11 @@
-~~Title:rātriḥ~~
-{{description>night; the demigod in charge of night.}}
+---json
+{
+    "name":"rātriḥ",
+    "h1":"rātriḥ",
+    "title":"rātriḥ -- synonyms, prabhupada.io",
+    "description":"night; the demigod in charge of night."
+}
+---
 
 ==== rātriḥ  ====
   * night --- [[books:bg:8:25|Bg. 8.25]]

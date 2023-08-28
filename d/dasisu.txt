@@ -1,5 +1,11 @@
-~~Title:dāsīṣu~~
-{{description>when all the maidservants of the household were otherwise engaged.}}
+---json
+{
+    "name":"dāsīṣu",
+    "h1":"dāsīṣu",
+    "title":"dāsīṣu -- synonyms, prabhupada.io",
+    "description":"when all the maidservants of the household were otherwise engaged."
+}
+---
 
 ==== gṛha-dāsīṣu  ====
   * when all the maidservants of the household were otherwise engaged --- [[books:sb:10:9:1-2|SB 10.9.1-2]]

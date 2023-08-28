@@ -1,5 +1,11 @@
-~~Title:vyājāḥ~~
-{{description>posed as the ruler.}}
+---json
+{
+    "name":"vyājāḥ",
+    "h1":"vyājāḥ",
+    "title":"vyājāḥ -- synonyms, prabhupada.io",
+    "description":"posed as the ruler."
+}
+---
 
 ==== nṛpa-vyājāḥ  ====
   * posed as the ruler --- [[books:sb:1:17:27|SB 1.17.27]]

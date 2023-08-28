@@ -1,5 +1,11 @@
-~~Title:uddeśaḥ~~
-{{description>His body thus smeared.}}
+---json
+{
+    "name":"uddeśaḥ",
+    "h1":"uddeśaḥ",
+    "title":"uddeśaḥ -- synonyms, prabhupada.io",
+    "description":"His body thus smeared."
+}
+---
 
 ==== ādigdha-uddeśaḥ  ====
   * His body thus smeared --- [[books:sb:5:5:32|SB 5.5.32]]

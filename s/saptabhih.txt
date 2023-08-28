@@ -1,5 +1,11 @@
-~~Title:saptabhiḥ~~
-{{description>by seven (divisions); by seven; by the seven; seven; with seven; with the seven (layers).}}
+---json
+{
+    "name":"saptabhiḥ",
+    "h1":"saptabhiḥ",
+    "title":"saptabhiḥ -- synonyms, prabhupada.io",
+    "description":"by seven (divisions); by seven; by the seven; seven; with seven; with the seven (layers)."
+}
+---
 
 ==== saptabhiḥ  ====
   * by seven (divisions) --- [[books:sb:1:13:52|SB 1.13.52]]

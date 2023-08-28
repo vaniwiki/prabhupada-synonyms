@@ -1,5 +1,11 @@
-~~Title:karane~~
-{{description>in performing.}}
+---json
+{
+    "name":"karane",
+    "h1":"karane",
+    "title":"karane -- synonyms, prabhupada.io",
+    "description":"in performing."
+}
+---
 
 ==== karaṇe  ====
   * in performing --- [[books:cc:adi:16:102|Ādi 16.102]]

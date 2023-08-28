@@ -1,5 +1,11 @@
-~~Title:bāhirete~~
-{{description>outside.}}
+---json
+{
+    "name":"bāhirete",
+    "h1":"bāhirete",
+    "title":"bāhirete -- synonyms, prabhupada.io",
+    "description":"outside."
+}
+---
 
 ==== bāhirete  ====
   * outside --- [[books:cc:madhya:11:152|Madhya 11.152]]

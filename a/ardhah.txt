@@ -1,5 +1,11 @@
-~~Title:ardhaḥ~~
-{{description>half.}}
+---json
+{
+    "name":"ardhaḥ",
+    "h1":"ardhaḥ",
+    "title":"ardhaḥ -- synonyms, prabhupada.io",
+    "description":"half."
+}
+---
 
 ==== ardhaḥ  ====
   * half --- [[books:sb:4:16:17|SB 4.16.17]]

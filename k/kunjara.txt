@@ -1,5 +1,11 @@
-~~Title:kuñjara~~
-{{description>elephants.}}
+---json
+{
+    "name":"kuñjara",
+    "h1":"kuñjara",
+    "title":"kuñjara -- synonyms, prabhupada.io",
+    "description":"elephants."
+}
+---
 
 ==== kuñjara  ====
   * elephants --- [[books:sb:7:7:39|SB 7.7.39]]

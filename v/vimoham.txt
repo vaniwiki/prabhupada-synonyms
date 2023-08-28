@@ -1,5 +1,11 @@
-~~Title:vimoham~~
-{{description>who can never be mystified.}}
+---json
+{
+    "name":"vimoham",
+    "h1":"vimoham",
+    "title":"vimoham -- synonyms, prabhupada.io",
+    "description":"who can never be mystified."
+}
+---
 
 ==== vimoham  ====
   * who can never be mystified --- [[books:sb:10:13:44|SB 10.13.44]]

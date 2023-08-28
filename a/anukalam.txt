@@ -1,5 +1,11 @@
-~~Title:anukālam~~
-{{description>eternally; forever.}}
+---json
+{
+    "name":"anukālam",
+    "h1":"anukālam",
+    "title":"anukālam -- synonyms, prabhupada.io",
+    "description":"eternally; forever."
+}
+---
 
 ==== anukālam  ====
   * eternally --- [[books:sb:8:3:8-9|SB 8.3.8-9]]

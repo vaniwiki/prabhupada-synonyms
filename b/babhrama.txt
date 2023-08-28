@@ -1,5 +1,11 @@
-~~Title:babhrāma~~
-{{description>circulated; traveled; traveled over.}}
+---json
+{
+    "name":"babhrāma",
+    "h1":"babhrāma",
+    "title":"babhrāma -- synonyms, prabhupada.io",
+    "description":"circulated; traveled; traveled over."
+}
+---
 
 ==== babhrāma  ====
   * circulated --- [[books:cc:antya:1:164|Antya 1.164]]

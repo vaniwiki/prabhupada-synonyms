@@ -1,5 +1,11 @@
-~~Title:kumara~~
-{{description>son; the Aśvinī-kumāras; the boy-saint.}}
+---json
+{
+    "name":"kumara",
+    "h1":"kumara",
+    "title":"kumara -- synonyms, prabhupada.io",
+    "description":"son; the Aśvinī-kumāras; the boy-saint."
+}
+---
 
 ==== kumāra  ====
   * son --- [[books:cc:antya:12:46-47|Antya 12.46-47]]

@@ -1,5 +1,11 @@
-~~Title:paryaṭanam~~
-{{description>traveling.}}
+---json
+{
+    "name":"paryaṭanam",
+    "h1":"paryaṭanam",
+    "title":"paryaṭanam -- synonyms, prabhupada.io",
+    "description":"traveling."
+}
+---
 
 ==== paryaṭanam  ====
   * traveling --- [[books:sb:9:7:18|SB 9.7.18]]

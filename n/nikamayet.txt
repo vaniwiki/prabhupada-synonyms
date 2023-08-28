@@ -1,5 +1,11 @@
-~~Title:nikāmayet~~
-{{description>fully desires.}}
+---json
+{
+    "name":"nikāmayet",
+    "h1":"nikāmayet",
+    "title":"nikāmayet -- synonyms, prabhupada.io",
+    "description":"fully desires."
+}
+---
 
 ==== nikāmayet  ====
   * fully desires --- [[books:sb:5:18:21|SB 5.18.21]]

@@ -1,5 +1,11 @@
-~~Title:udarī~~
-{{description>having drawn within Your abdomen.}}
+---json
+{
+    "name":"udarī",
+    "h1":"udarī",
+    "title":"udarī -- synonyms, prabhupada.io",
+    "description":"having drawn within Your abdomen."
+}
+---
 
 ==== udarī-kṛtya  ====
   * having drawn within Your abdomen --- [[books:sb:4:7:42|SB 4.7.42]]

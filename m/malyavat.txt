@@ -1,5 +1,11 @@
-~~Title:mālyavat~~
-{{description>from the top of Mālyavān Mountain.}}
+---json
+{
+    "name":"mālyavat",
+    "h1":"mālyavat",
+    "title":"mālyavat -- synonyms, prabhupada.io",
+    "description":"from the top of Mālyavān Mountain."
+}
+---
 
 ==== mālyavat-śikharāt  ====
   * from the top of Mālyavān Mountain --- [[books:sb:5:17:7|SB 5.17.7]]

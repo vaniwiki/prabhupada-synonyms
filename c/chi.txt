@@ -1,5 +1,11 @@
-~~Title:chi~~
-{{description>how pitiable it is.}}
+---json
+{
+    "name":"chi",
+    "h1":"chi",
+    "title":"chi -- synonyms, prabhupada.io",
+    "description":"how pitiable it is."
+}
+---
 
 ==== chi chi  ====
   * how pitiable it is --- [[books:cc:madhya:13:182|Madhya 13.182]]

@@ -1,5 +1,11 @@
-~~Title:arkasya~~
-{{description>of Arka; of the sun; of the sun globe; of the sunlike.}}
+---json
+{
+    "name":"arkasya",
+    "h1":"arkasya",
+    "title":"arkasya -- synonyms, prabhupada.io",
+    "description":"of Arka; of the sun; of the sun globe; of the sunlike."
+}
+---
 
 ==== arkasya  ====
   * of Arka --- [[books:sb:6:6:13|SB 6.6.13]]

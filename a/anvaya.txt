@@ -1,5 +1,11 @@
-~~Title:anvaya~~
-{{description>directly; family.}}
+---json
+{
+    "name":"anvaya",
+    "h1":"anvaya",
+    "title":"anvaya -- synonyms, prabhupada.io",
+    "description":"directly; family."
+}
+---
 
 ==== anvaya  ====
   * directly --- [[books:sb:2:9:36|SB 2.9.36]], [[books:sb:7:7:24|SB 7.7.24]], [[books:cc:adi:1:56|Ādi 1.56]], [[books:cc:madhya:25:123|Madhya 25.123]]

@@ -1,5 +1,11 @@
-~~Title:bharaṇe~~
-{{description>in maintaining a family; to satisfy the relatives.}}
+---json
+{
+    "name":"bharaṇe",
+    "h1":"bharaṇe",
+    "title":"bharaṇe -- synonyms, prabhupada.io",
+    "description":"in maintaining a family; to satisfy the relatives."
+}
+---
 
 ==== kuṭumba-bharaṇe  ====
   * in maintaining a family --- [[books:sb:3:30:18|SB 3.30.18]]

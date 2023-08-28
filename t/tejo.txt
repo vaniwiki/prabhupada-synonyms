@@ -1,5 +1,11 @@
-~~Title:tejo~~
-{{description>very brilliantly; very fierce.}}
+---json
+{
+    "name":"tejo",
+    "h1":"tejo",
+    "title":"tejo -- synonyms, prabhupada.io",
+    "description":"very brilliantly; very fierce."
+}
+---
 
 ==== mahā-tejo-maya  ====
   * very brilliantly --- [[books:cc:adi:7:60|Ādi 7.60]]

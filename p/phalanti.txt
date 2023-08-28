@@ -1,5 +1,11 @@
-~~Title:phalanti~~
-{{description>active; end in.}}
+---json
+{
+    "name":"phalanti",
+    "h1":"phalanti",
+    "title":"phalanti -- synonyms, prabhupada.io",
+    "description":"active; end in."
+}
+---
 
 ==== phalanti  ====
   * active --- [[books:sb:1:10:5|SB 1.10.5]]

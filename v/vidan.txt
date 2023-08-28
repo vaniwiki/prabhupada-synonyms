@@ -1,5 +1,11 @@
-~~Title:vidan~~
-{{description>knowing.}}
+---json
+{
+    "name":"vidan",
+    "h1":"vidan",
+    "title":"vidan -- synonyms, prabhupada.io",
+    "description":"knowing."
+}
+---
 
 ==== vidan  ====
   * knowing --- [[books:cc:madhya:22:101|Madhya 22.101]]

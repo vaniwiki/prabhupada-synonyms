@@ -1,5 +1,11 @@
-~~Title:dhyāna~~
-{{description>by meditation; meditation; of meditation; positive meditation; the meditation.}}
+---json
+{
+    "name":"dhyāna",
+    "h1":"dhyāna",
+    "title":"dhyāna -- synonyms, prabhupada.io",
+    "description":"by meditation; meditation; of meditation; positive meditation; the meditation."
+}
+---
 
 ==== dhyāna  ====
   * by meditation --- [[books:sb:6:9:41|SB 6.9.41]], [[books:sb:6:13:17|SB 6.13.17]]

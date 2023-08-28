@@ -1,5 +1,11 @@
-~~Title:kriyate~~
-{{description>caused to be done; does perform; is accepted; is performed; is rendered; performed.}}
+---json
+{
+    "name":"kriyate",
+    "h1":"kriyate",
+    "title":"kriyate -- synonyms, prabhupada.io",
+    "description":"caused to be done; does perform; is accepted; is performed; is rendered; performed."
+}
+---
 
 ==== kriyate  ====
   * caused to be done --- [[books:sb:2:10:25|SB 2.10.25]]

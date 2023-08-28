@@ -1,5 +1,11 @@
-~~Title:anunirjihānam~~
-{{description>having come out.}}
+---json
+{
+    "name":"anunirjihānam",
+    "h1":"anunirjihānam",
+    "title":"anunirjihānam -- synonyms, prabhupada.io",
+    "description":"having come out."
+}
+---
 
 ==== anunirjihānam  ====
   * having come out --- [[books:sb:7:8:18|SB 7.8.18]]

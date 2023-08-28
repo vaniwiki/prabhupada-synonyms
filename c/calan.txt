@@ -1,5 +1,11 @@
-~~Title:calan~~
-{{description>moving; walking; wandering.}}
+---json
+{
+    "name":"calan",
+    "h1":"calan",
+    "title":"calan -- synonyms, prabhupada.io",
+    "description":"moving; walking; wandering."
+}
+---
 
 ==== calan  ====
   * moving --- [[books:sb:5:12:5-6|SB 5.12.5-6]], [[books:cc:madhya:14:181|Madhya 14.181]]

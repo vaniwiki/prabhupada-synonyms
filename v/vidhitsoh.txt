@@ -1,5 +1,11 @@
-~~Title:vidhitsoḥ~~
-{{description>desiring to do.}}
+---json
+{
+    "name":"vidhitsoḥ",
+    "h1":"vidhitsoḥ",
+    "title":"vidhitsoḥ -- synonyms, prabhupada.io",
+    "description":"desiring to do."
+}
+---
 
 ==== vidhitsoḥ  ====
   * desiring to do --- [[books:sb:3:16:24|SB 3.16.24]]

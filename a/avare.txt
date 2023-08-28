@@ -1,5 +1,11 @@
-~~Title:avare~~
-{{description>in the lower status of life; mundane; subordinate.}}
+---json
+{
+    "name":"avare",
+    "h1":"avare",
+    "title":"avare -- synonyms, prabhupada.io",
+    "description":"in the lower status of life; mundane; subordinate."
+}
+---
 
 ==== avare  ====
   * in the lower status of life --- [[books:sb:4:22:36|SB 4.22.36]]

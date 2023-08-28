@@ -1,5 +1,11 @@
-~~Title:udāsīnam~~
-{{description>indifferent.}}
+---json
+{
+    "name":"udāsīnam",
+    "h1":"udāsīnam",
+    "title":"udāsīnam -- synonyms, prabhupada.io",
+    "description":"indifferent."
+}
+---
 
 ==== udāsīnam  ====
   * indifferent --- [[books:sb:3:25:18|SB 3.25.18]], [[books:sb:4:20:11|SB 4.20.11]]

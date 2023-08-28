@@ -1,5 +1,11 @@
-~~Title:matāni~~
-{{description>considered.}}
+---json
+{
+    "name":"matāni",
+    "h1":"matāni",
+    "title":"matāni -- synonyms, prabhupada.io",
+    "description":"considered."
+}
+---
 
 ==== matāni  ====
   * considered --- [[books:sb:3:26:12|SB 3.26.12]]

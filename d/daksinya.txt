@@ -1,5 +1,11 @@
-~~Title:dākṣiṇya~~
-{{description>the position bestowed by the merciful glance.}}
+---json
+{
+    "name":"dākṣiṇya",
+    "h1":"dākṣiṇya",
+    "title":"dākṣiṇya -- synonyms, prabhupada.io",
+    "description":"the position bestowed by the merciful glance."
+}
+---
 
 ==== dākṣiṇya-dṛṣṭi-padavīm  ====
   * the position bestowed by the merciful glance --- [[books:sb:8:23:7|SB 8.23.7]]

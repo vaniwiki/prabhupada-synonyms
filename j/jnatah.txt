@@ -1,5 +1,11 @@
-~~Title:jnatah~~
-{{description>known.}}
+---json
+{
+    "name":"jnatah",
+    "h1":"jnatah",
+    "title":"jnatah -- synonyms, prabhupada.io",
+    "description":"known."
+}
+---
 
 ==== jñātaḥ  ====
   * known --- [[books:sb:3:9:1|SB 3.9.1]], [[books:sb:3:9:36|SB 3.9.36]]

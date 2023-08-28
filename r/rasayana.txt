@@ -1,5 +1,11 @@
-~~Title:rasāyana~~
-{{description>and elixirs.}}
+---json
+{
+    "name":"rasāyana",
+    "h1":"rasāyana",
+    "title":"rasāyana -- synonyms, prabhupada.io",
+    "description":"and elixirs."
+}
+---
 
 ==== rasāyana  ====
   * and elixirs --- [[books:sb:5:24:13|SB 5.24.13]]

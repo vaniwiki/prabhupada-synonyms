@@ -1,5 +1,11 @@
-~~Title:malaya~~
-{{description>with a garland.}}
+---json
+{
+    "name":"malaya",
+    "h1":"malaya",
+    "title":"malaya -- synonyms, prabhupada.io",
+    "description":"with a garland."
+}
+---
 
 ==== mālāya  ====
   * with a garland --- [[books:cc:madhya:14:147|Madhya 14.147]]

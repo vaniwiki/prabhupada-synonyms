@@ -1,5 +1,11 @@
-~~Title:dhyayanti~~
-{{description>meditate; meditate upon.}}
+---json
+{
+    "name":"dhyayanti",
+    "h1":"dhyayanti",
+    "title":"dhyayanti -- synonyms, prabhupada.io",
+    "description":"meditate; meditate upon."
+}
+---
 
 ==== dhyāyanti  ====
   * meditate --- [[books:cc:madhya:22:163|Madhya 22.163]]

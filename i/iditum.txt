@@ -1,5 +1,11 @@
-~~Title:īḍitum~~
-{{description>to worship the Lord.}}
+---json
+{
+    "name":"īḍitum",
+    "h1":"īḍitum",
+    "title":"īḍitum -- synonyms, prabhupada.io",
+    "description":"to worship the Lord."
+}
+---
 
 ==== īḍitum  ====
   * to worship the Lord --- [[books:sb:8:17:6|SB 8.17.6]]

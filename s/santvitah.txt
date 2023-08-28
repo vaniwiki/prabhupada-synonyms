@@ -1,5 +1,11 @@
-~~Title:sāntvitaḥ~~
-{{description>(in spite of) being pacified.}}
+---json
+{
+    "name":"sāntvitaḥ",
+    "h1":"sāntvitaḥ",
+    "title":"sāntvitaḥ -- synonyms, prabhupada.io",
+    "description":"(in spite of) being pacified."
+}
+---
 
 ==== sāntvitaḥ  ====
   * (in spite of) being pacified --- [[books:sb:4:14:12|SB 4.14.12]]

@@ -1,5 +1,11 @@
-~~Title:sarāṁsi~~
-{{description>lakes; reservoirs of water.}}
+---json
+{
+    "name":"sarāṁsi",
+    "h1":"sarāṁsi",
+    "title":"sarāṁsi -- synonyms, prabhupada.io",
+    "description":"lakes; reservoirs of water."
+}
+---
 
 ==== sarāṁsi  ====
   * lakes --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

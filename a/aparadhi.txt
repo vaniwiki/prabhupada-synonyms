@@ -1,5 +1,11 @@
-~~Title:aparadhi~~
-{{description>great offenders.}}
+---json
+{
+    "name":"aparadhi",
+    "h1":"aparadhi",
+    "title":"aparadhi -- synonyms, prabhupada.io",
+    "description":"great offenders."
+}
+---
 
 ==== aparādhī  ====
   * great offenders --- [[books:cc:madhya:17:129|Madhya 17.129]]

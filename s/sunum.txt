@@ -1,5 +1,11 @@
-~~Title:sūnum~~
-{{description>Kṛṣṇa, the son of a cowherd man.}}
+---json
+{
+    "name":"sūnum",
+    "h1":"sūnum",
+    "title":"sūnum -- synonyms, prabhupada.io",
+    "description":"Kṛṣṇa, the son of a cowherd man."
+}
+---
 
 ==== gopāla-sūnum  ====
   * Kṛṣṇa, the son of a cowherd man --- [[books:sb:10:11:50|SB 10.11.50]]

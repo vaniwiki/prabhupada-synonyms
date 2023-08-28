@@ -1,5 +1,11 @@
-~~Title:svara~~
-{{description>musical rhythm; singing meter; with the sweet sounds.}}
+---json
+{
+    "name":"svara",
+    "h1":"svara",
+    "title":"svara -- synonyms, prabhupada.io",
+    "description":"musical rhythm; singing meter; with the sweet sounds."
+}
+---
 
 ==== svara  ====
   * musical rhythm --- [[books:sb:2:1:36|SB 2.1.36]]

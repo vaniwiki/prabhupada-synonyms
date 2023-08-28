@@ -1,5 +1,11 @@
-~~Title:abhidhyāyati~~
-{{description>when meditating with full concentration.}}
+---json
+{
+    "name":"abhidhyāyati",
+    "h1":"abhidhyāyati",
+    "title":"abhidhyāyati -- synonyms, prabhupada.io",
+    "description":"when meditating with full concentration."
+}
+---
 
 ==== abhidhyāyati  ====
   * when meditating with full concentration --- [[books:sb:4:8:80|SB 4.8.80]]

@@ -1,5 +1,11 @@
-~~Title:arjuna~~
-{{description>Arjuna; O Arjuna.}}
+---json
+{
+    "name":"arjuna",
+    "h1":"arjuna",
+    "title":"arjuna -- synonyms, prabhupada.io",
+    "description":"Arjuna; O Arjuna."
+}
+---
 
 ==== arjuna  ====
   * Arjuna --- [[books:sb:1:15:18|SB 1.15.18]], [[books:sb:3:3:14|SB 3.3.14]], [[books:sb:8:5:2|SB 8.5.2]]

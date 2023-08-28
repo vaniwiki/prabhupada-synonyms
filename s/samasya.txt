@@ -1,5 +1,11 @@
-~~Title:samasya~~
-{{description>equipoised; who is equal.}}
+---json
+{
+    "name":"samasya",
+    "h1":"samasya",
+    "title":"samasya -- synonyms, prabhupada.io",
+    "description":"equipoised; who is equal."
+}
+---
 
 ==== samasya  ====
   * equipoised --- [[books:sb:7:8:10|SB 7.8.10]]

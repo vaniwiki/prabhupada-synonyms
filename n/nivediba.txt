@@ -1,5 +1,11 @@
-~~Title:nivediba~~
-{{description>I shall offer my prayers.}}
+---json
+{
+    "name":"nivediba",
+    "h1":"nivediba",
+    "title":"nivediba -- synonyms, prabhupada.io",
+    "description":"I shall offer my prayers."
+}
+---
 
 ==== nivediba  ====
   * I shall offer my prayers --- [[books:cc:adi:16:96|Ādi 16.96]]

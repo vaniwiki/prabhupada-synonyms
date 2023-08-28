@@ -1,5 +1,11 @@
-~~Title:maṇipuṣpakau~~
-{{description>the conches named Sughoṣa and Maṇipuṣpaka.}}
+---json
+{
+    "name":"maṇipuṣpakau",
+    "h1":"maṇipuṣpakau",
+    "title":"maṇipuṣpakau -- synonyms, prabhupada.io",
+    "description":"the conches named Sughoṣa and Maṇipuṣpaka."
+}
+---
 
 ==== sughoṣa-maṇipuṣpakau  ====
   * the conches named Sughoṣa and Maṇipuṣpaka --- [[books:bg:1:16-18|Bg. 1.16-18]]

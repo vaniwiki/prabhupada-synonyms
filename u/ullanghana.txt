@@ -1,5 +1,11 @@
-~~Title:ullaṅghana~~
-{{description>by the jumping of different fish.}}
+---json
+{
+    "name":"ullaṅghana",
+    "h1":"ullaṅghana",
+    "title":"ullaṅghana -- synonyms, prabhupada.io",
+    "description":"by the jumping of different fish."
+}
+---
 
 ==== jhaṣa-kula-ullaṅghana  ====
   * by the jumping of different fish --- [[books:sb:5:24:10|SB 5.24.10]]

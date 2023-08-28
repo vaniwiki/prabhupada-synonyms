@@ -1,5 +1,11 @@
-~~Title:ullasah~~
-{{description>prominence.}}
+---json
+{
+    "name":"ullasah",
+    "h1":"ullasah",
+    "title":"ullasah -- synonyms, prabhupada.io",
+    "description":"prominence."
+}
+---
 
 ==== ullāsaḥ  ====
   * prominence --- [[books:sb:7:1:7|SB 7.1.7]]

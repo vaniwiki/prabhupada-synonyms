@@ -1,5 +1,11 @@
-~~Title:sunābham~~
-{{description>the Sudarśana cakra.}}
+---json
+{
+    "name":"sunābham",
+    "h1":"sunābham",
+    "title":"sunābham -- synonyms, prabhupada.io",
+    "description":"the Sudarśana cakra."
+}
+---
 
 ==== sunābham  ====
   * the Sudarśana //cakra// --- [[books:sb:3:19:5|SB 3.19.5]]

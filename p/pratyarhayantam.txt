@@ -1,5 +1,11 @@
-~~Title:pratyarhayantam~~
-{{description>reciprocating.}}
+---json
+{
+    "name":"pratyarhayantam",
+    "h1":"pratyarhayantam",
+    "title":"pratyarhayantam -- synonyms, prabhupada.io",
+    "description":"reciprocating."
+}
+---
 
 ==== pratyarhayantam  ====
   * reciprocating --- [[books:sb:3:8:27|SB 3.8.27]]

@@ -1,5 +1,11 @@
-~~Title:asyata~~
-{{description>engaged in fighting.}}
+---json
+{
+    "name":"asyata",
+    "h1":"asyata",
+    "title":"asyata -- synonyms, prabhupada.io",
+    "description":"engaged in fighting."
+}
+---
 
 ==== asyata  ====
   * engaged in fighting --- [[books:sb:8:10:28|SB 8.10.28]]

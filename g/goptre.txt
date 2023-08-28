@@ -1,5 +1,11 @@
-~~Title:goptre~~
-{{description>who maintains.}}
+---json
+{
+    "name":"goptre",
+    "h1":"goptre",
+    "title":"goptre -- synonyms, prabhupada.io",
+    "description":"who maintains."
+}
+---
 
 ==== goptre  ====
   * who maintains --- [[books:sb:7:8:44|SB 7.8.44]]

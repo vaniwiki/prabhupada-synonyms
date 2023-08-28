@@ -1,5 +1,11 @@
-~~Title:gīte~~
-{{description>by songs; songs; while singing.}}
+---json
+{
+    "name":"gīte",
+    "h1":"gīte",
+    "title":"gīte -- synonyms, prabhupada.io",
+    "description":"by songs; songs; while singing."
+}
+---
 
 ==== gīte  ====
   * by songs --- [[books:cc:antya:6:8|Antya 6.8]]

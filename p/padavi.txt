@@ -1,5 +1,11 @@
-~~Title:padavī~~
-{{description>designation; the position; the surname.}}
+---json
+{
+    "name":"padavī",
+    "h1":"padavī",
+    "title":"padavī -- synonyms, prabhupada.io",
+    "description":"designation; the position; the surname."
+}
+---
 
 ==== padavī  ====
   * designation --- [[books:cc:adi:13:59|Ādi 13.59]]

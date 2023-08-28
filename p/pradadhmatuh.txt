@@ -1,5 +1,11 @@
-~~Title:pradadhmatuḥ~~
-{{description>sounded.}}
+---json
+{
+    "name":"pradadhmatuḥ",
+    "h1":"pradadhmatuḥ",
+    "title":"pradadhmatuḥ -- synonyms, prabhupada.io",
+    "description":"sounded."
+}
+---
 
 ==== pradadhmatuḥ  ====
   * sounded --- [[books:bg:1:14|Bg. 1.14]]

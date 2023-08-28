@@ -1,5 +1,11 @@
-~~Title:chāḍibena~~
-{{description>will give me up.}}
+---json
+{
+    "name":"chāḍibena",
+    "h1":"chāḍibena",
+    "title":"chāḍibena -- synonyms, prabhupada.io",
+    "description":"will give me up."
+}
+---
 
 ==== chāḍibena  ====
   * will give me up --- [[books:cc:madhya:19:201|Madhya 19.201]]

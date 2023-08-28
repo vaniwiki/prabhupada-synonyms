@@ -1,5 +1,11 @@
-~~Title:abhidhāyinīḥ~~
-{{description>speaking.}}
+---json
+{
+    "name":"abhidhāyinīḥ",
+    "h1":"abhidhāyinīḥ",
+    "title":"abhidhāyinīḥ -- synonyms, prabhupada.io",
+    "description":"speaking."
+}
+---
 
 ==== abhidhāyinīḥ  ====
   * speaking --- [[books:cc:adi:6:60|Ādi 6.60]]

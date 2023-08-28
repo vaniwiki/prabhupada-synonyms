@@ -1,5 +1,11 @@
-~~Title:pradakṣiṇam~~
-{{description>circumambulation; placing on the right.}}
+---json
+{
+    "name":"pradakṣiṇam",
+    "h1":"pradakṣiṇam",
+    "title":"pradakṣiṇam -- synonyms, prabhupada.io",
+    "description":"circumambulation; placing on the right."
+}
+---
 
 ==== pradakṣiṇam  ====
   * circumambulation --- [[books:sb:8:16:42|SB 8.16.42]]

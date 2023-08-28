@@ -1,5 +1,11 @@
-~~Title:rājñīm~~
-{{description>unto the Queen.}}
+---json
+{
+    "name":"rājñīm",
+    "h1":"rājñīm",
+    "title":"rājñīm -- synonyms, prabhupada.io",
+    "description":"unto the Queen."
+}
+---
 
 ==== rājñīm  ====
   * unto the Queen --- [[books:sb:4:9:51|SB 4.9.51]]

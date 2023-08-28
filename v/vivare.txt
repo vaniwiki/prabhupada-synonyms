@@ -1,5 +1,11 @@
-~~Title:vivare~~
-{{description>between; in the abdomen.}}
+---json
+{
+    "name":"vivare",
+    "h1":"vivare",
+    "title":"vivare -- synonyms, prabhupada.io",
+    "description":"between; in the abdomen."
+}
+---
 
 ==== vivare  ====
   * between --- [[books:sb:3:15:41|SB 3.15.41]]

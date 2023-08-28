@@ -1,5 +1,11 @@
-~~Title:layena~~
-{{description>chanted; chants; he takes; takes; took.}}
+---json
+{
+    "name":"layena",
+    "h1":"layena",
+    "title":"layena -- synonyms, prabhupada.io",
+    "description":"chanted; chants; he takes; takes; took."
+}
+---
 
 ==== layena  ====
   * chanted --- [[books:cc:adi:10:43|Ādi 10.43]]

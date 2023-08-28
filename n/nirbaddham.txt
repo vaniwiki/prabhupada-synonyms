@@ -1,5 +1,11 @@
-~~Title:nirbaddham~~
-{{description>compact in.}}
+---json
+{
+    "name":"nirbaddham",
+    "h1":"nirbaddham",
+    "title":"nirbaddham -- synonyms, prabhupada.io",
+    "description":"compact in."
+}
+---
 
 ==== nirbaddham  ====
   * compact in --- [[books:sb:3:9:35|SB 3.9.35]]

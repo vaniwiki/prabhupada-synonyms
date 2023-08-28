@@ -1,5 +1,11 @@
-~~Title:raghunandana~~
-{{description>my son Raghunandana; Raghunandana.}}
+---json
+{
+    "name":"raghunandana",
+    "h1":"raghunandana",
+    "title":"raghunandana -- synonyms, prabhupada.io",
+    "description":"my son Raghunandana; Raghunandana."
+}
+---
 
 ==== raghunandana  ====
   * my son Raghunandana --- [[books:cc:madhya:15:115|Madhya 15.115]]

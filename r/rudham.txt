@@ -1,5 +1,11 @@
-~~Title:rūḍham~~
-{{description>situated in; very powerful.}}
+---json
+{
+    "name":"rūḍham",
+    "h1":"rūḍham",
+    "title":"rūḍham -- synonyms, prabhupada.io",
+    "description":"situated in; very powerful."
+}
+---
 
 ==== rūḍham  ====
   * situated in --- [[books:sb:1:8:48|SB 1.8.48]]

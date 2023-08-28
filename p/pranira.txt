@@ -1,5 +1,11 @@
-~~Title:prāṇīra~~
-{{description>of all living entities.}}
+---json
+{
+    "name":"prāṇīra",
+    "h1":"prāṇīra",
+    "title":"prāṇīra -- synonyms, prabhupada.io",
+    "description":"of all living entities."
+}
+---
 
 ==== sarva-prāṇīra  ====
   * of all living entities --- [[books:cc:adi:9:45|Ādi 9.45]]

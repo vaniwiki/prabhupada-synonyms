@@ -1,5 +1,11 @@
-~~Title:apakurute~~
-{{description>can do harm.}}
+---json
+{
+    "name":"apakurute",
+    "h1":"apakurute",
+    "title":"apakurute -- synonyms, prabhupada.io",
+    "description":"can do harm."
+}
+---
 
 ==== apakurute  ====
   * can do harm --- [[books:sb:3:27:26|SB 3.27.26]]

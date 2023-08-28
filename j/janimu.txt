@@ -1,5 +1,11 @@
-~~Title:jānimu~~
-{{description>we shall know.}}
+---json
+{
+    "name":"jānimu",
+    "h1":"jānimu",
+    "title":"jānimu -- synonyms, prabhupada.io",
+    "description":"we shall know."
+}
+---
 
 ==== jānimu  ====
   * we shall know --- [[books:cc:antya:3:11|Antya 3.11]]

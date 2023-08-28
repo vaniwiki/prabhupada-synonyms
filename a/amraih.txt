@@ -1,5 +1,11 @@
-~~Title:āmraiḥ~~
-{{description>mangoes.}}
+---json
+{
+    "name":"āmraiḥ",
+    "h1":"āmraiḥ",
+    "title":"āmraiḥ -- synonyms, prabhupada.io",
+    "description":"mangoes."
+}
+---
 
 ==== āmraiḥ  ====
   * mangoes --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

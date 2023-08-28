@@ -1,5 +1,11 @@
-~~Title:manasam~~
-{{description>of one whose mind is so fixed; whose mind.}}
+---json
+{
+    "name":"manasam",
+    "h1":"manasam",
+    "title":"manasam -- synonyms, prabhupada.io",
+    "description":"of one whose mind is so fixed; whose mind."
+}
+---
 
 ==== manasam  ====
   * of one whose mind is so fixed --- [[books:bg:6:27|Bg. 6.27]]

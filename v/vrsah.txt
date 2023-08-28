@@ -1,5 +1,11 @@
-~~Title:vrsah~~
-{{description>a bull; the best; the personification of religious principles.}}
+---json
+{
+    "name":"vrsah",
+    "h1":"vrsah",
+    "title":"vrsah -- synonyms, prabhupada.io",
+    "description":"a bull; the best; the personification of religious principles."
+}
+---
 
 ==== vṛṣaḥ  ====
   * a bull --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

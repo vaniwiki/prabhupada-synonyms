@@ -1,5 +1,11 @@
-~~Title:rāndhena~~
-{{description>cooks.}}
+---json
+{
+    "name":"rāndhena",
+    "h1":"rāndhena",
+    "title":"rāndhena -- synonyms, prabhupada.io",
+    "description":"cooks."
+}
+---
 
 ==== rāndhena  ====
   * cooks --- [[books:cc:madhya:16:57|Madhya 16.57]]

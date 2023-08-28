@@ -1,5 +1,11 @@
-~~Title:kecit~~
-{{description>any; one; others; some; some of the demons; some of them; some people; some people, namely the group of Māyāvādīs known as the Vedāntists; some persons; someone.}}
+---json
+{
+    "name":"kecit",
+    "h1":"kecit",
+    "title":"kecit -- synonyms, prabhupada.io",
+    "description":"any; one; others; some; some of the demons; some of them; some people; some people, namely the group of Māyāvādīs known as the Vedāntists; some persons; someone."
+}
+---
 
 ==== kecit  ====
   * any --- [[books:sb:3:25:34|SB 3.25.34]]

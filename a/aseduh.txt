@@ -1,5 +1,11 @@
-~~Title:āseduḥ~~
-{{description>reached.}}
+---json
+{
+    "name":"āseduḥ",
+    "h1":"āseduḥ",
+    "title":"āseduḥ -- synonyms, prabhupada.io",
+    "description":"reached."
+}
+---
 
 ==== āseduḥ  ====
   * reached --- [[books:sb:6:10:25|SB 6.10.25]]

@@ -1,5 +1,11 @@
-~~Title:uddhanti~~
-{{description>exacts.}}
+---json
+{
+    "name":"uddhanti",
+    "h1":"uddhanti",
+    "title":"uddhanti -- synonyms, prabhupada.io",
+    "description":"exacts."
+}
+---
 
 ==== uddhanti  ====
   * exacts --- [[books:sb:2:7:22|SB 2.7.22]]

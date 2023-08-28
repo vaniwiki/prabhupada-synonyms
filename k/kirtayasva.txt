@@ -1,5 +1,11 @@
-~~Title:kīrtayasva~~
-{{description>kindly describe.}}
+---json
+{
+    "name":"kīrtayasva",
+    "h1":"kīrtayasva",
+    "title":"kīrtayasva -- synonyms, prabhupada.io",
+    "description":"kindly describe."
+}
+---
 
 ==== kīrtayasva  ====
   * kindly describe --- [[books:sb:9:1:4|SB 9.1.4]]

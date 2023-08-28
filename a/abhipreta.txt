@@ -1,5 +1,11 @@
-~~Title:abhipreta~~
-{{description>the desire.}}
+---json
+{
+    "name":"abhipreta",
+    "h1":"abhipreta",
+    "title":"abhipreta -- synonyms, prabhupada.io",
+    "description":"the desire."
+}
+---
 
 ==== abhipreta-artha  ====
   * the desire --- [[books:sb:5:3:2|SB 5.3.2]]

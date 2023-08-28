@@ -1,5 +1,11 @@
-~~Title:ganda~~
-{{description>cheeks; neck.}}
+---json
+{
+    "name":"ganda",
+    "h1":"ganda",
+    "title":"ganda -- synonyms, prabhupada.io",
+    "description":"cheeks; neck."
+}
+---
 
 ==== gaṇḍa  ====
   * cheeks --- [[books:sb:3:13:32|SB 3.13.32]], [[books:cc:madhya:21:127|Madhya 21.127]]

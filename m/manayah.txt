@@ -1,5 +1,11 @@
-~~Title:maṇayaḥ~~
-{{description>very valuable gems.}}
+---json
+{
+    "name":"maṇayaḥ",
+    "h1":"maṇayaḥ",
+    "title":"maṇayaḥ -- synonyms, prabhupada.io",
+    "description":"very valuable gems."
+}
+---
 
 ==== mahā-maṇayaḥ  ====
   * very valuable gems --- [[books:sb:5:24:31|SB 5.24.31]]

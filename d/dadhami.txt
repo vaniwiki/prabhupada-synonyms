@@ -1,5 +1,11 @@
-~~Title:dadhāmi~~
-{{description>create.}}
+---json
+{
+    "name":"dadhāmi",
+    "h1":"dadhāmi",
+    "title":"dadhāmi -- synonyms, prabhupada.io",
+    "description":"create."
+}
+---
 
 ==== dadhāmi  ====
   * create --- [[books:bg:14:3|Bg. 14.3]]

@@ -1,5 +1,11 @@
-~~Title:asamprāpta~~
-{{description>not properly received.}}
+---json
+{
+    "name":"asamprāpta",
+    "h1":"asamprāpta",
+    "title":"asamprāpta -- synonyms, prabhupada.io",
+    "description":"not properly received."
+}
+---
 
 ==== asamprāpta  ====
   * not properly received --- [[books:sb:1:18:28|SB 1.18.28]]

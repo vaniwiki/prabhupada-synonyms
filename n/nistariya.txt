@@ -1,5 +1,11 @@
-~~Title:nistāriyā~~
-{{description>delivering.}}
+---json
+{
+    "name":"nistāriyā",
+    "h1":"nistāriyā",
+    "title":"nistāriyā -- synonyms, prabhupada.io",
+    "description":"delivering."
+}
+---
 
 ==== nistāriyā  ====
   * delivering --- [[books:cc:adi:7:160|Ādi 7.160]], [[books:cc:madhya:25:172|Madhya 25.172]], [[books:cc:madhya:25:177|Madhya 25.177]]

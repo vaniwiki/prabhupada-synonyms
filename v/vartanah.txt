@@ -1,5 +1,11 @@
-~~Title:vartanaḥ~~
-{{description>revolution of the three worlds.}}
+---json
+{
+    "name":"vartanaḥ",
+    "h1":"vartanaḥ",
+    "title":"vartanaḥ -- synonyms, prabhupada.io",
+    "description":"revolution of the three worlds."
+}
+---
 
 ==== trailokya-vartanaḥ  ====
   * revolution of the three worlds --- [[books:sb:3:11:26|SB 3.11.26]]

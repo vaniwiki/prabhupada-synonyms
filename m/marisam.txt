@@ -1,5 +1,11 @@
-~~Title:māriṣām~~
-{{description>Māriṣā.}}
+---json
+{
+    "name":"māriṣām",
+    "h1":"māriṣām",
+    "title":"māriṣām -- synonyms, prabhupada.io",
+    "description":"Māriṣā."
+}
+---
 
 ==== māriṣām  ====
   * Māriṣā --- [[books:sb:4:30:48|SB 4.30.48]]

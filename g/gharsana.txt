@@ -1,5 +1,11 @@
-~~Title:gharṣaṇa~~
-{{description>rubbing.}}
+---json
+{
+    "name":"gharṣaṇa",
+    "h1":"gharṣaṇa",
+    "title":"gharṣaṇa -- synonyms, prabhupada.io",
+    "description":"rubbing."
+}
+---
 
 ==== gharṣaṇa  ====
   * rubbing --- [[books:cc:antya:19:95|Antya 19.95]]

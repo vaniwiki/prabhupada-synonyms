@@ -1,5 +1,11 @@
-~~Title:kupitah~~
-{{description>angry; being angry; being engaged; being very angry; being very angry at him; being very much angry; having become angry.}}
+---json
+{
+    "name":"kupitah",
+    "h1":"kupitah",
+    "title":"kupitah -- synonyms, prabhupada.io",
+    "description":"angry; being angry; being engaged; being very angry; being very angry at him; being very much angry; having become angry."
+}
+---
 
 ==== kupitaḥ  ====
   * angry --- [[books:sb:6:18:44|SB 6.18.44]]

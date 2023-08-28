@@ -1,5 +1,11 @@
-~~Title:pralāpaḥ~~
-{{description>talking like a madman.}}
+---json
+{
+    "name":"pralāpaḥ",
+    "h1":"pralāpaḥ",
+    "title":"pralāpaḥ -- synonyms, prabhupada.io",
+    "description":"talking like a madman."
+}
+---
 
 ==== pralāpaḥ  ====
   * talking like a madman --- [[books:cc:antya:14:53|Antya 14.53]]

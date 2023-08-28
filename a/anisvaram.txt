@@ -1,5 +1,11 @@
-~~Title:anīśvaram~~
-{{description>with no controller.}}
+---json
+{
+    "name":"anīśvaram",
+    "h1":"anīśvaram",
+    "title":"anīśvaram -- synonyms, prabhupada.io",
+    "description":"with no controller."
+}
+---
 
 ==== anīśvaram  ====
   * with no controller --- [[books:bg:16:8|Bg. 16.8]]

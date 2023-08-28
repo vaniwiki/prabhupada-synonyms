@@ -1,5 +1,11 @@
-~~Title:apadāni~~
-{{description>those who are devoid of legs.}}
+---json
+{
+    "name":"apadāni",
+    "h1":"apadāni",
+    "title":"apadāni -- synonyms, prabhupada.io",
+    "description":"those who are devoid of legs."
+}
+---
 
 ==== apadāni  ====
   * those who are devoid of legs --- [[books:sb:1:13:47|SB 1.13.47]]

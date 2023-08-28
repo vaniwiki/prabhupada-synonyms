@@ -1,5 +1,11 @@
-~~Title:rikta~~
-{{description>persons devoid of devotional service.}}
+---json
+{
+    "name":"rikta",
+    "h1":"rikta",
+    "title":"rikta -- synonyms, prabhupada.io",
+    "description":"persons devoid of devotional service."
+}
+---
 
 ==== rikta-matayaḥ  ====
   * persons devoid of devotional service --- [[books:sb:4:22:39|SB 4.22.39]]

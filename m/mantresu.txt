@@ -1,5 +1,11 @@
-~~Title:mantreṣu~~
-{{description>in consultations.}}
+---json
+{
+    "name":"mantreṣu",
+    "h1":"mantreṣu",
+    "title":"mantreṣu -- synonyms, prabhupada.io",
+    "description":"in consultations."
+}
+---
 
 ==== mantreṣu  ====
   * in consultations --- [[books:sb:3:4:17|SB 3.4.17]]

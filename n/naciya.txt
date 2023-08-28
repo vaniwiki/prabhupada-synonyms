@@ -1,5 +1,11 @@
-~~Title:nāciyā~~
-{{description>dancing.}}
+---json
+{
+    "name":"nāciyā",
+    "h1":"nāciyā",
+    "title":"nāciyā -- synonyms, prabhupada.io",
+    "description":"dancing."
+}
+---
 
 ==== nāciyā  ====
   * dancing --- [[books:cc:madhya:9:340|Madhya 9.340]]

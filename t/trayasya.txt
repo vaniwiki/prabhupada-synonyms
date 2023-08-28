@@ -1,5 +1,11 @@
-~~Title:trayasya~~
-{{description>of the three.}}
+---json
+{
+    "name":"trayasya",
+    "h1":"trayasya",
+    "title":"trayasya -- synonyms, prabhupada.io",
+    "description":"of the three."
+}
+---
 
 ==== trayasya  ====
   * of the three --- [[books:sb:2:7:2|SB 2.7.2]]

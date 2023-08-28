@@ -1,5 +1,11 @@
-~~Title:duḥ~~
-{{description>difficult.}}
+---json
+{
+    "name":"duḥ",
+    "h1":"duḥ",
+    "title":"duḥ -- synonyms, prabhupada.io",
+    "description":"difficult."
+}
+---
 
 ==== duḥ  ====
   * difficult --- [[books:sb:3:9:36|SB 3.9.36]]

@@ -1,5 +1,11 @@
-~~Title:pathikaiḥ~~
-{{description>by the wanderers.}}
+---json
+{
+    "name":"pathikaiḥ",
+    "h1":"pathikaiḥ",
+    "title":"pathikaiḥ -- synonyms, prabhupada.io",
+    "description":"by the wanderers."
+}
+---
 
 ==== pathikaiḥ  ====
   * by the wanderers --- [[books:cc:madhya:10:178|Madhya 10.178]], [[books:cc:madhya:24:133|Madhya 24.133]]

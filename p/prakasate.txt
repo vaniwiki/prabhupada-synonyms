@@ -1,5 +1,11 @@
-~~Title:prakāśate~~
-{{description>exhibit.}}
+---json
+{
+    "name":"prakāśate",
+    "h1":"prakāśate",
+    "title":"prakāśate -- synonyms, prabhupada.io",
+    "description":"exhibit."
+}
+---
 
 ==== prakāśate  ====
   * exhibit --- [[books:sb:10:2:35|SB 10.2.35]]

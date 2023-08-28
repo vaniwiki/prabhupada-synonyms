@@ -1,5 +1,11 @@
-~~Title:mahīdhram~~
-{{description>the Govardhana Hill; the mountain.}}
+---json
+{
+    "name":"mahīdhram",
+    "h1":"mahīdhram",
+    "title":"mahīdhram -- synonyms, prabhupada.io",
+    "description":"the Govardhana Hill; the mountain."
+}
+---
 
 ==== mahīdhram  ====
   * the Govardhana Hill --- [[books:sb:2:7:32|SB 2.7.32]]

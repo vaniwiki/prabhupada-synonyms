@@ -1,5 +1,11 @@
-~~Title:alakaiḥ~~
-{{description>with curling hair.}}
+---json
+{
+    "name":"alakaiḥ",
+    "h1":"alakaiḥ",
+    "title":"alakaiḥ -- synonyms, prabhupada.io",
+    "description":"with curling hair."
+}
+---
 
 ==== alakaiḥ  ====
   * with curling hair --- [[books:sb:3:23:33|SB 3.23.33]], [[books:sb:4:24:47-48|SB 4.24.47-48]]

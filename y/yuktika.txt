@@ -1,5 +1,11 @@
-~~Title:yuktika~~
-{{description>by talks full of pleasing logic and arguments.}}
+---json
+{
+    "name":"yuktika",
+    "h1":"yuktika",
+    "title":"yuktika -- synonyms, prabhupada.io",
+    "description":"by talks full of pleasing logic and arguments."
+}
+---
 
 ==== sa-yuktika vākye  ====
   * by talks full of pleasing logic and arguments --- [[books:cc:madhya:25:20|Madhya 25.20]]

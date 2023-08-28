@@ -1,5 +1,11 @@
-~~Title:tanave~~
-{{description>whose forms.}}
+---json
+{
+    "name":"tanave",
+    "h1":"tanave",
+    "title":"tanave -- synonyms, prabhupada.io",
+    "description":"whose forms."
+}
+---
 
 ==== tanave  ====
   * whose forms --- [[books:sb:4:17:29|SB 4.17.29]]

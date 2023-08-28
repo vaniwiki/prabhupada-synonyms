@@ -1,5 +1,11 @@
-~~Title:ropila~~
-{{description>sowed.}}
+---json
+{
+    "name":"ropila",
+    "h1":"ropila",
+    "title":"ropila -- synonyms, prabhupada.io",
+    "description":"sowed."
+}
+---
 
 ==== ropila  ====
   * sowed --- [[books:cc:adi:17:80|Ādi 17.80]]

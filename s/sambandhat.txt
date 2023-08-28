@@ -1,5 +1,11 @@
-~~Title:sambandhāt~~
-{{description>out of kinship.}}
+---json
+{
+    "name":"sambandhāt",
+    "h1":"sambandhāt",
+    "title":"sambandhāt -- synonyms, prabhupada.io",
+    "description":"out of kinship."
+}
+---
 
 ==== sambandhāt  ====
   * out of kinship --- [[books:sb:7:1:31|SB 7.1.31]]

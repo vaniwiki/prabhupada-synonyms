@@ -1,5 +1,11 @@
-~~Title:śivatama~~
-{{description>most auspicious.}}
+---json
+{
+    "name":"śivatama",
+    "h1":"śivatama",
+    "title":"śivatama -- synonyms, prabhupada.io",
+    "description":"most auspicious."
+}
+---
 
 ==== śivatama  ====
   * most auspicious --- [[books:sb:5:3:4-5|SB 5.3.4-5]]

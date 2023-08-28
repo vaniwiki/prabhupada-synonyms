@@ -1,5 +1,11 @@
-~~Title:bhajiṣyati~~
-{{description>will serve.}}
+---json
+{
+    "name":"bhajiṣyati",
+    "h1":"bhajiṣyati",
+    "title":"bhajiṣyati -- synonyms, prabhupada.io",
+    "description":"will serve."
+}
+---
 
 ==== bhajiṣyati  ====
   * will serve --- [[books:sb:3:21:28|SB 3.21.28]]

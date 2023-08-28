@@ -1,5 +1,11 @@
-~~Title:vah~~
-{{description>against you; all of you; by you; for all of you; for all of you people; for you; from you; like you; of all of you; of all of you Pāṇḍavas; of all you demigods; of us; of you (the Pāṇḍavas); of you; of you people; one who is; our; to all of you; to you; towards you; unto you; with you; you; you sages; your; your good self; yours.}}
+---json
+{
+    "name":"vah",
+    "h1":"vah",
+    "title":"vah -- synonyms, prabhupada.io",
+    "description":"against you; all of you; by you; for all of you; for all of you people; for you; from you; like you; of all of you; of all of you Pāṇḍavas; of all you demigods; of us; of you (the Pāṇḍavas); of you; of you people; one who is; our; to all of you; to you; towards you; unto you; with you; you; you sages; your; your good self; yours."
+}
+---
 
 ==== vaḥ  ====
   * against you --- [[books:sb:3:16:2|SB 3.16.2]]

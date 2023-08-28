@@ -1,5 +1,11 @@
-~~Title:varjita~~
-{{description>devoid of pride.}}
+---json
+{
+    "name":"varjita",
+    "h1":"varjita",
+    "title":"varjita -- synonyms, prabhupada.io",
+    "description":"devoid of pride."
+}
+---
 
 ==== gaurava-varjita  ====
   * devoid of pride --- [[books:cc:adi:4:129|Ādi 4.129]]

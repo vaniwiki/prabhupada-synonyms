@@ -1,5 +1,11 @@
-~~Title:varada~~
-{{description>I shall bless with my benediction.}}
+---json
+{
+    "name":"varada",
+    "h1":"varada",
+    "title":"varada -- synonyms, prabhupada.io",
+    "description":"I shall bless with my benediction."
+}
+---
 
 ==== varadā asmi  ====
   * I shall bless with my benediction --- [[books:sb:9:9:3|SB 9.9.3]]

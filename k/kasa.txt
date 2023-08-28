@@ -1,5 +1,11 @@
-~~Title:kasa~~
-{{description>coughing.}}
+---json
+{
+    "name":"kasa",
+    "h1":"kasa",
+    "title":"kasa -- synonyms, prabhupada.io",
+    "description":"coughing."
+}
+---
 
 ==== kāsa  ====
   * coughing --- [[books:sb:3:30:16|SB 3.30.16]]

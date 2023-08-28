@@ -1,5 +1,11 @@
-~~Title:varsah~~
-{{description>a shower of flower garlands.}}
+---json
+{
+    "name":"varsah",
+    "h1":"varsah",
+    "title":"varsah -- synonyms, prabhupada.io",
+    "description":"a shower of flower garlands."
+}
+---
 
 ==== mālya-varṣāḥ  ====
   * a shower of flower garlands --- [[books:sb:10:5:11|SB 10.5.11]]

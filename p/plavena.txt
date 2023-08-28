@@ -1,5 +1,11 @@
-~~Title:plavena~~
-{{description>by the boat of transcendental knowledge.}}
+---json
+{
+    "name":"plavena",
+    "h1":"plavena",
+    "title":"plavena -- synonyms, prabhupada.io",
+    "description":"by the boat of transcendental knowledge."
+}
+---
 
 ==== jñāna-plavena  ====
   * by the boat of transcendental knowledge --- [[books:bg:4:36|Bg. 4.36]]

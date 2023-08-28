@@ -1,5 +1,11 @@
-~~Title:yavanaiḥ~~
-{{description>and by the Yavanas; by the Yavanas.}}
+---json
+{
+    "name":"yavanaiḥ",
+    "h1":"yavanaiḥ",
+    "title":"yavanaiḥ -- synonyms, prabhupada.io",
+    "description":"and by the Yavanas; by the Yavanas."
+}
+---
 
 ==== yavanaiḥ  ====
   * and by the Yavanas --- [[books:sb:4:28:6|SB 4.28.6]]

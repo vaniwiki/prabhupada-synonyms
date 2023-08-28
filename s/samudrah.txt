@@ -1,5 +1,11 @@
-~~Title:samudrah~~
-{{description>ocean; the demigod of the ocean; the ocean; the sea.}}
+---json
+{
+    "name":"samudrah",
+    "h1":"samudrah",
+    "title":"samudrah -- synonyms, prabhupada.io",
+    "description":"ocean; the demigod of the ocean; the ocean; the sea."
+}
+---
 
 ==== samudraḥ  ====
   * ocean --- [[books:sb:1:12:21|SB 1.12.21]]

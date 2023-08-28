@@ -1,5 +1,11 @@
-~~Title:savyam~~
-{{description>on the left; the left.}}
+---json
+{
+    "name":"savyam",
+    "h1":"savyam",
+    "title":"savyam -- synonyms, prabhupada.io",
+    "description":"on the left; the left."
+}
+---
 
 ==== savyam  ====
   * on the left --- [[books:sb:1:14:13|SB 1.14.13]]

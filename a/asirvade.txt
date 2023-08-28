@@ -1,5 +1,11 @@
-~~Title:āśīrvāde~~
-{{description>blessing; by the blessings.}}
+---json
+{
+    "name":"āśīrvāde",
+    "h1":"āśīrvāde",
+    "title":"āśīrvāde -- synonyms, prabhupada.io",
+    "description":"blessing; by the blessings."
+}
+---
 
 ==== āśīrvāde  ====
   * blessing --- [[books:cc:madhya:7:69|Madhya 7.69]]

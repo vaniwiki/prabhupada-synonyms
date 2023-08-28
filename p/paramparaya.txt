@@ -1,5 +1,11 @@
-~~Title:paramparaya~~
-{{description>by disciplic succession; by hearsay.}}
+---json
+{
+    "name":"paramparaya",
+    "h1":"paramparaya",
+    "title":"paramparaya -- synonyms, prabhupada.io",
+    "description":"by disciplic succession; by hearsay."
+}
+---
 
 ==== paramparāya  ====
   * by disciplic succession --- [[books:cc:madhya:7:118|Madhya 7.118]], [[books:cc:madhya:17:48-49|Madhya 17.48-49]]

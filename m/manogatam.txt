@@ -1,5 +1,11 @@
-~~Title:manogatam~~
-{{description>her desire.}}
+---json
+{
+    "name":"manogatam",
+    "h1":"manogatam",
+    "title":"manogatam -- synonyms, prabhupada.io",
+    "description":"her desire."
+}
+---
 
 ==== manogatam  ====
   * her desire --- [[books:sb:9:18:28|SB 9.18.28]]

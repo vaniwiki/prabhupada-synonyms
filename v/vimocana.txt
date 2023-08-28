@@ -1,5 +1,11 @@
-~~Title:vimocana~~
-{{description>deliverance; freedom; liberation; opening; relieving.}}
+---json
+{
+    "name":"vimocana",
+    "h1":"vimocana",
+    "title":"vimocana -- synonyms, prabhupada.io",
+    "description":"deliverance; freedom; liberation; opening; relieving."
+}
+---
 
 ==== vimocana  ====
   * deliverance --- [[books:cc:madhya:1:102|Madhya 1.102]]

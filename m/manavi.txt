@@ -1,5 +1,11 @@
-~~Title:mānavi~~
-{{description>O daughter of Manu.}}
+---json
+{
+    "name":"mānavi",
+    "h1":"mānavi",
+    "title":"mānavi -- synonyms, prabhupada.io",
+    "description":"O daughter of Manu."
+}
+---
 
 ==== mānavi  ====
   * O daughter of Manu --- [[books:sb:3:23:6|SB 3.23.6]], [[books:sb:3:24:18|SB 3.24.18]], [[books:sb:3:26:17|SB 3.26.17]], [[books:sb:3:29:35|SB 3.29.35]]

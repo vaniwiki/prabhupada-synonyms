@@ -1,5 +1,11 @@
-~~Title:lālayānasya~~
-{{description>maintaining.}}
+---json
+{
+    "name":"lālayānasya",
+    "h1":"lālayānasya",
+    "title":"lālayānasya -- synonyms, prabhupada.io",
+    "description":"maintaining."
+}
+---
 
 ==== lālayānasya  ====
   * maintaining --- [[books:sb:6:1:23|SB 6.1.23]]

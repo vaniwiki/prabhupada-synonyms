@@ -1,5 +1,11 @@
-~~Title:nisūdana~~
-{{description>O killer of the Keśī demon.}}
+---json
+{
+    "name":"nisūdana",
+    "h1":"nisūdana",
+    "title":"nisūdana -- synonyms, prabhupada.io",
+    "description":"O killer of the Keśī demon."
+}
+---
 
 ==== keśi-nisūdana  ====
   * O killer of the Keśī demon --- [[books:bg:18:1|Bg. 18.1]]

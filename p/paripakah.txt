@@ -1,5 +1,11 @@
-~~Title:parīpākaḥ~~
-{{description>the full development.}}
+---json
+{
+    "name":"parīpākaḥ",
+    "h1":"parīpākaḥ",
+    "title":"parīpākaḥ",
+    "description":"the full development."
+}
+---
 
 ==== parīpākaḥ  ====
   * the full development --- [[books:cc:antya:1:138|Antya 1.138]]

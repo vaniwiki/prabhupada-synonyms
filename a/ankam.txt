@@ -1,5 +1,11 @@
-~~Title:aṅkam~~
-{{description>lap; on her lap; on the lap; the lap.}}
+---json
+{
+    "name":"aṅkam",
+    "h1":"aṅkam",
+    "title":"aṅkam",
+    "description":"lap; on her lap; on the lap; the lap."
+}
+---
 
 ==== aṅkam  ====
   * lap --- [[books:sb:4:8:67|SB 4.8.67]]

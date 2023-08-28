@@ -1,5 +1,11 @@
-~~Title:sampluta~~
-{{description>in a great reservoir of water.}}
+---json
+{
+    "name":"sampluta",
+    "h1":"sampluta",
+    "title":"sampluta",
+    "description":"in a great reservoir of water."
+}
+---
 
 ==== sampluta-udake  ====
   * in a great reservoir of water --- [[books:bg:2:46|Bg. 2.46]]

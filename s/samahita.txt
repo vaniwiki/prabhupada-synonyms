@@ -1,5 +1,11 @@
-~~Title:samahita~~
-{{description>always fixed in the mind; steadied.}}
+---json
+{
+    "name":"samahita",
+    "h1":"samahita",
+    "title":"samahita",
+    "description":"always fixed in the mind; steadied."
+}
+---
 
 ==== samāhita  ====
   * always fixed in the mind --- [[books:sb:4:24:71|SB 4.24.71]]

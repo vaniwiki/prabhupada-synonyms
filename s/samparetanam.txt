@@ -1,5 +1,11 @@
-~~Title:samparetānām~~
-{{description>of the dead.}}
+---json
+{
+    "name":"samparetānām",
+    "h1":"samparetānām",
+    "title":"samparetānām",
+    "description":"of the dead."
+}
+---
 
 ==== samparetānām  ====
   * of the dead --- [[books:sb:1:8:1|SB 1.8.1]]

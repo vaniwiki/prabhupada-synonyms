@@ -1,5 +1,11 @@
-~~Title:prasarana~~
-{{description>amiability.}}
+---json
+{
+    "name":"prasarana",
+    "h1":"prasarana",
+    "title":"prasarana",
+    "description":"amiability."
+}
+---
 
 ==== prasaraṇa  ====
   * amiability --- [[books:sb:5:1:29|SB 5.1.29]]

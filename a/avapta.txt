@@ -1,5 +1,11 @@
-~~Title:avāpta~~
-{{description>sufficiently a gainer.}}
+---json
+{
+    "name":"avāpta",
+    "h1":"avāpta",
+    "title":"avāpta",
+    "description":"sufficiently a gainer."
+}
+---
 
 ==== avāpta  ====
   * sufficiently a gainer --- [[books:sb:1:13:1|SB 1.13.1]]

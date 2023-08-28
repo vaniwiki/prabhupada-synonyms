@@ -1,5 +1,11 @@
-~~Title:puṣpaḥ~~
-{{description>Puṣpa.}}
+---json
+{
+    "name":"puṣpaḥ",
+    "h1":"puṣpaḥ",
+    "title":"puṣpaḥ",
+    "description":"Puṣpa."
+}
+---
 
 ==== puṣpaḥ  ====
   * Puṣpa --- [[books:sb:9:12:5|SB 9.12.5]]

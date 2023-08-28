@@ -1,5 +1,11 @@
-~~Title:yācyamānāḥ~~
-{{description>being begged for the life of her husband.}}
+---json
+{
+    "name":"yācyamānāḥ",
+    "h1":"yācyamānāḥ",
+    "title":"yācyamānāḥ",
+    "description":"being begged for the life of her husband."
+}
+---
 
 ==== yācyamānāḥ  ====
   * being begged for the life of her husband --- [[books:sb:9:16:12|SB 9.16.12]]

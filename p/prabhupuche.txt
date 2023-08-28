@@ -1,5 +1,11 @@
-~~Title:prabhupuche~~
-{{description>the Lord inquires.}}
+---json
+{
+    "name":"prabhupuche",
+    "h1":"prabhupuche",
+    "title":"prabhupuche",
+    "description":"the Lord inquires."
+}
+---
 
 ==== prabhupuche  ====
   * the Lord inquires --- [[books:cc:madhya:8:244|Madhya 8.244]]

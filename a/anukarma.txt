@@ -1,5 +1,11 @@
-~~Title:anukarma~~
-{{description>whose hearts are attracted by fruitive activities.}}
+---json
+{
+    "name":"anukarma",
+    "h1":"anukarma",
+    "title":"anukarma",
+    "description":"whose hearts are attracted by fruitive activities."
+}
+---
 
 ==== anukarma-cetaḥsu  ====
   * whose hearts are attracted by fruitive activities --- [[books:sb:4:6:49|SB 4.6.49]]

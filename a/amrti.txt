@@ -1,5 +1,11 @@
-~~Title:amṛti~~
-{{description>a preparation generally called amṛti-jilipi, made with rice powder and chick-pea flour, mixed with yogurt, fried in ghee and immersed in sugar water; a sweet prepared from rice flour.}}
+---json
+{
+    "name":"amṛti",
+    "h1":"amṛti",
+    "title":"amṛti",
+    "description":"a preparation generally called amṛti-jilipi, made with rice powder and chick-pea flour, mixed with yogurt, fried in ghee and immersed in sugar water; a sweet prepared from rice flour."
+}
+---
 
 ==== amṛti  ====
   * a preparation generally called //amṛti-jilipi,// made with rice powder and chick-pea flour, mixed with yogurt, fried in ghee and immersed in sugar water --- [[books:cc:madhya:14:30|Madhya 14.30]]

@@ -1,5 +1,11 @@
-~~Title:dhiṣaṇāt~~
-{{description>from sober intelligence; from the abode.}}
+---json
+{
+    "name":"dhiṣaṇāt",
+    "h1":"dhiṣaṇāt",
+    "title":"dhiṣaṇāt",
+    "description":"from sober intelligence; from the abode."
+}
+---
 
 ==== dhiṣaṇāt  ====
   * from sober intelligence --- [[books:sb:8:5:39|SB 8.5.39]]

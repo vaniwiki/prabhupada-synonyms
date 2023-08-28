@@ -1,5 +1,11 @@
-~~Title:īkṣitena~~
-{{description>by the playful glancing.}}
+---json
+{
+    "name":"īkṣitena",
+    "h1":"īkṣitena",
+    "title":"īkṣitena",
+    "description":"by the playful glancing."
+}
+---
 
 ==== līlā-īkṣitena  ====
   * by the playful glancing --- [[books:cc:madhya:23:65|Madhya 23.65]]

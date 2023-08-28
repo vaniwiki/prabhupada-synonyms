@@ -1,5 +1,11 @@
-~~Title:niṣpluṣṭa~~
-{{description>being burnt by.}}
+---json
+{
+    "name":"niṣpluṣṭa",
+    "h1":"niṣpluṣṭa",
+    "title":"niṣpluṣṭa",
+    "description":"being burnt by."
+}
+---
 
 ==== niṣpluṣṭa  ====
   * being burnt by --- [[books:sb:2:7:9|SB 2.7.9]]

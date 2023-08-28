@@ -1,5 +1,11 @@
-~~Title:dagdhah~~
-{{description>burned.}}
+---json
+{
+    "name":"dagdhah",
+    "h1":"dagdhah",
+    "title":"dagdhah",
+    "description":"burned."
+}
+---
 
 ==== dagdhaḥ  ====
   * burned --- [[books:sb:4:7:35|SB 4.7.35]]

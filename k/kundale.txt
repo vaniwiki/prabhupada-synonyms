@@ -1,5 +1,11 @@
-~~Title:kuṇḍale~~
-{{description>the two earrings; two earrings.}}
+---json
+{
+    "name":"kuṇḍale",
+    "h1":"kuṇḍale",
+    "title":"kuṇḍale",
+    "description":"the two earrings; two earrings."
+}
+---
 
 ==== kuṇḍale  ====
   * the two earrings --- [[books:sb:10:9:3|SB 10.9.3]]

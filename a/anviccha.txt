@@ -1,5 +1,11 @@
-~~Title:anviccha~~
-{{description>desire; try to find out.}}
+---json
+{
+    "name":"anviccha",
+    "h1":"anviccha",
+    "title":"anviccha",
+    "description":"desire; try to find out."
+}
+---
 
 ==== anviccha  ====
   * desire --- [[books:bg:2:49|Bg. 2.49]]

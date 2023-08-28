@@ -1,5 +1,11 @@
-~~Title:dhṛṣṭadyumna~~
-{{description>headed by Dhṛṣṭadyumna.}}
+---json
+{
+    "name":"dhṛṣṭadyumna",
+    "h1":"dhṛṣṭadyumna",
+    "title":"dhṛṣṭadyumna",
+    "description":"headed by Dhṛṣṭadyumna."
+}
+---
 
 ==== dhṛṣṭadyumna-ādayaḥ  ====
   * headed by Dhṛṣṭadyumna --- [[books:sb:9:22:3|SB 9.22.3]]

@@ -1,5 +1,11 @@
-~~Title:svanusthitat~~
-{{description>than perfectly done.}}
+---json
+{
+    "name":"svanusthitat",
+    "h1":"svanusthitat",
+    "title":"svanusthitat",
+    "description":"than perfectly done."
+}
+---
 
 ==== svanuṣthitāt  ====
   * than perfectly done --- [[books:bg:3:35|Bg. 3.35]]

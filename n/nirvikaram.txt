@@ -1,5 +1,11 @@
-~~Title:nirvikāram~~
-{{description>without change, the same form of Viṣṇu perpetually.}}
+---json
+{
+    "name":"nirvikāram",
+    "h1":"nirvikāram",
+    "title":"nirvikāram",
+    "description":"without change, the same form of Viṣṇu perpetually."
+}
+---
 
 ==== nirvikāram  ====
   * without change, the same form of Viṣṇu perpetually --- [[books:sb:10:3:24|SB 10.3.24]]

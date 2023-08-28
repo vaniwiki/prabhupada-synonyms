@@ -1,5 +1,11 @@
-~~Title:visphūrjita~~
-{{description>outside; simply by expansion.}}
+---json
+{
+    "name":"visphūrjita",
+    "h1":"visphūrjita",
+    "title":"visphūrjita",
+    "description":"outside; simply by expansion."
+}
+---
 
 ==== visphūrjita  ====
   * outside --- [[books:sb:8:3:16|SB 8.3.16]]

@@ -1,5 +1,11 @@
-~~Title:haba~~
-{{description>I shall.}}
+---json
+{
+    "name":"haba",
+    "h1":"haba",
+    "title":"haba",
+    "description":"I shall."
+}
+---
 
 ==== haba  ====
   * I shall --- [[books:cc:adi:4:268|Ādi 4.268]]

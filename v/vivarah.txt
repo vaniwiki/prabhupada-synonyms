@@ -1,5 +1,11 @@
-~~Title:vivarāḥ~~
-{{description>different holes of the universe.}}
+---json
+{
+    "name":"vivarāḥ",
+    "h1":"vivarāḥ",
+    "title":"vivarāḥ",
+    "description":"different holes of the universe."
+}
+---
 
 ==== vivarāḥ  ====
   * different holes of the universe --- [[books:sb:8:20:21|SB 8.20.21]]

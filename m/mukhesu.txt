@@ -1,5 +1,11 @@
-~~Title:mukheṣu~~
-{{description>on the mouth.}}
+---json
+{
+    "name":"mukheṣu",
+    "h1":"mukheṣu",
+    "title":"mukheṣu",
+    "description":"on the mouth."
+}
+---
 
 ==== mukheṣu  ====
   * on the mouth --- [[books:sb:5:23:7|SB 5.23.7]]

@@ -1,5 +1,11 @@
-~~Title:syama~~
-{{description>become; shall exist.}}
+---json
+{
+    "name":"syama",
+    "h1":"syama",
+    "title":"syama",
+    "description":"become; shall exist."
+}
+---
 
 ==== syāma  ====
   * become --- [[books:bg:1:36|Bg. 1.36]]

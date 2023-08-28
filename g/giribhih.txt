@@ -1,5 +1,11 @@
-~~Title:giribhiḥ~~
-{{description>by mountains.}}
+---json
+{
+    "name":"giribhiḥ",
+    "h1":"giribhiḥ",
+    "title":"giribhiḥ",
+    "description":"by mountains."
+}
+---
 
 ==== giribhiḥ  ====
   * by mountains --- [[books:sb:5:16:6|SB 5.16.6]]

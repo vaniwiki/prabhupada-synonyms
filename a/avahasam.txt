@@ -1,5 +1,11 @@
-~~Title:avahāsam~~
-{{description>insult.}}
+---json
+{
+    "name":"avahāsam",
+    "h1":"avahāsam",
+    "title":"avahāsam",
+    "description":"insult."
+}
+---
 
 ==== avahāsam  ====
   * insult --- [[books:sb:4:15:24|SB 4.15.24]]

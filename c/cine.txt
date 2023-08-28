@@ -1,5 +1,11 @@
-~~Title:cine~~
-{{description>knows; recognized.}}
+---json
+{
+    "name":"cine",
+    "h1":"cine",
+    "title":"cine",
+    "description":"knows; recognized."
+}
+---
 
 ==== cine  ====
   * knows --- [[books:cc:madhya:11:71|Madhya 11.71]]

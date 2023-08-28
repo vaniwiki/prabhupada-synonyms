@@ -1,5 +1,11 @@
-~~Title:nidhau~~
-{{description>in the ocean.}}
+---json
+{
+    "name":"nidhau",
+    "h1":"nidhau",
+    "title":"nidhau",
+    "description":"in the ocean."
+}
+---
 
 ==== nidhau  ====
   * in the ocean --- [[books:sb:4:29:41|SB 4.29.41]]

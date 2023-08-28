@@ -1,5 +1,11 @@
-~~Title:vilīnaḥ~~
-{{description>hidden.}}
+---json
+{
+    "name":"vilīnaḥ",
+    "h1":"vilīnaḥ",
+    "title":"vilīnaḥ",
+    "description":"hidden."
+}
+---
 
 ==== vilīnaḥ  ====
   * hidden --- [[books:sb:7:2:56|SB 7.2.56]]

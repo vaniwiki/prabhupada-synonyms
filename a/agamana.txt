@@ -1,5 +1,11 @@
-~~Title:āgamana~~
-{{description>about the arrival; appearance; appearing; approaching; arrival; coming; coming back; coming here; coming to Jagannātha Purī; return; the arrival; the coming; there is the presence here.}}
+---json
+{
+    "name":"āgamana",
+    "h1":"āgamana",
+    "title":"āgamana",
+    "description":"about the arrival; appearance; appearing; approaching; arrival; coming; coming back; coming here; coming to Jagannātha Purī; return; the arrival; the coming; there is the presence here."
+}
+---
 
 ==== āgamana  ====
   * about the arrival --- [[books:cc:madhya:1:152|Madhya 1.152]], [[books:cc:madhya:5:104|Madhya 5.104]]

@@ -1,5 +1,11 @@
-~~Title:virocamāne~~
-{{description>shining.}}
+---json
+{
+    "name":"virocamāne",
+    "h1":"virocamāne",
+    "title":"virocamāne",
+    "description":"shining."
+}
+---
 
 ==== virocamāne  ====
   * shining --- [[books:sb:5:7:7|SB 5.7.7]]

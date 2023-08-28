@@ -1,5 +1,11 @@
-~~Title:vyavāya~~
-{{description>sexual activities; sexual intercourse; to sex life.}}
+---json
+{
+    "name":"vyavāya",
+    "h1":"vyavāya",
+    "title":"vyavāya",
+    "description":"sexual activities; sexual intercourse; to sex life."
+}
+---
 
 ==== vyavāya  ====
   * sexual activities --- [[books:sb:6:4:52|SB 6.4.52]]

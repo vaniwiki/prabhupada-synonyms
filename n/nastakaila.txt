@@ -1,5 +1,11 @@
-~~Title:naṣṭakaila~~
-{{description>spoiled.}}
+---json
+{
+    "name":"naṣṭakaila",
+    "h1":"naṣṭakaila",
+    "title":"naṣṭakaila",
+    "description":"spoiled."
+}
+---
 
 ==== naṣṭakaila  ====
   * spoiled --- [[books:cc:adi:17:210|Ādi 17.210]]

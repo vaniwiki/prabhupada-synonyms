@@ -1,5 +1,11 @@
-~~Title:prāduḥ~~
-{{description>manifest.}}
+---json
+{
+    "name":"prāduḥ",
+    "h1":"prāduḥ",
+    "title":"prāduḥ",
+    "description":"manifest."
+}
+---
 
 ==== prāduḥ  ====
   * manifest --- [[books:sb:4:7:18|SB 4.7.18]]

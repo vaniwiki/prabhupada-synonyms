@@ -1,5 +1,11 @@
-~~Title:stanayitnunā~~
-{{description>with thundering.}}
+---json
+{
+    "name":"stanayitnunā",
+    "h1":"stanayitnunā",
+    "title":"stanayitnunā",
+    "description":"with thundering."
+}
+---
 
 ==== stanayitnunā  ====
   * with thundering --- [[books:sb:4:10:23|SB 4.10.23]]

@@ -1,5 +1,11 @@
-~~Title:pāite~~
-{{description>to obtain; to receive.}}
+---json
+{
+    "name":"pāite",
+    "h1":"pāite",
+    "title":"pāite",
+    "description":"to obtain; to receive."
+}
+---
 
 ==== pāite  ====
   * to obtain --- [[books:cc:adi:3:15|Ādi 3.15]], [[books:cc:adi:4:134|Ādi 4.134]]

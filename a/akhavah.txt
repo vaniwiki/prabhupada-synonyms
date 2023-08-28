@@ -1,5 +1,11 @@
-~~Title:ākhavaḥ~~
-{{description>rats.}}
+---json
+{
+    "name":"ākhavaḥ",
+    "h1":"ākhavaḥ",
+    "title":"ākhavaḥ",
+    "description":"rats."
+}
+---
 
 ==== ākhavaḥ  ====
   * rats --- [[books:sb:4:14:3|SB 4.14.3]]

@@ -1,5 +1,11 @@
-~~Title:tripada~~
-{{description>three steps.}}
+---json
+{
+    "name":"tripada",
+    "h1":"tripada",
+    "title":"tripada",
+    "description":"three steps."
+}
+---
 
 ==== tripada  ====
   * three steps --- [[books:sb:2:7:17|SB 2.7.17]]

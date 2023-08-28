@@ -1,5 +1,11 @@
-~~Title:satyasena~~
-{{description>the avatāra named Satyasena.}}
+---json
+{
+    "name":"satyasena",
+    "h1":"satyasena",
+    "title":"satyasena",
+    "description":"the avatāra named Satyasena."
+}
+---
 
 ==== satyasena  ====
   * the avatāra named Satyasena --- [[books:cc:madhya:20:325|Madhya 20.325]]

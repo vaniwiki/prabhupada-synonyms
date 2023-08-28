@@ -1,5 +1,11 @@
-~~Title:akulam~~
-{{description>overwhelmed.}}
+---json
+{
+    "name":"akulam",
+    "h1":"akulam",
+    "title":"akulam",
+    "description":"overwhelmed."
+}
+---
 
 ==== ākulām  ====
   * overwhelmed --- [[books:cc:adi:4:260|Ādi 4.260]]

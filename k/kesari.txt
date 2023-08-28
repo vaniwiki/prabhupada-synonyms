@@ -1,5 +1,11 @@
-~~Title:keśarī~~
-{{description>like a lioness.}}
+---json
+{
+    "name":"keśarī",
+    "h1":"keśarī",
+    "title":"keśarī",
+    "description":"like a lioness."
+}
+---
 
 ==== keśarī iva  ====
   * like a lioness --- [[books:cc:madhya:8:6|Madhya 8.6]]

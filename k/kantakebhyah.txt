@@ -1,5 +1,11 @@
-~~Title:kaṇṭakebhyaḥ~~
-{{description>and thorns.}}
+---json
+{
+    "name":"kaṇṭakebhyaḥ",
+    "h1":"kaṇṭakebhyaḥ",
+    "title":"kaṇṭakebhyaḥ",
+    "description":"and thorns."
+}
+---
 
 ==== kaṇṭakebhyaḥ  ====
   * and thorns --- [[books:sb:10:8:25|SB 10.8.25]]

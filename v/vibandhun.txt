@@ -1,5 +1,11 @@
-~~Title:vibandhūn~~
-{{description>having no guardian (father).}}
+---json
+{
+    "name":"vibandhūn",
+    "h1":"vibandhūn",
+    "title":"vibandhūn",
+    "description":"having no guardian (father)."
+}
+---
 
 ==== vibandhūn  ====
   * having no guardian (father) --- [[books:sb:3:1:6|SB 3.1.6]]

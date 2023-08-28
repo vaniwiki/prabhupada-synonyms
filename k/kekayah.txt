@@ -1,5 +1,11 @@
-~~Title:kekayaḥ~~
-{{description>Kekaya.}}
+---json
+{
+    "name":"kekayaḥ",
+    "h1":"kekayaḥ",
+    "title":"kekayaḥ",
+    "description":"Kekaya."
+}
+---
 
 ==== kekayaḥ  ====
   * Kekaya --- [[books:sb:9:23:3-4|SB 9.23.3-4]]

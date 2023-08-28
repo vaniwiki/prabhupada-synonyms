@@ -1,5 +1,11 @@
-~~Title:śudhite~~
-{{description>to pay back.}}
+---json
+{
+    "name":"śudhite",
+    "h1":"śudhite",
+    "title":"śudhite",
+    "description":"to pay back."
+}
+---
 
 ==== śudhite  ====
   * to pay back --- [[books:cc:antya:12:70|Antya 12.70]]

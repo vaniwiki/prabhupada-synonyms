@@ -1,5 +1,11 @@
-~~Title:utsarpayan~~
-{{description>thus placing.}}
+---json
+{
+    "name":"utsarpayan",
+    "h1":"utsarpayan",
+    "title":"utsarpayan",
+    "description":"thus placing."
+}
+---
 
 ==== utsarpayan  ====
   * thus placing --- [[books:sb:4:23:15|SB 4.23.15]]

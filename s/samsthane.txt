@@ -1,5 +1,11 @@
-~~Title:saṁsthāne~~
-{{description>habitat not fit for a gentleman.}}
+---json
+{
+    "name":"saṁsthāne",
+    "h1":"saṁsthāne",
+    "title":"saṁsthāne",
+    "description":"habitat not fit for a gentleman."
+}
+---
 
 ==== asat-saṁsthāne  ====
   * habitat not fit for a gentleman --- [[books:sb:5:5:30|SB 5.5.30]]

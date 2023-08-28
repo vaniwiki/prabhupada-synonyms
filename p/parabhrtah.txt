@@ -1,5 +1,11 @@
-~~Title:parabhṛtaḥ~~
-{{description>maintainers of others.}}
+---json
+{
+    "name":"parabhṛtaḥ",
+    "h1":"parabhṛtaḥ",
+    "title":"parabhṛtaḥ",
+    "description":"maintainers of others."
+}
+---
 
 ==== parabhṛtaḥ  ====
   * maintainers of others --- [[books:cc:madhya:23:114|Madhya 23.114]]

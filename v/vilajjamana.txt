@@ -1,5 +1,11 @@
-~~Title:vilajjamānā~~
-{{description>being ashamed of.}}
+---json
+{
+    "name":"vilajjamānā",
+    "h1":"vilajjamānā",
+    "title":"vilajjamānā",
+    "description":"being ashamed of."
+}
+---
 
 ==== vilajjamānā  ====
   * being ashamed of --- [[books:sb:2:7:47|SB 2.7.47]]

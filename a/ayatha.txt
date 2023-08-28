@@ -1,5 +1,11 @@
-~~Title:ayathā~~
-{{description>falsely; inappropriate; unfitly; unnecessary.}}
+---json
+{
+    "name":"ayathā",
+    "h1":"ayathā",
+    "title":"ayathā",
+    "description":"falsely; inappropriate; unfitly; unnecessary."
+}
+---
 
 ==== ayathā  ====
   * falsely --- [[books:sb:5:18:31|SB 5.18.31]]

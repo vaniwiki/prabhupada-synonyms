@@ -1,5 +1,11 @@
-~~Title:ulmukaḥ~~
-{{description>Ulmuka.}}
+---json
+{
+    "name":"ulmukaḥ",
+    "h1":"ulmukaḥ",
+    "title":"ulmukaḥ",
+    "description":"Ulmuka."
+}
+---
 
 ==== ulmukaḥ  ====
   * Ulmuka --- [[books:sb:4:13:17|SB 4.13.17]]

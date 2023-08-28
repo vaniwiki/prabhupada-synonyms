@@ -1,5 +1,11 @@
-~~Title:karā'la~~
-{{description>made to do.}}
+---json
+{
+    "name":"karā'la",
+    "h1":"karā'la",
+    "title":"karā'la",
+    "description":"made to do."
+}
+---
 
 ==== karā'la  ====
   * made to do --- [[books:cc:madhya:3:59|Madhya 3.59]]

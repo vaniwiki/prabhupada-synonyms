@@ -1,5 +1,11 @@
-~~Title:hitāya~~
-{{description>beneficial; for the welfare.}}
+---json
+{
+    "name":"hitāya",
+    "h1":"hitāya",
+    "title":"hitāya",
+    "description":"beneficial; for the welfare."
+}
+---
 
 ==== hitāya  ====
   * beneficial --- [[books:cc:madhya:13:77|Madhya 13.77]]

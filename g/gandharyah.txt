@@ -1,5 +1,11 @@
-~~Title:gāndhāryāḥ~~
-{{description>of Gāndhārī.}}
+---json
+{
+    "name":"gāndhāryāḥ",
+    "h1":"gāndhāryāḥ",
+    "title":"gāndhāryāḥ",
+    "description":"of Gāndhārī."
+}
+---
 
 ==== gāndhāryāḥ  ====
   * of Gāndhārī --- [[books:sb:1:13:37|SB 1.13.37]]

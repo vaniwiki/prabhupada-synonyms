@@ -1,5 +1,11 @@
-~~Title:kīrtau~~
-{{description>in Kīrti.}}
+---json
+{
+    "name":"kīrtau",
+    "h1":"kīrtau",
+    "title":"kīrtau",
+    "description":"in Kīrti."
+}
+---
 
 ==== kīrtau  ====
   * in Kīrti --- [[books:sb:6:18:8|SB 6.18.8]]

@@ -1,5 +1,11 @@
-~~Title:vaiśākhe~~
-{{description>in the month of Vaiśākha (April-May).}}
+---json
+{
+    "name":"vaiśākhe",
+    "h1":"vaiśākhe",
+    "title":"vaiśākhe",
+    "description":"in the month of Vaiśākha (April-May)."
+}
+---
 
 ==== vaiśākhe  ====
   * in the month of Vaiśākha (April-May) --- [[books:cc:madhya:20:199|Madhya 20.199]]

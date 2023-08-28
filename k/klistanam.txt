@@ -1,5 +1,11 @@
-~~Title:kliṣṭānām~~
-{{description>afflicted with miseries; who are suffering from material conditions.}}
+---json
+{
+    "name":"kliṣṭānām",
+    "h1":"kliṣṭānām",
+    "title":"kliṣṭānām",
+    "description":"afflicted with miseries; who are suffering from material conditions."
+}
+---
 
 ==== kliṣṭānām  ====
   * afflicted with miseries --- [[books:sb:3:20:27|SB 3.20.27]]

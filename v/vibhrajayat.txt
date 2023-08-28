@@ -1,5 +1,11 @@
-~~Title:vibhrājayat~~
-{{description>illuminating.}}
+---json
+{
+    "name":"vibhrājayat",
+    "h1":"vibhrājayat",
+    "title":"vibhrājayat",
+    "description":"illuminating."
+}
+---
 
 ==== vibhrājayat  ====
   * illuminating --- [[books:sb:4:12:19|SB 4.12.19]]

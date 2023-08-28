@@ -1,5 +1,11 @@
-~~Title:nibadhnīhi~~
-{{description>bind.}}
+---json
+{
+    "name":"nibadhnīhi",
+    "h1":"nibadhnīhi",
+    "title":"nibadhnīhi",
+    "description":"bind."
+}
+---
 
 ==== nibadhnīhi  ====
   * bind --- [[books:sb:8:24:36|SB 8.24.36]]

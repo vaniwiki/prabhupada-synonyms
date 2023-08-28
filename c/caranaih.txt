@@ -1,5 +1,11 @@
-~~Title:caranaih~~
-{{description>with their feet.}}
+---json
+{
+    "name":"caranaih",
+    "h1":"caranaih",
+    "title":"caranaih",
+    "description":"with their feet."
+}
+---
 
 ==== caraṇaiḥ  ====
   * with their feet --- [[books:sb:3:17:17|SB 3.17.17]]

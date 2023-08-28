@@ -1,5 +1,11 @@
-~~Title:bhetavyam~~
-{{description>should be afraid; to be feared.}}
+---json
+{
+    "name":"bhetavyam",
+    "h1":"bhetavyam",
+    "title":"bhetavyam",
+    "description":"should be afraid; to be feared."
+}
+---
 
 ==== bhetavyam  ====
   * should be afraid --- [[books:sb:8:6:25|SB 8.6.25]]

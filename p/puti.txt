@@ -1,5 +1,11 @@
-~~Title:pūti~~
-{{description>offensive.}}
+---json
+{
+    "name":"pūti",
+    "h1":"pūti",
+    "title":"pūti",
+    "description":"offensive."
+}
+---
 
 ==== pūti  ====
   * offensive --- [[books:sb:3:26:45|SB 3.26.45]]

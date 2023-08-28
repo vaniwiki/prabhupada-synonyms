@@ -1,5 +1,11 @@
-~~Title:gana~~
-{{description>assembly; associates; by hosts; congregation; crowds; descendants; devotees; followers; group; multitudes; of crowds; of groups; party of gopīs; the companions; the group; the groups; the sum total; with clusters.}}
+---json
+{
+    "name":"gana",
+    "h1":"gana",
+    "title":"gana",
+    "description":"assembly; associates; by hosts; congregation; crowds; descendants; devotees; followers; group; multitudes; of crowds; of groups; party of gopīs; the companions; the group; the groups; the sum total; with clusters."
+}
+---
 
 ==== gaṇa  ====
   * assembly --- [[books:cc:adi:13:66|Ādi 13.66]]

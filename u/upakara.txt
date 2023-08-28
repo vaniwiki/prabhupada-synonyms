@@ -1,5 +1,11 @@
-~~Title:upakāra~~
-{{description>benefit; welfare.}}
+---json
+{
+    "name":"upakāra",
+    "h1":"upakāra",
+    "title":"upakāra",
+    "description":"benefit; welfare."
+}
+---
 
 ==== upakāra  ====
   * benefit --- [[books:cc:adi:9:41|Ādi 9.41]], [[books:cc:adi:17:162|Ādi 17.162]]

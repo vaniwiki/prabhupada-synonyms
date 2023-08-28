@@ -1,5 +1,11 @@
-~~Title:paripanthinām~~
-{{description>of those who are against religious principles.}}
+---json
+{
+    "name":"paripanthinām",
+    "h1":"paripanthinām",
+    "title":"paripanthinām",
+    "description":"of those who are against religious principles."
+}
+---
 
 ==== tat-paripanthinām  ====
   * of those who are against religious principles --- [[books:sb:4:16:4|SB 4.16.4]]

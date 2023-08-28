@@ -1,5 +1,11 @@
-~~Title:vaivasvataḥ~~
-{{description>the son of the sun-god.}}
+---json
+{
+    "name":"vaivasvataḥ",
+    "h1":"vaivasvataḥ",
+    "title":"vaivasvataḥ",
+    "description":"the son of the sun-god."
+}
+---
 
 ==== vaivasvataḥ  ====
   * the son of the sun-god --- [[books:sb:5:26:6|SB 5.26.6]]

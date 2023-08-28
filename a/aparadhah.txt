@@ -1,5 +1,11 @@
-~~Title:aparādhaḥ~~
-{{description>offense.}}
+---json
+{
+    "name":"aparādhaḥ",
+    "h1":"aparādhaḥ",
+    "title":"aparādhaḥ",
+    "description":"offense."
+}
+---
 
 ==== aparādhaḥ  ====
   * offense --- [[books:sb:10:1:48|SB 10.1.48]]

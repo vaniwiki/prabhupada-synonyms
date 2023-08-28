@@ -1,5 +1,11 @@
-~~Title:mahiṣyau~~
-{{description>queens.}}
+---json
+{
+    "name":"mahiṣyau",
+    "h1":"mahiṣyau",
+    "title":"mahiṣyau",
+    "description":"queens."
+}
+---
 
 ==== mahiṣyau  ====
   * queens --- [[books:sb:4:9:41|SB 4.9.41]]

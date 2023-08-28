@@ -1,5 +1,11 @@
-~~Title:samprārthitaḥ~~
-{{description>being eagerly requested.}}
+---json
+{
+    "name":"samprārthitaḥ",
+    "h1":"samprārthitaḥ",
+    "title":"samprārthitaḥ",
+    "description":"being eagerly requested."
+}
+---
 
 ==== samprārthitaḥ  ====
   * being eagerly requested --- [[books:sb:10:8:11|SB 10.8.11]]

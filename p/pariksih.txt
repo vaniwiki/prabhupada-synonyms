@@ -1,5 +1,11 @@
-~~Title:parīkṣiḥ~~
-{{description>the son of Kuru named Parīkṣi.}}
+---json
+{
+    "name":"parīkṣiḥ",
+    "h1":"parīkṣiḥ",
+    "title":"parīkṣiḥ",
+    "description":"the son of Kuru named Parīkṣi."
+}
+---
 
 ==== parīkṣiḥ  ====
   * the son of Kuru named Parīkṣi --- [[books:sb:9:22:9|SB 9.22.9]]

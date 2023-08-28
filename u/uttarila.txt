@@ -1,5 +1,11 @@
-~~Title:uttarila~~
-{{description>landed; reached.}}
+---json
+{
+    "name":"uttarila",
+    "h1":"uttarila",
+    "title":"uttarila",
+    "description":"landed; reached."
+}
+---
 
 ==== uttarila  ====
   * landed --- [[books:cc:madhya:19:83|Madhya 19.83]]

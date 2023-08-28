@@ -1,5 +1,11 @@
-~~Title:pracetobhiḥ~~
-{{description>by the Pracetās.}}
+---json
+{
+    "name":"pracetobhiḥ",
+    "h1":"pracetobhiḥ",
+    "title":"pracetobhiḥ",
+    "description":"by the Pracetās."
+}
+---
 
 ==== pracetobhiḥ  ====
   * by the Pracetās --- [[books:sb:4:30:43|SB 4.30.43]]

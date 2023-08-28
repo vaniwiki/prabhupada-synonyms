@@ -1,5 +1,11 @@
-~~Title:paraśurāme~~
-{{description>in Paraśurāma.}}
+---json
+{
+    "name":"paraśurāme",
+    "h1":"paraśurāme",
+    "title":"paraśurāme",
+    "description":"in Paraśurāma."
+}
+---
 
 ==== paraśurāme  ====
   * in Paraśurāma --- [[books:cc:madhya:20:372|Madhya 20.372]]

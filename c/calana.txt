@@ -1,5 +1,11 @@
-~~Title:calana~~
-{{description>in moving.}}
+---json
+{
+    "name":"calana",
+    "h1":"calana",
+    "title":"calana",
+    "description":"in moving."
+}
+---
 
 ==== cālana  ====
   * in moving --- [[books:cc:madhya:24:24|Madhya 24.24]]

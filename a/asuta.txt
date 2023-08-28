@@ -1,5 +1,11 @@
-~~Title:asūta~~
-{{description>begot; delivered; gave birth; gave birth to; produced.}}
+---json
+{
+    "name":"asūta",
+    "h1":"asūta",
+    "title":"asūta",
+    "description":"begot; delivered; gave birth; gave birth to; produced."
+}
+---
 
 ==== asūta  ====
   * begot --- [[books:sb:4:1:14|SB 4.1.14]]

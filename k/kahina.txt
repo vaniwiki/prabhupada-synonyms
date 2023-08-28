@@ -1,5 +1,11 @@
-~~Title:kahiñā~~
-{{description>telling.}}
+---json
+{
+    "name":"kahiñā",
+    "h1":"kahiñā",
+    "title":"kahiñā",
+    "description":"telling."
+}
+---
 
 ==== kahiñā  ====
   * telling --- [[books:cc:madhya:1:174|Madhya 1.174]]

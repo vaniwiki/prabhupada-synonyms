@@ -1,5 +1,11 @@
-~~Title:rajasam~~
-{{description>in terms of passion; in the mode of passion.}}
+---json
+{
+    "name":"rajasam",
+    "h1":"rajasam",
+    "title":"rajasam",
+    "description":"in terms of passion; in the mode of passion."
+}
+---
 
 ==== rājasam  ====
   * in terms of passion --- [[books:bg:18:21|Bg. 18.21]]

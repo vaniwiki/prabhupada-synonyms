@@ -1,5 +1,11 @@
-~~Title:mahītalam~~
-{{description>the material world; the planetary system named Mahītala.}}
+---json
+{
+    "name":"mahītalam",
+    "h1":"mahītalam",
+    "title":"mahītalam",
+    "description":"the material world; the planetary system named Mahītala."
+}
+---
 
 ==== mahītalam  ====
   * the material world --- [[books:sb:5:1:23|SB 5.1.23]]

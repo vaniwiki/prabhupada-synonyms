@@ -1,5 +1,11 @@
-~~Title:dik~~
-{{description>directions; open space; the controller of directions; the directions.}}
+---json
+{
+    "name":"dik",
+    "h1":"dik",
+    "title":"dik",
+    "description":"directions; open space; the controller of directions; the directions."
+}
+---
 
 ==== dik  ====
   * directions --- [[books:sb:5:26:40|SB 5.26.40]], [[books:cc:adi:13:97|Ādi 13.97]]

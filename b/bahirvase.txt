@@ -1,5 +1,11 @@
-~~Title:bahirvāse~~
-{{description>on a covering cloth.}}
+---json
+{
+    "name":"bahirvāse",
+    "h1":"bahirvāse",
+    "title":"bahirvāse",
+    "description":"on a covering cloth."
+}
+---
 
 ==== bahirvāse  ====
   * on a covering cloth --- [[books:cc:antya:18:73|Antya 18.73]]

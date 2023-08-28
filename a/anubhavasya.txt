@@ -1,5 +1,11 @@
-~~Title:anubhavasya~~
-{{description>whose influence.}}
+---json
+{
+    "name":"anubhavasya",
+    "h1":"anubhavasya",
+    "title":"anubhavasya",
+    "description":"whose influence."
+}
+---
 
 ==== anubhāvasya  ====
   * whose influence --- [[books:sb:5:1:23|SB 5.1.23]]

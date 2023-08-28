@@ -1,5 +1,11 @@
-~~Title:asaṁsaktaḥ~~
-{{description>being unattached.}}
+---json
+{
+    "name":"asaṁsaktaḥ",
+    "h1":"asaṁsaktaḥ",
+    "title":"asaṁsaktaḥ",
+    "description":"being unattached."
+}
+---
 
 ==== asaṁsaktaḥ  ====
   * being unattached --- [[books:sb:4:20:6|SB 4.20.6]]

@@ -1,5 +1,11 @@
-~~Title:prasaṅgena~~
-{{description>by topics connected; for that; in the matter of indulging.}}
+---json
+{
+    "name":"prasaṅgena",
+    "h1":"prasaṅgena",
+    "title":"prasaṅgena",
+    "description":"by topics connected; for that; in the matter of indulging."
+}
+---
 
 ==== prasaṅgena  ====
   * by topics connected --- [[books:sb:3:22:36|SB 3.22.36]]

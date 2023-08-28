@@ -1,5 +1,11 @@
-~~Title:avatāraṇāya~~
-{{description>just to reduce the burden to the world.}}
+---json
+{
+    "name":"avatāraṇāya",
+    "h1":"avatāraṇāya",
+    "title":"avatāraṇāya",
+    "description":"just to reduce the burden to the world."
+}
+---
 
 ==== bhāra-avatāraṇāya  ====
   * just to reduce the burden to the world --- [[books:sb:1:8:34|SB 1.8.34]]

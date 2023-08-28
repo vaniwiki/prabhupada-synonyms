@@ -1,5 +1,11 @@
-~~Title:stavaḥ~~
-{{description>praise.}}
+---json
+{
+    "name":"stavaḥ",
+    "h1":"stavaḥ",
+    "title":"stavaḥ",
+    "description":"praise."
+}
+---
 
 ==== stavaḥ  ====
   * praise --- [[books:sb:4:15:22|SB 4.15.22]]

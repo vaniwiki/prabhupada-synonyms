@@ -1,5 +1,11 @@
-~~Title:praṇava~~
-{{description>oṁkāra; the oṁkāra; the oṁkāra incarnation.}}
+---json
+{
+    "name":"praṇava",
+    "h1":"praṇava",
+    "title":"praṇava",
+    "description":"oṁkāra; the oṁkāra; the oṁkāra incarnation."
+}
+---
 
 ==== praṇava  ====
   * //oṁkāra// --- [[books:cc:adi:7:128|Ādi 7.128]], [[books:cc:adi:7:129|Ādi 7.129]], [[books:cc:adi:7:130|Ādi 7.130]], [[books:cc:madhya:6:174|Madhya 6.174]]

@@ -1,5 +1,11 @@
-~~Title:svit~~
-{{description>does it come; if it is so; may; or; possibly; whether; will it be.}}
+---json
+{
+    "name":"svit",
+    "h1":"svit",
+    "title":"svit",
+    "description":"does it come; if it is so; may; or; possibly; whether; will it be."
+}
+---
 
 ==== svit  ====
   * does it come --- [[books:sb:1:7:26|SB 1.7.26]]

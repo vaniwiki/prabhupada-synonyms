@@ -1,5 +1,11 @@
-~~Title:ākūti~~
-{{description>eagerness to work.}}
+---json
+{
+    "name":"ākūti",
+    "h1":"ākūti",
+    "title":"ākūti",
+    "description":"eagerness to work."
+}
+---
 
 ==== ākūti  ====
   * eagerness to work --- [[books:sb:4:24:43|SB 4.24.43]]

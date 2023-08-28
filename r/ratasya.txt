@@ -1,5 +1,11 @@
-~~Title:ratasya~~
-{{description>of one engaged.}}
+---json
+{
+    "name":"ratasya",
+    "h1":"ratasya",
+    "title":"ratasya",
+    "description":"of one engaged."
+}
+---
 
 ==== ratasya  ====
   * of one engaged --- [[books:sb:3:14:28|SB 3.14.28]]

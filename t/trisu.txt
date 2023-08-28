@@ -1,5 +1,11 @@
-~~Title:triṣu~~
-{{description>in the three.}}
+---json
+{
+    "name":"triṣu",
+    "h1":"triṣu",
+    "title":"triṣu",
+    "description":"in the three."
+}
+---
 
 ==== triṣu  ====
   * in the three --- [[books:bg:3:22|Bg. 3.22]]

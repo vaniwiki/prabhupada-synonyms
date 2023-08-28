@@ -1,5 +1,11 @@
-~~Title:vṛttitaḥ~~
-{{description>by their functions.}}
+---json
+{
+    "name":"vṛttitaḥ",
+    "h1":"vṛttitaḥ",
+    "title":"vṛttitaḥ",
+    "description":"by their functions."
+}
+---
 
 ==== vṛttitaḥ  ====
   * by their functions --- [[books:sb:3:26:30|SB 3.26.30]]

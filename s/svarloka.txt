@@ -1,5 +1,11 @@
-~~Title:svarloka~~
-{{description>the leaders of the heavenly planets.}}
+---json
+{
+    "name":"svarloka",
+    "h1":"svarloka",
+    "title":"svarloka",
+    "description":"the leaders of the heavenly planets."
+}
+---
 
 ==== svarloka-pālāḥ  ====
   * the leaders of the heavenly planets --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

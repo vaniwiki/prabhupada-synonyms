@@ -1,5 +1,11 @@
-~~Title:sakham~~
-{{description>friend.}}
+---json
+{
+    "name":"sakham",
+    "h1":"sakham",
+    "title":"sakham",
+    "description":"friend."
+}
+---
 
 ==== sakham  ====
   * friend --- [[books:sb:4:28:53|SB 4.28.53]]

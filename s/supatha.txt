@@ -1,5 +1,11 @@
-~~Title:supathā~~
-{{description>by the right path.}}
+---json
+{
+    "name":"supathā",
+    "h1":"supathā",
+    "title":"supathā",
+    "description":"by the right path."
+}
+---
 
 ==== supathā  ====
   * by the right path --- [[books:iso:18|Īśo 18]]

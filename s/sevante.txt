@@ -1,5 +1,11 @@
-~~Title:sevante~~
-{{description>worship.}}
+---json
+{
+    "name":"sevante",
+    "h1":"sevante",
+    "title":"sevante",
+    "description":"worship."
+}
+---
 
 ==== sevante  ====
   * worship --- [[books:sb:9:9:13|SB 9.9.13]]

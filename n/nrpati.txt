@@ -1,5 +1,11 @@
-~~Title:nṛpati~~
-{{description>the King.}}
+---json
+{
+    "name":"nṛpati",
+    "h1":"nṛpati",
+    "title":"nṛpati",
+    "description":"the King."
+}
+---
 
 ==== nṛpati  ====
   * the King --- [[books:cc:madhya:14:7|Madhya 14.7]]

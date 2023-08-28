@@ -1,5 +1,11 @@
-~~Title:damstra~~
-{{description>by the teeth; teeth; the teeth.}}
+---json
+{
+    "name":"damstra",
+    "h1":"damstra",
+    "title":"damstra",
+    "description":"by the teeth; teeth; the teeth."
+}
+---
 
 ==== daṁṣṭra  ====
   * by the teeth --- [[books:cc:antya:3:56|Antya 3.56]]

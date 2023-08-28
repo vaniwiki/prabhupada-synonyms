@@ -1,5 +1,11 @@
-~~Title:uśanasā~~
-{{description>by Śukrācārya; with Venus; with Śukrācārya.}}
+---json
+{
+    "name":"uśanasā",
+    "h1":"uśanasā",
+    "title":"uśanasā",
+    "description":"by Śukrācārya; with Venus; with Śukrācārya."
+}
+---
 
 ==== uśanasā  ====
   * by Śukrācārya --- [[books:sb:8:11:48|SB 8.11.48]]

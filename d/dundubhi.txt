@@ -1,5 +1,11 @@
-~~Title:dundubhi~~
-{{description>and kettledrums; drums; kettledrums; of the beating on kettledrums.}}
+---json
+{
+    "name":"dundubhi",
+    "h1":"dundubhi",
+    "title":"dundubhi",
+    "description":"and kettledrums; drums; kettledrums; of the beating on kettledrums."
+}
+---
 
 ==== dundubhi  ====
   * and kettledrums --- [[books:sb:4:9:39-40|SB 4.9.39-40]]

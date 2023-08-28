@@ -1,5 +1,11 @@
-~~Title:āsannaḥ~~
-{{description>being approached.}}
+---json
+{
+    "name":"āsannaḥ",
+    "h1":"āsannaḥ",
+    "title":"āsannaḥ",
+    "description":"being approached."
+}
+---
 
 ==== āsannaḥ  ====
   * being approached --- [[books:sb:4:16:11|SB 4.16.11]]

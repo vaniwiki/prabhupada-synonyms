@@ -1,5 +1,11 @@
-~~Title:makrari~~
-{{description>by some agreement.}}
+---json
+{
+    "name":"makrari",
+    "h1":"makrari",
+    "title":"makrari",
+    "description":"by some agreement."
+}
+---
 
 ==== makrari kariyā  ====
   * by some agreement --- [[books:cc:antya:6:18|Antya 6.18]]

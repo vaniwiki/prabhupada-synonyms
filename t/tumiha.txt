@@ -1,5 +1,11 @@
-~~Title:tumiha~~
-{{description>you; you also.}}
+---json
+{
+    "name":"tumiha",
+    "h1":"tumiha",
+    "title":"tumiha",
+    "description":"you; you also."
+}
+---
 
 ==== tumiha  ====
   * you --- [[books:cc:madhya:9:230|Madhya 9.230]], [[books:cc:madhya:15:198|Madhya 15.198]]

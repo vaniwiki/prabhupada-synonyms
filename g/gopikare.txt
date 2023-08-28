@@ -1,5 +1,11 @@
-~~Title:gopikāre~~
-{{description>the gopīs.}}
+---json
+{
+    "name":"gopikāre",
+    "h1":"gopikāre",
+    "title":"gopikāre",
+    "description":"the gopīs."
+}
+---
 
 ==== gopikāre  ====
   * the //gopīs// --- [[books:cc:madhya:9:148|Madhya 9.148]]

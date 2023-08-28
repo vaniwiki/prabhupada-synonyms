@@ -1,5 +1,11 @@
-~~Title:ko~~
-{{description>who.}}
+---json
+{
+    "name":"ko",
+    "h1":"ko",
+    "title":"ko",
+    "description":"who."
+}
+---
 
 ==== ko  ====
   * who --- [[books:cc:madhya:2:42|Madhya 2.42]]

@@ -1,5 +1,11 @@
-~~Title:adhastāt~~
-{{description>after; below; beneath; down; from below.}}
+---json
+{
+    "name":"adhastāt",
+    "h1":"adhastāt",
+    "title":"adhastāt",
+    "description":"after; below; beneath; down; from below."
+}
+---
 
 ==== adhastāt  ====
   * after --- [[books:sb:6:4:53|SB 6.4.53]]

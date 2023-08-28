@@ -1,5 +1,11 @@
-~~Title:svasrīyam~~
-{{description>the son of a daughter.}}
+---json
+{
+    "name":"svasrīyam",
+    "h1":"svasrīyam",
+    "title":"svasrīyam",
+    "description":"the son of a daughter."
+}
+---
 
 ==== svasrīyam  ====
   * the son of a daughter --- [[books:sb:6:6:45|SB 6.6.45]]

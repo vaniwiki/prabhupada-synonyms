@@ -1,5 +1,11 @@
-~~Title:paṅktayaḥ~~
-{{description>lines.}}
+---json
+{
+    "name":"paṅktayaḥ",
+    "h1":"paṅktayaḥ",
+    "title":"paṅktayaḥ",
+    "description":"lines."
+}
+---
 
 ==== paṅktayaḥ  ====
   * lines --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

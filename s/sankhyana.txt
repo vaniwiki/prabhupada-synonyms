@@ -1,5 +1,11 @@
-~~Title:saṅkhyāna~~
-{{description>of the sāṅkhya-yoga system.}}
+---json
+{
+    "name":"saṅkhyāna",
+    "h1":"saṅkhyāna",
+    "title":"saṅkhyāna",
+    "description":"of the sāṅkhya-yoga system."
+}
+---
 
 ==== guṇa-saṅkhyāna  ====
   * of the //sāṅkhya-yoga// system --- [[books:sb:8:16:30|SB 8.16.30]]

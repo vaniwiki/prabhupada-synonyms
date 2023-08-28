@@ -1,5 +1,11 @@
-~~Title:pāṇḍityera~~
-{{description>of learned scholarship.}}
+---json
+{
+    "name":"pāṇḍityera",
+    "h1":"pāṇḍityera",
+    "title":"pāṇḍityera",
+    "description":"of learned scholarship."
+}
+---
 
 ==== pāṇḍityera  ====
   * of learned scholarship --- [[books:cc:antya:1:201|Antya 1.201]]

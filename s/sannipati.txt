@@ -1,5 +1,11 @@
-~~Title:sannipāti~~
-{{description>a disease of convulsions.}}
+---json
+{
+    "name":"sannipāti",
+    "h1":"sannipāti",
+    "title":"sannipāti",
+    "description":"a disease of convulsions."
+}
+---
 
 ==== sannipāti  ====
   * a disease of convulsions --- [[books:cc:madhya:21:137|Madhya 21.137]]

@@ -1,5 +1,11 @@
-~~Title:nārasiṁhaḥ~~
-{{description>in the form of Nṛsiṁhadeva (half-lion and half-man).}}
+---json
+{
+    "name":"nārasiṁhaḥ",
+    "h1":"nārasiṁhaḥ",
+    "title":"nārasiṁhaḥ",
+    "description":"in the form of Nṛsiṁhadeva (half-lion and half-man)."
+}
+---
 
 ==== nārasiṁhaḥ  ====
   * in the form of Nṛsiṁhadeva (half-lion and half-man) --- [[books:sb:6:8:34|SB 6.8.34]]

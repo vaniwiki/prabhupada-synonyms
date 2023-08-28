@@ -1,5 +1,11 @@
-~~Title:prajajvaluḥ~~
-{{description>blazed like fire.}}
+---json
+{
+    "name":"prajajvaluḥ",
+    "h1":"prajajvaluḥ",
+    "title":"prajajvaluḥ",
+    "description":"blazed like fire."
+}
+---
 
 ==== prajajvaluḥ  ====
   * blazed like fire --- [[books:sb:3:17:4|SB 3.17.4]]

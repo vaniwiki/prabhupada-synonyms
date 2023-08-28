@@ -1,5 +1,11 @@
-~~Title:aparigrahaḥ~~
-{{description>free from the feeling of possessiveness; without accepting any charity from anyone else; without being dependent (on the family).}}
+---json
+{
+    "name":"aparigrahaḥ",
+    "h1":"aparigrahaḥ",
+    "title":"aparigrahaḥ",
+    "description":"free from the feeling of possessiveness; without accepting any charity from anyone else; without being dependent (on the family)."
+}
+---
 
 ==== aparigrahaḥ  ====
   * free from the feeling of possessiveness --- [[books:bg:6:10|Bg. 6.10]]

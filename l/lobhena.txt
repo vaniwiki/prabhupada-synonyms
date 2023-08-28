@@ -1,5 +1,11 @@
-~~Title:lobhena~~
-{{description>impelled by lust and greed.}}
+---json
+{
+    "name":"lobhena",
+    "h1":"lobhena",
+    "title":"lobhena",
+    "description":"impelled by lust and greed."
+}
+---
 
 ==== kāma-lobhena  ====
   * impelled by lust and greed --- [[books:sb:7:15:16|SB 7.15.16]]

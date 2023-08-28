@@ -1,5 +1,11 @@
-~~Title:nakṣatrāṇām~~
-{{description>of stars.}}
+---json
+{
+    "name":"nakṣatrāṇām",
+    "h1":"nakṣatrāṇām",
+    "title":"nakṣatrāṇām",
+    "description":"of stars."
+}
+---
 
 ==== nakṣatrāṇām  ====
   * of stars --- [[books:bg:10:21|Bg. 10.21]]

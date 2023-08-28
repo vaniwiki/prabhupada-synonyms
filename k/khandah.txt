@@ -1,5 +1,11 @@
-~~Title:khaṇḍaḥ~~
-{{description>sugarcane.}}
+---json
+{
+    "name":"khaṇḍaḥ",
+    "h1":"khaṇḍaḥ",
+    "title":"khaṇḍaḥ",
+    "description":"sugarcane."
+}
+---
 
 ==== ikṣu-khaṇḍaḥ  ====
   * sugarcane --- [[books:sb:5:26:16|SB 5.26.16]]

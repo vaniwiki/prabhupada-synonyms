@@ -1,5 +1,11 @@
-~~Title:sahyaḥ~~
-{{description>Sahya.}}
+---json
+{
+    "name":"sahyaḥ",
+    "h1":"sahyaḥ",
+    "title":"sahyaḥ",
+    "description":"Sahya."
+}
+---
 
 ==== sahyaḥ  ====
   * Sahya --- [[books:sb:5:19:16|SB 5.19.16]]

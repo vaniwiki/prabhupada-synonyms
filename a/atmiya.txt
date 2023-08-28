@@ -1,5 +1,11 @@
-~~Title:ātmīya~~
-{{description>by considering as a relative.}}
+---json
+{
+    "name":"ātmīya",
+    "h1":"ātmīya",
+    "title":"ātmīya",
+    "description":"by considering as a relative."
+}
+---
 
 ==== ātmīya-jñāne  ====
   * by considering as a relative --- [[books:cc:madhya:10:57|Madhya 10.57]]

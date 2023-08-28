@@ -1,5 +1,11 @@
-~~Title:varṣe~~
-{{description>in rains; in that shower; in the land; in the year; in years; on Bhārata-varṣa; planet; rain; rains; the tract of land; tract of land.}}
+---json
+{
+    "name":"varṣe",
+    "h1":"varṣe",
+    "title":"varṣe",
+    "description":"in rains; in that shower; in the land; in the year; in years; on Bhārata-varṣa; planet; rain; rains; the tract of land; tract of land."
+}
+---
 
 ==== varṣe  ====
   * in rains --- [[books:cc:antya:18:85|Antya 18.85]]

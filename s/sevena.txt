@@ -1,5 +1,11 @@
-~~Title:sevena~~
-{{description>renders service.}}
+---json
+{
+    "name":"sevena",
+    "h1":"sevena",
+    "title":"sevena",
+    "description":"renders service."
+}
+---
 
 ==== sevena  ====
   * renders service --- [[books:cc:antya:19:14|Antya 19.14]]

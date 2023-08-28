@@ -1,5 +1,11 @@
-~~Title:upasrtah~~
-{{description>falling down flat to offer obeisances.}}
+---json
+{
+    "name":"upasrtah",
+    "h1":"upasrtah",
+    "title":"upasrtah",
+    "description":"falling down flat to offer obeisances."
+}
+---
 
 ==== upasṛtaḥ  ====
   * falling down flat to offer obeisances --- [[books:sb:5:10:15|SB 5.10.15]]

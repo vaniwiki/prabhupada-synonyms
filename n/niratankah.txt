@@ -1,5 +1,11 @@
-~~Title:nirātaṅkaḥ~~
-{{description>without fear.}}
+---json
+{
+    "name":"nirātaṅkaḥ",
+    "h1":"nirātaṅkaḥ",
+    "title":"nirātaṅkaḥ",
+    "description":"without fear."
+}
+---
 
 ==== nirātaṅkaḥ  ====
   * without fear --- [[books:cc:antya:1:190|Antya 1.190]]

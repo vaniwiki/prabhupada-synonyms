@@ -1,5 +1,11 @@
-~~Title:sahibāre~~
-{{description>can tolerate.}}
+---json
+{
+    "name":"sahibāre",
+    "h1":"sahibāre",
+    "title":"sahibāre",
+    "description":"can tolerate."
+}
+---
 
 ==== pāre sahibāre  ====
   * can tolerate --- [[books:cc:antya:13:57|Antya 13.57]]

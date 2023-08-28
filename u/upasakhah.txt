@@ -1,5 +1,11 @@
-~~Title:upaśākhāḥ~~
-{{description>and twigs; sub-branches.}}
+---json
+{
+    "name":"upaśākhāḥ",
+    "h1":"upaśākhāḥ",
+    "title":"upaśākhāḥ",
+    "description":"and twigs; sub-branches."
+}
+---
 
 ==== upaśākhāḥ  ====
   * and twigs --- [[books:sb:4:31:14|SB 4.31.14]]

@@ -1,5 +1,11 @@
-~~Title:chāḍoṅ~~
-{{description>I shall give up all the dues.}}
+---json
+{
+    "name":"chāḍoṅ",
+    "h1":"chāḍoṅ",
+    "title":"chāḍoṅ",
+    "description":"I shall give up all the dues."
+}
+---
 
 ==== saba dravya chāḍoṅ  ====
   * I shall give up all the dues --- [[books:cc:antya:9:94|Antya 9.94]]

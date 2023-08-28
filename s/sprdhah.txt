@@ -1,5 +1,11 @@
-~~Title:spṛdhaḥ~~
-{{description>desiring to usurp.}}
+---json
+{
+    "name":"spṛdhaḥ",
+    "h1":"spṛdhaḥ",
+    "title":"spṛdhaḥ",
+    "description":"desiring to usurp."
+}
+---
 
 ==== spṛdhaḥ  ====
   * desiring to usurp --- [[books:sb:1:10:1|SB 1.10.1]]

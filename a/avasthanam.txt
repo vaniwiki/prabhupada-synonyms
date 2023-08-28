@@ -1,5 +1,11 @@
-~~Title:avasthānam~~
-{{description>resting place; staying in; to his abode.}}
+---json
+{
+    "name":"avasthānam",
+    "h1":"avasthānam",
+    "title":"avasthānam",
+    "description":"resting place; staying in; to his abode."
+}
+---
 
 ==== avasthānam  ====
   * resting place --- [[books:sb:3:27:16|SB 3.27.16]]

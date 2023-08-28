@@ -1,5 +1,11 @@
-~~Title:viniścayaḥ~~
-{{description>specifically describe.}}
+---json
+{
+    "name":"viniścayaḥ",
+    "h1":"viniścayaḥ",
+    "title":"viniścayaḥ",
+    "description":"specifically describe."
+}
+---
 
 ==== viniścayaḥ  ====
   * specifically describe --- [[books:sb:2:8:16|SB 2.8.16]]

@@ -1,5 +1,11 @@
-~~Title:niḥśabda~~
-{{description>silent.}}
+---json
+{
+    "name":"niḥśabda",
+    "h1":"niḥśabda",
+    "title":"niḥśabda",
+    "description":"silent."
+}
+---
 
 ==== niḥśabda  ====
   * silent --- [[books:cc:madhya:7:14|Madhya 7.14]]

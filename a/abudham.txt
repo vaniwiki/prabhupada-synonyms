@@ -1,5 +1,11 @@
-~~Title:abudham~~
-{{description>not conversant.}}
+---json
+{
+    "name":"abudham",
+    "h1":"abudham",
+    "title":"abudham",
+    "description":"not conversant."
+}
+---
 
 ==== abudham  ====
   * not conversant --- [[books:sb:6:18:40|SB 6.18.40]]

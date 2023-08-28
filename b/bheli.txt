@@ -1,5 +1,11 @@
-~~Title:bheli~~
-{{description>became.}}
+---json
+{
+    "name":"bheli",
+    "h1":"bheli",
+    "title":"bheli",
+    "description":"became."
+}
+---
 
 ==== bheli  ====
   * became --- [[books:cc:madhya:8:194|Madhya 8.194]]

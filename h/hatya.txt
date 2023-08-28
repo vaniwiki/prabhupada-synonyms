@@ -1,5 +1,11 @@
-~~Title:hatyā~~
-{{description>because of killing the child; infanticide.}}
+---json
+{
+    "name":"hatyā",
+    "h1":"hatyā",
+    "title":"hatyā",
+    "description":"because of killing the child; infanticide."
+}
+---
 
 ==== bāla-hatyā  ====
   * because of killing the child --- [[books:sb:6:16:14|SB 6.16.14]]

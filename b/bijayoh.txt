@@ -1,5 +1,11 @@
-~~Title:bījayoḥ~~
-{{description>of both the mother and father.}}
+---json
+{
+    "name":"bījayoḥ",
+    "h1":"bījayoḥ",
+    "title":"bījayoḥ",
+    "description":"of both the mother and father."
+}
+---
 
 ==== yoni-bījayoḥ  ====
   * of both the mother and father --- [[books:sb:4:6:42|SB 4.6.42]]

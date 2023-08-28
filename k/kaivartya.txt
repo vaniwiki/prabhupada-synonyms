@@ -1,5 +1,11 @@
-~~Title:kaivartya~~
-{{description>a fisherman.}}
+---json
+{
+    "name":"kaivartya",
+    "h1":"kaivartya",
+    "title":"kaivartya",
+    "description":"a fisherman."
+}
+---
 
 ==== kaivartya  ====
   * a fisherman --- [[books:cc:madhya:18:104|Madhya 18.104]]

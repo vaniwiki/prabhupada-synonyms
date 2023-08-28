@@ -1,5 +1,11 @@
-~~Title:prahiṇoti~~
-{{description>he hurls.}}
+---json
+{
+    "name":"prahiṇoti",
+    "h1":"prahiṇoti",
+    "title":"prahiṇoti",
+    "description":"he hurls."
+}
+---
 
 ==== prahiṇoti  ====
   * he hurls --- [[books:sb:5:14:28|SB 5.14.28]]

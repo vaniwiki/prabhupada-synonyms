@@ -1,5 +1,11 @@
-~~Title:jetum~~
-{{description>to conquer.}}
+---json
+{
+    "name":"jetum",
+    "h1":"jetum",
+    "title":"jetum",
+    "description":"to conquer."
+}
+---
 
 ==== jetum  ====
   * to conquer --- [[books:sb:8:15:29|SB 8.15.29]]

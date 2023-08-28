@@ -1,5 +1,11 @@
-~~Title:svārociṣe~~
-{{description>in the Svārociṣa millennium; in the Svārociṣa-manvantara.}}
+---json
+{
+    "name":"svārociṣe",
+    "h1":"svārociṣe",
+    "title":"svārociṣe",
+    "description":"in the Svārociṣa millennium; in the Svārociṣa-manvantara."
+}
+---
 
 ==== svārociṣe  ====
   * in the Svārociṣa millennium --- [[books:sb:4:1:35|SB 4.1.35]]

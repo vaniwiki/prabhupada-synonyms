@@ -1,5 +1,11 @@
-~~Title:katibhiḥ~~
-{{description>a few.}}
+---json
+{
+    "name":"katibhiḥ",
+    "h1":"katibhiḥ",
+    "title":"katibhiḥ",
+    "description":"a few."
+}
+---
 
 ==== katibhiḥ  ====
   * a few --- [[books:sb:3:4:36|SB 3.4.36]]

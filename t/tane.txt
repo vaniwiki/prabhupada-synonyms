@@ -1,5 +1,11 @@
-~~Title:ṭāne~~
-{{description>attracted; drag; pull; pulls; started pulling.}}
+---json
+{
+    "name":"ṭāne",
+    "h1":"ṭāne",
+    "title":"ṭāne",
+    "description":"attracted; drag; pull; pulls; started pulling."
+}
+---
 
 ==== ṭāne  ====
   * attracted --- [[books:cc:antya:15:9|Antya 15.9]]

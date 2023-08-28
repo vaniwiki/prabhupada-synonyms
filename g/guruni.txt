@@ -1,5 +1,11 @@
-~~Title:gurūṇi~~
-{{description>heavy.}}
+---json
+{
+    "name":"gurūṇi",
+    "h1":"gurūṇi",
+    "title":"gurūṇi",
+    "description":"heavy."
+}
+---
 
 ==== gurūṇi  ====
   * heavy --- [[books:sb:6:2:16|SB 6.2.16]]

@@ -1,5 +1,11 @@
-~~Title:viphalāni~~
-{{description>frustration.}}
+---json
+{
+    "name":"viphalāni",
+    "h1":"viphalāni",
+    "title":"viphalāni",
+    "description":"frustration."
+}
+---
 
 ==== viphalāni  ====
   * frustration --- [[books:sb:8:5:47|SB 8.5.47]]

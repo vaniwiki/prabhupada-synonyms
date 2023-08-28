@@ -1,5 +1,11 @@
-~~Title:kila~~
-{{description>as if; certainly; definitely; for the teaching of others; indeed; namely; of course; verily; what; what to speak of; what to speak of others; whether.}}
+---json
+{
+    "name":"kila",
+    "h1":"kila",
+    "title":"kila",
+    "description":"as if; certainly; definitely; for the teaching of others; indeed; namely; of course; verily; what; what to speak of; what to speak of others; whether."
+}
+---
 
 ==== kila  ====
   * as if --- [[books:sb:2:4:22|SB 2.4.22]]

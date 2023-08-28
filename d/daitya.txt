@@ -1,5 +1,11 @@
-~~Title:daitya~~
-{{description>among the demons; by the demons; by whom the demons; demon; demons; of demons; son of Diti; the demons.}}
+---json
+{
+    "name":"daitya",
+    "h1":"daitya",
+    "title":"daitya",
+    "description":"among the demons; by the demons; by whom the demons; demon; demons; of demons; son of Diti; the demons."
+}
+---
 
 ==== daitya  ====
   * among the demons --- [[books:sb:3:19:14|SB 3.19.14]]

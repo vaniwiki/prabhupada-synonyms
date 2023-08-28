@@ -1,5 +1,11 @@
-~~Title:upalabhamānaḥ~~
-{{description>understanding.}}
+---json
+{
+    "name":"upalabhamānaḥ",
+    "h1":"upalabhamānaḥ",
+    "title":"upalabhamānaḥ",
+    "description":"understanding."
+}
+---
 
 ==== upalabhamānaḥ  ====
   * understanding --- [[books:sb:5:1:9|SB 5.1.9]]

@@ -1,5 +1,11 @@
-~~Title:ambikā~~
-{{description>Ambikā, or Satī; mother Durgā; the goddess Durgā; the mother of the universe; the name Ambikā.}}
+---json
+{
+    "name":"ambikā",
+    "h1":"ambikā",
+    "title":"ambikā",
+    "description":"Ambikā, or Satī; mother Durgā; the goddess Durgā; the mother of the universe; the name Ambikā."
+}
+---
 
 ==== ambikā  ====
   * Ambikā, or Satī --- [[books:sb:4:7:59|SB 4.7.59]]

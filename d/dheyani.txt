@@ -1,5 +1,11 @@
-~~Title:dheyāni~~
-{{description>invoking the names of the demigods.}}
+---json
+{
+    "name":"dheyāni",
+    "h1":"dheyāni",
+    "title":"dheyāni",
+    "description":"invoking the names of the demigods."
+}
+---
 
 ==== nāma-dheyāni  ====
   * invoking the names of the demigods --- [[books:sb:2:6:26|SB 2.6.26]]

@@ -1,5 +1,11 @@
-~~Title:senajit~~
-{{description>Senajit.}}
+---json
+{
+    "name":"senajit",
+    "h1":"senajit",
+    "title":"senajit",
+    "description":"Senajit."
+}
+---
 
 ==== senajit  ====
   * Senajit --- [[books:sb:9:6:25|SB 9.6.25]]

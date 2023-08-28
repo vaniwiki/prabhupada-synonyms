@@ -1,5 +1,11 @@
-~~Title:jahasuḥ~~
-{{description>laughed.}}
+---json
+{
+    "name":"jahasuḥ",
+    "h1":"jahasuḥ",
+    "title":"jahasuḥ",
+    "description":"laughed."
+}
+---
 
 ==== jahasuḥ  ====
   * laughed --- [[books:sb:8:9:11|SB 8.9.11]]

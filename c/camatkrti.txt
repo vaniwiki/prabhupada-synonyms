@@ -1,5 +1,11 @@
-~~Title:camatkṛti~~
-{{description>wonder.}}
+---json
+{
+    "name":"camatkṛti",
+    "h1":"camatkṛti",
+    "title":"camatkṛti",
+    "description":"wonder."
+}
+---
 
 ==== camatkṛti  ====
   * wonder --- [[books:cc:adi:16:80|Ādi 16.80]]

@@ -1,5 +1,11 @@
-~~Title:bhṛtyeṣu~~
-{{description>upon the servants.}}
+---json
+{
+    "name":"bhṛtyeṣu",
+    "h1":"bhṛtyeṣu",
+    "title":"bhṛtyeṣu",
+    "description":"upon the servants."
+}
+---
 
 ==== bhṛtyeṣu  ====
   * upon the servants --- [[books:sb:4:26:22|SB 4.26.22]]

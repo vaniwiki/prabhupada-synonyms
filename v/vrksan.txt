@@ -1,5 +1,11 @@
-~~Title:vṛkṣān~~
-{{description>the ghosts; the trees; trees.}}
+---json
+{
+    "name":"vṛkṣān",
+    "h1":"vṛkṣān",
+    "title":"vṛkṣān",
+    "description":"the ghosts; the trees; trees."
+}
+---
 
 ==== vṛkṣān  ====
   * the ghosts --- [[books:sb:2:10:37-40|SB 2.10.37-40]]

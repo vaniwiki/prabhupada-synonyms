@@ -1,5 +1,11 @@
-~~Title:labdhaye~~
-{{description>for self-realization.}}
+---json
+{
+    "name":"labdhaye",
+    "h1":"labdhaye",
+    "title":"labdhaye",
+    "description":"for self-realization."
+}
+---
 
 ==== ātma-labdhaye  ====
   * for self-realization --- [[books:sb:7:7:40|SB 7.7.40]]

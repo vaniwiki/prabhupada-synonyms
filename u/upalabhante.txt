@@ -1,5 +1,11 @@
-~~Title:upalabhante~~
-{{description>are trying to realize.}}
+---json
+{
+    "name":"upalabhante",
+    "h1":"upalabhante",
+    "title":"upalabhante",
+    "description":"are trying to realize."
+}
+---
 
 ==== upalabhante  ====
   * are trying to realize --- [[books:sb:5:24:20|SB 5.24.20]]

@@ -1,5 +1,11 @@
-~~Title:jāyamānaḥ~~
-{{description>being born; just after his birth; one who will take birth in the future.}}
+---json
+{
+    "name":"jāyamānaḥ",
+    "h1":"jāyamānaḥ",
+    "title":"jāyamānaḥ",
+    "description":"being born; just after his birth; one who will take birth in the future."
+}
+---
 
 ==== jāyamānaḥ  ====
   * being born --- [[books:sb:4:14:46|SB 4.14.46]]

@@ -1,5 +1,11 @@
-~~Title:bādarāyaṇa~~
-{{description>of Vyāsadeva.}}
+---json
+{
+    "name":"bādarāyaṇa",
+    "h1":"bādarāyaṇa",
+    "title":"bādarāyaṇa",
+    "description":"of Vyāsadeva."
+}
+---
 
 ==== bādarāyaṇa  ====
   * of Vyāsadeva --- [[books:sb:3:5:19|SB 3.5.19]]

@@ -1,5 +1,11 @@
-~~Title:mātuḥ~~
-{{description>from the mother; His mother; mother; of His mother; of my mother; of the mother; to his mother.}}
+---json
+{
+    "name":"mātuḥ",
+    "h1":"mātuḥ",
+    "title":"mātuḥ",
+    "description":"from the mother; His mother; mother; of His mother; of my mother; of the mother; to his mother."
+}
+---
 
 ==== mātuḥ  ====
   * from the mother --- [[books:sb:4:8:24|SB 4.8.24]]

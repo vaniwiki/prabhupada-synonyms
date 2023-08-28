@@ -1,5 +1,11 @@
-~~Title:animantraṇa~~
-{{description>without being invited.}}
+---json
+{
+    "name":"animantraṇa",
+    "h1":"animantraṇa",
+    "title":"animantraṇa",
+    "description":"without being invited."
+}
+---
 
 ==== animantraṇa  ====
   * without being invited --- [[books:cc:antya:8:39|Antya 8.39]]

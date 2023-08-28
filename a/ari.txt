@@ -1,5 +1,11 @@
-~~Title:ari~~
-{{description>disc; enemies; enemy; of the enemy.}}
+---json
+{
+    "name":"ari",
+    "h1":"ari",
+    "title":"ari",
+    "description":"disc; enemies; enemy; of the enemy."
+}
+---
 
 ==== ari  ====
   * disc --- [[books:sb:6:8:12|SB 6.8.12]]

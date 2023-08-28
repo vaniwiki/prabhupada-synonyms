@@ -1,5 +1,11 @@
-~~Title:etādṛśī~~
-{{description>so much; this.}}
+---json
+{
+    "name":"etādṛśī",
+    "h1":"etādṛśī",
+    "title":"etādṛśī",
+    "description":"so much; this."
+}
+---
 
 ==== etādṛśī  ====
   * so much --- [[books:cc:antya:20:16|Antya 20.16]]

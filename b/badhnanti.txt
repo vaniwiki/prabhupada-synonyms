@@ -1,5 +1,11 @@
-~~Title:badhnanti~~
-{{description>conditions.}}
+---json
+{
+    "name":"badhnanti",
+    "h1":"badhnanti",
+    "title":"badhnanti",
+    "description":"conditions."
+}
+---
 
 ==== badhnanti  ====
   * conditions --- [[books:sb:2:5:19|SB 2.5.19]]

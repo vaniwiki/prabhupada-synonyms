@@ -1,5 +1,11 @@
-~~Title:hāsāya~~
-{{description>causes to laugh; it causes Me to laugh.}}
+---json
+{
+    "name":"hāsāya",
+    "h1":"hāsāya",
+    "title":"hāsāya",
+    "description":"causes to laugh; it causes Me to laugh."
+}
+---
 
 ==== hāsāya  ====
   * causes to laugh --- [[books:cc:madhya:15:11|Madhya 15.11]]

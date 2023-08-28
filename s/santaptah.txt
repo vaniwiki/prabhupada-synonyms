@@ -1,5 +1,11 @@
-~~Title:santaptaḥ~~
-{{description>very much aggrieved.}}
+---json
+{
+    "name":"santaptaḥ",
+    "h1":"santaptaḥ",
+    "title":"santaptaḥ",
+    "description":"very much aggrieved."
+}
+---
 
 ==== bhṛśa-santaptaḥ  ====
   * very much aggrieved --- [[books:sb:9:21:11|SB 9.21.11]]

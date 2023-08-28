@@ -1,5 +1,11 @@
-~~Title:unmīlayantam~~
-{{description>opened.}}
+---json
+{
+    "name":"unmīlayantam",
+    "h1":"unmīlayantam",
+    "title":"unmīlayantam",
+    "description":"opened."
+}
+---
 
 ==== unmīlayantam  ====
   * opened --- [[books:sb:3:8:4|SB 3.8.4]]

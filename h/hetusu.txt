@@ -1,5 +1,11 @@
-~~Title:hetuṣu~~
-{{description>on account of.}}
+---json
+{
+    "name":"hetuṣu",
+    "h1":"hetuṣu",
+    "title":"hetuṣu",
+    "description":"on account of."
+}
+---
 
 ==== hetuṣu  ====
   * on account of --- [[books:sb:4:29:32|SB 4.29.32]]

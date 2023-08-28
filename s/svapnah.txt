@@ -1,5 +1,11 @@
-~~Title:svapnaḥ~~
-{{description>a dream; dreaming (the activity of the senses without the gross body); dreams.}}
+---json
+{
+    "name":"svapnaḥ",
+    "h1":"svapnaḥ",
+    "title":"svapnaḥ",
+    "description":"a dream; dreaming (the activity of the senses without the gross body); dreams."
+}
+---
 
 ==== svapnaḥ  ====
   * a dream --- [[books:sb:4:29:34|SB 4.29.34]], [[books:sb:7:2:48|SB 7.2.48]], [[books:sb:7:7:27|SB 7.7.27]], [[books:sb:10:8:40|SB 10.8.40]]

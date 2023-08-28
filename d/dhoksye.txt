@@ -1,5 +1,11 @@
-~~Title:dhokṣye~~
-{{description>shall fulfill.}}
+---json
+{
+    "name":"dhokṣye",
+    "h1":"dhokṣye",
+    "title":"dhokṣye",
+    "description":"shall fulfill."
+}
+---
 
 ==== dhokṣye  ====
   * shall fulfill --- [[books:sb:4:18:9-10|SB 4.18.9-10]]

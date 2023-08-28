@@ -1,5 +1,11 @@
-~~Title:udgama~~
-{{description>appearance; awakening; birth; generating; the birth.}}
+---json
+{
+    "name":"udgama",
+    "h1":"udgama",
+    "title":"udgama",
+    "description":"appearance; awakening; birth; generating; the birth."
+}
+---
 
 ==== udgama  ====
   * appearance --- [[books:cc:antya:18:95|Antya 18.95]]

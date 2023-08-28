@@ -1,5 +1,11 @@
-~~Title:āviśatām~~
-{{description>entering; who have entered.}}
+---json
+{
+    "name":"āviśatām",
+    "h1":"āviśatām",
+    "title":"āviśatām",
+    "description":"entering; who have entered."
+}
+---
 
 ==== āviśatām  ====
   * entering --- [[books:sb:3:6:14|SB 3.6.14]]

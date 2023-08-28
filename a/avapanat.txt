@@ -1,5 +1,11 @@
-~~Title:āvapanāt~~
-{{description>from the field in which they are sown.}}
+---json
+{
+    "name":"āvapanāt",
+    "h1":"āvapanāt",
+    "title":"āvapanāt",
+    "description":"from the field in which they are sown."
+}
+---
 
 ==== āvapanāt  ====
   * from the field in which they are sown --- [[books:sb:7:15:36|SB 7.15.36]]

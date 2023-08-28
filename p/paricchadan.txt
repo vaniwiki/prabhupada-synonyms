@@ -1,5 +1,11 @@
-~~Title:paricchadān~~
-{{description>articles for household use; furniture; garments.}}
+---json
+{
+    "name":"paricchadān",
+    "h1":"paricchadān",
+    "title":"paricchadān",
+    "description":"articles for household use; furniture; garments."
+}
+---
 
 ==== paricchadān  ====
   * articles for household use --- [[books:sb:3:22:23|SB 3.22.23]]

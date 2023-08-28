@@ -1,5 +1,11 @@
-~~Title:ūrjāyām~~
-{{description>in Ūrjā.}}
+---json
+{
+    "name":"ūrjāyām",
+    "h1":"ūrjāyām",
+    "title":"ūrjāyām",
+    "description":"in Ūrjā."
+}
+---
 
 ==== ūrjāyām  ====
   * in Ūrjā --- [[books:sb:4:1:40|SB 4.1.40]]

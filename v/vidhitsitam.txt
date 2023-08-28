@@ -1,5 +1,11 @@
-~~Title:vidhitsitam~~
-{{description>plan.}}
+---json
+{
+    "name":"vidhitsitam",
+    "h1":"vidhitsitam",
+    "title":"vidhitsitam",
+    "description":"plan."
+}
+---
 
 ==== vidhitsitam  ====
   * plan --- [[books:sb:1:9:16|SB 1.9.16]]

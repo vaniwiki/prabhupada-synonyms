@@ -1,5 +1,11 @@
-~~Title:vilakṣya~~
-{{description>having distinguished; having seen; seeing.}}
+---json
+{
+    "name":"vilakṣya",
+    "h1":"vilakṣya",
+    "title":"vilakṣya",
+    "description":"having distinguished; having seen; seeing."
+}
+---
 
 ==== vilakṣya  ====
   * having distinguished --- [[books:sb:3:28:20|SB 3.28.20]]

@@ -1,5 +1,11 @@
-~~Title:vepitam~~
-{{description>moving.}}
+---json
+{
+    "name":"vepitam",
+    "h1":"vepitam",
+    "title":"vepitam",
+    "description":"moving."
+}
+---
 
 ==== vepitam  ====
   * moving --- [[books:sb:8:7:10|SB 8.7.10]]

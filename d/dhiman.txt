@@ -1,5 +1,11 @@
-~~Title:dhīman~~
-{{description>O sagacious one.}}
+---json
+{
+    "name":"dhīman",
+    "h1":"dhīman",
+    "title":"dhīman",
+    "description":"O sagacious one."
+}
+---
 
 ==== dhīman  ====
   * O sagacious one --- [[books:sb:1:1:18|SB 1.1.18]]

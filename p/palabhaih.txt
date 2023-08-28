@@ -1,5 +1,11 @@
-~~Title:pālābhaiḥ~~
-{{description>who were all expert administrators.}}
+---json
+{
+    "name":"pālābhaiḥ",
+    "h1":"pālābhaiḥ",
+    "title":"pālābhaiḥ",
+    "description":"who were all expert administrators."
+}
+---
 
 ==== loka-pālābhaiḥ  ====
   * who were all expert administrators --- [[books:sb:1:13:16|SB 1.13.16]]

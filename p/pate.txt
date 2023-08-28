@@ -1,5 +1,11 @@
-~~Title:pate~~
-{{description>O Lord.}}
+---json
+{
+    "name":"pate",
+    "h1":"pate",
+    "title":"pate",
+    "description":"O Lord."
+}
+---
 
 ==== pate  ====
   * O Lord --- [[books:sb:4:30:30|SB 4.30.30]]

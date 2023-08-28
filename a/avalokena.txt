@@ -1,5 +1,11 @@
-~~Title:avalokena~~
-{{description>by Your glance; with glances.}}
+---json
+{
+    "name":"avalokena",
+    "h1":"avalokena",
+    "title":"avalokena",
+    "description":"by Your glance; with glances."
+}
+---
 
 ==== avalokena  ====
   * by Your glance --- [[books:sb:6:9:41|SB 6.9.41]]

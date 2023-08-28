@@ -1,5 +1,11 @@
-~~Title:citrāḥ~~
-{{description>various.}}
+---json
+{
+    "name":"citrāḥ",
+    "h1":"citrāḥ",
+    "title":"citrāḥ",
+    "description":"various."
+}
+---
 
 ==== citrāḥ  ====
   * various --- [[books:sb:3:19:6|SB 3.19.6]]

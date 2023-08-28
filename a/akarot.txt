@@ -1,5 +1,11 @@
-~~Title:akarot~~
-{{description>accepted; accepted the baby; created; decorated; did; did exhibit; did he do; did perform; enacted; executed; has performed; made; maintained; performed; undertook; will make.}}
+---json
+{
+    "name":"akarot",
+    "h1":"akarot",
+    "title":"akarot",
+    "description":"accepted; accepted the baby; created; decorated; did; did exhibit; did he do; did perform; enacted; executed; has performed; made; maintained; performed; undertook; will make."
+}
+---
 
 ==== akarot  ====
   * accepted --- [[books:sb:6:6:19|SB 6.6.19]], [[books:sb:9:4:27|SB 9.4.27]]

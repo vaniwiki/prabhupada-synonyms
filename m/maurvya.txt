@@ -1,5 +1,11 @@
-~~Title:maurvyā~~
-{{description>iron.}}
+---json
+{
+    "name":"maurvyā",
+    "h1":"maurvyā",
+    "title":"maurvyā",
+    "description":"iron."
+}
+---
 
 ==== maurvyā  ====
   * iron --- [[books:sb:3:17:26|SB 3.17.26]]

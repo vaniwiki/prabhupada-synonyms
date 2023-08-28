@@ -1,5 +1,11 @@
-~~Title:jnani~~
-{{description>advanced in knowledge; mental speculator; one in full knowledge; one pursuing knowledge; one who is in knowledge; one who knows things as they are; philosophical speculator; pursuing knowledge; the philosophical speculators; the speculative philosophers; well versed in transcendental knowledge; wise man.}}
+---json
+{
+    "name":"jnani",
+    "h1":"jnani",
+    "title":"jnani",
+    "description":"advanced in knowledge; mental speculator; one in full knowledge; one pursuing knowledge; one who is in knowledge; one who knows things as they are; philosophical speculator; pursuing knowledge; the philosophical speculators; the speculative philosophers; well versed in transcendental knowledge; wise man."
+}
+---
 
 ==== jñānī  ====
   * advanced in knowledge --- [[books:cc:madhya:24:121|Madhya 24.121]]

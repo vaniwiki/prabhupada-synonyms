@@ -1,5 +1,11 @@
-~~Title:hailāma~~
-{{description>I have become.}}
+---json
+{
+    "name":"hailāma",
+    "h1":"hailāma",
+    "title":"hailāma",
+    "description":"I have become."
+}
+---
 
 ==== hailāma  ====
   * I have become --- [[books:cc:adi:7:78|Ādi 7.78]]

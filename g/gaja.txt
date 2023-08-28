@@ -1,5 +1,11 @@
-~~Title:gaja~~
-{{description>big elephants and horses.}}
+---json
+{
+    "name":"gaja",
+    "h1":"gaja",
+    "title":"gaja",
+    "description":"big elephants and horses."
+}
+---
 
 ==== gaja  ====
   * big elephants and horses --- [[books:sb:7:7:44|SB 7.7.44]]

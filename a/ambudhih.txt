@@ -1,5 +1,11 @@
-~~Title:ambudhiḥ~~
-{{description>the ocean of transcendental mercy.}}
+---json
+{
+    "name":"ambudhiḥ",
+    "h1":"ambudhiḥ",
+    "title":"ambudhiḥ",
+    "description":"the ocean of transcendental mercy."
+}
+---
 
 ==== kṛpā-ambudhiḥ  ====
   * the ocean of transcendental mercy --- [[books:cc:madhya:6:254|Madhya 6.254]]

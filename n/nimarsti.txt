@@ -1,5 +1,11 @@
-~~Title:nimārṣṭi~~
-{{description>purifying.}}
+---json
+{
+    "name":"nimārṣṭi",
+    "h1":"nimārṣṭi",
+    "title":"nimārṣṭi",
+    "description":"purifying."
+}
+---
 
 ==== nimārṣṭi  ====
   * purifying --- [[books:sb:8:21:4|SB 8.21.4]]

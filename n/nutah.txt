@@ -1,5 +1,11 @@
-~~Title:nutaḥ~~
-{{description>being praised; being worshiped; worshiped.}}
+---json
+{
+    "name":"nutaḥ",
+    "h1":"nutaḥ",
+    "title":"nutaḥ",
+    "description":"being praised; being worshiped; worshiped."
+}
+---
 
 ==== nutaḥ  ====
   * being praised --- [[books:sb:3:23:39|SB 3.23.39]]

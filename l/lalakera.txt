@@ -1,5 +1,11 @@
-~~Title:lālakera~~
-{{description>of the maintainer.}}
+---json
+{
+    "name":"lālakera",
+    "h1":"lālakera",
+    "title":"lālakera",
+    "description":"of the maintainer."
+}
+---
 
 ==== lālakera  ====
   * of the maintainer --- [[books:cc:antya:4:184|Antya 4.184]], [[books:cc:antya:4:187|Antya 4.187]]

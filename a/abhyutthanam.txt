@@ -1,5 +1,11 @@
-~~Title:abhyutthānam~~
-{{description>increase; predominance.}}
+---json
+{
+    "name":"abhyutthānam",
+    "h1":"abhyutthānam",
+    "title":"abhyutthānam",
+    "description":"increase; predominance."
+}
+---
 
 ==== abhyutthānam  ====
   * increase --- [[books:cc:adi:3:22|Ādi 3.22]]

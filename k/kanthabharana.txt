@@ -1,5 +1,11 @@
-~~Title:kaṇṭhābharaṇa~~
-{{description>of the name Kaṇṭhābharaṇa.}}
+---json
+{
+    "name":"kaṇṭhābharaṇa",
+    "h1":"kaṇṭhābharaṇa",
+    "title":"kaṇṭhābharaṇa",
+    "description":"of the name Kaṇṭhābharaṇa."
+}
+---
 
 ==== kaṇṭhābharaṇa  ====
   * of the name Kaṇṭhābharaṇa --- [[books:cc:adi:12:81|Ādi 12.81]]

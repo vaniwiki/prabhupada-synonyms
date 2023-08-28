@@ -1,5 +1,11 @@
-~~Title:samprayāsaḥ~~
-{{description>great endeavor.}}
+---json
+{
+    "name":"samprayāsaḥ",
+    "h1":"samprayāsaḥ",
+    "title":"samprayāsaḥ",
+    "description":"great endeavor."
+}
+---
 
 ==== samprayāsaḥ  ====
   * great endeavor --- [[books:sb:6:11:22|SB 6.11.22]]

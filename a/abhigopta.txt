@@ -1,5 +1,11 @@
-~~Title:abhigoptā~~
-{{description>a well-wisher of the citizens as a father is the well-wisher of his children.}}
+---json
+{
+    "name":"abhigoptā",
+    "h1":"abhigoptā",
+    "title":"abhigoptā",
+    "description":"a well-wisher of the citizens as a father is the well-wisher of his children."
+}
+---
 
 ==== abhigoptā  ====
   * a well-wisher of the citizens as a father is the well-wisher of his children --- [[books:sb:5:10:23|SB 5.10.23]]

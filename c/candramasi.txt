@@ -1,5 +1,11 @@
-~~Title:candramasi~~
-{{description>in the moon.}}
+---json
+{
+    "name":"candramasi",
+    "h1":"candramasi",
+    "title":"candramasi",
+    "description":"in the moon."
+}
+---
 
 ==== candramasi  ====
   * in the moon --- [[books:bg:15:12|Bg. 15.12]], [[books:sb:4:29:69|SB 4.29.69]]

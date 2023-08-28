@@ -1,5 +1,11 @@
-~~Title:īhitasya~~
-{{description>of all activities (for maintenance of body, society, friendship and so on).}}
+---json
+{
+    "name":"īhitasya",
+    "h1":"īhitasya",
+    "title":"īhitasya",
+    "description":"of all activities (for maintenance of body, society, friendship and so on)."
+}
+---
 
 ==== īhitasya  ====
   * of all activities (for maintenance of body, society, friendship and so on) --- [[books:sb:5:5:27|SB 5.5.27]]

@@ -1,5 +1,11 @@
-~~Title:caṭake~~
-{{description>the caṭaka bird.}}
+---json
+{
+    "name":"caṭake",
+    "h1":"caṭake",
+    "title":"caṭake",
+    "description":"the caṭaka bird."
+}
+---
 
 ==== caṭake  ====
   * the //caṭaka bird// --- [[books:cc:antya:17:43|Antya 17.43]]

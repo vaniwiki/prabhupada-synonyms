@@ -1,5 +1,11 @@
-~~Title:kunde~~
-{{description>jump.}}
+---json
+{
+    "name":"kunde",
+    "h1":"kunde",
+    "title":"kunde",
+    "description":"jump."
+}
+---
 
 ==== kunde  ====
   * jump --- [[books:cc:madhya:17:41|Madhya 17.41]]

@@ -1,5 +1,11 @@
-~~Title:aviśeṣaḥ~~
-{{description>forms; materially unmanifested.}}
+---json
+{
+    "name":"aviśeṣaḥ",
+    "h1":"aviśeṣaḥ",
+    "title":"aviśeṣaḥ",
+    "description":"forms; materially unmanifested."
+}
+---
 
 ==== aviśeṣaḥ  ====
   * forms --- [[books:sb:3:11:2|SB 3.11.2]]

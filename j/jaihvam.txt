@@ -1,5 +1,11 @@
-~~Title:jaihvam~~
-{{description>and the tongue.}}
+---json
+{
+    "name":"jaihvam",
+    "h1":"jaihvam",
+    "title":"jaihvam",
+    "description":"and the tongue."
+}
+---
 
 ==== jaihvam  ====
   * and the tongue --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

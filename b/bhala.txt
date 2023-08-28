@@ -1,5 +1,11 @@
-~~Title:bhāla~~
-{{description>all right; as good; auspicious; first-class; good; nice; nicely; right; very carefully; very good; very well; well.}}
+---json
+{
+    "name":"bhāla",
+    "h1":"bhāla",
+    "title":"bhāla",
+    "description":"all right; as good; auspicious; first-class; good; nice; nicely; right; very carefully; very good; very well; well."
+}
+---
 
 ==== bhāla  ====
   * all right --- [[books:cc:madhya:7:146|Madhya 7.146]]

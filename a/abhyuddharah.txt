@@ -1,5 +1,11 @@
-~~Title:abhyuddhāraḥ~~
-{{description>pulling out.}}
+---json
+{
+    "name":"abhyuddhāraḥ",
+    "h1":"abhyuddhāraḥ",
+    "title":"abhyuddhāraḥ",
+    "description":"pulling out."
+}
+---
 
 ==== abhyuddhāraḥ  ====
   * pulling out --- [[books:sb:3:30:26|SB 3.30.26]]

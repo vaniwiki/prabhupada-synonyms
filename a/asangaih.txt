@@ -1,5 +1,11 @@
-~~Title:asaṅgaiḥ~~
-{{description>who have no material attachment.}}
+---json
+{
+    "name":"asaṅgaiḥ",
+    "h1":"asaṅgaiḥ",
+    "title":"asaṅgaiḥ",
+    "description":"who have no material attachment."
+}
+---
 
 ==== asaṅgaiḥ  ====
   * who have no material attachment --- [[books:sb:6:3:28|SB 6.3.28]]

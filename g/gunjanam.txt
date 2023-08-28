@@ -1,5 +1,11 @@
-~~Title:guñjānām~~
-{{description>of a garland of guñjā (small conchshells).}}
+---json
+{
+    "name":"guñjānām",
+    "h1":"guñjānām",
+    "title":"guñjānām",
+    "description":"of a garland of guñjā (small conchshells)."
+}
+---
 
 ==== guñjānām  ====
   * of a garland of //guñjā// (small conchshells) --- [[books:cc:antya:1:145|Antya 1.145]]

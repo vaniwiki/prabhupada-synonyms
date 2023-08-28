@@ -1,5 +1,11 @@
-~~Title:parimala~~
-{{description>fragrance; scent; surrounded by a fragrance; the fragrance; with the scent.}}
+---json
+{
+    "name":"parimala",
+    "h1":"parimala",
+    "title":"parimala",
+    "description":"fragrance; scent; surrounded by a fragrance; the fragrance; with the scent."
+}
+---
 
 ==== parimala  ====
   * fragrance --- [[books:cc:madhya:2:33|Madhya 2.33]]

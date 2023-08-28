@@ -1,5 +1,11 @@
-~~Title:nikāma~~
-{{description>having too many lusty desires for sense enjoyment.}}
+---json
+{
+    "name":"nikāma",
+    "h1":"nikāma",
+    "title":"nikāma",
+    "description":"having too many lusty desires for sense enjoyment."
+}
+---
 
 ==== nikāma-kāmaḥ  ====
   * having too many lusty desires for sense enjoyment --- [[books:sb:5:5:16|SB 5.5.16]]

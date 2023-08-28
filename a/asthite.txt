@@ -1,5 +1,11 @@
-~~Title:āsthite~~
-{{description>seated.}}
+---json
+{
+    "name":"āsthite",
+    "h1":"āsthite",
+    "title":"āsthite",
+    "description":"seated."
+}
+---
 
 ==== āsthite  ====
   * seated --- [[books:sb:10:11:34|SB 10.11.34]]

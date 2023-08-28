@@ -1,5 +1,11 @@
-~~Title:sevitāni~~
-{{description>served by you.}}
+---json
+{
+    "name":"sevitāni",
+    "h1":"sevitāni",
+    "title":"sevitāni",
+    "description":"served by you."
+}
+---
 
 ==== sevitāni  ====
   * served by you --- [[books:sb:1:13:9|SB 1.13.9]]

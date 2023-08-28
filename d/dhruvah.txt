@@ -1,5 +1,11 @@
-~~Title:dhruvah~~
-{{description>a fact; Dhruva; Dhruva Mahārāja; indeed; inevitable; is assured; Mahārāja Dhruva; Mahārāja Dhruva on his planet, the polestar; unchangeable.}}
+---json
+{
+    "name":"dhruvah",
+    "h1":"dhruvah",
+    "title":"dhruvah",
+    "description":"a fact; Dhruva; Dhruva Mahārāja; indeed; inevitable; is assured; Mahārāja Dhruva; Mahārāja Dhruva on his planet, the polestar; unchangeable."
+}
+---
 
 ==== dhruvaḥ  ====
   * a fact --- [[books:bg:2:27|Bg. 2.27]]

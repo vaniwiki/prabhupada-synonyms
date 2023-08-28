@@ -1,5 +1,11 @@
-~~Title:palāi~~
-{{description>go away.}}
+---json
+{
+    "name":"palāi",
+    "h1":"palāi",
+    "title":"palāi",
+    "description":"go away."
+}
+---
 
 ==== palāi  ====
   * go away --- [[books:cc:antya:6:130|Antya 6.130]]

@@ -1,5 +1,11 @@
-~~Title:yāibena~~
-{{description>will go.}}
+---json
+{
+    "name":"yāibena",
+    "h1":"yāibena",
+    "title":"yāibena",
+    "description":"will go."
+}
+---
 
 ==== yāibena  ====
   * will go --- [[books:cc:madhya:10:28|Madhya 10.28]]

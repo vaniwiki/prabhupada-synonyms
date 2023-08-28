@@ -1,5 +1,11 @@
-~~Title:vallī~~
-{{description>by the creepers.}}
+---json
+{
+    "name":"vallī",
+    "h1":"vallī",
+    "title":"vallī",
+    "description":"by the creepers."
+}
+---
 
 ==== vallī  ====
   * by the creepers --- [[books:cc:madhya:14:194|Madhya 14.194]]

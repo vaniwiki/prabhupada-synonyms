@@ -1,5 +1,11 @@
-~~Title:drumān~~
-{{description>all kinds of trees; the trees; trees.}}
+---json
+{
+    "name":"drumān",
+    "h1":"drumān",
+    "title":"drumān",
+    "description":"all kinds of trees; the trees; trees."
+}
+---
 
 ==== drumān  ====
   * all kinds of trees --- [[books:sb:10:6:14|SB 10.6.14]]

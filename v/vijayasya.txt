@@ -1,5 +1,11 @@
-~~Title:vijayasya~~
-{{description>of Vijaya.}}
+---json
+{
+    "name":"vijayasya",
+    "h1":"vijayasya",
+    "title":"vijayasya",
+    "description":"of Vijaya."
+}
+---
 
 ==== vijayasya  ====
   * of Vijaya --- [[books:sb:9:15:2-3|SB 9.15.2-3]]

@@ -1,5 +1,11 @@
-~~Title:ḍālimā~~
-{{description>pomegranate.}}
+---json
+{
+    "name":"ḍālimā",
+    "h1":"ḍālimā",
+    "title":"ḍālimā",
+    "description":"pomegranate."
+}
+---
 
 ==== ḍālimā  ====
   * pomegranate --- [[books:cc:madhya:14:30|Madhya 14.30]]

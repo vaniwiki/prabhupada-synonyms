@@ -1,5 +1,11 @@
-~~Title:sarvataḥ~~
-{{description>all; all around; all over; all sides; anywhere and everywhere; completely; entirely; everywhere; everywhere in the universe; from all; from all dangers; from all directions; from all sides; from everything; from everywhere; in all; in all directions; in all directions, in all times and from all angles of vision; in all respects; in every respect; on all sides.}}
+---json
+{
+    "name":"sarvataḥ",
+    "h1":"sarvataḥ",
+    "title":"sarvataḥ",
+    "description":"all; all around; all over; all sides; anywhere and everywhere; completely; entirely; everywhere; everywhere in the universe; from all; from all dangers; from all directions; from all sides; from everything; from everywhere; in all; in all directions; in all directions, in all times and from all angles of vision; in all respects; in every respect; on all sides."
+}
+---
 
 ==== sarvataḥ  ====
   * all --- [[books:sb:1:12:9|SB 1.12.9]]

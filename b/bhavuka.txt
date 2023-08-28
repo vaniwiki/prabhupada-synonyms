@@ -1,5 +1,11 @@
-~~Title:bhāvuka~~
-{{description>fanatics; in ecstasy; sentimental.}}
+---json
+{
+    "name":"bhāvuka",
+    "h1":"bhāvuka",
+    "title":"bhāvuka",
+    "description":"fanatics; in ecstasy; sentimental."
+}
+---
 
 ==== bhāvuka  ====
   * fanatics --- [[books:cc:adi:7:68|Ādi 7.68]]

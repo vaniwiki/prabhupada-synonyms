@@ -1,5 +1,11 @@
-~~Title:varṣayoḥ~~
-{{description>of tracts of land.}}
+---json
+{
+    "name":"varṣayoḥ",
+    "h1":"varṣayoḥ",
+    "title":"varṣayoḥ",
+    "description":"of tracts of land."
+}
+---
 
 ==== varṣayoḥ  ====
   * of tracts of land --- [[books:sb:5:20:30|SB 5.20.30]]

@@ -1,5 +1,11 @@
-~~Title:vyatiricyeta~~
-{{description>is separated; may reach beyond.}}
+---json
+{
+    "name":"vyatiricyeta",
+    "h1":"vyatiricyeta",
+    "title":"vyatiricyeta",
+    "description":"is separated; may reach beyond."
+}
+---
 
 ==== vyatiricyeta  ====
   * is separated --- [[books:sb:5:22:13|SB 5.22.13]]

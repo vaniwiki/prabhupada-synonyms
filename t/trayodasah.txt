@@ -1,5 +1,11 @@
-~~Title:trayodaśaḥ~~
-{{description>thirteenth.}}
+---json
+{
+    "name":"trayodaśaḥ",
+    "h1":"trayodaśaḥ",
+    "title":"trayodaśaḥ",
+    "description":"thirteenth."
+}
+---
 
 ==== trayodaśaḥ  ====
   * thirteenth --- [[books:sb:8:13:30|SB 8.13.30]]

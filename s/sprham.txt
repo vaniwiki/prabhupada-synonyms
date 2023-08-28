@@ -1,5 +1,11 @@
-~~Title:spṛhām~~
-{{description>all desires; aspiration; desire; the desire.}}
+---json
+{
+    "name":"spṛhām",
+    "h1":"spṛhām",
+    "title":"spṛhām",
+    "description":"all desires; aspiration; desire; the desire."
+}
+---
 
 ==== spṛhām  ====
   * all desires --- [[books:sb:2:1:15|SB 2.1.15]]

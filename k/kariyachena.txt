@@ -1,5 +1,11 @@
-~~Title:kariyāchena~~
-{{description>has accepted; has done; has made; have done; He did; must have been; performed.}}
+---json
+{
+    "name":"kariyāchena",
+    "h1":"kariyāchena",
+    "title":"kariyāchena",
+    "description":"has accepted; has done; has made; have done; He did; must have been; performed."
+}
+---
 
 ==== kariyāchena  ====
   * has accepted --- [[books:cc:madhya:6:45|Madhya 6.45]]

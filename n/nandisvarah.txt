@@ -1,5 +1,11 @@
-~~Title:nandīśvaraḥ~~
-{{description>Nandīśvara.}}
+---json
+{
+    "name":"nandīśvaraḥ",
+    "h1":"nandīśvaraḥ",
+    "title":"nandīśvaraḥ",
+    "description":"Nandīśvara."
+}
+---
 
 ==== nandīśvaraḥ  ====
   * Nandīśvara --- [[books:sb:4:2:20|SB 4.2.20]], [[books:sb:4:5:17|SB 4.5.17]]

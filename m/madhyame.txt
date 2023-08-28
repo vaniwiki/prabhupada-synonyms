@@ -1,5 +1,11 @@
-~~Title:madhyame~~
-{{description>my dear young wife; O beautiful thin-waisted woman; O most beautiful; O thin-waisted woman.}}
+---json
+{
+    "name":"madhyame",
+    "h1":"madhyame",
+    "title":"madhyame",
+    "description":"my dear young wife; O beautiful thin-waisted woman; O most beautiful; O thin-waisted woman."
+}
+---
 
 ==== su-madhyame  ====
   * my dear young wife --- [[books:sb:4:3:22|SB 4.3.22]]

@@ -1,5 +1,11 @@
-~~Title:pidhāya~~
-{{description>blocking.}}
+---json
+{
+    "name":"pidhāya",
+    "h1":"pidhāya",
+    "title":"pidhāya",
+    "description":"blocking."
+}
+---
 
 ==== pidhāya  ====
   * blocking --- [[books:sb:4:4:17|SB 4.4.17]]

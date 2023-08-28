@@ -1,5 +1,11 @@
-~~Title:sravane~~
-{{description>by hearing; by the hearing; during the Śravaṇa star's appearance; hearing; in hearing; in the ear; in the ears; the hearing; to the ear; with the ears; within the hearing.}}
+---json
+{
+    "name":"sravane",
+    "h1":"sravane",
+    "title":"sravane",
+    "description":"by hearing; by the hearing; during the Śravaṇa star's appearance; hearing; in hearing; in the ear; in the ears; the hearing; to the ear; with the ears; within the hearing."
+}
+---
 
 ==== śravaṇe  ====
   * by hearing --- [[books:cc:adi:8:35|Ādi 8.35]], [[books:cc:adi:8:42|Ādi 8.42]], [[books:cc:adi:11:19|Ādi 11.19]], [[books:cc:adi:16:110|Ādi 16.110]], [[books:cc:madhya:8:307|Madhya 8.307]], [[books:cc:madhya:10:140|Madhya 10.140]], [[books:cc:madhya:21:18|Madhya 21.18]], [[books:cc:madhya:24:51|Madhya 24.51]], [[books:cc:antya:3:252-253|Antya 3.252-253]]

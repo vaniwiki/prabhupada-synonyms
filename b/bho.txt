@@ -1,5 +1,11 @@
-~~Title:bho~~
-{{description>oh.}}
+---json
+{
+    "name":"bho",
+    "h1":"bho",
+    "title":"bho",
+    "description":"oh."
+}
+---
 
 ==== bho  ====
   * oh --- [[books:sb:1:11:9|SB 1.11.9]]

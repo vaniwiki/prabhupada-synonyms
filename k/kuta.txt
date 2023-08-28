@@ -1,5 +1,11 @@
-~~Title:kuta~~
-{{description>dirt.}}
+---json
+{
+    "name":"kuta",
+    "h1":"kuta",
+    "title":"kuta",
+    "description":"dirt."
+}
+---
 
 ==== kuṭā  ====
   * dirt --- [[books:cc:madhya:12:131|Madhya 12.131]]

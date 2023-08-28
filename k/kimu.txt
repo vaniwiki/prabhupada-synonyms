@@ -1,5 +1,11 @@
-~~Title:kimu~~
-{{description>what to speak of; whether.}}
+---json
+{
+    "name":"kimu",
+    "h1":"kimu",
+    "title":"kimu",
+    "description":"what to speak of; whether."
+}
+---
 
 ==== kimu  ====
   * what to speak of --- [[books:cc:madhya:24:190|Madhya 24.190]]

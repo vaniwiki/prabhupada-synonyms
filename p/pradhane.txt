@@ -1,5 +1,11 @@
-~~Title:pradhane~~
-{{description>in battle; in the battlefield; on the battlefield.}}
+---json
+{
+    "name":"pradhane",
+    "h1":"pradhane",
+    "title":"pradhane",
+    "description":"in battle; in the battlefield; on the battlefield."
+}
+---
 
 ==== pradhane  ====
   * in battle --- [[books:sb:6:11:5|SB 6.11.5]]

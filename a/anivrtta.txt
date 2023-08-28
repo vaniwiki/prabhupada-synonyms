@@ -1,5 +1,11 @@
-~~Title:anivṛtta~~
-{{description>not ceased.}}
+---json
+{
+    "name":"anivṛtta",
+    "h1":"anivṛtta",
+    "title":"anivṛtta",
+    "description":"not ceased."
+}
+---
 
 ==== anivṛtta  ====
   * not ceased --- [[books:sb:3:27:20|SB 3.27.20]]

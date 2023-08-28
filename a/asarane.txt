@@ -1,5 +1,11 @@
-~~Title:aśaraṇe~~
-{{description>not having a place to take shelter.}}
+---json
+{
+    "name":"aśaraṇe",
+    "h1":"aśaraṇe",
+    "title":"aśaraṇe",
+    "description":"not having a place to take shelter."
+}
+---
 
 ==== aśaraṇe  ====
   * not having a place to take shelter --- [[books:sb:4:7:28|SB 4.7.28]]

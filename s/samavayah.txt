@@ -1,5 +1,11 @@
-~~Title:samavayah~~
-{{description>the cooperation.}}
+---json
+{
+    "name":"samavayah",
+    "h1":"samavayah",
+    "title":"samavayah",
+    "description":"the cooperation."
+}
+---
 
 ==== samavāyaḥ  ====
   * the cooperation --- [[books:sb:6:9:34|SB 6.9.34]]

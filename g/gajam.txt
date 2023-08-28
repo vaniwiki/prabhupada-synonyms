@@ -1,5 +1,11 @@
-~~Title:gajam~~
-{{description>as well as his elephant.}}
+---json
+{
+    "name":"gajam",
+    "h1":"gajam",
+    "title":"gajam",
+    "description":"as well as his elephant."
+}
+---
 
 ==== gajam ca  ====
   * as well as his elephant --- [[books:sb:8:11:14|SB 8.11.14]]

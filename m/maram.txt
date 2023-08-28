@@ -1,5 +1,11 @@
-~~Title:māram~~
-{{description>as if slaughtering animals.}}
+---json
+{
+    "name":"māram",
+    "h1":"māram",
+    "title":"māram",
+    "description":"as if slaughtering animals."
+}
+---
 
 ==== paśu-māram  ====
   * as if slaughtering animals --- [[books:sb:4:13:41|SB 4.13.41]]

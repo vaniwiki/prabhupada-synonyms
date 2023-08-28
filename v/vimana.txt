@@ -1,5 +1,11 @@
-~~Title:vimana~~
-{{description>morose.}}
+---json
+{
+    "name":"vimana",
+    "h1":"vimana",
+    "title":"vimana",
+    "description":"morose."
+}
+---
 
 ==== vimana  ====
   * morose --- [[books:cc:antya:19:29|Antya 19.29]]

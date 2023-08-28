@@ -1,5 +1,11 @@
-~~Title:pratiṣṭhāra~~
-{{description>of reputation.}}
+---json
+{
+    "name":"pratiṣṭhāra",
+    "h1":"pratiṣṭhāra",
+    "title":"pratiṣṭhāra",
+    "description":"of reputation."
+}
+---
 
 ==== pratiṣṭhāra  ====
   * of reputation --- [[books:cc:madhya:4:146|Madhya 4.146]]

@@ -1,5 +1,11 @@
-~~Title:uttamah~~
-{{description>best; highest; the best; Uttama; your stepbrother.}}
+---json
+{
+    "name":"uttamah",
+    "h1":"uttamah",
+    "title":"uttamah",
+    "description":"best; highest; the best; Uttama; your stepbrother."
+}
+---
 
 ==== uttamaḥ  ====
   * best --- [[books:sb:3:29:31|SB 3.29.31]]

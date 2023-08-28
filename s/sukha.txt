@@ -1,5 +1,11 @@
-~~Title:sukha~~
-{{description>awakening of happiness; by happiness; by the happiness; easily; happily; happiness; happinesses; in happiness; of happiness; of the happiness; so-called happiness; the happiness; the happiness derived from these things; the satisfaction.}}
+---json
+{
+    "name":"sukha",
+    "h1":"sukha",
+    "title":"sukha",
+    "description":"awakening of happiness; by happiness; by the happiness; easily; happily; happiness; happinesses; in happiness; of happiness; of the happiness; so-called happiness; the happiness; the happiness derived from these things; the satisfaction."
+}
+---
 
 ==== sukha  ====
   * awakening of happiness --- [[books:cc:madhya:25:172|Madhya 25.172]]

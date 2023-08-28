@@ -1,5 +1,11 @@
-~~Title:uhāya~~
-{{description>with that.}}
+---json
+{
+    "name":"uhāya",
+    "h1":"uhāya",
+    "title":"uhāya",
+    "description":"with that."
+}
+---
 
 ==== uhāya  ====
   * with that --- [[books:cc:antya:13:61|Antya 13.61]]

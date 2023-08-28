@@ -1,5 +1,11 @@
-~~Title:oghavat~~
-{{description>who was the father of Oghavān.}}
+---json
+{
+    "name":"oghavat",
+    "h1":"oghavat",
+    "title":"oghavat",
+    "description":"who was the father of Oghavān."
+}
+---
 
 ==== oghavat-pitā  ====
   * who was the father of Oghavān --- [[books:sb:9:2:18|SB 9.2.18]]

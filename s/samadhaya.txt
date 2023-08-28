@@ -1,5 +1,11 @@
-~~Title:samādhāya~~
-{{description>controlling; fixed in; fixing firmly; for concentration; keeping full attention.}}
+---json
+{
+    "name":"samādhāya",
+    "h1":"samādhāya",
+    "title":"samādhāya",
+    "description":"controlling; fixed in; fixing firmly; for concentration; keeping full attention."
+}
+---
 
 ==== samādhāya  ====
   * controlling --- [[books:sb:6:16:33|SB 6.16.33]]

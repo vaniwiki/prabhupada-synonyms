@@ -1,5 +1,11 @@
-~~Title:nirvṛtiḥ~~
-{{description>bliss; happiness; Nirvṛti; pleasure; transcendental bliss.}}
+---json
+{
+    "name":"nirvṛtiḥ",
+    "h1":"nirvṛtiḥ",
+    "title":"nirvṛtiḥ",
+    "description":"bliss; happiness; Nirvṛti; pleasure; transcendental bliss."
+}
+---
 
 ==== nirvṛtiḥ  ====
   * bliss --- [[books:sb:4:9:10|SB 4.9.10]]

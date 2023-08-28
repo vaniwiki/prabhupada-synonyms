@@ -1,5 +1,11 @@
-~~Title:prasṛmara~~
-{{description>spreading forth.}}
+---json
+{
+    "name":"prasṛmara",
+    "h1":"prasṛmara",
+    "title":"prasṛmara",
+    "description":"spreading forth."
+}
+---
 
 ==== prasṛmara  ====
   * spreading forth --- [[books:cc:madhya:8:142|Madhya 8.142]]

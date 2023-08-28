@@ -1,5 +1,11 @@
-~~Title:śārīraka~~
-{{description>the Māyāvāda commentary Śārīraka-bhāṣya.}}
+---json
+{
+    "name":"śārīraka",
+    "h1":"śārīraka",
+    "title":"śārīraka",
+    "description":"the Māyāvāda commentary Śārīraka-bhāṣya."
+}
+---
 
 ==== śārīraka-bhāṣya  ====
   * the Māyāvāda commentary //Śārīraka-bhāṣya// --- [[books:cc:antya:2:95|Antya 2.95]]

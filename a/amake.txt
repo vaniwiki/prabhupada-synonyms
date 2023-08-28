@@ -1,5 +1,11 @@
-~~Title:āmāke~~
-{{description>Me; unto Me.}}
+---json
+{
+    "name":"āmāke",
+    "h1":"āmāke",
+    "title":"āmāke",
+    "description":"Me; unto Me."
+}
+---
 
 ==== āmāke  ====
   * Me --- [[books:cc:adi:4:19|Ādi 4.19]], [[books:cc:madhya:5:98|Madhya 5.98]], [[books:cc:madhya:13:151|Madhya 13.151]]

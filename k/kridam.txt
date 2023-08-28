@@ -1,5 +1,11 @@
-~~Title:krīḍām~~
-{{description>activities.}}
+---json
+{
+    "name":"krīḍām",
+    "h1":"krīḍām",
+    "title":"krīḍām",
+    "description":"activities."
+}
+---
 
 ==== krīḍām  ====
   * activities --- [[books:sb:2:3:15|SB 2.3.15]]

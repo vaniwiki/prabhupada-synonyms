@@ -1,5 +1,11 @@
-~~Title:upakaṇṭhe~~
-{{description>on the bank of the Yamunā in the neighborhood of Keśīghāṭa.}}
+---json
+{
+    "name":"upakaṇṭhe",
+    "h1":"upakaṇṭhe",
+    "title":"upakaṇṭhe",
+    "description":"on the bank of the Yamunā in the neighborhood of Keśīghāṭa."
+}
+---
 
 ==== keśī-tīrtha-upakaṇṭhe  ====
   * on the bank of the Yamunā in the neighborhood of Keśīghāṭa --- [[books:cc:adi:5:224|Ādi 5.224]]

@@ -1,5 +1,11 @@
-~~Title:saṁvadatoḥ~~
-{{description>were conversing.}}
+---json
+{
+    "name":"saṁvadatoḥ",
+    "h1":"saṁvadatoḥ",
+    "title":"saṁvadatoḥ",
+    "description":"were conversing."
+}
+---
 
 ==== saṁvadatoḥ  ====
   * were conversing --- [[books:sb:3:20:5|SB 3.20.5]]

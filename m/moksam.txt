@@ -1,5 +1,11 @@
-~~Title:mokṣam~~
-{{description>giving off; liberation; the liberated life; the liberated state of life.}}
+---json
+{
+    "name":"mokṣam",
+    "h1":"mokṣam",
+    "title":"mokṣam",
+    "description":"giving off; liberation; the liberated life; the liberated state of life."
+}
+---
 
 ==== mokṣam  ====
   * giving off --- [[books:cc:adi:4:155|Ādi 4.155]]

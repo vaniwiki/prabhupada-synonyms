@@ -1,5 +1,11 @@
-~~Title:rome~~
-{{description>from each hair.}}
+---json
+{
+    "name":"rome",
+    "h1":"rome",
+    "title":"rome",
+    "description":"from each hair."
+}
+---
 
 ==== prati-rome  ====
   * from each hair --- [[books:cc:antya:14:93|Antya 14.93]]

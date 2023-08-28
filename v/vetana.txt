@@ -1,5 +1,11 @@
-~~Title:vetana~~
-{{description>salary.}}
+---json
+{
+    "name":"vetana",
+    "h1":"vetana",
+    "title":"vetana",
+    "description":"salary."
+}
+---
 
 ==== vetana  ====
   * salary --- [[books:cc:madhya:4:166|Madhya 4.166]], [[books:cc:antya:20:37|Antya 20.37]]

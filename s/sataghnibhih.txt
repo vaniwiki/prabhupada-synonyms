@@ -1,5 +1,11 @@
-~~Title:śataghnībhiḥ~~
-{{description>by śataghnīs.}}
+---json
+{
+    "name":"śataghnībhiḥ",
+    "h1":"śataghnībhiḥ",
+    "title":"śataghnībhiḥ",
+    "description":"by śataghnīs."
+}
+---
 
 ==== śataghnībhiḥ  ====
   * by //śataghnīs// --- [[books:sb:6:10:23|SB 6.10.23]]

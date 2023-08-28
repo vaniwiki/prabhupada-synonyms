@@ -1,5 +1,11 @@
-~~Title:bandhavah~~
-{{description>friends.}}
+---json
+{
+    "name":"bandhavah",
+    "h1":"bandhavah",
+    "title":"bandhavah",
+    "description":"friends."
+}
+---
 
 ==== bandhavaḥ  ====
   * friends --- [[books:sb:1:19:32|SB 1.19.32]]

@@ -1,5 +1,11 @@
-~~Title:tapasvinaḥ~~
-{{description>for a vānaprastha, one who has adopted a life of austerities; persons who are engaged in austerities; the great learned sages; the sages; those engaged in severe austerities and penances; who was such a great mystic performing austerity.}}
+---json
+{
+    "name":"tapasvinaḥ",
+    "h1":"tapasvinaḥ",
+    "title":"tapasvinaḥ",
+    "description":"for a vānaprastha, one who has adopted a life of austerities; persons who are engaged in austerities; the great learned sages; the sages; those engaged in severe austerities and penances; who was such a great mystic performing austerity."
+}
+---
 
 ==== tapasvinaḥ  ====
   * for a //vānaprastha,// one who has adopted a life of austerities --- [[books:sb:7:15:38-39|SB 7.15.38-39]]

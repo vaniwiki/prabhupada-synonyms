@@ -1,5 +1,11 @@
-~~Title:tyajana~~
-{{description>still not possible to give up.}}
+---json
+{
+    "name":"tyajana",
+    "h1":"tyajana",
+    "title":"tyajana",
+    "description":"still not possible to give up."
+}
+---
 
 ==== nā yāya tyajana  ====
   * still not possible to give up --- [[books:cc:madhya:2:51|Madhya 2.51]]

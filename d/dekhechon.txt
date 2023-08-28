@@ -1,5 +1,11 @@
-~~Title:dekhechoṅ~~
-{{description>I have seen.}}
+---json
+{
+    "name":"dekhechoṅ",
+    "h1":"dekhechoṅ",
+    "title":"dekhechoṅ",
+    "description":"I have seen."
+}
+---
 
 ==== dekhechoṅ  ====
   * I have seen --- [[books:cc:antya:18:55|Antya 18.55]]

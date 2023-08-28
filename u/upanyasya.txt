@@ -1,5 +1,11 @@
-~~Title:upanyasya~~
-{{description>entrusting.}}
+---json
+{
+    "name":"upanyasya",
+    "h1":"upanyasya",
+    "title":"upanyasya",
+    "description":"entrusting."
+}
+---
 
 ==== upanyasya  ====
   * entrusting --- [[books:sb:5:9:7|SB 5.9.7]]

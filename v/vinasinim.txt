@@ -1,5 +1,11 @@
-~~Title:vināśinīm~~
-{{description>which destroys.}}
+---json
+{
+    "name":"vināśinīm",
+    "h1":"vināśinīm",
+    "title":"vināśinīm",
+    "description":"which destroys."
+}
+---
 
 ==== vināśinīm  ====
   * which destroys --- [[books:sb:8:4:11-12|SB 8.4.11-12]]

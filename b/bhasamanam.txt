@@ -1,5 +1,11 @@
-~~Title:bhāṣamāṇam~~
-{{description>talking.}}
+---json
+{
+    "name":"bhāṣamāṇam",
+    "h1":"bhāṣamāṇam",
+    "title":"bhāṣamāṇam",
+    "description":"talking."
+}
+---
 
 ==== bhāṣamāṇam  ====
   * talking --- [[books:sb:5:10:8|SB 5.10.8]]

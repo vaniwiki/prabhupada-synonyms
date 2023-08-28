@@ -1,5 +1,11 @@
-~~Title:saṅkucita~~
-{{description>crippled; hesitant.}}
+---json
+{
+    "name":"saṅkucita",
+    "h1":"saṅkucita",
+    "title":"saṅkucita",
+    "description":"crippled; hesitant."
+}
+---
 
 ==== saṅkucita  ====
   * crippled --- [[books:cc:madhya:19:194|Madhya 19.194]]

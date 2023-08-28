@@ -1,5 +1,11 @@
-~~Title:śiti~~
-{{description>O blue-throated one.}}
+---json
+{
+    "name":"śiti",
+    "h1":"śiti",
+    "title":"śiti",
+    "description":"O blue-throated one."
+}
+---
 
 ==== śiti-kaṇṭha  ====
   * O blue-throated one --- [[books:sb:4:3:12|SB 4.3.12]]

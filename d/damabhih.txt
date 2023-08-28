@@ -1,5 +1,11 @@
-~~Title:dāmabhiḥ~~
-{{description>by cords; by ropes; by the ropes.}}
+---json
+{
+    "name":"dāmabhiḥ",
+    "h1":"dāmabhiḥ",
+    "title":"dāmabhiḥ",
+    "description":"by cords; by ropes; by the ropes."
+}
+---
 
 ==== dāmabhiḥ  ====
   * by cords --- [[books:sb:6:3:13|SB 6.3.13]]

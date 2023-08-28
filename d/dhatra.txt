@@ -1,5 +1,11 @@
-~~Title:dhātrā~~
-{{description>by providence; by the Supreme Lord.}}
+---json
+{
+    "name":"dhātrā",
+    "h1":"dhātrā",
+    "title":"dhātrā",
+    "description":"by providence; by the Supreme Lord."
+}
+---
 
 ==== dhātrā  ====
   * by providence --- [[books:sb:1:1:22|SB 1.1.22]]

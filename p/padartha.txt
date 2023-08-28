@@ -1,5 +1,11 @@
-~~Title:padārtha~~
-{{description>matter.}}
+---json
+{
+    "name":"padārtha",
+    "h1":"padārtha",
+    "title":"padārtha",
+    "description":"matter."
+}
+---
 
 ==== padārtha  ====
   * matter --- [[books:cc:antya:9:96|Antya 9.96]]

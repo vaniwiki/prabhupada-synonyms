@@ -1,5 +1,11 @@
-~~Title:mātroḥ~~
-{{description>toward Their mothers.}}
+---json
+{
+    "name":"mātroḥ",
+    "h1":"mātroḥ",
+    "title":"mātroḥ",
+    "description":"toward Their mothers."
+}
+---
 
 ==== anti mātroḥ  ====
   * toward Their mothers --- [[books:sb:10:8:22|SB 10.8.22]]

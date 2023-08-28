@@ -1,5 +1,11 @@
-~~Title:chadiḥ~~
-{{description>all-pervading like the sky.}}
+---json
+{
+    "name":"chadiḥ",
+    "h1":"chadiḥ",
+    "title":"chadiḥ",
+    "description":"all-pervading like the sky."
+}
+---
 
 ==== nabhaḥ-chadiḥ  ====
   * all-pervading like the sky --- [[books:sb:7:14:13|SB 7.14.13]]

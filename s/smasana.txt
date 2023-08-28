@@ -1,5 +1,11 @@
-~~Title:śmaśāna~~
-{{description>burning crematorium; the crematorium.}}
+---json
+{
+    "name":"śmaśāna",
+    "h1":"śmaśāna",
+    "title":"śmaśāna",
+    "description":"burning crematorium; the crematorium."
+}
+---
 
 ==== śmaśāna  ====
   * burning crematorium --- [[books:sb:3:14:25|SB 3.14.25]]

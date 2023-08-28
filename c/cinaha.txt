@@ -1,5 +1,11 @@
-~~Title:cināha~~
-{{description>kindly identify.}}
+---json
+{
+    "name":"cināha",
+    "h1":"cināha",
+    "title":"cināha",
+    "description":"kindly identify."
+}
+---
 
 ==== cināha  ====
   * kindly identify --- [[books:cc:madhya:11:75|Madhya 11.75]]

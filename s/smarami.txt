@@ -1,5 +1,11 @@
-~~Title:smarāmi~~
-{{description>I remember.}}
+---json
+{
+    "name":"smarāmi",
+    "h1":"smarāmi",
+    "title":"smarāmi",
+    "description":"I remember."
+}
+---
 
 ==== smarāmi  ====
   * I remember --- [[books:cc:adi:1:16|Ādi 1.16]], [[books:cc:madhya:1:4|Madhya 1.4]], [[books:cc:antya:1:6|Antya 1.6]]

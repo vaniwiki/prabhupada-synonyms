@@ -1,5 +1,11 @@
-~~Title:anāśvāse~~
-{{description>although not positive in result; without certainty.}}
+---json
+{
+    "name":"anāśvāse",
+    "h1":"anāśvāse",
+    "title":"anāśvāse",
+    "description":"although not positive in result; without certainty."
+}
+---
 
 ==== anāśvāse  ====
   * although not positive in result --- [[books:cc:madhya:24:215|Madhya 24.215]]

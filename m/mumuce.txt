@@ -1,5 +1,11 @@
-~~Title:mumuce~~
-{{description>gave up; was released.}}
+---json
+{
+    "name":"mumuce",
+    "h1":"mumuce",
+    "title":"mumuce",
+    "description":"gave up; was released."
+}
+---
 
 ==== mumuce  ====
   * gave up --- [[books:sb:9:19:24|SB 9.19.24]]

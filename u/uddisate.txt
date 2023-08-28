@@ -1,5 +1,11 @@
-~~Title:uddiśate~~
-{{description>it indicates.}}
+---json
+{
+    "name":"uddiśate",
+    "h1":"uddiśate",
+    "title":"uddiśate",
+    "description":"it indicates."
+}
+---
 
 ==== uddiśate  ====
   * it indicates --- [[books:cc:antya:1:188|Antya 1.188]]

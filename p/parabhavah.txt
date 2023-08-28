@@ -1,5 +1,11 @@
-~~Title:parābhavaḥ~~
-{{description>are insulted; becoming defeated; defeat; defeat, misery; the defeat; the defeat of one's human mission.}}
+---json
+{
+    "name":"parābhavaḥ",
+    "h1":"parābhavaḥ",
+    "title":"parābhavaḥ",
+    "description":"are insulted; becoming defeated; defeat; defeat, misery; the defeat; the defeat of one's human mission."
+}
+---
 
 ==== parābhavaḥ  ====
   * are insulted --- [[books:sb:4:3:25|SB 4.3.25]]

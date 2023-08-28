@@ -1,5 +1,11 @@
-~~Title:pratiruddha~~
-{{description>restrained.}}
+---json
+{
+    "name":"pratiruddha",
+    "h1":"pratiruddha",
+    "title":"pratiruddha",
+    "description":"restrained."
+}
+---
 
 ==== pratiruddha  ====
   * restrained --- [[books:sb:1:18:26|SB 1.18.26]]

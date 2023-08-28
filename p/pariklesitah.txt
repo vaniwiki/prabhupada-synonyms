@@ -1,5 +1,11 @@
-~~Title:parikleśitāḥ~~
-{{description>so much troubled.}}
+---json
+{
+    "name":"parikleśitāḥ",
+    "h1":"parikleśitāḥ",
+    "title":"parikleśitāḥ",
+    "description":"so much troubled."
+}
+---
 
 ==== parikleśitāḥ  ====
   * so much troubled --- [[books:cc:antya:1:152|Antya 1.152]]

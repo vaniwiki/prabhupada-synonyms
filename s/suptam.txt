@@ -1,5 +1,11 @@
-~~Title:suptam~~
-{{description>a dream; asleep; sleeping; while sleeping.}}
+---json
+{
+    "name":"suptam",
+    "h1":"suptam",
+    "title":"suptam",
+    "description":"a dream; asleep; sleeping; while sleeping."
+}
+---
 
 ==== suptam  ====
   * a dream --- [[books:sb:4:29:2b|SB 4.29.2b]]

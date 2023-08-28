@@ -1,5 +1,11 @@
-~~Title:āvayoḥ~~
-{{description>between ourselves; of Lakṣmī and me; of ours; of us two; our.}}
+---json
+{
+    "name":"āvayoḥ",
+    "h1":"āvayoḥ",
+    "title":"āvayoḥ",
+    "description":"between ourselves; of Lakṣmī and me; of ours; of us two; our."
+}
+---
 
 ==== āvayoḥ  ====
   * between ourselves --- [[books:sb:4:28:63|SB 4.28.63]]

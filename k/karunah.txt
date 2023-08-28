@@ -1,5 +1,11 @@
-~~Title:karunah~~
-{{description>(the Supreme Personality of Godhead), who is so kind to this foolish, ignorant person; compassion; compassionate; kind; kindly; merciful; very kindhearted; very merciful.}}
+---json
+{
+    "name":"karunah",
+    "h1":"karunah",
+    "title":"karunah",
+    "description":"(the Supreme Personality of Godhead), who is so kind to this foolish, ignorant person; compassion; compassionate; kind; kindly; merciful; very kindhearted; very merciful."
+}
+---
 
 ==== karuṇaḥ  ====
   * (the Supreme Personality of Godhead), who is so kind to this foolish, ignorant person --- [[books:sb:7:9:11|SB 7.9.11]]

@@ -1,5 +1,11 @@
-~~Title:smite~~
-{{description>O most pious lady; O woman with lovely smiles.}}
+---json
+{
+    "name":"smite",
+    "h1":"smite",
+    "title":"smite",
+    "description":"O most pious lady; O woman with lovely smiles."
+}
+---
 
 ==== śuci-smite  ====
   * O most pious lady --- [[books:sb:8:16:54|SB 8.16.54]]

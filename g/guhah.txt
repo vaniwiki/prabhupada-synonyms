@@ -1,5 +1,11 @@
-~~Title:guhah~~
-{{description>Kārttikeya.}}
+---json
+{
+    "name":"guhah",
+    "h1":"guhah",
+    "title":"guhah",
+    "description":"Kārttikeya."
+}
+---
 
 ==== guhaḥ  ====
   * Kārttikeya --- [[books:sb:8:10:28|SB 8.10.28]]

@@ -1,5 +1,11 @@
-~~Title:nigamibhiḥ~~
-{{description>by Vedic evidences.}}
+---json
+{
+    "name":"nigamibhiḥ",
+    "h1":"nigamibhiḥ",
+    "title":"nigamibhiḥ",
+    "description":"by Vedic evidences."
+}
+---
 
 ==== nigamibhiḥ  ====
   * by Vedic evidences --- [[books:sb:4:22:47|SB 4.22.47]]

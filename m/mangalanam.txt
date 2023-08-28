@@ -1,5 +1,11 @@
-~~Title:maṅgalānām~~
-{{description>of all auspiciousness; of the auspicious.}}
+---json
+{
+    "name":"maṅgalānām",
+    "h1":"maṅgalānām",
+    "title":"maṅgalānām",
+    "description":"of all auspiciousness; of the auspicious."
+}
+---
 
 ==== maṅgalānām  ====
   * of all auspiciousness --- [[books:sb:8:23:22-23|SB 8.23.22-23]]

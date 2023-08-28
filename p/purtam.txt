@@ -1,5 +1,11 @@
-~~Title:pūrtam~~
-{{description>for the benefit of the public; who are full.}}
+---json
+{
+    "name":"pūrtam",
+    "h1":"pūrtam",
+    "title":"pūrtam",
+    "description":"for the benefit of the public; who are full."
+}
+---
 
 ==== pūrtam  ====
   * for the benefit of the public --- [[books:sb:7:15:48-49|SB 7.15.48-49]]

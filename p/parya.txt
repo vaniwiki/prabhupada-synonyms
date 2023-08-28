@@ -1,5 +1,11 @@
-~~Title:parya~~
-{{description>by leaving aside.}}
+---json
+{
+    "name":"parya",
+    "h1":"parya",
+    "title":"parya",
+    "description":"by leaving aside."
+}
+---
 
 ==== parya  ====
   * by leaving aside --- [[books:sb:1:14:43|SB 1.14.43]]

@@ -1,5 +1,11 @@
-~~Title:suvāsita~~
-{{description>scented.}}
+---json
+{
+    "name":"suvāsita",
+    "h1":"suvāsita",
+    "title":"suvāsita",
+    "description":"scented."
+}
+---
 
 ==== suvāsita  ====
   * scented --- [[books:cc:madhya:4:76|Madhya 4.76]]

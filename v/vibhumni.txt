@@ -1,5 +1,11 @@
-~~Title:vibhūmni~~
-{{description>unto the great.}}
+---json
+{
+    "name":"vibhūmni",
+    "h1":"vibhūmni",
+    "title":"vibhūmni",
+    "description":"unto the great."
+}
+---
 
 ==== vibhūmni  ====
   * unto the great --- [[books:sb:1:9:32|SB 1.9.32]]

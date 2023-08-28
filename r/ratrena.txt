@@ -1,5 +1,11 @@
-~~Title:rātreṇa~~
-{{description>in one night; on the first night.}}
+---json
+{
+    "name":"rātreṇa",
+    "h1":"rātreṇa",
+    "title":"rātreṇa",
+    "description":"in one night; on the first night."
+}
+---
 
 ==== eka-rātreṇa  ====
   * in one night --- [[books:sb:8:24:17|SB 8.24.17]]

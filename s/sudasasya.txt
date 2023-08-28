@@ -1,5 +1,11 @@
-~~Title:sudāsasya~~
-{{description>of the name Sudāsa.}}
+---json
+{
+    "name":"sudāsasya",
+    "h1":"sudāsasya",
+    "title":"sudāsasya",
+    "description":"of the name Sudāsa."
+}
+---
 
 ==== sudāsasya  ====
   * of the name Sudāsa --- [[books:sb:3:1:22|SB 3.1.22]]

@@ -1,5 +1,11 @@
-~~Title:nikasila~~
-{{description>fructified.}}
+---json
+{
+    "name":"nikasila",
+    "h1":"nikasila",
+    "title":"nikasila",
+    "description":"fructified."
+}
+---
 
 ==== nikasila  ====
   * fructified --- [[books:cc:adi:9:13-15|Ādi 9.13-15]]

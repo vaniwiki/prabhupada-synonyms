@@ -1,5 +1,11 @@
-~~Title:vādya~~
-{{description>music; musical performance; musical sounds; musical vibration; of musical instruments; of the sound.}}
+---json
+{
+    "name":"vādya",
+    "h1":"vādya",
+    "title":"vādya",
+    "description":"music; musical performance; musical sounds; musical vibration; of musical instruments; of the sound."
+}
+---
 
 ==== vādya  ====
   * music --- [[books:cc:adi:13:106|Ādi 13.106]]

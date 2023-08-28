@@ -1,5 +1,11 @@
-~~Title:beḍāna~~
-{{description>walks.}}
+---json
+{
+    "name":"beḍāna",
+    "h1":"beḍāna",
+    "title":"beḍāna",
+    "description":"walks."
+}
+---
 
 ==== beḍāna  ====
   * walks --- [[books:cc:antya:18:4|Antya 18.4]]

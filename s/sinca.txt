@@ -1,5 +1,11 @@
-~~Title:siñca~~
-{{description>just sprinkle water.}}
+---json
+{
+    "name":"siñca",
+    "h1":"siñca",
+    "title":"siñca",
+    "description":"just sprinkle water."
+}
+---
 
 ==== siñca  ====
   * just sprinkle water --- [[books:cc:antya:4:64|Antya 4.64]]

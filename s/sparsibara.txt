@@ -1,5 +1,11 @@
-~~Title:sparśibāra~~
-{{description>to touch.}}
+---json
+{
+    "name":"sparśibāra",
+    "h1":"sparśibāra",
+    "title":"sparśibāra",
+    "description":"to touch."
+}
+---
 
 ==== sparśibāra  ====
   * to touch --- [[books:cc:madhya:9:192|Madhya 9.192]]

@@ -1,5 +1,11 @@
-~~Title:vivṛṇvan~~
-{{description>showing.}}
+---json
+{
+    "name":"vivṛṇvan",
+    "h1":"vivṛṇvan",
+    "title":"vivṛṇvan",
+    "description":"showing."
+}
+---
 
 ==== vivṛṇvan  ====
   * showing --- [[books:sb:3:9:20|SB 3.9.20]]

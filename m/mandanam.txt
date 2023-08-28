@@ -1,5 +1,11 @@
-~~Title:mandanam~~
-{{description>not very intelligent.}}
+---json
+{
+    "name":"mandanam",
+    "h1":"mandanam",
+    "title":"mandanam",
+    "description":"not very intelligent."
+}
+---
 
 ==== mandānām  ====
   * not very intelligent --- [[books:sb:5:3:15|SB 5.3.15]]

@@ -1,5 +1,11 @@
-~~Title:rudrasya~~
-{{description>of Lord Śiva (the most powerful among the demigods); of Lord Śiva; of these Rudras.}}
+---json
+{
+    "name":"rudrasya",
+    "h1":"rudrasya",
+    "title":"rudrasya",
+    "description":"of Lord Śiva (the most powerful among the demigods); of Lord Śiva; of these Rudras."
+}
+---
 
 ==== rudrasya  ====
   * of Lord Śiva (the most powerful among the demigods) --- [[books:sb:7:10:51|SB 7.10.51]]

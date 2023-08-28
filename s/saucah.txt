@@ -1,5 +1,11 @@
-~~Title:śaucāḥ~~
-{{description>cleanliness being abandoned.}}
+---json
+{
+    "name":"śaucāḥ",
+    "h1":"śaucāḥ",
+    "title":"śaucāḥ",
+    "description":"cleanliness being abandoned."
+}
+---
 
 ==== naṣṭa-śaucāḥ  ====
   * cleanliness being abandoned --- [[books:sb:4:2:29|SB 4.2.29]]

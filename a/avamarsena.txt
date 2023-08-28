@@ -1,5 +1,11 @@
-~~Title:avamarśena~~
-{{description>by reflecting upon; fine judgment by intelligence.}}
+---json
+{
+    "name":"avamarśena",
+    "h1":"avamarśena",
+    "title":"avamarśena",
+    "description":"by reflecting upon; fine judgment by intelligence."
+}
+---
 
 ==== avamarśena  ====
   * by reflecting upon --- [[books:sb:3:27:20|SB 3.27.20]]

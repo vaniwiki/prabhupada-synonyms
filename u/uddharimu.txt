@@ -1,5 +1,11 @@
-~~Title:uddhārimu~~
-{{description>I shall not deliver.}}
+---json
+{
+    "name":"uddhārimu",
+    "h1":"uddhārimu",
+    "title":"uddhārimu",
+    "description":"I shall not deliver."
+}
+---
 
 ==== nā uddhārimu  ====
   * I shall not deliver --- [[books:cc:adi:17:51|Ādi 17.51]]

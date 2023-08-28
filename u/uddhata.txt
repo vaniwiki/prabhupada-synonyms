@@ -1,5 +1,11 @@
-~~Title:uddhata~~
-{{description>aggressive; agitated.}}
+---json
+{
+    "name":"uddhata",
+    "h1":"uddhata",
+    "title":"uddhata",
+    "description":"aggressive; agitated."
+}
+---
 
 ==== uddhata  ====
   * aggressive --- [[books:cc:madhya:21:142|Madhya 21.142]]

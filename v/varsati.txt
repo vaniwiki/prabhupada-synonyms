@@ -1,5 +1,11 @@
-~~Title:varṣati~~
-{{description>are pouring rain; he fulfills; in pouring water; pouring; showers rain; while it was raining.}}
+---json
+{
+    "name":"varṣati",
+    "h1":"varṣati",
+    "title":"varṣati",
+    "description":"are pouring rain; he fulfills; in pouring water; pouring; showers rain; while it was raining."
+}
+---
 
 ==== varṣati  ====
   * are pouring rain --- [[books:sb:8:21:30|SB 8.21.30]]

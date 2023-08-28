@@ -1,5 +1,11 @@
-~~Title:vijane~~
-{{description>in solitary places; in that lonely place; solitary.}}
+---json
+{
+    "name":"vijane",
+    "h1":"vijane",
+    "title":"vijane",
+    "description":"in solitary places; in that lonely place; solitary."
+}
+---
 
 ==== vijane  ====
   * in solitary places --- [[books:sb:7:9:44|SB 7.9.44]]

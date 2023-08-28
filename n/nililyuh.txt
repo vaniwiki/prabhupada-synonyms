@@ -1,5 +1,11 @@
-~~Title:nililyuḥ~~
-{{description>hid themselves; submerged; will hide themselves.}}
+---json
+{
+    "name":"nililyuḥ",
+    "h1":"nililyuḥ",
+    "title":"nililyuḥ",
+    "description":"hid themselves; submerged; will hide themselves."
+}
+---
 
 ==== nililyuḥ  ====
   * hid themselves --- [[books:sb:4:14:3|SB 4.14.3]]

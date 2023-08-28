@@ -1,5 +1,11 @@
-~~Title:bhūmibhiḥ~~
-{{description>possessing areas.}}
+---json
+{
+    "name":"bhūmibhiḥ",
+    "h1":"bhūmibhiḥ",
+    "title":"bhūmibhiḥ",
+    "description":"possessing areas."
+}
+---
 
 ==== bhūmibhiḥ  ====
   * possessing areas --- [[books:sb:5:24:9|SB 5.24.9]]

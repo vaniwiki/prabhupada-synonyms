@@ -1,5 +1,11 @@
-~~Title:garjana~~
-{{description>bellowing; protesting; resonations; thundering.}}
+---json
+{
+    "name":"garjana",
+    "h1":"garjana",
+    "title":"garjana",
+    "description":"bellowing; protesting; resonations; thundering."
+}
+---
 
 ==== garjana  ====
   * bellowing --- [[books:cc:madhya:3:115|Madhya 3.115]]

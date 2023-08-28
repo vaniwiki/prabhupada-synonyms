@@ -1,5 +1,11 @@
-~~Title:tapasyā~~
-{{description>austerities.}}
+---json
+{
+    "name":"tapasyā",
+    "h1":"tapasyā",
+    "title":"tapasyā",
+    "description":"austerities."
+}
+---
 
 ==== tapasyā  ====
   * austerities --- [[books:cc:antya:16:149|Antya 16.149]]

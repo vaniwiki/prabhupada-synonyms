@@ -1,5 +1,11 @@
-~~Title:mogham~~
-{{description>useless.}}
+---json
+{
+    "name":"mogham",
+    "h1":"mogham",
+    "title":"mogham",
+    "description":"useless."
+}
+---
 
 ==== mogham  ====
   * useless --- [[books:bg:3:16|Bg. 3.16]]

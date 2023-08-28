@@ -1,5 +1,11 @@
-~~Title:autsukya~~
-{{description>eagerness.}}
+---json
+{
+    "name":"autsukya",
+    "h1":"autsukya",
+    "title":"autsukya",
+    "description":"eagerness."
+}
+---
 
 ==== autsukya  ====
   * eagerness --- [[books:cc:madhya:2:63|Madhya 2.63]], [[books:cc:antya:17:49|Antya 17.49]]

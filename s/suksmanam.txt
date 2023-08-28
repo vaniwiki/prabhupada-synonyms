@@ -1,5 +1,11 @@
-~~Title:sūkṣmāṇām~~
-{{description>of the minute particles.}}
+---json
+{
+    "name":"sūkṣmāṇām",
+    "h1":"sūkṣmāṇām",
+    "title":"sūkṣmāṇām",
+    "description":"of the minute particles."
+}
+---
 
 ==== sūkṣmāṇām  ====
   * of the minute particles --- [[books:cc:madhya:19:142|Madhya 19.142]]

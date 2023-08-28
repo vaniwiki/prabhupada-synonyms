@@ -1,5 +1,11 @@
-~~Title:vicakṣaṇena~~
-{{description>by observing.}}
+---json
+{
+    "name":"vicakṣaṇena",
+    "h1":"vicakṣaṇena",
+    "title":"vicakṣaṇena",
+    "description":"by observing."
+}
+---
 
 ==== vicakṣaṇena  ====
   * by observing --- [[books:sb:5:5:10-13|SB 5.5.10-13]]

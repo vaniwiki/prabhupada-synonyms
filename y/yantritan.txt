@@ -1,5 +1,11 @@
-~~Title:yantritān~~
-{{description>well controlled.}}
+---json
+{
+    "name":"yantritān",
+    "h1":"yantritān",
+    "title":"yantritān",
+    "description":"well controlled."
+}
+---
 
 ==== su-yantritān  ====
   * well controlled --- [[books:sb:5:4:19|SB 5.4.19]]

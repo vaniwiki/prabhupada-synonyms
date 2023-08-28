@@ -1,5 +1,11 @@
-~~Title:caram~~
-{{description>grazing; moving; moving living entities.}}
+---json
+{
+    "name":"caram",
+    "h1":"caram",
+    "title":"caram",
+    "description":"grazing; moving; moving living entities."
+}
+---
 
 ==== caram  ====
   * grazing --- [[books:sb:4:29:53|SB 4.29.53]]

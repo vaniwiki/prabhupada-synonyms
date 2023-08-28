@@ -1,5 +1,11 @@
-~~Title:vṛkṇāḥ~~
-{{description>cut.}}
+---json
+{
+    "name":"vṛkṇāḥ",
+    "h1":"vṛkṇāḥ",
+    "title":"vṛkṇāḥ",
+    "description":"cut."
+}
+---
 
 ==== vṛkṇāḥ  ====
   * cut --- [[books:sb:6:18:72|SB 6.18.72]]

@@ -1,5 +1,11 @@
-~~Title:udapādayat~~
-{{description>begot.}}
+---json
+{
+    "name":"udapādayat",
+    "h1":"udapādayat",
+    "title":"udapādayat",
+    "description":"begot."
+}
+---
 
 ==== udapādayat  ====
   * begot --- [[books:sb:9:24:46|SB 9.24.46]]

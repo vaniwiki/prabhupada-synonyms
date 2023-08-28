@@ -1,5 +1,11 @@
-~~Title:saṁśrayam~~
-{{description>friction with one another.}}
+---json
+{
+    "name":"saṁśrayam",
+    "h1":"saṁśrayam",
+    "title":"saṁśrayam",
+    "description":"friction with one another."
+}
+---
 
 ==== saṁśrayam  ====
   * friction with one another --- [[books:sb:3:1:21|SB 3.1.21]]

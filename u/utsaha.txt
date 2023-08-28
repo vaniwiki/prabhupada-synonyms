@@ -1,5 +1,11 @@
-~~Title:utsāha~~
-{{description>enthusiasm.}}
+---json
+{
+    "name":"utsāha",
+    "h1":"utsāha",
+    "title":"utsāha",
+    "description":"enthusiasm."
+}
+---
 
 ==== utsāha  ====
   * enthusiasm --- [[books:cc:madhya:4:185|Madhya 4.185]]

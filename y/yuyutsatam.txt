@@ -1,5 +1,11 @@
-~~Title:yuyutsatām~~
-{{description>of those who are belligerent.}}
+---json
+{
+    "name":"yuyutsatām",
+    "h1":"yuyutsatām",
+    "title":"yuyutsatām",
+    "description":"of those who are belligerent."
+}
+---
 
 ==== yuyutsatām  ====
   * of those who are belligerent --- [[books:sb:6:12:7|SB 6.12.7]]

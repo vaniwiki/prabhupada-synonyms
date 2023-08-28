@@ -1,5 +1,11 @@
-~~Title:vyapanayan~~
-{{description>finishing.}}
+---json
+{
+    "name":"vyapanayan",
+    "h1":"vyapanayan",
+    "title":"vyapanayan",
+    "description":"finishing."
+}
+---
 
 ==== vyapanayan  ====
   * finishing --- [[books:sb:5:10:14|SB 5.10.14]]

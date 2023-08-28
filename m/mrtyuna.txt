@@ -1,5 +1,11 @@
-~~Title:mṛtyunā~~
-{{description>by death.}}
+---json
+{
+    "name":"mṛtyunā",
+    "h1":"mṛtyunā",
+    "title":"mṛtyunā",
+    "description":"by death."
+}
+---
 
 ==== mṛtyunā  ====
   * by death --- [[books:sb:3:29:45|SB 3.29.45]], [[books:sb:4:11:19|SB 4.11.19]]

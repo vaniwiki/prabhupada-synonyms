@@ -1,5 +1,11 @@
-~~Title:viduṣām~~
-{{description>of learned persons.}}
+---json
+{
+    "name":"viduṣām",
+    "h1":"viduṣām",
+    "title":"viduṣām",
+    "description":"of learned persons."
+}
+---
 
 ==== viduṣām  ====
   * of learned persons --- [[books:sb:10:1:58|SB 10.1.58]]

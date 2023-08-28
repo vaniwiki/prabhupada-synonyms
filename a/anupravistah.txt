@@ -1,5 +1,11 @@
-~~Title:anupravistah~~
-{{description>entered into; entered within; entering afterward; entering afterwards; entering into; thus entering later on; You enter.}}
+---json
+{
+    "name":"anupravistah",
+    "h1":"anupravistah",
+    "title":"anupravistah",
+    "description":"entered into; entered within; entering afterward; entering afterwards; entering into; thus entering later on; You enter."
+}
+---
 
 ==== anupraviṣṭaḥ  ====
   * entered into --- [[books:sb:7:9:12|SB 7.9.12]]

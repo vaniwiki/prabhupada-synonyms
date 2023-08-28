@@ -1,5 +1,11 @@
-~~Title:prarthana~~
-{{description>begging; desiring; request.}}
+---json
+{
+    "name":"prarthana",
+    "h1":"prarthana",
+    "title":"prarthana",
+    "description":"begging; desiring; request."
+}
+---
 
 ==== prārthana  ====
   * begging --- [[books:cc:madhya:12:112|Madhya 12.112]]

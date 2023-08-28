@@ -1,5 +1,11 @@
-~~Title:sukhasya~~
-{{description>from happiness; happiness; of happiness; of the happiness.}}
+---json
+{
+    "name":"sukhasya",
+    "h1":"sukhasya",
+    "title":"sukhasya",
+    "description":"from happiness; happiness; of happiness; of the happiness."
+}
+---
 
 ==== sukhasya  ====
   * from happiness --- [[books:sb:3:25:13|SB 3.25.13]]

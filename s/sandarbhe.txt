@@ -1,5 +1,11 @@
-~~Title:sandarbhe~~
-{{description>thesis.}}
+---json
+{
+    "name":"sandarbhe",
+    "h1":"sandarbhe",
+    "title":"sandarbhe",
+    "description":"thesis."
+}
+---
 
 ==== sandarbhe  ====
   * thesis --- [[books:cc:madhya:24:18|Madhya 24.18]]

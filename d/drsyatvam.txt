@@ -1,5 +1,11 @@
-~~Title:dṛśyatvam~~
-{{description>for the purpose of seeing.}}
+---json
+{
+    "name":"dṛśyatvam",
+    "h1":"dṛśyatvam",
+    "title":"dṛśyatvam",
+    "description":"for the purpose of seeing."
+}
+---
 
 ==== dṛśyatvam  ====
   * for the purpose of seeing --- [[books:sb:1:3:31|SB 1.3.31]]

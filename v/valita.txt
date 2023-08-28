@@ -1,5 +1,11 @@
-~~Title:valita~~
-{{description>decorated.}}
+---json
+{
+    "name":"valita",
+    "h1":"valita",
+    "title":"valita",
+    "description":"decorated."
+}
+---
 
 ==== valita  ====
   * decorated --- [[books:cc:madhya:14:189|Madhya 14.189]]

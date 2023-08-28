@@ -1,5 +1,11 @@
-~~Title:kuśāmbujaḥ~~
-{{description>the son of Kuśāmbu.}}
+---json
+{
+    "name":"kuśāmbujaḥ",
+    "h1":"kuśāmbujaḥ",
+    "title":"kuśāmbujaḥ",
+    "description":"the son of Kuśāmbu."
+}
+---
 
 ==== kuśāmbujaḥ  ====
   * the son of Kuśāmbu --- [[books:sb:9:15:4|SB 9.15.4]]

@@ -1,5 +1,11 @@
-~~Title:kasyāñcit~~
-{{description>in some.}}
+---json
+{
+    "name":"kasyāñcit",
+    "h1":"kasyāñcit",
+    "title":"kasyāñcit",
+    "description":"in some."
+}
+---
 
 ==== kasyāñcit  ====
   * in some --- [[books:sb:5:8:6|SB 5.8.6]]

@@ -1,5 +1,11 @@
-~~Title:vancha~~
-{{description>you desire.}}
+---json
+{
+    "name":"vancha",
+    "h1":"vancha",
+    "title":"vancha",
+    "description":"you desire."
+}
+---
 
 ==== vāñcha  ====
   * you desire --- [[books:cc:madhya:16:140|Madhya 16.140]]

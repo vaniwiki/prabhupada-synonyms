@@ -1,5 +1,11 @@
-~~Title:naihāram~~
-{{description>produced by snow.}}
+---json
+{
+    "name":"naihāram",
+    "h1":"naihāram",
+    "title":"naihāram",
+    "description":"produced by snow."
+}
+---
 
 ==== naihāram  ====
   * produced by snow --- [[books:sb:10:13:45|SB 10.13.45]]

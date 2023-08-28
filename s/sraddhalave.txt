@@ -1,5 +1,11 @@
-~~Title:śraddhālave~~
-{{description>unto one who is faithful.}}
+---json
+{
+    "name":"śraddhālave",
+    "h1":"śraddhālave",
+    "title":"śraddhālave",
+    "description":"unto one who is faithful."
+}
+---
 
 ==== śraddhālave  ====
   * unto one who is faithful --- [[books:sb:3:8:9|SB 3.8.9]]

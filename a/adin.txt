@@ -1,5 +1,11 @@
-~~Title:ādīn~~
-{{description>all of them together; and others; and so on; headed by.}}
+---json
+{
+    "name":"ādīn",
+    "h1":"ādīn",
+    "title":"ādīn",
+    "description":"all of them together; and others; and so on; headed by."
+}
+---
 
 ==== ādīn  ====
   * all of them together --- [[books:sb:9:10:18|SB 9.10.18]]

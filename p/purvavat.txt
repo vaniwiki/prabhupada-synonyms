@@ -1,5 +1,11 @@
-~~Title:pūrvavat~~
-{{description>as before; as it was previously; as previously; like previously; Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"pūrvavat",
+    "h1":"pūrvavat",
+    "title":"pūrvavat",
+    "description":"as before; as it was previously; as previously; like previously; Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== pūrvavat  ====
   * as before --- [[books:cc:antya:17:21|Antya 17.21]]

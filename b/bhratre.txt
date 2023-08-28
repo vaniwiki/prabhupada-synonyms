@@ -1,5 +1,11 @@
-~~Title:bhrātre~~
-{{description>on his brother's; unto His brother.}}
+---json
+{
+    "name":"bhrātre",
+    "h1":"bhrātre",
+    "title":"bhrātre",
+    "description":"on his brother's; unto His brother."
+}
+---
 
 ==== bhrātre  ====
   * on his brother's --- [[books:sb:3:1:41|SB 3.1.41]]

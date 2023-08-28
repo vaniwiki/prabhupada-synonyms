@@ -1,5 +1,11 @@
-~~Title:saṅkramamāṇaḥ~~
-{{description>traveling.}}
+---json
+{
+    "name":"saṅkramamāṇaḥ",
+    "h1":"saṅkramamāṇaḥ",
+    "title":"saṅkramamāṇaḥ",
+    "description":"traveling."
+}
+---
 
 ==== saṅkramamāṇaḥ  ====
   * traveling --- [[books:sb:5:6:7|SB 5.6.7]]

@@ -1,5 +1,11 @@
-~~Title:jyeṭhā~~
-{{description>and his elder brother; his elder brother; the father's elder brothers.}}
+---json
+{
+    "name":"jyeṭhā",
+    "h1":"jyeṭhā",
+    "title":"jyeṭhā",
+    "description":"and his elder brother; his elder brother; the father's elder brothers."
+}
+---
 
 ==== jyeṭhā  ====
   * and his elder brother --- [[books:cc:antya:6:25|Antya 6.25]]

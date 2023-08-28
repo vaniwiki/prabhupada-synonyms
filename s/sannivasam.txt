@@ -1,5 +1,11 @@
-~~Title:sannivāsam~~
-{{description>living in the association.}}
+---json
+{
+    "name":"sannivāsam",
+    "h1":"sannivāsam",
+    "title":"sannivāsam",
+    "description":"living in the association."
+}
+---
 
 ==== sannivāsam  ====
   * living in the association --- [[books:sb:9:19:27-28|SB 9.19.27-28]]

@@ -1,5 +1,11 @@
-~~Title:kapila~~
-{{description>by Kapila.}}
+---json
+{
+    "name":"kapila",
+    "h1":"kapila",
+    "title":"kapila",
+    "description":"by Kapila."
+}
+---
 
 ==== kapila  ====
   * by Kapila --- [[books:sb:3:33:30|SB 3.33.30]]

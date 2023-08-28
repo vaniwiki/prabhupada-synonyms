@@ -1,5 +1,11 @@
-~~Title:vistāriṇī~~
-{{description>expanded everywhere.}}
+---json
+{
+    "name":"vistāriṇī",
+    "h1":"vistāriṇī",
+    "title":"vistāriṇī",
+    "description":"expanded everywhere."
+}
+---
 
 ==== vistāriṇī  ====
   * expanded everywhere --- [[books:cc:madhya:20:110|Madhya 20.110]]

@@ -1,5 +1,11 @@
-~~Title:māndhātuḥ~~
-{{description>called Māndhātā; of Māndhātā.}}
+---json
+{
+    "name":"māndhātuḥ",
+    "h1":"māndhātuḥ",
+    "title":"māndhātuḥ",
+    "description":"called Māndhātā; of Māndhātā."
+}
+---
 
 ==== māndhātuḥ  ====
   * called Māndhātā --- [[books:sb:9:6:37|SB 9.6.37]]

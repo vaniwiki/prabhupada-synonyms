@@ -1,5 +1,11 @@
-~~Title:kajjalam~~
-{{description>who has defamed the family tradition.}}
+---json
+{
+    "name":"kajjalam",
+    "h1":"kajjalam",
+    "title":"kajjalam",
+    "description":"who has defamed the family tradition."
+}
+---
 
 ==== kula-kajjalam  ====
   * who has defamed the family tradition --- [[books:sb:6:2:27|SB 6.2.27]]

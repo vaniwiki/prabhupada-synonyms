@@ -1,5 +1,11 @@
-~~Title:vivṛta~~
-{{description>taking the opportunity of.}}
+---json
+{
+    "name":"vivṛta",
+    "h1":"vivṛta",
+    "title":"vivṛta",
+    "description":"taking the opportunity of."
+}
+---
 
 ==== vivṛta-avasarasya  ====
   * taking the opportunity of --- [[books:sb:5:2:6|SB 5.2.6]]

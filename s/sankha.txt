@@ -1,5 +1,11 @@
-~~Title:śaṅkha~~
-{{description>a conchshell; conch; conches; conchshell; conchshells; of a conchshell; of conchshells; of vibrating conchshells; one trillion; Śaṅkha.}}
+---json
+{
+    "name":"śaṅkha",
+    "h1":"śaṅkha",
+    "title":"śaṅkha",
+    "description":"a conchshell; conch; conches; conchshell; conchshells; of a conchshell; of conchshells; of vibrating conchshells; one trillion; Śaṅkha."
+}
+---
 
 ==== śaṅkha  ====
   * a conchshell --- [[books:cc:madhya:24:156|Madhya 24.156]]

@@ -1,5 +1,11 @@
-~~Title:bhāvayanti~~
-{{description>as also protect; meditate.}}
+---json
+{
+    "name":"bhāvayanti",
+    "h1":"bhāvayanti",
+    "title":"bhāvayanti",
+    "description":"as also protect; meditate."
+}
+---
 
 ==== bhāvayanti  ====
   * as also protect --- [[books:sb:1:15:24|SB 1.15.24]]

@@ -1,5 +1,11 @@
-~~Title:adbhutatamam~~
-{{description>most wonderful.}}
+---json
+{
+    "name":"adbhutatamam",
+    "h1":"adbhutatamam",
+    "title":"adbhutatamam",
+    "description":"most wonderful."
+}
+---
 
 ==== adbhutatamam  ====
   * most wonderful --- [[books:sb:7:1:21|SB 7.1.21]]

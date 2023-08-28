@@ -1,5 +1,11 @@
-~~Title:am~~
-{{description>by force.}}
+---json
+{
+    "name":"am",
+    "h1":"am",
+    "title":"am",
+    "description":"by force."
+}
+---
 
 ==== bali-am  ====
   * by force --- [[books:cc:antya:1:144|Antya 1.144]]

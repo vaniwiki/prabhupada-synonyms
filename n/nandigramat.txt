@@ -1,5 +1,11 @@
-~~Title:nandigrāmāt~~
-{{description>from His residence, known as Nandigrāma.}}
+---json
+{
+    "name":"nandigrāmāt",
+    "h1":"nandigrāmāt",
+    "title":"nandigrāmāt",
+    "description":"from His residence, known as Nandigrāma."
+}
+---
 
 ==== nandigrāmāt  ====
   * from His residence, known as Nandigrāma --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

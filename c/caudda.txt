@@ -1,5 +1,11 @@
-~~Title:caudda~~
-{{description>14; fourteen.}}
+---json
+{
+    "name":"caudda",
+    "h1":"caudda",
+    "title":"caudda",
+    "description":"14; fourteen."
+}
+---
 
 ==== caudda  ====
   * 14 --- [[books:cc:madhya:20:320|Madhya 20.320]], [[books:cc:madhya:20:321|Madhya 20.321]]

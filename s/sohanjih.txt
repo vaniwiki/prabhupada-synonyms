@@ -1,5 +1,11 @@
-~~Title:sohañjiḥ~~
-{{description>Sohañji.}}
+---json
+{
+    "name":"sohañjiḥ",
+    "h1":"sohañjiḥ",
+    "title":"sohañjiḥ",
+    "description":"Sohañji."
+}
+---
 
 ==== sohañjiḥ  ====
   * Sohañji --- [[books:sb:9:23:22|SB 9.23.22]]

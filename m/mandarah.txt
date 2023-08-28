@@ -1,5 +1,11 @@
-~~Title:mandaraḥ~~
-{{description>the mountain known as Mandara; the mountain named Mandara.}}
+---json
+{
+    "name":"mandaraḥ",
+    "h1":"mandaraḥ",
+    "title":"mandaraḥ",
+    "description":"the mountain known as Mandara; the mountain named Mandara."
+}
+---
 
 ==== mandaraḥ  ====
   * the mountain known as Mandara --- [[books:sb:8:5:10|SB 8.5.10]]

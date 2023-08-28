@@ -1,5 +1,11 @@
-~~Title:anunayan~~
-{{description>pacifying.}}
+---json
+{
+    "name":"anunayan",
+    "h1":"anunayan",
+    "title":"anunayan",
+    "description":"pacifying."
+}
+---
 
 ==== anunayan  ====
   * pacifying --- [[books:sb:3:14:16|SB 3.14.16]]

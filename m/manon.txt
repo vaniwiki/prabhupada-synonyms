@@ -1,5 +1,11 @@
-~~Title:mānoṅ~~
-{{description>accept.}}
+---json
+{
+    "name":"mānoṅ",
+    "h1":"mānoṅ",
+    "title":"mānoṅ",
+    "description":"accept."
+}
+---
 
 ==== mānoṅ  ====
   * accept --- [[books:cc:madhya:21:25|Madhya 21.25]]

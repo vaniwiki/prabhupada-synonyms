@@ -1,5 +1,11 @@
-~~Title:raivatakaḥ~~
-{{description>Raivataka.}}
+---json
+{
+    "name":"raivatakaḥ",
+    "h1":"raivatakaḥ",
+    "title":"raivatakaḥ",
+    "description":"Raivataka."
+}
+---
 
 ==== raivatakaḥ  ====
   * Raivataka --- [[books:sb:5:19:16|SB 5.19.16]]

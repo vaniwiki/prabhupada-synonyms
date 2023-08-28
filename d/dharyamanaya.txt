@@ -1,5 +1,11 @@
-~~Title:dhāryamāṇayā~~
-{{description>being carefully practiced.}}
+---json
+{
+    "name":"dhāryamāṇayā",
+    "h1":"dhāryamāṇayā",
+    "title":"dhāryamāṇayā",
+    "description":"being carefully practiced."
+}
+---
 
 ==== dhāryamāṇayā  ====
   * being carefully practiced --- [[books:sb:6:16:28|SB 6.16.28]]

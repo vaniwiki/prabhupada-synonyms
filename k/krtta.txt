@@ -1,5 +1,11 @@
-~~Title:kṛtta~~
-{{description>of Kārtavīryārjuna, whose arms were cut off.}}
+---json
+{
+    "name":"kṛtta",
+    "h1":"kṛtta",
+    "title":"kṛtta",
+    "description":"of Kārtavīryārjuna, whose arms were cut off."
+}
+---
 
 ==== kṛtta-bāhoḥ  ====
   * of Kārtavīryārjuna, whose arms were cut off --- [[books:sb:9:15:35-36|SB 9.15.35-36]]

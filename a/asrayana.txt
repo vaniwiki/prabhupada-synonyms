@@ -1,5 +1,11 @@
-~~Title:āśrayaṇa~~
-{{description>accepting a bona fide spiritual master.}}
+---json
+{
+    "name":"āśrayaṇa",
+    "h1":"āśrayaṇa",
+    "title":"āśrayaṇa",
+    "description":"accepting a bona fide spiritual master."
+}
+---
 
 ==== guru-āśrayaṇa  ====
   * accepting a bona fide spiritual master --- [[books:cc:madhya:24:329|Madhya 24.329]]

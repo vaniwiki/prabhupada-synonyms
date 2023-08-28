@@ -1,5 +1,11 @@
-~~Title:adhyagaccham~~
-{{description>properly understood.}}
+---json
+{
+    "name":"adhyagaccham",
+    "h1":"adhyagaccham",
+    "title":"adhyagaccham",
+    "description":"properly understood."
+}
+---
 
 ==== adhyagaccham  ====
   * properly understood --- [[books:sb:2:6:35|SB 2.6.35]]

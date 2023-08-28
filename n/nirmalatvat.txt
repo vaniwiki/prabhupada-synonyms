@@ -1,5 +1,11 @@
-~~Title:nirmalatvāt~~
-{{description>being purest in the material world.}}
+---json
+{
+    "name":"nirmalatvāt",
+    "h1":"nirmalatvāt",
+    "title":"nirmalatvāt",
+    "description":"being purest in the material world."
+}
+---
 
 ==== nirmalatvāt  ====
   * being purest in the material world --- [[books:bg:14:6|Bg. 14.6]]

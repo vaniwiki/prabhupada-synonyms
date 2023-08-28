@@ -1,5 +1,11 @@
-~~Title:nigṛhṇāmi~~
-{{description>withold.}}
+---json
+{
+    "name":"nigṛhṇāmi",
+    "h1":"nigṛhṇāmi",
+    "title":"nigṛhṇāmi",
+    "description":"withold."
+}
+---
 
 ==== nigṛhṇāmi  ====
   * withold --- [[books:bg:9:19|Bg. 9.19]]

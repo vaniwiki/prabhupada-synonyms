@@ -1,5 +1,11 @@
-~~Title:jāt~~
-{{description>due to bewilderment.}}
+---json
+{
+    "name":"jāt",
+    "h1":"jāt",
+    "title":"jāt",
+    "description":"due to bewilderment."
+}
+---
 
 ==== moha-jāt  ====
   * due to bewilderment --- [[books:sb:1:13:44|SB 1.13.44]]

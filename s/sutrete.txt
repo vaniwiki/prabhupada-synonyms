@@ -1,5 +1,11 @@
-~~Title:sūtrete~~
-{{description>in the aphorisms.}}
+---json
+{
+    "name":"sūtrete",
+    "h1":"sūtrete",
+    "title":"sūtrete",
+    "description":"in the aphorisms."
+}
+---
 
 ==== sūtrete  ====
   * in the aphorisms --- [[books:cc:adi:7:121|Ādi 7.121]]

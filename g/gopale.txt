@@ -1,5 +1,11 @@
-~~Title:gopāle~~
-{{description>Gopāla; on Gopāla; the Deity Gopāla; to my Gopāla; to Śrī Gopāla.}}
+---json
+{
+    "name":"gopāle",
+    "h1":"gopāle",
+    "title":"gopāle",
+    "description":"Gopāla; on Gopāla; the Deity Gopāla; to my Gopāla; to Śrī Gopāla."
+}
+---
 
 ==== gopāle  ====
   * Gopāla --- [[books:cc:madhya:5:117|Madhya 5.117]], [[books:cc:madhya:18:39|Madhya 18.39]]

@@ -1,5 +1,11 @@
-~~Title:durūhaḥ~~
-{{description>difficult to be understood.}}
+---json
+{
+    "name":"durūhaḥ",
+    "h1":"durūhaḥ",
+    "title":"durūhaḥ",
+    "description":"difficult to be understood."
+}
+---
 
 ==== durūhaḥ  ====
   * difficult to be understood --- [[books:cc:madhya:23:100|Madhya 23.100]]

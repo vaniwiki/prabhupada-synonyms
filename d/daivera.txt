@@ -1,5 +1,11 @@
-~~Title:daivera~~
-{{description>of destiny; of providence.}}
+---json
+{
+    "name":"daivera",
+    "h1":"daivera",
+    "title":"daivera",
+    "description":"of destiny; of providence."
+}
+---
 
 ==== daivera  ====
   * of destiny --- [[books:cc:adi:4:31|Ādi 4.31]]

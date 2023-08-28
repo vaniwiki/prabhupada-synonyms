@@ -1,5 +1,11 @@
-~~Title:phalam~~
-{{description>a fruit; fruit (which has come down without being distorted); fruit; fruitive result; fruits; result; result of sacrifice; results; results of action; the fruit; the perfect result of the action; the perfection of activities; the result; the resultant action.}}
+---json
+{
+    "name":"phalam",
+    "h1":"phalam",
+    "title":"phalam",
+    "description":"a fruit; fruit (which has come down without being distorted); fruit; fruitive result; fruits; result; result of sacrifice; results; results of action; the fruit; the perfect result of the action; the perfection of activities; the result; the resultant action."
+}
+---
 
 ==== phalam  ====
   * a fruit --- [[books:bg:9:26|Bg. 9.26]]

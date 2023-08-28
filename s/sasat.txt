@@ -1,5 +1,11 @@
-~~Title:śāsat~~
-{{description>ruling.}}
+---json
+{
+    "name":"śāsat",
+    "h1":"śāsat",
+    "title":"śāsat",
+    "description":"ruling."
+}
+---
 
 ==== śāsat  ====
   * ruling --- [[books:sb:9:6:11|SB 9.6.11]]

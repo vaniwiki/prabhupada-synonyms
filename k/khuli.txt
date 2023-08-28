@@ -1,5 +1,11 @@
-~~Title:khuli~~
-{{description>opening.}}
+---json
+{
+    "name":"khuli",
+    "h1":"khuli",
+    "title":"khuli",
+    "description":"opening."
+}
+---
 
 ==== khuli  ====
   * opening --- [[books:cc:madhya:4:130|Madhya 4.130]]

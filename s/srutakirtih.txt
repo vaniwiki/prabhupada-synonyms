@@ -1,5 +1,11 @@
-~~Title:śrutakīrtiḥ~~
-{{description>a son named Śrutakīrti; Śrutakīrti.}}
+---json
+{
+    "name":"śrutakīrtiḥ",
+    "h1":"śrutakīrtiḥ",
+    "title":"śrutakīrtiḥ",
+    "description":"a son named Śrutakīrti; Śrutakīrti."
+}
+---
 
 ==== śrutakīrtiḥ  ====
   * a son named Śrutakīrti --- [[books:sb:9:22:29|SB 9.22.29]]

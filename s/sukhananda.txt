@@ -1,5 +1,11 @@
-~~Title:sukhānanda~~
-{{description>of the name Sukhānanda Purī.}}
+---json
+{
+    "name":"sukhānanda",
+    "h1":"sukhānanda",
+    "title":"sukhānanda",
+    "description":"of the name Sukhānanda Purī."
+}
+---
 
 ==== purī sukhānanda  ====
   * of the name Sukhānanda Purī --- [[books:cc:adi:9:13-15|Ādi 9.13-15]]

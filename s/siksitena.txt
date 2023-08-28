@@ -1,5 +1,11 @@
-~~Title:śikṣitena~~
-{{description>by being instructed.}}
+---json
+{
+    "name":"śikṣitena",
+    "h1":"śikṣitena",
+    "title":"śikṣitena",
+    "description":"by being instructed."
+}
+---
 
 ==== śikṣitena  ====
   * by being instructed --- [[books:sb:5:10:13|SB 5.10.13]]

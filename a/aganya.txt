@@ -1,5 +1,11 @@
-~~Title:agaṇya~~
-{{description>innumerable.}}
+---json
+{
+    "name":"agaṇya",
+    "h1":"agaṇya",
+    "title":"agaṇya",
+    "description":"innumerable."
+}
+---
 
 ==== agaṇya  ====
   * innumerable --- [[books:cc:adi:5:67|Ādi 5.67]], [[books:cc:antya:9:1|Antya 9.1]]

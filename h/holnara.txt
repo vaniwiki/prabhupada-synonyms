@@ -1,5 +1,11 @@
-~~Title:holnāra~~
-{{description>from the big pots.}}
+---json
+{
+    "name":"holnāra",
+    "h1":"holnāra",
+    "title":"holnāra",
+    "description":"from the big pots."
+}
+---
 
 ==== holnāra  ====
   * from the big pots --- [[books:cc:antya:6:79|Antya 6.79]]

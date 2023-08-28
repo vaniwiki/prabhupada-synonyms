@@ -1,5 +1,11 @@
-~~Title:triḥ~~
-{{description>three times (seven); three times; thrice.}}
+---json
+{
+    "name":"triḥ",
+    "h1":"triḥ",
+    "title":"triḥ",
+    "description":"three times (seven); three times; thrice."
+}
+---
 
 ==== triḥ  ====
   * three times (seven) --- [[books:sb:9:10:6-7|SB 9.10.6-7]]

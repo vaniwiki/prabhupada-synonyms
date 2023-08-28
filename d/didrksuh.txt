@@ -1,5 +1,11 @@
-~~Title:didṛkṣuḥ~~
-{{description>desiring to see; desirous to see.}}
+---json
+{
+    "name":"didṛkṣuḥ",
+    "h1":"didṛkṣuḥ",
+    "title":"didṛkṣuḥ",
+    "description":"desiring to see; desirous to see."
+}
+---
 
 ==== didṛkṣuḥ  ====
   * desiring to see --- [[books:sb:1:6:19|SB 1.6.19]], [[books:sb:3:21:26|SB 3.21.26]], [[books:sb:4:31:30|SB 4.31.30]]

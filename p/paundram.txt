@@ -1,5 +1,11 @@
-~~Title:pauṇḍram~~
-{{description>the conch named Pauṇḍram.}}
+---json
+{
+    "name":"pauṇḍram",
+    "h1":"pauṇḍram",
+    "title":"pauṇḍram",
+    "description":"the conch named Pauṇḍram."
+}
+---
 
 ==== pauṇḍram  ====
   * the conch named Pauṇḍram --- [[books:bg:1:15|Bg. 1.15]]

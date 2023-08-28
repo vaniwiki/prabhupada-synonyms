@@ -1,5 +1,11 @@
-~~Title:satīnām~~
-{{description>of chaste women; so situated.}}
+---json
+{
+    "name":"satīnām",
+    "h1":"satīnām",
+    "title":"satīnām",
+    "description":"of chaste women; so situated."
+}
+---
 
 ==== satīnām  ====
   * of chaste women --- [[books:sb:3:23:10|SB 3.23.10]]

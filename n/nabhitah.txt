@@ -1,5 +1,11 @@
-~~Title:nābhitaḥ~~
-{{description>from the navel; from the navel abdomen; out of the navel abdomen.}}
+---json
+{
+    "name":"nābhitaḥ",
+    "h1":"nābhitaḥ",
+    "title":"nābhitaḥ",
+    "description":"from the navel; from the navel abdomen; out of the navel abdomen."
+}
+---
 
 ==== nābhitaḥ  ====
   * from the navel --- [[books:sb:3:12:24|SB 3.12.24]]

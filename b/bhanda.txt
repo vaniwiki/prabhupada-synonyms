@@ -1,5 +1,11 @@
-~~Title:bhanda~~
-{{description>cheat; hypocrisy.}}
+---json
+{
+    "name":"bhanda",
+    "h1":"bhanda",
+    "title":"bhanda",
+    "description":"cheat; hypocrisy."
+}
+---
 
 ==== bhaṇḍa  ====
   * cheat --- [[books:cc:antya:9:91|Antya 9.91]]

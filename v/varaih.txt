@@ -1,5 +1,11 @@
-~~Title:varaiḥ~~
-{{description>benedictions of material possessions; by benedictions; gifts; other benedictions; with husbands.}}
+---json
+{
+    "name":"varaiḥ",
+    "h1":"varaiḥ",
+    "title":"varaiḥ",
+    "description":"benedictions of material possessions; by benedictions; gifts; other benedictions; with husbands."
+}
+---
 
 ==== varaiḥ  ====
   * benedictions of material possessions --- [[books:sb:7:10:2|SB 7.10.2]]

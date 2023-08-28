@@ -1,5 +1,11 @@
-~~Title:jyāyān~~
-{{description>the greatest.}}
+---json
+{
+    "name":"jyāyān",
+    "h1":"jyāyān",
+    "title":"jyāyān",
+    "description":"the greatest."
+}
+---
 
 ==== jyāyān  ====
   * the greatest --- [[books:sb:2:7:17|SB 2.7.17]]

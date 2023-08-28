@@ -1,5 +1,11 @@
-~~Title:śīrṣaṇya~~
-{{description>by the leading personalities.}}
+---json
+{
+    "name":"śīrṣaṇya",
+    "h1":"śīrṣaṇya",
+    "title":"śīrṣaṇya",
+    "description":"by the leading personalities."
+}
+---
 
 ==== śīrṣaṇya  ====
   * by the leading personalities --- [[books:sb:5:4:15|SB 5.4.15]]

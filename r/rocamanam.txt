@@ -1,5 +1,11 @@
-~~Title:rocamānam~~
-{{description>shining.}}
+---json
+{
+    "name":"rocamānam",
+    "h1":"rocamānam",
+    "title":"rocamānam",
+    "description":"shining."
+}
+---
 
 ==== rocamānam  ====
   * shining --- [[books:sb:6:10:17-18|SB 6.10.17-18]]

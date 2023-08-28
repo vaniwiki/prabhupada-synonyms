@@ -1,5 +1,11 @@
-~~Title:daṇḍite~~
-{{description>to give trouble to a brāhmaṇa.}}
+---json
+{
+    "name":"daṇḍite",
+    "h1":"daṇḍite",
+    "title":"daṇḍite",
+    "description":"to give trouble to a brāhmaṇa."
+}
+---
 
 ==== brāhmaṇa daṇḍite  ====
   * to give trouble to a //brāhmaṇa// --- [[books:cc:madhya:3:85|Madhya 3.85]]

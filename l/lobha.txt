@@ -1,5 +1,11 @@
-~~Title:lobha~~
-{{description>aspiration; attachment; attraction; avarice; by greed; desire; eager desire; greed; hankering; lust for satisfaction of the senses; of covetousness to follow in the footsteps; of greed.}}
+---json
+{
+    "name":"lobha",
+    "h1":"lobha",
+    "title":"lobha",
+    "description":"aspiration; attachment; attraction; avarice; by greed; desire; eager desire; greed; hankering; lust for satisfaction of the senses; of covetousness to follow in the footsteps; of greed."
+}
+---
 
 ==== lobha  ====
   * aspiration --- [[books:cc:adi:7:87|Ādi 7.87]]

@@ -1,5 +1,11 @@
-~~Title:yuktaiḥ~~
-{{description>being so amalgamated; engaged.}}
+---json
+{
+    "name":"yuktaiḥ",
+    "h1":"yuktaiḥ",
+    "title":"yuktaiḥ",
+    "description":"being so amalgamated; engaged."
+}
+---
 
 ==== yuktaiḥ  ====
   * being so amalgamated --- [[books:sb:3:11:40|SB 3.11.40]]

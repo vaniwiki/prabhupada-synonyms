@@ -1,5 +1,11 @@
-~~Title:sadayam~~
-{{description>kindly.}}
+---json
+{
+    "name":"sadayam",
+    "h1":"sadayam",
+    "title":"sadayam",
+    "description":"kindly."
+}
+---
 
 ==== sadayam  ====
   * kindly --- [[books:sb:5:3:16|SB 5.3.16]]

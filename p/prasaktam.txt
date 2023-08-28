@@ -1,5 +1,11 @@
-~~Title:prasaktam~~
-{{description>attached.}}
+---json
+{
+    "name":"prasaktam",
+    "h1":"prasaktam",
+    "title":"prasaktam",
+    "description":"attached."
+}
+---
 
 ==== prasaktam  ====
   * attached --- [[books:sb:3:27:5|SB 3.27.5]]

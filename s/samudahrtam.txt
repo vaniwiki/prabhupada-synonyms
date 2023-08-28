@@ -1,5 +1,11 @@
-~~Title:samudāhṛtam~~
-{{description>described in all details.}}
+---json
+{
+    "name":"samudāhṛtam",
+    "h1":"samudāhṛtam",
+    "title":"samudāhṛtam",
+    "description":"described in all details."
+}
+---
 
 ==== samudāhṛtam  ====
   * described in all details --- [[books:sb:8:16:58|SB 8.16.58]]

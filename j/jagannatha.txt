@@ -1,5 +1,11 @@
-~~Title:jagannātha~~
-{{description>Jagannātha Miśra; Jagannātha Māhāti; Lord Jagannātha; Lord Jagannātha in the temple; of Jagannātha Miśra; of Lord Jagannātha; of the name Jagannātha; the Deity of Lord Jagannātha; the fifth son of Upendra Miśra; the Jagannātha Deity; to Jagannātha Purī; to Lord Jagannātha.}}
+---json
+{
+    "name":"jagannātha",
+    "h1":"jagannātha",
+    "title":"jagannātha",
+    "description":"Jagannātha Miśra; Jagannātha Māhāti; Lord Jagannātha; Lord Jagannātha in the temple; of Jagannātha Miśra; of Lord Jagannātha; of the name Jagannātha; the Deity of Lord Jagannātha; the fifth son of Upendra Miśra; the Jagannātha Deity; to Jagannātha Purī; to Lord Jagannātha."
+}
+---
 
 ==== jagannātha  ====
   * Jagannātha Miśra --- [[books:cc:adi:3:95|Ādi 3.95]], [[books:cc:adi:17:294|Ādi 17.294]]

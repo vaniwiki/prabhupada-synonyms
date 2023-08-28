@@ -1,5 +1,11 @@
-~~Title:ghaṭikābhiḥ~~
-{{description>half hours (actually twenty-four minutes).}}
+---json
+{
+    "name":"ghaṭikābhiḥ",
+    "h1":"ghaṭikābhiḥ",
+    "title":"ghaṭikābhiḥ",
+    "description":"half hours (actually twenty-four minutes)."
+}
+---
 
 ==== ghaṭikābhiḥ  ====
   * half hours (actually twenty-four minutes) --- [[books:sb:5:21:10|SB 5.21.10]]

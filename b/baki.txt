@@ -1,5 +1,11 @@
-~~Title:baki~~
-{{description>Pūtanā, the sister of Bakāsura; the she-demon (Pūtanā).}}
+---json
+{
+    "name":"baki",
+    "h1":"baki",
+    "title":"baki",
+    "description":"Pūtanā, the sister of Bakāsura; the she-demon (Pūtanā)."
+}
+---
 
 ==== bakī  ====
   * Pūtanā, the sister of Bakāsura --- [[books:cc:madhya:22:98|Madhya 22.98]]

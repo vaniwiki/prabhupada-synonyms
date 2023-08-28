@@ -1,5 +1,11 @@
-~~Title:giyāchena~~
-{{description>went.}}
+---json
+{
+    "name":"giyāchena",
+    "h1":"giyāchena",
+    "title":"giyāchena",
+    "description":"went."
+}
+---
 
 ==== giyāchena  ====
   * went --- [[books:cc:madhya:1:59|Madhya 1.59]]

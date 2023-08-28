@@ -1,5 +1,11 @@
-~~Title:anuśuśruma~~
-{{description>heard in succession; I have heard by disciplic succession.}}
+---json
+{
+    "name":"anuśuśruma",
+    "h1":"anuśuśruma",
+    "title":"anuśuśruma",
+    "description":"heard in succession; I have heard by disciplic succession."
+}
+---
 
 ==== anuśuśruma  ====
   * heard in succession --- [[books:sb:3:14:2|SB 3.14.2]]

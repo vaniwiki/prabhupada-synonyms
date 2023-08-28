@@ -1,5 +1,11 @@
-~~Title:digvijayāya~~
-{{description>for the purpose of conquering.}}
+---json
+{
+    "name":"digvijayāya",
+    "h1":"digvijayāya",
+    "title":"digvijayāya",
+    "description":"for the purpose of conquering."
+}
+---
 
 ==== digvijayāya  ====
   * for the purpose of conquering --- [[books:sb:1:16:11|SB 1.16.11]]

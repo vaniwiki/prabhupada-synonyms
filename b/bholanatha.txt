@@ -1,5 +1,11 @@
-~~Title:bholānātha~~
-{{description>of the name Bholānātha dāsa.}}
+---json
+{
+    "name":"bholānātha",
+    "h1":"bholānātha",
+    "title":"bholānātha",
+    "description":"of the name Bholānātha dāsa."
+}
+---
 
 ==== dāsa bholānātha  ====
   * of the name Bholānātha dāsa --- [[books:cc:adi:12:60|Ādi 12.60]]

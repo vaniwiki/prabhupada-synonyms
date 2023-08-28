@@ -1,5 +1,11 @@
-~~Title:vīryau~~
-{{description>both very powerful.}}
+---json
+{
+    "name":"vīryau",
+    "h1":"vīryau",
+    "title":"vīryau",
+    "description":"both very powerful."
+}
+---
 
 ==== mahā-vīryau  ====
   * both very powerful --- [[books:sb:6:12:23|SB 6.12.23]]

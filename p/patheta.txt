@@ -1,5 +1,11 @@
-~~Title:paṭheta~~
-{{description>reads.}}
+---json
+{
+    "name":"paṭheta",
+    "h1":"paṭheta",
+    "title":"paṭheta",
+    "description":"reads."
+}
+---
 
 ==== paṭheta  ====
   * reads --- [[books:sb:7:10:47|SB 7.10.47]]

@@ -1,5 +1,11 @@
-~~Title:mahataḥ~~
-{{description>from the mahat-tattva; of the mahat-tattva; of the Supreme Personality of Godhead; of the total emanation from the Lord; of very great.}}
+---json
+{
+    "name":"mahataḥ",
+    "h1":"mahataḥ",
+    "title":"mahataḥ",
+    "description":"from the mahat-tattva; of the mahat-tattva; of the Supreme Personality of Godhead; of the total emanation from the Lord; of very great."
+}
+---
 
 ==== mahataḥ  ====
   * from the //mahat-tattva// --- [[books:sb:3:20:13|SB 3.20.13]]

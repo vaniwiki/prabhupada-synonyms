@@ -1,5 +1,11 @@
-~~Title:durjayān~~
-{{description>difficult to conquer.}}
+---json
+{
+    "name":"durjayān",
+    "h1":"durjayān",
+    "title":"durjayān",
+    "description":"difficult to conquer."
+}
+---
 
 ==== durjayān  ====
   * difficult to conquer --- [[books:sb:3:14:20|SB 3.14.20]]

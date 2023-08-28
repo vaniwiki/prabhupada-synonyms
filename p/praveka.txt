@@ -1,5 +1,11 @@
-~~Title:praveka~~
-{{description>by use of the best; superior quality; with excellent.}}
+---json
+{
+    "name":"praveka",
+    "h1":"praveka",
+    "title":"praveka",
+    "description":"by use of the best; superior quality; with excellent."
+}
+---
 
 ==== praveka  ====
   * by use of the best --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

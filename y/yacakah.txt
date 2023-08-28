@@ -1,5 +1,11 @@
-~~Title:yācakāḥ~~
-{{description>as beggars.}}
+---json
+{
+    "name":"yācakāḥ",
+    "h1":"yācakāḥ",
+    "title":"yācakāḥ",
+    "description":"as beggars."
+}
+---
 
 ==== yācakāḥ  ====
   * as beggars --- [[books:sb:4:2:26|SB 4.2.26]]

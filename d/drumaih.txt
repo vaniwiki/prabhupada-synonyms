@@ -1,5 +1,11 @@
-~~Title:drumaiḥ~~
-{{description>by the trees; by throwing big trees; by trees; the trees; with trees (bearing flowers and fruits); with trees.}}
+---json
+{
+    "name":"drumaiḥ",
+    "h1":"drumaiḥ",
+    "title":"drumaiḥ",
+    "description":"by the trees; by throwing big trees; by trees; the trees; with trees (bearing flowers and fruits); with trees."
+}
+---
 
 ==== drumaiḥ  ====
   * by the trees --- [[books:sb:6:10:27|SB 6.10.27]]

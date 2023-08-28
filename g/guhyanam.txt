@@ -1,5 +1,11 @@
-~~Title:guhyānām~~
-{{description>of secrets.}}
+---json
+{
+    "name":"guhyānām",
+    "h1":"guhyānām",
+    "title":"guhyānām",
+    "description":"of secrets."
+}
+---
 
 ==== guhyānām  ====
   * of secrets --- [[books:bg:10:38|Bg. 10.38]]

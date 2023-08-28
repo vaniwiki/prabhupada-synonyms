@@ -1,5 +1,11 @@
-~~Title:śoṣayati~~
-{{description>dries.}}
+---json
+{
+    "name":"śoṣayati",
+    "h1":"śoṣayati",
+    "title":"śoṣayati",
+    "description":"dries."
+}
+---
 
 ==== śoṣayati  ====
   * dries --- [[books:bg:2:23|Bg. 2.23]]

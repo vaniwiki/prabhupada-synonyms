@@ -1,5 +1,11 @@
-~~Title:khaṇḍilena~~
-{{description>cuts down.}}
+---json
+{
+    "name":"khaṇḍilena",
+    "h1":"khaṇḍilena",
+    "title":"khaṇḍilena",
+    "description":"cuts down."
+}
+---
 
 ==== khaṇḍilena  ====
   * cuts down --- [[books:cc:antya:7:118|Antya 7.118]]

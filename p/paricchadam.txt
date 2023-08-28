@@ -1,5 +1,11 @@
-~~Title:paricchadam~~
-{{description>embossed with; household paraphernalia; paraphernalia; the outer cover.}}
+---json
+{
+    "name":"paricchadam",
+    "h1":"paricchadam",
+    "title":"paricchadam",
+    "description":"embossed with; household paraphernalia; paraphernalia; the outer cover."
+}
+---
 
 ==== paricchadam  ====
   * embossed with --- [[books:sb:1:17:4|SB 1.17.4]]

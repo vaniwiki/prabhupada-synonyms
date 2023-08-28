@@ -1,5 +1,11 @@
-~~Title:nāmadheya~~
-{{description>of the name; the name; to chant His name is also auspicious.}}
+---json
+{
+    "name":"nāmadheya",
+    "h1":"nāmadheya",
+    "title":"nāmadheya",
+    "description":"of the name; the name; to chant His name is also auspicious."
+}
+---
 
 ==== nāmadheya  ====
   * of the name --- [[books:cc:madhya:16:186|Madhya 16.186]], [[books:cc:madhya:18:125|Madhya 18.125]]

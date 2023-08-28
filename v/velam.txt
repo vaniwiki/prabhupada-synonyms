@@ -1,5 +1,11 @@
-~~Title:velam~~
-{{description>demoniac hour; to the beach of the ocean.}}
+---json
+{
+    "name":"velam",
+    "h1":"velam",
+    "title":"velam",
+    "description":"demoniac hour; to the beach of the ocean."
+}
+---
 
 ==== velām  ====
   * demoniac hour --- [[books:sb:3:18:25|SB 3.18.25]]

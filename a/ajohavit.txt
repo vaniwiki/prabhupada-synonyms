@@ -1,5 +1,11 @@
-~~Title:ajohavīt~~
-{{description>amalgamated it; called ("Kṛṣṇa and Balarāma, come here!").}}
+---json
+{
+    "name":"ajohavīt",
+    "h1":"ajohavīt",
+    "title":"ajohavīt",
+    "description":"amalgamated it; called ("Kṛṣṇa and Balarāma, come here!")."
+}
+---
 
 ==== ajohavīt  ====
   * amalgamated it --- [[books:sb:1:15:41|SB 1.15.41]]

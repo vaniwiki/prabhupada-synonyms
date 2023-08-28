@@ -1,5 +1,11 @@
-~~Title:īhitaiḥ~~
-{{description>and actions; by the activities.}}
+---json
+{
+    "name":"īhitaiḥ",
+    "h1":"īhitaiḥ",
+    "title":"īhitaiḥ",
+    "description":"and actions; by the activities."
+}
+---
 
 ==== īhitaiḥ  ====
   * and actions --- [[books:sb:7:5:56-57|SB 7.5.56-57]]

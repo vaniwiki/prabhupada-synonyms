@@ -1,5 +1,11 @@
-~~Title:asritah~~
-{{description>accepting; receiving; refuge; situated; situated on; taken refuge; taken shelter of; taking recourse to; taking shelter of; took shelter of (and is living in even now); under; under the protection.}}
+---json
+{
+    "name":"asritah",
+    "h1":"asritah",
+    "title":"asritah",
+    "description":"accepting; receiving; refuge; situated; situated on; taken refuge; taken shelter of; taking recourse to; taking shelter of; took shelter of (and is living in even now); under; under the protection."
+}
+---
 
 ==== āśritaḥ  ====
   * accepting --- [[books:cc:adi:4:34|Ādi 4.34]]

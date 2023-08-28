@@ -1,5 +1,11 @@
-~~Title:vāsukiḥ~~
-{{description>Vāsuki.}}
+---json
+{
+    "name":"vāsukiḥ",
+    "h1":"vāsukiḥ",
+    "title":"vāsukiḥ",
+    "description":"Vāsuki."
+}
+---
 
 ==== vāsukiḥ  ====
   * Vāsuki --- [[books:bg:10:28|Bg. 10.28]]

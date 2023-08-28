@@ -1,5 +1,11 @@
-~~Title:paruṣaiḥ~~
-{{description>very rough and cruel.}}
+---json
+{
+    "name":"paruṣaiḥ",
+    "h1":"paruṣaiḥ",
+    "title":"paruṣaiḥ",
+    "description":"very rough and cruel."
+}
+---
 
 ==== paruṣaiḥ  ====
   * very rough and cruel --- [[books:sb:8:11:20|SB 8.11.20]]

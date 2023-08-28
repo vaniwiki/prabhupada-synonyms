@@ -1,5 +1,11 @@
-~~Title:lukaila~~
-{{description>hid himself.}}
+---json
+{
+    "name":"lukaila",
+    "h1":"lukaila",
+    "title":"lukaila",
+    "description":"hid himself."
+}
+---
 
 ==== lukāila  ====
   * hid himself --- [[books:cc:adi:17:141|Ādi 17.141]]

@@ -1,5 +1,11 @@
-~~Title:vidmahe~~
-{{description>I can understand; know; understand; we know.}}
+---json
+{
+    "name":"vidmahe",
+    "h1":"vidmahe",
+    "title":"vidmahe",
+    "description":"I can understand; know; understand; we know."
+}
+---
 
 ==== vidmahe  ====
   * I can understand --- [[books:sb:4:20:29|SB 4.20.29]]

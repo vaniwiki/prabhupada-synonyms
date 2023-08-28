@@ -1,5 +1,11 @@
-~~Title:vitanotu~~
-{{description>kindly describe.}}
+---json
+{
+    "name":"vitanotu",
+    "h1":"vitanotu",
+    "title":"vitanotu",
+    "description":"kindly describe."
+}
+---
 
 ==== vitanotu  ====
   * kindly describe --- [[books:sb:1:18:15|SB 1.18.15]]

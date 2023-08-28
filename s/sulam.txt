@@ -1,5 +1,11 @@
-~~Title:śūlam~~
-{{description>a spear; a trident; lance; the trident; trident.}}
+---json
+{
+    "name":"śūlam",
+    "h1":"śūlam",
+    "title":"śūlam",
+    "description":"a spear; a trident; lance; the trident; trident."
+}
+---
 
 ==== śūlam  ====
   * a spear --- [[books:sb:8:11:30|SB 8.11.30]]

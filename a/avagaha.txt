@@ -1,5 +1,11 @@
-~~Title:avagāha~~
-{{description>by bathing; taking a dip.}}
+---json
+{
+    "name":"avagāha",
+    "h1":"avagāha",
+    "title":"avagāha",
+    "description":"by bathing; taking a dip."
+}
+---
 
 ==== avagāha  ====
   * by bathing --- [[books:sb:3:33:14|SB 3.33.14]]

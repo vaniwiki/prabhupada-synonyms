@@ -1,5 +1,11 @@
-~~Title:sannyāsīke~~
-{{description>sannyāsīs.}}
+---json
+{
+    "name":"sannyāsīke",
+    "h1":"sannyāsīke",
+    "title":"sannyāsīke",
+    "description":"sannyāsīs."
+}
+---
 
 ==== sannyāsīke  ====
   * //sannyāsīs// --- [[books:cc:antya:8:75|Antya 8.75]]

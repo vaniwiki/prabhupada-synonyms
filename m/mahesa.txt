@@ -1,5 +1,11 @@
-~~Title:maheśa~~
-{{description>Lord Śiva; Maheśa; of Lord Śiva; the deity of Lord Śiva.}}
+---json
+{
+    "name":"maheśa",
+    "h1":"maheśa",
+    "title":"maheśa",
+    "description":"Lord Śiva; Maheśa; of Lord Śiva; the deity of Lord Śiva."
+}
+---
 
 ==== maheśa  ====
   * Lord Śiva --- [[books:cc:adi:14:50|Ādi 14.50]]

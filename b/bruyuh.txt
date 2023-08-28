@@ -1,5 +1,11 @@
-~~Title:brūyuḥ~~
-{{description>explain; please describe; those who say; will tell.}}
+---json
+{
+    "name":"brūyuḥ",
+    "h1":"brūyuḥ",
+    "title":"brūyuḥ",
+    "description":"explain; please describe; those who say; will tell."
+}
+---
 
 ==== brūyuḥ  ====
   * explain --- [[books:sb:10:13:3|SB 10.13.3]]

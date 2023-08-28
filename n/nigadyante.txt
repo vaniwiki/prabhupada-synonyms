@@ -1,5 +1,11 @@
-~~Title:nigadyante~~
-{{description>are called.}}
+---json
+{
+    "name":"nigadyante",
+    "h1":"nigadyante",
+    "title":"nigadyante",
+    "description":"are called."
+}
+---
 
 ==== nigadyante  ====
   * are called --- [[books:cc:madhya:20:373|Madhya 20.373]]

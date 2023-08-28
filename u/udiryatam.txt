@@ -1,5 +1,11 @@
-~~Title:udīryatām~~
-{{description>let it be ignited.}}
+---json
+{
+    "name":"udīryatām",
+    "h1":"udīryatām",
+    "title":"udīryatām",
+    "description":"let it be ignited."
+}
+---
 
 ==== udīryatām  ====
   * let it be ignited --- [[books:sb:6:15:16|SB 6.15.16]]

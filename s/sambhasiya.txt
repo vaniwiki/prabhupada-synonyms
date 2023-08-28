@@ -1,5 +1,11 @@
-~~Title:sambhāṣiyā~~
-{{description>talking intimately with women.}}
+---json
+{
+    "name":"sambhāṣiyā",
+    "h1":"sambhāṣiyā",
+    "title":"sambhāṣiyā",
+    "description":"talking intimately with women."
+}
+---
 
 ==== prakṛti sambhāṣiyā  ====
   * talking intimately with women --- [[books:cc:antya:2:120|Antya 2.120]]

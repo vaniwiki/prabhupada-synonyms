@@ -1,5 +1,11 @@
-~~Title:jāliyāre~~
-{{description>the fisherman; unto the fisherman.}}
+---json
+{
+    "name":"jāliyāre",
+    "h1":"jāliyāre",
+    "title":"jāliyāre",
+    "description":"the fisherman; unto the fisherman."
+}
+---
 
 ==== jāliyāre  ====
   * the fisherman --- [[books:cc:madhya:18:106|Madhya 18.106]]

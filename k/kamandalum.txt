@@ -1,5 +1,11 @@
-~~Title:kamaṇḍalum~~
-{{description>a waterpot; waterpot.}}
+---json
+{
+    "name":"kamaṇḍalum",
+    "h1":"kamaṇḍalum",
+    "title":"kamaṇḍalum",
+    "description":"a waterpot; waterpot."
+}
+---
 
 ==== kamaṇḍalum  ====
   * a waterpot --- [[books:sb:8:18:16|SB 8.18.16]]

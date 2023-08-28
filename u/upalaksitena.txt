@@ -1,5 +1,11 @@
-~~Title:upalakṣitena~~
-{{description>being seen.}}
+---json
+{
+    "name":"upalakṣitena",
+    "h1":"upalakṣitena",
+    "title":"upalakṣitena",
+    "description":"being seen."
+}
+---
 
 ==== upalakṣitena  ====
   * being seen --- [[books:sb:5:22:2|SB 5.22.2]]

@@ -1,5 +1,11 @@
-~~Title:kusuma~~
-{{description>by flowers; flowers; of flowers.}}
+---json
+{
+    "name":"kusuma",
+    "h1":"kusuma",
+    "title":"kusuma",
+    "description":"by flowers; flowers; of flowers."
+}
+---
 
 ==== kusuma  ====
   * by flowers --- [[books:sb:5:24:10|SB 5.24.10]]

@@ -1,5 +1,11 @@
-~~Title:avatāt~~
-{{description>be pleased to protect; may He maintain; may He protect.}}
+---json
+{
+    "name":"avatāt",
+    "h1":"avatāt",
+    "title":"avatāt",
+    "description":"be pleased to protect; may He maintain; may He protect."
+}
+---
 
 ==== avatāt  ====
   * be pleased to protect --- [[books:sb:9:10:4|SB 9.10.4]]

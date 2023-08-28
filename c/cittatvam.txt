@@ -1,5 +1,11 @@
-~~Title:cittatvam~~
-{{description>equilibrium.}}
+---json
+{
+    "name":"cittatvam",
+    "h1":"cittatvam",
+    "title":"cittatvam",
+    "description":"equilibrium."
+}
+---
 
 ==== sama-cittatvam  ====
   * equilibrium --- [[books:bg:13:8-12|Bg. 13.8-12]]

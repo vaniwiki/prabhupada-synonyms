@@ -1,5 +1,11 @@
-~~Title:anudapāna~~
-{{description>without water.}}
+---json
+{
+    "name":"anudapāna",
+    "h1":"anudapāna",
+    "title":"anudapāna",
+    "description":"without water."
+}
+---
 
 ==== anudapāna  ====
   * without water --- [[books:sb:5:26:8|SB 5.26.8]]

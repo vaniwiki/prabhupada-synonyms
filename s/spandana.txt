@@ -1,5 +1,11 @@
-~~Title:spandana~~
-{{description>movement; moving.}}
+---json
+{
+    "name":"spandana",
+    "h1":"spandana",
+    "title":"spandana",
+    "description":"movement; moving."
+}
+---
 
 ==== spandana  ====
   * movement --- [[books:cc:madhya:6:9|Madhya 6.9]]

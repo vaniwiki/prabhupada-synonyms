@@ -1,5 +1,11 @@
-~~Title:socyah~~
-{{description>culprit; pitiable.}}
+---json
+{
+    "name":"socyah",
+    "h1":"socyah",
+    "title":"socyah",
+    "description":"culprit; pitiable."
+}
+---
 
 ==== śocyaḥ  ====
   * culprit --- [[books:sb:1:17:6|SB 1.17.6]]

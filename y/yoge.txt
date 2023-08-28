@@ -1,5 +1,11 @@
-~~Title:yoge~~
-{{description>work without fruitive result.}}
+---json
+{
+    "name":"yoge",
+    "h1":"yoge",
+    "title":"yoge",
+    "description":"work without fruitive result."
+}
+---
 
 ==== yoge  ====
   * work without fruitive result --- [[books:bg:2:39|Bg. 2.39]]

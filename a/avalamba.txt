@@ -1,5 +1,11 @@
-~~Title:avalamba~~
-{{description>support.}}
+---json
+{
+    "name":"avalamba",
+    "h1":"avalamba",
+    "title":"avalamba",
+    "description":"support."
+}
+---
 
 ==== avalamba  ====
   * support --- [[books:cc:madhya:4:54|Madhya 4.54]]

@@ -1,5 +1,11 @@
-~~Title:praviṣṭe~~
-{{description>when entered.}}
+---json
+{
+    "name":"praviṣṭe",
+    "h1":"praviṣṭe",
+    "title":"praviṣṭe",
+    "description":"when entered."
+}
+---
 
 ==== praviṣṭe  ====
   * when entered --- [[books:sb:5:24:15|SB 5.24.15]]

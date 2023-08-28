@@ -1,5 +1,11 @@
-~~Title:viniryayau~~
-{{description>came out.}}
+---json
+{
+    "name":"viniryayau",
+    "h1":"viniryayau",
+    "title":"viniryayau",
+    "description":"came out."
+}
+---
 
 ==== viniryayau  ====
   * came out --- [[books:sb:10:12:32|SB 10.12.32]]

@@ -1,5 +1,11 @@
-~~Title:jahruḥ~~
-{{description>stole.}}
+---json
+{
+    "name":"jahruḥ",
+    "h1":"jahruḥ",
+    "title":"jahruḥ",
+    "description":"stole."
+}
+---
 
 ==== jahruḥ  ====
   * stole --- [[books:sb:9:14:27|SB 9.14.27]]

@@ -1,5 +1,11 @@
-~~Title:syamam~~
-{{description>blackish; bluish; swarthy; the form of Śyāmasundara; Śyāmasundara, Kṛṣṇa.}}
+---json
+{
+    "name":"syamam",
+    "h1":"syamam",
+    "title":"syamam",
+    "description":"blackish; bluish; swarthy; the form of Śyāmasundara; Śyāmasundara, Kṛṣṇa."
+}
+---
 
 ==== śyāmam  ====
   * blackish --- [[books:sb:1:12:8|SB 1.12.8]], [[books:sb:1:19:28|SB 1.19.28]]

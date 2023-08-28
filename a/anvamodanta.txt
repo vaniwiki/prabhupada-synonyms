@@ -1,5 +1,11 @@
-~~Title:anvamodanta~~
-{{description>accepted.}}
+---json
+{
+    "name":"anvamodanta",
+    "h1":"anvamodanta",
+    "title":"anvamodanta",
+    "description":"accepted."
+}
+---
 
 ==== anvamodanta  ====
   * accepted --- [[books:sb:9:23:38|SB 9.23.38]]

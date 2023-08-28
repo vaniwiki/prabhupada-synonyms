@@ -1,5 +1,11 @@
-~~Title:dugham~~
-{{description>yielding.}}
+---json
+{
+    "name":"dugham",
+    "h1":"dugham",
+    "title":"dugham",
+    "description":"yielding."
+}
+---
 
 ==== dugham  ====
   * yielding --- [[books:sb:3:23:13|SB 3.23.13]]

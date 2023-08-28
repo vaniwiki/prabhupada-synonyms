@@ -1,5 +1,11 @@
-~~Title:ejayate~~
-{{description>disturbs.}}
+---json
+{
+    "name":"ejayate",
+    "h1":"ejayate",
+    "title":"ejayate",
+    "description":"disturbs."
+}
+---
 
 ==== ejayate  ====
   * disturbs --- [[books:sb:5:2:14|SB 5.2.14]]

@@ -1,5 +1,11 @@
-~~Title:prathame~~
-{{description>at first; first; in the beginning; in the first; in the first instance.}}
+---json
+{
+    "name":"prathame",
+    "h1":"prathame",
+    "title":"prathame",
+    "description":"at first; first; in the beginning; in the first; in the first instance."
+}
+---
 
 ==== prathame  ====
   * at first --- [[books:cc:adi:1:33|Ādi 1.33]], [[books:cc:adi:17:13|Ādi 17.13]], [[books:cc:madhya:11:152|Madhya 11.152]], [[books:cc:antya:5:93|Antya 5.93]]

@@ -1,5 +1,11 @@
-~~Title:gatāyāte~~
-{{description>coming and going.}}
+---json
+{
+    "name":"gatāyāte",
+    "h1":"gatāyāte",
+    "title":"gatāyāte",
+    "description":"coming and going."
+}
+---
 
 ==== gatāyāte  ====
   * coming and going --- [[books:cc:madhya:15:82|Madhya 15.82]]

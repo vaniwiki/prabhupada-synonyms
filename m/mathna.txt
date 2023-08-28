@@ -1,5 +1,11 @@
-~~Title:mathnā~~
-{{description>by the churning rod (Mandara Mountain); enchanting; with a piece of wood used for producing fire.}}
+---json
+{
+    "name":"mathnā",
+    "h1":"mathnā",
+    "title":"mathnā",
+    "description":"by the churning rod (Mandara Mountain); enchanting; with a piece of wood used for producing fire."
+}
+---
 
 ==== mathnā  ====
   * by the churning rod (Mandara Mountain) --- [[books:sb:8:7:17|SB 8.7.17]]

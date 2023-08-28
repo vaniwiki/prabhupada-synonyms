@@ -1,5 +1,11 @@
-~~Title:madhyandinam~~
-{{description>Madhyandinam.}}
+---json
+{
+    "name":"madhyandinam",
+    "h1":"madhyandinam",
+    "title":"madhyandinam",
+    "description":"Madhyandinam."
+}
+---
 
 ==== madhyandinam  ====
   * Madhyandinam --- [[books:sb:4:13:13|SB 4.13.13]]

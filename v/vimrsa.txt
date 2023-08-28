@@ -1,5 +1,11 @@
-~~Title:vimṛśa~~
-{{description>judge yourself.}}
+---json
+{
+    "name":"vimṛśa",
+    "h1":"vimṛśa",
+    "title":"vimṛśa",
+    "description":"judge yourself."
+}
+---
 
 ==== vimṛśa  ====
   * judge yourself --- [[books:sb:1:17:20|SB 1.17.20]]

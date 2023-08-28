@@ -1,5 +1,11 @@
-~~Title:āvāsyam~~
-{{description>controlled; living everywhere.}}
+---json
+{
+    "name":"āvāsyam",
+    "h1":"āvāsyam",
+    "title":"āvāsyam",
+    "description":"controlled; living everywhere."
+}
+---
 
 ==== āvāsyam  ====
   * controlled --- [[books:iso:1|Īśo 1]]

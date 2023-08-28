@@ -1,5 +1,11 @@
-~~Title:mudā~~
-{{description>because of a joyful attitude; being very pleased; gladly; happiness; in great happiness; in great jubilation; in great transcendental pleasure; in joyful ecstasy; in pleasure; in transcendental pleasure; joyously; satisfaction; with glad faces; with great delight; with great happiness; with great jubilation; with great pleasure; with great satisfaction.}}
+---json
+{
+    "name":"mudā",
+    "h1":"mudā",
+    "title":"mudā",
+    "description":"because of a joyful attitude; being very pleased; gladly; happiness; in great happiness; in great jubilation; in great transcendental pleasure; in joyful ecstasy; in pleasure; in transcendental pleasure; joyously; satisfaction; with glad faces; with great delight; with great happiness; with great jubilation; with great pleasure; with great satisfaction."
+}
+---
 
 ==== mudā  ====
   * because of a joyful attitude --- [[books:sb:1:10:4|SB 1.10.4]]

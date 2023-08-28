@@ -1,5 +1,11 @@
-~~Title:nagah~~
-{{description>snake.}}
+---json
+{
+    "name":"nagah",
+    "h1":"nagah",
+    "title":"nagah",
+    "description":"snake."
+}
+---
 
 ==== nāgaḥ  ====
   * snake --- [[books:sb:4:25:35|SB 4.25.35]]

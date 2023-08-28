@@ -1,5 +1,11 @@
-~~Title:krīṇāti~~
-{{description>tries to acquire.}}
+---json
+{
+    "name":"krīṇāti",
+    "h1":"krīṇāti",
+    "title":"krīṇāti",
+    "description":"tries to acquire."
+}
+---
 
 ==== krīṇāti  ====
   * tries to acquire --- [[books:sb:7:6:10|SB 7.6.10]]

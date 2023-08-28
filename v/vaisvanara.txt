@@ -1,5 +1,11 @@
-~~Title:vaiśvānara~~
-{{description>the daughters of Vaiśvānara.}}
+---json
+{
+    "name":"vaiśvānara",
+    "h1":"vaiśvānara",
+    "title":"vaiśvānara",
+    "description":"the daughters of Vaiśvānara."
+}
+---
 
 ==== vaiśvānara-sutāḥ  ====
   * the daughters of Vaiśvānara --- [[books:sb:6:6:33-36|SB 6.6.33-36]]

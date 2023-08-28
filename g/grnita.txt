@@ -1,5 +1,11 @@
-~~Title:gṛṇīta~~
-{{description>may chant.}}
+---json
+{
+    "name":"gṛṇīta",
+    "h1":"gṛṇīta",
+    "title":"gṛṇīta",
+    "description":"may chant."
+}
+---
 
 ==== gṛṇīta  ====
   * may chant --- [[books:sb:6:11:24|SB 6.11.24]]

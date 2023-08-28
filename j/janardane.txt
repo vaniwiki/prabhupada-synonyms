@@ -1,5 +1,11 @@
-~~Title:janārdane~~
-{{description>in Lord Kṛṣṇa; the Supreme Personality of Godhead, Viṣṇu.}}
+---json
+{
+    "name":"janārdane",
+    "h1":"janārdane",
+    "title":"janārdane",
+    "description":"in Lord Kṛṣṇa; the Supreme Personality of Godhead, Viṣṇu."
+}
+---
 
 ==== janārdane  ====
   * in Lord Kṛṣṇa --- [[books:sb:10:8:51|SB 10.8.51]]

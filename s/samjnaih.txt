@@ -1,5 +1,11 @@
-~~Title:saṁjñaiḥ~~
-{{description>named.}}
+---json
+{
+    "name":"saṁjñaiḥ",
+    "h1":"saṁjñaiḥ",
+    "title":"saṁjñaiḥ",
+    "description":"named."
+}
+---
 
 ==== saṁjñaiḥ  ====
   * named --- [[books:bg:15:5|Bg. 15.5]]

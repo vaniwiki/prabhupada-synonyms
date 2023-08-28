@@ -1,5 +1,11 @@
-~~Title:khinna~~
-{{description>hurt.}}
+---json
+{
+    "name":"khinna",
+    "h1":"khinna",
+    "title":"khinna",
+    "description":"hurt."
+}
+---
 
 ==== khinna  ====
   * hurt --- [[books:cc:madhya:8:115|Madhya 8.115]]

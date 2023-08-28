@@ -1,5 +1,11 @@
-~~Title:caluka~~
-{{description>let go; may go.}}
+---json
+{
+    "name":"caluka",
+    "h1":"caluka",
+    "title":"caluka",
+    "description":"let go; may go."
+}
+---
 
 ==== caluka  ====
   * let go --- [[books:cc:madhya:7:16|Madhya 7.16]]

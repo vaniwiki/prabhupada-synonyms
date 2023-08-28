@@ -1,5 +1,11 @@
-~~Title:pravṛttam~~
-{{description>attached to material enjoyment; inclination for material enjoyment; the process of sense enjoyment.}}
+---json
+{
+    "name":"pravṛttam",
+    "h1":"pravṛttam",
+    "title":"pravṛttam",
+    "description":"attached to material enjoyment; inclination for material enjoyment; the process of sense enjoyment."
+}
+---
 
 ==== pravṛttam  ====
   * attached to material enjoyment --- [[books:sb:4:4:20|SB 4.4.20]]

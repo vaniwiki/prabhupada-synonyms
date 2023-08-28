@@ -1,5 +1,11 @@
-~~Title:apratirūpe~~
-{{description>unfavorable.}}
+---json
+{
+    "name":"apratirūpe",
+    "h1":"apratirūpe",
+    "title":"apratirūpe",
+    "description":"unfavorable."
+}
+---
 
 ==== apratirūpe  ====
   * unfavorable --- [[books:sb:4:1:66|SB 4.1.66]]

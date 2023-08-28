@@ -1,5 +1,11 @@
-~~Title:tṛṣitaḥ~~
-{{description>being thirsty.}}
+---json
+{
+    "name":"tṛṣitaḥ",
+    "h1":"tṛṣitaḥ",
+    "title":"tṛṣitaḥ",
+    "description":"being thirsty."
+}
+---
 
 ==== tṛṣitaḥ  ====
   * being thirsty --- [[books:sb:1:18:24-25|SB 1.18.24-25]]

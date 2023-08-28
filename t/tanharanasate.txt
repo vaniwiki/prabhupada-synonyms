@@ -1,5 +1,11 @@
-~~Title:tāṅhāranāsāte~~
-{{description>on the nostril of the Queen.}}
+---json
+{
+    "name":"tāṅhāranāsāte",
+    "h1":"tāṅhāranāsāte",
+    "title":"tāṅhāranāsāte",
+    "description":"on the nostril of the Queen."
+}
+---
 
 ==== tāṅhāranāsāte  ====
   * on the nostril of the Queen --- [[books:cc:madhya:5:126|Madhya 5.126]]

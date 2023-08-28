@@ -1,5 +1,11 @@
-~~Title:śīrṣṇām~~
-{{description>whose heads.}}
+---json
+{
+    "name":"śīrṣṇām",
+    "h1":"śīrṣṇām",
+    "title":"śīrṣṇām",
+    "description":"whose heads."
+}
+---
 
 ==== śīrṣṇām  ====
   * whose heads --- [[books:sb:5:9:18|SB 5.9.18]]

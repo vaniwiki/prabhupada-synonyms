@@ -1,5 +1,11 @@
-~~Title:viṣṇave~~
-{{description>even to Lord Viṣṇu; to Lord Viṣṇu; unto Lord Viṣṇu (Vāmanadeva); unto Lord Viṣṇu; unto the all-pervading Supreme Personality of Godhead.}}
+---json
+{
+    "name":"viṣṇave",
+    "h1":"viṣṇave",
+    "title":"viṣṇave",
+    "description":"even to Lord Viṣṇu; to Lord Viṣṇu; unto Lord Viṣṇu (Vāmanadeva); unto Lord Viṣṇu; unto the all-pervading Supreme Personality of Godhead."
+}
+---
 
 ==== viṣṇave  ====
   * even to Lord Viṣṇu --- [[books:sb:6:10:4|SB 6.10.4]]

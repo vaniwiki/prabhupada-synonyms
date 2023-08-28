@@ -1,5 +1,11 @@
-~~Title:satyavatyām~~
-{{description>in the womb of Satyavatī.}}
+---json
+{
+    "name":"satyavatyām",
+    "h1":"satyavatyām",
+    "title":"satyavatyām",
+    "description":"in the womb of Satyavatī."
+}
+---
 
 ==== satyavatyām  ====
   * in the womb of Satyavatī --- [[books:sb:1:3:21|SB 1.3.21]], [[books:sb:2:7:36|SB 2.7.36]]

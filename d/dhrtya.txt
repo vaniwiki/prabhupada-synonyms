@@ -1,5 +1,11 @@
-~~Title:dhṛtyā~~
-{{description>by determination; by patience; determination.}}
+---json
+{
+    "name":"dhṛtyā",
+    "h1":"dhṛtyā",
+    "title":"dhṛtyā",
+    "description":"by determination; by patience; determination."
+}
+---
 
 ==== dhṛtyā  ====
   * by determination --- [[books:bg:18:34|Bg. 18.34]]

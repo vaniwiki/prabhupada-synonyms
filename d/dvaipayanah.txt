@@ -1,5 +1,11 @@
-~~Title:dvaipāyanaḥ~~
-{{description>Vyāsadeva; Śrīla Vyāsadeva, the giver of all Vedic knowledge.}}
+---json
+{
+    "name":"dvaipāyanaḥ",
+    "h1":"dvaipāyanaḥ",
+    "title":"dvaipāyanaḥ",
+    "description":"Vyāsadeva; Śrīla Vyāsadeva, the giver of all Vedic knowledge."
+}
+---
 
 ==== dvaipāyanaḥ  ====
   * Vyāsadeva --- [[books:sb:1:2:2|SB 1.2.2]]

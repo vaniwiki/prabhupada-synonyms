@@ -1,5 +1,11 @@
-~~Title:kāmayānām~~
-{{description>desiring.}}
+---json
+{
+    "name":"kāmayānām",
+    "h1":"kāmayānām",
+    "title":"kāmayānām",
+    "description":"desiring."
+}
+---
 
 ==== kāmayānām  ====
   * desiring --- [[books:sb:4:1:6|SB 4.1.6]]

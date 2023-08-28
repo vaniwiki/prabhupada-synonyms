@@ -1,5 +1,11 @@
-~~Title:pracarila~~
-{{description>introduced; preached; propagated.}}
+---json
+{
+    "name":"pracarila",
+    "h1":"pracarila",
+    "title":"pracarila",
+    "description":"introduced; preached; propagated."
+}
+---
 
 ==== pracārila  ====
   * introduced --- [[books:cc:madhya:1:32|Madhya 1.32]]

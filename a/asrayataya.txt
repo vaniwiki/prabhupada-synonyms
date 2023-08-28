@@ -1,5 +1,11 @@
-~~Title:āśrayatayā~~
-{{description>because of possessing all good qualities without depending on others.}}
+---json
+{
+    "name":"āśrayatayā",
+    "h1":"āśrayatayā",
+    "title":"āśrayatayā",
+    "description":"because of possessing all good qualities without depending on others."
+}
+---
 
 ==== nija-eka-āśrayatayā  ====
   * because of possessing all good qualities without depending on others --- [[books:sb:8:8:23|SB 8.8.23]]

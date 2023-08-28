@@ -1,5 +1,11 @@
-~~Title:udayāya~~
-{{description>for the elevation or benefit; for the improvement in all respects; for the sake of advancement.}}
+---json
+{
+    "name":"udayāya",
+    "h1":"udayāya",
+    "title":"udayāya",
+    "description":"for the elevation or benefit; for the improvement in all respects; for the sake of advancement."
+}
+---
 
 ==== udayāya  ====
   * for the elevation or benefit --- [[books:sb:3:13:26|SB 3.13.26]]

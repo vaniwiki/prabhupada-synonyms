@@ -1,5 +1,11 @@
-~~Title:kastūrī~~
-{{description>and musk.}}
+---json
+{
+    "name":"kastūrī",
+    "h1":"kastūrī",
+    "title":"kastūrī",
+    "description":"and musk."
+}
+---
 
 ==== kastūrī  ====
   * and musk --- [[books:cc:antya:19:95|Antya 19.95]]

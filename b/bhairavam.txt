@@ -1,5 +1,11 @@
-~~Title:bhairavam~~
-{{description>fearful.}}
+---json
+{
+    "name":"bhairavam",
+    "h1":"bhairavam",
+    "title":"bhairavam",
+    "description":"fearful."
+}
+---
 
 ==== bhairavam  ====
   * fearful --- [[books:sb:7:5:39-40|SB 7.5.39-40]]

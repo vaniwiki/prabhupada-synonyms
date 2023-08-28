@@ -1,5 +1,11 @@
-~~Title:amarah~~
-{{description>immortal; liberated.}}
+---json
+{
+    "name":"amarah",
+    "h1":"amarah",
+    "title":"amarah",
+    "description":"immortal; liberated."
+}
+---
 
 ==== amaraḥ  ====
   * immortal --- [[books:sb:7:5:47|SB 7.5.47]], [[books:sb:8:6:21|SB 8.6.21]]

@@ -1,5 +1,11 @@
-~~Title:nimagnam~~
-{{description>submerged.}}
+---json
+{
+    "name":"nimagnam",
+    "h1":"nimagnam",
+    "title":"nimagnam",
+    "description":"submerged."
+}
+---
 
 ==== nimagnām  ====
   * submerged --- [[books:sb:3:13:31|SB 3.13.31]]

@@ -1,5 +1,11 @@
-~~Title:aga~~
-{{description>nonmoving.}}
+---json
+{
+    "name":"aga",
+    "h1":"aga",
+    "title":"aga",
+    "description":"nonmoving."
+}
+---
 
 ==== aga  ====
   * nonmoving --- [[books:cc:madhya:15:180|Madhya 15.180]]

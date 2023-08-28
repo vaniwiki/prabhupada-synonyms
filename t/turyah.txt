@@ -1,5 +1,11 @@
-~~Title:turyaḥ~~
-{{description>the fourth transcendental category; transcendental.}}
+---json
+{
+    "name":"turyaḥ",
+    "h1":"turyaḥ",
+    "title":"turyaḥ",
+    "description":"the fourth transcendental category; transcendental."
+}
+---
 
 ==== turyaḥ  ====
   * the fourth transcendental category --- [[books:sb:6:5:12|SB 6.5.12]]

@@ -1,5 +1,11 @@
-~~Title:āpatti~~
-{{description>surrender.}}
+---json
+{
+    "name":"āpatti",
+    "h1":"āpatti",
+    "title":"āpatti",
+    "description":"surrender."
+}
+---
 
 ==== śaraṇa-āpatti  ====
   * surrender --- [[books:cc:madhya:22:127|Madhya 22.127]]

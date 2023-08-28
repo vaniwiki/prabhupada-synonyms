@@ -1,5 +1,11 @@
-~~Title:devāpiḥ~~
-{{description>Devāpi; Devāpi, the eldest.}}
+---json
+{
+    "name":"devāpiḥ",
+    "h1":"devāpiḥ",
+    "title":"devāpiḥ",
+    "description":"Devāpi; Devāpi, the eldest."
+}
+---
 
 ==== devāpiḥ  ====
   * Devāpi --- [[books:sb:9:22:12-13|SB 9.22.12-13]], [[books:sb:9:22:16-17|SB 9.22.16-17]]

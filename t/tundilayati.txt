@@ -1,5 +1,11 @@
-~~Title:tundilayati~~
-{{description>increases more and more.}}
+---json
+{
+    "name":"tundilayati",
+    "h1":"tundilayati",
+    "title":"tundilayati",
+    "description":"increases more and more."
+}
+---
 
 ==== tundilayati  ====
   * increases more and more --- [[books:cc:antya:1:158|Antya 1.158]]

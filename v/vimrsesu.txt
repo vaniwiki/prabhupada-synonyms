@@ -1,5 +1,11 @@
-~~Title:vimṛśeṣu~~
-{{description>by full consideration.}}
+---json
+{
+    "name":"vimṛśeṣu",
+    "h1":"vimṛśeṣu",
+    "title":"vimṛśeṣu",
+    "description":"by full consideration."
+}
+---
 
 ==== vimṛśeṣu  ====
   * by full consideration --- [[books:sb:4:22:21|SB 4.22.21]]

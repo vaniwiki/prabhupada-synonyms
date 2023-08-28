@@ -1,5 +1,11 @@
-~~Title:ākhyāhi~~
-{{description>describe; just let me know; kindly describe; please describe; please explain; please explain again; please tell; tell.}}
+---json
+{
+    "name":"ākhyāhi",
+    "h1":"ākhyāhi",
+    "title":"ākhyāhi",
+    "description":"describe; just let me know; kindly describe; please describe; please explain; please explain again; please tell; tell."
+}
+---
 
 ==== ākhyāhi  ====
   * describe --- [[books:sb:1:1:18|SB 1.1.18]], [[books:sb:1:18:17|SB 1.18.17]]

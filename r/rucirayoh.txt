@@ -1,5 +1,11 @@
-~~Title:rucirayoḥ~~
-{{description>very beautiful.}}
+---json
+{
+    "name":"rucirayoḥ",
+    "h1":"rucirayoḥ",
+    "title":"rucirayoḥ",
+    "description":"very beautiful."
+}
+---
 
 ==== rucirayoḥ  ====
   * very beautiful --- [[books:sb:5:2:11|SB 5.2.11]]

@@ -1,5 +1,11 @@
-~~Title:prapannān~~
-{{description>fully surrendered; surrendered.}}
+---json
+{
+    "name":"prapannān",
+    "h1":"prapannān",
+    "title":"prapannān",
+    "description":"fully surrendered; surrendered."
+}
+---
 
 ==== prapannān  ====
   * fully surrendered --- [[books:sb:8:12:47|SB 8.12.47]]

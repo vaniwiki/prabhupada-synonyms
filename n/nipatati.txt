@@ -1,5 +1,11 @@
-~~Title:nipatati~~
-{{description>falls down; he falls down.}}
+---json
+{
+    "name":"nipatati",
+    "h1":"nipatati",
+    "title":"nipatati",
+    "description":"falls down; he falls down."
+}
+---
 
 ==== nipatati  ====
   * falls down --- [[books:sb:5:17:4|SB 5.17.4]], [[books:sb:5:26:15|SB 5.26.15]], [[books:sb:5:26:16|SB 5.26.16]], [[books:sb:5:26:17|SB 5.26.17]], [[books:sb:5:26:18|SB 5.26.18]], [[books:sb:5:26:28|SB 5.26.28]], [[books:sb:5:26:36|SB 5.26.36]]

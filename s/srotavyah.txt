@@ -1,5 +1,11 @@
-~~Title:śrotavyaḥ~~
-{{description>is to be heard; must be heard; to be heard about (from bona fide sources).}}
+---json
+{
+    "name":"śrotavyaḥ",
+    "h1":"śrotavyaḥ",
+    "title":"śrotavyaḥ",
+    "description":"is to be heard; must be heard; to be heard about (from bona fide sources)."
+}
+---
 
 ==== śrotavyaḥ  ====
   * is to be heard --- [[books:sb:1:2:14|SB 1.2.14]], [[books:sb:2:1:5|SB 2.1.5]]

@@ -1,5 +1,11 @@
-~~Title:niṣedha~~
-{{description>by the process of negation; of the discrimination of neti neti ("not this, not this"); prohibition.}}
+---json
+{
+    "name":"niṣedha",
+    "h1":"niṣedha",
+    "title":"niṣedha",
+    "description":"by the process of negation; of the discrimination of neti neti ("not this, not this"); prohibition."
+}
+---
 
 ==== niṣedha  ====
   * by the process of negation --- [[books:sb:6:4:27-28|SB 6.4.27-28]]

@@ -1,5 +1,11 @@
-~~Title:kumārakāḥ~~
-{{description>babies.}}
+---json
+{
+    "name":"kumārakāḥ",
+    "h1":"kumārakāḥ",
+    "title":"kumārakāḥ",
+    "description":"babies."
+}
+---
 
 ==== kumārakāḥ  ====
   * babies --- [[books:sb:6:18:72|SB 6.18.72]]

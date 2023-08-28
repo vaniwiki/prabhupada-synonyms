@@ -1,5 +1,11 @@
-~~Title:saṁśuddhaḥ~~
-{{description>being very advanced and purified in self-realization.}}
+---json
+{
+    "name":"saṁśuddhaḥ",
+    "h1":"saṁśuddhaḥ",
+    "title":"saṁśuddhaḥ",
+    "description":"being very advanced and purified in self-realization."
+}
+---
 
 ==== saṁśuddhaḥ  ====
   * being very advanced and purified in self-realization --- [[books:sb:5:15:4|SB 5.15.4]]

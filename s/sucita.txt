@@ -1,5 +1,11 @@
-~~Title:sūcita~~
-{{description>revealing.}}
+---json
+{
+    "name":"sūcita",
+    "h1":"sūcita",
+    "title":"sūcita",
+    "description":"revealing."
+}
+---
 
 ==== sūcita  ====
   * revealing --- [[books:cc:adi:4:117|Ādi 4.117]], [[books:cc:madhya:8:190|Madhya 8.190]]

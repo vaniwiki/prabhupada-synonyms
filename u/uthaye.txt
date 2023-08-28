@@ -1,5 +1,11 @@
-~~Title:uṭhaye~~
-{{description>awakens.}}
+---json
+{
+    "name":"uṭhaye",
+    "h1":"uṭhaye",
+    "title":"uṭhaye",
+    "description":"awakens."
+}
+---
 
 ==== uṭhaye  ====
   * awakens --- [[books:cc:madhya:1:205|Madhya 1.205]]

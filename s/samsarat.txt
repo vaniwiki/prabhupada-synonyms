@@ -1,5 +1,11 @@
-~~Title:saṁsārāt~~
-{{description>from the entanglement of material existence.}}
+---json
+{
+    "name":"saṁsārāt",
+    "h1":"saṁsārāt",
+    "title":"saṁsārāt",
+    "description":"from the entanglement of material existence."
+}
+---
 
 ==== saṁsārāt  ====
   * from the entanglement of material existence --- [[books:sb:6:16:44|SB 6.16.44]]

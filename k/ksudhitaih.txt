@@ -1,5 +1,11 @@
-~~Title:kṣudhitaiḥ~~
-{{description>hungry.}}
+---json
+{
+    "name":"kṣudhitaiḥ",
+    "h1":"kṣudhitaiḥ",
+    "title":"kṣudhitaiḥ",
+    "description":"hungry."
+}
+---
 
 ==== kṣudhitaiḥ  ====
   * hungry --- [[books:sb:3:31:6|SB 3.31.6]]

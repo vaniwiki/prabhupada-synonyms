@@ -1,5 +1,11 @@
-~~Title:utsṛṣṭāḥ~~
-{{description>were uttered.}}
+---json
+{
+    "name":"utsṛṣṭāḥ",
+    "h1":"utsṛṣṭāḥ",
+    "title":"utsṛṣṭāḥ",
+    "description":"were uttered."
+}
+---
 
 ==== utsṛṣṭāḥ  ====
   * were uttered --- [[books:sb:3:19:21|SB 3.19.21]]

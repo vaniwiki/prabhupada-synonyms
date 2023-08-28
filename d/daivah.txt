@@ -1,5 +1,11 @@
-~~Title:daivaḥ~~
-{{description>divine; godly.}}
+---json
+{
+    "name":"daivaḥ",
+    "h1":"daivaḥ",
+    "title":"daivaḥ",
+    "description":"divine; godly."
+}
+---
 
 ==== daivaḥ  ====
   * divine --- [[books:bg:16:6|Bg. 16.6]]

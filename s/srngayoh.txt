@@ -1,5 +1,11 @@
-~~Title:śṛṅgayoḥ~~
-{{description>within two horns.}}
+---json
+{
+    "name":"śṛṅgayoḥ",
+    "h1":"śṛṅgayoḥ",
+    "title":"śṛṅgayoḥ",
+    "description":"within two horns."
+}
+---
 
 ==== śṛṅgayoḥ  ====
   * within two horns --- [[books:sb:5:2:11|SB 5.2.11]]

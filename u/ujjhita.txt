@@ -1,5 +1,11 @@
-~~Title:ujjhita~~
-{{description>being bereft of; given up; rejected.}}
+---json
+{
+    "name":"ujjhita",
+    "h1":"ujjhita",
+    "title":"ujjhita",
+    "description":"being bereft of; given up; rejected."
+}
+---
 
 ==== ujjhita  ====
   * being bereft of --- [[books:sb:4:17:10-11|SB 4.17.10-11]]

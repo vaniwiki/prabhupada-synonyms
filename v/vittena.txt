@@ -1,5 +1,11 @@
-~~Title:vittena~~
-{{description>money that automatically comes.}}
+---json
+{
+    "name":"vittena",
+    "h1":"vittena",
+    "title":"vittena",
+    "description":"money that automatically comes."
+}
+---
 
 ==== āgata-vittena  ====
   * money that automatically comes --- [[books:sb:7:14:15|SB 7.14.15]]

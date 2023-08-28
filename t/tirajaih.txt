@@ -1,5 +1,11 @@
-~~Title:tīrajaiḥ~~
-{{description>growing on the banks.}}
+---json
+{
+    "name":"tīrajaiḥ",
+    "h1":"tīrajaiḥ",
+    "title":"tīrajaiḥ",
+    "description":"growing on the banks."
+}
+---
 
 ==== tīrajaiḥ  ====
   * growing on the banks --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

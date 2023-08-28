@@ -1,5 +1,11 @@
-~~Title:bhīravaḥ~~
-{{description>become afraid.}}
+---json
+{
+    "name":"bhīravaḥ",
+    "h1":"bhīravaḥ",
+    "title":"bhīravaḥ",
+    "description":"become afraid."
+}
+---
 
 ==== bhīravaḥ  ====
   * become afraid --- [[books:sb:10:6:27-29|SB 10.6.27-29]]

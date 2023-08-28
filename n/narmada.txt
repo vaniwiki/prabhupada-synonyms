@@ -1,5 +1,11 @@
-~~Title:narmadā~~
-{{description>by the name Narmadā; Narmadā.}}
+---json
+{
+    "name":"narmadā",
+    "h1":"narmadā",
+    "title":"narmadā",
+    "description":"by the name Narmadā; Narmadā."
+}
+---
 
 ==== narmadā  ====
   * by the name Narmadā --- [[books:sb:9:7:2|SB 9.7.2]]

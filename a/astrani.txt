@@ -1,5 +1,11 @@
-~~Title:astrāṇi~~
-{{description>weapons.}}
+---json
+{
+    "name":"astrāṇi",
+    "h1":"astrāṇi",
+    "title":"astrāṇi",
+    "description":"weapons."
+}
+---
 
 ==== astrāṇi  ====
   * weapons --- [[books:sb:1:8:12|SB 1.8.12]], [[books:sb:1:15:16|SB 1.15.16]]

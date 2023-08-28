@@ -1,5 +1,11 @@
-~~Title:bṛhate~~
-{{description>the greatest; the greatest of all; who are unlimited.}}
+---json
+{
+    "name":"bṛhate",
+    "h1":"bṛhate",
+    "title":"bṛhate",
+    "description":"the greatest; the greatest of all; who are unlimited."
+}
+---
 
 ==== bṛhate  ====
   * the greatest --- [[books:sb:4:24:42|SB 4.24.42]]

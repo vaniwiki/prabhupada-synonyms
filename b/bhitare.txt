@@ -1,5 +1,11 @@
-~~Title:bhitare~~
-{{description>inside; the within; within; within his heart; within his mind; within the universe.}}
+---json
+{
+    "name":"bhitare",
+    "h1":"bhitare",
+    "title":"bhitare",
+    "description":"inside; the within; within; within his heart; within his mind; within the universe."
+}
+---
 
 ==== bhitare  ====
   * inside --- [[books:cc:adi:17:60|Ādi 17.60]], [[books:cc:madhya:6:63|Madhya 6.63]], [[books:cc:madhya:25:125|Madhya 25.125]], [[books:cc:antya:10:94|Antya 10.94]]

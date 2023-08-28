@@ -1,5 +1,11 @@
-~~Title:dāsyasi~~
-{{description>want to give; you will give.}}
+---json
+{
+    "name":"dāsyasi",
+    "h1":"dāsyasi",
+    "title":"dāsyasi",
+    "description":"want to give; you will give."
+}
+---
 
 ==== dāsyasi  ====
   * want to give --- [[books:sb:7:10:7|SB 7.10.7]]

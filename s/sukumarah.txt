@@ -1,5 +1,11 @@
-~~Title:sukumāraḥ~~
-{{description>a son named Sukumāra.}}
+---json
+{
+    "name":"sukumāraḥ",
+    "h1":"sukumāraḥ",
+    "title":"sukumāraḥ",
+    "description":"a son named Sukumāra."
+}
+---
 
 ==== sukumāraḥ  ====
   * a son named Sukumāra --- [[books:sb:9:17:9|SB 9.17.9]]

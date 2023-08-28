@@ -1,5 +1,11 @@
-~~Title:saravatī~~
-{{description>a kind of orange.}}
+---json
+{
+    "name":"saravatī",
+    "h1":"saravatī",
+    "title":"saravatī",
+    "description":"a kind of orange."
+}
+---
 
 ==== saravatī  ====
   * a kind of orange --- [[books:cc:madhya:14:29|Madhya 14.29]]

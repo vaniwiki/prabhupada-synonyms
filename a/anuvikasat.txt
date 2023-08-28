@@ -1,5 +1,11 @@
-~~Title:anuvikasat~~
-{{description>blossoming.}}
+---json
+{
+    "name":"anuvikasat",
+    "h1":"anuvikasat",
+    "title":"anuvikasat",
+    "description":"blossoming."
+}
+---
 
 ==== anuvikasat  ====
   * blossoming --- [[books:sb:3:15:17|SB 3.15.17]]

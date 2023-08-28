@@ -1,5 +1,11 @@
-~~Title:sūkṣmatvāt~~
-{{description>on account of being subtle.}}
+---json
+{
+    "name":"sūkṣmatvāt",
+    "h1":"sūkṣmatvāt",
+    "title":"sūkṣmatvāt",
+    "description":"on account of being subtle."
+}
+---
 
 ==== sūkṣmatvāt  ====
   * on account of being subtle --- [[books:bg:13:16|Bg. 13.16]]

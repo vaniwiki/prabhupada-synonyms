@@ -1,5 +1,11 @@
-~~Title:abhikāmaye~~
-{{description>I desire.}}
+---json
+{
+    "name":"abhikāmaye",
+    "h1":"abhikāmaye",
+    "title":"abhikāmaye",
+    "description":"I desire."
+}
+---
 
 ==== abhikāmaye  ====
   * I desire --- [[books:sb:4:3:9|SB 4.3.9]]

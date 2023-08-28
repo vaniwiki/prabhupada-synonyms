@@ -1,5 +1,11 @@
-~~Title:margam~~
-{{description>lanes; the passage; the path; the ways of His appearance and disappearance; way.}}
+---json
+{
+    "name":"margam",
+    "h1":"margam",
+    "title":"margam",
+    "description":"lanes; the passage; the path; the ways of His appearance and disappearance; way."
+}
+---
 
 ==== mārgam  ====
   * lanes --- [[books:sb:4:9:57|SB 4.9.57]]

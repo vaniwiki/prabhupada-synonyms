@@ -1,5 +1,11 @@
-~~Title:kṛtāntaḥ~~
-{{description>personified annihilation.}}
+---json
+{
+    "name":"kṛtāntaḥ",
+    "h1":"kṛtāntaḥ",
+    "title":"kṛtāntaḥ",
+    "description":"personified annihilation."
+}
+---
 
 ==== kṛtāntaḥ  ====
   * personified annihilation --- [[books:sb:6:9:12|SB 6.9.12]]

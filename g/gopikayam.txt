@@ -1,5 +1,11 @@
-~~Title:gopikāyām~~
-{{description>unto mother Yaśodā.}}
+---json
+{
+    "name":"gopikāyām",
+    "h1":"gopikāyām",
+    "title":"gopikāyām",
+    "description":"unto mother Yaśodā."
+}
+---
 
 ==== gopikāyām  ====
   * unto mother Yaśodā --- [[books:sb:10:8:43|SB 10.8.43]]

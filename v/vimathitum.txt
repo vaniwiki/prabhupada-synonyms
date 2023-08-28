@@ -1,5 +1,11 @@
-~~Title:vimathitum~~
-{{description>to perturb.}}
+---json
+{
+    "name":"vimathitum",
+    "h1":"vimathitum",
+    "title":"vimathitum",
+    "description":"to perturb."
+}
+---
 
 ==== vimathitum  ====
   * to perturb --- [[books:sb:1:11:36|SB 1.11.36]]

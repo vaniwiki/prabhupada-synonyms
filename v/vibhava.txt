@@ -1,5 +1,11 @@
-~~Title:vibhava~~
-{{description>opulences.}}
+---json
+{
+    "name":"vibhava",
+    "h1":"vibhava",
+    "title":"vibhava",
+    "description":"opulences."
+}
+---
 
 ==== vibhava  ====
   * opulences --- [[books:sb:1:11:12|SB 1.11.12]]

@@ -1,5 +1,11 @@
-~~Title:apārthakam~~
-{{description>separation.}}
+---json
+{
+    "name":"apārthakam",
+    "h1":"apārthakam",
+    "title":"apārthakam",
+    "description":"separation."
+}
+---
 
 ==== apārthakam  ====
   * separation --- [[books:cc:antya:19:45|Antya 19.45]]

@@ -1,5 +1,11 @@
-~~Title:anugṛhīta~~
-{{description>was given the mercy.}}
+---json
+{
+    "name":"anugṛhīta",
+    "h1":"anugṛhīta",
+    "title":"anugṛhīta",
+    "description":"was given the mercy."
+}
+---
 
 ==== haya anugṛhīta  ====
   * was given the mercy --- [[books:cc:antya:6:161|Antya 6.161]]

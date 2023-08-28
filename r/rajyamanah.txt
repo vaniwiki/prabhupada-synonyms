@@ -1,5 +1,11 @@
-~~Title:rajyamānaḥ~~
-{{description>looking beautiful.}}
+---json
+{
+    "name":"rajyamānaḥ",
+    "h1":"rajyamānaḥ",
+    "title":"rajyamānaḥ",
+    "description":"looking beautiful."
+}
+---
 
 ==== rajyamānaḥ  ====
   * looking beautiful --- [[books:sb:4:7:21|SB 4.7.21]]

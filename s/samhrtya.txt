@@ -1,5 +1,11 @@
-~~Title:saṁhṛtya~~
-{{description>closing.}}
+---json
+{
+    "name":"saṁhṛtya",
+    "h1":"saṁhṛtya",
+    "title":"saṁhṛtya",
+    "description":"closing."
+}
+---
 
 ==== saṁhṛtya  ====
   * closing --- [[books:sb:3:4:29|SB 3.4.29]]

@@ -1,5 +1,11 @@
-~~Title:ālālanātha~~
-{{description>of the place named Ālālanātha; the place named Ālālanātha; to the place known as Ālālanātha; to Ālālanātha.}}
+---json
+{
+    "name":"ālālanātha",
+    "h1":"ālālanātha",
+    "title":"ālālanātha",
+    "description":"of the place named Ālālanātha; the place named Ālālanātha; to the place known as Ālālanātha; to Ālālanātha."
+}
+---
 
 ==== ālālanātha  ====
   * of the place named Ālālanātha --- [[books:cc:madhya:1:122|Madhya 1.122]]

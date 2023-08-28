@@ -1,5 +1,11 @@
-~~Title:ādīpya~~
-{{description>after igniting.}}
+---json
+{
+    "name":"ādīpya",
+    "h1":"ādīpya",
+    "title":"ādīpya",
+    "description":"after igniting."
+}
+---
 
 ==== ādīpya  ====
   * after igniting --- [[books:sb:4:28:50|SB 4.28.50]]

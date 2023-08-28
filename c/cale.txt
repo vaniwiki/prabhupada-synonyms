@@ -1,5 +1,11 @@
-~~Title:cale~~
-{{description>becomes; began to proceed; change; departed; departs; follow; go; goes; goes on; moves; proceed; returns; runs; walks; wanders; was going; went; went out.}}
+---json
+{
+    "name":"cale",
+    "h1":"cale",
+    "title":"cale",
+    "description":"becomes; began to proceed; change; departed; departs; follow; go; goes; goes on; moves; proceed; returns; runs; walks; wanders; was going; went; went out."
+}
+---
 
 ==== cale  ====
   * becomes --- [[books:cc:adi:12:10|Ādi 12.10]]

@@ -1,5 +1,11 @@
-~~Title:ujjvalaḥ~~
-{{description>naturally very advanced.}}
+---json
+{
+    "name":"ujjvalaḥ",
+    "h1":"ujjvalaḥ",
+    "title":"ujjvalaḥ",
+    "description":"naturally very advanced."
+}
+---
 
 ==== nisarga-ujjvalaḥ  ====
   * naturally very advanced --- [[books:cc:antya:1:138|Antya 1.138]]

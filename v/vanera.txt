@@ -1,5 +1,11 @@
-~~Title:vanera~~
-{{description>of the forest.}}
+---json
+{
+    "name":"vanera",
+    "h1":"vanera",
+    "title":"vanera",
+    "description":"of the forest."
+}
+---
 
 ==== vanera  ====
   * of the forest --- [[books:cc:madhya:2:64|Madhya 2.64]]

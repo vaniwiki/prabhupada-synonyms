@@ -1,5 +1,11 @@
-~~Title:cetanām~~
-{{description>consciousness.}}
+---json
+{
+    "name":"cetanām",
+    "h1":"cetanām",
+    "title":"cetanām",
+    "description":"consciousness."
+}
+---
 
 ==== cetanām  ====
   * consciousness --- [[books:sb:4:21:35|SB 4.21.35]], [[books:sb:4:22:30|SB 4.22.30]]

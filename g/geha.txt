@@ -1,5 +1,11 @@
-~~Title:geha~~
-{{description>home; of household life; with the home.}}
+---json
+{
+    "name":"geha",
+    "h1":"geha",
+    "title":"geha",
+    "description":"home; of household life; with the home."
+}
+---
 
 ==== geha  ====
   * home --- [[books:sb:4:7:28|SB 4.7.28]], [[books:cc:adi:13:81|Ādi 13.81]]

@@ -1,5 +1,11 @@
-~~Title:gudam~~
-{{description>an anus; evacuating outlet; His anus; rectum; the air hole; the evacuating hole; the rectum.}}
+---json
+{
+    "name":"gudam",
+    "h1":"gudam",
+    "title":"gudam",
+    "description":"an anus; evacuating outlet; His anus; rectum; the air hole; the evacuating hole; the rectum."
+}
+---
 
 ==== gudam  ====
   * an anus --- [[books:sb:3:26:57|SB 3.26.57]]

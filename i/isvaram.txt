@@ -1,5 +1,11 @@
-~~Title:īśvaram~~
-{{description>as the supreme controller, independent; Lord Śiva; master, controller; representative of the Supreme Personality of Godhead; Supersoul; the controller; the King; the Lord; the Personality of Godhead; the supreme authority; the supreme controller; the supreme controller, Lord Viṣṇu; the Supreme Lord; the Supreme Personality of Godhead; unto the supreme controller; unto the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"īśvaram",
+    "h1":"īśvaram",
+    "title":"īśvaram",
+    "description":"as the supreme controller, independent; Lord Śiva; master, controller; representative of the Supreme Personality of Godhead; Supersoul; the controller; the King; the Lord; the Personality of Godhead; the supreme authority; the supreme controller; the supreme controller, Lord Viṣṇu; the Supreme Lord; the Supreme Personality of Godhead; unto the supreme controller; unto the Supreme Personality of Godhead."
+}
+---
 
 ==== īśvaram  ====
   * as the supreme controller, independent --- [[books:sb:6:12:12|SB 6.12.12]]

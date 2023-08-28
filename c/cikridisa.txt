@@ -1,5 +1,11 @@
-~~Title:cikrīḍiṣā~~
-{{description>willingness to play.}}
+---json
+{
+    "name":"cikrīḍiṣā",
+    "h1":"cikrīḍiṣā",
+    "title":"cikrīḍiṣā",
+    "description":"willingness to play."
+}
+---
 
 ==== cikrīḍiṣā  ====
   * willingness to play --- [[books:sb:3:7:3|SB 3.7.3]]

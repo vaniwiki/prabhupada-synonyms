@@ -1,5 +1,11 @@
-~~Title:nāṭake~~
-{{description>in two plays.}}
+---json
+{
+    "name":"nāṭake",
+    "h1":"nāṭake",
+    "title":"nāṭake",
+    "description":"in two plays."
+}
+---
 
 ==== dui nāṭake  ====
   * in two plays --- [[books:cc:antya:1:126|Antya 1.126]]

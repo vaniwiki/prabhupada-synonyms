@@ -1,5 +1,11 @@
-~~Title:akārṣīt~~
-{{description>gave; performed.}}
+---json
+{
+    "name":"akārṣīt",
+    "h1":"akārṣīt",
+    "title":"akārṣīt",
+    "description":"gave; performed."
+}
+---
 
 ==== akārṣīt  ====
   * gave --- [[books:sb:3:17:18|SB 3.17.18]]

@@ -1,5 +1,11 @@
-~~Title:mahīpate~~
-{{description>O King (Mahārāja Parīkṣit); O King; O King Parīkṣit.}}
+---json
+{
+    "name":"mahīpate",
+    "h1":"mahīpate",
+    "title":"mahīpate",
+    "description":"O King (Mahārāja Parīkṣit); O King; O King Parīkṣit."
+}
+---
 
 ==== mahīpate  ====
   * O King (Mahārāja Parīkṣit) --- [[books:sb:9:24:57|SB 9.24.57]]

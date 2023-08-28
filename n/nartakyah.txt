@@ -1,5 +1,11 @@
-~~Title:nartakyaḥ~~
-{{description>the dancers known as Apsarās.}}
+---json
+{
+    "name":"nartakyaḥ",
+    "h1":"nartakyaḥ",
+    "title":"nartakyaḥ",
+    "description":"the dancers known as Apsarās."
+}
+---
 
 ==== nartakyaḥ  ====
   * the dancers known as Apsarās --- [[books:sb:8:11:41|SB 8.11.41]]

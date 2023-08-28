@@ -1,5 +1,11 @@
-~~Title:goṅjā~~
-{{description>pushed.}}
+---json
+{
+    "name":"goṅjā",
+    "h1":"goṅjā",
+    "title":"goṅjā",
+    "description":"pushed."
+}
+---
 
 ==== goṅjā  ====
   * pushed --- [[books:cc:madhya:1:66|Madhya 1.66]]

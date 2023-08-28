@@ -1,5 +1,11 @@
-~~Title:prakirtitah~~
-{{description>celebrated.}}
+---json
+{
+    "name":"prakirtitah",
+    "h1":"prakirtitah",
+    "title":"prakirtitah",
+    "description":"celebrated."
+}
+---
 
 ==== prakīrtitaḥ  ====
   * celebrated --- [[books:sb:9:7:1|SB 9.7.1]]

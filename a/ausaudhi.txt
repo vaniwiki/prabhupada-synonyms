@@ -1,5 +1,11 @@
-~~Title:auṣaudhi~~
-{{description>the panacea for saving My life.}}
+---json
+{
+    "name":"auṣaudhi",
+    "h1":"auṣaudhi",
+    "title":"auṣaudhi",
+    "description":"the panacea for saving My life."
+}
+---
 
 ==== prāṇa-rakṣa-mahā-auṣaudhi  ====
   * the panacea for saving My life --- [[books:cc:antya:19:43|Antya 19.43]]

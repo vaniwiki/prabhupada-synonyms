@@ -1,5 +1,11 @@
-~~Title:vyakiran~~
-{{description>scattered.}}
+---json
+{
+    "name":"vyakiran",
+    "h1":"vyakiran",
+    "title":"vyakiran",
+    "description":"scattered."
+}
+---
 
 ==== vyakiran  ====
   * scattered --- [[books:sb:1:19:18|SB 1.19.18]]

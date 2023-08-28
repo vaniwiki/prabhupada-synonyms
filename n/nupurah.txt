@@ -1,5 +1,11 @@
-~~Title:nūpuraḥ~~
-{{description>ankle bells.}}
+---json
+{
+    "name":"nūpuraḥ",
+    "h1":"nūpuraḥ",
+    "title":"nūpuraḥ",
+    "description":"ankle bells."
+}
+---
 
 ==== nūpuraḥ  ====
   * ankle bells --- [[books:sb:8:18:2|SB 8.18.2]]

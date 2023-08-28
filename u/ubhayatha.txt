@@ -1,5 +1,11 @@
-~~Title:ubhayathā~~
-{{description>both in this life and in the next.}}
+---json
+{
+    "name":"ubhayathā",
+    "h1":"ubhayathā",
+    "title":"ubhayathā",
+    "description":"both in this life and in the next."
+}
+---
 
 ==== ubhayathā api  ====
   * both in this life and in the next --- [[books:sb:5:14:23|SB 5.14.23]]

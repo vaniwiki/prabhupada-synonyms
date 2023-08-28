@@ -1,5 +1,11 @@
-~~Title:makare~~
-{{description>during Makara-saṅkrānti; during the Makara-saṅkrānti.}}
+---json
+{
+    "name":"makare",
+    "h1":"makare",
+    "title":"makare",
+    "description":"during Makara-saṅkrānti; during the Makara-saṅkrānti."
+}
+---
 
 ==== makare  ====
   * during Makara-saṅkrānti --- [[books:cc:madhya:18:150|Madhya 18.150]]

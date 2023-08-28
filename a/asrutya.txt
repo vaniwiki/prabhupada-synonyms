@@ -1,5 +1,11 @@
-~~Title:āśrutya~~
-{{description>having heard; hearing; just after hearing.}}
+---json
+{
+    "name":"āśrutya",
+    "h1":"āśrutya",
+    "title":"āśrutya",
+    "description":"having heard; hearing; just after hearing."
+}
+---
 
 ==== āśrutya  ====
   * having heard --- [[books:sb:3:19:33|SB 3.19.33]]

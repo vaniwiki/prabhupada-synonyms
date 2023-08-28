@@ -1,5 +1,11 @@
-~~Title:babhūvuḥ~~
-{{description>became; became overwhelmed; become audible; they became; were born.}}
+---json
+{
+    "name":"babhūvuḥ",
+    "h1":"babhūvuḥ",
+    "title":"babhūvuḥ",
+    "description":"became; became overwhelmed; become audible; they became; were born."
+}
+---
 
 ==== babhūvuḥ  ====
   * became --- [[books:sb:5:4:13|SB 5.4.13]], [[books:sb:10:6:31|SB 10.6.31]], [[books:sb:10:11:44|SB 10.11.44]]

@@ -1,5 +1,11 @@
-~~Title:pravara~~
-{{description>best; excellent; highest; of the best; Pravara (in some readings, Pauvara).}}
+---json
+{
+    "name":"pravara",
+    "h1":"pravara",
+    "title":"pravara",
+    "description":"best; excellent; highest; of the best; Pravara (in some readings, Pauvara)."
+}
+---
 
 ==== pravara  ====
   * best --- [[books:cc:antya:1:165|Antya 1.165]]

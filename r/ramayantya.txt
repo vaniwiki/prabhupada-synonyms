@@ -1,5 +1,11 @@
-~~Title:ramayantyā~~
-{{description>enjoying.}}
+---json
+{
+    "name":"ramayantyā",
+    "h1":"ramayantyā",
+    "title":"ramayantyā",
+    "description":"enjoying."
+}
+---
 
 ==== ramayantyā  ====
   * enjoying --- [[books:sb:9:14:24|SB 9.14.24]]

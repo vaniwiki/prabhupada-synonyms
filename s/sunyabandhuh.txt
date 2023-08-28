@@ -1,5 +1,11 @@
-~~Title:śūnyabandhuḥ~~
-{{description>named Śūnyabandhu.}}
+---json
+{
+    "name":"śūnyabandhuḥ",
+    "h1":"śūnyabandhuḥ",
+    "title":"śūnyabandhuḥ",
+    "description":"named Śūnyabandhu."
+}
+---
 
 ==== śūnyabandhuḥ  ====
   * named Śūnyabandhu --- [[books:sb:9:2:33|SB 9.2.33]]

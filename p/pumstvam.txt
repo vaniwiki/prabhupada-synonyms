@@ -1,5 +1,11 @@
-~~Title:puṁstvam~~
-{{description>maleness; the maleness.}}
+---json
+{
+    "name":"puṁstvam",
+    "h1":"puṁstvam",
+    "title":"puṁstvam",
+    "description":"maleness; the maleness."
+}
+---
 
 ==== puṁstvam  ====
   * maleness --- [[books:sb:9:1:40|SB 9.1.40]]

@@ -1,5 +1,11 @@
-~~Title:āro~~
-{{description>another; more and more.}}
+---json
+{
+    "name":"āro",
+    "h1":"āro",
+    "title":"āro",
+    "description":"another; more and more."
+}
+---
 
 ==== āro  ====
   * another --- [[books:cc:madhya:6:192|Madhya 6.192]]

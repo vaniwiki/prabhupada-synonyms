@@ -1,5 +1,11 @@
-~~Title:sañjayati~~
-{{description>develops.}}
+---json
+{
+    "name":"sañjayati",
+    "h1":"sañjayati",
+    "title":"sañjayati",
+    "description":"develops."
+}
+---
 
 ==== sañjayati  ====
   * develops --- [[books:bg:14:9|Bg. 14.9]]

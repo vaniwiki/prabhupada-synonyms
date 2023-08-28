@@ -1,5 +1,11 @@
-~~Title:bhūyiṣṭha~~
-{{description>whose many cities, towns, pasturing grounds and mines became auspicious and very neat and clean.}}
+---json
+{
+    "name":"bhūyiṣṭha",
+    "h1":"bhūyiṣṭha",
+    "title":"bhūyiṣṭha",
+    "description":"whose many cities, towns, pasturing grounds and mines became auspicious and very neat and clean."
+}
+---
 
 ==== maṅgala-bhūyiṣṭha-pura-grāma-vraja-ākarāḥ  ====
   * whose many cities, towns, pasturing grounds and mines became auspicious and very neat and clean --- [[books:sb:10:3:1-5|SB 10.3.1-5]]

@@ -1,5 +1,11 @@
-~~Title:prārthanāte~~
-{{description>on the request.}}
+---json
+{
+    "name":"prārthanāte",
+    "h1":"prārthanāte",
+    "title":"prārthanāte",
+    "description":"on the request."
+}
+---
 
 ==== prārthanāte  ====
   * on the request --- [[books:cc:madhya:6:193|Madhya 6.193]]

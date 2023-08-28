@@ -1,5 +1,11 @@
-~~Title:samāgamya~~
-{{description>assembled, came together.}}
+---json
+{
+    "name":"samāgamya",
+    "h1":"samāgamya",
+    "title":"samāgamya",
+    "description":"assembled, came together."
+}
+---
 
 ==== samāgamya  ====
   * assembled, came together --- [[books:sb:10:11:21|SB 10.11.21]]

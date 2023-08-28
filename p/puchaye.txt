@@ -1,5 +1,11 @@
-~~Title:puchaye~~
-{{description>inquires from him.}}
+---json
+{
+    "name":"puchaye",
+    "h1":"puchaye",
+    "title":"puchaye",
+    "description":"inquires from him."
+}
+---
 
 ==== puchaye tāhāre  ====
   * inquires from him --- [[books:cc:madhya:20:127|Madhya 20.127]]

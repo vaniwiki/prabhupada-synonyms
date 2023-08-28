@@ -1,5 +1,11 @@
-~~Title:adhyatmah~~
-{{description>his mind.}}
+---json
+{
+    "name":"adhyatmah",
+    "h1":"adhyatmah",
+    "title":"adhyatmah",
+    "description":"his mind."
+}
+---
 
 ==== adhyātmaḥ  ====
   * his mind --- [[books:sb:3:20:7|SB 3.20.7]]

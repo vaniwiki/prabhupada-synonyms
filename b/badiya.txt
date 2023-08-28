@@ -1,5 +1,11 @@
-~~Title:bāḍiyā~~
-{{description>increasing; so expanding.}}
+---json
+{
+    "name":"bāḍiyā",
+    "h1":"bāḍiyā",
+    "title":"bāḍiyā",
+    "description":"increasing; so expanding."
+}
+---
 
 ==== bāḍiyā  ====
   * increasing --- [[books:cc:adi:9:33|Ādi 9.33]]

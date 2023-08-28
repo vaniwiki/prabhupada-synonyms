@@ -1,5 +1,11 @@
-~~Title:pāṇḍaveyaḥ~~
-{{description>grandson of the Pāṇḍavas; worthy descendant of the Pāṇḍavas.}}
+---json
+{
+    "name":"pāṇḍaveyaḥ",
+    "h1":"pāṇḍaveyaḥ",
+    "title":"pāṇḍaveyaḥ",
+    "description":"grandson of the Pāṇḍavas; worthy descendant of the Pāṇḍavas."
+}
+---
 
 ==== pāṇḍaveyaḥ  ====
   * grandson of the Pāṇḍavas --- [[books:sb:2:3:15|SB 2.3.15]]

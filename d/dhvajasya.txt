@@ -1,5 +1,11 @@
-~~Title:dhvajasya~~
-{{description>of Cupid; of the sex-god.}}
+---json
+{
+    "name":"dhvajasya",
+    "h1":"dhvajasya",
+    "title":"dhvajasya",
+    "description":"of Cupid; of the sex-god."
+}
+---
 
 ==== makara-dhvajasya  ====
   * of Cupid --- [[books:sb:5:2:6|SB 5.2.6]]

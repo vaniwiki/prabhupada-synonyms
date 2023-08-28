@@ -1,5 +1,11 @@
-~~Title:kīrtanera~~
-{{description>of performing saṅkīrtana; of the saṅkīrtana movement.}}
+---json
+{
+    "name":"kīrtanera",
+    "h1":"kīrtanera",
+    "title":"kīrtanera",
+    "description":"of performing saṅkīrtana; of the saṅkīrtana movement."
+}
+---
 
 ==== kīrtanera  ====
   * of performing //saṅkīrtana// --- [[books:cc:adi:17:135|Ādi 17.135]]

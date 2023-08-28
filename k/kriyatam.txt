@@ -1,5 +1,11 @@
-~~Title:kriyatam~~
-{{description>do; just execute; let it be done; please fulfill.}}
+---json
+{
+    "name":"kriyatam",
+    "h1":"kriyatam",
+    "title":"kriyatam",
+    "description":"do; just execute; let it be done; please fulfill."
+}
+---
 
 ==== kriyatām  ====
   * do --- [[books:sb:8:6:21|SB 8.6.21]]

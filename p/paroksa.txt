@@ -1,5 +1,11 @@
-~~Title:parokṣa~~
-{{description>indirect.}}
+---json
+{
+    "name":"parokṣa",
+    "h1":"parokṣa",
+    "title":"parokṣa",
+    "description":"indirect."
+}
+---
 
 ==== parokṣa  ====
   * indirect --- [[books:cc:madhya:11:113|Madhya 11.113]]

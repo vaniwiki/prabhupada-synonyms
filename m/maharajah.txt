@@ -1,5 +1,11 @@
-~~Title:mahārājaḥ~~
-{{description>Mahārāja Pṛthu.}}
+---json
+{
+    "name":"mahārājaḥ",
+    "h1":"mahārājaḥ",
+    "title":"mahārājaḥ",
+    "description":"Mahārāja Pṛthu."
+}
+---
 
 ==== mahārājaḥ  ====
   * Mahārāja Pṛthu --- [[books:sb:4:15:13|SB 4.15.13]]

@@ -1,5 +1,11 @@
-~~Title:phiraya~~
-{{description>revolves.}}
+---json
+{
+    "name":"phiraya",
+    "h1":"phiraya",
+    "title":"phiraya",
+    "description":"revolves."
+}
+---
 
 ==== phiraya  ====
   * revolves --- [[books:cc:antya:15:6|Antya 15.6]]

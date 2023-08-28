@@ -1,5 +1,11 @@
-~~Title:āhave~~
-{{description>in the fight; on the battlefield (of Kurukṣetra).}}
+---json
+{
+    "name":"āhave",
+    "h1":"āhave",
+    "title":"āhave",
+    "description":"in the fight; on the battlefield (of Kurukṣetra)."
+}
+---
 
 ==== āhave  ====
   * in the fight --- [[books:bg:1:31|Bg. 1.31]]

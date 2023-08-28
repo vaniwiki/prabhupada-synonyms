@@ -1,5 +1,11 @@
-~~Title:uttiṣṭheran~~
-{{description>got up again.}}
+---json
+{
+    "name":"uttiṣṭheran",
+    "h1":"uttiṣṭheran",
+    "title":"uttiṣṭheran",
+    "description":"got up again."
+}
+---
 
 ==== uttiṣṭheran  ====
   * got up again --- [[books:sb:8:5:15-16|SB 8.5.15-16]]

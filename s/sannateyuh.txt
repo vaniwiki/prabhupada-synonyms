@@ -1,5 +1,11 @@
-~~Title:sannateyuḥ~~
-{{description>Sannateyu.}}
+---json
+{
+    "name":"sannateyuḥ",
+    "h1":"sannateyuḥ",
+    "title":"sannateyuḥ",
+    "description":"Sannateyu."
+}
+---
 
 ==== sannateyuḥ  ====
   * Sannateyu --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

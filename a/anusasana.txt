@@ -1,5 +1,11 @@
-~~Title:anuśāsana~~
-{{description>of sometimes chastising them for their mistakes.}}
+---json
+{
+    "name":"anuśāsana",
+    "h1":"anuśāsana",
+    "title":"anuśāsana",
+    "description":"of sometimes chastising them for their mistakes."
+}
+---
 
 ==== anuśāsana  ====
   * of sometimes chastising them for their mistakes --- [[books:sb:5:15:7|SB 5.15.7]]

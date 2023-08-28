@@ -1,5 +1,11 @@
-~~Title:arciṣi~~
-{{description>Arcis; in his wife, Arci.}}
+---json
+{
+    "name":"arciṣi",
+    "h1":"arciṣi",
+    "title":"arciṣi",
+    "description":"Arcis; in his wife, Arci."
+}
+---
 
 ==== arciṣi  ====
   * Arcis --- [[books:sb:6:6:20|SB 6.6.20]]

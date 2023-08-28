@@ -1,5 +1,11 @@
-~~Title:udak~~
-{{description>sitting facing the north.}}
+---json
+{
+    "name":"udak",
+    "h1":"udak",
+    "title":"udak",
+    "description":"sitting facing the north."
+}
+---
 
 ==== udak-mukhaḥ  ====
   * sitting facing the north --- [[books:sb:6:8:4-6|SB 6.8.4-6]]

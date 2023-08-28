@@ -1,5 +1,11 @@
-~~Title:paryatoṣayat~~
-{{description>very much pleased.}}
+---json
+{
+    "name":"paryatoṣayat",
+    "h1":"paryatoṣayat",
+    "title":"paryatoṣayat",
+    "description":"very much pleased."
+}
+---
 
 ==== paryatoṣayat  ====
   * very much pleased --- [[books:sb:2:9:42|SB 2.9.42]]

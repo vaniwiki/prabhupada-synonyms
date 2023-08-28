@@ -1,5 +1,11 @@
-~~Title:śīrṣe~~
-{{description>on the head.}}
+---json
+{
+    "name":"śīrṣe",
+    "h1":"śīrṣe",
+    "title":"śīrṣe",
+    "description":"on the head."
+}
+---
 
 ==== śīrṣe  ====
   * on the head --- [[books:cc:adi:13:117|Ādi 13.117]]

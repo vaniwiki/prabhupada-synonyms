@@ -1,5 +1,11 @@
-~~Title:ācaṣṭum~~
-{{description>kindly explain.}}
+---json
+{
+    "name":"ācaṣṭum",
+    "h1":"ācaṣṭum",
+    "title":"ācaṣṭum",
+    "description":"kindly explain."
+}
+---
 
 ==== ācaṣṭum arhasi  ====
   * kindly explain --- [[books:sb:4:13:5|SB 4.13.5]]

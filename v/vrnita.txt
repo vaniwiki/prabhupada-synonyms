@@ -1,5 +1,11 @@
-~~Title:vṛṇīta~~
-{{description>may accept; would accept; would choose; you want to accept.}}
+---json
+{
+    "name":"vṛṇīta",
+    "h1":"vṛṇīta",
+    "title":"vṛṇīta",
+    "description":"may accept; would accept; would choose; you want to accept."
+}
+---
 
 ==== vṛṇīta  ====
   * may accept --- [[books:sb:7:5:32|SB 7.5.32]]

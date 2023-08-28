@@ -1,5 +1,11 @@
-~~Title:udbhavah~~
-{{description>appearance; generation; orientation.}}
+---json
+{
+    "name":"udbhavah",
+    "h1":"udbhavah",
+    "title":"udbhavah",
+    "description":"appearance; generation; orientation."
+}
+---
 
 ==== udbhavaḥ  ====
   * appearance --- [[books:sb:3:31:3|SB 3.31.3]], [[books:sb:3:31:4|SB 3.31.4]]

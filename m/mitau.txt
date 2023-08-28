@@ -1,5 +1,11 @@
-~~Title:mitau~~
-{{description>in whom there is knowledge.}}
+---json
+{
+    "name":"mitau",
+    "h1":"mitau",
+    "title":"mitau",
+    "description":"in whom there is knowledge."
+}
+---
 
 ==== mitau  ====
   * in whom there is knowledge --- [[books:sb:10:13:57|SB 10.13.57]]

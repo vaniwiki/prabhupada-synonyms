@@ -1,5 +1,11 @@
-~~Title:adhyāropitām~~
-{{description>erroneously attributed.}}
+---json
+{
+    "name":"adhyāropitām",
+    "h1":"adhyāropitām",
+    "title":"adhyāropitām",
+    "description":"erroneously attributed."
+}
+---
 
 ==== adhyāropitām  ====
   * erroneously attributed --- [[books:sb:5:13:25|SB 5.13.25]]

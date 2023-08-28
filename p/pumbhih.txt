@@ -1,5 +1,11 @@
-~~Title:pumbhiḥ~~
-{{description>by men; by persons; by the general public; by the human being; by the living entities.}}
+---json
+{
+    "name":"pumbhiḥ",
+    "h1":"pumbhiḥ",
+    "title":"pumbhiḥ",
+    "description":"by men; by persons; by the general public; by the human being; by the living entities."
+}
+---
 
 ==== pumbhiḥ  ====
   * by men --- [[books:sb:6:18:33-34|SB 6.18.33-34]]

@@ -1,5 +1,11 @@
-~~Title:niṣṭhura~~
-{{description>hard words.}}
+---json
+{
+    "name":"niṣṭhura",
+    "h1":"niṣṭhura",
+    "title":"niṣṭhura",
+    "description":"hard words."
+}
+---
 
 ==== niṣṭhura vacana  ====
   * hard words --- [[books:cc:madhya:12:22|Madhya 12.22]]

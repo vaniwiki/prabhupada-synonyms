@@ -1,5 +1,11 @@
-~~Title:pratyūcatuḥ~~
-{{description>addressed.}}
+---json
+{
+    "name":"pratyūcatuḥ",
+    "h1":"pratyūcatuḥ",
+    "title":"pratyūcatuḥ",
+    "description":"addressed."
+}
+---
 
 ==== pratyūcatuḥ  ====
   * addressed --- [[books:sb:4:12:22|SB 4.12.22]]

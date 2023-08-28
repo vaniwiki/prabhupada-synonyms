@@ -1,5 +1,11 @@
-~~Title:morasampradāya~~
-{{description>in my group.}}
+---json
+{
+    "name":"morasampradāya",
+    "h1":"morasampradāya",
+    "title":"morasampradāya",
+    "description":"in my group."
+}
+---
 
 ==== morasampradāya  ====
   * in my group --- [[books:cc:madhya:13:53|Madhya 13.53]]

@@ -1,5 +1,11 @@
-~~Title:kario~~
-{{description>make.}}
+---json
+{
+    "name":"kario",
+    "h1":"kario",
+    "title":"kario",
+    "description":"make."
+}
+---
 
 ==== kario  ====
   * make --- [[books:cc:madhya:8:290|Madhya 8.290]]

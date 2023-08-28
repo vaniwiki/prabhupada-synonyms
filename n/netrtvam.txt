@@ -1,5 +1,11 @@
-~~Title:netṛtvam~~
-{{description>carrying; leadership.}}
+---json
+{
+    "name":"netṛtvam",
+    "h1":"netṛtvam",
+    "title":"netṛtvam",
+    "description":"carrying; leadership."
+}
+---
 
 ==== netṛtvam  ====
   * carrying --- [[books:sb:3:26:37|SB 3.26.37]]

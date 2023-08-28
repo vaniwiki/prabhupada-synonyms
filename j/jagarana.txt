@@ -1,5 +1,11 @@
-~~Title:jāgaraṇa~~
-{{description>arising from bed; awake; keeping awake through the night; night vigil; remaining without sleep; wakefulness.}}
+---json
+{
+    "name":"jāgaraṇa",
+    "h1":"jāgaraṇa",
+    "title":"jāgaraṇa",
+    "description":"arising from bed; awake; keeping awake through the night; night vigil; remaining without sleep; wakefulness."
+}
+---
 
 ==== jāgaraṇa  ====
   * arising from bed --- [[books:cc:madhya:6:219|Madhya 6.219]]

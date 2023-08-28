@@ -1,5 +1,11 @@
-~~Title:nilaye~~
-{{description>to my humble place.}}
+---json
+{
+    "name":"nilaye",
+    "h1":"nilaye",
+    "title":"nilaye",
+    "description":"to my humble place."
+}
+---
 
 ==== mora nilaye  ====
   * to my humble place --- [[books:cc:madhya:17:167|Madhya 17.167]]

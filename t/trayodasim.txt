@@ -1,5 +1,11 @@
-~~Title:trayodaśīm~~
-{{description>the thirteenth day of the moon (the second day after Ekādaśī).}}
+---json
+{
+    "name":"trayodaśīm",
+    "h1":"trayodaśīm",
+    "title":"trayodaśīm",
+    "description":"the thirteenth day of the moon (the second day after Ekādaśī)."
+}
+---
 
 ==== trayodaśīm  ====
   * the thirteenth day of the moon (the second day after Ekādaśī) --- [[books:sb:8:16:48|SB 8.16.48]]

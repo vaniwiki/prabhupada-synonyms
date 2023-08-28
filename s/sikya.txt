@@ -1,5 +1,11 @@
-~~Title:śikya~~
-{{description>hanging by a swing.}}
+---json
+{
+    "name":"śikya",
+    "h1":"śikya",
+    "title":"śikya",
+    "description":"hanging by a swing."
+}
+---
 
 ==== śikya  ====
   * hanging by a swing --- [[books:sb:10:8:30|SB 10.8.30]]

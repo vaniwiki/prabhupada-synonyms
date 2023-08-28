@@ -1,5 +1,11 @@
-~~Title:apannam~~
-{{description>achieved; having gotten; obtained.}}
+---json
+{
+    "name":"apannam",
+    "h1":"apannam",
+    "title":"apannam",
+    "description":"achieved; having gotten; obtained."
+}
+---
 
 ==== āpannam  ====
   * achieved --- [[books:bg:7:24|Bg. 7.24]]

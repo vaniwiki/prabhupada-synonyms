@@ -1,5 +1,11 @@
-~~Title:calimu~~
-{{description>will go.}}
+---json
+{
+    "name":"calimu",
+    "h1":"calimu",
+    "title":"calimu",
+    "description":"will go."
+}
+---
 
 ==== calimu  ====
   * will go --- [[books:cc:antya:6:261|Antya 6.261]]

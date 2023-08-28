@@ -1,5 +1,11 @@
-~~Title:abhyanunādayan~~
-{{description>by resounding.}}
+---json
+{
+    "name":"abhyanunādayan",
+    "h1":"abhyanunādayan",
+    "title":"abhyanunādayan",
+    "description":"by resounding."
+}
+---
 
 ==== abhyanunādayan  ====
   * by resounding --- [[books:bg:1:19|Bg. 1.19]]

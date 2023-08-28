@@ -1,5 +1,11 @@
-~~Title:caṇḍeśaḥ~~
-{{description>Caṇḍeśa.}}
+---json
+{
+    "name":"caṇḍeśaḥ",
+    "h1":"caṇḍeśaḥ",
+    "title":"caṇḍeśaḥ",
+    "description":"Caṇḍeśa."
+}
+---
 
 ==== caṇḍeśaḥ  ====
   * Caṇḍeśa --- [[books:sb:4:5:17|SB 4.5.17]]

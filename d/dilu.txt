@@ -1,5 +1,11 @@
-~~Title:dilu~~
-{{description>I give.}}
+---json
+{
+    "name":"dilu",
+    "h1":"dilu",
+    "title":"dilu",
+    "description":"I give."
+}
+---
 
 ==== dilu  ====
   * I give --- [[books:cc:madhya:15:43|Madhya 15.43]]

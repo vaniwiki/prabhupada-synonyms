@@ -1,5 +1,11 @@
-~~Title:khale~~
-{{description>in a level place.}}
+---json
+{
+    "name":"khale",
+    "h1":"khale",
+    "title":"khale",
+    "description":"in a level place."
+}
+---
 
 ==== khale  ====
   * in a level place --- [[books:sb:5:26:14|SB 5.26.14]]

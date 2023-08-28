@@ -1,5 +1,11 @@
-~~Title:kṣīri~~
-{{description>sugar sweets made in the shape of trees.}}
+---json
+{
+    "name":"kṣīri",
+    "h1":"kṣīri",
+    "title":"kṣīri",
+    "description":"sugar sweets made in the shape of trees."
+}
+---
 
 ==== khaṇḍa-kṣīri-sāra-vṛkṣa  ====
   * sugar sweets made in the shape of trees --- [[books:cc:antya:18:106|Antya 18.106]]

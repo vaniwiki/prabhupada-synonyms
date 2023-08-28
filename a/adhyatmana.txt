@@ -1,5 +1,11 @@
-~~Title:adhyātmanā~~
-{{description>with false ego.}}
+---json
+{
+    "name":"adhyātmanā",
+    "h1":"adhyātmanā",
+    "title":"adhyātmanā",
+    "description":"with false ego."
+}
+---
 
 ==== adhyātmanā  ====
   * with false ego --- [[books:sb:7:12:29-30|SB 7.12.29-30]]

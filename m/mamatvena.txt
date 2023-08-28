@@ -1,5 +1,11 @@
-~~Title:mamatvena~~
-{{description>by attachment.}}
+---json
+{
+    "name":"mamatvena",
+    "h1":"mamatvena",
+    "title":"mamatvena",
+    "description":"by attachment."
+}
+---
 
 ==== mamatvena  ====
   * by attachment --- [[books:sb:4:27:10|SB 4.27.10]]

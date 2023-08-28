@@ -1,5 +1,11 @@
-~~Title:niḥsattvān~~
-{{description>bereft of all spiritual potency; impatient due to want of the mode of goodness.}}
+---json
+{
+    "name":"niḥsattvān",
+    "h1":"niḥsattvān",
+    "title":"niḥsattvān",
+    "description":"bereft of all spiritual potency; impatient due to want of the mode of goodness."
+}
+---
 
 ==== niḥsattvān  ====
   * bereft of all spiritual potency --- [[books:sb:8:5:19-20|SB 8.5.19-20]]

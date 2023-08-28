@@ -1,5 +1,11 @@
-~~Title:puruṣottamāya~~
-{{description>the primeval Lord.}}
+---json
+{
+    "name":"puruṣottamāya",
+    "h1":"puruṣottamāya",
+    "title":"puruṣottamāya",
+    "description":"the primeval Lord."
+}
+---
 
 ==== puruṣottamāya  ====
   * the primeval Lord --- [[books:sb:3:9:19|SB 3.9.19]]

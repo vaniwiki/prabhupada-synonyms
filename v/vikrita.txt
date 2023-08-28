@@ -1,5 +1,11 @@
-~~Title:vikrīta~~
-{{description>purchased.}}
+---json
+{
+    "name":"vikrīta",
+    "h1":"vikrīta",
+    "title":"vikrīta",
+    "description":"purchased."
+}
+---
 
 ==== vikrīta  ====
   * purchased --- [[books:cc:madhya:11:144|Madhya 11.144]]

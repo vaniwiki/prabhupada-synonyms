@@ -1,5 +1,11 @@
-~~Title:somadattaḥ~~
-{{description>a son named Somadatta; Somadatta.}}
+---json
+{
+    "name":"somadattaḥ",
+    "h1":"somadattaḥ",
+    "title":"somadattaḥ",
+    "description":"a son named Somadatta; Somadatta."
+}
+---
 
 ==== somadattaḥ  ====
   * a son named Somadatta --- [[books:sb:9:2:35-36|SB 9.2.35-36]]

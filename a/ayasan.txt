@@ -1,5 +1,11 @@
-~~Title:āyāsān~~
-{{description>full of laborious activities.}}
+---json
+{
+    "name":"āyāsān",
+    "h1":"āyāsān",
+    "title":"āyāsān",
+    "description":"full of laborious activities."
+}
+---
 
 ==== kriyā-āyāsān  ====
   * full of laborious activities --- [[books:sb:4:29:28|SB 4.29.28]]

@@ -1,5 +1,11 @@
-~~Title:kācam~~
-{{description>a piece of glass.}}
+---json
+{
+    "name":"kācam",
+    "h1":"kācam",
+    "title":"kācam",
+    "description":"a piece of glass."
+}
+---
 
 ==== kācam  ====
   * a piece of glass --- [[books:cc:madhya:22:42|Madhya 22.42]], [[books:cc:madhya:24:219|Madhya 24.219]]

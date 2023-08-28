@@ -1,5 +1,11 @@
-~~Title:raṁhasaḥ~~
-{{description>of the controller.}}
+---json
+{
+    "name":"raṁhasaḥ",
+    "h1":"raṁhasaḥ",
+    "title":"raṁhasaḥ",
+    "description":"of the controller."
+}
+---
 
 ==== raṁhasaḥ  ====
   * of the controller --- [[books:sb:4:24:28|SB 4.24.28]]

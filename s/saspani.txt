@@ -1,5 +1,11 @@
-~~Title:śaṣpāṇi~~
-{{description>walking and eating the soft grasses.}}
+---json
+{
+    "name":"śaṣpāṇi",
+    "h1":"śaṣpāṇi",
+    "title":"śaṣpāṇi",
+    "description":"walking and eating the soft grasses."
+}
+---
 
 ==== śaṣpāṇi carantam  ====
   * walking and eating the soft grasses --- [[books:sb:5:8:17|SB 5.8.17]]

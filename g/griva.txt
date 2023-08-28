@@ -1,5 +1,11 @@
-~~Title:griva~~
-{{description>neck.}}
+---json
+{
+    "name":"griva",
+    "h1":"griva",
+    "title":"griva",
+    "description":"neck."
+}
+---
 
 ==== grīva  ====
   * neck --- [[books:sb:4:24:49|SB 4.24.49]], [[books:sb:7:8:19-22|SB 7.8.19-22]]

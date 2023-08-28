@@ -1,5 +1,11 @@
-~~Title:nyāyyam~~
-{{description>justice; right.}}
+---json
+{
+    "name":"nyāyyam",
+    "h1":"nyāyyam",
+    "title":"nyāyyam",
+    "description":"justice; right."
+}
+---
 
 ==== nyāyyam  ====
   * justice --- [[books:sb:1:7:49|SB 1.7.49]]

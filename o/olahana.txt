@@ -1,5 +1,11 @@
-~~Title:olāhana~~
-{{description>a little rebuke; accusation; chastisement; chastisement or rebuke; punishment by words.}}
+---json
+{
+    "name":"olāhana",
+    "h1":"olāhana",
+    "title":"olāhana",
+    "description":"a little rebuke; accusation; chastisement; chastisement or rebuke; punishment by words."
+}
+---
 
 ==== olāhana  ====
   * a little rebuke --- [[books:cc:adi:14:71|Ādi 14.71]]

@@ -1,5 +1,11 @@
-~~Title:devaram~~
-{{description>the husband.}}
+---json
+{
+    "name":"devaram",
+    "h1":"devaram",
+    "title":"devaram",
+    "description":"the husband."
+}
+---
 
 ==== devaram  ====
   * the husband --- [[books:sb:4:26:26|SB 4.26.26]]

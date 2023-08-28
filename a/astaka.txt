@@ -1,5 +1,11 @@
-~~Title:astaka~~
-{{description>Aṣṭaka.}}
+---json
+{
+    "name":"astaka",
+    "h1":"astaka",
+    "title":"astaka",
+    "description":"Aṣṭaka."
+}
+---
 
 ==== aṣṭaka  ====
   * Aṣṭaka --- [[books:sb:9:16:36|SB 9.16.36]]

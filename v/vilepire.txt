@@ -1,5 +1,11 @@
-~~Title:vilepire~~
-{{description>began to lament.}}
+---json
+{
+    "name":"vilepire",
+    "h1":"vilepire",
+    "title":"vilepire",
+    "description":"began to lament."
+}
+---
 
 ==== vilepire  ====
   * began to lament --- [[books:sb:7:2:32|SB 7.2.32]]

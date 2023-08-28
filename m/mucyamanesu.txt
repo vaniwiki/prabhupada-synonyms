@@ -1,5 +1,11 @@
-~~Title:mucyamāneṣu~~
-{{description>being severed (from him).}}
+---json
+{
+    "name":"mucyamāneṣu",
+    "h1":"mucyamāneṣu",
+    "title":"mucyamāneṣu",
+    "description":"being severed (from him)."
+}
+---
 
 ==== mucyamāneṣu  ====
   * being severed (from him) --- [[books:sb:7:14:3-4|SB 7.14.3-4]]

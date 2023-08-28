@@ -1,5 +1,11 @@
-~~Title:ugraiḥ~~
-{{description>severe.}}
+---json
+{
+    "name":"ugraiḥ",
+    "h1":"ugraiḥ",
+    "title":"ugraiḥ",
+    "description":"severe."
+}
+---
 
 ==== ugraiḥ  ====
   * severe --- [[books:bg:11:48|Bg. 11.48]]

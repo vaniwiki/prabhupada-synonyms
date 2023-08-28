@@ -1,5 +1,11 @@
-~~Title:aviccheda~~
-{{description>inseparable.}}
+---json
+{
+    "name":"aviccheda",
+    "h1":"aviccheda",
+    "title":"aviccheda",
+    "description":"inseparable."
+}
+---
 
 ==== aviccheda  ====
   * inseparable --- [[books:cc:adi:4:97|Ādi 4.97]]

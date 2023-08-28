@@ -1,5 +1,11 @@
-~~Title:duṣṭānām~~
-{{description>criminals; great offenders.}}
+---json
+{
+    "name":"duṣṭānām",
+    "h1":"duṣṭānām",
+    "title":"duṣṭānām",
+    "description":"criminals; great offenders."
+}
+---
 
 ==== duṣṭānām  ====
   * criminals --- [[books:sb:6:17:11|SB 6.17.11]]

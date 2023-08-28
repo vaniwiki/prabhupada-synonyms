@@ -1,5 +1,11 @@
-~~Title:upanītāya~~
-{{description>who had undergone His sacred thread ceremony.}}
+---json
+{
+    "name":"upanītāya",
+    "h1":"upanītāya",
+    "title":"upanītāya",
+    "description":"who had undergone His sacred thread ceremony."
+}
+---
 
 ==== upanītāya  ====
   * who had undergone His sacred thread ceremony --- [[books:sb:8:18:17|SB 8.18.17]]

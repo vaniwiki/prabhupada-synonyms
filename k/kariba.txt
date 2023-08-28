@@ -1,5 +1,11 @@
-~~Title:kariba~~
-{{description>can I do; I must do; I shall describe; I shall do; I shall execute; I shall gather; I shall grant; I shall make; I shall perform; shall accept; shall do; shall I do; we shall do; will do.}}
+---json
+{
+    "name":"kariba",
+    "h1":"kariba",
+    "title":"kariba",
+    "description":"can I do; I must do; I shall describe; I shall do; I shall execute; I shall gather; I shall grant; I shall make; I shall perform; shall accept; shall do; shall I do; we shall do; will do."
+}
+---
 
 ==== kariba  ====
   * can I do --- [[books:cc:madhya:3:90|Madhya 3.90]]

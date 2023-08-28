@@ -1,5 +1,11 @@
-~~Title:vyudasyet~~
-{{description>can be delivered.}}
+---json
+{
+    "name":"vyudasyet",
+    "h1":"vyudasyet",
+    "title":"vyudasyet",
+    "description":"can be delivered."
+}
+---
 
 ==== vyudasyet  ====
   * can be delivered --- [[books:sb:4:7:44|SB 4.7.44]]

@@ -1,5 +1,11 @@
-~~Title:icchantaḥ~~
-{{description>desiring.}}
+---json
+{
+    "name":"icchantaḥ",
+    "h1":"icchantaḥ",
+    "title":"icchantaḥ",
+    "description":"desiring."
+}
+---
 
 ==== icchantaḥ  ====
   * desiring --- [[books:bg:8:11|Bg. 8.11]], [[books:sb:4:10:11-12|SB 4.10.11-12]]

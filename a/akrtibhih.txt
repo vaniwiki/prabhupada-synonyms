@@ -1,5 +1,11 @@
-~~Title:ākṛtibhiḥ~~
-{{description>by bodily features.}}
+---json
+{
+    "name":"ākṛtibhiḥ",
+    "h1":"ākṛtibhiḥ",
+    "title":"ākṛtibhiḥ",
+    "description":"by bodily features."
+}
+---
 
 ==== ākṛtibhiḥ  ====
   * by bodily features --- [[books:sb:7:13:14|SB 7.13.14]], [[books:sb:8:3:6|SB 8.3.6]]

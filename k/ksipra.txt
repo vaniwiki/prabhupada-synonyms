@@ -1,5 +1,11 @@
-~~Title:kṣipra~~
-{{description>quick mercy.}}
+---json
+{
+    "name":"kṣipra",
+    "h1":"kṣipra",
+    "title":"kṣipra",
+    "description":"quick mercy."
+}
+---
 
 ==== kṣipra-prasādam  ====
   * quick mercy --- [[books:sb:4:6:5|SB 4.6.5]]

@@ -1,5 +1,11 @@
-~~Title:paridahyamāne~~
-{{description>being set ablaze.}}
+---json
+{
+    "name":"paridahyamāne",
+    "h1":"paridahyamāne",
+    "title":"paridahyamāne",
+    "description":"being set ablaze."
+}
+---
 
 ==== paridahyamāne  ====
   * being set ablaze --- [[books:sb:2:7:29|SB 2.7.29]]

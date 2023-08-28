@@ -1,5 +1,11 @@
-~~Title:śṛṅkhalām~~
-{{description>the iron shackles; who was like the chains.}}
+---json
+{
+    "name":"śṛṅkhalām",
+    "h1":"śṛṅkhalām",
+    "title":"śṛṅkhalām",
+    "description":"the iron shackles; who was like the chains."
+}
+---
 
 ==== śṛṅkhalām  ====
   * the iron shackles --- [[books:sb:6:16:12|SB 6.16.12]]

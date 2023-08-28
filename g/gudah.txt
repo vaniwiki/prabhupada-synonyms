@@ -1,5 +1,11 @@
-~~Title:gudaḥ~~
-{{description>rectum.}}
+---json
+{
+    "name":"gudaḥ",
+    "h1":"gudaḥ",
+    "title":"gudaḥ",
+    "description":"rectum."
+}
+---
 
 ==== gudaḥ  ====
   * rectum --- [[books:sb:4:29:14|SB 4.29.14]]

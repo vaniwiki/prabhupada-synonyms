@@ -1,5 +1,11 @@
-~~Title:mānavāt~~
-{{description>from the son of Manu.}}
+---json
+{
+    "name":"mānavāt",
+    "h1":"mānavāt",
+    "title":"mānavāt",
+    "description":"from the son of Manu."
+}
+---
 
 ==== mānavāt  ====
   * from the son of Manu --- [[books:sb:9:2:16|SB 9.2.16]]

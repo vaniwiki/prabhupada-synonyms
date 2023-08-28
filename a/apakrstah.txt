@@ -1,5 +1,11 @@
-~~Title:apakṛṣṭaḥ~~
-{{description>distracted to a distance.}}
+---json
+{
+    "name":"apakṛṣṭaḥ",
+    "h1":"apakṛṣṭaḥ",
+    "title":"apakṛṣṭaḥ",
+    "description":"distracted to a distance."
+}
+---
 
 ==== apakṛṣṭaḥ  ====
   * distracted to a distance --- [[books:sb:9:10:10|SB 9.10.10]]

@@ -1,5 +1,11 @@
-~~Title:sauhṛdena~~
-{{description>by friendship; with love.}}
+---json
+{
+    "name":"sauhṛdena",
+    "h1":"sauhṛdena",
+    "title":"sauhṛdena",
+    "description":"by friendship; with love."
+}
+---
 
 ==== sauhṛdena  ====
   * by friendship --- [[books:sb:4:30:8|SB 4.30.8]]

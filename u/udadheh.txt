@@ -1,5 +1,11 @@
-~~Title:udadheḥ~~
-{{description>for the ocean; from the ocean; from the ocean of milk.}}
+---json
+{
+    "name":"udadheḥ",
+    "h1":"udadheḥ",
+    "title":"udadheḥ",
+    "description":"for the ocean; from the ocean; from the ocean of milk."
+}
+---
 
 ==== udadheḥ  ====
   * for the ocean --- [[books:sb:7:7:45|SB 7.7.45]]

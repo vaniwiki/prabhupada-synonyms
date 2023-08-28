@@ -1,5 +1,11 @@
-~~Title:prātaḥ~~
-{{description>early in the morning; in the morning; in the morning hours; morning; Prātar; Prātaḥ.}}
+---json
+{
+    "name":"prātaḥ",
+    "h1":"prātaḥ",
+    "title":"prātaḥ",
+    "description":"early in the morning; in the morning; in the morning hours; morning; Prātar; Prātaḥ."
+}
+---
 
 ==== prātaḥ  ====
   * early in the morning --- [[books:sb:6:17:41|SB 6.17.41]], [[books:sb:10:12:1|SB 10.12.1]]

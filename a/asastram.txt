@@ -1,5 +1,11 @@
-~~Title:aśastram~~
-{{description>without being fully equipped.}}
+---json
+{
+    "name":"aśastram",
+    "h1":"aśastram",
+    "title":"aśastram",
+    "description":"without being fully equipped."
+}
+---
 
 ==== aśastram  ====
   * without being fully equipped --- [[books:bg:1:45|Bg. 1.45]]

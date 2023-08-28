@@ -1,5 +1,11 @@
-~~Title:āvirbhūta~~
-{{description>appearing.}}
+---json
+{
+    "name":"āvirbhūta",
+    "h1":"āvirbhūta",
+    "title":"āvirbhūta",
+    "description":"appearing."
+}
+---
 
 ==== āvirbhūta hañā  ====
   * appearing --- [[books:cc:antya:2:36|Antya 2.36]]

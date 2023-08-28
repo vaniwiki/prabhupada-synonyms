@@ -1,5 +1,11 @@
-~~Title:anukampitāyāḥ~~
-{{description>always affectionate and compassionate.}}
+---json
+{
+    "name":"anukampitāyāḥ",
+    "h1":"anukampitāyāḥ",
+    "title":"anukampitāyāḥ",
+    "description":"always affectionate and compassionate."
+}
+---
 
 ==== anukampitāyāḥ  ====
   * always affectionate and compassionate --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

@@ -1,5 +1,11 @@
-~~Title:urvyam~~
-{{description>in the bottom of the universe; on the Earth; on the ground; powerful; with great speed.}}
+---json
+{
+    "name":"urvyam",
+    "h1":"urvyam",
+    "title":"urvyam",
+    "description":"in the bottom of the universe; on the Earth; on the ground; powerful; with great speed."
+}
+---
 
 ==== urvyām  ====
   * in the bottom of the universe --- [[books:sb:3:8:3|SB 3.8.3]]

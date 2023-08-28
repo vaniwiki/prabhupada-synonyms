@@ -1,5 +1,11 @@
-~~Title:vasanti~~
-{{description>are living; reside; they live.}}
+---json
+{
+    "name":"vasanti",
+    "h1":"vasanti",
+    "title":"vasanti",
+    "description":"are living; reside; they live."
+}
+---
 
 ==== vasanti  ====
   * are living --- [[books:sb:10:2:7|SB 10.2.7]]

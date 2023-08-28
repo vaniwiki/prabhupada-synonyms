@@ -1,5 +1,11 @@
-~~Title:vimatsaraḥ~~
-{{description>free from envy; without being envious.}}
+---json
+{
+    "name":"vimatsaraḥ",
+    "h1":"vimatsaraḥ",
+    "title":"vimatsaraḥ",
+    "description":"free from envy; without being envious."
+}
+---
 
 ==== vimatsaraḥ  ====
   * free from envy --- [[books:bg:4:22|Bg. 4.22]]

@@ -1,5 +1,11 @@
-~~Title:prāṇayoḥ~~
-{{description>both alive.}}
+---json
+{
+    "name":"prāṇayoḥ",
+    "h1":"prāṇayoḥ",
+    "title":"prāṇayoḥ",
+    "description":"both alive."
+}
+---
 
 ==== sa-prāṇayoḥ  ====
   * both alive --- [[books:sb:8:2:29|SB 8.2.29]]

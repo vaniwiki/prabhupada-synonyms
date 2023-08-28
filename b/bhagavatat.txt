@@ -1,5 +1,11 @@
-~~Title:bhāgavatāt~~
-{{description>from a great devotee.}}
+---json
+{
+    "name":"bhāgavatāt",
+    "h1":"bhāgavatāt",
+    "title":"bhāgavatāt",
+    "description":"from a great devotee."
+}
+---
 
 ==== bhāgavatāt  ====
   * from a great devotee --- [[books:sb:4:7:60|SB 4.7.60]]

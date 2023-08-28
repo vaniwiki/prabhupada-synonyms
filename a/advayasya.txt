@@ -1,5 +1,11 @@
-~~Title:advayasya~~
-{{description>of the Absolute.}}
+---json
+{
+    "name":"advayasya",
+    "h1":"advayasya",
+    "title":"advayasya",
+    "description":"of the Absolute."
+}
+---
 
 ==== advayasya  ====
   * of the Absolute --- [[books:sb:1:9:21|SB 1.9.21]]

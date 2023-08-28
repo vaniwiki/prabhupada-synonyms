@@ -1,5 +1,11 @@
-~~Title:liṅgam~~
-{{description>a body; characteristics; symbolic representation; symptom; the cause; the cause of material bondage; the form; the gross and subtle bodies; the subtle body; the subtle body or false ego; the symbol.}}
+---json
+{
+    "name":"liṅgam",
+    "h1":"liṅgam",
+    "title":"liṅgam",
+    "description":"a body; characteristics; symbolic representation; symptom; the cause; the cause of material bondage; the form; the gross and subtle bodies; the subtle body; the subtle body or false ego; the symbol."
+}
+---
 
 ==== liṅgam  ====
   * a body --- [[books:sb:7:2:22|SB 7.2.22]]

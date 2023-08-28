@@ -1,5 +1,11 @@
-~~Title:pravaraiḥ~~
-{{description>the best of personal assistants.}}
+---json
+{
+    "name":"pravaraiḥ",
+    "h1":"pravaraiḥ",
+    "title":"pravaraiḥ",
+    "description":"the best of personal assistants."
+}
+---
 
 ==== sva-pārṣada-pravaraiḥ  ====
   * the best of personal assistants --- [[books:sb:5:20:40|SB 5.20.40]]

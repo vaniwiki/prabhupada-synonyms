@@ -1,5 +1,11 @@
-~~Title:acasta~~
-{{description>could see; observed; recognized; saw.}}
+---json
+{
+    "name":"acasta",
+    "h1":"acasta",
+    "title":"acasta",
+    "description":"could see; observed; recognized; saw."
+}
+---
 
 ==== acaṣṭa  ====
   * could see --- [[books:sb:4:9:8|SB 4.9.8]]

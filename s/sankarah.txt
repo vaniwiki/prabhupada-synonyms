@@ -1,5 +1,11 @@
-~~Title:sankarah~~
-{{description>such unwanted children.}}
+---json
+{
+    "name":"sankarah",
+    "h1":"sankarah",
+    "title":"sankarah",
+    "description":"such unwanted children."
+}
+---
 
 ==== saṅkaraḥ  ====
   * such unwanted children --- [[books:bg:1:41|Bg. 1.41]]

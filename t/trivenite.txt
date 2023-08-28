@@ -1,5 +1,11 @@
-~~Title:triveṇīte~~
-{{description>at the confluence of the Rivers Ganges and Yamunā.}}
+---json
+{
+    "name":"triveṇīte",
+    "h1":"triveṇīte",
+    "title":"triveṇīte",
+    "description":"at the confluence of the Rivers Ganges and Yamunā."
+}
+---
 
 ==== triveṇīte  ====
   * at the confluence of the Rivers Ganges and Yamunā --- [[books:cc:madhya:18:222|Madhya 18.222]]

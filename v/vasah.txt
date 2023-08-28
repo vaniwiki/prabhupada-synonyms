@@ -1,5 +1,11 @@
-~~Title:vasah~~
-{{description>captivated.}}
+---json
+{
+    "name":"vasah",
+    "h1":"vasah",
+    "title":"vasah",
+    "description":"captivated."
+}
+---
 
 ==== vaśaḥ  ====
   * captivated --- [[books:cc:madhya:4:1|Madhya 4.1]]

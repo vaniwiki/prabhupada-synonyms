@@ -1,5 +1,11 @@
-~~Title:asambhūtim~~
-{{description>demigods.}}
+---json
+{
+    "name":"asambhūtim",
+    "h1":"asambhūtim",
+    "title":"asambhūtim",
+    "description":"demigods."
+}
+---
 
 ==== asambhūtim  ====
   * demigods --- [[books:iso:12|Īśo 12]]

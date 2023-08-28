@@ -1,5 +1,11 @@
-~~Title:roṣe~~
-{{description>in anger.}}
+---json
+{
+    "name":"roṣe",
+    "h1":"roṣe",
+    "title":"roṣe",
+    "description":"in anger."
+}
+---
 
 ==== roṣe  ====
   * in anger --- [[books:cc:antya:17:33|Antya 17.33]]

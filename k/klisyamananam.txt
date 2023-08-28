@@ -1,5 +1,11 @@
-~~Title:kliśyamānānām~~
-{{description>of those who are suffering from.}}
+---json
+{
+    "name":"kliśyamānānām",
+    "h1":"kliśyamānānām",
+    "title":"kliśyamānānām",
+    "description":"of those who are suffering from."
+}
+---
 
 ==== kliśyamānānām  ====
   * of those who are suffering from --- [[books:sb:1:8:35|SB 1.8.35]]

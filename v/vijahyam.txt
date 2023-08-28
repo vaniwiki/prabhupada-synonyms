@@ -1,5 +1,11 @@
-~~Title:vijahyām~~
-{{description>I can give up.}}
+---json
+{
+    "name":"vijahyām",
+    "h1":"vijahyām",
+    "title":"vijahyām",
+    "description":"I can give up."
+}
+---
 
 ==== vijahyām  ====
   * I can give up --- [[books:sb:3:9:23|SB 3.9.23]]

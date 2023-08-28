@@ -1,5 +1,11 @@
-~~Title:brahmaṇyasya~~
-{{description>lover of brahminical culture; of the supreme director of the brahminical culture; to the brahminical culture, or to the brāhmaṇa.}}
+---json
+{
+    "name":"brahmaṇyasya",
+    "h1":"brahmaṇyasya",
+    "title":"brahmaṇyasya",
+    "description":"lover of brahminical culture; of the supreme director of the brahminical culture; to the brahminical culture, or to the brāhmaṇa."
+}
+---
 
 ==== brahmaṇyasya  ====
   * lover of brahminical culture --- [[books:sb:4:13:21|SB 4.13.21]]

@@ -1,5 +1,11 @@
-~~Title:upagīyamāna~~
-{{description>being chanted; being glorified; being praised; being sung; were being glorified.}}
+---json
+{
+    "name":"upagīyamāna",
+    "h1":"upagīyamāna",
+    "title":"upagīyamāna",
+    "description":"being chanted; being glorified; being praised; being sung; were being glorified."
+}
+---
 
 ==== upagīyamāna  ====
   * being chanted --- [[books:sb:5:16:15|SB 5.16.15]]

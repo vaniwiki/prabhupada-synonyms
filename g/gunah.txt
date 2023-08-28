@@ -1,5 +1,11 @@
-~~Title:gunah~~
-{{description>a great quality; good quality; material quality; modes of nature; objects of sense perception; perfections; possessing qualities; qualities; quality; quality or intelligence; the object of sense perception; the three qualities; transcendental qualities; who has transcendental qualities; whose property of the intelligence.}}
+---json
+{
+    "name":"gunah",
+    "h1":"gunah",
+    "title":"gunah",
+    "description":"a great quality; good quality; material quality; modes of nature; objects of sense perception; perfections; possessing qualities; qualities; quality; quality or intelligence; the object of sense perception; the three qualities; transcendental qualities; who has transcendental qualities; whose property of the intelligence."
+}
+---
 
 ==== guṇaḥ  ====
   * a great quality --- [[books:sb:3:23:10|SB 3.23.10]]

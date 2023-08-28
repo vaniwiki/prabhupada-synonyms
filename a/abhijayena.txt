@@ -1,5 +1,11 @@
-~~Title:abhijayena~~
-{{description>by controlling.}}
+---json
+{
+    "name":"abhijayena",
+    "h1":"abhijayena",
+    "title":"abhijayena",
+    "description":"by controlling."
+}
+---
 
 ==== abhijayena  ====
   * by controlling --- [[books:sb:5:5:10-13|SB 5.5.10-13]]

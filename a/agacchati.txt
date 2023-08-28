@@ -1,5 +1,11 @@
-~~Title:āgacchati~~
-{{description>has come back; is coming.}}
+---json
+{
+    "name":"āgacchati",
+    "h1":"āgacchati",
+    "title":"āgacchati",
+    "description":"has come back; is coming."
+}
+---
 
 ==== āgacchati  ====
   * has come back --- [[books:sb:5:8:19|SB 5.8.19]]

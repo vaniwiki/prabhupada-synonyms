@@ -1,5 +1,11 @@
-~~Title:vyabbhraḥ~~
-{{description>cloudless.}}
+---json
+{
+    "name":"vyabbhraḥ",
+    "h1":"vyabbhraḥ",
+    "title":"vyabbhraḥ",
+    "description":"cloudless."
+}
+---
 
 ==== vyabbhraḥ  ====
   * cloudless --- [[books:sb:9:16:23|SB 9.16.23]]

@@ -1,5 +1,11 @@
-~~Title:nimittam~~
-{{description>a cause; for the matter of; reason; the cause; the cause of; the purpose.}}
+---json
+{
+    "name":"nimittam",
+    "h1":"nimittam",
+    "title":"nimittam",
+    "description":"a cause; for the matter of; reason; the cause; the cause of; the purpose."
+}
+---
 
 ==== nimittam  ====
   * a cause --- [[books:sb:10:1:51|SB 10.1.51]]

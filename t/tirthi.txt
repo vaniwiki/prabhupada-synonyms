@@ -1,5 +1,11 @@
-~~Title:tīrthī~~
-{{description>as holy places of pilgrimage; pilgrimage.}}
+---json
+{
+    "name":"tīrthī",
+    "h1":"tīrthī",
+    "title":"tīrthī",
+    "description":"as holy places of pilgrimage; pilgrimage."
+}
+---
 
 ==== tīrthī  ====
   * as holy places of pilgrimage --- [[books:cc:madhya:10:12|Madhya 10.12]]

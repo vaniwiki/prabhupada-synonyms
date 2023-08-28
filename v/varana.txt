@@ -1,5 +1,11 @@
-~~Title:varana~~
-{{description>complexion; luster; the color.}}
+---json
+{
+    "name":"varana",
+    "h1":"varana",
+    "title":"varana",
+    "description":"complexion; luster; the color."
+}
+---
 
 ==== varaṇa  ====
   * complexion --- [[books:cc:madhya:17:107|Madhya 17.107]]

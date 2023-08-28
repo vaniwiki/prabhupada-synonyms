@@ -1,5 +1,11 @@
-~~Title:panachila~~
-{{description>had obtained.}}
+---json
+{
+    "name":"panachila",
+    "h1":"panachila",
+    "title":"panachila",
+    "description":"had obtained."
+}
+---
 
 ==== pāñāchila  ====
   * had obtained --- [[books:cc:madhya:16:95|Madhya 16.95]]

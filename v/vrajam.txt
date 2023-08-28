@@ -1,5 +1,11 @@
-~~Title:vrajam~~
-{{description>all the inhabitants of Vraja; at the pasturing place; the place of Nanda Mahārāja, Vrajabhūmi; this Gokula Vrajabhūmi; to the land of Vraja; to the village known as Vrajabhūmi; to Vrajadhāma, Vrajabhūmi; to Vṛndāvana; Vrajabhūmi, the land of Mahārāja Nanda and Yaśodā; Vṛndāvana-dhāma, Nanda Mahārāja's place.}}
+---json
+{
+    "name":"vrajam",
+    "h1":"vrajam",
+    "title":"vrajam",
+    "description":"all the inhabitants of Vraja; at the pasturing place; the place of Nanda Mahārāja, Vrajabhūmi; this Gokula Vrajabhūmi; to the land of Vraja; to the village known as Vrajabhūmi; to Vrajadhāma, Vrajabhūmi; to Vṛndāvana; Vrajabhūmi, the land of Mahārāja Nanda and Yaśodā; Vṛndāvana-dhāma, Nanda Mahārāja's place."
+}
+---
 
 ==== vrajam  ====
   * all the inhabitants of Vraja --- [[books:sb:2:7:29|SB 2.7.29]]

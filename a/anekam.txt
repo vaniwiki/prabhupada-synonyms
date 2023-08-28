@@ -1,5 +1,11 @@
-~~Title:anekam~~
-{{description>various causes.}}
+---json
+{
+    "name":"anekam",
+    "h1":"anekam",
+    "title":"anekam",
+    "description":"various causes."
+}
+---
 
 ==== anekam  ====
   * various causes --- [[books:sb:4:9:13|SB 4.9.13]]

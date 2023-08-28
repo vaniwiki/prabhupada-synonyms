@@ -1,5 +1,11 @@
-~~Title:kona~~
-{{description>any; some; somehow or other; someone; what; which; which kind.}}
+---json
+{
+    "name":"kona",
+    "h1":"kona",
+    "title":"kona",
+    "description":"any; some; somehow or other; someone; what; which; which kind."
+}
+---
 
 ==== kona  ====
   * any --- [[books:cc:adi:12:16|Ādi 12.16]], [[books:cc:madhya:1:69|Madhya 1.69]], [[books:cc:madhya:9:130|Madhya 9.130]], [[books:cc:madhya:17:18|Madhya 17.18]], [[books:cc:madhya:17:75|Madhya 17.75]], [[books:cc:madhya:25:92|Madhya 25.92]], [[books:cc:antya:4:56|Antya 4.56]], [[books:cc:antya:6:324|Antya 6.324]], [[books:cc:antya:12:73|Antya 12.73]], [[books:cc:antya:16:142|Antya 16.142]]

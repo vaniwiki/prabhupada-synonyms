@@ -1,5 +1,11 @@
-~~Title:pāpaiḥ~~
-{{description>from all reactions of sinful activities; from all sinful reactions.}}
+---json
+{
+    "name":"pāpaiḥ",
+    "h1":"pāpaiḥ",
+    "title":"pāpaiḥ",
+    "description":"from all reactions of sinful activities; from all sinful reactions."
+}
+---
 
 ==== sarva-pāpaiḥ  ====
   * from all reactions of sinful activities --- [[books:sb:9:23:18-19|SB 9.23.18-19]]

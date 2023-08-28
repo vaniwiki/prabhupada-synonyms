@@ -1,5 +1,11 @@
-~~Title:mathita~~
-{{description>being aggrieved by; churned.}}
+---json
+{
+    "name":"mathita",
+    "h1":"mathita",
+    "title":"mathita",
+    "description":"being aggrieved by; churned."
+}
+---
 
 ==== mathita  ====
   * being aggrieved by --- [[books:sb:2:7:24|SB 2.7.24]]

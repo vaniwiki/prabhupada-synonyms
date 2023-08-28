@@ -1,5 +1,11 @@
-~~Title:sṛṣṭayā~~
-{{description>endowed.}}
+---json
+{
+    "name":"sṛṣṭayā",
+    "h1":"sṛṣṭayā",
+    "title":"sṛṣṭayā",
+    "description":"endowed."
+}
+---
 
 ==== sṛṣṭayā  ====
   * endowed --- [[books:sb:3:31:19|SB 3.31.19]]

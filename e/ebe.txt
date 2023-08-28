@@ -1,5 +1,11 @@
-~~Title:ebe~~
-{{description>now; but at this time; just now; now.}}
+---json
+{
+    "name":"ebe",
+    "h1":"ebe",
+    "title":"ebe",
+    "description":"now; but at this time; just now; now."
+}
+---
 
 ==== ebe  ====
   * //now// --- [[books:cc:madhya:7:53|Madhya 7.53]], [[books:cc:madhya:8:281|Madhya 8.281]]

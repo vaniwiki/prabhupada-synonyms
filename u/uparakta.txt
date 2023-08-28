@@ -1,5 +1,11 @@
-~~Title:uparakta~~
-{{description>due to the mind's being influenced.}}
+---json
+{
+    "name":"uparakta",
+    "h1":"uparakta",
+    "title":"uparakta",
+    "description":"due to the mind's being influenced."
+}
+---
 
 ==== uparakta-manasā  ====
   * due to the mind's being influenced --- [[books:sb:5:14:5|SB 5.14.5]]

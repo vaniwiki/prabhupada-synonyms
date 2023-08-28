@@ -1,5 +1,11 @@
-~~Title:parikīrtitaḥ~~
-{{description>declared; is declared.}}
+---json
+{
+    "name":"parikīrtitaḥ",
+    "h1":"parikīrtitaḥ",
+    "title":"parikīrtitaḥ",
+    "description":"declared; is declared."
+}
+---
 
 ==== parikīrtitaḥ  ====
   * declared --- [[books:bg:18:7|Bg. 18.7]]

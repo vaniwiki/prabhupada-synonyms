@@ -1,5 +1,11 @@
-~~Title:antarbhāva~~
-{{description>the intention.}}
+---json
+{
+    "name":"antarbhāva",
+    "h1":"antarbhāva",
+    "title":"antarbhāva",
+    "description":"the intention."
+}
+---
 
 ==== antarbhāva  ====
   * the intention --- [[books:cc:antya:9:115|Antya 9.115]]

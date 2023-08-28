@@ -1,5 +1,11 @@
-~~Title:iṅgate~~
-{{description>disturbed; flickering; waver.}}
+---json
+{
+    "name":"iṅgate",
+    "h1":"iṅgate",
+    "title":"iṅgate",
+    "description":"disturbed; flickering; waver."
+}
+---
 
 ==== iṅgate  ====
   * disturbed --- [[books:sb:4:3:13|SB 4.3.13]]

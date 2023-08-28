@@ -1,5 +1,11 @@
-~~Title:preritaḥ~~
-{{description>induced by.}}
+---json
+{
+    "name":"preritaḥ",
+    "h1":"preritaḥ",
+    "title":"preritaḥ",
+    "description":"induced by."
+}
+---
 
 ==== preritaḥ  ====
   * induced by --- [[books:sb:3:6:4|SB 3.6.4]]

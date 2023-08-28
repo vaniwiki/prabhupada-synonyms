@@ -1,5 +1,11 @@
-~~Title:rujaḥ~~
-{{description>anger; diseases.}}
+---json
+{
+    "name":"rujaḥ",
+    "h1":"rujaḥ",
+    "title":"rujaḥ",
+    "description":"anger; diseases."
+}
+---
 
 ==== rujaḥ  ====
   * anger --- [[books:sb:4:6:47|SB 4.6.47]]

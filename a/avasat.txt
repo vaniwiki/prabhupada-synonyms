@@ -1,5 +1,11 @@
-~~Title:avasat~~
-{{description>associated; lived; resided; was residing.}}
+---json
+{
+    "name":"avasat",
+    "h1":"avasat",
+    "title":"avasat",
+    "description":"associated; lived; resided; was residing."
+}
+---
 
 ==== avasat  ====
   * associated --- [[books:sb:4:4:16|SB 4.4.16]]

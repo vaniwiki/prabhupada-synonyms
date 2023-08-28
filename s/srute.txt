@@ -1,5 +1,11 @@
-~~Title:śrute~~
-{{description>when heard.}}
+---json
+{
+    "name":"śrute",
+    "h1":"śrute",
+    "title":"śrute",
+    "description":"when heard."
+}
+---
 
 ==== śrute  ====
   * when heard --- [[books:cc:madhya:22:155|Madhya 22.155]]

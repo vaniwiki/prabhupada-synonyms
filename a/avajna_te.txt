@@ -1,5 +1,11 @@
-~~Title:avajñā'te~~
-{{description>in contempt.}}
+---json
+{
+    "name":"avajñā'te",
+    "h1":"avajñā'te",
+    "title":"avajñā'te",
+    "description":"in contempt."
+}
+---
 
 ==== avajñā'te  ====
   * in contempt --- [[books:cc:madhya:17:127|Madhya 17.127]]

@@ -1,5 +1,11 @@
-~~Title:oṣṇa~~
-{{description>warmness.}}
+---json
+{
+    "name":"oṣṇa",
+    "h1":"oṣṇa",
+    "title":"oṣṇa",
+    "description":"warmness."
+}
+---
 
 ==== oṣṇa  ====
   * warmness --- [[books:sb:2:10:23|SB 2.10.23]]

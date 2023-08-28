@@ -1,5 +1,11 @@
-~~Title:aharan~~
-{{description>collected; snatched away.}}
+---json
+{
+    "name":"aharan",
+    "h1":"aharan",
+    "title":"aharan",
+    "description":"collected; snatched away."
+}
+---
 
 ==== aharan  ====
   * collected --- [[books:sb:1:15:8|SB 1.15.8]]

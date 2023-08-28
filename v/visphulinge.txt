@@ -1,5 +1,11 @@
-~~Title:visphuliṅge~~
-{{description>giving off sparks of fire.}}
+---json
+{
+    "name":"visphuliṅge",
+    "h1":"visphuliṅge",
+    "title":"visphuliṅge",
+    "description":"giving off sparks of fire."
+}
+---
 
 ==== visphuliṅge  ====
   * giving off sparks of fire --- [[books:sb:6:8:24|SB 6.8.24]]

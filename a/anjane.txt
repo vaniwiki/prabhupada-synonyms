@@ -1,5 +1,11 @@
-~~Title:añjane~~
-{{description>by the eye-ointment of Your mercy.}}
+---json
+{
+    "name":"añjane",
+    "h1":"añjane",
+    "title":"añjane",
+    "description":"by the eye-ointment of Your mercy."
+}
+---
 
 ==== tomāra kṛpā-añjane  ====
   * by the eye-ointment of Your mercy --- [[books:cc:antya:7:129|Antya 7.129]]

@@ -1,5 +1,11 @@
-~~Title:tatastha~~
-{{description>marginal.}}
+---json
+{
+    "name":"tatastha",
+    "h1":"tatastha",
+    "title":"tatastha",
+    "description":"marginal."
+}
+---
 
 ==== taṭastha  ====
   * marginal --- [[books:cc:madhya:23:6|Madhya 23.6]]

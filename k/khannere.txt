@@ -1,5 +1,11 @@
-~~Title:khāṅnere~~
-{{description>spoke to Rāmacandra Khān.}}
+---json
+{
+    "name":"khāṅnere",
+    "h1":"khāṅnere",
+    "title":"khāṅnere",
+    "description":"spoke to Rāmacandra Khān."
+}
+---
 
 ==== khāṅnere kahila  ====
   * spoke to Rāmacandra Khān --- [[books:cc:antya:3:127|Antya 3.127]]

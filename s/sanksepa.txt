@@ -1,5 +1,11 @@
-~~Title:saṅkṣepa~~
-{{description>briefly; in brief.}}
+---json
+{
+    "name":"saṅkṣepa",
+    "h1":"saṅkṣepa",
+    "title":"saṅkṣepa",
+    "description":"briefly; in brief."
+}
+---
 
 ==== saṅkṣepa  ====
   * briefly --- [[books:cc:madhya:12:150|Madhya 12.150]], [[books:cc:antya:20:84|Antya 20.84]]

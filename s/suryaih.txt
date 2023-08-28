@@ -1,5 +1,11 @@
-~~Title:sūryaiḥ~~
-{{description>by severe austerities such as keeping oneself in water, in a burning fire or in the scorching sun; by those who worship water, fire or scorching sunshine.}}
+---json
+{
+    "name":"sūryaiḥ",
+    "h1":"sūryaiḥ",
+    "title":"sūryaiḥ",
+    "description":"by severe austerities such as keeping oneself in water, in a burning fire or in the scorching sun; by those who worship water, fire or scorching sunshine."
+}
+---
 
 ==== jala-agni-sūryaiḥ  ====
   * by severe austerities such as keeping oneself in water, in a burning fire or in the scorching sun --- [[books:sb:5:12:12|SB 5.12.12]]

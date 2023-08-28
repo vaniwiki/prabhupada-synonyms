@@ -1,5 +1,11 @@
-~~Title:prakopa~~
-{{description>severity.}}
+---json
+{
+    "name":"prakopa",
+    "h1":"prakopa",
+    "title":"prakopa",
+    "description":"severity."
+}
+---
 
 ==== prakopa  ====
   * severity --- [[books:cc:antya:12:106|Antya 12.106]]

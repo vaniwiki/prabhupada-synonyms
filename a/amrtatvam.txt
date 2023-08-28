@@ -1,5 +1,11 @@
-~~Title:amṛtatvam~~
-{{description>immortality; liberation from material bondage.}}
+---json
+{
+    "name":"amṛtatvam",
+    "h1":"amṛtatvam",
+    "title":"amṛtatvam",
+    "description":"immortality; liberation from material bondage."
+}
+---
 
 ==== amṛtatvam  ====
   * immortality --- [[books:cc:madhya:22:103|Madhya 22.103]], [[books:cc:antya:4:194|Antya 4.194]]

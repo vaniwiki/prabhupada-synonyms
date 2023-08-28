@@ -1,5 +1,11 @@
-~~Title:cyavanti~~
-{{description>fall down.}}
+---json
+{
+    "name":"cyavanti",
+    "h1":"cyavanti",
+    "title":"cyavanti",
+    "description":"fall down."
+}
+---
 
 ==== cyavanti  ====
   * fall down --- [[books:bg:9:24|Bg. 9.24]]

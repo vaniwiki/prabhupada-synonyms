@@ -1,5 +1,11 @@
-~~Title:saṁjāyate~~
-{{description>takes place.}}
+---json
+{
+    "name":"saṁjāyate",
+    "h1":"saṁjāyate",
+    "title":"saṁjāyate",
+    "description":"takes place."
+}
+---
 
 ==== saṁjāyate  ====
   * takes place --- [[books:bg:13:27|Bg. 13.27]]

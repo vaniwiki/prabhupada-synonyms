@@ -1,5 +1,11 @@
-~~Title:uccakāśe~~
-{{description>became brilliant.}}
+---json
+{
+    "name":"uccakāśe",
+    "h1":"uccakāśe",
+    "title":"uccakāśe",
+    "description":"became brilliant."
+}
+---
 
 ==== uccakāśe  ====
   * became brilliant --- [[books:sb:1:11:2|SB 1.11.2]]

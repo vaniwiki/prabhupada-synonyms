@@ -1,5 +1,11 @@
-~~Title:śaraṇya~~
-{{description>the one who has taken shelter; to the surrendered souls.}}
+---json
+{
+    "name":"śaraṇya",
+    "h1":"śaraṇya",
+    "title":"śaraṇya",
+    "description":"the one who has taken shelter; to the surrendered souls."
+}
+---
 
 ==== śaraṇya  ====
   * the one who has taken shelter --- [[books:sb:5:8:9|SB 5.8.9]]

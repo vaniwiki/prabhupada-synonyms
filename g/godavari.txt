@@ -1,5 +1,11 @@
-~~Title:godāvarī~~
-{{description>Godāvarī; the river; the River Godāvarī.}}
+---json
+{
+    "name":"godāvarī",
+    "h1":"godāvarī",
+    "title":"godāvarī",
+    "description":"Godāvarī; the river; the River Godāvarī."
+}
+---
 
 ==== godāvarī  ====
   * Godāvarī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

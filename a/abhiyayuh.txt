@@ -1,5 +1,11 @@
-~~Title:abhiyayuḥ~~
-{{description>they approached; who came toward him.}}
+---json
+{
+    "name":"abhiyayuḥ",
+    "h1":"abhiyayuḥ",
+    "title":"abhiyayuḥ",
+    "description":"they approached; who came toward him."
+}
+---
 
 ==== abhiyayuḥ  ====
   * they approached --- [[books:sb:9:8:9-10|SB 9.8.9-10]]

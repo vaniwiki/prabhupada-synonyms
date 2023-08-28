@@ -1,5 +1,11 @@
-~~Title:niṣedhiha~~
-{{description>forbid.}}
+---json
+{
+    "name":"niṣedhiha",
+    "h1":"niṣedhiha",
+    "title":"niṣedhiha",
+    "description":"forbid."
+}
+---
 
 ==== niṣedhiha  ====
   * forbid --- [[books:cc:antya:2:40|Antya 2.40]], [[books:cc:antya:4:88|Antya 4.88]]

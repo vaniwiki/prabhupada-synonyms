@@ -1,5 +1,11 @@
-~~Title:chadaya~~
-{{description>gives up; please cover.}}
+---json
+{
+    "name":"chadaya",
+    "h1":"chadaya",
+    "title":"chadaya",
+    "description":"gives up; please cover."
+}
+---
 
 ==== chādaya  ====
   * gives up --- [[books:cc:madhya:20:120|Madhya 20.120]]

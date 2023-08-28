@@ -1,5 +1,11 @@
-~~Title:nirvikāraḥ~~
-{{description>unchangeable; without change.}}
+---json
+{
+    "name":"nirvikāraḥ",
+    "h1":"nirvikāraḥ",
+    "title":"nirvikāraḥ",
+    "description":"unchangeable; without change."
+}
+---
 
 ==== nirvikāraḥ  ====
   * unchangeable --- [[books:sb:3:16:18|SB 3.16.18]]

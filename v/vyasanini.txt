@@ -1,5 +1,11 @@
-~~Title:vyasaninī~~
-{{description>attached to another man.}}
+---json
+{
+    "name":"vyasaninī",
+    "h1":"vyasaninī",
+    "title":"vyasaninī",
+    "description":"attached to another man."
+}
+---
 
 ==== para-vyasaninī  ====
   * attached to another man --- [[books:cc:madhya:1:211|Madhya 1.211]]

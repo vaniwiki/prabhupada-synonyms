@@ -1,5 +1,11 @@
-~~Title:nidhāra~~
-{{description>ascertainment.}}
+---json
+{
+    "name":"nidhāra",
+    "h1":"nidhāra",
+    "title":"nidhāra",
+    "description":"ascertainment."
+}
+---
 
 ==== nidhāra  ====
   * ascertainment --- [[books:cc:antya:4:79|Antya 4.79]]

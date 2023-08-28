@@ -1,5 +1,11 @@
-~~Title:asthire~~
-{{description>restless.}}
+---json
+{
+    "name":"asthire",
+    "h1":"asthire",
+    "title":"asthire",
+    "description":"restless."
+}
+---
 
 ==== asthire  ====
   * restless --- [[books:cc:madhya:6:3|Madhya 6.3]], [[books:cc:madhya:17:205|Madhya 17.205]]

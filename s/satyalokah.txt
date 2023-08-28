@@ -1,5 +1,11 @@
-~~Title:satyalokaḥ~~
-{{description>the Satyaloka planetary system.}}
+---json
+{
+    "name":"satyalokaḥ",
+    "h1":"satyalokaḥ",
+    "title":"satyalokaḥ",
+    "description":"the Satyaloka planetary system."
+}
+---
 
 ==== satyalokaḥ  ====
   * the Satyaloka planetary system --- [[books:sb:2:5:39|SB 2.5.39]]

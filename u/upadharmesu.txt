@@ -1,5 +1,11 @@
-~~Title:upadharmeṣu~~
-{{description>towards false religious systems.}}
+---json
+{
+    "name":"upadharmeṣu",
+    "h1":"upadharmeṣu",
+    "title":"upadharmeṣu",
+    "description":"towards false religious systems."
+}
+---
 
 ==== upadharmeṣu  ====
   * towards false religious systems --- [[books:sb:4:19:24-25|SB 4.19.24-25]]

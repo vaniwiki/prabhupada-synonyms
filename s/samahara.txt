@@ -1,5 +1,11 @@
-~~Title:samāhāra~~
-{{description>amalgamation of the feelings.}}
+---json
+{
+    "name":"samāhāra",
+    "h1":"samāhāra",
+    "title":"samāhāra",
+    "description":"amalgamation of the feelings."
+}
+---
 
 ==== bhāva-samāhāra  ====
   * amalgamation of the feelings --- [[books:cc:madhya:19:234|Madhya 19.234]]

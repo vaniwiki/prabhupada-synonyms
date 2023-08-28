@@ -1,5 +1,11 @@
-~~Title:abhyahanat~~
-{{description>struck.}}
+---json
+{
+    "name":"abhyahanat",
+    "h1":"abhyahanat",
+    "title":"abhyahanat",
+    "description":"struck."
+}
+---
 
 ==== abhyahanat  ====
   * struck --- [[books:sb:7:8:25|SB 7.8.25]]

@@ -1,5 +1,11 @@
-~~Title:bṛhaspatiḥ~~
-{{description>Bṛhaspati; Bṛhaspati, the guru of the demigods; Jupiter; named Bṛhaspati; the demigod Bṛhaspati; the demigod named Bṛhaspati; the priest of the heavenly planets.}}
+---json
+{
+    "name":"bṛhaspatiḥ",
+    "h1":"bṛhaspatiḥ",
+    "title":"bṛhaspatiḥ",
+    "description":"Bṛhaspati; Bṛhaspati, the guru of the demigods; Jupiter; named Bṛhaspati; the demigod Bṛhaspati; the demigod named Bṛhaspati; the priest of the heavenly planets."
+}
+---
 
 ==== bṛhaspatiḥ  ====
   * Bṛhaspati --- [[books:sb:4:1:35|SB 4.1.35]], [[books:sb:6:7:16|SB 6.7.16]]

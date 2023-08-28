@@ -1,5 +1,11 @@
-~~Title:pañcakaiḥ~~
-{{description>by pañcāmṛta, five substances.}}
+---json
+{
+    "name":"pañcakaiḥ",
+    "h1":"pañcakaiḥ",
+    "title":"pañcakaiḥ",
+    "description":"by pañcāmṛta, five substances."
+}
+---
 
 ==== pañcakaiḥ  ====
   * by //pañcāmṛta,// five substances --- [[books:sb:8:16:50|SB 8.16.50]]

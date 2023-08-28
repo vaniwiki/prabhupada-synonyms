@@ -1,5 +1,11 @@
-~~Title:udita~~
-{{description>awakened; discovering; expressed; praised; upraised; uttered by.}}
+---json
+{
+    "name":"udita",
+    "h1":"udita",
+    "title":"udita",
+    "description":"awakened; discovering; expressed; praised; upraised; uttered by."
+}
+---
 
 ==== udita  ====
   * awakened --- [[books:cc:madhya:14:194|Madhya 14.194]]

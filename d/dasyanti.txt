@@ -1,5 +1,11 @@
-~~Title:dāsyanti~~
-{{description>indicating; will deliver.}}
+---json
+{
+    "name":"dāsyanti",
+    "h1":"dāsyanti",
+    "title":"dāsyanti",
+    "description":"indicating; will deliver."
+}
+---
 
 ==== dāsyanti  ====
   * indicating --- [[books:sb:1:14:11|SB 1.14.11]]

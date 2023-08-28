@@ -1,5 +1,11 @@
-~~Title:uddhasat~~
-{{description>laughing loudly.}}
+---json
+{
+    "name":"uddhasat",
+    "h1":"uddhasat",
+    "title":"uddhasat",
+    "description":"laughing loudly."
+}
+---
 
 ==== uddhasat  ====
   * laughing loudly --- [[books:sb:3:17:6|SB 3.17.6]]

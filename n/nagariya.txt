@@ -1,5 +1,11 @@
-~~Title:nagariyā~~
-{{description>citizens.}}
+---json
+{
+    "name":"nagariyā",
+    "h1":"nagariyā",
+    "title":"nagariyā",
+    "description":"citizens."
+}
+---
 
 ==== nagariyā  ====
   * citizens --- [[books:cc:adi:17:121|Ādi 17.121]]

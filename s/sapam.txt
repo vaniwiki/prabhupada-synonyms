@@ -1,5 +1,11 @@
-~~Title:śāpam~~
-{{description>a curse; curse; the curse.}}
+---json
+{
+    "name":"śāpam",
+    "h1":"śāpam",
+    "title":"śāpam",
+    "description":"a curse; curse; the curse."
+}
+---
 
 ==== śāpam  ====
   * a curse --- [[books:sb:4:2:19|SB 4.2.19]], [[books:sb:4:2:20|SB 4.2.20]], [[books:sb:4:2:27|SB 4.2.27]], [[books:sb:10:10:7|SB 10.10.7]]

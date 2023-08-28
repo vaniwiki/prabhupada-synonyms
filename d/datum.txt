@@ -1,5 +1,11 @@
-~~Title:dātum~~
-{{description>to deliver; to give; to pay.}}
+---json
+{
+    "name":"dātum",
+    "h1":"dātum",
+    "title":"dātum",
+    "description":"to deliver; to give; to pay."
+}
+---
 
 ==== dātum  ====
   * to deliver --- [[books:sb:1:8:1|SB 1.8.1]], [[books:sb:6:10:4|SB 6.10.4]], [[books:cc:madhya:4:1|Madhya 4.1]]

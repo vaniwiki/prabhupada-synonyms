@@ -1,5 +1,11 @@
-~~Title:unmathnatām~~
-{{description>while churning.}}
+---json
+{
+    "name":"unmathnatām",
+    "h1":"unmathnatām",
+    "title":"unmathnatām",
+    "description":"while churning."
+}
+---
 
 ==== unmathnatām  ====
   * while churning --- [[books:sb:2:7:13|SB 2.7.13]]

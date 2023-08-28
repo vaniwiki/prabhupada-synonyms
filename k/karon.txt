@@ -1,5 +1,11 @@
-~~Title:karoṅ~~
-{{description>do; I do; I make; I offer; let Me be engaged; shall I do.}}
+---json
+{
+    "name":"karoṅ",
+    "h1":"karoṅ",
+    "title":"karoṅ",
+    "description":"do; I do; I make; I offer; let Me be engaged; shall I do."
+}
+---
 
 ==== karoṅ  ====
   * do --- [[books:cc:madhya:15:163|Madhya 15.163]], [[books:cc:antya:4:185|Antya 4.185]], [[books:cc:antya:20:151|Antya 20.151]]

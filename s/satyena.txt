@@ -1,5 +1,11 @@
-~~Title:satyena~~
-{{description>by the truth; unalloyed; with truth.}}
+---json
+{
+    "name":"satyena",
+    "h1":"satyena",
+    "title":"satyena",
+    "description":"by the truth; unalloyed; with truth."
+}
+---
 
 ==== satyena  ====
   * by the truth --- [[books:sb:6:8:31|SB 6.8.31]]

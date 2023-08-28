@@ -1,5 +1,11 @@
-~~Title:bhāṣye~~
-{{description>in the commentary.}}
+---json
+{
+    "name":"bhāṣye",
+    "h1":"bhāṣye",
+    "title":"bhāṣye",
+    "description":"in the commentary."
+}
+---
 
 ==== bhāṣye  ====
   * in the commentary --- [[books:cc:madhya:6:176|Madhya 6.176]]

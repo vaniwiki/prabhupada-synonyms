@@ -1,5 +1,11 @@
-~~Title:upapattim~~
-{{description>agitation.}}
+---json
+{
+    "name":"upapattim",
+    "h1":"upapattim",
+    "title":"upapattim",
+    "description":"agitation."
+}
+---
 
 ==== upapattim  ====
   * agitation --- [[books:sb:4:24:67|SB 4.24.67]]

@@ -1,5 +1,11 @@
-~~Title:manum~~
-{{description>Cākṣuṣa Manu; Manu; Manu, the father of man; Svāyambhuva Manu; the Manu; thinker; to Manu.}}
+---json
+{
+    "name":"manum",
+    "h1":"manum",
+    "title":"manum",
+    "description":"Cākṣuṣa Manu; Manu; Manu, the father of man; Svāyambhuva Manu; the Manu; thinker; to Manu."
+}
+---
 
 ==== manum  ====
   * Cākṣuṣa Manu --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

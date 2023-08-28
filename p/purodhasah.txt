@@ -1,5 +1,11 @@
-~~Title:purodhasaḥ~~
-{{description>to the priests.}}
+---json
+{
+    "name":"purodhasaḥ",
+    "h1":"purodhasaḥ",
+    "title":"purodhasaḥ",
+    "description":"to the priests."
+}
+---
 
 ==== purodhasaḥ  ====
   * to the priests --- [[books:sb:4:17:2|SB 4.17.2]]

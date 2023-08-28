@@ -1,5 +1,11 @@
-~~Title:cakṣuḥ~~
-{{description>Cakṣu; eye; eyes; named Cakṣuḥ; of eyes (senses); sense of sight; the branch known as Cakṣu; the eye of knowledge; the eyes; the sense of sight.}}
+---json
+{
+    "name":"cakṣuḥ",
+    "h1":"cakṣuḥ",
+    "title":"cakṣuḥ",
+    "description":"Cakṣu; eye; eyes; named Cakṣuḥ; of eyes (senses); sense of sight; the branch known as Cakṣu; the eye of knowledge; the eyes; the sense of sight."
+}
+---
 
 ==== cakṣuḥ  ====
   * Cakṣu --- [[books:sb:5:17:5|SB 5.17.5]], [[books:sb:9:23:1|SB 9.23.1]]

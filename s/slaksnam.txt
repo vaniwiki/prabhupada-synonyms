@@ -1,5 +1,11 @@
-~~Title:ślakṣṇam~~
-{{description>gentle; very clear.}}
+---json
+{
+    "name":"ślakṣṇam",
+    "h1":"ślakṣṇam",
+    "title":"ślakṣṇam",
+    "description":"gentle; very clear."
+}
+---
 
 ==== ślakṣṇam  ====
   * gentle --- [[books:sb:3:29:6|SB 3.29.6]]

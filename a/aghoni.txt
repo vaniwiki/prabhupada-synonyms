@@ -1,5 +1,11 @@
-~~Title:aghoni~~
-{{description>for the sinful.}}
+---json
+{
+    "name":"aghoni",
+    "h1":"aghoni",
+    "title":"aghoni",
+    "description":"for the sinful."
+}
+---
 
 ==== aghoni  ====
   * for the sinful --- [[books:sb:3:15:36|SB 3.15.36]]

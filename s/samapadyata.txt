@@ -1,5 +1,11 @@
-~~Title:samapadyata~~
-{{description>achieved; has been gotten by chance; perfectly executed; sprang up; took birth.}}
+---json
+{
+    "name":"samapadyata",
+    "h1":"samapadyata",
+    "title":"samapadyata",
+    "description":"achieved; has been gotten by chance; perfectly executed; sprang up; took birth."
+}
+---
 
 ==== samapadyata  ====
   * achieved --- [[books:sb:6:12:35|SB 6.12.35]]

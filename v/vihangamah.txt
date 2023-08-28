@@ -1,5 +1,11 @@
-~~Title:vihangamah~~
-{{description>birds.}}
+---json
+{
+    "name":"vihangamah",
+    "h1":"vihangamah",
+    "title":"vihangamah",
+    "description":"birds."
+}
+---
 
 ==== vihaṅgamaḥ  ====
   * birds --- [[books:sb:8:2:7|SB 8.2.7]]

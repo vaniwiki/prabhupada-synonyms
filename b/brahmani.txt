@@ -1,5 +1,11 @@
-~~Title:brahmani~~
-{{description>absolute; in Brahman; in one who is transcendentally situated; in spiritual realization; in the Absolute; in the Absolute Truth; in the impersonal Brahman; in the spiritual sky; in the Supreme; in the Supreme Brahman; in the Supreme Lord; in the Supreme Personality of Godhead; in the Transcendence; into impersonal Brahman, which is worshiped by impersonalist jñānīs; into the Supreme Absolute; on the Supreme; spiritual entity; the origin of impersonal Brahman; the Supreme; the Supreme Brahman; the Supreme Lord; the Supreme Personality of Godhead; transcendence; unto a brāhmaṇa; unto Brahman; unto Parabrahman, the Supreme Personality of Godhead, Vāsudeva; unto the great; unto the spirit; upon the Supreme Absolute Truth; Vedic literature; which is Parabrahman (not idol worship); who are Parabrahman, the Supreme Brahman.}}
+---json
+{
+    "name":"brahmani",
+    "h1":"brahmani",
+    "title":"brahmani",
+    "description":"absolute; in Brahman; in one who is transcendentally situated; in spiritual realization; in the Absolute; in the Absolute Truth; in the impersonal Brahman; in the spiritual sky; in the Supreme; in the Supreme Brahman; in the Supreme Lord; in the Supreme Personality of Godhead; in the Transcendence; into impersonal Brahman, which is worshiped by impersonalist jñānīs; into the Supreme Absolute; on the Supreme; spiritual entity; the origin of impersonal Brahman; the Supreme; the Supreme Brahman; the Supreme Lord; the Supreme Personality of Godhead; transcendence; unto a brāhmaṇa; unto Brahman; unto Parabrahman, the Supreme Personality of Godhead, Vāsudeva; unto the great; unto the spirit; upon the Supreme Absolute Truth; Vedic literature; which is Parabrahman (not idol worship); who are Parabrahman, the Supreme Brahman."
+}
+---
 
 ==== brahmaṇi  ====
   * absolute --- [[books:sb:7:5:41|SB 7.5.41]]

@@ -1,5 +1,11 @@
-~~Title:pratyavatiṣṭhate~~
-{{description>it appears.}}
+---json
+{
+    "name":"pratyavatiṣṭhate",
+    "h1":"pratyavatiṣṭhate",
+    "title":"pratyavatiṣṭhate",
+    "description":"it appears."
+}
+---
 
 ==== pratyavatiṣṭhate  ====
   * it appears --- [[books:sb:3:27:20|SB 3.27.20]]

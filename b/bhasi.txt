@@ -1,5 +1,11 @@
-~~Title:bhasi~~
-{{description>within ashes.}}
+---json
+{
+    "name":"bhasi",
+    "h1":"bhasi",
+    "title":"bhasi",
+    "description":"within ashes."
+}
+---
 
 ==== bhasi  ====
   * within ashes --- [[books:sb:10:6:7|SB 10.6.7]]

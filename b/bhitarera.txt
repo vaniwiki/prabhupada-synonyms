@@ -1,5 +1,11 @@
-~~Title:bhitarera~~
-{{description>inner; internal; within.}}
+---json
+{
+    "name":"bhitarera",
+    "h1":"bhitarera",
+    "title":"bhitarera",
+    "description":"inner; internal; within."
+}
+---
 
 ==== bhitarera  ====
   * inner --- [[books:cc:adi:17:151|Ādi 17.151]]

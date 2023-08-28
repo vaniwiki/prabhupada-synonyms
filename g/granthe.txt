@@ -1,5 +1,11 @@
-~~Title:granthe~~
-{{description>in his book; in scriptures; in the book; in the scripture; in verses.}}
+---json
+{
+    "name":"granthe",
+    "h1":"granthe",
+    "title":"granthe",
+    "description":"in his book; in scriptures; in the book; in the scripture; in verses."
+}
+---
 
 ==== granthe  ====
   * in his book --- [[books:cc:antya:6:262|Antya 6.262]]

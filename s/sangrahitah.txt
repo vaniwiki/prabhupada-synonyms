@@ -1,5 +1,11 @@
-~~Title:saṅgrāhitaḥ~~
-{{description>was made to accept.}}
+---json
+{
+    "name":"saṅgrāhitaḥ",
+    "h1":"saṅgrāhitaḥ",
+    "title":"saṅgrāhitaḥ",
+    "description":"was made to accept."
+}
+---
 
 ==== saṅgrāhitaḥ  ====
   * was made to accept --- [[books:sb:3:31:18|SB 3.31.18]]

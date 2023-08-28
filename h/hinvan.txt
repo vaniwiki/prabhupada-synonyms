@@ -1,5 +1,11 @@
-~~Title:hinvan~~
-{{description>giving up.}}
+---json
+{
+    "name":"hinvan",
+    "h1":"hinvan",
+    "title":"hinvan",
+    "description":"giving up."
+}
+---
 
 ==== hinvan  ====
   * giving up --- [[books:sb:7:10:12|SB 7.10.12]]

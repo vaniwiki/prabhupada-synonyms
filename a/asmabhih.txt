@@ -1,5 +1,11 @@
-~~Title:asmabhih~~
-{{description>by all of us; by Me; by ourselves; by us.}}
+---json
+{
+    "name":"asmabhih",
+    "h1":"asmabhih",
+    "title":"asmabhih",
+    "description":"by all of us; by Me; by ourselves; by us."
+}
+---
 
 ==== asmābhiḥ  ====
   * by all of us --- [[books:sb:10:11:23|SB 10.11.23]]

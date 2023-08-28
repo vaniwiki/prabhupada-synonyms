@@ -1,5 +1,11 @@
-~~Title:caratām~~
-{{description>while herding over.}}
+---json
+{
+    "name":"caratām",
+    "h1":"caratām",
+    "title":"caratām",
+    "description":"while herding over."
+}
+---
 
 ==== caratām  ====
   * while herding over --- [[books:bg:2:67|Bg. 2.67]]

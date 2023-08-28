@@ -1,5 +1,11 @@
-~~Title:nivṛttena~~
-{{description>but by ceasing such activities.}}
+---json
+{
+    "name":"nivṛttena",
+    "h1":"nivṛttena",
+    "title":"nivṛttena",
+    "description":"but by ceasing such activities."
+}
+---
 
 ==== nivṛttena  ====
   * but by ceasing such activities --- [[books:sb:7:15:47|SB 7.15.47]]

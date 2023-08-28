@@ -1,5 +1,11 @@
-~~Title:līlābhiḥ~~
-{{description>by boyhood pastimes.}}
+---json
+{
+    "name":"līlābhiḥ",
+    "h1":"līlābhiḥ",
+    "title":"līlābhiḥ",
+    "description":"by boyhood pastimes."
+}
+---
 
 ==== arbha-līlābhiḥ  ====
   * by boyhood pastimes --- [[books:sb:10:12:3|SB 10.12.3]]

@@ -1,5 +1,11 @@
-~~Title:satkarmā~~
-{{description>Satkarmā.}}
+---json
+{
+    "name":"satkarmā",
+    "h1":"satkarmā",
+    "title":"satkarmā",
+    "description":"Satkarmā."
+}
+---
 
 ==== satkarmā  ====
   * Satkarmā --- [[books:sb:9:23:12|SB 9.23.12]]

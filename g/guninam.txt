@@ -1,5 +1,11 @@
-~~Title:guṇinām~~
-{{description>of the living beings.}}
+---json
+{
+    "name":"guṇinām",
+    "h1":"guṇinām",
+    "title":"guṇinām",
+    "description":"of the living beings."
+}
+---
 
 ==== guṇinām  ====
   * of the living beings --- [[books:sb:2:8:14|SB 2.8.14]]

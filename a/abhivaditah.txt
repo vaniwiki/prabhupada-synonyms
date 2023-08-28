@@ -1,5 +1,11 @@
-~~Title:abhivāditaḥ~~
-{{description>being offered obeisances.}}
+---json
+{
+    "name":"abhivāditaḥ",
+    "h1":"abhivāditaḥ",
+    "title":"abhivāditaḥ",
+    "description":"being offered obeisances."
+}
+---
 
 ==== abhivāditaḥ  ====
   * being offered obeisances --- [[books:sb:1:10:8|SB 1.10.8]]

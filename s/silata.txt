@@ -1,5 +1,11 @@
-~~Title:śīlatā~~
-{{description>good behavior.}}
+---json
+{
+    "name":"śīlatā",
+    "h1":"śīlatā",
+    "title":"śīlatā",
+    "description":"good behavior."
+}
+---
 
 ==== su-śīlatā  ====
   * good behavior --- [[books:cc:madhya:17:212|Madhya 17.212]]

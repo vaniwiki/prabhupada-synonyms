@@ -1,5 +1,11 @@
-~~Title:ratah~~
-{{description>always engaged; attached; attached to; satisfied.}}
+---json
+{
+    "name":"ratah",
+    "h1":"ratah",
+    "title":"ratah",
+    "description":"always engaged; attached; attached to; satisfied."
+}
+---
 
 ==== rataḥ  ====
   * always engaged --- [[books:sb:9:8:14|SB 9.8.14]]

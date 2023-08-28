@@ -1,5 +1,11 @@
-~~Title:jātasya~~
-{{description>of one who has taken birth (all living beings); of one who has taken birth; of the born; one who has taken his birth; who appeared; who have appeared.}}
+---json
+{
+    "name":"jātasya",
+    "h1":"jātasya",
+    "title":"jātasya",
+    "description":"of one who has taken birth (all living beings); of one who has taken birth; of the born; one who has taken his birth; who appeared; who have appeared."
+}
+---
 
 ==== jātasya  ====
   * of one who has taken birth (all living beings) --- [[books:sb:6:10:32|SB 6.10.32]]

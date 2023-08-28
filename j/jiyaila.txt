@@ -1,5 +1,11 @@
-~~Title:jiyaila~~
-{{description>maintained; revived.}}
+---json
+{
+    "name":"jiyaila",
+    "h1":"jiyaila",
+    "title":"jiyaila",
+    "description":"maintained; revived."
+}
+---
 
 ==== jīyāila  ====
   * maintained --- [[books:cc:adi:12:68|Ādi 12.68]]

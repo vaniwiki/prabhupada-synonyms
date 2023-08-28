@@ -1,5 +1,11 @@
-~~Title:vismita~~
-{{description>amazed; astonished; struck with wonder; surprised.}}
+---json
+{
+    "name":"vismita",
+    "h1":"vismita",
+    "title":"vismita",
+    "description":"amazed; astonished; struck with wonder; surprised."
+}
+---
 
 ==== vismita  ====
   * amazed --- [[books:cc:madhya:4:51|Madhya 4.51]]

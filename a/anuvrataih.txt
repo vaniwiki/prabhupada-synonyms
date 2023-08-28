@@ -1,5 +1,11 @@
-~~Title:anuvrataiḥ~~
-{{description>devoted to.}}
+---json
+{
+    "name":"anuvrataiḥ",
+    "h1":"anuvrataiḥ",
+    "title":"anuvrataiḥ",
+    "description":"devoted to."
+}
+---
 
 ==== anuvrataiḥ  ====
   * devoted to --- [[books:sb:3:16:3|SB 3.16.3]]

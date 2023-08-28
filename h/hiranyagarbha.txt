@@ -1,5 +1,11 @@
-~~Title:hiraṇyagarbha~~
-{{description>named Hiraṇyagarbha.}}
+---json
+{
+    "name":"hiraṇyagarbha",
+    "h1":"hiraṇyagarbha",
+    "title":"hiraṇyagarbha",
+    "description":"named Hiraṇyagarbha."
+}
+---
 
 ==== hiraṇyagarbha  ====
   * named Hiraṇyagarbha --- [[books:cc:madhya:20:292|Madhya 20.292]]

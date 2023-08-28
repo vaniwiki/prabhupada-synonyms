@@ -1,5 +1,11 @@
-~~Title:vṛñjate~~
-{{description>will steal.}}
+---json
+{
+    "name":"vṛñjate",
+    "h1":"vṛñjate",
+    "title":"vṛñjate",
+    "description":"will steal."
+}
+---
 
 ==== vṛñjate  ====
   * will steal --- [[books:sb:1:18:44|SB 1.18.44]]

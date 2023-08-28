@@ -1,5 +1,11 @@
-~~Title:nartane~~
-{{description>in dancing.}}
+---json
+{
+    "name":"nartane",
+    "h1":"nartane",
+    "title":"nartane",
+    "description":"in dancing."
+}
+---
 
 ==== nartane  ====
   * in dancing --- [[books:cc:antya:5:14|Antya 5.14]]

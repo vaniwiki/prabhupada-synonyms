@@ -1,5 +1,11 @@
-~~Title:urvaśyām~~
-{{description>through Urvaśī, a prostitute of the heavenly kingdom.}}
+---json
+{
+    "name":"urvaśyām",
+    "h1":"urvaśyām",
+    "title":"urvaśyām",
+    "description":"through Urvaśī, a prostitute of the heavenly kingdom."
+}
+---
 
 ==== urvaśyām  ====
   * through Urvaśī, a prostitute of the heavenly kingdom --- [[books:sb:9:13:6|SB 9.13.6]]

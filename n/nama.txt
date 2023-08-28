@@ -1,5 +1,11 @@
-~~Title:nama~~
-{{description>a dancing appearance of the player, technically known as udghātyaka.}}
+---json
+{
+    "name":"nama",
+    "h1":"nama",
+    "title":"nama",
+    "description":"a dancing appearance of the player, technically known as udghātyaka."
+}
+---
 
 ==== 'udghātyaka' nāma  ====
   * a dancing appearance of the player, technically known //as udghātyaka// --- [[books:cc:antya:1:185|Antya 1.185]]

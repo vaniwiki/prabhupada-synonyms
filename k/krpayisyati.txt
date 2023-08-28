@@ -1,5 +1,11 @@
-~~Title:kṛpayiṣyati~~
-{{description>He will bestow His mercy.}}
+---json
+{
+    "name":"kṛpayiṣyati",
+    "h1":"kṛpayiṣyati",
+    "title":"kṛpayiṣyati",
+    "description":"He will bestow His mercy."
+}
+---
 
 ==== kṛpayiṣyati  ====
   * He will bestow His mercy --- [[books:cc:madhya:11:47|Madhya 11.47]]

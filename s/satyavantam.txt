@@ -1,5 +1,11 @@
-~~Title:satyavantam~~
-{{description>Satyavān.}}
+---json
+{
+    "name":"satyavantam",
+    "h1":"satyavantam",
+    "title":"satyavantam",
+    "description":"Satyavān."
+}
+---
 
 ==== satyavantam  ====
   * Satyavān --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

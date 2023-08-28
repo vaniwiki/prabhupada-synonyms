@@ -1,5 +1,11 @@
-~~Title:calitechilā~~
-{{description>was ready to go.}}
+---json
+{
+    "name":"calitechilā",
+    "h1":"calitechilā",
+    "title":"calitechilā",
+    "description":"was ready to go."
+}
+---
 
 ==== calitechilā  ====
   * was ready to go --- [[books:cc:antya:2:45|Antya 2.45]]

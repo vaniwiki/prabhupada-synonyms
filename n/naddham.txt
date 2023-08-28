@@ -1,5 +1,11 @@
-~~Title:naddham~~
-{{description>bound with a belt.}}
+---json
+{
+    "name":"naddham",
+    "h1":"naddham",
+    "title":"naddham",
+    "description":"bound with a belt."
+}
+---
 
 ==== sūtra-naddham  ====
   * bound with a belt --- [[books:sb:10:9:3|SB 10.9.3]]

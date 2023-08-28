@@ -1,5 +1,11 @@
-~~Title:toyam~~
-{{description>the vast water; the water; water.}}
+---json
+{
+    "name":"toyam",
+    "h1":"toyam",
+    "title":"toyam",
+    "description":"the vast water; the water; water."
+}
+---
 
 ==== toyam  ====
   * the vast water --- [[books:sb:5:18:13|SB 5.18.13]]

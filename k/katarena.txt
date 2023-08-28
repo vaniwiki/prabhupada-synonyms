@@ -1,5 +1,11 @@
-~~Title:kātareṇa~~
-{{description>in great anxiety.}}
+---json
+{
+    "name":"kātareṇa",
+    "h1":"kātareṇa",
+    "title":"kātareṇa",
+    "description":"in great anxiety."
+}
+---
 
 ==== ati-kātareṇa  ====
   * in great anxiety --- [[books:sb:3:15:35|SB 3.15.35]]

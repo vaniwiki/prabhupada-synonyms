@@ -1,5 +1,11 @@
-~~Title:cūrṇayan~~
-{{description>making into pieces.}}
+---json
+{
+    "name":"cūrṇayan",
+    "h1":"cūrṇayan",
+    "title":"cūrṇayan",
+    "description":"making into pieces."
+}
+---
 
 ==== cūrṇayan  ====
   * making into pieces --- [[books:sb:4:18:29|SB 4.18.29]]

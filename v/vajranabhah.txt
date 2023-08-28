@@ -1,5 +1,11 @@
-~~Title:vajranābhaḥ~~
-{{description>Vajranābha.}}
+---json
+{
+    "name":"vajranābhaḥ",
+    "h1":"vajranābhaḥ",
+    "title":"vajranābhaḥ",
+    "description":"Vajranābha."
+}
+---
 
 ==== vajranābhaḥ  ====
   * Vajranābha --- [[books:sb:9:12:2|SB 9.12.2]]

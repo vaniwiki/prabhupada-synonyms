@@ -1,5 +1,11 @@
-~~Title:yajñāt~~
-{{description>from the performance of sacrifice; knowledge.}}
+---json
+{
+    "name":"yajñāt",
+    "h1":"yajñāt",
+    "title":"yajñāt",
+    "description":"from the performance of sacrifice; knowledge."
+}
+---
 
 ==== yajñāt  ====
   * from the performance of sacrifice --- [[books:bg:3:14|Bg. 3.14]]

@@ -1,5 +1,11 @@
-~~Title:kariṣyasi~~
-{{description>perform; you will act.}}
+---json
+{
+    "name":"kariṣyasi",
+    "h1":"kariṣyasi",
+    "title":"kariṣyasi",
+    "description":"perform; you will act."
+}
+---
 
 ==== kariṣyasi  ====
   * perform --- [[books:bg:2:33|Bg. 2.33]]

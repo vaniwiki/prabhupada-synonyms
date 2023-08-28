@@ -1,5 +1,11 @@
-~~Title:devahūtyāḥ~~
-{{description>of Devahūti.}}
+---json
+{
+    "name":"devahūtyāḥ",
+    "h1":"devahūtyāḥ",
+    "title":"devahūtyāḥ",
+    "description":"of Devahūti."
+}
+---
 
 ==== devahūtyāḥ  ====
   * of Devahūti --- [[books:sb:3:12:27|SB 3.12.27]], [[books:sb:3:22:21|SB 3.22.21]], [[books:sb:3:33:36|SB 3.33.36]]

@@ -1,5 +1,11 @@
-~~Title:kaśca~~
-{{description>anyone; someone.}}
+---json
+{
+    "name":"kaśca",
+    "h1":"kaśca",
+    "title":"kaśca",
+    "description":"anyone; someone."
+}
+---
 
 ==== kaśca  ====
   * anyone --- [[books:sb:8:5:30|SB 8.5.30]]

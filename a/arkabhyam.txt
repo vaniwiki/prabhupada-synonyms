@@ -1,5 +1,11 @@
-~~Title:arkābhyām~~
-{{description>and by the sun.}}
+---json
+{
+    "name":"arkābhyām",
+    "h1":"arkābhyām",
+    "title":"arkābhyām",
+    "description":"and by the sun."
+}
+---
 
 ==== arkābhyām  ====
   * and by the sun --- [[books:sb:5:26:14|SB 5.26.14]]

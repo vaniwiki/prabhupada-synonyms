@@ -1,5 +1,11 @@
-~~Title:vāvadūkaḥ~~
-{{description>expert in speaking.}}
+---json
+{
+    "name":"vāvadūkaḥ",
+    "h1":"vāvadūkaḥ",
+    "title":"vāvadūkaḥ",
+    "description":"expert in speaking."
+}
+---
 
 ==== vāvadūkaḥ  ====
   * expert in speaking --- [[books:cc:madhya:23:71|Madhya 23.71]]

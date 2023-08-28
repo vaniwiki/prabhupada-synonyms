@@ -1,5 +1,11 @@
-~~Title:raghuḥ~~
-{{description>from him Raghu was born.}}
+---json
+{
+    "name":"raghuḥ",
+    "h1":"raghuḥ",
+    "title":"raghuḥ",
+    "description":"from him Raghu was born."
+}
+---
 
 ==== raghuḥ tasmāt  ====
   * from him Raghu was born --- [[books:sb:9:10:1|SB 9.10.1]]

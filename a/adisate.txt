@@ -1,5 +1,11 @@
-~~Title:ādiśate~~
-{{description>instructs.}}
+---json
+{
+    "name":"ādiśate",
+    "h1":"ādiśate",
+    "title":"ādiśate",
+    "description":"instructs."
+}
+---
 
 ==== ādiśate  ====
   * instructs --- [[books:sb:8:24:51|SB 8.24.51]]

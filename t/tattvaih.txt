@@ -1,5 +1,11 @@
-~~Title:tattvaiḥ~~
-{{description>by elements for the creation of the material world.}}
+---json
+{
+    "name":"tattvaiḥ",
+    "h1":"tattvaiḥ",
+    "title":"tattvaiḥ",
+    "description":"by elements for the creation of the material world."
+}
+---
 
 ==== tattvaiḥ  ====
   * by elements for the creation of the material world --- [[books:sb:10:13:52|SB 10.13.52]]

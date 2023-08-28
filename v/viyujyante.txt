@@ -1,5 +1,11 @@
-~~Title:viyujyante~~
-{{description>they are separated.}}
+---json
+{
+    "name":"viyujyante",
+    "h1":"viyujyante",
+    "title":"viyujyante",
+    "description":"they are separated."
+}
+---
 
 ==== viyujyante  ====
   * they are separated --- [[books:sb:6:15:3|SB 6.15.3]]

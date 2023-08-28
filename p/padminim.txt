@@ -1,5 +1,11 @@
-~~Title:padminīm~~
-{{description>a lotus.}}
+---json
+{
+    "name":"padminīm",
+    "h1":"padminīm",
+    "title":"padminīm",
+    "description":"a lotus."
+}
+---
 
 ==== padminīm  ====
   * a lotus --- [[books:sb:4:7:46|SB 4.7.46]]

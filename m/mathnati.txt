@@ -1,5 +1,11 @@
-~~Title:mathnatī~~
-{{description>agitating.}}
+---json
+{
+    "name":"mathnatī",
+    "h1":"mathnatī",
+    "title":"mathnatī",
+    "description":"agitating."
+}
+---
 
 ==== mathnatī  ====
   * agitating --- [[books:sb:8:9:3|SB 8.9.3]]

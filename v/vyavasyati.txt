@@ -1,5 +1,11 @@
-~~Title:vyavasyati~~
-{{description>why she has taken to this sort of life.}}
+---json
+{
+    "name":"vyavasyati",
+    "h1":"vyavasyati",
+    "title":"vyavasyati",
+    "description":"why she has taken to this sort of life."
+}
+---
 
 ==== yat vyavasyati  ====
   * why she has taken to this sort of life --- [[books:sb:4:26:17|SB 4.26.17]]

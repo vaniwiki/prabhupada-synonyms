@@ -1,5 +1,11 @@
-~~Title:bhettum~~
-{{description>to understand by analytical study.}}
+---json
+{
+    "name":"bhettum",
+    "h1":"bhettum",
+    "title":"bhettum",
+    "description":"to understand by analytical study."
+}
+---
 
 ==== bhettum  ====
   * to understand by analytical study --- [[books:sb:5:10:18|SB 5.10.18]]

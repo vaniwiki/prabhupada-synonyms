@@ -1,5 +1,11 @@
-~~Title:ajnam~~
-{{description>foolish.}}
+---json
+{
+    "name":"ajnam",
+    "h1":"ajnam",
+    "title":"ajnam",
+    "description":"foolish."
+}
+---
 
 ==== ajñam  ====
   * foolish --- [[books:cc:antya:5:137|Antya 5.137]]

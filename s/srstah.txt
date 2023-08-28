@@ -1,5 +1,11 @@
-~~Title:srstah~~
-{{description>arranged; created.}}
+---json
+{
+    "name":"srstah",
+    "h1":"srstah",
+    "title":"srstah",
+    "description":"arranged; created."
+}
+---
 
 ==== sṛṣṭaḥ  ====
   * arranged --- [[books:sb:4:7:33|SB 4.7.33]]

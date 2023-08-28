@@ -1,5 +1,11 @@
-~~Title:avagāḍha~~
-{{description>immersed.}}
+---json
+{
+    "name":"avagāḍha",
+    "h1":"avagāḍha",
+    "title":"avagāḍha",
+    "description":"immersed."
+}
+---
 
 ==== avagāḍha  ====
   * immersed --- [[books:sb:5:7:12|SB 5.7.12]]

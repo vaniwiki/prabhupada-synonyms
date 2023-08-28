@@ -1,5 +1,11 @@
-~~Title:sāraṅgāṇām~~
-{{description>of the devotees who talk and sing of the essence or substance.}}
+---json
+{
+    "name":"sāraṅgāṇām",
+    "h1":"sāraṅgāṇām",
+    "title":"sāraṅgāṇām",
+    "description":"of the devotees who talk and sing of the essence or substance."
+}
+---
 
 ==== sāraṅgāṇām  ====
   * of the devotees who talk and sing of the essence or substance --- [[books:sb:1:11:26|SB 1.11.26]]

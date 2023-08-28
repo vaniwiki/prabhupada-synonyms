@@ -1,5 +1,11 @@
-~~Title:abhimukhān~~
-{{description>towards.}}
+---json
+{
+    "name":"abhimukhān",
+    "h1":"abhimukhān",
+    "title":"abhimukhān",
+    "description":"towards."
+}
+---
 
 ==== abhimukhān  ====
   * towards --- [[books:sb:1:8:12|SB 1.8.12]]

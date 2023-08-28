@@ -1,5 +1,11 @@
-~~Title:bāḍhaye~~
-{{description>increases.}}
+---json
+{
+    "name":"bāḍhaye",
+    "h1":"bāḍhaye",
+    "title":"bāḍhaye",
+    "description":"increases."
+}
+---
 
 ==== bāḍhaye  ====
   * increases --- [[books:cc:adi:4:188|Ādi 4.188]]

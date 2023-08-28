@@ -1,5 +1,11 @@
-~~Title:bhikṣoḥ~~
-{{description>for a sannyāsī who lived by begging alms.}}
+---json
+{
+    "name":"bhikṣoḥ",
+    "h1":"bhikṣoḥ",
+    "title":"bhikṣoḥ",
+    "description":"for a sannyāsī who lived by begging alms."
+}
+---
 
 ==== bhikṣoḥ  ====
   * for a //sannyāsī// who lived by begging alms --- [[books:sb:7:15:38-39|SB 7.15.38-39]]

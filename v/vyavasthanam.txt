@@ -1,5 +1,11 @@
-~~Title:vyavasthānam~~
-{{description>being situated.}}
+---json
+{
+    "name":"vyavasthānam",
+    "h1":"vyavasthānam",
+    "title":"vyavasthānam",
+    "description":"being situated."
+}
+---
 
 ==== vyavasthānam  ====
   * being situated --- [[books:sb:2:8:22|SB 2.8.22]]

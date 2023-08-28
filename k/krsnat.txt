@@ -1,5 +1,11 @@
-~~Title:kṛṣṇāt~~
-{{description>by Kṛṣṇa; from Kṛṣṇa; from the Supreme Lord, Kṛṣṇa; than Lord Kṛṣṇa.}}
+---json
+{
+    "name":"kṛṣṇāt",
+    "h1":"kṛṣṇāt",
+    "title":"kṛṣṇāt",
+    "description":"by Kṛṣṇa; from Kṛṣṇa; from the Supreme Lord, Kṛṣṇa; than Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇāt  ====
   * by Kṛṣṇa --- [[books:sb:3:14:51|SB 3.14.51]]

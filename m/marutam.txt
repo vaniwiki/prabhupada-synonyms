@@ -1,5 +1,11 @@
-~~Title:marutam~~
-{{description>of the Marutas; of the Maruts.}}
+---json
+{
+    "name":"marutam",
+    "h1":"marutam",
+    "title":"marutam",
+    "description":"of the Marutas; of the Maruts."
+}
+---
 
 ==== marutām  ====
   * of the Marutas --- [[books:bg:10:21|Bg. 10.21]]

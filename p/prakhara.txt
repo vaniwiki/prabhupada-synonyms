@@ -1,5 +1,11 @@
-~~Title:prakharā~~
-{{description>very talkative.}}
+---json
+{
+    "name":"prakharā",
+    "h1":"prakharā",
+    "title":"prakharā",
+    "description":"very talkative."
+}
+---
 
 ==== prakharā  ====
   * very talkative --- [[books:cc:madhya:14:152|Madhya 14.152]]

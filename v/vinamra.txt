@@ -1,5 +1,11 @@
-~~Title:vinamra~~
-{{description>his neck bent.}}
+---json
+{
+    "name":"vinamra",
+    "h1":"vinamra",
+    "title":"vinamra",
+    "description":"his neck bent."
+}
+---
 
 ==== vinamra-kandharaḥ  ====
   * his neck bent --- [[books:sb:10:13:64|SB 10.13.64]]

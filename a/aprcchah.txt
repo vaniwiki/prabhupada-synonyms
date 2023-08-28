@@ -1,5 +1,11 @@
-~~Title:apṛcchaḥ~~
-{{description>inquired.}}
+---json
+{
+    "name":"apṛcchaḥ",
+    "h1":"apṛcchaḥ",
+    "title":"apṛcchaḥ",
+    "description":"inquired."
+}
+---
 
 ==== apṛcchaḥ  ====
   * inquired --- [[books:sb:8:12:44|SB 8.12.44]]

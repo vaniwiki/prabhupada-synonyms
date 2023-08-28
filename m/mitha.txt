@@ -1,5 +1,11 @@
-~~Title:miṭhā~~
-{{description>sweet talking.}}
+---json
+{
+    "name":"miṭhā",
+    "h1":"miṭhā",
+    "title":"miṭhā",
+    "description":"sweet talking."
+}
+---
 
 ==== miṭhā bole  ====
   * sweet talking --- [[books:cc:antya:17:38|Antya 17.38]]

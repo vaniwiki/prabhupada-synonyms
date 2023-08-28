@@ -1,5 +1,11 @@
-~~Title:sambhavāmi~~
-{{description>I appear; I do appear; I do incarnate.}}
+---json
+{
+    "name":"sambhavāmi",
+    "h1":"sambhavāmi",
+    "title":"sambhavāmi",
+    "description":"I appear; I do appear; I do incarnate."
+}
+---
 
 ==== sambhavāmi  ====
   * I appear --- [[books:cc:adi:3:23|Ādi 3.23]]

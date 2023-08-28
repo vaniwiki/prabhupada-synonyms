@@ -1,5 +1,11 @@
-~~Title:mahiṣṭhau~~
-{{description>the greatest.}}
+---json
+{
+    "name":"mahiṣṭhau",
+    "h1":"mahiṣṭhau",
+    "title":"mahiṣṭhau",
+    "description":"the greatest."
+}
+---
 
 ==== mahiṣṭhau  ====
   * the greatest --- [[books:sb:6:15:10|SB 6.15.10]]

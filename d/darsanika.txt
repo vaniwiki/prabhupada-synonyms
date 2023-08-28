@@ -1,5 +1,11 @@
-~~Title:dārśanika~~
-{{description>philosophical speculators.}}
+---json
+{
+    "name":"dārśanika",
+    "h1":"dārśanika",
+    "title":"dārśanika",
+    "description":"philosophical speculators."
+}
+---
 
 ==== dārśanika  ====
   * philosophical speculators --- [[books:cc:madhya:9:51|Madhya 9.51]]

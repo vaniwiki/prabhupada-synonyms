@@ -1,5 +1,11 @@
-~~Title:śaki~~
-{{description>I am able.}}
+---json
+{
+    "name":"śaki",
+    "h1":"śaki",
+    "title":"śaki",
+    "description":"I am able."
+}
+---
 
 ==== śaki  ====
   * I am able --- [[books:cc:madhya:3:54|Madhya 3.54]]

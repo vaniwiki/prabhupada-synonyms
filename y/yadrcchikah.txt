@@ -1,5 +1,11 @@
-~~Title:yādṛcchikaḥ~~
-{{description>wherever willing.}}
+---json
+{
+    "name":"yādṛcchikaḥ",
+    "h1":"yādṛcchikaḥ",
+    "title":"yādṛcchikaḥ",
+    "description":"wherever willing."
+}
+---
 
 ==== yādṛcchikaḥ  ====
   * wherever willing --- [[books:sb:1:6:37|SB 1.6.37]]

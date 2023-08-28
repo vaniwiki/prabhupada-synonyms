@@ -1,5 +1,11 @@
-~~Title:vimoha~~
-{{description>without illusion.}}
+---json
+{
+    "name":"vimoha",
+    "h1":"vimoha",
+    "title":"vimoha",
+    "description":"without illusion."
+}
+---
 
 ==== vimoha  ====
   * without illusion --- [[books:sb:2:9:9|SB 2.9.9]]

@@ -1,5 +1,11 @@
-~~Title:apakṣitam~~
-{{description>declined.}}
+---json
+{
+    "name":"apakṣitam",
+    "h1":"apakṣitam",
+    "title":"apakṣitam",
+    "description":"declined."
+}
+---
 
 ==== apakṣitam  ====
   * declined --- [[books:sb:3:11:33|SB 3.11.33]]

@@ -1,5 +1,11 @@
-~~Title:bhavani~~
-{{description>my dear wife, Bhavānī.}}
+---json
+{
+    "name":"bhavani",
+    "h1":"bhavani",
+    "title":"bhavani",
+    "description":"my dear wife, Bhavānī."
+}
+---
 
 ==== bhavāni  ====
   * my dear wife, Bhavānī --- [[books:sb:8:7:37|SB 8.7.37]]

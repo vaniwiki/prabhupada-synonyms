@@ -1,5 +1,11 @@
-~~Title:kṣetropekṣaḥ~~
-{{description>Kṣetropekṣa.}}
+---json
+{
+    "name":"kṣetropekṣaḥ",
+    "h1":"kṣetropekṣaḥ",
+    "title":"kṣetropekṣaḥ",
+    "description":"Kṣetropekṣa."
+}
+---
 
 ==== kṣetropekṣaḥ  ====
   * Kṣetropekṣa --- [[books:sb:9:24:16-18|SB 9.24.16-18]]

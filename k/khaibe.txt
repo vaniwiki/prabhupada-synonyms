@@ -1,5 +1,11 @@
-~~Title:khāibe~~
-{{description>eat; will eat.}}
+---json
+{
+    "name":"khāibe",
+    "h1":"khāibe",
+    "title":"khāibe",
+    "description":"eat; will eat."
+}
+---
 
 ==== khāibe  ====
   * eat --- [[books:cc:adi:15:9|Ādi 15.9]]

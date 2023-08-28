@@ -1,5 +1,11 @@
-~~Title:aghamarṣaṇe~~
-{{description>holy place celebrated as Aghamarṣaṇa.}}
+---json
+{
+    "name":"aghamarṣaṇe",
+    "h1":"aghamarṣaṇe",
+    "title":"aghamarṣaṇe",
+    "description":"holy place celebrated as Aghamarṣaṇa."
+}
+---
 
 ==== aghamarṣaṇe  ====
   * holy place celebrated as Aghamarṣaṇa --- [[books:sb:6:4:35-39|SB 6.4.35-39]]

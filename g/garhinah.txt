@@ -1,5 +1,11 @@
-~~Title:garhiṇaḥ~~
-{{description>who have blasphemed Lord Śiva.}}
+---json
+{
+    "name":"garhiṇaḥ",
+    "h1":"garhiṇaḥ",
+    "title":"garhiṇaḥ",
+    "description":"who have blasphemed Lord Śiva."
+}
+---
 
 ==== śiti-kaṇṭha-garhiṇaḥ  ====
   * who have blasphemed Lord Śiva --- [[books:sb:4:4:18|SB 4.4.18]]

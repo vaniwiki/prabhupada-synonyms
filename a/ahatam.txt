@@ -1,5 +1,11 @@
-~~Title:āhatām~~
-{{description>beaten on the legs.}}
+---json
+{
+    "name":"āhatām",
+    "h1":"āhatām",
+    "title":"āhatām",
+    "description":"beaten on the legs."
+}
+---
 
 ==== pada-āhatām  ====
   * beaten on the legs --- [[books:sb:1:17:3|SB 1.17.3]]

@@ -1,5 +1,11 @@
-~~Title:akṛśam~~
-{{description>cheerful.}}
+---json
+{
+    "name":"akṛśam",
+    "h1":"akṛśam",
+    "title":"akṛśam",
+    "description":"cheerful."
+}
+---
 
 ==== akṛśam  ====
   * cheerful --- [[books:sb:3:4:8|SB 3.4.8]]

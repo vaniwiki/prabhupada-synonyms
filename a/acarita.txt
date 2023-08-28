@@ -1,5 +1,11 @@
-~~Title:ācarita~~
-{{description>activities.}}
+---json
+{
+    "name":"ācarita",
+    "h1":"ācarita",
+    "title":"ācarita",
+    "description":"activities."
+}
+---
 
 ==== ācarita  ====
   * activities --- [[books:sb:1:18:17|SB 1.18.17]]

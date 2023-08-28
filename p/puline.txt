@@ -1,5 +1,11 @@
-~~Title:puline~~
-{{description>in such a garden; on the bank of.}}
+---json
+{
+    "name":"puline",
+    "h1":"puline",
+    "title":"puline",
+    "description":"in such a garden; on the bank of."
+}
+---
 
 ==== puline  ====
   * in such a garden --- [[books:sb:9:18:6-7|SB 9.18.6-7]]

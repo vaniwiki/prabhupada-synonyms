@@ -1,5 +1,11 @@
-~~Title:āvartanam~~
-{{description>the rotating.}}
+---json
+{
+    "name":"āvartanam",
+    "h1":"āvartanam",
+    "title":"āvartanam",
+    "description":"the rotating."
+}
+---
 
 ==== āvartanam  ====
   * the rotating --- [[books:sb:8:7:10|SB 8.7.10]]

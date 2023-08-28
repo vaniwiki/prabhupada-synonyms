@@ -1,5 +1,11 @@
-~~Title:viraja~~
-{{description>unsullied.}}
+---json
+{
+    "name":"viraja",
+    "h1":"viraja",
+    "title":"viraja",
+    "description":"unsullied."
+}
+---
 
 ==== viraja  ====
   * unsullied --- [[books:sb:3:23:30|SB 3.23.30]]

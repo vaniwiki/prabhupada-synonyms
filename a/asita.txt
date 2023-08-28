@@ -1,5 +1,11 @@
-~~Title:asita~~
-{{description>black; blue; blue or black.}}
+---json
+{
+    "name":"asita",
+    "h1":"asita",
+    "title":"asita",
+    "description":"black; blue; blue or black."
+}
+---
 
 ==== asita  ====
   * black --- [[books:sb:3:21:27|SB 3.21.27]], [[books:sb:4:21:17|SB 4.21.17]]

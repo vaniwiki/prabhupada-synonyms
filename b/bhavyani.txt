@@ -1,5 +1,11 @@
-~~Title:bhavyāni~~
-{{description>great philanthropic souls.}}
+---json
+{
+    "name":"bhavyāni",
+    "h1":"bhavyāni",
+    "title":"bhavyāni",
+    "description":"great philanthropic souls."
+}
+---
 
 ==== bhavyāni  ====
   * great philanthropic souls --- [[books:sb:3:5:3|SB 3.5.3]]

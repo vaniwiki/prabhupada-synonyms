@@ -1,5 +1,11 @@
-~~Title:varteran~~
-{{description>be able to survive.}}
+---json
+{
+    "name":"varteran",
+    "h1":"varteran",
+    "title":"varteran",
+    "description":"be able to survive."
+}
+---
 
 ==== varteran  ====
   * be able to survive --- [[books:sb:1:13:45|SB 1.13.45]]

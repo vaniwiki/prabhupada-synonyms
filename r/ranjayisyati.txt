@@ -1,5 +1,11 @@
-~~Title:rañjayiṣyati~~
-{{description>will please.}}
+---json
+{
+    "name":"rañjayiṣyati",
+    "h1":"rañjayiṣyati",
+    "title":"rañjayiṣyati",
+    "description":"will please."
+}
+---
 
 ==== rañjayiṣyati  ====
   * will please --- [[books:sb:4:16:15|SB 4.16.15]]

@@ -1,5 +1,11 @@
-~~Title:navani~~
-{{description>new garments; new sets.}}
+---json
+{
+    "name":"navani",
+    "h1":"navani",
+    "title":"navani",
+    "description":"new garments; new sets."
+}
+---
 
 ==== navāni  ====
   * new garments --- [[books:bg:2:22|Bg. 2.22]]

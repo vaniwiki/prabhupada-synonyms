@@ -1,5 +1,11 @@
-~~Title:bhairavī~~
-{{description>Śiyālī-bhairavī.}}
+---json
+{
+    "name":"bhairavī",
+    "h1":"bhairavī",
+    "title":"bhairavī",
+    "description":"Śiyālī-bhairavī."
+}
+---
 
 ==== śiyālī bhairavī  ====
   * Śiyālī-bhairavī --- [[books:cc:madhya:9:74|Madhya 9.74]]

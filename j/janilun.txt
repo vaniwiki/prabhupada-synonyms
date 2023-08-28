@@ -1,5 +1,11 @@
-~~Title:jāniluṅ~~
-{{description>I could understand; I have understood; now I have understood.}}
+---json
+{
+    "name":"jāniluṅ",
+    "h1":"jāniluṅ",
+    "title":"jāniluṅ",
+    "description":"I could understand; I have understood; now I have understood."
+}
+---
 
 ==== jāniluṅ  ====
   * I could understand --- [[books:cc:antya:7:49|Antya 7.49]]

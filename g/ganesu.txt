@@ -1,5 +1,11 @@
-~~Title:gaṇeṣu~~
-{{description>unto the demigods.}}
+---json
+{
+    "name":"gaṇeṣu",
+    "h1":"gaṇeṣu",
+    "title":"gaṇeṣu",
+    "description":"unto the demigods."
+}
+---
 
 ==== deva-gaṇeṣu  ====
   * unto the demigods --- [[books:sb:6:10:28|SB 6.10.28]]

@@ -1,5 +1,11 @@
-~~Title:aputrasya~~
-{{description>(of Kunti) who was sonless; without a son.}}
+---json
+{
+    "name":"aputrasya",
+    "h1":"aputrasya",
+    "title":"aputrasya",
+    "description":"(of Kunti) who was sonless; without a son."
+}
+---
 
 ==== aputrasya  ====
   * (of Kunti) who was sonless --- [[books:sb:9:24:28-31|SB 9.24.28-31]]

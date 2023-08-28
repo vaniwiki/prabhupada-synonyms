@@ -1,5 +1,11 @@
-~~Title:yodhaiḥ~~
-{{description>by such warriors.}}
+---json
+{
+    "name":"yodhaiḥ",
+    "h1":"yodhaiḥ",
+    "title":"yodhaiḥ",
+    "description":"by such warriors."
+}
+---
 
 ==== yodhaiḥ  ====
   * by such warriors --- [[books:sb:9:10:20|SB 9.10.20]]

@@ -1,5 +1,11 @@
-~~Title:uḍupam~~
-{{description>boat; the side of the moon-god.}}
+---json
+{
+    "name":"uḍupam",
+    "h1":"uḍupam",
+    "title":"uḍupam",
+    "description":"boat; the side of the moon-god."
+}
+---
 
 ==== uḍupam  ====
   * boat --- [[books:sb:4:22:40|SB 4.22.40]]

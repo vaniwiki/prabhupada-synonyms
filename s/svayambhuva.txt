@@ -1,5 +1,11 @@
-~~Title:svayambhuva~~
-{{description>by Lord Brahmā.}}
+---json
+{
+    "name":"svayambhuva",
+    "h1":"svayambhuva",
+    "title":"svayambhuva",
+    "description":"by Lord Brahmā."
+}
+---
 
 ==== svayambhuvā  ====
   * by Lord Brahmā --- [[books:sb:4:17:24|SB 4.17.24]], [[books:sb:4:30:47|SB 4.30.47]], [[books:sb:6:6:1|SB 6.6.1]]

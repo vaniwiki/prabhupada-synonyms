@@ -1,5 +1,11 @@
-~~Title:advaitacandra~~
-{{description>Ācārya Śrī Advaitacandra.}}
+---json
+{
+    "name":"advaitacandra",
+    "h1":"advaitacandra",
+    "title":"advaitacandra",
+    "description":"Ācārya Śrī Advaitacandra."
+}
+---
 
 ==== ācārya advaitacandra  ====
   * Ācārya Śrī Advaitacandra --- [[books:cc:adi:13:124|Ādi 13.124]]

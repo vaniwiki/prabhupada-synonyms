@@ -1,5 +1,11 @@
-~~Title:tṛpyanti~~
-{{description>are sated; are satisfied; become satisfied.}}
+---json
+{
+    "name":"tṛpyanti",
+    "h1":"tṛpyanti",
+    "title":"tṛpyanti",
+    "description":"are sated; are satisfied; become satisfied."
+}
+---
 
 ==== tṛpyanti  ====
   * are sated --- [[books:sb:3:25:2|SB 3.25.2]]

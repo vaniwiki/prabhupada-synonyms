@@ -1,5 +1,11 @@
-~~Title:umayā~~
-{{description>with your consort, Umā.}}
+---json
+{
+    "name":"umayā",
+    "h1":"umayā",
+    "title":"umayā",
+    "description":"with your consort, Umā."
+}
+---
 
 ==== umayā  ====
   * with your consort, Umā --- [[books:sb:8:7:33|SB 8.7.33]]

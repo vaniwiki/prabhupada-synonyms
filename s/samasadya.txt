@@ -1,5 +1,11 @@
-~~Title:samāsādya~~
-{{description>getting the opportunity to fight between themselves; reaching.}}
+---json
+{
+    "name":"samāsādya",
+    "h1":"samāsādya",
+    "title":"samāsādya",
+    "description":"getting the opportunity to fight between themselves; reaching."
+}
+---
 
 ==== samāsādya  ====
   * getting the opportunity to fight between themselves --- [[books:sb:8:10:6|SB 8.10.6]]

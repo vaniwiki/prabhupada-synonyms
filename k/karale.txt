@@ -1,5 +1,11 @@
-~~Title:karāle~~
-{{description>very fearful.}}
+---json
+{
+    "name":"karāle",
+    "h1":"karāle",
+    "title":"karāle",
+    "description":"very fearful."
+}
+---
 
 ==== karāle  ====
   * very fearful --- [[books:sb:6:9:24|SB 6.9.24]]

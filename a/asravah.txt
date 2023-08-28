@@ -1,5 +1,11 @@
-~~Title:aśravaḥ~~
-{{description>with tears in their eyes.}}
+---json
+{
+    "name":"aśravaḥ",
+    "h1":"aśravaḥ",
+    "title":"aśravaḥ",
+    "description":"with tears in their eyes."
+}
+---
 
 ==== sa-aśravaḥ  ====
   * with tears in their eyes --- [[books:sb:4:13:49|SB 4.13.49]]

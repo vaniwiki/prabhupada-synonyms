@@ -1,5 +1,11 @@
-~~Title:biḍā~~
-{{description>betel nuts.}}
+---json
+{
+    "name":"biḍā",
+    "h1":"biḍā",
+    "title":"biḍā",
+    "description":"betel nuts."
+}
+---
 
 ==== biḍā  ====
   * betel nuts --- [[books:cc:antya:6:121|Antya 6.121]]

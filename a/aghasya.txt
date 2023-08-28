@@ -1,5 +1,11 @@
-~~Title:aghasya~~
-{{description>of the sinful.}}
+---json
+{
+    "name":"aghasya",
+    "h1":"aghasya",
+    "title":"aghasya",
+    "description":"of the sinful."
+}
+---
 
 ==== aghasya  ====
   * of the sinful --- [[books:sb:1:19:14|SB 1.19.14]]

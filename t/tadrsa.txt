@@ -1,5 +1,11 @@
-~~Title:tādṛśa~~
-{{description>in such dress.}}
+---json
+{
+    "name":"tādṛśa",
+    "h1":"tādṛśa",
+    "title":"tādṛśa",
+    "description":"in such dress."
+}
+---
 
 ==== tādṛśa-ākṛtim  ====
   * in such dress --- [[books:sb:4:19:14|SB 4.19.14]]

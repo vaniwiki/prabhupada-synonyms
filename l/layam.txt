@@ -1,5 +1,11 @@
-~~Title:layam~~
-{{description>unto dissolution.}}
+---json
+{
+    "name":"layam",
+    "h1":"layam",
+    "title":"layam",
+    "description":"unto dissolution."
+}
+---
 
 ==== layam  ====
   * unto dissolution --- [[books:sb:3:32:4|SB 3.32.4]]

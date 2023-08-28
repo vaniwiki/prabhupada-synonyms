@@ -1,5 +1,11 @@
-~~Title:śrotṝṇām~~
-{{description>of the audience.}}
+---json
+{
+    "name":"śrotṝṇām",
+    "h1":"śrotṝṇām",
+    "title":"śrotṝṇām",
+    "description":"of the audience."
+}
+---
 
 ==== śrotṝṇām  ====
   * of the audience --- [[books:sb:8:23:28|SB 8.23.28]]

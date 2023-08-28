@@ -1,5 +1,11 @@
-~~Title:dharmiṣṭha~~
-{{description>the most religious person.}}
+---json
+{
+    "name":"dharmiṣṭha",
+    "h1":"dharmiṣṭha",
+    "title":"dharmiṣṭha",
+    "description":"the most religious person."
+}
+---
 
 ==== dharmiṣṭha  ====
   * the most religious person --- [[books:sb:9:16:15|SB 9.16.15]]

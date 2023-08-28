@@ -1,5 +1,11 @@
-~~Title:vilasiba~~
-{{description>I shall enjoy.}}
+---json
+{
+    "name":"vilasiba",
+    "h1":"vilasiba",
+    "title":"vilasiba",
+    "description":"I shall enjoy."
+}
+---
 
 ==== vilasiba  ====
   * I shall enjoy --- [[books:cc:madhya:13:158|Madhya 13.158]]

@@ -1,5 +1,11 @@
-~~Title:śraddhaḥ~~
-{{description>faith; having faith; who has faith.}}
+---json
+{
+    "name":"śraddhaḥ",
+    "h1":"śraddhaḥ",
+    "title":"śraddhaḥ",
+    "description":"faith; having faith; who has faith."
+}
+---
 
 ==== śraddhaḥ  ====
   * faith --- [[books:bg:17:3|Bg. 17.3]]

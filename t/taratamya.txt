@@ -1,5 +1,11 @@
-~~Title:tāratamya~~
-{{description>comparisons; upper and lower gradations.}}
+---json
+{
+    "name":"tāratamya",
+    "h1":"tāratamya",
+    "title":"tāratamya",
+    "description":"comparisons; upper and lower gradations."
+}
+---
 
 ==== tāratamya  ====
   * comparisons --- [[books:cc:madhya:8:82|Madhya 8.82]]

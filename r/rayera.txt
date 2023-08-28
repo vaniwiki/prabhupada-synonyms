@@ -1,5 +1,11 @@
-~~Title:rāyera~~
-{{description>of Bhavānanda Rāya; of Rāmānanda Rāya; of Rāya Rāmānanda; of the poet Rāya Rāmānanda; of Śrī Rāmānanda Rāya.}}
+---json
+{
+    "name":"rāyera",
+    "h1":"rāyera",
+    "title":"rāyera",
+    "description":"of Bhavānanda Rāya; of Rāmānanda Rāya; of Rāya Rāmānanda; of the poet Rāya Rāmānanda; of Śrī Rāmānanda Rāya."
+}
+---
 
 ==== rāyera  ====
   * of Bhavānanda Rāya --- [[books:cc:antya:9:145|Antya 9.145]]

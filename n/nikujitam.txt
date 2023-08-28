@@ -1,5 +1,11 @@
-~~Title:nikūjitam~~
-{{description>vibrated; vibrated by their sounds.}}
+---json
+{
+    "name":"nikūjitam",
+    "h1":"nikūjitam",
+    "title":"nikūjitam",
+    "description":"vibrated; vibrated by their sounds."
+}
+---
 
 ==== nikūjitam  ====
   * vibrated --- [[books:sb:3:23:20|SB 3.23.20]]

@@ -1,5 +1,11 @@
-~~Title:pradṛśyate~~
-{{description>is visible.}}
+---json
+{
+    "name":"pradṛśyate",
+    "h1":"pradṛśyate",
+    "title":"pradṛśyate",
+    "description":"is visible."
+}
+---
 
 ==== pradṛśyate  ====
   * is visible --- [[books:sb:6:9:7|SB 6.9.7]], [[books:sb:6:9:8|SB 6.9.8]], [[books:sb:6:9:9|SB 6.9.9]]

@@ -1,5 +1,11 @@
-~~Title:rava~~
-{{description>because of the sounds played on flutes and bugles by the cowherd boys.}}
+---json
+{
+    "name":"rava",
+    "h1":"rava",
+    "title":"rava",
+    "description":"because of the sounds played on flutes and bugles by the cowherd boys."
+}
+---
 
 ==== veṇu-rava  ====
   * because of the sounds played on flutes and bugles by the cowherd boys --- [[books:sb:10:13:22|SB 10.13.22]]

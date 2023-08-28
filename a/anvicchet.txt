@@ -1,5 +1,11 @@
-~~Title:anvicchet~~
-{{description>one should desire.}}
+---json
+{
+    "name":"anvicchet",
+    "h1":"anvicchet",
+    "title":"anvicchet",
+    "description":"one should desire."
+}
+---
 
 ==== anvicchet  ====
   * one should desire --- [[books:sb:4:8:34|SB 4.8.34]]

@@ -1,5 +1,11 @@
-~~Title:āsureṇa~~
-{{description>by the quality of passion.}}
+---json
+{
+    "name":"āsureṇa",
+    "h1":"āsureṇa",
+    "title":"āsureṇa",
+    "description":"by the quality of passion."
+}
+---
 
 ==== āsureṇa  ====
   * by the quality of passion --- [[books:sb:8:7:11|SB 8.7.11]]

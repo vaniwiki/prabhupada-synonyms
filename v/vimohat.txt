@@ -1,5 +1,11 @@
-~~Title:vimohāt~~
-{{description>from the great illusion.}}
+---json
+{
+    "name":"vimohāt",
+    "h1":"vimohāt",
+    "title":"vimohāt",
+    "description":"from the great illusion."
+}
+---
 
 ==== mahā-vimohāt  ====
   * from the great illusion --- [[books:sb:5:5:27|SB 5.5.27]]

@@ -1,5 +1,11 @@
-~~Title:hanum~~
-{{description>jaw.}}
+---json
+{
+    "name":"hanum",
+    "h1":"hanum",
+    "title":"hanum",
+    "description":"jaw."
+}
+---
 
 ==== hanum  ====
   * jaw --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

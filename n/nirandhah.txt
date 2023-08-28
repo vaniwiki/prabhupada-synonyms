@@ -1,5 +1,11 @@
-~~Title:nirandhaḥ~~
-{{description>being with no stock of food.}}
+---json
+{
+    "name":"nirandhaḥ",
+    "h1":"nirandhaḥ",
+    "title":"nirandhaḥ",
+    "description":"being with no stock of food."
+}
+---
 
 ==== nirandhaḥ  ====
   * being with no stock of food --- [[books:sb:5:13:6|SB 5.13.6]]

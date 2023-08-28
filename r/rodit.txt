@@ -1,5 +1,11 @@
-~~Title:rodīt~~
-{{description>make cry.}}
+---json
+{
+    "name":"rodīt",
+    "h1":"rodīt",
+    "title":"rodīt",
+    "description":"make cry."
+}
+---
 
 ==== rodīt  ====
   * make cry --- [[books:sb:1:7:47|SB 1.7.47]]

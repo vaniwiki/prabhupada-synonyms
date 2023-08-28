@@ -1,5 +1,11 @@
-~~Title:amṛta~~
-{{description>and the very sweet ocean; eternal; eternal life; food for human beings; immortality; nectar; nectar, eternal; nectarean; of nectar; of the nectar; sweet; which is like nectar; with nectar.}}
+---json
+{
+    "name":"amṛta",
+    "h1":"amṛta",
+    "title":"amṛta",
+    "description":"and the very sweet ocean; eternal; eternal life; food for human beings; immortality; nectar; nectar, eternal; nectarean; of nectar; of the nectar; sweet; which is like nectar; with nectar."
+}
+---
 
 ==== amṛta  ====
   * and the very sweet ocean --- [[books:sb:7:4:17|SB 7.4.17]]

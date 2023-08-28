@@ -1,5 +1,11 @@
-~~Title:avarajaḥ~~
-{{description>the younger brother; transcendental.}}
+---json
+{
+    "name":"avarajaḥ",
+    "h1":"avarajaḥ",
+    "title":"avarajaḥ",
+    "description":"the younger brother; transcendental."
+}
+---
 
 ==== avarajaḥ  ====
   * the younger brother --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

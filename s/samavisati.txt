@@ -1,5 +1,11 @@
-~~Title:samāviśati~~
-{{description>enters.}}
+---json
+{
+    "name":"samāviśati",
+    "h1":"samāviśati",
+    "title":"samāviśati",
+    "description":"enters."
+}
+---
 
 ==== samāviśati  ====
   * enters --- [[books:sb:5:8:12|SB 5.8.12]]

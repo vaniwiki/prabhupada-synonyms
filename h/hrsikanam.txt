@@ -1,5 +1,11 @@
-~~Title:hṛṣīkāṇām~~
-{{description>of the senses.}}
+---json
+{
+    "name":"hṛṣīkāṇām",
+    "h1":"hṛṣīkāṇām",
+    "title":"hṛṣīkāṇām",
+    "description":"of the senses."
+}
+---
 
 ==== hṛṣīkāṇām  ====
   * of the senses --- [[books:sb:1:8:38|SB 1.8.38]], [[books:sb:3:26:28|SB 3.26.28]], [[books:cc:antya:1:160|Antya 1.160]]

@@ -1,5 +1,11 @@
-~~Title:rahiha~~
-{{description>stay.}}
+---json
+{
+    "name":"rahiha",
+    "h1":"rahiha",
+    "title":"rahiha",
+    "description":"stay."
+}
+---
 
 ==== rahiha  ====
   * stay --- [[books:cc:antya:1:217|Antya 1.217]]

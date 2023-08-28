@@ -1,5 +1,11 @@
-~~Title:kalanayā~~
-{{description>by seeing.}}
+---json
+{
+    "name":"kalanayā",
+    "h1":"kalanayā",
+    "title":"kalanayā",
+    "description":"by seeing."
+}
+---
 
 ==== kalanayā  ====
   * by seeing --- [[books:cc:antya:15:97|Antya 15.97]]

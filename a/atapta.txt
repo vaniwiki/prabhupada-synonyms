@@ -1,5 +1,11 @@
-~~Title:atapta~~
-{{description>without undergoing.}}
+---json
+{
+    "name":"atapta",
+    "h1":"atapta",
+    "title":"atapta",
+    "description":"without undergoing."
+}
+---
 
 ==== atapta  ====
   * without undergoing --- [[books:sb:3:2:11|SB 3.2.11]]

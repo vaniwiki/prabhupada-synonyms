@@ -1,5 +1,11 @@
-~~Title:saririnah~~
-{{description>the embodied souls.}}
+---json
+{
+    "name":"saririnah",
+    "h1":"saririnah",
+    "title":"saririnah",
+    "description":"the embodied souls."
+}
+---
 
 ==== sarīriṇaḥ  ====
   * the embodied souls --- [[books:bg:2:18|Bg. 2.18]]

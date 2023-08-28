@@ -1,5 +1,11 @@
-~~Title:vedmi~~
-{{description>can realize; do I know; I know; know.}}
+---json
+{
+    "name":"vedmi",
+    "h1":"vedmi",
+    "title":"vedmi",
+    "description":"can realize; do I know; I know; know."
+}
+---
 
 ==== vedmi  ====
   * can realize --- [[books:sb:9:20:12|SB 9.20.12]]

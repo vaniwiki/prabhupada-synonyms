@@ -1,5 +1,11 @@
-~~Title:ksamaila~~
-{{description>excused.}}
+---json
+{
+    "name":"ksamaila",
+    "h1":"ksamaila",
+    "title":"ksamaila",
+    "description":"excused."
+}
+---
 
 ==== kṣamāila  ====
   * excused --- [[books:cc:adi:7:37|Ādi 7.37]], [[books:cc:madhya:1:153|Madhya 1.153]]

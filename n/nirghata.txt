@@ -1,5 +1,11 @@
-~~Title:nirghāta~~
-{{description>who were afraid of falling thunderbolts.}}
+---json
+{
+    "name":"nirghāta",
+    "h1":"nirghāta",
+    "title":"nirghāta",
+    "description":"who were afraid of falling thunderbolts."
+}
+---
 
 ==== nirghāta-bhaya-śaṅkitāḥ  ====
   * who were afraid of falling thunderbolts --- [[books:sb:10:11:1|SB 10.11.1]]

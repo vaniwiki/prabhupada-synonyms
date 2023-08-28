@@ -1,5 +1,11 @@
-~~Title:upātta~~
-{{description>extraordinarily accepted; manifested; obtained.}}
+---json
+{
+    "name":"upātta",
+    "h1":"upātta",
+    "title":"upātta",
+    "description":"extraordinarily accepted; manifested; obtained."
+}
+---
 
 ==== upātta  ====
   * extraordinarily accepted --- [[books:sb:3:4:33|SB 3.4.33]]

@@ -1,5 +1,11 @@
-~~Title:utpattim~~
-{{description>begetting children.}}
+---json
+{
+    "name":"utpattim",
+    "h1":"utpattim",
+    "title":"utpattim",
+    "description":"begetting children."
+}
+---
 
 ==== suta-utpattim  ====
   * begetting children --- [[books:cc:adi:17:164|Ādi 17.164]]

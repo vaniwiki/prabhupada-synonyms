@@ -1,5 +1,11 @@
-~~Title:tāhātei~~
-{{description>by that way; due to that; in that; in the material energy.}}
+---json
+{
+    "name":"tāhātei",
+    "h1":"tāhātei",
+    "title":"tāhātei",
+    "description":"by that way; due to that; in that; in the material energy."
+}
+---
 
 ==== tāhātei  ====
   * by that way --- [[books:cc:madhya:8:116|Madhya 8.116]]

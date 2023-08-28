@@ -1,5 +1,11 @@
-~~Title:ke~~
-{{description>who; every one of you; everyone; who; who are; who are they; who is; who were.}}
+---json
+{
+    "name":"ke",
+    "h1":"ke",
+    "title":"ke",
+    "description":"who; every one of you; everyone; who; who are; who are they; who is; who were."
+}
+---
 
 ==== ke  ====
   * //who// --- [[books:cc:madhya:7:38|Madhya 7.38]]

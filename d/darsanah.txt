@@ -1,5 +1,11 @@
-~~Title:darsanah~~
-{{description>conceptions of life; one who can see; one who can see all time; one who has seen; one who has such a vision of life; whose vision.}}
+---json
+{
+    "name":"darsanah",
+    "h1":"darsanah",
+    "title":"darsanah",
+    "description":"conceptions of life; one who can see; one who can see all time; one who has seen; one who has such a vision of life; whose vision."
+}
+---
 
 ==== darśanaḥ  ====
   * conceptions of life --- [[books:sb:3:27:10|SB 3.27.10]]

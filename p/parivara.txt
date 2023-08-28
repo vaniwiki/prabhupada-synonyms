@@ -1,5 +1,11 @@
-~~Title:parivāra~~
-{{description>dependents; descendants; entourage.}}
+---json
+{
+    "name":"parivāra",
+    "h1":"parivāra",
+    "title":"parivāra",
+    "description":"dependents; descendants; entourage."
+}
+---
 
 ==== parivāra  ====
   * dependents --- [[books:cc:adi:4:67|Ādi 4.67]]

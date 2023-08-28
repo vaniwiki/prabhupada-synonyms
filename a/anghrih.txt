@@ -1,5 +1,11 @@
-~~Title:aṅghriḥ~~
-{{description>from His feet; her feet; steps occupying above and below; whose feet.}}
+---json
+{
+    "name":"aṅghriḥ",
+    "h1":"aṅghriḥ",
+    "title":"aṅghriḥ",
+    "description":"from His feet; her feet; steps occupying above and below; whose feet."
+}
+---
 
 ==== aṅghriḥ  ====
   * from His feet --- [[books:sb:8:5:41|SB 8.5.41]]

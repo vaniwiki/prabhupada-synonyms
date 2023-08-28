@@ -1,5 +1,11 @@
-~~Title:tarpaṇam~~
-{{description>satisfaction; the process of pleasing.}}
+---json
+{
+    "name":"tarpaṇam",
+    "h1":"tarpaṇam",
+    "title":"tarpaṇam",
+    "description":"satisfaction; the process of pleasing."
+}
+---
 
 ==== tarpaṇam  ====
   * satisfaction --- [[books:sb:7:14:36|SB 7.14.36]]

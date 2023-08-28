@@ -1,5 +1,11 @@
-~~Title:kīrtanya~~
-{{description>should be chanted; worth chanting; worth singing.}}
+---json
+{
+    "name":"kīrtanya",
+    "h1":"kīrtanya",
+    "title":"kīrtanya",
+    "description":"should be chanted; worth chanting; worth singing."
+}
+---
 
 ==== kīrtanya  ====
   * should be chanted --- [[books:sb:3:20:6|SB 3.20.6]]

@@ -1,5 +1,11 @@
-~~Title:ghāṭiyāla~~
-{{description>the men in charge of levying taxes.}}
+---json
+{
+    "name":"ghāṭiyāla",
+    "h1":"ghāṭiyāla",
+    "title":"ghāṭiyāla",
+    "description":"the men in charge of levying taxes."
+}
+---
 
 ==== ghāṭiyāla  ====
   * the men in charge of levying taxes --- [[books:cc:madhya:16:26|Madhya 16.26]]

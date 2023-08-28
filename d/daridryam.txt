@@ -1,5 +1,11 @@
-~~Title:dāridryam~~
-{{description>poverty.}}
+---json
+{
+    "name":"dāridryam",
+    "h1":"dāridryam",
+    "title":"dāridryam",
+    "description":"poverty."
+}
+---
 
 ==== dāridryam  ====
   * poverty --- [[books:sb:10:10:13|SB 10.10.13]]

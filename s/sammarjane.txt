@@ -1,5 +1,11 @@
-~~Title:sammārjane~~
-{{description>washing.}}
+---json
+{
+    "name":"sammārjane",
+    "h1":"sammārjane",
+    "title":"sammārjane",
+    "description":"washing."
+}
+---
 
 ==== sammārjane  ====
   * washing --- [[books:cc:antya:14:100|Antya 14.100]]

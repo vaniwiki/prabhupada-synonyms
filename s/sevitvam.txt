@@ -1,5 +1,11 @@
-~~Title:sevitvam~~
-{{description>aspiring.}}
+---json
+{
+    "name":"sevitvam",
+    "h1":"sevitvam",
+    "title":"sevitvam",
+    "description":"aspiring."
+}
+---
 
 ==== sevitvam  ====
   * aspiring --- [[books:bg:13:8-12|Bg. 13.8-12]]

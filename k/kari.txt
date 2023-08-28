@@ -1,5 +1,11 @@
-~~Title:kari~~
-{{description>am putting; as; can I do; continue; devising; do; doing; finishing; I am simply giving; I can make; I do; I enumerate; I make; I may do; I may render; I offer; I perform; I say; I shall do; I shall execute; I shall make; let me accept; let me do; let us do; making; observe; perform; performing; shall adopt; shall I do; taking; taking as; we do; we execute; we perform.}}
+---json
+{
+    "name":"kari",
+    "h1":"kari",
+    "title":"kari",
+    "description":"am putting; as; can I do; continue; devising; do; doing; finishing; I am simply giving; I can make; I do; I enumerate; I make; I may do; I may render; I offer; I perform; I say; I shall do; I shall execute; I shall make; let me accept; let me do; let us do; making; observe; perform; performing; shall adopt; shall I do; taking; taking as; we do; we execute; we perform."
+}
+---
 
 ==== kari  ====
   * am putting --- [[books:cc:adi:17:172|Ādi 17.172]]

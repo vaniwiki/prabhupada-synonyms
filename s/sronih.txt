@@ -1,5 +1,11 @@
-~~Title:śroṇiḥ~~
-{{description>thick waist.}}
+---json
+{
+    "name":"śroṇiḥ",
+    "h1":"śroṇiḥ",
+    "title":"śroṇiḥ",
+    "description":"thick waist."
+}
+---
 
 ==== bṛhat-śroṇiḥ  ====
   * thick waist --- [[books:sb:4:21:16|SB 4.21.16]]

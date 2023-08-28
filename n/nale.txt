@@ -1,5 +1,11 @@
-~~Title:nāle~~
-{{description>within the stem of that lotus; within the stem of that lotus flower.}}
+---json
+{
+    "name":"nāle",
+    "h1":"nāle",
+    "title":"nāle",
+    "description":"within the stem of that lotus; within the stem of that lotus flower."
+}
+---
 
 ==== sei padma-nāle  ====
   * within the stem of that lotus --- [[books:cc:madhya:20:288|Madhya 20.288]]

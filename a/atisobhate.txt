@@ -1,5 +1,11 @@
-~~Title:atiśobhate~~
-{{description>appears beautiful.}}
+---json
+{
+    "name":"atiśobhate",
+    "h1":"atiśobhate",
+    "title":"atiśobhate",
+    "description":"appears beautiful."
+}
+---
 
 ==== atiśobhate  ====
   * appears beautiful --- [[books:sb:9:14:26|SB 9.14.26]]

@@ -1,5 +1,11 @@
-~~Title:dṛḍhatara~~
-{{description>firm.}}
+---json
+{
+    "name":"dṛḍhatara",
+    "h1":"dṛḍhatara",
+    "title":"dṛḍhatara",
+    "description":"firm."
+}
+---
 
 ==== dṛḍhatara  ====
   * firm --- [[books:cc:madhya:19:120|Madhya 19.120]]

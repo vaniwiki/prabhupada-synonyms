@@ -1,5 +1,11 @@
-~~Title:dhanuḥ~~
-{{description>a bow; arrows and bow; bow; by which the bow; his bow; the bow; the same bow; unto the bow.}}
+---json
+{
+    "name":"dhanuḥ",
+    "h1":"dhanuḥ",
+    "title":"dhanuḥ",
+    "description":"a bow; arrows and bow; bow; by which the bow; his bow; the bow; the same bow; unto the bow."
+}
+---
 
 ==== dhanuḥ  ====
   * a bow --- [[books:sb:8:15:6|SB 8.15.6]]

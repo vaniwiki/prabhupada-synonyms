@@ -1,5 +1,11 @@
-~~Title:parakṛtya~~
-{{description>enemy's interest.}}
+---json
+{
+    "name":"parakṛtya",
+    "h1":"parakṛtya",
+    "title":"parakṛtya",
+    "description":"enemy's interest."
+}
+---
 
 ==== parakṛtya  ====
   * enemy's interest --- [[books:sb:3:1:15|SB 3.1.15]]

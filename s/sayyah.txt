@@ -1,5 +1,11 @@
-~~Title:śayyāḥ~~
-{{description>bedding; beds.}}
+---json
+{
+    "name":"śayyāḥ",
+    "h1":"śayyāḥ",
+    "title":"śayyāḥ",
+    "description":"bedding; beds."
+}
+---
 
 ==== śayyāḥ  ====
   * bedding --- [[books:sb:4:9:61|SB 4.9.61]]

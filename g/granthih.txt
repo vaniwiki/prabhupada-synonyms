@@ -1,5 +1,11 @@
-~~Title:granthiḥ~~
-{{description>knots.}}
+---json
+{
+    "name":"granthiḥ",
+    "h1":"granthiḥ",
+    "title":"granthiḥ",
+    "description":"knots."
+}
+---
 
 ==== granthiḥ  ====
   * knots --- [[books:sb:1:2:21|SB 1.2.21]]

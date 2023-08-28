@@ -1,5 +1,11 @@
-~~Title:grāhī~~
-{{description>one who accepts the purpose.}}
+---json
+{
+    "name":"grāhī",
+    "h1":"grāhī",
+    "title":"grāhī",
+    "description":"one who accepts the purpose."
+}
+---
 
 ==== bhāva-grāhī  ====
   * one who accepts the purpose --- [[books:cc:antya:10:18|Antya 10.18]]

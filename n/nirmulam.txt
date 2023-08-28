@@ -1,5 +1,11 @@
-~~Title:nirmūlam~~
-{{description>without basis.}}
+---json
+{
+    "name":"nirmūlam",
+    "h1":"nirmūlam",
+    "title":"nirmūlam",
+    "description":"without basis."
+}
+---
 
 ==== nirmūlam  ====
   * without basis --- [[books:sb:3:7:16|SB 3.7.16]]

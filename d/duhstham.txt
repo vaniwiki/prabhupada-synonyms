@@ -1,5 +1,11 @@
-~~Title:duḥstham~~
-{{description>put into difficulty.}}
+---json
+{
+    "name":"duḥstham",
+    "h1":"duḥstham",
+    "title":"duḥstham",
+    "description":"put into difficulty."
+}
+---
 
 ==== duḥstham  ====
   * put into difficulty --- [[books:sb:1:16:34|SB 1.16.34]]

@@ -1,5 +1,11 @@
-~~Title:avasthāpya~~
-{{description>fixing; placing.}}
+---json
+{
+    "name":"avasthāpya",
+    "h1":"avasthāpya",
+    "title":"avasthāpya",
+    "description":"fixing; placing."
+}
+---
 
 ==== avasthāpya  ====
   * fixing --- [[books:sb:4:23:14|SB 4.23.14]]

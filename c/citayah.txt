@@ -1,5 +1,11 @@
-~~Title:citayaḥ~~
-{{description>aggregate of all desires.}}
+---json
+{
+    "name":"citayaḥ",
+    "h1":"citayaḥ",
+    "title":"citayaḥ",
+    "description":"aggregate of all desires."
+}
+---
 
 ==== citayaḥ  ====
   * aggregate of all desires --- [[books:sb:3:13:37|SB 3.13.37]]

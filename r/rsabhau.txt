@@ -1,5 +1,11 @@
-~~Title:ṛṣabhau~~
-{{description>the best of the demigods.}}
+---json
+{
+    "name":"ṛṣabhau",
+    "h1":"ṛṣabhau",
+    "title":"ṛṣabhau",
+    "description":"the best of the demigods."
+}
+---
 
 ==== gīrvāṇa-ṛṣabhau  ====
   * the best of the demigods --- [[books:sb:3:16:33|SB 3.16.33]]

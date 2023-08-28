@@ -1,5 +1,11 @@
-~~Title:pāṭalita~~
-{{description>a tinge of redness, mixed with whiteness, on the borders of the eyes.}}
+---json
+{
+    "name":"pāṭalita",
+    "h1":"pāṭalita",
+    "title":"pāṭalita",
+    "description":"a tinge of redness, mixed with whiteness, on the borders of the eyes."
+}
+---
 
 ==== pāṭalita-añcalā  ====
   * a tinge of redness, mixed with whiteness, on the borders of the eyes --- [[books:cc:madhya:14:180|Madhya 14.180]]

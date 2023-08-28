@@ -1,5 +1,11 @@
-~~Title:padan~~
-{{description>legs.}}
+---json
+{
+    "name":"padan",
+    "h1":"padan",
+    "title":"padan",
+    "description":"legs."
+}
+---
 
 ==== pādān  ====
   * legs --- [[books:sb:1:17:12|SB 1.17.12]], [[books:sb:1:17:42|SB 1.17.42]]

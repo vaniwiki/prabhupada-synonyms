@@ -1,5 +1,11 @@
-~~Title:beḍā~~
-{{description>the dancing surrounding the temple.}}
+---json
+{
+    "name":"beḍā",
+    "h1":"beḍā",
+    "title":"beḍā",
+    "description":"the dancing surrounding the temple."
+}
+---
 
 ==== beḍā-nṛtya  ====
   * the dancing surrounding the temple --- [[books:cc:madhya:11:224|Madhya 11.224]]

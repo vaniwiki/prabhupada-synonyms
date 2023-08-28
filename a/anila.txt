@@ -1,5 +1,11 @@
-~~Title:anila~~
-{{description>air; and air; by the demigod controlling the wind; life; like the wind; of the wind.}}
+---json
+{
+    "name":"anila",
+    "h1":"anila",
+    "title":"anila",
+    "description":"air; and air; by the demigod controlling the wind; life; like the wind; of the wind."
+}
+---
 
 ==== anila  ====
   * air --- [[books:sb:3:32:9|SB 3.32.9]], [[books:sb:4:1:19|SB 4.1.19]]

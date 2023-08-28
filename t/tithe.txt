@@ -1,5 +1,11 @@
-~~Title:tithe~~
-{{description>after many years.}}
+---json
+{
+    "name":"tithe",
+    "h1":"tithe",
+    "title":"tithe",
+    "description":"after many years."
+}
+---
 
 ==== bahu-tithe kāle  ====
   * after many years --- [[books:sb:3:24:6|SB 3.24.6]]

@@ -1,5 +1,11 @@
-~~Title:vibhu~~
-{{description>all-pervading; greatest; opulent and powerful; the avatāra Vibhu; the greatest; the supreme; transcendental abode.}}
+---json
+{
+    "name":"vibhu",
+    "h1":"vibhu",
+    "title":"vibhu",
+    "description":"all-pervading; greatest; opulent and powerful; the avatāra Vibhu; the greatest; the supreme; transcendental abode."
+}
+---
 
 ==== vibhu  ====
   * all-pervading --- [[books:cc:adi:4:128|Ādi 4.128]]

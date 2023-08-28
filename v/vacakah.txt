@@ -1,5 +1,11 @@
-~~Title:vācakaḥ~~
-{{description>indicating; signifying.}}
+---json
+{
+    "name":"vācakaḥ",
+    "h1":"vācakaḥ",
+    "title":"vācakaḥ",
+    "description":"indicating; signifying."
+}
+---
 
 ==== vācakaḥ  ====
   * indicating --- [[books:cc:madhya:9:30|Madhya 9.30]]

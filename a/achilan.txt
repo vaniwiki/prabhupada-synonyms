@@ -1,5 +1,11 @@
-~~Title:āchilāṅ~~
-{{description>I was; was.}}
+---json
+{
+    "name":"āchilāṅ",
+    "h1":"āchilāṅ",
+    "title":"āchilāṅ",
+    "description":"I was; was."
+}
+---
 
 ==== āchilāṅ  ====
   * I was --- [[books:cc:madhya:7:146|Madhya 7.146]]

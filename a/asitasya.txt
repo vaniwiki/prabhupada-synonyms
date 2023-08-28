@@ -1,5 +1,11 @@
-~~Title:asitasya~~
-{{description>that of Asita.}}
+---json
+{
+    "name":"asitasya",
+    "h1":"asitasya",
+    "title":"asitasya",
+    "description":"that of Asita."
+}
+---
 
 ==== asitasya  ====
   * that of Asita --- [[books:sb:3:1:22|SB 3.1.22]]

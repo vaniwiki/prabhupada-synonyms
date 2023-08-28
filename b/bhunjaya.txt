@@ -1,5 +1,11 @@
-~~Title:bhuñjāya~~
-{{description>offered to eat.}}
+---json
+{
+    "name":"bhuñjāya",
+    "h1":"bhuñjāya",
+    "title":"bhuñjāya",
+    "description":"offered to eat."
+}
+---
 
 ==== bhuñjāya  ====
   * offered to eat --- [[books:cc:adi:10:44|Ādi 10.44]]

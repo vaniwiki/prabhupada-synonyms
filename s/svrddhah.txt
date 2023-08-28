@@ -1,5 +1,11 @@
-~~Title:svṛddhāḥ~~
-{{description>flourished.}}
+---json
+{
+    "name":"svṛddhāḥ",
+    "h1":"svṛddhāḥ",
+    "title":"svṛddhāḥ",
+    "description":"flourished."
+}
+---
 
 ==== svṛddhāḥ  ====
   * flourished --- [[books:sb:1:8:40|SB 1.8.40]]

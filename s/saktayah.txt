@@ -1,5 +1,11 @@
-~~Title:śaktayaḥ~~
-{{description>energies; potencies.}}
+---json
+{
+    "name":"śaktayaḥ",
+    "h1":"śaktayaḥ",
+    "title":"śaktayaḥ",
+    "description":"energies; potencies."
+}
+---
 
 ==== śaktayaḥ  ====
   * energies --- [[books:sb:4:9:16|SB 4.9.16]], [[books:sb:4:31:16|SB 4.31.16]], [[books:sb:4:31:17|SB 4.31.17]], [[books:cc:madhya:20:113|Madhya 20.113]]

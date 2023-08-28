@@ -1,5 +1,11 @@
-~~Title:vākyaiḥ~~
-{{description>by speech; by those words; the instructions.}}
+---json
+{
+    "name":"vākyaiḥ",
+    "h1":"vākyaiḥ",
+    "title":"vākyaiḥ",
+    "description":"by speech; by those words; the instructions."
+}
+---
 
 ==== vākyaiḥ  ====
   * by speech --- [[books:sb:7:11:26-27|SB 7.11.26-27]]

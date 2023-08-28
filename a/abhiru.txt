@@ -1,5 +1,11 @@
-~~Title:abhīru~~
-{{description>without fear.}}
+---json
+{
+    "name":"abhīru",
+    "h1":"abhīru",
+    "title":"abhīru",
+    "description":"without fear."
+}
+---
 
 ==== abhīru-vat  ====
   * without fear --- [[books:sb:1:14:12|SB 1.14.12]]

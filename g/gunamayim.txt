@@ -1,5 +1,11 @@
-~~Title:guṇamayīm~~
-{{description>invested with the three modes of material nature.}}
+---json
+{
+    "name":"guṇamayīm",
+    "h1":"guṇamayīm",
+    "title":"guṇamayīm",
+    "description":"invested with the three modes of material nature."
+}
+---
 
 ==== guṇamayīm  ====
   * invested with the three modes of material nature --- [[books:sb:3:26:4|SB 3.26.4]]

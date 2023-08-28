@@ -1,5 +1,11 @@
-~~Title:paḍiyāche~~
-{{description>have bent down.}}
+---json
+{
+    "name":"paḍiyāche",
+    "h1":"paḍiyāche",
+    "title":"paḍiyāche",
+    "description":"have bent down."
+}
+---
 
 ==== paḍiyāche  ====
   * have bent down --- [[books:cc:antya:15:49|Antya 15.49]]

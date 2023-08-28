@@ -1,5 +1,11 @@
-~~Title:hinasti~~
-{{description>degrade.}}
+---json
+{
+    "name":"hinasti",
+    "h1":"hinasti",
+    "title":"hinasti",
+    "description":"degrade."
+}
+---
 
 ==== hinasti  ====
   * degrade --- [[books:bg:13:29|Bg. 13.29]]

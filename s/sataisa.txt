@@ -1,5 +1,11 @@
-~~Title:sātāiśa~~
-{{description>twenty-seven.}}
+---json
+{
+    "name":"sātāiśa",
+    "h1":"sātāiśa",
+    "title":"sātāiśa",
+    "description":"twenty-seven."
+}
+---
 
 ==== sātāiśa  ====
   * twenty-seven --- [[books:cc:adi:3:9|Ādi 3.9]]

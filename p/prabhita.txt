@@ -1,5 +1,11 @@
-~~Title:prabhīta~~
-{{description>then again being afraid of them.}}
+---json
+{
+    "name":"prabhīta",
+    "h1":"prabhīta",
+    "title":"prabhīta",
+    "description":"then again being afraid of them."
+}
+---
 
 ==== prabhīta-vat  ====
   * then again being afraid of them --- [[books:sb:10:8:22|SB 10.8.22]]

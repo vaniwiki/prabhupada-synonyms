@@ -1,5 +1,11 @@
-~~Title:katho~~
-{{description>a few; some.}}
+---json
+{
+    "name":"katho",
+    "h1":"katho",
+    "title":"katho",
+    "description":"a few; some."
+}
+---
 
 ==== katho  ====
   * a few --- [[books:cc:madhya:7:50|Madhya 7.50]]

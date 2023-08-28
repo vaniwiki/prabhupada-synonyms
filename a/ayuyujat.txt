@@ -1,5 +1,11 @@
-~~Title:ayūyujat~~
-{{description>mixed.}}
+---json
+{
+    "name":"ayūyujat",
+    "h1":"ayūyujat",
+    "title":"ayūyujat",
+    "description":"mixed."
+}
+---
 
 ==== ayūyujat  ====
   * mixed --- [[books:sb:4:23:15|SB 4.23.15]]

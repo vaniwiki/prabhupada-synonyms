@@ -1,5 +1,11 @@
-~~Title:vidīrṇayā~~
-{{description>dug up by the tusk of a boar.}}
+---json
+{
+    "name":"vidīrṇayā",
+    "h1":"vidīrṇayā",
+    "title":"vidīrṇayā",
+    "description":"dug up by the tusk of a boar."
+}
+---
 
 ==== kroḍa-vidīrṇayā  ====
   * dug up by the tusk of a boar --- [[books:sb:8:16:26|SB 8.16.26]]

@@ -1,5 +1,11 @@
-~~Title:kevalaiḥ~~
-{{description>purified.}}
+---json
+{
+    "name":"kevalaiḥ",
+    "h1":"kevalaiḥ",
+    "title":"kevalaiḥ",
+    "description":"purified."
+}
+---
 
 ==== kevalaiḥ  ====
   * purified --- [[books:bg:5:11|Bg. 5.11]]

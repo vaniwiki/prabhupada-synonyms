@@ -1,5 +1,11 @@
-~~Title:vihare~~
-{{description>enjoys; played.}}
+---json
+{
+    "name":"vihare",
+    "h1":"vihare",
+    "title":"vihare",
+    "description":"enjoys; played."
+}
+---
 
 ==== vihare  ====
   * enjoys --- [[books:cc:antya:5:47|Antya 5.47]], [[books:cc:antya:6:12|Antya 6.12]]

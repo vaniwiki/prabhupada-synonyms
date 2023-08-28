@@ -1,5 +1,11 @@
-~~Title:gautamī~~
-{{description>the wife of Droṇa.}}
+---json
+{
+    "name":"gautamī",
+    "h1":"gautamī",
+    "title":"gautamī",
+    "description":"the wife of Droṇa."
+}
+---
 
 ==== gautamī  ====
   * the wife of Droṇa --- [[books:sb:1:7:47|SB 1.7.47]]

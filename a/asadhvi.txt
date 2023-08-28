@@ -1,5 +1,11 @@
-~~Title:asādhvī~~
-{{description>dangerously inimical to Kṛṣṇa; unfaithful.}}
+---json
+{
+    "name":"asādhvī",
+    "h1":"asādhvī",
+    "title":"asādhvī",
+    "description":"dangerously inimical to Kṛṣṇa; unfaithful."
+}
+---
 
 ==== asādhvī  ====
   * dangerously inimical to Kṛṣṇa --- [[books:cc:madhya:22:98|Madhya 22.98]]

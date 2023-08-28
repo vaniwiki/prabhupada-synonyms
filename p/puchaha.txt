@@ -1,5 +1,11 @@
-~~Title:puchaha~~
-{{description>ask Him.}}
+---json
+{
+    "name":"puchaha",
+    "h1":"puchaha",
+    "title":"puchaha",
+    "description":"ask Him."
+}
+---
 
 ==== iṅhāre puchaha  ====
   * ask Him --- [[books:cc:antya:7:105|Antya 7.105]]

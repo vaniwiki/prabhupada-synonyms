@@ -1,5 +1,11 @@
-~~Title:vṛṣasenaḥ~~
-{{description>Vṛṣasena.}}
+---json
+{
+    "name":"vṛṣasenaḥ",
+    "h1":"vṛṣasenaḥ",
+    "title":"vṛṣasenaḥ",
+    "description":"Vṛṣasena."
+}
+---
 
 ==== vṛṣasenaḥ  ====
   * Vṛṣasena --- [[books:sb:9:23:14|SB 9.23.14]]

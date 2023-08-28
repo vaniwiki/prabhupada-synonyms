@@ -1,5 +1,11 @@
-~~Title:nirmitah~~
-{{description>appointed.}}
+---json
+{
+    "name":"nirmitah",
+    "h1":"nirmitah",
+    "title":"nirmitah",
+    "description":"appointed."
+}
+---
 
 ==== nirmitaḥ  ====
   * appointed --- [[books:sb:7:2:50|SB 7.2.50]]

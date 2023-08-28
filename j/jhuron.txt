@@ -1,5 +1,11 @@
-~~Title:jhuroṅ~~
-{{description>cry.}}
+---json
+{
+    "name":"jhuroṅ",
+    "h1":"jhuroṅ",
+    "title":"jhuroṅ",
+    "description":"cry."
+}
+---
 
 ==== jhuroṅ  ====
   * cry --- [[books:cc:madhya:13:149|Madhya 13.149]]

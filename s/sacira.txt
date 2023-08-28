@@ -1,5 +1,11 @@
-~~Title:śacīra~~
-{{description>and of Śacīdevī; of mother Śacī; of Śacīmātā.}}
+---json
+{
+    "name":"śacīra",
+    "h1":"śacīra",
+    "title":"śacīra",
+    "description":"and of Śacīdevī; of mother Śacī; of Śacīmātā."
+}
+---
 
 ==== śacīra  ====
   * and of Śacīdevī --- [[books:cc:adi:13:80|Ādi 13.80]]

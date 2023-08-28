@@ -1,5 +1,11 @@
-~~Title:krodham~~
-{{description>anger.}}
+---json
+{
+    "name":"krodham",
+    "h1":"krodham",
+    "title":"krodham",
+    "description":"anger."
+}
+---
 
 ==== krodham  ====
   * anger --- [[books:bg:16:18|Bg. 16.18]], [[books:bg:18:51-53|Bg. 18.51-53]], [[books:sb:3:12:6|SB 3.12.6]], [[books:sb:3:18:13|SB 3.18.13]], [[books:sb:4:5:1|SB 4.5.1]], [[books:sb:7:15:22|SB 7.15.22]]

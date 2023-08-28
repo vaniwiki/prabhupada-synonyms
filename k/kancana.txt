@@ -1,5 +1,11 @@
-~~Title:kancana~~
-{{description>any; anyone; anyone else; by all means; some; some person; someone; whatever you like.}}
+---json
+{
+    "name":"kancana",
+    "h1":"kancana",
+    "title":"kancana",
+    "description":"any; anyone; anyone else; by all means; some; some person; someone; whatever you like."
+}
+---
 
 ==== kañcana  ====
   * any --- [[books:sb:4:10:21|SB 4.10.21]]

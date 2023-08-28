@@ -1,5 +1,11 @@
-~~Title:vyapāśritam~~
-{{description>situated.}}
+---json
+{
+    "name":"vyapāśritam",
+    "h1":"vyapāśritam",
+    "title":"vyapāśritam",
+    "description":"situated."
+}
+---
 
 ==== vyapāśritam  ====
   * situated --- [[books:sb:4:11:29|SB 4.11.29]]

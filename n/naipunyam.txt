@@ -1,5 +1,11 @@
-~~Title:naipuṇyam~~
-{{description>expertise.}}
+---json
+{
+    "name":"naipuṇyam",
+    "h1":"naipuṇyam",
+    "title":"naipuṇyam",
+    "description":"expertise."
+}
+---
 
 ==== naipuṇyam  ====
   * expertise --- [[books:sb:7:11:23|SB 7.11.23]]

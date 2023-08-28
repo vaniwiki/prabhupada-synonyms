@@ -1,5 +1,11 @@
-~~Title:abhyanandata~~
-{{description>she addressed; welcome; welcomed; welcomed properly.}}
+---json
+{
+    "name":"abhyanandata",
+    "h1":"abhyanandata",
+    "title":"abhyanandata",
+    "description":"she addressed; welcome; welcomed; welcomed properly."
+}
+---
 
 ==== abhyanandata  ====
   * she addressed --- [[books:sb:4:25:32|SB 4.25.32]]

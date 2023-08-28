@@ -1,5 +1,11 @@
-~~Title:rākhiyāchena~~
-{{description>has kept; has protected.}}
+---json
+{
+    "name":"rākhiyāchena",
+    "h1":"rākhiyāchena",
+    "title":"rākhiyāchena",
+    "description":"has kept; has protected."
+}
+---
 
 ==== rākhiyāchena  ====
   * has kept --- [[books:cc:antya:20:84|Antya 20.84]]

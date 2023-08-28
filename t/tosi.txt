@@ -1,5 +1,11 @@
-~~Title:toṣi'~~
-{{description>satisfying.}}
+---json
+{
+    "name":"toṣi'",
+    "h1":"toṣi'",
+    "title":"toṣi'",
+    "description":"satisfying."
+}
+---
 
 ==== toṣi'  ====
   * satisfying --- [[books:cc:adi:17:240|Ādi 17.240]]

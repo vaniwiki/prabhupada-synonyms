@@ -1,5 +1,11 @@
-~~Title:saṁmūḍha~~
-{{description>bewildered.}}
+---json
+{
+    "name":"saṁmūḍha",
+    "h1":"saṁmūḍha",
+    "title":"saṁmūḍha",
+    "description":"bewildered."
+}
+---
 
 ==== saṁmūḍha  ====
   * bewildered --- [[books:bg:2:7|Bg. 2.7]]

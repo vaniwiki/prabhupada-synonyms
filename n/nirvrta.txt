@@ -1,5 +1,11 @@
-~~Title:nirvrta~~
-{{description>satiated; very much pleased; with happiness.}}
+---json
+{
+    "name":"nirvrta",
+    "h1":"nirvrta",
+    "title":"nirvrta",
+    "description":"satiated; very much pleased; with happiness."
+}
+---
 
 ==== nirvṛta  ====
   * satiated --- [[books:sb:5:1:3|SB 5.1.3]]

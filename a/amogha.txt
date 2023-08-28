@@ -1,5 +1,11 @@
-~~Title:amogha~~
-{{description>Amogha; infallible; invincible; spotless, without a tinge of impurity; the son-in-law of Sārvabhauma Bhaṭṭācārya; unfailing; without fail; without failure; without sin, powerful.}}
+---json
+{
+    "name":"amogha",
+    "h1":"amogha",
+    "title":"amogha",
+    "description":"Amogha; infallible; invincible; spotless, without a tinge of impurity; the son-in-law of Sārvabhauma Bhaṭṭācārya; unfailing; without fail; without failure; without sin, powerful."
+}
+---
 
 ==== amogha  ====
   * Amogha --- [[books:cc:madhya:15:245|Madhya 15.245]], [[books:cc:madhya:15:247|Madhya 15.247]], [[books:cc:madhya:15:249|Madhya 15.249]], [[books:cc:madhya:15:250|Madhya 15.250]], [[books:cc:madhya:15:272|Madhya 15.272]], [[books:cc:madhya:15:277|Madhya 15.277]]

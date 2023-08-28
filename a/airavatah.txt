@@ -1,5 +1,11 @@
-~~Title:airāvataḥ~~
-{{description>Airāvata, the elephant of King Indra.}}
+---json
+{
+    "name":"airāvataḥ",
+    "h1":"airāvataḥ",
+    "title":"airāvataḥ",
+    "description":"Airāvata, the elephant of King Indra."
+}
+---
 
 ==== airāvataḥ  ====
   * Airāvata, the elephant of King Indra --- [[books:sb:6:11:11|SB 6.11.11]]

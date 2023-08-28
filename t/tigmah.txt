@@ -1,5 +1,11 @@
-~~Title:tigmāḥ~~
-{{description>sharp.}}
+---json
+{
+    "name":"tigmāḥ",
+    "h1":"tigmāḥ",
+    "title":"tigmāḥ",
+    "description":"sharp."
+}
+---
 
 ==== tigmāḥ  ====
   * sharp --- [[books:sb:4:10:17|SB 4.10.17]]

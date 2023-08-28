@@ -1,5 +1,11 @@
-~~Title:sambhūtaḥ~~
-{{description>whose source of birth was a lotus.}}
+---json
+{
+    "name":"sambhūtaḥ",
+    "h1":"sambhūtaḥ",
+    "title":"sambhūtaḥ",
+    "description":"whose source of birth was a lotus."
+}
+---
 
 ==== abja-sambhūtaḥ  ====
   * whose source of birth was a lotus --- [[books:sb:3:10:5|SB 3.10.5]]

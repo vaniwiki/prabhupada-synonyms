@@ -1,5 +1,11 @@
-~~Title:alarka~~
-{{description>Alarka.}}
+---json
+{
+    "name":"alarka",
+    "h1":"alarka",
+    "title":"alarka",
+    "description":"Alarka."
+}
+---
 
 ==== alarka  ====
   * Alarka --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

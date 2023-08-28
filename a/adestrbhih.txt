@@ -1,5 +1,11 @@
-~~Title:ādeṣṭṛbhiḥ~~
-{{description>those who had instructed; those who imparted unto me.}}
+---json
+{
+    "name":"ādeṣṭṛbhiḥ",
+    "h1":"ādeṣṭṛbhiḥ",
+    "title":"ādeṣṭṛbhiḥ",
+    "description":"those who had instructed; those who imparted unto me."
+}
+---
 
 ==== ādeṣṭṛbhiḥ  ====
   * those who had instructed --- [[books:sb:1:6:2|SB 1.6.2]]

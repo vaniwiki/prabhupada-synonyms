@@ -1,5 +1,11 @@
-~~Title:apūjayan~~
-{{description>glorified.}}
+---json
+{
+    "name":"apūjayan",
+    "h1":"apūjayan",
+    "title":"apūjayan",
+    "description":"glorified."
+}
+---
 
 ==== apūjayan  ====
   * glorified --- [[books:sb:6:12:5|SB 6.12.5]]

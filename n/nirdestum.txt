@@ -1,5 +1,11 @@
-~~Title:nirdeṣṭum~~
-{{description>fix.}}
+---json
+{
+    "name":"nirdeṣṭum",
+    "h1":"nirdeṣṭum",
+    "title":"nirdeṣṭum",
+    "description":"fix."
+}
+---
 
 ==== nirdeṣṭum  ====
   * fix --- [[books:sb:1:17:37|SB 1.17.37]]

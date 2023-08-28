@@ -1,5 +1,11 @@
-~~Title:kṣaṇadayā~~
-{{description>by night.}}
+---json
+{
+    "name":"kṣaṇadayā",
+    "h1":"kṣaṇadayā",
+    "title":"kṣaṇadayā",
+    "description":"by night."
+}
+---
 
 ==== kṣaṇadayā  ====
   * by night --- [[books:sb:3:3:21|SB 3.3.21]]

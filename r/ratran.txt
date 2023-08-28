@@ -1,5 +1,11 @@
-~~Title:rātrān~~
-{{description>days and nights.}}
+---json
+{
+    "name":"rātrān",
+    "h1":"rātrān",
+    "title":"rātrān",
+    "description":"days and nights."
+}
+---
 
 ==== ahaḥ-rātrān  ====
   * days and nights --- [[books:sb:4:29:54|SB 4.29.54]]

@@ -1,5 +1,11 @@
-~~Title:bhittibhiḥ~~
-{{description>foundations.}}
+---json
+{
+    "name":"bhittibhiḥ",
+    "h1":"bhittibhiḥ",
+    "title":"bhittibhiḥ",
+    "description":"foundations."
+}
+---
 
 ==== bhittibhiḥ  ====
   * foundations --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

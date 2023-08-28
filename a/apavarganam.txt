@@ -1,5 +1,11 @@
-~~Title:apavargāṇām~~
-{{description>being freed from material contamination.}}
+---json
+{
+    "name":"apavargāṇām",
+    "h1":"apavargāṇām",
+    "title":"apavargāṇām",
+    "description":"being freed from material contamination."
+}
+---
 
 ==== apavargāṇām  ====
   * being freed from material contamination --- [[books:sb:4:21:30|SB 4.21.30]]

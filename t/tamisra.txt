@@ -1,5 +1,11 @@
-~~Title:tāmisra~~
-{{description>the name of a hell.}}
+---json
+{
+    "name":"tāmisra",
+    "h1":"tāmisra",
+    "title":"tāmisra",
+    "description":"the name of a hell."
+}
+---
 
 ==== tāmisra  ====
   * the name of a hell --- [[books:sb:3:30:28|SB 3.30.28]]

@@ -1,5 +1,11 @@
-~~Title:lambita~~
-{{description>arms that reach the knees.}}
+---json
+{
+    "name":"lambita",
+    "h1":"lambita",
+    "title":"lambita",
+    "description":"arms that reach the knees."
+}
+---
 
 ==== ā-jānu-lambita-bhuja  ====
   * arms that reach the knees --- [[books:cc:adi:3:44|Ādi 3.44]]

@@ -1,5 +1,11 @@
-~~Title:kirīṭinam~~
-{{description>adorned with a crown; the Lord is decorated with a jeweled helmet; with helmet; with helmets.}}
+---json
+{
+    "name":"kirīṭinam",
+    "h1":"kirīṭinam",
+    "title":"kirīṭinam",
+    "description":"adorned with a crown; the Lord is decorated with a jeweled helmet; with helmet; with helmets."
+}
+---
 
 ==== kirīṭinam  ====
   * adorned with a crown --- [[books:sb:3:21:10|SB 3.21.10]]

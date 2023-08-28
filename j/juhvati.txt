@@ -1,5 +1,11 @@
-~~Title:juhvati~~
-{{description>execute sacrifice; offers; sacrifice; sacrifices.}}
+---json
+{
+    "name":"juhvati",
+    "h1":"juhvati",
+    "title":"juhvati",
+    "description":"execute sacrifice; offers; sacrifice; sacrifices."
+}
+---
 
 ==== juhvati  ====
   * execute sacrifice --- [[books:sb:7:15:9|SB 7.15.9]]

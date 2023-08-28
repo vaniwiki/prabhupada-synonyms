@@ -1,5 +1,11 @@
-~~Title:sevanam~~
-{{description>devotional service; dwelling; service; the service to satisfy the senses.}}
+---json
+{
+    "name":"sevanam",
+    "h1":"sevanam",
+    "title":"sevanam",
+    "description":"devotional service; dwelling; service; the service to satisfy the senses."
+}
+---
 
 ==== sevanam  ====
   * devotional service --- [[books:sb:3:29:13|SB 3.29.13]], [[books:cc:madhya:9:268|Madhya 9.268]]

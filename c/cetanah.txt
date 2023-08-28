@@ -1,5 +1,11 @@
-~~Title:cetanaḥ~~
-{{description>he whose consciousness.}}
+---json
+{
+    "name":"cetanaḥ",
+    "h1":"cetanaḥ",
+    "title":"cetanaḥ",
+    "description":"he whose consciousness."
+}
+---
 
 ==== cetanaḥ  ====
   * he whose consciousness --- [[books:sb:10:1:41|SB 10.1.41]]

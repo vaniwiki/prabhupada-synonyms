@@ -1,5 +1,11 @@
-~~Title:pūrṇamāsa~~
-{{description>of the pūrṇamāsa-yajña.}}
+---json
+{
+    "name":"pūrṇamāsa",
+    "h1":"pūrṇamāsa",
+    "title":"pūrṇamāsa",
+    "description":"of the pūrṇamāsa-yajña."
+}
+---
 
 ==== pūrṇamāsa  ====
   * of the //pūrṇamāsa-yajña// --- [[books:sb:5:7:5|SB 5.7.5]]

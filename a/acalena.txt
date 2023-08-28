@@ -1,5 +1,11 @@
-~~Title:acalena~~
-{{description>mountain; without being deviated.}}
+---json
+{
+    "name":"acalena",
+    "h1":"acalena",
+    "title":"acalena",
+    "description":"mountain; without being deviated."
+}
+---
 
 ==== acalena  ====
   * mountain --- [[books:sb:5:20:36|SB 5.20.36]]

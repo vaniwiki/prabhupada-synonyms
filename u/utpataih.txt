@@ -1,5 +1,11 @@
-~~Title:utpātaiḥ~~
-{{description>upsurges.}}
+---json
+{
+    "name":"utpātaiḥ",
+    "h1":"utpātaiḥ",
+    "title":"utpātaiḥ",
+    "description":"upsurges."
+}
+---
 
 ==== utpātaiḥ  ====
   * upsurges --- [[books:sb:1:14:21|SB 1.14.21]]

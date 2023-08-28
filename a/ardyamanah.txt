@@ -1,5 +1,11 @@
-~~Title:ardyamanah~~
-{{description>being afflicted; being overcome; merged in spiritual bliss.}}
+---json
+{
+    "name":"ardyamanah",
+    "h1":"ardyamanah",
+    "title":"ardyamanah",
+    "description":"being afflicted; being overcome; merged in spiritual bliss."
+}
+---
 
 ==== ardyamānaḥ  ====
   * being afflicted --- [[books:sb:3:28:34|SB 3.28.34]]

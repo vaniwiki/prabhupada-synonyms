@@ -1,5 +1,11 @@
-~~Title:upasamhrtah~~
-{{description>died; killed.}}
+---json
+{
+    "name":"upasamhrtah",
+    "h1":"upasamhrtah",
+    "title":"upasamhrtah",
+    "description":"died; killed."
+}
+---
 
 ==== upasaṁhṛtaḥ  ====
   * died --- [[books:sb:5:9:6|SB 5.9.6]]

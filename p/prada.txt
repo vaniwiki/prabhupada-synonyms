@@ -1,5 +1,11 @@
-~~Title:prada~~
-{{description>the giver of nectar to Vāsudeva.}}
+---json
+{
+    "name":"prada",
+    "h1":"prada",
+    "title":"prada",
+    "description":"the giver of nectar to Vāsudeva."
+}
+---
 
 ==== vāsudeva-amṛta-prada  ====
   * the giver of nectar to Vāsudeva --- [[books:cc:madhya:7:150|Madhya 7.150]]

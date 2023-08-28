@@ -1,5 +1,11 @@
-~~Title:dhaniyā~~
-{{description>of coriander seeds.}}
+---json
+{
+    "name":"dhaniyā",
+    "h1":"dhaniyā",
+    "title":"dhaniyā",
+    "description":"of coriander seeds."
+}
+---
 
 ==== dhaniyā  ====
   * of coriander seeds --- [[books:cc:antya:10:22|Antya 10.22]]

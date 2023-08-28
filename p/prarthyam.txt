@@ -1,5 +1,11 @@
-~~Title:prarthyam~~
-{{description>desirable; enviable; to be requested.}}
+---json
+{
+    "name":"prarthyam",
+    "h1":"prarthyam",
+    "title":"prarthyam",
+    "description":"desirable; enviable; to be requested."
+}
+---
 
 ==== prārthyam  ====
   * desirable --- [[books:sb:8:22:33|SB 8.22.33]]

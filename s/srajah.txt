@@ -1,5 +1,11 @@
-~~Title:srajaḥ~~
-{{description>from the flower garland; of whom the flowers; on which the flower garland.}}
+---json
+{
+    "name":"srajaḥ",
+    "h1":"srajaḥ",
+    "title":"srajaḥ",
+    "description":"from the flower garland; of whom the flowers; on which the flower garland."
+}
+---
 
 ==== srajaḥ  ====
   * from the flower garland --- [[books:cc:antya:18:25|Antya 18.25]]

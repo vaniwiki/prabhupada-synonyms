@@ -1,5 +1,11 @@
-~~Title:pratiḥ~~
-{{description>a son named Prati.}}
+---json
+{
+    "name":"pratiḥ",
+    "h1":"pratiḥ",
+    "title":"pratiḥ",
+    "description":"a son named Prati."
+}
+---
 
 ==== pratiḥ  ====
   * a son named Prati --- [[books:sb:9:17:16|SB 9.17.16]]

@@ -1,5 +1,11 @@
-~~Title:vicinvantam~~
-{{description>always thinking of.}}
+---json
+{
+    "name":"vicinvantam",
+    "h1":"vicinvantam",
+    "title":"vicinvantam",
+    "description":"always thinking of."
+}
+---
 
 ==== vicinvantam  ====
   * always thinking of --- [[books:sb:4:29:54|SB 4.29.54]]

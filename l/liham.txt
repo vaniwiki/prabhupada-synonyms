@@ -1,5 +1,11 @@
-~~Title:lihām~~
-{{description>of those who lick the honey from such a lotus flower.}}
+---json
+{
+    "name":"lihām",
+    "h1":"lihām",
+    "title":"lihām",
+    "description":"of those who lick the honey from such a lotus flower."
+}
+---
 
 ==== makaranda-lihām  ====
   * of those who lick the honey from such a lotus flower --- [[books:sb:1:16:6|SB 1.16.6]]

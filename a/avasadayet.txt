@@ -1,5 +1,11 @@
-~~Title:avasādayet~~
-{{description>put into degradation.}}
+---json
+{
+    "name":"avasādayet",
+    "h1":"avasādayet",
+    "title":"avasādayet",
+    "description":"put into degradation."
+}
+---
 
 ==== avasādayet  ====
   * put into degradation --- [[books:bg:6:5|Bg. 6.5]]

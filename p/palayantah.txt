@@ -1,5 +1,11 @@
-~~Title:pālayantaḥ~~
-{{description>keeping in order.}}
+---json
+{
+    "name":"pālayantaḥ",
+    "h1":"pālayantaḥ",
+    "title":"pālayantaḥ",
+    "description":"keeping in order."
+}
+---
 
 ==== pālayantaḥ  ====
   * keeping in order --- [[books:sb:8:9:22|SB 8.9.22]]

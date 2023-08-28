@@ -1,5 +1,11 @@
-~~Title:kaṁsam~~
-{{description>Kaṁsa; unto Kaṁsa.}}
+---json
+{
+    "name":"kaṁsam",
+    "h1":"kaṁsam",
+    "title":"kaṁsam",
+    "description":"Kaṁsa; unto Kaṁsa."
+}
+---
 
 ==== kaṁsam  ====
   * Kaṁsa --- [[books:sb:10:1:10|SB 10.1.10]]

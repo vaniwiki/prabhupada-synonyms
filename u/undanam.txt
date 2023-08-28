@@ -1,5 +1,11 @@
-~~Title:undanam~~
-{{description>softening.}}
+---json
+{
+    "name":"undanam",
+    "h1":"undanam",
+    "title":"undanam",
+    "description":"softening."
+}
+---
 
 ==== undanam  ====
   * softening --- [[books:sb:3:26:43|SB 3.26.43]]

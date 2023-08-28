@@ -1,5 +1,11 @@
-~~Title:vidyotaḥ~~
-{{description>Vidyota.}}
+---json
+{
+    "name":"vidyotaḥ",
+    "h1":"vidyotaḥ",
+    "title":"vidyotaḥ",
+    "description":"Vidyota."
+}
+---
 
 ==== vidyotaḥ  ====
   * Vidyota --- [[books:sb:6:6:5|SB 6.6.5]]

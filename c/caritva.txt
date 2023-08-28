@@ -1,5 +1,11 @@
-~~Title:caritvā~~
-{{description>after executing; performing; wandering.}}
+---json
+{
+    "name":"caritvā",
+    "h1":"caritvā",
+    "title":"caritvā",
+    "description":"after executing; performing; wandering."
+}
+---
 
 ==== caritvā  ====
   * after executing --- [[books:sb:9:16:1|SB 9.16.1]]

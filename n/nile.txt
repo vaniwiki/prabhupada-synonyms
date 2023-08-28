@@ -1,5 +1,11 @@
-~~Title:nile~~
-{{description>if I take someone.}}
+---json
+{
+    "name":"nile",
+    "h1":"nile",
+    "title":"nile",
+    "description":"if I take someone."
+}
+---
 
 ==== eka-jane nile  ====
   * if I take someone --- [[books:cc:madhya:17:13|Madhya 17.13]]

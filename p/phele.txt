@@ -1,5 +1,11 @@
-~~Title:phele~~
-{{description>breaks down; distributes; throws.}}
+---json
+{
+    "name":"phele",
+    "h1":"phele",
+    "title":"phele",
+    "description":"breaks down; distributes; throws."
+}
+---
 
 ==== phele  ====
   * breaks down --- [[books:cc:madhya:15:33|Madhya 15.33]]

@@ -1,5 +1,11 @@
-~~Title:mala~~
-{{description>dirty; dirty things; sins.}}
+---json
+{
+    "name":"mala",
+    "h1":"mala",
+    "title":"mala",
+    "description":"dirty; dirty things; sins."
+}
+---
 
 ==== mala  ====
   * dirty --- [[books:sb:4:13:8-9|SB 4.13.8-9]]

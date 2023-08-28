@@ -1,5 +1,11 @@
-~~Title:aveśeṣa~~
-{{description>remainders.}}
+---json
+{
+    "name":"aveśeṣa",
+    "h1":"aveśeṣa",
+    "title":"aveśeṣa",
+    "description":"remainders."
+}
+---
 
 ==== aveśeṣa  ====
   * remainders --- [[books:cc:antya:20:74|Antya 20.74]]

@@ -1,5 +1,11 @@
-~~Title:haviṣmān~~
-{{description>Haviṣmān.}}
+---json
+{
+    "name":"haviṣmān",
+    "h1":"haviṣmān",
+    "title":"haviṣmān",
+    "description":"Haviṣmān."
+}
+---
 
 ==== haviṣmān  ====
   * Haviṣmān --- [[books:sb:8:13:22|SB 8.13.22]]

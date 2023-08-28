@@ -1,5 +1,11 @@
-~~Title:vada~~
-{{description>kindly describe; kindly explain; kindly instruct; kindly say; kindly speak; kindly tell; kindly tell us; please describe; please explain; please speak; please tell; say; speak; tell.}}
+---json
+{
+    "name":"vada",
+    "h1":"vada",
+    "title":"vada",
+    "description":"kindly describe; kindly explain; kindly instruct; kindly say; kindly speak; kindly tell; kindly tell us; please describe; please explain; please speak; please tell; say; speak; tell."
+}
+---
 
 ==== vada  ====
   * kindly describe --- [[books:sb:3:7:27|SB 3.7.27]]

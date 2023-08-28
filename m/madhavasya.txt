@@ -1,5 +1,11 @@
-~~Title:mādhavasya~~
-{{description>of Mādhava (Kṛṣṇa); of Śrī Kṛṣṇa.}}
+---json
+{
+    "name":"mādhavasya",
+    "h1":"mādhavasya",
+    "title":"mādhavasya",
+    "description":"of Mādhava (Kṛṣṇa); of Śrī Kṛṣṇa."
+}
+---
 
 ==== mādhavasya  ====
   * of Mādhava (Kṛṣṇa) --- [[books:sb:1:15:18|SB 1.15.18]]

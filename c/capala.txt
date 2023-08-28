@@ -1,5 +1,11 @@
-~~Title:capala~~
-{{description>impotence.}}
+---json
+{
+    "name":"capala",
+    "h1":"capala",
+    "title":"capala",
+    "description":"impotence."
+}
+---
 
 ==== cāpala  ====
   * impotence --- [[books:cc:madhya:2:62|Madhya 2.62]]

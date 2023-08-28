@@ -1,5 +1,11 @@
-~~Title:niṣpāva~~
-{{description>of grain such as wheat.}}
+---json
+{
+    "name":"niṣpāva",
+    "h1":"niṣpāva",
+    "title":"niṣpāva",
+    "description":"of grain such as wheat."
+}
+---
 
 ==== niṣpāva-ādīnām  ====
   * of grain such as wheat --- [[books:sb:5:21:2|SB 5.21.2]]

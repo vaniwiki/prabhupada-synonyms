@@ -1,5 +1,11 @@
-~~Title:pāṇau~~
-{{description>in his hands; in the hands; taking in hand.}}
+---json
+{
+    "name":"pāṇau",
+    "h1":"pāṇau",
+    "title":"pāṇau",
+    "description":"in his hands; in the hands; taking in hand."
+}
+---
 
 ==== pāṇau  ====
   * in his hands --- [[books:sb:4:18:12|SB 4.18.12]]

@@ -1,5 +1,11 @@
-~~Title:vāyum~~
-{{description>atmosphere; the air; the air portion of the body; the air which goes up; the wind; wind.}}
+---json
+{
+    "name":"vāyum",
+    "h1":"vāyum",
+    "title":"vāyum",
+    "description":"atmosphere; the air; the air portion of the body; the air which goes up; the wind; wind."
+}
+---
 
 ==== vāyum  ====
   * atmosphere --- [[books:sb:2:2:28|SB 2.2.28]]

@@ -1,5 +1,11 @@
-~~Title:likhaye~~
-{{description>writes.}}
+---json
+{
+    "name":"likhaye",
+    "h1":"likhaye",
+    "title":"likhaye",
+    "description":"writes."
+}
+---
 
 ==== likhaye  ====
   * writes --- [[books:cc:antya:18:14|Antya 18.14]]

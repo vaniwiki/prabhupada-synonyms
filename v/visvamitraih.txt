@@ -1,5 +1,11 @@
-~~Title:viśvāmitraiḥ~~
-{{description>by the sons of Viśvāmitra.}}
+---json
+{
+    "name":"viśvāmitraiḥ",
+    "h1":"viśvāmitraiḥ",
+    "title":"viśvāmitraiḥ",
+    "description":"by the sons of Viśvāmitra."
+}
+---
 
 ==== viśvāmitraiḥ  ====
   * by the sons of Viśvāmitra --- [[books:sb:9:16:37|SB 9.16.37]]

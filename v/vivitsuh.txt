@@ -1,5 +1,11 @@
-~~Title:vivitsuḥ~~
-{{description>desiring to know about him (the saintly person).}}
+---json
+{
+    "name":"vivitsuḥ",
+    "h1":"vivitsuḥ",
+    "title":"vivitsuḥ",
+    "description":"desiring to know about him (the saintly person)."
+}
+---
 
 ==== vivitsuḥ  ====
   * desiring to know about him (the saintly person) --- [[books:sb:7:13:15|SB 7.13.15]]

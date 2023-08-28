@@ -1,5 +1,11 @@
-~~Title:nāradere~~
-{{description>spoke to Nārada Muni.}}
+---json
+{
+    "name":"nāradere",
+    "h1":"nāradere",
+    "title":"nāradere",
+    "description":"spoke to Nārada Muni."
+}
+---
 
 ==== nāradere kahe  ====
   * spoke to Nārada Muni --- [[books:cc:madhya:24:277|Madhya 24.277]]

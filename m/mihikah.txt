@@ -1,5 +1,11 @@
-~~Title:mihikāḥ~~
-{{description>particles of snow.}}
+---json
+{
+    "name":"mihikāḥ",
+    "h1":"mihikāḥ",
+    "title":"mihikāḥ",
+    "description":"particles of snow."
+}
+---
 
 ==== mihikāḥ  ====
   * particles of snow --- [[books:cc:madhya:21:11|Madhya 21.11]]

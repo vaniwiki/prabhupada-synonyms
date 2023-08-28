@@ -1,5 +1,11 @@
-~~Title:nūpura~~
-{{description>ankle bells; of ankle bells; of the ankle bells; ringing leglets.}}
+---json
+{
+    "name":"nūpura",
+    "h1":"nūpura",
+    "title":"nūpura",
+    "description":"ankle bells; of ankle bells; of the ankle bells; ringing leglets."
+}
+---
 
 ==== nūpura  ====
   * ankle bells --- [[books:sb:4:24:47-48|SB 4.24.47-48]], [[books:sb:5:3:3|SB 5.3.3]], [[books:sb:6:4:35-39|SB 6.4.35-39]], [[books:cc:adi:5:186|Ādi 5.186]], [[books:cc:adi:14:78|Ādi 14.78]]

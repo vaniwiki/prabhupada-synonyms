@@ -1,5 +1,11 @@
-~~Title:bhūpa~~
-{{description>all the demoniac kings.}}
+---json
+{
+    "name":"bhūpa",
+    "h1":"bhūpa",
+    "title":"bhūpa",
+    "description":"all the demoniac kings."
+}
+---
 
 ==== bhūpa-camvaḥ  ====
   * all the demoniac kings --- [[books:sb:9:24:67|SB 9.24.67]]

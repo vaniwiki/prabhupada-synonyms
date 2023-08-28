@@ -1,5 +1,11 @@
-~~Title:vahite~~
-{{description>to carry.}}
+---json
+{
+    "name":"vahite",
+    "h1":"vahite",
+    "title":"vahite",
+    "description":"to carry."
+}
+---
 
 ==== vahite  ====
   * to carry --- [[books:cc:madhya:4:152|Madhya 4.152]]

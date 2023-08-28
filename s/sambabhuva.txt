@@ -1,5 +1,11 @@
-~~Title:sambabhūva~~
-{{description>so he became.}}
+---json
+{
+    "name":"sambabhūva",
+    "h1":"sambabhūva",
+    "title":"sambabhūva",
+    "description":"so he became."
+}
+---
 
 ==== sambabhūva  ====
   * so he became --- [[books:sb:10:2:17|SB 10.2.17]]

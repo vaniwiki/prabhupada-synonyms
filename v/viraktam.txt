@@ -1,5 +1,11 @@
-~~Title:viraktam~~
-{{description>have no attachment; indifferent.}}
+---json
+{
+    "name":"viraktam",
+    "h1":"viraktam",
+    "title":"viraktam",
+    "description":"have no attachment; indifferent."
+}
+---
 
 ==== viraktam  ====
   * have no attachment --- [[books:sb:3:16:7|SB 3.16.7]]

@@ -1,5 +1,11 @@
-~~Title:vivāsasaḥ~~
-{{description>completely naked.}}
+---json
+{
+    "name":"vivāsasaḥ",
+    "h1":"vivāsasaḥ",
+    "title":"vivāsasaḥ",
+    "description":"completely naked."
+}
+---
 
 ==== vivāsasaḥ  ====
   * completely naked --- [[books:sb:8:10:48|SB 8.10.48]]

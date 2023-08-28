@@ -1,5 +1,11 @@
-~~Title:sanat~~
-{{description>from the Personality of Godhead.}}
+---json
+{
+    "name":"sanat",
+    "h1":"sanat",
+    "title":"sanat",
+    "description":"from the Personality of Godhead."
+}
+---
 
 ==== sanāt  ====
   * from the Personality of Godhead --- [[books:sb:2:7:5|SB 2.7.5]]

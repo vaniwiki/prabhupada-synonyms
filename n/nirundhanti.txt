@@ -1,5 +1,11 @@
-~~Title:nirundhanti~~
-{{description>confine.}}
+---json
+{
+    "name":"nirundhanti",
+    "h1":"nirundhanti",
+    "title":"nirundhanti",
+    "description":"confine."
+}
+---
 
 ==== nirundhanti  ====
   * confine --- [[books:sb:5:26:34|SB 5.26.34]]

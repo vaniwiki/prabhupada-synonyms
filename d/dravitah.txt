@@ -1,5 +1,11 @@
-~~Title:drāvitāḥ~~
-{{description>chased.}}
+---json
+{
+    "name":"drāvitāḥ",
+    "h1":"drāvitāḥ",
+    "title":"drāvitāḥ",
+    "description":"chased."
+}
+---
 
 ==== drāvitāḥ  ====
   * chased --- [[books:sb:3:18:11|SB 3.18.11]]

@@ -1,5 +1,11 @@
-~~Title:asavah~~
-{{description>life; life airs; life breath; purpose of living; senses; the life airs; the senses.}}
+---json
+{
+    "name":"asavah",
+    "h1":"asavah",
+    "title":"asavah",
+    "description":"life; life airs; life breath; purpose of living; senses; the life airs; the senses."
+}
+---
 
 ==== asavaḥ  ====
   * life --- [[books:sb:2:8:26|SB 2.8.26]]

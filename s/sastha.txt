@@ -1,5 +1,11 @@
-~~Title:ṣaṣṭha~~
-{{description>and the sixth; sixth.}}
+---json
+{
+    "name":"ṣaṣṭha",
+    "h1":"ṣaṣṭha",
+    "title":"ṣaṣṭha",
+    "description":"and the sixth; sixth."
+}
+---
 
 ==== ṣaṣṭha  ====
   * and the sixth --- [[books:cc:adi:1:26|Ādi 1.26]]

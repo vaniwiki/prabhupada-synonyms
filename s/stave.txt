@@ -1,5 +1,11 @@
-~~Title:stave~~
-{{description>in the prayer.}}
+---json
+{
+    "name":"stave",
+    "h1":"stave",
+    "title":"stave",
+    "description":"in the prayer."
+}
+---
 
 ==== stave  ====
   * in the prayer --- [[books:cc:adi:17:91|Ādi 17.91]]

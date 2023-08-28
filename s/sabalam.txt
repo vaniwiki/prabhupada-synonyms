@@ -1,5 +1,11 @@
-~~Title:śabalam~~
-{{description>pale.}}
+---json
+{
+    "name":"śabalam",
+    "h1":"śabalam",
+    "title":"śabalam",
+    "description":"pale."
+}
+---
 
 ==== śabalam  ====
   * pale --- [[books:sb:6:14:21|SB 6.14.21]]

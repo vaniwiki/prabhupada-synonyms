@@ -1,5 +1,11 @@
-~~Title:udbhava~~
-{{description>creation; of the creation.}}
+---json
+{
+    "name":"udbhava",
+    "h1":"udbhava",
+    "title":"udbhava",
+    "description":"creation; of the creation."
+}
+---
 
 ==== udbhava  ====
   * creation --- [[books:sb:2:8:10|SB 2.8.10]], [[books:sb:3:5:22|SB 3.5.22]], [[books:sb:3:9:16|SB 3.9.16]], [[books:sb:3:16:37|SB 3.16.37]], [[books:sb:4:1:26-27|SB 4.1.26-27]], [[books:sb:4:7:39|SB 4.7.39]]

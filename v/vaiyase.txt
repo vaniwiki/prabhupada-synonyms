@@ -1,5 +1,11 @@
-~~Title:vaiyāse~~
-{{description>O Vidura.}}
+---json
+{
+    "name":"vaiyāse",
+    "h1":"vaiyāse",
+    "title":"vaiyāse",
+    "description":"O Vidura."
+}
+---
 
 ==== vaiyāse  ====
   * O Vidura --- [[books:sb:3:22:37|SB 3.22.37]]

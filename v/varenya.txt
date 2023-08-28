@@ -1,5 +1,11 @@
-~~Title:vareṇya~~
-{{description>O most worshipable; O worshipable one.}}
+---json
+{
+    "name":"vareṇya",
+    "h1":"vareṇya",
+    "title":"vareṇya",
+    "description":"O most worshipable; O worshipable one."
+}
+---
 
 ==== vareṇya  ====
   * O most worshipable --- [[books:sb:8:16:36|SB 8.16.36]]

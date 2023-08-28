@@ -1,5 +1,11 @@
-~~Title:suvarṇa~~
-{{description>gold; golden; of gold.}}
+---json
+{
+    "name":"suvarṇa",
+    "h1":"suvarṇa",
+    "title":"suvarṇa",
+    "description":"gold; golden; of gold."
+}
+---
 
 ==== suvarṇa  ====
   * gold --- [[books:cc:adi:13:116|Ādi 13.116]]

@@ -1,5 +1,11 @@
-~~Title:kvaṇadbhyām~~
-{{description>tinkling.}}
+---json
+{
+    "name":"kvaṇadbhyām",
+    "h1":"kvaṇadbhyām",
+    "title":"kvaṇadbhyām",
+    "description":"tinkling."
+}
+---
 
 ==== kvaṇadbhyām  ====
   * tinkling --- [[books:sb:4:25:23|SB 4.25.23]]

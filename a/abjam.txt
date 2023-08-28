@@ -1,5 +1,11 @@
-~~Title:abjam~~
-{{description>a lotus flower; lotus flower; lotuslike; the lotus.}}
+---json
+{
+    "name":"abjam",
+    "h1":"abjam",
+    "title":"abjam",
+    "description":"a lotus flower; lotus flower; lotuslike; the lotus."
+}
+---
 
 ==== abjam  ====
   * a lotus flower --- [[books:sb:3:15:40|SB 3.15.40]]

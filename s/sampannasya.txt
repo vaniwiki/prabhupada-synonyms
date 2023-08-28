@@ -1,5 +1,11 @@
-~~Title:sampannasya~~
-{{description>endowed.}}
+---json
+{
+    "name":"sampannasya",
+    "h1":"sampannasya",
+    "title":"sampannasya",
+    "description":"endowed."
+}
+---
 
 ==== sampannasya  ====
   * endowed --- [[books:sb:6:14:12|SB 6.14.12]]

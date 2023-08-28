@@ -1,5 +1,11 @@
-~~Title:valayān~~
-{{description>the arm ornaments.}}
+---json
+{
+    "name":"valayān",
+    "h1":"valayān",
+    "title":"valayān",
+    "description":"the arm ornaments."
+}
+---
 
 ==== bāhu-valayān  ====
   * the arm ornaments --- [[books:sb:3:28:27|SB 3.28.27]]

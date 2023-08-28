@@ -1,5 +1,11 @@
-~~Title:upajāñā~~
-{{description>manifesting.}}
+---json
+{
+    "name":"upajāñā",
+    "h1":"upajāñā",
+    "title":"upajāñā",
+    "description":"manifesting."
+}
+---
 
 ==== upajāñā  ====
   * manifesting --- [[books:cc:antya:4:195|Antya 4.195]]

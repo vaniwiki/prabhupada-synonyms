@@ -1,5 +1,11 @@
-~~Title:trai~~
-{{description>the three modes of nature.}}
+---json
+{
+    "name":"trai",
+    "h1":"trai",
+    "title":"trai",
+    "description":"the three modes of nature."
+}
+---
 
 ==== trai-guṇya  ====
   * the three modes of nature --- [[books:sb:6:1:2|SB 6.1.2]]

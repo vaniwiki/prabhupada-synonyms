@@ -1,5 +1,11 @@
-~~Title:dvimīḍhasya~~
-{{description>the son of Dvimīḍha.}}
+---json
+{
+    "name":"dvimīḍhasya",
+    "h1":"dvimīḍhasya",
+    "title":"dvimīḍhasya",
+    "description":"the son of Dvimīḍha."
+}
+---
 
 ==== dvimīḍhasya  ====
   * the son of Dvimīḍha --- [[books:sb:9:21:27|SB 9.21.27]]

@@ -1,5 +1,11 @@
-~~Title:sutasya~~
-{{description>of her child; of her son; of the son.}}
+---json
+{
+    "name":"sutasya",
+    "h1":"sutasya",
+    "title":"sutasya",
+    "description":"of her child; of her son; of the son."
+}
+---
 
 ==== sutasya  ====
   * of her child --- [[books:sb:10:7:6|SB 10.7.6]]

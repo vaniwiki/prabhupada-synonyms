@@ -1,5 +1,11 @@
-~~Title:bahu~~
-{{description>a great quantity; a large quantity; a large quantity of; a very large quantity of; all kinds of; by the great yogis; great; greatly; highly; many; much; much pleasure; so much; various; various kinds; very; very large quantity; very much; with much.}}
+---json
+{
+    "name":"bahu",
+    "h1":"bahu",
+    "title":"bahu",
+    "description":"a great quantity; a large quantity; a large quantity of; a very large quantity of; all kinds of; by the great yogis; great; greatly; highly; many; much; much pleasure; so much; various; various kinds; very; very large quantity; very much; with much."
+}
+---
 
 ==== bahu  ====
   * a great quantity --- [[books:cc:madhya:4:60|Madhya 4.60]]

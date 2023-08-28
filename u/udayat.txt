@@ -1,5 +1,11 @@
-~~Title:udayāt~~
-{{description>by rising.}}
+---json
+{
+    "name":"udayāt",
+    "h1":"udayāt",
+    "title":"udayāt",
+    "description":"by rising."
+}
+---
 
 ==== udayāt  ====
   * by rising --- [[books:cc:antya:3:181|Antya 3.181]]

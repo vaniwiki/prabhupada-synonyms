@@ -1,5 +1,11 @@
-~~Title:sthūlam~~
-{{description>cosmic manifestation; fat; gross.}}
+---json
+{
+    "name":"sthūlam",
+    "h1":"sthūlam",
+    "title":"sthūlam",
+    "description":"cosmic manifestation; fat; gross."
+}
+---
 
 ==== sthūlam  ====
   * cosmic manifestation --- [[books:sb:7:3:33|SB 7.3.33]]

@@ -1,5 +1,11 @@
-~~Title:karoṣi~~
-{{description>You consider; you do.}}
+---json
+{
+    "name":"karoṣi",
+    "h1":"karoṣi",
+    "title":"karoṣi",
+    "description":"You consider; you do."
+}
+---
 
 ==== karoṣi  ====
   * You consider --- [[books:sb:4:20:28|SB 4.20.28]]

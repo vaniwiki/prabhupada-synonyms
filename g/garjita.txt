@@ -1,5 +1,11 @@
-~~Title:garjita~~
-{{description>conquering the vibrations of new clouds.}}
+---json
+{
+    "name":"garjita",
+    "h1":"garjita",
+    "title":"garjita",
+    "description":"conquering the vibrations of new clouds."
+}
+---
 
 ==== nava-abhra-garjita jini'  ====
   * conquering the vibrations of new clouds --- [[books:cc:antya:19:42|Antya 19.42]]

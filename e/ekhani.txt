@@ -1,5 +1,11 @@
-~~Title:ekhani~~
-{{description>immediately; just now.}}
+---json
+{
+    "name":"ekhani",
+    "h1":"ekhani",
+    "title":"ekhani",
+    "description":"immediately; just now."
+}
+---
 
 ==== ekhani  ====
   * immediately --- [[books:cc:madhya:18:174|Madhya 18.174]]

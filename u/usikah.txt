@@ -1,5 +1,11 @@
-~~Title:uśikaḥ~~
-{{description>Uśika.}}
+---json
+{
+    "name":"uśikaḥ",
+    "h1":"uśikaḥ",
+    "title":"uśikaḥ",
+    "description":"Uśika."
+}
+---
 
 ==== uśikaḥ  ====
   * Uśika --- [[books:sb:9:24:2|SB 9.24.2]]

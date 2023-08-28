@@ -1,5 +1,11 @@
-~~Title:upekṣā~~
-{{description>neglecting them; negligence; of neglecting; rejection.}}
+---json
+{
+    "name":"upekṣā",
+    "h1":"upekṣā",
+    "title":"upekṣā",
+    "description":"neglecting them; negligence; of neglecting; rejection."
+}
+---
 
 ==== upekṣā  ====
   * neglecting them --- [[books:cc:adi:7:44|Ādi 7.44]]

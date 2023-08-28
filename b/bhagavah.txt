@@ -1,5 +1,11 @@
-~~Title:bhagavaḥ~~
-{{description>O most powerful Śukadeva Gosvāmī.}}
+---json
+{
+    "name":"bhagavaḥ",
+    "h1":"bhagavaḥ",
+    "title":"bhagavaḥ",
+    "description":"O most powerful Śukadeva Gosvāmī."
+}
+---
 
 ==== bhagavaḥ  ====
   * O most powerful Śukadeva Gosvāmī --- [[books:sb:5:6:1|SB 5.6.1]]

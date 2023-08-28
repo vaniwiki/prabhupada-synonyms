@@ -1,5 +1,11 @@
-~~Title:deśera~~
-{{description>of countries; of the countries.}}
+---json
+{
+    "name":"deśera",
+    "h1":"deśera",
+    "title":"deśera",
+    "description":"of countries; of the countries."
+}
+---
 
 ==== deśera  ====
   * of countries --- [[books:cc:madhya:17:51|Madhya 17.51]]

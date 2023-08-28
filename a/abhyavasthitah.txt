@@ -1,5 +1,11 @@
-~~Title:abhyavasthitaḥ~~
-{{description>situated.}}
+---json
+{
+    "name":"abhyavasthitaḥ",
+    "h1":"abhyavasthitaḥ",
+    "title":"abhyavasthitaḥ",
+    "description":"situated."
+}
+---
 
 ==== abhyavasthitaḥ  ====
   * situated --- [[books:sb:5:24:3|SB 5.24.3]]

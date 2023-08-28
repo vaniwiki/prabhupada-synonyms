@@ -1,5 +1,11 @@
-~~Title:śrayate~~
-{{description>accepts; he takes shelter of; remain in; takes shelter of.}}
+---json
+{
+    "name":"śrayate",
+    "h1":"śrayate",
+    "title":"śrayate",
+    "description":"accepts; he takes shelter of; remain in; takes shelter of."
+}
+---
 
 ==== śrayate  ====
   * accepts --- [[books:sb:10:2:34|SB 10.2.34]]

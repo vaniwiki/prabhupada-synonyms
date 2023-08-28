@@ -1,5 +1,11 @@
-~~Title:rasāyām~~
-{{description>and in the lower planetary systems; within the water.}}
+---json
+{
+    "name":"rasāyām",
+    "h1":"rasāyām",
+    "title":"rasāyām",
+    "description":"and in the lower planetary systems; within the water."
+}
+---
 
 ==== rasāyām  ====
   * and in the lower planetary systems --- [[books:sb:6:11:22|SB 6.11.22]]

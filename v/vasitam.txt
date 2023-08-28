@@ -1,5 +1,11 @@
-~~Title:vāsitām~~
-{{description>to a female elephant able to conceive pregnancy.}}
+---json
+{
+    "name":"vāsitām",
+    "h1":"vāsitām",
+    "title":"vāsitām",
+    "description":"to a female elephant able to conceive pregnancy."
+}
+---
 
 ==== vāsitām  ====
   * to a female elephant able to conceive pregnancy --- [[books:sb:8:12:32|SB 8.12.32]]

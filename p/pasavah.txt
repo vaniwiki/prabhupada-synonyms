@@ -1,5 +1,11 @@
-~~Title:paśavaḥ~~
-{{description>animals; beastly living being; cattle; domestic animals like cows, horses, asses, cats and dogs; four-legged animals (horses, sheep, cows, hogs, etc.); quadrupeds; the animals or the sacrificial ingredients; the cattle.}}
+---json
+{
+    "name":"paśavaḥ",
+    "h1":"paśavaḥ",
+    "title":"paśavaḥ",
+    "description":"animals; beastly living being; cattle; domestic animals like cows, horses, asses, cats and dogs; four-legged animals (horses, sheep, cows, hogs, etc.); quadrupeds; the animals or the sacrificial ingredients; the cattle."
+}
+---
 
 ==== paśavaḥ  ====
   * animals --- [[books:sb:3:10:22|SB 3.10.22]], [[books:sb:9:19:13|SB 9.19.13]]

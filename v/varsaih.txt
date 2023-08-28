@@ -1,5 +1,11 @@
-~~Title:varṣaiḥ~~
-{{description>by the showers; thousands of years.}}
+---json
+{
+    "name":"varṣaiḥ",
+    "h1":"varṣaiḥ",
+    "title":"varṣaiḥ",
+    "description":"by the showers; thousands of years."
+}
+---
 
 ==== varṣaiḥ  ====
   * by the showers --- [[books:sb:1:11:27|SB 1.11.27]]

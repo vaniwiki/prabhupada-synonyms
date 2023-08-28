@@ -1,5 +1,11 @@
-~~Title:guruṣu~~
-{{description>unto the spiritual masters.}}
+---json
+{
+    "name":"guruṣu",
+    "h1":"guruṣu",
+    "title":"guruṣu",
+    "description":"unto the spiritual masters."
+}
+---
 
 ==== guruṣu  ====
   * unto the spiritual masters --- [[books:sb:7:4:31-32|SB 7.4.31-32]]

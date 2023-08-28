@@ -1,5 +1,11 @@
-~~Title:ṭheke~~
-{{description>collide.}}
+---json
+{
+    "name":"ṭheke",
+    "h1":"ṭheke",
+    "title":"ṭheke",
+    "description":"collide."
+}
+---
 
 ==== ṭheke  ====
   * collide --- [[books:cc:antya:18:94|Antya 18.94]]

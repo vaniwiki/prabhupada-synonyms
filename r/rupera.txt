@@ -1,5 +1,11 @@
-~~Title:rūpera~~
-{{description>and of Rūpa Gosvāmī; of Rūpa Gosvāmī; of Śrīla Rūpa Gosvāmī.}}
+---json
+{
+    "name":"rūpera",
+    "h1":"rūpera",
+    "title":"rūpera",
+    "description":"and of Rūpa Gosvāmī; of Rūpa Gosvāmī; of Śrīla Rūpa Gosvāmī."
+}
+---
 
 ==== rūpera  ====
   * and of Rūpa Gosvāmī --- [[books:cc:antya:1:63|Antya 1.63]]

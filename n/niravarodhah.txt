@@ -1,5 +1,11 @@
-~~Title:niravarodhaḥ~~
-{{description>without hesitation.}}
+---json
+{
+    "name":"niravarodhaḥ",
+    "h1":"niravarodhaḥ",
+    "title":"niravarodhaḥ",
+    "description":"without hesitation."
+}
+---
 
 ==== niravarodhaḥ  ====
   * without hesitation --- [[books:sb:5:14:31|SB 5.14.31]]

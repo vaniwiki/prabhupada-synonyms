@@ -1,5 +1,11 @@
-~~Title:puṣpita~~
-{{description>blooming with flowers; full of flowers.}}
+---json
+{
+    "name":"puṣpita",
+    "h1":"puṣpita",
+    "title":"puṣpita",
+    "description":"blooming with flowers; full of flowers."
+}
+---
 
 ==== puṣpita  ====
   * blooming with flowers --- [[books:cc:madhya:13:173|Madhya 13.173]]

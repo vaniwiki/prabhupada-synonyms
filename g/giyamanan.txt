@@ -1,5 +1,11 @@
-~~Title:gīyamānān~~
-{{description>when they were being described.}}
+---json
+{
+    "name":"gīyamānān",
+    "h1":"gīyamānān",
+    "title":"gīyamānān",
+    "description":"when they were being described."
+}
+---
 
 ==== gīyamānān  ====
   * when they were being described --- [[books:sb:9:14:15-16|SB 9.14.15-16]]

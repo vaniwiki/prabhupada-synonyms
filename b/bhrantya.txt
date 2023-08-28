@@ -1,5 +1,11 @@
-~~Title:bhrāntyā~~
-{{description>foolishly; mistakenly.}}
+---json
+{
+    "name":"bhrāntyā",
+    "h1":"bhrāntyā",
+    "title":"bhrāntyā",
+    "description":"foolishly; mistakenly."
+}
+---
 
 ==== bhrāntyā  ====
   * foolishly --- [[books:sb:4:19:24-25|SB 4.19.24-25]]

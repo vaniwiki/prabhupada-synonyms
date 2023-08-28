@@ -1,5 +1,11 @@
-~~Title:svarita~~
-{{description>of verbs having an indicatory ñ or a svarita accent.}}
+---json
+{
+    "name":"svarita",
+    "h1":"svarita",
+    "title":"svarita",
+    "description":"of verbs having an indicatory ñ or a svarita accent."
+}
+---
 
 ==== svarita-ñitaḥ  ====
   * of verbs having an indicatory //ñ// or a //svarita// accent --- [[books:cc:madhya:24:26|Madhya 24.26]]

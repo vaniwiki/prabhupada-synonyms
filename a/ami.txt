@@ -1,5 +1,11 @@
-~~Title:ami~~
-{{description>all of them; all these; all those; and all those; these; those (who); those.}}
+---json
+{
+    "name":"ami",
+    "h1":"ami",
+    "title":"ami",
+    "description":"all of them; all these; all those; and all those; these; those (who); those."
+}
+---
 
 ==== amī  ====
   * all of them --- [[books:sb:4:21:36|SB 4.21.36]]

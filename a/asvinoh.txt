@@ -1,5 +1,11 @@
-~~Title:aśvinoḥ~~
-{{description>of Aśvinī-kumāra; of the Aśvinī-kumāra demigods; of the Aśvinī-kumāras.}}
+---json
+{
+    "name":"aśvinoḥ",
+    "h1":"aśvinoḥ",
+    "title":"aśvinoḥ",
+    "description":"of Aśvinī-kumāra; of the Aśvinī-kumāra demigods; of the Aśvinī-kumāras."
+}
+---
 
 ==== aśvinoḥ  ====
   * of Aśvinī-kumāra --- [[books:sb:4:7:5|SB 4.7.5]]

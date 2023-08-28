@@ -1,5 +1,11 @@
-~~Title:nare~~
-{{description>unto a man.}}
+---json
+{
+    "name":"nare",
+    "h1":"nare",
+    "title":"nare",
+    "description":"unto a man."
+}
+---
 
 ==== nare  ====
   * unto a man --- [[books:iso:2|Īśo 2]]

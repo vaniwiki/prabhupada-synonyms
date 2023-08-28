@@ -1,5 +1,11 @@
-~~Title:ahaṅkārasya~~
-{{description>accepted under false ego.}}
+---json
+{
+    "name":"ahaṅkārasya",
+    "h1":"ahaṅkārasya",
+    "title":"ahaṅkārasya",
+    "description":"accepted under false ego."
+}
+---
 
 ==== sa-ahaṅkārasya  ====
   * accepted under false ego --- [[books:sb:3:27:16|SB 3.27.16]]

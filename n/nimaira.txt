@@ -1,5 +1,11 @@
-~~Title:nimāira~~
-{{description>of Nimāi.}}
+---json
+{
+    "name":"nimāira",
+    "h1":"nimāira",
+    "title":"nimāira",
+    "description":"of Nimāi."
+}
+---
 
 ==== nimāira  ====
   * of Nimāi --- [[books:cc:madhya:15:56|Madhya 15.56]]

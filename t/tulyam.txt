@@ -1,5 +1,11 @@
-~~Title:tulyam~~
-{{description>equal.}}
+---json
+{
+    "name":"tulyam",
+    "h1":"tulyam",
+    "title":"tulyam",
+    "description":"equal."
+}
+---
 
 ==== tulyam  ====
   * equal --- [[books:sb:4:21:26|SB 4.21.26]], [[books:cc:madhya:9:32|Madhya 9.32]]

@@ -1,5 +1,11 @@
-~~Title:pratyavarudhya~~
-{{description>by regaining consciousness.}}
+---json
+{
+    "name":"pratyavarudhya",
+    "h1":"pratyavarudhya",
+    "title":"pratyavarudhya",
+    "description":"by regaining consciousness."
+}
+---
 
 ==== pratyavarudhya  ====
   * by regaining consciousness --- [[books:sb:2:2:1|SB 2.2.1]]

@@ -1,5 +1,11 @@
-~~Title:paṭhan~~
-{{description>by reading; by recitation, repeated reading, etc; reciting; studying thoroughly.}}
+---json
+{
+    "name":"paṭhan",
+    "h1":"paṭhan",
+    "title":"paṭhan",
+    "description":"by reading; by recitation, repeated reading, etc; reciting; studying thoroughly."
+}
+---
 
 ==== paṭhan  ====
   * by reading --- [[books:sb:4:23:32|SB 4.23.32]]

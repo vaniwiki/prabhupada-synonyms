@@ -1,5 +1,11 @@
-~~Title:sambala~~
-{{description>with the necessary expenditure.}}
+---json
+{
+    "name":"sambala",
+    "h1":"sambala",
+    "title":"sambala",
+    "description":"with the necessary expenditure."
+}
+---
 
 ==== sambala-sahite  ====
   * with the necessary expenditure --- [[books:cc:madhya:4:152|Madhya 4.152]]

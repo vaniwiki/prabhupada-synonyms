@@ -1,5 +1,11 @@
-~~Title:gaṅgāke~~
-{{description>to the bank of the Ganges.}}
+---json
+{
+    "name":"gaṅgāke",
+    "h1":"gaṅgāke",
+    "title":"gaṅgāke",
+    "description":"to the bank of the Ganges."
+}
+---
 
 ==== gaṅgāke  ====
   * to the bank of the Ganges --- [[books:cc:madhya:3:34|Madhya 3.34]]

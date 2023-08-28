@@ -1,5 +1,11 @@
-~~Title:nirvikāra~~
-{{description>unchanged; unmoved; without transformation.}}
+---json
+{
+    "name":"nirvikāra",
+    "h1":"nirvikāra",
+    "title":"nirvikāra",
+    "description":"unchanged; unmoved; without transformation."
+}
+---
 
 ==== nirvikāra  ====
   * unchanged --- [[books:cc:antya:5:40|Antya 5.40]], [[books:cc:antya:5:41|Antya 5.41]]

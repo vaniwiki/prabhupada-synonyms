@@ -1,5 +1,11 @@
-~~Title:yekaribena~~
-{{description>whatever he would do.}}
+---json
+{
+    "name":"yekaribena",
+    "h1":"yekaribena",
+    "title":"yekaribena",
+    "description":"whatever he would do."
+}
+---
 
 ==== yekaribena  ====
   * whatever he would do --- [[books:cc:antya:4:207|Antya 4.207]]

@@ -1,5 +1,11 @@
-~~Title:gurave~~
-{{description>unto his spiritual master, Vasiṣṭha; unto the King's spiritual master; unto the spiritual master.}}
+---json
+{
+    "name":"gurave",
+    "h1":"gurave",
+    "title":"gurave",
+    "description":"unto his spiritual master, Vasiṣṭha; unto the King's spiritual master; unto the spiritual master."
+}
+---
 
 ==== gurave  ====
   * unto his spiritual master, Vasiṣṭha --- [[books:sb:9:13:5|SB 9.13.5]]

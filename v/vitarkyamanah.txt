@@ -1,5 +1,11 @@
-~~Title:vitarkyamāṇaḥ~~
-{{description>being talked and argued about.}}
+---json
+{
+    "name":"vitarkyamāṇaḥ",
+    "h1":"vitarkyamāṇaḥ",
+    "title":"vitarkyamāṇaḥ",
+    "description":"being talked and argued about."
+}
+---
 
 ==== vitarkyamāṇaḥ  ====
   * being talked and argued about --- [[books:sb:8:18:23|SB 8.18.23]]

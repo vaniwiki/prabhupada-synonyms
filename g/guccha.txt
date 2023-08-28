@@ -1,5 +1,11 @@
-~~Title:guccha~~
-{{description>bunches.}}
+---json
+{
+    "name":"guccha",
+    "h1":"guccha",
+    "title":"guccha",
+    "description":"bunches."
+}
+---
 
 ==== guccha  ====
   * bunches --- [[books:cc:madhya:1:185|Madhya 1.185]], [[books:cc:madhya:11:154|Madhya 11.154]]

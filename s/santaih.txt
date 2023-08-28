@@ -1,5 +1,11 @@
-~~Title:śāntaiḥ~~
-{{description>saintly.}}
+---json
+{
+    "name":"śāntaiḥ",
+    "h1":"śāntaiḥ",
+    "title":"śāntaiḥ",
+    "description":"saintly."
+}
+---
 
 ==== śāntaiḥ  ====
   * saintly --- [[books:sb:4:6:34|SB 4.6.34]]

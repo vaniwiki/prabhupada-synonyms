@@ -1,5 +1,11 @@
-~~Title:ada~~
-{{description>ginger.}}
+---json
+{
+    "name":"ada",
+    "h1":"ada",
+    "title":"ada",
+    "description":"ginger."
+}
+---
 
 ==== ādā  ====
   * ginger --- [[books:cc:madhya:14:33|Madhya 14.33]], [[books:cc:antya:10:135-136|Antya 10.135-136]], [[books:cc:antya:10:149|Antya 10.149]]

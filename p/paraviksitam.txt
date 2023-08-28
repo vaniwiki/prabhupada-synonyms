@@ -1,5 +1,11 @@
-~~Title:paravīkṣitam~~
-{{description>being glanced over by the Supreme.}}
+---json
+{
+    "name":"paravīkṣitam",
+    "h1":"paravīkṣitam",
+    "title":"paravīkṣitam",
+    "description":"being glanced over by the Supreme."
+}
+---
 
 ==== paravīkṣitam  ====
   * being glanced over by the Supreme --- [[books:sb:3:5:35|SB 3.5.35]]

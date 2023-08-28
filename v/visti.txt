@@ -1,5 +1,11 @@
-~~Title:viṣṭi~~
-{{description>others who were formerly forced to do the task.}}
+---json
+{
+    "name":"viṣṭi",
+    "h1":"viṣṭi",
+    "title":"viṣṭi",
+    "description":"others who were formerly forced to do the task."
+}
+---
 
 ==== pūrva-viṣṭi-gṛhītaiḥ  ====
   * others who were formerly forced to do the task --- [[books:sb:5:10:1|SB 5.10.1]]

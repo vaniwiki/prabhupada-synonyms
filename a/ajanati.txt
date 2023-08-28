@@ -1,5 +1,11 @@
-~~Title:ajānatī~~
-{{description>not knowing; without any knowledge; without knowledge.}}
+---json
+{
+    "name":"ajānatī",
+    "h1":"ajānatī",
+    "title":"ajānatī",
+    "description":"not knowing; without any knowledge; without knowledge."
+}
+---
 
 ==== ajānatī  ====
   * not knowing --- [[books:sb:9:3:16|SB 9.3.16]]

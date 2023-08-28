@@ -1,5 +1,11 @@
-~~Title:dvedhā~~
-{{description>twofold.}}
+---json
+{
+    "name":"dvedhā",
+    "h1":"dvedhā",
+    "title":"dvedhā",
+    "description":"twofold."
+}
+---
 
 ==== dvedhā  ====
   * twofold --- [[books:sb:3:12:52|SB 3.12.52]]

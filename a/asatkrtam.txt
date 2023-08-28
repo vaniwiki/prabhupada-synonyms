@@ -1,5 +1,11 @@
-~~Title:asatkṛtam~~
-{{description>without respect.}}
+---json
+{
+    "name":"asatkṛtam",
+    "h1":"asatkṛtam",
+    "title":"asatkṛtam",
+    "description":"without respect."
+}
+---
 
 ==== asatkṛtam  ====
   * without respect --- [[books:bg:17:22|Bg. 17.22]]

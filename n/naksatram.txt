@@ -1,5 +1,11 @@
-~~Title:nakṣatram~~
-{{description>a constellation of stars.}}
+---json
+{
+    "name":"nakṣatram",
+    "h1":"nakṣatram",
+    "title":"nakṣatram",
+    "description":"a constellation of stars."
+}
+---
 
 ==== nakṣatram  ====
   * a constellation of stars --- [[books:sb:5:22:9|SB 5.22.9]]

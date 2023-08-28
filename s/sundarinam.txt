@@ -1,5 +1,11 @@
-~~Title:sundarīṇām~~
-{{description>of the women of the demigods.}}
+---json
+{
+    "name":"sundarīṇām",
+    "h1":"sundarīṇām",
+    "title":"sundarīṇām",
+    "description":"of the women of the demigods."
+}
+---
 
 ==== sura-sundarīṇām  ====
   * of the women of the demigods --- [[books:sb:5:17:13|SB 5.17.13]]

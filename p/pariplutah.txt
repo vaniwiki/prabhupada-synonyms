@@ -1,5 +1,11 @@
-~~Title:pariplutaḥ~~
-{{description>smeared with blood; very much afflicted (in ecstasy).}}
+---json
+{
+    "name":"pariplutaḥ",
+    "h1":"pariplutaḥ",
+    "title":"pariplutaḥ",
+    "description":"smeared with blood; very much afflicted (in ecstasy)."
+}
+---
 
 ==== pariplutaḥ  ====
   * smeared with blood --- [[books:sb:1:9:38|SB 1.9.38]]

@@ -1,5 +1,11 @@
-~~Title:alpīyasi~~
-{{description>insignificant; on the insignificant.}}
+---json
+{
+    "name":"alpīyasi",
+    "h1":"alpīyasi",
+    "title":"alpīyasi",
+    "description":"insignificant; on the insignificant."
+}
+---
 
 ==== alpīyasi  ====
   * insignificant --- [[books:sb:1:18:41|SB 1.18.41]]

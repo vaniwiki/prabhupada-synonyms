@@ -1,5 +1,11 @@
-~~Title:kunīti~~
-{{description>injustices.}}
+---json
+{
+    "name":"kunīti",
+    "h1":"kunīti",
+    "title":"kunīti",
+    "description":"injustices."
+}
+---
 
 ==== kunīti  ====
   * injustices --- [[books:cc:antya:16:130|Antya 16.130]]

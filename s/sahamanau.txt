@@ -1,5 +1,11 @@
-~~Title:sahamānau~~
-{{description>by enduring.}}
+---json
+{
+    "name":"sahamānau",
+    "h1":"sahamānau",
+    "title":"sahamānau",
+    "description":"by enduring."
+}
+---
 
 ==== sahamānau  ====
   * by enduring --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

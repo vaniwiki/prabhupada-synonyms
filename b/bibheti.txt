@@ -1,5 +1,11 @@
-~~Title:bibheti~~
-{{description>fears; is afraid; is afraid of.}}
+---json
+{
+    "name":"bibheti",
+    "h1":"bibheti",
+    "title":"bibheti",
+    "description":"fears; is afraid; is afraid of."
+}
+---
 
 ==== bibheti  ====
   * fears --- [[books:sb:1:1:14|SB 1.1.14]], [[books:sb:6:9:21|SB 6.9.21]]

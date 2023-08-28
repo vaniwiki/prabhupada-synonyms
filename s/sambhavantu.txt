@@ -1,5 +1,11 @@
-~~Title:sambhavantu~~
-{{description>should take birth.}}
+---json
+{
+    "name":"sambhavantu",
+    "h1":"sambhavantu",
+    "title":"sambhavantu",
+    "description":"should take birth."
+}
+---
 
 ==== sambhavantu  ====
   * should take birth --- [[books:sb:10:1:23|SB 10.1.23]]

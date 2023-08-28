@@ -1,5 +1,11 @@
-~~Title:viniḥsṛtam~~
-{{description>came out; flowing down from.}}
+---json
+{
+    "name":"viniḥsṛtam",
+    "h1":"viniḥsṛtam",
+    "title":"viniḥsṛtam",
+    "description":"came out; flowing down from."
+}
+---
 
 ==== viniḥsṛtam  ====
   * came out --- [[books:sb:3:13:21|SB 3.13.21]]

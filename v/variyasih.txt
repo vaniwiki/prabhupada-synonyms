@@ -1,5 +1,11 @@
-~~Title:varīyasīḥ~~
-{{description>very exalted.}}
+---json
+{
+    "name":"varīyasīḥ",
+    "h1":"varīyasīḥ",
+    "title":"varīyasīḥ",
+    "description":"very exalted."
+}
+---
 
 ==== varīyasīḥ  ====
   * very exalted --- [[books:sb:5:11:3|SB 5.11.3]]

@@ -1,5 +1,11 @@
-~~Title:bhavantam~~
-{{description>for you; from You; on You; to you; unto You; You; yourself.}}
+---json
+{
+    "name":"bhavantam",
+    "h1":"bhavantam",
+    "title":"bhavantam",
+    "description":"for you; from You; on You; to you; unto You; You; yourself."
+}
+---
 
 ==== bhavantam  ====
   * for you --- [[books:sb:4:4:11|SB 4.4.11]]

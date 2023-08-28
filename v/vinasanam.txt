@@ -1,5 +1,11 @@
-~~Title:vinasanam~~
-{{description>the place where the fight was held.}}
+---json
+{
+    "name":"vinasanam",
+    "h1":"vinasanam",
+    "title":"vinasanam",
+    "description":"the place where the fight was held."
+}
+---
 
 ==== vinaśanam  ====
   * the place where the fight was held --- [[books:sb:1:9:1|SB 1.9.1]]

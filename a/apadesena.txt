@@ -1,5 +1,11 @@
-~~Title:apadeśena~~
-{{description>on the plea, by such a show.}}
+---json
+{
+    "name":"apadeśena",
+    "h1":"apadeśena",
+    "title":"apadeśena",
+    "description":"on the plea, by such a show."
+}
+---
 
 ==== apadeśena  ====
   * on the plea, by such a show --- [[books:sb:3:4:29|SB 3.4.29]]

@@ -1,5 +1,11 @@
-~~Title:āpṛta~~
-{{description>engaged.}}
+---json
+{
+    "name":"āpṛta",
+    "h1":"āpṛta",
+    "title":"āpṛta",
+    "description":"engaged."
+}
+---
 
 ==== āpṛta  ====
   * engaged --- [[books:sb:3:9:10|SB 3.9.10]]

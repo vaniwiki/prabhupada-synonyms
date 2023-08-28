@@ -1,5 +1,11 @@
-~~Title:tinabhāi~~
-{{description>three brothers.}}
+---json
+{
+    "name":"tinabhāi",
+    "h1":"tinabhāi",
+    "title":"tinabhāi",
+    "description":"three brothers."
+}
+---
 
 ==== tinabhāi  ====
   * three brothers --- [[books:cc:adi:10:115|Ādi 10.115]], [[books:cc:adi:11:43|Ādi 11.43]]

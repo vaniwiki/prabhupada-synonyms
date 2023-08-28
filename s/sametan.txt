@@ -1,5 +1,11 @@
-~~Title:sametān~~
-{{description>assembled; assembled together.}}
+---json
+{
+    "name":"sametān",
+    "h1":"sametān",
+    "title":"sametān",
+    "description":"assembled; assembled together."
+}
+---
 
 ==== sametān  ====
   * assembled --- [[books:sb:4:13:49|SB 4.13.49]]

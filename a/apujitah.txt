@@ -1,5 +1,11 @@
-~~Title:apūjitāḥ~~
-{{description>without being properly welcomed.}}
+---json
+{
+    "name":"apūjitāḥ",
+    "h1":"apūjitāḥ",
+    "title":"apūjitāḥ",
+    "description":"without being properly welcomed."
+}
+---
 
 ==== apūjitāḥ  ====
   * without being properly welcomed --- [[books:sb:8:16:6|SB 8.16.6]]

@@ -1,5 +1,11 @@
-~~Title:vācaspatim~~
-{{description>the priest of the demigods, Bṛhaspati.}}
+---json
+{
+    "name":"vācaspatim",
+    "h1":"vācaspatim",
+    "title":"vācaspatim",
+    "description":"the priest of the demigods, Bṛhaspati."
+}
+---
 
 ==== vācaspatim  ====
   * the priest of the demigods, Bṛhaspati --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

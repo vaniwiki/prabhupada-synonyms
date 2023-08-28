@@ -1,5 +1,11 @@
-~~Title:paitā~~
-{{description>sacred thread.}}
+---json
+{
+    "name":"paitā",
+    "h1":"paitā",
+    "title":"paitā",
+    "description":"sacred thread."
+}
+---
 
 ==== paitā  ====
   * sacred thread --- [[books:cc:adi:17:62|Ādi 17.62]]

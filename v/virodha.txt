@@ -1,5 +1,11 @@
-~~Title:virodha~~
-{{description>contradiction.}}
+---json
+{
+    "name":"virodha",
+    "h1":"virodha",
+    "title":"virodha",
+    "description":"contradiction."
+}
+---
 
 ==== virodha  ====
   * contradiction --- [[books:cc:adi:4:188|Ādi 4.188]], [[books:cc:adi:16:79|Ādi 16.79]], [[books:cc:adi:16:80|Ādi 16.80]]

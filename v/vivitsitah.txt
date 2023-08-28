@@ -1,5 +1,11 @@
-~~Title:vivitsitaḥ~~
-{{description>being well versed in everything knowable.}}
+---json
+{
+    "name":"vivitsitaḥ",
+    "h1":"vivitsitaḥ",
+    "title":"vivitsitaḥ",
+    "description":"being well versed in everything knowable."
+}
+---
 
 ==== vivitsitaḥ  ====
   * being well versed in everything knowable --- [[books:sb:1:13:1|SB 1.13.1]]

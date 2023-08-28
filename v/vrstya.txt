@@ -1,5 +1,11 @@
-~~Title:vṛṣṭyā~~
-{{description>by the showers of.}}
+---json
+{
+    "name":"vṛṣṭyā",
+    "h1":"vṛṣṭyā",
+    "title":"vṛṣṭyā",
+    "description":"by the showers of."
+}
+---
 
 ==== vṛṣṭyā  ====
   * by the showers of --- [[books:sb:2:7:28|SB 2.7.28]]

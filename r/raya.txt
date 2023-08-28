@@ -1,5 +1,11 @@
-~~Title:raya~~
-{{description>by the course; stay.}}
+---json
+{
+    "name":"raya",
+    "h1":"raya",
+    "title":"raya",
+    "description":"by the course; stay."
+}
+---
 
 ==== raya  ====
   * by the course --- [[books:sb:5:3:14|SB 5.3.14]]

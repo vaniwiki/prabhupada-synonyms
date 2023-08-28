@@ -1,5 +1,11 @@
-~~Title:yujyamānaḥ~~
-{{description>being engaged; being praised by.}}
+---json
+{
+    "name":"yujyamānaḥ",
+    "h1":"yujyamānaḥ",
+    "title":"yujyamānaḥ",
+    "description":"being engaged; being praised by."
+}
+---
 
 ==== yujyamānaḥ  ====
   * being engaged --- [[books:sb:6:3:25|SB 6.3.25]]

@@ -1,5 +1,11 @@
-~~Title:naṭat~~
-{{description>dancing.}}
+---json
+{
+    "name":"naṭat",
+    "h1":"naṭat",
+    "title":"naṭat",
+    "description":"dancing."
+}
+---
 
 ==== naṭat  ====
   * dancing --- [[books:cc:adi:4:196|Ādi 4.196]]

@@ -1,5 +1,11 @@
-~~Title:gopah~~
-{{description>the cowherd man.}}
+---json
+{
+    "name":"gopah",
+    "h1":"gopah",
+    "title":"gopah",
+    "description":"the cowherd man."
+}
+---
 
 ==== gopaḥ  ====
   * the cowherd man --- [[books:sb:10:11:22|SB 10.11.22]]

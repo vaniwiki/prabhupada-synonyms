@@ -1,5 +1,11 @@
-~~Title:ādyera~~
-{{description>of Govinda and others.}}
+---json
+{
+    "name":"ādyera",
+    "h1":"ādyera",
+    "title":"ādyera",
+    "description":"of Govinda and others."
+}
+---
 
 ==== govinda-ādyera  ====
   * of Govinda and others --- [[books:cc:madhya:2:78|Madhya 2.78]]

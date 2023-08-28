@@ -1,5 +1,11 @@
-~~Title:papāta~~
-{{description>fell down.}}
+---json
+{
+    "name":"papāta",
+    "h1":"papāta",
+    "title":"papāta",
+    "description":"fell down."
+}
+---
 
 ==== papāta  ====
   * fell down --- [[books:sb:6:14:48|SB 6.14.48]], [[books:sb:6:14:50-51|SB 6.14.50-51]], [[books:cc:madhya:19:202|Madhya 19.202]]

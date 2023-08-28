@@ -1,5 +1,11 @@
-~~Title:smaranti~~
-{{description>do meditate upon Him; do remember; remember; they remember; will remember.}}
+---json
+{
+    "name":"smaranti",
+    "h1":"smaranti",
+    "title":"smaranti",
+    "description":"do meditate upon Him; do remember; remember; they remember; will remember."
+}
+---
 
 ==== smaranti  ====
   * do meditate upon Him --- [[books:sb:2:2:8|SB 2.2.8]]

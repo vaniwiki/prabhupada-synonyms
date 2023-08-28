@@ -1,5 +1,11 @@
-~~Title:kothāke~~
-{{description>where.}}
+---json
+{
+    "name":"kothāke",
+    "h1":"kothāke",
+    "title":"kothāke",
+    "description":"where."
+}
+---
 
 ==== kothāke  ====
   * where --- [[books:cc:madhya:3:24|Madhya 3.24]]

@@ -1,5 +1,11 @@
-~~Title:kutūhalī~~
-{{description>curious.}}
+---json
+{
+    "name":"kutūhalī",
+    "h1":"kutūhalī",
+    "title":"kutūhalī",
+    "description":"curious."
+}
+---
 
 ==== kutūhalī  ====
   * curious --- [[books:cc:adi:13:96|Ādi 13.96]]

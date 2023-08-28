@@ -1,5 +1,11 @@
-~~Title:amuṣmin~~
-{{description>in that explanation; in the next birth; in the next life; in You; on that; that.}}
+---json
+{
+    "name":"amuṣmin",
+    "h1":"amuṣmin",
+    "title":"amuṣmin",
+    "description":"in that explanation; in the next birth; in the next life; in You; on that; that."
+}
+---
 
 ==== amuṣmin  ====
   * in that explanation --- [[books:sb:5:12:4|SB 5.12.4]]

@@ -1,5 +1,11 @@
-~~Title:praṇāmam~~
-{{description>the obeisances.}}
+---json
+{
+    "name":"praṇāmam",
+    "h1":"praṇāmam",
+    "title":"praṇāmam",
+    "description":"the obeisances."
+}
+---
 
 ==== praṇāmam  ====
   * the obeisances --- [[books:cc:antya:15:51|Antya 15.51]]

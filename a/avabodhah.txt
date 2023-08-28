@@ -1,5 +1,11 @@
-~~Title:avabodhaḥ~~
-{{description>in spite of having different incarnations, You remain the Supreme, full of knowledge.}}
+---json
+{
+    "name":"avabodhaḥ",
+    "h1":"avabodhaḥ",
+    "title":"avabodhaḥ",
+    "description":"in spite of having different incarnations, You remain the Supreme, full of knowledge."
+}
+---
 
 ==== avabodhaḥ ātmā  ====
   * in spite of having different incarnations, You remain the Supreme, full of knowledge --- [[books:sb:10:2:29|SB 10.2.29]]

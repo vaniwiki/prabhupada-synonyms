@@ -1,5 +1,11 @@
-~~Title:kīḍāya~~
-{{description>by the germs.}}
+---json
+{
+    "name":"kīḍāya",
+    "h1":"kīḍāya",
+    "title":"kīḍāya",
+    "description":"by the germs."
+}
+---
 
 ==== kīḍāya  ====
   * by the germs --- [[books:cc:adi:17:51|Ādi 17.51]]

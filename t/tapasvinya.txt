@@ -1,5 +1,11 @@
-~~Title:tapasvinyā~~
-{{description>by the most fortunate.}}
+---json
+{
+    "name":"tapasvinyā",
+    "h1":"tapasvinyā",
+    "title":"tapasvinyā",
+    "description":"by the most fortunate."
+}
+---
 
 ==== tapasvinyā  ====
   * by the most fortunate --- [[books:sb:5:8:23|SB 5.8.23]]

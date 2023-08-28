@@ -1,5 +1,11 @@
-~~Title:sarabhasam~~
-{{description>voraciously.}}
+---json
+{
+    "name":"sarabhasam",
+    "h1":"sarabhasam",
+    "title":"sarabhasam",
+    "description":"voraciously."
+}
+---
 
 ==== sarabhasam  ====
   * voraciously --- [[books:sb:5:26:27|SB 5.26.27]]

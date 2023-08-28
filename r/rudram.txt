@@ -1,5 +1,11 @@
-~~Title:rudram~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"rudram",
+    "h1":"rudram",
+    "title":"rudram",
+    "description":"Lord Śiva."
+}
+---
 
 ==== rudram  ====
   * Lord Śiva --- [[books:sb:4:7:56|SB 4.7.56]]

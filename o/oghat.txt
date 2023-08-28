@@ -1,5 +1,11 @@
-~~Title:oghāt~~
-{{description>from the nectar.}}
+---json
+{
+    "name":"oghāt",
+    "h1":"oghāt",
+    "title":"oghāt",
+    "description":"from the nectar."
+}
+---
 
 ==== amṛta-oghāt  ====
   * from the nectar --- [[books:sb:3:5:10|SB 3.5.10]]

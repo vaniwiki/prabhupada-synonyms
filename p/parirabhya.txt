@@ -1,5 +1,11 @@
-~~Title:parirabhya~~
-{{description>embracing.}}
+---json
+{
+    "name":"parirabhya",
+    "h1":"parirabhya",
+    "title":"parirabhya",
+    "description":"embracing."
+}
+---
 
 ==== parirabhya  ====
   * embracing --- [[books:sb:10:11:53|SB 10.11.53]], [[books:sb:10:13:22|SB 10.13.22]], [[books:sb:10:13:33|SB 10.13.33]], [[books:cc:adi:4:153|Ādi 4.153]]

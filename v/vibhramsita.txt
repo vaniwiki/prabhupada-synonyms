@@ -1,5 +1,11 @@
-~~Title:vibhraṁśita~~
-{{description>annihilated; caused to fall; destroyed.}}
+---json
+{
+    "name":"vibhraṁśita",
+    "h1":"vibhraṁśita",
+    "title":"vibhraṁśita",
+    "description":"annihilated; caused to fall; destroyed."
+}
+---
 
 ==== vibhraṁśita  ====
   * annihilated --- [[books:sb:3:23:8|SB 3.23.8]]

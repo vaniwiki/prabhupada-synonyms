@@ -1,5 +1,11 @@
-~~Title:adhikramanti~~
-{{description>traversing.}}
+---json
+{
+    "name":"adhikramanti",
+    "h1":"adhikramanti",
+    "title":"adhikramanti",
+    "description":"traversing."
+}
+---
 
 ==== adhikramanti  ====
   * traversing --- [[books:sb:1:14:38|SB 1.14.38]]

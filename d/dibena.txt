@@ -1,5 +1,11 @@
-~~Title:dibena~~
-{{description>will give.}}
+---json
+{
+    "name":"dibena",
+    "h1":"dibena",
+    "title":"dibena",
+    "description":"will give."
+}
+---
 
 ==== dibena  ====
   * will give --- [[books:cc:madhya:11:24|Madhya 11.24]]

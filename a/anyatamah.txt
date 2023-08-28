@@ -1,5 +1,11 @@
-~~Title:anyatamaḥ~~
-{{description>another child; any one of many; anyone besides Yourself; unattached; who else.}}
+---json
+{
+    "name":"anyatamaḥ",
+    "h1":"anyatamaḥ",
+    "title":"anyatamaḥ",
+    "description":"another child; any one of many; anyone besides Yourself; unattached; who else."
+}
+---
 
 ==== anyatamaḥ  ====
   * another child --- [[books:sb:10:11:26|SB 10.11.26]]

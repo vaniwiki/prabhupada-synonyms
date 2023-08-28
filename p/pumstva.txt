@@ -1,5 +1,11 @@
-~~Title:puṁstva~~
-{{description>for the transformation into a male.}}
+---json
+{
+    "name":"puṁstva",
+    "h1":"puṁstva",
+    "title":"puṁstva",
+    "description":"for the transformation into a male."
+}
+---
 
 ==== puṁstva-kāmyayā  ====
   * for the transformation into a male --- [[books:sb:9:1:21|SB 9.1.21]]

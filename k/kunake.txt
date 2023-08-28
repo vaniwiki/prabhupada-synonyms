@@ -1,5 +1,11 @@
-~~Title:kuṇake~~
-{{description>in the deer calf; to the body of a deer calf.}}
+---json
+{
+    "name":"kuṇake",
+    "h1":"kuṇake",
+    "title":"kuṇake",
+    "description":"in the deer calf; to the body of a deer calf."
+}
+---
 
 ==== eṇa-kuṇake  ====
   * in the deer calf --- [[books:sb:5:8:8|SB 5.8.8]]

@@ -1,5 +1,11 @@
-~~Title:bahūnām~~
-{{description>many; of many.}}
+---json
+{
+    "name":"bahūnām",
+    "h1":"bahūnām",
+    "title":"bahūnām",
+    "description":"many; of many."
+}
+---
 
 ==== bahūnām  ====
   * many --- [[books:bg:7:19|Bg. 7.19]]

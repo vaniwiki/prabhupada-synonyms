@@ -1,5 +1,11 @@
-~~Title:avasa~~
-{{description>helpless.}}
+---json
+{
+    "name":"avasa",
+    "h1":"avasa",
+    "title":"avasa",
+    "description":"helpless."
+}
+---
 
 ==== avaśa  ====
   * helpless --- [[books:cc:antya:11:60|Antya 11.60]]

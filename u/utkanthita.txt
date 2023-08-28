@@ -1,5 +1,11 @@
-~~Title:utkaṇṭhita~~
-{{description>anxious; desirous; full of anxieties; full of anxiety; in anxiety; very agitated; very anxious; very eager.}}
+---json
+{
+    "name":"utkaṇṭhita",
+    "h1":"utkaṇṭhita",
+    "title":"utkaṇṭhita",
+    "description":"anxious; desirous; full of anxieties; full of anxiety; in anxiety; very agitated; very anxious; very eager."
+}
+---
 
 ==== utkaṇṭhita  ====
   * anxious --- [[books:cc:madhya:10:24|Madhya 10.24]], [[books:cc:madhya:11:106|Madhya 11.106]], [[books:cc:antya:4:15|Antya 4.15]]

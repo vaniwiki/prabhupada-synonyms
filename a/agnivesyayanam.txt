@@ -1,5 +1,11 @@
-~~Title:āgniveśyāyanam~~
-{{description>known as Āgniveśyāyana.}}
+---json
+{
+    "name":"āgniveśyāyanam",
+    "h1":"āgniveśyāyanam",
+    "title":"āgniveśyāyanam",
+    "description":"known as Āgniveśyāyana."
+}
+---
 
 ==== āgniveśyāyanam  ====
   * known as Āgniveśyāyana --- [[books:sb:9:2:22|SB 9.2.22]]

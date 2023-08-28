@@ -1,5 +1,11 @@
-~~Title:parantapa~~
-{{description>O Arjuna, subduer of the enemies; O chastiser of the enemies; O chastiser of the enemy; O conquerer of enemies; O conquerer of the enemies; O great one; O killer of the enemies; O King; O King, who can subdue your enemies; O Mahārāja Parīkṣit, chastiser of enemies; O mighty-armed one; O subduer of the enemies; O subduer of the enemy.}}
+---json
+{
+    "name":"parantapa",
+    "h1":"parantapa",
+    "title":"parantapa",
+    "description":"O Arjuna, subduer of the enemies; O chastiser of the enemies; O chastiser of the enemy; O conquerer of enemies; O conquerer of the enemies; O great one; O killer of the enemies; O King; O King, who can subdue your enemies; O Mahārāja Parīkṣit, chastiser of enemies; O mighty-armed one; O subduer of the enemies; O subduer of the enemy."
+}
+---
 
 ==== parantapa  ====
   * O Arjuna, subduer of the enemies --- [[books:bg:4:2|Bg. 4.2]]

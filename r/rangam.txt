@@ -1,5 +1,11 @@
-~~Title:raṅgam~~
-{{description>to Raṅga-kṣetra.}}
+---json
+{
+    "name":"raṅgam",
+    "h1":"raṅgam",
+    "title":"raṅgam",
+    "description":"to Raṅga-kṣetra."
+}
+---
 
 ==== raṅgam  ====
   * to Raṅga-kṣetra --- [[books:cc:madhya:24:120|Madhya 24.120]]

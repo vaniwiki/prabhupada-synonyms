@@ -1,5 +1,11 @@
-~~Title:haya~~
-{{description>are; is; appear; appears; are; are achieved; are there; assembled; awakened; awakens; became; become; become possible; becomes; becomes filled; becomes fulfilled; becomes manifest; becomes possible; becomes so; can be used; come out; happens; He is; here is; horse; increases; is; is certainly; is conducted; is it; is possible; is present; is there; it becomes; it becomes possible; it becomes so; it is; it is so; it so becomes; let it be; one becomes; remains; render; resounded; take place; takes; takes place; the horse; there are; there becomes; there can be; there is; there is awakening of; there was; there would be; they are; they become; they were; took place; was; were; will be; would be.}}
+---json
+{
+    "name":"haya",
+    "h1":"haya",
+    "title":"haya",
+    "description":"are; is; appear; appears; are; are achieved; are there; assembled; awakened; awakens; became; become; become possible; becomes; becomes filled; becomes fulfilled; becomes manifest; becomes possible; becomes so; can be used; come out; happens; He is; here is; horse; increases; is; is certainly; is conducted; is it; is possible; is present; is there; it becomes; it becomes possible; it becomes so; it is; it is so; it so becomes; let it be; one becomes; remains; render; resounded; take place; takes; takes place; the horse; there are; there becomes; there can be; there is; there is awakening of; there was; there would be; they are; they become; they were; took place; was; were; will be; would be."
+}
+---
 
 ==== haya  ====
   * //are// --- [[books:cc:madhya:8:209|Madhya 8.209]]

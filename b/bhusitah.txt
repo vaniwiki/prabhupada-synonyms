@@ -1,5 +1,11 @@
-~~Title:bhusitah~~
-{{description>decorated.}}
+---json
+{
+    "name":"bhusitah",
+    "h1":"bhusitah",
+    "title":"bhusitah",
+    "description":"decorated."
+}
+---
 
 ==== bhūṣitaḥ  ====
   * decorated --- [[books:sb:6:4:35-39|SB 6.4.35-39]], [[books:sb:8:8:32|SB 8.8.32]], [[books:sb:8:8:33|SB 8.8.33]], [[books:cc:antya:15:63|Antya 15.63]]

@@ -1,5 +1,11 @@
-~~Title:anustheyam~~
-{{description>is right to be attempted; to be executed.}}
+---json
+{
+    "name":"anustheyam",
+    "h1":"anustheyam",
+    "title":"anustheyam",
+    "description":"is right to be attempted; to be executed."
+}
+---
 
 ==== anuṣṭheyam  ====
   * is right to be attempted --- [[books:sb:3:13:17|SB 3.13.17]]

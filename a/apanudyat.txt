@@ -1,5 +1,11 @@
-~~Title:apanudyāt~~
-{{description>they can drive away.}}
+---json
+{
+    "name":"apanudyāt",
+    "h1":"apanudyāt",
+    "title":"apanudyāt",
+    "description":"they can drive away."
+}
+---
 
 ==== apanudyāt  ====
   * they can drive away --- [[books:bg:2:8|Bg. 2.8]]

@@ -1,5 +1,11 @@
-~~Title:utpanna~~
-{{description>awakened; developed; produced.}}
+---json
+{
+    "name":"utpanna",
+    "h1":"utpanna",
+    "title":"utpanna",
+    "description":"awakened; developed; produced."
+}
+---
 
 ==== utpanna  ====
   * awakened --- [[books:cc:madhya:19:175|Madhya 19.175]]

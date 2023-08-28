@@ -1,5 +1,11 @@
-~~Title:vikrama~~
-{{description>by the powerful activities; chivalry; the power.}}
+---json
+{
+    "name":"vikrama",
+    "h1":"vikrama",
+    "title":"vikrama",
+    "description":"by the powerful activities; chivalry; the power."
+}
+---
 
 ==== vikrama  ====
   * by the powerful activities --- [[books:sb:6:13:4|SB 6.13.4]]

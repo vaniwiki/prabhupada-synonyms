@@ -1,5 +1,11 @@
-~~Title:ārtasya~~
-{{description>of a distressed person; of a person suffering from some disease.}}
+---json
+{
+    "name":"ārtasya",
+    "h1":"ārtasya",
+    "title":"ārtasya",
+    "description":"of a distressed person; of a person suffering from some disease."
+}
+---
 
 ==== ārtasya  ====
   * of a distressed person --- [[books:sb:5:12:2|SB 5.12.2]]

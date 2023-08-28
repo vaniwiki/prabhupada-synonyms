@@ -1,5 +1,11 @@
-~~Title:āpūryamāṇābhiḥ~~
-{{description>gradually increasing.}}
+---json
+{
+    "name":"āpūryamāṇābhiḥ",
+    "h1":"āpūryamāṇābhiḥ",
+    "title":"āpūryamāṇābhiḥ",
+    "description":"gradually increasing."
+}
+---
 
 ==== āpūryamāṇābhiḥ  ====
   * gradually increasing --- [[books:sb:5:22:9|SB 5.22.9]]

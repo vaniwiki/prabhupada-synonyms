@@ -1,5 +1,11 @@
-~~Title:jātu~~
-{{description>any time; at any time; become; even; ever.}}
+---json
+{
+    "name":"jātu",
+    "h1":"jātu",
+    "title":"jātu",
+    "description":"any time; at any time; become; even; ever."
+}
+---
 
 ==== jātu  ====
   * any time --- [[books:sb:7:10:11|SB 7.10.11]]

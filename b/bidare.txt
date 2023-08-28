@@ -1,5 +1,11 @@
-~~Title:bidare~~
-{{description>becomes melted; breaks.}}
+---json
+{
+    "name":"bidare",
+    "h1":"bidare",
+    "title":"bidare",
+    "description":"becomes melted; breaks."
+}
+---
 
 ==== bidare  ====
   * becomes melted --- [[books:cc:madhya:16:263-264|Madhya 16.263-264]]

@@ -1,5 +1,11 @@
-~~Title:ālayaḥ~~
-{{description>the reservoir.}}
+---json
+{
+    "name":"ālayaḥ",
+    "h1":"ālayaḥ",
+    "title":"ālayaḥ",
+    "description":"the reservoir."
+}
+---
 
 ==== ālayaḥ  ====
   * the reservoir --- [[books:sb:6:1:56-57|SB 6.1.56-57]]

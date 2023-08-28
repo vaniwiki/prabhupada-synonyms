@@ -1,5 +1,11 @@
-~~Title:anudarśanāt~~
-{{description>by successive experience.}}
+---json
+{
+    "name":"anudarśanāt",
+    "h1":"anudarśanāt",
+    "title":"anudarśanāt",
+    "description":"by successive experience."
+}
+---
 
 ==== anudarśanāt  ====
   * by successive experience --- [[books:sb:2:2:27|SB 2.2.27]]

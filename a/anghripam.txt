@@ -1,5 +1,11 @@
-~~Title:aṅghripam~~
-{{description>trees.}}
+---json
+{
+    "name":"aṅghripam",
+    "h1":"aṅghripam",
+    "title":"aṅghripam",
+    "description":"trees."
+}
+---
 
 ==== aṅghripam  ====
   * trees --- [[books:sb:4:24:22|SB 4.24.22]]

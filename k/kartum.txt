@@ -1,5 +1,11 @@
-~~Title:kartum~~
-{{description>for doing it; to act; to bestow; to create; to do; to do it; to execute; to make; to manifest; to perform; to prove.}}
+---json
+{
+    "name":"kartum",
+    "h1":"kartum",
+    "title":"kartum",
+    "description":"for doing it; to act; to bestow; to create; to do; to do it; to execute; to make; to manifest; to perform; to prove."
+}
+---
 
 ==== kartum  ====
   * for doing it --- [[books:sb:1:9:37|SB 1.9.37]]

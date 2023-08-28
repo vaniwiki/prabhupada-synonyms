@@ -1,5 +1,11 @@
-~~Title:kūrmera~~
-{{description>of the brāhmaṇa named Kūrma; of the Lord Kūrma Deity.}}
+---json
+{
+    "name":"kūrmera",
+    "h1":"kūrmera",
+    "title":"kūrmera",
+    "description":"of the brāhmaṇa named Kūrma; of the Lord Kūrma Deity."
+}
+---
 
 ==== kūrmera  ====
   * of the //brāhmaṇa// named Kūrma --- [[books:cc:madhya:7:138|Madhya 7.138]]

@@ -1,5 +1,11 @@
-~~Title:pāṇḍuṣu~~
-{{description>for the Pāṇḍavas; unto the sons of Pāṇḍu.}}
+---json
+{
+    "name":"pāṇḍuṣu",
+    "h1":"pāṇḍuṣu",
+    "title":"pāṇḍuṣu",
+    "description":"for the Pāṇḍavas; unto the sons of Pāṇḍu."
+}
+---
 
 ==== pāṇḍuṣu  ====
   * for the Pāṇḍavas --- [[books:sb:1:8:41|SB 1.8.41]]

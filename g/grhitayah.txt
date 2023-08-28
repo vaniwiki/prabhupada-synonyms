@@ -1,5 +1,11 @@
-~~Title:gṛhītāyāḥ~~
-{{description>accepted.}}
+---json
+{
+    "name":"gṛhītāyāḥ",
+    "h1":"gṛhītāyāḥ",
+    "title":"gṛhītāyāḥ",
+    "description":"accepted."
+}
+---
 
 ==== gṛhītāyāḥ  ====
   * accepted --- [[books:sb:9:18:20-21|SB 9.18.20-21]]

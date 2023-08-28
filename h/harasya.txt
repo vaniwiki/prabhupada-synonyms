@@ -1,5 +1,11 @@
-~~Title:harasya~~
-{{description>of Kṛṣṇa, the enemy of Kaṁsa.}}
+---json
+{
+    "name":"harasya",
+    "h1":"harasya",
+    "title":"harasya",
+    "description":"of Kṛṣṇa, the enemy of Kaṁsa."
+}
+---
 
 ==== kaṁsa-harasya  ====
   * of Kṛṣṇa, the enemy of Kaṁsa --- [[books:cc:adi:4:260|Ādi 4.260]]

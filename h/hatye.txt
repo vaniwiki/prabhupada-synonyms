@@ -1,5 +1,11 @@
-~~Title:hatye~~
-{{description>at the time suitable for killing Vṛtrāsura.}}
+---json
+{
+    "name":"hatye",
+    "h1":"hatye",
+    "title":"hatye",
+    "description":"at the time suitable for killing Vṛtrāsura."
+}
+---
 
 ==== vārtra-hatye  ====
   * at the time suitable for killing Vṛtrāsura --- [[books:sb:6:12:33|SB 6.12.33]]

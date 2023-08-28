@@ -1,5 +1,11 @@
-~~Title:ārādhitum~~
-{{description>to satisfy.}}
+---json
+{
+    "name":"ārādhitum",
+    "h1":"ārādhitum",
+    "title":"ārādhitum",
+    "description":"to satisfy."
+}
+---
 
 ==== ārādhitum  ====
   * to satisfy --- [[books:sb:7:9:8|SB 7.9.8]]

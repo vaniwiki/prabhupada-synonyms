@@ -1,5 +1,11 @@
-~~Title:durjanah~~
-{{description>crooked person.}}
+---json
+{
+    "name":"durjanah",
+    "h1":"durjanah",
+    "title":"durjanah",
+    "description":"crooked person."
+}
+---
 
 ==== durjanaḥ  ====
   * crooked person --- [[books:sb:7:8:54|SB 7.8.54]]

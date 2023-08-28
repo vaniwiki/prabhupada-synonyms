@@ -1,5 +1,11 @@
-~~Title:nistāraṇa~~
-{{description>the process of getting out of material entanglement.}}
+---json
+{
+    "name":"nistāraṇa",
+    "h1":"nistāraṇa",
+    "title":"nistāraṇa",
+    "description":"the process of getting out of material entanglement."
+}
+---
 
 ==== nistāraṇa-yogam  ====
   * the process of getting out of material entanglement --- [[books:sb:5:17:24|SB 5.17.24]]

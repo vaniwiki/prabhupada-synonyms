@@ -1,5 +1,11 @@
-~~Title:īpsitaḥ~~
-{{description>being looked to for; desired; more desired; which was desired.}}
+---json
+{
+    "name":"īpsitaḥ",
+    "h1":"īpsitaḥ",
+    "title":"īpsitaḥ",
+    "description":"being looked to for; desired; more desired; which was desired."
+}
+---
 
 ==== īpsitaḥ  ====
   * being looked to for --- [[books:sb:5:18:21|SB 5.18.21]]

@@ -1,5 +1,11 @@
-~~Title:sūtrera~~
-{{description>of Brahma-sūtra; of the Brahma-sūtra; of the sūtras; of the Vedānta-sūtra; of the codes of Vedānta-sūtra; of the codes of the Vedānta-sūtra.}}
+---json
+{
+    "name":"sūtrera",
+    "h1":"sūtrera",
+    "title":"sūtrera",
+    "description":"of Brahma-sūtra; of the Brahma-sūtra; of the sūtras; of the Vedānta-sūtra; of the codes of Vedānta-sūtra; of the codes of the Vedānta-sūtra."
+}
+---
 
 ==== sūtrera  ====
   * of //Brahma-sūtra// --- [[books:cc:madhya:25:97|Madhya 25.97]]

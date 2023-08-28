@@ -1,5 +1,11 @@
-~~Title:stamba~~
-{{description>from Lord Brahmā to the insignificant living entity.}}
+---json
+{
+    "name":"stamba",
+    "h1":"stamba",
+    "title":"stamba",
+    "description":"from Lord Brahmā to the insignificant living entity."
+}
+---
 
 ==== ātma-ādi-stamba-paryantaiḥ  ====
   * from Lord Brahmā to the insignificant living entity --- [[books:sb:10:13:51|SB 10.13.51]]

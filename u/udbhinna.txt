@@ -1,5 +1,11 @@
-~~Title:udbhinna~~
-{{description>bodily changes of transcendental ecstasy.}}
+---json
+{
+    "name":"udbhinna",
+    "h1":"udbhinna",
+    "title":"udbhinna",
+    "description":"bodily changes of transcendental ecstasy."
+}
+---
 
 ==== pulaka-udbhinna  ====
   * bodily changes of transcendental ecstasy --- [[books:sb:3:2:5|SB 3.2.5]]

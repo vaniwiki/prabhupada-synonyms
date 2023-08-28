@@ -1,5 +1,11 @@
-~~Title:atikramāt~~
-{{description>because of disrespecting their guru, Śukrācārya.}}
+---json
+{
+    "name":"atikramāt",
+    "h1":"atikramāt",
+    "title":"atikramāt",
+    "description":"because of disrespecting their guru, Śukrācārya."
+}
+---
 
 ==== guru-atikramāt  ====
   * because of disrespecting their //guru,// Śukrācārya --- [[books:sb:6:7:23|SB 6.7.23]]

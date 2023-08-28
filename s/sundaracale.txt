@@ -1,5 +1,11 @@
-~~Title:sundarācale~~
-{{description>to Sundarācala, the Guṇḍicā temple; to the Guṇḍicā temple.}}
+---json
+{
+    "name":"sundarācale",
+    "h1":"sundarācale",
+    "title":"sundarācale",
+    "description":"to Sundarācala, the Guṇḍicā temple; to the Guṇḍicā temple."
+}
+---
 
 ==== sundarācale  ====
   * to Sundarācala, the Guṇḍicā temple --- [[books:cc:madhya:14:120|Madhya 14.120]]

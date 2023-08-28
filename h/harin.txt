@@ -1,5 +1,11 @@
-~~Title:harin~~
-{{description>horses.}}
+---json
+{
+    "name":"harin",
+    "h1":"harin",
+    "title":"harin",
+    "description":"horses."
+}
+---
 
 ==== harīn  ====
   * horses --- [[books:sb:8:11:21|SB 8.11.21]]

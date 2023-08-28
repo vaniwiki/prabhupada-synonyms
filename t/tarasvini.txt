@@ -1,5 +1,11 @@
-~~Title:tarasvinī~~
-{{description>extremely powerful; with great force.}}
+---json
+{
+    "name":"tarasvinī",
+    "h1":"tarasvinī",
+    "title":"tarasvinī",
+    "description":"extremely powerful; with great force."
+}
+---
 
 ==== tarasvinī  ====
   * extremely powerful --- [[books:sb:8:10:30-31|SB 8.10.30-31]]

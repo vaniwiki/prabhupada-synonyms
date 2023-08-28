@@ -1,5 +1,11 @@
-~~Title:avijñāta~~
-{{description>the unknown one; unknown.}}
+---json
+{
+    "name":"avijñāta",
+    "h1":"avijñāta",
+    "title":"avijñāta",
+    "description":"the unknown one; unknown."
+}
+---
 
 ==== avijñāta  ====
   * the unknown one --- [[books:sb:4:25:10|SB 4.25.10]]

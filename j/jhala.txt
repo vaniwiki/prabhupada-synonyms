@@ -1,5 +1,11 @@
-~~Title:jhala~~
-{{description>the taste of chili.}}
+---json
+{
+    "name":"jhala",
+    "h1":"jhala",
+    "title":"jhala",
+    "description":"the taste of chili."
+}
+---
 
 ==== jhāla  ====
   * the taste of chili --- [[books:cc:antya:13:76|Antya 13.76]]

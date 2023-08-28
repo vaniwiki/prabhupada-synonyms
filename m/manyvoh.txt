@@ -1,5 +1,11 @@
-~~Title:manyvoḥ~~
-{{description>anger.}}
+---json
+{
+    "name":"manyvoḥ",
+    "h1":"manyvoḥ",
+    "title":"manyvoḥ",
+    "description":"anger."
+}
+---
 
 ==== manyvoḥ  ====
   * anger --- [[books:sb:3:18:19|SB 3.18.19]]

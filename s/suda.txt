@@ -1,5 +1,11 @@
-~~Title:sūda~~
-{{description>disguised himself as a cook.}}
+---json
+{
+    "name":"sūda",
+    "h1":"sūda",
+    "title":"sūda",
+    "description":"disguised himself as a cook."
+}
+---
 
 ==== sūda-rūpa-dharaḥ  ====
   * disguised himself as a cook --- [[books:sb:9:9:20-21|SB 9.9.20-21]]

@@ -1,5 +1,11 @@
-~~Title:cholāñā~~
-{{description>clipping.}}
+---json
+{
+    "name":"cholāñā",
+    "h1":"cholāñā",
+    "title":"cholāñā",
+    "description":"clipping."
+}
+---
 
 ==== cholāñā  ====
   * clipping --- [[books:cc:madhya:15:73|Madhya 15.73]]

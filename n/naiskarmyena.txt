@@ -1,5 +1,11 @@
-~~Title:naiṣkarmyeṇa~~
-{{description>by transcendental activities.}}
+---json
+{
+    "name":"naiṣkarmyeṇa",
+    "h1":"naiṣkarmyeṇa",
+    "title":"naiṣkarmyeṇa",
+    "description":"by transcendental activities."
+}
+---
 
 ==== naiṣkarmyeṇa  ====
   * by transcendental activities --- [[books:sb:8:3:11|SB 8.3.11]]

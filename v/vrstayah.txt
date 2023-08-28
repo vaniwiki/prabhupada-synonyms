@@ -1,5 +1,11 @@
-~~Title:vṛṣṭayaḥ~~
-{{description>like rains; showers.}}
+---json
+{
+    "name":"vṛṣṭayaḥ",
+    "h1":"vṛṣṭayaḥ",
+    "title":"vṛṣṭayaḥ",
+    "description":"like rains; showers."
+}
+---
 
 ==== vṛṣṭayaḥ  ====
   * like rains --- [[books:sb:4:12:31|SB 4.12.31]]

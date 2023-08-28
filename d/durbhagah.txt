@@ -1,5 +1,11 @@
-~~Title:durbhagah~~
-{{description>unfortunate.}}
+---json
+{
+    "name":"durbhagah",
+    "h1":"durbhagah",
+    "title":"durbhagah",
+    "description":"unfortunate."
+}
+---
 
 ==== durbhagaḥ  ====
   * unfortunate --- [[books:sb:3:2:8|SB 3.2.8]]

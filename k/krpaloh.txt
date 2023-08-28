@@ -1,5 +1,11 @@
-~~Title:kṛpāloḥ~~
-{{description>kind.}}
+---json
+{
+    "name":"kṛpāloḥ",
+    "h1":"kṛpāloḥ",
+    "title":"kṛpāloḥ",
+    "description":"kind."
+}
+---
 
 ==== kṛpāloḥ  ====
   * kind --- [[books:sb:4:12:51|SB 4.12.51]]

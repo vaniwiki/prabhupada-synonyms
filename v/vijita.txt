@@ -1,5 +1,11 @@
-~~Title:vijita~~
-{{description>completely controlled; controlled; controlled over.}}
+---json
+{
+    "name":"vijita",
+    "h1":"vijita",
+    "title":"vijita",
+    "description":"completely controlled; controlled; controlled over."
+}
+---
 
 ==== vijita  ====
   * completely controlled --- [[books:sb:4:28:38|SB 4.28.38]]

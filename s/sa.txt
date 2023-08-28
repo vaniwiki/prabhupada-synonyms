@@ -1,5 +1,11 @@
-~~Title:sa~~
-{{description>accompanied by; along with; he; her; that; with.}}
+---json
+{
+    "name":"sa",
+    "h1":"sa",
+    "title":"sa",
+    "description":"accompanied by; along with; he; her; that; with."
+}
+---
 
 ==== sa  ====
   * accompanied by --- [[books:sb:3:19:19|SB 3.19.19]]

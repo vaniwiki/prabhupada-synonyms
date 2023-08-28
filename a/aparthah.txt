@@ -1,5 +1,11 @@
-~~Title:apārthaḥ~~
-{{description>without factual meaning.}}
+---json
+{
+    "name":"apārthaḥ",
+    "h1":"apārthaḥ",
+    "title":"apārthaḥ",
+    "description":"without factual meaning."
+}
+---
 
 ==== apārthaḥ  ====
   * without factual meaning --- [[books:sb:7:7:27|SB 7.7.27]]

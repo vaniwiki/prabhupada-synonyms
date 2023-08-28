@@ -1,5 +1,11 @@
-~~Title:raṁhaḥ~~
-{{description>by the force.}}
+---json
+{
+    "name":"raṁhaḥ",
+    "h1":"raṁhaḥ",
+    "title":"raṁhaḥ",
+    "description":"by the force."
+}
+---
 
 ==== raṁhaḥ  ====
   * by the force --- [[books:sb:6:11:21|SB 6.11.21]]

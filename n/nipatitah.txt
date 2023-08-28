@@ -1,5 +1,11 @@
-~~Title:nipatitah~~
-{{description>fallen down.}}
+---json
+{
+    "name":"nipatitah",
+    "h1":"nipatitah",
+    "title":"nipatitah",
+    "description":"fallen down."
+}
+---
 
 ==== nipatitaḥ  ====
   * fallen down --- [[books:cc:antya:17:72|Antya 17.72]]

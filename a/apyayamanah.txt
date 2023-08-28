@@ -1,5 +1,11 @@
-~~Title:āpyāyamānaḥ~~
-{{description>pleasing.}}
+---json
+{
+    "name":"āpyāyamānaḥ",
+    "h1":"āpyāyamānaḥ",
+    "title":"āpyāyamānaḥ",
+    "description":"pleasing."
+}
+---
 
 ==== āpyāyamānaḥ  ====
   * pleasing --- [[books:sb:5:25:7|SB 5.25.7]]

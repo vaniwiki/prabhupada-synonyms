@@ -1,5 +1,11 @@
-~~Title:praśnaḥ~~
-{{description>an inquiry; question.}}
+---json
+{
+    "name":"praśnaḥ",
+    "h1":"praśnaḥ",
+    "title":"praśnaḥ",
+    "description":"an inquiry; question."
+}
+---
 
 ==== praśnaḥ  ====
   * an inquiry --- [[books:sb:9:4:7|SB 9.4.7]]

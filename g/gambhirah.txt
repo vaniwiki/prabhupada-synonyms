@@ -1,5 +1,11 @@
-~~Title:gambhīraḥ~~
-{{description>Gambhīra; grave; three grave.}}
+---json
+{
+    "name":"gambhīraḥ",
+    "h1":"gambhīraḥ",
+    "title":"gambhīraḥ",
+    "description":"Gambhīra; grave; three grave."
+}
+---
 
 ==== gambhīraḥ  ====
   * Gambhīra --- [[books:sb:9:17:10|SB 9.17.10]]

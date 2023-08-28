@@ -1,5 +1,11 @@
-~~Title:vaidagdhya~~
-{{description>intelligence.}}
+---json
+{
+    "name":"vaidagdhya",
+    "h1":"vaidagdhya",
+    "title":"vaidagdhya",
+    "description":"intelligence."
+}
+---
 
 ==== vaidagdhya  ====
   * intelligence --- [[books:cc:madhya:15:141|Madhya 15.141]]

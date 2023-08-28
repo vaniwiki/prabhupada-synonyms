@@ -1,5 +1,11 @@
-~~Title:āvarila~~
-{{description>covered.}}
+---json
+{
+    "name":"āvarila",
+    "h1":"āvarila",
+    "title":"āvarila",
+    "description":"covered."
+}
+---
 
 ==== āvarila  ====
   * covered --- [[books:cc:madhya:4:82|Madhya 4.82]]

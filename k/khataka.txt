@@ -1,5 +1,11 @@
-~~Title:khātaka~~
-{{description>ditches of water.}}
+---json
+{
+    "name":"khātaka",
+    "h1":"khātaka",
+    "title":"khātaka",
+    "description":"ditches of water."
+}
+---
 
 ==== khātaka-udakaiḥ  ====
   * ditches of water --- [[books:sb:6:12:22|SB 6.12.22]]

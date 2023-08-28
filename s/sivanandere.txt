@@ -1,5 +1,11 @@
-~~Title:śivānandere~~
-{{description>he said to Śivānanda Sena.}}
+---json
+{
+    "name":"śivānandere",
+    "h1":"śivānandere",
+    "title":"śivānandere",
+    "description":"he said to Śivānanda Sena."
+}
+---
 
 ==== śivānandere kahila  ====
   * he said to Śivānanda Sena --- [[books:cc:antya:2:54|Antya 2.54]]

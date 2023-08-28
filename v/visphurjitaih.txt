@@ -1,5 +1,11 @@
-~~Title:visphūrjitaiḥ~~
-{{description>by the tingling of the bow.}}
+---json
+{
+    "name":"visphūrjitaiḥ",
+    "h1":"visphūrjitaiḥ",
+    "title":"visphūrjitaiḥ",
+    "description":"by the tingling of the bow."
+}
+---
 
 ==== visphūrjitaiḥ  ====
   * by the tingling of the bow --- [[books:sb:2:7:25|SB 2.7.25]]

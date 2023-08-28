@@ -1,5 +1,11 @@
-~~Title:sambhālite~~
-{{description>to understand.}}
+---json
+{
+    "name":"sambhālite",
+    "h1":"sambhālite",
+    "title":"sambhālite",
+    "description":"to understand."
+}
+---
 
 ==== sambhālite  ====
   * to understand --- [[books:cc:adi:13:107|Ādi 13.107]]

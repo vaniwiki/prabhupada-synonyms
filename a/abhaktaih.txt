@@ -1,5 +1,11 @@
-~~Title:abhaktaiḥ~~
-{{description>by nondevotees.}}
+---json
+{
+    "name":"abhaktaiḥ",
+    "h1":"abhaktaiḥ",
+    "title":"abhaktaiḥ",
+    "description":"by nondevotees."
+}
+---
 
 ==== abhaktaiḥ  ====
   * by nondevotees --- [[books:cc:madhya:23:100|Madhya 23.100]]

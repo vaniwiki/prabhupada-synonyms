@@ -1,5 +1,11 @@
-~~Title:niṣiñcatī~~
-{{description>moistening.}}
+---json
+{
+    "name":"niṣiñcatī",
+    "h1":"niṣiñcatī",
+    "title":"niṣiñcatī",
+    "description":"moistening."
+}
+---
 
 ==== niṣiñcatī  ====
   * moistening --- [[books:sb:6:14:53|SB 6.14.53]]

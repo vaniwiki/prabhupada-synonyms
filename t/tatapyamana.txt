@@ -1,5 +1,11 @@
-~~Title:tātapyamāna~~
-{{description>burning in heat.}}
+---json
+{
+    "name":"tātapyamāna",
+    "h1":"tātapyamāna",
+    "title":"tātapyamāna",
+    "description":"burning in heat."
+}
+---
 
 ==== tātapyamāna  ====
   * burning in heat --- [[books:sb:2:7:24|SB 2.7.24]]

@@ -1,5 +1,11 @@
-~~Title:pradakṣiṇena~~
-{{description>by placing on the right; on the right.}}
+---json
+{
+    "name":"pradakṣiṇena",
+    "h1":"pradakṣiṇena",
+    "title":"pradakṣiṇena",
+    "description":"by placing on the right; on the right."
+}
+---
 
 ==== pradakṣiṇena  ====
   * by placing on the right --- [[books:sb:5:22:1|SB 5.22.1]]

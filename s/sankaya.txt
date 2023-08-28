@@ -1,5 +1,11 @@
-~~Title:śaṅkayā~~
-{{description>from fear.}}
+---json
+{
+    "name":"śaṅkayā",
+    "h1":"śaṅkayā",
+    "title":"śaṅkayā",
+    "description":"from fear."
+}
+---
 
 ==== śaṅkayā  ====
   * from fear --- [[books:sb:3:17:1|SB 3.17.1]]

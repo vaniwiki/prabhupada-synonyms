@@ -1,5 +1,11 @@
-~~Title:māghera~~
-{{description>the predominating Deity of the month of Māgha (January-February).}}
+---json
+{
+    "name":"māghera",
+    "h1":"māghera",
+    "title":"māghera",
+    "description":"the predominating Deity of the month of Māgha (January-February)."
+}
+---
 
 ==== māghera devatā  ====
   * the predominating Deity of the month of Māgha (January-February) --- [[books:cc:madhya:20:199|Madhya 20.199]]

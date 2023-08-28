@@ -1,5 +1,11 @@
-~~Title:mokṣa~~
-{{description>and of liberation; for salvation; liberation; liberation from material bondage.}}
+---json
+{
+    "name":"mokṣa",
+    "h1":"mokṣa",
+    "title":"mokṣa",
+    "description":"and of liberation; for salvation; liberation; liberation from material bondage."
+}
+---
 
 ==== mokṣa  ====
   * and of liberation --- [[books:sb:6:5:18|SB 6.5.18]]

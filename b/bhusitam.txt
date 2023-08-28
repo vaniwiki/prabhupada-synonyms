@@ -1,5 +1,11 @@
-~~Title:bhusitam~~
-{{description>adorned; decorated.}}
+---json
+{
+    "name":"bhusitam",
+    "h1":"bhusitam",
+    "title":"bhusitam",
+    "description":"adorned; decorated."
+}
+---
 
 ==== bhūṣitam  ====
   * adorned --- [[books:sb:3:23:32|SB 3.23.32]]

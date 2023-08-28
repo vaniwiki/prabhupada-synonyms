@@ -1,5 +1,11 @@
-~~Title:prahvaṇāt~~
-{{description>by offering obeisances; from offering respects.}}
+---json
+{
+    "name":"prahvaṇāt",
+    "h1":"prahvaṇāt",
+    "title":"prahvaṇāt",
+    "description":"by offering obeisances; from offering respects."
+}
+---
 
 ==== prahvaṇāt  ====
   * by offering obeisances --- [[books:sb:3:33:6|SB 3.33.6]]

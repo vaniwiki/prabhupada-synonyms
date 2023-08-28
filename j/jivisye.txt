@@ -1,5 +1,11 @@
-~~Title:jīviṣye~~
-{{description>I shall live.}}
+---json
+{
+    "name":"jīviṣye",
+    "h1":"jīviṣye",
+    "title":"jīviṣye",
+    "description":"I shall live."
+}
+---
 
 ==== jīviṣye  ====
   * I shall live --- [[books:sb:9:9:32|SB 9.9.32]]

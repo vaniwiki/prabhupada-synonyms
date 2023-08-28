@@ -1,5 +1,11 @@
-~~Title:ṛjubhiḥ~~
-{{description>by the unpretentious; easy.}}
+---json
+{
+    "name":"ṛjubhiḥ",
+    "h1":"ṛjubhiḥ",
+    "title":"ṛjubhiḥ",
+    "description":"by the unpretentious; easy."
+}
+---
 
 ==== ṛjubhiḥ  ====
   * by the unpretentious --- [[books:sb:3:19:36|SB 3.19.36]]

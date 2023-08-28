@@ -1,5 +1,11 @@
-~~Title:taraka~~
-{{description>deliverer.}}
+---json
+{
+    "name":"taraka",
+    "h1":"taraka",
+    "title":"taraka",
+    "description":"deliverer."
+}
+---
 
 ==== tāraka  ====
   * deliverer --- [[books:cc:antya:3:257|Antya 3.257]], [[books:cc:antya:13:99|Antya 13.99]]

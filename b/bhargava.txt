@@ -1,5 +1,11 @@
-~~Title:bhārgava~~
-{{description>O descendant of Bhṛgu; O son of Bhṛgu; O Śaunaka.}}
+---json
+{
+    "name":"bhārgava",
+    "h1":"bhārgava",
+    "title":"bhārgava",
+    "description":"O descendant of Bhṛgu; O son of Bhṛgu; O Śaunaka."
+}
+---
 
 ==== bhārgava  ====
   * O descendant of Bhṛgu --- [[books:sb:1:9:46|SB 1.9.46]]

@@ -1,5 +1,11 @@
-~~Title:vanete~~
-{{description>traveling within the forest.}}
+---json
+{
+    "name":"vanete",
+    "h1":"vanete",
+    "title":"vanete",
+    "description":"traveling within the forest."
+}
+---
 
 ==== vanete bhramiyā  ====
   * traveling within the forest --- [[books:cc:madhya:25:215|Madhya 25.215]]

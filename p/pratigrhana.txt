@@ -1,5 +1,11 @@
-~~Title:pratigṛhāṇa~~
-{{description>please accept.}}
+---json
+{
+    "name":"pratigṛhāṇa",
+    "h1":"pratigṛhāṇa",
+    "title":"pratigṛhāṇa",
+    "description":"please accept."
+}
+---
 
 ==== pratigṛhāṇa  ====
   * please accept --- [[books:sb:3:22:14|SB 3.22.14]]

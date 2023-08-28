@@ -1,5 +1,11 @@
-~~Title:unmimeṣa~~
-{{description>opened His eyes.}}
+---json
+{
+    "name":"unmimeṣa",
+    "h1":"unmimeṣa",
+    "title":"unmimeṣa",
+    "description":"opened His eyes."
+}
+---
 
 ==== unmimeṣa  ====
   * opened His eyes --- [[books:sb:9:8:9-10|SB 9.8.9-10]]

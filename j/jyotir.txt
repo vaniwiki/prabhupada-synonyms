@@ -1,5 +1,11 @@
-~~Title:jyotir~~
-{{description>effulgent; with a brilliant effulgence.}}
+---json
+{
+    "name":"jyotir",
+    "h1":"jyotir",
+    "title":"jyotir",
+    "description":"effulgent; with a brilliant effulgence."
+}
+---
 
 ==== jyotir-maya  ====
   * effulgent --- [[books:cc:adi:13:81|Ādi 13.81]]

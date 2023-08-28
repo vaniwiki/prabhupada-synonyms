@@ -1,5 +1,11 @@
-~~Title:pūrṇamāsam~~
-{{description>Pūrṇamāsa.}}
+---json
+{
+    "name":"pūrṇamāsam",
+    "h1":"pūrṇamāsam",
+    "title":"pūrṇamāsam",
+    "description":"Pūrṇamāsa."
+}
+---
 
 ==== pūrṇamāsam  ====
   * Pūrṇamāsa --- [[books:sb:6:18:3-4|SB 6.18.3-4]]

@@ -1,5 +1,11 @@
-~~Title:śiñjitena~~
-{{description>with the sound.}}
+---json
+{
+    "name":"śiñjitena",
+    "h1":"śiñjitena",
+    "title":"śiñjitena",
+    "description":"with the sound."
+}
+---
 
 ==== śiñjitena  ====
   * with the sound --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

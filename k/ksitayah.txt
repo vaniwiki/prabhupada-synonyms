@@ -1,5 +1,11 @@
-~~Title:kṣitayaḥ~~
-{{description>and land.}}
+---json
+{
+    "name":"kṣitayaḥ",
+    "h1":"kṣitayaḥ",
+    "title":"kṣitayaḥ",
+    "description":"and land."
+}
+---
 
 ==== kṣitayaḥ  ====
   * and land --- [[books:sb:6:9:21|SB 6.9.21]]

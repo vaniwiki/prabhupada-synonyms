@@ -1,5 +1,11 @@
-~~Title:ānandam~~
-{{description>bliss; happiness; pleasure; satisfaction; sex pleasure; the bliss.}}
+---json
+{
+    "name":"ānandam",
+    "h1":"ānandam",
+    "title":"ānandam",
+    "description":"bliss; happiness; pleasure; satisfaction; sex pleasure; the bliss."
+}
+---
 
 ==== ānandam  ====
   * bliss --- [[books:sb:3:19:33|SB 3.19.33]], [[books:sb:4:13:8-9|SB 4.13.8-9]]

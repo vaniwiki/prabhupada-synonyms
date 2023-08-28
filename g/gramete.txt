@@ -1,5 +1,11 @@
-~~Title:grāmete~~
-{{description>in My village.}}
+---json
+{
+    "name":"grāmete",
+    "h1":"grāmete",
+    "title":"grāmete",
+    "description":"in My village."
+}
+---
 
 ==== āmāra grāmete  ====
   * in My village --- [[books:cc:madhya:4:28|Madhya 4.28]]

@@ -1,5 +1,11 @@
-~~Title:abhipatya~~
-{{description>chasing the enemy.}}
+---json
+{
+    "name":"abhipatya",
+    "h1":"abhipatya",
+    "title":"abhipatya",
+    "description":"chasing the enemy."
+}
+---
 
 ==== abhipatya  ====
   * chasing the enemy --- [[books:sb:9:10:20|SB 9.10.20]]

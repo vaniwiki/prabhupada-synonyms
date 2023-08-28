@@ -1,5 +1,11 @@
-~~Title:daṇḍaiḥ~~
-{{description>with arms; with stout arms.}}
+---json
+{
+    "name":"daṇḍaiḥ",
+    "h1":"daṇḍaiḥ",
+    "title":"daṇḍaiḥ",
+    "description":"with arms; with stout arms."
+}
+---
 
 ==== bhuja-daṇḍaiḥ  ====
   * with arms --- [[books:sb:4:7:32|SB 4.7.32]]

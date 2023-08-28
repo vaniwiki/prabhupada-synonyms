@@ -1,5 +1,11 @@
-~~Title:vivikṣatā~~
-{{description>desiring.}}
+---json
+{
+    "name":"vivikṣatā",
+    "h1":"vivikṣatā",
+    "title":"vivikṣatā",
+    "description":"desiring."
+}
+---
 
 ==== vivikṣatā  ====
   * desiring --- [[books:sb:1:17:43-44|SB 1.17.43-44]]

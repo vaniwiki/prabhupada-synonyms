@@ -1,5 +1,11 @@
-~~Title:rāmāi~~
-{{description>of the name Rāmāi; Rāmāi; Rāmāi Paṇḍita.}}
+---json
+{
+    "name":"rāmāi",
+    "h1":"rāmāi",
+    "title":"rāmāi",
+    "description":"of the name Rāmāi; Rāmāi; Rāmāi Paṇḍita."
+}
+---
 
 ==== rāmāi  ====
   * of the name Rāmāi --- [[books:cc:adi:10:144|Ādi 10.144]]

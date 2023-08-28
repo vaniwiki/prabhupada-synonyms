@@ -1,5 +1,11 @@
-~~Title:ghaḍā~~
-{{description>big waterpots.}}
+---json
+{
+    "name":"ghaḍā",
+    "h1":"ghaḍā",
+    "title":"ghaḍā",
+    "description":"big waterpots."
+}
+---
 
 ==== ghaḍā  ====
   * big waterpots --- [[books:cc:adi:10:144|Ādi 10.144]]

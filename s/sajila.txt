@@ -1,5 +1,11 @@
-~~Title:sājila~~
-{{description>are prepared.}}
+---json
+{
+    "name":"sājila",
+    "h1":"sājila",
+    "title":"sājila",
+    "description":"are prepared."
+}
+---
 
 ==== sājila  ====
   * are prepared --- [[books:cc:madhya:18:27|Madhya 18.27]]

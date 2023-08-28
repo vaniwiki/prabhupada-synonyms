@@ -1,5 +1,11 @@
-~~Title:udyatah~~
-{{description>attempted; attempting.}}
+---json
+{
+    "name":"udyatah",
+    "h1":"udyatah",
+    "title":"udyatah",
+    "description":"attempted; attempting."
+}
+---
 
 ==== udyataḥ  ====
   * attempted --- [[books:sb:2:7:1|SB 2.7.1]]

@@ -1,5 +1,11 @@
-~~Title:coditān~~
-{{description>that which has grown naturally.}}
+---json
+{
+    "name":"coditān",
+    "h1":"coditān",
+    "title":"coditān",
+    "description":"that which has grown naturally."
+}
+---
 
 ==== kāla-coditān  ====
   * that which has grown naturally --- [[books:sb:7:12:19|SB 7.12.19]]

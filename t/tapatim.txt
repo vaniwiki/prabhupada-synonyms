@@ -1,5 +1,11 @@
-~~Title:tapatīm~~
-{{description>named Tapatī.}}
+---json
+{
+    "name":"tapatīm",
+    "h1":"tapatīm",
+    "title":"tapatīm",
+    "description":"named Tapatī."
+}
+---
 
 ==== tapatīm  ====
   * named Tapatī --- [[books:sb:6:6:41|SB 6.6.41]]

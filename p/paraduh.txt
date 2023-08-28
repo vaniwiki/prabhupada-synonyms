@@ -1,5 +1,11 @@
-~~Title:parāduḥ~~
-{{description>have excluded.}}
+---json
+{
+    "name":"parāduḥ",
+    "h1":"parāduḥ",
+    "title":"parāduḥ",
+    "description":"have excluded."
+}
+---
 
 ==== parāduḥ  ====
   * have excluded --- [[books:sb:4:6:5|SB 4.6.5]]

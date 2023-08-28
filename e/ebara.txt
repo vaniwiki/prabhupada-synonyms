@@ -1,5 +1,11 @@
-~~Title:ebāra~~
-{{description>this time.}}
+---json
+{
+    "name":"ebāra",
+    "h1":"ebāra",
+    "title":"ebāra",
+    "description":"this time."
+}
+---
 
 ==== ebāra  ====
   * this time --- [[books:cc:madhya:1:161|Madhya 1.161]]

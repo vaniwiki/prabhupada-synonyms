@@ -1,5 +1,11 @@
-~~Title:vitaraṇam~~
-{{description>spreading.}}
+---json
+{
+    "name":"vitaraṇam",
+    "h1":"vitaraṇam",
+    "title":"vitaraṇam",
+    "description":"spreading."
+}
+---
 
 ==== vitaraṇam  ====
   * spreading --- [[books:cc:antya:20:12|Antya 20.12]]

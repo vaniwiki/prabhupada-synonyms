@@ -1,5 +1,11 @@
-~~Title:saundaryam~~
-{{description>the bodily beauty.}}
+---json
+{
+    "name":"saundaryam",
+    "h1":"saundaryam",
+    "title":"saundaryam",
+    "description":"the bodily beauty."
+}
+---
 
 ==== saundaryam  ====
   * the bodily beauty --- [[books:cc:madhya:17:210|Madhya 17.210]]

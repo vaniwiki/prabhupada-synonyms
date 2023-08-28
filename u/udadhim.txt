@@ -1,5 +1,11 @@
-~~Title:udadhim~~
-{{description>in the ocean; toward the ocean.}}
+---json
+{
+    "name":"udadhim",
+    "h1":"udadhim",
+    "title":"udadhim",
+    "description":"in the ocean; toward the ocean."
+}
+---
 
 ==== udadhim  ====
   * in the ocean --- [[books:sb:1:3:16|SB 1.3.16]]

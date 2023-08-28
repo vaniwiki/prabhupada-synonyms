@@ -1,5 +1,11 @@
-~~Title:komala~~
-{{description>newly grown; soft; softened; very soft.}}
+---json
+{
+    "name":"komala",
+    "h1":"komala",
+    "title":"komala",
+    "description":"newly grown; soft; softened; very soft."
+}
+---
 
 ==== komala  ====
   * newly grown --- [[books:cc:madhya:3:47|Madhya 3.47]]

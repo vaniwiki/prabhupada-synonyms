@@ -1,5 +1,11 @@
-~~Title:matkuṇa~~
-{{description>bugs; worms.}}
+---json
+{
+    "name":"matkuṇa",
+    "h1":"matkuṇa",
+    "title":"matkuṇa",
+    "description":"bugs; worms."
+}
+---
 
 ==== matkuṇa  ====
   * bugs --- [[books:sb:3:31:27|SB 3.31.27]]

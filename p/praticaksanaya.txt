@@ -1,5 +1,11 @@
-~~Title:praticakṣaṇāya~~
-{{description>for manifesting.}}
+---json
+{
+    "name":"praticakṣaṇāya",
+    "h1":"praticakṣaṇāya",
+    "title":"praticakṣaṇāya",
+    "description":"for manifesting."
+}
+---
 
 ==== praticakṣaṇāya  ====
   * for manifesting --- [[books:sb:4:1:56|SB 4.1.56]]

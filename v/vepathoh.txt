@@ -1,5 +1,11 @@
-~~Title:vepathoḥ~~
-{{description>trembling.}}
+---json
+{
+    "name":"vepathoḥ",
+    "h1":"vepathoḥ",
+    "title":"vepathoḥ",
+    "description":"trembling."
+}
+---
 
 ==== vepathoḥ  ====
   * trembling --- [[books:sb:9:21:3-5|SB 9.21.3-5]]

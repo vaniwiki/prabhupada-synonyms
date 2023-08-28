@@ -1,5 +1,11 @@
-~~Title:adhyaksah~~
-{{description>director; overseer (who is different from the activities); the proprietor; the supreme ruler; the witness.}}
+---json
+{
+    "name":"adhyaksah",
+    "h1":"adhyaksah",
+    "title":"adhyaksah",
+    "description":"director; overseer (who is different from the activities); the proprietor; the supreme ruler; the witness."
+}
+---
 
 ==== adhyakṣaḥ  ====
   * director --- [[books:sb:2:9:25|SB 2.9.25]]

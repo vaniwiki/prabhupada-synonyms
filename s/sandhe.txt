@@ -1,5 +1,11 @@
-~~Title:sandhe~~
-{{description>fixes.}}
+---json
+{
+    "name":"sandhe",
+    "h1":"sandhe",
+    "title":"sandhe",
+    "description":"fixes."
+}
+---
 
 ==== sandhe  ====
   * fixes --- [[books:cc:madhya:2:22|Madhya 2.22]]

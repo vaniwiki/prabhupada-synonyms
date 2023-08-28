@@ -1,5 +1,11 @@
-~~Title:patattriṇaḥ~~
-{{description>the birds; the flying living entities.}}
+---json
+{
+    "name":"patattriṇaḥ",
+    "h1":"patattriṇaḥ",
+    "title":"patattriṇaḥ",
+    "description":"the birds; the flying living entities."
+}
+---
 
 ==== patattriṇaḥ  ====
   * the birds --- [[books:sb:1:18:23|SB 1.18.23]]

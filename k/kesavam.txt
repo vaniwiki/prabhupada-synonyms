@@ -1,5 +1,11 @@
-~~Title:keśavam~~
-{{description>Lord Keśava; the pastimes and qualities of Lord Keśava; the Supreme Personality of Godhead; unto Kṛṣṇa; unto Lord Keśava; upon the Supreme Lord, Keśava.}}
+---json
+{
+    "name":"keśavam",
+    "h1":"keśavam",
+    "title":"keśavam",
+    "description":"Lord Keśava; the pastimes and qualities of Lord Keśava; the Supreme Personality of Godhead; unto Kṛṣṇa; unto Lord Keśava; upon the Supreme Lord, Keśava."
+}
+---
 
 ==== keśavam  ====
   * Lord Keśava --- [[books:cc:adi:4:196|Ādi 4.196]]

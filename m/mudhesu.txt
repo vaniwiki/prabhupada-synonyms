@@ -1,5 +1,11 @@
-~~Title:mudhesu~~
-{{description>among the fools.}}
+---json
+{
+    "name":"mudhesu",
+    "h1":"mudhesu",
+    "title":"mudhesu",
+    "description":"among the fools."
+}
+---
 
 ==== mūdheṣu  ====
   * among the fools --- [[books:cc:madhya:22:88-90|Madhya 22.88-90]]

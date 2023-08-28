@@ -1,5 +1,11 @@
-~~Title:apathyam~~
-{{description>something unconsumable.}}
+---json
+{
+    "name":"apathyam",
+    "h1":"apathyam",
+    "title":"apathyam",
+    "description":"something unconsumable."
+}
+---
 
 ==== apathyam  ====
   * something unconsumable --- [[books:sb:6:9:50|SB 6.9.50]]

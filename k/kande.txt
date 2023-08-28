@@ -1,5 +1,11 @@
-~~Title:kande~~
-{{description>cried; cries; cry; they cry.}}
+---json
+{
+    "name":"kande",
+    "h1":"kande",
+    "title":"kande",
+    "description":"cried; cries; cry; they cry."
+}
+---
 
 ==== kānde  ====
   * cried --- [[books:cc:madhya:12:147|Madhya 12.147]]

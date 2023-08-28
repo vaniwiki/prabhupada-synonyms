@@ -1,5 +1,11 @@
-~~Title:kathanīya~~
-{{description>were to be spoken by me; worth chanting of; worthy to narrate.}}
+---json
+{
+    "name":"kathanīya",
+    "h1":"kathanīya",
+    "title":"kathanīya",
+    "description":"were to be spoken by me; worth chanting of; worthy to narrate."
+}
+---
 
 ==== kathanīya  ====
   * were to be spoken by me --- [[books:sb:1:18:10|SB 1.18.10]]

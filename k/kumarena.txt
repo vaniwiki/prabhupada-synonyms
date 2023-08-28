@@ -1,5 +1,11 @@
-~~Title:kumāreṇa~~
-{{description>by one of the Kumāras; with Kārttikeya.}}
+---json
+{
+    "name":"kumāreṇa",
+    "h1":"kumāreṇa",
+    "title":"kumāreṇa",
+    "description":"by one of the Kumāras; with Kārttikeya."
+}
+---
 
 ==== kumāreṇa  ====
   * by one of the Kumāras --- [[books:sb:4:22:41|SB 4.22.41]]

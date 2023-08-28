@@ -1,5 +1,11 @@
-~~Title:vikarṣaṇa~~
-{{description>by the rubbing.}}
+---json
+{
+    "name":"vikarṣaṇa",
+    "h1":"vikarṣaṇa",
+    "title":"vikarṣaṇa",
+    "description":"by the rubbing."
+}
+---
 
 ==== vikarṣaṇa  ====
   * by the rubbing --- [[books:sb:5:6:8|SB 5.6.8]]

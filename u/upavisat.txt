@@ -1,5 +1,11 @@
-~~Title:upāviśat~~
-{{description>entered; entered into; he entered; sat down; sat down again; sat down firmly.}}
+---json
+{
+    "name":"upāviśat",
+    "h1":"upāviśat",
+    "title":"upāviśat",
+    "description":"entered; entered into; he entered; sat down; sat down again; sat down firmly."
+}
+---
 
 ==== upāviśat  ====
   * entered --- [[books:sb:3:6:19|SB 3.6.19]], [[books:sb:3:26:50|SB 3.26.50]]

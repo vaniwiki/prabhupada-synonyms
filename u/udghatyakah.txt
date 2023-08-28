@@ -1,5 +1,11 @@
-~~Title:udghātyakaḥ~~
-{{description>udghātyaka.}}
+---json
+{
+    "name":"udghātyakaḥ",
+    "h1":"udghātyakaḥ",
+    "title":"udghātyakaḥ",
+    "description":"udghātyaka."
+}
+---
 
 ==== udghātyakaḥ  ====
   * udghātyaka --- [[books:cc:antya:1:186|Antya 1.186]]

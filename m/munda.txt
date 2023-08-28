@@ -1,5 +1,11 @@
-~~Title:muṇḍā~~
-{{description>my head.}}
+---json
+{
+    "name":"muṇḍā",
+    "h1":"muṇḍā",
+    "title":"muṇḍā",
+    "description":"my head."
+}
+---
 
 ==== muṇḍā  ====
   * my head --- [[books:cc:antya:10:68|Antya 10.68]]

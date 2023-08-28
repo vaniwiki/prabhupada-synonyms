@@ -1,5 +1,11 @@
-~~Title:yajñena~~
-{{description>by performing sacrifice; by performing the ritualistic sacrifices; by sacrifice.}}
+---json
+{
+    "name":"yajñena",
+    "h1":"yajñena",
+    "title":"yajñena",
+    "description":"by performing sacrifice; by performing the ritualistic sacrifices; by sacrifice."
+}
+---
 
 ==== yajñena  ====
   * by performing sacrifice --- [[books:sb:4:19:30|SB 4.19.30]]

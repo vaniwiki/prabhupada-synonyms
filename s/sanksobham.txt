@@ -1,5 +1,11 @@
-~~Title:saṅkṣobham~~
-{{description>agitation for change; strong agitation.}}
+---json
+{
+    "name":"saṅkṣobham",
+    "h1":"saṅkṣobham",
+    "title":"saṅkṣobham",
+    "description":"agitation for change; strong agitation."
+}
+---
 
 ==== saṅkṣobham  ====
   * agitation for change --- [[books:sb:3:15:43|SB 3.15.43]], [[books:cc:madhya:24:115|Madhya 24.115]]

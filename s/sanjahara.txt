@@ -1,5 +1,11 @@
-~~Title:sañjahāra~~
-{{description>has unloaded; retracted.}}
+---json
+{
+    "name":"sañjahāra",
+    "h1":"sañjahāra",
+    "title":"sañjahāra",
+    "description":"has unloaded; retracted."
+}
+---
 
 ==== sañjahāra  ====
   * has unloaded --- [[books:sb:1:15:25-26|SB 1.15.25-26]]

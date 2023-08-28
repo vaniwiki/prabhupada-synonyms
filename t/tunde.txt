@@ -1,5 +1,11 @@
-~~Title:tuṇḍe~~
-{{description>in the mouth; on the tongue.}}
+---json
+{
+    "name":"tuṇḍe",
+    "h1":"tuṇḍe",
+    "title":"tuṇḍe",
+    "description":"in the mouth; on the tongue."
+}
+---
 
 ==== tuṇḍe  ====
   * in the mouth --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

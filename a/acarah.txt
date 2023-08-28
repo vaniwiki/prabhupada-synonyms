@@ -1,5 +1,11 @@
-~~Title:acarah~~
-{{description>have done.}}
+---json
+{
+    "name":"acarah",
+    "h1":"acarah",
+    "title":"acarah",
+    "description":"have done."
+}
+---
 
 ==== acaraḥ  ====
   * have done --- [[books:sb:6:5:43|SB 6.5.43]]

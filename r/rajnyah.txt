@@ -1,5 +1,11 @@
-~~Title:rājñyāḥ~~
-{{description>by the Queen.}}
+---json
+{
+    "name":"rājñyāḥ",
+    "h1":"rājñyāḥ",
+    "title":"rājñyāḥ",
+    "description":"by the Queen."
+}
+---
 
 ==== rājñyāḥ  ====
   * by the Queen --- [[books:sb:1:7:49|SB 1.7.49]]

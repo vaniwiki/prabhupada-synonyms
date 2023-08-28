@@ -1,5 +1,11 @@
-~~Title:vikurvantaḥ~~
-{{description>exactly imitating them.}}
+---json
+{
+    "name":"vikurvantaḥ",
+    "h1":"vikurvantaḥ",
+    "title":"vikurvantaḥ",
+    "description":"exactly imitating them."
+}
+---
 
 ==== vikurvantaḥ ca  ====
   * exactly imitating them --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

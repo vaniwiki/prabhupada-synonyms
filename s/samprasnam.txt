@@ -1,5 +1,11 @@
-~~Title:sampraśnam~~
-{{description>the inquiry; the perfect question.}}
+---json
+{
+    "name":"sampraśnam",
+    "h1":"sampraśnam",
+    "title":"sampraśnam",
+    "description":"the inquiry; the perfect question."
+}
+---
 
 ==== sampraśnam  ====
   * the inquiry --- [[books:sb:6:4:3|SB 6.4.3]]

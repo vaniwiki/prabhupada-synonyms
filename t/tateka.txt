@@ -1,5 +1,11 @@
-~~Title:tateka~~
-{{description>that far.}}
+---json
+{
+    "name":"tateka",
+    "h1":"tateka",
+    "title":"tateka",
+    "description":"that far."
+}
+---
 
 ==== tateka  ====
   * that far --- [[books:cc:antya:20:81|Antya 20.81]]

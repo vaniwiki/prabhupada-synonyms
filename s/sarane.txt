@@ -1,5 +1,11 @@
-~~Title:śaraṇe~~
-{{description>in the shelter; the shelter; under protection; under the protection.}}
+---json
+{
+    "name":"śaraṇe",
+    "h1":"śaraṇe",
+    "title":"śaraṇe",
+    "description":"in the shelter; the shelter; under protection; under the protection."
+}
+---
 
 ==== śaraṇe  ====
   * in the shelter --- [[books:sb:4:29:54|SB 4.29.54]]

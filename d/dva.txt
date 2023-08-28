@@ -1,5 +1,11 @@
-~~Title:dvā~~
-{{description>in this way thirty-two; thirty-two.}}
+---json
+{
+    "name":"dvā",
+    "h1":"dvā",
+    "title":"dvā",
+    "description":"in this way thirty-two; thirty-two."
+}
+---
 
 ==== dvā-triṁśat  ====
   * in this way thirty-two --- [[books:cc:adi:14:15|Ādi 14.15]]

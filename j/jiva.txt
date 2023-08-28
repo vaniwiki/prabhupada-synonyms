@@ -1,5 +1,11 @@
-~~Title:jīva~~
-{{description>a living being; a living entity; an ordinary living being; conditioned soul; Jīva Gosvāmī; living being; living beings; living entities; living entity; maintaining life; may you live long; of living entities; of the jīva soul; of the jīva souls; of the living entities; of the living entity; of the name Jīva; the conditioned living entities; the fallen living entities; the living entities; the living entity; the ordinary living being; we wish you life for.}}
+---json
+{
+    "name":"jīva",
+    "h1":"jīva",
+    "title":"jīva",
+    "description":"a living being; a living entity; an ordinary living being; conditioned soul; Jīva Gosvāmī; living being; living beings; living entities; living entity; maintaining life; may you live long; of living entities; of the jīva soul; of the jīva souls; of the living entities; of the living entity; of the name Jīva; the conditioned living entities; the fallen living entities; the living entities; the living entity; the ordinary living being; we wish you life for."
+}
+---
 
 ==== jīva  ====
   * a living being --- [[books:cc:madhya:18:113|Madhya 18.113]], [[books:cc:madhya:25:106|Madhya 25.106]]

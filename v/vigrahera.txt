@@ -1,5 +1,11 @@
-~~Title:vigrahera~~
-{{description>of the Deity.}}
+---json
+{
+    "name":"vigrahera",
+    "h1":"vigrahera",
+    "title":"vigrahera",
+    "description":"of the Deity."
+}
+---
 
 ==== vigrahera  ====
   * of the Deity --- [[books:cc:madhya:20:247|Madhya 20.247]], [[books:cc:antya:20:111|Antya 20.111]]

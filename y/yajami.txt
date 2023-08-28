@@ -1,5 +1,11 @@
-~~Title:yajāmi~~
-{{description>I shall offer sacrifices.}}
+---json
+{
+    "name":"yajāmi",
+    "h1":"yajāmi",
+    "title":"yajāmi",
+    "description":"I shall offer sacrifices."
+}
+---
 
 ==== yajāmi  ====
   * I shall offer sacrifices --- [[books:sb:6:11:17|SB 6.11.17]]

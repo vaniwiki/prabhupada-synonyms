@@ -1,5 +1,11 @@
-~~Title:viphalāya~~
-{{description>go in vain.}}
+---json
+{
+    "name":"viphalāya",
+    "h1":"viphalāya",
+    "title":"viphalāya",
+    "description":"go in vain."
+}
+---
 
 ==== viphalāya  ====
   * go in vain --- [[books:sb:8:5:48|SB 8.5.48]]

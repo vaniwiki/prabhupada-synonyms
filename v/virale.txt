@@ -1,5 +1,11 @@
-~~Title:virale~~
-{{description>secluded.}}
+---json
+{
+    "name":"virale",
+    "h1":"virale",
+    "title":"virale",
+    "description":"secluded."
+}
+---
 
 ==== virale  ====
   * secluded --- [[books:cc:madhya:10:19|Madhya 10.19]]

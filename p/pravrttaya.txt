@@ -1,5 +1,11 @@
-~~Title:pravrttaya~~
-{{description>inclination.}}
+---json
+{
+    "name":"pravrttaya",
+    "h1":"pravrttaya",
+    "title":"pravrttaya",
+    "description":"inclination."
+}
+---
 
 ==== pravṛttāya  ====
   * inclination --- [[books:sb:4:24:41|SB 4.24.41]]

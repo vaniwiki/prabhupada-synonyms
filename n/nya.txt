@@ -1,5 +1,11 @@
-~~Title:'nya~~
-{{description>for one another.}}
+---json
+{
+    "name":"'nya",
+    "h1":"'nya",
+    "title":"'nya",
+    "description":"for one another."
+}
+---
 
 ==== anyo 'nya  ====
   * for one another --- [[books:cc:antya:19:47|Antya 19.47]]

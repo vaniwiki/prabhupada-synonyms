@@ -1,5 +1,11 @@
-~~Title:apara~~
-{{description>inferior; inferior energy.}}
+---json
+{
+    "name":"apara",
+    "h1":"apara",
+    "title":"apara",
+    "description":"inferior; inferior energy."
+}
+---
 
 ==== aparā  ====
   * inferior --- [[books:bg:7:5|Bg. 7.5]], [[books:cc:madhya:6:165|Madhya 6.165]]

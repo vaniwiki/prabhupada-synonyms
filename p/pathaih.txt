@@ -1,5 +1,11 @@
-~~Title:pathaiḥ~~
-{{description>by the paths of worship.}}
+---json
+{
+    "name":"pathaiḥ",
+    "h1":"pathaiḥ",
+    "title":"pathaiḥ",
+    "description":"by the paths of worship."
+}
+---
 
 ==== jñāna-pathaiḥ  ====
   * by the paths of worship --- [[books:sb:6:4:34|SB 6.4.34]]

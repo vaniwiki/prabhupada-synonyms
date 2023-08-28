@@ -1,5 +1,11 @@
-~~Title:śulkam~~
-{{description>as a dowry.}}
+---json
+{
+    "name":"śulkam",
+    "h1":"śulkam",
+    "title":"śulkam",
+    "description":"as a dowry."
+}
+---
 
 ==== śulkam  ====
   * as a dowry --- [[books:sb:9:15:5-6|SB 9.15.5-6]]

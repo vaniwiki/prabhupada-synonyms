@@ -1,5 +1,11 @@
-~~Title:vakṣasam~~
-{{description>breast; chest.}}
+---json
+{
+    "name":"vakṣasam",
+    "h1":"vakṣasam",
+    "title":"vakṣasam",
+    "description":"breast; chest."
+}
+---
 
 ==== vakṣasam  ====
   * breast --- [[books:sb:3:28:14|SB 3.28.14]]

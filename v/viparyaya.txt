@@ -1,5 +1,11 @@
-~~Title:viparyaya~~
-{{description>the unnecessary activities.}}
+---json
+{
+    "name":"viparyaya",
+    "h1":"viparyaya",
+    "title":"viparyaya",
+    "description":"the unnecessary activities."
+}
+---
 
 ==== viparyaya-īhā  ====
   * the unnecessary activities --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

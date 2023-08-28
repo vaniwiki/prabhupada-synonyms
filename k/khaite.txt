@@ -1,5 +1,11 @@
-~~Title:khāite~~
-{{description>eating; to eat.}}
+---json
+{
+    "name":"khāite",
+    "h1":"khāite",
+    "title":"khāite",
+    "description":"eating; to eat."
+}
+---
 
 ==== khāite  ====
   * eating --- [[books:cc:madhya:14:87|Madhya 14.87]], [[books:cc:antya:13:76|Antya 13.76]], [[books:cc:antya:16:8|Antya 16.8]], [[books:cc:antya:20:18|Antya 20.18]]

@@ -1,5 +1,11 @@
-~~Title:agastyāya~~
-{{description>to Agastya.}}
+---json
+{
+    "name":"agastyāya",
+    "h1":"agastyāya",
+    "title":"agastyāya",
+    "description":"to Agastya."
+}
+---
 
 ==== agastyāya  ====
   * to Agastya --- [[books:sb:6:18:15|SB 6.18.15]]

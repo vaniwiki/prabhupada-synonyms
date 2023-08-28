@@ -1,5 +1,11 @@
-~~Title:pravṛttasya~~
-{{description>being engaged; one who is engaged in.}}
+---json
+{
+    "name":"pravṛttasya",
+    "h1":"pravṛttasya",
+    "title":"pravṛttasya",
+    "description":"being engaged; one who is engaged in."
+}
+---
 
 ==== pravṛttasya  ====
   * being engaged --- [[books:sb:1:5:25|SB 1.5.25]]

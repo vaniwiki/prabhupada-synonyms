@@ -1,5 +1,11 @@
-~~Title:śaivālaiḥ~~
-{{description>by moss.}}
+---json
+{
+    "name":"śaivālaiḥ",
+    "h1":"śaivālaiḥ",
+    "title":"śaivālaiḥ",
+    "description":"by moss."
+}
+---
 
 ==== śaivālaiḥ  ====
   * by moss --- [[books:cc:madhya:24:348|Madhya 24.348]]

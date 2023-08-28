@@ -1,5 +1,11 @@
-~~Title:yātrāte~~
-{{description>on the birthday ceremony of Lord Kṛṣṇa.}}
+---json
+{
+    "name":"yātrāte",
+    "h1":"yātrāte",
+    "title":"yātrāte",
+    "description":"on the birthday ceremony of Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇa-janma-yātrāte  ====
   * on the birthday ceremony of Lord Kṛṣṇa --- [[books:cc:madhya:1:146|Madhya 1.146]]

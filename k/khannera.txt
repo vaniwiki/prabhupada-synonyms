@@ -1,5 +1,11 @@
-~~Title:khāṅnera~~
-{{description>the plans of Rāmacandra Khān.}}
+---json
+{
+    "name":"khāṅnera",
+    "h1":"khāṅnera",
+    "title":"khāṅnera",
+    "description":"the plans of Rāmacandra Khān."
+}
+---
 
 ==== khāṅnera kathā  ====
   * the plans of Rāmacandra Khān --- [[books:cc:antya:3:133|Antya 3.133]]

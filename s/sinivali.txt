@@ -1,5 +1,11 @@
-~~Title:sinīvālī~~
-{{description>Sinīvālī.}}
+---json
+{
+    "name":"sinīvālī",
+    "h1":"sinīvālī",
+    "title":"sinīvālī",
+    "description":"Sinīvālī."
+}
+---
 
 ==== sinīvālī  ====
   * Sinīvālī --- [[books:sb:4:1:34|SB 4.1.34]], [[books:sb:5:20:10|SB 5.20.10]], [[books:sb:6:18:3-4|SB 6.18.3-4]]

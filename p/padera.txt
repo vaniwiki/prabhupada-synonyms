@@ -1,5 +1,11 @@
-~~Title:padera~~
-{{description>of the words.}}
+---json
+{
+    "name":"padera",
+    "h1":"padera",
+    "title":"padera",
+    "description":"of the words."
+}
+---
 
 ==== padera  ====
   * of the words --- [[books:cc:madhya:6:194|Madhya 6.194]], [[books:cc:madhya:24:70|Madhya 24.70]]

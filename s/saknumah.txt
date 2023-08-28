@@ -1,5 +1,11 @@
-~~Title:śaknumaḥ~~
-{{description>could do it; we are able.}}
+---json
+{
+    "name":"śaknumaḥ",
+    "h1":"śaknumaḥ",
+    "title":"śaknumaḥ",
+    "description":"could do it; we are able."
+}
+---
 
 ==== śaknumaḥ  ====
   * could do it --- [[books:sb:3:5:48|SB 3.5.48]]

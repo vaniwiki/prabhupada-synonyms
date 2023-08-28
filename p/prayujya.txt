@@ -1,5 +1,11 @@
-~~Title:prayujya~~
-{{description>having offered.}}
+---json
+{
+    "name":"prayujya",
+    "h1":"prayujya",
+    "title":"prayujya",
+    "description":"having offered."
+}
+---
 
 ==== prayujya  ====
   * having offered --- [[books:sb:7:10:34|SB 7.10.34]]

@@ -1,5 +1,11 @@
-~~Title:śūdratām~~
-{{description>a śūdra.}}
+---json
+{
+    "name":"śūdratām",
+    "h1":"śūdratām",
+    "title":"śūdratām",
+    "description":"a śūdra."
+}
+---
 
 ==== śūdratām  ====
   * a //śūdra// --- [[books:sb:7:15:72|SB 7.15.72]]

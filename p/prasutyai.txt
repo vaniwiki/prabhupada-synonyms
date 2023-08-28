@@ -1,5 +1,11 @@
-~~Title:prasūtyai~~
-{{description>for birth.}}
+---json
+{
+    "name":"prasūtyai",
+    "h1":"prasūtyai",
+    "title":"prasūtyai",
+    "description":"for birth."
+}
+---
 
 ==== prasūtyai  ====
   * for birth --- [[books:sb:3:31:22|SB 3.31.22]]

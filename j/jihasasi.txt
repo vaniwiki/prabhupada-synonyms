@@ -1,5 +1,11 @@
-~~Title:jihāsasi~~
-{{description>giving up.}}
+---json
+{
+    "name":"jihāsasi",
+    "h1":"jihāsasi",
+    "title":"jihāsasi",
+    "description":"giving up."
+}
+---
 
 ==== jihāsasi  ====
   * giving up --- [[books:sb:1:8:37|SB 1.8.37]]

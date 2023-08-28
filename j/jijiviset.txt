@@ -1,5 +1,11 @@
-~~Title:jijīviṣet~~
-{{description>one should desire to live.}}
+---json
+{
+    "name":"jijīviṣet",
+    "h1":"jijīviṣet",
+    "title":"jijīviṣet",
+    "description":"one should desire to live."
+}
+---
 
 ==== jijīviṣet  ====
   * one should desire to live --- [[books:iso:2|Īśo 2]]

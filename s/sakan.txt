@@ -1,5 +1,11 @@
-~~Title:śakān~~
-{{description>another class of atheist; the Śakas.}}
+---json
+{
+    "name":"śakān",
+    "h1":"śakān",
+    "title":"śakān",
+    "description":"another class of atheist; the Śakas."
+}
+---
 
 ==== śakān  ====
   * another class of atheist --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

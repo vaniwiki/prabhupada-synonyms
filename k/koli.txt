@@ -1,5 +1,11 @@
-~~Title:koli~~
-{{description>berries.}}
+---json
+{
+    "name":"koli",
+    "h1":"koli",
+    "title":"koli",
+    "description":"berries."
+}
+---
 
 ==== koli  ====
   * berries --- [[books:cc:antya:18:104|Antya 18.104]]

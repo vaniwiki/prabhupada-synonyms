@@ -1,5 +1,11 @@
-~~Title:bhayānakaḥ~~
-{{description>fear.}}
+---json
+{
+    "name":"bhayānakaḥ",
+    "h1":"bhayānakaḥ",
+    "title":"bhayānakaḥ",
+    "description":"fear."
+}
+---
 
 ==== bhayānakaḥ  ====
   * fear --- [[books:cc:madhya:19:186|Madhya 19.186]]

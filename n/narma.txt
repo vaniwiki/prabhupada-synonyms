@@ -1,5 +1,11 @@
-~~Title:narma~~
-{{description>joking.}}
+---json
+{
+    "name":"narma",
+    "h1":"narma",
+    "title":"narma",
+    "description":"joking."
+}
+---
 
 ==== narma  ====
   * joking --- [[books:cc:antya:18:88|Antya 18.88]]

@@ -1,5 +1,11 @@
-~~Title:kṣiptaiḥ~~
-{{description>arranged.}}
+---json
+{
+    "name":"kṣiptaiḥ",
+    "h1":"kṣiptaiḥ",
+    "title":"kṣiptaiḥ",
+    "description":"arranged."
+}
+---
 
 ==== kṣiptaiḥ  ====
   * arranged --- [[books:sb:3:23:16|SB 3.23.16]]

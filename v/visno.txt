@@ -1,5 +1,11 @@
-~~Title:viṣṇo~~
-{{description>O all-pervading Lord; O Lord Viṣṇu.}}
+---json
+{
+    "name":"viṣṇo",
+    "h1":"viṣṇo",
+    "title":"viṣṇo",
+    "description":"O all-pervading Lord; O Lord Viṣṇu."
+}
+---
 
 ==== viṣṇo  ====
   * O all-pervading Lord --- [[books:bg:11:30|Bg. 11.30]]

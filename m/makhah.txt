@@ -1,5 +1,11 @@
-~~Title:makhah~~
-{{description>sacrifice; the sacrificial arena.}}
+---json
+{
+    "name":"makhah",
+    "h1":"makhah",
+    "title":"makhah",
+    "description":"sacrifice; the sacrificial arena."
+}
+---
 
 ==== makhaḥ  ====
   * sacrifice --- [[books:sb:4:6:50|SB 4.6.50]]

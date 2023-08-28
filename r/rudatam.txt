@@ -1,5 +1,11 @@
-~~Title:rudatām~~
-{{description>while crying.}}
+---json
+{
+    "name":"rudatām",
+    "h1":"rudatām",
+    "title":"rudatām",
+    "description":"while crying."
+}
+---
 
 ==== rudatām  ====
   * while crying --- [[books:sb:3:30:18|SB 3.30.18]]

@@ -1,5 +1,11 @@
-~~Title:kartam~~
-{{description>duties.}}
+---json
+{
+    "name":"kartam",
+    "h1":"kartam",
+    "title":"kartam",
+    "description":"duties."
+}
+---
 
 ==== kartam  ====
   * duties --- [[books:cc:madhya:22:141|Madhya 22.141]]

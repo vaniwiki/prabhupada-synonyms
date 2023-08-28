@@ -1,5 +1,11 @@
-~~Title:ṛṣiṇā~~
-{{description>by the great sage Nārada; by the sage.}}
+---json
+{
+    "name":"ṛṣiṇā",
+    "h1":"ṛṣiṇā",
+    "title":"ṛṣiṇā",
+    "description":"by the great sage Nārada; by the sage."
+}
+---
 
 ==== ṛṣiṇā  ====
   * by the great sage Nārada --- [[books:sb:10:10:40|SB 10.10.40]]

@@ -1,5 +1,11 @@
-~~Title:sthāsnuḥ~~
-{{description>immovable.}}
+---json
+{
+    "name":"sthāsnuḥ",
+    "h1":"sthāsnuḥ",
+    "title":"sthāsnuḥ",
+    "description":"immovable."
+}
+---
 
 ==== sthāsnuḥ  ====
   * immovable --- [[books:cc:madhya:25:37|Madhya 25.37]]

@@ -1,5 +1,11 @@
-~~Title:prajajñire~~
-{{description>generated; were begotten; were produced.}}
+---json
+{
+    "name":"prajajñire",
+    "h1":"prajajñire",
+    "title":"prajajñire",
+    "description":"generated; were begotten; were produced."
+}
+---
 
 ==== prajajñire  ====
   * generated --- [[books:sb:8:5:38|SB 8.5.38]]

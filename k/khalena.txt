@@ -1,5 +1,11 @@
-~~Title:khalena~~
-{{description>by the envious.}}
+---json
+{
+    "name":"khalena",
+    "h1":"khalena",
+    "title":"khalena",
+    "description":"by the envious."
+}
+---
 
 ==== khalena  ====
   * by the envious --- [[books:sb:1:8:23|SB 1.8.23]]

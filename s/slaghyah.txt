@@ -1,5 +1,11 @@
-~~Title:ślāghyaḥ~~
-{{description>glorious; superior.}}
+---json
+{
+    "name":"ślāghyaḥ",
+    "h1":"ślāghyaḥ",
+    "title":"ślāghyaḥ",
+    "description":"glorious; superior."
+}
+---
 
 ==== ślāghyaḥ  ====
   * glorious --- [[books:sb:6:11:4|SB 6.11.4]], [[books:sb:7:2:20|SB 7.2.20]]

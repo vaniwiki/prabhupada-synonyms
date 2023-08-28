@@ -1,5 +1,11 @@
-~~Title:marakatah~~
-{{description>the jewel of the name marakata.}}
+---json
+{
+    "name":"marakatah",
+    "h1":"marakatah",
+    "title":"marakatah",
+    "description":"the jewel of the name marakata."
+}
+---
 
 ==== mahā-marakataḥ  ====
   * the jewel of the name //marakata// --- [[books:cc:madhya:8:95|Madhya 8.95]]

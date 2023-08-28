@@ -1,5 +1,11 @@
-~~Title:abhīpsubhiḥ~~
-{{description>by those desiring.}}
+---json
+{
+    "name":"abhīpsubhiḥ",
+    "h1":"abhīpsubhiḥ",
+    "title":"abhīpsubhiḥ",
+    "description":"by those desiring."
+}
+---
 
 ==== abhīpsubhiḥ  ====
   * by those desiring --- [[books:sb:4:23:35|SB 4.23.35]]

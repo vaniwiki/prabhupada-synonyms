@@ -1,5 +1,11 @@
-~~Title:divam~~
-{{description>in the celestial planets; in the higher planets; the heavenly planets; the higher planetary system known as Svargaloka; the kingdom of heaven; the sky; the whole of outer space; their residential quarters in the upper planets; to the heavenly planets; to the higher planets; to the spiritual world, Vaikuṇṭha; to their heavenly homes.}}
+---json
+{
+    "name":"divam",
+    "h1":"divam",
+    "title":"divam",
+    "description":"in the celestial planets; in the higher planets; the heavenly planets; the higher planetary system known as Svargaloka; the kingdom of heaven; the sky; the whole of outer space; their residential quarters in the upper planets; to the heavenly planets; to the higher planets; to the spiritual world, Vaikuṇṭha; to their heavenly homes."
+}
+---
 
 ==== divam  ====
   * in the celestial planets --- [[books:sb:9:24:35|SB 9.24.35]]

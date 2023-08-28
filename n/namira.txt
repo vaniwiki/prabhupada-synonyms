@@ -1,5 +1,11 @@
-~~Title:nāmīra~~
-{{description>of the name and the owner of the name.}}
+---json
+{
+    "name":"nāmīra",
+    "h1":"nāmīra",
+    "title":"nāmīra",
+    "description":"of the name and the owner of the name."
+}
+---
 
 ==== nāma-nāmīra  ====
   * of the name and the owner of the name --- [[books:cc:madhya:17:132|Madhya 17.132]]

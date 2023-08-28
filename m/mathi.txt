@@ -1,5 +1,11 @@
-~~Title:māthi~~
-{{description>fighting head to head.}}
+---json
+{
+    "name":"māthi",
+    "h1":"māthi",
+    "title":"māthi",
+    "description":"fighting head to head."
+}
+---
 
 ==== māthā-māthi raṇa  ====
   * fighting head to head --- [[books:cc:adi:5:136|Ādi 5.136]]

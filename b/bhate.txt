@@ -1,5 +1,11 @@
-~~Title:bhāte~~
-{{description>cooked rice.}}
+---json
+{
+    "name":"bhāte",
+    "h1":"bhāte",
+    "title":"bhāte",
+    "description":"cooked rice."
+}
+---
 
 ==== bhāte  ====
   * cooked rice --- [[books:cc:madhya:15:207|Madhya 15.207]]

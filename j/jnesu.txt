@@ -1,5 +1,11 @@
-~~Title:jñeṣu~~
-{{description>among learned scholars expert in the knowledge of the opulences.}}
+---json
+{
+    "name":"jñeṣu",
+    "h1":"jñeṣu",
+    "title":"jñeṣu",
+    "description":"among learned scholars expert in the knowledge of the opulences."
+}
+---
 
 ==== īśita-jñeṣu  ====
   * among learned scholars expert in the knowledge of the opulences --- [[books:cc:madhya:19:230|Madhya 19.230]]

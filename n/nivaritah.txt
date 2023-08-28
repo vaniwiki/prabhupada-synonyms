@@ -1,5 +1,11 @@
-~~Title:nivāritaḥ~~
-{{description>checked; stopped.}}
+---json
+{
+    "name":"nivāritaḥ",
+    "h1":"nivāritaḥ",
+    "title":"nivāritaḥ",
+    "description":"checked; stopped."
+}
+---
 
 ==== nivāritaḥ  ====
   * checked --- [[books:sb:9:9:37|SB 9.9.37]]

@@ -1,5 +1,11 @@
-~~Title:'ham~~
-{{description>the month of November-December.}}
+---json
+{
+    "name":"'ham",
+    "h1":"'ham",
+    "title":"'ham",
+    "description":"the month of November-December."
+}
+---
 
 ==== mārga-śīrṣo 'ham  ====
   * the month of November-December --- [[books:bg:10:35|Bg. 10.35]]

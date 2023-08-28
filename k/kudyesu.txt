@@ -1,5 +1,11 @@
-~~Title:kuḍyeṣu~~
-{{description>on the walls; on walls.}}
+---json
+{
+    "name":"kuḍyeṣu",
+    "h1":"kuḍyeṣu",
+    "title":"kuḍyeṣu",
+    "description":"on the walls; on walls."
+}
+---
 
 ==== kuḍyeṣu  ====
   * on the walls --- [[books:sb:3:33:17|SB 3.33.17]]

@@ -1,5 +1,11 @@
-~~Title:maṇḍalena~~
-{{description>by the earth planet.}}
+---json
+{
+    "name":"maṇḍalena",
+    "h1":"maṇḍalena",
+    "title":"maṇḍalena",
+    "description":"by the earth planet."
+}
+---
 
 ==== bhū-maṇḍalena  ====
   * by the earth planet --- [[books:sb:3:13:41|SB 3.13.41]]

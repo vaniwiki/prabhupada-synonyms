@@ -1,5 +1,11 @@
-~~Title:guṇī~~
-{{description>qualified.}}
+---json
+{
+    "name":"guṇī",
+    "h1":"guṇī",
+    "title":"guṇī",
+    "description":"qualified."
+}
+---
 
 ==== guṇī  ====
   * qualified --- [[books:cc:adi:4:241|Ādi 4.241]]

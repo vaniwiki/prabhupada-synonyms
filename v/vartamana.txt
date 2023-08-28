@@ -1,5 +1,11 @@
-~~Title:vartamāna~~
-{{description>being.}}
+---json
+{
+    "name":"vartamāna",
+    "h1":"vartamāna",
+    "title":"vartamāna",
+    "description":"being."
+}
+---
 
 ==== vartamāna  ====
   * being --- [[books:sb:3:28:24|SB 3.28.24]]

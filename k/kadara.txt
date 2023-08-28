@@ -1,5 +1,11 @@
-~~Title:kaḍāra~~
-{{description>a kind of tilaka; remnants of Lord Jagannātha's sandalwood pulp.}}
+---json
+{
+    "name":"kaḍāra",
+    "h1":"kaḍāra",
+    "title":"kaḍāra",
+    "description":"a kind of tilaka; remnants of Lord Jagannātha's sandalwood pulp."
+}
+---
 
 ==== kaḍāra  ====
   * a kind of //tilaka// --- [[books:cc:madhya:16:95|Madhya 16.95]]

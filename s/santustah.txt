@@ -1,5 +1,11 @@
-~~Title:santustah~~
-{{description>a person who is always self-satisfied; always satisfied; one should be satisfied; pacified; perfectly satiated; pleased; satisfied; very happily.}}
+---json
+{
+    "name":"santustah",
+    "h1":"santustah",
+    "title":"santustah",
+    "description":"a person who is always self-satisfied; always satisfied; one should be satisfied; pacified; perfectly satiated; pleased; satisfied; very happily."
+}
+---
 
 ==== santuṣṭaḥ  ====
   * a person who is always self-satisfied --- [[books:sb:7:15:18|SB 7.15.18]]

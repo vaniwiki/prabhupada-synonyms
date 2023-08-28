@@ -1,5 +1,11 @@
-~~Title:vāyau~~
-{{description>in the air; in the total air covering the universe.}}
+---json
+{
+    "name":"vāyau",
+    "h1":"vāyau",
+    "title":"vāyau",
+    "description":"in the air; in the total air covering the universe."
+}
+---
 
 ==== vāyau  ====
   * in the air --- [[books:sb:4:23:16|SB 4.23.16]], [[books:sb:7:12:25|SB 7.12.25]], [[books:sb:7:12:29-30|SB 7.12.29-30]]

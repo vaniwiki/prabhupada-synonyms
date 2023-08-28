@@ -1,5 +1,11 @@
-~~Title:prabhūta~~
-{{description>a very large number.}}
+---json
+{
+    "name":"prabhūta",
+    "h1":"prabhūta",
+    "title":"prabhūta",
+    "description":"a very large number."
+}
+---
 
 ==== prabhūta  ====
   * a very large number --- [[books:sb:5:13:3|SB 5.13.3]]

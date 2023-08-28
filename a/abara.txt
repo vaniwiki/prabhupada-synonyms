@@ -1,5 +1,11 @@
-~~Title:ābāra~~
-{{description>again.}}
+---json
+{
+    "name":"ābāra",
+    "h1":"ābāra",
+    "title":"ābāra",
+    "description":"again."
+}
+---
 
 ==== ābāra  ====
   * again --- [[books:cc:adi:16:104|Ādi 16.104]], [[books:cc:antya:12:79|Antya 12.79]]

@@ -1,5 +1,11 @@
-~~Title:phenābhyām~~
-{{description>by bubbles and foam.}}
+---json
+{
+    "name":"phenābhyām",
+    "h1":"phenābhyām",
+    "title":"phenābhyām",
+    "description":"by bubbles and foam."
+}
+---
 
 ==== budbuda-phenābhyām  ====
   * by bubbles and foam --- [[books:sb:6:9:10|SB 6.9.10]]

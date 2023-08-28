@@ -1,5 +1,11 @@
-~~Title:meghaiḥ~~
-{{description>by gigantic clouds.}}
+---json
+{
+    "name":"meghaiḥ",
+    "h1":"meghaiḥ",
+    "title":"meghaiḥ",
+    "description":"by gigantic clouds."
+}
+---
 
 ==== mahā-meghaiḥ  ====
   * by gigantic clouds --- [[books:sb:8:24:41|SB 8.24.41]]

@@ -1,5 +1,11 @@
-~~Title:kliśyamānaḥ~~
-{{description>subjected to sufferings.}}
+---json
+{
+    "name":"kliśyamānaḥ",
+    "h1":"kliśyamānaḥ",
+    "title":"kliśyamānaḥ",
+    "description":"subjected to sufferings."
+}
+---
 
 ==== kliśyamānaḥ  ====
   * subjected to sufferings --- [[books:sb:4:29:23-25|SB 4.29.23-25]]

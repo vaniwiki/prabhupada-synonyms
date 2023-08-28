@@ -1,5 +1,11 @@
-~~Title:punanti~~
-{{description>purify; sanctify.}}
+---json
+{
+    "name":"punanti",
+    "h1":"punanti",
+    "title":"punanti",
+    "description":"purify; sanctify."
+}
+---
 
 ==== punanti  ====
   * purify --- [[books:sb:2:2:37|SB 2.2.37]]

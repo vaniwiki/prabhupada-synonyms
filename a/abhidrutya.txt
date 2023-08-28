@@ -1,5 +1,11 @@
-~~Title:abhidrutya~~
-{{description>going before Her hastily; running to.}}
+---json
+{
+    "name":"abhidrutya",
+    "h1":"abhidrutya",
+    "title":"abhidrutya",
+    "description":"going before Her hastily; running to."
+}
+---
 
 ==== abhidrutya  ====
   * going before Her hastily --- [[books:sb:8:9:2|SB 8.9.2]]

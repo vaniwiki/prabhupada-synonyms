@@ -1,5 +1,11 @@
-~~Title:maharlokaḥ~~
-{{description>the planetary system occupied by great sages and saints.}}
+---json
+{
+    "name":"maharlokaḥ",
+    "h1":"maharlokaḥ",
+    "title":"maharlokaḥ",
+    "description":"the planetary system occupied by great sages and saints."
+}
+---
 
 ==== maharlokaḥ  ====
   * the planetary system occupied by great sages and saints --- [[books:sb:2:5:38|SB 2.5.38]]

@@ -1,5 +1,11 @@
-~~Title:romapāda~~
-{{description>the son of Romapāda.}}
+---json
+{
+    "name":"romapāda",
+    "h1":"romapāda",
+    "title":"romapāda",
+    "description":"the son of Romapāda."
+}
+---
 
 ==== romapāda-sutaḥ  ====
   * the son of Romapāda --- [[books:sb:9:24:2|SB 9.24.2]]

@@ -1,5 +1,11 @@
-~~Title:pradiṣṭam~~
-{{description>directed.}}
+---json
+{
+    "name":"pradiṣṭam",
+    "h1":"pradiṣṭam",
+    "title":"pradiṣṭam",
+    "description":"directed."
+}
+---
 
 ==== pradiṣṭam  ====
   * directed --- [[books:bg:8:28|Bg. 8.28]]

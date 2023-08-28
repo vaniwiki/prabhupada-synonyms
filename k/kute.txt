@@ -1,5 +1,11 @@
-~~Title:kūṭe~~
-{{description>the most deceitful.}}
+---json
+{
+    "name":"kūṭe",
+    "h1":"kūṭe",
+    "title":"kūṭe",
+    "description":"the most deceitful."
+}
+---
 
 ==== kūṭe  ====
   * the most deceitful --- [[books:sb:7:2:9|SB 7.2.9]]

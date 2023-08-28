@@ -1,5 +1,11 @@
-~~Title:duhitroḥ~~
-{{description>of the two daughters.}}
+---json
+{
+    "name":"duhitroḥ",
+    "h1":"duhitroḥ",
+    "title":"duhitroḥ",
+    "description":"of the two daughters."
+}
+---
 
 ==== duhitroḥ  ====
   * of the two daughters --- [[books:sb:8:1:5|SB 8.1.5]]

@@ -1,5 +1,11 @@
-~~Title:niḥspṛhāṇām~~
-{{description>who are without ambitions for sense gratification.}}
+---json
+{
+    "name":"niḥspṛhāṇām",
+    "h1":"niḥspṛhāṇām",
+    "title":"niḥspṛhāṇām",
+    "description":"who are without ambitions for sense gratification."
+}
+---
 
 ==== niḥspṛhāṇām  ====
   * who are without ambitions for sense gratification --- [[books:sb:6:17:27|SB 6.17.27]]

@@ -1,5 +1,11 @@
-~~Title:udīrṇa~~
-{{description>increased; very high.}}
+---json
+{
+    "name":"udīrṇa",
+    "h1":"udīrṇa",
+    "title":"udīrṇa",
+    "description":"increased; very high."
+}
+---
 
 ==== udīrṇa  ====
   * increased --- [[books:sb:3:19:14|SB 3.19.14]]

@@ -1,5 +1,11 @@
-~~Title:purāṇete~~
-{{description>the Vedas and the Purāṇas.}}
+---json
+{
+    "name":"purāṇete",
+    "h1":"purāṇete",
+    "title":"purāṇete",
+    "description":"the Vedas and the Purāṇas."
+}
+---
 
 ==== veda-purāṇete  ====
   * the //Vedas// and the //Purāṇas// --- [[books:cc:madhya:9:194|Madhya 9.194]]

@@ -1,5 +1,11 @@
-~~Title:avaṣṭabhya~~
-{{description>accepting; being employed; enter in; holding.}}
+---json
+{
+    "name":"avaṣṭabhya",
+    "h1":"avaṣṭabhya",
+    "title":"avaṣṭabhya",
+    "description":"accepting; being employed; enter in; holding."
+}
+---
 
 ==== avaṣṭabhya  ====
   * accepting --- [[books:bg:16:9|Bg. 16.9]]

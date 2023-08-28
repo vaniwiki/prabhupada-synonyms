@@ -1,5 +1,11 @@
-~~Title:karṣan~~
-{{description>attracting.}}
+---json
+{
+    "name":"karṣan",
+    "h1":"karṣan",
+    "title":"karṣan",
+    "description":"attracting."
+}
+---
 
 ==== karṣan  ====
   * attracting --- [[books:cc:adi:1:17|Ādi 1.17]], [[books:cc:madhya:1:5|Madhya 1.5]], [[books:cc:antya:1:7|Antya 1.7]]

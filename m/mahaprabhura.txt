@@ -1,5 +1,11 @@
-~~Title:mahāprabhura~~
-{{description>by Śrī Caitanya Mahāprabhu; Caitanya Mahāprabhu; of Caitanya Mahāprabhu; of Lord Caitanya; of Lord Caitanya Mahāprabhu; of Lord Śrī Caitanya Mahāprabhu; of the supreme predominator, Lord Caitanya Mahāprabhu; of Śrī Caitanya Mahāprabhu; to Śrī Caitanya Mahāprabhu; Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"mahāprabhura",
+    "h1":"mahāprabhura",
+    "title":"mahāprabhura",
+    "description":"by Śrī Caitanya Mahāprabhu; Caitanya Mahāprabhu; of Caitanya Mahāprabhu; of Lord Caitanya; of Lord Caitanya Mahāprabhu; of Lord Śrī Caitanya Mahāprabhu; of the supreme predominator, Lord Caitanya Mahāprabhu; of Śrī Caitanya Mahāprabhu; to Śrī Caitanya Mahāprabhu; Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== mahāprabhura  ====
   * by Śrī Caitanya Mahāprabhu --- [[books:cc:madhya:16:42|Madhya 16.42]], [[books:cc:antya:13:134|Antya 13.134]]

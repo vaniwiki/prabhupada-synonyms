@@ -1,5 +1,11 @@
-~~Title:saṁśānta~~
-{{description>the grave and saintly Lord Śiva.}}
+---json
+{
+    "name":"saṁśānta",
+    "h1":"saṁśānta",
+    "title":"saṁśānta",
+    "description":"the grave and saintly Lord Śiva."
+}
+---
 
 ==== saṁśānta-vigraham  ====
   * the grave and saintly Lord Śiva --- [[books:sb:4:6:34|SB 4.6.34]]

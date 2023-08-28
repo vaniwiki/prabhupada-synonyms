@@ -1,5 +1,11 @@
-~~Title:sainā~~
-{{description>post of commander-in-chief.}}
+---json
+{
+    "name":"sainā",
+    "h1":"sainā",
+    "title":"sainā",
+    "description":"post of commander-in-chief."
+}
+---
 
 ==== sainā-patyam  ====
   * post of commander-in-chief --- [[books:sb:4:22:45|SB 4.22.45]]

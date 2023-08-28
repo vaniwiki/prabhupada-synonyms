@@ -1,5 +1,11 @@
-~~Title:gehān~~
-{{description>the household affairs of His father.}}
+---json
+{
+    "name":"gehān",
+    "h1":"gehān",
+    "title":"gehān",
+    "description":"the household affairs of His father."
+}
+---
 
 ==== pitṛ-gehān  ====
   * the household affairs of His father --- [[books:cc:adi:6:68|Ādi 6.68]]

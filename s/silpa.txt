@@ -1,5 +1,11 @@
-~~Title:śilpa~~
-{{description>art and workmanship; by artistic engravings.}}
+---json
+{
+    "name":"śilpa",
+    "h1":"śilpa",
+    "title":"śilpa",
+    "description":"art and workmanship; by artistic engravings."
+}
+---
 
 ==== śilpa  ====
   * art and workmanship --- [[books:sb:1:15:8|SB 1.15.8]]

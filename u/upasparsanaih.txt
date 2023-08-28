@@ -1,5 +1,11 @@
-~~Title:upasparśanaiḥ~~
-{{description>touching.}}
+---json
+{
+    "name":"upasparśanaiḥ",
+    "h1":"upasparśanaiḥ",
+    "title":"upasparśanaiḥ",
+    "description":"touching."
+}
+---
 
 ==== upasparśanaiḥ  ====
   * touching --- [[books:sb:8:16:39|SB 8.16.39]]

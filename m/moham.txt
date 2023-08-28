@@ -1,5 +1,11 @@
-~~Title:moham~~
-{{description>illusion; illusory conception.}}
+---json
+{
+    "name":"moham",
+    "h1":"moham",
+    "title":"moham",
+    "description":"illusion; illusory conception."
+}
+---
 
 ==== moham  ====
   * illusion --- [[books:bg:4:35|Bg. 4.35]], [[books:bg:14:22-25|Bg. 14.22-25]], [[books:sb:4:25:55|SB 4.25.55]], [[books:sb:4:29:16|SB 4.29.16]]

@@ -1,5 +1,11 @@
-~~Title:lokatām~~
-{{description>the habits of a human being.}}
+---json
+{
+    "name":"lokatām",
+    "h1":"lokatām",
+    "title":"lokatām",
+    "description":"the habits of a human being."
+}
+---
 
 ==== nara-lokatām  ====
   * the habits of a human being --- [[books:sb:9:14:17-18|SB 9.14.17-18]]

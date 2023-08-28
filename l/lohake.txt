@@ -1,5 +1,11 @@
-~~Title:lohāke~~
-{{description>iron.}}
+---json
+{
+    "name":"lohāke",
+    "h1":"lohāke",
+    "title":"lohāke",
+    "description":"iron."
+}
+---
 
 ==== lohāke  ====
   * iron --- [[books:cc:madhya:6:279|Madhya 6.279]]

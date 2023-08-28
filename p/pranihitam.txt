@@ -1,5 +1,11 @@
-~~Title:praṇihitam~~
-{{description>myself being situated.}}
+---json
+{
+    "name":"praṇihitam",
+    "h1":"praṇihitam",
+    "title":"praṇihitam",
+    "description":"myself being situated."
+}
+---
 
 ==== mā praṇihitam  ====
   * myself being situated --- [[books:sb:1:15:16|SB 1.15.16]]

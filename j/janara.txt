@@ -1,5 +1,11 @@
-~~Title:janāra~~
-{{description>of the persons.}}
+---json
+{
+    "name":"janāra",
+    "h1":"janāra",
+    "title":"janāra",
+    "description":"of the persons."
+}
+---
 
 ==== janāra  ====
   * of the persons --- [[books:cc:madhya:8:54|Madhya 8.54]]

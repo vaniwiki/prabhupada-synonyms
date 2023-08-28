@@ -1,5 +1,11 @@
-~~Title:samarhaṇam~~
-{{description>befitting respect; method of worship.}}
+---json
+{
+    "name":"samarhaṇam",
+    "h1":"samarhaṇam",
+    "title":"samarhaṇam",
+    "description":"befitting respect; method of worship."
+}
+---
 
 ==== samarhaṇam  ====
   * befitting respect --- [[books:sb:8:22:14|SB 8.22.14]]

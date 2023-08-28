@@ -1,5 +1,11 @@
-~~Title:añjanam~~
-{{description>ointment; very much pleasing.}}
+---json
+{
+    "name":"añjanam",
+    "h1":"añjanam",
+    "title":"añjanam",
+    "description":"ointment; very much pleasing."
+}
+---
 
 ==== añjanam  ====
   * ointment --- [[books:cc:antya:16:74|Antya 16.74]]

@@ -1,5 +1,11 @@
-~~Title:makhān~~
-{{description>the five Mahāyajñas.}}
+---json
+{
+    "name":"makhān",
+    "h1":"makhān",
+    "title":"makhān",
+    "description":"the five Mahāyajñas."
+}
+---
 
 ==== mahā-makhān  ====
   * the five Mahāyajñas --- [[books:sb:6:18:1|SB 6.18.1]]

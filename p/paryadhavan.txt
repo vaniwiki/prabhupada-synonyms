@@ -1,5 +1,11 @@
-~~Title:paryadhāvan~~
-{{description>ran hither and thither.}}
+---json
+{
+    "name":"paryadhāvan",
+    "h1":"paryadhāvan",
+    "title":"paryadhāvan",
+    "description":"ran hither and thither."
+}
+---
 
 ==== paryadhāvan  ====
   * ran hither and thither --- [[books:sb:3:17:11|SB 3.17.11]]

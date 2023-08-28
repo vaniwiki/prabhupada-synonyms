@@ -1,5 +1,11 @@
-~~Title:paścāt~~
-{{description>after; afterwards; at the end; behind; eastern; from behind; later; looking backward; on the back; on the western side; thereafter; western.}}
+---json
+{
+    "name":"paścāt",
+    "h1":"paścāt",
+    "title":"paścāt",
+    "description":"after; afterwards; at the end; behind; eastern; from behind; later; looking backward; on the back; on the western side; thereafter; western."
+}
+---
 
 ==== paścāt  ====
   * after --- [[books:sb:6:15:5|SB 6.15.5]], [[books:cc:madhya:24:76|Madhya 24.76]], [[books:cc:madhya:25:113|Madhya 25.113]]

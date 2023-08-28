@@ -1,5 +1,11 @@
-~~Title:kartṛtvam~~
-{{description>being the doer; proprietorship; the performance of activities.}}
+---json
+{
+    "name":"kartṛtvam",
+    "h1":"kartṛtvam",
+    "title":"kartṛtvam",
+    "description":"being the doer; proprietorship; the performance of activities."
+}
+---
 
 ==== kartṛtvam  ====
   * being the doer --- [[books:sb:3:26:26|SB 3.26.26]]

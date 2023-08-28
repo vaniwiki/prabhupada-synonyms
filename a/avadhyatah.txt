@@ -1,5 +1,11 @@
-~~Title:avadhyātaḥ~~
-{{description>thus being disrespected.}}
+---json
+{
+    "name":"avadhyātaḥ",
+    "h1":"avadhyātaḥ",
+    "title":"avadhyātaḥ",
+    "description":"thus being disrespected."
+}
+---
 
 ==== avadhyātaḥ  ====
   * thus being disrespected --- [[books:sb:3:12:6|SB 3.12.6]]

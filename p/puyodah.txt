@@ -1,5 +1,11 @@
-~~Title:pūyodaḥ~~
-{{description>Pūyoda.}}
+---json
+{
+    "name":"pūyodaḥ",
+    "h1":"pūyodaḥ",
+    "title":"pūyodaḥ",
+    "description":"Pūyoda."
+}
+---
 
 ==== pūyodaḥ  ====
   * Pūyoda --- [[books:sb:5:26:7|SB 5.26.7]]

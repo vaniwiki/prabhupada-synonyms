@@ -1,5 +1,11 @@
-~~Title:anvīya~~
-{{description>after entering.}}
+---json
+{
+    "name":"anvīya",
+    "h1":"anvīya",
+    "title":"anvīya",
+    "description":"after entering."
+}
+---
 
 ==== anvīya  ====
   * after entering --- [[books:cc:madhya:20:262|Madhya 20.262]]

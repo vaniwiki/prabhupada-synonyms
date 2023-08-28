@@ -1,5 +1,11 @@
-~~Title:nadyā~~
-{{description>by the river.}}
+---json
+{
+    "name":"nadyā",
+    "h1":"nadyā",
+    "title":"nadyā",
+    "description":"by the river."
+}
+---
 
 ==== nadyā  ====
   * by the river --- [[books:sb:9:22:40|SB 9.22.40]]

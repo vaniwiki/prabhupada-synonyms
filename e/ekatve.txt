@@ -1,5 +1,11 @@
-~~Title:ekatve~~
-{{description>in one nescience.}}
+---json
+{
+    "name":"ekatve",
+    "h1":"ekatve",
+    "title":"ekatve",
+    "description":"in one nescience."
+}
+---
 
 ==== ekatve  ====
   * in one nescience --- [[books:sb:1:15:42|SB 1.15.42]]

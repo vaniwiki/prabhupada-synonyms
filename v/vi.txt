@@ -1,5 +1,11 @@
-~~Title:vi~~
-{{description>the syllable vi of viṣṇave.}}
+---json
+{
+    "name":"vi",
+    "h1":"vi",
+    "title":"vi",
+    "description":"the syllable vi of viṣṇave."
+}
+---
 
 ==== vi-kāram  ====
   * the syllable //vi// of //viṣṇave// --- [[books:sb:6:8:8-10|SB 6.8.8-10]]

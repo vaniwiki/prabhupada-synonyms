@@ -1,5 +1,11 @@
-~~Title:jaṅgamera~~
-{{description>of the living entities who can move; of the movable.}}
+---json
+{
+    "name":"jaṅgamera",
+    "h1":"jaṅgamera",
+    "title":"jaṅgamera",
+    "description":"of the living entities who can move; of the movable."
+}
+---
 
 ==== jaṅgamera  ====
   * of the living entities who can move --- [[books:cc:antya:3:70|Antya 3.70]]

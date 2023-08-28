@@ -1,5 +1,11 @@
-~~Title:abhoginaḥ~~
-{{description>of one who is not engaged in sense enjoyment.}}
+---json
+{
+    "name":"abhoginaḥ",
+    "h1":"abhoginaḥ",
+    "title":"abhoginaḥ",
+    "description":"of one who is not engaged in sense enjoyment."
+}
+---
 
 ==== abhoginaḥ  ====
   * of one who is not engaged in sense enjoyment --- [[books:sb:7:13:18|SB 7.13.18]]

@@ -1,5 +1,11 @@
-~~Title:abhyardyamāneṣu~~
-{{description>being harassed by.}}
+---json
+{
+    "name":"abhyardyamāneṣu",
+    "h1":"abhyardyamāneṣu",
+    "title":"abhyardyamāneṣu",
+    "description":"being harassed by."
+}
+---
 
 ==== abhyardyamāneṣu  ====
   * being harassed by --- [[books:sb:3:2:15|SB 3.2.15]]

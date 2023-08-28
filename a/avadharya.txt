@@ -1,5 +1,11 @@
-~~Title:avadhārya~~
-{{description>after hearing; knowing; knowing it well; perceiving; understanding; understanding surely that the child was the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"avadhārya",
+    "h1":"avadhārya",
+    "title":"avadhārya",
+    "description":"after hearing; knowing; knowing it well; perceiving; understanding; understanding surely that the child was the Supreme Personality of Godhead."
+}
+---
 
 ==== avadhārya  ====
   * after hearing --- [[books:sb:3:19:1|SB 3.19.1]]

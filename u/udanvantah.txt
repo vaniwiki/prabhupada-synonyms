@@ -1,5 +1,11 @@
-~~Title:udanvantaḥ~~
-{{description>seas.}}
+---json
+{
+    "name":"udanvantaḥ",
+    "h1":"udanvantaḥ",
+    "title":"udanvantaḥ",
+    "description":"seas."
+}
+---
 
 ==== udanvantaḥ  ====
   * seas --- [[books:sb:1:8:40|SB 1.8.40]]

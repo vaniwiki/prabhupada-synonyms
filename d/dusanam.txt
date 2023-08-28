@@ -1,5 +1,11 @@
-~~Title:dūṣaṇam~~
-{{description>whose fault.}}
+---json
+{
+    "name":"dūṣaṇam",
+    "h1":"dūṣaṇam",
+    "title":"dūṣaṇam",
+    "description":"whose fault."
+}
+---
 
 ==== dūṣaṇam  ====
   * whose fault --- [[books:sb:7:7:40|SB 7.7.40]]

@@ -1,5 +1,11 @@
-~~Title:balim~~
-{{description>a presentation or taxation; a small presentation of taxes; Bali; Bali Mahārāja; contribution; different paraphernalia of worship; ingredients of offerings; King Bali; Mahārāja Bali; means of worship; oblations; offerings; orders; orders to please Him; paraphernalia for worship; presentation; presentation s; presentation, ingredients for worship; presentations; strength; taxes; worshiping paraphernalia.}}
+---json
+{
+    "name":"balim",
+    "h1":"balim",
+    "title":"balim",
+    "description":"a presentation or taxation; a small presentation of taxes; Bali; Bali Mahārāja; contribution; different paraphernalia of worship; ingredients of offerings; King Bali; Mahārāja Bali; means of worship; oblations; offerings; orders; orders to please Him; paraphernalia for worship; presentation; presentation s; presentation, ingredients for worship; presentations; strength; taxes; worshiping paraphernalia."
+}
+---
 
 ==== balim  ====
   * a presentation or taxation --- [[books:cc:madhya:21:33|Madhya 21.33]]

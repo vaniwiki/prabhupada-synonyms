@@ -1,5 +1,11 @@
-~~Title:tarṣaṇāt~~
-{{description>from agitation.}}
+---json
+{
+    "name":"tarṣaṇāt",
+    "h1":"tarṣaṇāt",
+    "title":"tarṣaṇāt",
+    "description":"from agitation."
+}
+---
 
 ==== tarṣaṇāt  ====
   * from agitation --- [[books:sb:3:25:7|SB 3.25.7]]

@@ -1,5 +1,11 @@
-~~Title:abhidhyāyet~~
-{{description>meditate upon; one should meditate upon Him.}}
+---json
+{
+    "name":"abhidhyāyet",
+    "h1":"abhidhyāyet",
+    "title":"abhidhyāyet",
+    "description":"meditate upon; one should meditate upon Him."
+}
+---
 
 ==== abhidhyāyet  ====
   * meditate upon --- [[books:sb:4:8:44|SB 4.8.44]]

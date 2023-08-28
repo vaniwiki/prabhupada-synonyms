@@ -1,5 +1,11 @@
-~~Title:vicari~~
-{{description>I consider; we are considering.}}
+---json
+{
+    "name":"vicari",
+    "h1":"vicari",
+    "title":"vicari",
+    "description":"I consider; we are considering."
+}
+---
 
 ==== vicāri  ====
   * I consider --- [[books:cc:madhya:19:139|Madhya 19.139]]

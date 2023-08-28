@@ -1,5 +1,11 @@
-~~Title:manave~~
-{{description>unto the father of mankind (of the name Vaivasvata); unto the supreme mind or supreme Manu.}}
+---json
+{
+    "name":"manave",
+    "h1":"manave",
+    "title":"manave",
+    "description":"unto the father of mankind (of the name Vaivasvata); unto the supreme mind or supreme Manu."
+}
+---
 
 ==== manave  ====
   * unto the father of mankind (of the name Vaivasvata) --- [[books:bg:4:1|Bg. 4.1]]

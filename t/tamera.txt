@@ -1,5 +1,11 @@
-~~Title:tamera~~
-{{description>of darkness.}}
+---json
+{
+    "name":"tamera",
+    "h1":"tamera",
+    "title":"tamera",
+    "description":"of darkness."
+}
+---
 
 ==== tamera  ====
   * of darkness --- [[books:cc:antya:3:183|Antya 3.183]]

@@ -1,5 +1,11 @@
-~~Title:candi~~
-{{description>haughty one.}}
+---json
+{
+    "name":"candi",
+    "h1":"candi",
+    "title":"candi",
+    "description":"haughty one."
+}
+---
 
 ==== caṇḍi  ====
   * haughty one --- [[books:sb:3:14:39|SB 3.14.39]]

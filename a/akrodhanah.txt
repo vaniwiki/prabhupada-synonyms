@@ -1,5 +1,11 @@
-~~Title:akrodhanaḥ~~
-{{description>a son named Akrodhana.}}
+---json
+{
+    "name":"akrodhanaḥ",
+    "h1":"akrodhanaḥ",
+    "title":"akrodhanaḥ",
+    "description":"a son named Akrodhana."
+}
+---
 
 ==== akrodhanaḥ  ====
   * a son named Akrodhana --- [[books:sb:9:22:11|SB 9.22.11]]

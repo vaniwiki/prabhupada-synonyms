@@ -1,5 +1,11 @@
-~~Title:majumadāra~~
-{{description>Hiraṇya and Govardhana Majumadāra; treasurers of the government.}}
+---json
+{
+    "name":"majumadāra",
+    "h1":"majumadāra",
+    "title":"majumadāra",
+    "description":"Hiraṇya and Govardhana Majumadāra; treasurers of the government."
+}
+---
 
 ==== majumadāra  ====
   * Hiraṇya and Govardhana Majumadāra --- [[books:cc:antya:3:200|Antya 3.200]], [[books:cc:antya:3:203|Antya 3.203]]

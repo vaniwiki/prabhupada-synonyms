@@ -1,5 +1,11 @@
-~~Title:anuvṛttibhiḥ~~
-{{description>by executing services without being bewildered.}}
+---json
+{
+    "name":"anuvṛttibhiḥ",
+    "h1":"anuvṛttibhiḥ",
+    "title":"anuvṛttibhiḥ",
+    "description":"by executing services without being bewildered."
+}
+---
 
 ==== apramattā anuvṛttibhiḥ  ====
   * by executing services without being bewildered --- [[books:sb:9:3:10|SB 9.3.10]]

@@ -1,5 +1,11 @@
-~~Title:khuṭiyā~~
-{{description>Kānāñi Khuṭiyā.}}
+---json
+{
+    "name":"khuṭiyā",
+    "h1":"khuṭiyā",
+    "title":"khuṭiyā",
+    "description":"Kānāñi Khuṭiyā."
+}
+---
 
 ==== kānāñi-khuṭiyā  ====
   * Kānāñi Khuṭiyā --- [[books:cc:madhya:15:19|Madhya 15.19]], [[books:cc:madhya:15:29|Madhya 15.29]]

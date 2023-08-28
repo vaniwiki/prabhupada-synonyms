@@ -1,5 +1,11 @@
-~~Title:namaskṛtya~~
-{{description>after offering obeisances; offering obeisances.}}
+---json
+{
+    "name":"namaskṛtya",
+    "h1":"namaskṛtya",
+    "title":"namaskṛtya",
+    "description":"after offering obeisances; offering obeisances."
+}
+---
 
 ==== namaskṛtya  ====
   * after offering obeisances --- [[books:sb:4:6:1-2|SB 4.6.1-2]]

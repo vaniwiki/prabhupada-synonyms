@@ -1,5 +1,11 @@
-~~Title:mānine~~
-{{description>proud.}}
+---json
+{
+    "name":"mānine",
+    "h1":"mānine",
+    "title":"mānine",
+    "description":"proud."
+}
+---
 
 ==== mānine  ====
   * proud --- [[books:sb:4:2:13|SB 4.2.13]]

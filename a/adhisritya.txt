@@ -1,5 +1,11 @@
-~~Title:adhiśritya~~
-{{description>placed on.}}
+---json
+{
+    "name":"adhiśritya",
+    "h1":"adhiśritya",
+    "title":"adhiśritya",
+    "description":"placed on."
+}
+---
 
 ==== adhiśritya  ====
   * placed on --- [[books:sb:3:4:8|SB 3.4.8]]

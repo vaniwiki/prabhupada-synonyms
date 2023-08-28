@@ -1,5 +1,11 @@
-~~Title:bhavatah~~
-{{description>are; develops; of You; of Your exalted personality; of your good self; of Your Lordship; of yourself; there are; to you; toward you; unto you; you; Your.}}
+---json
+{
+    "name":"bhavatah",
+    "h1":"bhavatah",
+    "title":"bhavatah",
+    "description":"are; develops; of You; of Your exalted personality; of your good self; of Your Lordship; of yourself; there are; to you; toward you; unto you; you; Your."
+}
+---
 
 ==== bhavataḥ  ====
   * are --- [[books:cc:madhya:8:69|Madhya 8.69]]

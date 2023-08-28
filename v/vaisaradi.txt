@@ -1,5 +1,11 @@
-~~Title:vaiśāradī~~
-{{description>full of knowledge; of the most expert, or in relation with the Supreme Lord; very expert.}}
+---json
+{
+    "name":"vaiśāradī",
+    "h1":"vaiśāradī",
+    "title":"vaiśāradī",
+    "description":"full of knowledge; of the most expert, or in relation with the Supreme Lord; very expert."
+}
+---
 
 ==== vaiśāradī  ====
   * full of knowledge --- [[books:sb:1:3:34|SB 1.3.34]]

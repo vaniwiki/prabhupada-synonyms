@@ -1,5 +1,11 @@
-~~Title:vikaca~~
-{{description>expanded; just fructified.}}
+---json
+{
+    "name":"vikaca",
+    "h1":"vikaca",
+    "title":"vikaca",
+    "description":"expanded; just fructified."
+}
+---
 
 ==== vikaca  ====
   * expanded --- [[books:cc:antya:5:112|Antya 5.112]]

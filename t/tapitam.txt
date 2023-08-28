@@ -1,5 +1,11 @@
-~~Title:tāpitam~~
-{{description>being distressed.}}
+---json
+{
+    "name":"tāpitam",
+    "h1":"tāpitam",
+    "title":"tāpitam",
+    "description":"being distressed."
+}
+---
 
 ==== tāpitam  ====
   * being distressed --- [[books:sb:8:5:13|SB 8.5.13]]

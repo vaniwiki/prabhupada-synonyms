@@ -1,5 +1,11 @@
-~~Title:apratikriyam~~
-{{description>not to be counteracted.}}
+---json
+{
+    "name":"apratikriyam",
+    "h1":"apratikriyam",
+    "title":"apratikriyam",
+    "description":"not to be counteracted."
+}
+---
 
 ==== apratikriyam  ====
   * not to be counteracted --- [[books:sb:1:8:15|SB 1.8.15]]

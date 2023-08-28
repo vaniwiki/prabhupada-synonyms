@@ -1,5 +1,11 @@
-~~Title:bhṛt~~
-{{description>becomes.}}
+---json
+{
+    "name":"bhṛt",
+    "h1":"bhṛt",
+    "title":"bhṛt",
+    "description":"becomes."
+}
+---
 
 ==== bhṛt  ====
   * becomes --- [[books:sb:4:14:10|SB 4.14.10]]

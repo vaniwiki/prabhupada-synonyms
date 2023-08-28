@@ -1,5 +1,11 @@
-~~Title:ūrvoḥ~~
-{{description>at the thighs; from the thighs; on the thighs; on the two thighs; the thighs.}}
+---json
+{
+    "name":"ūrvoḥ",
+    "h1":"ūrvoḥ",
+    "title":"ūrvoḥ",
+    "description":"at the thighs; from the thighs; on the thighs; on the two thighs; the thighs."
+}
+---
 
 ==== ūrvoḥ  ====
   * at the thighs --- [[books:sb:3:28:23|SB 3.28.23]]

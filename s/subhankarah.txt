@@ -1,5 +1,11 @@
-~~Title:śubhaṅkaraḥ~~
-{{description>all-auspicious.}}
+---json
+{
+    "name":"śubhaṅkaraḥ",
+    "h1":"śubhaṅkaraḥ",
+    "title":"śubhaṅkaraḥ",
+    "description":"all-auspicious."
+}
+---
 
 ==== sarva-śubhaṅkaraḥ  ====
   * all-auspicious --- [[books:cc:madhya:23:74|Madhya 23.74]]

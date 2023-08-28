@@ -1,5 +1,11 @@
-~~Title:tarasā~~
-{{description>by force; by the strength; dexterously; immediately; in great haste; quickly; swiftly; very hastily; very soon; with all dexterity; with great force; with great haste; with great strength; with specific power.}}
+---json
+{
+    "name":"tarasā",
+    "h1":"tarasā",
+    "title":"tarasā",
+    "description":"by force; by the strength; dexterously; immediately; in great haste; quickly; swiftly; very hastily; very soon; with all dexterity; with great force; with great haste; with great strength; with specific power."
+}
+---
 
 ==== tarasā  ====
   * by force --- [[books:sb:9:20:18|SB 9.20.18]]

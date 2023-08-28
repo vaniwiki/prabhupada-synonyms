@@ -1,5 +1,11 @@
-~~Title:aśocat~~
-{{description>lamented extraordinarily.}}
+---json
+{
+    "name":"aśocat",
+    "h1":"aśocat",
+    "title":"aśocat",
+    "description":"lamented extraordinarily."
+}
+---
 
 ==== aśocat  ====
   * lamented extraordinarily --- [[books:sb:10:7:24|SB 10.7.24]]

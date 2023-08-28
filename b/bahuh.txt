@@ -1,5 +1,11 @@
-~~Title:bāhuḥ~~
-{{description>arms; Bāhu; his arms; whose arm.}}
+---json
+{
+    "name":"bāhuḥ",
+    "h1":"bāhuḥ",
+    "title":"bāhuḥ",
+    "description":"arms; Bāhu; his arms; whose arm."
+}
+---
 
 ==== bāhuḥ  ====
   * arms --- [[books:sb:4:5:3|SB 4.5.3]], [[books:sb:6:8:12|SB 6.8.12]], [[books:sb:7:3:2|SB 7.3.2]], [[books:sb:8:10:54|SB 8.10.54]]

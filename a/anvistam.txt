@@ -1,5 +1,11 @@
-~~Title:anviṣṭam~~
-{{description>has been sought.}}
+---json
+{
+    "name":"anviṣṭam",
+    "h1":"anviṣṭam",
+    "title":"anviṣṭam",
+    "description":"has been sought."
+}
+---
 
 ==== anviṣṭam  ====
   * has been sought --- [[books:sb:8:19:12|SB 8.19.12]]

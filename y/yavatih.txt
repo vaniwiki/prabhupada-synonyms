@@ -1,5 +1,11 @@
-~~Title:yāvatīḥ~~
-{{description>all kinds of; as many; as many as.}}
+---json
+{
+    "name":"yāvatīḥ",
+    "h1":"yāvatīḥ",
+    "title":"yāvatīḥ",
+    "description":"all kinds of; as many; as many as."
+}
+---
 
 ==== yāvatīḥ  ====
   * all kinds of --- [[books:sb:4:25:12|SB 4.25.12]]

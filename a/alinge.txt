@@ -1,5 +1,11 @@
-~~Title:aliṅge~~
-{{description>in that which does not possess a material body.}}
+---json
+{
+    "name":"aliṅge",
+    "h1":"aliṅge",
+    "title":"aliṅge",
+    "description":"in that which does not possess a material body."
+}
+---
 
 ==== aliṅge  ====
   * in that which does not possess a material body --- [[books:sb:7:2:25-26|SB 7.2.25-26]]

@@ -1,5 +1,11 @@
-~~Title:vaibhavam~~
-{{description>expansions; opulences.}}
+---json
+{
+    "name":"vaibhavam",
+    "h1":"vaibhavam",
+    "title":"vaibhavam",
+    "description":"expansions; opulences."
+}
+---
 
 ==== vaibhavam  ====
   * expansions --- [[books:cc:adi:3:81|Ādi 3.81]]

@@ -1,5 +1,11 @@
-~~Title:prākāraiḥ~~
-{{description>with surrounding walls.}}
+---json
+{
+    "name":"prākāraiḥ",
+    "h1":"prākāraiḥ",
+    "title":"prākāraiḥ",
+    "description":"with surrounding walls."
+}
+---
 
 ==== prākāraiḥ  ====
   * with surrounding walls --- [[books:sb:4:9:56|SB 4.9.56]]

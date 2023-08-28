@@ -1,5 +1,11 @@
-~~Title:cābuka~~
-{{description>whipped.}}
+---json
+{
+    "name":"cābuka",
+    "h1":"cābuka",
+    "title":"cābuka",
+    "description":"whipped."
+}
+---
 
 ==== cābuka mārilā  ====
   * whipped --- [[books:cc:madhya:25:188|Madhya 25.188]]

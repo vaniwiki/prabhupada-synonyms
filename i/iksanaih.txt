@@ -1,5 +1,11 @@
-~~Title:īkṣaṇaiḥ~~
-{{description>by a glancing smile.}}
+---json
+{
+    "name":"īkṣaṇaiḥ",
+    "h1":"īkṣaṇaiḥ",
+    "title":"īkṣaṇaiḥ",
+    "description":"by a glancing smile."
+}
+---
 
 ==== smita-īkṣaṇaiḥ  ====
   * by a glancing smile --- [[books:sb:1:11:22|SB 1.11.22]]

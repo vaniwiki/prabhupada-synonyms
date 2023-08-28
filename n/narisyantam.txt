@@ -1,5 +1,11 @@
-~~Title:nariṣyantam~~
-{{description>Nariṣyanta.}}
+---json
+{
+    "name":"nariṣyantam",
+    "h1":"nariṣyantam",
+    "title":"nariṣyantam",
+    "description":"Nariṣyanta."
+}
+---
 
 ==== nariṣyantam  ====
   * Nariṣyanta --- [[books:sb:9:1:11-12|SB 9.1.11-12]]

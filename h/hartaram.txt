@@ -1,5 +1,11 @@
-~~Title:hartāram~~
-{{description>who was stealing the horse of his father.}}
+---json
+{
+    "name":"hartāram",
+    "h1":"hartāram",
+    "title":"hartāram",
+    "description":"who was stealing the horse of his father."
+}
+---
 
 ==== aśva-hartāram  ====
   * who was stealing the horse of his father --- [[books:sb:4:24:5|SB 4.24.5]]

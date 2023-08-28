@@ -1,5 +1,11 @@
-~~Title:niścitam~~
-{{description>confidently; definite.}}
+---json
+{
+    "name":"niścitam",
+    "h1":"niścitam",
+    "title":"niścitam",
+    "description":"confidently; definite."
+}
+---
 
 ==== niścitam  ====
   * confidently --- [[books:bg:2:7|Bg. 2.7]]

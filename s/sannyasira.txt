@@ -1,5 +1,11 @@
-~~Title:sannyāsīra~~
-{{description>all the sannyāsīs; all the Māyāvādī sannyāsīs; by a sannyāsī; for a sannyāsī; of sannyāsīs; of a sannyāsi; of a sannyāsī; of a person in the renounced order; of all the Māyāvādīs; of one in the renounced order of life; of the sannyāsī, Śrī Caitanya Mahāprabhu; of the sannyāsī; of the mendicants in the renounced order of life; of the Māyāvādī sannyāsīs; the Māyāvādī sannyāsīs; with other Māyāvādī sannyasīs.}}
+---json
+{
+    "name":"sannyāsīra",
+    "h1":"sannyāsīra",
+    "title":"sannyāsīra",
+    "description":"all the sannyāsīs; all the Māyāvādī sannyāsīs; by a sannyāsī; for a sannyāsī; of sannyāsīs; of a sannyāsi; of a sannyāsī; of a person in the renounced order; of all the Māyāvādīs; of one in the renounced order of life; of the sannyāsī, Śrī Caitanya Mahāprabhu; of the sannyāsī; of the mendicants in the renounced order of life; of the Māyāvādī sannyāsīs; the Māyāvādī sannyāsīs; with other Māyāvādī sannyasīs."
+}
+---
 
 ==== sannyāsīra  ====
   * all the //sannyāsīs// --- [[books:cc:adi:7:58|Ādi 7.58]]

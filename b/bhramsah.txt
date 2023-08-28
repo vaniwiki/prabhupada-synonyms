@@ -1,5 +1,11 @@
-~~Title:bhraṁśaḥ~~
-{{description>such enjoyments attract the intelligence.}}
+---json
+{
+    "name":"bhraṁśaḥ",
+    "h1":"bhraṁśaḥ",
+    "title":"bhraṁśaḥ",
+    "description":"such enjoyments attract the intelligence."
+}
+---
 
 ==== buddhi-bhraṁśaḥ  ====
   * such enjoyments attract the intelligence --- [[books:sb:10:10:8|SB 10.10.8]]

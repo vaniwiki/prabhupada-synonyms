@@ -1,5 +1,11 @@
-~~Title:manvantareṣu~~
-{{description>in different incarnations of Manu; in the reign of each Manu.}}
+---json
+{
+    "name":"manvantareṣu",
+    "h1":"manvantareṣu",
+    "title":"manvantareṣu",
+    "description":"in different incarnations of Manu; in the reign of each Manu."
+}
+---
 
 ==== manvantareṣu  ====
   * in different incarnations of Manu --- [[books:sb:2:7:20|SB 2.7.20]]

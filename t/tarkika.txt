@@ -1,5 +1,11 @@
-~~Title:tārkika~~
-{{description>a mundane logician; logician; logicians; of logic.}}
+---json
+{
+    "name":"tārkika",
+    "h1":"tārkika",
+    "title":"tārkika",
+    "description":"a mundane logician; logician; logicians; of logic."
+}
+---
 
 ==== tārkika  ====
   * a mundane logician --- [[books:cc:madhya:12:181|Madhya 12.181]]

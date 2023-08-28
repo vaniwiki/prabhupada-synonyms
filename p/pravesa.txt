@@ -1,5 +1,11 @@
-~~Title:praveśa~~
-{{description>entrance.}}
+---json
+{
+    "name":"praveśa",
+    "h1":"praveśa",
+    "title":"praveśa",
+    "description":"entrance."
+}
+---
 
 ==== praveśa  ====
   * entrance --- [[books:cc:adi:4:235|Ādi 4.235]], [[books:cc:adi:6:9|Ādi 6.9]], [[books:cc:madhya:2:31|Madhya 2.31]], [[books:cc:madhya:6:75|Madhya 6.75]], [[books:cc:antya:15:95|Antya 15.95]]

@@ -1,5 +1,11 @@
-~~Title:jyotisi~~
-{{description>in the luminaries, specifically in the sun; in the sun.}}
+---json
+{
+    "name":"jyotisi",
+    "h1":"jyotisi",
+    "title":"jyotisi",
+    "description":"in the luminaries, specifically in the sun; in the sun."
+}
+---
 
 ==== jyotiṣi  ====
   * in the luminaries, specifically in the sun --- [[books:sb:7:12:29-30|SB 7.12.29-30]]

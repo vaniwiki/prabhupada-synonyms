@@ -1,5 +1,11 @@
-~~Title:sāyujyera~~
-{{description>the liberation called sāyujya (oneness with the Supreme).}}
+---json
+{
+    "name":"sāyujyera",
+    "h1":"sāyujyera",
+    "title":"sāyujyera",
+    "description":"the liberation called sāyujya (oneness with the Supreme)."
+}
+---
 
 ==== sāyujyera  ====
   * the liberation called //sāyujya// (oneness with the Supreme) --- [[books:cc:adi:5:38|Ādi 5.38]]

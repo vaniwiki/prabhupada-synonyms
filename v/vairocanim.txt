@@ -1,5 +1,11 @@
-~~Title:vairocanim~~
-{{description>unto Balirāja, the son of Virocana.}}
+---json
+{
+    "name":"vairocanim",
+    "h1":"vairocanim",
+    "title":"vairocanim",
+    "description":"unto Balirāja, the son of Virocana."
+}
+---
 
 ==== vairocanim  ====
   * unto Balirāja, the son of Virocana --- [[books:sb:8:6:29|SB 8.6.29]]

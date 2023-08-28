@@ -1,5 +1,11 @@
-~~Title:rākṣasyāḥ~~
-{{description>from the hands of the Rākṣasī Pūtanā.}}
+---json
+{
+    "name":"rākṣasyāḥ",
+    "h1":"rākṣasyāḥ",
+    "title":"rākṣasyāḥ",
+    "description":"from the hands of the Rākṣasī Pūtanā."
+}
+---
 
 ==== rākṣasyāḥ  ====
   * from the hands of the Rākṣasī Pūtanā --- [[books:sb:10:11:24|SB 10.11.24]]

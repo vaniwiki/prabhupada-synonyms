@@ -1,5 +1,11 @@
-~~Title:jatah~~
-{{description>having twisted hair; the matted locks of hair on the head; the roots.}}
+---json
+{
+    "name":"jatah",
+    "h1":"jatah",
+    "title":"jatah",
+    "description":"having twisted hair; the matted locks of hair on the head; the roots."
+}
+---
 
 ==== jaṭāḥ  ====
   * having twisted hair --- [[books:sb:4:4:16|SB 4.4.16]]

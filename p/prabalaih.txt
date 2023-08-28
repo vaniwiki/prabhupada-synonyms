@@ -1,5 +1,11 @@
-~~Title:prabalaiḥ~~
-{{description>great; very powerful.}}
+---json
+{
+    "name":"prabalaiḥ",
+    "h1":"prabalaiḥ",
+    "title":"prabalaiḥ",
+    "description":"great; very powerful."
+}
+---
 
 ==== prabalaiḥ  ====
   * great --- [[books:cc:adi:3:87|Ādi 3.87]]

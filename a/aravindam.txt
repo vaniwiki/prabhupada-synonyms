@@ -1,5 +1,11 @@
-~~Title:aravindam~~
-{{description>like lotus flowers; lotus; lotus flower; lotuslike.}}
+---json
+{
+    "name":"aravindam",
+    "h1":"aravindam",
+    "title":"aravindam",
+    "description":"like lotus flowers; lotus; lotus flower; lotuslike."
+}
+---
 
 ==== aravindam  ====
   * like lotus flowers --- [[books:sb:5:25:5|SB 5.25.5]]

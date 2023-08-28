@@ -1,5 +1,11 @@
-~~Title:āghūrṇayan~~
-{{description>whirling around.}}
+---json
+{
+    "name":"āghūrṇayan",
+    "h1":"āghūrṇayan",
+    "title":"āghūrṇayan",
+    "description":"whirling around."
+}
+---
 
 ==== āghūrṇayan  ====
   * whirling around --- [[books:cc:antya:1:164|Antya 1.164]]

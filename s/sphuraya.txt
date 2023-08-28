@@ -1,5 +1,11 @@
-~~Title:sphuraya~~
-{{description>appear; becomes manifest.}}
+---json
+{
+    "name":"sphuraya",
+    "h1":"sphuraya",
+    "title":"sphuraya",
+    "description":"appear; becomes manifest."
+}
+---
 
 ==== sphuraya  ====
   * appear --- [[books:cc:madhya:8:277|Madhya 8.277]]

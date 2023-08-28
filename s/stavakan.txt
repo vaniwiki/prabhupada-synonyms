@@ -1,5 +1,11 @@
-~~Title:stāvakān~~
-{{description>engaged in offering prayers.}}
+---json
+{
+    "name":"stāvakān",
+    "h1":"stāvakān",
+    "title":"stāvakān",
+    "description":"engaged in offering prayers."
+}
+---
 
 ==== stāvakān  ====
   * engaged in offering prayers --- [[books:sb:4:15:21|SB 4.15.21]]

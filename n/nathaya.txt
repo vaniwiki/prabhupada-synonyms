@@ -1,5 +1,11 @@
-~~Title:nathaya~~
-{{description>please award.}}
+---json
+{
+    "name":"nathaya",
+    "h1":"nathaya",
+    "title":"nathaya",
+    "description":"please award."
+}
+---
 
 ==== nāthaya  ====
   * please award --- [[books:sb:2:9:26|SB 2.9.26]]

@@ -1,5 +1,11 @@
-~~Title:pratyabodhayat~~
-{{description>gave instructions.}}
+---json
+{
+    "name":"pratyabodhayat",
+    "h1":"pratyabodhayat",
+    "title":"pratyabodhayat",
+    "description":"gave instructions."
+}
+---
 
 ==== pratyabodhayat  ====
   * gave instructions --- [[books:sb:4:25:3|SB 4.25.3]]

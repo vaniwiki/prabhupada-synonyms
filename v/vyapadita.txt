@@ -1,5 +1,11 @@
-~~Title:vyāpādita~~
-{{description>completely vanquished.}}
+---json
+{
+    "name":"vyāpādita",
+    "h1":"vyāpādita",
+    "title":"vyāpādita",
+    "description":"completely vanquished."
+}
+---
 
 ==== vyāpādita  ====
   * completely vanquished --- [[books:sb:8:17:9|SB 8.17.9]]

@@ -1,5 +1,11 @@
-~~Title:paurān~~
-{{description>the noble men of the city; to the citizens.}}
+---json
+{
+    "name":"paurān",
+    "h1":"paurān",
+    "title":"paurān",
+    "description":"the noble men of the city; to the citizens."
+}
+---
 
 ==== paurān  ====
   * the noble men of the city --- [[books:sb:4:21:6|SB 4.21.6]]

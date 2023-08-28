@@ -1,5 +1,11 @@
-~~Title:kaustubha~~
-{{description>Kaustubha gem; the Kaustubha gem; the Kaustubha gem used by the Lord; the Kaustubha jewel.}}
+---json
+{
+    "name":"kaustubha",
+    "h1":"kaustubha",
+    "title":"kaustubha",
+    "description":"Kaustubha gem; the Kaustubha gem; the Kaustubha gem used by the Lord; the Kaustubha jewel."
+}
+---
 
 ==== kaustubha  ====
   * Kaustubha gem --- [[books:sb:3:28:14|SB 3.28.14]]

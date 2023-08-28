@@ -1,5 +1,11 @@
-~~Title:asyam~~
-{{description>being so; in her; on this (earth); upon the world.}}
+---json
+{
+    "name":"asyam",
+    "h1":"asyam",
+    "title":"asyam",
+    "description":"being so; in her; on this (earth); upon the world."
+}
+---
 
 ==== asyām  ====
   * being so --- [[books:bg:2:72|Bg. 2.72]]

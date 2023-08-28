@@ -1,5 +1,11 @@
-~~Title:dvitīye~~
-{{description>in the illusory energy; in the Second Chapter; on the second year.}}
+---json
+{
+    "name":"dvitīye",
+    "h1":"dvitīye",
+    "title":"dvitīye",
+    "description":"in the illusory energy; in the Second Chapter; on the second year."
+}
+---
 
 ==== dvitīye  ====
   * in the illusory energy --- [[books:sb:4:9:33|SB 4.9.33]]

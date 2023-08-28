@@ -1,5 +1,11 @@
-~~Title:amīvam~~
-{{description>sinful activity.}}
+---json
+{
+    "name":"amīvam",
+    "h1":"amīvam",
+    "title":"amīvam",
+    "description":"sinful activity."
+}
+---
 
 ==== amīvam  ====
   * sinful activity --- [[books:sb:4:28:26|SB 4.28.26]]

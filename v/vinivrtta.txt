@@ -1,5 +1,11 @@
-~~Title:vinivṛtta~~
-{{description>associated.}}
+---json
+{
+    "name":"vinivṛtta",
+    "h1":"vinivṛtta",
+    "title":"vinivṛtta",
+    "description":"associated."
+}
+---
 
 ==== vinivṛtta  ====
   * associated --- [[books:bg:15:5|Bg. 15.5]]

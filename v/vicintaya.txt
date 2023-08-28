@@ -1,5 +1,11 @@
-~~Title:vicintaya~~
-{{description>kindly consider.}}
+---json
+{
+    "name":"vicintaya",
+    "h1":"vicintaya",
+    "title":"vicintaya",
+    "description":"kindly consider."
+}
+---
 
 ==== vicintaya  ====
   * kindly consider --- [[books:cc:antya:20:32|Antya 20.32]]

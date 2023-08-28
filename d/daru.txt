@@ -1,5 +1,11 @@
-~~Title:dāru~~
-{{description>of wood; wood.}}
+---json
+{
+    "name":"dāru",
+    "h1":"dāru",
+    "title":"dāru",
+    "description":"of wood; wood."
+}
+---
 
 ==== dāru  ====
   * of wood --- [[books:sb:10:1:51|SB 10.1.51]]

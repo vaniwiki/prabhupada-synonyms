@@ -1,5 +1,11 @@
-~~Title:nayatoḥ~~
-{{description>leading.}}
+---json
+{
+    "name":"nayatoḥ",
+    "h1":"nayatoḥ",
+    "title":"nayatoḥ",
+    "description":"leading."
+}
+---
 
 ==== nayatoḥ  ====
   * leading --- [[books:cc:madhya:24:207|Madhya 24.207]]

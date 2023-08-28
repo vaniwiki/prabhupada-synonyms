@@ -1,5 +1,11 @@
-~~Title:bhajaye~~
-{{description>become engaged in the service of Lord Kṛṣṇa.}}
+---json
+{
+    "name":"bhajaye",
+    "h1":"bhajaye",
+    "title":"bhajaye",
+    "description":"become engaged in the service of Lord Kṛṣṇa."
+}
+---
 
 ==== śrī-kṛṣṇa bhajaye  ====
   * become engaged in the service of Lord Kṛṣṇa --- [[books:cc:madhya:24:202|Madhya 24.202]]

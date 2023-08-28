@@ -1,5 +1,11 @@
-~~Title:abhiprāyam~~
-{{description>desire; the intention; the purpose.}}
+---json
+{
+    "name":"abhiprāyam",
+    "h1":"abhiprāyam",
+    "title":"abhiprāyam",
+    "description":"desire; the intention; the purpose."
+}
+---
 
 ==== abhiprāyam  ====
   * desire --- [[books:sb:9:9:3|SB 9.9.3]]

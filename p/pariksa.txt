@@ -1,5 +1,11 @@
-~~Title:pariksa~~
-{{description>examination; test; testing; the test.}}
+---json
+{
+    "name":"pariksa",
+    "h1":"pariksa",
+    "title":"pariksa",
+    "description":"examination; test; testing; the test."
+}
+---
 
 ==== parīkṣā  ====
   * examination --- [[books:cc:antya:4:33|Antya 4.33]], [[books:cc:antya:4:204|Antya 4.204]]

@@ -1,5 +1,11 @@
-~~Title:sañcayana~~
-{{description>accumulation.}}
+---json
+{
+    "name":"sañcayana",
+    "h1":"sañcayana",
+    "title":"sañcayana",
+    "description":"accumulation."
+}
+---
 
 ==== sañcayana  ====
   * accumulation --- [[books:cc:antya:10:111|Antya 10.111]]

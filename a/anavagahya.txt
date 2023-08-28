@@ -1,5 +1,11 @@
-~~Title:anavagāhya~~
-{{description>possessing.}}
+---json
+{
+    "name":"anavagāhya",
+    "h1":"anavagāhya",
+    "title":"anavagāhya",
+    "description":"possessing."
+}
+---
 
 ==== anavagāhya  ====
   * possessing --- [[books:sb:6:9:36|SB 6.9.36]]

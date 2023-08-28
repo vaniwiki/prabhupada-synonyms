@@ -1,5 +1,11 @@
-~~Title:nirvyalīkena~~
-{{description>without duplicity, or with great love; without pretense; without reservation.}}
+---json
+{
+    "name":"nirvyalīkena",
+    "h1":"nirvyalīkena",
+    "title":"nirvyalīkena",
+    "description":"without duplicity, or with great love; without pretense; without reservation."
+}
+---
 
 ==== nirvyalīkena  ====
   * without duplicity, or with great love --- [[books:sb:4:7:12|SB 4.7.12]]

@@ -1,5 +1,11 @@
-~~Title:utkṛtta~~
-{{description>cut from the very root.}}
+---json
+{
+    "name":"utkṛtta",
+    "h1":"utkṛtta",
+    "title":"utkṛtta",
+    "description":"cut from the very root."
+}
+---
 
 ==== utkṛtta-mūlābhyām  ====
   * cut from the very root --- [[books:sb:6:12:26|SB 6.12.26]]

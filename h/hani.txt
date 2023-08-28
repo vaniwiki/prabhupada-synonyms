@@ -1,5 +1,11 @@
-~~Title:hāni~~
-{{description>damaged; defective; finished; in loss; loss; lost; the abandonment.}}
+---json
+{
+    "name":"hāni",
+    "h1":"hāni",
+    "title":"hāni",
+    "description":"damaged; defective; finished; in loss; loss; lost; the abandonment."
+}
+---
 
 ==== hāni  ====
   * damaged --- [[books:cc:adi:12:52|Ādi 12.52]]

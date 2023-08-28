@@ -1,5 +1,11 @@
-~~Title:agocaraḥ~~
-{{description>beyond the range of physical sound.}}
+---json
+{
+    "name":"agocaraḥ",
+    "h1":"agocaraḥ",
+    "title":"agocaraḥ",
+    "description":"beyond the range of physical sound."
+}
+---
 
 ==== agocaraḥ  ====
   * beyond the range of physical sound --- [[books:sb:1:6:20|SB 1.6.20]]

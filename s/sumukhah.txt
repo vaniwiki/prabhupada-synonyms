@@ -1,5 +1,11 @@
-~~Title:sumukhaḥ~~
-{{description>so inclined.}}
+---json
+{
+    "name":"sumukhaḥ",
+    "h1":"sumukhaḥ",
+    "title":"sumukhaḥ",
+    "description":"so inclined."
+}
+---
 
 ==== sumukhaḥ  ====
   * so inclined --- [[books:sb:2:7:23|SB 2.7.23]]

@@ -1,5 +1,11 @@
-~~Title:bharah~~
-{{description>he who maintained.}}
+---json
+{
+    "name":"bharah",
+    "h1":"bharah",
+    "title":"bharah",
+    "description":"he who maintained."
+}
+---
 
 ==== bharaḥ  ====
   * he who maintained --- [[books:sb:3:30:30|SB 3.30.30]]

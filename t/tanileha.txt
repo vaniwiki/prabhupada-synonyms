@@ -1,5 +1,11 @@
-~~Title:ṭāṅileha~~
-{{description>in spite of being pulled.}}
+---json
+{
+    "name":"ṭāṅileha",
+    "h1":"ṭāṅileha",
+    "title":"ṭāṅileha",
+    "description":"in spite of being pulled."
+}
+---
 
 ==== ṭāṅileha  ====
   * in spite of being pulled --- [[books:cc:madhya:13:28|Madhya 13.28]]

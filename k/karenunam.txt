@@ -1,5 +1,11 @@
-~~Title:kareṇūnām~~
-{{description>the female elephants.}}
+---json
+{
+    "name":"kareṇūnām",
+    "h1":"kareṇūnām",
+    "title":"kareṇūnām",
+    "description":"the female elephants."
+}
+---
 
 ==== kareṇūnām  ====
   * the female elephants --- [[books:sb:3:19:35|SB 3.19.35]]

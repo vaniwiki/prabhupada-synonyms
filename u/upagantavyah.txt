@@ -1,5 +1,11 @@
-~~Title:upagantavyāḥ~~
-{{description>achievable.}}
+---json
+{
+    "name":"upagantavyāḥ",
+    "h1":"upagantavyāḥ",
+    "title":"upagantavyāḥ",
+    "description":"achievable."
+}
+---
 
 ==== upagantavyāḥ  ====
   * achievable --- [[books:sb:5:25:14|SB 5.25.14]]

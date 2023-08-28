@@ -1,5 +1,11 @@
-~~Title:kliśyamāneṣu~~
-{{description>if they are actually in any difficulty.}}
+---json
+{
+    "name":"kliśyamāneṣu",
+    "h1":"kliśyamāneṣu",
+    "title":"kliśyamāneṣu",
+    "description":"if they are actually in any difficulty."
+}
+---
 
 ==== kliśyamāneṣu  ====
   * if they are actually in any difficulty --- [[books:sb:10:5:28|SB 10.5.28]]

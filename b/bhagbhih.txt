@@ -1,5 +1,11 @@
-~~Title:bhāgbhiḥ~~
-{{description>by persons destined for hell; by persons who are destined to go to a hellish condition of life.}}
+---json
+{
+    "name":"bhāgbhiḥ",
+    "h1":"bhāgbhiḥ",
+    "title":"bhāgbhiḥ",
+    "description":"by persons destined for hell; by persons who are destined to go to a hellish condition of life."
+}
+---
 
 ==== naraka-bhāgbhiḥ  ====
   * by persons destined for hell --- [[books:sb:3:9:4|SB 3.9.4]], [[books:cc:antya:5:124-125|Antya 5.124-125]]

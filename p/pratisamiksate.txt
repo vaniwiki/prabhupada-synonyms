@@ -1,5 +1,11 @@
-~~Title:pratisamīkṣate~~
-{{description>continues to function.}}
+---json
+{
+    "name":"pratisamīkṣate",
+    "h1":"pratisamīkṣate",
+    "title":"pratisamīkṣate",
+    "description":"continues to function."
+}
+---
 
 ==== pratisamīkṣate  ====
   * continues to function --- [[books:sb:3:28:38|SB 3.28.38]]

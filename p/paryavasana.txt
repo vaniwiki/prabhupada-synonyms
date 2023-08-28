@@ -1,5 +1,11 @@
-~~Title:paryavasāna~~
-{{description>culmination; the conclusion.}}
+---json
+{
+    "name":"paryavasāna",
+    "h1":"paryavasāna",
+    "title":"paryavasāna",
+    "description":"culmination; the conclusion."
+}
+---
 
 ==== paryavasāna  ====
   * culmination --- [[books:cc:adi:7:146|Ādi 7.146]]

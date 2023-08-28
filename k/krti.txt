@@ -1,5 +1,11 @@
-~~Title:krti~~
-{{description>a son named Kṛtī; learned man; most fortunate; very celebrated; very expert.}}
+---json
+{
+    "name":"krti",
+    "h1":"krti",
+    "title":"krti",
+    "description":"a son named Kṛtī; learned man; most fortunate; very celebrated; very expert."
+}
+---
 
 ==== kṛtī  ====
   * a son named Kṛtī --- [[books:sb:9:21:28-29|SB 9.21.28-29]], [[books:sb:9:22:4-5|SB 9.22.4-5]]

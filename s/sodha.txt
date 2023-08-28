@@ -1,5 +1,11 @@
-~~Title:śodha~~
-{{description>purify.}}
+---json
+{
+    "name":"śodha",
+    "h1":"śodha",
+    "title":"śodha",
+    "description":"purify."
+}
+---
 
 ==== śodha  ====
   * purify --- [[books:cc:madhya:8:236|Madhya 8.236]]

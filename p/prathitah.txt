@@ -1,5 +1,11 @@
-~~Title:prathitaḥ~~
-{{description>celebrated.}}
+---json
+{
+    "name":"prathitaḥ",
+    "h1":"prathitaḥ",
+    "title":"prathitaḥ",
+    "description":"celebrated."
+}
+---
 
 ==== prathitaḥ  ====
   * celebrated --- [[books:bg:15:18|Bg. 15.18]]

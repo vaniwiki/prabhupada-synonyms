@@ -1,5 +1,11 @@
-~~Title:tanvā~~
-{{description>by the body; by your body; from her body; the material body.}}
+---json
+{
+    "name":"tanvā",
+    "h1":"tanvā",
+    "title":"tanvā",
+    "description":"by the body; by your body; from her body; the material body."
+}
+---
 
 ==== tanvā  ====
   * by the body --- [[books:cc:madhya:22:101|Madhya 22.101]], [[books:cc:madhya:23:23|Madhya 23.23]]

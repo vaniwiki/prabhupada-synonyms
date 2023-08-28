@@ -1,5 +1,11 @@
-~~Title:pana~~
-{{description>betel; by drinking; drink; drink or betel; drinking; drinks; to drink; to drinking.}}
+---json
+{
+    "name":"pana",
+    "h1":"pana",
+    "title":"pana",
+    "description":"betel; by drinking; drink; drink or betel; drinking; drinks; to drink; to drinking."
+}
+---
 
 ==== pāna  ====
   * betel --- [[books:cc:antya:7:71|Antya 7.71]]

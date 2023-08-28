@@ -1,5 +1,11 @@
-~~Title:avidheya~~
-{{description>improper.}}
+---json
+{
+    "name":"avidheya",
+    "h1":"avidheya",
+    "title":"avidheya",
+    "description":"improper."
+}
+---
 
 ==== avidheya  ====
   * improper --- [[books:cc:adi:16:56|Ādi 16.56]]

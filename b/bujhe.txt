@@ -1,5 +1,11 @@
-~~Title:bujhe~~
-{{description>can understand; understand; understands.}}
+---json
+{
+    "name":"bujhe",
+    "h1":"bujhe",
+    "title":"bujhe",
+    "description":"can understand; understand; understands."
+}
+---
 
 ==== bujhe  ====
   * can understand --- [[books:cc:adi:12:54|Ādi 12.54]], [[books:cc:madhya:8:122|Madhya 8.122]], [[books:cc:antya:2:170|Antya 2.170]]

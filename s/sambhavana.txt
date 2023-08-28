@@ -1,5 +1,11 @@
-~~Title:sambhāvanā~~
-{{description>possibility.}}
+---json
+{
+    "name":"sambhāvanā",
+    "h1":"sambhāvanā",
+    "title":"sambhāvanā",
+    "description":"possibility."
+}
+---
 
 ==== sambhāvanā  ====
   * possibility --- [[books:cc:madhya:24:69|Madhya 24.69]]

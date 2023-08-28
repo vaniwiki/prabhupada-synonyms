@@ -1,5 +1,11 @@
-~~Title:vārbhiḥ~~
-{{description>by the water; by the waters.}}
+---json
+{
+    "name":"vārbhiḥ",
+    "h1":"vārbhiḥ",
+    "title":"vārbhiḥ",
+    "description":"by the water; by the waters."
+}
+---
 
 ==== vārbhiḥ  ====
   * by the water --- [[books:sb:3:13:17|SB 3.13.17]], [[books:sb:8:18:31|SB 8.18.31]]

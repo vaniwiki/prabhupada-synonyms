@@ -1,5 +1,11 @@
-~~Title:avigaṇayan~~
-{{description>without caring about.}}
+---json
+{
+    "name":"avigaṇayan",
+    "h1":"avigaṇayan",
+    "title":"avigaṇayan",
+    "description":"without caring about."
+}
+---
 
 ==== avigaṇayan  ====
   * without caring about --- [[books:sb:5:5:30|SB 5.5.30]]

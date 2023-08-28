@@ -1,5 +1,11 @@
-~~Title:vātsalyāt~~
-{{description>out of affection; out of full affection.}}
+---json
+{
+    "name":"vātsalyāt",
+    "h1":"vātsalyāt",
+    "title":"vātsalyāt",
+    "description":"out of affection; out of full affection."
+}
+---
 
 ==== vātsalyāt  ====
   * out of affection --- [[books:sb:4:9:58-59|SB 4.9.58-59]]

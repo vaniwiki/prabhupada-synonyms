@@ -1,5 +1,11 @@
-~~Title:mātalinā~~
-{{description>by his chariot driver named Mātali; by Mātali, the chariot driver of Indra.}}
+---json
+{
+    "name":"mātalinā",
+    "h1":"mātalinā",
+    "title":"mātalinā",
+    "description":"by his chariot driver named Mātali; by Mātali, the chariot driver of Indra."
+}
+---
 
 ==== mātalinā  ====
   * by his chariot driver named Mātali --- [[books:sb:8:11:16|SB 8.11.16]]

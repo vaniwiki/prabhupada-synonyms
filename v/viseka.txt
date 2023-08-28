@@ -1,5 +1,11 @@
-~~Title:viśeka~~
-{{description>twenty.}}
+---json
+{
+    "name":"viśeka",
+    "h1":"viśeka",
+    "title":"viśeka",
+    "description":"twenty."
+}
+---
 
 ==== viśeka  ====
   * twenty --- [[books:cc:madhya:4:182|Madhya 4.182]]

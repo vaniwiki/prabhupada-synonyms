@@ -1,5 +1,11 @@
-~~Title:pratāpī~~
-{{description>very influential.}}
+---json
+{
+    "name":"pratāpī",
+    "h1":"pratāpī",
+    "title":"pratāpī",
+    "description":"very influential."
+}
+---
 
 ==== pratāpī  ====
   * very influential --- [[books:cc:madhya:23:75|Madhya 23.75]]

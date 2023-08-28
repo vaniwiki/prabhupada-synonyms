@@ -1,5 +1,11 @@
-~~Title:ripoḥ~~
-{{description>of the enemy; of your enemy.}}
+---json
+{
+    "name":"ripoḥ",
+    "h1":"ripoḥ",
+    "title":"ripoḥ",
+    "description":"of the enemy; of your enemy."
+}
+---
 
 ==== ripoḥ  ====
   * of the enemy --- [[books:sb:7:2:20|SB 7.2.20]], [[books:sb:8:19:10|SB 8.19.10]]

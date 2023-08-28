@@ -1,5 +1,11 @@
-~~Title:viśvāvasuḥ~~
-{{description>the chief singer of the Gandharvas; Viśvāvasu.}}
+---json
+{
+    "name":"viśvāvasuḥ",
+    "h1":"viśvāvasuḥ",
+    "title":"viśvāvasuḥ",
+    "description":"the chief singer of the Gandharvas; Viśvāvasu."
+}
+---
 
 ==== viśvāvasuḥ  ====
   * the chief singer of the Gandharvas --- [[books:sb:7:4:14|SB 7.4.14]]

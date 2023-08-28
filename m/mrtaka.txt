@@ -1,5 +1,11 @@
-~~Title:mṛtaka~~
-{{description>dead body; the dead body.}}
+---json
+{
+    "name":"mṛtaka",
+    "h1":"mṛtaka",
+    "title":"mṛtaka",
+    "description":"dead body; the dead body."
+}
+---
 
 ==== mṛtaka  ====
   * dead body --- [[books:cc:antya:18:47|Antya 18.47]]

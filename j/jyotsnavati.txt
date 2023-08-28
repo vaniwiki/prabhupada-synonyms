@@ -1,5 +1,11 @@
-~~Title:jyotsnāvatī~~
-{{description>full moon; full of moonlight; lighted by the full moon.}}
+---json
+{
+    "name":"jyotsnāvatī",
+    "h1":"jyotsnāvatī",
+    "title":"jyotsnāvatī",
+    "description":"full moon; full of moonlight; lighted by the full moon."
+}
+---
 
 ==== jyotsnāvatī  ====
   * full moon --- [[books:cc:adi:16:28|Ādi 16.28]]

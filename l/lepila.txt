@@ -1,5 +1,11 @@
-~~Title:lepila~~
-{{description>smeared.}}
+---json
+{
+    "name":"lepila",
+    "h1":"lepila",
+    "title":"lepila",
+    "description":"smeared."
+}
+---
 
 ==== lepilā  ====
   * smeared --- [[books:cc:antya:3:158|Antya 3.158]], [[books:cc:antya:16:32|Antya 16.32]]

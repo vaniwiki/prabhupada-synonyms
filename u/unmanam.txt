@@ -1,5 +1,11 @@
-~~Title:unmānam~~
-{{description>measuring pot.}}
+---json
+{
+    "name":"unmānam",
+    "h1":"unmānam",
+    "title":"unmānam",
+    "description":"measuring pot."
+}
+---
 
 ==== unmānam  ====
   * measuring pot --- [[books:sb:3:11:9|SB 3.11.9]]

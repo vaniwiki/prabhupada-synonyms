@@ -1,5 +1,11 @@
-~~Title:amsi~~
-{{description>is the source of all incarnations; source; source of all incarnations; the source of all expansions; the source of all incarnations.}}
+---json
+{
+    "name":"amsi",
+    "h1":"amsi",
+    "title":"amsi",
+    "description":"is the source of all incarnations; source; source of all incarnations; the source of all expansions; the source of all incarnations."
+}
+---
 
 ==== aṁśī  ====
   * is the source of all incarnations --- [[books:cc:adi:6:98|Ādi 6.98]]

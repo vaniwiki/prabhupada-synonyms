@@ -1,5 +1,11 @@
-~~Title:baliha~~
-{{description>do not say.}}
+---json
+{
+    "name":"baliha",
+    "h1":"baliha",
+    "title":"baliha",
+    "description":"do not say."
+}
+---
 
 ==== nā baliha  ====
   * do not say --- [[books:cc:antya:12:38|Antya 12.38]]

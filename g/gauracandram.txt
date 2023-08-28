@@ -1,5 +1,11 @@
-~~Title:gauracandram~~
-{{description>who is known as Lord Gauracandra.}}
+---json
+{
+    "name":"gauracandram",
+    "h1":"gauracandram",
+    "title":"gauracandram",
+    "description":"who is known as Lord Gauracandra."
+}
+---
 
 ==== gauracandram  ====
   * who is known as Lord Gauracandra --- [[books:cc:madhya:6:1|Madhya 6.1]]

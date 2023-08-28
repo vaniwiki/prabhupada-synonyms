@@ -1,5 +1,11 @@
-~~Title:upeksita~~
-{{description>neglected.}}
+---json
+{
+    "name":"upeksita",
+    "h1":"upeksita",
+    "title":"upeksita",
+    "description":"neglected."
+}
+---
 
 ==== upekṣita  ====
   * neglected --- [[books:sb:5:17:3|SB 5.17.3]]

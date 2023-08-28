@@ -1,5 +1,11 @@
-~~Title:gurum~~
-{{description>heavy; his spiritual master; his spiritual master, Vasiṣṭha; his spiritual master, Śukrācārya; most severe; most worshipable; preceptor; spiritual master; the instructor; the master; the perfect spiritual master; the preceptor; the spiritual master; the supreme spiritual master; the supreme spiritual master, Kṛṣṇa; the teacher or spiritual master; unto his guru; unto his spiritual master; unto the spiritual master; you who act as a good advisor to all fallen souls.}}
+---json
+{
+    "name":"gurum",
+    "h1":"gurum",
+    "title":"gurum",
+    "description":"heavy; his spiritual master; his spiritual master, Vasiṣṭha; his spiritual master, Śukrācārya; most severe; most worshipable; preceptor; spiritual master; the instructor; the master; the perfect spiritual master; the preceptor; the spiritual master; the supreme spiritual master; the supreme spiritual master, Kṛṣṇa; the teacher or spiritual master; unto his guru; unto his spiritual master; unto the spiritual master; you who act as a good advisor to all fallen souls."
+}
+---
 
 ==== gurum  ====
   * heavy --- [[books:sb:4:29:33|SB 4.29.33]]

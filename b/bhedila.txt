@@ -1,5 +1,11 @@
-~~Title:bhedila~~
-{{description>penetrated.}}
+---json
+{
+    "name":"bhedila",
+    "h1":"bhedila",
+    "title":"bhedila",
+    "description":"penetrated."
+}
+---
 
 ==== bhedila  ====
   * penetrated --- [[books:cc:madhya:11:217|Madhya 11.217]]

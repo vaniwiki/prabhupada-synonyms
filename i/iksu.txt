@@ -1,5 +1,11 @@
-~~Title:ikṣu~~
-{{description>sugarcane plants; the sugarcane plant.}}
+---json
+{
+    "name":"ikṣu",
+    "h1":"ikṣu",
+    "title":"ikṣu",
+    "description":"sugarcane plants; the sugarcane plant."
+}
+---
 
 ==== ikṣu  ====
   * sugarcane plants --- [[books:cc:madhya:23:43|Madhya 23.43]]

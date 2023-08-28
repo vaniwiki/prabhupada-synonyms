@@ -1,5 +1,11 @@
-~~Title:jarāyuṇā~~
-{{description>by the amnion.}}
+---json
+{
+    "name":"jarāyuṇā",
+    "h1":"jarāyuṇā",
+    "title":"jarāyuṇā",
+    "description":"by the amnion."
+}
+---
 
 ==== jarāyuṇā  ====
   * by the amnion --- [[books:sb:3:31:4|SB 3.31.4]]

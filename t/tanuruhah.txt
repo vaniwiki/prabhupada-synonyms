@@ -1,5 +1,11 @@
-~~Title:tanūruhaḥ~~
-{{description>the hairs on whose body were standing in jubilation.}}
+---json
+{
+    "name":"tanūruhaḥ",
+    "h1":"tanūruhaḥ",
+    "title":"tanūruhaḥ",
+    "description":"the hairs on whose body were standing in jubilation."
+}
+---
 
 ==== hṛṣṭa-tanūruhaḥ  ====
   * the hairs on whose body were standing in jubilation --- [[books:sb:9:14:17-18|SB 9.14.17-18]]

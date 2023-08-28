@@ -1,5 +1,11 @@
-~~Title:daṁśa~~
-{{description>gadflies; gnats.}}
+---json
+{
+    "name":"daṁśa",
+    "h1":"daṁśa",
+    "title":"daṁśa",
+    "description":"gadflies; gnats."
+}
+---
 
 ==== daṁśa  ====
   * gadflies --- [[books:sb:5:14:5|SB 5.14.5]]

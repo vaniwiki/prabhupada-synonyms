@@ -1,5 +1,11 @@
-~~Title:vipaścitaḥ~~
-{{description>even though learned; expert in ascertaining the Absolute Truth; full of discriminating knowledge; learned scholars or devotees; of a learned person; those who are fully aware of the truth of śāstra; very learned scholars; who knows everything.}}
+---json
+{
+    "name":"vipaścitaḥ",
+    "h1":"vipaścitaḥ",
+    "title":"vipaścitaḥ",
+    "description":"even though learned; expert in ascertaining the Absolute Truth; full of discriminating knowledge; learned scholars or devotees; of a learned person; those who are fully aware of the truth of śāstra; very learned scholars; who knows everything."
+}
+---
 
 ==== vipaścitaḥ  ====
   * even though learned --- [[books:sb:1:18:23|SB 1.18.23]]

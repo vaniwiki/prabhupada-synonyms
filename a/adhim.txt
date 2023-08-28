@@ -1,5 +1,11 @@
-~~Title:adhim~~
-{{description>distresses of the mind.}}
+---json
+{
+    "name":"adhim",
+    "h1":"adhim",
+    "title":"adhim",
+    "description":"distresses of the mind."
+}
+---
 
 ==== adhim  ====
   * distresses of the mind --- [[books:sb:4:25:42|SB 4.25.42]]

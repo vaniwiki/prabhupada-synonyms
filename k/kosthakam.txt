@@ -1,5 +1,11 @@
-~~Title:koṣṭhakam~~
-{{description>apartments.}}
+---json
+{
+    "name":"koṣṭhakam",
+    "h1":"koṣṭhakam",
+    "title":"koṣṭhakam",
+    "description":"apartments."
+}
+---
 
 ==== koṣṭhakam  ====
   * apartments --- [[books:sb:4:28:56|SB 4.28.56]]

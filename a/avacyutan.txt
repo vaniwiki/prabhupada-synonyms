@@ -1,5 +1,11 @@
-~~Title:avacyutān~~
-{{description>now gone out.}}
+---json
+{
+    "name":"avacyutān",
+    "h1":"avacyutān",
+    "title":"avacyutān",
+    "description":"now gone out."
+}
+---
 
 ==== avacyutān  ====
   * now gone out --- [[books:sb:10:12:27|SB 10.12.27]]

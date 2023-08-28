@@ -1,5 +1,11 @@
-~~Title:phalena~~
-{{description>by the result.}}
+---json
+{
+    "name":"phalena",
+    "h1":"phalena",
+    "title":"phalena",
+    "description":"by the result."
+}
+---
 
 ==== phalena  ====
   * by the result --- [[books:cc:antya:1:91|Antya 1.91]]

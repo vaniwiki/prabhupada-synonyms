@@ -1,5 +1,11 @@
-~~Title:mṛḍayan~~
-{{description>increasing happiness.}}
+---json
+{
+    "name":"mṛḍayan",
+    "h1":"mṛḍayan",
+    "title":"mṛḍayan",
+    "description":"increasing happiness."
+}
+---
 
 ==== mṛḍayan  ====
   * increasing happiness --- [[books:sb:3:15:15|SB 3.15.15]]

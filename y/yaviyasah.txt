@@ -1,5 +1,11 @@
-~~Title:yavīyasaḥ~~
-{{description>young; younger, very powerful.}}
+---json
+{
+    "name":"yavīyasaḥ",
+    "h1":"yavīyasaḥ",
+    "title":"yavīyasaḥ",
+    "description":"young; younger, very powerful."
+}
+---
 
 ==== yavīyasaḥ  ====
   * young --- [[books:sb:9:18:4|SB 9.18.4]]

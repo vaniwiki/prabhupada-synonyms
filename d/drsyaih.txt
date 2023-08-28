@@ -1,5 +1,11 @@
-~~Title:dṛśyaiḥ~~
-{{description>by what is seen.}}
+---json
+{
+    "name":"dṛśyaiḥ",
+    "h1":"dṛśyaiḥ",
+    "title":"dṛśyaiḥ",
+    "description":"by what is seen."
+}
+---
 
 ==== dṛśyaiḥ  ====
   * by what is seen --- [[books:sb:2:2:35|SB 2.2.35]]

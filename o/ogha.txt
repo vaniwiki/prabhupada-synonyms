@@ -1,5 +1,11 @@
-~~Title:ogha~~
-{{description>an inundation.}}
+---json
+{
+    "name":"ogha",
+    "h1":"ogha",
+    "title":"ogha",
+    "description":"an inundation."
+}
+---
 
 ==== ogha  ====
   * an inundation --- [[books:sb:4:10:24|SB 4.10.24]]

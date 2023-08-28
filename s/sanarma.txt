@@ -1,5 +1,11 @@
-~~Title:sanarma~~
-{{description>joyful.}}
+---json
+{
+    "name":"sanarma",
+    "h1":"sanarma",
+    "title":"sanarma",
+    "description":"joyful."
+}
+---
 
 ==== sanarma  ====
   * joyful --- [[books:cc:antya:15:14|Antya 15.14]]

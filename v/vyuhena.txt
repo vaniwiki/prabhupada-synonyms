@@ -1,5 +1,11 @@
-~~Title:vyūhena~~
-{{description>by expansions of Himself in the quadruple forms Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.}}
+---json
+{
+    "name":"vyūhena",
+    "h1":"vyūhena",
+    "title":"vyūhena",
+    "description":"by expansions of Himself in the quadruple forms Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha."
+}
+---
 
 ==== ātma-tattva-vyūhena  ====
   * by expansions of Himself in the quadruple forms Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha --- [[books:sb:5:17:14|SB 5.17.14]]

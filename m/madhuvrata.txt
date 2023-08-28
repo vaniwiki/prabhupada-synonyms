@@ -1,5 +1,11 @@
-~~Title:madhuvrata~~
-{{description>of bumblebees.}}
+---json
+{
+    "name":"madhuvrata",
+    "h1":"madhuvrata",
+    "title":"madhuvrata",
+    "description":"of bumblebees."
+}
+---
 
 ==== madhuvrata  ====
   * of bumblebees --- [[books:sb:3:28:28|SB 3.28.28]]

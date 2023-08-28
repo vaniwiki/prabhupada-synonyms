@@ -1,5 +1,11 @@
-~~Title:bhrānti~~
-{{description>there was illusion.}}
+---json
+{
+    "name":"bhrānti",
+    "h1":"bhrānti",
+    "title":"bhrānti",
+    "description":"there was illusion."
+}
+---
 
 ==== bhrānti haila  ====
   * there was illusion --- [[books:cc:antya:3:36|Antya 3.36]]

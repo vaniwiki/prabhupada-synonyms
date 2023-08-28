@@ -1,5 +1,11 @@
-~~Title:vipanna~~
-{{description>completely failing.}}
+---json
+{
+    "name":"vipanna",
+    "h1":"vipanna",
+    "title":"vipanna",
+    "description":"completely failing."
+}
+---
 
 ==== vipanna  ====
   * completely failing --- [[books:sb:4:23:21|SB 4.23.21]]

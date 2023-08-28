@@ -1,5 +1,11 @@
-~~Title:grhnanah~~
-{{description>taking.}}
+---json
+{
+    "name":"grhnanah",
+    "h1":"grhnanah",
+    "title":"grhnanah",
+    "description":"taking."
+}
+---
 
 ==== gṛhṇānaḥ  ====
   * taking --- [[books:sb:4:25:37|SB 4.25.37]]

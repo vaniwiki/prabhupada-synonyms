@@ -1,5 +1,11 @@
-~~Title:sthāpatyam~~
-{{description>architectural.}}
+---json
+{
+    "name":"sthāpatyam",
+    "h1":"sthāpatyam",
+    "title":"sthāpatyam",
+    "description":"architectural."
+}
+---
 
 ==== sthāpatyam  ====
   * architectural --- [[books:sb:3:12:38|SB 3.12.38]]

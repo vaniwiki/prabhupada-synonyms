@@ -1,5 +1,11 @@
-~~Title:sakhīḥ~~
-{{description>her companions.}}
+---json
+{
+    "name":"sakhīḥ",
+    "h1":"sakhīḥ",
+    "title":"sakhīḥ",
+    "description":"her companions."
+}
+---
 
 ==== tat-sakhīḥ  ====
   * her companions --- [[books:sb:9:14:33|SB 9.14.33]]

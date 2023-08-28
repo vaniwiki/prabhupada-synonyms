@@ -1,5 +1,11 @@
-~~Title:āśleṣa~~
-{{description>embracing.}}
+---json
+{
+    "name":"āśleṣa",
+    "h1":"āśleṣa",
+    "title":"āśleṣa",
+    "description":"embracing."
+}
+---
 
 ==== āśleṣa  ====
   * embracing --- [[books:sb:1:11:22|SB 1.11.22]]

@@ -1,5 +1,11 @@
-~~Title:dhairyaḥ~~
-{{description>mental equilibrium.}}
+---json
+{
+    "name":"dhairyaḥ",
+    "h1":"dhairyaḥ",
+    "title":"dhairyaḥ",
+    "description":"mental equilibrium."
+}
+---
 
 ==== dhairyaḥ  ====
   * mental equilibrium --- [[books:sb:3:1:32|SB 3.1.32]]

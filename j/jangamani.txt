@@ -1,5 +1,11 @@
-~~Title:jaṅgamāni~~
-{{description>and moving.}}
+---json
+{
+    "name":"jaṅgamāni",
+    "h1":"jaṅgamāni",
+    "title":"jaṅgamāni",
+    "description":"and moving."
+}
+---
 
 ==== jaṅgamāni  ====
   * and moving --- [[books:sb:4:31:15|SB 4.31.15]]

@@ -1,5 +1,11 @@
-~~Title:hiṁsām~~
-{{description>envy; violence.}}
+---json
+{
+    "name":"hiṁsām",
+    "h1":"hiṁsām",
+    "title":"hiṁsām",
+    "description":"envy; violence."
+}
+---
 
 ==== hiṁsām  ====
   * envy --- [[books:sb:7:15:23|SB 7.15.23]]

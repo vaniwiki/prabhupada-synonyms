@@ -1,5 +1,11 @@
-~~Title:vitānāni~~
-{{description>canopies; expansions.}}
+---json
+{
+    "name":"vitānāni",
+    "h1":"vitānāni",
+    "title":"vitānāni",
+    "description":"canopies; expansions."
+}
+---
 
 ==== vitānāni  ====
   * canopies --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

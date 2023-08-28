@@ -1,5 +1,11 @@
-~~Title:kṣemyam~~
-{{description>beneficial.}}
+---json
+{
+    "name":"kṣemyam",
+    "h1":"kṣemyam",
+    "title":"kṣemyam",
+    "description":"beneficial."
+}
+---
 
 ==== kṣemyam  ====
   * beneficial --- [[books:sb:4:25:40|SB 4.25.40]]

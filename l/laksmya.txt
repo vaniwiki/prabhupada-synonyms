@@ -1,5 +1,11 @@
-~~Title:lakṣmyā~~
-{{description>beauty; by Lakṣmī; by the goddess of fortune; by the opulence of; opulence; opulences; with the goddess of fortune.}}
+---json
+{
+    "name":"lakṣmyā",
+    "h1":"lakṣmyā",
+    "title":"lakṣmyā",
+    "description":"beauty; by Lakṣmī; by the goddess of fortune; by the opulence of; opulence; opulences; with the goddess of fortune."
+}
+---
 
 ==== lakṣmyā  ====
   * beauty --- [[books:sb:2:2:10|SB 2.2.10]]

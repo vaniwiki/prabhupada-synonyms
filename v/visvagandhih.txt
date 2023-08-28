@@ -1,5 +1,11 @@
-~~Title:viśvagandhiḥ~~
-{{description>of the name Viśvagandhi.}}
+---json
+{
+    "name":"viśvagandhiḥ",
+    "h1":"viśvagandhiḥ",
+    "title":"viśvagandhiḥ",
+    "description":"of the name Viśvagandhi."
+}
+---
 
 ==== viśvagandhiḥ  ====
   * of the name Viśvagandhi --- [[books:sb:9:6:20|SB 9.6.20]]

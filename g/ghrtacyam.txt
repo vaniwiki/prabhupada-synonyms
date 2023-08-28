@@ -1,5 +1,11 @@
-~~Title:ghṛtācyām~~
-{{description>Ghṛtācī.}}
+---json
+{
+    "name":"ghṛtācyām",
+    "h1":"ghṛtācyām",
+    "title":"ghṛtācyām",
+    "description":"Ghṛtācī."
+}
+---
 
 ==== ghṛtācyām  ====
   * Ghṛtācī --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

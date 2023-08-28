@@ -1,5 +1,11 @@
-~~Title:asamaiḥ~~
-{{description>by equals.}}
+---json
+{
+    "name":"asamaiḥ",
+    "h1":"asamaiḥ",
+    "title":"asamaiḥ",
+    "description":"by equals."
+}
+---
 
 ==== asamaiḥ  ====
   * by equals --- [[books:sb:1:14:42|SB 1.14.42]]

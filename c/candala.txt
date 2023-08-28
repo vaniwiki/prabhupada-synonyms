@@ -1,5 +1,11 @@
-~~Title:caṇḍāla~~
-{{description>the dog-eater, the lowest of mankind; the lowest of men; the lowest of the men.}}
+---json
+{
+    "name":"caṇḍāla",
+    "h1":"caṇḍāla",
+    "title":"caṇḍāla",
+    "description":"the dog-eater, the lowest of mankind; the lowest of men; the lowest of the men."
+}
+---
 
 ==== caṇḍāla  ====
   * the dog-eater, the lowest of mankind --- [[books:cc:madhya:16:184|Madhya 16.184]]

@@ -1,5 +1,11 @@
-~~Title:trāsayan~~
-{{description>threatening.}}
+---json
+{
+    "name":"trāsayan",
+    "h1":"trāsayan",
+    "title":"trāsayan",
+    "description":"threatening."
+}
+---
 
 ==== trāsayan  ====
   * threatening --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

@@ -1,5 +1,11 @@
-~~Title:me~~
-{{description>about me; by me; executed by me; for me; from Me; Me; mind; mine; my; my duty; myself; of me (Hiraṇyakaśipu); of me; of Mine; of Myself; on me; to Me; unto me; upon me; with me.}}
+---json
+{
+    "name":"me",
+    "h1":"me",
+    "title":"me",
+    "description":"about me; by me; executed by me; for me; from Me; Me; mind; mine; my; my duty; myself; of me (Hiraṇyakaśipu); of me; of Mine; of Myself; on me; to Me; unto me; upon me; with me."
+}
+---
 
 ==== me  ====
   * about me --- [[books:sb:2:5:10|SB 2.5.10]]

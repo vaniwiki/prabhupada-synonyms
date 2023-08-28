@@ -1,5 +1,11 @@
-~~Title:ramam~~
-{{description>the goddess of fortune.}}
+---json
+{
+    "name":"ramam",
+    "h1":"ramam",
+    "title":"ramam",
+    "description":"the goddess of fortune."
+}
+---
 
 ==== ramām  ====
   * the goddess of fortune --- [[books:sb:5:18:16|SB 5.18.16]]

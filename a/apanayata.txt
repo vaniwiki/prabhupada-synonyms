@@ -1,5 +1,11 @@
-~~Title:apanayata~~
-{{description>try to take.}}
+---json
+{
+    "name":"apanayata",
+    "h1":"apanayata",
+    "title":"apanayata",
+    "description":"try to take."
+}
+---
 
 ==== apanayata  ====
   * try to take --- [[books:sb:6:2:13|SB 6.2.13]]

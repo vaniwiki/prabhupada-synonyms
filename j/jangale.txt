@@ -1,5 +1,11 @@
-~~Title:jāṅgale~~
-{{description>in the capital of Kuru's empire.}}
+---json
+{
+    "name":"jāṅgale",
+    "h1":"jāṅgale",
+    "title":"jāṅgale",
+    "description":"in the capital of Kuru's empire."
+}
+---
 
 ==== kuru-jāṅgale  ====
   * in the capital of Kuru's empire --- [[books:sb:1:16:10|SB 1.16.10]]

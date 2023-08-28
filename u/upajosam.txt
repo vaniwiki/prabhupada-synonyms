@@ -1,5 +1,11 @@
-~~Title:upajoṣam~~
-{{description>according to comfort; according to one's taste; according to the enjoyment of their past activities; as much as he wanted; as much as possible.}}
+---json
+{
+    "name":"upajoṣam",
+    "h1":"upajoṣam",
+    "title":"upajoṣam",
+    "description":"according to comfort; according to one's taste; according to the enjoyment of their past activities; as much as he wanted; as much as possible."
+}
+---
 
 ==== yathā-upajoṣam  ====
   * according to comfort --- [[books:sb:3:23:21|SB 3.23.21]]

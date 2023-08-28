@@ -1,5 +1,11 @@
-~~Title:pariśocadbhiḥ~~
-{{description>lamenting.}}
+---json
+{
+    "name":"pariśocadbhiḥ",
+    "h1":"pariśocadbhiḥ",
+    "title":"pariśocadbhiḥ",
+    "description":"lamenting."
+}
+---
 
 ==== pariśocadbhiḥ  ====
   * lamenting --- [[books:sb:3:30:17|SB 3.30.17]]

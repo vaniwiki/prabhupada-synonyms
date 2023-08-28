@@ -1,5 +1,11 @@
-~~Title:dakṣiṇī~~
-{{description>having circumambulated; keeping it to their right.}}
+---json
+{
+    "name":"dakṣiṇī",
+    "h1":"dakṣiṇī",
+    "title":"dakṣiṇī",
+    "description":"having circumambulated; keeping it to their right."
+}
+---
 
 ==== dakṣiṇī-kṛtya  ====
   * having circumambulated --- [[books:sb:3:24:41|SB 3.24.41]]

@@ -1,5 +1,11 @@
-~~Title:rudre~~
-{{description>unto Lord Śiva (Rudra).}}
+---json
+{
+    "name":"rudre",
+    "h1":"rudre",
+    "title":"rudre",
+    "description":"unto Lord Śiva (Rudra)."
+}
+---
 
 ==== rudre  ====
   * unto Lord Śiva (Rudra) --- [[books:sb:7:12:29-30|SB 7.12.29-30]]

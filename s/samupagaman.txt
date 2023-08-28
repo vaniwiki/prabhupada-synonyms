@@ -1,5 +1,11 @@
-~~Title:samupāgaman~~
-{{description>arrived.}}
+---json
+{
+    "name":"samupāgaman",
+    "h1":"samupāgaman",
+    "title":"samupāgaman",
+    "description":"arrived."
+}
+---
 
 ==== samupāgaman  ====
   * arrived --- [[books:sb:9:1:29|SB 9.1.29]]

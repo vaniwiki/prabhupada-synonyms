@@ -1,5 +1,11 @@
-~~Title:tarate~~
-{{description>can cross over.}}
+---json
+{
+    "name":"tarate",
+    "h1":"tarate",
+    "title":"tarate",
+    "description":"can cross over."
+}
+---
 
 ==== tarate  ====
   * can cross over --- [[books:sb:9:8:13|SB 9.8.13]]

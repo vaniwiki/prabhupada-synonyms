@@ -1,5 +1,11 @@
-~~Title:adisat~~
-{{description>delivered.}}
+---json
+{
+    "name":"adisat",
+    "h1":"adisat",
+    "title":"adisat",
+    "description":"delivered."
+}
+---
 
 ==== adiśat  ====
   * delivered --- [[books:sb:4:24:2|SB 4.24.2]]

@@ -1,5 +1,11 @@
-~~Title:daśabhiḥ~~
-{{description>ten; the ten (five senses for gathering knowledge and five organs of action); with ten.}}
+---json
+{
+    "name":"daśabhiḥ",
+    "h1":"daśabhiḥ",
+    "title":"daśabhiḥ",
+    "description":"ten; the ten (five senses for gathering knowledge and five organs of action); with ten."
+}
+---
 
 ==== daśabhiḥ  ====
   * ten --- [[books:sb:4:25:20|SB 4.25.20]]

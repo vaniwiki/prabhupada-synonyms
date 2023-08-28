@@ -1,5 +1,11 @@
-~~Title:niyamān~~
-{{description>rules and regulations; sacred vows; the rules and regulations.}}
+---json
+{
+    "name":"niyamān",
+    "h1":"niyamān",
+    "title":"niyamān",
+    "description":"rules and regulations; sacred vows; the rules and regulations."
+}
+---
 
 ==== niyamān  ====
   * rules and regulations --- [[books:sb:2:9:40|SB 2.9.40]]

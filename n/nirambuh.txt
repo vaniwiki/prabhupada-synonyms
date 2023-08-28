@@ -1,5 +1,11 @@
-~~Title:nirambuḥ~~
-{{description>without drinking water.}}
+---json
+{
+    "name":"nirambuḥ",
+    "h1":"nirambuḥ",
+    "title":"nirambuḥ",
+    "description":"without drinking water."
+}
+---
 
 ==== nirambuḥ  ====
   * without drinking water --- [[books:sb:7:3:19|SB 7.3.19]]

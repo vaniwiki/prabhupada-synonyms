@@ -1,5 +1,11 @@
-~~Title:tatāḍa~~
-{{description>struck.}}
+---json
+{
+    "name":"tatāḍa",
+    "h1":"tatāḍa",
+    "title":"tatāḍa",
+    "description":"struck."
+}
+---
 
 ==== tatāḍa  ====
   * struck --- [[books:sb:6:12:4|SB 6.12.4]], [[books:sb:7:8:14|SB 7.8.14]]

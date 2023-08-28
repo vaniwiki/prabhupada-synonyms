@@ -1,5 +1,11 @@
-~~Title:śuśrūṣaṇena~~
-{{description>with service.}}
+---json
+{
+    "name":"śuśrūṣaṇena",
+    "h1":"śuśrūṣaṇena",
+    "title":"śuśrūṣaṇena",
+    "description":"with service."
+}
+---
 
 ==== śuśrūṣaṇena  ====
   * with service --- [[books:sb:6:18:56|SB 6.18.56]]

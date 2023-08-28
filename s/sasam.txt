@@ -1,5 +1,11 @@
-~~Title:śaśam~~
-{{description>a rabbit.}}
+---json
+{
+    "name":"śaśam",
+    "h1":"śaśam",
+    "title":"śaśam",
+    "description":"a rabbit."
+}
+---
 
 ==== śaśam  ====
   * a rabbit --- [[books:sb:9:6:7|SB 9.6.7]]

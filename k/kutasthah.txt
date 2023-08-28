@@ -1,5 +1,11 @@
-~~Title:kūṭasthaḥ~~
-{{description>among; in oneness; spiritually situated.}}
+---json
+{
+    "name":"kūṭasthaḥ",
+    "h1":"kūṭasthaḥ",
+    "title":"kūṭasthaḥ",
+    "description":"among; in oneness; spiritually situated."
+}
+---
 
 ==== kūṭasthaḥ  ====
   * among --- [[books:sb:1:11:35|SB 1.11.35]]

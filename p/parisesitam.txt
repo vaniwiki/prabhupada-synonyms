@@ -1,5 +1,11 @@
-~~Title:pariśeṣitam~~
-{{description>the remnants of the sacrifice executed on my behalf.}}
+---json
+{
+    "name":"pariśeṣitam",
+    "h1":"pariśeṣitam",
+    "title":"pariśeṣitam",
+    "description":"the remnants of the sacrifice executed on my behalf."
+}
+---
 
 ==== mat-satra-pariśeṣitam  ====
   * the remnants of the sacrifice executed on my behalf --- [[books:sb:9:4:11|SB 9.4.11]]

@@ -1,5 +1,11 @@
-~~Title:buddhimān~~
-{{description>intelligent; is intelligent; very wise.}}
+---json
+{
+    "name":"buddhimān",
+    "h1":"buddhimān",
+    "title":"buddhimān",
+    "description":"intelligent; is intelligent; very wise."
+}
+---
 
 ==== buddhimān  ====
   * intelligent --- [[books:bg:15:20|Bg. 15.20]]

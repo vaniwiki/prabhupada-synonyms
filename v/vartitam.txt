@@ -1,5 +1,11 @@
-~~Title:vartitam~~
-{{description>maintained your livelihood; was spent.}}
+---json
+{
+    "name":"vartitam",
+    "h1":"vartitam",
+    "title":"vartitam",
+    "description":"maintained your livelihood; was spent."
+}
+---
 
 ==== vartitam  ====
   * maintained your livelihood --- [[books:sb:1:13:9|SB 1.13.9]]

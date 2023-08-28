@@ -1,5 +1,11 @@
-~~Title:saṅkathyamānena~~
-{{description>being described.}}
+---json
+{
+    "name":"saṅkathyamānena",
+    "h1":"saṅkathyamānena",
+    "title":"saṅkathyamānena",
+    "description":"being described."
+}
+---
 
 ==== saṅkathyamānena  ====
   * being described --- [[books:sb:8:5:13|SB 8.5.13]]

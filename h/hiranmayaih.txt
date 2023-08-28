@@ -1,5 +1,11 @@
-~~Title:hiraṇmayaiḥ~~
-{{description>and gold.}}
+---json
+{
+    "name":"hiraṇmayaiḥ",
+    "h1":"hiraṇmayaiḥ",
+    "title":"hiraṇmayaiḥ",
+    "description":"and gold."
+}
+---
 
 ==== hiraṇmayaiḥ  ====
   * and gold --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

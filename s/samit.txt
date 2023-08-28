@@ -1,5 +1,11 @@
-~~Title:samit~~
-{{description>firewood; wood for the sacrificial fire.}}
+---json
+{
+    "name":"samit",
+    "h1":"samit",
+    "title":"samit",
+    "description":"firewood; wood for the sacrificial fire."
+}
+---
 
 ==== samit  ====
   * firewood --- [[books:sb:5:8:12|SB 5.8.12]]

@@ -1,5 +1,11 @@
-~~Title:rasasya~~
-{{description>of all delicacies; of taste.}}
+---json
+{
+    "name":"rasasya",
+    "h1":"rasasya",
+    "title":"rasasya",
+    "description":"of all delicacies; of taste."
+}
+---
 
 ==== rasasya  ====
   * of all delicacies --- [[books:sb:2:6:1|SB 2.6.1]]

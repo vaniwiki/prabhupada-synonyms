@@ -1,5 +1,11 @@
-~~Title:jighranti~~
-{{description>smell.}}
+---json
+{
+    "name":"jighranti",
+    "h1":"jighranti",
+    "title":"jighranti",
+    "description":"smell."
+}
+---
 
 ==== jighranti  ====
   * smell --- [[books:sb:3:9:5|SB 3.9.5]]

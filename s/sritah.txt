@@ -1,5 +1,11 @@
-~~Title:sritah~~
-{{description>has taken shelter; took shelter.}}
+---json
+{
+    "name":"sritah",
+    "h1":"sritah",
+    "title":"sritah",
+    "description":"has taken shelter; took shelter."
+}
+---
 
 ==== śritaḥ  ====
   * has taken shelter --- [[books:sb:10:2:20|SB 10.2.20]]

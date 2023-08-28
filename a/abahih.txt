@@ -1,5 +1,11 @@
-~~Title:abahiḥ~~
-{{description>from within; without exterior.}}
+---json
+{
+    "name":"abahiḥ",
+    "h1":"abahiḥ",
+    "title":"abahiḥ",
+    "description":"from within; without exterior."
+}
+---
 
 ==== abahiḥ  ====
   * from within --- [[books:sb:3:9:37|SB 3.9.37]]

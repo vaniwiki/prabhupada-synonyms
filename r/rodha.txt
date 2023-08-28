@@ -1,5 +1,11 @@
-~~Title:rodha~~
-{{description>checking with Her hand.}}
+---json
+{
+    "name":"rodha",
+    "h1":"rodha",
+    "title":"rodha",
+    "description":"checking with Her hand."
+}
+---
 
 ==== pāṇi-rodha  ====
   * checking with Her hand --- [[books:cc:madhya:14:198|Madhya 14.198]]

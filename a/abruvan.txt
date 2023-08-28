@@ -1,5 +1,11 @@
-~~Title:abruvan~~
-{{description>spoke; they replied; they said; was called.}}
+---json
+{
+    "name":"abruvan",
+    "h1":"abruvan",
+    "title":"abruvan",
+    "description":"spoke; they replied; they said; was called."
+}
+---
 
 ==== abruvan  ====
   * spoke --- [[books:sb:4:14:13|SB 4.14.13]], [[books:sb:6:7:26|SB 6.7.26]], [[books:sb:6:13:6|SB 6.13.6]]

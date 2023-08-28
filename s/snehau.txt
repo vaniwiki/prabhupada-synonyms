@@ -1,5 +1,11 @@
-~~Title:snehau~~
-{{description>dealing with love and affection.}}
+---json
+{
+    "name":"snehau",
+    "h1":"snehau",
+    "title":"snehau",
+    "description":"dealing with love and affection."
+}
+---
 
 ==== kṛta-snehau  ====
   * dealing with love and affection --- [[books:sb:10:3:45|SB 10.3.45]]

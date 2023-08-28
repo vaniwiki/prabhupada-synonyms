@@ -1,5 +1,11 @@
-~~Title:salmali~~
-{{description>Śālmali.}}
+---json
+{
+    "name":"salmali",
+    "h1":"salmali",
+    "title":"salmali",
+    "description":"Śālmali."
+}
+---
 
 ==== śālmali  ====
   * Śālmali --- [[books:sb:5:1:32|SB 5.1.32]]

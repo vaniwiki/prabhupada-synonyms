@@ -1,5 +1,11 @@
-~~Title:nala~~
-{{description>nalas; pipes.}}
+---json
+{
+    "name":"nala",
+    "h1":"nala",
+    "title":"nala",
+    "description":"nalas; pipes."
+}
+---
 
 ==== nala  ====
   * //nalas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

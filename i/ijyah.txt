@@ -1,5 +1,11 @@
-~~Title:ijyaḥ~~
-{{description>to be worshiped.}}
+---json
+{
+    "name":"ijyaḥ",
+    "h1":"ijyaḥ",
+    "title":"ijyaḥ",
+    "description":"to be worshiped."
+}
+---
 
 ==== ijyaḥ  ====
   * to be worshiped --- [[books:sb:4:2:34|SB 4.2.34]]

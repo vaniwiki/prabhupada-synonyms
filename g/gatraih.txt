@@ -1,5 +1,11 @@
-~~Title:gātraiḥ~~
-{{description>by the bodily limbs.}}
+---json
+{
+    "name":"gātraiḥ",
+    "h1":"gātraiḥ",
+    "title":"gātraiḥ",
+    "description":"by the bodily limbs."
+}
+---
 
 ==== gātraiḥ  ====
   * by the bodily limbs --- [[books:cc:antya:15:44|Antya 15.44]]

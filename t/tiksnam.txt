@@ -1,5 +1,11 @@
-~~Title:tīkṣṇam~~
-{{description>very severely; very sharp.}}
+---json
+{
+    "name":"tīkṣṇam",
+    "h1":"tīkṣṇam",
+    "title":"tīkṣṇam",
+    "description":"very severely; very sharp."
+}
+---
 
 ==== tīkṣṇam  ====
   * very severely --- [[books:sb:9:6:54|SB 9.6.54]]

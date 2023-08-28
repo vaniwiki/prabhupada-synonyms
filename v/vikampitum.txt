@@ -1,5 +1,11 @@
-~~Title:vikampitum~~
-{{description>to hesitate.}}
+---json
+{
+    "name":"vikampitum",
+    "h1":"vikampitum",
+    "title":"vikampitum",
+    "description":"to hesitate."
+}
+---
 
 ==== vikampitum  ====
   * to hesitate --- [[books:bg:2:31|Bg. 2.31]]

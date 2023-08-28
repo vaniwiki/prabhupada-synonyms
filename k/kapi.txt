@@ -1,5 +1,11 @@
-~~Title:kapi~~
-{{description>Dvivida.}}
+---json
+{
+    "name":"kapi",
+    "h1":"kapi",
+    "title":"kapi",
+    "description":"Dvivida."
+}
+---
 
 ==== kapi  ====
   * Dvivida --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

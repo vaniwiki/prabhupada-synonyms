@@ -1,5 +1,11 @@
-~~Title:nivārite~~
-{{description>to check; to prevent.}}
+---json
+{
+    "name":"nivārite",
+    "h1":"nivārite",
+    "title":"nivārite",
+    "description":"to check; to prevent."
+}
+---
 
 ==== nivārite  ====
   * to check --- [[books:cc:madhya:13:88|Madhya 13.88]]

@@ -1,5 +1,11 @@
-~~Title:āpūryamāṇam~~
-{{description>always filled.}}
+---json
+{
+    "name":"āpūryamāṇam",
+    "h1":"āpūryamāṇam",
+    "title":"āpūryamāṇam",
+    "description":"always filled."
+}
+---
 
 ==== āpūryamāṇam  ====
   * always filled --- [[books:bg:2:70|Bg. 2.70]]

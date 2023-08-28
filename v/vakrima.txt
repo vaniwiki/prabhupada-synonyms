@@ -1,5 +1,11 @@
-~~Title:vakrimā~~
-{{description>duplicity.}}
+---json
+{
+    "name":"vakrimā",
+    "h1":"vakrimā",
+    "title":"vakrimā",
+    "description":"duplicity."
+}
+---
 
 ==== vakrimā  ====
   * duplicity --- [[books:cc:adi:4:131|Ādi 4.131]]

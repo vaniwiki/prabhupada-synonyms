@@ -1,5 +1,11 @@
-~~Title:pañcāśatā~~
-{{description>by all fifty; the second fifty of the sons known as the Madhucchandās.}}
+---json
+{
+    "name":"pañcāśatā",
+    "h1":"pañcāśatā",
+    "title":"pañcāśatā",
+    "description":"by all fifty; the second fifty of the sons known as the Madhucchandās."
+}
+---
 
 ==== pañcāśatā  ====
   * by all fifty --- [[books:sb:9:6:43|SB 9.6.43]]

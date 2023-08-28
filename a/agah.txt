@@ -1,5 +1,11 @@
-~~Title:agah~~
-{{description>You obtained.}}
+---json
+{
+    "name":"agah",
+    "h1":"agah",
+    "title":"agah",
+    "description":"You obtained."
+}
+---
 
 ==== agāḥ  ====
   * You obtained --- [[books:sb:3:16:21|SB 3.16.21]]

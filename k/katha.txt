@@ -1,5 +1,11 @@
-~~Title:kathā~~
-{{description>a narration; conversation; description; discussion; discussions; incident; incidents; information; intention; intentions; messages; narration; narrations; of the conversation; of the words; pastimes; policy; stories; story; talk; talking; talks; the intention; the message; the narration; the story; to speak; topic; topics; topics about; words.}}
+---json
+{
+    "name":"kathā",
+    "h1":"kathā",
+    "title":"kathā",
+    "description":"a narration; conversation; description; discussion; discussions; incident; incidents; information; intention; intentions; messages; narration; narrations; of the conversation; of the words; pastimes; policy; stories; story; talk; talking; talks; the intention; the message; the narration; the story; to speak; topic; topics; topics about; words."
+}
+---
 
 ==== kathā  ====
   * a narration --- [[books:cc:madhya:4:18|Madhya 4.18]]

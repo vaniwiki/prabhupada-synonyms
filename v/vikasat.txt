@@ -1,5 +1,11 @@
-~~Title:vikasat~~
-{{description>blossoming; glittering; manifesting.}}
+---json
+{
+    "name":"vikasat",
+    "h1":"vikasat",
+    "title":"vikasat",
+    "description":"blossoming; glittering; manifesting."
+}
+---
 
 ==== vikasat  ====
   * blossoming --- [[books:sb:3:9:21|SB 3.9.21]]

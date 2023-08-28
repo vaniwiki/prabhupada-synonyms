@@ -1,5 +1,11 @@
-~~Title:mathanī~~
-{{description>cream.}}
+---json
+{
+    "name":"mathanī",
+    "h1":"mathanī",
+    "title":"mathanī",
+    "description":"cream."
+}
+---
 
 ==== mathanī  ====
   * cream --- [[books:cc:madhya:4:74|Madhya 4.74]]

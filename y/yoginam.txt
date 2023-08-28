@@ -1,5 +1,11 @@
-~~Title:yoginam~~
-{{description>a highly elevated mystic; the yogī.}}
+---json
+{
+    "name":"yoginam",
+    "h1":"yoginam",
+    "title":"yoginam",
+    "description":"a highly elevated mystic; the yogī."
+}
+---
 
 ==== yoginam  ====
   * a highly elevated mystic --- [[books:sb:9:6:38|SB 9.6.38]]

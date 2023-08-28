@@ -1,5 +1,11 @@
-~~Title:akīrtiḥ~~
-{{description>ill fame.}}
+---json
+{
+    "name":"akīrtiḥ",
+    "h1":"akīrtiḥ",
+    "title":"akīrtiḥ",
+    "description":"ill fame."
+}
+---
 
 ==== akīrtiḥ  ====
   * ill fame --- [[books:bg:2:34|Bg. 2.34]]

@@ -1,5 +1,11 @@
-~~Title:vineṣyati~~
-{{description>was killed.}}
+---json
+{
+    "name":"vineṣyati",
+    "h1":"vineṣyati",
+    "title":"vineṣyati",
+    "description":"was killed."
+}
+---
 
 ==== vineṣyati  ====
   * was killed --- [[books:sb:2:7:25|SB 2.7.25]]

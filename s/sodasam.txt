@@ -1,5 +1,11 @@
-~~Title:ṣoḍaśam~~
-{{description>the sixteenth.}}
+---json
+{
+    "name":"ṣoḍaśam",
+    "h1":"ṣoḍaśam",
+    "title":"ṣoḍaśam",
+    "description":"the sixteenth."
+}
+---
 
 ==== ṣoḍaśam  ====
   * the sixteenth --- [[books:sb:2:9:6|SB 2.9.6]]

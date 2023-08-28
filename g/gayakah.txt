@@ -1,5 +1,11 @@
-~~Title:gāyakāḥ~~
-{{description>singers; the reciters.}}
+---json
+{
+    "name":"gāyakāḥ",
+    "h1":"gāyakāḥ",
+    "title":"gāyakāḥ",
+    "description":"singers; the reciters."
+}
+---
 
 ==== gāyakāḥ  ====
   * singers --- [[books:sb:10:5:5|SB 10.5.5]]

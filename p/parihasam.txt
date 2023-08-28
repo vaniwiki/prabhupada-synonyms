@@ -1,5 +1,11 @@
-~~Title:parihāsam~~
-{{description>a funny joke or story.}}
+---json
+{
+    "name":"parihāsam",
+    "h1":"parihāsam",
+    "title":"parihāsam",
+    "description":"a funny joke or story."
+}
+---
 
 ==== parihāsam  ====
   * a funny joke or story --- [[books:sb:9:19:26|SB 9.19.26]]

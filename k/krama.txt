@@ -1,5 +1,11 @@
-~~Title:krama~~
-{{description>chronological; chronology; gradually; in order, one after another; one after another; step; the chronological order.}}
+---json
+{
+    "name":"krama",
+    "h1":"krama",
+    "title":"krama",
+    "description":"chronological; chronology; gradually; in order, one after another; one after another; step; the chronological order."
+}
+---
 
 ==== krama  ====
   * chronological --- [[books:cc:adi:13:17|Ādi 13.17]]

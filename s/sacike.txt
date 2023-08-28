@@ -1,5 +1,11 @@
-~~Title:śacīke~~
-{{description>unto mother Śacīdevī.}}
+---json
+{
+    "name":"śacīke",
+    "h1":"śacīke",
+    "title":"śacīke",
+    "description":"unto mother Śacīdevī."
+}
+---
 
 ==== śacīke  ====
   * unto mother Śacīdevī --- [[books:cc:adi:17:10|Ādi 17.10]]

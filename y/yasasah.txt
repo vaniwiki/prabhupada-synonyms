@@ -1,5 +1,11 @@
-~~Title:yaśasaḥ~~
-{{description>fame; fame, reputation; glories; of all fame; of fame; surnamed Yaśā; whose reputation.}}
+---json
+{
+    "name":"yaśasaḥ",
+    "h1":"yaśasaḥ",
+    "title":"yaśasaḥ",
+    "description":"fame; fame, reputation; glories; of all fame; of fame; surnamed Yaśā; whose reputation."
+}
+---
 
 ==== yaśasaḥ  ====
   * fame --- [[books:sb:9:10:15|SB 9.10.15]]

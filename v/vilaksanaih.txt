@@ -1,5 +1,11 @@
-~~Title:vilakṣaṇaiḥ~~
-{{description>various.}}
+---json
+{
+    "name":"vilakṣaṇaiḥ",
+    "h1":"vilakṣaṇaiḥ",
+    "title":"vilakṣaṇaiḥ",
+    "description":"various."
+}
+---
 
 ==== vilakṣaṇaiḥ  ====
   * various --- [[books:sb:5:6:6|SB 5.6.6]]

@@ -1,5 +1,11 @@
-~~Title:haryakṣaḥ~~
-{{description>the demon Haryakṣa (Hiraṇyākṣa).}}
+---json
+{
+    "name":"haryakṣaḥ",
+    "h1":"haryakṣaḥ",
+    "title":"haryakṣaḥ",
+    "description":"the demon Haryakṣa (Hiraṇyākṣa)."
+}
+---
 
 ==== haryakṣaḥ  ====
   * the demon Haryakṣa (Hiraṇyākṣa) --- [[books:sb:3:18:18|SB 3.18.18]]

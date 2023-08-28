@@ -1,5 +1,11 @@
-~~Title:cūrṇitaiḥ~~
-{{description>smashed.}}
+---json
+{
+    "name":"cūrṇitaiḥ",
+    "h1":"cūrṇitaiḥ",
+    "title":"cūrṇitaiḥ",
+    "description":"smashed."
+}
+---
 
 ==== cūrṇitaiḥ  ====
   * smashed --- [[books:bg:11:26-27|Bg. 11.26-27]]

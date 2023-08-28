@@ -1,5 +1,11 @@
-~~Title:akarunah~~
-{{description>merciless; most unkind; who is inhumane and merciless.}}
+---json
+{
+    "name":"akarunah",
+    "h1":"akarunah",
+    "title":"akarunah",
+    "description":"merciless; most unkind; who is inhumane and merciless."
+}
+---
 
 ==== akaruṇaḥ  ====
   * merciless --- [[books:sb:6:11:15|SB 6.11.15]]

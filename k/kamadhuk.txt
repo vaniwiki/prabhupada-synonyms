@@ -1,5 +1,11 @@
-~~Title:kāmadhuk~~
-{{description>becomes a source of prosperity; the surabhi cows.}}
+---json
+{
+    "name":"kāmadhuk",
+    "h1":"kāmadhuk",
+    "title":"kāmadhuk",
+    "description":"becomes a source of prosperity; the surabhi cows."
+}
+---
 
 ==== kāmadhuk  ====
   * becomes a source of prosperity --- [[books:sb:7:15:5|SB 7.15.5]]

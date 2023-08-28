@@ -1,5 +1,11 @@
-~~Title:dhūmra~~
-{{description>smoky.}}
+---json
+{
+    "name":"dhūmra",
+    "h1":"dhūmra",
+    "title":"dhūmra",
+    "description":"smoky."
+}
+---
 
 ==== dhūmra  ====
   * smoky --- [[books:sb:3:14:25|SB 3.14.25]], [[books:sb:8:7:15|SB 8.7.15]]

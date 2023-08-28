@@ -1,5 +1,11 @@
-~~Title:randhraiḥ~~
-{{description>with the holes of the ears.}}
+---json
+{
+    "name":"randhraiḥ",
+    "h1":"randhraiḥ",
+    "title":"randhraiḥ",
+    "description":"with the holes of the ears."
+}
+---
 
 ==== karṇa-randhraiḥ  ====
   * with the holes of the ears --- [[books:sb:3:22:7|SB 3.22.7]]

@@ -1,5 +1,11 @@
-~~Title:kuṇḍalinaḥ~~
-{{description>wearing earrings; with earrings.}}
+---json
+{
+    "name":"kuṇḍalinaḥ",
+    "h1":"kuṇḍalinaḥ",
+    "title":"kuṇḍalinaḥ",
+    "description":"wearing earrings; with earrings."
+}
+---
 
 ==== kuṇḍalinaḥ  ====
   * wearing earrings --- [[books:sb:10:13:47-48|SB 10.13.47-48]]

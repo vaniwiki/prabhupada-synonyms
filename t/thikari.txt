@@ -1,5 +1,11 @@
-~~Title:ṭhikāri~~
-{{description>pieces of pot.}}
+---json
+{
+    "name":"ṭhikāri",
+    "h1":"ṭhikāri",
+    "title":"ṭhikāri",
+    "description":"pieces of pot."
+}
+---
 
 ==== ṭhikāri  ====
   * pieces of pot --- [[books:cc:madhya:4:139|Madhya 4.139]]

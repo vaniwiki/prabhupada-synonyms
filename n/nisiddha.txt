@@ -1,5 +1,11 @@
-~~Title:niṣiddha~~
-{{description>forbidden.}}
+---json
+{
+    "name":"niṣiddha",
+    "h1":"niṣiddha",
+    "title":"niṣiddha",
+    "description":"forbidden."
+}
+---
 
 ==== niṣiddha  ====
   * forbidden --- [[books:cc:madhya:22:142|Madhya 22.142]]

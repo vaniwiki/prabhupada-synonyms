@@ -1,5 +1,11 @@
-~~Title:dhundhu~~
-{{description>the killer of Dhundhu.}}
+---json
+{
+    "name":"dhundhu",
+    "h1":"dhundhu",
+    "title":"dhundhu",
+    "description":"the killer of Dhundhu."
+}
+---
 
 ==== dhundhu-māraḥ  ====
   * the killer of Dhundhu --- [[books:sb:9:6:23-24|SB 9.6.23-24]]

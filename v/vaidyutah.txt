@@ -1,5 +1,11 @@
-~~Title:vaidyutāḥ~~
-{{description>lightning (which penetrates the clouds).}}
+---json
+{
+    "name":"vaidyutāḥ",
+    "h1":"vaidyutāḥ",
+    "title":"vaidyutāḥ",
+    "description":"lightning (which penetrates the clouds)."
+}
+---
 
 ==== vaidyutāḥ  ====
   * lightning (which penetrates the clouds) --- [[books:sb:7:10:60|SB 7.10.60]]

@@ -1,5 +1,11 @@
-~~Title:anucaritāni~~
-{{description>and their dynasties and characteristics.}}
+---json
+{
+    "name":"anucaritāni",
+    "h1":"anucaritāni",
+    "title":"anucaritāni",
+    "description":"and their dynasties and characteristics."
+}
+---
 
 ==== vaṁśa-anucaritāni ca  ====
   * and their dynasties and characteristics --- [[books:sb:9:1:4|SB 9.1.4]]

@@ -1,5 +1,11 @@
-~~Title:avabhāti~~
-{{description>appears; completely manifested; is manifested.}}
+---json
+{
+    "name":"avabhāti",
+    "h1":"avabhāti",
+    "title":"avabhāti",
+    "description":"appears; completely manifested; is manifested."
+}
+---
 
 ==== avabhāti  ====
   * appears --- [[books:sb:3:32:28|SB 3.32.28]]

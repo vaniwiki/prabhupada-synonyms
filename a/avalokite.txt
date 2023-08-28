@@ -1,5 +1,11 @@
-~~Title:avalokite~~
-{{description>just to glance over.}}
+---json
+{
+    "name":"avalokite",
+    "h1":"avalokite",
+    "title":"avalokite",
+    "description":"just to glance over."
+}
+---
 
 ==== avalokite  ====
   * just to glance over --- [[books:cc:madhya:20:265|Madhya 20.265]]

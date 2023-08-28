@@ -1,5 +1,11 @@
-~~Title:dhariyāche~~
-{{description>accepted; have kept; were holding.}}
+---json
+{
+    "name":"dhariyāche",
+    "h1":"dhariyāche",
+    "title":"dhariyāche",
+    "description":"accepted; have kept; were holding."
+}
+---
 
 ==== dhariyāche  ====
   * accepted --- [[books:cc:adi:17:277|Ādi 17.277]]

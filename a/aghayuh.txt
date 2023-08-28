@@ -1,5 +1,11 @@
-~~Title:aghāyuḥ~~
-{{description>life full of sins.}}
+---json
+{
+    "name":"aghāyuḥ",
+    "h1":"aghāyuḥ",
+    "title":"aghāyuḥ",
+    "description":"life full of sins."
+}
+---
 
 ==== aghāyuḥ  ====
   * life full of sins --- [[books:bg:3:16|Bg. 3.16]]

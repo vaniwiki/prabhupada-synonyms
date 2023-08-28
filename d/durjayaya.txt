@@ -1,5 +1,11 @@
-~~Title:durjayayā~~
-{{description>invincible; which is unconquerable.}}
+---json
+{
+    "name":"durjayayā",
+    "h1":"durjayayā",
+    "title":"durjayayā",
+    "description":"invincible; which is unconquerable."
+}
+---
 
 ==== durjayayā  ====
   * invincible --- [[books:sb:2:5:12|SB 2.5.12]]

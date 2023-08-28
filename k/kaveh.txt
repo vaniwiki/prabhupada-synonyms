@@ -1,5 +1,11 @@
-~~Title:kaveḥ~~
-{{description>of the poet.}}
+---json
+{
+    "name":"kaveḥ",
+    "h1":"kaveḥ",
+    "title":"kaveḥ",
+    "description":"of the poet."
+}
+---
 
 ==== kaveḥ  ====
   * of the poet --- [[books:cc:antya:1:195|Antya 1.195]]

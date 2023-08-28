@@ -1,5 +1,11 @@
-~~Title:bhaksyamanah~~
-{{description>being bitten; being eaten.}}
+---json
+{
+    "name":"bhaksyamanah",
+    "h1":"bhaksyamanah",
+    "title":"bhaksyamanah",
+    "description":"being bitten; being eaten."
+}
+---
 
 ==== bhakṣyamāṇaḥ  ====
   * being bitten --- [[books:sb:3:30:21|SB 3.30.21]]

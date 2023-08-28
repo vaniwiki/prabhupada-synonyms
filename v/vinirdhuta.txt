@@ -1,5 +1,11 @@
-~~Title:vinirdhuta~~
-{{description>being specifically cleansed.}}
+---json
+{
+    "name":"vinirdhuta",
+    "h1":"vinirdhuta",
+    "title":"vinirdhuta",
+    "description":"being specifically cleansed."
+}
+---
 
 ==== vinirdhuta  ====
   * being specifically cleansed --- [[books:sb:4:21:32|SB 4.21.32]]

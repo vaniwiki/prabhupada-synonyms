@@ -1,5 +1,11 @@
-~~Title:āśrame~~
-{{description>hermitage; household life; in the cottage; in the social order; in the status; the order of.}}
+---json
+{
+    "name":"āśrame",
+    "h1":"āśrame",
+    "title":"āśrame",
+    "description":"hermitage; household life; in the cottage; in the social order; in the status; the order of."
+}
+---
 
 ==== āśrame  ====
   * hermitage --- [[books:sb:3:33:13|SB 3.33.13]]

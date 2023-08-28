@@ -1,5 +1,11 @@
-~~Title:vijñāne~~
-{{description>in the science.}}
+---json
+{
+    "name":"vijñāne",
+    "h1":"vijñāne",
+    "title":"vijñāne",
+    "description":"in the science."
+}
+---
 
 ==== vijñāne  ====
   * in the science --- [[books:sb:3:9:27-28|SB 3.9.27-28]]

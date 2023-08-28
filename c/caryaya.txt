@@ -1,5 +1,11 @@
-~~Title:caryayā~~
-{{description>by discussion; by the activities.}}
+---json
+{
+    "name":"caryayā",
+    "h1":"caryayā",
+    "title":"caryayā",
+    "description":"by discussion; by the activities."
+}
+---
 
 ==== caryayā  ====
   * by discussion --- [[books:sb:4:22:22|SB 4.22.22]]

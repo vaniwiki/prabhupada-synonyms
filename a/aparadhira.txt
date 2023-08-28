@@ -1,5 +1,11 @@
-~~Title:aparādhīra~~
-{{description>of the offenders.}}
+---json
+{
+    "name":"aparādhīra",
+    "h1":"aparādhīra",
+    "title":"aparādhīra",
+    "description":"of the offenders."
+}
+---
 
 ==== aparādhīra  ====
   * of the offenders --- [[books:cc:adi:8:24|Ādi 8.24]]

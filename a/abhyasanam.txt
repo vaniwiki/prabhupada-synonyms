@@ -1,5 +1,11 @@
-~~Title:abhyasanam~~
-{{description>practice.}}
+---json
+{
+    "name":"abhyasanam",
+    "h1":"abhyasanam",
+    "title":"abhyasanam",
+    "description":"practice."
+}
+---
 
 ==== abhyasanam  ====
   * practice --- [[books:bg:17:15|Bg. 17.15]]

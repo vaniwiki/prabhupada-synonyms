@@ -1,5 +1,11 @@
-~~Title:pratīkaḥ~~
-{{description>named Pratīka.}}
+---json
+{
+    "name":"pratīkaḥ",
+    "h1":"pratīkaḥ",
+    "title":"pratīkaḥ",
+    "description":"named Pratīka."
+}
+---
 
 ==== pratīkaḥ  ====
   * named Pratīka --- [[books:sb:9:2:18|SB 9.2.18]]

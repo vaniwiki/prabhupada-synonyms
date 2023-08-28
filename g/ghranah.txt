@@ -1,5 +1,11 @@
-~~Title:ghrāṇaḥ~~
-{{description>His smelling power; sense of smell; the nose (for smelling); the olfactory sense; the sense of smell.}}
+---json
+{
+    "name":"ghrāṇaḥ",
+    "h1":"ghrāṇaḥ",
+    "title":"ghrāṇaḥ",
+    "description":"His smelling power; sense of smell; the nose (for smelling); the olfactory sense; the sense of smell."
+}
+---
 
 ==== ghrāṇaḥ  ====
   * His smelling power --- [[books:sb:2:6:2|SB 2.6.2]]

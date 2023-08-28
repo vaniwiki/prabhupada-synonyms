@@ -1,5 +1,11 @@
-~~Title:nirūpaṇam~~
-{{description>ascertainment, perception.}}
+---json
+{
+    "name":"nirūpaṇam",
+    "h1":"nirūpaṇam",
+    "title":"nirūpaṇam",
+    "description":"ascertainment, perception."
+}
+---
 
 ==== nirūpaṇam  ====
   * ascertainment, perception --- [[books:sb:5:3:4-5|SB 5.3.4-5]]

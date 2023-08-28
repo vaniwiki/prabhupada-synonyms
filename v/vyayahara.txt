@@ -1,5 +1,11 @@
-~~Title:vyayahāra~~
-{{description>the behavior.}}
+---json
+{
+    "name":"vyayahāra",
+    "h1":"vyayahāra",
+    "title":"vyayahāra",
+    "description":"the behavior."
+}
+---
 
 ==== vyayahāra  ====
   * the behavior --- [[books:cc:antya:2:70|Antya 2.70]]

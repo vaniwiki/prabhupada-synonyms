@@ -1,5 +1,11 @@
-~~Title:mahasvān~~
-{{description>the son of Amarṣaṇa.}}
+---json
+{
+    "name":"mahasvān",
+    "h1":"mahasvān",
+    "title":"mahasvān",
+    "description":"the son of Amarṣaṇa."
+}
+---
 
 ==== mahasvān  ====
   * the son of Amarṣaṇa --- [[books:sb:9:12:7|SB 9.12.7]]

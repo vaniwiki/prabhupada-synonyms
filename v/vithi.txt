@@ -1,5 +1,11 @@
-~~Title:vīthī~~
-{{description>the part is called vīthī.}}
+---json
+{
+    "name":"vīthī",
+    "h1":"vīthī",
+    "title":"vīthī",
+    "description":"the part is called vīthī."
+}
+---
 
 ==== vīthī aṅga  ====
   * the part is called //vīthī// --- [[books:cc:antya:1:185|Antya 1.185]]

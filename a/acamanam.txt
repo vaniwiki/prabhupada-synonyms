@@ -1,5 +1,11 @@
-~~Title:ācamanam~~
-{{description>water for washing the hands and mouth.}}
+---json
+{
+    "name":"ācamanam",
+    "h1":"ācamanam",
+    "title":"ācamanam",
+    "description":"water for washing the hands and mouth."
+}
+---
 
 ==== ācamanam  ====
   * water for washing the hands and mouth --- [[books:sb:6:19:15|SB 6.19.15]]

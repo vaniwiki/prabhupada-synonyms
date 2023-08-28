@@ -1,5 +1,11 @@
-~~Title:śaśaṁsa~~
-{{description>explained; informed (Kaṁsa, who was in doubt); praised; she described.}}
+---json
+{
+    "name":"śaśaṁsa",
+    "h1":"śaśaṁsa",
+    "title":"śaśaṁsa",
+    "description":"explained; informed (Kaṁsa, who was in doubt); praised; she described."
+}
+---
 
 ==== śaśaṁsa  ====
   * explained --- [[books:sb:9:9:3|SB 9.9.3]]

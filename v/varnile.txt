@@ -1,5 +1,11 @@
-~~Title:varṇile~~
-{{description>if describing; if I describe.}}
+---json
+{
+    "name":"varṇile",
+    "h1":"varṇile",
+    "title":"varṇile",
+    "description":"if describing; if I describe."
+}
+---
 
 ==== varṇile  ====
   * if describing --- [[books:cc:madhya:4:6|Madhya 4.6]]

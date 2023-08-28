@@ -1,5 +1,11 @@
-~~Title:kumbhe~~
-{{description>in an earthen pot.}}
+---json
+{
+    "name":"kumbhe",
+    "h1":"kumbhe",
+    "title":"kumbhe",
+    "description":"in an earthen pot."
+}
+---
 
 ==== kumbhe  ====
   * in an earthen pot --- [[books:sb:6:18:6|SB 6.18.6]]

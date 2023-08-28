@@ -1,5 +1,11 @@
-~~Title:aśaknuvan~~
-{{description>being unable to bear.}}
+---json
+{
+    "name":"aśaknuvan",
+    "h1":"aśaknuvan",
+    "title":"aśaknuvan",
+    "description":"being unable to bear."
+}
+---
 
 ==== aśaknuvan  ====
   * being unable to bear --- [[books:sb:3:22:25|SB 3.22.25]]

@@ -1,5 +1,11 @@
-~~Title:vinindati~~
-{{description>insults.}}
+---json
+{
+    "name":"vinindati",
+    "h1":"vinindati",
+    "title":"vinindati",
+    "description":"insults."
+}
+---
 
 ==== vinindati  ====
   * insults --- [[books:sb:4:14:32|SB 4.14.32]]

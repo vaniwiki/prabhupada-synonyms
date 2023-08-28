@@ -1,5 +1,11 @@
-~~Title:agan~~
-{{description>underwent.}}
+---json
+{
+    "name":"agan",
+    "h1":"agan",
+    "title":"agan",
+    "description":"underwent."
+}
+---
 
 ==== agan  ====
   * underwent --- [[books:sb:1:9:40|SB 1.9.40]]

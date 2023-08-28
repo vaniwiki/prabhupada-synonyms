@@ -1,5 +1,11 @@
-~~Title:parvaṇi~~
-{{description>during the periods of the full moon and dark moon; on occasion.}}
+---json
+{
+    "name":"parvaṇi",
+    "h1":"parvaṇi",
+    "title":"parvaṇi",
+    "description":"during the periods of the full moon and dark moon; on occasion."
+}
+---
 
 ==== parvaṇi  ====
   * during the periods of the full moon and dark moon --- [[books:sb:8:9:26|SB 8.9.26]]

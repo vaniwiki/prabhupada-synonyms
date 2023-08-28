@@ -1,5 +1,11 @@
-~~Title:stutikare~~
-{{description>offer prayers.}}
+---json
+{
+    "name":"stutikare",
+    "h1":"stutikare",
+    "title":"stutikare",
+    "description":"offer prayers."
+}
+---
 
 ==== stutikare  ====
   * offer prayers --- [[books:cc:madhya:1:187|Madhya 1.187]]

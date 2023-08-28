@@ -1,5 +1,11 @@
-~~Title:ānera~~
-{{description>of others; to others.}}
+---json
+{
+    "name":"ānera",
+    "h1":"ānera",
+    "title":"ānera",
+    "description":"of others; to others."
+}
+---
 
 ==== ānera  ====
   * of others --- [[books:cc:adi:6:76|Ādi 6.76]], [[books:cc:madhya:21:120|Madhya 21.120]]

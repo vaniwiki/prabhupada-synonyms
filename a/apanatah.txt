@@ -1,5 +1,11 @@
-~~Title:apānataḥ~~
-{{description>was manifested.}}
+---json
+{
+    "name":"apānataḥ",
+    "h1":"apānataḥ",
+    "title":"apānataḥ",
+    "description":"was manifested."
+}
+---
 
 ==== apānataḥ  ====
   * was manifested --- [[books:sb:2:10:28|SB 2.10.28]]

@@ -1,5 +1,11 @@
-~~Title:yātrām~~
-{{description>universal affairs.}}
+---json
+{
+    "name":"yātrām",
+    "h1":"yātrām",
+    "title":"yātrām",
+    "description":"universal affairs."
+}
+---
 
 ==== jagat-yātrām  ====
   * universal affairs --- [[books:sb:8:14:3|SB 8.14.3]]

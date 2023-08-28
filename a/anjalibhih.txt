@@ -1,5 +1,11 @@
-~~Title:añjalibhiḥ~~
-{{description>by aural reception.}}
+---json
+{
+    "name":"añjalibhiḥ",
+    "h1":"añjalibhiḥ",
+    "title":"añjalibhiḥ",
+    "description":"by aural reception."
+}
+---
 
 ==== karṇa-añjalibhiḥ  ====
   * by aural reception --- [[books:sb:3:13:50|SB 3.13.50]]

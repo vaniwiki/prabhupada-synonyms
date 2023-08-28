@@ -1,5 +1,11 @@
-~~Title:caṇḍikā~~
-{{description>the name Caṇḍikā.}}
+---json
+{
+    "name":"caṇḍikā",
+    "h1":"caṇḍikā",
+    "title":"caṇḍikā",
+    "description":"the name Caṇḍikā."
+}
+---
 
 ==== caṇḍikā  ====
   * the name Caṇḍikā --- [[books:sb:10:2:11-12|SB 10.2.11-12]]

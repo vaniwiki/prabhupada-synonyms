@@ -1,5 +1,11 @@
-~~Title:bujhaye~~
-{{description>not understands.}}
+---json
+{
+    "name":"bujhaye",
+    "h1":"bujhaye",
+    "title":"bujhaye",
+    "description":"not understands."
+}
+---
 
 ==== nā bujhaye  ====
   * not understands --- [[books:cc:madhya:2:83|Madhya 2.83]]

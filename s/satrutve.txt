@@ -1,5 +1,11 @@
-~~Title:śatrutve~~
-{{description>because of enmity.}}
+---json
+{
+    "name":"śatrutve",
+    "h1":"śatrutve",
+    "title":"śatrutve",
+    "description":"because of enmity."
+}
+---
 
 ==== śatrutve  ====
   * because of enmity --- [[books:bg:6:6|Bg. 6.6]]

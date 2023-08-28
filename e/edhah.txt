@@ -1,5 +1,11 @@
-~~Title:edhaḥ~~
-{{description>dry grass.}}
+---json
+{
+    "name":"edhaḥ",
+    "h1":"edhaḥ",
+    "title":"edhaḥ",
+    "description":"dry grass."
+}
+---
 
 ==== edhaḥ  ====
   * dry grass --- [[books:sb:6:2:18|SB 6.2.18]]

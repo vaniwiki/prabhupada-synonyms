@@ -1,5 +1,11 @@
-~~Title:astauṣīḥ~~
-{{description>you prayed for.}}
+---json
+{
+    "name":"astauṣīḥ",
+    "h1":"astauṣīḥ",
+    "title":"astauṣīḥ",
+    "description":"you prayed for."
+}
+---
 
 ==== astauṣīḥ  ====
   * you prayed for --- [[books:sb:3:9:39|SB 3.9.39]]

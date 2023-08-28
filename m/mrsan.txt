@@ -1,5 +1,11 @@
-~~Title:mṛṣan~~
-{{description>bearing.}}
+---json
+{
+    "name":"mṛṣan",
+    "h1":"mṛṣan",
+    "title":"mṛṣan",
+    "description":"bearing."
+}
+---
 
 ==== mṛṣan  ====
   * bearing --- [[books:sb:3:18:6|SB 3.18.6]]

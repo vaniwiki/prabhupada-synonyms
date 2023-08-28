@@ -1,5 +1,11 @@
-~~Title:bhūbhṛtām~~
-{{description>of the hills.}}
+---json
+{
+    "name":"bhūbhṛtām",
+    "h1":"bhūbhṛtām",
+    "title":"bhūbhṛtām",
+    "description":"of the hills."
+}
+---
 
 ==== bhūbhṛtām  ====
   * of the hills --- [[books:sb:2:8:15|SB 2.8.15]]

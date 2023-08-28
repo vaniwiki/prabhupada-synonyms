@@ -1,5 +1,11 @@
-~~Title:kupite~~
-{{description>when angered.}}
+---json
+{
+    "name":"kupite",
+    "h1":"kupite",
+    "title":"kupite",
+    "description":"when angered."
+}
+---
 
 ==== kupite  ====
   * when angered --- [[books:sb:4:6:6|SB 4.6.6]]

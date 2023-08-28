@@ -1,5 +1,11 @@
-~~Title:eṣām~~
-{{description>all these divisions of Jambūdvīpa; for them; of all of them; of all the conditioned souls; of all the great elites; of all these (exalted personalities); of the devotees; of them (the theorists); of them; of these (conditioned souls); of these; of these animals; of these kings; of these persons; of these trees; of those divisions of social and spiritual orders; of those persons; of those who are attached to household life; these family members; this; upon them.}}
+---json
+{
+    "name":"eṣām",
+    "h1":"eṣām",
+    "title":"eṣām",
+    "description":"all these divisions of Jambūdvīpa; for them; of all of them; of all the conditioned souls; of all the great elites; of all these (exalted personalities); of the devotees; of them (the theorists); of them; of these (conditioned souls); of these; of these animals; of these kings; of these persons; of these trees; of those divisions of social and spiritual orders; of those persons; of those who are attached to household life; these family members; this; upon them."
+}
+---
 
 ==== eṣām  ====
   * all these divisions of Jambūdvīpa --- [[books:sb:5:16:7|SB 5.16.7]]

@@ -1,5 +1,11 @@
-~~Title:romaharṣaṇaḥ~~
-{{description>the ṛṣi Romaharṣaṇa.}}
+---json
+{
+    "name":"romaharṣaṇaḥ",
+    "h1":"romaharṣaṇaḥ",
+    "title":"romaharṣaṇaḥ",
+    "description":"the ṛṣi Romaharṣaṇa."
+}
+---
 
 ==== romaharṣaṇaḥ  ====
   * the //ṛṣi// Romaharṣaṇa --- [[books:sb:1:4:22|SB 1.4.22]]

@@ -1,5 +1,11 @@
-~~Title:srotasaḥ~~
-{{description>of the waves.}}
+---json
+{
+    "name":"srotasaḥ",
+    "h1":"srotasaḥ",
+    "title":"srotasaḥ",
+    "description":"of the waves."
+}
+---
 
 ==== srotasaḥ  ====
   * of the waves --- [[books:sb:10:5:25|SB 10.5.25]]

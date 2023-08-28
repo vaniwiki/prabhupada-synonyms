@@ -1,5 +1,11 @@
-~~Title:dohana~~
-{{description>I want to milk the cows.}}
+---json
+{
+    "name":"dohana",
+    "h1":"dohana",
+    "title":"dohana",
+    "description":"I want to milk the cows."
+}
+---
 
 ==== go-dohana karite cāhi  ====
   * I want to milk the cows --- [[books:cc:madhya:4:31|Madhya 4.31]]

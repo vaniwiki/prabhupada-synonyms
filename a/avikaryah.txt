@@ -1,5 +1,11 @@
-~~Title:avikāryaḥ~~
-{{description>unchangeable.}}
+---json
+{
+    "name":"avikāryaḥ",
+    "h1":"avikāryaḥ",
+    "title":"avikāryaḥ",
+    "description":"unchangeable."
+}
+---
 
 ==== avikāryaḥ  ====
   * unchangeable --- [[books:bg:2:25|Bg. 2.25]]

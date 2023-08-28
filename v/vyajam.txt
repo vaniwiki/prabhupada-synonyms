@@ -1,5 +1,11 @@
-~~Title:vyājam~~
-{{description>pretension.}}
+---json
+{
+    "name":"vyājam",
+    "h1":"vyājam",
+    "title":"vyājam",
+    "description":"pretension."
+}
+---
 
 ==== vyājam  ====
   * pretension --- [[books:sb:3:13:21|SB 3.13.21]]

@@ -1,5 +1,11 @@
-~~Title:vipruṣā~~
-{{description>by a drop.}}
+---json
+{
+    "name":"vipruṣā",
+    "h1":"vipruṣā",
+    "title":"vipruṣā",
+    "description":"by a drop."
+}
+---
 
 ==== vipruṣā  ====
   * by a drop --- [[books:sb:6:9:39|SB 6.9.39]]

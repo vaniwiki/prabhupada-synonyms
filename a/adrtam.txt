@@ -1,5 +1,11 @@
-~~Title:ādṛtam~~
-{{description>praised; respectful; with great respect.}}
+---json
+{
+    "name":"ādṛtam",
+    "h1":"ādṛtam",
+    "title":"ādṛtam",
+    "description":"praised; respectful; with great respect."
+}
+---
 
 ==== ādṛtam  ====
   * praised --- [[books:cc:madhya:25:283|Madhya 25.283]]

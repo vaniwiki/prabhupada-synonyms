@@ -1,5 +1,11 @@
-~~Title:vijñānasya~~
-{{description>of transcendental knowledge.}}
+---json
+{
+    "name":"vijñānasya",
+    "h1":"vijñānasya",
+    "title":"vijñānasya",
+    "description":"of transcendental knowledge."
+}
+---
 
 ==== vijñānasya  ====
   * of transcendental knowledge --- [[books:sb:2:6:12|SB 2.6.12]]

@@ -1,5 +1,11 @@
-~~Title:pāpa~~
-{{description>O most sinful (Nārada Muni); O sinful one; of sins; reactions of sinful activities; sin; sinful; sinful activities; sinful life; sins; the accidental sinful life; the sinful reactions.}}
+---json
+{
+    "name":"pāpa",
+    "h1":"pāpa",
+    "title":"pāpa",
+    "description":"O most sinful (Nārada Muni); O sinful one; of sins; reactions of sinful activities; sin; sinful; sinful activities; sinful life; sins; the accidental sinful life; the sinful reactions."
+}
+---
 
 ==== pāpa  ====
   * O most sinful (Nārada Muni) --- [[books:sb:6:5:37|SB 6.5.37]]

@@ -1,5 +1,11 @@
-~~Title:naṭatā~~
-{{description>dancing on the stage.}}
+---json
+{
+    "name":"naṭatā",
+    "h1":"naṭatā",
+    "title":"naṭatā",
+    "description":"dancing on the stage."
+}
+---
 
 ==== naṭatā  ====
   * dancing on the stage --- [[books:cc:antya:1:184|Antya 1.184]]

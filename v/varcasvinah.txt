@@ -1,5 +1,11 @@
-~~Title:varcasvinaḥ~~
-{{description>who had brahminical qualities.}}
+---json
+{
+    "name":"varcasvinaḥ",
+    "h1":"varcasvinaḥ",
+    "title":"varcasvinaḥ",
+    "description":"who had brahminical qualities."
+}
+---
 
 ==== brahma-varcasvinaḥ  ====
   * who had brahminical qualities --- [[books:sb:9:6:2|SB 9.6.2]]

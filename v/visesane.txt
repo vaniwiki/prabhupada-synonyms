@@ -1,5 +1,11 @@
-~~Title:viśeṣaṇe~~
-{{description>in the adjective.}}
+---json
+{
+    "name":"viśeṣaṇe",
+    "h1":"viśeṣaṇe",
+    "title":"viśeṣaṇe",
+    "description":"in the adjective."
+}
+---
 
 ==== viśeṣaṇe  ====
   * in the adjective --- [[books:cc:adi:3:56|Ādi 3.56]]

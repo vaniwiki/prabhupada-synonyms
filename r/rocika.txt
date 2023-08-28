@@ -1,5 +1,11 @@
-~~Title:rocikā~~
-{{description>palatable.}}
+---json
+{
+    "name":"rocikā",
+    "h1":"rocikā",
+    "title":"rocikā",
+    "description":"palatable."
+}
+---
 
 ==== rocikā  ====
   * palatable --- [[books:noi:7|NoI 7]]

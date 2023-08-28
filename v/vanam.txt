@@ -1,5 +1,11 @@
-~~Title:vanam~~
-{{description>a forest; another forest; for the forest; forest; forest near Kuṭakācala; forests; in the forest; into a forest; into the forest; retired life; the forest; to another forest; to the forest; within the forest.}}
+---json
+{
+    "name":"vanam",
+    "h1":"vanam",
+    "title":"vanam",
+    "description":"a forest; another forest; for the forest; forest; forest near Kuṭakācala; forests; in the forest; into a forest; into the forest; retired life; the forest; to another forest; to the forest; within the forest."
+}
+---
 
 ==== vanam  ====
   * a forest --- [[books:sb:6:11:8|SB 6.11.8]]

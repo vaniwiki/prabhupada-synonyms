@@ -1,5 +1,11 @@
-~~Title:mukhyamukhya~~
-{{description>only the chief.}}
+---json
+{
+    "name":"mukhyamukhya",
+    "h1":"mukhyamukhya",
+    "title":"mukhyamukhya",
+    "description":"only the chief."
+}
+---
 
 ==== mukhyamukhya  ====
   * only the chief --- [[books:cc:adi:11:7|Ādi 11.7]]

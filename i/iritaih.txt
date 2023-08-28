@@ -1,5 +1,11 @@
-~~Title:īritaiḥ~~
-{{description>chanted.}}
+---json
+{
+    "name":"īritaiḥ",
+    "h1":"īritaiḥ",
+    "title":"īritaiḥ",
+    "description":"chanted."
+}
+---
 
 ==== īritaiḥ  ====
   * chanted --- [[books:sb:8:8:14|SB 8.8.14]]

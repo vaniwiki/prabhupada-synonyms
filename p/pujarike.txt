@@ -1,5 +1,11 @@
-~~Title:pūjārīke~~
-{{description>toward the pūjārī.}}
+---json
+{
+    "name":"pūjārīke",
+    "h1":"pūjārīke",
+    "title":"pūjārīke",
+    "description":"toward the pūjārī."
+}
+---
 
 ==== pūjārīke  ====
   * toward the //pūjārī// --- [[books:cc:madhya:4:207|Madhya 4.207]]

@@ -1,5 +1,11 @@
-~~Title:hūyamānāni~~
-{{description>being offered.}}
+---json
+{
+    "name":"hūyamānāni",
+    "h1":"hūyamānāni",
+    "title":"hūyamānāni",
+    "description":"being offered."
+}
+---
 
 ==== hūyamānāni  ====
   * being offered --- [[books:sb:4:13:26|SB 4.13.26]]

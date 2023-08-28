@@ -1,5 +1,11 @@
-~~Title:adhikam~~
-{{description>frequent; more; more raised; more than that.}}
+---json
+{
+    "name":"adhikam",
+    "h1":"adhikam",
+    "title":"adhikam",
+    "description":"frequent; more; more raised; more than that."
+}
+---
 
 ==== adhikam  ====
   * frequent --- [[books:sb:3:28:31|SB 3.28.31]]

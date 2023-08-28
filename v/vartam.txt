@@ -1,5 +1,11 @@
-~~Title:vārtām~~
-{{description>means of livelihood; means of living; message; news; topics.}}
+---json
+{
+    "name":"vārtām",
+    "h1":"vārtām",
+    "title":"vārtām",
+    "description":"means of livelihood; means of living; message; news; topics."
+}
+---
 
 ==== vārtām  ====
   * means of livelihood --- [[books:sb:1:14:3|SB 1.14.3]]

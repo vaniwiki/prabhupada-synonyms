@@ -1,5 +1,11 @@
-~~Title:vidyā~~
-{{description>by education; devotional service; education; factual knowledge; in Kṛṣṇa consciousness; knowledge; learning; of all education; of education; the knowledge derived from Vedic scripture.}}
+---json
+{
+    "name":"vidyā",
+    "h1":"vidyā",
+    "title":"vidyā",
+    "description":"by education; devotional service; education; factual knowledge; in Kṛṣṇa consciousness; knowledge; learning; of all education; of education; the knowledge derived from Vedic scripture."
+}
+---
 
 ==== vidyā  ====
   * by education --- [[books:sb:6:13:16|SB 6.13.16]], [[books:sb:8:22:26|SB 8.22.26]]

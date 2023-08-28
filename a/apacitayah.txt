@@ -1,5 +1,11 @@
-~~Title:apacitayaḥ~~
-{{description>those who had received sumptuously as remuneration.}}
+---json
+{
+    "name":"apacitayaḥ",
+    "h1":"apacitayaḥ",
+    "title":"apacitayaḥ",
+    "description":"those who had received sumptuously as remuneration."
+}
+---
 
 ==== labdha-apacitayaḥ  ====
   * those who had received sumptuously as remuneration --- [[books:sb:1:12:29|SB 1.12.29]]

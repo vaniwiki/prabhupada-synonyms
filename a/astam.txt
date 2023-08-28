@@ -1,5 +1,11 @@
-~~Title:astam~~
-{{description>named Asta; setting; the setting position.}}
+---json
+{
+    "name":"astam",
+    "h1":"astam",
+    "title":"astam",
+    "description":"named Asta; setting; the setting position."
+}
+---
 
 ==== astam  ====
   * named Asta --- [[books:sb:8:11:46|SB 8.11.46]]

@@ -1,5 +1,11 @@
-~~Title:bhavānīm~~
-{{description>Bhavānī; who is the wife of Lord Śiva.}}
+---json
+{
+    "name":"bhavānīm",
+    "h1":"bhavānīm",
+    "title":"bhavānīm",
+    "description":"Bhavānī; who is the wife of Lord Śiva."
+}
+---
 
 ==== bhavānīm  ====
   * Bhavānī --- [[books:sb:8:7:41|SB 8.7.41]]

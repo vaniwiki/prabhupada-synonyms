@@ -1,5 +1,11 @@
-~~Title:vyarocata~~
-{{description>appeared to be highly aristocratic; well deserved.}}
+---json
+{
+    "name":"vyarocata",
+    "h1":"vyarocata",
+    "title":"vyarocata",
+    "description":"appeared to be highly aristocratic; well deserved."
+}
+---
 
 ==== vyarocata  ====
   * appeared to be highly aristocratic --- [[books:sb:1:9:3|SB 1.9.3]]

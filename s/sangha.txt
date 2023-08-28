@@ -1,5 +1,11 @@
-~~Title:saṅgha~~
-{{description>of the multitude of universes.}}
+---json
+{
+    "name":"saṅgha",
+    "h1":"saṅgha",
+    "title":"saṅgha",
+    "description":"of the multitude of universes."
+}
+---
 
 ==== aja-aṇḍa-saṅgha  ====
   * of the multitude of universes --- [[books:cc:adi:1:9|Ādi 1.9]], [[books:cc:adi:5:50|Ādi 5.50]]

@@ -1,5 +1,11 @@
-~~Title:kesi~~
-{{description>by Keśī; the Keśī demon.}}
+---json
+{
+    "name":"kesi",
+    "h1":"kesi",
+    "title":"kesi",
+    "description":"by Keśī; the Keśī demon."
+}
+---
 
 ==== keśī  ====
   * by Keśī --- [[books:sb:10:2:1-2|SB 10.2.1-2]]

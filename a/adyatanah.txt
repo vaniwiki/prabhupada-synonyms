@@ -1,5 +1,11 @@
-~~Title:adyatanāḥ~~
-{{description>at present.}}
+---json
+{
+    "name":"adyatanāḥ",
+    "h1":"adyatanāḥ",
+    "title":"adyatanāḥ",
+    "description":"at present."
+}
+---
 
 ==== adyatanāḥ  ====
   * at present --- [[books:sb:9:1:5|SB 9.1.5]]

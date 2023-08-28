@@ -1,5 +1,11 @@
-~~Title:arvāktanayā~~
-{{description>deviating from the eternal principles of Vedic religion.}}
+---json
+{
+    "name":"arvāktanayā",
+    "h1":"arvāktanayā",
+    "title":"arvāktanayā",
+    "description":"deviating from the eternal principles of Vedic religion."
+}
+---
 
 ==== arvāktanayā  ====
   * deviating from the eternal principles of Vedic religion --- [[books:sb:5:6:11|SB 5.6.11]]

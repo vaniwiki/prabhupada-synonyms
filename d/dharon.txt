@@ -1,5 +1,11 @@
-~~Title:dharoṅ~~
-{{description>I hold; I keep; I place.}}
+---json
+{
+    "name":"dharoṅ",
+    "h1":"dharoṅ",
+    "title":"dharoṅ",
+    "description":"I hold; I keep; I place."
+}
+---
 
 ==== dharoṅ  ====
   * I hold --- [[books:cc:antya:20:58|Antya 20.58]]

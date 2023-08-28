@@ -1,5 +1,11 @@
-~~Title:stobhitaḥ~~
-{{description>encouraged, induced.}}
+---json
+{
+    "name":"stobhitaḥ",
+    "h1":"stobhitaḥ",
+    "title":"stobhitaḥ",
+    "description":"encouraged, induced."
+}
+---
 
 ==== stobhitaḥ  ====
   * encouraged, induced --- [[books:sb:10:11:7|SB 10.11.7]]

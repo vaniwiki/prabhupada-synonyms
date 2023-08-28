@@ -1,5 +1,11 @@
-~~Title:vānaraḥ~~
-{{description>the monkey.}}
+---json
+{
+    "name":"vānaraḥ",
+    "h1":"vānaraḥ",
+    "title":"vānaraḥ",
+    "description":"the monkey."
+}
+---
 
 ==== vānaraḥ  ====
   * the monkey --- [[books:sb:5:14:32|SB 5.14.32]]

@@ -1,5 +1,11 @@
-~~Title:saubhāgya~~
-{{description>fortune; of good fortune.}}
+---json
+{
+    "name":"saubhāgya",
+    "h1":"saubhāgya",
+    "title":"saubhāgya",
+    "description":"fortune; of good fortune."
+}
+---
 
 ==== saubhāgya  ====
   * fortune --- [[books:cc:antya:4:161|Antya 4.161]], [[books:cc:antya:6:11|Antya 6.11]], [[books:cc:antya:20:50|Antya 20.50]]

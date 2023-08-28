@@ -1,5 +1,11 @@
-~~Title:jvalat~~
-{{description>flaming.}}
+---json
+{
+    "name":"jvalat",
+    "h1":"jvalat",
+    "title":"jvalat",
+    "description":"flaming."
+}
+---
 
 ==== jvalat  ====
   * flaming --- [[books:sb:3:19:13|SB 3.19.13]]

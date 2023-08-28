@@ -1,5 +1,11 @@
-~~Title:gṛhītayā~~
-{{description>well received.}}
+---json
+{
+    "name":"gṛhītayā",
+    "h1":"gṛhītayā",
+    "title":"gṛhītayā",
+    "description":"well received."
+}
+---
 
 ==== gṛhītayā  ====
   * well received --- [[books:sb:1:2:12|SB 1.2.12]]

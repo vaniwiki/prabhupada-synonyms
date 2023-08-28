@@ -1,5 +1,11 @@
-~~Title:ghoḍāra~~
-{{description>of the horse.}}
+---json
+{
+    "name":"ghoḍāra",
+    "h1":"ghoḍāra",
+    "title":"ghoḍāra",
+    "description":"of the horse."
+}
+---
 
 ==== ghoḍāra  ====
   * of the horse --- [[books:cc:antya:15:17|Antya 15.17]], [[books:cc:antya:15:18|Antya 15.18]]

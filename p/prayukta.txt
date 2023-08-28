@@ -1,5 +1,11 @@
-~~Title:prayuktā~~
-{{description>I have used it.}}
+---json
+{
+    "name":"prayuktā",
+    "h1":"prayuktā",
+    "title":"prayuktā",
+    "description":"I have used it."
+}
+---
 
 ==== prayuktā  ====
   * I have used it --- [[books:sb:9:24:33|SB 9.24.33]]

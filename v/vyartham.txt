@@ -1,5 +1,11 @@
-~~Title:vyartham~~
-{{description>uselessly.}}
+---json
+{
+    "name":"vyartham",
+    "h1":"vyartham",
+    "title":"vyartham",
+    "description":"uselessly."
+}
+---
 
 ==== vyartham  ====
   * uselessly --- [[books:sb:4:9:34|SB 4.9.34]]

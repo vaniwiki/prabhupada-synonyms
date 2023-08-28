@@ -1,5 +1,11 @@
-~~Title:andhakāram~~
-{{description>darkness.}}
+---json
+{
+    "name":"andhakāram",
+    "h1":"andhakāram",
+    "title":"andhakāram",
+    "description":"darkness."
+}
+---
 
 ==== andhakāram  ====
   * darkness --- [[books:sb:3:28:21|SB 3.28.21]]

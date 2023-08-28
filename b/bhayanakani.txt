@@ -1,5 +1,11 @@
-~~Title:bhayānakāni~~
-{{description>very fearful.}}
+---json
+{
+    "name":"bhayānakāni",
+    "h1":"bhayānakāni",
+    "title":"bhayānakāni",
+    "description":"very fearful."
+}
+---
 
 ==== bhayānakāni  ====
   * very fearful --- [[books:bg:11:26-27|Bg. 11.26-27]]

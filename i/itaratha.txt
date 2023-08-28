@@ -1,5 +1,11 @@
-~~Title:itarathā~~
-{{description>anyone else than; else; in another manner; otherwise.}}
+---json
+{
+    "name":"itarathā",
+    "h1":"itarathā",
+    "title":"itarathā",
+    "description":"anyone else than; else; in another manner; otherwise."
+}
+---
 
 ==== itarathā  ====
   * anyone else than --- [[books:sb:2:7:27|SB 2.7.27]]

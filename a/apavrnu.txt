@@ -1,5 +1,11 @@
-~~Title:apāvṛṇu~~
-{{description>kindly remove.}}
+---json
+{
+    "name":"apāvṛṇu",
+    "h1":"apāvṛṇu",
+    "title":"apāvṛṇu",
+    "description":"kindly remove."
+}
+---
 
 ==== apāvṛṇu  ====
   * kindly remove --- [[books:iso:15|Īśo 15]]

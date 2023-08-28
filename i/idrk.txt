@@ -1,5 +1,11 @@
-~~Title:īdṛk~~
-{{description>like this; such.}}
+---json
+{
+    "name":"īdṛk",
+    "h1":"īdṛk",
+    "title":"īdṛk",
+    "description":"like this; such."
+}
+---
 
 ==== īdṛk  ====
   * like this --- [[books:bg:11:49|Bg. 11.49]], [[books:sb:4:13:31|SB 4.13.31]]

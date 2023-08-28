@@ -1,5 +1,11 @@
-~~Title:manīṣita~~
-{{description>ingenuity.}}
+---json
+{
+    "name":"manīṣita",
+    "h1":"manīṣita",
+    "title":"manīṣita",
+    "description":"ingenuity."
+}
+---
 
 ==== manīṣita  ====
   * ingenuity --- [[books:sb:2:9:22|SB 2.9.22]]

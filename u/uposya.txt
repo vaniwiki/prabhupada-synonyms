@@ -1,5 +1,11 @@
-~~Title:upoṣya~~
-{{description>fasting; observing a fast.}}
+---json
+{
+    "name":"upoṣya",
+    "h1":"upoṣya",
+    "title":"upoṣya",
+    "description":"fasting; observing a fast."
+}
+---
 
 ==== upoṣya  ====
   * fasting --- [[books:sb:4:8:71|SB 4.8.71]]

@@ -1,5 +1,11 @@
-~~Title:cetasi~~
-{{description>in the heart; on the seat of the heart.}}
+---json
+{
+    "name":"cetasi",
+    "h1":"cetasi",
+    "title":"cetasi",
+    "description":"in the heart; on the seat of the heart."
+}
+---
 
 ==== cetasi  ====
   * in the heart --- [[books:cc:madhya:23:40|Madhya 23.40]], [[books:cc:antya:19:105|Antya 19.105]]

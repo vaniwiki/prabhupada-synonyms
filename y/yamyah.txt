@@ -1,5 +1,11 @@
-~~Title:yāmyāḥ~~
-{{description>the order carriers of Yamarāja; the servants of Yamarāja.}}
+---json
+{
+    "name":"yāmyāḥ",
+    "h1":"yāmyāḥ",
+    "title":"yāmyāḥ",
+    "description":"the order carriers of Yamarāja; the servants of Yamarāja."
+}
+---
 
 ==== yāmyāḥ  ====
   * the order carriers of Yamarāja --- [[books:sb:6:3:3|SB 6.3.3]]

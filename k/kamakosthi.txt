@@ -1,5 +1,11 @@
-~~Title:kāmakoṣṭhī~~
-{{description>from Kāmakoṣṭhī.}}
+---json
+{
+    "name":"kāmakoṣṭhī",
+    "h1":"kāmakoṣṭhī",
+    "title":"kāmakoṣṭhī",
+    "description":"from Kāmakoṣṭhī."
+}
+---
 
 ==== kāmakoṣṭhī haite  ====
   * from Kāmakoṣṭhī --- [[books:cc:madhya:9:178|Madhya 9.178]]

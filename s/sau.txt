@@ -1,5 +1,11 @@
-~~Title:sau~~
-{{description>with great humming.}}
+---json
+{
+    "name":"sau",
+    "h1":"sau",
+    "title":"sau",
+    "description":"with great humming."
+}
+---
 
 ==== sau-svarya  ====
   * with great humming --- [[books:sb:4:24:22|SB 4.24.22]]

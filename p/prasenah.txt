@@ -1,5 +1,11 @@
-~~Title:prasenaḥ~~
-{{description>Prasena also.}}
+---json
+{
+    "name":"prasenaḥ",
+    "h1":"prasenaḥ",
+    "title":"prasenaḥ",
+    "description":"Prasena also."
+}
+---
 
 ==== prasenaḥ ca  ====
   * Prasena also --- [[books:sb:9:24:13|SB 9.24.13]]

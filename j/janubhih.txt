@@ -1,5 +1,11 @@
-~~Title:jānubhiḥ~~
-{{description>without the help of crawling on Their knees.}}
+---json
+{
+    "name":"jānubhiḥ",
+    "h1":"jānubhiḥ",
+    "title":"jānubhiḥ",
+    "description":"without the help of crawling on Their knees."
+}
+---
 
 ==== aghṛṣṭa-jānubhiḥ  ====
   * without the help of crawling on Their knees --- [[books:sb:10:8:26|SB 10.8.26]]

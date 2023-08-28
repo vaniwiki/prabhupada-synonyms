@@ -1,5 +1,11 @@
-~~Title:avidagdha~~
-{{description>inexperienced.}}
+---json
+{
+    "name":"avidagdha",
+    "h1":"avidagdha",
+    "title":"avidagdha",
+    "description":"inexperienced."
+}
+---
 
 ==== avidagdha  ====
   * inexperienced --- [[books:cc:adi:4:150|Ādi 4.150]]

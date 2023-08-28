@@ -1,5 +1,11 @@
-~~Title:sunakṣatraḥ~~
-{{description>Sunakṣatra.}}
+---json
+{
+    "name":"sunakṣatraḥ",
+    "h1":"sunakṣatraḥ",
+    "title":"sunakṣatraḥ",
+    "description":"Sunakṣatra."
+}
+---
 
 ==== sunakṣatraḥ  ====
   * Sunakṣatra --- [[books:sb:9:12:12|SB 9.12.12]], [[books:sb:9:22:46-48|SB 9.22.46-48]]

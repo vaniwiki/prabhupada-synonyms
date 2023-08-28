@@ -1,5 +1,11 @@
-~~Title:parityajet~~
-{{description>one should give up.}}
+---json
+{
+    "name":"parityajet",
+    "h1":"parityajet",
+    "title":"parityajet",
+    "description":"one should give up."
+}
+---
 
 ==== parityajet  ====
   * one should give up --- [[books:sb:7:12:19|SB 7.12.19]]

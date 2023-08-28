@@ -1,5 +1,11 @@
-~~Title:parthah~~
-{{description>Arjuna; Mahārāja Yudhiṣṭhira; the son of Pṛthā; Śrī Arjuna.}}
+---json
+{
+    "name":"parthah",
+    "h1":"parthah",
+    "title":"parthah",
+    "description":"Arjuna; Mahārāja Yudhiṣṭhira; the son of Pṛthā; Śrī Arjuna."
+}
+---
 
 ==== pārthaḥ  ====
   * Arjuna --- [[books:bg:1:26|Bg. 1.26]]

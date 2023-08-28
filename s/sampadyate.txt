@@ -1,5 +1,11 @@
-~~Title:sampadyate~~
-{{description>attains; attains success; becomes successful; is worshiped.}}
+---json
+{
+    "name":"sampadyate",
+    "h1":"sampadyate",
+    "title":"sampadyate",
+    "description":"attains; attains success; becomes successful; is worshiped."
+}
+---
 
 ==== sampadyate  ====
   * attains --- [[books:bg:13:31|Bg. 13.31]]

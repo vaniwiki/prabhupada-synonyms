@@ -1,5 +1,11 @@
-~~Title:abhyavahāra~~
-{{description>palatable dishes.}}
+---json
+{
+    "name":"abhyavahāra",
+    "h1":"abhyavahāra",
+    "title":"abhyavahāra",
+    "description":"palatable dishes."
+}
+---
 
 ==== abhyavahāra  ====
   * palatable dishes --- [[books:sb:9:6:45-46|SB 9.6.45-46]]

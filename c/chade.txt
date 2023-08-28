@@ -1,5 +1,11 @@
-~~Title:chāḍe~~
-{{description>become separated; give up; gives up; he gives up; leaves; one releases.}}
+---json
+{
+    "name":"chāḍe",
+    "h1":"chāḍe",
+    "title":"chāḍe",
+    "description":"become separated; give up; gives up; he gives up; leaves; one releases."
+}
+---
 
 ==== chāḍe  ====
   * become separated --- [[books:cc:antya:18:69|Antya 18.69]]

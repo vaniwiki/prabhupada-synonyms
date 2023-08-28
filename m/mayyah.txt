@@ -1,5 +1,11 @@
-~~Title:mayyāḥ~~
-{{description>in the shape of a woman.}}
+---json
+{
+    "name":"mayyāḥ",
+    "h1":"mayyāḥ",
+    "title":"mayyāḥ",
+    "description":"in the shape of a woman."
+}
+---
 
 ==== strī-mayyāḥ  ====
   * in the shape of a woman --- [[books:sb:3:31:38|SB 3.31.38]]

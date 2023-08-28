@@ -1,5 +1,11 @@
-~~Title:śuśubhe~~
-{{description>became very beautiful to see.}}
+---json
+{
+    "name":"śuśubhe",
+    "h1":"śuśubhe",
+    "title":"śuśubhe",
+    "description":"became very beautiful to see."
+}
+---
 
 ==== śuśubhe  ====
   * became very beautiful to see --- [[books:sb:8:10:25|SB 8.10.25]]

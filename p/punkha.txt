@@ -1,5 +1,11 @@
-~~Title:puṅkha~~
-{{description>one arrow after another.}}
+---json
+{
+    "name":"puṅkha",
+    "h1":"puṅkha",
+    "title":"puṅkha",
+    "description":"one arrow after another."
+}
+---
 
 ==== puṅkha-anupuṅkha  ====
   * one arrow after another --- [[books:sb:6:10:24|SB 6.10.24]]

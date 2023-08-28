@@ -1,5 +1,11 @@
-~~Title:phelāiyā~~
-{{description>have been thrown.}}
+---json
+{
+    "name":"phelāiyā",
+    "h1":"phelāiyā",
+    "title":"phelāiyā",
+    "description":"have been thrown."
+}
+---
 
 ==== diyāche phelāiyā  ====
   * have been thrown --- [[books:cc:madhya:1:198|Madhya 1.198]]

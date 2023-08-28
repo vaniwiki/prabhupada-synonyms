@@ -1,5 +1,11 @@
-~~Title:saṅkaṭāt~~
-{{description>from the great danger.}}
+---json
+{
+    "name":"saṅkaṭāt",
+    "h1":"saṅkaṭāt",
+    "title":"saṅkaṭāt",
+    "description":"from the great danger."
+}
+---
 
 ==== saṅkaṭāt  ====
   * from the great danger --- [[books:sb:8:24:43|SB 8.24.43]]

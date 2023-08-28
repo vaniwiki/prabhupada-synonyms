@@ -1,5 +1,11 @@
-~~Title:ṛṣabhān~~
-{{description>the great personalities.}}
+---json
+{
+    "name":"ṛṣabhān",
+    "h1":"ṛṣabhān",
+    "title":"ṛṣabhān",
+    "description":"the great personalities."
+}
+---
 
 ==== ṛṣabhān  ====
   * the great personalities --- [[books:sb:4:1:23|SB 4.1.23]]

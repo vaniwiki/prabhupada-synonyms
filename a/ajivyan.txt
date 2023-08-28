@@ -1,5 +1,11 @@
-~~Title:ājīvyān~~
-{{description>the source of livelihood.}}
+---json
+{
+    "name":"ājīvyān",
+    "h1":"ājīvyān",
+    "title":"ājīvyān",
+    "description":"the source of livelihood."
+}
+---
 
 ==== ājīvyān  ====
   * the source of livelihood --- [[books:sb:7:2:15|SB 7.2.15]]

@@ -1,5 +1,11 @@
-~~Title:nyavasat~~
-{{description>dwelt; lived there.}}
+---json
+{
+    "name":"nyavasat",
+    "h1":"nyavasat",
+    "title":"nyavasat",
+    "description":"dwelt; lived there."
+}
+---
 
 ==== nyavasat  ====
   * dwelt --- [[books:sb:1:17:40|SB 1.17.40]]

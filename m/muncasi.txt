@@ -1,5 +1,11 @@
-~~Title:muñcasi~~
-{{description>deliver.}}
+---json
+{
+    "name":"muñcasi",
+    "h1":"muñcasi",
+    "title":"muñcasi",
+    "description":"deliver."
+}
+---
 
 ==== muñcasi  ====
   * deliver --- [[books:sb:4:17:24|SB 4.17.24]]

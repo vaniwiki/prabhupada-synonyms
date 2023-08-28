@@ -1,5 +1,11 @@
-~~Title:pṛśni~~
-{{description>celebrated as born of Pṛśni.}}
+---json
+{
+    "name":"pṛśni",
+    "h1":"pṛśni",
+    "title":"pṛśni",
+    "description":"celebrated as born of Pṛśni."
+}
+---
 
 ==== pṛśni-garbhaḥ  ====
   * celebrated as born of Pṛśni --- [[books:sb:10:3:41|SB 10.3.41]]

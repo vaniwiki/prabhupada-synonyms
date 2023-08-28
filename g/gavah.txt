@@ -1,5 +1,11 @@
-~~Title:gāvaḥ~~
-{{description>all the cows; bulls; cow; cows; the calves; the cow; the cows; the protected cows.}}
+---json
+{
+    "name":"gāvaḥ",
+    "h1":"gāvaḥ",
+    "title":"gāvaḥ",
+    "description":"all the cows; bulls; cow; cows; the calves; the cow; the cows; the protected cows."
+}
+---
 
 ==== gāvaḥ  ====
   * all the cows --- [[books:sb:10:13:29|SB 10.13.29]], [[books:sb:10:13:31|SB 10.13.31]]

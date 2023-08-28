@@ -1,5 +1,11 @@
-~~Title:viśīrṇām~~
-{{description>scattered.}}
+---json
+{
+    "name":"viśīrṇām",
+    "h1":"viśīrṇām",
+    "title":"viśīrṇām",
+    "description":"scattered."
+}
+---
 
 ==== viśīrṇām  ====
   * scattered --- [[books:sb:4:28:7|SB 4.28.7]]

@@ -1,5 +1,11 @@
-~~Title:aṅgānām~~
-{{description>his limbs; of bodily limbs.}}
+---json
+{
+    "name":"aṅgānām",
+    "h1":"aṅgānām",
+    "title":"aṅgānām",
+    "description":"his limbs; of bodily limbs."
+}
+---
 
 ==== aṅgānām  ====
   * his limbs --- [[books:sb:3:31:26|SB 3.31.26]]

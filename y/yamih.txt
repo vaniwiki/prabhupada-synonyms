@@ -1,5 +1,11 @@
-~~Title:yāmiḥ~~
-{{description>Yāmi.}}
+---json
+{
+    "name":"yāmiḥ",
+    "h1":"yāmiḥ",
+    "title":"yāmiḥ",
+    "description":"Yāmi."
+}
+---
 
 ==== yāmiḥ  ====
   * Yāmi --- [[books:sb:6:6:4|SB 6.6.4]]

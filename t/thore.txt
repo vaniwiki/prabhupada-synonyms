@@ -1,5 +1,11 @@
-~~Title:ṭhore~~
-{{description>by indications; making some indications; with different indications.}}
+---json
+{
+    "name":"ṭhore",
+    "h1":"ṭhore",
+    "title":"ṭhore",
+    "description":"by indications; making some indications; with different indications."
+}
+---
 
 ==== ṭhāre-ṭhore  ====
   * by indications --- [[books:cc:madhya:16:60|Madhya 16.60]]

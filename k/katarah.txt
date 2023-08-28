@@ -1,5 +1,11 @@
-~~Title:katarah~~
-{{description>being afraid of; distressed; eager; who is troubled.}}
+---json
+{
+    "name":"katarah",
+    "h1":"katarah",
+    "title":"katarah",
+    "description":"being afraid of; distressed; eager; who is troubled."
+}
+---
 
 ==== kātaraḥ  ====
   * being afraid of --- [[books:sb:1:2:2|SB 1.2.2]]

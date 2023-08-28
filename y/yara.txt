@@ -1,5 +1,11 @@
-~~Title:yāra~~
-{{description>anyone; for which; of someone; of the narration; of which; of whom; one whose; whose.}}
+---json
+{
+    "name":"yāra",
+    "h1":"yāra",
+    "title":"yāra",
+    "description":"anyone; for which; of someone; of the narration; of which; of whom; one whose; whose."
+}
+---
 
 ==== yāra  ====
   * anyone --- [[books:cc:adi:9:41|Ādi 9.41]]

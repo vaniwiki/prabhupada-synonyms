@@ -1,5 +1,11 @@
-~~Title:sannyāsa~~
-{{description>sannyāsa; acceptance of the renounced order of life; of renunciation; renounced order; the sannyāsa order; the sannyāsa order of life; the renounced order; the renounced order of life.}}
+---json
+{
+    "name":"sannyāsa",
+    "h1":"sannyāsa",
+    "title":"sannyāsa",
+    "description":"sannyāsa; acceptance of the renounced order of life; of renunciation; renounced order; the sannyāsa order; the sannyāsa order of life; the renounced order; the renounced order of life."
+}
+---
 
 ==== sannyāsa  ====
   * //sannyāsa// --- [[books:cc:madhya:3:177|Madhya 3.177]]

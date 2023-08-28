@@ -1,5 +1,11 @@
-~~Title:bharatasya~~
-{{description>of Bharata Mahārāja; of Lord Bharata; of Mahārāja Bharata; of Mahārāja Bharata, the son of Mahārāja Duṣmanta.}}
+---json
+{
+    "name":"bharatasya",
+    "h1":"bharatasya",
+    "title":"bharatasya",
+    "description":"of Bharata Mahārāja; of Lord Bharata; of Mahārāja Bharata; of Mahārāja Bharata, the son of Mahārāja Duṣmanta."
+}
+---
 
 ==== bharatasya  ====
   * of Bharata Mahārāja --- [[books:sb:5:14:46|SB 5.14.46]], [[books:sb:5:15:1|SB 5.15.1]]

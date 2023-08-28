@@ -1,5 +1,11 @@
-~~Title:dundubheḥ~~
-{{description>of Vasudeva.}}
+---json
+{
+    "name":"dundubheḥ",
+    "h1":"dundubheḥ",
+    "title":"dundubheḥ",
+    "description":"of Vasudeva."
+}
+---
 
 ==== ānaka-dundubheḥ  ====
   * of Vasudeva --- [[books:sb:10:8:8-9|SB 10.8.8-9]]

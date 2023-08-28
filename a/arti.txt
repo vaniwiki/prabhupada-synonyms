@@ -1,5 +1,11 @@
-~~Title:arti~~
-{{description>and distress; movement.}}
+---json
+{
+    "name":"arti",
+    "h1":"arti",
+    "title":"arti",
+    "description":"and distress; movement."
+}
+---
 
 ==== arti  ====
   * and distress --- [[books:sb:6:15:21-23|SB 6.15.21-23]], [[books:sb:6:16:13|SB 6.16.13]]

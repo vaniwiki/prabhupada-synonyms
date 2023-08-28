@@ -1,5 +1,11 @@
-~~Title:ajñānena~~
-{{description>by ignorance; the lack of knowledge.}}
+---json
+{
+    "name":"ajñānena",
+    "h1":"ajñānena",
+    "title":"ajñānena",
+    "description":"by ignorance; the lack of knowledge."
+}
+---
 
 ==== ajñānena  ====
   * by ignorance --- [[books:bg:5:15|Bg. 5.15]]

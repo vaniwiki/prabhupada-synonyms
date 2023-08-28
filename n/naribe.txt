@@ -1,5 +1,11 @@
-~~Title:nāribe~~
-{{description>will not be able; you will not be able.}}
+---json
+{
+    "name":"nāribe",
+    "h1":"nāribe",
+    "title":"nāribe",
+    "description":"will not be able; you will not be able."
+}
+---
 
 ==== nāribe  ====
   * will not be able --- [[books:cc:madhya:25:106|Madhya 25.106]]

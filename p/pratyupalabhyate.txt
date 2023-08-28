@@ -1,5 +1,11 @@
-~~Title:pratyupalabhyate~~
-{{description>is found.}}
+---json
+{
+    "name":"pratyupalabhyate",
+    "h1":"pratyupalabhyate",
+    "title":"pratyupalabhyate",
+    "description":"is found."
+}
+---
 
 ==== pratyupalabhyate  ====
   * is found --- [[books:sb:5:20:35|SB 5.20.35]]

@@ -1,5 +1,11 @@
-~~Title:smārayaḥ~~
-{{description>and reminding.}}
+---json
+{
+    "name":"smārayaḥ",
+    "h1":"smārayaḥ",
+    "title":"smārayaḥ",
+    "description":"and reminding."
+}
+---
 
 ==== smārayaḥ ca  ====
   * and reminding --- [[books:cc:madhya:25:140|Madhya 25.140]]

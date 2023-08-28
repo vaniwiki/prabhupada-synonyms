@@ -1,5 +1,11 @@
-~~Title:dhaḍi~~
-{{description>the silken cover.}}
+---json
+{
+    "name":"dhaḍi",
+    "h1":"dhaḍi",
+    "title":"dhaḍi",
+    "description":"the silken cover."
+}
+---
 
 ==== neta-dhaḍi  ====
   * the silken cover --- [[books:cc:antya:9:111|Antya 9.111]]

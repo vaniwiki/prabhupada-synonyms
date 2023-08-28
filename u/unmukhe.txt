@@ -1,5 +1,11 @@
-~~Title:unmukhe~~
-{{description>if one is attached to the service of Lord Kṛṣṇa.}}
+---json
+{
+    "name":"unmukhe",
+    "h1":"unmukhe",
+    "title":"unmukhe",
+    "description":"if one is attached to the service of Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇa-unmukhe  ====
   * if one is attached to the service of Lord Kṛṣṇa --- [[books:cc:madhya:22:21|Madhya 22.21]]

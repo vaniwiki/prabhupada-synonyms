@@ -1,5 +1,11 @@
-~~Title:phula~~
-{{description>flower; flowers.}}
+---json
+{
+    "name":"phula",
+    "h1":"phula",
+    "title":"phula",
+    "description":"flower; flowers."
+}
+---
 
 ==== phula  ====
   * flower --- [[books:cc:adi:10:78-79|Ādi 10.78-79]]

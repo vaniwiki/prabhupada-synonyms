@@ -1,5 +1,11 @@
-~~Title:aruṇodā~~
-{{description>Aruṇodā.}}
+---json
+{
+    "name":"aruṇodā",
+    "h1":"aruṇodā",
+    "title":"aruṇodā",
+    "description":"Aruṇodā."
+}
+---
 
 ==== aruṇodā  ====
   * Aruṇodā --- [[books:sb:5:16:17|SB 5.16.17]]

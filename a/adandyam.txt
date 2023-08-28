@@ -1,5 +1,11 @@
-~~Title:adaṇḍyam~~
-{{description>not punishable.}}
+---json
+{
+    "name":"adaṇḍyam",
+    "h1":"adaṇḍyam",
+    "title":"adaṇḍyam",
+    "description":"not punishable."
+}
+---
 
 ==== adaṇḍyam  ====
   * not punishable --- [[books:sb:4:16:13|SB 4.16.13]]

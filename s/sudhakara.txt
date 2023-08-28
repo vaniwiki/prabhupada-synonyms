@@ -1,5 +1,11 @@
-~~Title:sudhākara~~
-{{description>like the moon.}}
+---json
+{
+    "name":"sudhākara",
+    "h1":"sudhākara",
+    "title":"sudhākara",
+    "description":"like the moon."
+}
+---
 
 ==== sudhākara  ====
   * like the moon --- [[books:cc:madhya:21:138|Madhya 21.138]]

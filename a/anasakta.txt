@@ -1,5 +1,11 @@
-~~Title:anāsakta~~
-{{description>without attachment.}}
+---json
+{
+    "name":"anāsakta",
+    "h1":"anāsakta",
+    "title":"anāsakta",
+    "description":"without attachment."
+}
+---
 
 ==== anāsakta  ====
   * without attachment --- [[books:cc:madhya:16:238|Madhya 16.238]]

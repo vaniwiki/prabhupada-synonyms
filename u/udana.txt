@@ -1,5 +1,11 @@
-~~Title:udana~~
-{{description>soaring.}}
+---json
+{
+    "name":"udana",
+    "h1":"udana",
+    "title":"udana",
+    "description":"soaring."
+}
+---
 
 ==== udāna  ====
   * soaring --- [[books:sb:2:2:20|SB 2.2.20]]

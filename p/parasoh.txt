@@ -1,5 +1,11 @@
-~~Title:paraśoḥ~~
-{{description>who is like an axe.}}
+---json
+{
+    "name":"paraśoḥ",
+    "h1":"paraśoḥ",
+    "title":"paraśoḥ",
+    "description":"who is like an axe."
+}
+---
 
 ==== paraśoḥ  ====
   * who is like an axe --- [[books:sb:7:5:17|SB 7.5.17]]

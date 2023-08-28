@@ -1,5 +1,11 @@
-~~Title:saṁśayān~~
-{{description>doubts.}}
+---json
+{
+    "name":"saṁśayān",
+    "h1":"saṁśayān",
+    "title":"saṁśayān",
+    "description":"doubts."
+}
+---
 
 ==== saṁśayān  ====
   * doubts --- [[books:sb:3:10:2|SB 3.10.2]]

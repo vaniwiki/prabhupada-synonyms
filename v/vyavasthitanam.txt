@@ -1,5 +1,11 @@
-~~Title:vyavasthitānām~~
-{{description>particularly situated.}}
+---json
+{
+    "name":"vyavasthitānām",
+    "h1":"vyavasthitānām",
+    "title":"vyavasthitānām",
+    "description":"particularly situated."
+}
+---
 
 ==== vyavasthitānām  ====
   * particularly situated --- [[books:sb:2:4:13|SB 2.4.13]]

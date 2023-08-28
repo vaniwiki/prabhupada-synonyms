@@ -1,5 +1,11 @@
-~~Title:acchedya~~
-{{description>whose root is uncuttable.}}
+---json
+{
+    "name":"acchedya",
+    "h1":"acchedya",
+    "title":"acchedya",
+    "description":"whose root is uncuttable."
+}
+---
 
 ==== acchedya-mūlā  ====
   * whose root is uncuttable --- [[books:cc:madhya:23:29|Madhya 23.29]]

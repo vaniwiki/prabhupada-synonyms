@@ -1,5 +1,11 @@
-~~Title:hayaśirām~~
-{{description>Hayaśirā.}}
+---json
+{
+    "name":"hayaśirām",
+    "h1":"hayaśirām",
+    "title":"hayaśirām",
+    "description":"Hayaśirā."
+}
+---
 
 ==== hayaśirām  ====
   * Hayaśirā --- [[books:sb:6:6:33-36|SB 6.6.33-36]]

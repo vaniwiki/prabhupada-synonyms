@@ -1,5 +1,11 @@
-~~Title:hatvā~~
-{{description>after killing (the demons); after killing; by killing; having killed; killing; killing there.}}
+---json
+{
+    "name":"hatvā",
+    "h1":"hatvā",
+    "title":"hatvā",
+    "description":"after killing (the demons); after killing; by killing; having killed; killing; killing there."
+}
+---
 
 ==== hatvā  ====
   * after killing (the demons) --- [[books:sb:8:1:18|SB 8.1.18]]

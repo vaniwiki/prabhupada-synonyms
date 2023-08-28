@@ -1,5 +1,11 @@
-~~Title:yojayet~~
-{{description>one may understand; should engage.}}
+---json
+{
+    "name":"yojayet",
+    "h1":"yojayet",
+    "title":"yojayet",
+    "description":"one may understand; should engage."
+}
+---
 
 ==== yojayet  ====
   * one may understand --- [[books:cc:adi:17:308|Ādi 17.308]]

@@ -1,5 +1,11 @@
-~~Title:anumāna~~
-{{description>a guess; a plan; called anumāna (hypothesis); conjecture; consideration; guess.}}
+---json
+{
+    "name":"anumāna",
+    "h1":"anumāna",
+    "title":"anumāna",
+    "description":"a guess; a plan; called anumāna (hypothesis); conjecture; consideration; guess."
+}
+---
 
 ==== anumāna  ====
   * a guess --- [[books:cc:madhya:6:25|Madhya 6.25]]

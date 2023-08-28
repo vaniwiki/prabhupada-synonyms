@@ -1,5 +1,11 @@
-~~Title:prastāvaḥ~~
-{{description>the son named Prastāva.}}
+---json
+{
+    "name":"prastāvaḥ",
+    "h1":"prastāvaḥ",
+    "title":"prastāvaḥ",
+    "description":"the son named Prastāva."
+}
+---
 
 ==== prastāvaḥ  ====
   * the son named Prastāva --- [[books:sb:5:15:6|SB 5.15.6]]

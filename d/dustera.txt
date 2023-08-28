@@ -1,5 +1,11 @@
-~~Title:duṣṭera~~
-{{description>of the rogue.}}
+---json
+{
+    "name":"duṣṭera",
+    "h1":"duṣṭera",
+    "title":"duṣṭera",
+    "description":"of the rogue."
+}
+---
 
 ==== duṣṭera  ====
   * of the rogue --- [[books:cc:madhya:5:59|Madhya 5.59]]

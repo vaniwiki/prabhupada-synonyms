@@ -1,5 +1,11 @@
-~~Title:pūjanam~~
-{{description>worship; worshiping.}}
+---json
+{
+    "name":"pūjanam",
+    "h1":"pūjanam",
+    "title":"pūjanam",
+    "description":"worship; worshiping."
+}
+---
 
 ==== pūjanam  ====
   * worship --- [[books:bg:17:14|Bg. 17.14]]

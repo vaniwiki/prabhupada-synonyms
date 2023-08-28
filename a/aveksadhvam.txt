@@ -1,5 +1,11 @@
-~~Title:avekṣadhvam~~
-{{description>observe and wait.}}
+---json
+{
+    "name":"avekṣadhvam",
+    "h1":"avekṣadhvam",
+    "title":"avekṣadhvam",
+    "description":"observe and wait."
+}
+---
 
 ==== avekṣadhvam  ====
   * observe and wait --- [[books:sb:1:13:50|SB 1.13.50]]

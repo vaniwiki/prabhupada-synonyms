@@ -1,5 +1,11 @@
-~~Title:ākramya~~
-{{description>catching; having sat; riding on it; seizing; stepping.}}
+---json
+{
+    "name":"ākramya",
+    "h1":"ākramya",
+    "title":"ākramya",
+    "description":"catching; having sat; riding on it; seizing; stepping."
+}
+---
 
 ==== ākramya  ====
   * catching --- [[books:sb:8:7:12|SB 8.7.12]]

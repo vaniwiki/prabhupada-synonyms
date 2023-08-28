@@ -1,5 +1,11 @@
-~~Title:sukheṣu~~
-{{description>in happiness.}}
+---json
+{
+    "name":"sukheṣu",
+    "h1":"sukheṣu",
+    "title":"sukheṣu",
+    "description":"in happiness."
+}
+---
 
 ==== sukheṣu  ====
   * in happiness --- [[books:bg:2:56|Bg. 2.56]]

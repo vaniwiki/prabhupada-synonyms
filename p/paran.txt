@@ -1,5 +1,11 @@
-~~Title:parān~~
-{{description>others; western side.}}
+---json
+{
+    "name":"parān",
+    "h1":"parān",
+    "title":"parān",
+    "description":"others; western side."
+}
+---
 
 ==== parān  ====
   * others --- [[books:sb:4:6:47|SB 4.6.47]]

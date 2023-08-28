@@ -1,5 +1,11 @@
-~~Title:parokṣaiḥ~~
-{{description>inexperienced.}}
+---json
+{
+    "name":"parokṣaiḥ",
+    "h1":"parokṣaiḥ",
+    "title":"parokṣaiḥ",
+    "description":"inexperienced."
+}
+---
 
 ==== parokṣaiḥ  ====
   * inexperienced --- [[books:sb:2:1:12|SB 2.1.12]]

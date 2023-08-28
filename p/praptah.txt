@@ -1,5 +1,11 @@
-~~Title:praptah~~
-{{description>accepted; achieved; achieving; arrived; had obtained; having obtained; obtained; one who has achieved; was gotten; you have attained.}}
+---json
+{
+    "name":"praptah",
+    "h1":"praptah",
+    "title":"praptah",
+    "description":"accepted; achieved; achieving; arrived; had obtained; having obtained; obtained; one who has achieved; was gotten; you have attained."
+}
+---
 
 ==== prāptaḥ  ====
   * accepted --- [[books:sb:4:2:11|SB 4.2.11]]

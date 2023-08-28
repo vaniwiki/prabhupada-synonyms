@@ -1,5 +1,11 @@
-~~Title:vimohite~~
-{{description>being perplexed.}}
+---json
+{
+    "name":"vimohite",
+    "h1":"vimohite",
+    "title":"vimohite",
+    "description":"being perplexed."
+}
+---
 
 ==== vimohite  ====
   * being perplexed --- [[books:sb:2:9:23|SB 2.9.23]]

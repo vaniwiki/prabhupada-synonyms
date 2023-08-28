@@ -1,5 +1,11 @@
-~~Title:aṅgeṣu~~
-{{description>on the limbs of the body; on their bodies.}}
+---json
+{
+    "name":"aṅgeṣu",
+    "h1":"aṅgeṣu",
+    "title":"aṅgeṣu",
+    "description":"on the limbs of the body; on their bodies."
+}
+---
 
 ==== aṅgeṣu  ====
   * on the limbs of the body --- [[books:sb:5:26:36|SB 5.26.36]]

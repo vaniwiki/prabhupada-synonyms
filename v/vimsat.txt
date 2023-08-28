@@ -1,5 +1,11 @@
-~~Title:viṁśat~~
-{{description>twenty-four.}}
+---json
+{
+    "name":"viṁśat",
+    "h1":"viṁśat",
+    "title":"viṁśat",
+    "description":"twenty-four."
+}
+---
 
 ==== catuḥ-viṁśat  ====
   * twenty-four --- [[books:sb:8:16:30|SB 8.16.30]]

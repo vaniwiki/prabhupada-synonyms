@@ -1,5 +1,11 @@
-~~Title:koṣṭheṣu~~
-{{description>in the heart and in the throat.}}
+---json
+{
+    "name":"koṣṭheṣu",
+    "h1":"koṣṭheṣu",
+    "title":"koṣṭheṣu",
+    "description":"in the heart and in the throat."
+}
+---
 
 ==== koṣṭheṣu  ====
   * in the heart and in the throat --- [[books:sb:4:23:14|SB 4.23.14]]

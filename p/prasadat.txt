@@ -1,5 +1,11 @@
-~~Title:prasādāt~~
-{{description>by satisfaction; by the grace of; by the mercy; mercy; mercy of; My mercy.}}
+---json
+{
+    "name":"prasādāt",
+    "h1":"prasādāt",
+    "title":"prasādāt",
+    "description":"by satisfaction; by the grace of; by the mercy; mercy; mercy of; My mercy."
+}
+---
 
 ==== prasādāt  ====
   * by satisfaction --- [[books:sb:8:5:39|SB 8.5.39]]

@@ -1,5 +1,11 @@
-~~Title:niravadhi~~
-{{description>always; constantly; continuously; unbounded; without stopping.}}
+---json
+{
+    "name":"niravadhi",
+    "h1":"niravadhi",
+    "title":"niravadhi",
+    "description":"always; constantly; continuously; unbounded; without stopping."
+}
+---
 
 ==== niravadhi  ====
   * always --- [[books:cc:adi:8:70|Ādi 8.70]], [[books:cc:adi:9:51|Ādi 9.51]]

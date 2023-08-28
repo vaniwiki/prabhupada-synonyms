@@ -1,5 +1,11 @@
-~~Title:yeṣām~~
-{{description>for whom; from whose; of all of them; of the brāhmaṇas; of them; of those; of those passengers; of those who; of those with whom; of which; of whom; those; those whose; unto those only; unto those who are fully surrendered souls; whose; with whom.}}
+---json
+{
+    "name":"yeṣām",
+    "h1":"yeṣām",
+    "title":"yeṣām",
+    "description":"for whom; from whose; of all of them; of the brāhmaṇas; of them; of those; of those passengers; of those who; of those with whom; of which; of whom; those; those whose; unto those only; unto those who are fully surrendered souls; whose; with whom."
+}
+---
 
 ==== yeṣām  ====
   * for whom --- [[books:bg:1:32-35|Bg. 1.32-35]]

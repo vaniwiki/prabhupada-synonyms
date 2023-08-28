@@ -1,5 +1,11 @@
-~~Title:pratipadyamānaḥ~~
-{{description>attaining.}}
+---json
+{
+    "name":"pratipadyamānaḥ",
+    "h1":"pratipadyamānaḥ",
+    "title":"pratipadyamānaḥ",
+    "description":"attaining."
+}
+---
 
 ==== pratipadyamānaḥ  ====
   * attaining --- [[books:cc:madhya:22:103|Madhya 22.103]], [[books:cc:antya:4:194|Antya 4.194]]

@@ -1,5 +1,11 @@
-~~Title:vilambibhiḥ~~
-{{description>hanging.}}
+---json
+{
+    "name":"vilambibhiḥ",
+    "h1":"vilambibhiḥ",
+    "title":"vilambibhiḥ",
+    "description":"hanging."
+}
+---
 
 ==== vilambibhiḥ  ====
   * hanging --- [[books:sb:4:9:55|SB 4.9.55]]

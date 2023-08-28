@@ -1,5 +1,11 @@
-~~Title:kṣetram~~
-{{description>a field; body; field; field of activities (the body); field of activities; kingdom; location; place; the field; the field of activities; the generating center; the land; this body.}}
+---json
+{
+    "name":"kṣetram",
+    "h1":"kṣetram",
+    "title":"kṣetram",
+    "description":"a field; body; field; field of activities (the body); field of activities; kingdom; location; place; the field; the field of activities; the generating center; the land; this body."
+}
+---
 
 ==== kṣetram  ====
   * a field --- [[books:sb:7:11:33-34|SB 7.11.33-34]]

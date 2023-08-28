@@ -1,5 +1,11 @@
-~~Title:ṛtadhvajaḥ~~
-{{description>Ṛtadhvaja.}}
+---json
+{
+    "name":"ṛtadhvajaḥ",
+    "h1":"ṛtadhvajaḥ",
+    "title":"ṛtadhvajaḥ",
+    "description":"Ṛtadhvaja."
+}
+---
 
 ==== ṛtadhvajaḥ  ====
   * Ṛtadhvaja --- [[books:sb:6:15:12-15|SB 6.15.12-15]], [[books:sb:9:17:6|SB 9.17.6]]

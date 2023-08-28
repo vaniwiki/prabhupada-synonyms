@@ -1,5 +1,11 @@
-~~Title:arpitayā~~
-{{description>fixed; placed upon.}}
+---json
+{
+    "name":"arpitayā",
+    "h1":"arpitayā",
+    "title":"arpitayā",
+    "description":"fixed; placed upon."
+}
+---
 
 ==== arpitayā  ====
   * fixed --- [[books:sb:3:25:27|SB 3.25.27]]

@@ -1,5 +1,11 @@
-~~Title:viśantaḥ~~
-{{description>having entered the battlefield.}}
+---json
+{
+    "name":"viśantaḥ",
+    "h1":"viśantaḥ",
+    "title":"viśantaḥ",
+    "description":"having entered the battlefield."
+}
+---
 
 ==== viśantaḥ  ====
   * having entered the battlefield --- [[books:sb:8:10:27|SB 8.10.27]]

@@ -1,5 +1,11 @@
-~~Title:vikuntha~~
-{{description>of the Supreme Lord; unobstructed.}}
+---json
+{
+    "name":"vikuntha",
+    "h1":"vikuntha",
+    "title":"vikuntha",
+    "description":"of the Supreme Lord; unobstructed."
+}
+---
 
 ==== vikuṇṭha  ====
   * of the Supreme Lord --- [[books:sb:3:16:34|SB 3.16.34]]

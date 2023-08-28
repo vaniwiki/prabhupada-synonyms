@@ -1,5 +1,11 @@
-~~Title:gāyantaḥ~~
-{{description>by chanting and hearing; continuously singing; glorifying; glorifying the Lord; praise in song.}}
+---json
+{
+    "name":"gāyantaḥ",
+    "h1":"gāyantaḥ",
+    "title":"gāyantaḥ",
+    "description":"by chanting and hearing; continuously singing; glorifying; glorifying the Lord; praise in song."
+}
+---
 
 ==== gāyantaḥ  ====
   * by chanting and hearing --- [[books:sb:8:3:20-21|SB 8.3.20-21]]

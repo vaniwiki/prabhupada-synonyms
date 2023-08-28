@@ -1,5 +1,11 @@
-~~Title:ālabāṭī~~
-{{description>spittoon.}}
+---json
+{
+    "name":"ālabāṭī",
+    "h1":"ālabāṭī",
+    "title":"ālabāṭī",
+    "description":"spittoon."
+}
+---
 
 ==== ālabāṭī  ====
   * spittoon --- [[books:cc:antya:16:132|Antya 16.132]]

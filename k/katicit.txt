@@ -1,5 +1,11 @@
-~~Title:katicit~~
-{{description>a few; a few of them; for several; for some; some.}}
+---json
+{
+    "name":"katicit",
+    "h1":"katicit",
+    "title":"katicit",
+    "description":"a few; a few of them; for several; for some; some."
+}
+---
 
 ==== katicit  ====
   * a few --- [[books:sb:1:12:35|SB 1.12.35]], [[books:sb:1:14:2|SB 1.14.2]], [[books:sb:8:21:34|SB 8.21.34]]

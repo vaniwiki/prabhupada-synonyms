@@ -1,5 +1,11 @@
-~~Title:vikatthana~~
-{{description>self-adoration.}}
+---json
+{
+    "name":"vikatthana",
+    "h1":"vikatthana",
+    "title":"vikatthana",
+    "description":"self-adoration."
+}
+---
 
 ==== vikatthana  ====
   * self-adoration --- [[books:sb:1:15:19|SB 1.15.19]]

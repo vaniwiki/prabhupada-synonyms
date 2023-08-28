@@ -1,5 +1,11 @@
-~~Title:udīkṣya~~
-{{description>after seeing.}}
+---json
+{
+    "name":"udīkṣya",
+    "h1":"udīkṣya",
+    "title":"udīkṣya",
+    "description":"after seeing."
+}
+---
 
 ==== udīkṣya  ====
   * after seeing --- [[books:sb:8:22:15|SB 8.22.15]]

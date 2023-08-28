@@ -1,5 +1,11 @@
-~~Title:pṛcchāmaḥ~~
-{{description>we are asking.}}
+---json
+{
+    "name":"pṛcchāmaḥ",
+    "h1":"pṛcchāmaḥ",
+    "title":"pṛcchāmaḥ",
+    "description":"we are asking."
+}
+---
 
 ==== pṛcchāmaḥ  ====
   * we are asking --- [[books:cc:madhya:22:85|Madhya 22.85]]

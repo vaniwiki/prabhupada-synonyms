@@ -1,5 +1,11 @@
-~~Title:kīnāśam~~
-{{description>from a miser.}}
+---json
+{
+    "name":"kīnāśam",
+    "h1":"kīnāśam",
+    "title":"kīnāśam",
+    "description":"from a miser."
+}
+---
 
 ==== kīnāśam  ====
   * from a miser --- [[books:sb:3:22:13|SB 3.22.13]]

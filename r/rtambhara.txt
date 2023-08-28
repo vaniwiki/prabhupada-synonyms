@@ -1,5 +1,11 @@
-~~Title:rtambhara~~
-{{description>on the Supreme Lord, who maintains truth.}}
+---json
+{
+    "name":"rtambhara",
+    "h1":"rtambhara",
+    "title":"rtambhara",
+    "description":"on the Supreme Lord, who maintains truth."
+}
+---
 
 ==== ṛtambhara  ====
   * on the Supreme Lord, who maintains truth --- [[books:sb:6:13:17|SB 6.13.17]]

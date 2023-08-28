@@ -1,5 +1,11 @@
-~~Title:udadhiḥ~~
-{{description>the great Indian Ocean; the ocean.}}
+---json
+{
+    "name":"udadhiḥ",
+    "h1":"udadhiḥ",
+    "title":"udadhiḥ",
+    "description":"the great Indian Ocean; the ocean."
+}
+---
 
 ==== udadhiḥ  ====
   * the great Indian Ocean --- [[books:sb:2:7:24|SB 2.7.24]]

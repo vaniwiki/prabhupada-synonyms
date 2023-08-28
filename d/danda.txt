@@ -1,5 +1,11 @@
-~~Title:danda~~
-{{description>punishment.}}
+---json
+{
+    "name":"danda",
+    "h1":"danda",
+    "title":"danda",
+    "description":"punishment."
+}
+---
 
 ==== danda  ====
   * punishment --- [[books:cc:adi:12:35|Ādi 12.35]]

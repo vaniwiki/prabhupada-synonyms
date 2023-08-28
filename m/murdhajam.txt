@@ -1,5 +1,11 @@
-~~Title:mūrdhajam~~
-{{description>hairs.}}
+---json
+{
+    "name":"mūrdhajam",
+    "h1":"mūrdhajam",
+    "title":"mūrdhajam",
+    "description":"hairs."
+}
+---
 
 ==== mūrdhajam  ====
   * hairs --- [[books:sb:1:7:55|SB 1.7.55]]

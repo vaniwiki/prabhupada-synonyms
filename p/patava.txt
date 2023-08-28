@@ -1,5 +1,11 @@
-~~Title:pāṭava~~
-{{description>expert in performing Her duties.}}
+---json
+{
+    "name":"pāṭava",
+    "h1":"pāṭava",
+    "title":"pāṭava",
+    "description":"expert in performing Her duties."
+}
+---
 
 ==== pāṭava-anvitā  ====
   * expert in performing Her duties --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

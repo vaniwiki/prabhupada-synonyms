@@ -1,5 +1,11 @@
-~~Title:bhrūṇasya~~
-{{description>of the embryo.}}
+---json
+{
+    "name":"bhrūṇasya",
+    "h1":"bhrūṇasya",
+    "title":"bhrūṇasya",
+    "description":"of the embryo."
+}
+---
 
 ==== bhrūṇasya  ====
   * of the embryo --- [[books:sb:9:9:31|SB 9.9.31]]

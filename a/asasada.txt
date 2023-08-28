@@ -1,5 +1,11 @@
-~~Title:āsasāda~~
-{{description>approached; arrived; came forward.}}
+---json
+{
+    "name":"āsasāda",
+    "h1":"āsasāda",
+    "title":"āsasāda",
+    "description":"approached; arrived; came forward."
+}
+---
 
 ==== āsasāda  ====
   * approached --- [[books:sb:6:13:10|SB 6.13.10]]

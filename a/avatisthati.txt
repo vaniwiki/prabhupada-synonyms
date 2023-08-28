@@ -1,5 +1,11 @@
-~~Title:avatiṣṭhati~~
-{{description>remains; sometimes stands.}}
+---json
+{
+    "name":"avatiṣṭhati",
+    "h1":"avatiṣṭhati",
+    "title":"avatiṣṭhati",
+    "description":"remains; sometimes stands."
+}
+---
 
 ==== avatiṣṭhati  ====
   * remains --- [[books:bg:14:22-25|Bg. 14.22-25]]

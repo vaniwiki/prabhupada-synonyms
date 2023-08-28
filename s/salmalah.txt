@@ -1,5 +1,11 @@
-~~Title:śālmalaḥ~~
-{{description>known as Śālmala.}}
+---json
+{
+    "name":"śālmalaḥ",
+    "h1":"śālmalaḥ",
+    "title":"śālmalaḥ",
+    "description":"known as Śālmala."
+}
+---
 
 ==== śālmalaḥ  ====
   * known as Śālmala --- [[books:sb:5:20:7|SB 5.20.7]]

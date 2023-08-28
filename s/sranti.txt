@@ -1,5 +1,11 @@
-~~Title:śrānti~~
-{{description>fatigue because of walking.}}
+---json
+{
+    "name":"śrānti",
+    "h1":"śrānti",
+    "title":"śrānti",
+    "description":"fatigue because of walking."
+}
+---
 
 ==== patha-śrānti  ====
   * fatigue because of walking --- [[books:cc:madhya:18:159|Madhya 18.159]]

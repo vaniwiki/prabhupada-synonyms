@@ -1,5 +1,11 @@
-~~Title:kṣapāsu~~
-{{description>in the autumn nights.}}
+---json
+{
+    "name":"kṣapāsu",
+    "h1":"kṣapāsu",
+    "title":"kṣapāsu",
+    "description":"in the autumn nights."
+}
+---
 
 ==== kṣapāsu  ====
   * in the autumn nights --- [[books:cc:adi:4:116|Ādi 4.116]]

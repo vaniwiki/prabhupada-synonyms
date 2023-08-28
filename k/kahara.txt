@@ -1,5 +1,11 @@
-~~Title:kāhāra~~
-{{description>by anyone else; of anyone; of someone.}}
+---json
+{
+    "name":"kāhāra",
+    "h1":"kāhāra",
+    "title":"kāhāra",
+    "description":"by anyone else; of anyone; of someone."
+}
+---
 
 ==== kāhāra  ====
   * by anyone else --- [[books:cc:antya:4:91|Antya 4.91]]

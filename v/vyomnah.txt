@@ -1,5 +1,11 @@
-~~Title:vyomnaḥ~~
-{{description>from the sky.}}
+---json
+{
+    "name":"vyomnaḥ",
+    "h1":"vyomnaḥ",
+    "title":"vyomnaḥ",
+    "description":"from the sky."
+}
+---
 
 ==== vyomnaḥ  ====
   * from the sky --- [[books:sb:4:22:2|SB 4.22.2]]

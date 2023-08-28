@@ -1,5 +1,11 @@
-~~Title:śvasantam~~
-{{description>breathing; endeavoring.}}
+---json
+{
+    "name":"śvasantam",
+    "h1":"śvasantam",
+    "title":"śvasantam",
+    "description":"breathing; endeavoring."
+}
+---
 
 ==== śvasantam  ====
   * breathing --- [[books:sb:4:29:61|SB 4.29.61]]

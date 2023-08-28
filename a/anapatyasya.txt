@@ -1,5 +1,11 @@
-~~Title:anapatyasya~~
-{{description>who was without issue.}}
+---json
+{
+    "name":"anapatyasya",
+    "h1":"anapatyasya",
+    "title":"anapatyasya",
+    "description":"who was without issue."
+}
+---
 
 ==== anapatyasya  ====
   * who was without issue --- [[books:sb:9:23:7-10|SB 9.23.7-10]]

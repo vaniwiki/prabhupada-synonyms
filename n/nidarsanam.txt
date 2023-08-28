@@ -1,5 +1,11 @@
-~~Title:nidarśanam~~
-{{description>indicating; specifically directs.}}
+---json
+{
+    "name":"nidarśanam",
+    "h1":"nidarśanam",
+    "title":"nidarśanam",
+    "description":"indicating; specifically directs."
+}
+---
 
 ==== nidarśanam  ====
   * indicating --- [[books:sb:6:1:47|SB 6.1.47]]

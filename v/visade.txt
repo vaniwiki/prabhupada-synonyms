@@ -1,5 +1,11 @@
-~~Title:viṣāde~~
-{{description>in great moroseness; in lamentation; in lamentation due to separation; in moroseness.}}
+---json
+{
+    "name":"viṣāde",
+    "h1":"viṣāde",
+    "title":"viṣāde",
+    "description":"in great moroseness; in lamentation; in lamentation due to separation; in moroseness."
+}
+---
 
 ==== viṣāde  ====
   * in great moroseness --- [[books:cc:antya:18:43|Antya 18.43]]

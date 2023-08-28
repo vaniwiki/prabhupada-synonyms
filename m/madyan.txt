@@ -1,5 +1,11 @@
-~~Title:mādyan~~
-{{description>being intoxicated; taking pleasure in.}}
+---json
+{
+    "name":"mādyan",
+    "h1":"mādyan",
+    "title":"mādyan",
+    "description":"being intoxicated; taking pleasure in."
+}
+---
 
 ==== mādyan  ====
   * being intoxicated --- [[books:sb:5:25:7|SB 5.25.7]], [[books:cc:antya:1:190|Antya 1.190]]

@@ -1,5 +1,11 @@
-~~Title:śirase~~
-{{description>who taught the Sāṅkhya philosophy or who actually gives knowledge of Sāṅkhya to the people of the world.}}
+---json
+{
+    "name":"śirase",
+    "h1":"śirase",
+    "title":"śirase",
+    "description":"who taught the Sāṅkhya philosophy or who actually gives knowledge of Sāṅkhya to the people of the world."
+}
+---
 
 ==== sāṅkhya-śirase  ====
   * who taught the Sāṅkhya philosophy or who actually gives knowledge of Sāṅkhya to the people of the world --- [[books:sb:5:14:45|SB 5.14.45]]

@@ -1,5 +1,11 @@
-~~Title:pilā~~
-{{description>drank; he drank.}}
+---json
+{
+    "name":"pilā",
+    "h1":"pilā",
+    "title":"pilā",
+    "description":"drank; he drank."
+}
+---
 
 ==== pilā  ====
   * drank --- [[books:cc:adi:10:68|Ādi 10.68]]

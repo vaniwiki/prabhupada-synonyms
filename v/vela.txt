@@ -1,5 +1,11 @@
-~~Title:velā~~
-{{description>period.}}
+---json
+{
+    "name":"velā",
+    "h1":"velā",
+    "title":"velā",
+    "description":"period."
+}
+---
 
 ==== velā  ====
   * period --- [[books:sb:3:14:23|SB 3.14.23]]

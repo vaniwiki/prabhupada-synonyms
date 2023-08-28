@@ -1,5 +1,11 @@
-~~Title:kṣudrāḥ~~
-{{description>small animals.}}
+---json
+{
+    "name":"kṣudrāḥ",
+    "h1":"kṣudrāḥ",
+    "title":"kṣudrāḥ",
+    "description":"small animals."
+}
+---
 
 ==== kṣudrāḥ  ====
   * small animals --- [[books:sb:8:2:22|SB 8.2.22]]

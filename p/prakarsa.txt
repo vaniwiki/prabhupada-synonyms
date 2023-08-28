@@ -1,5 +1,11 @@
-~~Title:prakarṣa~~
-{{description>by abundant causeless mercy.}}
+---json
+{
+    "name":"prakarṣa",
+    "h1":"prakarṣa",
+    "title":"prakarṣa",
+    "description":"by abundant causeless mercy."
+}
+---
 
 ==== prakarṣa-karuṇayā  ====
   * by abundant causeless mercy --- [[books:sb:5:3:9|SB 5.3.9]]

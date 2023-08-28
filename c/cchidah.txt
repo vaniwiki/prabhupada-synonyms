@@ -1,5 +1,11 @@
-~~Title:cchidaḥ~~
-{{description>expert in legal advice.}}
+---json
+{
+    "name":"cchidaḥ",
+    "h1":"cchidaḥ",
+    "title":"cchidaḥ",
+    "description":"expert in legal advice."
+}
+---
 
 ==== saṁśaya-cchidaḥ  ====
   * expert in legal advice --- [[books:sb:7:15:21|SB 7.15.21]]

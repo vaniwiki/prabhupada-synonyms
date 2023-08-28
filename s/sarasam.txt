@@ -1,5 +1,11 @@
-~~Title:sarasām~~
-{{description>of all reservoirs of water.}}
+---json
+{
+    "name":"sarasām",
+    "h1":"sarasām",
+    "title":"sarasām",
+    "description":"of all reservoirs of water."
+}
+---
 
 ==== sarasām  ====
   * of all reservoirs of water --- [[books:bg:10:24|Bg. 10.24]]

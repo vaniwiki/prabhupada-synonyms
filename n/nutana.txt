@@ -1,5 +1,11 @@
-~~Title:nūtana~~
-{{description>fresh; new.}}
+---json
+{
+    "name":"nūtana",
+    "h1":"nūtana",
+    "title":"nūtana",
+    "description":"fresh; new."
+}
+---
 
 ==== nūtana  ====
   * fresh --- [[books:cc:madhya:19:86|Madhya 19.86]]

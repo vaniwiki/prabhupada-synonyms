@@ -1,5 +1,11 @@
-~~Title:kṛpāmaya~~
-{{description>merciful; very merciful.}}
+---json
+{
+    "name":"kṛpāmaya",
+    "h1":"kṛpāmaya",
+    "title":"kṛpāmaya",
+    "description":"merciful; very merciful."
+}
+---
 
 ==== kṛpāmaya  ====
   * merciful --- [[books:cc:adi:8:12|Ādi 8.12]]

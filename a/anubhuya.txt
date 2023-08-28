@@ -1,5 +1,11 @@
-~~Title:anubhūya~~
-{{description>after experiencing; experiencing.}}
+---json
+{
+    "name":"anubhūya",
+    "h1":"anubhūya",
+    "title":"anubhūya",
+    "description":"after experiencing; experiencing."
+}
+---
 
 ==== anubhūya  ====
   * after experiencing --- [[books:sb:3:32:9|SB 3.32.9]], [[books:sb:10:11:21|SB 10.11.21]]

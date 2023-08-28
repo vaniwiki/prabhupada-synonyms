@@ -1,5 +1,11 @@
-~~Title:diṅ~~
-{{description>only a fractional part; only a small part; only in the matter of indication.}}
+---json
+{
+    "name":"diṅ",
+    "h1":"diṅ",
+    "title":"diṅ",
+    "description":"only a fractional part; only a small part; only in the matter of indication."
+}
+---
 
 ==== diṅ-mātra  ====
   * only a fractional part --- [[books:cc:adi:10:159|Ādi 10.159]]

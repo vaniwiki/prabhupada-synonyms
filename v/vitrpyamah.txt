@@ -1,5 +1,11 @@
-~~Title:vitṛpyāmaḥ~~
-{{description>are satisfied; shall be at rest.}}
+---json
+{
+    "name":"vitṛpyāmaḥ",
+    "h1":"vitṛpyāmaḥ",
+    "title":"vitṛpyāmaḥ",
+    "description":"are satisfied; shall be at rest."
+}
+---
 
 ==== vitṛpyāmaḥ  ====
   * are satisfied --- [[books:cc:madhya:25:152|Madhya 25.152]]

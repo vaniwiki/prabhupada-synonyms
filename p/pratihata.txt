@@ -1,5 +1,11 @@
-~~Title:pratihata~~
-{{description>checked; defeated.}}
+---json
+{
+    "name":"pratihata",
+    "h1":"pratihata",
+    "title":"pratihata",
+    "description":"checked; defeated."
+}
+---
 
 ==== pratihata  ====
   * checked --- [[books:sb:1:11:13|SB 1.11.13]]

@@ -1,5 +1,11 @@
-~~Title:avirodhataḥ~~
-{{description>without being contradictory; without disturbance.}}
+---json
+{
+    "name":"avirodhataḥ",
+    "h1":"avirodhataḥ",
+    "title":"avirodhataḥ",
+    "description":"without being contradictory; without disturbance."
+}
+---
 
 ==== avirodhataḥ  ====
   * without being contradictory --- [[books:sb:3:7:32|SB 3.7.32]]

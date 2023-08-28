@@ -1,5 +1,11 @@
-~~Title:atapat~~
-{{description>considered thus; performed austerities.}}
+---json
+{
+    "name":"atapat",
+    "h1":"atapat",
+    "title":"atapat",
+    "description":"considered thus; performed austerities."
+}
+---
 
 ==== atapat  ====
   * considered thus --- [[books:sb:3:6:10|SB 3.6.10]]

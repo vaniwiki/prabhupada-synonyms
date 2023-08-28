@@ -1,5 +1,11 @@
-~~Title:udapatan~~
-{{description>flew up.}}
+---json
+{
+    "name":"udapatan",
+    "h1":"udapatan",
+    "title":"udapatan",
+    "description":"flew up."
+}
+---
 
 ==== udapatan  ====
   * flew up --- [[books:sb:3:17:12|SB 3.17.12]]

@@ -1,5 +1,11 @@
-~~Title:apāvṛte~~
-{{description>without contamination.}}
+---json
+{
+    "name":"apāvṛte",
+    "h1":"apāvṛte",
+    "title":"apāvṛte",
+    "description":"without contamination."
+}
+---
 
 ==== apāvṛte  ====
   * without contamination --- [[books:sb:6:9:33|SB 6.9.33]]

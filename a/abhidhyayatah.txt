@@ -1,5 +1,11 @@
-~~Title:abhidhyāyataḥ~~
-{{description>while thinking; while thinking of.}}
+---json
+{
+    "name":"abhidhyāyataḥ",
+    "h1":"abhidhyāyataḥ",
+    "title":"abhidhyāyataḥ",
+    "description":"while thinking; while thinking of."
+}
+---
 
 ==== abhidhyāyataḥ  ====
   * while thinking --- [[books:sb:3:13:18|SB 3.13.18]]

@@ -1,5 +1,11 @@
-~~Title:bruvāṇe~~
-{{description>spoke.}}
+---json
+{
+    "name":"bruvāṇe",
+    "h1":"bruvāṇe",
+    "title":"bruvāṇe",
+    "description":"spoke."
+}
+---
 
 ==== bruvāṇe  ====
   * spoke --- [[books:sb:6:17:10|SB 6.17.10]]

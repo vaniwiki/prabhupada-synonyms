@@ -1,5 +1,11 @@
-~~Title:varasya~~
-{{description>of all benedictions.}}
+---json
+{
+    "name":"varasya",
+    "h1":"varasya",
+    "title":"varasya",
+    "description":"of all benedictions."
+}
+---
 
 ==== varasya  ====
   * of all benedictions --- [[books:sb:2:6:7|SB 2.6.7]]

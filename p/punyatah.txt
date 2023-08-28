@@ -1,5 +1,11 @@
-~~Title:puṇyataḥ~~
-{{description>and by performing pious activities.}}
+---json
+{
+    "name":"puṇyataḥ",
+    "h1":"puṇyataḥ",
+    "title":"puṇyataḥ",
+    "description":"and by performing pious activities."
+}
+---
 
 ==== puṇyataḥ  ====
   * and by performing pious activities --- [[books:cc:adi:8:17|Ādi 8.17]]

@@ -1,5 +1,11 @@
-~~Title:tūryāṇām~~
-{{description>and of other instruments.}}
+---json
+{
+    "name":"tūryāṇām",
+    "h1":"tūryāṇām",
+    "title":"tūryāṇām",
+    "description":"and of other instruments."
+}
+---
 
 ==== tūryāṇām  ====
   * and of other instruments --- [[books:sb:8:18:7|SB 8.18.7]]

@@ -1,5 +1,11 @@
-~~Title:vandiha~~
-{{description>worship.}}
+---json
+{
+    "name":"vandiha",
+    "h1":"vandiha",
+    "title":"vandiha",
+    "description":"worship."
+}
+---
 
 ==== vandiha  ====
   * worship --- [[books:cc:antya:3:40|Antya 3.40]]

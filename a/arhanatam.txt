@@ -1,5 +1,11 @@
-~~Title:arhaṇatām~~
-{{description>the position of being worshiped.}}
+---json
+{
+    "name":"arhaṇatām",
+    "h1":"arhaṇatām",
+    "title":"arhaṇatām",
+    "description":"the position of being worshiped."
+}
+---
 
 ==== arhaṇatām  ====
   * the position of being worshiped --- [[books:sb:9:15:39|SB 9.15.39]]

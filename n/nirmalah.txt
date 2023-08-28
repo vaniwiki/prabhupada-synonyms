@@ -1,5 +1,11 @@
-~~Title:nirmalah~~
-{{description>pure; purified.}}
+---json
+{
+    "name":"nirmalah",
+    "h1":"nirmalah",
+    "title":"nirmalah",
+    "description":"pure; purified."
+}
+---
 
 ==== nirmalaḥ  ====
   * pure --- [[books:cc:madhya:8:72|Madhya 8.72]]

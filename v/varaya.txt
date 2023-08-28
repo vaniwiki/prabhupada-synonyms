@@ -1,5 +1,11 @@
-~~Title:varaya~~
-{{description>ask; just ask from.}}
+---json
+{
+    "name":"varaya",
+    "h1":"varaya",
+    "title":"varaya",
+    "description":"ask; just ask from."
+}
+---
 
 ==== varaya  ====
   * ask --- [[books:sb:6:18:32|SB 6.18.32]]

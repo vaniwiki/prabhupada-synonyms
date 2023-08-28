@@ -1,5 +1,11 @@
-~~Title:ruham~~
-{{description>like a lotus flower.}}
+---json
+{
+    "name":"ruham",
+    "h1":"ruham",
+    "title":"ruham",
+    "description":"like a lotus flower."
+}
+---
 
 ==== ambhaḥ-ruhām  ====
   * like a lotus flower --- [[books:cc:adi:4:260|Ādi 4.260]]

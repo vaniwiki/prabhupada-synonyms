@@ -1,5 +1,11 @@
-~~Title:akṛta~~
-{{description>became; executed; finished; made; not executed; not performing; performed; without; without education; without having done.}}
+---json
+{
+    "name":"akṛta",
+    "h1":"akṛta",
+    "title":"akṛta",
+    "description":"became; executed; finished; made; not executed; not performing; performed; without; without education; without having done."
+}
+---
 
 ==== akṛta  ====
   * became --- [[books:sb:1:15:10|SB 1.15.10]]

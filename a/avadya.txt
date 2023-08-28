@@ -1,5 +1,11 @@
-~~Title:avadya~~
-{{description>an offender.}}
+---json
+{
+    "name":"avadya",
+    "h1":"avadya",
+    "title":"avadya",
+    "description":"an offender."
+}
+---
 
 ==== avadya-kṛt  ====
   * an offender --- [[books:sb:4:4:22|SB 4.4.22]]

@@ -1,5 +1,11 @@
-~~Title:antardhāne~~
-{{description>disappearance; without being visible.}}
+---json
+{
+    "name":"antardhāne",
+    "h1":"antardhāne",
+    "title":"antardhāne",
+    "description":"disappearance; without being visible."
+}
+---
 
 ==== antardhāne  ====
   * disappearance --- [[books:cc:adi:10:93|Ādi 10.93]], [[books:cc:madhya:7:149|Madhya 7.149]], [[books:cc:antya:15:80|Antya 15.80]]

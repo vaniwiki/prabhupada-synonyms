@@ -1,5 +1,11 @@
-~~Title:nīlam~~
-{{description>bluish; bluish line.}}
+---json
+{
+    "name":"nīlam",
+    "h1":"nīlam",
+    "title":"nīlam",
+    "description":"bluish; bluish line."
+}
+---
 
 ==== nīlam  ====
   * bluish --- [[books:sb:3:13:33|SB 3.13.33]]

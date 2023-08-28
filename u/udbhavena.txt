@@ -1,5 +1,11 @@
-~~Title:udbhavena~~
-{{description>by Your appearance.}}
+---json
+{
+    "name":"udbhavena",
+    "h1":"udbhavena",
+    "title":"udbhavena",
+    "description":"by Your appearance."
+}
+---
 
 ==== bhavat-udbhavena  ====
   * by Your appearance --- [[books:sb:3:15:46|SB 3.15.46]]

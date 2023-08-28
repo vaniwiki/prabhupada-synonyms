@@ -1,5 +1,11 @@
-~~Title:ajine~~
-{{description>and a deerskin.}}
+---json
+{
+    "name":"ajine",
+    "h1":"ajine",
+    "title":"ajine",
+    "description":"and a deerskin."
+}
+---
 
 ==== ajine  ====
   * and a deerskin --- [[books:sb:7:12:21|SB 7.12.21]]

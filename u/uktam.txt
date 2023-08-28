@@ -1,5 +1,11 @@
-~~Title:uktam~~
-{{description>as declared; describe; disclosed; have said; is said; it is said; mentioned; said; speech; uttered; was said; what you have said.}}
+---json
+{
+    "name":"uktam",
+    "h1":"uktam",
+    "title":"uktam",
+    "description":"as declared; describe; disclosed; have said; is said; it is said; mentioned; said; speech; uttered; was said; what you have said."
+}
+---
 
 ==== uktam  ====
   * as declared --- [[books:bg:16:24|Bg. 16.24]]

@@ -1,5 +1,11 @@
-~~Title:vitaranti~~
-{{description>distributing; perform.}}
+---json
+{
+    "name":"vitaranti",
+    "h1":"vitaranti",
+    "title":"vitaranti",
+    "description":"distributing; perform."
+}
+---
 
 ==== vitaranti  ====
   * distributing --- [[books:sb:4:21:36|SB 4.21.36]]

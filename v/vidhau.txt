@@ -1,5 +1,11 @@
-~~Title:vidhau~~
-{{description>in the manner; unto Lord Brahmā.}}
+---json
+{
+    "name":"vidhau",
+    "h1":"vidhau",
+    "title":"vidhau",
+    "description":"in the manner; unto Lord Brahmā."
+}
+---
 
 ==== vidhau  ====
   * in the manner --- [[books:cc:madhya:1:58|Madhya 1.58]], [[books:cc:madhya:13:121|Madhya 13.121]], [[books:cc:antya:1:78|Antya 1.78]]

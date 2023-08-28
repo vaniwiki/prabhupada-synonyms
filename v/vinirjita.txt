@@ -1,5 +1,11 @@
-~~Title:vinirjita~~
-{{description>who have been conquered.}}
+---json
+{
+    "name":"vinirjita",
+    "h1":"vinirjita",
+    "title":"vinirjita",
+    "description":"who have been conquered."
+}
+---
 
 ==== vinirjita  ====
   * who have been conquered --- [[books:sb:3:1:12|SB 3.1.12]]

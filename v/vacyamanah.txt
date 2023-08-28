@@ -1,5 +1,11 @@
-~~Title:vācyamānaḥ~~
-{{description>being urged to speak.}}
+---json
+{
+    "name":"vācyamānaḥ",
+    "h1":"vācyamānaḥ",
+    "title":"vācyamānaḥ",
+    "description":"being urged to speak."
+}
+---
 
 ==== vācyamānaḥ  ====
   * being urged to speak --- [[books:sb:3:30:17|SB 3.30.17]]

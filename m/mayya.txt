@@ -1,5 +1,11 @@
-~~Title:mayyā~~
-{{description>acting in three modes of activity; consisting of the modes of material nature; endowed with three modes of material nature.}}
+---json
+{
+    "name":"mayyā",
+    "h1":"mayyā",
+    "title":"mayyā",
+    "description":"acting in three modes of activity; consisting of the modes of material nature; endowed with three modes of material nature."
+}
+---
 
 ==== guṇa-mayyā  ====
   * acting in three modes of activity --- [[books:sb:8:7:23|SB 8.7.23]]

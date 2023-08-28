@@ -1,5 +1,11 @@
-~~Title:kirīṭaḥ~~
-{{description>His helmet.}}
+---json
+{
+    "name":"kirīṭaḥ",
+    "h1":"kirīṭaḥ",
+    "title":"kirīṭaḥ",
+    "description":"His helmet."
+}
+---
 
 ==== kirīṭaḥ  ====
   * His helmet --- [[books:sb:4:30:6|SB 4.30.6]]

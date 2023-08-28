@@ -1,5 +1,11 @@
-~~Title:aśraddheyaḥ~~
-{{description>incredible.}}
+---json
+{
+    "name":"aśraddheyaḥ",
+    "h1":"aśraddheyaḥ",
+    "title":"aśraddheyaḥ",
+    "description":"incredible."
+}
+---
 
 ==== aśraddheyaḥ  ====
   * incredible --- [[books:sb:7:1:34|SB 7.1.34]]

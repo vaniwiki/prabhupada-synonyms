@@ -1,5 +1,11 @@
-~~Title:nābhibhiḥ~~
-{{description>by musk deer; like the symbolic mark of a navel.}}
+---json
+{
+    "name":"nābhibhiḥ",
+    "h1":"nābhibhiḥ",
+    "title":"nābhibhiḥ",
+    "description":"by musk deer; like the symbolic mark of a navel."
+}
+---
 
 ==== nābhibhiḥ  ====
   * by musk deer --- [[books:sb:3:21:44|SB 3.21.44]]

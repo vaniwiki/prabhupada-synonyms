@@ -1,5 +1,11 @@
-~~Title:murdhajah~~
-{{description>hair on the head; having hair on his head.}}
+---json
+{
+    "name":"murdhajah",
+    "h1":"murdhajah",
+    "title":"murdhajah",
+    "description":"hair on the head; having hair on his head."
+}
+---
 
 ==== mūrdhajaḥ  ====
   * hair on the head --- [[books:sb:4:21:17|SB 4.21.17]]

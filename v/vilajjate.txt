@@ -1,5 +1,11 @@
-~~Title:vilajjate~~
-{{description>becomes ashamed.}}
+---json
+{
+    "name":"vilajjate",
+    "h1":"vilajjate",
+    "title":"vilajjate",
+    "description":"becomes ashamed."
+}
+---
 
 ==== vilajjate  ====
   * becomes ashamed --- [[books:sb:4:8:18|SB 4.8.18]]

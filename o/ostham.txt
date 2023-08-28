@@ -1,5 +1,11 @@
-~~Title:oṣṭham~~
-{{description>upper and lower lips.}}
+---json
+{
+    "name":"oṣṭham",
+    "h1":"oṣṭham",
+    "title":"oṣṭham",
+    "description":"upper and lower lips."
+}
+---
 
 ==== adhara-oṣṭham  ====
   * upper and lower lips --- [[books:sb:4:8:15|SB 4.8.15]]

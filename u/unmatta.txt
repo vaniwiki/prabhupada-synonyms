@@ -1,5 +1,11 @@
-~~Title:unmatta~~
-{{description>almost mad; mad; mad after it; maddened; madness; restless.}}
+---json
+{
+    "name":"unmatta",
+    "h1":"unmatta",
+    "title":"unmatta",
+    "description":"almost mad; mad; mad after it; maddened; madness; restless."
+}
+---
 
 ==== unmatta  ====
   * almost mad --- [[books:cc:adi:6:81|Ādi 6.81]]

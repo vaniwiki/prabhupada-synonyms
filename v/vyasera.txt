@@ -1,5 +1,11 @@
-~~Title:vyāsera~~
-{{description>of Śrīla Vyāsadeva.}}
+---json
+{
+    "name":"vyāsera",
+    "h1":"vyāsera",
+    "title":"vyāsera",
+    "description":"of Śrīla Vyāsadeva."
+}
+---
 
 ==== vyāsera  ====
   * of Śrīla Vyāsadeva --- [[books:cc:adi:7:121|Ādi 7.121]], [[books:cc:adi:17:312|Ādi 17.312]]

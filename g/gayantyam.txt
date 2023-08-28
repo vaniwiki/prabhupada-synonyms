@@ -1,5 +1,11 @@
-~~Title:gayantyam~~
-{{description>in his wife, named Gayantī.}}
+---json
+{
+    "name":"gayantyam",
+    "h1":"gayantyam",
+    "title":"gayantyam",
+    "description":"in his wife, named Gayantī."
+}
+---
 
 ==== gayantyām  ====
   * in his wife, named Gayantī --- [[books:sb:5:15:14-15|SB 5.15.14-15]]

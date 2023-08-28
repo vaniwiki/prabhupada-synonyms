@@ -1,5 +1,11 @@
-~~Title:vyathayanti~~
-{{description>are distressing.}}
+---json
+{
+    "name":"vyathayanti",
+    "h1":"vyathayanti",
+    "title":"vyathayanti",
+    "description":"are distressing."
+}
+---
 
 ==== vyathayanti  ====
   * are distressing --- [[books:bg:2:15|Bg. 2.15]]

@@ -1,5 +1,11 @@
-~~Title:śive~~
-{{description>which is very auspicious.}}
+---json
+{
+    "name":"śive",
+    "h1":"śive",
+    "title":"śive",
+    "description":"which is very auspicious."
+}
+---
 
 ==== śive  ====
   * which is very auspicious --- [[books:sb:4:8:43|SB 4.8.43]]

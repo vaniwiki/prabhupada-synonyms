@@ -1,5 +1,11 @@
-~~Title:parirandhita~~
-{{description>destroyed.}}
+---json
+{
+    "name":"parirandhita",
+    "h1":"parirandhita",
+    "title":"parirandhita",
+    "description":"destroyed."
+}
+---
 
 ==== parirandhita  ====
   * destroyed --- [[books:sb:5:1:23|SB 5.1.23]]

@@ -1,5 +1,11 @@
-~~Title:stheṣu~~
-{{description>all the doormen.}}
+---json
+{
+    "name":"stheṣu",
+    "h1":"stheṣu",
+    "title":"stheṣu",
+    "description":"all the doormen."
+}
+---
 
 ==== dvāḥ-stheṣu  ====
   * all the doormen --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

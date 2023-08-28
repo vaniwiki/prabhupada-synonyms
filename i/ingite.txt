@@ -1,5 +1,11 @@
-~~Title:iṅgite~~
-{{description>by the indication.}}
+---json
+{
+    "name":"iṅgite",
+    "h1":"iṅgite",
+    "title":"iṅgite",
+    "description":"by the indication."
+}
+---
 
 ==== iṅgite  ====
   * by the indication --- [[books:cc:madhya:11:110|Madhya 11.110]]

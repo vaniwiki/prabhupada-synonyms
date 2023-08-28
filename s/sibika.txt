@@ -1,5 +1,11 @@
-~~Title:śibikā~~
-{{description>palanquin.}}
+---json
+{
+    "name":"śibikā",
+    "h1":"śibikā",
+    "title":"śibikā",
+    "description":"palanquin."
+}
+---
 
 ==== śibikā  ====
   * palanquin --- [[books:sb:5:12:5-6|SB 5.12.5-6]]

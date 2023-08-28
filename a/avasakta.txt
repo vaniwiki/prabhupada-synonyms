@@ -1,5 +1,11 @@
-~~Title:avasakta~~
-{{description>who are under the shelter.}}
+---json
+{
+    "name":"avasakta",
+    "h1":"avasakta",
+    "title":"avasakta",
+    "description":"who are under the shelter."
+}
+---
 
 ==== āśraya-avasakta  ====
   * who are under the shelter --- [[books:sb:5:14:28|SB 5.14.28]]

@@ -1,5 +1,11 @@
-~~Title:pāyete~~
-{{description>at His lotus feet; on the feet.}}
+---json
+{
+    "name":"pāyete",
+    "h1":"pāyete",
+    "title":"pāyete",
+    "description":"at His lotus feet; on the feet."
+}
+---
 
 ==== pāyete  ====
   * at His lotus feet --- [[books:cc:adi:5:182|Ādi 5.182]]

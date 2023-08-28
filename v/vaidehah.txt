@@ -1,5 +1,11 @@
-~~Title:vaidehaḥ~~
-{{description>also known as Vaideha.}}
+---json
+{
+    "name":"vaidehaḥ",
+    "h1":"vaidehaḥ",
+    "title":"vaidehaḥ",
+    "description":"also known as Vaideha."
+}
+---
 
 ==== vaidehaḥ  ====
   * also known as Vaideha --- [[books:sb:9:13:13|SB 9.13.13]]

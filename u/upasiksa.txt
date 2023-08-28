@@ -1,5 +1,11 @@
-~~Title:upaśikṣa~~
-{{description>perform.}}
+---json
+{
+    "name":"upaśikṣa",
+    "h1":"upaśikṣa",
+    "title":"upaśikṣa",
+    "description":"perform."
+}
+---
 
 ==== upaśikṣa  ====
   * perform --- [[books:sb:3:23:11|SB 3.23.11]]

@@ -1,5 +1,11 @@
-~~Title:bhuvanera~~
-{{description>of all the universe; of all the universes; planetary systems.}}
+---json
+{
+    "name":"bhuvanera",
+    "h1":"bhuvanera",
+    "title":"bhuvanera",
+    "description":"of all the universe; of all the universes; planetary systems."
+}
+---
 
 ==== bhuvanera  ====
   * of all the universe --- [[books:cc:madhya:2:68|Madhya 2.68]]

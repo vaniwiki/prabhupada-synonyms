@@ -1,5 +1,11 @@
-~~Title:parikṛtam~~
-{{description>put on.}}
+---json
+{
+    "name":"parikṛtam",
+    "h1":"parikṛtam",
+    "title":"parikṛtam",
+    "description":"put on."
+}
+---
 
 ==== parikṛtam  ====
   * put on --- [[books:sb:3:28:37|SB 3.28.37]]

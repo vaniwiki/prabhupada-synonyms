@@ -1,5 +1,11 @@
-~~Title:vivaraiḥ~~
-{{description>by the holes of the ears; through the channel of the ears.}}
+---json
+{
+    "name":"vivaraiḥ",
+    "h1":"vivaraiḥ",
+    "title":"vivaraiḥ",
+    "description":"by the holes of the ears; through the channel of the ears."
+}
+---
 
 ==== karṇa-vivaraiḥ  ====
   * by the holes of the ears --- [[books:cc:madhya:24:52|Madhya 24.52]]

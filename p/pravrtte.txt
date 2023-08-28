@@ -1,5 +1,11 @@
-~~Title:pravṛtte~~
-{{description>while about to be engaged.}}
+---json
+{
+    "name":"pravṛtte",
+    "h1":"pravṛtte",
+    "title":"pravṛtte",
+    "description":"while about to be engaged."
+}
+---
 
 ==== pravṛtte  ====
   * while about to be engaged --- [[books:bg:1:20|Bg. 1.20]]

@@ -1,5 +1,11 @@
-~~Title:mathurāyām~~
-{{description>at Mathurā; in Mathurā.}}
+---json
+{
+    "name":"mathurāyām",
+    "h1":"mathurāyām",
+    "title":"mathurāyām",
+    "description":"at Mathurā; in Mathurā."
+}
+---
 
 ==== mathurāyām  ====
   * at Mathurā --- [[books:sb:1:15:39|SB 1.15.39]]

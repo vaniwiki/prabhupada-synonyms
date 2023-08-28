@@ -1,5 +1,11 @@
-~~Title:vinaya~~
-{{description>by humility; gentle; gentleness; humble; humble submission; humbleness; humbly; solicitation; submission; submissive petition.}}
+---json
+{
+    "name":"vinaya",
+    "h1":"vinaya",
+    "title":"vinaya",
+    "description":"by humility; gentle; gentleness; humble; humble submission; humbleness; humbly; solicitation; submission; submissive petition."
+}
+---
 
 ==== vinaya  ====
   * by humility --- [[books:sb:5:2:6|SB 5.2.6]]

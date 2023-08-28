@@ -1,5 +1,11 @@
-~~Title:dhāiyā~~
-{{description>running.}}
+---json
+{
+    "name":"dhāiyā",
+    "h1":"dhāiyā",
+    "title":"dhāiyā",
+    "description":"running."
+}
+---
 
 ==== dhāiyā  ====
   * running --- [[books:cc:adi:17:92|Ādi 17.92]], [[books:cc:madhya:14:55|Madhya 14.55]]

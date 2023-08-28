@@ -1,5 +1,11 @@
-~~Title:sattvam~~
-{{description>śuddha-sattva, transcendental; any living being; consciousness; entity; existence; goodness; His internal potency; in goodness; living being; mode of goodness; mundane goodness; patience; pure transcendental goodness; regulation; strength; the heart; the mode of goodness; with no tinge of the material modes of nature.}}
+---json
+{
+    "name":"sattvam",
+    "h1":"sattvam",
+    "title":"sattvam",
+    "description":"śuddha-sattva, transcendental; any living being; consciousness; entity; existence; goodness; His internal potency; in goodness; living being; mode of goodness; mundane goodness; patience; pure transcendental goodness; regulation; strength; the heart; the mode of goodness; with no tinge of the material modes of nature."
+}
+---
 
 ==== sattvam  ====
   * //śuddha-sattva,// transcendental --- [[books:sb:10:2:35|SB 10.2.35]]

@@ -1,5 +1,11 @@
-~~Title:udvegau~~
-{{description>and mental agitation.}}
+---json
+{
+    "name":"udvegau",
+    "h1":"udvegau",
+    "title":"udvegau",
+    "description":"and mental agitation."
+}
+---
 
 ==== udvegau  ====
   * and mental agitation --- [[books:cc:antya:14:53|Antya 14.53]]

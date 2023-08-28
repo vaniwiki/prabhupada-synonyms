@@ -1,5 +1,11 @@
-~~Title:hṛde~~
-{{description>on the heart.}}
+---json
+{
+    "name":"hṛde",
+    "h1":"hṛde",
+    "title":"hṛde",
+    "description":"on the heart."
+}
+---
 
 ==== hṛde  ====
   * on the heart --- [[books:cc:adi:12:25|Ādi 12.25]]

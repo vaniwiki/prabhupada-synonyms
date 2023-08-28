@@ -1,5 +1,11 @@
-~~Title:kuhū~~
-{{description>Kuhū.}}
+---json
+{
+    "name":"kuhū",
+    "h1":"kuhū",
+    "title":"kuhū",
+    "description":"Kuhū."
+}
+---
 
 ==== kuhū  ====
   * Kuhū --- [[books:sb:5:20:10|SB 5.20.10]]

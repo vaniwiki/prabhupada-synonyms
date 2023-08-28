@@ -1,5 +1,11 @@
-~~Title:paryagāt~~
-{{description>cannot estimate; must know in fact.}}
+---json
+{
+    "name":"paryagāt",
+    "h1":"paryagāt",
+    "title":"paryagāt",
+    "description":"cannot estimate; must know in fact."
+}
+---
 
 ==== paryagāt  ====
   * cannot estimate --- [[books:sb:2:6:36|SB 2.6.36]]

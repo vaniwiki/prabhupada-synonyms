@@ -1,5 +1,11 @@
-~~Title:daityau~~
-{{description>demons in the beginning of creation.}}
+---json
+{
+    "name":"daityau",
+    "h1":"daityau",
+    "title":"daityau",
+    "description":"demons in the beginning of creation."
+}
+---
 
 ==== ādi-daityau  ====
   * demons in the beginning of creation --- [[books:sb:3:17:16|SB 3.17.16]]

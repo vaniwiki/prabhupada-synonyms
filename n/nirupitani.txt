@@ -1,5 +1,11 @@
-~~Title:nirūpitāni~~
-{{description>applied.}}
+---json
+{
+    "name":"nirūpitāni",
+    "h1":"nirūpitāni",
+    "title":"nirūpitāni",
+    "description":"applied."
+}
+---
 
 ==== nirūpitāni  ====
   * applied --- [[books:sb:1:15:16|SB 1.15.16]]

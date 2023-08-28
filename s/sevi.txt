@@ -1,5 +1,11 @@
-~~Title:sevi~~
-{{description>I always worship Lord Nārāyaṇa.}}
+---json
+{
+    "name":"sevi",
+    "h1":"sevi",
+    "title":"sevi",
+    "description":"I always worship Lord Nārāyaṇa."
+}
+---
 
 ==== sevi āmi nārāyaṇa  ====
   * I always worship Lord Nārāyaṇa --- [[books:cc:madhya:13:154|Madhya 13.154]]

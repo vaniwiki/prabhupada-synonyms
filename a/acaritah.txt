@@ -1,5 +1,11 @@
-~~Title:ācaritaḥ~~
-{{description>executed; followed.}}
+---json
+{
+    "name":"ācaritaḥ",
+    "h1":"ācaritaḥ",
+    "title":"ācaritaḥ",
+    "description":"executed; followed."
+}
+---
 
 ==== ācaritaḥ  ====
   * executed --- [[books:sb:4:14:15|SB 4.14.15]]

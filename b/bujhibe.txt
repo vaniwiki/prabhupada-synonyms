@@ -1,5 +1,11 @@
-~~Title:bujhibe~~
-{{description>can understand; will understand.}}
+---json
+{
+    "name":"bujhibe",
+    "h1":"bujhibe",
+    "title":"bujhibe",
+    "description":"can understand; will understand."
+}
+---
 
 ==== bujhibe  ====
   * can understand --- [[books:cc:adi:4:232|Ādi 4.232]]

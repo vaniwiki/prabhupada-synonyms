@@ -1,5 +1,11 @@
-~~Title:nāhuṣa~~
-{{description>Nāhuṣa.}}
+---json
+{
+    "name":"nāhuṣa",
+    "h1":"nāhuṣa",
+    "title":"nāhuṣa",
+    "description":"Nāhuṣa."
+}
+---
 
 ==== nāhuṣa  ====
   * Nāhuṣa --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

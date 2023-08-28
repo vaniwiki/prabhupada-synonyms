@@ -1,5 +1,11 @@
-~~Title:iṣṭāt~~
-{{description>worshiped.}}
+---json
+{
+    "name":"iṣṭāt",
+    "h1":"iṣṭāt",
+    "title":"iṣṭāt",
+    "description":"worshiped."
+}
+---
 
 ==== iṣṭāt  ====
   * worshiped --- [[books:sb:8:15:5|SB 8.15.5]]

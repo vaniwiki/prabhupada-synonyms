@@ -1,5 +1,11 @@
-~~Title:pacaḥ~~
-{{description>a dog-eater; dog-eaters; even from a family of dog-eaters.}}
+---json
+{
+    "name":"pacaḥ",
+    "h1":"pacaḥ",
+    "title":"pacaḥ",
+    "description":"a dog-eater; dog-eaters; even from a family of dog-eaters."
+}
+---
 
 ==== śva-pacaḥ  ====
   * a dog-eater --- [[books:sb:3:33:7|SB 3.33.7]], [[books:cc:antya:16:27|Antya 16.27]]

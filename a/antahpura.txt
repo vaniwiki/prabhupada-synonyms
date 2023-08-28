@@ -1,5 +1,11 @@
-~~Title:antaḥpura~~
-{{description>inside; inside the rooms.}}
+---json
+{
+    "name":"antaḥpura",
+    "h1":"antaḥpura",
+    "title":"antaḥpura",
+    "description":"inside; inside the rooms."
+}
+---
 
 ==== antaḥpura  ====
   * inside --- [[books:cc:madhya:12:93|Madhya 12.93]]

@@ -1,5 +1,11 @@
-~~Title:puṣkaram~~
-{{description>lotus flower; the lotus.}}
+---json
+{
+    "name":"puṣkaram",
+    "h1":"puṣkaram",
+    "title":"puṣkaram",
+    "description":"lotus flower; the lotus."
+}
+---
 
 ==== puṣkaram  ====
   * lotus flower --- [[books:sb:5:20:29|SB 5.20.29]]

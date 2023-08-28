@@ -1,5 +1,11 @@
-~~Title:pariniṣṭhitaḥ~~
-{{description>fully realized; situated.}}
+---json
+{
+    "name":"pariniṣṭhitaḥ",
+    "h1":"pariniṣṭhitaḥ",
+    "title":"pariniṣṭhitaḥ",
+    "description":"fully realized; situated."
+}
+---
 
 ==== pariniṣṭhitaḥ  ====
   * fully realized --- [[books:sb:2:1:9|SB 2.1.9]]

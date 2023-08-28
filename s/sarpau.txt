@@ -1,5 +1,11 @@
-~~Title:sarpau~~
-{{description>the big snake (the python, which does not move from one place to another).}}
+---json
+{
+    "name":"sarpau",
+    "h1":"sarpau",
+    "title":"sarpau",
+    "description":"the big snake (the python, which does not move from one place to another)."
+}
+---
 
 ==== mahā-sarpau  ====
   * the big snake (the python, which does not move from one place to another) --- [[books:sb:7:13:35|SB 7.13.35]]

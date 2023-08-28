@@ -1,5 +1,11 @@
-~~Title:nṛpatim~~
-{{description>the King; unto the King.}}
+---json
+{
+    "name":"nṛpatim",
+    "h1":"nṛpatim",
+    "title":"nṛpatim",
+    "description":"the King; unto the King."
+}
+---
 
 ==== nṛpatim  ====
   * the King --- [[books:sb:4:16:1|SB 4.16.1]], [[books:sb:6:14:43|SB 6.14.43]]

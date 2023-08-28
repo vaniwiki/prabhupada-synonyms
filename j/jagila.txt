@@ -1,5 +1,11 @@
-~~Title:jāgilā~~
-{{description>got up from the bed.}}
+---json
+{
+    "name":"jāgilā",
+    "h1":"jāgilā",
+    "title":"jāgilā",
+    "description":"got up from the bed."
+}
+---
 
 ==== jāgilā  ====
   * got up from the bed --- [[books:cc:madhya:6:220|Madhya 6.220]]

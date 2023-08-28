@@ -1,5 +1,11 @@
-~~Title:bandhu~~
-{{description>another friend; binder or relative; family relations; friend; friends; friends and relatives; of friends or relatives.}}
+---json
+{
+    "name":"bandhu",
+    "h1":"bandhu",
+    "title":"bandhu",
+    "description":"another friend; binder or relative; family relations; friend; friends; friends and relatives; of friends or relatives."
+}
+---
 
 ==== bandhu  ====
   * another friend --- [[books:cc:madhya:17:201|Madhya 17.201]]

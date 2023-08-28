@@ -1,5 +1,11 @@
-~~Title:āḍāila~~
-{{description>in the village known as Āḍāila.}}
+---json
+{
+    "name":"āḍāila",
+    "h1":"āḍāila",
+    "title":"āḍāila",
+    "description":"in the village known as Āḍāila."
+}
+---
 
 ==== āḍāila-grāme  ====
   * in the village known as Āḍāila --- [[books:cc:madhya:19:61|Madhya 19.61]]

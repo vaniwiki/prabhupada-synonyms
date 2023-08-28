@@ -1,5 +1,11 @@
-~~Title:mauḍhyāt~~
-{{description>because of ignorance; by foolishness.}}
+---json
+{
+    "name":"mauḍhyāt",
+    "h1":"mauḍhyāt",
+    "title":"mauḍhyāt",
+    "description":"because of ignorance; by foolishness."
+}
+---
 
 ==== mauḍhyāt  ====
   * because of ignorance --- [[books:sb:3:29:22|SB 3.29.22]]

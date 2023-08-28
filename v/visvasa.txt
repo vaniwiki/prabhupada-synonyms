@@ -1,5 +1,11 @@
-~~Title:viśvāsa~~
-{{description>conviction; faith; Kamalākānta Viśvāsa; secretary; the secretary.}}
+---json
+{
+    "name":"viśvāsa",
+    "h1":"viśvāsa",
+    "title":"viśvāsa",
+    "description":"conviction; faith; Kamalākānta Viśvāsa; secretary; the secretary."
+}
+---
 
 ==== viśvāsa  ====
   * conviction --- [[books:cc:madhya:13:208|Madhya 13.208]]

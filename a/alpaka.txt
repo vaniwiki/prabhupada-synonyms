@@ -1,5 +1,11 @@
-~~Title:alpaka~~
-{{description>not very much grown.}}
+---json
+{
+    "name":"alpaka",
+    "h1":"alpaka",
+    "title":"alpaka",
+    "description":"not very much grown."
+}
+---
 
 ==== alpaka  ====
   * not very much grown --- [[books:sb:10:7:7|SB 10.7.7]]

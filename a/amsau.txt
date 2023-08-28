@@ -1,5 +1,11 @@
-~~Title:aṁśau~~
-{{description>part and parcel expansion.}}
+---json
+{
+    "name":"aṁśau",
+    "h1":"aṁśau",
+    "title":"aṁśau",
+    "description":"part and parcel expansion."
+}
+---
 
 ==== aṁśau  ====
   * part and parcel expansion --- [[books:sb:4:1:59|SB 4.1.59]]

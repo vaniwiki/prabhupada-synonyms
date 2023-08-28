@@ -1,5 +1,11 @@
-~~Title:anutaptaḥ~~
-{{description>regretting.}}
+---json
+{
+    "name":"anutaptaḥ",
+    "h1":"anutaptaḥ",
+    "title":"anutaptaḥ",
+    "description":"regretting."
+}
+---
 
 ==== anutaptaḥ  ====
   * regretting --- [[books:sb:1:18:49|SB 1.18.49]]

@@ -1,5 +1,11 @@
-~~Title:khaṇḍitaḥ~~
-{{description>separated.}}
+---json
+{
+    "name":"khaṇḍitaḥ",
+    "h1":"khaṇḍitaḥ",
+    "title":"khaṇḍitaḥ",
+    "description":"separated."
+}
+---
 
 ==== khaṇḍitaḥ  ====
   * separated --- [[books:sb:4:20:31|SB 4.20.31]]

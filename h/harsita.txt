@@ -1,5 +1,11 @@
-~~Title:harṣita~~
-{{description>very much pleased.}}
+---json
+{
+    "name":"harṣita",
+    "h1":"harṣita",
+    "title":"harṣita",
+    "description":"very much pleased."
+}
+---
 
 ==== harṣita  ====
   * very much pleased --- [[books:cc:adi:12:37|Ādi 12.37]]

@@ -1,5 +1,11 @@
-~~Title:svāhā~~
-{{description>hail; hymns to perform sacrifices; respectful oblations; Svāhā, the wife of Agni.}}
+---json
+{
+    "name":"svāhā",
+    "h1":"svāhā",
+    "title":"svāhā",
+    "description":"hail; hymns to perform sacrifices; respectful oblations; Svāhā, the wife of Agni."
+}
+---
 
 ==== svāhā  ====
   * hail --- [[books:sb:6:19:8|SB 6.19.8]]

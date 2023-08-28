@@ -1,5 +1,11 @@
-~~Title:gadinam~~
-{{description>with club; with maces.}}
+---json
+{
+    "name":"gadinam",
+    "h1":"gadinam",
+    "title":"gadinam",
+    "description":"with club; with maces."
+}
+---
 
 ==== gadinam  ====
   * with club --- [[books:bg:11:46|Bg. 11.46]]

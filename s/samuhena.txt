@@ -1,5 +1,11 @@
-~~Title:samūhena~~
-{{description>by the aggregate.}}
+---json
+{
+    "name":"samūhena",
+    "h1":"samūhena",
+    "title":"samūhena",
+    "description":"by the aggregate."
+}
+---
 
 ==== samūhena  ====
   * by the aggregate --- [[books:sb:5:12:9|SB 5.12.9]]

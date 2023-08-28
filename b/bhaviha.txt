@@ -1,5 +1,11 @@
-~~Title:bhāviha~~
-{{description>bear.}}
+---json
+{
+    "name":"bhāviha",
+    "h1":"bhāviha",
+    "title":"bhāviha",
+    "description":"bear."
+}
+---
 
 ==== bhāviha  ====
   * bear --- [[books:cc:madhya:9:152|Madhya 9.152]]

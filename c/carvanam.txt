@@ -1,5 +1,11 @@
-~~Title:carvaṇam~~
-{{description>chewing.}}
+---json
+{
+    "name":"carvaṇam",
+    "h1":"carvaṇam",
+    "title":"carvaṇam",
+    "description":"chewing."
+}
+---
 
 ==== carvaṇam  ====
   * chewing --- [[books:sb:3:13:36|SB 3.13.36]]

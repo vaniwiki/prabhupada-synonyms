@@ -1,5 +1,11 @@
-~~Title:vatsyāmi~~
-{{description>I shall reside.}}
+---json
+{
+    "name":"vatsyāmi",
+    "h1":"vatsyāmi",
+    "title":"vatsyāmi",
+    "description":"I shall reside."
+}
+---
 
 ==== vatsyāmi  ====
   * I shall reside --- [[books:sb:1:17:36|SB 1.17.36]]

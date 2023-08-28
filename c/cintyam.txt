@@ -1,5 +1,11 @@
-~~Title:cintyam~~
-{{description>to be anxious.}}
+---json
+{
+    "name":"cintyam",
+    "h1":"cintyam",
+    "title":"cintyam",
+    "description":"to be anxious."
+}
+---
 
 ==== cintyam  ====
   * to be anxious --- [[books:sb:7:5:49|SB 7.5.49]]

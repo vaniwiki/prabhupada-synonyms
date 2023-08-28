@@ -1,5 +1,11 @@
-~~Title:avacāḥ~~
-{{description>high and low.}}
+---json
+{
+    "name":"avacāḥ",
+    "h1":"avacāḥ",
+    "title":"avacāḥ",
+    "description":"high and low."
+}
+---
 
 ==== ucca-avacāḥ  ====
   * high and low --- [[books:sb:5:25:15|SB 5.25.15]]

@@ -1,5 +1,11 @@
-~~Title:pāṇīn~~
-{{description>hands.}}
+---json
+{
+    "name":"pāṇīn",
+    "h1":"pāṇīn",
+    "title":"pāṇīn",
+    "description":"hands."
+}
+---
 
 ==== pāṇīn  ====
   * hands --- [[books:sb:3:3:8|SB 3.3.8]]

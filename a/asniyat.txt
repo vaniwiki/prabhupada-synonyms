@@ -1,5 +1,11 @@
-~~Title:aśnīyāt~~
-{{description>one should eat.}}
+---json
+{
+    "name":"aśnīyāt",
+    "h1":"aśnīyāt",
+    "title":"aśnīyāt",
+    "description":"one should eat."
+}
+---
 
 ==== aśnīyāt  ====
   * one should eat --- [[books:sb:7:12:18|SB 7.12.18]]

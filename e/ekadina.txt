@@ -1,5 +1,11 @@
-~~Title:ekadina~~
-{{description>one day.}}
+---json
+{
+    "name":"ekadina",
+    "h1":"ekadina",
+    "title":"ekadina",
+    "description":"one day."
+}
+---
 
 ==== ekadina  ====
   * one day --- [[books:cc:madhya:15:121|Madhya 15.121]]

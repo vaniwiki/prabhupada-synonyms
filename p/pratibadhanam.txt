@@ -1,5 +1,11 @@
-~~Title:pratibādhanam~~
-{{description>the repulsion.}}
+---json
+{
+    "name":"pratibādhanam",
+    "h1":"pratibādhanam",
+    "title":"pratibādhanam",
+    "description":"the repulsion."
+}
+---
 
 ==== pratibādhanam  ====
   * the repulsion --- [[books:sb:5:24:20|SB 5.24.20]]

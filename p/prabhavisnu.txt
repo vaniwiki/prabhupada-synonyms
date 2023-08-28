@@ -1,5 +1,11 @@
-~~Title:prabhaviṣṇu~~
-{{description>develops.}}
+---json
+{
+    "name":"prabhaviṣṇu",
+    "h1":"prabhaviṣṇu",
+    "title":"prabhaviṣṇu",
+    "description":"develops."
+}
+---
 
 ==== prabhaviṣṇu  ====
   * develops --- [[books:bg:13:17|Bg. 13.17]]

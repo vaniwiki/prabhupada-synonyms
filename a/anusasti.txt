@@ -1,5 +1,11 @@
-~~Title:anuśāsti~~
-{{description>directs.}}
+---json
+{
+    "name":"anuśāsti",
+    "h1":"anuśāsti",
+    "title":"anuśāsti",
+    "description":"directs."
+}
+---
 
 ==== anuśāsti  ====
   * directs --- [[books:sb:2:7:21|SB 2.7.21]]

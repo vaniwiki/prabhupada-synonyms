@@ -1,5 +1,11 @@
-~~Title:sammilana~~
-{{description>meeting.}}
+---json
+{
+    "name":"sammilana",
+    "h1":"sammilana",
+    "title":"sammilana",
+    "description":"meeting."
+}
+---
 
 ==== sammilana  ====
   * meeting --- [[books:cc:madhya:1:250|Madhya 1.250]]

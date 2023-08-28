@@ -1,5 +1,11 @@
-~~Title:ādhibhūtaḥ~~
-{{description>the present objectives.}}
+---json
+{
+    "name":"ādhibhūtaḥ",
+    "h1":"ādhibhūtaḥ",
+    "title":"ādhibhūtaḥ",
+    "description":"the present objectives."
+}
+---
 
 ==== sa-ādhibhūtaḥ  ====
   * the present objectives --- [[books:sb:3:6:9|SB 3.6.9]]

@@ -1,5 +1,11 @@
-~~Title:trimalle~~
-{{description>at the holy places named Tirupati and Tirumala.}}
+---json
+{
+    "name":"trimalle",
+    "h1":"trimalle",
+    "title":"trimalle",
+    "description":"at the holy places named Tirupati and Tirumala."
+}
+---
 
 ==== tripati-trimalle  ====
   * at the holy places named Tirupati and Tirumala --- [[books:cc:madhya:9:64|Madhya 9.64]]

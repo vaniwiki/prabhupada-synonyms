@@ -1,5 +1,11 @@
-~~Title:snigdha~~
-{{description>affectionate; attractive; gentle; giving love; glistening; lovely; loving; moist; pleasing; polished; slick; softhearted; very peaceful; wet.}}
+---json
+{
+    "name":"snigdha",
+    "h1":"snigdha",
+    "title":"snigdha",
+    "description":"affectionate; attractive; gentle; giving love; glistening; lovely; loving; moist; pleasing; polished; slick; softhearted; very peaceful; wet."
+}
+---
 
 ==== snigdha  ====
   * affectionate --- [[books:sb:1:11:8|SB 1.11.8]], [[books:sb:3:21:45-47|SB 3.21.45-47]], [[books:sb:9:24:63-64|SB 9.24.63-64]]

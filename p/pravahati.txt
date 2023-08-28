@@ -1,5 +1,11 @@
-~~Title:pravahati~~
-{{description>leads to.}}
+---json
+{
+    "name":"pravahati",
+    "h1":"pravahati",
+    "title":"pravahati",
+    "description":"leads to."
+}
+---
 
 ==== pravahati  ====
   * leads to --- [[books:cc:madhya:8:206|Madhya 8.206]]

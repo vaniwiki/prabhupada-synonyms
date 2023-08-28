@@ -1,5 +1,11 @@
-~~Title:adhigata~~
-{{description>being firmly convinced; obtained.}}
+---json
+{
+    "name":"adhigata",
+    "h1":"adhigata",
+    "title":"adhigata",
+    "description":"being firmly convinced; obtained."
+}
+---
 
 ==== adhigata  ====
   * being firmly convinced --- [[books:sb:4:23:12|SB 4.23.12]]

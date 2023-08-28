@@ -1,5 +1,11 @@
-~~Title:vyudham~~
-{{description>arranged.}}
+---json
+{
+    "name":"vyudham",
+    "h1":"vyudham",
+    "title":"vyudham",
+    "description":"arranged."
+}
+---
 
 ==== vyuḍham  ====
   * arranged --- [[books:bg:1:3|Bg. 1.3]]

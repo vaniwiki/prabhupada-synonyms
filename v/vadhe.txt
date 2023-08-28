@@ -1,5 +1,11 @@
-~~Title:vadhe~~
-{{description>kills; of their having been killed by me.}}
+---json
+{
+    "name":"vadhe",
+    "h1":"vadhe",
+    "title":"vadhe",
+    "description":"kills; of their having been killed by me."
+}
+---
 
 ==== vadhe  ====
   * kills --- [[books:cc:madhya:2:19|Madhya 2.19]]

@@ -1,5 +1,11 @@
-~~Title:pariśuddha~~
-{{description>uncontaminated.}}
+---json
+{
+    "name":"pariśuddha",
+    "h1":"pariśuddha",
+    "title":"pariśuddha",
+    "description":"uncontaminated."
+}
+---
 
 ==== pariśuddha  ====
   * uncontaminated --- [[books:sb:4:9:15|SB 4.9.15]], [[books:sb:4:22:38|SB 4.22.38]]

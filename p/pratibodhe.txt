@@ -1,5 +1,11 @@
-~~Title:pratibodhe~~
-{{description>when awakening.}}
+---json
+{
+    "name":"pratibodhe",
+    "h1":"pratibodhe",
+    "title":"pratibodhe",
+    "description":"when awakening."
+}
+---
 
 ==== pratibodhe  ====
   * when awakening --- [[books:sb:8:10:55|SB 8.10.55]]

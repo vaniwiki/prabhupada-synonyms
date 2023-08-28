@@ -1,5 +1,11 @@
-~~Title:pindi~~
-{{description>a platform.}}
+---json
+{
+    "name":"pindi",
+    "h1":"pindi",
+    "title":"pindi",
+    "description":"a platform."
+}
+---
 
 ==== piṅḍi-bāndhā  ====
   * a platform --- [[books:cc:madhya:18:76|Madhya 18.76]]

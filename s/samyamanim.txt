@@ -1,5 +1,11 @@
-~~Title:saṁyamanīm~~
-{{description>Saṁyamanī.}}
+---json
+{
+    "name":"saṁyamanīm",
+    "h1":"saṁyamanīm",
+    "title":"saṁyamanīm",
+    "description":"Saṁyamanī."
+}
+---
 
 ==== saṁyamanīm  ====
   * Saṁyamanī --- [[books:sb:5:21:7|SB 5.21.7]]

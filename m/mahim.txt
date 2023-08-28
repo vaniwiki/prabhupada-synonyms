@@ -1,5 +1,11 @@
-~~Title:mahim~~
-{{description>the glories; the principle of matter.}}
+---json
+{
+    "name":"mahim",
+    "h1":"mahim",
+    "title":"mahim",
+    "description":"the glories; the principle of matter."
+}
+---
 
 ==== mahim  ====
   * the glories --- [[books:sb:8:8:4|SB 8.8.4]]

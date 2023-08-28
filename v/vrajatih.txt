@@ -1,5 +1,11 @@
-~~Title:vrajatīḥ~~
-{{description>while going (in that costume).}}
+---json
+{
+    "name":"vrajatīḥ",
+    "h1":"vrajatīḥ",
+    "title":"vrajatīḥ",
+    "description":"while going (in that costume)."
+}
+---
 
 ==== vrajatīḥ  ====
   * while going (in that costume) --- [[books:sb:10:5:11|SB 10.5.11]]

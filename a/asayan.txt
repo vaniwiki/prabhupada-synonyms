@@ -1,5 +1,11 @@
-~~Title:asayan~~
-{{description>desiring.}}
+---json
+{
+    "name":"asayan",
+    "h1":"asayan",
+    "title":"asayan",
+    "description":"desiring."
+}
+---
 
 ==== āśayan  ====
   * desiring --- [[books:sb:9:1:37|SB 9.1.37]]

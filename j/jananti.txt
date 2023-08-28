@@ -1,5 +1,11 @@
-~~Title:jānanti~~
-{{description>do know; know; they know.}}
+---json
+{
+    "name":"jānanti",
+    "h1":"jānanti",
+    "title":"jānanti",
+    "description":"do know; know; they know."
+}
+---
 
 ==== jānanti  ====
   * do know --- [[books:sb:4:29:56|SB 4.29.56]]

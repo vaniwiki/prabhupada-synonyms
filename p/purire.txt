@@ -1,5 +1,11 @@
-~~Title:purīre~~
-{{description>at Rāmacandra Purī; to Paramānanda Purī.}}
+---json
+{
+    "name":"purīre",
+    "h1":"purīre",
+    "title":"purīre",
+    "description":"at Rāmacandra Purī; to Paramānanda Purī."
+}
+---
 
 ==== purīre  ====
   * at Rāmacandra Purī --- [[books:cc:antya:8:84|Antya 8.84]]

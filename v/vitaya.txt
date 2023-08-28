@@ -1,5 +1,11 @@
-~~Title:vitāya~~
-{{description>spreading all through the universe.}}
+---json
+{
+    "name":"vitāya",
+    "h1":"vitāya",
+    "title":"vitāya",
+    "description":"spreading all through the universe."
+}
+---
 
 ==== vitāya  ====
   * spreading all through the universe --- [[books:sb:7:10:13|SB 7.10.13]]

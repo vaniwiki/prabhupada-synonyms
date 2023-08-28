@@ -1,5 +1,11 @@
-~~Title:nirūḍhaḥ~~
-{{description>having grown on Kumuda Mountain.}}
+---json
+{
+    "name":"nirūḍhaḥ",
+    "h1":"nirūḍhaḥ",
+    "title":"nirūḍhaḥ",
+    "description":"having grown on Kumuda Mountain."
+}
+---
 
 ==== kumuda-nirūḍhaḥ  ====
   * having grown on Kumuda Mountain --- [[books:sb:5:16:24|SB 5.16.24]]

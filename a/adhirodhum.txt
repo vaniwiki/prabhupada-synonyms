@@ -1,5 +1,11 @@
-~~Title:adhiroḍhum~~
-{{description>to board; to rise.}}
+---json
+{
+    "name":"adhiroḍhum",
+    "h1":"adhiroḍhum",
+    "title":"adhiroḍhum",
+    "description":"to board; to rise."
+}
+---
 
 ==== adhiroḍhum  ====
   * to board --- [[books:sb:4:12:27|SB 4.12.27]]

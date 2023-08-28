@@ -1,5 +1,11 @@
-~~Title:mṛḍanāya~~
-{{description>for the happiness.}}
+---json
+{
+    "name":"mṛḍanāya",
+    "h1":"mṛḍanāya",
+    "title":"mṛḍanāya",
+    "description":"for the happiness."
+}
+---
 
 ==== mṛḍanāya  ====
   * for the happiness --- [[books:sb:8:7:35|SB 8.7.35]]

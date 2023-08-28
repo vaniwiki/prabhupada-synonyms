@@ -1,5 +1,11 @@
-~~Title:asapatnam~~
-{{description>without rival.}}
+---json
+{
+    "name":"asapatnam",
+    "h1":"asapatnam",
+    "title":"asapatnam",
+    "description":"without rival."
+}
+---
 
 ==== asapatnam  ====
   * without rival --- [[books:bg:2:8|Bg. 2.8]]

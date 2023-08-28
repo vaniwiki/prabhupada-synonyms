@@ -1,5 +1,11 @@
-~~Title:avacchannaḥ~~
-{{description>covered.}}
+---json
+{
+    "name":"avacchannaḥ",
+    "h1":"avacchannaḥ",
+    "title":"avacchannaḥ",
+    "description":"covered."
+}
+---
 
 ==== avacchannaḥ  ====
   * covered --- [[books:sb:3:33:28|SB 3.33.28]]

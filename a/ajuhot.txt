@@ -1,5 +1,11 @@
-~~Title:ajuhot~~
-{{description>amalgamated; completed the fire sacrifice; performed a ritualistic ceremony and sacrifice.}}
+---json
+{
+    "name":"ajuhot",
+    "h1":"ajuhot",
+    "title":"ajuhot",
+    "description":"amalgamated; completed the fire sacrifice; performed a ritualistic ceremony and sacrifice."
+}
+---
 
 ==== ajuhot  ====
   * amalgamated --- [[books:sb:1:15:42|SB 1.15.42]]

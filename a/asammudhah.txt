@@ -1,5 +1,11 @@
-~~Title:asammudhah~~
-{{description>unbewildered; without a doubt.}}
+---json
+{
+    "name":"asammudhah",
+    "h1":"asammudhah",
+    "title":"asammudhah",
+    "description":"unbewildered; without a doubt."
+}
+---
 
 ==== asammūḍhaḥ  ====
   * unbewildered --- [[books:bg:5:20|Bg. 5.20]]

@@ -1,5 +1,11 @@
-~~Title:bhītānām~~
-{{description>of those afraid of material existence.}}
+---json
+{
+    "name":"bhītānām",
+    "h1":"bhītānām",
+    "title":"bhītānām",
+    "description":"of those afraid of material existence."
+}
+---
 
 ==== bhītānām  ====
   * of those afraid of material existence --- [[books:sb:5:1:27|SB 5.1.27]]

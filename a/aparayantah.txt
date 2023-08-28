@@ -1,5 +1,11 @@
-~~Title:apārayantaḥ~~
-{{description>being unable.}}
+---json
+{
+    "name":"apārayantaḥ",
+    "h1":"apārayantaḥ",
+    "title":"apārayantaḥ",
+    "description":"being unable."
+}
+---
 
 ==== apārayantaḥ  ====
   * being unable --- [[books:sb:8:6:34|SB 8.6.34]]

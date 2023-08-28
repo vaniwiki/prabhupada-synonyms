@@ -1,5 +1,11 @@
-~~Title:vadataḥ~~
-{{description>because of your order; being spoken; while speaking; words.}}
+---json
+{
+    "name":"vadataḥ",
+    "h1":"vadataḥ",
+    "title":"vadataḥ",
+    "description":"because of your order; being spoken; while speaking; words."
+}
+---
 
 ==== vadataḥ  ====
   * because of your order --- [[books:sb:8:23:17|SB 8.23.17]]

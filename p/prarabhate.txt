@@ -1,5 +1,11 @@
-~~Title:prārabhate~~
-{{description>begins.}}
+---json
+{
+    "name":"prārabhate",
+    "h1":"prārabhate",
+    "title":"prārabhate",
+    "description":"begins."
+}
+---
 
 ==== prārabhate  ====
   * begins --- [[books:bg:18:15|Bg. 18.15]]

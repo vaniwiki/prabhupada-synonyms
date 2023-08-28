@@ -1,5 +1,11 @@
-~~Title:vigrahān~~
-{{description>whose bodies.}}
+---json
+{
+    "name":"vigrahān",
+    "h1":"vigrahān",
+    "title":"vigrahān",
+    "description":"whose bodies."
+}
+---
 
 ==== vigrahān  ====
   * whose bodies --- [[books:sb:4:31:3|SB 4.31.3]]

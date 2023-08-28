@@ -1,5 +1,11 @@
-~~Title:vainyaḥ~~
-{{description>in the form of the son of King Vena; King Pṛthu; son of Vena; the son of King Vena (Pṛthu Mahārāja); the son of King Vena; the son of Vena; the son of Vena Mahārāja (Pṛthu).}}
+---json
+{
+    "name":"vainyaḥ",
+    "h1":"vainyaḥ",
+    "title":"vainyaḥ",
+    "description":"in the form of the son of King Vena; King Pṛthu; son of Vena; the son of King Vena (Pṛthu Mahārāja); the son of King Vena; the son of Vena; the son of Vena Mahārāja (Pṛthu)."
+}
+---
 
 ==== vainyaḥ  ====
   * in the form of the son of King Vena --- [[books:sb:4:17:1|SB 4.17.1]]

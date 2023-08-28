@@ -1,5 +1,11 @@
-~~Title:rasala~~
-{{description>delicious; fruit juice; very tasteful.}}
+---json
+{
+    "name":"rasala",
+    "h1":"rasala",
+    "title":"rasala",
+    "description":"delicious; fruit juice; very tasteful."
+}
+---
 
 ==== rasālā  ====
   * delicious --- [[books:cc:madhya:15:218|Madhya 15.218]]

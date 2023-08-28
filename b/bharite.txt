@@ -1,5 +1,11 @@
-~~Title:bharite~~
-{{description>to fill Your belly.}}
+---json
+{
+    "name":"bharite",
+    "h1":"bharite",
+    "title":"bharite",
+    "description":"to fill Your belly."
+}
+---
 
 ==== udara bharite  ====
   * to fill Your belly --- [[books:cc:madhya:3:85|Madhya 3.85]]

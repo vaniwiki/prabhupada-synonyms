@@ -1,5 +1,11 @@
-~~Title:bhakṣaṇe~~
-{{description>eating.}}
+---json
+{
+    "name":"bhakṣaṇe",
+    "h1":"bhakṣaṇe",
+    "title":"bhakṣaṇe",
+    "description":"eating."
+}
+---
 
 ==== bhakṣaṇe  ====
   * eating --- [[books:cc:madhya:4:134|Madhya 4.134]]

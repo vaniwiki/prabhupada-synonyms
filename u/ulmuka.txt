@@ -1,5 +1,11 @@
-~~Title:ulmuka~~
-{{description>like a meteor.}}
+---json
+{
+    "name":"ulmuka",
+    "h1":"ulmuka",
+    "title":"ulmuka",
+    "description":"like a meteor."
+}
+---
 
 ==== ulmuka  ====
   * like a meteor --- [[books:sb:5:13:3|SB 5.13.3]]

@@ -1,5 +1,11 @@
-~~Title:vismaya~~
-{{description>astonished; astonishing; astonishment; the astonishment; the wonder; wonder; wonderful.}}
+---json
+{
+    "name":"vismaya",
+    "h1":"vismaya",
+    "title":"vismaya",
+    "description":"astonished; astonishing; astonishment; the astonishment; the wonder; wonder; wonderful."
+}
+---
 
 ==== vismaya  ====
   * astonished --- [[books:cc:madhya:9:62|Madhya 9.62]], [[books:cc:madhya:13:62|Madhya 13.62]], [[books:cc:madhya:15:297|Madhya 15.297]]

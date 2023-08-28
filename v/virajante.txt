@@ -1,5 +1,11 @@
-~~Title:virājante~~
-{{description>exist.}}
+---json
+{
+    "name":"virājante",
+    "h1":"virājante",
+    "title":"virājante",
+    "description":"exist."
+}
+---
 
 ==== virājante  ====
   * exist --- [[books:cc:madhya:23:67|Madhya 23.67]]

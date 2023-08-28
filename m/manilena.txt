@@ -1,5 +1,11 @@
-~~Title:mānilena~~
-{{description>He accepted.}}
+---json
+{
+    "name":"mānilena",
+    "h1":"mānilena",
+    "title":"mānilena",
+    "description":"He accepted."
+}
+---
 
 ==== mānilena  ====
   * He accepted --- [[books:cc:antya:7:139|Antya 7.139]]

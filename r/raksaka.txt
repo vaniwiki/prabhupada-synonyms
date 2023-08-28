@@ -1,5 +1,11 @@
-~~Title:rakṣaka~~
-{{description>protector; the superintendent of the jail; watchman.}}
+---json
+{
+    "name":"rakṣaka",
+    "h1":"rakṣaka",
+    "title":"rakṣaka",
+    "description":"protector; the superintendent of the jail; watchman."
+}
+---
 
 ==== rakṣaka  ====
   * protector --- [[books:cc:antya:3:22|Antya 3.22]]

@@ -1,5 +1,11 @@
-~~Title:vyabhicarati~~
-{{description>fails.}}
+---json
+{
+    "name":"vyabhicarati",
+    "h1":"vyabhicarati",
+    "title":"vyabhicarati",
+    "description":"fails."
+}
+---
 
 ==== vyabhicarati  ====
   * fails --- [[books:sb:6:16:43|SB 6.16.43]]

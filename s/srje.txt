@@ -1,5 +1,11 @@
-~~Title:sṛje~~
-{{description>creates; I create.}}
+---json
+{
+    "name":"sṛje",
+    "h1":"sṛje",
+    "title":"sṛje",
+    "description":"creates; I create."
+}
+---
 
 ==== sṛje  ====
   * creates --- [[books:cc:adi:6:13|Ādi 6.13]], [[books:cc:madhya:20:256|Madhya 20.256]], [[books:cc:madhya:20:259|Madhya 20.259]]

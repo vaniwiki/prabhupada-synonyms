@@ -1,5 +1,11 @@
-~~Title:ākhyāsye~~
-{{description>I shall describe now.}}
+---json
+{
+    "name":"ākhyāsye",
+    "h1":"ākhyāsye",
+    "title":"ākhyāsye",
+    "description":"I shall describe now."
+}
+---
 
 ==== ākhyāsye  ====
   * I shall describe now --- [[books:sb:8:1:6|SB 8.1.6]]

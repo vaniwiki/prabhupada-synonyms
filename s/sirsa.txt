@@ -1,5 +1,11 @@
-~~Title:sirsa~~
-{{description>heads.}}
+---json
+{
+    "name":"sirsa",
+    "h1":"sirsa",
+    "title":"sirsa",
+    "description":"heads."
+}
+---
 
 ==== śīrṣa  ====
   * heads --- [[books:sb:4:25:21|SB 4.25.21]]

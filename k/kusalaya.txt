@@ -1,5 +1,11 @@
-~~Title:kuśalāya~~
-{{description>for auspiciousness.}}
+---json
+{
+    "name":"kuśalāya",
+    "h1":"kuśalāya",
+    "title":"kuśalāya",
+    "description":"for auspiciousness."
+}
+---
 
 ==== kuśalāya  ====
   * for auspiciousness --- [[books:sb:7:8:50|SB 7.8.50]]

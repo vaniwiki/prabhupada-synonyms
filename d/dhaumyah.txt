@@ -1,5 +1,11 @@
-~~Title:dhaumyaḥ~~
-{{description>Dhaumya.}}
+---json
+{
+    "name":"dhaumyaḥ",
+    "h1":"dhaumyaḥ",
+    "title":"dhaumyaḥ",
+    "description":"Dhaumya."
+}
+---
 
 ==== dhaumyaḥ  ====
   * Dhaumya --- [[books:sb:1:9:6-7|SB 1.9.6-7]], [[books:sb:1:10:9-10|SB 1.10.9-10]], [[books:sb:6:15:12-15|SB 6.15.12-15]]

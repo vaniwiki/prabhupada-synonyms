@@ -1,5 +1,11 @@
-~~Title:āvāse~~
-{{description>at the house; at the residence; residence.}}
+---json
+{
+    "name":"āvāse",
+    "h1":"āvāse",
+    "title":"āvāse",
+    "description":"at the house; at the residence; residence."
+}
+---
 
 ==== āvāse  ====
   * at the house --- [[books:cc:madhya:10:101|Madhya 10.101]]

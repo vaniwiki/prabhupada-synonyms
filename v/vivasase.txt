@@ -1,5 +1,11 @@
-~~Title:vivāsase~~
-{{description>because she was naked.}}
+---json
+{
+    "name":"vivāsase",
+    "h1":"vivāsase",
+    "title":"vivāsase",
+    "description":"because she was naked."
+}
+---
 
 ==== vivāsase  ====
   * because she was naked --- [[books:sb:9:18:19|SB 9.18.19]]

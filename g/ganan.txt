@@ -1,5 +1,11 @@
-~~Title:gaṇān~~
-{{description>hosts; many; the hosts of; to all the followers; to the devotees.}}
+---json
+{
+    "name":"gaṇān",
+    "h1":"gaṇān",
+    "title":"gaṇān",
+    "description":"hosts; many; the hosts of; to all the followers; to the devotees."
+}
+---
 
 ==== gaṇān  ====
   * hosts --- [[books:sb:3:20:42|SB 3.20.42]]

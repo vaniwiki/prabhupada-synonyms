@@ -1,5 +1,11 @@
-~~Title:milile~~
-{{description>being approved.}}
+---json
+{
+    "name":"milile",
+    "h1":"milile",
+    "title":"milile",
+    "description":"being approved."
+}
+---
 
 ==== milile  ====
   * being approved --- [[books:cc:madhya:12:116|Madhya 12.116]]

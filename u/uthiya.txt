@@ -1,5 +1,11 @@
-~~Title:uṭhiyā~~
-{{description>getting up; rising; standing; standing up.}}
+---json
+{
+    "name":"uṭhiyā",
+    "h1":"uṭhiyā",
+    "title":"uṭhiyā",
+    "description":"getting up; rising; standing; standing up."
+}
+---
 
 ==== uṭhiyā  ====
   * getting up --- [[books:cc:madhya:19:238|Madhya 19.238]], [[books:cc:antya:2:126|Antya 2.126]], [[books:cc:antya:17:22|Antya 17.22]]

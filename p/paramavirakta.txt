@@ -1,5 +1,11 @@
-~~Title:paramavirakta~~
-{{description>totally renounced or unattached.}}
+---json
+{
+    "name":"paramavirakta",
+    "h1":"paramavirakta",
+    "title":"paramavirakta",
+    "description":"totally renounced or unattached."
+}
+---
 
 ==== paramavirakta  ====
   * totally renounced or unattached --- [[books:cc:madhya:4:179|Madhya 4.179]]

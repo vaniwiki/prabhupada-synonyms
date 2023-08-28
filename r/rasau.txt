@@ -1,5 +1,11 @@
-~~Title:rāśau~~
-{{description>in the body; sign; zodiac signs.}}
+---json
+{
+    "name":"rāśau",
+    "h1":"rāśau",
+    "title":"rāśau",
+    "description":"in the body; sign; zodiac signs."
+}
+---
 
 ==== rāśau  ====
   * in the body --- [[books:sb:5:10:9|SB 5.10.9]]

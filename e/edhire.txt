@@ -1,5 +1,11 @@
-~~Title:edhire~~
-{{description>multiplied.}}
+---json
+{
+    "name":"edhire",
+    "h1":"edhire",
+    "title":"edhire",
+    "description":"multiplied."
+}
+---
 
 ==== edhire  ====
   * multiplied --- [[books:sb:3:21:1|SB 3.21.1]]

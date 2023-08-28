@@ -1,5 +1,11 @@
-~~Title:yadi~~
-{{description>if; although; even if; however; if; if it is actually a fact; if one; if such surrender; if, however; of course; provided; though; when; whether.}}
+---json
+{
+    "name":"yadi",
+    "h1":"yadi",
+    "title":"yadi",
+    "description":"if; although; even if; however; if; if it is actually a fact; if one; if such surrender; if, however; of course; provided; though; when; whether."
+}
+---
 
 ==== yadi  ====
   * //if// --- [[books:cc:madhya:8:294|Madhya 8.294]]

@@ -1,5 +1,11 @@
-~~Title:yajñānām~~
-{{description>of sacrifices; sacrifices.}}
+---json
+{
+    "name":"yajñānām",
+    "h1":"yajñānām",
+    "title":"yajñānām",
+    "description":"of sacrifices; sacrifices."
+}
+---
 
 ==== yajñānām  ====
   * of sacrifices --- [[books:bg:10:25|Bg. 10.25]]

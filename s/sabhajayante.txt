@@ -1,5 +1,11 @@
-~~Title:sabhājayante~~
-{{description>glorify.}}
+---json
+{
+    "name":"sabhājayante",
+    "h1":"sabhājayante",
+    "title":"sabhājayante",
+    "description":"glorify."
+}
+---
 
 ==== sabhājayante  ====
   * glorify --- [[books:sb:3:25:34|SB 3.25.34]]

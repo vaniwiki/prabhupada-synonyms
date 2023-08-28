@@ -1,5 +1,11 @@
-~~Title:pāṇḍubhiḥ~~
-{{description>white.}}
+---json
+{
+    "name":"pāṇḍubhiḥ",
+    "h1":"pāṇḍubhiḥ",
+    "title":"pāṇḍubhiḥ",
+    "description":"white."
+}
+---
 
 ==== pāṇḍubhiḥ  ====
   * white --- [[books:sb:4:3:12|SB 4.3.12]]

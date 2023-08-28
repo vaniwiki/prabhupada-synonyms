@@ -1,5 +1,11 @@
-~~Title:vadiṣyanti~~
-{{description>will say.}}
+---json
+{
+    "name":"vadiṣyanti",
+    "h1":"vadiṣyanti",
+    "title":"vadiṣyanti",
+    "description":"will say."
+}
+---
 
 ==== vadiṣyanti  ====
   * will say --- [[books:bg:2:36|Bg. 2.36]]

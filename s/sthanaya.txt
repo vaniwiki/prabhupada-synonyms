@@ -1,5 +1,11 @@
-~~Title:sthānāya~~
-{{description>unto You, whose position is not discernible.}}
+---json
+{
+    "name":"sthānāya",
+    "h1":"sthānāya",
+    "title":"sthānāya",
+    "description":"unto You, whose position is not discernible."
+}
+---
 
 ==== anupalakṣita-sthānāya  ====
   * unto You, whose position is not discernible --- [[books:sb:5:18:30|SB 5.18.30]]

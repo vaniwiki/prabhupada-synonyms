@@ -1,5 +1,11 @@
-~~Title:yavīyāṁsaḥ~~
-{{description>younger.}}
+---json
+{
+    "name":"yavīyāṁsaḥ",
+    "h1":"yavīyāṁsaḥ",
+    "title":"yavīyāṁsaḥ",
+    "description":"younger."
+}
+---
 
 ==== yavīyāṁsaḥ  ====
   * younger --- [[books:sb:5:4:13|SB 5.4.13]]

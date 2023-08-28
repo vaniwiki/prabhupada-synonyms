@@ -1,5 +1,11 @@
-~~Title:vighātaḥ~~
-{{description>ruin.}}
+---json
+{
+    "name":"vighātaḥ",
+    "h1":"vighātaḥ",
+    "title":"vighātaḥ",
+    "description":"ruin."
+}
+---
 
 ==== vighātaḥ  ====
   * ruin --- [[books:sb:6:5:37|SB 6.5.37]]

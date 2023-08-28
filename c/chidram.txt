@@ -1,5 +1,11 @@
-~~Title:chidram~~
-{{description>a hole; discrepancy; facility; faulty differentiation.}}
+---json
+{
+    "name":"chidram",
+    "h1":"chidram",
+    "title":"chidram",
+    "description":"a hole; discrepancy; facility; faulty differentiation."
+}
+---
 
 ==== chidram  ====
   * a hole --- [[books:sb:10:8:30|SB 10.8.30]]

@@ -1,5 +1,11 @@
-~~Title:amarṣam~~
-{{description>having given up anger.}}
+---json
+{
+    "name":"amarṣam",
+    "h1":"amarṣam",
+    "title":"amarṣam",
+    "description":"having given up anger."
+}
+---
 
 ==== tyakta-amarṣam  ====
   * having given up anger --- [[books:sb:4:6:33|SB 4.6.33]]

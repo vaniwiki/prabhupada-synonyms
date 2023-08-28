@@ -1,5 +1,11 @@
-~~Title:śocantyai~~
-{{description>lamenting for.}}
+---json
+{
+    "name":"śocantyai",
+    "h1":"śocantyai",
+    "title":"śocantyai",
+    "description":"lamenting for."
+}
+---
 
 ==== śocantyai  ====
   * lamenting for --- [[books:sb:1:7:41|SB 1.7.41]]

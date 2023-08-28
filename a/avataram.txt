@@ -1,5 +1,11 @@
-~~Title:avatāram~~
-{{description>appearance; incarnation; incarnations.}}
+---json
+{
+    "name":"avatāram",
+    "h1":"avatāram",
+    "title":"avatāram",
+    "description":"appearance; incarnation; incarnations."
+}
+---
 
 ==== avatāram  ====
   * appearance --- [[books:sb:10:3:22|SB 10.3.22]]

@@ -1,5 +1,11 @@
-~~Title:chaṭābhiḥ~~
-{{description>by chisels.}}
+---json
+{
+    "name":"chaṭābhiḥ",
+    "h1":"chaṭābhiḥ",
+    "title":"chaṭābhiḥ",
+    "description":"by chisels."
+}
+---
 
 ==== ṭaṅka-chaṭābhiḥ  ====
   * by chisels --- [[books:cc:antya:1:167|Antya 1.167]]

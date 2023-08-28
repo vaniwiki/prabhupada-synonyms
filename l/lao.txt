@@ -1,5 +1,11 @@
-~~Title:lao~~
-{{description>always take; chant; you chant; You take.}}
+---json
+{
+    "name":"lao",
+    "h1":"lao",
+    "title":"lao",
+    "description":"always take; chant; you chant; You take."
+}
+---
 
 ==== lao  ====
   * always take --- [[books:cc:madhya:1:29|Madhya 1.29]]

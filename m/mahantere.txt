@@ -1,5 +1,11 @@
-~~Title:mahāntere~~
-{{description>to four great personalities.}}
+---json
+{
+    "name":"mahāntere",
+    "h1":"mahāntere",
+    "title":"mahāntere",
+    "description":"to four great personalities."
+}
+---
 
 ==== cāri mahāntere  ====
   * to four great personalities --- [[books:cc:madhya:11:226|Madhya 11.226]]

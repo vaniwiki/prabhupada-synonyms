@@ -1,5 +1,11 @@
-~~Title:ayan~~
-{{description>knowing.}}
+---json
+{
+    "name":"ayan",
+    "h1":"ayan",
+    "title":"ayan",
+    "description":"knowing."
+}
+---
 
 ==== ayan  ====
   * knowing --- [[books:sb:4:31:20|SB 4.31.20]]

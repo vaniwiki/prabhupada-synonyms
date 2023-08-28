@@ -1,5 +1,11 @@
-~~Title:vikarṣasi~~
-{{description>destroys.}}
+---json
+{
+    "name":"vikarṣasi",
+    "h1":"vikarṣasi",
+    "title":"vikarṣasi",
+    "description":"destroys."
+}
+---
 
 ==== vikarṣasi  ====
   * destroys --- [[books:sb:4:24:65|SB 4.24.65]]

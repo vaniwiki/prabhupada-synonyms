@@ -1,5 +1,11 @@
-~~Title:asah~~
-{{description>the directions.}}
+---json
+{
+    "name":"asah",
+    "h1":"asah",
+    "title":"asah",
+    "description":"the directions."
+}
+---
 
 ==== āśāḥ  ====
   * the directions --- [[books:sb:10:7:35-36|SB 10.7.35-36]]

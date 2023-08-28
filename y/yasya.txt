@@ -1,5 +1,11 @@
-~~Title:yasya~~
-{{description>anyone; anyone with whom; by which; by whom (the Lord); by whom; for the purpose of; for whom; from whom; He of whom; he who; His; in relationship with anyone; of a man; of Him; of him who; of Indra; of Kṛṣṇa; of Lord Śiva; of one who; of one's; of someone; of the Supreme Personality of Godhead who; of which (body); of which; of which lusty desires; of which nectar; of whom (Ambarīṣa Mahārāja); of whom (Avīkṣit); of whom (Bali Mahārāja); of whom (Budha); of whom (Citraratha); of whom (Diviratha); of whom (King Gaya); of whom (Lord Nārāyaṇa); of whom (Lord Śrī Kṛṣṇa); of whom (Lord Ṛṣabhadeva); of whom (Mahārāja Ambarīṣa); of whom (of the Supreme Personality of Godhead); of whom (Sudeva); of whom (the Supreme Personality of Godhead); of whom (the Supreme Personality of Godhead, who gives His pure devotees intelligence with which to spread the Kṛṣṇa consciousness movement); of whom (the Supreme Personality of Godhead, who gives His pure devotees the intelligence to spread the Kṛṣṇa consciousness movement); of whom (Vikṛti); of whom (Śunaka); of whom; one who; one whose; the Lord, of whom; the one from whose; to whom everything belongs; whom; whose (Lord Rāmacandra's); whose; with the body.}}
+---json
+{
+    "name":"yasya",
+    "h1":"yasya",
+    "title":"yasya",
+    "description":"anyone; anyone with whom; by which; by whom (the Lord); by whom; for the purpose of; for whom; from whom; He of whom; he who; His; in relationship with anyone; of a man; of Him; of him who; of Indra; of Kṛṣṇa; of Lord Śiva; of one who; of one's; of someone; of the Supreme Personality of Godhead who; of which (body); of which; of which lusty desires; of which nectar; of whom (Ambarīṣa Mahārāja); of whom (Avīkṣit); of whom (Bali Mahārāja); of whom (Budha); of whom (Citraratha); of whom (Diviratha); of whom (King Gaya); of whom (Lord Nārāyaṇa); of whom (Lord Śrī Kṛṣṇa); of whom (Lord Ṛṣabhadeva); of whom (Mahārāja Ambarīṣa); of whom (of the Supreme Personality of Godhead); of whom (Sudeva); of whom (the Supreme Personality of Godhead); of whom (the Supreme Personality of Godhead, who gives His pure devotees intelligence with which to spread the Kṛṣṇa consciousness movement); of whom (the Supreme Personality of Godhead, who gives His pure devotees the intelligence to spread the Kṛṣṇa consciousness movement); of whom (Vikṛti); of whom (Śunaka); of whom; one who; one whose; the Lord, of whom; the one from whose; to whom everything belongs; whom; whose (Lord Rāmacandra's); whose; with the body."
+}
+---
 
 ==== yasya  ====
   * anyone --- [[books:sb:4:8:33|SB 4.8.33]]

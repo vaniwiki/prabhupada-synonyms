@@ -1,5 +1,11 @@
-~~Title:anuśikṣayan~~
-{{description>teaching.}}
+---json
+{
+    "name":"anuśikṣayan",
+    "h1":"anuśikṣayan",
+    "title":"anuśikṣayan",
+    "description":"teaching."
+}
+---
 
 ==== anuśikṣayan  ====
   * teaching --- [[books:sb:5:6:6|SB 5.6.6]]

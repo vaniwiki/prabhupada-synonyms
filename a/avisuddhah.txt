@@ -1,5 +1,11 @@
-~~Title:aviśuddhaḥ~~
-{{description>not pure.}}
+---json
+{
+    "name":"aviśuddhaḥ",
+    "h1":"aviśuddhaḥ",
+    "title":"aviśuddhaḥ",
+    "description":"not pure."
+}
+---
 
 ==== aviśuddhaḥ  ====
   * not pure --- [[books:sb:6:16:41|SB 6.16.41]]

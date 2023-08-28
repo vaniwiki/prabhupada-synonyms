@@ -1,5 +1,11 @@
-~~Title:sammohanāya~~
-{{description>for charming.}}
+---json
+{
+    "name":"sammohanāya",
+    "h1":"sammohanāya",
+    "title":"sammohanāya",
+    "description":"for charming."
+}
+---
 
 ==== sammohanāya  ====
   * for charming --- [[books:sb:3:28:32|SB 3.28.32]]

@@ -1,5 +1,11 @@
-~~Title:āvṛteṣu~~
-{{description>surrounded.}}
+---json
+{
+    "name":"āvṛteṣu",
+    "h1":"āvṛteṣu",
+    "title":"āvṛteṣu",
+    "description":"surrounded."
+}
+---
 
 ==== āvṛteṣu  ====
   * surrounded --- [[books:cc:adi:5:22|Ādi 5.22]]

@@ -1,5 +1,11 @@
-~~Title:upagūḍhaḥ~~
-{{description>being deeply embraced; being embraced; was embraced.}}
+---json
+{
+    "name":"upagūḍhaḥ",
+    "h1":"upagūḍhaḥ",
+    "title":"upagūḍhaḥ",
+    "description":"being deeply embraced; being embraced; was embraced."
+}
+---
 
 ==== upagūḍhaḥ  ====
   * being deeply embraced --- [[books:sb:5:14:28|SB 5.14.28]]

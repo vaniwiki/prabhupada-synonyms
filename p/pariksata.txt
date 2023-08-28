@@ -1,5 +1,11 @@
-~~Title:parīkṣatā~~
-{{description>being examined.}}
+---json
+{
+    "name":"parīkṣatā",
+    "h1":"parīkṣatā",
+    "title":"parīkṣatā",
+    "description":"being examined."
+}
+---
 
 ==== parīkṣatā  ====
   * being examined --- [[books:sb:1:7:40|SB 1.7.40]]

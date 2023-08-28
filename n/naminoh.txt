@@ -1,5 +1,11 @@
-~~Title:nāminoḥ~~
-{{description>and of the person who has the name.}}
+---json
+{
+    "name":"nāminoḥ",
+    "h1":"nāminoḥ",
+    "title":"nāminoḥ",
+    "description":"and of the person who has the name."
+}
+---
 
 ==== nāminoḥ  ====
   * and of the person who has the name --- [[books:cc:madhya:17:133|Madhya 17.133]]

@@ -1,5 +1,11 @@
-~~Title:vistarāt~~
-{{description>due to expansion; elaborately; extensively.}}
+---json
+{
+    "name":"vistarāt",
+    "h1":"vistarāt",
+    "title":"vistarāt",
+    "description":"due to expansion; elaborately; extensively."
+}
+---
 
 ==== vistarāt  ====
   * due to expansion --- [[books:sb:7:15:4|SB 7.15.4]]

@@ -1,5 +1,11 @@
-~~Title:lāñcanā~~
-{{description>humiliation.}}
+---json
+{
+    "name":"lāñcanā",
+    "h1":"lāñcanā",
+    "title":"lāñcanā",
+    "description":"humiliation."
+}
+---
 
 ==== lāñcanā  ====
   * humiliation --- [[books:cc:madhya:1:281|Madhya 1.281]]

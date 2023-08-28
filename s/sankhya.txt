@@ -1,5 +1,11 @@
-~~Title:sankhya~~
-{{description>counting.}}
+---json
+{
+    "name":"sankhya",
+    "h1":"sankhya",
+    "title":"sankhya",
+    "description":"counting."
+}
+---
 
 ==== saṅkhya  ====
   * counting --- [[books:cc:madhya:20:348|Madhya 20.348]]

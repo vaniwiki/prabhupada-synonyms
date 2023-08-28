@@ -1,5 +1,11 @@
-~~Title:upāsase~~
-{{description>you do live.}}
+---json
+{
+    "name":"upāsase",
+    "h1":"upāsase",
+    "title":"upāsase",
+    "description":"you do live."
+}
+---
 
 ==== upāsase  ====
   * you do live --- [[books:sb:1:13:21|SB 1.13.21]]

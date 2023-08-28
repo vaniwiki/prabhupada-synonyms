@@ -1,5 +1,11 @@
-~~Title:anutiṣṭhantaḥ~~
-{{description>executing.}}
+---json
+{
+    "name":"anutiṣṭhantaḥ",
+    "h1":"anutiṣṭhantaḥ",
+    "title":"anutiṣṭhantaḥ",
+    "description":"executing."
+}
+---
 
 ==== anutiṣṭhantaḥ  ====
   * executing --- [[books:sb:4:24:69|SB 4.24.69]]

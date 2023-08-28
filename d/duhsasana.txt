@@ -1,5 +1,11 @@
-~~Title:duḥśāsana~~
-{{description>Duḥśāsana.}}
+---json
+{
+    "name":"duḥśāsana",
+    "h1":"duḥśāsana",
+    "title":"duḥśāsana",
+    "description":"Duḥśāsana."
+}
+---
 
 ==== duḥśāsana  ====
   * Duḥśāsana --- [[books:sb:3:3:13|SB 3.3.13]]

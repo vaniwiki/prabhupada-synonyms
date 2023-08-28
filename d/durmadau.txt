@@ -1,5 +1,11 @@
-~~Title:durmadau~~
-{{description>because they were very much fallen due to false pride.}}
+---json
+{
+    "name":"durmadau",
+    "h1":"durmadau",
+    "title":"durmadau",
+    "description":"because they were very much fallen due to false pride."
+}
+---
 
 ==== su-durmadau  ====
   * because they were very much fallen due to false pride --- [[books:sb:10:10:20-22|SB 10.10.20-22]]

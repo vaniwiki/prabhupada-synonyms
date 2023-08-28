@@ -1,5 +1,11 @@
-~~Title:sambhāvanaḥ~~
-{{description>interested in self -maintenance.}}
+---json
+{
+    "name":"sambhāvanaḥ",
+    "h1":"sambhāvanaḥ",
+    "title":"sambhāvanaḥ",
+    "description":"interested in self -maintenance."
+}
+---
 
 ==== ātma-sambhāvanaḥ  ====
   * interested in self -maintenance --- [[books:sb:4:17:26|SB 4.17.26]]

@@ -1,5 +1,11 @@
-~~Title:gāye~~
-{{description>in the body.}}
+---json
+{
+    "name":"gāye",
+    "h1":"gāye",
+    "title":"gāye",
+    "description":"in the body."
+}
+---
 
 ==== gāye  ====
   * in the body --- [[books:cc:madhya:14:172|Madhya 14.172]]

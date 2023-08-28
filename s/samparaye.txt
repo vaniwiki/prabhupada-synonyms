@@ -1,5 +1,11 @@
-~~Title:sāmparāye~~
-{{description>for the benefit of the living entity after death; in the next birth; in the next world.}}
+---json
+{
+    "name":"sāmparāye",
+    "h1":"sāmparāye",
+    "title":"sāmparāye",
+    "description":"for the benefit of the living entity after death; in the next birth; in the next world."
+}
+---
 
 ==== sāmparāye  ====
   * for the benefit of the living entity after death --- [[books:sb:5:14:2|SB 5.14.2]]

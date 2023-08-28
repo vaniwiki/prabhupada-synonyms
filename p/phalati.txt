@@ -1,5 +1,11 @@
-~~Title:phalati~~
-{{description>gives the result; is fruitful.}}
+---json
+{
+    "name":"phalati",
+    "h1":"phalati",
+    "title":"phalati",
+    "description":"gives the result; is fruitful."
+}
+---
 
 ==== phalati  ====
   * gives the result --- [[books:sb:5:9:19|SB 5.9.19]]

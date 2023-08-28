@@ -1,5 +1,11 @@
-~~Title:romasu~~
-{{description>hairs on the body; in the pores of the body.}}
+---json
+{
+    "name":"romasu",
+    "h1":"romasu",
+    "title":"romasu",
+    "description":"hairs on the body; in the pores of the body."
+}
+---
 
 ==== romasu  ====
   * hairs on the body --- [[books:sb:3:13:35|SB 3.13.35]]

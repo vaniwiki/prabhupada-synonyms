@@ -1,5 +1,11 @@
-~~Title:upaśamanāya~~
-{{description>for getting free; soothing.}}
+---json
+{
+    "name":"upaśamanāya",
+    "h1":"upaśamanāya",
+    "title":"upaśamanāya",
+    "description":"for getting free; soothing."
+}
+---
 
 ==== upaśamanāya  ====
   * for getting free --- [[books:sb:3:31:16|SB 3.31.16]]

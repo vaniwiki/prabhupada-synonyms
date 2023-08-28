@@ -1,5 +1,11 @@
-~~Title:aśānteṣu~~
-{{description>coarse; who are restless.}}
+---json
+{
+    "name":"aśānteṣu",
+    "h1":"aśānteṣu",
+    "title":"aśānteṣu",
+    "description":"coarse; who are restless."
+}
+---
 
 ==== aśānteṣu  ====
   * coarse --- [[books:sb:3:31:34|SB 3.31.34]]

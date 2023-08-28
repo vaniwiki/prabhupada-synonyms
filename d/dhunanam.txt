@@ -1,5 +1,11 @@
-~~Title:dhunānam~~
-{{description>being twirled.}}
+---json
+{
+    "name":"dhunānam",
+    "h1":"dhunānam",
+    "title":"dhunānam",
+    "description":"being twirled."
+}
+---
 
 ==== dhunānam  ====
   * being twirled --- [[books:sb:3:15:40|SB 3.15.40]]

@@ -1,5 +1,11 @@
-~~Title:ayasa~~
-{{description>iron.}}
+---json
+{
+    "name":"ayasa",
+    "h1":"ayasa",
+    "title":"ayasa",
+    "description":"iron."
+}
+---
 
 ==== ayasa  ====
   * iron --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

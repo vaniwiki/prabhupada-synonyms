@@ -1,5 +1,11 @@
-~~Title:i~~
-{{description>except me.}}
+---json
+{
+    "name":"i",
+    "h1":"i",
+    "title":"i",
+    "description":"except me."
+}
+---
 
 ==== āmā ba-i  ====
   * except me --- [[books:cc:madhya:21:65|Madhya 21.65]]

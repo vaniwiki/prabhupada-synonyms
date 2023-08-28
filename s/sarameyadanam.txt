@@ -1,5 +1,11 @@
-~~Title:sārameyādanam~~
-{{description>Sārameyādana.}}
+---json
+{
+    "name":"sārameyādanam",
+    "h1":"sārameyādanam",
+    "title":"sārameyādanam",
+    "description":"Sārameyādana."
+}
+---
 
 ==== sārameyādanam  ====
   * Sārameyādana --- [[books:sb:5:26:7|SB 5.26.7]]

@@ -1,5 +1,11 @@
-~~Title:daṇḍaka~~
-{{description>in the forest known as Daṇḍakāraṇya.}}
+---json
+{
+    "name":"daṇḍaka",
+    "h1":"daṇḍaka",
+    "title":"daṇḍaka",
+    "description":"in the forest known as Daṇḍakāraṇya."
+}
+---
 
 ==== daṇḍaka-araṇye  ====
   * in the forest known as Daṇḍakāraṇya --- [[books:cc:madhya:9:311|Madhya 9.311]]

@@ -1,5 +1,11 @@
-~~Title:aśeṣeṇa~~
-{{description>fully; in detail.}}
+---json
+{
+    "name":"aśeṣeṇa",
+    "h1":"aśeṣeṇa",
+    "title":"aśeṣeṇa",
+    "description":"fully; in detail."
+}
+---
 
 ==== aśeṣeṇa  ====
   * fully --- [[books:bg:18:63|Bg. 18.63]]

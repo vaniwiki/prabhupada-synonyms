@@ -1,5 +1,11 @@
-~~Title:alaṅkārera~~
-{{description>of the literary embellishments.}}
+---json
+{
+    "name":"alaṅkārera",
+    "h1":"alaṅkārera",
+    "title":"alaṅkārera",
+    "description":"of the literary embellishments."
+}
+---
 
 ==== alaṅkārera  ====
   * of the literary embellishments --- [[books:cc:adi:16:72|Ādi 16.72]]

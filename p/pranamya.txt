@@ -1,5 +1,11 @@
-~~Title:praṇamya~~
-{{description>after offering obeisances; after saluting; bowing down; by offering obeisances; having offered obeisances; offering his obeisances; offering obeisances.}}
+---json
+{
+    "name":"praṇamya",
+    "h1":"praṇamya",
+    "title":"praṇamya",
+    "description":"after offering obeisances; after saluting; bowing down; by offering obeisances; having offered obeisances; offering his obeisances; offering obeisances."
+}
+---
 
 ==== praṇamya  ====
   * after offering obeisances --- [[books:bg:11:44|Bg. 11.44]], [[books:sb:6:19:23|SB 6.19.23]]

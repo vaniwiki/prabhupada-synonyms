@@ -1,5 +1,11 @@
-~~Title:śiñjita~~
-{{description>the vibration of ornaments.}}
+---json
+{
+    "name":"śiñjita",
+    "h1":"śiñjita",
+    "title":"śiñjita",
+    "description":"the vibration of ornaments."
+}
+---
 
 ==== bhūṣaṇa-śiñjita  ====
   * the vibration of ornaments --- [[books:cc:antya:17:38|Antya 17.38]]

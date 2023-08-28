@@ -1,5 +1,11 @@
-~~Title:harimedhasaḥ~~
-{{description>begotten by Harimedhā.}}
+---json
+{
+    "name":"harimedhasaḥ",
+    "h1":"harimedhasaḥ",
+    "title":"harimedhasaḥ",
+    "description":"begotten by Harimedhā."
+}
+---
 
 ==== harimedhasaḥ  ====
   * begotten by Harimedhā --- [[books:sb:8:1:30|SB 8.1.30]]

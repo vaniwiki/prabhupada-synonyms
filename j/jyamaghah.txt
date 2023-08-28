@@ -1,5 +1,11 @@
-~~Title:jyāmaghaḥ~~
-{{description>King Jyāmagha.}}
+---json
+{
+    "name":"jyāmaghaḥ",
+    "h1":"jyāmaghaḥ",
+    "title":"jyāmaghaḥ",
+    "description":"King Jyāmagha."
+}
+---
 
 ==== jyāmaghaḥ  ====
   * King Jyāmagha --- [[books:sb:9:23:35-36|SB 9.23.35-36]]

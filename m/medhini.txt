@@ -1,5 +1,11 @@
-~~Title:medhini~~
-{{description>O my wife, who are attached to household life.}}
+---json
+{
+    "name":"medhini",
+    "h1":"medhini",
+    "title":"medhini",
+    "description":"O my wife, who are attached to household life."
+}
+---
 
 ==== gṛha-medhini  ====
   * O my wife, who are attached to household life --- [[books:sb:8:16:5|SB 8.16.5]]

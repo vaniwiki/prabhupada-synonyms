@@ -1,5 +1,11 @@
-~~Title:vicāraye~~
-{{description>considers.}}
+---json
+{
+    "name":"vicāraye",
+    "h1":"vicāraye",
+    "title":"vicāraye",
+    "description":"considers."
+}
+---
 
 ==== vicāraye  ====
   * considers --- [[books:cc:adi:16:88|Ādi 16.88]]

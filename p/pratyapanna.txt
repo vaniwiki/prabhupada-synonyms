@@ -1,5 +1,11 @@
-~~Title:pratyāpanna~~
-{{description>was brought back.}}
+---json
+{
+    "name":"pratyāpanna",
+    "h1":"pratyāpanna",
+    "title":"pratyāpanna",
+    "description":"was brought back."
+}
+---
 
 ==== pratyāpanna  ====
   * was brought back --- [[books:sb:8:11:48|SB 8.11.48]]

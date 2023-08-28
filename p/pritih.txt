@@ -1,5 +1,11 @@
-~~Title:prītiḥ~~
-{{description>affection; love; pleasure; satisfaction.}}
+---json
+{
+    "name":"prītiḥ",
+    "h1":"prītiḥ",
+    "title":"prītiḥ",
+    "description":"affection; love; pleasure; satisfaction."
+}
+---
 
 ==== prītiḥ  ====
   * affection --- [[books:sb:8:5:42|SB 8.5.42]], [[books:cc:madhya:23:18-19|Madhya 23.18-19]]

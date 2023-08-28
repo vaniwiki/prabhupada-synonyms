@@ -1,5 +1,11 @@
-~~Title:ūṣyām~~
-{{description>in barren land.}}
+---json
+{
+    "name":"ūṣyām",
+    "h1":"ūṣyām",
+    "title":"ūṣyām",
+    "description":"in barren land."
+}
+---
 
 ==== ūṣyām  ====
   * in barren land --- [[books:sb:1:15:21|SB 1.15.21]]

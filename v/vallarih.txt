@@ -1,5 +1,11 @@
-~~Title:vallariḥ~~
-{{description>arms like creepers.}}
+---json
+{
+    "name":"vallariḥ",
+    "h1":"vallariḥ",
+    "title":"vallariḥ",
+    "description":"arms like creepers."
+}
+---
 
 ==== bhuja-vallariḥ  ====
   * arms like creepers --- [[books:cc:antya:1:146|Antya 1.146]]

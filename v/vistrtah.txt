@@ -1,5 +1,11 @@
-~~Title:vistṛtaḥ~~
-{{description>length and breadth (eighty thousand miles); widespread.}}
+---json
+{
+    "name":"vistṛtaḥ",
+    "h1":"vistṛtaḥ",
+    "title":"vistṛtaḥ",
+    "description":"length and breadth (eighty thousand miles); widespread."
+}
+---
 
 ==== vistṛtaḥ  ====
   * length and breadth (eighty thousand miles) --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

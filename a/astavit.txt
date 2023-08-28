@@ -1,5 +1,11 @@
-~~Title:astāvīt~~
-{{description>offered prayers.}}
+---json
+{
+    "name":"astāvīt",
+    "h1":"astāvīt",
+    "title":"astāvīt",
+    "description":"offered prayers."
+}
+---
 
 ==== astāvīt  ====
   * offered prayers --- [[books:sb:4:1:26-27|SB 4.1.26-27]], [[books:sb:9:5:2|SB 9.5.2]]

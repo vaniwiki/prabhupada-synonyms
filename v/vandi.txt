@@ -1,5 +1,11 @@
-~~Title:vandi~~
-{{description>let Me offer prayers; offering respect.}}
+---json
+{
+    "name":"vandi",
+    "h1":"vandi",
+    "title":"vandi",
+    "description":"let Me offer prayers; offering respect."
+}
+---
 
 ==== vandi  ====
   * let Me offer prayers --- [[books:cc:antya:14:30|Antya 14.30]]

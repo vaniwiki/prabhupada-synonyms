@@ -1,5 +1,11 @@
-~~Title:vilāsera~~
-{{description>of pastime forms.}}
+---json
+{
+    "name":"vilāsera",
+    "h1":"vilāsera",
+    "title":"vilāsera",
+    "description":"of pastime forms."
+}
+---
 
 ==== vilāsera  ====
   * of pastime forms --- [[books:cc:madhya:20:185|Madhya 20.185]]

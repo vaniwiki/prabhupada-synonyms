@@ -1,5 +1,11 @@
-~~Title:ātmīyatā~~
-{{description>feeling as one of Your relations.}}
+---json
+{
+    "name":"ātmīyatā",
+    "h1":"ātmīyatā",
+    "title":"ātmīyatā",
+    "description":"feeling as one of Your relations."
+}
+---
 
 ==== ātmīyatā-jñāna  ====
   * feeling as one of Your relations --- [[books:cc:antya:4:164|Antya 4.164]]

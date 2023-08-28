@@ -1,5 +1,11 @@
-~~Title:māgite~~
-{{description>to beg.}}
+---json
+{
+    "name":"māgite",
+    "h1":"māgite",
+    "title":"māgite",
+    "description":"to beg."
+}
+---
 
 ==== māgite  ====
   * to beg --- [[books:cc:adi:17:101|Ādi 17.101]]

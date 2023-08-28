@@ -1,5 +1,11 @@
-~~Title:āruhya~~
-{{description>boarding; even though achieving; getting on; getting on top of; having ascended; mounting; riding; riding on; rising.}}
+---json
+{
+    "name":"āruhya",
+    "h1":"āruhya",
+    "title":"āruhya",
+    "description":"boarding; even though achieving; getting on; getting on top of; having ascended; mounting; riding; riding on; rising."
+}
+---
 
 ==== āruhya  ====
   * boarding --- [[books:sb:6:2:44|SB 6.2.44]]

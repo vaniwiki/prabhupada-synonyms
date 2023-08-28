@@ -1,5 +1,11 @@
-~~Title:pravāha~~
-{{description>of the continuous current in the form of wakefulness, dreaming and deep sleep; waves.}}
+---json
+{
+    "name":"pravāha",
+    "h1":"pravāha",
+    "title":"pravāha",
+    "description":"of the continuous current in the form of wakefulness, dreaming and deep sleep; waves."
+}
+---
 
 ==== pravāha  ====
   * of the continuous current in the form of wakefulness, dreaming and deep sleep --- [[books:sb:7:7:28|SB 7.7.28]]

@@ -1,5 +1,11 @@
-~~Title:durdaivam~~
-{{description>misfortune.}}
+---json
+{
+    "name":"durdaivam",
+    "h1":"durdaivam",
+    "title":"durdaivam",
+    "description":"misfortune."
+}
+---
 
 ==== durdaivam  ====
   * misfortune --- [[books:cc:antya:20:16|Antya 20.16]]

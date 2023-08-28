@@ -1,5 +1,11 @@
-~~Title:anaham~~
-{{description>without false ego.}}
+---json
+{
+    "name":"anaham",
+    "h1":"anaham",
+    "title":"anaham",
+    "description":"without false ego."
+}
+---
 
 ==== anaham-vādī  ====
   * without false ego --- [[books:bg:18:26|Bg. 18.26]]

@@ -1,5 +1,11 @@
-~~Title:care~~
-{{description>graze; I wander; were grazing.}}
+---json
+{
+    "name":"care",
+    "h1":"care",
+    "title":"care",
+    "description":"graze; I wander; were grazing."
+}
+---
 
 ==== care  ====
   * graze --- [[books:cc:madhya:17:194|Madhya 17.194]], [[books:cc:antya:14:107|Antya 14.107]]

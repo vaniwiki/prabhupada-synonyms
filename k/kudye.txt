@@ -1,5 +1,11 @@
-~~Title:kuḍye~~
-{{description>walls.}}
+---json
+{
+    "name":"kuḍye",
+    "h1":"kuḍye",
+    "title":"kuḍye",
+    "description":"walls."
+}
+---
 
 ==== kuḍye  ====
   * walls --- [[books:sb:3:15:21|SB 3.15.21]]

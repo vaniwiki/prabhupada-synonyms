@@ -1,5 +1,11 @@
-~~Title:dvipapatti~~
-{{description>elephants.}}
+---json
+{
+    "name":"dvipapatti",
+    "h1":"dvipapatti",
+    "title":"dvipapatti",
+    "description":"elephants."
+}
+---
 
 ==== dvipapatti  ====
   * elephants --- [[books:sb:1:16:11|SB 1.16.11]]

@@ -1,5 +1,11 @@
-~~Title:maroṅ~~
-{{description>i am dying; I die.}}
+---json
+{
+    "name":"maroṅ",
+    "h1":"maroṅ",
+    "title":"maroṅ",
+    "description":"i am dying; I die."
+}
+---
 
 ==== maroṅ  ====
   * i am dying --- [[books:cc:antya:8:23|Antya 8.23]]

@@ -1,5 +1,11 @@
-~~Title:daiteya~~
-{{description>of the demoniac family.}}
+---json
+{
+    "name":"daiteya",
+    "h1":"daiteya",
+    "title":"daiteya",
+    "description":"of the demoniac family."
+}
+---
 
 ==== daiteya  ====
   * of the demoniac family --- [[books:sb:7:5:17|SB 7.5.17]]

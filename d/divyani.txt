@@ -1,5 +1,11 @@
-~~Title:divyāni~~
-{{description>divine; transcendental.}}
+---json
+{
+    "name":"divyāni",
+    "h1":"divyāni",
+    "title":"divyāni",
+    "description":"divine; transcendental."
+}
+---
 
 ==== divyāni  ====
   * divine --- [[books:bg:11:5|Bg. 11.5]]

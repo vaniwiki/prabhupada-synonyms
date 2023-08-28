@@ -1,5 +1,11 @@
-~~Title:narakasya~~
-{{description>hellish.}}
+---json
+{
+    "name":"narakasya",
+    "h1":"narakasya",
+    "title":"narakasya",
+    "description":"hellish."
+}
+---
 
 ==== narakasya  ====
   * hellish --- [[books:bg:16:21|Bg. 16.21]]

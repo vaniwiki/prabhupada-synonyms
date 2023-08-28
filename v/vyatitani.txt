@@ -1,5 +1,11 @@
-~~Title:vyatītāni~~
-{{description>have passed.}}
+---json
+{
+    "name":"vyatītāni",
+    "h1":"vyatītāni",
+    "title":"vyatītāni",
+    "description":"have passed."
+}
+---
 
 ==== vyatītāni  ====
   * have passed --- [[books:bg:4:5|Bg. 4.5]]

@@ -1,5 +1,11 @@
-~~Title:rādhāra~~
-{{description>of Srīmatī Rādhārāṇī; of Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"rādhāra",
+    "h1":"rādhāra",
+    "title":"rādhāra",
+    "description":"of Srīmatī Rādhārāṇī; of Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhāra  ====
   * of Srīmatī Rādhārāṇī --- [[books:cc:adi:17:291|Ādi 17.291]]

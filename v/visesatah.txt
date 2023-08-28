@@ -1,5 +1,11 @@
-~~Title:viśeṣataḥ~~
-{{description>above all; particularly; specifically.}}
+---json
+{
+    "name":"viśeṣataḥ",
+    "h1":"viśeṣataḥ",
+    "title":"viśeṣataḥ",
+    "description":"above all; particularly; specifically."
+}
+---
 
 ==== viśeṣataḥ  ====
   * above all --- [[books:cc:adi:4:118|Ādi 4.118]]

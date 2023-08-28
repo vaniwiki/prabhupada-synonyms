@@ -1,5 +1,11 @@
-~~Title:kṣamadhvam~~
-{{description>kindly excuse.}}
+---json
+{
+    "name":"kṣamadhvam",
+    "h1":"kṣamadhvam",
+    "title":"kṣamadhvam",
+    "description":"kindly excuse."
+}
+---
 
 ==== kṣamadhvam  ====
   * kindly excuse --- [[books:sb:10:4:23|SB 10.4.23]]

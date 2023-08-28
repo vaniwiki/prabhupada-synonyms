@@ -1,5 +1,11 @@
-~~Title:vilocana~~
-{{description>glancing.}}
+---json
+{
+    "name":"vilocana",
+    "h1":"vilocana",
+    "title":"vilocana",
+    "description":"glancing."
+}
+---
 
 ==== vilocana  ====
   * glancing --- [[books:cc:antya:1:191|Antya 1.191]]

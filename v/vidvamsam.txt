@@ -1,5 +1,11 @@
-~~Title:vidvāṁsam~~
-{{description>a person with knowledge of liberation; the very learned and advanced person.}}
+---json
+{
+    "name":"vidvāṁsam",
+    "h1":"vidvāṁsam",
+    "title":"vidvāṁsam",
+    "description":"a person with knowledge of liberation; the very learned and advanced person."
+}
+---
 
 ==== vidvāṁsam  ====
   * a person with knowledge of liberation --- [[books:cc:antya:2:119|Antya 2.119]]

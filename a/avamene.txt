@@ -1,5 +1,11 @@
-~~Title:avamene~~
-{{description>began to insult.}}
+---json
+{
+    "name":"avamene",
+    "h1":"avamene",
+    "title":"avamene",
+    "description":"began to insult."
+}
+---
 
 ==== avamene  ====
   * began to insult --- [[books:sb:4:14:4|SB 4.14.4]]

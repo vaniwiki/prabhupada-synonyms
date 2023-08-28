@@ -1,5 +1,11 @@
-~~Title:khedayā~~
-{{description>lamentation.}}
+---json
+{
+    "name":"khedayā",
+    "h1":"khedayā",
+    "title":"khedayā",
+    "description":"lamentation."
+}
+---
 
 ==== khedayā  ====
   * lamentation --- [[books:cc:madhya:10:119|Madhya 10.119]]

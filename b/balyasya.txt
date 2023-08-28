@@ -1,5 +1,11 @@
-~~Title:bālyasya~~
-{{description>of childhood.}}
+---json
+{
+    "name":"bālyasya",
+    "h1":"bālyasya",
+    "title":"bālyasya",
+    "description":"of childhood."
+}
+---
 
 ==== bālyasya  ====
   * of childhood --- [[books:cc:antya:1:153|Antya 1.153]]

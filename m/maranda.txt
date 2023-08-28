@@ -1,5 +1,11 @@
-~~Title:maranda~~
-{{description>like the nectar or juice of flowers.}}
+---json
+{
+    "name":"maranda",
+    "h1":"maranda",
+    "title":"maranda",
+    "description":"like the nectar or juice of flowers."
+}
+---
 
 ==== maranda  ====
   * like the nectar or juice of flowers --- [[books:cc:madhya:23:33|Madhya 23.33]]

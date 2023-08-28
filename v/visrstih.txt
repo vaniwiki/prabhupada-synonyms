@@ -1,5 +1,11 @@
-~~Title:visṛṣṭiḥ~~
-{{description>the whole creation.}}
+---json
+{
+    "name":"visṛṣṭiḥ",
+    "h1":"visṛṣṭiḥ",
+    "title":"visṛṣṭiḥ",
+    "description":"the whole creation."
+}
+---
 
 ==== visṛṣṭiḥ  ====
   * the whole creation --- [[books:cc:adi:4:118|Ādi 4.118]]

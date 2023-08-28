@@ -1,5 +1,11 @@
-~~Title:lekhaka~~
-{{description>writer.}}
+---json
+{
+    "name":"lekhaka",
+    "h1":"lekhaka",
+    "title":"lekhaka",
+    "description":"writer."
+}
+---
 
 ==== lekhaka  ====
   * writer --- [[books:cc:adi:7:45|Ādi 7.45]]

@@ -1,5 +1,11 @@
-~~Title:tinakavirāja~~
-{{description>all three are Kavirājas, or physicians.}}
+---json
+{
+    "name":"tinakavirāja",
+    "h1":"tinakavirāja",
+    "title":"tinakavirāja",
+    "description":"all three are Kavirājas, or physicians."
+}
+---
 
 ==== tinakavirāja  ====
   * all three are Kavirājas, or physicians --- [[books:cc:adi:11:51|Ādi 11.51]]

@@ -1,5 +1,11 @@
-~~Title:sanātane~~
-{{description>for Sanātana Gosvāmī; from Sanātana Gosvāmī; in Sanātana Gosvāmī; in the matter of eternal truth; Sanātana; Sanātana Gosvāmī; to Sanātana; to Sanātana Gosvāmī; unto Sanātana; unto Sanātana Gosvāmī; your elder brother, Sanātana Gosvāmī.}}
+---json
+{
+    "name":"sanātane",
+    "h1":"sanātane",
+    "title":"sanātane",
+    "description":"for Sanātana Gosvāmī; from Sanātana Gosvāmī; in Sanātana Gosvāmī; in the matter of eternal truth; Sanātana; Sanātana Gosvāmī; to Sanātana; to Sanātana Gosvāmī; unto Sanātana; unto Sanātana Gosvāmī; your elder brother, Sanātana Gosvāmī."
+}
+---
 
 ==== sanātane  ====
   * for Sanātana Gosvāmī --- [[books:cc:antya:4:117|Antya 4.117]]

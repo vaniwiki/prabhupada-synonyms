@@ -1,5 +1,11 @@
-~~Title:prāpti~~
-{{description>achievement; attainment; development; obtainment.}}
+---json
+{
+    "name":"prāpti",
+    "h1":"prāpti",
+    "title":"prāpti",
+    "description":"achievement; attainment; development; obtainment."
+}
+---
 
 ==== prāpti  ====
   * achievement --- [[books:cc:madhya:7:13|Madhya 7.13]]

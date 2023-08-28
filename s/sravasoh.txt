@@ -1,5 +1,11 @@
-~~Title:śravasoḥ~~
-{{description>of the two ears.}}
+---json
+{
+    "name":"śravasoḥ",
+    "h1":"śravasoḥ",
+    "title":"śravasoḥ",
+    "description":"of the two ears."
+}
+---
 
 ==== śravasoḥ  ====
   * of the two ears --- [[books:cc:antya:16:74|Antya 16.74]]

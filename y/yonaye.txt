@@ -1,5 +1,11 @@
-~~Title:yonaye~~
-{{description>source.}}
+---json
+{
+    "name":"yonaye",
+    "h1":"yonaye",
+    "title":"yonaye",
+    "description":"source."
+}
+---
 
 ==== yonaye  ====
   * source --- [[books:sb:3:15:5|SB 3.15.5]]

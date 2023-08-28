@@ -1,5 +1,11 @@
-~~Title:trāṇa~~
-{{description>O protector of the whole universe.}}
+---json
+{
+    "name":"trāṇa",
+    "h1":"trāṇa",
+    "title":"trāṇa",
+    "description":"O protector of the whole universe."
+}
+---
 
 ==== jagat-trāṇa  ====
   * O protector of the whole universe --- [[books:sb:9:5:9|SB 9.5.9]]

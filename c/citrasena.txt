@@ -1,5 +1,11 @@
-~~Title:citrasena~~
-{{description>Citrasena.}}
+---json
+{
+    "name":"citrasena",
+    "h1":"citrasena",
+    "title":"citrasena",
+    "description":"Citrasena."
+}
+---
 
 ==== citrasena  ====
   * Citrasena --- [[books:sb:8:13:30|SB 8.13.30]]

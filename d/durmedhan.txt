@@ -1,5 +1,11 @@
-~~Title:durmedhān~~
-{{description>dull-witted.}}
+---json
+{
+    "name":"durmedhān",
+    "h1":"durmedhān",
+    "title":"durmedhān",
+    "description":"dull-witted."
+}
+---
 
 ==== durmedhān  ====
   * dull-witted --- [[books:sb:1:4:17-18|SB 1.4.17-18]]

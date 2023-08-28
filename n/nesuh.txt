@@ -1,5 +1,11 @@
-~~Title:neśuḥ~~
-{{description>could not be performed.}}
+---json
+{
+    "name":"neśuḥ",
+    "h1":"neśuḥ",
+    "title":"neśuḥ",
+    "description":"could not be performed."
+}
+---
 
 ==== neśuḥ  ====
   * could not be performed --- [[books:sb:8:5:15-16|SB 8.5.15-16]]

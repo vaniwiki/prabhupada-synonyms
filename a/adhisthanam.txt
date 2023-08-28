@@ -1,5 +1,11 @@
-~~Title:adhiṣṭhānam~~
-{{description>background; place; sitting place; the abode.}}
+---json
+{
+    "name":"adhiṣṭhānam",
+    "h1":"adhiṣṭhānam",
+    "title":"adhiṣṭhānam",
+    "description":"background; place; sitting place; the abode."
+}
+---
 
 ==== adhiṣṭhānam  ====
   * background --- [[books:sb:2:5:2|SB 2.5.2]]

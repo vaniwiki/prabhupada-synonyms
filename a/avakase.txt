@@ -1,5 +1,11 @@
-~~Title:avakāśe~~
-{{description>opportunity.}}
+---json
+{
+    "name":"avakāśe",
+    "h1":"avakāśe",
+    "title":"avakāśe",
+    "description":"opportunity."
+}
+---
 
 ==== avakāśe  ====
   * opportunity --- [[books:cc:adi:4:141|Ādi 4.141]]

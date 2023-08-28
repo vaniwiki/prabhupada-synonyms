@@ -1,5 +1,11 @@
-~~Title:tathāñi~~
-{{description>there.}}
+---json
+{
+    "name":"tathāñi",
+    "h1":"tathāñi",
+    "title":"tathāñi",
+    "description":"there."
+}
+---
 
 ==== tathāñi  ====
   * there --- [[books:cc:madhya:19:58|Madhya 19.58]]

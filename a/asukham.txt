@@ -1,5 +1,11 @@
-~~Title:asukham~~
-{{description>but it is for distress only; sorrowful; without happiness.}}
+---json
+{
+    "name":"asukham",
+    "h1":"asukham",
+    "title":"asukham",
+    "description":"but it is for distress only; sorrowful; without happiness."
+}
+---
 
 ==== asukham  ====
   * but it is for distress only --- [[books:sb:8:24:47|SB 8.24.47]]

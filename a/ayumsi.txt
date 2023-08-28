@@ -1,5 +1,11 @@
-~~Title:āyūṁṣi~~
-{{description>or the duration of life.}}
+---json
+{
+    "name":"āyūṁṣi",
+    "h1":"āyūṁṣi",
+    "title":"āyūṁṣi",
+    "description":"or the duration of life."
+}
+---
 
 ==== āyūṁṣi  ====
   * or the duration of life --- [[books:sb:5:18:19|SB 5.18.19]]

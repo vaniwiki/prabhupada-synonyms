@@ -1,5 +1,11 @@
-~~Title:puccha~~
-{{description>at the end of the tail.}}
+---json
+{
+    "name":"puccha",
+    "h1":"puccha",
+    "title":"puccha",
+    "description":"at the end of the tail."
+}
+---
 
 ==== puccha-agre  ====
   * at the end of the tail --- [[books:sb:5:23:5|SB 5.23.5]]

@@ -1,5 +1,11 @@
-~~Title:niḥsvanān~~
-{{description>vibration.}}
+---json
+{
+    "name":"niḥsvanān",
+    "h1":"niḥsvanān",
+    "title":"niḥsvanān",
+    "description":"vibration."
+}
+---
 
 ==== niḥsvanān  ====
   * vibration --- [[books:sb:8:8:13|SB 8.8.13]]

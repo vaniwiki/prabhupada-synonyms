@@ -1,5 +1,11 @@
-~~Title:viśrāma~~
-{{description>lodging; rest; resting; resting chambers; resting place; the residence; the resting place; Viśrāma.}}
+---json
+{
+    "name":"viśrāma",
+    "h1":"viśrāma",
+    "title":"viśrāma",
+    "description":"lodging; rest; resting; resting chambers; resting place; the residence; the resting place; Viśrāma."
+}
+---
 
 ==== viśrāma  ====
   * lodging --- [[books:cc:madhya:10:92|Madhya 10.92]]

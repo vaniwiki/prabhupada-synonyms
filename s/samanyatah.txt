@@ -1,5 +1,11 @@
-~~Title:sāmānyataḥ~~
-{{description>generally.}}
+---json
+{
+    "name":"sāmānyataḥ",
+    "h1":"sāmānyataḥ",
+    "title":"sāmānyataḥ",
+    "description":"generally."
+}
+---
 
 ==== sāmānyataḥ  ====
   * generally --- [[books:sb:7:7:38|SB 7.7.38]]

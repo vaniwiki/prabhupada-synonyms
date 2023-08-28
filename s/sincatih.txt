@@ -1,5 +1,11 @@
-~~Title:siñcatīḥ~~
-{{description>throwing water.}}
+---json
+{
+    "name":"siñcatīḥ",
+    "h1":"siñcatīḥ",
+    "title":"siñcatīḥ",
+    "description":"throwing water."
+}
+---
 
 ==== siñcatīḥ  ====
   * throwing water --- [[books:sb:9:18:8|SB 9.18.8]]

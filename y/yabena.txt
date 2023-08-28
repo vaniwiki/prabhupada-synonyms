@@ -1,5 +1,11 @@
-~~Title:yābena~~
-{{description>He will go away; will go; will return.}}
+---json
+{
+    "name":"yābena",
+    "h1":"yābena",
+    "title":"yābena",
+    "description":"He will go away; will go; will return."
+}
+---
 
 ==== yābena  ====
   * He will go away --- [[books:cc:madhya:11:43|Madhya 11.43]]

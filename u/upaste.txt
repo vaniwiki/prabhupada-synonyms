@@ -1,5 +1,11 @@
-~~Title:upāste~~
-{{description>acts according to; is situated; offers obeisances to and worships; remains; worships.}}
+---json
+{
+    "name":"upāste",
+    "h1":"upāste",
+    "title":"upāste",
+    "description":"acts according to; is situated; offers obeisances to and worships; remains; worships."
+}
+---
 
 ==== upāste  ====
   * acts according to --- [[books:sb:6:1:49|SB 6.1.49]]

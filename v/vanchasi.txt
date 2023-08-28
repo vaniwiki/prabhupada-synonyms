@@ -1,5 +1,11 @@
-~~Title:vāñchasi~~
-{{description>You desire.}}
+---json
+{
+    "name":"vāñchasi",
+    "h1":"vāñchasi",
+    "title":"vāñchasi",
+    "description":"You desire."
+}
+---
 
 ==== vāñchasi  ====
   * You desire --- [[books:sb:8:18:32|SB 8.18.32]]

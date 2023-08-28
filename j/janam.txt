@@ -1,5 +1,11 @@
-~~Title:janam~~
-{{description>a devotee; a living entity or human being; a person; all people; followers; living entities; people in general; persons; the general mass of people; the living entity; the people in general; those who are born; to all living entities (thinking all of them to be engaged in the service of the Lord); to Janaloka; to people in general.}}
+---json
+{
+    "name":"janam",
+    "h1":"janam",
+    "title":"janam",
+    "description":"a devotee; a living entity or human being; a person; all people; followers; living entities; people in general; persons; the general mass of people; the living entity; the people in general; those who are born; to all living entities (thinking all of them to be engaged in the service of the Lord); to Janaloka; to people in general."
+}
+---
 
 ==== janam  ====
   * a devotee --- [[books:cc:madhya:22:160|Madhya 22.160]]

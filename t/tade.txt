@@ -1,5 +1,11 @@
-~~Title:tāḍe~~
-{{description>pulls the ear.}}
+---json
+{
+    "name":"tāḍe",
+    "h1":"tāḍe",
+    "title":"tāḍe",
+    "description":"pulls the ear."
+}
+---
 
 ==== karṇa-utpale tāḍe  ====
   * pulls the ear --- [[books:cc:madhya:14:147|Madhya 14.147]]

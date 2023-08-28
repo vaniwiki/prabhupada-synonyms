@@ -1,5 +1,11 @@
-~~Title:apūjayat~~
-{{description>worshiped; worshiped them or satisfied them.}}
+---json
+{
+    "name":"apūjayat",
+    "h1":"apūjayat",
+    "title":"apūjayat",
+    "description":"worshiped; worshiped them or satisfied them."
+}
+---
 
 ==== apūjayat  ====
   * worshiped --- [[books:sb:6:12:18|SB 6.12.18]]

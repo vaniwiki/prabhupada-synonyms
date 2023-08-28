@@ -1,5 +1,11 @@
-~~Title:krtam~~
-{{description>all that has been done by me; all that I have done for You; already done; as performed; by so doing; created; did; done; due to; executed; forced into this position; has been committed; has been done; having been done; is completed; magnanimous work; performed; produced; so accepted; the action done; the age of Satya; the order; the work executed; was committed; was created; was done; was performed; what is done; which had been done; which had been performed; you have done.}}
+---json
+{
+    "name":"krtam",
+    "h1":"krtam",
+    "title":"krtam",
+    "description":"all that has been done by me; all that I have done for You; already done; as performed; by so doing; created; did; done; due to; executed; forced into this position; has been committed; has been done; having been done; is completed; magnanimous work; performed; produced; so accepted; the action done; the age of Satya; the order; the work executed; was committed; was created; was done; was performed; what is done; which had been done; which had been performed; you have done."
+}
+---
 
 ==== kṛtam  ====
   * all that has been done by me --- [[books:iso:17|Īśo 17]]

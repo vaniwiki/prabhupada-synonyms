@@ -1,5 +1,11 @@
-~~Title:abhyanujñātaḥ~~
-{{description>being permitted.}}
+---json
+{
+    "name":"abhyanujñātaḥ",
+    "h1":"abhyanujñātaḥ",
+    "title":"abhyanujñātaḥ",
+    "description":"being permitted."
+}
+---
 
 ==== abhyanujñātaḥ  ====
   * being permitted --- [[books:sb:1:10:8|SB 1.10.8]], [[books:sb:1:12:36|SB 1.12.36]], [[books:sb:6:18:77|SB 6.18.77]]

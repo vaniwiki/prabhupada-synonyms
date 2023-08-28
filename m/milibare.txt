@@ -1,5 +1,11 @@
-~~Title:milibāre~~
-{{description>for meeting; to meet.}}
+---json
+{
+    "name":"milibāre",
+    "h1":"milibāre",
+    "title":"milibāre",
+    "description":"for meeting; to meet."
+}
+---
 
 ==== milibāre  ====
   * for meeting --- [[books:cc:madhya:11:106|Madhya 11.106]], [[books:cc:madhya:12:41|Madhya 12.41]]

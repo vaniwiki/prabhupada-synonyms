@@ -1,5 +1,11 @@
-~~Title:labhe~~
-{{description>in gain.}}
+---json
+{
+    "name":"labhe",
+    "h1":"labhe",
+    "title":"labhe",
+    "description":"in gain."
+}
+---
 
 ==== lābhe  ====
   * in gain --- [[books:cc:madhya:22:119|Madhya 22.119]]

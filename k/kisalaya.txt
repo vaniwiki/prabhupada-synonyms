@@ -1,5 +1,11 @@
-~~Title:kisalaya~~
-{{description>new twigs; newly grown.}}
+---json
+{
+    "name":"kisalaya",
+    "h1":"kisalaya",
+    "title":"kisalaya",
+    "description":"new twigs; newly grown."
+}
+---
 
 ==== kisalaya  ====
   * new twigs --- [[books:sb:5:24:10|SB 5.24.10]]

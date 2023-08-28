@@ -1,5 +1,11 @@
-~~Title:viparyāsam~~
-{{description>the opposite.}}
+---json
+{
+    "name":"viparyāsam",
+    "h1":"viparyāsam",
+    "title":"viparyāsam",
+    "description":"the opposite."
+}
+---
 
 ==== viparyāsam  ====
   * the opposite --- [[books:sb:7:7:41|SB 7.7.41]]

@@ -1,5 +1,11 @@
-~~Title:icchet~~
-{{description>desire; desires; may desire.}}
+---json
+{
+    "name":"icchet",
+    "h1":"icchet",
+    "title":"icchet",
+    "description":"desire; desires; may desire."
+}
+---
 
 ==== icchet  ====
   * desire --- [[books:sb:1:5:19|SB 1.5.19]]

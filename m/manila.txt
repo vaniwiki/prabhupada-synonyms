@@ -1,5 +1,11 @@
-~~Title:manila~~
-{{description>accepted.}}
+---json
+{
+    "name":"manila",
+    "h1":"manila",
+    "title":"manila",
+    "description":"accepted."
+}
+---
 
 ==== mānila  ====
   * accepted --- [[books:cc:adi:12:68|Ādi 12.68]], [[books:cc:adi:17:187|Ādi 17.187]], [[books:cc:madhya:7:33|Madhya 7.33]], [[books:cc:madhya:8:49|Madhya 8.49]]

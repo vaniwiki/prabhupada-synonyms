@@ -1,5 +1,11 @@
-~~Title:aprajasya~~
-{{description>of he who had no son; of one who did not have a son before; of Vicitravīrya, who had no progeny; who had no sons.}}
+---json
+{
+    "name":"aprajasya",
+    "h1":"aprajasya",
+    "title":"aprajasya",
+    "description":"of he who had no son; of one who did not have a son before; of Vicitravīrya, who had no progeny; who had no sons."
+}
+---
 
 ==== aprajasya  ====
   * of he who had no son --- [[books:sb:9:1:13|SB 9.1.13]]

@@ -1,5 +1,11 @@
-~~Title:prakṣīṇān~~
-{{description>being very weak (formerly).}}
+---json
+{
+    "name":"prakṣīṇān",
+    "h1":"prakṣīṇān",
+    "title":"prakṣīṇān",
+    "description":"being very weak (formerly)."
+}
+---
 
 ==== prakṣīṇān  ====
   * being very weak (formerly) --- [[books:sb:6:7:23|SB 6.7.23]]

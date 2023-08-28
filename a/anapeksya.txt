@@ -1,5 +1,11 @@
-~~Title:anapekṣya~~
-{{description>without consideration of consequences.}}
+---json
+{
+    "name":"anapekṣya",
+    "h1":"anapekṣya",
+    "title":"anapekṣya",
+    "description":"without consideration of consequences."
+}
+---
 
 ==== anapekṣya  ====
   * without consideration of consequences --- [[books:bg:18:25|Bg. 18.25]]

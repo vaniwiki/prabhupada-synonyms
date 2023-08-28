@@ -1,5 +1,11 @@
-~~Title:seivipra~~
-{{description>that brāhmaṇa.}}
+---json
+{
+    "name":"seivipra",
+    "h1":"seivipra",
+    "title":"seivipra",
+    "description":"that brāhmaṇa."
+}
+---
 
 ==== seivipra  ====
   * that //brāhmaṇa// --- [[books:cc:madhya:9:19|Madhya 9.19]], [[books:cc:madhya:9:107|Madhya 9.107]]

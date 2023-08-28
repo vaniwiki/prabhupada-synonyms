@@ -1,5 +1,11 @@
-~~Title:vanāt~~
-{{description>from one forest; from the forest; from the water.}}
+---json
+{
+    "name":"vanāt",
+    "h1":"vanāt",
+    "title":"vanāt",
+    "description":"from one forest; from the forest; from the water."
+}
+---
 
 ==== vanāt  ====
   * from one forest --- [[books:cc:madhya:25:130|Madhya 25.130]]

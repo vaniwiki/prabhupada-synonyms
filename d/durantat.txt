@@ -1,5 +1,11 @@
-~~Title:durantāt~~
-{{description>endless; very great.}}
+---json
+{
+    "name":"durantāt",
+    "h1":"durantāt",
+    "title":"durantāt",
+    "description":"endless; very great."
+}
+---
 
 ==== durantāt  ====
   * endless --- [[books:sb:6:9:23|SB 6.9.23]]

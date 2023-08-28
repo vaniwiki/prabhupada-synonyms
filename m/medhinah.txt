@@ -1,5 +1,11 @@
-~~Title:medhinaḥ~~
-{{description>persons living at home; persons who are attached to family life.}}
+---json
+{
+    "name":"medhinaḥ",
+    "h1":"medhinaḥ",
+    "title":"medhinaḥ",
+    "description":"persons living at home; persons who are attached to family life."
+}
+---
 
 ==== gṛha-medhinaḥ  ====
   * persons living at home --- [[books:sb:4:13:43|SB 4.13.43]]

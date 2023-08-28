@@ -1,5 +1,11 @@
-~~Title:adhigamaḥ~~
-{{description>who has achieved knowledge of the self.}}
+---json
+{
+    "name":"adhigamaḥ",
+    "h1":"adhigamaḥ",
+    "title":"adhigamaḥ",
+    "description":"who has achieved knowledge of the self."
+}
+---
 
 ==== sva-ātma-lābha-adhigamaḥ  ====
   * who has achieved knowledge of the self --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

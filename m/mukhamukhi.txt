@@ -1,5 +1,11 @@
-~~Title:mukhāmukhi~~
-{{description>face to face.}}
+---json
+{
+    "name":"mukhāmukhi",
+    "h1":"mukhāmukhi",
+    "title":"mukhāmukhi",
+    "description":"face to face."
+}
+---
 
 ==== mukhāmukhi  ====
   * face to face --- [[books:cc:antya:18:87|Antya 18.87]]

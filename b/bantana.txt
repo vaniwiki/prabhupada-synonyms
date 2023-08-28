@@ -1,5 +1,11 @@
-~~Title:baṇṭana~~
-{{description>shared.}}
+---json
+{
+    "name":"baṇṭana",
+    "h1":"baṇṭana",
+    "title":"baṇṭana",
+    "description":"shared."
+}
+---
 
 ==== karila baṇṭana  ====
   * shared --- [[books:cc:madhya:14:67|Madhya 14.67]]

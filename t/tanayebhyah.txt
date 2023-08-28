@@ -1,5 +1,11 @@
-~~Title:tanayebhyaḥ~~
-{{description>among his sons.}}
+---json
+{
+    "name":"tanayebhyaḥ",
+    "h1":"tanayebhyaḥ",
+    "title":"tanayebhyaḥ",
+    "description":"among his sons."
+}
+---
 
 ==== tanayebhyaḥ  ====
   * among his sons --- [[books:sb:4:28:33|SB 4.28.33]]

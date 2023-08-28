@@ -1,5 +1,11 @@
-~~Title:prakāmam~~
-{{description>however You desire.}}
+---json
+{
+    "name":"prakāmam",
+    "h1":"prakāmam",
+    "title":"prakāmam",
+    "description":"however You desire."
+}
+---
 
 ==== prakāmam  ====
   * however You desire --- [[books:mm:6|MM 6]]

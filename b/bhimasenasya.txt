@@ -1,5 +1,11 @@
-~~Title:bhīmasenasya~~
-{{description>of Śrī Bhīmasena.}}
+---json
+{
+    "name":"bhīmasenasya",
+    "h1":"bhīmasenasya",
+    "title":"bhīmasenasya",
+    "description":"of Śrī Bhīmasena."
+}
+---
 
 ==== bhīmasenasya  ====
   * of Śrī Bhīmasena --- [[books:sb:1:7:53-54|SB 1.7.53-54]]

@@ -1,5 +1,11 @@
-~~Title:kṣaṇeke~~
-{{description>after just a few moments; in a moment; in a second; within a moment.}}
+---json
+{
+    "name":"kṣaṇeke",
+    "h1":"kṣaṇeke",
+    "title":"kṣaṇeke",
+    "description":"after just a few moments; in a moment; in a second; within a moment."
+}
+---
 
 ==== kṣaṇeke  ====
   * after just a few moments --- [[books:cc:madhya:9:291|Madhya 9.291]]

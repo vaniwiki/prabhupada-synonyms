@@ -1,5 +1,11 @@
-~~Title:kīrtimān~~
-{{description>famous for good works.}}
+---json
+{
+    "name":"kīrtimān",
+    "h1":"kīrtimān",
+    "title":"kīrtimān",
+    "description":"famous for good works."
+}
+---
 
 ==== kīrtimān  ====
   * famous for good works --- [[books:cc:madhya:23:75|Madhya 23.75]]

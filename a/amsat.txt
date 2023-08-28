@@ -1,5 +1,11 @@
-~~Title:aṁśāt~~
-{{description>from he who was the incarnation of the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"aṁśāt",
+    "h1":"aṁśāt",
+    "title":"aṁśāt",
+    "description":"from he who was the incarnation of the Supreme Personality of Godhead."
+}
+---
 
 ==== hareḥ aṁśāt  ====
   * from he who was the incarnation of the Supreme Personality of Godhead --- [[books:sb:9:23:24|SB 9.23.24]]

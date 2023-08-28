@@ -1,5 +1,11 @@
-~~Title:atri~~
-{{description>Atri and Aṅgirā.}}
+---json
+{
+    "name":"atri",
+    "h1":"atri",
+    "title":"atri",
+    "description":"Atri and Aṅgirā."
+}
+---
 
 ==== atri-aṅgirasau  ====
   * Atri and Aṅgirā --- [[books:sb:4:29:42-44|SB 4.29.42-44]]

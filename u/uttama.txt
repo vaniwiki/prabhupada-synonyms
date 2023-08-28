@@ -1,5 +1,11 @@
-~~Title:uttama~~
-{{description>all of the foremost quality; best; celestial; enlightened; first class; first-class; good; one who is greater; the best; topmost; transcendental; upper; very good; very nice; very well.}}
+---json
+{
+    "name":"uttama",
+    "h1":"uttama",
+    "title":"uttama",
+    "description":"all of the foremost quality; best; celestial; enlightened; first class; first-class; good; one who is greater; the best; topmost; transcendental; upper; very good; very nice; very well."
+}
+---
 
 ==== uttama  ====
   * all of the foremost quality --- [[books:cc:madhya:14:25|Madhya 14.25]]

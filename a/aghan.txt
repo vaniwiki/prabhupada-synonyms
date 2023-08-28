@@ -1,5 +1,11 @@
-~~Title:aghān~~
-{{description>all the culprits.}}
+---json
+{
+    "name":"aghān",
+    "h1":"aghān",
+    "title":"aghān",
+    "description":"all the culprits."
+}
+---
 
 ==== aghān  ====
   * all the culprits --- [[books:sb:3:21:52-54|SB 3.21.52-54]]

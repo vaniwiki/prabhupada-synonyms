@@ -1,5 +1,11 @@
-~~Title:anyaya~~
-{{description>by the other; with another she-goat.}}
+---json
+{
+    "name":"anyaya",
+    "h1":"anyaya",
+    "title":"anyaya",
+    "description":"by the other; with another she-goat."
+}
+---
 
 ==== anyayā  ====
   * by the other --- [[books:bg:8:26|Bg. 8.26]]

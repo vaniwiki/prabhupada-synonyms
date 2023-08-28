@@ -1,5 +1,11 @@
-~~Title:vidhuram~~
-{{description>without any beneficial object.}}
+---json
+{
+    "name":"vidhuram",
+    "h1":"vidhuram",
+    "title":"vidhuram",
+    "description":"without any beneficial object."
+}
+---
 
 ==== priya-artha-vidhuram  ====
   * without any beneficial object --- [[books:sb:5:14:15|SB 5.14.15]]

@@ -1,5 +1,11 @@
-~~Title:prabhavet~~
-{{description>can exert its influence; exhibit; flourish.}}
+---json
+{
+    "name":"prabhavet",
+    "h1":"prabhavet",
+    "title":"prabhavet",
+    "description":"can exert its influence; exhibit; flourish."
+}
+---
 
 ==== prabhavet  ====
   * can exert its influence --- [[books:sb:1:11:6|SB 1.11.6]]

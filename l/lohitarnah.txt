@@ -1,5 +1,11 @@
-~~Title:lohitārṇaḥ~~
-{{description>Lohitārṇa.}}
+---json
+{
+    "name":"lohitārṇaḥ",
+    "h1":"lohitārṇaḥ",
+    "title":"lohitārṇaḥ",
+    "description":"Lohitārṇa."
+}
+---
 
 ==== lohitārṇaḥ  ====
   * Lohitārṇa --- [[books:sb:5:20:21|SB 5.20.21]]

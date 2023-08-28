@@ -1,5 +1,11 @@
-~~Title:dyotamānā~~
-{{description>shining.}}
+---json
+{
+    "name":"dyotamānā",
+    "h1":"dyotamānā",
+    "title":"dyotamānā",
+    "description":"shining."
+}
+---
 
 ==== dyotamānā  ====
   * shining --- [[books:cc:adi:4:84|Ādi 4.84]]

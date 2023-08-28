@@ -1,5 +1,11 @@
-~~Title:vidūrathāt~~
-{{description>from Vidūratha, the son of Citraratha.}}
+---json
+{
+    "name":"vidūrathāt",
+    "h1":"vidūrathāt",
+    "title":"vidūrathāt",
+    "description":"from Vidūratha, the son of Citraratha."
+}
+---
 
 ==== vidūrathāt  ====
   * from Vidūratha, the son of Citraratha --- [[books:sb:9:24:26|SB 9.24.26]]

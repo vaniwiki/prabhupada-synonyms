@@ -1,5 +1,11 @@
-~~Title:vyatiṣakta~~
-{{description>whose arrangement of hair was decorated with a garland of mallikā flowers.}}
+---json
+{
+    "name":"vyatiṣakta",
+    "h1":"vyatiṣakta",
+    "title":"vyatiṣakta",
+    "description":"whose arrangement of hair was decorated with a garland of mallikā flowers."
+}
+---
 
 ==== keśa-bandha-vyatiṣakta-mallikām  ====
   * whose arrangement of hair was decorated with a garland of //mallikā// flowers --- [[books:sb:10:6:5-6|SB 10.6.5-6]]

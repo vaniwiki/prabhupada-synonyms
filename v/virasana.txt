@@ -1,5 +1,11 @@
-~~Title:vīrāsana~~
-{{description>taking the vow of vīrāsana, standing with a sword.}}
+---json
+{
+    "name":"vīrāsana",
+    "h1":"vīrāsana",
+    "title":"vīrāsana",
+    "description":"taking the vow of vīrāsana, standing with a sword."
+}
+---
 
 ==== vīrāsana-vrataḥ  ====
   * taking the vow of //vīrāsana,// standing with a sword --- [[books:sb:9:2:3|SB 9.2.3]]

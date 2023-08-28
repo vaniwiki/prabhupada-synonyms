@@ -1,5 +1,11 @@
-~~Title:gaudiya~~
-{{description>Bengali; Bengali devotees; Bengali Vaiṣṇava; Bengalis; devotees from Bengal; the Bengalis.}}
+---json
+{
+    "name":"gaudiya",
+    "h1":"gaudiya",
+    "title":"gaudiya",
+    "description":"Bengali; Bengali devotees; Bengali Vaiṣṇava; Bengalis; devotees from Bengal; the Bengalis."
+}
+---
 
 ==== gauḍiyā  ====
   * Bengali --- [[books:cc:antya:13:35|Antya 13.35]]

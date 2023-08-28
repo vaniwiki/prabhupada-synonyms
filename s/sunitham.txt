@@ -1,5 +1,11 @@
-~~Title:sunīthām~~
-{{description>of the name Sunīthā.}}
+---json
+{
+    "name":"sunīthām",
+    "h1":"sunīthām",
+    "title":"sunīthām",
+    "description":"of the name Sunīthā."
+}
+---
 
 ==== sunīthām  ====
   * of the name Sunīthā --- [[books:sb:4:14:2|SB 4.14.2]]

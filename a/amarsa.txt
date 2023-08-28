@@ -1,5 +1,11 @@
-~~Title:amarsa~~
-{{description>of deliberation.}}
+---json
+{
+    "name":"amarsa",
+    "h1":"amarsa",
+    "title":"amarsa",
+    "description":"of deliberation."
+}
+---
 
 ==== amarśa  ====
   * of deliberation --- [[books:sb:4:28:40|SB 4.28.40]]

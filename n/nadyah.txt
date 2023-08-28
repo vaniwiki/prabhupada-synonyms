@@ -1,5 +1,11 @@
-~~Title:nadyah~~
-{{description>rivers; sacred rivers; small rivers; the rivers; the rivers or river-gods.}}
+---json
+{
+    "name":"nadyah",
+    "h1":"nadyah",
+    "title":"nadyah",
+    "description":"rivers; sacred rivers; small rivers; the rivers; the rivers or river-gods."
+}
+---
 
 ==== nadyaḥ  ====
   * rivers --- [[books:sb:1:10:5|SB 1.10.5]], [[books:sb:1:14:18|SB 1.14.18]], [[books:sb:5:20:21|SB 5.20.21]]

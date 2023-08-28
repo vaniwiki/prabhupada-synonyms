@@ -1,5 +1,11 @@
-~~Title:vihātum~~
-{{description>to give up; willing to give up.}}
+---json
+{
+    "name":"vihātum",
+    "h1":"vihātum",
+    "title":"vihātum",
+    "description":"to give up; willing to give up."
+}
+---
 
 ==== vihātum  ====
   * to give up --- [[books:sb:5:19:6|SB 5.19.6]]

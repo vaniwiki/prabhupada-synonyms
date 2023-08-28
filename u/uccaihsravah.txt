@@ -1,5 +1,11 @@
-~~Title:uccaiḥśravāḥ~~
-{{description>by the name Uccaiḥśravā.}}
+---json
+{
+    "name":"uccaiḥśravāḥ",
+    "h1":"uccaiḥśravāḥ",
+    "title":"uccaiḥśravāḥ",
+    "description":"by the name Uccaiḥśravā."
+}
+---
 
 ==== uccaiḥśravāḥ nāma  ====
   * by the name Uccaiḥśravā --- [[books:sb:8:8:3|SB 8.8.3]]

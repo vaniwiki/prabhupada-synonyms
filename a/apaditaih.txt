@@ -1,5 +1,11 @@
-~~Title:āpāditaiḥ~~
-{{description>secured.}}
+---json
+{
+    "name":"āpāditaiḥ",
+    "h1":"āpāditaiḥ",
+    "title":"āpāditaiḥ",
+    "description":"secured."
+}
+---
 
 ==== āpāditaiḥ  ====
   * secured --- [[books:sb:3:30:10|SB 3.30.10]]

@@ -1,5 +1,11 @@
-~~Title:svajanam~~
-{{description>kinsmen; own kinsmen.}}
+---json
+{
+    "name":"svajanam",
+    "h1":"svajanam",
+    "title":"svajanam",
+    "description":"kinsmen; own kinsmen."
+}
+---
 
 ==== svajanam  ====
   * kinsmen --- [[books:bg:1:28|Bg. 1.28]], [[books:bg:1:36|Bg. 1.36]], [[books:bg:1:44|Bg. 1.44]]

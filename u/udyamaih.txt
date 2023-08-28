@@ -1,5 +1,11 @@
-~~Title:udyamaiḥ~~
-{{description>by great attempts and various weapons; by their endeavors; whose endeavors.}}
+---json
+{
+    "name":"udyamaiḥ",
+    "h1":"udyamaiḥ",
+    "title":"udyamaiḥ",
+    "description":"by great attempts and various weapons; by their endeavors; whose endeavors."
+}
+---
 
 ==== udyamaiḥ  ====
   * by great attempts and various weapons --- [[books:sb:7:1:43|SB 7.1.43]]

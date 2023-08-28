@@ -1,5 +1,11 @@
-~~Title:tarṣam~~
-{{description>the desire for material enjoyment.}}
+---json
+{
+    "name":"tarṣam",
+    "h1":"tarṣam",
+    "title":"tarṣam",
+    "description":"the desire for material enjoyment."
+}
+---
 
 ==== tarṣam  ====
   * the desire for material enjoyment --- [[books:sb:10:10:17|SB 10.10.17]]

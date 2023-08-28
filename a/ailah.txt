@@ -1,5 +1,11 @@
-~~Title:ailaḥ~~
-{{description>Purūravā.}}
+---json
+{
+    "name":"ailaḥ",
+    "h1":"ailaḥ",
+    "title":"ailaḥ",
+    "description":"Purūravā."
+}
+---
 
 ==== ailaḥ  ====
   * Purūravā --- [[books:sb:9:14:32|SB 9.14.32]]

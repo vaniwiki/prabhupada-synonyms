@@ -1,5 +1,11 @@
-~~Title:viśveśvara~~
-{{description>O Lord of the universe; the deity of Vārāṇasī.}}
+---json
+{
+    "name":"viśveśvara",
+    "h1":"viśveśvara",
+    "title":"viśveśvara",
+    "description":"O Lord of the universe; the deity of Vārāṇasī."
+}
+---
 
 ==== viśveśvara  ====
   * O Lord of the universe --- [[books:bg:11:16|Bg. 11.16]]

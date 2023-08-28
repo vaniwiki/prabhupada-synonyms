@@ -1,5 +1,11 @@
-~~Title:pratīkṣeta~~
-{{description>one must observe.}}
+---json
+{
+    "name":"pratīkṣeta",
+    "h1":"pratīkṣeta",
+    "title":"pratīkṣeta",
+    "description":"one must observe."
+}
+---
 
 ==== pratīkṣeta  ====
   * one must observe --- [[books:sb:7:13:6|SB 7.13.6]]

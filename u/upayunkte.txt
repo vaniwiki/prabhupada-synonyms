@@ -1,5 +1,11 @@
-~~Title:upayuṅkte~~
-{{description>enjoys.}}
+---json
+{
+    "name":"upayuṅkte",
+    "h1":"upayuṅkte",
+    "title":"upayuṅkte",
+    "description":"enjoys."
+}
+---
 
 ==== upayuṅkte  ====
   * enjoys --- [[books:sb:5:26:9|SB 5.26.9]]

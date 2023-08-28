@@ -1,5 +1,11 @@
-~~Title:supārśvaḥ~~
-{{description>the mountain named Supārśva.}}
+---json
+{
+    "name":"supārśvaḥ",
+    "h1":"supārśvaḥ",
+    "title":"supārśvaḥ",
+    "description":"the mountain named Supārśva."
+}
+---
 
 ==== supārśvaḥ  ====
   * the mountain named Supārśva --- [[books:sb:5:16:11|SB 5.16.11]]

@@ -1,5 +1,11 @@
-~~Title:śibirāya~~
-{{description>on the way to the military camp.}}
+---json
+{
+    "name":"śibirāya",
+    "h1":"śibirāya",
+    "title":"śibirāya",
+    "description":"on the way to the military camp."
+}
+---
 
 ==== śibirāya  ====
   * on the way to the military camp --- [[books:sb:1:7:34|SB 1.7.34]]

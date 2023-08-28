@@ -1,5 +1,11 @@
-~~Title:vāhāya~~
-{{description>and the chariots, the elephants, the horses or the men who carried the palanquins; upon him whose carrier.}}
+---json
+{
+    "name":"vāhāya",
+    "h1":"vāhāya",
+    "title":"vāhāya",
+    "description":"and the chariots, the elephants, the horses or the men who carried the palanquins; upon him whose carrier."
+}
+---
 
 ==== vāhāya  ====
   * and the chariots, the elephants, the horses or the men who carried the palanquins --- [[books:sb:9:15:24|SB 9.15.24]]

@@ -1,5 +1,11 @@
-~~Title:patnīḥ~~
-{{description>the women.}}
+---json
+{
+    "name":"patnīḥ",
+    "h1":"patnīḥ",
+    "title":"patnīḥ",
+    "description":"the women."
+}
+---
 
 ==== patnīḥ  ====
   * the women --- [[books:sb:4:5:16|SB 4.5.16]]

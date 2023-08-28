@@ -1,5 +1,11 @@
-~~Title:samjnitam~~
-{{description>in the matter of; is described as; known as; so designated.}}
+---json
+{
+    "name":"samjnitam",
+    "h1":"samjnitam",
+    "title":"samjnitam",
+    "description":"in the matter of; is described as; known as; so designated."
+}
+---
 
 ==== saṁjñitam  ====
   * in the matter of --- [[books:bg:11:1|Bg. 11.1]]

@@ -1,5 +1,11 @@
-~~Title:arhat~~
-{{description>whose name was Arhat (now known as the Jain).}}
+---json
+{
+    "name":"arhat",
+    "h1":"arhat",
+    "title":"arhat",
+    "description":"whose name was Arhat (now known as the Jain)."
+}
+---
 
 ==== arhat-nāma  ====
   * whose name was Arhat (now known as the Jain) --- [[books:sb:5:6:9|SB 5.6.9]]

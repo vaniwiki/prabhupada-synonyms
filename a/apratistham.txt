@@ -1,5 +1,11 @@
-~~Title:apratiṣṭham~~
-{{description>without foundation.}}
+---json
+{
+    "name":"apratiṣṭham",
+    "h1":"apratiṣṭham",
+    "title":"apratiṣṭham",
+    "description":"without foundation."
+}
+---
 
 ==== apratiṣṭham  ====
   * without foundation --- [[books:bg:16:8|Bg. 16.8]]

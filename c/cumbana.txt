@@ -1,5 +1,11 @@
-~~Title:cumbana~~
-{{description>kissing and similar activities.}}
+---json
+{
+    "name":"cumbana",
+    "h1":"cumbana",
+    "title":"cumbana",
+    "description":"kissing and similar activities."
+}
+---
 
 ==== cumbana-ādi  ====
   * kissing and similar activities --- [[books:cc:madhya:23:59|Madhya 23.59]]

@@ -1,5 +1,11 @@
-~~Title:ripavaḥ~~
-{{description>enemies; persons who were supposed to have been Prahlāda Mahārāja's enemies (even such a devotee as Prahlāda Mahārāja had enemies, including even his own father).}}
+---json
+{
+    "name":"ripavaḥ",
+    "h1":"ripavaḥ",
+    "title":"ripavaḥ",
+    "description":"enemies; persons who were supposed to have been Prahlāda Mahārāja's enemies (even such a devotee as Prahlāda Mahārāja had enemies, including even his own father)."
+}
+---
 
 ==== ripavaḥ  ====
   * enemies --- [[books:sb:3:15:34|SB 3.15.34]]

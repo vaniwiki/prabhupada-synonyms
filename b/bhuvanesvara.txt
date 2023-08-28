@@ -1,5 +1,11 @@
-~~Title:bhuvaneśvara~~
-{{description>reached the place known as Bhuvaneśvara.}}
+---json
+{
+    "name":"bhuvaneśvara",
+    "h1":"bhuvaneśvara",
+    "title":"bhuvaneśvara",
+    "description":"reached the place known as Bhuvaneśvara."
+}
+---
 
 ==== bhuvaneśvara āilā  ====
   * reached the place known as Bhuvaneśvara --- [[books:cc:madhya:16:99|Madhya 16.99]]

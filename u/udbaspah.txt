@@ -1,5 +1,11 @@
-~~Title:udbāṣpaḥ~~
-{{description>full of tears.}}
+---json
+{
+    "name":"udbāṣpaḥ",
+    "h1":"udbāṣpaḥ",
+    "title":"udbāṣpaḥ",
+    "description":"full of tears."
+}
+---
 
 ==== udbāṣpaḥ  ====
   * full of tears --- [[books:cc:madhya:23:37|Madhya 23.37]]

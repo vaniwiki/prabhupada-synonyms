@@ -1,5 +1,11 @@
-~~Title:ajnaya~~
-{{description>not knowing; unto a foolish person not conversant with the ultimate goal of life; without knowing.}}
+---json
+{
+    "name":"ajnaya",
+    "h1":"ajnaya",
+    "title":"ajnaya",
+    "description":"not knowing; unto a foolish person not conversant with the ultimate goal of life; without knowing."
+}
+---
 
 ==== ajñāya  ====
   * not knowing --- [[books:sb:6:5:18|SB 6.5.18]]

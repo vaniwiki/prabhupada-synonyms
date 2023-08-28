@@ -1,5 +1,11 @@
-~~Title:duratyaya~~
-{{description>cannot be easily understood; difficult to understand; insurmountable or very difficult to cross; very difficult; very difficult to follow.}}
+---json
+{
+    "name":"duratyaya",
+    "h1":"duratyaya",
+    "title":"duratyaya",
+    "description":"cannot be easily understood; difficult to understand; insurmountable or very difficult to cross; very difficult; very difficult to follow."
+}
+---
 
 ==== duratyaya  ====
   * cannot be easily understood --- [[books:sb:3:16:37|SB 3.16.37]]

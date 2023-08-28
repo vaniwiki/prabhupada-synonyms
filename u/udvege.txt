@@ -1,5 +1,11 @@
-~~Title:udvege~~
-{{description>by great agitation; in anxiety; in great anxiety; out of great agitation.}}
+---json
+{
+    "name":"udvege",
+    "h1":"udvege",
+    "title":"udvege",
+    "description":"by great agitation; in anxiety; in great anxiety; out of great agitation."
+}
+---
 
 ==== udvege  ====
   * by great agitation --- [[books:cc:antya:20:40|Antya 20.40]]

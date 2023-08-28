@@ -1,5 +1,11 @@
-~~Title:apanuttaye~~
-{{description>for avoiding misery.}}
+---json
+{
+    "name":"apanuttaye",
+    "h1":"apanuttaye",
+    "title":"apanuttaye",
+    "description":"for avoiding misery."
+}
+---
 
 ==== anya-apanuttaye  ====
   * for avoiding misery --- [[books:sb:7:13:26|SB 7.13.26]]

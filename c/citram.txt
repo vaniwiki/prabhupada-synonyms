@@ -1,5 +1,11 @@
-~~Title:citram~~
-{{description>astonishing; of all varieties; variegated; very wonderful; wonder; wonderful; wonderfully.}}
+---json
+{
+    "name":"citram",
+    "h1":"citram",
+    "title":"citram",
+    "description":"astonishing; of all varieties; variegated; very wonderful; wonder; wonderful; wonderfully."
+}
+---
 
 ==== citram  ====
   * astonishing --- [[books:sb:1:4:5|SB 1.4.5]], [[books:sb:1:19:20|SB 1.19.20]], [[books:sb:6:18:29|SB 6.18.29]]

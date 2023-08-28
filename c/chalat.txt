@@ -1,5 +1,11 @@
-~~Title:chalāt~~
-{{description>on the plea of conquering.}}
+---json
+{
+    "name":"chalāt",
+    "h1":"chalāt",
+    "title":"chalāt",
+    "description":"on the plea of conquering."
+}
+---
 
 ==== jaya-chalāt  ====
   * on the plea of conquering --- [[books:cc:adi:16:3|Ādi 16.3]]

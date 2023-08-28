@@ -1,5 +1,11 @@
-~~Title:mahīyāṁsam~~
-{{description>the best.}}
+---json
+{
+    "name":"mahīyāṁsam",
+    "h1":"mahīyāṁsam",
+    "title":"mahīyāṁsam",
+    "description":"the best."
+}
+---
 
 ==== mahīyāṁsam  ====
   * the best --- [[books:sb:5:5:20|SB 5.5.20]]

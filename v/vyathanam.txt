@@ -1,5 +1,11 @@
-~~Title:vyathānām~~
-{{description>the pain of others.}}
+---json
+{
+    "name":"vyathānām",
+    "h1":"vyathānām",
+    "title":"vyathānām",
+    "description":"the pain of others."
+}
+---
 
 ==== para-vyathānām  ====
   * the pain of others --- [[books:sb:5:26:17|SB 5.26.17]]

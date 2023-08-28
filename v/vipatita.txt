@@ -1,5 +1,11 @@
-~~Title:vipāṭita~~
-{{description>separated.}}
+---json
+{
+    "name":"vipāṭita",
+    "h1":"vipāṭita",
+    "title":"vipāṭita",
+    "description":"separated."
+}
+---
 
 ==== vipāṭita  ====
   * separated --- [[books:sb:8:3:33|SB 8.3.33]]

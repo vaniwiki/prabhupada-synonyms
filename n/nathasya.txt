@@ -1,5 +1,11 @@
-~~Title:nāthasya~~
-{{description>of the monarch.}}
+---json
+{
+    "name":"nāthasya",
+    "h1":"nāthasya",
+    "title":"nāthasya",
+    "description":"of the monarch."
+}
+---
 
 ==== nāthasya  ====
   * of the monarch --- [[books:sb:1:18:44|SB 1.18.44]]

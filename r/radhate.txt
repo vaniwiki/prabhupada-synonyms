@@ -1,5 +1,11 @@
-~~Title:rādhāte~~
-{{description>in Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"rādhāte",
+    "h1":"rādhāte",
+    "title":"rādhāte",
+    "description":"in Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhāte  ====
   * in Śrīmatī Rādhārāṇī --- [[books:cc:adi:4:241|Ādi 4.241]]

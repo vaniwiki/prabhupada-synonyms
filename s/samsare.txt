@@ -1,5 +1,11 @@
-~~Title:saṁsāre~~
-{{description>all over the world; all the three worlds; in the material world; the whole material world.}}
+---json
+{
+    "name":"saṁsāre",
+    "h1":"saṁsāre",
+    "title":"saṁsāre",
+    "description":"all over the world; all the three worlds; in the material world; the whole material world."
+}
+---
 
 ==== saṁsāre  ====
   * all over the world --- [[books:cc:madhya:2:82|Madhya 2.82]]

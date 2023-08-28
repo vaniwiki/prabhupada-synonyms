@@ -1,5 +1,11 @@
-~~Title:prārthita~~
-{{description>as previously petitioned.}}
+---json
+{
+    "name":"prārthita",
+    "h1":"prārthita",
+    "title":"prārthita",
+    "description":"as previously petitioned."
+}
+---
 
 ==== pūrva-prārthita  ====
   * as previously petitioned --- [[books:cc:antya:7:171|Antya 7.171]]

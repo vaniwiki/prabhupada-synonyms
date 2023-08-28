@@ -1,5 +1,11 @@
-~~Title:rājīva~~
-{{description>holding conchshell, disc, club and lotus flower in Their hands.}}
+---json
+{
+    "name":"rājīva",
+    "h1":"rājīva",
+    "title":"rājīva",
+    "description":"holding conchshell, disc, club and lotus flower in Their hands."
+}
+---
 
 ==== śaṅkha-cakra-gadā-rājīva-pāṇa-yaḥ  ====
   * holding conchshell, disc, club and lotus flower in Their hands --- [[books:sb:10:13:47-48|SB 10.13.47-48]]

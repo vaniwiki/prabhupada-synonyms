@@ -1,5 +1,11 @@
-~~Title:avabodhaka~~
-{{description>master.}}
+---json
+{
+    "name":"avabodhaka",
+    "h1":"avabodhaka",
+    "title":"avabodhaka",
+    "description":"master."
+}
+---
 
 ==== avabodhaka  ====
   * master --- [[books:cc:madhya:15:180|Madhya 15.180]]

@@ -1,5 +1,11 @@
-~~Title:padmayoḥ~~
-{{description>of the lotus feet of His Lordship.}}
+---json
+{
+    "name":"padmayoḥ",
+    "h1":"padmayoḥ",
+    "title":"padmayoḥ",
+    "description":"of the lotus feet of His Lordship."
+}
+---
 
 ==== tat-pāda-padmayoḥ  ====
   * of the lotus feet of His Lordship --- [[books:sb:8:16:37|SB 8.16.37]]

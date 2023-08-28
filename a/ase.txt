@@ -1,5 +1,11 @@
-~~Title:ase~~
-{{description>came; come; come forward; is coming.}}
+---json
+{
+    "name":"ase",
+    "h1":"ase",
+    "title":"ase",
+    "description":"came; come; come forward; is coming."
+}
+---
 
 ==== āse  ====
   * came --- [[books:cc:madhya:24:270|Madhya 24.270]]

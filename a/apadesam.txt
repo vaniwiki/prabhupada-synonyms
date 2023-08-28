@@ -1,5 +1,11 @@
-~~Title:apadeśam~~
-{{description>the name of a subject matter.}}
+---json
+{
+    "name":"apadeśam",
+    "h1":"apadeśam",
+    "title":"apadeśam",
+    "description":"the name of a subject matter."
+}
+---
 
 ==== draṣṭṛ-apadeśam  ====
   * the name of a subject matter --- [[books:sb:6:16:24|SB 6.16.24]]

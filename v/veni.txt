@@ -1,5 +1,11 @@
-~~Title:veṇī~~
-{{description>Veṇī.}}
+---json
+{
+    "name":"veṇī",
+    "h1":"veṇī",
+    "title":"veṇī",
+    "description":"Veṇī."
+}
+---
 
 ==== veṇī  ====
   * Veṇī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

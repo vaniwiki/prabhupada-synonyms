@@ -1,5 +1,11 @@
-~~Title:saṅkaṭam~~
-{{description>dangerous position; such a dangerous position.}}
+---json
+{
+    "name":"saṅkaṭam",
+    "h1":"saṅkaṭam",
+    "title":"saṅkaṭam",
+    "description":"dangerous position; such a dangerous position."
+}
+---
 
 ==== saṅkaṭam  ====
   * dangerous position --- [[books:sb:9:18:29|SB 9.18.29]]

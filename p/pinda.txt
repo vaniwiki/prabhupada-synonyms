@@ -1,5 +1,11 @@
-~~Title:pinda~~
-{{description>offerings.}}
+---json
+{
+    "name":"pinda",
+    "h1":"pinda",
+    "title":"pinda",
+    "description":"offerings."
+}
+---
 
 ==== piṇḍa  ====
   * offerings --- [[books:bg:1:41|Bg. 1.41]]

@@ -1,5 +1,11 @@
-~~Title:khidyata~~
-{{description>do not be aggrieved.}}
+---json
+{
+    "name":"khidyata",
+    "h1":"khidyata",
+    "title":"khidyata",
+    "description":"do not be aggrieved."
+}
+---
 
 ==== mā khidyata  ====
   * do not be aggrieved --- [[books:sb:8:8:37|SB 8.8.37]]

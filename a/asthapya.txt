@@ -1,5 +1,11 @@
-~~Title:āsthāpya~~
-{{description>establishing.}}
+---json
+{
+    "name":"āsthāpya",
+    "h1":"āsthāpya",
+    "title":"āsthāpya",
+    "description":"establishing."
+}
+---
 
 ==== āsthāpya  ====
   * establishing --- [[books:sb:5:1:22|SB 5.1.22]]

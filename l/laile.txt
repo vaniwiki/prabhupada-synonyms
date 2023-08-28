@@ -1,5 +1,11 @@
-~~Title:laile~~
-{{description>you have taken.}}
+---json
+{
+    "name":"laile",
+    "h1":"laile",
+    "title":"laile",
+    "description":"you have taken."
+}
+---
 
 ==== laile  ====
   * you have taken --- [[books:cc:adi:17:218|Ādi 17.218]]

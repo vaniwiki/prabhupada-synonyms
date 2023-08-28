@@ -1,5 +1,11 @@
-~~Title:nītau~~
-{{description>attained.}}
+---json
+{
+    "name":"nītau",
+    "h1":"nītau",
+    "title":"nītau",
+    "description":"attained."
+}
+---
 
 ==== nītau  ====
   * attained --- [[books:sb:7:1:47|SB 7.1.47]]

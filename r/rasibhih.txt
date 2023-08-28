@@ -1,5 +1,11 @@
-~~Title:rāśibhiḥ~~
-{{description>by millions and millions of living entities.}}
+---json
+{
+    "name":"rāśibhiḥ",
+    "h1":"rāśibhiḥ",
+    "title":"rāśibhiḥ",
+    "description":"by millions and millions of living entities."
+}
+---
 
 ==== jīva-rāśibhiḥ  ====
   * by millions and millions of living entities --- [[books:sb:7:14:36|SB 7.14.36]]

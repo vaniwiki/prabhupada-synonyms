@@ -1,5 +1,11 @@
-~~Title:godhana~~
-{{description>tending the cows.}}
+---json
+{
+    "name":"godhana",
+    "h1":"godhana",
+    "title":"godhana",
+    "description":"tending the cows."
+}
+---
 
 ==== godhana-cāraṇe  ====
   * tending the cows --- [[books:cc:antya:14:106|Antya 14.106]]

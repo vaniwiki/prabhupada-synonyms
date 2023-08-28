@@ -1,5 +1,11 @@
-~~Title:abhisṛṣṭam~~
-{{description>created or given by the Lord.}}
+---json
+{
+    "name":"abhisṛṣṭam",
+    "h1":"abhisṛṣṭam",
+    "title":"abhisṛṣṭam",
+    "description":"created or given by the Lord."
+}
+---
 
 ==== īśa-abhisṛṣṭam  ====
   * created or given by the Lord --- [[books:sb:5:1:15|SB 5.1.15]]

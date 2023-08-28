@@ -1,5 +1,11 @@
-~~Title:tanvaḥ~~
-{{description>bodies; of the body.}}
+---json
+{
+    "name":"tanvaḥ",
+    "h1":"tanvaḥ",
+    "title":"tanvaḥ",
+    "description":"bodies; of the body."
+}
+---
 
 ==== tanvaḥ  ====
   * bodies --- [[books:sb:9:10:47|SB 9.10.47]]

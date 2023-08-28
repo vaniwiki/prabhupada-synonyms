@@ -1,5 +1,11 @@
-~~Title:hanyamāne~~
-{{description>being killed.}}
+---json
+{
+    "name":"hanyamāne",
+    "h1":"hanyamāne",
+    "title":"hanyamāne",
+    "description":"being killed."
+}
+---
 
 ==== hanyamāne  ====
   * being killed --- [[books:bg:2:20|Bg. 2.20]]

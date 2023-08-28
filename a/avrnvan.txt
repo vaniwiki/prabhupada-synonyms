@@ -1,5 +1,11 @@
-~~Title:āvṛṇvan~~
-{{description>covering.}}
+---json
+{
+    "name":"āvṛṇvan",
+    "h1":"āvṛṇvan",
+    "title":"āvṛṇvan",
+    "description":"covering."
+}
+---
 
 ==== āvṛṇvan  ====
   * covering --- [[books:sb:10:7:21|SB 10.7.21]]

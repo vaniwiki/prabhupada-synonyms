@@ -1,5 +1,11 @@
-~~Title:baise~~
-{{description>residents; sits.}}
+---json
+{
+    "name":"baise",
+    "h1":"baise",
+    "title":"baise",
+    "description":"residents; sits."
+}
+---
 
 ==== baise  ====
   * residents --- [[books:cc:adi:8:71|Ādi 8.71]]

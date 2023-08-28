@@ -1,5 +1,11 @@
-~~Title:kṣitaḥ~~
-{{description>of the king of the world.}}
+---json
+{
+    "name":"kṣitaḥ",
+    "h1":"kṣitaḥ",
+    "title":"kṣitaḥ",
+    "description":"of the king of the world."
+}
+---
 
 ==== mahī-kṣitaḥ  ====
   * of the king of the world --- [[books:sb:9:23:5|SB 9.23.5]]

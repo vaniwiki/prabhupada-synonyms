@@ -1,5 +1,11 @@
-~~Title:milaye~~
-{{description>gets; meets.}}
+---json
+{
+    "name":"milaye",
+    "h1":"milaye",
+    "title":"milaye",
+    "description":"gets; meets."
+}
+---
 
 ==== milaye  ====
   * gets --- [[books:cc:madhya:5:160|Madhya 5.160]]

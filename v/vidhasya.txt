@@ -1,5 +1,11 @@
-~~Title:vidhasya~~
-{{description>of a person like me.}}
+---json
+{
+    "name":"vidhasya",
+    "h1":"vidhasya",
+    "title":"vidhasya",
+    "description":"of a person like me."
+}
+---
 
 ==== asmat-vidhasya  ====
   * of a person like me --- [[books:sb:5:2:12|SB 5.2.12]]

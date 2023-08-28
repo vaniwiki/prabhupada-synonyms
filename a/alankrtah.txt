@@ -1,5 +1,11 @@
-~~Title:alankrtah~~
-{{description>bedecked with various types of ornaments; being decorated with ornaments; being dressed very nicely with ornaments and fresh garments; very beautifully decorated.}}
+---json
+{
+    "name":"alankrtah",
+    "h1":"alankrtah",
+    "title":"alankrtah",
+    "description":"bedecked with various types of ornaments; being decorated with ornaments; being dressed very nicely with ornaments and fresh garments; very beautifully decorated."
+}
+---
 
 ==== alaṅkṛtaḥ  ====
   * bedecked with various types of ornaments --- [[books:sb:7:13:41|SB 7.13.41]]

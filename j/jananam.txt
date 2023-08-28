@@ -1,5 +1,11 @@
-~~Title:janānām~~
-{{description>by the people; of all living entities; of the living entities; of the people in general; of the persons.}}
+---json
+{
+    "name":"janānām",
+    "h1":"janānām",
+    "title":"janānām",
+    "description":"by the people; of all living entities; of the living entities; of the people in general; of the persons."
+}
+---
 
 ==== janānām  ====
   * by the people --- [[books:sb:5:5:29|SB 5.5.29]]

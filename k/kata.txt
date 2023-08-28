@@ -1,5 +1,11 @@
-~~Title:kata~~
-{{description>how many; how much; many; so many; some; whatever.}}
+---json
+{
+    "name":"kata",
+    "h1":"kata",
+    "title":"kata",
+    "description":"how many; how much; many; so many; some; whatever."
+}
+---
 
 ==== kata  ====
   * how many --- [[books:cc:adi:9:34|Ādi 9.34]], [[books:cc:adi:9:37|Ādi 9.37]], [[books:cc:adi:12:65|Ādi 12.65]], [[books:cc:antya:12:93|Antya 12.93]]

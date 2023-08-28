@@ -1,5 +1,11 @@
-~~Title:upāsate~~
-{{description>begin to worship; follow; worship; worship very gorgeously; worships.}}
+---json
+{
+    "name":"upāsate",
+    "h1":"upāsate",
+    "title":"upāsate",
+    "description":"begin to worship; follow; worship; worship very gorgeously; worships."
+}
+---
 
 ==== upāsate  ====
   * begin to worship --- [[books:bg:13:26|Bg. 13.26]]

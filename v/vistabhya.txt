@@ -1,5 +1,11 @@
-~~Title:viṣṭabhya~~
-{{description>accepting; entire; pervading; situated.}}
+---json
+{
+    "name":"viṣṭabhya",
+    "h1":"viṣṭabhya",
+    "title":"viṣṭabhya",
+    "description":"accepting; entire; pervading; situated."
+}
+---
 
 ==== viṣṭabhya  ====
   * accepting --- [[books:sb:3:15:15|SB 3.15.15]], [[books:sb:9:14:17-18|SB 9.14.17-18]]

@@ -1,5 +1,11 @@
-~~Title:kim~~
-{{description>and what is the value of such happiness; anything; are you; either; how; how can he be; how much; is it; is it that; nothing; something; what; what benefit; what for; what is; what is that; what is the benefit; what is the difficulty; what is the meaning; what is the need; what is the use; what is the use of; what is the value; what is there; what is there to fear; what kind of; what need; what need is there; what sort of; what then; what to speak of; what use; where is the necessity; whether; who; who is there; why.}}
+---json
+{
+    "name":"kim",
+    "h1":"kim",
+    "title":"kim",
+    "description":"and what is the value of such happiness; anything; are you; either; how; how can he be; how much; is it; is it that; nothing; something; what; what benefit; what for; what is; what is that; what is the benefit; what is the difficulty; what is the meaning; what is the need; what is the use; what is the use of; what is the value; what is there; what is there to fear; what kind of; what need; what need is there; what sort of; what then; what to speak of; what use; where is the necessity; whether; who; who is there; why."
+}
+---
 
 ==== kim  ====
   * and what is the value of such happiness --- [[books:sb:7:13:31|SB 7.13.31]]

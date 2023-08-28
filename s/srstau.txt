@@ -1,5 +1,11 @@
-~~Title:sṛṣṭau~~
-{{description>for creation; in the birth.}}
+---json
+{
+    "name":"sṛṣṭau",
+    "h1":"sṛṣṭau",
+    "title":"sṛṣṭau",
+    "description":"for creation; in the birth."
+}
+---
 
 ==== sṛṣṭau  ====
   * for creation --- [[books:sb:4:1:17|SB 4.1.17]]

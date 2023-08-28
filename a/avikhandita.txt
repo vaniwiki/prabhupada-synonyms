@@ -1,5 +1,11 @@
-~~Title:avikhaṇḍita~~
-{{description>undisturbed in mind.}}
+---json
+{
+    "name":"avikhaṇḍita",
+    "h1":"avikhaṇḍita",
+    "title":"avikhaṇḍita",
+    "description":"undisturbed in mind."
+}
+---
 
 ==== avikhaṇḍita-manāḥ  ====
   * undisturbed in mind --- [[books:sb:5:5:30|SB 5.5.30]]

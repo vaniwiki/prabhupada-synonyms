@@ -1,5 +1,11 @@
-~~Title:autpātikaḥ~~
-{{description>disturbing.}}
+---json
+{
+    "name":"autpātikaḥ",
+    "h1":"autpātikaḥ",
+    "title":"autpātikaḥ",
+    "description":"disturbing."
+}
+---
 
 ==== autpātikaḥ  ====
   * disturbing --- [[books:sb:10:11:27|SB 10.11.27]]

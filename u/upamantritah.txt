@@ -1,5 +1,11 @@
-~~Title:upāmantritaḥ~~
-{{description>being asked; being fervently requested; being requested; thus being inquired.}}
+---json
+{
+    "name":"upāmantritaḥ",
+    "h1":"upāmantritaḥ",
+    "title":"upāmantritaḥ",
+    "description":"being asked; being fervently requested; being requested; thus being inquired."
+}
+---
 
 ==== upāmantritaḥ  ====
   * being asked --- [[books:sb:5:1:6|SB 5.1.6]]

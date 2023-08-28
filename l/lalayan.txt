@@ -1,5 +1,11 @@
-~~Title:lālayan~~
-{{description>affectionately maintaining; while patting.}}
+---json
+{
+    "name":"lālayan",
+    "h1":"lālayan",
+    "title":"lālayan",
+    "description":"affectionately maintaining; while patting."
+}
+---
 
 ==== lālayan  ====
   * affectionately maintaining --- [[books:sb:4:28:9|SB 4.28.9]]

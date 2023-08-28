@@ -1,5 +1,11 @@
-~~Title:khaya~~
-{{description>why is the child eating dirt?.}}
+---json
+{
+    "name":"khaya",
+    "h1":"khaya",
+    "title":"khaya",
+    "description":"why is the child eating dirt?."
+}
+---
 
 ==== 'māṭi kene khāya'  ====
   * why is the child eating dirt? --- [[books:cc:adi:14:26|Ādi 14.26]]

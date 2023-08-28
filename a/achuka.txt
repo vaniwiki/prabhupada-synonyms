@@ -1,5 +1,11 @@
-~~Title:āchuka~~
-{{description>let it be.}}
+---json
+{
+    "name":"āchuka",
+    "h1":"āchuka",
+    "title":"āchuka",
+    "description":"let it be."
+}
+---
 
 ==== āchuka  ====
   * let it be --- [[books:cc:madhya:9:192|Madhya 9.192]], [[books:cc:antya:16:123|Antya 16.123]]

@@ -1,5 +1,11 @@
-~~Title:saṅgamena~~
-{{description>by association.}}
+---json
+{
+    "name":"saṅgamena",
+    "h1":"saṅgamena",
+    "title":"saṅgamena",
+    "description":"by association."
+}
+---
 
 ==== saṅgamena  ====
   * by association --- [[books:sb:4:30:38|SB 4.30.38]]

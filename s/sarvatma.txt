@@ -1,5 +1,11 @@
-~~Title:sarvātmā~~
-{{description>the Supersoul.}}
+---json
+{
+    "name":"sarvātmā",
+    "h1":"sarvātmā",
+    "title":"sarvātmā",
+    "description":"the Supersoul."
+}
+---
 
 ==== sarvātmā  ====
   * the Supersoul --- [[books:sb:2:1:5|SB 2.1.5]]

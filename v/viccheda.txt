@@ -1,5 +1,11 @@
-~~Title:viccheda~~
-{{description>because of separation; separation.}}
+---json
+{
+    "name":"viccheda",
+    "h1":"viccheda",
+    "title":"viccheda",
+    "description":"because of separation; separation."
+}
+---
 
 ==== viccheda  ====
   * because of separation --- [[books:cc:madhya:10:1|Madhya 10.1]]

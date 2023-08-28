@@ -1,5 +1,11 @@
-~~Title:vrida~~
-{{description>corner of the eye; modesty; shyness.}}
+---json
+{
+    "name":"vrida",
+    "h1":"vrida",
+    "title":"vrida",
+    "description":"corner of the eye; modesty; shyness."
+}
+---
 
 ==== vrīḍa  ====
   * corner of the eye --- [[books:sb:1:11:36|SB 1.11.36]]

@@ -1,5 +1,11 @@
-~~Title:sisṛkṣatīm~~
-{{description>while re-creating.}}
+---json
+{
+    "name":"sisṛkṣatīm",
+    "h1":"sisṛkṣatīm",
+    "title":"sisṛkṣatīm",
+    "description":"while re-creating."
+}
+---
 
 ==== sisṛkṣatīm  ====
   * while re-creating --- [[books:sb:1:10:22|SB 1.10.22]]

@@ -1,5 +1,11 @@
-~~Title:bandho~~
-{{description>friend; O friend.}}
+---json
+{
+    "name":"bandho",
+    "h1":"bandho",
+    "title":"bandho",
+    "description":"friend; O friend."
+}
+---
 
 ==== bandho  ====
   * friend --- [[books:sb:1:17:33|SB 1.17.33]]

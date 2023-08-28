@@ -1,5 +1,11 @@
-~~Title:pāliḥ~~
-{{description>the gopī named Pāli.}}
+---json
+{
+    "name":"pāliḥ",
+    "h1":"pāliḥ",
+    "title":"pāliḥ",
+    "description":"the gopī named Pāli."
+}
+---
 
 ==== pāliḥ  ====
   * the //gopī// named Pāli --- [[books:cc:madhya:8:142|Madhya 8.142]]

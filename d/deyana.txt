@@ -1,5 +1,11 @@
-~~Title:deyāna~~
-{{description>causes others to deliver.}}
+---json
+{
+    "name":"deyāna",
+    "h1":"deyāna",
+    "title":"deyāna",
+    "description":"causes others to deliver."
+}
+---
 
 ==== deyāna  ====
   * causes others to deliver --- [[books:cc:madhya:12:178|Madhya 12.178]]

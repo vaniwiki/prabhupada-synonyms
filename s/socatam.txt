@@ -1,5 +1,11 @@
-~~Title:socatam~~
-{{description>of those prone to lamentation.}}
+---json
+{
+    "name":"socatam",
+    "h1":"socatam",
+    "title":"socatam",
+    "description":"of those prone to lamentation."
+}
+---
 
 ==== śocatām  ====
   * of those prone to lamentation --- [[books:sb:7:2:49|SB 7.2.49]]

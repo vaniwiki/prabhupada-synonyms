@@ -1,5 +1,11 @@
-~~Title:abrahmaṇyāḥ~~
-{{description>devoid of brahminical culture.}}
+---json
+{
+    "name":"abrahmaṇyāḥ",
+    "h1":"abrahmaṇyāḥ",
+    "title":"abrahmaṇyāḥ",
+    "description":"devoid of brahminical culture."
+}
+---
 
 ==== abrahmaṇyāḥ  ====
   * devoid of brahminical culture --- [[books:sb:1:17:27|SB 1.17.27]]

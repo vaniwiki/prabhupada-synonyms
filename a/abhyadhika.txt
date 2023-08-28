@@ -1,5 +1,11 @@
-~~Title:abhyadhika~~
-{{description>auspicious.}}
+---json
+{
+    "name":"abhyadhika",
+    "h1":"abhyadhika",
+    "title":"abhyadhika",
+    "description":"auspicious."
+}
+---
 
 ==== abhyadhika  ====
   * auspicious --- [[books:sb:1:19:6|SB 1.19.6]]

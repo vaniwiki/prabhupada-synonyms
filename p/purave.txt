@@ -1,5 +1,11 @@
-~~Title:pūrave~~
-{{description>unto his son Pūru; unto King Pūru.}}
+---json
+{
+    "name":"pūrave",
+    "h1":"pūrave",
+    "title":"pūrave",
+    "description":"unto his son Pūru; unto King Pūru."
+}
+---
 
 ==== pūrave  ====
   * unto his son Pūru --- [[books:sb:9:19:21|SB 9.19.21]]

@@ -1,5 +1,11 @@
-~~Title:āhari'~~
-{{description>collecting.}}
+---json
+{
+    "name":"āhari'",
+    "h1":"āhari'",
+    "title":"āhari'",
+    "description":"collecting."
+}
+---
 
 ==== āhari'  ====
   * collecting --- [[books:cc:madhya:15:202|Madhya 15.202]]

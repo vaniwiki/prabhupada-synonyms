@@ -1,5 +1,11 @@
-~~Title:bhavadrsah~~
-{{description>like you.}}
+---json
+{
+    "name":"bhavadrsah",
+    "h1":"bhavadrsah",
+    "title":"bhavadrsah",
+    "description":"like you."
+}
+---
 
 ==== bhavādṛśaḥ  ====
   * like you --- [[books:sb:4:4:12|SB 4.4.12]]

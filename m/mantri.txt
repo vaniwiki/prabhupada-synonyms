@@ -1,5 +1,11 @@
-~~Title:mantri~~
-{{description>ministers.}}
+---json
+{
+    "name":"mantri",
+    "h1":"mantri",
+    "title":"mantri",
+    "description":"ministers."
+}
+---
 
 ==== mantrī  ====
   * ministers --- [[books:cc:madhya:21:131|Madhya 21.131]]

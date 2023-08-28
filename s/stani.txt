@@ -1,5 +1,11 @@
-~~Title:stanī~~
-{{description>a woman whose breasts were like water jugs.}}
+---json
+{
+    "name":"stanī",
+    "h1":"stanī",
+    "title":"stanī",
+    "description":"a woman whose breasts were like water jugs."
+}
+---
 
 ==== kumbha-stanī  ====
   * a woman whose breasts were like water jugs --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

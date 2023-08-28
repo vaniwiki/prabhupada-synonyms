@@ -1,5 +1,11 @@
-~~Title:vidhūmra~~
-{{description>turned an ashen color.}}
+---json
+{
+    "name":"vidhūmra",
+    "h1":"vidhūmra",
+    "title":"vidhūmra",
+    "description":"turned an ashen color."
+}
+---
 
 ==== vidhūmra  ====
   * turned an ashen color --- [[books:sb:1:9:34|SB 1.9.34]]

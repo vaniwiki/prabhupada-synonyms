@@ -1,5 +1,11 @@
-~~Title:damita~~
-{{description>subdued.}}
+---json
+{
+    "name":"damita",
+    "h1":"damita",
+    "title":"damita",
+    "description":"subdued."
+}
+---
 
 ==== damita  ====
   * subdued --- [[books:cc:antya:1:165|Antya 1.165]]

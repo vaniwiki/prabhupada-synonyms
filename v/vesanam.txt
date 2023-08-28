@@ -1,5 +1,11 @@
-~~Title:veśanam~~
-{{description>the entering.}}
+---json
+{
+    "name":"veśanam",
+    "h1":"veśanam",
+    "title":"veśanam",
+    "description":"the entering."
+}
+---
 
 ==== veśanam  ====
   * the entering --- [[books:sb:10:12:26|SB 10.12.26]]

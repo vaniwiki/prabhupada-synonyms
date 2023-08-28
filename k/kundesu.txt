@@ -1,5 +1,11 @@
-~~Title:kuṇḍeṣu~~
-{{description>on the sacrificial arenas.}}
+---json
+{
+    "name":"kuṇḍeṣu",
+    "h1":"kuṇḍeṣu",
+    "title":"kuṇḍeṣu",
+    "description":"on the sacrificial arenas."
+}
+---
 
 ==== kuṇḍeṣu  ====
   * on the sacrificial arenas --- [[books:sb:4:5:15|SB 4.5.15]]

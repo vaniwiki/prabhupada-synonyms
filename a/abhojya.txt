@@ -1,5 +1,11 @@
-~~Title:abhojya~~
-{{description>a brāhmaṇa at whose place an invitation cannot be accepted.}}
+---json
+{
+    "name":"abhojya",
+    "h1":"abhojya",
+    "title":"abhojya",
+    "description":"a brāhmaṇa at whose place an invitation cannot be accepted."
+}
+---
 
 ==== abhojya-anna vipra  ====
   * a //brāhmaṇa// at whose place an invitation cannot be accepted --- [[books:cc:antya:8:88|Antya 8.88]]

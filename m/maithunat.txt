@@ -1,5 +1,11 @@
-~~Title:maithunāt~~
-{{description>except at the time of sexual intercourse.}}
+---json
+{
+    "name":"maithunāt",
+    "h1":"maithunāt",
+    "title":"maithunāt",
+    "description":"except at the time of sexual intercourse."
+}
+---
 
 ==== maithunāt  ====
   * except at the time of sexual intercourse --- [[books:sb:9:14:22|SB 9.14.22]]

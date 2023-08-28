@@ -1,5 +1,11 @@
-~~Title:cīrāṇi~~
-{{description>torn clothes; torn old clothes.}}
+---json
+{
+    "name":"cīrāṇi",
+    "h1":"cīrāṇi",
+    "title":"cīrāṇi",
+    "description":"torn clothes; torn old clothes."
+}
+---
 
 ==== cīrāṇi  ====
   * torn clothes --- [[books:sb:2:2:5|SB 2.2.5]]

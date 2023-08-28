@@ -1,5 +1,11 @@
-~~Title:mādanam~~
-{{description>to the Gandhamādana Hill.}}
+---json
+{
+    "name":"mādanam",
+    "h1":"mādanam",
+    "title":"mādanam",
+    "description":"to the Gandhamādana Hill."
+}
+---
 
 ==== gandha-mādanam  ====
   * to the Gandhamādana Hill --- [[books:sb:4:1:58|SB 4.1.58]]

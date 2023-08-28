@@ -1,5 +1,11 @@
-~~Title:medhena~~
-{{description>by the aśvamedha sacrifice.}}
+---json
+{
+    "name":"medhena",
+    "h1":"medhena",
+    "title":"medhena",
+    "description":"by the aśvamedha sacrifice."
+}
+---
 
 ==== aśva-medhena  ====
   * by the //aśvamedha// sacrifice --- [[books:sb:4:19:11|SB 4.19.11]]

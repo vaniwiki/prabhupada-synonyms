@@ -1,5 +1,11 @@
-~~Title:mahāhayaḥ~~
-{{description>Mahāhaya.}}
+---json
+{
+    "name":"mahāhayaḥ",
+    "h1":"mahāhayaḥ",
+    "title":"mahāhayaḥ",
+    "description":"Mahāhaya."
+}
+---
 
 ==== mahāhayaḥ  ====
   * Mahāhaya --- [[books:sb:9:23:20-21|SB 9.23.20-21]]

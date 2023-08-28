@@ -1,5 +1,11 @@
-~~Title:karṣati~~
-{{description>agitates; attract; attracts; struggling hard.}}
+---json
+{
+    "name":"karṣati",
+    "h1":"karṣati",
+    "title":"karṣati",
+    "description":"agitates; attract; attracts; struggling hard."
+}
+---
 
 ==== karṣati  ====
   * agitates --- [[books:sb:9:19:17|SB 9.19.17]]

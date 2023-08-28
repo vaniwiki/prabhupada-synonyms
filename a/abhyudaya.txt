@@ -1,5 +1,11 @@
-~~Title:abhyudaya~~
-{{description>influenced by.}}
+---json
+{
+    "name":"abhyudaya",
+    "h1":"abhyudaya",
+    "title":"abhyudaya",
+    "description":"influenced by."
+}
+---
 
 ==== abhyudaya  ====
   * influenced by --- [[books:sb:1:14:38|SB 1.14.38]]

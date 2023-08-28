@@ -1,5 +1,11 @@
-~~Title:vidarbhaḥ~~
-{{description>the son born of Śaibyā named Vidarbha; Vidarbha.}}
+---json
+{
+    "name":"vidarbhaḥ",
+    "h1":"vidarbhaḥ",
+    "title":"vidarbhaḥ",
+    "description":"the son born of Śaibyā named Vidarbha; Vidarbha."
+}
+---
 
 ==== vidarbhaḥ  ====
   * the son born of Śaibyā named Vidarbha --- [[books:sb:9:24:1|SB 9.24.1]]

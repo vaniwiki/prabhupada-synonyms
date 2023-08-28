@@ -1,5 +1,11 @@
-~~Title:abhadreṣu~~
-{{description>all that is inauspicious.}}
+---json
+{
+    "name":"abhadreṣu",
+    "h1":"abhadreṣu",
+    "title":"abhadreṣu",
+    "description":"all that is inauspicious."
+}
+---
 
 ==== abhadreṣu  ====
   * all that is inauspicious --- [[books:sb:1:2:18|SB 1.2.18]]

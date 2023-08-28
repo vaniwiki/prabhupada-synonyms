@@ -1,5 +1,11 @@
-~~Title:uthalila~~
-{{description>arose; awakened; flooded; overflowed; welled up; were manifest.}}
+---json
+{
+    "name":"uthalila",
+    "h1":"uthalila",
+    "title":"uthalila",
+    "description":"arose; awakened; flooded; overflowed; welled up; were manifest."
+}
+---
 
 ==== uthalila  ====
   * arose --- [[books:cc:madhya:9:292|Madhya 9.292]], [[books:cc:madhya:13:170|Madhya 13.170]], [[books:cc:madhya:19:63|Madhya 19.63]]

@@ -1,5 +1,11 @@
-~~Title:viparītān~~
-{{description>the wrong direction.}}
+---json
+{
+    "name":"viparītān",
+    "h1":"viparītān",
+    "title":"viparītān",
+    "description":"the wrong direction."
+}
+---
 
 ==== viparītān  ====
   * the wrong direction --- [[books:bg:18:32|Bg. 18.32]]

@@ -1,5 +1,11 @@
-~~Title:abhijitam~~
-{{description>the victorious.}}
+---json
+{
+    "name":"abhijitam",
+    "h1":"abhijitam",
+    "title":"abhijitam",
+    "description":"the victorious."
+}
+---
 
 ==== abhijitam  ====
   * the victorious --- [[books:sb:3:18:2|SB 3.18.2]]

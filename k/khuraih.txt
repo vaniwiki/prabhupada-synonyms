@@ -1,5 +1,11 @@
-~~Title:khuraiḥ~~
-{{description>by the hooves; with their hooves.}}
+---json
+{
+    "name":"khuraiḥ",
+    "h1":"khuraiḥ",
+    "title":"khuraiḥ",
+    "description":"by the hooves; with their hooves."
+}
+---
 
 ==== khuraiḥ  ====
   * by the hooves --- [[books:sb:3:13:30|SB 3.13.30]]

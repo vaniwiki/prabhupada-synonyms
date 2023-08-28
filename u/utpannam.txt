@@ -1,5 +1,11 @@
-~~Title:utpannam~~
-{{description>received.}}
+---json
+{
+    "name":"utpannam",
+    "h1":"utpannam",
+    "title":"utpannam",
+    "description":"received."
+}
+---
 
 ==== utpannam  ====
   * received --- [[books:sb:4:4:18|SB 4.4.18]]

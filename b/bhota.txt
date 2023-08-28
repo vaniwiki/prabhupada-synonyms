@@ -1,5 +1,11 @@
-~~Title:bhoṭa~~
-{{description>the blanket; the woolen blanket; woolen blanket.}}
+---json
+{
+    "name":"bhoṭa",
+    "h1":"bhoṭa",
+    "title":"bhoṭa",
+    "description":"the blanket; the woolen blanket; woolen blanket."
+}
+---
 
 ==== bhoṭa  ====
   * the blanket --- [[books:cc:madhya:20:88|Madhya 20.88]]

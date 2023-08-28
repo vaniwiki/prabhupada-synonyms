@@ -1,5 +1,11 @@
-~~Title:adhyāsitām~~
-{{description>worshiped.}}
+---json
+{
+    "name":"adhyāsitām",
+    "h1":"adhyāsitām",
+    "title":"adhyāsitām",
+    "description":"worshiped."
+}
+---
 
 ==== adhyāsitām  ====
   * worshiped --- [[books:cc:madhya:3:6|Madhya 3.6]]

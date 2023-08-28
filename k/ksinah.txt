@@ -1,5 +1,11 @@
-~~Title:kṣīṇāḥ~~
-{{description>deteriorated.}}
+---json
+{
+    "name":"kṣīṇāḥ",
+    "h1":"kṣīṇāḥ",
+    "title":"kṣīṇāḥ",
+    "description":"deteriorated."
+}
+---
 
 ==== kṣīṇāḥ  ====
   * deteriorated --- [[books:sb:4:18:8|SB 4.18.8]]

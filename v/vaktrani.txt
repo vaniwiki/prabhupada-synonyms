@@ -1,5 +1,11 @@
-~~Title:vaktrāṇi~~
-{{description>in the mouths; into the mouths; mouths.}}
+---json
+{
+    "name":"vaktrāṇi",
+    "h1":"vaktrāṇi",
+    "title":"vaktrāṇi",
+    "description":"in the mouths; into the mouths; mouths."
+}
+---
 
 ==== vaktrāṇi  ====
   * in the mouths --- [[books:bg:11:29|Bg. 11.29]]

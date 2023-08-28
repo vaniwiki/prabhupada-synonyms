@@ -1,5 +1,11 @@
-~~Title:rājāya~~
-{{description>unto the Mohammedan government.}}
+---json
+{
+    "name":"rājāya",
+    "h1":"rājāya",
+    "title":"rājāya",
+    "description":"unto the Mohammedan government."
+}
+---
 
 ==== rājāya  ====
   * unto the Mohammedan government --- [[books:cc:antya:6:19|Antya 6.19]]

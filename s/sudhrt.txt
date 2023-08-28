@@ -1,5 +1,11 @@
-~~Title:sudhṛt~~
-{{description>he became the father of King Sudhṛti.}}
+---json
+{
+    "name":"sudhṛt",
+    "h1":"sudhṛt",
+    "title":"sudhṛt",
+    "description":"he became the father of King Sudhṛti."
+}
+---
 
 ==== sudhṛt-pitā  ====
   * he became the father of King Sudhṛti --- [[books:sb:9:13:15|SB 9.13.15]]

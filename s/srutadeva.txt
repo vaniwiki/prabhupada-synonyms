@@ -1,5 +1,11 @@
-~~Title:srutadeva~~
-{{description>Śrutadeva.}}
+---json
+{
+    "name":"srutadeva",
+    "h1":"srutadeva",
+    "title":"srutadeva",
+    "description":"Śrutadeva."
+}
+---
 
 ==== śrutadeva  ====
   * Śrutadeva --- [[books:sb:1:14:32-33|SB 1.14.32-33]], [[books:sb:2:7:43-45|SB 2.7.43-45]]

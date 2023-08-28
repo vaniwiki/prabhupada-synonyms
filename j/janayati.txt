@@ -1,5 +1,11 @@
-~~Title:janayati~~
-{{description>does produce; produces.}}
+---json
+{
+    "name":"janayati",
+    "h1":"janayati",
+    "title":"janayati",
+    "description":"does produce; produces."
+}
+---
 
 ==== janayati  ====
   * does produce --- [[books:sb:1:2:7|SB 1.2.7]]

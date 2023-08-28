@@ -1,5 +1,11 @@
-~~Title:āśritān~~
-{{description>dependents (like us).}}
+---json
+{
+    "name":"āśritān",
+    "h1":"āśritān",
+    "title":"āśritān",
+    "description":"dependents (like us)."
+}
+---
 
 ==== āśritān  ====
   * dependents (like us) --- [[books:sb:6:9:23|SB 6.9.23]]

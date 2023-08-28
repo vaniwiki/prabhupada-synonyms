@@ -1,5 +1,11 @@
-~~Title:tṛṇāt~~
-{{description>than downtrodden grass.}}
+---json
+{
+    "name":"tṛṇāt",
+    "h1":"tṛṇāt",
+    "title":"tṛṇāt",
+    "description":"than downtrodden grass."
+}
+---
 
 ==== tṛṇāt api  ====
   * than downtrodden grass --- [[books:cc:adi:17:31|Ādi 17.31]], [[books:cc:antya:6:239|Antya 6.239]], [[books:cc:antya:20:21|Antya 20.21]]

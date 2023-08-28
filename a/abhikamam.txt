@@ -1,5 +1,11 @@
-~~Title:abhikāmam~~
-{{description>desiring the sense objects.}}
+---json
+{
+    "name":"abhikāmam",
+    "h1":"abhikāmam",
+    "title":"abhikāmam",
+    "description":"desiring the sense objects."
+}
+---
 
 ==== kāma-abhikāmam  ====
   * desiring the sense objects --- [[books:sb:7:9:28|SB 7.9.28]]

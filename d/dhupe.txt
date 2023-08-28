@@ -1,5 +1,11 @@
-~~Title:dhūpe~~
-{{description>in the sunshine.}}
+---json
+{
+    "name":"dhūpe",
+    "h1":"dhūpe",
+    "title":"dhūpe",
+    "description":"in the sunshine."
+}
+---
 
 ==== dhūpe  ====
   * in the sunshine --- [[books:cc:antya:20:109|Antya 20.109]]

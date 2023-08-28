@@ -1,5 +1,11 @@
-~~Title:gātre~~
-{{description>in the body; on the body.}}
+---json
+{
+    "name":"gātre",
+    "h1":"gātre",
+    "title":"gātre",
+    "description":"in the body; on the body."
+}
+---
 
 ==== gātre  ====
   * in the body --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

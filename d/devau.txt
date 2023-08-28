@@ -1,5 +1,11 @@
-~~Title:devau~~
-{{description>the two boys of the demigods; the two demigods; two Vaikuṇṭha doormen.}}
+---json
+{
+    "name":"devau",
+    "h1":"devau",
+    "title":"devau",
+    "description":"the two boys of the demigods; the two demigods; two Vaikuṇṭha doormen."
+}
+---
 
 ==== devau  ====
   * the two boys of the demigods --- [[books:sb:10:10:5|SB 10.10.5]]

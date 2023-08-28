@@ -1,5 +1,11 @@
-~~Title:aṅgīm~~
-{{description>having a perfect body.}}
+---json
+{
+    "name":"aṅgīm",
+    "h1":"aṅgīm",
+    "title":"aṅgīm",
+    "description":"having a perfect body."
+}
+---
 
 ==== anavadya-aṅgīm  ====
   * having a perfect body --- [[books:sb:9:3:36|SB 9.3.36]]

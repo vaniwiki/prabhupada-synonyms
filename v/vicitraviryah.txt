@@ -1,5 +1,11 @@
-~~Title:vicitravīryaḥ~~
-{{description>Vicitravīrya; Vicitravīrya, the son of Śāntanu.}}
+---json
+{
+    "name":"vicitravīryaḥ",
+    "h1":"vicitravīryaḥ",
+    "title":"vicitravīryaḥ",
+    "description":"Vicitravīrya; Vicitravīrya, the son of Śāntanu."
+}
+---
 
 ==== vicitravīryaḥ  ====
   * Vicitravīrya --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

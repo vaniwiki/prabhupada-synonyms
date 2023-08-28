@@ -1,5 +1,11 @@
-~~Title:japite~~
-{{description>chanting.}}
+---json
+{
+    "name":"japite",
+    "h1":"japite",
+    "title":"japite",
+    "description":"chanting."
+}
+---
 
 ==== japite  ====
   * chanting --- [[books:cc:adi:7:81|Ādi 7.81]]

@@ -1,5 +1,11 @@
-~~Title:bhima~~
-{{description>Bhīma; by Bhīma; dangerous; of Bhīmasena (a brother of Yudhiṣṭhira's); the second Pāṇḍava.}}
+---json
+{
+    "name":"bhima",
+    "h1":"bhima",
+    "title":"bhima",
+    "description":"Bhīma; by Bhīma; dangerous; of Bhīmasena (a brother of Yudhiṣṭhira's); the second Pāṇḍava."
+}
+---
 
 ==== bhīma  ====
   * Bhīma --- [[books:sb:1:7:52|SB 1.7.52]], [[books:sb:3:3:14|SB 3.3.14]]

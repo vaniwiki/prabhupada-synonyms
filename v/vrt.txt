@@ -1,5 +1,11 @@
-~~Title:vṛt~~
-{{description>composed of the three; consisting of the letters a, u and m; influenced by the three modes; the three departments of knowledge of the Vedas; the three letters a-u-m combined together as oṁ; the three modes of material nature; the threefold; three kinds of life vigor.}}
+---json
+{
+    "name":"vṛt",
+    "h1":"vṛt",
+    "title":"vṛt",
+    "description":"composed of the three; consisting of the letters a, u and m; influenced by the three modes; the three departments of knowledge of the Vedas; the three letters a-u-m combined together as oṁ; the three modes of material nature; the threefold; three kinds of life vigor."
+}
+---
 
 ==== tri-vṛt  ====
   * composed of the three --- [[books:sb:2:1:17|SB 2.1.17]]

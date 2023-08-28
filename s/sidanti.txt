@@ -1,5 +1,11 @@
-~~Title:sīdanti~~
-{{description>quivering.}}
+---json
+{
+    "name":"sīdanti",
+    "h1":"sīdanti",
+    "title":"sīdanti",
+    "description":"quivering."
+}
+---
 
 ==== sīdanti  ====
   * quivering --- [[books:bg:1:28|Bg. 1.28]]

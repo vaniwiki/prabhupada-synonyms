@@ -1,5 +1,11 @@
-~~Title:āsādita~~
-{{description>being so engaged; having taken; placed.}}
+---json
+{
+    "name":"āsādita",
+    "h1":"āsādita",
+    "title":"āsādita",
+    "description":"being so engaged; having taken; placed."
+}
+---
 
 ==== āsādita  ====
   * being so engaged --- [[books:sb:3:8:12|SB 3.8.12]]

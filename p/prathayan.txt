@@ -1,5 +1,11 @@
-~~Title:prathayan~~
-{{description>chanting; established; expanding the Vedic principles; giving an example.}}
+---json
+{
+    "name":"prathayan",
+    "h1":"prathayan",
+    "title":"prathayan",
+    "description":"chanting; established; expanding the Vedic principles; giving an example."
+}
+---
 
 ==== prathayan  ====
   * chanting --- [[books:sb:4:23:39|SB 4.23.39]]

@@ -1,5 +1,11 @@
-~~Title:cihnam~~
-{{description>mark.}}
+---json
+{
+    "name":"cihnam",
+    "h1":"cihnam",
+    "title":"cihnam",
+    "description":"mark."
+}
+---
 
 ==== cihnam  ====
   * mark --- [[books:sb:4:15:9-10|SB 4.15.9-10]]

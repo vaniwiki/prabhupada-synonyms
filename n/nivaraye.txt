@@ -1,5 +1,11 @@
-~~Title:nivāraye~~
-{{description>checks.}}
+---json
+{
+    "name":"nivāraye",
+    "h1":"nivāraye",
+    "title":"nivāraye",
+    "description":"checks."
+}
+---
 
 ==== nivāraye  ====
   * checks --- [[books:cc:madhya:13:166|Madhya 13.166]]

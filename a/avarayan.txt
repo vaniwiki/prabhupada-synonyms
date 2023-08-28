@@ -1,5 +1,11 @@
-~~Title:avārayan~~
-{{description>they subdued.}}
+---json
+{
+    "name":"avārayan",
+    "h1":"avārayan",
+    "title":"avārayan",
+    "description":"they subdued."
+}
+---
 
 ==== avārayan  ====
   * they subdued --- [[books:sb:4:14:39-40|SB 4.14.39-40]]

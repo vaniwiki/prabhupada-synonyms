@@ -1,5 +1,11 @@
-~~Title:samākhyātā~~
-{{description>called.}}
+---json
+{
+    "name":"samākhyātā",
+    "h1":"samākhyātā",
+    "title":"samākhyātā",
+    "description":"called."
+}
+---
 
 ==== samākhyātā  ====
   * called --- [[books:sb:5:25:1|SB 5.25.1]]

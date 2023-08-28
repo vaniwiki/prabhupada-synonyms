@@ -1,5 +1,11 @@
-~~Title:saṁśraye~~
-{{description>residing in all living entities.}}
+---json
+{
+    "name":"saṁśraye",
+    "h1":"saṁśraye",
+    "title":"saṁśraye",
+    "description":"residing in all living entities."
+}
+---
 
 ==== ātma-saṁśraye  ====
   * residing in all living entities --- [[books:sb:3:33:26|SB 3.33.26]]

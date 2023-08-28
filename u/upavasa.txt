@@ -1,5 +1,11 @@
-~~Title:upavāsa~~
-{{description>fast; fasting; fasting days.}}
+---json
+{
+    "name":"upavāsa",
+    "h1":"upavāsa",
+    "title":"upavāsa",
+    "description":"fast; fasting; fasting days."
+}
+---
 
 ==== upavāsa  ====
   * fast --- [[books:cc:antya:1:23|Antya 1.23]]

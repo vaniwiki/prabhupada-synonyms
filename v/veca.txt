@@ -1,5 +1,11 @@
-~~Title:vecā~~
-{{description>a person who sells the bark of banana trees.}}
+---json
+{
+    "name":"vecā",
+    "h1":"vecā",
+    "title":"vecā",
+    "description":"a person who sells the bark of banana trees."
+}
+---
 
 ==== kholā-vecā  ====
   * a person who sells the bark of banana trees --- [[books:cc:adi:10:67|Ādi 10.67]]

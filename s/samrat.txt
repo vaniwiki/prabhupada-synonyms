@@ -1,5 +1,11 @@
-~~Title:samrat~~
-{{description>Emperor; Emperor Manu; named Samrāṭ; the Emperor (Manu); the Emperor; the king of all kings.}}
+---json
+{
+    "name":"samrat",
+    "h1":"samrat",
+    "title":"samrat",
+    "description":"Emperor; Emperor Manu; named Samrāṭ; the Emperor (Manu); the Emperor; the king of all kings."
+}
+---
 
 ==== samrāṭ  ====
   * Emperor --- [[books:sb:1:18:46|SB 1.18.46]]

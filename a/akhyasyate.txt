@@ -1,5 +1,11 @@
-~~Title:ākhyāsyate~~
-{{description>will be called.}}
+---json
+{
+    "name":"ākhyāsyate",
+    "h1":"ākhyāsyate",
+    "title":"ākhyāsyate",
+    "description":"will be called."
+}
+---
 
 ==== ākhyāsyate  ====
   * will be called --- [[books:sb:10:8:12|SB 10.8.12]]

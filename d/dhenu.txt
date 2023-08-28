@@ -1,5 +1,11 @@
-~~Title:dhenu~~
-{{description>cows; the cows.}}
+---json
+{
+    "name":"dhenu",
+    "h1":"dhenu",
+    "title":"dhenu",
+    "description":"cows; the cows."
+}
+---
 
 ==== dhenu  ====
   * cows --- [[books:cc:antya:14:107|Antya 14.107]]

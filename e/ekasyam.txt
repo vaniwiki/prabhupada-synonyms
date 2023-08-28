@@ -1,5 +1,11 @@
-~~Title:ekasyām~~
-{{description>born from one wife.}}
+---json
+{
+    "name":"ekasyām",
+    "h1":"ekasyām",
+    "title":"ekasyām",
+    "description":"born from one wife."
+}
+---
 
 ==== ekasyām  ====
   * born from one wife --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

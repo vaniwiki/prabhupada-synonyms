@@ -1,5 +1,11 @@
-~~Title:vyākhyātaḥ~~
-{{description>described; estimated; explained; has been described.}}
+---json
+{
+    "name":"vyākhyātaḥ",
+    "h1":"vyākhyātaḥ",
+    "title":"vyākhyātaḥ",
+    "description":"described; estimated; explained; has been described."
+}
+---
 
 ==== vyākhyātaḥ  ====
   * described --- [[books:sb:5:26:38|SB 5.26.38]]

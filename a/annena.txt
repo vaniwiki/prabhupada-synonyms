@@ -1,5 +1,11 @@
-~~Title:annena~~
-{{description>with food (prepared in ghee and offered to the Supreme Lord).}}
+---json
+{
+    "name":"annena",
+    "h1":"annena",
+    "title":"annena",
+    "description":"with food (prepared in ghee and offered to the Supreme Lord)."
+}
+---
 
 ==== muni-annena  ====
   * with food (prepared in ghee and offered to the Supreme Lord) --- [[books:sb:7:15:11|SB 7.15.11]]

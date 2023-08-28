@@ -1,5 +1,11 @@
-~~Title:kaśyapāt~~
-{{description>by Kaśyapa Muni; by the semen of Kaśyapa Muni; from His father, Kaśyapa; from Kaśyapa.}}
+---json
+{
+    "name":"kaśyapāt",
+    "h1":"kaśyapāt",
+    "title":"kaśyapāt",
+    "description":"by Kaśyapa Muni; by the semen of Kaśyapa Muni; from His father, Kaśyapa; from Kaśyapa."
+}
+---
 
 ==== kaśyapāt  ====
   * by Kaśyapa Muni --- [[books:sb:8:13:6|SB 8.13.6]]

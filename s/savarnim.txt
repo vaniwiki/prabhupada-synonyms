@@ -1,5 +1,11 @@
-~~Title:sāvarṇim~~
-{{description>Sāvarṇi.}}
+---json
+{
+    "name":"sāvarṇim",
+    "h1":"sāvarṇim",
+    "title":"sāvarṇim",
+    "description":"Sāvarṇi."
+}
+---
 
 ==== sāvarṇim  ====
   * Sāvarṇi --- [[books:sb:6:6:41|SB 6.6.41]]

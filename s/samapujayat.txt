@@ -1,5 +1,11 @@
-~~Title:samapūjayat~~
-{{description>he gave proper respects.}}
+---json
+{
+    "name":"samapūjayat",
+    "h1":"samapūjayat",
+    "title":"samapūjayat",
+    "description":"he gave proper respects."
+}
+---
 
 ==== samapūjayat  ====
   * he gave proper respects --- [[books:sb:4:17:2|SB 4.17.2]]

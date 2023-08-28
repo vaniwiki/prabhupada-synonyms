@@ -1,5 +1,11 @@
-~~Title:vilasadbhyām~~
-{{description>glittering lotus feet.}}
+---json
+{
+    "name":"vilasadbhyām",
+    "h1":"vilasadbhyām",
+    "title":"vilasadbhyām",
+    "description":"glittering lotus feet."
+}
+---
 
 ==== vilasadbhyām  ====
   * glittering lotus feet --- [[books:sb:4:8:50|SB 4.8.50]]

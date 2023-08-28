@@ -1,5 +1,11 @@
-~~Title:bhāryaḥ~~
-{{description>along with his wife; with his wife.}}
+---json
+{
+    "name":"bhāryaḥ",
+    "h1":"bhāryaḥ",
+    "title":"bhāryaḥ",
+    "description":"along with his wife; with his wife."
+}
+---
 
 ==== sa-bhāryaḥ  ====
   * along with his wife --- [[books:sb:3:21:36|SB 3.21.36]], [[books:sb:3:22:26-27|SB 3.22.26-27]], [[books:sb:3:22:33|SB 3.22.33]]

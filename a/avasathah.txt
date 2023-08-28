@@ -1,5 +1,11 @@
-~~Title:āvasathaḥ~~
-{{description>abode.}}
+---json
+{
+    "name":"āvasathaḥ",
+    "h1":"āvasathaḥ",
+    "title":"āvasathaḥ",
+    "description":"abode."
+}
+---
 
 ==== āvasathaḥ  ====
   * abode --- [[books:sb:5:14:4|SB 5.14.4]]

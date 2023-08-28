@@ -1,5 +1,11 @@
-~~Title:yatatām~~
-{{description>of those so endeavoring.}}
+---json
+{
+    "name":"yatatām",
+    "h1":"yatatām",
+    "title":"yatatām",
+    "description":"of those so endeavoring."
+}
+---
 
 ==== yatatām  ====
   * of those so endeavoring --- [[books:bg:7:3|Bg. 7.3]]

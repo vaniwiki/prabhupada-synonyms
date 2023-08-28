@@ -1,5 +1,11 @@
-~~Title:avacchādayati~~
-{{description>covers with darkness.}}
+---json
+{
+    "name":"avacchādayati",
+    "h1":"avacchādayati",
+    "title":"avacchādayati",
+    "description":"covers with darkness."
+}
+---
 
 ==== avacchādayati  ====
   * covers with darkness --- [[books:sb:5:1:30|SB 5.1.30]]

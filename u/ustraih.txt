@@ -1,5 +1,11 @@
-~~Title:uṣṭraiḥ~~
-{{description>on the backs of camels.}}
+---json
+{
+    "name":"uṣṭraiḥ",
+    "h1":"uṣṭraiḥ",
+    "title":"uṣṭraiḥ",
+    "description":"on the backs of camels."
+}
+---
 
 ==== uṣṭraiḥ  ====
   * on the backs of camels --- [[books:sb:8:10:9|SB 8.10.9]]

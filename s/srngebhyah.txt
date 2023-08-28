@@ -1,5 +1,11 @@
-~~Title:śṛṅgebhyaḥ~~
-{{description>from the tops.}}
+---json
+{
+    "name":"śṛṅgebhyaḥ",
+    "h1":"śṛṅgebhyaḥ",
+    "title":"śṛṅgebhyaḥ",
+    "description":"from the tops."
+}
+---
 
 ==== śṛṅgebhyaḥ  ====
   * from the tops --- [[books:sb:3:30:27|SB 3.30.27]]

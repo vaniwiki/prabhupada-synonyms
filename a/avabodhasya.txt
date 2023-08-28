@@ -1,5 +1,11 @@
-~~Title:avabodhasya~~
-{{description>of one whose keeping awake.}}
+---json
+{
+    "name":"avabodhasya",
+    "h1":"avabodhasya",
+    "title":"avabodhasya",
+    "description":"of one whose keeping awake."
+}
+---
 
 ==== avabodhasya  ====
   * of one whose keeping awake --- [[books:cc:antya:8:67-68|Antya 8.67-68]]

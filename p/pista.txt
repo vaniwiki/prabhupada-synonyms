@@ -1,5 +1,11 @@
-~~Title:piṣṭa~~
-{{description>cakes.}}
+---json
+{
+    "name":"piṣṭa",
+    "h1":"piṣṭa",
+    "title":"piṣṭa",
+    "description":"cakes."
+}
+---
 
 ==== piṣṭa  ====
   * cakes --- [[books:cc:madhya:15:215|Madhya 15.215]]

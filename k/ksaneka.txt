@@ -1,5 +1,11 @@
-~~Title:kṣaṇeka~~
-{{description>for a few moments; for a moment; for some time; sometimes.}}
+---json
+{
+    "name":"kṣaṇeka",
+    "h1":"kṣaṇeka",
+    "title":"kṣaṇeka",
+    "description":"for a few moments; for a moment; for some time; sometimes."
+}
+---
 
 ==== kṣaṇeka  ====
   * for a few moments --- [[books:cc:madhya:12:136|Madhya 12.136]]

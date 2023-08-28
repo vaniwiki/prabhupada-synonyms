@@ -1,5 +1,11 @@
-~~Title:anupatham~~
-{{description>along the path; as He passed through; following that path; the path; the pathway.}}
+---json
+{
+    "name":"anupatham",
+    "h1":"anupatham",
+    "title":"anupatham",
+    "description":"along the path; as He passed through; following that path; the path; the pathway."
+}
+---
 
 ==== anupatham  ====
   * along the path --- [[books:sb:5:1:8|SB 5.1.8]], [[books:cc:madhya:24:177|Madhya 24.177]]

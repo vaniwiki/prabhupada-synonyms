@@ -1,5 +1,11 @@
-~~Title:bujhila~~
-{{description>did not know.}}
+---json
+{
+    "name":"bujhila",
+    "h1":"bujhila",
+    "title":"bujhila",
+    "description":"did not know."
+}
+---
 
 ==== nā bujhila  ====
   * did not know --- [[books:cc:madhya:16:62|Madhya 16.62]]

@@ -1,5 +1,11 @@
-~~Title:avabodhanam~~
-{{description>understanding.}}
+---json
+{
+    "name":"avabodhanam",
+    "h1":"avabodhanam",
+    "title":"avabodhanam",
+    "description":"understanding."
+}
+---
 
 ==== avabodhanam  ====
   * understanding --- [[books:sb:3:25:29|SB 3.25.29]]

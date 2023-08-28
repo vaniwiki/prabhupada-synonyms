@@ -1,5 +1,11 @@
-~~Title:ghucaila~~
-{{description>let free; vanquished.}}
+---json
+{
+    "name":"ghucaila",
+    "h1":"ghucaila",
+    "title":"ghucaila",
+    "description":"let free; vanquished."
+}
+---
 
 ==== ghucāila  ====
   * let free --- [[books:cc:madhya:14:54|Madhya 14.54]]

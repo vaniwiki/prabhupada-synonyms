@@ -1,5 +1,11 @@
-~~Title:vidhah~~
-{{description>like; varieties.}}
+---json
+{
+    "name":"vidhah",
+    "h1":"vidhah",
+    "title":"vidhah",
+    "description":"like; varieties."
+}
+---
 
 ==== vidhaḥ  ====
   * like --- [[books:sb:4:6:47|SB 4.6.47]]

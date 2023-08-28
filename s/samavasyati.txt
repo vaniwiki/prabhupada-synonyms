@@ -1,5 +1,11 @@
-~~Title:samavasyati~~
-{{description>can achieve; reaches.}}
+---json
+{
+    "name":"samavasyati",
+    "h1":"samavasyati",
+    "title":"samavasyati",
+    "description":"can achieve; reaches."
+}
+---
 
 ==== samavasyati  ====
   * can achieve --- [[books:sb:2:7:41|SB 2.7.41]]

@@ -1,5 +1,11 @@
-~~Title:apāharat~~
-{{description>separated; stole.}}
+---json
+{
+    "name":"apāharat",
+    "h1":"apāharat",
+    "title":"apāharat",
+    "description":"separated; stole."
+}
+---
 
 ==== apāharat  ====
   * separated --- [[books:sb:8:11:18|SB 8.11.18]]

@@ -1,5 +1,11 @@
-~~Title:upasyandayati~~
-{{description>flows through.}}
+---json
+{
+    "name":"upasyandayati",
+    "h1":"upasyandayati",
+    "title":"upasyandayati",
+    "description":"flows through."
+}
+---
 
 ==== upasyandayati  ====
   * flows through --- [[books:sb:5:16:19|SB 5.16.19]]

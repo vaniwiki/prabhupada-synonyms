@@ -1,5 +1,11 @@
-~~Title:kledanam~~
-{{description>moistening.}}
+---json
+{
+    "name":"kledanam",
+    "h1":"kledanam",
+    "title":"kledanam",
+    "description":"moistening."
+}
+---
 
 ==== kledanam  ====
   * moistening --- [[books:sb:3:26:43|SB 3.26.43]]

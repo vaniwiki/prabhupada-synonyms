@@ -1,5 +1,11 @@
-~~Title:bhogān~~
-{{description>all enjoyable opulences; all material opulences; enjoyable things; enjoyments; fortunes; material happiness; necessities of life; pleasures; sense enjoyment; sense enjoyments; sense gratification.}}
+---json
+{
+    "name":"bhogān",
+    "h1":"bhogān",
+    "title":"bhogān",
+    "description":"all enjoyable opulences; all material opulences; enjoyable things; enjoyments; fortunes; material happiness; necessities of life; pleasures; sense enjoyment; sense enjoyments; sense gratification."
+}
+---
 
 ==== bhogān  ====
   * all enjoyable opulences --- [[books:sb:6:16:3|SB 6.16.3]]

@@ -1,5 +1,11 @@
-~~Title:sinci~~
-{{description>sprinkle.}}
+---json
+{
+    "name":"sinci",
+    "h1":"sinci",
+    "title":"sinci",
+    "description":"sprinkle."
+}
+---
 
 ==== siñci  ====
   * sprinkle --- [[books:cc:adi:9:38|Ādi 9.38]]

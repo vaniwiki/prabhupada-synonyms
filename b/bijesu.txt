@@ -1,5 +1,11 @@
-~~Title:bījeṣu~~
-{{description>the root cause of being present in this material world.}}
+---json
+{
+    "name":"bījeṣu",
+    "h1":"bījeṣu",
+    "title":"bījeṣu",
+    "description":"the root cause of being present in this material world."
+}
+---
 
 ==== saṁsāra-bījeṣu  ====
   * the root cause of being present in this material world --- [[books:sb:7:10:3|SB 7.10.3]]

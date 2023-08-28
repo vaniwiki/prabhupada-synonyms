@@ -1,5 +1,11 @@
-~~Title:praskanna~~
-{{description>lost.}}
+---json
+{
+    "name":"praskanna",
+    "h1":"praskanna",
+    "title":"praskanna",
+    "description":"lost."
+}
+---
 
 ==== praskanna  ====
   * lost --- [[books:sb:5:14:28|SB 5.14.28]]

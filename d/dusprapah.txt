@@ -1,5 +1,11 @@
-~~Title:duṣprāpaḥ~~
-{{description>difficult to obtain.}}
+---json
+{
+    "name":"duṣprāpaḥ",
+    "h1":"duṣprāpaḥ",
+    "title":"duṣprāpaḥ",
+    "description":"difficult to obtain."
+}
+---
 
 ==== duṣprāpaḥ  ====
   * difficult to obtain --- [[books:bg:6:36|Bg. 6.36]]

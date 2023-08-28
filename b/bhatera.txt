@@ -1,5 +1,11 @@
-~~Title:bhātera~~
-{{description>the cooking pot.}}
+---json
+{
+    "name":"bhātera",
+    "h1":"bhātera",
+    "title":"bhātera",
+    "description":"the cooking pot."
+}
+---
 
 ==== bhātera hāṇḍi  ====
   * the cooking pot --- [[books:cc:antya:13:54|Antya 13.54]]

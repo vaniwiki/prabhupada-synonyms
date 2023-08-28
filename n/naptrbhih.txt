@@ -1,5 +1,11 @@
-~~Title:naptṛbhiḥ~~
-{{description>with grandsons from daughters.}}
+---json
+{
+    "name":"naptṛbhiḥ",
+    "h1":"naptṛbhiḥ",
+    "title":"naptṛbhiḥ",
+    "description":"with grandsons from daughters."
+}
+---
 
 ==== naptṛbhiḥ  ====
   * with grandsons from daughters --- [[books:sb:3:7:24|SB 3.7.24]]

@@ -1,5 +1,11 @@
-~~Title:uktaya~~
-{{description>as described in the Vedic literature (not mixed with jñāna or karma).}}
+---json
+{
+    "name":"uktaya",
+    "h1":"uktaya",
+    "title":"uktaya",
+    "description":"as described in the Vedic literature (not mixed with jñāna or karma)."
+}
+---
 
 ==== uktayā  ====
   * as described in the Vedic literature (not mixed with //jñāna// or //karma//) --- [[books:sb:7:7:40|SB 7.7.40]]

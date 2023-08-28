@@ -1,5 +1,11 @@
-~~Title:othā~~
-{{description>there.}}
+---json
+{
+    "name":"othā",
+    "h1":"othā",
+    "title":"othā",
+    "description":"there."
+}
+---
 
 ==== othā  ====
   * there --- [[books:cc:antya:18:59|Antya 18.59]]

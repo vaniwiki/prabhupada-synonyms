@@ -1,5 +1,11 @@
-~~Title:avāpuḥ~~
-{{description>achieved; attained; obtained.}}
+---json
+{
+    "name":"avāpuḥ",
+    "h1":"avāpuḥ",
+    "title":"avāpuḥ",
+    "description":"achieved; attained; obtained."
+}
+---
 
 ==== avāpuḥ  ====
   * achieved --- [[books:cc:madhya:24:120|Madhya 24.120]]

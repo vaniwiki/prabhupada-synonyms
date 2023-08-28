@@ -1,5 +1,11 @@
-~~Title:agare~~
-{{description>in the sacrificial hall.}}
+---json
+{
+    "name":"agare",
+    "h1":"agare",
+    "title":"agare",
+    "description":"in the sacrificial hall."
+}
+---
 
 ==== agni-agāre  ====
   * in the sacrificial hall --- [[books:sb:3:14:9|SB 3.14.9]]

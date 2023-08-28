@@ -1,5 +1,11 @@
-~~Title:guptaye~~
-{{description>for the protection.}}
+---json
+{
+    "name":"guptaye",
+    "h1":"guptaye",
+    "title":"guptaye",
+    "description":"for the protection."
+}
+---
 
 ==== guptaye  ====
   * for the protection --- [[books:sb:5:1:22|SB 5.1.22]]

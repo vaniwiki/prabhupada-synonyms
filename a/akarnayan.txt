@@ -1,5 +1,11 @@
-~~Title:ākarṇayan~~
-{{description>hearing.}}
+---json
+{
+    "name":"ākarṇayan",
+    "h1":"ākarṇayan",
+    "title":"ākarṇayan",
+    "description":"hearing."
+}
+---
 
 ==== ākarṇayan  ====
   * hearing --- [[books:sb:3:21:34|SB 3.21.34]]

@@ -1,5 +1,11 @@
-~~Title:sunandāyām~~
-{{description>on the bank of the River Sunandā.}}
+---json
+{
+    "name":"sunandāyām",
+    "h1":"sunandāyām",
+    "title":"sunandāyām",
+    "description":"on the bank of the River Sunandā."
+}
+---
 
 ==== sunandāyām  ====
   * on the bank of the River Sunandā --- [[books:sb:8:1:8|SB 8.1.8]]

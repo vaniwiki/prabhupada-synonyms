@@ -1,5 +1,11 @@
-~~Title:indhe~~
-{{description>burns.}}
+---json
+{
+    "name":"indhe",
+    "h1":"indhe",
+    "title":"indhe",
+    "description":"burns."
+}
+---
 
 ==== indhe  ====
   * burns --- [[books:sb:3:29:42|SB 3.29.42]]

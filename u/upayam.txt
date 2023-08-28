@@ -1,5 +1,11 @@
-~~Title:upāyam~~
-{{description>means (how to stop it); means; the means; the means of protection in this dangerous position.}}
+---json
+{
+    "name":"upāyam",
+    "h1":"upāyam",
+    "title":"upāyam",
+    "description":"means (how to stop it); means; the means; the means of protection in this dangerous position."
+}
+---
 
 ==== upāyam  ====
   * means (how to stop it) --- [[books:sb:7:10:61|SB 7.10.61]]

@@ -1,5 +1,11 @@
-~~Title:pāśam~~
-{{description>entanglement.}}
+---json
+{
+    "name":"pāśam",
+    "h1":"pāśam",
+    "title":"pāśam",
+    "description":"entanglement."
+}
+---
 
 ==== pāśam  ====
   * entanglement --- [[books:sb:3:25:20|SB 3.25.20]]

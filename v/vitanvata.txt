@@ -1,5 +1,11 @@
-~~Title:vitanvatā~~
-{{description>amplified; broadcasting.}}
+---json
+{
+    "name":"vitanvatā",
+    "h1":"vitanvatā",
+    "title":"vitanvatā",
+    "description":"amplified; broadcasting."
+}
+---
 
 ==== vitanvatā  ====
   * amplified --- [[books:sb:2:4:22|SB 2.4.22]]

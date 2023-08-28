@@ -1,5 +1,11 @@
-~~Title:sthitiḥ~~
-{{description>maintenance; residence; situated; situation; the right situation.}}
+---json
+{
+    "name":"sthitiḥ",
+    "h1":"sthitiḥ",
+    "title":"sthitiḥ",
+    "description":"maintenance; residence; situated; situation; the right situation."
+}
+---
 
 ==== sthitiḥ  ====
   * maintenance --- [[books:sb:4:11:16|SB 4.11.16]], [[books:sb:7:9:31|SB 7.9.31]], [[books:sb:10:2:39|SB 10.2.39]]

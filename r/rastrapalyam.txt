@@ -1,5 +1,11 @@
-~~Title:rāṣṭrapālyām~~
-{{description>through his wife, Rāṣṭrapālikā.}}
+---json
+{
+    "name":"rāṣṭrapālyām",
+    "h1":"rāṣṭrapālyām",
+    "title":"rāṣṭrapālyām",
+    "description":"through his wife, Rāṣṭrapālikā."
+}
+---
 
 ==== rāṣṭrapālyām  ====
   * through his wife, Rāṣṭrapālikā --- [[books:sb:9:24:42|SB 9.24.42]]

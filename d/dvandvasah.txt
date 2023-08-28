@@ -1,5 +1,11 @@
-~~Title:dvandvaśaḥ~~
-{{description>in groups of two.}}
+---json
+{
+    "name":"dvandvaśaḥ",
+    "h1":"dvandvaśaḥ",
+    "title":"dvandvaśaḥ",
+    "description":"in groups of two."
+}
+---
 
 ==== dvandvaśaḥ  ====
   * in groups of two --- [[books:sb:5:21:18|SB 5.21.18]]

@@ -1,5 +1,11 @@
-~~Title:aṅkīkṛtām~~
-{{description>sitting on his lap.}}
+---json
+{
+    "name":"aṅkīkṛtām",
+    "h1":"aṅkīkṛtām",
+    "title":"aṅkīkṛtām",
+    "description":"sitting on his lap."
+}
+---
 
 ==== aṅkīkṛtām  ====
   * sitting on his lap --- [[books:sb:6:17:4-5|SB 6.17.4-5]]

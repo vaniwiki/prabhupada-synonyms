@@ -1,5 +1,11 @@
-~~Title:eimāse~~
-{{description>in this month.}}
+---json
+{
+    "name":"eimāse",
+    "h1":"eimāse",
+    "title":"eimāse",
+    "description":"in this month."
+}
+---
 
 ==== eimāse  ====
   * in this month --- [[books:cc:adi:13:88|Ādi 13.88]]

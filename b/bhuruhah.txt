@@ -1,5 +1,11 @@
-~~Title:bhūruhāḥ~~
-{{description>the creepers and trees; the trees.}}
+---json
+{
+    "name":"bhūruhāḥ",
+    "h1":"bhūruhāḥ",
+    "title":"bhūruhāḥ",
+    "description":"the creepers and trees; the trees."
+}
+---
 
 ==== bhūruhāḥ  ====
   * the creepers and trees --- [[books:sb:6:6:28|SB 6.6.28]]

@@ -1,5 +1,11 @@
-~~Title:samagṛṇan~~
-{{description>praised.}}
+---json
+{
+    "name":"samagṛṇan",
+    "h1":"samagṛṇan",
+    "title":"samagṛṇan",
+    "description":"praised."
+}
+---
 
 ==== samagṛṇan  ====
   * praised --- [[books:sb:3:15:45|SB 3.15.45]]

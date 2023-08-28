@@ -1,5 +1,11 @@
-~~Title:adhiguṇaḥ~~
-{{description>so qualified.}}
+---json
+{
+    "name":"adhiguṇaḥ",
+    "h1":"adhiguṇaḥ",
+    "title":"adhiguṇaḥ",
+    "description":"so qualified."
+}
+---
 
 ==== adhiguṇaḥ  ====
   * so qualified --- [[books:cc:antya:6:263|Antya 6.263]]

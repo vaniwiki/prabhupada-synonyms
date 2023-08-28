@@ -1,5 +1,11 @@
-~~Title:vyajane~~
-{{description>engaged in fanning.}}
+---json
+{
+    "name":"vyajane",
+    "h1":"vyajane",
+    "title":"vyajane",
+    "description":"engaged in fanning."
+}
+---
 
 ==== vyajane  ====
   * engaged in fanning --- [[books:sb:1:10:18|SB 1.10.18]]

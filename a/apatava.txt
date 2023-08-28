@@ -1,5 +1,11 @@
-~~Title:apāṭava~~
-{{description>imperfectness of the senses; inefficiency of the material senses.}}
+---json
+{
+    "name":"apāṭava",
+    "h1":"apāṭava",
+    "title":"apāṭava",
+    "description":"imperfectness of the senses; inefficiency of the material senses."
+}
+---
 
 ==== karaṇa-apāṭava  ====
   * imperfectness of the senses --- [[books:cc:adi:2:86|Ādi 2.86]]

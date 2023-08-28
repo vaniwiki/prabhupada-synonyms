@@ -1,5 +1,11 @@
-~~Title:atulya~~
-{{description>incomparable.}}
+---json
+{
+    "name":"atulya",
+    "h1":"atulya",
+    "title":"atulya",
+    "description":"incomparable."
+}
+---
 
 ==== atulya  ====
   * incomparable --- [[books:sb:10:10:34-35|SB 10.10.34-35]], [[books:cc:madhya:20:355|Madhya 20.355]]

@@ -1,5 +1,11 @@
-~~Title:anukāra~~
-{{description>imitating.}}
+---json
+{
+    "name":"anukāra",
+    "h1":"anukāra",
+    "title":"anukāra",
+    "description":"imitating."
+}
+---
 
 ==== anukāra  ====
   * imitating --- [[books:cc:adi:17:118|Ādi 17.118]]

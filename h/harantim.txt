@@ -1,5 +1,11 @@
-~~Title:harantīm~~
-{{description>everyone's attention was attracted (by her).}}
+---json
+{
+    "name":"harantīm",
+    "h1":"harantīm",
+    "title":"harantīm",
+    "description":"everyone's attention was attracted (by her)."
+}
+---
 
 ==== manaḥ harantīm  ====
   * everyone's attention was attracted (by her) --- [[books:sb:10:6:5-6|SB 10.6.5-6]]

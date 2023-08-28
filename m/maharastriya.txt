@@ -1,5 +1,11 @@
-~~Title:mahārāṣṭrīya~~
-{{description>belonging to the Mahārāṣṭra state.}}
+---json
+{
+    "name":"mahārāṣṭrīya",
+    "h1":"mahārāṣṭrīya",
+    "title":"mahārāṣṭrīya",
+    "description":"belonging to the Mahārāṣṭra state."
+}
+---
 
 ==== mahārāṣṭrīya  ====
   * belonging to the Mahārāṣṭra state --- [[books:cc:madhya:17:101|Madhya 17.101]]

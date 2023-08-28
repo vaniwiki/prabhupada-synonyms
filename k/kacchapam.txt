@@ -1,5 +1,11 @@
-~~Title:kacchapam~~
-{{description>tortoise.}}
+---json
+{
+    "name":"kacchapam",
+    "h1":"kacchapam",
+    "title":"kacchapam",
+    "description":"tortoise."
+}
+---
 
 ==== kacchapam  ====
   * tortoise --- [[books:sb:8:7:8|SB 8.7.8]]

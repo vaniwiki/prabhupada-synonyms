@@ -1,5 +1,11 @@
-~~Title:apahnavam~~
-{{description>counteraction; destruction.}}
+---json
+{
+    "name":"apahnavam",
+    "h1":"apahnavam",
+    "title":"apahnavam",
+    "description":"counteraction; destruction."
+}
+---
 
 ==== apahnavam  ====
   * counteraction --- [[books:sb:9:19:1|SB 9.19.1]]

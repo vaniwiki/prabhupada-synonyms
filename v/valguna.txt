@@ -1,5 +1,11 @@
-~~Title:valgunā~~
-{{description>by very nice; very beautifully attractive.}}
+---json
+{
+    "name":"valgunā",
+    "h1":"valgunā",
+    "title":"valgunā",
+    "description":"by very nice; very beautifully attractive."
+}
+---
 
 ==== valgunā  ====
   * by very nice --- [[books:sb:4:28:51|SB 4.28.51]]

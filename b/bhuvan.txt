@@ -1,5 +1,11 @@
-~~Title:bhūvan~~
-{{description>it so happened.}}
+---json
+{
+    "name":"bhūvan",
+    "h1":"bhūvan",
+    "title":"bhūvan",
+    "description":"it so happened."
+}
+---
 
 ==== bhūvan  ====
   * it so happened --- [[books:sb:1:17:12|SB 1.17.12]]

@@ -1,5 +1,11 @@
-~~Title:rudrah~~
-{{description>an incarnation of Lord Śiva; Lord Śiva; Rudra.}}
+---json
+{
+    "name":"rudrah",
+    "h1":"rudrah",
+    "title":"rudrah",
+    "description":"an incarnation of Lord Śiva; Lord Śiva; Rudra."
+}
+---
 
 ==== rudraḥ  ====
   * an incarnation of Lord Śiva --- [[books:sb:5:25:3|SB 5.25.3]], [[books:sb:6:10:15|SB 6.10.15]]

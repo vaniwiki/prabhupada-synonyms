@@ -1,5 +1,11 @@
-~~Title:pūjayadhvam~~
-{{description>just worship Him.}}
+---json
+{
+    "name":"pūjayadhvam",
+    "h1":"pūjayadhvam",
+    "title":"pūjayadhvam",
+    "description":"just worship Him."
+}
+---
 
 ==== pūjayadhvam  ====
   * just worship Him --- [[books:sb:4:24:70|SB 4.24.70]]

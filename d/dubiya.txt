@@ -1,5 +1,11 @@
-~~Title:ḍubiyā~~
-{{description>sinking.}}
+---json
+{
+    "name":"ḍubiyā",
+    "h1":"ḍubiyā",
+    "title":"ḍubiyā",
+    "description":"sinking."
+}
+---
 
 ==== ḍubiyā  ====
   * sinking --- [[books:cc:madhya:18:137|Madhya 18.137]]

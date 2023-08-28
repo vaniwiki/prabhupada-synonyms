@@ -1,5 +1,11 @@
-~~Title:putratām~~
-{{description>sonhood under Ākūti and Devahūti; the son.}}
+---json
+{
+    "name":"putratām",
+    "h1":"putratām",
+    "title":"putratām",
+    "description":"sonhood under Ākūti and Devahūti; the son."
+}
+---
 
 ==== putratām  ====
   * sonhood under Ākūti and Devahūti --- [[books:sb:8:1:5|SB 8.1.5]]

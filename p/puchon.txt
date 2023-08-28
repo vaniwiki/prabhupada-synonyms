@@ -1,5 +1,11 @@
-~~Title:puchoṅ~~
-{{description>shall I ask.}}
+---json
+{
+    "name":"puchoṅ",
+    "h1":"puchoṅ",
+    "title":"puchoṅ",
+    "description":"shall I ask."
+}
+---
 
 ==== puchoṅ  ====
   * shall I ask --- [[books:cc:antya:17:52|Antya 17.52]]

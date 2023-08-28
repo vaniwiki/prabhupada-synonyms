@@ -1,5 +1,11 @@
-~~Title:spṛśanti~~
-{{description>can touch; touch.}}
+---json
+{
+    "name":"spṛśanti",
+    "h1":"spṛśanti",
+    "title":"spṛśanti",
+    "description":"can touch; touch."
+}
+---
 
 ==== spṛśanti  ====
   * can touch --- [[books:sb:6:16:23|SB 6.16.23]]

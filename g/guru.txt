@@ -1,5 +1,11 @@
-~~Title:guru~~
-{{description>sannyāsa-guru; a superior; as the spiritual master; Droṇācārya; grave; great; heaviness; His spiritual master; master; momentous; My spiritual master; of spiritual master; of the spiritual master; preceptors; spiritual master; spiritual masters; superior; superior teacher; superiors; teacher; teachers; the spiritual master; the spiritual masters; the teacher; to the elders; to those on the level of the spiritual master.}}
+---json
+{
+    "name":"guru",
+    "h1":"guru",
+    "title":"guru",
+    "description":"sannyāsa-guru; a superior; as the spiritual master; Droṇācārya; grave; great; heaviness; His spiritual master; master; momentous; My spiritual master; of spiritual master; of the spiritual master; preceptors; spiritual master; spiritual masters; superior; superior teacher; superiors; teacher; teachers; the spiritual master; the spiritual masters; the teacher; to the elders; to those on the level of the spiritual master."
+}
+---
 
 ==== guru  ====
   * //sannyāsa-guru// --- [[books:cc:madhya:6:71|Madhya 6.71]]

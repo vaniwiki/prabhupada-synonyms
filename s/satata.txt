@@ -1,5 +1,11 @@
-~~Title:satata~~
-{{description>always.}}
+---json
+{
+    "name":"satata",
+    "h1":"satata",
+    "title":"satata",
+    "description":"always."
+}
+---
 
 ==== satata  ====
   * always --- [[books:bg:12:1|Bg. 12.1]], [[books:cc:adi:1:61|Ādi 1.61]], [[books:cc:madhya:2:76|Madhya 2.76]], [[books:cc:antya:2:79|Antya 2.79]], [[books:cc:antya:15:6|Antya 15.6]]

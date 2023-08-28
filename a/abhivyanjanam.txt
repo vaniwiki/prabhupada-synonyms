@@ -1,5 +1,11 @@
-~~Title:abhivyañjanam~~
-{{description>physical knowledge.}}
+---json
+{
+    "name":"abhivyañjanam",
+    "h1":"abhivyañjanam",
+    "title":"abhivyañjanam",
+    "description":"physical knowledge."
+}
+---
 
 ==== abhivyañjanam  ====
   * physical knowledge --- [[books:sb:3:5:30|SB 3.5.30]]

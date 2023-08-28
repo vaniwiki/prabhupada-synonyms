@@ -1,5 +1,11 @@
-~~Title:dekhuka~~
-{{description>let it be seen.}}
+---json
+{
+    "name":"dekhuka",
+    "h1":"dekhuka",
+    "title":"dekhuka",
+    "description":"let it be seen."
+}
+---
 
 ==== dekhuka  ====
   * let it be seen --- [[books:cc:madhya:1:202|Madhya 1.202]]

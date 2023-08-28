@@ -1,5 +1,11 @@
-~~Title:bhāvite~~
-{{description>thinking of.}}
+---json
+{
+    "name":"bhāvite",
+    "h1":"bhāvite",
+    "title":"bhāvite",
+    "description":"thinking of."
+}
+---
 
 ==== bhāvite  ====
   * thinking of --- [[books:cc:antya:1:36|Antya 1.36]]

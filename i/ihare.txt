@@ -1,5 +1,11 @@
-~~Title:ihāre~~
-{{description>such behavior; this boy; to him; to this boy; unto them.}}
+---json
+{
+    "name":"ihāre",
+    "h1":"ihāre",
+    "title":"ihāre",
+    "description":"such behavior; this boy; to him; to this boy; unto them."
+}
+---
 
 ==== ihāre  ====
   * such behavior --- [[books:cc:antya:3:19|Antya 3.19]]

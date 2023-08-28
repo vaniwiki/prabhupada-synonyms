@@ -1,5 +1,11 @@
-~~Title:aśvi~~
-{{description>the Aśvinī-kumāras.}}
+---json
+{
+    "name":"aśvi",
+    "h1":"aśvi",
+    "title":"aśvi",
+    "description":"the Aśvinī-kumāras."
+}
+---
 
 ==== aśvi  ====
   * the Aśvinī-kumāras --- [[books:sb:2:5:30|SB 2.5.30]]

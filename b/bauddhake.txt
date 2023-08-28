@@ -1,5 +1,11 @@
-~~Title:bauddhake~~
-{{description>even Buddhists.}}
+---json
+{
+    "name":"bauddhake",
+    "h1":"bauddhake",
+    "title":"bauddhake",
+    "description":"even Buddhists."
+}
+---
 
 ==== bauddhake  ====
   * even Buddhists --- [[books:cc:madhya:6:168|Madhya 6.168]]

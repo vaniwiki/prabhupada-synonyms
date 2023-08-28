@@ -1,5 +1,11 @@
-~~Title:jaimineḥ~~
-{{description>because of accepting Jaimini as his spiritual master.}}
+---json
+{
+    "name":"jaimineḥ",
+    "h1":"jaimineḥ",
+    "title":"jaimineḥ",
+    "description":"because of accepting Jaimini as his spiritual master."
+}
+---
 
 ==== jaimineḥ  ====
   * because of accepting Jaimini as his spiritual master --- [[books:sb:9:12:3-4|SB 9.12.3-4]]

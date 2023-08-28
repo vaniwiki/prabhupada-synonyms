@@ -1,5 +1,11 @@
-~~Title:adhyatmikim~~
-{{description>spiritual.}}
+---json
+{
+    "name":"adhyatmikim",
+    "h1":"adhyatmikim",
+    "title":"adhyatmikim",
+    "description":"spiritual."
+}
+---
 
 ==== adhyātmikīm  ====
   * spiritual --- [[books:sb:9:6:55|SB 9.6.55]]

@@ -1,5 +1,11 @@
-~~Title:rajam~~
-{{description>the original king.}}
+---json
+{
+    "name":"rajam",
+    "h1":"rajam",
+    "title":"rajam",
+    "description":"the original king."
+}
+---
 
 ==== ādi-rājam  ====
   * the original king --- [[books:sb:4:16:21|SB 4.16.21]]

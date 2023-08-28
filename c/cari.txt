@@ -1,5 +1,11 @@
-~~Title:cari~~
-{{description>and four; four; four kinds of liberation; in four.}}
+---json
+{
+    "name":"cari",
+    "h1":"cari",
+    "title":"cari",
+    "description":"and four; four; four kinds of liberation; in four."
+}
+---
 
 ==== cāri  ====
   * and four --- [[books:cc:adi:3:48|Ādi 3.48]]

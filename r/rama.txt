@@ -1,5 +1,11 @@
-~~Title:rama~~
-{{description>known as Ramā; the goddess of fortune; Balarāma; Lord Rāma; Lord Rāmacandra; Lord Śrī Rāmacandra; my Lord Rāma.}}
+---json
+{
+    "name":"rama",
+    "h1":"rama",
+    "title":"rama",
+    "description":"known as Ramā; the goddess of fortune; Balarāma; Lord Rāma; Lord Rāmacandra; Lord Śrī Rāmacandra; my Lord Rāma."
+}
+---
 
 ==== ramā  ====
   * known as Ramā --- [[books:sb:8:8:8|SB 8.8.8]]

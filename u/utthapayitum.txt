@@ -1,5 +1,11 @@
-~~Title:utthāpayitum~~
-{{description>to arouse; to awaken.}}
+---json
+{
+    "name":"utthāpayitum",
+    "h1":"utthāpayitum",
+    "title":"utthāpayitum",
+    "description":"to arouse; to awaken."
+}
+---
 
 ==== utthāpayitum  ====
   * to arouse --- [[books:sb:3:26:71|SB 3.26.71]]

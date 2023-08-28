@@ -1,5 +1,11 @@
-~~Title:yamadūtaiḥ~~
-{{description>by the messengers of Yamarāja.}}
+---json
+{
+    "name":"yamadūtaiḥ",
+    "h1":"yamadūtaiḥ",
+    "title":"yamadūtaiḥ",
+    "description":"by the messengers of Yamarāja."
+}
+---
 
 ==== yamadūtaiḥ  ====
   * by the messengers of Yamarāja --- [[books:sb:6:1:37|SB 6.1.37]]

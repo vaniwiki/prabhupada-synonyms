@@ -1,5 +1,11 @@
-~~Title:jighāṁsati~~
-{{description>desires to harm; desires to kill.}}
+---json
+{
+    "name":"jighāṁsati",
+    "h1":"jighāṁsati",
+    "title":"jighāṁsati",
+    "description":"desires to harm; desires to kill."
+}
+---
 
 ==== jighāṁsati  ====
   * desires to harm --- [[books:sb:4:14:11|SB 4.14.11]]

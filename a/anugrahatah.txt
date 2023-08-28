@@ -1,5 +1,11 @@
-~~Title:anugrahataḥ~~
-{{description>by the mercy of.}}
+---json
+{
+    "name":"anugrahataḥ",
+    "h1":"anugrahataḥ",
+    "title":"anugrahataḥ",
+    "description":"by the mercy of."
+}
+---
 
 ==== anugrahataḥ  ====
   * by the mercy of --- [[books:sb:2:10:12|SB 2.10.12]]

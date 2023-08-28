@@ -1,5 +1,11 @@
-~~Title:gagane~~
-{{description>in outer space; in the sky.}}
+---json
+{
+    "name":"gagane",
+    "h1":"gagane",
+    "title":"gagane",
+    "description":"in outer space; in the sky."
+}
+---
 
 ==== gagane  ====
   * in outer space --- [[books:sb:6:17:1|SB 6.17.1]]

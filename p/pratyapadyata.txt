@@ -1,5 +1,11 @@
-~~Title:pratyapadyata~~
-{{description>began to follow; left; returned.}}
+---json
+{
+    "name":"pratyapadyata",
+    "h1":"pratyapadyata",
+    "title":"pratyapadyata",
+    "description":"began to follow; left; returned."
+}
+---
 
 ==== pratyapadyata  ====
   * began to follow --- [[books:sb:8:12:31|SB 8.12.31]]

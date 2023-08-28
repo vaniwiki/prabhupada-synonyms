@@ -1,5 +1,11 @@
-~~Title:yadvā~~
-{{description>that may be.}}
+---json
+{
+    "name":"yadvā",
+    "h1":"yadvā",
+    "title":"yadvā",
+    "description":"that may be."
+}
+---
 
 ==== yadvā  ====
   * that may be --- [[books:sb:1:16:23|SB 1.16.23]]

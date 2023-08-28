@@ -1,5 +1,11 @@
-~~Title:samagram~~
-{{description>all; completely; in sum total; in total; the whole.}}
+---json
+{
+    "name":"samagram",
+    "h1":"samagram",
+    "title":"samagram",
+    "description":"all; completely; in sum total; in total; the whole."
+}
+---
 
 ==== samagram  ====
   * all --- [[books:bg:11:30|Bg. 11.30]]

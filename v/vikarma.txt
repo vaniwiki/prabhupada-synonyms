@@ -1,5 +1,11 @@
-~~Title:vikarma~~
-{{description>forbidden activities; sinful activities; sinful activities forbidden in the scriptures; work without sense.}}
+---json
+{
+    "name":"vikarma",
+    "h1":"vikarma",
+    "title":"vikarma",
+    "description":"forbidden activities; sinful activities; sinful activities forbidden in the scriptures; work without sense."
+}
+---
 
 ==== vikarma  ====
   * forbidden activities --- [[books:sb:5:18:3|SB 5.18.3]]

@@ -1,5 +1,11 @@
-~~Title:tabhu~~
-{{description>still.}}
+---json
+{
+    "name":"tabhu",
+    "h1":"tabhu",
+    "title":"tabhu",
+    "description":"still."
+}
+---
 
 ==== tabhu  ====
   * still --- [[books:cc:adi:14:64|Ādi 14.64]]

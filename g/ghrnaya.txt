@@ -1,5 +1,11 @@
-~~Title:ghṛṇayā~~
-{{description>with great affection.}}
+---json
+{
+    "name":"ghṛṇayā",
+    "h1":"ghṛṇayā",
+    "title":"ghṛṇayā",
+    "description":"with great affection."
+}
+---
 
 ==== ghṛṇayā  ====
   * with great affection --- [[books:sb:10:8:23|SB 10.8.23]]

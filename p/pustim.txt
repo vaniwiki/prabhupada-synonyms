@@ -1,5 +1,11 @@
-~~Title:puṣṭim~~
-{{description>completion of the highest humor.}}
+---json
+{
+    "name":"puṣṭim",
+    "h1":"puṣṭim",
+    "title":"puṣṭim",
+    "description":"completion of the highest humor."
+}
+---
 
 ==== rasa-puṣṭim  ====
   * completion of the highest humor --- [[books:cc:madhya:8:206|Madhya 8.206]]

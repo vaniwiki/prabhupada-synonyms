@@ -1,5 +1,11 @@
-~~Title:uddharan~~
-{{description>uprooting.}}
+---json
+{
+    "name":"uddharan",
+    "h1":"uddharan",
+    "title":"uddharan",
+    "description":"uprooting."
+}
+---
 
 ==== uddharan  ====
   * uprooting --- [[books:sb:3:24:17|SB 3.24.17]]

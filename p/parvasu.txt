@@ -1,5 +1,11 @@
-~~Title:parvasu~~
-{{description>to the joints of the thumbs.}}
+---json
+{
+    "name":"parvasu",
+    "h1":"parvasu",
+    "title":"parvasu",
+    "description":"to the joints of the thumbs."
+}
+---
 
 ==== aṅguṣṭha-parvasu  ====
   * to the joints of the thumbs --- [[books:sb:6:8:7|SB 6.8.7]]

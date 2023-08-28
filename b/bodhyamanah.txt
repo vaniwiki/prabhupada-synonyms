@@ -1,5 +1,11 @@
-~~Title:bodhyamānaḥ~~
-{{description>even being pacified.}}
+---json
+{
+    "name":"bodhyamānaḥ",
+    "h1":"bodhyamānaḥ",
+    "title":"bodhyamānaḥ",
+    "description":"even being pacified."
+}
+---
 
 ==== bodhyamānaḥ api  ====
   * even being pacified --- [[books:sb:10:1:46|SB 10.1.46]]

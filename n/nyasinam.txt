@@ -1,5 +1,11 @@
-~~Title:nyāsinām~~
-{{description>of persons in the renounced order of life; of those in the renounced order of life.}}
+---json
+{
+    "name":"nyāsinām",
+    "h1":"nyāsinām",
+    "title":"nyāsinām",
+    "description":"of persons in the renounced order of life; of those in the renounced order of life."
+}
+---
 
 ==== nyāsinām  ====
   * of persons in the renounced order of life --- [[books:sb:4:30:36|SB 4.30.36]]

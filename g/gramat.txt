@@ -1,5 +1,11 @@
-~~Title:grāmāt~~
-{{description>from all miseries.}}
+---json
+{
+    "name":"grāmāt",
+    "h1":"grāmāt",
+    "title":"grāmāt",
+    "description":"from all miseries."
+}
+---
 
 ==== duḥkha-grāmāt  ====
   * from all miseries --- [[books:sb:1:3:29|SB 1.3.29]]

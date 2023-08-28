@@ -1,5 +1,11 @@
-~~Title:gaṅgāyām~~
-{{description>in the Ganges water; in the womb of Gaṅgā, the wife of Śāntanu; on the bank of the Ganges; on the Ganges; the bank of the Ganges; the Ganges, known as Mandākinī; to the bank of the River Ganges.}}
+---json
+{
+    "name":"gaṅgāyām",
+    "h1":"gaṅgāyām",
+    "title":"gaṅgāyām",
+    "description":"in the Ganges water; in the womb of Gaṅgā, the wife of Śāntanu; on the bank of the Ganges; on the Ganges; the bank of the Ganges; the Ganges, known as Mandākinī; to the bank of the River Ganges."
+}
+---
 
 ==== gaṅgāyām  ====
   * in the Ganges water --- [[books:sb:1:13:33|SB 1.13.33]]

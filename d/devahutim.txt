@@ -1,5 +1,11 @@
-~~Title:devahūtim~~
-{{description>Devahūti.}}
+---json
+{
+    "name":"devahūtim",
+    "h1":"devahūtim",
+    "title":"devahūtim",
+    "description":"Devahūti."
+}
+---
 
 ==== devahūtim  ====
   * Devahūti --- [[books:sb:4:1:10|SB 4.1.10]]

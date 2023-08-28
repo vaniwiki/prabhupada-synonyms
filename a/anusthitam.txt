@@ -1,5 +1,11 @@
-~~Title:anuṣṭhitam~~
-{{description>done; executed; performed.}}
+---json
+{
+    "name":"anuṣṭhitam",
+    "h1":"anuṣṭhitam",
+    "title":"anuṣṭhitam",
+    "description":"done; executed; performed."
+}
+---
 
 ==== anuṣṭhitam  ====
   * done --- [[books:cc:madhya:15:269|Madhya 15.269]]

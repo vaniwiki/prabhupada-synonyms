@@ -1,5 +1,11 @@
-~~Title:sambhavam~~
-{{description>born of; creation; exhibition; origin.}}
+---json
+{
+    "name":"sambhavam",
+    "h1":"sambhavam",
+    "title":"sambhavam",
+    "description":"born of; creation; exhibition; origin."
+}
+---
 
 ==== sambhavam  ====
   * born of --- [[books:bg:10:41|Bg. 10.41]]

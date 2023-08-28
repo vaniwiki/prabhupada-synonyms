@@ -1,5 +1,11 @@
-~~Title:samūhaḥ~~
-{{description>bunch.}}
+---json
+{
+    "name":"samūhaḥ",
+    "h1":"samūhaḥ",
+    "title":"samūhaḥ",
+    "description":"bunch."
+}
+---
 
 ==== samūhaḥ  ====
   * bunch --- [[books:sb:3:20:36|SB 3.20.36]]

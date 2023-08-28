@@ -1,5 +1,11 @@
-~~Title:vetra~~
-{{description>cane stick; canes; of cane; sticks for controlling the calves.}}
+---json
+{
+    "name":"vetra",
+    "h1":"vetra",
+    "title":"vetra",
+    "description":"cane stick; canes; of cane; sticks for controlling the calves."
+}
+---
 
 ==== vetra  ====
   * cane stick --- [[books:cc:adi:11:21|Ādi 11.21]]

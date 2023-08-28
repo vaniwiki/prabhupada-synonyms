@@ -1,5 +1,11 @@
-~~Title:api~~
-{{description>also; api; a still more secluded place; again; alas; also (confirms); also (the human beings); also; although (I am in such a position); although; although apparently different; although he is; although He is so; although it is so; although not exposed to common eyes; although one; although there is; although there was; and also; as also; as He is; as well as; as you have stated; at the same time; better than that; certainly; definitely; despite; either; else; especially; even; even if; even if the body is so exalted; even though; even though it is so; even though new calves were present; even though there is; even with; exactly; for the sake of; I am wondering; if; if also; if so; in due course; in spite of; in spite of this situation; including; indeed; it may be; just now; may be; moreover; of the word api; or; others; over and above; so; still; surely; the word api; then; though; thus; verily; virtually; whether.}}
+---json
+{
+    "name":"api",
+    "h1":"api",
+    "title":"api",
+    "description":"also; api; a still more secluded place; again; alas; also (confirms); also (the human beings); also; although (I am in such a position); although; although apparently different; although he is; although He is so; although it is so; although not exposed to common eyes; although one; although there is; although there was; and also; as also; as He is; as well as; as you have stated; at the same time; better than that; certainly; definitely; despite; either; else; especially; even; even if; even if the body is so exalted; even though; even though it is so; even though new calves were present; even though there is; even with; exactly; for the sake of; I am wondering; if; if also; if so; in due course; in spite of; in spite of this situation; including; indeed; it may be; just now; may be; moreover; of the word api; or; others; over and above; so; still; surely; the word api; then; though; thus; verily; virtually; whether."
+}
+---
 
 ==== api  ====
   * //also// --- [[books:cc:madhya:14:227|Madhya 14.227]], [[books:cc:madhya:25:76|Madhya 25.76]]

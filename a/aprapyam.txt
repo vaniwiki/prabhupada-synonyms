@@ -1,5 +1,11 @@
-~~Title:aprāpyam~~
-{{description>impossible to achieve.}}
+---json
+{
+    "name":"aprāpyam",
+    "h1":"aprāpyam",
+    "title":"aprāpyam",
+    "description":"impossible to achieve."
+}
+---
 
 ==== aprāpyam  ====
   * impossible to achieve --- [[books:sb:4:14:20|SB 4.14.20]]

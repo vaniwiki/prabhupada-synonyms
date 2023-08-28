@@ -1,5 +1,11 @@
-~~Title:kṣulla~~
-{{description>little; very little.}}
+---json
+{
+    "name":"kṣulla",
+    "h1":"kṣulla",
+    "title":"kṣulla",
+    "description":"little; very little."
+}
+---
 
 ==== kṣulla  ====
   * little --- [[books:sb:3:5:10|SB 3.5.10]]

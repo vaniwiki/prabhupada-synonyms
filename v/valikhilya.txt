@@ -1,5 +1,11 @@
-~~Title:vālikhilya~~
-{{description>of the great sages named the Vālikhilyas.}}
+---json
+{
+    "name":"vālikhilya",
+    "h1":"vālikhilya",
+    "title":"vālikhilya",
+    "description":"of the great sages named the Vālikhilyas."
+}
+---
 
 ==== vālikhilya  ====
   * of the great sages named the Vālikhilyas --- [[books:sb:6:8:40|SB 6.8.40]]

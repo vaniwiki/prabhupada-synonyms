@@ -1,5 +1,11 @@
-~~Title:yoḍa~~
-{{description>folded.}}
+---json
+{
+    "name":"yoḍa",
+    "h1":"yoḍa",
+    "title":"yoḍa",
+    "description":"folded."
+}
+---
 
 ==== yoḍa  ====
   * folded --- [[books:cc:madhya:14:22|Madhya 14.22]]

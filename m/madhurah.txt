@@ -1,5 +1,11 @@
-~~Title:madhurah~~
-{{description>sweet.}}
+---json
+{
+    "name":"madhurah",
+    "h1":"madhurah",
+    "title":"madhurah",
+    "description":"sweet."
+}
+---
 
 ==== madhuraḥ  ====
   * sweet --- [[books:sb:3:26:42|SB 3.26.42]]

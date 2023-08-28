@@ -1,5 +1,11 @@
-~~Title:hanau~~
-{{description>at the chin; on the jaw.}}
+---json
+{
+    "name":"hanau",
+    "h1":"hanau",
+    "title":"hanau",
+    "description":"at the chin; on the jaw."
+}
+---
 
 ==== hanau  ====
   * at the chin --- [[books:sb:3:19:2|SB 3.19.2]]

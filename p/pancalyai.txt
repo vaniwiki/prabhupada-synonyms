@@ -1,5 +1,11 @@
-~~Title:pāñcālyai~~
-{{description>unto the daughter of the King of Pāñcāla (Draupadī).}}
+---json
+{
+    "name":"pāñcālyai",
+    "h1":"pāñcālyai",
+    "title":"pāñcālyai",
+    "description":"unto the daughter of the King of Pāñcāla (Draupadī)."
+}
+---
 
 ==== pāñcālyai  ====
   * unto the daughter of the King of Pāñcāla (Draupadī) --- [[books:sb:1:7:38|SB 1.7.38]]

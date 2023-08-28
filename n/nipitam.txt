@@ -1,5 +1,11 @@
-~~Title:nipītam~~
-{{description>imbibed.}}
+---json
+{
+    "name":"nipītam",
+    "h1":"nipītam",
+    "title":"nipītam",
+    "description":"imbibed."
+}
+---
 
 ==== nipītam  ====
   * imbibed --- [[books:cc:adi:4:155|Ādi 4.155]]

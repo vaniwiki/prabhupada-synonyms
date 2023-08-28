@@ -1,5 +1,11 @@
-~~Title:asrava~~
-{{description>to whom Lord Keśava is submissive.}}
+---json
+{
+    "name":"asrava",
+    "h1":"asrava",
+    "title":"asrava",
+    "description":"to whom Lord Keśava is submissive."
+}
+---
 
 ==== āśrava-keśavāḥ  ====
   * to whom Lord Keśava is submissive --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

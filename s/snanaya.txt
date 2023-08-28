@@ -1,5 +1,11 @@
-~~Title:snānāya~~
-{{description>taking a bath after the sacrifice.}}
+---json
+{
+    "name":"snānāya",
+    "h1":"snānāya",
+    "title":"snānāya",
+    "description":"taking a bath after the sacrifice."
+}
+---
 
 ==== avabhṛtha-snānāya  ====
   * taking a bath after the sacrifice --- [[books:sb:4:19:40|SB 4.19.40]]

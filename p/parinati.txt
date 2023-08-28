@@ -1,5 +1,11 @@
-~~Title:pariṇati~~
-{{description>a transformation; transformations.}}
+---json
+{
+    "name":"pariṇati",
+    "h1":"pariṇati",
+    "title":"pariṇati",
+    "description":"a transformation; transformations."
+}
+---
 
 ==== pariṇati  ====
   * a transformation --- [[books:cc:madhya:21:103|Madhya 21.103]]

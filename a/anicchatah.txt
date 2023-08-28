@@ -1,5 +1,11 @@
-~~Title:anicchataḥ~~
-{{description>even unwilling; of one who does not desire to spend his wealth; unwilling.}}
+---json
+{
+    "name":"anicchataḥ",
+    "h1":"anicchataḥ",
+    "title":"anicchataḥ",
+    "description":"even unwilling; of one who does not desire to spend his wealth; unwilling."
+}
+---
 
 ==== anicchataḥ  ====
   * even unwilling --- [[books:sb:1:13:25|SB 1.13.25]]

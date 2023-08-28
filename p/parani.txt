@@ -1,5 +1,11 @@
-~~Title:parāṇi~~
-{{description>superior.}}
+---json
+{
+    "name":"parāṇi",
+    "h1":"parāṇi",
+    "title":"parāṇi",
+    "description":"superior."
+}
+---
 
 ==== parāṇi  ====
   * superior --- [[books:bg:3:42|Bg. 3.42]]

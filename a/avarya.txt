@@ -1,5 +1,11 @@
-~~Title:āvārya~~
-{{description>inundated.}}
+---json
+{
+    "name":"āvārya",
+    "h1":"āvārya",
+    "title":"āvārya",
+    "description":"inundated."
+}
+---
 
 ==== āvārya  ====
   * inundated --- [[books:sb:5:17:4|SB 5.17.4]]

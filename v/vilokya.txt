@@ -1,5 +1,11 @@
-~~Title:vilokya~~
-{{description>after seeing; by observing; by seeing; having seen; looking over; observing; seeing; seeing that; seeing them; seeing this; seeing thus; thus seeing; when he saw; when they saw.}}
+---json
+{
+    "name":"vilokya",
+    "h1":"vilokya",
+    "title":"vilokya",
+    "description":"after seeing; by observing; by seeing; having seen; looking over; observing; seeing; seeing that; seeing them; seeing this; seeing thus; thus seeing; when he saw; when they saw."
+}
+---
 
 ==== vilokya  ====
   * after seeing --- [[books:sb:3:19:7|SB 3.19.7]], [[books:sb:3:19:17|SB 3.19.17]], [[books:sb:4:6:22|SB 4.6.22]]

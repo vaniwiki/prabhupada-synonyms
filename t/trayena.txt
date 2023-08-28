@@ -1,5 +1,11 @@
-~~Title:trayeṇa~~
-{{description>by the three.}}
+---json
+{
+    "name":"trayeṇa",
+    "h1":"trayeṇa",
+    "title":"trayeṇa",
+    "description":"by the three."
+}
+---
 
 ==== trayeṇa  ====
   * by the three --- [[books:sb:3:5:40|SB 3.5.40]]

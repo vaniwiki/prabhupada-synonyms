@@ -1,5 +1,11 @@
-~~Title:aloluptvam~~
-{{description>freedom from greed.}}
+---json
+{
+    "name":"aloluptvam",
+    "h1":"aloluptvam",
+    "title":"aloluptvam",
+    "description":"freedom from greed."
+}
+---
 
 ==== aloluptvam  ====
   * freedom from greed --- [[books:bg:16:1-3|Bg. 16.1-3]]

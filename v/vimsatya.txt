@@ -1,5 +1,11 @@
-~~Title:viṁśatyā~~
-{{description>with twenty.}}
+---json
+{
+    "name":"viṁśatyā",
+    "h1":"viṁśatyā",
+    "title":"viṁśatyā",
+    "description":"with twenty."
+}
+---
 
 ==== viṁśatyā  ====
   * with twenty --- [[books:sb:4:27:16|SB 4.27.16]]

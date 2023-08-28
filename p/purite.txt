@@ -1,5 +1,11 @@
-~~Title:pūrite~~
-{{description>to fulfill.}}
+---json
+{
+    "name":"pūrite",
+    "h1":"pūrite",
+    "title":"pūrite",
+    "description":"to fulfill."
+}
+---
 
 ==== pūrite  ====
   * to fulfill --- [[books:cc:madhya:18:152|Madhya 18.152]]

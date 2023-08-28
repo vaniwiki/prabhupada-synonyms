@@ -1,5 +1,11 @@
-~~Title:mervoḥ~~
-{{description>the land between Mānasottara and Meru (beginning from the middle of Mount Sumeru).}}
+---json
+{
+    "name":"mervoḥ",
+    "h1":"mervoḥ",
+    "title":"mervoḥ",
+    "description":"the land between Mānasottara and Meru (beginning from the middle of Mount Sumeru)."
+}
+---
 
 ==== mānasottara-mervoḥ antaram  ====
   * the land between Mānasottara and Meru (beginning from the middle of Mount Sumeru) --- [[books:sb:5:20:35|SB 5.20.35]]

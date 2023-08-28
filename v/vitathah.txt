@@ -1,5 +1,11 @@
-~~Title:vitathāḥ~~
-{{description>in vain.}}
+---json
+{
+    "name":"vitathāḥ",
+    "h1":"vitathāḥ",
+    "title":"vitathāḥ",
+    "description":"in vain."
+}
+---
 
 ==== vitathāḥ  ====
   * in vain --- [[books:sb:4:15:22|SB 4.15.22]]

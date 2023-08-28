@@ -1,5 +1,11 @@
-~~Title:mantre~~
-{{description>by the hymn composed of eighteen letters.}}
+---json
+{
+    "name":"mantre",
+    "h1":"mantre",
+    "title":"mantre",
+    "description":"by the hymn composed of eighteen letters."
+}
+---
 
 ==== aṣṭādaśa-akṣara-mantre  ====
   * by the hymn composed of eighteen letters --- [[books:cc:adi:5:221|Ādi 5.221]]

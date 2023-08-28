@@ -1,5 +1,11 @@
-~~Title:atīva~~
-{{description>exceedingly; extremely; fiercely; very much; very, very.}}
+---json
+{
+    "name":"atīva",
+    "h1":"atīva",
+    "title":"atīva",
+    "description":"exceedingly; extremely; fiercely; very much; very, very."
+}
+---
 
 ==== atīva  ====
   * exceedingly --- [[books:sb:4:6:24|SB 4.6.24]]

@@ -1,5 +1,11 @@
-~~Title:nirveśam~~
-{{description>who has not undergone atonement.}}
+---json
+{
+    "name":"nirveśam",
+    "h1":"nirveśam",
+    "title":"nirveśam",
+    "description":"who has not undergone atonement."
+}
+---
 
 ==== akṛta-nirveśam  ====
   * who has not undergone atonement --- [[books:sb:6:1:68|SB 6.1.68]]

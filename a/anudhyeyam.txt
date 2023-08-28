@@ -1,5 +1,11 @@
-~~Title:anudhyeyam~~
-{{description>must be meditated upon.}}
+---json
+{
+    "name":"anudhyeyam",
+    "h1":"anudhyeyam",
+    "title":"anudhyeyam",
+    "description":"must be meditated upon."
+}
+---
 
 ==== anudhyeyam  ====
   * must be meditated upon --- [[books:sb:4:24:53|SB 4.24.53]]

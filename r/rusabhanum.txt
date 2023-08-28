@@ -1,5 +1,11 @@
-~~Title:ruṣābhānum~~
-{{description>Ruṣābhānu.}}
+---json
+{
+    "name":"ruṣābhānum",
+    "h1":"ruṣābhānum",
+    "title":"ruṣābhānum",
+    "description":"Ruṣābhānu."
+}
+---
 
 ==== ruṣābhānum  ====
   * Ruṣābhānu --- [[books:sb:7:2:18-19|SB 7.2.18-19]]

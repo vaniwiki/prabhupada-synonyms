@@ -1,5 +1,11 @@
-~~Title:īhita~~
-{{description>activities; all duties; every endeavor.}}
+---json
+{
+    "name":"īhita",
+    "h1":"īhita",
+    "title":"īhita",
+    "description":"activities; all duties; every endeavor."
+}
+---
 
 ==== īhita  ====
   * activities --- [[books:cc:madhya:20:59|Madhya 20.59]], [[books:cc:antya:16:26|Antya 16.26]]

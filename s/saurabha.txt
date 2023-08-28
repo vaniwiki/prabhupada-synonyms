@@ -1,5 +1,11 @@
-~~Title:saurabha~~
-{{description>very fragrant.}}
+---json
+{
+    "name":"saurabha",
+    "h1":"saurabha",
+    "title":"saurabha",
+    "description":"very fragrant."
+}
+---
 
 ==== saurabha  ====
   * very fragrant --- [[books:sb:8:2:8|SB 8.2.8]]

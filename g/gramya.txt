@@ -1,5 +1,11 @@
-~~Title:grāmya~~
-{{description>conventional; material; of material attachment; worldly.}}
+---json
+{
+    "name":"grāmya",
+    "h1":"grāmya",
+    "title":"grāmya",
+    "description":"conventional; material; of material attachment; worldly."
+}
+---
 
 ==== grāmya  ====
   * conventional --- [[books:sb:3:28:3|SB 3.28.3]]

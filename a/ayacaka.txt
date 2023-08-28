@@ -1,5 +1,11 @@
-~~Title:ayācaka~~
-{{description>a person who does not beg.}}
+---json
+{
+    "name":"ayācaka",
+    "h1":"ayācaka",
+    "title":"ayācaka",
+    "description":"a person who does not beg."
+}
+---
 
 ==== ayācaka-jane  ====
   * a person who does not beg --- [[books:cc:madhya:4:29|Madhya 4.29]]

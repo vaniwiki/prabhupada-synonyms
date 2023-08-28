@@ -1,5 +1,11 @@
-~~Title:tantyā~~
-{{description>by a rope; by the ropes.}}
+---json
+{
+    "name":"tantyā",
+    "h1":"tantyā",
+    "title":"tantyā",
+    "description":"by a rope; by the ropes."
+}
+---
 
 ==== tantyā  ====
   * by a rope --- [[books:sb:3:15:8|SB 3.15.8]], [[books:sb:3:21:16|SB 3.21.16]]

@@ -1,5 +1,11 @@
-~~Title:sahite~~
-{{description>accompanied by; associated with; to bear; to tolerate; tolerate; with; with you.}}
+---json
+{
+    "name":"sahite",
+    "h1":"sahite",
+    "title":"sahite",
+    "description":"accompanied by; associated with; to bear; to tolerate; tolerate; with; with you."
+}
+---
 
 ==== sahite  ====
   * accompanied by --- [[books:cc:adi:6:34|Ādi 6.34]]

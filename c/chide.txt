@@ -1,5 +1,11 @@
-~~Title:chide~~
-{{description>the liberator.}}
+---json
+{
+    "name":"chide",
+    "h1":"chide",
+    "title":"chide",
+    "description":"the liberator."
+}
+---
 
 ==== chide  ====
   * the liberator --- [[books:sb:2:4:13|SB 2.4.13]]

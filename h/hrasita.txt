@@ -1,5 +1,11 @@
-~~Title:hrasita~~
-{{description>reduced.}}
+---json
+{
+    "name":"hrasita",
+    "h1":"hrasita",
+    "title":"hrasita",
+    "description":"reduced."
+}
+---
 
 ==== hrasita  ====
   * reduced --- [[books:sb:1:4:17-18|SB 1.4.17-18]]

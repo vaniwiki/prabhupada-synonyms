@@ -1,5 +1,11 @@
-~~Title:naumi~~
-{{description>I offer my obeisances; I offer my respectful obeisances; I offer obeisances; offer my obeisances.}}
+---json
+{
+    "name":"naumi",
+    "h1":"naumi",
+    "title":"naumi",
+    "description":"I offer my obeisances; I offer my respectful obeisances; I offer obeisances; offer my obeisances."
+}
+---
 
 ==== naumi  ====
   * I offer my obeisances --- [[books:cc:adi:1:5|Ādi 1.5]], [[books:cc:adi:4:55|Ādi 4.55]]

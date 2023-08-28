@@ -1,5 +1,11 @@
-~~Title:dekhāo~~
-{{description>You show.}}
+---json
+{
+    "name":"dekhāo",
+    "h1":"dekhāo",
+    "title":"dekhāo",
+    "description":"You show."
+}
+---
 
 ==== dekhāo  ====
   * You show --- [[books:cc:madhya:1:200|Madhya 1.200]]

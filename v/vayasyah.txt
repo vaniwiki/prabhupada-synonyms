@@ -1,5 +1,11 @@
-~~Title:vayasyāḥ~~
-{{description>My dear friends; playmates.}}
+---json
+{
+    "name":"vayasyāḥ",
+    "h1":"vayasyāḥ",
+    "title":"vayasyāḥ",
+    "description":"My dear friends; playmates."
+}
+---
 
 ==== vayasyāḥ  ====
   * My dear friends --- [[books:sb:10:13:5|SB 10.13.5]]

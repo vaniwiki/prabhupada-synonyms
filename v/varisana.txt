@@ -1,5 +1,11 @@
-~~Title:variṣaṇa~~
-{{description>rainstorm.}}
+---json
+{
+    "name":"variṣaṇa",
+    "h1":"variṣaṇa",
+    "title":"variṣaṇa",
+    "description":"rainstorm."
+}
+---
 
 ==== jhaḍa-variṣaṇa  ====
   * rainstorm --- [[books:cc:madhya:16:55|Madhya 16.55]]

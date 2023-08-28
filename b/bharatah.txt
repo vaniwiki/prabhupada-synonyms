@@ -1,5 +1,11 @@
-~~Title:bharatah~~
-{{description>Bharata; Lord Bharata; Mahārāja Bharata.}}
+---json
+{
+    "name":"bharatah",
+    "h1":"bharatah",
+    "title":"bharatah",
+    "description":"Bharata; Lord Bharata; Mahārāja Bharata."
+}
+---
 
 ==== bharataḥ  ====
   * Bharata --- [[books:sb:5:4:9|SB 5.4.9]]

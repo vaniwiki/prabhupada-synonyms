@@ -1,5 +1,11 @@
-~~Title:nirudyogāḥ~~
-{{description>frustrated.}}
+---json
+{
+    "name":"nirudyogāḥ",
+    "h1":"nirudyogāḥ",
+    "title":"nirudyogāḥ",
+    "description":"frustrated."
+}
+---
 
 ==== nirudyogāḥ  ====
   * frustrated --- [[books:sb:8:8:29|SB 8.8.29]]

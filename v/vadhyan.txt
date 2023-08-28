@@ -1,5 +1,11 @@
-~~Title:vadhyān~~
-{{description>who deserved to be killed.}}
+---json
+{
+    "name":"vadhyān",
+    "h1":"vadhyān",
+    "title":"vadhyān",
+    "description":"who deserved to be killed."
+}
+---
 
 ==== vadhyān  ====
   * who deserved to be killed --- [[books:sb:9:7:3|SB 9.7.3]]

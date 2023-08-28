@@ -1,5 +1,11 @@
-~~Title:anupalabhya~~
-{{description>without finding.}}
+---json
+{
+    "name":"anupalabhya",
+    "h1":"anupalabhya",
+    "title":"anupalabhya",
+    "description":"without finding."
+}
+---
 
 ==== anupalabhya  ====
   * without finding --- [[books:sb:10:7:25|SB 10.7.25]]

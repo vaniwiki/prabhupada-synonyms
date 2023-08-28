@@ -1,5 +1,11 @@
-~~Title:kṣemādhiḥ~~
-{{description>Kṣemādhi.}}
+---json
+{
+    "name":"kṣemādhiḥ",
+    "h1":"kṣemādhiḥ",
+    "title":"kṣemādhiḥ",
+    "description":"Kṣemādhi."
+}
+---
 
 ==== kṣemādhiḥ  ====
   * Kṣemādhi --- [[books:sb:9:13:23|SB 9.13.23]]

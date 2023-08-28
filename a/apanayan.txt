@@ -1,5 +1,11 @@
-~~Title:apanayan~~
-{{description>taking away.}}
+---json
+{
+    "name":"apanayan",
+    "h1":"apanayan",
+    "title":"apanayan",
+    "description":"taking away."
+}
+---
 
 ==== apanayan  ====
   * taking away --- [[books:sb:6:7:31|SB 6.7.31]]

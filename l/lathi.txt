@@ -1,5 +1,11 @@
-~~Title:lathi~~
-{{description>is kicked.}}
+---json
+{
+    "name":"lathi",
+    "h1":"lathi",
+    "title":"lathi",
+    "description":"is kicked."
+}
+---
 
 ==== lāthi khāya  ====
   * is kicked --- [[books:cc:madhya:22:14-15|Madhya 22.14-15]]

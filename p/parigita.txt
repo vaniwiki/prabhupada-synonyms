@@ -1,5 +1,11 @@
-~~Title:parigīta~~
-{{description>sung.}}
+---json
+{
+    "name":"parigīta",
+    "h1":"parigīta",
+    "title":"parigīta",
+    "description":"sung."
+}
+---
 
 ==== parigīta  ====
   * sung --- [[books:sb:6:3:27|SB 6.3.27]]

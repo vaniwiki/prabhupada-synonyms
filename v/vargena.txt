@@ -1,5 +1,11 @@
-~~Title:vargeṇa~~
-{{description>by these six senses (the mind and five knowledge-acquiring senses, namely the eyes, ears, tongue, nose and skin).}}
+---json
+{
+    "name":"vargeṇa",
+    "h1":"vargeṇa",
+    "title":"vargeṇa",
+    "description":"by these six senses (the mind and five knowledge-acquiring senses, namely the eyes, ears, tongue, nose and skin)."
+}
+---
 
 ==== ṣaṭ-indriya-vargeṇa  ====
   * by these six senses (the mind and five knowledge-acquiring senses, namely the eyes, ears, tongue, nose and skin) --- [[books:sb:5:14:1|SB 5.14.1]]

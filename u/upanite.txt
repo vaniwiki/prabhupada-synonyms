@@ -1,5 +1,11 @@
-~~Title:upanite~~
-{{description>having been brought.}}
+---json
+{
+    "name":"upanite",
+    "h1":"upanite",
+    "title":"upanite",
+    "description":"having been brought."
+}
+---
 
 ==== upanīte  ====
   * having been brought --- [[books:sb:9:10:21|SB 9.10.21]]

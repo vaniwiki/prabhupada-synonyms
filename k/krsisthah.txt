@@ -1,5 +1,11 @@
-~~Title:kṛṣīṣṭhāḥ~~
-{{description>please be.}}
+---json
+{
+    "name":"kṛṣīṣṭhāḥ",
+    "h1":"kṛṣīṣṭhāḥ",
+    "title":"kṛṣīṣṭhāḥ",
+    "description":"please be."
+}
+---
 
 ==== kṛṣīṣṭhāḥ  ====
   * please be --- [[books:sb:10:3:28|SB 10.3.28]]

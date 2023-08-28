@@ -1,5 +1,11 @@
-~~Title:aticeruḥ~~
-{{description>overlapped.}}
+---json
+{
+    "name":"aticeruḥ",
+    "h1":"aticeruḥ",
+    "title":"aticeruḥ",
+    "description":"overlapped."
+}
+---
 
 ==== aticeruḥ  ====
   * overlapped --- [[books:sb:3:17:14|SB 3.17.14]]

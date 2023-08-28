@@ -1,5 +1,11 @@
-~~Title:santanvataḥ~~
-{{description>displaying.}}
+---json
+{
+    "name":"santanvataḥ",
+    "h1":"santanvataḥ",
+    "title":"santanvataḥ",
+    "description":"displaying."
+}
+---
 
 ==== santanvataḥ  ====
   * displaying --- [[books:sb:1:3:37|SB 1.3.37]]

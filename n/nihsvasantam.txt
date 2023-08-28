@@ -1,5 +1,11 @@
-~~Title:niḥśvasantam~~
-{{description>heavily breathing.}}
+---json
+{
+    "name":"niḥśvasantam",
+    "h1":"niḥśvasantam",
+    "title":"niḥśvasantam",
+    "description":"heavily breathing."
+}
+---
 
 ==== niḥśvasantam  ====
   * heavily breathing --- [[books:sb:4:8:15|SB 4.8.15]]

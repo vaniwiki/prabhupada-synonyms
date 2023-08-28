@@ -1,5 +1,11 @@
-~~Title:anulepa~~
-{{description>sandalwood.}}
+---json
+{
+    "name":"anulepa",
+    "h1":"anulepa",
+    "title":"anulepa",
+    "description":"sandalwood."
+}
+---
 
 ==== anulepa  ====
   * sandalwood --- [[books:sb:9:6:45-46|SB 9.6.45-46]]

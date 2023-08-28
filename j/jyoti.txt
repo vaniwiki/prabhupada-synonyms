@@ -1,5 +1,11 @@
-~~Title:jyoti~~
-{{description>effulgence.}}
+---json
+{
+    "name":"jyoti",
+    "h1":"jyoti",
+    "title":"jyoti",
+    "description":"effulgence."
+}
+---
 
 ==== jyoti  ====
   * effulgence --- [[books:cc:adi:13:116|Ādi 13.116]]

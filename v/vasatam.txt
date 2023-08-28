@@ -1,5 +1,11 @@
-~~Title:vasatām~~
-{{description>of those residing.}}
+---json
+{
+    "name":"vasatām",
+    "h1":"vasatām",
+    "title":"vasatām",
+    "description":"of those residing."
+}
+---
 
 ==== vasatām  ====
   * of those residing --- [[books:sb:5:24:13|SB 5.24.13]]

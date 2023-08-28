@@ -1,5 +1,11 @@
-~~Title:maṇigrīvau~~
-{{description>and Maṇigrīva; the other was Maṇigrīva.}}
+---json
+{
+    "name":"maṇigrīvau",
+    "h1":"maṇigrīvau",
+    "title":"maṇigrīvau",
+    "description":"and Maṇigrīva; the other was Maṇigrīva."
+}
+---
 
 ==== maṇigrīvau  ====
   * and Maṇigrīva --- [[books:sb:10:10:23|SB 10.10.23]]

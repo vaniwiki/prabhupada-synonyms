@@ -1,5 +1,11 @@
-~~Title:yuge~~
-{{description>after millennium; age; and ages; different periods; millennium; period.}}
+---json
+{
+    "name":"yuge",
+    "h1":"yuge",
+    "title":"yuge",
+    "description":"after millennium; age; and ages; different periods; millennium; period."
+}
+---
 
 ==== yuge  ====
   * after millennium --- [[books:bg:4:8|Bg. 4.8]]

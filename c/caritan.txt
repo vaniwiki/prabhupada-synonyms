@@ -1,5 +1,11 @@
-~~Title:caritān~~
-{{description>pleasures enjoyed.}}
+---json
+{
+    "name":"caritān",
+    "h1":"caritān",
+    "title":"caritān",
+    "description":"pleasures enjoyed."
+}
+---
 
 ==== caritān  ====
   * pleasures enjoyed --- [[books:sb:4:29:78|SB 4.29.78]]

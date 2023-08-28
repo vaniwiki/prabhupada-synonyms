@@ -1,5 +1,11 @@
-~~Title:vaiṣṇavaḥ~~
-{{description>befitting a devotee.}}
+---json
+{
+    "name":"vaiṣṇavaḥ",
+    "h1":"vaiṣṇavaḥ",
+    "title":"vaiṣṇavaḥ",
+    "description":"befitting a devotee."
+}
+---
 
 ==== vaiṣṇavaḥ  ====
   * befitting a devotee --- [[books:cc:madhya:23:29|Madhya 23.29]]

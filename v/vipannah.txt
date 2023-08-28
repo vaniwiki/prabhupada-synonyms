@@ -1,5 +1,11 @@
-~~Title:vipannaḥ~~
-{{description>one becomes fully embarrassed; sometimes having lost.}}
+---json
+{
+    "name":"vipannaḥ",
+    "h1":"vipannaḥ",
+    "title":"vipannaḥ",
+    "description":"one becomes fully embarrassed; sometimes having lost."
+}
+---
 
 ==== vipannaḥ  ====
   * one becomes fully embarrassed --- [[books:sb:5:13:13|SB 5.13.13]]

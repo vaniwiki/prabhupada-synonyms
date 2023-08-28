@@ -1,5 +1,11 @@
-~~Title:akīrti~~
-{{description>infamy; of defamation.}}
+---json
+{
+    "name":"akīrti",
+    "h1":"akīrti",
+    "title":"akīrti",
+    "description":"infamy; of defamation."
+}
+---
 
 ==== akīrti  ====
   * infamy --- [[books:bg:2:2|Bg. 2.2]]

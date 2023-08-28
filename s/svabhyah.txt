@@ -1,5 +1,11 @@
-~~Title:śvabhyaḥ~~
-{{description>unto the dogs.}}
+---json
+{
+    "name":"śvabhyaḥ",
+    "h1":"śvabhyaḥ",
+    "title":"śvabhyaḥ",
+    "description":"unto the dogs."
+}
+---
 
 ==== śvabhyaḥ  ====
   * unto the dogs --- [[books:sb:9:21:9|SB 9.21.9]]

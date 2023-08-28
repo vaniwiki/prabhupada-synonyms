@@ -1,5 +1,11 @@
-~~Title:garimṇā~~
-{{description>by the weight of the body.}}
+---json
+{
+    "name":"garimṇā",
+    "h1":"garimṇā",
+    "title":"garimṇā",
+    "description":"by the weight of the body."
+}
+---
 
 ==== garimṇā  ====
   * by the weight of the body --- [[books:sb:8:2:23-24|SB 8.2.23-24]]

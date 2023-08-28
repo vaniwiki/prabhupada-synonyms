@@ -1,5 +1,11 @@
-~~Title:dhīyeta~~
-{{description>disappears.}}
+---json
+{
+    "name":"dhīyeta",
+    "h1":"dhīyeta",
+    "title":"dhīyeta",
+    "description":"disappears."
+}
+---
 
 ==== tiraḥ-dhīyeta  ====
   * disappears --- [[books:sb:2:6:40-41|SB 2.6.40-41]]

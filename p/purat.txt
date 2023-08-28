@@ -1,5 +1,11 @@
-~~Title:purāt~~
-{{description>from his own residence; from home; from Mathurā Purī; from the capital; from the city; from the house; from the palace.}}
+---json
+{
+    "name":"purāt",
+    "h1":"purāt",
+    "title":"purāt",
+    "description":"from his own residence; from home; from Mathurā Purī; from the capital; from the city; from the house; from the palace."
+}
+---
 
 ==== purāt  ====
   * from his own residence --- [[books:sb:9:18:25|SB 9.18.25]]

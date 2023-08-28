@@ -1,5 +1,11 @@
-~~Title:prabhubhiḥ~~
-{{description>by authorities.}}
+---json
+{
+    "name":"prabhubhiḥ",
+    "h1":"prabhubhiḥ",
+    "title":"prabhubhiḥ",
+    "description":"by authorities."
+}
+---
 
 ==== prabhubhiḥ  ====
   * by authorities --- [[books:sb:2:7:17|SB 2.7.17]]

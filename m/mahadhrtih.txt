@@ -1,5 +1,11 @@
-~~Title:mahādhṛtiḥ~~
-{{description>a son named Mahādhṛti.}}
+---json
+{
+    "name":"mahādhṛtiḥ",
+    "h1":"mahādhṛtiḥ",
+    "title":"mahādhṛtiḥ",
+    "description":"a son named Mahādhṛti."
+}
+---
 
 ==== mahādhṛtiḥ  ====
   * a son named Mahādhṛti --- [[books:sb:9:13:16|SB 9.13.16]]

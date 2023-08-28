@@ -1,5 +1,11 @@
-~~Title:rocayāmi~~
-{{description>do manifest.}}
+---json
+{
+    "name":"rocayāmi",
+    "h1":"rocayāmi",
+    "title":"rocayāmi",
+    "description":"do manifest."
+}
+---
 
 ==== rocayāmi  ====
   * do manifest --- [[books:sb:2:5:11|SB 2.5.11]]

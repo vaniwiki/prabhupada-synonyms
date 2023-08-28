@@ -1,5 +1,11 @@
-~~Title:abhisandhiḥ~~
-{{description>whose determination; Your determination.}}
+---json
+{
+    "name":"abhisandhiḥ",
+    "h1":"abhisandhiḥ",
+    "title":"abhisandhiḥ",
+    "description":"whose determination; Your determination."
+}
+---
 
 ==== abhisandhiḥ  ====
   * whose determination --- [[books:sb:8:7:8|SB 8.7.8]]

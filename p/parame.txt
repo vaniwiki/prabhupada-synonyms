@@ -1,5 +1,11 @@
-~~Title:parame~~
-{{description>who are situated in the spiritual planet.}}
+---json
+{
+    "name":"parame",
+    "h1":"parame",
+    "title":"parame",
+    "description":"who are situated in the spiritual planet."
+}
+---
 
 ==== parame-ṣṭhin  ====
   * who are situated in the spiritual planet --- [[books:sb:6:16:25|SB 6.16.25]]

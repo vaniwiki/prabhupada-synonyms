@@ -1,5 +1,11 @@
-~~Title:catvāraḥ~~
-{{description>and four; four (sons); four; four kinds; four personalities; four principal protectors; the four.}}
+---json
+{
+    "name":"catvāraḥ",
+    "h1":"catvāraḥ",
+    "title":"catvāraḥ",
+    "description":"and four; four (sons); four; four kinds; four personalities; four principal protectors; the four."
+}
+---
 
 ==== catvāraḥ  ====
   * and four --- [[books:sb:3:11:10|SB 3.11.10]]

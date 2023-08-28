@@ -1,5 +1,11 @@
-~~Title:doṣasya~~
-{{description>of Doṣa; of the sinful activities.}}
+---json
+{
+    "name":"doṣasya",
+    "h1":"doṣasya",
+    "title":"doṣasya",
+    "description":"of Doṣa; of the sinful activities."
+}
+---
 
 ==== doṣasya  ====
   * of Doṣa --- [[books:sb:6:6:14|SB 6.6.14]]

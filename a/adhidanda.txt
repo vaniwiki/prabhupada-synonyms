@@ -1,5 +1,11 @@
-~~Title:adhidaṇḍa~~
-{{description>of the superintendent of punishment, Yamarāja.}}
+---json
+{
+    "name":"adhidaṇḍa",
+    "h1":"adhidaṇḍa",
+    "title":"adhidaṇḍa",
+    "description":"of the superintendent of punishment, Yamarāja."
+}
+---
 
 ==== adhidaṇḍa-netuḥ  ====
   * of the superintendent of punishment, Yamarāja --- [[books:sb:3:16:10|SB 3.16.10]]

@@ -1,5 +1,11 @@
-~~Title:ninye~~
-{{description>brought; carried or brought; forcibly took; gave him; passed; passed away; was brought.}}
+---json
+{
+    "name":"ninye",
+    "h1":"ninye",
+    "title":"ninye",
+    "description":"brought; carried or brought; forcibly took; gave him; passed; passed away; was brought."
+}
+---
 
 ==== ninye  ====
   * brought --- [[books:sb:8:15:33|SB 8.15.33]], [[books:sb:8:23:24|SB 8.23.24]], [[books:sb:8:24:16|SB 8.24.16]]

@@ -1,5 +1,11 @@
-~~Title:tinadina~~
-{{description>three days.}}
+---json
+{
+    "name":"tinadina",
+    "h1":"tinadina",
+    "title":"tinadina",
+    "description":"three days."
+}
+---
 
 ==== tinadina  ====
   * three days --- [[books:cc:madhya:3:133|Madhya 3.133]]

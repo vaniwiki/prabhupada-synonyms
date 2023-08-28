@@ -1,5 +1,11 @@
-~~Title:yuktena~~
-{{description>equipped; equipped with.}}
+---json
+{
+    "name":"yuktena",
+    "h1":"yuktena",
+    "title":"yuktena",
+    "description":"equipped; equipped with."
+}
+---
 
 ==== yuktena  ====
   * equipped --- [[books:sb:3:25:43|SB 3.25.43]]

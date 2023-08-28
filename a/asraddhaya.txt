@@ -1,5 +1,11 @@
-~~Title:aśraddhayā~~
-{{description>without any faith; without faith.}}
+---json
+{
+    "name":"aśraddhayā",
+    "h1":"aśraddhayā",
+    "title":"aśraddhayā",
+    "description":"without any faith; without faith."
+}
+---
 
 ==== aśraddhayā  ====
   * without any faith --- [[books:sb:9:18:44|SB 9.18.44]]

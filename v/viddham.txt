@@ -1,5 +1,11 @@
-~~Title:viddham~~
-{{description>pierced; very much afflicted.}}
+---json
+{
+    "name":"viddham",
+    "h1":"viddham",
+    "title":"viddham",
+    "description":"pierced; very much afflicted."
+}
+---
 
 ==== viddham  ====
   * pierced --- [[books:sb:9:11:19|SB 9.11.19]], [[books:sb:10:7:29|SB 10.7.29]]

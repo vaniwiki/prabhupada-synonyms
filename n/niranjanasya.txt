@@ -1,5 +1,11 @@
-~~Title:nirañjanasya~~
-{{description>without being affected by material nature.}}
+---json
+{
+    "name":"nirañjanasya",
+    "h1":"nirañjanasya",
+    "title":"nirañjanasya",
+    "description":"without being affected by material nature."
+}
+---
 
 ==== nirañjanasya  ====
   * without being affected by material nature --- [[books:sb:6:17:22|SB 6.17.22]]

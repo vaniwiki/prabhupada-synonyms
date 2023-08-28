@@ -1,5 +1,11 @@
-~~Title:anavāptam~~
-{{description>in want.}}
+---json
+{
+    "name":"anavāptam",
+    "h1":"anavāptam",
+    "title":"anavāptam",
+    "description":"in want."
+}
+---
 
 ==== anavāptam  ====
   * in want --- [[books:bg:3:22|Bg. 3.22]]

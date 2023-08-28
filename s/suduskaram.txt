@@ -1,5 +1,11 @@
-~~Title:suduṣkaram~~
-{{description>difficult.}}
+---json
+{
+    "name":"suduṣkaram",
+    "h1":"suduṣkaram",
+    "title":"suduṣkaram",
+    "description":"difficult."
+}
+---
 
 ==== suduṣkaram  ====
   * difficult --- [[books:bg:6:34|Bg. 6.34]]

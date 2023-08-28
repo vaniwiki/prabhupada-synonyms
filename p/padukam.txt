@@ -1,5 +1,11 @@
-~~Title:pādukam~~
-{{description>bringing the wooden shoes.}}
+---json
+{
+    "name":"pādukam",
+    "h1":"pādukam",
+    "title":"pādukam",
+    "description":"bringing the wooden shoes."
+}
+---
 
 ==== pādukam  ====
   * bringing the wooden shoes --- [[books:sb:10:11:8|SB 10.11.8]]

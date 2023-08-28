@@ -1,5 +1,11 @@
-~~Title:niscala~~
-{{description>unflinching.}}
+---json
+{
+    "name":"niscala",
+    "h1":"niscala",
+    "title":"niscala",
+    "description":"unflinching."
+}
+---
 
 ==== niścala  ====
   * unflinching --- [[books:cc:madhya:10:13|Madhya 10.13]]

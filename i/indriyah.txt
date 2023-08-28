@@ -1,5 +1,11 @@
-~~Title:indriyah~~
-{{description>his senses; of the senses; one who has such senses; senses; the power of the senses; whose senses.}}
+---json
+{
+    "name":"indriyah",
+    "h1":"indriyah",
+    "title":"indriyah",
+    "description":"his senses; of the senses; one who has such senses; senses; the power of the senses; whose senses."
+}
+---
 
 ==== indriyaḥ  ====
   * his senses --- [[books:sb:3:19:7|SB 3.19.7]], [[books:sb:3:30:8|SB 3.30.8]], [[books:sb:3:30:18|SB 3.30.18]], [[books:sb:9:18:46|SB 9.18.46]]

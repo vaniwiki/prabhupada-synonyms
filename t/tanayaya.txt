@@ -1,5 +1,11 @@
-~~Title:tanayāya~~
-{{description>to the son of Narakāsura.}}
+---json
+{
+    "name":"tanayāya",
+    "h1":"tanayāya",
+    "title":"tanayāya",
+    "description":"to the son of Narakāsura."
+}
+---
 
 ==== tat-tanayāya  ====
   * to the son of Narakāsura --- [[books:sb:3:3:6|SB 3.3.6]]

@@ -1,5 +1,11 @@
-~~Title:maharṣe~~
-{{description>O great saint (Śukadeva Gosvāmī).}}
+---json
+{
+    "name":"maharṣe",
+    "h1":"maharṣe",
+    "title":"maharṣe",
+    "description":"O great saint (Śukadeva Gosvāmī)."
+}
+---
 
 ==== maharṣe  ====
   * O great saint (Śukadeva Gosvāmī) --- [[books:sb:5:26:1|SB 5.26.1]]

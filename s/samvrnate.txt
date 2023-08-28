@@ -1,5 +1,11 @@
-~~Title:saṁvṛṇate~~
-{{description>achieves.}}
+---json
+{
+    "name":"saṁvṛṇate",
+    "h1":"saṁvṛṇate",
+    "title":"saṁvṛṇate",
+    "description":"achieves."
+}
+---
 
 ==== saṁvṛṇate  ====
   * achieves --- [[books:sb:4:21:44|SB 4.21.44]]

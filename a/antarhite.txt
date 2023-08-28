@@ -1,5 +1,11 @@
-~~Title:antarhite~~
-{{description>after the disappearance.}}
+---json
+{
+    "name":"antarhite",
+    "h1":"antarhite",
+    "title":"antarhite",
+    "description":"after the disappearance."
+}
+---
 
 ==== antarhite  ====
   * after the disappearance --- [[books:sb:3:10:1|SB 3.10.1]]

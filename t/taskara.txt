@@ -1,5 +1,11 @@
-~~Title:taskara~~
-{{description>from thieves and rogues; thieves.}}
+---json
+{
+    "name":"taskara",
+    "h1":"taskara",
+    "title":"taskara",
+    "description":"from thieves and rogues; thieves."
+}
+---
 
 ==== taskara  ====
   * from thieves and rogues --- [[books:sb:4:14:8|SB 4.14.8]]

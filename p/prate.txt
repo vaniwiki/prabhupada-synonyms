@@ -1,5 +1,11 @@
-~~Title:prāte~~
-{{description>early in the morning; in the morning.}}
+---json
+{
+    "name":"prāte",
+    "h1":"prāte",
+    "title":"prāte",
+    "description":"early in the morning; in the morning."
+}
+---
 
 ==== prāte  ====
   * early in the morning --- [[books:cc:madhya:11:116|Madhya 11.116]]

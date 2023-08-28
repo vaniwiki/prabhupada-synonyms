@@ -1,5 +1,11 @@
-~~Title:jñānāya~~
-{{description>such knowledge.}}
+---json
+{
+    "name":"jñānāya",
+    "h1":"jñānāya",
+    "title":"jñānāya",
+    "description":"such knowledge."
+}
+---
 
 ==== jñānāya  ====
   * such knowledge --- [[books:sb:3:13:39|SB 3.13.39]]

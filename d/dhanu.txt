@@ -1,5 +1,11 @@
-~~Title:dhanu~~
-{{description>just like bows.}}
+---json
+{
+    "name":"dhanu",
+    "h1":"dhanu",
+    "title":"dhanu",
+    "description":"just like bows."
+}
+---
 
 ==== dhanu  ====
   * just like bows --- [[books:cc:madhya:21:129|Madhya 21.129]]

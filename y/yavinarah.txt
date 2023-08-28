@@ -1,5 +1,11 @@
-~~Title:yavīnaraḥ~~
-{{description>Yavīnara.}}
+---json
+{
+    "name":"yavīnaraḥ",
+    "h1":"yavīnaraḥ",
+    "title":"yavīnaraḥ",
+    "description":"Yavīnara."
+}
+---
 
 ==== yavīnaraḥ  ====
   * Yavīnara --- [[books:sb:9:21:27|SB 9.21.27]], [[books:sb:9:21:31-33|SB 9.21.31-33]]

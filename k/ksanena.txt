@@ -1,5 +1,11 @@
-~~Title:kṣaṇena~~
-{{description>at a moment's notice; for such a short life; in one moment; suddenly; within a moment.}}
+---json
+{
+    "name":"kṣaṇena",
+    "h1":"kṣaṇena",
+    "title":"kṣaṇena",
+    "description":"at a moment's notice; for such a short life; in one moment; suddenly; within a moment."
+}
+---
 
 ==== kṣaṇena  ====
   * at a moment's notice --- [[books:sb:1:15:21|SB 1.15.21]]

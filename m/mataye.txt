@@ -1,5 +1,11 @@
-~~Title:mataye~~
-{{description>who produced different inclinations.}}
+---json
+{
+    "name":"mataye",
+    "h1":"mataye",
+    "title":"mataye",
+    "description":"who produced different inclinations."
+}
+---
 
 ==== bheda-mataye  ====
   * who produced different inclinations --- [[books:sb:4:7:39|SB 4.7.39]]

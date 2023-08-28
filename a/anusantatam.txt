@@ -1,5 +1,11 @@
-~~Title:anusantatam~~
-{{description>expanded.}}
+---json
+{
+    "name":"anusantatam",
+    "h1":"anusantatam",
+    "title":"anusantatam",
+    "description":"expanded."
+}
+---
 
 ==== anusantatam  ====
   * expanded --- [[books:sb:4:13:8-9|SB 4.13.8-9]]

@@ -1,5 +1,11 @@
-~~Title:ihi~~
-{{description>approach.}}
+---json
+{
+    "name":"ihi",
+    "h1":"ihi",
+    "title":"ihi",
+    "description":"approach."
+}
+---
 
 ==== ihi  ====
   * approach --- [[books:sb:3:17:30|SB 3.17.30]]

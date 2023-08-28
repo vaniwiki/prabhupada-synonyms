@@ -1,5 +1,11 @@
-~~Title:sannidhāna~~
-{{description>proximity; the residential places.}}
+---json
+{
+    "name":"sannidhāna",
+    "h1":"sannidhāna",
+    "title":"sannidhāna",
+    "description":"proximity; the residential places."
+}
+---
 
 ==== sannidhāna  ====
   * proximity --- [[books:cc:madhya:16:182|Madhya 16.182]]

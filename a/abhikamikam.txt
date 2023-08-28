@@ -1,5 +1,11 @@
-~~Title:abhikāmikām~~
-{{description>purposeful.}}
+---json
+{
+    "name":"abhikāmikām",
+    "h1":"abhikāmikām",
+    "title":"abhikāmikām",
+    "description":"purposeful."
+}
+---
 
 ==== abhikāmikām  ====
   * purposeful --- [[books:sb:2:10:25|SB 2.10.25]]

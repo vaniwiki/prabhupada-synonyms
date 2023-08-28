@@ -1,5 +1,11 @@
-~~Title:paiya~~
-{{description>getting.}}
+---json
+{
+    "name":"paiya",
+    "h1":"paiya",
+    "title":"paiya",
+    "description":"getting."
+}
+---
 
 ==== paiyā  ====
   * getting --- [[books:cc:adi:14:77|Ādi 14.77]]

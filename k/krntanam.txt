@@ -1,5 +1,11 @@
-~~Title:kṛntanam~~
-{{description>cutting off; that which can completely cut off.}}
+---json
+{
+    "name":"kṛntanam",
+    "h1":"kṛntanam",
+    "title":"kṛntanam",
+    "description":"cutting off; that which can completely cut off."
+}
+---
 
 ==== kṛntanam  ====
   * cutting off --- [[books:sb:3:30:27|SB 3.30.27]]

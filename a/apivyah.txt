@@ -1,5 +1,11 @@
-~~Title:apīvyāḥ~~
-{{description>extremely beautiful.}}
+---json
+{
+    "name":"apīvyāḥ",
+    "h1":"apīvyāḥ",
+    "title":"apīvyāḥ",
+    "description":"extremely beautiful."
+}
+---
 
 ==== apīvyāḥ  ====
   * extremely beautiful --- [[books:sb:9:3:15|SB 9.3.15]]

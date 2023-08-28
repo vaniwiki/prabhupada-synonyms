@@ -1,5 +1,11 @@
-~~Title:bhūtajyotiḥ~~
-{{description>of the name Bhūtajyoti.}}
+---json
+{
+    "name":"bhūtajyotiḥ",
+    "h1":"bhūtajyotiḥ",
+    "title":"bhūtajyotiḥ",
+    "description":"of the name Bhūtajyoti."
+}
+---
 
 ==== bhūtajyotiḥ  ====
   * of the name Bhūtajyoti --- [[books:sb:9:2:17|SB 9.2.17]]

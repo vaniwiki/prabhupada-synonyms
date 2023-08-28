@@ -1,5 +1,11 @@
-~~Title:vartiṣyante~~
-{{description>will live.}}
+---json
+{
+    "name":"vartiṣyante",
+    "h1":"vartiṣyante",
+    "title":"vartiṣyante",
+    "description":"will live."
+}
+---
 
 ==== vartiṣyante  ====
   * will live --- [[books:sb:4:28:21|SB 4.28.21]]

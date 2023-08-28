@@ -1,5 +1,11 @@
-~~Title:bhramāmi~~
-{{description>am wandering (within the cycle of birth and death).}}
+---json
+{
+    "name":"bhramāmi",
+    "h1":"bhramāmi",
+    "title":"bhramāmi",
+    "description":"am wandering (within the cycle of birth and death)."
+}
+---
 
 ==== bhramāmi  ====
   * am wandering (within the cycle of birth and death) --- [[books:sb:7:9:17|SB 7.9.17]]

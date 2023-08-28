@@ -1,5 +1,11 @@
-~~Title:āśramāṇām~~
-{{description>of all the statuses and orders of life; of the varṇas and āśramas.}}
+---json
+{
+    "name":"āśramāṇām",
+    "h1":"āśramāṇām",
+    "title":"āśramāṇām",
+    "description":"of all the statuses and orders of life; of the varṇas and āśramas."
+}
+---
 
 ==== varṇa-āśramāṇām  ====
   * of all the statuses and orders of life --- [[books:sb:1:4:17-18|SB 1.4.17-18]]

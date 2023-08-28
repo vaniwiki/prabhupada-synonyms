@@ -1,5 +1,11 @@
-~~Title:jīvita~~
-{{description>duration of life; life.}}
+---json
+{
+    "name":"jīvita",
+    "h1":"jīvita",
+    "title":"jīvita",
+    "description":"duration of life; life."
+}
+---
 
 ==== jīvita  ====
   * duration of life --- [[books:sb:2:1:14|SB 2.1.14]]

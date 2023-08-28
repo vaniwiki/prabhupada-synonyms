@@ -1,5 +1,11 @@
-~~Title:ajamīḍhāt~~
-{{description>from Ajamīḍha.}}
+---json
+{
+    "name":"ajamīḍhāt",
+    "h1":"ajamīḍhāt",
+    "title":"ajamīḍhāt",
+    "description":"from Ajamīḍha."
+}
+---
 
 ==== ajamīḍhāt  ====
   * from Ajamīḍha --- [[books:sb:9:21:22|SB 9.21.22]]

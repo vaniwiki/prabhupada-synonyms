@@ -1,5 +1,11 @@
-~~Title:pāmare~~
-{{description>the lowest of mankind.}}
+---json
+{
+    "name":"pāmare",
+    "h1":"pāmare",
+    "title":"pāmare",
+    "description":"the lowest of mankind."
+}
+---
 
 ==== parama pāmare  ====
   * the lowest of mankind --- [[books:cc:madhya:11:188|Madhya 11.188]]

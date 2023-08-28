@@ -1,5 +1,11 @@
-~~Title:kapālī~~
-{{description>who is garlanded with human skulls and smeared with ashes.}}
+---json
+{
+    "name":"kapālī",
+    "h1":"kapālī",
+    "title":"kapālī",
+    "description":"who is garlanded with human skulls and smeared with ashes."
+}
+---
 
 ==== tat-mālya-bhasma-nṛ-kapālī  ====
   * who is garlanded with human skulls and smeared with ashes --- [[books:sb:4:4:16|SB 4.4.16]]

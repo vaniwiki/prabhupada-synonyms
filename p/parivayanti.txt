@@ -1,5 +1,11 @@
-~~Title:parivayanti~~
-{{description>stitch.}}
+---json
+{
+    "name":"parivayanti",
+    "h1":"parivayanti",
+    "title":"parivayanti",
+    "description":"stitch."
+}
+---
 
 ==== parivayanti  ====
   * stitch --- [[books:sb:5:26:36|SB 5.26.36]]

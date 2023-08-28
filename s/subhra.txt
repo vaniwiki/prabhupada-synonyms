@@ -1,5 +1,11 @@
-~~Title:śubhra~~
-{{description>white.}}
+---json
+{
+    "name":"śubhra",
+    "h1":"śubhra",
+    "title":"śubhra",
+    "description":"white."
+}
+---
 
 ==== śubhra  ====
   * white --- [[books:cc:madhya:15:219|Madhya 15.219]]

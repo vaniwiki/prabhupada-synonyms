@@ -1,5 +1,11 @@
-~~Title:tamasi~~
-{{description>darkness; in darkness; in hellish life; in ignorance; in the darkness; in the darkness of illusion; in the material existence of darkness; into hell; into the darkness of ignorance; of the mode of ignorance; when the darkness.}}
+---json
+{
+    "name":"tamasi",
+    "h1":"tamasi",
+    "title":"tamasi",
+    "description":"darkness; in darkness; in hellish life; in ignorance; in the darkness; in the darkness of illusion; in the material existence of darkness; into hell; into the darkness of ignorance; of the mode of ignorance; when the darkness."
+}
+---
 
 ==== tamasi  ====
   * darkness --- [[books:sb:6:15:16|SB 6.15.16]]

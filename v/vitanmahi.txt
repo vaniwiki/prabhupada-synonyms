@@ -1,5 +1,11 @@
-~~Title:vitanmahi~~
-{{description>shall try to spread.}}
+---json
+{
+    "name":"vitanmahi",
+    "h1":"vitanmahi",
+    "title":"vitanmahi",
+    "description":"shall try to spread."
+}
+---
 
 ==== vitanmahi  ====
   * shall try to spread --- [[books:sb:4:16:3|SB 4.16.3]]

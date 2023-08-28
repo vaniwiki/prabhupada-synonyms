@@ -1,5 +1,11 @@
-~~Title:skandhayoḥ~~
-{{description>on the two shoulders.}}
+---json
+{
+    "name":"skandhayoḥ",
+    "h1":"skandhayoḥ",
+    "title":"skandhayoḥ",
+    "description":"on the two shoulders."
+}
+---
 
 ==== skandhayoḥ  ====
   * on the two shoulders --- [[books:sb:5:23:6|SB 5.23.6]]

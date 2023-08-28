@@ -1,5 +1,11 @@
-~~Title:raśanānām~~
-{{description>of the sannyāsīs (who have almost no cloth).}}
+---json
+{
+    "name":"raśanānām",
+    "h1":"raśanānām",
+    "title":"raśanānām",
+    "description":"of the sannyāsīs (who have almost no cloth)."
+}
+---
 
 ==== vāta-raśanānām  ====
   * of the //sannyāsīs// (who have almost no cloth) --- [[books:sb:5:3:20|SB 5.3.20]]

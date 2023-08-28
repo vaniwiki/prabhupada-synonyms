@@ -1,5 +1,11 @@
-~~Title:dvārakāte~~
-{{description>at Dvārakā; at Dvārakā-dhāma; in Dvārakā; in Dvārakā-dhāma.}}
+---json
+{
+    "name":"dvārakāte",
+    "h1":"dvārakāte",
+    "title":"dvārakāte",
+    "description":"at Dvārakā; at Dvārakā-dhāma; in Dvārakā; in Dvārakā-dhāma."
+}
+---
 
 ==== dvārakāte  ====
   * at Dvārakā --- [[books:cc:madhya:20:181|Madhya 20.181]]

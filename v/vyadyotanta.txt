@@ -1,5 +1,11 @@
-~~Title:vyadyotanta~~
-{{description>illuminated.}}
+---json
+{
+    "name":"vyadyotanta",
+    "h1":"vyadyotanta",
+    "title":"vyadyotanta",
+    "description":"illuminated."
+}
+---
 
 ==== vyadyotanta sma  ====
   * illuminated --- [[books:sb:9:14:31|SB 9.14.31]]

@@ -1,5 +1,11 @@
-~~Title:svāminam~~
-{{description>the master or proprietor; to her present husband, or to the former maintainer.}}
+---json
+{
+    "name":"svāminam",
+    "h1":"svāminam",
+    "title":"svāminam",
+    "description":"the master or proprietor; to her present husband, or to the former maintainer."
+}
+---
 
 ==== svāminam  ====
   * the master or proprietor --- [[books:sb:9:11:26|SB 9.11.26]]

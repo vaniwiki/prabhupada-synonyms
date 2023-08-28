@@ -1,5 +1,11 @@
-~~Title:locanayoḥ~~
-{{description>eyes.}}
+---json
+{
+    "name":"locanayoḥ",
+    "h1":"locanayoḥ",
+    "title":"locanayoḥ",
+    "description":"eyes."
+}
+---
 
 ==== locanayoḥ  ====
   * eyes --- [[books:sb:5:23:6|SB 5.23.6]]

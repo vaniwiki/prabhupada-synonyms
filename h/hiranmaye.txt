@@ -1,5 +1,11 @@
-~~Title:hiraṇmaye~~
-{{description>in Hiraṇmaya-varṣa.}}
+---json
+{
+    "name":"hiraṇmaye",
+    "h1":"hiraṇmaye",
+    "title":"hiraṇmaye",
+    "description":"in Hiraṇmaya-varṣa."
+}
+---
 
 ==== hiraṇmaye  ====
   * in Hiraṇmaya-varṣa --- [[books:sb:5:18:29|SB 5.18.29]]

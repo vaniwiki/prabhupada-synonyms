@@ -1,5 +1,11 @@
-~~Title:saktam~~
-{{description>(I am already) attached; attached; attracted; very much attached.}}
+---json
+{
+    "name":"saktam",
+    "h1":"saktam",
+    "title":"saktam",
+    "description":"(I am already) attached; attached; attracted; very much attached."
+}
+---
 
 ==== saktam  ====
   * (I am already) attached --- [[books:sb:7:10:2|SB 7.10.2]]

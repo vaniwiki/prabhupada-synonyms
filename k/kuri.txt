@@ -1,5 +1,11 @@
-~~Title:kurī~~
-{{description>crushed squash.}}
+---json
+{
+    "name":"kurī",
+    "h1":"kurī",
+    "title":"kurī",
+    "description":"crushed squash."
+}
+---
 
 ==== kumḍā-kurī  ====
   * crushed squash --- [[books:cc:madhya:14:29|Madhya 14.29]]

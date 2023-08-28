@@ -1,5 +1,11 @@
-~~Title:nāhuṣān~~
-{{description>the descendants of Nahuṣa.}}
+---json
+{
+    "name":"nāhuṣān",
+    "h1":"nāhuṣān",
+    "title":"nāhuṣān",
+    "description":"the descendants of Nahuṣa."
+}
+---
 
 ==== nāhuṣān  ====
   * the descendants of Nahuṣa --- [[books:sb:9:17:17|SB 9.17.17]]

@@ -1,5 +1,11 @@
-~~Title:vartayan~~
-{{description>considering.}}
+---json
+{
+    "name":"vartayan",
+    "h1":"vartayan",
+    "title":"vartayan",
+    "description":"considering."
+}
+---
 
 ==== vartayan  ====
   * considering --- [[books:sb:7:15:62|SB 7.15.62]]

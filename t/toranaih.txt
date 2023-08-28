@@ -1,5 +1,11 @@
-~~Title:toraṇaiḥ~~
-{{description>(decorated) by gates in different places; by gates; with arched gateways; with gates.}}
+---json
+{
+    "name":"toraṇaiḥ",
+    "h1":"toraṇaiḥ",
+    "title":"toraṇaiḥ",
+    "description":"(decorated) by gates in different places; by gates; with arched gateways; with gates."
+}
+---
 
 ==== toraṇaiḥ  ====
   * (decorated) by gates in different places --- [[books:sb:10:5:6|SB 10.5.6]]

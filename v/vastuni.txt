@@ -1,5 +1,11 @@
-~~Title:vastuni~~
-{{description>in the material things; in the original object.}}
+---json
+{
+    "name":"vastuni",
+    "h1":"vastuni",
+    "title":"vastuni",
+    "description":"in the material things; in the original object."
+}
+---
 
 ==== vastuni  ====
   * in the material things --- [[books:cc:antya:10:21|Antya 10.21]]

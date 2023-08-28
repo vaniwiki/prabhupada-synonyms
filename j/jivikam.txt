@@ -1,5 +1,11 @@
-~~Title:jīvikām~~
-{{description>upon some professional literary career.}}
+---json
+{
+    "name":"jīvikām",
+    "h1":"jīvikām",
+    "title":"jīvikām",
+    "description":"upon some professional literary career."
+}
+---
 
 ==== jīvikām  ====
   * upon some professional literary career --- [[books:sb:7:13:7|SB 7.13.7]]

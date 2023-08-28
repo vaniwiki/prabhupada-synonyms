@@ -1,5 +1,11 @@
-~~Title:ardanāt~~
-{{description>disturbing to the demigods.}}
+---json
+{
+    "name":"ardanāt",
+    "h1":"ardanāt",
+    "title":"ardanāt",
+    "description":"disturbing to the demigods."
+}
+---
 
 ==== sura-ardanāt  ====
   * disturbing to the demigods --- [[books:sb:3:15:1|SB 3.15.1]]

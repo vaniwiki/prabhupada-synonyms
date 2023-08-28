@@ -1,5 +1,11 @@
-~~Title:mārakaiḥ~~
-{{description>wherein poor animals are killed.}}
+---json
+{
+    "name":"mārakaiḥ",
+    "h1":"mārakaiḥ",
+    "title":"mārakaiḥ",
+    "description":"wherein poor animals are killed."
+}
+---
 
 ==== paśu-mārakaiḥ  ====
   * wherein poor animals are killed --- [[books:sb:4:27:11|SB 4.27.11]]

@@ -1,5 +1,11 @@
-~~Title:trātaḥ~~
-{{description>were protected.}}
+---json
+{
+    "name":"trātaḥ",
+    "h1":"trātaḥ",
+    "title":"trātaḥ",
+    "description":"were protected."
+}
+---
 
 ==== trātaḥ  ====
   * were protected --- [[books:sb:3:2:33|SB 3.2.33]]

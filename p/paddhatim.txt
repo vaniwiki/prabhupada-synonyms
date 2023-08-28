@@ -1,5 +1,11 @@
-~~Title:paddhatim~~
-{{description>system.}}
+---json
+{
+    "name":"paddhatim",
+    "h1":"paddhatim",
+    "title":"paddhatim",
+    "description":"system."
+}
+---
 
 ==== paddhatim  ====
   * system --- [[books:sb:4:8:22|SB 4.8.22]]

@@ -1,5 +1,11 @@
-~~Title:pariśuddhena~~
-{{description>completely purified.}}
+---json
+{
+    "name":"pariśuddhena",
+    "h1":"pariśuddhena",
+    "title":"pariśuddhena",
+    "description":"completely purified."
+}
+---
 
 ==== pariśuddhena  ====
   * completely purified --- [[books:sb:3:32:6|SB 3.32.6]]

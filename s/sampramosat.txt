@@ -1,5 +1,11 @@
-~~Title:sampramoṣāt~~
-{{description>due to the destruction.}}
+---json
+{
+    "name":"sampramoṣāt",
+    "h1":"sampramoṣāt",
+    "title":"sampramoṣāt",
+    "description":"due to the destruction."
+}
+---
 
 ==== sampramoṣāt  ====
   * due to the destruction --- [[books:sb:6:4:26|SB 6.4.26]]

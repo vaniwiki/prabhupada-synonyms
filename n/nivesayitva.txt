@@ -1,5 +1,11 @@
-~~Title:niveśayitvā~~
-{{description>having reestablished.}}
+---json
+{
+    "name":"niveśayitvā",
+    "h1":"niveśayitvā",
+    "title":"niveśayitvā",
+    "description":"having reestablished."
+}
+---
 
 ==== niveśayitvā  ====
   * having reestablished --- [[books:sb:1:10:2|SB 1.10.2]]

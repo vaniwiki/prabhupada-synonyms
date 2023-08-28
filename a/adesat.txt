@@ -1,5 +1,11 @@
-~~Title:ādeśāt~~
-{{description>by the order; under the instruction.}}
+---json
+{
+    "name":"ādeśāt",
+    "h1":"ādeśāt",
+    "title":"ādeśāt",
+    "description":"by the order; under the instruction."
+}
+---
 
 ==== ādeśāt  ====
   * by the order --- [[books:sb:3:17:2|SB 3.17.2]], [[books:sb:3:20:10|SB 3.20.10]], [[books:sb:4:30:48|SB 4.30.48]]

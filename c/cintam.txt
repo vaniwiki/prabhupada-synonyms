@@ -1,5 +1,11 @@
-~~Title:cintām~~
-{{description>agitation of the mind; anxiety; fears and anxieties.}}
+---json
+{
+    "name":"cintām",
+    "h1":"cintām",
+    "title":"cintām",
+    "description":"agitation of the mind; anxiety; fears and anxieties."
+}
+---
 
 ==== cintām  ====
   * agitation of the mind --- [[books:sb:4:19:34|SB 4.19.34]]

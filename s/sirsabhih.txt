@@ -1,5 +1,11 @@
-~~Title:śīrṣabhiḥ~~
-{{description>by the heads cut off from their bodies.}}
+---json
+{
+    "name":"śīrṣabhiḥ",
+    "h1":"śīrṣabhiḥ",
+    "title":"śīrṣabhiḥ",
+    "description":"by the heads cut off from their bodies."
+}
+---
 
 ==== śīrṣabhiḥ  ====
   * by the heads cut off from their bodies --- [[books:sb:9:16:17|SB 9.16.17]]

@@ -1,5 +1,11 @@
-~~Title:kuḍāñā~~
-{{description>picking up.}}
+---json
+{
+    "name":"kuḍāñā",
+    "h1":"kuḍāñā",
+    "title":"kuḍāñā",
+    "description":"picking up."
+}
+---
 
 ==== kuḍāñā  ====
   * picking up --- [[books:cc:adi:9:30|Ādi 9.30]]

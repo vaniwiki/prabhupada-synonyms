@@ -1,5 +1,11 @@
-~~Title:prāpadyata~~
-{{description>reached.}}
+---json
+{
+    "name":"prāpadyata",
+    "h1":"prāpadyata",
+    "title":"prāpadyata",
+    "description":"reached."
+}
+---
 
 ==== prāpadyata  ====
   * reached --- [[books:sb:3:4:36|SB 3.4.36]]

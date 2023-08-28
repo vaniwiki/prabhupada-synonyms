@@ -1,5 +1,11 @@
-~~Title:mudrā~~
-{{description>coins; golden coins; seal; symptoms; the symptoms.}}
+---json
+{
+    "name":"mudrā",
+    "h1":"mudrā",
+    "title":"mudrā",
+    "description":"coins; golden coins; seal; symptoms; the symptoms."
+}
+---
 
 ==== mudrā  ====
   * coins --- [[books:cc:adi:13:113|Ādi 13.113]], [[books:cc:madhya:19:9|Madhya 19.9]], [[books:cc:antya:3:191|Antya 3.191]], [[books:cc:antya:6:151|Antya 6.151]]

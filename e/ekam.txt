@@ -1,5 +1,11 @@
-~~Title:ekam~~
-{{description>alone; alone, all by Himself; he alone; in one; once; one (the same Supreme Soul); one; one of them; one only; one without a second; only; only one; the one; the one and only; the only one; unified.}}
+---json
+{
+    "name":"ekam",
+    "h1":"ekam",
+    "title":"ekam",
+    "description":"alone; alone, all by Himself; he alone; in one; once; one (the same Supreme Soul); one; one of them; one only; one without a second; only; only one; the one; the one and only; the only one; unified."
+}
+---
 
 ==== ekam  ====
   * alone --- [[books:sb:3:4:6|SB 3.4.6]], [[books:sb:3:8:23|SB 3.8.23]], [[books:sb:4:14:33|SB 4.14.33]], [[books:sb:4:16:25|SB 4.16.25]]

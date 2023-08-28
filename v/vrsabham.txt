@@ -1,5 +1,11 @@
-~~Title:vṛṣabham~~
-{{description>Vṛṣabha.}}
+---json
+{
+    "name":"vṛṣabham",
+    "h1":"vṛṣabham",
+    "title":"vṛṣabham",
+    "description":"Vṛṣabha."
+}
+---
 
 ==== vṛṣabham  ====
   * Vṛṣabha --- [[books:cc:madhya:19:206|Madhya 19.206]]

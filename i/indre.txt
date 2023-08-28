@@ -1,5 +1,11 @@
-~~Title:indre~~
-{{description>by the King of heaven, Indra; unto King Indra; when the King of heaven.}}
+---json
+{
+    "name":"indre",
+    "h1":"indre",
+    "title":"indre",
+    "description":"by the King of heaven, Indra; unto King Indra; when the King of heaven."
+}
+---
 
 ==== indre  ====
   * by the King of heaven, Indra --- [[books:sb:3:2:33|SB 3.2.33]]

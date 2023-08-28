@@ -1,5 +1,11 @@
-~~Title:gosavam~~
-{{description>type of sacrifice.}}
+---json
+{
+    "name":"gosavam",
+    "h1":"gosavam",
+    "title":"gosavam",
+    "description":"type of sacrifice."
+}
+---
 
 ==== sa-gosavam  ====
   * type of sacrifice --- [[books:sb:3:12:40|SB 3.12.40]]

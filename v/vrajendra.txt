@@ -1,5 +1,11 @@
-~~Title:vrajendra~~
-{{description>the son of Mahārāja Nanda.}}
+---json
+{
+    "name":"vrajendra",
+    "h1":"vrajendra",
+    "title":"vrajendra",
+    "description":"the son of Mahārāja Nanda."
+}
+---
 
 ==== vrajendra-koṅara  ====
   * the son of Mahārāja Nanda --- [[books:cc:madhya:20:201|Madhya 20.201]]

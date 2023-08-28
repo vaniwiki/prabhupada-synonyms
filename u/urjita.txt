@@ -1,5 +1,11 @@
-~~Title:urjita~~
-{{description>decorated; more than expected; powerful.}}
+---json
+{
+    "name":"urjita",
+    "h1":"urjita",
+    "title":"urjita",
+    "description":"decorated; more than expected; powerful."
+}
+---
 
 ==== ūrjita  ====
   * decorated --- [[books:sb:4:4:6|SB 4.4.6]]

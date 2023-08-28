@@ -1,5 +1,11 @@
-~~Title:janana~~
-{{description>informing and taking permission.}}
+---json
+{
+    "name":"janana",
+    "h1":"janana",
+    "title":"janana",
+    "description":"informing and taking permission."
+}
+---
 
 ==== jānāñā  ====
   * informing and taking permission --- [[books:cc:madhya:6:31|Madhya 6.31]]

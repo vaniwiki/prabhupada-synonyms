@@ -1,5 +1,11 @@
-~~Title:kāmābhaṭṭa~~
-{{description>of the name Kāmābhaṭṭa.}}
+---json
+{
+    "name":"kāmābhaṭṭa",
+    "h1":"kāmābhaṭṭa",
+    "title":"kāmābhaṭṭa",
+    "description":"of the name Kāmābhaṭṭa."
+}
+---
 
 ==== kāmābhaṭṭa  ====
   * of the name Kāmābhaṭṭa --- [[books:cc:adi:10:149|Ādi 10.149]]

@@ -1,5 +1,11 @@
-~~Title:taraṅgiṇī~~
-{{description>waves.}}
+---json
+{
+    "name":"taraṅgiṇī",
+    "h1":"taraṅgiṇī",
+    "title":"taraṅgiṇī",
+    "description":"waves."
+}
+---
 
 ==== taraṅgiṇī  ====
   * waves --- [[books:cc:madhya:2:31|Madhya 2.31]]

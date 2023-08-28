@@ -1,5 +1,11 @@
-~~Title:laṅghe~~
-{{description>crosses.}}
+---json
+{
+    "name":"laṅghe",
+    "h1":"laṅghe",
+    "title":"laṅghe",
+    "description":"crosses."
+}
+---
 
 ==== laṅghe  ====
   * crosses --- [[books:cc:adi:8:5|Ādi 8.5]]

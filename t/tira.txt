@@ -1,5 +1,11 @@
-~~Title:tīra~~
-{{description>border; the bank.}}
+---json
+{
+    "name":"tīra",
+    "h1":"tīra",
+    "title":"tīra",
+    "description":"border; the bank."
+}
+---
 
 ==== tīra  ====
   * border --- [[books:cc:adi:10:87|Ādi 10.87]]

@@ -1,5 +1,11 @@
-~~Title:upalambhakam~~
-{{description>reminding one.}}
+---json
+{
+    "name":"upalambhakam",
+    "h1":"upalambhakam",
+    "title":"upalambhakam",
+    "description":"reminding one."
+}
+---
 
 ==== upalambhakam  ====
   * reminding one --- [[books:sb:6:2:11|SB 6.2.11]]

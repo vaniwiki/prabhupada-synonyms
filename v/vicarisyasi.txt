@@ -1,5 +1,11 @@
-~~Title:vicariṣyasi~~
-{{description>shall travel.}}
+---json
+{
+    "name":"vicariṣyasi",
+    "h1":"vicariṣyasi",
+    "title":"vicariṣyasi",
+    "description":"shall travel."
+}
+---
 
 ==== vicariṣyasi  ====
   * shall travel --- [[books:sb:8:24:34-35|SB 8.24.34-35]]

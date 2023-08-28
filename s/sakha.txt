@@ -1,5 +1,11 @@
-~~Title:sakha~~
-{{description>the companions.}}
+---json
+{
+    "name":"sakha",
+    "h1":"sakha",
+    "title":"sakha",
+    "description":"the companions."
+}
+---
 
 ==== sakha  ====
   * the companions --- [[books:sb:3:23:39|SB 3.23.39]]

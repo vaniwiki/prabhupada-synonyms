@@ -1,5 +1,11 @@
-~~Title:pariyāche~~
-{{description>did wear.}}
+---json
+{
+    "name":"pariyāche",
+    "h1":"pariyāche",
+    "title":"pariyāche",
+    "description":"did wear."
+}
+---
 
 ==== pariyāche  ====
   * did wear --- [[books:cc:madhya:10:154|Madhya 10.154]]

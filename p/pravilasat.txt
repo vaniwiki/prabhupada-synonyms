@@ -1,5 +1,11 @@
-~~Title:pravilasat~~
-{{description>spreading over.}}
+---json
+{
+    "name":"pravilasat",
+    "h1":"pravilasat",
+    "title":"pravilasat",
+    "description":"spreading over."
+}
+---
 
 ==== pravilasat  ====
   * spreading over --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

@@ -1,5 +1,11 @@
-~~Title:bāṇaḥ~~
-{{description>Bāṇa.}}
+---json
+{
+    "name":"bāṇaḥ",
+    "h1":"bāṇaḥ",
+    "title":"bāṇaḥ",
+    "description":"Bāṇa."
+}
+---
 
 ==== bāṇaḥ  ====
   * Bāṇa --- [[books:sb:6:18:18|SB 6.18.18]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

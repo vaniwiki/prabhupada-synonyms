@@ -1,5 +1,11 @@
-~~Title:prītāt~~
-{{description>from the Lord, who is very pleased.}}
+---json
+{
+    "name":"prītāt",
+    "h1":"prītāt",
+    "title":"prītāt",
+    "description":"from the Lord, who is very pleased."
+}
+---
 
 ==== su-prītāt  ====
   * from the Lord, who is very pleased --- [[books:sb:4:24:77|SB 4.24.77]]

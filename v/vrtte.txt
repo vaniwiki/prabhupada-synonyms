@@ -1,5 +1,11 @@
-~~Title:vṛtte~~
-{{description>O unchaste woman.}}
+---json
+{
+    "name":"vṛtte",
+    "h1":"vṛtte",
+    "title":"vṛtte",
+    "description":"O unchaste woman."
+}
+---
 
 ==== asat-vṛtte  ====
   * O unchaste woman --- [[books:sb:9:14:12|SB 9.14.12]]

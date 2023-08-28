@@ -1,5 +1,11 @@
-~~Title:parikhaiḥ~~
-{{description>with trenches.}}
+---json
+{
+    "name":"parikhaiḥ",
+    "h1":"parikhaiḥ",
+    "title":"parikhaiḥ",
+    "description":"with trenches."
+}
+---
 
 ==== parikhaiḥ  ====
   * with trenches --- [[books:sb:4:25:14|SB 4.25.14]]

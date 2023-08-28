@@ -1,5 +1,11 @@
-~~Title:bhāskara~~
-{{description>sun.}}
+---json
+{
+    "name":"bhāskara",
+    "h1":"bhāskara",
+    "title":"bhāskara",
+    "description":"sun."
+}
+---
 
 ==== bhāskara  ====
   * sun --- [[books:cc:adi:4:171|Ādi 4.171]]

@@ -1,5 +1,11 @@
-~~Title:parādravat~~
-{{description>fled.}}
+---json
+{
+    "name":"parādravat",
+    "h1":"parādravat",
+    "title":"parādravat",
+    "description":"fled."
+}
+---
 
 ==== parādravat  ====
   * fled --- [[books:sb:1:7:18|SB 1.7.18]]

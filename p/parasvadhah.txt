@@ -1,5 +1,11 @@
-~~Title:paraśvadhaḥ~~
-{{description>being expert in using his weapon, the paraśu, or chopper.}}
+---json
+{
+    "name":"paraśvadhaḥ",
+    "h1":"paraśvadhaḥ",
+    "title":"paraśvadhaḥ",
+    "description":"being expert in using his weapon, the paraśu, or chopper."
+}
+---
 
 ==== paraśvadhaḥ  ====
   * being expert in using his weapon, the //paraśu,// or chopper --- [[books:sb:9:15:31|SB 9.15.31]]

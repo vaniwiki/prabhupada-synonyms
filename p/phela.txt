@@ -1,5 +1,11 @@
-~~Title:phelā~~
-{{description>of the nectar of whose lips; the remnants of food.}}
+---json
+{
+    "name":"phelā",
+    "h1":"phelā",
+    "title":"phelā",
+    "description":"of the nectar of whose lips; the remnants of food."
+}
+---
 
 ==== phelā  ====
   * of the nectar of whose lips --- [[books:cc:antya:16:119|Antya 16.119]]

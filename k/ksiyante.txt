@@ -1,5 +1,11 @@
-~~Title:kṣīyante~~
-{{description>terminated.}}
+---json
+{
+    "name":"kṣīyante",
+    "h1":"kṣīyante",
+    "title":"kṣīyante",
+    "description":"terminated."
+}
+---
 
 ==== kṣīyante  ====
   * terminated --- [[books:sb:1:2:21|SB 1.2.21]]

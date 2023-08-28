@@ -1,5 +1,11 @@
-~~Title:pippalāda~~
-{{description>Pippalāda.}}
+---json
+{
+    "name":"pippalāda",
+    "h1":"pippalāda",
+    "title":"pippalāda",
+    "description":"Pippalāda."
+}
+---
 
 ==== pippalāda  ====
   * Pippalāda --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

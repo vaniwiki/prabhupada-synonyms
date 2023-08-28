@@ -1,5 +1,11 @@
-~~Title:abhyapatat~~
-{{description>appeared on the spot; attacked.}}
+---json
+{
+    "name":"abhyapatat",
+    "h1":"abhyapatat",
+    "title":"abhyapatat",
+    "description":"appeared on the spot; attacked."
+}
+---
 
 ==== abhyapatat  ====
   * appeared on the spot --- [[books:sb:10:12:13|SB 10.12.13]]

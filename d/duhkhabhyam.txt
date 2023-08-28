@@ -1,5 +1,11 @@
-~~Title:duḥkhābhyām~~
-{{description>with the distress and happiness.}}
+---json
+{
+    "name":"duḥkhābhyām",
+    "h1":"duḥkhābhyām",
+    "title":"duḥkhābhyām",
+    "description":"with the distress and happiness."
+}
+---
 
 ==== sukha-duḥkhābhyām  ====
   * with the distress and happiness --- [[books:sb:6:12:14|SB 6.12.14]]

@@ -1,5 +1,11 @@
-~~Title:varjiba~~
-{{description>we should give up.}}
+---json
+{
+    "name":"varjiba",
+    "h1":"varjiba",
+    "title":"varjiba",
+    "description":"we should give up."
+}
+---
 
 ==== varjiba  ====
   * we should give up --- [[books:cc:madhya:22:118|Madhya 22.118]]

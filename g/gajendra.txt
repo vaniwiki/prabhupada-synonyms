@@ -1,5 +1,11 @@
-~~Title:gajendra~~
-{{description>of his elephant carrier.}}
+---json
+{
+    "name":"gajendra",
+    "h1":"gajendra",
+    "title":"gajendra",
+    "description":"of his elephant carrier."
+}
+---
 
 ==== gajendra  ====
   * of his elephant carrier --- [[books:sb:6:10:13-14|SB 6.10.13-14]]

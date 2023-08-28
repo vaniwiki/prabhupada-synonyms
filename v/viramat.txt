@@ -1,5 +1,11 @@
-~~Title:viramat~~
-{{description>having awakened from the samādhi (yogic trance).}}
+---json
+{
+    "name":"viramat",
+    "h1":"viramat",
+    "title":"viramat",
+    "description":"having awakened from the samādhi (yogic trance)."
+}
+---
 
 ==== viramat-samādheḥ  ====
   * having awakened from the //samādhi// (yogic trance) --- [[books:sb:7:9:33|SB 7.9.33]]

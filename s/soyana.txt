@@ -1,5 +1,11 @@
-~~Title:śoyāñā~~
-{{description>lying down; making lie down.}}
+---json
+{
+    "name":"śoyāñā",
+    "h1":"śoyāñā",
+    "title":"śoyāñā",
+    "description":"lying down; making lie down."
+}
+---
 
 ==== śoyāñā  ====
   * lying down --- [[books:cc:madhya:6:8|Madhya 6.8]]

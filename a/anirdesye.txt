@@ -1,5 +1,11 @@
-~~Title:anirdeśye~~
-{{description>who is not perceivable by the senses.}}
+---json
+{
+    "name":"anirdeśye",
+    "h1":"anirdeśye",
+    "title":"anirdeśye",
+    "description":"who is not perceivable by the senses."
+}
+---
 
 ==== anirdeśye  ====
   * who is not perceivable by the senses --- [[books:sb:7:5:41|SB 7.5.41]]

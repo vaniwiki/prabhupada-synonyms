@@ -1,5 +1,11 @@
-~~Title:icchaya~~
-{{description>by desires; by His own will; by His will (without being forced by anyone); by the will; by the will of; by the wish; by your desire; whimsically; with a desire.}}
+---json
+{
+    "name":"icchaya",
+    "h1":"icchaya",
+    "title":"icchaya",
+    "description":"by desires; by His own will; by His will (without being forced by anyone); by the will; by the will of; by the wish; by your desire; whimsically; with a desire."
+}
+---
 
 ==== icchayā  ====
   * by desires --- [[books:sb:1:6:34|SB 1.6.34]]

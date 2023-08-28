@@ -1,5 +1,11 @@
-~~Title:pāchete~~
-{{description>behind.}}
+---json
+{
+    "name":"pāchete",
+    "h1":"pāchete",
+    "title":"pāchete",
+    "description":"behind."
+}
+---
 
 ==== pāchete  ====
   * behind --- [[books:cc:antya:13:82|Antya 13.82]]

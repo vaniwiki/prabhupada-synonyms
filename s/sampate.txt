@@ -1,5 +1,11 @@
-~~Title:sampāte~~
-{{description>the arrows released.}}
+---json
+{
+    "name":"sampāte",
+    "h1":"sampāte",
+    "title":"sampāte",
+    "description":"the arrows released."
+}
+---
 
 ==== śastra-sampāte  ====
   * the arrows released --- [[books:bg:1:20|Bg. 1.20]]

@@ -1,5 +1,11 @@
-~~Title:kati~~
-{{description>anywhere; how; how many; where; where or how many times.}}
+---json
+{
+    "name":"kati",
+    "h1":"kati",
+    "title":"kati",
+    "description":"anywhere; how; how many; where; where or how many times."
+}
+---
 
 ==== kati  ====
   * anywhere --- [[books:cc:madhya:19:250|Madhya 19.250]]

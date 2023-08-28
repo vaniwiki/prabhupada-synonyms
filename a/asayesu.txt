@@ -1,5 +1,11 @@
-~~Title:āśayeṣu~~
-{{description>in lakes with clear water.}}
+---json
+{
+    "name":"āśayeṣu",
+    "h1":"āśayeṣu",
+    "title":"āśayeṣu",
+    "description":"in lakes with clear water."
+}
+---
 
 ==== amala-jala-āśayeṣu  ====
   * in lakes with clear water --- [[books:sb:5:17:13|SB 5.17.13]]

@@ -1,5 +1,11 @@
-~~Title:ślokam~~
-{{description>verse.}}
+---json
+{
+    "name":"ślokam",
+    "h1":"ślokam",
+    "title":"ślokam",
+    "description":"verse."
+}
+---
 
 ==== ślokam  ====
   * verse --- [[books:sb:9:20:37|SB 9.20.37]]

@@ -1,5 +1,11 @@
-~~Title:kṛtāt~~
-{{description>from the pious activities.}}
+---json
+{
+    "name":"kṛtāt",
+    "h1":"kṛtāt",
+    "title":"kṛtāt",
+    "description":"from the pious activities."
+}
+---
 
 ==== su-kṛtāt  ====
   * from the pious activities --- [[books:sb:4:20:14|SB 4.20.14]]

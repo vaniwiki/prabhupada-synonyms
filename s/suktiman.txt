@@ -1,5 +1,11 @@
-~~Title:śuktimān~~
-{{description>Śuktimān.}}
+---json
+{
+    "name":"śuktimān",
+    "h1":"śuktimān",
+    "title":"śuktimān",
+    "description":"Śuktimān."
+}
+---
 
 ==== śuktimān  ====
   * Śuktimān --- [[books:sb:5:19:16|SB 5.19.16]]

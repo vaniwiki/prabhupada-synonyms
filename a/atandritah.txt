@@ -1,5 +1,11 @@
-~~Title:atandritah~~
-{{description>alert; attentive; instrumental; with great care.}}
+---json
+{
+    "name":"atandritah",
+    "h1":"atandritah",
+    "title":"atandritah",
+    "description":"alert; attentive; instrumental; with great care."
+}
+---
 
 ==== atandritaḥ  ====
   * alert --- [[books:sb:3:28:7|SB 3.28.7]]

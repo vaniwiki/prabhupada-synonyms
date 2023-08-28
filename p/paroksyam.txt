@@ -1,5 +1,11 @@
-~~Title:pārokṣyam~~
-{{description>authorized description; described by authority.}}
+---json
+{
+    "name":"pārokṣyam",
+    "h1":"pārokṣyam",
+    "title":"pārokṣyam",
+    "description":"authorized description; described by authority."
+}
+---
 
 ==== pārokṣyam  ====
   * authorized description --- [[books:sb:4:29:83|SB 4.29.83]]

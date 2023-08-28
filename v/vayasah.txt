@@ -1,5 +1,11 @@
-~~Title:vayasaḥ~~
-{{description>appearing as of the age; of age.}}
+---json
+{
+    "name":"vayasaḥ",
+    "h1":"vayasaḥ",
+    "title":"vayasaḥ",
+    "description":"appearing as of the age; of age."
+}
+---
 
 ==== vayasaḥ  ====
   * appearing as of the age --- [[books:sb:3:15:30|SB 3.15.30]]

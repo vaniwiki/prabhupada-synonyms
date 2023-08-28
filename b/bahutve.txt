@@ -1,5 +1,11 @@
-~~Title:bahutve~~
-{{description>in the plurality.}}
+---json
+{
+    "name":"bahutve",
+    "h1":"bahutve",
+    "title":"bahutve",
+    "description":"in the plurality."
+}
+---
 
 ==== bahutve  ====
   * in the plurality --- [[books:sb:6:3:6|SB 6.3.6]]

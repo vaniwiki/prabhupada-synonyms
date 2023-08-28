@@ -1,5 +1,11 @@
-~~Title:abhede~~
-{{description>no difference.}}
+---json
+{
+    "name":"abhede",
+    "h1":"abhede",
+    "title":"abhede",
+    "description":"no difference."
+}
+---
 
 ==== abhede  ====
   * no difference --- [[books:cc:madhya:9:117|Madhya 9.117]], [[books:cc:madhya:9:146|Madhya 9.146]]

@@ -1,5 +1,11 @@
-~~Title:surākṛtam~~
-{{description>impurity caused by the slight touch of wine.}}
+---json
+{
+    "name":"surākṛtam",
+    "h1":"surākṛtam",
+    "title":"surākṛtam",
+    "description":"impurity caused by the slight touch of wine."
+}
+---
 
 ==== surākṛtam  ====
   * impurity caused by the slight touch of wine --- [[books:sb:1:8:52|SB 1.8.52]]

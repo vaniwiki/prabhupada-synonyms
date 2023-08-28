@@ -1,5 +1,11 @@
-~~Title:chaya~~
-{{description>6; six.}}
+---json
+{
+    "name":"chaya",
+    "h1":"chaya",
+    "title":"chaya",
+    "description":"6; six."
+}
+---
 
 ==== chaya  ====
   * 6 --- [[books:cc:adi:13:80|Ādi 13.80]]

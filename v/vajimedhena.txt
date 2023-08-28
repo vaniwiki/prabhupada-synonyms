@@ -1,5 +1,11 @@
-~~Title:vājimedhena~~
-{{description>by the aśvamedha sacrifice.}}
+---json
+{
+    "name":"vājimedhena",
+    "h1":"vājimedhena",
+    "title":"vājimedhena",
+    "description":"by the aśvamedha sacrifice."
+}
+---
 
 ==== vājimedhena  ====
   * by the //aśvamedha// sacrifice --- [[books:sb:6:13:21|SB 6.13.21]]

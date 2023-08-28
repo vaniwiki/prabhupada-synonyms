@@ -1,5 +1,11 @@
-~~Title:sankhyam~~
-{{description>in number; number.}}
+---json
+{
+    "name":"sankhyam",
+    "h1":"sankhyam",
+    "title":"sankhyam",
+    "description":"in number; number."
+}
+---
 
 ==== saṅkhyam  ====
   * in number --- [[books:sb:3:12:41|SB 3.12.41]]

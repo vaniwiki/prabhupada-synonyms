@@ -1,5 +1,11 @@
-~~Title:punar~~
-{{description>redundancy (also called punar-ukti); repetition of the same word.}}
+---json
+{
+    "name":"punar",
+    "h1":"punar",
+    "title":"punar",
+    "description":"redundancy (also called punar-ukti); repetition of the same word."
+}
+---
 
 ==== punar-ātta  ====
   * redundancy (also called //punar-ukti//) --- [[books:cc:adi:16:55|Ādi 16.55]]

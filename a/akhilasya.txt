@@ -1,5 +1,11 @@
-~~Title:akhilasya~~
-{{description>of the entire universe.}}
+---json
+{
+    "name":"akhilasya",
+    "h1":"akhilasya",
+    "title":"akhilasya",
+    "description":"of the entire universe."
+}
+---
 
 ==== akhilasya  ====
   * of the entire universe --- [[books:sb:3:28:23|SB 3.28.23]]

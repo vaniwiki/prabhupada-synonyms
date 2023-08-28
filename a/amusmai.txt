@@ -1,5 +1,11 @@
-~~Title:amuṣmai~~
-{{description>beyond death; unto Him (unto Lord Viṣṇu, Vāmanadeva).}}
+---json
+{
+    "name":"amuṣmai",
+    "h1":"amuṣmai",
+    "title":"amuṣmai",
+    "description":"beyond death; unto Him (unto Lord Viṣṇu, Vāmanadeva)."
+}
+---
 
 ==== amuṣmai  ====
   * beyond death --- [[books:sb:4:24:40|SB 4.24.40]]

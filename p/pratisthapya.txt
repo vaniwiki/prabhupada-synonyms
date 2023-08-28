@@ -1,5 +1,11 @@
-~~Title:pratiṣṭhāpya~~
-{{description>after placing; placing.}}
+---json
+{
+    "name":"pratiṣṭhāpya",
+    "h1":"pratiṣṭhāpya",
+    "title":"pratiṣṭhāpya",
+    "description":"after placing; placing."
+}
+---
 
 ==== pratiṣṭhāpya  ====
   * after placing --- [[books:sb:3:28:8|SB 3.28.8]]

@@ -1,5 +1,11 @@
-~~Title:viṭapa~~
-{{description>by the branches; of branches and twigs; possessing branches; the branches; trees; whose branches.}}
+---json
+{
+    "name":"viṭapa",
+    "h1":"viṭapa",
+    "title":"viṭapa",
+    "description":"by the branches; of branches and twigs; possessing branches; the branches; trees; whose branches."
+}
+---
 
 ==== viṭapa  ====
   * by the branches --- [[books:sb:4:6:32|SB 4.6.32]]

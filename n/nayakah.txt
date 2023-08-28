@@ -1,5 +1,11 @@
-~~Title:nāyakāḥ~~
-{{description>captains; led by.}}
+---json
+{
+    "name":"nāyakāḥ",
+    "h1":"nāyakāḥ",
+    "title":"nāyakāḥ",
+    "description":"captains; led by."
+}
+---
 
 ==== nāyakāḥ  ====
   * captains --- [[books:bg:1:7|Bg. 1.7]]

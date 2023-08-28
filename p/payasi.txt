@@ -1,5 +1,11 @@
-~~Title:payasi~~
-{{description>for the sake of milk; in milk; in the water; with milk.}}
+---json
+{
+    "name":"payasi",
+    "h1":"payasi",
+    "title":"payasi",
+    "description":"for the sake of milk; in milk; in the water; with milk."
+}
+---
 
 ==== payasi  ====
   * for the sake of milk --- [[books:sb:4:17:35|SB 4.17.35]]

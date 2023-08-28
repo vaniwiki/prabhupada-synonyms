@@ -1,5 +1,11 @@
-~~Title:sabhājita~~
-{{description>greatly worshiped.}}
+---json
+{
+    "name":"sabhājita",
+    "h1":"sabhājita",
+    "title":"sabhājita",
+    "description":"greatly worshiped."
+}
+---
 
 ==== sabhājita  ====
   * greatly worshiped --- [[books:sb:5:14:46|SB 5.14.46]]

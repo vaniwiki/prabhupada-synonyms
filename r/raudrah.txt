@@ -1,5 +1,11 @@
-~~Title:raudraḥ~~
-{{description>anger.}}
+---json
+{
+    "name":"raudraḥ",
+    "h1":"raudraḥ",
+    "title":"raudraḥ",
+    "description":"anger."
+}
+---
 
 ==== raudraḥ  ====
   * anger --- [[books:cc:madhya:19:186|Madhya 19.186]]

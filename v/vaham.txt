@@ -1,5 +1,11 @@
-~~Title:vaham~~
-{{description>my horses.}}
+---json
+{
+    "name":"vaham",
+    "h1":"vaham",
+    "title":"vaham",
+    "description":"my horses."
+}
+---
 
 ==== vāham  ====
   * my horses --- [[books:sb:1:15:17|SB 1.15.17]]

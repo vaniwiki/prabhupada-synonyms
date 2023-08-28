@@ -1,5 +1,11 @@
-~~Title:ojasau~~
-{{description>very great, powerful.}}
+---json
+{
+    "name":"ojasau",
+    "h1":"ojasau",
+    "title":"ojasau",
+    "description":"very great, powerful."
+}
+---
 
 ==== mahā-ojasau  ====
   * very great, powerful --- [[books:sb:4:1:9|SB 4.1.9]]

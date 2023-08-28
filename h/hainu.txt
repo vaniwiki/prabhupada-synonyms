@@ -1,5 +1,11 @@
-~~Title:hainu~~
-{{description>became.}}
+---json
+{
+    "name":"hainu",
+    "h1":"hainu",
+    "title":"hainu",
+    "description":"became."
+}
+---
 
 ==== hainu  ====
   * became --- [[books:cc:adi:5:183|Ādi 5.183]]

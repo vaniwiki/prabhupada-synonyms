@@ -1,5 +1,11 @@
-~~Title:prasadah~~
-{{description>benediction or blessing; jolliness in any condition of life; the favor; the symbol of mercy.}}
+---json
+{
+    "name":"prasadah",
+    "h1":"prasadah",
+    "title":"prasadah",
+    "description":"benediction or blessing; jolliness in any condition of life; the favor; the symbol of mercy."
+}
+---
 
 ==== prasādaḥ  ====
   * benediction or blessing --- [[books:sb:7:9:27|SB 7.9.27]]

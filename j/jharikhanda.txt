@@ -1,5 +1,11 @@
-~~Title:jhārikhaṇḍa~~
-{{description>known as Jhārikhaṇḍa; to Jhārikhaṇḍa.}}
+---json
+{
+    "name":"jhārikhaṇḍa",
+    "h1":"jhārikhaṇḍa",
+    "title":"jhārikhaṇḍa",
+    "description":"known as Jhārikhaṇḍa; to Jhārikhaṇḍa."
+}
+---
 
 ==== jhārikhaṇḍa  ====
   * known as Jhārikhaṇḍa --- [[books:cc:antya:4:4|Antya 4.4]]

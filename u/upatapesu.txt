@@ -1,5 +1,11 @@
-~~Title:upatāpeṣu~~
-{{description>or in great shock.}}
+---json
+{
+    "name":"upatāpeṣu",
+    "h1":"upatāpeṣu",
+    "title":"upatāpeṣu",
+    "description":"or in great shock."
+}
+---
 
 ==== upatāpeṣu  ====
   * or in great shock --- [[books:sb:4:29:71|SB 4.29.71]]

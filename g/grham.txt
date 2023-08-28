@@ -1,5 +1,11 @@
-~~Title:gṛham~~
-{{description>a house; for his home; from one house; his own palace; home; house; household life; houses; on the airplane which resembled a big house; the bodily concept of life, or household life; the home; the home life; the house; to another house; to the place of the teachers (Ṣaṇḍa and Amarka); to your home; within the palace.}}
+---json
+{
+    "name":"gṛham",
+    "h1":"gṛham",
+    "title":"gṛham",
+    "description":"a house; for his home; from one house; his own palace; home; house; household life; houses; on the airplane which resembled a big house; the bodily concept of life, or household life; the home; the home life; the house; to another house; to the place of the teachers (Ṣaṇḍa and Amarka); to your home; within the palace."
+}
+---
 
 ==== gṛham  ====
   * a house --- [[books:sb:7:2:42|SB 7.2.42]]

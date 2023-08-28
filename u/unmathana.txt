@@ -1,5 +1,11 @@
-~~Title:unmathana~~
-{{description>by activities of churning the ocean.}}
+---json
+{
+    "name":"unmathana",
+    "h1":"unmathana",
+    "title":"unmathana",
+    "description":"by activities of churning the ocean."
+}
+---
 
 ==== samudra-unmathana-ādibhiḥ  ====
   * by activities of churning the ocean --- [[books:sb:8:6:17|SB 8.6.17]]

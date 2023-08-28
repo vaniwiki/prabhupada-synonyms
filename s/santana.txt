@@ -1,5 +1,11 @@
-~~Title:santāna~~
-{{description>children; generation.}}
+---json
+{
+    "name":"santāna",
+    "h1":"santāna",
+    "title":"santāna",
+    "description":"children; generation."
+}
+---
 
 ==== santāna  ====
   * children --- [[books:sb:3:14:14|SB 3.14.14]]

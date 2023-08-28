@@ -1,5 +1,11 @@
-~~Title:pālasya~~
-{{description>of Yamarāja, the maintainer of religious principles.}}
+---json
+{
+    "name":"pālasya",
+    "h1":"pālasya",
+    "title":"pālasya",
+    "description":"of Yamarāja, the maintainer of religious principles."
+}
+---
 
 ==== dharma-pālasya  ====
   * of Yamarāja, the maintainer of religious principles --- [[books:sb:6:1:34-36|SB 6.1.34-36]]

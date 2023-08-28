@@ -1,5 +1,11 @@
-~~Title:vyatirekataḥ~~
-{{description>separate.}}
+---json
+{
+    "name":"vyatirekataḥ",
+    "h1":"vyatirekataḥ",
+    "title":"vyatirekataḥ",
+    "description":"separate."
+}
+---
 
 ==== vyatirekataḥ  ====
   * separate --- [[books:sb:3:27:18|SB 3.27.18]]

@@ -1,5 +1,11 @@
-~~Title:jñānataḥ~~
-{{description>by cultivation of knowledge.}}
+---json
+{
+    "name":"jñānataḥ",
+    "h1":"jñānataḥ",
+    "title":"jñānataḥ",
+    "description":"by cultivation of knowledge."
+}
+---
 
 ==== jñānataḥ  ====
   * by cultivation of knowledge --- [[books:cc:adi:8:17|Ādi 8.17]]

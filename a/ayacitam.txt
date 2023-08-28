@@ -1,5 +1,11 @@
-~~Title:ayācitam~~
-{{description>obtained without begging from anyone else.}}
+---json
+{
+    "name":"ayācitam",
+    "h1":"ayācitam",
+    "title":"ayācitam",
+    "description":"obtained without begging from anyone else."
+}
+---
 
 ==== ayācitam  ====
   * obtained without begging from anyone else --- [[books:sb:7:11:18-20|SB 7.11.18-20]]

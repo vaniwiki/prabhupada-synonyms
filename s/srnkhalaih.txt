@@ -1,5 +1,11 @@
-~~Title:śṛṅkhalaiḥ~~
-{{description>strongly constructed with iron pins and closed with iron chains.}}
+---json
+{
+    "name":"śṛṅkhalaiḥ",
+    "h1":"śṛṅkhalaiḥ",
+    "title":"śṛṅkhalaiḥ",
+    "description":"strongly constructed with iron pins and closed with iron chains."
+}
+---
 
 ==== āyasa-kīla-śṛṅkhalaiḥ  ====
   * strongly constructed with iron pins and closed with iron chains --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

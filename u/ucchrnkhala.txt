@@ -1,5 +1,11 @@
-~~Title:ucchṛṅkhala~~
-{{description>upstart.}}
+---json
+{
+    "name":"ucchṛṅkhala",
+    "h1":"ucchṛṅkhala",
+    "title":"ucchṛṅkhala",
+    "description":"upstart."
+}
+---
 
 ==== ucchṛṅkhala  ====
   * upstart --- [[books:cc:madhya:17:121|Madhya 17.121]]

@@ -1,5 +1,11 @@
-~~Title:bindau~~
-{{description>in the point of oṁkāra.}}
+---json
+{
+    "name":"bindau",
+    "h1":"bindau",
+    "title":"bindau",
+    "description":"in the point of oṁkāra."
+}
+---
 
 ==== bindau  ====
   * in the point of //oṁkāra// --- [[books:sb:7:15:53|SB 7.15.53]]

@@ -1,5 +1,11 @@
-~~Title:lakṣmyāḥ~~
-{{description>by opulence; of the goddess of fortune.}}
+---json
+{
+    "name":"lakṣmyāḥ",
+    "h1":"lakṣmyāḥ",
+    "title":"lakṣmyāḥ",
+    "description":"by opulence; of the goddess of fortune."
+}
+---
 
 ==== lakṣmyāḥ  ====
   * by opulence --- [[books:sb:3:2:29|SB 3.2.29]]

@@ -1,5 +1,11 @@
-~~Title:manusyuḥ~~
-{{description>Pravīra's son Manusyu.}}
+---json
+{
+    "name":"manusyuḥ",
+    "h1":"manusyuḥ",
+    "title":"manusyuḥ",
+    "description":"Pravīra's son Manusyu."
+}
+---
 
 ==== manusyuḥ  ====
   * Pravīra's son Manusyu --- [[books:sb:9:20:2|SB 9.20.2]]

@@ -1,5 +1,11 @@
-~~Title:vallabhena~~
-{{description>very pleasing.}}
+---json
+{
+    "name":"vallabhena",
+    "h1":"vallabhena",
+    "title":"vallabhena",
+    "description":"very pleasing."
+}
+---
 
 ==== vallabhena  ====
   * very pleasing --- [[books:sb:3:8:28|SB 3.8.28]]

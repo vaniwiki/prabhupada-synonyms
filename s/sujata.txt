@@ -1,5 +1,11 @@
-~~Title:sujāta~~
-{{description>delicate; nicely built; very fine.}}
+---json
+{
+    "name":"sujāta",
+    "h1":"sujāta",
+    "title":"sujāta",
+    "description":"delicate; nicely built; very fine."
+}
+---
 
 ==== sujāta  ====
   * delicate --- [[books:cc:madhya:8:219|Madhya 8.219]]

@@ -1,5 +1,11 @@
-~~Title:śuklāmbara~~
-{{description>Śuklāmbara.}}
+---json
+{
+    "name":"śuklāmbara",
+    "h1":"śuklāmbara",
+    "title":"śuklāmbara",
+    "description":"Śuklāmbara."
+}
+---
 
 ==== śuklāmbara  ====
   * Śuklāmbara --- [[books:cc:madhya:3:153-155|Madhya 3.153-155]], [[books:cc:madhya:11:90|Madhya 11.90]], [[books:cc:antya:10:9-11|Antya 10.9-11]]

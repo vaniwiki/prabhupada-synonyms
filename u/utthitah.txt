@@ -1,5 +1,11 @@
-~~Title:utthitah~~
-{{description>arisen; awakened; became alive; being born of; emanating; emanating from her body; getting up; got up; has accrued; having risen; now arisen; one who has arisen; risen; rising; stood up; waking up.}}
+---json
+{
+    "name":"utthitah",
+    "h1":"utthitah",
+    "title":"utthitah",
+    "description":"arisen; awakened; became alive; being born of; emanating; emanating from her body; getting up; got up; has accrued; having risen; now arisen; one who has arisen; risen; rising; stood up; waking up."
+}
+---
 
 ==== utthitaḥ  ====
   * arisen --- [[books:sb:6:9:12|SB 6.9.12]], [[books:sb:7:3:23|SB 7.3.23]]

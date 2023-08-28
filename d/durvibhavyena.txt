@@ -1,5 +1,11 @@
-~~Title:durvibhāvyena~~
-{{description>by inconceivable.}}
+---json
+{
+    "name":"durvibhāvyena",
+    "h1":"durvibhāvyena",
+    "title":"durvibhāvyena",
+    "description":"by inconceivable."
+}
+---
 
 ==== durvibhāvyena  ====
   * by inconceivable --- [[books:sb:4:23:26|SB 4.23.26]]

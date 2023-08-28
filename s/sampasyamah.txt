@@ -1,5 +1,11 @@
-~~Title:sampaśyāmaḥ~~
-{{description>are actually seeing.}}
+---json
+{
+    "name":"sampaśyāmaḥ",
+    "h1":"sampaśyāmaḥ",
+    "title":"sampaśyāmaḥ",
+    "description":"are actually seeing."
+}
+---
 
 ==== sampaśyāmaḥ  ====
   * are actually seeing --- [[books:sb:9:24:9|SB 9.24.9]]

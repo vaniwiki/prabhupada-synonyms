@@ -1,5 +1,11 @@
-~~Title:bāi~~
-{{description>after about forty-five minutes.}}
+---json
+{
+    "name":"bāi",
+    "h1":"bāi",
+    "title":"bāi",
+    "description":"after about forty-five minutes."
+}
+---
 
 ==== daṇḍa-dui bāi  ====
   * after about forty-five minutes --- [[books:cc:antya:10:91|Antya 10.91]]

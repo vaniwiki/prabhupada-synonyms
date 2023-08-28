@@ -1,5 +1,11 @@
-~~Title:pitrā~~
-{{description>by father; by her father; by His father; by his uncle, Dhṛtarāṣṭra; by our father; by the father (to exchange old age and invalidity for his youth); by the father; by their father; by your father.}}
+---json
+{
+    "name":"pitrā",
+    "h1":"pitrā",
+    "title":"pitrā",
+    "description":"by father; by her father; by His father; by his uncle, Dhṛtarāṣṭra; by our father; by the father (to exchange old age and invalidity for his youth); by the father; by their father; by your father."
+}
+---
 
 ==== pitrā  ====
   * by father --- [[books:sb:9:12:8|SB 9.12.8]]

@@ -1,5 +1,11 @@
-~~Title:nilayāya~~
-{{description>whose abode.}}
+---json
+{
+    "name":"nilayāya",
+    "h1":"nilayāya",
+    "title":"nilayāya",
+    "description":"whose abode."
+}
+---
 
 ==== nilayāya  ====
   * whose abode --- [[books:sb:6:9:45|SB 6.9.45]]

@@ -1,5 +1,11 @@
-~~Title:vināśayan~~
-{{description>vanquishing.}}
+---json
+{
+    "name":"vināśayan",
+    "h1":"vināśayan",
+    "title":"vināśayan",
+    "description":"vanquishing."
+}
+---
 
 ==== vināśayan  ====
   * vanquishing --- [[books:sb:8:18:3|SB 8.18.3]]

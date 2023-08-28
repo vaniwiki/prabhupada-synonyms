@@ -1,5 +1,11 @@
-~~Title:labhyate~~
-{{description>can be obtained; is achieved; is available; is obtainable; is obtained.}}
+---json
+{
+    "name":"labhyate",
+    "h1":"labhyate",
+    "title":"labhyate",
+    "description":"can be obtained; is achieved; is available; is obtainable; is obtained."
+}
+---
 
 ==== labhyate  ====
   * can be obtained --- [[books:sb:1:5:18|SB 1.5.18]]

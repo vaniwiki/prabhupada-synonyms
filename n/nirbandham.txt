@@ -1,5 +1,11 @@
-~~Title:nirbandham~~
-{{description>determination to do something; obstinacy; strong determination.}}
+---json
+{
+    "name":"nirbandham",
+    "h1":"nirbandham",
+    "title":"nirbandham",
+    "description":"determination to do something; obstinacy; strong determination."
+}
+---
 
 ==== nirbandham  ====
   * determination to do something --- [[books:sb:10:1:47|SB 10.1.47]]

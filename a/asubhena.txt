@@ -1,5 +1,11 @@
-~~Title:aśubhena~~
-{{description>by the sin.}}
+---json
+{
+    "name":"aśubhena",
+    "h1":"aśubhena",
+    "title":"aśubhena",
+    "description":"by the sin."
+}
+---
 
 ==== aśubhena  ====
   * by the sin --- [[books:sb:5:26:10|SB 5.26.10]]

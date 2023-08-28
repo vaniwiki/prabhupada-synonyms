@@ -1,5 +1,11 @@
-~~Title:gokulam~~
-{{description>for Gokula; the highest planet; the whole tract of land known as Gokula.}}
+---json
+{
+    "name":"gokulam",
+    "h1":"gokulam",
+    "title":"gokulam",
+    "description":"for Gokula; the highest planet; the whole tract of land known as Gokula."
+}
+---
 
 ==== gokulam  ====
   * for Gokula --- [[books:sb:10:5:32|SB 10.5.32]]

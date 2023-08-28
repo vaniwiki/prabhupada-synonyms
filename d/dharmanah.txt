@@ -1,5 +1,11 @@
-~~Title:dharmanah~~
-{{description>sometimes snatching like robbers.}}
+---json
+{
+    "name":"dharmanah",
+    "h1":"dharmanah",
+    "title":"dharmanah",
+    "description":"sometimes snatching like robbers."
+}
+---
 
 ==== dasyu-dharmāṇaḥ  ====
   * sometimes snatching like robbers --- [[books:sb:8:9:1|SB 8.9.1]]

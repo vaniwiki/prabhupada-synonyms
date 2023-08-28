@@ -1,5 +1,11 @@
-~~Title:sraddadhanah~~
-{{description>with faith.}}
+---json
+{
+    "name":"sraddadhanah",
+    "h1":"sraddadhanah",
+    "title":"sraddadhanah",
+    "description":"with faith."
+}
+---
 
 ==== sraddadhānāḥ  ====
   * with faith --- [[books:bg:12:20|Bg. 12.20]]

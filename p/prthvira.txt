@@ -1,5 +1,11 @@
-~~Title:pṛthvīra~~
-{{description>of the earth.}}
+---json
+{
+    "name":"pṛthvīra",
+    "h1":"pṛthvīra",
+    "title":"pṛthvīra",
+    "description":"of the earth."
+}
+---
 
 ==== pṛthvīra  ====
   * of the earth --- [[books:cc:antya:11:41|Antya 11.41]]

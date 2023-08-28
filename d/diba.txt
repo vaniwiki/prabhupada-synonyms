@@ -1,5 +1,11 @@
-~~Title:diba~~
-{{description>away; I can give; I shall allow Him; I shall deliver; I shall give; I shall offer; I shall pay; must give in charity; shall give; shall supply; we shall give; will supply.}}
+---json
+{
+    "name":"diba",
+    "h1":"diba",
+    "title":"diba",
+    "description":"away; I can give; I shall allow Him; I shall deliver; I shall give; I shall offer; I shall pay; must give in charity; shall give; shall supply; we shall give; will supply."
+}
+---
 
 ==== diba  ====
   * away --- [[books:cc:madhya:10:70|Madhya 10.70]]

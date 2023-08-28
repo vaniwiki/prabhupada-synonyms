@@ -1,5 +1,11 @@
-~~Title:niveśaya~~
-{{description>apply.}}
+---json
+{
+    "name":"niveśaya",
+    "h1":"niveśaya",
+    "title":"niveśaya",
+    "description":"apply."
+}
+---
 
 ==== niveśaya  ====
   * apply --- [[books:bg:12:8|Bg. 12.8]]

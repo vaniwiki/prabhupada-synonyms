@@ -1,5 +1,11 @@
-~~Title:uddhartum~~
-{{description>to separate.}}
+---json
+{
+    "name":"uddhartum",
+    "h1":"uddhartum",
+    "title":"uddhartum",
+    "description":"to separate."
+}
+---
 
 ==== uddhartum  ====
   * to separate --- [[books:sb:4:5:22|SB 4.5.22]]

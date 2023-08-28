@@ -1,5 +1,11 @@
-~~Title:vijānīyām~~
-{{description>shall I understand.}}
+---json
+{
+    "name":"vijānīyām",
+    "h1":"vijānīyām",
+    "title":"vijānīyām",
+    "description":"shall I understand."
+}
+---
 
 ==== vijānīyām  ====
   * shall I understand --- [[books:bg:4:4|Bg. 4.4]]

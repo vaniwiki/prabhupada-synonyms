@@ -1,5 +1,11 @@
-~~Title:ratnāni~~
-{{description>the jewels on our heads.}}
+---json
+{
+    "name":"ratnāni",
+    "h1":"ratnāni",
+    "title":"ratnāni",
+    "description":"the jewels on our heads."
+}
+---
 
 ==== ratnāni  ====
   * the jewels on our heads --- [[books:sb:7:8:47|SB 7.8.47]]

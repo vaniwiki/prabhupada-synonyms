@@ -1,5 +1,11 @@
-~~Title:cikīrṣuṇā~~
-{{description>who was desiring.}}
+---json
+{
+    "name":"cikīrṣuṇā",
+    "h1":"cikīrṣuṇā",
+    "title":"cikīrṣuṇā",
+    "description":"who was desiring."
+}
+---
 
 ==== cikīrṣuṇā  ====
   * who was desiring --- [[books:sb:5:24:28|SB 5.24.28]]

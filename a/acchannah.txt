@@ -1,5 +1,11 @@
-~~Title:ācchannaḥ~~
-{{description>being covered.}}
+---json
+{
+    "name":"ācchannaḥ",
+    "h1":"ācchannaḥ",
+    "title":"ācchannaḥ",
+    "description":"being covered."
+}
+---
 
 ==== ācchannaḥ  ====
   * being covered --- [[books:sb:4:10:13|SB 4.10.13]]

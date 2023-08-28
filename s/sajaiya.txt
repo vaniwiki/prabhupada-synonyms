@@ -1,5 +1,11 @@
-~~Title:sājāiyā~~
-{{description>after preparing his bag of food.}}
+---json
+{
+    "name":"sājāiyā",
+    "h1":"sājāiyā",
+    "title":"sājāiyā",
+    "description":"after preparing his bag of food."
+}
+---
 
 ==== jhāli sājāiyā  ====
   * after preparing his bag of food --- [[books:cc:antya:10:13|Antya 10.13]]

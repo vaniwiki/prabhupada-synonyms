@@ -1,5 +1,11 @@
-~~Title:alabdha~~
-{{description>having not received; not achieved; not being able to obtain; not obtaining.}}
+---json
+{
+    "name":"alabdha",
+    "h1":"alabdha",
+    "title":"alabdha",
+    "description":"having not received; not achieved; not being able to obtain; not obtaining."
+}
+---
 
 ==== alabdha  ====
   * having not received --- [[books:sb:1:18:28|SB 1.18.28]]

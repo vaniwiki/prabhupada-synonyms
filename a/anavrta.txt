@@ -1,5 +1,11 @@
-~~Title:anāvṛta~~
-{{description>not covered.}}
+---json
+{
+    "name":"anāvṛta",
+    "h1":"anāvṛta",
+    "title":"anāvṛta",
+    "description":"not covered."
+}
+---
 
 ==== anāvṛta  ====
   * not covered --- [[books:sb:5:3:14|SB 5.3.14]]

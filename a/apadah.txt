@@ -1,5 +1,11 @@
-~~Title:apadah~~
-{{description>the living entities without legs, like the grass.}}
+---json
+{
+    "name":"apadah",
+    "h1":"apadah",
+    "title":"apadah",
+    "description":"the living entities without legs, like the grass."
+}
+---
 
 ==== apadaḥ  ====
   * the living entities without legs, like the grass --- [[books:sb:6:4:9|SB 6.4.9]]

@@ -1,5 +1,11 @@
-~~Title:devāya~~
-{{description>unto the demigod; unto the Supreme Lord.}}
+---json
+{
+    "name":"devāya",
+    "h1":"devāya",
+    "title":"devāya",
+    "description":"unto the demigod; unto the Supreme Lord."
+}
+---
 
 ==== devāya  ====
   * unto the demigod --- [[books:sb:3:14:35|SB 3.14.35]]

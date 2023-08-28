@@ -1,5 +1,11 @@
-~~Title:utkṣipanti~~
-{{description>forcibly throw.}}
+---json
+{
+    "name":"utkṣipanti",
+    "h1":"utkṣipanti",
+    "title":"utkṣipanti",
+    "description":"forcibly throw."
+}
+---
 
 ==== utkṣipanti  ====
   * forcibly throw --- [[books:sb:3:5:39|SB 3.5.39]]

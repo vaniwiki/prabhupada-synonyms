@@ -1,5 +1,11 @@
-~~Title:agṛṇan~~
-{{description>offered prayers.}}
+---json
+{
+    "name":"agṛṇan",
+    "h1":"agṛṇan",
+    "title":"agṛṇan",
+    "description":"offered prayers."
+}
+---
 
 ==== agṛṇan  ====
   * offered prayers --- [[books:sb:4:30:21|SB 4.30.21]]

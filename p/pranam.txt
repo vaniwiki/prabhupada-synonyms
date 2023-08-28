@@ -1,5 +1,11 @@
-~~Title:prāṇam~~
-{{description>air which acts outward; and life; life; the life air; the living condition; the ten kinds of air flowing within the body.}}
+---json
+{
+    "name":"prāṇam",
+    "h1":"prāṇam",
+    "title":"prāṇam",
+    "description":"air which acts outward; and life; life; the life air; the living condition; the ten kinds of air flowing within the body."
+}
+---
 
 ==== prāṇam  ====
   * air which acts outward --- [[books:bg:4:29|Bg. 4.29]]

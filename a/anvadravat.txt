@@ -1,5 +1,11 @@
-~~Title:anvadravat~~
-{{description>began to chase.}}
+---json
+{
+    "name":"anvadravat",
+    "h1":"anvadravat",
+    "title":"anvadravat",
+    "description":"began to chase."
+}
+---
 
 ==== anvadravat  ====
   * began to chase --- [[books:sb:4:19:16|SB 4.19.16]]

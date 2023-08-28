@@ -1,5 +1,11 @@
-~~Title:viśrutau~~
-{{description>in hearing.}}
+---json
+{
+    "name":"viśrutau",
+    "h1":"viśrutau",
+    "title":"viśrutau",
+    "description":"in hearing."
+}
+---
 
 ==== viśrutau  ====
   * in hearing --- [[books:sb:3:25:2|SB 3.25.2]]

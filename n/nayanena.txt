@@ -1,5 +1,11 @@
-~~Title:nayanena~~
-{{description>with the eyes.}}
+---json
+{
+    "name":"nayanena",
+    "h1":"nayanena",
+    "title":"nayanena",
+    "description":"with the eyes."
+}
+---
 
 ==== nayanena  ====
   * with the eyes --- [[books:sb:8:8:24|SB 8.8.24]]

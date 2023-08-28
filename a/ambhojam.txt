@@ -1,5 +1,11 @@
-~~Title:ambhojam~~
-{{description>lotuslike.}}
+---json
+{
+    "name":"ambhojam",
+    "h1":"ambhojam",
+    "title":"ambhojam",
+    "description":"lotuslike."
+}
+---
 
 ==== ambhojam  ====
   * lotuslike --- [[books:sb:3:28:13|SB 3.28.13]]

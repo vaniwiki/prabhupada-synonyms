@@ -1,5 +1,11 @@
-~~Title:janalañā~~
-{{description>taking the two of Them.}}
+---json
+{
+    "name":"janalañā",
+    "h1":"janalañā",
+    "title":"janalañā",
+    "description":"taking the two of Them."
+}
+---
 
 ==== dui-janalañā  ====
   * taking the two of Them --- [[books:cc:adi:5:146|Ādi 5.146]]

@@ -1,5 +1,11 @@
-~~Title:mūka~~
-{{description>dumb.}}
+---json
+{
+    "name":"mūka",
+    "h1":"mūka",
+    "title":"mūka",
+    "description":"dumb."
+}
+---
 
 ==== mūka  ====
   * dumb --- [[books:sb:1:4:6|SB 1.4.6]], [[books:sb:4:13:10|SB 4.13.10]], [[books:sb:5:5:29|SB 5.5.29]], [[books:sb:5:9:9-10|SB 5.9.9-10]], [[books:cc:adi:8:5|Ādi 8.5]]

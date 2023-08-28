@@ -1,5 +1,11 @@
-~~Title:vibhavān~~
-{{description>the gifts.}}
+---json
+{
+    "name":"vibhavān",
+    "h1":"vibhavān",
+    "title":"vibhavān",
+    "description":"the gifts."
+}
+---
 
 ==== vibhavān  ====
   * the gifts --- [[books:sb:3:23:8|SB 3.23.8]]

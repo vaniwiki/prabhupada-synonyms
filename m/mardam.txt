@@ -1,5 +1,11 @@
-~~Title:mardam~~
-{{description>clashes of the stars.}}
+---json
+{
+    "name":"mardam",
+    "h1":"mardam",
+    "title":"mardam",
+    "description":"clashes of the stars."
+}
+---
 
 ==== graha-mardam  ====
   * clashes of the stars --- [[books:sb:1:14:17|SB 1.14.17]]

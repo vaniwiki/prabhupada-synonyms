@@ -1,5 +1,11 @@
-~~Title:sthala~~
-{{description>land; on the land; or on land.}}
+---json
+{
+    "name":"sthala",
+    "h1":"sthala",
+    "title":"sthala",
+    "description":"land; on the land; or on land."
+}
+---
 
 ==== sthala  ====
   * land --- [[books:sb:2:6:13-16|SB 2.6.13-16]], [[books:sb:2:10:37-40|SB 2.10.37-40]]

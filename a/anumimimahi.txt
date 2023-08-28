@@ -1,5 +1,11 @@
-~~Title:anumimīmahi~~
-{{description>can accept it by argument and inference.}}
+---json
+{
+    "name":"anumimīmahi",
+    "h1":"anumimīmahi",
+    "title":"anumimīmahi",
+    "description":"can accept it by argument and inference."
+}
+---
 
 ==== anumimīmahi  ====
   * can accept it by argument and inference --- [[books:sb:5:22:1|SB 5.22.1]]

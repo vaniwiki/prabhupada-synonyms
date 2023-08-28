@@ -1,5 +1,11 @@
-~~Title:dhātrī~~
-{{description>a type of tree; for a nurse.}}
+---json
+{
+    "name":"dhātrī",
+    "h1":"dhātrī",
+    "title":"dhātrī",
+    "description":"a type of tree; for a nurse."
+}
+---
 
 ==== dhātrī  ====
   * a type of tree --- [[books:cc:madhya:22:117|Madhya 22.117]]

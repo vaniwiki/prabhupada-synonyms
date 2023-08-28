@@ -1,5 +1,11 @@
-~~Title:bhikṣāya~~
-{{description>by such alms.}}
+---json
+{
+    "name":"bhikṣāya",
+    "h1":"bhikṣāya",
+    "title":"bhikṣāya",
+    "description":"by such alms."
+}
+---
 
 ==== se bhikṣāya  ====
   * by such alms --- [[books:cc:antya:14:49|Antya 14.49]]

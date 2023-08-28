@@ -1,5 +1,11 @@
-~~Title:mukhyān~~
-{{description>headed by.}}
+---json
+{
+    "name":"mukhyān",
+    "h1":"mukhyān",
+    "title":"mukhyān",
+    "description":"headed by."
+}
+---
 
 ==== mukhyān  ====
   * headed by --- [[books:sb:9:24:53-55|SB 9.24.53-55]]

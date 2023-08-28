@@ -1,5 +1,11 @@
-~~Title:durjaya~~
-{{description>the chains of household life, which are difficult to overcome.}}
+---json
+{
+    "name":"durjaya",
+    "h1":"durjaya",
+    "title":"durjaya",
+    "description":"the chains of household life, which are difficult to overcome."
+}
+---
 
 ==== durjaya-geha-śṛṅkhalāḥ  ====
   * the chains of household life, which are difficult to overcome --- [[books:cc:adi:4:180|Ādi 4.180]], [[books:cc:antya:7:44|Antya 7.44]]

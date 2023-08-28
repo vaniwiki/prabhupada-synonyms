@@ -1,5 +1,11 @@
-~~Title:vidadhan~~
-{{description>offering.}}
+---json
+{
+    "name":"vidadhan",
+    "h1":"vidadhan",
+    "title":"vidadhan",
+    "description":"offering."
+}
+---
 
 ==== vidadhan  ====
   * offering --- [[books:cc:madhya:6:261|Madhya 6.261]]

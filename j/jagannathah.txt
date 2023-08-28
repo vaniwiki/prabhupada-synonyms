@@ -1,5 +1,11 @@
-~~Title:jagannāthaḥ~~
-{{description>Lord Jagannātha.}}
+---json
+{
+    "name":"jagannāthaḥ",
+    "h1":"jagannāthaḥ",
+    "title":"jagannāthaḥ",
+    "description":"Lord Jagannātha."
+}
+---
 
 ==== jagannāthaḥ  ====
   * Lord Jagannātha --- [[books:cc:madhya:13:1|Madhya 13.1]]

@@ -1,5 +1,11 @@
-~~Title:ramaṇakaḥ~~
-{{description>Ramaṇaka.}}
+---json
+{
+    "name":"ramaṇakaḥ",
+    "h1":"ramaṇakaḥ",
+    "title":"ramaṇakaḥ",
+    "description":"Ramaṇaka."
+}
+---
 
 ==== ramaṇakaḥ  ====
   * Ramaṇaka --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

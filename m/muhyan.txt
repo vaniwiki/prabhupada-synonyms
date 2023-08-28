@@ -1,5 +1,11 @@
-~~Title:muhyan~~
-{{description>being illusioned; fainting.}}
+---json
+{
+    "name":"muhyan",
+    "h1":"muhyan",
+    "title":"muhyan",
+    "description":"being illusioned; fainting."
+}
+---
 
 ==== muhyan  ====
   * being illusioned --- [[books:sb:5:14:38|SB 5.14.38]]

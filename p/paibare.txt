@@ -1,5 +1,11 @@
-~~Title:pāibāre~~
-{{description>to attain; to get.}}
+---json
+{
+    "name":"pāibāre",
+    "h1":"pāibāre",
+    "title":"pāibāre",
+    "description":"to attain; to get."
+}
+---
 
 ==== pāibāre  ====
   * to attain --- [[books:cc:antya:3:170|Antya 3.170]]

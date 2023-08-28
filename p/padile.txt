@@ -1,5 +1,11 @@
-~~Title:paḍile~~
-{{description>if one falls down.}}
+---json
+{
+    "name":"paḍile",
+    "h1":"paḍile",
+    "title":"paḍile",
+    "description":"if one falls down."
+}
+---
 
 ==== paḍile  ====
   * if one falls down --- [[books:cc:madhya:25:279|Madhya 25.279]]

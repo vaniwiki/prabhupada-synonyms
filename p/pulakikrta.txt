@@ -1,5 +1,11 @@
-~~Title:pulakīkṛta~~
-{{description>jubilation.}}
+---json
+{
+    "name":"pulakīkṛta",
+    "h1":"pulakīkṛta",
+    "title":"pulakīkṛta",
+    "description":"jubilation."
+}
+---
 
 ==== pulakīkṛta  ====
   * jubilation --- [[books:cc:madhya:24:88|Madhya 24.88]]

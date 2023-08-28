@@ -1,5 +1,11 @@
-~~Title:uddaṇḍa~~
-{{description>jumping; jumping high.}}
+---json
+{
+    "name":"uddaṇḍa",
+    "h1":"uddaṇḍa",
+    "title":"uddaṇḍa",
+    "description":"jumping; jumping high."
+}
+---
 
 ==== uddaṇḍa  ====
   * jumping --- [[books:cc:madhya:13:82|Madhya 13.82]], [[books:cc:madhya:13:101|Madhya 13.101]]

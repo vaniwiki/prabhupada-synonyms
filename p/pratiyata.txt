@@ -1,5 +1,11 @@
-~~Title:pratiyāta~~
-{{description>you can return.}}
+---json
+{
+    "name":"pratiyāta",
+    "h1":"pratiyāta",
+    "title":"pratiyāta",
+    "description":"you can return."
+}
+---
 
 ==== pratiyāta  ====
   * you can return --- [[books:sb:4:8:82|SB 4.8.82]]

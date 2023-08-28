@@ -1,5 +1,11 @@
-~~Title:mātṛbhiḥ~~
-{{description>with the demigoddesses known as the Mātṛkās.}}
+---json
+{
+    "name":"mātṛbhiḥ",
+    "h1":"mātṛbhiḥ",
+    "title":"mātṛbhiḥ",
+    "description":"with the demigoddesses known as the Mātṛkās."
+}
+---
 
 ==== mātṛbhiḥ saha  ====
   * with the demigoddesses known as the Mātṛkās --- [[books:sb:8:10:32-34|SB 8.10.32-34]]

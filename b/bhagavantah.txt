@@ -1,5 +1,11 @@
-~~Title:bhagavantaḥ~~
-{{description>perfectly cognizant.}}
+---json
+{
+    "name":"bhagavantaḥ",
+    "h1":"bhagavantaḥ",
+    "title":"bhagavantaḥ",
+    "description":"perfectly cognizant."
+}
+---
 
 ==== bhagavantaḥ  ====
   * perfectly cognizant --- [[books:sb:1:3:39|SB 1.3.39]]

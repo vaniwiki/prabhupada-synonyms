@@ -1,5 +1,11 @@
-~~Title:agnaye~~
-{{description>to Agni; unto the fire-god.}}
+---json
+{
+    "name":"agnaye",
+    "h1":"agnaye",
+    "title":"agnaye",
+    "description":"to Agni; unto the fire-god."
+}
+---
 
 ==== agnaye  ====
   * to Agni --- [[books:sb:4:1:48|SB 4.1.48]]

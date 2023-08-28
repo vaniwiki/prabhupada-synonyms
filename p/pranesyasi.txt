@@ -1,5 +1,11 @@
-~~Title:praṇeṣyasi~~
-{{description>you shall carry out without any hindrance.}}
+---json
+{
+    "name":"praṇeṣyasi",
+    "h1":"praṇeṣyasi",
+    "title":"praṇeṣyasi",
+    "description":"you shall carry out without any hindrance."
+}
+---
 
 ==== praṇeṣyasi  ====
   * you shall carry out without any hindrance --- [[books:sb:4:27:29|SB 4.27.29]]

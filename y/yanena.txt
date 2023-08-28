@@ -1,5 +1,11 @@
-~~Title:yānena~~
-{{description>by airplane.}}
+---json
+{
+    "name":"yānena",
+    "h1":"yānena",
+    "title":"yānena",
+    "description":"by airplane."
+}
+---
 
 ==== yānena  ====
   * by airplane --- [[books:sb:4:12:33|SB 4.12.33]]

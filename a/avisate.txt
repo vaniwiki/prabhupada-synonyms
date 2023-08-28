@@ -1,5 +1,11 @@
-~~Title:āviśate~~
-{{description>spreads.}}
+---json
+{
+    "name":"āviśate",
+    "h1":"āviśate",
+    "title":"āviśate",
+    "description":"spreads."
+}
+---
 
 ==== āviśate  ====
   * spreads --- [[books:sb:3:14:12|SB 3.14.12]]

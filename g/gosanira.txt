@@ -1,5 +1,11 @@
-~~Title:gosanira~~
-{{description>of Lord Caitanya Mahāprabhu; of Lord Nityānanda; of Lord Śrī Caitanya Mahāprabhu; of Sanātana Gosvāmī; of the Lord; of the master; of the spiritual master; of the supreme spiritual master; of Śrī Caitanya Mahāprabhu; the Lord; the spiritual master; with Śrī Mādhavendra Purī.}}
+---json
+{
+    "name":"gosanira",
+    "h1":"gosanira",
+    "title":"gosanira",
+    "description":"of Lord Caitanya Mahāprabhu; of Lord Nityānanda; of Lord Śrī Caitanya Mahāprabhu; of Sanātana Gosvāmī; of the Lord; of the master; of the spiritual master; of the supreme spiritual master; of Śrī Caitanya Mahāprabhu; the Lord; the spiritual master; with Śrī Mādhavendra Purī."
+}
+---
 
 ==== gosāñira  ====
   * of Lord Caitanya Mahāprabhu --- [[books:cc:madhya:1:109|Madhya 1.109]], [[books:cc:madhya:1:175|Madhya 1.175]], [[books:cc:madhya:6:50|Madhya 6.50]], [[books:cc:madhya:7:123|Madhya 7.123]]

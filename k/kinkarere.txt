@@ -1,5 +1,11 @@
-~~Title:kiṅkarere~~
-{{description>to Your servants.}}
+---json
+{
+    "name":"kiṅkarere",
+    "h1":"kiṅkarere",
+    "title":"kiṅkarere",
+    "description":"to Your servants."
+}
+---
 
 ==== kiṅkarere  ====
   * to Your servants --- [[books:cc:madhya:5:115|Madhya 5.115]]

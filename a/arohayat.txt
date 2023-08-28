@@ -1,5 +1,11 @@
-~~Title:ārohayat~~
-{{description>he put her on board.}}
+---json
+{
+    "name":"ārohayat",
+    "h1":"ārohayat",
+    "title":"ārohayat",
+    "description":"he put her on board."
+}
+---
 
 ==== ārohayat  ====
   * he put her on board --- [[books:sb:3:23:36-37|SB 3.23.36-37]]

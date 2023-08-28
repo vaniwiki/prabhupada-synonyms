@@ -1,5 +1,11 @@
-~~Title:ravān~~
-{{description>making a tumultuous sound.}}
+---json
+{
+    "name":"ravān",
+    "h1":"ravān",
+    "title":"ravān",
+    "description":"making a tumultuous sound."
+}
+---
 
 ==== mahā-ravān  ====
   * making a tumultuous sound --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

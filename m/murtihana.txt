@@ -1,5 +1,11 @@
-~~Title:mūrtihañā~~
-{{description>taking His transcendental form.}}
+---json
+{
+    "name":"mūrtihañā",
+    "h1":"mūrtihañā",
+    "title":"mūrtihañā",
+    "description":"taking His transcendental form."
+}
+---
 
 ==== mūrtihañā  ====
   * taking His transcendental form --- [[books:cc:adi:14:9|Ādi 14.9]]

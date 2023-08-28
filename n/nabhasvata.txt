@@ -1,5 +1,11 @@
-~~Title:nabhasvatā~~
-{{description>by the wind.}}
+---json
+{
+    "name":"nabhasvatā",
+    "h1":"nabhasvatā",
+    "title":"nabhasvatā",
+    "description":"by the wind."
+}
+---
 
 ==== nabhasvatā  ====
   * by the wind --- [[books:sb:3:19:26|SB 3.19.26]]

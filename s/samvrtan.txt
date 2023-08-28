@@ -1,5 +1,11 @@
-~~Title:saṁvṛtān~~
-{{description>bewildered by fear.}}
+---json
+{
+    "name":"saṁvṛtān",
+    "h1":"saṁvṛtān",
+    "title":"saṁvṛtān",
+    "description":"bewildered by fear."
+}
+---
 
 ==== bhaya-saṁvṛtān  ====
   * bewildered by fear --- [[books:sb:10:4:35|SB 10.4.35]]

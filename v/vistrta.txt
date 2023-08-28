@@ -1,5 +1,11 @@
-~~Title:vistṛta~~
-{{description>expanded.}}
+---json
+{
+    "name":"vistṛta",
+    "h1":"vistṛta",
+    "title":"vistṛta",
+    "description":"expanded."
+}
+---
 
 ==== vistṛta  ====
   * expanded --- [[books:cc:adi:17:329|Ādi 17.329]]

@@ -1,5 +1,11 @@
-~~Title:vātula~~
-{{description>a madman; another madman; crazy; mad.}}
+---json
+{
+    "name":"vātula",
+    "h1":"vātula",
+    "title":"vātula",
+    "description":"a madman; another madman; crazy; mad."
+}
+---
 
 ==== vātula  ====
   * a madman --- [[books:cc:madhya:24:7|Madhya 24.7]]

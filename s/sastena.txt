@@ -1,5 +1,11 @@
-~~Title:śastena~~
-{{description>auspicious.}}
+---json
+{
+    "name":"śastena",
+    "h1":"śastena",
+    "title":"śastena",
+    "description":"auspicious."
+}
+---
 
 ==== śastena  ====
   * auspicious --- [[books:sb:3:29:15|SB 3.29.15]]

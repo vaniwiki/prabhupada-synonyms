@@ -1,5 +1,11 @@
-~~Title:pañjarāt~~
-{{description>from the cage of the network of arrows.}}
+---json
+{
+    "name":"pañjarāt",
+    "h1":"pañjarāt",
+    "title":"pañjarāt",
+    "description":"from the cage of the network of arrows."
+}
+---
 
 ==== iṣu-baddha-pañjarāt  ====
   * from the cage of the network of arrows --- [[books:sb:8:11:26|SB 8.11.26]]

@@ -1,5 +1,11 @@
-~~Title:nirūpayet~~
-{{description>may describe.}}
+---json
+{
+    "name":"nirūpayet",
+    "h1":"nirūpayet",
+    "title":"nirūpayet",
+    "description":"may describe."
+}
+---
 
 ==== nirūpayet  ====
   * may describe --- [[books:cc:adi:6:1|Ādi 6.1]]

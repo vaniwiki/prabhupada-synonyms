@@ -1,5 +1,11 @@
-~~Title:bruvāṇam~~
-{{description>speaking; speaking like that; while speaking; who was talking and chastising her.}}
+---json
+{
+    "name":"bruvāṇam",
+    "h1":"bruvāṇam",
+    "title":"bruvāṇam",
+    "description":"speaking; speaking like that; while speaking; who was talking and chastising her."
+}
+---
 
 ==== bruvāṇam  ====
   * speaking --- [[books:sb:1:4:1|SB 1.4.1]], [[books:sb:3:7:1|SB 3.7.1]], [[books:sb:3:13:5|SB 3.13.5]], [[books:sb:3:23:9|SB 3.23.9]], [[books:sb:4:16:1|SB 4.16.1]], [[books:sb:4:30:21|SB 4.30.21]], [[books:cc:antya:19:70|Antya 19.70]]

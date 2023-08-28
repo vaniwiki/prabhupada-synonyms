@@ -1,5 +1,11 @@
-~~Title:anūdya~~
-{{description>saying; speaking; taking as the object.}}
+---json
+{
+    "name":"anūdya",
+    "h1":"anūdya",
+    "title":"anūdya",
+    "description":"saying; speaking; taking as the object."
+}
+---
 
 ==== anūdya  ====
   * saying --- [[books:cc:madhya:20:147-148|Madhya 20.147-148]]

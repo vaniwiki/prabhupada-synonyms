@@ -1,5 +1,11 @@
-~~Title:liṅgatvam~~
-{{description>that which indicates the presence.}}
+---json
+{
+    "name":"liṅgatvam",
+    "h1":"liṅgatvam",
+    "title":"liṅgatvam",
+    "description":"that which indicates the presence."
+}
+---
 
 ==== liṅgatvam  ====
   * that which indicates the presence --- [[books:sb:3:26:33|SB 3.26.33]]

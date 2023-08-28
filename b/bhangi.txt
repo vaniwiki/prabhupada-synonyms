@@ -1,5 +1,11 @@
-~~Title:bhangi~~
-{{description>gesture; indications.}}
+---json
+{
+    "name":"bhangi",
+    "h1":"bhangi",
+    "title":"bhangi",
+    "description":"gesture; indications."
+}
+---
 
 ==== bhaṅgi  ====
   * gesture --- [[books:cc:madhya:15:224|Madhya 15.224]]

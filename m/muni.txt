@@ -1,5 +1,11 @@
-~~Title:muni~~
-{{description>a saintly person; and of great sages; by sages; by the sages; great sages; great saintly person; sages; saintly persons; the great sage Mahāmuni Vyāsadeva; the sage; the word muni; they are called muni.}}
+---json
+{
+    "name":"muni",
+    "h1":"muni",
+    "title":"muni",
+    "description":"a saintly person; and of great sages; by sages; by the sages; great sages; great saintly person; sages; saintly persons; the great sage Mahāmuni Vyāsadeva; the sage; the word muni; they are called muni."
+}
+---
 
 ==== muni  ====
   * a saintly person --- [[books:cc:madhya:24:162|Madhya 24.162]]

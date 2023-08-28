@@ -1,5 +1,11 @@
-~~Title:drstah~~
-{{description>direction.}}
+---json
+{
+    "name":"drstah",
+    "h1":"drstah",
+    "title":"drstah",
+    "description":"direction."
+}
+---
 
 ==== dṛṣtaḥ  ====
   * direction --- [[books:bg:17:11|Bg. 17.11]]

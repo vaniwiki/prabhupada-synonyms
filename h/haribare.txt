@@ -1,5 +1,11 @@
-~~Title:haribāre~~
-{{description>to take away.}}
+---json
+{
+    "name":"haribāre",
+    "h1":"haribāre",
+    "title":"haribāre",
+    "description":"to take away."
+}
+---
 
 ==== haribāre  ====
   * to take away --- [[books:cc:adi:4:7|Ādi 4.7]]

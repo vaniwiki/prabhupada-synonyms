@@ -1,5 +1,11 @@
-~~Title:vasati~~
-{{description>abode; habitation; residence; the abode.}}
+---json
+{
+    "name":"vasati",
+    "h1":"vasati",
+    "title":"vasati",
+    "description":"abode; habitation; residence; the abode."
+}
+---
 
 ==== vasati  ====
   * abode --- [[books:cc:madhya:23:36|Madhya 23.36]]

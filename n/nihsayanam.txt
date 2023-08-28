@@ -1,5 +1,11 @@
-~~Title:niḥśayānam~~
-{{description>sleeping carefreely.}}
+---json
+{
+    "name":"niḥśayānam",
+    "h1":"niḥśayānam",
+    "title":"niḥśayānam",
+    "description":"sleeping carefreely."
+}
+---
 
 ==== niḥśayānam  ====
   * sleeping carefreely --- [[books:sb:2:7:29|SB 2.7.29]]

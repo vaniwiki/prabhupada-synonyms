@@ -1,5 +1,11 @@
-~~Title:hriyate~~
-{{description>is attracted; passes away; wastes.}}
+---json
+{
+    "name":"hriyate",
+    "h1":"hriyate",
+    "title":"hriyate",
+    "description":"is attracted; passes away; wastes."
+}
+---
 
 ==== hriyate  ====
   * is attracted --- [[books:bg:6:44|Bg. 6.44]]

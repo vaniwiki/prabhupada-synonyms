@@ -1,5 +1,11 @@
-~~Title:ākarṣite~~
-{{description>to attract.}}
+---json
+{
+    "name":"ākarṣite",
+    "h1":"ākarṣite",
+    "title":"ākarṣite",
+    "description":"to attract."
+}
+---
 
 ==== ākarṣite  ====
   * to attract --- [[books:cc:antya:15:21|Antya 15.21]]

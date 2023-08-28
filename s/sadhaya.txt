@@ -1,5 +1,11 @@
-~~Title:sādhaya~~
-{{description>execute the sacrifice to get; place.}}
+---json
+{
+    "name":"sādhaya",
+    "h1":"sādhaya",
+    "title":"sādhaya",
+    "description":"execute the sacrifice to get; place."
+}
+---
 
 ==== sādhaya  ====
   * execute the sacrifice to get --- [[books:sb:4:13:32|SB 4.13.32]]

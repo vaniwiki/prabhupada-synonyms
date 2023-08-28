@@ -1,5 +1,11 @@
-~~Title:je~~
-{{description>to his own son; unto their son.}}
+---json
+{
+    "name":"je",
+    "h1":"je",
+    "title":"je",
+    "description":"to his own son; unto their son."
+}
+---
 
 ==== ātma-je  ====
   * to his own son --- [[books:sb:7:4:43|SB 7.4.43]]

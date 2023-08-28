@@ -1,5 +1,11 @@
-~~Title:akarmakaḥ~~
-{{description>without being affected.}}
+---json
+{
+    "name":"akarmakaḥ",
+    "h1":"akarmakaḥ",
+    "title":"akarmakaḥ",
+    "description":"without being affected."
+}
+---
 
 ==== akarmakaḥ  ====
   * without being affected --- [[books:sb:2:10:36|SB 2.10.36]]

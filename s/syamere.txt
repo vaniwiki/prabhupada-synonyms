@@ -1,5 +1,11 @@
-~~Title:śyāmere~~
-{{description>Lord Jagannātha.}}
+---json
+{
+    "name":"śyāmere",
+    "h1":"śyāmere",
+    "title":"śyāmere",
+    "description":"Lord Jagannātha."
+}
+---
 
 ==== śyāmere  ====
   * Lord Jagannātha --- [[books:cc:madhya:13:119|Madhya 13.119]]

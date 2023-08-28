@@ -1,5 +1,11 @@
-~~Title:paripūrṇa~~
-{{description>completely full; full of; with full potencies.}}
+---json
+{
+    "name":"paripūrṇa",
+    "h1":"paripūrṇa",
+    "title":"paripūrṇa",
+    "description":"completely full; full of; with full potencies."
+}
+---
 
 ==== paripūrṇa  ====
   * completely full --- [[books:cc:madhya:8:88|Madhya 8.88]]

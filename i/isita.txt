@@ -1,5 +1,11 @@
-~~Title:isita~~
-{{description>the Supreme Lord.}}
+---json
+{
+    "name":"isita",
+    "h1":"isita",
+    "title":"isita",
+    "description":"the Supreme Lord."
+}
+---
 
 ==== īśitā  ====
   * the Supreme Lord --- [[books:sb:7:1:12|SB 7.1.12]]

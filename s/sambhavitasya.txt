@@ -1,5 +1,11 @@
-~~Title:sambhāvitasya~~
-{{description>for a respectable man; most respectable.}}
+---json
+{
+    "name":"sambhāvitasya",
+    "h1":"sambhāvitasya",
+    "title":"sambhāvitasya",
+    "description":"for a respectable man; most respectable."
+}
+---
 
 ==== sambhāvitasya  ====
   * for a respectable man --- [[books:bg:2:34|Bg. 2.34]]

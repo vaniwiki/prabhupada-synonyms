@@ -1,5 +1,11 @@
-~~Title:māsāt~~
-{{description>from the seventh month.}}
+---json
+{
+    "name":"māsāt",
+    "h1":"māsāt",
+    "title":"māsāt",
+    "description":"from the seventh month."
+}
+---
 
 ==== saptamāt māsāt  ====
   * from the seventh month --- [[books:sb:3:31:10|SB 3.31.10]]

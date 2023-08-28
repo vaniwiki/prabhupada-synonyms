@@ -1,5 +1,11 @@
-~~Title:sādhibe~~
-{{description>you must solicit.}}
+---json
+{
+    "name":"sādhibe",
+    "h1":"sādhibe",
+    "title":"sādhibe",
+    "description":"you must solicit."
+}
+---
 
 ==== sādhibe  ====
   * you must solicit --- [[books:cc:madhya:12:41|Madhya 12.41]]

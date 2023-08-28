@@ -1,5 +1,11 @@
-~~Title:ānītaḥ~~
-{{description>being brought in.}}
+---json
+{
+    "name":"ānītaḥ",
+    "h1":"ānītaḥ",
+    "title":"ānītaḥ",
+    "description":"being brought in."
+}
+---
 
 ==== ānītaḥ  ====
   * being brought in --- [[books:sb:8:11:16|SB 8.11.16]]

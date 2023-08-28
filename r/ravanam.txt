@@ -1,5 +1,11 @@
-~~Title:rāvaṇam~~
-{{description>Rāvaṇa; the person known as Rāvaṇa, the cause of weeping.}}
+---json
+{
+    "name":"rāvaṇam",
+    "h1":"rāvaṇam",
+    "title":"rāvaṇam",
+    "description":"Rāvaṇa; the person known as Rāvaṇa, the cause of weeping."
+}
+---
 
 ==== rāvaṇam  ====
   * Rāvaṇa --- [[books:sb:4:19:16|SB 4.19.16]]

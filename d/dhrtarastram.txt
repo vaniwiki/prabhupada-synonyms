@@ -1,5 +1,11 @@
-~~Title:dhṛtarāṣṭram~~
-{{description>a son named Dhṛtarāṣṭra; Dhṛtarāṣṭra; unto Dhṛtarāṣṭra.}}
+---json
+{
+    "name":"dhṛtarāṣṭram",
+    "h1":"dhṛtarāṣṭram",
+    "title":"dhṛtarāṣṭram",
+    "description":"a son named Dhṛtarāṣṭra; Dhṛtarāṣṭra; unto Dhṛtarāṣṭra."
+}
+---
 
 ==== dhṛtarāṣṭram  ====
   * a son named Dhṛtarāṣṭra --- [[books:sb:9:22:25|SB 9.22.25]]

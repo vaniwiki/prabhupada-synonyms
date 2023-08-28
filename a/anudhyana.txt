@@ -1,5 +1,11 @@
-~~Title:anudhyāna~~
-{{description>always thinking of; by constant remembrance; by meditating.}}
+---json
+{
+    "name":"anudhyāna",
+    "h1":"anudhyāna",
+    "title":"anudhyāna",
+    "description":"always thinking of; by constant remembrance; by meditating."
+}
+---
 
 ==== anudhyāna  ====
   * always thinking of --- [[books:sb:5:1:7|SB 5.1.7]]

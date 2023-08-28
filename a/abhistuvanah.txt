@@ -1,5 +1,11 @@
-~~Title:abhiṣṭuvānāḥ~~
-{{description>praising.}}
+---json
+{
+    "name":"abhiṣṭuvānāḥ",
+    "h1":"abhiṣṭuvānāḥ",
+    "title":"abhiṣṭuvānāḥ",
+    "description":"praising."
+}
+---
 
 ==== abhiṣṭuvānāḥ  ====
   * praising --- [[books:sb:6:12:34|SB 6.12.34]]

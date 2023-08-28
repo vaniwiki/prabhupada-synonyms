@@ -1,5 +1,11 @@
-~~Title:prādurbhāve~~
-{{description>in the appearance.}}
+---json
+{
+    "name":"prādurbhāve",
+    "h1":"prādurbhāve",
+    "title":"prādurbhāve",
+    "description":"in the appearance."
+}
+---
 
 ==== prādurbhāve  ====
   * in the appearance --- [[books:cc:madhya:23:14-15|Madhya 23.14-15]]

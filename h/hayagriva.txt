@@ -1,5 +1,11 @@
-~~Title:hayagrīva~~
-{{description>Hayagrīva (horse-headed).}}
+---json
+{
+    "name":"hayagrīva",
+    "h1":"hayagrīva",
+    "title":"hayagrīva",
+    "description":"Hayagrīva (horse-headed)."
+}
+---
 
 ==== hayagrīva  ====
   * Hayagrīva (horse-headed) --- [[books:sb:7:2:4-5|SB 7.2.4-5]]

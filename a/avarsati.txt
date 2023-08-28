@@ -1,5 +1,11 @@
-~~Title:avarṣati~~
-{{description>because of rainlessness; did not shower any rain; does not supply rains.}}
+---json
+{
+    "name":"avarṣati",
+    "h1":"avarṣati",
+    "title":"avarṣati",
+    "description":"because of rainlessness; did not shower any rain; does not supply rains."
+}
+---
 
 ==== avarṣati  ====
   * because of rainlessness --- [[books:sb:1:16:20|SB 1.16.20]]

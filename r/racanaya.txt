@@ -1,5 +1,11 @@
-~~Title:racanayā~~
-{{description>by expanding activities in the material field, mistaking the body for the self.}}
+---json
+{
+    "name":"racanayā",
+    "h1":"racanayā",
+    "title":"racanayā",
+    "description":"by expanding activities in the material field, mistaking the body for the self."
+}
+---
 
 ==== a-tat-racanayā  ====
   * by expanding activities in the material field, mistaking the body for the self --- [[books:sb:5:6:19|SB 5.6.19]]

@@ -1,5 +1,11 @@
-~~Title:svārociṣaḥ~~
-{{description>Svārociṣa.}}
+---json
+{
+    "name":"svārociṣaḥ",
+    "h1":"svārociṣaḥ",
+    "title":"svārociṣaḥ",
+    "description":"Svārociṣa."
+}
+---
 
 ==== svārociṣaḥ  ====
   * Svārociṣa --- [[books:sb:8:1:19|SB 8.1.19]]

@@ -1,5 +1,11 @@
-~~Title:bhiyā~~
-{{description>by being afraid.}}
+---json
+{
+    "name":"bhiyā",
+    "h1":"bhiyā",
+    "title":"bhiyā",
+    "description":"by being afraid."
+}
+---
 
 ==== bhiyā  ====
   * by being afraid --- [[books:sb:9:10:55|SB 9.10.55]]

@@ -1,5 +1,11 @@
-~~Title:sparśite~~
-{{description>to touch.}}
+---json
+{
+    "name":"sparśite",
+    "h1":"sparśite",
+    "title":"sparśite",
+    "description":"to touch."
+}
+---
 
 ==== sparśite  ====
   * to touch --- [[books:cc:antya:4:154|Antya 4.154]]

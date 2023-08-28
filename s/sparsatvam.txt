@@ -1,5 +1,11 @@
-~~Title:sparśatvam~~
-{{description>the distinguishing attributes.}}
+---json
+{
+    "name":"sparśatvam",
+    "h1":"sparśatvam",
+    "title":"sparśatvam",
+    "description":"the distinguishing attributes."
+}
+---
 
 ==== sparśatvam  ====
   * the distinguishing attributes --- [[books:sb:3:26:36|SB 3.26.36]]

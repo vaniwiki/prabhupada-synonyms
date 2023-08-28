@@ -1,5 +1,11 @@
-~~Title:tapyamāne~~
-{{description>was engaged in.}}
+---json
+{
+    "name":"tapyamāne",
+    "h1":"tapyamāne",
+    "title":"tapyamāne",
+    "description":"was engaged in."
+}
+---
 
 ==== tapyamāne  ====
   * was engaged in --- [[books:sb:7:3:3|SB 7.3.3]]

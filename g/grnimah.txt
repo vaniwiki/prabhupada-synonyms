@@ -1,5 +1,11 @@
-~~Title:gṛṇīmaḥ~~
-{{description>we offered prayers.}}
+---json
+{
+    "name":"gṛṇīmaḥ",
+    "h1":"gṛṇīmaḥ",
+    "title":"gṛṇīmaḥ",
+    "description":"we offered prayers."
+}
+---
 
 ==== gṛṇīmaḥ  ====
   * we offered prayers --- [[books:sb:4:30:41|SB 4.30.41]]

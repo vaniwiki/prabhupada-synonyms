@@ -1,5 +1,11 @@
-~~Title:niṣevaṇam~~
-{{description>the service.}}
+---json
+{
+    "name":"niṣevaṇam",
+    "h1":"niṣevaṇam",
+    "title":"niṣevaṇam",
+    "description":"the service."
+}
+---
 
 ==== niṣevaṇam  ====
   * the service --- [[books:cc:madhya:2:28|Madhya 2.28]]

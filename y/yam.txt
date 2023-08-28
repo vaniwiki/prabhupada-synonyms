@@ -1,5 +1,11 @@
-~~Title:yam~~
-{{description>about whom; He who; He whom; him (Vena) whom; Him; Him whom; one who; that which; the person; the Supreme Personality of Godhead; the Supreme Personality of Godhead who; to which; to whom; unto anyone to whom; unto one; unto the Personality of Godhead who; unto the Supreme Person; unto whom (Ambarīṣa Mahārāja); unto whom (Marutta); unto whom (Ṛṣyaśṛṅga); unto whom; upon whom; what; where; which (bridge); which (Vedic path); which; which son; who; whom (Paraśurāma); whom (the Supreme Personality of Godhead); whom (You); whom.}}
+---json
+{
+    "name":"yam",
+    "h1":"yam",
+    "title":"yam",
+    "description":"about whom; He who; He whom; him (Vena) whom; Him; Him whom; one who; that which; the person; the Supreme Personality of Godhead; the Supreme Personality of Godhead who; to which; to whom; unto anyone to whom; unto one; unto the Personality of Godhead who; unto the Supreme Person; unto whom (Ambarīṣa Mahārāja); unto whom (Marutta); unto whom (Ṛṣyaśṛṅga); unto whom; upon whom; what; where; which (bridge); which (Vedic path); which; which son; who; whom (Paraśurāma); whom (the Supreme Personality of Godhead); whom (You); whom."
+}
+---
 
 ==== yam  ====
   * about whom --- [[books:sb:8:12:44|SB 8.12.44]]

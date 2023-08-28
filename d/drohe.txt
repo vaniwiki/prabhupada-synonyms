@@ -1,5 +1,11 @@
-~~Title:drohe~~
-{{description>offense.}}
+---json
+{
+    "name":"drohe",
+    "h1":"drohe",
+    "title":"drohe",
+    "description":"offense."
+}
+---
 
 ==== drohe  ====
   * offense --- [[books:sb:1:18:41|SB 1.18.41]]

@@ -1,5 +1,11 @@
-~~Title:gita~~
-{{description>chanting; singing; song; songs; speaking; sung; the chanting; the song; the songs; their songs; various songs.}}
+---json
+{
+    "name":"gita",
+    "h1":"gita",
+    "title":"gita",
+    "description":"chanting; singing; song; songs; speaking; sung; the chanting; the song; the songs; their songs; various songs."
+}
+---
 
 ==== gīta  ====
   * chanting --- [[books:cc:adi:13:35|Ādi 13.35]], [[books:cc:adi:13:38|Ādi 13.38]], [[books:cc:adi:17:205|Ādi 17.205]], [[books:cc:madhya:8:4|Madhya 8.4]], [[books:cc:madhya:9:235|Madhya 9.235]]

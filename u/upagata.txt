@@ -1,5 +1,11 @@
-~~Title:upagata~~
-{{description>obtained; obtaining.}}
+---json
+{
+    "name":"upagata",
+    "h1":"upagata",
+    "title":"upagata",
+    "description":"obtained; obtaining."
+}
+---
 
 ==== upagata  ====
   * obtained --- [[books:sb:5:14:36|SB 5.14.36]]

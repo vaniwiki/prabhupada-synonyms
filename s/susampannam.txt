@@ -1,5 +1,11 @@
-~~Title:susampannam~~
-{{description>well versed.}}
+---json
+{
+    "name":"susampannam",
+    "h1":"susampannam",
+    "title":"susampannam",
+    "description":"well versed."
+}
+---
 
 ==== susampannam  ====
   * well versed --- [[books:sb:1:5:3|SB 1.5.3]]

@@ -1,5 +1,11 @@
-~~Title:samupekṣakaḥ~~
-{{description>grossly neglecting.}}
+---json
+{
+    "name":"samupekṣakaḥ",
+    "h1":"samupekṣakaḥ",
+    "title":"samupekṣakaḥ",
+    "description":"grossly neglecting."
+}
+---
 
 ==== samupekṣakaḥ  ====
   * grossly neglecting --- [[books:sb:4:14:41|SB 4.14.41]]

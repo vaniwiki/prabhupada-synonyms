@@ -1,5 +1,11 @@
-~~Title:pāriṣada~~
-{{description>associates; personal associate.}}
+---json
+{
+    "name":"pāriṣada",
+    "h1":"pāriṣada",
+    "title":"pāriṣada",
+    "description":"associates; personal associate."
+}
+---
 
 ==== pāriṣada  ====
   * associates --- [[books:cc:adi:3:75|Ādi 3.75]], [[books:cc:adi:5:143|Ādi 5.143]], [[books:cc:adi:5:144-145|Ādi 5.144-145]], [[books:cc:madhya:21:5|Madhya 21.5]]

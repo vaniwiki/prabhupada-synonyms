@@ -1,5 +1,11 @@
-~~Title:doṣayoḥ~~
-{{description>of a good quality or fault; of right and wrong activities.}}
+---json
+{
+    "name":"doṣayoḥ",
+    "h1":"doṣayoḥ",
+    "title":"doṣayoḥ",
+    "description":"of a good quality or fault; of right and wrong activities."
+}
+---
 
 ==== guṇa-doṣayoḥ  ====
   * of a good quality or fault --- [[books:sb:7:5:49|SB 7.5.49]]

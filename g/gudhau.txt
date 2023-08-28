@@ -1,5 +1,11 @@
-~~Title:gūḍhau~~
-{{description>disguised.}}
+---json
+{
+    "name":"gūḍhau",
+    "h1":"gūḍhau",
+    "title":"gūḍhau",
+    "description":"disguised."
+}
+---
 
 ==== gūḍhau  ====
   * disguised --- [[books:sb:6:15:10|SB 6.15.10]]

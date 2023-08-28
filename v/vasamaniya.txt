@@ -1,5 +1,11 @@
-~~Title:vaśamānīya~~
-{{description>bringing under her control.}}
+---json
+{
+    "name":"vaśamānīya",
+    "h1":"vaśamānīya",
+    "title":"vaśamānīya",
+    "description":"bringing under her control."
+}
+---
 
 ==== vaśamānīya  ====
   * bringing under her control --- [[books:sb:4:27:1|SB 4.27.1]]

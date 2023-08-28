@@ -1,5 +1,11 @@
-~~Title:muhūrtāyāḥ~~
-{{description>from the womb of Muhūrtā.}}
+---json
+{
+    "name":"muhūrtāyāḥ",
+    "h1":"muhūrtāyāḥ",
+    "title":"muhūrtāyāḥ",
+    "description":"from the womb of Muhūrtā."
+}
+---
 
 ==== muhūrtāyāḥ  ====
   * from the womb of Muhūrtā --- [[books:sb:6:6:9|SB 6.6.9]]

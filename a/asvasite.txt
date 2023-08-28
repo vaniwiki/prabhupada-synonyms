@@ -1,5 +1,11 @@
-~~Title:āśvāsite~~
-{{description>to console.}}
+---json
+{
+    "name":"āśvāsite",
+    "h1":"āśvāsite",
+    "title":"āśvāsite",
+    "description":"to console."
+}
+---
 
 ==== āśvāsite  ====
   * to console --- [[books:cc:antya:19:5|Antya 19.5]]

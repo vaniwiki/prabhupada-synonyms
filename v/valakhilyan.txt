@@ -1,5 +1,11 @@
-~~Title:vālakhilyān~~
-{{description>just like Vālakhilya.}}
+---json
+{
+    "name":"vālakhilyān",
+    "h1":"vālakhilyān",
+    "title":"vālakhilyān",
+    "description":"just like Vālakhilya."
+}
+---
 
 ==== vālakhilyān  ====
   * just like Vālakhilya --- [[books:sb:4:1:39|SB 4.1.39]]

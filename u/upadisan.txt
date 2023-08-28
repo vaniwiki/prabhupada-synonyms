@@ -1,5 +1,11 @@
-~~Title:upadiśan~~
-{{description>instructing.}}
+---json
+{
+    "name":"upadiśan",
+    "h1":"upadiśan",
+    "title":"upadiśan",
+    "description":"instructing."
+}
+---
 
 ==== upadiśan  ====
   * instructing --- [[books:cc:adi:3:66|Ādi 3.66]]

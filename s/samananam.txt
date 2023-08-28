@@ -1,5 +1,11 @@
-~~Title:samānānām~~
-{{description>exactly like Himself.}}
+---json
+{
+    "name":"samānānām",
+    "h1":"samānānām",
+    "title":"samānānām",
+    "description":"exactly like Himself."
+}
+---
 
 ==== ātma-samānānām  ====
   * exactly like Himself --- [[books:sb:5:4:8|SB 5.4.8]]

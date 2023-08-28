@@ -1,5 +1,11 @@
-~~Title:jāraṇa~~
-{{description>powerful or red-hot.}}
+---json
+{
+    "name":"jāraṇa",
+    "h1":"jāraṇa",
+    "title":"jāraṇa",
+    "description":"powerful or red-hot."
+}
+---
 
 ==== jāraṇa  ====
   * powerful or red-hot --- [[books:cc:adi:5:60|Ādi 5.60]]

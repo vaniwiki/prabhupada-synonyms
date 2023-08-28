@@ -1,5 +1,11 @@
-~~Title:pai~~
-{{description>get; getting; I can get; I get; I may get; I reach; if I get; one can get; we achieve; we get.}}
+---json
+{
+    "name":"pai",
+    "h1":"pai",
+    "title":"pai",
+    "description":"get; getting; I can get; I get; I may get; I reach; if I get; one can get; we achieve; we get."
+}
+---
 
 ==== pāi  ====
   * get --- [[books:cc:adi:4:258|Ādi 4.258]], [[books:cc:antya:4:199|Antya 4.199]], [[books:cc:antya:18:115|Antya 18.115]]

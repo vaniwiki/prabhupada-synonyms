@@ -1,5 +1,11 @@
-~~Title:gāyanam~~
-{{description>the singing.}}
+---json
+{
+    "name":"gāyanam",
+    "h1":"gāyanam",
+    "title":"gāyanam",
+    "description":"the singing."
+}
+---
 
 ==== gāyanam  ====
   * the singing --- [[books:sb:3:31:42|SB 3.31.42]]

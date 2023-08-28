@@ -1,5 +1,11 @@
-~~Title:śaṅkarāṇi~~
-{{description>pleasing.}}
+---json
+{
+    "name":"śaṅkarāṇi",
+    "h1":"śaṅkarāṇi",
+    "title":"śaṅkarāṇi",
+    "description":"pleasing."
+}
+---
 
 ==== śaṅkarāṇi  ====
   * pleasing --- [[books:sb:6:6:24-26|SB 6.6.24-26]]

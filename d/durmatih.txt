@@ -1,5 +1,11 @@
-~~Title:durmatiḥ~~
-{{description>a misguided person; evil-minded; foolish; one who is less intelligent; the ignorant person; without good intelligence.}}
+---json
+{
+    "name":"durmatiḥ",
+    "h1":"durmatiḥ",
+    "title":"durmatiḥ",
+    "description":"a misguided person; evil-minded; foolish; one who is less intelligent; the ignorant person; without good intelligence."
+}
+---
 
 ==== durmatiḥ  ====
   * a misguided person --- [[books:sb:3:30:3|SB 3.30.3]]

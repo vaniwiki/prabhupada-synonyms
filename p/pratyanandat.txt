@@ -1,5 +1,11 @@
-~~Title:pratyanandat~~
-{{description>supported.}}
+---json
+{
+    "name":"pratyanandat",
+    "h1":"pratyanandat",
+    "title":"pratyanandat",
+    "description":"supported."
+}
+---
 
 ==== pratyanandat  ====
   * supported --- [[books:sb:1:7:49|SB 1.7.49]]

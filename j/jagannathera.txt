@@ -1,5 +1,11 @@
-~~Title:jagannāthera~~
-{{description>of Jagannātha; of Jagannātha Miśra; of Lord Jagannātha; of Lord Śrī Jagannātha.}}
+---json
+{
+    "name":"jagannāthera",
+    "h1":"jagannāthera",
+    "title":"jagannāthera",
+    "description":"of Jagannātha; of Jagannātha Miśra; of Lord Jagannātha; of Lord Śrī Jagannātha."
+}
+---
 
 ==== jagannāthera  ====
   * of Jagannātha --- [[books:cc:antya:3:41|Antya 3.41]]

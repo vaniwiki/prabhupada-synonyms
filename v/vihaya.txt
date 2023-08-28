@@ -1,5 +1,11 @@
-~~Title:vihāya~~
-{{description>after giving up; giving up; having abandoned; having given up; leaving; leaving aside; rejecting; releasing.}}
+---json
+{
+    "name":"vihāya",
+    "h1":"vihāya",
+    "title":"vihāya",
+    "description":"after giving up; giving up; having abandoned; having given up; leaving; leaving aside; rejecting; releasing."
+}
+---
 
 ==== vihāya  ====
   * after giving up --- [[books:bg:2:71|Bg. 2.71]]

@@ -1,5 +1,11 @@
-~~Title:bhūṣaṇera~~
-{{description>of the ornament.}}
+---json
+{
+    "name":"bhūṣaṇera",
+    "h1":"bhūṣaṇera",
+    "title":"bhūṣaṇera",
+    "description":"of the ornament."
+}
+---
 
 ==== bhūṣaṇera  ====
   * of the ornament --- [[books:cc:madhya:21:105|Madhya 21.105]]

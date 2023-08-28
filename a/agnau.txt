@@ -1,5 +1,11 @@
-~~Title:agnau~~
-{{description>in fire; in the fire; in the fire of; in the fire of consummation; in the fire-god (the personified god controlling fire).}}
+---json
+{
+    "name":"agnau",
+    "h1":"agnau",
+    "title":"agnau",
+    "description":"in fire; in the fire; in the fire of; in the fire of consummation; in the fire-god (the personified god controlling fire)."
+}
+---
 
 ==== agnau  ====
   * in fire --- [[books:sb:10:11:56|SB 10.11.56]]

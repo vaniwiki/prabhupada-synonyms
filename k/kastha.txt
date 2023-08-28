@@ -1,5 +1,11 @@
-~~Title:kastha~~
-{{description>wood.}}
+---json
+{
+    "name":"kastha",
+    "h1":"kastha",
+    "title":"kastha",
+    "description":"wood."
+}
+---
 
 ==== kaṣṭha  ====
   * wood --- [[books:cc:adi:10:116|Ādi 10.116]]

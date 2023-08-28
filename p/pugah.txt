@@ -1,5 +1,11 @@
-~~Title:pūgaḥ~~
-{{description>in the masses.}}
+---json
+{
+    "name":"pūgaḥ",
+    "h1":"pūgaḥ",
+    "title":"pūgaḥ",
+    "description":"in the masses."
+}
+---
 
 ==== pūgaḥ  ====
   * in the masses --- [[books:sb:1:17:32|SB 1.17.32]]

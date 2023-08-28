@@ -1,5 +1,11 @@
-~~Title:vidhvaṁsita~~
-{{description>destroyed.}}
+---json
+{
+    "name":"vidhvaṁsita",
+    "h1":"vidhvaṁsita",
+    "title":"vidhvaṁsita",
+    "description":"destroyed."
+}
+---
 
 ==== vidhvaṁsita  ====
   * destroyed --- [[books:sb:4:22:36|SB 4.22.36]]

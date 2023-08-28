@@ -1,5 +1,11 @@
-~~Title:devadattaḥ~~
-{{description>Devadatta.}}
+---json
+{
+    "name":"devadattaḥ",
+    "h1":"devadattaḥ",
+    "title":"devadattaḥ",
+    "description":"Devadatta."
+}
+---
 
 ==== devadattaḥ  ====
   * Devadatta --- [[books:sb:9:2:20|SB 9.2.20]]

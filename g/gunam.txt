@@ -1,5 +1,11 @@
-~~Title:gunam~~
-{{description>happiness; material qualities; quality; the qualities; the quality (like flavor and color).}}
+---json
+{
+    "name":"gunam",
+    "h1":"gunam",
+    "title":"gunam",
+    "description":"happiness; material qualities; quality; the qualities; the quality (like flavor and color)."
+}
+---
 
 ==== guṇam  ====
   * happiness --- [[books:sb:6:16:11|SB 6.16.11]]

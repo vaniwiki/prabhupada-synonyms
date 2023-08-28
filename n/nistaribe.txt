@@ -1,5 +1,11 @@
-~~Title:nistāribe~~
-{{description>he will be saved.}}
+---json
+{
+    "name":"nistāribe",
+    "h1":"nistāribe",
+    "title":"nistāribe",
+    "description":"he will be saved."
+}
+---
 
 ==== nistāribe  ====
   * he will be saved --- [[books:cc:antya:9:14|Antya 9.14]]

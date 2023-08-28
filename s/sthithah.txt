@@ -1,5 +1,11 @@
-~~Title:sthithaḥ~~
-{{description>situated.}}
+---json
+{
+    "name":"sthithaḥ",
+    "h1":"sthithaḥ",
+    "title":"sthithaḥ",
+    "description":"situated."
+}
+---
 
 ==== sthithaḥ  ====
   * situated --- [[books:bg:10:42|Bg. 10.42]]

@@ -1,5 +1,11 @@
-~~Title:kṛtāyāḥ~~
-{{description>having been insulted.}}
+---json
+{
+    "name":"kṛtāyāḥ",
+    "h1":"kṛtāyāḥ",
+    "title":"kṛtāyāḥ",
+    "description":"having been insulted."
+}
+---
 
 ==== asat-kṛtāyāḥ  ====
   * having been insulted --- [[books:sb:4:5:1|SB 4.5.1]]

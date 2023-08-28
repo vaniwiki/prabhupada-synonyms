@@ -1,5 +1,11 @@
-~~Title:abhakta~~
-{{description>nondevotee.}}
+---json
+{
+    "name":"abhakta",
+    "h1":"abhakta",
+    "title":"abhakta",
+    "description":"nondevotee."
+}
+---
 
 ==== abhakta  ====
   * nondevotee --- [[books:cc:adi:4:235|Ādi 4.235]], [[books:cc:antya:4:67|Antya 4.67]]

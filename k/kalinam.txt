@@ -1,5 +1,11 @@
-~~Title:kālīnam~~
-{{description>described as happening now (in the paugaṇḍa age).}}
+---json
+{
+    "name":"kālīnam",
+    "h1":"kālīnam",
+    "title":"kālīnam",
+    "description":"described as happening now (in the paugaṇḍa age)."
+}
+---
 
 ==== tat-kālīnam  ====
   * described as happening now (in the //paugaṇḍa// age) --- [[books:sb:10:12:41|SB 10.12.41]]

@@ -1,5 +1,11 @@
-~~Title:sumeru~~
-{{description>as high as the mountain Sumeru.}}
+---json
+{
+    "name":"sumeru",
+    "h1":"sumeru",
+    "title":"sumeru",
+    "description":"as high as the mountain Sumeru."
+}
+---
 
 ==== sumeru-ākāra  ====
   * as high as the mountain Sumeru --- [[books:cc:madhya:13:19|Madhya 13.19]]

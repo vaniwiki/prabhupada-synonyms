@@ -1,5 +1,11 @@
-~~Title:vairājasya~~
-{{description>by her husband, Vairāja.}}
+---json
+{
+    "name":"vairājasya",
+    "h1":"vairājasya",
+    "title":"vairājasya",
+    "description":"by her husband, Vairāja."
+}
+---
 
 ==== vairājasya  ====
   * by her husband, Vairāja --- [[books:sb:8:5:9|SB 8.5.9]]

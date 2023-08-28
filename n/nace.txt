@@ -1,5 +1,11 @@
-~~Title:nāce~~
-{{description>began to dance; dance; danced; dances; he dances; is dancing; they dance.}}
+---json
+{
+    "name":"nāce",
+    "h1":"nāce",
+    "title":"nāce",
+    "description":"began to dance; dance; danced; dances; he dances; is dancing; they dance."
+}
+---
 
 ==== nāce  ====
   * began to dance --- [[books:cc:adi:13:106|Ādi 13.106]]

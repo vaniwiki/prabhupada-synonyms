@@ -1,5 +1,11 @@
-~~Title:krodhah~~
-{{description>anger; wrath.}}
+---json
+{
+    "name":"krodhah",
+    "h1":"krodhah",
+    "title":"krodhah",
+    "description":"anger; wrath."
+}
+---
 
 ==== krodhaḥ  ====
   * anger --- [[books:bg:2:56|Bg. 2.56]], [[books:bg:2:62|Bg. 2.62]], [[books:bg:5:27-28|Bg. 5.27-28]], [[books:bg:16:21|Bg. 16.21]], [[books:sb:3:12:26|SB 3.12.26]], [[books:sb:4:8:3|SB 4.8.3]], [[books:cc:madhya:14:197|Madhya 14.197]]

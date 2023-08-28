@@ -1,5 +1,11 @@
-~~Title:samādiśya~~
-{{description>advising; after fully instructing; after instructing.}}
+---json
+{
+    "name":"samādiśya",
+    "h1":"samādiśya",
+    "title":"samādiśya",
+    "description":"advising; after fully instructing; after instructing."
+}
+---
 
 ==== samādiśya  ====
   * advising --- [[books:sb:8:6:26|SB 8.6.26]]

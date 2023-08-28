@@ -1,5 +1,11 @@
-~~Title:sṛṣṭam~~
-{{description>created; in the creation; was created.}}
+---json
+{
+    "name":"sṛṣṭam",
+    "h1":"sṛṣṭam",
+    "title":"sṛṣṭam",
+    "description":"created; in the creation; was created."
+}
+---
 
 ==== sṛṣṭam  ====
   * created --- [[books:bg:4:13|Bg. 4.13]], [[books:sb:2:5:2|SB 2.5.2]], [[books:sb:2:10:43|SB 2.10.43]], [[books:sb:7:15:41|SB 7.15.41]], [[books:sb:9:10:10|SB 9.10.10]]

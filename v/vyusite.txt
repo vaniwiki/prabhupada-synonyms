@@ -1,5 +1,11 @@
-~~Title:vyuṣite~~
-{{description>at the time of my being away.}}
+---json
+{
+    "name":"vyuṣite",
+    "h1":"vyuṣite",
+    "title":"vyuṣite",
+    "description":"at the time of my being away."
+}
+---
 
 ==== vyuṣite  ====
   * at the time of my being away --- [[books:sb:4:28:20|SB 4.28.20]]

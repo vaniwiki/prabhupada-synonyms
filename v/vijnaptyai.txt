@@ -1,5 +1,11 @@
-~~Title:vijñaptyai~~
-{{description>for explaining.}}
+---json
+{
+    "name":"vijñaptyai",
+    "h1":"vijñaptyai",
+    "title":"vijñaptyai",
+    "description":"for explaining."
+}
+---
 
 ==== vijñaptyai  ====
   * for explaining --- [[books:sb:3:24:10|SB 3.24.10]]

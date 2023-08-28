@@ -1,5 +1,11 @@
-~~Title:apāyayan~~
-{{description>fed them; feeding them.}}
+---json
+{
+    "name":"apāyayan",
+    "h1":"apāyayan",
+    "title":"apāyayan",
+    "description":"fed them; feeding them."
+}
+---
 
 ==== apāyayan  ====
   * fed them --- [[books:sb:10:13:31|SB 10.13.31]]

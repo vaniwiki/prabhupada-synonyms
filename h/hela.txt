@@ -1,5 +1,11 @@
-~~Title:hela~~
-{{description>very easily.}}
+---json
+{
+    "name":"hela",
+    "h1":"hela",
+    "title":"hela",
+    "description":"very easily."
+}
+---
 
 ==== helā  ====
   * very easily --- [[books:cc:madhya:10:119|Madhya 10.119]]

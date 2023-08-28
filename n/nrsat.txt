@@ -1,5 +1,11 @@
-~~Title:nṛṣat~~
-{{description>to the intelligence.}}
+---json
+{
+    "name":"nṛṣat",
+    "h1":"nṛṣat",
+    "title":"nṛṣat",
+    "description":"to the intelligence."
+}
+---
 
 ==== nṛṣat  ====
   * to the intelligence --- [[books:sb:5:7:14|SB 5.7.14]]

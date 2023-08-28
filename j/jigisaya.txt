@@ -1,5 +1,11 @@
-~~Title:jigīṣayā~~
-{{description>with a desire for victory; with a desire to win.}}
+---json
+{
+    "name":"jigīṣayā",
+    "h1":"jigīṣayā",
+    "title":"jigīṣayā",
+    "description":"with a desire for victory; with a desire to win."
+}
+---
 
 ==== jigīṣayā  ====
   * with a desire for victory --- [[books:sb:3:18:18|SB 3.18.18]]

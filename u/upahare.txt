@@ -1,5 +1,11 @@
-~~Title:upāhare~~
-{{description>shall present to you.}}
+---json
+{
+    "name":"upāhare",
+    "h1":"upāhare",
+    "title":"upāhare",
+    "description":"shall present to you."
+}
+---
 
 ==== upāhare  ====
   * shall present to you --- [[books:sb:1:7:16|SB 1.7.16]]

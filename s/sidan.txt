@@ -1,5 +1,11 @@
-~~Title:sīdan~~
-{{description>being bereft (of all material opulences).}}
+---json
+{
+    "name":"sīdan",
+    "h1":"sīdan",
+    "title":"sīdan",
+    "description":"being bereft (of all material opulences)."
+}
+---
 
 ==== sīdan  ====
   * being bereft (of all material opulences) --- [[books:sb:8:22:28|SB 8.22.28]]

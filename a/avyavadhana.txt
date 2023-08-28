@@ -1,5 +1,11 @@
-~~Title:avyavadhāna~~
-{{description>by the nondifference of constitution; without cessation.}}
+---json
+{
+    "name":"avyavadhāna",
+    "h1":"avyavadhāna",
+    "title":"avyavadhāna",
+    "description":"by the nondifference of constitution; without cessation."
+}
+---
 
 ==== avyavadhāna  ====
   * by the nondifference of constitution --- [[books:sb:5:5:35|SB 5.5.35]]

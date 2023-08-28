@@ -1,5 +1,11 @@
-~~Title:vivakṣuḥ~~
-{{description>described.}}
+---json
+{
+    "name":"vivakṣuḥ",
+    "h1":"vivakṣuḥ",
+    "title":"vivakṣuḥ",
+    "description":"described."
+}
+---
 
 ==== vivakṣuḥ  ====
   * described --- [[books:sb:3:5:12|SB 3.5.12]]

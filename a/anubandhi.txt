@@ -1,5 +1,11 @@
-~~Title:anubandhi~~
-{{description>related with.}}
+---json
+{
+    "name":"anubandhi",
+    "h1":"anubandhi",
+    "title":"anubandhi",
+    "description":"related with."
+}
+---
 
 ==== anubandhi  ====
   * related with --- [[books:cc:antya:1:171|Antya 1.171]]

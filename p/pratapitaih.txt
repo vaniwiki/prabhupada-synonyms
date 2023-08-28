@@ -1,5 +1,11 @@
-~~Title:pratāpitaiḥ~~
-{{description>being disturbed.}}
+---json
+{
+    "name":"pratāpitaiḥ",
+    "h1":"pratāpitaiḥ",
+    "title":"pratāpitaiḥ",
+    "description":"being disturbed."
+}
+---
 
 ==== pratāpitaiḥ  ====
   * being disturbed --- [[books:sb:7:4:9-12|SB 7.4.9-12]]

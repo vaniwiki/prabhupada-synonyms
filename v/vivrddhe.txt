@@ -1,5 +1,11 @@
-~~Title:vivṛddhe~~
-{{description>is developed; when there is excess.}}
+---json
+{
+    "name":"vivṛddhe",
+    "h1":"vivṛddhe",
+    "title":"vivṛddhe",
+    "description":"is developed; when there is excess."
+}
+---
 
 ==== vivṛddhe  ====
   * is developed --- [[books:bg:14:13|Bg. 14.13]]

@@ -1,5 +1,11 @@
-~~Title:talu~~
-{{description>palate; the palate.}}
+---json
+{
+    "name":"talu",
+    "h1":"talu",
+    "title":"talu",
+    "description":"palate; the palate."
+}
+---
 
 ==== tālu  ====
   * palate --- [[books:sb:3:6:13|SB 3.6.13]]

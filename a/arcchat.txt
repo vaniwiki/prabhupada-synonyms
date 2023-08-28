@@ -1,5 +1,11 @@
-~~Title:ārcchat~~
-{{description>achieved; brought about; obtained; withdrew.}}
+---json
+{
+    "name":"ārcchat",
+    "h1":"ārcchat",
+    "title":"ārcchat",
+    "description":"achieved; brought about; obtained; withdrew."
+}
+---
 
 ==== ārcchat  ====
   * achieved --- [[books:sb:2:7:23|SB 2.7.23]]

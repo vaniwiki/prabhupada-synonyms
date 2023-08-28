@@ -1,5 +1,11 @@
-~~Title:yāthārthyaḥ~~
-{{description>right knowledge of one's own self.}}
+---json
+{
+    "name":"yāthārthyaḥ",
+    "h1":"yāthārthyaḥ",
+    "title":"yāthārthyaḥ",
+    "description":"right knowledge of one's own self."
+}
+---
 
 ==== ātma-yāthārthyaḥ  ====
   * right knowledge of one's own self --- [[books:sb:1:12:28|SB 1.12.28]]

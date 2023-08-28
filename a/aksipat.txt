@@ -1,5 +1,11 @@
-~~Title:akṣipat~~
-{{description>put.}}
+---json
+{
+    "name":"akṣipat",
+    "h1":"akṣipat",
+    "title":"akṣipat",
+    "description":"put."
+}
+---
 
 ==== akṣipat  ====
   * put --- [[books:sb:7:10:59|SB 7.10.59]]

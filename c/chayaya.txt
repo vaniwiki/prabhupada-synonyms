@@ -1,5 +1,11 @@
-~~Title:chāyayā~~
-{{description>because of the resemblance; from His shadow; with his shadow.}}
+---json
+{
+    "name":"chāyayā",
+    "h1":"chāyayā",
+    "title":"chāyayā",
+    "description":"because of the resemblance; from His shadow; with his shadow."
+}
+---
 
 ==== chāyayā  ====
   * because of the resemblance --- [[books:sb:8:3:14|SB 8.3.14]]

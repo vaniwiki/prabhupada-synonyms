@@ -1,5 +1,11 @@
-~~Title:rucaye~~
-{{description>unto the great sage Ruci; unto the sage Ruci.}}
+---json
+{
+    "name":"rucaye",
+    "h1":"rucaye",
+    "title":"rucaye",
+    "description":"unto the great sage Ruci; unto the sage Ruci."
+}
+---
 
 ==== rucaye  ====
   * unto the great sage Ruci --- [[books:sb:4:1:2|SB 4.1.2]]

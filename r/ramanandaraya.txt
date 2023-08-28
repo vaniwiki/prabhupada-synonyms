@@ -1,5 +1,11 @@
-~~Title:rāmānandarāya~~
-{{description>of the name Rāmānanda Rāya.}}
+---json
+{
+    "name":"rāmānandarāya",
+    "h1":"rāmānandarāya",
+    "title":"rāmānandarāya",
+    "description":"of the name Rāmānanda Rāya."
+}
+---
 
 ==== rāmānandarāya  ====
   * of the name Rāmānanda Rāya --- [[books:cc:madhya:1:104|Madhya 1.104]], [[books:cc:madhya:1:149|Madhya 1.149]]

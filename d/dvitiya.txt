@@ -1,5 +1,11 @@
-~~Title:dvitīya~~
-{{description>a second; a second thing; second; the second.}}
+---json
+{
+    "name":"dvitīya",
+    "h1":"dvitīya",
+    "title":"dvitīya",
+    "description":"a second; a second thing; second; the second."
+}
+---
 
 ==== dvitīya  ====
   * a second --- [[books:cc:madhya:11:78|Madhya 11.78]], [[books:cc:madhya:13:89|Madhya 13.89]]

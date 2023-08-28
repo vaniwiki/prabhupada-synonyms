@@ -1,5 +1,11 @@
-~~Title:upādatta~~
-{{description>covered; established.}}
+---json
+{
+    "name":"upādatta",
+    "h1":"upādatta",
+    "title":"upādatta",
+    "description":"covered; established."
+}
+---
 
 ==== upādatta  ====
   * covered --- [[books:sb:4:30:50-51|SB 4.30.50-51]]

@@ -1,5 +1,11 @@
-~~Title:aṭavyām~~
-{{description>on that forest path of material existence.}}
+---json
+{
+    "name":"aṭavyām",
+    "h1":"aṭavyām",
+    "title":"aṭavyām",
+    "description":"on that forest path of material existence."
+}
+---
 
 ==== aṭavyām  ====
   * on that forest path of material existence --- [[books:sb:5:13:4|SB 5.13.4]]

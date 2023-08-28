@@ -1,5 +1,11 @@
-~~Title:pureṣu~~
-{{description>at those three residences occupied by the demons; holy places like Ayodhyā, Dvārakā and Mathurā; within these residential places or bodies.}}
+---json
+{
+    "name":"pureṣu",
+    "h1":"pureṣu",
+    "title":"pureṣu",
+    "description":"at those three residences occupied by the demons; holy places like Ayodhyā, Dvārakā and Mathurā; within these residential places or bodies."
+}
+---
 
 ==== pureṣu  ====
   * at those three residences occupied by the demons --- [[books:sb:7:10:57|SB 7.10.57]]

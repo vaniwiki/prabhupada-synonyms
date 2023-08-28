@@ -1,5 +1,11 @@
-~~Title:hrasvaromā~~
-{{description>Hrasvaromā.}}
+---json
+{
+    "name":"hrasvaromā",
+    "h1":"hrasvaromā",
+    "title":"hrasvaromā",
+    "description":"Hrasvaromā."
+}
+---
 
 ==== hrasvaromā  ====
   * Hrasvaromā --- [[books:sb:9:13:17|SB 9.13.17]]

@@ -1,5 +1,11 @@
-~~Title:udahrtah~~
-{{description>are expressed; celebrated as his son; chanted; described as; exemplified; explained; has already been described (in the beginning of the Ninth Canto); is called the creation; is declared; is said to be so; said; was recited.}}
+---json
+{
+    "name":"udahrtah",
+    "h1":"udahrtah",
+    "title":"udahrtah",
+    "description":"are expressed; celebrated as his son; chanted; described as; exemplified; explained; has already been described (in the beginning of the Ninth Canto); is called the creation; is declared; is said to be so; said; was recited."
+}
+---
 
 ==== udāhṛtaḥ  ====
   * are expressed --- [[books:sb:3:12:47|SB 3.12.47]]

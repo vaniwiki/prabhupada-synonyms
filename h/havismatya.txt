@@ -1,5 +1,11 @@
-~~Title:haviṣmatyā~~
-{{description>because of possessing a kāmadhenu, a cow that could supply everything.}}
+---json
+{
+    "name":"haviṣmatyā",
+    "h1":"haviṣmatyā",
+    "title":"haviṣmatyā",
+    "description":"because of possessing a kāmadhenu, a cow that could supply everything."
+}
+---
 
 ==== haviṣmatyā  ====
   * because of possessing a //kāmadhenu,// a cow that could supply everything --- [[books:sb:9:15:24|SB 9.15.24]]

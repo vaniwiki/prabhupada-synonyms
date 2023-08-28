@@ -1,5 +1,11 @@
-~~Title:vihaṅga~~
-{{description>birds; of birds.}}
+---json
+{
+    "name":"vihaṅga",
+    "h1":"vihaṅga",
+    "title":"vihaṅga",
+    "description":"birds; of birds."
+}
+---
 
 ==== vihaṅga  ====
   * birds --- [[books:sb:4:25:17|SB 4.25.17]], [[books:sb:8:15:12|SB 8.15.12]]

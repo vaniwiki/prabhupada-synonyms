@@ -1,5 +1,11 @@
-~~Title:tamisre~~
-{{description>in a hellish condition of life.}}
+---json
+{
+    "name":"tamisre",
+    "h1":"tamisre",
+    "title":"tamisre",
+    "description":"in a hellish condition of life."
+}
+---
 
 ==== tamisre  ====
   * in a hellish condition of life --- [[books:sb:5:13:9|SB 5.13.9]]

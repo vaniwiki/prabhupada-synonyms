@@ -1,5 +1,11 @@
-~~Title:buddhih~~
-{{description>intelligence.}}
+---json
+{
+    "name":"buddhih",
+    "h1":"buddhih",
+    "title":"buddhih",
+    "description":"intelligence."
+}
+---
 
 ==== buddhih  ====
   * intelligence --- [[books:bg:5:27-28|Bg. 5.27-28]]

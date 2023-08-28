@@ -1,5 +1,11 @@
-~~Title:yeye~~
-{{description>all those; whatever.}}
+---json
+{
+    "name":"yeye",
+    "h1":"yeye",
+    "title":"yeye",
+    "description":"all those; whatever."
+}
+---
 
 ==== yeye  ====
   * all those --- [[books:cc:adi:10:123|Ādi 10.123]]

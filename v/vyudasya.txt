@@ -1,5 +1,11 @@
-~~Title:vyudasya~~
-{{description>giving up; giving up completely; having laid aside; one who has thrown aside.}}
+---json
+{
+    "name":"vyudasya",
+    "h1":"vyudasya",
+    "title":"vyudasya",
+    "description":"giving up; giving up completely; having laid aside; one who has thrown aside."
+}
+---
 
 ==== vyudasya  ====
   * giving up --- [[books:sb:4:8:44|SB 4.8.44]]

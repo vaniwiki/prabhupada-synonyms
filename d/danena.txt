@@ -1,5 +1,11 @@
-~~Title:dānena~~
-{{description>by charities; by charity; by giving.}}
+---json
+{
+    "name":"dānena",
+    "h1":"dānena",
+    "title":"dānena",
+    "description":"by charities; by charity; by giving."
+}
+---
 
 ==== dānena  ====
   * by charities --- [[books:sb:3:9:13|SB 3.9.13]]

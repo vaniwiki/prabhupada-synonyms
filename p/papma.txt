@@ -1,5 +1,11 @@
-~~Title:pāpmā~~
-{{description>greatly sinful.}}
+---json
+{
+    "name":"pāpmā",
+    "h1":"pāpmā",
+    "title":"pāpmā",
+    "description":"greatly sinful."
+}
+---
 
 ==== mahā-pāpmā  ====
   * greatly sinful --- [[books:bg:3:37|Bg. 3.37]]

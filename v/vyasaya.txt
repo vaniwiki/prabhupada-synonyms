@@ -1,5 +1,11 @@
-~~Title:vyāsāya~~
-{{description>unto Śrīla Vyāsadeva.}}
+---json
+{
+    "name":"vyāsāya",
+    "h1":"vyāsāya",
+    "title":"vyāsāya",
+    "description":"unto Śrīla Vyāsadeva."
+}
+---
 
 ==== vyāsāya  ====
   * unto Śrīla Vyāsadeva --- [[books:sb:2:9:45|SB 2.9.45]]

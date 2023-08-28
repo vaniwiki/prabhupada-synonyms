@@ -1,5 +1,11 @@
-~~Title:vidanti~~
-{{description>do know; know; perceive; they can only understand; they enjoy, they know; understand.}}
+---json
+{
+    "name":"vidanti",
+    "h1":"vidanti",
+    "title":"vidanti",
+    "description":"do know; know; perceive; they can only understand; they enjoy, they know; understand."
+}
+---
 
 ==== vidanti  ====
   * do know --- [[books:sb:2:7:46|SB 2.7.46]]

@@ -1,5 +1,11 @@
-~~Title:kallola~~
-{{description>full of waves.}}
+---json
+{
+    "name":"kallola",
+    "h1":"kallola",
+    "title":"kallola",
+    "description":"full of waves."
+}
+---
 
 ==== kallola  ====
   * full of waves --- [[books:cc:madhya:23:82-83|Madhya 23.82-83]]

@@ -1,5 +1,11 @@
-~~Title:chuṭe~~
-{{description>flows; goes away.}}
+---json
+{
+    "name":"chuṭe",
+    "h1":"chuṭe",
+    "title":"chuṭe",
+    "description":"flows; goes away."
+}
+---
 
 ==== chuṭe  ====
   * flows --- [[books:cc:madhya:13:104|Madhya 13.104]]

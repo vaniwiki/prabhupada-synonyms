@@ -1,5 +1,11 @@
-~~Title:ucita~~
-{{description>befitting; fitting; is the duty; proper.}}
+---json
+{
+    "name":"ucita",
+    "h1":"ucita",
+    "title":"ucita",
+    "description":"befitting; fitting; is the duty; proper."
+}
+---
 
 ==== ucita  ====
   * befitting --- [[books:cc:antya:9:37|Antya 9.37]]

@@ -1,5 +1,11 @@
-~~Title:niṣedhana~~
-{{description>could not forbid.}}
+---json
+{
+    "name":"niṣedhana",
+    "h1":"niṣedhana",
+    "title":"niṣedhana",
+    "description":"could not forbid."
+}
+---
 
 ==== karite nāre niṣedhana  ====
   * could not forbid --- [[books:cc:antya:7:97|Antya 7.97]]

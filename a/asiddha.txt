@@ -1,5 +1,11 @@
-~~Title:asiddha~~
-{{description>not fulfilled.}}
+---json
+{
+    "name":"asiddha",
+    "h1":"asiddha",
+    "title":"asiddha",
+    "description":"not fulfilled."
+}
+---
 
 ==== asiddha-artham  ====
   * not fulfilled --- [[books:sb:4:9:28|SB 4.9.28]]

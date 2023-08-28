@@ -1,5 +1,11 @@
-~~Title:dyumaṇi~~
-{{description>the Kṛṣṇa sun.}}
+---json
+{
+    "name":"dyumaṇi",
+    "h1":"dyumaṇi",
+    "title":"dyumaṇi",
+    "description":"the Kṛṣṇa sun."
+}
+---
 
 ==== kṛṣṇa-dyumaṇi  ====
   * the Kṛṣṇa sun --- [[books:sb:3:2:7|SB 3.2.7]]

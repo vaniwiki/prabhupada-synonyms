@@ -1,5 +1,11 @@
-~~Title:ujāḍe~~
-{{description>emptied.}}
+---json
+{
+    "name":"ujāḍe",
+    "h1":"ujāḍe",
+    "title":"ujāḍe",
+    "description":"emptied."
+}
+---
 
 ==== ujāḍe  ====
   * emptied --- [[books:cc:adi:7:24|Ādi 7.24]]

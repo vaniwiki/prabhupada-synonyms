@@ -1,5 +1,11 @@
-~~Title:nirvighne~~
-{{description>without difficulty; without disturbance; without impediments; without obstacles.}}
+---json
+{
+    "name":"nirvighne",
+    "h1":"nirvighne",
+    "title":"nirvighne",
+    "description":"without difficulty; without disturbance; without impediments; without obstacles."
+}
+---
 
 ==== nirvighne  ====
   * without difficulty --- [[books:cc:antya:6:133|Antya 6.133]]

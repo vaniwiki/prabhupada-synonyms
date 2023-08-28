@@ -1,5 +1,11 @@
-~~Title:prapadyate~~
-{{description>achieves; attains; he enters; is experienced; reaches; surrenders; takes to; transacts.}}
+---json
+{
+    "name":"prapadyate",
+    "h1":"prapadyate",
+    "title":"prapadyate",
+    "description":"achieves; attains; he enters; is experienced; reaches; surrenders; takes to; transacts."
+}
+---
 
 ==== prapadyate  ====
   * achieves --- [[books:sb:8:24:51|SB 8.24.51]]

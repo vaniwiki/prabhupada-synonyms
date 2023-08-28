@@ -1,5 +1,11 @@
-~~Title:sudyumna~~
-{{description>Sudyumna.}}
+---json
+{
+    "name":"sudyumna",
+    "h1":"sudyumna",
+    "title":"sudyumna",
+    "description":"Sudyumna."
+}
+---
 
 ==== sudyumna  ====
   * Sudyumna --- [[books:sb:8:5:7|SB 8.5.7]]

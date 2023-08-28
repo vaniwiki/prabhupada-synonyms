@@ -1,5 +1,11 @@
-~~Title:anutiṣṭhati~~
-{{description>follows.}}
+---json
+{
+    "name":"anutiṣṭhati",
+    "h1":"anutiṣṭhati",
+    "title":"anutiṣṭhati",
+    "description":"follows."
+}
+---
 
 ==== anutiṣṭhati  ====
   * follows --- [[books:sb:6:5:31|SB 6.5.31]]

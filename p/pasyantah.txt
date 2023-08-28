@@ -1,5 +1,11 @@
-~~Title:paśyantaḥ~~
-{{description>having understood; observing; seeing (the calf and cow drinking the nectar).}}
+---json
+{
+    "name":"paśyantaḥ",
+    "h1":"paśyantaḥ",
+    "title":"paśyantaḥ",
+    "description":"having understood; observing; seeing (the calf and cow drinking the nectar)."
+}
+---
 
 ==== paśyantaḥ  ====
   * having understood --- [[books:sb:4:14:1|SB 4.14.1]]

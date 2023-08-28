@@ -1,5 +1,11 @@
-~~Title:jātau~~
-{{description>born; took their births.}}
+---json
+{
+    "name":"jātau",
+    "h1":"jātau",
+    "title":"jātau",
+    "description":"born; took their births."
+}
+---
 
 ==== jātau  ====
   * born --- [[books:sb:7:1:44|SB 7.1.44]], [[books:sb:7:1:46|SB 7.1.46]]

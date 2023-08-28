@@ -1,5 +1,11 @@
-~~Title:abhyadhāt~~
-{{description>apprised; pacified; spoke.}}
+---json
+{
+    "name":"abhyadhāt",
+    "h1":"abhyadhāt",
+    "title":"abhyadhāt",
+    "description":"apprised; pacified; spoke."
+}
+---
 
 ==== abhyadhāt  ====
   * apprised --- [[books:sb:2:4:25|SB 2.4.25]]

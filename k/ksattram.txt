@@ -1,5 +1,11 @@
-~~Title:kṣāttram~~
-{{description>the spirit of a kṣatriya.}}
+---json
+{
+    "name":"kṣāttram",
+    "h1":"kṣāttram",
+    "title":"kṣāttram",
+    "description":"the spirit of a kṣatriya."
+}
+---
 
 ==== kṣāttram  ====
   * the spirit of a //kṣatriya// --- [[books:sb:4:8:36|SB 4.8.36]]

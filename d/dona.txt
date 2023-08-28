@@ -1,5 +1,11 @@
-~~Title:donā~~
-{{description>the pot.}}
+---json
+{
+    "name":"donā",
+    "h1":"donā",
+    "title":"donā",
+    "description":"the pot."
+}
+---
 
 ==== donā  ====
   * the pot --- [[books:cc:madhya:3:90|Madhya 3.90]]

@@ -1,5 +1,11 @@
-~~Title:avasāde~~
-{{description>in despondency.}}
+---json
+{
+    "name":"avasāde",
+    "h1":"avasāde",
+    "title":"avasāde",
+    "description":"in despondency."
+}
+---
 
 ==== avasāde  ====
   * in despondency --- [[books:cc:madhya:2:35|Madhya 2.35]]

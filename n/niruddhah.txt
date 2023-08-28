@@ -1,5 +1,11 @@
-~~Title:niruddhah~~
-{{description>being stopped.}}
+---json
+{
+    "name":"niruddhah",
+    "h1":"niruddhah",
+    "title":"niruddhah",
+    "description":"being stopped."
+}
+---
 
 ==== niruddhaḥ  ====
   * being stopped --- [[books:sb:10:12:31|SB 10.12.31]]

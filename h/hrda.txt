@@ -1,5 +1,11 @@
-~~Title:hṛdā~~
-{{description>at heart; by the heart; by thoughts; consciousness of the heart; heart; through the heart; whose heart; with a heart; with heart and soul; with his heart; with the heart.}}
+---json
+{
+    "name":"hṛdā",
+    "h1":"hṛdā",
+    "title":"hṛdā",
+    "description":"at heart; by the heart; by thoughts; consciousness of the heart; heart; through the heart; whose heart; with a heart; with heart and soul; with his heart; with the heart."
+}
+---
 
 ==== hṛdā  ====
   * at heart --- [[books:sb:4:8:26|SB 4.8.26]]

@@ -1,5 +1,11 @@
-~~Title:timi~~
-{{description>whales.}}
+---json
+{
+    "name":"timi",
+    "h1":"timi",
+    "title":"timi",
+    "description":"whales."
+}
+---
 
 ==== timi  ====
   * whales --- [[books:sb:8:7:18|SB 8.7.18]]

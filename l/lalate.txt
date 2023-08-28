@@ -1,5 +1,11 @@
-~~Title:lalāṭe~~
-{{description>on the forehead.}}
+---json
+{
+    "name":"lalāṭe",
+    "h1":"lalāṭe",
+    "title":"lalāṭe",
+    "description":"on the forehead."
+}
+---
 
 ==== lalāṭe  ====
   * on the forehead --- [[books:sb:8:20:25-29|SB 8.20.25-29]], [[books:cc:adi:17:69|Ādi 17.69]], [[books:cc:madhya:8:176|Madhya 8.176]], [[books:cc:madhya:21:127|Madhya 21.127]]

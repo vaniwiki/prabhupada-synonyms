@@ -1,5 +1,11 @@
-~~Title:vidure~~
-{{description>Vidura.}}
+---json
+{
+    "name":"vidure",
+    "h1":"vidure",
+    "title":"vidure",
+    "description":"Vidura."
+}
+---
 
 ==== vidure  ====
   * Vidura --- [[books:cc:antya:19:69|Antya 19.69]]

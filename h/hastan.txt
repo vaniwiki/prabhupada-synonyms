@@ -1,5 +1,11 @@
-~~Title:hastān~~
-{{description>having ropes in their hands.}}
+---json
+{
+    "name":"hastān",
+    "h1":"hastān",
+    "title":"hastān",
+    "description":"having ropes in their hands."
+}
+---
 
 ==== pāśa-hastān  ====
   * having ropes in their hands --- [[books:sb:6:1:28-29|SB 6.1.28-29]]

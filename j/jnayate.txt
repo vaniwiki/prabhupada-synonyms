@@ -1,5 +1,11 @@
-~~Title:jñāyate~~
-{{description>are understood; is known.}}
+---json
+{
+    "name":"jñāyate",
+    "h1":"jñāyate",
+    "title":"jñāyate",
+    "description":"are understood; is known."
+}
+---
 
 ==== jñāyate  ====
   * are understood --- [[books:sb:4:17:36|SB 4.17.36]]

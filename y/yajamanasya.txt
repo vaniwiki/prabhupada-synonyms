@@ -1,5 +1,11 @@
-~~Title:yajamānasya~~
-{{description>of the performer of the sacrifice; of the sacrificer.}}
+---json
+{
+    "name":"yajamānasya",
+    "h1":"yajamānasya",
+    "title":"yajamānasya",
+    "description":"of the performer of the sacrifice; of the sacrificer."
+}
+---
 
 ==== yajamānasya  ====
   * of the performer of the sacrifice --- [[books:sb:4:7:4|SB 4.7.4]]

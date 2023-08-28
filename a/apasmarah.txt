@@ -1,5 +1,11 @@
-~~Title:apasmārāḥ~~
-{{description>causing loss of memory.}}
+---json
+{
+    "name":"apasmārāḥ",
+    "h1":"apasmārāḥ",
+    "title":"apasmārāḥ",
+    "description":"causing loss of memory."
+}
+---
 
 ==== apasmārāḥ  ====
   * causing loss of memory --- [[books:sb:10:6:27-29|SB 10.6.27-29]]

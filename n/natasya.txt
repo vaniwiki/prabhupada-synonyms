@@ -1,5 +1,11 @@
-~~Title:naṭasya~~
-{{description>of the artist.}}
+---json
+{
+    "name":"naṭasya",
+    "h1":"naṭasya",
+    "title":"naṭasya",
+    "description":"of the artist."
+}
+---
 
 ==== naṭasya  ====
   * of the artist --- [[books:sb:8:3:6|SB 8.3.6]]

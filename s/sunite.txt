@@ -1,5 +1,11 @@
-~~Title:śunite~~
-{{description>even to hear; hearing; listening; to hear.}}
+---json
+{
+    "name":"śunite",
+    "h1":"śunite",
+    "title":"śunite",
+    "description":"even to hear; hearing; listening; to hear."
+}
+---
 
 ==== śunite  ====
   * even to hear --- [[books:cc:madhya:6:268|Madhya 6.268]], [[books:cc:antya:19:110|Antya 19.110]]

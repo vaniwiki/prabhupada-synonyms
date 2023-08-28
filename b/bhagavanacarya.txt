@@ -1,5 +1,11 @@
-~~Title:bhagavānācārya~~
-{{description>of the name Bhagavān Ācārya.}}
+---json
+{
+    "name":"bhagavānācārya",
+    "h1":"bhagavānācārya",
+    "title":"bhagavānācārya",
+    "description":"of the name Bhagavān Ācārya."
+}
+---
 
 ==== bhagavānācārya  ====
   * of the name Bhagavān Ācārya --- [[books:cc:adi:10:135-136|Ādi 10.135-136]]

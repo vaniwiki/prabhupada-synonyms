@@ -1,5 +1,11 @@
-~~Title:vrttah~~
-{{description>influenced by the base qualities of material nature.}}
+---json
+{
+    "name":"vrttah",
+    "h1":"vrttah",
+    "title":"vrttah",
+    "description":"influenced by the base qualities of material nature."
+}
+---
 
 ==== abhadra-vṛttāḥ  ====
   * influenced by the base qualities of material nature --- [[books:sb:8:12:10|SB 8.12.10]]

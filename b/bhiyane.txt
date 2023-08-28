@@ -1,5 +1,11 @@
-~~Title:bhiyāne~~
-{{description>in the kitchen.}}
+---json
+{
+    "name":"bhiyāne",
+    "h1":"bhiyāne",
+    "title":"bhiyāne",
+    "description":"in the kitchen."
+}
+---
 
 ==== bhiyāne  ====
   * in the kitchen --- [[books:cc:madhya:4:115|Madhya 4.115]]

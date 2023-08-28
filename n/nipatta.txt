@@ -1,5 +1,11 @@
-~~Title:nipaṭṭa~~
-{{description>complete external consciousness.}}
+---json
+{
+    "name":"nipaṭṭa",
+    "h1":"nipaṭṭa",
+    "title":"nipaṭṭa",
+    "description":"complete external consciousness."
+}
+---
 
 ==== nipaṭṭa-bāhya  ====
   * complete external consciousness --- [[books:cc:antya:14:114|Antya 14.114]]

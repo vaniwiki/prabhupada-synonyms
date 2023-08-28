@@ -1,5 +1,11 @@
-~~Title:abhigṛṇan~~
-{{description>clearly chanting.}}
+---json
+{
+    "name":"abhigṛṇan",
+    "h1":"abhigṛṇan",
+    "title":"abhigṛṇan",
+    "description":"clearly chanting."
+}
+---
 
 ==== abhigṛṇan  ====
   * clearly chanting --- [[books:sb:5:17:16|SB 5.17.16]]

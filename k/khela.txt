@@ -1,5 +1,11 @@
-~~Title:khela~~
-{{description>pastimes; playing.}}
+---json
+{
+    "name":"khela",
+    "h1":"khela",
+    "title":"khela",
+    "description":"pastimes; playing."
+}
+---
 
 ==== khelā  ====
   * pastimes --- [[books:cc:adi:5:125|Ādi 5.125]], [[books:cc:madhya:12:203|Madhya 12.203]], [[books:cc:madhya:21:101|Madhya 21.101]]

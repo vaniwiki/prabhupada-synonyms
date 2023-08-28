@@ -1,5 +1,11 @@
-~~Title:vicarila~~
-{{description>considered.}}
+---json
+{
+    "name":"vicarila",
+    "h1":"vicarila",
+    "title":"vicarila",
+    "description":"considered."
+}
+---
 
 ==== vicārila  ====
   * considered --- [[books:cc:madhya:4:119|Madhya 4.119]], [[books:cc:antya:13:69|Antya 13.69]]

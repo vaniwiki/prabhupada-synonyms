@@ -1,5 +1,11 @@
-~~Title:lāgāñācha~~
-{{description>you offered.}}
+---json
+{
+    "name":"lāgāñācha",
+    "h1":"lāgāñācha",
+    "title":"lāgāñācha",
+    "description":"you offered."
+}
+---
 
 ==== lāgāñācha  ====
   * you offered --- [[books:cc:madhya:15:228|Madhya 15.228]]

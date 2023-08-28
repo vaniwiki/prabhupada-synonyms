@@ -1,5 +1,11 @@
-~~Title:ājīvya~~
-{{description>source of income.}}
+---json
+{
+    "name":"ājīvya",
+    "h1":"ājīvya",
+    "title":"ājīvya",
+    "description":"source of income."
+}
+---
 
 ==== ājīvya  ====
   * source of income --- [[books:sb:4:21:50|SB 4.21.50]]

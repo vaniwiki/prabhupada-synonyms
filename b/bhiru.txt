@@ -1,5 +1,11 @@
-~~Title:bhīru~~
-{{description>O afflicted one; O fearful one; O timid one.}}
+---json
+{
+    "name":"bhīru",
+    "h1":"bhīru",
+    "title":"bhīru",
+    "description":"O afflicted one; O fearful one; O timid one."
+}
+---
 
 ==== bhīru  ====
   * O afflicted one --- [[books:sb:3:14:17|SB 3.14.17]]

@@ -1,5 +1,11 @@
-~~Title:śvabhre~~
-{{description>holes, ditches of so-called happiness and distress.}}
+---json
+{
+    "name":"śvabhre",
+    "h1":"śvabhre",
+    "title":"śvabhre",
+    "description":"holes, ditches of so-called happiness and distress."
+}
+---
 
 ==== śvabhre  ====
   * holes, ditches of so-called happiness and distress --- [[books:sb:4:7:28|SB 4.7.28]]

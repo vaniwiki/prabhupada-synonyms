@@ -1,5 +1,11 @@
-~~Title:kāṭite~~
-{{description>wanted to kill them.}}
+---json
+{
+    "name":"kāṭite",
+    "h1":"kāṭite",
+    "title":"kāṭite",
+    "description":"wanted to kill them."
+}
+---
 
 ==== kāṭite cāhe  ====
   * wanted to kill them --- [[books:cc:madhya:18:166|Madhya 18.166]]

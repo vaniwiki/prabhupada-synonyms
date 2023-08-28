@@ -1,5 +1,11 @@
-~~Title:avamānāt~~
-{{description>from offending.}}
+---json
+{
+    "name":"avamānāt",
+    "h1":"avamānāt",
+    "title":"avamānāt",
+    "description":"from offending."
+}
+---
 
 ==== avamānāt  ====
   * from offending --- [[books:sb:5:10:17|SB 5.10.17]]

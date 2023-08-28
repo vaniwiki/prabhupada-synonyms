@@ -1,5 +1,11 @@
-~~Title:cikitsā~~
-{{description>medical treatment; treatment.}}
+---json
+{
+    "name":"cikitsā",
+    "h1":"cikitsā",
+    "title":"cikitsā",
+    "description":"medical treatment; treatment."
+}
+---
 
 ==== cikitsā  ====
   * medical treatment --- [[books:cc:adi:10:51|Ādi 10.51]]

@@ -1,5 +1,11 @@
-~~Title:kandarpa~~
-{{description>by Cupid; Cupid.}}
+---json
+{
+    "name":"kandarpa",
+    "h1":"kandarpa",
+    "title":"kandarpa",
+    "description":"by Cupid; Cupid."
+}
+---
 
 ==== kandarpa  ====
   * by Cupid --- [[books:sb:4:26:13|SB 4.26.13]]

@@ -1,5 +1,11 @@
-~~Title:pūrakeṇa~~
-{{description>by the stream.}}
+---json
+{
+    "name":"pūrakeṇa",
+    "h1":"pūrakeṇa",
+    "title":"pūrakeṇa",
+    "description":"by the stream."
+}
+---
 
 ==== pūrakeṇa  ====
   * by the stream --- [[books:cc:antya:4:64|Antya 4.64]]

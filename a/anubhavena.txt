@@ -1,5 +1,11 @@
-~~Title:anubhavena~~
-{{description>by understanding.}}
+---json
+{
+    "name":"anubhavena",
+    "h1":"anubhavena",
+    "title":"anubhavena",
+    "description":"by understanding."
+}
+---
 
 ==== anubhavena  ====
   * by understanding --- [[books:sb:4:17:29|SB 4.17.29]]

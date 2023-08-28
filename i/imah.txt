@@ -1,5 +1,11 @@
-~~Title:imah~~
-{{description>let me offer my obeisances.}}
+---json
+{
+    "name":"imah",
+    "h1":"imah",
+    "title":"imah",
+    "description":"let me offer my obeisances."
+}
+---
 
 ==== imaḥ  ====
   * let me offer my obeisances --- [[books:sb:5:7:14|SB 5.7.14]]

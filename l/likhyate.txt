@@ -1,5 +1,11 @@
-~~Title:likhyate~~
-{{description>is being written; they are being written.}}
+---json
+{
+    "name":"likhyate",
+    "h1":"likhyate",
+    "title":"likhyate",
+    "description":"is being written; they are being written."
+}
+---
 
 ==== likhyate  ====
   * is being written --- [[books:cc:adi:7:1|Ādi 7.1]]

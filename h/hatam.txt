@@ -1,5 +1,11 @@
-~~Title:hatam~~
-{{description>dead; defeated or covered; had been killed; has been killed; killed; was killed.}}
+---json
+{
+    "name":"hatam",
+    "h1":"hatam",
+    "title":"hatam",
+    "description":"dead; defeated or covered; had been killed; has been killed; killed; was killed."
+}
+---
 
 ==== hatam  ====
   * dead --- [[books:sb:4:14:34|SB 4.14.34]]

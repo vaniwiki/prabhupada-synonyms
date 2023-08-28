@@ -1,5 +1,11 @@
-~~Title:arakṣatām~~
-{{description>protected.}}
+---json
+{
+    "name":"arakṣatām",
+    "h1":"arakṣatām",
+    "title":"arakṣatām",
+    "description":"protected."
+}
+---
 
 ==== arakṣatām  ====
   * protected --- [[books:sb:1:13:34|SB 1.13.34]]

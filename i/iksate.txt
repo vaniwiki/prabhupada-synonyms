@@ -1,5 +1,11 @@
-~~Title:īkṣate~~
-{{description>can see things as they are; depends upon; does see; he sees; sees.}}
+---json
+{
+    "name":"īkṣate",
+    "h1":"īkṣate",
+    "title":"īkṣate",
+    "description":"can see things as they are; depends upon; does see; he sees; sees."
+}
+---
 
 ==== īkṣate  ====
   * can see things as they are --- [[books:sb:10:10:13|SB 10.10.13]]

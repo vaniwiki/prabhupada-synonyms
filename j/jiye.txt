@@ -1,5 +1,11 @@
-~~Title:jiye~~
-{{description>I live; sustains life.}}
+---json
+{
+    "name":"jiye",
+    "h1":"jiye",
+    "title":"jiye",
+    "description":"I live; sustains life."
+}
+---
 
 ==== jiye  ====
   * I live --- [[books:cc:madhya:2:92|Madhya 2.92]]

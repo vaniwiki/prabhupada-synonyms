@@ -1,5 +1,11 @@
-~~Title:bujhaya~~
-{{description>teaches.}}
+---json
+{
+    "name":"bujhaya",
+    "h1":"bujhaya",
+    "title":"bujhaya",
+    "description":"teaches."
+}
+---
 
 ==== bujhāya  ====
   * teaches --- [[books:cc:madhya:25:42|Madhya 25.42]]

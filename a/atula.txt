@@ -1,5 +1,11 @@
-~~Title:atula~~
-{{description>incomparable; unequaled.}}
+---json
+{
+    "name":"atula",
+    "h1":"atula",
+    "title":"atula",
+    "description":"incomparable; unequaled."
+}
+---
 
 ==== atula  ====
   * incomparable --- [[books:cc:antya:16:119|Antya 16.119]]

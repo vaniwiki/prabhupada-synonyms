@@ -1,5 +1,11 @@
-~~Title:aninditā~~
-{{description>being purified; the blameless (Satī).}}
+---json
+{
+    "name":"aninditā",
+    "h1":"aninditā",
+    "title":"aninditā",
+    "description":"being purified; the blameless (Satī)."
+}
+---
 
 ==== aninditā  ====
   * being purified --- [[books:sb:6:18:68|SB 6.18.68]]

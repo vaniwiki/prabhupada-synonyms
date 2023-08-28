@@ -1,5 +1,11 @@
-~~Title:sāndram~~
-{{description>intense.}}
+---json
+{
+    "name":"sāndram",
+    "h1":"sāndram",
+    "title":"sāndram",
+    "description":"intense."
+}
+---
 
 ==== sāndram  ====
   * intense --- [[books:cc:antya:1:163|Antya 1.163]]

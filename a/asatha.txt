@@ -1,5 +1,11 @@
-~~Title:aśaṭha~~
-{{description>a great-minded person who is without duplicity.}}
+---json
+{
+    "name":"aśaṭha",
+    "h1":"aśaṭha",
+    "title":"aśaṭha",
+    "description":"a great-minded person who is without duplicity."
+}
+---
 
 ==== aśaṭha-dhīḥ  ====
   * a great-minded person who is without duplicity --- [[books:sb:8:22:23|SB 8.22.23]]

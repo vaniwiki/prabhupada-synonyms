@@ -1,5 +1,11 @@
-~~Title:ṭheki'~~
-{{description>when there was a collision between one pot and another.}}
+---json
+{
+    "name":"ṭheki'",
+    "h1":"ṭheki'",
+    "title":"ṭheki'",
+    "description":"when there was a collision between one pot and another."
+}
+---
 
 ==== ghaṭe ghaṭe ṭheki'  ====
   * when there was a collision between one pot and another --- [[books:cc:madhya:12:110|Madhya 12.110]]

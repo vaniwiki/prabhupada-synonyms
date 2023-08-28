@@ -1,5 +1,11 @@
-~~Title:keśe~~
-{{description>in the hair.}}
+---json
+{
+    "name":"keśe",
+    "h1":"keśe",
+    "title":"keśe",
+    "description":"in the hair."
+}
+---
 
 ==== keśe  ====
   * in the hair --- [[books:cc:madhya:8:182|Madhya 8.182]]

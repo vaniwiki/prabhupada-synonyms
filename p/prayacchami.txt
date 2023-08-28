@@ -1,5 +1,11 @@
-~~Title:prayacchāmi~~
-{{description>I shall give you.}}
+---json
+{
+    "name":"prayacchāmi",
+    "h1":"prayacchāmi",
+    "title":"prayacchāmi",
+    "description":"I shall give you."
+}
+---
 
 ==== prayacchāmi  ====
   * I shall give you --- [[books:sb:4:9:19|SB 4.9.19]]

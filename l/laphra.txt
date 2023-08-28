@@ -1,5 +1,11 @@
-~~Title:lāphrā~~
-{{description>a combination of several vegetables.}}
+---json
+{
+    "name":"lāphrā",
+    "h1":"lāphrā",
+    "title":"lāphrā",
+    "description":"a combination of several vegetables."
+}
+---
 
 ==== lāphrā  ====
   * a combination of several vegetables --- [[books:cc:madhya:15:211|Madhya 15.211]]

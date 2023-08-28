@@ -1,5 +1,11 @@
-~~Title:vasa~~
-{{description>fat.}}
+---json
+{
+    "name":"vasa",
+    "h1":"vasa",
+    "title":"vasa",
+    "description":"fat."
+}
+---
 
 ==== vasā  ====
   * fat --- [[books:sb:5:26:22|SB 5.26.22]]

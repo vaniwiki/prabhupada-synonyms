@@ -1,5 +1,11 @@
-~~Title:krīḍanam~~
-{{description>the playing.}}
+---json
+{
+    "name":"krīḍanam",
+    "h1":"krīḍanam",
+    "title":"krīḍanam",
+    "description":"the playing."
+}
+---
 
 ==== krīḍanam  ====
   * the playing --- [[books:sb:7:2:39|SB 7.2.39]]

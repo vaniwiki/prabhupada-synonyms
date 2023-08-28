@@ -1,5 +1,11 @@
-~~Title:hātī~~
-{{description>an elephant; elephants.}}
+---json
+{
+    "name":"hātī",
+    "h1":"hātī",
+    "title":"hātī",
+    "description":"an elephant; elephants."
+}
+---
 
 ==== hātī  ====
   * an elephant --- [[books:cc:madhya:19:156|Madhya 19.156]]

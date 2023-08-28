@@ -1,5 +1,11 @@
-~~Title:juṣām~~
-{{description>devoted to; of those engaged; relishing.}}
+---json
+{
+    "name":"juṣām",
+    "h1":"juṣām",
+    "title":"juṣām",
+    "description":"devoted to; of those engaged; relishing."
+}
+---
 
 ==== juṣām  ====
   * devoted to --- [[books:cc:antya:7:47|Antya 7.47]]

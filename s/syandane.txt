@@ -1,5 +1,11 @@
-~~Title:syandane~~
-{{description>chariot.}}
+---json
+{
+    "name":"syandane",
+    "h1":"syandane",
+    "title":"syandane",
+    "description":"chariot."
+}
+---
 
 ==== syandane  ====
   * chariot --- [[books:bg:1:14|Bg. 1.14]]

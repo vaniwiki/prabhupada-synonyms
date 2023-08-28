@@ -1,5 +1,11 @@
-~~Title:ghrāṇena~~
-{{description>by smelling; with the olfactory sense.}}
+---json
+{
+    "name":"ghrāṇena",
+    "h1":"ghrāṇena",
+    "title":"ghrāṇena",
+    "description":"by smelling; with the olfactory sense."
+}
+---
 
 ==== ghrāṇena  ====
   * by smelling --- [[books:sb:2:2:29|SB 2.2.29]], [[books:sb:3:13:28|SB 3.13.28]]

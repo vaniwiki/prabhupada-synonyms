@@ -1,5 +1,11 @@
-~~Title:nidhi~~
-{{description>ocean of water.}}
+---json
+{
+    "name":"nidhi",
+    "h1":"nidhi",
+    "title":"nidhi",
+    "description":"ocean of water."
+}
+---
 
 ==== jala-nidhi  ====
   * ocean of water --- [[books:cc:adi:5:52|Ādi 5.52]]

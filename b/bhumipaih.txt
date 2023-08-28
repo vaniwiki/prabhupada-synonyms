@@ -1,5 +1,11 @@
-~~Title:bhūmipaiḥ~~
-{{description>with the Manus.}}
+---json
+{
+    "name":"bhūmipaiḥ",
+    "h1":"bhūmipaiḥ",
+    "title":"bhūmipaiḥ",
+    "description":"with the Manus."
+}
+---
 
 ==== bhūmipaiḥ  ====
   * with the Manus --- [[books:sb:8:23:20-21|SB 8.23.20-21]]

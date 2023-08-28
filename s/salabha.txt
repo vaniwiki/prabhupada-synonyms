@@ -1,5 +1,11 @@
-~~Title:śalabha~~
-{{description>locusts.}}
+---json
+{
+    "name":"śalabha",
+    "h1":"śalabha",
+    "title":"śalabha",
+    "description":"locusts."
+}
+---
 
 ==== śalabha  ====
   * locusts --- [[books:sb:5:14:5|SB 5.14.5]]

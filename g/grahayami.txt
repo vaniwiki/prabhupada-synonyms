@@ -1,5 +1,11 @@
-~~Title:grāhayāmi~~
-{{description>I shall give.}}
+---json
+{
+    "name":"grāhayāmi",
+    "h1":"grāhayāmi",
+    "title":"grāhayāmi",
+    "description":"I shall give."
+}
+---
 
 ==== grāhayāmi  ====
   * I shall give --- [[books:cc:adi:3:83|Ādi 3.83]]

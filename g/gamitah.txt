@@ -1,5 +1,11 @@
-~~Title:gamitaḥ~~
-{{description>went away.}}
+---json
+{
+    "name":"gamitaḥ",
+    "h1":"gamitaḥ",
+    "title":"gamitaḥ",
+    "description":"went away."
+}
+---
 
 ==== gamitaḥ  ====
   * went away --- [[books:sb:10:7:31|SB 10.7.31]]

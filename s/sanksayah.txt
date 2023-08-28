@@ -1,5 +1,11 @@
-~~Title:saṅkṣayaḥ~~
-{{description>complete diminution.}}
+---json
+{
+    "name":"saṅkṣayaḥ",
+    "h1":"saṅkṣayaḥ",
+    "title":"saṅkṣayaḥ",
+    "description":"complete diminution."
+}
+---
 
 ==== saṅkṣayaḥ  ====
   * complete diminution --- [[books:sb:4:12:46|SB 4.12.46]]

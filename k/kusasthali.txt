@@ -1,5 +1,11 @@
-~~Title:kuśasthalī~~
-{{description>Dvārakā.}}
+---json
+{
+    "name":"kuśasthalī",
+    "h1":"kuśasthalī",
+    "title":"kuśasthalī",
+    "description":"Dvārakā."
+}
+---
 
 ==== kuśasthalī  ====
   * Dvārakā --- [[books:sb:1:10:27|SB 1.10.27]]

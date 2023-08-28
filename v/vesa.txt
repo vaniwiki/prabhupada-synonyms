@@ -1,5 +1,11 @@
-~~Title:vesa~~
-{{description>dress; of dress.}}
+---json
+{
+    "name":"vesa",
+    "h1":"vesa",
+    "title":"vesa",
+    "description":"dress; of dress."
+}
+---
 
 ==== veśa  ====
   * dress --- [[books:cc:adi:17:5|Ādi 17.5]], [[books:cc:madhya:1:182|Madhya 1.182]]

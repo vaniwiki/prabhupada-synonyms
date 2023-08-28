@@ -1,5 +1,11 @@
-~~Title:ākhariyā~~
-{{description>chief singer.}}
+---json
+{
+    "name":"ākhariyā",
+    "h1":"ākhariyā",
+    "title":"ākhariyā",
+    "description":"chief singer."
+}
+---
 
 ==== ākhariyā  ====
   * chief singer --- [[books:cc:adi:10:65|Ādi 10.65]]

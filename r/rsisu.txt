@@ -1,5 +1,11 @@
-~~Title:ṛṣiṣu~~
-{{description>in the sages.}}
+---json
+{
+    "name":"ṛṣiṣu",
+    "h1":"ṛṣiṣu",
+    "title":"ṛṣiṣu",
+    "description":"in the sages."
+}
+---
 
 ==== ṛṣiṣu  ====
   * in the sages --- [[books:sb:1:8:30|SB 1.8.30]]

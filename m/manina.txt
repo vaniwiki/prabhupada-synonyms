@@ -1,5 +1,11 @@
-~~Title:manina~~
-{{description>by the jewel.}}
+---json
+{
+    "name":"manina",
+    "h1":"manina",
+    "title":"manina",
+    "description":"by the jewel."
+}
+---
 
 ==== maṇinā  ====
   * by the jewel --- [[books:sb:1:7:56|SB 1.7.56]]

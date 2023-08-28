@@ -1,5 +1,11 @@
-~~Title:pibantam~~
-{{description>while drinking.}}
+---json
+{
+    "name":"pibantam",
+    "h1":"pibantam",
+    "title":"pibantam",
+    "description":"while drinking."
+}
+---
 
 ==== pibantam  ====
   * while drinking --- [[books:sb:10:1:13|SB 10.1.13]]

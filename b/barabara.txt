@@ -1,5 +1,11 @@
-~~Title:bārabāra~~
-{{description>again and again.}}
+---json
+{
+    "name":"bārabāra",
+    "h1":"bārabāra",
+    "title":"bārabāra",
+    "description":"again and again."
+}
+---
 
 ==== bārabāra  ====
   * again and again --- [[books:cc:madhya:1:209|Madhya 1.209]]

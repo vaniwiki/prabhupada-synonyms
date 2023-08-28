@@ -1,5 +1,11 @@
-~~Title:ghnataḥ~~
-{{description>being killed.}}
+---json
+{
+    "name":"ghnataḥ",
+    "h1":"ghnataḥ",
+    "title":"ghnataḥ",
+    "description":"being killed."
+}
+---
 
 ==== ghnataḥ  ====
   * being killed --- [[books:bg:1:32-35|Bg. 1.32-35]]

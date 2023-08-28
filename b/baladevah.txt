@@ -1,5 +1,11 @@
-~~Title:baladevaḥ~~
-{{description>known as Baladeva.}}
+---json
+{
+    "name":"baladevaḥ",
+    "h1":"baladevaḥ",
+    "title":"baladevaḥ",
+    "description":"known as Baladeva."
+}
+---
 
 ==== baladevaḥ  ====
   * known as Baladeva --- [[books:sb:9:3:33|SB 9.3.33]]

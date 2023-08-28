@@ -1,5 +1,11 @@
-~~Title:vitanyate~~
-{{description>is performed.}}
+---json
+{
+    "name":"vitanyate",
+    "h1":"vitanyate",
+    "title":"vitanyate",
+    "description":"is performed."
+}
+---
 
 ==== vitanyate  ====
   * is performed --- [[books:sb:3:24:24|SB 3.24.24]]

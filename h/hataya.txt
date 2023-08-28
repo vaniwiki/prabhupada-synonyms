@@ -1,5 +1,11 @@
-~~Title:hatayā~~
-{{description>in killing.}}
+---json
+{
+    "name":"hatayā",
+    "h1":"hatayā",
+    "title":"hatayā",
+    "description":"in killing."
+}
+---
 
 ==== hatayā  ====
   * in killing --- [[books:sb:10:4:12|SB 10.4.12]]

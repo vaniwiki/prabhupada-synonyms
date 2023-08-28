@@ -1,5 +1,11 @@
-~~Title:jiba~~
-{{description>shall live or shall remain manifest.}}
+---json
+{
+    "name":"jiba",
+    "h1":"jiba",
+    "title":"jiba",
+    "description":"shall live or shall remain manifest."
+}
+---
 
 ==== jība  ====
   * shall live or shall remain manifest --- [[books:cc:madhya:3:176|Madhya 3.176]]

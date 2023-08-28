@@ -1,5 +1,11 @@
-~~Title:pratāpa~~
-{{description>influence; power.}}
+---json
+{
+    "name":"pratāpa",
+    "h1":"pratāpa",
+    "title":"pratāpa",
+    "description":"influence; power."
+}
+---
 
 ==== pratāpa  ====
   * influence --- [[books:cc:madhya:17:106|Madhya 17.106]]

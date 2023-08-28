@@ -1,5 +1,11 @@
-~~Title:avalokanaiḥ~~
-{{description>glancing over.}}
+---json
+{
+    "name":"avalokanaiḥ",
+    "h1":"avalokanaiḥ",
+    "title":"avalokanaiḥ",
+    "description":"glancing over."
+}
+---
 
 ==== avalokanaiḥ  ====
   * glancing over --- [[books:sb:8:8:41-46|SB 8.8.41-46]]

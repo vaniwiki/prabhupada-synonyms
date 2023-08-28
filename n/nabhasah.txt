@@ -1,5 +1,11 @@
-~~Title:nabhasaḥ~~
-{{description>from ether; from the sky; of ether; of the ethereal element; of the sky.}}
+---json
+{
+    "name":"nabhasaḥ",
+    "h1":"nabhasaḥ",
+    "title":"nabhasaḥ",
+    "description":"from ether; from the sky; of ether; of the ethereal element; of the sky."
+}
+---
 
 ==== nabhasaḥ  ====
   * from ether --- [[books:sb:3:26:35|SB 3.26.35]]

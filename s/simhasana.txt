@@ -1,5 +1,11 @@
-~~Title:siṁhāsana~~
-{{description>on the throne; the sitting place of the Lord; the throne; throne.}}
+---json
+{
+    "name":"siṁhāsana",
+    "h1":"siṁhāsana",
+    "title":"siṁhāsana",
+    "description":"on the throne; the sitting place of the Lord; the throne; throne."
+}
+---
 
 ==== siṁhāsana  ====
   * on the throne --- [[books:cc:madhya:24:133|Madhya 24.133]]

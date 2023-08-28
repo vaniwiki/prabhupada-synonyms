@@ -1,5 +1,11 @@
-~~Title:svairiṇī~~
-{{description>a prostitute who freely decorates herself with different types of cloths and ornaments.}}
+---json
+{
+    "name":"svairiṇī",
+    "h1":"svairiṇī",
+    "title":"svairiṇī",
+    "description":"a prostitute who freely decorates herself with different types of cloths and ornaments."
+}
+---
 
 ==== svairiṇī  ====
   * a prostitute who freely decorates herself with different types of cloths and ornaments --- [[books:sb:6:5:14|SB 6.5.14]]

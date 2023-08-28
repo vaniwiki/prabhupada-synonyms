@@ -1,5 +1,11 @@
-~~Title:kiṅkaraiḥ~~
-{{description>with the order carriers of Lord Viṣṇu.}}
+---json
+{
+    "name":"kiṅkaraiḥ",
+    "h1":"kiṅkaraiḥ",
+    "title":"kiṅkaraiḥ",
+    "description":"with the order carriers of Lord Viṣṇu."
+}
+---
 
 ==== mahāpuruṣa-kiṅkaraiḥ  ====
   * with the order carriers of Lord Viṣṇu --- [[books:sb:6:2:44|SB 6.2.44]]

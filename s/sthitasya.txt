@@ -1,5 +1,11 @@
-~~Title:sthitasya~~
-{{description>being situated; of the situation; situated.}}
+---json
+{
+    "name":"sthitasya",
+    "h1":"sthitasya",
+    "title":"sthitasya",
+    "description":"being situated; of the situation; situated."
+}
+---
 
 ==== sthitasya  ====
   * being situated --- [[books:cc:adi:7:98|Ādi 7.98]], [[books:cc:madhya:20:110|Madhya 20.110]], [[books:cc:madhya:24:37|Madhya 24.37]]

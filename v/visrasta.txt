@@ -1,5 +1,11 @@
-~~Title:visrasta~~
-{{description>freed from; scattered; were falling down.}}
+---json
+{
+    "name":"visrasta",
+    "h1":"visrasta",
+    "title":"visrasta",
+    "description":"freed from; scattered; were falling down."
+}
+---
 
 ==== visrasta  ====
   * freed from --- [[books:sb:3:33:1|SB 3.33.1]]

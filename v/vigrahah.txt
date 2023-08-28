@@ -1,5 +1,11 @@
-~~Title:vigrahaḥ~~
-{{description>a fight; form; having a body; whose form.}}
+---json
+{
+    "name":"vigrahaḥ",
+    "h1":"vigrahaḥ",
+    "title":"vigrahaḥ",
+    "description":"a fight; form; having a body; whose form."
+}
+---
 
 ==== vigrahaḥ  ====
   * a fight --- [[books:sb:9:14:5|SB 9.14.5]]

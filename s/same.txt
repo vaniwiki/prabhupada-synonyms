@@ -1,5 +1,11 @@
-~~Title:same~~
-{{description>in equanimity; level.}}
+---json
+{
+    "name":"same",
+    "h1":"same",
+    "title":"same",
+    "description":"in equanimity; level."
+}
+---
 
 ==== same  ====
   * in equanimity --- [[books:bg:2:38|Bg. 2.38]]

@@ -1,5 +1,11 @@
-~~Title:niscitah~~
-{{description>ascertain.}}
+---json
+{
+    "name":"niscitah",
+    "h1":"niscitah",
+    "title":"niscitah",
+    "description":"ascertain."
+}
+---
 
 ==== niścitāḥ  ====
   * ascertain --- [[books:bg:16:11-12|Bg. 16.11-12]]

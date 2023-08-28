@@ -1,5 +1,11 @@
-~~Title:mokṣayoḥ~~
-{{description>of both bondage and liberation.}}
+---json
+{
+    "name":"mokṣayoḥ",
+    "h1":"mokṣayoḥ",
+    "title":"mokṣayoḥ",
+    "description":"of both bondage and liberation."
+}
+---
 
 ==== bandha-mokṣayoḥ  ====
   * of both bondage and liberation --- [[books:sb:8:7:22|SB 8.7.22]]

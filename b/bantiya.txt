@@ -1,5 +1,11 @@
-~~Title:bantiya~~
-{{description>distributing.}}
+---json
+{
+    "name":"bantiya",
+    "h1":"bantiya",
+    "title":"bantiya",
+    "description":"distributing."
+}
+---
 
 ==== bāṅtiyā  ====
   * distributing --- [[books:cc:antya:6:99|Antya 6.99]]

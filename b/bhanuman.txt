@@ -1,5 +1,11 @@
-~~Title:bhānumān~~
-{{description>Bhānumān.}}
+---json
+{
+    "name":"bhānumān",
+    "h1":"bhānumān",
+    "title":"bhānumān",
+    "description":"Bhānumān."
+}
+---
 
 ==== bhānumān  ====
   * Bhānumān --- [[books:sb:9:12:11|SB 9.12.11]], [[books:sb:9:13:20-21|SB 9.13.20-21]], [[books:sb:9:23:16|SB 9.23.16]]

@@ -1,5 +1,11 @@
-~~Title:sasmitam~~
-{{description>smiling.}}
+---json
+{
+    "name":"sasmitam",
+    "h1":"sasmitam",
+    "title":"sasmitam",
+    "description":"smiling."
+}
+---
 
 ==== sasmitam  ====
   * smiling --- [[books:sb:8:5:45|SB 8.5.45]]

@@ -1,5 +1,11 @@
-~~Title:kalatrāṇi~~
-{{description>the money, wife and children of another.}}
+---json
+{
+    "name":"kalatrāṇi",
+    "h1":"kalatrāṇi",
+    "title":"kalatrāṇi",
+    "description":"the money, wife and children of another."
+}
+---
 
 ==== para-vitta-apatya-kalatrāṇi  ====
   * the money, wife and children of another --- [[books:sb:5:26:8|SB 5.26.8]]

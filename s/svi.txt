@@ -1,5 +1,11 @@
-~~Title:svī~~
-{{description>accepting.}}
+---json
+{
+    "name":"svī",
+    "h1":"svī",
+    "title":"svī",
+    "description":"accepting."
+}
+---
 
 ==== svī-kṛtya  ====
   * accepting --- [[books:sb:4:28:17|SB 4.28.17]]

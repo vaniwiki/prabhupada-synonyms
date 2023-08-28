@@ -1,5 +1,11 @@
-~~Title:ghrāṇam~~
-{{description>sense of smell; smelling power; the power to smell; the sensation of smell.}}
+---json
+{
+    "name":"ghrāṇam",
+    "h1":"ghrāṇam",
+    "title":"ghrāṇam",
+    "description":"sense of smell; smelling power; the power to smell; the sensation of smell."
+}
+---
 
 ==== ghrāṇam  ====
   * sense of smell --- [[books:sb:3:29:20|SB 3.29.20]]

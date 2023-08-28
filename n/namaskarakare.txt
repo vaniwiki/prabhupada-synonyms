@@ -1,5 +1,11 @@
-~~Title:namaskārakare~~
-{{description>offers respectful obeisances.}}
+---json
+{
+    "name":"namaskārakare",
+    "h1":"namaskārakare",
+    "title":"namaskārakare",
+    "description":"offers respectful obeisances."
+}
+---
 
 ==== namaskārakare  ====
   * offers respectful obeisances --- [[books:cc:antya:5:28|Antya 5.28]]

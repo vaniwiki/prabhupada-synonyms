@@ -1,5 +1,11 @@
-~~Title:bhaktitaḥ~~
-{{description>in a spirit of devotional service; with devotion; with great devotion.}}
+---json
+{
+    "name":"bhaktitaḥ",
+    "h1":"bhaktitaḥ",
+    "title":"bhaktitaḥ",
+    "description":"in a spirit of devotional service; with devotion; with great devotion."
+}
+---
 
 ==== bhaktitaḥ  ====
   * in a spirit of devotional service --- [[books:sb:4:20:35-36|SB 4.20.35-36]]

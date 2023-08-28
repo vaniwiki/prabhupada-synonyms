@@ -1,5 +1,11 @@
-~~Title:hutāśanam~~
-{{description>the fire-god.}}
+---json
+{
+    "name":"hutāśanam",
+    "h1":"hutāśanam",
+    "title":"hutāśanam",
+    "description":"the fire-god."
+}
+---
 
 ==== hutāśanam  ====
   * the fire-god --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

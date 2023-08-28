@@ -1,5 +1,11 @@
-~~Title:beḍāilā~~
-{{description>wandered.}}
+---json
+{
+    "name":"beḍāilā",
+    "h1":"beḍāilā",
+    "title":"beḍāilā",
+    "description":"wandered."
+}
+---
 
 ==== beḍāilā  ====
   * wandered --- [[books:cc:antya:15:30|Antya 15.30]]

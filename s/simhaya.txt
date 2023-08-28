@@ -1,5 +1,11 @@
-~~Title:siṁhāya~~
-{{description>unto Your wonderful lionlike form as Nṛsiṁhadeva.}}
+---json
+{
+    "name":"siṁhāya",
+    "h1":"siṁhāya",
+    "title":"siṁhāya",
+    "description":"unto Your wonderful lionlike form as Nṛsiṁhadeva."
+}
+---
 
 ==== adbhuta-siṁhāya  ====
   * unto Your wonderful lionlike form as Nṛsiṁhadeva --- [[books:sb:7:10:10|SB 7.10.10]]

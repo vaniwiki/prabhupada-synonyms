@@ -1,5 +1,11 @@
-~~Title:kolaiḥ~~
-{{description>by pigs.}}
+---json
+{
+    "name":"kolaiḥ",
+    "h1":"kolaiḥ",
+    "title":"kolaiḥ",
+    "description":"by pigs."
+}
+---
 
 ==== kolaiḥ  ====
   * by pigs --- [[books:cc:madhya:25:283|Madhya 25.283]]

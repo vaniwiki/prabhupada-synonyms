@@ -1,5 +1,11 @@
-~~Title:śāmitra~~
-{{description>suppressing.}}
+---json
+{
+    "name":"śāmitra",
+    "h1":"śāmitra",
+    "title":"śāmitra",
+    "description":"suppressing."
+}
+---
 
 ==== śāmitra  ====
   * suppressing --- [[books:sb:1:16:7|SB 1.16.7]]

@@ -1,5 +1,11 @@
-~~Title:upaveśa~~
-{{description>for the sitting.}}
+---json
+{
+    "name":"upaveśa",
+    "h1":"upaveśa",
+    "title":"upaveśa",
+    "description":"for the sitting."
+}
+---
 
 ==== upaveśa  ====
   * for the sitting --- [[books:cc:madhya:12:1|Madhya 12.1]]

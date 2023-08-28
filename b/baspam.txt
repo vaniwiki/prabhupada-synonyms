@@ -1,5 +1,11 @@
-~~Title:bāṣpam~~
-{{description>tears.}}
+---json
+{
+    "name":"bāṣpam",
+    "h1":"bāṣpam",
+    "title":"bāṣpam",
+    "description":"tears."
+}
+---
 
 ==== bāṣpam  ====
   * tears --- [[books:sb:1:10:14|SB 1.10.14]]

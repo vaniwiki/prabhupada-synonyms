@@ -1,5 +1,11 @@
-~~Title:nirīkṣaka~~
-{{description>observers.}}
+---json
+{
+    "name":"nirīkṣaka",
+    "h1":"nirīkṣaka",
+    "title":"nirīkṣaka",
+    "description":"observers."
+}
+---
 
 ==== nirīkṣaka  ====
   * observers --- [[books:cc:madhya:22:17|Madhya 22.17]]

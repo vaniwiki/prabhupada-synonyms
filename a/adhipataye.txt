@@ -1,5 +1,11 @@
-~~Title:adhipataye~~
-{{description>unto the master.}}
+---json
+{
+    "name":"adhipataye",
+    "h1":"adhipataye",
+    "title":"adhipataye",
+    "description":"unto the master."
+}
+---
 
 ==== adhipataye  ====
   * unto the master --- [[books:sb:5:18:18|SB 5.18.18]]

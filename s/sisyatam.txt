@@ -1,5 +1,11 @@
-~~Title:śiṣyatām~~
-{{description>subordinate position.}}
+---json
+{
+    "name":"śiṣyatām",
+    "h1":"śiṣyatām",
+    "title":"śiṣyatām",
+    "description":"subordinate position."
+}
+---
 
 ==== śiṣyatām  ====
   * subordinate position --- [[books:sb:4:2:11|SB 4.2.11]]

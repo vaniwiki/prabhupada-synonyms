@@ -1,5 +1,11 @@
-~~Title:nūtanayasi~~
-{{description>becoming newer and newer; you are making newer and newer.}}
+---json
+{
+    "name":"nūtanayasi",
+    "h1":"nūtanayasi",
+    "title":"nūtanayasi",
+    "description":"becoming newer and newer; you are making newer and newer."
+}
+---
 
 ==== nūtanayasi  ====
   * becoming newer and newer --- [[books:sb:3:8:1|SB 3.8.1]]

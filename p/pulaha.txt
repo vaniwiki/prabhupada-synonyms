@@ -1,5 +1,11 @@
-~~Title:pulaha~~
-{{description>in the gardens situated i n Pulaha-āśrama.}}
+---json
+{
+    "name":"pulaha",
+    "h1":"pulaha",
+    "title":"pulaha",
+    "description":"in the gardens situated i n Pulaha-āśrama."
+}
+---
 
 ==== pulaha-āśrama-upavane  ====
   * in the gardens situated i n Pulaha-āśrama --- [[books:sb:5:7:11|SB 5.7.11]]

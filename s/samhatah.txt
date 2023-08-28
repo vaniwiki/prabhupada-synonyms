@@ -1,5 +1,11 @@
-~~Title:saṁhatāḥ~~
-{{description>being assembled together; jointly.}}
+---json
+{
+    "name":"saṁhatāḥ",
+    "h1":"saṁhatāḥ",
+    "title":"saṁhatāḥ",
+    "description":"being assembled together; jointly."
+}
+---
 
 ==== saṁhatāḥ  ====
   * being assembled together --- [[books:cc:madhya:25:130|Madhya 25.130]]

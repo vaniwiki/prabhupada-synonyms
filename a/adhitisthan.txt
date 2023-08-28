@@ -1,5 +1,11 @@
-~~Title:adhitiṣṭhan~~
-{{description>sitting on.}}
+---json
+{
+    "name":"adhitiṣṭhan",
+    "h1":"adhitiṣṭhan",
+    "title":"adhitiṣṭhan",
+    "description":"sitting on."
+}
+---
 
 ==== adhitiṣṭhan  ====
   * sitting on --- [[books:sb:6:7:13|SB 6.7.13]]

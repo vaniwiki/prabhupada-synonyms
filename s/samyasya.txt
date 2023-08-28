@@ -1,5 +1,11 @@
-~~Title:sāmyasya~~
-{{description>without interaction of the three modes.}}
+---json
+{
+    "name":"sāmyasya",
+    "h1":"sāmyasya",
+    "title":"sāmyasya",
+    "description":"without interaction of the three modes."
+}
+---
 
 ==== guṇa-sāmyasya  ====
   * without interaction of the three modes --- [[books:sb:3:26:17|SB 3.26.17]]

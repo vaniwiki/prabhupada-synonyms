@@ -1,5 +1,11 @@
-~~Title:indriyaiḥ~~
-{{description>and the senses; by the blunt material senses; by the senses; for sense gratification; with the senses.}}
+---json
+{
+    "name":"indriyaiḥ",
+    "h1":"indriyaiḥ",
+    "title":"indriyaiḥ",
+    "description":"and the senses; by the blunt material senses; by the senses; for sense gratification; with the senses."
+}
+---
 
 ==== indriyaiḥ  ====
   * and the senses --- [[books:sb:2:2:22|SB 2.2.22]]

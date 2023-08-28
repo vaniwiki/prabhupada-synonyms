@@ -1,5 +1,11 @@
-~~Title:kālyamānaḥ~~
-{{description>being carried off.}}
+---json
+{
+    "name":"kālyamānaḥ",
+    "h1":"kālyamānaḥ",
+    "title":"kālyamānaḥ",
+    "description":"being carried off."
+}
+---
 
 ==== kālyamānaḥ  ====
   * being carried off --- [[books:sb:3:30:1|SB 3.30.1]]

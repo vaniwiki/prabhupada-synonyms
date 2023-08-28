@@ -1,5 +1,11 @@
-~~Title:bhūme~~
-{{description>on the earth; on the ground.}}
+---json
+{
+    "name":"bhūme",
+    "h1":"bhūme",
+    "title":"bhūme",
+    "description":"on the earth; on the ground."
+}
+---
 
 ==== bhūme  ====
   * on the earth --- [[books:cc:adi:13:94|Ādi 13.94]]

@@ -1,5 +1,11 @@
-~~Title:surucyāḥ~~
-{{description>of Queen Suruci.}}
+---json
+{
+    "name":"surucyāḥ",
+    "h1":"surucyāḥ",
+    "title":"surucyāḥ",
+    "description":"of Queen Suruci."
+}
+---
 
 ==== surucyāḥ  ====
   * of Queen Suruci --- [[books:sb:4:8:36|SB 4.8.36]]

@@ -1,5 +1,11 @@
-~~Title:duhyanti~~
-{{description>allow milking; take advantage of.}}
+---json
+{
+    "name":"duhyanti",
+    "h1":"duhyanti",
+    "title":"duhyanti",
+    "description":"allow milking; take advantage of."
+}
+---
 
 ==== duhyanti  ====
   * allow milking --- [[books:sb:1:14:19|SB 1.14.19]]

@@ -1,5 +1,11 @@
-~~Title:eṇa~~
-{{description>deer.}}
+---json
+{
+    "name":"eṇa",
+    "h1":"eṇa",
+    "title":"eṇa",
+    "description":"deer."
+}
+---
 
 ==== eṇa  ====
   * deer --- [[books:cc:madhya:17:1|Madhya 17.1]]

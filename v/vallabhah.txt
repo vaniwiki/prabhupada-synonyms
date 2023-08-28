@@ -1,5 +1,11 @@
-~~Title:vallabhah~~
-{{description>extremely dear.}}
+---json
+{
+    "name":"vallabhah",
+    "h1":"vallabhah",
+    "title":"vallabhah",
+    "description":"extremely dear."
+}
+---
 
 ==== ati-vallabhāḥ  ====
   * extremely dear --- [[books:sb:9:9:43|SB 9.9.43]]

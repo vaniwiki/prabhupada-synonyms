@@ -1,5 +1,11 @@
-~~Title:neminā~~
-{{description>rim.}}
+---json
+{
+    "name":"neminā",
+    "h1":"neminā",
+    "title":"neminā",
+    "description":"rim."
+}
+---
 
 ==== neminā  ====
   * rim --- [[books:sb:3:19:14|SB 3.19.14]]

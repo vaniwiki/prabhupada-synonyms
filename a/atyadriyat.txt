@@ -1,5 +1,11 @@
-~~Title:atyādriyat~~
-{{description>attached.}}
+---json
+{
+    "name":"atyādriyat",
+    "h1":"atyādriyat",
+    "title":"atyādriyat",
+    "description":"attached."
+}
+---
 
 ==== atyādriyat  ====
   * attached --- [[books:sb:3:16:21|SB 3.16.21]]

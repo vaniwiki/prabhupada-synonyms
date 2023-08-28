@@ -1,5 +1,11 @@
-~~Title:vāṅṭiyā~~
-{{description>distributing.}}
+---json
+{
+    "name":"vāṅṭiyā",
+    "h1":"vāṅṭiyā",
+    "title":"vāṅṭiyā",
+    "description":"distributing."
+}
+---
 
 ==== vāṅṭiyā  ====
   * distributing --- [[books:cc:madhya:4:207|Madhya 4.207]]

@@ -1,5 +1,11 @@
-~~Title:aśoka~~
-{{description>aśoka; aśoka flowers; aśoka trees.}}
+---json
+{
+    "name":"aśoka",
+    "h1":"aśoka",
+    "title":"aśoka",
+    "description":"aśoka; aśoka flowers; aśoka trees."
+}
+---
 
 ==== aśoka  ====
   * //aśoka// --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

@@ -1,5 +1,11 @@
-~~Title:bṛhadvane~~
-{{description>in Bṛhadvana; in the place known as Bṛhadvana.}}
+---json
+{
+    "name":"bṛhadvane",
+    "h1":"bṛhadvane",
+    "title":"bṛhadvane",
+    "description":"in Bṛhadvana; in the place known as Bṛhadvana."
+}
+---
 
 ==== bṛhadvane  ====
   * in Bṛhadvana --- [[books:sb:10:7:33|SB 10.7.33]]

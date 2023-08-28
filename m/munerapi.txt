@@ -1,5 +1,11 @@
-~~Title:munerapi~~
-{{description>even of a great sage.}}
+---json
+{
+    "name":"munerapi",
+    "h1":"munerapi",
+    "title":"munerapi",
+    "description":"even of a great sage."
+}
+---
 
 ==== munerapi  ====
   * even of a great sage --- [[books:cc:antya:2:118|Antya 2.118]]

@@ -1,5 +1,11 @@
-~~Title:acyutānanda~~
-{{description>Acyutānanda; of the name Acyutānanda; the son of Advaita Ācārya.}}
+---json
+{
+    "name":"acyutānanda",
+    "h1":"acyutānanda",
+    "title":"acyutānanda",
+    "description":"Acyutānanda; of the name Acyutānanda; the son of Advaita Ācārya."
+}
+---
 
 ==== acyutānanda  ====
   * Acyutānanda --- [[books:cc:antya:10:60|Antya 10.60]]

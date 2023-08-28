@@ -1,5 +1,11 @@
-~~Title:viśeṣāya~~
-{{description>diversity.}}
+---json
+{
+    "name":"viśeṣāya",
+    "h1":"viśeṣāya",
+    "title":"viśeṣāya",
+    "description":"diversity."
+}
+---
 
 ==== viśeṣāya  ====
   * diversity --- [[books:sb:4:24:39|SB 4.24.39]]

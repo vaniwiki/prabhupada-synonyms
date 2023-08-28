@@ -1,5 +1,11 @@
-~~Title:yāṅre~~
-{{description>in whomever; the person whom; to whom; unto which person; unto whom; upon whom; who; whom.}}
+---json
+{
+    "name":"yāṅre",
+    "h1":"yāṅre",
+    "title":"yāṅre",
+    "description":"in whomever; the person whom; to whom; unto which person; unto whom; upon whom; who; whom."
+}
+---
 
 ==== yāṅre  ====
   * in whomever --- [[books:cc:madhya:11:117|Madhya 11.117]]

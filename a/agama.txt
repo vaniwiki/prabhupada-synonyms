@@ -1,5 +1,11 @@
-~~Title:āgama~~
-{{description>appearing; of the Vedas; other transcendental literatures; the tantra-śāstras; Vedic principles; with the expectation; works of Vedic literature.}}
+---json
+{
+    "name":"āgama",
+    "h1":"āgama",
+    "title":"āgama",
+    "description":"appearing; of the Vedas; other transcendental literatures; the tantra-śāstras; Vedic principles; with the expectation; works of Vedic literature."
+}
+---
 
 ==== āgama  ====
   * appearing --- [[books:bg:2:14|Bg. 2.14]]

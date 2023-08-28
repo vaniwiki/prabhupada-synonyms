@@ -1,5 +1,11 @@
-~~Title:tapasvinī~~
-{{description>ascetic; austere; very strict in executing devotional service.}}
+---json
+{
+    "name":"tapasvinī",
+    "h1":"tapasvinī",
+    "title":"tapasvinī",
+    "description":"ascetic; austere; very strict in executing devotional service."
+}
+---
 
 ==== tapasvinī  ====
   * ascetic --- [[books:sb:1:13:39|SB 1.13.39]]

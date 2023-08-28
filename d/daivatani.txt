@@ -1,5 +1,11 @@
-~~Title:daivatāni~~
-{{description>the Deities in the temples.}}
+---json
+{
+    "name":"daivatāni",
+    "h1":"daivatāni",
+    "title":"daivatāni",
+    "description":"the Deities in the temples."
+}
+---
 
 ==== daivatāni  ====
   * the Deities in the temples --- [[books:sb:1:14:20|SB 1.14.20]]

@@ -1,5 +1,11 @@
-~~Title:bhūṣaṇaiḥ~~
-{{description>whose bodies beautified their ornaments.}}
+---json
+{
+    "name":"bhūṣaṇaiḥ",
+    "h1":"bhūṣaṇaiḥ",
+    "title":"bhūṣaṇaiḥ",
+    "description":"whose bodies beautified their ornaments."
+}
+---
 
 ==== bhūṣaṇa-bhūṣaṇaiḥ  ====
   * whose bodies beautified their ornaments --- [[books:sb:9:11:31-34|SB 9.11.31-34]]

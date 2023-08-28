@@ -1,5 +1,11 @@
-~~Title:anenasaḥ~~
-{{description>of Anenā.}}
+---json
+{
+    "name":"anenasaḥ",
+    "h1":"anenasaḥ",
+    "title":"anenasaḥ",
+    "description":"of Anenā."
+}
+---
 
 ==== anenasaḥ  ====
   * of Anenā --- [[books:sb:9:17:11|SB 9.17.11]]

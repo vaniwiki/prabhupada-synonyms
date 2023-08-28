@@ -1,5 +1,11 @@
-~~Title:dīvyati~~
-{{description>illuminated.}}
+---json
+{
+    "name":"dīvyati",
+    "h1":"dīvyati",
+    "title":"dīvyati",
+    "description":"illuminated."
+}
+---
 
 ==== dīvyati  ====
   * illuminated --- [[books:cc:adi:17:4|Ādi 17.4]]

@@ -1,5 +1,11 @@
-~~Title:vijānīhi~~
-{{description>kindly explain; please explain.}}
+---json
+{
+    "name":"vijānīhi",
+    "h1":"vijānīhi",
+    "title":"vijānīhi",
+    "description":"kindly explain; please explain."
+}
+---
 
 ==== vijānīhi  ====
   * kindly explain --- [[books:sb:2:5:8|SB 2.5.8]]

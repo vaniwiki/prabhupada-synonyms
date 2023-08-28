@@ -1,5 +1,11 @@
-~~Title:alam~~
-{{description>able; abundantly; away; beyond value; by and by; capable; certainly; clearly; competent; enough; entirely; exceedingly; extensively; extraordinarily; fit; for nothing; greatly; however; I am able; indeed; insignificant; never mind; not more than that; of course; of no importance; only; so much; suck my breast no longer; sufficient; sufficiently; there is nothing to be gained; unnecessary; verily; very; what need; what to speak of; without delay; without further delay; without hesitation.}}
+---json
+{
+    "name":"alam",
+    "h1":"alam",
+    "title":"alam",
+    "description":"able; abundantly; away; beyond value; by and by; capable; certainly; clearly; competent; enough; entirely; exceedingly; extensively; extraordinarily; fit; for nothing; greatly; however; I am able; indeed; insignificant; never mind; not more than that; of course; of no importance; only; so much; suck my breast no longer; sufficient; sufficiently; there is nothing to be gained; unnecessary; verily; very; what need; what to speak of; without delay; without further delay; without hesitation."
+}
+---
 
 ==== alam  ====
   * able --- [[books:sb:1:19:30|SB 1.19.30]], [[books:sb:4:25:42|SB 4.25.42]], [[books:sb:5:10:1|SB 5.10.1]]

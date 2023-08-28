@@ -1,5 +1,11 @@
-~~Title:kavyam~~
-{{description>offerings of food to ancestors.}}
+---json
+{
+    "name":"kavyam",
+    "h1":"kavyam",
+    "title":"kavyam",
+    "description":"offerings of food to ancestors."
+}
+---
 
 ==== kavyam  ====
   * offerings of food to ancestors --- [[books:sb:4:18:18|SB 4.18.18]]

@@ -1,5 +1,11 @@
-~~Title:aguru~~
-{{description>a kind of fragrant herb; of aloe; the aguru flavor.}}
+---json
+{
+    "name":"aguru",
+    "h1":"aguru",
+    "title":"aguru",
+    "description":"a kind of fragrant herb; of aloe; the aguru flavor."
+}
+---
 
 ==== aguru  ====
   * a kind of fragrant herb --- [[books:sb:4:21:2|SB 4.21.2]]

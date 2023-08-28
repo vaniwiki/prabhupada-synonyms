@@ -1,5 +1,11 @@
-~~Title:arcayet~~
-{{description>may worship; must worship; one should worship; worship.}}
+---json
+{
+    "name":"arcayet",
+    "h1":"arcayet",
+    "title":"arcayet",
+    "description":"may worship; must worship; one should worship; worship."
+}
+---
 
 ==== arcayet  ====
   * may worship --- [[books:sb:3:29:9|SB 3.29.9]]

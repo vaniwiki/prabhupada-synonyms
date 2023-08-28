@@ -1,5 +1,11 @@
-~~Title:akuśalam~~
-{{description>inauspicious; inauspiciousness.}}
+---json
+{
+    "name":"akuśalam",
+    "h1":"akuśalam",
+    "title":"akuśalam",
+    "description":"inauspicious; inauspiciousness."
+}
+---
 
 ==== akuśalam  ====
   * inauspicious --- [[books:bg:18:10|Bg. 18.10]], [[books:sb:6:9:35|SB 6.9.35]]

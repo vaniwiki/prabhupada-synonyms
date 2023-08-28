@@ -1,5 +1,11 @@
-~~Title:pratigraha~~
-{{description>acceptance of alms; acceptance of gifts.}}
+---json
+{
+    "name":"pratigraha",
+    "h1":"pratigraha",
+    "title":"pratigraha",
+    "description":"acceptance of alms; acceptance of gifts."
+}
+---
 
 ==== pratigraha  ====
   * acceptance of alms --- [[books:cc:adi:12:50|Ādi 12.50]]

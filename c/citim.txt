@@ -1,5 +1,11 @@
-~~Title:citim~~
-{{description>funeral pyre.}}
+---json
+{
+    "name":"citim",
+    "h1":"citim",
+    "title":"citim",
+    "description":"funeral pyre."
+}
+---
 
 ==== citim  ====
   * funeral pyre --- [[books:sb:4:28:50|SB 4.28.50]]

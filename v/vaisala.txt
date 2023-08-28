@@ -1,5 +1,11 @@
-~~Title:vaiśāla~~
-{{description>the kings in the dynasty of Vaiśāla.}}
+---json
+{
+    "name":"vaiśāla",
+    "h1":"vaiśāla",
+    "title":"vaiśāla",
+    "description":"the kings in the dynasty of Vaiśāla."
+}
+---
 
 ==== vaiśāla-bhūpālāḥ  ====
   * the kings in the dynasty of Vaiśāla --- [[books:sb:9:2:35-36|SB 9.2.35-36]]

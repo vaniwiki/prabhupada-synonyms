@@ -1,5 +1,11 @@
-~~Title:dharmaketuḥ~~
-{{description>Dharmaketu.}}
+---json
+{
+    "name":"dharmaketuḥ",
+    "h1":"dharmaketuḥ",
+    "title":"dharmaketuḥ",
+    "description":"Dharmaketu."
+}
+---
 
 ==== dharmaketuḥ  ====
   * Dharmaketu --- [[books:sb:9:17:8|SB 9.17.8]]

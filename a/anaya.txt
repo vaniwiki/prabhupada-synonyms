@@ -1,5 +1,11 @@
-~~Title:anaya~~
-{{description>by Her; by this; by this one (Rādhā); by this one; this; this planet earth; with her; with this.}}
+---json
+{
+    "name":"anaya",
+    "h1":"anaya",
+    "title":"anaya",
+    "description":"by Her; by this; by this one (Rādhā); by this one; this; this planet earth; with her; with this."
+}
+---
 
 ==== anayā  ====
   * by Her --- [[books:cc:madhya:8:100|Madhya 8.100]]

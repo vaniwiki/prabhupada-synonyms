@@ -1,5 +1,11 @@
-~~Title:mantrera~~
-{{description>of the mantra.}}
+---json
+{
+    "name":"mantrera",
+    "h1":"mantrera",
+    "title":"mantrera",
+    "description":"of the mantra."
+}
+---
 
 ==== mantrera  ====
   * of the //mantra// --- [[books:cc:adi:17:212|Ādi 17.212]]

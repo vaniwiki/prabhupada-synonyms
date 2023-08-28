@@ -1,5 +1,11 @@
-~~Title:ujhāli'~~
-{{description>releasing.}}
+---json
+{
+    "name":"ujhāli'",
+    "h1":"ujhāli'",
+    "title":"ujhāli'",
+    "description":"releasing."
+}
+---
 
 ==== ujhāli'  ====
   * releasing --- [[books:cc:madhya:3:94|Madhya 3.94]]

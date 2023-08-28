@@ -1,5 +1,11 @@
-~~Title:cāmtāpure~~
-{{description>to Cāmtāpura.}}
+---json
+{
+    "name":"cāmtāpure",
+    "h1":"cāmtāpure",
+    "title":"cāmtāpure",
+    "description":"to Cāmtāpura."
+}
+---
 
 ==== cāmtāpure  ====
   * to Cāmtāpura --- [[books:cc:madhya:9:222|Madhya 9.222]]

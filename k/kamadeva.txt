@@ -1,5 +1,11 @@
-~~Title:kāmadeva~~
-{{description>of the name Kāmadeva.}}
+---json
+{
+    "name":"kāmadeva",
+    "h1":"kāmadeva",
+    "title":"kāmadeva",
+    "description":"of the name Kāmadeva."
+}
+---
 
 ==== kāmadeva  ====
   * of the name Kāmadeva --- [[books:cc:adi:12:59|Ādi 12.59]]

@@ -1,5 +1,11 @@
-~~Title:āriṭe~~
-{{description>in the village known as Āriṭ-grāma.}}
+---json
+{
+    "name":"āriṭe",
+    "h1":"āriṭe",
+    "title":"āriṭe",
+    "description":"in the village known as Āriṭ-grāma."
+}
+---
 
 ==== āriṭe  ====
   * in the village known as Āriṭ-grāma --- [[books:cc:madhya:18:4|Madhya 18.4]]

@@ -1,5 +1,11 @@
-~~Title:ārṣabhasya~~
-{{description>of the son of Ṛṣabhadeva.}}
+---json
+{
+    "name":"ārṣabhasya",
+    "h1":"ārṣabhasya",
+    "title":"ārṣabhasya",
+    "description":"of the son of Ṛṣabhadeva."
+}
+---
 
 ==== ārṣabhasya  ====
   * of the son of Ṛṣabhadeva --- [[books:sb:5:14:42|SB 5.14.42]]

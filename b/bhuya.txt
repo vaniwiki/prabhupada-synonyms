@@ -1,5 +1,11 @@
-~~Title:bhūya~~
-{{description>coming together with their spouses; embracing; engaging in sex life; having sex life.}}
+---json
+{
+    "name":"bhūya",
+    "h1":"bhūya",
+    "title":"bhūya",
+    "description":"coming together with their spouses; embracing; engaging in sex life; having sex life."
+}
+---
 
 ==== mithunī-bhūya  ====
   * coming together with their spouses --- [[books:sb:3:20:46|SB 3.20.46]]

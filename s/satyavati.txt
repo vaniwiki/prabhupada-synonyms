@@ -1,5 +1,11 @@
-~~Title:satyavatī~~
-{{description>Satyavatī (the mother of both Vicitravīrya and Vyāsadeva); Satyavatī, the wife of Ṛcīka.}}
+---json
+{
+    "name":"satyavatī",
+    "h1":"satyavatī",
+    "title":"satyavatī",
+    "description":"Satyavatī (the mother of both Vicitravīrya and Vyāsadeva); Satyavatī, the wife of Ṛcīka."
+}
+---
 
 ==== satyavatī  ====
   * Satyavatī (the mother of both Vicitravīrya and Vyāsadeva) --- [[books:sb:3:5:20|SB 3.5.20]]

@@ -1,5 +1,11 @@
-~~Title:sahodara~~
-{{description>own brothers.}}
+---json
+{
+    "name":"sahodara",
+    "h1":"sahodara",
+    "title":"sahodara",
+    "description":"own brothers."
+}
+---
 
 ==== sahodara  ====
   * own brothers --- [[books:cc:adi:10:9|Ādi 10.9]]

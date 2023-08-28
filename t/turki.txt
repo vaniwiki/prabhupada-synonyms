@@ -1,5 +1,11 @@
-~~Title:turkī~~
-{{description>two hundred Turks.}}
+---json
+{
+    "name":"turkī",
+    "h1":"turkī",
+    "title":"turkī",
+    "description":"two hundred Turks."
+}
+---
 
 ==== dui-śata turkī  ====
   * two hundred Turks --- [[books:cc:madhya:18:173|Madhya 18.173]]

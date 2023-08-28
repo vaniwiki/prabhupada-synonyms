@@ -1,5 +1,11 @@
-~~Title:utsavah~~
-{{description>very pleased by seeing them.}}
+---json
+{
+    "name":"utsavah",
+    "h1":"utsavah",
+    "title":"utsavah",
+    "description":"very pleased by seeing them."
+}
+---
 
 ==== darśana-utsavaḥ  ====
   * very pleased by seeing them --- [[books:sb:6:2:22|SB 6.2.22]]

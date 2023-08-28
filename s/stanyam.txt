@@ -1,5 +1,11 @@
-~~Title:stanyam~~
-{{description>the milk from the udder.}}
+---json
+{
+    "name":"stanyam",
+    "h1":"stanyam",
+    "title":"stanyam",
+    "description":"the milk from the udder."
+}
+---
 
 ==== stanyam  ====
   * the milk from the udder --- [[books:sb:6:11:26|SB 6.11.26]]

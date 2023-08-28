@@ -1,5 +1,11 @@
-~~Title:vikramasya~~
-{{description>whose power is immeasurable.}}
+---json
+{
+    "name":"vikramasya",
+    "h1":"vikramasya",
+    "title":"vikramasya",
+    "description":"whose power is immeasurable."
+}
+---
 
 ==== animita-vikramasya  ====
   * whose power is immeasurable --- [[books:sb:5:25:12|SB 5.25.12]]

@@ -1,5 +1,11 @@
-~~Title:pratyaha~~
-{{description>daily.}}
+---json
+{
+    "name":"pratyaha",
+    "h1":"pratyaha",
+    "title":"pratyaha",
+    "description":"daily."
+}
+---
 
 ==== pratyaha  ====
   * daily --- [[books:cc:madhya:4:167|Madhya 4.167]], [[books:cc:madhya:4:168|Madhya 4.168]]

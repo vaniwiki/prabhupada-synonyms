@@ -1,5 +1,11 @@
-~~Title:prakoṣṭhe~~
-{{description>in the end of the right hand.}}
+---json
+{
+    "name":"prakoṣṭhe",
+    "h1":"prakoṣṭhe",
+    "title":"prakoṣṭhe",
+    "description":"in the end of the right hand."
+}
+---
 
 ==== prakoṣṭhe  ====
   * in the end of the right hand --- [[books:sb:4:6:38|SB 4.6.38]]

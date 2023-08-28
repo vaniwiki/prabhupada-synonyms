@@ -1,5 +1,11 @@
-~~Title:śicā~~
-{{description>by a net.}}
+---json
+{
+    "name":"śicā",
+    "h1":"śicā",
+    "title":"śicā",
+    "description":"by a net."
+}
+---
 
 ==== śicā  ====
   * by a net --- [[books:sb:6:12:8|SB 6.12.8]]

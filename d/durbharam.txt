@@ -1,5 +1,11 @@
-~~Title:durbharam~~
-{{description>unbearable.}}
+---json
+{
+    "name":"durbharam",
+    "h1":"durbharam",
+    "title":"durbharam",
+    "description":"unbearable."
+}
+---
 
 ==== durbharam  ====
   * unbearable --- [[books:sb:4:13:43|SB 4.13.43]]

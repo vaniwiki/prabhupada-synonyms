@@ -1,5 +1,11 @@
-~~Title:sabāte~~
-{{description>among all; among all of them; in every one of them.}}
+---json
+{
+    "name":"sabāte",
+    "h1":"sabāte",
+    "title":"sabāte",
+    "description":"among all; among all of them; in every one of them."
+}
+---
 
 ==== sabāte  ====
   * among all --- [[books:cc:adi:6:48|Ādi 6.48]]

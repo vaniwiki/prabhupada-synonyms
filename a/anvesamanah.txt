@@ -1,5 +1,11 @@
-~~Title:anvesamanah~~
-{{description>searching after.}}
+---json
+{
+    "name":"anvesamanah",
+    "h1":"anvesamanah",
+    "title":"anvesamanah",
+    "description":"searching after."
+}
+---
 
 ==== anveṣamāṇaḥ  ====
   * searching after --- [[books:sb:4:25:11|SB 4.25.11]]

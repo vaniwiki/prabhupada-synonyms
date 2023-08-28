@@ -1,5 +1,11 @@
-~~Title:atharvaṇe~~
-{{description>to Atharvā.}}
+---json
+{
+    "name":"atharvaṇe",
+    "h1":"atharvaṇe",
+    "title":"atharvaṇe",
+    "description":"to Atharvā."
+}
+---
 
 ==== atharvaṇe  ====
   * to Atharvā --- [[books:sb:3:24:24|SB 3.24.24]]

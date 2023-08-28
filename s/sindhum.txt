@@ -1,5 +1,11 @@
-~~Title:sindhum~~
-{{description>the ocean of milk; the sea.}}
+---json
+{
+    "name":"sindhum",
+    "h1":"sindhum",
+    "title":"sindhum",
+    "description":"the ocean of milk; the sea."
+}
+---
 
 ==== sindhum  ====
   * the ocean of milk --- [[books:sb:8:8:1|SB 8.8.1]]

@@ -1,5 +1,11 @@
-~~Title:bhaktena~~
-{{description>by the devotee (Prahlāda Mahārāja).}}
+---json
+{
+    "name":"bhaktena",
+    "h1":"bhaktena",
+    "title":"bhaktena",
+    "description":"by the devotee (Prahlāda Mahārāja)."
+}
+---
 
 ==== bhaktena  ====
   * by the devotee (Prahlāda Mahārāja) --- [[books:sb:7:9:51|SB 7.9.51]]

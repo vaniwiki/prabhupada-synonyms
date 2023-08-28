@@ -1,5 +1,11 @@
-~~Title:caityam~~
-{{description>mental condition; the source of the ego.}}
+---json
+{
+    "name":"caityam",
+    "h1":"caityam",
+    "title":"caityam",
+    "description":"mental condition; the source of the ego."
+}
+---
 
 ==== caityam  ====
   * mental condition --- [[books:sb:3:21:23|SB 3.21.23]]

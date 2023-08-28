@@ -1,5 +1,11 @@
-~~Title:arca~~
-{{description>of worship of the Deity; the Deity is worshiped; the Deity worship (in the temple).}}
+---json
+{
+    "name":"arca",
+    "h1":"arca",
+    "title":"arca",
+    "description":"of worship of the Deity; the Deity is worshiped; the Deity worship (in the temple)."
+}
+---
 
 ==== arcā  ====
   * of worship of the Deity --- [[books:sb:3:29:21|SB 3.29.21]]

@@ -1,5 +1,11 @@
-~~Title:vasiba~~
-{{description>where shall We sit down.}}
+---json
+{
+    "name":"vasiba",
+    "h1":"vasiba",
+    "title":"vasiba",
+    "description":"where shall We sit down."
+}
+---
 
 ==== kon sthāne vasiba  ====
   * where shall We sit down --- [[books:cc:madhya:3:68|Madhya 3.68]]

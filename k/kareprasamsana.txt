@@ -1,5 +1,11 @@
-~~Title:karepraśaṁsana~~
-{{description>praise.}}
+---json
+{
+    "name":"karepraśaṁsana",
+    "h1":"karepraśaṁsana",
+    "title":"karepraśaṁsana",
+    "description":"praise."
+}
+---
 
 ==== karepraśaṁsana  ====
   * praise --- [[books:cc:antya:7:31|Antya 7.31]]

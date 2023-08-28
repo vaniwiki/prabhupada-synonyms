@@ -1,5 +1,11 @@
-~~Title:kailāsam~~
-{{description>Kailāsa.}}
+---json
+{
+    "name":"kailāsam",
+    "h1":"kailāsam",
+    "title":"kailāsam",
+    "description":"Kailāsa."
+}
+---
 
 ==== kailāsam  ====
   * Kailāsa --- [[books:sb:4:6:8|SB 4.6.8]]

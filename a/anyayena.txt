@@ -1,5 +1,11 @@
-~~Title:anyāyena~~
-{{description>illegally.}}
+---json
+{
+    "name":"anyāyena",
+    "h1":"anyāyena",
+    "title":"anyāyena",
+    "description":"illegally."
+}
+---
 
 ==== anyāyena  ====
   * illegally --- [[books:bg:16:11-12|Bg. 16.11-12]]

@@ -1,5 +1,11 @@
-~~Title:sṛjāmi~~
-{{description>create; do create; do I discover; I create; manifest.}}
+---json
+{
+    "name":"sṛjāmi",
+    "h1":"sṛjāmi",
+    "title":"sṛjāmi",
+    "description":"create; do create; do I discover; I create; manifest."
+}
+---
 
 ==== sṛjāmi  ====
   * create --- [[books:cc:madhya:20:318|Madhya 20.318]], [[books:cc:madhya:21:37|Madhya 21.37]]

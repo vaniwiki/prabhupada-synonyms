@@ -1,5 +1,11 @@
-~~Title:ajire~~
-{{description>in the courtyard of Bhārata-varṣa.}}
+---json
+{
+    "name":"ajire",
+    "h1":"ajire",
+    "title":"ajire",
+    "description":"in the courtyard of Bhārata-varṣa."
+}
+---
 
 ==== bhārata-ajire  ====
   * in the courtyard of Bhārata-varṣa --- [[books:sb:5:19:21|SB 5.19.21]]

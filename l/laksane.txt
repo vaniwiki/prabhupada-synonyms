@@ -1,5 +1,11 @@
-~~Title:lakṣaṇe~~
-{{description>by characteristics.}}
+---json
+{
+    "name":"lakṣaṇe",
+    "h1":"lakṣaṇe",
+    "title":"lakṣaṇe",
+    "description":"by characteristics."
+}
+---
 
 ==== lakṣaṇe  ====
   * by characteristics --- [[books:cc:madhya:18:126|Madhya 18.126]]

@@ -1,5 +1,11 @@
-~~Title:yadavah~~
-{{description>the descendants of Yadu; the members of the Yadu family; the Yadu dynasty.}}
+---json
+{
+    "name":"yadavah",
+    "h1":"yadavah",
+    "title":"yadavah",
+    "description":"the descendants of Yadu; the members of the Yadu family; the Yadu dynasty."
+}
+---
 
 ==== yadavaḥ  ====
   * the descendants of Yadu --- [[books:sb:1:13:11|SB 1.13.11]]

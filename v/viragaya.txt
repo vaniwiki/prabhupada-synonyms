@@ -1,5 +1,11 @@
-~~Title:virāgāya~~
-{{description>for detachment.}}
+---json
+{
+    "name":"virāgāya",
+    "h1":"virāgāya",
+    "title":"virāgāya",
+    "description":"for detachment."
+}
+---
 
 ==== virāgāya  ====
   * for detachment --- [[books:sb:3:23:56|SB 3.23.56]]

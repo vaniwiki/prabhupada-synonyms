@@ -1,5 +1,11 @@
-~~Title:mṛjaḥ~~
-{{description>loosening of the hair.}}
+---json
+{
+    "name":"mṛjaḥ",
+    "h1":"mṛjaḥ",
+    "title":"mṛjaḥ",
+    "description":"loosening of the hair."
+}
+---
 
 ==== veṇī-mṛjaḥ  ====
   * loosening of the hair --- [[books:cc:madhya:2:74|Madhya 2.74]]

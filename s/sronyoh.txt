@@ -1,5 +1,11 @@
-~~Title:śroṇyoḥ~~
-{{description>loins; on the hips.}}
+---json
+{
+    "name":"śroṇyoḥ",
+    "h1":"śroṇyoḥ",
+    "title":"śroṇyoḥ",
+    "description":"loins; on the hips."
+}
+---
 
 ==== śroṇyoḥ  ====
   * loins --- [[books:sb:5:23:6|SB 5.23.6]]

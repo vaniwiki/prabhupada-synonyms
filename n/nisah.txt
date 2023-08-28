@@ -1,5 +1,11 @@
-~~Title:niśāḥ~~
-{{description>nights.}}
+---json
+{
+    "name":"niśāḥ",
+    "h1":"niśāḥ",
+    "title":"niśāḥ",
+    "description":"nights."
+}
+---
 
 ==== niśāḥ  ====
   * nights --- [[books:cc:madhya:14:158|Madhya 14.158]]

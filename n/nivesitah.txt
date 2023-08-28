@@ -1,5 +1,11 @@
-~~Title:niveśitaḥ~~
-{{description>being absorbed; caused to enter; situated.}}
+---json
+{
+    "name":"niveśitaḥ",
+    "h1":"niveśitaḥ",
+    "title":"niveśitaḥ",
+    "description":"being absorbed; caused to enter; situated."
+}
+---
 
 ==== niveśitaḥ  ====
   * being absorbed --- [[books:sb:5:13:19|SB 5.13.19]]

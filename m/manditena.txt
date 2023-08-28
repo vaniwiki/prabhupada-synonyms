@@ -1,5 +1,11 @@
-~~Title:maṇḍitena~~
-{{description>decorated with.}}
+---json
+{
+    "name":"maṇḍitena",
+    "h1":"maṇḍitena",
+    "title":"maṇḍitena",
+    "description":"decorated with."
+}
+---
 
 ==== maṇḍitena  ====
   * decorated with --- [[books:sb:3:8:27|SB 3.8.27]]

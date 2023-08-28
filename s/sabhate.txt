@@ -1,5 +1,11 @@
-~~Title:sabhāte~~
-{{description>among all of them; in the assembly; in the assembly room; in the meeting; in the presence of all the devotees.}}
+---json
+{
+    "name":"sabhāte",
+    "h1":"sabhāte",
+    "title":"sabhāte",
+    "description":"among all of them; in the assembly; in the assembly room; in the meeting; in the presence of all the devotees."
+}
+---
 
 ==== sabhāte  ====
   * among all of them --- [[books:cc:adi:1:79-80|Ādi 1.79-80]]

@@ -1,5 +1,11 @@
-~~Title:lakṣaṇān~~
-{{description>symptoms.}}
+---json
+{
+    "name":"lakṣaṇān",
+    "h1":"lakṣaṇān",
+    "title":"lakṣaṇān",
+    "description":"symptoms."
+}
+---
 
 ==== lakṣaṇān  ====
   * symptoms --- [[books:sb:1:9:26|SB 1.9.26]]

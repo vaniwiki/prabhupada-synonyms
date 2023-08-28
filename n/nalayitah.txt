@@ -1,5 +1,11 @@
-~~Title:nālāyitaḥ~~
-{{description>the handle.}}
+---json
+{
+    "name":"nālāyitaḥ",
+    "h1":"nālāyitaḥ",
+    "title":"nālāyitaḥ",
+    "description":"the handle."
+}
+---
 
 ==== nālāyitaḥ  ====
   * the handle --- [[books:sb:7:5:17|SB 7.5.17]]

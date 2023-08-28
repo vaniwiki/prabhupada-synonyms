@@ -1,5 +1,11 @@
-~~Title:siksa~~
-{{description>education; enlightenment; in struction; instruction; instructions; instructive; lesson; teaching; the instruction.}}
+---json
+{
+    "name":"siksa",
+    "h1":"siksa",
+    "title":"siksa",
+    "description":"education; enlightenment; in struction; instruction; instructions; instructive; lesson; teaching; the instruction."
+}
+---
 
 ==== śikṣā  ====
   * education --- [[books:cc:adi:14:87|Ādi 14.87]], [[books:cc:adi:14:88|Ādi 14.88]]

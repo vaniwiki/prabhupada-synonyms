@@ -1,5 +1,11 @@
-~~Title:jane~~
-{{description>a person; in a person; person; persons; the persons; to the living beings; when all the people present there; while the people.}}
+---json
+{
+    "name":"jane",
+    "h1":"jane",
+    "title":"jane",
+    "description":"a person; in a person; person; persons; the persons; to the living beings; when all the people present there; while the people."
+}
+---
 
 ==== jane  ====
   * a person --- [[books:cc:madhya:8:97|Madhya 8.97]]

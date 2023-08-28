@@ -1,5 +1,11 @@
-~~Title:upavīta~~
-{{description>a sacred thread; sacred thread.}}
+---json
+{
+    "name":"upavīta",
+    "h1":"upavīta",
+    "title":"upavīta",
+    "description":"a sacred thread; sacred thread."
+}
+---
 
 ==== upavīta  ====
   * a sacred thread --- [[books:sb:6:19:7|SB 6.19.7]]

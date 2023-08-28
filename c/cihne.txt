@@ -1,5 +1,11 @@
-~~Title:cihne~~
-{{description>the mark of the whip.}}
+---json
+{
+    "name":"cihne",
+    "h1":"cihne",
+    "title":"cihne",
+    "description":"the mark of the whip."
+}
+---
 
 ==== māraṇera cihne  ====
   * the mark of the whip --- [[books:cc:madhya:25:190|Madhya 25.190]]

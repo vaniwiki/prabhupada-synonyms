@@ -1,5 +1,11 @@
-~~Title:viśleṣa~~
-{{description>because of separation; feelings of separation.}}
+---json
+{
+    "name":"viśleṣa",
+    "h1":"viśleṣa",
+    "title":"viśleṣa",
+    "description":"because of separation; feelings of separation."
+}
+---
 
 ==== viśleṣa  ====
   * because of separation --- [[books:sb:5:8:25|SB 5.8.25]]

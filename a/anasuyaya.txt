@@ -1,5 +1,11 @@
-~~Title:anasūyayā~~
-{{description>by Anasūyā; without envy.}}
+---json
+{
+    "name":"anasūyayā",
+    "h1":"anasūyayā",
+    "title":"anasūyayā",
+    "description":"by Anasūyā; without envy."
+}
+---
 
 ==== anasūyayā  ====
   * by Anasūyā --- [[books:sb:1:3:11|SB 1.3.11]]

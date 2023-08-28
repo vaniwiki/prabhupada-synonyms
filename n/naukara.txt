@@ -1,5 +1,11 @@
-~~Title:naukāra~~
-{{description>of the boat.}}
+---json
+{
+    "name":"naukāra",
+    "h1":"naukāra",
+    "title":"naukāra",
+    "description":"of the boat."
+}
+---
 
 ==== naukāra  ====
   * of the boat --- [[books:cc:madhya:19:80|Madhya 19.80]]

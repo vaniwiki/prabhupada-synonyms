@@ -1,5 +1,11 @@
-~~Title:vimāne~~
-{{description>airplane; on a carrier like an airship; on the airplane.}}
+---json
+{
+    "name":"vimāne",
+    "h1":"vimāne",
+    "title":"vimāne",
+    "description":"airplane; on a carrier like an airship; on the airplane."
+}
+---
 
 ==== vimāne  ====
   * airplane --- [[books:sb:3:23:45|SB 3.23.45]]

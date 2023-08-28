@@ -1,5 +1,11 @@
-~~Title:mādhurīra~~
-{{description>that sweetness.}}
+---json
+{
+    "name":"mādhurīra",
+    "h1":"mādhurīra",
+    "title":"mādhurīra",
+    "description":"that sweetness."
+}
+---
 
 ==== ye mādhurīra  ====
   * that sweetness --- [[books:cc:madhya:21:115|Madhya 21.115]]

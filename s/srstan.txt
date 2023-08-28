@@ -1,5 +1,11 @@
-~~Title:sṛṣṭān~~
-{{description>created.}}
+---json
+{
+    "name":"sṛṣṭān",
+    "h1":"sṛṣṭān",
+    "title":"sṛṣṭān",
+    "description":"created."
+}
+---
 
 ==== sṛṣṭān  ====
   * created --- [[books:sb:4:1:57|SB 4.1.57]]

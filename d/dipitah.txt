@@ -1,5 +1,11 @@
-~~Title:dīpitāḥ~~
-{{description>illuminating.}}
+---json
+{
+    "name":"dīpitāḥ",
+    "h1":"dīpitāḥ",
+    "title":"dīpitāḥ",
+    "description":"illuminating."
+}
+---
 
 ==== dīpitāḥ  ====
   * illuminating --- [[books:sb:3:17:14|SB 3.17.14]]

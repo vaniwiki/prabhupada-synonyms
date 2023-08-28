@@ -1,5 +1,11 @@
-~~Title:upahāse~~
-{{description>joking.}}
+---json
+{
+    "name":"upahāse",
+    "h1":"upahāse",
+    "title":"upahāse",
+    "description":"joking."
+}
+---
 
 ==== upahāse  ====
   * joking --- [[books:cc:madhya:9:94|Madhya 9.94]]

@@ -1,5 +1,11 @@
-~~Title:kukṣiḥ~~
-{{description>abdomen; the middle portion; waist.}}
+---json
+{
+    "name":"kukṣiḥ",
+    "h1":"kukṣiḥ",
+    "title":"kukṣiḥ",
+    "description":"abdomen; the middle portion; waist."
+}
+---
 
 ==== kukṣiḥ  ====
   * abdomen --- [[books:sb:8:7:28|SB 8.7.28]]

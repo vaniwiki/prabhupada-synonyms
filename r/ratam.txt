@@ -1,5 +1,11 @@
-~~Title:ratam~~
-{{description>attached.}}
+---json
+{
+    "name":"ratam",
+    "h1":"ratam",
+    "title":"ratam",
+    "description":"attached."
+}
+---
 
 ==== ratam  ====
   * attached --- [[books:sb:3:25:15|SB 3.25.15]]

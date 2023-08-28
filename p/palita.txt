@@ -1,5 +1,11 @@
-~~Title:palita~~
-{{description>grey hair.}}
+---json
+{
+    "name":"palita",
+    "h1":"palita",
+    "title":"palita",
+    "description":"grey hair."
+}
+---
 
 ==== palita  ====
   * grey hair --- [[books:sb:5:16:25|SB 5.16.25]], [[books:sb:5:24:13|SB 5.24.13]]

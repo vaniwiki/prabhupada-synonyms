@@ -1,5 +1,11 @@
-~~Title:śataśaḥ~~
-{{description>hundreds; hundreds of; hundreds upon hundreds; in hundreds; in the hundreds.}}
+---json
+{
+    "name":"śataśaḥ",
+    "h1":"śataśaḥ",
+    "title":"śataśaḥ",
+    "description":"hundreds; hundreds of; hundreds upon hundreds; in hundreds; in the hundreds."
+}
+---
 
 ==== śataśaḥ  ====
   * hundreds --- [[books:bg:11:5|Bg. 11.5]], [[books:sb:5:26:37|SB 5.26.37]]

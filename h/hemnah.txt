@@ -1,5 +1,11 @@
-~~Title:hemnaḥ~~
-{{description>of gold.}}
+---json
+{
+    "name":"hemnaḥ",
+    "h1":"hemnaḥ",
+    "title":"hemnaḥ",
+    "description":"of gold."
+}
+---
 
 ==== hemnaḥ  ====
   * of gold --- [[books:sb:8:12:33|SB 8.12.33]]

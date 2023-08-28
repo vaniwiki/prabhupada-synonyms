@@ -1,5 +1,11 @@
-~~Title:vikṛtibhiḥ~~
-{{description>and by partial performances.}}
+---json
+{
+    "name":"vikṛtibhiḥ",
+    "h1":"vikṛtibhiḥ",
+    "title":"vikṛtibhiḥ",
+    "description":"and by partial performances."
+}
+---
 
 ==== vikṛtibhiḥ  ====
   * and by partial performances --- [[books:sb:5:7:5|SB 5.7.5]]

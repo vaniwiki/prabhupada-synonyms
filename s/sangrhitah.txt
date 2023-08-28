@@ -1,5 +1,11 @@
-~~Title:saṅgṛhītaḥ~~
-{{description>achieved (by devotional service).}}
+---json
+{
+    "name":"saṅgṛhītaḥ",
+    "h1":"saṅgṛhītaḥ",
+    "title":"saṅgṛhītaḥ",
+    "description":"achieved (by devotional service)."
+}
+---
 
 ==== saṅgṛhītaḥ  ====
   * achieved (by devotional service) --- [[books:sb:9:5:15|SB 9.5.15]]

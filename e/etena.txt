@@ -1,5 +1,11 @@
-~~Title:etena~~
-{{description>by this (chanting); by this; by this estimation; by this kind; with this.}}
+---json
+{
+    "name":"etena",
+    "h1":"etena",
+    "title":"etena",
+    "description":"by this (chanting); by this; by this estimation; by this kind; with this."
+}
+---
 
 ==== etena  ====
   * by this (chanting) --- [[books:sb:6:2:8|SB 6.2.8]]

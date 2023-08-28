@@ -1,5 +1,11 @@
-~~Title:śulkena~~
-{{description>by payment of the price.}}
+---json
+{
+    "name":"śulkena",
+    "h1":"śulkena",
+    "title":"śulkena",
+    "description":"by payment of the price."
+}
+---
 
 ==== śulkena  ====
   * by payment of the price --- [[books:sb:1:10:29|SB 1.10.29]]

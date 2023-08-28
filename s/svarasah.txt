@@ -1,5 +1,11 @@
-~~Title:svarasaḥ~~
-{{description>Svarasa.}}
+---json
+{
+    "name":"svarasaḥ",
+    "h1":"svarasaḥ",
+    "title":"svarasaḥ",
+    "description":"Svarasa."
+}
+---
 
 ==== svarasaḥ  ====
   * Svarasa --- [[books:sb:5:20:10|SB 5.20.10]]

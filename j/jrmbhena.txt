@@ -1,5 +1,11 @@
-~~Title:jṛmbheṇa~~
-{{description>by the movement.}}
+---json
+{
+    "name":"jṛmbheṇa",
+    "h1":"jṛmbheṇa",
+    "title":"jṛmbheṇa",
+    "description":"by the movement."
+}
+---
 
 ==== jṛmbheṇa  ====
   * by the movement --- [[books:sb:3:31:38|SB 3.31.38]]

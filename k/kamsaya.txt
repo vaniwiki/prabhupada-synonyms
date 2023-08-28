@@ -1,5 +1,11 @@
-~~Title:kaṁsāya~~
-{{description>unto Kaṁsa; unto King Kaṁsa.}}
+---json
+{
+    "name":"kaṁsāya",
+    "h1":"kaṁsāya",
+    "title":"kaṁsāya",
+    "description":"unto Kaṁsa; unto King Kaṁsa."
+}
+---
 
 ==== kaṁsāya  ====
   * unto Kaṁsa --- [[books:sb:10:1:57|SB 10.1.57]]

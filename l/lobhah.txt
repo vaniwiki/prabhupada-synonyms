@@ -1,5 +1,11 @@
-~~Title:lobhaḥ~~
-{{description>avarice; greed; hankering.}}
+---json
+{
+    "name":"lobhaḥ",
+    "h1":"lobhaḥ",
+    "title":"lobhaḥ",
+    "description":"avarice; greed; hankering."
+}
+---
 
 ==== lobhaḥ  ====
   * avarice --- [[books:sb:3:9:6|SB 3.9.6]]

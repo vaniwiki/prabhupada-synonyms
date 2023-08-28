@@ -1,5 +1,11 @@
-~~Title:abhirūpaḥ~~
-{{description>equal.}}
+---json
+{
+    "name":"abhirūpaḥ",
+    "h1":"abhirūpaḥ",
+    "title":"abhirūpaḥ",
+    "description":"equal."
+}
+---
 
 ==== abhirūpaḥ  ====
   * equal --- [[books:sb:5:3:17|SB 5.3.17]]

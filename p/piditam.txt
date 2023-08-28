@@ -1,5 +1,11 @@
-~~Title:pīḍitam~~
-{{description>who was very aggrieved.}}
+---json
+{
+    "name":"pīḍitam",
+    "h1":"pīḍitam",
+    "title":"pīḍitam",
+    "description":"who was very aggrieved."
+}
+---
 
 ==== pīḍitam  ====
   * who was very aggrieved --- [[books:sb:8:3:33|SB 8.3.33]]

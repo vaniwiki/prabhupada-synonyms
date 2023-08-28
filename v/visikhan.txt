@@ -1,5 +1,11 @@
-~~Title:viśikhān~~
-{{description>arrows.}}
+---json
+{
+    "name":"viśikhān",
+    "h1":"viśikhān",
+    "title":"viśikhān",
+    "description":"arrows."
+}
+---
 
 ==== viśikhān  ====
   * arrows --- [[books:sb:9:6:15-16|SB 9.6.15-16]]

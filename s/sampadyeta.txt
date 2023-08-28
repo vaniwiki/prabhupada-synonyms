@@ -1,5 +1,11 @@
-~~Title:sampadyeta~~
-{{description>can be fulfilled.}}
+---json
+{
+    "name":"sampadyeta",
+    "h1":"sampadyeta",
+    "title":"sampadyeta",
+    "description":"can be fulfilled."
+}
+---
 
 ==== sampadyeta  ====
   * can be fulfilled --- [[books:sb:8:16:13|SB 8.16.13]]

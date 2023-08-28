@@ -1,5 +1,11 @@
-~~Title:avanijyamāna~~
-{{description>whose foot is always washed.}}
+---json
+{
+    "name":"avanijyamāna",
+    "h1":"avanijyamāna",
+    "title":"avanijyamāna",
+    "description":"whose foot is always washed."
+}
+---
 
 ==== avanijyamāna-aṅghriḥ  ====
   * whose foot is always washed --- [[books:sb:8:2:4|SB 8.2.4]]

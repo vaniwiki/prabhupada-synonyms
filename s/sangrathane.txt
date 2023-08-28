@@ -1,5 +1,11 @@
-~~Title:saṅgrathane~~
-{{description>in the sense of tying together words.}}
+---json
+{
+    "name":"saṅgrathane",
+    "h1":"saṅgrathane",
+    "title":"saṅgrathane",
+    "description":"in the sense of tying together words."
+}
+---
 
 ==== varṇa-saṅgrathane  ====
   * in the sense of tying together words --- [[books:cc:madhya:24:18|Madhya 24.18]]

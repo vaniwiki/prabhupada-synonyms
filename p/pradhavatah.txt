@@ -1,5 +1,11 @@
-~~Title:pradhāvataḥ~~
-{{description>fleeing.}}
+---json
+{
+    "name":"pradhāvataḥ",
+    "h1":"pradhāvataḥ",
+    "title":"pradhāvataḥ",
+    "description":"fleeing."
+}
+---
 
 ==== pradhāvataḥ  ====
   * fleeing --- [[books:sb:6:10:30|SB 6.10.30]]

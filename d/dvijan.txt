@@ -1,5 +1,11 @@
-~~Title:dvijān~~
-{{description>the birds.}}
+---json
+{
+    "name":"dvijān",
+    "h1":"dvijān",
+    "title":"dvijān",
+    "description":"the birds."
+}
+---
 
 ==== dvijān  ====
   * the birds --- [[books:sb:4:6:13|SB 4.6.13]]

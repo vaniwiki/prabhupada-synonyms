@@ -1,5 +1,11 @@
-~~Title:ābadhya~~
-{{description>binding.}}
+---json
+{
+    "name":"ābadhya",
+    "h1":"ābadhya",
+    "title":"ābadhya",
+    "description":"binding."
+}
+---
 
 ==== ābadhya  ====
   * binding --- [[books:sb:6:9:23|SB 6.9.23]]

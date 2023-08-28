@@ -1,5 +1,11 @@
-~~Title:svarṇārṇa~~
-{{description>golden colored.}}
+---json
+{
+    "name":"svarṇārṇa",
+    "h1":"svarṇārṇa",
+    "title":"svarṇārṇa",
+    "description":"golden colored."
+}
+---
 
 ==== svarṇārṇa  ====
   * golden colored --- [[books:sb:4:6:16|SB 4.6.16]]

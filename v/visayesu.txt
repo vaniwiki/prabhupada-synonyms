@@ -1,5 +1,11 @@
-~~Title:viṣayeṣu~~
-{{description>in material enjoyment; in material enjoyments; in sense enjoyment; in sex life, sense gratification; in the matter of sense gratification; to sense objects.}}
+---json
+{
+    "name":"viṣayeṣu",
+    "h1":"viṣayeṣu",
+    "title":"viṣayeṣu",
+    "description":"in material enjoyment; in material enjoyments; in sense enjoyment; in sex life, sense gratification; in the matter of sense gratification; to sense objects."
+}
+---
 
 ==== viṣayeṣu  ====
   * in material enjoyment --- [[books:sb:4:24:66|SB 4.24.66]]

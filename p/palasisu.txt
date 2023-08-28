@@ -1,5 +1,11 @@
-~~Title:palāśiṣu~~
-{{description>on the trees.}}
+---json
+{
+    "name":"palāśiṣu",
+    "h1":"palāśiṣu",
+    "title":"palāśiṣu",
+    "description":"on the trees."
+}
+---
 
 ==== palāśiṣu  ====
   * on the trees --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

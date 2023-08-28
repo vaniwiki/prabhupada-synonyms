@@ -1,5 +1,11 @@
-~~Title:udvahati~~
-{{description>become united by means of the marriage of sons and daughters; carries.}}
+---json
+{
+    "name":"udvahati",
+    "h1":"udvahati",
+    "title":"udvahati",
+    "description":"become united by means of the marriage of sons and daughters; carries."
+}
+---
 
 ==== udvahati  ====
   * become united by means of the marriage of sons and daughters --- [[books:sb:5:14:37|SB 5.14.37]]

@@ -1,5 +1,11 @@
-~~Title:nirvivikṣatām~~
-{{description>living together.}}
+---json
+{
+    "name":"nirvivikṣatām",
+    "h1":"nirvivikṣatām",
+    "title":"nirvivikṣatām",
+    "description":"living together."
+}
+---
 
 ==== nirvivikṣatām  ====
   * living together --- [[books:sb:1:5:23|SB 1.5.23]]

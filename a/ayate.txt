@@ -1,5 +1,11 @@
-~~Title:āyāte~~
-{{description>when arrived.}}
+---json
+{
+    "name":"āyāte",
+    "h1":"āyāte",
+    "title":"āyāte",
+    "description":"when arrived."
+}
+---
 
 ==== āyāte  ====
   * when arrived --- [[books:sb:8:13:11|SB 8.13.11]]

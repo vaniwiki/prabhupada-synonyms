@@ -1,5 +1,11 @@
-~~Title:vyāpya~~
-{{description>being localized; localized; pervaded; pervading.}}
+---json
+{
+    "name":"vyāpya",
+    "h1":"vyāpya",
+    "title":"vyāpya",
+    "description":"being localized; localized; pervaded; pervading."
+}
+---
 
 ==== vyāpya  ====
   * being localized --- [[books:cc:madhya:10:169|Madhya 10.169]]

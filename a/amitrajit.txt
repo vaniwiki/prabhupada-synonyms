@@ -1,5 +1,11 @@
-~~Title:amitrajit~~
-{{description>a son named Amitrajit.}}
+---json
+{
+    "name":"amitrajit",
+    "h1":"amitrajit",
+    "title":"amitrajit",
+    "description":"a son named Amitrajit."
+}
+---
 
 ==== amitrajit  ====
   * a son named Amitrajit --- [[books:sb:9:12:12|SB 9.12.12]]

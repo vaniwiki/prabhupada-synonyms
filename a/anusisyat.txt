@@ -1,5 +1,11 @@
-~~Title:anuśiṣyāt~~
-{{description>should instruct.}}
+---json
+{
+    "name":"anuśiṣyāt",
+    "h1":"anuśiṣyāt",
+    "title":"anuśiṣyāt",
+    "description":"should instruct."
+}
+---
 
 ==== anuśiṣyāt  ====
   * should instruct --- [[books:sb:5:5:15|SB 5.5.15]]

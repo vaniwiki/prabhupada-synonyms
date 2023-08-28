@@ -1,5 +1,11 @@
-~~Title:prītyera~~
-{{description>affection.}}
+---json
+{
+    "name":"prītyera",
+    "h1":"prītyera",
+    "title":"prītyera",
+    "description":"affection."
+}
+---
 
 ==== prītyera  ====
   * affection --- [[books:cc:adi:10:23|Ādi 10.23]]

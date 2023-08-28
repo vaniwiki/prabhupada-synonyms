@@ -1,5 +1,11 @@
-~~Title:niścalati~~
-{{description>verily agitated.}}
+---json
+{
+    "name":"niścalati",
+    "h1":"niścalati",
+    "title":"niścalati",
+    "description":"verily agitated."
+}
+---
 
 ==== niścalati  ====
   * verily agitated --- [[books:bg:6:26|Bg. 6.26]]

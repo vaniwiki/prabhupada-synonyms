@@ -1,5 +1,11 @@
-~~Title:śrīvāse~~
-{{description>unto Śrīvāsa; unto Śrīvāsa Ṭhākura.}}
+---json
+{
+    "name":"śrīvāse",
+    "h1":"śrīvāse",
+    "title":"śrīvāse",
+    "description":"unto Śrīvāsa; unto Śrīvāsa Ṭhākura."
+}
+---
 
 ==== śrīvāse  ====
   * unto Śrīvāsa --- [[books:cc:adi:17:233|Ādi 17.233]]

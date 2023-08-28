@@ -1,5 +1,11 @@
-~~Title:anubhave~~
-{{description>could perceive; realize.}}
+---json
+{
+    "name":"anubhave",
+    "h1":"anubhave",
+    "title":"anubhave",
+    "description":"could perceive; realize."
+}
+---
 
 ==== anubhave  ====
   * could perceive --- [[books:cc:madhya:13:67|Madhya 13.67]]

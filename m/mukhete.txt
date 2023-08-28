@@ -1,5 +1,11 @@
-~~Title:mukhete~~
-{{description>in the mouth.}}
+---json
+{
+    "name":"mukhete",
+    "h1":"mukhete",
+    "title":"mukhete",
+    "description":"in the mouth."
+}
+---
 
 ==== mukhete  ====
   * in the mouth --- [[books:cc:madhya:8:24|Madhya 8.24]]

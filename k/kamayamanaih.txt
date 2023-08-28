@@ -1,5 +1,11 @@
-~~Title:kāmayamānaiḥ~~
-{{description>by those who are desiring.}}
+---json
+{
+    "name":"kāmayamānaiḥ",
+    "h1":"kāmayamānaiḥ",
+    "title":"kāmayamānaiḥ",
+    "description":"by those who are desiring."
+}
+---
 
 ==== kāmayamānaiḥ  ====
   * by those who are desiring --- [[books:sb:5:25:14|SB 5.25.14]]

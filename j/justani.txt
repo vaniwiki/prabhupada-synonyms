@@ -1,5 +1,11 @@
-~~Title:juṣṭāni~~
-{{description>the results.}}
+---json
+{
+    "name":"juṣṭāni",
+    "h1":"juṣṭāni",
+    "title":"juṣṭāni",
+    "description":"the results."
+}
+---
 
 ==== juṣṭāni  ====
   * the results --- [[books:sb:4:29:58|SB 4.29.58]]

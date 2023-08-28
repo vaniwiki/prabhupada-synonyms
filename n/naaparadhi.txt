@@ -1,5 +1,11 @@
-~~Title:naaparādhī~~
-{{description>nor an offender.}}
+---json
+{
+    "name":"naaparādhī",
+    "h1":"naaparādhī",
+    "title":"naaparādhī",
+    "description":"nor an offender."
+}
+---
 
 ==== naaparādhī  ====
   * nor an offender --- [[books:cc:madhya:1:190|Madhya 1.190]]

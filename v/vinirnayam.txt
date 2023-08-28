@@ -1,5 +1,11 @@
-~~Title:vinirṇayam~~
-{{description>complete determination; exposition.}}
+---json
+{
+    "name":"vinirṇayam",
+    "h1":"vinirṇayam",
+    "title":"vinirṇayam",
+    "description":"complete determination; exposition."
+}
+---
 
 ==== vinirṇayam  ====
   * complete determination --- [[books:cc:adi:4:1|Ādi 4.1]]

@@ -1,5 +1,11 @@
-~~Title:trikam~~
-{{description>combination of three hexatoms.}}
+---json
+{
+    "name":"trikam",
+    "h1":"trikam",
+    "title":"trikam",
+    "description":"combination of three hexatoms."
+}
+---
 
 ==== trasareṇu-trikam  ====
   * combination of three hexatoms --- [[books:sb:3:11:6|SB 3.11.6]]

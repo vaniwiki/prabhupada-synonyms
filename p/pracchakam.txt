@@ -1,5 +1,11 @@
-~~Title:pracchakam~~
-{{description>and an inquisitive hearer like Mahārāja Parīkṣit.}}
+---json
+{
+    "name":"pracchakam",
+    "h1":"pracchakam",
+    "title":"pracchakam",
+    "description":"and an inquisitive hearer like Mahārāja Parīkṣit."
+}
+---
 
 ==== pracchakam  ====
   * and an inquisitive hearer like Mahārāja Parīkṣit --- [[books:sb:10:1:16|SB 10.1.16]]

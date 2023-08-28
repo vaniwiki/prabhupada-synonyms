@@ -1,5 +1,11 @@
-~~Title:syalah~~
-{{description>his brother-in-law Kaṁsa.}}
+---json
+{
+    "name":"syalah",
+    "h1":"syalah",
+    "title":"syalah",
+    "description":"his brother-in-law Kaṁsa."
+}
+---
 
 ==== śyālaḥ  ====
   * his brother-in-law Kaṁsa --- [[books:sb:10:4:23|SB 10.4.23]]

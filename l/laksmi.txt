@@ -1,5 +1,11 @@
-~~Title:laksmi~~
-{{description>a mark of golden lines on the left side of the chest of Śrī Kṛṣṇa, indicating the residence of the goddess of fortune; fortune; Lakṣmī; Lakṣmī also; Lakṣmīdevī; of goddesses of fortune; the goddess of fortune; the wife of Nimāi Paṇḍita.}}
+---json
+{
+    "name":"laksmi",
+    "h1":"laksmi",
+    "title":"laksmi",
+    "description":"a mark of golden lines on the left side of the chest of Śrī Kṛṣṇa, indicating the residence of the goddess of fortune; fortune; Lakṣmī; Lakṣmī also; Lakṣmīdevī; of goddesses of fortune; the goddess of fortune; the wife of Nimāi Paṇḍita."
+}
+---
 
 ==== lakṣmī  ====
   * a mark of golden lines on the left side of the chest of Śrī Kṛṣṇa, indicating the residence of the goddess of fortune --- [[books:cc:antya:15:74|Antya 15.74]]

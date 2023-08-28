@@ -1,5 +1,11 @@
-~~Title:kṣamaḥ~~
-{{description>is able.}}
+---json
+{
+    "name":"kṣamaḥ",
+    "h1":"kṣamaḥ",
+    "title":"kṣamaḥ",
+    "description":"is able."
+}
+---
 
 ==== kṣamaḥ  ====
   * is able --- [[books:sb:9:18:43|SB 9.18.43]]

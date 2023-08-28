@@ -1,5 +1,11 @@
-~~Title:rathāt~~
-{{description>from the chariot.}}
+---json
+{
+    "name":"rathāt",
+    "h1":"rathāt",
+    "title":"rathāt",
+    "description":"from the chariot."
+}
+---
 
 ==== rathāt  ====
   * from the chariot --- [[books:sb:4:9:42-43|SB 4.9.42-43]]

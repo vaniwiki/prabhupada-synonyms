@@ -1,5 +1,11 @@
-~~Title:grasta~~
-{{description>covered.}}
+---json
+{
+    "name":"grasta",
+    "h1":"grasta",
+    "title":"grasta",
+    "description":"covered."
+}
+---
 
 ==== grasta  ====
   * covered --- [[books:sb:6:8:34|SB 6.8.34]]

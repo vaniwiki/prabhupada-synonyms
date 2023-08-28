@@ -1,5 +1,11 @@
-~~Title:asadbhiḥ~~
-{{description>by nondevotees; by the infidels; by the materialists; with the association of undesirable persons; with the unrighteous.}}
+---json
+{
+    "name":"asadbhiḥ",
+    "h1":"asadbhiḥ",
+    "title":"asadbhiḥ",
+    "description":"by nondevotees; by the infidels; by the materialists; with the association of undesirable persons; with the unrighteous."
+}
+---
 
 ==== asadbhiḥ  ====
   * by nondevotees --- [[books:sb:4:18:6|SB 4.18.6]]

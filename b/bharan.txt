@@ -1,5 +1,11 @@
-~~Title:bhārān~~
-{{description>the burden of the world.}}
+---json
+{
+    "name":"bhārān",
+    "h1":"bhārān",
+    "title":"bhārān",
+    "description":"the burden of the world."
+}
+---
 
 ==== bhū-bhārān  ====
   * the burden of the world --- [[books:sb:1:15:25-26|SB 1.15.25-26]]

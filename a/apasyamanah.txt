@@ -1,5 +1,11 @@
-~~Title:apasyamanah~~
-{{description>not able to see; not seeing Lord Viṣṇu; not to be found; while not observing; without being able to see.}}
+---json
+{
+    "name":"apasyamanah",
+    "h1":"apasyamanah",
+    "title":"apasyamanah",
+    "description":"not able to see; not seeing Lord Viṣṇu; not to be found; while not observing; without being able to see."
+}
+---
 
 ==== apaśyamānaḥ  ====
   * not able to see --- [[books:sb:7:9:34|SB 7.9.34]]

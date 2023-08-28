@@ -1,5 +1,11 @@
-~~Title:īśāne~~
-{{description>from Īśāna, his servant; to Īśāna, the servant; Īśāna.}}
+---json
+{
+    "name":"īśāne",
+    "h1":"īśāne",
+    "title":"īśāne",
+    "description":"from Īśāna, his servant; to Īśāna, the servant; Īśāna."
+}
+---
 
 ==== īśāne  ====
   * from Īśāna, his servant --- [[books:cc:madhya:20:23|Madhya 20.23]]

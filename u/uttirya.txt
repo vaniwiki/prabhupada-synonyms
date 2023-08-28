@@ -1,5 +1,11 @@
-~~Title:uttīrya~~
-{{description>getting out; getting out of the water.}}
+---json
+{
+    "name":"uttīrya",
+    "h1":"uttīrya",
+    "title":"uttīrya",
+    "description":"getting out; getting out of the water."
+}
+---
 
 ==== uttīrya  ====
   * getting out --- [[books:sb:9:19:5-6|SB 9.19.5-6]]

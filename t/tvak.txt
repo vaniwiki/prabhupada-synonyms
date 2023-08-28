@@ -1,5 +1,11 @@
-~~Title:tvak~~
-{{description>skin; the sense for touching; the sense of touch; the skin (for touching a soft thing); the thin layer on the skin; the touch sensation.}}
+---json
+{
+    "name":"tvak",
+    "h1":"tvak",
+    "title":"tvak",
+    "description":"skin; the sense for touching; the sense of touch; the skin (for touching a soft thing); the thin layer on the skin; the touch sensation."
+}
+---
 
 ==== tvak  ====
   * skin --- [[books:bg:1:29|Bg. 1.29]], [[books:sb:2:6:4|SB 2.6.4]], [[books:sb:3:26:56|SB 3.26.56]], [[books:sb:4:9:6|SB 4.9.6]], [[books:sb:7:3:15-16|SB 7.3.15-16]]

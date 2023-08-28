@@ -1,5 +1,11 @@
-~~Title:anupalakṣya~~
-{{description>inconceivable; rarely to be seen.}}
+---json
+{
+    "name":"anupalakṣya",
+    "h1":"anupalakṣya",
+    "title":"anupalakṣya",
+    "description":"inconceivable; rarely to be seen."
+}
+---
 
 ==== anupalakṣya  ====
   * inconceivable --- [[books:sb:2:4:12|SB 2.4.12]]

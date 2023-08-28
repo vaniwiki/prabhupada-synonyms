@@ -1,5 +1,11 @@
-~~Title:kuśa~~
-{{description>a kind of grass required for ritualistic ceremonies; and kuśa grass; Kuśa; of kuśa grass; sharp grass.}}
+---json
+{
+    "name":"kuśa",
+    "h1":"kuśa",
+    "title":"kuśa",
+    "description":"a kind of grass required for ritualistic ceremonies; and kuśa grass; Kuśa; of kuśa grass; sharp grass."
+}
+---
 
 ==== kuśa  ====
   * a kind of grass required for ritualistic ceremonies --- [[books:sb:5:8:12|SB 5.8.12]]

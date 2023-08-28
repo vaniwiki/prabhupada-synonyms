@@ -1,5 +1,11 @@
-~~Title:rāghavere~~
-{{description>Rāghava Paṇḍita.}}
+---json
+{
+    "name":"rāghavere",
+    "h1":"rāghavere",
+    "title":"rāghavere",
+    "description":"Rāghava Paṇḍita."
+}
+---
 
 ==== rāghavere  ====
   * Rāghava Paṇḍita --- [[books:cc:madhya:15:92|Madhya 15.92]]

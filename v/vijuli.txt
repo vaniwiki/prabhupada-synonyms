@@ -1,5 +1,11 @@
-~~Title:vijulī~~
-{{description>Vijulī Khān.}}
+---json
+{
+    "name":"vijulī",
+    "h1":"vijulī",
+    "title":"vijulī",
+    "description":"Vijulī Khān."
+}
+---
 
 ==== vijulī-khāṅna  ====
   * Vijulī Khān --- [[books:cc:madhya:18:207|Madhya 18.207]], [[books:cc:madhya:18:212|Madhya 18.212]]

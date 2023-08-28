@@ -1,5 +1,11 @@
-~~Title:samīḍire~~
-{{description>also congratulated Him.}}
+---json
+{
+    "name":"samīḍire",
+    "h1":"samīḍire",
+    "title":"samīḍire",
+    "description":"also congratulated Him."
+}
+---
 
 ==== samīḍire  ====
   * also congratulated Him --- [[books:sb:10:11:52|SB 10.11.52]]

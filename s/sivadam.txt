@@ -1,5 +1,11 @@
-~~Title:śivadam~~
-{{description>well-being.}}
+---json
+{
+    "name":"śivadam",
+    "h1":"śivadam",
+    "title":"śivadam",
+    "description":"well-being."
+}
+---
 
 ==== śivadam  ====
   * well-being --- [[books:sb:1:1:2|SB 1.1.2]]

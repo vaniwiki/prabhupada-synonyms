@@ -1,5 +1,11 @@
-~~Title:parābhūtāḥ~~
-{{description>defeated by the superior power of Lord Paraśurāma.}}
+---json
+{
+    "name":"parābhūtāḥ",
+    "h1":"parābhūtāḥ",
+    "title":"parābhūtāḥ",
+    "description":"defeated by the superior power of Lord Paraśurāma."
+}
+---
 
 ==== rāma-vīrya-parābhūtāḥ  ====
   * defeated by the superior power of Lord Paraśurāma --- [[books:sb:9:16:9|SB 9.16.9]]

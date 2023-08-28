@@ -1,5 +1,11 @@
-~~Title:kulīna~~
-{{description>aristocracy; aristocratic brāhmaṇa; aristocratic; of aristocratic birth; respectable.}}
+---json
+{
+    "name":"kulīna",
+    "h1":"kulīna",
+    "title":"kulīna",
+    "description":"aristocracy; aristocratic brāhmaṇa; aristocratic; of aristocratic birth; respectable."
+}
+---
 
 ==== kulīna  ====
   * aristocracy --- [[books:cc:madhya:5:67|Madhya 5.67]]

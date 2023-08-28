@@ -1,5 +1,11 @@
-~~Title:ahaitukī~~
-{{description>causeless; unmotivated; with no motives; without any motive; without motives.}}
+---json
+{
+    "name":"ahaitukī",
+    "h1":"ahaitukī",
+    "title":"ahaitukī",
+    "description":"causeless; unmotivated; with no motives; without any motive; without motives."
+}
+---
 
 ==== ahaitukī  ====
   * causeless --- [[books:sb:1:2:6|SB 1.2.6]], [[books:sb:3:29:11-12|SB 3.29.11-12]], [[books:cc:adi:4:206|Ādi 4.206]], [[books:cc:madhya:19:172|Madhya 19.172]]

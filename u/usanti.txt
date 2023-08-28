@@ -1,5 +1,11 @@
-~~Title:uśanti~~
-{{description>attracts; think.}}
+---json
+{
+    "name":"uśanti",
+    "h1":"uśanti",
+    "title":"uśanti",
+    "description":"attracts; think."
+}
+---
 
 ==== uśanti  ====
   * attracts --- [[books:sb:10:8:12|SB 10.8.12]]

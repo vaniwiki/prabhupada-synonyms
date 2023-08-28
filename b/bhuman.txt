@@ -1,5 +1,11 @@
-~~Title:bhūman~~
-{{description>O great lord; O great one; O great personality; O greatest universal form; O my great Lord; O my Lord; O possessor of the universe; O Supreme; O supreme great one.}}
+---json
+{
+    "name":"bhūman",
+    "h1":"bhūman",
+    "title":"bhūman",
+    "description":"O great lord; O great one; O great personality; O greatest universal form; O my great Lord; O my Lord; O possessor of the universe; O Supreme; O supreme great one."
+}
+---
 
 ==== bhūman  ====
   * O great lord --- [[books:sb:3:15:9|SB 3.15.9]]

@@ -1,5 +1,11 @@
-~~Title:āgala~~
-{{description>first class; foremost.}}
+---json
+{
+    "name":"āgala",
+    "h1":"āgala",
+    "title":"āgala",
+    "description":"first class; foremost."
+}
+---
 
 ==== āgala  ====
   * first class --- [[books:cc:adi:17:232|Ādi 17.232]]

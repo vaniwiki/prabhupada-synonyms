@@ -1,5 +1,11 @@
-~~Title:pratyavāya~~
-{{description>detriment.}}
+---json
+{
+    "name":"pratyavāya",
+    "h1":"pratyavāya",
+    "title":"pratyavāya",
+    "description":"detriment."
+}
+---
 
 ==== pratyavāya  ====
   * detriment --- [[books:cc:adi:4:35|Ādi 4.35]]

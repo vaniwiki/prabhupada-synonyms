@@ -1,5 +1,11 @@
-~~Title:samṛddha~~
-{{description>full; increased.}}
+---json
+{
+    "name":"samṛddha",
+    "h1":"samṛddha",
+    "title":"samṛddha",
+    "description":"full; increased."
+}
+---
 
 ==== samṛddha  ====
   * full --- [[books:bg:11:29|Bg. 11.29]]

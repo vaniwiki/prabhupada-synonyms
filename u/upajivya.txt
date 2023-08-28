@@ -1,5 +1,11 @@
-~~Title:upajīvya~~
-{{description>almost the entire source of income.}}
+---json
+{
+    "name":"upajīvya",
+    "h1":"upajīvya",
+    "title":"upajīvya",
+    "description":"almost the entire source of income."
+}
+---
 
 ==== upajīvya-prāya  ====
   * almost the entire source of income --- [[books:cc:madhya:16:219|Madhya 16.219]]

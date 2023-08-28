@@ -1,5 +1,11 @@
-~~Title:asantoṣa~~
-{{description>dissatisfaction.}}
+---json
+{
+    "name":"asantoṣa",
+    "h1":"asantoṣa",
+    "title":"asantoṣa",
+    "description":"dissatisfaction."
+}
+---
 
 ==== asantoṣa  ====
   * dissatisfaction --- [[books:sb:4:8:28|SB 4.8.28]]

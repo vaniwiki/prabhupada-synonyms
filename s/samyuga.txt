@@ -1,5 +1,11 @@
-~~Title:saṁyuga~~
-{{description>having gotten a chance for.}}
+---json
+{
+    "name":"saṁyuga",
+    "h1":"saṁyuga",
+    "title":"saṁyuga",
+    "description":"having gotten a chance for."
+}
+---
 
 ==== saṁyuga  ====
   * having gotten a chance for --- [[books:sb:1:16:10|SB 1.16.10]]

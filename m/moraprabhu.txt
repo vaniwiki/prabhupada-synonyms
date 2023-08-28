@@ -1,5 +1,11 @@
-~~Title:moraprabhu~~
-{{description>My Lord.}}
+---json
+{
+    "name":"moraprabhu",
+    "h1":"moraprabhu",
+    "title":"moraprabhu",
+    "description":"My Lord."
+}
+---
 
 ==== moraprabhu  ====
   * My Lord --- [[books:cc:madhya:1:27|Madhya 1.27]]

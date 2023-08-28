@@ -1,5 +1,11 @@
-~~Title:kāmpillaḥ~~
-{{description>Kāmpilla.}}
+---json
+{
+    "name":"kāmpillaḥ",
+    "h1":"kāmpillaḥ",
+    "title":"kāmpillaḥ",
+    "description":"Kāmpilla."
+}
+---
 
 ==== kāmpillaḥ  ====
   * Kāmpilla --- [[books:sb:9:21:31-33|SB 9.21.31-33]]

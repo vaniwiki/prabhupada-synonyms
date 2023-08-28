@@ -1,5 +1,11 @@
-~~Title:varāheṇa~~
-{{description>by the Supreme Personality of Godhead in the form of a boar.}}
+---json
+{
+    "name":"varāheṇa",
+    "h1":"varāheṇa",
+    "title":"varāheṇa",
+    "description":"by the Supreme Personality of Godhead in the form of a boar."
+}
+---
 
 ==== ādi-varāheṇa  ====
   * by the Supreme Personality of Godhead in the form of a boar --- [[books:sb:8:16:27|SB 8.16.27]]

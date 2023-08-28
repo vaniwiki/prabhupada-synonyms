@@ -1,5 +1,11 @@
-~~Title:kamaṭha~~
-{{description>tortoise.}}
+---json
+{
+    "name":"kamaṭha",
+    "h1":"kamaṭha",
+    "title":"kamaṭha",
+    "description":"tortoise."
+}
+---
 
 ==== kamaṭha  ====
   * tortoise --- [[books:sb:1:3:16|SB 1.3.16]]

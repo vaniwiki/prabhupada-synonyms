@@ -1,5 +1,11 @@
-~~Title:prāyaścitte~~
-{{description>atonement for the sinful act.}}
+---json
+{
+    "name":"prāyaścitte",
+    "h1":"prāyaścitte",
+    "title":"prāyaścitte",
+    "description":"atonement for the sinful act."
+}
+---
 
 ==== pāpa-prāyaścitte  ====
   * atonement for the sinful act --- [[books:cc:madhya:15:261|Madhya 15.261]]

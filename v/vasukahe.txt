@@ -1,5 +1,11 @@
-~~Title:vāsukahe~~
-{{description>Vāsudeva Datta said.}}
+---json
+{
+    "name":"vāsukahe",
+    "h1":"vāsukahe",
+    "title":"vāsukahe",
+    "description":"Vāsudeva Datta said."
+}
+---
 
 ==== vāsukahe  ====
   * Vāsudeva Datta said --- [[books:cc:madhya:11:139|Madhya 11.139]]

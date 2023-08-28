@@ -1,5 +1,11 @@
-~~Title:atarjayan~~
-{{description>threatened.}}
+---json
+{
+    "name":"atarjayan",
+    "h1":"atarjayan",
+    "title":"atarjayan",
+    "description":"threatened."
+}
+---
 
 ==== atarjayan  ====
   * threatened --- [[books:sb:4:5:16|SB 4.5.16]]

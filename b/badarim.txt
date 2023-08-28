@@ -1,5 +1,11 @@
-~~Title:badarīm~~
-{{description>to Badarī.}}
+---json
+{
+    "name":"badarīm",
+    "h1":"badarīm",
+    "title":"badarīm",
+    "description":"to Badarī."
+}
+---
 
 ==== badarīm  ====
   * to Badarī --- [[books:sb:3:4:4|SB 3.4.4]]

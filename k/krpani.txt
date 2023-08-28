@@ -1,5 +1,11 @@
-~~Title:kṛpaṇī~~
-{{description>miser.}}
+---json
+{
+    "name":"kṛpaṇī",
+    "h1":"kṛpaṇī",
+    "title":"kṛpaṇī",
+    "description":"miser."
+}
+---
 
 ==== kṛpaṇī  ====
   * miser --- [[books:cc:adi:14:58|Ādi 14.58]]

@@ -1,5 +1,11 @@
-~~Title:ākṛṣṭiḥ~~
-{{description>attraction.}}
+---json
+{
+    "name":"ākṛṣṭiḥ",
+    "h1":"ākṛṣṭiḥ",
+    "title":"ākṛṣṭiḥ",
+    "description":"attraction."
+}
+---
 
 ==== ākṛṣṭiḥ  ====
   * attraction --- [[books:cc:madhya:15:110|Madhya 15.110]]

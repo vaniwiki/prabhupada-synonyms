@@ -1,5 +1,11 @@
-~~Title:upadhīyamāne~~
-{{description>is covered.}}
+---json
+{
+    "name":"upadhīyamāne",
+    "h1":"upadhīyamāne",
+    "title":"upadhīyamāne",
+    "description":"is covered."
+}
+---
 
 ==== upadhīyamāne  ====
   * is covered --- [[books:sb:5:5:6|SB 5.5.6]]

@@ -1,5 +1,11 @@
-~~Title:rūpayoḥ~~
-{{description>of the flute and the beauty of Kṛṣṇa.}}
+---json
+{
+    "name":"rūpayoḥ",
+    "h1":"rūpayoḥ",
+    "title":"rūpayoḥ",
+    "description":"of the flute and the beauty of Kṛṣṇa."
+}
+---
 
 ==== veṇu-rūpayoḥ  ====
   * of the flute and the beauty of Kṛṣṇa --- [[books:cc:madhya:23:84-85|Madhya 23.84-85]]

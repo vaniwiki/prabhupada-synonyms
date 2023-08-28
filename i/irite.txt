@@ -1,5 +1,11 @@
-~~Title:īrite~~
-{{description>considering.}}
+---json
+{
+    "name":"īrite",
+    "h1":"īrite",
+    "title":"īrite",
+    "description":"considering."
+}
+---
 
 ==== īrite  ====
   * considering --- [[books:sb:9:20:34|SB 9.20.34]]

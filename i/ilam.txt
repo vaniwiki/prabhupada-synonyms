@@ -1,5 +1,11 @@
-~~Title:ilām~~
-{{description>the earth.}}
+---json
+{
+    "name":"ilām",
+    "h1":"ilām",
+    "title":"ilām",
+    "description":"the earth."
+}
+---
 
 ==== ilām  ====
   * the earth --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

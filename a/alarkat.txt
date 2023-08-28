@@ -1,5 +1,11 @@
-~~Title:alarkāt~~
-{{description>except for Alarka; from Alarka.}}
+---json
+{
+    "name":"alarkāt",
+    "h1":"alarkāt",
+    "title":"alarkāt",
+    "description":"except for Alarka; from Alarka."
+}
+---
 
 ==== alarkāt  ====
   * except for Alarka --- [[books:sb:9:17:7|SB 9.17.7]]

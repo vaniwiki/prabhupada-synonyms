@@ -1,5 +1,11 @@
-~~Title:kāraṇḍavaiḥ~~
-{{description>by kāraṇḍava ducks.}}
+---json
+{
+    "name":"kāraṇḍavaiḥ",
+    "h1":"kāraṇḍavaiḥ",
+    "title":"kāraṇḍavaiḥ",
+    "description":"by kāraṇḍava ducks."
+}
+---
 
 ==== kāraṇḍavaiḥ  ====
   * by //kāraṇḍava// ducks --- [[books:sb:3:21:42-43|SB 3.21.42-43]]

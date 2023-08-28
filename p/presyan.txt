@@ -1,5 +1,11 @@
-~~Title:preṣyān~~
-{{description>the messengers of Yamarāja.}}
+---json
+{
+    "name":"preṣyān",
+    "h1":"preṣyān",
+    "title":"preṣyān",
+    "description":"the messengers of Yamarāja."
+}
+---
 
 ==== yama-preṣyān  ====
   * the messengers of Yamarāja --- [[books:sb:6:1:31|SB 6.1.31]]

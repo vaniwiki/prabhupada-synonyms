@@ -1,5 +1,11 @@
-~~Title:sakalam~~
-{{description>all of them; complete.}}
+---json
+{
+    "name":"sakalam",
+    "h1":"sakalam",
+    "title":"sakalam",
+    "description":"all of them; complete."
+}
+---
 
 ==== sakalam  ====
   * all of them --- [[books:sb:8:2:30|SB 8.2.30]]

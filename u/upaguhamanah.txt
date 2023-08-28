@@ -1,5 +1,11 @@
-~~Title:upagūhamānaḥ~~
-{{description>embracing.}}
+---json
+{
+    "name":"upagūhamānaḥ",
+    "h1":"upagūhamānaḥ",
+    "title":"upagūhamānaḥ",
+    "description":"embracing."
+}
+---
 
 ==== upagūhamānaḥ  ====
   * embracing --- [[books:sb:3:19:24|SB 3.19.24]]

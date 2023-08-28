@@ -1,5 +1,11 @@
-~~Title:jayatu~~
-{{description>all glories, all glories.}}
+---json
+{
+    "name":"jayatu",
+    "h1":"jayatu",
+    "title":"jayatu",
+    "description":"all glories, all glories."
+}
+---
 
 ==== jayatu jayatu  ====
   * all glories, all glories --- [[books:mm:2|MM 2]]

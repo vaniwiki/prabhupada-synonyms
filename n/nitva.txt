@@ -1,5 +1,11 @@
-~~Title:nītvā~~
-{{description>after passing; bringing; bringing into such a condition; bringing them; having passed.}}
+---json
+{
+    "name":"nītvā",
+    "h1":"nītvā",
+    "title":"nītvā",
+    "description":"after passing; bringing; bringing into such a condition; bringing them; having passed."
+}
+---
 
 ==== nītvā  ====
   * after passing --- [[books:sb:6:19:21|SB 6.19.21]]

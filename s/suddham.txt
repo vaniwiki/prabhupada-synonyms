@@ -1,5 +1,11 @@
-~~Title:suddham~~
-{{description>absolute; antiseptic; auspicious; having nothing to do with material activities; perfectly correct; pure; purified; sacred; transcendental; uncontaminated.}}
+---json
+{
+    "name":"suddham",
+    "h1":"suddham",
+    "title":"suddham",
+    "description":"absolute; antiseptic; auspicious; having nothing to do with material activities; perfectly correct; pure; purified; sacred; transcendental; uncontaminated."
+}
+---
 
 ==== śuddham  ====
   * absolute --- [[books:sb:3:9:1|SB 3.9.1]]

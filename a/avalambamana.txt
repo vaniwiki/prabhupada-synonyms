@@ -1,5 +1,11 @@
-~~Title:avalambamāna~~
-{{description>spread.}}
+---json
+{
+    "name":"avalambamāna",
+    "h1":"avalambamāna",
+    "title":"avalambamāna",
+    "description":"spread."
+}
+---
 
 ==== avalambamāna  ====
   * spread --- [[books:sb:5:5:31|SB 5.5.31]]

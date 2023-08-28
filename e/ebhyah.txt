@@ -1,5 +1,11 @@
-~~Title:ebhyaḥ~~
-{{description>above these; to the demigods.}}
+---json
+{
+    "name":"ebhyaḥ",
+    "h1":"ebhyaḥ",
+    "title":"ebhyaḥ",
+    "description":"above these; to the demigods."
+}
+---
 
 ==== ebhyaḥ  ====
   * above these --- [[books:bg:7:13|Bg. 7.13]]

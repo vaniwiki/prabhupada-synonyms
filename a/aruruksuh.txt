@@ -1,5 +1,11 @@
-~~Title:ārurukṣuḥ~~
-{{description>one desiring to climb; one who aspires to reach.}}
+---json
+{
+    "name":"ārurukṣuḥ",
+    "h1":"ārurukṣuḥ",
+    "title":"ārurukṣuḥ",
+    "description":"one desiring to climb; one who aspires to reach."
+}
+---
 
 ==== ārurukṣuḥ  ====
   * one desiring to climb --- [[books:sb:5:13:8|SB 5.13.8]]

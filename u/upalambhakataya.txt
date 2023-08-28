@@ -1,5 +1,11 @@
-~~Title:upalambhakatayā~~
-{{description>by being the exhibitor.}}
+---json
+{
+    "name":"upalambhakatayā",
+    "h1":"upalambhakatayā",
+    "title":"upalambhakatayā",
+    "description":"by being the exhibitor."
+}
+---
 
 ==== upalambhakatayā  ====
   * by being the exhibitor --- [[books:sb:6:9:42|SB 6.9.42]]

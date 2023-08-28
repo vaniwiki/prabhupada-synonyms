@@ -1,5 +1,11 @@
-~~Title:nivedila~~
-{{description>informed; offered; submitted.}}
+---json
+{
+    "name":"nivedila",
+    "h1":"nivedila",
+    "title":"nivedila",
+    "description":"informed; offered; submitted."
+}
+---
 
 ==== nivedila  ====
   * informed --- [[books:cc:antya:9:13|Antya 9.13]]

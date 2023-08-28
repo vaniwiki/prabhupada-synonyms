@@ -1,5 +1,11 @@
-~~Title:vekṣyati~~
-{{description>looking with great attention will enter the fire.}}
+---json
+{
+    "name":"vekṣyati",
+    "h1":"vekṣyati",
+    "title":"vekṣyati",
+    "description":"looking with great attention will enter the fire."
+}
+---
 
 ==== anu vekṣyati  ====
   * looking with great attention will enter the fire --- [[books:sb:1:13:58|SB 1.13.58]]

@@ -1,5 +1,11 @@
-~~Title:vasumān~~
-{{description>Vasumān.}}
+---json
+{
+    "name":"vasumān",
+    "h1":"vasumān",
+    "title":"vasumān",
+    "description":"Vasumān."
+}
+---
 
 ==== vasumān  ====
   * Vasumān --- [[books:sb:8:13:2-3|SB 8.13.2-3]], [[books:sb:9:15:2-3|SB 9.15.2-3]]

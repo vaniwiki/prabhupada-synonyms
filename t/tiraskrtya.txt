@@ -1,5 +1,11 @@
-~~Title:tiraskṛtya~~
-{{description>chastising him.}}
+---json
+{
+    "name":"tiraskṛtya",
+    "h1":"tiraskṛtya",
+    "title":"tiraskṛtya",
+    "description":"chastising him."
+}
+---
 
 ==== tiraskṛtya  ====
   * chastising him --- [[books:sb:8:11:3|SB 8.11.3]]

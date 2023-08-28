@@ -1,5 +1,11 @@
-~~Title:nigūḍha~~
-{{description>completely hidden; confidential; covered; deep; essence; hidden; most confidential; very confidential; very deep; very grave and deep.}}
+---json
+{
+    "name":"nigūḍha",
+    "h1":"nigūḍha",
+    "title":"nigūḍha",
+    "description":"completely hidden; confidential; covered; deep; essence; hidden; most confidential; very confidential; very deep; very grave and deep."
+}
+---
 
 ==== nigūḍha  ====
   * completely hidden --- [[books:sb:5:10:18|SB 5.10.18]]

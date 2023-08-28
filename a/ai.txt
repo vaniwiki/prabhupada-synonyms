@@ -1,5 +1,11 @@
-~~Title:ai~~
-{{description>that.}}
+---json
+{
+    "name":"ai",
+    "h1":"ai",
+    "title":"ai",
+    "description":"that."
+}
+---
 
 ==== ai  ====
   * that --- [[books:cc:madhya:12:172|Madhya 12.172]]

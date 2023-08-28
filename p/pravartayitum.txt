@@ -1,5 +1,11 @@
-~~Title:pravartayitum~~
-{{description>to introduce again.}}
+---json
+{
+    "name":"pravartayitum",
+    "h1":"pravartayitum",
+    "title":"pravartayitum",
+    "description":"to introduce again."
+}
+---
 
 ==== pravartayitum  ====
   * to introduce again --- [[books:sb:3:24:37|SB 3.24.37]]

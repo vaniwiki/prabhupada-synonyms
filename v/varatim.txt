@@ -1,5 +1,11 @@
-~~Title:varāṭīm~~
-{{description>forehead.}}
+---json
+{
+    "name":"varāṭīm",
+    "h1":"varāṭīm",
+    "title":"varāṭīm",
+    "description":"forehead."
+}
+---
 
 ==== varāṭīm  ====
   * forehead --- [[books:sb:2:1:28|SB 2.1.28]]

@@ -1,5 +1,11 @@
-~~Title:abhidhāsyāmi~~
-{{description>I shall explain; shall recite.}}
+---json
+{
+    "name":"abhidhāsyāmi",
+    "h1":"abhidhāsyāmi",
+    "title":"abhidhāsyāmi",
+    "description":"I shall explain; shall recite."
+}
+---
 
 ==== abhidhāsyāmi  ====
   * I shall explain --- [[books:sb:6:4:22|SB 6.4.22]]

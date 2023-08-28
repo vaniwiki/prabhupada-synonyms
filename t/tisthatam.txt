@@ -1,5 +1,11 @@
-~~Title:tiṣṭhatām~~
-{{description>of those who were staying.}}
+---json
+{
+    "name":"tiṣṭhatām",
+    "h1":"tiṣṭhatām",
+    "title":"tiṣṭhatām",
+    "description":"of those who were staying."
+}
+---
 
 ==== tiṣṭhatām  ====
   * of those who were staying --- [[books:cc:antya:6:263|Antya 6.263]]

@@ -1,5 +1,11 @@
-~~Title:ekasmin~~
-{{description>alone; in one; on one; simultaneously.}}
+---json
+{
+    "name":"ekasmin",
+    "h1":"ekasmin",
+    "title":"ekasmin",
+    "description":"alone; in one; on one; simultaneously."
+}
+---
 
 ==== ekasmin  ====
   * alone --- [[books:sb:4:27:17|SB 4.27.17]]

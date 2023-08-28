@@ -1,5 +1,11 @@
-~~Title:asantoṣāt~~
-{{description>because of dissatisfaction; simply by dissatisfaction or greed.}}
+---json
+{
+    "name":"asantoṣāt",
+    "h1":"asantoṣāt",
+    "title":"asantoṣāt",
+    "description":"because of dissatisfaction; simply by dissatisfaction or greed."
+}
+---
 
 ==== asantoṣāt  ====
   * because of dissatisfaction --- [[books:sb:8:19:26|SB 8.19.26]]

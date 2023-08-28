@@ -1,5 +1,11 @@
-~~Title:gajībhiḥ~~
-{{description>by she-elephants.}}
+---json
+{
+    "name":"gajībhiḥ",
+    "h1":"gajībhiḥ",
+    "title":"gajībhiḥ",
+    "description":"by she-elephants."
+}
+---
 
 ==== gajībhiḥ  ====
   * by she-elephants --- [[books:cc:antya:18:25|Antya 18.25]]

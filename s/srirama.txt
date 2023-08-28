@@ -1,5 +1,11 @@
-~~Title:śrīrāma~~
-{{description>of the name Śrīrāma.}}
+---json
+{
+    "name":"śrīrāma",
+    "h1":"śrīrāma",
+    "title":"śrīrāma",
+    "description":"of the name Śrīrāma."
+}
+---
 
 ==== śrīrāma  ====
   * of the name Śrīrāma --- [[books:cc:adi:10:110|Ādi 10.110]]

@@ -1,5 +1,11 @@
-~~Title:āpsarasīm~~
-{{description>born of an Apsarā.}}
+---json
+{
+    "name":"āpsarasīm",
+    "h1":"āpsarasīm",
+    "title":"āpsarasīm",
+    "description":"born of an Apsarā."
+}
+---
 
 ==== āpsarasīm  ====
   * born of an Apsarā --- [[books:sb:6:4:16|SB 6.4.16]]

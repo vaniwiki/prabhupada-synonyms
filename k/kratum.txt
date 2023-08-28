@@ -1,5 +1,11 @@
-~~Title:kratum~~
-{{description>Kratu.}}
+---json
+{
+    "name":"kratum",
+    "h1":"kratum",
+    "title":"kratum",
+    "description":"Kratu."
+}
+---
 
 ==== kratum  ====
   * Kratu --- [[books:sb:4:13:17|SB 4.13.17]]

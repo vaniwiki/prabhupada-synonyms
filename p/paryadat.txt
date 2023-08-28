@@ -1,5 +1,11 @@
-~~Title:paryadāt~~
-{{description>gave.}}
+---json
+{
+    "name":"paryadāt",
+    "h1":"paryadāt",
+    "title":"paryadāt",
+    "description":"gave."
+}
+---
 
 ==== paryadāt  ====
   * gave --- [[books:sb:3:22:23|SB 3.22.23]]

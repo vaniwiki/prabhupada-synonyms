@@ -1,5 +1,11 @@
-~~Title:chāḍāiyā~~
-{{description>liberating them.}}
+---json
+{
+    "name":"chāḍāiyā",
+    "h1":"chāḍāiyā",
+    "title":"chāḍāiyā",
+    "description":"liberating them."
+}
+---
 
 ==== chāḍāiyā  ====
   * liberating them --- [[books:cc:adi:10:42|Ādi 10.42]]

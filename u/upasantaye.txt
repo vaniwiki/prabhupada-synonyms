@@ -1,5 +1,11 @@
-~~Title:upaśāntaye~~
-{{description>to counteract all troublesome positions.}}
+---json
+{
+    "name":"upaśāntaye",
+    "h1":"upaśāntaye",
+    "title":"upaśāntaye",
+    "description":"to counteract all troublesome positions."
+}
+---
 
 ==== upaśāntaye  ====
   * to counteract all troublesome positions --- [[books:sb:8:4:15|SB 8.4.15]]

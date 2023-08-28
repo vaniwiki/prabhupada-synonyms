@@ -1,5 +1,11 @@
-~~Title:ananvayam~~
-{{description>disruption.}}
+---json
+{
+    "name":"ananvayam",
+    "h1":"ananvayam",
+    "title":"ananvayam",
+    "description":"disruption."
+}
+---
 
 ==== ananvayam  ====
   * disruption --- [[books:sb:1:18:44|SB 1.18.44]]

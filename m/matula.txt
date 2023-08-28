@@ -1,5 +1,11 @@
-~~Title:mātula~~
-{{description>maternal uncle.}}
+---json
+{
+    "name":"mātula",
+    "h1":"mātula",
+    "title":"mātula",
+    "description":"maternal uncle."
+}
+---
 
 ==== mātula  ====
   * maternal uncle --- [[books:cc:adi:17:48|Ādi 17.48]]

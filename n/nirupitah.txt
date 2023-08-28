@@ -1,5 +1,11 @@
-~~Title:nirupitah~~
-{{description>appointed; are engaged; concluded; designated; engaged; settled.}}
+---json
+{
+    "name":"nirupitah",
+    "h1":"nirupitah",
+    "title":"nirupitah",
+    "description":"appointed; are engaged; concluded; designated; engaged; settled."
+}
+---
 
 ==== nirūpitaḥ  ====
   * appointed --- [[books:sb:4:14:11|SB 4.14.11]]

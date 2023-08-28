@@ -1,5 +1,11 @@
-~~Title:sarirah~~
-{{description>the body; whose body.}}
+---json
+{
+    "name":"sarirah",
+    "h1":"sarirah",
+    "title":"sarirah",
+    "description":"the body; whose body."
+}
+---
 
 ==== śarīraḥ  ====
   * the body --- [[books:sb:5:26:28|SB 5.26.28]]

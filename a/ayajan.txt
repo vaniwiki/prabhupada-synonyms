@@ -1,5 +1,11 @@
-~~Title:ayajan~~
-{{description>performed.}}
+---json
+{
+    "name":"ayajan",
+    "h1":"ayajan",
+    "title":"ayajan",
+    "description":"performed."
+}
+---
 
 ==== ayajan  ====
   * performed --- [[books:sb:2:6:29|SB 2.6.29]]

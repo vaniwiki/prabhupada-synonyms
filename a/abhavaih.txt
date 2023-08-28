@@ -1,5 +1,11 @@
-~~Title:abhāvaiḥ~~
-{{description>unfriendly.}}
+---json
+{
+    "name":"abhāvaiḥ",
+    "h1":"abhāvaiḥ",
+    "title":"abhāvaiḥ",
+    "description":"unfriendly."
+}
+---
 
 ==== abhāvaiḥ  ====
   * unfriendly --- [[books:sb:1:14:40|SB 1.14.40]]

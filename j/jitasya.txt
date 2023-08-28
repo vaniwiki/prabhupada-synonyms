@@ -1,5 +1,11 @@
-~~Title:jitasya~~
-{{description>of the vanquished.}}
+---json
+{
+    "name":"jitasya",
+    "h1":"jitasya",
+    "title":"jitasya",
+    "description":"of the vanquished."
+}
+---
 
 ==== jitasya  ====
   * of the vanquished --- [[books:sb:3:1:8|SB 3.1.8]]

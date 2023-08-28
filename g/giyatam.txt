@@ -1,5 +1,11 @@
-~~Title:gīyatām~~
-{{description>let it be chanted.}}
+---json
+{
+    "name":"gīyatām",
+    "h1":"gīyatām",
+    "title":"gīyatām",
+    "description":"let it be chanted."
+}
+---
 
 ==== gīyatām  ====
   * let it be chanted --- [[books:cc:antya:12:1|Antya 12.1]]

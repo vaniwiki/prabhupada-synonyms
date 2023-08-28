@@ -1,5 +1,11 @@
-~~Title:upetah~~
-{{description>accompanied; accompanied by; being situated; engaged; joined; reached.}}
+---json
+{
+    "name":"upetah",
+    "h1":"upetah",
+    "title":"upetah",
+    "description":"accompanied; accompanied by; being situated; engaged; joined; reached."
+}
+---
 
 ==== upetaḥ  ====
   * accompanied --- [[books:sb:8:15:24|SB 8.15.24]]

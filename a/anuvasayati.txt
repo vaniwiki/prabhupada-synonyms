@@ -1,5 +1,11 @@
-~~Title:anuvāsayati~~
-{{description>makes fragrant; makes sweetly flavored.}}
+---json
+{
+    "name":"anuvāsayati",
+    "h1":"anuvāsayati",
+    "title":"anuvāsayati",
+    "description":"makes fragrant; makes sweetly flavored."
+}
+---
 
 ==== anuvāsayati  ====
   * makes fragrant --- [[books:sb:5:16:18|SB 5.16.18]], [[books:sb:5:20:24|SB 5.20.24]]

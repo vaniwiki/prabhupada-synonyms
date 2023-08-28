@@ -1,5 +1,11 @@
-~~Title:durbhagāyāḥ~~
-{{description>of the unfortunate.}}
+---json
+{
+    "name":"durbhagāyāḥ",
+    "h1":"durbhagāyāḥ",
+    "title":"durbhagāyāḥ",
+    "description":"of the unfortunate."
+}
+---
 
 ==== durbhagāyāḥ  ====
   * of the unfortunate --- [[books:sb:4:8:18|SB 4.8.18]]

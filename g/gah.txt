@@ -1,5 +1,11 @@
-~~Title:gah~~
-{{description>bulls; cows; the cows.}}
+---json
+{
+    "name":"gah",
+    "h1":"gah",
+    "title":"gah",
+    "description":"bulls; cows; the cows."
+}
+---
 
 ==== gāḥ  ====
   * bulls --- [[books:sb:6:3:13|SB 6.3.13]]

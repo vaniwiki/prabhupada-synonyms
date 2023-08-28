@@ -1,5 +1,11 @@
-~~Title:śuśruve~~
-{{description>heard.}}
+---json
+{
+    "name":"śuśruve",
+    "h1":"śuśruve",
+    "title":"śuśruve",
+    "description":"heard."
+}
+---
 
 ==== śuśruve  ====
   * heard --- [[books:sb:7:5:3|SB 7.5.3]]

@@ -1,5 +1,11 @@
-~~Title:anuśravaṇam~~
-{{description>thinking.}}
+---json
+{
+    "name":"anuśravaṇam",
+    "h1":"anuśravaṇam",
+    "title":"anuśravaṇam",
+    "description":"thinking."
+}
+---
 
 ==== anuśravaṇam  ====
   * thinking --- [[books:sb:3:13:4|SB 3.13.4]]

@@ -1,5 +1,11 @@
-~~Title:tala~~
-{{description>palm or palmyra fruit; the palm trees; Tālavana.}}
+---json
+{
+    "name":"tala",
+    "h1":"tala",
+    "title":"tala",
+    "description":"palm or palmyra fruit; the palm trees; Tālavana."
+}
+---
 
 ==== tāla  ====
   * palm or palmyra fruit --- [[books:cc:antya:18:105|Antya 18.105]]

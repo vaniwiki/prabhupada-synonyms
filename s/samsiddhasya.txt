@@ -1,5 +1,11 @@
-~~Title:saṁsiddhasya~~
-{{description>of one who is all-perfect.}}
+---json
+{
+    "name":"saṁsiddhasya",
+    "h1":"saṁsiddhasya",
+    "title":"saṁsiddhasya",
+    "description":"of one who is all-perfect."
+}
+---
 
 ==== saṁsiddhasya  ====
   * of one who is all-perfect --- [[books:sb:1:19:36|SB 1.19.36]]

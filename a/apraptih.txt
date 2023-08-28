@@ -1,5 +1,11 @@
-~~Title:aprāptiḥ~~
-{{description>no achievement.}}
+---json
+{
+    "name":"aprāptiḥ",
+    "h1":"aprāptiḥ",
+    "title":"aprāptiḥ",
+    "description":"no achievement."
+}
+---
 
 ==== aprāptiḥ  ====
   * no achievement --- [[books:sb:6:16:60|SB 6.16.60]]

@@ -1,5 +1,11 @@
-~~Title:nibadhnāti~~
-{{description>binds; is bound.}}
+---json
+{
+    "name":"nibadhnāti",
+    "h1":"nibadhnāti",
+    "title":"nibadhnāti",
+    "description":"binds; is bound."
+}
+---
 
 ==== nibadhnāti  ====
   * binds --- [[books:bg:14:8|Bg. 14.8]]

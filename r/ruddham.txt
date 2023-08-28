@@ -1,5 +1,11 @@
-~~Title:ruddham~~
-{{description>enwrapped by such darkness.}}
+---json
+{
+    "name":"ruddham",
+    "h1":"ruddham",
+    "title":"ruddham",
+    "description":"enwrapped by such darkness."
+}
+---
 
 ==== tamaḥ-ruddham  ====
   * enwrapped by such darkness --- [[books:sb:1:15:30|SB 1.15.30]]

@@ -1,5 +1,11 @@
-~~Title:kupitam~~
-{{description>greatly angered; very angry.}}
+---json
+{
+    "name":"kupitam",
+    "h1":"kupitam",
+    "title":"kupitam",
+    "description":"greatly angered; very angry."
+}
+---
 
 ==== kupitam  ====
   * greatly angered --- [[books:sb:7:9:3|SB 7.9.3]]

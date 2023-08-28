@@ -1,5 +1,11 @@
-~~Title:dhyeyaḥ~~
-{{description>to be remembered.}}
+---json
+{
+    "name":"dhyeyaḥ",
+    "h1":"dhyeyaḥ",
+    "title":"dhyeyaḥ",
+    "description":"to be remembered."
+}
+---
 
 ==== dhyeyaḥ  ====
   * to be remembered --- [[books:sb:1:2:14|SB 1.2.14]]

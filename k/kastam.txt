@@ -1,5 +1,11 @@
-~~Title:kastam~~
-{{description>how painful it is; how troublesome it is; miserable condition; painful; simply tribulation; very regrettable; what a tribulation; what terrible sufferings.}}
+---json
+{
+    "name":"kastam",
+    "h1":"kastam",
+    "title":"kastam",
+    "description":"how painful it is; how troublesome it is; miserable condition; painful; simply tribulation; very regrettable; what a tribulation; what terrible sufferings."
+}
+---
 
 ==== kaṣṭam  ====
   * how painful it is --- [[books:sb:6:2:2|SB 6.2.2]]

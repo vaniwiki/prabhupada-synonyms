@@ -1,5 +1,11 @@
-~~Title:tittirīṇām~~
-{{description>of the tittiri birds.}}
+---json
+{
+    "name":"tittirīṇām",
+    "h1":"tittirīṇām",
+    "title":"tittirīṇām",
+    "description":"of the tittiri birds."
+}
+---
 
 ==== tittirīṇām  ====
   * of the //tittiri// birds --- [[books:sb:5:2:10|SB 5.2.10]]

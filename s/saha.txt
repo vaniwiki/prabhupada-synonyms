@@ -1,5 +1,11 @@
-~~Title:saha~~
-{{description>accompanied; all together; along with; also with; simultaneously; with; with her.}}
+---json
+{
+    "name":"saha",
+    "h1":"saha",
+    "title":"saha",
+    "description":"accompanied; all together; along with; also with; simultaneously; with; with her."
+}
+---
 
 ==== saha  ====
   * accompanied --- [[books:sb:4:15:9-10|SB 4.15.9-10]], [[books:sb:5:1:9|SB 5.1.9]]

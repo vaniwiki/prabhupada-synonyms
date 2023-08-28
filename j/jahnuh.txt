@@ -1,5 +1,11 @@
-~~Title:jahnuḥ~~
-{{description>by the name Jahnu.}}
+---json
+{
+    "name":"jahnuḥ",
+    "h1":"jahnuḥ",
+    "title":"jahnuḥ",
+    "description":"by the name Jahnu."
+}
+---
 
 ==== jahnuḥ  ====
   * by the name Jahnu --- [[books:sb:9:15:2-3|SB 9.15.2-3]]

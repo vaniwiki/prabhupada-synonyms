@@ -1,5 +1,11 @@
-~~Title:goloka~~
-{{description>Goloka Vṛndāvana; the planet known as Goloka; the planetary system Goloka Vṛndāvana; the supreme spiritual planet, known as Goloka.}}
+---json
+{
+    "name":"goloka",
+    "h1":"goloka",
+    "title":"goloka",
+    "description":"Goloka Vṛndāvana; the planet known as Goloka; the planetary system Goloka Vṛndāvana; the supreme spiritual planet, known as Goloka."
+}
+---
 
 ==== goloka  ====
   * Goloka Vṛndāvana --- [[books:cc:madhya:20:155|Madhya 20.155]]

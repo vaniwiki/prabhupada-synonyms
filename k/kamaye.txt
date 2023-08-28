@@ -1,5 +1,11 @@
-~~Title:kāmaye~~
-{{description>desire; do I desire; I beg; I desire.}}
+---json
+{
+    "name":"kāmaye",
+    "h1":"kāmaye",
+    "title":"kāmaye",
+    "description":"desire; do I desire; I beg; I desire."
+}
+---
 
 ==== kāmaye  ====
   * desire --- [[books:sb:9:21:12|SB 9.21.12]], [[books:cc:adi:4:146|Ādi 4.146]], [[books:cc:madhya:8:149|Madhya 8.149]], [[books:cc:madhya:20:182|Madhya 20.182]]

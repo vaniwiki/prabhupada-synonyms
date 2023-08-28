@@ -1,5 +1,11 @@
-~~Title:samīhase~~
-{{description>you are praying for.}}
+---json
+{
+    "name":"samīhase",
+    "h1":"samīhase",
+    "title":"samīhase",
+    "description":"you are praying for."
+}
+---
 
 ==== samīhase  ====
   * you are praying for --- [[books:sb:9:5:14|SB 9.5.14]]

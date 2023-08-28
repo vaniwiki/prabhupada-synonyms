@@ -1,5 +1,11 @@
-~~Title:puruṣībhiḥ~~
-{{description>their wives and women.}}
+---json
+{
+    "name":"puruṣībhiḥ",
+    "h1":"puruṣībhiḥ",
+    "title":"puruṣībhiḥ",
+    "description":"their wives and women."
+}
+---
 
 ==== puruṣībhiḥ  ====
   * their wives and women --- [[books:sb:5:24:17|SB 5.24.17]]

@@ -1,5 +1,11 @@
-~~Title:adharāt~~
-{{description>from the lower lip.}}
+---json
+{
+    "name":"adharāt",
+    "h1":"adharāt",
+    "title":"adharāt",
+    "description":"from the lower lip."
+}
+---
 
 ==== adharāt  ====
   * from the lower lip --- [[books:sb:8:5:42|SB 8.5.42]]

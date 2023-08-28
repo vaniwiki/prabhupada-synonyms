@@ -1,5 +1,11 @@
-~~Title:vicikīrṣitaḥ~~
-{{description>desired to act.}}
+---json
+{
+    "name":"vicikīrṣitaḥ",
+    "h1":"vicikīrṣitaḥ",
+    "title":"vicikīrṣitaḥ",
+    "description":"desired to act."
+}
+---
 
 ==== vicikīrṣitaḥ  ====
   * desired to act --- [[books:cc:madhya:22:103|Madhya 22.103]], [[books:cc:antya:4:194|Antya 4.194]]

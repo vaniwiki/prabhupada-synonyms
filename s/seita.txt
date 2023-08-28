@@ -1,5 +1,11 @@
-~~Title:seita~~
-{{description>he; that; they.}}
+---json
+{
+    "name":"seita",
+    "h1":"seita",
+    "title":"seita",
+    "description":"he; that; they."
+}
+---
 
 ==== seita  ====
   * he --- [[books:cc:madhya:18:115|Madhya 18.115]]

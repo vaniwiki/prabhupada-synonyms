@@ -1,5 +1,11 @@
-~~Title:cauddabhuvana~~
-{{description>fourteen planetary systems.}}
+---json
+{
+    "name":"cauddabhuvana",
+    "h1":"cauddabhuvana",
+    "title":"cauddabhuvana",
+    "description":"fourteen planetary systems."
+}
+---
 
 ==== cauddabhuvana  ====
   * fourteen planetary systems --- [[books:cc:madhya:1:267|Madhya 1.267]]

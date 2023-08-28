@@ -1,5 +1,11 @@
-~~Title:yātudhānān~~
-{{description>a particular type of evil spirit.}}
+---json
+{
+    "name":"yātudhānān",
+    "h1":"yātudhānān",
+    "title":"yātudhānān",
+    "description":"a particular type of evil spirit."
+}
+---
 
 ==== yātudhānān  ====
   * a particular type of evil spirit --- [[books:sb:2:10:37-40|SB 2.10.37-40]]

@@ -1,5 +1,11 @@
-~~Title:kramāt~~
-{{description>gradually; one after another; respectively.}}
+---json
+{
+    "name":"kramāt",
+    "h1":"kramāt",
+    "title":"kramāt",
+    "description":"gradually; one after another; respectively."
+}
+---
 
 ==== kramāt  ====
   * gradually --- [[books:cc:madhya:8:195|Madhya 8.195]], [[books:noi:7|NoI 7]]

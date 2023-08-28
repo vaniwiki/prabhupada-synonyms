@@ -1,5 +1,11 @@
-~~Title:nāradera~~
-{{description>of Nārada Muni.}}
+---json
+{
+    "name":"nāradera",
+    "h1":"nāradera",
+    "title":"nāradera",
+    "description":"of Nārada Muni."
+}
+---
 
 ==== nāradera  ====
   * of Nārada Muni --- [[books:cc:madhya:20:169|Madhya 20.169]]

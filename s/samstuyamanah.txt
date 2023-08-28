@@ -1,5 +1,11 @@
-~~Title:saṁstūyamānaḥ~~
-{{description>being worshiped.}}
+---json
+{
+    "name":"saṁstūyamānaḥ",
+    "h1":"saṁstūyamānaḥ",
+    "title":"saṁstūyamānaḥ",
+    "description":"being worshiped."
+}
+---
 
 ==== saṁstūyamānaḥ  ====
   * being worshiped --- [[books:sb:4:12:1|SB 4.12.1]]

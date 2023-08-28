@@ -1,5 +1,11 @@
-~~Title:trasanti~~
-{{description>are afraid.}}
+---json
+{
+    "name":"trasanti",
+    "h1":"trasanti",
+    "title":"trasanti",
+    "description":"are afraid."
+}
+---
 
 ==== trasanti  ====
   * are afraid --- [[books:sb:9:6:33-34|SB 9.6.33-34]]

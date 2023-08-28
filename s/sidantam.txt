@@ -1,5 +1,11 @@
-~~Title:sīdantam~~
-{{description>terrified.}}
+---json
+{
+    "name":"sīdantam",
+    "h1":"sīdantam",
+    "title":"sīdantam",
+    "description":"terrified."
+}
+---
 
 ==== sīdantam  ====
   * terrified --- [[books:sb:1:17:2|SB 1.17.2]]

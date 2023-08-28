@@ -1,5 +1,11 @@
-~~Title:niyute~~
-{{description>two million.}}
+---json
+{
+    "name":"niyute",
+    "h1":"niyute",
+    "title":"niyute",
+    "description":"two million."
+}
+---
 
 ==== niyute  ====
   * two million --- [[books:sb:10:5:3|SB 10.5.3]]

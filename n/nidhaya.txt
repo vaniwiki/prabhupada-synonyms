@@ -1,5 +1,11 @@
-~~Title:nidhāya~~
-{{description>achieving; after placing the garland; by placing it; entrusting; having placed; having preserved; keeping; leaving behind; placing; taking.}}
+---json
+{
+    "name":"nidhāya",
+    "h1":"nidhāya",
+    "title":"nidhāya",
+    "description":"achieving; after placing the garland; by placing it; entrusting; having placed; having preserved; keeping; leaving behind; placing; taking."
+}
+---
 
 ==== nidhāya  ====
   * achieving --- [[books:sb:4:21:7|SB 4.21.7]]

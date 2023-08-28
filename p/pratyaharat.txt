@@ -1,5 +1,11 @@
-~~Title:pratyāharat~~
-{{description>delivered.}}
+---json
+{
+    "name":"pratyāharat",
+    "h1":"pratyāharat",
+    "title":"pratyāharat",
+    "description":"delivered."
+}
+---
 
 ==== pratyāharat  ====
   * delivered --- [[books:sb:8:24:57|SB 8.24.57]]

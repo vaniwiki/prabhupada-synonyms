@@ -1,5 +1,11 @@
-~~Title:luñcita~~
-{{description>driven away.}}
+---json
+{
+    "name":"luñcita",
+    "h1":"luñcita",
+    "title":"luñcita",
+    "description":"driven away."
+}
+---
 
 ==== luñcita  ====
   * driven away --- [[books:cc:antya:1:177|Antya 1.177]]

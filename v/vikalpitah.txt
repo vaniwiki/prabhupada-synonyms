@@ -1,5 +1,11 @@
-~~Title:vikalpitaḥ~~
-{{description>divided; questioned; speculated; thus measured.}}
+---json
+{
+    "name":"vikalpitaḥ",
+    "h1":"vikalpitaḥ",
+    "title":"vikalpitaḥ",
+    "description":"divided; questioned; speculated; thus measured."
+}
+---
 
 ==== vikalpitaḥ  ====
   * divided --- [[books:sb:5:26:38|SB 5.26.38]]

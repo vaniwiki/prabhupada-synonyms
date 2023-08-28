@@ -1,5 +1,11 @@
-~~Title:āśāsu~~
-{{description>in the four directions.}}
+---json
+{
+    "name":"āśāsu",
+    "h1":"āśāsu",
+    "title":"āśāsu",
+    "description":"in the four directions."
+}
+---
 
 ==== catasṛṣu āśāsu  ====
   * in the four directions --- [[books:sb:5:20:39|SB 5.20.39]]

@@ -1,5 +1,11 @@
-~~Title:guṇḍicāte~~
-{{description>in the neighborhood of the Guṇḍicā temple; in the temple of Guṇḍicā; to the Guṇḍicā temple cleansing ceremony.}}
+---json
+{
+    "name":"guṇḍicāte",
+    "h1":"guṇḍicāte",
+    "title":"guṇḍicāte",
+    "description":"in the neighborhood of the Guṇḍicā temple; in the temple of Guṇḍicā; to the Guṇḍicā temple cleansing ceremony."
+}
+---
 
 ==== guṇḍicāte  ====
   * in the neighborhood of the Guṇḍicā temple --- [[books:cc:madhya:1:145|Madhya 1.145]]

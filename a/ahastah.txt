@@ -1,5 +1,11 @@
-~~Title:ahastāḥ~~
-{{description>animals without hands.}}
+---json
+{
+    "name":"ahastāḥ",
+    "h1":"ahastāḥ",
+    "title":"ahastāḥ",
+    "description":"animals without hands."
+}
+---
 
 ==== ahastāḥ  ====
   * animals without hands --- [[books:sb:6:4:9|SB 6.4.9]]

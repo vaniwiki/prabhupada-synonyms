@@ -1,5 +1,11 @@
-~~Title:iyat~~
-{{description>all the five causes of creation; this much.}}
+---json
+{
+    "name":"iyat",
+    "h1":"iyat",
+    "title":"iyat",
+    "description":"all the five causes of creation; this much."
+}
+---
 
 ==== iyat  ====
   * all the five causes of creation --- [[books:sb:3:8:33|SB 3.8.33]]

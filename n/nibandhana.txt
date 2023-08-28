@@ -1,5 +1,11 @@
-~~Title:nibandhana~~
-{{description>compiling.}}
+---json
+{
+    "name":"nibandhana",
+    "h1":"nibandhana",
+    "title":"nibandhana",
+    "description":"compiling."
+}
+---
 
 ==== nibandhana  ====
   * compiling --- [[books:cc:madhya:25:99|Madhya 25.99]]

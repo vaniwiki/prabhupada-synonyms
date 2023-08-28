@@ -1,5 +1,11 @@
-~~Title:kaṭhoraḥ~~
-{{description>very hard.}}
+---json
+{
+    "name":"kaṭhoraḥ",
+    "h1":"kaṭhoraḥ",
+    "title":"kaṭhoraḥ",
+    "description":"very hard."
+}
+---
 
 ==== kaṭhoraḥ  ====
   * very hard --- [[books:sb:3:13:27|SB 3.13.27]]

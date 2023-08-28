@@ -1,5 +1,11 @@
-~~Title:vastrera~~
-{{description>of cloth; of the cloth.}}
+---json
+{
+    "name":"vastrera",
+    "h1":"vastrera",
+    "title":"vastrera",
+    "description":"of cloth; of the cloth."
+}
+---
 
 ==== vastrera  ====
   * of cloth --- [[books:cc:antya:10:23|Antya 10.23]]

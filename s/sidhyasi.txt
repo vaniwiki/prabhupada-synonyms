@@ -1,5 +1,11 @@
-~~Title:sidhyasi~~
-{{description>you will become the most perfect.}}
+---json
+{
+    "name":"sidhyasi",
+    "h1":"sidhyasi",
+    "title":"sidhyasi",
+    "description":"you will become the most perfect."
+}
+---
 
 ==== sidhyasi  ====
   * you will become the most perfect --- [[books:sb:6:16:64|SB 6.16.64]]

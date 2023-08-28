@@ -1,5 +1,11 @@
-~~Title:gup~~
-{{description>the protector of righteousness.}}
+---json
+{
+    "name":"gup",
+    "h1":"gup",
+    "title":"gup",
+    "description":"the protector of righteousness."
+}
+---
 
 ==== dharma-gup  ====
   * the protector of righteousness --- [[books:sb:1:12:11|SB 1.12.11]]

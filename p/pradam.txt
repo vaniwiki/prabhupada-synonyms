@@ -1,5 +1,11 @@
-~~Title:pradam~~
-{{description>bestowing; who awards.}}
+---json
+{
+    "name":"pradam",
+    "h1":"pradam",
+    "title":"pradam",
+    "description":"bestowing; who awards."
+}
+---
 
 ==== pradam  ====
   * bestowing --- [[books:sb:3:31:41|SB 3.31.41]]

@@ -1,5 +1,11 @@
-~~Title:jyesthah~~
-{{description>the elder; the eldest; the eldest son.}}
+---json
+{
+    "name":"jyesthah",
+    "h1":"jyesthah",
+    "title":"jyesthah",
+    "description":"the elder; the eldest; the eldest son."
+}
+---
 
 ==== jyeṣṭhaḥ  ====
   * the elder --- [[books:sb:7:1:40|SB 7.1.40]]

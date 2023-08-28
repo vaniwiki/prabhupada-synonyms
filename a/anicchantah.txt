@@ -1,5 +1,11 @@
-~~Title:anicchantaḥ~~
-{{description>against the will.}}
+---json
+{
+    "name":"anicchantaḥ",
+    "h1":"anicchantaḥ",
+    "title":"anicchantaḥ",
+    "description":"against the will."
+}
+---
 
 ==== anicchantaḥ  ====
   * against the will --- [[books:sb:8:21:14|SB 8.21.14]]

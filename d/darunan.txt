@@ -1,5 +1,11 @@
-~~Title:dāruṇān~~
-{{description>awfully dangerous.}}
+---json
+{
+    "name":"dāruṇān",
+    "h1":"dāruṇān",
+    "title":"dāruṇān",
+    "description":"awfully dangerous."
+}
+---
 
 ==== dāruṇān  ====
   * awfully dangerous --- [[books:sb:1:14:10|SB 1.14.10]]

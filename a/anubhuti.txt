@@ -1,5 +1,11 @@
-~~Title:anubhūti~~
-{{description>anyone thinking of Him immediately enjoys transcendental pleasure.}}
+---json
+{
+    "name":"anubhūti",
+    "h1":"anubhūti",
+    "title":"anubhūti",
+    "description":"anyone thinking of Him immediately enjoys transcendental pleasure."
+}
+---
 
 ==== sukha-anubhūti  ====
   * anyone thinking of Him immediately enjoys transcendental pleasure --- [[books:sb:10:12:39|SB 10.12.39]]

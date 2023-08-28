@@ -1,5 +1,11 @@
-~~Title:ajñānataḥ~~
-{{description>only because of ignorance.}}
+---json
+{
+    "name":"ajñānataḥ",
+    "h1":"ajñānataḥ",
+    "title":"ajñānataḥ",
+    "description":"only because of ignorance."
+}
+---
 
 ==== ajñānataḥ  ====
   * only because of ignorance --- [[books:sb:8:12:8|SB 8.12.8]]

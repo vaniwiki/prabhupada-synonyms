@@ -1,5 +1,11 @@
-~~Title:navamyām~~
-{{description>on the ninth lunar day.}}
+---json
+{
+    "name":"navamyām",
+    "h1":"navamyām",
+    "title":"navamyām",
+    "description":"on the ninth lunar day."
+}
+---
 
 ==== navamyām  ====
   * on the ninth lunar day --- [[books:sb:7:14:20-23|SB 7.14.20-23]]

@@ -1,5 +1,11 @@
-~~Title:purojavaḥ~~
-{{description>Purojava.}}
+---json
+{
+    "name":"purojavaḥ",
+    "h1":"purojavaḥ",
+    "title":"purojavaḥ",
+    "description":"Purojava."
+}
+---
 
 ==== purojavaḥ  ====
   * Purojava --- [[books:sb:6:6:12|SB 6.6.12]]

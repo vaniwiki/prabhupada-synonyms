@@ -1,5 +1,11 @@
-~~Title:tuṣṭimān~~
-{{description>Tuṣṭimān.}}
+---json
+{
+    "name":"tuṣṭimān",
+    "h1":"tuṣṭimān",
+    "title":"tuṣṭimān",
+    "description":"Tuṣṭimān."
+}
+---
 
 ==== tuṣṭimān  ====
   * Tuṣṭimān --- [[books:sb:9:24:24|SB 9.24.24]]

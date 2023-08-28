@@ -1,5 +1,11 @@
-~~Title:putrera~~
-{{description>of her son; of his son; of the son; of their son; of your son.}}
+---json
+{
+    "name":"putrera",
+    "h1":"putrera",
+    "title":"putrera",
+    "description":"of her son; of his son; of the son; of their son; of your son."
+}
+---
 
 ==== putrera  ====
   * of her son --- [[books:cc:adi:14:11|Ādi 14.11]]

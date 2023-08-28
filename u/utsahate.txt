@@ -1,5 +1,11 @@
-~~Title:utsahate~~
-{{description>is able.}}
+---json
+{
+    "name":"utsahate",
+    "h1":"utsahate",
+    "title":"utsahate",
+    "description":"is able."
+}
+---
 
 ==== utsahate  ====
   * is able --- [[books:cc:madhya:24:98|Madhya 24.98]]

@@ -1,5 +1,11 @@
-~~Title:kalya~~
-{{description>tomorrow.}}
+---json
+{
+    "name":"kalya",
+    "h1":"kalya",
+    "title":"kalya",
+    "description":"tomorrow."
+}
+---
 
 ==== kalya  ====
   * tomorrow --- [[books:cc:madhya:14:107|Madhya 14.107]]

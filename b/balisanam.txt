@@ -1,5 +1,11 @@
-~~Title:bāliśānām~~
-{{description>of the fools.}}
+---json
+{
+    "name":"bāliśānām",
+    "h1":"bāliśānām",
+    "title":"bāliśānām",
+    "description":"of the fools."
+}
+---
 
 ==== bāliśānām  ====
   * of the fools --- [[books:sb:5:3:9|SB 5.3.9]]

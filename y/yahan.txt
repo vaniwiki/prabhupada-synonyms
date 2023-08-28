@@ -1,5 +1,11 @@
-~~Title:yahan~~
-{{description>where.}}
+---json
+{
+    "name":"yahan",
+    "h1":"yahan",
+    "title":"yahan",
+    "description":"where."
+}
+---
 
 ==== yāhaṅ  ====
   * where --- [[books:cc:madhya:21:117|Madhya 21.117]]

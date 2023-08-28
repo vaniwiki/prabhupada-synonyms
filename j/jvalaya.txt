@@ -1,5 +1,11 @@
-~~Title:jvālāya~~
-{{description>from the burning of the poison.}}
+---json
+{
+    "name":"jvālāya",
+    "h1":"jvālāya",
+    "title":"jvālāya",
+    "description":"from the burning of the poison."
+}
+---
 
 ==== viṣa-jvālāya  ====
   * from the burning of the poison --- [[books:cc:antya:15:75|Antya 15.75]]

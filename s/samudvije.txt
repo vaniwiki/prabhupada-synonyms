@@ -1,5 +1,11 @@
-~~Title:samudvije~~
-{{description>I am full of anxiety.}}
+---json
+{
+    "name":"samudvije",
+    "h1":"samudvije",
+    "title":"samudvije",
+    "description":"I am full of anxiety."
+}
+---
 
 ==== samudvije  ====
   * I am full of anxiety --- [[books:sb:10:3:29|SB 10.3.29]]

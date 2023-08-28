@@ -1,5 +1,11 @@
-~~Title:pakṣiṇām~~
-{{description>of birds.}}
+---json
+{
+    "name":"pakṣiṇām",
+    "h1":"pakṣiṇām",
+    "title":"pakṣiṇām",
+    "description":"of birds."
+}
+---
 
 ==== pakṣiṇām  ====
   * of birds --- [[books:bg:10:30|Bg. 10.30]], [[books:sb:7:2:50|SB 7.2.50]]

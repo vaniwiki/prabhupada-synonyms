@@ -1,5 +1,11 @@
-~~Title:pravartayantaḥ~~
-{{description>performing.}}
+---json
+{
+    "name":"pravartayantaḥ",
+    "h1":"pravartayantaḥ",
+    "title":"pravartayantaḥ",
+    "description":"performing."
+}
+---
 
 ==== pravartayantaḥ  ====
   * performing --- [[books:sb:8:18:21|SB 8.18.21]]

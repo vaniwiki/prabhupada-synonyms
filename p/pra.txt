@@ -1,5 +1,11 @@
-~~Title:pra~~
-{{description>Allahabad.}}
+---json
+{
+    "name":"pra",
+    "h1":"pra",
+    "title":"pra",
+    "description":"Allahabad."
+}
+---
 
 ==== pra yāga  ====
   * Allahabad --- [[books:cc:madhya:25:201|Madhya 25.201]]

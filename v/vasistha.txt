@@ -1,5 +1,11 @@
-~~Title:vasistha~~
-{{description>the great sage Vasiṣṭha.}}
+---json
+{
+    "name":"vasistha",
+    "h1":"vasistha",
+    "title":"vasistha",
+    "description":"the great sage Vasiṣṭha."
+}
+---
 
 ==== vasiṣṭha  ====
   * the great sage Vasiṣṭha --- [[books:sb:4:24:4|SB 4.24.4]]

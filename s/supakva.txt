@@ -1,5 +1,11 @@
-~~Title:supakva~~
-{{description>nature.}}
+---json
+{
+    "name":"supakva",
+    "h1":"supakva",
+    "title":"supakva",
+    "description":"nature."
+}
+---
 
 ==== supakva  ====
   * nature --- [[books:sb:1:8:40|SB 1.8.40]]

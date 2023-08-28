@@ -1,5 +1,11 @@
-~~Title:āmārasaṅge~~
-{{description>with me.}}
+---json
+{
+    "name":"āmārasaṅge",
+    "h1":"āmārasaṅge",
+    "title":"āmārasaṅge",
+    "description":"with me."
+}
+---
 
 ==== āmārasaṅge  ====
   * with me --- [[books:cc:madhya:6:62|Madhya 6.62]]

@@ -1,5 +1,11 @@
-~~Title:ālokāt~~
-{{description>by seeing Lord Kṛṣṇa.}}
+---json
+{
+    "name":"ālokāt",
+    "h1":"ālokāt",
+    "title":"ālokāt",
+    "description":"by seeing Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇa-ālokāt  ====
   * by seeing Lord Kṛṣṇa --- [[books:cc:madhya:14:189|Madhya 14.189]]

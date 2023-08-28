@@ -1,5 +1,11 @@
-~~Title:ṛtvik~~
-{{description>priests conducting the ceremony; the priests.}}
+---json
+{
+    "name":"ṛtvik",
+    "h1":"ṛtvik",
+    "title":"ṛtvik",
+    "description":"priests conducting the ceremony; the priests."
+}
+---
 
 ==== ṛtvik  ====
   * priests conducting the ceremony --- [[books:sb:5:3:2|SB 5.3.2]]

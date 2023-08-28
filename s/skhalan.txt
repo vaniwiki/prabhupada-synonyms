@@ -1,5 +1,11 @@
-~~Title:skhalan~~
-{{description>slipping.}}
+---json
+{
+    "name":"skhalan",
+    "h1":"skhalan",
+    "title":"skhalan",
+    "description":"slipping."
+}
+---
 
 ==== skhalan  ====
   * slipping --- [[books:sb:6:14:50-51|SB 6.14.50-51]]

@@ -1,5 +1,11 @@
-~~Title:nathah~~
-{{description>the master; the Supreme Lord.}}
+---json
+{
+    "name":"nathah",
+    "h1":"nathah",
+    "title":"nathah",
+    "description":"the master; the Supreme Lord."
+}
+---
 
 ==== nāthaḥ  ====
   * the master --- [[books:sb:4:16:20|SB 4.16.20]]

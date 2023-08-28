@@ -1,5 +1,11 @@
-~~Title:rathāṅgam~~
-{{description>armed with the Sudarśana disc.}}
+---json
+{
+    "name":"rathāṅgam",
+    "h1":"rathāṅgam",
+    "title":"rathāṅgam",
+    "description":"armed with the Sudarśana disc."
+}
+---
 
 ==== ātta-rathāṅgam  ====
   * armed with the Sudarśana disc --- [[books:sb:3:19:7|SB 3.19.7]]

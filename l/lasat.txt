@@ -1,5 +1,11 @@
-~~Title:lasat~~
-{{description>brilliant; floating with; glittering; hanging; moving all over; shining; splendid.}}
+---json
+{
+    "name":"lasat",
+    "h1":"lasat",
+    "title":"lasat",
+    "description":"brilliant; floating with; glittering; hanging; moving all over; shining; splendid."
+}
+---
 
 ==== lasat  ====
   * brilliant --- [[books:sb:2:9:13|SB 2.9.13]], [[books:sb:4:9:54|SB 4.9.54]], [[books:cc:antya:15:63|Antya 15.63]]

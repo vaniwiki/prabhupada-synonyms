@@ -1,5 +1,11 @@
-~~Title:vigarhayan~~
-{{description>condemning.}}
+---json
+{
+    "name":"vigarhayan",
+    "h1":"vigarhayan",
+    "title":"vigarhayan",
+    "description":"condemning."
+}
+---
 
 ==== vigarhayan  ====
   * condemning --- [[books:sb:6:18:44|SB 6.18.44]], [[books:sb:9:18:25|SB 9.18.25]]

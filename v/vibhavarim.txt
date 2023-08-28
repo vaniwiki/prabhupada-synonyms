@@ -1,5 +1,11 @@
-~~Title:vibhāvarīm~~
-{{description>night; Vibhāvarī.}}
+---json
+{
+    "name":"vibhāvarīm",
+    "h1":"vibhāvarīm",
+    "title":"vibhāvarīm",
+    "description":"night; Vibhāvarī."
+}
+---
 
 ==== vibhāvarīm  ====
   * night --- [[books:sb:4:8:71|SB 4.8.71]]

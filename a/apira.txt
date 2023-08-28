@@ -1,5 +1,11 @@
-~~Title:apira~~
-{{description>of the words nirgranthāḥ api.}}
+---json
+{
+    "name":"apira",
+    "h1":"apira",
+    "title":"apira",
+    "description":"of the words nirgranthāḥ api."
+}
+---
 
 ==== nirgranthāḥ apira  ====
   * of the words //nirgranthāḥ// api --- [[books:cc:madhya:24:153|Madhya 24.153]]

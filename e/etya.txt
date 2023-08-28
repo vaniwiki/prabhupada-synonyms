@@ -1,5 +1,11 @@
-~~Title:etya~~
-{{description>after; after returning; approached; arriving; coming near; getting in; having attained.}}
+---json
+{
+    "name":"etya",
+    "h1":"etya",
+    "title":"etya",
+    "description":"after; after returning; approached; arriving; coming near; getting in; having attained."
+}
+---
 
 ==== etya  ====
   * after --- [[books:sb:10:13:16|SB 10.13.16]]

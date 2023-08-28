@@ -1,5 +1,11 @@
-~~Title:ripūn~~
-{{description>his enemies; many demons.}}
+---json
+{
+    "name":"ripūn",
+    "h1":"ripūn",
+    "title":"ripūn",
+    "description":"his enemies; many demons."
+}
+---
 
 ==== ripūn  ====
   * his enemies --- [[books:sb:6:11:6|SB 6.11.6]]

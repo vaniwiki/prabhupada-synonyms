@@ -1,5 +1,11 @@
-~~Title:smaraṇāya~~
-{{description>just to remind you; to remember.}}
+---json
+{
+    "name":"smaraṇāya",
+    "h1":"smaraṇāya",
+    "title":"smaraṇāya",
+    "description":"just to remind you; to remember."
+}
+---
 
 ==== smaraṇāya  ====
   * just to remind you --- [[books:sb:10:3:44|SB 10.3.44]]

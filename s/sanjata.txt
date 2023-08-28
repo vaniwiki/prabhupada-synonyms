@@ -1,5 +1,11 @@
-~~Title:sañjāta~~
-{{description>arisen; having developed.}}
+---json
+{
+    "name":"sañjāta",
+    "h1":"sañjāta",
+    "title":"sañjāta",
+    "description":"arisen; having developed."
+}
+---
 
 ==== sañjāta  ====
   * arisen --- [[books:sb:4:17:28|SB 4.17.28]]

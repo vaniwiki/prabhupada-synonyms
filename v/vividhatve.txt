@@ -1,5 +1,11 @@
-~~Title:vividhatve~~
-{{description>in varieties.}}
+---json
+{
+    "name":"vividhatve",
+    "h1":"vividhatve",
+    "title":"vividhatve",
+    "description":"in varieties."
+}
+---
 
 ==== vividhatve  ====
   * in varieties --- [[books:cc:madhya:20:380|Madhya 20.380]]

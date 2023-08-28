@@ -1,5 +1,11 @@
-~~Title:prahastam~~
-{{description>Prahasta.}}
+---json
+{
+    "name":"prahastam",
+    "h1":"prahastam",
+    "title":"prahastam",
+    "description":"Prahasta."
+}
+---
 
 ==== prahastam  ====
   * Prahasta --- [[books:sb:9:10:18|SB 9.10.18]]

@@ -1,5 +1,11 @@
-~~Title:śreya~~
-{{description>auspiciousness.}}
+---json
+{
+    "name":"śreya",
+    "h1":"śreya",
+    "title":"śreya",
+    "description":"auspiciousness."
+}
+---
 
 ==== śreya  ====
   * auspiciousness --- [[books:sb:7:14:27-28|SB 7.14.27-28]]

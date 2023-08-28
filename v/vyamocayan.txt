@@ -1,5 +1,11 @@
-~~Title:vyāmocayan~~
-{{description>released; they released.}}
+---json
+{
+    "name":"vyāmocayan",
+    "h1":"vyāmocayan",
+    "title":"vyāmocayan",
+    "description":"released; they released."
+}
+---
 
 ==== vyāmocayan  ====
   * released --- [[books:sb:6:3:9|SB 6.3.9]]

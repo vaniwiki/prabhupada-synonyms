@@ -1,5 +1,11 @@
-~~Title:kuṭajaiḥ~~
-{{description>and by kuṭaja trees.}}
+---json
+{
+    "name":"kuṭajaiḥ",
+    "h1":"kuṭajaiḥ",
+    "title":"kuṭajaiḥ",
+    "description":"and by kuṭaja trees."
+}
+---
 
 ==== kuṭajaiḥ  ====
   * and by //kuṭaja// trees --- [[books:sb:3:21:42-43|SB 3.21.42-43]]

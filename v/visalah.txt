@@ -1,5 +1,11 @@
-~~Title:viśālaḥ~~
-{{description>among the three, King Viśāla; having a width; named Viśāla.}}
+---json
+{
+    "name":"viśālaḥ",
+    "h1":"viśālaḥ",
+    "title":"viśālaḥ",
+    "description":"among the three, King Viśāla; having a width; named Viśāla."
+}
+---
 
 ==== viśālaḥ  ====
   * among the three, King Viśāla --- [[books:sb:9:2:33|SB 9.2.33]]

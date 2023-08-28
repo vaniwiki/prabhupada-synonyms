@@ -1,5 +1,11 @@
-~~Title:puraiḥ~~
-{{description>with different bodily forms.}}
+---json
+{
+    "name":"puraiḥ",
+    "h1":"puraiḥ",
+    "title":"puraiḥ",
+    "description":"with different bodily forms."
+}
+---
 
 ==== puraiḥ  ====
   * with different bodily forms --- [[books:sb:5:11:5|SB 5.11.5]]

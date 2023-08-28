@@ -1,5 +1,11 @@
-~~Title:samaśnute~~
-{{description>perfects.}}
+---json
+{
+    "name":"samaśnute",
+    "h1":"samaśnute",
+    "title":"samaśnute",
+    "description":"perfects."
+}
+---
 
 ==== samaśnute  ====
   * perfects --- [[books:cc:adi:15:27|Ādi 15.27]]

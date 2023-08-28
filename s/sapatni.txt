@@ -1,5 +1,11 @@
-~~Title:sapatni~~
-{{description>a co-wife.}}
+---json
+{
+    "name":"sapatni",
+    "h1":"sapatni",
+    "title":"sapatni",
+    "description":"a co-wife."
+}
+---
 
 ==== sapatni  ====
   * a co-wife --- [[books:sb:2:7:8|SB 2.7.8]]

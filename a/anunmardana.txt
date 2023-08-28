@@ -1,5 +1,11 @@
-~~Title:anunmardana~~
-{{description>without any massage.}}
+---json
+{
+    "name":"anunmardana",
+    "h1":"anunmardana",
+    "title":"anunmardana",
+    "description":"without any massage."
+}
+---
 
 ==== anunmardana  ====
   * without any massage --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

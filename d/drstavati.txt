@@ -1,5 +1,11 @@
-~~Title:dṛṣṭavatī~~
-{{description>have you seen.}}
+---json
+{
+    "name":"dṛṣṭavatī",
+    "h1":"dṛṣṭavatī",
+    "title":"dṛṣṭavatī",
+    "description":"have you seen."
+}
+---
 
 ==== dṛṣṭavatī asi  ====
   * have you seen --- [[books:sb:6:17:27|SB 6.17.27]]

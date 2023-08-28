@@ -1,5 +1,11 @@
-~~Title:veṇure~~
-{{description>the flute.}}
+---json
+{
+    "name":"veṇure",
+    "h1":"veṇure",
+    "title":"veṇure",
+    "description":"the flute."
+}
+---
 
 ==== veṇure  ====
   * the flute --- [[books:cc:antya:16:148|Antya 16.148]]

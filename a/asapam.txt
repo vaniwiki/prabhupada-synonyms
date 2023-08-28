@@ -1,5 +1,11 @@
-~~Title:aśapam~~
-{{description>I cursed.}}
+---json
+{
+    "name":"aśapam",
+    "h1":"aśapam",
+    "title":"aśapam",
+    "description":"I cursed."
+}
+---
 
 ==== aśapam  ====
   * I cursed --- [[books:sb:9:18:22|SB 9.18.22]]

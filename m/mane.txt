@@ -1,5 +1,11 @@
-~~Title:mane~~
-{{description>at mind; from the mind; his mind; in His mind; in mind; in my mind; in the mind; in the minds; in their minds; mind; the mind; to the mind; with the mind; within his mind; within the mind; within the minds.}}
+---json
+{
+    "name":"mane",
+    "h1":"mane",
+    "title":"mane",
+    "description":"at mind; from the mind; his mind; in His mind; in mind; in my mind; in the mind; in the minds; in their minds; mind; the mind; to the mind; with the mind; within his mind; within the mind; within the minds."
+}
+---
 
 ==== mane  ====
   * at mind --- [[books:cc:antya:6:135|Antya 6.135]]

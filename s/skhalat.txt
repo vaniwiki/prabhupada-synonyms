@@ -1,5 +1,11 @@
-~~Title:skhalat~~
-{{description>slipping.}}
+---json
+{
+    "name":"skhalat",
+    "h1":"skhalat",
+    "title":"skhalat",
+    "description":"slipping."
+}
+---
 
 ==== skhalat  ====
   * slipping --- [[books:cc:antya:1:2|Antya 1.2]]

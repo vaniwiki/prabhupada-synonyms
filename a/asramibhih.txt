@@ -1,5 +1,11 @@
-~~Title:āśramibhiḥ~~
-{{description>by persons who strictly followed the regulative principles of the four varṇas and four āśramas.}}
+---json
+{
+    "name":"āśramibhiḥ",
+    "h1":"āśramibhiḥ",
+    "title":"āśramibhiḥ",
+    "description":"by persons who strictly followed the regulative principles of the four varṇas and four āśramas."
+}
+---
 
 ==== varṇa-āśramibhiḥ  ====
   * by persons who strictly followed the regulative principles of the four //varṇas// and four //āśramas// --- [[books:sb:7:4:15|SB 7.4.15]]

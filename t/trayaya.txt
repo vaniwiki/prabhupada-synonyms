@@ -1,5 +1,11 @@
-~~Title:trayāya~~
-{{description>unto the Supreme Person, who has threefold potencies.}}
+---json
+{
+    "name":"trayāya",
+    "h1":"trayāya",
+    "title":"trayāya",
+    "description":"unto the Supreme Person, who has threefold potencies."
+}
+---
 
 ==== śakti-trayāya  ====
   * unto the Supreme Person, who has threefold potencies --- [[books:sb:8:3:28|SB 8.3.28]]

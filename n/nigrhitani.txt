@@ -1,5 +1,11 @@
-~~Title:nigṛhītāni~~
-{{description>so curbed down.}}
+---json
+{
+    "name":"nigṛhītāni",
+    "h1":"nigṛhītāni",
+    "title":"nigṛhītāni",
+    "description":"so curbed down."
+}
+---
 
 ==== nigṛhītāni  ====
   * so curbed down --- [[books:bg:2:68|Bg. 2.68]]

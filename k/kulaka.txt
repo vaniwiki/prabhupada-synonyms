@@ -1,5 +1,11 @@
-~~Title:kulaka~~
-{{description>Kulaka.}}
+---json
+{
+    "name":"kulaka",
+    "h1":"kulaka",
+    "title":"kulaka",
+    "description":"Kulaka."
+}
+---
 
 ==== kulaka  ====
   * Kulaka --- [[books:sb:5:20:16|SB 5.20.16]]

@@ -1,5 +1,11 @@
-~~Title:dekhibāra~~
-{{description>to see.}}
+---json
+{
+    "name":"dekhibāra",
+    "h1":"dekhibāra",
+    "title":"dekhibāra",
+    "description":"to see."
+}
+---
 
 ==== dekhibāra  ====
   * to see --- [[books:cc:antya:7:56|Antya 7.56]]

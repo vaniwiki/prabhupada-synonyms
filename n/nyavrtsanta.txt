@@ -1,5 +1,11 @@
-~~Title:nyavṛtsanta~~
-{{description>stopped.}}
+---json
+{
+    "name":"nyavṛtsanta",
+    "h1":"nyavṛtsanta",
+    "title":"nyavṛtsanta",
+    "description":"stopped."
+}
+---
 
 ==== nyavṛtsanta  ====
   * stopped --- [[books:sb:5:9:8|SB 5.9.8]]

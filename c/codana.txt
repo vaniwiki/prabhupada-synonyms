@@ -1,5 +1,11 @@
-~~Title:codana~~
-{{description>impetus.}}
+---json
+{
+    "name":"codana",
+    "h1":"codana",
+    "title":"codana",
+    "description":"impetus."
+}
+---
 
 ==== codanā  ====
   * impetus --- [[books:bg:18:18|Bg. 18.18]]

@@ -1,5 +1,11 @@
-~~Title:ruj~~
-{{description>anger.}}
+---json
+{
+    "name":"ruj",
+    "h1":"ruj",
+    "title":"ruj",
+    "description":"anger."
+}
+---
 
 ==== ruj  ====
   * anger --- [[books:cc:madhya:17:39|Madhya 17.39]]

@@ -1,5 +1,11 @@
-~~Title:anudhāvatī~~
-{{description>running after.}}
+---json
+{
+    "name":"anudhāvatī",
+    "h1":"anudhāvatī",
+    "title":"anudhāvatī",
+    "description":"running after."
+}
+---
 
 ==== anudhāvatī  ====
   * running after --- [[books:sb:9:9:11|SB 9.9.11]]

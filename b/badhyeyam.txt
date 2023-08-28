@@ -1,5 +1,11 @@
-~~Title:badhyeyam~~
-{{description>be conditioned.}}
+---json
+{
+    "name":"badhyeyam",
+    "h1":"badhyeyam",
+    "title":"badhyeyam",
+    "description":"be conditioned."
+}
+---
 
 ==== badhyeyam  ====
   * be conditioned --- [[books:sb:2:9:29|SB 2.9.29]]

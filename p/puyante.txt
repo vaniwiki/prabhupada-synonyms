@@ -1,5 +1,11 @@
-~~Title:pūyante~~
-{{description>are purified; become vanquished.}}
+---json
+{
+    "name":"pūyante",
+    "h1":"pūyante",
+    "title":"pūyante",
+    "description":"are purified; become vanquished."
+}
+---
 
 ==== pūyante  ====
   * are purified --- [[books:sb:7:10:19|SB 7.10.19]]

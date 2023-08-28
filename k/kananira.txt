@@ -1,5 +1,11 @@
-~~Title:kānāñira~~
-{{description>the place of the name Kānāi Nāṭaśālā.}}
+---json
+{
+    "name":"kānāñira",
+    "h1":"kānāñira",
+    "title":"kānāñira",
+    "description":"the place of the name Kānāi Nāṭaśālā."
+}
+---
 
 ==== kānāñira nāṭa-śālā  ====
   * the place of the name Kānāi Nāṭaśālā --- [[books:cc:madhya:1:162|Madhya 1.162]]

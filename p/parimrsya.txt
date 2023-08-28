@@ -1,5 +1,11 @@
-~~Title:parimṛśya~~
-{{description>searching.}}
+---json
+{
+    "name":"parimṛśya",
+    "h1":"parimṛśya",
+    "title":"parimṛśya",
+    "description":"searching."
+}
+---
 
 ==== parimṛśya  ====
   * searching --- [[books:sb:8:19:11|SB 8.19.11]]

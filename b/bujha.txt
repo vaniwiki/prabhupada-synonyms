@@ -1,5 +1,11 @@
-~~Title:bujha~~
-{{description>understand.}}
+---json
+{
+    "name":"bujha",
+    "h1":"bujha",
+    "title":"bujha",
+    "description":"understand."
+}
+---
 
 ==== bujha  ====
   * understand --- [[books:cc:madhya:6:125|Madhya 6.125]]

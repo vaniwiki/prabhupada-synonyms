@@ -1,5 +1,11 @@
-~~Title:yantaḥ~~
-{{description>while going to their respective destinations in the heavenly planets.}}
+---json
+{
+    "name":"yantaḥ",
+    "h1":"yantaḥ",
+    "title":"yantaḥ",
+    "description":"while going to their respective destinations in the heavenly planets."
+}
+---
 
 ==== svaḥ yantaḥ  ====
   * while going to their respective destinations in the heavenly planets --- [[books:sb:9:4:4-5|SB 9.4.4-5]]

@@ -1,5 +1,11 @@
-~~Title:dīkṣām~~
-{{description>initiation.}}
+---json
+{
+    "name":"dīkṣām",
+    "h1":"dīkṣām",
+    "title":"dīkṣām",
+    "description":"initiation."
+}
+---
 
 ==== dīkṣām  ====
   * initiation --- [[books:cc:madhya:15:110|Madhya 15.110]], [[books:cc:antya:16:1|Antya 16.1]]

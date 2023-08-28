@@ -1,5 +1,11 @@
-~~Title:stambe~~
-{{description>on a clump of śara grass.}}
+---json
+{
+    "name":"stambe",
+    "h1":"stambe",
+    "title":"stambe",
+    "description":"on a clump of śara grass."
+}
+---
 
 ==== śara-stambe  ====
   * on a clump of //śara// grass --- [[books:sb:9:21:35|SB 9.21.35]]

@@ -1,5 +1,11 @@
-~~Title:goṅāya~~
-{{description>passes.}}
+---json
+{
+    "name":"goṅāya",
+    "h1":"goṅāya",
+    "title":"goṅāya",
+    "description":"passes."
+}
+---
 
 ==== goṅāya  ====
   * passes --- [[books:cc:antya:1:213|Antya 1.213]]

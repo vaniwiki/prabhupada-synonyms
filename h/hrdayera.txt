@@ -1,5 +1,11 @@
-~~Title:hṛdayera~~
-{{description>of the heart.}}
+---json
+{
+    "name":"hṛdayera",
+    "h1":"hṛdayera",
+    "title":"hṛdayera",
+    "description":"of the heart."
+}
+---
 
 ==== hṛdayera  ====
   * of the heart --- [[books:cc:adi:1:98|Ādi 1.98]], [[books:cc:madhya:2:35|Madhya 2.35]], [[books:cc:antya:15:77|Antya 15.77]], [[books:cc:antya:15:82|Antya 15.82]]

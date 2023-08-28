@@ -1,5 +1,11 @@
-~~Title:asambhāṣya~~
-{{description>not fit for discussion.}}
+---json
+{
+    "name":"asambhāṣya",
+    "h1":"asambhāṣya",
+    "title":"asambhāṣya",
+    "description":"not fit for discussion."
+}
+---
 
 ==== asambhāṣya  ====
   * not fit for discussion --- [[books:cc:madhya:9:48|Madhya 9.48]]

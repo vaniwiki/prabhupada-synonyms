@@ -1,5 +1,11 @@
-~~Title:virājase~~
-{{description>you stay.}}
+---json
+{
+    "name":"virājase",
+    "h1":"virājase",
+    "title":"virājase",
+    "description":"you stay."
+}
+---
 
 ==== virājase  ====
   * you stay --- [[books:sb:9:5:8|SB 9.5.8]]

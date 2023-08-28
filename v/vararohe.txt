@@ -1,5 +1,11 @@
-~~Title:varārohe~~
-{{description>O best of beautiful women.}}
+---json
+{
+    "name":"varārohe",
+    "h1":"varārohe",
+    "title":"varārohe",
+    "description":"O best of beautiful women."
+}
+---
 
 ==== varārohe  ====
   * O best of beautiful women --- [[books:sb:9:14:19|SB 9.14.19]]

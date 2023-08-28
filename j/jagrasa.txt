@@ -1,5 +1,11 @@
-~~Title:jagrāsa~~
-{{description>swallowed.}}
+---json
+{
+    "name":"jagrāsa",
+    "h1":"jagrāsa",
+    "title":"jagrāsa",
+    "description":"swallowed."
+}
+---
 
 ==== jagrāsa  ====
   * swallowed --- [[books:sb:6:12:27-29|SB 6.12.27-29]]

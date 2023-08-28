@@ -1,5 +1,11 @@
-~~Title:śītatām~~
-{{description>coldness.}}
+---json
+{
+    "name":"śītatām",
+    "h1":"śītatām",
+    "title":"śītatām",
+    "description":"coldness."
+}
+---
 
 ==== śītatām  ====
   * coldness --- [[books:sb:2:10:23|SB 2.10.23]]

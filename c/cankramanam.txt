@@ -1,5 +1,11 @@
-~~Title:caṅkramaṇam~~
-{{description>movements; the tour.}}
+---json
+{
+    "name":"caṅkramaṇam",
+    "h1":"caṅkramaṇam",
+    "title":"caṅkramaṇam",
+    "description":"movements; the tour."
+}
+---
 
 ==== caṅkramaṇam  ====
   * movements --- [[books:sb:4:31:5|SB 4.31.5]]

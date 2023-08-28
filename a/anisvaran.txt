@@ -1,5 +1,11 @@
-~~Title:anīśvarān~~
-{{description>the modes of material nature.}}
+---json
+{
+    "name":"anīśvarān",
+    "h1":"anīśvarān",
+    "title":"anīśvarān",
+    "description":"the modes of material nature."
+}
+---
 
 ==== anīśvarān guṇān  ====
   * the modes of material nature --- [[books:sb:3:28:11|SB 3.28.11]]

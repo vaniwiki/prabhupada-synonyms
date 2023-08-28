@@ -1,5 +1,11 @@
-~~Title:snuṣā~~
-{{description>daughter-in-law.}}
+---json
+{
+    "name":"snuṣā",
+    "h1":"snuṣā",
+    "title":"snuṣā",
+    "description":"daughter-in-law."
+}
+---
 
 ==== snuṣā  ====
   * daughter-in-law --- [[books:sb:9:23:35-36|SB 9.23.35-36]], [[books:sb:9:23:37|SB 9.23.37]]

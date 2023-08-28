@@ -1,5 +1,11 @@
-~~Title:ātyantikena~~
-{{description>excessive.}}
+---json
+{
+    "name":"ātyantikena",
+    "h1":"ātyantikena",
+    "title":"ātyantikena",
+    "description":"excessive."
+}
+---
 
 ==== ātyantikena  ====
   * excessive --- [[books:sb:3:6:28|SB 3.6.28]]

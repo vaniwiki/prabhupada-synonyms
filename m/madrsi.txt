@@ -1,5 +1,11 @@
-~~Title:mādṛśī~~
-{{description>like me.}}
+---json
+{
+    "name":"mādṛśī",
+    "h1":"mādṛśī",
+    "title":"mādṛśī",
+    "description":"like me."
+}
+---
 
 ==== mādṛśī  ====
   * like me --- [[books:sb:4:25:41|SB 4.25.41]]

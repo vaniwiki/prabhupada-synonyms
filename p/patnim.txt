@@ -1,5 +1,11 @@
-~~Title:patnīm~~
-{{description>the wife; unto his wife; wife; Your wife.}}
+---json
+{
+    "name":"patnīm",
+    "h1":"patnīm",
+    "title":"patnīm",
+    "description":"the wife; unto his wife; wife; Your wife."
+}
+---
 
 ==== patnīm  ====
   * the wife --- [[books:sb:9:14:4|SB 9.14.4]]

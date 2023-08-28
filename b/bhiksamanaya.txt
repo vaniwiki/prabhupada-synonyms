@@ -1,5 +1,11 @@
-~~Title:bhikṣamāṇāya~~
-{{description>begging.}}
+---json
+{
+    "name":"bhikṣamāṇāya",
+    "h1":"bhikṣamāṇāya",
+    "title":"bhikṣamāṇāya",
+    "description":"begging."
+}
+---
 
 ==== bhikṣamāṇāya  ====
   * begging --- [[books:sb:6:10:4|SB 6.10.4]]

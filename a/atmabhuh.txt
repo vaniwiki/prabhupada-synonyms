@@ -1,5 +1,11 @@
-~~Title:ātmabhūḥ~~
-{{description>born from the Supreme; Lord Brahmā.}}
+---json
+{
+    "name":"ātmabhūḥ",
+    "h1":"ātmabhūḥ",
+    "title":"ātmabhūḥ",
+    "description":"born from the Supreme; Lord Brahmā."
+}
+---
 
 ==== ātmabhūḥ  ====
   * born from the Supreme --- [[books:sb:3:20:49|SB 3.20.49]]

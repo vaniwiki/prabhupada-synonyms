@@ -1,5 +1,11 @@
-~~Title:jayadeva~~
-{{description>Jayadeva Gosvāmī; of the name Jayadeva.}}
+---json
+{
+    "name":"jayadeva",
+    "h1":"jayadeva",
+    "title":"jayadeva",
+    "description":"Jayadeva Gosvāmī; of the name Jayadeva."
+}
+---
 
 ==== jayadeva  ====
   * Jayadeva Gosvāmī --- [[books:cc:antya:20:67-68|Antya 20.67-68]]

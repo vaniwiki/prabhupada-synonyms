@@ -1,5 +1,11 @@
-~~Title:jyotīṁṣi~~
-{{description>like the stars in the sky.}}
+---json
+{
+    "name":"jyotīṁṣi",
+    "h1":"jyotīṁṣi",
+    "title":"jyotīṁṣi",
+    "description":"like the stars in the sky."
+}
+---
 
 ==== jyotīṁṣi iva  ====
   * like the stars in the sky --- [[books:sb:6:10:24|SB 6.10.24]]

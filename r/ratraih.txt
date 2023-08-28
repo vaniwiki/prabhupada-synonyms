@@ -1,5 +1,11 @@
-~~Title:rātraiḥ~~
-{{description>by nights.}}
+---json
+{
+    "name":"rātraiḥ",
+    "h1":"rātraiḥ",
+    "title":"rātraiḥ",
+    "description":"by nights."
+}
+---
 
 ==== rātraiḥ  ====
   * by nights --- [[books:sb:3:11:33|SB 3.11.33]]

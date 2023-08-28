@@ -1,5 +1,11 @@
-~~Title:vivarite~~
-{{description>to describe.}}
+---json
+{
+    "name":"vivarite",
+    "h1":"vivarite",
+    "title":"vivarite",
+    "description":"to describe."
+}
+---
 
 ==== vivarite  ====
   * to describe --- [[books:cc:antya:1:57|Antya 1.57]]

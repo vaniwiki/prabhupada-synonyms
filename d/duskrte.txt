@@ -1,5 +1,11 @@
-~~Title:duṣkṛte~~
-{{description>in good and bad results.}}
+---json
+{
+    "name":"duṣkṛte",
+    "h1":"duṣkṛte",
+    "title":"duṣkṛte",
+    "description":"in good and bad results."
+}
+---
 
 ==== sukṛta-duṣkṛte  ====
   * in good and bad results --- [[books:bg:2:50|Bg. 2.50]]

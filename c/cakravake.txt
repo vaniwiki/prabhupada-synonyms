@@ -1,5 +1,11 @@
-~~Title:cakravāke~~
-{{description>the cakravāka birds.}}
+---json
+{
+    "name":"cakravāke",
+    "h1":"cakravāke",
+    "title":"cakravāke",
+    "description":"the cakravāka birds."
+}
+---
 
 ==== cakravāke  ====
   * the //cakravāka// birds --- [[books:cc:antya:18:95|Antya 18.95]], [[books:cc:antya:18:97|Antya 18.97]], [[books:cc:antya:18:98|Antya 18.98]]

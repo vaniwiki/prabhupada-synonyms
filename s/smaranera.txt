@@ -1,5 +1,11 @@
-~~Title:smaraṇera~~
-{{description>of remembrance.}}
+---json
+{
+    "name":"smaraṇera",
+    "h1":"smaraṇera",
+    "title":"smaraṇera",
+    "description":"of remembrance."
+}
+---
 
 ==== smaraṇera  ====
   * of remembrance --- [[books:cc:antya:9:137|Antya 9.137]]

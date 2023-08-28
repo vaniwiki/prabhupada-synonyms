@@ -1,5 +1,11 @@
-~~Title:parāṇuda~~
-{{description>clear up.}}
+---json
+{
+    "name":"parāṇuda",
+    "h1":"parāṇuda",
+    "title":"parāṇuda",
+    "description":"clear up."
+}
+---
 
 ==== parāṇuda  ====
   * clear up --- [[books:sb:3:7:7|SB 3.7.7]]

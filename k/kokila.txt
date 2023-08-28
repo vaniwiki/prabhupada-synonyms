@@ -1,5 +1,11 @@
-~~Title:kokila~~
-{{description>of cuckoos; the cuckoo; the cuckoos.}}
+---json
+{
+    "name":"kokila",
+    "h1":"kokila",
+    "title":"kokila",
+    "description":"of cuckoos; the cuckoo; the cuckoos."
+}
+---
 
 ==== kokila  ====
   * of cuckoos --- [[books:sb:4:25:19|SB 4.25.19]]

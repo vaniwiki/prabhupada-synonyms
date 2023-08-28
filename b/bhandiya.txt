@@ -1,5 +1,11 @@
-~~Title:bhāṇḍiyā~~
-{{description>cheating or bluffing.}}
+---json
+{
+    "name":"bhāṇḍiyā",
+    "h1":"bhāṇḍiyā",
+    "title":"bhāṇḍiyā",
+    "description":"cheating or bluffing."
+}
+---
 
 ==== bhāṇḍiyā  ====
   * cheating or bluffing --- [[books:cc:madhya:3:117|Madhya 3.117]]

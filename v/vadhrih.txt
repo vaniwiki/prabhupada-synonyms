@@ -1,5 +1,11 @@
-~~Title:vadhriḥ~~
-{{description>bound by the seven layers; bound by the seven layers of material coverings.}}
+---json
+{
+    "name":"vadhriḥ",
+    "h1":"vadhriḥ",
+    "title":"vadhriḥ",
+    "description":"bound by the seven layers; bound by the seven layers of material coverings."
+}
+---
 
 ==== sapta-vadhriḥ  ====
   * bound by the seven layers --- [[books:sb:3:31:11|SB 3.31.11]]

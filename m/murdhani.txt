@@ -1,5 +1,11 @@
-~~Title:mūrdhani~~
-{{description>on a hood or head; on the head (Dhruvaloka); on the head; on the top; on the top of the head.}}
+---json
+{
+    "name":"mūrdhani",
+    "h1":"mūrdhani",
+    "title":"mūrdhani",
+    "description":"on a hood or head; on the head (Dhruvaloka); on the head; on the top; on the top of the head."
+}
+---
 
 ==== mūrdhani  ====
   * on a hood or head --- [[books:sb:5:25:12|SB 5.25.12]]

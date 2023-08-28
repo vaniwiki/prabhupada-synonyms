@@ -1,5 +1,11 @@
-~~Title:yatiṣyate~~
-{{description>will endeavor.}}
+---json
+{
+    "name":"yatiṣyate",
+    "h1":"yatiṣyate",
+    "title":"yatiṣyate",
+    "description":"will endeavor."
+}
+---
 
 ==== yatiṣyate  ====
   * will endeavor --- [[books:sb:3:25:26|SB 3.25.26]]

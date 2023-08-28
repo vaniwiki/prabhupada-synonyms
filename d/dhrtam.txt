@@ -1,5 +1,11 @@
-~~Title:dhṛtam~~
-{{description>accepted; assumed; executed; was accepted.}}
+---json
+{
+    "name":"dhṛtam",
+    "h1":"dhṛtam",
+    "title":"dhṛtam",
+    "description":"accepted; assumed; executed; was accepted."
+}
+---
 
 ==== dhṛtam  ====
   * accepted --- [[books:cc:adi:5:141|Ādi 5.141]], [[books:cc:madhya:20:306|Madhya 20.306]]

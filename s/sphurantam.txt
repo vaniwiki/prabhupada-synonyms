@@ -1,5 +1,11 @@
-~~Title:sphurantam~~
-{{description>moving his limbs; while challenging.}}
+---json
+{
+    "name":"sphurantam",
+    "h1":"sphurantam",
+    "title":"sphurantam",
+    "description":"moving his limbs; while challenging."
+}
+---
 
 ==== sphurantam  ====
   * moving his limbs --- [[books:sb:7:8:29|SB 7.8.29]]

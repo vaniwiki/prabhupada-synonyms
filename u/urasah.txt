@@ -1,5 +1,11 @@
-~~Title:urasaḥ~~
-{{description>of the chest.}}
+---json
+{
+    "name":"urasaḥ",
+    "h1":"urasaḥ",
+    "title":"urasaḥ",
+    "description":"of the chest."
+}
+---
 
 ==== urasaḥ  ====
   * of the chest --- [[books:cc:antya:16:74|Antya 16.74]]

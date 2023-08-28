@@ -1,5 +1,11 @@
-~~Title:bhojah~~
-{{description>the famous King Bhoja.}}
+---json
+{
+    "name":"bhojah",
+    "h1":"bhojah",
+    "title":"bhojah",
+    "description":"the famous King Bhoja."
+}
+---
 
 ==== bhojaḥ  ====
   * the famous King Bhoja --- [[books:sb:9:24:26|SB 9.24.26]]

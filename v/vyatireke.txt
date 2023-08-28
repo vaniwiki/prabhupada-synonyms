@@ -1,5 +1,11 @@
-~~Title:vyatireke~~
-{{description>by indirect explanations.}}
+---json
+{
+    "name":"vyatireke",
+    "h1":"vyatireke",
+    "title":"vyatireke",
+    "description":"by indirect explanations."
+}
+---
 
 ==== vyatireke  ====
   * by indirect explanations --- [[books:cc:madhya:25:54|Madhya 25.54]]

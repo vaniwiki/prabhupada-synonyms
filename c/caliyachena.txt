@@ -1,5 +1,11 @@
-~~Title:caliyāchena~~
-{{description>was going.}}
+---json
+{
+    "name":"caliyāchena",
+    "h1":"caliyāchena",
+    "title":"caliyāchena",
+    "description":"was going."
+}
+---
 
 ==== caliyāchena  ====
   * was going --- [[books:cc:madhya:19:38|Madhya 19.38]]

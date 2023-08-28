@@ -1,5 +1,11 @@
-~~Title:udadhi~~
-{{description>by the ocean; water.}}
+---json
+{
+    "name":"udadhi",
+    "h1":"udadhi",
+    "title":"udadhi",
+    "description":"by the ocean; water."
+}
+---
 
 ==== udadhi  ====
   * by the ocean --- [[books:sb:4:28:48|SB 4.28.48]]

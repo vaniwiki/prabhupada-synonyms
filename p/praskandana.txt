@@ -1,5 +1,11 @@
-~~Title:praskandana~~
-{{description>at Praskandana.}}
+---json
+{
+    "name":"praskandana",
+    "h1":"praskandana",
+    "title":"praskandana",
+    "description":"at Praskandana."
+}
+---
 
 ==== praskandana  ====
   * at Praskandana --- [[books:cc:madhya:18:71|Madhya 18.71]]

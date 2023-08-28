@@ -1,5 +1,11 @@
-~~Title:aṅgadaḥ~~
-{{description>Aṅgada; the monkey commander named Aṅgada.}}
+---json
+{
+    "name":"aṅgadaḥ",
+    "h1":"aṅgadaḥ",
+    "title":"aṅgadaḥ",
+    "description":"Aṅgada; the monkey commander named Aṅgada."
+}
+---
 
 ==== aṅgadaḥ  ====
   * Aṅgada --- [[books:sb:9:11:12|SB 9.11.12]]

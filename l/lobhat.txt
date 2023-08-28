@@ -1,5 +1,11 @@
-~~Title:lobhāt~~
-{{description>because of greed; because of insatiable desires; from the desire.}}
+---json
+{
+    "name":"lobhāt",
+    "h1":"lobhāt",
+    "title":"lobhāt",
+    "description":"because of greed; because of insatiable desires; from the desire."
+}
+---
 
 ==== lobhāt  ====
   * because of greed --- [[books:sb:9:13:5|SB 9.13.5]]

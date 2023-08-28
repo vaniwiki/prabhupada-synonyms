@@ -1,5 +1,11 @@
-~~Title:stry~~
-{{description>of the verse beginning with the words kā stry aṅga te.}}
+---json
+{
+    "name":"stry",
+    "h1":"stry",
+    "title":"stry",
+    "description":"of the verse beginning with the words kā stry aṅga te."
+}
+---
 
 ==== kā stry aṅga te ślokera  ====
   * of the verse beginning with the words //kā stry aṅga te// --- [[books:cc:antya:20:132|Antya 20.132]]

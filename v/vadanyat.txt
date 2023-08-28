@@ -1,5 +1,11 @@
-~~Title:vadānyāt~~
-{{description>who are so munificent.}}
+---json
+{
+    "name":"vadānyāt",
+    "h1":"vadānyāt",
+    "title":"vadānyāt",
+    "description":"who are so munificent."
+}
+---
 
 ==== vadānyāt  ====
   * who are so munificent --- [[books:sb:8:19:17|SB 8.19.17]]

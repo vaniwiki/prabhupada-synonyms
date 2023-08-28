@@ -1,5 +1,11 @@
-~~Title:ādike~~
-{{description>in such different bathing places.}}
+---json
+{
+    "name":"ādike",
+    "h1":"ādike",
+    "title":"ādike",
+    "description":"in such different bathing places."
+}
+---
 
 ==== ādike  ====
   * in such different bathing places --- [[books:cc:madhya:5:14|Madhya 5.14]]

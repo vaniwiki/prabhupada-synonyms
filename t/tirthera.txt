@@ -1,5 +1,11 @@
-~~Title:tīrthera~~
-{{description>of holy places; places of pilgrimage.}}
+---json
+{
+    "name":"tīrthera",
+    "h1":"tīrthera",
+    "title":"tīrthera",
+    "description":"of holy places; places of pilgrimage."
+}
+---
 
 ==== tīrthera  ====
   * of holy places --- [[books:cc:madhya:9:5|Madhya 9.5]]

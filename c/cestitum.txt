@@ -1,5 +1,11 @@
-~~Title:ceṣṭitum~~
-{{description>to do.}}
+---json
+{
+    "name":"ceṣṭitum",
+    "h1":"ceṣṭitum",
+    "title":"ceṣṭitum",
+    "description":"to do."
+}
+---
 
 ==== ceṣṭitum  ====
   * to do --- [[books:sb:4:14:22|SB 4.14.22]]

@@ -1,5 +1,11 @@
-~~Title:mukuṭaiḥ~~
-{{description>and helmets.}}
+---json
+{
+    "name":"mukuṭaiḥ",
+    "h1":"mukuṭaiḥ",
+    "title":"mukuṭaiḥ",
+    "description":"and helmets."
+}
+---
 
 ==== mukuṭaiḥ  ====
   * and helmets --- [[books:sb:4:10:18-19|SB 4.10.18-19]]

@@ -1,5 +1,11 @@
-~~Title:niryāṇa~~
-{{description>the passing away.}}
+---json
+{
+    "name":"niryāṇa",
+    "h1":"niryāṇa",
+    "title":"niryāṇa",
+    "description":"the passing away."
+}
+---
 
 ==== niryāṇa  ====
   * the passing away --- [[books:cc:antya:8:37|Antya 8.37]]

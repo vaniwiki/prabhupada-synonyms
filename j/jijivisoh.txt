@@ -1,5 +1,11 @@
-~~Title:jijīviṣoḥ~~
-{{description>desiring to live; of you who desire life.}}
+---json
+{
+    "name":"jijīviṣoḥ",
+    "h1":"jijīviṣoḥ",
+    "title":"jijīviṣoḥ",
+    "description":"desiring to live; of you who desire life."
+}
+---
 
 ==== jijīviṣoḥ  ====
   * desiring to live --- [[books:sb:9:21:13|SB 9.21.13]]

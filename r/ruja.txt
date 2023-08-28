@@ -1,5 +1,11 @@
-~~Title:rujā~~
-{{description>by lamentation.}}
+---json
+{
+    "name":"rujā",
+    "h1":"rujā",
+    "title":"rujā",
+    "description":"by lamentation."
+}
+---
 
 ==== rujā  ====
   * by lamentation --- [[books:sb:4:9:33|SB 4.9.33]]

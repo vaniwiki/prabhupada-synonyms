@@ -1,5 +1,11 @@
-~~Title:aṣṭakera~~
-{{description>of the same eight verses.}}
+---json
+{
+    "name":"aṣṭakera",
+    "h1":"aṣṭakera",
+    "title":"aṣṭakera",
+    "description":"of the same eight verses."
+}
+---
 
 ==== sei śloka-aṣṭakera  ====
   * of the same eight verses --- [[books:cc:antya:20:139|Antya 20.139]]

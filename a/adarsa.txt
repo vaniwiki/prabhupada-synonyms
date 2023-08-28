@@ -1,5 +1,11 @@
-~~Title:ādarśa~~
-{{description>in a mirror.}}
+---json
+{
+    "name":"ādarśa",
+    "h1":"ādarśa",
+    "title":"ādarśa",
+    "description":"in a mirror."
+}
+---
 
 ==== ādarśa  ====
   * in a mirror --- [[books:sb:4:28:63|SB 4.28.63]]

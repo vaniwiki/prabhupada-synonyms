@@ -1,5 +1,11 @@
-~~Title:narakāt~~
-{{description>from the hellish condition of life.}}
+---json
+{
+    "name":"narakāt",
+    "h1":"narakāt",
+    "title":"narakāt",
+    "description":"from the hellish condition of life."
+}
+---
 
 ==== narakāt  ====
   * from the hellish condition of life --- [[books:sb:5:14:41|SB 5.14.41]]

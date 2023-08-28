@@ -1,5 +1,11 @@
-~~Title:vidadhire~~
-{{description>executed.}}
+---json
+{
+    "name":"vidadhire",
+    "h1":"vidadhire",
+    "title":"vidadhire",
+    "description":"executed."
+}
+---
 
 ==== vidadhire  ====
   * executed --- [[books:sb:10:6:19|SB 10.6.19]]

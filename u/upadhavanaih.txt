@@ -1,5 +1,11 @@
-~~Title:upadhāvanaiḥ~~
-{{description>by the worshipers, the demigods.}}
+---json
+{
+    "name":"upadhāvanaiḥ",
+    "h1":"upadhāvanaiḥ",
+    "title":"upadhāvanaiḥ",
+    "description":"by the worshipers, the demigods."
+}
+---
 
 ==== upadhāvanaiḥ  ====
   * by the worshipers, the demigods --- [[books:sb:7:2:6|SB 7.2.6]]

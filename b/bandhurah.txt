@@ -1,5 +1,11 @@
-~~Title:bandhuraḥ~~
-{{description>bondage.}}
+---json
+{
+    "name":"bandhuraḥ",
+    "h1":"bandhuraḥ",
+    "title":"bandhuraḥ",
+    "description":"bondage."
+}
+---
 
 ==== bandhuraḥ  ====
   * bondage --- [[books:sb:4:29:18-20|SB 4.29.18-20]]

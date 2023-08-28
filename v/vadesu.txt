@@ -1,5 +1,11 @@
-~~Title:vādeṣu~~
-{{description>who speak the version of the Vedas.}}
+---json
+{
+    "name":"vādeṣu",
+    "h1":"vādeṣu",
+    "title":"vādeṣu",
+    "description":"who speak the version of the Vedas."
+}
+---
 
 ==== veda-vādeṣu  ====
   * who speak the version of the //Vedas// --- [[books:sb:5:11:2|SB 5.11.2]]

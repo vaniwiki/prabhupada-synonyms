@@ -1,5 +1,11 @@
-~~Title:miśre~~
-{{description>Jagannātha Miśra; unto Pradyumna Miśra.}}
+---json
+{
+    "name":"miśre",
+    "h1":"miśre",
+    "title":"miśre",
+    "description":"Jagannātha Miśra; unto Pradyumna Miśra."
+}
+---
 
 ==== miśre  ====
   * Jagannātha Miśra --- [[books:cc:adi:14:11|Ādi 14.11]]

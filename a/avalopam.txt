@@ -1,5 +1,11 @@
-~~Title:avalopam~~
-{{description>breaking the vow.}}
+---json
+{
+    "name":"avalopam",
+    "h1":"avalopam",
+    "title":"avalopam",
+    "description":"breaking the vow."
+}
+---
 
 ==== niyama-avalopam  ====
   * breaking the vow --- [[books:sb:2:7:6|SB 2.7.6]]

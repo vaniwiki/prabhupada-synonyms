@@ -1,5 +1,11 @@
-~~Title:satajit~~
-{{description>Śatajit.}}
+---json
+{
+    "name":"satajit",
+    "h1":"satajit",
+    "title":"satajit",
+    "description":"Śatajit."
+}
+---
 
 ==== śatajit  ====
   * Śatajit --- [[books:sb:9:23:20-21|SB 9.23.20-21]]

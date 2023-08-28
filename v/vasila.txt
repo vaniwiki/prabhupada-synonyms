@@ -1,5 +1,11 @@
-~~Title:vasila~~
-{{description>sat down.}}
+---json
+{
+    "name":"vasila",
+    "h1":"vasila",
+    "title":"vasila",
+    "description":"sat down."
+}
+---
 
 ==== vasila  ====
   * sat down --- [[books:cc:madhya:9:292|Madhya 9.292]], [[books:cc:antya:2:29|Antya 2.29]], [[books:cc:antya:6:108|Antya 6.108]]

@@ -1,5 +1,11 @@
-~~Title:eha~~
-{{description>these.}}
+---json
+{
+    "name":"eha",
+    "h1":"eha",
+    "title":"eha",
+    "description":"these."
+}
+---
 
 ==== eha  ====
   * these --- [[books:cc:antya:15:42|Antya 15.42]]

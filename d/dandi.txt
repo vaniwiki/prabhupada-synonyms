@@ -1,5 +1,11 @@
-~~Title:daṇḍī~~
-{{description>subject to be punished by Yamarāja.}}
+---json
+{
+    "name":"daṇḍī",
+    "h1":"daṇḍī",
+    "title":"daṇḍī",
+    "description":"subject to be punished by Yamarāja."
+}
+---
 
 ==== yama-daṇḍī  ====
   * subject to be punished by Yamarāja --- [[books:cc:madhya:6:167|Madhya 6.167]]

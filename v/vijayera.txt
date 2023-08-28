@@ -1,5 +1,11 @@
-~~Title:vijayera~~
-{{description>on the day celebrating the conquering of Laṅkā.}}
+---json
+{
+    "name":"vijayera",
+    "h1":"vijayera",
+    "title":"vijayera",
+    "description":"on the day celebrating the conquering of Laṅkā."
+}
+---
 
 ==== laṅkā-vijayera dine  ====
   * on the day celebrating the conquering of Laṅkā --- [[books:cc:madhya:15:32|Madhya 15.32]]

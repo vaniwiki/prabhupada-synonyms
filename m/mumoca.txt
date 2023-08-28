@@ -1,5 +1,11 @@
-~~Title:mumoca~~
-{{description>gave up; released.}}
+---json
+{
+    "name":"mumoca",
+    "h1":"mumoca",
+    "title":"mumoca",
+    "description":"gave up; released."
+}
+---
 
 ==== mumoca  ====
   * gave up --- [[books:sb:1:4:12|SB 1.4.12]]

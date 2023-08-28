@@ -1,5 +1,11 @@
-~~Title:akrātām~~
-{{description>have committed.}}
+---json
+{
+    "name":"akrātām",
+    "h1":"akrātām",
+    "title":"akrātām",
+    "description":"have committed."
+}
+---
 
 ==== akrātām  ====
   * have committed --- [[books:sb:3:16:2|SB 3.16.2]]

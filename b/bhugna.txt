@@ -1,5 +1,11 @@
-~~Title:bhugna~~
-{{description>bent.}}
+---json
+{
+    "name":"bhugna",
+    "h1":"bhugna",
+    "title":"bhugna",
+    "description":"bent."
+}
+---
 
 ==== bhugna  ====
   * bent --- [[books:sb:3:31:8|SB 3.31.8]]

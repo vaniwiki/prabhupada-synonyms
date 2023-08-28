@@ -1,5 +1,11 @@
-~~Title:pāibhaya~~
-{{description>I am afraid.}}
+---json
+{
+    "name":"pāibhaya",
+    "h1":"pāibhaya",
+    "title":"pāibhaya",
+    "description":"I am afraid."
+}
+---
 
 ==== pāibhaya  ====
   * I am afraid --- [[books:cc:antya:3:220|Antya 3.220]]

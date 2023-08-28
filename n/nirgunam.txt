@@ -1,5 +1,11 @@
-~~Title:nirguṇam~~
-{{description>although I am free from all material qualities; beyond the material modes; devoid of material modes; transcendental; without contact with the material environment; without material qualities.}}
+---json
+{
+    "name":"nirguṇam",
+    "h1":"nirguṇam",
+    "title":"nirguṇam",
+    "description":"although I am free from all material qualities; beyond the material modes; devoid of material modes; transcendental; without contact with the material environment; without material qualities."
+}
+---
 
 ==== nirguṇam  ====
   * although I am free from all material qualities --- [[books:sb:3:9:39|SB 3.9.39]]

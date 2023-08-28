@@ -1,5 +1,11 @@
-~~Title:nipīya~~
-{{description>drinking.}}
+---json
+{
+    "name":"nipīya",
+    "h1":"nipīya",
+    "title":"nipīya",
+    "description":"drinking."
+}
+---
 
 ==== nipīya  ====
   * drinking --- [[books:sb:5:9:18|SB 5.9.18]]

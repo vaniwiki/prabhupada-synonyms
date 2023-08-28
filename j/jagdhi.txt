@@ -1,5 +1,11 @@
-~~Title:jagdhi~~
-{{description>you eat.}}
+---json
+{
+    "name":"jagdhi",
+    "h1":"jagdhi",
+    "title":"jagdhi",
+    "description":"you eat."
+}
+---
 
 ==== jagdhi  ====
   * you eat --- [[books:sb:4:17:23|SB 4.17.23]]

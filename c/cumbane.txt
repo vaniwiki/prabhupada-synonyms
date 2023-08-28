@@ -1,5 +1,11 @@
-~~Title:cumbane~~
-{{description>kissing.}}
+---json
+{
+    "name":"cumbane",
+    "h1":"cumbane",
+    "title":"cumbane",
+    "description":"kissing."
+}
+---
 
 ==== cumbane  ====
   * kissing --- [[books:cc:antya:18:88|Antya 18.88]]

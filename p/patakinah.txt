@@ -1,5 +1,11 @@
-~~Title:pātakinaḥ~~
-{{description>committed sinful activities.}}
+---json
+{
+    "name":"pātakinaḥ",
+    "h1":"pātakinaḥ",
+    "title":"pātakinaḥ",
+    "description":"committed sinful activities."
+}
+---
 
 ==== pātakinaḥ  ====
   * committed sinful activities --- [[books:sb:6:2:9-10|SB 6.2.9-10]]

@@ -1,5 +1,11 @@
-~~Title:uttāraṇe~~
-{{description>for the deliverance of these fallen souls.}}
+---json
+{
+    "name":"uttāraṇe",
+    "h1":"uttāraṇe",
+    "title":"uttāraṇe",
+    "description":"for the deliverance of these fallen souls."
+}
+---
 
 ==== uttāraṇe  ====
   * for the deliverance of these fallen souls --- [[books:sb:7:9:42|SB 7.9.42]]

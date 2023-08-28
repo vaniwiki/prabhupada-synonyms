@@ -1,5 +1,11 @@
-~~Title:takṣakaḥ~~
-{{description>snake-bird; Takṣaka; the snakebird.}}
+---json
+{
+    "name":"takṣakaḥ",
+    "h1":"takṣakaḥ",
+    "title":"takṣakaḥ",
+    "description":"snake-bird; Takṣaka; the snakebird."
+}
+---
 
 ==== takṣakaḥ  ====
   * snake-bird --- [[books:sb:1:18:37|SB 1.18.37]], [[books:cc:madhya:23:21|Madhya 23.21]]

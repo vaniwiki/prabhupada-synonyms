@@ -1,5 +1,11 @@
-~~Title:kimpuruṣaiḥ~~
-{{description>by the Kimpuruṣas; the inhabitants of the tract of land known as Kimpuruṣa.}}
+---json
+{
+    "name":"kimpuruṣaiḥ",
+    "h1":"kimpuruṣaiḥ",
+    "title":"kimpuruṣaiḥ",
+    "description":"by the Kimpuruṣas; the inhabitants of the tract of land known as Kimpuruṣa."
+}
+---
 
 ==== kimpuruṣaiḥ  ====
   * by the Kimpuruṣas --- [[books:sb:4:6:31|SB 4.6.31]]

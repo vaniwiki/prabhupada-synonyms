@@ -1,5 +1,11 @@
-~~Title:tarjanaiḥ~~
-{{description>by the threatening.}}
+---json
+{
+    "name":"tarjanaiḥ",
+    "h1":"tarjanaiḥ",
+    "title":"tarjanaiḥ",
+    "description":"by the threatening."
+}
+---
 
 ==== tarjanaiḥ  ====
   * by the threatening --- [[books:sb:3:30:21|SB 3.30.21]]

@@ -1,5 +1,11 @@
-~~Title:kṣapita~~
-{{description>abated; being cleansed of the result of such performances.}}
+---json
+{
+    "name":"kṣapita",
+    "h1":"kṣapita",
+    "title":"kṣapita",
+    "description":"abated; being cleansed of the result of such performances."
+}
+---
 
 ==== kṣapita  ====
   * abated --- [[books:sb:3:3:14|SB 3.3.14]]

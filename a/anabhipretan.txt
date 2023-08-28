@@ -1,5 +1,11 @@
-~~Title:anabhipretān~~
-{{description>although not wanted by Jaḍa Bharata.}}
+---json
+{
+    "name":"anabhipretān",
+    "h1":"anabhipretān",
+    "title":"anabhipretān",
+    "description":"although not wanted by Jaḍa Bharata."
+}
+---
 
 ==== anabhipretān api  ====
   * although not wanted by Jaḍa Bharata --- [[books:sb:5:9:4|SB 5.9.4]]

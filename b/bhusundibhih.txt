@@ -1,5 +1,11 @@
-~~Title:bhusundibhih~~
-{{description>by bhuśuṇḍis; with weapons called bhuśuṇḍi.}}
+---json
+{
+    "name":"bhusundibhih",
+    "h1":"bhusundibhih",
+    "title":"bhusundibhih",
+    "description":"by bhuśuṇḍis; with weapons called bhuśuṇḍi."
+}
+---
 
 ==== bhuśuṇḍibhiḥ  ====
   * by //bhuśuṇḍis// --- [[books:sb:6:10:23|SB 6.10.23]]

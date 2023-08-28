@@ -1,5 +1,11 @@
-~~Title:anuvatsaraḥ~~
-{{description>orbit of the moon.}}
+---json
+{
+    "name":"anuvatsaraḥ",
+    "h1":"anuvatsaraḥ",
+    "title":"anuvatsaraḥ",
+    "description":"orbit of the moon."
+}
+---
 
 ==== anuvatsaraḥ  ====
   * orbit of the moon --- [[books:sb:3:11:14|SB 3.11.14]]

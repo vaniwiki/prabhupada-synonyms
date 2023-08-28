@@ -1,5 +1,11 @@
-~~Title:cinte~~
-{{description>contemplates; meditate; one thinks; thinks.}}
+---json
+{
+    "name":"cinte",
+    "h1":"cinte",
+    "title":"cinte",
+    "description":"contemplates; meditate; one thinks; thinks."
+}
+---
 
 ==== cinte  ====
   * contemplates --- [[books:cc:adi:17:259|Ādi 17.259]]

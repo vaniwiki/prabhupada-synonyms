@@ -1,5 +1,11 @@
-~~Title:chinda~~
-{{description>broken.}}
+---json
+{
+    "name":"chinda",
+    "h1":"chinda",
+    "title":"chinda",
+    "description":"broken."
+}
+---
 
 ==== chiṇḍā  ====
   * broken --- [[books:cc:madhya:14:250|Madhya 14.250]]

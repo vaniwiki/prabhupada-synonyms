@@ -1,5 +1,11 @@
-~~Title:ākramatām~~
-{{description>of those who are trampling.}}
+---json
+{
+    "name":"ākramatām",
+    "h1":"ākramatām",
+    "title":"ākramatām",
+    "description":"of those who are trampling."
+}
+---
 
 ==== ākramatām  ====
   * of those who are trampling --- [[books:sb:4:16:7|SB 4.16.7]]

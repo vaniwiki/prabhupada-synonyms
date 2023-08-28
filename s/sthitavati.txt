@@ -1,5 +1,11 @@
-~~Title:sthitavati~~
-{{description>while staying there.}}
+---json
+{
+    "name":"sthitavati",
+    "h1":"sthitavati",
+    "title":"sthitavati",
+    "description":"while staying there."
+}
+---
 
 ==== sthitavati  ====
   * while staying there --- [[books:sb:1:9:35|SB 1.9.35]]

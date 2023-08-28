@@ -1,5 +1,11 @@
-~~Title:adṛṣṭāya~~
-{{description>unto one who is beyond the purview of material vision.}}
+---json
+{
+    "name":"adṛṣṭāya",
+    "h1":"adṛṣṭāya",
+    "title":"adṛṣṭāya",
+    "description":"unto one who is beyond the purview of material vision."
+}
+---
 
 ==== adṛṣṭāya  ====
   * unto one who is beyond the purview of material vision --- [[books:sb:4:20:38|SB 4.20.38]]

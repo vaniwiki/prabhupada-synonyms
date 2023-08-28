@@ -1,5 +1,11 @@
-~~Title:dukha~~
-{{description>pain.}}
+---json
+{
+    "name":"dukha",
+    "h1":"dukha",
+    "title":"dukha",
+    "description":"pain."
+}
+---
 
 ==== dukha  ====
   * pain --- [[books:cc:antya:4:125|Antya 4.125]]

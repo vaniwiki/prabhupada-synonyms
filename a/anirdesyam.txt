@@ -1,5 +1,11 @@
-~~Title:anirdeśyam~~
-{{description>indefinite; indescribable; no one could ascertain who She was.}}
+---json
+{
+    "name":"anirdeśyam",
+    "h1":"anirdeśyam",
+    "title":"anirdeśyam",
+    "description":"indefinite; indescribable; no one could ascertain who She was."
+}
+---
 
 ==== anirdeśyam  ====
   * indefinite --- [[books:bg:12:3-4|Bg. 12.3-4]]

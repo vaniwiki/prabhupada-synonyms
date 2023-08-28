@@ -1,5 +1,11 @@
-~~Title:bhaga~~
-{{description>all opulences or all good qualities.}}
+---json
+{
+    "name":"bhaga",
+    "h1":"bhaga",
+    "title":"bhaga",
+    "description":"all opulences or all good qualities."
+}
+---
 
 ==== bhaga  ====
   * all opulences or all good qualities --- [[books:sb:3:16:21|SB 3.16.21]]

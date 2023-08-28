@@ -1,5 +1,11 @@
-~~Title:purandara~~
-{{description>another name of Vasudeva; Purandara.}}
+---json
+{
+    "name":"purandara",
+    "h1":"purandara",
+    "title":"purandara",
+    "description":"another name of Vasudeva; Purandara."
+}
+---
 
 ==== purandara  ====
   * another name of Vasudeva --- [[books:cc:adi:13:59|Ādi 13.59]]

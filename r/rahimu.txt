@@ -1,5 +1,11 @@
-~~Title:rahimu~~
-{{description>we shall stay.}}
+---json
+{
+    "name":"rahimu",
+    "h1":"rahimu",
+    "title":"rahimu",
+    "description":"we shall stay."
+}
+---
 
 ==== rahimu  ====
   * we shall stay --- [[books:cc:antya:4:35|Antya 4.35]]

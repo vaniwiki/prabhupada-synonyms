@@ -1,5 +1,11 @@
-~~Title:goṅāṅa~~
-{{description>I shall pass.}}
+---json
+{
+    "name":"goṅāṅa",
+    "h1":"goṅāṅa",
+    "title":"goṅāṅa",
+    "description":"I shall pass."
+}
+---
 
 ==== goṅāṅa  ====
   * I shall pass --- [[books:cc:madhya:11:166|Madhya 11.166]]

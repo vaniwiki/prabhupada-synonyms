@@ -1,5 +1,11 @@
-~~Title:jvalanaḥ~~
-{{description>fire.}}
+---json
+{
+    "name":"jvalanaḥ",
+    "h1":"jvalanaḥ",
+    "title":"jvalanaḥ",
+    "description":"fire."
+}
+---
 
 ==== jvalanaḥ  ====
   * fire --- [[books:sb:5:20:13|SB 5.20.13]]

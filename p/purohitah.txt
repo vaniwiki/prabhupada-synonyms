@@ -1,5 +1,11 @@
-~~Title:purohitah~~
-{{description>priest; the priest.}}
+---json
+{
+    "name":"purohitah",
+    "h1":"purohitah",
+    "title":"purohitah",
+    "description":"priest; the priest."
+}
+---
 
 ==== purohitaḥ  ====
   * priest --- [[books:sb:6:8:3|SB 6.8.3]]

@@ -1,5 +1,11 @@
-~~Title:svasāram~~
-{{description>as his sister; sister.}}
+---json
+{
+    "name":"svasāram",
+    "h1":"svasāram",
+    "title":"svasāram",
+    "description":"as his sister; sister."
+}
+---
 
 ==== svasāram  ====
   * as his sister --- [[books:sb:4:29:22|SB 4.29.22]]

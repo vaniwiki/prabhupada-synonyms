@@ -1,5 +1,11 @@
-~~Title:ghataya~~
-{{description>by masses.}}
+---json
+{
+    "name":"ghataya",
+    "h1":"ghataya",
+    "title":"ghataya",
+    "description":"by masses."
+}
+---
 
 ==== ghaṭayā  ====
   * by masses --- [[books:sb:3:17:6|SB 3.17.6]]

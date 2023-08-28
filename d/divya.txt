@@ -1,5 +1,11 @@
-~~Title:divya~~
-{{description>beautiful; celestial; divine; first-class; heavenly; of the heavenly planets; spiritual; transcendental; valuable; very nice; wonderful.}}
+---json
+{
+    "name":"divya",
+    "h1":"divya",
+    "title":"divya",
+    "description":"beautiful; celestial; divine; first-class; heavenly; of the heavenly planets; spiritual; transcendental; valuable; very nice; wonderful."
+}
+---
 
 ==== divya  ====
   * beautiful --- [[books:sb:10:5:17|SB 10.5.17]]

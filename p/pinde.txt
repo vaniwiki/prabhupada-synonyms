@@ -1,5 +1,11 @@
-~~Title:piṇḍe~~
-{{description>on the lump.}}
+---json
+{
+    "name":"piṇḍe",
+    "h1":"piṇḍe",
+    "title":"piṇḍe",
+    "description":"on the lump."
+}
+---
 
 ==== piṇḍe  ====
   * on the lump --- [[books:cc:adi:14:32|Ādi 14.32]]

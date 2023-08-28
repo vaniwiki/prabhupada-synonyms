@@ -1,5 +1,11 @@
-~~Title:babhūvitha~~
-{{description>were born; you are also born.}}
+---json
+{
+    "name":"babhūvitha",
+    "h1":"babhūvitha",
+    "title":"babhūvitha",
+    "description":"were born; you are also born."
+}
+---
 
 ==== babhūvitha  ====
   * were born --- [[books:sb:3:20:21|SB 3.20.21]]

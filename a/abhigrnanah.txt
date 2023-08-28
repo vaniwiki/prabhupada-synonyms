@@ -1,5 +1,11 @@
-~~Title:abhigṛṇānaḥ~~
-{{description>chanting.}}
+---json
+{
+    "name":"abhigṛṇānaḥ",
+    "h1":"abhigṛṇānaḥ",
+    "title":"abhigṛṇānaḥ",
+    "description":"chanting."
+}
+---
 
 ==== abhigṛṇānaḥ  ====
   * chanting --- [[books:sb:5:8:1|SB 5.8.1]]

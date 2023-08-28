@@ -1,5 +1,11 @@
-~~Title:āpīḍya~~
-{{description>by blocking.}}
+---json
+{
+    "name":"āpīḍya",
+    "h1":"āpīḍya",
+    "title":"āpīḍya",
+    "description":"by blocking."
+}
+---
 
 ==== āpīḍya  ====
   * by blocking --- [[books:sb:2:2:19|SB 2.2.19]]

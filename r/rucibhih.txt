@@ -1,5 +1,11 @@
-~~Title:rucibhiḥ~~
-{{description>by different tastes.}}
+---json
+{
+    "name":"rucibhiḥ",
+    "h1":"rucibhiḥ",
+    "title":"rucibhiḥ",
+    "description":"by different tastes."
+}
+---
 
 ==== rucibhiḥ  ====
   * by different tastes --- [[books:cc:madhya:23:5|Madhya 23.5]]

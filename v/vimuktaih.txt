@@ -1,5 +1,11 @@
-~~Title:vimuktaiḥ~~
-{{description>by one who has been free from such things.}}
+---json
+{
+    "name":"vimuktaiḥ",
+    "h1":"vimuktaiḥ",
+    "title":"vimuktaiḥ",
+    "description":"by one who has been free from such things."
+}
+---
 
 ==== vimuktaiḥ  ====
   * by one who has been free from such things --- [[books:bg:2:64|Bg. 2.64]]

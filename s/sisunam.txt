@@ -1,5 +1,11 @@
-~~Title:śiśūnām~~
-{{description>of children; of the children; to the small children.}}
+---json
+{
+    "name":"śiśūnām",
+    "h1":"śiśūnām",
+    "title":"śiśūnām",
+    "description":"of children; of the children; to the small children."
+}
+---
 
 ==== śiśūnām  ====
   * of children --- [[books:sb:7:5:49|SB 7.5.49]]

@@ -1,5 +1,11 @@
-~~Title:apāvṛtaḥ~~
-{{description>untouched by all these activities; without any covering.}}
+---json
+{
+    "name":"apāvṛtaḥ",
+    "h1":"apāvṛtaḥ",
+    "title":"apāvṛtaḥ",
+    "description":"untouched by all these activities; without any covering."
+}
+---
 
 ==== apāvṛtaḥ  ====
   * untouched by all these activities --- [[books:sb:5:18:5|SB 5.18.5]]

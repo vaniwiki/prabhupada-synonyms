@@ -1,5 +1,11 @@
-~~Title:udvahah~~
-{{description>marriage.}}
+---json
+{
+    "name":"udvahah",
+    "h1":"udvahah",
+    "title":"udvahah",
+    "description":"marriage."
+}
+---
 
 ==== udvāhaḥ  ====
   * marriage --- [[books:sb:4:10:3|SB 4.10.3]]

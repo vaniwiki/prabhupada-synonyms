@@ -1,5 +1,11 @@
-~~Title:ṭhāña~~
-{{description>in the same place.}}
+---json
+{
+    "name":"ṭhāña",
+    "h1":"ṭhāña",
+    "title":"ṭhāña",
+    "description":"in the same place."
+}
+---
 
 ==== sei ṭhāña  ====
   * in the same place --- [[books:cc:madhya:7:137|Madhya 7.137]]

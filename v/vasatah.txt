@@ -1,5 +1,11 @@
-~~Title:vasataḥ~~
-{{description>dwelling.}}
+---json
+{
+    "name":"vasataḥ",
+    "h1":"vasataḥ",
+    "title":"vasataḥ",
+    "description":"dwelling."
+}
+---
 
 ==== vasataḥ  ====
   * dwelling --- [[books:sb:3:5:44|SB 3.5.44]]

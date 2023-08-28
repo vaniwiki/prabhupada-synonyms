@@ -1,5 +1,11 @@
-~~Title:tapanamiśra~~
-{{description>of the name Tapana Miśra.}}
+---json
+{
+    "name":"tapanamiśra",
+    "h1":"tapanamiśra",
+    "title":"tapanamiśra",
+    "description":"of the name Tapana Miśra."
+}
+---
 
 ==== tapanamiśra  ====
   * of the name Tapana Miśra --- [[books:cc:adi:7:153|Ādi 7.153]]

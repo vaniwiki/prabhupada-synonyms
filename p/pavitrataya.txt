@@ -1,5 +1,11 @@
-~~Title:pavitratayā~~
-{{description>because of washing the lotus feet of Lord Viṣṇu and thus being transcendentally pure.}}
+---json
+{
+    "name":"pavitratayā",
+    "h1":"pavitratayā",
+    "title":"pavitratayā",
+    "description":"because of washing the lotus feet of Lord Viṣṇu and thus being transcendentally pure."
+}
+---
 
 ==== pāda-avanejana-pavitratayā  ====
   * because of washing the lotus feet of Lord Viṣṇu and thus being transcendentally pure --- [[books:sb:8:21:4|SB 8.21.4]]

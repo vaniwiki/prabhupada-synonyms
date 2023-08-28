@@ -1,5 +1,11 @@
-~~Title:prayogeṇa~~
-{{description>by the application.}}
+---json
+{
+    "name":"prayogeṇa",
+    "h1":"prayogeṇa",
+    "title":"prayogeṇa",
+    "description":"by the application."
+}
+---
 
 ==== prayogeṇa  ====
   * by the application --- [[books:sb:7:7:36|SB 7.7.36]]

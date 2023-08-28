@@ -1,5 +1,11 @@
-~~Title:kṣemeṇa~~
-{{description>with fearlessness because of the absence of tigers and other animals.}}
+---json
+{
+    "name":"kṣemeṇa",
+    "h1":"kṣemeṇa",
+    "title":"kṣemeṇa",
+    "description":"with fearlessness because of the absence of tigers and other animals."
+}
+---
 
 ==== kṣemeṇa  ====
   * with fearlessness because of the absence of tigers and other animals --- [[books:sb:5:8:17|SB 5.8.17]]

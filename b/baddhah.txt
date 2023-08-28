@@ -1,5 +1,11 @@
-~~Title:baddhah~~
-{{description>attached; bound.}}
+---json
+{
+    "name":"baddhah",
+    "h1":"baddhah",
+    "title":"baddhah",
+    "description":"attached; bound."
+}
+---
 
 ==== baddhaḥ  ====
   * attached --- [[books:cc:madhya:19:120|Madhya 19.120]]

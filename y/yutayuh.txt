@@ -1,5 +1,11 @@
-~~Title:yutāyuḥ~~
-{{description>Yutāyu.}}
+---json
+{
+    "name":"yutāyuḥ",
+    "h1":"yutāyuḥ",
+    "title":"yutāyuḥ",
+    "description":"Yutāyu."
+}
+---
 
 ==== yutāyuḥ  ====
   * Yutāyu --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

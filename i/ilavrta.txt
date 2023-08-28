@@ -1,5 +1,11 @@
-~~Title:ilāvṛta~~
-{{description>Ilāvṛta.}}
+---json
+{
+    "name":"ilāvṛta",
+    "h1":"ilāvṛta",
+    "title":"ilāvṛta",
+    "description":"Ilāvṛta."
+}
+---
 
 ==== ilāvṛta  ====
   * Ilāvṛta --- [[books:sb:5:2:19|SB 5.2.19]]

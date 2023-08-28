@@ -1,5 +1,11 @@
-~~Title:amṛtaughā~~
-{{description>Amṛtaughā.}}
+---json
+{
+    "name":"amṛtaughā",
+    "h1":"amṛtaughā",
+    "title":"amṛtaughā",
+    "description":"Amṛtaughā."
+}
+---
 
 ==== amṛtaughā  ====
   * Amṛtaughā --- [[books:sb:5:20:21|SB 5.20.21]]

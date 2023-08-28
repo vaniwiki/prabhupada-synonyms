@@ -1,5 +1,11 @@
-~~Title:parameṣṭhine~~
-{{description>unto Lord Brahmā.}}
+---json
+{
+    "name":"parameṣṭhine",
+    "h1":"parameṣṭhine",
+    "title":"parameṣṭhine",
+    "description":"unto Lord Brahmā."
+}
+---
 
 ==== parameṣṭhine  ====
   * unto Lord Brahmā --- [[books:sb:8:5:17-18|SB 8.5.17-18]]

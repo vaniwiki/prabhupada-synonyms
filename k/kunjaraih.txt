@@ -1,5 +1,11 @@
-~~Title:kuñjaraiḥ~~
-{{description>by elephants; or on elephants.}}
+---json
+{
+    "name":"kuñjaraiḥ",
+    "h1":"kuñjaraiḥ",
+    "title":"kuñjaraiḥ",
+    "description":"by elephants; or on elephants."
+}
+---
 
 ==== kuñjaraiḥ  ====
   * by elephants --- [[books:sb:3:21:44|SB 3.21.44]]

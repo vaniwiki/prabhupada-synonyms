@@ -1,5 +1,11 @@
-~~Title:dhuryāya~~
-{{description>the best of very famous persons.}}
+---json
+{
+    "name":"dhuryāya",
+    "h1":"dhuryāya",
+    "title":"dhuryāya",
+    "description":"the best of very famous persons."
+}
+---
 
 ==== uttamaśloka-dhuryāya  ====
   * the best of very famous persons --- [[books:sb:9:11:7|SB 9.11.7]]

@@ -1,5 +1,11 @@
-~~Title:cedipa~~
-{{description>Cedipa and others.}}
+---json
+{
+    "name":"cedipa",
+    "h1":"cedipa",
+    "title":"cedipa",
+    "description":"Cedipa and others."
+}
+---
 
 ==== cedipa-ādyāḥ  ====
   * Cedipa and others --- [[books:sb:9:22:6|SB 9.22.6]]

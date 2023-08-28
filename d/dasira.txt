@@ -1,5 +1,11 @@
-~~Title:dāsīra~~
-{{description>of the deva-dāsī dancing girl; of the female singer in the temple of Jagannātha.}}
+---json
+{
+    "name":"dāsīra",
+    "h1":"dāsīra",
+    "title":"dāsīra",
+    "description":"of the deva-dāsī dancing girl; of the female singer in the temple of Jagannātha."
+}
+---
 
 ==== deva-dāsīra  ====
   * of the deva-dāsī dancing girl --- [[books:cc:antya:20:121|Antya 20.121]]

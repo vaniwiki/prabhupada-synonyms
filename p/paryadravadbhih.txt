@@ -1,5 +1,11 @@
-~~Title:paryādravadbhiḥ~~
-{{description>running all around.}}
+---json
+{
+    "name":"paryādravadbhiḥ",
+    "h1":"paryādravadbhiḥ",
+    "title":"paryādravadbhiḥ",
+    "description":"running all around."
+}
+---
 
 ==== paryādravadbhiḥ  ====
   * running all around --- [[books:sb:4:5:13|SB 4.5.13]]

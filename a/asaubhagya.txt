@@ -1,5 +1,11 @@
-~~Title:asaubhāgya~~
-{{description>misfortune.}}
+---json
+{
+    "name":"asaubhāgya",
+    "h1":"asaubhāgya",
+    "title":"asaubhāgya",
+    "description":"misfortune."
+}
+---
 
 ==== asaubhāgya  ====
   * misfortune --- [[books:cc:antya:4:162|Antya 4.162]]

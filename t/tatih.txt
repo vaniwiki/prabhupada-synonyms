@@ -1,5 +1,11 @@
-~~Title:tatiḥ~~
-{{description>mass.}}
+---json
+{
+    "name":"tatiḥ",
+    "h1":"tatiḥ",
+    "title":"tatiḥ",
+    "description":"mass."
+}
+---
 
 ==== tatiḥ  ====
   * mass --- [[books:cc:antya:1:177|Antya 1.177]]

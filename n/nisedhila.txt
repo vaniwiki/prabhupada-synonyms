@@ -1,5 +1,11 @@
-~~Title:nisedhila~~
-{{description>forbade; warned.}}
+---json
+{
+    "name":"nisedhila",
+    "h1":"nisedhila",
+    "title":"nisedhila",
+    "description":"forbade; warned."
+}
+---
 
 ==== niṣedhila  ====
   * forbade --- [[books:cc:madhya:15:282|Madhya 15.282]], [[books:cc:madhya:17:147|Madhya 17.147]], [[books:cc:madhya:23:105|Madhya 23.105]], [[books:cc:antya:11:76|Antya 11.76]]

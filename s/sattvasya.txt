@@ -1,5 +1,11 @@
-~~Title:sattvasya~~
-{{description>in the śuddha-sattva qualities; of goodness; of the entity; of truth.}}
+---json
+{
+    "name":"sattvasya",
+    "h1":"sattvasya",
+    "title":"sattvasya",
+    "description":"in the śuddha-sattva qualities; of goodness; of the entity; of truth."
+}
+---
 
 ==== sattvasya  ====
   * in the //śuddha-sattva// qualities --- [[books:sb:5:15:6|SB 5.15.6]]

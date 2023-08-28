@@ -1,5 +1,11 @@
-~~Title:irā~~
-{{description>Lord Brahmā, the lord of Sarasvatī (Irā).}}
+---json
+{
+    "name":"irā",
+    "h1":"irā",
+    "title":"irā",
+    "description":"Lord Brahmā, the lord of Sarasvatī (Irā)."
+}
+---
 
 ==== irā-īśe  ====
   * Lord Brahmā, the lord of Sarasvatī (Irā) --- [[books:sb:10:13:57|SB 10.13.57]]

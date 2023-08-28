@@ -1,5 +1,11 @@
-~~Title:narakeṣu~~
-{{description>and in hell; or in a hellish condition of life; or in hell.}}
+---json
+{
+    "name":"narakeṣu",
+    "h1":"narakeṣu",
+    "title":"narakeṣu",
+    "description":"and in hell; or in a hellish condition of life; or in hell."
+}
+---
 
 ==== narakeṣu  ====
   * and in hell --- [[books:sb:6:17:28|SB 6.17.28]]

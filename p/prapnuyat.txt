@@ -1,5 +1,11 @@
-~~Title:prāpnuyāt~~
-{{description>attains.}}
+---json
+{
+    "name":"prāpnuyāt",
+    "h1":"prāpnuyāt",
+    "title":"prāpnuyāt",
+    "description":"attains."
+}
+---
 
 ==== prāpnuyāt  ====
   * attains --- [[books:bg:18:71|Bg. 18.71]]

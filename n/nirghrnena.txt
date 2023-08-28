@@ -1,5 +1,11 @@
-~~Title:nirghṛṇena~~
-{{description>without pity.}}
+---json
+{
+    "name":"nirghṛṇena",
+    "h1":"nirghṛṇena",
+    "title":"nirghṛṇena",
+    "description":"without pity."
+}
+---
 
 ==== nirghṛṇena  ====
   * without pity --- [[books:sb:4:25:7|SB 4.25.7]]

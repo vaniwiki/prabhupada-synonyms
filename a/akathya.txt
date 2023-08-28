@@ -1,5 +1,11 @@
-~~Title:akathya~~
-{{description>inexplicable; unspeakable.}}
+---json
+{
+    "name":"akathya",
+    "h1":"akathya",
+    "title":"akathya",
+    "description":"inexplicable; unspeakable."
+}
+---
 
 ==== akathya  ====
   * inexplicable --- [[books:cc:madhya:8:207|Madhya 8.207]]

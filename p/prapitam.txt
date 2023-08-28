@@ -1,5 +1,11 @@
-~~Title:prāpitam~~
-{{description>made to have; sent.}}
+---json
+{
+    "name":"prāpitam",
+    "h1":"prāpitam",
+    "title":"prāpitam",
+    "description":"made to have; sent."
+}
+---
 
 ==== prāpitam  ====
   * made to have --- [[books:sb:1:18:32|SB 1.18.32]]

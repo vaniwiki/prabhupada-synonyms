@@ -1,5 +1,11 @@
-~~Title:maryādā~~
-{{description>etiquette; indicating the boundaries; indicating the boundary.}}
+---json
+{
+    "name":"maryādā",
+    "h1":"maryādā",
+    "title":"maryādā",
+    "description":"etiquette; indicating the boundaries; indicating the boundary."
+}
+---
 
 ==== maryādā  ====
   * etiquette --- [[books:cc:antya:3:45|Antya 3.45]], [[books:cc:antya:4:129-130|Antya 4.129-130]]

@@ -1,5 +1,11 @@
-~~Title:upavrajan~~
-{{description>went there.}}
+---json
+{
+    "name":"upavrajan",
+    "h1":"upavrajan",
+    "title":"upavrajan",
+    "description":"went there."
+}
+---
 
 ==== upavrajan  ====
   * went there --- [[books:sb:9:7:20|SB 9.7.20]]

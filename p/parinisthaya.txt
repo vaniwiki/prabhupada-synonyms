@@ -1,5 +1,11 @@
-~~Title:pariniṣṭhayā~~
-{{description>by full perception.}}
+---json
+{
+    "name":"pariniṣṭhayā",
+    "h1":"pariniṣṭhayā",
+    "title":"pariniṣṭhayā",
+    "description":"by full perception."
+}
+---
 
 ==== pariniṣṭhayā  ====
   * by full perception --- [[books:sb:2:1:6|SB 2.1.6]]

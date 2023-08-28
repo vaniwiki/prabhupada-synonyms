@@ -1,5 +1,11 @@
-~~Title:darpah~~
-{{description>arrogance.}}
+---json
+{
+    "name":"darpah",
+    "h1":"darpah",
+    "title":"darpah",
+    "description":"arrogance."
+}
+---
 
 ==== darpaḥ  ====
   * arrogance --- [[books:bg:16:4|Bg. 16.4]]

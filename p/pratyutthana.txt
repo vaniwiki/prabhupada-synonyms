@@ -1,5 +1,11 @@
-~~Title:pratyutthāna~~
-{{description>by getting up from the throne; by standing from the throne; by standing up; of rising from one's seat.}}
+---json
+{
+    "name":"pratyutthāna",
+    "h1":"pratyutthāna",
+    "title":"pratyutthāna",
+    "description":"by getting up from the throne; by standing from the throne; by standing up; of rising from one's seat."
+}
+---
 
 ==== pratyutthāna  ====
   * by getting up from the throne --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

@@ -1,5 +1,11 @@
-~~Title:mocayet~~
-{{description>can deliver.}}
+---json
+{
+    "name":"mocayet",
+    "h1":"mocayet",
+    "title":"mocayet",
+    "description":"can deliver."
+}
+---
 
 ==== mocayet  ====
   * can deliver --- [[books:sb:5:5:18|SB 5.5.18]]

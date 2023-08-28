@@ -1,5 +1,11 @@
-~~Title:gauraḥ~~
-{{description>fair-complexioned; Lord Śrī Caitanya Mahāprabhu; Lord Śrī Gaurasundara; white deer; Śrī Caitanya Mahāprabhu; Śrī Gaurasundara.}}
+---json
+{
+    "name":"gauraḥ",
+    "h1":"gauraḥ",
+    "title":"gauraḥ",
+    "description":"fair-complexioned; Lord Śrī Caitanya Mahāprabhu; Lord Śrī Gaurasundara; white deer; Śrī Caitanya Mahāprabhu; Śrī Gaurasundara."
+}
+---
 
 ==== gauraḥ  ====
   * fair-complexioned --- [[books:sb:4:21:15|SB 4.21.15]]

@@ -1,5 +1,11 @@
-~~Title:patatoḥ~~
-{{description>falling down.}}
+---json
+{
+    "name":"patatoḥ",
+    "h1":"patatoḥ",
+    "title":"patatoḥ",
+    "description":"falling down."
+}
+---
 
 ==== patatoḥ  ====
   * falling down --- [[books:sb:10:11:1|SB 10.11.1]]

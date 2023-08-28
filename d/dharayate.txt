@@ -1,5 +1,11 @@
-~~Title:dhārayate~~
-{{description>in such terms; is sustained.}}
+---json
+{
+    "name":"dhārayate",
+    "h1":"dhārayate",
+    "title":"dhārayate",
+    "description":"in such terms; is sustained."
+}
+---
 
 ==== dhārayate  ====
   * in such terms --- [[books:bg:18:34|Bg. 18.34]]

@@ -1,5 +1,11 @@
-~~Title:maugdhya~~
-{{description>assuming the position of not knowing things although everything is known.}}
+---json
+{
+    "name":"maugdhya",
+    "h1":"maugdhya",
+    "title":"maugdhya",
+    "description":"assuming the position of not knowing things although everything is known."
+}
+---
 
 ==== maugdhya  ====
   * assuming the position of not knowing things although everything is known --- [[books:cc:madhya:14:168|Madhya 14.168]]

@@ -1,5 +1,11 @@
-~~Title:yaśase~~
-{{description>for one's reputation.}}
+---json
+{
+    "name":"yaśase",
+    "h1":"yaśase",
+    "title":"yaśase",
+    "description":"for one's reputation."
+}
+---
 
 ==== yaśase  ====
   * for one's reputation --- [[books:sb:8:19:37|SB 8.19.37]]

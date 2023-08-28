@@ -1,5 +1,11 @@
-~~Title:dukūla~~
-{{description>belt; by a sari; by fine cloth; fine cloth; garments.}}
+---json
+{
+    "name":"dukūla",
+    "h1":"dukūla",
+    "title":"dukūla",
+    "description":"belt; by a sari; by fine cloth; fine cloth; garments."
+}
+---
 
 ==== dukūla  ====
   * belt --- [[books:sb:1:15:40|SB 1.15.40]]

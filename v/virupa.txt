@@ -1,5 +1,11 @@
-~~Title:virupa~~
-{{description>an ugly woman.}}
+---json
+{
+    "name":"virupa",
+    "h1":"virupa",
+    "title":"virupa",
+    "description":"an ugly woman."
+}
+---
 
 ==== virūpā  ====
   * an ugly woman --- [[books:sb:6:19:26-28|SB 6.19.26-28]]

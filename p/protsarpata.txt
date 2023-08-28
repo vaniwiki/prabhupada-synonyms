@@ -1,5 +1,11 @@
-~~Title:protsarpata~~
-{{description>slipped out of place.}}
+---json
+{
+    "name":"protsarpata",
+    "h1":"protsarpata",
+    "title":"protsarpata",
+    "description":"slipped out of place."
+}
+---
 
 ==== protsarpata  ====
   * slipped out of place --- [[books:sb:7:8:33|SB 7.8.33]]

@@ -1,5 +1,11 @@
-~~Title:avidāsini~~
-{{description>perpetual; where the water never diminishes.}}
+---json
+{
+    "name":"avidāsini",
+    "h1":"avidāsini",
+    "title":"avidāsini",
+    "description":"perpetual; where the water never diminishes."
+}
+---
 
 ==== avidāsini  ====
   * perpetual --- [[books:sb:8:24:22|SB 8.24.22]]

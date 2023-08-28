@@ -1,5 +1,11 @@
-~~Title:viprāya~~
-{{description>unto a brāhmaṇa; unto this brāhmaṇa.}}
+---json
+{
+    "name":"viprāya",
+    "h1":"viprāya",
+    "title":"viprāya",
+    "description":"unto a brāhmaṇa; unto this brāhmaṇa."
+}
+---
 
 ==== viprāya  ====
   * unto a //brāhmaṇa// --- [[books:sb:3:19:13|SB 3.19.13]]

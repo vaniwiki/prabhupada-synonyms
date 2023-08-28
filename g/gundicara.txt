@@ -1,5 +1,11 @@
-~~Title:guṇḍicāra~~
-{{description>at the door of the Guṇḍicā temple.}}
+---json
+{
+    "name":"guṇḍicāra",
+    "h1":"guṇḍicāra",
+    "title":"guṇḍicāra",
+    "description":"at the door of the Guṇḍicā temple."
+}
+---
 
 ==== guṇḍicāra dvāra  ====
   * at the door of the Guṇḍicā temple --- [[books:cc:madhya:14:58|Madhya 14.58]]

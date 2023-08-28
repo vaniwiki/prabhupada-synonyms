@@ -1,5 +1,11 @@
-~~Title:anvavaikṣata~~
-{{description>began to wait for.}}
+---json
+{
+    "name":"anvavaikṣata",
+    "h1":"anvavaikṣata",
+    "title":"anvavaikṣata",
+    "description":"began to wait for."
+}
+---
 
 ==== anvavaikṣata  ====
   * began to wait for --- [[books:sb:8:24:39|SB 8.24.39]]

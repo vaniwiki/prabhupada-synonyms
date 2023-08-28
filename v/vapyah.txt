@@ -1,5 +1,11 @@
-~~Title:vāpyaḥ~~
-{{description>lakes.}}
+---json
+{
+    "name":"vāpyaḥ",
+    "h1":"vāpyaḥ",
+    "title":"vāpyaḥ",
+    "description":"lakes."
+}
+---
 
 ==== vāpyaḥ  ====
   * lakes --- [[books:sb:4:6:31|SB 4.6.31]], [[books:sb:4:9:64|SB 4.9.64]]

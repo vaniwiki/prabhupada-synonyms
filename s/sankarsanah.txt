@@ -1,5 +1,11 @@
-~~Title:sankarsanah~~
-{{description>Balarāma is none other than Saṅkarṣaṇa, the first Deity in the quadruple group (Saṅkarṣaṇa, Aniruddha, Pradyumna and Vāsudeva); Lord Saṅkarṣaṇa; Mahā-Saṅkarṣaṇa in the spiritual sky.}}
+---json
+{
+    "name":"sankarsanah",
+    "h1":"sankarsanah",
+    "title":"sankarsanah",
+    "description":"Balarāma is none other than Saṅkarṣaṇa, the first Deity in the quadruple group (Saṅkarṣaṇa, Aniruddha, Pradyumna and Vāsudeva); Lord Saṅkarṣaṇa; Mahā-Saṅkarṣaṇa in the spiritual sky."
+}
+---
 
 ==== saṅkarṣaṇaḥ  ====
   * Balarāma is none other than Saṅkarṣaṇa, the first Deity in the quadruple group (Saṅkarṣaṇa, Aniruddha, Pradyumna and Vāsudeva) --- [[books:sb:10:1:8|SB 10.1.8]]

@@ -1,5 +1,11 @@
-~~Title:mitadhvajāt~~
-{{description>from Mitadhvaja.}}
+---json
+{
+    "name":"mitadhvajāt",
+    "h1":"mitadhvajāt",
+    "title":"mitadhvajāt",
+    "description":"from Mitadhvaja."
+}
+---
 
 ==== mitadhvajāt  ====
   * from Mitadhvaja --- [[books:sb:9:13:20-21|SB 9.13.20-21]]

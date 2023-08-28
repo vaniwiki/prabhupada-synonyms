@@ -1,5 +1,11 @@
-~~Title:kathayanti~~
-{{description>they chant.}}
+---json
+{
+    "name":"kathayanti",
+    "h1":"kathayanti",
+    "title":"kathayanti",
+    "description":"they chant."
+}
+---
 
 ==== kathayanti  ====
   * they chant --- [[books:sb:3:25:23|SB 3.25.23]]

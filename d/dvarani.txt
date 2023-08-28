@@ -1,5 +1,11 @@
-~~Title:dvārāṇi~~
-{{description>ways.}}
+---json
+{
+    "name":"dvārāṇi",
+    "h1":"dvārāṇi",
+    "title":"dvārāṇi",
+    "description":"ways."
+}
+---
 
 ==== dvārāṇi  ====
   * ways --- [[books:sb:3:20:1|SB 3.20.1]]

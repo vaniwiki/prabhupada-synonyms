@@ -1,5 +1,11 @@
-~~Title:pramodaḥ~~
-{{description>jubilant.}}
+---json
+{
+    "name":"pramodaḥ",
+    "h1":"pramodaḥ",
+    "title":"pramodaḥ",
+    "description":"jubilant."
+}
+---
 
 ==== pramodaḥ  ====
   * jubilant --- [[books:cc:madhya:18:34|Madhya 18.34]], [[books:cc:antya:14:86|Antya 14.86]]

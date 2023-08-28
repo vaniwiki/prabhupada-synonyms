@@ -1,5 +1,11 @@
-~~Title:āpadyate~~
-{{description>arrives at.}}
+---json
+{
+    "name":"āpadyate",
+    "h1":"āpadyate",
+    "title":"āpadyate",
+    "description":"arrives at."
+}
+---
 
 ==== āpadyate  ====
   * arrives at --- [[books:cc:madhya:23:95-98|Madhya 23.95-98]]

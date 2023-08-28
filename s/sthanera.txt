@@ -1,5 +1,11 @@
-~~Title:sthānera~~
-{{description>of the abode of Kṛṣṇa, Vṛndāvana.}}
+---json
+{
+    "name":"sthānera",
+    "h1":"sthānera",
+    "title":"sthānera",
+    "description":"of the abode of Kṛṣṇa, Vṛndāvana."
+}
+---
 
 ==== vṛndāvana-sthānera  ====
   * of the abode of Kṛṣṇa, Vṛndāvana --- [[books:cc:madhya:21:28|Madhya 21.28]]

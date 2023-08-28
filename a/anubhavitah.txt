@@ -1,5 +1,11 @@
-~~Title:anubhāvitaḥ~~
-{{description>when they are properly in line.}}
+---json
+{
+    "name":"anubhāvitaḥ",
+    "h1":"anubhāvitaḥ",
+    "title":"anubhāvitaḥ",
+    "description":"when they are properly in line."
+}
+---
 
 ==== anubhāvitaḥ  ====
   * when they are properly in line --- [[books:sb:10:5:28|SB 10.5.28]]

@@ -1,5 +1,11 @@
-~~Title:vidyadharah~~
-{{description>named Vidyādhara; the King of the Vidyādhara planet.}}
+---json
+{
+    "name":"vidyadharah",
+    "h1":"vidyadharah",
+    "title":"vidyadharah",
+    "description":"named Vidyādhara; the King of the Vidyādhara planet."
+}
+---
 
 ==== vidyādharaḥ  ====
   * named Vidyādhara --- [[books:sb:8:20:31|SB 8.20.31]]

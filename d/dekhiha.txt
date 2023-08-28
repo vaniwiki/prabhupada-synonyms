@@ -1,5 +1,11 @@
-~~Title:dekhiha~~
-{{description>see.}}
+---json
+{
+    "name":"dekhiha",
+    "h1":"dekhiha",
+    "title":"dekhiha",
+    "description":"see."
+}
+---
 
 ==== dekhiha  ====
   * see --- [[books:cc:adi:17:73|Ādi 17.73]]

@@ -1,5 +1,11 @@
-~~Title:bāhuḍiyā~~
-{{description>pushing forward; returning.}}
+---json
+{
+    "name":"bāhuḍiyā",
+    "h1":"bāhuḍiyā",
+    "title":"bāhuḍiyā",
+    "description":"pushing forward; returning."
+}
+---
 
 ==== bāhuḍiyā  ====
   * pushing forward --- [[books:cc:madhya:4:207|Madhya 4.207]]

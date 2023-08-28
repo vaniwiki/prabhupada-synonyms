@@ -1,5 +1,11 @@
-~~Title:mauharīra~~
-{{description>of anise seeds.}}
+---json
+{
+    "name":"mauharīra",
+    "h1":"mauharīra",
+    "title":"mauharīra",
+    "description":"of anise seeds."
+}
+---
 
 ==== mauharīra  ====
   * of anise seeds --- [[books:cc:antya:10:22|Antya 10.22]]

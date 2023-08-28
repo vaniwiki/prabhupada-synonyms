@@ -1,5 +1,11 @@
-~~Title:upadiṣṭam~~
-{{description>indicated by me.}}
+---json
+{
+    "name":"upadiṣṭam",
+    "h1":"upadiṣṭam",
+    "title":"upadiṣṭam",
+    "description":"indicated by me."
+}
+---
 
 ==== mayā upadiṣṭam  ====
   * indicated by me --- [[books:sb:4:27:23|SB 4.27.23]]

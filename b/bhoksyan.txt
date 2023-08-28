@@ -1,5 +1,11 @@
-~~Title:bhokṣyan~~
-{{description>giving to eat.}}
+---json
+{
+    "name":"bhokṣyan",
+    "h1":"bhokṣyan",
+    "title":"bhokṣyan",
+    "description":"giving to eat."
+}
+---
 
 ==== bhokṣyan  ====
   * giving to eat --- [[books:sb:10:8:29|SB 10.8.29]]

@@ -1,5 +1,11 @@
-~~Title:bhāḥ~~
-{{description>light.}}
+---json
+{
+    "name":"bhāḥ",
+    "h1":"bhāḥ",
+    "title":"bhāḥ",
+    "description":"light."
+}
+---
 
 ==== bhāḥ  ====
   * light --- [[books:bg:11:12|Bg. 11.12]]

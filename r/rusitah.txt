@@ -1,5 +1,11 @@
-~~Title:rūṣitāḥ~~
-{{description>their entire bodies smeared.}}
+---json
+{
+    "name":"rūṣitāḥ",
+    "h1":"rūṣitāḥ",
+    "title":"rūṣitāḥ",
+    "description":"their entire bodies smeared."
+}
+---
 
 ==== rūṣitāḥ  ====
   * their entire bodies smeared --- [[books:sb:10:5:7|SB 10.5.7]]

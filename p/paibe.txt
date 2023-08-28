@@ -1,5 +1,11 @@
-~~Title:pāibe~~
-{{description>he will get; must achieve; will get; will get back; will obtain; you will get.}}
+---json
+{
+    "name":"pāibe",
+    "h1":"pāibe",
+    "title":"pāibe",
+    "description":"he will get; must achieve; will get; will get back; will obtain; you will get."
+}
+---
 
 ==== pāibe  ====
   * he will get --- [[books:cc:adi:17:33|Ādi 17.33]]

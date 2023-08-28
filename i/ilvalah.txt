@@ -1,5 +1,11 @@
-~~Title:ilvalaḥ~~
-{{description>Ilvala; the demon Ilvala.}}
+---json
+{
+    "name":"ilvalaḥ",
+    "h1":"ilvalaḥ",
+    "title":"ilvalaḥ",
+    "description":"Ilvala; the demon Ilvala."
+}
+---
 
 ==== ilvalaḥ  ====
   * Ilvala --- [[books:sb:6:18:15|SB 6.18.15]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

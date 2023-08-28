@@ -1,5 +1,11 @@
-~~Title:tvaraya~~
-{{description>hastily; very hastily; very soon.}}
+---json
+{
+    "name":"tvaraya",
+    "h1":"tvaraya",
+    "title":"tvaraya",
+    "description":"hastily; very hastily; very soon."
+}
+---
 
 ==== tvarayā  ====
   * hastily --- [[books:sb:6:14:47|SB 6.14.47]]

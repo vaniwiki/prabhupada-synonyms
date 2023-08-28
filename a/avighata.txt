@@ -1,5 +1,11 @@
-~~Title:avighāta~~
-{{description>without restriction.}}
+---json
+{
+    "name":"avighāta",
+    "h1":"avighāta",
+    "title":"avighāta",
+    "description":"without restriction."
+}
+---
 
 ==== avighāta  ====
   * without restriction --- [[books:sb:1:6:31|SB 1.6.31]]

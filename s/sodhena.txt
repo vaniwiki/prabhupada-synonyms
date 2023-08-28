@@ -1,5 +1,11 @@
-~~Title:śodhena~~
-{{description>cleanses; purifies.}}
+---json
+{
+    "name":"śodhena",
+    "h1":"śodhena",
+    "title":"śodhena",
+    "description":"cleanses; purifies."
+}
+---
 
 ==== śodhena  ====
   * cleanses --- [[books:cc:madhya:12:84|Madhya 12.84]], [[books:cc:madhya:12:85|Madhya 12.85]]

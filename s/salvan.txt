@@ -1,5 +1,11 @@
-~~Title:śālvān~~
-{{description>the countries occupied by the Śālvas.}}
+---json
+{
+    "name":"śālvān",
+    "h1":"śālvān",
+    "title":"śālvān",
+    "description":"the countries occupied by the Śālvas."
+}
+---
 
 ==== śālvān  ====
   * the countries occupied by the Śālvas --- [[books:sb:10:2:3|SB 10.2.3]]

@@ -1,5 +1,11 @@
-~~Title:prasara~~
-{{description>knowledgeable in the expansion.}}
+---json
+{
+    "name":"prasara",
+    "h1":"prasara",
+    "title":"prasara",
+    "description":"knowledgeable in the expansion."
+}
+---
 
 ==== prasara-abhijñā  ====
   * knowledgeable in the expansion --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

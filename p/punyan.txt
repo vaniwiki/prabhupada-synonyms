@@ -1,5 +1,11 @@
-~~Title:puṇyān~~
-{{description>who are bereft of all piety.}}
+---json
+{
+    "name":"puṇyān",
+    "h1":"puṇyān",
+    "title":"puṇyān",
+    "description":"who are bereft of all piety."
+}
+---
 
 ==== kṣīṇa-puṇyān  ====
   * who are bereft of all piety --- [[books:cc:madhya:22:92|Madhya 22.92]]

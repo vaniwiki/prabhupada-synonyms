@@ -1,5 +1,11 @@
-~~Title:avikriyamāṇena~~
-{{description>without being transformed.}}
+---json
+{
+    "name":"avikriyamāṇena",
+    "h1":"avikriyamāṇena",
+    "title":"avikriyamāṇena",
+    "description":"without being transformed."
+}
+---
 
 ==== avikriyamāṇena  ====
   * without being transformed --- [[books:sb:6:9:34|SB 6.9.34]]

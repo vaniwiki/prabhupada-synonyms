@@ -1,5 +1,11 @@
-~~Title:nirvidyeta~~
-{{description>becomes detached.}}
+---json
+{
+    "name":"nirvidyeta",
+    "h1":"nirvidyeta",
+    "title":"nirvidyeta",
+    "description":"becomes detached."
+}
+---
 
 ==== nirvidyeta  ====
   * becomes detached --- [[books:sb:4:13:46|SB 4.13.46]]

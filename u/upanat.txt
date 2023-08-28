@@ -1,5 +1,11 @@
-~~Title:upānat~~
-{{description>for a person who has suitable shoes.}}
+---json
+{
+    "name":"upānat",
+    "h1":"upānat",
+    "title":"upānat",
+    "description":"for a person who has suitable shoes."
+}
+---
 
 ==== upānat-padaḥ  ====
   * for a person who has suitable shoes --- [[books:sb:7:15:17|SB 7.15.17]]

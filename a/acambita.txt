@@ -1,5 +1,11 @@
-~~Title:ācambita~~
-{{description>suddenly.}}
+---json
+{
+    "name":"ācambita",
+    "h1":"ācambita",
+    "title":"ācambita",
+    "description":"suddenly."
+}
+---
 
 ==== ācambita  ====
   * suddenly --- [[books:cc:antya:8:97|Antya 8.97]]

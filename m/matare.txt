@@ -1,5 +1,11 @@
-~~Title:mātāre~~
-{{description>mother; mother Śacī; to His mother; to My mother; unto His mother; unto My mother.}}
+---json
+{
+    "name":"mātāre",
+    "h1":"mātāre",
+    "title":"mātāre",
+    "description":"mother; mother Śacī; to His mother; to My mother; unto His mother; unto My mother."
+}
+---
 
 ==== mātāre  ====
   * mother --- [[books:cc:madhya:3:176|Madhya 3.176]]

@@ -1,5 +1,11 @@
-~~Title:guhyakāḥ~~
-{{description>along with the Guhyakas.}}
+---json
+{
+    "name":"guhyakāḥ",
+    "h1":"guhyakāḥ",
+    "title":"guhyakāḥ",
+    "description":"along with the Guhyakas."
+}
+---
 
 ==== saha-guhyakāḥ  ====
   * along with the Guhyakas --- [[books:sb:4:4:34|SB 4.4.34]]

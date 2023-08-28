@@ -1,5 +1,11 @@
-~~Title:harṣāt~~
-{{description>because of jubilation.}}
+---json
+{
+    "name":"harṣāt",
+    "h1":"harṣāt",
+    "title":"harṣāt",
+    "description":"because of jubilation."
+}
+---
 
 ==== harṣāt  ====
   * because of jubilation --- [[books:cc:madhya:14:174|Madhya 14.174]]

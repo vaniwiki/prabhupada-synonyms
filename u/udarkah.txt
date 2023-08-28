@@ -1,5 +1,11 @@
-~~Title:udarkah~~
-{{description>after effects.}}
+---json
+{
+    "name":"udarkah",
+    "h1":"udarkah",
+    "title":"udarkah",
+    "description":"after effects."
+}
+---
 
 ==== udarkaḥ  ====
   * after effects --- [[books:sb:1:13:56|SB 1.13.56]]

@@ -1,5 +1,11 @@
-~~Title:ahalyā~~
-{{description>Ahalyā.}}
+---json
+{
+    "name":"ahalyā",
+    "h1":"ahalyā",
+    "title":"ahalyā",
+    "description":"Ahalyā."
+}
+---
 
 ==== ahalyā  ====
   * Ahalyā --- [[books:sb:9:21:34|SB 9.21.34]]

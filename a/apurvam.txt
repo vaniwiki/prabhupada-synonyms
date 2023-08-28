@@ -1,5 +1,11 @@
-~~Title:apūrvam~~
-{{description>never heard before; remote; the future condition; unprecedented.}}
+---json
+{
+    "name":"apūrvam",
+    "h1":"apūrvam",
+    "title":"apūrvam",
+    "description":"never heard before; remote; the future condition; unprecedented."
+}
+---
 
 ==== apūrvam  ====
   * never heard before --- [[books:sb:7:8:16|SB 7.8.16]]

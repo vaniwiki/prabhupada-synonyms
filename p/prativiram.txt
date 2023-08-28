@@ -1,5 +1,11 @@
-~~Title:prativīram~~
-{{description>a rival hero.}}
+---json
+{
+    "name":"prativīram",
+    "h1":"prativīram",
+    "title":"prativīram",
+    "description":"a rival hero."
+}
+---
 
 ==== prativīram  ====
   * a rival hero --- [[books:sb:8:19:5|SB 8.19.5]]

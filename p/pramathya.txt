@@ -1,5 +1,11 @@
-~~Title:pramathya~~
-{{description>after killing; destroying my army; harassing.}}
+---json
+{
+    "name":"pramathya",
+    "h1":"pramathya",
+    "title":"pramathya",
+    "description":"after killing; destroying my army; harassing."
+}
+---
 
 ==== pramathya  ====
   * after killing --- [[books:sb:5:18:39|SB 5.18.39]]

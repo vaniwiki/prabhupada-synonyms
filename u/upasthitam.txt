@@ -1,5 +1,11 @@
-~~Title:upasthitam~~
-{{description>appearance; arrived by chance; situated before him; the present situation.}}
+---json
+{
+    "name":"upasthitam",
+    "h1":"upasthitam",
+    "title":"upasthitam",
+    "description":"appearance; arrived by chance; situated before him; the present situation."
+}
+---
 
 ==== upasthitam  ====
   * appearance --- [[books:sb:1:13:13|SB 1.13.13]]

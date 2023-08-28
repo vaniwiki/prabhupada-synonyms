@@ -1,5 +1,11 @@
-~~Title:śaṁsantu~~
-{{description>please tell.}}
+---json
+{
+    "name":"śaṁsantu",
+    "h1":"śaṁsantu",
+    "title":"śaṁsantu",
+    "description":"please tell."
+}
+---
 
 ==== śaṁsantu  ====
   * please tell --- [[books:cc:antya:15:32|Antya 15.32]]

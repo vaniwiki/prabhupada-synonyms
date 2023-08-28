@@ -1,5 +1,11 @@
-~~Title:jayasenaḥ~~
-{{description>Jayasena; King Jayasena.}}
+---json
+{
+    "name":"jayasenaḥ",
+    "h1":"jayasenaḥ",
+    "title":"jayasenaḥ",
+    "description":"Jayasena; King Jayasena."
+}
+---
 
 ==== jayasenaḥ  ====
   * Jayasena --- [[books:sb:9:17:17|SB 9.17.17]], [[books:sb:9:22:10|SB 9.22.10]]

@@ -1,5 +1,11 @@
-~~Title:nāmnā~~
-{{description>by a Gandharva named Citrāṅgada; by different names like brāhmaṇa, kṣatriya, vaiśya and śūdra; by name; by name only; by the name; celebrated by the name; in the name of; of the name; only by such names.}}
+---json
+{
+    "name":"nāmnā",
+    "h1":"nāmnā",
+    "title":"nāmnā",
+    "description":"by a Gandharva named Citrāṅgada; by different names like brāhmaṇa, kṣatriya, vaiśya and śūdra; by name; by name only; by the name; celebrated by the name; in the name of; of the name; only by such names."
+}
+---
 
 ==== nāmnā  ====
   * by a Gandharva named Citrāṅgada --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

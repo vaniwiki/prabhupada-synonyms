@@ -1,5 +1,11 @@
-~~Title:paṇḍitera~~
-{{description>of Gadādhara Paṇḍita; of Jagadānanda Paṇḍita; of learned scholars; of Rāghava Paṇḍita.}}
+---json
+{
+    "name":"paṇḍitera",
+    "h1":"paṇḍitera",
+    "title":"paṇḍitera",
+    "description":"of Gadādhara Paṇḍita; of Jagadānanda Paṇḍita; of learned scholars; of Rāghava Paṇḍita."
+}
+---
 
 ==== paṇḍitera  ====
   * of Gadādhara Paṇḍita --- [[books:cc:adi:12:90|Ādi 12.90]], [[books:cc:madhya:16:137|Madhya 16.137]], [[books:cc:madhya:16:287|Madhya 16.287]], [[books:cc:antya:7:99|Antya 7.99]], [[books:cc:antya:7:146|Antya 7.146]], [[books:cc:antya:7:163|Antya 7.163]]

@@ -1,5 +1,11 @@
-~~Title:śīghra~~
-{{description>as soon as possible; hastily; immediately; quickly; so soon; very fast; very quickly; very soon; very swiftly.}}
+---json
+{
+    "name":"śīghra",
+    "h1":"śīghra",
+    "title":"śīghra",
+    "description":"as soon as possible; hastily; immediately; quickly; so soon; very fast; very quickly; very soon; very swiftly."
+}
+---
 
 ==== śīghra  ====
   * as soon as possible --- [[books:cc:madhya:19:34|Madhya 19.34]], [[books:cc:antya:13:39|Antya 13.39]]

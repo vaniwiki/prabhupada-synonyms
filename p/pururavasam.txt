@@ -1,5 +1,11 @@
-~~Title:purūravasam~~
-{{description>named Purūravā.}}
+---json
+{
+    "name":"purūravasam",
+    "h1":"purūravasam",
+    "title":"purūravasam",
+    "description":"named Purūravā."
+}
+---
 
 ==== purūravasam  ====
   * named Purūravā --- [[books:sb:9:1:35|SB 9.1.35]]

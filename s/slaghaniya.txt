@@ -1,5 +1,11 @@
-~~Title:ślāghanīya~~
-{{description>by the praiseworthy.}}
+---json
+{
+    "name":"ślāghanīya",
+    "h1":"ślāghanīya",
+    "title":"ślāghanīya",
+    "description":"by the praiseworthy."
+}
+---
 
 ==== ślāghanīya  ====
   * by the praiseworthy --- [[books:sb:9:24:63-64|SB 9.24.63-64]]

@@ -1,5 +1,11 @@
-~~Title:gavākṣera~~
-{{description>of windows of a room.}}
+---json
+{
+    "name":"gavākṣera",
+    "h1":"gavākṣera",
+    "title":"gavākṣera",
+    "description":"of windows of a room."
+}
+---
 
 ==== gavākṣera  ====
   * of windows of a room --- [[books:cc:adi:5:70|Ādi 5.70]]

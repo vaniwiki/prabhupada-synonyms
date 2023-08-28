@@ -1,5 +1,11 @@
-~~Title:tvādṛśam~~
-{{description>like you.}}
+---json
+{
+    "name":"tvādṛśam",
+    "h1":"tvādṛśam",
+    "title":"tvādṛśam",
+    "description":"like you."
+}
+---
 
 ==== tvādṛśam  ====
   * like you --- [[books:sb:4:25:41|SB 4.25.41]]

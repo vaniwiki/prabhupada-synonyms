@@ -1,5 +1,11 @@
-~~Title:vāk~~
-{{description>a sound vibration; a voice; an elegant manner of speaking; by words; in speaking; my words; Sarasvatī, the goddess of learning; speaking; speech; the faculty of speech; the organ of speech; the sense for speaking; the words; vibration; vocabulary; with sweet words; words.}}
+---json
+{
+    "name":"vāk",
+    "h1":"vāk",
+    "title":"vāk",
+    "description":"a sound vibration; a voice; an elegant manner of speaking; by words; in speaking; my words; Sarasvatī, the goddess of learning; speaking; speech; the faculty of speech; the organ of speech; the sense for speaking; the words; vibration; vocabulary; with sweet words; words."
+}
+---
 
 ==== vāk  ====
   * a sound vibration --- [[books:sb:9:20:20|SB 9.20.20]]

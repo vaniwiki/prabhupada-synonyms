@@ -1,5 +1,11 @@
-~~Title:tuṣyate~~
-{{description>becomes pleased; becomes satisfied.}}
+---json
+{
+    "name":"tuṣyate",
+    "h1":"tuṣyate",
+    "title":"tuṣyate",
+    "description":"becomes pleased; becomes satisfied."
+}
+---
 
 ==== tuṣyate  ====
   * becomes pleased --- [[books:sb:9:15:40|SB 9.15.40]]

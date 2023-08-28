@@ -1,5 +1,11 @@
-~~Title:bhojana~~
-{{description>accepting lunch; dining; dining together; eating; eating or enjoying; feasting; his eating; lunch; taking lunch; the eating; to eating.}}
+---json
+{
+    "name":"bhojana",
+    "h1":"bhojana",
+    "title":"bhojana",
+    "description":"accepting lunch; dining; dining together; eating; eating or enjoying; feasting; his eating; lunch; taking lunch; the eating; to eating."
+}
+---
 
 ==== bhojana  ====
   * accepting lunch --- [[books:cc:madhya:15:239|Madhya 15.239]]

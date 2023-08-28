@@ -1,5 +1,11 @@
-~~Title:racana~~
-{{description>arrangement; compilation; composition.}}
+---json
+{
+    "name":"racana",
+    "h1":"racana",
+    "title":"racana",
+    "description":"arrangement; compilation; composition."
+}
+---
 
 ==== racana  ====
   * arrangement --- [[books:cc:antya:18:101|Antya 18.101]]

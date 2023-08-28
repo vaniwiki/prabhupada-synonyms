@@ -1,5 +1,11 @@
-~~Title:kasthah~~
-{{description>the highest truth.}}
+---json
+{
+    "name":"kasthah",
+    "h1":"kasthah",
+    "title":"kasthah",
+    "description":"the highest truth."
+}
+---
 
 ==== kāṣṭhaḥ  ====
   * the highest truth --- [[books:sb:3:28:36|SB 3.28.36]]

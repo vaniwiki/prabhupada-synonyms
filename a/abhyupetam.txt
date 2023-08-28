@@ -1,5 +1,11 @@
-~~Title:abhyupetam~~
-{{description>promised to be accepted.}}
+---json
+{
+    "name":"abhyupetam",
+    "h1":"abhyupetam",
+    "title":"abhyupetam",
+    "description":"promised to be accepted."
+}
+---
 
 ==== abhyupetam  ====
   * promised to be accepted --- [[books:sb:8:9:12|SB 8.9.12]]

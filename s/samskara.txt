@@ -1,5 +1,11 @@
-~~Title:saṁskāra~~
-{{description>cleaning; cleansing; purification; reformation; reformatory process.}}
+---json
+{
+    "name":"saṁskāra",
+    "h1":"saṁskāra",
+    "title":"saṁskāra",
+    "description":"cleaning; cleansing; purification; reformation; reformatory process."
+}
+---
 
 ==== saṁskāra  ====
   * cleaning --- [[books:cc:antya:18:103|Antya 18.103]]

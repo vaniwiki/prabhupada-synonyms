@@ -1,5 +1,11 @@
-~~Title:jigīṣataḥ~~
-{{description>so desiring.}}
+---json
+{
+    "name":"jigīṣataḥ",
+    "h1":"jigīṣataḥ",
+    "title":"jigīṣataḥ",
+    "description":"so desiring."
+}
+---
 
 ==== jigīṣataḥ  ====
   * so desiring --- [[books:sb:2:10:25|SB 2.10.25]]

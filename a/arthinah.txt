@@ -1,5 +1,11 @@
-~~Title:arthinaḥ~~
-{{description>giving persons desiring material wealth; one who is asking for something; seeking; those who aspire to get the favor.}}
+---json
+{
+    "name":"arthinaḥ",
+    "h1":"arthinaḥ",
+    "title":"arthinaḥ",
+    "description":"giving persons desiring material wealth; one who is asking for something; seeking; those who aspire to get the favor."
+}
+---
 
 ==== arthinaḥ  ====
   * giving persons desiring material wealth --- [[books:sb:8:8:6|SB 8.8.6]]

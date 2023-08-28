@@ -1,5 +1,11 @@
-~~Title:bhedam~~
-{{description>differences; different; differentiation.}}
+---json
+{
+    "name":"bhedam",
+    "h1":"bhedam",
+    "title":"bhedam",
+    "description":"differences; different; differentiation."
+}
+---
 
 ==== bhedam  ====
   * differences --- [[books:bg:17:7|Bg. 17.7]], [[books:bg:18:29|Bg. 18.29]]

@@ -1,5 +1,11 @@
-~~Title:bhaviṣyasi~~
-{{description>shall also appear; you shall become.}}
+---json
+{
+    "name":"bhaviṣyasi",
+    "h1":"bhaviṣyasi",
+    "title":"bhaviṣyasi",
+    "description":"shall also appear; you shall become."
+}
+---
 
 ==== bhaviṣyasi  ====
   * shall also appear --- [[books:sb:10:2:9|SB 10.2.9]]

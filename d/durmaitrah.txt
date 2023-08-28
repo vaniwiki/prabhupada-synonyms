@@ -1,5 +1,11 @@
-~~Title:durmaitrāḥ~~
-{{description>cheating friends.}}
+---json
+{
+    "name":"durmaitrāḥ",
+    "h1":"durmaitrāḥ",
+    "title":"durmaitrāḥ",
+    "description":"cheating friends."
+}
+---
 
 ==== durmaitrāḥ  ====
   * cheating friends --- [[books:sb:7:5:27|SB 7.5.27]]

@@ -1,5 +1,11 @@
-~~Title:tarimu~~
-{{description>shall become free from these sinful activities.}}
+---json
+{
+    "name":"tarimu",
+    "h1":"tarimu",
+    "title":"tarimu",
+    "description":"shall become free from these sinful activities."
+}
+---
 
 ==== tarimu  ====
   * shall become free from these sinful activities --- [[books:cc:madhya:24:253|Madhya 24.253]]

@@ -1,5 +1,11 @@
-~~Title:apatyāni~~
-{{description>children; offspring; sons.}}
+---json
+{
+    "name":"apatyāni",
+    "h1":"apatyāni",
+    "title":"apatyāni",
+    "description":"children; offspring; sons."
+}
+---
 
 ==== apatyāni  ====
   * children --- [[books:sb:3:12:56|SB 3.12.56]], [[books:sb:3:13:11|SB 3.13.11]], [[books:sb:8:13:1|SB 8.13.1]], [[books:sb:9:14:39|SB 9.14.39]]

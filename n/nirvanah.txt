@@ -1,5 +1,11 @@
-~~Title:nirvāṇaḥ~~
-{{description>prohibitive.}}
+---json
+{
+    "name":"nirvāṇaḥ",
+    "h1":"nirvāṇaḥ",
+    "title":"nirvāṇaḥ",
+    "description":"prohibitive."
+}
+---
 
 ==== nirvāṇaḥ  ====
   * prohibitive --- [[books:sb:1:6:28|SB 1.6.28]]

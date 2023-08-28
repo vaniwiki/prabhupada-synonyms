@@ -1,5 +1,11 @@
-~~Title:amoghakam~~
-{{description>named Amogha.}}
+---json
+{
+    "name":"amoghakam",
+    "h1":"amoghakam",
+    "title":"amoghakam",
+    "description":"named Amogha."
+}
+---
 
 ==== amoghakam  ====
   * named Amogha --- [[books:cc:madhya:15:1|Madhya 15.1]]

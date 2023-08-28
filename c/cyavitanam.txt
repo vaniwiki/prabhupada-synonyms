@@ -1,5 +1,11 @@
-~~Title:cyāvitānām~~
-{{description>vanquished.}}
+---json
+{
+    "name":"cyāvitānām",
+    "h1":"cyāvitānām",
+    "title":"cyāvitānām",
+    "description":"vanquished."
+}
+---
 
 ==== cyāvitānām  ====
   * vanquished --- [[books:sb:8:17:12|SB 8.17.12]]

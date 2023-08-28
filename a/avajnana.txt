@@ -1,5 +1,11 @@
-~~Title:avajñāna~~
-{{description>disrespect.}}
+---json
+{
+    "name":"avajñāna",
+    "h1":"avajñāna",
+    "title":"avajñāna",
+    "description":"disrespect."
+}
+---
 
 ==== avajñāna  ====
   * disrespect --- [[books:cc:adi:17:67|Ādi 17.67]]

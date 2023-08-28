@@ -1,5 +1,11 @@
-~~Title:putrebhyaḥ~~
-{{description>unto his sons.}}
+---json
+{
+    "name":"putrebhyaḥ",
+    "h1":"putrebhyaḥ",
+    "title":"putrebhyaḥ",
+    "description":"unto his sons."
+}
+---
 
 ==== putrebhyaḥ  ====
   * unto his sons --- [[books:sb:4:31:27|SB 4.31.27]], [[books:sb:5:1:38|SB 5.1.38]]

@@ -1,5 +1,11 @@
-~~Title:asahya~~
-{{description>formidable; unbearable.}}
+---json
+{
+    "name":"asahya",
+    "h1":"asahya",
+    "title":"asahya",
+    "description":"formidable; unbearable."
+}
+---
 
 ==== asahya  ====
   * formidable --- [[books:sb:8:3:28|SB 8.3.28]]

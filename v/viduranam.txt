@@ -1,5 +1,11 @@
-~~Title:vidūrāṇām~~
-{{description>bereft of.}}
+---json
+{
+    "name":"vidūrāṇām",
+    "h1":"vidūrāṇām",
+    "title":"vidūrāṇām",
+    "description":"bereft of."
+}
+---
 
 ==== vidūrāṇām  ====
   * bereft of --- [[books:sb:4:14:25|SB 4.14.25]]

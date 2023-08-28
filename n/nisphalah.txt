@@ -1,5 +1,11 @@
-~~Title:nisphalah~~
-{{description>with no result; without any result.}}
+---json
+{
+    "name":"nisphalah",
+    "h1":"nisphalah",
+    "title":"nisphalah",
+    "description":"with no result; without any result."
+}
+---
 
 ==== niṣphalaḥ  ====
   * with no result --- [[books:sb:6:11:19|SB 6.11.19]]

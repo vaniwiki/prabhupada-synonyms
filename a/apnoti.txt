@@ -1,5 +1,11 @@
-~~Title:āpnoti~~
-{{description>achieve; achieves; does not acquire; gets; he obtains; is achieved; is obtained; one becomes entangled; one gets.}}
+---json
+{
+    "name":"āpnoti",
+    "h1":"āpnoti",
+    "title":"āpnoti",
+    "description":"achieve; achieves; does not acquire; gets; he obtains; is achieved; is obtained; one becomes entangled; one gets."
+}
+---
 
 ==== āpnoti  ====
   * achieve --- [[books:bg:18:47|Bg. 18.47]]

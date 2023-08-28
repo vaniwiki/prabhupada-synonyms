@@ -1,5 +1,11 @@
-~~Title:sampad~~
-{{description>the opulence.}}
+---json
+{
+    "name":"sampad",
+    "h1":"sampad",
+    "title":"sampad",
+    "description":"the opulence."
+}
+---
 
 ==== sampad  ====
   * the opulence --- [[books:cc:madhya:5:24|Madhya 5.24]], [[books:cc:madhya:14:204|Madhya 14.204]], [[books:cc:madhya:14:213|Madhya 14.213]]

@@ -1,5 +1,11 @@
-~~Title:ākṛtiḥ~~
-{{description>appearance; appearing as if; features of the body; form; her form.}}
+---json
+{
+    "name":"ākṛtiḥ",
+    "h1":"ākṛtiḥ",
+    "title":"ākṛtiḥ",
+    "description":"appearance; appearing as if; features of the body; form; her form."
+}
+---
 
 ==== ākṛtiḥ  ====
   * appearance --- [[books:sb:4:13:10|SB 4.13.10]]

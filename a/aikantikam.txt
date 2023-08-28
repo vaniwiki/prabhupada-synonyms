@@ -1,5 +1,11 @@
-~~Title:aikāntikam~~
-{{description>absolutely cleansed.}}
+---json
+{
+    "name":"aikāntikam",
+    "h1":"aikāntikam",
+    "title":"aikāntikam",
+    "description":"absolutely cleansed."
+}
+---
 
 ==== aikāntikam  ====
   * absolutely cleansed --- [[books:sb:6:2:12|SB 6.2.12]]

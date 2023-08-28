@@ -1,5 +1,11 @@
-~~Title:prajānām~~
-{{description>family; of all created beings; of all living entities; of all living entities who have taken shelter of you; of all the citizens; of all the living beings; of all who are born; of the citizens; of the living beings; of the living creatures; of the living entities (on different planets); of the living entities; of the living entities born from me; of the people; of the people in general; of the subjects; of those who are born; while the citizens.}}
+---json
+{
+    "name":"prajānām",
+    "h1":"prajānām",
+    "title":"prajānām",
+    "description":"family; of all created beings; of all living entities; of all living entities who have taken shelter of you; of all the citizens; of all the living beings; of all who are born; of the citizens; of the living beings; of the living creatures; of the living entities (on different planets); of the living entities; of the living entities born from me; of the people; of the people in general; of the subjects; of those who are born; while the citizens."
+}
+---
 
 ==== prajānām  ====
   * family --- [[books:sb:3:1:25|SB 3.1.25]]

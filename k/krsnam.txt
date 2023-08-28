@@ -1,5 +1,11 @@
-~~Title:krsnam~~
-{{description>about Kṛṣṇa; black; in the Supreme Personality of Godhead; Kṛṣṇa; Kṛṣṇa, the Personality of Godhead; Kṛṣṇa, the Supreme Personality of Godhead; like Lord Kṛṣṇa; Lord Kṛṣṇa; of the name Kṛṣṇa; the original Personality of Godhead; the Supreme Lord, Kṛṣṇa; unto Kṛṣṇa; unto Lord Kṛṣṇa; unto Lord Kṛṣṇa, the Personality of Godhead; unto Lord Śrī Kṛṣṇa; upon Lord Kṛṣṇa.}}
+---json
+{
+    "name":"krsnam",
+    "h1":"krsnam",
+    "title":"krsnam",
+    "description":"about Kṛṣṇa; black; in the Supreme Personality of Godhead; Kṛṣṇa; Kṛṣṇa, the Personality of Godhead; Kṛṣṇa, the Supreme Personality of Godhead; like Lord Kṛṣṇa; Lord Kṛṣṇa; of the name Kṛṣṇa; the original Personality of Godhead; the Supreme Lord, Kṛṣṇa; unto Kṛṣṇa; unto Lord Kṛṣṇa; unto Lord Kṛṣṇa, the Personality of Godhead; unto Lord Śrī Kṛṣṇa; upon Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇam  ====
   * about Kṛṣṇa --- [[books:sb:7:15:79|SB 7.15.79]]

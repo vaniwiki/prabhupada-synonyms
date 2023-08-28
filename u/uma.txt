@@ -1,5 +1,11 @@
-~~Title:umā~~
-{{description>Pārvatī; Umā.}}
+---json
+{
+    "name":"umā",
+    "h1":"umā",
+    "title":"umā",
+    "description":"Pārvatī; Umā."
+}
+---
 
 ==== umā  ====
   * Pārvatī --- [[books:sb:6:17:36|SB 6.17.36]]

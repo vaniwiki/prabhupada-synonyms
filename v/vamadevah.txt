@@ -1,5 +1,11 @@
-~~Title:vāmadevaḥ~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"vāmadevaḥ",
+    "h1":"vāmadevaḥ",
+    "title":"vāmadevaḥ",
+    "description":"Lord Śiva."
+}
+---
 
 ==== vāmadevaḥ  ====
   * Lord Śiva --- [[books:sb:2:6:37|SB 2.6.37]]

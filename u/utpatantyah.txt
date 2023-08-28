@@ -1,5 +1,11 @@
-~~Title:utpatantyāḥ~~
-{{description>forcefully jumping up.}}
+---json
+{
+    "name":"utpatantyāḥ",
+    "h1":"utpatantyāḥ",
+    "title":"utpatantyāḥ",
+    "description":"forcefully jumping up."
+}
+---
 
 ==== utpatantyāḥ  ====
   * forcefully jumping up --- [[books:sb:5:8:5|SB 5.8.5]]

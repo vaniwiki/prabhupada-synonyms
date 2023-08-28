@@ -1,5 +1,11 @@
-~~Title:saṅgete~~
-{{description>along with; along with Him; in company; with Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"saṅgete",
+    "h1":"saṅgete",
+    "title":"saṅgete",
+    "description":"along with; along with Him; in company; with Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== saṅgete  ====
   * along with --- [[books:cc:adi:10:55|Ādi 10.55]]

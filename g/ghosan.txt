@@ -1,5 +1,11 @@
-~~Title:ghoṣān~~
-{{description>habitations for the milkmen; the little villages of cowherds.}}
+---json
+{
+    "name":"ghoṣān",
+    "h1":"ghoṣān",
+    "title":"ghoṣān",
+    "description":"habitations for the milkmen; the little villages of cowherds."
+}
+---
 
 ==== ghoṣān  ====
   * habitations for the milkmen --- [[books:sb:4:18:31|SB 4.18.31]]

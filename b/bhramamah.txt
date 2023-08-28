@@ -1,5 +1,11 @@
-~~Title:bhramāmaḥ~~
-{{description>are rotating; we wander.}}
+---json
+{
+    "name":"bhramāmaḥ",
+    "h1":"bhramāmaḥ",
+    "title":"bhramāmaḥ",
+    "description":"are rotating; we wander."
+}
+---
 
 ==== bhramāmaḥ  ====
   * are rotating --- [[books:sb:9:4:56|SB 9.4.56]]

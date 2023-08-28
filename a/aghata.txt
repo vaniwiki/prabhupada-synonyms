@@ -1,5 +1,11 @@
-~~Title:āghāta~~
-{{description>the taking of your life.}}
+---json
+{
+    "name":"āghāta",
+    "h1":"āghāta",
+    "title":"āghāta",
+    "description":"the taking of your life."
+}
+---
 
 ==== prāṇa-āghāta  ====
   * the taking of your life --- [[books:cc:adi:17:184|Ādi 17.184]]

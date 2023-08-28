@@ -1,5 +1,11 @@
-~~Title:cakravāka~~
-{{description>cakravāka; the cakravāka birds.}}
+---json
+{
+    "name":"cakravāka",
+    "h1":"cakravāka",
+    "title":"cakravāka",
+    "description":"cakravāka; the cakravāka birds."
+}
+---
 
 ==== cakravāka  ====
   * //cakravāka// --- [[books:sb:3:15:18|SB 3.15.18]]

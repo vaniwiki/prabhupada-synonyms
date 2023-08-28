@@ -1,5 +1,11 @@
-~~Title:talpa~~
-{{description>one who indulges in sex with the wife of his teacher or guru.}}
+---json
+{
+    "name":"talpa",
+    "h1":"talpa",
+    "title":"talpa",
+    "description":"one who indulges in sex with the wife of his teacher or guru."
+}
+---
 
 ==== guru-talpa-gaḥ  ====
   * one who indulges in sex with the wife of his teacher or //guru// --- [[books:sb:6:2:9-10|SB 6.2.9-10]]

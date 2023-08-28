@@ -1,5 +1,11 @@
-~~Title:abhitaptam~~
-{{description>highly advanced through practice of austerity and penance.}}
+---json
+{
+    "name":"abhitaptam",
+    "h1":"abhitaptam",
+    "title":"abhitaptam",
+    "description":"highly advanced through practice of austerity and penance."
+}
+---
 
 ==== tapasā abhitaptam  ====
   * highly advanced through practice of austerity and penance --- [[books:sb:8:7:33|SB 8.7.33]]

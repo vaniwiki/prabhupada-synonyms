@@ -1,5 +1,11 @@
-~~Title:asu~~
-{{description>for the protection of one's life; life air; life airs; life breath; of the life force; the life air; vital force; whose breath.}}
+---json
+{
+    "name":"asu",
+    "h1":"asu",
+    "title":"asu",
+    "description":"for the protection of one's life; life air; life airs; life breath; of the life force; the life air; vital force; whose breath."
+}
+---
 
 ==== asu  ====
   * for the protection of one's life --- [[books:sb:8:9:29|SB 8.9.29]]

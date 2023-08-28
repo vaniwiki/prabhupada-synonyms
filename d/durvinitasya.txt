@@ -1,5 +1,11 @@
-~~Title:durvinītasya~~
-{{description>when such a person is an upstart.}}
+---json
+{
+    "name":"durvinītasya",
+    "h1":"durvinītasya",
+    "title":"durvinītasya",
+    "description":"when such a person is an upstart."
+}
+---
 
 ==== durvinītasya  ====
   * when such a person is an upstart --- [[books:sb:9:4:70|SB 9.4.70]]

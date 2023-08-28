@@ -1,5 +1,11 @@
-~~Title:patattriṇām~~
-{{description>of other birds; of the birds.}}
+---json
+{
+    "name":"patattriṇām",
+    "h1":"patattriṇām",
+    "title":"patattriṇām",
+    "description":"of other birds; of the birds."
+}
+---
 
 ==== patattriṇām  ====
   * of other birds --- [[books:sb:4:6:12|SB 4.6.12]]

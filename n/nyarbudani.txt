@@ -1,5 +1,11 @@
-~~Title:nyarbudāni~~
-{{description>ten crores (one hundred million).}}
+---json
+{
+    "name":"nyarbudāni",
+    "h1":"nyarbudāni",
+    "title":"nyarbudāni",
+    "description":"ten crores (one hundred million)."
+}
+---
 
 ==== nyarbudāni  ====
   * ten //crores// (one hundred million) --- [[books:sb:9:4:33-35|SB 9.4.33-35]]

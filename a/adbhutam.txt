@@ -1,5 +1,11 @@
-~~Title:adbhutam~~
-{{description>a wonder; all-wonderful; and very, very wonderful; and wonderful; as wonderful; certainly very wonderful; extraordinary; it is wonderful; miraculous; this incident is wonderfully astonishing; very wonderful; wonder; wonderful.}}
+---json
+{
+    "name":"adbhutam",
+    "h1":"adbhutam",
+    "title":"adbhutam",
+    "description":"a wonder; all-wonderful; and very, very wonderful; and wonderful; as wonderful; certainly very wonderful; extraordinary; it is wonderful; miraculous; this incident is wonderfully astonishing; very wonderful; wonder; wonderful."
+}
+---
 
 ==== adbhutam  ====
   * a wonder --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

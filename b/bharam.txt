@@ -1,5 +1,11 @@
-~~Title:bharam~~
-{{description>burden; the burden; the false burden or responsibility (of maintaining one's family, society and nation and elaborate arrangements for that purpose).}}
+---json
+{
+    "name":"bharam",
+    "h1":"bharam",
+    "title":"bharam",
+    "description":"burden; the burden; the false burden or responsibility (of maintaining one's family, society and nation and elaborate arrangements for that purpose)."
+}
+---
 
 ==== bharam  ====
   * burden --- [[books:sb:1:3:23|SB 1.3.23]]

@@ -1,5 +1,11 @@
-~~Title:anirvṛteḥ~~
-{{description>of the moroseness.}}
+---json
+{
+    "name":"anirvṛteḥ",
+    "h1":"anirvṛteḥ",
+    "title":"anirvṛteḥ",
+    "description":"of the moroseness."
+}
+---
 
 ==== anirvṛteḥ  ====
   * of the moroseness --- [[books:sb:6:13:3|SB 6.13.3]]

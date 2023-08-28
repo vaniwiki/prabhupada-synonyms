@@ -1,5 +1,11 @@
-~~Title:brahmane~~
-{{description>the supreme cause; unto Lord Brahmā; unto the brahmā priest, who supervises what is done in the sacrificial arena; unto the priest known as brahmā; unto the Supreme Brahman; who is the Supreme Brahman (Parabrahman).}}
+---json
+{
+    "name":"brahmane",
+    "h1":"brahmane",
+    "title":"brahmane",
+    "description":"the supreme cause; unto Lord Brahmā; unto the brahmā priest, who supervises what is done in the sacrificial arena; unto the priest known as brahmā; unto the Supreme Brahman; who is the Supreme Brahman (Parabrahman)."
+}
+---
 
 ==== brahmaṇe  ====
   * the supreme cause --- [[books:sb:6:16:22|SB 6.16.22]]

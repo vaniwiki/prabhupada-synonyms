@@ -1,5 +1,11 @@
-~~Title:nihatah~~
-{{description>being killed; conquered; killed; severely beaten.}}
+---json
+{
+    "name":"nihatah",
+    "h1":"nihatah",
+    "title":"nihatah",
+    "description":"being killed; conquered; killed; severely beaten."
+}
+---
 
 ==== nihataḥ  ====
   * being killed --- [[books:sb:8:20:13|SB 8.20.13]]

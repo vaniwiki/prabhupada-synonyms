@@ -1,5 +1,11 @@
-~~Title:pavitram~~
-{{description>perfectly pure; pure; purest; purified; sacred; sanctified; that which purifies; the purest; very pure; very sanctified.}}
+---json
+{
+    "name":"pavitram",
+    "h1":"pavitram",
+    "title":"pavitram",
+    "description":"perfectly pure; pure; purest; purified; sacred; sanctified; that which purifies; the purest; very pure; very sanctified."
+}
+---
 
 ==== pavitram  ====
   * perfectly pure --- [[books:sb:1:15:51|SB 1.15.51]]

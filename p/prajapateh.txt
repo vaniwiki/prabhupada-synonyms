@@ -1,5 +1,11 @@
-~~Title:prajāpateḥ~~
-{{description>another prajāpati; because of Prajāpati Dakṣa; of Brahmā; of Dakṣa; of Kardama; of Kaśyapa Muni, the Prajāpati; of King Aṅga; of Lord Brahmā; of Mahārāja Dakṣa; of one of the prajāpatis entrusted with increasing population; of Prajāpati (Lord Brahmā); of Prajāpati; of Prajāpati Dakṣa; of the creator; of the father of the living entities; of the lord of created beings; of the lord of the living entities; of the Prajāpati; who are the master of all living entities.}}
+---json
+{
+    "name":"prajāpateḥ",
+    "h1":"prajāpateḥ",
+    "title":"prajāpateḥ",
+    "description":"another prajāpati; because of Prajāpati Dakṣa; of Brahmā; of Dakṣa; of Kardama; of Kaśyapa Muni, the Prajāpati; of King Aṅga; of Lord Brahmā; of Mahārāja Dakṣa; of one of the prajāpatis entrusted with increasing population; of Prajāpati (Lord Brahmā); of Prajāpati; of Prajāpati Dakṣa; of the creator; of the father of the living entities; of the lord of created beings; of the lord of the living entities; of the Prajāpati; who are the master of all living entities."
+}
+---
 
 ==== prajāpateḥ  ====
   * another //prajāpati// --- [[books:sb:6:4:51|SB 6.4.51]]

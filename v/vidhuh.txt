@@ -1,5 +1,11 @@
-~~Title:vidhuḥ~~
-{{description>Kṛṣṇa, the Supreme Personality of Godhead; the moon.}}
+---json
+{
+    "name":"vidhuḥ",
+    "h1":"vidhuḥ",
+    "title":"vidhuḥ",
+    "description":"Kṛṣṇa, the Supreme Personality of Godhead; the moon."
+}
+---
 
 ==== vidhuḥ  ====
   * Kṛṣṇa, the Supreme Personality of Godhead --- [[books:cc:madhya:8:142|Madhya 8.142]]

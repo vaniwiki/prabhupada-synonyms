@@ -1,5 +1,11 @@
-~~Title:priyera~~
-{{description>against her beloved husband.}}
+---json
+{
+    "name":"priyera",
+    "h1":"priyera",
+    "title":"priyera",
+    "description":"against her beloved husband."
+}
+---
 
 ==== priyera upara  ====
   * against her beloved husband --- [[books:cc:madhya:14:139|Madhya 14.139]]

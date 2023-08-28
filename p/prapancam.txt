@@ -1,5 +1,11 @@
-~~Title:prapañcam~~
-{{description>whose material manifestations.}}
+---json
+{
+    "name":"prapañcam",
+    "h1":"prapañcam",
+    "title":"prapañcam",
+    "description":"whose material manifestations."
+}
+---
 
 ==== prapañcam  ====
   * whose material manifestations --- [[books:sb:3:24:33|SB 3.24.33]]

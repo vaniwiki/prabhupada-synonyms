@@ -1,5 +1,11 @@
-~~Title:udake~~
-{{description>in the causal water; in the water; living within the water; the water; within water.}}
+---json
+{
+    "name":"udake",
+    "h1":"udake",
+    "title":"udake",
+    "description":"in the causal water; in the water; living within the water; the water; within water."
+}
+---
 
 ==== udake  ====
   * in the causal water --- [[books:sb:2:5:34|SB 2.5.34]]

@@ -1,5 +1,11 @@
-~~Title:phenilā~~
-{{description>full of foam.}}
+---json
+{
+    "name":"phenilā",
+    "h1":"phenilā",
+    "title":"phenilā",
+    "description":"full of foam."
+}
+---
 
 ==== phenilā  ====
   * full of foam --- [[books:sb:10:3:50|SB 10.3.50]]

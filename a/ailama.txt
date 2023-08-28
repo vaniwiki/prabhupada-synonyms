@@ -1,5 +1,11 @@
-~~Title:āilāma~~
-{{description>have come; I have come.}}
+---json
+{
+    "name":"āilāma",
+    "h1":"āilāma",
+    "title":"āilāma",
+    "description":"have come; I have come."
+}
+---
 
 ==== āilāma  ====
   * have come --- [[books:cc:adi:17:145|Ādi 17.145]], [[books:cc:adi:17:262|Ādi 17.262]]

@@ -1,5 +1,11 @@
-~~Title:kṣāntiḥ~~
-{{description>forgiveness (being unagitated by anger); forgiveness; self-control even if there is cause of anger; tolerance.}}
+---json
+{
+    "name":"kṣāntiḥ",
+    "h1":"kṣāntiḥ",
+    "title":"kṣāntiḥ",
+    "description":"forgiveness (being unagitated by anger); forgiveness; self-control even if there is cause of anger; tolerance."
+}
+---
 
 ==== kṣāntiḥ  ====
   * forgiveness (being unagitated by anger) --- [[books:sb:7:11:21|SB 7.11.21]]

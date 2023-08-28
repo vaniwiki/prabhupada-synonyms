@@ -1,5 +1,11 @@
-~~Title:naiṣādāḥ~~
-{{description>called Naiṣādas.}}
+---json
+{
+    "name":"naiṣādāḥ",
+    "h1":"naiṣādāḥ",
+    "title":"naiṣādāḥ",
+    "description":"called Naiṣādas."
+}
+---
 
 ==== naiṣādāḥ  ====
   * called Naiṣādas --- [[books:sb:4:14:46|SB 4.14.46]]

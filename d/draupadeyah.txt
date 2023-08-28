@@ -1,5 +1,11 @@
-~~Title:draupadeyāḥ~~
-{{description>the sons of Draupadī.}}
+---json
+{
+    "name":"draupadeyāḥ",
+    "h1":"draupadeyāḥ",
+    "title":"draupadeyāḥ",
+    "description":"the sons of Draupadī."
+}
+---
 
 ==== draupadeyāḥ  ====
   * the sons of Draupadī --- [[books:bg:1:6|Bg. 1.6]], [[books:bg:1:16-18|Bg. 1.16-18]]

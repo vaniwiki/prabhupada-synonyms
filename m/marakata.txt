@@ -1,5 +1,11 @@
-~~Title:marakata~~
-{{description>emeralds; with emerald.}}
+---json
+{
+    "name":"marakata",
+    "h1":"marakata",
+    "title":"marakata",
+    "description":"emeralds; with emerald."
+}
+---
 
 ==== marakata  ====
   * emeralds --- [[books:sb:4:25:15|SB 4.25.15]]

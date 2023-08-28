@@ -1,5 +1,11 @@
-~~Title:bhartuḥ~~
-{{description>made possible by her husband; of her husband; of her husband, Kaśyapa; of her husband, Lord Rāmacandra; of one who is carrying the palanquin; of our master; of the bearer, the body; of the husband; of the Lord; of the master; of the master, Lord Kṛṣṇa; of the Supreme Lord; of their husband; of their master; of your husband.}}
+---json
+{
+    "name":"bhartuḥ",
+    "h1":"bhartuḥ",
+    "title":"bhartuḥ",
+    "description":"made possible by her husband; of her husband; of her husband, Kaśyapa; of her husband, Lord Rāmacandra; of one who is carrying the palanquin; of our master; of the bearer, the body; of the husband; of the Lord; of the master; of the master, Lord Kṛṣṇa; of the Supreme Lord; of their husband; of their master; of your husband."
+}
+---
 
 ==== bhartuḥ  ====
   * made possible by her husband --- [[books:sb:9:18:34|SB 9.18.34]]

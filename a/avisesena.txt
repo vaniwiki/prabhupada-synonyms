@@ -1,5 +1,11 @@
-~~Title:aviśeṣeṇa~~
-{{description>without differences; without distinction.}}
+---json
+{
+    "name":"aviśeṣeṇa",
+    "h1":"aviśeṣeṇa",
+    "title":"aviśeṣeṇa",
+    "description":"without differences; without distinction."
+}
+---
 
 ==== aviśeṣeṇa  ====
   * without differences --- [[books:sb:5:1:27|SB 5.1.27]]

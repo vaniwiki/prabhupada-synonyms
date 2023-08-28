@@ -1,5 +1,11 @@
-~~Title:anuśocan~~
-{{description>continuously thinking of; grieving.}}
+---json
+{
+    "name":"anuśocan",
+    "h1":"anuśocan",
+    "title":"anuśocan",
+    "description":"continuously thinking of; grieving."
+}
+---
 
 ==== anuśocan  ====
   * continuously thinking of --- [[books:sb:5:8:15|SB 5.8.15]]

@@ -1,5 +1,11 @@
-~~Title:mātṛ~~
-{{description>and mother; Mātās; regarding the mother; the inhabitants of Mātṛloka.}}
+---json
+{
+    "name":"mātṛ",
+    "h1":"mātṛ",
+    "title":"mātṛ",
+    "description":"and mother; Mātās; regarding the mother; the inhabitants of Mātṛloka."
+}
+---
 
 ==== mātṛ  ====
   * and mother --- [[books:sb:4:27:7|SB 4.27.7]]

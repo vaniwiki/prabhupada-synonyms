@@ -1,5 +1,11 @@
-~~Title:janare~~
-{{description>informed the prince.}}
+---json
+{
+    "name":"janare",
+    "h1":"janare",
+    "title":"janare",
+    "description":"informed the prince."
+}
+---
 
 ==== jānāre kahila  ====
   * informed the prince --- [[books:cc:antya:9:51|Antya 9.51]]

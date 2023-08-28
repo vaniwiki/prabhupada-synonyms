@@ -1,5 +1,11 @@
-~~Title:tiraścām~~
-{{description>lower species of life; of a snake; species of lower animals.}}
+---json
+{
+    "name":"tiraścām",
+    "h1":"tiraścām",
+    "title":"tiraścām",
+    "description":"lower species of life; of a snake; species of lower animals."
+}
+---
 
 ==== tiraścām  ====
   * lower species of life --- [[books:sb:7:13:25|SB 7.13.25]]

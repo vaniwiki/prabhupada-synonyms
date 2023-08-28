@@ -1,5 +1,11 @@
-~~Title:pāvakam~~
-{{description>Pāvaka.}}
+---json
+{
+    "name":"pāvakam",
+    "h1":"pāvakam",
+    "title":"pāvakam",
+    "description":"Pāvaka."
+}
+---
 
 ==== pāvakam  ====
   * Pāvaka --- [[books:sb:4:1:60|SB 4.1.60]]

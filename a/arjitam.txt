@@ -1,5 +1,11 @@
-~~Title:arjitam~~
-{{description>achieved.}}
+---json
+{
+    "name":"arjitam",
+    "h1":"arjitam",
+    "title":"arjitam",
+    "description":"achieved."
+}
+---
 
 ==== arjitam  ====
   * achieved --- [[books:sb:4:9:28|SB 4.9.28]]

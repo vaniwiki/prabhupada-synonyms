@@ -1,5 +1,11 @@
-~~Title:prakhyāpana~~
-{{description>demonstration.}}
+---json
+{
+    "name":"prakhyāpana",
+    "h1":"prakhyāpana",
+    "title":"prakhyāpana",
+    "description":"demonstration."
+}
+---
 
 ==== prakhyāpana  ====
   * demonstration --- [[books:cc:madhya:2:46|Madhya 2.46]]

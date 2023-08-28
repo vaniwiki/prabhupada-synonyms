@@ -1,5 +1,11 @@
-~~Title:vitatha~~
-{{description>fruitless.}}
+---json
+{
+    "name":"vitatha",
+    "h1":"vitatha",
+    "title":"vitatha",
+    "description":"fruitless."
+}
+---
 
 ==== vitatha  ====
   * fruitless --- [[books:sb:7:2:48|SB 7.2.48]]

@@ -1,5 +1,11 @@
-~~Title:sankhyena~~
-{{description>by philosophical discussion; by the study of Sāṅkhya philosophy.}}
+---json
+{
+    "name":"sankhyena",
+    "h1":"sankhyena",
+    "title":"sankhyena",
+    "description":"by philosophical discussion; by the study of Sāṅkhya philosophy."
+}
+---
 
 ==== sāṅkhyena  ====
   * by philosophical discussion --- [[books:bg:13:25|Bg. 13.25]]

@@ -1,5 +1,11 @@
-~~Title:parābhava~~
-{{description>defeat.}}
+---json
+{
+    "name":"parābhava",
+    "h1":"parābhava",
+    "title":"parābhava",
+    "description":"defeat."
+}
+---
 
 ==== parābhava  ====
   * defeat --- [[books:cc:adi:17:168|Ādi 17.168]]

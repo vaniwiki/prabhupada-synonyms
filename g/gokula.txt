@@ -1,5 +1,11 @@
-~~Title:gokula~~
-{{description>Gokula.}}
+---json
+{
+    "name":"gokula",
+    "h1":"gokula",
+    "title":"gokula",
+    "description":"Gokula."
+}
+---
 
 ==== gokula  ====
   * Gokula --- [[books:cc:madhya:21:91|Madhya 21.91]]

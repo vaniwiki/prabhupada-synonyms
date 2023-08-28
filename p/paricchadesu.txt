@@ -1,5 +1,11 @@
-~~Title:paricchadeṣu~~
-{{description>equipped with different garments and dresses.}}
+---json
+{
+    "name":"paricchadeṣu",
+    "h1":"paricchadeṣu",
+    "title":"paricchadeṣu",
+    "description":"equipped with different garments and dresses."
+}
+---
 
 ==== paricchadeṣu  ====
   * equipped with different garments and dresses --- [[books:sb:9:6:45-46|SB 9.6.45-46]]

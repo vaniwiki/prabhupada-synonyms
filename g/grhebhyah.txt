@@ -1,5 +1,11 @@
-~~Title:gṛhebhyaḥ~~
-{{description>from private houses.}}
+---json
+{
+    "name":"gṛhebhyaḥ",
+    "h1":"gṛhebhyaḥ",
+    "title":"gṛhebhyaḥ",
+    "description":"from private houses."
+}
+---
 
 ==== gṛhebhyaḥ  ====
   * from private houses --- [[books:cc:antya:1:189|Antya 1.189]]

@@ -1,5 +1,11 @@
-~~Title:āstaraṇāni~~
-{{description>cushions.}}
+---json
+{
+    "name":"āstaraṇāni",
+    "h1":"āstaraṇāni",
+    "title":"āstaraṇāni",
+    "description":"cushions."
+}
+---
 
 ==== āstaraṇāni  ====
   * cushions --- [[books:sb:3:33:16|SB 3.33.16]]

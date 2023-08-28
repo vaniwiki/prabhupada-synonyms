@@ -1,5 +1,11 @@
-~~Title:prapannāyai~~
-{{description>unto one who has surrendered.}}
+---json
+{
+    "name":"prapannāyai",
+    "h1":"prapannāyai",
+    "title":"prapannāyai",
+    "description":"unto one who has surrendered."
+}
+---
 
 ==== prapannāyai  ====
   * unto one who has surrendered --- [[books:sb:3:23:51|SB 3.23.51]]

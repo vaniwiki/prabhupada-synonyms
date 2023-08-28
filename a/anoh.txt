@@ -1,5 +1,11 @@
-~~Title:anoh~~
-{{description>of Anu; of Anu, the fourth of the four sons of Yayāti.}}
+---json
+{
+    "name":"anoh",
+    "h1":"anoh",
+    "title":"anoh",
+    "description":"of Anu; of Anu, the fourth of the four sons of Yayāti."
+}
+---
 
 ==== anoḥ  ====
   * of Anu --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

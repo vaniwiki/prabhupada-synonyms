@@ -1,5 +1,11 @@
-~~Title:vate~~
-{{description>talks.}}
+---json
+{
+    "name":"vate",
+    "h1":"vate",
+    "title":"vate",
+    "description":"talks."
+}
+---
 
 ==== vāte  ====
   * talks --- [[books:cc:antya:3:17|Antya 3.17]]

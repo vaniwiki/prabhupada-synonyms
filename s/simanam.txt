@@ -1,5 +1,11 @@
-~~Title:sīmānam~~
-{{description>the border.}}
+---json
+{
+    "name":"sīmānam",
+    "h1":"sīmānam",
+    "title":"sīmānam",
+    "description":"the border."
+}
+---
 
 ==== sīmānam  ====
   * the border --- [[books:sb:5:16:10|SB 5.16.10]]

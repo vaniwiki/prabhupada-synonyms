@@ -1,5 +1,11 @@
-~~Title:vitatah~~
-{{description>distributing; expanded.}}
+---json
+{
+    "name":"vitatah",
+    "h1":"vitatah",
+    "title":"vitatah",
+    "description":"distributing; expanded."
+}
+---
 
 ==== vitataḥ  ====
   * distributing --- [[books:sb:3:12:48|SB 3.12.48]]

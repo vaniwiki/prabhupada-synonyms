@@ -1,5 +1,11 @@
-~~Title:viyari~~
-{{description>a sweetmeat made from fried rice.}}
+---json
+{
+    "name":"viyari",
+    "h1":"viyari",
+    "title":"viyari",
+    "description":"a sweetmeat made from fried rice."
+}
+---
 
 ==== viyari  ====
   * a sweetmeat made from fried rice --- [[books:cc:madhya:14:31|Madhya 14.31]]

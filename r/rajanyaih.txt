@@ -1,5 +1,11 @@
-~~Title:rājanyaiḥ~~
-{{description>by the administrative order; by the royal family.}}
+---json
+{
+    "name":"rājanyaiḥ",
+    "h1":"rājanyaiḥ",
+    "title":"rājanyaiḥ",
+    "description":"by the administrative order; by the royal family."
+}
+---
 
 ==== rājanyaiḥ  ====
   * by the administrative order --- [[books:sb:1:7:48|SB 1.7.48]]

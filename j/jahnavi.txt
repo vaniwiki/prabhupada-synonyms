@@ -1,5 +1,11 @@
-~~Title:jāhnavī~~
-{{description>mother Ganges; the River Ganges.}}
+---json
+{
+    "name":"jāhnavī",
+    "h1":"jāhnavī",
+    "title":"jāhnavī",
+    "description":"mother Ganges; the River Ganges."
+}
+---
 
 ==== jāhnavī  ====
   * mother Ganges --- [[books:cc:madhya:16:90|Madhya 16.90]]

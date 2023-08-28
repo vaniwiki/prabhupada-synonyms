@@ -1,5 +1,11 @@
-~~Title:gajatve~~
-{{description>in the body of an elephant.}}
+---json
+{
+    "name":"gajatve",
+    "h1":"gajatve",
+    "title":"gajatve",
+    "description":"in the body of an elephant."
+}
+---
 
 ==== gajatve  ====
   * in the body of an elephant --- [[books:sb:8:4:11-12|SB 8.4.11-12]]

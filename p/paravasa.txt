@@ -1,5 +1,11 @@
-~~Title:paravaśa~~
-{{description>controlled.}}
+---json
+{
+    "name":"paravaśa",
+    "h1":"paravaśa",
+    "title":"paravaśa",
+    "description":"controlled."
+}
+---
 
 ==== paravaśa  ====
   * controlled --- [[books:cc:antya:16:146|Antya 16.146]]

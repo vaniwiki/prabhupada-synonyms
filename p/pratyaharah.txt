@@ -1,5 +1,11 @@
-~~Title:pratyāhāraḥ~~
-{{description>withdrawal.}}
+---json
+{
+    "name":"pratyāhāraḥ",
+    "h1":"pratyāhāraḥ",
+    "title":"pratyāhāraḥ",
+    "description":"withdrawal."
+}
+---
 
 ==== pratyāhāraḥ  ====
   * withdrawal --- [[books:sb:3:28:5|SB 3.28.5]]

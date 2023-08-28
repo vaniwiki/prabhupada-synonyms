@@ -1,5 +1,11 @@
-~~Title:balakah~~
-{{description>a son named Balāka.}}
+---json
+{
+    "name":"balakah",
+    "h1":"balakah",
+    "title":"balakah",
+    "description":"a son named Balāka."
+}
+---
 
 ==== balākaḥ  ====
   * a son named Balāka --- [[books:sb:9:15:4|SB 9.15.4]]

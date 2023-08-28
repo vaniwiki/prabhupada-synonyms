@@ -1,5 +1,11 @@
-~~Title:rupam~~
-{{description>a form; beauty; beauty of a young man; bodily features; body; dress; eternal form; form; form of the Lord; form or substance; forms; Her beauty; His bodily features; his form; in Your Viṣṇu form; My form as the Supreme Personality of Godhead with four hands; that shadowy form; the beauty; the dress of a sannyāsī; the false dress of a saintly person; the form; the natural position; the same bodily features; the symptoms of manifestation; this form; transcendental form; universal form; what beauty; Śrīla Rūpa Gosvāmī.}}
+---json
+{
+    "name":"rupam",
+    "h1":"rupam",
+    "title":"rupam",
+    "description":"a form; beauty; beauty of a young man; bodily features; body; dress; eternal form; form; form of the Lord; form or substance; forms; Her beauty; His bodily features; his form; in Your Viṣṇu form; My form as the Supreme Personality of Godhead with four hands; that shadowy form; the beauty; the dress of a sannyāsī; the false dress of a saintly person; the form; the natural position; the same bodily features; the symptoms of manifestation; this form; transcendental form; universal form; what beauty; Śrīla Rūpa Gosvāmī."
+}
+---
 
 ==== rūpam  ====
   * a form --- [[books:sb:8:24:27|SB 8.24.27]]

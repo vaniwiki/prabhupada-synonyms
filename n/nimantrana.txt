@@ -1,5 +1,11 @@
-~~Title:nimantraṇa~~
-{{description>invitation; invitations; invited; the invitation; the invitations; the price of an invitation.}}
+---json
+{
+    "name":"nimantraṇa",
+    "h1":"nimantraṇa",
+    "title":"nimantraṇa",
+    "description":"invitation; invitations; invited; the invitation; the invitations; the price of an invitation."
+}
+---
 
 ==== nimantraṇa  ====
   * invitation --- [[books:cc:adi:7:46|Ādi 7.46]], [[books:cc:adi:7:55|Ādi 7.55]], [[books:cc:adi:7:56|Ādi 7.56]], [[books:cc:adi:17:269|Ādi 17.269]], [[books:cc:madhya:3:83|Madhya 3.83]], [[books:cc:madhya:3:97|Madhya 3.97]], [[books:cc:madhya:6:114|Madhya 6.114]], [[books:cc:madhya:7:51|Madhya 7.51]], [[books:cc:madhya:7:121|Madhya 7.121]], [[books:cc:madhya:8:8|Madhya 8.8]], [[books:cc:madhya:8:48|Madhya 8.48]], [[books:cc:madhya:9:18|Madhya 9.18]], [[books:cc:madhya:9:82|Madhya 9.82]], [[books:cc:madhya:9:179|Madhya 9.179]], [[books:cc:madhya:9:283|Madhya 9.283]], [[books:cc:madhya:11:203|Madhya 11.203]], [[books:cc:madhya:12:70|Madhya 12.70]], [[books:cc:madhya:14:69|Madhya 14.69]], [[books:cc:madhya:15:12|Madhya 15.12]], [[books:cc:madhya:15:14|Madhya 15.14]], [[books:cc:madhya:15:199|Madhya 15.199]], [[books:cc:madhya:16:55|Madhya 16.55]], [[books:cc:madhya:16:100|Madhya 16.100]], [[books:cc:madhya:17:58|Madhya 17.58]], [[books:cc:madhya:17:103|Madhya 17.103]], [[books:cc:madhya:18:129|Madhya 18.129]], [[books:cc:madhya:18:133|Madhya 18.133]], [[books:cc:madhya:19:247|Madhya 19.247]], [[books:cc:madhya:19:248|Madhya 19.248]], [[books:cc:madhya:20:68|Madhya 20.68]], [[books:cc:madhya:25:15|Madhya 25.15]], [[books:cc:antya:2:86|Antya 2.86]], [[books:cc:antya:6:271|Antya 6.271]], [[books:cc:antya:6:273|Antya 6.273]], [[books:cc:antya:6:276|Antya 6.276]], [[books:cc:antya:6:277|Antya 6.277]], [[books:cc:antya:6:279|Antya 6.279]], [[books:cc:antya:7:121|Antya 7.121]], [[books:cc:antya:7:138|Antya 7.138]], [[books:cc:antya:7:141|Antya 7.141]], [[books:cc:antya:8:98|Antya 8.98]], [[books:cc:antya:10:140-141|Antya 10.140-141]]

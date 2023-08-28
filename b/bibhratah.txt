@@ -1,5 +1,11 @@
-~~Title:bibhrataḥ~~
-{{description>carrying.}}
+---json
+{
+    "name":"bibhrataḥ",
+    "h1":"bibhrataḥ",
+    "title":"bibhrataḥ",
+    "description":"carrying."
+}
+---
 
 ==== bibhrataḥ  ====
   * carrying --- [[books:sb:4:21:43|SB 4.21.43]]

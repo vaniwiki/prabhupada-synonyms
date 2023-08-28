@@ -1,5 +1,11 @@
-~~Title:cūḍāmaṇi~~
-{{description>the supreme sannyāsī.}}
+---json
+{
+    "name":"cūḍāmaṇi",
+    "h1":"cūḍāmaṇi",
+    "title":"cūḍāmaṇi",
+    "description":"the supreme sannyāsī."
+}
+---
 
 ==== nyāsi-cūḍāmaṇi  ====
   * the supreme //sannyāsī// --- [[books:cc:antya:14:81|Antya 14.81]]

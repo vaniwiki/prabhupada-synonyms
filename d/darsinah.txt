@@ -1,5 +1,11 @@
-~~Title:darśinaḥ~~
-{{description>considering; seers of; the seers; who see.}}
+---json
+{
+    "name":"darśinaḥ",
+    "h1":"darśinaḥ",
+    "title":"darśinaḥ",
+    "description":"considering; seers of; the seers; who see."
+}
+---
 
 ==== darśinaḥ  ====
   * considering --- [[books:sb:4:14:39-40|SB 4.14.39-40]]

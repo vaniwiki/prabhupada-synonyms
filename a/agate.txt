@@ -1,5 +1,11 @@
-~~Title:āgate~~
-{{description>appeared; arrived; had so arrived; has arrived; has come; having arrived.}}
+---json
+{
+    "name":"āgate",
+    "h1":"āgate",
+    "title":"āgate",
+    "description":"appeared; arrived; had so arrived; has arrived; has come; having arrived."
+}
+---
 
 ==== āgate  ====
   * appeared --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

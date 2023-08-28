@@ -1,5 +1,11 @@
-~~Title:ekaśyena~~
-{{description>one after another.}}
+---json
+{
+    "name":"ekaśyena",
+    "h1":"ekaśyena",
+    "title":"ekaśyena",
+    "description":"one after another."
+}
+---
 
 ==== eka-ekaśyena  ====
   * one after another --- [[books:sb:5:1:33|SB 5.1.33]], [[books:sb:7:15:50-51|SB 7.15.50-51]]

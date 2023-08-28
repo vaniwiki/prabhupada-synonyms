@@ -1,5 +1,11 @@
-~~Title:kasmai~~
-{{description>unto Ka (Brahmājī); whom.}}
+---json
+{
+    "name":"kasmai",
+    "h1":"kasmai",
+    "title":"kasmai",
+    "description":"unto Ka (Brahmājī); whom."
+}
+---
 
 ==== kasmai  ====
   * unto Ka (Brahmājī) --- [[books:sb:3:4:18|SB 3.4.18]]

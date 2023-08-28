@@ -1,5 +1,11 @@
-~~Title:trasat~~
-{{description>because of their fear.}}
+---json
+{
+    "name":"trasat",
+    "h1":"trasat",
+    "title":"trasat",
+    "description":"because of their fear."
+}
+---
 
 ==== trāsāt  ====
   * because of their fear --- [[books:sb:9:3:35|SB 9.3.35]]

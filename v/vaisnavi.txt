@@ -1,5 +1,11 @@
-~~Title:vaiṣṇavī~~
-{{description>devotee of the Lord.}}
+---json
+{
+    "name":"vaiṣṇavī",
+    "h1":"vaiṣṇavī",
+    "title":"vaiṣṇavī",
+    "description":"devotee of the Lord."
+}
+---
 
 ==== vaiṣṇavī  ====
   * devotee of the Lord --- [[books:cc:antya:3:142|Antya 3.142]]

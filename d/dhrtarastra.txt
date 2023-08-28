@@ -1,5 +1,11 @@
-~~Title:dhṛtarāṣṭra~~
-{{description>Dhṛtarāṣṭra.}}
+---json
+{
+    "name":"dhṛtarāṣṭra",
+    "h1":"dhṛtarāṣṭra",
+    "title":"dhṛtarāṣṭra",
+    "description":"Dhṛtarāṣṭra."
+}
+---
 
 ==== dhṛtarāṣṭra  ====
   * Dhṛtarāṣṭra --- [[books:sb:5:24:31|SB 5.24.31]]

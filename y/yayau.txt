@@ -1,5 +1,11 @@
-~~Title:yayau~~
-{{description>departed; entered; He left; He went; he went away; left; left that place; obtained; returned; returned home; returned to His own abode; she left; started out; took; went; went away; went back; went out; went to; went to the fruit vendor.}}
+---json
+{
+    "name":"yayau",
+    "h1":"yayau",
+    "title":"yayau",
+    "description":"departed; entered; He left; He went; he went away; left; left that place; obtained; returned; returned home; returned to His own abode; she left; started out; took; went; went away; went back; went out; went to; went to the fruit vendor."
+}
+---
 
 ==== yayau  ====
   * departed --- [[books:sb:1:10:31|SB 1.10.31]], [[books:sb:1:15:49|SB 1.15.49]], [[books:sb:9:18:34|SB 9.18.34]]

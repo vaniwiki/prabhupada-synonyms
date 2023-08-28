@@ -1,5 +1,11 @@
-~~Title:chāra~~
-{{description>abominable; condemned; insignificant; little; most abominable; most condemned; most fallen; most insignificant; very much fallen; worthless.}}
+---json
+{
+    "name":"chāra",
+    "h1":"chāra",
+    "title":"chāra",
+    "description":"abominable; condemned; insignificant; little; most abominable; most condemned; most fallen; most insignificant; very much fallen; worthless."
+}
+---
 
 ==== chāra  ====
   * abominable --- [[books:cc:madhya:11:165|Madhya 11.165]]

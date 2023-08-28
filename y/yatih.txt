@@ -1,5 +1,11 @@
-~~Title:yatiḥ~~
-{{description>a sannyāsī or devotee; mendicant or renunciant; or in the sannyāsa-āśrama; the eldest son, Yati; the practicer; the sage; Yati.}}
+---json
+{
+    "name":"yatiḥ",
+    "h1":"yatiḥ",
+    "title":"yatiḥ",
+    "description":"a sannyāsī or devotee; mendicant or renunciant; or in the sannyāsa-āśrama; the eldest son, Yati; the practicer; the sage; Yati."
+}
+---
 
 ==== yatiḥ  ====
   * a //sannyāsī// or devotee --- [[books:sb:5:26:39|SB 5.26.39]]

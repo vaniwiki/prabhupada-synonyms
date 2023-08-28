@@ -1,5 +1,11 @@
-~~Title:adhiṣṭhātrī~~
-{{description>chief.}}
+---json
+{
+    "name":"adhiṣṭhātrī",
+    "h1":"adhiṣṭhātrī",
+    "title":"adhiṣṭhātrī",
+    "description":"chief."
+}
+---
 
 ==== adhiṣṭhātrī  ====
   * chief --- [[books:cc:adi:4:91|Ādi 4.91]]

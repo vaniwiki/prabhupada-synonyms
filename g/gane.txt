@@ -1,5 +1,11 @@
-~~Title:gane~~
-{{description>among the personal associates; associates; count; counts; in a group; unto them.}}
+---json
+{
+    "name":"gane",
+    "h1":"gane",
+    "title":"gane",
+    "description":"among the personal associates; associates; count; counts; in a group; unto them."
+}
+---
 
 ==== gaṇe  ====
   * among the personal associates --- [[books:cc:antya:4:99|Antya 4.99]]

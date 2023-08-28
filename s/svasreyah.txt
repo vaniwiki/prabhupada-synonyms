@@ -1,5 +1,11 @@
-~~Title:svasreyaḥ~~
-{{description>the son of the mother's sister (Śiśupāla).}}
+---json
+{
+    "name":"svasreyaḥ",
+    "h1":"svasreyaḥ",
+    "title":"svasreyaḥ",
+    "description":"the son of the mother's sister (Śiśupāla)."
+}
+---
 
 ==== mātṛ-svasreyaḥ  ====
   * the son of the mother's sister (Śiśupāla) --- [[books:sb:7:1:33|SB 7.1.33]]

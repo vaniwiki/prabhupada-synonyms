@@ -1,5 +1,11 @@
-~~Title:apatyatvam~~
-{{description>sonship.}}
+---json
+{
+    "name":"apatyatvam",
+    "h1":"apatyatvam",
+    "title":"apatyatvam",
+    "description":"sonship."
+}
+---
 
 ==== apatyatvam  ====
   * sonship --- [[books:sb:1:3:11|SB 1.3.11]]

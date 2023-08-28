@@ -1,5 +1,11 @@
-~~Title:śāntatvam~~
-{{description>serenity.}}
+---json
+{
+    "name":"śāntatvam",
+    "h1":"śāntatvam",
+    "title":"śāntatvam",
+    "description":"serenity."
+}
+---
 
 ==== śāntatvam  ====
   * serenity --- [[books:sb:3:26:22|SB 3.26.22]]

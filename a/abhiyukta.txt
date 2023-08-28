@@ -1,5 +1,11 @@
-~~Title:abhiyukta~~
-{{description>Abhiyukta.}}
+---json
+{
+    "name":"abhiyukta",
+    "h1":"abhiyukta",
+    "title":"abhiyukta",
+    "description":"Abhiyukta."
+}
+---
 
 ==== abhiyukta  ====
   * Abhiyukta --- [[books:sb:5:20:16|SB 5.20.16]]

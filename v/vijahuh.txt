@@ -1,5 +1,11 @@
-~~Title:vijahuḥ~~
-{{description>gave up.}}
+---json
+{
+    "name":"vijahuḥ",
+    "h1":"vijahuḥ",
+    "title":"vijahuḥ",
+    "description":"gave up."
+}
+---
 
 ==== vijahuḥ  ====
   * gave up --- [[books:sb:8:6:34|SB 8.6.34]], [[books:sb:9:10:47|SB 9.10.47]]

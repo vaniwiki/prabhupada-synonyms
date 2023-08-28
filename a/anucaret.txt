@@ -1,5 +1,11 @@
-~~Title:anucaret~~
-{{description>confirm.}}
+---json
+{
+    "name":"anucaret",
+    "h1":"anucaret",
+    "title":"anucaret",
+    "description":"confirm."
+}
+---
 
 ==== anucaret  ====
   * confirm --- [[books:cc:madhya:15:180|Madhya 15.180]]

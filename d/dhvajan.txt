@@ -1,5 +1,11 @@
-~~Title:dhvajān~~
-{{description>flags.}}
+---json
+{
+    "name":"dhvajān",
+    "h1":"dhvajān",
+    "title":"dhvajān",
+    "description":"flags."
+}
+---
 
 ==== dhvajān  ====
   * flags --- [[books:sb:4:5:10|SB 4.5.10]]

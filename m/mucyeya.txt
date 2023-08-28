@@ -1,5 +1,11 @@
-~~Title:mucyeya~~
-{{description>I can get relief.}}
+---json
+{
+    "name":"mucyeya",
+    "h1":"mucyeya",
+    "title":"mucyeya",
+    "description":"I can get relief."
+}
+---
 
 ==== mucyeya  ====
   * I can get relief --- [[books:sb:4:25:5|SB 4.25.5]]

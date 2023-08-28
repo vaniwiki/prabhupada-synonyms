@@ -1,5 +1,11 @@
-~~Title:kṛṣṇena~~
-{{description>by Kṛṣṇa; by Kṛṣṇa Himself; by Lord Kṛṣṇa.}}
+---json
+{
+    "name":"kṛṣṇena",
+    "h1":"kṛṣṇena",
+    "title":"kṛṣṇena",
+    "description":"by Kṛṣṇa; by Kṛṣṇa Himself; by Lord Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇena  ====
   * by Kṛṣṇa --- [[books:sb:3:4:35|SB 3.4.35]], [[books:sb:10:9:19|SB 10.9.19]]

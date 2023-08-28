@@ -1,5 +1,11 @@
-~~Title:sañjayaḥ~~
-{{description>a son named Sañjaya; Sañjaya.}}
+---json
+{
+    "name":"sañjayaḥ",
+    "h1":"sañjayaḥ",
+    "title":"sañjayaḥ",
+    "description":"a son named Sañjaya; Sañjaya."
+}
+---
 
 ==== sañjayaḥ  ====
   * a son named Sañjaya --- [[books:sb:9:17:16|SB 9.17.16]]

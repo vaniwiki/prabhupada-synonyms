@@ -1,5 +1,11 @@
-~~Title:yudhām~~
-{{description>both great military commanders.}}
+---json
+{
+    "name":"yudhām",
+    "h1":"yudhām",
+    "title":"yudhām",
+    "description":"both great military commanders."
+}
+---
 
 ==== yudhām patī  ====
   * both great military commanders --- [[books:sb:6:12:23|SB 6.12.23]]

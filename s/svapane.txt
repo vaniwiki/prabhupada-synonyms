@@ -1,5 +1,11 @@
-~~Title:svapane~~
-{{description>in a dream.}}
+---json
+{
+    "name":"svapane",
+    "h1":"svapane",
+    "title":"svapane",
+    "description":"in a dream."
+}
+---
 
 ==== svapane  ====
   * in a dream --- [[books:cc:madhya:4:126|Madhya 4.126]], [[books:cc:madhya:5:128|Madhya 5.128]]

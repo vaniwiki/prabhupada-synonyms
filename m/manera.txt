@@ -1,5 +1,11 @@
-~~Title:manera~~
-{{description>of mind; of the mind.}}
+---json
+{
+    "name":"manera",
+    "h1":"manera",
+    "title":"manera",
+    "description":"of mind; of the mind."
+}
+---
 
 ==== manera  ====
   * of mind --- [[books:cc:madhya:1:69|Madhya 1.69]]

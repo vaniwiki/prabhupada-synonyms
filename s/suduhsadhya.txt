@@ -1,5 +1,11 @@
-~~Title:suduḥsādhyā~~
-{{description>incurable.}}
+---json
+{
+    "name":"suduḥsādhyā",
+    "h1":"suduḥsādhyā",
+    "title":"suduḥsādhyā",
+    "description":"incurable."
+}
+---
 
 ==== suduḥsādhyā  ====
   * incurable --- [[books:cc:antya:1:143|Antya 1.143]]

@@ -1,5 +1,11 @@
-~~Title:naisargikī~~
-{{description>natural.}}
+---json
+{
+    "name":"naisargikī",
+    "h1":"naisargikī",
+    "title":"naisargikī",
+    "description":"natural."
+}
+---
 
 ==== naisargikī  ====
   * natural --- [[books:sb:7:4:36|SB 7.4.36]], [[books:sb:7:5:28|SB 7.5.28]]

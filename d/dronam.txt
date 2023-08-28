@@ -1,5 +1,11 @@
-~~Title:droṇam~~
-{{description>unto Droṇa.}}
+---json
+{
+    "name":"droṇam",
+    "h1":"droṇam",
+    "title":"droṇam",
+    "description":"unto Droṇa."
+}
+---
 
 ==== droṇam  ====
   * unto Droṇa --- [[books:bg:2:4|Bg. 2.4]]

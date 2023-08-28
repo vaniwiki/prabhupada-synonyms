@@ -1,5 +1,11 @@
-~~Title:anunaya~~
-{{description>in winning over.}}
+---json
+{
+    "name":"anunaya",
+    "h1":"anunaya",
+    "title":"anunaya",
+    "description":"in winning over."
+}
+---
 
 ==== anunaya  ====
   * in winning over --- [[books:sb:5:2:17|SB 5.2.17]]

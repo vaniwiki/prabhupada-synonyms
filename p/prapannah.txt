@@ -1,5 +1,11 @@
-~~Title:prapannah~~
-{{description>has obtained; surrendered.}}
+---json
+{
+    "name":"prapannah",
+    "h1":"prapannah",
+    "title":"prapannah",
+    "description":"has obtained; surrendered."
+}
+---
 
 ==== prapannaḥ  ====
   * has obtained --- [[books:cc:antya:5:112|Antya 5.112]]

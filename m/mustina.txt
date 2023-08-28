@@ -1,5 +1,11 @@
-~~Title:muṣṭinā~~
-{{description>with his fist.}}
+---json
+{
+    "name":"muṣṭinā",
+    "h1":"muṣṭinā",
+    "title":"muṣṭinā",
+    "description":"with his fist."
+}
+---
 
 ==== muṣṭinā  ====
   * with his fist --- [[books:sb:3:19:15|SB 3.19.15]]

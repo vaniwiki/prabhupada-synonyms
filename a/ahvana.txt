@@ -1,5 +1,11 @@
-~~Title:āhvāna~~
-{{description>invitation.}}
+---json
+{
+    "name":"āhvāna",
+    "h1":"āhvāna",
+    "title":"āhvāna",
+    "description":"invitation."
+}
+---
 
 ==== āhvāna  ====
   * invitation --- [[books:cc:adi:3:109|Ādi 3.109]], [[books:cc:adi:13:71|Ādi 13.71]]

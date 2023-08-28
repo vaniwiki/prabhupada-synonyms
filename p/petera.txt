@@ -1,5 +1,11 @@
-~~Title:peṭera~~
-{{description>the abdomen.}}
+---json
+{
+    "name":"peṭera",
+    "h1":"peṭera",
+    "title":"peṭera",
+    "description":"the abdomen."
+}
+---
 
 ==== peṭera  ====
   * the abdomen --- [[books:cc:antya:17:16|Antya 17.16]]

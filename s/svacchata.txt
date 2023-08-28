@@ -1,5 +1,11 @@
-~~Title:svacchatā~~
-{{description>transparency.}}
+---json
+{
+    "name":"svacchatā",
+    "h1":"svacchatā",
+    "title":"svacchatā",
+    "description":"transparency."
+}
+---
 
 ==== svacchatā  ====
   * transparency --- [[books:cc:adi:4:140|Ādi 4.140]]

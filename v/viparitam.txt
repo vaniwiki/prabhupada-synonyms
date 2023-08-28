@@ -1,5 +1,11 @@
-~~Title:viparitam~~
-{{description>just the opposite; the opposite.}}
+---json
+{
+    "name":"viparitam",
+    "h1":"viparitam",
+    "title":"viparitam",
+    "description":"just the opposite; the opposite."
+}
+---
 
 ==== viparītam  ====
   * just the opposite --- [[books:cc:adi:14:1|Ādi 14.1]]

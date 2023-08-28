@@ -1,5 +1,11 @@
-~~Title:gītakaiḥ~~
-{{description>with singing by the secondary demigods like the Gandharvas.}}
+---json
+{
+    "name":"gītakaiḥ",
+    "h1":"gītakaiḥ",
+    "title":"gītakaiḥ",
+    "description":"with singing by the secondary demigods like the Gandharvas."
+}
+---
 
 ==== upadeva-gītakaiḥ  ====
   * with singing by the secondary demigods like the Gandharvas --- [[books:sb:8:15:21|SB 8.15.21]]

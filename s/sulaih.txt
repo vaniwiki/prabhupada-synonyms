@@ -1,5 +1,11 @@
-~~Title:śūlaiḥ~~
-{{description>by spears; with their tridents.}}
+---json
+{
+    "name":"śūlaiḥ",
+    "h1":"śūlaiḥ",
+    "title":"śūlaiḥ",
+    "description":"by spears; with their tridents."
+}
+---
 
 ==== śūlaiḥ  ====
   * by spears --- [[books:sb:6:10:23|SB 6.10.23]]

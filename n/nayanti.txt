@@ -1,5 +1,11 @@
-~~Title:nayanti~~
-{{description>conduct.}}
+---json
+{
+    "name":"nayanti",
+    "h1":"nayanti",
+    "title":"nayanti",
+    "description":"conduct."
+}
+---
 
 ==== nayanti  ====
   * conduct --- [[books:sb:8:14:3|SB 8.14.3]]

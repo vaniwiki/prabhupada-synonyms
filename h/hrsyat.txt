@@ -1,5 +1,11 @@
-~~Title:hṛṣyat~~
-{{description>feeling jubilant; full in ecstasy.}}
+---json
+{
+    "name":"hṛṣyat",
+    "h1":"hṛṣyat",
+    "title":"hṛṣyat",
+    "description":"feeling jubilant; full in ecstasy."
+}
+---
 
 ==== hṛṣyat  ====
   * feeling jubilant --- [[books:cc:antya:16:140|Antya 16.140]]

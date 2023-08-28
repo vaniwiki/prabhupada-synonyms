@@ -1,5 +1,11 @@
-~~Title:kalpayām~~
-{{description>suitable.}}
+---json
+{
+    "name":"kalpayām",
+    "h1":"kalpayām",
+    "title":"kalpayām",
+    "description":"suitable."
+}
+---
 
 ==== kalpayām  ====
   * suitable --- [[books:sb:4:18:30|SB 4.18.30]]

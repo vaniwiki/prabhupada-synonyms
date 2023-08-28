@@ -1,5 +1,11 @@
-~~Title:vyomete~~
-{{description>in the transcendental world.}}
+---json
+{
+    "name":"vyomete",
+    "h1":"vyomete",
+    "title":"vyomete",
+    "description":"in the transcendental world."
+}
+---
 
 ==== para-vyomete  ====
   * in the transcendental world --- [[books:cc:adi:2:23|Ādi 2.23]]

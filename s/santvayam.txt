@@ -1,5 +1,11 @@
-~~Title:sāntvayām~~
-{{description>consoled; pacified.}}
+---json
+{
+    "name":"sāntvayām",
+    "h1":"sāntvayām",
+    "title":"sāntvayām",
+    "description":"consoled; pacified."
+}
+---
 
 ==== sāntvayām āsa  ====
   * consoled --- [[books:sb:1:9:48|SB 1.9.48]]

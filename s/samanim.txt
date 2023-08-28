@@ -1,5 +1,11 @@
-~~Title:śamanīm~~
-{{description>ending.}}
+---json
+{
+    "name":"śamanīm",
+    "h1":"śamanīm",
+    "title":"śamanīm",
+    "description":"ending."
+}
+---
 
 ==== śamanīm  ====
   * ending --- [[books:sb:3:24:40|SB 3.24.40]]

@@ -1,5 +1,11 @@
-~~Title:rājayaḥ~~
-{{description>the green trees and plants were also very pleasing to see.}}
+---json
+{
+    "name":"rājayaḥ",
+    "h1":"rājayaḥ",
+    "title":"rājayaḥ",
+    "description":"the green trees and plants were also very pleasing to see."
+}
+---
 
 ==== vana-rājayaḥ  ====
   * the green trees and plants were also very pleasing to see --- [[books:sb:10:3:1-5|SB 10.3.1-5]]

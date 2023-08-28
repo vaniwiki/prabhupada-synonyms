@@ -1,5 +1,11 @@
-~~Title:samakalpayan~~
-{{description>produced.}}
+---json
+{
+    "name":"samakalpayan",
+    "h1":"samakalpayan",
+    "title":"samakalpayan",
+    "description":"produced."
+}
+---
 
 ==== sma samakalpayan  ====
   * produced --- [[books:sb:3:20:11|SB 3.20.11]]

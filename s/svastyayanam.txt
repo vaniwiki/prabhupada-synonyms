@@ -1,5 +1,11 @@
-~~Title:svastyayanam~~
-{{description>auspicious; good fortune; pleasing.}}
+---json
+{
+    "name":"svastyayanam",
+    "h1":"svastyayanam",
+    "title":"svastyayanam",
+    "description":"auspicious; good fortune; pleasing."
+}
+---
 
 ==== svastyayanam  ====
   * auspicious --- [[books:sb:8:1:32|SB 8.1.32]]

@@ -1,5 +1,11 @@
-~~Title:aprajam~~
-{{description>because of having no son.}}
+---json
+{
+    "name":"aprajam",
+    "h1":"aprajam",
+    "title":"aprajam",
+    "description":"because of having no son."
+}
+---
 
 ==== aprajam  ====
   * because of having no son --- [[books:sb:6:14:25|SB 6.14.25]]

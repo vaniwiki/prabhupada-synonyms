@@ -1,5 +1,11 @@
-~~Title:vetti~~
-{{description>does know; know; knows; one who knows; understands.}}
+---json
+{
+    "name":"vetti",
+    "h1":"vetti",
+    "title":"vetti",
+    "description":"does know; know; knows; one who knows; understands."
+}
+---
 
 ==== vetti  ====
   * does know --- [[books:bg:7:3|Bg. 7.3]]

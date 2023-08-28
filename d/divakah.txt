@@ -1,5 +1,11 @@
-~~Title:divākaḥ~~
-{{description>from Bhānu a son named Divāka.}}
+---json
+{
+    "name":"divākaḥ",
+    "h1":"divākaḥ",
+    "title":"divākaḥ",
+    "description":"from Bhānu a son named Divāka."
+}
+---
 
 ==== divākaḥ  ====
   * from Bhānu a son named Divāka --- [[books:sb:9:12:10|SB 9.12.10]]

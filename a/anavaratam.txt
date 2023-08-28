@@ -1,5 +1,11 @@
-~~Title:anavaratam~~
-{{description>constantly.}}
+---json
+{
+    "name":"anavaratam",
+    "h1":"anavaratam",
+    "title":"anavaratam",
+    "description":"constantly."
+}
+---
 
 ==== anavaratam  ====
   * constantly --- [[books:sb:5:24:29|SB 5.24.29]]

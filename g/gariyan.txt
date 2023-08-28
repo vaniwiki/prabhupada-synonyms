@@ -1,5 +1,11 @@
-~~Title:garīyān~~
-{{description>glorious; more glorious; more great; so great; worshipable.}}
+---json
+{
+    "name":"garīyān",
+    "h1":"garīyān",
+    "title":"garīyān",
+    "description":"glorious; more glorious; more great; so great; worshipable."
+}
+---
 
 ==== garīyān  ====
   * glorious --- [[books:bg:11:43|Bg. 11.43]]

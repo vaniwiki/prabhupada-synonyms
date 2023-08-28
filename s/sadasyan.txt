@@ -1,5 +1,11 @@
-~~Title:sadasyān~~
-{{description>to the priests.}}
+---json
+{
+    "name":"sadasyān",
+    "h1":"sadasyān",
+    "title":"sadasyān",
+    "description":"to the priests."
+}
+---
 
 ==== sadasyān  ====
   * to the priests --- [[books:sb:4:13:29|SB 4.13.29]]

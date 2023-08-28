@@ -1,5 +1,11 @@
-~~Title:siddhau~~
-{{description>in success; two perfect persons.}}
+---json
+{
+    "name":"siddhau",
+    "h1":"siddhau",
+    "title":"siddhau",
+    "description":"in success; two perfect persons."
+}
+---
 
 ==== siddhau  ====
   * in success --- [[books:bg:4:22|Bg. 4.22]]

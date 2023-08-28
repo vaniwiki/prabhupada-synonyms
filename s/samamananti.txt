@@ -1,5 +1,11 @@
-~~Title:samāmananti~~
-{{description>the experienced scholars describe; they fully describe; they say.}}
+---json
+{
+    "name":"samāmananti",
+    "h1":"samāmananti",
+    "title":"samāmananti",
+    "description":"the experienced scholars describe; they fully describe; they say."
+}
+---
 
 ==== samāmananti  ====
   * the experienced scholars describe --- [[books:sb:5:22:7|SB 5.22.7]]

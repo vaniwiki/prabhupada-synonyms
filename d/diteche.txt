@@ -1,5 +1,11 @@
-~~Title:diteche~~
-{{description>they are throwing.}}
+---json
+{
+    "name":"diteche",
+    "h1":"diteche",
+    "title":"diteche",
+    "description":"they are throwing."
+}
+---
 
 ==== diteche ḍāriyā  ====
   * they are throwing --- [[books:cc:antya:9:41|Antya 9.41]]

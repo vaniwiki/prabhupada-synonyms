@@ -1,5 +1,11 @@
-~~Title:viśvataḥ~~
-{{description>all over.}}
+---json
+{
+    "name":"viśvataḥ",
+    "h1":"viśvataḥ",
+    "title":"viśvataḥ",
+    "description":"all over."
+}
+---
 
 ==== viśvataḥ  ====
   * all over --- [[books:sb:6:4:47|SB 6.4.47]]

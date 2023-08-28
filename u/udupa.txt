@@ -1,5 +1,11 @@
-~~Title:uḍupa~~
-{{description>the moon.}}
+---json
+{
+    "name":"uḍupa",
+    "h1":"uḍupa",
+    "title":"uḍupa",
+    "description":"the moon."
+}
+---
 
 ==== uḍupa  ====
   * the moon --- [[books:sb:1:11:27|SB 1.11.27]]

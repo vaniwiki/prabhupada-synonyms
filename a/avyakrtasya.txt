@@ -1,5 +1,11 @@
-~~Title:avyākṛtasya~~
-{{description>of one who is unchanged.}}
+---json
+{
+    "name":"avyākṛtasya",
+    "h1":"avyākṛtasya",
+    "title":"avyākṛtasya",
+    "description":"of one who is unchanged."
+}
+---
 
 ==== avyākṛtasya  ====
   * of one who is unchanged --- [[books:sb:3:11:38|SB 3.11.38]]

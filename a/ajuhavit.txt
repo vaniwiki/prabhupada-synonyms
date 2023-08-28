@@ -1,5 +1,11 @@
-~~Title:ajuhavīt~~
-{{description>fixed.}}
+---json
+{
+    "name":"ajuhavīt",
+    "h1":"ajuhavīt",
+    "title":"ajuhavīt",
+    "description":"fixed."
+}
+---
 
 ==== ajuhavīt  ====
   * fixed --- [[books:sb:1:15:42|SB 1.15.42]]

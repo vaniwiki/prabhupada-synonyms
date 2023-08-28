@@ -1,5 +1,11 @@
-~~Title:sitaḥ~~
-{{description>being bound by their affection.}}
+---json
+{
+    "name":"sitaḥ",
+    "h1":"sitaḥ",
+    "title":"sitaḥ",
+    "description":"being bound by their affection."
+}
+---
 
 ==== tat-sneha-sitaḥ  ====
   * being bound by their affection --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

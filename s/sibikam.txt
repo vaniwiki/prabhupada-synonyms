@@ -1,5 +1,11 @@
-~~Title:śibikām~~
-{{description>a palanquin; the palanquin.}}
+---json
+{
+    "name":"śibikām",
+    "h1":"śibikām",
+    "title":"śibikām",
+    "description":"a palanquin; the palanquin."
+}
+---
 
 ==== śibikām  ====
   * a palanquin --- [[books:sb:4:9:41|SB 4.9.41]]

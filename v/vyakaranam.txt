@@ -1,5 +1,11 @@
-~~Title:vyākaraṇam~~
-{{description>vocables.}}
+---json
+{
+    "name":"vyākaraṇam",
+    "h1":"vyākaraṇam",
+    "title":"vyākaraṇam",
+    "description":"vocables."
+}
+---
 
 ==== tat-vyākaraṇam  ====
   * vocables --- [[books:sb:2:1:36|SB 2.1.36]]

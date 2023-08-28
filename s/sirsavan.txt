@@ -1,5 +1,11 @@
-~~Title:śīrṣavān~~
-{{description>with heads also.}}
+---json
+{
+    "name":"śīrṣavān",
+    "h1":"śīrṣavān",
+    "title":"śīrṣavān",
+    "description":"with heads also."
+}
+---
 
 ==== śīrṣavān  ====
   * with heads also --- [[books:sb:2:5:35|SB 2.5.35]]

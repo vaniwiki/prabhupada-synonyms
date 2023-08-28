@@ -1,5 +1,11 @@
-~~Title:viśasanam~~
-{{description>Viśasana.}}
+---json
+{
+    "name":"viśasanam",
+    "h1":"viśasanam",
+    "title":"viśasanam",
+    "description":"Viśasana."
+}
+---
 
 ==== viśasanam  ====
   * Viśasana --- [[books:sb:5:26:7|SB 5.26.7]]

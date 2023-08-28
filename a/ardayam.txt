@@ -1,5 +1,11 @@
-~~Title:ardayām~~
-{{description>put into tribulation.}}
+---json
+{
+    "name":"ardayām",
+    "h1":"ardayām",
+    "title":"ardayām",
+    "description":"put into tribulation."
+}
+---
 
 ==== ardayām āsa  ====
   * put into tribulation --- [[books:sb:8:11:21|SB 8.11.21]]

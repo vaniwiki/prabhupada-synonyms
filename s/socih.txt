@@ -1,5 +1,11 @@
-~~Title:śociḥ~~
-{{description>beauty; illuminated.}}
+---json
+{
+    "name":"śociḥ",
+    "h1":"śociḥ",
+    "title":"śociḥ",
+    "description":"beauty; illuminated."
+}
+---
 
 ==== śociḥ  ====
   * beauty --- [[books:sb:5:2:13|SB 5.2.13]]

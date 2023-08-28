@@ -1,5 +1,11 @@
-~~Title:aśnanti~~
-{{description>enjoy; they eat.}}
+---json
+{
+    "name":"aśnanti",
+    "h1":"aśnanti",
+    "title":"aśnanti",
+    "description":"enjoy; they eat."
+}
+---
 
 ==== aśnanti  ====
   * enjoy --- [[books:bg:9:20|Bg. 9.20]]

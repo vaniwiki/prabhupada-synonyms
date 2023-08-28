@@ -1,5 +1,11 @@
-~~Title:pathaila~~
-{{description>dispatched; have sent; I sent; sent; sent ahead; sent back; sent them.}}
+---json
+{
+    "name":"pathaila",
+    "h1":"pathaila",
+    "title":"pathaila",
+    "description":"dispatched; have sent; I sent; sent; sent ahead; sent back; sent them."
+}
+---
 
 ==== pāṭhāila  ====
   * dispatched --- [[books:cc:madhya:12:6|Madhya 12.6]]

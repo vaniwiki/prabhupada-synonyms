@@ -1,5 +1,11 @@
-~~Title:oḍhra~~
-{{description>resident of Orissa.}}
+---json
+{
+    "name":"oḍhra",
+    "h1":"oḍhra",
+    "title":"oḍhra",
+    "description":"resident of Orissa."
+}
+---
 
 ==== oḍhra  ====
   * resident of Orissa --- [[books:cc:adi:10:148|Ādi 10.148]]

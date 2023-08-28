@@ -1,5 +1,11 @@
-~~Title:añjalinā~~
-{{description>by joining and cupping the two palms; folded palms; in his joined palms; with folded bands; with folded hands.}}
+---json
+{
+    "name":"añjalinā",
+    "h1":"añjalinā",
+    "title":"añjalinā",
+    "description":"by joining and cupping the two palms; folded palms; in his joined palms; with folded bands; with folded hands."
+}
+---
 
 ==== añjalinā  ====
   * by joining and cupping the two palms --- [[books:sb:6:18:49|SB 6.18.49]]

@@ -1,5 +1,11 @@
-~~Title:bhajiṣye~~
-{{description>I shall accept.}}
+---json
+{
+    "name":"bhajiṣye",
+    "h1":"bhajiṣye",
+    "title":"bhajiṣye",
+    "description":"I shall accept."
+}
+---
 
 ==== bhajiṣye  ====
   * I shall accept --- [[books:sb:3:22:19|SB 3.22.19]]

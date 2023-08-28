@@ -1,5 +1,11 @@
-~~Title:steyam~~
-{{description>obtained by stealing.}}
+---json
+{
+    "name":"steyam",
+    "h1":"steyam",
+    "title":"steyam",
+    "description":"obtained by stealing."
+}
+---
 
 ==== steyam  ====
   * obtained by stealing --- [[books:sb:10:8:29|SB 10.8.29]]

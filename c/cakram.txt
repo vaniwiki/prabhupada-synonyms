@@ -1,5 +1,11 @@
-~~Title:cakram~~
-{{description>a vicious circle; circle; cycle; disc; encirclement; His disc; soldiers or orders; sphere; the circle of influence; the disc; the disc of the Lord; the mark of Kṛṣṇa's disc; the Sudarśana wheel of the Lord; the wheel (the cycle of birth and death in this material world); wheel; wheel or orbit; whirlpool; whose discus.}}
+---json
+{
+    "name":"cakram",
+    "h1":"cakram",
+    "title":"cakram",
+    "description":"a vicious circle; circle; cycle; disc; encirclement; His disc; soldiers or orders; sphere; the circle of influence; the disc; the disc of the Lord; the mark of Kṛṣṇa's disc; the Sudarśana wheel of the Lord; the wheel (the cycle of birth and death in this material world); wheel; wheel or orbit; whirlpool; whose discus."
+}
+---
 
 ==== cakram  ====
   * a vicious circle --- [[books:sb:1:15:37|SB 1.15.37]]

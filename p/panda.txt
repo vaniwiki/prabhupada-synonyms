@@ -1,5 +1,11 @@
-~~Title:pāṇḍā~~
-{{description>the priests and attendants.}}
+---json
+{
+    "name":"pāṇḍā",
+    "h1":"pāṇḍā",
+    "title":"pāṇḍā",
+    "description":"the priests and attendants."
+}
+---
 
 ==== pāṇḍā-pāla  ====
   * the priests and attendants --- [[books:cc:madhya:9:347|Madhya 9.347]]

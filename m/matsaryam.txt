@@ -1,5 +1,11 @@
-~~Title:mātsaryam~~
-{{description>envy.}}
+---json
+{
+    "name":"mātsaryam",
+    "h1":"mātsaryam",
+    "title":"mātsaryam",
+    "description":"envy."
+}
+---
 
 ==== mātsaryam  ====
   * envy --- [[books:sb:3:29:8|SB 3.29.8]]

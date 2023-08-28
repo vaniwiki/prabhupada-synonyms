@@ -1,5 +1,11 @@
-~~Title:uparuddhah~~
-{{description>arrested; being checked.}}
+---json
+{
+    "name":"uparuddhah",
+    "h1":"uparuddhah",
+    "title":"uparuddhah",
+    "description":"arrested; being checked."
+}
+---
 
 ==== uparuddhaḥ  ====
   * arrested --- [[books:sb:4:28:24|SB 4.28.24]]

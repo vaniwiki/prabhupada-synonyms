@@ -1,5 +1,11 @@
-~~Title:prabandha~~
-{{description>subject matter; subject matters.}}
+---json
+{
+    "name":"prabandha",
+    "h1":"prabandha",
+    "title":"prabandha",
+    "description":"subject matter; subject matters."
+}
+---
 
 ==== prabandha  ====
   * subject matter --- [[books:cc:adi:17:328|Ādi 17.328]]

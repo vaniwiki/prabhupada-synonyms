@@ -1,5 +1,11 @@
-~~Title:svayambhuvam~~
-{{description>unto the supreme self-sufficient.}}
+---json
+{
+    "name":"svayambhuvam",
+    "h1":"svayambhuvam",
+    "title":"svayambhuvam",
+    "description":"unto the supreme self-sufficient."
+}
+---
 
 ==== svayambhuvam  ====
   * unto the supreme self-sufficient --- [[books:sb:8:3:3|SB 8.3.3]]

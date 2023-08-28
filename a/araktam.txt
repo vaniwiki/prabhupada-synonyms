@@ -1,5 +1,11 @@
-~~Title:āraktam~~
-{{description>appearing like the sunshine.}}
+---json
+{
+    "name":"āraktam",
+    "h1":"āraktam",
+    "title":"āraktam",
+    "description":"appearing like the sunshine."
+}
+---
 
 ==== arka-kara-āraktam  ====
   * appearing like the sunshine --- [[books:sb:10:12:20|SB 10.12.20]]

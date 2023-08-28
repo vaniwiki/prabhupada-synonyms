@@ -1,5 +1,11 @@
-~~Title:adhyāsate~~
-{{description>dwell.}}
+---json
+{
+    "name":"adhyāsate",
+    "h1":"adhyāsate",
+    "title":"adhyāsate",
+    "description":"dwell."
+}
+---
 
 ==== adhyāsate  ====
   * dwell --- [[books:sb:3:32:8|SB 3.32.8]]

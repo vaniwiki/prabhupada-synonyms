@@ -1,5 +1,11 @@
-~~Title:paścime~~
-{{description>on the west; on the western side; similarly, on the western side; to the western part of India.}}
+---json
+{
+    "name":"paścime",
+    "h1":"paścime",
+    "title":"paścime",
+    "description":"on the west; on the western side; similarly, on the western side; to the western part of India."
+}
+---
 
 ==== paścime  ====
   * on the west --- [[books:sb:1:7:2|SB 1.7.2]], [[books:sb:4:29:9|SB 4.29.9]]

@@ -1,5 +1,11 @@
-~~Title:sādhane~~
-{{description>in execution; in the regulative principles.}}
+---json
+{
+    "name":"sādhane",
+    "h1":"sādhane",
+    "title":"sādhane",
+    "description":"in execution; in the regulative principles."
+}
+---
 
 ==== sādhane  ====
   * in execution --- [[books:cc:adi:10:102|Ādi 10.102]]

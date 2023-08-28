@@ -1,5 +1,11 @@
-~~Title:vastra~~
-{{description>and garments; cloth; clothing; cloths; covering cloths; dress; garments; the cloth; the garments.}}
+---json
+{
+    "name":"vastra",
+    "h1":"vastra",
+    "title":"vastra",
+    "description":"and garments; cloth; clothing; cloths; covering cloths; dress; garments; the cloth; the garments."
+}
+---
 
 ==== vastra  ====
   * and garments --- [[books:cc:madhya:7:40|Madhya 7.40]]

@@ -1,5 +1,11 @@
-~~Title:utsunoṣi~~
-{{description>you agitate.}}
+---json
+{
+    "name":"utsunoṣi",
+    "h1":"utsunoṣi",
+    "title":"utsunoṣi",
+    "description":"you agitate."
+}
+---
 
 ==== utsunoṣi  ====
   * you agitate --- [[books:sb:3:20:35|SB 3.20.35]]

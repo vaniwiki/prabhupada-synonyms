@@ -1,5 +1,11 @@
-~~Title:varṇaye~~
-{{description>I regard; I shall describe; I shall explain.}}
+---json
+{
+    "name":"varṇaye",
+    "h1":"varṇaye",
+    "title":"varṇaye",
+    "description":"I regard; I shall describe; I shall explain."
+}
+---
 
 ==== varṇaye  ====
   * I regard --- [[books:sb:4:7:2|SB 4.7.2]]

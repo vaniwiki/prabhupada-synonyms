@@ -1,5 +1,11 @@
-~~Title:avasthite~~
-{{description>the situation being settled in this way.}}
+---json
+{
+    "name":"avasthite",
+    "h1":"avasthite",
+    "title":"avasthite",
+    "description":"the situation being settled in this way."
+}
+---
 
 ==== avasthite  ====
   * the situation being settled in this way --- [[books:sb:9:18:28|SB 9.18.28]]

@@ -1,5 +1,11 @@
-~~Title:kalāra~~
-{{description>of a banana tree; of a plantain tree; of the banana tree.}}
+---json
+{
+    "name":"kalāra",
+    "h1":"kalāra",
+    "title":"kalāra",
+    "description":"of a banana tree; of a plantain tree; of the banana tree."
+}
+---
 
 ==== kalāra  ====
   * of a banana tree --- [[books:cc:madhya:3:43|Madhya 3.43]]

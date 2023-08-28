@@ -1,5 +1,11 @@
-~~Title:balabhit~~
-{{description>(Lord Indra) being afraid of the strength; Indra.}}
+---json
+{
+    "name":"balabhit",
+    "h1":"balabhit",
+    "title":"balabhit",
+    "description":"(Lord Indra) being afraid of the strength; Indra."
+}
+---
 
 ==== balabhit  ====
   * (Lord Indra) being afraid of the strength --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

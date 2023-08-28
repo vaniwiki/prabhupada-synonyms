@@ -1,5 +1,11 @@
-~~Title:ardayantaḥ~~
-{{description>chastising, piercing.}}
+---json
+{
+    "name":"ardayantaḥ",
+    "h1":"ardayantaḥ",
+    "title":"ardayantaḥ",
+    "description":"chastising, piercing."
+}
+---
 
 ==== ardayantaḥ  ====
   * chastising, piercing --- [[books:sb:8:11:20|SB 8.11.20]]

@@ -1,5 +1,11 @@
-~~Title:saṅkhyātā~~
-{{description>the expounder.}}
+---json
+{
+    "name":"saṅkhyātā",
+    "h1":"saṅkhyātā",
+    "title":"saṅkhyātā",
+    "description":"the expounder."
+}
+---
 
 ==== saṅkhyātā  ====
   * the expounder --- [[books:sb:3:25:1|SB 3.25.1]]

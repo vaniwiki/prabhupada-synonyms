@@ -1,5 +1,11 @@
-~~Title:vilasaye~~
-{{description>enjoys pastimes.}}
+---json
+{
+    "name":"vilasaye",
+    "h1":"vilasaye",
+    "title":"vilasaye",
+    "description":"enjoys pastimes."
+}
+---
 
 ==== vilasaye  ====
   * enjoys pastimes --- [[books:cc:adi:5:23|Ādi 5.23]]

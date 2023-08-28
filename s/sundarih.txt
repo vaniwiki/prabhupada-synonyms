@@ -1,5 +1,11 @@
-~~Title:sundarīḥ~~
-{{description>the other gopīs; the other beautiful gopīs.}}
+---json
+{
+    "name":"sundarīḥ",
+    "h1":"sundarīḥ",
+    "title":"sundarīḥ",
+    "description":"the other gopīs; the other beautiful gopīs."
+}
+---
 
 ==== vraja-sundarīḥ  ====
   * the other //gopīs// --- [[books:cc:adi:4:219|Ādi 4.219]]

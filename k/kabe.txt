@@ -1,5 +1,11 @@
-~~Title:kabe~~
-{{description>when.}}
+---json
+{
+    "name":"kabe",
+    "h1":"kabe",
+    "title":"kabe",
+    "description":"when."
+}
+---
 
 ==== kabe  ====
   * when --- [[books:cc:madhya:4:39|Madhya 4.39]], [[books:cc:madhya:5:57|Madhya 5.57]], [[books:cc:madhya:11:60|Madhya 11.60]]

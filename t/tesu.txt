@@ -1,5 +1,11 @@
-~~Title:teṣu~~
-{{description>all living entities; among the different types of bodies (demigod, human, animal, bird, etc.); among them; in each of them; in sense gratification; in such sacrifices; in the sense objects; in them; in those; in those hellish planets; in those houses; in those same places; in those tracts of land; of them; out of them; those; to them; unto them (the visitors); unto them; with those; within them; within themselves.}}
+---json
+{
+    "name":"teṣu",
+    "h1":"teṣu",
+    "title":"teṣu",
+    "description":"all living entities; among the different types of bodies (demigod, human, animal, bird, etc.); among them; in each of them; in sense gratification; in such sacrifices; in the sense objects; in them; in those; in those hellish planets; in those houses; in those same places; in those tracts of land; of them; out of them; those; to them; unto them (the visitors); unto them; with those; within them; within themselves."
+}
+---
 
 ==== teṣu  ====
   * all living entities --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

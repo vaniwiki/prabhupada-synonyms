@@ -1,5 +1,11 @@
-~~Title:yateta~~
-{{description>endeavor for; must try; one should endeavor; should endeavor.}}
+---json
+{
+    "name":"yateta",
+    "h1":"yateta",
+    "title":"yateta",
+    "description":"endeavor for; must try; one should endeavor; should endeavor."
+}
+---
 
 ==== yateta  ====
   * endeavor for --- [[books:sb:2:2:3|SB 2.2.3]]

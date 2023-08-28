@@ -1,5 +1,11 @@
-~~Title:kadambera~~
-{{description>of kadamba flowers.}}
+---json
+{
+    "name":"kadambera",
+    "h1":"kadambera",
+    "title":"kadambera",
+    "description":"of kadamba flowers."
+}
+---
 
 ==== kadambera  ====
   * of //kadamba// flowers --- [[books:cc:madhya:15:128-129|Madhya 15.128-129]]

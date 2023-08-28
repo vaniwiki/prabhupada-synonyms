@@ -1,5 +1,11 @@
-~~Title:sukhāni~~
-{{description>all happiness; happiness; happiness thereof.}}
+---json
+{
+    "name":"sukhāni",
+    "h1":"sukhāni",
+    "title":"sukhāni",
+    "description":"all happiness; happiness; happiness thereof."
+}
+---
 
 ==== sukhāni  ====
   * all happiness --- [[books:bg:1:32-35|Bg. 1.32-35]]

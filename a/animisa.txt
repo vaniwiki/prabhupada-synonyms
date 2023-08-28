@@ -1,5 +1,11 @@
-~~Title:animiṣa~~
-{{description>invincible time; unblinking; without blinking.}}
+---json
+{
+    "name":"animiṣa",
+    "h1":"animiṣa",
+    "title":"animiṣa",
+    "description":"invincible time; unblinking; without blinking."
+}
+---
 
 ==== animiṣa  ====
   * invincible time --- [[books:sb:5:9:20|SB 5.9.20]]

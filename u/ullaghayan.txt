@@ -1,5 +1,11 @@
-~~Title:ullāghayan~~
-{{description>subduing such processes as karma, jñāna and yoga.}}
+---json
+{
+    "name":"ullāghayan",
+    "h1":"ullāghayan",
+    "title":"ullāghayan",
+    "description":"subduing such processes as karma, jñāna and yoga."
+}
+---
 
 ==== ullāghayan  ====
   * subduing such processes as //karma, jñāna// and //yoga// --- [[books:cc:madhya:19:54|Madhya 19.54]]

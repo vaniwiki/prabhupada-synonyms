@@ -1,5 +1,11 @@
-~~Title:uddiśya~~
-{{description>desiring; indicating; seeing; thinking; with reference to; with the purpose of.}}
+---json
+{
+    "name":"uddiśya",
+    "h1":"uddiśya",
+    "title":"uddiśya",
+    "description":"desiring; indicating; seeing; thinking; with reference to; with the purpose of."
+}
+---
 
 ==== uddiśya  ====
   * desiring --- [[books:bg:17:21|Bg. 17.21]]

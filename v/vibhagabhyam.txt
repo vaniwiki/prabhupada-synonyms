@@ -1,5 +1,11 @@
-~~Title:vibhāgābhyām~~
-{{description>thus being divided.}}
+---json
+{
+    "name":"vibhāgābhyām",
+    "h1":"vibhāgābhyām",
+    "title":"vibhāgābhyām",
+    "description":"thus being divided."
+}
+---
 
 ==== vibhāgābhyām  ====
   * thus being divided --- [[books:sb:3:12:53|SB 3.12.53]]

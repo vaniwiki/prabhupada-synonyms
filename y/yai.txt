@@ -1,5 +1,11 @@
-~~Title:yai~~
-{{description>go; going; he goes; I go; I shall go; let us go; may go; we shall go.}}
+---json
+{
+    "name":"yai",
+    "h1":"yai",
+    "title":"yai",
+    "description":"go; going; he goes; I go; I shall go; let us go; may go; we shall go."
+}
+---
 
 ==== yāi  ====
   * go --- [[books:cc:madhya:5:154|Madhya 5.154]], [[books:cc:madhya:7:17|Madhya 7.17]]

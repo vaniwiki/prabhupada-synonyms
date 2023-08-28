@@ -1,5 +1,11 @@
-~~Title:nispṛhaḥ~~
-{{description>devoid of.}}
+---json
+{
+    "name":"nispṛhaḥ",
+    "h1":"nispṛhaḥ",
+    "title":"nispṛhaḥ",
+    "description":"devoid of."
+}
+---
 
 ==== nispṛhaḥ  ====
   * devoid of --- [[books:bg:6:18|Bg. 6.18]]

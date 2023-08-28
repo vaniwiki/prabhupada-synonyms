@@ -1,5 +1,11 @@
-~~Title:yāthātathyataḥ~~
-{{description>just in pursuance of.}}
+---json
+{
+    "name":"yāthātathyataḥ",
+    "h1":"yāthātathyataḥ",
+    "title":"yāthātathyataḥ",
+    "description":"just in pursuance of."
+}
+---
 
 ==== yāthātathyataḥ  ====
   * just in pursuance of --- [[books:iso:8|Īśo 8]]

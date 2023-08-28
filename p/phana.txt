@@ -1,5 +1,11 @@
-~~Title:phana~~
-{{description>hoods.}}
+---json
+{
+    "name":"phana",
+    "h1":"phana",
+    "title":"phana",
+    "description":"hoods."
+}
+---
 
 ==== phaṇā  ====
   * hoods --- [[books:sb:3:8:6|SB 3.8.6]]

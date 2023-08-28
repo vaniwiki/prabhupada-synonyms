@@ -1,5 +1,11 @@
-~~Title:vākhāne~~
-{{description>in the description; praised.}}
+---json
+{
+    "name":"vākhāne",
+    "h1":"vākhāne",
+    "title":"vākhāne",
+    "description":"in the description; praised."
+}
+---
 
 ==== vākhāne  ====
   * in the description --- [[books:cc:adi:4:87|Ādi 4.87]]

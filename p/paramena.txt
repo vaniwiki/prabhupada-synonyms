@@ -1,5 +1,11 @@
-~~Title:parameṇa~~
-{{description>by supreme; by the supreme; supreme; with great; with great strength.}}
+---json
+{
+    "name":"parameṇa",
+    "h1":"parameṇa",
+    "title":"parameṇa",
+    "description":"by supreme; by the supreme; supreme; with great; with great strength."
+}
+---
 
 ==== parameṇa  ====
   * by supreme --- [[books:sb:6:9:33|SB 6.9.33]]

@@ -1,5 +1,11 @@
-~~Title:vikuṇṭhaḥ~~
-{{description>without anxiety.}}
+---json
+{
+    "name":"vikuṇṭhaḥ",
+    "h1":"vikuṇṭhaḥ",
+    "title":"vikuṇṭhaḥ",
+    "description":"without anxiety."
+}
+---
 
 ==== vikuṇṭhaḥ  ====
   * without anxiety --- [[books:sb:3:16:6|SB 3.16.6]]

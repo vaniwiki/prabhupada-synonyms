@@ -1,5 +1,11 @@
-~~Title:pratīti~~
-{{description>assurance; belief; confidence; the conception; understanding.}}
+---json
+{
+    "name":"pratīti",
+    "h1":"pratīti",
+    "title":"pratīti",
+    "description":"assurance; belief; confidence; the conception; understanding."
+}
+---
 
 ==== pratīti  ====
   * assurance --- [[books:cc:madhya:5:105|Madhya 5.105]]

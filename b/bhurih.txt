@@ -1,5 +1,11 @@
-~~Title:bhūriḥ~~
-{{description>Bhūri; much.}}
+---json
+{
+    "name":"bhūriḥ",
+    "h1":"bhūriḥ",
+    "title":"bhūriḥ",
+    "description":"Bhūri; much."
+}
+---
 
 ==== bhūriḥ  ====
   * Bhūri --- [[books:sb:9:22:18-19|SB 9.22.18-19]]

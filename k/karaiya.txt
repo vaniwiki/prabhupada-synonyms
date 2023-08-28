@@ -1,5 +1,11 @@
-~~Title:karāiyā~~
-{{description>causing to do; giving.}}
+---json
+{
+    "name":"karāiyā",
+    "h1":"karāiyā",
+    "title":"karāiyā",
+    "description":"causing to do; giving."
+}
+---
 
 ==== karāiyā  ====
   * causing to do --- [[books:cc:madhya:4:91|Madhya 4.91]]

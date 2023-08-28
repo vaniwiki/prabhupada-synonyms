@@ -1,5 +1,11 @@
-~~Title:āniyāche~~
-{{description>brought; has brought.}}
+---json
+{
+    "name":"āniyāche",
+    "h1":"āniyāche",
+    "title":"āniyāche",
+    "description":"brought; has brought."
+}
+---
 
 ==== āniyāche  ====
   * brought --- [[books:cc:antya:12:63|Antya 12.63]]

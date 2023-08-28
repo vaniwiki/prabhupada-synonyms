@@ -1,5 +1,11 @@
-~~Title:sapatnam~~
-{{description>enemy.}}
+---json
+{
+    "name":"sapatnam",
+    "h1":"sapatnam",
+    "title":"sapatnam",
+    "description":"enemy."
+}
+---
 
 ==== sapatnam  ====
   * enemy --- [[books:sb:3:19:2|SB 3.19.2]]

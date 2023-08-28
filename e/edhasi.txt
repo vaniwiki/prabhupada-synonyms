@@ -1,5 +1,11 @@
-~~Title:edhasi~~
-{{description>fuel; in wood.}}
+---json
+{
+    "name":"edhasi",
+    "h1":"edhasi",
+    "title":"edhasi",
+    "description":"fuel; in wood."
+}
+---
 
 ==== edhasi  ====
   * fuel --- [[books:sb:3:15:10|SB 3.15.10]]

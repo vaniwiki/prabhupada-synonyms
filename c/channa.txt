@@ -1,5 +1,11 @@
-~~Title:channa~~
-{{description>covered; deranged.}}
+---json
+{
+    "name":"channa",
+    "h1":"channa",
+    "title":"channa",
+    "description":"covered; deranged."
+}
+---
 
 ==== channa  ====
   * covered --- [[books:sb:3:20:29|SB 3.20.29]], [[books:sb:8:3:16|SB 8.3.16]]

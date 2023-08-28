@@ -1,5 +1,11 @@
-~~Title:sanga~~
-{{description>associate; association; attachments; by association; group; in the association; shelter; the association; too much association with women; union.}}
+---json
+{
+    "name":"sanga",
+    "h1":"sanga",
+    "title":"sanga",
+    "description":"associate; association; attachments; by association; group; in the association; shelter; the association; too much association with women; union."
+}
+---
 
 ==== saṅga  ====
   * associate --- [[books:cc:madhya:4:179|Madhya 4.179]]

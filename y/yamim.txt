@@ -1,5 +1,11 @@
-~~Title:yamīm~~
-{{description>to his sister named Yamī.}}
+---json
+{
+    "name":"yamīm",
+    "h1":"yamīm",
+    "title":"yamīm",
+    "description":"to his sister named Yamī."
+}
+---
 
 ==== yamīm  ====
   * to his sister named Yamī --- [[books:sb:6:6:40|SB 6.6.40]]

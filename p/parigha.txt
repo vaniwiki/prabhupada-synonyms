@@ -1,5 +1,11 @@
-~~Title:parigha~~
-{{description>an iron bludgeon; iron bludgeons; with iron bludgeons.}}
+---json
+{
+    "name":"parigha",
+    "h1":"parigha",
+    "title":"parigha",
+    "description":"an iron bludgeon; iron bludgeons; with iron bludgeons."
+}
+---
 
 ==== parigha  ====
   * an iron bludgeon --- [[books:sb:4:6:1-2|SB 4.6.1-2]]

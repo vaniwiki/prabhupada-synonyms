@@ -1,5 +1,11 @@
-~~Title:aśmakāt~~
-{{description>from that son named Aśmaka.}}
+---json
+{
+    "name":"aśmakāt",
+    "h1":"aśmakāt",
+    "title":"aśmakāt",
+    "description":"from that son named Aśmaka."
+}
+---
 
 ==== aśmakāt  ====
   * from that son named Aśmaka --- [[books:sb:9:9:40|SB 9.9.40]]

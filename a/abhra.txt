@@ -1,5 +1,11 @@
-~~Title:abhra~~
-{{description>by clouds; clouds; of clouds.}}
+---json
+{
+    "name":"abhra",
+    "h1":"abhra",
+    "title":"abhra",
+    "description":"by clouds; clouds; of clouds."
+}
+---
 
 ==== abhra  ====
   * by clouds --- [[books:sb:7:3:15-16|SB 7.3.15-16]]

@@ -1,5 +1,11 @@
-~~Title:makaranda~~
-{{description>fragrance; honey; of the honey; the honey; with the aroma.}}
+---json
+{
+    "name":"makaranda",
+    "h1":"makaranda",
+    "title":"makaranda",
+    "description":"fragrance; honey; of the honey; the honey; with the aroma."
+}
+---
 
 ==== makaranda  ====
   * fragrance --- [[books:sb:3:15:43|SB 3.15.43]], [[books:cc:madhya:24:115|Madhya 24.115]]

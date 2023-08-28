@@ -1,5 +1,11 @@
-~~Title:vadanena~~
-{{description>with faces.}}
+---json
+{
+    "name":"vadanena",
+    "h1":"vadanena",
+    "title":"vadanena",
+    "description":"with faces."
+}
+---
 
 ==== vadanena  ====
   * with faces --- [[books:sb:4:1:25|SB 4.1.25]]

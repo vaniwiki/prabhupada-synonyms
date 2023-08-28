@@ -1,5 +1,11 @@
-~~Title:avyutpannaḥ~~
-{{description>having no experience.}}
+---json
+{
+    "name":"avyutpannaḥ",
+    "h1":"avyutpannaḥ",
+    "title":"avyutpannaḥ",
+    "description":"having no experience."
+}
+---
 
 ==== avyutpannaḥ  ====
   * having no experience --- [[books:sb:1:6:8|SB 1.6.8]]

@@ -1,5 +1,11 @@
-~~Title:udvahau~~
-{{description>who are the best of the Yadu and Kuru dynasties respectively.}}
+---json
+{
+    "name":"udvahau",
+    "h1":"udvahau",
+    "title":"udvahau",
+    "description":"who are the best of the Yadu and Kuru dynasties respectively."
+}
+---
 
 ==== yadu-kuru-udvahau  ====
   * who are the best of the Yadu and Kuru dynasties respectively --- [[books:sb:4:1:59|SB 4.1.59]]

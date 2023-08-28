@@ -1,5 +1,11 @@
-~~Title:khaṇḍibe~~
-{{description>it will destroy; will be diminished; will diminish; will remove; will vanquish.}}
+---json
+{
+    "name":"khaṇḍibe",
+    "h1":"khaṇḍibe",
+    "title":"khaṇḍibe",
+    "description":"it will destroy; will be diminished; will diminish; will remove; will vanquish."
+}
+---
 
 ==== khaṇḍibe  ====
   * it will destroy --- [[books:cc:antya:19:110|Antya 19.110]]

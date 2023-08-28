@@ -1,5 +1,11 @@
-~~Title:vinayī~~
-{{description>humble.}}
+---json
+{
+    "name":"vinayī",
+    "h1":"vinayī",
+    "title":"vinayī",
+    "description":"humble."
+}
+---
 
 ==== vinayī  ====
   * humble --- [[books:cc:madhya:23:74|Madhya 23.74]]

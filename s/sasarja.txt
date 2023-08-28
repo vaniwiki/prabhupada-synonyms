@@ -1,5 +1,11 @@
-~~Title:sasarja~~
-{{description>created; evolved; generated; propagated; released.}}
+---json
+{
+    "name":"sasarja",
+    "h1":"sasarja",
+    "title":"sasarja",
+    "description":"created; evolved; generated; propagated; released."
+}
+---
 
 ==== sasarja  ====
   * created --- [[books:sb:1:2:30|SB 1.2.30]], [[books:sb:2:2:1|SB 2.2.1]], [[books:sb:2:9:39|SB 2.9.39]], [[books:sb:3:5:5|SB 3.5.5]], [[books:sb:3:5:34|SB 3.5.34]], [[books:sb:3:10:1|SB 3.10.1]], [[books:sb:3:12:2|SB 3.12.2]], [[books:sb:3:12:15|SB 3.12.15]], [[books:sb:3:20:18|SB 3.20.18]], [[books:sb:3:20:38|SB 3.20.38]], [[books:sb:3:20:49|SB 3.20.49]], [[books:sb:3:20:52|SB 3.20.52]], [[books:sb:4:1:48|SB 4.1.48]], [[books:sb:4:30:49|SB 4.30.49]], [[books:sb:6:4:1-2|SB 6.4.1-2]], [[books:sb:6:4:8|SB 6.4.8]], [[books:sb:6:4:18|SB 6.4.18]], [[books:sb:6:9:25|SB 6.9.25]]

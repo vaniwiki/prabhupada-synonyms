@@ -1,5 +1,11 @@
-~~Title:pītāmbara~~
-{{description>of the name Pītāmbara.}}
+---json
+{
+    "name":"pītāmbara",
+    "h1":"pītāmbara",
+    "title":"pītāmbara",
+    "description":"of the name Pītāmbara."
+}
+---
 
 ==== pītāmbara  ====
   * of the name Pītāmbara --- [[books:cc:adi:11:52|Ādi 11.52]]

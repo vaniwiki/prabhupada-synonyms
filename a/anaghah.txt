@@ -1,5 +1,11 @@
-~~Title:anaghāḥ~~
-{{description>O sinless inhabitants of Vaikuṇṭha; O sinless ones.}}
+---json
+{
+    "name":"anaghāḥ",
+    "h1":"anaghāḥ",
+    "title":"anaghāḥ",
+    "description":"O sinless inhabitants of Vaikuṇṭha; O sinless ones."
+}
+---
 
 ==== anaghāḥ  ====
   * O sinless inhabitants of Vaikuṇṭha --- [[books:sb:6:1:44|SB 6.1.44]]

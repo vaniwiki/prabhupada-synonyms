@@ -1,5 +1,11 @@
-~~Title:avasesitah~~
-{{description>at last; remained; remained alive.}}
+---json
+{
+    "name":"avasesitah",
+    "h1":"avasesitah",
+    "title":"avasesitah",
+    "description":"at last; remained; remained alive."
+}
+---
 
 ==== avaśeṣitaḥ  ====
   * at last --- [[books:sb:7:13:1|SB 7.13.1]]

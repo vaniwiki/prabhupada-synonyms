@@ -1,5 +1,11 @@
-~~Title:raghunāthere~~
-{{description>to Raghunātha dāsa.}}
+---json
+{
+    "name":"raghunāthere",
+    "h1":"raghunāthere",
+    "title":"raghunāthere",
+    "description":"to Raghunātha dāsa."
+}
+---
 
 ==== raghunāthere  ====
   * to Raghunātha dāsa --- [[books:cc:antya:6:233|Antya 6.233]]

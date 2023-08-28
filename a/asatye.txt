@@ -1,5 +1,11 @@
-~~Title:asatye~~
-{{description>untruth.}}
+---json
+{
+    "name":"asatye",
+    "h1":"asatye",
+    "title":"asatye",
+    "description":"untruth."
+}
+---
 
 ==== asatye  ====
   * untruth --- [[books:cc:madhya:18:98|Madhya 18.98]]

@@ -1,5 +1,11 @@
-~~Title:parituṣyate~~
-{{description>does pacify.}}
+---json
+{
+    "name":"parituṣyate",
+    "h1":"parituṣyate",
+    "title":"parituṣyate",
+    "description":"does pacify."
+}
+---
 
 ==== parituṣyate  ====
   * does pacify --- [[books:sb:1:5:5|SB 1.5.5]]

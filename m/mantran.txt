@@ -1,5 +1,11 @@
-~~Title:mantrān~~
-{{description>instructions.}}
+---json
+{
+    "name":"mantrān",
+    "h1":"mantrān",
+    "title":"mantrān",
+    "description":"instructions."
+}
+---
 
 ==== mantrān  ====
   * instructions --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

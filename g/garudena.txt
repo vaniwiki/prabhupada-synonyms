@@ -1,5 +1,11 @@
-~~Title:garuḍena~~
-{{description>by Garuḍa.}}
+---json
+{
+    "name":"garuḍena",
+    "h1":"garuḍena",
+    "title":"garuḍena",
+    "description":"by Garuḍa."
+}
+---
 
 ==== garuḍena  ====
   * by Garuḍa --- [[books:sb:8:3:31|SB 8.3.31]]

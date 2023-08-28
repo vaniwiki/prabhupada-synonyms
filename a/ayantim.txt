@@ -1,5 +1,11 @@
-~~Title:āyāntīm~~
-{{description>coming forward.}}
+---json
+{
+    "name":"āyāntīm",
+    "h1":"āyāntīm",
+    "title":"āyāntīm",
+    "description":"coming forward."
+}
+---
 
 ==== āyāntīm  ====
   * coming forward --- [[books:sb:4:25:20|SB 4.25.20]], [[books:sb:8:9:1|SB 8.9.1]]

@@ -1,5 +1,11 @@
-~~Title:ūrjaketuḥ~~
-{{description>Ūrjaketu.}}
+---json
+{
+    "name":"ūrjaketuḥ",
+    "h1":"ūrjaketuḥ",
+    "title":"ūrjaketuḥ",
+    "description":"Ūrjaketu."
+}
+---
 
 ==== ūrjaketuḥ  ====
   * Ūrjaketu --- [[books:sb:9:13:22|SB 9.13.22]]

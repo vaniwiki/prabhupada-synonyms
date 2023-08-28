@@ -1,5 +1,11 @@
-~~Title:māgaya~~
-{{description>ask for.}}
+---json
+{
+    "name":"māgaya",
+    "h1":"māgaya",
+    "title":"māgaya",
+    "description":"ask for."
+}
+---
 
 ==== māgaya  ====
   * ask for --- [[books:cc:adi:17:28|Ādi 17.28]]

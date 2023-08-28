@@ -1,5 +1,11 @@
-~~Title:krīṇīhi~~
-{{description>please come and purchase.}}
+---json
+{
+    "name":"krīṇīhi",
+    "h1":"krīṇīhi",
+    "title":"krīṇīhi",
+    "description":"please come and purchase."
+}
+---
 
 ==== krīṇīhi  ====
   * please come and purchase --- [[books:sb:10:11:10|SB 10.11.10]]

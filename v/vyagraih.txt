@@ -1,5 +1,11 @@
-~~Title:vyagraiḥ~~
-{{description>filled with.}}
+---json
+{
+    "name":"vyagraiḥ",
+    "h1":"vyagraiḥ",
+    "title":"vyagraiḥ",
+    "description":"filled with."
+}
+---
 
 ==== vyagraiḥ  ====
   * filled with --- [[books:sb:4:7:20|SB 4.7.20]]

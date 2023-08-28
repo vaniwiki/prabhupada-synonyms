@@ -1,5 +1,11 @@
-~~Title:trāṇam~~
-{{description>release.}}
+---json
+{
+    "name":"trāṇam",
+    "h1":"trāṇam",
+    "title":"trāṇam",
+    "description":"release."
+}
+---
 
 ==== trāṇam  ====
   * release --- [[books:sb:4:17:17|SB 4.17.17]]

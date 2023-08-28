@@ -1,5 +1,11 @@
-~~Title:bādarāyaṇe~~
-{{description>O son of Bādarāyaṇa (Vyāsadeva).}}
+---json
+{
+    "name":"bādarāyaṇe",
+    "h1":"bādarāyaṇe",
+    "title":"bādarāyaṇe",
+    "description":"O son of Bādarāyaṇa (Vyāsadeva)."
+}
+---
 
 ==== bādarāyaṇe  ====
   * O son of Bādarāyaṇa (Vyāsadeva) --- [[books:sb:8:1:31|SB 8.1.31]]

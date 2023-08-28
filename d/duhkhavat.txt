@@ -1,5 +1,11 @@
-~~Title:duḥkhavat~~
-{{description>exactly like unhappiness or distress; like the miseries.}}
+---json
+{
+    "name":"duḥkhavat",
+    "h1":"duḥkhavat",
+    "title":"duḥkhavat",
+    "description":"exactly like unhappiness or distress; like the miseries."
+}
+---
 
 ==== duḥkhavat  ====
   * exactly like unhappiness or distress --- [[books:cc:madhya:24:169|Madhya 24.169]]

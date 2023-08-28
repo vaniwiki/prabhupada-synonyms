@@ -1,5 +1,11 @@
-~~Title:bhojaneṣu~~
-{{description>or while eating together; while eating together.}}
+---json
+{
+    "name":"bhojaneṣu",
+    "h1":"bhojaneṣu",
+    "title":"bhojaneṣu",
+    "description":"or while eating together; while eating together."
+}
+---
 
 ==== bhojaneṣu  ====
   * or while eating together --- [[books:bg:11:41-42|Bg. 11.41-42]]

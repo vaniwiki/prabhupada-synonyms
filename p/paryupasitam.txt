@@ -1,5 +1,11 @@
-~~Title:paryupāsitam~~
-{{description>being attended on all sides; worshiped.}}
+---json
+{
+    "name":"paryupāsitam",
+    "h1":"paryupāsitam",
+    "title":"paryupāsitam",
+    "description":"being attended on all sides; worshiped."
+}
+---
 
 ==== paryupāsitam  ====
   * being attended on all sides --- [[books:sb:6:9:29-30|SB 6.9.29-30]]

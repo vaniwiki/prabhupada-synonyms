@@ -1,5 +1,11 @@
-~~Title:vālukā~~
-{{description>sand.}}
+---json
+{
+    "name":"vālukā",
+    "h1":"vālukā",
+    "title":"vālukā",
+    "description":"sand."
+}
+---
 
 ==== vālukā  ====
   * sand --- [[books:cc:antya:18:73|Antya 18.73]]

@@ -1,5 +1,11 @@
-~~Title:arājake~~
-{{description>being without a king; when there was an irregular government.}}
+---json
+{
+    "name":"arājake",
+    "h1":"arājake",
+    "title":"arājake",
+    "description":"being without a king; when there was an irregular government."
+}
+---
 
 ==== arājake  ====
   * being without a king --- [[books:sb:4:13:19-20|SB 4.13.19-20]]

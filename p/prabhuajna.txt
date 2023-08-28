@@ -1,5 +1,11 @@
-~~Title:prabhuājñā~~
-{{description>the Lord's permission.}}
+---json
+{
+    "name":"prabhuājñā",
+    "h1":"prabhuājñā",
+    "title":"prabhuājñā",
+    "description":"the Lord's permission."
+}
+---
 
 ==== prabhuājñā  ====
   * the Lord's permission --- [[books:cc:madhya:11:40|Madhya 11.40]]

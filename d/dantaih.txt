@@ -1,5 +1,11 @@
-~~Title:dantaiḥ~~
-{{description>by the trunk; with its tusks.}}
+---json
+{
+    "name":"dantaiḥ",
+    "h1":"dantaiḥ",
+    "title":"dantaiḥ",
+    "description":"by the trunk; with its tusks."
+}
+---
 
 ==== dantaiḥ  ====
   * by the trunk --- [[books:sb:2:7:25|SB 2.7.25]]

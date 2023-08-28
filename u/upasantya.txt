@@ -1,5 +1,11 @@
-~~Title:upaśāntyā~~
-{{description>by controlling.}}
+---json
+{
+    "name":"upaśāntyā",
+    "h1":"upaśāntyā",
+    "title":"upaśāntyā",
+    "description":"by controlling."
+}
+---
 
 ==== upaśāntyā  ====
   * by controlling --- [[books:sb:4:31:19|SB 4.31.19]]

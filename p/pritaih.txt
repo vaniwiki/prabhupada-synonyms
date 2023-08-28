@@ -1,5 +1,11 @@
-~~Title:prītaiḥ~~
-{{description>who are pleased.}}
+---json
+{
+    "name":"prītaiḥ",
+    "h1":"prītaiḥ",
+    "title":"prītaiḥ",
+    "description":"who are pleased."
+}
+---
 
 ==== prītaiḥ  ====
   * who are pleased --- [[books:sb:6:19:23|SB 6.19.23]]

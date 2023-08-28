@@ -1,5 +1,11 @@
-~~Title:pāñcajanyaḥ~~
-{{description>Pāñcajanya; which is known as Pāñcajanya.}}
+---json
+{
+    "name":"pāñcajanyaḥ",
+    "h1":"pāñcajanyaḥ",
+    "title":"pāñcajanyaḥ",
+    "description":"Pāñcajanya; which is known as Pāñcajanya."
+}
+---
 
 ==== pāñcajanyaḥ  ====
   * Pāñcajanya --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

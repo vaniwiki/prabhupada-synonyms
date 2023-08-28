@@ -1,5 +1,11 @@
-~~Title:punantaḥ~~
-{{description>sanctifying.}}
+---json
+{
+    "name":"punantaḥ",
+    "h1":"punantaḥ",
+    "title":"punantaḥ",
+    "description":"sanctifying."
+}
+---
 
 ==== punantaḥ  ====
   * sanctifying --- [[books:sb:7:14:42|SB 7.14.42]]

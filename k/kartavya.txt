@@ -1,5 +1,11 @@
-~~Title:kartavya~~
-{{description>duty; duty which is permissible; necessary; the duty; to be done.}}
+---json
+{
+    "name":"kartavya",
+    "h1":"kartavya",
+    "title":"kartavya",
+    "description":"duty; duty which is permissible; necessary; the duty; to be done."
+}
+---
 
 ==== kartavya  ====
   * duty --- [[books:cc:madhya:6:122|Madhya 6.122]], [[books:cc:antya:4:221|Antya 4.221]]

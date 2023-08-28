@@ -1,5 +1,11 @@
-~~Title:nada~~
-{{description>of the great rivers.}}
+---json
+{
+    "name":"nada",
+    "h1":"nada",
+    "title":"nada",
+    "description":"of the great rivers."
+}
+---
 
 ==== nada  ====
   * of the great rivers --- [[books:sb:2:6:10|SB 2.6.10]]

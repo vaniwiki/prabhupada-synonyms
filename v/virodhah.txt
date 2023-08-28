@@ -1,5 +1,11 @@
-~~Title:virodhaḥ~~
-{{description>contradiction; quarrel.}}
+---json
+{
+    "name":"virodhaḥ",
+    "h1":"virodhaḥ",
+    "title":"virodhaḥ",
+    "description":"contradiction; quarrel."
+}
+---
 
 ==== virodhaḥ  ====
   * contradiction --- [[books:sb:6:9:36|SB 6.9.36]]

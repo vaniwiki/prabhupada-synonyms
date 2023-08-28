@@ -1,5 +1,11 @@
-~~Title:ābhṛta~~
-{{description>having collected.}}
+---json
+{
+    "name":"ābhṛta",
+    "h1":"ābhṛta",
+    "title":"ābhṛta",
+    "description":"having collected."
+}
+---
 
 ==== ābhṛta  ====
   * having collected --- [[books:sb:5:2:2|SB 5.2.2]]

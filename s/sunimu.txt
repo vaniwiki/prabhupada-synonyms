@@ -1,5 +1,11 @@
-~~Title:śunimu~~
-{{description>I shall not hear.}}
+---json
+{
+    "name":"śunimu",
+    "h1":"śunimu",
+    "title":"śunimu",
+    "description":"I shall not hear."
+}
+---
 
 ==== nā śunimu  ====
   * I shall not hear --- [[books:cc:antya:9:93|Antya 9.93]]

@@ -1,5 +1,11 @@
-~~Title:lokam~~
-{{description>abode; all the planetary systems; all the planets; all the planets of the universe; all the world; earth; his true nature; human form; material worlds; on the planet; other persons; persons; planet; planets; residential place; the entire world; the material world; the people in general; the place; the planet; the planets; the spiritual world; the three worlds; the universe; the whole world; the world; this body; this world; to another planet; to His abode; to the planet; universe; world.}}
+---json
+{
+    "name":"lokam",
+    "h1":"lokam",
+    "title":"lokam",
+    "description":"abode; all the planetary systems; all the planets; all the planets of the universe; all the world; earth; his true nature; human form; material worlds; on the planet; other persons; persons; planet; planets; residential place; the entire world; the material world; the people in general; the place; the planet; the planets; the spiritual world; the three worlds; the universe; the whole world; the world; this body; this world; to another planet; to His abode; to the planet; universe; world."
+}
+---
 
 ==== lokam  ====
   * abode --- [[books:sb:4:29:48|SB 4.29.48]]

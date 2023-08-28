@@ -1,5 +1,11 @@
-~~Title:uccapadaḥ~~
-{{description>of Uttānapāda.}}
+---json
+{
+    "name":"uccapadaḥ",
+    "h1":"uccapadaḥ",
+    "title":"uccapadaḥ",
+    "description":"of Uttānapāda."
+}
+---
 
 ==== uccapadaḥ  ====
   * of Uttānapāda --- [[books:sb:3:22:18|SB 3.22.18]]

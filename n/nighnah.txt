@@ -1,5 +1,11 @@
-~~Title:nighnaḥ~~
-{{description>Nighna.}}
+---json
+{
+    "name":"nighnaḥ",
+    "h1":"nighnaḥ",
+    "title":"nighnaḥ",
+    "description":"Nighna."
+}
+---
 
 ==== nighnaḥ  ====
   * Nighna --- [[books:sb:9:24:12|SB 9.24.12]]

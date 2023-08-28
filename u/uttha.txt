@@ -1,5 +1,11 @@
-~~Title:uttha~~
-{{description>eruption.}}
+---json
+{
+    "name":"uttha",
+    "h1":"uttha",
+    "title":"uttha",
+    "description":"eruption."
+}
+---
 
 ==== uttha  ====
   * eruption --- [[books:sb:3:4:14|SB 3.4.14]]

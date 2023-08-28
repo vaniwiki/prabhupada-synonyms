@@ -1,5 +1,11 @@
-~~Title:amūrtaḥ~~
-{{description>without having a material form.}}
+---json
+{
+    "name":"amūrtaḥ",
+    "h1":"amūrtaḥ",
+    "title":"amūrtaḥ",
+    "description":"without having a material form."
+}
+---
 
 ==== amūrtaḥ  ====
   * without having a material form --- [[books:cc:madhya:19:120|Madhya 19.120]]

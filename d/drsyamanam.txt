@@ -1,5 +1,11 @@
-~~Title:dṛśyamānam~~
-{{description>being clearly seen; sometimes visible.}}
+---json
+{
+    "name":"dṛśyamānam",
+    "h1":"dṛśyamānam",
+    "title":"dṛśyamānam",
+    "description":"being clearly seen; sometimes visible."
+}
+---
 
 ==== dṛśyamānam  ====
   * being clearly seen --- [[books:sb:5:12:4|SB 5.12.4]]

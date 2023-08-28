@@ -1,5 +1,11 @@
-~~Title:amalam~~
-{{description>pure; spotless; spotless, free from material qualities; transcendental; very clean; without any spot of material contamination; without contamination; without material contamination.}}
+---json
+{
+    "name":"amalam",
+    "h1":"amalam",
+    "title":"amalam",
+    "description":"pure; spotless; spotless, free from material qualities; transcendental; very clean; without any spot of material contamination; without contamination; without material contamination."
+}
+---
 
 ==== amalam  ====
   * pure --- [[books:sb:3:28:28|SB 3.28.28]]

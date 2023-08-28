@@ -1,5 +1,11 @@
-~~Title:mārgaḥ~~
-{{description>path.}}
+---json
+{
+    "name":"mārgaḥ",
+    "h1":"mārgaḥ",
+    "title":"mārgaḥ",
+    "description":"path."
+}
+---
 
 ==== mārgaḥ  ====
   * path --- [[books:sb:2:7:26|SB 2.7.26]], [[books:sb:3:4:20|SB 3.4.20]], [[books:sb:4:11:10|SB 4.11.10]]

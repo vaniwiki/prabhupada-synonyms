@@ -1,5 +1,11 @@
-~~Title:devatā~~
-{{description>demigods; goddess; of a demigod; of predominating deities; predominating Deities; the demigods; the Lord; the Supreme Lord; the worshipable Lord; worshipable Lord.}}
+---json
+{
+    "name":"devatā",
+    "h1":"devatā",
+    "title":"devatā",
+    "description":"demigods; goddess; of a demigod; of predominating deities; predominating Deities; the demigods; the Lord; the Supreme Lord; the worshipable Lord; worshipable Lord."
+}
+---
 
 ==== devatā  ====
   * demigods --- [[books:bg:9:23|Bg. 9.23]], [[books:sb:4:7:45|SB 4.7.45]], [[books:cc:adi:14:48|Ādi 14.48]], [[books:cc:adi:14:53|Ādi 14.53]], [[books:cc:adi:14:62|Ādi 14.62]]

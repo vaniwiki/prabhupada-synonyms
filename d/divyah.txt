@@ -1,5 +1,11 @@
-~~Title:divyah~~
-{{description>Divya.}}
+---json
+{
+    "name":"divyah",
+    "h1":"divyah",
+    "title":"divyah",
+    "description":"Divya."
+}
+---
 
 ==== divyaḥ  ====
   * Divya --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

@@ -1,5 +1,11 @@
-~~Title:yatnaḥ~~
-{{description>attempt; endeavor; endeavors; very much careful.}}
+---json
+{
+    "name":"yatnaḥ",
+    "h1":"yatnaḥ",
+    "title":"yatnaḥ",
+    "description":"attempt; endeavor; endeavors; very much careful."
+}
+---
 
 ==== yatnaḥ  ====
   * attempt --- [[books:sb:3:13:15|SB 3.13.15]]

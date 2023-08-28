@@ -1,5 +1,11 @@
-~~Title:āvahena~~
-{{description>which brings about happiness.}}
+---json
+{
+    "name":"āvahena",
+    "h1":"āvahena",
+    "title":"āvahena",
+    "description":"which brings about happiness."
+}
+---
 
 ==== sukhā-āvahena  ====
   * which brings about happiness --- [[books:cc:madhya:24:125|Madhya 24.125]]

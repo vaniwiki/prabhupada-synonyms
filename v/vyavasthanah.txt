@@ -1,5 +1,11 @@
-~~Title:vyavasthānaḥ~~
-{{description>getting the opportunity to exchange his old age.}}
+---json
+{
+    "name":"vyavasthānaḥ",
+    "h1":"vyavasthānaḥ",
+    "title":"vyavasthānaḥ",
+    "description":"getting the opportunity to exchange his old age."
+}
+---
 
 ==== labdha-vyavasthānaḥ  ====
   * getting the opportunity to exchange his old age --- [[books:sb:9:18:38|SB 9.18.38]]

@@ -1,5 +1,11 @@
-~~Title:vimalaḥ~~
-{{description>and Vimala.}}
+---json
+{
+    "name":"vimalaḥ",
+    "h1":"vimalaḥ",
+    "title":"vimalaḥ",
+    "description":"and Vimala."
+}
+---
 
 ==== vimalaḥ ca  ====
   * and Vimala --- [[books:sb:9:1:41|SB 9.1.41]]

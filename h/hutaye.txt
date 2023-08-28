@@ -1,5 +1,11 @@
-~~Title:hūtaye~~
-{{description>for the name of the island.}}
+---json
+{
+    "name":"hūtaye",
+    "h1":"hūtaye",
+    "title":"hūtaye",
+    "description":"for the name of the island."
+}
+---
 
 ==== dvīpa-hūtaye  ====
   * for the name of the island --- [[books:sb:5:20:8|SB 5.20.8]]

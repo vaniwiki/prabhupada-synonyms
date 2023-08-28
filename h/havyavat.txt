@@ -1,5 +1,11 @@
-~~Title:havyavāṭ~~
-{{description>the carrier of Vedic offerings of grains and ghee.}}
+---json
+{
+    "name":"havyavāṭ",
+    "h1":"havyavāṭ",
+    "title":"havyavāṭ",
+    "description":"the carrier of Vedic offerings of grains and ghee."
+}
+---
 
 ==== havyavāṭ  ====
   * the carrier of Vedic offerings of grains and ghee --- [[books:sb:5:20:17|SB 5.20.17]]

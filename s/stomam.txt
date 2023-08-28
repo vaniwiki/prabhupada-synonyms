@@ -1,5 +1,11 @@
-~~Title:stomam~~
-{{description>hymns.}}
+---json
+{
+    "name":"stomam",
+    "h1":"stomam",
+    "title":"stomam",
+    "description":"hymns."
+}
+---
 
 ==== stomam  ====
   * hymns --- [[books:sb:3:21:34|SB 3.21.34]]

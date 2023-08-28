@@ -1,5 +1,11 @@
-~~Title:naśvaraiḥ~~
-{{description>perishable.}}
+---json
+{
+    "name":"naśvaraiḥ",
+    "h1":"naśvaraiḥ",
+    "title":"naśvaraiḥ",
+    "description":"perishable."
+}
+---
 
 ==== naśvaraiḥ  ====
   * perishable --- [[books:sb:7:7:45|SB 7.7.45]]

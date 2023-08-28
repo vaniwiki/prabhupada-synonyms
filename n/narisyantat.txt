@@ -1,5 +1,11 @@
-~~Title:nariṣyantāt~~
-{{description>from Nariṣyanta, another son of Manu.}}
+---json
+{
+    "name":"nariṣyantāt",
+    "h1":"nariṣyantāt",
+    "title":"nariṣyantāt",
+    "description":"from Nariṣyanta, another son of Manu."
+}
+---
 
 ==== nariṣyantāt  ====
   * from Nariṣyanta, another son of Manu --- [[books:sb:9:2:19|SB 9.2.19]]

@@ -1,5 +1,11 @@
-~~Title:avekṣitaḥ~~
-{{description>taken care of.}}
+---json
+{
+    "name":"avekṣitaḥ",
+    "h1":"avekṣitaḥ",
+    "title":"avekṣitaḥ",
+    "description":"taken care of."
+}
+---
 
 ==== avekṣitaḥ  ====
   * taken care of --- [[books:sb:3:23:6|SB 3.23.6]]

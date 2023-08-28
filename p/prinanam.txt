@@ -1,5 +1,11 @@
-~~Title:prīṇanam~~
-{{description>pleasing.}}
+---json
+{
+    "name":"prīṇanam",
+    "h1":"prīṇanam",
+    "title":"prīṇanam",
+    "description":"pleasing."
+}
+---
 
 ==== prīṇanam  ====
   * pleasing --- [[books:sb:8:16:56|SB 8.16.56]]

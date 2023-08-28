@@ -1,5 +1,11 @@
-~~Title:vilokayanti~~
-{{description>they see.}}
+---json
+{
+    "name":"vilokayanti",
+    "h1":"vilokayanti",
+    "title":"vilokayanti",
+    "description":"they see."
+}
+---
 
 ==== vilokayanti  ====
   * they see --- [[books:sb:5:25:4|SB 5.25.4]], [[books:sb:5:25:5|SB 5.25.5]]

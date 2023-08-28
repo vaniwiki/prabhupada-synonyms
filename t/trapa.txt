@@ -1,5 +1,11 @@
-~~Title:trapā~~
-{{description>bashfulness; shame.}}
+---json
+{
+    "name":"trapā",
+    "h1":"trapā",
+    "title":"trapā",
+    "description":"bashfulness; shame."
+}
+---
 
 ==== trapā  ====
   * bashfulness --- [[books:cc:antya:1:152|Antya 1.152]]

@@ -1,5 +1,11 @@
-~~Title:viyat~~
-{{description>declining; ether; sky; the ether; the sky; to the sky.}}
+---json
+{
+    "name":"viyat",
+    "h1":"viyat",
+    "title":"viyat",
+    "description":"declining; ether; sky; the ether; the sky; to the sky."
+}
+---
 
 ==== viyat  ====
   * declining --- [[books:sb:7:6:14|SB 7.6.14]]

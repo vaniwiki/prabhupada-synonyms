@@ -1,5 +1,11 @@
-~~Title:sainye~~
-{{description>among soldiers.}}
+---json
+{
+    "name":"sainye",
+    "h1":"sainye",
+    "title":"sainye",
+    "description":"among soldiers."
+}
+---
 
 ==== sainye  ====
   * among soldiers --- [[books:cc:madhya:13:171|Madhya 13.171]]

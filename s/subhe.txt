@@ -1,5 +1,11 @@
-~~Title:śubhe~~
-{{description>O all-auspicious Yogamāyā; O blessed mother; O most auspicious one; very auspicious.}}
+---json
+{
+    "name":"śubhe",
+    "h1":"śubhe",
+    "title":"śubhe",
+    "description":"O all-auspicious Yogamāyā; O blessed mother; O most auspicious one; very auspicious."
+}
+---
 
 ==== śubhe  ====
   * O all-auspicious Yogamāyā --- [[books:sb:10:2:9|SB 10.2.9]]

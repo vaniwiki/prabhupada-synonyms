@@ -1,5 +1,11 @@
-~~Title:mahāśālaḥ~~
-{{description>Mahāśāla.}}
+---json
+{
+    "name":"mahāśālaḥ",
+    "h1":"mahāśālaḥ",
+    "title":"mahāśālaḥ",
+    "description":"Mahāśāla."
+}
+---
 
 ==== mahāśālaḥ  ====
   * Mahāśāla --- [[books:sb:9:23:2|SB 9.23.2]]

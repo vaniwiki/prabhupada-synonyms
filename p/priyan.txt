@@ -1,5 +1,11 @@
-~~Title:priyān~~
-{{description>those who are devotees; very pleasing.}}
+---json
+{
+    "name":"priyān",
+    "h1":"priyān",
+    "title":"priyān",
+    "description":"those who are devotees; very pleasing."
+}
+---
 
 ==== priyān  ====
   * those who are devotees --- [[books:cc:adi:10:7|Ādi 10.7]]

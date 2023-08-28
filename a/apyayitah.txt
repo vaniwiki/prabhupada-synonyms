@@ -1,5 +1,11 @@
-~~Title:āpyāyitaḥ~~
-{{description>being favored.}}
+---json
+{
+    "name":"āpyāyitaḥ",
+    "h1":"āpyāyitaḥ",
+    "title":"āpyāyitaḥ",
+    "description":"being favored."
+}
+---
 
 ==== āpyāyitaḥ  ====
   * being favored --- [[books:sb:9:6:15-16|SB 9.6.15-16]]

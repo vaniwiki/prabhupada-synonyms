@@ -1,5 +1,11 @@
-~~Title:aviṣahyatayā~~
-{{description>by intolerance.}}
+---json
+{
+    "name":"aviṣahyatayā",
+    "h1":"aviṣahyatayā",
+    "title":"aviṣahyatayā",
+    "description":"by intolerance."
+}
+---
 
 ==== aviṣahyatayā  ====
   * by intolerance --- [[books:sb:4:22:60|SB 4.22.60]]

@@ -1,5 +1,11 @@
-~~Title:avatīrṇaḥ~~
-{{description>advented; descended; have now appeared; having appeared; incarnated; now He has descended.}}
+---json
+{
+    "name":"avatīrṇaḥ",
+    "h1":"avatīrṇaḥ",
+    "title":"avatīrṇaḥ",
+    "description":"advented; descended; have now appeared; having appeared; incarnated; now He has descended."
+}
+---
 
 ==== avatīrṇaḥ  ====
   * advented --- [[books:cc:adi:13:19|Ādi 13.19]]

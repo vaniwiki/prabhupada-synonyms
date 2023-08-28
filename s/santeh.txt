@@ -1,5 +1,11 @@
-~~Title:śānteḥ~~
-{{description>of Śānti.}}
+---json
+{
+    "name":"śānteḥ",
+    "h1":"śānteḥ",
+    "title":"śānteḥ",
+    "description":"of Śānti."
+}
+---
 
 ==== śānteḥ  ====
   * of Śānti --- [[books:sb:9:21:31-33|SB 9.21.31-33]]

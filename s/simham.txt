@@ -1,5 +1,11 @@
-~~Title:siṁham~~
-{{description>the incarnation of the Lord as half-man and half-lion.}}
+---json
+{
+    "name":"siṁham",
+    "h1":"siṁham",
+    "title":"siṁham",
+    "description":"the incarnation of the Lord as half-man and half-lion."
+}
+---
 
 ==== nāra-siṁham  ====
   * the incarnation of the Lord as half-man and half-lion --- [[books:sb:1:3:18|SB 1.3.18]]

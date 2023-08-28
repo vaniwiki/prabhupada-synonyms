@@ -1,5 +1,11 @@
-~~Title:ārcan~~
-{{description>worshiped.}}
+---json
+{
+    "name":"ārcan",
+    "h1":"ārcan",
+    "title":"ārcan",
+    "description":"worshiped."
+}
+---
 
 ==== ārcan  ====
   * worshiped --- [[books:sb:4:24:14|SB 4.24.14]]

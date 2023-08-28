@@ -1,5 +1,11 @@
-~~Title:nirveda~~
-{{description>despondency; disappointment.}}
+---json
+{
+    "name":"nirveda",
+    "h1":"nirveda",
+    "title":"nirveda",
+    "description":"despondency; disappointment."
+}
+---
 
 ==== nirveda  ====
   * despondency --- [[books:cc:madhya:2:76|Madhya 2.76]]

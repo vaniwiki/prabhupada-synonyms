@@ -1,5 +1,11 @@
-~~Title:vigrahāt~~
-{{description>from this fighting.}}
+---json
+{
+    "name":"vigrahāt",
+    "h1":"vigrahāt",
+    "title":"vigrahāt",
+    "description":"from this fighting."
+}
+---
 
 ==== vigrahāt  ====
   * from this fighting --- [[books:sb:8:11:44|SB 8.11.44]]

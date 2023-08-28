@@ -1,5 +1,11 @@
-~~Title:yatiṣyāmi~~
-{{description>I shall endeavor.}}
+---json
+{
+    "name":"yatiṣyāmi",
+    "h1":"yatiṣyāmi",
+    "title":"yatiṣyāmi",
+    "description":"I shall endeavor."
+}
+---
 
 ==== yatiṣyāmi  ====
   * I shall endeavor --- [[books:sb:6:2:35|SB 6.2.35]]

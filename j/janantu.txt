@@ -1,5 +1,11 @@
-~~Title:jānantu~~
-{{description>let them think like that.}}
+---json
+{
+    "name":"jānantu",
+    "h1":"jānantu",
+    "title":"jānantu",
+    "description":"let them think like that."
+}
+---
 
 ==== jānantu  ====
   * let them think like that --- [[books:cc:madhya:21:27|Madhya 21.27]], [[books:cc:madhya:21:83|Madhya 21.83]]

@@ -1,5 +1,11 @@
-~~Title:anvīkṣitam~~
-{{description>was considered.}}
+---json
+{
+    "name":"anvīkṣitam",
+    "h1":"anvīkṣitam",
+    "title":"anvīkṣitam",
+    "description":"was considered."
+}
+---
 
 ==== anvīkṣitam  ====
   * was considered --- [[books:sb:4:29:56|SB 4.29.56]]

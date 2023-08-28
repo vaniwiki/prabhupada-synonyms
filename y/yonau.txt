@@ -1,5 +1,11 @@
-~~Title:yonau~~
-{{description>in the womb (material nature); in the womb from which the living entity takes his birth.}}
+---json
+{
+    "name":"yonau",
+    "h1":"yonau",
+    "title":"yonau",
+    "description":"in the womb (material nature); in the womb from which the living entity takes his birth."
+}
+---
 
 ==== yonau  ====
   * in the womb (material nature) --- [[books:sb:3:26:19|SB 3.26.19]]

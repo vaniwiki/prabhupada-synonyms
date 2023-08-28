@@ -1,5 +1,11 @@
-~~Title:puta~~
-{{description>purified.}}
+---json
+{
+    "name":"puta",
+    "h1":"puta",
+    "title":"puta",
+    "description":"purified."
+}
+---
 
 ==== pūta  ====
   * purified --- [[books:bg:9:20|Bg. 9.20]], [[books:sb:1:8:2|SB 1.8.2]]

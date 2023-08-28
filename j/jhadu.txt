@@ -1,5 +1,11 @@
-~~Title:jhaḍu~~
-{{description>Jhaḍu.}}
+---json
+{
+    "name":"jhaḍu",
+    "h1":"jhaḍu",
+    "title":"jhaḍu",
+    "description":"Jhaḍu."
+}
+---
 
 ==== jhaḍu  ====
   * Jhaḍu --- [[books:cc:antya:16:14|Antya 16.14]]

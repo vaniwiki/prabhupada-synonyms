@@ -1,5 +1,11 @@
-~~Title:śraddadhate~~
-{{description>are eager; respect very much; you believe in.}}
+---json
+{
+    "name":"śraddadhate",
+    "h1":"śraddadhate",
+    "title":"śraddadhate",
+    "description":"are eager; respect very much; you believe in."
+}
+---
 
 ==== śraddadhate  ====
   * are eager --- [[books:sb:6:18:21|SB 6.18.21]]

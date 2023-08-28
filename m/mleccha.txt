@@ -1,5 +1,11 @@
-~~Title:mleccha~~
-{{description>meat-eater; meat-eaters; Mohammedan; Mohammedans; of the lands known as Mlecchadeśa (where Vedic civilization was not present); one who does not follow the Vedic principles; the governor of the other side; the meat-eater; the meateaters; the Mohammedan; the Mohammedans; uncivilized men who cannot follow the Vedic principles; unclean persons with no principles.}}
+---json
+{
+    "name":"mleccha",
+    "h1":"mleccha",
+    "title":"mleccha",
+    "description":"meat-eater; meat-eaters; Mohammedan; Mohammedans; of the lands known as Mlecchadeśa (where Vedic civilization was not present); one who does not follow the Vedic principles; the governor of the other side; the meat-eater; the meateaters; the Mohammedan; the Mohammedans; uncivilized men who cannot follow the Vedic principles; unclean persons with no principles."
+}
+---
 
 ==== mleccha  ====
   * meat-eater --- [[books:cc:adi:17:194|Ādi 17.194]], [[books:cc:adi:17:201-202|Ādi 17.201-202]]

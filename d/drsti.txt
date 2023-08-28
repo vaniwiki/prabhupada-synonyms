@@ -1,5 +1,11 @@
-~~Title:dṛṣṭi~~
-{{description>sight.}}
+---json
+{
+    "name":"dṛṣṭi",
+    "h1":"dṛṣṭi",
+    "title":"dṛṣṭi",
+    "description":"sight."
+}
+---
 
 ==== dṛṣṭi  ====
   * sight --- [[books:sb:1:9:43|SB 1.9.43]]

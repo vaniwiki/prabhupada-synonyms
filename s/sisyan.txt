@@ -1,5 +1,11 @@
-~~Title:śiṣyān~~
-{{description>disciples; the disciples.}}
+---json
+{
+    "name":"śiṣyān",
+    "h1":"śiṣyān",
+    "title":"śiṣyān",
+    "description":"disciples; the disciples."
+}
+---
 
 ==== śiṣyān  ====
   * disciples --- [[books:sb:7:13:8|SB 7.13.8]]

@@ -1,5 +1,11 @@
-~~Title:vayasam~~
-{{description>crows.}}
+---json
+{
+    "name":"vayasam",
+    "h1":"vayasam",
+    "title":"vayasam",
+    "description":"crows."
+}
+---
 
 ==== vāyasam  ====
   * crows --- [[books:sb:1:5:10|SB 1.5.10]]

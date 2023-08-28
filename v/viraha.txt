@@ -1,5 +1,11 @@
-~~Title:viraha~~
-{{description>by separation; from separation; of separation; separation.}}
+---json
+{
+    "name":"viraha",
+    "h1":"viraha",
+    "title":"viraha",
+    "description":"by separation; from separation; of separation; separation."
+}
+---
 
 ==== viraha  ====
   * by separation --- [[books:sb:5:8:15|SB 5.8.15]]

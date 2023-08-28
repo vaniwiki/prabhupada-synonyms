@@ -1,5 +1,11 @@
-~~Title:haṁsakaiḥ~~
-{{description>with the swans.}}
+---json
+{
+    "name":"haṁsakaiḥ",
+    "h1":"haṁsakaiḥ",
+    "title":"haṁsakaiḥ",
+    "description":"with the swans."
+}
+---
 
 ==== haṁsakaiḥ  ====
   * with the swans --- [[books:sb:10:12:7-11|SB 10.12.7-11]]

@@ -1,5 +1,11 @@
-~~Title:asūsucat~~
-{{description>encouraged.}}
+---json
+{
+    "name":"asūsucat",
+    "h1":"asūsucat",
+    "title":"asūsucat",
+    "description":"encouraged."
+}
+---
 
 ==== asūsucat  ====
   * encouraged --- [[books:sb:4:5:20|SB 4.5.20]]

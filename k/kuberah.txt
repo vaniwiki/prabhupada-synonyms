@@ -1,5 +1,11 @@
-~~Title:kuberaḥ~~
-{{description>Kuvera.}}
+---json
+{
+    "name":"kuberaḥ",
+    "h1":"kuberaḥ",
+    "title":"kuberaḥ",
+    "description":"Kuvera."
+}
+---
 
 ==== kuberaḥ  ====
   * Kuvera --- [[books:sb:4:1:37|SB 4.1.37]]

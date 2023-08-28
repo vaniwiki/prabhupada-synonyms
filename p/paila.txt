@@ -1,5 +1,11 @@
-~~Title:paila~~
-{{description>achieved; attained; caught up to; felt; found; get; get the opportunity; got; got back; has entered; has gotten; he got; is found; obtained; partook; received; they got; we have obtained.}}
+---json
+{
+    "name":"paila",
+    "h1":"paila",
+    "title":"paila",
+    "description":"achieved; attained; caught up to; felt; found; get; get the opportunity; got; got back; has entered; has gotten; he got; is found; obtained; partook; received; they got; we have obtained."
+}
+---
 
 ==== pāila  ====
   * achieved --- [[books:cc:madhya:5:117|Madhya 5.117]], [[books:cc:madhya:22:135|Madhya 22.135]]

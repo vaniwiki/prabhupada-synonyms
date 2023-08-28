@@ -1,5 +1,11 @@
-~~Title:ekānte~~
-{{description>in a solitary place.}}
+---json
+{
+    "name":"ekānte",
+    "h1":"ekānte",
+    "title":"ekānte",
+    "description":"in a solitary place."
+}
+---
 
 ==== ekānte  ====
   * in a solitary place --- [[books:cc:madhya:18:70|Madhya 18.70]]

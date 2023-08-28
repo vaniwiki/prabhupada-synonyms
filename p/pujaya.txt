@@ -1,5 +1,11 @@
-~~Title:pujaya~~
-{{description>by worshiping with sixteen kinds of paraphernalia.}}
+---json
+{
+    "name":"pujaya",
+    "h1":"pujaya",
+    "title":"pujaya",
+    "description":"by worshiping with sixteen kinds of paraphernalia."
+}
+---
 
 ==== ṣoḍaśa-upacāra-pūjāya  ====
   * by worshiping with sixteen kinds of paraphernalia --- [[books:cc:antya:6:302|Antya 6.302]]

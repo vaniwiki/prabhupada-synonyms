@@ -1,5 +1,11 @@
-~~Title:kaustubham~~
-{{description>the Kaustubha gem; the pearl of the name.}}
+---json
+{
+    "name":"kaustubham",
+    "h1":"kaustubham",
+    "title":"kaustubham",
+    "description":"the Kaustubha gem; the pearl of the name."
+}
+---
 
 ==== kaustubham  ====
   * the Kaustubha gem --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

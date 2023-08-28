@@ -1,5 +1,11 @@
-~~Title:śunaḥśephaḥ~~
-{{description>as well as Śunaḥśepha.}}
+---json
+{
+    "name":"śunaḥśephaḥ",
+    "h1":"śunaḥśephaḥ",
+    "title":"śunaḥśephaḥ",
+    "description":"as well as Śunaḥśepha."
+}
+---
 
 ==== śunaḥśephaḥ tu  ====
   * as well as Śunaḥśepha --- [[books:sb:9:16:32|SB 9.16.32]]

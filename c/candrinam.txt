@@ -1,5 +1,11 @@
-~~Title:cāndrīṇām~~
-{{description>produced on the moon.}}
+---json
+{
+    "name":"cāndrīṇām",
+    "h1":"cāndrīṇām",
+    "title":"cāndrīṇām",
+    "description":"produced on the moon."
+}
+---
 
 ==== cāndrīṇām  ====
   * produced on the moon --- [[books:cc:antya:1:128|Antya 1.128]]

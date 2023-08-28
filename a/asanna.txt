@@ -1,5 +1,11 @@
-~~Title:āsanna~~
-{{description>attained; nearby.}}
+---json
+{
+    "name":"āsanna",
+    "h1":"āsanna",
+    "title":"āsanna",
+    "description":"attained; nearby."
+}
+---
 
 ==== āsanna  ====
   * attained --- [[books:sb:3:18:21|SB 3.18.21]]

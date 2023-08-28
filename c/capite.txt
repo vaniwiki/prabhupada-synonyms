@@ -1,5 +1,11 @@
-~~Title:cāpite~~
-{{description>began to press.}}
+---json
+{
+    "name":"cāpite",
+    "h1":"cāpite",
+    "title":"cāpite",
+    "description":"began to press."
+}
+---
 
 ==== cāpite lāgilā  ====
   * began to press --- [[books:cc:antya:9:83|Antya 9.83]]

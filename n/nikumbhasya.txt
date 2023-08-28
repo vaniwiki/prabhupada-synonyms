@@ -1,5 +1,11 @@
-~~Title:nikumbhasya~~
-{{description>of Nikumbha.}}
+---json
+{
+    "name":"nikumbhasya",
+    "h1":"nikumbhasya",
+    "title":"nikumbhasya",
+    "description":"of Nikumbha."
+}
+---
 
 ==== nikumbhasya  ====
   * of Nikumbha --- [[books:sb:9:6:25|SB 9.6.25]]

@@ -1,5 +1,11 @@
-~~Title:abhivandyaiḥ~~
-{{description>by personalities like Lord Brahmā and Lord Śiva, who are worshiped all over the universe.}}
+---json
+{
+    "name":"abhivandyaiḥ",
+    "h1":"abhivandyaiḥ",
+    "title":"abhivandyaiḥ",
+    "description":"by personalities like Lord Brahmā and Lord Śiva, who are worshiped all over the universe."
+}
+---
 
 ==== viśva-abhivandyaiḥ  ====
   * by personalities like Lord Brahmā and Lord Śiva, who are worshiped all over the universe --- [[books:sb:8:23:6|SB 8.23.6]]

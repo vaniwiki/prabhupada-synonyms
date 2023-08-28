@@ -1,5 +1,11 @@
-~~Title:parirakṣyamāṇe~~
-{{description>being protected.}}
+---json
+{
+    "name":"parirakṣyamāṇe",
+    "h1":"parirakṣyamāṇe",
+    "title":"parirakṣyamāṇe",
+    "description":"being protected."
+}
+---
 
 ==== parirakṣyamāṇe  ====
   * being protected --- [[books:sb:5:4:18|SB 5.4.18]]

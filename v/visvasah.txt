@@ -1,5 +1,11 @@
-~~Title:viśvāsaḥ~~
-{{description>strong conviction.}}
+---json
+{
+    "name":"viśvāsaḥ",
+    "h1":"viśvāsaḥ",
+    "title":"viśvāsaḥ",
+    "description":"strong conviction."
+}
+---
 
 ==== viśvāsaḥ  ====
   * strong conviction --- [[books:cc:madhya:22:100|Madhya 22.100]]

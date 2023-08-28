@@ -1,5 +1,11 @@
-~~Title:nirmite~~
-{{description>constructed; created; were constructed.}}
+---json
+{
+    "name":"nirmite",
+    "h1":"nirmite",
+    "title":"nirmite",
+    "description":"constructed; created; were constructed."
+}
+---
 
 ==== nirmite  ====
   * constructed --- [[books:sb:4:25:48|SB 4.25.48]]

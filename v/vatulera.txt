@@ -1,5 +1,11 @@
-~~Title:vātulera~~
-{{description>the acts of a madman.}}
+---json
+{
+    "name":"vātulera",
+    "h1":"vātulera",
+    "title":"vātulera",
+    "description":"the acts of a madman."
+}
+---
 
 ==== vātulera karma  ====
   * the acts of a madman --- [[books:cc:madhya:15:49|Madhya 15.49]]

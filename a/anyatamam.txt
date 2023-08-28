@@ -1,5 +1,11 @@
-~~Title:anyatamam~~
-{{description>anyone else; other.}}
+---json
+{
+    "name":"anyatamam",
+    "h1":"anyatamam",
+    "title":"anyatamam",
+    "description":"anyone else; other."
+}
+---
 
 ==== anyatamam  ====
   * anyone else --- [[books:sb:10:3:41|SB 10.3.41]]

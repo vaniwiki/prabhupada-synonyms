@@ -1,5 +1,11 @@
-~~Title:vimoghāḥ~~
-{{description>futile.}}
+---json
+{
+    "name":"vimoghāḥ",
+    "h1":"vimoghāḥ",
+    "title":"vimoghāḥ",
+    "description":"futile."
+}
+---
 
 ==== vimoghāḥ  ====
   * futile --- [[books:sb:6:10:28|SB 6.10.28]]

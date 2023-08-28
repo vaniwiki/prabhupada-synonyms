@@ -1,5 +1,11 @@
-~~Title:pāṣaṇḍam~~
-{{description>atheism; to atheism.}}
+---json
+{
+    "name":"pāṣaṇḍam",
+    "h1":"pāṣaṇḍam",
+    "title":"pāṣaṇḍam",
+    "description":"atheism; to atheism."
+}
+---
 
 ==== pāṣaṇḍam  ====
   * atheism --- [[books:sb:4:2:30|SB 4.2.30]]

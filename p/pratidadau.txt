@@ -1,5 +1,11 @@
-~~Title:pratidadau~~
-{{description>countercursed.}}
+---json
+{
+    "name":"pratidadau",
+    "h1":"pratidadau",
+    "title":"pratidadau",
+    "description":"countercursed."
+}
+---
 
 ==== pratidadau śāpam  ====
   * countercursed --- [[books:sb:9:13:5|SB 9.13.5]]

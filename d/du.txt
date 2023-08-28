@@ -1,5 +1,11 @@
-~~Title:du~~
-{{description>in two arms.}}
+---json
+{
+    "name":"du",
+    "h1":"du",
+    "title":"du",
+    "description":"in two arms."
+}
+---
 
 ==== du-bāhute  ====
   * in two arms --- [[books:cc:adi:13:112|Ādi 13.112]]

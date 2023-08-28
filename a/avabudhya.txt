@@ -1,5 +1,11 @@
-~~Title:avabudhya~~
-{{description>understanding it properly.}}
+---json
+{
+    "name":"avabudhya",
+    "h1":"avabudhya",
+    "title":"avabudhya",
+    "description":"understanding it properly."
+}
+---
 
 ==== avabudhya  ====
   * understanding it properly --- [[books:sb:7:12:13-14|SB 7.12.13-14]]

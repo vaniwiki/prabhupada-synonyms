@@ -1,5 +1,11 @@
-~~Title:yeba~~
-{{description>whatever.}}
+---json
+{
+    "name":"yeba",
+    "h1":"yeba",
+    "title":"yeba",
+    "description":"whatever."
+}
+---
 
 ==== yeba  ====
   * whatever --- [[books:cc:antya:6:219|Antya 6.219]]

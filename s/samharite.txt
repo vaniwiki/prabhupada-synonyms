@@ -1,5 +1,11 @@
-~~Title:saṁhārite~~
-{{description>to kill.}}
+---json
+{
+    "name":"saṁhārite",
+    "h1":"saṁhārite",
+    "title":"saṁhārite",
+    "description":"to kill."
+}
+---
 
 ==== saṁhārite  ====
   * to kill --- [[books:cc:adi:17:53|Ādi 17.53]]

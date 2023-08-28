@@ -1,5 +1,11 @@
-~~Title:gacchanti~~
-{{description>attains; go; goes; passes away; reach; they go.}}
+---json
+{
+    "name":"gacchanti",
+    "h1":"gacchanti",
+    "title":"gacchanti",
+    "description":"attains; go; goes; passes away; reach; they go."
+}
+---
 
 ==== gacchanti  ====
   * attains --- [[books:bg:15:5|Bg. 15.5]]

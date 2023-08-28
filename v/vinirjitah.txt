@@ -1,5 +1,11 @@
-~~Title:vinirjitaḥ~~
-{{description>being harassed.}}
+---json
+{
+    "name":"vinirjitaḥ",
+    "h1":"vinirjitaḥ",
+    "title":"vinirjitaḥ",
+    "description":"being harassed."
+}
+---
 
 ==== vinirjitaḥ  ====
   * being harassed --- [[books:sb:8:12:31|SB 8.12.31]]

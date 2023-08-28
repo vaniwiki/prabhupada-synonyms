@@ -1,5 +1,11 @@
-~~Title:kaḍacāya~~
-{{description>in his notes.}}
+---json
+{
+    "name":"kaḍacāya",
+    "h1":"kaḍacāya",
+    "title":"kaḍacāya",
+    "description":"in his notes."
+}
+---
 
 ==== kaḍacāya  ====
   * in his notes --- [[books:cc:antya:3:269|Antya 3.269]]

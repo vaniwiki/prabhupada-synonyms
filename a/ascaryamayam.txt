@@ -1,5 +1,11 @@
-~~Title:aścaryamayam~~
-{{description>wonderful.}}
+---json
+{
+    "name":"aścaryamayam",
+    "h1":"aścaryamayam",
+    "title":"aścaryamayam",
+    "description":"wonderful."
+}
+---
 
 ==== aścaryamayam  ====
   * wonderful --- [[books:bg:11:10-11|Bg. 11.10-11]]

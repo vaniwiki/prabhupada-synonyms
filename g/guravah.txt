@@ -1,5 +1,11 @@
-~~Title:guravaḥ~~
-{{description>spiritual masters; superior persons, spiritual masters; teachers; the so-called gurus; the spiritual masters.}}
+---json
+{
+    "name":"guravaḥ",
+    "h1":"guravaḥ",
+    "title":"guravaḥ",
+    "description":"spiritual masters; superior persons, spiritual masters; teachers; the so-called gurus; the spiritual masters."
+}
+---
 
 ==== guravaḥ  ====
   * spiritual masters --- [[books:sb:10:13:3|SB 10.13.3]]

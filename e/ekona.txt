@@ -1,5 +1,11 @@
-~~Title:ekona~~
-{{description>forty-nine.}}
+---json
+{
+    "name":"ekona",
+    "h1":"ekona",
+    "title":"ekona",
+    "description":"forty-nine."
+}
+---
 
 ==== ekona-pañcāśat  ====
   * forty-nine --- [[books:sb:4:1:61|SB 4.1.61]]

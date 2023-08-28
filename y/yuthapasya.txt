@@ -1,5 +1,11 @@
-~~Title:yūthapasya~~
-{{description>of a male elephant.}}
+---json
+{
+    "name":"yūthapasya",
+    "h1":"yūthapasya",
+    "title":"yūthapasya",
+    "description":"of a male elephant."
+}
+---
 
 ==== yūthapasya  ====
   * of a male elephant --- [[books:sb:8:12:32|SB 8.12.32]]

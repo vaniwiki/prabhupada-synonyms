@@ -1,5 +1,11 @@
-~~Title:ādyāya~~
-{{description>unto the original living creature.}}
+---json
+{
+    "name":"ādyāya",
+    "h1":"ādyāya",
+    "title":"ādyāya",
+    "description":"unto the original living creature."
+}
+---
 
 ==== ādyāya  ====
   * unto the original living creature --- [[books:sb:7:3:28|SB 7.3.28]]

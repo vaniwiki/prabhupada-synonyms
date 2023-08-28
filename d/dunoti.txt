@@ -1,5 +1,11 @@
-~~Title:dunoti~~
-{{description>distresses; it gives me pain.}}
+---json
+{
+    "name":"dunoti",
+    "h1":"dunoti",
+    "title":"dunoti",
+    "description":"distresses; it gives me pain."
+}
+---
 
 ==== dunoti  ====
   * distresses --- [[books:sb:3:14:10|SB 3.14.10]]

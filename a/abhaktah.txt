@@ -1,5 +1,11 @@
-~~Title:abhaktah~~
-{{description>devoid of pure devotional service.}}
+---json
+{
+    "name":"abhaktah",
+    "h1":"abhaktah",
+    "title":"abhaktah",
+    "description":"devoid of pure devotional service."
+}
+---
 
 ==== abhaktaḥ  ====
   * devoid of pure devotional service --- [[books:cc:madhya:19:50|Madhya 19.50]], [[books:cc:madhya:20:58|Madhya 20.58]], [[books:cc:antya:16:25|Antya 16.25]]

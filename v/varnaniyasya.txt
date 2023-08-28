@@ -1,5 +1,11 @@
-~~Title:varṇanīyasya~~
-{{description>whose reputation is worthy of description.}}
+---json
+{
+    "name":"varṇanīyasya",
+    "h1":"varṇanīyasya",
+    "title":"varṇanīyasya",
+    "description":"whose reputation is worthy of description."
+}
+---
 
 ==== varṇanīyasya  ====
   * whose reputation is worthy of description --- [[books:sb:3:22:39|SB 3.22.39]]

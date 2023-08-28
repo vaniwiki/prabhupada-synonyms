@@ -1,5 +1,11 @@
-~~Title:atithyam~~
-{{description>offered different varieties of food.}}
+---json
+{
+    "name":"atithyam",
+    "h1":"atithyam",
+    "title":"atithyam",
+    "description":"offered different varieties of food."
+}
+---
 
 ==== ātithyam  ====
   * offered different varieties of food --- [[books:sb:9:5:19|SB 9.5.19]]

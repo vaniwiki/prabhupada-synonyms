@@ -1,5 +1,11 @@
-~~Title:rathītaraḥ~~
-{{description>of the name Rathītara.}}
+---json
+{
+    "name":"rathītaraḥ",
+    "h1":"rathītaraḥ",
+    "title":"rathītaraḥ",
+    "description":"of the name Rathītara."
+}
+---
 
 ==== rathītaraḥ  ====
   * of the name Rathītara --- [[books:sb:9:6:1|SB 9.6.1]]

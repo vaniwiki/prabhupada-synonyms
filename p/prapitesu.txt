@@ -1,5 +1,11 @@
-~~Title:prāpiteṣu~~
-{{description>when caused to reach.}}
+---json
+{
+    "name":"prāpiteṣu",
+    "h1":"prāpiteṣu",
+    "title":"prāpiteṣu",
+    "description":"when caused to reach."
+}
+---
 
 ==== prāpiteṣu  ====
   * when caused to reach --- [[books:sb:5:26:6|SB 5.26.6]]

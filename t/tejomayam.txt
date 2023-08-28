@@ -1,5 +1,11 @@
-~~Title:tejomayam~~
-{{description>full of effulgence.}}
+---json
+{
+    "name":"tejomayam",
+    "h1":"tejomayam",
+    "title":"tejomayam",
+    "description":"full of effulgence."
+}
+---
 
 ==== tejomayam  ====
   * full of effulgence --- [[books:bg:11:47|Bg. 11.47]]

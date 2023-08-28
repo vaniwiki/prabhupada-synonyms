@@ -1,5 +1,11 @@
-~~Title:mahatīm~~
-{{description>extensive; great; very gorgeous; very great.}}
+---json
+{
+    "name":"mahatīm",
+    "h1":"mahatīm",
+    "title":"mahatīm",
+    "description":"extensive; great; very gorgeous; very great."
+}
+---
 
 ==== mahatīm  ====
   * extensive --- [[books:sb:4:4:30|SB 4.4.30]]

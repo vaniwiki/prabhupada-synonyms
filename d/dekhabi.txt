@@ -1,5 +1,11 @@
-~~Title:dekhābi~~
-{{description>do not show.}}
+---json
+{
+    "name":"dekhābi",
+    "h1":"dekhābi",
+    "title":"dekhābi",
+    "description":"do not show."
+}
+---
 
 ==== nā dekhābi  ====
   * do not show --- [[books:cc:antya:8:24|Antya 8.24]]

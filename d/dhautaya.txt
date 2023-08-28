@@ -1,5 +1,11 @@
-~~Title:dhautayā~~
-{{description>being washed off.}}
+---json
+{
+    "name":"dhautayā",
+    "h1":"dhautayā",
+    "title":"dhautayā",
+    "description":"being washed off."
+}
+---
 
 ==== dhautayā  ====
   * being washed off --- [[books:sb:2:4:21|SB 2.4.21]]

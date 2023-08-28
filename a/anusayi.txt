@@ -1,5 +1,11 @@
-~~Title:anuśayī~~
-{{description>the living entity.}}
+---json
+{
+    "name":"anuśayī",
+    "h1":"anuśayī",
+    "title":"anuśayī",
+    "description":"the living entity."
+}
+---
 
 ==== anuśayī  ====
   * the living entity --- [[books:sb:4:23:18|SB 4.23.18]]

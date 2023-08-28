@@ -1,5 +1,11 @@
-~~Title:kasayah~~
-{{description>all dirty things; astringent.}}
+---json
+{
+    "name":"kasayah",
+    "h1":"kasayah",
+    "title":"kasayah",
+    "description":"all dirty things; astringent."
+}
+---
 
 ==== kaṣāyaḥ  ====
   * all dirty things --- [[books:sb:4:28:38|SB 4.28.38]]

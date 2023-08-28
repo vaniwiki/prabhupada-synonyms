@@ -1,5 +1,11 @@
-~~Title:pāsarāya~~
-{{description>cause to forget.}}
+---json
+{
+    "name":"pāsarāya",
+    "h1":"pāsarāya",
+    "title":"pāsarāya",
+    "description":"cause to forget."
+}
+---
 
 ==== pāsarāya  ====
   * cause to forget --- [[books:cc:antya:16:121-122|Antya 16.121-122]], [[books:cc:antya:16:123|Antya 16.123]]

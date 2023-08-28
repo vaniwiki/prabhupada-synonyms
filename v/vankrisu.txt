@@ -1,5 +1,11 @@
-~~Title:vaṅkriṣu~~
-{{description>at the ribs.}}
+---json
+{
+    "name":"vaṅkriṣu",
+    "h1":"vaṅkriṣu",
+    "title":"vaṅkriṣu",
+    "description":"at the ribs."
+}
+---
 
 ==== vaṅkriṣu  ====
   * at the ribs --- [[books:sb:5:23:6|SB 5.23.6]]

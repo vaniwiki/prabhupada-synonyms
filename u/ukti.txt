@@ -1,5 +1,11 @@
-~~Title:ukti~~
-{{description>statement; there is utterance.}}
+---json
+{
+    "name":"ukti",
+    "h1":"ukti",
+    "title":"ukti",
+    "description":"statement; there is utterance."
+}
+---
 
 ==== ukti  ====
   * statement --- [[books:cc:antya:17:50|Antya 17.50]]

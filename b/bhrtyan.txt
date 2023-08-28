@@ -1,5 +1,11 @@
-~~Title:bhṛtyān~~
-{{description>servants.}}
+---json
+{
+    "name":"bhṛtyān",
+    "h1":"bhṛtyān",
+    "title":"bhṛtyān",
+    "description":"servants."
+}
+---
 
 ==== bhṛtyān  ====
   * servants --- [[books:sb:4:7:42|SB 4.7.42]]

@@ -1,5 +1,11 @@
-~~Title:do~~
-{{description>bearing the emblem of the goddess of fortune on Their chests, armlets on Their arms, the Kaustubha gem on Their necks, which were marked with three lines like a conchshell, and bracelets on Their hands.}}
+---json
+{
+    "name":"do",
+    "h1":"do",
+    "title":"do",
+    "description":"bearing the emblem of the goddess of fortune on Their chests, armlets on Their arms, the Kaustubha gem on Their necks, which were marked with three lines like a conchshell, and bracelets on Their hands."
+}
+---
 
 ==== śrīvatsa-aṅgada-do-ratna-kambu-kaṅkaṇa-pāṇayaḥ  ====
   * bearing the emblem of the goddess of fortune on Their chests, armlets on Their arms, the Kaustubha gem on Their necks, which were marked with three lines like a conchshell, and bracelets on Their hands --- [[books:sb:10:13:47-48|SB 10.13.47-48]]

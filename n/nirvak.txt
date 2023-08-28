@@ -1,5 +1,11 @@
-~~Title:nirvāk~~
-{{description>of the name Nirvāk.}}
+---json
+{
+    "name":"nirvāk",
+    "h1":"nirvāk",
+    "title":"nirvāk",
+    "description":"of the name Nirvāk."
+}
+---
 
 ==== nirvāk  ====
   * of the name Nirvāk --- [[books:sb:4:25:54|SB 4.25.54]]

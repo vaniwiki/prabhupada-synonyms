@@ -1,5 +1,11 @@
-~~Title:āpūrya~~
-{{description>covering; vibrating.}}
+---json
+{
+    "name":"āpūrya",
+    "h1":"āpūrya",
+    "title":"āpūrya",
+    "description":"covering; vibrating."
+}
+---
 
 ==== āpūrya  ====
   * covering --- [[books:bg:11:30|Bg. 11.30]]

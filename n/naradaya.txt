@@ -1,5 +1,11 @@
-~~Title:nāradāya~~
-{{description>at the great sage Nārada Muni; unto Nārada; unto Nārada Muni; unto the great sage Nārada.}}
+---json
+{
+    "name":"nāradāya",
+    "h1":"nāradāya",
+    "title":"nāradāya",
+    "description":"at the great sage Nārada Muni; unto Nārada; unto Nārada Muni; unto the great sage Nārada."
+}
+---
 
 ==== nāradāya  ====
   * at the great sage Nārada Muni --- [[books:sb:6:5:35|SB 6.5.35]]

@@ -1,5 +1,11 @@
-~~Title:prayāsyan~~
-{{description>maintaining a desire.}}
+---json
+{
+    "name":"prayāsyan",
+    "h1":"prayāsyan",
+    "title":"prayāsyan",
+    "description":"maintaining a desire."
+}
+---
 
 ==== prayāsyan  ====
   * maintaining a desire --- [[books:sb:2:2:22|SB 2.2.22]]

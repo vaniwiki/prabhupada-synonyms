@@ -1,5 +1,11 @@
-~~Title:parārdhya~~
-{{description>priceless; very valuable.}}
+---json
+{
+    "name":"parārdhya",
+    "h1":"parārdhya",
+    "title":"parārdhya",
+    "description":"priceless; very valuable."
+}
+---
 
 ==== parārdhya  ====
   * priceless --- [[books:sb:3:28:15|SB 3.28.15]]

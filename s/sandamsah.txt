@@ -1,5 +1,11 @@
-~~Title:sandaṁśaḥ~~
-{{description>Sandaṁśa.}}
+---json
+{
+    "name":"sandaṁśaḥ",
+    "h1":"sandaṁśaḥ",
+    "title":"sandaṁśaḥ",
+    "description":"Sandaṁśa."
+}
+---
 
 ==== sandaṁśaḥ  ====
   * Sandaṁśa --- [[books:sb:5:26:7|SB 5.26.7]]

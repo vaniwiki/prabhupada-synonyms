@@ -1,5 +1,11 @@
-~~Title:suti~~
-{{description>to the maternity home.}}
+---json
+{
+    "name":"suti",
+    "h1":"suti",
+    "title":"suti",
+    "description":"to the maternity home."
+}
+---
 
 ==== sūtī-gṛham  ====
   * to the maternity home --- [[books:sb:10:4:3|SB 10.4.3]]

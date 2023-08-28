@@ -1,5 +1,11 @@
-~~Title:dviradam~~
-{{description>an elephant.}}
+---json
+{
+    "name":"dviradam",
+    "h1":"dviradam",
+    "title":"dviradam",
+    "description":"an elephant."
+}
+---
 
 ==== dviradam  ====
   * an elephant --- [[books:sb:3:18:7|SB 3.18.7]]

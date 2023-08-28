@@ -1,5 +1,11 @@
-~~Title:pāṭhā'la~~
-{{description>had sent; sent.}}
+---json
+{
+    "name":"pāṭhā'la",
+    "h1":"pāṭhā'la",
+    "title":"pāṭhā'la",
+    "description":"had sent; sent."
+}
+---
 
 ==== pāṭhā'la  ====
   * had sent --- [[books:cc:madhya:14:24|Madhya 14.24]]

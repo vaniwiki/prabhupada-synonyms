@@ -1,5 +1,11 @@
-~~Title:ubhe~~
-{{description>both (namely, the form of sound and the form of spiritual identity); both; both day and night; both of them; in both.}}
+---json
+{
+    "name":"ubhe",
+    "h1":"ubhe",
+    "title":"ubhe",
+    "description":"both (namely, the form of sound and the form of spiritual identity); both; both day and night; both of them; in both."
+}
+---
 
 ==== ubhe  ====
   * both (namely, the form of sound and the form of spiritual identity) --- [[books:sb:6:16:51|SB 6.16.51]]

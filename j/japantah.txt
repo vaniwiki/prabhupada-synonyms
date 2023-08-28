@@ -1,5 +1,11 @@
-~~Title:japantaḥ~~
-{{description>chanting; chanting or murmuring; reciting.}}
+---json
+{
+    "name":"japantaḥ",
+    "h1":"japantaḥ",
+    "title":"japantaḥ",
+    "description":"chanting; chanting or murmuring; reciting."
+}
+---
 
 ==== japantaḥ  ====
   * chanting --- [[books:sb:4:24:79|SB 4.24.79]]

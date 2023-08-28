@@ -1,5 +1,11 @@
-~~Title:vyavasāya~~
-{{description>ascertained; by a conclusion; understanding.}}
+---json
+{
+    "name":"vyavasāya",
+    "h1":"vyavasāya",
+    "title":"vyavasāya",
+    "description":"ascertained; by a conclusion; understanding."
+}
+---
 
 ==== vyavasāya  ====
   * ascertained --- [[books:sb:2:2:1|SB 2.2.1]]

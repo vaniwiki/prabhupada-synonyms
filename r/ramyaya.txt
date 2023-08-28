@@ -1,5 +1,11 @@
-~~Title:ramyayā~~
-{{description>the form that pleases everyone by all parts of the body.}}
+---json
+{
+    "name":"ramyayā",
+    "h1":"ramyayā",
+    "title":"ramyayā",
+    "description":"the form that pleases everyone by all parts of the body."
+}
+---
 
 ==== sarva-aṅga-ramyayā  ====
   * the form that pleases everyone by all parts of the body --- [[books:sb:9:24:63-64|SB 9.24.63-64]]

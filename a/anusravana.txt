@@ -1,5 +1,11 @@
-~~Title:anuśravaṇa~~
-{{description>constantly hearing.}}
+---json
+{
+    "name":"anuśravaṇa",
+    "h1":"anuśravaṇa",
+    "title":"anuśravaṇa",
+    "description":"constantly hearing."
+}
+---
 
 ==== anuśravaṇa  ====
   * constantly hearing --- [[books:sb:5:8:29|SB 5.8.29]]

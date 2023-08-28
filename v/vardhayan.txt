@@ -1,5 +1,11 @@
-~~Title:vardhayan~~
-{{description>increasing.}}
+---json
+{
+    "name":"vardhayan",
+    "h1":"vardhayan",
+    "title":"vardhayan",
+    "description":"increasing."
+}
+---
 
 ==== vardhayan  ====
   * increasing --- [[books:cc:madhya:13:79|Madhya 13.79]]

@@ -1,5 +1,11 @@
-~~Title:narahari~~
-{{description>Narahari.}}
+---json
+{
+    "name":"narahari",
+    "h1":"narahari",
+    "title":"narahari",
+    "description":"Narahari."
+}
+---
 
 ==== narahari  ====
   * Narahari --- [[books:cc:madhya:10:90|Madhya 10.90]], [[books:cc:madhya:11:92|Madhya 11.92]], [[books:cc:madhya:13:46|Madhya 13.46]], [[books:cc:madhya:15:132|Madhya 15.132]]

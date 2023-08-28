@@ -1,5 +1,11 @@
-~~Title:abuddhibhiḥ~~
-{{description>by the less intelligent persons; by those who have such bad intelligence.}}
+---json
+{
+    "name":"abuddhibhiḥ",
+    "h1":"abuddhibhiḥ",
+    "title":"abuddhibhiḥ",
+    "description":"by the less intelligent persons; by those who have such bad intelligence."
+}
+---
 
 ==== abuddhibhiḥ  ====
   * by the less intelligent persons --- [[books:sb:1:3:31|SB 1.3.31]]

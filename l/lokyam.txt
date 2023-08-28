@@ -1,5 +1,11 @@
-~~Title:lokyam~~
-{{description>in the world.}}
+---json
+{
+    "name":"lokyam",
+    "h1":"lokyam",
+    "title":"lokyam",
+    "description":"in the world."
+}
+---
 
 ==== lokyām  ====
   * in the world --- [[books:sb:3:14:37|SB 3.14.37]]

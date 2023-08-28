@@ -1,5 +1,11 @@
-~~Title:gani~~
-{{description>count; I count; we accept; we consider.}}
+---json
+{
+    "name":"gani",
+    "h1":"gani",
+    "title":"gani",
+    "description":"count; I count; we accept; we consider."
+}
+---
 
 ==== gaṇi  ====
   * count --- [[books:cc:adi:9:28|Ādi 9.28]], [[books:cc:adi:10:137|Ādi 10.137]]

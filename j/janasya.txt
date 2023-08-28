@@ -1,5 +1,11 @@
-~~Title:janasya~~
-{{description>of a person; of all the other people gathered there; of an ordinary person who does not know the goal of life; of the common man; of the intelligent person; of the living being; of the people in general; such a person.}}
+---json
+{
+    "name":"janasya",
+    "h1":"janasya",
+    "title":"janasya",
+    "description":"of a person; of all the other people gathered there; of an ordinary person who does not know the goal of life; of the common man; of the intelligent person; of the living being; of the people in general; such a person."
+}
+---
 
 ==== janasya  ====
   * of a person --- [[books:cc:madhya:22:46|Madhya 22.46]], [[books:cc:madhya:22:84|Madhya 22.84]]

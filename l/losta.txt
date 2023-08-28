@@ -1,5 +1,11 @@
-~~Title:loṣṭa~~
-{{description>a lump of earth.}}
+---json
+{
+    "name":"loṣṭa",
+    "h1":"loṣṭa",
+    "title":"loṣṭa",
+    "description":"a lump of earth."
+}
+---
 
 ==== loṣṭa  ====
   * a lump of earth --- [[books:bg:14:22-25|Bg. 14.22-25]]

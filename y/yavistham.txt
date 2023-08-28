@@ -1,5 +1,11 @@
-~~Title:yaviṣṭham~~
-{{description>the youngest.}}
+---json
+{
+    "name":"yaviṣṭham",
+    "h1":"yaviṣṭham",
+    "title":"yaviṣṭham",
+    "description":"the youngest."
+}
+---
 
 ==== yaviṣṭham  ====
   * the youngest --- [[books:sb:9:4:1|SB 9.4.1]]

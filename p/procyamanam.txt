@@ -1,5 +1,11 @@
-~~Title:procyamānam~~
-{{description>as described by Me; describing.}}
+---json
+{
+    "name":"procyamānam",
+    "h1":"procyamānam",
+    "title":"procyamānam",
+    "description":"as described by Me; describing."
+}
+---
 
 ==== procyamānam  ====
   * as described by Me --- [[books:bg:18:29|Bg. 18.29]]

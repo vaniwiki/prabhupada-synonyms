@@ -1,5 +1,11 @@
-~~Title:śikharāḥ~~
-{{description>having edges with points as sharp as stone picks.}}
+---json
+{
+    "name":"śikharāḥ",
+    "h1":"śikharāḥ",
+    "title":"śikharāḥ",
+    "description":"having edges with points as sharp as stone picks."
+}
+---
 
 ==== sa-ṭaṅka-śikharāḥ  ====
   * having edges with points as sharp as stone picks --- [[books:sb:8:10:46|SB 8.10.46]]

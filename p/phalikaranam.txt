@@ -1,5 +1,11 @@
-~~Title:phalīkaraṇam~~
-{{description>a little husk.}}
+---json
+{
+    "name":"phalīkaraṇam",
+    "h1":"phalīkaraṇam",
+    "title":"phalīkaraṇam",
+    "description":"a little husk."
+}
+---
 
 ==== phalīkaraṇam  ====
   * a little husk --- [[books:sb:5:3:13|SB 5.3.13]]

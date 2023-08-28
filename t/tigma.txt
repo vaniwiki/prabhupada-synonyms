@@ -1,5 +1,11 @@
-~~Title:tigma~~
-{{description>pointed; very sharp.}}
+---json
+{
+    "name":"tigma",
+    "h1":"tigma",
+    "title":"tigma",
+    "description":"pointed; very sharp."
+}
+---
 
 ==== tigma  ====
   * pointed --- [[books:sb:3:18:19|SB 3.18.19]]

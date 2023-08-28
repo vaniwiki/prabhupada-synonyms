@@ -1,5 +1,11 @@
-~~Title:keyūrābhyām~~
-{{description>decorated with all kinds of ornaments.}}
+---json
+{
+    "name":"keyūrābhyām",
+    "h1":"keyūrābhyām",
+    "title":"keyūrābhyām",
+    "description":"decorated with all kinds of ornaments."
+}
+---
 
 ==== keyūrābhyām ca bhūṣitām  ====
   * decorated with all kinds of ornaments --- [[books:sb:8:6:3-7|SB 8.6.3-7]]

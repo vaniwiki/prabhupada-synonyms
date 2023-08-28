@@ -1,5 +1,11 @@
-~~Title:vibhejire~~
-{{description>received their respective share.}}
+---json
+{
+    "name":"vibhejire",
+    "h1":"vibhejire",
+    "title":"vibhejire",
+    "description":"received their respective share."
+}
+---
 
 ==== vibhejire  ====
   * received their respective share --- [[books:sb:9:20:24-26|SB 9.20.24-26]]

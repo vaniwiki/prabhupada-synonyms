@@ -1,5 +1,11 @@
-~~Title:bodhitaḥ~~
-{{description>being understood.}}
+---json
+{
+    "name":"bodhitaḥ",
+    "h1":"bodhitaḥ",
+    "title":"bodhitaḥ",
+    "description":"being understood."
+}
+---
 
 ==== bodhitaḥ  ====
   * being understood --- [[books:sb:1:13:29|SB 1.13.29]]

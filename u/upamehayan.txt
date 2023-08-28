@@ -1,5 +1,11 @@
-~~Title:upamehayan~~
-{{description>moistening.}}
+---json
+{
+    "name":"upamehayan",
+    "h1":"upamehayan",
+    "title":"upamehayan",
+    "description":"moistening."
+}
+---
 
 ==== upamehayan  ====
   * moistening --- [[books:sb:6:16:32|SB 6.16.32]]

@@ -1,5 +1,11 @@
-~~Title:aśmasāra~~
-{{description>made of steel.}}
+---json
+{
+    "name":"aśmasāra",
+    "h1":"aśmasāra",
+    "title":"aśmasāra",
+    "description":"made of steel."
+}
+---
 
 ==== aśmasāra-mayam  ====
   * made of steel --- [[books:sb:8:11:30|SB 8.11.30]]

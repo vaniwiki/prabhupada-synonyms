@@ -1,5 +1,11 @@
-~~Title:sudyumnaḥ~~
-{{description>by the name Sudyumna; King Sudyumna; Prince Sudyumna; the male named Sudyumna.}}
+---json
+{
+    "name":"sudyumnaḥ",
+    "h1":"sudyumnaḥ",
+    "title":"sudyumnaḥ",
+    "description":"by the name Sudyumna; King Sudyumna; Prince Sudyumna; the male named Sudyumna."
+}
+---
 
 ==== sudyumnaḥ  ====
   * by the name Sudyumna --- [[books:sb:9:1:22|SB 9.1.22]]

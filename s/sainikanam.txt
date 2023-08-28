@@ -1,5 +1,11 @@
-~~Title:sainikānām~~
-{{description>of all the soldiers.}}
+---json
+{
+    "name":"sainikānām",
+    "h1":"sainikānām",
+    "title":"sainikānām",
+    "description":"of all the soldiers."
+}
+---
 
 ==== sainikānām  ====
   * of all the soldiers --- [[books:sb:9:3:5|SB 9.3.5]]

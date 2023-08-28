@@ -1,5 +1,11 @@
-~~Title:vrajema~~
-{{description>let us take shelter of; must go to; shall I take; shall take.}}
+---json
+{
+    "name":"vrajema",
+    "h1":"vrajema",
+    "title":"vrajema",
+    "description":"let us take shelter of; must go to; shall I take; shall take."
+}
+---
 
 ==== vrajema  ====
   * let us take shelter of --- [[books:sb:3:5:43|SB 3.5.43]]

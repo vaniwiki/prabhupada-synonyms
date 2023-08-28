@@ -1,5 +1,11 @@
-~~Title:vairāgyeṇa~~
-{{description>by detachment; by renunciation; with renunciation.}}
+---json
+{
+    "name":"vairāgyeṇa",
+    "h1":"vairāgyeṇa",
+    "title":"vairāgyeṇa",
+    "description":"by detachment; by renunciation; with renunciation."
+}
+---
 
 ==== vairāgyeṇa  ====
   * by detachment --- [[books:bg:6:35|Bg. 6.35]], [[books:sb:3:32:34-36|SB 3.32.34-36]]

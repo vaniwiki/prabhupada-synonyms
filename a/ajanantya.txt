@@ -1,5 +1,11 @@
-~~Title:ajānantyā~~
-{{description>because of ignorance; not knowing.}}
+---json
+{
+    "name":"ajānantyā",
+    "h1":"ajānantyā",
+    "title":"ajānantyā",
+    "description":"because of ignorance; not knowing."
+}
+---
 
 ==== ajānantyā  ====
   * because of ignorance --- [[books:sb:9:3:7|SB 9.3.7]]

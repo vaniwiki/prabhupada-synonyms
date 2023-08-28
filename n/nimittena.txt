@@ -1,5 +1,11 @@
-~~Title:nimittena~~
-{{description>caused by.}}
+---json
+{
+    "name":"nimittena",
+    "h1":"nimittena",
+    "title":"nimittena",
+    "description":"caused by."
+}
+---
 
 ==== nimittena  ====
   * caused by --- [[books:sb:3:15:14|SB 3.15.14]]

@@ -1,5 +1,11 @@
-~~Title:abhivadanti~~
-{{description>the Ṛg Veda mantras praise.}}
+---json
+{
+    "name":"abhivadanti",
+    "h1":"abhivadanti",
+    "title":"abhivadanti",
+    "description":"the Ṛg Veda mantras praise."
+}
+---
 
 ==== abhivadanti  ====
   * the //Ṛg Veda mantras// praise --- [[books:sb:5:23:1|SB 5.23.1]]

@@ -1,5 +1,11 @@
-~~Title:grāhayām~~
-{{description>he made him learn; made to accept; taught.}}
+---json
+{
+    "name":"grāhayām",
+    "h1":"grāhayām",
+    "title":"grāhayām",
+    "description":"he made him learn; made to accept; taught."
+}
+---
 
 ==== grāhayām āsa  ====
   * he made him learn --- [[books:sb:5:9:5|SB 5.9.5]]

@@ -1,5 +1,11 @@
-~~Title:santoṣe~~
-{{description>in great satisfaction; satisfies.}}
+---json
+{
+    "name":"santoṣe",
+    "h1":"santoṣe",
+    "title":"santoṣe",
+    "description":"in great satisfaction; satisfies."
+}
+---
 
 ==== santoṣe  ====
   * in great satisfaction --- [[books:cc:madhya:12:40|Madhya 12.40]]

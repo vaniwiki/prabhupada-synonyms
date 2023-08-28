@@ -1,5 +1,11 @@
-~~Title:avasitam~~
-{{description>residing.}}
+---json
+{
+    "name":"avasitam",
+    "h1":"avasitam",
+    "title":"avasitam",
+    "description":"residing."
+}
+---
 
 ==== avasitam  ====
   * residing --- [[books:sb:3:31:13|SB 3.31.13]]

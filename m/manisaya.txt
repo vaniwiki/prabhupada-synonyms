@@ -1,5 +1,11 @@
-~~Title:manīṣayā~~
-{{description>best to your knowledge; by his intelligence; by intelligence; by possessing the power to consider; by purified intelligence; power of intelligence; with scholarly attention.}}
+---json
+{
+    "name":"manīṣayā",
+    "h1":"manīṣayā",
+    "title":"manīṣayā",
+    "description":"best to your knowledge; by his intelligence; by intelligence; by possessing the power to consider; by purified intelligence; power of intelligence; with scholarly attention."
+}
+---
 
 ==== manīṣayā  ====
   * best to your knowledge --- [[books:sb:1:1:11|SB 1.1.11]]

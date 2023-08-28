@@ -1,5 +1,11 @@
-~~Title:prāṇeṣu~~
-{{description>in the outgoing air; in the senses; the life airs, along with the vital force.}}
+---json
+{
+    "name":"prāṇeṣu",
+    "h1":"prāṇeṣu",
+    "title":"prāṇeṣu",
+    "description":"in the outgoing air; in the senses; the life airs, along with the vital force."
+}
+---
 
 ==== prāṇeṣu  ====
   * in the outgoing air --- [[books:bg:4:29|Bg. 4.29]]

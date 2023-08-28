@@ -1,5 +1,11 @@
-~~Title:ākṣipya~~
-{{description>chastising.}}
+---json
+{
+    "name":"ākṣipya",
+    "h1":"ākṣipya",
+    "title":"ākṣipya",
+    "description":"chastising."
+}
+---
 
 ==== ākṣipya  ====
   * chastising --- [[books:sb:8:11:10|SB 8.11.10]]

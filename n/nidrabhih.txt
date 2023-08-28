@@ -1,5 +1,11 @@
-~~Title:nidrābhiḥ~~
-{{description>sleep.}}
+---json
+{
+    "name":"nidrābhiḥ",
+    "h1":"nidrābhiḥ",
+    "title":"nidrābhiḥ",
+    "description":"sleep."
+}
+---
 
 ==== nidrābhiḥ  ====
   * sleep --- [[books:bg:14:8|Bg. 14.8]]

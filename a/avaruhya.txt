@@ -1,5 +1,11 @@
-~~Title:avaruhya~~
-{{description>coming down; descending; getting down (from the palanquin); getting down; got down.}}
+---json
+{
+    "name":"avaruhya",
+    "h1":"avaruhya",
+    "title":"avaruhya",
+    "description":"coming down; descending; getting down (from the palanquin); getting down; got down."
+}
+---
 
 ==== avaruhya  ====
   * coming down --- [[books:sb:6:17:16|SB 6.17.16]]

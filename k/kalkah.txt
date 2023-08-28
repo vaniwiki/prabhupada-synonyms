@@ -1,5 +1,11 @@
-~~Title:kalkaḥ~~
-{{description>dirt.}}
+---json
+{
+    "name":"kalkaḥ",
+    "h1":"kalkaḥ",
+    "title":"kalkaḥ",
+    "description":"dirt."
+}
+---
 
 ==== kalkaḥ  ====
   * dirt --- [[books:sb:2:2:24|SB 2.2.24]]

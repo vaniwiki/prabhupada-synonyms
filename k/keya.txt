@@ -1,5 +1,11 @@
-~~Title:keyā~~
-{{description>the leaf of the keyā plant.}}
+---json
+{
+    "name":"keyā",
+    "h1":"keyā",
+    "title":"keyā",
+    "description":"the leaf of the keyā plant."
+}
+---
 
 ==== keyā-patra  ====
   * the leaf of the //keyā// plant --- [[books:cc:madhya:15:209|Madhya 15.209]]

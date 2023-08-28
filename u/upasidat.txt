@@ -1,5 +1,11 @@
-~~Title:upāsīdat~~
-{{description>sat down near.}}
+---json
+{
+    "name":"upāsīdat",
+    "h1":"upāsīdat",
+    "title":"upāsīdat",
+    "description":"sat down near."
+}
+---
 
 ==== upāsīdat  ====
   * sat down near --- [[books:sb:6:14:15|SB 6.14.15]]

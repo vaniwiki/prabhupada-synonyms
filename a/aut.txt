@@ -1,5 +1,11 @@
-~~Title:aut~~
-{{description>attachment.}}
+---json
+{
+    "name":"aut",
+    "h1":"aut",
+    "title":"aut",
+    "description":"attachment."
+}
+---
 
 ==== aut-kaṇṭhyam  ====
   * attachment --- [[books:sb:10:13:35|SB 10.13.35]]

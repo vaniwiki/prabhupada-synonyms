@@ -1,5 +1,11 @@
-~~Title:vyatanuta~~
-{{description>described and spread; spread, manifested.}}
+---json
+{
+    "name":"vyatanuta",
+    "h1":"vyatanuta",
+    "title":"vyatanuta",
+    "description":"described and spread; spread, manifested."
+}
+---
 
 ==== vyatanuta  ====
   * described and spread --- [[books:cc:madhya:24:48|Madhya 24.48]]

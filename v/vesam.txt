@@ -1,5 +1,11 @@
-~~Title:vesam~~
-{{description>appearance; dress.}}
+---json
+{
+    "name":"vesam",
+    "h1":"vesam",
+    "title":"vesam",
+    "description":"appearance; dress."
+}
+---
 
 ==== veṣam  ====
   * appearance --- [[books:sb:5:20:41|SB 5.20.41]]

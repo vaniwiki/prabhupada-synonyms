@@ -1,5 +1,11 @@
-~~Title:sṛṣṭena~~
-{{description>created by the time factor.}}
+---json
+{
+    "name":"sṛṣṭena",
+    "h1":"sṛṣṭena",
+    "title":"sṛṣṭena",
+    "description":"created by the time factor."
+}
+---
 
 ==== kāla-sṛṣṭena  ====
   * created by the time factor --- [[books:sb:7:3:26-27|SB 7.3.26-27]]

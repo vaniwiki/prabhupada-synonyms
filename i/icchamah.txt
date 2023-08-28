@@ -1,5 +1,11 @@
-~~Title:icchāmaḥ~~
-{{description>all willing; desire; I wish; we desire; we wish.}}
+---json
+{
+    "name":"icchāmaḥ",
+    "h1":"icchāmaḥ",
+    "title":"icchāmaḥ",
+    "description":"all willing; desire; I wish; we desire; we wish."
+}
+---
 
 ==== icchāmaḥ  ====
   * all willing --- [[books:sb:1:12:3|SB 1.12.3]]

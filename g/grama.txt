@@ -1,5 +1,11 @@
-~~Title:grāma~~
-{{description>a village; in a village; the place; the village; to the village; village; villages.}}
+---json
+{
+    "name":"grāma",
+    "h1":"grāma",
+    "title":"grāma",
+    "description":"a village; in a village; the place; the village; to the village; village; villages."
+}
+---
 
 ==== grāma  ====
   * a village --- [[books:cc:antya:1:40|Antya 1.40]]

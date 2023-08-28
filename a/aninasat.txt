@@ -1,5 +1,11 @@
-~~Title:anīnaśat~~
-{{description>drove away or annihilated.}}
+---json
+{
+    "name":"anīnaśat",
+    "h1":"anīnaśat",
+    "title":"anīnaśat",
+    "description":"drove away or annihilated."
+}
+---
 
 ==== anīnaśat  ====
   * drove away or annihilated --- [[books:sb:9:15:15|SB 9.15.15]]

@@ -1,5 +1,11 @@
-~~Title:ahīndra~~
-{{description>of the King of serpents.}}
+---json
+{
+    "name":"ahīndra",
+    "h1":"ahīndra",
+    "title":"ahīndra",
+    "description":"of the King of serpents."
+}
+---
 
 ==== ahīndra  ====
   * of the King of serpents --- [[books:sb:8:7:14|SB 8.7.14]]

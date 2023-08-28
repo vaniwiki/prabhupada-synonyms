@@ -1,5 +1,11 @@
-~~Title:ghate~~
-{{description>in the waterpot.}}
+---json
+{
+    "name":"ghate",
+    "h1":"ghate",
+    "title":"ghate",
+    "description":"in the waterpot."
+}
+---
 
 ==== ghaṭe  ====
   * in the waterpot --- [[books:cc:adi:14:32|Ādi 14.32]]

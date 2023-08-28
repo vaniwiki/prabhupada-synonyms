@@ -1,5 +1,11 @@
-~~Title:kapola~~
-{{description>cheeks; forehead; with cheeks.}}
+---json
+{
+    "name":"kapola",
+    "h1":"kapola",
+    "title":"kapola",
+    "description":"cheeks; forehead; with cheeks."
+}
+---
 
 ==== kapola  ====
   * cheeks --- [[books:sb:8:9:18|SB 8.9.18]], [[books:sb:8:12:20|SB 8.12.20]], [[books:cc:madhya:21:123|Madhya 21.123]]

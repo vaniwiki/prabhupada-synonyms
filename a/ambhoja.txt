@@ -1,5 +1,11 @@
-~~Title:ambhoja~~
-{{description>holding a lotus flower; lotus; of lotus flowers.}}
+---json
+{
+    "name":"ambhoja",
+    "h1":"ambhoja",
+    "title":"ambhoja",
+    "description":"holding a lotus flower; lotus; of lotus flowers."
+}
+---
 
 ==== ambhoja  ====
   * holding a lotus flower --- [[books:sb:10:6:5-6|SB 10.6.5-6]]

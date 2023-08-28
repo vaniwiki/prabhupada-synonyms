@@ -1,5 +1,11 @@
-~~Title:avagamya~~
-{{description>hearing about.}}
+---json
+{
+    "name":"avagamya",
+    "h1":"avagamya",
+    "title":"avagamya",
+    "description":"hearing about."
+}
+---
 
 ==== avagamya  ====
   * hearing about --- [[books:sb:4:5:1|SB 4.5.1]]

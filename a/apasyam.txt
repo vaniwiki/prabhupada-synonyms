@@ -1,5 +1,11 @@
-~~Title:apaśyam~~
-{{description>could see; I saw; saw Him.}}
+---json
+{
+    "name":"apaśyam",
+    "h1":"apaśyam",
+    "title":"apaśyam",
+    "description":"could see; I saw; saw Him."
+}
+---
 
 ==== apaśyam  ====
   * could see --- [[books:sb:1:6:17|SB 1.6.17]]

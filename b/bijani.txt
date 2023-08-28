@@ -1,5 +1,11 @@
-~~Title:bījāni~~
-{{description>seeds; the seeds.}}
+---json
+{
+    "name":"bījāni",
+    "h1":"bījāni",
+    "title":"bījāni",
+    "description":"seeds; the seeds."
+}
+---
 
 ==== bījāni  ====
   * seeds --- [[books:sb:8:24:34-35|SB 8.24.34-35]]

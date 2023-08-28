@@ -1,5 +1,11 @@
-~~Title:stambhaiḥ~~
-{{description>with columns; with pillars.}}
+---json
+{
+    "name":"stambhaiḥ",
+    "h1":"stambhaiḥ",
+    "title":"stambhaiḥ",
+    "description":"with columns; with pillars."
+}
+---
 
 ==== stambhaiḥ  ====
   * with columns --- [[books:sb:4:9:54|SB 4.9.54]]

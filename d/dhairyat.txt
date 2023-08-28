@@ -1,5 +1,11 @@
-~~Title:dhairyāt~~
-{{description>by patience.}}
+---json
+{
+    "name":"dhairyāt",
+    "h1":"dhairyāt",
+    "title":"dhairyāt",
+    "description":"by patience."
+}
+---
 
 ==== dhairyāt  ====
   * by patience --- [[books:noi:3|NoI 3]]

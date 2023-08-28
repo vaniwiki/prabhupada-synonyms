@@ -1,5 +1,11 @@
-~~Title:ramaṇīya~~
-{{description>attractive.}}
+---json
+{
+    "name":"ramaṇīya",
+    "h1":"ramaṇīya",
+    "title":"ramaṇīya",
+    "description":"attractive."
+}
+---
 
 ==== ramaṇīya  ====
   * attractive --- [[books:sb:4:8:46|SB 4.8.46]]

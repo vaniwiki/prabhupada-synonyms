@@ -1,5 +1,11 @@
-~~Title:utthāne~~
-{{description>the Lord's rising from bed early in the morning.}}
+---json
+{
+    "name":"utthāne",
+    "h1":"utthāne",
+    "title":"utthāne",
+    "description":"the Lord's rising from bed early in the morning."
+}
+---
 
 ==== jagannātha-śayya-utthāne  ====
   * the Lord's rising from bed early in the morning --- [[books:cc:madhya:6:216|Madhya 6.216]]

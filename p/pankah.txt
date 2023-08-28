@@ -1,5 +1,11 @@
-~~Title:paṅkaḥ~~
-{{description>powder.}}
+---json
+{
+    "name":"paṅkaḥ",
+    "h1":"paṅkaḥ",
+    "title":"paṅkaḥ",
+    "description":"powder."
+}
+---
 
 ==== paṅkaḥ  ====
   * powder --- [[books:sb:5:2:11|SB 5.2.11]]

@@ -1,5 +1,11 @@
-~~Title:pravrajite~~
-{{description>departed.}}
+---json
+{
+    "name":"pravrajite",
+    "h1":"pravrajite",
+    "title":"pravrajite",
+    "description":"departed."
+}
+---
 
 ==== pravrajite  ====
   * departed --- [[books:sb:3:23:52|SB 3.23.52]]

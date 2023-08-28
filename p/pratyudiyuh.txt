@@ -1,5 +1,11 @@
-~~Title:pratyudīyuḥ~~
-{{description>came forward to greet.}}
+---json
+{
+    "name":"pratyudīyuḥ",
+    "h1":"pratyudīyuḥ",
+    "title":"pratyudīyuḥ",
+    "description":"came forward to greet."
+}
+---
 
 ==== pratyudīyuḥ  ====
   * came forward to greet --- [[books:sb:3:22:28|SB 3.22.28]]

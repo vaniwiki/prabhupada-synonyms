@@ -1,5 +1,11 @@
-~~Title:adabhra~~
-{{description>fixed; glorious; great; immense; magnanimous, without reservation; perfect; unlimited; vast.}}
+---json
+{
+    "name":"adabhra",
+    "h1":"adabhra",
+    "title":"adabhra",
+    "description":"fixed; glorious; great; immense; magnanimous, without reservation; perfect; unlimited; vast."
+}
+---
 
 ==== adabhra  ====
   * fixed --- [[books:sb:1:18:16|SB 1.18.16]]

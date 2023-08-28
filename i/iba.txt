@@ -1,5 +1,11 @@
-~~Title:iba~~
-{{description>there will be unhappiness.}}
+---json
+{
+    "name":"iba",
+    "h1":"iba",
+    "title":"iba",
+    "description":"there will be unhappiness."
+}
+---
 
 ==== duḥkha ha-iba  ====
   * there will be unhappiness --- [[books:cc:madhya:17:13|Madhya 17.13]]

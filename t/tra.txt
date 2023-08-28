@@ -1,5 +1,11 @@
-~~Title:tra~~
-{{description>O King of the mountains.}}
+---json
+{
+    "name":"tra",
+    "h1":"tra",
+    "title":"tra",
+    "description":"O King of the mountains."
+}
+---
 
 ==== giri-tra  ====
   * O King of the mountains --- [[books:sb:8:7:31|SB 8.7.31]]

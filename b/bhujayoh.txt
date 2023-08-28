@@ -1,5 +1,11 @@
-~~Title:bhujayoḥ~~
-{{description>by the arms; from His arms; the two shoulders; Your two arms.}}
+---json
+{
+    "name":"bhujayoḥ",
+    "h1":"bhujayoḥ",
+    "title":"bhujayoḥ",
+    "description":"by the arms; from His arms; the two shoulders; Your two arms."
+}
+---
 
 ==== bhujayoḥ  ====
   * by the arms --- [[books:sb:4:25:42|SB 4.25.42]]

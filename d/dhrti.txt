@@ -1,5 +1,11 @@
-~~Title:dhṛti~~
-{{description>dhṛti; determination; firmness; patience; perseverance; wearing regularly.}}
+---json
+{
+    "name":"dhṛti",
+    "h1":"dhṛti",
+    "title":"dhṛti",
+    "description":"dhṛti; determination; firmness; patience; perseverance; wearing regularly."
+}
+---
 
 ==== dhṛti  ====
   * //dhṛti// --- [[books:cc:madhya:24:180|Madhya 24.180]]

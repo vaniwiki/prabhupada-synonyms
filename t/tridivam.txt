@@ -1,5 +1,11 @@
-~~Title:tridivam~~
-{{description>the heavenly planets; the planetary system of the demigods.}}
+---json
+{
+    "name":"tridivam",
+    "h1":"tridivam",
+    "title":"tridivam",
+    "description":"the heavenly planets; the planetary system of the demigods."
+}
+---
 
 ==== tridivam  ====
   * the heavenly planets --- [[books:sb:9:4:51|SB 9.4.51]]

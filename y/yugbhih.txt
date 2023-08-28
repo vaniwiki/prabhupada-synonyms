@@ -1,5 +1,11 @@
-~~Title:yugbhiḥ~~
-{{description>who are engaged at the time.}}
+---json
+{
+    "name":"yugbhiḥ",
+    "h1":"yugbhiḥ",
+    "title":"yugbhiḥ",
+    "description":"who are engaged at the time."
+}
+---
 
 ==== samakāla-yugbhiḥ  ====
   * who are engaged at the time --- [[books:sb:5:23:1|SB 5.23.1]]

@@ -1,5 +1,11 @@
-~~Title:śyāmau~~
-{{description>blackish.}}
+---json
+{
+    "name":"śyāmau",
+    "h1":"śyāmau",
+    "title":"śyāmau",
+    "description":"blackish."
+}
+---
 
 ==== śyāmau  ====
   * blackish --- [[books:sb:4:12:20|SB 4.12.20]]

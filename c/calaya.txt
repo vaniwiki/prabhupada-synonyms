@@ -1,5 +1,11 @@
-~~Title:calaya~~
-{{description>move.}}
+---json
+{
+    "name":"calaya",
+    "h1":"calaya",
+    "title":"calaya",
+    "description":"move."
+}
+---
 
 ==== calaya  ====
   * move --- [[books:cc:madhya:13:107|Madhya 13.107]]

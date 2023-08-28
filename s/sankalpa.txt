@@ -1,5 +1,11 @@
-~~Title:sankalpa~~
-{{description>by determination; desires; determination; he decided; lusty desires; material desires; of his determination; thoughts.}}
+---json
+{
+    "name":"sankalpa",
+    "h1":"sankalpa",
+    "title":"sankalpa",
+    "description":"by determination; desires; determination; he decided; lusty desires; material desires; of his determination; thoughts."
+}
+---
 
 ==== saṅkalpa  ====
   * by determination --- [[books:sb:5:14:2|SB 5.14.2]]

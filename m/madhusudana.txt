@@ -1,5 +1,11 @@
-~~Title:madhusūdana~~
-{{description>Lord Madhusūdana; O killer of Madhu; O killer of the demon Madhu (Kṛṣṇa); O killer of the demon Madhu; O Madhusūdana.}}
+---json
+{
+    "name":"madhusūdana",
+    "h1":"madhusūdana",
+    "title":"madhusūdana",
+    "description":"Lord Madhusūdana; O killer of Madhu; O killer of the demon Madhu (Kṛṣṇa); O killer of the demon Madhu; O Madhusūdana."
+}
+---
 
 ==== madhusūdana  ====
   * Lord Madhusūdana --- [[books:cc:madhya:20:229|Madhya 20.229]]

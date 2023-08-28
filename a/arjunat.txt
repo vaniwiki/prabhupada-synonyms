@@ -1,5 +1,11 @@
-~~Title:arjunāt~~
-{{description>from Arjuna.}}
+---json
+{
+    "name":"arjunāt",
+    "h1":"arjunāt",
+    "title":"arjunāt",
+    "description":"from Arjuna."
+}
+---
 
 ==== arjunāt  ====
   * from Arjuna --- [[books:sb:9:22:29|SB 9.22.29]]

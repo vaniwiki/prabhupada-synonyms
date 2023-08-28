@@ -1,5 +1,11 @@
-~~Title:jānīyām~~
-{{description>may it be known.}}
+---json
+{
+    "name":"jānīyām",
+    "h1":"jānīyām",
+    "title":"jānīyām",
+    "description":"may it be known."
+}
+---
 
 ==== jānīyām  ====
   * may it be known --- [[books:sb:2:9:26|SB 2.9.26]]

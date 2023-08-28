@@ -1,5 +1,11 @@
-~~Title:varje~~
-{{description>rejects.}}
+---json
+{
+    "name":"varje",
+    "h1":"varje",
+    "title":"varje",
+    "description":"rejects."
+}
+---
 
 ==== varje  ====
   * rejects --- [[books:cc:madhya:6:150|Madhya 6.150]]

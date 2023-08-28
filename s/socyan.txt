@@ -1,5 +1,11 @@
-~~Title:śocyān~~
-{{description>abominable; lamentable; of the pitiable.}}
+---json
+{
+    "name":"śocyān",
+    "h1":"śocyān",
+    "title":"śocyān",
+    "description":"abominable; lamentable; of the pitiable."
+}
+---
 
 ==== śocyān  ====
   * abominable --- [[books:sb:4:21:30|SB 4.21.30]]

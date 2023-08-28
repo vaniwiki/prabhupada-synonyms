@@ -1,5 +1,11 @@
-~~Title:anunirjagmuḥ~~
-{{description>left home by following the elder.}}
+---json
+{
+    "name":"anunirjagmuḥ",
+    "h1":"anunirjagmuḥ",
+    "title":"anunirjagmuḥ",
+    "description":"left home by following the elder."
+}
+---
 
 ==== anunirjagmuḥ  ====
   * left home by following the elder --- [[books:sb:1:15:45|SB 1.15.45]]

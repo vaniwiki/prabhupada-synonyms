@@ -1,5 +1,11 @@
-~~Title:payodhim~~
-{{description>the ocean of milk.}}
+---json
+{
+    "name":"payodhim",
+    "h1":"payodhim",
+    "title":"payodhim",
+    "description":"the ocean of milk."
+}
+---
 
 ==== payodhim  ====
   * the ocean of milk --- [[books:sb:8:5:10|SB 8.5.10]]

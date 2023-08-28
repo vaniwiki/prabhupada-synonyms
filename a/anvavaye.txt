@@ -1,5 +1,11 @@
-~~Title:anvavāye~~
-{{description>in the family; in the family of.}}
+---json
+{
+    "name":"anvavāye",
+    "h1":"anvavāye",
+    "title":"anvavāye",
+    "description":"in the family; in the family of."
+}
+---
 
 ==== anvavāye  ====
   * in the family --- [[books:sb:4:13:2|SB 4.13.2]]

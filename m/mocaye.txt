@@ -1,5 +1,11 @@
-~~Title:mocaye~~
-{{description>I am releasing her from imminent danger; I shall disentangle.}}
+---json
+{
+    "name":"mocaye",
+    "h1":"mocaye",
+    "title":"mocaye",
+    "description":"I am releasing her from imminent danger; I shall disentangle."
+}
+---
 
 ==== mocaye  ====
   * I am releasing her from imminent danger --- [[books:sb:10:1:49-50|SB 10.1.49-50]]

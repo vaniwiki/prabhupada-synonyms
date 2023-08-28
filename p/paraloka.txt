@@ -1,5 +1,11 @@
-~~Title:paraloka~~
-{{description>death.}}
+---json
+{
+    "name":"paraloka",
+    "h1":"paraloka",
+    "title":"paraloka",
+    "description":"death."
+}
+---
 
 ==== paraloka  ====
   * death --- [[books:cc:adi:17:228|Ādi 17.228]]

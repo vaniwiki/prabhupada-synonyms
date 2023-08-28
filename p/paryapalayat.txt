@@ -1,5 +1,11 @@
-~~Title:paryapālayat~~
-{{description>ruled.}}
+---json
+{
+    "name":"paryapālayat",
+    "h1":"paryapālayat",
+    "title":"paryapālayat",
+    "description":"ruled."
+}
+---
 
 ==== paryapālayat  ====
   * ruled --- [[books:sb:5:7:4|SB 5.7.4]]

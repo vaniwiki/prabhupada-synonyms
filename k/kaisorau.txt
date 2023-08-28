@@ -1,5 +1,11 @@
-~~Title:kaiśorau~~
-{{description>new youth.}}
+---json
+{
+    "name":"kaiśorau",
+    "h1":"kaiśorau",
+    "title":"kaiśorau",
+    "description":"new youth."
+}
+---
 
 ==== kaiśorau  ====
   * new youth --- [[books:sb:4:25:24|SB 4.25.24]]

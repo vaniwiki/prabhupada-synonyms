@@ -1,5 +1,11 @@
-~~Title:samavaruddha~~
-{{description>possessing.}}
+---json
+{
+    "name":"samavaruddha",
+    "h1":"samavaruddha",
+    "title":"samavaruddha",
+    "description":"possessing."
+}
+---
 
 ==== samavaruddha  ====
   * possessing --- [[books:cc:madhya:15:180|Madhya 15.180]]

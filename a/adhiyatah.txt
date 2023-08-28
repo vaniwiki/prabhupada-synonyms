@@ -1,5 +1,11 @@
-~~Title:adhīyataḥ~~
-{{description>by cultivation.}}
+---json
+{
+    "name":"adhīyataḥ",
+    "h1":"adhīyataḥ",
+    "title":"adhīyataḥ",
+    "description":"by cultivation."
+}
+---
 
 ==== adhīyataḥ  ====
   * by cultivation --- [[books:sb:4:29:38|SB 4.29.38]]

@@ -1,5 +1,11 @@
-~~Title:putraiḥ~~
-{{description>along with sons; with your sons.}}
+---json
+{
+    "name":"putraiḥ",
+    "h1":"putraiḥ",
+    "title":"putraiḥ",
+    "description":"along with sons; with your sons."
+}
+---
 
 ==== putraiḥ  ====
   * along with sons --- [[books:sb:3:7:24|SB 3.7.24]]

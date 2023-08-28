@@ -1,5 +1,11 @@
-~~Title:chuṭi'~~
-{{description>getting free; getting released.}}
+---json
+{
+    "name":"chuṭi'",
+    "h1":"chuṭi'",
+    "title":"chuṭi'",
+    "description":"getting free; getting released."
+}
+---
 
 ==== chuṭi'  ====
   * getting free --- [[books:cc:madhya:19:33|Madhya 19.33]]

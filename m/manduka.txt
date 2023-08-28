@@ -1,5 +1,11 @@
-~~Title:maṇḍūka~~
-{{description>like the croaking sound of frogs in the water.}}
+---json
+{
+    "name":"maṇḍūka",
+    "h1":"maṇḍūka",
+    "title":"maṇḍūka",
+    "description":"like the croaking sound of frogs in the water."
+}
+---
 
 ==== jala-maṇḍūka-vādye  ====
   * like the croaking sound of frogs in the water --- [[books:cc:madhya:14:77|Madhya 14.77]]

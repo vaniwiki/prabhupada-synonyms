@@ -1,5 +1,11 @@
-~~Title:antar~~
-{{description>within the universe.}}
+---json
+{
+    "name":"antar",
+    "h1":"antar",
+    "title":"antar",
+    "description":"within the universe."
+}
+---
 
 ==== antar  ====
   * within the universe --- [[books:sb:2:7:1|SB 2.7.1]]

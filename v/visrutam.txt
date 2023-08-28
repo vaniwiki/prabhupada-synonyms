@@ -1,5 +1,11 @@
-~~Title:visrutam~~
-{{description>have heard also; known.}}
+---json
+{
+    "name":"visrutam",
+    "h1":"visrutam",
+    "title":"visrutam",
+    "description":"have heard also; known."
+}
+---
 
 ==== viśrutam  ====
   * have heard also --- [[books:sb:1:5:40|SB 1.5.40]]

@@ -1,5 +1,11 @@
-~~Title:tulasyā~~
-{{description>by the tulasī leaves; with a wreath of tulasī leaves.}}
+---json
+{
+    "name":"tulasyā",
+    "h1":"tulasyā",
+    "title":"tulasyā",
+    "description":"by the tulasī leaves; with a wreath of tulasī leaves."
+}
+---
 
 ==== tulasyā  ====
   * by the //tulasī// leaves --- [[books:sb:4:8:55|SB 4.8.55]]

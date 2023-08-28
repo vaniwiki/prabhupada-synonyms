@@ -1,5 +1,11 @@
-~~Title:aparasya~~
-{{description>of one who was born later.}}
+---json
+{
+    "name":"aparasya",
+    "h1":"aparasya",
+    "title":"aparasya",
+    "description":"of one who was born later."
+}
+---
 
 ==== aparasya  ====
   * of one who was born later --- [[books:sb:6:14:54|SB 6.14.54]]

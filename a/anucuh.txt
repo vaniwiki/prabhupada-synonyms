@@ -1,5 +1,11 @@
-~~Title:anūcuḥ~~
-{{description>have studied.}}
+---json
+{
+    "name":"anūcuḥ",
+    "h1":"anūcuḥ",
+    "title":"anūcuḥ",
+    "description":"have studied."
+}
+---
 
 ==== anūcuḥ  ====
   * have studied --- [[books:cc:madhya:11:192|Madhya 11.192]], [[books:cc:madhya:19:72|Madhya 19.72]], [[books:cc:antya:16:27|Antya 16.27]]

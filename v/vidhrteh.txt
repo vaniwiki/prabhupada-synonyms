@@ -1,5 +1,11 @@
-~~Title:vidhṛteḥ~~
-{{description>of Vidhṛti.}}
+---json
+{
+    "name":"vidhṛteḥ",
+    "h1":"vidhṛteḥ",
+    "title":"vidhṛteḥ",
+    "description":"of Vidhṛti."
+}
+---
 
 ==== vidhṛteḥ  ====
   * of Vidhṛti --- [[books:sb:8:1:29|SB 8.1.29]]

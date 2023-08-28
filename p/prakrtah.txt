@@ -1,5 +1,11 @@
-~~Title:prakrtah~~
-{{description>a person conditioned by material nature; like an ordinary human being; material; materialistic; mundane.}}
+---json
+{
+    "name":"prakrtah",
+    "h1":"prakrtah",
+    "title":"prakrtah",
+    "description":"a person conditioned by material nature; like an ordinary human being; material; materialistic; mundane."
+}
+---
 
 ==== prākṛtaḥ  ====
   * a person conditioned by material nature --- [[books:sb:6:17:7|SB 6.17.7]]

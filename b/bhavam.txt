@@ -1,5 +1,11 @@
-~~Title:bhavam~~
-{{description>existence; Lord Śiva; repetition of birth and death; to Bhava; to Lord Śiva.}}
+---json
+{
+    "name":"bhavam",
+    "h1":"bhavam",
+    "title":"bhavam",
+    "description":"existence; Lord Śiva; repetition of birth and death; to Bhava; to Lord Śiva."
+}
+---
 
 ==== bhavam  ====
   * existence --- [[books:sb:4:19:38|SB 4.19.38]]

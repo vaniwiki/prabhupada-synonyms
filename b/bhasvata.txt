@@ -1,5 +1,11 @@
-~~Title:bhāsvatā~~
-{{description>glowing; shining brilliantly.}}
+---json
+{
+    "name":"bhāsvatā",
+    "h1":"bhāsvatā",
+    "title":"bhāsvatā",
+    "description":"glowing; shining brilliantly."
+}
+---
 
 ==== bhāsvatā  ====
   * glowing --- [[books:bg:10:11|Bg. 10.11]]

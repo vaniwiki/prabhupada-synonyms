@@ -1,5 +1,11 @@
-~~Title:rudrāṇīm~~
-{{description>unto his wife, Pārvatī.}}
+---json
+{
+    "name":"rudrāṇīm",
+    "h1":"rudrāṇīm",
+    "title":"rudrāṇīm",
+    "description":"unto his wife, Pārvatī."
+}
+---
 
 ==== rudrāṇīm  ====
   * unto his wife, Pārvatī --- [[books:sb:6:17:26|SB 6.17.26]]

@@ -1,5 +1,11 @@
-~~Title:udyamya~~
-{{description>after taking up; carrying; firmly taking up; keeping high; raising; taking firmly; taking up.}}
+---json
+{
+    "name":"udyamya",
+    "h1":"udyamya",
+    "title":"udyamya",
+    "description":"after taking up; carrying; firmly taking up; keeping high; raising; taking firmly; taking up."
+}
+---
 
 ==== udyamya  ====
   * after taking up --- [[books:bg:1:20|Bg. 1.20]]

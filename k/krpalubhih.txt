@@ -1,5 +1,11 @@
-~~Title:kṛpālubhiḥ~~
-{{description>by the merciful sages (Sanandana, etc.).}}
+---json
+{
+    "name":"kṛpālubhiḥ",
+    "h1":"kṛpālubhiḥ",
+    "title":"kṛpālubhiḥ",
+    "description":"by the merciful sages (Sanandana, etc.)."
+}
+---
 
 ==== kṛpālubhiḥ  ====
   * by the merciful sages (Sanandana, etc.) --- [[books:sb:7:1:39|SB 7.1.39]]

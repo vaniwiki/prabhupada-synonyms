@@ -1,5 +1,11 @@
-~~Title:dravyam~~
-{{description>elements; ingredients; physical elements; the five elements; the five elements of the material world; the ingredients (earth, water, fire, air and sky); thing.}}
+---json
+{
+    "name":"dravyam",
+    "h1":"dravyam",
+    "title":"dravyam",
+    "description":"elements; ingredients; physical elements; the five elements; the five elements of the material world; the ingredients (earth, water, fire, air and sky); thing."
+}
+---
 
 ==== dravyam  ====
   * elements --- [[books:sb:2:6:42|SB 2.6.42]]

@@ -1,5 +1,11 @@
-~~Title:pitāre~~
-{{description>unto his father.}}
+---json
+{
+    "name":"pitāre",
+    "h1":"pitāre",
+    "title":"pitāre",
+    "description":"unto his father."
+}
+---
 
 ==== pitāre  ====
   * unto his father --- [[books:cc:madhya:16:231|Madhya 16.231]]

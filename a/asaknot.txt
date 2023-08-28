@@ -1,5 +1,11 @@
-~~Title:aśaknot~~
-{{description>be able; was able; was successful.}}
+---json
+{
+    "name":"aśaknot",
+    "h1":"aśaknot",
+    "title":"aśaknot",
+    "description":"be able; was able; was successful."
+}
+---
 
 ==== aśaknot  ====
   * be able --- [[books:sb:1:15:2|SB 1.15.2]]

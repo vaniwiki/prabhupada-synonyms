@@ -1,5 +1,11 @@
-~~Title:kāmanā~~
-{{description>desires.}}
+---json
+{
+    "name":"kāmanā",
+    "h1":"kāmanā",
+    "title":"kāmanā",
+    "description":"desires."
+}
+---
 
 ==== kāmanā  ====
   * desires --- [[books:cc:madhya:24:99|Madhya 24.99]]

@@ -1,5 +1,11 @@
-~~Title:abhīṣūn~~
-{{description>the reins.}}
+---json
+{
+    "name":"abhīṣūn",
+    "h1":"abhīṣūn",
+    "title":"abhīṣūn",
+    "description":"the reins."
+}
+---
 
 ==== abhīṣūn  ====
   * the reins --- [[books:sb:7:15:41|SB 7.15.41]]

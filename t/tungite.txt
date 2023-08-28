@@ -1,5 +1,11 @@
-~~Title:ṭuṅgite~~
-{{description>on a high platform.}}
+---json
+{
+    "name":"ṭuṅgite",
+    "h1":"ṭuṅgite",
+    "title":"ṭuṅgite",
+    "description":"on a high platform."
+}
+---
 
 ==== ucca-ṭuṅgite  ====
   * on a high platform --- [[books:cc:madhya:15:121|Madhya 15.121]]

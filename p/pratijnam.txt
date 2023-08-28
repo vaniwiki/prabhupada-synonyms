@@ -1,5 +1,11 @@
-~~Title:pratijñām~~
-{{description>promised word.}}
+---json
+{
+    "name":"pratijñām",
+    "h1":"pratijñām",
+    "title":"pratijñām",
+    "description":"promised word."
+}
+---
 
 ==== pratijñām  ====
   * promised word --- [[books:sb:3:18:12|SB 3.18.12]]

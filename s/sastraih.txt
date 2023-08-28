@@ -1,5 +1,11 @@
-~~Title:sastraih~~
-{{description>by regular weapons; with weapons.}}
+---json
+{
+    "name":"sastraih",
+    "h1":"sastraih",
+    "title":"sastraih",
+    "description":"by regular weapons; with weapons."
+}
+---
 
 ==== śastraiḥ  ====
   * by regular weapons --- [[books:sb:8:10:4|SB 8.10.4]]

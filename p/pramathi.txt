@@ -1,5 +1,11 @@
-~~Title:pramāthi~~
-{{description>agitating.}}
+---json
+{
+    "name":"pramāthi",
+    "h1":"pramāthi",
+    "title":"pramāthi",
+    "description":"agitating."
+}
+---
 
 ==== pramāthi  ====
   * agitating --- [[books:bg:6:34|Bg. 6.34]]

@@ -1,5 +1,11 @@
-~~Title:tyajet~~
-{{description>fear; gives up; must give up; one may give up; one should give up; should give up; to be given up; would give up.}}
+---json
+{
+    "name":"tyajet",
+    "h1":"tyajet",
+    "title":"tyajet",
+    "description":"fear; gives up; must give up; one may give up; one should give up; should give up; to be given up; would give up."
+}
+---
 
 ==== tyajet  ====
   * fear --- [[books:bg:18:8|Bg. 18.8]]

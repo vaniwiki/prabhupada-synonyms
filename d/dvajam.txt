@@ -1,5 +1,11 @@
-~~Title:dvājam~~
-{{description>although born by an illicit connection between two.}}
+---json
+{
+    "name":"dvājam",
+    "h1":"dvājam",
+    "title":"dvājam",
+    "description":"although born by an illicit connection between two."
+}
+---
 
 ==== dvājam  ====
   * although born by an illicit connection between two --- [[books:sb:9:20:38|SB 9.20.38]]

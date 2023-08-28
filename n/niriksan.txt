@@ -1,5 +1,11 @@
-~~Title:nirīkṣan~~
-{{description>looking at them; looking over.}}
+---json
+{
+    "name":"nirīkṣan",
+    "h1":"nirīkṣan",
+    "title":"nirīkṣan",
+    "description":"looking at them; looking over."
+}
+---
 
 ==== nirīkṣan  ====
   * looking at them --- [[books:sb:8:9:8|SB 8.9.8]]

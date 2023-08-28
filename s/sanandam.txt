@@ -1,5 +1,11 @@
-~~Title:sanandam~~
-{{description>Sananda.}}
+---json
+{
+    "name":"sanandam",
+    "h1":"sanandam",
+    "title":"sanandam",
+    "description":"Sananda."
+}
+---
 
 ==== sanandam  ====
   * Sananda --- [[books:sb:3:12:4|SB 3.12.4]]

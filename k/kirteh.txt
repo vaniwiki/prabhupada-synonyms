@@ -1,5 +1,11 @@
-~~Title:kīrteḥ~~
-{{description>of glorious.}}
+---json
+{
+    "name":"kīrteḥ",
+    "h1":"kīrteḥ",
+    "title":"kīrteḥ",
+    "description":"of glorious."
+}
+---
 
 ==== kīrteḥ  ====
   * of glorious --- [[books:sb:3:5:15|SB 3.5.15]]

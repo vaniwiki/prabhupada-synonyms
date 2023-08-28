@@ -1,5 +1,11 @@
-~~Title:gāyatām~~
-{{description>singing.}}
+---json
+{
+    "name":"gāyatām",
+    "h1":"gāyatām",
+    "title":"gāyatām",
+    "description":"singing."
+}
+---
 
 ==== gāyatām  ====
   * singing --- [[books:sb:8:8:26|SB 8.8.26]]

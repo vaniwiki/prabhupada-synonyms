@@ -1,5 +1,11 @@
-~~Title:vadāmi~~
-{{description>I am speaking; I say; I shall explain.}}
+---json
+{
+    "name":"vadāmi",
+    "h1":"vadāmi",
+    "title":"vadāmi",
+    "description":"I am speaking; I say; I shall explain."
+}
+---
 
 ==== vadāmi  ====
   * I am speaking --- [[books:sb:4:24:31|SB 4.24.31]]

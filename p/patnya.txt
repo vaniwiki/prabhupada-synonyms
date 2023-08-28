@@ -1,5 +1,11 @@
-~~Title:patnyā~~
-{{description>along with his wife; by his wife; wife.}}
+---json
+{
+    "name":"patnyā",
+    "h1":"patnyā",
+    "title":"patnyā",
+    "description":"along with his wife; by his wife; wife."
+}
+---
 
 ==== patnyā  ====
   * along with his wife --- [[books:sb:4:15:13|SB 4.15.13]]

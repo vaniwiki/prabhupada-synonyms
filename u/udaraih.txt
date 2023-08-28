@@ -1,5 +1,11 @@
-~~Title:udāraiḥ~~
-{{description>magnanimous.}}
+---json
+{
+    "name":"udāraiḥ",
+    "h1":"udāraiḥ",
+    "title":"udāraiḥ",
+    "description":"magnanimous."
+}
+---
 
 ==== udāraiḥ  ====
   * magnanimous --- [[books:sb:9:24:63-64|SB 9.24.63-64]]

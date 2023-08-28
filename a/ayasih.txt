@@ -1,5 +1,11 @@
-~~Title:āyasīḥ~~
-{{description>made of iron.}}
+---json
+{
+    "name":"āyasīḥ",
+    "h1":"āyasīḥ",
+    "title":"āyasīḥ",
+    "description":"made of iron."
+}
+---
 
 ==== āyasīḥ  ====
   * made of iron --- [[books:sb:7:10:54-55|SB 7.10.54-55]]

@@ -1,5 +1,11 @@
-~~Title:sandadhe~~
-{{description>acted on; amalgamated; chanted the hymns; concluded peace; fixed; joined; she joined.}}
+---json
+{
+    "name":"sandadhe",
+    "h1":"sandadhe",
+    "title":"sandadhe",
+    "description":"acted on; amalgamated; chanted the hymns; concluded peace; fixed; joined; she joined."
+}
+---
 
 ==== sandadhe  ====
   * acted on --- [[books:sb:1:7:29|SB 1.7.29]]

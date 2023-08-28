@@ -1,5 +1,11 @@
-~~Title:upādadāti~~
-{{description>accepts.}}
+---json
+{
+    "name":"upādadāti",
+    "h1":"upādadāti",
+    "title":"upādadāti",
+    "description":"accepts."
+}
+---
 
 ==== upādadāti  ====
   * accepts --- [[books:sb:6:9:35|SB 6.9.35]]

@@ -1,5 +1,11 @@
-~~Title:eimate~~
-{{description>in this way.}}
+---json
+{
+    "name":"eimate",
+    "h1":"eimate",
+    "title":"eimate",
+    "description":"in this way."
+}
+---
 
 ==== eimate  ====
   * in this way --- [[books:cc:adi:14:36|Ādi 14.36]]

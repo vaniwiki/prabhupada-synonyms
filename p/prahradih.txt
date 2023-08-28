@@ -1,5 +1,11 @@
-~~Title:prāhrādiḥ~~
-{{description>I who am famous as the grandson of Mahārāja Prahlāda; the son of Prahlāda.}}
+---json
+{
+    "name":"prāhrādiḥ",
+    "h1":"prāhrādiḥ",
+    "title":"prāhrādiḥ",
+    "description":"I who am famous as the grandson of Mahārāja Prahlāda; the son of Prahlāda."
+}
+---
 
 ==== prāhrādiḥ  ====
   * I who am famous as the grandson of Mahārāja Prahlāda --- [[books:sb:8:20:3|SB 8.20.3]]

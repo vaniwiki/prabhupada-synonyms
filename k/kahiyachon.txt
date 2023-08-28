@@ -1,5 +1,11 @@
-~~Title:kahiyāchoṅ~~
-{{description>mentioned.}}
+---json
+{
+    "name":"kahiyāchoṅ",
+    "h1":"kahiyāchoṅ",
+    "title":"kahiyāchoṅ",
+    "description":"mentioned."
+}
+---
 
 ==== kahiyāchoṅ  ====
   * mentioned --- [[books:cc:madhya:15:194|Madhya 15.194]]

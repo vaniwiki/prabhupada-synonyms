@@ -1,5 +1,11 @@
-~~Title:kuryuḥ~~
-{{description>have established.}}
+---json
+{
+    "name":"kuryuḥ",
+    "h1":"kuryuḥ",
+    "title":"kuryuḥ",
+    "description":"have established."
+}
+---
 
 ==== kuryuḥ  ====
   * have established --- [[books:sb:8:22:20|SB 8.22.20]]

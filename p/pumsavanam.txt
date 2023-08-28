@@ -1,5 +1,11 @@
-~~Title:puṁsavanam~~
-{{description>called puṁsavana; which was to cause the birth of a child.}}
+---json
+{
+    "name":"puṁsavanam",
+    "h1":"puṁsavanam",
+    "title":"puṁsavanam",
+    "description":"called puṁsavana; which was to cause the birth of a child."
+}
+---
 
 ==== puṁsavanam  ====
   * called //puṁsavana// --- [[books:sb:6:18:54|SB 6.18.54]], [[books:sb:6:19:1|SB 6.19.1]]

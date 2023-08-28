@@ -1,5 +1,11 @@
-~~Title:saṁvṛścya~~
-{{description>cutting; cutting off.}}
+---json
+{
+    "name":"saṁvṛścya",
+    "h1":"saṁvṛścya",
+    "title":"saṁvṛścya",
+    "description":"cutting; cutting off."
+}
+---
 
 ==== saṁvṛścya  ====
   * cutting --- [[books:cc:adi:4:180|Ādi 4.180]], [[books:cc:antya:7:44|Antya 7.44]]

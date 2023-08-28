@@ -1,5 +1,11 @@
-~~Title:parīkṣeta~~
-{{description>shall examine.}}
+---json
+{
+    "name":"parīkṣeta",
+    "h1":"parīkṣeta",
+    "title":"parīkṣeta",
+    "description":"shall examine."
+}
+---
 
 ==== parīkṣeta  ====
   * shall examine --- [[books:sb:1:12:30|SB 1.12.30]]

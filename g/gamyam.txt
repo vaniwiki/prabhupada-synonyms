@@ -1,5 +1,11 @@
-~~Title:gamyam~~
-{{description>obtainable (bhaktyā mām abhijānāti); they can understand; to be passed over.}}
+---json
+{
+    "name":"gamyam",
+    "h1":"gamyam",
+    "title":"gamyam",
+    "description":"obtainable (bhaktyā mām abhijānāti); they can understand; to be passed over."
+}
+---
 
 ==== gamyam  ====
   * obtainable (//bhaktyā mām abhijānāti//) --- [[books:sb:8:3:20-21|SB 8.3.20-21]]

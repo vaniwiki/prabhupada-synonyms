@@ -1,5 +1,11 @@
-~~Title:vikalpitam~~
-{{description>speculated or doubtful.}}
+---json
+{
+    "name":"vikalpitam",
+    "h1":"vikalpitam",
+    "title":"vikalpitam",
+    "description":"speculated or doubtful."
+}
+---
 
 ==== vikalpitam  ====
   * speculated or doubtful --- [[books:sb:7:15:58|SB 7.15.58]]

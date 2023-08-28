@@ -1,5 +1,11 @@
-~~Title:anvīkṣya~~
-{{description>observing; scrutinizingly examined.}}
+---json
+{
+    "name":"anvīkṣya",
+    "h1":"anvīkṣya",
+    "title":"anvīkṣya",
+    "description":"observing; scrutinizingly examined."
+}
+---
 
 ==== anvīkṣya  ====
   * observing --- [[books:sb:3:9:27-28|SB 3.9.27-28]]

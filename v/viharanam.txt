@@ -1,5 +1,11 @@
-~~Title:vihārāṇām~~
-{{description>whose business is to commit violence against others.}}
+---json
+{
+    "name":"vihārāṇām",
+    "h1":"vihārāṇām",
+    "title":"vihārāṇām",
+    "description":"whose business is to commit violence against others."
+}
+---
 
 ==== hiṁsā-vihārāṇām  ====
   * whose business is to commit violence against others --- [[books:sb:5:9:17|SB 5.9.17]]

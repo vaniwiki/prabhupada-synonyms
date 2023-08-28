@@ -1,5 +1,11 @@
-~~Title:huna~~
-{{description>the Hūnas; uncivilized hill tribes.}}
+---json
+{
+    "name":"huna",
+    "h1":"huna",
+    "title":"huna",
+    "description":"the Hūnas; uncivilized hill tribes."
+}
+---
 
 ==== hūna  ====
   * the Hūnas --- [[books:cc:madhya:24:179|Madhya 24.179]], [[books:cc:madhya:24:209|Madhya 24.209]]

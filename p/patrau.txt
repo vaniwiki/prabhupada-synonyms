@@ -1,5 +1,11 @@
-~~Title:patrau~~
-{{description>having feathers like the petals of a lotus flower.}}
+---json
+{
+    "name":"patrau",
+    "h1":"patrau",
+    "title":"patrau",
+    "description":"having feathers like the petals of a lotus flower."
+}
+---
 
 ==== śata-patra-patrau  ====
   * having feathers like the petals of a lotus flower --- [[books:sb:5:2:8|SB 5.2.8]]

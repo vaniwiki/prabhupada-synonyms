@@ -1,5 +1,11 @@
-~~Title:bhasaila~~
-{{description>inundated; overflooded; was inundated.}}
+---json
+{
+    "name":"bhasaila",
+    "h1":"bhasaila",
+    "title":"bhasaila",
+    "description":"inundated; overflooded; was inundated."
+}
+---
 
 ==== bhāsāila  ====
   * inundated --- [[books:cc:adi:10:161|Ādi 10.161]], [[books:cc:adi:13:32|Ādi 13.32]], [[books:cc:madhya:13:68|Madhya 13.68]], [[books:cc:madhya:14:232|Madhya 14.232]]

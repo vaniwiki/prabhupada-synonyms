@@ -1,5 +1,11 @@
-~~Title:yajurbhiḥ~~
-{{description>Vedic hymns.}}
+---json
+{
+    "name":"yajurbhiḥ",
+    "h1":"yajurbhiḥ",
+    "title":"yajurbhiḥ",
+    "description":"Vedic hymns."
+}
+---
 
 ==== yajurbhiḥ  ====
   * Vedic hymns --- [[books:sb:4:7:41|SB 4.7.41]]

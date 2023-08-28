@@ -1,5 +1,11 @@
-~~Title:suniścaya~~
-{{description>certain.}}
+---json
+{
+    "name":"suniścaya",
+    "h1":"suniścaya",
+    "title":"suniścaya",
+    "description":"certain."
+}
+---
 
 ==== suniścaya  ====
   * certain --- [[books:cc:antya:3:199|Antya 3.199]]

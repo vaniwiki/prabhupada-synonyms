@@ -1,5 +1,11 @@
-~~Title:janāt~~
-{{description>from a person; from ordinary common people; from the people in general.}}
+---json
+{
+    "name":"janāt",
+    "h1":"janāt",
+    "title":"janāt",
+    "description":"from a person; from ordinary common people; from the people in general."
+}
+---
 
 ==== janāt  ====
   * from a person --- [[books:sb:7:9:11|SB 7.9.11]]

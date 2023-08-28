@@ -1,5 +1,11 @@
-~~Title:mṛtyum~~
-{{description>birth and death; death; of death; repeated death; the path of death.}}
+---json
+{
+    "name":"mṛtyum",
+    "h1":"mṛtyum",
+    "title":"mṛtyum",
+    "description":"birth and death; death; of death; repeated death; the path of death."
+}
+---
 
 ==== mṛtyum  ====
   * birth and death --- [[books:sb:3:16:19|SB 3.16.19]]

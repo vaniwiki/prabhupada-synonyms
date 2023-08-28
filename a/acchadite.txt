@@ -1,5 +1,11 @@
-~~Title:ācchādite~~
-{{description>to cover.}}
+---json
+{
+    "name":"ācchādite",
+    "h1":"ācchādite",
+    "title":"ācchādite",
+    "description":"to cover."
+}
+---
 
 ==== ācchādite  ====
   * to cover --- [[books:cc:madhya:8:130-131|Madhya 8.130-131]], [[books:cc:antya:3:91|Antya 3.91]]

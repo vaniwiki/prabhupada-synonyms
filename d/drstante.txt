@@ -1,5 +1,11 @@
-~~Title:dṛṣṭānte~~
-{{description>by this example.}}
+---json
+{
+    "name":"dṛṣṭānte",
+    "h1":"dṛṣṭānte",
+    "title":"dṛṣṭānte",
+    "description":"by this example."
+}
+---
 
 ==== ei dṛṣṭānte  ====
   * by this example --- [[books:cc:antya:20:90-91|Antya 20.90-91]]

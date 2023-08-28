@@ -1,5 +1,11 @@
-~~Title:cāndapure~~
-{{description>in the village known as Cāndapura.}}
+---json
+{
+    "name":"cāndapure",
+    "h1":"cāndapure",
+    "title":"cāndapure",
+    "description":"in the village known as Cāndapura."
+}
+---
 
 ==== cāndapure  ====
   * in the village known as Cāndapura --- [[books:cc:antya:3:165|Antya 3.165]]

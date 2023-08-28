@@ -1,5 +1,11 @@
-~~Title:pratiyotsyāmi~~
-{{description>shall counterattack.}}
+---json
+{
+    "name":"pratiyotsyāmi",
+    "h1":"pratiyotsyāmi",
+    "title":"pratiyotsyāmi",
+    "description":"shall counterattack."
+}
+---
 
 ==== pratiyotsyāmi  ====
   * shall counterattack --- [[books:bg:2:4|Bg. 2.4]]

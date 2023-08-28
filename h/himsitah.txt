@@ -1,5 +1,11 @@
-~~Title:hiṁsitāḥ~~
-{{description>have been killed; killed out of envy.}}
+---json
+{
+    "name":"hiṁsitāḥ",
+    "h1":"hiṁsitāḥ",
+    "title":"hiṁsitāḥ",
+    "description":"have been killed; killed out of envy."
+}
+---
 
 ==== hiṁsitāḥ  ====
   * have been killed --- [[books:sb:10:4:15|SB 10.4.15]]

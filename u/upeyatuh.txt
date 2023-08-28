@@ -1,5 +1,11 @@
-~~Title:upeyatuḥ~~
-{{description>immediately returned.}}
+---json
+{
+    "name":"upeyatuḥ",
+    "h1":"upeyatuḥ",
+    "title":"upeyatuḥ",
+    "description":"immediately returned."
+}
+---
 
 ==== upeyatuḥ  ====
   * immediately returned --- [[books:sb:10:8:22|SB 10.8.22]]

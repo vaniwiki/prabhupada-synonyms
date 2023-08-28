@@ -1,5 +1,11 @@
-~~Title:duijana~~
-{{description>two persons.}}
+---json
+{
+    "name":"duijana",
+    "h1":"duijana",
+    "title":"duijana",
+    "description":"two persons."
+}
+---
 
 ==== duijana  ====
   * two persons --- [[books:cc:adi:10:124-126|Ādi 10.124-126]]

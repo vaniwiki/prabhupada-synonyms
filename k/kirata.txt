@@ -1,5 +1,11 @@
-~~Title:kirāta~~
-{{description>a province of old Bhārata; or of an uncivilized aborigine; the aborigines named Kirātas; the black people called Kirātas (mostly the Africans).}}
+---json
+{
+    "name":"kirāta",
+    "h1":"kirāta",
+    "title":"kirāta",
+    "description":"a province of old Bhārata; or of an uncivilized aborigine; the aborigines named Kirātas; the black people called Kirātas (mostly the Africans)."
+}
+---
 
 ==== kirāta  ====
   * a province of old Bhārata --- [[books:sb:2:4:18|SB 2.4.18]]

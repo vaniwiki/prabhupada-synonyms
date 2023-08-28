@@ -1,5 +1,11 @@
-~~Title:pṛthivīm~~
-{{description>all over the world; the earth; the entire world; the planet earth; the surface of the earth; the whole planet earth; the world; world.}}
+---json
+{
+    "name":"pṛthivīm",
+    "h1":"pṛthivīm",
+    "title":"pṛthivīm",
+    "description":"all over the world; the earth; the entire world; the planet earth; the surface of the earth; the whole planet earth; the world; world."
+}
+---
 
 ==== pṛthivīm  ====
   * all over the world --- [[books:sb:5:5:30|SB 5.5.30]]

@@ -1,5 +1,11 @@
-~~Title:tyāgena~~
-{{description>by voluntarily giving charity to good causes.}}
+---json
+{
+    "name":"tyāgena",
+    "h1":"tyāgena",
+    "title":"tyāgena",
+    "description":"by voluntarily giving charity to good causes."
+}
+---
 
 ==== tyāgena  ====
   * by voluntarily giving charity to good causes --- [[books:sb:6:1:13-14|SB 6.1.13-14]]

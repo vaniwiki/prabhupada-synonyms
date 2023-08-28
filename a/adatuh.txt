@@ -1,5 +1,11 @@
-~~Title:adātuḥ~~
-{{description>who could not give.}}
+---json
+{
+    "name":"adātuḥ",
+    "h1":"adātuḥ",
+    "title":"adātuḥ",
+    "description":"who could not give."
+}
+---
 
 ==== adātuḥ  ====
   * who could not give --- [[books:sb:8:21:32|SB 8.21.32]]

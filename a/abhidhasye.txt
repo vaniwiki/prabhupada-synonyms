@@ -1,5 +1,11 @@
-~~Title:abhidhāsye~~
-{{description>I shall describe; I shall explain.}}
+---json
+{
+    "name":"abhidhāsye",
+    "h1":"abhidhāsye",
+    "title":"abhidhāsye",
+    "description":"I shall describe; I shall explain."
+}
+---
 
 ==== abhidhāsye  ====
   * I shall describe --- [[books:sb:5:18:7|SB 5.18.7]]

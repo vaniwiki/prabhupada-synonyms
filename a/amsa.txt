@@ -1,5 +1,11 @@
-~~Title:amsa~~
-{{description>on his shoulder; shoulders.}}
+---json
+{
+    "name":"amsa",
+    "h1":"amsa",
+    "title":"amsa",
+    "description":"on his shoulder; shoulders."
+}
+---
 
 ==== aṁsa  ====
   * on his shoulder --- [[books:sb:3:17:21|SB 3.17.21]]

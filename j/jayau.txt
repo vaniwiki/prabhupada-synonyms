@@ -1,5 +1,11 @@
-~~Title:jayau~~
-{{description>and Jaya.}}
+---json
+{
+    "name":"jayau",
+    "h1":"jayau",
+    "title":"jayau",
+    "description":"and Jaya."
+}
+---
 
 ==== jayau  ====
   * and Jaya --- [[books:sb:9:24:44|SB 9.24.44]]

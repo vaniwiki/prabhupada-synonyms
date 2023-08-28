@@ -1,5 +1,11 @@
-~~Title:asṛṇyam~~
-{{description>not able to be checked.}}
+---json
+{
+    "name":"asṛṇyam",
+    "h1":"asṛṇyam",
+    "title":"asṛṇyam",
+    "description":"not able to be checked."
+}
+---
 
 ==== asṛṇyam  ====
   * not able to be checked --- [[books:sb:3:17:22|SB 3.17.22]]

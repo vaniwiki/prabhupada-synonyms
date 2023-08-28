@@ -1,5 +1,11 @@
-~~Title:kahāo~~
-{{description>make him say; make me say; You make me speak.}}
+---json
+{
+    "name":"kahāo",
+    "h1":"kahāo",
+    "title":"kahāo",
+    "description":"make him say; make me say; You make me speak."
+}
+---
 
 ==== kahāo  ====
   * make him say --- [[books:cc:antya:1:196|Antya 1.196]]

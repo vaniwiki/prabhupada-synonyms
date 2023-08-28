@@ -1,5 +1,11 @@
-~~Title:svasāraḥ~~
-{{description>sisters; the sisters.}}
+---json
+{
+    "name":"svasāraḥ",
+    "h1":"svasāraḥ",
+    "title":"svasāraḥ",
+    "description":"sisters; the sisters."
+}
+---
 
 ==== svasāraḥ  ====
   * sisters --- [[books:sb:9:24:21-23|SB 9.24.21-23]]

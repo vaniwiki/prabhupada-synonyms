@@ -1,5 +1,11 @@
-~~Title:miṣatām~~
-{{description>before the eyes of the living entities (without their being able to stop it); carrying so; while observing.}}
+---json
+{
+    "name":"miṣatām",
+    "h1":"miṣatām",
+    "title":"miṣatām",
+    "description":"before the eyes of the living entities (without their being able to stop it); carrying so; while observing."
+}
+---
 
 ==== miṣatām  ====
   * before the eyes of the living entities (without their being able to stop it) --- [[books:sb:5:14:29|SB 5.14.29]]

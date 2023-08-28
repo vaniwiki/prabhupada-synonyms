@@ -1,5 +1,11 @@
-~~Title:baliṣṭha~~
-{{description>more powerful.}}
+---json
+{
+    "name":"baliṣṭha",
+    "h1":"baliṣṭha",
+    "title":"baliṣṭha",
+    "description":"more powerful."
+}
+---
 
 ==== baliṣṭha  ====
   * more powerful --- [[books:cc:antya:6:193|Antya 6.193]]

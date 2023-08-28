@@ -1,5 +1,11 @@
-~~Title:adhiyajñe~~
-{{description>unto the supreme proprietor, the supreme enjoyer.}}
+---json
+{
+    "name":"adhiyajñe",
+    "h1":"adhiyajñe",
+    "title":"adhiyajñe",
+    "description":"unto the supreme proprietor, the supreme enjoyer."
+}
+---
 
 ==== adhiyajñe  ====
   * unto the supreme proprietor, the supreme enjoyer --- [[books:sb:9:4:21|SB 9.4.21]]

@@ -1,5 +1,11 @@
-~~Title:samalaṅkṛteṣu~~
-{{description>being so decorated.}}
+---json
+{
+    "name":"samalaṅkṛteṣu",
+    "h1":"samalaṅkṛteṣu",
+    "title":"samalaṅkṛteṣu",
+    "description":"being so decorated."
+}
+---
 
 ==== samalaṅkṛteṣu  ====
   * being so decorated --- [[books:sb:3:1:18|SB 3.1.18]]

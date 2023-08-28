@@ -1,5 +1,11 @@
-~~Title:dravī~~
-{{description>became melted; melted.}}
+---json
+{
+    "name":"dravī",
+    "h1":"dravī",
+    "title":"dravī",
+    "description":"became melted; melted."
+}
+---
 
 ==== dravī-bhūta  ====
   * became melted --- [[books:cc:madhya:8:41|Madhya 8.41]]

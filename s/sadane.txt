@@ -1,5 +1,11 @@
-~~Title:sadane~~
-{{description>in the house of.}}
+---json
+{
+    "name":"sadane",
+    "h1":"sadane",
+    "title":"sadane",
+    "description":"in the house of."
+}
+---
 
 ==== sadane  ====
   * in the house of --- [[books:cc:adi:14:39|Ādi 14.39]]

@@ -1,5 +1,11 @@
-~~Title:pramukhāḥ~~
-{{description>beginning with them; headed; headed by.}}
+---json
+{
+    "name":"pramukhāḥ",
+    "h1":"pramukhāḥ",
+    "title":"pramukhāḥ",
+    "description":"beginning with them; headed; headed by."
+}
+---
 
 ==== pramukhāḥ  ====
   * beginning with them --- [[books:sb:8:1:19|SB 8.1.19]]

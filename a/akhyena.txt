@@ -1,5 +1,11 @@
-~~Title:ākhyena~~
-{{description>made from an intoxicating herb known as hāṭaka.}}
+---json
+{
+    "name":"ākhyena",
+    "h1":"ākhyena",
+    "title":"ākhyena",
+    "description":"made from an intoxicating herb known as hāṭaka."
+}
+---
 
 ==== hāṭaka-ākhyena  ====
   * made from an intoxicating herb known as //hāṭaka// --- [[books:sb:5:24:16|SB 5.24.16]]

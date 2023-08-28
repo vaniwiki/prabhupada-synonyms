@@ -1,5 +1,11 @@
-~~Title:agreṣu~~
-{{description>facing east.}}
+---json
+{
+    "name":"agreṣu",
+    "h1":"agreṣu",
+    "title":"agreṣu",
+    "description":"facing east."
+}
+---
 
 ==== prāk-agreṣu  ====
   * facing east --- [[books:sb:8:9:14-15|SB 8.9.14-15]]

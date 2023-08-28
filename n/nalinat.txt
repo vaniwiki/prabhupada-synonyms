@@ -1,5 +1,11 @@
-~~Title:nalināt~~
-{{description>from the lotus flower.}}
+---json
+{
+    "name":"nalināt",
+    "h1":"nalināt",
+    "title":"nalināt",
+    "description":"from the lotus flower."
+}
+---
 
 ==== nalināt  ====
   * from the lotus flower --- [[books:sb:2:6:23|SB 2.6.23]]

@@ -1,5 +1,11 @@
-~~Title:paryavasyati~~
-{{description>ends in.}}
+---json
+{
+    "name":"paryavasyati",
+    "h1":"paryavasyati",
+    "title":"paryavasyati",
+    "description":"ends in."
+}
+---
 
 ==== paryavasyati  ====
   * ends in --- [[books:cc:antya:1:143|Antya 1.143]]

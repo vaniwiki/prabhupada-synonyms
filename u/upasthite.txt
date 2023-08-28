@@ -1,5 +1,11 @@
-~~Title:upasthite~~
-{{description>arrived; being imminent; being placed in such a position; occurred.}}
+---json
+{
+    "name":"upasthite",
+    "h1":"upasthite",
+    "title":"upasthite",
+    "description":"arrived; being imminent; being placed in such a position; occurred."
+}
+---
 
 ==== upasthite  ====
   * arrived --- [[books:sb:6:1:27|SB 6.1.27]]

@@ -1,5 +1,11 @@
-~~Title:straiṇena~~
-{{description>one who is too addicted to his wife.}}
+---json
+{
+    "name":"straiṇena",
+    "h1":"straiṇena",
+    "title":"straiṇena",
+    "description":"one who is too addicted to his wife."
+}
+---
 
 ==== straiṇena  ====
   * one who is too addicted to his wife --- [[books:sb:4:8:65|SB 4.8.65]]

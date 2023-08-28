@@ -1,5 +1,11 @@
-~~Title:bhrāmyamāṇena~~
-{{description>moving.}}
+---json
+{
+    "name":"bhrāmyamāṇena",
+    "h1":"bhrāmyamāṇena",
+    "title":"bhrāmyamāṇena",
+    "description":"moving."
+}
+---
 
 ==== bhrāmyamāṇena  ====
   * moving --- [[books:sb:7:2:23|SB 7.2.23]]

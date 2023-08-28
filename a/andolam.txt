@@ -1,5 +1,11 @@
-~~Title:andolam~~
-{{description>agitated.}}
+---json
+{
+    "name":"andolam",
+    "h1":"andolam",
+    "title":"andolam",
+    "description":"agitated."
+}
+---
 
 ==== kṛta-andolam  ====
   * agitated --- [[books:cc:antya:1:158|Antya 1.158]]

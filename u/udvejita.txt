@@ -1,5 +1,11 @@
-~~Title:udvejita~~
-{{description>whose minds are agitated.}}
+---json
+{
+    "name":"udvejita",
+    "h1":"udvejita",
+    "title":"udvejita",
+    "description":"whose minds are agitated."
+}
+---
 
 ==== udvejita-manasām  ====
   * whose minds are agitated --- [[books:sb:5:18:15|SB 5.18.15]]

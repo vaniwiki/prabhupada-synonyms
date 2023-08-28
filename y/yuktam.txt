@@ -1,5 +1,11 @@
-~~Title:yuktam~~
-{{description>attached; befitting; empowered with; just befitting; quite befitting; right course; suitable; suited.}}
+---json
+{
+    "name":"yuktam",
+    "h1":"yuktam",
+    "title":"yuktam",
+    "description":"attached; befitting; empowered with; just befitting; quite befitting; right course; suitable; suited."
+}
+---
 
 ==== yuktam  ====
   * attached --- [[books:sb:4:12:6|SB 4.12.6]]

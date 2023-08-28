@@ -1,5 +1,11 @@
-~~Title:upādhyāya~~
-{{description>learned sages; My dear Upādhyāya; Raghupati Upādhyāya.}}
+---json
+{
+    "name":"upādhyāya",
+    "h1":"upādhyāya",
+    "title":"upādhyāya",
+    "description":"learned sages; My dear Upādhyāya; Raghupati Upādhyāya."
+}
+---
 
 ==== upādhyāya  ====
   * learned sages --- [[books:sb:4:7:16|SB 4.7.16]]

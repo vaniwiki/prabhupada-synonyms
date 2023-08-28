@@ -1,5 +1,11 @@
-~~Title:gatih~~
-{{description>advancement; condition of life; course; destination; entrance; Gati; goal; goal of life; good rebirth; his progress; means; movement; movements; our destination; progress; progressive path; shelter; the goal; the motion; the movement; the path; the process of movement; the progress; the ultimate destination; the ultimate goal; the ultimate goal of life; the way; to enter into; to keep His step; whose movements.}}
+---json
+{
+    "name":"gatih",
+    "h1":"gatih",
+    "title":"gatih",
+    "description":"advancement; condition of life; course; destination; entrance; Gati; goal; goal of life; good rebirth; his progress; means; movement; movements; our destination; progress; progressive path; shelter; the goal; the motion; the movement; the path; the process of movement; the progress; the ultimate destination; the ultimate goal; the ultimate goal of life; the way; to enter into; to keep His step; whose movements."
+}
+---
 
 ==== gatiḥ  ====
   * advancement --- [[books:sb:2:8:20|SB 2.8.20]]

@@ -1,5 +1,11 @@
-~~Title:dadhānā~~
-{{description>distributing.}}
+---json
+{
+    "name":"dadhānā",
+    "h1":"dadhānā",
+    "title":"dadhānā",
+    "description":"distributing."
+}
+---
 
 ==== dadhānā  ====
   * distributing --- [[books:cc:antya:1:128|Antya 1.128]]

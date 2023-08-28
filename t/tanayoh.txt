@@ -1,5 +1,11 @@
-~~Title:tānayoḥ~~
-{{description>one attention.}}
+---json
+{
+    "name":"tānayoḥ",
+    "h1":"tānayoḥ",
+    "title":"tānayoḥ",
+    "description":"one attention."
+}
+---
 
 ==== eka-tānayoḥ  ====
   * one attention --- [[books:sb:4:20:27|SB 4.20.27]]

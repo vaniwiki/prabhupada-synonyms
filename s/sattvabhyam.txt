@@ -1,5 +1,11 @@
-~~Title:sattvābhyām~~
-{{description>by the modes of passion and goodness.}}
+---json
+{
+    "name":"sattvābhyām",
+    "h1":"sattvābhyām",
+    "title":"sattvābhyām",
+    "description":"by the modes of passion and goodness."
+}
+---
 
 ==== rajaḥ-sattvābhyām  ====
   * by the modes of passion and goodness --- [[books:sb:10:13:50|SB 10.13.50]]

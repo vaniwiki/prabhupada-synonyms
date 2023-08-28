@@ -1,5 +1,11 @@
-~~Title:śuklāmbarera~~
-{{description>of Śuklāmbara Brahmacārī.}}
+---json
+{
+    "name":"śuklāmbarera",
+    "h1":"śuklāmbarera",
+    "title":"śuklāmbarera",
+    "description":"of Śuklāmbara Brahmacārī."
+}
+---
 
 ==== śuklāmbarera  ====
   * of Śuklāmbara Brahmacārī --- [[books:cc:adi:17:20|Ādi 17.20]]

@@ -1,5 +1,11 @@
-~~Title:vadhāya~~
-{{description>for killing; for the purpose of killing.}}
+---json
+{
+    "name":"vadhāya",
+    "h1":"vadhāya",
+    "title":"vadhāya",
+    "description":"for killing; for the purpose of killing."
+}
+---
 
 ==== vadhāya  ====
   * for killing --- [[books:sb:1:15:13|SB 1.15.13]], [[books:sb:3:21:50|SB 3.21.50]]

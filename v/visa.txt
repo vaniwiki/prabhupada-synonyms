@@ -1,5 +1,11 @@
-~~Title:visa~~
-{{description>now enter.}}
+---json
+{
+    "name":"visa",
+    "h1":"visa",
+    "title":"visa",
+    "description":"now enter."
+}
+---
 
 ==== viśa  ====
   * now enter --- [[books:sb:8:21:32|SB 8.21.32]]

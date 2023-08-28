@@ -1,5 +1,11 @@
-~~Title:srotobhiḥ~~
-{{description>by currents.}}
+---json
+{
+    "name":"srotobhiḥ",
+    "h1":"srotobhiḥ",
+    "title":"srotobhiḥ",
+    "description":"by currents."
+}
+---
 
 ==== srotobhiḥ  ====
   * by currents --- [[books:sb:1:13:52|SB 1.13.52]]

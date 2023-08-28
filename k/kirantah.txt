@@ -1,5 +1,11 @@
-~~Title:kirantaḥ~~
-{{description>offering Him garlands.}}
+---json
+{
+    "name":"kirantaḥ",
+    "h1":"kirantaḥ",
+    "title":"kirantaḥ",
+    "description":"offering Him garlands."
+}
+---
 
 ==== mālyaiḥ kirantaḥ  ====
   * offering Him garlands --- [[books:sb:9:10:41|SB 9.10.41]]

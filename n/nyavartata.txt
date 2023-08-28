@@ -1,5 +1,11 @@
-~~Title:nyavartata~~
-{{description>ceased; dropped floating in the air; returned.}}
+---json
+{
+    "name":"nyavartata",
+    "h1":"nyavartata",
+    "title":"nyavartata",
+    "description":"ceased; dropped floating in the air; returned."
+}
+---
 
 ==== nyavartata  ====
   * ceased --- [[books:sb:7:7:13|SB 7.7.13]]

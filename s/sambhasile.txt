@@ -1,5 +1,11 @@
-~~Title:sambhāṣile~~
-{{description>in talking together; when You talk with him.}}
+---json
+{
+    "name":"sambhāṣile",
+    "h1":"sambhāṣile",
+    "title":"sambhāṣile",
+    "description":"in talking together; when You talk with him."
+}
+---
 
 ==== sambhāṣile  ====
   * in talking together --- [[books:cc:madhya:7:67|Madhya 7.67]]

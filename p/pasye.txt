@@ -1,5 +1,11 @@
-~~Title:paśye~~
-{{description>do I see; I have seen; I see; see.}}
+---json
+{
+    "name":"paśye",
+    "h1":"paśye",
+    "title":"paśye",
+    "description":"do I see; I have seen; I see; see."
+}
+---
 
 ==== paśye  ====
   * do I see --- [[books:sb:1:8:9|SB 1.8.9]]

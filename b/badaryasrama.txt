@@ -1,5 +1,11 @@
-~~Title:badaryāśrama~~
-{{description>Badarikāśrama, in the Himalayas.}}
+---json
+{
+    "name":"badaryāśrama",
+    "h1":"badaryāśrama",
+    "title":"badaryāśrama",
+    "description":"Badarikāśrama, in the Himalayas."
+}
+---
 
 ==== badaryāśrama  ====
   * Badarikāśrama, in the Himalayas --- [[books:sb:3:4:21|SB 3.4.21]]

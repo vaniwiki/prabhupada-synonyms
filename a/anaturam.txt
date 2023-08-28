@@ -1,5 +1,11 @@
-~~Title:anāturam~~
-{{description>recovery from injuries.}}
+---json
+{
+    "name":"anāturam",
+    "h1":"anāturam",
+    "title":"anāturam",
+    "description":"recovery from injuries."
+}
+---
 
 ==== anāturam  ====
   * recovery from injuries --- [[books:sb:4:6:52|SB 4.6.52]]

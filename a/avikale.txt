@@ -1,5 +1,11 @@
-~~Title:avikale~~
-{{description>without being disturbed.}}
+---json
+{
+    "name":"avikale",
+    "h1":"avikale",
+    "title":"avikale",
+    "description":"without being disturbed."
+}
+---
 
 ==== avikale  ====
   * without being disturbed --- [[books:sb:2:4:2|SB 2.4.2]]

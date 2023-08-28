@@ -1,5 +1,11 @@
-~~Title:uditau~~
-{{description>simultaneously arisen.}}
+---json
+{
+    "name":"uditau",
+    "h1":"uditau",
+    "title":"uditau",
+    "description":"simultaneously arisen."
+}
+---
 
 ==== saha-uditau  ====
   * simultaneously arisen --- [[books:cc:adi:1:2|Ādi 1.2]], [[books:cc:adi:1:84|Ādi 1.84]], [[books:cc:madhya:1:2|Madhya 1.2]]

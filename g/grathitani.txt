@@ -1,5 +1,11 @@
-~~Title:grathitāni~~
-{{description>bearing the complete meaning of mystic yoga.}}
+---json
+{
+    "name":"grathitāni",
+    "h1":"grathitāni",
+    "title":"grathitāni",
+    "description":"bearing the complete meaning of mystic yoga."
+}
+---
 
 ==== yoga-grathitāni  ====
   * bearing the complete meaning of mystic //yoga// --- [[books:sb:5:10:18|SB 5.10.18]]

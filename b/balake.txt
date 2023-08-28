@@ -1,5 +1,11 @@
-~~Title:bālake~~
-{{description>child; the son; unto the newborn child; unto the son.}}
+---json
+{
+    "name":"bālake",
+    "h1":"bālake",
+    "title":"bālake",
+    "description":"child; the son; unto the newborn child; unto the son."
+}
+---
 
 ==== bālake  ====
   * child --- [[books:cc:antya:12:50|Antya 12.50]]

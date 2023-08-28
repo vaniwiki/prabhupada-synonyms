@@ -1,5 +1,11 @@
-~~Title:sindhu~~
-{{description>ocean; the ocean; to the ocean.}}
+---json
+{
+    "name":"sindhu",
+    "h1":"sindhu",
+    "title":"sindhu",
+    "description":"ocean; the ocean; to the ocean."
+}
+---
 
 ==== sindhu  ====
   * ocean --- [[books:sb:4:9:14|SB 4.9.14]], [[books:cc:adi:7:85|Ādi 7.85]], [[books:cc:adi:7:97|Ādi 7.97]]

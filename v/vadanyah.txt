@@ -1,5 +1,11 @@
-~~Title:vadānyaḥ~~
-{{description>magnanimous; munificent.}}
+---json
+{
+    "name":"vadānyaḥ",
+    "h1":"vadānyaḥ",
+    "title":"vadānyaḥ",
+    "description":"magnanimous; munificent."
+}
+---
 
 ==== vadānyaḥ  ====
   * magnanimous --- [[books:cc:madhya:23:73|Madhya 23.73]]

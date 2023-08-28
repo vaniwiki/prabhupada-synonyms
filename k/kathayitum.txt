@@ -1,5 +1,11 @@
-~~Title:kathayitum~~
-{{description>to speak.}}
+---json
+{
+    "name":"kathayitum",
+    "h1":"kathayitum",
+    "title":"kathayitum",
+    "description":"to speak."
+}
+---
 
 ==== kathayitum  ====
   * to speak --- [[books:cc:madhya:19:98|Madhya 19.98]]

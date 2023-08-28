@@ -1,5 +1,11 @@
-~~Title:upadrava~~
-{{description>disturbances.}}
+---json
+{
+    "name":"upadrava",
+    "h1":"upadrava",
+    "title":"upadrava",
+    "description":"disturbances."
+}
+---
 
 ==== upadrava  ====
   * disturbances --- [[books:cc:antya:9:60|Antya 9.60]]

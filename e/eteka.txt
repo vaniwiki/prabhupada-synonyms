@@ -1,5 +1,11 @@
-~~Title:eteka~~
-{{description>in this way; so many; so much; such; these; this; thus.}}
+---json
+{
+    "name":"eteka",
+    "h1":"eteka",
+    "title":"eteka",
+    "description":"in this way; so many; so much; such; these; this; thus."
+}
+---
 
 ==== eteka  ====
   * in this way --- [[books:cc:madhya:2:27|Madhya 2.27]]

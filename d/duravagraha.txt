@@ -1,5 +1,11 @@
-~~Title:duravagraha~~
-{{description>with wicked obstinacies.}}
+---json
+{
+    "name":"duravagraha",
+    "h1":"duravagraha",
+    "title":"duravagraha",
+    "description":"with wicked obstinacies."
+}
+---
 
 ==== duravagraha  ====
   * with wicked obstinacies --- [[books:sb:6:9:36|SB 6.9.36]]

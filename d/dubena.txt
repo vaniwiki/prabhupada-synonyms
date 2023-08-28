@@ -1,5 +1,11 @@
-~~Title:ḍubena~~
-{{description>plunges.}}
+---json
+{
+    "name":"ḍubena",
+    "h1":"ḍubena",
+    "title":"ḍubena",
+    "description":"plunges."
+}
+---
 
 ==== ḍubena  ====
   * plunges --- [[books:cc:madhya:19:229|Madhya 19.229]]

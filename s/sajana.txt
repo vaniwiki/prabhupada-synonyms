@@ -1,5 +1,11 @@
-~~Title:sajana~~
-{{description>performance; so much decoration.}}
+---json
+{
+    "name":"sajana",
+    "h1":"sajana",
+    "title":"sajana",
+    "description":"performance; so much decoration."
+}
+---
 
 ==== sājana  ====
   * performance --- [[books:cc:madhya:4:75|Madhya 4.75]]

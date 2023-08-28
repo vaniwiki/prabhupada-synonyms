@@ -1,5 +1,11 @@
-~~Title:vyabhicāreṇa~~
-{{description>by that transgression.}}
+---json
+{
+    "name":"vyabhicāreṇa",
+    "h1":"vyabhicāreṇa",
+    "title":"vyabhicāreṇa",
+    "description":"by that transgression."
+}
+---
 
 ==== vyabhicāreṇa  ====
   * by that transgression --- [[books:sb:9:1:16|SB 9.1.16]]

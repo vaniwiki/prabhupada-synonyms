@@ -1,5 +1,11 @@
-~~Title:hinduyāni~~
-{{description>regulative principles of the Hindus.}}
+---json
+{
+    "name":"hinduyāni",
+    "h1":"hinduyāni",
+    "title":"hinduyāni",
+    "description":"regulative principles of the Hindus."
+}
+---
 
 ==== hinduyāni  ====
   * regulative principles of the Hindus --- [[books:cc:adi:17:126|Ādi 17.126]]

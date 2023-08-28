@@ -1,5 +1,11 @@
-~~Title:yuyudhe~~
-{{description>fought.}}
+---json
+{
+    "name":"yuyudhe",
+    "h1":"yuyudhe",
+    "title":"yuyudhe",
+    "description":"fought."
+}
+---
 
 ==== yuyudhe  ====
   * fought --- [[books:sb:4:27:16|SB 4.27.16]], [[books:sb:8:10:29|SB 8.10.29]], [[books:sb:8:10:30-31|SB 8.10.30-31]]

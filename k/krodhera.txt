@@ -1,5 +1,11 @@
-~~Title:krodhera~~
-{{description>and of anger.}}
+---json
+{
+    "name":"krodhera",
+    "h1":"krodhera",
+    "title":"krodhera",
+    "description":"and of anger."
+}
+---
 
 ==== krodhera  ====
   * and of anger --- [[books:cc:madhya:22:14-15|Madhya 22.14-15]]

@@ -1,5 +1,11 @@
-~~Title:anusevām~~
-{{description>service to the lotus feet of Your Lordship.}}
+---json
+{
+    "name":"anusevām",
+    "h1":"anusevām",
+    "title":"anusevām",
+    "description":"service to the lotus feet of Your Lordship."
+}
+---
 
 ==== tvat-caraṇa-ambuja-anusevām  ====
   * service to the lotus feet of Your Lordship --- [[books:sb:6:9:39|SB 6.9.39]]

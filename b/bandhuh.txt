@@ -1,5 +1,11 @@
-~~Title:bandhuḥ~~
-{{description>friend.}}
+---json
+{
+    "name":"bandhuḥ",
+    "h1":"bandhuḥ",
+    "title":"bandhuḥ",
+    "description":"friend."
+}
+---
 
 ==== bandhuḥ  ====
   * friend --- [[books:bg:6:5|Bg. 6.5]], [[books:bg:6:6|Bg. 6.6]], [[books:sb:4:7:30|SB 4.7.30]], [[books:sb:6:17:22|SB 6.17.22]]

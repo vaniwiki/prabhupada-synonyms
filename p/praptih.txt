@@ -1,5 +1,11 @@
-~~Title:prāptiḥ~~
-{{description>achievement; allowing approach; the attainment.}}
+---json
+{
+    "name":"prāptiḥ",
+    "h1":"prāptiḥ",
+    "title":"prāptiḥ",
+    "description":"achievement; allowing approach; the attainment."
+}
+---
 
 ==== prāptiḥ  ====
   * achievement --- [[books:bg:2:13|Bg. 2.13]]

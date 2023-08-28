@@ -1,5 +1,11 @@
-~~Title:ativilaṅghya~~
-{{description>without caring for.}}
+---json
+{
+    "name":"ativilaṅghya",
+    "h1":"ativilaṅghya",
+    "title":"ativilaṅghya",
+    "description":"without caring for."
+}
+---
 
 ==== ativilaṅghya  ====
   * without caring for --- [[books:cc:madhya:19:210|Madhya 19.210]], [[books:cc:antya:7:42|Antya 7.42]]

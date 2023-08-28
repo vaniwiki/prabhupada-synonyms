@@ -1,5 +1,11 @@
-~~Title:jānunoḥ~~
-{{description>on the two knees.}}
+---json
+{
+    "name":"jānunoḥ",
+    "h1":"jānunoḥ",
+    "title":"jānunoḥ",
+    "description":"on the two knees."
+}
+---
 
 ==== jānunoḥ  ====
   * on the two knees --- [[books:sb:6:8:4-6|SB 6.8.4-6]]

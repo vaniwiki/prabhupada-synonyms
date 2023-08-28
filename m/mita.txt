@@ -1,5 +1,11 @@
-~~Title:mita~~
-{{description>frugal; little.}}
+---json
+{
+    "name":"mita",
+    "h1":"mita",
+    "title":"mita",
+    "description":"frugal; little."
+}
+---
 
 ==== mita  ====
   * frugal --- [[books:sb:4:8:56|SB 4.8.56]]

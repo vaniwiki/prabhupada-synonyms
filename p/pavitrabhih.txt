@@ -1,5 +1,11 @@
-~~Title:pavitrābhiḥ~~
-{{description>without any material contamination.}}
+---json
+{
+    "name":"pavitrābhiḥ",
+    "h1":"pavitrābhiḥ",
+    "title":"pavitrābhiḥ",
+    "description":"without any material contamination."
+}
+---
 
 ==== pavitrābhiḥ  ====
   * without any material contamination --- [[books:sb:7:10:25|SB 7.10.25]]

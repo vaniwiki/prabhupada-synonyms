@@ -1,5 +1,11 @@
-~~Title:pratyāditsuḥ~~
-{{description>peacefully going; willing at heart to return.}}
+---json
+{
+    "name":"pratyāditsuḥ",
+    "h1":"pratyāditsuḥ",
+    "title":"pratyāditsuḥ",
+    "description":"peacefully going; willing at heart to return."
+}
+---
 
 ==== pratyāditsuḥ  ====
   * peacefully going --- [[books:sb:4:22:3|SB 4.22.3]]

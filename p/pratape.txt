@@ -1,5 +1,11 @@
-~~Title:pratāpe~~
-{{description>by the influence of Lord Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"pratāpe",
+    "h1":"pratāpe",
+    "title":"pratāpe",
+    "description":"by the influence of Lord Caitanya Mahāprabhu."
+}
+---
 
 ==== prabhura pratāpe  ====
   * by the influence of Lord Caitanya Mahāprabhu --- [[books:cc:madhya:17:27|Madhya 17.27]]

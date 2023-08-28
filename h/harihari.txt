@@ -1,5 +1,11 @@
-~~Title:harihari~~
-{{description>of the Lord's name, Hari, Hari; the holy name of Lord Kṛṣṇa (Hari); the holy name of the Lord; the name of the Lord, "Hari, Hari"; the vibration "Hari, Hari".}}
+---json
+{
+    "name":"harihari",
+    "h1":"harihari",
+    "title":"harihari",
+    "description":"of the Lord's name, Hari, Hari; the holy name of Lord Kṛṣṇa (Hari); the holy name of the Lord; the name of the Lord, "Hari, Hari"; the vibration "Hari, Hari"."
+}
+---
 
 ==== harihari  ====
   * of the Lord's name, Hari, Hari --- [[books:cc:adi:17:193|Ādi 17.193]]

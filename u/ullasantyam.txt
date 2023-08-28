@@ -1,5 +1,11 @@
-~~Title:ullasantyām~~
-{{description>shining.}}
+---json
+{
+    "name":"ullasantyām",
+    "h1":"ullasantyām",
+    "title":"ullasantyām",
+    "description":"shining."
+}
+---
 
 ==== ullasantyām  ====
   * shining --- [[books:cc:madhya:8:211|Madhya 8.211]]

@@ -1,5 +1,11 @@
-~~Title:kṣaṇāt~~
-{{description>at once; immediately.}}
+---json
+{
+    "name":"kṣaṇāt",
+    "h1":"kṣaṇāt",
+    "title":"kṣaṇāt",
+    "description":"at once; immediately."
+}
+---
 
 ==== kṣaṇāt  ====
   * at once --- [[books:sb:1:18:43|SB 1.18.43]]

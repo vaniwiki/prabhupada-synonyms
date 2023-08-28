@@ -1,5 +1,11 @@
-~~Title:bhakṣyera~~
-{{description>of eatables.}}
+---json
+{
+    "name":"bhakṣyera",
+    "h1":"bhakṣyera",
+    "title":"bhakṣyera",
+    "description":"of eatables."
+}
+---
 
 ==== bhakṣyera  ====
   * of eatables --- [[books:cc:madhya:15:218|Madhya 15.218]], [[books:cc:antya:18:107|Antya 18.107]]

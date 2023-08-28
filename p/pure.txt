@@ -1,5 +1,11 @@
-~~Title:pure~~
-{{description>in Dvārakā; in Dvārakā Purī; in his abode, or within everyone's heart like the Supersoul; in the body; in the capital; in the cities; in the city.}}
+---json
+{
+    "name":"pure",
+    "h1":"pure",
+    "title":"pure",
+    "description":"in Dvārakā; in Dvārakā Purī; in his abode, or within everyone's heart like the Supersoul; in the body; in the capital; in the cities; in the city."
+}
+---
 
 ==== pure  ====
   * in Dvārakā --- [[books:cc:adi:1:79-80|Ādi 1.79-80]], [[books:cc:madhya:19:190|Madhya 19.190]], [[books:cc:madhya:20:187|Madhya 20.187]]

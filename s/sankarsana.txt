@@ -1,5 +1,11 @@
-~~Title:saṅkarṣaṇa~~
-{{description>from the mouth of Saṅkarṣaṇa; Lord Saṅkarṣaṇa; of the name Saṅkarṣaṇa; Saṅkarṣaṇa; the expansion named Saṅkarṣaṇa.}}
+---json
+{
+    "name":"saṅkarṣaṇa",
+    "h1":"saṅkarṣaṇa",
+    "title":"saṅkarṣaṇa",
+    "description":"from the mouth of Saṅkarṣaṇa; Lord Saṅkarṣaṇa; of the name Saṅkarṣaṇa; Saṅkarṣaṇa; the expansion named Saṅkarṣaṇa."
+}
+---
 
 ==== saṅkarṣaṇa  ====
   * from the mouth of Saṅkarṣaṇa --- [[books:sb:3:11:30|SB 3.11.30]]

@@ -1,5 +1,11 @@
-~~Title:prahlādam~~
-{{description>named Prahlāda; Prahlāda Mahārāja.}}
+---json
+{
+    "name":"prahlādam",
+    "h1":"prahlādam",
+    "title":"prahlādam",
+    "description":"named Prahlāda; Prahlāda Mahārāja."
+}
+---
 
 ==== prahlādam  ====
   * named Prahlāda --- [[books:sb:7:5:2|SB 7.5.2]]

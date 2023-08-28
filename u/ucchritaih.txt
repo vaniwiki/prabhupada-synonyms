@@ -1,5 +1,11 @@
-~~Title:ucchritaiḥ~~
-{{description>very tall.}}
+---json
+{
+    "name":"ucchritaiḥ",
+    "h1":"ucchritaiḥ",
+    "title":"ucchritaiḥ",
+    "description":"very tall."
+}
+---
 
 ==== ucchritaiḥ  ====
   * very tall --- [[books:sb:4:30:44|SB 4.30.44]]

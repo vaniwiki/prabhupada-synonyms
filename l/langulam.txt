@@ -1,5 +1,11 @@
-~~Title:lāṅgūlam~~
-{{description>tail; the tail.}}
+---json
+{
+    "name":"lāṅgūlam",
+    "h1":"lāṅgūlam",
+    "title":"lāṅgūlam",
+    "description":"tail; the tail."
+}
+---
 
 ==== lāṅgūlam  ====
   * tail --- [[books:sb:4:16:23|SB 4.16.23]]

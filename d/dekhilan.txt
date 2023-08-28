@@ -1,5 +1,11 @@
-~~Title:dekhilāṅ~~
-{{description>saw.}}
+---json
+{
+    "name":"dekhilāṅ",
+    "h1":"dekhilāṅ",
+    "title":"dekhilāṅ",
+    "description":"saw."
+}
+---
 
 ==== dekhilāṅ  ====
   * saw --- [[books:cc:adi:17:112|Ādi 17.112]]

@@ -1,5 +1,11 @@
-~~Title:śārṅgiṇaḥ~~
-{{description>who had one horn on His head; who has the bow named Śārṅga.}}
+---json
+{
+    "name":"śārṅgiṇaḥ",
+    "h1":"śārṅgiṇaḥ",
+    "title":"śārṅgiṇaḥ",
+    "description":"who had one horn on His head; who has the bow named Śārṅga."
+}
+---
 
 ==== śārṅgiṇaḥ  ====
   * who had one horn on His head --- [[books:sb:8:24:59|SB 8.24.59]]

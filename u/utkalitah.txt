@@ -1,5 +1,11 @@
-~~Title:utkalitaḥ~~
-{{description>slipped.}}
+---json
+{
+    "name":"utkalitaḥ",
+    "h1":"utkalitaḥ",
+    "title":"utkalitaḥ",
+    "description":"slipped."
+}
+---
 
 ==== utkalitaḥ  ====
   * slipped --- [[books:sb:7:8:26|SB 7.8.26]]

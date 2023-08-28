@@ -1,5 +1,11 @@
-~~Title:abhyadhāyi~~
-{{description>said; was given.}}
+---json
+{
+    "name":"abhyadhāyi",
+    "h1":"abhyadhāyi",
+    "title":"abhyadhāyi",
+    "description":"said; was given."
+}
+---
 
 ==== abhyadhāyi  ====
   * said --- [[books:sb:4:7:1|SB 4.7.1]]

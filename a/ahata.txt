@@ -1,5 +1,11 @@
-~~Title:ahata~~
-{{description>without being defeated.}}
+---json
+{
+    "name":"ahata",
+    "h1":"ahata",
+    "title":"ahata",
+    "description":"without being defeated."
+}
+---
 
 ==== ahata  ====
   * without being defeated --- [[books:sb:4:30:17|SB 4.30.17]]

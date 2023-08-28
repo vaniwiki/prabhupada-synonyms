@@ -1,5 +1,11 @@
-~~Title:kṣiti~~
-{{description>earth; land; the earth.}}
+---json
+{
+    "name":"kṣiti",
+    "h1":"kṣiti",
+    "title":"kṣiti",
+    "description":"earth; land; the earth."
+}
+---
 
 ==== kṣiti  ====
   * earth --- [[books:sb:4:8:56|SB 4.8.56]]

@@ -1,5 +1,11 @@
-~~Title:akṛśaḥ~~
-{{description>not thin.}}
+---json
+{
+    "name":"akṛśaḥ",
+    "h1":"akṛśaḥ",
+    "title":"akṛśaḥ",
+    "description":"not thin."
+}
+---
 
 ==== akṛśaḥ  ====
   * not thin --- [[books:sb:3:33:28|SB 3.33.28]]

@@ -1,5 +1,11 @@
-~~Title:kṛttamaḥ~~
-{{description>the greatest sinner.}}
+---json
+{
+    "name":"kṛttamaḥ",
+    "h1":"kṛttamaḥ",
+    "title":"kṛttamaḥ",
+    "description":"the greatest sinner."
+}
+---
 
 ==== pāpa-kṛttamaḥ  ====
   * the greatest sinner --- [[books:bg:4:36|Bg. 4.36]]

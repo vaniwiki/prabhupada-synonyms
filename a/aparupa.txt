@@ -1,5 +1,11 @@
-~~Title:aparūpa~~
-{{description>uncommon.}}
+---json
+{
+    "name":"aparūpa",
+    "h1":"aparūpa",
+    "title":"aparūpa",
+    "description":"uncommon."
+}
+---
 
 ==== aparūpa  ====
   * uncommon --- [[books:cc:antya:9:84|Antya 9.84]]

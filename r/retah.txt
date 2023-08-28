@@ -1,5 +1,11 @@
-~~Title:retah~~
-{{description>of semen; semen; semen of birth; the semen.}}
+---json
+{
+    "name":"retah",
+    "h1":"retah",
+    "title":"retah",
+    "description":"of semen; semen; semen of birth; the semen."
+}
+---
 
 ==== retaḥ  ====
   * of semen --- [[books:sb:3:31:1|SB 3.31.1]]

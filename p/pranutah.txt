@@ -1,5 +1,11 @@
-~~Title:praṇutaḥ~~
-{{description>having been praised.}}
+---json
+{
+    "name":"praṇutaḥ",
+    "h1":"praṇutaḥ",
+    "title":"praṇutaḥ",
+    "description":"having been praised."
+}
+---
 
 ==== praṇutaḥ  ====
   * having been praised --- [[books:sb:3:21:22|SB 3.21.22]]

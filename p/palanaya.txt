@@ -1,5 +1,11 @@
-~~Title:pālanāya~~
-{{description>with a view to ruling the world.}}
+---json
+{
+    "name":"pālanāya",
+    "h1":"pālanāya",
+    "title":"pālanāya",
+    "description":"with a view to ruling the world."
+}
+---
 
 ==== dharaṇi-pālanāya  ====
   * with a view to ruling the world --- [[books:sb:5:5:28|SB 5.5.28]]

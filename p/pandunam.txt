@@ -1,5 +1,11 @@
-~~Title:pāṇḍūnām~~
-{{description>in the dynasty of Pāṇḍu; of the sons of Pāṇḍu.}}
+---json
+{
+    "name":"pāṇḍūnām",
+    "h1":"pāṇḍūnām",
+    "title":"pāṇḍūnām",
+    "description":"in the dynasty of Pāṇḍu; of the sons of Pāṇḍu."
+}
+---
 
 ==== pāṇḍūnām  ====
   * in the dynasty of Pāṇḍu --- [[books:sb:2:8:29|SB 2.8.29]]

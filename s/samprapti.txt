@@ -1,5 +1,11 @@
-~~Title:samprāpti~~
-{{description>has become available.}}
+---json
+{
+    "name":"samprāpti",
+    "h1":"samprāpti",
+    "title":"samprāpti",
+    "description":"has become available."
+}
+---
 
 ==== hañāche samprāpti  ====
   * has become available --- [[books:cc:antya:16:114|Antya 16.114]]

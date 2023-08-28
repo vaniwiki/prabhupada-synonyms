@@ -1,5 +1,11 @@
-~~Title:mukundam~~
-{{description>at Mukunda, Lord Śrī Kṛṣṇa; Kṛṣṇa, the Supreme Personality of Godhead; Lord Kṛṣṇa, the deliverer; Mukunda; unto Mukunda.}}
+---json
+{
+    "name":"mukundam",
+    "h1":"mukundam",
+    "title":"mukundam",
+    "description":"at Mukunda, Lord Śrī Kṛṣṇa; Kṛṣṇa, the Supreme Personality of Godhead; Lord Kṛṣṇa, the deliverer; Mukunda; unto Mukunda."
+}
+---
 
 ==== mukundam  ====
   * at Mukunda, Lord Śrī Kṛṣṇa --- [[books:sb:10:13:64|SB 10.13.64]]

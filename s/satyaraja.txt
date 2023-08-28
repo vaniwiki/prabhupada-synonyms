@@ -1,5 +1,11 @@
-~~Title:satyarāja~~
-{{description>of the name Satyarāja; Satyarāja; Satyarāja Khān.}}
+---json
+{
+    "name":"satyarāja",
+    "h1":"satyarāja",
+    "title":"satyarāja",
+    "description":"of the name Satyarāja; Satyarāja; Satyarāja Khān."
+}
+---
 
 ==== satyarāja  ====
   * of the name Satyarāja --- [[books:cc:adi:10:48|Ādi 10.48]], [[books:cc:adi:10:80|Ādi 10.80]]

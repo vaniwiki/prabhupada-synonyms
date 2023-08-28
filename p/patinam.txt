@@ -1,5 +1,11 @@
-~~Title:patīnām~~
-{{description>of the husbands.}}
+---json
+{
+    "name":"patīnām",
+    "h1":"patīnām",
+    "title":"patīnām",
+    "description":"of the husbands."
+}
+---
 
 ==== patīnām  ====
   * of the husbands --- [[books:sb:1:15:50|SB 1.15.50]]

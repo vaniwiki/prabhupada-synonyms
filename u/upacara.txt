@@ -1,5 +1,11 @@
-~~Title:upacāra~~
-{{description>by varieties of offerings.}}
+---json
+{
+    "name":"upacāra",
+    "h1":"upacāra",
+    "title":"upacāra",
+    "description":"by varieties of offerings."
+}
+---
 
 ==== nānā-upacāra  ====
   * by varieties of offerings --- [[books:cc:madhya:8:69|Madhya 8.69]]

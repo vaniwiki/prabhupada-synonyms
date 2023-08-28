@@ -1,5 +1,11 @@
-~~Title:śaktaye~~
-{{description>one who possesses these energies; who possesses different potencies.}}
+---json
+{
+    "name":"śaktaye",
+    "h1":"śaktaye",
+    "title":"śaktaye",
+    "description":"one who possesses these energies; who possesses different potencies."
+}
+---
 
 ==== śaktaye  ====
   * one who possesses these energies --- [[books:sb:4:17:33|SB 4.17.33]]

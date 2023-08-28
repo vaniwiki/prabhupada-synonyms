@@ -1,5 +1,11 @@
-~~Title:anuṣajjate~~
-{{description>becomes addicted; becomes attached; does necessarily engage; one becomes engaged.}}
+---json
+{
+    "name":"anuṣajjate",
+    "h1":"anuṣajjate",
+    "title":"anuṣajjate",
+    "description":"becomes addicted; becomes attached; does necessarily engage; one becomes engaged."
+}
+---
 
 ==== anuṣajjate  ====
   * becomes addicted --- [[books:sb:4:20:5|SB 4.20.5]]

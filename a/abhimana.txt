@@ -1,5 +1,11 @@
-~~Title:abhimana~~
-{{description>an impression; by self-conception; conception; desire; false prestige; from the misconception; it was her conception; pride; the conception.}}
+---json
+{
+    "name":"abhimana",
+    "h1":"abhimana",
+    "title":"abhimana",
+    "description":"an impression; by self-conception; conception; desire; false prestige; from the misconception; it was her conception; pride; the conception."
+}
+---
 
 ==== abhimāna  ====
   * an impression --- [[books:cc:madhya:9:138|Madhya 9.138]]

@@ -1,5 +1,11 @@
-~~Title:golaka~~
-{{description>the particular description of Bhūloka.}}
+---json
+{
+    "name":"golaka",
+    "h1":"golaka",
+    "title":"golaka",
+    "description":"the particular description of Bhūloka."
+}
+---
 
 ==== bhū-golaka-viśeṣam  ====
   * the particular description of Bhūloka --- [[books:sb:5:16:4|SB 5.16.4]]

@@ -1,5 +1,11 @@
-~~Title:mūrkha~~
-{{description>a fool; fool; foolish; foolish person; foolish, illiterate persons; fools; illiterate; not educated.}}
+---json
+{
+    "name":"mūrkha",
+    "h1":"mūrkha",
+    "title":"mūrkha",
+    "description":"a fool; fool; foolish; foolish person; foolish, illiterate persons; fools; illiterate; not educated."
+}
+---
 
 ==== mūrkha  ====
   * a fool --- [[books:cc:antya:7:126|Antya 7.126]]

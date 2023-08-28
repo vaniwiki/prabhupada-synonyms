@@ -1,5 +1,11 @@
-~~Title:chindhi~~
-{{description>chop; cut off; cut to pieces; kindly eradicate; please dispel.}}
+---json
+{
+    "name":"chindhi",
+    "h1":"chindhi",
+    "title":"chindhi",
+    "description":"chop; cut off; cut to pieces; kindly eradicate; please dispel."
+}
+---
 
 ==== chindhi  ====
   * chop --- [[books:sb:7:5:39-40|SB 7.5.39-40]]

@@ -1,5 +1,11 @@
-~~Title:ahantā~~
-{{description>nonkiller.}}
+---json
+{
+    "name":"ahantā",
+    "h1":"ahantā",
+    "title":"ahantā",
+    "description":"nonkiller."
+}
+---
 
 ==== ahantā  ====
   * nonkiller --- [[books:sb:4:11:18|SB 4.11.18]]

@@ -1,5 +1,11 @@
-~~Title:śrotavya~~
-{{description>and to be heard.}}
+---json
+{
+    "name":"śrotavya",
+    "h1":"śrotavya",
+    "title":"śrotavya",
+    "description":"and to be heard."
+}
+---
 
 ==== śrotavya  ====
   * and to be heard --- [[books:cc:madhya:25:122|Madhya 25.122]]

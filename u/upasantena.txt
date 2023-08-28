@@ -1,5 +1,11 @@
-~~Title:upaśāntena~~
-{{description>peaceful.}}
+---json
+{
+    "name":"upaśāntena",
+    "h1":"upaśāntena",
+    "title":"upaśāntena",
+    "description":"peaceful."
+}
+---
 
 ==== upaśāntena  ====
   * peaceful --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

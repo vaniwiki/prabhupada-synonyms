@@ -1,5 +1,11 @@
-~~Title:raṇakaḥ~~
-{{description>Raṇaka.}}
+---json
+{
+    "name":"raṇakaḥ",
+    "h1":"raṇakaḥ",
+    "title":"raṇakaḥ",
+    "description":"Raṇaka."
+}
+---
 
 ==== raṇakaḥ  ====
   * Raṇaka --- [[books:sb:9:12:15|SB 9.12.15]]

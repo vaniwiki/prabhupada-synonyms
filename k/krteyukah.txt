@@ -1,5 +1,11 @@
-~~Title:kṛteyukaḥ~~
-{{description>Kṛteyuka.}}
+---json
+{
+    "name":"kṛteyukaḥ",
+    "h1":"kṛteyukaḥ",
+    "title":"kṛteyukaḥ",
+    "description":"Kṛteyuka."
+}
+---
 
 ==== kṛteyukaḥ  ====
   * Kṛteyuka --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

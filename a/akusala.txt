@@ -1,5 +1,11 @@
-~~Title:akuśala~~
-{{description>sometimes by very unfavorable actions.}}
+---json
+{
+    "name":"akuśala",
+    "h1":"akuśala",
+    "title":"akuśala",
+    "description":"sometimes by very unfavorable actions."
+}
+---
 
 ==== akuśala  ====
   * sometimes by very unfavorable actions --- [[books:sb:5:14:1|SB 5.14.1]]

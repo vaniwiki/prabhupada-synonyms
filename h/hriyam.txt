@@ -1,5 +1,11 @@
-~~Title:hriyam~~
-{{description>bashfulness.}}
+---json
+{
+    "name":"hriyam",
+    "h1":"hriyam",
+    "title":"hriyam",
+    "description":"bashfulness."
+}
+---
 
 ==== hriyam  ====
   * bashfulness --- [[books:cc:antya:1:189|Antya 1.189]]

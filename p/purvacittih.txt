@@ -1,5 +1,11 @@
-~~Title:pūrvacittiḥ~~
-{{description>Pūrvacitti.}}
+---json
+{
+    "name":"pūrvacittiḥ",
+    "h1":"pūrvacittiḥ",
+    "title":"pūrvacittiḥ",
+    "description":"Pūrvacitti."
+}
+---
 
 ==== pūrvacittiḥ  ====
   * Pūrvacitti --- [[books:sb:5:2:20|SB 5.2.20]]

@@ -1,5 +1,11 @@
-~~Title:aśeṣam~~
-{{description>unlimited; unlimitedly.}}
+---json
+{
+    "name":"aśeṣam",
+    "h1":"aśeṣam",
+    "title":"aśeṣam",
+    "description":"unlimited; unlimitedly."
+}
+---
 
 ==== aśeṣam  ====
   * unlimited --- [[books:sb:3:15:36|SB 3.15.36]], [[books:sb:4:9:7|SB 4.9.7]], [[books:sb:5:25:11|SB 5.25.11]]

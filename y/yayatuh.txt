@@ -1,5 +1,11 @@
-~~Title:yayatuḥ~~
-{{description>and enjoyed; departed; they went away.}}
+---json
+{
+    "name":"yayatuḥ",
+    "h1":"yayatuḥ",
+    "title":"yayatuḥ",
+    "description":"and enjoyed; departed; they went away."
+}
+---
 
 ==== yayatuḥ  ====
   * and enjoyed --- [[books:sb:10:8:23|SB 10.8.23]]

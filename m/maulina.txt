@@ -1,5 +1,11 @@
-~~Title:maulinā~~
-{{description>by the head of all living entities.}}
+---json
+{
+    "name":"maulinā",
+    "h1":"maulinā",
+    "title":"maulinā",
+    "description":"by the head of all living entities."
+}
+---
 
 ==== maulinā  ====
   * by the head of all living entities --- [[books:sb:4:12:27|SB 4.12.27]]

@@ -1,5 +1,11 @@
-~~Title:advaya~~
-{{description>knowledge without duality; of nondual knowledge.}}
+---json
+{
+    "name":"advaya",
+    "h1":"advaya",
+    "title":"advaya",
+    "description":"knowledge without duality; of nondual knowledge."
+}
+---
 
 ==== advaya-jñāna  ====
   * knowledge without duality --- [[books:cc:adi:2:65|Ādi 2.65]]

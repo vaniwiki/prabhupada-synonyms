@@ -1,5 +1,11 @@
-~~Title:svadhayati~~
-{{description>is giving me pleasure.}}
+---json
+{
+    "name":"svadhayati",
+    "h1":"svadhayati",
+    "title":"svadhayati",
+    "description":"is giving me pleasure."
+}
+---
 
 ==== svadhayati  ====
   * is giving me pleasure --- [[books:sb:5:8:25|SB 5.8.25]]

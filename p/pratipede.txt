@@ -1,5 +1,11 @@
-~~Title:pratipede~~
-{{description>promised.}}
+---json
+{
+    "name":"pratipede",
+    "h1":"pratipede",
+    "title":"pratipede",
+    "description":"promised."
+}
+---
 
 ==== pratipede  ====
   * promised --- [[books:sb:9:14:22|SB 9.14.22]]

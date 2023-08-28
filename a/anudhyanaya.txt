@@ -1,5 +1,11 @@
-~~Title:anudhyānāya~~
-{{description>for remembering repeatedly.}}
+---json
+{
+    "name":"anudhyānāya",
+    "h1":"anudhyānāya",
+    "title":"anudhyānāya",
+    "description":"for remembering repeatedly."
+}
+---
 
 ==== anudhyānāya  ====
   * for remembering repeatedly --- [[books:sb:1:7:25|SB 1.7.25]]

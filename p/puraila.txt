@@ -1,5 +1,11 @@
-~~Title:pūrāilā~~
-{{description>filled.}}
+---json
+{
+    "name":"pūrāilā",
+    "h1":"pūrāilā",
+    "title":"pūrāilā",
+    "description":"filled."
+}
+---
 
 ==== pūrāilā  ====
   * filled --- [[books:cc:antya:13:7|Antya 13.7]]

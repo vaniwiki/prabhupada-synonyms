@@ -1,5 +1,11 @@
-~~Title:sakhīn~~
-{{description>and His friends, the boys; friends.}}
+---json
+{
+    "name":"sakhīn",
+    "h1":"sakhīn",
+    "title":"sakhīn",
+    "description":"and His friends, the boys; friends."
+}
+---
 
 ==== sakhīn  ====
   * and His friends, the boys --- [[books:sb:10:13:61|SB 10.13.61]]

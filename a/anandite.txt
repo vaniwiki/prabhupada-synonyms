@@ -1,5 +1,11 @@
-~~Title:ānandite~~
-{{description>very pleased.}}
+---json
+{
+    "name":"ānandite",
+    "h1":"ānandite",
+    "title":"ānandite",
+    "description":"very pleased."
+}
+---
 
 ==== ānandite  ====
   * very pleased --- [[books:cc:madhya:5:5|Madhya 5.5]]

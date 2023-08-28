@@ -1,5 +1,11 @@
-~~Title:praharat~~
-{{description>slashing.}}
+---json
+{
+    "name":"praharat",
+    "h1":"praharat",
+    "title":"praharat",
+    "description":"slashing."
+}
+---
 
 ==== praharat  ====
   * slashing --- [[books:sb:9:15:31|SB 9.15.31]]

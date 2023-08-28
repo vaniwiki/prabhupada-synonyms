@@ -1,5 +1,11 @@
-~~Title:sparśam~~
-{{description>touch.}}
+---json
+{
+    "name":"sparśam",
+    "h1":"sparśam",
+    "title":"sparśam",
+    "description":"touch."
+}
+---
 
 ==== sparśam  ====
   * touch --- [[books:sb:3:5:33|SB 3.5.33]]

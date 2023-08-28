@@ -1,5 +1,11 @@
-~~Title:bhāti~~
-{{description>appears; illuminates; is dazzling; is manifest; is manifested; manifests; shine; shines; so manifests.}}
+---json
+{
+    "name":"bhāti",
+    "h1":"bhāti",
+    "title":"bhāti",
+    "description":"appears; illuminates; is dazzling; is manifest; is manifested; manifests; shine; shines; so manifests."
+}
+---
 
 ==== bhāti  ====
   * appears --- [[books:sb:4:3:11|SB 4.3.11]], [[books:cc:adi:1:11|Ādi 1.11]], [[books:cc:adi:1:77|Ādi 1.77]], [[books:cc:adi:5:109|Ādi 5.109]]

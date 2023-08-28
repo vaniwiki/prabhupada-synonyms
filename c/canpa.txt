@@ -1,5 +1,11 @@
-~~Title:cāṅpā~~
-{{description>a kind of banana; a kind of banana known as cāṅpā-kalā; a special type of banana.}}
+---json
+{
+    "name":"cāṅpā",
+    "h1":"cāṅpā",
+    "title":"cāṅpā",
+    "description":"a kind of banana; a kind of banana known as cāṅpā-kalā; a special type of banana."
+}
+---
 
 ==== cāṅpā-kalā  ====
   * a kind of banana --- [[books:cc:madhya:15:217|Madhya 15.217]]

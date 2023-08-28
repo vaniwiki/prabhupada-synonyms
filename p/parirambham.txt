@@ -1,5 +1,11 @@
-~~Title:parirambham~~
-{{description>embracing by the hands of Śrī Kṛṣṇa.}}
+---json
+{
+    "name":"parirambham",
+    "h1":"parirambham",
+    "title":"parirambham",
+    "description":"embracing by the hands of Śrī Kṛṣṇa."
+}
+---
 
 ==== hari-kara-parirambham  ====
   * embracing by the hands of Śrī Kṛṣṇa --- [[books:cc:antya:1:163|Antya 1.163]]

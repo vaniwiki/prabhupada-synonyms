@@ -1,5 +1,11 @@
-~~Title:nṛtyete~~
-{{description>in dancing.}}
+---json
+{
+    "name":"nṛtyete",
+    "h1":"nṛtyete",
+    "title":"nṛtyete",
+    "description":"in dancing."
+}
+---
 
 ==== nṛtyete  ====
   * in dancing --- [[books:cc:madhya:3:133|Madhya 3.133]]

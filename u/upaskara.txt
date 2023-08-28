@@ -1,5 +1,11 @@
-~~Title:upaskara~~
-{{description>by all the paraphernalia for worshiping the Deity.}}
+---json
+{
+    "name":"upaskara",
+    "h1":"upaskara",
+    "title":"upaskara",
+    "description":"by all the paraphernalia for worshiping the Deity."
+}
+---
 
 ==== sarva-upaskara-sampadā  ====
   * by all the paraphernalia for worshiping the Deity --- [[books:sb:9:4:31-32|SB 9.4.31-32]]

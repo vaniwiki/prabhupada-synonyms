@@ -1,5 +1,11 @@
-~~Title:kheda~~
-{{description>by exhaustion.}}
+---json
+{
+    "name":"kheda",
+    "h1":"kheda",
+    "title":"kheda",
+    "description":"by exhaustion."
+}
+---
 
 ==== kheda  ====
   * by exhaustion --- [[books:sb:5:8:6|SB 5.8.6]]

@@ -1,5 +1,11 @@
-~~Title:duḥkheṣu~~
-{{description>and in distress; distress; in distress; in the matter of distresses; in the threefold miseries.}}
+---json
+{
+    "name":"duḥkheṣu",
+    "h1":"duḥkheṣu",
+    "title":"duḥkheṣu",
+    "description":"and in distress; distress; in distress; in the matter of distresses; in the threefold miseries."
+}
+---
 
 ==== duḥkheṣu  ====
   * and in distress --- [[books:cc:madhya:23:111-112|Madhya 23.111-112]]

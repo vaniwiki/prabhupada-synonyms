@@ -1,5 +1,11 @@
-~~Title:vyanayat~~
-{{description>destroyed.}}
+---json
+{
+    "name":"vyanayat",
+    "h1":"vyanayat",
+    "title":"vyanayat",
+    "description":"destroyed."
+}
+---
 
 ==== vyanayat  ====
   * destroyed --- [[books:sb:9:10:6-7|SB 9.10.6-7]]

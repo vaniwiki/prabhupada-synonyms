@@ -1,5 +1,11 @@
-~~Title:vyādāna~~
-{{description>simply opening the mouth.}}
+---json
+{
+    "name":"vyādāna",
+    "h1":"vyādāna",
+    "title":"vyādāna",
+    "description":"simply opening the mouth."
+}
+---
 
 ==== mukha-vyādāna  ====
   * simply opening the mouth --- [[books:cc:antya:1:174|Antya 1.174]]

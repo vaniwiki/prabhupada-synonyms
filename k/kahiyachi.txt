@@ -1,5 +1,11 @@
-~~Title:kahiyāchi~~
-{{description>I have already described.}}
+---json
+{
+    "name":"kahiyāchi",
+    "h1":"kahiyāchi",
+    "title":"kahiyāchi",
+    "description":"I have already described."
+}
+---
 
 ==== kahiyāchi  ====
   * I have already described --- [[books:cc:adi:7:3|Ādi 7.3]]

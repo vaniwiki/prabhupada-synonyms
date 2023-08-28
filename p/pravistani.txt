@@ -1,5 +1,11 @@
-~~Title:praviṣṭāni~~
-{{description>entered; situated internally.}}
+---json
+{
+    "name":"praviṣṭāni",
+    "h1":"praviṣṭāni",
+    "title":"praviṣṭāni",
+    "description":"entered; situated internally."
+}
+---
 
 ==== praviṣṭāni  ====
   * entered --- [[books:sb:2:9:35|SB 2.9.35]]

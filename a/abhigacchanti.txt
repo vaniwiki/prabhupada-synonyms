@@ -1,5 +1,11 @@
-~~Title:abhigacchanti~~
-{{description>enter into.}}
+---json
+{
+    "name":"abhigacchanti",
+    "h1":"abhigacchanti",
+    "title":"abhigacchanti",
+    "description":"enter into."
+}
+---
 
 ==== abhigacchanti  ====
   * enter into --- [[books:iso:3|Īśo 3]]

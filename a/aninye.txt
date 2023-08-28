@@ -1,5 +1,11 @@
-~~Title:āninye~~
-{{description>brought; brought to; caused to be brought.}}
+---json
+{
+    "name":"āninye",
+    "h1":"āninye",
+    "title":"āninye",
+    "description":"brought; brought to; caused to be brought."
+}
+---
 
 ==== āninye  ====
   * brought --- [[books:sb:8:8:10|SB 8.8.10]]

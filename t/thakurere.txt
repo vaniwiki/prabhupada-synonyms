@@ -1,5 +1,11 @@
-~~Title:ṭhākurere~~
-{{description>Haridāsa Ṭhākura; the Deity.}}
+---json
+{
+    "name":"ṭhākurere",
+    "h1":"ṭhākurere",
+    "title":"ṭhākurere",
+    "description":"Haridāsa Ṭhākura; the Deity."
+}
+---
 
 ==== ṭhākurere  ====
   * Haridāsa Ṭhākura --- [[books:cc:antya:3:167|Antya 3.167]]

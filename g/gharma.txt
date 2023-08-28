@@ -1,5 +1,11 @@
-~~Title:gharma~~
-{{description>heat.}}
+---json
+{
+    "name":"gharma",
+    "h1":"gharma",
+    "title":"gharma",
+    "description":"heat."
+}
+---
 
 ==== gharma  ====
   * heat --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

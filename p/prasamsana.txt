@@ -1,5 +1,11 @@
-~~Title:prasamsana~~
-{{description>praising.}}
+---json
+{
+    "name":"prasamsana",
+    "h1":"prasamsana",
+    "title":"prasamsana",
+    "description":"praising."
+}
+---
 
 ==== prasaṁśana  ====
   * praising --- [[books:cc:madhya:12:116|Madhya 12.116]]

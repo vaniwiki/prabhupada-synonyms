@@ -1,5 +1,11 @@
-~~Title:ghanta~~
-{{description>bell.}}
+---json
+{
+    "name":"ghanta",
+    "h1":"ghanta",
+    "title":"ghanta",
+    "description":"bell."
+}
+---
 
 ==== ghaṇṭā  ====
   * bell --- [[books:sb:1:10:15|SB 1.10.15]]

@@ -1,5 +1,11 @@
-~~Title:sudurbodha~~
-{{description>difficult to understand.}}
+---json
+{
+    "name":"sudurbodha",
+    "h1":"sudurbodha",
+    "title":"sudurbodha",
+    "description":"difficult to understand."
+}
+---
 
 ==== sudurbodha  ====
   * difficult to understand --- [[books:cc:adi:17:304|Ādi 17.304]]

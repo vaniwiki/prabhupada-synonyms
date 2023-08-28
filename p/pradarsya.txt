@@ -1,5 +1,11 @@
-~~Title:pradarśya~~
-{{description>after instructing; by exhibiting; having shown.}}
+---json
+{
+    "name":"pradarśya",
+    "h1":"pradarśya",
+    "title":"pradarśya",
+    "description":"after instructing; by exhibiting; having shown."
+}
+---
 
 ==== pradarśya  ====
   * after instructing --- [[books:sb:3:33:12|SB 3.33.12]]

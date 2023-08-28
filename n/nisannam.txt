@@ -1,5 +1,11 @@
-~~Title:niṣaṇṇam~~
-{{description>being seated; waiting upon Him.}}
+---json
+{
+    "name":"niṣaṇṇam",
+    "h1":"niṣaṇṇam",
+    "title":"niṣaṇṇam",
+    "description":"being seated; waiting upon Him."
+}
+---
 
 ==== niṣaṇṇam  ====
   * being seated --- [[books:sb:4:2:8|SB 4.2.8]]

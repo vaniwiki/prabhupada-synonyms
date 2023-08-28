@@ -1,5 +1,11 @@
-~~Title:uktyā~~
-{{description>with many words.}}
+---json
+{
+    "name":"uktyā",
+    "h1":"uktyā",
+    "title":"uktyā",
+    "description":"with many words."
+}
+---
 
 ==== bahu-uktyā  ====
   * with many words --- [[books:cc:madhya:21:27|Madhya 21.27]], [[books:cc:madhya:21:83|Madhya 21.83]]

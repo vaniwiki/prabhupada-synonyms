@@ -1,5 +1,11 @@
-~~Title:vahimu~~
-{{description>shall carry.}}
+---json
+{
+    "name":"vahimu",
+    "h1":"vahimu",
+    "title":"vahimu",
+    "description":"shall carry."
+}
+---
 
 ==== vahimu  ====
   * shall carry --- [[books:cc:madhya:25:170|Madhya 25.170]]

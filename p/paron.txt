@@ -1,5 +1,11 @@
-~~Title:pāroṅ~~
-{{description>can; I am able.}}
+---json
+{
+    "name":"pāroṅ",
+    "h1":"pāroṅ",
+    "title":"pāroṅ",
+    "description":"can; I am able."
+}
+---
 
 ==== pāroṅ  ====
   * can --- [[books:cc:antya:4:166|Antya 4.166]]

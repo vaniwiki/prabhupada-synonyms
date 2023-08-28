@@ -1,5 +1,11 @@
-~~Title:haram~~
-{{description>Lord Śiva; who dispels.}}
+---json
+{
+    "name":"haram",
+    "h1":"haram",
+    "title":"haram",
+    "description":"Lord Śiva; who dispels."
+}
+---
 
 ==== haram  ====
   * Lord Śiva --- [[books:sb:6:17:12|SB 6.17.12]]

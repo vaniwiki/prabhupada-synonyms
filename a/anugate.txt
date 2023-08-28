@@ -1,5 +1,11 @@
-~~Title:anugate~~
-{{description>passing away.}}
+---json
+{
+    "name":"anugate",
+    "h1":"anugate",
+    "title":"anugate",
+    "description":"passing away."
+}
+---
 
 ==== anugate  ====
   * passing away --- [[books:sb:1:14:5|SB 1.14.5]]

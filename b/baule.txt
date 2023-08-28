@@ -1,5 +1,11 @@
-~~Title:bāule~~
-{{description>a madman.}}
+---json
+{
+    "name":"bāule",
+    "h1":"bāule",
+    "title":"bāule",
+    "description":"a madman."
+}
+---
 
 ==== bāule  ====
   * a madman --- [[books:cc:madhya:2:49|Madhya 2.49]]

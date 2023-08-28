@@ -1,5 +1,11 @@
-~~Title:kuśala~~
-{{description>auspicious; auspiciousness; good fortune; in happiness; Kuśala; of auspiciousness; of well-being; sometimes by favorable actions.}}
+---json
+{
+    "name":"kuśala",
+    "h1":"kuśala",
+    "title":"kuśala",
+    "description":"auspicious; auspiciousness; good fortune; in happiness; Kuśala; of auspiciousness; of well-being; sometimes by favorable actions."
+}
+---
 
 ==== kuśala  ====
   * auspicious --- [[books:sb:6:9:35|SB 6.9.35]]

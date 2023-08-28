@@ -1,5 +1,11 @@
-~~Title:pūrta~~
-{{description>constructing public roads, etc.}}
+---json
+{
+    "name":"pūrta",
+    "h1":"pūrta",
+    "title":"pūrta",
+    "description":"constructing public roads, etc."
+}
+---
 
 ==== pūrta  ====
   * constructing public roads, etc --- [[books:sb:10:7:32|SB 10.7.32]]

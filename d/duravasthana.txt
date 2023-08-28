@@ -1,5 +1,11 @@
-~~Title:duravasthāna~~
-{{description>because of being placed in an undesirable position.}}
+---json
+{
+    "name":"duravasthāna",
+    "h1":"duravasthāna",
+    "title":"duravasthāna",
+    "description":"because of being placed in an undesirable position."
+}
+---
 
 ==== duravasthāna  ====
   * because of being placed in an undesirable position --- [[books:sb:5:3:12|SB 5.3.12]]

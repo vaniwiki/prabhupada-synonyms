@@ -1,5 +1,11 @@
-~~Title:arāteḥ~~
-{{description>of Lord Kṛṣṇa, the enemy of Kaṁsa.}}
+---json
+{
+    "name":"arāteḥ",
+    "h1":"arāteḥ",
+    "title":"arāteḥ",
+    "description":"of Lord Kṛṣṇa, the enemy of Kaṁsa."
+}
+---
 
 ==== kaṁsa-arāteḥ  ====
   * of Lord Kṛṣṇa, the enemy of Kaṁsa --- [[books:cc:adi:4:202|Ādi 4.202]]

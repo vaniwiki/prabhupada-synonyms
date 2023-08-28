@@ -1,5 +1,11 @@
-~~Title:marutvatī~~
-{{description>Marutvatī.}}
+---json
+{
+    "name":"marutvatī",
+    "h1":"marutvatī",
+    "title":"marutvatī",
+    "description":"Marutvatī."
+}
+---
 
 ==== marutvatī  ====
   * Marutvatī --- [[books:sb:6:6:4|SB 6.6.4]]

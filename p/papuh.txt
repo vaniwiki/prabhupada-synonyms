@@ -1,5 +1,11 @@
-~~Title:papuḥ~~
-{{description>drunk.}}
+---json
+{
+    "name":"papuḥ",
+    "h1":"papuḥ",
+    "title":"papuḥ",
+    "description":"drunk."
+}
+---
 
 ==== papuḥ  ====
   * drunk --- [[books:sb:2:4:24|SB 2.4.24]]

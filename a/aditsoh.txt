@@ -1,5 +1,11 @@
-~~Title:āditsoḥ~~
-{{description>desiring to have.}}
+---json
+{
+    "name":"āditsoḥ",
+    "h1":"āditsoḥ",
+    "title":"āditsoḥ",
+    "description":"desiring to have."
+}
+---
 
 ==== āditsoḥ  ====
   * desiring to have --- [[books:sb:2:10:29|SB 2.10.29]]

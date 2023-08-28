@@ -1,5 +1,11 @@
-~~Title:rodham~~
-{{description>obstructing.}}
+---json
+{
+    "name":"rodham",
+    "h1":"rodham",
+    "title":"rodham",
+    "description":"obstructing."
+}
+---
 
 ==== rodham  ====
   * obstructing --- [[books:cc:madhya:14:200|Madhya 14.200]]

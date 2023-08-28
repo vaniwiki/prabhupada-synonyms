@@ -1,5 +1,11 @@
-~~Title:ṭhākurāṇī~~
-{{description>goddess; mistress.}}
+---json
+{
+    "name":"ṭhākurāṇī",
+    "h1":"ṭhākurāṇī",
+    "title":"ṭhākurāṇī",
+    "description":"goddess; mistress."
+}
+---
 
 ==== ṭhākurāṇī  ====
   * goddess --- [[books:cc:adi:4:95|Ādi 4.95]]

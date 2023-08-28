@@ -1,5 +1,11 @@
-~~Title:bhāi~~
-{{description>brother; brothers; O brothers; the brother; younger brother.}}
+---json
+{
+    "name":"bhāi",
+    "h1":"bhāi",
+    "title":"bhāi",
+    "description":"brother; brothers; O brothers; the brother; younger brother."
+}
+---
 
 ==== bhāi  ====
   * brother --- [[books:cc:adi:7:12|Ādi 7.12]], [[books:cc:adi:10:96|Ādi 10.96]], [[books:cc:antya:9:73|Antya 9.73]]

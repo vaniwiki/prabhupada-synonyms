@@ -1,5 +1,11 @@
-~~Title:dhānvantaram~~
-{{description>the incarnation of Godhead named Dhanvantari.}}
+---json
+{
+    "name":"dhānvantaram",
+    "h1":"dhānvantaram",
+    "title":"dhānvantaram",
+    "description":"the incarnation of Godhead named Dhanvantari."
+}
+---
 
 ==== dhānvantaram  ====
   * the incarnation of Godhead named Dhanvantari --- [[books:sb:1:3:17|SB 1.3.17]]

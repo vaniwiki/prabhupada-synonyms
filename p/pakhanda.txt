@@ -1,5 +1,11 @@
-~~Title:pākhaṇḍa~~
-{{description>the result of accepting an atheistic path.}}
+---json
+{
+    "name":"pākhaṇḍa",
+    "h1":"pākhaṇḍa",
+    "title":"pākhaṇḍa",
+    "description":"the result of accepting an atheistic path."
+}
+---
 
 ==== pākhaṇḍa-anugatam phalam  ====
   * the result of accepting an atheistic path --- [[books:sb:5:26:15|SB 5.26.15]]

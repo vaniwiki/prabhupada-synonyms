@@ -1,5 +1,11 @@
-~~Title:jāyeran~~
-{{description>have appeared; should take birth.}}
+---json
+{
+    "name":"jāyeran",
+    "h1":"jāyeran",
+    "title":"jāyeran",
+    "description":"have appeared; should take birth."
+}
+---
 
 ==== jāyeran  ====
   * have appeared --- [[books:sb:9:7:11|SB 9.7.11]]

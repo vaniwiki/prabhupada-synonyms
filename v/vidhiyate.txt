@@ -1,5 +1,11 @@
-~~Title:vidhīyate~~
-{{description>are intended; does take place; is performed; is procured; worshiped.}}
+---json
+{
+    "name":"vidhīyate",
+    "h1":"vidhīyate",
+    "title":"vidhīyate",
+    "description":"are intended; does take place; is performed; is procured; worshiped."
+}
+---
 
 ==== vidhīyate  ====
   * are intended --- [[books:sb:4:3:22|SB 4.3.22]]

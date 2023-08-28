@@ -1,5 +1,11 @@
-~~Title:anyathā~~
-{{description>alternative; and otherwise; apart; by any other means; by other means; just the opposite; other; other than; others; otherwise; without being in such a relationship as master and servant.}}
+---json
+{
+    "name":"anyathā",
+    "h1":"anyathā",
+    "title":"anyathā",
+    "description":"alternative; and otherwise; apart; by any other means; by other means; just the opposite; other; other than; others; otherwise; without being in such a relationship as master and servant."
+}
+---
 
 ==== anyathā  ====
   * alternative --- [[books:iso:2|Īśo 2]]

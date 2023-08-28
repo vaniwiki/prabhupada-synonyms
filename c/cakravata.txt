@@ -1,5 +1,11 @@
-~~Title:cakravāta~~
-{{description>a whirlwind.}}
+---json
+{
+    "name":"cakravāta",
+    "h1":"cakravāta",
+    "title":"cakravāta",
+    "description":"a whirlwind."
+}
+---
 
 ==== cakravāta  ====
   * a whirlwind --- [[books:cc:madhya:21:113|Madhya 21.113]]

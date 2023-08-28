@@ -1,5 +1,11 @@
-~~Title:pāṇḍaveya~~
-{{description>O best of the Pāṇḍu dynasty (Mahārāja Parīkṣit); O Mahārāja Parīkṣit.}}
+---json
+{
+    "name":"pāṇḍaveya",
+    "h1":"pāṇḍaveya",
+    "title":"pāṇḍaveya",
+    "description":"O best of the Pāṇḍu dynasty (Mahārāja Parīkṣit); O Mahārāja Parīkṣit."
+}
+---
 
 ==== pāṇḍaveya  ====
   * O best of the Pāṇḍu dynasty (Mahārāja Parīkṣit) --- [[books:sb:5:10:15|SB 5.10.15]]

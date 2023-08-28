@@ -1,5 +1,11 @@
-~~Title:saṁvarta~~
-{{description>the fire known as saṁvarta.}}
+---json
+{
+    "name":"saṁvarta",
+    "h1":"saṁvarta",
+    "title":"saṁvarta",
+    "description":"the fire known as saṁvarta."
+}
+---
 
 ==== saṁvarta-agniḥ  ====
   * the fire known as //saṁvarta// --- [[books:sb:8:15:26|SB 8.15.26]]

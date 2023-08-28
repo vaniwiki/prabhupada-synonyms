@@ -1,5 +1,11 @@
-~~Title:mahibhiḥ~~
-{{description>whose own independence was subordinate to the potency of the Lord.}}
+---json
+{
+    "name":"mahibhiḥ",
+    "h1":"mahibhiḥ",
+    "title":"mahibhiḥ",
+    "description":"whose own independence was subordinate to the potency of the Lord."
+}
+---
 
 ==== sva-mahi-dhvasta-mahibhiḥ  ====
   * whose own independence was subordinate to the potency of the Lord --- [[books:sb:10:13:53|SB 10.13.53]]

@@ -1,5 +1,11 @@
-~~Title:kālyāḥ~~
-{{description>of the goddess Kālī.}}
+---json
+{
+    "name":"kālyāḥ",
+    "h1":"kālyāḥ",
+    "title":"kālyāḥ",
+    "description":"of the goddess Kālī."
+}
+---
 
 ==== bhadra-kālyāḥ  ====
   * of the goddess Kālī --- [[books:sb:5:9:15|SB 5.9.15]]

@@ -1,5 +1,11 @@
-~~Title:sampratiṣṭhā~~
-{{description>the foundation.}}
+---json
+{
+    "name":"sampratiṣṭhā",
+    "h1":"sampratiṣṭhā",
+    "title":"sampratiṣṭhā",
+    "description":"the foundation."
+}
+---
 
 ==== sampratiṣṭhā  ====
   * the foundation --- [[books:bg:15:3-4|Bg. 15.3-4]]

@@ -1,5 +1,11 @@
-~~Title:bhāvera~~
-{{description>of ecstasies; of ecstasy; of ecstatic emotion; of ecstatic emotions; of emotion; of the ecstasy; of the ecstatic moods; of the mood; of the sentiments; to the ecstatic mood.}}
+---json
+{
+    "name":"bhāvera",
+    "h1":"bhāvera",
+    "title":"bhāvera",
+    "description":"of ecstasies; of ecstasy; of ecstatic emotion; of ecstatic emotions; of emotion; of the ecstasy; of the ecstatic moods; of the mood; of the sentiments; to the ecstatic mood."
+}
+---
 
 ==== bhāvera  ====
   * of ecstasies --- [[books:cc:madhya:2:63|Madhya 2.63]], [[books:cc:madhya:14:170|Madhya 14.170]], [[books:cc:antya:5:23|Antya 5.23]]

@@ -1,5 +1,11 @@
-~~Title:sabāi~~
-{{description>all; all of them; every one of Them.}}
+---json
+{
+    "name":"sabāi",
+    "h1":"sabāi",
+    "title":"sabāi",
+    "description":"all; all of them; every one of Them."
+}
+---
 
 ==== sabāi  ====
   * all --- [[books:cc:antya:9:129|Antya 9.129]], [[books:cc:antya:10:9-11|Antya 10.9-11]]

@@ -1,5 +1,11 @@
-~~Title:svāsraiḥ~~
-{{description>by her tears.}}
+---json
+{
+    "name":"svāsraiḥ",
+    "h1":"svāsraiḥ",
+    "title":"svāsraiḥ",
+    "description":"by her tears."
+}
+---
 
 ==== svāsraiḥ  ====
   * by her tears --- [[books:sb:3:1:7|SB 3.1.7]]

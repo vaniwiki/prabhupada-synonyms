@@ -1,5 +1,11 @@
-~~Title:manyavaḥ~~
-{{description>anger; angry; their anger.}}
+---json
+{
+    "name":"manyavaḥ",
+    "h1":"manyavaḥ",
+    "title":"manyavaḥ",
+    "description":"anger; angry; their anger."
+}
+---
 
 ==== manyavaḥ  ====
   * anger --- [[books:sb:4:25:8|SB 4.25.8]]

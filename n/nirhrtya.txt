@@ -1,5 +1,11 @@
-~~Title:nirhṛtya~~
-{{description>burning; removing.}}
+---json
+{
+    "name":"nirhṛtya",
+    "h1":"nirhṛtya",
+    "title":"nirhṛtya",
+    "description":"burning; removing."
+}
+---
 
 ==== nirhṛtya  ====
   * burning --- [[books:sb:5:18:3|SB 5.18.3]]

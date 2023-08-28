@@ -1,5 +1,11 @@
-~~Title:nirvyalīka~~
-{{description>free from all sinful purposes.}}
+---json
+{
+    "name":"nirvyalīka",
+    "h1":"nirvyalīka",
+    "title":"nirvyalīka",
+    "description":"free from all sinful purposes."
+}
+---
 
 ==== nirvyalīka  ====
   * free from all sinful purposes --- [[books:sb:3:19:1|SB 3.19.1]]

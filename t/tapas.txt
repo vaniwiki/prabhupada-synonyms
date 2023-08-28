@@ -1,5 +1,11 @@
-~~Title:tapas~~
-{{description>austerities.}}
+---json
+{
+    "name":"tapas",
+    "h1":"tapas",
+    "title":"tapas",
+    "description":"austerities."
+}
+---
 
 ==== tapas  ====
   * austerities --- [[books:cc:adi:13:65|Ādi 13.65]]

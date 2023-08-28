@@ -1,5 +1,11 @@
-~~Title:niranukrośaḥ~~
-{{description>merciless; without compassion.}}
+---json
+{
+    "name":"niranukrośaḥ",
+    "h1":"niranukrośaḥ",
+    "title":"niranukrośaḥ",
+    "description":"merciless; without compassion."
+}
+---
 
 ==== niranukrośaḥ  ====
   * merciless --- [[books:sb:4:13:41|SB 4.13.41]]

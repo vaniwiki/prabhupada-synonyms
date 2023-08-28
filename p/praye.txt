@@ -1,5 +1,11 @@
-~~Title:prāye~~
-{{description>similar to the dark caves in the mountains.}}
+---json
+{
+    "name":"prāye",
+    "h1":"prāye",
+    "title":"prāye",
+    "description":"similar to the dark caves in the mountains."
+}
+---
 
 ==== giri-kandara-prāye  ====
   * similar to the dark caves in the mountains --- [[books:sb:5:14:33|SB 5.14.33]]

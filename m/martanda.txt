@@ -1,5 +1,11 @@
-~~Title:mārtaṇḍa~~
-{{description>Mārtaṇḍa.}}
+---json
+{
+    "name":"mārtaṇḍa",
+    "h1":"mārtaṇḍa",
+    "title":"mārtaṇḍa",
+    "description":"Mārtaṇḍa."
+}
+---
 
 ==== mārtaṇḍa  ====
   * Mārtaṇḍa --- [[books:sb:5:20:44|SB 5.20.44]]

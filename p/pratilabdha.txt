@@ -1,5 +1,11 @@
-~~Title:pratilabdha~~
-{{description>acquired; developed; getting back; obtained; obtained thereof; recovering.}}
+---json
+{
+    "name":"pratilabdha",
+    "h1":"pratilabdha",
+    "title":"pratilabdha",
+    "description":"acquired; developed; getting back; obtained; obtained thereof; recovering."
+}
+---
 
 ==== pratilabdha  ====
   * acquired --- [[books:sb:3:16:7|SB 3.16.7]]

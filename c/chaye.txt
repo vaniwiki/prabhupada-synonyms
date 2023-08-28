@@ -1,5 +1,11 @@
-~~Title:chāye~~
-{{description>alone.}}
+---json
+{
+    "name":"chāye",
+    "h1":"chāye",
+    "title":"chāye",
+    "description":"alone."
+}
+---
 
 ==== nija-chāye  ====
   * alone --- [[books:cc:madhya:15:198|Madhya 15.198]]

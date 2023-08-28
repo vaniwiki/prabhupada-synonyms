@@ -1,5 +1,11 @@
-~~Title:sītāre~~
-{{description>Sītā.}}
+---json
+{
+    "name":"sītāre",
+    "h1":"sītāre",
+    "title":"sītāre",
+    "description":"Sītā."
+}
+---
 
 ==== sītāre  ====
   * Sītā --- [[books:cc:madhya:9:205|Madhya 9.205]]

@@ -1,5 +1,11 @@
-~~Title:toyena~~
-{{description>water.}}
+---json
+{
+    "name":"toyena",
+    "h1":"toyena",
+    "title":"toyena",
+    "description":"water."
+}
+---
 
 ==== toyena  ====
   * water --- [[books:sb:8:24:13|SB 8.24.13]]

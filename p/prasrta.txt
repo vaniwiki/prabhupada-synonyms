@@ -1,5 +1,11 @@
-~~Title:prasṛtā~~
-{{description>extension.}}
+---json
+{
+    "name":"prasṛtā",
+    "h1":"prasṛtā",
+    "title":"prasṛtā",
+    "description":"extension."
+}
+---
 
 ==== prasṛtā  ====
   * extension --- [[books:bg:15:3-4|Bg. 15.3-4]]

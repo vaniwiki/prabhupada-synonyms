@@ -1,5 +1,11 @@
-~~Title:sampattyā~~
-{{description>by possession of spiritual assets.}}
+---json
+{
+    "name":"sampattyā",
+    "h1":"sampattyā",
+    "title":"sampattyā",
+    "description":"by possession of spiritual assets."
+}
+---
 
 ==== brahma-sampattyā  ====
   * by possession of spiritual assets --- [[books:sb:1:15:31|SB 1.15.31]]

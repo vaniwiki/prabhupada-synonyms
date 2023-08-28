@@ -1,5 +1,11 @@
-~~Title:vinyastayā~~
-{{description>placed around.}}
+---json
+{
+    "name":"vinyastayā",
+    "h1":"vinyastayā",
+    "title":"vinyastayā",
+    "description":"placed around."
+}
+---
 
 ==== vinyastayā  ====
   * placed around --- [[books:sb:3:15:28|SB 3.15.28]]

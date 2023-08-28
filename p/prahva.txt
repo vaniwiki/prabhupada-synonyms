@@ -1,5 +1,11 @@
-~~Title:prahvā~~
-{{description>by bowing His head.}}
+---json
+{
+    "name":"prahvā",
+    "h1":"prahvā",
+    "title":"prahvā",
+    "description":"by bowing His head."
+}
+---
 
 ==== prahvā  ====
   * by bowing His head --- [[books:sb:1:11:22|SB 1.11.22]]

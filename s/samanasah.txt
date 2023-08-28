@@ -1,5 +1,11 @@
-~~Title:samanasaḥ~~
-{{description>with a mind.}}
+---json
+{
+    "name":"samanasaḥ",
+    "h1":"samanasaḥ",
+    "title":"samanasaḥ",
+    "description":"with a mind."
+}
+---
 
 ==== samanasaḥ  ====
   * with a mind --- [[books:sb:4:29:68|SB 4.29.68]]

@@ -1,5 +1,11 @@
-~~Title:pariccheda~~
-{{description>chapter.}}
+---json
+{
+    "name":"pariccheda",
+    "h1":"pariccheda",
+    "title":"pariccheda",
+    "description":"chapter."
+}
+---
 
 ==== pariccheda  ====
   * chapter --- [[books:cc:adi:17:313|Ādi 17.313]]

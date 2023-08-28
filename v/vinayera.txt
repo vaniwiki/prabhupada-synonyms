@@ -1,5 +1,11 @@
-~~Title:vinayera~~
-{{description>the mine of humility.}}
+---json
+{
+    "name":"vinayera",
+    "h1":"vinayera",
+    "title":"vinayera",
+    "description":"the mine of humility."
+}
+---
 
 ==== vinayera khani  ====
   * the mine of humility --- [[books:cc:antya:5:77|Antya 5.77]]

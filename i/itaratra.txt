@@ -1,5 +1,11 @@
-~~Title:itaratra~~
-{{description>elsewhere; on the other hand; other minor prowesses.}}
+---json
+{
+    "name":"itaratra",
+    "h1":"itaratra",
+    "title":"itaratra",
+    "description":"elsewhere; on the other hand; other minor prowesses."
+}
+---
 
 ==== itaratra  ====
   * elsewhere --- [[books:sb:5:26:37|SB 5.26.37]]

@@ -1,5 +1,11 @@
-~~Title:pānīya~~
-{{description>drinking water; water.}}
+---json
+{
+    "name":"pānīya",
+    "h1":"pānīya",
+    "title":"pānīya",
+    "description":"drinking water; water."
+}
+---
 
 ==== pānīya  ====
   * drinking water --- [[books:cc:madhya:18:34|Madhya 18.34]], [[books:cc:antya:14:86|Antya 14.86]]

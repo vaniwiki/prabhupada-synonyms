@@ -1,5 +1,11 @@
-~~Title:prarūḍha~~
-{{description>increased.}}
+---json
+{
+    "name":"prarūḍha",
+    "h1":"prarūḍha",
+    "title":"prarūḍha",
+    "description":"increased."
+}
+---
 
 ==== prarūḍha  ====
   * increased --- [[books:sb:4:13:1|SB 4.13.1]]

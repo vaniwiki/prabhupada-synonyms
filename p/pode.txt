@@ -1,5 +1,11 @@
-~~Title:poḍe~~
-{{description>burns; were burning.}}
+---json
+{
+    "name":"poḍe",
+    "h1":"poḍe",
+    "title":"poḍe",
+    "description":"burns; were burning."
+}
+---
 
 ==== poḍe  ====
   * burns --- [[books:cc:madhya:2:60|Madhya 2.60]], [[books:cc:madhya:3:125|Madhya 3.125]], [[books:cc:antya:20:41|Antya 20.41]]

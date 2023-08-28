@@ -1,5 +1,11 @@
-~~Title:śamayiṣyāmi~~
-{{description>I shall pacify.}}
+---json
+{
+    "name":"śamayiṣyāmi",
+    "h1":"śamayiṣyāmi",
+    "title":"śamayiṣyāmi",
+    "description":"I shall pacify."
+}
+---
 
 ==== śamayiṣyāmi  ====
   * I shall pacify --- [[books:sb:4:17:25|SB 4.17.25]]

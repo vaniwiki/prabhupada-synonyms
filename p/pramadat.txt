@@ -1,5 +1,11 @@
-~~Title:pramādāt~~
-{{description>from fear of imminent death; from the madness; out of foolishness; out of ignorance; which are enacted in madness.}}
+---json
+{
+    "name":"pramādāt",
+    "h1":"pramādāt",
+    "title":"pramādāt",
+    "description":"from fear of imminent death; from the madness; out of foolishness; out of ignorance; which are enacted in madness."
+}
+---
 
 ==== pramādāt  ====
   * from fear of imminent death --- [[books:sb:5:13:18|SB 5.13.18]]

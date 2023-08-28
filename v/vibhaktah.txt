@@ -1,5 +1,11 @@
-~~Title:vibhaktāḥ~~
-{{description>divided.}}
+---json
+{
+    "name":"vibhaktāḥ",
+    "h1":"vibhaktāḥ",
+    "title":"vibhaktāḥ",
+    "description":"divided."
+}
+---
 
 ==== vibhaktāḥ  ====
   * divided --- [[books:sb:5:2:21|SB 5.2.21]]

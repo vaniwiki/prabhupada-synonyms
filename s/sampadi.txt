@@ -1,5 +1,11 @@
-~~Title:sampadi~~
-{{description>opulent.}}
+---json
+{
+    "name":"sampadi",
+    "h1":"sampadi",
+    "title":"sampadi",
+    "description":"opulent."
+}
+---
 
 ==== sampadi  ====
   * opulent --- [[books:sb:4:25:18|SB 4.25.18]]

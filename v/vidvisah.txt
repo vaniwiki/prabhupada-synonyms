@@ -1,5 +1,11 @@
-~~Title:vidviṣaḥ~~
-{{description>enemies; envious; or envious persons.}}
+---json
+{
+    "name":"vidviṣaḥ",
+    "h1":"vidviṣaḥ",
+    "title":"vidviṣaḥ",
+    "description":"enemies; envious; or envious persons."
+}
+---
 
 ==== vidviṣaḥ  ====
   * enemies --- [[books:sb:7:8:9|SB 7.8.9]]

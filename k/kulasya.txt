@@ -1,5 +1,11 @@
-~~Title:kulasya~~
-{{description>of the family.}}
+---json
+{
+    "name":"kulasya",
+    "h1":"kulasya",
+    "title":"kulasya",
+    "description":"of the family."
+}
+---
 
 ==== kulasya  ====
   * of the family --- [[books:bg:1:41|Bg. 1.41]]

@@ -1,5 +1,11 @@
-~~Title:sampratīkṣante~~
-{{description>are awaiting.}}
+---json
+{
+    "name":"sampratīkṣante",
+    "h1":"sampratīkṣante",
+    "title":"sampratīkṣante",
+    "description":"are awaiting."
+}
+---
 
 ==== sampratīkṣante  ====
   * are awaiting --- [[books:sb:4:25:8|SB 4.25.8]]

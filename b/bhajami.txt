@@ -1,5 +1,11 @@
-~~Title:bhajāmi~~
-{{description>bestow My favor; do I reward; offer my obeisances; offer my respectful obeisances; offer my worshipful respect; offer obeisances; reward; worship.}}
+---json
+{
+    "name":"bhajāmi",
+    "h1":"bhajāmi",
+    "title":"bhajāmi",
+    "description":"bestow My favor; do I reward; offer my obeisances; offer my respectful obeisances; offer my worshipful respect; offer obeisances; reward; worship."
+}
+---
 
 ==== bhajāmi  ====
   * bestow My favor --- [[books:cc:madhya:8:91|Madhya 8.91]]

@@ -1,5 +1,11 @@
-~~Title:rāmānande~~
-{{description>Rāmānanda Rāya; to Śrī Rāmānanda Rāya; unto Rāmānanda.}}
+---json
+{
+    "name":"rāmānande",
+    "h1":"rāmānande",
+    "title":"rāmānande",
+    "description":"Rāmānanda Rāya; to Śrī Rāmānanda Rāya; unto Rāmānanda."
+}
+---
 
 ==== rāmānande  ====
   * Rāmānanda Rāya --- [[books:cc:antya:14:40|Antya 14.40]]

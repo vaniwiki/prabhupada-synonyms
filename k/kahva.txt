@@ -1,5 +1,11 @@
-~~Title:kaḥvā~~
-{{description>who possibly.}}
+---json
+{
+    "name":"kaḥvā",
+    "h1":"kaḥvā",
+    "title":"kaḥvā",
+    "description":"who possibly."
+}
+---
 
 ==== kaḥvā  ====
   * who possibly --- [[books:cc:adi:3:27|Ādi 3.27]]

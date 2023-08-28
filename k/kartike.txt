@@ -1,5 +1,11 @@
-~~Title:kārtike~~
-{{description>in Kārttika; in the month of Kārtika (October-November); in the month of Kārttika (October-November).}}
+---json
+{
+    "name":"kārtike",
+    "h1":"kārtike",
+    "title":"kārtike",
+    "description":"in Kārttika; in the month of Kārtika (October-November); in the month of Kārttika (October-November)."
+}
+---
 
 ==== kārtike  ====
   * in Kārttika --- [[books:sb:6:19:21|SB 6.19.21]]

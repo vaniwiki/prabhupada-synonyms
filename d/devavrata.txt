@@ -1,5 +1,11 @@
-~~Title:devavrata~~
-{{description>Bhīṣmadeva and others.}}
+---json
+{
+    "name":"devavrata",
+    "h1":"devavrata",
+    "title":"devavrata",
+    "description":"Bhīṣmadeva and others."
+}
+---
 
 ==== devavrata-ādya  ====
   * Bhīṣmadeva and others --- [[books:sb:10:1:5-7|SB 10.1.5-7]]

@@ -1,5 +1,11 @@
-~~Title:sumatyāḥ~~
-{{description>the sons born of Queen Sumati.}}
+---json
+{
+    "name":"sumatyāḥ",
+    "h1":"sumatyāḥ",
+    "title":"sumatyāḥ",
+    "description":"the sons born of Queen Sumati."
+}
+---
 
 ==== sumatyāḥ tanayāḥ  ====
   * the sons born of Queen Sumati --- [[books:sb:9:8:8|SB 9.8.8]]

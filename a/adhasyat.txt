@@ -1,5 +1,11 @@
-~~Title:adhasyat~~
-{{description>will keep.}}
+---json
+{
+    "name":"adhasyat",
+    "h1":"adhasyat",
+    "title":"adhasyat",
+    "description":"will keep."
+}
+---
 
 ==== adhāsyat  ====
   * will keep --- [[books:cc:adi:6:68|Ādi 6.68]]

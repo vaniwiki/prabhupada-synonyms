@@ -1,5 +1,11 @@
-~~Title:rajani~~
-{{description>Rajanī.}}
+---json
+{
+    "name":"rajani",
+    "h1":"rajani",
+    "title":"rajani",
+    "description":"Rajanī."
+}
+---
 
 ==== rajanī  ====
   * Rajanī --- [[books:sb:5:20:10|SB 5.20.10]]

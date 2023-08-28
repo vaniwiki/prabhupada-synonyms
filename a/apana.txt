@@ -1,5 +1,11 @@
-~~Title:apana~~
-{{description>air going downward; downgoing air.}}
+---json
+{
+    "name":"apana",
+    "h1":"apana",
+    "title":"apana",
+    "description":"air going downward; downgoing air."
+}
+---
 
 ==== apāna  ====
   * air going downward --- [[books:bg:4:29|Bg. 4.29]]

@@ -1,5 +1,11 @@
-~~Title:sancari~~
-{{description>ecstatic emotion; impetuses for all kinds of emotion; passing; the continuously existing ecstasies.}}
+---json
+{
+    "name":"sancari",
+    "h1":"sancari",
+    "title":"sancari",
+    "description":"ecstatic emotion; impetuses for all kinds of emotion; passing; the continuously existing ecstasies."
+}
+---
 
 ==== sañcārī  ====
   * ecstatic emotion --- [[books:cc:madhya:14:173|Madhya 14.173]]

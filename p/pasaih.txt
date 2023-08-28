@@ -1,5 +1,11 @@
-~~Title:pāśaiḥ~~
-{{description>by ropes; by the ropes; with ropes.}}
+---json
+{
+    "name":"pāśaiḥ",
+    "h1":"pāśaiḥ",
+    "title":"pāśaiḥ",
+    "description":"by ropes; by the ropes; with ropes."
+}
+---
 
 ==== pāśaiḥ  ====
   * by ropes --- [[books:sb:6:2:31|SB 6.2.31]]

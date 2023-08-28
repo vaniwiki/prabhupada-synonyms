@@ -1,5 +1,11 @@
-~~Title:naiṣkṛtikaḥ~~
-{{description>expert in insulting others.}}
+---json
+{
+    "name":"naiṣkṛtikaḥ",
+    "h1":"naiṣkṛtikaḥ",
+    "title":"naiṣkṛtikaḥ",
+    "description":"expert in insulting others."
+}
+---
 
 ==== naiṣkṛtikaḥ  ====
   * expert in insulting others --- [[books:bg:18:28|Bg. 18.28]]

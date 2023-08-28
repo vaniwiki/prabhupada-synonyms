@@ -1,5 +1,11 @@
-~~Title:apahatyai~~
-{{description>to drive away.}}
+---json
+{
+    "name":"apahatyai",
+    "h1":"apahatyai",
+    "title":"apahatyai",
+    "description":"to drive away."
+}
+---
 
 ==== apahatyai  ====
   * to drive away --- [[books:cc:antya:4:63|Antya 4.63]]

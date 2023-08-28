@@ -1,5 +1,11 @@
-~~Title:vrajantīḥ~~
-{{description>were going.}}
+---json
+{
+    "name":"vrajantīḥ",
+    "h1":"vrajantīḥ",
+    "title":"vrajantīḥ",
+    "description":"were going."
+}
+---
 
 ==== vrajantīḥ  ====
   * were going --- [[books:sb:4:3:5-7|SB 4.3.5-7]]

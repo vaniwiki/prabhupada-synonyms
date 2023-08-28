@@ -1,5 +1,11 @@
-~~Title:raśmīn~~
-{{description>the rays; the reins.}}
+---json
+{
+    "name":"raśmīn",
+    "h1":"raśmīn",
+    "title":"raśmīn",
+    "description":"the rays; the reins."
+}
+---
 
 ==== raśmīn  ====
   * the rays --- [[books:iso:16|Īśo 16]]

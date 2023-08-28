@@ -1,5 +1,11 @@
-~~Title:akālataḥ~~
-{{description>ripened untimely.}}
+---json
+{
+    "name":"akālataḥ",
+    "h1":"akālataḥ",
+    "title":"akālataḥ",
+    "description":"ripened untimely."
+}
+---
 
 ==== akālataḥ  ====
   * ripened untimely --- [[books:sb:7:12:18|SB 7.12.18]]

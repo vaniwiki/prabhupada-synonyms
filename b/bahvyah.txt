@@ -1,5 +1,11 @@
-~~Title:bahvyaḥ~~
-{{description>many; many others; many, many.}}
+---json
+{
+    "name":"bahvyaḥ",
+    "h1":"bahvyaḥ",
+    "title":"bahvyaḥ",
+    "description":"many; many others; many, many."
+}
+---
 
 ==== bahvyaḥ  ====
   * many --- [[books:sb:5:19:19|SB 5.19.19]], [[books:sb:7:9:40|SB 7.9.40]]

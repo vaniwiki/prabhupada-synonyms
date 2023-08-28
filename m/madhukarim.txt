@@ -1,5 +1,11 @@
-~~Title:madhukarīm~~
-{{description>like a honeybee.}}
+---json
+{
+    "name":"madhukarīm",
+    "h1":"madhukarīm",
+    "title":"madhukarīm",
+    "description":"like a honeybee."
+}
+---
 
 ==== madhukarīm iva  ====
   * like a honeybee --- [[books:sb:5:2:6|SB 5.2.6]]

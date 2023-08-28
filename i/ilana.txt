@@ -1,5 +1,11 @@
-~~Title:ilāṅa~~
-{{description>became; have become; I became.}}
+---json
+{
+    "name":"ilāṅa",
+    "h1":"ilāṅa",
+    "title":"ilāṅa",
+    "description":"became; have become; I became."
+}
+---
 
 ==== ha-ilāṅa  ====
   * became --- [[books:cc:madhya:11:134|Madhya 11.134]]

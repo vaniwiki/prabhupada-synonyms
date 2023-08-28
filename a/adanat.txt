@@ -1,5 +1,11 @@
-~~Title:adanāt~~
-{{description>by the chewing (of betel).}}
+---json
+{
+    "name":"adanāt",
+    "h1":"adanāt",
+    "title":"adanāt",
+    "description":"by the chewing (of betel)."
+}
+---
 
 ==== adanāt  ====
   * by the chewing (of betel) --- [[books:sb:5:2:13|SB 5.2.13]]

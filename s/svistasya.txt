@@ -1,5 +1,11 @@
-~~Title:sviṣṭasya~~
-{{description>sacrifice.}}
+---json
+{
+    "name":"sviṣṭasya",
+    "h1":"sviṣṭasya",
+    "title":"sviṣṭasya",
+    "description":"sacrifice."
+}
+---
 
 ==== sviṣṭasya  ====
   * sacrifice --- [[books:sb:1:5:22|SB 1.5.22]]

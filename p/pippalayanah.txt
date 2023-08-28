@@ -1,5 +1,11 @@
-~~Title:pippalāyanaḥ~~
-{{description>Pippalāyana.}}
+---json
+{
+    "name":"pippalāyanaḥ",
+    "h1":"pippalāyanaḥ",
+    "title":"pippalāyanaḥ",
+    "description":"Pippalāyana."
+}
+---
 
 ==== pippalāyanaḥ  ====
   * Pippalāyana --- [[books:sb:5:4:11-12|SB 5.4.11-12]]

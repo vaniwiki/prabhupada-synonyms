@@ -1,5 +1,11 @@
-~~Title:prativyoḍhum~~
-{{description>to counteract; to stop him from such activities.}}
+---json
+{
+    "name":"prativyoḍhum",
+    "h1":"prativyoḍhum",
+    "title":"prativyoḍhum",
+    "description":"to counteract; to stop him from such activities."
+}
+---
 
 ==== prativyoḍhum  ====
   * to counteract --- [[books:sb:8:15:26|SB 8.15.26]]

@@ -1,5 +1,11 @@
-~~Title:kumbhīpāke~~
-{{description>in the hell known as Kumbhīpāka.}}
+---json
+{
+    "name":"kumbhīpāke",
+    "h1":"kumbhīpāke",
+    "title":"kumbhīpāke",
+    "description":"in the hell known as Kumbhīpāka."
+}
+---
 
 ==== kumbhīpāke  ====
   * in the hell known as Kumbhīpāka --- [[books:sb:5:26:13|SB 5.26.13]]

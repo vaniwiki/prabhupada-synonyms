@@ -1,5 +1,11 @@
-~~Title:jasya~~
-{{description>of the elder brother.}}
+---json
+{
+    "name":"jasya",
+    "h1":"jasya",
+    "title":"jasya",
+    "description":"of the elder brother."
+}
+---
 
 ==== agra-jasya  ====
   * of the elder brother --- [[books:sb:6:11:15|SB 6.11.15]]

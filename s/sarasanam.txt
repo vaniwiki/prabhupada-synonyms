@@ -1,5 +1,11 @@
-~~Title:śarāsanam~~
-{{description>arrows and bow; bows; his bow.}}
+---json
+{
+    "name":"śarāsanam",
+    "h1":"śarāsanam",
+    "title":"śarāsanam",
+    "description":"arrows and bow; bows; his bow."
+}
+---
 
 ==== śarāsanam  ====
   * arrows and bow --- [[books:sb:1:16:10|SB 1.16.10]]

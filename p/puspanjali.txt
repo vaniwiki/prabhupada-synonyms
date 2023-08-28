@@ -1,5 +1,11 @@
-~~Title:puṣpāñjali~~
-{{description>offering flowers to the Lord Jagannātha Deity; the puṣpāñjali performance.}}
+---json
+{
+    "name":"puṣpāñjali",
+    "h1":"puṣpāñjali",
+    "title":"puṣpāñjali",
+    "description":"offering flowers to the Lord Jagannātha Deity; the puṣpāñjali performance."
+}
+---
 
 ==== puṣpāñjali  ====
   * offering flowers to the Lord Jagannātha Deity --- [[books:cc:madhya:11:238|Madhya 11.238]]

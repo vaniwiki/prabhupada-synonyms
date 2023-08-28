@@ -1,5 +1,11 @@
-~~Title:dhāman~~
-{{description>abode.}}
+---json
+{
+    "name":"dhāman",
+    "h1":"dhāman",
+    "title":"dhāman",
+    "description":"abode."
+}
+---
 
 ==== dhāman  ====
   * abode --- [[books:sb:2:9:17|SB 2.9.17]]

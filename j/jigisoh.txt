@@ -1,5 +1,11 @@
-~~Title:jigīṣoḥ~~
-{{description>desirous.}}
+---json
+{
+    "name":"jigīṣoḥ",
+    "h1":"jigīṣoḥ",
+    "title":"jigīṣoḥ",
+    "description":"desirous."
+}
+---
 
 ==== jigīṣoḥ  ====
   * desirous --- [[books:sb:4:8:37|SB 4.8.37]]

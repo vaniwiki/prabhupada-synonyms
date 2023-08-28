@@ -1,5 +1,11 @@
-~~Title:saṁsthānaiḥ~~
-{{description>situated in.}}
+---json
+{
+    "name":"saṁsthānaiḥ",
+    "h1":"saṁsthānaiḥ",
+    "title":"saṁsthānaiḥ",
+    "description":"situated in."
+}
+---
 
 ==== saṁsthānaiḥ  ====
   * situated in --- [[books:sb:1:3:3|SB 1.3.3]]

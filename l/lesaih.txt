@@ -1,5 +1,11 @@
-~~Title:leśaiḥ~~
-{{description>by drops.}}
+---json
+{
+    "name":"leśaiḥ",
+    "h1":"leśaiḥ",
+    "title":"leśaiḥ",
+    "description":"by drops."
+}
+---
 
 ==== leśaiḥ  ====
   * by drops --- [[books:sb:6:16:32|SB 6.16.32]]

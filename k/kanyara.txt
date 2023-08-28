@@ -1,5 +1,11 @@
-~~Title:kanyāra~~
-{{description>for the daughter.}}
+---json
+{
+    "name":"kanyāra",
+    "h1":"kanyāra",
+    "title":"kanyāra",
+    "description":"for the daughter."
+}
+---
 
 ==== kanyāra  ====
   * for the daughter --- [[books:cc:madhya:5:66|Madhya 5.66]]

@@ -1,5 +1,11 @@
-~~Title:oghaiḥ~~
-{{description>by masses; continuously pouring.}}
+---json
+{
+    "name":"oghaiḥ",
+    "h1":"oghaiḥ",
+    "title":"oghaiḥ",
+    "description":"by masses; continuously pouring."
+}
+---
 
 ==== oghaiḥ  ====
   * by masses --- [[books:sb:3:19:19|SB 3.19.19]]

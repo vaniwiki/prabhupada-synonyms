@@ -1,5 +1,11 @@
-~~Title:upasthitasya~~
-{{description>situated nearby.}}
+---json
+{
+    "name":"upasthitasya",
+    "h1":"upasthitasya",
+    "title":"upasthitasya",
+    "description":"situated nearby."
+}
+---
 
 ==== upasthitasya  ====
   * situated nearby --- [[books:sb:8:24:36|SB 8.24.36]]

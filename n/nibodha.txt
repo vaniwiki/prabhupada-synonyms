@@ -1,5 +1,11 @@
-~~Title:nibodha~~
-{{description>just take note, be informed; just try to understand; just understand; kindly hear with attention; kindly try to understand; know it; try to understand.}}
+---json
+{
+    "name":"nibodha",
+    "h1":"nibodha",
+    "title":"nibodha",
+    "description":"just take note, be informed; just try to understand; just understand; kindly hear with attention; kindly try to understand; know it; try to understand."
+}
+---
 
 ==== nibodha  ====
   * just take note, be informed --- [[books:bg:1:7|Bg. 1.7]]

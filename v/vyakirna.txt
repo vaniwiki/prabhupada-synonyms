@@ -1,5 +1,11 @@
-~~Title:vyākīrṇa~~
-{{description>scattered.}}
+---json
+{
+    "name":"vyākīrṇa",
+    "h1":"vyākīrṇa",
+    "title":"vyākīrṇa",
+    "description":"scattered."
+}
+---
 
 ==== vyākīrṇa  ====
   * scattered --- [[books:cc:madhya:14:180|Madhya 14.180]]

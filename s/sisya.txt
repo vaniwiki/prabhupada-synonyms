@@ -1,5 +1,11 @@
-~~Title:sisya~~
-{{description>disciple; disciples; the disciple.}}
+---json
+{
+    "name":"sisya",
+    "h1":"sisya",
+    "title":"sisya",
+    "description":"disciple; disciples; the disciple."
+}
+---
 
 ==== śiṣya  ====
   * disciple --- [[books:sb:3:7:38|SB 3.7.38]], [[books:cc:adi:4:124|Ādi 4.124]], [[books:cc:adi:6:40|Ādi 6.40]], [[books:cc:adi:8:59|Ādi 8.59]], [[books:cc:adi:8:60|Ādi 8.60]], [[books:cc:adi:8:66|Ādi 8.66]], [[books:cc:adi:8:68|Ādi 8.68]], [[books:cc:madhya:18:129|Madhya 18.129]], [[books:cc:madhya:24:268|Madhya 24.268]], [[books:cc:antya:6:162|Antya 6.162]], [[books:cc:antya:6:164|Antya 6.164]]

@@ -1,5 +1,11 @@
-~~Title:amarkau~~
-{{description>Ṣaṇḍa and Amarka.}}
+---json
+{
+    "name":"amarkau",
+    "h1":"amarkau",
+    "title":"amarkau",
+    "description":"Ṣaṇḍa and Amarka."
+}
+---
 
 ==== śaṇḍa-amarkau  ====
   * Ṣaṇḍa and Amarka --- [[books:sb:7:5:48|SB 7.5.48]]

@@ -1,5 +1,11 @@
-~~Title:srngara~~
-{{description>conjugal love.}}
+---json
+{
+    "name":"srngara",
+    "h1":"srngara",
+    "title":"srngara",
+    "description":"conjugal love."
+}
+---
 
 ==== śrṅgāra  ====
   * conjugal love --- [[books:cc:adi:4:42|Ādi 4.42]]

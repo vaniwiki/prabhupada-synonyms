@@ -1,5 +1,11 @@
-~~Title:āpṛṇoti~~
-{{description>engages.}}
+---json
+{
+    "name":"āpṛṇoti",
+    "h1":"āpṛṇoti",
+    "title":"āpṛṇoti",
+    "description":"engages."
+}
+---
 
 ==== āpṛṇoti  ====
   * engages --- [[books:sb:5:5:4|SB 5.5.4]]

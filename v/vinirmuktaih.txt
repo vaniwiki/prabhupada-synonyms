@@ -1,5 +1,11 @@
-~~Title:vinirmuktaiḥ~~
-{{description>being saved from.}}
+---json
+{
+    "name":"vinirmuktaiḥ",
+    "h1":"vinirmuktaiḥ",
+    "title":"vinirmuktaiḥ",
+    "description":"being saved from."
+}
+---
 
 ==== vinirmuktaiḥ  ====
   * being saved from --- [[books:sb:1:8:17|SB 1.8.17]]

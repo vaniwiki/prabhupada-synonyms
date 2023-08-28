@@ -1,5 +1,11 @@
-~~Title:aparaiḥ~~
-{{description>not superior; other than Vasiṣṭha.}}
+---json
+{
+    "name":"aparaiḥ",
+    "h1":"aparaiḥ",
+    "title":"aparaiḥ",
+    "description":"not superior; other than Vasiṣṭha."
+}
+---
 
 ==== aparaiḥ  ====
   * not superior --- [[books:sb:5:13:21|SB 5.13.21]]

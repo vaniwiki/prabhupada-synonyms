@@ -1,5 +1,11 @@
-~~Title:parityaktah~~
-{{description>condemned; deserted.}}
+---json
+{
+    "name":"parityaktah",
+    "h1":"parityaktah",
+    "title":"parityaktah",
+    "description":"condemned; deserted."
+}
+---
 
 ==== parityaktaḥ  ====
   * condemned --- [[books:sb:9:8:17|SB 9.8.17]]

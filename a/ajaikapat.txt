@@ -1,5 +1,11 @@
-~~Title:ajaikapāt~~
-{{description>Ajaikapāt.}}
+---json
+{
+    "name":"ajaikapāt",
+    "h1":"ajaikapāt",
+    "title":"ajaikapāt",
+    "description":"Ajaikapāt."
+}
+---
 
 ==== ajaikapāt  ====
   * Ajaikapāt --- [[books:sb:6:6:17-18|SB 6.6.17-18]]

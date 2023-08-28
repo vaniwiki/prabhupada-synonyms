@@ -1,5 +1,11 @@
-~~Title:krpana~~
-{{description>from a miserly person; those who are not brāhmaṇas.}}
+---json
+{
+    "name":"krpana",
+    "h1":"krpana",
+    "title":"krpana",
+    "description":"from a miserly person; those who are not brāhmaṇas."
+}
+---
 
 ==== kṛpaṇa  ====
   * from a miserly person --- [[books:sb:6:11:19|SB 6.11.19]]

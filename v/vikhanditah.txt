@@ -1,5 +1,11 @@
-~~Title:vikhaṇḍitāḥ~~
-{{description>cut to pieces.}}
+---json
+{
+    "name":"vikhaṇḍitāḥ",
+    "h1":"vikhaṇḍitāḥ",
+    "title":"vikhaṇḍitāḥ",
+    "description":"cut to pieces."
+}
+---
 
 ==== vikhaṇḍitāḥ  ====
   * cut to pieces --- [[books:sb:8:10:37|SB 8.10.37]]

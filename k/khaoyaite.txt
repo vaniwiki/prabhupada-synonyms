@@ -1,5 +1,11 @@
-~~Title:khaoyaite~~
-{{description>to feed them.}}
+---json
+{
+    "name":"khaoyaite",
+    "h1":"khaoyaite",
+    "title":"khaoyaite",
+    "description":"to feed them."
+}
+---
 
 ==== khāoyaīte  ====
   * to feed them --- [[books:cc:madhya:4:206|Madhya 4.206]]

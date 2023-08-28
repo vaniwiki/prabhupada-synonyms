@@ -1,5 +1,11 @@
-~~Title:anuṣṭup~~
-{{description>another type of poetic meter.}}
+---json
+{
+    "name":"anuṣṭup",
+    "h1":"anuṣṭup",
+    "title":"anuṣṭup",
+    "description":"another type of poetic meter."
+}
+---
 
 ==== anuṣṭup  ====
   * another type of poetic meter --- [[books:sb:3:12:45|SB 3.12.45]]

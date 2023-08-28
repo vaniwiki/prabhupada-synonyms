@@ -1,5 +1,11 @@
-~~Title:vasam~~
-{{description>being carried away by; control; his control; under control; under the control; under the control of; victimized.}}
+---json
+{
+    "name":"vasam",
+    "h1":"vasam",
+    "title":"vasam",
+    "description":"being carried away by; control; his control; under control; under the control; under the control of; victimized."
+}
+---
 
 ==== vaśam  ====
   * being carried away by --- [[books:sb:1:8:47|SB 1.8.47]]

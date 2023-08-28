@@ -1,5 +1,11 @@
-~~Title:ślāghayanti~~
-{{description>glorify as very important.}}
+---json
+{
+    "name":"ślāghayanti",
+    "h1":"ślāghayanti",
+    "title":"ślāghayanti",
+    "description":"glorify as very important."
+}
+---
 
 ==== ślāghayanti  ====
   * glorify as very important --- [[books:sb:7:15:37|SB 7.15.37]]

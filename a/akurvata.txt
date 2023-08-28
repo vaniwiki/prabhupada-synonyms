@@ -1,5 +1,11 @@
-~~Title:akurvata~~
-{{description>did they do; executed; passed.}}
+---json
+{
+    "name":"akurvata",
+    "h1":"akurvata",
+    "title":"akurvata",
+    "description":"did they do; executed; passed."
+}
+---
 
 ==== akurvata  ====
   * did they do --- [[books:bg:1:1|Bg. 1.1]]

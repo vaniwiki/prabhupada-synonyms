@@ -1,5 +1,11 @@
-~~Title:raghupateḥ~~
-{{description>of Lord Śrī Rāmacandra.}}
+---json
+{
+    "name":"raghupateḥ",
+    "h1":"raghupateḥ",
+    "title":"raghupateḥ",
+    "description":"of Lord Śrī Rāmacandra."
+}
+---
 
 ==== raghupateḥ  ====
   * of Lord Śrī Rāmacandra --- [[books:sb:9:10:20|SB 9.10.20]]

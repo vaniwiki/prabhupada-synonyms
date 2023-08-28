@@ -1,5 +1,11 @@
-~~Title:chatre~~
-{{description>at the almshouse; at the charity booth; from centers for the distribution of food.}}
+---json
+{
+    "name":"chatre",
+    "h1":"chatre",
+    "title":"chatre",
+    "description":"at the almshouse; at the charity booth; from centers for the distribution of food."
+}
+---
 
 ==== chatre  ====
   * at the almshouse --- [[books:cc:antya:6:219|Antya 6.219]]

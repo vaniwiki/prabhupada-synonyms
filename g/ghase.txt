@@ -1,5 +1,11 @@
-~~Title:ghaṣe~~
-{{description>grind.}}
+---json
+{
+    "name":"ghaṣe",
+    "h1":"ghaṣe",
+    "title":"ghaṣe",
+    "description":"grind."
+}
+---
 
 ==== ghaṣe  ====
   * grind --- [[books:cc:madhya:2:7|Madhya 2.7]]

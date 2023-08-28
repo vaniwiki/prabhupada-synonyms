@@ -1,5 +1,11 @@
-~~Title:jighāṁsasi~~
-{{description>do you want to kill; you desire to kill.}}
+---json
+{
+    "name":"jighāṁsasi",
+    "h1":"jighāṁsasi",
+    "title":"jighāṁsasi",
+    "description":"do you want to kill; you desire to kill."
+}
+---
 
 ==== jighāṁsasi  ====
   * do you want to kill --- [[books:sb:6:18:63|SB 6.18.63]]

@@ -1,5 +1,11 @@
-~~Title:dvitīyatva~~
-{{description>the quality of being a second.}}
+---json
+{
+    "name":"dvitīyatva",
+    "h1":"dvitīyatva",
+    "title":"dvitīyatva",
+    "description":"the quality of being a second."
+}
+---
 
 ==== dvitīyatva  ====
   * the quality of being a second --- [[books:cc:adi:16:59|Ādi 16.59]]

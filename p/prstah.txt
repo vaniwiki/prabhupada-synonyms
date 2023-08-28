@@ -1,5 +1,11 @@
-~~Title:prstah~~
-{{description>and asked for; as asked; asked by; asked by you; asked for; being asked; being inquired from; being questioned; being requested; having been asked; I am asked; inquired; questioned; was asked; when he was requested; when inquired of.}}
+---json
+{
+    "name":"prstah",
+    "h1":"prstah",
+    "title":"prstah",
+    "description":"and asked for; as asked; asked by; asked by you; asked for; being asked; being inquired from; being questioned; being requested; having been asked; I am asked; inquired; questioned; was asked; when he was requested; when inquired of."
+}
+---
 
 ==== pṛṣṭaḥ  ====
   * and asked for --- [[books:sb:1:19:40|SB 1.19.40]]

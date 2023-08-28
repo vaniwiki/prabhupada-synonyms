@@ -1,5 +1,11 @@
-~~Title:mṛtaye~~
-{{description>for death.}}
+---json
+{
+    "name":"mṛtaye",
+    "h1":"mṛtaye",
+    "title":"mṛtaye",
+    "description":"for death."
+}
+---
 
 ==== mṛtaye  ====
   * for death --- [[books:sb:4:4:30|SB 4.4.30]]

@@ -1,5 +1,11 @@
-~~Title:dāreṣu~~
-{{description>in wives; wife.}}
+---json
+{
+    "name":"dāreṣu",
+    "h1":"dāreṣu",
+    "title":"dāreṣu",
+    "description":"in wives; wife."
+}
+---
 
 ==== dāreṣu  ====
   * in wives --- [[books:sb:9:4:27|SB 9.4.27]]

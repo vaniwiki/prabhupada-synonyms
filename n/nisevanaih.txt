@@ -1,5 +1,11 @@
-~~Title:niṣevaṇaiḥ~~
-{{description>by serving or going to and coming from such places.}}
+---json
+{
+    "name":"niṣevaṇaiḥ",
+    "h1":"niṣevaṇaiḥ",
+    "title":"niṣevaṇaiḥ",
+    "description":"by serving or going to and coming from such places."
+}
+---
 
 ==== niṣevaṇaiḥ  ====
   * by serving or going to and coming from such places --- [[books:sb:9:7:18|SB 9.7.18]]

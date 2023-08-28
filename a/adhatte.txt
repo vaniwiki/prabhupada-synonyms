@@ -1,5 +1,11 @@
-~~Title:ādhatte~~
-{{description>puts.}}
+---json
+{
+    "name":"ādhatte",
+    "h1":"ādhatte",
+    "title":"ādhatte",
+    "description":"puts."
+}
+---
 
 ==== ādhatte  ====
   * puts --- [[books:sb:4:29:33|SB 4.29.33]]

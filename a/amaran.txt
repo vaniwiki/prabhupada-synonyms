@@ -1,5 +1,11 @@
-~~Title:amarān~~
-{{description>all the demigods; the demigods.}}
+---json
+{
+    "name":"amarān",
+    "h1":"amarān",
+    "title":"amarān",
+    "description":"all the demigods; the demigods."
+}
+---
 
 ==== amarān  ====
   * all the demigods --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

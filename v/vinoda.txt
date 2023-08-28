@@ -1,5 +1,11 @@
-~~Title:vinoda~~
-{{description>pleasure.}}
+---json
+{
+    "name":"vinoda",
+    "h1":"vinoda",
+    "title":"vinoda",
+    "description":"pleasure."
+}
+---
 
 ==== vinoda  ====
   * pleasure --- [[books:sb:4:29:18-20|SB 4.29.18-20]]

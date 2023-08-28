@@ -1,5 +1,11 @@
-~~Title:jvāliyā~~
-{{description>burning; lighting.}}
+---json
+{
+    "name":"jvāliyā",
+    "h1":"jvāliyā",
+    "title":"jvāliyā",
+    "description":"burning; lighting."
+}
+---
 
 ==== jvāliyā  ====
   * burning --- [[books:cc:antya:17:14|Antya 17.14]]

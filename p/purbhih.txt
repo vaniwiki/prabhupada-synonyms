@@ -1,5 +1,11 @@
-~~Title:pūrbhiḥ~~
-{{description>by rockets.}}
+---json
+{
+    "name":"pūrbhiḥ",
+    "h1":"pūrbhiḥ",
+    "title":"pūrbhiḥ",
+    "description":"by rockets."
+}
+---
 
 ==== pūrbhiḥ  ====
   * by rockets --- [[books:sb:2:7:37|SB 2.7.37]]

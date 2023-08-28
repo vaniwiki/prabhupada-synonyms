@@ -1,5 +1,11 @@
-~~Title:avijñam~~
-{{description>foolish.}}
+---json
+{
+    "name":"avijñam",
+    "h1":"avijñam",
+    "title":"avijñam",
+    "description":"foolish."
+}
+---
 
 ==== avijñam  ====
   * foolish --- [[books:sb:4:28:20|SB 4.28.20]]

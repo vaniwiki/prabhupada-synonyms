@@ -1,5 +1,11 @@
-~~Title:tepuḥ~~
-{{description>executed; have performed; performed.}}
+---json
+{
+    "name":"tepuḥ",
+    "h1":"tepuḥ",
+    "title":"tepuḥ",
+    "description":"executed; have performed; performed."
+}
+---
 
 ==== tepuḥ  ====
   * executed --- [[books:sb:4:25:2|SB 4.25.2]]

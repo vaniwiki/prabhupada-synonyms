@@ -1,5 +1,11 @@
-~~Title:vivṛddhaye~~
-{{description>for elevation.}}
+---json
+{
+    "name":"vivṛddhaye",
+    "h1":"vivṛddhaye",
+    "title":"vivṛddhaye",
+    "description":"for elevation."
+}
+---
 
 ==== vivṛddhaye  ====
   * for elevation --- [[books:sb:9:22:14-15|SB 9.22.14-15]]

@@ -1,5 +1,11 @@
-~~Title:nalinyaḥ~~
-{{description>lotus flowers.}}
+---json
+{
+    "name":"nalinyaḥ",
+    "h1":"nalinyaḥ",
+    "title":"nalinyaḥ",
+    "description":"lotus flowers."
+}
+---
 
 ==== nalinyaḥ  ====
   * lotus flowers --- [[books:sb:8:15:13|SB 8.15.13]]

@@ -1,5 +1,11 @@
-~~Title:īśvarīm~~
-{{description>Lakṣmī, the goddess of fortune.}}
+---json
+{
+    "name":"īśvarīm",
+    "h1":"īśvarīm",
+    "title":"īśvarīm",
+    "description":"Lakṣmī, the goddess of fortune."
+}
+---
 
 ==== īśvarīm  ====
   * Lakṣmī, the goddess of fortune --- [[books:sb:4:7:34|SB 4.7.34]]

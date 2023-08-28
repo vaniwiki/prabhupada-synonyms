@@ -1,5 +1,11 @@
-~~Title:saṅgharṣaṇa~~
-{{description>rubbing of the face.}}
+---json
+{
+    "name":"saṅgharṣaṇa",
+    "h1":"saṅgharṣaṇa",
+    "title":"saṅgharṣaṇa",
+    "description":"rubbing of the face."
+}
+---
 
 ==== mukha saṅgharṣaṇa  ====
   * rubbing of the face --- [[books:cc:antya:19:60|Antya 19.60]]

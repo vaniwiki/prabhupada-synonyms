@@ -1,5 +1,11 @@
-~~Title:gopāla~~
-{{description>cowherd boy; Gopāla; Gopāla Bhaṭṭa Gosvāmī; Gopāla's name; Lord Gopāla; Lord Gopāla at Vṛndāvana; Lord Gopāla in Vṛndāvana; My dear Gopāla; my Lord Gopāla; of Gopāla; of Lord Gopāla; of the Deity of Gopāla; of the Gopāla Deity; of the name Gopāla; the Deity Gopāla; the Deity of Gopāla; the Deity of Gopāla Rāya; the Deity of Lord Gopāla; the Deity of Śrī Gopāla; the Gopāla Deity; the Lord Gopāla; the son of Advaita Prabhu.}}
+---json
+{
+    "name":"gopāla",
+    "h1":"gopāla",
+    "title":"gopāla",
+    "description":"cowherd boy; Gopāla; Gopāla Bhaṭṭa Gosvāmī; Gopāla's name; Lord Gopāla; Lord Gopāla at Vṛndāvana; Lord Gopāla in Vṛndāvana; My dear Gopāla; my Lord Gopāla; of Gopāla; of Lord Gopāla; of the Deity of Gopāla; of the Gopāla Deity; of the name Gopāla; the Deity Gopāla; the Deity of Gopāla; the Deity of Gopāla Rāya; the Deity of Lord Gopāla; the Deity of Śrī Gopāla; the Gopāla Deity; the Lord Gopāla; the son of Advaita Prabhu."
+}
+---
 
 ==== gopāla  ====
   * cowherd boy --- [[books:cc:adi:11:32|Ādi 11.32]]

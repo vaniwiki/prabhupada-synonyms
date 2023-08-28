@@ -1,5 +1,11 @@
-~~Title:āchaya~~
-{{description>there are; there is.}}
+---json
+{
+    "name":"āchaya",
+    "h1":"āchaya",
+    "title":"āchaya",
+    "description":"there are; there is."
+}
+---
 
 ==== āchaya  ====
   * there are --- [[books:cc:madhya:8:82|Madhya 8.82]]

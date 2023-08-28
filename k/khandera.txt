@@ -1,5 +1,11 @@
-~~Title:khaṇḍera~~
-{{description>of the place known as Khaṇḍa; of the place named Khaṇḍa.}}
+---json
+{
+    "name":"khaṇḍera",
+    "h1":"khaṇḍera",
+    "title":"khaṇḍera",
+    "description":"of the place known as Khaṇḍa; of the place named Khaṇḍa."
+}
+---
 
 ==== khaṇḍera  ====
   * of the place known as Khaṇḍa --- [[books:cc:madhya:15:112|Madhya 15.112]]

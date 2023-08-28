@@ -1,5 +1,11 @@
-~~Title:svarah~~
-{{description>vowels.}}
+---json
+{
+    "name":"svarah",
+    "h1":"svarah",
+    "title":"svarah",
+    "description":"vowels."
+}
+---
 
 ==== svaraḥ  ====
   * vowels --- [[books:sb:3:12:47|SB 3.12.47]]

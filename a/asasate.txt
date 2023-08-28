@@ -1,5 +1,11 @@
-~~Title:āśāsate~~
-{{description>ask for; aspire; intent desire.}}
+---json
+{
+    "name":"āśāsate",
+    "h1":"āśāsate",
+    "title":"āśāsate",
+    "description":"ask for; aspire; intent desire."
+}
+---
 
 ==== āśāsate  ====
   * ask for --- [[books:sb:5:18:19|SB 5.18.19]]

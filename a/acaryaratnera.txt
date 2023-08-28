@@ -1,5 +1,11 @@
-~~Title:ācāryaratnera~~
-{{description>of Candraśekhara (Ācāryaratna); of Candraśekhara; of Ācāryaratna.}}
+---json
+{
+    "name":"ācāryaratnera",
+    "h1":"ācāryaratnera",
+    "title":"ācāryaratnera",
+    "description":"of Candraśekhara (Ācāryaratna); of Candraśekhara; of Ācāryaratna."
+}
+---
 
 ==== ācāryaratnera  ====
   * of Candraśekhara (Ācāryaratna) --- [[books:cc:adi:13:110|Ādi 13.110]]

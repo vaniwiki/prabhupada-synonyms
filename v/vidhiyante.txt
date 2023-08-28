@@ -1,5 +1,11 @@
-~~Title:vidhīyante~~
-{{description>are allotted.}}
+---json
+{
+    "name":"vidhīyante",
+    "h1":"vidhīyante",
+    "title":"vidhīyante",
+    "description":"are allotted."
+}
+---
 
 ==== vidhīyante  ====
   * are allotted --- [[books:sb:5:19:19|SB 5.19.19]]

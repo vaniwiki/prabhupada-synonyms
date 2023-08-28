@@ -1,5 +1,11 @@
-~~Title:pratyavāyaḥ~~
-{{description>diminution.}}
+---json
+{
+    "name":"pratyavāyaḥ",
+    "h1":"pratyavāyaḥ",
+    "title":"pratyavāyaḥ",
+    "description":"diminution."
+}
+---
 
 ==== pratyavāyaḥ  ====
   * diminution --- [[books:bg:2:40|Bg. 2.40]]

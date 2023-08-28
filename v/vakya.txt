@@ -1,5 +1,11 @@
-~~Title:vākya~~
-{{description>explanation; instruction; of words; speech; statement; the words; vibration; word of honor; words; words of cursing.}}
+---json
+{
+    "name":"vākya",
+    "h1":"vākya",
+    "title":"vākya",
+    "description":"explanation; instruction; of words; speech; statement; the words; vibration; word of honor; words; words of cursing."
+}
+---
 
 ==== vākya  ====
   * explanation --- [[books:cc:madhya:6:278|Madhya 6.278]]

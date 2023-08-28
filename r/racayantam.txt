@@ -1,5 +1,11 @@
-~~Title:racayantam~~
-{{description>creating.}}
+---json
+{
+    "name":"racayantam",
+    "h1":"racayantam",
+    "title":"racayantam",
+    "description":"creating."
+}
+---
 
 ==== racayantam  ====
   * creating --- [[books:sb:3:15:47|SB 3.15.47]]

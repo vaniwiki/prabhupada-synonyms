@@ -1,5 +1,11 @@
-~~Title:anubandhaḥ~~
-{{description>I who am bound by attachment to family life, or worldly life.}}
+---json
+{
+    "name":"anubandhaḥ",
+    "h1":"anubandhaḥ",
+    "title":"anubandhaḥ",
+    "description":"I who am bound by attachment to family life, or worldly life."
+}
+---
 
 ==== gṛha-anubandhaḥ  ====
   * I who am bound by attachment to family life, or worldly life --- [[books:sb:5:10:20|SB 5.10.20]]

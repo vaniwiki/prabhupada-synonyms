@@ -1,5 +1,11 @@
-~~Title:āniluṅ~~
-{{description>I brought.}}
+---json
+{
+    "name":"āniluṅ",
+    "h1":"āniluṅ",
+    "title":"āniluṅ",
+    "description":"I brought."
+}
+---
 
 ==== āniluṅ  ====
   * I brought --- [[books:cc:madhya:10:64|Madhya 10.64]]

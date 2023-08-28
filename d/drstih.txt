@@ -1,5 +1,11 @@
-~~Title:drstih~~
-{{description>glance; his vision; one whose aim is targeted like that; the power of sight; vision; whose sight.}}
+---json
+{
+    "name":"drstih",
+    "h1":"drstih",
+    "title":"drstih",
+    "description":"glance; his vision; one whose aim is targeted like that; the power of sight; vision; whose sight."
+}
+---
 
 ==== dṛṣṭiḥ  ====
   * glance --- [[books:sb:3:8:32|SB 3.8.32]], [[books:cc:madhya:14:180|Madhya 14.180]]

@@ -1,5 +1,11 @@
-~~Title:prasvāpayati~~
-{{description>the sun causes to sleep (as at midnight).}}
+---json
+{
+    "name":"prasvāpayati",
+    "h1":"prasvāpayati",
+    "title":"prasvāpayati",
+    "description":"the sun causes to sleep (as at midnight)."
+}
+---
 
 ==== prasvāpayati  ====
   * the sun causes to sleep (as at midnight) --- [[books:sb:5:21:8-9|SB 5.21.8-9]]

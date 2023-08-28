@@ -1,5 +1,11 @@
-~~Title:prabandhe~~
-{{description>in five chapters.}}
+---json
+{
+    "name":"prabandhe",
+    "h1":"prabandhe",
+    "title":"prabandhe",
+    "description":"in five chapters."
+}
+---
 
 ==== pañca-prabandhe  ====
   * in five chapters --- [[books:cc:adi:17:329|Ādi 17.329]]

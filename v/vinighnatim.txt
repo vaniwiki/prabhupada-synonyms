@@ -1,5 +1,11 @@
-~~Title:vinighnatīm~~
-{{description>striking.}}
+---json
+{
+    "name":"vinighnatīm",
+    "h1":"vinighnatīm",
+    "title":"vinighnatīm",
+    "description":"striking."
+}
+---
 
 ==== vinighnatīm  ====
   * striking --- [[books:sb:8:12:21|SB 8.12.21]]

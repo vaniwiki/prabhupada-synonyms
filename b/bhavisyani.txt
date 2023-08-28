@@ -1,5 +1,11 @@
-~~Title:bhaviṣyāṇi~~
-{{description>future; the future Manus.}}
+---json
+{
+    "name":"bhaviṣyāṇi",
+    "h1":"bhaviṣyāṇi",
+    "title":"bhaviṣyāṇi",
+    "description":"future; the future Manus."
+}
+---
 
 ==== bhaviṣyāṇi  ====
   * future --- [[books:bg:7:26|Bg. 7.26]]

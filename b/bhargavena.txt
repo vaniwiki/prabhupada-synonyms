@@ -1,5 +1,11 @@
-~~Title:bhārgaveṇa~~
-{{description>by Paraśurāma.}}
+---json
+{
+    "name":"bhārgaveṇa",
+    "h1":"bhārgaveṇa",
+    "title":"bhārgaveṇa",
+    "description":"by Paraśurāma."
+}
+---
 
 ==== bhārgaveṇa  ====
   * by Paraśurāma --- [[books:cc:madhya:10:145|Madhya 10.145]]

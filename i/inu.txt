@@ -1,5 +1,11 @@
-~~Title:inu~~
-{{description>became; I have become.}}
+---json
+{
+    "name":"inu",
+    "h1":"inu",
+    "title":"inu",
+    "description":"became; I have become."
+}
+---
 
 ==== ha-inu  ====
   * became --- [[books:cc:madhya:11:144|Madhya 11.144]]

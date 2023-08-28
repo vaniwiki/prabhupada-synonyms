@@ -1,5 +1,11 @@
-~~Title:samagamat~~
-{{description>arrived.}}
+---json
+{
+    "name":"samagamat",
+    "h1":"samagamat",
+    "title":"samagamat",
+    "description":"arrived."
+}
+---
 
 ==== samāgamat  ====
   * arrived --- [[books:sb:8:4:9|SB 8.4.9]]

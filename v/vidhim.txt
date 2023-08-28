@@ -1,5 +1,11 @@
-~~Title:vidhim~~
-{{description>a means; regulations; regulative principles; the process; the regulative principles.}}
+---json
+{
+    "name":"vidhim",
+    "h1":"vidhim",
+    "title":"vidhim",
+    "description":"a means; regulations; regulative principles; the process; the regulative principles."
+}
+---
 
 ==== vidhim  ====
   * a means --- [[books:sb:10:8:30|SB 10.8.30]]

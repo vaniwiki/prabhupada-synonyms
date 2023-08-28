@@ -1,5 +1,11 @@
-~~Title:jagāda~~
-{{description>addressed; be cried out; became manifested; explained; gave instructions; he chanted; he said; replied; said; sanctioned; spoke; went.}}
+---json
+{
+    "name":"jagāda",
+    "h1":"jagāda",
+    "title":"jagāda",
+    "description":"addressed; be cried out; became manifested; explained; gave instructions; he chanted; he said; replied; said; sanctioned; spoke; went."
+}
+---
 
 ==== jagāda  ====
   * addressed --- [[books:sb:3:18:21|SB 3.18.21]]

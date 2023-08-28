@@ -1,5 +1,11 @@
-~~Title:saṁharat~~
-{{description>completely eradicating.}}
+---json
+{
+    "name":"saṁharat",
+    "h1":"saṁharat",
+    "title":"saṁharat",
+    "description":"completely eradicating."
+}
+---
 
 ==== saṁharat  ====
   * completely eradicating --- [[books:cc:antya:3:181|Antya 3.181]]

@@ -1,5 +1,11 @@
-~~Title:kecana~~
-{{description>others; some yogīs or learned scholars of astronomy; some; someone else.}}
+---json
+{
+    "name":"kecana",
+    "h1":"kecana",
+    "title":"kecana",
+    "description":"others; some yogīs or learned scholars of astronomy; some; someone else."
+}
+---
 
 ==== kecana  ====
   * others --- [[books:sb:1:8:35|SB 1.8.35]]

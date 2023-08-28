@@ -1,5 +1,11 @@
-~~Title:prathaḥ~~
-{{description>who distributes the scent of lotus mixed with camphor.}}
+---json
+{
+    "name":"prathaḥ",
+    "h1":"prathaḥ",
+    "title":"prathaḥ",
+    "description":"who distributes the scent of lotus mixed with camphor."
+}
+---
 
 ==== śaśi-yuta-abja-gandha-prathaḥ  ====
   * who distributes the scent of lotus mixed with camphor --- [[books:cc:antya:19:91|Antya 19.91]]

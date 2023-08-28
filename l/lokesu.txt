@@ -1,5 +1,11 @@
-~~Title:lokeṣu~~
-{{description>all over the world or universe; all the planets, or everything that exists; among the people; in all the planetary systems within the universe; planetary systems.}}
+---json
+{
+    "name":"lokeṣu",
+    "h1":"lokeṣu",
+    "title":"lokeṣu",
+    "description":"all over the world or universe; all the planets, or everything that exists; among the people; in all the planetary systems within the universe; planetary systems."
+}
+---
 
 ==== lokeṣu  ====
   * all over the world or universe --- [[books:sb:9:15:17-19|SB 9.15.17-19]]

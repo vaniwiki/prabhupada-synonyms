@@ -1,5 +1,11 @@
-~~Title:spardhat~~
-{{description>contending.}}
+---json
+{
+    "name":"spardhat",
+    "h1":"spardhat",
+    "title":"spardhat",
+    "description":"contending."
+}
+---
 
 ==== spardhat  ====
   * contending --- [[books:sb:4:30:7|SB 4.30.7]]

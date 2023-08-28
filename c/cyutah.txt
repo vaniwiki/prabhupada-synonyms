@@ -1,5 +1,11 @@
-~~Title:cyutaḥ~~
-{{description>being delivered; fallen.}}
+---json
+{
+    "name":"cyutaḥ",
+    "h1":"cyutaḥ",
+    "title":"cyutaḥ",
+    "description":"being delivered; fallen."
+}
+---
 
 ==== cyutaḥ  ====
   * being delivered --- [[books:sb:4:20:24|SB 4.20.24]]

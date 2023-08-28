@@ -1,5 +1,11 @@
-~~Title:udāsīnavat~~
-{{description>as if neutral; as neutral.}}
+---json
+{
+    "name":"udāsīnavat",
+    "h1":"udāsīnavat",
+    "title":"udāsīnavat",
+    "description":"as if neutral; as neutral."
+}
+---
 
 ==== udāsīnavat  ====
   * as if neutral --- [[books:bg:14:22-25|Bg. 14.22-25]]

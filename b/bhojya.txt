@@ -1,5 +1,11 @@
-~~Title:bhojya~~
-{{description>foods; fried foods.}}
+---json
+{
+    "name":"bhojya",
+    "h1":"bhojya",
+    "title":"bhojya",
+    "description":"foods; fried foods."
+}
+---
 
 ==== bhojya  ====
   * foods --- [[books:cc:antya:16:130|Antya 16.130]]

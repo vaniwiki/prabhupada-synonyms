@@ -1,5 +1,11 @@
-~~Title:bālu~~
-{{description>white sand.}}
+---json
+{
+    "name":"bālu",
+    "h1":"bālu",
+    "title":"bālu",
+    "description":"white sand."
+}
+---
 
 ==== śveta-bālu  ====
   * white sand --- [[books:cc:madhya:13:25|Madhya 13.25]]

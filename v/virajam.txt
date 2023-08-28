@@ -1,5 +1,11 @@
-~~Title:virajam~~
-{{description>a son named Viraja; formed of pure goodness; free from disturbances; freed from all bodily dirt; pure; purified; uncontaminated; without contamination.}}
+---json
+{
+    "name":"virajam",
+    "h1":"virajam",
+    "title":"virajam",
+    "description":"a son named Viraja; formed of pure goodness; free from disturbances; freed from all bodily dirt; pure; purified; uncontaminated; without contamination."
+}
+---
 
 ==== virajam  ====
   * a son named Viraja --- [[books:sb:4:1:14|SB 4.1.14]]

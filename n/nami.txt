@@ -1,5 +1,11 @@
-~~Title:nami~~
-{{description>named.}}
+---json
+{
+    "name":"nami",
+    "h1":"nami",
+    "title":"nami",
+    "description":"named."
+}
+---
 
 ==== nāmī  ====
   * named --- [[books:cc:adi:2:50|Ādi 2.50]]

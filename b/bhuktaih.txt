@@ -1,5 +1,11 @@
-~~Title:bhuktaiḥ~~
-{{description>by foods eaten by the mother.}}
+---json
+{
+    "name":"bhuktaiḥ",
+    "h1":"bhuktaiḥ",
+    "title":"bhuktaiḥ",
+    "description":"by foods eaten by the mother."
+}
+---
 
 ==== mātṛ-bhuktaiḥ  ====
   * by foods eaten by the mother --- [[books:sb:3:31:7|SB 3.31.7]]

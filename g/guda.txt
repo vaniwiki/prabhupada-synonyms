@@ -1,5 +1,11 @@
-~~Title:guḍa~~
-{{description>molasses.}}
+---json
+{
+    "name":"guḍa",
+    "h1":"guḍa",
+    "title":"guḍa",
+    "description":"molasses."
+}
+---
 
 ==== guḍa  ====
   * molasses --- [[books:sb:5:16:24|SB 5.16.24]], [[books:cc:madhya:19:179|Madhya 19.179]], [[books:cc:madhya:23:43|Madhya 23.43]]

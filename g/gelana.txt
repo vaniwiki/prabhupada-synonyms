@@ -1,5 +1,11 @@
-~~Title:gelāṅa~~
-{{description>I went; traveled; went.}}
+---json
+{
+    "name":"gelāṅa",
+    "h1":"gelāṅa",
+    "title":"gelāṅa",
+    "description":"I went; traveled; went."
+}
+---
 
 ==== gelāṅa  ====
   * I went --- [[books:cc:madhya:16:260|Madhya 16.260]]

@@ -1,5 +1,11 @@
-~~Title:rodita~~
-{{description>crying.}}
+---json
+{
+    "name":"rodita",
+    "h1":"rodita",
+    "title":"rodita",
+    "description":"crying."
+}
+---
 
 ==== rodita  ====
   * crying --- [[books:cc:antya:3:246|Antya 3.246]]

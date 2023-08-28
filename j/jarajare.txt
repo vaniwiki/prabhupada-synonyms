@@ -1,5 +1,11 @@
-~~Title:jarajare~~
-{{description>almost invalid.}}
+---json
+{
+    "name":"jarajare",
+    "h1":"jarajare",
+    "title":"jarajare",
+    "description":"almost invalid."
+}
+---
 
 ==== jarajare  ====
   * almost invalid --- [[books:cc:madhya:2:22|Madhya 2.22]]

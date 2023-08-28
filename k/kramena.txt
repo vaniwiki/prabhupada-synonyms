@@ -1,5 +1,11 @@
-~~Title:krameṇa~~
-{{description>gradually.}}
+---json
+{
+    "name":"krameṇa",
+    "h1":"krameṇa",
+    "title":"krameṇa",
+    "description":"gradually."
+}
+---
 
 ==== krameṇa  ====
   * gradually --- [[books:sb:4:23:15|SB 4.23.15]], [[books:sb:4:29:55|SB 4.29.55]], [[books:noi:8|NoI 8]]

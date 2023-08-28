@@ -1,5 +1,11 @@
-~~Title:samādhim~~
-{{description>in trance.}}
+---json
+{
+    "name":"samādhim",
+    "h1":"samādhim",
+    "title":"samādhim",
+    "description":"in trance."
+}
+---
 
 ==== samādhim  ====
   * in trance --- [[books:sb:4:6:39|SB 4.6.39]]

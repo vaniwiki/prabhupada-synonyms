@@ -1,5 +1,11 @@
-~~Title:apāraṇīya~~
-{{description>invincible; unlimited.}}
+---json
+{
+    "name":"apāraṇīya",
+    "h1":"apāraṇīya",
+    "title":"apāraṇīya",
+    "description":"invincible; unlimited."
+}
+---
 
 ==== apāraṇīya  ====
   * invincible --- [[books:sb:9:10:9|SB 9.10.9]]

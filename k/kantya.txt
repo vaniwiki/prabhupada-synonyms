@@ -1,5 +1,11 @@
-~~Title:kāntyā~~
-{{description>bodily luster; by his loveliness; by luster.}}
+---json
+{
+    "name":"kāntyā",
+    "h1":"kāntyā",
+    "title":"kāntyā",
+    "description":"bodily luster; by his loveliness; by luster."
+}
+---
 
 ==== kāntyā  ====
   * bodily luster --- [[books:sb:3:22:16|SB 3.22.16]]

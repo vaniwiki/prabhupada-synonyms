@@ -1,5 +1,11 @@
-~~Title:kriyah~~
-{{description>activities.}}
+---json
+{
+    "name":"kriyah",
+    "h1":"kriyah",
+    "title":"kriyah",
+    "description":"activities."
+}
+---
 
 ==== kriyaḥ  ====
   * activities --- [[books:bg:6:11-12|Bg. 6.11-12]]

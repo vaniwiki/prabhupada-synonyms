@@ -1,5 +1,11 @@
-~~Title:ākṛtitvam~~
-{{description>dimension.}}
+---json
+{
+    "name":"ākṛtitvam",
+    "h1":"ākṛtitvam",
+    "title":"ākṛtitvam",
+    "description":"dimension."
+}
+---
 
 ==== ākṛtitvam  ====
   * dimension --- [[books:sb:3:26:39|SB 3.26.39]]

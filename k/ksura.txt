@@ -1,5 +1,11 @@
-~~Title:kṣura~~
-{{description>and as sharp as a razor.}}
+---json
+{
+    "name":"kṣura",
+    "h1":"kṣura",
+    "title":"kṣura",
+    "description":"and as sharp as a razor."
+}
+---
 
 ==== kṣura-anta  ====
   * and as sharp as a razor --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

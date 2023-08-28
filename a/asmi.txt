@@ -1,5 +1,11 @@
-~~Title:asmi~~
-{{description>am; I; I am; I have been.}}
+---json
+{
+    "name":"asmi",
+    "h1":"asmi",
+    "title":"asmi",
+    "description":"am; I; I am; I have been."
+}
+---
 
 ==== asmi  ====
   * am --- [[books:sb:2:6:36|SB 2.6.36]], [[books:sb:4:1:26-27|SB 4.1.26-27]], [[books:sb:6:15:17|SB 6.15.17]], [[books:sb:6:16:23|SB 6.16.23]], [[books:sb:7:9:16|SB 7.9.16]], [[books:sb:7:9:52|SB 7.9.52]], [[books:sb:9:14:28|SB 9.14.28]], [[books:cc:adi:1:53|Ādi 1.53]], [[books:cc:madhya:24:76|Madhya 24.76]], [[books:cc:madhya:25:113|Madhya 25.113]], [[books:iso:16|Īśo 16]]

@@ -1,5 +1,11 @@
-~~Title:sukla~~
-{{description>by Lord Viṣṇu; light; O embodiment of religion; of the bright fortnight; of the mode of goodness; white; whitish.}}
+---json
+{
+    "name":"sukla",
+    "h1":"sukla",
+    "title":"sukla",
+    "description":"by Lord Viṣṇu; light; O embodiment of religion; of the bright fortnight; of the mode of goodness; white; whitish."
+}
+---
 
 ==== śukla  ====
   * by Lord Viṣṇu --- [[books:sb:3:24:1|SB 3.24.1]]

@@ -1,5 +1,11 @@
-~~Title:svariktha~~
-{{description>the legal inheritance.}}
+---json
+{
+    "name":"svariktha",
+    "h1":"svariktha",
+    "title":"svariktha",
+    "description":"the legal inheritance."
+}
+---
 
 ==== svariktha  ====
   * the legal inheritance --- [[books:sb:1:10:1|SB 1.10.1]]

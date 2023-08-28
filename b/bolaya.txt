@@ -1,5 +1,11 @@
-~~Title:bolaya~~
-{{description>says; speaks.}}
+---json
+{
+    "name":"bolaya",
+    "h1":"bolaya",
+    "title":"bolaya",
+    "description":"says; speaks."
+}
+---
 
 ==== bolaya  ====
   * says --- [[books:cc:adi:17:28|Ādi 17.28]]

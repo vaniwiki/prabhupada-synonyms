@@ -1,5 +1,11 @@
-~~Title:vibhakteṣu~~
-{{description>in the numberless divided.}}
+---json
+{
+    "name":"vibhakteṣu",
+    "h1":"vibhakteṣu",
+    "title":"vibhakteṣu",
+    "description":"in the numberless divided."
+}
+---
 
 ==== vibhakteṣu  ====
   * in the numberless divided --- [[books:bg:18:20|Bg. 18.20]]

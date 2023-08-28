@@ -1,5 +1,11 @@
-~~Title:sūnṛtāyām~~
-{{description>in the womb of his wife named Sūnṛtā.}}
+---json
+{
+    "name":"sūnṛtāyām",
+    "h1":"sūnṛtāyām",
+    "title":"sūnṛtāyām",
+    "description":"in the womb of his wife named Sūnṛtā."
+}
+---
 
 ==== sūnṛtāyām  ====
   * in the womb of his wife named Sūnṛtā --- [[books:sb:8:1:25|SB 8.1.25]]

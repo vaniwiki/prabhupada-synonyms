@@ -1,5 +1,11 @@
-~~Title:ānugatya~~
-{{description>subservience to the gopīs.}}
+---json
+{
+    "name":"ānugatya",
+    "h1":"ānugatya",
+    "title":"ānugatya",
+    "description":"subservience to the gopīs."
+}
+---
 
 ==== gopī-ānugatya  ====
   * subservience to the //gopīs// --- [[books:cc:madhya:8:230|Madhya 8.230]]

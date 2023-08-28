@@ -1,5 +1,11 @@
-~~Title:vinaṅkṣyasi~~
-{{description>then lose yourself.}}
+---json
+{
+    "name":"vinaṅkṣyasi",
+    "h1":"vinaṅkṣyasi",
+    "title":"vinaṅkṣyasi",
+    "description":"then lose yourself."
+}
+---
 
 ==== vinaṅkṣyasi  ====
   * then lose yourself --- [[books:bg:18:58|Bg. 18.58]]

@@ -1,5 +1,11 @@
-~~Title:avyabhicāriṇyā~~
-{{description>without any break.}}
+---json
+{
+    "name":"avyabhicāriṇyā",
+    "h1":"avyabhicāriṇyā",
+    "title":"avyabhicāriṇyā",
+    "description":"without any break."
+}
+---
 
 ==== avyabhicāriṇyā  ====
   * without any break --- [[books:bg:18:33|Bg. 18.33]]

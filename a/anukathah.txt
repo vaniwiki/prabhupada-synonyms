@@ -1,5 +1,11 @@
-~~Title:anukathāḥ~~
-{{description>a description of the incarnations of the Lord; the science of God.}}
+---json
+{
+    "name":"anukathāḥ",
+    "h1":"anukathāḥ",
+    "title":"anukathāḥ",
+    "description":"a description of the incarnations of the Lord; the science of God."
+}
+---
 
 ==== īśa-anukathāḥ  ====
   * a description of the incarnations of the Lord --- [[books:cc:adi:2:91-92|Ādi 2.91-92]]

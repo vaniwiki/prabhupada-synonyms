@@ -1,5 +1,11 @@
-~~Title:yavasam~~
-{{description>grass; green grass; green grasses; Yavasa.}}
+---json
+{
+    "name":"yavasam",
+    "h1":"yavasam",
+    "title":"yavasam",
+    "description":"grass; green grass; green grasses; Yavasa."
+}
+---
 
 ==== yavasam  ====
   * grass --- [[books:sb:1:17:3|SB 1.17.3]]

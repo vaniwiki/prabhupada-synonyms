@@ -1,5 +1,11 @@
-~~Title:prasantah~~
-{{description>very peaceful (Prahlāda Mahārāja).}}
+---json
+{
+    "name":"prasantah",
+    "h1":"prasantah",
+    "title":"prasantah",
+    "description":"very peaceful (Prahlāda Mahārāja)."
+}
+---
 
 ==== praśāntaḥ  ====
   * very peaceful (Prahlāda Mahārāja) --- [[books:sb:8:19:2|SB 8.19.2]]

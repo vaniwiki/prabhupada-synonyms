@@ -1,5 +1,11 @@
-~~Title:yātanān~~
-{{description>conditions of suffering.}}
+---json
+{
+    "name":"yātanān",
+    "h1":"yātanān",
+    "title":"yātanān",
+    "description":"conditions of suffering."
+}
+---
 
 ==== yātanān  ====
   * conditions of suffering --- [[books:sb:6:1:6|SB 6.1.6]]

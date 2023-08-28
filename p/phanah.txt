@@ -1,5 +1,11 @@
-~~Title:phaṇāḥ~~
-{{description>with upraised hoods.}}
+---json
+{
+    "name":"phaṇāḥ",
+    "h1":"phaṇāḥ",
+    "title":"phaṇāḥ",
+    "description":"with upraised hoods."
+}
+---
 
 ==== unnaddha-phaṇāḥ  ====
   * with upraised hoods --- [[books:sb:4:11:4|SB 4.11.4]]

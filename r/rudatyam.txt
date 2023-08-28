@@ -1,5 +1,11 @@
-~~Title:rudatyām~~
-{{description>when the wife was crying.}}
+---json
+{
+    "name":"rudatyām",
+    "h1":"rudatyām",
+    "title":"rudatyām",
+    "description":"when the wife was crying."
+}
+---
 
 ==== rudatyām  ====
   * when the wife was crying --- [[books:sb:4:25:57-61|SB 4.25.57-61]]

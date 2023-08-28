@@ -1,5 +1,11 @@
-~~Title:vadanah~~
-{{description>His face.}}
+---json
+{
+    "name":"vadanah",
+    "h1":"vadanah",
+    "title":"vadanah",
+    "description":"His face."
+}
+---
 
 ==== vadanaḥ  ====
   * His face --- [[books:sb:4:30:6|SB 4.30.6]]

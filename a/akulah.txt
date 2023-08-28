@@ -1,5 +1,11 @@
-~~Title:akulah~~
-{{description>overwhelmed.}}
+---json
+{
+    "name":"akulah",
+    "h1":"akulah",
+    "title":"akulah",
+    "description":"overwhelmed."
+}
+---
 
 ==== ākulaḥ  ====
   * overwhelmed --- [[books:sb:4:31:28|SB 4.31.28]]

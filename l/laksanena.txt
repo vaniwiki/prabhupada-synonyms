@@ -1,5 +1,11 @@
-~~Title:lakṣaṇena~~
-{{description>by symptoms; by the symptoms of a king.}}
+---json
+{
+    "name":"lakṣaṇena",
+    "h1":"lakṣaṇena",
+    "title":"lakṣaṇena",
+    "description":"by symptoms; by the symptoms of a king."
+}
+---
 
 ==== lakṣaṇena  ====
   * by symptoms --- [[books:sb:5:15:6|SB 5.15.6]]

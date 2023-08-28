@@ -1,5 +1,11 @@
-~~Title:gireḥ~~
-{{description>from the hill; of a mountain.}}
+---json
+{
+    "name":"gireḥ",
+    "h1":"gireḥ",
+    "title":"gireḥ",
+    "description":"from the hill; of a mountain."
+}
+---
 
 ==== gireḥ  ====
   * from the hill --- [[books:cc:madhya:18:25|Madhya 18.25]]

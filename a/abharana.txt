@@ -1,5 +1,11 @@
-~~Title:ābharaṇa~~
-{{description>in ornaments; of all kinds of ornaments; ornaments; varieties of ornaments; with ornaments.}}
+---json
+{
+    "name":"ābharaṇa",
+    "h1":"ābharaṇa",
+    "title":"ābharaṇa",
+    "description":"in ornaments; of all kinds of ornaments; ornaments; varieties of ornaments; with ornaments."
+}
+---
 
 ==== ābharaṇa  ====
   * in ornaments --- [[books:sb:9:4:27|SB 9.4.27]]

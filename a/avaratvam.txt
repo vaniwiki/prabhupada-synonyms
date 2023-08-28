@@ -1,5 +1,11 @@
-~~Title:avaratvam~~
-{{description>discrimination due to higher or lower levels.}}
+---json
+{
+    "name":"avaratvam",
+    "h1":"avaratvam",
+    "title":"avaratvam",
+    "description":"discrimination due to higher or lower levels."
+}
+---
 
 ==== para-avaratvam  ====
   * discrimination due to higher or lower levels --- [[books:sb:7:9:27|SB 7.9.27]]

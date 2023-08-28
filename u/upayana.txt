@@ -1,5 +1,11 @@
-~~Title:upāyana~~
-{{description>full with paraphernalia; presentations.}}
+---json
+{
+    "name":"upāyana",
+    "h1":"upāyana",
+    "title":"upāyana",
+    "description":"full with paraphernalia; presentations."
+}
+---
 
 ==== upāyana  ====
   * full with paraphernalia --- [[books:sb:7:4:13|SB 7.4.13]]

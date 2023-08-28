@@ -1,5 +1,11 @@
-~~Title:caṭulayan~~
-{{description>agitating.}}
+---json
+{
+    "name":"caṭulayan",
+    "h1":"caṭulayan",
+    "title":"caṭulayan",
+    "description":"agitating."
+}
+---
 
 ==== caṭulayan  ====
   * agitating --- [[books:cc:antya:1:164|Antya 1.164]]

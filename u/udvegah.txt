@@ -1,5 +1,11 @@
-~~Title:udvegah~~
-{{description>anxieties; anxiety; fear.}}
+---json
+{
+    "name":"udvegah",
+    "h1":"udvegah",
+    "title":"udvegah",
+    "description":"anxieties; anxiety; fear."
+}
+---
 
 ==== udvegaḥ  ====
   * anxieties --- [[books:sb:2:2:27|SB 2.2.27]]

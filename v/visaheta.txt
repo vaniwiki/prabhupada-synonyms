@@ -1,5 +1,11 @@
-~~Title:viṣaheta~~
-{{description>and tolerates (such itching); can tolerate; carry.}}
+---json
+{
+    "name":"viṣaheta",
+    "h1":"viṣaheta",
+    "title":"viṣaheta",
+    "description":"and tolerates (such itching); can tolerate; carry."
+}
+---
 
 ==== viṣaheta  ====
   * and tolerates (such itching) --- [[books:sb:7:9:45|SB 7.9.45]]

@@ -1,5 +1,11 @@
-~~Title:dattam~~
-{{description>charity; Dattātreya; give in charity; given; giving charity; have been delivered; is given (to you by me); offered; please give; unto Dattātreya; which had been given.}}
+---json
+{
+    "name":"dattam",
+    "h1":"dattam",
+    "title":"dattam",
+    "description":"charity; Dattātreya; give in charity; given; giving charity; have been delivered; is given (to you by me); offered; please give; unto Dattātreya; which had been given."
+}
+---
 
 ==== dattam  ====
   * charity --- [[books:sb:9:5:10|SB 9.5.10]]

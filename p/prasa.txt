@@ -1,5 +1,11 @@
-~~Title:prāsa~~
-{{description>with the prāsa weapons.}}
+---json
+{
+    "name":"prāsa",
+    "h1":"prāsa",
+    "title":"prāsa",
+    "description":"with the prāsa weapons."
+}
+---
 
 ==== prāsa  ====
   * with the //prāsa// weapons --- [[books:sb:8:10:36|SB 8.10.36]]

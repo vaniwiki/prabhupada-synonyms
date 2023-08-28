@@ -1,5 +1,11 @@
-~~Title:khadyota~~
-{{description>named Khadyotā; of the name Khadyotā.}}
+---json
+{
+    "name":"khadyota",
+    "h1":"khadyota",
+    "title":"khadyota",
+    "description":"named Khadyotā; of the name Khadyotā."
+}
+---
 
 ==== khadyotā  ====
   * named Khadyotā --- [[books:sb:4:29:10|SB 4.29.10]]

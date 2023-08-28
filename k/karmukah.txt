@@ -1,5 +1,11 @@
-~~Title:kārmukaḥ~~
-{{description>arrows and bow; bow; the bow.}}
+---json
+{
+    "name":"kārmukaḥ",
+    "h1":"kārmukaḥ",
+    "title":"kārmukaḥ",
+    "description":"arrows and bow; bow; the bow."
+}
+---
 
 ==== kārmukaḥ  ====
   * arrows and bow --- [[books:sb:1:17:4|SB 1.17.4]]

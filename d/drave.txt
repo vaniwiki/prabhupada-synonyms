@@ -1,5 +1,11 @@
-~~Title:drave~~
-{{description>melt; melts.}}
+---json
+{
+    "name":"drave",
+    "h1":"drave",
+    "title":"drave",
+    "description":"melt; melts."
+}
+---
 
 ==== drave  ====
   * melt --- [[books:cc:adi:11:19|Ādi 11.19]]

@@ -1,5 +1,11 @@
-~~Title:bhūñā~~
-{{description>the landlord.}}
+---json
+{
+    "name":"bhūñā",
+    "h1":"bhūñā",
+    "title":"bhūñā",
+    "description":"the landlord."
+}
+---
 
 ==== bhūñā  ====
   * the landlord --- [[books:cc:madhya:20:19|Madhya 20.19]], [[books:cc:madhya:20:29|Madhya 20.29]], [[books:cc:madhya:20:33|Madhya 20.33]]

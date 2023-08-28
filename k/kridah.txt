@@ -1,5 +1,11 @@
-~~Title:krīḍāḥ~~
-{{description>pastimes.}}
+---json
+{
+    "name":"krīḍāḥ",
+    "h1":"krīḍāḥ",
+    "title":"krīḍāḥ",
+    "description":"pastimes."
+}
+---
 
 ==== krīḍāḥ  ====
   * pastimes --- [[books:cc:adi:4:34|Ādi 4.34]]

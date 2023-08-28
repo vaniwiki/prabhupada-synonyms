@@ -1,5 +1,11 @@
-~~Title:ṛtuḥ~~
-{{description>a season.}}
+---json
+{
+    "name":"ṛtuḥ",
+    "h1":"ṛtuḥ",
+    "title":"ṛtuḥ",
+    "description":"a season."
+}
+---
 
 ==== ṛtuḥ  ====
   * a season --- [[books:sb:3:11:11|SB 3.11.11]], [[books:sb:5:22:5|SB 5.22.5]]

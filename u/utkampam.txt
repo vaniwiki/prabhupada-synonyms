@@ -1,5 +1,11 @@
-~~Title:utkampam~~
-{{description>trembling of the heart and body.}}
+---json
+{
+    "name":"utkampam",
+    "h1":"utkampam",
+    "title":"utkampam",
+    "description":"trembling of the heart and body."
+}
+---
 
 ==== utkampam  ====
   * trembling of the heart and body --- [[books:cc:antya:1:145|Antya 1.145]]

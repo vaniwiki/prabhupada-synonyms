@@ -1,5 +1,11 @@
-~~Title:aparimeyām~~
-{{description>unmeasurable.}}
+---json
+{
+    "name":"aparimeyām",
+    "h1":"aparimeyām",
+    "title":"aparimeyām",
+    "description":"unmeasurable."
+}
+---
 
 ==== aparimeyām  ====
   * unmeasurable --- [[books:bg:16:11-12|Bg. 16.11-12]]

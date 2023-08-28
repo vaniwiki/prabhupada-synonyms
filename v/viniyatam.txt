@@ -1,5 +1,11 @@
-~~Title:viniyatam~~
-{{description>particularly disciplined.}}
+---json
+{
+    "name":"viniyatam",
+    "h1":"viniyatam",
+    "title":"viniyatam",
+    "description":"particularly disciplined."
+}
+---
 
 ==== viniyatam  ====
   * particularly disciplined --- [[books:bg:6:18|Bg. 6.18]]

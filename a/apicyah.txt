@@ -1,5 +1,11 @@
-~~Title:apīcyaḥ~~
-{{description>very charming.}}
+---json
+{
+    "name":"apīcyaḥ",
+    "h1":"apīcyaḥ",
+    "title":"apīcyaḥ",
+    "description":"very charming."
+}
+---
 
 ==== apīcyaḥ  ====
   * very charming --- [[books:sb:3:23:38|SB 3.23.38]]

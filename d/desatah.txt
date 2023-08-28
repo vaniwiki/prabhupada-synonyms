@@ -1,5 +1,11 @@
-~~Title:deśataḥ~~
-{{description>circumstantial.}}
+---json
+{
+    "name":"deśataḥ",
+    "h1":"deśataḥ",
+    "title":"deśataḥ",
+    "description":"circumstantial."
+}
+---
 
 ==== deśataḥ  ====
   * circumstantial --- [[books:sb:3:7:5|SB 3.7.5]]

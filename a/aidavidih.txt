@@ -1,5 +1,11 @@
-~~Title:aiḍaviḍiḥ~~
-{{description>named Aiḍaviḍi.}}
+---json
+{
+    "name":"aiḍaviḍiḥ",
+    "h1":"aiḍaviḍiḥ",
+    "title":"aiḍaviḍiḥ",
+    "description":"named Aiḍaviḍi."
+}
+---
 
 ==== aiḍaviḍiḥ  ====
   * named Aiḍaviḍi --- [[books:sb:9:9:41|SB 9.9.41]]

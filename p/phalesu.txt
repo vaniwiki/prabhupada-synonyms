@@ -1,5 +1,11 @@
-~~Title:phaleṣu~~
-{{description>in the fruits.}}
+---json
+{
+    "name":"phaleṣu",
+    "h1":"phaleṣu",
+    "title":"phaleṣu",
+    "description":"in the fruits."
+}
+---
 
 ==== phaleṣu  ====
   * in the fruits --- [[books:bg:2:47|Bg. 2.47]]

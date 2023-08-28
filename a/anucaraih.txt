@@ -1,5 +1,11 @@
-~~Title:anucaraiḥ~~
-{{description>by followers; by their followers.}}
+---json
+{
+    "name":"anucaraiḥ",
+    "h1":"anucaraiḥ",
+    "title":"anucaraiḥ",
+    "description":"by followers; by their followers."
+}
+---
 
 ==== anucaraiḥ  ====
   * by followers --- [[books:sb:4:30:6|SB 4.30.6]]

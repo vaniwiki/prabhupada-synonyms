@@ -1,5 +1,11 @@
-~~Title:īhatu~~
-{{description>please try.}}
+---json
+{
+    "name":"īhatu",
+    "h1":"īhatu",
+    "title":"īhatu",
+    "description":"please try."
+}
+---
 
 ==== īhatu  ====
   * please try --- [[books:sb:4:17:10-11|SB 4.17.10-11]]

@@ -1,5 +1,11 @@
-~~Title:vatīnām~~
-{{description>of those who have children.}}
+---json
+{
+    "name":"vatīnām",
+    "h1":"vatīnām",
+    "title":"vatīnām",
+    "description":"of those who have children."
+}
+---
 
 ==== prajā-vatīnām  ====
   * of those who have children --- [[books:sb:3:14:11|SB 3.14.11]]

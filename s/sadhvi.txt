@@ -1,5 +1,11 @@
-~~Title:sadhvi~~
-{{description>O chaste one; O virtuous lady; virtuous lady.}}
+---json
+{
+    "name":"sadhvi",
+    "h1":"sadhvi",
+    "title":"sadhvi",
+    "description":"O chaste one; O virtuous lady; virtuous lady."
+}
+---
 
 ==== sādhvi  ====
   * O chaste one --- [[books:sb:1:17:10-11|SB 1.17.10-11]], [[books:sb:3:14:24|SB 3.14.24]]

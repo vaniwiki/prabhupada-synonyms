@@ -1,5 +1,11 @@
-~~Title:preraṇa~~
-{{description>direction; inspiration.}}
+---json
+{
+    "name":"preraṇa",
+    "h1":"preraṇa",
+    "title":"preraṇa",
+    "description":"direction; inspiration."
+}
+---
 
 ==== preraṇa  ====
   * direction --- [[books:cc:madhya:8:123|Madhya 8.123]]

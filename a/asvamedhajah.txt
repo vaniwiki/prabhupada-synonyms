@@ -1,5 +1,11 @@
-~~Title:aśvamedhajaḥ~~
-{{description>Aśvamedhaja.}}
+---json
+{
+    "name":"aśvamedhajaḥ",
+    "h1":"aśvamedhajaḥ",
+    "title":"aśvamedhajaḥ",
+    "description":"Aśvamedhaja."
+}
+---
 
 ==== aśvamedhajaḥ  ====
   * Aśvamedhaja --- [[books:sb:9:22:39|SB 9.22.39]]

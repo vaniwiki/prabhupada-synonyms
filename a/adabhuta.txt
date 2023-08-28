@@ -1,5 +1,11 @@
-~~Title:adabhuta~~
-{{description>wonderful.}}
+---json
+{
+    "name":"adabhuta",
+    "h1":"adabhuta",
+    "title":"adabhuta",
+    "description":"wonderful."
+}
+---
 
 ==== adabhuta  ====
   * wonderful --- [[books:cc:antya:1:126|Antya 1.126]]

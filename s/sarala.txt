@@ -1,5 +1,11 @@
-~~Title:sarala~~
-{{description>simple.}}
+---json
+{
+    "name":"sarala",
+    "h1":"sarala",
+    "title":"sarala",
+    "description":"simple."
+}
+---
 
 ==== sarala  ====
   * simple --- [[books:cc:madhya:7:39|Madhya 7.39]], [[books:cc:madhya:9:227|Madhya 9.227]], [[books:cc:madhya:12:122|Madhya 12.122]], [[books:cc:madhya:17:165|Madhya 17.165]]

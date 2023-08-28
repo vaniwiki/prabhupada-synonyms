@@ -1,5 +1,11 @@
-~~Title:praśaṁsiba~~
-{{description>shall I praise.}}
+---json
+{
+    "name":"praśaṁsiba",
+    "h1":"praśaṁsiba",
+    "title":"praśaṁsiba",
+    "description":"shall I praise."
+}
+---
 
 ==== praśaṁsiba  ====
   * shall I praise --- [[books:cc:madhya:15:230|Madhya 15.230]]

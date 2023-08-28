@@ -1,5 +1,11 @@
-~~Title:asanaya~~
-{{description>by hunger.}}
+---json
+{
+    "name":"asanaya",
+    "h1":"asanaya",
+    "title":"asanaya",
+    "description":"by hunger."
+}
+---
 
 ==== aśanayā  ====
   * by hunger --- [[books:sb:6:14:57|SB 6.14.57]]

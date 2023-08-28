@@ -1,5 +1,11 @@
-~~Title:srgala~~
-{{description>jackals.}}
+---json
+{
+    "name":"srgala",
+    "h1":"srgala",
+    "title":"srgala",
+    "description":"jackals."
+}
+---
 
 ==== sṛgāla  ====
   * jackals --- [[books:sb:3:17:9|SB 3.17.9]]

@@ -1,5 +1,11 @@
-~~Title:mātoyāla~~
-{{description>a mad person; as if a madman; drunkard.}}
+---json
+{
+    "name":"mātoyāla",
+    "h1":"mātoyāla",
+    "title":"mātoyāla",
+    "description":"a mad person; as if a madman; drunkard."
+}
+---
 
 ==== mātoyāla  ====
   * a mad person --- [[books:cc:antya:5:138|Antya 5.138]]

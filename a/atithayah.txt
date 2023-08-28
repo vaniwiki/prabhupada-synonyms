@@ -1,5 +1,11 @@
-~~Title:atithayaḥ~~
-{{description>guests; guests who come without an invitation; receiving the guests; uninvited guests.}}
+---json
+{
+    "name":"atithayaḥ",
+    "h1":"atithayaḥ",
+    "title":"atithayaḥ",
+    "description":"guests; guests who come without an invitation; receiving the guests; uninvited guests."
+}
+---
 
 ==== atithayaḥ  ====
   * guests --- [[books:sb:6:7:27|SB 6.7.27]]

@@ -1,5 +1,11 @@
-~~Title:rājasu~~
-{{description>among the kings headed by Jarāsandha; the governing personalities; unto the kings; upon the kings of that type.}}
+---json
+{
+    "name":"rājasu",
+    "h1":"rājasu",
+    "title":"rājasu",
+    "description":"among the kings headed by Jarāsandha; the governing personalities; unto the kings; upon the kings of that type."
+}
+---
 
 ==== rājasu  ====
   * among the kings headed by Jarāsandha --- [[books:cc:adi:6:73|Ādi 6.73]]

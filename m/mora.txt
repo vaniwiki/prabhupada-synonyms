@@ -1,5 +1,11 @@
-~~Title:mora~~
-{{description>my; for me; mine; my; of Me; our; to Me; unto Me.}}
+---json
+{
+    "name":"mora",
+    "h1":"mora",
+    "title":"mora",
+    "description":"my; for me; mine; my; of Me; our; to Me; unto Me."
+}
+---
 
 ==== mora  ====
   * //my// --- [[books:cc:madhya:15:267|Madhya 15.267]]

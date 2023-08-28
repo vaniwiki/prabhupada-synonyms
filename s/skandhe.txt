@@ -1,5 +1,11 @@
-~~Title:skandhe~~
-{{description>on His shoulders; on the branches; on the shoulder; on the shoulders; the trunk.}}
+---json
+{
+    "name":"skandhe",
+    "h1":"skandhe",
+    "title":"skandhe",
+    "description":"on His shoulders; on the branches; on the shoulder; on the shoulders; the trunk."
+}
+---
 
 ==== skandhe  ====
   * on His shoulders --- [[books:cc:adi:6:63|Ādi 6.63]]

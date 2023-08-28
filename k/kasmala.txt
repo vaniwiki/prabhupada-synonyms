@@ -1,5 +1,11 @@
-~~Title:kaśmala~~
-{{description>sinful; sins.}}
+---json
+{
+    "name":"kaśmala",
+    "h1":"kaśmala",
+    "title":"kaśmala",
+    "description":"sinful; sins."
+}
+---
 
 ==== kaśmala  ====
   * sinful --- [[books:sb:4:27:5|SB 4.27.5]]

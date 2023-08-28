@@ -1,5 +1,11 @@
-~~Title:putrāt~~
-{{description>from a son.}}
+---json
+{
+    "name":"putrāt",
+    "h1":"putrāt",
+    "title":"putrāt",
+    "description":"from a son."
+}
+---
 
 ==== putrāt  ====
   * from a son --- [[books:sb:3:28:39|SB 3.28.39]]

@@ -1,5 +1,11 @@
-~~Title:hiraṇyam~~
-{{description>gold.}}
+---json
+{
+    "name":"hiraṇyam",
+    "h1":"hiraṇyam",
+    "title":"hiraṇyam",
+    "description":"gold."
+}
+---
 
 ==== hiraṇyam  ====
   * gold --- [[books:sb:1:12:14|SB 1.12.14]], [[books:sb:3:3:27|SB 3.3.27]], [[books:sb:6:14:34|SB 6.14.34]], [[books:sb:9:19:13|SB 9.19.13]]

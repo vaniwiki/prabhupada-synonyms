@@ -1,5 +1,11 @@
-~~Title:pāṣaṇḍinaḥ~~
-{{description>atheists.}}
+---json
+{
+    "name":"pāṣaṇḍinaḥ",
+    "h1":"pāṣaṇḍinaḥ",
+    "title":"pāṣaṇḍinaḥ",
+    "description":"atheists."
+}
+---
 
 ==== pāṣaṇḍinaḥ  ====
   * atheists --- [[books:sb:2:7:38|SB 2.7.38]], [[books:sb:4:2:28|SB 4.2.28]]

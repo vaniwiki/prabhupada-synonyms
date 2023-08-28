@@ -1,5 +1,11 @@
-~~Title:hṛṣīkeśvaram~~
-{{description>the Supreme Personality of Godhead, master of the senses.}}
+---json
+{
+    "name":"hṛṣīkeśvaram",
+    "h1":"hṛṣīkeśvaram",
+    "title":"hṛṣīkeśvaram",
+    "description":"the Supreme Personality of Godhead, master of the senses."
+}
+---
 
 ==== hṛṣīkeśvaram  ====
   * the Supreme Personality of Godhead, master of the senses --- [[books:sb:5:18:19|SB 5.18.19]]

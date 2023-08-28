@@ -1,5 +1,11 @@
-~~Title:vyaghrah~~
-{{description>a tiger; the tiger; tiger.}}
+---json
+{
+    "name":"vyaghrah",
+    "h1":"vyaghrah",
+    "title":"vyaghrah",
+    "description":"a tiger; the tiger; tiger."
+}
+---
 
 ==== vyāghraḥ  ====
   * a tiger --- [[books:sb:9:9:33|SB 9.9.33]]

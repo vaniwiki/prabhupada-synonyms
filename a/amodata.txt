@@ -1,5 +1,11 @@
-~~Title:amodata~~
-{{description>took pleasure.}}
+---json
+{
+    "name":"amodata",
+    "h1":"amodata",
+    "title":"amodata",
+    "description":"took pleasure."
+}
+---
 
 ==== amodata  ====
   * took pleasure --- [[books:sb:3:14:51|SB 3.14.51]]

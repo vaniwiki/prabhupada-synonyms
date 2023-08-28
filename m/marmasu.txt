@@ -1,5 +1,11 @@
-~~Title:marmasu~~
-{{description>in the core of the heart; in the heart, etc.}}
+---json
+{
+    "name":"marmasu",
+    "h1":"marmasu",
+    "title":"marmasu",
+    "description":"in the core of the heart; in the heart, etc."
+}
+---
 
 ==== marmasu  ====
   * in the core of the heart --- [[books:sb:3:1:16|SB 3.1.16]]

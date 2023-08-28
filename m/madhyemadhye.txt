@@ -1,5 +1,11 @@
-~~Title:madhyemadhye~~
-{{description>at intervals; in the middle.}}
+---json
+{
+    "name":"madhyemadhye",
+    "h1":"madhyemadhye",
+    "title":"madhyemadhye",
+    "description":"at intervals; in the middle."
+}
+---
 
 ==== madhyemadhye  ====
   * at intervals --- [[books:cc:madhya:15:44|Madhya 15.44]]

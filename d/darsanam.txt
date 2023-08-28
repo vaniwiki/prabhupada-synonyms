@@ -1,5 +1,11 @@
-~~Title:darśanam~~
-{{description>audience; in my view; meeting; observation; philosophy; realization; revealing; seeing; sight; the audience; to look at; to see; to see personally; understanding; viewing; vision; who could show; who met.}}
+---json
+{
+    "name":"darśanam",
+    "h1":"darśanam",
+    "title":"darśanam",
+    "description":"audience; in my view; meeting; observation; philosophy; realization; revealing; seeing; sight; the audience; to look at; to see; to see personally; understanding; viewing; vision; who could show; who met."
+}
+---
 
 ==== darśanam  ====
   * audience --- [[books:sb:4:7:47|SB 4.7.47]], [[books:sb:4:22:7|SB 4.22.7]], [[books:sb:4:24:27|SB 4.24.27]], [[books:sb:4:31:5|SB 4.31.5]]

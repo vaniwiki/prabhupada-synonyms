@@ -1,5 +1,11 @@
-~~Title:asamarthāni~~
-{{description>unable.}}
+---json
+{
+    "name":"asamarthāni",
+    "h1":"asamarthāni",
+    "title":"asamarthāni",
+    "description":"unable."
+}
+---
 
 ==== asamarthāni  ====
   * unable --- [[books:sb:3:20:14|SB 3.20.14]]

@@ -1,5 +1,11 @@
-~~Title:puṣṭaḥ~~
-{{description>grown up.}}
+---json
+{
+    "name":"puṣṭaḥ",
+    "h1":"puṣṭaḥ",
+    "title":"puṣṭaḥ",
+    "description":"grown up."
+}
+---
 
 ==== puṣṭaḥ  ====
   * grown up --- [[books:sb:3:1:15|SB 3.1.15]]

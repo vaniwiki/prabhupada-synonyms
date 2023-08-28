@@ -1,5 +1,11 @@
-~~Title:sampradāya~~
-{{description>group; groups; groups of men; parties; party.}}
+---json
+{
+    "name":"sampradāya",
+    "h1":"sampradāya",
+    "title":"sampradāya",
+    "description":"group; groups; groups of men; parties; party."
+}
+---
 
 ==== sampradāya  ====
   * group --- [[books:cc:madhya:13:38|Madhya 13.38]], [[books:cc:madhya:13:40|Madhya 13.40]], [[books:cc:madhya:13:42|Madhya 13.42]], [[books:cc:madhya:13:45|Madhya 13.45]], [[books:cc:antya:10:78|Antya 10.78]]

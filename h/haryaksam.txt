@@ -1,5 +1,11 @@
-~~Title:haryakṣam~~
-{{description>of the name Haryakṣa.}}
+---json
+{
+    "name":"haryakṣam",
+    "h1":"haryakṣam",
+    "title":"haryakṣam",
+    "description":"of the name Haryakṣa."
+}
+---
 
 ==== haryakṣam  ====
   * of the name Haryakṣa --- [[books:sb:4:22:54|SB 4.22.54]]

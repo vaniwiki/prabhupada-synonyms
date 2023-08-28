@@ -1,5 +1,11 @@
-~~Title:prādāt~~
-{{description>delivered; gave as a gift; gave in charity; gave instructions; handed over; he handed over; offered; rewarded.}}
+---json
+{
+    "name":"prādāt",
+    "h1":"prādāt",
+    "title":"prādāt",
+    "description":"delivered; gave as a gift; gave in charity; gave instructions; handed over; he handed over; offered; rewarded."
+}
+---
 
 ==== prādāt  ====
   * delivered --- [[books:sb:6:9:53|SB 6.9.53]], [[books:sb:7:4:1|SB 7.4.1]], [[books:sb:9:3:9|SB 9.3.9]]

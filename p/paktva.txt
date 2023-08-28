@@ -1,5 +1,11 @@
-~~Title:paktvā~~
-{{description>after cooking.}}
+---json
+{
+    "name":"paktvā",
+    "h1":"paktvā",
+    "title":"paktvā",
+    "description":"after cooking."
+}
+---
 
 ==== paktvā  ====
   * after cooking --- [[books:sb:9:9:20-21|SB 9.9.20-21]]

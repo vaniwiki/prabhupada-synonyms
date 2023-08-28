@@ -1,5 +1,11 @@
-~~Title:vidhvaṁsayan~~
-{{description>by vanquishing.}}
+---json
+{
+    "name":"vidhvaṁsayan",
+    "h1":"vidhvaṁsayan",
+    "title":"vidhvaṁsayan",
+    "description":"by vanquishing."
+}
+---
 
 ==== vidhvaṁsayan  ====
   * by vanquishing --- [[books:sb:4:24:56|SB 4.24.56]]

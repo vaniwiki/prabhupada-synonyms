@@ -1,5 +1,11 @@
-~~Title:yatati~~
-{{description>endeavors.}}
+---json
+{
+    "name":"yatati",
+    "h1":"yatati",
+    "title":"yatati",
+    "description":"endeavors."
+}
+---
 
 ==== yatati  ====
   * endeavors --- [[books:bg:7:3|Bg. 7.3]]

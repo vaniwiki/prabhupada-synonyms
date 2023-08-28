@@ -1,5 +1,11 @@
-~~Title:kārye~~
-{{description>in activities; in the duties; in the service; in work; work.}}
+---json
+{
+    "name":"kārye",
+    "h1":"kārye",
+    "title":"kārye",
+    "description":"in activities; in the duties; in the service; in work; work."
+}
+---
 
 ==== kārye  ====
   * in activities --- [[books:cc:madhya:2:70|Madhya 2.70]]

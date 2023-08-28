@@ -1,5 +1,11 @@
-~~Title:pratāpavān~~
-{{description>the valiant.}}
+---json
+{
+    "name":"pratāpavān",
+    "h1":"pratāpavān",
+    "title":"pratāpavān",
+    "description":"the valiant."
+}
+---
 
 ==== pratāpavān  ====
   * the valiant --- [[books:bg:1:12|Bg. 1.12]]

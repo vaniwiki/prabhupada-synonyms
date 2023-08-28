@@ -1,5 +1,11 @@
-~~Title:tvarite~~
-{{description>quickly; very quickly; very soon.}}
+---json
+{
+    "name":"tvarite",
+    "h1":"tvarite",
+    "title":"tvarite",
+    "description":"quickly; very quickly; very soon."
+}
+---
 
 ==== tvarite  ====
   * quickly --- [[books:cc:madhya:4:107|Madhya 4.107]]

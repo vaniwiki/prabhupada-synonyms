@@ -1,5 +1,11 @@
-~~Title:bhaktere~~
-{{description>devotees; the devotee; to the devotees; unto the devotees.}}
+---json
+{
+    "name":"bhaktere",
+    "h1":"bhaktere",
+    "title":"bhaktere",
+    "description":"devotees; the devotee; to the devotees; unto the devotees."
+}
+---
 
 ==== bhaktere  ====
   * devotees --- [[books:cc:antya:6:209|Antya 6.209]]

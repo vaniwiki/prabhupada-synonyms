@@ -1,5 +1,11 @@
-~~Title:pragṛhīta~~
-{{description>accomplished with; having taken up; taking in hand.}}
+---json
+{
+    "name":"pragṛhīta",
+    "h1":"pragṛhīta",
+    "title":"pragṛhīta",
+    "description":"accomplished with; having taken up; taking in hand."
+}
+---
 
 ==== pragṛhīta  ====
   * accomplished with --- [[books:sb:3:5:16|SB 3.5.16]]

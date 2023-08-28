@@ -1,5 +1,11 @@
-~~Title:anusṛtā~~
-{{description>following.}}
+---json
+{
+    "name":"anusṛtā",
+    "h1":"anusṛtā",
+    "title":"anusṛtā",
+    "description":"following."
+}
+---
 
 ==== anusṛtā  ====
   * following --- [[books:cc:madhya:22:154|Madhya 22.154]]

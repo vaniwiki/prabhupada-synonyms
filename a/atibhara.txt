@@ -1,5 +1,11 @@
-~~Title:atibhara~~
-{{description>excessive.}}
+---json
+{
+    "name":"atibhara",
+    "h1":"atibhara",
+    "title":"atibhara",
+    "description":"excessive."
+}
+---
 
 ==== atibhara  ====
   * excessive --- [[books:sb:1:6:17|SB 1.6.17]]

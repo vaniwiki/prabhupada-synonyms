@@ -1,5 +1,11 @@
-~~Title:ḍhulāya~~
-{{description>moves.}}
+---json
+{
+    "name":"ḍhulāya",
+    "h1":"ḍhulāya",
+    "title":"ḍhulāya",
+    "description":"moves."
+}
+---
 
 ==== ḍhulāya  ====
   * moves --- [[books:cc:adi:5:192|Ādi 5.192]]

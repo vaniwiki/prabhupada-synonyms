@@ -1,5 +1,11 @@
-~~Title:akhaṇḍita~~
-{{description>not distracted; uninterrupted.}}
+---json
+{
+    "name":"akhaṇḍita",
+    "h1":"akhaṇḍita",
+    "title":"akhaṇḍita",
+    "description":"not distracted; uninterrupted."
+}
+---
 
 ==== akhaṇḍita  ====
   * not distracted --- [[books:sb:3:31:37|SB 3.31.37]]

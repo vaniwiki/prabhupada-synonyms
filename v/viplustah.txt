@@ -1,5 +1,11 @@
-~~Title:vipluṣṭaḥ~~
-{{description>burned by.}}
+---json
+{
+    "name":"vipluṣṭaḥ",
+    "h1":"vipluṣṭaḥ",
+    "title":"vipluṣṭaḥ",
+    "description":"burned by."
+}
+---
 
 ==== vipluṣṭaḥ  ====
   * burned by --- [[books:sb:1:18:1|SB 1.18.1]]

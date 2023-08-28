@@ -1,5 +1,11 @@
-~~Title:dvayāya~~
-{{description>in whom the dual world.}}
+---json
+{
+    "name":"dvayāya",
+    "h1":"dvayāya",
+    "title":"dvayāya",
+    "description":"in whom the dual world."
+}
+---
 
 ==== dvayāya  ====
   * in whom the dual world --- [[books:sb:4:30:23|SB 4.30.23]]

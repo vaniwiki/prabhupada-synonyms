@@ -1,5 +1,11 @@
-~~Title:harayaḥ~~
-{{description>lions; the Haris; the lions.}}
+---json
+{
+    "name":"harayaḥ",
+    "h1":"harayaḥ",
+    "title":"harayaḥ",
+    "description":"lions; the Haris; the lions."
+}
+---
 
 ==== harayaḥ  ====
   * lions --- [[books:sb:8:2:21|SB 8.2.21]]

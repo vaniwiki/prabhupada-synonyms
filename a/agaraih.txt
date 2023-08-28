@@ -1,5 +1,11 @@
-~~Title:āgāraiḥ~~
-{{description>with houses.}}
+---json
+{
+    "name":"āgāraiḥ",
+    "h1":"āgāraiḥ",
+    "title":"āgāraiḥ",
+    "description":"with houses."
+}
+---
 
 ==== āgāraiḥ  ====
   * with houses --- [[books:sb:4:9:56|SB 4.9.56]]

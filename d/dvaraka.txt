@@ -1,5 +1,11 @@
-~~Title:dvārakā~~
-{{description>Dvārakā; in Dvārakā; of Dvārakā.}}
+---json
+{
+    "name":"dvārakā",
+    "h1":"dvārakā",
+    "title":"dvārakā",
+    "description":"Dvārakā; in Dvārakā; of Dvārakā."
+}
+---
 
 ==== dvārakā  ====
   * Dvārakā --- [[books:cc:adi:5:40|Ādi 5.40]]

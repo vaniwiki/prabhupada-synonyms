@@ -1,5 +1,11 @@
-~~Title:ṭhak~~
-{{description>rogues.}}
+---json
+{
+    "name":"ṭhak",
+    "h1":"ṭhak",
+    "title":"ṭhak",
+    "description":"rogues."
+}
+---
 
 ==== ṭhak  ====
   * rogues --- [[books:cc:madhya:18:172|Madhya 18.172]]

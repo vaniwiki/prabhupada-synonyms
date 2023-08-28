@@ -1,5 +1,11 @@
-~~Title:dharimu~~
-{{description>I shall catch.}}
+---json
+{
+    "name":"dharimu",
+    "h1":"dharimu",
+    "title":"dharimu",
+    "description":"I shall catch."
+}
+---
 
 ==== dharimu  ====
   * I shall catch --- [[books:cc:antya:11:33|Antya 11.33]]

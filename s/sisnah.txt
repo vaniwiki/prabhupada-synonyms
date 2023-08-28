@@ -1,5 +1,11 @@
-~~Title:śiśnaḥ~~
-{{description>the genitals.}}
+---json
+{
+    "name":"śiśnaḥ",
+    "h1":"śiśnaḥ",
+    "title":"śiśnaḥ",
+    "description":"the genitals."
+}
+---
 
 ==== śiśnaḥ  ====
   * the genitals --- [[books:sb:2:6:8|SB 2.6.8]], [[books:sb:2:10:26|SB 2.10.26]], [[books:sb:7:9:40|SB 7.9.40]]

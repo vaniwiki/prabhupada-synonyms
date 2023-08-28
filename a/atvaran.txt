@@ -1,5 +1,11 @@
-~~Title:atvaran~~
-{{description>by surpassing.}}
+---json
+{
+    "name":"atvaran",
+    "h1":"atvaran",
+    "title":"atvaran",
+    "description":"by surpassing."
+}
+---
 
 ==== atvaran  ====
   * by surpassing --- [[books:sb:2:2:28|SB 2.2.28]]

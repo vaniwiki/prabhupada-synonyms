@@ -1,5 +1,11 @@
-~~Title:antavat~~
-{{description>limited and temporary.}}
+---json
+{
+    "name":"antavat",
+    "h1":"antavat",
+    "title":"antavat",
+    "description":"limited and temporary."
+}
+---
 
 ==== antavat tu  ====
   * limited and temporary --- [[books:bg:7:23|Bg. 7.23]]

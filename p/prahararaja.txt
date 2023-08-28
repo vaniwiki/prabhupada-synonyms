@@ -1,5 +1,11 @@
-~~Title:prahararāja~~
-{{description>Prahararāja.}}
+---json
+{
+    "name":"prahararāja",
+    "h1":"prahararāja",
+    "title":"prahararāja",
+    "description":"Prahararāja."
+}
+---
 
 ==== prahararāja  ====
   * Prahararāja --- [[books:cc:madhya:10:46|Madhya 10.46]]

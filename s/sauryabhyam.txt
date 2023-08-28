@@ -1,5 +1,11 @@
-~~Title:śauryābhyām~~
-{{description>by influence and heroism.}}
+---json
+{
+    "name":"śauryābhyām",
+    "h1":"śauryābhyām",
+    "title":"śauryābhyām",
+    "description":"by influence and heroism."
+}
+---
 
 ==== vīrya-śauryābhyām  ====
   * by influence and heroism --- [[books:sb:5:4:2|SB 5.4.2]]

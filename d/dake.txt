@@ -1,5 +1,11 @@
-~~Title:ḍāke~~
-{{description>calls; shout.}}
+---json
+{
+    "name":"ḍāke",
+    "h1":"ḍāke",
+    "title":"ḍāke",
+    "description":"calls; shout."
+}
+---
 
 ==== ḍāke  ====
   * calls --- [[books:cc:madhya:12:160|Madhya 12.160]]

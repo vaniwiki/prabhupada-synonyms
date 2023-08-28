@@ -1,5 +1,11 @@
-~~Title:viduṣā~~
-{{description>greatly learned; understanding; well learned.}}
+---json
+{
+    "name":"viduṣā",
+    "h1":"viduṣā",
+    "title":"viduṣā",
+    "description":"greatly learned; understanding; well learned."
+}
+---
 
 ==== viduṣā  ====
   * greatly learned --- [[books:sb:6:14:22|SB 6.14.22]]

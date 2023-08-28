@@ -1,5 +1,11 @@
-~~Title:mulah~~
-{{description>the root; whose root.}}
+---json
+{
+    "name":"mulah",
+    "h1":"mulah",
+    "title":"mulah",
+    "description":"the root; whose root."
+}
+---
 
 ==== mūlaḥ  ====
   * the root --- [[books:sb:5:13:22|SB 5.13.22]]

@@ -1,5 +1,11 @@
-~~Title:karusah~~
-{{description>the King of Karūṣa.}}
+---json
+{
+    "name":"karusah",
+    "h1":"karusah",
+    "title":"karusah",
+    "description":"the King of Karūṣa."
+}
+---
 
 ==== kārūṣaḥ  ====
   * the King of Karūṣa --- [[books:sb:9:24:37|SB 9.24.37]]

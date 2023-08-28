@@ -1,5 +1,11 @@
-~~Title:sahasreṇa~~
-{{description>by a thousand.}}
+---json
+{
+    "name":"sahasreṇa",
+    "h1":"sahasreṇa",
+    "title":"sahasreṇa",
+    "description":"by a thousand."
+}
+---
 
 ==== sahasreṇa  ====
   * by a thousand --- [[books:sb:3:23:36-37|SB 3.23.36-37]]

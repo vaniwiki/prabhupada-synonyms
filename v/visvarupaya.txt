@@ -1,5 +1,11 @@
-~~Title:viśvarūpāya~~
-{{description>unto Viśvarūpa.}}
+---json
+{
+    "name":"viśvarūpāya",
+    "h1":"viśvarūpāya",
+    "title":"viśvarūpāya",
+    "description":"unto Viśvarūpa."
+}
+---
 
 ==== viśvarūpāya  ====
   * unto Viśvarūpa --- [[books:sb:6:9:53|SB 6.9.53]]

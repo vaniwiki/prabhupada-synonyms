@@ -1,5 +1,11 @@
-~~Title:samanuvratāḥ~~
-{{description>followers; following.}}
+---json
+{
+    "name":"samanuvratāḥ",
+    "h1":"samanuvratāḥ",
+    "title":"samanuvratāḥ",
+    "description":"followers; following."
+}
+---
 
 ==== samanuvratāḥ  ====
   * followers --- [[books:sb:3:1:35|SB 3.1.35]]

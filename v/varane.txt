@@ -1,5 +1,11 @@
-~~Title:varaṇe~~
-{{description>by a color that is not blackish.}}
+---json
+{
+    "name":"varaṇe",
+    "h1":"varaṇe",
+    "title":"varaṇe",
+    "description":"by a color that is not blackish."
+}
+---
 
 ==== akṛṣṇa-varaṇe  ====
   * by a color that is not blackish --- [[books:cc:adi:3:57|Ādi 3.57]]

@@ -1,5 +1,11 @@
-~~Title:sāṁsargikaḥ~~
-{{description>resulting from intimate association.}}
+---json
+{
+    "name":"sāṁsargikaḥ",
+    "h1":"sāṁsargikaḥ",
+    "title":"sāṁsargikaḥ",
+    "description":"resulting from intimate association."
+}
+---
 
 ==== sāṁsargikaḥ  ====
   * resulting from intimate association --- [[books:sb:5:10:5|SB 5.10.5]]

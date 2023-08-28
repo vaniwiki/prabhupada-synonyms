@@ -1,5 +1,11 @@
-~~Title:mohayitvā~~
-{{description>enchanting.}}
+---json
+{
+    "name":"mohayitvā",
+    "h1":"mohayitvā",
+    "title":"mohayitvā",
+    "description":"enchanting."
+}
+---
 
 ==== mohayitvā  ====
   * enchanting --- [[books:sb:8:12:1-2|SB 8.12.1-2]]

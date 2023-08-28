@@ -1,5 +1,11 @@
-~~Title:pālayoḥ~~
-{{description>and from the king.}}
+---json
+{
+    "name":"pālayoḥ",
+    "h1":"pālayoḥ",
+    "title":"pālayoḥ",
+    "description":"and from the king."
+}
+---
 
 ==== pālayoḥ  ====
   * and from the king --- [[books:sb:4:14:8|SB 4.14.8]]

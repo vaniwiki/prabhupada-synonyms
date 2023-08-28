@@ -1,5 +1,11 @@
-~~Title:vasantaḥ~~
-{{description>are residing; personified springtime.}}
+---json
+{
+    "name":"vasantaḥ",
+    "h1":"vasantaḥ",
+    "title":"vasantaḥ",
+    "description":"are residing; personified springtime."
+}
+---
 
 ==== vasantaḥ  ====
   * are residing --- [[books:cc:madhya:23:77|Madhya 23.77]]

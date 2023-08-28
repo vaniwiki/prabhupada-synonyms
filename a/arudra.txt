@@ -1,5 +1,11 @@
-~~Title:arudra~~
-{{description>having no oblations for Lord Śiva.}}
+---json
+{
+    "name":"arudra",
+    "h1":"arudra",
+    "title":"arudra",
+    "description":"having no oblations for Lord Śiva."
+}
+---
 
 ==== arudra-bhāgam  ====
   * having no oblations for Lord Śiva --- [[books:sb:4:4:9|SB 4.4.9]]

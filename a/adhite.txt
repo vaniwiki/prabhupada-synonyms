@@ -1,5 +1,11 @@
-~~Title:adhīte~~
-{{description>one obtains.}}
+---json
+{
+    "name":"adhīte",
+    "h1":"adhīte",
+    "title":"adhīte",
+    "description":"one obtains."
+}
+---
 
 ==== adhīte  ====
   * one obtains --- [[books:cc:antya:1:92|Antya 1.92]]

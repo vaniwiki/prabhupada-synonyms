@@ -1,5 +1,11 @@
-~~Title:śatadyumnaḥ~~
-{{description>Śatadyumna.}}
+---json
+{
+    "name":"śatadyumnaḥ",
+    "h1":"śatadyumnaḥ",
+    "title":"śatadyumnaḥ",
+    "description":"Śatadyumna."
+}
+---
 
 ==== śatadyumnaḥ  ====
   * Śatadyumna --- [[books:sb:9:13:20-21|SB 9.13.20-21]]

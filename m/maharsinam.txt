@@ -1,5 +1,11 @@
-~~Title:maharṣīṇām~~
-{{description>among the great sages; of the great sages.}}
+---json
+{
+    "name":"maharṣīṇām",
+    "h1":"maharṣīṇām",
+    "title":"maharṣīṇām",
+    "description":"among the great sages; of the great sages."
+}
+---
 
 ==== maharṣīṇām  ====
   * among the great sages --- [[books:bg:10:25|Bg. 10.25]]

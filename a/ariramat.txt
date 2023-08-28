@@ -1,5 +1,11 @@
-~~Title:arīramat~~
-{{description>enlivened.}}
+---json
+{
+    "name":"arīramat",
+    "h1":"arīramat",
+    "title":"arīramat",
+    "description":"enlivened."
+}
+---
 
 ==== arīramat  ====
   * enlivened --- [[books:sb:3:2:29|SB 3.2.29]]

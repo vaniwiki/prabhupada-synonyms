@@ -1,5 +1,11 @@
-~~Title:vicetasaḥ~~
-{{description>bewildered; unconscious; very much bewildered, almost unconscious.}}
+---json
+{
+    "name":"vicetasaḥ",
+    "h1":"vicetasaḥ",
+    "title":"vicetasaḥ",
+    "description":"bewildered; unconscious; very much bewildered, almost unconscious."
+}
+---
 
 ==== vicetasaḥ  ====
   * bewildered --- [[books:bg:9:12|Bg. 9.12]]

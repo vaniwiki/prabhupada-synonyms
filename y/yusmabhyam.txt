@@ -1,5 +1,11 @@
-~~Title:yuṣmabhyam~~
-{{description>for all of you.}}
+---json
+{
+    "name":"yuṣmabhyam",
+    "h1":"yuṣmabhyam",
+    "title":"yuṣmabhyam",
+    "description":"for all of you."
+}
+---
 
 ==== yuṣmabhyam  ====
   * for all of you --- [[books:sb:6:9:54|SB 6.9.54]]

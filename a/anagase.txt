@@ -1,5 +1,11 @@
-~~Title:anāgase~~
-{{description>faultless.}}
+---json
+{
+    "name":"anāgase",
+    "h1":"anāgase",
+    "title":"anāgase",
+    "description":"faultless."
+}
+---
 
 ==== anāgase  ====
   * faultless --- [[books:sb:4:1:66|SB 4.1.66]]

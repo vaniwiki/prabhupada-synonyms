@@ -1,5 +1,11 @@
-~~Title:aviduṣām~~
-{{description>of persons who do not know; of us, who are all ignorant.}}
+---json
+{
+    "name":"aviduṣām",
+    "h1":"aviduṣām",
+    "title":"aviduṣām",
+    "description":"of persons who do not know; of us, who are all ignorant."
+}
+---
 
 ==== aviduṣām  ====
   * of persons who do not know --- [[books:sb:5:3:9|SB 5.3.9]]

@@ -1,5 +1,11 @@
-~~Title:utpulaka~~
-{{description>horripilation.}}
+---json
+{
+    "name":"utpulaka",
+    "h1":"utpulaka",
+    "title":"utpulaka",
+    "description":"horripilation."
+}
+---
 
 ==== utpulaka  ====
   * horripilation --- [[books:sb:7:7:34|SB 7.7.34]]

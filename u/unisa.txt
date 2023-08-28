@@ -1,5 +1,11 @@
-~~Title:ūniśa~~
-{{description>nineteen.}}
+---json
+{
+    "name":"ūniśa",
+    "h1":"ūniśa",
+    "title":"ūniśa",
+    "description":"nineteen."
+}
+---
 
 ==== ūniśa  ====
   * nineteen --- [[books:cc:madhya:24:211|Madhya 24.211]]

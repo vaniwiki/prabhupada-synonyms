@@ -1,5 +1,11 @@
-~~Title:apratidvandvam~~
-{{description>without any rival or opponent.}}
+---json
+{
+    "name":"apratidvandvam",
+    "h1":"apratidvandvam",
+    "title":"apratidvandvam",
+    "description":"without any rival or opponent."
+}
+---
 
 ==== apratidvandvam  ====
   * without any rival or opponent --- [[books:sb:7:3:1|SB 7.3.1]]

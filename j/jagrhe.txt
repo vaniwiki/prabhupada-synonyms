@@ -1,5 +1,11 @@
-~~Title:jagṛhe~~
-{{description>accepted; captured; caught; exacted; he assumed; manifested; took; took up.}}
+---json
+{
+    "name":"jagṛhe",
+    "h1":"jagṛhe",
+    "title":"jagṛhe",
+    "description":"accepted; captured; caught; exacted; he assumed; manifested; took; took up."
+}
+---
 
 ==== jagṛhe  ====
   * accepted --- [[books:sb:1:3:1|SB 1.3.1]], [[books:sb:1:3:15|SB 1.3.15]], [[books:sb:2:7:17|SB 2.7.17]], [[books:sb:3:3:8|SB 3.3.8]], [[books:sb:4:19:23|SB 4.19.23]], [[books:sb:4:20:17|SB 4.20.17]], [[books:sb:4:29:22|SB 4.29.22]], [[books:sb:6:17:37|SB 6.17.37]], [[books:sb:9:10:8|SB 9.10.8]], [[books:sb:9:20:20|SB 9.20.20]], [[books:cc:adi:5:84|Ādi 5.84]], [[books:cc:madhya:20:266|Madhya 20.266]]

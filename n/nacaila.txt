@@ -1,5 +1,11 @@
-~~Title:nacaila~~
-{{description>caused to dance.}}
+---json
+{
+    "name":"nacaila",
+    "h1":"nacaila",
+    "title":"nacaila",
+    "description":"caused to dance."
+}
+---
 
 ==== nācāila  ====
   * caused to dance --- [[books:cc:madhya:13:69|Madhya 13.69]], [[books:cc:madhya:13:71|Madhya 13.71]]

@@ -1,5 +1,11 @@
-~~Title:pṛtanām~~
-{{description>defensive forces; his own soldiers; the army.}}
+---json
+{
+    "name":"pṛtanām",
+    "h1":"pṛtanām",
+    "title":"pṛtanām",
+    "description":"defensive forces; his own soldiers; the army."
+}
+---
 
 ==== pṛtanām  ====
   * defensive forces --- [[books:sb:1:10:32|SB 1.10.32]]

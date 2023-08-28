@@ -1,5 +1,11 @@
-~~Title:upasrstah~~
-{{description>being influenced.}}
+---json
+{
+    "name":"upasrstah",
+    "h1":"upasrstah",
+    "title":"upasrstah",
+    "description":"being influenced."
+}
+---
 
 ==== upasṛṣṭaḥ  ====
   * being influenced --- [[books:sb:4:25:30|SB 4.25.30]]

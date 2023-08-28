@@ -1,5 +1,11 @@
-~~Title:samanvitam~~
-{{description>bedecked with; coordinated; dovetailed with bhakti-yoga; fully endowed with; is maintained.}}
+---json
+{
+    "name":"samanvitam",
+    "h1":"samanvitam",
+    "title":"samanvitam",
+    "description":"bedecked with; coordinated; dovetailed with bhakti-yoga; fully endowed with; is maintained."
+}
+---
 
 ==== samanvitam  ====
   * bedecked with --- [[books:sb:3:23:13|SB 3.23.13]]

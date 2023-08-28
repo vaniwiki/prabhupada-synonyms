@@ -1,5 +1,11 @@
-~~Title:āpuḥ~~
-{{description>achieved; attained; got; obtained; received.}}
+---json
+{
+    "name":"āpuḥ",
+    "h1":"āpuḥ",
+    "title":"āpuḥ",
+    "description":"achieved; attained; got; obtained; received."
+}
+---
 
 ==== āpuḥ  ====
   * achieved --- [[books:sb:3:2:20|SB 3.2.20]], [[books:sb:4:30:1|SB 4.30.1]], [[books:sb:8:9:28|SB 8.9.28]]

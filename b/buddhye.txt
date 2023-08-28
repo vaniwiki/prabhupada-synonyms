@@ -1,5 +1,11 @@
-~~Title:buddhye~~
-{{description>in intelligence; in understanding.}}
+---json
+{
+    "name":"buddhye",
+    "h1":"buddhye",
+    "title":"buddhye",
+    "description":"in intelligence; in understanding."
+}
+---
 
 ==== buddhye  ====
   * in intelligence --- [[books:cc:madhya:20:350|Madhya 20.350]], [[books:cc:madhya:24:187|Madhya 24.187]]

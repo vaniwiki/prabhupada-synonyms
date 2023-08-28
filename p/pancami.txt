@@ -1,5 +1,11 @@
-~~Title:pañcamī~~
-{{description>Herā-pañcamī, which takes place on the fifth day of Ratha-yātrā; the function of Herā-pañcamī.}}
+---json
+{
+    "name":"pañcamī",
+    "h1":"pañcamī",
+    "title":"pañcamī",
+    "description":"Herā-pañcamī, which takes place on the fifth day of Ratha-yātrā; the function of Herā-pañcamī."
+}
+---
 
 ==== herā-pañcamī  ====
   * Herā-pañcamī, which takes place on the fifth day of Ratha-yātrā --- [[books:cc:madhya:25:252|Madhya 25.252]]

@@ -1,5 +1,11 @@
-~~Title:samutthitah~~
-{{description>appeared; arose; thus generated.}}
+---json
+{
+    "name":"samutthitah",
+    "h1":"samutthitah",
+    "title":"samutthitah",
+    "description":"appeared; arose; thus generated."
+}
+---
 
 ==== samutthitaḥ  ====
   * appeared --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

@@ -1,5 +1,11 @@
-~~Title:mṛgendra~~
-{{description>by a lion.}}
+---json
+{
+    "name":"mṛgendra",
+    "h1":"mṛgendra",
+    "title":"mṛgendra",
+    "description":"by a lion."
+}
+---
 
 ==== mṛgendra  ====
   * by a lion --- [[books:sb:4:10:20|SB 4.10.20]]

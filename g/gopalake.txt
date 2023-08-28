@@ -1,5 +1,11 @@
-~~Title:gopālake~~
-{{description>unto Gopāla.}}
+---json
+{
+    "name":"gopālake",
+    "h1":"gopālake",
+    "title":"gopālake",
+    "description":"unto Gopāla."
+}
+---
 
 ==== gopālake  ====
   * unto Gopāla --- [[books:cc:madhya:15:63|Madhya 15.63]]

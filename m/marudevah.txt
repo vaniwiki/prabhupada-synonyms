@@ -1,5 +1,11 @@
-~~Title:marudevaḥ~~
-{{description>Marudeva.}}
+---json
+{
+    "name":"marudevaḥ",
+    "h1":"marudevaḥ",
+    "title":"marudevaḥ",
+    "description":"Marudeva."
+}
+---
 
 ==== marudevaḥ  ====
   * Marudeva --- [[books:sb:9:12:12|SB 9.12.12]]

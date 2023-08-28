@@ -1,5 +1,11 @@
-~~Title:kṣatāt~~
-{{description>from the mischief.}}
+---json
+{
+    "name":"kṣatāt",
+    "h1":"kṣatāt",
+    "title":"kṣatāt",
+    "description":"from the mischief."
+}
+---
 
 ==== kṣatāt  ====
   * from the mischief --- [[books:sb:3:6:31|SB 3.6.31]]

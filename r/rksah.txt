@@ -1,5 +1,11 @@
-~~Title:ṛkṣaḥ~~
-{{description>Ṛkṣa.}}
+---json
+{
+    "name":"ṛkṣaḥ",
+    "h1":"ṛkṣaḥ",
+    "title":"ṛkṣaḥ",
+    "description":"Ṛkṣa."
+}
+---
 
 ==== ṛkṣaḥ  ====
   * Ṛkṣa --- [[books:sb:9:2:19|SB 9.2.19]], [[books:sb:9:22:4-5|SB 9.22.4-5]], [[books:sb:9:22:11|SB 9.22.11]]

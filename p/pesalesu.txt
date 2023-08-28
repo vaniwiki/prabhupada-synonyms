@@ -1,5 +1,11 @@
-~~Title:peśaleṣu~~
-{{description>expert.}}
+---json
+{
+    "name":"peśaleṣu",
+    "h1":"peśaleṣu",
+    "title":"peśaleṣu",
+    "description":"expert."
+}
+---
 
 ==== peśaleṣu  ====
   * expert --- [[books:sb:4:19:24-25|SB 4.19.24-25]]

@@ -1,5 +1,11 @@
-~~Title:kautukete~~
-{{description>in jest.}}
+---json
+{
+    "name":"kautukete",
+    "h1":"kautukete",
+    "title":"kautukete",
+    "description":"in jest."
+}
+---
 
 ==== kautukete  ====
   * in jest --- [[books:cc:antya:16:7|Antya 16.7]]

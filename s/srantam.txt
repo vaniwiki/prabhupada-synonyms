@@ -1,5 +1,11 @@
-~~Title:śrāntam~~
-{{description>being fatigued.}}
+---json
+{
+    "name":"śrāntam",
+    "h1":"śrāntam",
+    "title":"śrāntam",
+    "description":"being fatigued."
+}
+---
 
 ==== śrāntam  ====
   * being fatigued --- [[books:sb:4:8:66|SB 4.8.66]]

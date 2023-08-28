@@ -1,5 +1,11 @@
-~~Title:vikacayya~~
-{{description>opening.}}
+---json
+{
+    "name":"vikacayya",
+    "h1":"vikacayya",
+    "title":"vikacayya",
+    "description":"opening."
+}
+---
 
 ==== vikacayya  ====
   * opening --- [[books:sb:5:2:5|SB 5.2.5]]

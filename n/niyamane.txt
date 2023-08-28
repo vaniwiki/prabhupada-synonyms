@@ -1,5 +1,11 @@
-~~Title:nīyamāne~~
-{{description>being carried.}}
+---json
+{
+    "name":"nīyamāne",
+    "h1":"nīyamāne",
+    "title":"nīyamāne",
+    "description":"being carried."
+}
+---
 
 ==== nīyamāne  ====
   * being carried --- [[books:sb:8:8:36|SB 8.8.36]]

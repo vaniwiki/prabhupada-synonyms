@@ -1,5 +1,11 @@
-~~Title:vitaraṇa~~
-{{description>distribution.}}
+---json
+{
+    "name":"vitaraṇa",
+    "h1":"vitaraṇa",
+    "title":"vitaraṇa",
+    "description":"distribution."
+}
+---
 
 ==== vitaraṇa  ====
   * distribution --- [[books:cc:adi:9:54|Ādi 9.54]]

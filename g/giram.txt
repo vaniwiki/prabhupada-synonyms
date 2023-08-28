@@ -1,5 +1,11 @@
-~~Title:giram~~
-{{description>a vibration of words; speech; speeches; voice; words.}}
+---json
+{
+    "name":"giram",
+    "h1":"giram",
+    "title":"giram",
+    "description":"a vibration of words; speech; speeches; voice; words."
+}
+---
 
 ==== giram  ====
   * a vibration of words --- [[books:sb:10:1:21|SB 10.1.21]]

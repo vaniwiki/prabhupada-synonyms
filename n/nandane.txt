@@ -1,5 +1,11 @@
-~~Title:nandane~~
-{{description>in Nandana; in the pleasure gardens of heaven.}}
+---json
+{
+    "name":"nandane",
+    "h1":"nandane",
+    "title":"nandane",
+    "description":"in Nandana; in the pleasure gardens of heaven."
+}
+---
 
 ==== nandane  ====
   * in Nandana --- [[books:sb:3:23:40|SB 3.23.40]]

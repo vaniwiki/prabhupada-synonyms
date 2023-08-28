@@ -1,5 +1,11 @@
-~~Title:rolambam~~
-{{description>like bumblebees.}}
+---json
+{
+    "name":"rolambam",
+    "h1":"rolambam",
+    "title":"rolambam",
+    "description":"like bumblebees."
+}
+---
 
 ==== rolambam  ====
   * like bumblebees --- [[books:cc:antya:20:156|Antya 20.156]]

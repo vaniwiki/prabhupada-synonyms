@@ -1,5 +1,11 @@
-~~Title:pṛṣṭhena~~
-{{description>by the back; by the backbone.}}
+---json
+{
+    "name":"pṛṣṭhena",
+    "h1":"pṛṣṭhena",
+    "title":"pṛṣṭhena",
+    "description":"by the back; by the backbone."
+}
+---
 
 ==== pṛṣṭhena  ====
   * by the back --- [[books:sb:8:7:9|SB 8.7.9]]

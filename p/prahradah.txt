@@ -1,5 +1,11 @@
-~~Title:prahrādaḥ~~
-{{description>Mahārāja Prahlāda; Mahārāja Prahlāda, his grandfather; Prahlāda; Prahlāda Mahārāja; the one named Prahlāda.}}
+---json
+{
+    "name":"prahrādaḥ",
+    "h1":"prahrādaḥ",
+    "title":"prahrādaḥ",
+    "description":"Mahārāja Prahlāda; Mahārāja Prahlāda, his grandfather; Prahlāda; Prahlāda Mahārāja; the one named Prahlāda."
+}
+---
 
 ==== prahrādaḥ  ====
   * Mahārāja Prahlāda --- [[books:sb:7:13:12-13|SB 7.13.12-13]], [[books:sb:8:23:11-12|SB 8.23.11-12]]

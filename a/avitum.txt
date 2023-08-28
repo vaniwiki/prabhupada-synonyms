@@ -1,5 +1,11 @@
-~~Title:avitum~~
-{{description>to disseminate; to protect.}}
+---json
+{
+    "name":"avitum",
+    "h1":"avitum",
+    "title":"avitum",
+    "description":"to disseminate; to protect."
+}
+---
 
 ==== avitum  ====
   * to disseminate --- [[books:sb:4:7:14|SB 4.7.14]]

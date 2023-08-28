@@ -1,5 +1,11 @@
-~~Title:praveśaḥ~~
-{{description>the entrance.}}
+---json
+{
+    "name":"praveśaḥ",
+    "h1":"praveśaḥ",
+    "title":"praveśaḥ",
+    "description":"the entrance."
+}
+---
 
 ==== praveśaḥ  ====
   * the entrance --- [[books:cc:antya:1:135|Antya 1.135]]

@@ -1,5 +1,11 @@
-~~Title:lakhite~~
-{{description>see; to observe.}}
+---json
+{
+    "name":"lakhite",
+    "h1":"lakhite",
+    "title":"lakhite",
+    "description":"see; to observe."
+}
+---
 
 ==== lakhite  ====
   * see --- [[books:cc:madhya:13:54|Madhya 13.54]]

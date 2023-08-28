@@ -1,5 +1,11 @@
-~~Title:puṅgava~~
-{{description>O best of the asuras.}}
+---json
+{
+    "name":"puṅgava",
+    "h1":"puṅgava",
+    "title":"puṅgava",
+    "description":"O best of the asuras."
+}
+---
 
 ==== asura-puṅgava  ====
   * O best of the //asuras// --- [[books:sb:7:3:21|SB 7.3.21]]

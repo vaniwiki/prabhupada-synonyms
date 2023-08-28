@@ -1,5 +1,11 @@
-~~Title:śakuntalā~~
-{{description>your wife, Śakuntalā.}}
+---json
+{
+    "name":"śakuntalā",
+    "h1":"śakuntalā",
+    "title":"śakuntalā",
+    "description":"your wife, Śakuntalā."
+}
+---
 
 ==== śakuntalā  ====
   * your wife, Śakuntalā --- [[books:sb:9:20:22|SB 9.20.22]]

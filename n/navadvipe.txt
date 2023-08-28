@@ -1,5 +1,11 @@
-~~Title:navadvīpe~~
-{{description>as well as Navadvīpa; at Navadvīpa; in Navadvīpa; in the city of Navadvīpa; the holy place of Navadvīpa-dhāma; to Navadvīpa.}}
+---json
+{
+    "name":"navadvīpe",
+    "h1":"navadvīpe",
+    "title":"navadvīpe",
+    "description":"as well as Navadvīpa; at Navadvīpa; in Navadvīpa; in the city of Navadvīpa; the holy place of Navadvīpa-dhāma; to Navadvīpa."
+}
+---
 
 ==== navadvīpe  ====
   * as well as Navadvīpa --- [[books:cc:madhya:3:183|Madhya 3.183]]

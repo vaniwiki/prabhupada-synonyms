@@ -1,5 +1,11 @@
-~~Title:bhavānanda~~
-{{description>Bhavānanda Rāya.}}
+---json
+{
+    "name":"bhavānanda",
+    "h1":"bhavānanda",
+    "title":"bhavānanda",
+    "description":"Bhavānanda Rāya."
+}
+---
 
 ==== bhavānanda rāya  ====
   * Bhavānanda Rāya --- [[books:cc:madhya:10:49|Madhya 10.49]], [[books:cc:antya:9:103|Antya 9.103]]

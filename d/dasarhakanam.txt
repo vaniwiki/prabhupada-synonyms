@@ -1,5 +1,11 @@
-~~Title:dāśārhakāṇām~~
-{{description>the Dāśārha race.}}
+---json
+{
+    "name":"dāśārhakāṇām",
+    "h1":"dāśārhakāṇām",
+    "title":"dāśārhakāṇām",
+    "description":"the Dāśārha race."
+}
+---
 
 ==== dāśārhakāṇām  ====
   * the Dāśārha race --- [[books:sb:3:1:29|SB 3.1.29]]

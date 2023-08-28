@@ -1,5 +1,11 @@
-~~Title:ahārṣīt~~
-{{description>stole away; will steal.}}
+---json
+{
+    "name":"ahārṣīt",
+    "h1":"ahārṣīt",
+    "title":"ahārṣīt",
+    "description":"stole away; will steal."
+}
+---
 
 ==== ahārṣīt  ====
   * stole away --- [[books:sb:7:8:45|SB 7.8.45]]

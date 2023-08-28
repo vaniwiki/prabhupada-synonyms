@@ -1,5 +1,11 @@
-~~Title:supārśva~~
-{{description>the father of Supārśva.}}
+---json
+{
+    "name":"supārśva",
+    "h1":"supārśva",
+    "title":"supārśva",
+    "description":"the father of Supārśva."
+}
+---
 
 ==== supārśva-kṛt  ====
   * the father of Supārśva --- [[books:sb:9:21:27|SB 9.21.27]]

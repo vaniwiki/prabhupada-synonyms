@@ -1,5 +1,11 @@
-~~Title:śṛṅgāya~~
-{{description>who have four horns.}}
+---json
+{
+    "name":"śṛṅgāya",
+    "h1":"śṛṅgāya",
+    "title":"śṛṅgāya",
+    "description":"who have four horns."
+}
+---
 
 ==== catuḥ-śṛṅgāya  ====
   * who have four horns --- [[books:sb:8:16:31|SB 8.16.31]]

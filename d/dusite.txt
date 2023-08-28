@@ -1,5 +1,11 @@
-~~Title:dūṣite~~
-{{description>infested; when polluted.}}
+---json
+{
+    "name":"dūṣite",
+    "h1":"dūṣite",
+    "title":"dūṣite",
+    "description":"infested; when polluted."
+}
+---
 
 ==== dūṣite  ====
   * infested --- [[books:sb:3:31:26|SB 3.31.26]]

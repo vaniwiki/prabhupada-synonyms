@@ -1,5 +1,11 @@
-~~Title:varṇitam~~
-{{description>as they have been so nicely described; described; explained.}}
+---json
+{
+    "name":"varṇitam",
+    "h1":"varṇitam",
+    "title":"varṇitam",
+    "description":"as they have been so nicely described; described; explained."
+}
+---
 
 ==== varṇitam  ====
   * as they have been so nicely described --- [[books:sb:9:10:3|SB 9.10.3]]

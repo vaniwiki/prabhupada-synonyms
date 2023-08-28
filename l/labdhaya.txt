@@ -1,5 +1,11 @@
-~~Title:labdhaya~~
-{{description>for gaining.}}
+---json
+{
+    "name":"labdhaya",
+    "h1":"labdhaya",
+    "title":"labdhaya",
+    "description":"for gaining."
+}
+---
 
 ==== labdhaya  ====
   * for gaining --- [[books:sb:2:7:13|SB 2.7.13]]

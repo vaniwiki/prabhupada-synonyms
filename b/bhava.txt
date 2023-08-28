@@ -1,5 +1,11 @@
-~~Title:bhava~~
-{{description>and by Lord Śiva; appearance; be; become; by Lord Śiva; compared to the world of nescience (birth, death, old age and disease); from birth; just become; Lord Śiva; material existence; O Lord Śiva; of material existence; of mundane existence; the distress of the repetition of birth and death; the repetition of birth and death; you become; You please be.}}
+---json
+{
+    "name":"bhava",
+    "h1":"bhava",
+    "title":"bhava",
+    "description":"and by Lord Śiva; appearance; be; become; by Lord Śiva; compared to the world of nescience (birth, death, old age and disease); from birth; just become; Lord Śiva; material existence; O Lord Śiva; of material existence; of mundane existence; the distress of the repetition of birth and death; the repetition of birth and death; you become; You please be."
+}
+---
 
 ==== bhava  ====
   * and by Lord Śiva --- [[books:sb:9:10:12|SB 9.10.12]]

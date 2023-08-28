@@ -1,5 +1,11 @@
-~~Title:janmibe~~
-{{description>will appear.}}
+---json
+{
+    "name":"janmibe",
+    "h1":"janmibe",
+    "title":"janmibe",
+    "description":"will appear."
+}
+---
 
 ==== janmibe  ====
   * will appear --- [[books:cc:madhya:7:146|Madhya 7.146]]

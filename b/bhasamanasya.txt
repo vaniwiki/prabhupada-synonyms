@@ -1,5 +1,11 @@
-~~Title:bhāṣamāṇasya~~
-{{description>while describing his fortunate position.}}
+---json
+{
+    "name":"bhāṣamāṇasya",
+    "h1":"bhāṣamāṇasya",
+    "title":"bhāṣamāṇasya",
+    "description":"while describing his fortunate position."
+}
+---
 
 ==== bhāṣamāṇasya  ====
   * while describing his fortunate position --- [[books:sb:8:22:12|SB 8.22.12]]

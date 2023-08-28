@@ -1,5 +1,11 @@
-~~Title:pūroḥ~~
-{{description>from Pūru; of Pūru.}}
+---json
+{
+    "name":"pūroḥ",
+    "h1":"pūroḥ",
+    "title":"pūroḥ",
+    "description":"from Pūru; of Pūru."
+}
+---
 
 ==== pūroḥ  ====
   * from Pūru --- [[books:sb:9:20:2|SB 9.20.2]]

@@ -1,5 +1,11 @@
-~~Title:anubandham~~
-{{description>future bondage; the consequence.}}
+---json
+{
+    "name":"anubandham",
+    "h1":"anubandham",
+    "title":"anubandham",
+    "description":"future bondage; the consequence."
+}
+---
 
 ==== anubandham  ====
   * future bondage --- [[books:bg:18:25|Bg. 18.25]]

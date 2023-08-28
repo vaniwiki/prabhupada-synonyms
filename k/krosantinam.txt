@@ -1,5 +1,11 @@
-~~Title:krośantīnām~~
-{{description>while crying.}}
+---json
+{
+    "name":"krośantīnām",
+    "h1":"krośantīnām",
+    "title":"krośantīnām",
+    "description":"while crying."
+}
+---
 
 ==== krośantīnām  ====
   * while crying --- [[books:sb:3:19:35|SB 3.19.35]]

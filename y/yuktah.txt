@@ -1,5 +1,11 @@
-~~Title:yuktah~~
-{{description>accompanied; actual yogī; all engaged; associated with; being absorbed; being engaged; being united; bestowed; combined; competent for self-realization; devoutly attached; dovetailed; endowed; endowed with; engaged; engaged in the divine consciousness; fixed; in touch with the Supreme; in trance; is in the transcendental position; one who is engaged in devotional service; such engagement; surrounded; through such agency; together; well situated in yoga; with; with great attention.}}
+---json
+{
+    "name":"yuktah",
+    "h1":"yuktah",
+    "title":"yuktah",
+    "description":"accompanied; actual yogī; all engaged; associated with; being absorbed; being engaged; being united; bestowed; combined; competent for self-realization; devoutly attached; dovetailed; endowed; endowed with; engaged; engaged in the divine consciousness; fixed; in touch with the Supreme; in trance; is in the transcendental position; one who is engaged in devotional service; such engagement; surrounded; through such agency; together; well situated in yoga; with; with great attention."
+}
+---
 
 ==== yuktaḥ  ====
   * accompanied --- [[books:sb:8:4:13|SB 8.4.13]]

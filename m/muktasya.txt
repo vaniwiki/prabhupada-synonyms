@@ -1,5 +1,11 @@
-~~Title:muktasya~~
-{{description>of the liberated.}}
+---json
+{
+    "name":"muktasya",
+    "h1":"muktasya",
+    "title":"muktasya",
+    "description":"of the liberated."
+}
+---
 
 ==== muktasya  ====
   * of the liberated --- [[books:bg:4:23|Bg. 4.23]]

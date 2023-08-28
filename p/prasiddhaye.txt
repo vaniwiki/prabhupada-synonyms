@@ -1,5 +1,11 @@
-~~Title:prasiddhaye~~
-{{description>in the matter of obtaining.}}
+---json
+{
+    "name":"prasiddhaye",
+    "h1":"prasiddhaye",
+    "title":"prasiddhaye",
+    "description":"in the matter of obtaining."
+}
+---
 
 ==== prasiddhaye  ====
   * in the matter of obtaining --- [[books:sb:4:18:3|SB 4.18.3]]

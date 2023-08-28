@@ -1,5 +1,11 @@
-~~Title:he~~
-{{description>note of address; O; oh.}}
+---json
+{
+    "name":"he",
+    "h1":"he",
+    "title":"he",
+    "description":"note of address; O; oh."
+}
+---
 
 ==== he  ====
   * note of address --- [[books:sb:1:15:18|SB 1.15.18]]

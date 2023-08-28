@@ -1,5 +1,11 @@
-~~Title:antikāt~~
-{{description>presently also.}}
+---json
+{
+    "name":"antikāt",
+    "h1":"antikāt",
+    "title":"antikāt",
+    "description":"presently also."
+}
+---
 
 ==== antikāt  ====
   * presently also --- [[books:sb:9:24:9|SB 9.24.9]]

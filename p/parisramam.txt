@@ -1,5 +1,11 @@
-~~Title:pariśramam~~
-{{description>He could understand that she was now overworked and feeling fatigued; laboring hard.}}
+---json
+{
+    "name":"pariśramam",
+    "h1":"pariśramam",
+    "title":"pariśramam",
+    "description":"He could understand that she was now overworked and feeling fatigued; laboring hard."
+}
+---
 
 ==== pariśramam  ====
   * He could understand that she was now overworked and feeling fatigued --- [[books:sb:10:9:18|SB 10.9.18]]

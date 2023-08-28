@@ -1,5 +1,11 @@
-~~Title:vanāni~~
-{{description>forests; in a great forest; the forests.}}
+---json
+{
+    "name":"vanāni",
+    "h1":"vanāni",
+    "title":"vanāni",
+    "description":"forests; in a great forest; the forests."
+}
+---
 
 ==== vanāni  ====
   * forests --- [[books:sb:1:6:11|SB 1.6.11]], [[books:sb:10:7:35-36|SB 10.7.35-36]]

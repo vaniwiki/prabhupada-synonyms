@@ -1,5 +1,11 @@
-~~Title:kratavaḥ~~
-{{description>sacrifices; the ritualistic ceremonies and sacrifices mentioned in the Vedic literature.}}
+---json
+{
+    "name":"kratavaḥ",
+    "h1":"kratavaḥ",
+    "title":"kratavaḥ",
+    "description":"sacrifices; the ritualistic ceremonies and sacrifices mentioned in the Vedic literature."
+}
+---
 
 ==== kratavaḥ  ====
   * sacrifices --- [[books:sb:1:12:5|SB 1.12.5]]

@@ -1,5 +1,11 @@
-~~Title:piśācaiḥ~~
-{{description>with demons.}}
+---json
+{
+    "name":"piśācaiḥ",
+    "h1":"piśācaiḥ",
+    "title":"piśācaiḥ",
+    "description":"with demons."
+}
+---
 
 ==== piśācaiḥ  ====
   * with demons --- [[books:sb:4:4:16|SB 4.4.16]]

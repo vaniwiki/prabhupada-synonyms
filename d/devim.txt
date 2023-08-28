@@ -1,5 +1,11 @@
-~~Title:devīm~~
-{{description>a demigoddess; exalted Sunīti; his wife, Pārvatī; shining; the earth; the goddess; the goddess of fortune; to the deity; unto mother Ganges; unto the demigoddess; Urvaśī.}}
+---json
+{
+    "name":"devīm",
+    "h1":"devīm",
+    "title":"devīm",
+    "description":"a demigoddess; exalted Sunīti; his wife, Pārvatī; shining; the earth; the goddess; the goddess of fortune; to the deity; unto mother Ganges; unto the demigoddess; Urvaśī."
+}
+---
 
 ==== devīm  ====
   * a demigoddess --- [[books:sb:9:14:23|SB 9.14.23]]

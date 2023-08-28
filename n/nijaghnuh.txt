@@ -1,5 +1,11 @@
-~~Title:nijaghnuḥ~~
-{{description>began to beat one another; slashed with weapons and killed; struck; they killed.}}
+---json
+{
+    "name":"nijaghnuḥ",
+    "h1":"nijaghnuḥ",
+    "title":"nijaghnuḥ",
+    "description":"began to beat one another; slashed with weapons and killed; struck; they killed."
+}
+---
 
 ==== nijaghnuḥ  ====
   * began to beat one another --- [[books:sb:8:10:6|SB 8.10.6]]

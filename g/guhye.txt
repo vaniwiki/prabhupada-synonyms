@@ -1,5 +1,11 @@
-~~Title:guhye~~
-{{description>on the private parts.}}
+---json
+{
+    "name":"guhye",
+    "h1":"guhye",
+    "title":"guhye",
+    "description":"on the private parts."
+}
+---
 
 ==== guhye  ====
   * on the private parts --- [[books:sb:8:20:24|SB 8.20.24]]

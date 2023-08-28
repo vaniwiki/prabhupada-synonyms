@@ -1,5 +1,11 @@
-~~Title:racita~~
-{{description>made; manufactured; produced.}}
+---json
+{
+    "name":"racita",
+    "h1":"racita",
+    "title":"racita",
+    "description":"made; manufactured; produced."
+}
+---
 
 ==== racita  ====
   * made --- [[books:sb:5:1:37|SB 5.1.37]]

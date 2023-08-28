@@ -1,5 +1,11 @@
-~~Title:hasat~~
-{{description>smiling.}}
+---json
+{
+    "name":"hasat",
+    "h1":"hasat",
+    "title":"hasat",
+    "description":"smiling."
+}
+---
 
 ==== hasat  ====
   * smiling --- [[books:sb:4:1:25|SB 4.1.25]]

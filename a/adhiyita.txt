@@ -1,5 +1,11 @@
-~~Title:adhīyīta~~
-{{description>one should chant or read regularly.}}
+---json
+{
+    "name":"adhīyīta",
+    "h1":"adhīyīta",
+    "title":"adhīyīta",
+    "description":"one should chant or read regularly."
+}
+---
 
 ==== adhīyīta  ====
   * one should chant or read regularly --- [[books:sb:7:12:3|SB 7.12.3]]

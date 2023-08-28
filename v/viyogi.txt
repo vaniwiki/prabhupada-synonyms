@@ -1,5 +1,11 @@
-~~Title:viyogī~~
-{{description>bereft of Kṛṣṇa's association.}}
+---json
+{
+    "name":"viyogī",
+    "h1":"viyogī",
+    "title":"viyogī",
+    "description":"bereft of Kṛṣṇa's association."
+}
+---
 
 ==== kṛṣṇa-viyogī  ====
   * bereft of Kṛṣṇa's association --- [[books:cc:antya:14:51|Antya 14.51]]

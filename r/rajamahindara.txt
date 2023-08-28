@@ -1,5 +1,11 @@
-~~Title:rājamahindāra~~
-{{description>of the place known as Rājamahendrī.}}
+---json
+{
+    "name":"rājamahindāra",
+    "h1":"rājamahindāra",
+    "title":"rājamahindāra",
+    "description":"of the place known as Rājamahendrī."
+}
+---
 
 ==== rājamahindāra  ====
   * of the place known as Rājamahendrī --- [[books:cc:antya:9:122|Antya 9.122]]

@@ -1,5 +1,11 @@
-~~Title:udīrayet~~
-{{description>be announced; one should chant; one should mention; one should speak; should chant.}}
+---json
+{
+    "name":"udīrayet",
+    "h1":"udīrayet",
+    "title":"udīrayet",
+    "description":"be announced; one should chant; one should mention; one should speak; should chant."
+}
+---
 
 ==== udīrayet  ====
   * be announced --- [[books:sb:1:2:4|SB 1.2.4]]

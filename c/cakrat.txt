@@ -1,5 +1,11 @@
-~~Title:cakrāt~~
-{{description>from the disc.}}
+---json
+{
+    "name":"cakrāt",
+    "h1":"cakrāt",
+    "title":"cakrāt",
+    "description":"from the disc."
+}
+---
 
 ==== cakrāt  ====
   * from the disc --- [[books:sb:5:14:29|SB 5.14.29]]

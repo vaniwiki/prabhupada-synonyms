@@ -1,5 +1,11 @@
-~~Title:anuyugam~~
-{{description>according to different millenniums; according to the yugas; according to the age; in terms of the age.}}
+---json
+{
+    "name":"anuyugam",
+    "h1":"anuyugam",
+    "title":"anuyugam",
+    "description":"according to different millenniums; according to the yugas; according to the age; in terms of the age."
+}
+---
 
 ==== anuyugam  ====
   * according to different millenniums --- [[books:sb:4:1:26-27|SB 4.1.26-27]]

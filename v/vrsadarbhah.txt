@@ -1,5 +1,11 @@
-~~Title:vṛṣādarbhaḥ~~
-{{description>Vṛṣādarbha.}}
+---json
+{
+    "name":"vṛṣādarbhaḥ",
+    "h1":"vṛṣādarbhaḥ",
+    "title":"vṛṣādarbhaḥ",
+    "description":"Vṛṣādarbha."
+}
+---
 
 ==== vṛṣādarbhaḥ  ====
   * Vṛṣādarbha --- [[books:sb:9:23:3-4|SB 9.23.3-4]]

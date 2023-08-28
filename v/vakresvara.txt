@@ -1,5 +1,11 @@
-~~Title:vakreśvara~~
-{{description>of the name Vakreśvara; Vakreśvara; Vakreśvara Paṇḍita.}}
+---json
+{
+    "name":"vakreśvara",
+    "h1":"vakreśvara",
+    "title":"vakreśvara",
+    "description":"of the name Vakreśvara; Vakreśvara; Vakreśvara Paṇḍita."
+}
+---
 
 ==== vakreśvara  ====
   * of the name Vakreśvara --- [[books:cc:adi:10:124-126|Ādi 10.124-126]], [[books:cc:madhya:1:252|Madhya 1.252]]

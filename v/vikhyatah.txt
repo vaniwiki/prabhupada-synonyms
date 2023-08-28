@@ -1,5 +1,11 @@
-~~Title:vikhyātaḥ~~
-{{description>celebrated; famous; is celebrated; was celebrated.}}
+---json
+{
+    "name":"vikhyātaḥ",
+    "h1":"vikhyātaḥ",
+    "title":"vikhyātaḥ",
+    "description":"celebrated; famous; is celebrated; was celebrated."
+}
+---
 
 ==== vikhyātaḥ  ====
   * celebrated --- [[books:sb:10:3:42|SB 10.3.42]]

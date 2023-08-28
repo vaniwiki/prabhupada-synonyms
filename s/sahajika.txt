@@ -1,5 +1,11 @@
-~~Title:sāhajika~~
-{{description>natural; spontaneous.}}
+---json
+{
+    "name":"sāhajika",
+    "h1":"sāhajika",
+    "title":"sāhajika",
+    "description":"natural; spontaneous."
+}
+---
 
 ==== sāhajika  ====
   * natural --- [[books:cc:adi:14:64|Ādi 14.64]], [[books:cc:madhya:14:219|Madhya 14.219]]

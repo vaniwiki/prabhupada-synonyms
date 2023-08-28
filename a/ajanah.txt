@@ -1,5 +1,11 @@
-~~Title:ajanaḥ~~
-{{description>Lord Brahmā; Lord Viṣṇu; the Supreme Lord.}}
+---json
+{
+    "name":"ajanaḥ",
+    "h1":"ajanaḥ",
+    "title":"ajanaḥ",
+    "description":"Lord Brahmā; Lord Viṣṇu; the Supreme Lord."
+}
+---
 
 ==== ajanaḥ  ====
   * Lord Brahmā --- [[books:sb:9:8:21|SB 9.8.21]]

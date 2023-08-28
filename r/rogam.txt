@@ -1,5 +1,11 @@
-~~Title:rogam~~
-{{description>the disease of the heart.}}
+---json
+{
+    "name":"rogam",
+    "h1":"rogam",
+    "title":"rogam",
+    "description":"the disease of the heart."
+}
+---
 
 ==== hṛt-rogam  ====
   * the disease of the heart --- [[books:cc:antya:5:48|Antya 5.48]]

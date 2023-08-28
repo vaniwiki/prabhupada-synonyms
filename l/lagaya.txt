@@ -1,5 +1,11 @@
-~~Title:lagaya~~
-{{description>applicable.}}
+---json
+{
+    "name":"lagaya",
+    "h1":"lagaya",
+    "title":"lagaya",
+    "description":"applicable."
+}
+---
 
 ==== lāgaya  ====
   * applicable --- [[books:cc:madhya:24:70|Madhya 24.70]]

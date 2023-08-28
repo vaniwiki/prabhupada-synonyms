@@ -1,5 +1,11 @@
-~~Title:oghān~~
-{{description>various kinds of gems and valuable stones.}}
+---json
+{
+    "name":"oghān",
+    "h1":"oghān",
+    "title":"oghān",
+    "description":"various kinds of gems and valuable stones."
+}
+---
 
 ==== ratna-oghān  ====
   * various kinds of gems and valuable stones --- [[books:sb:7:4:17|SB 7.4.17]]

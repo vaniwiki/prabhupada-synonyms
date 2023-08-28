@@ -1,5 +1,11 @@
-~~Title:kṛpayataḥ~~
-{{description>engaged in benevolent activities.}}
+---json
+{
+    "name":"kṛpayataḥ",
+    "h1":"kṛpayataḥ",
+    "title":"kṛpayataḥ",
+    "description":"engaged in benevolent activities."
+}
+---
 
 ==== kṛpayataḥ  ====
   * engaged in benevolent activities --- [[books:sb:8:7:40|SB 8.7.40]]

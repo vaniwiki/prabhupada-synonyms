@@ -1,5 +1,11 @@
-~~Title:anugrahaḥ~~
-{{description>a favor; causeless mercy; compassion; favor; giving assistance; merciful; mercy; the manifester; whose benediction.}}
+---json
+{
+    "name":"anugrahaḥ",
+    "h1":"anugrahaḥ",
+    "title":"anugrahaḥ",
+    "description":"a favor; causeless mercy; compassion; favor; giving assistance; merciful; mercy; the manifester; whose benediction."
+}
+---
 
 ==== anugrahaḥ  ====
   * a favor --- [[books:sb:3:16:12|SB 3.16.12]], [[books:sb:6:17:20|SB 6.17.20]]

@@ -1,5 +1,11 @@
-~~Title:kahinu~~
-{{description>shall speak.}}
+---json
+{
+    "name":"kahinu",
+    "h1":"kahinu",
+    "title":"kahinu",
+    "description":"shall speak."
+}
+---
 
 ==== kahinu  ====
   * shall speak --- [[books:cc:madhya:25:106|Madhya 25.106]]

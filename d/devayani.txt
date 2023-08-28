@@ -1,5 +1,11 @@
-~~Title:devayānī~~
-{{description>Devayānī; Mahārāja Yayāti's wife, the daughter of Śukrācārya; Queen Devayānī, the wife of Mahārāja Yayāti; the daughter of Śukrācārya.}}
+---json
+{
+    "name":"devayānī",
+    "h1":"devayānī",
+    "title":"devayānī",
+    "description":"Devayānī; Mahārāja Yayāti's wife, the daughter of Śukrācārya; Queen Devayānī, the wife of Mahārāja Yayāti; the daughter of Śukrācārya."
+}
+---
 
 ==== devayānī  ====
   * Devayānī --- [[books:sb:5:1:34|SB 5.1.34]]

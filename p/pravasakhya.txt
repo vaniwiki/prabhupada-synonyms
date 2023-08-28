@@ -1,5 +1,11 @@
-~~Title:pravāsākhya~~
-{{description>known as pravāsa.}}
+---json
+{
+    "name":"pravāsākhya",
+    "h1":"pravāsākhya",
+    "title":"pravāsākhya",
+    "description":"known as pravāsa."
+}
+---
 
 ==== pravāsākhya  ====
   * known as //pravāsa// --- [[books:cc:madhya:23:63|Madhya 23.63]]

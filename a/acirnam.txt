@@ -1,5 +1,11 @@
-~~Title:ācīrṇam~~
-{{description>eaten all around.}}
+---json
+{
+    "name":"ācīrṇam",
+    "h1":"ācīrṇam",
+    "title":"ācīrṇam",
+    "description":"eaten all around."
+}
+---
 
 ==== ācīrṇam  ====
   * eaten all around --- [[books:sb:7:3:15-16|SB 7.3.15-16]]

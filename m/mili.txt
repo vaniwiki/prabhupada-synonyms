@@ -1,5 +1,11 @@
-~~Title:mili~~
-{{description>I shall meet; shall meet.}}
+---json
+{
+    "name":"mili",
+    "h1":"mili",
+    "title":"mili",
+    "description":"I shall meet; shall meet."
+}
+---
 
 ==== mili  ====
   * I shall meet --- [[books:cc:madhya:12:25|Madhya 12.25]]

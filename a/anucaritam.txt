@@ -1,5 +1,11 @@
-~~Title:anucaritam~~
-{{description>activities; and the activities of the incarnation; character and activities; characteristics (understood by reading or describing his activities); the narration; transcendental activities.}}
+---json
+{
+    "name":"anucaritam",
+    "h1":"anucaritam",
+    "title":"anucaritam",
+    "description":"activities; and the activities of the incarnation; character and activities; characteristics (understood by reading or describing his activities); the narration; transcendental activities."
+}
+---
 
 ==== anucaritam  ====
   * activities --- [[books:sb:2:10:5|SB 2.10.5]]

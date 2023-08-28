@@ -1,5 +1,11 @@
-~~Title:thālite~~
-{{description>plate.}}
+---json
+{
+    "name":"thālite",
+    "h1":"thālite",
+    "title":"thālite",
+    "description":"plate."
+}
+---
 
 ==== thālite  ====
   * plate --- [[books:cc:madhya:9:53|Madhya 9.53]]

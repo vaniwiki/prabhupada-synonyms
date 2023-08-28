@@ -1,5 +1,11 @@
-~~Title:nirapekṣāya~~
-{{description>indifferent.}}
+---json
+{
+    "name":"nirapekṣāya",
+    "h1":"nirapekṣāya",
+    "title":"nirapekṣāya",
+    "description":"indifferent."
+}
+---
 
 ==== nirapekṣāya  ====
   * indifferent --- [[books:sb:6:19:4|SB 6.19.4]]

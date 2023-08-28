@@ -1,5 +1,11 @@
-~~Title:rāgātmikā~~
-{{description>devotional service consisting of spontaneous love; spontaneous love.}}
+---json
+{
+    "name":"rāgātmikā",
+    "h1":"rāgātmikā",
+    "title":"rāgātmikā",
+    "description":"devotional service consisting of spontaneous love; spontaneous love."
+}
+---
 
 ==== rāgātmikā  ====
   * devotional service consisting of spontaneous love --- [[books:cc:madhya:22:154|Madhya 22.154]]

@@ -1,5 +1,11 @@
-~~Title:karkaśaiḥ~~
-{{description>hard.}}
+---json
+{
+    "name":"karkaśaiḥ",
+    "h1":"karkaśaiḥ",
+    "title":"karkaśaiḥ",
+    "description":"hard."
+}
+---
 
 ==== karkaśaiḥ  ====
   * hard --- [[books:sb:3:17:11|SB 3.17.11]]

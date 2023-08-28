@@ -1,5 +1,11 @@
-~~Title:gṛhāṇām~~
-{{description>of all the residential buildings.}}
+---json
+{
+    "name":"gṛhāṇām",
+    "h1":"gṛhāṇām",
+    "title":"gṛhāṇām",
+    "description":"of all the residential buildings."
+}
+---
 
 ==== gṛhāṇām  ====
   * of all the residential buildings --- [[books:sb:1:11:15|SB 1.11.15]]

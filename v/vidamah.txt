@@ -1,5 +1,11 @@
-~~Title:vidāmaḥ~~
-{{description>can know; can understand; know; we can understand; we know.}}
+---json
+{
+    "name":"vidāmaḥ",
+    "h1":"vidāmaḥ",
+    "title":"vidāmaḥ",
+    "description":"can know; can understand; know; we can understand; we know."
+}
+---
 
 ==== vidāmaḥ  ====
   * can know --- [[books:sb:9:10:14|SB 9.10.14]]

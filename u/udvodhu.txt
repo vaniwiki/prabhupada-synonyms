@@ -1,5 +1,11 @@
-~~Title:udvoḍhu~~
-{{description>desirous to marry.}}
+---json
+{
+    "name":"udvoḍhu",
+    "h1":"udvoḍhu",
+    "title":"udvoḍhu",
+    "description":"desirous to marry."
+}
+---
 
 ==== udvoḍhu-kāmaḥ  ====
   * desirous to marry --- [[books:sb:3:22:15|SB 3.22.15]]

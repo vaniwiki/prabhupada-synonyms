@@ -1,5 +1,11 @@
-~~Title:ujire~~
-{{description>unto the minister.}}
+---json
+{
+    "name":"ujire",
+    "h1":"ujire",
+    "title":"ujire",
+    "description":"unto the minister."
+}
+---
 
 ==== ujire  ====
   * unto the minister --- [[books:cc:antya:6:31|Antya 6.31]]

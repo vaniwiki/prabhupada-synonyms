@@ -1,5 +1,11 @@
-~~Title:kāśamdi~~
-{{description>a kind of pickle.}}
+---json
+{
+    "name":"kāśamdi",
+    "h1":"kāśamdi",
+    "title":"kāśamdi",
+    "description":"a kind of pickle."
+}
+---
 
 ==== kāśamdi  ====
   * a kind of pickle --- [[books:cc:madhya:15:90|Madhya 15.90]]

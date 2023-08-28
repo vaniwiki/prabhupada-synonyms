@@ -1,5 +1,11 @@
-~~Title:bhāgaśaḥ~~
-{{description>by division; with her different parts.}}
+---json
+{
+    "name":"bhāgaśaḥ",
+    "h1":"bhāgaśaḥ",
+    "title":"bhāgaśaḥ",
+    "description":"by division; with her different parts."
+}
+---
 
 ==== bhāgaśaḥ  ====
   * by division --- [[books:sb:5:19:26|SB 5.19.26]]

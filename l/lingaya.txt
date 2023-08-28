@@ -1,5 +1,11 @@
-~~Title:liṅgāya~~
-{{description>revealing.}}
+---json
+{
+    "name":"liṅgāya",
+    "h1":"liṅgāya",
+    "title":"liṅgāya",
+    "description":"revealing."
+}
+---
 
 ==== liṅgāya  ====
   * revealing --- [[books:sb:4:24:40|SB 4.24.40]]

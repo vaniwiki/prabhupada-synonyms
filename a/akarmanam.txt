@@ -1,5 +1,11 @@
-~~Title:akarmāṇam~~
-{{description>at leisure.}}
+---json
+{
+    "name":"akarmāṇam",
+    "h1":"akarmāṇam",
+    "title":"akarmāṇam",
+    "description":"at leisure."
+}
+---
 
 ==== akarmāṇam  ====
   * at leisure --- [[books:sb:3:25:6|SB 3.25.6]]

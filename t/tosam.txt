@@ -1,5 +1,11 @@
-~~Title:toṣam~~
-{{description>great pleasure.}}
+---json
+{
+    "name":"toṣam",
+    "h1":"toṣam",
+    "title":"toṣam",
+    "description":"great pleasure."
+}
+---
 
 ==== toṣam  ====
   * great pleasure --- [[books:sb:4:1:6|SB 4.1.6]]

@@ -1,5 +1,11 @@
-~~Title:niścinte~~
-{{description>without disturbance.}}
+---json
+{
+    "name":"niścinte",
+    "h1":"niścinte",
+    "title":"niścinte",
+    "description":"without disturbance."
+}
+---
 
 ==== niścinte  ====
   * without disturbance --- [[books:cc:madhya:10:107|Madhya 10.107]]

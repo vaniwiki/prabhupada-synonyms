@@ -1,5 +1,11 @@
-~~Title:etasyāḥ~~
-{{description>of this Bhū-maṇḍala.}}
+---json
+{
+    "name":"etasyāḥ",
+    "h1":"etasyāḥ",
+    "title":"etasyāḥ",
+    "description":"of this Bhū-maṇḍala."
+}
+---
 
 ==== etasyāḥ  ====
   * of this Bhū-maṇḍala --- [[books:sb:5:16:2|SB 5.16.2]]

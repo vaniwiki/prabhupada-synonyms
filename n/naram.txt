@@ -1,5 +1,11 @@
-~~Title:naram~~
-{{description>a human being.}}
+---json
+{
+    "name":"naram",
+    "h1":"naram",
+    "title":"naram",
+    "description":"a human being."
+}
+---
 
 ==== naram  ====
   * a human being --- [[books:sb:7:15:27|SB 7.15.27]], [[books:sb:8:20:4|SB 8.20.4]]

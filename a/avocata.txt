@@ -1,5 +1,11 @@
-~~Title:avocata~~
-{{description>he requested.}}
+---json
+{
+    "name":"avocata",
+    "h1":"avocata",
+    "title":"avocata",
+    "description":"he requested."
+}
+---
 
 ==== avocata  ====
   * he requested --- [[books:sb:9:18:38|SB 9.18.38]]

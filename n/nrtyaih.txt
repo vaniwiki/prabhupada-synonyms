@@ -1,5 +1,11 @@
-~~Title:nṛtyaiḥ~~
-{{description>with dancing.}}
+---json
+{
+    "name":"nṛtyaiḥ",
+    "h1":"nṛtyaiḥ",
+    "title":"nṛtyaiḥ",
+    "description":"with dancing."
+}
+---
 
 ==== nṛtyaiḥ  ====
   * with dancing --- [[books:sb:8:15:21|SB 8.15.21]]

@@ -1,5 +1,11 @@
-~~Title:prajah~~
-{{description>all citizens; all living entities; all the citizens; all the citizens, or all the living entities; all the demons; all the inhabitants; all those who took birth; and the citizens; and their generations; baby birds; born of you; children; citizens; descendants; generations; his subjects; living beings; living entities; men; my dear citizens; of the subjects; offspring; people; population; progeny; sons; subjects; the citizens; the living beings; the living entities; the people; the people in general; the progeny; the residents; the residents of all the worlds; the subjects; your subjects.}}
+---json
+{
+    "name":"prajah",
+    "h1":"prajah",
+    "title":"prajah",
+    "description":"all citizens; all living entities; all the citizens; all the citizens, or all the living entities; all the demons; all the inhabitants; all those who took birth; and the citizens; and their generations; baby birds; born of you; children; citizens; descendants; generations; his subjects; living beings; living entities; men; my dear citizens; of the subjects; offspring; people; population; progeny; sons; subjects; the citizens; the living beings; the living entities; the people; the people in general; the progeny; the residents; the residents of all the worlds; the subjects; your subjects."
+}
+---
 
 ==== prajāḥ  ====
   * all citizens --- [[books:sb:1:15:45|SB 1.15.45]]

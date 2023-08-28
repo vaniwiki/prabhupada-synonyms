@@ -1,5 +1,11 @@
-~~Title:arthayoḥ~~
-{{description>and accumulating money.}}
+---json
+{
+    "name":"arthayoḥ",
+    "h1":"arthayoḥ",
+    "title":"arthayoḥ",
+    "description":"and accumulating money."
+}
+---
 
 ==== arthayoḥ  ====
   * and accumulating money --- [[books:sb:7:13:34|SB 7.13.34]]

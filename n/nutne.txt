@@ -1,5 +1,11 @@
-~~Title:nūtne~~
-{{description>new.}}
+---json
+{
+    "name":"nūtne",
+    "h1":"nūtne",
+    "title":"nūtne",
+    "description":"new."
+}
+---
 
 ==== nūtne  ====
   * new --- [[books:sb:3:23:28|SB 3.23.28]]

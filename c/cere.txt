@@ -1,5 +1,11 @@
-~~Title:cere~~
-{{description>performed.}}
+---json
+{
+    "name":"cere",
+    "h1":"cere",
+    "title":"cere",
+    "description":"performed."
+}
+---
 
 ==== cere  ====
   * performed --- [[books:sb:3:1:19|SB 3.1.19]]

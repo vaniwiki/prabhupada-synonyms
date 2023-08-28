@@ -1,5 +1,11 @@
-~~Title:daṇḍam~~
-{{description>a brahmacārī's rod; it is now just like a rod; punishment; scepter.}}
+---json
+{
+    "name":"daṇḍam",
+    "h1":"daṇḍam",
+    "title":"daṇḍam",
+    "description":"a brahmacārī's rod; it is now just like a rod; punishment; scepter."
+}
+---
 
 ==== daṇḍam  ====
   * a //brahmacārī's// rod --- [[books:sb:8:18:15|SB 8.18.15]]

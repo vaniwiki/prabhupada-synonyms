@@ -1,5 +1,11 @@
-~~Title:anadhikam~~
-{{description>unsurpassed.}}
+---json
+{
+    "name":"anadhikam",
+    "h1":"anadhikam",
+    "title":"anadhikam",
+    "description":"unsurpassed."
+}
+---
 
 ==== anadhikam  ====
   * unsurpassed --- [[books:sb:6:15:28|SB 6.15.28]]

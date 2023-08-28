@@ -1,5 +1,11 @@
-~~Title:jāti~~
-{{description>birthright; by community; caste; caste distinction; O plant of jātī flowers; of the class or caste.}}
+---json
+{
+    "name":"jāti",
+    "h1":"jāti",
+    "title":"jāti",
+    "description":"birthright; by community; caste; caste distinction; O plant of jātī flowers; of the class or caste."
+}
+---
 
 ==== jāti  ====
   * birthright --- [[books:cc:antya:3:163|Antya 3.163]]

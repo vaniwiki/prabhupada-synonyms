@@ -1,5 +1,11 @@
-~~Title:bhojanah~~
-{{description>acceptance of necessities; Bhojana; eating.}}
+---json
+{
+    "name":"bhojanah",
+    "h1":"bhojanah",
+    "title":"bhojanah",
+    "description":"acceptance of necessities; Bhojana; eating."
+}
+---
 
 ==== bhojanaḥ  ====
   * acceptance of necessities --- [[books:sb:1:10:1|SB 1.10.1]]

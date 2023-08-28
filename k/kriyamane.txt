@@ -1,5 +1,11 @@
-~~Title:kriyamāṇe~~
-{{description>upon the performance.}}
+---json
+{
+    "name":"kriyamāṇe",
+    "h1":"kriyamāṇe",
+    "title":"kriyamāṇe",
+    "description":"upon the performance."
+}
+---
 
 ==== kriyamāṇe  ====
   * upon the performance --- [[books:sb:8:23:31|SB 8.23.31]]

@@ -1,5 +1,11 @@
-~~Title:pīyūṣa~~
-{{description>by the nectar; nectar; of nectar; the nectar.}}
+---json
+{
+    "name":"pīyūṣa",
+    "h1":"pīyūṣa",
+    "title":"pīyūṣa",
+    "description":"by the nectar; nectar; of nectar; the nectar."
+}
+---
 
 ==== pīyūṣa  ====
   * by the nectar --- [[books:sb:3:21:17|SB 3.21.17]]

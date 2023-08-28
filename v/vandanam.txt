@@ -1,5 +1,11 @@
-~~Title:vandanam~~
-{{description>offering prayers to the Supreme Personality of Godhead; prayers.}}
+---json
+{
+    "name":"vandanam",
+    "h1":"vandanam",
+    "title":"vandanam",
+    "description":"offering prayers to the Supreme Personality of Godhead; prayers."
+}
+---
 
 ==== vandanam  ====
   * offering prayers to the Supreme Personality of Godhead --- [[books:cc:madhya:9:259-260|Madhya 9.259-260]]

@@ -1,5 +1,11 @@
-~~Title:vese~~
-{{description>in the dress of brāhmaṇas.}}
+---json
+{
+    "name":"vese",
+    "h1":"vese",
+    "title":"vese",
+    "description":"in the dress of brāhmaṇas."
+}
+---
 
 ==== brāhmaṇera veśe  ====
   * in the dress of //brāhmaṇas// --- [[books:cc:madhya:9:175|Madhya 9.175]]

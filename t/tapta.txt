@@ -1,5 +1,11 @@
-~~Title:tapta~~
-{{description>fiery; heated; hot; melted; molten; scorched.}}
+---json
+{
+    "name":"tapta",
+    "h1":"tapta",
+    "title":"tapta",
+    "description":"fiery; heated; hot; melted; molten; scorched."
+}
+---
 
 ==== tapta  ====
   * fiery --- [[books:sb:1:8:10|SB 1.8.10]]

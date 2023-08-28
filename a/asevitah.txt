@@ -1,5 +1,11 @@
-~~Title:āsevitaḥ~~
-{{description>served.}}
+---json
+{
+    "name":"āsevitaḥ",
+    "h1":"āsevitaḥ",
+    "title":"āsevitaḥ",
+    "description":"served."
+}
+---
 
 ==== āsevitaḥ  ====
   * served --- [[books:sb:4:30:6|SB 4.30.6]]

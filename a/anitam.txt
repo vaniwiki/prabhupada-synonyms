@@ -1,5 +1,11 @@
-~~Title:ānītam~~
-{{description>brought; received.}}
+---json
+{
+    "name":"ānītam",
+    "h1":"ānītam",
+    "title":"ānītam",
+    "description":"brought; received."
+}
+---
 
 ==== ānītam  ====
   * brought --- [[books:sb:7:5:8|SB 7.5.8]]

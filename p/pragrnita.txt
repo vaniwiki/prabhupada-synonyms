@@ -1,5 +1,11 @@
-~~Title:pragṛṇīta~~
-{{description>described.}}
+---json
+{
+    "name":"pragṛṇīta",
+    "h1":"pragṛṇīta",
+    "title":"pragṛṇīta",
+    "description":"described."
+}
+---
 
 ==== pragṛṇīta  ====
   * described --- [[books:sb:1:5:10|SB 1.5.10]]

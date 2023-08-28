@@ -1,5 +1,11 @@
-~~Title:prarocanādi~~
-{{description>please recite the prarocanā.}}
+---json
+{
+    "name":"prarocanādi",
+    "h1":"prarocanādi",
+    "title":"prarocanādi",
+    "description":"please recite the prarocanā."
+}
+---
 
 ==== prarocanādi kaha  ====
   * please recite the //prarocanā// --- [[books:cc:antya:1:137|Antya 1.137]]

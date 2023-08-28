@@ -1,5 +1,11 @@
-~~Title:kuruvaśāt~~
-{{description>from Kuruvaśa, the son of Madhu.}}
+---json
+{
+    "name":"kuruvaśāt",
+    "h1":"kuruvaśāt",
+    "title":"kuruvaśāt",
+    "description":"from Kuruvaśa, the son of Madhu."
+}
+---
 
 ==== kuruvaśāt  ====
   * from Kuruvaśa, the son of Madhu --- [[books:sb:9:24:5|SB 9.24.5]]

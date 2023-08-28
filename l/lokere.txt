@@ -1,5 +1,11 @@
-~~Title:lokere~~
-{{description>people; the people.}}
+---json
+{
+    "name":"lokere",
+    "h1":"lokere",
+    "title":"lokere",
+    "description":"people; the people."
+}
+---
 
 ==== lokere  ====
   * people --- [[books:cc:madhya:10:105|Madhya 10.105]]

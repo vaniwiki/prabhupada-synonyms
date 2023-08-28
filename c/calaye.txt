@@ -1,5 +1,11 @@
-~~Title:calaye~~
-{{description>moves.}}
+---json
+{
+    "name":"calaye",
+    "h1":"calaye",
+    "title":"calaye",
+    "description":"moves."
+}
+---
 
 ==== calaye  ====
   * moves --- [[books:cc:madhya:6:10|Madhya 6.10]]

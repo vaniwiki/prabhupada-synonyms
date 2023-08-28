@@ -1,5 +1,11 @@
-~~Title:mohayan~~
-{{description>alluring; bewildering; captivating.}}
+---json
+{
+    "name":"mohayan",
+    "h1":"mohayan",
+    "title":"mohayan",
+    "description":"alluring; bewildering; captivating."
+}
+---
 
 ==== mohayan  ====
   * alluring --- [[books:sb:1:3:17|SB 1.3.17]]

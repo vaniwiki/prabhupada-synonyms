@@ -1,5 +1,11 @@
-~~Title:bhūmnā~~
-{{description>supreme.}}
+---json
+{
+    "name":"bhūmnā",
+    "h1":"bhūmnā",
+    "title":"bhūmnā",
+    "description":"supreme."
+}
+---
 
 ==== bhūmnā  ====
   * supreme --- [[books:sb:1:15:13|SB 1.15.13]]

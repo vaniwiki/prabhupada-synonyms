@@ -1,5 +1,11 @@
-~~Title:samavāye~~
-{{description>in the association.}}
+---json
+{
+    "name":"samavāye",
+    "h1":"samavāye",
+    "title":"samavāye",
+    "description":"in the association."
+}
+---
 
 ==== samavāye  ====
   * in the association --- [[books:sb:4:12:48|SB 4.12.48]]

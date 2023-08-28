@@ -1,5 +1,11 @@
-~~Title:sutāyāḥ~~
-{{description>of a daughter.}}
+---json
+{
+    "name":"sutāyāḥ",
+    "h1":"sutāyāḥ",
+    "title":"sutāyāḥ",
+    "description":"of a daughter."
+}
+---
 
 ==== sutāyāḥ  ====
   * of a daughter --- [[books:sb:4:3:13|SB 4.3.13]]

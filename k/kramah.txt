@@ -1,5 +1,11 @@
-~~Title:kramaḥ~~
-{{description>chronological order; proper behavior; the chronological order; the word krama.}}
+---json
+{
+    "name":"kramaḥ",
+    "h1":"kramaḥ",
+    "title":"kramaḥ",
+    "description":"chronological order; proper behavior; the chronological order; the word krama."
+}
+---
 
 ==== kramaḥ  ====
   * chronological order --- [[books:sb:6:14:55|SB 6.14.55]]

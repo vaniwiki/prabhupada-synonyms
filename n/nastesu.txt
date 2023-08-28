@@ -1,5 +1,11 @@
-~~Title:naṣṭeṣu~~
-{{description>disappearing from their position.}}
+---json
+{
+    "name":"naṣṭeṣu",
+    "h1":"naṣṭeṣu",
+    "title":"naṣṭeṣu",
+    "description":"disappearing from their position."
+}
+---
 
 ==== naṣṭeṣu  ====
   * disappearing from their position --- [[books:sb:8:16:1|SB 8.16.1]]

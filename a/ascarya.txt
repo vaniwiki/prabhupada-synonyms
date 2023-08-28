@@ -1,5 +1,11 @@
-~~Title:āścarya~~
-{{description>about the wonder; wonderful; wonderful incident; wonderful occurrence.}}
+---json
+{
+    "name":"āścarya",
+    "h1":"āścarya",
+    "title":"āścarya",
+    "description":"about the wonder; wonderful; wonderful incident; wonderful occurrence."
+}
+---
 
 ==== āścarya  ====
   * about the wonder --- [[books:cc:madhya:5:117|Madhya 5.117]]

@@ -1,5 +1,11 @@
-~~Title:hena~~
-{{description>as; like; like this; similar; such; such degraded; this; thus.}}
+---json
+{
+    "name":"hena",
+    "h1":"hena",
+    "title":"hena",
+    "description":"as; like; like this; similar; such; such degraded; this; thus."
+}
+---
 
 ==== hena  ====
   * as --- [[books:cc:antya:12:92|Antya 12.92]]

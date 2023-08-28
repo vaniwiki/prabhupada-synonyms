@@ -1,5 +1,11 @@
-~~Title:gomaya~~
-{{description>cow dung.}}
+---json
+{
+    "name":"gomaya",
+    "h1":"gomaya",
+    "title":"gomaya",
+    "description":"cow dung."
+}
+---
 
 ==== gomaya  ====
   * cow dung --- [[books:cc:adi:17:44|Ādi 17.44]]

@@ -1,5 +1,11 @@
-~~Title:prasāriyā~~
-{{description>stretching.}}
+---json
+{
+    "name":"prasāriyā",
+    "h1":"prasāriyā",
+    "title":"prasāriyā",
+    "description":"stretching."
+}
+---
 
 ==== prasāriyā  ====
   * stretching --- [[books:cc:madhya:13:86|Madhya 13.86]]

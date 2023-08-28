@@ -1,5 +1,11 @@
-~~Title:upasṛṣṭena~~
-{{description>by release of.}}
+---json
+{
+    "name":"upasṛṣṭena",
+    "h1":"upasṛṣṭena",
+    "title":"upasṛṣṭena",
+    "description":"by release of."
+}
+---
 
 ==== upasṛṣṭena  ====
   * by release of --- [[books:sb:1:12:1|SB 1.12.1]]

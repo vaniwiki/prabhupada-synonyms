@@ -1,5 +1,11 @@
-~~Title:praśiṣyaiḥ~~
-{{description>grand-disciples.}}
+---json
+{
+    "name":"praśiṣyaiḥ",
+    "h1":"praśiṣyaiḥ",
+    "title":"praśiṣyaiḥ",
+    "description":"grand-disciples."
+}
+---
 
 ==== praśiṣyaiḥ  ====
   * grand-disciples --- [[books:sb:1:4:23|SB 1.4.23]]

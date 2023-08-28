@@ -1,5 +1,11 @@
-~~Title:dagdha~~
-{{description>being burnt by; burned; burnt; burnt to ashes; clarified; having been burnt.}}
+---json
+{
+    "name":"dagdha",
+    "h1":"dagdha",
+    "title":"dagdha",
+    "description":"being burnt by; burned; burnt; burnt to ashes; clarified; having been burnt."
+}
+---
 
 ==== dagdha  ====
   * being burnt by --- [[books:bg:4:19|Bg. 4.19]]

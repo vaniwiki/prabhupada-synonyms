@@ -1,5 +1,11 @@
-~~Title:pralayam~~
-{{description>dissolution.}}
+---json
+{
+    "name":"pralayam",
+    "h1":"pralayam",
+    "title":"pralayam",
+    "description":"dissolution."
+}
+---
 
 ==== pralayam  ====
   * dissolution --- [[books:bg:14:14|Bg. 14.14]], [[books:bg:14:15|Bg. 14.15]]

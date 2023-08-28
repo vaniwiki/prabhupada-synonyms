@@ -1,5 +1,11 @@
-~~Title:mātrāṇi~~
-{{description>different sense objects.}}
+---json
+{
+    "name":"mātrāṇi",
+    "h1":"mātrāṇi",
+    "title":"mātrāṇi",
+    "description":"different sense objects."
+}
+---
 
 ==== mātrāṇi  ====
   * different sense objects --- [[books:sb:5:11:9|SB 5.11.9]]

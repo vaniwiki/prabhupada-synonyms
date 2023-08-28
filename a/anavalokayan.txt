@@ -1,5 +1,11 @@
-~~Title:anavalokayan~~
-{{description>not seeing.}}
+---json
+{
+    "name":"anavalokayan",
+    "h1":"anavalokayan",
+    "title":"anavalokayan",
+    "description":"not seeing."
+}
+---
 
 ==== anavalokayan  ====
   * not seeing --- [[books:bg:6:13-14|Bg. 6.13-14]]

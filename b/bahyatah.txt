@@ -1,5 +1,11 @@
-~~Title:bāhyataḥ~~
-{{description>external to; outside.}}
+---json
+{
+    "name":"bāhyataḥ",
+    "h1":"bāhyataḥ",
+    "title":"bāhyataḥ",
+    "description":"external to; outside."
+}
+---
 
 ==== bāhyataḥ  ====
   * external to --- [[books:iso:5|Īśo 5]]

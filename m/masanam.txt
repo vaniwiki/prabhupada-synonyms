@@ -1,5 +1,11 @@
-~~Title:māsānām~~
-{{description>of months.}}
+---json
+{
+    "name":"māsānām",
+    "h1":"māsānām",
+    "title":"māsānām",
+    "description":"of months."
+}
+---
 
 ==== māsānām  ====
   * of months --- [[books:bg:10:35|Bg. 10.35]]

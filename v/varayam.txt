@@ -1,5 +1,11 @@
-~~Title:vārayām~~
-{{description>forbade; forbid.}}
+---json
+{
+    "name":"vārayām",
+    "h1":"vārayām",
+    "title":"vārayām",
+    "description":"forbade; forbid."
+}
+---
 
 ==== vārayām āsa  ====
   * forbade --- [[books:sb:8:11:43|SB 8.11.43]], [[books:sb:8:21:18|SB 8.21.18]]

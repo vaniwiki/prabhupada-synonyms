@@ -1,5 +1,11 @@
-~~Title:vīraka~~
-{{description>Vīraka and others.}}
+---json
+{
+    "name":"vīraka",
+    "h1":"vīraka",
+    "title":"vīraka",
+    "description":"Vīraka and others."
+}
+---
 
 ==== vīraka-ādayaḥ  ====
   * Vīraka and others --- [[books:sb:8:5:8|SB 8.5.8]]

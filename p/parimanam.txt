@@ -1,5 +1,11 @@
-~~Title:parimāṇam~~
-{{description>measurement.}}
+---json
+{
+    "name":"parimāṇam",
+    "h1":"parimāṇam",
+    "title":"parimāṇam",
+    "description":"measurement."
+}
+---
 
 ==== parimāṇam  ====
   * measurement --- [[books:sb:2:10:47|SB 2.10.47]], [[books:sb:5:1:32|SB 5.1.32]]

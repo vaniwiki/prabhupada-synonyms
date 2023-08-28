@@ -1,5 +1,11 @@
-~~Title:vaiṣamyam~~
-{{description>difference; differentiation; discrepancy; imperfection by contradiction; misconception; partiality.}}
+---json
+{
+    "name":"vaiṣamyam",
+    "h1":"vaiṣamyam",
+    "title":"vaiṣamyam",
+    "description":"difference; differentiation; discrepancy; imperfection by contradiction; misconception; partiality."
+}
+---
 
 ==== vaiṣamyam  ====
   * difference --- [[books:sb:3:32:24|SB 3.32.24]]

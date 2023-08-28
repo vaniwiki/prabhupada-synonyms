@@ -1,5 +1,11 @@
-~~Title:khala~~
-{{description>ferocious.}}
+---json
+{
+    "name":"khala",
+    "h1":"khala",
+    "title":"khala",
+    "description":"ferocious."
+}
+---
 
 ==== khala  ====
   * ferocious --- [[books:sb:4:7:28|SB 4.7.28]]

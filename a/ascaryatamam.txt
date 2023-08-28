@@ -1,5 +1,11 @@
-~~Title:āścaryatamam~~
-{{description>the most wonderful activities.}}
+---json
+{
+    "name":"āścaryatamam",
+    "h1":"āścaryatamam",
+    "title":"āścaryatamam",
+    "description":"the most wonderful activities."
+}
+---
 
 ==== āścaryatamam  ====
   * the most wonderful activities --- [[books:sb:2:8:17|SB 2.8.17]]

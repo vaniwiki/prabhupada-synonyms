@@ -1,5 +1,11 @@
-~~Title:dāyādau~~
-{{description>sons.}}
+---json
+{
+    "name":"dāyādau",
+    "h1":"dāyādau",
+    "title":"dāyādau",
+    "description":"sons."
+}
+---
 
 ==== dāyādau  ====
   * sons --- [[books:sb:6:18:11|SB 6.18.11]]

@@ -1,5 +1,11 @@
-~~Title:mārjāraḥ~~
-{{description>cat.}}
+---json
+{
+    "name":"mārjāraḥ",
+    "h1":"mārjāraḥ",
+    "title":"mārjāraḥ",
+    "description":"cat."
+}
+---
 
 ==== mārjāraḥ  ====
   * cat --- [[books:sb:3:10:24|SB 3.10.24]]

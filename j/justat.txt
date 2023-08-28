@@ -1,5 +1,11 @@
-~~Title:juṣṭāt~~
-{{description>which is enjoyed.}}
+---json
+{
+    "name":"juṣṭāt",
+    "h1":"juṣṭāt",
+    "title":"juṣṭāt",
+    "description":"which is enjoyed."
+}
+---
 
 ==== juṣṭāt  ====
   * which is enjoyed --- [[books:sb:6:3:28|SB 6.3.28]]

@@ -1,5 +1,11 @@
-~~Title:dhvanim~~
-{{description>the crying of the newborn child.}}
+---json
+{
+    "name":"dhvanim",
+    "h1":"dhvanim",
+    "title":"dhvanim",
+    "description":"the crying of the newborn child."
+}
+---
 
 ==== bāla-dhvanim  ====
   * the crying of the newborn child --- [[books:sb:10:4:1|SB 10.4.1]]

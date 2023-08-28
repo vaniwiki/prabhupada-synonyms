@@ -1,5 +1,11 @@
-~~Title:trividha~~
-{{description>three manifestations.}}
+---json
+{
+    "name":"trividha",
+    "h1":"trividha",
+    "title":"trividha",
+    "description":"three manifestations."
+}
+---
 
 ==== trividha prakāśe  ====
   * three manifestations --- [[books:cc:madhya:24:80|Madhya 24.80]]

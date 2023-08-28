@@ -1,5 +1,11 @@
-~~Title:apakrāntaḥ~~
-{{description>having passed.}}
+---json
+{
+    "name":"apakrāntaḥ",
+    "h1":"apakrāntaḥ",
+    "title":"apakrāntaḥ",
+    "description":"having passed."
+}
+---
 
 ==== apakrāntaḥ  ====
   * having passed --- [[books:sb:3:11:34|SB 3.11.34]]

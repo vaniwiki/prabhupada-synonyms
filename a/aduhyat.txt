@@ -1,5 +1,11 @@
-~~Title:aduhyat~~
-{{description>milked.}}
+---json
+{
+    "name":"aduhyat",
+    "h1":"aduhyat",
+    "title":"aduhyat",
+    "description":"milked."
+}
+---
 
 ==== aduhyat  ====
   * milked --- [[books:sb:4:17:6-7|SB 4.17.6-7]]

@@ -1,5 +1,11 @@
-~~Title:abhipretya~~
-{{description>knowing it well; knowing of; seeing, understanding; understanding.}}
+---json
+{
+    "name":"abhipretya",
+    "h1":"abhipretya",
+    "title":"abhipretya",
+    "description":"knowing it well; knowing of; seeing, understanding; understanding."
+}
+---
 
 ==== abhipretya  ====
   * knowing it well --- [[books:sb:1:13:18|SB 1.13.18]], [[books:sb:1:17:29|SB 1.17.29]]

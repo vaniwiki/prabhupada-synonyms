@@ -1,5 +1,11 @@
-~~Title:avakāśa~~
-{{description>rest.}}
+---json
+{
+    "name":"avakāśa",
+    "h1":"avakāśa",
+    "title":"avakāśa",
+    "description":"rest."
+}
+---
 
 ==== avakāśa  ====
   * rest --- [[books:cc:madhya:2:70|Madhya 2.70]]

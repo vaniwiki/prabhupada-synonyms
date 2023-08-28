@@ -1,5 +1,11 @@
-~~Title:gargaḥ~~
-{{description>Garga; Gargamuni.}}
+---json
+{
+    "name":"gargaḥ",
+    "h1":"gargaḥ",
+    "title":"gargaḥ",
+    "description":"Garga; Gargamuni."
+}
+---
 
 ==== gargaḥ  ====
   * Garga --- [[books:sb:9:21:1|SB 9.21.1]]

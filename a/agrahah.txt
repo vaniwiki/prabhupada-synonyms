@@ -1,5 +1,11 @@
-~~Title:agrahah~~
-{{description>too much attachment to (or agrahaḥ---too much neglect of).}}
+---json
+{
+    "name":"agrahah",
+    "h1":"agrahah",
+    "title":"agrahah",
+    "description":"too much attachment to (or agrahaḥ---too much neglect of)."
+}
+---
 
 ==== āgrahaḥ  ====
   * too much attachment to (or //agrahaḥ//---too much neglect of) --- [[books:noi:2|NoI 2]]

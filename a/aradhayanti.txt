@@ -1,5 +1,11 @@
-~~Title:ārādhayanti~~
-{{description>worship.}}
+---json
+{
+    "name":"ārādhayanti",
+    "h1":"ārādhayanti",
+    "title":"ārādhayanti",
+    "description":"worship."
+}
+---
 
 ==== ārādhayanti  ====
   * worship --- [[books:sb:5:20:32|SB 5.20.32]]

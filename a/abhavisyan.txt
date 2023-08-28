@@ -1,5 +1,11 @@
-~~Title:abhaviṣyan~~
-{{description>might have been.}}
+---json
+{
+    "name":"abhaviṣyan",
+    "h1":"abhaviṣyan",
+    "title":"abhaviṣyan",
+    "description":"might have been."
+}
+---
 
 ==== abhaviṣyan  ====
   * might have been --- [[books:sb:4:15:24|SB 4.15.24]]

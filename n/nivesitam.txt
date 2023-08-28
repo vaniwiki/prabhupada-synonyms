@@ -1,5 +1,11 @@
-~~Title:niveśitam~~
-{{description>completely surrendered.}}
+---json
+{
+    "name":"niveśitam",
+    "h1":"niveśitam",
+    "title":"niveśitam",
+    "description":"completely surrendered."
+}
+---
 
 ==== niveśitam  ====
   * completely surrendered --- [[books:sb:6:1:19|SB 6.1.19]]

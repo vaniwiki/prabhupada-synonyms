@@ -1,5 +1,11 @@
-~~Title:bhajadhvam~~
-{{description>engage in devotional service; just try to serve.}}
+---json
+{
+    "name":"bhajadhvam",
+    "h1":"bhajadhvam",
+    "title":"bhajadhvam",
+    "description":"engage in devotional service; just try to serve."
+}
+---
 
 ==== bhajadhvam  ====
   * engage in devotional service --- [[books:sb:4:31:18|SB 4.31.18]], [[books:sb:7:7:37|SB 7.7.37]]

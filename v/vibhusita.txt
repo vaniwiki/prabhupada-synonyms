@@ -1,5 +1,11 @@
-~~Title:vibhūṣita~~
-{{description>decorated.}}
+---json
+{
+    "name":"vibhūṣita",
+    "h1":"vibhūṣita",
+    "title":"vibhūṣita",
+    "description":"decorated."
+}
+---
 
 ==== vibhūṣita  ====
   * decorated --- [[books:cc:madhya:13:21|Madhya 13.21]]

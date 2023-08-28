@@ -1,5 +1,11 @@
-~~Title:adhamāt~~
-{{description>one who is less qualified.}}
+---json
+{
+    "name":"adhamāt",
+    "h1":"adhamāt",
+    "title":"adhamāt",
+    "description":"one who is less qualified."
+}
+---
 
 ==== guṇa-adhamāt  ====
   * one who is less qualified --- [[books:sb:4:8:34|SB 4.8.34]]

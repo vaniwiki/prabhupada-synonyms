@@ -1,5 +1,11 @@
-~~Title:āvirabhūt~~
-{{description>appeared; appeared there; manifested.}}
+---json
+{
+    "name":"āvirabhūt",
+    "h1":"āvirabhūt",
+    "title":"āvirabhūt",
+    "description":"appeared; appeared there; manifested."
+}
+---
 
 ==== āvirabhūt  ====
   * appeared --- [[books:sb:4:30:4|SB 4.30.4]], [[books:sb:7:4:24|SB 7.4.24]], [[books:cc:adi:5:214|Ādi 5.214]], [[books:cc:madhya:8:81|Madhya 8.81]], [[books:cc:madhya:8:140|Madhya 8.140]]

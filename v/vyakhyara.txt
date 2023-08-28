@@ -1,5 +1,11 @@
-~~Title:vyākhyāra~~
-{{description>for explanation.}}
+---json
+{
+    "name":"vyākhyāra",
+    "h1":"vyākhyāra",
+    "title":"vyākhyāra",
+    "description":"for explanation."
+}
+---
 
 ==== vyākhyāra  ====
   * for explanation --- [[books:cc:adi:16:40|Ādi 16.40]]

@@ -1,5 +1,11 @@
-~~Title:vyabhajat~~
-{{description>delivered the share; divided; he divided and distributed.}}
+---json
+{
+    "name":"vyabhajat",
+    "h1":"vyabhajat",
+    "title":"vyabhajat",
+    "description":"delivered the share; divided; he divided and distributed."
+}
+---
 
 ==== vyabhajat  ====
   * delivered the share --- [[books:sb:8:9:19|SB 8.9.19]]

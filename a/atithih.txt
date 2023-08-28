@@ -1,5 +1,11 @@
-~~Title:atithiḥ~~
-{{description>a guest; Atithi; guest; the guest; unwanted or uncalled-for guest.}}
+---json
+{
+    "name":"atithiḥ",
+    "h1":"atithiḥ",
+    "title":"atithiḥ",
+    "description":"a guest; Atithi; guest; the guest; unwanted or uncalled-for guest."
+}
+---
 
 ==== atithiḥ  ====
   * a guest --- [[books:sb:9:21:3-5|SB 9.21.3-5]]

@@ -1,5 +1,11 @@
-~~Title:yoṣitām~~
-{{description>of the women; of women; of women and money.}}
+---json
+{
+    "name":"yoṣitām",
+    "h1":"yoṣitām",
+    "title":"yoṣitām",
+    "description":"of the women; of women; of women and money."
+}
+---
 
 ==== yoṣitām  ====
   * of the women --- [[books:sb:3:3:8|SB 3.3.8]]

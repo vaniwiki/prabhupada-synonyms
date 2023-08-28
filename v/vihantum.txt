@@ -1,5 +1,11 @@
-~~Title:vihantum~~
-{{description>to avoid.}}
+---json
+{
+    "name":"vihantum",
+    "h1":"vihantum",
+    "title":"vihantum",
+    "description":"to avoid."
+}
+---
 
 ==== vihantum  ====
   * to avoid --- [[books:sb:5:1:12|SB 5.1.12]]

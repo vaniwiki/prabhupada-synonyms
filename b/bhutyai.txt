@@ -1,5 +1,11 @@
-~~Title:bhūtyai~~
-{{description>for increasing the opulence.}}
+---json
+{
+    "name":"bhūtyai",
+    "h1":"bhūtyai",
+    "title":"bhūtyai",
+    "description":"for increasing the opulence."
+}
+---
 
 ==== bhūtyai  ====
   * for increasing the opulence --- [[books:sb:7:3:13|SB 7.3.13]]

@@ -1,5 +1,11 @@
-~~Title:abhyasyantaḥ~~
-{{description>practicing.}}
+---json
+{
+    "name":"abhyasyantaḥ",
+    "h1":"abhyasyantaḥ",
+    "title":"abhyasyantaḥ",
+    "description":"practicing."
+}
+---
 
 ==== abhyasyantaḥ  ====
   * practicing --- [[books:sb:6:5:27-28|SB 6.5.27-28]]

@@ -1,5 +1,11 @@
-~~Title:ankitam~~
-{{description>marked.}}
+---json
+{
+    "name":"ankitam",
+    "h1":"ankitam",
+    "title":"ankitam",
+    "description":"marked."
+}
+---
 
 ==== aṅkitām  ====
   * marked --- [[books:sb:10:2:38|SB 10.2.38]]

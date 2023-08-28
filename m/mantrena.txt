@@ -1,5 +1,11 @@
-~~Title:mantreṇa~~
-{{description>mantra; by this hymn, or mantra.}}
+---json
+{
+    "name":"mantreṇa",
+    "h1":"mantreṇa",
+    "title":"mantreṇa",
+    "description":"mantra; by this hymn, or mantra."
+}
+---
 
 ==== mantreṇa  ====
   * //mantra// --- [[books:sb:6:19:7|SB 6.19.7]]

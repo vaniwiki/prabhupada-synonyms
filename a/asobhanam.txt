@@ -1,5 +1,11 @@
-~~Title:aśobhanam~~
-{{description>that which is not up to the standard of etiquette (the criticism of the exalted Lord Śiva).}}
+---json
+{
+    "name":"aśobhanam",
+    "h1":"aśobhanam",
+    "title":"aśobhanam",
+    "description":"that which is not up to the standard of etiquette (the criticism of the exalted Lord Śiva)."
+}
+---
 
 ==== bahu-aśobhanam  ====
   * that which is not up to the standard of etiquette (the criticism of the exalted Lord Śiva) --- [[books:sb:6:17:10|SB 6.17.10]]

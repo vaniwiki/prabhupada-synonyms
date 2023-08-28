@@ -1,5 +1,11 @@
-~~Title:prāpsyati~~
-{{description>gets; there will be.}}
+---json
+{
+    "name":"prāpsyati",
+    "h1":"prāpsyati",
+    "title":"prāpsyati",
+    "description":"gets; there will be."
+}
+---
 
 ==== prāpsyati  ====
   * gets --- [[books:sb:9:12:16|SB 9.12.16]]

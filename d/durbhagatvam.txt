@@ -1,5 +1,11 @@
-~~Title:durbhagatvam~~
-{{description>misfortune.}}
+---json
+{
+    "name":"durbhagatvam",
+    "h1":"durbhagatvam",
+    "title":"durbhagatvam",
+    "description":"misfortune."
+}
+---
 
 ==== durbhagatvam  ====
   * misfortune --- [[books:sb:3:7:6|SB 3.7.6]]

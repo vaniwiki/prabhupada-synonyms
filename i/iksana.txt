@@ -1,5 +1,11 @@
-~~Title:iksana~~
-{{description>by glancing over; from directly seeing; glance; glancing.}}
+---json
+{
+    "name":"iksana",
+    "h1":"iksana",
+    "title":"iksana",
+    "description":"by glancing over; from directly seeing; glance; glancing."
+}
+---
 
 ==== īkṣaṇa  ====
   * by glancing over --- [[books:sb:2:2:12|SB 2.2.12]]

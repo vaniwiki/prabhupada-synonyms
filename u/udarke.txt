@@ -1,5 +1,11 @@
-~~Title:udarke~~
-{{description>having gradually evolved.}}
+---json
+{
+    "name":"udarke",
+    "h1":"udarke",
+    "title":"udarke",
+    "description":"having gradually evolved."
+}
+---
 
 ==== udarke  ====
   * having gradually evolved --- [[books:sb:1:12:12|SB 1.12.12]]

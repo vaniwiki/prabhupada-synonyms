@@ -1,5 +1,11 @@
-~~Title:avanāmam~~
-{{description>obeisances.}}
+---json
+{
+    "name":"avanāmam",
+    "h1":"avanāmam",
+    "title":"avanāmam",
+    "description":"obeisances."
+}
+---
 
 ==== avanāmam  ====
   * obeisances --- [[books:sb:1:6:25|SB 1.6.25]]

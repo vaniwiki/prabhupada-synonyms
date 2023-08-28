@@ -1,5 +1,11 @@
-~~Title:upādānam~~
-{{description>instrument.}}
+---json
+{
+    "name":"upādānam",
+    "h1":"upādānam",
+    "title":"upādānam",
+    "description":"instrument."
+}
+---
 
 ==== upādānam  ====
   * instrument --- [[books:sb:3:10:11|SB 3.10.11]]

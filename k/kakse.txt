@@ -1,5 +1,11 @@
-~~Title:kakṣe~~
-{{description>on the waist.}}
+---json
+{
+    "name":"kakṣe",
+    "h1":"kakṣe",
+    "title":"kakṣe",
+    "description":"on the waist."
+}
+---
 
 ==== kakṣe  ====
   * on the waist --- [[books:sb:10:13:11|SB 10.13.11]]

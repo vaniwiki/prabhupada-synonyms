@@ -1,5 +1,11 @@
-~~Title:daṁṣṭrīm~~
-{{description>Ugradaṁṣṭrī.}}
+---json
+{
+    "name":"daṁṣṭrīm",
+    "h1":"daṁṣṭrīm",
+    "title":"daṁṣṭrīm",
+    "description":"Ugradaṁṣṭrī."
+}
+---
 
 ==== ugra-daṁṣṭrīm  ====
   * Ugradaṁṣṭrī --- [[books:sb:5:2:23|SB 5.2.23]]

@@ -1,5 +1,11 @@
-~~Title:tamena~~
-{{description>unto the most dear one.}}
+---json
+{
+    "name":"tamena",
+    "h1":"tamena",
+    "title":"tamena",
+    "description":"unto the most dear one."
+}
+---
 
 ==== preṣṭha-tamena  ====
   * unto the most dear one --- [[books:sb:1:14:44|SB 1.14.44]]

@@ -1,5 +1,11 @@
-~~Title:ārādhita~~
-{{description>worshiped.}}
+---json
+{
+    "name":"ārādhita",
+    "h1":"ārādhita",
+    "title":"ārādhita",
+    "description":"worshiped."
+}
+---
 
 ==== ārādhita  ====
   * worshiped --- [[books:sb:3:4:20|SB 3.4.20]]

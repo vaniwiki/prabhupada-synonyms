@@ -1,5 +1,11 @@
-~~Title:vāgmitā~~
-{{description>eloquence.}}
+---json
+{
+    "name":"vāgmitā",
+    "h1":"vāgmitā",
+    "title":"vāgmitā",
+    "description":"eloquence."
+}
+---
 
 ==== vāgmitā  ====
   * eloquence --- [[books:cc:adi:1:106|Ādi 1.106]]

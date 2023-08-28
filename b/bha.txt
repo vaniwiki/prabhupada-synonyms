@@ -1,5 +1,11 @@
-~~Title:bha~~
-{{description>luminaries.}}
+---json
+{
+    "name":"bha",
+    "h1":"bha",
+    "title":"bha",
+    "description":"luminaries."
+}
+---
 
 ==== bha-gaṇa  ====
   * luminaries --- [[books:sb:3:19:19|SB 3.19.19]]

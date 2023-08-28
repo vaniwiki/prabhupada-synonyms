@@ -1,5 +1,11 @@
-~~Title:paramānandapurī~~
-{{description>of the name Paramānanda Purī.}}
+---json
+{
+    "name":"paramānandapurī",
+    "h1":"paramānandapurī",
+    "title":"paramānandapurī",
+    "description":"of the name Paramānanda Purī."
+}
+---
 
 ==== paramānandapurī  ====
   * of the name Paramānanda Purī --- [[books:cc:adi:9:13-15|Ādi 9.13-15]]

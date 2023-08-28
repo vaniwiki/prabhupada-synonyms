@@ -1,5 +1,11 @@
-~~Title:arciḥ~~
-{{description>Arci; of the name Arci; the flame; with flames.}}
+---json
+{
+    "name":"arciḥ",
+    "h1":"arciḥ",
+    "title":"arciḥ",
+    "description":"Arci; of the name Arci; the flame; with flames."
+}
+---
 
 ==== arciḥ  ====
   * Arci --- [[books:sb:4:15:5|SB 4.15.5]]

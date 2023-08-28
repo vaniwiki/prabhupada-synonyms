@@ -1,5 +1,11 @@
-~~Title:gomatī~~
-{{description>Gomatī.}}
+---json
+{
+    "name":"gomatī",
+    "h1":"gomatī",
+    "title":"gomatī",
+    "description":"Gomatī."
+}
+---
 
 ==== gomatī  ====
   * Gomatī --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

@@ -1,5 +1,11 @@
-~~Title:sutapāḥ~~
-{{description>Sutapā.}}
+---json
+{
+    "name":"sutapāḥ",
+    "h1":"sutapāḥ",
+    "title":"sutapāḥ",
+    "description":"Sutapā."
+}
+---
 
 ==== sutapāḥ  ====
   * Sutapā --- [[books:sb:9:12:12|SB 9.12.12]], [[books:sb:9:23:3-4|SB 9.23.3-4]]

@@ -1,5 +1,11 @@
-~~Title:kuvalayāśva~~
-{{description>Kuvalayāśva.}}
+---json
+{
+    "name":"kuvalayāśva",
+    "h1":"kuvalayāśva",
+    "title":"kuvalayāśva",
+    "description":"Kuvalayāśva."
+}
+---
 
 ==== kuvalayāśva  ====
   * Kuvalayāśva --- [[books:sb:9:17:6|SB 9.17.6]]

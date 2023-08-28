@@ -1,5 +1,11 @@
-~~Title:caturaḥ~~
-{{description>cunning; four; four years; the four.}}
+---json
+{
+    "name":"caturaḥ",
+    "h1":"caturaḥ",
+    "title":"caturaḥ",
+    "description":"cunning; four; four years; the four."
+}
+---
 
 ==== caturaḥ  ====
   * cunning --- [[books:cc:madhya:23:72|Madhya 23.72]]

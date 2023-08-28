@@ -1,5 +1,11 @@
-~~Title:saṅkruddhaḥ~~
-{{description>being very angry; being very angry at him.}}
+---json
+{
+    "name":"saṅkruddhaḥ",
+    "h1":"saṅkruddhaḥ",
+    "title":"saṅkruddhaḥ",
+    "description":"being very angry; being very angry at him."
+}
+---
 
 ==== saṅkruddhaḥ  ====
   * being very angry --- [[books:sb:4:19:13|SB 4.19.13]], [[books:sb:6:11:2-3|SB 6.11.2-3]]

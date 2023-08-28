@@ -1,5 +1,11 @@
-~~Title:romabhiḥ~~
-{{description>through the hairs on the body; with the hair on the body.}}
+---json
+{
+    "name":"romabhiḥ",
+    "h1":"romabhiḥ",
+    "title":"romabhiḥ",
+    "description":"through the hairs on the body; with the hair on the body."
+}
+---
 
 ==== romabhiḥ  ====
   * through the hairs on the body --- [[books:sb:3:6:18|SB 3.6.18]]

@@ -1,5 +1,11 @@
-~~Title:vantam~~
-{{description>situated in the self; very independent.}}
+---json
+{
+    "name":"vantam",
+    "h1":"vantam",
+    "title":"vantam",
+    "description":"situated in the self; very independent."
+}
+---
 
 ==== ātma-vantam  ====
   * situated in the self --- [[books:bg:4:41|Bg. 4.41]]

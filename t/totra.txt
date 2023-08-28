@@ -1,5 +1,11 @@
-~~Title:totra~~
-{{description>a bridle; by the scepter or rod.}}
+---json
+{
+    "name":"totra",
+    "h1":"totra",
+    "title":"totra",
+    "description":"a bridle; by the scepter or rod."
+}
+---
 
 ==== totra  ====
   * a bridle --- [[books:cc:madhya:9:99|Madhya 9.99]]

@@ -1,5 +1,11 @@
-~~Title:smrtah~~
-{{description>accepted; celebrated; consider; considered; is called; is considered; is considered fit; is described by the great sages; is so called; is understood; is well known; it is said; it is so known; known; mentioned in scripture; planned; recognized; recorded; regarded; remembered; so called; understood; was well known; well known.}}
+---json
+{
+    "name":"smrtah",
+    "h1":"smrtah",
+    "title":"smrtah",
+    "description":"accepted; celebrated; consider; considered; is called; is considered; is considered fit; is described by the great sages; is so called; is understood; is well known; it is said; it is so known; known; mentioned in scripture; planned; recognized; recorded; regarded; remembered; so called; understood; was well known; well known."
+}
+---
 
 ==== smṛtaḥ  ====
   * accepted --- [[books:sb:7:15:58|SB 7.15.58]]

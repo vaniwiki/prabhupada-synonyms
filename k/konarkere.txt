@@ -1,5 +1,11 @@
-~~Title:koṇārkere~~
-{{description>to the Koṇārka temple.}}
+---json
+{
+    "name":"koṇārkere",
+    "h1":"koṇārkere",
+    "title":"koṇārkere",
+    "description":"to the Koṇārka temple."
+}
+---
 
 ==== koṇārkere  ====
   * to the Koṇārka temple --- [[books:cc:antya:18:36|Antya 18.36]]

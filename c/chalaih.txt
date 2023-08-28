@@ -1,5 +1,11 @@
-~~Title:chalaiḥ~~
-{{description>pretentiously.}}
+---json
+{
+    "name":"chalaiḥ",
+    "h1":"chalaiḥ",
+    "title":"chalaiḥ",
+    "description":"pretentiously."
+}
+---
 
 ==== chalaiḥ  ====
   * pretentiously --- [[books:sb:8:22:29-30|SB 8.22.29-30]]

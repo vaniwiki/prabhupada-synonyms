@@ -1,5 +1,11 @@
-~~Title:abhimānam~~
-{{description>false identification.}}
+---json
+{
+    "name":"abhimānam",
+    "h1":"abhimānam",
+    "title":"abhimānam",
+    "description":"false identification."
+}
+---
 
 ==== abhimānam  ====
   * false identification --- [[books:sb:7:15:42|SB 7.15.42]]

@@ -1,5 +1,11 @@
-~~Title:parikramantīm~~
-{{description>circumambulating.}}
+---json
+{
+    "name":"parikramantīm",
+    "h1":"parikramantīm",
+    "title":"parikramantīm",
+    "description":"circumambulating."
+}
+---
 
 ==== parikramantīm  ====
   * circumambulating --- [[books:sb:4:24:11|SB 4.24.11]]

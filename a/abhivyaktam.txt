@@ -1,5 +1,11 @@
-~~Title:abhivyaktām~~
-{{description>fully expressed.}}
+---json
+{
+    "name":"abhivyaktām",
+    "h1":"abhivyaktām",
+    "title":"abhivyaktām",
+    "description":"fully expressed."
+}
+---
 
 ==== abhivyaktām  ====
   * fully expressed --- [[books:cc:madhya:22:154|Madhya 22.154]]

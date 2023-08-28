@@ -1,5 +1,11 @@
-~~Title:āṅṭhi~~
-{{description>seeds of the mango; the seeds.}}
+---json
+{
+    "name":"āṅṭhi",
+    "h1":"āṅṭhi",
+    "title":"āṅṭhi",
+    "description":"seeds of the mango; the seeds."
+}
+---
 
 ==== āṅṭhi  ====
   * seeds of the mango --- [[books:cc:antya:16:37|Antya 16.37]]

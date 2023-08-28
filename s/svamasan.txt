@@ -1,5 +1,11 @@
-~~Title:svamāsān~~
-{{description>his months.}}
+---json
+{
+    "name":"svamāsān",
+    "h1":"svamāsān",
+    "title":"svamāsān",
+    "description":"his months."
+}
+---
 
 ==== svamāsān  ====
   * his months --- [[books:sb:3:31:17|SB 3.31.17]]

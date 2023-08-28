@@ -1,5 +1,11 @@
-~~Title:avigaṇayya~~
-{{description>neglecting; without considering.}}
+---json
+{
+    "name":"avigaṇayya",
+    "h1":"avigaṇayya",
+    "title":"avigaṇayya",
+    "description":"neglecting; without considering."
+}
+---
 
 ==== avigaṇayya  ====
   * neglecting --- [[books:sb:4:29:53|SB 4.29.53]]

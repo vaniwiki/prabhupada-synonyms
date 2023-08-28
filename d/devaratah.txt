@@ -1,5 +1,11 @@
-~~Title:devarātaḥ~~
-{{description>a son named Devarāta; Devarāta; he is known as Devarāta.}}
+---json
+{
+    "name":"devarātaḥ",
+    "h1":"devarātaḥ",
+    "title":"devarātaḥ",
+    "description":"a son named Devarāta; Devarāta; he is known as Devarāta."
+}
+---
 
 ==== devarātaḥ  ====
   * a son named Devarāta --- [[books:sb:9:13:14|SB 9.13.14]]

@@ -1,5 +1,11 @@
-~~Title:vibhraṁśitaḥ~~
-{{description>being bereft of; fallen; fallen down.}}
+---json
+{
+    "name":"vibhraṁśitaḥ",
+    "h1":"vibhraṁśitaḥ",
+    "title":"vibhraṁśitaḥ",
+    "description":"being bereft of; fallen; fallen down."
+}
+---
 
 ==== vibhraṁśitaḥ  ====
   * being bereft of --- [[books:sb:8:22:16|SB 8.22.16]]

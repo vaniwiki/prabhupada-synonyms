@@ -1,5 +1,11 @@
-~~Title:nimlocanīm~~
-{{description>Nimlocanī.}}
+---json
+{
+    "name":"nimlocanīm",
+    "h1":"nimlocanīm",
+    "title":"nimlocanīm",
+    "description":"Nimlocanī."
+}
+---
 
 ==== nimlocanīm  ====
   * Nimlocanī --- [[books:sb:5:21:7|SB 5.21.7]]

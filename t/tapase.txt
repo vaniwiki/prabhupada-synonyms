@@ -1,5 +1,11 @@
-~~Title:tapase~~
-{{description>for executing austerity; for practicing austerities; for the matter of penance; for undergoing austerities; severe penances; to execute austerities.}}
+---json
+{
+    "name":"tapase",
+    "h1":"tapase",
+    "title":"tapase",
+    "description":"for executing austerity; for practicing austerities; for the matter of penance; for undergoing austerities; severe penances; to execute austerities."
+}
+---
 
 ==== tapase  ====
   * for executing austerity --- [[books:sb:4:24:14|SB 4.24.14]]

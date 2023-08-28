@@ -1,5 +1,11 @@
-~~Title:avaghātinām~~
-{{description>of those beating.}}
+---json
+{
+    "name":"avaghātinām",
+    "h1":"avaghātinām",
+    "title":"avaghātinām",
+    "description":"of those beating."
+}
+---
 
 ==== avaghātinām  ====
   * of those beating --- [[books:cc:madhya:22:22|Madhya 22.22]], [[books:cc:madhya:24:140|Madhya 24.140]], [[books:cc:madhya:25:31|Madhya 25.31]]

@@ -1,5 +1,11 @@
-~~Title:dah~~
-{{description>givers.}}
+---json
+{
+    "name":"dah",
+    "h1":"dah",
+    "title":"dah",
+    "description":"givers."
+}
+---
 
 ==== dāḥ  ====
   * givers --- [[books:sb:6:15:21-23|SB 6.15.21-23]]

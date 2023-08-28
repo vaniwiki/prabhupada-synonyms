@@ -1,5 +1,11 @@
-~~Title:mudgalāt~~
-{{description>from Mudgala.}}
+---json
+{
+    "name":"mudgalāt",
+    "h1":"mudgalāt",
+    "title":"mudgalāt",
+    "description":"from Mudgala."
+}
+---
 
 ==== mudgalāt  ====
   * from Mudgala --- [[books:sb:9:21:31-33|SB 9.21.31-33]], [[books:sb:9:21:34|SB 9.21.34]]

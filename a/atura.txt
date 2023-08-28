@@ -1,5 +1,11 @@
-~~Title:atura~~
-{{description>afflicted; very sorry.}}
+---json
+{
+    "name":"atura",
+    "h1":"atura",
+    "title":"atura",
+    "description":"afflicted; very sorry."
+}
+---
 
 ==== āturā  ====
   * afflicted --- [[books:sb:3:33:20|SB 3.33.20]], [[books:sb:5:8:6|SB 5.8.6]]

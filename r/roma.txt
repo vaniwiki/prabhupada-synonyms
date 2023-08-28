@@ -1,5 +1,11 @@
-~~Title:roma~~
-{{description>body hair; hair; hair on the body; hairs; hairs on the body; of hair on the body.}}
+---json
+{
+    "name":"roma",
+    "h1":"roma",
+    "title":"roma",
+    "description":"body hair; hair; hair on the body; hairs; hairs on the body; of hair on the body."
+}
+---
 
 ==== roma  ====
   * body hair --- [[books:cc:antya:18:50|Antya 18.50]]

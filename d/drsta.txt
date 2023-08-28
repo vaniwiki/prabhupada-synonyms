@@ -1,5 +1,11 @@
-~~Title:drsta~~
-{{description>by seeing; by whatever has been experienced by seeing with the eyes; directly perceived; discovered; from material sight; having seen; of material vision; seen (in this world).}}
+---json
+{
+    "name":"drsta",
+    "h1":"drsta",
+    "title":"drsta",
+    "description":"by seeing; by whatever has been experienced by seeing with the eyes; directly perceived; discovered; from material sight; having seen; of material vision; seen (in this world)."
+}
+---
 
 ==== dṛṣṭa  ====
   * by seeing --- [[books:sb:6:1:9|SB 6.1.9]]

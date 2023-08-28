@@ -1,5 +1,11 @@
-~~Title:nṛpam~~
-{{description>on behalf of the King; the King (Ambarīṣa); unto King Satyavrata; unto the King (Māndhātā); unto the King.}}
+---json
+{
+    "name":"nṛpam",
+    "h1":"nṛpam",
+    "title":"nṛpam",
+    "description":"on behalf of the King; the King (Ambarīṣa); unto King Satyavrata; unto the King (Māndhātā); unto the King."
+}
+---
 
 ==== nṛpam  ====
   * on behalf of the King --- [[books:sb:1:12:35|SB 1.12.35]]

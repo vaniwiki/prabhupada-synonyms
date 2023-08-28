@@ -1,5 +1,11 @@
-~~Title:grasiṣṇu~~
-{{description>devours.}}
+---json
+{
+    "name":"grasiṣṇu",
+    "h1":"grasiṣṇu",
+    "title":"grasiṣṇu",
+    "description":"devours."
+}
+---
 
 ==== grasiṣṇu  ====
   * devours --- [[books:bg:13:17|Bg. 13.17]]

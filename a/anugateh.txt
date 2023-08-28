@@ -1,5 +1,11 @@
-~~Title:anugateḥ~~
-{{description>from moving only after glancing.}}
+---json
+{
+    "name":"anugateḥ",
+    "h1":"anugateḥ",
+    "title":"anugateḥ",
+    "description":"from moving only after glancing."
+}
+---
 
 ==== avaloka-anugateḥ  ====
   * from moving only after glancing --- [[books:sb:5:10:2|SB 5.10.2]]

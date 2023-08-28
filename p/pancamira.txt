@@ -1,5 +1,11 @@
-~~Title:pañcamīra~~
-{{description>the day of Herā-pañcamī.}}
+---json
+{
+    "name":"pañcamīra",
+    "h1":"pañcamīra",
+    "title":"pañcamīra",
+    "description":"the day of Herā-pañcamī."
+}
+---
 
 ==== herā-pañcamīra dina  ====
   * the day of Herā-pañcamī --- [[books:cc:madhya:14:106|Madhya 14.106]]

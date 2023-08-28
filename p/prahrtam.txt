@@ -1,5 +1,11 @@
-~~Title:prahṛtam~~
-{{description>killing.}}
+---json
+{
+    "name":"prahṛtam",
+    "h1":"prahṛtam",
+    "title":"prahṛtam",
+    "description":"killing."
+}
+---
 
 ==== prahṛtam  ====
   * killing --- [[books:cc:madhya:10:145|Madhya 10.145]]

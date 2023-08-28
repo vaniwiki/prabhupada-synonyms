@@ -1,5 +1,11 @@
-~~Title:dūre~~
-{{description>a short distance away; at a distant place; at a long distance; far away; far, far away; from a distance; from a distant place; in a distant place; keeping at a distance; let alone; long distant; to a distant place.}}
+---json
+{
+    "name":"dūre",
+    "h1":"dūre",
+    "title":"dūre",
+    "description":"a short distance away; at a distant place; at a long distance; far away; far, far away; from a distance; from a distant place; in a distant place; keeping at a distance; let alone; long distant; to a distant place."
+}
+---
 
 ==== dūre  ====
   * a short distance away --- [[books:sb:6:1:28-29|SB 6.1.28-29]]

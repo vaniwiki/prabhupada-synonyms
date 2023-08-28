@@ -1,5 +1,11 @@
-~~Title:upādhau~~
-{{description>designation.}}
+---json
+{
+    "name":"upādhau",
+    "h1":"upādhau",
+    "title":"upādhau",
+    "description":"designation."
+}
+---
 
 ==== upādhau  ====
   * designation --- [[books:sb:4:22:28|SB 4.22.28]]

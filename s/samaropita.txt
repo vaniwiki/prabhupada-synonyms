@@ -1,5 +1,11 @@
-~~Title:samāropita~~
-{{description>well equipped.}}
+---json
+{
+    "name":"samāropita",
+    "h1":"samāropita",
+    "title":"samāropita",
+    "description":"well equipped."
+}
+---
 
 ==== samāropita  ====
   * well equipped --- [[books:sb:1:17:4|SB 1.17.4]]

@@ -1,5 +1,11 @@
-~~Title:sandhāryate~~
-{{description>one may concentrate; the conception is made.}}
+---json
+{
+    "name":"sandhāryate",
+    "h1":"sandhāryate",
+    "title":"sandhāryate",
+    "description":"one may concentrate; the conception is made."
+}
+---
 
 ==== sandhāryate  ====
   * one may concentrate --- [[books:sb:2:1:38|SB 2.1.38]]

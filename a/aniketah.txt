@@ -1,5 +1,11 @@
-~~Title:aniketaḥ~~
-{{description>having no residence; without attachment for a residence.}}
+---json
+{
+    "name":"aniketaḥ",
+    "h1":"aniketaḥ",
+    "title":"aniketaḥ",
+    "description":"having no residence; without attachment for a residence."
+}
+---
 
 ==== aniketaḥ  ====
   * having no residence --- [[books:bg:12:18-19|Bg. 12.18-19]]

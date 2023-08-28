@@ -1,5 +1,11 @@
-~~Title:lokayoḥ~~
-{{description>of planetary systems; of the worlds.}}
+---json
+{
+    "name":"lokayoḥ",
+    "h1":"lokayoḥ",
+    "title":"lokayoḥ",
+    "description":"of planetary systems; of the worlds."
+}
+---
 
 ==== lokayoḥ  ====
   * of planetary systems --- [[books:sb:4:16:5|SB 4.16.5]]

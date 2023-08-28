@@ -1,5 +1,11 @@
-~~Title:gajāhvaye~~
-{{description>in Hastināpura; in the capital of Hastināpura; on the town of Hastināpura (New Delhi).}}
+---json
+{
+    "name":"gajāhvaye",
+    "h1":"gajāhvaye",
+    "title":"gajāhvaye",
+    "description":"in Hastināpura; in the capital of Hastināpura; on the town of Hastināpura (New Delhi)."
+}
+---
 
 ==== gajāhvaye  ====
   * in Hastināpura --- [[books:sb:1:17:43-44|SB 1.17.43-44]]

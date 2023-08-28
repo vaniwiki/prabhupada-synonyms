@@ -1,5 +1,11 @@
-~~Title:adhiraja~~
-{{description>O great lord; royal.}}
+---json
+{
+    "name":"adhiraja",
+    "h1":"adhiraja",
+    "title":"adhiraja",
+    "description":"O great lord; royal."
+}
+---
 
 ==== adhirāja  ====
   * O great lord --- [[books:sb:3:17:27|SB 3.17.27]]

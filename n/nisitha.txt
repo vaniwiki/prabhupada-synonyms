@@ -1,5 +1,11 @@
-~~Title:niśītha~~
-{{description>at midnight.}}
+---json
+{
+    "name":"niśītha",
+    "h1":"niśītha",
+    "title":"niśītha",
+    "description":"at midnight."
+}
+---
 
 ==== niśītha-samaye  ====
   * at midnight --- [[books:sb:5:9:13|SB 5.9.13]]

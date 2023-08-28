@@ -1,5 +1,11 @@
-~~Title:viluṇṭhayati~~
-{{description>plunders.}}
+---json
+{
+    "name":"viluṇṭhayati",
+    "h1":"viluṇṭhayati",
+    "title":"viluṇṭhayati",
+    "description":"plunders."
+}
+---
 
 ==== viluṇṭhayati  ====
   * plunders --- [[books:cc:antya:1:190|Antya 1.190]]

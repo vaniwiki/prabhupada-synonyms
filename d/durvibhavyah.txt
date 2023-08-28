@@ -1,5 +1,11 @@
-~~Title:durvibhāvyaḥ~~
-{{description>cannot be found out.}}
+---json
+{
+    "name":"durvibhāvyaḥ",
+    "h1":"durvibhāvyaḥ",
+    "title":"durvibhāvyaḥ",
+    "description":"cannot be found out."
+}
+---
 
 ==== durvibhāvyaḥ  ====
   * cannot be found out --- [[books:sb:10:1:51|SB 10.1.51]]

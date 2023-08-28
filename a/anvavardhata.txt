@@ -1,5 +1,11 @@
-~~Title:anvavardhata~~
-{{description>immediately developed; increased.}}
+---json
+{
+    "name":"anvavardhata",
+    "h1":"anvavardhata",
+    "title":"anvavardhata",
+    "description":"immediately developed; increased."
+}
+---
 
 ==== anvavardhata  ====
   * immediately developed --- [[books:sb:8:24:21|SB 8.24.21]]

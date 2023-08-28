@@ -1,5 +1,11 @@
-~~Title:upahāraiḥ~~
-{{description>by offerings of roots, bulbs and fruits.}}
+---json
+{
+    "name":"upahāraiḥ",
+    "h1":"upahāraiḥ",
+    "title":"upahāraiḥ",
+    "description":"by offerings of roots, bulbs and fruits."
+}
+---
 
 ==== kanda-mūla-phala-upahāraiḥ  ====
   * by offerings of roots, bulbs and fruits --- [[books:sb:5:7:11|SB 5.7.11]]

@@ -1,5 +1,11 @@
-~~Title:vanchatah~~
-{{description>desiring.}}
+---json
+{
+    "name":"vanchatah",
+    "h1":"vanchatah",
+    "title":"vanchatah",
+    "description":"desiring."
+}
+---
 
 ==== vāñchataḥ  ====
   * desiring --- [[books:sb:6:9:50|SB 6.9.50]]

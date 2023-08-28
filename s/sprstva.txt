@@ -1,5 +1,11 @@
-~~Title:spṛṣṭvā~~
-{{description>after touching; by touching; touching.}}
+---json
+{
+    "name":"spṛṣṭvā",
+    "h1":"spṛṣṭvā",
+    "title":"spṛṣṭvā",
+    "description":"after touching; by touching; touching."
+}
+---
 
 ==== spṛṣṭvā  ====
   * after touching --- [[books:sb:1:7:29|SB 1.7.29]], [[books:sb:4:4:24|SB 4.4.24]]

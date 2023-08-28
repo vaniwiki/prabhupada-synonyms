@@ -1,5 +1,11 @@
-~~Title:pautrān~~
-{{description>grandsons.}}
+---json
+{
+    "name":"pautrān",
+    "h1":"pautrān",
+    "title":"pautrān",
+    "description":"grandsons."
+}
+---
 
 ==== pautrān  ====
   * grandsons --- [[books:bg:1:26|Bg. 1.26]], [[books:sb:4:28:16|SB 4.28.16]]

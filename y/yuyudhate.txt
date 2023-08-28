@@ -1,5 +1,11 @@
-~~Title:yuyudhāte~~
-{{description>both used to fight; fought; They both used to fight.}}
+---json
+{
+    "name":"yuyudhāte",
+    "h1":"yuyudhāte",
+    "title":"yuyudhāte",
+    "description":"both used to fight; fought; They both used to fight."
+}
+---
 
 ==== yuyudhāte  ====
   * both used to fight --- [[books:cc:adi:5:138|Ādi 5.138]]

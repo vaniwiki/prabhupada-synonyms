@@ -1,5 +1,11 @@
-~~Title:vālini~~
-{{description>when Vāli had been killed.}}
+---json
+{
+    "name":"vālini",
+    "h1":"vālini",
+    "title":"vālini",
+    "description":"when Vāli had been killed."
+}
+---
 
 ==== vālini hate  ====
   * when Vāli had been killed --- [[books:sb:9:10:12|SB 9.10.12]]

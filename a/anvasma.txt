@@ -1,5 +1,11 @@
-~~Title:anvāsma~~
-{{description>follow.}}
+---json
+{
+    "name":"anvāsma",
+    "h1":"anvāsma",
+    "title":"anvāsma",
+    "description":"follow."
+}
+---
 
 ==== anvāsma  ====
   * follow --- [[books:sb:8:5:37|SB 8.5.37]]

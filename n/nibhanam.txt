@@ -1,5 +1,11 @@
-~~Title:nibhānām~~
-{{description>and which are as large as the bodies of elephants.}}
+---json
+{
+    "name":"nibhānām",
+    "h1":"nibhānām",
+    "title":"nibhānām",
+    "description":"and which are as large as the bodies of elephants."
+}
+---
 
 ==== ibha-kāya-nibhānām  ====
   * and which are as large as the bodies of elephants --- [[books:sb:5:16:19|SB 5.16.19]]

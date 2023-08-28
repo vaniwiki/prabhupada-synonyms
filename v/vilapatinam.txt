@@ -1,5 +1,11 @@
-~~Title:vilapatīnām~~
-{{description>of the lamenting queens.}}
+---json
+{
+    "name":"vilapatīnām",
+    "h1":"vilapatīnām",
+    "title":"vilapatīnām",
+    "description":"of the lamenting queens."
+}
+---
 
 ==== vilapatīnām  ====
   * of the lamenting queens --- [[books:sb:7:2:35|SB 7.2.35]]

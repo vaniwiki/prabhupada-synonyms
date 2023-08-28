@@ -1,5 +1,11 @@
-~~Title:alpena~~
-{{description>a very small duration.}}
+---json
+{
+    "name":"alpena",
+    "h1":"alpena",
+    "title":"alpena",
+    "description":"a very small duration."
+}
+---
 
 ==== alpena  ====
   * a very small duration --- [[books:sb:10:8:21|SB 10.8.21]]

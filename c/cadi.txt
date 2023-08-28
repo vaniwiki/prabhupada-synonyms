@@ -1,5 +1,11 @@
-~~Title:cadi~~
-{{description>getting on.}}
+---json
+{
+    "name":"cadi",
+    "h1":"cadi",
+    "title":"cadi",
+    "description":"getting on."
+}
+---
 
 ==== caḍi  ====
   * getting on --- [[books:cc:adi:17:100|Ādi 17.100]]

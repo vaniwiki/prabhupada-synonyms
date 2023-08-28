@@ -1,5 +1,11 @@
-~~Title:susvaram~~
-{{description>loudly.}}
+---json
+{
+    "name":"susvaram",
+    "h1":"susvaram",
+    "title":"susvaram",
+    "description":"loudly."
+}
+---
 
 ==== susvaram  ====
   * loudly --- [[books:sb:4:28:47|SB 4.28.47]]

@@ -1,5 +1,11 @@
-~~Title:sukhayanti~~
-{{description>give pleasure.}}
+---json
+{
+    "name":"sukhayanti",
+    "h1":"sukhayanti",
+    "title":"sukhayanti",
+    "description":"give pleasure."
+}
+---
 
 ==== sukhayanti  ====
   * give pleasure --- [[books:sb:6:13:11|SB 6.13.11]]

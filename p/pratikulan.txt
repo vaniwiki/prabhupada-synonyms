@@ -1,5 +1,11 @@
-~~Title:pratikūlān~~
-{{description>opposing elements.}}
+---json
+{
+    "name":"pratikūlān",
+    "h1":"pratikūlān",
+    "title":"pratikūlān",
+    "description":"opposing elements."
+}
+---
 
 ==== pratikūlān  ====
   * opposing elements --- [[books:sb:4:28:7|SB 4.28.7]]

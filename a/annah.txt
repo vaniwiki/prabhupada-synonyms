@@ -1,5 +1,11 @@
-~~Title:annaḥ~~
-{{description>made for his food.}}
+---json
+{
+    "name":"annaḥ",
+    "h1":"annaḥ",
+    "title":"annaḥ",
+    "description":"made for his food."
+}
+---
 
 ==== kṛta-annaḥ  ====
   * made for his food --- [[books:sb:4:8:73|SB 4.8.73]]

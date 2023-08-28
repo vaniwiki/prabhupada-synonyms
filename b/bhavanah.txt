@@ -1,5 +1,11 @@
-~~Title:bhāvanaḥ~~
-{{description>teaching; well-wisher.}}
+---json
+{
+    "name":"bhāvanaḥ",
+    "h1":"bhāvanaḥ",
+    "title":"bhāvanaḥ",
+    "description":"teaching; well-wisher."
+}
+---
 
 ==== bhāvanaḥ  ====
   * teaching --- [[books:sb:3:24:4|SB 3.24.4]]

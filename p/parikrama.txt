@@ -1,5 +1,11 @@
-~~Title:parikramā~~
-{{description>circumambulating; circumambulation.}}
+---json
+{
+    "name":"parikramā",
+    "h1":"parikramā",
+    "title":"parikramā",
+    "description":"circumambulating; circumambulation."
+}
+---
 
 ==== parikramā  ====
   * circumambulating --- [[books:cc:antya:3:234|Antya 3.234]]

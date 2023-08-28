@@ -1,5 +1,11 @@
-~~Title:calilāṅa~~
-{{description>have gone; I went.}}
+---json
+{
+    "name":"calilāṅa",
+    "h1":"calilāṅa",
+    "title":"calilāṅa",
+    "description":"have gone; I went."
+}
+---
 
 ==== calilāṅa  ====
   * have gone --- [[books:cc:madhya:19:33|Madhya 19.33]]

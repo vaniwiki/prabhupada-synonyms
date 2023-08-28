@@ -1,5 +1,11 @@
-~~Title:śīlataḥ~~
-{{description>by good qualities and by character.}}
+---json
+{
+    "name":"śīlataḥ",
+    "h1":"śīlataḥ",
+    "title":"śīlataḥ",
+    "description":"by good qualities and by character."
+}
+---
 
 ==== guṇa-śīlataḥ  ====
   * by good qualities and by character --- [[books:sb:4:1:65|SB 4.1.65]]

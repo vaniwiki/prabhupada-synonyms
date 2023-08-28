@@ -1,5 +1,11 @@
-~~Title:prasadaya~~
-{{description>pacify.}}
+---json
+{
+    "name":"prasadaya",
+    "h1":"prasadaya",
+    "title":"prasadaya",
+    "description":"pacify."
+}
+---
 
 ==== prasādaya  ====
   * pacify --- [[books:sb:4:11:34|SB 4.11.34]]

@@ -1,5 +1,11 @@
-~~Title:bindusare~~
-{{description>Lake Bindu-sarovara.}}
+---json
+{
+    "name":"bindusare",
+    "h1":"bindusare",
+    "title":"bindusare",
+    "description":"Lake Bindu-sarovara."
+}
+---
 
 ==== bindusare  ====
   * Lake Bindu-sarovara --- [[books:sb:3:25:5|SB 3.25.5]]

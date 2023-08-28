@@ -1,5 +1,11 @@
-~~Title:khaṇḍam~~
-{{description>the word khaṇḍa.}}
+---json
+{
+    "name":"khaṇḍam",
+    "h1":"khaṇḍam",
+    "title":"khaṇḍam",
+    "description":"the word khaṇḍa."
+}
+---
 
 ==== khaṇḍam  ====
   * the word //khaṇḍa// --- [[books:sb:4:19:23|SB 4.19.23]]

@@ -1,5 +1,11 @@
-~~Title:annaiḥ~~
-{{description>by preparations made with ghee for saintly persons.}}
+---json
+{
+    "name":"annaiḥ",
+    "h1":"annaiḥ",
+    "title":"annaiḥ",
+    "description":"by preparations made with ghee for saintly persons."
+}
+---
 
 ==== muni-annaiḥ  ====
   * by preparations made with ghee for saintly persons --- [[books:sb:7:15:7|SB 7.15.7]]

@@ -1,5 +1,11 @@
-~~Title:gayasya~~
-{{description>of Mahārāja Gaya.}}
+---json
+{
+    "name":"gayasya",
+    "h1":"gayasya",
+    "title":"gayasya",
+    "description":"of Mahārāja Gaya."
+}
+---
 
 ==== gayasya  ====
   * of Mahārāja Gaya --- [[books:sb:5:15:13|SB 5.15.13]]

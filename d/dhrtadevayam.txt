@@ -1,5 +1,11 @@
-~~Title:dhṛtadevāyām~~
-{{description>in the womb of the wife named Dhṛtadevā.}}
+---json
+{
+    "name":"dhṛtadevāyām",
+    "h1":"dhṛtadevāyām",
+    "title":"dhṛtadevāyām",
+    "description":"in the womb of the wife named Dhṛtadevā."
+}
+---
 
 ==== dhṛtadevāyām  ====
   * in the womb of the wife named Dhṛtadevā --- [[books:sb:9:24:50|SB 9.24.50]]

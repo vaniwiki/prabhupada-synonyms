@@ -1,5 +1,11 @@
-~~Title:haimam~~
-{{description>made of gold; shining like gold.}}
+---json
+{
+    "name":"haimam",
+    "h1":"haimam",
+    "title":"haimam",
+    "description":"made of gold; shining like gold."
+}
+---
 
 ==== haimam  ====
   * made of gold --- [[books:sb:4:15:14|SB 4.15.14]], [[books:sb:6:2:44|SB 6.2.44]], [[books:sb:8:20:17|SB 8.20.17]], [[books:sb:9:10:42-43|SB 9.10.42-43]]

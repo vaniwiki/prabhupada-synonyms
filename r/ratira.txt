@@ -1,5 +1,11 @@
-~~Title:ratira~~
-{{description>of attachment; of attraction.}}
+---json
+{
+    "name":"ratira",
+    "h1":"ratira",
+    "title":"ratira",
+    "description":"of attachment; of attraction."
+}
+---
 
 ==== ratira  ====
   * of attachment --- [[books:cc:madhya:19:177|Madhya 19.177]]

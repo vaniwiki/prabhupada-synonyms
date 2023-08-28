@@ -1,5 +1,11 @@
-~~Title:labdhena~~
-{{description>with what is achieved.}}
+---json
+{
+    "name":"labdhena",
+    "h1":"labdhena",
+    "title":"labdhena",
+    "description":"with what is achieved."
+}
+---
 
 ==== labdhena  ====
   * with what is achieved --- [[books:sb:3:28:2|SB 3.28.2]]

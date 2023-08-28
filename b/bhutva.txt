@@ -1,5 +1,11 @@
-~~Title:bhūtvā~~
-{{description>again taking birth; appearing; assuming; becoming; becoming so; being elevated to that post; being so (they should not have become like that); came into being; having become; manifesting; so becoming; so being; taking birth; will become.}}
+---json
+{
+    "name":"bhūtvā",
+    "h1":"bhūtvā",
+    "title":"bhūtvā",
+    "description":"again taking birth; appearing; assuming; becoming; becoming so; being elevated to that post; being so (they should not have become like that); came into being; having become; manifesting; so becoming; so being; taking birth; will become."
+}
+---
 
 ==== bhūtvā  ====
   * again taking birth --- [[books:sb:7:15:50-51|SB 7.15.50-51]]

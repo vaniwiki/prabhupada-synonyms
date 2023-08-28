@@ -1,5 +1,11 @@
-~~Title:avanīśāḥ~~
-{{description>and the kings of different planets.}}
+---json
+{
+    "name":"avanīśāḥ",
+    "h1":"avanīśāḥ",
+    "title":"avanīśāḥ",
+    "description":"and the kings of different planets."
+}
+---
 
 ==== avanīśāḥ  ====
   * and the kings of different planets --- [[books:sb:2:7:39|SB 2.7.39]]

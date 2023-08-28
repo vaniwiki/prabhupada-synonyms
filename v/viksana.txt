@@ -1,5 +1,11 @@
-~~Title:vīkṣaṇa~~
-{{description>being unable to see, he could not tolerate the transcendental happiness of the cowherd boys.}}
+---json
+{
+    "name":"vīkṣaṇa",
+    "h1":"vīkṣaṇa",
+    "title":"vīkṣaṇa",
+    "description":"being unable to see, he could not tolerate the transcendental happiness of the cowherd boys."
+}
+---
 
 ==== vīkṣaṇa-akṣamaḥ  ====
   * being unable to see, he could not tolerate the transcendental happiness of the cowherd boys --- [[books:sb:10:12:13|SB 10.12.13]]

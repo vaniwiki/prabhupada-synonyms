@@ -1,5 +1,11 @@
-~~Title:phalavān~~
-{{description>fruitful.}}
+---json
+{
+    "name":"phalavān",
+    "h1":"phalavān",
+    "title":"phalavān",
+    "description":"fruitful."
+}
+---
 
 ==== phalavān  ====
   * fruitful --- [[books:cc:antya:6:264|Antya 6.264]]

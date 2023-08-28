@@ -1,5 +1,11 @@
-~~Title:sasvatah~~
-{{description>eternal; permanent.}}
+---json
+{
+    "name":"sasvatah",
+    "h1":"sasvatah",
+    "title":"sasvatah",
+    "description":"eternal; permanent."
+}
+---
 
 ==== śāśvataḥ  ====
   * eternal --- [[books:sb:6:15:7|SB 6.15.7]]

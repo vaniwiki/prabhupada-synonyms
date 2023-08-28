@@ -1,5 +1,11 @@
-~~Title:srak~~
-{{description>a flower garland; decorating the body with garlands of flowers; flower garlands; garland; garlands; having a garland; in which there was a garland; of flower garlands; the plate for sacrifice; with a garland; with flower garlands; with garlands.}}
+---json
+{
+    "name":"srak",
+    "h1":"srak",
+    "title":"srak",
+    "description":"a flower garland; decorating the body with garlands of flowers; flower garlands; garland; garlands; having a garland; in which there was a garland; of flower garlands; the plate for sacrifice; with a garland; with flower garlands; with garlands."
+}
+---
 
 ==== srak  ====
   * a flower garland --- [[books:sb:5:9:15|SB 5.9.15]]

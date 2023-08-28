@@ -1,5 +1,11 @@
-~~Title:rāga~~
-{{description>attachment; attachment for material things; attachments; attraction; love; of attachment; of love; spontaneous devotion; spontaneous love; whose luster.}}
+---json
+{
+    "name":"rāga",
+    "h1":"rāga",
+    "title":"rāga",
+    "description":"attachment; attachment for material things; attachments; attraction; love; of attachment; of love; spontaneous devotion; spontaneous love; whose luster."
+}
+---
 
 ==== rāga  ====
   * attachment --- [[books:bg:2:56|Bg. 2.56]], [[books:bg:2:64|Bg. 2.64]], [[books:bg:3:34|Bg. 3.34]], [[books:bg:4:10|Bg. 4.10]], [[books:bg:7:11|Bg. 7.11]], [[books:bg:17:5-6|Bg. 17.5-6]], [[books:sb:1:9:26|SB 1.9.26]], [[books:sb:5:14:27|SB 5.14.27]], [[books:sb:7:13:34|SB 7.13.34]], [[books:cc:adi:7:143|Ādi 7.143]], [[books:cc:madhya:19:178|Madhya 19.178]], [[books:cc:madhya:23:42|Madhya 23.42]]

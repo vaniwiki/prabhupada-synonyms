@@ -1,5 +1,11 @@
-~~Title:strīkam~~
-{{description>with their wives.}}
+---json
+{
+    "name":"strīkam",
+    "h1":"strīkam",
+    "title":"strīkam",
+    "description":"with their wives."
+}
+---
 
 ==== sa-strīkam  ====
   * with their wives --- [[books:sb:9:6:19|SB 9.6.19]]

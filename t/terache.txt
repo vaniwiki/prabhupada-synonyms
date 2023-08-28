@@ -1,5 +1,11 @@
-~~Title:terache~~
-{{description>at an angle; crooked.}}
+---json
+{
+    "name":"terache",
+    "h1":"terache",
+    "title":"terache",
+    "description":"at an angle; crooked."
+}
+---
 
 ==== terache  ====
   * at an angle --- [[books:cc:madhya:9:56|Madhya 9.56]]

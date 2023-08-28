@@ -1,5 +1,11 @@
-~~Title:calāpi~~
-{{description>moving.}}
+---json
+{
+    "name":"calāpi",
+    "h1":"calāpi",
+    "title":"calāpi",
+    "description":"moving."
+}
+---
 
 ==== calāpi  ====
   * moving --- [[books:sb:1:11:33|SB 1.11.33]]

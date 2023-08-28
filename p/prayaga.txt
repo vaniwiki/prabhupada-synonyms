@@ -1,5 +1,11 @@
-~~Title:prayāga~~
-{{description>Allahabad; Prayāga; the holy place named Prayāga; to Allahabad; to Prayāga.}}
+---json
+{
+    "name":"prayāga",
+    "h1":"prayāga",
+    "title":"prayāga",
+    "description":"Allahabad; Prayāga; the holy place named Prayāga; to Allahabad; to Prayāga."
+}
+---
 
 ==== prayāga  ====
   * Allahabad --- [[books:cc:madhya:5:11|Madhya 5.11]]

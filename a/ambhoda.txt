@@ -1,5 +1,11 @@
-~~Title:ambhoda~~
-{{description>of clouds.}}
+---json
+{
+    "name":"ambhoda",
+    "h1":"ambhoda",
+    "title":"ambhoda",
+    "description":"of clouds."
+}
+---
 
 ==== ambhoda  ====
   * of clouds --- [[books:sb:3:17:6|SB 3.17.6]]

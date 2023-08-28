@@ -1,5 +1,11 @@
-~~Title:dekhiñā~~
-{{description>by seeing; seeing.}}
+---json
+{
+    "name":"dekhiñā",
+    "h1":"dekhiñā",
+    "title":"dekhiñā",
+    "description":"by seeing; seeing."
+}
+---
 
 ==== dekhiñā  ====
   * by seeing --- [[books:cc:madhya:3:109|Madhya 3.109]], [[books:cc:madhya:5:117|Madhya 5.117]]

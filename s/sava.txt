@@ -1,5 +1,11 @@
-~~Title:sava~~
-{{description>dead bodies.}}
+---json
+{
+    "name":"sava",
+    "h1":"sava",
+    "title":"sava",
+    "description":"dead bodies."
+}
+---
 
 ==== śava-śayana  ====
   * dead bodies --- [[books:sb:4:7:33|SB 4.7.33]]

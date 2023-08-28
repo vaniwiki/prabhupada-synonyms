@@ -1,5 +1,11 @@
-~~Title:kāreha~~
-{{description>to anyone.}}
+---json
+{
+    "name":"kāreha",
+    "h1":"kāreha",
+    "title":"kāreha",
+    "description":"to anyone."
+}
+---
 
 ==== kāreha  ====
   * to anyone --- [[books:cc:antya:2:146|Antya 2.146]]

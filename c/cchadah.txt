@@ -1,5 +1,11 @@
-~~Title:cchadāḥ~~
-{{description>situated behind a cover of clouds.}}
+---json
+{
+    "name":"cchadāḥ",
+    "h1":"cchadāḥ",
+    "title":"cchadāḥ",
+    "description":"situated behind a cover of clouds."
+}
+---
 
 ==== ghana-cchadāḥ  ====
   * situated behind a cover of clouds --- [[books:sb:7:8:26|SB 7.8.26]]

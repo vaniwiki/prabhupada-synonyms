@@ -1,5 +1,11 @@
-~~Title:laghiṣṭha~~
-{{description>lower.}}
+---json
+{
+    "name":"laghiṣṭha",
+    "h1":"laghiṣṭha",
+    "title":"laghiṣṭha",
+    "description":"lower."
+}
+---
 
 ==== laghiṣṭha  ====
   * lower --- [[books:cc:adi:5:205|Ādi 5.205]]

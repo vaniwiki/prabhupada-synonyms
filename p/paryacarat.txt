@@ -1,5 +1,11 @@
-~~Title:paryacarat~~
-{{description>attended upon; rendered service; served; served in devotion; she served; worshiped.}}
+---json
+{
+    "name":"paryacarat",
+    "h1":"paryacarat",
+    "title":"paryacarat",
+    "description":"attended upon; rendered service; served; served in devotion; she served; worshiped."
+}
+---
 
 ==== paryacarat  ====
   * attended upon --- [[books:sb:6:18:56|SB 6.18.56]]

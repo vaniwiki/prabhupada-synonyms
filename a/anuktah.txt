@@ -1,5 +1,11 @@
-~~Title:anūktaḥ~~
-{{description>named.}}
+---json
+{
+    "name":"anūktaḥ",
+    "h1":"anūktaḥ",
+    "title":"anūktaḥ",
+    "description":"named."
+}
+---
 
 ==== anūktaḥ  ====
   * named --- [[books:sb:2:7:2|SB 2.7.2]]

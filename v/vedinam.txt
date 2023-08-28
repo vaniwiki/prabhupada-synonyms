@@ -1,5 +1,11 @@
-~~Title:vedinām~~
-{{description>persons who understand only sense gratification.}}
+---json
+{
+    "name":"vedinām",
+    "h1":"vedinām",
+    "title":"vedinām",
+    "description":"persons who understand only sense gratification."
+}
+---
 
 ==== artha-vedinām  ====
   * persons who understand only sense gratification --- [[books:sb:4:22:13|SB 4.22.13]]

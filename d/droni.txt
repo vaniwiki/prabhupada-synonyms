@@ -1,5 +1,11 @@
-~~Title:droni~~
-{{description>with valleys.}}
+---json
+{
+    "name":"droni",
+    "h1":"droni",
+    "title":"droni",
+    "description":"with valleys."
+}
+---
 
 ==== droṇi  ====
   * with valleys --- [[books:sb:8:2:7|SB 8.2.7]]

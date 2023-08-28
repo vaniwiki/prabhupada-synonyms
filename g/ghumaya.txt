@@ -1,5 +1,11 @@
-~~Title:ghumāya~~
-{{description>sleeps.}}
+---json
+{
+    "name":"ghumāya",
+    "h1":"ghumāya",
+    "title":"ghumāya",
+    "description":"sleeps."
+}
+---
 
 ==== ghumāya  ====
   * sleeps --- [[books:cc:antya:19:73|Antya 19.73]]

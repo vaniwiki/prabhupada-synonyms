@@ -1,5 +1,11 @@
-~~Title:khanitram~~
-{{description>trouble for digging.}}
+---json
+{
+    "name":"khanitram",
+    "h1":"khanitram",
+    "title":"khanitram",
+    "description":"trouble for digging."
+}
+---
 
 ==== khanitram  ====
   * trouble for digging --- [[books:sb:2:7:48|SB 2.7.48]]

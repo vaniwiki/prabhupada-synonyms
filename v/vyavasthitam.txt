@@ -1,5 +1,11 @@
-~~Title:vyavasthitam~~
-{{description>Kṛṣṇa was sitting; standing in position.}}
+---json
+{
+    "name":"vyavasthitam",
+    "h1":"vyavasthitam",
+    "title":"vyavasthitam",
+    "description":"Kṛṣṇa was sitting; standing in position."
+}
+---
 
 ==== vyavasthitam  ====
   * Kṛṣṇa was sitting --- [[books:sb:10:9:8|SB 10.9.8]]

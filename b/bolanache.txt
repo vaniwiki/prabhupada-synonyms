@@ -1,5 +1,11 @@
-~~Title:bolāñāche~~
-{{description>the Lord has called.}}
+---json
+{
+    "name":"bolāñāche",
+    "h1":"bolāñāche",
+    "title":"bolāñāche",
+    "description":"the Lord has called."
+}
+---
 
 ==== prabhu bolāñāche  ====
   * the Lord has called --- [[books:cc:antya:4:119|Antya 4.119]]

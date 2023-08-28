@@ -1,5 +1,11 @@
-~~Title:prasīdanti~~
-{{description>become pleased; they are pleased.}}
+---json
+{
+    "name":"prasīdanti",
+    "h1":"prasīdanti",
+    "title":"prasīdanti",
+    "description":"become pleased; they are pleased."
+}
+---
 
 ==== prasīdanti  ====
   * become pleased --- [[books:sb:4:22:8|SB 4.22.8]]

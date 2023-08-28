@@ -1,5 +1,11 @@
-~~Title:dhvajinīm~~
-{{description>soldiers; the soldiers.}}
+---json
+{
+    "name":"dhvajinīm",
+    "h1":"dhvajinīm",
+    "title":"dhvajinīm",
+    "description":"soldiers; the soldiers."
+}
+---
 
 ==== dhvajinīm  ====
   * soldiers --- [[books:sb:8:15:10-11|SB 8.15.10-11]]

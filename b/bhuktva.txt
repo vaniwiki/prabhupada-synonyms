@@ -1,5 +1,11 @@
-~~Title:bhuktvā~~
-{{description>after eating; after eating the food; after enjoying; after partaking; enjoying; having undergone.}}
+---json
+{
+    "name":"bhuktvā",
+    "h1":"bhuktvā",
+    "title":"bhuktvā",
+    "description":"after eating; after eating the food; after enjoying; after partaking; enjoying; having undergone."
+}
+---
 
 ==== bhuktvā  ====
   * after eating --- [[books:sb:7:13:38|SB 7.13.38]]

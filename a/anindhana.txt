@@ -1,5 +1,11 @@
-~~Title:anindhana~~
-{{description>without flame or smoke.}}
+---json
+{
+    "name":"anindhana",
+    "h1":"anindhana",
+    "title":"anindhana",
+    "description":"without flame or smoke."
+}
+---
 
 ==== anindhana  ====
   * without flame or smoke --- [[books:sb:7:15:34|SB 7.15.34]]

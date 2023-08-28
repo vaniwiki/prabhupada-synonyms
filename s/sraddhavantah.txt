@@ -1,5 +1,11 @@
-~~Title:śraddhāvantaḥ~~
-{{description>with faith and devotion.}}
+---json
+{
+    "name":"śraddhāvantaḥ",
+    "h1":"śraddhāvantaḥ",
+    "title":"śraddhāvantaḥ",
+    "description":"with faith and devotion."
+}
+---
 
 ==== śraddhāvantaḥ  ====
   * with faith and devotion --- [[books:bg:3:31|Bg. 3.31]]

@@ -1,5 +1,11 @@
-~~Title:īśvaratvam~~
-{{description>controlling power gained by the practice of mystic yoga.}}
+---json
+{
+    "name":"īśvaratvam",
+    "h1":"īśvaratvam",
+    "title":"īśvaratvam",
+    "description":"controlling power gained by the practice of mystic yoga."
+}
+---
 
 ==== yoga-īśvaratvam  ====
   * controlling power gained by the practice of mystic //yoga// --- [[books:sb:9:15:17-19|SB 9.15.17-19]]

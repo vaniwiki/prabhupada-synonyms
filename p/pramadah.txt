@@ -1,5 +1,11 @@
-~~Title:pramadah~~
-{{description>maddened.}}
+---json
+{
+    "name":"pramadah",
+    "h1":"pramadah",
+    "title":"pramadah",
+    "description":"maddened."
+}
+---
 
 ==== pramadaḥ  ====
   * maddened --- [[books:cc:antya:14:120|Antya 14.120]]

@@ -1,5 +1,11 @@
-~~Title:vinaṣṭam~~
-{{description>devastated.}}
+---json
+{
+    "name":"vinaṣṭam",
+    "h1":"vinaṣṭam",
+    "title":"vinaṣṭam",
+    "description":"devastated."
+}
+---
 
 ==== vinaṣṭam  ====
   * devastated --- [[books:sb:2:7:5|SB 2.7.5]]

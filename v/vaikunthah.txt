@@ -1,5 +1,11 @@
-~~Title:vaikuṇṭhaḥ~~
-{{description>a Vaikuṇṭha planet; Lord Vaikuṇṭha; the Lord; the Lord of Vaikuṇṭha.}}
+---json
+{
+    "name":"vaikuṇṭhaḥ",
+    "h1":"vaikuṇṭhaḥ",
+    "title":"vaikuṇṭhaḥ",
+    "description":"a Vaikuṇṭha planet; Lord Vaikuṇṭha; the Lord; the Lord of Vaikuṇṭha."
+}
+---
 
 ==== vaikuṇṭhaḥ  ====
   * a Vaikuṇṭha planet --- [[books:sb:8:5:5|SB 8.5.5]]

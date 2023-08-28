@@ -1,5 +1,11 @@
-~~Title:pavanah~~
-{{description>Pavana; the demigod of the air; the life air; the wind.}}
+---json
+{
+    "name":"pavanah",
+    "h1":"pavanah",
+    "title":"pavanah",
+    "description":"Pavana; the demigod of the air; the life air; the wind."
+}
+---
 
 ==== pavanaḥ  ====
   * Pavana --- [[books:sb:8:1:23|SB 8.1.23]]

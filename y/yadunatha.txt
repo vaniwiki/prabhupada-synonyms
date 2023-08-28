@@ -1,5 +1,11 @@
-~~Title:yadunātha~~
-{{description>of the name Yadunātha.}}
+---json
+{
+    "name":"yadunātha",
+    "h1":"yadunātha",
+    "title":"yadunātha",
+    "description":"of the name Yadunātha."
+}
+---
 
 ==== yadunātha  ====
   * of the name Yadunātha --- [[books:cc:adi:10:80|Ādi 10.80]]

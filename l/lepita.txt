@@ -1,5 +1,11 @@
-~~Title:lepita~~
-{{description>smeared.}}
+---json
+{
+    "name":"lepita",
+    "h1":"lepita",
+    "title":"lepita",
+    "description":"smeared."
+}
+---
 
 ==== lepita  ====
   * smeared --- [[books:cc:adi:5:187|Ādi 5.187]]

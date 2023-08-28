@@ -1,5 +1,11 @@
-~~Title:asyatah~~
-{{description>for the supreme annihilator; pierced by your discharged arrows.}}
+---json
+{
+    "name":"asyatah",
+    "h1":"asyatah",
+    "title":"asyatah",
+    "description":"for the supreme annihilator; pierced by your discharged arrows."
+}
+---
 
 ==== asyataḥ  ====
   * for the supreme annihilator --- [[books:sb:8:22:20|SB 8.22.20]]

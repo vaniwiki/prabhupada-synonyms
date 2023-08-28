@@ -1,5 +1,11 @@
-~~Title:saranam~~
-{{description>Sāraṇa.}}
+---json
+{
+    "name":"saranam",
+    "h1":"saranam",
+    "title":"saranam",
+    "description":"Sāraṇa."
+}
+---
 
 ==== sāraṇam  ====
   * Sāraṇa --- [[books:sb:9:24:46|SB 9.24.46]]

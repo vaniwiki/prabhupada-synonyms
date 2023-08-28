@@ -1,5 +1,11 @@
-~~Title:ācaritaiḥ~~
-{{description>by auspicious activities.}}
+---json
+{
+    "name":"ācaritaiḥ",
+    "h1":"ācaritaiḥ",
+    "title":"ācaritaiḥ",
+    "description":"by auspicious activities."
+}
+---
 
 ==== maṅgala-ācaritaiḥ  ====
   * by auspicious activities --- [[books:cc:adi:6:61|Ādi 6.61]]

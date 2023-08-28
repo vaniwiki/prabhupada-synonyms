@@ -1,5 +1,11 @@
-~~Title:santoṣite~~
-{{description>to satisfy.}}
+---json
+{
+    "name":"santoṣite",
+    "h1":"santoṣite",
+    "title":"santoṣite",
+    "description":"to satisfy."
+}
+---
 
 ==== santoṣite  ====
   * to satisfy --- [[books:cc:antya:4:165|Antya 4.165]]

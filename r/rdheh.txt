@@ -1,5 +1,11 @@
-~~Title:ṛdheḥ~~
-{{description>because of an increase of affection.}}
+---json
+{
+    "name":"ṛdheḥ",
+    "h1":"ṛdheḥ",
+    "title":"ṛdheḥ",
+    "description":"because of an increase of affection."
+}
+---
 
 ==== prema-ṛdheḥ  ====
   * because of an increase of affection --- [[books:sb:10:13:35|SB 10.13.35]]

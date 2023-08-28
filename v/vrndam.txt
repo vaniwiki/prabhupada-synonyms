@@ -1,5 +1,11 @@
-~~Title:vṛndam~~
-{{description>to the group.}}
+---json
+{
+    "name":"vṛndam",
+    "h1":"vṛndam",
+    "title":"vṛndam",
+    "description":"to the group."
+}
+---
 
 ==== vṛndam  ====
   * to the group --- [[books:cc:antya:1:160|Antya 1.160]]

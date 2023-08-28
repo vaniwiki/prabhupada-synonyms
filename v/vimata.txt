@@ -1,5 +1,11 @@
-~~Title:vimatā~~
-{{description>disrespected.}}
+---json
+{
+    "name":"vimatā",
+    "h1":"vimatā",
+    "title":"vimatā",
+    "description":"disrespected."
+}
+---
 
 ==== vimatā  ====
   * disrespected --- [[books:sb:4:4:29|SB 4.4.29]]

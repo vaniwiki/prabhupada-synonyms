@@ -1,5 +1,11 @@
-~~Title:cicchiduḥ~~
-{{description>broke to pieces; cut down; cut off; pierced to pieces.}}
+---json
+{
+    "name":"cicchiduḥ",
+    "h1":"cicchiduḥ",
+    "title":"cicchiduḥ",
+    "description":"broke to pieces; cut down; cut off; pierced to pieces."
+}
+---
 
 ==== cicchiduḥ  ====
   * broke to pieces --- [[books:sb:6:10:26|SB 6.10.26]]

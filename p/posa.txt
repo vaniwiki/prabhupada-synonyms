@@ -1,5 +1,11 @@
-~~Title:poṣa~~
-{{description>maintenance.}}
+---json
+{
+    "name":"poṣa",
+    "h1":"poṣa",
+    "title":"poṣa",
+    "description":"maintenance."
+}
+---
 
 ==== poṣa  ====
   * maintenance --- [[books:cc:adi:17:30|Ādi 17.30]]

@@ -1,5 +1,11 @@
-~~Title:ekeka~~
-{{description>each and every.}}
+---json
+{
+    "name":"ekeka",
+    "h1":"ekeka",
+    "title":"ekeka",
+    "description":"each and every."
+}
+---
 
 ==== ekeka  ====
   * each and every --- [[books:cc:antya:18:52|Antya 18.52]]

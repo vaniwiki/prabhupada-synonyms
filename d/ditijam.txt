@@ -1,5 +1,11 @@
-~~Title:ditijam~~
-{{description>the great demon.}}
+---json
+{
+    "name":"ditijam",
+    "h1":"ditijam",
+    "title":"ditijam",
+    "description":"the great demon."
+}
+---
 
 ==== ditijam  ====
   * the great demon --- [[books:sb:8:24:61|SB 8.24.61]]

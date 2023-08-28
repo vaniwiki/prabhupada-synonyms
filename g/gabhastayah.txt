@@ -1,5 +1,11 @@
-~~Title:gabhastayaḥ~~
-{{description>the rays; the shining particles.}}
+---json
+{
+    "name":"gabhastayaḥ",
+    "h1":"gabhastayaḥ",
+    "title":"gabhastayaḥ",
+    "description":"the rays; the shining particles."
+}
+---
 
 ==== gabhastayaḥ  ====
   * the rays --- [[books:sb:5:20:37|SB 5.20.37]]

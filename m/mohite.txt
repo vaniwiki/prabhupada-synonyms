@@ -1,5 +1,11 @@
-~~Title:mohite~~
-{{description>could not attract.}}
+---json
+{
+    "name":"mohite",
+    "h1":"mohite",
+    "title":"mohite",
+    "description":"could not attract."
+}
+---
 
 ==== mohite nāriluṅ  ====
   * could not attract --- [[books:cc:antya:3:251|Antya 3.251]]

@@ -1,5 +1,11 @@
-~~Title:haraṇam~~
-{{description>killing a living being.}}
+---json
+{
+    "name":"haraṇam",
+    "h1":"haraṇam",
+    "title":"haraṇam",
+    "description":"killing a living being."
+}
+---
 
 ==== jīva-haraṇam  ====
   * killing a living being --- [[books:sb:2:7:27|SB 2.7.27]]

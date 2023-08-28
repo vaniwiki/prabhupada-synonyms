@@ -1,5 +1,11 @@
-~~Title:pattibhiḥ~~
-{{description>and by infantry soldiers; and with infantry; with the infantry soldiers.}}
+---json
+{
+    "name":"pattibhiḥ",
+    "h1":"pattibhiḥ",
+    "title":"pattibhiḥ",
+    "description":"and by infantry soldiers; and with infantry; with the infantry soldiers."
+}
+---
 
 ==== pattibhiḥ  ====
   * and by infantry soldiers --- [[books:cc:madhya:15:269|Madhya 15.269]]

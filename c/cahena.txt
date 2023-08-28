@@ -1,5 +1,11 @@
-~~Title:cāhena~~
-{{description>he wants; looks; wanted; wants.}}
+---json
+{
+    "name":"cāhena",
+    "h1":"cāhena",
+    "title":"cāhena",
+    "description":"he wants; looks; wanted; wants."
+}
+---
 
 ==== cāhena  ====
   * he wants --- [[books:cc:madhya:6:117|Madhya 6.117]]

@@ -1,5 +1,11 @@
-~~Title:avicala~~
-{{description>without being disturbed.}}
+---json
+{
+    "name":"avicala",
+    "h1":"avicala",
+    "title":"avicala",
+    "description":"without being disturbed."
+}
+---
 
 ==== avicalā  ====
   * without being disturbed --- [[books:cc:antya:1:146|Antya 1.146]]

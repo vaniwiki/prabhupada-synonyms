@@ -1,5 +1,11 @@
-~~Title:viśaḥ~~
-{{description>material opulence or riches; means of living by production and distribution.}}
+---json
+{
+    "name":"viśaḥ",
+    "h1":"viśaḥ",
+    "title":"viśaḥ",
+    "description":"material opulence or riches; means of living by production and distribution."
+}
+---
 
 ==== viśaḥ  ====
   * material opulence or riches --- [[books:sb:8:22:24|SB 8.22.24]]

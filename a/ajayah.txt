@@ -1,5 +1,11 @@
-~~Title:ajayaḥ~~
-{{description>defeat.}}
+---json
+{
+    "name":"ajayaḥ",
+    "h1":"ajayaḥ",
+    "title":"ajayaḥ",
+    "description":"defeat."
+}
+---
 
 ==== ajayaḥ  ====
   * defeat --- [[books:sb:8:11:7|SB 8.11.7]]

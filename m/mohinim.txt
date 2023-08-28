@@ -1,5 +1,11 @@
-~~Title:mohinīm~~
-{{description>bewildering.}}
+---json
+{
+    "name":"mohinīm",
+    "h1":"mohinīm",
+    "title":"mohinīm",
+    "description":"bewildering."
+}
+---
 
 ==== mohinīm  ====
   * bewildering --- [[books:bg:9:12|Bg. 9.12]]

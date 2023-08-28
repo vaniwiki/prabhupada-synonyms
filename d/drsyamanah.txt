@@ -1,5 +1,11 @@
-~~Title:dṛśyamānāḥ~~
-{{description>being perceived.}}
+---json
+{
+    "name":"dṛśyamānāḥ",
+    "h1":"dṛśyamānāḥ",
+    "title":"dṛśyamānāḥ",
+    "description":"being perceived."
+}
+---
 
 ==== dṛśyamānāḥ  ====
   * being perceived --- [[books:sb:6:15:24|SB 6.15.24]]

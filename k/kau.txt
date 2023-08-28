@@ -1,5 +1,11 @@
-~~Title:kau~~
-{{description>who.}}
+---json
+{
+    "name":"kau",
+    "h1":"kau",
+    "title":"kau",
+    "description":"who."
+}
+---
 
 ==== kau  ====
   * who --- [[books:sb:6:15:10|SB 6.15.10]]

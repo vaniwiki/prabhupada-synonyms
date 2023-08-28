@@ -1,5 +1,11 @@
-~~Title:mayyau~~
-{{description>full of mystic power.}}
+---json
+{
+    "name":"mayyau",
+    "h1":"mayyau",
+    "title":"mayyau",
+    "description":"full of mystic power."
+}
+---
 
 ==== yoga-mayyau  ====
   * full of mystic power --- [[books:sb:4:15:18|SB 4.15.18]]

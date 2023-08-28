@@ -1,5 +1,11 @@
-~~Title:bahūdanau~~
-{{description>of the name Bahūdana.}}
+---json
+{
+    "name":"bahūdanau",
+    "h1":"bahūdanau",
+    "title":"bahūdanau",
+    "description":"of the name Bahūdana."
+}
+---
 
 ==== bahūdanau  ====
   * of the name Bahūdana --- [[books:sb:4:25:49|SB 4.25.49]]

@@ -1,5 +1,11 @@
-~~Title:uthila~~
-{{description>arose; awakened; got up; grew; intensified; rose; stood up; there arose.}}
+---json
+{
+    "name":"uthila",
+    "h1":"uthila",
+    "title":"uthila",
+    "description":"arose; awakened; got up; grew; intensified; rose; stood up; there arose."
+}
+---
 
 ==== uṭhila  ====
   * arose --- [[books:cc:madhya:1:276|Madhya 1.276]], [[books:cc:madhya:2:57|Madhya 2.57]], [[books:cc:madhya:2:60|Madhya 2.60]], [[books:cc:antya:6:177|Antya 6.177]], [[books:cc:antya:18:95|Antya 18.95]], [[books:cc:antya:18:96|Antya 18.96]]

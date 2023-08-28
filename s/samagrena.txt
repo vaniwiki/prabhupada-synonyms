@@ -1,5 +1,11 @@
-~~Title:samagreṇa~~
-{{description>all.}}
+---json
+{
+    "name":"samagreṇa",
+    "h1":"samagreṇa",
+    "title":"samagreṇa",
+    "description":"all."
+}
+---
 
 ==== samagreṇa  ====
   * all --- [[books:sb:3:32:27|SB 3.32.27]]

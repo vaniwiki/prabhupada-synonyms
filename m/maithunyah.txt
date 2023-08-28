@@ -1,5 +1,11 @@
-~~Title:maithunyaḥ~~
-{{description>companions for sexual intercourse.}}
+---json
+{
+    "name":"maithunyaḥ",
+    "h1":"maithunyaḥ",
+    "title":"maithunyaḥ",
+    "description":"companions for sexual intercourse."
+}
+---
 
 ==== maithunyaḥ  ====
   * companions for sexual intercourse --- [[books:sb:4:27:14|SB 4.27.14]]

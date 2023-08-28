@@ -1,5 +1,11 @@
-~~Title:siṁheśvara~~
-{{description>of the name Siṁheśvara; Siṁheśvara.}}
+---json
+{
+    "name":"siṁheśvara",
+    "h1":"siṁheśvara",
+    "title":"siṁheśvara",
+    "description":"of the name Siṁheśvara; Siṁheśvara."
+}
+---
 
 ==== siṁheśvara  ====
   * of the name Siṁheśvara --- [[books:cc:adi:10:148|Ādi 10.148]]

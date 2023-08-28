@@ -1,5 +1,11 @@
-~~Title:cāturī~~
-{{description>all this jugglery; artistry; devices.}}
+---json
+{
+    "name":"cāturī",
+    "h1":"cāturī",
+    "title":"cāturī",
+    "description":"all this jugglery; artistry; devices."
+}
+---
 
 ==== cāturī  ====
   * all this jugglery --- [[books:cc:madhya:3:77|Madhya 3.77]]

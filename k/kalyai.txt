@@ -1,5 +1,11 @@
-~~Title:kālyai~~
-{{description>unto the goddess known as Bhadra Kālī.}}
+---json
+{
+    "name":"kālyai",
+    "h1":"kālyai",
+    "title":"kālyai",
+    "description":"unto the goddess known as Bhadra Kālī."
+}
+---
 
 ==== bhadra-kālyai  ====
   * unto the goddess known as Bhadra Kālī --- [[books:sb:5:9:12|SB 5.9.12]]

@@ -1,5 +1,11 @@
-~~Title:daḍira~~
-{{description>by bonds of ropes.}}
+---json
+{
+    "name":"daḍira",
+    "h1":"daḍira",
+    "title":"daḍira",
+    "description":"by bonds of ropes."
+}
+---
 
 ==== daḍira bandhane  ====
   * by bonds of ropes --- [[books:cc:antya:6:40|Antya 6.40]]

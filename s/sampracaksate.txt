@@ -1,5 +1,11 @@
-~~Title:sampracakṣate~~
-{{description>also say that Kṛṣṇa is Vāsudeva.}}
+---json
+{
+    "name":"sampracakṣate",
+    "h1":"sampracakṣate",
+    "title":"sampracakṣate",
+    "description":"also say that Kṛṣṇa is Vāsudeva."
+}
+---
 
 ==== sampracakṣate  ====
   * also say that Kṛṣṇa is Vāsudeva --- [[books:sb:10:8:14|SB 10.8.14]]

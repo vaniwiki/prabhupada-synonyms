@@ -1,5 +1,11 @@
-~~Title:nivṛtta~~
-{{description>averted from; being stopped; completely transcendental to the actions of the material modes; free from; freed; freed from; released from; retired; stopped; transcended; without endeavor.}}
+---json
+{
+    "name":"nivṛtta",
+    "h1":"nivṛtta",
+    "title":"nivṛtta",
+    "description":"averted from; being stopped; completely transcendental to the actions of the material modes; free from; freed; freed from; released from; retired; stopped; transcended; without endeavor."
+}
+---
 
 ==== nivṛtta  ====
   * averted from --- [[books:sb:3:14:37|SB 3.14.37]]

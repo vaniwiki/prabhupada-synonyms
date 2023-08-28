@@ -1,5 +1,11 @@
-~~Title:sakaruṇaḥ~~
-{{description>compassionate.}}
+---json
+{
+    "name":"sakaruṇaḥ",
+    "h1":"sakaruṇaḥ",
+    "title":"sakaruṇaḥ",
+    "description":"compassionate."
+}
+---
 
 ==== sakaruṇaḥ  ====
   * compassionate --- [[books:sb:1:13:13|SB 1.13.13]]

@@ -1,5 +1,11 @@
-~~Title:bhinnatti~~
-{{description>He breaks.}}
+---json
+{
+    "name":"bhinnatti",
+    "h1":"bhinnatti",
+    "title":"bhinnatti",
+    "description":"He breaks."
+}
+---
 
 ==== bhinnatti  ====
   * He breaks --- [[books:sb:10:8:29|SB 10.8.29]]

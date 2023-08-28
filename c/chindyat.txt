@@ -1,5 +1,11 @@
-~~Title:chindyāt~~
-{{description>he should cut; must cut off; one should cut off.}}
+---json
+{
+    "name":"chindyāt",
+    "h1":"chindyāt",
+    "title":"chindyāt",
+    "description":"he should cut; must cut off; one should cut off."
+}
+---
 
 ==== chindyāt  ====
   * he should cut --- [[books:sb:4:4:17|SB 4.4.17]]

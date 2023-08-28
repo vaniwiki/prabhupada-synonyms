@@ -1,5 +1,11 @@
-~~Title:bhajatāt~~
-{{description>let it experience.}}
+---json
+{
+    "name":"bhajatāt",
+    "h1":"bhajatāt",
+    "title":"bhajatāt",
+    "description":"let it experience."
+}
+---
 
 ==== bhajatāt  ====
   * let it experience --- [[books:sb:5:18:9|SB 5.18.9]]

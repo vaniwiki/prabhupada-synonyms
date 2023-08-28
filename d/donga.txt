@@ -1,5 +1,11 @@
-~~Title:ḍoṅgā~~
-{{description>pots; pots made of leaves.}}
+---json
+{
+    "name":"ḍoṅgā",
+    "h1":"ḍoṅgā",
+    "title":"ḍoṅgā",
+    "description":"pots; pots made of leaves."
+}
+---
 
 ==== ḍoṅgā  ====
   * pots --- [[books:cc:madhya:3:51|Madhya 3.51]], [[books:cc:madhya:3:52|Madhya 3.52]], [[books:cc:madhya:15:209|Madhya 15.209]]

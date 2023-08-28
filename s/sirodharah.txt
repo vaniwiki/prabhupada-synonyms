@@ -1,5 +1,11 @@
-~~Title:śirodharaḥ~~
-{{description>his head.}}
+---json
+{
+    "name":"śirodharaḥ",
+    "h1":"śirodharaḥ",
+    "title":"śirodharaḥ",
+    "description":"his head."
+}
+---
 
 ==== śirodharaḥ  ====
   * his head --- [[books:sb:5:1:20|SB 5.1.20]]

@@ -1,5 +1,11 @@
-~~Title:unmadān~~
-{{description>maddened.}}
+---json
+{
+    "name":"unmadān",
+    "h1":"unmadān",
+    "title":"unmadān",
+    "description":"maddened."
+}
+---
 
 ==== unmadān  ====
   * maddened --- [[books:cc:adi:11:1|Ādi 11.1]]

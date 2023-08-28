@@ -1,5 +1,11 @@
-~~Title:janmāṣṭamī~~
-{{description>the birthday ceremony of Lord Kṛṣṇa.}}
+---json
+{
+    "name":"janmāṣṭamī",
+    "h1":"janmāṣṭamī",
+    "title":"janmāṣṭamī",
+    "description":"the birthday ceremony of Lord Kṛṣṇa."
+}
+---
 
 ==== janmāṣṭamī  ====
   * the birthday ceremony of Lord Kṛṣṇa --- [[books:cc:madhya:24:341|Madhya 24.341]]

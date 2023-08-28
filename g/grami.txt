@@ -1,5 +1,11 @@
-~~Title:grāmī~~
-{{description>from the villages; of the village.}}
+---json
+{
+    "name":"grāmī",
+    "h1":"grāmī",
+    "title":"grāmī",
+    "description":"from the villages; of the village."
+}
+---
 
 ==== grāmī  ====
   * from the villages --- [[books:cc:madhya:25:173|Madhya 25.173]]

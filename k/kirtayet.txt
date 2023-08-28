@@ -1,5 +1,11 @@
-~~Title:kīrtayet~~
-{{description>chants; chants or repeats; narrates and chants; one should chant.}}
+---json
+{
+    "name":"kīrtayet",
+    "h1":"kīrtayet",
+    "title":"kīrtayet",
+    "description":"chants; chants or repeats; narrates and chants; one should chant."
+}
+---
 
 ==== kīrtayet  ====
   * chants --- [[books:sb:7:10:14|SB 7.10.14]]

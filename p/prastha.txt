@@ -1,5 +1,11 @@
-~~Title:prastha~~
-{{description>measuring one prastha.}}
+---json
+{
+    "name":"prastha",
+    "h1":"prastha",
+    "title":"prastha",
+    "description":"measuring one prastha."
+}
+---
 
 ==== prastha  ====
   * measuring one //prastha// --- [[books:sb:3:11:9|SB 3.11.9]]

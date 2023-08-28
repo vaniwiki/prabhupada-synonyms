@@ -1,5 +1,11 @@
-~~Title:tatrāpi~~
-{{description>although (being a śūdra); in that period.}}
+---json
+{
+    "name":"tatrāpi",
+    "h1":"tatrāpi",
+    "title":"tatrāpi",
+    "description":"although (being a śūdra); in that period."
+}
+---
 
 ==== tatrāpi  ====
   * although (being a //śūdra//) --- [[books:sb:7:15:73|SB 7.15.73]]

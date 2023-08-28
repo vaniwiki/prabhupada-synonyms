@@ -1,5 +1,11 @@
-~~Title:prabhuhaite~~
-{{description>from the Lord.}}
+---json
+{
+    "name":"prabhuhaite",
+    "h1":"prabhuhaite",
+    "title":"prabhuhaite",
+    "description":"from the Lord."
+}
+---
 
 ==== prabhuhaite  ====
   * from the Lord --- [[books:cc:adi:10:77|Ādi 10.77]]

@@ -1,5 +1,11 @@
-~~Title:riktaḥ~~
-{{description>when the results of his pious activities are finished.}}
+---json
+{
+    "name":"riktaḥ",
+    "h1":"riktaḥ",
+    "title":"riktaḥ",
+    "description":"when the results of his pious activities are finished."
+}
+---
 
 ==== riktaḥ  ====
   * when the results of his pious activities are finished --- [[books:sb:9:10:23|SB 9.10.23]]

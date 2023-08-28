@@ -1,5 +1,11 @@
-~~Title:sargau~~
-{{description>dispositions.}}
+---json
+{
+    "name":"sargau",
+    "h1":"sargau",
+    "title":"sargau",
+    "description":"dispositions."
+}
+---
 
 ==== sargau  ====
   * dispositions --- [[books:cc:adi:3:91|Ādi 3.91]]

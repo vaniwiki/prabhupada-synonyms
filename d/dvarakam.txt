@@ -1,5 +1,11 @@
-~~Title:dvārakām~~
-{{description>towards Dvārakā.}}
+---json
+{
+    "name":"dvārakām",
+    "h1":"dvārakām",
+    "title":"dvārakām",
+    "description":"towards Dvārakā."
+}
+---
 
 ==== dvārakām  ====
   * towards Dvārakā --- [[books:sb:1:8:8|SB 1.8.8]]

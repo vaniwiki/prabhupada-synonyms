@@ -1,5 +1,11 @@
-~~Title:mumukṣā~~
-{{description>the desire for liberation.}}
+---json
+{
+    "name":"mumukṣā",
+    "h1":"mumukṣā",
+    "title":"mumukṣā",
+    "description":"the desire for liberation."
+}
+---
 
 ==== mumukṣā  ====
   * the desire for liberation --- [[books:cc:madhya:24:125|Madhya 24.125]]

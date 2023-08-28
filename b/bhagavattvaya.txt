@@ -1,5 +1,11 @@
-~~Title:bhagavattvāya~~
-{{description>to be equally as opulent as the Lord.}}
+---json
+{
+    "name":"bhagavattvāya",
+    "h1":"bhagavattvāya",
+    "title":"bhagavattvāya",
+    "description":"to be equally as opulent as the Lord."
+}
+---
 
 ==== bhagavattvāya  ====
   * to be equally as opulent as the Lord --- [[books:sb:7:10:9|SB 7.10.9]]

@@ -1,5 +1,11 @@
-~~Title:viveka~~
-{{description>all intelligence; consideration; of proper discrimination.}}
+---json
+{
+    "name":"viveka",
+    "h1":"viveka",
+    "title":"viveka",
+    "description":"all intelligence; consideration; of proper discrimination."
+}
+---
 
 ==== viveka  ====
   * all intelligence --- [[books:sb:5:14:28|SB 5.14.28]]

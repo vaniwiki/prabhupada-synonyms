@@ -1,5 +1,11 @@
-~~Title:khyāpana~~
-{{description>proclaimed.}}
+---json
+{
+    "name":"khyāpana",
+    "h1":"khyāpana",
+    "title":"khyāpana",
+    "description":"proclaimed."
+}
+---
 
 ==== karilā khyāpana  ====
   * proclaimed --- [[books:cc:antya:7:166|Antya 7.166]]

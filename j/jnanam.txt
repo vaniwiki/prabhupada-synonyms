@@ -1,5 +1,11 @@
-~~Title:jnanam~~
-{{description>knowledge.}}
+---json
+{
+    "name":"jnanam",
+    "h1":"jnanam",
+    "title":"jnanam",
+    "description":"knowledge."
+}
+---
 
 ==== jñanam  ====
   * knowledge --- [[books:bg:4:39|Bg. 4.39]]

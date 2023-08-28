@@ -1,5 +1,11 @@
-~~Title:adhyāsāt~~
-{{description>from the bondage of family life.}}
+---json
+{
+    "name":"adhyāsāt",
+    "h1":"adhyāsāt",
+    "title":"adhyāsāt",
+    "description":"from the bondage of family life."
+}
+---
 
 ==== geha-adhyāsāt  ====
   * from the bondage of family life --- [[books:cc:madhya:19:120|Madhya 19.120]]

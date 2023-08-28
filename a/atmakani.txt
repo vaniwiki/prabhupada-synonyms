@@ -1,5 +1,11 @@
-~~Title:ātmakāni~~
-{{description>attached to the qualities.}}
+---json
+{
+    "name":"ātmakāni",
+    "h1":"ātmakāni",
+    "title":"ātmakāni",
+    "description":"attached to the qualities."
+}
+---
 
 ==== guṇa-ātmakāni  ====
   * attached to the qualities --- [[books:sb:2:10:32|SB 2.10.32]]

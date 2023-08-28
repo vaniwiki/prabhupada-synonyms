@@ -1,5 +1,11 @@
-~~Title:vyākulam~~
-{{description>disturbed; full of.}}
+---json
+{
+    "name":"vyākulam",
+    "h1":"vyākulam",
+    "title":"vyākulam",
+    "description":"disturbed; full of."
+}
+---
 
 ==== vyākulam  ====
   * disturbed --- [[books:sb:1:3:28|SB 1.3.28]], [[books:cc:adi:5:79|Ādi 5.79]]

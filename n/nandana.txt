@@ -1,5 +1,11 @@
-~~Title:nandana~~
-{{description>Nandana; Nandana Ācārya; of the name Nandana; son; sons; the son.}}
+---json
+{
+    "name":"nandana",
+    "h1":"nandana",
+    "title":"nandana",
+    "description":"Nandana; Nandana Ācārya; of the name Nandana; son; sons; the son."
+}
+---
 
 ==== nandana  ====
   * Nandana --- [[books:cc:madhya:3:153-155|Madhya 3.153-155]]

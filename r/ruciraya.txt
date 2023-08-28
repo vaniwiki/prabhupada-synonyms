@@ -1,5 +1,11 @@
-~~Title:rucirayā~~
-{{description>very beautiful; with sweet.}}
+---json
+{
+    "name":"rucirayā",
+    "h1":"rucirayā",
+    "title":"rucirayā",
+    "description":"very beautiful; with sweet."
+}
+---
 
 ==== rucirayā  ====
   * very beautiful --- [[books:cc:antya:1:136|Antya 1.136]]

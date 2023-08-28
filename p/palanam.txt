@@ -1,5 +1,11 @@
-~~Title:palanam~~
-{{description>of the rulers.}}
+---json
+{
+    "name":"palanam",
+    "h1":"palanam",
+    "title":"palanam",
+    "description":"of the rulers."
+}
+---
 
 ==== pālānām  ====
   * of the rulers --- [[books:sb:1:18:33|SB 1.18.33]]

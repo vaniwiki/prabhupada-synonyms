@@ -1,5 +1,11 @@
-~~Title:ābhīrayoḥ~~
-{{description>part of Gujarat.}}
+---json
+{
+    "name":"ābhīrayoḥ",
+    "h1":"ābhīrayoḥ",
+    "title":"ābhīrayoḥ",
+    "description":"part of Gujarat."
+}
+---
 
 ==== ābhīrayoḥ  ====
   * part of Gujarat --- [[books:sb:1:10:34-35|SB 1.10.34-35]]

@@ -1,5 +1,11 @@
-~~Title:kanksibhih~~
-{{description>devoid of desire for result.}}
+---json
+{
+    "name":"kanksibhih",
+    "h1":"kanksibhih",
+    "title":"kanksibhih",
+    "description":"devoid of desire for result."
+}
+---
 
 ==== aphala-kāñkṣibhiḥ  ====
   * devoid of desire for result --- [[books:bg:17:11|Bg. 17.11]]

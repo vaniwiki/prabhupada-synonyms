@@ -1,5 +1,11 @@
-~~Title:anugrahaṇīya~~
-{{description>trained to get favors.}}
+---json
+{
+    "name":"anugrahaṇīya",
+    "h1":"anugrahaṇīya",
+    "title":"anugrahaṇīya",
+    "description":"trained to get favors."
+}
+---
 
 ==== anugrahaṇīya-śīlāḥ  ====
   * trained to get favors --- [[books:sb:1:19:13|SB 1.19.13]]

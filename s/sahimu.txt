@@ -1,5 +1,11 @@
-~~Title:sahimu~~
-{{description>shall I tolerate.}}
+---json
+{
+    "name":"sahimu",
+    "h1":"sahimu",
+    "title":"sahimu",
+    "description":"shall I tolerate."
+}
+---
 
 ==== sahimu  ====
   * shall I tolerate --- [[books:cc:antya:4:83|Antya 4.83]]

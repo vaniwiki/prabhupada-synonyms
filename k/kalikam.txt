@@ -1,5 +1,11 @@
-~~Title:kālikam~~
-{{description>relating to that time.}}
+---json
+{
+    "name":"kālikam",
+    "h1":"kālikam",
+    "title":"kālikam",
+    "description":"relating to that time."
+}
+---
 
 ==== tāt-kālikam  ====
   * relating to that time --- [[books:cc:madhya:14:187|Madhya 14.187]]

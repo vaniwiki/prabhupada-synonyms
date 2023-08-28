@@ -1,5 +1,11 @@
-~~Title:babhrāja~~
-{{description>he shone.}}
+---json
+{
+    "name":"babhrāja",
+    "h1":"babhrāja",
+    "title":"babhrāja",
+    "description":"he shone."
+}
+---
 
 ==== babhrāja  ====
   * he shone --- [[books:sb:3:23:38|SB 3.23.38]]

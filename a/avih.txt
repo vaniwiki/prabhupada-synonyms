@@ -1,5 +1,11 @@
-~~Title:avih~~
-{{description>lamb.}}
+---json
+{
+    "name":"avih",
+    "h1":"avih",
+    "title":"avih",
+    "description":"lamb."
+}
+---
 
 ==== aviḥ  ====
   * lamb --- [[books:sb:3:10:22|SB 3.10.22]]

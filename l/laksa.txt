@@ -1,5 +1,11 @@
-~~Title:laksa~~
-{{description>lakhs (one lakh equals one hundred thousand); 100,000; a hundred thousand; by millions; hundred thousand; hundred thousands; hundreds and thousands; hundreds of thousands; one hundred thousand.}}
+---json
+{
+    "name":"laksa",
+    "h1":"laksa",
+    "title":"laksa",
+    "description":"lakhs (one lakh equals one hundred thousand); 100,000; a hundred thousand; by millions; hundred thousand; hundred thousands; hundreds and thousands; hundreds of thousands; one hundred thousand."
+}
+---
 
 ==== lakṣa  ====
   * //lakhs// (one //lakh// equals one hundred thousand) --- [[books:sb:9:23:32|SB 9.23.32]]

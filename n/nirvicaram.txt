@@ -1,5 +1,11 @@
-~~Title:nirvicāram~~
-{{description>to be obeyed without consideration.}}
+---json
+{
+    "name":"nirvicāram",
+    "h1":"nirvicāram",
+    "title":"nirvicāram",
+    "description":"to be obeyed without consideration."
+}
+---
 
 ==== nirvicāram  ====
   * to be obeyed without consideration --- [[books:cc:madhya:10:146|Madhya 10.146]]

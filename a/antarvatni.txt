@@ -1,5 +1,11 @@
-~~Title:antarvatnī~~
-{{description>pregnant; the pregnant wife.}}
+---json
+{
+    "name":"antarvatnī",
+    "h1":"antarvatnī",
+    "title":"antarvatnī",
+    "description":"pregnant; the pregnant wife."
+}
+---
 
 ==== antarvatnī  ====
   * pregnant --- [[books:sb:7:7:14|SB 7.7.14]]

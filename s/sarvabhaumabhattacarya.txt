@@ -1,5 +1,11 @@
-~~Title:sārvabhaumabhaṭṭācārya~~
-{{description>of the name Sārvabhauma Bhaṭṭācārya.}}
+---json
+{
+    "name":"sārvabhaumabhaṭṭācārya",
+    "h1":"sārvabhaumabhaṭṭācārya",
+    "title":"sārvabhaumabhaṭṭācārya",
+    "description":"of the name Sārvabhauma Bhaṭṭācārya."
+}
+---
 
 ==== sārvabhaumabhaṭṭācārya  ====
   * of the name Sārvabhauma Bhaṭṭācārya --- [[books:cc:adi:10:130|Ādi 10.130]]

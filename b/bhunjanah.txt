@@ -1,5 +1,11 @@
-~~Title:bhuñjānaḥ~~
-{{description>enduring; enjoying; while eating.}}
+---json
+{
+    "name":"bhuñjānaḥ",
+    "h1":"bhuñjānaḥ",
+    "title":"bhuñjānaḥ",
+    "description":"enduring; enjoying; while eating."
+}
+---
 
 ==== bhuñjānaḥ  ====
   * enduring --- [[books:cc:madhya:6:261|Madhya 6.261]], [[books:cc:antya:9:77|Antya 9.77]]

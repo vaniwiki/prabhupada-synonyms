@@ -1,5 +1,11 @@
-~~Title:parāśarāya~~
-{{description>unto the sage Parāśara.}}
+---json
+{
+    "name":"parāśarāya",
+    "h1":"parāśarāya",
+    "title":"parāśarāya",
+    "description":"unto the sage Parāśara."
+}
+---
 
 ==== parāśarāya  ====
   * unto the sage Parāśara --- [[books:sb:3:8:8|SB 3.8.8]]

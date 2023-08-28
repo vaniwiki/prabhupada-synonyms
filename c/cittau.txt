@@ -1,5 +1,11 @@
-~~Title:cittau~~
-{{description>in the fire of consciousness.}}
+---json
+{
+    "name":"cittau",
+    "h1":"cittau",
+    "title":"cittau",
+    "description":"in the fire of consciousness."
+}
+---
 
 ==== cittau  ====
   * in the fire of consciousness --- [[books:sb:7:13:43|SB 7.13.43]]

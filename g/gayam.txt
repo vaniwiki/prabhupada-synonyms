@@ -1,5 +1,11 @@
-~~Title:gayam~~
-{{description>Gaya; King Gaya; of the name Gaya.}}
+---json
+{
+    "name":"gayam",
+    "h1":"gayam",
+    "title":"gayam",
+    "description":"Gaya; King Gaya; of the name Gaya."
+}
+---
 
 ==== gayam  ====
   * Gaya --- [[books:sb:4:13:17|SB 4.13.17]]

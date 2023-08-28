@@ -1,5 +1,11 @@
-~~Title:anilaiḥ~~
-{{description>and the air; by the breezes; by winds.}}
+---json
+{
+    "name":"anilaiḥ",
+    "h1":"anilaiḥ",
+    "title":"anilaiḥ",
+    "description":"and the air; by the breezes; by winds."
+}
+---
 
 ==== anilaiḥ  ====
   * and the air --- [[books:sb:8:2:8|SB 8.2.8]]

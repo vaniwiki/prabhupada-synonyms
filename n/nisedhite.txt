@@ -1,5 +1,11 @@
-~~Title:niṣedhite~~
-{{description>although I forbid; to forbid; to stop.}}
+---json
+{
+    "name":"niṣedhite",
+    "h1":"niṣedhite",
+    "title":"niṣedhite",
+    "description":"although I forbid; to forbid; to stop."
+}
+---
 
 ==== niṣedhite  ====
   * although I forbid --- [[books:cc:antya:4:138|Antya 4.138]]

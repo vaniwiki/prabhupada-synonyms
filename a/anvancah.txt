@@ -1,5 +1,11 @@
-~~Title:anvañcaḥ~~
-{{description>have agreed to follow.}}
+---json
+{
+    "name":"anvañcaḥ",
+    "h1":"anvañcaḥ",
+    "title":"anvañcaḥ",
+    "description":"have agreed to follow."
+}
+---
 
 ==== anvañcaḥ  ====
   * have agreed to follow --- [[books:sb:9:16:35|SB 9.16.35]]

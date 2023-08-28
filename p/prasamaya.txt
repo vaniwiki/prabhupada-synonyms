@@ -1,5 +1,11 @@
-~~Title:prasamaya~~
-{{description>just try to appease.}}
+---json
+{
+    "name":"prasamaya",
+    "h1":"prasamaya",
+    "title":"prasamaya",
+    "description":"just try to appease."
+}
+---
 
 ==== praśamaya  ====
   * just try to appease --- [[books:sb:7:9:3|SB 7.9.3]]

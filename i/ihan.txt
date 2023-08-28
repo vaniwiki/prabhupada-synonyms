@@ -1,5 +1,11 @@
-~~Title:ihan~~
-{{description>He; here; now; this child.}}
+---json
+{
+    "name":"ihan",
+    "h1":"ihan",
+    "title":"ihan",
+    "description":"He; here; now; this child."
+}
+---
 
 ==== ihaṅ  ====
   * He --- [[books:cc:madhya:1:180|Madhya 1.180]]

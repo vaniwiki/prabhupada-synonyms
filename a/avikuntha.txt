@@ -1,5 +1,11 @@
-~~Title:avikuṇṭha~~
-{{description>whose glories are unobscured.}}
+---json
+{
+    "name":"avikuṇṭha",
+    "h1":"avikuṇṭha",
+    "title":"avikuṇṭha",
+    "description":"whose glories are unobscured."
+}
+---
 
 ==== avikuṇṭha-mahimānam  ====
   * whose glories are unobscured --- [[books:sb:3:31:14|SB 3.31.14]]

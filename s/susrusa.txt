@@ -1,5 +1,11 @@
-~~Title:śuśrūṣā~~
-{{description>faithful service; service.}}
+---json
+{
+    "name":"śuśrūṣā",
+    "h1":"śuśrūṣā",
+    "title":"śuśrūṣā",
+    "description":"faithful service; service."
+}
+---
 
 ==== śuśrūṣā  ====
   * faithful service --- [[books:sb:3:32:41|SB 3.32.41]]

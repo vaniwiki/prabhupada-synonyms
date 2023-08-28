@@ -1,5 +1,11 @@
-~~Title:ramayati~~
-{{description>enlivens.}}
+---json
+{
+    "name":"ramayati",
+    "h1":"ramayati",
+    "title":"ramayati",
+    "description":"enlivens."
+}
+---
 
 ==== ramayati  ====
   * enlivens --- [[books:sb:1:6:38|SB 1.6.38]]

@@ -1,5 +1,11 @@
-~~Title:dahra~~
-{{description>in the core of the heart.}}
+---json
+{
+    "name":"dahra",
+    "h1":"dahra",
+    "title":"dahra",
+    "description":"in the core of the heart."
+}
+---
 
 ==== dahra  ====
   * in the core of the heart --- [[books:sb:6:9:45|SB 6.9.45]]

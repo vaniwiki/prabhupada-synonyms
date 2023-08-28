@@ -1,5 +1,11 @@
-~~Title:kugrāma~~
-{{description>going through village pathways.}}
+---json
+{
+    "name":"kugrāma",
+    "h1":"kugrāma",
+    "title":"kugrāma",
+    "description":"going through village pathways."
+}
+---
 
 ==== kugrāma diyā diyā  ====
   * going through village pathways --- [[books:cc:antya:6:185|Antya 6.185]]

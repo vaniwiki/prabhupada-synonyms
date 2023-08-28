@@ -1,5 +1,11 @@
-~~Title:sāmba~~
-{{description>Sāmba.}}
+---json
+{
+    "name":"sāmba",
+    "h1":"sāmba",
+    "title":"sāmba",
+    "description":"Sāmba."
+}
+---
 
 ==== sāmba  ====
   * Sāmba --- [[books:sb:1:10:29|SB 1.10.29]]

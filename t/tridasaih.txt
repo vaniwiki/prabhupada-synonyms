@@ -1,5 +1,11 @@
-~~Title:tridaśaiḥ~~
-{{description>by the demigods; surrounded by the demigods.}}
+---json
+{
+    "name":"tridaśaiḥ",
+    "h1":"tridaśaiḥ",
+    "title":"tridaśaiḥ",
+    "description":"by the demigods; surrounded by the demigods."
+}
+---
 
 ==== tridaśaiḥ  ====
   * by the demigods --- [[books:sb:6:11:2-3|SB 6.11.2-3]]

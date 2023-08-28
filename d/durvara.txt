@@ -1,5 +1,11 @@
-~~Title:durvāra~~
-{{description>difficult to stop; uncontrollable.}}
+---json
+{
+    "name":"durvāra",
+    "h1":"durvāra",
+    "title":"durvāra",
+    "description":"difficult to stop; uncontrollable."
+}
+---
 
 ==== durvāra  ====
   * difficult to stop --- [[books:cc:madhya:19:82|Madhya 19.82]]

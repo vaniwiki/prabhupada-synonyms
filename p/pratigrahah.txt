@@ -1,5 +1,11 @@
-~~Title:pratigrahaḥ~~
-{{description>taking charity from others.}}
+---json
+{
+    "name":"pratigrahaḥ",
+    "h1":"pratigrahaḥ",
+    "title":"pratigrahaḥ",
+    "description":"taking charity from others."
+}
+---
 
 ==== pratigrahaḥ  ====
   * taking charity from others --- [[books:sb:8:19:17|SB 8.19.17]]

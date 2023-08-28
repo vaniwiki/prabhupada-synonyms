@@ -1,5 +1,11 @@
-~~Title:vyagaman~~
-{{description>passed.}}
+---json
+{
+    "name":"vyagaman",
+    "h1":"vyagaman",
+    "title":"vyagaman",
+    "description":"passed."
+}
+---
 
 ==== vyagaman  ====
   * passed --- [[books:sb:8:2:29|SB 8.2.29]]

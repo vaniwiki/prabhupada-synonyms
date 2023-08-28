@@ -1,5 +1,11 @@
-~~Title:kṣantum~~
-{{description>just to pardon; to forgive.}}
+---json
+{
+    "name":"kṣantum",
+    "h1":"kṣantum",
+    "title":"kṣantum",
+    "description":"just to pardon; to forgive."
+}
+---
 
 ==== kṣantum  ====
   * just to pardon --- [[books:sb:1:18:47|SB 1.18.47]]

@@ -1,5 +1,11 @@
-~~Title:gṛṇīhi~~
-{{description>please speak to.}}
+---json
+{
+    "name":"gṛṇīhi",
+    "h1":"gṛṇīhi",
+    "title":"gṛṇīhi",
+    "description":"please speak to."
+}
+---
 
 ==== gṛṇīhi  ====
   * please speak to --- [[books:sb:1:4:9|SB 1.4.9]]

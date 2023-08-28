@@ -1,5 +1,11 @@
-~~Title:catuḥsama~~
-{{description>the smell of catuḥsama, a mixture of sandalwood pulp, camphor, aguru and musk.}}
+---json
+{
+    "name":"catuḥsama",
+    "h1":"catuḥsama",
+    "title":"catuḥsama",
+    "description":"the smell of catuḥsama, a mixture of sandalwood pulp, camphor, aguru and musk."
+}
+---
 
 ==== catuḥsama-gandha  ====
   * the smell of //catuḥsama,// a mixture of sandalwood pulp, camphor, aguru and musk --- [[books:cc:antya:4:197|Antya 4.197]]

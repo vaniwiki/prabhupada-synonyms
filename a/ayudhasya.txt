@@ -1,5 +1,11 @@
-~~Title:āyudhasya~~
-{{description>of Cupid, who has a flower arrow in his hand.}}
+---json
+{
+    "name":"āyudhasya",
+    "h1":"āyudhasya",
+    "title":"āyudhasya",
+    "description":"of Cupid, who has a flower arrow in his hand."
+}
+---
 
 ==== kusuma-āyudhasya  ====
   * of Cupid, who has a flower arrow in his hand --- [[books:sb:5:2:6|SB 5.2.6]]

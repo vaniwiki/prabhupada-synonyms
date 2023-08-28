@@ -1,5 +1,11 @@
-~~Title:śarkarābhiḥ~~
-{{description>by the sands.}}
+---json
+{
+    "name":"śarkarābhiḥ",
+    "h1":"śarkarābhiḥ",
+    "title":"śarkarābhiḥ",
+    "description":"by the sands."
+}
+---
 
 ==== śarkarābhiḥ  ====
   * by the sands --- [[books:sb:10:7:23|SB 10.7.23]]

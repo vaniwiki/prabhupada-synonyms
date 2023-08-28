@@ -1,5 +1,11 @@
-~~Title:ākhyātum~~
-{{description>to describe.}}
+---json
+{
+    "name":"ākhyātum",
+    "h1":"ākhyātum",
+    "title":"ākhyātum",
+    "description":"to describe."
+}
+---
 
 ==== ākhyātum  ====
   * to describe --- [[books:sb:2:8:29|SB 2.8.29]]

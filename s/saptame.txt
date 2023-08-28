@@ -1,5 +1,11 @@
-~~Title:saptame~~
-{{description>in the Seventh Chapter; on the seventh; the seventh in the line.}}
+---json
+{
+    "name":"saptame",
+    "h1":"saptame",
+    "title":"saptame",
+    "description":"in the Seventh Chapter; on the seventh; the seventh in the line."
+}
+---
 
 ==== saptame  ====
   * in the Seventh Chapter --- [[books:cc:madhya:25:248|Madhya 25.248]]

@@ -1,5 +1,11 @@
-~~Title:prajeśaiḥ~~
-{{description>along with the lords of the living entities.}}
+---json
+{
+    "name":"prajeśaiḥ",
+    "h1":"prajeśaiḥ",
+    "title":"prajeśaiḥ",
+    "description":"along with the lords of the living entities."
+}
+---
 
 ==== sa-prajeśaiḥ  ====
   * along with the lords of the living entities --- [[books:sb:4:6:8|SB 4.6.8]]

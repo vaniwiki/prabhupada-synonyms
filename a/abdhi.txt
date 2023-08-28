@@ -1,5 +1,11 @@
-~~Title:abdhi~~
-{{description>and oceans; in an ocean; ocean.}}
+---json
+{
+    "name":"abdhi",
+    "h1":"abdhi",
+    "title":"abdhi",
+    "description":"and oceans; in an ocean; ocean."
+}
+---
 
 ==== abdhi  ====
   * and oceans --- [[books:sb:10:8:37-39|SB 10.8.37-39]]

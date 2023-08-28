@@ -1,5 +1,11 @@
-~~Title:rahibeka~~
-{{description>let the balance remain.}}
+---json
+{
+    "name":"rahibeka",
+    "h1":"rahibeka",
+    "title":"rahibeka",
+    "description":"let the balance remain."
+}
+---
 
 ==== rahibeka āra  ====
   * let the balance remain --- [[books:cc:madhya:3:73|Madhya 3.73]]

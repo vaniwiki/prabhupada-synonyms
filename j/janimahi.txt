@@ -1,5 +1,11 @@
-~~Title:jānīmahi~~
-{{description>we did know.}}
+---json
+{
+    "name":"jānīmahi",
+    "h1":"jānīmahi",
+    "title":"jānīmahi",
+    "description":"we did know."
+}
+---
 
 ==== jānīmahi  ====
   * we did know --- [[books:cc:antya:1:153|Antya 1.153]]

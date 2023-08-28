@@ -1,5 +1,11 @@
-~~Title:kautukam~~
-{{description>ornamented.}}
+---json
+{
+    "name":"kautukam",
+    "h1":"kautukam",
+    "title":"kautukam",
+    "description":"ornamented."
+}
+---
 
 ==== kṛta-kautukam  ====
   * ornamented --- [[books:sb:5:8:23|SB 5.8.23]]

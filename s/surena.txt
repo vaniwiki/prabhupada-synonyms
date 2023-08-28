@@ -1,5 +1,11 @@
-~~Title:śūreṇa~~
-{{description>by the powerful.}}
+---json
+{
+    "name":"śūreṇa",
+    "h1":"śūreṇa",
+    "title":"śūreṇa",
+    "description":"by the powerful."
+}
+---
 
 ==== śūreṇa  ====
   * by the powerful --- [[books:sb:1:18:8|SB 1.18.8]]

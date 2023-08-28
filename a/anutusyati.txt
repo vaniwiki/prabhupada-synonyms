@@ -1,5 +1,11 @@
-~~Title:anutuṣyati~~
-{{description>is satisfied.}}
+---json
+{
+    "name":"anutuṣyati",
+    "h1":"anutuṣyati",
+    "title":"anutuṣyati",
+    "description":"is satisfied."
+}
+---
 
 ==== anutuṣyati  ====
   * is satisfied --- [[books:sb:3:13:12|SB 3.13.12]]

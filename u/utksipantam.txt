@@ -1,5 +1,11 @@
-~~Title:utkṣipantam~~
-{{description>while suspending.}}
+---json
+{
+    "name":"utkṣipantam",
+    "h1":"utkṣipantam",
+    "title":"utkṣipantam",
+    "description":"while suspending."
+}
+---
 
 ==== utkṣipantam  ====
   * while suspending --- [[books:sb:3:13:33|SB 3.13.33]]

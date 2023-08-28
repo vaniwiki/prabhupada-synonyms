@@ -1,5 +1,11 @@
-~~Title:pratapanti~~
-{{description>scorching.}}
+---json
+{
+    "name":"pratapanti",
+    "h1":"pratapanti",
+    "title":"pratapanti",
+    "description":"scorching."
+}
+---
 
 ==== pratapanti  ====
   * scorching --- [[books:bg:11:30|Bg. 11.30]]

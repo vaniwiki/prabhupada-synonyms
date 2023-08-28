@@ -1,5 +1,11 @@
-~~Title:caṭulaiḥ~~
-{{description>very unsteady.}}
+---json
+{
+    "name":"caṭulaiḥ",
+    "h1":"caṭulaiḥ",
+    "title":"caṭulaiḥ",
+    "description":"very unsteady."
+}
+---
 
 ==== caṭulaiḥ  ====
   * very unsteady --- [[books:cc:antya:1:190|Antya 1.190]]

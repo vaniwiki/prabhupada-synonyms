@@ -1,5 +1,11 @@
-~~Title:nīlalohitam~~
-{{description>Lord Śiva.}}
+---json
+{
+    "name":"nīlalohitam",
+    "h1":"nīlalohitam",
+    "title":"nīlalohitam",
+    "description":"Lord Śiva."
+}
+---
 
 ==== nīlalohitam  ====
   * Lord Śiva --- [[books:sb:4:6:41|SB 4.6.41]]

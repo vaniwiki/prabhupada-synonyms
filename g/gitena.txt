@@ -1,5 +1,11 @@
-~~Title:gītena~~
-{{description>by the song composed by Lord Śiva; by the song sung by Lord Śiva.}}
+---json
+{
+    "name":"gītena",
+    "h1":"gītena",
+    "title":"gītena",
+    "description":"by the song composed by Lord Śiva; by the song sung by Lord Śiva."
+}
+---
 
 ==== rudra-gītena  ====
   * by the song composed by Lord Śiva --- [[books:sb:4:30:1|SB 4.30.1]]

@@ -1,5 +1,11 @@
-~~Title:upakḷpta~~
-{{description>arranged.}}
+---json
+{
+    "name":"upakḷpta",
+    "h1":"upakḷpta",
+    "title":"upakḷpta",
+    "description":"arranged."
+}
+---
 
 ==== upakḷpta  ====
   * arranged --- [[books:sb:4:20:13|SB 4.20.13]]

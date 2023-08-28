@@ -1,5 +1,11 @@
-~~Title:amba~~
-{{description>Amba; mother; mother cow; My dear mother; O mother.}}
+---json
+{
+    "name":"amba",
+    "h1":"amba",
+    "title":"amba",
+    "description":"Amba; mother; mother cow; My dear mother; O mother."
+}
+---
 
 ==== amba  ====
   * Amba --- [[books:sb:1:10:29|SB 1.10.29]]

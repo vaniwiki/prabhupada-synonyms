@@ -1,5 +1,11 @@
-~~Title:bhakṣitam~~
-{{description>having been eaten up.}}
+---json
+{
+    "name":"bhakṣitam",
+    "h1":"bhakṣitam",
+    "title":"bhakṣitam",
+    "description":"having been eaten up."
+}
+---
 
 ==== bhakṣitam  ====
   * having been eaten up --- [[books:sb:9:9:34|SB 9.9.34]]

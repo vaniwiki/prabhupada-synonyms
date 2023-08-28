@@ -1,5 +1,11 @@
-~~Title:nimantraṇe~~
-{{description>by the invitation; for invitation; for invitations; invitation.}}
+---json
+{
+    "name":"nimantraṇe",
+    "h1":"nimantraṇe",
+    "title":"nimantraṇe",
+    "description":"by the invitation; for invitation; for invitations; invitation."
+}
+---
 
 ==== nimantraṇe  ====
   * by the invitation --- [[books:cc:madhya:14:92|Madhya 14.92]]

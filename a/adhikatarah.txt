@@ -1,5 +1,11 @@
-~~Title:adhikataraḥ~~
-{{description>more troublesome.}}
+---json
+{
+    "name":"adhikataraḥ",
+    "h1":"adhikataraḥ",
+    "title":"adhikataraḥ",
+    "description":"more troublesome."
+}
+---
 
 ==== adhikataraḥ  ====
   * more troublesome --- [[books:bg:12:5|Bg. 12.5]]

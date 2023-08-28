@@ -1,5 +1,11 @@
-~~Title:garhya~~
-{{description>condemnable.}}
+---json
+{
+    "name":"garhya",
+    "h1":"garhya",
+    "title":"garhya",
+    "description":"condemnable."
+}
+---
 
 ==== garhya  ====
   * condemnable --- [[books:sb:1:19:13|SB 1.19.13]]

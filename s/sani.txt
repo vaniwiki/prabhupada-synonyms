@@ -1,5 +1,11 @@
-~~Title:sāni'~~
-{{description>mixing.}}
+---json
+{
+    "name":"sāni'",
+    "h1":"sāni'",
+    "title":"sāni'",
+    "description":"mixing."
+}
+---
 
 ==== sāni'  ====
   * mixing --- [[books:cc:antya:19:41|Antya 19.41]]

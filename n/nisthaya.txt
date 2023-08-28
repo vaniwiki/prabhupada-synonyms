@@ -1,5 +1,11 @@
-~~Title:nisthaya~~
-{{description>by determination.}}
+---json
+{
+    "name":"nisthaya",
+    "h1":"nisthaya",
+    "title":"nisthaya",
+    "description":"by determination."
+}
+---
 
 ==== niṣṭhayā  ====
   * by determination --- [[books:sb:4:23:20|SB 4.23.20]]

@@ -1,5 +1,11 @@
-~~Title:pravepamānā~~
-{{description>trembling.}}
+---json
+{
+    "name":"pravepamānā",
+    "h1":"pravepamānā",
+    "title":"pravepamānā",
+    "description":"trembling."
+}
+---
 
 ==== pravepamānā  ====
   * trembling --- [[books:sb:4:17:14|SB 4.17.14]]

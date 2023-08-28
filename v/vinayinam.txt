@@ -1,5 +1,11 @@
-~~Title:vinayinam~~
-{{description>properly trained.}}
+---json
+{
+    "name":"vinayinam",
+    "h1":"vinayinam",
+    "title":"vinayinam",
+    "description":"properly trained."
+}
+---
 
 ==== vinayinam  ====
   * properly trained --- [[books:sb:1:15:38|SB 1.15.38]]

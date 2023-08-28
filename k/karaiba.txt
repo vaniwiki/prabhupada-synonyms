@@ -1,5 +1,11 @@
-~~Title:karāiba~~
-{{description>I shall cause; I shall cause Him to make; shall cause.}}
+---json
+{
+    "name":"karāiba",
+    "h1":"karāiba",
+    "title":"karāiba",
+    "description":"I shall cause; I shall cause Him to make; shall cause."
+}
+---
 
 ==== karāiba  ====
   * I shall cause --- [[books:cc:adi:17:266|Ādi 17.266]]

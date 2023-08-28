@@ -1,5 +1,11 @@
-~~Title:vimukhah~~
-{{description>bereft; having refused; in opposition.}}
+---json
+{
+    "name":"vimukhah",
+    "h1":"vimukhah",
+    "title":"vimukhah",
+    "description":"bereft; having refused; in opposition."
+}
+---
 
 ==== vimukhaḥ  ====
   * bereft --- [[books:sb:4:2:21|SB 4.2.21]]

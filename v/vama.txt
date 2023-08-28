@@ -1,5 +1,11 @@
-~~Title:vama~~
-{{description>beautiful; O my dear Lord Śiva; pleasing.}}
+---json
+{
+    "name":"vama",
+    "h1":"vama",
+    "title":"vama",
+    "description":"beautiful; O my dear Lord Śiva; pleasing."
+}
+---
 
 ==== vāma  ====
   * beautiful --- [[books:sb:1:7:42|SB 1.7.42]]

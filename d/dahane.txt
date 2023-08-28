@@ -1,5 +1,11 @@
-~~Title:dahane~~
-{{description>being burned by Cupid; in the fire of lusty desire.}}
+---json
+{
+    "name":"dahane",
+    "h1":"dahane",
+    "title":"dahane",
+    "description":"being burned by Cupid; in the fire of lusty desire."
+}
+---
 
 ==== madana-dahane  ====
   * being burned by Cupid --- [[books:cc:madhya:13:113|Madhya 13.113]]

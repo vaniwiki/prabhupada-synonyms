@@ -1,5 +1,11 @@
-~~Title:ghaṇṭāya~~
-{{description>with ringing bells.}}
+---json
+{
+    "name":"ghaṇṭāya",
+    "h1":"ghaṇṭāya",
+    "title":"ghaṇṭāya",
+    "description":"with ringing bells."
+}
+---
 
 ==== ghaṇṭāya  ====
   * with ringing bells --- [[books:cc:madhya:14:110|Madhya 14.110]]

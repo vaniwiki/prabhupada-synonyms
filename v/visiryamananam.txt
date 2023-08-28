@@ -1,5 +1,11 @@
-~~Title:viśīryamāṇānām~~
-{{description>being broken because of falling from the top.}}
+---json
+{
+    "name":"viśīryamāṇānām",
+    "h1":"viśīryamāṇānām",
+    "title":"viśīryamāṇānām",
+    "description":"being broken because of falling from the top."
+}
+---
 
 ==== viśīryamāṇānām  ====
   * being broken because of falling from the top --- [[books:sb:5:16:17|SB 5.16.17]]

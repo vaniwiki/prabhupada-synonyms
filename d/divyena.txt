@@ -1,5 +1,11 @@
-~~Title:divyena~~
-{{description>by transcendental; which was spiritual, not ordinary.}}
+---json
+{
+    "name":"divyena",
+    "h1":"divyena",
+    "title":"divyena",
+    "description":"by transcendental; which was spiritual, not ordinary."
+}
+---
 
 ==== divyena  ====
   * by transcendental --- [[books:sb:1:4:17-18|SB 1.4.17-18]]

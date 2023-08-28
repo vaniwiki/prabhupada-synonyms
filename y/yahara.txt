@@ -1,5 +1,11 @@
-~~Title:yāhāra~~
-{{description>anyone whose; of them all; of which; of whom; whose.}}
+---json
+{
+    "name":"yāhāra",
+    "h1":"yāhāra",
+    "title":"yāhāra",
+    "description":"anyone whose; of them all; of which; of whom; whose."
+}
+---
 
 ==== yāhāra  ====
   * anyone whose --- [[books:cc:adi:17:309|Ādi 17.309]]

@@ -1,5 +1,11 @@
-~~Title:bhidyamana~~
-{{description>being variegated.}}
+---json
+{
+    "name":"bhidyamana",
+    "h1":"bhidyamana",
+    "title":"bhidyamana",
+    "description":"being variegated."
+}
+---
 
 ==== bhidyamāna  ====
   * being variegated --- [[books:sb:4:7:39|SB 4.7.39]]

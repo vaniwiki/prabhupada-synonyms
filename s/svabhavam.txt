@@ -1,5 +1,11 @@
-~~Title:svabhāvam~~
-{{description>material nature; nature; the real nature; which is symptomized by a steady mind.}}
+---json
+{
+    "name":"svabhāvam",
+    "h1":"svabhāvam",
+    "title":"svabhāvam",
+    "description":"material nature; nature; the real nature; which is symptomized by a steady mind."
+}
+---
 
 ==== svabhāvam  ====
   * material nature --- [[books:sb:1:17:19|SB 1.17.19]]

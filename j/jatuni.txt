@@ -1,5 +1,11 @@
-~~Title:jatunī~~
-{{description>the two minds like shellac.}}
+---json
+{
+    "name":"jatunī",
+    "h1":"jatunī",
+    "title":"jatunī",
+    "description":"the two minds like shellac."
+}
+---
 
 ==== citta-jatunī  ====
   * the two minds like shellac --- [[books:cc:madhya:8:195|Madhya 8.195]]

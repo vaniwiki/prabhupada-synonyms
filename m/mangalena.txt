@@ -1,5 +1,11 @@
-~~Title:maṅgalena~~
-{{description>auspicious activities.}}
+---json
+{
+    "name":"maṅgalena",
+    "h1":"maṅgalena",
+    "title":"maṅgalena",
+    "description":"auspicious activities."
+}
+---
 
 ==== maṅgalena  ====
   * auspicious activities --- [[books:sb:6:2:32|SB 6.2.32]]

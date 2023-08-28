@@ -1,5 +1,11 @@
-~~Title:dhārayanti~~
-{{description>possess; they possess; utilize; wear.}}
+---json
+{
+    "name":"dhārayanti",
+    "h1":"dhārayanti",
+    "title":"dhārayanti",
+    "description":"possess; they possess; utilize; wear."
+}
+---
 
 ==== dhārayanti  ====
   * possess --- [[books:sb:5:16:13-14|SB 5.16.13-14]]

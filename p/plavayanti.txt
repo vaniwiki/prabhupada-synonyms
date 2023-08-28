@@ -1,5 +1,11 @@
-~~Title:plāvayanti~~
-{{description>inundate.}}
+---json
+{
+    "name":"plāvayanti",
+    "h1":"plāvayanti",
+    "title":"plāvayanti",
+    "description":"inundate."
+}
+---
 
 ==== plāvayanti  ====
   * inundate --- [[books:sb:3:11:31|SB 3.11.31]]

@@ -1,5 +1,11 @@
-~~Title:duṣkara~~
-{{description>difficult to perform.}}
+---json
+{
+    "name":"duṣkara",
+    "h1":"duṣkara",
+    "title":"duṣkara",
+    "description":"difficult to perform."
+}
+---
 
 ==== duṣkara  ====
   * difficult to perform --- [[books:cc:madhya:16:65|Madhya 16.65]]

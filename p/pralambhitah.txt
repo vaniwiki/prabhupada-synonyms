@@ -1,5 +1,11 @@
-~~Title:pralambhitaḥ~~
-{{description>has been cheated.}}
+---json
+{
+    "name":"pralambhitaḥ",
+    "h1":"pralambhitaḥ",
+    "title":"pralambhitaḥ",
+    "description":"has been cheated."
+}
+---
 
 ==== pralambhitaḥ  ====
   * has been cheated --- [[books:sb:9:3:20|SB 9.3.20]]

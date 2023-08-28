@@ -1,5 +1,11 @@
-~~Title:vairūpyaḥ~~
-{{description>deformation.}}
+---json
+{
+    "name":"vairūpyaḥ",
+    "h1":"vairūpyaḥ",
+    "title":"vairūpyaḥ",
+    "description":"deformation."
+}
+---
 
 ==== vairūpyaḥ  ====
   * deformation --- [[books:sb:3:30:14|SB 3.30.14]]

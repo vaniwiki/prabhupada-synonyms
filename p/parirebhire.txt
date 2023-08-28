@@ -1,5 +1,11 @@
-~~Title:parirebhire~~
-{{description>embraced.}}
+---json
+{
+    "name":"parirebhire",
+    "h1":"parirebhire",
+    "title":"parirebhire",
+    "description":"embraced."
+}
+---
 
 ==== parirebhire  ====
   * embraced --- [[books:sb:1:11:32|SB 1.11.32]]

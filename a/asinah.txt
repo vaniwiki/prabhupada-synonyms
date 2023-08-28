@@ -1,5 +1,11 @@
-~~Title:asinah~~
-{{description>eaters.}}
+---json
+{
+    "name":"asinah",
+    "h1":"asinah",
+    "title":"asinah",
+    "description":"eaters."
+}
+---
 
 ==== aśinaḥ  ====
   * eaters --- [[books:bg:3:13|Bg. 3.13]]

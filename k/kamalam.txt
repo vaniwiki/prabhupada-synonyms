@@ -1,5 +1,11 @@
-~~Title:kamalam~~
-{{description>resembling a lotus flower.}}
+---json
+{
+    "name":"kamalam",
+    "h1":"kamalam",
+    "title":"kamalam",
+    "description":"resembling a lotus flower."
+}
+---
 
 ==== kamalam  ====
   * resembling a lotus flower --- [[books:cc:madhya:20:258|Madhya 20.258]]

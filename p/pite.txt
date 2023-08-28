@@ -1,5 +1,11 @@
-~~Title:pite~~
-{{description>to drink; while drinking.}}
+---json
+{
+    "name":"pite",
+    "h1":"pite",
+    "title":"pite",
+    "description":"to drink; while drinking."
+}
+---
 
 ==== pite  ====
   * to drink --- [[books:cc:madhya:21:132|Madhya 21.132]], [[books:cc:madhya:21:137|Madhya 21.137]]

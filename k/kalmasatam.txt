@@ -1,5 +1,11 @@
-~~Title:kalmāṣatām~~
-{{description>a black spot.}}
+---json
+{
+    "name":"kalmāṣatām",
+    "h1":"kalmāṣatām",
+    "title":"kalmāṣatām",
+    "description":"a black spot."
+}
+---
 
 ==== kalmāṣatām  ====
   * a black spot --- [[books:sb:9:9:25|SB 9.9.25]]

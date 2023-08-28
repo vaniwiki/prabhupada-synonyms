@@ -1,5 +1,11 @@
-~~Title:vidhṛtāḥ~~
-{{description>were protected.}}
+---json
+{
+    "name":"vidhṛtāḥ",
+    "h1":"vidhṛtāḥ",
+    "title":"vidhṛtāḥ",
+    "description":"were protected."
+}
+---
 
 ==== vidhṛtāḥ  ====
   * were protected --- [[books:sb:8:1:29|SB 8.1.29]]

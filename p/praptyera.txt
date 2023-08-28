@@ -1,5 +1,11 @@
-~~Title:prāptyera~~
-{{description>the means of attaining Kṛṣṇa.}}
+---json
+{
+    "name":"prāptyera",
+    "h1":"prāptyera",
+    "title":"prāptyera",
+    "description":"the means of attaining Kṛṣṇa."
+}
+---
 
 ==== prāptyera sādhana  ====
   * the means of attaining Kṛṣṇa --- [[books:cc:madhya:20:124|Madhya 20.124]]

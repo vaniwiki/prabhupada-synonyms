@@ -1,5 +1,11 @@
-~~Title:āise~~
-{{description>automatically awakens; came; came there; come; come there; comes; comes back; go there; goes; manifests; they came; they come; used to come.}}
+---json
+{
+    "name":"āise",
+    "h1":"āise",
+    "title":"āise",
+    "description":"automatically awakens; came; came there; come; come there; comes; comes back; go there; goes; manifests; they came; they come; used to come."
+}
+---
 
 ==== āise  ====
   * automatically awakens --- [[books:cc:madhya:16:74|Madhya 16.74]]

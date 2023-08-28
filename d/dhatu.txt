@@ -1,5 +1,11 @@
-~~Title:dhātu~~
-{{description>and minerals; colored minerals; elements.}}
+---json
+{
+    "name":"dhātu",
+    "h1":"dhātu",
+    "title":"dhātu",
+    "description":"and minerals; colored minerals; elements."
+}
+---
 
 ==== dhātu  ====
   * and minerals --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

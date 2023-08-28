@@ -1,5 +1,11 @@
-~~Title:ārindā~~
-{{description>the chief tax collector.}}
+---json
+{
+    "name":"ārindā",
+    "h1":"ārindā",
+    "title":"ārindā",
+    "description":"the chief tax collector."
+}
+---
 
 ==== ārindā pradhāna  ====
   * the chief tax collector --- [[books:cc:antya:3:190|Antya 3.190]]

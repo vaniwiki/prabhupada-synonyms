@@ -1,5 +1,11 @@
-~~Title:pītam~~
-{{description>drunk.}}
+---json
+{
+    "name":"pītam",
+    "h1":"pītam",
+    "title":"pītam",
+    "description":"drunk."
+}
+---
 
 ==== pītam  ====
   * drunk --- [[books:sb:9:6:28|SB 9.6.28]], [[books:sb:9:6:29|SB 9.6.29]]

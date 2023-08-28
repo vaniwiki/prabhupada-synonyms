@@ -1,5 +1,11 @@
-~~Title:kurvanah~~
-{{description>performing; while acting.}}
+---json
+{
+    "name":"kurvanah",
+    "h1":"kurvanah",
+    "title":"kurvanah",
+    "description":"performing; while acting."
+}
+---
 
 ==== kurvāṇaḥ  ====
   * performing --- [[books:bg:18:56|Bg. 18.56]]

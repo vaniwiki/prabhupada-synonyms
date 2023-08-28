@@ -1,5 +1,11 @@
-~~Title:saṁrambham~~
-{{description>the aggravation.}}
+---json
+{
+    "name":"saṁrambham",
+    "h1":"saṁrambham",
+    "title":"saṁrambham",
+    "description":"the aggravation."
+}
+---
 
 ==== saṁrambham  ====
   * the aggravation --- [[books:sb:8:11:45|SB 8.11.45]]

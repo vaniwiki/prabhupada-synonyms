@@ -1,5 +1,11 @@
-~~Title:āmāreha~~
-{{description>even upon Me.}}
+---json
+{
+    "name":"āmāreha",
+    "h1":"āmāreha",
+    "title":"āmāreha",
+    "description":"even upon Me."
+}
+---
 
 ==== āmāreha  ====
   * even upon Me --- [[books:cc:adi:12:45|Ādi 12.45]]

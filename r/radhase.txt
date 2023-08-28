@@ -1,5 +1,11 @@
-~~Title:rādhase~~
-{{description>for the matter of helping its existence.}}
+---json
+{
+    "name":"rādhase",
+    "h1":"rādhase",
+    "title":"rādhase",
+    "description":"for the matter of helping its existence."
+}
+---
 
 ==== rādhase  ====
   * for the matter of helping its existence --- [[books:sb:4:24:18|SB 4.24.18]]

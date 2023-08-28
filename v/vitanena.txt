@@ -1,5 +1,11 @@
-~~Title:vitānena~~
-{{description>by expansion of.}}
+---json
+{
+    "name":"vitānena",
+    "h1":"vitānena",
+    "title":"vitānena",
+    "description":"by expansion of."
+}
+---
 
 ==== vitānena  ====
   * by expansion of --- [[books:sb:3:9:34|SB 3.9.34]]

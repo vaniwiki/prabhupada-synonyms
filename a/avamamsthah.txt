@@ -1,5 +1,11 @@
-~~Title:avamaṁsthāḥ~~
-{{description>insult.}}
+---json
+{
+    "name":"avamaṁsthāḥ",
+    "h1":"avamaṁsthāḥ",
+    "title":"avamaṁsthāḥ",
+    "description":"insult."
+}
+---
 
 ==== avamaṁsthāḥ  ====
   * insult --- [[books:sb:9:20:21|SB 9.20.21]]

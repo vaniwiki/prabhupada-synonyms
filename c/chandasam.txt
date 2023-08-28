@@ -1,5 +1,11 @@
-~~Title:chandasām~~
-{{description>of all poetry; of the Vedic hymns, such as Gāyatrī.}}
+---json
+{
+    "name":"chandasām",
+    "h1":"chandasām",
+    "title":"chandasām",
+    "description":"of all poetry; of the Vedic hymns, such as Gāyatrī."
+}
+---
 
 ==== chandasām  ====
   * of all poetry --- [[books:bg:10:35|Bg. 10.35]]

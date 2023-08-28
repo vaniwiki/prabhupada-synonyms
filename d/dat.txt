@@ -1,5 +1,11 @@
-~~Title:dat~~
-{{description>lip.}}
+---json
+{
+    "name":"dat",
+    "h1":"dat",
+    "title":"dat",
+    "description":"lip."
+}
+---
 
 ==== dat-chadam  ====
   * lip --- [[books:sb:3:19:27|SB 3.19.27]]

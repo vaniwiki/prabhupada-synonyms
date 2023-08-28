@@ -1,5 +1,11 @@
-~~Title:mātrasya~~
-{{description>of the complete spiritual whole.}}
+---json
+{
+    "name":"mātrasya",
+    "h1":"mātrasya",
+    "title":"mātrasya",
+    "description":"of the complete spiritual whole."
+}
+---
 
 ==== cit-mātrasya  ====
   * of the complete spiritual whole --- [[books:sb:3:7:2|SB 3.7.2]]

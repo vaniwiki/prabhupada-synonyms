@@ -1,5 +1,11 @@
-~~Title:sauraḥ~~
-{{description>the chariot of the sun-god.}}
+---json
+{
+    "name":"sauraḥ",
+    "h1":"sauraḥ",
+    "title":"sauraḥ",
+    "description":"the chariot of the sun-god."
+}
+---
 
 ==== sauraḥ rathaḥ  ====
   * the chariot of the sun-god --- [[books:sb:5:21:12|SB 5.21.12]]

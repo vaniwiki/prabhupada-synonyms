@@ -1,5 +1,11 @@
-~~Title:andhībhūtena~~
-{{description>overwhelmed.}}
+---json
+{
+    "name":"andhībhūtena",
+    "h1":"andhībhūtena",
+    "title":"andhībhūtena",
+    "description":"overwhelmed."
+}
+---
 
 ==== andhībhūtena  ====
   * overwhelmed --- [[books:sb:1:9:11|SB 1.9.11]]

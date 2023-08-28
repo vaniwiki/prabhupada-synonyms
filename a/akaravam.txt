@@ -1,5 +1,11 @@
-~~Title:akaravam~~
-{{description>I have done.}}
+---json
+{
+    "name":"akaravam",
+    "h1":"akaravam",
+    "title":"akaravam",
+    "description":"I have done."
+}
+---
 
 ==== akaravam  ====
   * I have done --- [[books:sb:3:14:34|SB 3.14.34]]

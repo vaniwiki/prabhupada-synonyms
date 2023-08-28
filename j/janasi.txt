@@ -1,5 +1,11 @@
-~~Title:jānāsi~~
-{{description>you know.}}
+---json
+{
+    "name":"jānāsi",
+    "h1":"jānāsi",
+    "title":"jānāsi",
+    "description":"you know."
+}
+---
 
 ==== jānāsi  ====
   * you know --- [[books:sb:1:1:12|SB 1.1.12]]

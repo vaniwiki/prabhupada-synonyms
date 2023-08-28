@@ -1,5 +1,11 @@
-~~Title:pravarau~~
-{{description>two very beautiful demigods.}}
+---json
+{
+    "name":"pravarau",
+    "h1":"pravarau",
+    "title":"pravarau",
+    "description":"two very beautiful demigods."
+}
+---
 
 ==== deva-pravarau  ====
   * two very beautiful demigods --- [[books:sb:4:12:20|SB 4.12.20]]

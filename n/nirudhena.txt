@@ -1,5 +1,11 @@
-~~Title:nirūḍhena~~
-{{description>deep-rooted.}}
+---json
+{
+    "name":"nirūḍhena",
+    "h1":"nirūḍhena",
+    "title":"nirūḍhena",
+    "description":"deep-rooted."
+}
+---
 
 ==== nirūḍhena  ====
   * deep-rooted --- [[books:sb:4:27:10|SB 4.27.10]]

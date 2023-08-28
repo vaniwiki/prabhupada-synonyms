@@ -1,5 +1,11 @@
-~~Title:upacāritam~~
-{{description>indicating his son; though spoken for his son.}}
+---json
+{
+    "name":"upacāritam",
+    "h1":"upacāritam",
+    "title":"upacāritam",
+    "description":"indicating his son; though spoken for his son."
+}
+---
 
 ==== putra-upacāritam  ====
   * indicating his son --- [[books:sb:6:2:49|SB 6.2.49]]

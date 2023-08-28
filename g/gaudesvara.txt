@@ -1,5 +1,11 @@
-~~Title:gauḍeśvara~~
-{{description>the Nawab of Bengal.}}
+---json
+{
+    "name":"gauḍeśvara",
+    "h1":"gauḍeśvara",
+    "title":"gauḍeśvara",
+    "description":"the Nawab of Bengal."
+}
+---
 
 ==== gauḍeśvara  ====
   * the Nawab of Bengal --- [[books:cc:madhya:19:18|Madhya 19.18]]

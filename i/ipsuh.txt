@@ -1,5 +1,11 @@
-~~Title:īpsuḥ~~
-{{description>desirous of killing his own son.}}
+---json
+{
+    "name":"īpsuḥ",
+    "h1":"īpsuḥ",
+    "title":"īpsuḥ",
+    "description":"desirous of killing his own son."
+}
+---
 
 ==== putra-vadha-īpsuḥ  ====
   * desirous of killing his own son --- [[books:sb:7:8:16|SB 7.8.16]]

@@ -1,5 +1,11 @@
-~~Title:baddham~~
-{{description>arrested; bound; bound hand and foot; who was so arrested.}}
+---json
+{
+    "name":"baddham",
+    "h1":"baddham",
+    "title":"baddham",
+    "description":"arrested; bound; bound hand and foot; who was so arrested."
+}
+---
 
 ==== baddham  ====
   * arrested --- [[books:sb:8:22:19|SB 8.22.19]]

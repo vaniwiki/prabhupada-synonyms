@@ -1,5 +1,11 @@
-~~Title:ṛṣe~~
-{{description>O great sage; O Nārada; O Nārada, O great sage.}}
+---json
+{
+    "name":"ṛṣe",
+    "h1":"ṛṣe",
+    "title":"ṛṣe",
+    "description":"O great sage; O Nārada; O Nārada, O great sage."
+}
+---
 
 ==== ṛṣe  ====
   * O great sage --- [[books:sb:3:14:4|SB 3.14.4]], [[books:sb:6:3:2|SB 6.3.2]]

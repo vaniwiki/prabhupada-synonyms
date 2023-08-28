@@ -1,5 +1,11 @@
-~~Title:abhilebhe~~
-{{description>got as a prize.}}
+---json
+{
+    "name":"abhilebhe",
+    "h1":"abhilebhe",
+    "title":"abhilebhe",
+    "description":"got as a prize."
+}
+---
 
 ==== abhilebhe  ====
   * got as a prize --- [[books:sb:3:1:28|SB 3.1.28]]

@@ -1,5 +1,11 @@
-~~Title:adarśi~~
-{{description>was considered; was seen.}}
+---json
+{
+    "name":"adarśi",
+    "h1":"adarśi",
+    "title":"adarśi",
+    "description":"was considered; was seen."
+}
+---
 
 ==== adarśi  ====
   * was considered --- [[books:sb:3:31:12|SB 3.31.12]]

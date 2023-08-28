@@ -1,5 +1,11 @@
-~~Title:plāvita~~
-{{description>overwhelmed by great affliction.}}
+---json
+{
+    "name":"plāvita",
+    "h1":"plāvita",
+    "title":"plāvita",
+    "description":"overwhelmed by great affliction."
+}
+---
 
 ==== plāvita-uru-tāpaḥ  ====
   * overwhelmed by great affliction --- [[books:sb:3:4:27|SB 3.4.27]]

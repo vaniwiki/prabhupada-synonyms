@@ -1,5 +1,11 @@
-~~Title:prajalpakāḥ~~
-{{description>taking to the chanting.}}
+---json
+{
+    "name":"prajalpakāḥ",
+    "h1":"prajalpakāḥ",
+    "title":"prajalpakāḥ",
+    "description":"taking to the chanting."
+}
+---
 
 ==== prajalpakāḥ  ====
   * taking to the chanting --- [[books:cc:adi:17:1|Ādi 17.1]]

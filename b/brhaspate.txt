@@ -1,5 +1,11 @@
-~~Title:bṛhaspate~~
-{{description>O Bṛhaspati.}}
+---json
+{
+    "name":"bṛhaspate",
+    "h1":"bṛhaspate",
+    "title":"bṛhaspate",
+    "description":"O Bṛhaspati."
+}
+---
 
 ==== bṛhaspate  ====
   * O Bṛhaspati --- [[books:sb:9:20:38|SB 9.20.38]]

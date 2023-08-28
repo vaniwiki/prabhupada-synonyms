@@ -1,5 +1,11 @@
-~~Title:icchāra~~
-{{description>of desire.}}
+---json
+{
+    "name":"icchāra",
+    "h1":"icchāra",
+    "title":"icchāra",
+    "description":"of desire."
+}
+---
 
 ==== icchāra  ====
   * of desire --- [[books:cc:adi:4:15-16|Ādi 4.15-16]]

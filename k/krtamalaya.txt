@@ -1,5 +1,11 @@
-~~Title:kṛtamālāya~~
-{{description>in the Kṛtamālā River; in the river known as Kṛtamālā.}}
+---json
+{
+    "name":"kṛtamālāya",
+    "h1":"kṛtamālāya",
+    "title":"kṛtamālāya",
+    "description":"in the Kṛtamālā River; in the river known as Kṛtamālā."
+}
+---
 
 ==== kṛtamālāya  ====
   * in the Kṛtamālā River --- [[books:cc:madhya:9:180|Madhya 9.180]]

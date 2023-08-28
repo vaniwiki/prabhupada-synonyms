@@ -1,5 +1,11 @@
-~~Title:talpe~~
-{{description>(lying) on the bed; on the bed of; on your bed.}}
+---json
+{
+    "name":"talpe",
+    "h1":"talpe",
+    "title":"talpe",
+    "description":"(lying) on the bed; on the bed of; on your bed."
+}
+---
 
 ==== talpe  ====
   * (lying) on the bed --- [[books:sb:10:6:7|SB 10.6.7]]

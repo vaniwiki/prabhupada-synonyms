@@ -1,5 +1,11 @@
-~~Title:vali~~
-{{description>the wrinkles on the abdomen; wrinkles.}}
+---json
+{
+    "name":"vali",
+    "h1":"vali",
+    "title":"vali",
+    "description":"the wrinkles on the abdomen; wrinkles."
+}
+---
 
 ==== vali  ====
   * the wrinkles on the abdomen --- [[books:sb:4:24:50|SB 4.24.50]]

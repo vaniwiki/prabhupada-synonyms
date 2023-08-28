@@ -1,5 +1,11 @@
-~~Title:sugandha~~
-{{description>the wind, which becomes fragrant.}}
+---json
+{
+    "name":"sugandha",
+    "h1":"sugandha",
+    "title":"sugandha",
+    "description":"the wind, which becomes fragrant."
+}
+---
 
 ==== sugandha-vātaḥ  ====
   * the wind, which becomes fragrant --- [[books:sb:5:16:18|SB 5.16.18]]

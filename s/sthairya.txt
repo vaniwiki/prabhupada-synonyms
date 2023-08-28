@@ -1,5 +1,11 @@
-~~Title:sthairya~~
-{{description>fixed.}}
+---json
+{
+    "name":"sthairya",
+    "h1":"sthairya",
+    "title":"sthairya",
+    "description":"fixed."
+}
+---
 
 ==== sthairya-gatāni  ====
   * fixed --- [[books:cc:madhya:24:184|Madhya 24.184]]

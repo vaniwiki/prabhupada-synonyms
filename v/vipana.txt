@@ -1,5 +1,11 @@
-~~Title:vipaṇa~~
-{{description>of the name Vipaṇa.}}
+---json
+{
+    "name":"vipaṇa",
+    "h1":"vipaṇa",
+    "title":"vipaṇa",
+    "description":"of the name Vipaṇa."
+}
+---
 
 ==== vipaṇa  ====
   * of the name Vipaṇa --- [[books:sb:4:25:49|SB 4.25.49]]

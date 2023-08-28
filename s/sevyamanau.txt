@@ -1,5 +1,11 @@
-~~Title:sevyamānau~~
-{{description>being served.}}
+---json
+{
+    "name":"sevyamānau",
+    "h1":"sevyamānau",
+    "title":"sevyamānau",
+    "description":"being served."
+}
+---
 
 ==== sevyamānau  ====
   * being served --- [[books:cc:adi:1:16|Ādi 1.16]], [[books:cc:madhya:1:4|Madhya 1.4]], [[books:cc:antya:1:6|Antya 1.6]]

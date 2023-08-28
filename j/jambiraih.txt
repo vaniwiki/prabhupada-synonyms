@@ -1,5 +1,11 @@
-~~Title:jambīraiḥ~~
-{{description>jambīra trees.}}
+---json
+{
+    "name":"jambīraiḥ",
+    "h1":"jambīraiḥ",
+    "title":"jambīraiḥ",
+    "description":"jambīra trees."
+}
+---
 
 ==== jambīraiḥ  ====
   * //jambīra// trees --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

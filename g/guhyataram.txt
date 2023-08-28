@@ -1,5 +1,11 @@
-~~Title:guhyataram~~
-{{description>still more confidential.}}
+---json
+{
+    "name":"guhyataram",
+    "h1":"guhyataram",
+    "title":"guhyataram",
+    "description":"still more confidential."
+}
+---
 
 ==== guhyataram  ====
   * still more confidential --- [[books:bg:18:63|Bg. 18.63]]

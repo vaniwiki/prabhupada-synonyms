@@ -1,5 +1,11 @@
-~~Title:nalakūvara~~
-{{description>Nalakūvara; O Nalakūvara and Maṇigrīva; one of them was Nalakūvara.}}
+---json
+{
+    "name":"nalakūvara",
+    "h1":"nalakūvara",
+    "title":"nalakūvara",
+    "description":"Nalakūvara; O Nalakūvara and Maṇigrīva; one of them was Nalakūvara."
+}
+---
 
 ==== nalakūvara  ====
   * Nalakūvara --- [[books:sb:10:10:23|SB 10.10.23]]

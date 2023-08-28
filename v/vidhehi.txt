@@ -1,5 +1,11 @@
-~~Title:vidhehi~~
-{{description>give direction; just be pleased to bestow; kindly do; kindly do the needful; now kindly do the needful; please execute; please give.}}
+---json
+{
+    "name":"vidhehi",
+    "h1":"vidhehi",
+    "title":"vidhehi",
+    "description":"give direction; just be pleased to bestow; kindly do; kindly do the needful; now kindly do the needful; please execute; please give."
+}
+---
 
 ==== vidhehi  ====
   * give direction --- [[books:sb:3:13:8|SB 3.13.8]]

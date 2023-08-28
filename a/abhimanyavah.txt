@@ -1,5 +1,11 @@
-~~Title:ābhimanyavaḥ~~
-{{description>the son of Abhimanyu.}}
+---json
+{
+    "name":"ābhimanyavaḥ",
+    "h1":"ābhimanyavaḥ",
+    "title":"ābhimanyavaḥ",
+    "description":"the son of Abhimanyu."
+}
+---
 
 ==== ābhimanyavaḥ  ====
   * the son of Abhimanyu --- [[books:sb:1:18:5|SB 1.18.5]]

@@ -1,5 +1,11 @@
-~~Title:samprayāṇam~~
-{{description>departure for the ultimate goal.}}
+---json
+{
+    "name":"samprayāṇam",
+    "h1":"samprayāṇam",
+    "title":"samprayāṇam",
+    "description":"departure for the ultimate goal."
+}
+---
 
 ==== samprayāṇam  ====
   * departure for the ultimate goal --- [[books:sb:1:15:51|SB 1.15.51]]

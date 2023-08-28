@@ -1,5 +1,11 @@
-~~Title:jyeṣṭhaiḥ~~
-{{description>the chief of whom is Bāṇa.}}
+---json
+{
+    "name":"jyeṣṭhaiḥ",
+    "h1":"jyeṣṭhaiḥ",
+    "title":"jyeṣṭhaiḥ",
+    "description":"the chief of whom is Bāṇa."
+}
+---
 
 ==== bāṇa-jyeṣṭhaiḥ  ====
   * the chief of whom is Bāṇa --- [[books:sb:8:10:30-31|SB 8.10.30-31]]

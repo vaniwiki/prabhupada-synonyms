@@ -1,5 +1,11 @@
-~~Title:rāsabha~~
-{{description>by the asses.}}
+---json
+{
+    "name":"rāsabha",
+    "h1":"rāsabha",
+    "title":"rāsabha",
+    "description":"by the asses."
+}
+---
 
 ==== rāsabha  ====
   * by the asses --- [[books:sb:3:17:12|SB 3.17.12]]

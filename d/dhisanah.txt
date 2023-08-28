@@ -1,5 +1,11 @@
-~~Title:dhisanah~~
-{{description>conception; whose intelligence.}}
+---json
+{
+    "name":"dhisanah",
+    "h1":"dhisanah",
+    "title":"dhisanah",
+    "description":"conception; whose intelligence."
+}
+---
 
 ==== dhiṣaṇaḥ  ====
   * conception --- [[books:sb:1:15:29|SB 1.15.29]]

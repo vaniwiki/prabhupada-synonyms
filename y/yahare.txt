@@ -1,5 +1,11 @@
-~~Title:yāhāre~~
-{{description>upon whom.}}
+---json
+{
+    "name":"yāhāre",
+    "h1":"yāhāre",
+    "title":"yāhāre",
+    "description":"upon whom."
+}
+---
 
 ==== yāhāre  ====
   * upon whom --- [[books:cc:madhya:6:83|Madhya 6.83]]

@@ -1,5 +1,11 @@
-~~Title:adhyāsitaḥ~~
-{{description>practiced; situated in.}}
+---json
+{
+    "name":"adhyāsitaḥ",
+    "h1":"adhyāsitaḥ",
+    "title":"adhyāsitaḥ",
+    "description":"practiced; situated in."
+}
+---
 
 ==== adhyāsitaḥ  ====
   * practiced --- [[books:cc:antya:1:152|Antya 1.152]]

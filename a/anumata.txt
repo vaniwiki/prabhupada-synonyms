@@ -1,5 +1,11 @@
-~~Title:anumata~~
-{{description>approved.}}
+---json
+{
+    "name":"anumata",
+    "h1":"anumata",
+    "title":"anumata",
+    "description":"approved."
+}
+---
 
 ==== anumata  ====
   * approved --- [[books:sb:4:20:15|SB 4.20.15]]

@@ -1,5 +1,11 @@
-~~Title:nindiyā~~
-{{description>condemning himself.}}
+---json
+{
+    "name":"nindiyā",
+    "h1":"nindiyā",
+    "title":"nindiyā",
+    "description":"condemning himself."
+}
+---
 
 ==== āpanā nindiyā  ====
   * condemning himself --- [[books:cc:madhya:15:260|Madhya 15.260]]

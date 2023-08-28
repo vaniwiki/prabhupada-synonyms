@@ -1,5 +1,11 @@
-~~Title:gaṇitasya~~
-{{description>which is measured at.}}
+---json
+{
+    "name":"gaṇitasya",
+    "h1":"gaṇitasya",
+    "title":"gaṇitasya",
+    "description":"which is measured at."
+}
+---
 
 ==== gaṇitasya  ====
   * which is measured at --- [[books:sb:5:20:38|SB 5.20.38]]

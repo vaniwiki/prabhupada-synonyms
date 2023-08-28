@@ -1,5 +1,11 @@
-~~Title:vikriyante~~
-{{description>become disturbed.}}
+---json
+{
+    "name":"vikriyante",
+    "h1":"vikriyante",
+    "title":"vikriyante",
+    "description":"become disturbed."
+}
+---
 
 ==== vikriyante  ====
   * become disturbed --- [[books:sb:4:20:12|SB 4.20.12]]

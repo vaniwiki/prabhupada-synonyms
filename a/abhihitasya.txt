@@ -1,5 +1,11 @@
-~~Title:abhihitasya~~
-{{description>although designated as king.}}
+---json
+{
+    "name":"abhihitasya",
+    "h1":"abhihitasya",
+    "title":"abhihitasya",
+    "description":"although designated as king."
+}
+---
 
 ==== īśa-abhihitasya  ====
   * although designated as king --- [[books:sb:6:18:25|SB 6.18.25]]

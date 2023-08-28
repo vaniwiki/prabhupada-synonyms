@@ -1,5 +1,11 @@
-~~Title:carita~~
-{{description>activities; characteristic; characteristics; the activities; the character; the characteristics.}}
+---json
+{
+    "name":"carita",
+    "h1":"carita",
+    "title":"carita",
+    "description":"activities; characteristic; characteristics; the activities; the character; the characteristics."
+}
+---
 
 ==== carita  ====
   * activities --- [[books:cc:adi:13:15|Ādi 13.15]]

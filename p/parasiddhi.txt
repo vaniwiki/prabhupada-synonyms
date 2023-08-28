@@ -1,5 +1,11 @@
-~~Title:parasiddhi~~
-{{description>determined by reference to the revealed scriptures.}}
+---json
+{
+    "name":"parasiddhi",
+    "h1":"parasiddhi",
+    "title":"parasiddhi",
+    "description":"determined by reference to the revealed scriptures."
+}
+---
 
 ==== śāstra-parasiddhi  ====
   * determined by reference to the revealed scriptures --- [[books:cc:madhya:20:168|Madhya 20.168]]

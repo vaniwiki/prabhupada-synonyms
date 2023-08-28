@@ -1,5 +1,11 @@
-~~Title:vīkṣantaḥ~~
-{{description>looking upon Him.}}
+---json
+{
+    "name":"vīkṣantaḥ",
+    "h1":"vīkṣantaḥ",
+    "title":"vīkṣantaḥ",
+    "description":"looking upon Him."
+}
+---
 
 ==== vīkṣantaḥ  ====
   * looking upon Him --- [[books:sb:1:10:13|SB 1.10.13]]

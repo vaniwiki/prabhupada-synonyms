@@ -1,5 +1,11 @@
-~~Title:sadṛśe~~
-{{description>to his equals.}}
+---json
+{
+    "name":"sadṛśe",
+    "h1":"sadṛśe",
+    "title":"sadṛśe",
+    "description":"to his equals."
+}
+---
 
 ==== sadṛśe  ====
   * to his equals --- [[books:sb:7:4:31-32|SB 7.4.31-32]]

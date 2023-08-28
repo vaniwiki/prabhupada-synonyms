@@ -1,5 +1,11 @@
-~~Title:nigṛhītaḥ~~
-{{description>although I am being punished.}}
+---json
+{
+    "name":"nigṛhītaḥ",
+    "h1":"nigṛhītaḥ",
+    "title":"nigṛhītaḥ",
+    "description":"although I am being punished."
+}
+---
 
 ==== nigṛhītaḥ asmi  ====
   * although I am being punished --- [[books:sb:8:22:6-7|SB 8.22.6-7]]

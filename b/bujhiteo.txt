@@ -1,5 +1,11 @@
-~~Title:bujhiteo~~
-{{description>to understand.}}
+---json
+{
+    "name":"bujhiteo",
+    "h1":"bujhiteo",
+    "title":"bujhiteo",
+    "description":"to understand."
+}
+---
 
 ==== bujhiteo  ====
   * to understand --- [[books:cc:madhya:4:190|Madhya 4.190]]

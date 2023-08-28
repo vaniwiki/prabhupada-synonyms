@@ -1,5 +1,11 @@
-~~Title:vicakṣate~~
-{{description>see; see or know; simply see.}}
+---json
+{
+    "name":"vicakṣate",
+    "h1":"vicakṣate",
+    "title":"vicakṣate",
+    "description":"see; see or know; simply see."
+}
+---
 
 ==== vicakṣate  ====
   * see --- [[books:sb:3:11:17|SB 3.11.17]]

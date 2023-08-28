@@ -1,5 +1,11 @@
-~~Title:uraḥ~~
-{{description>chest; high; of My chest; of the chest; the breast; the chest; upward.}}
+---json
+{
+    "name":"uraḥ",
+    "h1":"uraḥ",
+    "title":"uraḥ",
+    "description":"chest; high; of My chest; of the chest; the breast; the chest; upward."
+}
+---
 
 ==== uraḥ  ====
   * chest --- [[books:sb:1:11:26|SB 1.11.26]], [[books:sb:3:19:15|SB 3.19.15]], [[books:sb:10:6:22-23|SB 10.6.22-23]]

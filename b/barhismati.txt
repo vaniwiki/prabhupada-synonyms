@@ -1,5 +1,11 @@
-~~Title:barhiṣmatī~~
-{{description>Barhiṣmatī; of Barhiṣmatī.}}
+---json
+{
+    "name":"barhiṣmatī",
+    "h1":"barhiṣmatī",
+    "title":"barhiṣmatī",
+    "description":"Barhiṣmatī; of Barhiṣmatī."
+}
+---
 
 ==== barhiṣmatī  ====
   * Barhiṣmatī --- [[books:sb:3:22:29-30|SB 3.22.29-30]]

@@ -1,5 +1,11 @@
-~~Title:maṅgalācaraṇa~~
-{{description>invoking auspiciousness.}}
+---json
+{
+    "name":"maṅgalācaraṇa",
+    "h1":"maṅgalācaraṇa",
+    "title":"maṅgalācaraṇa",
+    "description":"invoking auspiciousness."
+}
+---
 
 ==== maṅgalācaraṇa  ====
   * invoking auspiciousness --- [[books:cc:antya:1:35|Antya 1.35]]

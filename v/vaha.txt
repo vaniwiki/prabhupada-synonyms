@@ -1,5 +1,11 @@
-~~Title:vaha~~
-{{description>the conveyor.}}
+---json
+{
+    "name":"vaha",
+    "h1":"vaha",
+    "title":"vaha",
+    "description":"the conveyor."
+}
+---
 
 ==== vāha  ====
   * the conveyor --- [[books:sb:2:7:25|SB 2.7.25]]

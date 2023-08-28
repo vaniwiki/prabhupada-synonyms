@@ -1,5 +1,11 @@
-~~Title:sabarasa~~
-{{description>all the mellows.}}
+---json
+{
+    "name":"sabarasa",
+    "h1":"sabarasa",
+    "title":"sabarasa",
+    "description":"all the mellows."
+}
+---
 
 ==== sabarasa  ====
   * all the mellows --- [[books:cc:adi:4:44|Ādi 4.44]]

@@ -1,5 +1,11 @@
-~~Title:gandharvān~~
-{{description>persons related with the Gandharvas, who are mostly pretenders; the inhabitants of Gandharvaloka; the inhabitants of the Gandharva planets; the residents of the Gandharva planet, who are very beautiful and are expert in singing; unto the Gandharvas.}}
+---json
+{
+    "name":"gandharvān",
+    "h1":"gandharvān",
+    "title":"gandharvān",
+    "description":"persons related with the Gandharvas, who are mostly pretenders; the inhabitants of Gandharvaloka; the inhabitants of the Gandharva planets; the residents of the Gandharva planet, who are very beautiful and are expert in singing; unto the Gandharvas."
+}
+---
 
 ==== gandharvān  ====
   * persons related with the Gandharvas, who are mostly pretenders --- [[books:sb:9:11:13-14|SB 9.11.13-14]]

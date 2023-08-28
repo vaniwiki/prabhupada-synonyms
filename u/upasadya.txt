@@ -1,5 +1,11 @@
-~~Title:upāsādya~~
-{{description>approaching; constantly reading.}}
+---json
+{
+    "name":"upāsādya",
+    "h1":"upāsādya",
+    "title":"upāsādya",
+    "description":"approaching; constantly reading."
+}
+---
 
 ==== upāsādya  ====
   * approaching --- [[books:sb:7:10:56|SB 7.10.56]]

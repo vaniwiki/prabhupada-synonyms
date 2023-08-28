@@ -1,5 +1,11 @@
-~~Title:niyā~~
-{{description>taking.}}
+---json
+{
+    "name":"niyā",
+    "h1":"niyā",
+    "title":"niyā",
+    "description":"taking."
+}
+---
 
 ==== niyā  ====
   * taking --- [[books:cc:madhya:1:139|Madhya 1.139]]

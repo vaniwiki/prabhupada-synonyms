@@ -1,5 +1,11 @@
-~~Title:vijñātaḥ~~
-{{description>is known.}}
+---json
+{
+    "name":"vijñātaḥ",
+    "h1":"vijñātaḥ",
+    "title":"vijñātaḥ",
+    "description":"is known."
+}
+---
 
 ==== vijñātaḥ  ====
   * is known --- [[books:sb:6:1:43|SB 6.1.43]]

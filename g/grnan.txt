@@ -1,5 +1,11 @@
-~~Title:gṛṇan~~
-{{description>chanting; chanting or reciting (the holy name of the Lord and His activities); offering respectful prayers; recites; reciting.}}
+---json
+{
+    "name":"gṛṇan",
+    "h1":"gṛṇan",
+    "title":"gṛṇan",
+    "description":"chanting; chanting or reciting (the holy name of the Lord and His activities); offering respectful prayers; recites; reciting."
+}
+---
 
 ==== gṛṇan  ====
   * chanting --- [[books:sb:1:1:14|SB 1.1.14]], [[books:sb:4:12:21|SB 4.12.21]], [[books:sb:6:2:49|SB 6.2.49]], [[books:cc:antya:3:56|Antya 3.56]], [[books:cc:antya:3:64|Antya 3.64]], [[books:cc:antya:3:187|Antya 3.187]]

@@ -1,5 +1,11 @@
-~~Title:mumoha~~
-{{description>she became unconscious.}}
+---json
+{
+    "name":"mumoha",
+    "h1":"mumoha",
+    "title":"mumoha",
+    "description":"she became unconscious."
+}
+---
 
 ==== mumoha  ====
   * she became unconscious --- [[books:sb:6:14:48|SB 6.14.48]]

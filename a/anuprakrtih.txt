@@ -1,5 +1,11 @@
-~~Title:anuprakṛtiḥ~~
-{{description>followed by ministers and other officers.}}
+---json
+{
+    "name":"anuprakṛtiḥ",
+    "h1":"anuprakṛtiḥ",
+    "title":"anuprakṛtiḥ",
+    "description":"followed by ministers and other officers."
+}
+---
 
 ==== anuprakṛtiḥ  ====
   * followed by ministers and other officers --- [[books:sb:6:14:50-51|SB 6.14.50-51]]

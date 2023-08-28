@@ -1,5 +1,11 @@
-~~Title:upekṣāra~~
-{{description>like neglect.}}
+---json
+{
+    "name":"upekṣāra",
+    "h1":"upekṣāra",
+    "title":"upekṣāra",
+    "description":"like neglect."
+}
+---
 
 ==== upekṣāra prāya  ====
   * like neglect --- [[books:cc:antya:7:168|Antya 7.168]]

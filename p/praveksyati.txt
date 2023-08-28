@@ -1,5 +1,11 @@
-~~Title:pravekṣyati~~
-{{description>will enter.}}
+---json
+{
+    "name":"pravekṣyati",
+    "h1":"pravekṣyati",
+    "title":"pravekṣyati",
+    "description":"will enter."
+}
+---
 
 ==== pravekṣyati  ====
   * will enter --- [[books:sb:4:9:23|SB 4.9.23]]

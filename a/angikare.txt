@@ -1,5 +1,11 @@
-~~Title:angikare~~
-{{description>He accepts.}}
+---json
+{
+    "name":"angikare",
+    "h1":"angikare",
+    "title":"angikare",
+    "description":"He accepts."
+}
+---
 
 ==== aṅgīkare  ====
   * He accepts --- [[books:cc:antya:18:16-17|Antya 18.16-17]]

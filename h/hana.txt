@@ -1,5 +1,11 @@
-~~Title:hana~~
-{{description>becomes; is.}}
+---json
+{
+    "name":"hana",
+    "h1":"hana",
+    "title":"hana",
+    "description":"becomes; is."
+}
+---
 
 ==== hana  ====
   * becomes --- [[books:cc:adi:6:16|Ādi 6.16]], [[books:cc:madhya:13:64|Madhya 13.64]]

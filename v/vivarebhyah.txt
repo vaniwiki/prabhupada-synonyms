@@ -1,5 +1,11 @@
-~~Title:vivarebhyaḥ~~
-{{description>from the mountain caves.}}
+---json
+{
+    "name":"vivarebhyaḥ",
+    "h1":"vivarebhyaḥ",
+    "title":"vivarebhyaḥ",
+    "description":"from the mountain caves."
+}
+---
 
 ==== vivarebhyaḥ  ====
   * from the mountain caves --- [[books:sb:3:17:8|SB 3.17.8]]

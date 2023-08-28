@@ -1,5 +1,11 @@
-~~Title:vyadhatta~~
-{{description>dispersed; executed; performed.}}
+---json
+{
+    "name":"vyadhatta",
+    "h1":"vyadhatta",
+    "title":"vyadhatta",
+    "description":"dispersed; executed; performed."
+}
+---
 
 ==== vyadhatta  ====
   * dispersed --- [[books:sb:3:5:9|SB 3.5.9]]

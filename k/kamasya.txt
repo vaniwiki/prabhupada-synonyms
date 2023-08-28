@@ -1,5 +1,11 @@
-~~Title:kāmasya~~
-{{description>of all desires; of desires; of lust; of lusty desires; of material desire; of satisfaction of desires; of the desire for sense gratification or the urgent needs of the body.}}
+---json
+{
+    "name":"kāmasya",
+    "h1":"kāmasya",
+    "title":"kāmasya",
+    "description":"of all desires; of desires; of lust; of lusty desires; of material desire; of satisfaction of desires; of the desire for sense gratification or the urgent needs of the body."
+}
+---
 
 ==== kāmasya  ====
   * of all desires --- [[books:sb:3:14:19|SB 3.14.19]]

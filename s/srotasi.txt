@@ -1,5 +1,11 @@
-~~Title:srotasi~~
-{{description>in a flowing river; in the flowing water.}}
+---json
+{
+    "name":"srotasi",
+    "h1":"srotasi",
+    "title":"srotasi",
+    "description":"in a flowing river; in the flowing water."
+}
+---
 
 ==== srotasi  ====
   * in a flowing river --- [[books:sb:8:16:26|SB 8.16.26]]

@@ -1,5 +1,11 @@
-~~Title:melā~~
-{{description>meeting.}}
+---json
+{
+    "name":"melā",
+    "h1":"melā",
+    "title":"melā",
+    "description":"meeting."
+}
+---
 
 ==== melā  ====
   * meeting --- [[books:cc:antya:16:130|Antya 16.130]]

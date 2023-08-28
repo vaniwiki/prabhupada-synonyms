@@ -1,5 +1,11 @@
-~~Title:puṣkala~~
-{{description>comprehending distribution of great charities.}}
+---json
+{
+    "name":"puṣkala",
+    "h1":"puṣkala",
+    "title":"puṣkala",
+    "description":"comprehending distribution of great charities."
+}
+---
 
 ==== puṣkala-dakṣiṇaiḥ  ====
   * comprehending distribution of great charities --- [[books:sb:4:9:24|SB 4.9.24]]

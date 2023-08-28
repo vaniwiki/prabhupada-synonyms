@@ -1,5 +1,11 @@
-~~Title:ekatara~~
-{{description>another.}}
+---json
+{
+    "name":"ekatara",
+    "h1":"ekatara",
+    "title":"ekatara",
+    "description":"another."
+}
+---
 
 ==== ekatara  ====
   * another --- [[books:sb:2:10:9|SB 2.10.9]]

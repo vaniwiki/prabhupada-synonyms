@@ -1,5 +1,11 @@
-~~Title:vidūratha~~
-{{description>King Vidūratha.}}
+---json
+{
+    "name":"vidūratha",
+    "h1":"vidūratha",
+    "title":"vidūratha",
+    "description":"King Vidūratha."
+}
+---
 
 ==== vidūratha  ====
   * King Vidūratha --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

@@ -1,5 +1,11 @@
-~~Title:aśrūṇi~~
-{{description>tears; tears of the eyes.}}
+---json
+{
+    "name":"aśrūṇi",
+    "h1":"aśrūṇi",
+    "title":"aśrūṇi",
+    "description":"tears; tears of the eyes."
+}
+---
 
 ==== aśrūṇi  ====
   * tears --- [[books:sb:4:28:49|SB 4.28.49]]

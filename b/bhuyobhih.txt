@@ -1,5 +1,11 @@
-~~Title:bhūyobhiḥ~~
-{{description>by varieties of means.}}
+---json
+{
+    "name":"bhūyobhiḥ",
+    "h1":"bhūyobhiḥ",
+    "title":"bhūyobhiḥ",
+    "description":"by varieties of means."
+}
+---
 
 ==== bhūyobhiḥ  ====
   * by varieties of means --- [[books:cc:madhya:8:195|Madhya 8.195]]

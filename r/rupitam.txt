@@ -1,5 +1,11 @@
-~~Title:rūpitam~~
-{{description>manifested in various forms.}}
+---json
+{
+    "name":"rūpitam",
+    "h1":"rūpitam",
+    "title":"rūpitam",
+    "description":"manifested in various forms."
+}
+---
 
 ==== bahu-rūpa-rūpitam  ====
   * manifested in various forms --- [[books:sb:5:18:31|SB 5.18.31]]

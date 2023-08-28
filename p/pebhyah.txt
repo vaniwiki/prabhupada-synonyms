@@ -1,5 +1,11 @@
-~~Title:pebhyaḥ~~
-{{description>unto those who drink.}}
+---json
+{
+    "name":"pebhyaḥ",
+    "h1":"pebhyaḥ",
+    "title":"pebhyaḥ",
+    "description":"unto those who drink."
+}
+---
 
 ==== pebhyaḥ  ====
   * unto those who drink --- [[books:cc:adi:10:1|Ādi 10.1]]

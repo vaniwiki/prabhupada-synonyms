@@ -1,5 +1,11 @@
-~~Title:prahasita~~
-{{description>smiling.}}
+---json
+{
+    "name":"prahasita",
+    "h1":"prahasita",
+    "title":"prahasita",
+    "description":"smiling."
+}
+---
 
 ==== prahasita  ====
   * smiling --- [[books:sb:4:24:47-48|SB 4.24.47-48]]

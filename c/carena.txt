@@ -1,5 +1,11 @@
-~~Title:cāreṇa~~
-{{description>by infusing the clouds.}}
+---json
+{
+    "name":"cāreṇa",
+    "h1":"cāreṇa",
+    "title":"cāreṇa",
+    "description":"by infusing the clouds."
+}
+---
 
 ==== cāreṇa  ====
   * by infusing the clouds --- [[books:sb:5:22:12|SB 5.22.12]]

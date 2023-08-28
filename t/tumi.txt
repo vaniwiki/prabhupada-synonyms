@@ -1,5 +1,11 @@
-~~Title:tumi~~
-{{description>you; you (Svarūpa Dāmodara Gosvāmī); you (the King); You; You also; You are; You are situated; Your good self; Your Lordship.}}
+---json
+{
+    "name":"tumi",
+    "h1":"tumi",
+    "title":"tumi",
+    "description":"you; you (Svarūpa Dāmodara Gosvāmī); you (the King); You; You also; You are; You are situated; Your good self; Your Lordship."
+}
+---
 
 ==== tumi  ====
   * //you// --- [[books:cc:madhya:7:12|Madhya 7.12]], [[books:cc:madhya:7:28|Madhya 7.28]], [[books:cc:madhya:14:249|Madhya 14.249]], [[books:cc:madhya:15:239|Madhya 15.239]], [[books:cc:madhya:25:81|Madhya 25.81]]

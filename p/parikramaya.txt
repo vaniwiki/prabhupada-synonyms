@@ -1,5 +1,11 @@
-~~Title:parikramāya~~
-{{description>in circumambulating.}}
+---json
+{
+    "name":"parikramāya",
+    "h1":"parikramāya",
+    "title":"parikramāya",
+    "description":"in circumambulating."
+}
+---
 
 ==== parikramāya  ====
   * in circumambulating --- [[books:cc:madhya:18:32|Madhya 18.32]]

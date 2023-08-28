@@ -1,5 +1,11 @@
-~~Title:pūjāyāḥ~~
-{{description>of worship.}}
+---json
+{
+    "name":"pūjāyāḥ",
+    "h1":"pūjāyāḥ",
+    "title":"pūjāyāḥ",
+    "description":"of worship."
+}
+---
 
 ==== pūjāyāḥ  ====
   * of worship --- [[books:sb:6:18:73|SB 6.18.73]]

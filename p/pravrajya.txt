@@ -1,5 +1,11 @@
-~~Title:pravrajya~~
-{{description>being finished for good and leaving for the forest (being situated in transcendental bliss).}}
+---json
+{
+    "name":"pravrajya",
+    "h1":"pravrajya",
+    "title":"pravrajya",
+    "description":"being finished for good and leaving for the forest (being situated in transcendental bliss)."
+}
+---
 
 ==== pravrajya  ====
   * being finished for good and leaving for the forest (being situated in transcendental bliss) --- [[books:sb:7:15:36|SB 7.15.36]]

@@ -1,5 +1,11 @@
-~~Title:drumah~~
-{{description>all the trees; the plants and trees; the trees; the vegetable kingdom; tree; trees; trees with flowers and fruits.}}
+---json
+{
+    "name":"drumah",
+    "h1":"drumah",
+    "title":"drumah",
+    "description":"all the trees; the plants and trees; the trees; the vegetable kingdom; tree; trees; trees with flowers and fruits."
+}
+---
 
 ==== drumāḥ  ====
   * all the trees --- [[books:cc:madhya:14:227|Madhya 14.227]]

@@ -1,5 +1,11 @@
-~~Title:prāṁśuḥ~~
-{{description>very tall; was named Prāṁśu.}}
+---json
+{
+    "name":"prāṁśuḥ",
+    "h1":"prāṁśuḥ",
+    "title":"prāṁśuḥ",
+    "description":"very tall; was named Prāṁśu."
+}
+---
 
 ==== prāṁśuḥ  ====
   * very tall --- [[books:sb:4:21:15|SB 4.21.15]]

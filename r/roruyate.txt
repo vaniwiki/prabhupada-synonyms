@@ -1,5 +1,11 @@
-~~Title:rorūyate~~
-{{description>is crying.}}
+---json
+{
+    "name":"rorūyate",
+    "h1":"rorūyate",
+    "title":"rorūyate",
+    "description":"is crying."
+}
+---
 
 ==== rorūyate  ====
   * is crying --- [[books:sb:9:6:31|SB 9.6.31]]

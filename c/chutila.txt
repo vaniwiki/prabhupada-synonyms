@@ -1,5 +1,11 @@
-~~Title:chutila~~
-{{description>became free; have gone.}}
+---json
+{
+    "name":"chutila",
+    "h1":"chutila",
+    "title":"chutila",
+    "description":"became free; have gone."
+}
+---
 
 ==== chuṭila  ====
   * became free --- [[books:cc:adi:17:97|Ādi 17.97]]

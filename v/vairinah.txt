@@ -1,5 +1,11 @@
-~~Title:vairiṇaḥ~~
-{{description>always acting as enemies of Kṛṣṇa.}}
+---json
+{
+    "name":"vairiṇaḥ",
+    "h1":"vairiṇaḥ",
+    "title":"vairiṇaḥ",
+    "description":"always acting as enemies of Kṛṣṇa."
+}
+---
 
 ==== kṛṣṇa-vairiṇaḥ  ====
   * always acting as enemies of Kṛṣṇa --- [[books:sb:7:10:39|SB 7.10.39]]

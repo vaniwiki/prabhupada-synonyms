@@ -1,5 +1,11 @@
-~~Title:susthahañā~~
-{{description>being revived.}}
+---json
+{
+    "name":"susthahañā",
+    "h1":"susthahañā",
+    "title":"susthahañā",
+    "description":"being revived."
+}
+---
 
 ==== susthahañā  ====
   * being revived --- [[books:cc:adi:15:17|Ādi 15.17]]

@@ -1,5 +1,11 @@
-~~Title:uroja~~
-{{description>the breasts.}}
+---json
+{
+    "name":"uroja",
+    "h1":"uroja",
+    "title":"uroja",
+    "description":"the breasts."
+}
+---
 
 ==== uroja  ====
   * the breasts --- [[books:cc:antya:1:175|Antya 1.175]]

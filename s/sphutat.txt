@@ -1,5 +1,11 @@
-~~Title:sphuṭat~~
-{{description>in full bloom.}}
+---json
+{
+    "name":"sphuṭat",
+    "h1":"sphuṭat",
+    "title":"sphuṭat",
+    "description":"in full bloom."
+}
+---
 
 ==== sphuṭat  ====
   * in full bloom --- [[books:sb:10:13:5|SB 10.13.5]]

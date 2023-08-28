@@ -1,5 +1,11 @@
-~~Title:plavaiḥ~~
-{{description>by plavas.}}
+---json
+{
+    "name":"plavaiḥ",
+    "h1":"plavaiḥ",
+    "title":"plavaiḥ",
+    "description":"by plavas."
+}
+---
 
 ==== plavaiḥ  ====
   * by //plavas// --- [[books:sb:3:21:42-43|SB 3.21.42-43]]

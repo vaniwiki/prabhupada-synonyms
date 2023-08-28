@@ -1,5 +1,11 @@
-~~Title:baliṣṭhaiḥ~~
-{{description>by the strongest.}}
+---json
+{
+    "name":"baliṣṭhaiḥ",
+    "h1":"baliṣṭhaiḥ",
+    "title":"baliṣṭhaiḥ",
+    "description":"by the strongest."
+}
+---
 
 ==== baliṣṭhaiḥ  ====
   * by the strongest --- [[books:sb:1:15:25-26|SB 1.15.25-26]]

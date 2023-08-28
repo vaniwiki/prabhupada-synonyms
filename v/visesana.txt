@@ -1,5 +1,11 @@
-~~Title:viśeṣaṇa~~
-{{description>the adjective.}}
+---json
+{
+    "name":"viśeṣaṇa",
+    "h1":"viśeṣaṇa",
+    "title":"viśeṣaṇa",
+    "description":"the adjective."
+}
+---
 
 ==== viśeṣaṇa  ====
   * the adjective --- [[books:cc:madhya:24:226|Madhya 24.226]]

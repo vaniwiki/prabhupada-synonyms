@@ -1,5 +1,11 @@
-~~Title:narān~~
-{{description>all his men (soldiers); the inhabitants of earth; to men.}}
+---json
+{
+    "name":"narān",
+    "h1":"narān",
+    "title":"narān",
+    "description":"all his men (soldiers); the inhabitants of earth; to men."
+}
+---
 
 ==== narān  ====
   * all his men (soldiers) --- [[books:sb:9:15:26|SB 9.15.26]]

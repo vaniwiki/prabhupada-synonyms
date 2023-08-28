@@ -1,5 +1,11 @@
-~~Title:udadhāra~~
-{{description>waterfalls.}}
+---json
+{
+    "name":"udadhāra",
+    "h1":"udadhāra",
+    "title":"udadhāra",
+    "description":"waterfalls."
+}
+---
 
 ==== udadhāra  ====
   * waterfalls --- [[books:sb:3:8:24|SB 3.8.24]]

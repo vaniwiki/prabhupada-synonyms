@@ -1,5 +1,11 @@
-~~Title:kṣaṇān~~
-{{description>such kṣaṇas.}}
+---json
+{
+    "name":"kṣaṇān",
+    "h1":"kṣaṇān",
+    "title":"kṣaṇān",
+    "description":"such kṣaṇas."
+}
+---
 
 ==== kṣaṇān  ====
   * such //kṣaṇas// --- [[books:sb:3:11:7|SB 3.11.7]]

@@ -1,5 +1,11 @@
-~~Title:jīvat~~
-{{description>living.}}
+---json
+{
+    "name":"jīvat",
+    "h1":"jīvat",
+    "title":"jīvat",
+    "description":"living."
+}
+---
 
 ==== jīvat  ====
   * living --- [[books:sb:5:10:7|SB 5.10.7]], [[books:sb:5:14:12|SB 5.14.12]]

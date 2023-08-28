@@ -1,5 +1,11 @@
-~~Title:ābhāṣitaḥ~~
-{{description>being spoken.}}
+---json
+{
+    "name":"ābhāṣitaḥ",
+    "h1":"ābhāṣitaḥ",
+    "title":"ābhāṣitaḥ",
+    "description":"being spoken."
+}
+---
 
 ==== ābhāṣitaḥ  ====
   * being spoken --- [[books:sb:1:19:40|SB 1.19.40]]

@@ -1,5 +1,11 @@
-~~Title:labe~~
-{{description>chant; he will take; please take; take; will take; you shall take.}}
+---json
+{
+    "name":"labe",
+    "h1":"labe",
+    "title":"labe",
+    "description":"chant; he will take; please take; take; will take; you shall take."
+}
+---
 
 ==== labe  ====
   * chant --- [[books:cc:adi:17:26|Ādi 17.26]]

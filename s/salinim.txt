@@ -1,5 +1,11 @@
-~~Title:śālinīm~~
-{{description>who was worthy of praise.}}
+---json
+{
+    "name":"śālinīm",
+    "h1":"śālinīm",
+    "title":"śālinīm",
+    "description":"who was worthy of praise."
+}
+---
 
 ==== śālinīm  ====
   * who was worthy of praise --- [[books:sb:3:24:1|SB 3.24.1]]

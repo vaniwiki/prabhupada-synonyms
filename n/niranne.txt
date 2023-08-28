@@ -1,5 +1,11 @@
-~~Title:niranne~~
-{{description>being without food grains.}}
+---json
+{
+    "name":"niranne",
+    "h1":"niranne",
+    "title":"niranne",
+    "description":"being without food grains."
+}
+---
 
 ==== niranne  ====
   * being without food grains --- [[books:sb:4:17:9|SB 4.17.9]]

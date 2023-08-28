@@ -1,5 +1,11 @@
-~~Title:śrīnātha~~
-{{description>of the name Śrīnātha Cakravartī.}}
+---json
+{
+    "name":"śrīnātha",
+    "h1":"śrīnātha",
+    "title":"śrīnātha",
+    "description":"of the name Śrīnātha Cakravartī."
+}
+---
 
 ==== śrīnātha cakravartī  ====
   * of the name Śrīnātha Cakravartī --- [[books:cc:adi:12:84|Ādi 12.84]]

@@ -1,5 +1,11 @@
-~~Title:saṁyata~~
-{{description>controlled; self-controlled.}}
+---json
+{
+    "name":"saṁyata",
+    "h1":"saṁyata",
+    "title":"saṁyata",
+    "description":"controlled; self-controlled."
+}
+---
 
 ==== saṁyata  ====
   * controlled --- [[books:bg:4:39|Bg. 4.39]]

@@ -1,5 +1,11 @@
-~~Title:kurarīm~~
-{{description>like a kurarī (osprey).}}
+---json
+{
+    "name":"kurarīm",
+    "h1":"kurarīm",
+    "title":"kurarīm",
+    "description":"like a kurarī (osprey)."
+}
+---
 
 ==== kurarīm iva  ====
   * like a //kurarī// (osprey) --- [[books:sb:7:7:7|SB 7.7.7]]

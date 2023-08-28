@@ -1,5 +1,11 @@
-~~Title:medhasaḥ~~
-{{description>of one who has such a brain; whose intelligence.}}
+---json
+{
+    "name":"medhasaḥ",
+    "h1":"medhasaḥ",
+    "title":"medhasaḥ",
+    "description":"of one who has such a brain; whose intelligence."
+}
+---
 
 ==== medhasaḥ  ====
   * of one who has such a brain --- [[books:sb:3:10:18|SB 3.10.18]]

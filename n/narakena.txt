@@ -1,5 +1,11 @@
-~~Title:narakeṇa~~
-{{description>with the demon known as Naraka.}}
+---json
+{
+    "name":"narakeṇa",
+    "h1":"narakeṇa",
+    "title":"narakeṇa",
+    "description":"with the demon known as Naraka."
+}
+---
 
 ==== narakeṇa  ====
   * with the demon known as Naraka --- [[books:sb:8:10:32-34|SB 8.10.32-34]]

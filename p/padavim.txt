@@ -1,5 +1,11 @@
-~~Title:padavīm~~
-{{description>abode; any trace; glories; path; position; position of liberation; situation; the path; the place; the position; to the site.}}
+---json
+{
+    "name":"padavīm",
+    "h1":"padavīm",
+    "title":"padavīm",
+    "description":"abode; any trace; glories; path; position; position of liberation; situation; the path; the place; the position; to the site."
+}
+---
 
 ==== padavīm  ====
   * abode --- [[books:sb:3:32:43|SB 3.32.43]]

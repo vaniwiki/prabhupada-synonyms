@@ -1,5 +1,11 @@
-~~Title:rasuira~~
-{{description>of cooking.}}
+---json
+{
+    "name":"rasuira",
+    "h1":"rasuira",
+    "title":"rasuira",
+    "description":"of cooking."
+}
+---
 
 ==== rasuira  ====
   * of cooking --- [[books:cc:antya:12:143|Antya 12.143]]

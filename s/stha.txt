@@ -1,5 +1,11 @@
-~~Title:stha~~
-{{description>you are.}}
+---json
+{
+    "name":"stha",
+    "h1":"stha",
+    "title":"stha",
+    "description":"you are."
+}
+---
 
 ==== stha  ====
   * you are --- [[books:sb:4:24:30|SB 4.24.30]], [[books:sb:5:20:23|SB 5.20.23]]

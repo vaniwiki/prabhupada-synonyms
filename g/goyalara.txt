@@ -1,5 +1,11 @@
-~~Title:goyālāra~~
-{{description>of a milkman.}}
+---json
+{
+    "name":"goyālāra",
+    "h1":"goyālāra",
+    "title":"goyālāra",
+    "description":"of a milkman."
+}
+---
 
 ==== goyālāra  ====
   * of a milkman --- [[books:cc:antya:3:153|Antya 3.153]]

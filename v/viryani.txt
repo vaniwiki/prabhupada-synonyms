@@ -1,5 +1,11 @@
-~~Title:vīryāṇi~~
-{{description>and power; potencies; superhuman prowess; the glorification of the transcendental characteristics; the glorious activities; the wonderful activities; transcendental activities; very powerful; wonderful activities.}}
+---json
+{
+    "name":"vīryāṇi",
+    "h1":"vīryāṇi",
+    "title":"vīryāṇi",
+    "description":"and power; potencies; superhuman prowess; the glorification of the transcendental characteristics; the glorious activities; the wonderful activities; transcendental activities; very powerful; wonderful activities."
+}
+---
 
 ==== vīryāṇi  ====
   * and power --- [[books:sb:6:18:9|SB 6.18.9]]

@@ -1,5 +1,11 @@
-~~Title:vārtikeṣu~~
-{{description>who are interested only in maintaining the body, not in spiritual salvation.}}
+---json
+{
+    "name":"vārtikeṣu",
+    "h1":"vārtikeṣu",
+    "title":"vārtikeṣu",
+    "description":"who are interested only in maintaining the body, not in spiritual salvation."
+}
+---
 
 ==== dehambhara-vārtikeṣu  ====
   * who are interested only in maintaining the body, not in spiritual salvation --- [[books:sb:5:5:3|SB 5.5.3]]

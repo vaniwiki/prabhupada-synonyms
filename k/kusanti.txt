@@ -1,5 +1,11 @@
-~~Title:kuṣanti~~
-{{description>tear.}}
+---json
+{
+    "name":"kuṣanti",
+    "h1":"kuṣanti",
+    "title":"kuṣanti",
+    "description":"tear."
+}
+---
 
 ==== kuṣanti  ====
   * tear --- [[books:sb:3:16:10|SB 3.16.10]]

@@ -1,5 +1,11 @@
-~~Title:ḍorīra~~
-{{description>of these paṭṭa-ḍorīs, silken ropes.}}
+---json
+{
+    "name":"ḍorīra",
+    "h1":"ḍorīra",
+    "title":"ḍorīra",
+    "description":"of these paṭṭa-ḍorīs, silken ropes."
+}
+---
 
 ==== ei paṭṭa-ḍorīra  ====
   * of these paṭṭa-ḍorīs, silken ropes --- [[books:cc:madhya:14:249|Madhya 14.249]]

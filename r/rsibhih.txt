@@ -1,5 +1,11 @@
-~~Title:ṛṣibhiḥ~~
-{{description>by great sages or saintly persons; by great saintly persons; by the authorities; by the great saintly persons; by the sages; by the wise sages; the great saintly persons; the sages; with all the saintly persons; with the sages.}}
+---json
+{
+    "name":"ṛṣibhiḥ",
+    "h1":"ṛṣibhiḥ",
+    "title":"ṛṣibhiḥ",
+    "description":"by great sages or saintly persons; by great saintly persons; by the authorities; by the great saintly persons; by the sages; by the wise sages; the great saintly persons; the sages; with all the saintly persons; with the sages."
+}
+---
 
 ==== ṛṣibhiḥ  ====
   * by great sages or saintly persons --- [[books:sb:9:10:3|SB 9.10.3]]

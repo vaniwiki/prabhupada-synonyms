@@ -1,5 +1,11 @@
-~~Title:dvāraḥ~~
-{{description>doors; gates; whose door.}}
+---json
+{
+    "name":"dvāraḥ",
+    "h1":"dvāraḥ",
+    "title":"dvāraḥ",
+    "description":"doors; gates; whose door."
+}
+---
 
 ==== dvāraḥ  ====
   * doors --- [[books:sb:4:25:46|SB 4.25.46]]

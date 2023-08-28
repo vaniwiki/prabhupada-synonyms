@@ -1,5 +1,11 @@
-~~Title:vṛṣaparvaṇaḥ~~
-{{description>of Vṛṣaparvā; the daughter of Vṛṣaparvā.}}
+---json
+{
+    "name":"vṛṣaparvaṇaḥ",
+    "h1":"vṛṣaparvaṇaḥ",
+    "title":"vṛṣaparvaṇaḥ",
+    "description":"of Vṛṣaparvā; the daughter of Vṛṣaparvā."
+}
+---
 
 ==== vṛṣaparvaṇaḥ  ====
   * of Vṛṣaparvā --- [[books:sb:6:6:32|SB 6.6.32]]

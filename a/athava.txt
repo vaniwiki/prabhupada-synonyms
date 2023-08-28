@@ -1,5 +1,11 @@
-~~Title:athavā~~
-{{description>alternatively; either; or; or else; or even; otherwise.}}
+---json
+{
+    "name":"athavā",
+    "h1":"athavā",
+    "title":"athavā",
+    "description":"alternatively; either; or; or else; or even; otherwise."
+}
+---
 
 ==== athavā  ====
   * alternatively --- [[books:sb:1:17:23|SB 1.17.23]]

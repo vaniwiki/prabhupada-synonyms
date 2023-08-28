@@ -1,5 +1,11 @@
-~~Title:pāṭhayām~~
-{{description>instructed.}}
+---json
+{
+    "name":"pāṭhayām",
+    "h1":"pāṭhayām",
+    "title":"pāṭhayām",
+    "description":"instructed."
+}
+---
 
 ==== pāṭhayām āsatuḥ  ====
   * instructed --- [[books:sb:7:5:2|SB 7.5.2]]

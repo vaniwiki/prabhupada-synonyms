@@ -1,5 +1,11 @@
-~~Title:mūrdhne~~
-{{description>who has thousands of hoods.}}
+---json
+{
+    "name":"mūrdhne",
+    "h1":"mūrdhne",
+    "title":"mūrdhne",
+    "description":"who has thousands of hoods."
+}
+---
 
 ==== sahasra-mūrdhne  ====
   * who has thousands of hoods --- [[books:sb:6:16:48|SB 6.16.48]]

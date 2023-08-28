@@ -1,5 +1,11 @@
-~~Title:bhūmi~~
-{{description>earth; land; place; the ground; unto the earth.}}
+---json
+{
+    "name":"bhūmi",
+    "h1":"bhūmi",
+    "title":"bhūmi",
+    "description":"earth; land; place; the ground; unto the earth."
+}
+---
 
 ==== bhūmi  ====
   * earth --- [[books:sb:2:10:31|SB 2.10.31]]

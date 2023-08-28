@@ -1,5 +1,11 @@
-~~Title:cintyaḥ~~
-{{description>must be considered.}}
+---json
+{
+    "name":"cintyaḥ",
+    "h1":"cintyaḥ",
+    "title":"cintyaḥ",
+    "description":"must be considered."
+}
+---
 
 ==== cintyaḥ  ====
   * must be considered --- [[books:sb:8:17:17|SB 8.17.17]]

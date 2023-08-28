@@ -1,5 +1,11 @@
-~~Title:vilulitāḥ~~
-{{description>fallen.}}
+---json
+{
+    "name":"vilulitāḥ",
+    "h1":"vilulitāḥ",
+    "title":"vilulitāḥ",
+    "description":"fallen."
+}
+---
 
 ==== vilulitāḥ  ====
   * fallen --- [[books:sb:5:2:9|SB 5.2.9]]

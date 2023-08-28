@@ -1,5 +1,11 @@
-~~Title:āvāpe~~
-{{description>got.}}
+---json
+{
+    "name":"āvāpe",
+    "h1":"āvāpe",
+    "title":"āvāpe",
+    "description":"got."
+}
+---
 
 ==== āvāpe  ====
   * got --- [[books:sb:4:22:13|SB 4.22.13]]

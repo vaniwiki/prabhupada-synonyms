@@ -1,5 +1,11 @@
-~~Title:mātratvam~~
-{{description>the subtle element; the subtle form.}}
+---json
+{
+    "name":"mātratvam",
+    "h1":"mātratvam",
+    "title":"mātratvam",
+    "description":"the subtle element; the subtle form."
+}
+---
 
 ==== tat-mātratvam  ====
   * the subtle element --- [[books:sb:3:26:33|SB 3.26.33]]

@@ -1,5 +1,11 @@
-~~Title:śraddadhyāt~~
-{{description>can aspire.}}
+---json
+{
+    "name":"śraddadhyāt",
+    "h1":"śraddadhyāt",
+    "title":"śraddadhyāt",
+    "description":"can aspire."
+}
+---
 
 ==== śraddadhyāt  ====
   * can aspire --- [[books:sb:3:6:35|SB 3.6.35]]

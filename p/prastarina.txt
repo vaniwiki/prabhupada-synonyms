@@ -1,5 +1,11 @@
-~~Title:prastāriṇā~~
-{{description>extending.}}
+---json
+{
+    "name":"prastāriṇā",
+    "h1":"prastāriṇā",
+    "title":"prastāriṇā",
+    "description":"extending."
+}
+---
 
 ==== prastāriṇā  ====
   * extending --- [[books:sb:8:7:9|SB 8.7.9]]

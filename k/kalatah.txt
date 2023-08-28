@@ -1,5 +1,11 @@
-~~Title:kālataḥ~~
-{{description>by the influence of time; from the time factor.}}
+---json
+{
+    "name":"kālataḥ",
+    "h1":"kālataḥ",
+    "title":"kālataḥ",
+    "description":"by the influence of time; from the time factor."
+}
+---
 
 ==== kālataḥ  ====
   * by the influence of time --- [[books:sb:3:7:5|SB 3.7.5]]

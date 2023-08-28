@@ -1,5 +1,11 @@
-~~Title:anagniḥ~~
-{{description>without fire.}}
+---json
+{
+    "name":"anagniḥ",
+    "h1":"anagniḥ",
+    "title":"anagniḥ",
+    "description":"without fire."
+}
+---
 
 ==== anagniḥ  ====
   * without fire --- [[books:sb:3:24:42|SB 3.24.42]]

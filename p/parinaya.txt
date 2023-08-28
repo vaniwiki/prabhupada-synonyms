@@ -1,5 +1,11 @@
-~~Title:pariṇaya~~
-{{description>marriage.}}
+---json
+{
+    "name":"pariṇaya",
+    "h1":"pariṇaya",
+    "title":"pariṇaya",
+    "description":"marriage."
+}
+---
 
 ==== pariṇaya  ====
   * marriage --- [[books:cc:adi:16:25|Ādi 16.25]]

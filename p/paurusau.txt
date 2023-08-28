@@ -1,5 +1,11 @@
-~~Title:pauruṣau~~
-{{description>prowess.}}
+---json
+{
+    "name":"pauruṣau",
+    "h1":"pauruṣau",
+    "title":"pauruṣau",
+    "description":"prowess."
+}
+---
 
 ==== pauruṣau  ====
   * prowess --- [[books:sb:3:17:16|SB 3.17.16]]

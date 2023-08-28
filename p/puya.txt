@@ -1,5 +1,11 @@
-~~Title:pūya~~
-{{description>of pus; pus.}}
+---json
+{
+    "name":"pūya",
+    "h1":"pūya",
+    "title":"pūya",
+    "description":"of pus; pus."
+}
+---
 
 ==== pūya  ====
   * of pus --- [[books:sb:5:26:23|SB 5.26.23]]

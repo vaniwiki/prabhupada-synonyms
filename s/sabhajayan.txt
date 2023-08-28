@@ -1,5 +1,11 @@
-~~Title:sabhājayan~~
-{{description>worshiping.}}
+---json
+{
+    "name":"sabhājayan",
+    "h1":"sabhājayan",
+    "title":"sabhājayan",
+    "description":"worshiping."
+}
+---
 
 ==== sabhājayan  ====
   * worshiping --- [[books:sb:3:24:11|SB 3.24.11]]

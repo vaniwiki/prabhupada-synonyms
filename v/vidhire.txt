@@ -1,5 +1,11 @@
-~~Title:vidhire~~
-{{description>unto Providence.}}
+---json
+{
+    "name":"vidhire",
+    "h1":"vidhire",
+    "title":"vidhire",
+    "description":"unto Providence."
+}
+---
 
 ==== vidhire  ====
   * unto Providence --- [[books:cc:antya:19:44|Antya 19.44]]

@@ -1,5 +1,11 @@
-~~Title:saṁrādhitaḥ~~
-{{description>being perfectly served.}}
+---json
+{
+    "name":"saṁrādhitaḥ",
+    "h1":"saṁrādhitaḥ",
+    "title":"saṁrādhitaḥ",
+    "description":"being perfectly served."
+}
+---
 
 ==== saṁrādhitaḥ  ====
   * being perfectly served --- [[books:sb:3:5:4|SB 3.5.4]]

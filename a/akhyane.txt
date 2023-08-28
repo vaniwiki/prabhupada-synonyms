@@ -1,5 +1,11 @@
-~~Title:ākhyāne~~
-{{description>in describing; in the narration; in the narration of the Kūrma Purāṇa.}}
+---json
+{
+    "name":"ākhyāne",
+    "h1":"ākhyāne",
+    "title":"ākhyāne",
+    "description":"in describing; in the narration; in the narration of the Kūrma Purāṇa."
+}
+---
 
 ==== ākhyāne  ====
   * in describing --- [[books:cc:madhya:1:74|Madhya 1.74]]

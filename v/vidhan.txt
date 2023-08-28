@@ -1,5 +1,11 @@
-~~Title:vidhān~~
-{{description>varieties.}}
+---json
+{
+    "name":"vidhān",
+    "h1":"vidhān",
+    "title":"vidhān",
+    "description":"varieties."
+}
+---
 
 ==== vidhān  ====
   * varieties --- [[books:sb:4:28:5|SB 4.28.5]]

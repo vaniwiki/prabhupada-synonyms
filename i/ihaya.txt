@@ -1,5 +1,11 @@
-~~Title:ihaya~~
-{{description>him; in this connection; in this matter; on this.}}
+---json
+{
+    "name":"ihaya",
+    "h1":"ihaya",
+    "title":"ihaya",
+    "description":"him; in this connection; in this matter; on this."
+}
+---
 
 ==== ihāya  ====
   * him --- [[books:cc:antya:6:38|Antya 6.38]]

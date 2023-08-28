@@ -1,5 +1,11 @@
-~~Title:śayānau~~
-{{description>being laid down.}}
+---json
+{
+    "name":"śayānau",
+    "h1":"śayānau",
+    "title":"śayānau",
+    "description":"being laid down."
+}
+---
 
 ==== śayānau  ====
   * being laid down --- [[books:sb:7:10:37|SB 7.10.37]]

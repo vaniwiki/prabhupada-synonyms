@@ -1,5 +1,11 @@
-~~Title:vān~~
-{{description>a man full of sinful activities; a sinful man; offender; such a sinful person; who committed heavily sinful activities.}}
+---json
+{
+    "name":"vān",
+    "h1":"vān",
+    "title":"vān",
+    "description":"a man full of sinful activities; a sinful man; offender; such a sinful person; who committed heavily sinful activities."
+}
+---
 
 ==== agha-vān  ====
   * a man full of sinful activities --- [[books:sb:6:1:16|SB 6.1.16]]

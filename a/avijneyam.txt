@@ -1,5 +1,11 @@
-~~Title:avijñeyam~~
-{{description>unknowable.}}
+---json
+{
+    "name":"avijñeyam",
+    "h1":"avijñeyam",
+    "title":"avijñeyam",
+    "description":"unknowable."
+}
+---
 
 ==== avijñeyam  ====
   * unknowable --- [[books:bg:13:16|Bg. 13.16]]

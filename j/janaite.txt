@@ -1,5 +1,11 @@
-~~Title:jānāite~~
-{{description>in order to explain.}}
+---json
+{
+    "name":"jānāite",
+    "h1":"jānāite",
+    "title":"jānāite",
+    "description":"in order to explain."
+}
+---
 
 ==== jānāite  ====
   * in order to explain --- [[books:cc:madhya:21:110|Madhya 21.110]]

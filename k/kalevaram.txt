@@ -1,5 +1,11 @@
-~~Title:kalevaram~~
-{{description>body; his body; material body; material tabernacle; mortal body; such a gigantic body; the body; the gigantic body of Pūtanā; the material body; this body; this material body.}}
+---json
+{
+    "name":"kalevaram",
+    "h1":"kalevaram",
+    "title":"kalevaram",
+    "description":"body; his body; material body; material tabernacle; mortal body; such a gigantic body; the body; the gigantic body of Pūtanā; the material body; this body; this material body."
+}
+---
 
 ==== kalevaram  ====
   * body --- [[books:sb:1:6:3|SB 1.6.3]], [[books:sb:1:9:24|SB 1.9.24]], [[books:sb:1:13:57|SB 1.13.57]], [[books:sb:1:15:35|SB 1.15.35]], [[books:sb:1:18:38|SB 1.18.38]], [[books:sb:2:8:3|SB 2.8.3]], [[books:sb:3:30:31|SB 3.30.31]], [[books:sb:4:4:18|SB 4.4.18]], [[books:sb:4:23:13|SB 4.23.13]], [[books:sb:4:28:50|SB 4.28.50]], [[books:sb:6:16:3|SB 6.16.3]], [[books:sb:7:1:23|SB 7.1.23]], [[books:sb:7:9:25|SB 7.9.25]]

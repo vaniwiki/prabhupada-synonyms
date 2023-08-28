@@ -1,5 +1,11 @@
-~~Title:chinatti~~
-{{description>is cut off; is cut to pieces.}}
+---json
+{
+    "name":"chinatti",
+    "h1":"chinatti",
+    "title":"chinatti",
+    "description":"is cut off; is cut to pieces."
+}
+---
 
 ==== chinatti  ====
   * is cut off --- [[books:sb:3:5:11|SB 3.5.11]]

@@ -1,5 +1,11 @@
-~~Title:īrṣā~~
-{{description>grudges.}}
+---json
+{
+    "name":"īrṣā",
+    "h1":"īrṣā",
+    "title":"īrṣā",
+    "description":"grudges."
+}
+---
 
 ==== īrṣā  ====
   * grudges --- [[books:sb:10:7:13-15|SB 10.7.13-15]]

@@ -1,5 +1,11 @@
-~~Title:yā'na~~
-{{description>go; goes; return; used to go.}}
+---json
+{
+    "name":"yā'na",
+    "h1":"yā'na",
+    "title":"yā'na",
+    "description":"go; goes; return; used to go."
+}
+---
 
 ==== yā'na  ====
   * go --- [[books:cc:madhya:1:63|Madhya 1.63]], [[books:cc:madhya:13:53|Madhya 13.53]]

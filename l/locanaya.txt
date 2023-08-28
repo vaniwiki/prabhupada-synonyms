@@ -1,5 +1,11 @@
-~~Title:locanaya~~
-{{description>for the eyes.}}
+---json
+{
+    "name":"locanaya",
+    "h1":"locanaya",
+    "title":"locanaya",
+    "description":"for the eyes."
+}
+---
 
 ==== locanāya  ====
   * for the eyes --- [[books:cc:madhya:2:74|Madhya 2.74]]

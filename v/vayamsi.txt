@@ -1,5 +1,11 @@
-~~Title:vayāṁsi~~
-{{description>varieties of birds.}}
+---json
+{
+    "name":"vayāṁsi",
+    "h1":"vayāṁsi",
+    "title":"vayāṁsi",
+    "description":"varieties of birds."
+}
+---
 
 ==== vayāṁsi  ====
   * varieties of birds --- [[books:sb:2:1:36|SB 2.1.36]]

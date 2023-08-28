@@ -1,5 +1,11 @@
-~~Title:devajaḥ~~
-{{description>Devaja.}}
+---json
+{
+    "name":"devajaḥ",
+    "h1":"devajaḥ",
+    "title":"devajaḥ",
+    "description":"Devaja."
+}
+---
 
 ==== devajaḥ  ====
   * Devaja --- [[books:sb:9:2:34|SB 9.2.34]]

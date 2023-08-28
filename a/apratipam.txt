@@ -1,5 +1,11 @@
-~~Title:apratīpam~~
-{{description>without any hostility.}}
+---json
+{
+    "name":"apratīpam",
+    "h1":"apratīpam",
+    "title":"apratīpam",
+    "description":"without any hostility."
+}
+---
 
 ==== apratīpam  ====
   * without any hostility --- [[books:sb:4:2:17|SB 4.2.17]]

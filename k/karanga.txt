@@ -1,5 +1,11 @@
-~~Title:karaṅga~~
-{{description>a pitcher carried by saintly persons.}}
+---json
+{
+    "name":"karaṅga",
+    "h1":"karaṅga",
+    "title":"karaṅga",
+    "description":"a pitcher carried by saintly persons."
+}
+---
 
 ==== karaṅga  ====
   * a pitcher carried by saintly persons --- [[books:cc:madhya:12:207|Madhya 12.207]]

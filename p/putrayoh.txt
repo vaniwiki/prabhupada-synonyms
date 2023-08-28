@@ -1,5 +1,11 @@
-~~Title:putrayoḥ~~
-{{description>of the sons; of those two lambs, which she treated as sons; of two sons.}}
+---json
+{
+    "name":"putrayoḥ",
+    "h1":"putrayoḥ",
+    "title":"putrayoḥ",
+    "description":"of the sons; of those two lambs, which she treated as sons; of two sons."
+}
+---
 
 ==== putrayoḥ  ====
   * of the sons --- [[books:sb:3:14:42|SB 3.14.42]]

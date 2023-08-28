@@ -1,5 +1,11 @@
-~~Title:ūrjasvatī~~
-{{description>Ūrjasvatī.}}
+---json
+{
+    "name":"ūrjasvatī",
+    "h1":"ūrjasvatī",
+    "title":"ūrjasvatī",
+    "description":"Ūrjasvatī."
+}
+---
 
 ==== ūrjasvatī  ====
   * Ūrjasvatī --- [[books:sb:6:6:12|SB 6.6.12]]

@@ -1,5 +1,11 @@
-~~Title:dandyah~~
-{{description>to be punished.}}
+---json
+{
+    "name":"dandyah",
+    "h1":"dandyah",
+    "title":"dandyah",
+    "description":"to be punished."
+}
+---
 
 ==== daṇḍyaḥ  ====
   * to be punished --- [[books:sb:6:17:13|SB 6.17.13]]

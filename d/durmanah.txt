@@ -1,5 +1,11 @@
-~~Title:durmanāḥ~~
-{{description>being very unhappy; feeling sorry; having lost the desirable.}}
+---json
+{
+    "name":"durmanāḥ",
+    "h1":"durmanāḥ",
+    "title":"durmanāḥ",
+    "description":"being very unhappy; feeling sorry; having lost the desirable."
+}
+---
 
 ==== durmanāḥ  ====
   * being very unhappy --- [[books:sb:9:18:25|SB 9.18.25]]

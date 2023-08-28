@@ -1,5 +1,11 @@
-~~Title:chayavatsara~~
-{{description>for six years; six years.}}
+---json
+{
+    "name":"chayavatsara",
+    "h1":"chayavatsara",
+    "title":"chayavatsara",
+    "description":"for six years; six years."
+}
+---
 
 ==== chayavatsara  ====
   * for six years --- [[books:cc:madhya:1:19|Madhya 1.19]], [[books:cc:madhya:1:23|Madhya 1.23]]

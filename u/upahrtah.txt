@@ -1,5 +1,11 @@
-~~Title:upāhṛtaḥ~~
-{{description>being controlled.}}
+---json
+{
+    "name":"upāhṛtaḥ",
+    "h1":"upāhṛtaḥ",
+    "title":"upāhṛtaḥ",
+    "description":"being controlled."
+}
+---
 
 ==== upāhṛtaḥ  ====
   * being controlled --- [[books:sb:3:16:11|SB 3.16.11]]

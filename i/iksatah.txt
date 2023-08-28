@@ -1,5 +1,11 @@
-~~Title:īkṣataḥ~~
-{{description>which seeing that.}}
+---json
+{
+    "name":"īkṣataḥ",
+    "h1":"īkṣataḥ",
+    "title":"īkṣataḥ",
+    "description":"which seeing that."
+}
+---
 
 ==== īkṣataḥ  ====
   * which seeing that --- [[books:sb:2:1:21|SB 2.1.21]]

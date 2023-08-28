@@ -1,5 +1,11 @@
-~~Title:kāraṇāni~~
-{{description>cause.}}
+---json
+{
+    "name":"kāraṇāni",
+    "h1":"kāraṇāni",
+    "title":"kāraṇāni",
+    "description":"cause."
+}
+---
 
 ==== kāraṇāni  ====
   * cause --- [[books:bg:18:13-14|Bg. 18.13-14]]

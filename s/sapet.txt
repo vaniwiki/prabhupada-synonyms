@@ -1,5 +1,11 @@
-~~Title:śapet~~
-{{description>must not curse.}}
+---json
+{
+    "name":"śapet",
+    "h1":"śapet",
+    "title":"śapet",
+    "description":"must not curse."
+}
+---
 
 ==== na śapet  ====
   * must not curse --- [[books:sb:6:18:47|SB 6.18.47]]

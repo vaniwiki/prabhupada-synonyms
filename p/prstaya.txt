@@ -1,5 +1,11 @@
-~~Title:pṛṣṭayā~~
-{{description>even though questioned.}}
+---json
+{
+    "name":"pṛṣṭayā",
+    "h1":"pṛṣṭayā",
+    "title":"pṛṣṭayā",
+    "description":"even though questioned."
+}
+---
 
 ==== pṛṣṭayā api  ====
   * even though questioned --- [[books:sb:8:17:20|SB 8.17.20]]

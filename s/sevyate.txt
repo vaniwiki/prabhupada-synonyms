@@ -1,5 +1,11 @@
-~~Title:sevyate~~
-{{description>is served.}}
+---json
+{
+    "name":"sevyate",
+    "h1":"sevyate",
+    "title":"sevyate",
+    "description":"is served."
+}
+---
 
 ==== sevyate  ====
   * is served --- [[books:sb:4:31:9|SB 4.31.9]]

@@ -1,5 +1,11 @@
-~~Title:yādaḥ~~
-{{description>aquatics.}}
+---json
+{
+    "name":"yādaḥ",
+    "h1":"yādaḥ",
+    "title":"yādaḥ",
+    "description":"aquatics."
+}
+---
 
 ==== yādaḥ  ====
   * aquatics --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

@@ -1,5 +1,11 @@
-~~Title:mṛgam~~
-{{description>an animal; the deer.}}
+---json
+{
+    "name":"mṛgam",
+    "h1":"mṛgam",
+    "title":"mṛgam",
+    "description":"an animal; the deer."
+}
+---
 
 ==== mṛgam  ====
   * an animal --- [[books:sb:7:8:17|SB 7.8.17]]

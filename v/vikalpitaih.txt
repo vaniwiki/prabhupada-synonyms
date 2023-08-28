@@ -1,5 +1,11 @@
-~~Title:vikalpitaiḥ~~
-{{description>conceived.}}
+---json
+{
+    "name":"vikalpitaiḥ",
+    "h1":"vikalpitaiḥ",
+    "title":"vikalpitaiḥ",
+    "description":"conceived."
+}
+---
 
 ==== vikalpitaiḥ  ====
   * conceived --- [[books:sb:6:18:33-34|SB 6.18.33-34]]

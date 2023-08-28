@@ -1,5 +1,11 @@
-~~Title:agraiḥ~~
-{{description>by the foremost.}}
+---json
+{
+    "name":"agraiḥ",
+    "h1":"agraiḥ",
+    "title":"agraiḥ",
+    "description":"by the foremost."
+}
+---
 
 ==== agraiḥ  ====
   * by the foremost --- [[books:sb:2:9:15|SB 2.9.15]]

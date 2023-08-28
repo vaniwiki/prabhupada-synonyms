@@ -1,5 +1,11 @@
-~~Title:tiṅho~~
-{{description>He (the Lord); He; Lord Kṛṣṇa; She; the Lord; the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"tiṅho",
+    "h1":"tiṅho",
+    "title":"tiṅho",
+    "description":"He (the Lord); He; Lord Kṛṣṇa; She; the Lord; the Supreme Personality of Godhead."
+}
+---
 
 ==== tiṅho  ====
   * He (the Lord) --- [[books:cc:adi:5:85|Ādi 5.85]]

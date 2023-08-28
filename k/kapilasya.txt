@@ -1,5 +1,11 @@
-~~Title:kapilasya~~
-{{description>Kapila, the son of Devahūti; of Kapila; of Lord Kapila.}}
+---json
+{
+    "name":"kapilasya",
+    "h1":"kapilasya",
+    "title":"kapilasya",
+    "description":"Kapila, the son of Devahūti; of Kapila; of Lord Kapila."
+}
+---
 
 ==== kapilasya  ====
   * Kapila, the son of Devahūti --- [[books:sb:8:1:6|SB 8.1.6]]

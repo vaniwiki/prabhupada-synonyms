@@ -1,5 +1,11 @@
-~~Title:vaihāyasānām~~
-{{description>of the beings known as the Vaihāyasas.}}
+---json
+{
+    "name":"vaihāyasānām",
+    "h1":"vaihāyasānām",
+    "title":"vaihāyasānām",
+    "description":"of the beings known as the Vaihāyasas."
+}
+---
 
 ==== vaihāyasānām  ====
   * of the beings known as the Vaihāyasas --- [[books:sb:2:2:22|SB 2.2.22]]

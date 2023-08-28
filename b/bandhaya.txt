@@ -1,5 +1,11 @@
-~~Title:bandhāya~~
-{{description>for bondage; for conditional life; for the bondage.}}
+---json
+{
+    "name":"bandhāya",
+    "h1":"bandhāya",
+    "title":"bandhāya",
+    "description":"for bondage; for conditional life; for the bondage."
+}
+---
 
 ==== bandhāya  ====
   * for bondage --- [[books:sb:3:25:15|SB 3.25.15]], [[books:sb:4:30:19|SB 4.30.19]]

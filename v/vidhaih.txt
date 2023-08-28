@@ -1,5 +1,11 @@
-~~Title:vidhaiḥ~~
-{{description>by the process of.}}
+---json
+{
+    "name":"vidhaiḥ",
+    "h1":"vidhaiḥ",
+    "title":"vidhaiḥ",
+    "description":"by the process of."
+}
+---
 
 ==== vidhaiḥ  ====
   * by the process of --- [[books:sb:3:11:33|SB 3.11.33]]

@@ -1,5 +1,11 @@
-~~Title:babhāja~~
-{{description>worshiped.}}
+---json
+{
+    "name":"babhāja",
+    "h1":"babhāja",
+    "title":"babhāja",
+    "description":"worshiped."
+}
+---
 
 ==== babhāja  ====
   * worshiped --- [[books:sb:7:8:34|SB 7.8.34]]

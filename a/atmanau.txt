@@ -1,5 +1,11 @@
-~~Title:ātmānau~~
-{{description>both the same in identity.}}
+---json
+{
+    "name":"ātmānau",
+    "h1":"ātmānau",
+    "title":"ātmānau",
+    "description":"both the same in identity."
+}
+---
 
 ==== eka-ātmānau  ====
   * both the same in identity --- [[books:cc:adi:1:5|Ādi 1.5]], [[books:cc:adi:4:55|Ādi 4.55]]

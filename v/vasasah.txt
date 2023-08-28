@@ -1,5 +1,11 @@
-~~Title:vāsasaḥ~~
-{{description>wearing garments.}}
+---json
+{
+    "name":"vāsasaḥ",
+    "h1":"vāsasaḥ",
+    "title":"vāsasaḥ",
+    "description":"wearing garments."
+}
+---
 
 ==== vāsasaḥ  ====
   * wearing garments --- [[books:sb:6:1:34-36|SB 6.1.34-36]]

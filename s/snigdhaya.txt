@@ -1,5 +1,11 @@
-~~Title:snigdhayā~~
-{{description>always pleased by her behavior.}}
+---json
+{
+    "name":"snigdhayā",
+    "h1":"snigdhayā",
+    "title":"snigdhayā",
+    "description":"always pleased by her behavior."
+}
+---
 
 ==== snigdhayā  ====
   * always pleased by her behavior --- [[books:sb:9:11:35|SB 9.11.35]]

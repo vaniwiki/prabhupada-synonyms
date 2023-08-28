@@ -1,5 +1,11 @@
-~~Title:pārṣṇibhyām~~
-{{description>by the calves.}}
+---json
+{
+    "name":"pārṣṇibhyām",
+    "h1":"pārṣṇibhyām",
+    "title":"pārṣṇibhyām",
+    "description":"by the calves."
+}
+---
 
 ==== pārṣṇibhyām  ====
   * by the calves --- [[books:sb:4:23:14|SB 4.23.14]]

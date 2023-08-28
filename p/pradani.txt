@@ -1,5 +1,11 @@
-~~Title:pradāni~~
-{{description>benevolent.}}
+---json
+{
+    "name":"pradāni",
+    "h1":"pradāni",
+    "title":"pradāni",
+    "description":"benevolent."
+}
+---
 
 ==== vara-pradāni  ====
   * benevolent --- [[books:sb:3:25:35|SB 3.25.35]]

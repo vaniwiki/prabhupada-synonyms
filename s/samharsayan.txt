@@ -1,5 +1,11 @@
-~~Title:saṁharṣayan~~
-{{description>enhancing their pleasure.}}
+---json
+{
+    "name":"saṁharṣayan",
+    "h1":"saṁharṣayan",
+    "title":"saṁharṣayan",
+    "description":"enhancing their pleasure."
+}
+---
 
 ==== saṁharṣayan  ====
   * enhancing their pleasure --- [[books:sb:4:21:19|SB 4.21.19]]

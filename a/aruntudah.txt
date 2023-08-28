@@ -1,5 +1,11 @@
-~~Title:aruntudah~~
-{{description>causing torment.}}
+---json
+{
+    "name":"aruntudah",
+    "h1":"aruntudah",
+    "title":"aruntudah",
+    "description":"causing torment."
+}
+---
 
 ==== aruntudaḥ  ====
   * causing torment --- [[books:sb:3:19:30|SB 3.19.30]]

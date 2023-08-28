@@ -1,5 +1,11 @@
-~~Title:adhyatmikah~~
-{{description>is possessed of the sense organs.}}
+---json
+{
+    "name":"adhyatmikah",
+    "h1":"adhyatmikah",
+    "title":"adhyatmikah",
+    "description":"is possessed of the sense organs."
+}
+---
 
 ==== adhyātmikaḥ  ====
   * is possessed of the sense organs --- [[books:sb:2:10:8|SB 2.10.8]]

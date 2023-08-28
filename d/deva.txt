@@ -1,5 +1,11 @@
-~~Title:deva~~
-{{description>addressing my Lord; against you; among the demigods; as demigods; as good as the demigods; by Kṛṣṇa; by the demigods; by the Lord; celestial; dear Lord; demigod; demigods; living energy; my dear King; my Lord; O demigod; O King; O Lord; O master of the demigods; O my Lord; O Supreme Lord; of all demigods; of all the demigods; of providence; of the demigods; of the Supreme Lord; persons coming from the heavenly planets; the demigod; the demigods; the demigods from other planets; the demigods, or controlling deities; the heavenly planets; the Lord; the Personality of Godhead; the Supreme God; the Supreme Lord; the Supreme Personality of Godhead (Śrī Kṛṣṇa); the Supreme Personality of Godhead; to the demigods; unto the demigods; with the demigods.}}
+---json
+{
+    "name":"deva",
+    "h1":"deva",
+    "title":"deva",
+    "description":"addressing my Lord; against you; among the demigods; as demigods; as good as the demigods; by Kṛṣṇa; by the demigods; by the Lord; celestial; dear Lord; demigod; demigods; living energy; my dear King; my Lord; O demigod; O King; O Lord; O master of the demigods; O my Lord; O Supreme Lord; of all demigods; of all the demigods; of providence; of the demigods; of the Supreme Lord; persons coming from the heavenly planets; the demigod; the demigods; the demigods from other planets; the demigods, or controlling deities; the heavenly planets; the Lord; the Personality of Godhead; the Supreme God; the Supreme Lord; the Supreme Personality of Godhead (Śrī Kṛṣṇa); the Supreme Personality of Godhead; to the demigods; unto the demigods; with the demigods."
+}
+---
 
 ==== deva  ====
   * addressing my Lord --- [[books:sb:3:2:22|SB 3.2.22]]

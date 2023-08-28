@@ -1,5 +1,11 @@
-~~Title:abdheḥ~~
-{{description>who is the ocean of nectar.}}
+---json
+{
+    "name":"abdheḥ",
+    "h1":"abdheḥ",
+    "title":"abdheḥ",
+    "description":"who is the ocean of nectar."
+}
+---
 
 ==== amṛta-abdheḥ  ====
   * who is the ocean of nectar --- [[books:cc:madhya:13:80|Madhya 13.80]]

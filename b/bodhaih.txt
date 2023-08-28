@@ -1,5 +1,11 @@
-~~Title:bodhaiḥ~~
-{{description>who are highly learned philosophers; who were highly learned philosophers.}}
+---json
+{
+    "name":"bodhaiḥ",
+    "h1":"bodhaiḥ",
+    "title":"bodhaiḥ",
+    "description":"who are highly learned philosophers; who were highly learned philosophers."
+}
+---
 
 ==== agādha-bodhaiḥ  ====
   * who are highly learned philosophers --- [[books:cc:madhya:13:136|Madhya 13.136]]

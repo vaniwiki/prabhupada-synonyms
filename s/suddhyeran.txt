@@ -1,5 +1,11 @@
-~~Title:śuddhyeran~~
-{{description>may be purified.}}
+---json
+{
+    "name":"śuddhyeran",
+    "h1":"śuddhyeran",
+    "title":"śuddhyeran",
+    "description":"may be purified."
+}
+---
 
 ==== śuddhyeran  ====
   * may be purified --- [[books:sb:6:13:8-9|SB 6.13.8-9]]

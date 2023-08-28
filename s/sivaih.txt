@@ -1,5 +1,11 @@
-~~Title:śivaiḥ~~
-{{description>auspicious.}}
+---json
+{
+    "name":"śivaiḥ",
+    "h1":"śivaiḥ",
+    "title":"śivaiḥ",
+    "description":"auspicious."
+}
+---
 
 ==== śivaiḥ  ====
   * auspicious --- [[books:sb:4:9:50|SB 4.9.50]]

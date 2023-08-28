@@ -1,5 +1,11 @@
-~~Title:paritarpaṇam~~
-{{description>satisfying.}}
+---json
+{
+    "name":"paritarpaṇam",
+    "h1":"paritarpaṇam",
+    "title":"paritarpaṇam",
+    "description":"satisfying."
+}
+---
 
 ==== paritarpaṇam  ====
   * satisfying --- [[books:sb:9:21:10|SB 9.21.10]]

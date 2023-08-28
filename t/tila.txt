@@ -1,5 +1,11 @@
-~~Title:tila~~
-{{description>hills of grain.}}
+---json
+{
+    "name":"tila",
+    "h1":"tila",
+    "title":"tila",
+    "description":"hills of grain."
+}
+---
 
 ==== tila-adrīn  ====
   * hills of grain --- [[books:sb:10:5:3|SB 10.5.3]]

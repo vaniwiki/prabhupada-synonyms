@@ -1,5 +1,11 @@
-~~Title:vaidagdhī~~
-{{description>etiquette.}}
+---json
+{
+    "name":"vaidagdhī",
+    "h1":"vaidagdhī",
+    "title":"vaidagdhī",
+    "description":"etiquette."
+}
+---
 
 ==== vaidagdhī  ====
   * etiquette --- [[books:cc:antya:12:60|Antya 12.60]]

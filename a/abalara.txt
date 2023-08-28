@@ -1,5 +1,11 @@
-~~Title:abalāra~~
-{{description>of an innocent woman.}}
+---json
+{
+    "name":"abalāra",
+    "h1":"abalāra",
+    "title":"abalāra",
+    "description":"of an innocent woman."
+}
+---
 
 ==== abalāra  ====
   * of an innocent woman --- [[books:cc:madhya:2:22|Madhya 2.22]]

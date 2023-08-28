@@ -1,5 +1,11 @@
-~~Title:tāḍane~~
-{{description>chastisement; chastising.}}
+---json
+{
+    "name":"tāḍane",
+    "h1":"tāḍane",
+    "title":"tāḍane",
+    "description":"chastisement; chastising."
+}
+---
 
 ==== tāḍane  ====
   * chastisement --- [[books:cc:madhya:14:134|Madhya 14.134]]

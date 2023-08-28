@@ -1,5 +1,11 @@
-~~Title:saṁhāri'~~
-{{description>killing.}}
+---json
+{
+    "name":"saṁhāri'",
+    "h1":"saṁhāri'",
+    "title":"saṁhāri'",
+    "description":"killing."
+}
+---
 
 ==== saṁhāri'  ====
   * killing --- [[books:cc:adi:17:53|Ādi 17.53]]

@@ -1,5 +1,11 @@
-~~Title:ulbaṇe~~
-{{description>in the great blazing fire of battle.}}
+---json
+{
+    "name":"ulbaṇe",
+    "h1":"ulbaṇe",
+    "title":"ulbaṇe",
+    "description":"in the great blazing fire of battle."
+}
+---
 
 ==== saṅgrāme ulbaṇe  ====
   * in the great blazing fire of battle --- [[books:sb:6:14:6|SB 6.14.6]]

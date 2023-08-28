@@ -1,5 +1,11 @@
-~~Title:mantraṇā~~
-{{description>instruction.}}
+---json
+{
+    "name":"mantraṇā",
+    "h1":"mantraṇā",
+    "title":"mantraṇā",
+    "description":"instruction."
+}
+---
 
 ==== mantraṇā  ====
   * instruction --- [[books:cc:madhya:11:59|Madhya 11.59]]

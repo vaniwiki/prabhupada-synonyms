@@ -1,5 +1,11 @@
-~~Title:pātakāni~~
-{{description>sins.}}
+---json
+{
+    "name":"pātakāni",
+    "h1":"pātakāni",
+    "title":"pātakāni",
+    "description":"sins."
+}
+---
 
 ==== pātakāni  ====
   * sins --- [[books:sb:1:19:34|SB 1.19.34]]

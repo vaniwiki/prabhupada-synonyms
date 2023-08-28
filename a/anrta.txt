@@ -1,5 +1,11 @@
-~~Title:anṛta~~
-{{description>falsehood; untruth; untruthfulness.}}
+---json
+{
+    "name":"anṛta",
+    "h1":"anṛta",
+    "title":"anṛta",
+    "description":"falsehood; untruth; untruthfulness."
+}
+---
 
 ==== anṛta  ====
   * falsehood --- [[books:sb:1:14:3|SB 1.14.3]]

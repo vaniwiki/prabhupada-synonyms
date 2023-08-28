@@ -1,5 +1,11 @@
-~~Title:kārṣṇa~~
-{{description>made of iron.}}
+---json
+{
+    "name":"kārṣṇa",
+    "h1":"kārṣṇa",
+    "title":"kārṣṇa",
+    "description":"made of iron."
+}
+---
 
 ==== kārṣṇa-ayasam  ====
   * made of iron --- [[books:sb:6:12:24|SB 6.12.24]]

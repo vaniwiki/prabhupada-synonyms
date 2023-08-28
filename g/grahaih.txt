@@ -1,5 +1,11 @@
-~~Title:grahaiḥ~~
-{{description>among the planets; by the acquiring.}}
+---json
+{
+    "name":"grahaiḥ",
+    "h1":"grahaiḥ",
+    "title":"grahaiḥ",
+    "description":"among the planets; by the acquiring."
+}
+---
 
 ==== grahaiḥ  ====
   * among the planets --- [[books:sb:9:10:44|SB 9.10.44]]

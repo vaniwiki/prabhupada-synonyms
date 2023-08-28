@@ -1,5 +1,11 @@
-~~Title:śuniyācha~~
-{{description>have heard.}}
+---json
+{
+    "name":"śuniyācha",
+    "h1":"śuniyācha",
+    "title":"śuniyācha",
+    "description":"have heard."
+}
+---
 
 ==== śuniyācha  ====
   * have heard --- [[books:cc:madhya:2:39|Madhya 2.39]]

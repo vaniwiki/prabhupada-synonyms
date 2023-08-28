@@ -1,5 +1,11 @@
-~~Title:adharmam~~
-{{description>demons or the impious; irreligion; irreligious act; irreligious principles.}}
+---json
+{
+    "name":"adharmam",
+    "h1":"adharmam",
+    "title":"adharmam",
+    "description":"demons or the impious; irreligion; irreligious act; irreligious principles."
+}
+---
 
 ==== adharmam  ====
   * demons or the impious --- [[books:cc:madhya:13:79|Madhya 13.79]]

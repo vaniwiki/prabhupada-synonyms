@@ -1,5 +1,11 @@
-~~Title:purīṣam~~
-{{description>stool.}}
+---json
+{
+    "name":"purīṣam",
+    "h1":"purīṣam",
+    "title":"purīṣam",
+    "description":"stool."
+}
+---
 
 ==== purīṣam  ====
   * stool --- [[books:sb:3:32:19|SB 3.32.19]]

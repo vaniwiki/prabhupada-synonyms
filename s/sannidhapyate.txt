@@ -1,5 +1,11 @@
-~~Title:sannidhāpyate~~
-{{description>becomes visible.}}
+---json
+{
+    "name":"sannidhāpyate",
+    "h1":"sannidhāpyate",
+    "title":"sannidhāpyate",
+    "description":"becomes visible."
+}
+---
 
 ==== sannidhāpyate  ====
   * becomes visible --- [[books:sb:5:7:9|SB 5.7.9]]

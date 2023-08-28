@@ -1,5 +1,11 @@
-~~Title:acire~~
-{{description>very soon.}}
+---json
+{
+    "name":"acire",
+    "h1":"acire",
+    "title":"acire",
+    "description":"very soon."
+}
+---
 
 ==== acire  ====
   * very soon --- [[books:cc:adi:17:332|Ādi 17.332]], [[books:cc:madhya:3:218|Madhya 3.218]], [[books:cc:madhya:5:160|Madhya 5.160]], [[books:cc:madhya:6:284-285|Madhya 6.284-285]], [[books:cc:madhya:15:277|Madhya 15.277]], [[books:cc:madhya:16:149|Madhya 16.149]], [[books:cc:madhya:16:263-264|Madhya 16.263-264]], [[books:cc:antya:6:143|Antya 6.143]], [[books:cc:antya:11:91-93|Antya 11.91-93]], [[books:cc:antya:13:121|Antya 13.121]]

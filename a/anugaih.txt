@@ -1,5 +1,11 @@
-~~Title:anugaiḥ~~
-{{description>by the black bees.}}
+---json
+{
+    "name":"anugaiḥ",
+    "h1":"anugaiḥ",
+    "title":"anugaiḥ",
+    "description":"by the black bees."
+}
+---
 
 ==== anugaiḥ  ====
   * by the black bees --- [[books:sb:2:9:14|SB 2.9.14]]

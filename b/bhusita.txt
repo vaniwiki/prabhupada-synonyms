@@ -1,5 +1,11 @@
-~~Title:bhusita~~
-{{description>being decorated; decorated.}}
+---json
+{
+    "name":"bhusita",
+    "h1":"bhusita",
+    "title":"bhusita",
+    "description":"being decorated; decorated."
+}
+---
 
 ==== bhūṣita  ====
   * being decorated --- [[books:cc:madhya:14:201|Madhya 14.201]]

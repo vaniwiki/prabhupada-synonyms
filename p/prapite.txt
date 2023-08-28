@@ -1,5 +1,11 @@
-~~Title:prāpite~~
-{{description>being degraded to.}}
+---json
+{
+    "name":"prāpite",
+    "h1":"prāpite",
+    "title":"prāpite",
+    "description":"being degraded to."
+}
+---
 
 ==== prāpite  ====
   * being degraded to --- [[books:sb:9:18:3|SB 9.18.3]]

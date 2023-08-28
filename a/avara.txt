@@ -1,5 +1,11 @@
-~~Title:avara~~
-{{description>inferior; later; mundane.}}
+---json
+{
+    "name":"avara",
+    "h1":"avara",
+    "title":"avara",
+    "description":"inferior; later; mundane."
+}
+---
 
 ==== avara  ====
   * inferior --- [[books:sb:3:5:37|SB 3.5.37]]

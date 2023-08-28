@@ -1,5 +1,11 @@
-~~Title:deya~~
-{{description>allows; deliver; delivers; distributes; gave; give; gives; he pays; offers; pay; practices; they give.}}
+---json
+{
+    "name":"deya",
+    "h1":"deya",
+    "title":"deya",
+    "description":"allows; deliver; delivers; distributes; gave; give; gives; he pays; offers; pay; practices; they give."
+}
+---
 
 ==== deya  ====
   * allows --- [[books:cc:madhya:21:144|Madhya 21.144]]

@@ -1,5 +1,11 @@
-~~Title:abhāvayan~~
-{{description>evolved; filled.}}
+---json
+{
+    "name":"abhāvayan",
+    "h1":"abhāvayan",
+    "title":"abhāvayan",
+    "description":"evolved; filled."
+}
+---
 
 ==== abhāvayan  ====
   * evolved --- [[books:sb:3:20:10|SB 3.20.10]]

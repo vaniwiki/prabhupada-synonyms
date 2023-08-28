@@ -1,5 +1,11 @@
-~~Title:juṣoḥ~~
-{{description>which is understood by.}}
+---json
+{
+    "name":"juṣoḥ",
+    "h1":"juṣoḥ",
+    "title":"juṣoḥ",
+    "description":"which is understood by."
+}
+---
 
 ==== juṣoḥ  ====
   * which is understood by --- [[books:cc:adi:5:36|Ādi 5.36]]

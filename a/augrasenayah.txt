@@ -1,5 +1,11 @@
-~~Title:augrasenayaḥ~~
-{{description>the sons of Ugrasena.}}
+---json
+{
+    "name":"augrasenayaḥ",
+    "h1":"augrasenayaḥ",
+    "title":"augrasenayaḥ",
+    "description":"the sons of Ugrasena."
+}
+---
 
 ==== augrasenayaḥ  ====
   * the sons of Ugrasena --- [[books:sb:9:24:24|SB 9.24.24]]

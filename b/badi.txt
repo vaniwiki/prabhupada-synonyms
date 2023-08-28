@@ -1,5 +1,11 @@
-~~Title:badi~~
-{{description>with split dāl.}}
+---json
+{
+    "name":"badi",
+    "h1":"badi",
+    "title":"badi",
+    "description":"with split dāl."
+}
+---
 
 ==== baḍi  ====
   * with split //dāl// --- [[books:cc:madhya:3:45|Madhya 3.45]]

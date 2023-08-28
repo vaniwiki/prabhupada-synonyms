@@ -1,5 +1,11 @@
-~~Title:gīrvāṇāḥ~~
-{{description>the demigods.}}
+---json
+{
+    "name":"gīrvāṇāḥ",
+    "h1":"gīrvāṇāḥ",
+    "title":"gīrvāṇāḥ",
+    "description":"the demigods."
+}
+---
 
 ==== gīrvāṇāḥ  ====
   * the demigods --- [[books:sb:8:15:32|SB 8.15.32]]

@@ -1,5 +1,11 @@
-~~Title:unmādera~~
-{{description>of a madman; of madness.}}
+---json
+{
+    "name":"unmādera",
+    "h1":"unmādera",
+    "title":"unmādera",
+    "description":"of a madman; of madness."
+}
+---
 
 ==== unmādera  ====
   * of a madman --- [[books:cc:adi:13:40|Ādi 13.40]], [[books:cc:antya:17:3|Antya 17.3]]

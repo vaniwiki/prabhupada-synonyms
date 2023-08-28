@@ -1,5 +1,11 @@
-~~Title:visarjana~~
-{{description>giving up.}}
+---json
+{
+    "name":"visarjana",
+    "h1":"visarjana",
+    "title":"visarjana",
+    "description":"giving up."
+}
+---
 
 ==== visarjana  ====
   * giving up --- [[books:cc:madhya:22:117|Madhya 22.117]]

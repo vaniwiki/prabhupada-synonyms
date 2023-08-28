@@ -1,5 +1,11 @@
-~~Title:kheṭa~~
-{{description>agricultural lands; agricultural places; agricultural towns; farm villages.}}
+---json
+{
+    "name":"kheṭa",
+    "h1":"kheṭa",
+    "title":"kheṭa",
+    "description":"agricultural lands; agricultural places; agricultural towns; farm villages."
+}
+---
 
 ==== kheṭa  ====
   * agricultural lands --- [[books:sb:1:6:11|SB 1.6.11]]

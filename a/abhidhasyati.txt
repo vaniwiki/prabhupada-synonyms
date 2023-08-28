@@ -1,5 +1,11 @@
-~~Title:abhidhāsyati~~
-{{description>explains.}}
+---json
+{
+    "name":"abhidhāsyati",
+    "h1":"abhidhāsyati",
+    "title":"abhidhāsyati",
+    "description":"explains."
+}
+---
 
 ==== abhidhāsyati  ====
   * explains --- [[books:bg:18:68|Bg. 18.68]]

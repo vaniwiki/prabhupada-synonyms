@@ -1,5 +1,11 @@
-~~Title:viśaṅkayā~~
-{{description>without any doubt.}}
+---json
+{
+    "name":"viśaṅkayā",
+    "h1":"viśaṅkayā",
+    "title":"viśaṅkayā",
+    "description":"without any doubt."
+}
+---
 
 ==== viśaṅkayā  ====
   * without any doubt --- [[books:sb:4:24:67|SB 4.24.67]]

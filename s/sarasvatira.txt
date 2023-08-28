@@ -1,5 +1,11 @@
-~~Title:sarasvatīra~~
-{{description>of Sarasvatī.}}
+---json
+{
+    "name":"sarasvatīra",
+    "h1":"sarasvatīra",
+    "title":"sarasvatīra",
+    "description":"of Sarasvatī."
+}
+---
 
 ==== sarasvatīra  ====
   * of Sarasvatī --- [[books:cc:antya:5:154|Antya 5.154]]

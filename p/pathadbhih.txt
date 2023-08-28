@@ -1,5 +1,11 @@
-~~Title:paṭhadbhiḥ~~
-{{description>reciting from the Vedas.}}
+---json
+{
+    "name":"paṭhadbhiḥ",
+    "h1":"paṭhadbhiḥ",
+    "title":"paṭhadbhiḥ",
+    "description":"reciting from the Vedas."
+}
+---
 
 ==== paṭhadbhiḥ  ====
   * reciting from the //Vedas// --- [[books:sb:9:10:35-38|SB 9.10.35-38]]

@@ -1,5 +1,11 @@
-~~Title:avasthitaiḥ~~
-{{description>who were residing.}}
+---json
+{
+    "name":"avasthitaiḥ",
+    "h1":"avasthitaiḥ",
+    "title":"avasthitaiḥ",
+    "description":"who were residing."
+}
+---
 
 ==== avasthitaiḥ  ====
   * who were residing --- [[books:sb:9:3:35|SB 9.3.35]]

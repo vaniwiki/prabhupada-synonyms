@@ -1,5 +1,11 @@
-~~Title:iṣūn~~
-{{description>arrows.}}
+---json
+{
+    "name":"iṣūn",
+    "h1":"iṣūn",
+    "title":"iṣūn",
+    "description":"arrows."
+}
+---
 
 ==== iṣūn  ====
   * arrows --- [[books:sb:4:15:18|SB 4.15.18]]

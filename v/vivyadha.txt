@@ -1,5 +1,11 @@
-~~Title:vivyādha~~
-{{description>pierced.}}
+---json
+{
+    "name":"vivyādha",
+    "h1":"vivyādha",
+    "title":"vivyādha",
+    "description":"pierced."
+}
+---
 
 ==== vivyādha  ====
   * pierced --- [[books:sb:7:2:56|SB 7.2.56]]

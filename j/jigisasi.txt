@@ -1,5 +1,11 @@
-~~Title:jigīṣasi~~
-{{description>are eager to conquer; you are trying to become victorious.}}
+---json
+{
+    "name":"jigīṣasi",
+    "h1":"jigīṣasi",
+    "title":"jigīṣasi",
+    "description":"are eager to conquer; you are trying to become victorious."
+}
+---
 
 ==== jigīṣasi  ====
   * are eager to conquer --- [[books:sb:3:19:10|SB 3.19.10]]

@@ -1,5 +1,11 @@
-~~Title:āviśya~~
-{{description>entering; entering into; entering the heart; having entered.}}
+---json
+{
+    "name":"āviśya",
+    "h1":"āviśya",
+    "title":"āviśya",
+    "description":"entering; entering into; entering the heart; having entered."
+}
+---
 
 ==== āviśya  ====
   * entering --- [[books:bg:15:13|Bg. 15.13]], [[books:bg:15:17|Bg. 15.17]], [[books:sb:4:21:52|SB 4.21.52]], [[books:sb:5:7:14|SB 5.7.14]], [[books:sb:6:16:3|SB 6.16.3]], [[books:sb:7:1:6|SB 7.1.6]]

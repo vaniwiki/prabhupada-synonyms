@@ -1,5 +1,11 @@
-~~Title:kadalī~~
-{{description>of banana trees.}}
+---json
+{
+    "name":"kadalī",
+    "h1":"kadalī",
+    "title":"kadalī",
+    "description":"of banana trees."
+}
+---
 
 ==== kadalī  ====
   * of banana trees --- [[books:sb:4:6:21|SB 4.6.21]], [[books:sb:4:9:54|SB 4.9.54]]

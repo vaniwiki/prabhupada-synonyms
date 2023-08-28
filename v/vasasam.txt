@@ -1,5 +1,11 @@
-~~Title:vasasam~~
-{{description>clothing; garments; whose garment.}}
+---json
+{
+    "name":"vasasam",
+    "h1":"vasasam",
+    "title":"vasasam",
+    "description":"clothing; garments; whose garment."
+}
+---
 
 ==== vāsasam  ====
   * clothing --- [[books:sb:1:12:8|SB 1.12.8]]

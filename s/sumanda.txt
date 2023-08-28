@@ -1,5 +1,11 @@
-~~Title:sumanda~~
-{{description>misguided.}}
+---json
+{
+    "name":"sumanda",
+    "h1":"sumanda",
+    "title":"sumanda",
+    "description":"misguided."
+}
+---
 
 ==== sumanda-matayaḥ  ====
   * misguided --- [[books:sb:1:1:10|SB 1.1.10]]

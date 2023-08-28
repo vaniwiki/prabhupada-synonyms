@@ -1,5 +1,11 @@
-~~Title:svasraḥ~~
-{{description>of his sister and brother-in-law.}}
+---json
+{
+    "name":"svasraḥ",
+    "h1":"svasraḥ",
+    "title":"svasraḥ",
+    "description":"of his sister and brother-in-law."
+}
+---
 
 ==== svasraḥ  ====
   * of his sister and brother-in-law --- [[books:sb:10:4:23|SB 10.4.23]]

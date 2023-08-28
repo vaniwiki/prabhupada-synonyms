@@ -1,5 +1,11 @@
-~~Title:prasūti~~
-{{description>headed by Prasūti.}}
+---json
+{
+    "name":"prasūti",
+    "h1":"prasūti",
+    "title":"prasūti",
+    "description":"headed by Prasūti."
+}
+---
 
 ==== prasūti-miśrāḥ  ====
   * headed by Prasūti --- [[books:sb:4:5:9|SB 4.5.9]]

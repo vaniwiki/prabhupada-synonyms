@@ -1,5 +1,11 @@
-~~Title:vartase~~
-{{description>you exist.}}
+---json
+{
+    "name":"vartase",
+    "h1":"vartase",
+    "title":"vartase",
+    "description":"you exist."
+}
+---
 
 ==== vartase  ====
   * you exist --- [[books:sb:1:16:25|SB 1.16.25]]

@@ -1,5 +1,11 @@
-~~Title:anuvāda~~
-{{description>assessment; known things; repetition; subject; subjects; the known; the subject.}}
+---json
+{
+    "name":"anuvāda",
+    "h1":"anuvāda",
+    "title":"anuvāda",
+    "description":"assessment; known things; repetition; subject; subjects; the known; the subject."
+}
+---
 
 ==== anuvāda  ====
   * assessment --- [[books:cc:madhya:25:242|Madhya 25.242]]

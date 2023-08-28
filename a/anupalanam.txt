@@ -1,5 +1,11 @@
-~~Title:anupālanam~~
-{{description>giving protection always.}}
+---json
+{
+    "name":"anupālanam",
+    "h1":"anupālanam",
+    "title":"anupālanam",
+    "description":"giving protection always."
+}
+---
 
 ==== anupālanam  ====
   * giving protection always --- [[books:sb:1:17:16|SB 1.17.16]]

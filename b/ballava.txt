@@ -1,5 +1,11 @@
-~~Title:ballava~~
-{{description>of the friend of the gopīs, Śrī Kṛṣṇa.}}
+---json
+{
+    "name":"ballava",
+    "h1":"ballava",
+    "title":"ballava",
+    "description":"of the friend of the gopīs, Śrī Kṛṣṇa."
+}
+---
 
 ==== ballava-vadhū-bandhaḥ  ====
   * of the friend of the //gopīs,// Śrī Kṛṣṇa --- [[books:cc:antya:1:138|Antya 1.138]]

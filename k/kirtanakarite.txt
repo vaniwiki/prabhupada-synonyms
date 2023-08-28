@@ -1,5 +1,11 @@
-~~Title:kīrtanakarite~~
-{{description>while performing chanting.}}
+---json
+{
+    "name":"kīrtanakarite",
+    "h1":"kīrtanakarite",
+    "title":"kīrtanakarite",
+    "description":"while performing chanting."
+}
+---
 
 ==== kīrtanakarite  ====
   * while performing chanting --- [[books:cc:madhya:3:162|Madhya 3.162]]

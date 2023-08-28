@@ -1,5 +1,11 @@
-~~Title:āsichoṅ~~
-{{description>shall come back.}}
+---json
+{
+    "name":"āsichoṅ",
+    "h1":"āsichoṅ",
+    "title":"āsichoṅ",
+    "description":"shall come back."
+}
+---
 
 ==== āsichoṅ  ====
   * shall come back --- [[books:cc:madhya:15:293|Madhya 15.293]]

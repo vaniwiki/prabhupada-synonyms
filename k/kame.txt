@@ -1,5 +1,11 @@
-~~Title:kāme~~
-{{description>with desires.}}
+---json
+{
+    "name":"kāme",
+    "h1":"kāme",
+    "title":"kāme",
+    "description":"with desires."
+}
+---
 
 ==== kāme  ====
   * with desires --- [[books:cc:madhya:24:196|Madhya 24.196]]

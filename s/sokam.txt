@@ -1,5 +1,11 @@
-~~Title:śokam~~
-{{description>bereavement; lamentation; the bereavement.}}
+---json
+{
+    "name":"śokam",
+    "h1":"śokam",
+    "title":"śokam",
+    "description":"bereavement; lamentation; the bereavement."
+}
+---
 
 ==== śokam  ====
   * bereavement --- [[books:sb:3:4:23|SB 3.4.23]]

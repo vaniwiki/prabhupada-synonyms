@@ -1,5 +1,11 @@
-~~Title:taruṇī~~
-{{description>of young women.}}
+---json
+{
+    "name":"taruṇī",
+    "h1":"taruṇī",
+    "title":"taruṇī",
+    "description":"of young women."
+}
+---
 
 ==== taruṇī  ====
   * of young women --- [[books:cc:antya:15:78|Antya 15.78]]

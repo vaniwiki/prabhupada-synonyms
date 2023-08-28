@@ -1,5 +1,11 @@
-~~Title:pṛcchati~~
-{{description>asking; enquires.}}
+---json
+{
+    "name":"pṛcchati",
+    "h1":"pṛcchati",
+    "title":"pṛcchati",
+    "description":"asking; enquires."
+}
+---
 
 ==== pṛcchati  ====
   * asking --- [[books:sb:1:4:5|SB 1.4.5]], [[books:sb:1:16:18|SB 1.16.18]]

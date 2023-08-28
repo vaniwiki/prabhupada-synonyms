@@ -1,5 +1,11 @@
-~~Title:vibudhān~~
-{{description>all the demigods; demigods.}}
+---json
+{
+    "name":"vibudhān",
+    "h1":"vibudhān",
+    "title":"vibudhān",
+    "description":"all the demigods; demigods."
+}
+---
 
 ==== vibudhān  ====
   * all the demigods --- [[books:sb:8:11:43|SB 8.11.43]]

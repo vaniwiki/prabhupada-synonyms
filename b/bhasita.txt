@@ -1,5 +1,11 @@
-~~Title:bhāṣita~~
-{{description>spoken.}}
+---json
+{
+    "name":"bhāṣita",
+    "h1":"bhāṣita",
+    "title":"bhāṣita",
+    "description":"spoken."
+}
+---
 
 ==== bhāṣita  ====
   * spoken --- [[books:cc:antya:17:44|Antya 17.44]]

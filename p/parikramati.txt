@@ -1,5 +1,11 @@
-~~Title:parikrāmati~~
-{{description>wanders.}}
+---json
+{
+    "name":"parikrāmati",
+    "h1":"parikrāmati",
+    "title":"parikrāmati",
+    "description":"wanders."
+}
+---
 
 ==== parikrāmati  ====
   * wanders --- [[books:sb:5:26:17|SB 5.26.17]]

@@ -1,5 +1,11 @@
-~~Title:vahi~~
-{{description>flowing over his beard.}}
+---json
+{
+    "name":"vahi",
+    "h1":"vahi",
+    "title":"vahi",
+    "description":"flowing over his beard."
+}
+---
 
 ==== dāḍi vāhi'  ====
   * flowing over his beard --- [[books:cc:antya:6:29|Antya 6.29]]

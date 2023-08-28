@@ -1,5 +1,11 @@
-~~Title:dhāvana~~
-{{description>washing the teeth.}}
+---json
+{
+    "name":"dhāvana",
+    "h1":"dhāvana",
+    "title":"dhāvana",
+    "description":"washing the teeth."
+}
+---
 
 ==== danta-dhāvana  ====
   * washing the teeth --- [[books:cc:madhya:6:223|Madhya 6.223]], [[books:cc:madhya:24:332|Madhya 24.332]]

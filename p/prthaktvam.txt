@@ -1,5 +1,11 @@
-~~Title:pṛthaktvam~~
-{{description>separately; separatism.}}
+---json
+{
+    "name":"pṛthaktvam",
+    "h1":"pṛthaktvam",
+    "title":"pṛthaktvam",
+    "description":"separately; separatism."
+}
+---
 
 ==== pṛthaktvam  ====
   * separately --- [[books:sb:2:10:28|SB 2.10.28]]

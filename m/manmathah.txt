@@ -1,5 +1,11 @@
-~~Title:manmathaḥ~~
-{{description>Cupid; the bewilderer.}}
+---json
+{
+    "name":"manmathaḥ",
+    "h1":"manmathaḥ",
+    "title":"manmathaḥ",
+    "description":"Cupid; the bewilderer."
+}
+---
 
 ==== manmathaḥ  ====
   * Cupid --- [[books:cc:adi:5:214|Ādi 5.214]], [[books:cc:madhya:8:140|Madhya 8.140]]

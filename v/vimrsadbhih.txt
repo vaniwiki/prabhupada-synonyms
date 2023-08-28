@@ -1,5 +1,11 @@
-~~Title:vimṛśadbhiḥ~~
-{{description>by those making a serious analysis.}}
+---json
+{
+    "name":"vimṛśadbhiḥ",
+    "h1":"vimṛśadbhiḥ",
+    "title":"vimṛśadbhiḥ",
+    "description":"by those making a serious analysis."
+}
+---
 
 ==== vimṛśadbhiḥ  ====
   * by those making a serious analysis --- [[books:sb:7:7:24|SB 7.7.24]]

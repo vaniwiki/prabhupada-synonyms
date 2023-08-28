@@ -1,5 +1,11 @@
-~~Title:bhāvayase~~
-{{description>manifest.}}
+---json
+{
+    "name":"bhāvayase",
+    "h1":"bhāvayase",
+    "title":"bhāvayase",
+    "description":"manifest."
+}
+---
 
 ==== bhāvayase  ====
   * manifest --- [[books:sb:2:5:5|SB 2.5.5]]

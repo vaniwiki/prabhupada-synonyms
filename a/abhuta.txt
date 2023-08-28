@@ -1,5 +1,11 @@
-~~Title:abhūta~~
-{{description>unprecedented.}}
+---json
+{
+    "name":"abhūta",
+    "h1":"abhūta",
+    "title":"abhūta",
+    "description":"unprecedented."
+}
+---
 
 ==== abhūta-pūrvaḥ  ====
   * unprecedented --- [[books:sb:1:18:29|SB 1.18.29]]

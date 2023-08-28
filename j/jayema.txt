@@ -1,5 +1,11 @@
-~~Title:jayema~~
-{{description>can conquer; can conquer over; conquer us.}}
+---json
+{
+    "name":"jayema",
+    "h1":"jayema",
+    "title":"jayema",
+    "description":"can conquer; can conquer over; conquer us."
+}
+---
 
 ==== jayema  ====
   * can conquer --- [[books:sb:3:14:20|SB 3.14.20]]

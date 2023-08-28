@@ -1,5 +1,11 @@
-~~Title:riṣyate~~
-{{description>annihilated; been lost.}}
+---json
+{
+    "name":"riṣyate",
+    "h1":"riṣyate",
+    "title":"riṣyate",
+    "description":"annihilated; been lost."
+}
+---
 
 ==== riṣyate  ====
   * annihilated --- [[books:sb:8:12:46|SB 8.12.46]]

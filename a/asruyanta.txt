@@ -1,5 +1,11 @@
-~~Title:aśrūyanta~~
-{{description>being heard.}}
+---json
+{
+    "name":"aśrūyanta",
+    "h1":"aśrūyanta",
+    "title":"aśrūyanta",
+    "description":"being heard."
+}
+---
 
 ==== aśrūyanta  ====
   * being heard --- [[books:sb:1:10:19|SB 1.10.19]]

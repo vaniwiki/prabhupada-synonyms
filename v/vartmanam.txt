@@ -1,5 +1,11 @@
-~~Title:vartmanām~~
-{{description>of persons whose path.}}
+---json
+{
+    "name":"vartmanām",
+    "h1":"vartmanām",
+    "title":"vartmanām",
+    "description":"of persons whose path."
+}
+---
 
 ==== vartmanām  ====
   * of persons whose path --- [[books:sb:4:20:25|SB 4.20.25]]

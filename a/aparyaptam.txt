@@ -1,5 +1,11 @@
-~~Title:aparyāptam~~
-{{description>immeasurable.}}
+---json
+{
+    "name":"aparyāptam",
+    "h1":"aparyāptam",
+    "title":"aparyāptam",
+    "description":"immeasurable."
+}
+---
 
 ==== aparyāptam  ====
   * immeasurable --- [[books:bg:1:10|Bg. 1.10]]

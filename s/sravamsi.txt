@@ -1,5 +1,11 @@
-~~Title:śravāṁsi~~
-{{description>and sound.}}
+---json
+{
+    "name":"śravāṁsi",
+    "h1":"śravāṁsi",
+    "title":"śravāṁsi",
+    "description":"and sound."
+}
+---
 
 ==== śravāṁsi  ====
   * and sound --- [[books:sb:5:11:10|SB 5.11.10]]

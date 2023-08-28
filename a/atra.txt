@@ -1,5 +1,11 @@
-~~Title:atra~~
-{{description>at the present moment; at this time; here (because of separation from Kṛṣṇa); here (in this gṛhastha-āśrama, or householder life); here (in this gambling match); here; here in this forest; here, in the matter of the beauty; here, in the third birth; here, on this earth; here, on this spot; herein; herewith; in Śrīmad-Bhāgavatam; in my kingdom; in the world; in these places; in this Śrīmad-Bhāgavatam; in this; in this body; in this connection; in this heavenly planet; in this life; in this life or world; in this Manu's reign; in this material world; in this matter; in this sacrificial arena; in this situation; in this world; on the spot; therein; under the circumstances; within this material world.}}
+---json
+{
+    "name":"atra",
+    "h1":"atra",
+    "title":"atra",
+    "description":"at the present moment; at this time; here (because of separation from Kṛṣṇa); here (in this gṛhastha-āśrama, or householder life); here (in this gambling match); here; here in this forest; here, in the matter of the beauty; here, in the third birth; here, on this earth; here, on this spot; herein; herewith; in Śrīmad-Bhāgavatam; in my kingdom; in the world; in these places; in this Śrīmad-Bhāgavatam; in this; in this body; in this connection; in this heavenly planet; in this life; in this life or world; in this Manu's reign; in this material world; in this matter; in this sacrificial arena; in this situation; in this world; on the spot; therein; under the circumstances; within this material world."
+}
+---
 
 ==== atra  ====
   * at the present moment --- [[books:sb:7:2:38|SB 7.2.38]]

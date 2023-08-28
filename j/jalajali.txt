@@ -1,5 +1,11 @@
-~~Title:jalājali~~
-{{description>throwing water upon one another.}}
+---json
+{
+    "name":"jalājali",
+    "h1":"jalājali",
+    "title":"jalājali",
+    "description":"throwing water upon one another."
+}
+---
 
 ==== jalājali  ====
   * throwing water upon one another --- [[books:cc:antya:18:87|Antya 18.87]]

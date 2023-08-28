@@ -1,5 +1,11 @@
-~~Title:stuvanti~~
-{{description>do pray; offer prayers; singing hymns; they offer prayers; they praise.}}
+---json
+{
+    "name":"stuvanti",
+    "h1":"stuvanti",
+    "title":"stuvanti",
+    "description":"do pray; offer prayers; singing hymns; they offer prayers; they praise."
+}
+---
 
 ==== stuvanti  ====
   * do pray --- [[books:sb:2:7:8|SB 2.7.8]]

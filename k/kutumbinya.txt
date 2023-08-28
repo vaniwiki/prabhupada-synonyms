@@ -1,5 +1,11 @@
-~~Title:kuṭumbinyā~~
-{{description>along with his wife.}}
+---json
+{
+    "name":"kuṭumbinyā",
+    "h1":"kuṭumbinyā",
+    "title":"kuṭumbinyā",
+    "description":"along with his wife."
+}
+---
 
 ==== kuṭumbinyā  ====
   * along with his wife --- [[books:sb:4:28:12|SB 4.28.12]]

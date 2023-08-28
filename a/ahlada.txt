@@ -1,5 +1,11 @@
-~~Title:āhlāda~~
-{{description>an ecstasy of joyful life; joy; of pleasure; of spiritual bliss; pleasure; with happiness.}}
+---json
+{
+    "name":"āhlāda",
+    "h1":"āhlāda",
+    "title":"āhlāda",
+    "description":"an ecstasy of joyful life; joy; of pleasure; of spiritual bliss; pleasure; with happiness."
+}
+---
 
 ==== āhlāda  ====
   * an ecstasy of joyful life --- [[books:sb:9:10:31|SB 9.10.31]]

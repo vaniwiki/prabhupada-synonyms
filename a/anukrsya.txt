@@ -1,5 +1,11 @@
-~~Title:anukṛṣya~~
-{{description>dragging Their legs.}}
+---json
+{
+    "name":"anukṛṣya",
+    "h1":"anukṛṣya",
+    "title":"anukṛṣya",
+    "description":"dragging Their legs."
+}
+---
 
 ==== aṅghri-yugmam anukṛṣya  ====
   * dragging Their legs --- [[books:sb:10:8:22|SB 10.8.22]]

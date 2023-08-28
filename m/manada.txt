@@ -1,5 +1,11 @@
-~~Title:mānada~~
-{{description>measured.}}
+---json
+{
+    "name":"mānada",
+    "h1":"mānada",
+    "title":"mānada",
+    "description":"measured."
+}
+---
 
 ==== mānada  ====
   * measured --- [[books:sb:3:11:10|SB 3.11.10]]

@@ -1,5 +1,11 @@
-~~Title:nirhṛtam~~
-{{description>exhausted.}}
+---json
+{
+    "name":"nirhṛtam",
+    "h1":"nirhṛtam",
+    "title":"nirhṛtam",
+    "description":"exhausted."
+}
+---
 
 ==== nirhṛtam  ====
   * exhausted --- [[books:sb:1:10:2|SB 1.10.2]]

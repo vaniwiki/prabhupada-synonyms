@@ -1,5 +1,11 @@
-~~Title:purāṇeṣu~~
-{{description>in the purāṇas (supplementary Vedic literature); in the purāṇas.}}
+---json
+{
+    "name":"purāṇeṣu",
+    "h1":"purāṇeṣu",
+    "title":"purāṇeṣu",
+    "description":"in the purāṇas (supplementary Vedic literature); in the purāṇas."
+}
+---
 
 ==== purāṇeṣu  ====
   * in the //purāṇas// (supplementary Vedic literature) --- [[books:sb:7:14:29|SB 7.14.29]]

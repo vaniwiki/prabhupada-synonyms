@@ -1,5 +1,11 @@
-~~Title:vitarka~~
-{{description>opposing arguments.}}
+---json
+{
+    "name":"vitarka",
+    "h1":"vitarka",
+    "title":"vitarka",
+    "description":"opposing arguments."
+}
+---
 
 ==== vitarka  ====
   * opposing arguments --- [[books:sb:6:9:36|SB 6.9.36]]

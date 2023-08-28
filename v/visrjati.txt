@@ -1,5 +1,11 @@
-~~Title:visṛjati~~
-{{description>gives up.}}
+---json
+{
+    "name":"visṛjati",
+    "h1":"visṛjati",
+    "title":"visṛjati",
+    "description":"gives up."
+}
+---
 
 ==== visṛjati  ====
   * gives up --- [[books:cc:madhya:25:128|Madhya 25.128]]

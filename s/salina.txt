@@ -1,5 +1,11 @@
-~~Title:śālīna~~
-{{description>livelihood achieved without effort; livelihood without asking anyone for cooperation.}}
+---json
+{
+    "name":"śālīna",
+    "h1":"śālīna",
+    "title":"śālīna",
+    "description":"livelihood achieved without effort; livelihood without asking anyone for cooperation."
+}
+---
 
 ==== śālīna  ====
   * livelihood achieved without effort --- [[books:sb:7:11:16|SB 7.11.16]]

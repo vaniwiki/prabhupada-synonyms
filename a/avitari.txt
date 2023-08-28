@@ -1,5 +1,11 @@
-~~Title:avitari~~
-{{description>the controller of religion.}}
+---json
+{
+    "name":"avitari",
+    "h1":"avitari",
+    "title":"avitari",
+    "description":"the controller of religion."
+}
+---
 
 ==== dharma-avitari  ====
   * the controller of religion --- [[books:sb:4:4:17|SB 4.4.17]]

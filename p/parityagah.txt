@@ -1,5 +1,11 @@
-~~Title:parityāgaḥ~~
-{{description>renunciation.}}
+---json
+{
+    "name":"parityāgaḥ",
+    "h1":"parityāgaḥ",
+    "title":"parityāgaḥ",
+    "description":"renunciation."
+}
+---
 
 ==== parityāgaḥ  ====
   * renunciation --- [[books:bg:18:7|Bg. 18.7]]

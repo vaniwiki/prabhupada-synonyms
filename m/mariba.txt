@@ -1,5 +1,11 @@
-~~Title:mariba~~
-{{description>we shall die.}}
+---json
+{
+    "name":"mariba",
+    "h1":"mariba",
+    "title":"mariba",
+    "description":"we shall die."
+}
+---
 
 ==== mariba  ====
   * we shall die --- [[books:cc:madhya:5:41|Madhya 5.41]]

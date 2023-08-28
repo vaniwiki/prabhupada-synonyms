@@ -1,5 +1,11 @@
-~~Title:agrajah~~
-{{description>older brother.}}
+---json
+{
+    "name":"agrajah",
+    "h1":"agrajah",
+    "title":"agrajah",
+    "description":"older brother."
+}
+---
 
 ==== agrajaḥ  ====
   * older brother --- [[books:sb:10:8:34|SB 10.8.34]]

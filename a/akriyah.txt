@@ -1,5 +1,11 @@
-~~Title:akriyaḥ~~
-{{description>Akriya; without duty.}}
+---json
+{
+    "name":"akriyaḥ",
+    "h1":"akriyaḥ",
+    "title":"akriyaḥ",
+    "description":"Akriya; without duty."
+}
+---
 
 ==== akriyaḥ  ====
   * Akriya --- [[books:sb:9:17:10|SB 9.17.10]]

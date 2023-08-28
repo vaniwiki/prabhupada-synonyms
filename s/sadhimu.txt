@@ -1,5 +1,11 @@
-~~Title:sādhimu~~
-{{description>shall carry out.}}
+---json
+{
+    "name":"sādhimu",
+    "h1":"sādhimu",
+    "title":"sādhimu",
+    "description":"shall carry out."
+}
+---
 
 ==== sādhimu  ====
   * shall carry out --- [[books:cc:antya:4:78|Antya 4.78]]

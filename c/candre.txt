@@ -1,5 +1,11 @@
-~~Title:candre~~
-{{description>for a moon; unto Candra, the mood demigod.}}
+---json
+{
+    "name":"candre",
+    "h1":"candre",
+    "title":"candre",
+    "description":"for a moon; unto Candra, the mood demigod."
+}
+---
 
 ==== candre  ====
   * for a moon --- [[books:cc:adi:13:91|Ādi 13.91]]

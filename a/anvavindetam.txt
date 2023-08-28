@@ -1,5 +1,11 @@
-~~Title:anvavindetām~~
-{{description>enjoyed.}}
+---json
+{
+    "name":"anvavindetām",
+    "h1":"anvavindetām",
+    "title":"anvavindetām",
+    "description":"enjoyed."
+}
+---
 
 ==== anvavindetām  ====
   * enjoyed --- [[books:sb:10:8:47|SB 10.8.47]]

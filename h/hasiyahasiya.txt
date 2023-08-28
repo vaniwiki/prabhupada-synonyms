@@ -1,5 +1,11 @@
-~~Title:hāsiyāhāsiya~~
-{{description>smiling.}}
+---json
+{
+    "name":"hāsiyāhāsiya",
+    "h1":"hāsiyāhāsiya",
+    "title":"hāsiyāhāsiya",
+    "description":"smiling."
+}
+---
 
 ==== hāsiyāhāsiya  ====
   * smiling --- [[books:cc:adi:17:216|Ādi 17.216]]

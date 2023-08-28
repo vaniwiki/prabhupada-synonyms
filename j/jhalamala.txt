@@ -1,5 +1,11 @@
-~~Title:jhalamala~~
-{{description>bright; dazzle; glittering.}}
+---json
+{
+    "name":"jhalamala",
+    "h1":"jhalamala",
+    "title":"jhalamala",
+    "description":"bright; dazzle; glittering."
+}
+---
 
 ==== jhalamala  ====
   * bright --- [[books:cc:madhya:12:212|Madhya 12.212]]

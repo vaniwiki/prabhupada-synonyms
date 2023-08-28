@@ -1,5 +1,11 @@
-~~Title:āsvāde~~
-{{description>by tasting; by the taste; by the tasting; in tasting; relishes this palatable nectar; taste; tastes; tasting.}}
+---json
+{
+    "name":"āsvāde",
+    "h1":"āsvāde",
+    "title":"āsvāde",
+    "description":"by tasting; by the taste; by the tasting; in tasting; relishes this palatable nectar; taste; tastes; tasting."
+}
+---
 
 ==== āsvāde  ====
   * by tasting --- [[books:cc:adi:9:48|Ādi 9.48]], [[books:cc:adi:10:88|Ādi 10.88]]

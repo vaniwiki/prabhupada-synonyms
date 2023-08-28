@@ -1,5 +1,11 @@
-~~Title:acarat~~
-{{description>executed; performed; practice; undertook; will travel.}}
+---json
+{
+    "name":"acarat",
+    "h1":"acarat",
+    "title":"acarat",
+    "description":"executed; performed; practice; undertook; will travel."
+}
+---
 
 ==== acarat  ====
   * executed --- [[books:sb:6:4:20|SB 6.4.20]]

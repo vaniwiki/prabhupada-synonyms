@@ -1,5 +1,11 @@
-~~Title:durmāyinaḥ~~
-{{description>of you, who can perform so much jugglery with illusions.}}
+---json
+{
+    "name":"durmāyinaḥ",
+    "h1":"durmāyinaḥ",
+    "title":"durmāyinaḥ",
+    "description":"of you, who can perform so much jugglery with illusions."
+}
+---
 
 ==== durmāyinaḥ  ====
   * of you, who can perform so much jugglery with illusions --- [[books:sb:8:11:6|SB 8.11.6]]

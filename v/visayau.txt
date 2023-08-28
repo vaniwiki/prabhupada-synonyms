@@ -1,5 +1,11 @@
-~~Title:viṣayau~~
-{{description>two places.}}
+---json
+{
+    "name":"viṣayau",
+    "h1":"viṣayau",
+    "title":"viṣayau",
+    "description":"two places."
+}
+---
 
 ==== viṣayau  ====
   * two places --- [[books:sb:4:25:49|SB 4.25.49]]

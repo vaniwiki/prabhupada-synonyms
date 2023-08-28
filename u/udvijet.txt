@@ -1,5 +1,11 @@
-~~Title:udvijet~~
-{{description>agitated.}}
+---json
+{
+    "name":"udvijet",
+    "h1":"udvijet",
+    "title":"udvijet",
+    "description":"agitated."
+}
+---
 
 ==== udvijet  ====
   * agitated --- [[books:bg:5:20|Bg. 5.20]]

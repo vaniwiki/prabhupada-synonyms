@@ -1,5 +1,11 @@
-~~Title:āviśati~~
-{{description>approaches; enters.}}
+---json
+{
+    "name":"āviśati",
+    "h1":"āviśati",
+    "title":"āviśati",
+    "description":"approaches; enters."
+}
+---
 
 ==== āviśati  ====
   * approaches --- [[books:sb:3:29:39|SB 3.29.39]]

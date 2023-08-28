@@ -1,5 +1,11 @@
-~~Title:jaṭābhiḥ~~
-{{description>with locks of hair.}}
+---json
+{
+    "name":"jaṭābhiḥ",
+    "h1":"jaṭābhiḥ",
+    "title":"jaṭābhiḥ",
+    "description":"with locks of hair."
+}
+---
 
 ==== yutam jaṭābhiḥ  ====
   * with locks of hair --- [[books:sb:9:15:29|SB 9.15.29]]

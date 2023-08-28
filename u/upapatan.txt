@@ -1,5 +1,11 @@
-~~Title:upāpatan~~
-{{description>fell down.}}
+---json
+{
+    "name":"upāpatan",
+    "h1":"upāpatan",
+    "title":"upāpatan",
+    "description":"fell down."
+}
+---
 
 ==== upāpatan  ====
   * fell down --- [[books:sb:7:2:29-31|SB 7.2.29-31]]

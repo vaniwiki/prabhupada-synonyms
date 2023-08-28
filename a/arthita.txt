@@ -1,5 +1,11 @@
-~~Title:arthitā~~
-{{description>a demand for a benediction; desire; request.}}
+---json
+{
+    "name":"arthitā",
+    "h1":"arthitā",
+    "title":"arthitā",
+    "description":"a demand for a benediction; desire; request."
+}
+---
 
 ==== arthitā  ====
   * a demand for a benediction --- [[books:sb:5:19:27|SB 5.19.27]]

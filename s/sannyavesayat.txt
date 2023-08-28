@@ -1,5 +1,11 @@
-~~Title:sannyaveśayat~~
-{{description>made to lie down on the bed.}}
+---json
+{
+    "name":"sannyaveśayat",
+    "h1":"sannyaveśayat",
+    "title":"sannyaveśayat",
+    "description":"made to lie down on the bed."
+}
+---
 
 ==== sannyaveśayat  ====
   * made to lie down on the bed --- [[books:sb:10:6:30|SB 10.6.30]]

@@ -1,5 +1,11 @@
-~~Title:śabda~~
-{{description>by the word; of the sound; sound; sounds; such a word; the sound; the sound vibration; the word; the words; these words; vibration; words.}}
+---json
+{
+    "name":"śabda",
+    "h1":"śabda",
+    "title":"śabda",
+    "description":"by the word; of the sound; sound; sounds; such a word; the sound; the sound vibration; the word; the words; these words; vibration; words."
+}
+---
 
 ==== śabda  ====
   * by the word --- [[books:sb:3:32:32|SB 3.32.32]]

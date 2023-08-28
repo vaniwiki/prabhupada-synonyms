@@ -1,5 +1,11 @@
-~~Title:mithilā~~
-{{description>the kingdom called Mithilā.}}
+---json
+{
+    "name":"mithilā",
+    "h1":"mithilā",
+    "title":"mithilā",
+    "description":"the kingdom called Mithilā."
+}
+---
 
 ==== mithilā  ====
   * the kingdom called Mithilā --- [[books:sb:9:13:13|SB 9.13.13]]

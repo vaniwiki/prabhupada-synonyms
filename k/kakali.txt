@@ -1,5 +1,11 @@
-~~Title:kākalī~~
-{{description>the sweet tone; vibration of the flute.}}
+---json
+{
+    "name":"kākalī",
+    "h1":"kākalī",
+    "title":"kākalī",
+    "description":"the sweet tone; vibration of the flute."
+}
+---
 
 ==== kākalī  ====
   * the sweet tone --- [[books:cc:antya:1:189|Antya 1.189]]

@@ -1,5 +1,11 @@
-~~Title:dhūmāt~~
-{{description>from the smoke.}}
+---json
+{
+    "name":"dhūmāt",
+    "h1":"dhūmāt",
+    "title":"dhūmāt",
+    "description":"from the smoke."
+}
+---
 
 ==== dhūmāt  ====
   * from the smoke --- [[books:sb:3:28:40|SB 3.28.40]]

@@ -1,5 +1,11 @@
-~~Title:abhyantare~~
-{{description>in the interior rooms; inside; to the private house; within the house; within the room.}}
+---json
+{
+    "name":"abhyantare",
+    "h1":"abhyantare",
+    "title":"abhyantare",
+    "description":"in the interior rooms; inside; to the private house; within the house; within the room."
+}
+---
 
 ==== abhyantare  ====
   * in the interior rooms --- [[books:cc:antya:6:155|Antya 6.155]]

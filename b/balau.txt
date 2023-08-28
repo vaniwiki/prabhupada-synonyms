@@ -1,5 +1,11 @@
-~~Title:balau~~
-{{description>ignorant.}}
+---json
+{
+    "name":"balau",
+    "h1":"balau",
+    "title":"balau",
+    "description":"ignorant."
+}
+---
 
 ==== bālau  ====
   * ignorant --- [[books:sb:4:27:25|SB 4.27.25]]

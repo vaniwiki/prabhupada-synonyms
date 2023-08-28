@@ -1,5 +1,11 @@
-~~Title:upādhāvat~~
-{{description>he worshiped; immediately went; offered prayers; worshiped.}}
+---json
+{
+    "name":"upādhāvat",
+    "h1":"upādhāvat",
+    "title":"upādhāvat",
+    "description":"he worshiped; immediately went; offered prayers; worshiped."
+}
+---
 
 ==== upādhāvat  ====
   * he worshiped --- [[books:sb:4:7:56|SB 4.7.56]]

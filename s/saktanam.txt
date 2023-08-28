@@ -1,5 +1,11 @@
-~~Title:saktānām~~
-{{description>of persons who are too attached.}}
+---json
+{
+    "name":"saktānām",
+    "h1":"saktānām",
+    "title":"saktānām",
+    "description":"of persons who are too attached."
+}
+---
 
 ==== saktānām  ====
   * of persons who are too attached --- [[books:sb:1:13:17|SB 1.13.17]]

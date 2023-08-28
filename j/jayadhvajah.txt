@@ -1,5 +1,11 @@
-~~Title:jayadhvajaḥ~~
-{{description>Jayadhvaja.}}
+---json
+{
+    "name":"jayadhvajaḥ",
+    "h1":"jayadhvajaḥ",
+    "title":"jayadhvajaḥ",
+    "description":"Jayadhvaja."
+}
+---
 
 ==== jayadhvajaḥ  ====
   * Jayadhvaja --- [[books:sb:9:23:27|SB 9.23.27]]

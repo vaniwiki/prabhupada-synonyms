@@ -1,5 +1,11 @@
-~~Title:prāṇa~~
-{{description>air going outward; air of respiration; for bodily strength or prestige; his life; how the living force is working; incoming breath; life; life air; life airs; life and soul; my heart; my life; my mind; of life; of the life air; of the life force; of the vital air; of the vital organs; outgoing air; the life; the life air (by the prāṇāyāma process); the life air; the life airs; the life and soul; the living force; the vital air; to the living force.}}
+---json
+{
+    "name":"prāṇa",
+    "h1":"prāṇa",
+    "title":"prāṇa",
+    "description":"air going outward; air of respiration; for bodily strength or prestige; his life; how the living force is working; incoming breath; life; life air; life airs; life and soul; my heart; my life; my mind; of life; of the life air; of the life force; of the vital air; of the vital organs; outgoing air; the life; the life air (by the prāṇāyāma process); the life air; the life airs; the life and soul; the living force; the vital air; to the living force."
+}
+---
 
 ==== prāṇa  ====
   * air going outward --- [[books:bg:4:29|Bg. 4.29]]

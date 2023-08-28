@@ -1,5 +1,11 @@
-~~Title:paricarya~~
-{{description>worshiping.}}
+---json
+{
+    "name":"paricarya",
+    "h1":"paricarya",
+    "title":"paricarya",
+    "description":"worshiping."
+}
+---
 
 ==== paricarya  ====
   * worshiping --- [[books:sb:4:8:20|SB 4.8.20]]

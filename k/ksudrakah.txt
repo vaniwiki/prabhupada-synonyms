@@ -1,5 +1,11 @@
-~~Title:kṣudrakaḥ~~
-{{description>Kṣudraka.}}
+---json
+{
+    "name":"kṣudrakaḥ",
+    "h1":"kṣudrakaḥ",
+    "title":"kṣudrakaḥ",
+    "description":"Kṣudraka."
+}
+---
 
 ==== kṣudrakaḥ  ====
   * Kṣudraka --- [[books:sb:9:12:14|SB 9.12.14]]

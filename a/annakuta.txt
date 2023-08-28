@@ -1,5 +1,11 @@
-~~Title:annakūṭa~~
-{{description>by the name Annakūṭa.}}
+---json
+{
+    "name":"annakūṭa",
+    "h1":"annakūṭa",
+    "title":"annakūṭa",
+    "description":"by the name Annakūṭa."
+}
+---
 
 ==== annakūṭa-nāme  ====
   * by the name Annakūṭa --- [[books:cc:madhya:18:26|Madhya 18.26]]

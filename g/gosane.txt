@@ -1,5 +1,11 @@
-~~Title:gosāñe~~
-{{description>the ācārya.}}
+---json
+{
+    "name":"gosāñe",
+    "h1":"gosāñe",
+    "title":"gosāñe",
+    "description":"the ācārya."
+}
+---
 
 ==== gosāñe  ====
   * the //ācārya// --- [[books:cc:adi:7:165|Ādi 7.165]]

@@ -1,5 +1,11 @@
-~~Title:akhaṇḍaḥ~~
-{{description>completely without distortion.}}
+---json
+{
+    "name":"akhaṇḍaḥ",
+    "h1":"akhaṇḍaḥ",
+    "title":"akhaṇḍaḥ",
+    "description":"completely without distortion."
+}
+---
 
 ==== akhaṇḍaḥ  ====
   * completely without distortion --- [[books:cc:antya:1:175|Antya 1.175]]

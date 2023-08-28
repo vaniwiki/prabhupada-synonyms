@@ -1,5 +1,11 @@
-~~Title:vṛndāvanahaite~~
-{{description>from Vṛndāvana.}}
+---json
+{
+    "name":"vṛndāvanahaite",
+    "h1":"vṛndāvanahaite",
+    "title":"vṛndāvanahaite",
+    "description":"from Vṛndāvana."
+}
+---
 
 ==== vṛndāvanahaite  ====
   * from Vṛndāvana --- [[books:cc:antya:6:288|Antya 6.288]]

@@ -1,5 +1,11 @@
-~~Title:śiṣyeṣu~~
-{{description>with their disciples.}}
+---json
+{
+    "name":"śiṣyeṣu",
+    "h1":"śiṣyeṣu",
+    "title":"śiṣyeṣu",
+    "description":"with their disciples."
+}
+---
 
 ==== sa-śiṣyeṣu  ====
   * with their disciples --- [[books:sb:8:18:23|SB 8.18.23]]

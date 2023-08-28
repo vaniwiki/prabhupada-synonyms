@@ -1,5 +1,11 @@
-~~Title:arakṣitā~~
-{{description>one who does not protect.}}
+---json
+{
+    "name":"arakṣitā",
+    "h1":"arakṣitā",
+    "title":"arakṣitā",
+    "description":"one who does not protect."
+}
+---
 
 ==== arakṣitā  ====
   * one who does not protect --- [[books:sb:4:20:14|SB 4.20.14]]

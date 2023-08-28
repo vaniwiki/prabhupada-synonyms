@@ -1,5 +1,11 @@
-~~Title:sisyah~~
-{{description>a disciple; as a disciple; disciple.}}
+---json
+{
+    "name":"sisyah",
+    "h1":"sisyah",
+    "title":"sisyah",
+    "description":"a disciple; as a disciple; disciple."
+}
+---
 
 ==== śiṣyaḥ  ====
   * a disciple --- [[books:sb:8:15:3|SB 8.15.3]]

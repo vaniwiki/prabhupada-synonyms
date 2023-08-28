@@ -1,5 +1,11 @@
-~~Title:bāliśam~~
-{{description>childish.}}
+---json
+{
+    "name":"bāliśam",
+    "h1":"bāliśam",
+    "title":"bāliśam",
+    "description":"childish."
+}
+---
 
 ==== bāliśam  ====
   * childish --- [[books:cc:antya:5:137|Antya 5.137]]

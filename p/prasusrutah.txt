@@ -1,5 +1,11 @@
-~~Title:prasuśrutaḥ~~
-{{description>Prasuśruta, his son.}}
+---json
+{
+    "name":"prasuśrutaḥ",
+    "h1":"prasuśrutaḥ",
+    "title":"prasuśrutaḥ",
+    "description":"Prasuśruta, his son."
+}
+---
 
 ==== prasuśrutaḥ  ====
   * Prasuśruta, his son --- [[books:sb:9:12:7|SB 9.12.7]]

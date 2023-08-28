@@ -1,5 +1,11 @@
-~~Title:chunila~~
-{{description>touched.}}
+---json
+{
+    "name":"chunila",
+    "h1":"chunila",
+    "title":"chunila",
+    "description":"touched."
+}
+---
 
 ==== chuṅila  ====
   * touched --- [[books:cc:madhya:6:193|Madhya 6.193]]

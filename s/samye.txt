@@ -1,5 +1,11 @@
-~~Title:sāmye~~
-{{description>in appearing equal to; in equanimity; in the matter.}}
+---json
+{
+    "name":"sāmye",
+    "h1":"sāmye",
+    "title":"sāmye",
+    "description":"in appearing equal to; in equanimity; in the matter."
+}
+---
 
 ==== sāmye  ====
   * in appearing equal to --- [[books:cc:madhya:8:215|Madhya 8.215]]

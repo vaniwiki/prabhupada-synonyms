@@ -1,5 +1,11 @@
-~~Title:kālindīm~~
-{{description>the River Yamunā.}}
+---json
+{
+    "name":"kālindīm",
+    "h1":"kālindīm",
+    "title":"kālindīm",
+    "description":"the River Yamunā."
+}
+---
 
 ==== kālindīm  ====
   * the River Yamunā --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

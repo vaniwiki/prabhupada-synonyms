@@ -1,5 +1,11 @@
-~~Title:viṭaṅkitāḥ~~
-{{description>decorated.}}
+---json
+{
+    "name":"viṭaṅkitāḥ",
+    "h1":"viṭaṅkitāḥ",
+    "title":"viṭaṅkitāḥ",
+    "description":"decorated."
+}
+---
 
 ==== viṭaṅkitāḥ  ====
   * decorated --- [[books:sb:4:4:5|SB 4.4.5]]

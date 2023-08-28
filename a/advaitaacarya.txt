@@ -1,5 +1,11 @@
-~~Title:advaitaācārya~~
-{{description>and Advaita Ācārya; of the name Advaita Ācārya; Prabhu Advaita Ācārya.}}
+---json
+{
+    "name":"advaitaācārya",
+    "h1":"advaitaācārya",
+    "title":"advaitaācārya",
+    "description":"and Advaita Ācārya; of the name Advaita Ācārya; Prabhu Advaita Ācārya."
+}
+---
 
 ==== advaitaācārya  ====
   * and Advaita Ācārya --- [[books:cc:adi:5:144-145|Ādi 5.144-145]]

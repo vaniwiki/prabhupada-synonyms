@@ -1,5 +1,11 @@
-~~Title:savitā~~
-{{description>Savitā; the sun; the sun-god.}}
+---json
+{
+    "name":"savitā",
+    "h1":"savitā",
+    "title":"savitā",
+    "description":"Savitā; the sun; the sun-god."
+}
+---
 
 ==== savitā  ====
   * Savitā --- [[books:sb:6:6:38-39|SB 6.6.38-39]]

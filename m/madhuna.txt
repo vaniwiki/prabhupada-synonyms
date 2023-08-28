@@ -1,5 +1,11 @@
-~~Title:madhunā~~
-{{description>by wine; with honey.}}
+---json
+{
+    "name":"madhunā",
+    "h1":"madhunā",
+    "title":"madhunā",
+    "description":"by wine; with honey."
+}
+---
 
 ==== madhunā  ====
   * by wine --- [[books:sb:7:4:13|SB 7.4.13]]

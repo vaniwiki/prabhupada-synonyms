@@ -1,5 +1,11 @@
-~~Title:niramitraḥ~~
-{{description>Niramitra.}}
+---json
+{
+    "name":"niramitraḥ",
+    "h1":"niramitraḥ",
+    "title":"niramitraḥ",
+    "description":"Niramitra."
+}
+---
 
 ==== niramitraḥ  ====
   * Niramitra --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

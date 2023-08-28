@@ -1,5 +1,11 @@
-~~Title:ṭuṅgi~~
-{{description>platform.}}
+---json
+{
+    "name":"ṭuṅgi",
+    "h1":"ṭuṅgi",
+    "title":"ṭuṅgi",
+    "description":"platform."
+}
+---
 
 ==== ṭuṅgi  ====
   * platform --- [[books:cc:madhya:15:123|Madhya 15.123]]

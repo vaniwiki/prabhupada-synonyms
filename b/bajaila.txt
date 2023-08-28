@@ -1,5 +1,11 @@
-~~Title:bajaila~~
-{{description>blew.}}
+---json
+{
+    "name":"bajaila",
+    "h1":"bajaila",
+    "title":"bajaila",
+    "description":"blew."
+}
+---
 
 ==== bājāila  ====
   * blew --- [[books:cc:madhya:18:161|Madhya 18.161]]

@@ -1,5 +1,11 @@
-~~Title:pāṇḍureṇa~~
-{{description>very white; white.}}
+---json
+{
+    "name":"pāṇḍureṇa",
+    "h1":"pāṇḍureṇa",
+    "title":"pāṇḍureṇa",
+    "description":"very white; white."
+}
+---
 
 ==== pāṇḍureṇa  ====
   * very white --- [[books:sb:8:15:19|SB 8.15.19]]

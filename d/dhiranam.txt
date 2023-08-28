@@ -1,5 +1,11 @@
-~~Title:dhīrāṇām~~
-{{description>from the sober; from the undisturbed authorities; of great sages; of the greatest learned persons; of the perfect beings.}}
+---json
+{
+    "name":"dhīrāṇām",
+    "h1":"dhīrāṇām",
+    "title":"dhīrāṇām",
+    "description":"from the sober; from the undisturbed authorities; of great sages; of the greatest learned persons; of the perfect beings."
+}
+---
 
 ==== dhīrāṇām  ====
   * from the sober --- [[books:iso:10|Īśo 10]]

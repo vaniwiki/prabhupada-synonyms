@@ -1,5 +1,11 @@
-~~Title:dharitri~~
-{{description>O earth.}}
+---json
+{
+    "name":"dharitri",
+    "h1":"dharitri",
+    "title":"dharitri",
+    "description":"O earth."
+}
+---
 
 ==== dharitri  ====
   * O earth --- [[books:sb:1:16:23|SB 1.16.23]]

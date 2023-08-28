@@ -1,5 +1,11 @@
-~~Title:puṣila~~
-{{description>nourished.}}
+---json
+{
+    "name":"puṣila",
+    "h1":"puṣila",
+    "title":"puṣila",
+    "description":"nourished."
+}
+---
 
 ==== puṣila  ====
   * nourished --- [[books:cc:adi:3:33|Ādi 3.33]]

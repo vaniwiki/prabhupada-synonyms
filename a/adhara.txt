@@ -1,5 +1,11 @@
-~~Title:adhara~~
-{{description>chin; lips; lower; of His lips; of lips; of the lips.}}
+---json
+{
+    "name":"adhara",
+    "h1":"adhara",
+    "title":"adhara",
+    "description":"chin; lips; lower; of His lips; of lips; of the lips."
+}
+---
 
 ==== adhara  ====
   * chin --- [[books:cc:madhya:12:213|Madhya 12.213]]

@@ -1,5 +1,11 @@
-~~Title:antaradhīyata~~
-{{description>disappeared; disappeared from that place; disappeared from the vision of Lord Śiva and his associates.}}
+---json
+{
+    "name":"antaradhīyata",
+    "h1":"antaradhīyata",
+    "title":"antaradhīyata",
+    "description":"disappeared; disappeared from that place; disappeared from the vision of Lord Śiva and his associates."
+}
+---
 
 ==== antaradhīyata  ====
   * disappeared --- [[books:sb:3:19:15|SB 3.19.15]], [[books:sb:7:2:59|SB 7.2.59]], [[books:cc:antya:15:81|Antya 15.81]]

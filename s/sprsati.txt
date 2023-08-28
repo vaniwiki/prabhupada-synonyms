@@ -1,5 +1,11 @@
-~~Title:spṛśati~~
-{{description>does touch; he was also touching; touched; touches.}}
+---json
+{
+    "name":"spṛśati",
+    "h1":"spṛśati",
+    "title":"spṛśati",
+    "description":"does touch; he was also touching; touched; touches."
+}
+---
 
 ==== spṛśati  ====
   * does touch --- [[books:sb:7:5:32|SB 7.5.32]]

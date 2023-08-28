@@ -1,5 +1,11 @@
-~~Title:rūpān~~
-{{description>forms like that.}}
+---json
+{
+    "name":"rūpān",
+    "h1":"rūpān",
+    "title":"rūpān",
+    "description":"forms like that."
+}
+---
 
 ==== rūpān  ====
   * forms like that --- [[books:sb:1:2:26|SB 1.2.26]]

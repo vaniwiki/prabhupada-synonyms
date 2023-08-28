@@ -1,5 +1,11 @@
-~~Title:labdhe~~
-{{description>gained; having achieved; on obtaining.}}
+---json
+{
+    "name":"labdhe",
+    "h1":"labdhe",
+    "title":"labdhe",
+    "description":"gained; having achieved; on obtaining."
+}
+---
 
 ==== labdhe  ====
   * gained --- [[books:sb:6:14:36|SB 6.14.36]]

@@ -1,5 +1,11 @@
-~~Title:hotuḥ~~
-{{description>of the priest.}}
+---json
+{
+    "name":"hotuḥ",
+    "h1":"hotuḥ",
+    "title":"hotuḥ",
+    "description":"of the priest."
+}
+---
 
 ==== hotuḥ  ====
   * of the priest --- [[books:sb:9:1:16|SB 9.1.16]], [[books:sb:9:1:20|SB 9.1.20]]

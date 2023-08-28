@@ -1,5 +1,11 @@
-~~Title:anuvrajya~~
-{{description>following Her.}}
+---json
+{
+    "name":"anuvrajya",
+    "h1":"anuvrajya",
+    "title":"anuvrajya",
+    "description":"following Her."
+}
+---
 
 ==== anuvrajya  ====
   * following Her --- [[books:sb:8:12:28|SB 8.12.28]]

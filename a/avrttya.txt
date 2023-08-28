@@ -1,5 +1,11 @@
-~~Title:āvṛttyā~~
-{{description>by one repetition.}}
+---json
+{
+    "name":"āvṛttyā",
+    "h1":"āvṛttyā",
+    "title":"āvṛttyā",
+    "description":"by one repetition."
+}
+---
 
 ==== eka-āvṛttyā  ====
   * by one repetition --- [[books:cc:madhya:9:33|Madhya 9.33]]

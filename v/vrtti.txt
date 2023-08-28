@@ -1,5 +1,11 @@
-~~Title:vrtti~~
-{{description>activities; explanation; functions; meaning; of the functions.}}
+---json
+{
+    "name":"vrtti",
+    "h1":"vrtti",
+    "title":"vrtti",
+    "description":"activities; explanation; functions; meaning; of the functions."
+}
+---
 
 ==== vṛtti  ====
   * activities --- [[books:sb:1:9:31|SB 1.9.31]], [[books:sb:3:26:34|SB 3.26.34]], [[books:cc:madhya:8:177|Madhya 8.177]]

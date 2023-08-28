@@ -1,5 +1,11 @@
-~~Title:bhramantaḥ~~
-{{description>circumambulating.}}
+---json
+{
+    "name":"bhramantaḥ",
+    "h1":"bhramantaḥ",
+    "title":"bhramantaḥ",
+    "description":"circumambulating."
+}
+---
 
 ==== bhramantaḥ  ====
   * circumambulating --- [[books:sb:4:9:20-21|SB 4.9.20-21]]

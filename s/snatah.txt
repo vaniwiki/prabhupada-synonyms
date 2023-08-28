@@ -1,5 +1,11 @@
-~~Title:snatah~~
-{{description>after bathing; after taking a bath; bathing; bathing very nicely; having bathed; taking a full bath.}}
+---json
+{
+    "name":"snatah",
+    "h1":"snatah",
+    "title":"snatah",
+    "description":"after bathing; after taking a bath; bathing; bathing very nicely; having bathed; taking a full bath."
+}
+---
 
 ==== snātaḥ  ====
   * after bathing --- [[books:sb:9:4:30|SB 9.4.30]]

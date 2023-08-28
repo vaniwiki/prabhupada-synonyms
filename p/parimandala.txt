@@ -1,5 +1,11 @@
-~~Title:parimaṇḍala~~
-{{description>nyagrodha-parimaṇḍala.}}
+---json
+{
+    "name":"parimaṇḍala",
+    "h1":"parimaṇḍala",
+    "title":"parimaṇḍala",
+    "description":"nyagrodha-parimaṇḍala."
+}
+---
 
 ==== nyagrodha-parimaṇḍala  ====
   * //nyagrodha-parimaṇḍala// --- [[books:cc:adi:3:43|Ādi 3.43]]

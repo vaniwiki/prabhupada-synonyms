@@ -1,5 +1,11 @@
-~~Title:piba~~
-{{description>drink; I shall suck.}}
+---json
+{
+    "name":"piba",
+    "h1":"piba",
+    "title":"piba",
+    "description":"drink; I shall suck."
+}
+---
 
 ==== piba  ====
   * drink --- [[books:sb:6:14:57|SB 6.14.57]], [[books:sb:10:11:15|SB 10.11.15]]

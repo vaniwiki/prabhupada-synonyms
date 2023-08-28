@@ -1,5 +1,11 @@
-~~Title:sārvabhaumam~~
-{{description>Sārvabhauma Bhaṭṭācārya.}}
+---json
+{
+    "name":"sārvabhaumam",
+    "h1":"sārvabhaumam",
+    "title":"sārvabhaumam",
+    "description":"Sārvabhauma Bhaṭṭācārya."
+}
+---
 
 ==== sārvabhaumam  ====
   * Sārvabhauma Bhaṭṭācārya --- [[books:cc:madhya:6:1|Madhya 6.1]]

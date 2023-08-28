@@ -1,5 +1,11 @@
-~~Title:aṁhasaḥ~~
-{{description>from sinful reactions.}}
+---json
+{
+    "name":"aṁhasaḥ",
+    "h1":"aṁhasaḥ",
+    "title":"aṁhasaḥ",
+    "description":"from sinful reactions."
+}
+---
 
 ==== aṁhasaḥ  ====
   * from sinful reactions --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

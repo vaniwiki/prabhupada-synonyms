@@ -1,5 +1,11 @@
-~~Title:anātmā~~
-{{description>different from the soul; not the spirit soul.}}
+---json
+{
+    "name":"anātmā",
+    "h1":"anātmā",
+    "title":"anātmā",
+    "description":"different from the soul; not the spirit soul."
+}
+---
 
 ==== anātmā  ====
   * different from the soul --- [[books:sb:7:15:37|SB 7.15.37]]

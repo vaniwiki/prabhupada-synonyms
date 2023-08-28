@@ -1,5 +1,11 @@
-~~Title:kāmau~~
-{{description>sense gratification.}}
+---json
+{
+    "name":"kāmau",
+    "h1":"kāmau",
+    "title":"kāmau",
+    "description":"sense gratification."
+}
+---
 
 ==== kāmau  ====
   * sense gratification --- [[books:sb:4:25:39|SB 4.25.39]]

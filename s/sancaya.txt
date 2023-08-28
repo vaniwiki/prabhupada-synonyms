@@ -1,5 +1,11 @@
-~~Title:sañcaya~~
-{{description>collection; professional duty.}}
+---json
+{
+    "name":"sañcaya",
+    "h1":"sañcaya",
+    "title":"sañcaya",
+    "description":"collection; professional duty."
+}
+---
 
 ==== sañcaya  ====
   * collection --- [[books:cc:madhya:4:151|Madhya 4.151]]

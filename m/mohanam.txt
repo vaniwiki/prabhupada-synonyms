@@ -1,5 +1,11 @@
-~~Title:mohanam~~
-{{description>deluding; delusion; illusion.}}
+---json
+{
+    "name":"mohanam",
+    "h1":"mohanam",
+    "title":"mohanam",
+    "description":"deluding; delusion; illusion."
+}
+---
 
 ==== mohanam  ====
   * deluding --- [[books:sb:1:14:10|SB 1.14.10]]

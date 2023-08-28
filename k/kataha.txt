@@ -1,5 +1,11 @@
-~~Title:kaṭāha~~
-{{description>the covering of the universe (consisting of seven layers-earth, water, fire, etc.).}}
+---json
+{
+    "name":"kaṭāha",
+    "h1":"kaṭāha",
+    "title":"kaṭāha",
+    "description":"the covering of the universe (consisting of seven layers-earth, water, fire, etc.)."
+}
+---
 
 ==== aṇḍa-kaṭāha  ====
   * the covering of the universe (consisting of seven layers-earth, water, fire, etc.) --- [[books:sb:5:17:1|SB 5.17.1]]

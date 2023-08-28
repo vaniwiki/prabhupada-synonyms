@@ -1,5 +1,11 @@
-~~Title:saute~~
-{{description>O Sūta Gosvāmī.}}
+---json
+{
+    "name":"saute",
+    "h1":"saute",
+    "title":"saute",
+    "description":"O Sūta Gosvāmī."
+}
+---
 
 ==== saute  ====
   * O Sūta Gosvāmī --- [[books:sb:3:20:1|SB 3.20.1]]

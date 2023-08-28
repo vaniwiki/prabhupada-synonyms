@@ -1,5 +1,11 @@
-~~Title:candram~~
-{{description>decorated with ten moons.}}
+---json
+{
+    "name":"candram",
+    "h1":"candram",
+    "title":"candram",
+    "description":"decorated with ten moons."
+}
+---
 
 ==== daśa-candram  ====
   * decorated with ten moons --- [[books:sb:4:15:17|SB 4.15.17]]

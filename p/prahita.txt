@@ -1,5 +1,11 @@
-~~Title:prahita~~
-{{description>engaged previously.}}
+---json
+{
+    "name":"prahita",
+    "h1":"prahita",
+    "title":"prahita",
+    "description":"engaged previously."
+}
+---
 
 ==== prahitā  ====
   * engaged previously --- [[books:sb:10:6:2|SB 10.6.2]]

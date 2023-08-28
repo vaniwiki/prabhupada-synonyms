@@ -1,5 +1,11 @@
-~~Title:ātmatvena~~
-{{description>by nature.}}
+---json
+{
+    "name":"ātmatvena",
+    "h1":"ātmatvena",
+    "title":"ātmatvena",
+    "description":"by nature."
+}
+---
 
 ==== ātmatvena  ====
   * by nature --- [[books:sb:3:28:39|SB 3.28.39]], [[books:sb:3:28:40|SB 3.28.40]]

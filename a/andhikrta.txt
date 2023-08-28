@@ -1,5 +1,11 @@
-~~Title:andhīkṛta~~
-{{description>made blind to self-realization.}}
+---json
+{
+    "name":"andhīkṛta",
+    "h1":"andhīkṛta",
+    "title":"andhīkṛta",
+    "description":"made blind to self-realization."
+}
+---
 
 ==== andhīkṛta-ātmā  ====
   * made blind to self-realization --- [[books:sb:7:5:33|SB 7.5.33]]

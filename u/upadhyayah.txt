@@ -1,5 +1,11 @@
-~~Title:upādhyāyāḥ~~
-{{description>the teachers of fruitive activities.}}
+---json
+{
+    "name":"upādhyāyāḥ",
+    "h1":"upādhyāyāḥ",
+    "title":"upādhyāyāḥ",
+    "description":"the teachers of fruitive activities."
+}
+---
 
 ==== upādhyāyāḥ  ====
   * the teachers of fruitive activities --- [[books:sb:4:29:56|SB 4.29.56]]

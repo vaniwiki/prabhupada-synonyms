@@ -1,5 +1,11 @@
-~~Title:vala~~
-{{description>and bangles.}}
+---json
+{
+    "name":"vala",
+    "h1":"vala",
+    "title":"vala",
+    "description":"and bangles."
+}
+---
 
 ==== vālā  ====
   * and bangles --- [[books:cc:adi:5:186|Ādi 5.186]]

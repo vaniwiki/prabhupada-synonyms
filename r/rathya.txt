@@ -1,5 +1,11 @@
-~~Title:rathya~~
-{{description>and public roads; lanes and subways.}}
+---json
+{
+    "name":"rathya",
+    "h1":"rathya",
+    "title":"rathya",
+    "description":"and public roads; lanes and subways."
+}
+---
 
 ==== rathya  ====
   * and public roads --- [[books:sb:8:15:16|SB 8.15.16]]

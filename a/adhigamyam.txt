@@ -1,5 +1,11 @@
-~~Title:adhigamyam~~
-{{description>the object to be obtained; to be understood; to bu understood.}}
+---json
+{
+    "name":"adhigamyam",
+    "h1":"adhigamyam",
+    "title":"adhigamyam",
+    "description":"the object to be obtained; to be understood; to bu understood."
+}
+---
 
 ==== adhigamyam  ====
   * the object to be obtained --- [[books:sb:5:10:9|SB 5.10.9]]

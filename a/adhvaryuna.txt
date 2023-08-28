@@ -1,5 +1,11 @@
-~~Title:adhvaryuṇā~~
-{{description>by the ṛtvik priest; by the priest, Bhṛgu; with the Yajur Veda.}}
+---json
+{
+    "name":"adhvaryuṇā",
+    "h1":"adhvaryuṇā",
+    "title":"adhvaryuṇā",
+    "description":"by the ṛtvik priest; by the priest, Bhṛgu; with the Yajur Veda."
+}
+---
 
 ==== adhvaryuṇā  ====
   * by the //ṛtvik// priest --- [[books:sb:9:1:15|SB 9.1.15]]

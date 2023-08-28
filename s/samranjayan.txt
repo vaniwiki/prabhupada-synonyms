@@ -1,5 +1,11 @@
-~~Title:saṁrañjayan~~
-{{description>pleasing.}}
+---json
+{
+    "name":"saṁrañjayan",
+    "h1":"saṁrañjayan",
+    "title":"saṁrañjayan",
+    "description":"pleasing."
+}
+---
 
 ==== saṁrañjayan  ====
   * pleasing --- [[books:sb:4:22:55|SB 4.22.55]]

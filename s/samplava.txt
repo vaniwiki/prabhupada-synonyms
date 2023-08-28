@@ -1,5 +1,11 @@
-~~Title:samplava~~
-{{description>by the inundation; in the inundation.}}
+---json
+{
+    "name":"samplava",
+    "h1":"samplava",
+    "title":"samplava",
+    "description":"by the inundation; in the inundation."
+}
+---
 
 ==== samplava  ====
   * by the inundation --- [[books:cc:antya:15:14|Antya 15.14]]

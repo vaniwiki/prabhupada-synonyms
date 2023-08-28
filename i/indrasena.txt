@@ -1,5 +1,11 @@
-~~Title:indrasena~~
-{{description>O Mahārāja Bali.}}
+---json
+{
+    "name":"indrasena",
+    "h1":"indrasena",
+    "title":"indrasena",
+    "description":"O Mahārāja Bali."
+}
+---
 
 ==== indrasena  ====
   * O Mahārāja Bali --- [[books:sb:8:22:33|SB 8.22.33]]

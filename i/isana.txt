@@ -1,5 +1,11 @@
-~~Title:īśāna~~
-{{description>of the name Īśāna; Īśāna.}}
+---json
+{
+    "name":"īśāna",
+    "h1":"īśāna",
+    "title":"īśāna",
+    "description":"of the name Īśāna; Īśāna."
+}
+---
 
 ==== īśāna  ====
   * of the name Īśāna --- [[books:cc:adi:10:110|Ādi 10.110]]

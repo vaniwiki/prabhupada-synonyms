@@ -1,5 +1,11 @@
-~~Title:amūrttarayaḥ~~
-{{description>Amūrttaraya.}}
+---json
+{
+    "name":"amūrttarayaḥ",
+    "h1":"amūrttarayaḥ",
+    "title":"amūrttarayaḥ",
+    "description":"Amūrttaraya."
+}
+---
 
 ==== amūrttarayaḥ  ====
   * Amūrttaraya --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

@@ -1,5 +1,11 @@
-~~Title:svāpni~~
-{{description>a dream.}}
+---json
+{
+    "name":"svāpni",
+    "h1":"svāpni",
+    "title":"svāpni",
+    "description":"a dream."
+}
+---
 
 ==== svāpni  ====
   * a dream --- [[books:sb:4:12:4|SB 4.12.4]]

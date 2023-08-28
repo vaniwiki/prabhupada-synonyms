@@ -1,5 +1,11 @@
-~~Title:putrasya~~
-{{description>of a son; of his son; of the son.}}
+---json
+{
+    "name":"putrasya",
+    "h1":"putrasya",
+    "title":"putrasya",
+    "description":"of a son; of his son; of the son."
+}
+---
 
 ==== putrasya  ====
   * of a son --- [[books:bg:11:44|Bg. 11.44]]

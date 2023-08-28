@@ -1,5 +1,11 @@
-~~Title:vairiṇi~~
-{{description>your enemy.}}
+---json
+{
+    "name":"vairiṇi",
+    "h1":"vairiṇi",
+    "title":"vairiṇi",
+    "description":"your enemy."
+}
+---
 
 ==== vairiṇi  ====
   * your enemy --- [[books:sb:6:11:19|SB 6.11.19]]

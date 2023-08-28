@@ -1,5 +1,11 @@
-~~Title:varjanam~~
-{{description>complete rejection.}}
+---json
+{
+    "name":"varjanam",
+    "h1":"varjanam",
+    "title":"varjanam",
+    "description":"complete rejection."
+}
+---
 
 ==== varjanam  ====
   * complete rejection --- [[books:cc:madhya:22:100|Madhya 22.100]]

@@ -1,5 +1,11 @@
-~~Title:himsaya~~
-{{description>by violence.}}
+---json
+{
+    "name":"himsaya",
+    "h1":"himsaya",
+    "title":"himsaya",
+    "description":"by violence."
+}
+---
 
 ==== hiṁsayā  ====
   * by violence --- [[books:sb:3:30:10|SB 3.30.10]]

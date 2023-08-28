@@ -1,5 +1,11 @@
-~~Title:mahasā~~
-{{description>by might; by the glories.}}
+---json
+{
+    "name":"mahasā",
+    "h1":"mahasā",
+    "title":"mahasā",
+    "description":"by might; by the glories."
+}
+---
 
 ==== mahasā  ====
   * by might --- [[books:sb:3:17:23|SB 3.17.23]]

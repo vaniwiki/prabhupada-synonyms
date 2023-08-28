@@ -1,5 +1,11 @@
-~~Title:prabhāṣya~~
-{{description>addressing; giving his statement.}}
+---json
+{
+    "name":"prabhāṣya",
+    "h1":"prabhāṣya",
+    "title":"prabhāṣya",
+    "description":"addressing; giving his statement."
+}
+---
 
 ==== prabhāṣya  ====
   * addressing --- [[books:sb:10:4:13|SB 10.4.13]]

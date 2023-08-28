@@ -1,5 +1,11 @@
-~~Title:upahā~~
-{{description>vanishing.}}
+---json
+{
+    "name":"upahā",
+    "h1":"upahā",
+    "title":"upahā",
+    "description":"vanishing."
+}
+---
 
 ==== upahā  ====
   * vanishing --- [[books:sb:1:5:28|SB 1.5.28]]

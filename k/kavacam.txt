@@ -1,5 +1,11 @@
-~~Title:kavacam~~
-{{description>protective armor.}}
+---json
+{
+    "name":"kavacam",
+    "h1":"kavacam",
+    "title":"kavacam",
+    "description":"protective armor."
+}
+---
 
 ==== kavacam  ====
   * protective armor --- [[books:sb:7:2:29-31|SB 7.2.29-31]]

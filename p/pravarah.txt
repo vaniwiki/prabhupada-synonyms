@@ -1,5 +1,11 @@
-~~Title:pravarah~~
-{{description>who was the best.}}
+---json
+{
+    "name":"pravarah",
+    "h1":"pravarah",
+    "title":"pravarah",
+    "description":"who was the best."
+}
+---
 
 ==== pravaraḥ  ====
   * who was the best --- [[books:sb:10:8:48|SB 10.8.48]]

@@ -1,5 +1,11 @@
-~~Title:ḍubāiñā~~
-{{description>immersing.}}
+---json
+{
+    "name":"ḍubāiñā",
+    "h1":"ḍubāiñā",
+    "title":"ḍubāiñā",
+    "description":"immersing."
+}
+---
 
 ==== ḍubāiñā  ====
   * immersing --- [[books:cc:madhya:15:73|Madhya 15.73]]

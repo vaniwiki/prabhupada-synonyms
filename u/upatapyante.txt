@@ -1,5 +1,11 @@
-~~Title:upatapyante~~
-{{description>are afflicted with pain.}}
+---json
+{
+    "name":"upatapyante",
+    "h1":"upatapyante",
+    "title":"upatapyante",
+    "description":"are afflicted with pain."
+}
+---
 
 ==== upatapyante  ====
   * are afflicted with pain --- [[books:sb:5:26:22|SB 5.26.22]]

@@ -1,5 +1,11 @@
-~~Title:sahi~~
-{{description>I can tolerate.}}
+---json
+{
+    "name":"sahi",
+    "h1":"sahi",
+    "title":"sahi",
+    "description":"I can tolerate."
+}
+---
 
 ==== sahi  ====
   * I can tolerate --- [[books:cc:madhya:7:48|Madhya 7.48]]

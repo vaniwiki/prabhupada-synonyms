@@ -1,5 +1,11 @@
-~~Title:ihante~~
-{{description>here.}}
+---json
+{
+    "name":"ihante",
+    "h1":"ihante",
+    "title":"ihante",
+    "description":"here."
+}
+---
 
 ==== ihāṅte  ====
   * here --- [[books:cc:antya:3:28|Antya 3.28]]

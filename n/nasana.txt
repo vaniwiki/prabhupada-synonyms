@@ -1,5 +1,11 @@
-~~Title:nāśana~~
-{{description>annihilation of materialistic life resulting from sins.}}
+---json
+{
+    "name":"nāśana",
+    "h1":"nāśana",
+    "title":"nāśana",
+    "description":"annihilation of materialistic life resulting from sins."
+}
+---
 
 ==== pāpa-saṁsāra-nāśana  ====
   * annihilation of materialistic life resulting from sins --- [[books:cc:antya:20:13|Antya 20.13]]

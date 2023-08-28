@@ -1,5 +1,11 @@
-~~Title:kīrtīnām~~
-{{description>good reputation.}}
+---json
+{
+    "name":"kīrtīnām",
+    "h1":"kīrtīnām",
+    "title":"kīrtīnām",
+    "description":"good reputation."
+}
+---
 
 ==== kīrtīnām  ====
   * good reputation --- [[books:sb:4:14:14|SB 4.14.14]]

@@ -1,5 +1,11 @@
-~~Title:suvalita~~
-{{description>well-formed.}}
+---json
+{
+    "name":"suvalita",
+    "h1":"suvalita",
+    "title":"suvalita",
+    "description":"well-formed."
+}
+---
 
 ==== suvalita  ====
   * well-formed --- [[books:cc:adi:5:185|Ādi 5.185]]

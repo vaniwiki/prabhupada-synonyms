@@ -1,5 +1,11 @@
-~~Title:andhasya~~
-{{description>blinded; darkness; for such a blind person; one who is blind.}}
+---json
+{
+    "name":"andhasya",
+    "h1":"andhasya",
+    "title":"andhasya",
+    "description":"blinded; darkness; for such a blind person; one who is blind."
+}
+---
 
 ==== andhasya  ====
   * blinded --- [[books:sb:3:25:9|SB 3.25.9]]

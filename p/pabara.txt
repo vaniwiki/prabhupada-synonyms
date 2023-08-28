@@ -1,5 +1,11 @@
-~~Title:pābāra~~
-{{description>the means of achieving.}}
+---json
+{
+    "name":"pābāra",
+    "h1":"pābāra",
+    "title":"pābāra",
+    "description":"the means of achieving."
+}
+---
 
 ==== pābāra upāya  ====
   * the means of achieving --- [[books:cc:madhya:8:197|Madhya 8.197]]

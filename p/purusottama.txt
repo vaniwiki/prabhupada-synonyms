@@ -1,5 +1,11 @@
-~~Title:puruṣottama~~
-{{description>Lord Puruṣottama; O best of personalities; O greatest of all persons; O Supreme Person; of the name Puruṣottama; Puruṣottama.}}
+---json
+{
+    "name":"puruṣottama",
+    "h1":"puruṣottama",
+    "title":"puruṣottama",
+    "description":"Lord Puruṣottama; O best of personalities; O greatest of all persons; O Supreme Person; of the name Puruṣottama; Puruṣottama."
+}
+---
 
 ==== puruṣottama  ====
   * Lord Puruṣottama --- [[books:cc:madhya:20:233|Madhya 20.233]]

@@ -1,5 +1,11 @@
-~~Title:aksi~~
-{{description>eyes.}}
+---json
+{
+    "name":"aksi",
+    "h1":"aksi",
+    "title":"aksi",
+    "description":"eyes."
+}
+---
 
 ==== akṣi  ====
   * eyes --- [[books:bg:13:14|Bg. 13.14]], [[books:sb:1:3:4|SB 1.3.4]], [[books:sb:1:14:11|SB 1.14.11]], [[books:sb:1:16:3|SB 1.16.3]], [[books:sb:4:25:26|SB 4.25.26]]

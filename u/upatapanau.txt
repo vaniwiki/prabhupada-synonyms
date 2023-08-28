@@ -1,5 +1,11 @@
-~~Title:upatāpanau~~
-{{description>giving misery.}}
+---json
+{
+    "name":"upatāpanau",
+    "h1":"upatāpanau",
+    "title":"upatāpanau",
+    "description":"giving misery."
+}
+---
 
 ==== upatāpanau  ====
   * giving misery --- [[books:sb:7:1:44|SB 7.1.44]]

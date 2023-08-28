@@ -1,5 +1,11 @@
-~~Title:vartitavyam~~
-{{description>can be allowed to live; deserve to remain.}}
+---json
+{
+    "name":"vartitavyam",
+    "h1":"vartitavyam",
+    "title":"vartitavyam",
+    "description":"can be allowed to live; deserve to remain."
+}
+---
 
 ==== vartitavyam  ====
   * can be allowed to live --- [[books:sb:1:17:31|SB 1.17.31]]

@@ -1,5 +1,11 @@
-~~Title:rddham~~
-{{description>prosperous; very wealthy.}}
+---json
+{
+    "name":"rddham",
+    "h1":"rddham",
+    "title":"rddham",
+    "description":"prosperous; very wealthy."
+}
+---
 
 ==== ṛddham  ====
   * prosperous --- [[books:bg:2:8|Bg. 2.8]]

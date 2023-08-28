@@ -1,5 +1,11 @@
-~~Title:dehataḥ~~
-{{description>from the body.}}
+---json
+{
+    "name":"dehataḥ",
+    "h1":"dehataḥ",
+    "title":"dehataḥ",
+    "description":"from the body."
+}
+---
 
 ==== dehataḥ  ====
   * from the body --- [[books:sb:3:12:27|SB 3.12.27]], [[books:sb:4:19:37|SB 4.19.37]]

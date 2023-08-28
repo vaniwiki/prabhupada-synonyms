@@ -1,5 +1,11 @@
-~~Title:ākrīḍe~~
-{{description>in the playground.}}
+---json
+{
+    "name":"ākrīḍe",
+    "h1":"ākrīḍe",
+    "title":"ākrīḍe",
+    "description":"in the playground."
+}
+---
 
 ==== ākrīḍe  ====
   * in the playground --- [[books:sb:4:13:41|SB 4.13.41]]

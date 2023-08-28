@@ -1,5 +1,11 @@
-~~Title:triśaṅkuḥ~~
-{{description>by the name Triśaṅku.}}
+---json
+{
+    "name":"triśaṅkuḥ",
+    "h1":"triśaṅkuḥ",
+    "title":"triśaṅkuḥ",
+    "description":"by the name Triśaṅku."
+}
+---
 
 ==== triśaṅkuḥ  ====
   * by the name Triśaṅku --- [[books:sb:9:7:5-6|SB 9.7.5-6]]

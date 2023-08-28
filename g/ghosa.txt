@@ -1,5 +1,11 @@
-~~Title:ghoṣa~~
-{{description>residential places of cowherd men.}}
+---json
+{
+    "name":"ghoṣa",
+    "h1":"ghoṣa",
+    "title":"ghoṣa",
+    "description":"residential places of cowherd men."
+}
+---
 
 ==== ghoṣa  ====
   * residential places of cowherd men --- [[books:sb:5:5:30|SB 5.5.30]]

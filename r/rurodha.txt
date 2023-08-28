@@ -1,5 +1,11 @@
-~~Title:rurodha~~
-{{description>stopped the flow.}}
+---json
+{
+    "name":"rurodha",
+    "h1":"rurodha",
+    "title":"rurodha",
+    "description":"stopped the flow."
+}
+---
 
 ==== rurodha  ====
   * stopped the flow --- [[books:sb:9:15:20|SB 9.15.20]]

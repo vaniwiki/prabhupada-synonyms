@@ -1,5 +1,11 @@
-~~Title:mārganti~~
-{{description>searching after.}}
+---json
+{
+    "name":"mārganti",
+    "h1":"mārganti",
+    "title":"mārganti",
+    "description":"searching after."
+}
+---
 
 ==== mārganti  ====
   * searching after --- [[books:sb:3:5:41|SB 3.5.41]]

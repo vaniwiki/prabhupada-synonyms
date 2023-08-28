@@ -1,5 +1,11 @@
-~~Title:dṛḍhahanuḥ~~
-{{description>Dṛḍhahanu.}}
+---json
+{
+    "name":"dṛḍhahanuḥ",
+    "h1":"dṛḍhahanuḥ",
+    "title":"dṛḍhahanuḥ",
+    "description":"Dṛḍhahanu."
+}
+---
 
 ==== dṛḍhahanuḥ  ====
   * Dṛḍhahanu --- [[books:sb:9:21:23|SB 9.21.23]]

@@ -1,5 +1,11 @@
-~~Title:āpadam~~
-{{description>affecting life.}}
+---json
+{
+    "name":"āpadam",
+    "h1":"āpadam",
+    "title":"āpadam",
+    "description":"affecting life."
+}
+---
 
 ==== prāṇa-āpadam  ====
   * affecting life --- [[books:sb:1:7:21|SB 1.7.21]]

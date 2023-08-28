@@ -1,5 +1,11 @@
-~~Title:āṅgināte~~
-{{description>in the courtyard; in the yard of the temple.}}
+---json
+{
+    "name":"āṅgināte",
+    "h1":"āṅgināte",
+    "title":"āṅgināte",
+    "description":"in the courtyard; in the yard of the temple."
+}
+---
 
 ==== āṅgināte  ====
   * in the courtyard --- [[books:cc:antya:12:119|Antya 12.119]]

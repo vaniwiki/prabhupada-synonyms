@@ -1,5 +1,11 @@
-~~Title:godhā~~
-{{description>gosāpa (snake with four legs).}}
+---json
+{
+    "name":"godhā",
+    "h1":"godhā",
+    "title":"godhā",
+    "description":"gosāpa (snake with four legs)."
+}
+---
 
 ==== godhā  ====
   * //gosāpa// (snake with four legs) --- [[books:sb:3:10:24|SB 3.10.24]]

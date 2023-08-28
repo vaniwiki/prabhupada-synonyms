@@ -1,5 +1,11 @@
-~~Title:kolāhale~~
-{{description>a tumultuous sound; by the tumultuous sound; tumult; tumultuous roaring.}}
+---json
+{
+    "name":"kolāhale",
+    "h1":"kolāhale",
+    "title":"kolāhale",
+    "description":"a tumultuous sound; by the tumultuous sound; tumult; tumultuous roaring."
+}
+---
 
 ==== kolāhale  ====
   * a tumultuous sound --- [[books:cc:madhya:1:272|Madhya 1.272]]

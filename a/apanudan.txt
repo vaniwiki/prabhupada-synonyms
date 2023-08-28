@@ -1,5 +1,11 @@
-~~Title:apanudan~~
-{{description>driving away.}}
+---json
+{
+    "name":"apanudan",
+    "h1":"apanudan",
+    "title":"apanudan",
+    "description":"driving away."
+}
+---
 
 ==== apanudan  ====
   * driving away --- [[books:sb:5:8:20|SB 5.8.20]]

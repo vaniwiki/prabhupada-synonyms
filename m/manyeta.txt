@@ -1,5 +1,11 @@
-~~Title:manyeta~~
-{{description>respects; thinks; would worship.}}
+---json
+{
+    "name":"manyeta",
+    "h1":"manyeta",
+    "title":"manyeta",
+    "description":"respects; thinks; would worship."
+}
+---
 
 ==== manyeta  ====
   * respects --- [[books:sb:5:26:30|SB 5.26.30]]

@@ -1,5 +1,11 @@
-~~Title:dīpita~~
-{{description>agitated.}}
+---json
+{
+    "name":"dīpita",
+    "h1":"dīpita",
+    "title":"dīpita",
+    "description":"agitated."
+}
+---
 
 ==== dīpita  ====
   * agitated --- [[books:sb:9:10:10|SB 9.10.10]]

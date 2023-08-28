@@ -1,5 +1,11 @@
-~~Title:surabhih~~
-{{description>fragrant; Surabhi.}}
+---json
+{
+    "name":"surabhih",
+    "h1":"surabhih",
+    "title":"surabhih",
+    "description":"fragrant; Surabhi."
+}
+---
 
 ==== surabhiḥ  ====
   * fragrant --- [[books:sb:5:2:11|SB 5.2.11]]

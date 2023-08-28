@@ -1,5 +1,11 @@
-~~Title:devera~~
-{{description>of a superior power; of the Lord.}}
+---json
+{
+    "name":"devera",
+    "h1":"devera",
+    "title":"devera",
+    "description":"of a superior power; of the Lord."
+}
+---
 
 ==== devera  ====
   * of a superior power --- [[books:cc:adi:16:44|Ādi 16.44]]

@@ -1,5 +1,11 @@
-~~Title:raveḥ~~
-{{description>of the sun; on the appearance of the sun; up to the sun.}}
+---json
+{
+    "name":"raveḥ",
+    "h1":"raveḥ",
+    "title":"raveḥ",
+    "description":"of the sun; on the appearance of the sun; up to the sun."
+}
+---
 
 ==== raveḥ  ====
   * of the sun --- [[books:sb:4:31:5|SB 4.31.5]]

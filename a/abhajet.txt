@@ -1,5 +1,11 @@
-~~Title:ābhajet~~
-{{description>must worship.}}
+---json
+{
+    "name":"ābhajet",
+    "h1":"ābhajet",
+    "title":"ābhajet",
+    "description":"must worship."
+}
+---
 
 ==== ābhajet  ====
   * must worship --- [[books:cc:madhya:20:119|Madhya 20.119]], [[books:cc:madhya:24:137|Madhya 24.137]], [[books:cc:madhya:25:138|Madhya 25.138]]

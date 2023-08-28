@@ -1,5 +1,11 @@
-~~Title:avatāriyā~~
-{{description>descending.}}
+---json
+{
+    "name":"avatāriyā",
+    "h1":"avatāriyā",
+    "title":"avatāriyā",
+    "description":"descending."
+}
+---
 
 ==== avatāriyā  ====
   * descending --- [[books:cc:adi:17:298|Ādi 17.298]]

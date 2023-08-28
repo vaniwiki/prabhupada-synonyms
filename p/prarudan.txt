@@ -1,5 +1,11 @@
-~~Title:prarudan~~
-{{description>weeping.}}
+---json
+{
+    "name":"prarudan",
+    "h1":"prarudan",
+    "title":"prarudan",
+    "description":"weeping."
+}
+---
 
 ==== prarudan  ====
   * weeping --- [[books:sb:4:8:14|SB 4.8.14]]

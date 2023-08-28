@@ -1,5 +1,11 @@
-~~Title:vijijñāsyamānaḥ~~
-{{description>being inquired about.}}
+---json
+{
+    "name":"vijijñāsyamānaḥ",
+    "h1":"vijijñāsyamānaḥ",
+    "title":"vijijñāsyamānaḥ",
+    "description":"being inquired about."
+}
+---
 
 ==== vijijñāsyamānaḥ  ====
   * being inquired about --- [[books:sb:5:22:3|SB 5.22.3]]

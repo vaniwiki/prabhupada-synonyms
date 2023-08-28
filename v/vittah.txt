@@ -1,5 +1,11 @@
-~~Title:vittaḥ~~
-{{description>his treasury; the treasure.}}
+---json
+{
+    "name":"vittaḥ",
+    "h1":"vittaḥ",
+    "title":"vittaḥ",
+    "description":"his treasury; the treasure."
+}
+---
 
 ==== vittaḥ  ====
   * his treasury --- [[books:sb:4:16:10|SB 4.16.10]]

@@ -1,5 +1,11 @@
-~~Title:smṛti~~
-{{description>and of remembrance; of memory; remembrance; supplementary Vedic literature; the Purāṇas.}}
+---json
+{
+    "name":"smṛti",
+    "h1":"smṛti",
+    "title":"smṛti",
+    "description":"and of remembrance; of memory; remembrance; supplementary Vedic literature; the Purāṇas."
+}
+---
 
 ==== smṛti  ====
   * and of remembrance --- [[books:sb:6:4:26|SB 6.4.26]]

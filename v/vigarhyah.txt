@@ -1,5 +1,11 @@
-~~Title:vigarhyaḥ~~
-{{description>criminal.}}
+---json
+{
+    "name":"vigarhyaḥ",
+    "h1":"vigarhyaḥ",
+    "title":"vigarhyaḥ",
+    "description":"criminal."
+}
+---
 
 ==== vigarhyaḥ  ====
   * criminal --- [[books:sb:3:14:26|SB 3.14.26]]

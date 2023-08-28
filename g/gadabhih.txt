@@ -1,5 +1,11 @@
-~~Title:gadābhiḥ~~
-{{description>with clubs.}}
+---json
+{
+    "name":"gadābhiḥ",
+    "h1":"gadābhiḥ",
+    "title":"gadābhiḥ",
+    "description":"with clubs."
+}
+---
 
 ==== gadābhiḥ  ====
   * with clubs --- [[books:sb:6:10:19-22|SB 6.10.19-22]]

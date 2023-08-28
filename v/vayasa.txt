@@ -1,5 +1,11 @@
-~~Title:vayasa~~
-{{description>age.}}
+---json
+{
+    "name":"vayasa",
+    "h1":"vayasa",
+    "title":"vayasa",
+    "description":"age."
+}
+---
 
 ==== vayasa  ====
   * age --- [[books:cc:madhya:8:189|Madhya 8.189]], [[books:cc:madhya:9:299|Madhya 9.299]]

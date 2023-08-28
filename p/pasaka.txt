@@ -1,5 +1,11 @@
-~~Title:pāśaka~~
-{{description>throws the dice.}}
+---json
+{
+    "name":"pāśaka",
+    "h1":"pāśaka",
+    "title":"pāśaka",
+    "description":"throws the dice."
+}
+---
 
 ==== pāśaka cālāya  ====
   * throws the dice --- [[books:cc:antya:16:7|Antya 16.7]]

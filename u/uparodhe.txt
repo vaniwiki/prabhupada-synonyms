@@ -1,5 +1,11 @@
-~~Title:uparodhe~~
-{{description>by my request.}}
+---json
+{
+    "name":"uparodhe",
+    "h1":"uparodhe",
+    "title":"uparodhe",
+    "description":"by my request."
+}
+---
 
 ==== uparodhe  ====
   * by my request --- [[books:cc:antya:6:276|Antya 6.276]]

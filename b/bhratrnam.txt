@@ -1,5 +1,11 @@
-~~Title:bhrātṝṇām~~
-{{description>of elder brothers; of their previous brothers; of your brothers.}}
+---json
+{
+    "name":"bhrātṝṇām",
+    "h1":"bhrātṝṇām",
+    "title":"bhrātṝṇām",
+    "description":"of elder brothers; of their previous brothers; of your brothers."
+}
+---
 
 ==== bhrātṝṇām  ====
   * of elder brothers --- [[books:sb:6:5:31|SB 6.5.31]]

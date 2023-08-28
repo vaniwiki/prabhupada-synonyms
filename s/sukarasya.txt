@@ -1,5 +1,11 @@
-~~Title:sūkarasya~~
-{{description>of Lord Boar.}}
+---json
+{
+    "name":"sūkarasya",
+    "h1":"sūkarasya",
+    "title":"sūkarasya",
+    "description":"of Lord Boar."
+}
+---
 
 ==== sūkarasya  ====
   * of Lord Boar --- [[books:sb:3:13:25|SB 3.13.25]]

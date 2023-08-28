@@ -1,5 +1,11 @@
-~~Title:viṣīdan~~
-{{description>while lamenting.}}
+---json
+{
+    "name":"viṣīdan",
+    "h1":"viṣīdan",
+    "title":"viṣīdan",
+    "description":"while lamenting."
+}
+---
 
 ==== viṣīdan  ====
   * while lamenting --- [[books:bg:1:27|Bg. 1.27]]

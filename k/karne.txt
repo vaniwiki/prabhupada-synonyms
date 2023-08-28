@@ -1,5 +1,11 @@
-~~Title:karṇe~~
-{{description>by the ears; in the ear; on the ears.}}
+---json
+{
+    "name":"karṇe",
+    "h1":"karṇe",
+    "title":"karṇe",
+    "description":"by the ears; in the ear; on the ears."
+}
+---
 
 ==== karṇe  ====
   * by the ears --- [[books:cc:antya:17:48|Antya 17.48]]

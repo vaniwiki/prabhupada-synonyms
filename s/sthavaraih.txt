@@ -1,5 +1,11 @@
-~~Title:sthāvaraiḥ~~
-{{description>by the immobile creatures.}}
+---json
+{
+    "name":"sthāvaraiḥ",
+    "h1":"sthāvaraiḥ",
+    "title":"sthāvaraiḥ",
+    "description":"by the immobile creatures."
+}
+---
 
 ==== sthāvaraiḥ  ====
   * by the immobile creatures --- [[books:sb:6:10:8|SB 6.10.8]]

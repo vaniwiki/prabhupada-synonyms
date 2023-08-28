@@ -1,5 +1,11 @@
-~~Title:vidhāna~~
-{{description>propositions; regulations; regulative principles; the regulation.}}
+---json
+{
+    "name":"vidhāna",
+    "h1":"vidhāna",
+    "title":"vidhāna",
+    "description":"propositions; regulations; regulative principles; the regulation."
+}
+---
 
 ==== vidhāna  ====
   * propositions --- [[books:cc:madhya:6:189|Madhya 6.189]]

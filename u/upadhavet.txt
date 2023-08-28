@@ -1,5 +1,11 @@
-~~Title:upādhāvet~~
-{{description>runs after.}}
+---json
+{
+    "name":"upādhāvet",
+    "h1":"upādhāvet",
+    "title":"upādhāvet",
+    "description":"runs after."
+}
+---
 
 ==== upādhāvet  ====
   * runs after --- [[books:sb:7:13:29|SB 7.13.29]]

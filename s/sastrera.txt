@@ -1,5 +1,11 @@
-~~Title:śāstrera~~
-{{description>of all Vedic scriptures; of revealed scriptures; of scripture; of the revealed scriptures; of the scripture; on the śāstras.}}
+---json
+{
+    "name":"śāstrera",
+    "h1":"śāstrera",
+    "title":"śāstrera",
+    "description":"of all Vedic scriptures; of revealed scriptures; of scripture; of the revealed scriptures; of the scripture; on the śāstras."
+}
+---
 
 ==== śāstrera  ====
   * of all Vedic scriptures --- [[books:cc:madhya:6:97|Madhya 6.97]]

@@ -1,5 +1,11 @@
-~~Title:unmūla~~
-{{description>in the cutting.}}
+---json
+{
+    "name":"unmūla",
+    "h1":"unmūla",
+    "title":"unmūla",
+    "description":"in the cutting."
+}
+---
 
 ==== unmūla  ====
   * in the cutting --- [[books:sb:7:5:17|SB 7.5.17]]

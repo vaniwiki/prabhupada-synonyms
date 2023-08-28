@@ -1,5 +1,11 @@
-~~Title:karmakam~~
-{{description>full of ritualistic ceremonies.}}
+---json
+{
+    "name":"karmakam",
+    "h1":"karmakam",
+    "title":"karmakam",
+    "description":"full of ritualistic ceremonies."
+}
+---
 
 ==== sa-karmakam  ====
   * full of ritualistic ceremonies --- [[books:sb:4:29:48|SB 4.29.48]]

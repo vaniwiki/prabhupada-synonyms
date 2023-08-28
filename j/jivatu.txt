@@ -1,5 +1,11 @@
-~~Title:jivatu~~
-{{description>may again be enlivened.}}
+---json
+{
+    "name":"jivatu",
+    "h1":"jivatu",
+    "title":"jivatu",
+    "description":"may again be enlivened."
+}
+---
 
 ==== jīvatu  ====
   * may again be enlivened --- [[books:sb:9:13:8|SB 9.13.8]]

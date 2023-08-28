@@ -1,5 +1,11 @@
-~~Title:añjalau~~
-{{description>the palms of the hands.}}
+---json
+{
+    "name":"añjalau",
+    "h1":"añjalau",
+    "title":"añjalau",
+    "description":"the palms of the hands."
+}
+---
 
 ==== añjalau  ====
   * the palms of the hands --- [[books:sb:2:2:4|SB 2.2.4]]

@@ -1,5 +1,11 @@
-~~Title:samaśāmyat~~
-{{description>was neutralized.}}
+---json
+{
+    "name":"samaśāmyat",
+    "h1":"samaśāmyat",
+    "title":"samaśāmyat",
+    "description":"was neutralized."
+}
+---
 
 ==== samaśāmyat  ====
   * was neutralized --- [[books:sb:1:8:15|SB 1.8.15]]

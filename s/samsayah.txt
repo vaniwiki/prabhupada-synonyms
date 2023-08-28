@@ -1,5 +1,11 @@
-~~Title:samsayah~~
-{{description>all doubts; any doubt; doubt; doubts.}}
+---json
+{
+    "name":"samsayah",
+    "h1":"samsayah",
+    "title":"samsayah",
+    "description":"all doubts; any doubt; doubt; doubts."
+}
+---
 
 ==== saṁśayaḥ  ====
   * all doubts --- [[books:bg:18:10|Bg. 18.10]]

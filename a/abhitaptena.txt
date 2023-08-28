@@ -1,5 +1,11 @@
-~~Title:abhitaptena~~
-{{description>being aggrieved.}}
+---json
+{
+    "name":"abhitaptena",
+    "h1":"abhitaptena",
+    "title":"abhitaptena",
+    "description":"being aggrieved."
+}
+---
 
 ==== abhitaptena  ====
   * being aggrieved --- [[books:sb:4:11:9|SB 4.11.9]]

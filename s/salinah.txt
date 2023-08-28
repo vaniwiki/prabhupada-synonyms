@@ -1,5 +1,11 @@
-~~Title:salinah~~
-{{description>well behaved. well cultured.}}
+---json
+{
+    "name":"salinah",
+    "h1":"salinah",
+    "title":"salinah",
+    "description":"well behaved. well cultured."
+}
+---
 
 ==== mahā-śālīnāḥ  ====
   * well behaved. well cultured --- [[books:sb:5:4:13|SB 5.4.13]]

@@ -1,5 +1,11 @@
-~~Title:tyaktu~~
-{{description>who was trying to avoid.}}
+---json
+{
+    "name":"tyaktu",
+    "h1":"tyaktu",
+    "title":"tyaktu",
+    "description":"who was trying to avoid."
+}
+---
 
 ==== tyaktu-kāmām  ====
   * who was trying to avoid --- [[books:sb:9:20:37|SB 9.20.37]]

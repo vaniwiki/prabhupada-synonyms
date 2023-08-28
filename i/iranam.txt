@@ -1,5 +1,11 @@
-~~Title:īraṇam~~
-{{description>describing My glories.}}
+---json
+{
+    "name":"īraṇam",
+    "h1":"īraṇam",
+    "title":"īraṇam",
+    "description":"describing My glories."
+}
+---
 
 ==== mat-guṇa-īraṇam  ====
   * describing My glories --- [[books:cc:madhya:11:29-30|Madhya 11.29-30]]

@@ -1,5 +1,11 @@
-~~Title:durdhiyaḥ~~
-{{description>having poor intelligence; thus ill conceived.}}
+---json
+{
+    "name":"durdhiyaḥ",
+    "h1":"durdhiyaḥ",
+    "title":"durdhiyaḥ",
+    "description":"having poor intelligence; thus ill conceived."
+}
+---
 
 ==== durdhiyaḥ  ====
   * having poor intelligence --- [[books:cc:madhya:22:32|Madhya 22.32]]

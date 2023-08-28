@@ -1,5 +1,11 @@
-~~Title:dūtyā~~
-{{description>the messenger of Indra.}}
+---json
+{
+    "name":"dūtyā",
+    "h1":"dūtyā",
+    "title":"dūtyā",
+    "description":"the messenger of Indra."
+}
+---
 
 ==== indra-dūtyā  ====
   * the messenger of Indra --- [[books:sb:5:24:30|SB 5.24.30]]

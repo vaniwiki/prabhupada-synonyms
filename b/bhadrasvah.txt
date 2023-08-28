@@ -1,5 +1,11 @@
-~~Title:bhadrāśvaḥ~~
-{{description>Bhadrāśva.}}
+---json
+{
+    "name":"bhadrāśvaḥ",
+    "h1":"bhadrāśvaḥ",
+    "title":"bhadrāśvaḥ",
+    "description":"Bhadrāśva."
+}
+---
 
 ==== bhadrāśvaḥ  ====
   * Bhadrāśva --- [[books:sb:9:6:23-24|SB 9.6.23-24]]

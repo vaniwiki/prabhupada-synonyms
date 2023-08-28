@@ -1,5 +1,11 @@
-~~Title:malau~~
-{{description>the mind became clean, free from material contamination.}}
+---json
+{
+    "name":"malau",
+    "h1":"malau",
+    "title":"malau",
+    "description":"the mind became clean, free from material contamination."
+}
+---
 
 ==== manaḥ-malau  ====
   * the mind became clean, free from material contamination --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

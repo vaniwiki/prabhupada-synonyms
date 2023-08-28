@@ -1,5 +1,11 @@
-~~Title:aparah~~
-{{description>an enemy; another; anyone else; besides; different from the Nābha previously described; else; on the other hand; other; others; the latter; the other.}}
+---json
+{
+    "name":"aparah",
+    "h1":"aparah",
+    "title":"aparah",
+    "description":"an enemy; another; anyone else; besides; different from the Nābha previously described; else; on the other hand; other; others; the latter; the other."
+}
+---
 
 ==== aparaḥ  ====
   * an enemy --- [[books:sb:7:4:45|SB 7.4.45]]

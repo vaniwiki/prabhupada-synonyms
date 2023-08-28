@@ -1,5 +1,11 @@
-~~Title:patni~~
-{{description>his wife; the wife (mother Yaśodā); the wife; the wife of Mahārāja Bali; wife; wives; Śatarūpā.}}
+---json
+{
+    "name":"patni",
+    "h1":"patni",
+    "title":"patni",
+    "description":"his wife; the wife (mother Yaśodā); the wife; the wife of Mahārāja Bali; wife; wives; Śatarūpā."
+}
+---
 
 ==== patnī  ====
   * his wife --- [[books:sb:6:6:19|SB 6.6.19]], [[books:cc:adi:13:72|Ādi 13.72]]

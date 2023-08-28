@@ -1,5 +1,11 @@
-~~Title:yavanajāti~~
-{{description>by caste a Muslim.}}
+---json
+{
+    "name":"yavanajāti",
+    "h1":"yavanajāti",
+    "title":"yavanajāti",
+    "description":"by caste a Muslim."
+}
+---
 
 ==== yavanajāti  ====
   * by caste a Muslim --- [[books:cc:madhya:1:223|Madhya 1.223]]

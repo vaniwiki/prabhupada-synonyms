@@ -1,5 +1,11 @@
-~~Title:tālajaṅghaḥ~~
-{{description>a son named Tālajaṅgha.}}
+---json
+{
+    "name":"tālajaṅghaḥ",
+    "h1":"tālajaṅghaḥ",
+    "title":"tālajaṅghaḥ",
+    "description":"a son named Tālajaṅgha."
+}
+---
 
 ==== tālajaṅghaḥ  ====
   * a son named Tālajaṅgha --- [[books:sb:9:23:28|SB 9.23.28]]

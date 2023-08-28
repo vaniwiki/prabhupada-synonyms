@@ -1,5 +1,11 @@
-~~Title:hiṅgubhiḥ~~
-{{description>with panasas (jackfruit trees), udumbaras, aśvatthas, plakṣas, nyagrodhas and trees producing asafoetida.}}
+---json
+{
+    "name":"hiṅgubhiḥ",
+    "h1":"hiṅgubhiḥ",
+    "title":"hiṅgubhiḥ",
+    "description":"with panasas (jackfruit trees), udumbaras, aśvatthas, plakṣas, nyagrodhas and trees producing asafoetida."
+}
+---
 
 ==== panasa-udumbara-aśvattha-plakṣa-nyagrodha-hiṅgubhiḥ  ====
   * with //panasas// (jackfruit trees), //udumbaras, aśvatthas, plakṣas, nyagrodhas// and trees producing asafoetida --- [[books:sb:4:6:17|SB 4.6.17]]

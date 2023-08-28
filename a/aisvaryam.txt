@@ -1,5 +1,11 @@
-~~Title:aiśvaryam~~
-{{description>leadership; material opulence; mystic perfection; opulence; possessing opulences; power; such opulences; the opulence; the opulence of independence; the riches; whose opulence.}}
+---json
+{
+    "name":"aiśvaryam",
+    "h1":"aiśvaryam",
+    "title":"aiśvaryam",
+    "description":"leadership; material opulence; mystic perfection; opulence; possessing opulences; power; such opulences; the opulence; the opulence of independence; the riches; whose opulence."
+}
+---
 
 ==== aiśvaryam  ====
   * leadership --- [[books:sb:1:16:26-30|SB 1.16.26-30]]

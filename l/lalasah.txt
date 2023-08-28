@@ -1,5 +1,11 @@
-~~Title:lalasah~~
-{{description>being desirous; being inspired by.}}
+---json
+{
+    "name":"lalasah",
+    "h1":"lalasah",
+    "title":"lalasah",
+    "description":"being desirous; being inspired by."
+}
+---
 
 ==== lālasaḥ  ====
   * being desirous --- [[books:sb:4:20:27|SB 4.20.27]]

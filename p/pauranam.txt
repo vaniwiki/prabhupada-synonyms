@@ -1,5 +1,11 @@
-~~Title:paurāṇām~~
-{{description>of the citizens; of the inhabitants.}}
+---json
+{
+    "name":"paurāṇām",
+    "h1":"paurāṇām",
+    "title":"paurāṇām",
+    "description":"of the citizens; of the inhabitants."
+}
+---
 
 ==== paurāṇām  ====
   * of the citizens --- [[books:sb:1:11:21|SB 1.11.21]]

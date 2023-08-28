@@ -1,5 +1,11 @@
-~~Title:nadih~~
-{{description>the rivers.}}
+---json
+{
+    "name":"nadih",
+    "h1":"nadih",
+    "title":"nadih",
+    "description":"the rivers."
+}
+---
 
 ==== nadīḥ  ====
   * the rivers --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

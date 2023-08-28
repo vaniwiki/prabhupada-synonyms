@@ -1,5 +1,11 @@
-~~Title:nairṛta~~
-{{description>the great chiefs of the Rākṣasas.}}
+---json
+{
+    "name":"nairṛta",
+    "h1":"nairṛta",
+    "title":"nairṛta",
+    "description":"the great chiefs of the Rākṣasas."
+}
+---
 
 ==== nairṛta-puṅgavāḥ  ====
   * the great chiefs of the Rākṣasas --- [[books:sb:9:10:5|SB 9.10.5]]

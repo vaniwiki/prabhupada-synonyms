@@ -1,5 +1,11 @@
-~~Title:rahaye~~
-{{description>stays; stops.}}
+---json
+{
+    "name":"rahaye",
+    "h1":"rahaye",
+    "title":"rahaye",
+    "description":"stays; stops."
+}
+---
 
 ==== rahaye  ====
   * stays --- [[books:cc:madhya:10:110|Madhya 10.110]]

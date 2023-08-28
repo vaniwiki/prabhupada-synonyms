@@ -1,5 +1,11 @@
-~~Title:anuvarṇanam~~
-{{description>constant recitation; describing; description within the disciplic succession.}}
+---json
+{
+    "name":"anuvarṇanam",
+    "h1":"anuvarṇanam",
+    "title":"anuvarṇanam",
+    "description":"constant recitation; describing; description within the disciplic succession."
+}
+---
 
 ==== anuvarṇanam  ====
   * constant recitation --- [[books:sb:1:6:34|SB 1.6.34]]

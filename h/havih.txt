@@ -1,5 +1,11 @@
-~~Title:haviḥ~~
-{{description>butter; clarified butter; Havi; oblations; offering of clarified butter; pure sacrificial ingredients; the oblations.}}
+---json
+{
+    "name":"haviḥ",
+    "h1":"haviḥ",
+    "title":"haviḥ",
+    "description":"butter; clarified butter; Havi; oblations; offering of clarified butter; pure sacrificial ingredients; the oblations."
+}
+---
 
 ==== haviḥ  ====
   * butter --- [[books:bg:4:24|Bg. 4.24]]

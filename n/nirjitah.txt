@@ -1,5 +1,11 @@
-~~Title:nirjitāḥ~~
-{{description>being defeated; have been defeated; oppressed severely.}}
+---json
+{
+    "name":"nirjitāḥ",
+    "h1":"nirjitāḥ",
+    "title":"nirjitāḥ",
+    "description":"being defeated; have been defeated; oppressed severely."
+}
+---
 
 ==== nirjitāḥ  ====
   * being defeated --- [[books:sb:7:10:53|SB 7.10.53]]

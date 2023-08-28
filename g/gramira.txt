@@ -1,5 +1,11 @@
-~~Title:grāmīra~~
-{{description>the residents of Kulīna-grāma.}}
+---json
+{
+    "name":"grāmīra",
+    "h1":"grāmīra",
+    "title":"grāmīra",
+    "description":"the residents of Kulīna-grāma."
+}
+---
 
 ==== kulīna-grāmīra  ====
   * the residents of Kulīna-grāma --- [[books:cc:adi:10:83|Ādi 10.83]]

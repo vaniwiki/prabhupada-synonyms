@@ -1,5 +1,11 @@
-~~Title:cida~~
-{{description>the chipped rice.}}
+---json
+{
+    "name":"cida",
+    "h1":"cida",
+    "title":"cida",
+    "description":"the chipped rice."
+}
+---
 
 ==== ciḍa  ====
   * the chipped rice --- [[books:cc:antya:6:57|Antya 6.57]]

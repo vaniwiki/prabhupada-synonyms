@@ -1,5 +1,11 @@
-~~Title:anujñāpya~~
-{{description>taking permission from Vasudeva.}}
+---json
+{
+    "name":"anujñāpya",
+    "h1":"anujñāpya",
+    "title":"anujñāpya",
+    "description":"taking permission from Vasudeva."
+}
+---
 
 ==== tam anujñāpya  ====
   * taking permission from Vasudeva --- [[books:sb:10:5:32|SB 10.5.32]]

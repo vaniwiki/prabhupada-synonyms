@@ -1,5 +1,11 @@
-~~Title:mukhyatām~~
-{{description>immovable life.}}
+---json
+{
+    "name":"mukhyatām",
+    "h1":"mukhyatām",
+    "title":"mukhyatām",
+    "description":"immovable life."
+}
+---
 
 ==== mukhyatām  ====
   * immovable life --- [[books:sb:4:22:33|SB 4.22.33]]

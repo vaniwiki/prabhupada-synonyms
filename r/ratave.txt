@@ -1,5 +1,11 @@
-~~Title:rātave~~
-{{description>to give.}}
+---json
+{
+    "name":"rātave",
+    "h1":"rātave",
+    "title":"rātave",
+    "description":"to give."
+}
+---
 
 ==== rātave  ====
   * to give --- [[books:sb:4:17:10-11|SB 4.17.10-11]]

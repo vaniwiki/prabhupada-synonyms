@@ -1,5 +1,11 @@
-~~Title:ājya~~
-{{description>mixed with butter.}}
+---json
+{
+    "name":"ājya",
+    "h1":"ājya",
+    "title":"ājya",
+    "description":"mixed with butter."
+}
+---
 
 ==== ājya-siktam  ====
   * mixed with butter --- [[books:sb:4:7:41|SB 4.7.41]]

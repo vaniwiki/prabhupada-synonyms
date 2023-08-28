@@ -1,5 +1,11 @@
-~~Title:kah~~
-{{description>Brahmā (or arkaḥ---Sūrya); Brahmā; Brahmā, the original living creature; Dakṣa; Kaśyapa Muni; Lord Brahmā; Prajāpati Dakṣa; the prajāpati; the prajāpatis; what; what is that; who (Dakṣa); who (is there); who (is); who; who are; who else; who is he; who is that; who is that man; who is that person; who is there; whoever.}}
+---json
+{
+    "name":"kah",
+    "h1":"kah",
+    "title":"kah",
+    "description":"Brahmā (or arkaḥ---Sūrya); Brahmā; Brahmā, the original living creature; Dakṣa; Kaśyapa Muni; Lord Brahmā; Prajāpati Dakṣa; the prajāpati; the prajāpatis; what; what is that; who (Dakṣa); who (is there); who (is); who; who are; who else; who is he; who is that; who is that man; who is that person; who is there; whoever."
+}
+---
 
 ==== kaḥ  ====
   * Brahmā (or //arkaḥ//---Sūrya) --- [[books:sb:1:7:18|SB 1.7.18]]

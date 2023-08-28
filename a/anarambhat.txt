@@ -1,5 +1,11 @@
-~~Title:anārambhāt~~
-{{description>non-performance.}}
+---json
+{
+    "name":"anārambhāt",
+    "h1":"anārambhāt",
+    "title":"anārambhāt",
+    "description":"non-performance."
+}
+---
 
 ==== anārambhāt  ====
   * non-performance --- [[books:bg:3:4|Bg. 3.4]]

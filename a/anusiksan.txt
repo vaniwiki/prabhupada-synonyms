@@ -1,5 +1,11 @@
-~~Title:anuśikṣan~~
-{{description>setting the example.}}
+---json
+{
+    "name":"anuśikṣan",
+    "h1":"anuśikṣan",
+    "title":"anuśikṣan",
+    "description":"setting the example."
+}
+---
 
 ==== anuśikṣan  ====
   * setting the example --- [[books:sb:4:11:12|SB 4.11.12]]

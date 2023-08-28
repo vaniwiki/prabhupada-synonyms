@@ -1,5 +1,11 @@
-~~Title:avasīdanti~~
-{{description>are disheartened.}}
+---json
+{
+    "name":"avasīdanti",
+    "h1":"avasīdanti",
+    "title":"avasīdanti",
+    "description":"are disheartened."
+}
+---
 
 ==== avasīdanti  ====
   * are disheartened --- [[books:sb:8:1:15|SB 8.1.15]]

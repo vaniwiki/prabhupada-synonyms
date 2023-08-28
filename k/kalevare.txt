@@ -1,5 +1,11 @@
-~~Title:kalevare~~
-{{description>in the body; in the pot of their body.}}
+---json
+{
+    "name":"kalevare",
+    "h1":"kalevare",
+    "title":"kalevare",
+    "description":"in the body; in the pot of their body."
+}
+---
 
 ==== kalevare  ====
   * in the body --- [[books:sb:4:7:44|SB 4.7.44]]

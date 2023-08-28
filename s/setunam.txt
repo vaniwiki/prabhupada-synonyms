@@ -1,5 +1,11 @@
-~~Title:setūnām~~
-{{description>of religious principles; of the principles of religion.}}
+---json
+{
+    "name":"setūnām",
+    "h1":"setūnām",
+    "title":"setūnām",
+    "description":"of religious principles; of the principles of religion."
+}
+---
 
 ==== dharma-setūnām  ====
   * of religious principles --- [[books:sb:4:12:12|SB 4.12.12]]

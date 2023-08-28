@@ -1,5 +1,11 @@
-~~Title:vikalpa~~
-{{description>full of equivocal calculations.}}
+---json
+{
+    "name":"vikalpa",
+    "h1":"vikalpa",
+    "title":"vikalpa",
+    "description":"full of equivocal calculations."
+}
+---
 
 ==== vikalpa  ====
   * full of equivocal calculations --- [[books:sb:6:9:36|SB 6.9.36]]

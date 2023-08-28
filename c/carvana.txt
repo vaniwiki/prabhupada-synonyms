@@ -1,5 +1,11 @@
-~~Title:carvaṇa~~
-{{description>chew; chewing.}}
+---json
+{
+    "name":"carvaṇa",
+    "h1":"carvaṇa",
+    "title":"carvaṇa",
+    "description":"chew; chewing."
+}
+---
 
 ==== carvaṇa  ====
   * chew --- [[books:cc:adi:13:50|Ādi 13.50]]

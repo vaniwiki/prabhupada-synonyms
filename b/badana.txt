@@ -1,5 +1,11 @@
-~~Title:bāḍāñā~~
-{{description>increasing.}}
+---json
+{
+    "name":"bāḍāñā",
+    "h1":"bāḍāñā",
+    "title":"bāḍāñā",
+    "description":"increasing."
+}
+---
 
 ==== bāḍāñā  ====
   * increasing --- [[books:cc:antya:17:35|Antya 17.35]]

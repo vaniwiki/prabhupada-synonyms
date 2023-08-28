@@ -1,5 +1,11 @@
-~~Title:utpannāḥ~~
-{{description>now born as such.}}
+---json
+{
+    "name":"utpannāḥ",
+    "h1":"utpannāḥ",
+    "title":"utpannāḥ",
+    "description":"now born as such."
+}
+---
 
 ==== utpannāḥ  ====
   * now born as such --- [[books:sb:4:24:4|SB 4.24.4]]

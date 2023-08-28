@@ -1,5 +1,11 @@
-~~Title:śukāite~~
-{{description>to dry.}}
+---json
+{
+    "name":"śukāite",
+    "h1":"śukāite",
+    "title":"śukāite",
+    "description":"to dry."
+}
+---
 
 ==== śukāite  ====
   * to dry --- [[books:cc:madhya:20:84|Madhya 20.84]]

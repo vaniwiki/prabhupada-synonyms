@@ -1,5 +1,11 @@
-~~Title:kārmuka~~
-{{description>of the bow.}}
+---json
+{
+    "name":"kārmuka",
+    "h1":"kārmuka",
+    "title":"kārmuka",
+    "description":"of the bow."
+}
+---
 
 ==== kārmuka  ====
   * of the bow --- [[books:cc:antya:1:151|Antya 1.151]]

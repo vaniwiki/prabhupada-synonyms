@@ -1,5 +1,11 @@
-~~Title:niḥsāratām~~
-{{description>uselessness.}}
+---json
+{
+    "name":"niḥsāratām",
+    "h1":"niḥsāratām",
+    "title":"niḥsāratām",
+    "description":"uselessness."
+}
+---
 
 ==== niḥsāratām  ====
   * uselessness --- [[books:sb:4:28:3|SB 4.28.3]]

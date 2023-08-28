@@ -1,5 +1,11 @@
-~~Title:truṭi~~
-{{description>by a moment's time.}}
+---json
+{
+    "name":"truṭi",
+    "h1":"truṭi",
+    "title":"truṭi",
+    "description":"by a moment's time."
+}
+---
 
 ==== truṭi-anehasā  ====
   * by a moment's time --- [[books:sb:10:13:40|SB 10.13.40]]

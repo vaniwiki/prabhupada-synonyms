@@ -1,5 +1,11 @@
-~~Title:ruddhayā~~
-{{description>choked up.}}
+---json
+{
+    "name":"ruddhayā",
+    "h1":"ruddhayā",
+    "title":"ruddhayā",
+    "description":"choked up."
+}
+---
 
 ==== ruddhayā  ====
   * choked up --- [[books:cc:antya:20:36|Antya 20.36]]

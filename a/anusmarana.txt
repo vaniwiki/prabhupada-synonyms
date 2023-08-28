@@ -1,5 +1,11 @@
-~~Title:anusmaraṇa~~
-{{description>constantly remembering.}}
+---json
+{
+    "name":"anusmaraṇa",
+    "h1":"anusmaraṇa",
+    "title":"anusmaraṇa",
+    "description":"constantly remembering."
+}
+---
 
 ==== anusmaraṇa  ====
   * constantly remembering --- [[books:sb:5:8:29|SB 5.8.29]]

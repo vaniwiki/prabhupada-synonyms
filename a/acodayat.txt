@@ -1,5 +1,11 @@
-~~Title:acodayat~~
-{{description>encouraged; gave the order; has sent; he sent for fighting.}}
+---json
+{
+    "name":"acodayat",
+    "h1":"acodayat",
+    "title":"acodayat",
+    "description":"encouraged; gave the order; has sent; he sent for fighting."
+}
+---
 
 ==== acodayat  ====
   * encouraged --- [[books:sb:4:19:15|SB 4.19.15]], [[books:sb:9:15:26|SB 9.15.26]]

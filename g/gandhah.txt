@@ -1,5 +1,11 @@
-~~Title:gandhaḥ~~
-{{description>a light fragrance; aroma; fragrance; odor; the fragrance.}}
+---json
+{
+    "name":"gandhaḥ",
+    "h1":"gandhaḥ",
+    "title":"gandhaḥ",
+    "description":"a light fragrance; aroma; fragrance; odor; the fragrance."
+}
+---
 
 ==== gandhaḥ  ====
   * a light fragrance --- [[books:cc:madhya:19:165|Madhya 19.165]]

@@ -1,5 +1,11 @@
-~~Title:barhiṣaḥ~~
-{{description>of the sacrifice.}}
+---json
+{
+    "name":"barhiṣaḥ",
+    "h1":"barhiṣaḥ",
+    "title":"barhiṣaḥ",
+    "description":"of the sacrifice."
+}
+---
 
 ==== barhiṣaḥ  ====
   * of the sacrifice --- [[books:sb:4:6:5|SB 4.6.5]], [[books:sb:4:7:3|SB 4.7.3]]

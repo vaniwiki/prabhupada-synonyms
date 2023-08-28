@@ -1,5 +1,11 @@
-~~Title:calitum~~
-{{description>to walk.}}
+---json
+{
+    "name":"calitum",
+    "h1":"calitum",
+    "title":"calitum",
+    "description":"to walk."
+}
+---
 
 ==== calitum  ====
   * to walk --- [[books:cc:madhya:19:207-209|Madhya 19.207-209]]

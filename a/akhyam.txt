@@ -1,5 +1,11 @@
-~~Title:akhyam~~
-{{description>by the name; of the name.}}
+---json
+{
+    "name":"akhyam",
+    "h1":"akhyam",
+    "title":"akhyam",
+    "description":"by the name; of the name."
+}
+---
 
 ==== ākhyam  ====
   * by the name --- [[books:sb:4:8:41|SB 4.8.41]]

@@ -1,5 +1,11 @@
-~~Title:naśvara~~
-{{description>perishable.}}
+---json
+{
+    "name":"naśvara",
+    "h1":"naśvara",
+    "title":"naśvara",
+    "description":"perishable."
+}
+---
 
 ==== naśvara  ====
   * perishable --- [[books:cc:antya:5:118|Antya 5.118]]

@@ -1,5 +1,11 @@
-~~Title:āsedivān~~
-{{description>reached.}}
+---json
+{
+    "name":"āsedivān",
+    "h1":"āsedivān",
+    "title":"āsedivān",
+    "description":"reached."
+}
+---
 
 ==== āsedivān  ====
   * reached --- [[books:sb:3:17:26|SB 3.17.26]]

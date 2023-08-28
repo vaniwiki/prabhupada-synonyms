@@ -1,5 +1,11 @@
-~~Title:ghṛṇālubhiḥ~~
-{{description>by the most compassionate.}}
+---json
+{
+    "name":"ghṛṇālubhiḥ",
+    "h1":"ghṛṇālubhiḥ",
+    "title":"ghṛṇālubhiḥ",
+    "description":"by the most compassionate."
+}
+---
 
 ==== ghṛṇālubhiḥ  ====
   * by the most compassionate --- [[books:sb:4:22:43|SB 4.22.43]]

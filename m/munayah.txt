@@ -1,5 +1,11 @@
-~~Title:munayaḥ~~
-{{description>all sages; all the great sages; all the great sages and saintly persons; all the saintly brāhmaṇas; all those great saintly persons; great philosophers and exalted sages; great sages; great saintly persons; great saintly persons who have completely rejected material aspirations, fruitive activities and so forth; great saintly persons who have completely rejected material aspirations, fruitive activities, and so forth; great thinkers and sages; O great sages; O sages; sages; saintly persons; saints; the muni followers of the Vedānta; the great sages; the great sages, headed by Vyāsadeva, etc; the great saintly persons; the great thinkers; the Kumāras; the philosophers; the sages; the saintly persons; the seven sages; thinkers.}}
+---json
+{
+    "name":"munayaḥ",
+    "h1":"munayaḥ",
+    "title":"munayaḥ",
+    "description":"all sages; all the great sages; all the great sages and saintly persons; all the saintly brāhmaṇas; all those great saintly persons; great philosophers and exalted sages; great sages; great saintly persons; great saintly persons who have completely rejected material aspirations, fruitive activities and so forth; great saintly persons who have completely rejected material aspirations, fruitive activities, and so forth; great thinkers and sages; O great sages; O sages; sages; saintly persons; saints; the muni followers of the Vedānta; the great sages; the great sages, headed by Vyāsadeva, etc; the great saintly persons; the great thinkers; the Kumāras; the philosophers; the sages; the saintly persons; the seven sages; thinkers."
+}
+---
 
 ==== munayaḥ  ====
   * all sages --- [[books:sb:2:1:7|SB 2.1.7]]

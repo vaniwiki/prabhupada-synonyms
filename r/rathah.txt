@@ -1,5 +1,11 @@
-~~Title:rathah~~
-{{description>a chariot; chariot; the chariot.}}
+---json
+{
+    "name":"rathah",
+    "h1":"rathah",
+    "title":"rathah",
+    "description":"a chariot; chariot; the chariot."
+}
+---
 
 ==== rathaḥ  ====
   * a chariot --- [[books:sb:8:15:5|SB 8.15.5]]

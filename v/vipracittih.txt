@@ -1,5 +1,11 @@
-~~Title:vipracittiḥ~~
-{{description>Vipracitti.}}
+---json
+{
+    "name":"vipracittiḥ",
+    "h1":"vipracittiḥ",
+    "title":"vipracittiḥ",
+    "description":"Vipracitti."
+}
+---
 
 ==== vipracittiḥ  ====
   * Vipracitti --- [[books:sb:6:6:29-31|SB 6.6.29-31]], [[books:sb:6:6:37|SB 6.6.37]], [[books:sb:6:10:19-22|SB 6.10.19-22]], [[books:sb:8:10:19-24|SB 8.10.19-24]]

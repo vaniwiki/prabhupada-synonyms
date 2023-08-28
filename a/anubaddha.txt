@@ -1,5 +1,11 @@
-~~Title:anubaddha~~
-{{description>bound; firmly.}}
+---json
+{
+    "name":"anubaddha",
+    "h1":"anubaddha",
+    "title":"anubaddha",
+    "description":"bound; firmly."
+}
+---
 
 ==== anubaddha  ====
   * bound --- [[books:sb:6:9:41|SB 6.9.41]]

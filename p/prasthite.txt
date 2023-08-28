@@ -1,5 +1,11 @@
-~~Title:prasthite~~
-{{description>after departure; at the departure; departed; left; left for.}}
+---json
+{
+    "name":"prasthite",
+    "h1":"prasthite",
+    "title":"prasthite",
+    "description":"after departure; at the departure; departed; left; left for."
+}
+---
 
 ==== prasthite  ====
   * after departure --- [[books:sb:4:9:22|SB 4.9.22]]

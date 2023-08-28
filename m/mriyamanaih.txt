@@ -1,5 +1,11 @@
-~~Title:mriyamāṇaiḥ~~
-{{description>especially those who are just about to die.}}
+---json
+{
+    "name":"mriyamāṇaiḥ",
+    "h1":"mriyamāṇaiḥ",
+    "title":"mriyamāṇaiḥ",
+    "description":"especially those who are just about to die."
+}
+---
 
 ==== mriyamāṇaiḥ  ====
   * especially those who are just about to die --- [[books:sb:1:19:24|SB 1.19.24]]

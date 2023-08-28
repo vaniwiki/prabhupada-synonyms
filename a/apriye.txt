@@ -1,5 +1,11 @@
-~~Title:apriye~~
-{{description>and unpleasant.}}
+---json
+{
+    "name":"apriye",
+    "h1":"apriye",
+    "title":"apriye",
+    "description":"and unpleasant."
+}
+---
 
 ==== apriye  ====
   * and unpleasant --- [[books:sb:4:28:37|SB 4.28.37]]

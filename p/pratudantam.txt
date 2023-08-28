@@ -1,5 +1,11 @@
-~~Title:pratudantam~~
-{{description>piercing.}}
+---json
+{
+    "name":"pratudantam",
+    "h1":"pratudantam",
+    "title":"pratudantam",
+    "description":"piercing."
+}
+---
 
 ==== pratudantam  ====
   * piercing --- [[books:sb:3:18:9|SB 3.18.9]]

@@ -1,5 +1,11 @@
-~~Title:setuḥ~~
-{{description>Setu; Setubandha, where Lord Rāmacandra constructed a bridge between India and Laṅkā.}}
+---json
+{
+    "name":"setuḥ",
+    "h1":"setuḥ",
+    "title":"setuḥ",
+    "description":"Setu; Setubandha, where Lord Rāmacandra constructed a bridge between India and Laṅkā."
+}
+---
 
 ==== setuḥ  ====
   * Setu --- [[books:sb:9:23:14|SB 9.23.14]]

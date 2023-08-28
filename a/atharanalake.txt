@@ -1,5 +1,11 @@
-~~Title:āṭhāranālāke~~
-{{description>Āṭhāranālā.}}
+---json
+{
+    "name":"āṭhāranālāke",
+    "h1":"āṭhāranālāke",
+    "title":"āṭhāranālāke",
+    "description":"Āṭhāranālā."
+}
+---
 
 ==== āṭhāranālāke  ====
   * Āṭhāranālā --- [[books:cc:madhya:16:38|Madhya 16.38]]

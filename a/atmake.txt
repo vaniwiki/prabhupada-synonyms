@@ -1,5 +1,11 @@
-~~Title:ātmake~~
-{{description>in that which is the source of all such qualities.}}
+---json
+{
+    "name":"ātmake",
+    "h1":"ātmake",
+    "title":"ātmake",
+    "description":"in that which is the source of all such qualities."
+}
+---
 
 ==== guṇa-ātmake  ====
   * in that which is the source of all such qualities --- [[books:sb:8:20:22|SB 8.20.22]]

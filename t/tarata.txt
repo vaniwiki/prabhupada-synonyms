@@ -1,5 +1,11 @@
-~~Title:taratā~~
-{{description>more completeness.}}
+---json
+{
+    "name":"taratā",
+    "h1":"taratā",
+    "title":"taratā",
+    "description":"more completeness."
+}
+---
 
 ==== pūrṇa-taratā  ====
   * more completeness --- [[books:cc:madhya:20:401|Madhya 20.401]]

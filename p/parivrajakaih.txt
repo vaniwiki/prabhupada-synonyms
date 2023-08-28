@@ -1,5 +1,11 @@
-~~Title:parivrājakaiḥ~~
-{{description>by the topmost sannyāsīs wandering all over the world.}}
+---json
+{
+    "name":"parivrājakaiḥ",
+    "h1":"parivrājakaiḥ",
+    "title":"parivrājakaiḥ",
+    "description":"by the topmost sannyāsīs wandering all over the world."
+}
+---
 
 ==== paramahaṁsa-parivrājakaiḥ  ====
   * by the topmost //sannyāsīs// wandering all over the world --- [[books:sb:6:9:33|SB 6.9.33]]

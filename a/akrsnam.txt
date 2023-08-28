@@ -1,5 +1,11 @@
-~~Title:akṛṣṇam~~
-{{description>not black (golden); not blackish.}}
+---json
+{
+    "name":"akṛṣṇam",
+    "h1":"akṛṣṇam",
+    "title":"akṛṣṇam",
+    "description":"not black (golden); not blackish."
+}
+---
 
 ==== akṛṣṇam  ====
   * not black (golden) --- [[books:cc:adi:3:52|Ādi 3.52]], [[books:cc:madhya:11:100|Madhya 11.100]], [[books:cc:madhya:20:342|Madhya 20.342]], [[books:cc:antya:20:10|Antya 20.10]]

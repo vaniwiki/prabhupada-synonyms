@@ -1,5 +1,11 @@
-~~Title:apūri~~
-{{description>filled.}}
+---json
+{
+    "name":"apūri",
+    "h1":"apūri",
+    "title":"apūri",
+    "description":"filled."
+}
+---
 
 ==== apūri ca  ====
   * filled --- [[books:sb:10:11:11|SB 10.11.11]]

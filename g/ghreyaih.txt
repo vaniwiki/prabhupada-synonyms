@@ -1,5 +1,11 @@
-~~Title:ghreyaiḥ~~
-{{description>with the object of smell.}}
+---json
+{
+    "name":"ghreyaiḥ",
+    "h1":"ghreyaiḥ",
+    "title":"ghreyaiḥ",
+    "description":"with the object of smell."
+}
+---
 
 ==== ghreyaiḥ  ====
   * with the object of smell --- [[books:sb:7:12:26-28|SB 7.12.26-28]]

@@ -1,5 +1,11 @@
-~~Title:svāṁśera~~
-{{description>of personal expansions; of the personal expansion.}}
+---json
+{
+    "name":"svāṁśera",
+    "h1":"svāṁśera",
+    "title":"svāṁśera",
+    "description":"of personal expansions; of the personal expansion."
+}
+---
 
 ==== svāṁśera  ====
   * of personal expansions --- [[books:cc:madhya:20:243|Madhya 20.243]]

@@ -1,5 +1,11 @@
-~~Title:nīveḥ~~
-{{description>of the dress of the evening sky.}}
+---json
+{
+    "name":"nīveḥ",
+    "h1":"nīveḥ",
+    "title":"nīveḥ",
+    "description":"of the dress of the evening sky."
+}
+---
 
 ==== sandhyā-abhra-nīveḥ  ====
   * of the dress of the evening sky --- [[books:sb:3:8:24|SB 3.8.24]]

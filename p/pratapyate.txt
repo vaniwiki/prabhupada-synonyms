@@ -1,5 +1,11 @@
-~~Title:pratapyate~~
-{{description>is pained.}}
+---json
+{
+    "name":"pratapyate",
+    "h1":"pratapyate",
+    "title":"pratapyate",
+    "description":"is pained."
+}
+---
 
 ==== pratapyate  ====
   * is pained --- [[books:sb:5:18:21|SB 5.18.21]]

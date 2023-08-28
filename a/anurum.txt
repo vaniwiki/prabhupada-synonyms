@@ -1,5 +1,11 @@
-~~Title:anūrum~~
-{{description>Anūru.}}
+---json
+{
+    "name":"anūrum",
+    "h1":"anūrum",
+    "title":"anūrum",
+    "description":"Anūru."
+}
+---
 
 ==== anūrum  ====
   * Anūru --- [[books:sb:6:6:21-22|SB 6.6.21-22]]

@@ -1,5 +1,11 @@
-~~Title:anugān~~
-{{description>his followers; the followers.}}
+---json
+{
+    "name":"anugān",
+    "h1":"anugān",
+    "title":"anugān",
+    "description":"his followers; the followers."
+}
+---
 
 ==== anugān  ====
   * his followers --- [[books:sb:6:10:30|SB 6.10.30]]

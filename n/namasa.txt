@@ -1,5 +1,11 @@
-~~Title:namasā~~
-{{description>with all obeisances; with obeisances.}}
+---json
+{
+    "name":"namasā",
+    "h1":"namasā",
+    "title":"namasā",
+    "description":"with all obeisances; with obeisances."
+}
+---
 
 ==== namasā  ====
   * with all obeisances --- [[books:sb:3:13:42|SB 3.13.42]]

@@ -1,5 +1,11 @@
-~~Title:bhraṁśite~~
-{{description>was caused to fall down.}}
+---json
+{
+    "name":"bhraṁśite",
+    "h1":"bhraṁśite",
+    "title":"bhraṁśite",
+    "description":"was caused to fall down."
+}
+---
 
 ==== bhraṁśite  ====
   * was caused to fall down --- [[books:sb:9:18:3|SB 9.18.3]]

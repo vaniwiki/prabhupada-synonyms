@@ -1,5 +1,11 @@
-~~Title:pulastyena~~
-{{description>by the sage Pulastya.}}
+---json
+{
+    "name":"pulastyena",
+    "h1":"pulastyena",
+    "title":"pulastyena",
+    "description":"by the sage Pulastya."
+}
+---
 
 ==== pulastyena  ====
   * by the sage Pulastya --- [[books:sb:3:8:9|SB 3.8.9]]

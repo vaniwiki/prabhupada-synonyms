@@ -1,5 +1,11 @@
-~~Title:śuśrūṣayā~~
-{{description>by practical service; by rendering service; by serving; by the service; with service.}}
+---json
+{
+    "name":"śuśrūṣayā",
+    "h1":"śuśrūṣayā",
+    "title":"śuśrūṣayā",
+    "description":"by practical service; by rendering service; by serving; by the service; with service."
+}
+---
 
 ==== śuśrūṣayā  ====
   * by practical service --- [[books:noi:5|NoI 5]]

@@ -1,5 +1,11 @@
-~~Title:yuktye~~
-{{description>in argument and logic.}}
+---json
+{
+    "name":"yuktye",
+    "h1":"yuktye",
+    "title":"yuktye",
+    "description":"in argument and logic."
+}
+---
 
 ==== śāstra-yuktye  ====
   * in argument and logic --- [[books:cc:madhya:22:65|Madhya 22.65]]

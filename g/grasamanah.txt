@@ -1,5 +1,11 @@
-~~Title:grasamānaḥ~~
-{{description>devouring.}}
+---json
+{
+    "name":"grasamānaḥ",
+    "h1":"grasamānaḥ",
+    "title":"grasamānaḥ",
+    "description":"devouring."
+}
+---
 
 ==== grasamānaḥ  ====
   * devouring --- [[books:bg:11:30|Bg. 11.30]]

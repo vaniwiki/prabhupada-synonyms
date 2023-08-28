@@ -1,5 +1,11 @@
-~~Title:anasūyave~~
-{{description>nonenvious; to the nonenvious.}}
+---json
+{
+    "name":"anasūyave",
+    "h1":"anasūyave",
+    "title":"anasūyave",
+    "description":"nonenvious; to the nonenvious."
+}
+---
 
 ==== anasūyave  ====
   * nonenvious --- [[books:sb:3:32:41|SB 3.32.41]]

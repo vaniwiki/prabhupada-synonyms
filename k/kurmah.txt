@@ -1,5 +1,11 @@
-~~Title:kūrmaḥ~~
-{{description>Lord Kūrma, the tortoise; tortoise.}}
+---json
+{
+    "name":"kūrmaḥ",
+    "h1":"kūrmaḥ",
+    "title":"kūrmaḥ",
+    "description":"Lord Kūrma, the tortoise; tortoise."
+}
+---
 
 ==== kūrmaḥ  ====
   * Lord Kūrma, the tortoise --- [[books:sb:6:8:17|SB 6.8.17]]

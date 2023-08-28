@@ -1,5 +1,11 @@
-~~Title:mādhavam~~
-{{description>Supreme Personality of Godhead.}}
+---json
+{
+    "name":"mādhavam",
+    "h1":"mādhavam",
+    "title":"mādhavam",
+    "description":"Supreme Personality of Godhead."
+}
+---
 
 ==== mādhavam  ====
   * Supreme Personality of Godhead --- [[books:cc:madhya:17:80|Madhya 17.80]]

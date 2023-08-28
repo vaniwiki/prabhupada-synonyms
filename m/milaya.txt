@@ -1,5 +1,11 @@
-~~Title:milaya~~
-{{description>become mixed; join; meet.}}
+---json
+{
+    "name":"milaya",
+    "h1":"milaya",
+    "title":"milaya",
+    "description":"become mixed; join; meet."
+}
+---
 
 ==== milaya  ====
   * become mixed --- [[books:cc:madhya:14:175|Madhya 14.175]]

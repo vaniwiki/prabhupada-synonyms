@@ -1,5 +1,11 @@
-~~Title:yūthapam~~
-{{description>(goes to attack) an elephant.}}
+---json
+{
+    "name":"yūthapam",
+    "h1":"yūthapam",
+    "title":"yūthapam",
+    "description":"(goes to attack) an elephant."
+}
+---
 
 ==== yūthapam  ====
   * (goes to attack) an elephant --- [[books:sb:9:15:28|SB 9.15.28]]

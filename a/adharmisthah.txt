@@ -1,5 +1,11 @@
-~~Title:adharmiṣṭhāḥ~~
-{{description>irreligious persons.}}
+---json
+{
+    "name":"adharmiṣṭhāḥ",
+    "h1":"adharmiṣṭhāḥ",
+    "title":"adharmiṣṭhāḥ",
+    "description":"irreligious persons."
+}
+---
 
 ==== adharmiṣṭhāḥ  ====
   * irreligious persons --- [[books:sb:8:15:22|SB 8.15.22]]

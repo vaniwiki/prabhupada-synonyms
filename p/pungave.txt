@@ -1,5 +1,11 @@
-~~Title:puṅgave~~
-{{description>unto the leader of the devotees.}}
+---json
+{
+    "name":"puṅgave",
+    "h1":"puṅgave",
+    "title":"puṅgave",
+    "description":"unto the leader of the devotees."
+}
+---
 
 ==== sātvata-puṅgave  ====
   * unto the leader of the devotees --- [[books:sb:1:9:32|SB 1.9.32]]

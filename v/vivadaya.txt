@@ -1,5 +1,11 @@
-~~Title:vivādayā~~
-{{description>disagreements.}}
+---json
+{
+    "name":"vivādayā",
+    "h1":"vivādayā",
+    "title":"vivādayā",
+    "description":"disagreements."
+}
+---
 
 ==== vivādayā  ====
   * disagreements --- [[books:cc:madhya:10:119|Madhya 10.119]]

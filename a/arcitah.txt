@@ -1,5 +1,11 @@
-~~Title:arcitah~~
-{{description>being honored and worshiped; being worshiped; was worshiped; worshiped.}}
+---json
+{
+    "name":"arcitah",
+    "h1":"arcitah",
+    "title":"arcitah",
+    "description":"being honored and worshiped; being worshiped; was worshiped; worshiped."
+}
+---
 
 ==== arcitaḥ  ====
   * being honored and worshiped --- [[books:sb:4:9:26|SB 4.9.26]]

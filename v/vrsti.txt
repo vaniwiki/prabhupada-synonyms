@@ -1,5 +1,11 @@
-~~Title:vṛṣṭi~~
-{{description>obstacles to rainfall.}}
+---json
+{
+    "name":"vṛṣṭi",
+    "h1":"vṛṣṭi",
+    "title":"vṛṣṭi",
+    "description":"obstacles to rainfall."
+}
+---
 
 ==== vṛṣṭi-viṣṭambha  ====
   * obstacles to rainfall --- [[books:sb:5:22:12|SB 5.22.12]]

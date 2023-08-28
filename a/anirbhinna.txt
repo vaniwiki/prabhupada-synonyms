@@ -1,5 +1,11 @@
-~~Title:anirbhinna~~
-{{description>not being cut.}}
+---json
+{
+    "name":"anirbhinna",
+    "h1":"anirbhinna",
+    "title":"anirbhinna",
+    "description":"not being cut."
+}
+---
 
 ==== anirbhinna  ====
   * not being cut --- [[books:sb:4:5:23|SB 4.5.23]]

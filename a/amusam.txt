@@ -1,5 +1,11 @@
-~~Title:amūṣām~~
-{{description>of all of them; of them.}}
+---json
+{
+    "name":"amūṣām",
+    "h1":"amūṣām",
+    "title":"amūṣām",
+    "description":"of all of them; of them."
+}
+---
 
 ==== amūṣām  ====
   * of all of them --- [[books:sb:4:17:25|SB 4.17.25]]

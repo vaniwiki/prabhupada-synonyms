@@ -1,5 +1,11 @@
-~~Title:pratīyamānaḥ~~
-{{description>is situated.}}
+---json
+{
+    "name":"pratīyamānaḥ",
+    "h1":"pratīyamānaḥ",
+    "title":"pratīyamānaḥ",
+    "description":"is situated."
+}
+---
 
 ==== pratīyamānaḥ  ====
   * is situated --- [[books:sb:5:22:16|SB 5.22.16]]

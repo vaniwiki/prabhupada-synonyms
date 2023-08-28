@@ -1,5 +1,11 @@
-~~Title:phoskā~~
-{{description>there were blisters.}}
+---json
+{
+    "name":"phoskā",
+    "h1":"phoskā",
+    "title":"phoskā",
+    "description":"there were blisters."
+}
+---
 
 ==== phoskā haila  ====
   * there were blisters --- [[books:cc:antya:4:120|Antya 4.120]]

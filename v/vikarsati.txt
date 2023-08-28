@@ -1,5 +1,11 @@
-~~Title:vikarṣati~~
-{{description>attracts.}}
+---json
+{
+    "name":"vikarṣati",
+    "h1":"vikarṣati",
+    "title":"vikarṣati",
+    "description":"attracts."
+}
+---
 
 ==== vikarṣati  ====
   * attracts --- [[books:sb:7:9:40|SB 7.9.40]]

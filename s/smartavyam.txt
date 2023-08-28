@@ -1,5 +1,11 @@
-~~Title:smartavyam~~
-{{description>that which is remembered.}}
+---json
+{
+    "name":"smartavyam",
+    "h1":"smartavyam",
+    "title":"smartavyam",
+    "description":"that which is remembered."
+}
+---
 
 ==== smartavyam  ====
   * that which is remembered --- [[books:sb:1:19:38|SB 1.19.38]]

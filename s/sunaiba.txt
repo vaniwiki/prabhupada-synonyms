@@ -1,5 +1,11 @@
-~~Title:sunaiba~~
-{{description>I shall recite.}}
+---json
+{
+    "name":"sunaiba",
+    "h1":"sunaiba",
+    "title":"sunaiba",
+    "description":"I shall recite."
+}
+---
 
 ==== śunāiba  ====
   * I shall recite --- [[books:cc:madhya:6:75|Madhya 6.75]]

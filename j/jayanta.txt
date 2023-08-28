@@ -1,5 +1,11 @@
-~~Title:jayanta~~
-{{description>Jayanta.}}
+---json
+{
+    "name":"jayanta",
+    "h1":"jayanta",
+    "title":"jayanta",
+    "description":"Jayanta."
+}
+---
 
 ==== jayanta  ====
   * Jayanta --- [[books:sb:1:14:28-29|SB 1.14.28-29]]

@@ -1,5 +1,11 @@
-~~Title:aṅgiṇīm~~
-{{description>four defensive divisions.}}
+---json
+{
+    "name":"aṅgiṇīm",
+    "h1":"aṅgiṇīm",
+    "title":"aṅgiṇīm",
+    "description":"four defensive divisions."
+}
+---
 
 ==== catuḥ-aṅgiṇīm  ====
   * four defensive divisions --- [[books:sb:1:10:32|SB 1.10.32]]

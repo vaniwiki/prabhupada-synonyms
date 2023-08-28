@@ -1,5 +1,11 @@
-~~Title:vṛkṣatām~~
-{{description>the forms of trees.}}
+---json
+{
+    "name":"vṛkṣatām",
+    "h1":"vṛkṣatām",
+    "title":"vṛkṣatām",
+    "description":"the forms of trees."
+}
+---
 
 ==== vṛkṣatām  ====
   * the forms of trees --- [[books:sb:10:9:23|SB 10.9.23]]

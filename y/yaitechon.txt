@@ -1,5 +1,11 @@
-~~Title:yāitechoṅ~~
-{{description>am returning.}}
+---json
+{
+    "name":"yāitechoṅ",
+    "h1":"yāitechoṅ",
+    "title":"yāitechoṅ",
+    "description":"am returning."
+}
+---
 
 ==== yāitechoṅ  ====
   * am returning --- [[books:cc:adi:17:127|Ādi 17.127]]

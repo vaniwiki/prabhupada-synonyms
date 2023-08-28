@@ -1,5 +1,11 @@
-~~Title:asubhiḥ~~
-{{description>by the life; by the life breath; by their lives; life; subsisting; the life airs; with his own life; with senses.}}
+---json
+{
+    "name":"asubhiḥ",
+    "h1":"asubhiḥ",
+    "title":"asubhiḥ",
+    "description":"by the life; by the life breath; by their lives; life; subsisting; the life airs; with his own life; with senses."
+}
+---
 
 ==== asubhiḥ  ====
   * by the life --- [[books:sb:2:7:25|SB 2.7.25]]

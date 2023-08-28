@@ -1,5 +1,11 @@
-~~Title:yatneha~~
-{{description>by great endeavor.}}
+---json
+{
+    "name":"yatneha",
+    "h1":"yatneha",
+    "title":"yatneha",
+    "description":"by great endeavor."
+}
+---
 
 ==== yatneha  ====
   * by great endeavor --- [[books:cc:madhya:2:80|Madhya 2.80]]

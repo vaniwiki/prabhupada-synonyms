@@ -1,5 +1,11 @@
-~~Title:ujjhitāḥ~~
-{{description>freed.}}
+---json
+{
+    "name":"ujjhitāḥ",
+    "h1":"ujjhitāḥ",
+    "title":"ujjhitāḥ",
+    "description":"freed."
+}
+---
 
 ==== ujjhitāḥ  ====
   * freed --- [[books:sb:3:17:1|SB 3.17.1]]

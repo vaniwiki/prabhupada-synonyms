@@ -1,5 +1,11 @@
-~~Title:rodane~~
-{{description>crying; in crying.}}
+---json
+{
+    "name":"rodane",
+    "h1":"rodane",
+    "title":"rodane",
+    "description":"crying; in crying."
+}
+---
 
 ==== rodane  ====
   * crying --- [[books:cc:madhya:17:207|Madhya 17.207]]

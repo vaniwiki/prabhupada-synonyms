@@ -1,5 +1,11 @@
-~~Title:santarpaṇa~~
-{{description>attention; taking care.}}
+---json
+{
+    "name":"santarpaṇa",
+    "h1":"santarpaṇa",
+    "title":"santarpaṇa",
+    "description":"attention; taking care."
+}
+---
 
 ==== santarpaṇa  ====
   * attention --- [[books:cc:antya:6:207|Antya 6.207]]

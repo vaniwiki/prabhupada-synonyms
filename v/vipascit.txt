@@ -1,5 +1,11 @@
-~~Title:vipaścit~~
-{{description>a learned scholar; even one advanced in knowledge; the most experienced, learned.}}
+---json
+{
+    "name":"vipaścit",
+    "h1":"vipaścit",
+    "title":"vipaścit",
+    "description":"a learned scholar; even one advanced in knowledge; the most experienced, learned."
+}
+---
 
 ==== vipaścit  ====
   * a learned scholar --- [[books:sb:5:5:17|SB 5.5.17]]

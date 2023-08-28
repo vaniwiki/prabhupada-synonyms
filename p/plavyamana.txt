@@ -1,5 +1,11 @@
-~~Title:plāvyamānā~~
-{{description>being inundated.}}
+---json
+{
+    "name":"plāvyamānā",
+    "h1":"plāvyamānā",
+    "title":"plāvyamānā",
+    "description":"being inundated."
+}
+---
 
 ==== plāvyamānā  ====
   * being inundated --- [[books:sb:3:13:17|SB 3.13.17]]

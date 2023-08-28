@@ -1,5 +1,11 @@
-~~Title:kṣemataram~~
-{{description>better.}}
+---json
+{
+    "name":"kṣemataram",
+    "h1":"kṣemataram",
+    "title":"kṣemataram",
+    "description":"better."
+}
+---
 
 ==== kṣemataram  ====
   * better --- [[books:bg:1:45|Bg. 1.45]]

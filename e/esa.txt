@@ -1,5 +1,11 @@
-~~Title:eṣā~~
-{{description>all of this; all these; all this; Devahūti; like this; she; they; this; this time; this woman.}}
+---json
+{
+    "name":"eṣā",
+    "h1":"eṣā",
+    "title":"eṣā",
+    "description":"all of this; all these; all this; Devahūti; like this; she; they; this; this time; this woman."
+}
+---
 
 ==== eṣā  ====
   * all of this --- [[books:sb:9:10:28|SB 9.10.28]]

@@ -1,5 +1,11 @@
-~~Title:sṛjasi~~
-{{description>create; you are creating; You create.}}
+---json
+{
+    "name":"sṛjasi",
+    "h1":"sṛjasi",
+    "title":"sṛjasi",
+    "description":"create; you are creating; You create."
+}
+---
 
 ==== sṛjasi  ====
   * create --- [[books:sb:4:6:43|SB 4.6.43]]

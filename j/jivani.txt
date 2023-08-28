@@ -1,5 +1,11 @@
-~~Title:jīvanī~~
-{{description>has become the life.}}
+---json
+{
+    "name":"jīvanī",
+    "h1":"jīvanī",
+    "title":"jīvanī",
+    "description":"has become the life."
+}
+---
 
 ==== jīvanī-bhūta  ====
   * has become the life --- [[books:cc:madhya:23:95-98|Madhya 23.95-98]]

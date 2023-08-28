@@ -1,5 +1,11 @@
-~~Title:pañcālāḥ~~
-{{description>the kingdom named Pañcāla.}}
+---json
+{
+    "name":"pañcālāḥ",
+    "h1":"pañcālāḥ",
+    "title":"pañcālāḥ",
+    "description":"the kingdom named Pañcāla."
+}
+---
 
 ==== pañcālāḥ  ====
   * the kingdom named Pañcāla --- [[books:sb:4:29:7|SB 4.29.7]]

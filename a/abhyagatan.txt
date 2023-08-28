@@ -1,5 +1,11 @@
-~~Title:abhyāgatān~~
-{{description>guests; visitors.}}
+---json
+{
+    "name":"abhyāgatān",
+    "h1":"abhyāgatān",
+    "title":"abhyāgatān",
+    "description":"guests; visitors."
+}
+---
 
 ==== abhyāgatān  ====
   * guests --- [[books:sb:4:3:18|SB 4.3.18]]

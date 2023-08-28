@@ -1,5 +1,11 @@
-~~Title:karayoḥ~~
-{{description>of the two hands (to relieve the itching); on their two hands.}}
+---json
+{
+    "name":"karayoḥ",
+    "h1":"karayoḥ",
+    "title":"karayoḥ",
+    "description":"of the two hands (to relieve the itching); on their two hands."
+}
+---
 
 ==== karayoḥ  ====
   * of the two hands (to relieve the itching) --- [[books:sb:7:9:45|SB 7.9.45]]

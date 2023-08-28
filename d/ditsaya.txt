@@ -1,5 +1,11 @@
-~~Title:ditsayā~~
-{{description>wishing to fulfill the desire.}}
+---json
+{
+    "name":"ditsayā",
+    "h1":"ditsayā",
+    "title":"ditsayā",
+    "description":"wishing to fulfill the desire."
+}
+---
 
 ==== kāma-ditsayā  ====
   * wishing to fulfill the desire --- [[books:sb:10:3:37-38|SB 10.3.37-38]]

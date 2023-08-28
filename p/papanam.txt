@@ -1,5 +1,11 @@
-~~Title:pāpānām~~
-{{description>of sinful activities.}}
+---json
+{
+    "name":"pāpānām",
+    "h1":"pāpānām",
+    "title":"pāpānām",
+    "description":"of sinful activities."
+}
+---
 
 ==== pāpānām  ====
   * of sinful activities --- [[books:sb:6:2:16|SB 6.2.16]]

@@ -1,5 +1,11 @@
-~~Title:daśamaḥ~~
-{{description>the tenth; the tenth Manu; the tenth one.}}
+---json
+{
+    "name":"daśamaḥ",
+    "h1":"daśamaḥ",
+    "title":"daśamaḥ",
+    "description":"the tenth; the tenth Manu; the tenth one."
+}
+---
 
 ==== daśamaḥ  ====
   * the tenth --- [[books:sb:3:12:22|SB 3.12.22]], [[books:sb:3:26:13|SB 3.26.13]]

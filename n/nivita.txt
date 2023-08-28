@@ -1,5 +1,11 @@
-~~Title:nivīta~~
-{{description>whose body was adorned from the neck down to the feet.}}
+---json
+{
+    "name":"nivīta",
+    "h1":"nivīta",
+    "title":"nivīta",
+    "description":"whose body was adorned from the neck down to the feet."
+}
+---
 
 ==== nivīta-aṅgaḥ  ====
   * whose body was adorned from the neck down to the feet --- [[books:sb:6:4:35-39|SB 6.4.35-39]]

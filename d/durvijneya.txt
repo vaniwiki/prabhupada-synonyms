@@ -1,5 +1,11 @@
-~~Title:durvijñeya~~
-{{description>inconceivable.}}
+---json
+{
+    "name":"durvijñeya",
+    "h1":"durvijñeya",
+    "title":"durvijñeya",
+    "description":"inconceivable."
+}
+---
 
 ==== durvijñeya  ====
   * inconceivable --- [[books:cc:adi:17:109|Ādi 17.109]]

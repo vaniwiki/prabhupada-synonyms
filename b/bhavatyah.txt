@@ -1,5 +1,11 @@
-~~Title:bhavatyāḥ~~
-{{description>by you; for you; in your company; of you; your.}}
+---json
+{
+    "name":"bhavatyāḥ",
+    "h1":"bhavatyāḥ",
+    "title":"bhavatyāḥ",
+    "description":"by you; for you; in your company; of you; your."
+}
+---
 
 ==== bhavatyāḥ  ====
   * by you --- [[books:sb:9:20:11|SB 9.20.11]]

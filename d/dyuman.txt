@@ -1,5 +1,11 @@
-~~Title:dyuman~~
-{{description>O Lord, who appear exactly like the sun, illuminating the darkness of this world of ignorance.}}
+---json
+{
+    "name":"dyuman",
+    "h1":"dyuman",
+    "title":"dyuman",
+    "description":"O Lord, who appear exactly like the sun, illuminating the darkness of this world of ignorance."
+}
+---
 
 ==== dyuman  ====
   * O Lord, who appear exactly like the sun, illuminating the darkness of this world of ignorance --- [[books:sb:10:2:31|SB 10.2.31]]

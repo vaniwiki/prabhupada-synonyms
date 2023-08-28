@@ -1,5 +1,11 @@
-~~Title:sādhakam~~
-{{description>bringing about; who can render.}}
+---json
+{
+    "name":"sādhakam",
+    "h1":"sādhakam",
+    "title":"sādhakam",
+    "description":"bringing about; who can render."
+}
+---
 
 ==== sādhakam  ====
   * bringing about --- [[books:cc:madhya:21:1|Madhya 21.1]]

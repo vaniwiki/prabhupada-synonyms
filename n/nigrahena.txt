@@ -1,5 +1,11 @@
-~~Title:nigraheṇa~~
-{{description>by killing one disturbing demon.}}
+---json
+{
+    "name":"nigraheṇa",
+    "h1":"nigraheṇa",
+    "title":"nigraheṇa",
+    "description":"by killing one disturbing demon."
+}
+---
 
 ==== khala-nigraheṇa  ====
   * by killing one disturbing demon --- [[books:sb:6:13:8-9|SB 6.13.8-9]]

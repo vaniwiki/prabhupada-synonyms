@@ -1,5 +1,11 @@
-~~Title:arcirbhiḥ~~
-{{description>by lamps; by the effulgence; with many flames.}}
+---json
+{
+    "name":"arcirbhiḥ",
+    "h1":"arcirbhiḥ",
+    "title":"arcirbhiḥ",
+    "description":"by lamps; by the effulgence; with many flames."
+}
+---
 
 ==== arcirbhiḥ  ====
   * by lamps --- [[books:sb:4:21:2|SB 4.21.2]]

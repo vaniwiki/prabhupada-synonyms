@@ -1,5 +1,11 @@
-~~Title:vidurasya~~
-{{description>of Vidura.}}
+---json
+{
+    "name":"vidurasya",
+    "h1":"vidurasya",
+    "title":"vidurasya",
+    "description":"of Vidura."
+}
+---
 
 ==== vidurasya  ====
   * of Vidura --- [[books:sb:2:10:49-50|SB 2.10.49-50]], [[books:sb:3:1:4|SB 3.1.4]]

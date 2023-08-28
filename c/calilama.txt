@@ -1,5 +1,11 @@
-~~Title:calilāma~~
-{{description>I started.}}
+---json
+{
+    "name":"calilāma",
+    "h1":"calilāma",
+    "title":"calilāma",
+    "description":"I started."
+}
+---
 
 ==== calilāma  ====
   * I started --- [[books:cc:madhya:3:174|Madhya 3.174]]

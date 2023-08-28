@@ -1,5 +1,11 @@
-~~Title:ajaniṣṭa~~
-{{description>gave birth to; took birth; was born.}}
+---json
+{
+    "name":"ajaniṣṭa",
+    "h1":"ajaniṣṭa",
+    "title":"ajaniṣṭa",
+    "description":"gave birth to; took birth; was born."
+}
+---
 
 ==== ajaniṣṭa  ====
   * gave birth to --- [[books:sb:9:24:39|SB 9.24.39]]

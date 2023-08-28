@@ -1,5 +1,11 @@
-~~Title:bolāiba~~
-{{description>I shall call.}}
+---json
+{
+    "name":"bolāiba",
+    "h1":"bolāiba",
+    "title":"bolāiba",
+    "description":"I shall call."
+}
+---
 
 ==== bolāiba  ====
   * I shall call --- [[books:cc:madhya:5:85|Madhya 5.85]]

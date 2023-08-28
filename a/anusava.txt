@@ -1,5 +1,11 @@
-~~Title:anusava~~
-{{description>constantly new.}}
+---json
+{
+    "name":"anusava",
+    "h1":"anusava",
+    "title":"anusava",
+    "description":"constantly new."
+}
+---
 
 ==== anusava-abhinavam  ====
   * constantly new --- [[books:cc:adi:4:156|Ādi 4.156]], [[books:cc:madhya:21:112|Madhya 21.112]]

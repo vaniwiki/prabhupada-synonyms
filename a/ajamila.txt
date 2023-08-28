@@ -1,5 +1,11 @@
-~~Title:ajāmila~~
-{{description>Ajāmila.}}
+---json
+{
+    "name":"ajāmila",
+    "h1":"ajāmila",
+    "title":"ajāmila",
+    "description":"Ajāmila."
+}
+---
 
 ==== ajāmila  ====
   * Ajāmila --- [[books:cc:antya:3:57|Antya 3.57]], [[books:cc:antya:3:65|Antya 3.65]]

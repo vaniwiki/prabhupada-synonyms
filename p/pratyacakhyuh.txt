@@ -1,5 +1,11 @@
-~~Title:pratyācakhyuḥ~~
-{{description>refused to accept.}}
+---json
+{
+    "name":"pratyācakhyuḥ",
+    "h1":"pratyācakhyuḥ",
+    "title":"pratyācakhyuḥ",
+    "description":"refused to accept."
+}
+---
 
 ==== pratyācakhyuḥ  ====
   * refused to accept --- [[books:sb:9:18:41|SB 9.18.41]]

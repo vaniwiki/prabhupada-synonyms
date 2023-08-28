@@ -1,5 +1,11 @@
-~~Title:sakrodha~~
-{{description>angry.}}
+---json
+{
+    "name":"sakrodha",
+    "h1":"sakrodha",
+    "title":"sakrodha",
+    "description":"angry."
+}
+---
 
 ==== sakrodha  ====
   * angry --- [[books:cc:adi:14:57|Ādi 14.57]]

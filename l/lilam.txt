@@ -1,5 +1,11 @@
-~~Title:līlām~~
-{{description>pastimes (such as walking and talking to his father); sport.}}
+---json
+{
+    "name":"līlām",
+    "h1":"līlām",
+    "title":"līlām",
+    "description":"pastimes (such as walking and talking to his father); sport."
+}
+---
 
 ==== līlām  ====
   * pastimes (such as walking and talking to his father) --- [[books:sb:6:1:25|SB 6.1.25]]

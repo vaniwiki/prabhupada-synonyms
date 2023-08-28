@@ -1,5 +1,11 @@
-~~Title:krpanam~~
-{{description>helpless; poor; to he who was poor-hearted.}}
+---json
+{
+    "name":"krpanam",
+    "h1":"krpanam",
+    "title":"krpanam",
+    "description":"helpless; poor; to he who was poor-hearted."
+}
+---
 
 ==== kṛpaṇam  ====
   * helpless --- [[books:sb:5:8:7|SB 5.8.7]]

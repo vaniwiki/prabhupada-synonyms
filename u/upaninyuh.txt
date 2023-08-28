@@ -1,5 +1,11 @@
-~~Title:upaninyuḥ~~
-{{description>brought.}}
+---json
+{
+    "name":"upaninyuḥ",
+    "h1":"upaninyuḥ",
+    "title":"upaninyuḥ",
+    "description":"brought."
+}
+---
 
 ==== upaninyuḥ  ====
   * brought --- [[books:sb:5:9:14|SB 5.9.14]]

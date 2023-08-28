@@ -1,5 +1,11 @@
-~~Title:takra~~
-{{description>buttermilk.}}
+---json
+{
+    "name":"takra",
+    "h1":"takra",
+    "title":"takra",
+    "description":"buttermilk."
+}
+---
 
 ==== takra  ====
   * buttermilk --- [[books:cc:madhya:14:33|Madhya 14.33]]

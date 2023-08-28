@@ -1,5 +1,11 @@
-~~Title:dekhaha~~
-{{description>just see; just try to see.}}
+---json
+{
+    "name":"dekhaha",
+    "h1":"dekhaha",
+    "title":"dekhaha",
+    "description":"just see; just try to see."
+}
+---
 
 ==== dekhaha  ====
   * just see --- [[books:cc:adi:3:85|Ādi 3.85]]

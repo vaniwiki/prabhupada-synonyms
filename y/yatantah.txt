@@ -1,5 +1,11 @@
-~~Title:yatantaḥ~~
-{{description>although endeavoring; endeavoring.}}
+---json
+{
+    "name":"yatantaḥ",
+    "h1":"yatantaḥ",
+    "title":"yatantaḥ",
+    "description":"although endeavoring; endeavoring."
+}
+---
 
 ==== yatantaḥ  ====
   * although endeavoring --- [[books:bg:15:11|Bg. 15.11]]

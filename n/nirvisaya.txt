@@ -1,5 +1,11 @@
-~~Title:nirviṣaya~~
-{{description>free from all material attachment.}}
+---json
+{
+    "name":"nirviṣaya",
+    "h1":"nirviṣaya",
+    "title":"nirviṣaya",
+    "description":"free from all material attachment."
+}
+---
 
 ==== nirviṣaya  ====
   * free from all material attachment --- [[books:cc:antya:9:138|Antya 9.138]]

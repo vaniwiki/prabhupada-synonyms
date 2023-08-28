@@ -1,5 +1,11 @@
-~~Title:phale~~
-{{description>as a result of; brings results; by the result; by the result of; fruit grew; fruits; grew fruits; grows; in the result; produces.}}
+---json
+{
+    "name":"phale",
+    "h1":"phale",
+    "title":"phale",
+    "description":"as a result of; brings results; by the result; by the result of; fruit grew; fruits; grew fruits; grows; in the result; produces."
+}
+---
 
 ==== phale  ====
   * as a result of --- [[books:cc:adi:8:28|Ādi 8.28]]

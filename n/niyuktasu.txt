@@ -1,5 +1,11 @@
-~~Title:niyuktāsu~~
-{{description>being engaged.}}
+---json
+{
+    "name":"niyuktāsu",
+    "h1":"niyuktāsu",
+    "title":"niyuktāsu",
+    "description":"being engaged."
+}
+---
 
 ==== niyuktāsu  ====
   * being engaged --- [[books:sb:10:9:1-2|SB 10.9.1-2]]

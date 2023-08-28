@@ -1,5 +1,11 @@
-~~Title:anṛtaḥ~~
-{{description>the temporary body.}}
+---json
+{
+    "name":"anṛtaḥ",
+    "h1":"anṛtaḥ",
+    "title":"anṛtaḥ",
+    "description":"the temporary body."
+}
+---
 
 ==== anṛtaḥ  ====
   * the temporary body --- [[books:sb:8:19:40|SB 8.19.40]]

@@ -1,5 +1,11 @@
-~~Title:vāsāya~~
-{{description>to His residence; to the place.}}
+---json
+{
+    "name":"vāsāya",
+    "h1":"vāsāya",
+    "title":"vāsāya",
+    "description":"to His residence; to the place."
+}
+---
 
 ==== vāsāya  ====
   * to His residence --- [[books:cc:antya:12:26|Antya 12.26]]

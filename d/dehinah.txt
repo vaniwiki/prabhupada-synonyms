@@ -1,5 +1,11 @@
-~~Title:dehinaḥ~~
-{{description>for the embodied; of an embodied soul; of the embodied; of the embodied souls; of the father possessing a material body; of the living entity; of the person in danger of death; the living entities who have accepted material bodies; to other living entities.}}
+---json
+{
+    "name":"dehinaḥ",
+    "h1":"dehinaḥ",
+    "title":"dehinaḥ",
+    "description":"for the embodied; of an embodied soul; of the embodied; of the embodied souls; of the father possessing a material body; of the living entity; of the person in danger of death; the living entities who have accepted material bodies; to other living entities."
+}
+---
 
 ==== dehinaḥ  ====
   * for the embodied --- [[books:bg:2:59|Bg. 2.59]]

@@ -1,5 +1,11 @@
-~~Title:arbhake~~
-{{description>small child; unto a boy.}}
+---json
+{
+    "name":"arbhake",
+    "h1":"arbhake",
+    "title":"arbhake",
+    "description":"small child; unto a boy."
+}
+---
 
 ==== arbhake  ====
   * small child --- [[books:sb:6:1:25|SB 6.1.25]]

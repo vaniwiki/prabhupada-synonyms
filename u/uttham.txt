@@ -1,5 +1,11 @@
-~~Title:uttham~~
-{{description>produced of.}}
+---json
+{
+    "name":"uttham",
+    "h1":"uttham",
+    "title":"uttham",
+    "description":"produced of."
+}
+---
 
 ==== uttham  ====
   * produced of --- [[books:bg:18:39|Bg. 18.39]]

@@ -1,5 +1,11 @@
-~~Title:bilva~~
-{{description>bel fruit; O belfruit tree.}}
+---json
+{
+    "name":"bilva",
+    "h1":"bilva",
+    "title":"bilva",
+    "description":"bel fruit; O belfruit tree."
+}
+---
 
 ==== bilva  ====
   * bel fruit --- [[books:cc:antya:18:105|Antya 18.105]]

@@ -1,5 +1,11 @@
-~~Title:pañcavaṭī~~
-{{description>then coming to Pañcavaṭī.}}
+---json
+{
+    "name":"pañcavaṭī",
+    "h1":"pañcavaṭī",
+    "title":"pañcavaṭī",
+    "description":"then coming to Pañcavaṭī."
+}
+---
 
 ==== pañcavaṭī āsi  ====
   * then coming to Pañcavaṭī --- [[books:cc:madhya:9:316|Madhya 9.316]]

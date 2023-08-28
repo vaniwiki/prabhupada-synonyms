@@ -1,5 +1,11 @@
-~~Title:phalatvena~~
-{{description>by the result of.}}
+---json
+{
+    "name":"phalatvena",
+    "h1":"phalatvena",
+    "title":"phalatvena",
+    "description":"by the result of."
+}
+---
 
 ==== phalatvena  ====
   * by the result of --- [[books:sb:4:21:35|SB 4.21.35]]

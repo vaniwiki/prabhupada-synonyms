@@ -1,5 +1,11 @@
-~~Title:adṛḍha~~
-{{description>unsound.}}
+---json
+{
+    "name":"adṛḍha",
+    "h1":"adṛḍha",
+    "title":"adṛḍha",
+    "description":"unsound."
+}
+---
 
 ==== adṛḍha  ====
   * unsound --- [[books:cc:adi:17:171|Ādi 17.171]]

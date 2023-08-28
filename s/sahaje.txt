@@ -1,5 +1,11 @@
-~~Title:sahaje~~
-{{description>by nature; generally; naturally.}}
+---json
+{
+    "name":"sahaje",
+    "h1":"sahaje",
+    "title":"sahaje",
+    "description":"by nature; generally; naturally."
+}
+---
 
 ==== sahaje  ====
   * by nature --- [[books:cc:madhya:3:97|Madhya 3.97]], [[books:cc:madhya:15:274|Madhya 15.274]], [[books:cc:antya:4:152|Antya 4.152]], [[books:cc:antya:6:49|Antya 6.49]]

@@ -1,5 +1,11 @@
-~~Title:kṣamāvat~~
-{{description>possessed of forgiveness.}}
+---json
+{
+    "name":"kṣamāvat",
+    "h1":"kṣamāvat",
+    "title":"kṣamāvat",
+    "description":"possessed of forgiveness."
+}
+---
 
 ==== kṣamāvat  ====
   * possessed of forgiveness --- [[books:sb:2:6:43-45|SB 2.6.43-45]]

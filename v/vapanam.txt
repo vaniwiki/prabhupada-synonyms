@@ -1,5 +1,11 @@
-~~Title:vapanam~~
-{{description>cleaving the hairs from the head.}}
+---json
+{
+    "name":"vapanam",
+    "h1":"vapanam",
+    "title":"vapanam",
+    "description":"cleaving the hairs from the head."
+}
+---
 
 ==== vapanam  ====
   * cleaving the hairs from the head --- [[books:sb:1:7:57|SB 1.7.57]]

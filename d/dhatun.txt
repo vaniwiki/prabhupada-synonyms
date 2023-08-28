@@ -1,5 +1,11 @@
-~~Title:dhātūn~~
-{{description>minerals.}}
+---json
+{
+    "name":"dhātūn",
+    "h1":"dhātūn",
+    "title":"dhātūn",
+    "description":"minerals."
+}
+---
 
 ==== dhātūn  ====
   * minerals --- [[books:sb:4:18:25|SB 4.18.25]]

@@ -1,5 +1,11 @@
-~~Title:mahanti~~
-{{description>invulnerable; the universal.}}
+---json
+{
+    "name":"mahanti",
+    "h1":"mahanti",
+    "title":"mahanti",
+    "description":"invulnerable; the universal."
+}
+---
 
 ==== mahānti  ====
   * invulnerable --- [[books:sb:1:19:34|SB 1.19.34]]

@@ -1,5 +1,11 @@
-~~Title:apacaya~~
-{{description>any discrepancy; lost.}}
+---json
+{
+    "name":"apacaya",
+    "h1":"apacaya",
+    "title":"apacaya",
+    "description":"any discrepancy; lost."
+}
+---
 
 ==== apacaya  ====
   * any discrepancy --- [[books:cc:madhya:12:190|Madhya 12.190]]

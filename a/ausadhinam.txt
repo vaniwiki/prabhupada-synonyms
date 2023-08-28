@@ -1,5 +1,11 @@
-~~Title:auṣadhīnām~~
-{{description>among bushes, creepers and herbs.}}
+---json
+{
+    "name":"auṣadhīnām",
+    "h1":"auṣadhīnām",
+    "title":"auṣadhīnām",
+    "description":"among bushes, creepers and herbs."
+}
+---
 
 ==== gulma-latā-auṣadhīnām  ====
   * among bushes, creepers and herbs --- [[books:cc:antya:7:47|Antya 7.47]]

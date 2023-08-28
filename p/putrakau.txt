@@ -1,5 +1,11 @@
-~~Title:putrakau~~
-{{description>the two sons (Kṛṣṇa and Balarāma).}}
+---json
+{
+    "name":"putrakau",
+    "h1":"putrakau",
+    "title":"putrakau",
+    "description":"the two sons (Kṛṣṇa and Balarāma)."
+}
+---
 
 ==== putrakau  ====
   * the two sons (Kṛṣṇa and Balarāma) --- [[books:sb:10:11:13|SB 10.11.13]]

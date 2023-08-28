@@ -1,5 +1,11 @@
-~~Title:ileo~~
-{{description>in spite of his being.}}
+---json
+{
+    "name":"ileo",
+    "h1":"ileo",
+    "title":"ileo",
+    "description":"in spite of his being."
+}
+---
 
 ==== ha-ileo  ====
   * in spite of his being --- [[books:cc:adi:8:12|Ādi 8.12]]

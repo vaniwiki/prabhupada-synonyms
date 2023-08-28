@@ -1,5 +1,11 @@
-~~Title:padila~~
-{{description>fell down.}}
+---json
+{
+    "name":"padila",
+    "h1":"padila",
+    "title":"padila",
+    "description":"fell down."
+}
+---
 
 ==== padila  ====
   * fell down --- [[books:cc:madhya:9:37|Madhya 9.37]]

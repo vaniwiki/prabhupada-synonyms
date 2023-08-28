@@ -1,5 +1,11 @@
-~~Title:yakaiḥ~~
-{{description>with sacred belts around the waist and with rings on the fingers.}}
+---json
+{
+    "name":"yakaiḥ",
+    "h1":"yakaiḥ",
+    "title":"yakaiḥ",
+    "description":"with sacred belts around the waist and with rings on the fingers."
+}
+---
 
 ==== kaṭi-sūtra-aṅgulī-yakaiḥ  ====
   * with sacred belts around the waist and with rings on the fingers --- [[books:sb:10:13:47-48|SB 10.13.47-48]]

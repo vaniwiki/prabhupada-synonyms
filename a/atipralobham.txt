@@ -1,5 +1,11 @@
-~~Title:atipralobham~~
-{{description>very attractive.}}
+---json
+{
+    "name":"atipralobham",
+    "h1":"atipralobham",
+    "title":"atipralobham",
+    "description":"very attractive."
+}
+---
 
 ==== atipralobham  ====
   * very attractive --- [[books:sb:2:7:37|SB 2.7.37]]

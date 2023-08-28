@@ -1,5 +1,11 @@
-~~Title:bhāṇḍārera~~
-{{description>the store of transcendental love.}}
+---json
+{
+    "name":"bhāṇḍārera",
+    "h1":"bhāṇḍārera",
+    "title":"bhāṇḍārera",
+    "description":"the store of transcendental love."
+}
+---
 
 ==== prema-bhāṇḍārera  ====
   * the store of transcendental love --- [[books:cc:adi:7:20-21|Ādi 7.20-21]]

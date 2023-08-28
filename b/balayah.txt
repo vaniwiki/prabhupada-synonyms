@@ -1,5 +1,11 @@
-~~Title:balayah~~
-{{description>presentations.}}
+---json
+{
+    "name":"balayah",
+    "h1":"balayah",
+    "title":"balayah",
+    "description":"presentations."
+}
+---
 
 ==== balayaḥ  ====
   * presentations --- [[books:sb:1:11:4-5|SB 1.11.4-5]]

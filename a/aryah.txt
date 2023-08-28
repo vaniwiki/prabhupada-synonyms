@@ -1,5 +1,11 @@
-~~Title:aryah~~
-{{description>respectable.}}
+---json
+{
+    "name":"aryah",
+    "h1":"aryah",
+    "title":"aryah",
+    "description":"respectable."
+}
+---
 
 ==== āryaḥ  ====
   * respectable --- [[books:sb:1:15:9|SB 1.15.9]]

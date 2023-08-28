@@ -1,5 +1,11 @@
-~~Title:prabhavaih~~
-{{description>born of.}}
+---json
+{
+    "name":"prabhavaih",
+    "h1":"prabhavaih",
+    "title":"prabhavaih",
+    "description":"born of."
+}
+---
 
 ==== prabhavaiḥ  ====
   * born of --- [[books:bg:18:41|Bg. 18.41]]

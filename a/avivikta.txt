@@ -1,5 +1,11 @@
-~~Title:avivikta~~
-{{description>not understanding.}}
+---json
+{
+    "name":"avivikta",
+    "h1":"avivikta",
+    "title":"avivikta",
+    "description":"not understanding."
+}
+---
 
 ==== avivikta  ====
   * not understanding --- [[books:sb:5:26:17|SB 5.26.17]]

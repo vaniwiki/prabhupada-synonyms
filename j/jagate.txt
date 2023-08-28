@@ -1,5 +1,11 @@
-~~Title:jagate~~
-{{description>all over the world; for the world; in the material world; in the universe; in the world; in this world; the material world; throughout the entire world; throughout the whole world; within the material world; within the three worlds; within this universe; within this world.}}
+---json
+{
+    "name":"jagate",
+    "h1":"jagate",
+    "title":"jagate",
+    "description":"all over the world; for the world; in the material world; in the universe; in the world; in this world; the material world; throughout the entire world; throughout the whole world; within the material world; within the three worlds; within this universe; within this world."
+}
+---
 
 ==== jagate  ====
   * all over the world --- [[books:cc:antya:7:50-52|Antya 7.50-52]]

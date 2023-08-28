@@ -1,5 +1,11 @@
-~~Title:sanda~~
-{{description>group; trees.}}
+---json
+{
+    "name":"sanda",
+    "h1":"sanda",
+    "title":"sanda",
+    "description":"group; trees."
+}
+---
 
 ==== ṣaṇḍa  ====
   * group --- [[books:sb:3:15:41|SB 3.15.41]]

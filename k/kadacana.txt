@@ -1,5 +1,11 @@
-~~Title:kadācana~~
-{{description>at any time.}}
+---json
+{
+    "name":"kadācana",
+    "h1":"kadācana",
+    "title":"kadācana",
+    "description":"at any time."
+}
+---
 
 ==== kadācana  ====
   * at any time --- [[books:bg:2:47|Bg. 2.47]], [[books:bg:18:67|Bg. 18.67]], [[books:sb:7:11:18-20|SB 7.11.18-20]]

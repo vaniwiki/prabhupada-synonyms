@@ -1,5 +1,11 @@
-~~Title:śibirāt~~
-{{description>from the camp.}}
+---json
+{
+    "name":"śibirāt",
+    "h1":"śibirāt",
+    "title":"śibirāt",
+    "description":"from the camp."
+}
+---
 
 ==== śibirāt  ====
   * from the camp --- [[books:sb:1:7:56|SB 1.7.56]]

@@ -1,5 +1,11 @@
-~~Title:kampante~~
-{{description>tremble.}}
+---json
+{
+    "name":"kampante",
+    "h1":"kampante",
+    "title":"kampante",
+    "description":"tremble."
+}
+---
 
 ==== kampante  ====
   * tremble --- [[books:sb:7:8:6|SB 7.8.6]]

@@ -1,5 +1,11 @@
-~~Title:vitarāmi~~
-{{description>I am giving; I shall deliver.}}
+---json
+{
+    "name":"vitarāmi",
+    "h1":"vitarāmi",
+    "title":"vitarāmi",
+    "description":"I am giving; I shall deliver."
+}
+---
 
 ==== vitarāmi  ====
   * I am giving --- [[books:sb:3:23:7|SB 3.23.7]]

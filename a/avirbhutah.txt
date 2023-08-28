@@ -1,5 +1,11 @@
-~~Title:āvirbhūtaḥ~~
-{{description>who has appeared.}}
+---json
+{
+    "name":"āvirbhūtaḥ",
+    "h1":"āvirbhūtaḥ",
+    "title":"āvirbhūtaḥ",
+    "description":"who has appeared."
+}
+---
 
 ==== āvirbhūtaḥ  ====
   * who has appeared --- [[books:cc:madhya:6:255|Madhya 6.255]]

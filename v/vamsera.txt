@@ -1,5 +1,11 @@
-~~Title:vaṁśera~~
-{{description>in the hands of the descendants.}}
+---json
+{
+    "name":"vaṁśera",
+    "h1":"vaṁśera",
+    "title":"vaṁśera",
+    "description":"in the hands of the descendants."
+}
+---
 
 ==== vaṁśera hāta  ====
   * in the hands of the descendants --- [[books:cc:madhya:15:100|Madhya 15.100]]

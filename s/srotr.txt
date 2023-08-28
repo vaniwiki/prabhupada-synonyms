@@ -1,5 +1,11 @@
-~~Title:śrotṛ~~
-{{description>the readers of this book.}}
+---json
+{
+    "name":"śrotṛ",
+    "h1":"śrotṛ",
+    "title":"śrotṛ",
+    "description":"the readers of this book."
+}
+---
 
 ==== śrī-śrotṛ-vṛnda  ====
   * the readers of this book --- [[books:cc:antya:20:96-98|Antya 20.96-98]]

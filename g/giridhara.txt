@@ -1,5 +1,11 @@
-~~Title:giridhara~~
-{{description>the lotus feet of Lord Giridhari.}}
+---json
+{
+    "name":"giridhara",
+    "h1":"giridhara",
+    "title":"giridhara",
+    "description":"the lotus feet of Lord Giridhari."
+}
+---
 
 ==== giridhara-caraṇa-ambhojam  ====
   * the lotus feet of Lord Giridhari --- [[books:cc:antya:20:156|Antya 20.156]]

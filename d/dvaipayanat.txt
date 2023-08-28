@@ -1,5 +1,11 @@
-~~Title:dvaipāyanāt~~
-{{description>Dvaipāyana Vyāsadeva; from Vyāsadeva.}}
+---json
+{
+    "name":"dvaipāyanāt",
+    "h1":"dvaipāyanāt",
+    "title":"dvaipāyanāt",
+    "description":"Dvaipāyana Vyāsadeva; from Vyāsadeva."
+}
+---
 
 ==== dvaipāyanāt  ====
   * Dvaipāyana Vyāsadeva --- [[books:sb:2:1:8|SB 2.1.8]]

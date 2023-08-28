@@ -1,5 +1,11 @@
-~~Title:tanayaiḥ~~
-{{description>by your own sons.}}
+---json
+{
+    "name":"tanayaiḥ",
+    "h1":"tanayaiḥ",
+    "title":"tanayaiḥ",
+    "description":"by your own sons."
+}
+---
 
 ==== sva-tanayaiḥ  ====
   * by your own sons --- [[books:sb:8:17:14|SB 8.17.14]]

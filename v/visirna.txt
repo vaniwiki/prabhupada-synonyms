@@ -1,5 +1,11 @@
-~~Title:visirna~~
-{{description>bifurcating; broken; loosened; scattered here and there; scattered, separated.}}
+---json
+{
+    "name":"visirna",
+    "h1":"visirna",
+    "title":"visirna",
+    "description":"bifurcating; broken; loosened; scattered here and there; scattered, separated."
+}
+---
 
 ==== viśīrṇa  ====
   * bifurcating --- [[books:sb:3:13:29|SB 3.13.29]]

@@ -1,5 +1,11 @@
-~~Title:kuṇapa~~
-{{description>of this dead body.}}
+---json
+{
+    "name":"kuṇapa",
+    "h1":"kuṇapa",
+    "title":"kuṇapa",
+    "description":"of this dead body."
+}
+---
 
 ==== kuṇapa  ====
   * of this dead body --- [[books:sb:4:9:9|SB 4.9.9]]

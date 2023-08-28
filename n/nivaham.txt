@@ -1,5 +1,11 @@
-~~Title:nivaham~~
-{{description>multiple miseries.}}
+---json
+{
+    "name":"nivaham",
+    "h1":"nivaham",
+    "title":"nivaham",
+    "description":"multiple miseries."
+}
+---
 
 ==== duḥkha-nivaham  ====
   * multiple miseries --- [[books:sb:3:9:9|SB 3.9.9]]

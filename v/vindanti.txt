@@ -1,5 +1,11 @@
-~~Title:vindanti~~
-{{description>attain; enjoys; know; moves progressively; obtain; suffer; undergo.}}
+---json
+{
+    "name":"vindanti",
+    "h1":"vindanti",
+    "title":"vindanti",
+    "description":"attain; enjoys; know; moves progressively; obtain; suffer; undergo."
+}
+---
 
 ==== vindanti  ====
   * attain --- [[books:sb:2:4:17|SB 2.4.17]]

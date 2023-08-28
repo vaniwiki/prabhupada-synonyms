@@ -1,5 +1,11 @@
-~~Title:anuvraji'~~
-{{description>following; following behind.}}
+---json
+{
+    "name":"anuvraji'",
+    "h1":"anuvraji'",
+    "title":"anuvraji'",
+    "description":"following; following behind."
+}
+---
 
 ==== anuvraji'  ====
   * following --- [[books:cc:antya:16:30|Antya 16.30]]

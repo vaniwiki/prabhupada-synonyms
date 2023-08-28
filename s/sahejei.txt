@@ -1,5 +1,11 @@
-~~Title:sahejei~~
-{{description>naturally.}}
+---json
+{
+    "name":"sahejei",
+    "h1":"sahejei",
+    "title":"sahejei",
+    "description":"naturally."
+}
+---
 
 ==== sahejei  ====
   * naturally --- [[books:cc:antya:13:29|Antya 13.29]]

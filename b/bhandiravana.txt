@@ -1,5 +1,11 @@
-~~Title:bhāṇḍīravana~~
-{{description>Bhāṇḍīravana.}}
+---json
+{
+    "name":"bhāṇḍīravana",
+    "h1":"bhāṇḍīravana",
+    "title":"bhāṇḍīravana",
+    "description":"Bhāṇḍīravana."
+}
+---
 
 ==== bhāṇḍīravana  ====
   * Bhāṇḍīravana --- [[books:cc:madhya:18:66|Madhya 18.66]]

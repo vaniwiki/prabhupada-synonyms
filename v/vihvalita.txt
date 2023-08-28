@@ -1,5 +1,11 @@
-~~Title:vihvalita~~
-{{description>overwhelmed by.}}
+---json
+{
+    "name":"vihvalita",
+    "h1":"vihvalita",
+    "title":"vihvalita",
+    "description":"overwhelmed by."
+}
+---
 
 ==== vihvalita-ātmānaḥ  ====
   * overwhelmed by --- [[books:sb:1:11:29|SB 1.11.29]]

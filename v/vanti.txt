@@ -1,5 +1,11 @@
-~~Title:vānti~~
-{{description>rotate.}}
+---json
+{
+    "name":"vānti",
+    "h1":"vānti",
+    "title":"vānti",
+    "description":"rotate."
+}
+---
 
 ==== vānti  ====
   * rotate --- [[books:cc:madhya:21:15|Madhya 21.15]]

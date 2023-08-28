@@ -1,5 +1,11 @@
-~~Title:utsmayan~~
-{{description>by all those remembrances.}}
+---json
+{
+    "name":"utsmayan",
+    "h1":"utsmayan",
+    "title":"utsmayan",
+    "description":"by all those remembrances."
+}
+---
 
 ==== utsmayan  ====
   * by all those remembrances --- [[books:sb:3:2:6|SB 3.2.6]]

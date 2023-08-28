@@ -1,5 +1,11 @@
-~~Title:manasvini~~
-{{description>O great-minded lady; O most thoughtful lady.}}
+---json
+{
+    "name":"manasvini",
+    "h1":"manasvini",
+    "title":"manasvini",
+    "description":"O great-minded lady; O most thoughtful lady."
+}
+---
 
 ==== manasvini  ====
   * O great-minded lady --- [[books:sb:8:16:10|SB 8.16.10]]

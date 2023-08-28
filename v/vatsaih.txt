@@ -1,5 +1,11 @@
-~~Title:vatsaiḥ~~
-{{description>along with the calves; by the calves.}}
+---json
+{
+    "name":"vatsaiḥ",
+    "h1":"vatsaiḥ",
+    "title":"vatsaiḥ",
+    "description":"along with the calves; by the calves."
+}
+---
 
 ==== vatsaiḥ  ====
   * along with the calves --- [[books:sb:10:12:3|SB 10.12.3]]

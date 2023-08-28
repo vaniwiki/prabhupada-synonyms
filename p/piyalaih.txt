@@ -1,5 +1,11 @@
-~~Title:piyālaiḥ~~
-{{description>piyāla fruits.}}
+---json
+{
+    "name":"piyālaiḥ",
+    "h1":"piyālaiḥ",
+    "title":"piyālaiḥ",
+    "description":"piyāla fruits."
+}
+---
 
 ==== piyālaiḥ  ====
   * //piyāla// fruits --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

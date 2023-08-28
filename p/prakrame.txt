@@ -1,5 +1,11 @@
-~~Title:prakrame~~
-{{description>at the time of departure.}}
+---json
+{
+    "name":"prakrame",
+    "h1":"prakrame",
+    "title":"prakrame",
+    "description":"at the time of departure."
+}
+---
 
 ==== prayāṇa-prakrame  ====
   * at the time of departure --- [[books:sb:10:1:33|SB 10.1.33]]

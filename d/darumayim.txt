@@ -1,5 +1,11 @@
-~~Title:dārumayīm~~
-{{description>made of wood.}}
+---json
+{
+    "name":"dārumayīm",
+    "h1":"dārumayīm",
+    "title":"dārumayīm",
+    "description":"made of wood."
+}
+---
 
 ==== dārumayīm  ====
   * made of wood --- [[books:sb:5:18:26|SB 5.18.26]]

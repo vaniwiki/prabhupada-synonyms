@@ -1,5 +1,11 @@
-~~Title:dhvara~~
-{{description>great sacrifices.}}
+---json
+{
+    "name":"dhvara",
+    "h1":"dhvara",
+    "title":"dhvara",
+    "description":"great sacrifices."
+}
+---
 
 ==== mahā-dhvara  ====
   * great sacrifices --- [[books:sb:5:18:35|SB 5.18.35]]

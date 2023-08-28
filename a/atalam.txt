@@ -1,5 +1,11 @@
-~~Title:atalam~~
-{{description>named Atala; the first planetary system below the earth; the planets named Atala.}}
+---json
+{
+    "name":"atalam",
+    "h1":"atalam",
+    "title":"atalam",
+    "description":"named Atala; the first planetary system below the earth; the planets named Atala."
+}
+---
 
 ==== atalam  ====
   * named Atala --- [[books:sb:5:24:7|SB 5.24.7]]

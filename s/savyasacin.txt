@@ -1,5 +1,11 @@
-~~Title:savyasācin~~
-{{description>O Savyasācin.}}
+---json
+{
+    "name":"savyasācin",
+    "h1":"savyasācin",
+    "title":"savyasācin",
+    "description":"O Savyasācin."
+}
+---
 
 ==== savyasācin  ====
   * O Savyasācin --- [[books:bg:11:33|Bg. 11.33]]

@@ -1,5 +1,11 @@
-~~Title:haiyāchila~~
-{{description>there was.}}
+---json
+{
+    "name":"haiyāchila",
+    "h1":"haiyāchila",
+    "title":"haiyāchila",
+    "description":"there was."
+}
+---
 
 ==== haiyāchila  ====
   * there was --- [[books:cc:madhya:21:77|Madhya 21.77]]

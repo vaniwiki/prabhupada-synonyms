@@ -1,5 +1,11 @@
-~~Title:kichui~~
-{{description>any; anything; something.}}
+---json
+{
+    "name":"kichui",
+    "h1":"kichui",
+    "title":"kichui",
+    "description":"any; anything; something."
+}
+---
 
 ==== kichui  ====
   * any --- [[books:cc:antya:3:48|Antya 3.48]]

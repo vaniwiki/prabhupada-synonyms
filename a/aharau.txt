@@ -1,5 +1,11 @@
-~~Title:āhārau~~
-{{description>eating.}}
+---json
+{
+    "name":"āhārau",
+    "h1":"āhārau",
+    "title":"āhārau",
+    "description":"eating."
+}
+---
 
 ==== āhārau  ====
   * eating --- [[books:sb:10:3:34-35|SB 10.3.34-35]]

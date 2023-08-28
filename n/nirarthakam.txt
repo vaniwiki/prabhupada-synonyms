@@ -1,5 +1,11 @@
-~~Title:nirarthakam~~
-{{description>without meaning.}}
+---json
+{
+    "name":"nirarthakam",
+    "h1":"nirarthakam",
+    "title":"nirarthakam",
+    "description":"without meaning."
+}
+---
 
 ==== nirarthakam  ====
   * without meaning --- [[books:sb:4:16:19|SB 4.16.19]]

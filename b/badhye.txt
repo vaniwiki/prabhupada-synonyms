@@ -1,5 +1,11 @@
-~~Title:bādhye~~
-{{description>obstructs.}}
+---json
+{
+    "name":"bādhye",
+    "h1":"bādhye",
+    "title":"bādhye",
+    "description":"obstructs."
+}
+---
 
 ==== bādhye  ====
   * obstructs --- [[books:cc:antya:6:4|Antya 6.4]]

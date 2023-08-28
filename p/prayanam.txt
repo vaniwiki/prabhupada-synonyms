@@ -1,5 +1,11 @@
-~~Title:prayanam~~
-{{description>the path.}}
+---json
+{
+    "name":"prayanam",
+    "h1":"prayanam",
+    "title":"prayanam",
+    "description":"the path."
+}
+---
 
 ==== prāyaṇam  ====
   * the path --- [[books:sb:6:5:31|SB 6.5.31]]

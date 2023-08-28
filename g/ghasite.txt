@@ -1,5 +1,11 @@
-~~Title:ghaṣite~~
-{{description>to rub.}}
+---json
+{
+    "name":"ghaṣite",
+    "h1":"ghaṣite",
+    "title":"ghaṣite",
+    "description":"to rub."
+}
+---
 
 ==== ghaṣite  ====
   * to rub --- [[books:cc:antya:19:58|Antya 19.58]]

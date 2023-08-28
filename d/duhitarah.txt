@@ -1,5 +1,11 @@
-~~Title:duhitaraḥ~~
-{{description>daughters.}}
+---json
+{
+    "name":"duhitaraḥ",
+    "h1":"duhitaraḥ",
+    "title":"duhitaraḥ",
+    "description":"daughters."
+}
+---
 
 ==== duhitaraḥ  ====
   * daughters --- [[books:sb:3:24:14|SB 3.24.14]]

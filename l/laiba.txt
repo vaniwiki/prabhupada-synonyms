@@ -1,5 +1,11 @@
-~~Title:laibā~~
-{{description>you should chant.}}
+---json
+{
+    "name":"laibā",
+    "h1":"laibā",
+    "title":"laibā",
+    "description":"you should chant."
+}
+---
 
 ==== laibā  ====
   * you should chant --- [[books:cc:madhya:7:127|Madhya 7.127]]

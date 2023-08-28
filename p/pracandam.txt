@@ -1,5 +1,11 @@
-~~Title:pracaṇḍam~~
-{{description>fierce.}}
+---json
+{
+    "name":"pracaṇḍam",
+    "h1":"pracaṇḍam",
+    "title":"pracaṇḍam",
+    "description":"fierce."
+}
+---
 
 ==== pracaṇḍam  ====
   * fierce --- [[books:sb:1:7:21|SB 1.7.21]]

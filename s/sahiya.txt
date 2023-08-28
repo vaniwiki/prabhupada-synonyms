@@ -1,5 +1,11 @@
-~~Title:sahiyā~~
-{{description>tolerating the separation.}}
+---json
+{
+    "name":"sahiyā",
+    "h1":"sahiyā",
+    "title":"sahiyā",
+    "description":"tolerating the separation."
+}
+---
 
 ==== viccheda sahiyā  ====
   * tolerating the separation --- [[books:cc:madhya:16:146|Madhya 16.146]]

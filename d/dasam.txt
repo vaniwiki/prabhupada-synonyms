@@ -1,5 +1,11 @@
-~~Title:dasam~~
-{{description>a state; condition; to a situation; to a state; to the condition.}}
+---json
+{
+    "name":"dasam",
+    "h1":"dasam",
+    "title":"dasam",
+    "description":"a state; condition; to a situation; to a state; to the condition."
+}
+---
 
 ==== daśām  ====
   * a state --- [[books:sb:4:28:59|SB 4.28.59]]

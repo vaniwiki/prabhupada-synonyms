@@ -1,5 +1,11 @@
-~~Title:pratīyante~~
-{{description>manifest.}}
+---json
+{
+    "name":"pratīyante",
+    "h1":"pratīyante",
+    "title":"pratīyante",
+    "description":"manifest."
+}
+---
 
 ==== pratīyante  ====
   * manifest --- [[books:sb:3:6:27|SB 3.6.27]]

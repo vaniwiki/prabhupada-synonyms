@@ -1,5 +1,11 @@
-~~Title:supāmara~~
-{{description>very,very fallen.}}
+---json
+{
+    "name":"supāmara",
+    "h1":"supāmara",
+    "title":"supāmara",
+    "description":"very,very fallen."
+}
+---
 
 ==== supāmara  ====
   * very,very fallen --- [[books:cc:madhya:23:120|Madhya 23.120]]

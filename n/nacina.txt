@@ -1,5 +1,11 @@
-~~Title:nāciñā~~
-{{description>dancing.}}
+---json
+{
+    "name":"nāciñā",
+    "h1":"nāciñā",
+    "title":"nāciñā",
+    "description":"dancing."
+}
+---
 
 ==== nāciñā  ====
   * dancing --- [[books:cc:madhya:3:131|Madhya 3.131]]

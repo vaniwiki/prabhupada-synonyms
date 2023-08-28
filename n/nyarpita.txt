@@ -1,5 +1,11 @@
-~~Title:nyarpita~~
-{{description>unto the living entity who has fully surrendered.}}
+---json
+{
+    "name":"nyarpita",
+    "h1":"nyarpita",
+    "title":"nyarpita",
+    "description":"unto the living entity who has fully surrendered."
+}
+---
 
 ==== nyarpita-ātmānam  ====
   * unto the living entity who has fully surrendered --- [[books:sb:6:2:5-6|SB 6.2.5-6]]

@@ -1,5 +1,11 @@
-~~Title:śuśrūṣatīnām~~
-{{description>of those engaging in the service.}}
+---json
+{
+    "name":"śuśrūṣatīnām",
+    "h1":"śuśrūṣatīnām",
+    "title":"śuśrūṣatīnām",
+    "description":"of those engaging in the service."
+}
+---
 
 ==== śuśrūṣatīnām  ====
   * of those engaging in the service --- [[books:sb:7:2:34|SB 7.2.34]]

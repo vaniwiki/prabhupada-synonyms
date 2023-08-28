@@ -1,5 +1,11 @@
-~~Title:ayajata~~
-{{description>he worshiped; offered prayers and worshiped; worshiped.}}
+---json
+{
+    "name":"ayajata",
+    "h1":"ayajata",
+    "title":"ayajata",
+    "description":"he worshiped; offered prayers and worshiped; worshiped."
+}
+---
 
 ==== ayajata  ====
   * he worshiped --- [[books:sb:4:12:10|SB 4.12.10]], [[books:sb:9:14:47|SB 9.14.47]]

@@ -1,5 +1,11 @@
-~~Title:sādhitā~~
-{{description>produced.}}
+---json
+{
+    "name":"sādhitā",
+    "h1":"sādhitā",
+    "title":"sādhitā",
+    "description":"produced."
+}
+---
 
 ==== sādhitā  ====
   * produced --- [[books:sb:8:5:10|SB 8.5.10]]

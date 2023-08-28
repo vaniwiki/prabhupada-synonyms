@@ -1,5 +1,11 @@
-~~Title:nigṛhya~~
-{{description>arresting; capturing; stopped; subduing.}}
+---json
+{
+    "name":"nigṛhya",
+    "h1":"nigṛhya",
+    "title":"nigṛhya",
+    "description":"arresting; capturing; stopped; subduing."
+}
+---
 
 ==== nigṛhya  ====
   * arresting --- [[books:sb:10:1:65-66|SB 10.1.65-66]]

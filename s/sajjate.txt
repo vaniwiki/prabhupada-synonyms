@@ -1,5 +1,11 @@
-~~Title:sajjate~~
-{{description>becomes attached; becomes attached to it; is affected by; is attracted; mix.}}
+---json
+{
+    "name":"sajjate",
+    "h1":"sajjate",
+    "title":"sajjate",
+    "description":"becomes attached; becomes attached to it; is affected by; is attracted; mix."
+}
+---
 
 ==== sajjate  ====
   * becomes attached --- [[books:bg:3:28|Bg. 3.28]], [[books:sb:5:18:13|SB 5.18.13]], [[books:sb:6:2:46|SB 6.2.46]]

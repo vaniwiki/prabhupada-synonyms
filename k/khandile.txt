@@ -1,5 +1,11 @@
-~~Title:khaṇḍile~~
-{{description>refuted.}}
+---json
+{
+    "name":"khaṇḍile",
+    "h1":"khaṇḍile",
+    "title":"khaṇḍile",
+    "description":"refuted."
+}
+---
 
 ==== khaṇḍile  ====
   * refuted --- [[books:cc:adi:7:135|Ādi 7.135]]

@@ -1,5 +1,11 @@
-~~Title:prajātam~~
-{{description>have taken birth.}}
+---json
+{
+    "name":"prajātam",
+    "h1":"prajātam",
+    "title":"prajātam",
+    "description":"have taken birth."
+}
+---
 
 ==== prajātam  ====
   * have taken birth --- [[books:sb:1:5:21|SB 1.5.21]]

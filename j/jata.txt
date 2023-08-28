@@ -1,5 +1,11 @@
-~~Title:jata~~
-{{description>matted hair; of hair.}}
+---json
+{
+    "name":"jata",
+    "h1":"jata",
+    "title":"jata",
+    "description":"matted hair; of hair."
+}
+---
 
 ==== jaṭā  ====
   * matted hair --- [[books:sb:4:6:36|SB 4.6.36]], [[books:sb:7:12:4|SB 7.12.4]]

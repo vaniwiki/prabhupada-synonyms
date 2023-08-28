@@ -1,5 +1,11 @@
-~~Title:bhikṣuki~~
-{{description>beggar.}}
+---json
+{
+    "name":"bhikṣuki",
+    "h1":"bhikṣuki",
+    "title":"bhikṣuki",
+    "description":"beggar."
+}
+---
 
 ==== bhikṣuki  ====
   * beggar --- [[books:sb:9:18:16|SB 9.18.16]]

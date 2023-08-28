@@ -1,5 +1,11 @@
-~~Title:sukṛtaḥ~~
-{{description>pious activities; Sukṛta.}}
+---json
+{
+    "name":"sukṛtaḥ",
+    "h1":"sukṛtaḥ",
+    "title":"sukṛtaḥ",
+    "description":"pious activities; Sukṛta."
+}
+---
 
 ==== sukṛtaḥ  ====
   * pious activities --- [[books:sb:5:14:12|SB 5.14.12]]

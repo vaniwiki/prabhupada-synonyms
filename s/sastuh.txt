@@ -1,5 +1,11 @@
-~~Title:śāstuḥ~~
-{{description>the order-giver.}}
+---json
+{
+    "name":"śāstuḥ",
+    "h1":"śāstuḥ",
+    "title":"śāstuḥ",
+    "description":"the order-giver."
+}
+---
 
 ==== śāstuḥ  ====
   * the order-giver --- [[books:sb:4:21:26|SB 4.21.26]]

@@ -1,5 +1,11 @@
-~~Title:satya~~
-{{description>as truth; by truthfulness; certainly; eternal; fire without sacrifice; in Satya-yuga; pure; real; Satya; Satyeyu; spoken in scripture; the Satyaloka planet; the Satyaloka planetary system; the truth; true; truly; truth; truthful.}}
+---json
+{
+    "name":"satya",
+    "h1":"satya",
+    "title":"satya",
+    "description":"as truth; by truthfulness; certainly; eternal; fire without sacrifice; in Satya-yuga; pure; real; Satya; Satyeyu; spoken in scripture; the Satyaloka planet; the Satyaloka planetary system; the truth; true; truly; truth; truthful."
+}
+---
 
 ==== satya  ====
   * as truth --- [[books:cc:madhya:6:264-265|Madhya 6.264-265]]

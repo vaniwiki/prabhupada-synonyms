@@ -1,5 +1,11 @@
-~~Title:varjiha~~
-{{description>stop.}}
+---json
+{
+    "name":"varjiha",
+    "h1":"varjiha",
+    "title":"varjiha",
+    "description":"stop."
+}
+---
 
 ==== varjiha  ====
   * stop --- [[books:cc:adi:17:191|Ādi 17.191]]

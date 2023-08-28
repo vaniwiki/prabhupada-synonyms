@@ -1,5 +1,11 @@
-~~Title:akāraṇa~~
-{{description>everything useless.}}
+---json
+{
+    "name":"akāraṇa",
+    "h1":"akāraṇa",
+    "title":"akāraṇa",
+    "description":"everything useless."
+}
+---
 
 ==== saba akāraṇa  ====
   * everything useless --- [[books:cc:madhya:11:49|Madhya 11.49]]

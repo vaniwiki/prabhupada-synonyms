@@ -1,5 +1,11 @@
-~~Title:upādhatta~~
-{{description>placed.}}
+---json
+{
+    "name":"upādhatta",
+    "h1":"upādhatta",
+    "title":"upādhatta",
+    "description":"placed."
+}
+---
 
 ==== upādhatta  ====
   * placed --- [[books:sb:3:13:46|SB 3.13.46]]

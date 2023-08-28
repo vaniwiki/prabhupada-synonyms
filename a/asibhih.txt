@@ -1,5 +1,11 @@
-~~Title:asibhiḥ~~
-{{description>with swords.}}
+---json
+{
+    "name":"asibhiḥ",
+    "h1":"asibhiḥ",
+    "title":"asibhiḥ",
+    "description":"with swords."
+}
+---
 
 ==== asibhiḥ  ====
   * with swords --- [[books:sb:8:10:6|SB 8.10.6]]

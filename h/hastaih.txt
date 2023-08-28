@@ -1,5 +1,11 @@
-~~Title:hastaiḥ~~
-{{description>quick-handed.}}
+---json
+{
+    "name":"hastaiḥ",
+    "h1":"hastaiḥ",
+    "title":"hastaiḥ",
+    "description":"quick-handed."
+}
+---
 
 ==== laghu-hastaiḥ  ====
   * quick-handed --- [[books:sb:6:10:25|SB 6.10.25]]

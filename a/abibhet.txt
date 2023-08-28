@@ -1,5 +1,11 @@
-~~Title:abibhet~~
-{{description>became very fearful.}}
+---json
+{
+    "name":"abibhet",
+    "h1":"abibhet",
+    "title":"abibhet",
+    "description":"became very fearful."
+}
+---
 
 ==== abibhet  ====
   * became very fearful --- [[books:sb:8:11:33|SB 8.11.33]]

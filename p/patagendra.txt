@@ -1,5 +1,11 @@
-~~Title:patagendra~~
-{{description>on the back of Garuḍa, the king of all birds.}}
+---json
+{
+    "name":"patagendra",
+    "h1":"patagendra",
+    "title":"patagendra",
+    "description":"on the back of Garuḍa, the king of all birds."
+}
+---
 
 ==== patagendra-pṛṣṭhe  ====
   * on the back of Garuḍa, the king of all birds --- [[books:sb:6:8:12|SB 6.8.12]]

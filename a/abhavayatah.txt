@@ -1,5 +1,11 @@
-~~Title:abhāvayataḥ~~
-{{description>one who is not fixed.}}
+---json
+{
+    "name":"abhāvayataḥ",
+    "h1":"abhāvayataḥ",
+    "title":"abhāvayataḥ",
+    "description":"one who is not fixed."
+}
+---
 
 ==== abhāvayataḥ  ====
   * one who is not fixed --- [[books:bg:2:66|Bg. 2.66]]

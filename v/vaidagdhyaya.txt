@@ -1,5 +1,11 @@
-~~Title:vaidagdhyayā~~
-{{description>expert in fulfilling one's material desires.}}
+---json
+{
+    "name":"vaidagdhyayā",
+    "h1":"vaidagdhyayā",
+    "title":"vaidagdhyayā",
+    "description":"expert in fulfilling one's material desires."
+}
+---
 
 ==== grāmya-vaidagdhyayā  ====
   * expert in fulfilling one's material desires --- [[books:sb:5:2:17|SB 5.2.17]]

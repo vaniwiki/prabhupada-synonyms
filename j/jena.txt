@@ -1,5 +1,11 @@
-~~Title:jena~~
-{{description>by Hiraṇyakaśipu, the son of Diti; by the son of Diti.}}
+---json
+{
+    "name":"jena",
+    "h1":"jena",
+    "title":"jena",
+    "description":"by Hiraṇyakaśipu, the son of Diti; by the son of Diti."
+}
+---
 
 ==== diti-jena  ====
   * by Hiraṇyakaśipu, the son of Diti --- [[books:sb:7:8:48|SB 7.8.48]]

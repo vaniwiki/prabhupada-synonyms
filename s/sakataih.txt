@@ -1,5 +1,11 @@
-~~Title:śakaṭaiḥ~~
-{{description>by the bullock carts.}}
+---json
+{
+    "name":"śakaṭaiḥ",
+    "h1":"śakaṭaiḥ",
+    "title":"śakaṭaiḥ",
+    "description":"by the bullock carts."
+}
+---
 
 ==== śakaṭaiḥ  ====
   * by the bullock carts --- [[books:sb:10:11:35|SB 10.11.35]]

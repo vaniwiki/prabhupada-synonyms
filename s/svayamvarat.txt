@@ -1,5 +1,11 @@
-~~Title:svayaṁvarāt~~
-{{description>from the arena of the svayaṁvara.}}
+---json
+{
+    "name":"svayaṁvarāt",
+    "h1":"svayaṁvarāt",
+    "title":"svayaṁvarāt",
+    "description":"from the arena of the svayaṁvara."
+}
+---
 
 ==== svayaṁvarāt  ====
   * from the arena of the //svayaṁvara// --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

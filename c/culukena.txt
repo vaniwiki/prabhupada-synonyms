@@ -1,5 +1,11 @@
-~~Title:culukena~~
-{{description>by a palmful.}}
+---json
+{
+    "name":"culukena",
+    "h1":"culukena",
+    "title":"culukena",
+    "description":"by a palmful."
+}
+---
 
 ==== culukena  ====
   * by a palmful --- [[books:cc:adi:3:104|Ādi 3.104]]

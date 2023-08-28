@@ -1,5 +1,11 @@
-~~Title:krīḍanaka~~
-{{description>engaged in his play.}}
+---json
+{
+    "name":"krīḍanaka",
+    "h1":"krīḍanaka",
+    "title":"krīḍanaka",
+    "description":"engaged in his play."
+}
+---
 
 ==== krīḍanaka-āsaktam  ====
   * engaged in his play --- [[books:sb:6:1:28-29|SB 6.1.28-29]]

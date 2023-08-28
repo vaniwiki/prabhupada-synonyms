@@ -1,5 +1,11 @@
-~~Title:pāliha~~
-{{description>carry out.}}
+---json
+{
+    "name":"pāliha",
+    "h1":"pāliha",
+    "title":"pāliha",
+    "description":"carry out."
+}
+---
 
 ==== pāliha  ====
   * carry out --- [[books:cc:madhya:11:122|Madhya 11.122]]

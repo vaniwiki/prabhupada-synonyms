@@ -1,5 +1,11 @@
-~~Title:āśrayeta~~
-{{description>may take shelter of.}}
+---json
+{
+    "name":"āśrayeta",
+    "h1":"āśrayeta",
+    "title":"āśrayeta",
+    "description":"may take shelter of."
+}
+---
 
 ==== āśrayeta  ====
   * may take shelter of --- [[books:sb:7:5:5|SB 7.5.5]]

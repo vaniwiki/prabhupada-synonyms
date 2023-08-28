@@ -1,5 +1,11 @@
-~~Title:vidhitsayā~~
-{{description>to fulfill.}}
+---json
+{
+    "name":"vidhitsayā",
+    "h1":"vidhitsayā",
+    "title":"vidhitsayā",
+    "description":"to fulfill."
+}
+---
 
 ==== vidhitsayā  ====
   * to fulfill --- [[books:sb:5:3:2|SB 5.3.2]]

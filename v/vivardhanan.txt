@@ -1,5 +1,11 @@
-~~Title:vivardhanān~~
-{{description>increasing.}}
+---json
+{
+    "name":"vivardhanān",
+    "h1":"vivardhanān",
+    "title":"vivardhanān",
+    "description":"increasing."
+}
+---
 
 ==== vivardhanān  ====
   * increasing --- [[books:sb:4:27:8|SB 4.27.8]]

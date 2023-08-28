@@ -1,5 +1,11 @@
-~~Title:malāt~~
-{{description>because of impurity.}}
+---json
+{
+    "name":"malāt",
+    "h1":"malāt",
+    "title":"malāt",
+    "description":"because of impurity."
+}
+---
 
 ==== malāt  ====
   * because of impurity --- [[books:sb:6:1:67|SB 6.1.67]]

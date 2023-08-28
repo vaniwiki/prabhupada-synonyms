@@ -1,5 +1,11 @@
-~~Title:mukha~~
-{{description>at the top; by the mouth; face; faces; from the mouth; from the mouths; mouth; or the face; the face; the faces; the mouth; the mouths; whose face.}}
+---json
+{
+    "name":"mukha",
+    "h1":"mukha",
+    "title":"mukha",
+    "description":"at the top; by the mouth; face; faces; from the mouth; from the mouths; mouth; or the face; the face; the faces; the mouth; the mouths; whose face."
+}
+---
 
 ==== mukha  ====
   * at the top --- [[books:cc:madhya:15:74|Madhya 15.74]]

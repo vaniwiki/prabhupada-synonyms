@@ -1,5 +1,11 @@
-~~Title:udvega~~
-{{description>agitation; anxiety; distress.}}
+---json
+{
+    "name":"udvega",
+    "h1":"udvega",
+    "title":"udvega",
+    "description":"agitation; anxiety; distress."
+}
+---
 
 ==== udvega  ====
   * agitation --- [[books:cc:antya:11:14|Antya 11.14]], [[books:cc:antya:17:49|Antya 17.49]], [[books:cc:antya:20:1|Antya 20.1]]

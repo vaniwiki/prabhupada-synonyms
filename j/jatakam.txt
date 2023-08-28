@@ -1,5 +1,11 @@
-~~Title:jātakam~~
-{{description>one of the purificatory processes performed just after the birth of a child; the birth ceremony.}}
+---json
+{
+    "name":"jātakam",
+    "h1":"jātakam",
+    "title":"jātakam",
+    "description":"one of the purificatory processes performed just after the birth of a child; the birth ceremony."
+}
+---
 
 ==== jātakam  ====
   * one of the purificatory processes performed just after the birth of a child --- [[books:sb:1:12:13|SB 1.12.13]]

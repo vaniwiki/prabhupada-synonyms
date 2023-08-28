@@ -1,5 +1,11 @@
-~~Title:kruddhasya~~
-{{description>when angered.}}
+---json
+{
+    "name":"kruddhasya",
+    "h1":"kruddhasya",
+    "title":"kruddhasya",
+    "description":"when angered."
+}
+---
 
 ==== kruddhasya  ====
   * when angered --- [[books:sb:7:8:6|SB 7.8.6]]

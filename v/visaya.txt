@@ -1,5 +1,11 @@
-~~Title:visaya~~
-{{description>from connection with sense gratification; government service; in the matter of; material; material activities; material affairs; material engagement; material enjoyment; material happiness; material life; material opulence; material things; means; money; object; objects of sense; of material enjoyment; of material opulence; of the sense objects; sense gratification; sense objects; subject; the idea of material enjoyment; the sense objects; to places; worldly business.}}
+---json
+{
+    "name":"visaya",
+    "h1":"visaya",
+    "title":"visaya",
+    "description":"from connection with sense gratification; government service; in the matter of; material; material activities; material affairs; material engagement; material enjoyment; material happiness; material life; material opulence; material things; means; money; object; objects of sense; of material enjoyment; of material opulence; of the sense objects; sense gratification; sense objects; subject; the idea of material enjoyment; the sense objects; to places; worldly business."
+}
+---
 
 ==== viṣaya  ====
   * from connection with sense gratification --- [[books:sb:5:14:34|SB 5.14.34]]

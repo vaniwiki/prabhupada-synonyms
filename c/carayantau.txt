@@ -1,5 +1,11 @@
-~~Title:cārayantau~~
-{{description>tending.}}
+---json
+{
+    "name":"cārayantau",
+    "h1":"cārayantau",
+    "title":"cārayantau",
+    "description":"tending."
+}
+---
 
 ==== cārayantau  ====
   * tending --- [[books:sb:10:11:45|SB 10.11.45]]

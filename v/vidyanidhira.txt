@@ -1,5 +1,11 @@
-~~Title:vidyānidhira~~
-{{description>of Vidyānidhi.}}
+---json
+{
+    "name":"vidyānidhira",
+    "h1":"vidyānidhira",
+    "title":"vidyānidhira",
+    "description":"of Vidyānidhi."
+}
+---
 
 ==== vidyānidhira  ====
   * of Vidyānidhi --- [[books:cc:madhya:14:80|Madhya 14.80]]

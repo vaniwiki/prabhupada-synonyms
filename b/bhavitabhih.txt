@@ -1,5 +1,11 @@
-~~Title:bhāvitābhiḥ~~
-{{description>who are engrossed with.}}
+---json
+{
+    "name":"bhāvitābhiḥ",
+    "h1":"bhāvitābhiḥ",
+    "title":"bhāvitābhiḥ",
+    "description":"who are engrossed with."
+}
+---
 
 ==== bhāvitābhiḥ  ====
   * who are engrossed with --- [[books:cc:adi:4:72|Ādi 4.72]], [[books:cc:madhya:8:163|Madhya 8.163]]

@@ -1,5 +1,11 @@
-~~Title:kuṇḍikā~~
-{{description>earthen basins; earthen pots.}}
+---json
+{
+    "name":"kuṇḍikā",
+    "h1":"kuṇḍikā",
+    "title":"kuṇḍikā",
+    "description":"earthen basins; earthen pots."
+}
+---
 
 ==== mṛt-kuṇḍikā  ====
   * earthen basins --- [[books:cc:antya:6:56|Antya 6.56]]

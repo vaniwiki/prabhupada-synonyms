@@ -1,5 +1,11 @@
-~~Title:śvāsaḥ~~
-{{description>inhaling.}}
+---json
+{
+    "name":"śvāsaḥ",
+    "h1":"śvāsaḥ",
+    "title":"śvāsaḥ",
+    "description":"inhaling."
+}
+---
 
 ==== antaḥ-śvāsaḥ  ====
   * inhaling --- [[books:sb:1:9:43|SB 1.9.43]]

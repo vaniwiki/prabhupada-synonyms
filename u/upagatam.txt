@@ -1,5 +1,11 @@
-~~Title:upagatam~~
-{{description>obtained.}}
+---json
+{
+    "name":"upagatam",
+    "h1":"upagatam",
+    "title":"upagatam",
+    "description":"obtained."
+}
+---
 
 ==== upagatām  ====
   * obtained --- [[books:sb:3:26:4|SB 3.26.4]]

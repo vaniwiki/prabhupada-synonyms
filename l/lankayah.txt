@@ -1,5 +1,11 @@
-~~Title:laṅkāyāḥ~~
-{{description>from Laṅkā.}}
+---json
+{
+    "name":"laṅkāyāḥ",
+    "h1":"laṅkāyāḥ",
+    "title":"laṅkāyāḥ",
+    "description":"from Laṅkā."
+}
+---
 
 ==== laṅkāyāḥ  ====
   * from Laṅkā --- [[books:sb:9:10:24|SB 9.10.24]]

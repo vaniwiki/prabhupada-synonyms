@@ -1,5 +1,11 @@
-~~Title:prayuñjānāḥ~~
-{{description>offering; uttering.}}
+---json
+{
+    "name":"prayuñjānāḥ",
+    "h1":"prayuñjānāḥ",
+    "title":"prayuñjānāḥ",
+    "description":"offering; uttering."
+}
+---
 
 ==== prayuñjānāḥ  ====
   * offering --- [[books:sb:10:5:12|SB 10.5.12]]

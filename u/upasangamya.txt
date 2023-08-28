@@ -1,5 +1,11 @@
-~~Title:upasaṅgamya~~
-{{description>approaching nearby; going nearer; going nearer to; having approached.}}
+---json
+{
+    "name":"upasaṅgamya",
+    "h1":"upasaṅgamya",
+    "title":"upasaṅgamya",
+    "description":"approaching nearby; going nearer; going nearer to; having approached."
+}
+---
 
 ==== upasaṅgamya  ====
   * approaching nearby --- [[books:bg:1:2|Bg. 1.2]]

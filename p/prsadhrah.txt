@@ -1,5 +1,11 @@
-~~Title:pṛṣadhraḥ~~
-{{description>Manu's son Pṛṣadhra; Pṛṣadhra.}}
+---json
+{
+    "name":"pṛṣadhraḥ",
+    "h1":"pṛṣadhraḥ",
+    "title":"pṛṣadhraḥ",
+    "description":"Manu's son Pṛṣadhra; Pṛṣadhra."
+}
+---
 
 ==== pṛṣadhraḥ  ====
   * Manu's son Pṛṣadhra --- [[books:sb:9:2:8|SB 9.2.8]]

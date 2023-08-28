@@ -1,5 +1,11 @@
-~~Title:srantah~~
-{{description>being fatigued; fatigued; when he was fatigued.}}
+---json
+{
+    "name":"srantah",
+    "h1":"srantah",
+    "title":"srantah",
+    "description":"being fatigued; fatigued; when he was fatigued."
+}
+---
 
 ==== śrāntaḥ  ====
   * being fatigued --- [[books:cc:antya:18:25|Antya 18.25]]

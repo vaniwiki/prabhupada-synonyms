@@ -1,5 +1,11 @@
-~~Title:upacāre~~
-{{description>with ingredients.}}
+---json
+{
+    "name":"upacāre",
+    "h1":"upacāre",
+    "title":"upacāre",
+    "description":"with ingredients."
+}
+---
 
 ==== upacāre  ====
   * with ingredients --- [[books:cc:madhya:24:334|Madhya 24.334]]

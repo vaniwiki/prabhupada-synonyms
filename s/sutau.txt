@@ -1,5 +1,11 @@
-~~Title:sutau~~
-{{description>sons; the two sons; two sons.}}
+---json
+{
+    "name":"sutau",
+    "h1":"sutau",
+    "title":"sutau",
+    "description":"sons; the two sons; two sons."
+}
+---
 
 ==== sutau  ====
   * sons --- [[books:sb:7:5:1|SB 7.5.1]], [[books:sb:9:24:16-18|SB 9.24.16-18]]

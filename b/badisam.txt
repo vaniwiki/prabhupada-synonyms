@@ -1,5 +1,11 @@
-~~Title:baḍiśam~~
-{{description>hook.}}
+---json
+{
+    "name":"baḍiśam",
+    "h1":"baḍiśam",
+    "title":"baḍiśam",
+    "description":"hook."
+}
+---
 
 ==== baḍiśam  ====
   * hook --- [[books:sb:3:28:34|SB 3.28.34]]

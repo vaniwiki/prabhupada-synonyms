@@ -1,5 +1,11 @@
-~~Title:uśanā~~
-{{description>Uśanā; Venus; Śukrācārya.}}
+---json
+{
+    "name":"uśanā",
+    "h1":"uśanā",
+    "title":"uśanā",
+    "description":"Uśanā; Venus; Śukrācārya."
+}
+---
 
 ==== uśanā  ====
   * Uśanā --- [[books:bg:10:37|Bg. 10.37]], [[books:sb:9:23:33|SB 9.23.33]]

@@ -1,5 +1,11 @@
-~~Title:anvicchan~~
-{{description>although desiring to go; desiring; if he desires; seeking; so desiring.}}
+---json
+{
+    "name":"anvicchan",
+    "h1":"anvicchan",
+    "title":"anvicchan",
+    "description":"although desiring to go; desiring; if he desires; seeking; so desiring."
+}
+---
 
 ==== anvicchan  ====
   * although desiring to go --- [[books:sb:9:14:47|SB 9.14.47]]

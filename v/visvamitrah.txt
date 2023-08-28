@@ -1,5 +1,11 @@
-~~Title:viśvāmitraḥ~~
-{{description>the great sage and mystic Viśvāmitra; the great sage Viśvāmitra; Viśvāmitra.}}
+---json
+{
+    "name":"viśvāmitraḥ",
+    "h1":"viśvāmitraḥ",
+    "title":"viśvāmitraḥ",
+    "description":"the great sage and mystic Viśvāmitra; the great sage Viśvāmitra; Viśvāmitra."
+}
+---
 
 ==== viśvāmitraḥ  ====
   * the great sage and mystic Viśvāmitra --- [[books:sb:9:7:22|SB 9.7.22]]

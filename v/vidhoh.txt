@@ -1,5 +1,11 @@
-~~Title:vidhoḥ~~
-{{description>of the moon (Kṛṣṇa).}}
+---json
+{
+    "name":"vidhoḥ",
+    "h1":"vidhoḥ",
+    "title":"vidhoḥ",
+    "description":"of the moon (Kṛṣṇa)."
+}
+---
 
 ==== vidhoḥ  ====
   * of the moon (Kṛṣṇa) --- [[books:cc:madhya:8:211|Madhya 8.211]]

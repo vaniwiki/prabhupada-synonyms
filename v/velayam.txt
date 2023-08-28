@@ -1,5 +1,11 @@
-~~Title:velāyām~~
-{{description>in the fire sacrifice; on the seashore.}}
+---json
+{
+    "name":"velāyām",
+    "h1":"velāyām",
+    "title":"velāyām",
+    "description":"in the fire sacrifice; on the seashore."
+}
+---
 
 ==== velāyām  ====
   * in the fire sacrifice --- [[books:sb:8:16:8|SB 8.16.8]]

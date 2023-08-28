@@ -1,5 +1,11 @@
-~~Title:sāvadhāna~~
-{{description>always careful; attention; care; care of other rituals; careful; carefully; very careful; warning.}}
+---json
+{
+    "name":"sāvadhāna",
+    "h1":"sāvadhāna",
+    "title":"sāvadhāna",
+    "description":"always careful; attention; care; care of other rituals; careful; carefully; very careful; warning."
+}
+---
 
 ==== sāvadhāna  ====
   * always careful --- [[books:cc:madhya:8:32|Madhya 8.32]]

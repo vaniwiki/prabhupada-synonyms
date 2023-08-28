@@ -1,5 +1,11 @@
-~~Title:mātaraḥ~~
-{{description>mothers; the cows.}}
+---json
+{
+    "name":"mātaraḥ",
+    "h1":"mātaraḥ",
+    "title":"mātaraḥ",
+    "description":"mothers; the cows."
+}
+---
 
 ==== mātaraḥ  ====
   * mothers --- [[books:sb:6:16:4|SB 6.16.4]]

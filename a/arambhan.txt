@@ -1,5 +1,11 @@
-~~Title:ārambhān~~
-{{description>unnecessary opulences.}}
+---json
+{
+    "name":"ārambhān",
+    "h1":"ārambhān",
+    "title":"ārambhān",
+    "description":"unnecessary opulences."
+}
+---
 
 ==== ārambhān  ====
   * unnecessary opulences --- [[books:sb:7:13:8|SB 7.13.8]]

@@ -1,5 +1,11 @@
-~~Title:bhagnamānān~~
-{{description>in that way all who were disappointed.}}
+---json
+{
+    "name":"bhagnamānān",
+    "h1":"bhagnamānān",
+    "title":"bhagnamānān",
+    "description":"in that way all who were disappointed."
+}
+---
 
 ==== tat-bhagnamānān  ====
   * in that way all who were disappointed --- [[books:sb:3:3:4|SB 3.3.4]]

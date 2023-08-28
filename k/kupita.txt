@@ -1,5 +1,11 @@
-~~Title:kupita~~
-{{description>being angry.}}
+---json
+{
+    "name":"kupita",
+    "h1":"kupita",
+    "title":"kupita",
+    "description":"being angry."
+}
+---
 
 ==== kupitā  ====
   * being angry --- [[books:sb:9:9:34|SB 9.9.34]]

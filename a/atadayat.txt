@@ -1,5 +1,11 @@
-~~Title:atāḍayat~~
-{{description>hit.}}
+---json
+{
+    "name":"atāḍayat",
+    "h1":"atāḍayat",
+    "title":"atāḍayat",
+    "description":"hit."
+}
+---
 
 ==== atāḍayat  ====
   * hit --- [[books:sb:8:11:14|SB 8.11.14]]

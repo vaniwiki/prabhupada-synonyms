@@ -1,5 +1,11 @@
-~~Title:āgatavān~~
-{{description>came back.}}
+---json
+{
+    "name":"āgatavān",
+    "h1":"āgatavān",
+    "title":"āgatavān",
+    "description":"came back."
+}
+---
 
 ==== āgatavān  ====
   * came back --- [[books:sb:2:10:49-50|SB 2.10.49-50]]

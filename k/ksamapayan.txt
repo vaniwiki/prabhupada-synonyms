@@ -1,5 +1,11 @@
-~~Title:kṣamāpayan~~
-{{description>obtaining pardon for his offense.}}
+---json
+{
+    "name":"kṣamāpayan",
+    "h1":"kṣamāpayan",
+    "title":"kṣamāpayan",
+    "description":"obtaining pardon for his offense."
+}
+---
 
 ==== kṣamāpayan  ====
   * obtaining pardon for his offense --- [[books:sb:5:10:15|SB 5.10.15]]

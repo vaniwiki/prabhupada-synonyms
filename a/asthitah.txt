@@ -1,5 +1,11 @@
-~~Title:asthitah~~
-{{description>accepted; accepting; associating; became situated; being seated on such; being situated; being situated in; exercised; he is still living there; he underwent; is situated in; lived there; remains in that position; seated; situated; thus situated; who has undertaken (because of association with a prostitute).}}
+---json
+{
+    "name":"asthitah",
+    "h1":"asthitah",
+    "title":"asthitah",
+    "description":"accepted; accepting; associating; became situated; being seated on such; being situated; being situated in; exercised; he is still living there; he underwent; is situated in; lived there; remains in that position; seated; situated; thus situated; who has undertaken (because of association with a prostitute)."
+}
+---
 
 ==== āsthitaḥ  ====
   * accepted --- [[books:sb:3:24:42|SB 3.24.42]]

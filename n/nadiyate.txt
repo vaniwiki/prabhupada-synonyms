@@ -1,5 +1,11 @@
-~~Title:nadīyāte~~
-{{description>at Navadvīpa; to Navadvīpa.}}
+---json
+{
+    "name":"nadīyāte",
+    "h1":"nadīyāte",
+    "title":"nadīyāte",
+    "description":"at Navadvīpa; to Navadvīpa."
+}
+---
 
 ==== nadīyāte  ====
   * at Navadvīpa --- [[books:cc:adi:13:57-58|Ādi 13.57-58]]

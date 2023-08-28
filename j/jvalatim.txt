@@ -1,5 +1,11 @@
-~~Title:jvalatīm~~
-{{description>blazing like fire.}}
+---json
+{
+    "name":"jvalatīm",
+    "h1":"jvalatīm",
+    "title":"jvalatīm",
+    "description":"blazing like fire."
+}
+---
 
 ==== jvalatīm  ====
   * blazing like fire --- [[books:sb:9:4:47|SB 9.4.47]]

@@ -1,5 +1,11 @@
-~~Title:janmāiha~~
-{{description>give satisfaction.}}
+---json
+{
+    "name":"janmāiha",
+    "h1":"janmāiha",
+    "title":"janmāiha",
+    "description":"give satisfaction."
+}
+---
 
 ==== santoṣa janmāiha  ====
   * give satisfaction --- [[books:cc:antya:3:29|Antya 3.29]]

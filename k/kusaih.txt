@@ -1,5 +1,11 @@
-~~Title:kuśaiḥ~~
-{{description>the kuśa grass.}}
+---json
+{
+    "name":"kuśaiḥ",
+    "h1":"kuśaiḥ",
+    "title":"kuśaiḥ",
+    "description":"the kuśa grass."
+}
+---
 
 ==== kuśaiḥ  ====
   * the //kuśa// grass --- [[books:sb:4:24:10|SB 4.24.10]]

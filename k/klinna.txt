@@ -1,5 +1,11 @@
-~~Title:klinna~~
-{{description>with melted hearts.}}
+---json
+{
+    "name":"klinna",
+    "h1":"klinna",
+    "title":"klinna",
+    "description":"with melted hearts."
+}
+---
 
 ==== klinna-dhiyaḥ  ====
   * with melted hearts --- [[books:sb:9:11:5|SB 9.11.5]]

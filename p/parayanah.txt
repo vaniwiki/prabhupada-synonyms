@@ -1,5 +1,11 @@
-~~Title:parayanah~~
-{{description>always in the ecstatic mood of devotional service; attached to; being so destined; the devotee; the highest resort.}}
+---json
+{
+    "name":"parayanah",
+    "h1":"parayanah",
+    "title":"parayanah",
+    "description":"always in the ecstatic mood of devotional service; attached to; being so destined; the devotee; the highest resort."
+}
+---
 
 ==== parāyaṇaḥ  ====
   * always in the ecstatic mood of devotional service --- [[books:cc:madhya:6:104|Madhya 6.104]]

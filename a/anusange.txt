@@ -1,5 +1,11 @@
-~~Title:anusange~~
-{{description>as a secondary motive.}}
+---json
+{
+    "name":"anusange",
+    "h1":"anusange",
+    "title":"anusange",
+    "description":"as a secondary motive."
+}
+---
 
 ==== ānusaṅge  ====
   * as a secondary motive --- [[books:cc:adi:4:223|Ādi 4.223]]

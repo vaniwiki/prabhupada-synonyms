@@ -1,5 +1,11 @@
-~~Title:padmaiḥ~~
-{{description>lotus flower.}}
+---json
+{
+    "name":"padmaiḥ",
+    "h1":"padmaiḥ",
+    "title":"padmaiḥ",
+    "description":"lotus flower."
+}
+---
 
 ==== padmaiḥ  ====
   * lotus flower --- [[books:sb:4:8:47|SB 4.8.47]]

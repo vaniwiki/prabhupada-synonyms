@@ -1,5 +1,11 @@
-~~Title:bhinnāya~~
-{{description>to the misbehaved.}}
+---json
+{
+    "name":"bhinnāya",
+    "h1":"bhinnāya",
+    "title":"bhinnāya",
+    "description":"to the misbehaved."
+}
+---
 
 ==== bhinnāya  ====
   * to the misbehaved --- [[books:sb:3:32:39|SB 3.32.39]]

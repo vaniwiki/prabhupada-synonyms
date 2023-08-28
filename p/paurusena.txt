@@ -1,5 +1,11 @@
-~~Title:pauruṣeṇa~~
-{{description>by bravery and strength; by dint of energy.}}
+---json
+{
+    "name":"pauruṣeṇa",
+    "h1":"pauruṣeṇa",
+    "title":"pauruṣeṇa",
+    "description":"by bravery and strength; by dint of energy."
+}
+---
 
 ==== pauruṣeṇa  ====
   * by bravery and strength --- [[books:sb:6:14:7|SB 6.14.7]]

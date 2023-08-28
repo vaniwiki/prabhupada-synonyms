@@ -1,5 +1,11 @@
-~~Title:pakṣmabhiḥ~~
-{{description>by the eyelids.}}
+---json
+{
+    "name":"pakṣmabhiḥ",
+    "h1":"pakṣmabhiḥ",
+    "title":"pakṣmabhiḥ",
+    "description":"by the eyelids."
+}
+---
 
 ==== pakṣmabhiḥ  ====
   * by the eyelids --- [[books:sb:3:1:39|SB 3.1.39]]

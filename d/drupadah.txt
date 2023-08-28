@@ -1,5 +1,11 @@
-~~Title:drupadaḥ~~
-{{description>Drupada; Drupada, the King of Pāñcāla.}}
+---json
+{
+    "name":"drupadaḥ",
+    "h1":"drupadaḥ",
+    "title":"drupadaḥ",
+    "description":"Drupada; Drupada, the King of Pāñcāla."
+}
+---
 
 ==== drupadaḥ  ====
   * Drupada --- [[books:bg:1:4|Bg. 1.4]], [[books:sb:9:22:2|SB 9.22.2]]

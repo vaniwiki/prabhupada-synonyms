@@ -1,5 +1,11 @@
-~~Title:arṇave~~
-{{description>in an ocean; in the ocean; in the ocean of milk.}}
+---json
+{
+    "name":"arṇave",
+    "h1":"arṇave",
+    "title":"arṇave",
+    "description":"in an ocean; in the ocean; in the ocean of milk."
+}
+---
 
 ==== arṇave  ====
   * in an ocean --- [[books:sb:5:26:23|SB 5.26.23]]

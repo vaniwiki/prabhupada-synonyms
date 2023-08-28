@@ -1,5 +1,11 @@
-~~Title:ekādaśī~~
-{{description>Ekādaśī day; of Ekādaśī; the eleventh day of the fortnight; the eleventh lunar day.}}
+---json
+{
+    "name":"ekādaśī",
+    "h1":"ekādaśī",
+    "title":"ekādaśī",
+    "description":"Ekādaśī day; of Ekādaśī; the eleventh day of the fortnight; the eleventh lunar day."
+}
+---
 
 ==== ekādaśī  ====
   * Ekādaśī day --- [[books:cc:adi:15:10|Ādi 15.10]]

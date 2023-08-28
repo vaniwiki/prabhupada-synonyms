@@ -1,5 +1,11 @@
-~~Title:anantāt~~
-{{description>unlimited in strength and opulence.}}
+---json
+{
+    "name":"anantāt",
+    "h1":"anantāt",
+    "title":"anantāt",
+    "description":"unlimited in strength and opulence."
+}
+---
 
 ==== anantāt  ====
   * unlimited in strength and opulence --- [[books:sb:5:5:25|SB 5.5.25]]

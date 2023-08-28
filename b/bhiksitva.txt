@@ -1,5 +1,11 @@
-~~Title:bhikṣitvā~~
-{{description>after begging.}}
+---json
+{
+    "name":"bhikṣitvā",
+    "h1":"bhikṣitvā",
+    "title":"bhikṣitvā",
+    "description":"after begging."
+}
+---
 
 ==== bhikṣitvā  ====
   * after begging --- [[books:sb:8:23:19|SB 8.23.19]]

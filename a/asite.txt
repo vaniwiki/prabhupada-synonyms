@@ -1,5 +1,11 @@
-~~Title:āsite~~
-{{description>going there; to come; to come back; while He was coming back.}}
+---json
+{
+    "name":"āsite",
+    "h1":"āsite",
+    "title":"āsite",
+    "description":"going there; to come; to come back; while He was coming back."
+}
+---
 
 ==== āsite  ====
   * going there --- [[books:cc:madhya:7:20|Madhya 7.20]]

@@ -1,5 +1,11 @@
-~~Title:amla:yoge~~
-{{description>in association with a sour substance.}}
+---json
+{
+    "name":"amla:yoge",
+    "h1":"amla:yoge",
+    "title":"amla:yoge",
+    "description":"in association with a sour substance."
+}
+---
 
 ==== amla:yoge  ====
   * in association with a sour substance --- [[books:cc:madhya:20:309|Madhya 20.309]]

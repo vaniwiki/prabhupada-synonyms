@@ -1,5 +1,11 @@
-~~Title:vidyāra~~
-{{description>educational; of education; of His learning.}}
+---json
+{
+    "name":"vidyāra",
+    "h1":"vidyāra",
+    "title":"vidyāra",
+    "description":"educational; of education; of His learning."
+}
+---
 
 ==== vidyāra  ====
   * educational --- [[books:cc:adi:16:28|Ādi 16.28]]

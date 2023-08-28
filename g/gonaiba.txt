@@ -1,5 +1,11 @@
-~~Title:goṅāiba~~
-{{description>shall pass; will pass.}}
+---json
+{
+    "name":"goṅāiba",
+    "h1":"goṅāiba",
+    "title":"goṅāiba",
+    "description":"shall pass; will pass."
+}
+---
 
 ==== goṅāiba  ====
   * shall pass --- [[books:cc:madhya:8:298|Madhya 8.298]]

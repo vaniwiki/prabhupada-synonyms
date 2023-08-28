@@ -1,5 +1,11 @@
-~~Title:mānayet~~
-{{description>one should highly esteem.}}
+---json
+{
+    "name":"mānayet",
+    "h1":"mānayet",
+    "title":"mānayet",
+    "description":"one should highly esteem."
+}
+---
 
 ==== sādhu mānayet  ====
   * one should highly esteem --- [[books:sb:7:7:32|SB 7.7.32]]

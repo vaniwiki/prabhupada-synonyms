@@ -1,5 +1,11 @@
-~~Title:siñciyā~~
-{{description>sprinkling.}}
+---json
+{
+    "name":"siñciyā",
+    "h1":"siñciyā",
+    "title":"siñciyā",
+    "description":"sprinkling."
+}
+---
 
 ==== siñciyā  ====
   * sprinkling --- [[books:cc:madhya:12:197|Madhya 12.197]]

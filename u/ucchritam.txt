@@ -1,5 +1,11 @@
-~~Title:ucchritam~~
-{{description>high.}}
+---json
+{
+    "name":"ucchritam",
+    "h1":"ucchritam",
+    "title":"ucchritam",
+    "description":"high."
+}
+---
 
 ==== ucchritam  ====
   * high --- [[books:bg:6:11-12|Bg. 6.11-12]]

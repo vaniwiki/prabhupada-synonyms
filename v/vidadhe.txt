@@ -1,5 +1,11 @@
-~~Title:vidadhe~~
-{{description>captured; executed; gave; he made; I cause; made.}}
+---json
+{
+    "name":"vidadhe",
+    "h1":"vidadhe",
+    "title":"vidadhe",
+    "description":"captured; executed; gave; he made; I cause; made."
+}
+---
 
 ==== vidadhe  ====
   * captured --- [[books:sb:7:2:50|SB 7.2.50]]

@@ -1,5 +1,11 @@
-~~Title:pradhānaiḥ~~
-{{description>by paraphernalia.}}
+---json
+{
+    "name":"pradhānaiḥ",
+    "h1":"pradhānaiḥ",
+    "title":"pradhānaiḥ",
+    "description":"by paraphernalia."
+}
+---
 
 ==== pradhānaiḥ  ====
   * by paraphernalia --- [[books:sb:4:1:28|SB 4.1.28]]

@@ -1,5 +1,11 @@
-~~Title:galagali~~
-{{description>embracing one another; embracing shoulder to shoulder; shoulder to shoulder.}}
+---json
+{
+    "name":"galagali",
+    "h1":"galagali",
+    "title":"galagali",
+    "description":"embracing one another; embracing shoulder to shoulder; shoulder to shoulder."
+}
+---
 
 ==== galāgali  ====
   * embracing one another --- [[books:cc:madhya:7:149|Madhya 7.149]]

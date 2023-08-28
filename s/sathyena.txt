@@ -1,5 +1,11 @@
-~~Title:śāṭhyena~~
-{{description>by means of cheating someone of his wealth.}}
+---json
+{
+    "name":"śāṭhyena",
+    "h1":"śāṭhyena",
+    "title":"śāṭhyena",
+    "description":"by means of cheating someone of his wealth."
+}
+---
 
 ==== vitta-śāṭhyena  ====
   * by means of cheating someone of his wealth --- [[books:sb:5:14:35|SB 5.14.35]]

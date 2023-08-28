@@ -1,5 +1,11 @@
-~~Title:jyotsnābhiḥ~~
-{{description>with splendor.}}
+---json
+{
+    "name":"jyotsnābhiḥ",
+    "h1":"jyotsnābhiḥ",
+    "title":"jyotsnābhiḥ",
+    "description":"with splendor."
+}
+---
 
 ==== jyotsnābhiḥ  ====
   * with splendor --- [[books:sb:3:28:21|SB 3.28.21]]

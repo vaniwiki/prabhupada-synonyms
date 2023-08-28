@@ -1,5 +1,11 @@
-~~Title:trātā~~
-{{description>deliver; deliverer; the deliverer.}}
+---json
+{
+    "name":"trātā",
+    "h1":"trātā",
+    "title":"trātā",
+    "description":"deliver; deliverer; the deliverer."
+}
+---
 
 ==== trātā  ====
   * deliver --- [[books:cc:madhya:20:123|Madhya 20.123]]

@@ -1,5 +1,11 @@
-~~Title:varanam~~
-{{description>acceptance.}}
+---json
+{
+    "name":"varanam",
+    "h1":"varanam",
+    "title":"varanam",
+    "description":"acceptance."
+}
+---
 
 ==== varaṇam  ====
   * acceptance --- [[books:cc:madhya:22:100|Madhya 22.100]]

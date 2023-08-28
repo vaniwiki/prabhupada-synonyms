@@ -1,5 +1,11 @@
-~~Title:śūnyāyitam~~
-{{description>appearing void.}}
+---json
+{
+    "name":"śūnyāyitam",
+    "h1":"śūnyāyitam",
+    "title":"śūnyāyitam",
+    "description":"appearing void."
+}
+---
 
 ==== śūnyāyitam  ====
   * appearing void --- [[books:cc:antya:20:39|Antya 20.39]]

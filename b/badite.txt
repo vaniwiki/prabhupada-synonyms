@@ -1,5 +1,11 @@
-~~Title:bāḍite~~
-{{description>to grow; to increase.}}
+---json
+{
+    "name":"bāḍite",
+    "h1":"bāḍite",
+    "title":"bāḍite",
+    "description":"to grow; to increase."
+}
+---
 
 ==== bāḍite  ====
   * to grow --- [[books:cc:adi:17:80|Ādi 17.80]]

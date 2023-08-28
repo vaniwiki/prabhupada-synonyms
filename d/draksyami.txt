@@ -1,5 +1,11 @@
-~~Title:drakṣyāmi~~
-{{description>shall I see.}}
+---json
+{
+    "name":"drakṣyāmi",
+    "h1":"drakṣyāmi",
+    "title":"drakṣyāmi",
+    "description":"shall I see."
+}
+---
 
 ==== drakṣyāmi  ====
   * shall I see --- [[books:sb:5:8:17|SB 5.8.17]]

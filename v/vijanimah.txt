@@ -1,5 +1,11 @@
-~~Title:vijānīmaḥ~~
-{{description>know.}}
+---json
+{
+    "name":"vijānīmaḥ",
+    "h1":"vijānīmaḥ",
+    "title":"vijānīmaḥ",
+    "description":"know."
+}
+---
 
 ==== vijānīmaḥ  ====
   * know --- [[books:sb:1:17:18|SB 1.17.18]], [[books:sb:6:3:20-21|SB 6.3.20-21]]

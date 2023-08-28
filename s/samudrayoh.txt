@@ -1,5 +1,11 @@
-~~Title:samudrayoḥ~~
-{{description>of the River Sindhu and the sea.}}
+---json
+{
+    "name":"samudrayoḥ",
+    "h1":"samudrayoḥ",
+    "title":"samudrayoḥ",
+    "description":"of the River Sindhu and the sea."
+}
+---
 
 ==== sindhu-samudrayoḥ  ====
   * of the River Sindhu and the sea --- [[books:sb:6:5:3|SB 6.5.3]]

@@ -1,5 +1,11 @@
-~~Title:śakyam~~
-{{description>able to see; is able; possible.}}
+---json
+{
+    "name":"śakyam",
+    "h1":"śakyam",
+    "title":"śakyam",
+    "description":"able to see; is able; possible."
+}
+---
 
 ==== śakyam  ====
   * able to see --- [[books:bg:11:4|Bg. 11.4]]

@@ -1,5 +1,11 @@
-~~Title:pacāt~~
-{{description>including even the dog-eaters.}}
+---json
+{
+    "name":"pacāt",
+    "h1":"pacāt",
+    "title":"pacāt",
+    "description":"including even the dog-eaters."
+}
+---
 
 ==== āśva-pacāt  ====
   * including even the dog-eaters --- [[books:sb:3:16:6|SB 3.16.6]]

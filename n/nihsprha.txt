@@ -1,5 +1,11 @@
-~~Title:niḥspṛhā~~
-{{description>unattached.}}
+---json
+{
+    "name":"niḥspṛhā",
+    "h1":"niḥspṛhā",
+    "title":"niḥspṛhā",
+    "description":"unattached."
+}
+---
 
 ==== niḥspṛhā  ====
   * unattached --- [[books:sb:3:33:22|SB 3.33.22]]

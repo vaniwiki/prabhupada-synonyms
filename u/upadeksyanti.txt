@@ -1,5 +1,11 @@
-~~Title:upadekṣyanti~~
-{{description>initiate.}}
+---json
+{
+    "name":"upadekṣyanti",
+    "h1":"upadekṣyanti",
+    "title":"upadekṣyanti",
+    "description":"initiate."
+}
+---
 
 ==== upadekṣyanti  ====
   * initiate --- [[books:bg:4:34|Bg. 4.34]]

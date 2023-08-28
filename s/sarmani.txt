@@ -1,5 +1,11 @@
-~~Title:śarmaṇi~~
-{{description>in peace.}}
+---json
+{
+    "name":"śarmaṇi",
+    "h1":"śarmaṇi",
+    "title":"śarmaṇi",
+    "description":"in peace."
+}
+---
 
 ==== śarmaṇi  ====
   * in peace --- [[books:sb:3:18:28|SB 3.18.28]]

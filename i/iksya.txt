@@ -1,5 +1,11 @@
-~~Title:īkṣya~~
-{{description>by seeing.}}
+---json
+{
+    "name":"īkṣya",
+    "h1":"īkṣya",
+    "title":"īkṣya",
+    "description":"by seeing."
+}
+---
 
 ==== īkṣya  ====
   * by seeing --- [[books:sb:3:15:22|SB 3.15.22]]

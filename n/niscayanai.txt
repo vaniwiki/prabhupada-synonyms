@@ -1,5 +1,11 @@
-~~Title:niścayanāi~~
-{{description>there is no certainty.}}
+---json
+{
+    "name":"niścayanāi",
+    "h1":"niścayanāi",
+    "title":"niścayanāi",
+    "description":"there is no certainty."
+}
+---
 
 ==== niścayanāi  ====
   * there is no certainty --- [[books:cc:antya:6:26|Antya 6.26]]

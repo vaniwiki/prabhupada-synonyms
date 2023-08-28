@@ -1,5 +1,11 @@
-~~Title:nāyakān~~
-{{description>his own captains and commanders.}}
+---json
+{
+    "name":"nāyakān",
+    "h1":"nāyakān",
+    "title":"nāyakān",
+    "description":"his own captains and commanders."
+}
+---
 
 ==== sva-nāyakān  ====
   * his own captains and commanders --- [[books:sb:8:6:28|SB 8.6.28]]

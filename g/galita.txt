@@ -1,5 +1,11 @@
-~~Title:galita~~
-{{description>acute.}}
+---json
+{
+    "name":"galita",
+    "h1":"galita",
+    "title":"galita",
+    "description":"acute."
+}
+---
 
 ==== galita  ====
   * acute --- [[books:cc:madhya:7:136|Madhya 7.136]]

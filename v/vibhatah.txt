@@ -1,5 +1,11 @@
-~~Title:vibhātāḥ~~
-{{description>independently of You.}}
+---json
+{
+    "name":"vibhātāḥ",
+    "h1":"vibhātāḥ",
+    "title":"vibhātāḥ",
+    "description":"independently of You."
+}
+---
 
 ==== pṛthak-vibhātāḥ  ====
   * independently of You --- [[books:sb:8:6:15|SB 8.6.15]]

@@ -1,5 +1,11 @@
-~~Title:aprajayā~~
-{{description>who had not given birth to any children.}}
+---json
+{
+    "name":"aprajayā",
+    "h1":"aprajayā",
+    "title":"aprajayā",
+    "description":"who had not given birth to any children."
+}
+---
 
 ==== aprajayā  ====
   * who had not given birth to any children --- [[books:sb:5:3:1|SB 5.3.1]]

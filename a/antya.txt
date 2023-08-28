@@ -1,5 +1,11 @@
-~~Title:antya~~
-{{description>final; last; the final.}}
+---json
+{
+    "name":"antya",
+    "h1":"antya",
+    "title":"antya",
+    "description":"final; last; the final."
+}
+---
 
 ==== antya  ====
   * final --- [[books:cc:antya:1:11|Antya 1.11]]

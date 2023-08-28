@@ -1,5 +1,11 @@
-~~Title:jahyām~~
-{{description>I shall give up.}}
+---json
+{
+    "name":"jahyām",
+    "h1":"jahyām",
+    "title":"jahyām",
+    "description":"I shall give up."
+}
+---
 
 ==== jahyām  ====
   * I shall give up --- [[books:cc:antya:4:63|Antya 4.63]]

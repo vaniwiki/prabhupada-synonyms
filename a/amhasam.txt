@@ -1,5 +1,11 @@
-~~Title:amhasam~~
-{{description>offense.}}
+---json
+{
+    "name":"amhasam",
+    "h1":"amhasam",
+    "title":"amhasam",
+    "description":"offense."
+}
+---
 
 ==== aṁhasam  ====
   * offense --- [[books:sb:3:14:34|SB 3.14.34]]

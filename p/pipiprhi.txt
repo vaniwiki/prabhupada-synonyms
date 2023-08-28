@@ -1,5 +1,11 @@
-~~Title:pipīpṛhi~~
-{{description>just fulfill.}}
+---json
+{
+    "name":"pipīpṛhi",
+    "h1":"pipīpṛhi",
+    "title":"pipīpṛhi",
+    "description":"just fulfill."
+}
+---
 
 ==== pipīpṛhi  ====
   * just fulfill --- [[books:sb:4:19:38|SB 4.19.38]]

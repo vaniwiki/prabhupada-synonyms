@@ -1,5 +1,11 @@
-~~Title:anupatan~~
-{{description>going up.}}
+---json
+{
+    "name":"anupatan",
+    "h1":"anupatan",
+    "title":"anupatan",
+    "description":"going up."
+}
+---
 
 ==== anupatan agāt  ====
   * going up --- [[books:sb:3:11:5|SB 3.11.5]]

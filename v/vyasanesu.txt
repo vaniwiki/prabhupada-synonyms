@@ -1,5 +1,11 @@
-~~Title:vyasaneṣu~~
-{{description>in dangerous conditions.}}
+---json
+{
+    "name":"vyasaneṣu",
+    "h1":"vyasaneṣu",
+    "title":"vyasaneṣu",
+    "description":"in dangerous conditions."
+}
+---
 
 ==== vyasaneṣu  ====
   * in dangerous conditions --- [[books:sb:7:4:33|SB 7.4.33]]

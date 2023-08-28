@@ -1,5 +1,11 @@
-~~Title:bhalandanaḥ~~
-{{description>by the name Bhalandana.}}
+---json
+{
+    "name":"bhalandanaḥ",
+    "h1":"bhalandanaḥ",
+    "title":"bhalandanaḥ",
+    "description":"by the name Bhalandana."
+}
+---
 
 ==== bhalandanaḥ  ====
   * by the name Bhalandana --- [[books:sb:9:2:23-24|SB 9.2.23-24]]

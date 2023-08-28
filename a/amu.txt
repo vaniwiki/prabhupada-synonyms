@@ -1,5 +1,11 @@
-~~Title:amū~~
-{{description>those.}}
+---json
+{
+    "name":"amū",
+    "h1":"amū",
+    "title":"amū",
+    "description":"those."
+}
+---
 
 ==== amū  ====
   * those --- [[books:sb:9:24:9|SB 9.24.9]]

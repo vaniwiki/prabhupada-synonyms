@@ -1,5 +1,11 @@
-~~Title:adhukṣan~~
-{{description>milked out.}}
+---json
+{
+    "name":"adhukṣan",
+    "h1":"adhukṣan",
+    "title":"adhukṣan",
+    "description":"milked out."
+}
+---
 
 ==== adhukṣan  ====
   * milked out --- [[books:sb:4:18:17|SB 4.18.17]], [[books:sb:4:18:23-24|SB 4.18.23-24]]

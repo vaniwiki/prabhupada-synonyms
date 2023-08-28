@@ -1,5 +1,11 @@
-~~Title:prahrādāya~~
-{{description>Prahlāda Mahārāja; unto Prahlāda Mahārāja.}}
+---json
+{
+    "name":"prahrādāya",
+    "h1":"prahrādāya",
+    "title":"prahrādāya",
+    "description":"Prahlāda Mahārāja; unto Prahlāda Mahārāja."
+}
+---
 
 ==== prahrādāya  ====
   * Prahlāda Mahārāja --- [[books:sb:7:4:28|SB 7.4.28]]

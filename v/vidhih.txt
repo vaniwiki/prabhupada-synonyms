@@ -1,5 +1,11 @@
-~~Title:vidhiḥ~~
-{{description>procedures; process; regulative principles; ritualistic ceremony; rules and regulations; the procedure.}}
+---json
+{
+    "name":"vidhiḥ",
+    "h1":"vidhiḥ",
+    "title":"vidhiḥ",
+    "description":"procedures; process; regulative principles; ritualistic ceremony; rules and regulations; the procedure."
+}
+---
 
 ==== vidhiḥ  ====
   * procedures --- [[books:sb:2:8:21|SB 2.8.21]]

@@ -1,5 +1,11 @@
-~~Title:viṣera~~
-{{description>of poison; of the poison.}}
+---json
+{
+    "name":"viṣera",
+    "h1":"viṣera",
+    "title":"viṣera",
+    "description":"of poison; of the poison."
+}
+---
 
 ==== viṣera  ====
   * of poison --- [[books:cc:madhya:11:7|Madhya 11.7]]

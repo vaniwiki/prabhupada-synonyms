@@ -1,5 +1,11 @@
-~~Title:viviśuḥ~~
-{{description>entered.}}
+---json
+{
+    "name":"viviśuḥ",
+    "h1":"viviśuḥ",
+    "title":"viviśuḥ",
+    "description":"entered."
+}
+---
 
 ==== viviśuḥ  ====
   * entered --- [[books:sb:3:6:17|SB 3.6.17]], [[books:sb:3:6:18|SB 3.6.18]], [[books:sb:8:10:10-12|SB 8.10.10-12]], [[books:sb:10:13:12|SB 10.13.12]]

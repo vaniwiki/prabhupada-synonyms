@@ -1,5 +1,11 @@
-~~Title:tirodhatte~~
-{{description>diminishes.}}
+---json
+{
+    "name":"tirodhatte",
+    "h1":"tirodhatte",
+    "title":"tirodhatte",
+    "description":"diminishes."
+}
+---
 
 ==== tirodhatte  ====
   * diminishes --- [[books:sb:3:7:12|SB 3.7.12]]

@@ -1,5 +1,11 @@
-~~Title:dānava~~
-{{description>ghosts; O demon; the demons; with the demons.}}
+---json
+{
+    "name":"dānava",
+    "h1":"dānava",
+    "title":"dānava",
+    "description":"ghosts; O demon; the demons; with the demons."
+}
+---
 
 ==== dānava  ====
   * ghosts --- [[books:sb:5:24:8|SB 5.24.8]]

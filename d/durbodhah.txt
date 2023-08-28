@@ -1,5 +1,11 @@
-~~Title:durbodhaḥ~~
-{{description>not understandable.}}
+---json
+{
+    "name":"durbodhaḥ",
+    "h1":"durbodhaḥ",
+    "title":"durbodhaḥ",
+    "description":"not understandable."
+}
+---
 
 ==== durbodhaḥ  ====
   * not understandable --- [[books:sb:4:22:58|SB 4.22.58]]

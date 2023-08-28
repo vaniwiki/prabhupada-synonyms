@@ -1,5 +1,11 @@
-~~Title:virajena~~
-{{description>by the purified; without infection; without material passion.}}
+---json
+{
+    "name":"virajena",
+    "h1":"virajena",
+    "title":"virajena",
+    "description":"by the purified; without infection; without material passion."
+}
+---
 
 ==== virajena  ====
   * by the purified --- [[books:sb:2:2:25|SB 2.2.25]]

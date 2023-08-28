@@ -1,5 +1,11 @@
-~~Title:aṅkitāni~~
-{{description>depicted.}}
+---json
+{
+    "name":"aṅkitāni",
+    "h1":"aṅkitāni",
+    "title":"aṅkitāni",
+    "description":"depicted."
+}
+---
 
 ==== aṅkitāni  ====
   * depicted --- [[books:sb:1:5:11|SB 1.5.11]]

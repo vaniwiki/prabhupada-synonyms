@@ -1,5 +1,11 @@
-~~Title:muṣṭibhiḥ~~
-{{description>with bunches of sticks; with his fists.}}
+---json
+{
+    "name":"muṣṭibhiḥ",
+    "h1":"muṣṭibhiḥ",
+    "title":"muṣṭibhiḥ",
+    "description":"with bunches of sticks; with his fists."
+}
+---
 
 ==== muṣṭibhiḥ  ====
   * with bunches of sticks --- [[books:sb:1:15:22-23|SB 1.15.22-23]]

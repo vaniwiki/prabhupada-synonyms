@@ -1,5 +1,11 @@
-~~Title:vanditaiḥ~~
-{{description>by Lord Brahmā and Lord Śiva, who are praised by all the inhabitants of the three worlds.}}
+---json
+{
+    "name":"vanditaiḥ",
+    "h1":"vanditaiḥ",
+    "title":"vanditaiḥ",
+    "description":"by Lord Brahmā and Lord Śiva, who are praised by all the inhabitants of the three worlds."
+}
+---
 
 ==== loka-vanditaiḥ  ====
   * by Lord Brahmā and Lord Śiva, who are praised by all the inhabitants of the three worlds --- [[books:sb:10:6:37-38|SB 10.6.37-38]]

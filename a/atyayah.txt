@@ -1,5 +1,11 @@
-~~Title:atyayaḥ~~
-{{description>passing away.}}
+---json
+{
+    "name":"atyayaḥ",
+    "h1":"atyayaḥ",
+    "title":"atyayaḥ",
+    "description":"passing away."
+}
+---
 
 ==== atyayaḥ  ====
   * passing away --- [[books:sb:4:31:16|SB 4.31.16]]

@@ -1,5 +1,11 @@
-~~Title:dityā~~
-{{description>by Diti.}}
+---json
+{
+    "name":"dityā",
+    "h1":"dityā",
+    "title":"dityā",
+    "description":"by Diti."
+}
+---
 
 ==== dityā  ====
   * by Diti --- [[books:sb:6:18:66-67|SB 6.18.66-67]]

@@ -1,5 +1,11 @@
-~~Title:mūtrayoḥ~~
-{{description>of stools and urine.}}
+---json
+{
+    "name":"mūtrayoḥ",
+    "h1":"mūtrayoḥ",
+    "title":"mūtrayoḥ",
+    "description":"of stools and urine."
+}
+---
 
 ==== viṭ-mūtrayoḥ  ====
   * of stools and urine --- [[books:sb:3:31:5|SB 3.31.5]]

@@ -1,5 +1,11 @@
-~~Title:mahīyān~~
-{{description>powerful.}}
+---json
+{
+    "name":"mahīyān",
+    "h1":"mahīyān",
+    "title":"mahīyān",
+    "description":"powerful."
+}
+---
 
 ==== mahīyān  ====
   * powerful --- [[books:sb:10:3:26|SB 10.3.26]]

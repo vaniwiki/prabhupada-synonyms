@@ -1,5 +1,11 @@
-~~Title:parakāśe~~
-{{description>manifests.}}
+---json
+{
+    "name":"parakāśe",
+    "h1":"parakāśe",
+    "title":"parakāśe",
+    "description":"manifests."
+}
+---
 
 ==== parakāśe  ====
   * manifests --- [[books:cc:madhya:20:241|Madhya 20.241]]

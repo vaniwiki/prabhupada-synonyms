@@ -1,5 +1,11 @@
-~~Title:goṅphāte~~
-{{description>sitting in his cave.}}
+---json
+{
+    "name":"goṅphāte",
+    "h1":"goṅphāte",
+    "title":"goṅphāte",
+    "description":"sitting in his cave."
+}
+---
 
 ==== goṅphāte vasiyā  ====
   * sitting in his cave --- [[books:cc:antya:3:229|Antya 3.229]]

@@ -1,5 +1,11 @@
-~~Title:isat~~
-{{description>from the Supreme Personality of Godhead, Kṛṣṇa.}}
+---json
+{
+    "name":"isat",
+    "h1":"isat",
+    "title":"isat",
+    "description":"from the Supreme Personality of Godhead, Kṛṣṇa."
+}
+---
 
 ==== īśāt  ====
   * from the Supreme Personality of Godhead, Kṛṣṇa --- [[books:cc:madhya:20:119|Madhya 20.119]], [[books:cc:madhya:24:137|Madhya 24.137]], [[books:cc:madhya:25:138|Madhya 25.138]]

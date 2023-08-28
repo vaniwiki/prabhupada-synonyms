@@ -1,5 +1,11 @@
-~~Title:cittaiḥ~~
-{{description>by the consciousness.}}
+---json
+{
+    "name":"cittaiḥ",
+    "h1":"cittaiḥ",
+    "title":"cittaiḥ",
+    "description":"by the consciousness."
+}
+---
 
 ==== cittaiḥ  ====
   * by the consciousness --- [[books:sb:7:3:29|SB 7.3.29]]

@@ -1,5 +1,11 @@
-~~Title:saṁsaran~~
-{{description>rotating in the cycle of birth and death.}}
+---json
+{
+    "name":"saṁsaran",
+    "h1":"saṁsaran",
+    "title":"saṁsaran",
+    "description":"rotating in the cycle of birth and death."
+}
+---
 
 ==== saṁsaran  ====
   * rotating in the cycle of birth and death --- [[books:sb:8:22:25|SB 8.22.25]]

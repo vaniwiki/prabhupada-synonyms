@@ -1,5 +1,11 @@
-~~Title:tāsu~~
-{{description>in all of them; in so many wives; in that; in the water; in them; to every one of them; unto them.}}
+---json
+{
+    "name":"tāsu",
+    "h1":"tāsu",
+    "title":"tāsu",
+    "description":"in all of them; in so many wives; in that; in the water; in them; to every one of them; unto them."
+}
+---
 
 ==== tāsu  ====
   * in all of them --- [[books:sb:5:21:7|SB 5.21.7]]

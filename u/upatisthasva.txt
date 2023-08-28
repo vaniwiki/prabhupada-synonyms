@@ -1,5 +1,11 @@
-~~Title:upatiṣṭhasva~~
-{{description>just try to worship.}}
+---json
+{
+    "name":"upatiṣṭhasva",
+    "h1":"upatiṣṭhasva",
+    "title":"upatiṣṭhasva",
+    "description":"just try to worship."
+}
+---
 
 ==== upatiṣṭhasva  ====
   * just try to worship --- [[books:sb:8:16:20|SB 8.16.20]]

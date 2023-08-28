@@ -1,5 +1,11 @@
-~~Title:prāpnuvanti~~
-{{description>achieve.}}
+---json
+{
+    "name":"prāpnuvanti",
+    "h1":"prāpnuvanti",
+    "title":"prāpnuvanti",
+    "description":"achieve."
+}
+---
 
 ==== prāpnuvanti  ====
   * achieve --- [[books:bg:12:3-4|Bg. 12.3-4]]

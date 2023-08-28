@@ -1,5 +1,11 @@
-~~Title:sthāpiyāche~~
-{{description>established; has established; he established.}}
+---json
+{
+    "name":"sthāpiyāche",
+    "h1":"sthāpiyāche",
+    "title":"sthāpiyāche",
+    "description":"established; has established; he established."
+}
+---
 
 ==== sthāpiyāche  ====
   * established --- [[books:cc:madhya:18:189|Madhya 18.189]]

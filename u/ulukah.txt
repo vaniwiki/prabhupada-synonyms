@@ -1,5 +1,11 @@
-~~Title:ulūkaḥ~~
-{{description>owl.}}
+---json
+{
+    "name":"ulūkaḥ",
+    "h1":"ulūkaḥ",
+    "title":"ulūkaḥ",
+    "description":"owl."
+}
+---
 
 ==== ulūkaḥ  ====
   * owl --- [[books:sb:1:14:14|SB 1.14.14]]

@@ -1,5 +1,11 @@
-~~Title:tārkṣya~~
-{{description>Garuḍa; of Garuḍa.}}
+---json
+{
+    "name":"tārkṣya",
+    "h1":"tārkṣya",
+    "title":"tārkṣya",
+    "description":"Garuḍa; of Garuḍa."
+}
+---
 
 ==== tārkṣya  ====
   * Garuḍa --- [[books:sb:3:17:22|SB 3.17.22]]

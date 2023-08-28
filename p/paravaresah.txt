@@ -1,5 +1,11 @@
-~~Title:parāvareśaḥ~~
-{{description>the controller of the material and spiritual worlds.}}
+---json
+{
+    "name":"parāvareśaḥ",
+    "h1":"parāvareśaḥ",
+    "title":"parāvareśaḥ",
+    "description":"the controller of the material and spiritual worlds."
+}
+---
 
 ==== parāvareśaḥ  ====
   * the controller of the material and spiritual worlds --- [[books:sb:1:5:6|SB 1.5.6]]

@@ -1,5 +1,11 @@
-~~Title:upayeme~~
-{{description>he married; later married; married.}}
+---json
+{
+    "name":"upayeme",
+    "h1":"upayeme",
+    "title":"upayeme",
+    "description":"he married; later married; married."
+}
+---
 
 ==== upayeme  ====
   * he married --- [[books:sb:9:20:16|SB 9.20.16]]

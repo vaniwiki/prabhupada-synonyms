@@ -1,5 +1,11 @@
-~~Title:anucaratīm~~
-{{description>who follows Him.}}
+---json
+{
+    "name":"anucaratīm",
+    "h1":"anucaratīm",
+    "title":"anucaratīm",
+    "description":"who follows Him."
+}
+---
 
 ==== anucaratīm  ====
   * who follows Him --- [[books:sb:4:31:22|SB 4.31.22]]

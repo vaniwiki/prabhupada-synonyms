@@ -1,5 +1,11 @@
-~~Title:dhama~~
-{{description>a plenary expansion; abode; abodes; are situated; for the topmost planet; Her bodily luster; incarnation; is the reservoir; place; planets; refuge; reservoir; shelter; sustenance; the abode; the glories; the place; the plenary expansion; the residence; the spiritual effulgence; the spiritual world; to His abode; to the abode; to the spiritual world; which is the place of repose.}}
+---json
+{
+    "name":"dhama",
+    "h1":"dhama",
+    "title":"dhama",
+    "description":"a plenary expansion; abode; abodes; are situated; for the topmost planet; Her bodily luster; incarnation; is the reservoir; place; planets; refuge; reservoir; shelter; sustenance; the abode; the glories; the place; the plenary expansion; the residence; the spiritual effulgence; the spiritual world; to His abode; to the abode; to the spiritual world; which is the place of repose."
+}
+---
 
 ==== dhāma  ====
   * a plenary expansion --- [[books:sb:10:2:4-5|SB 10.2.4-5]]

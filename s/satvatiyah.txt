@@ -1,5 +1,11 @@
-~~Title:sātvatīyāḥ~~
-{{description>the devotees.}}
+---json
+{
+    "name":"sātvatīyāḥ",
+    "h1":"sātvatīyāḥ",
+    "title":"sātvatīyāḥ",
+    "description":"the devotees."
+}
+---
 
 ==== sātvatīyāḥ  ====
   * the devotees --- [[books:sb:5:25:1|SB 5.25.1]]

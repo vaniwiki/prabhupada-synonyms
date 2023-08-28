@@ -1,5 +1,11 @@
-~~Title:bahir~~
-{{description>outside the door; the outside door; to the outside door.}}
+---json
+{
+    "name":"bahir",
+    "h1":"bahir",
+    "title":"bahir",
+    "description":"outside the door; the outside door; to the outside door."
+}
+---
 
 ==== bahir-dvāre  ====
   * outside the door --- [[books:cc:madhya:12:162|Madhya 12.162]]

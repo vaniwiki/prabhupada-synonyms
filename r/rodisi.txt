@@ -1,5 +1,11 @@
-~~Title:rodiṣi~~
-{{description>crying.}}
+---json
+{
+    "name":"rodiṣi",
+    "h1":"rodiṣi",
+    "title":"rodiṣi",
+    "description":"crying."
+}
+---
 
 ==== rodiṣi  ====
   * crying --- [[books:sb:1:18:40|SB 1.18.40]]

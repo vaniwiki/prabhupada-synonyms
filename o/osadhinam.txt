@@ -1,5 +1,11 @@
-~~Title:oṣadhīnām~~
-{{description>of all medicinal herbs.}}
+---json
+{
+    "name":"oṣadhīnām",
+    "h1":"oṣadhīnām",
+    "title":"oṣadhīnām",
+    "description":"of all medicinal herbs."
+}
+---
 
 ==== oṣadhīnām  ====
   * of all medicinal herbs --- [[books:sb:2:6:2|SB 2.6.2]]

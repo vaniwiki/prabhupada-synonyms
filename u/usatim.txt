@@ -1,5 +1,11 @@
-~~Title:uśatīm~~
-{{description>glorious; lovely; very beautiful; very pleasing.}}
+---json
+{
+    "name":"uśatīm",
+    "h1":"uśatīm",
+    "title":"uśatīm",
+    "description":"glorious; lovely; very beautiful; very pleasing."
+}
+---
 
 ==== uśatīm  ====
   * glorious --- [[books:sb:2:7:20|SB 2.7.20]]

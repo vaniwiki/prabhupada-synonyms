@@ -1,5 +1,11 @@
-~~Title:netraya~~
-{{description>her eyes.}}
+---json
+{
+    "name":"netraya",
+    "h1":"netraya",
+    "title":"netraya",
+    "description":"her eyes."
+}
+---
 
 ==== netrayā  ====
   * her eyes --- [[books:sb:6:1:58-60|SB 6.1.58-60]]

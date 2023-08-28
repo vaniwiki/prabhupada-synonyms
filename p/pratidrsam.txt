@@ -1,5 +1,11 @@
-~~Title:pratidṛśam~~
-{{description>in every direction.}}
+---json
+{
+    "name":"pratidṛśam",
+    "h1":"pratidṛśam",
+    "title":"pratidṛśam",
+    "description":"in every direction."
+}
+---
 
 ==== pratidṛśam  ====
   * in every direction --- [[books:sb:1:9:42|SB 1.9.42]]

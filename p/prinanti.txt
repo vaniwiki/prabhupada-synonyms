@@ -1,5 +1,11 @@
-~~Title:prīṇanti~~
-{{description>try to please.}}
+---json
+{
+    "name":"prīṇanti",
+    "h1":"prīṇanti",
+    "title":"prīṇanti",
+    "description":"try to please."
+}
+---
 
 ==== prīṇanti  ====
   * try to please --- [[books:sb:7:9:54|SB 7.9.54]]

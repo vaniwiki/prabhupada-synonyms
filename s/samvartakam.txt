@@ -1,5 +1,11 @@
-~~Title:sāṁvartakam~~
-{{description>the name of the fire which devastates during the annihilation of the universe.}}
+---json
+{
+    "name":"sāṁvartakam",
+    "h1":"sāṁvartakam",
+    "title":"sāṁvartakam",
+    "description":"the name of the fire which devastates during the annihilation of the universe."
+}
+---
 
 ==== sāṁvartakam  ====
   * the name of the fire which devastates during the annihilation of the universe --- [[books:sb:1:7:31|SB 1.7.31]]

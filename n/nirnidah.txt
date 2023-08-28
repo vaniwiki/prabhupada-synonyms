@@ -1,5 +1,11 @@
-~~Title:nirnīḍaḥ~~
-{{description>without bird nests.}}
+---json
+{
+    "name":"nirnīḍaḥ",
+    "h1":"nirnīḍaḥ",
+    "title":"nirnīḍaḥ",
+    "description":"without bird nests."
+}
+---
 
 ==== nirnīḍaḥ  ====
   * without bird nests --- [[books:sb:4:6:32|SB 4.6.32]]

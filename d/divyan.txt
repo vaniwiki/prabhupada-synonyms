@@ -1,5 +1,11 @@
-~~Title:divyan~~
-{{description>celestial; divine; happenings in the sky or by planetary influence; of the heavenly world; transcendental.}}
+---json
+{
+    "name":"divyan",
+    "h1":"divyan",
+    "title":"divyan",
+    "description":"celestial; divine; happenings in the sky or by planetary influence; of the heavenly world; transcendental."
+}
+---
 
 ==== divyān  ====
   * celestial --- [[books:bg:9:20|Bg. 9.20]]

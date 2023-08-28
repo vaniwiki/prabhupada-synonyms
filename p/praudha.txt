@@ -1,5 +1,11 @@
-~~Title:prauḍha~~
-{{description>deep; full; matured.}}
+---json
+{
+    "name":"prauḍha",
+    "h1":"prauḍha",
+    "title":"prauḍha",
+    "description":"deep; full; matured."
+}
+---
 
 ==== prauḍha  ====
   * deep --- [[books:cc:madhya:22:66|Madhya 22.66]]

@@ -1,5 +1,11 @@
-~~Title:īhatām~~
-{{description>desiring many things.}}
+---json
+{
+    "name":"īhatām",
+    "h1":"īhatām",
+    "title":"īhatām",
+    "description":"desiring many things."
+}
+---
 
 ==== īhatām  ====
   * desiring many things --- [[books:sb:4:30:29|SB 4.30.29]]

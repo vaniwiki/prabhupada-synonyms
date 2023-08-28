@@ -1,5 +1,11 @@
-~~Title:satriṇaḥ~~
-{{description>the performers of sacrifices.}}
+---json
+{
+    "name":"satriṇaḥ",
+    "h1":"satriṇaḥ",
+    "title":"satriṇaḥ",
+    "description":"the performers of sacrifices."
+}
+---
 
 ==== satriṇaḥ  ====
   * the performers of sacrifices --- [[books:sb:4:14:7|SB 4.14.7]]

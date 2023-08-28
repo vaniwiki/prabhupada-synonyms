@@ -1,5 +1,11 @@
-~~Title:īśvarau~~
-{{description>because you two are able to do so; the two controllers.}}
+---json
+{
+    "name":"īśvarau",
+    "h1":"īśvarau",
+    "title":"īśvarau",
+    "description":"because you two are able to do so; the two controllers."
+}
+---
 
 ==== īśvarau  ====
   * because you two are able to do so --- [[books:sb:9:3:11|SB 9.3.11]]

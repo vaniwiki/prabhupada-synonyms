@@ -1,5 +1,11 @@
-~~Title:gṛdhyet~~
-{{description>would accept.}}
+---json
+{
+    "name":"gṛdhyet",
+    "h1":"gṛdhyet",
+    "title":"gṛdhyet",
+    "description":"would accept."
+}
+---
 
 ==== gṛdhyet  ====
   * would accept --- [[books:sb:6:7:12|SB 6.7.12]]

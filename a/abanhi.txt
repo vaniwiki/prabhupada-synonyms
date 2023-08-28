@@ -1,5 +1,11 @@
-~~Title:abaṅhi~~
-{{description>very soon.}}
+---json
+{
+    "name":"abaṅhi",
+    "h1":"abaṅhi",
+    "title":"abaṅhi",
+    "description":"very soon."
+}
+---
 
 ==== abaṅhi  ====
   * very soon --- [[books:cc:madhya:18:170|Madhya 18.170]]

@@ -1,5 +1,11 @@
-~~Title:abhiguptān~~
-{{description>being fully protected.}}
+---json
+{
+    "name":"abhiguptān",
+    "h1":"abhiguptān",
+    "title":"abhiguptān",
+    "description":"being fully protected."
+}
+---
 
 ==== abhiguptān  ====
   * being fully protected --- [[books:sb:6:3:27|SB 6.3.27]]

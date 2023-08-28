@@ -1,5 +1,11 @@
-~~Title:ghaṣibe~~
-{{description>will grind.}}
+---json
+{
+    "name":"ghaṣibe",
+    "h1":"ghaṣibe",
+    "title":"ghaṣibe",
+    "description":"will grind."
+}
+---
 
 ==== ghaṣibe  ====
   * will grind --- [[books:cc:madhya:4:166|Madhya 4.166]]

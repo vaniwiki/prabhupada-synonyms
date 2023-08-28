@@ -1,5 +1,11 @@
-~~Title:nāmni~~
-{{description>of the name; when the name; Your holy name.}}
+---json
+{
+    "name":"nāmni",
+    "h1":"nāmni",
+    "title":"nāmni",
+    "description":"of the name; when the name; Your holy name."
+}
+---
 
 ==== nāmni  ====
   * of the name --- [[books:sb:1:18:43|SB 1.18.43]]

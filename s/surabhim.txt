@@ -1,5 +1,11 @@
-~~Title:surabhim~~
-{{description>aromatic.}}
+---json
+{
+    "name":"surabhim",
+    "h1":"surabhim",
+    "title":"surabhim",
+    "description":"aromatic."
+}
+---
 
 ==== surabhim  ====
   * aromatic --- [[books:sb:5:5:33|SB 5.5.33]]

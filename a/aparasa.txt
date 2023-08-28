@@ -1,5 +1,11 @@
-~~Title:aparaśa~~
-{{description>untouched.}}
+---json
+{
+    "name":"aparaśa",
+    "h1":"aparaśa",
+    "title":"aparaśa",
+    "description":"untouched."
+}
+---
 
 ==== aparaśa  ====
   * untouched --- [[books:cc:adi:10:142|Ādi 10.142]]

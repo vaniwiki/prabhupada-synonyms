@@ -1,5 +1,11 @@
-~~Title:śramaṇānām~~
-{{description>of the vānaprasthas.}}
+---json
+{
+    "name":"śramaṇānām",
+    "h1":"śramaṇānām",
+    "title":"śramaṇānām",
+    "description":"of the vānaprasthas."
+}
+---
 
 ==== śramaṇānām  ====
   * of the //vānaprasthas// --- [[books:sb:5:3:20|SB 5.3.20]]

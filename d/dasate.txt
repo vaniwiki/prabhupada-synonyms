@@ -1,5 +1,11 @@
-~~Title:daśāte~~
-{{description>and in circumstances.}}
+---json
+{
+    "name":"daśāte",
+    "h1":"daśāte",
+    "title":"daśāte",
+    "description":"and in circumstances."
+}
+---
 
 ==== daśāte  ====
   * and in circumstances --- [[books:cc:madhya:25:120|Madhya 25.120]]

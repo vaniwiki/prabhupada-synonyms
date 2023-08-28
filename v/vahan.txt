@@ -1,5 +1,11 @@
-~~Title:vahan~~
-{{description>carrying.}}
+---json
+{
+    "name":"vahan",
+    "h1":"vahan",
+    "title":"vahan",
+    "description":"carrying."
+}
+---
 
 ==== vahan  ====
   * carrying --- [[books:cc:madhya:23:27|Madhya 23.27]]

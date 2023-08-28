@@ -1,5 +1,11 @@
-~~Title:phalinī~~
-{{description>almost fruitful.}}
+---json
+{
+    "name":"phalinī",
+    "h1":"phalinī",
+    "title":"phalinī",
+    "description":"almost fruitful."
+}
+---
 
 ==== phalinī  ====
   * almost fruitful --- [[books:cc:antya:1:151|Antya 1.151]]

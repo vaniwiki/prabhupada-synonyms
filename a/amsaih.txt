@@ -1,5 +1,11 @@
-~~Title:aṁśaiḥ~~
-{{description>by the parts; expanding as plenary portions.}}
+---json
+{
+    "name":"aṁśaiḥ",
+    "h1":"aṁśaiḥ",
+    "title":"aṁśaiḥ",
+    "description":"by the parts; expanding as plenary portions."
+}
+---
 
 ==== aṁśaiḥ  ====
   * by the parts --- [[books:sb:1:17:24|SB 1.17.24]]

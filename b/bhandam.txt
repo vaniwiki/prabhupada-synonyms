@@ -1,5 +1,11 @@
-~~Title:bhāṇḍam~~
-{{description>sacrificial animals and pots; the pot.}}
+---json
+{
+    "name":"bhāṇḍam",
+    "h1":"bhāṇḍam",
+    "title":"bhāṇḍam",
+    "description":"sacrificial animals and pots; the pot."
+}
+---
 
 ==== bhāṇḍam  ====
   * sacrificial animals and pots --- [[books:sb:4:4:6|SB 4.4.6]]

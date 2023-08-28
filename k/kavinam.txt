@@ -1,5 +1,11 @@
-~~Title:kavīnām~~
-{{description>of all great thinkers.}}
+---json
+{
+    "name":"kavīnām",
+    "h1":"kavīnām",
+    "title":"kavīnām",
+    "description":"of all great thinkers."
+}
+---
 
 ==== kavīnām  ====
   * of all great thinkers --- [[books:bg:10:37|Bg. 10.37]]

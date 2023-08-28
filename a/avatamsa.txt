@@ -1,5 +1,11 @@
-~~Title:avataṁsa~~
-{{description>crest; ornaments; partial expansion; source.}}
+---json
+{
+    "name":"avataṁsa",
+    "h1":"avataṁsa",
+    "title":"avataṁsa",
+    "description":"crest; ornaments; partial expansion; source."
+}
+---
 
 ==== avataṁsa  ====
   * crest --- [[books:cc:adi:2:70|Ādi 2.70]]

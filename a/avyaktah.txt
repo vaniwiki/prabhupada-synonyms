@@ -1,5 +1,11 @@
-~~Title:avyaktaḥ~~
-{{description>difficult to be known; invisible; not manifested through ordinary knowledge; unmanifest; unmanifested; without being manifest.}}
+---json
+{
+    "name":"avyaktaḥ",
+    "h1":"avyaktaḥ",
+    "title":"avyaktaḥ",
+    "description":"difficult to be known; invisible; not manifested through ordinary knowledge; unmanifest; unmanifested; without being manifest."
+}
+---
 
 ==== avyaktaḥ  ====
   * difficult to be known --- [[books:sb:3:24:37|SB 3.24.37]]

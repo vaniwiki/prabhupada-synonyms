@@ -1,5 +1,11 @@
-~~Title:samāgatau~~
-{{description>arrived.}}
+---json
+{
+    "name":"samāgatau",
+    "h1":"samāgatau",
+    "title":"samāgatau",
+    "description":"arrived."
+}
+---
 
 ==== samāgatau  ====
   * arrived --- [[books:sb:6:15:10|SB 6.15.10]]

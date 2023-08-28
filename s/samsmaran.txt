@@ -1,5 +1,11 @@
-~~Title:saṁsmaran~~
-{{description>remembering; remembering again and again; remembering all these.}}
+---json
+{
+    "name":"saṁsmaran",
+    "h1":"saṁsmaran",
+    "title":"saṁsmaran",
+    "description":"remembering; remembering again and again; remembering all these."
+}
+---
 
 ==== saṁsmaran  ====
   * remembering --- [[books:sb:1:14:24|SB 1.14.24]]

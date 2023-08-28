@@ -1,5 +1,11 @@
-~~Title:seivyañjana~~
-{{description>that half-finished vegetable.}}
+---json
+{
+    "name":"seivyañjana",
+    "h1":"seivyañjana",
+    "title":"seivyañjana",
+    "description":"that half-finished vegetable."
+}
+---
 
 ==== seivyañjana  ====
   * that half-finished vegetable --- [[books:cc:madhya:3:89|Madhya 3.89]]

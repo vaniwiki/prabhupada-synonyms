@@ -1,5 +1,11 @@
-~~Title:varcasa~~
-{{description>effulgence.}}
+---json
+{
+    "name":"varcasa",
+    "h1":"varcasa",
+    "title":"varcasa",
+    "description":"effulgence."
+}
+---
 
 ==== varcasa  ====
   * effulgence --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

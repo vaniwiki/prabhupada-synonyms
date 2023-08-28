@@ -1,5 +1,11 @@
-~~Title:sthānānām~~
-{{description>of the various planets or places to live.}}
+---json
+{
+    "name":"sthānānām",
+    "h1":"sthānānām",
+    "title":"sthānānām",
+    "description":"of the various planets or places to live."
+}
+---
 
 ==== sthānānām  ====
   * of the various planets or places to live --- [[books:sb:7:10:43-44|SB 7.10.43-44]]

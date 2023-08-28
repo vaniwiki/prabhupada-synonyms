@@ -1,5 +1,11 @@
-~~Title:śatānanda~~
-{{description>named Śatānanda Khān.}}
+---json
+{
+    "name":"śatānanda",
+    "h1":"śatānanda",
+    "title":"śatānanda",
+    "description":"named Śatānanda Khān."
+}
+---
 
 ==== śatānanda-khāṅna  ====
   * named Śatānanda Khān --- [[books:cc:antya:2:88|Antya 2.88]]

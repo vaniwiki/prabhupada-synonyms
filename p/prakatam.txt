@@ -1,5 +1,11 @@
-~~Title:prakaṭam~~
-{{description>manifest.}}
+---json
+{
+    "name":"prakaṭam",
+    "h1":"prakaṭam",
+    "title":"prakaṭam",
+    "description":"manifest."
+}
+---
 
 ==== prakaṭam  ====
   * manifest --- [[books:cc:adi:1:5|Ādi 1.5]], [[books:cc:adi:4:55|Ādi 4.55]]

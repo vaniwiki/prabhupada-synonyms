@@ -1,5 +1,11 @@
-~~Title:bhugarbha~~
-{{description>of the name Bhugarbha Gosāñi.}}
+---json
+{
+    "name":"bhugarbha",
+    "h1":"bhugarbha",
+    "title":"bhugarbha",
+    "description":"of the name Bhugarbha Gosāñi."
+}
+---
 
 ==== bhugarbha gosāñi  ====
   * of the name Bhugarbha Gosāñi --- [[books:cc:adi:8:68|Ādi 8.68]]

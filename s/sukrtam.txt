@@ -1,5 +1,11 @@
-~~Title:sukṛtam~~
-{{description>auspicious; pious activities; well done.}}
+---json
+{
+    "name":"sukṛtam",
+    "h1":"sukṛtam",
+    "title":"sukṛtam",
+    "description":"auspicious; pious activities; well done."
+}
+---
 
 ==== sukṛtam  ====
   * auspicious --- [[books:sb:8:23:31|SB 8.23.31]]

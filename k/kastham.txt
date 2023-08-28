@@ -1,5 +1,11 @@
-~~Title:kāṣṭhām~~
-{{description>abode; goal; the duration of time called a kāṣṭhā; the end; the example; the plenary expansion; the situation; to the personal abode.}}
+---json
+{
+    "name":"kāṣṭhām",
+    "h1":"kāṣṭhām",
+    "title":"kāṣṭhām",
+    "description":"abode; goal; the duration of time called a kāṣṭhā; the end; the example; the plenary expansion; the situation; to the personal abode."
+}
+---
 
 ==== kāṣṭhām  ====
   * abode --- [[books:sb:1:1:23|SB 1.1.23]]

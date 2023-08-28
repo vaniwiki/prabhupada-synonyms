@@ -1,5 +1,11 @@
-~~Title:purīśvara~~
-{{description>Īśvara Purī.}}
+---json
+{
+    "name":"purīśvara",
+    "h1":"purīśvara",
+    "title":"purīśvara",
+    "description":"Īśvara Purī."
+}
+---
 
 ==== purīśvara  ====
   * Īśvara Purī --- [[books:cc:madhya:10:135|Madhya 10.135]]

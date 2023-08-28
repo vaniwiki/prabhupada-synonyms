@@ -1,5 +1,11 @@
-~~Title:sunīteḥ~~
-{{description>of Sunīti.}}
+---json
+{
+    "name":"sunīteḥ",
+    "h1":"sunīteḥ",
+    "title":"sunīteḥ",
+    "description":"of Sunīti."
+}
+---
 
 ==== sunīteḥ  ====
   * of Sunīti --- [[books:sb:4:12:41|SB 4.12.41]]

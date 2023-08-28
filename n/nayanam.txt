@@ -1,5 +1,11 @@
-~~Title:nayanam~~
-{{description>eyes; the eyes.}}
+---json
+{
+    "name":"nayanam",
+    "h1":"nayanam",
+    "title":"nayanam",
+    "description":"eyes; the eyes."
+}
+---
 
 ==== nayanam  ====
   * eyes --- [[books:bg:11:10-11|Bg. 11.10-11]]

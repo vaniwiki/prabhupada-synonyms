@@ -1,5 +1,11 @@
-~~Title:ākramaṇa~~
-{{description>attacking.}}
+---json
+{
+    "name":"ākramaṇa",
+    "h1":"ākramaṇa",
+    "title":"ākramaṇa",
+    "description":"attacking."
+}
+---
 
 ==== ākramaṇa  ====
   * attacking --- [[books:cc:madhya:24:20|Madhya 24.20]]

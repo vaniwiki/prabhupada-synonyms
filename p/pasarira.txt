@@ -1,5 +1,11 @@
-~~Title:pasārira~~
-{{description>of the shopkeepers.}}
+---json
+{
+    "name":"pasārira",
+    "h1":"pasārira",
+    "title":"pasārira",
+    "description":"of the shopkeepers."
+}
+---
 
 ==== pasārira  ====
   * of the shopkeepers --- [[books:cc:antya:6:315|Antya 6.315]]

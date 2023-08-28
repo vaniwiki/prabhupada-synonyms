@@ -1,5 +1,11 @@
-~~Title:śrāvitam~~
-{{description>to the prayer; what is said.}}
+---json
+{
+    "name":"śrāvitam",
+    "h1":"śrāvitam",
+    "title":"śrāvitam",
+    "description":"to the prayer; what is said."
+}
+---
 
 ==== śrāvitam  ====
   * to the prayer --- [[books:sb:3:22:8|SB 3.22.8]]

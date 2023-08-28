@@ -1,5 +1,11 @@
-~~Title:bhūriśaḥ~~
-{{description>greatly; manifold; many forms; sufficient; the majority of them.}}
+---json
+{
+    "name":"bhūriśaḥ",
+    "h1":"bhūriśaḥ",
+    "title":"bhūriśaḥ",
+    "description":"greatly; manifold; many forms; sufficient; the majority of them."
+}
+---
 
 ==== bhūriśaḥ  ====
   * greatly --- [[books:sb:4:11:6|SB 4.11.6]]

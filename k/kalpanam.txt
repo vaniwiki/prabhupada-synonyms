@@ -1,5 +1,11 @@
-~~Title:kalpānām~~
-{{description>who are like the demigods.}}
+---json
+{
+    "name":"kalpānām",
+    "h1":"kalpānām",
+    "title":"kalpānām",
+    "description":"who are like the demigods."
+}
+---
 
 ==== deva-kalpānām  ====
   * who are like the demigods --- [[books:sb:5:17:12|SB 5.17.12]]

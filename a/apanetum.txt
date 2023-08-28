@@ -1,5 +1,11 @@
-~~Title:apanetum~~
-{{description>to avoid.}}
+---json
+{
+    "name":"apanetum",
+    "h1":"apanetum",
+    "title":"apanetum",
+    "description":"to avoid."
+}
+---
 
 ==== apanetum  ====
   * to avoid --- [[books:mm:4|MM 4]]

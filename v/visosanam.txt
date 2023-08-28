@@ -1,5 +1,11 @@
-~~Title:viśoṣaṇam~~
-{{description>drying up.}}
+---json
+{
+    "name":"viśoṣaṇam",
+    "h1":"viśoṣaṇam",
+    "title":"viśoṣaṇam",
+    "description":"drying up."
+}
+---
 
 ==== viśoṣaṇam  ====
   * drying up --- [[books:sb:3:28:32|SB 3.28.32]]

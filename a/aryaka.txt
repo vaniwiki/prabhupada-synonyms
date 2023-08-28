@@ -1,5 +1,11 @@
-~~Title:āryakā~~
-{{description>Āryakā.}}
+---json
+{
+    "name":"āryakā",
+    "h1":"āryakā",
+    "title":"āryakā",
+    "description":"Āryakā."
+}
+---
 
 ==== āryakā  ====
   * Āryakā --- [[books:sb:5:20:21|SB 5.20.21]]

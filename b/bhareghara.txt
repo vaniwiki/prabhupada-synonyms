@@ -1,5 +1,11 @@
-~~Title:bhareghara~~
-{{description>the house filled up.}}
+---json
+{
+    "name":"bhareghara",
+    "h1":"bhareghara",
+    "title":"bhareghara",
+    "description":"the house filled up."
+}
+---
 
 ==== bhareghara  ====
   * the house filled up --- [[books:cc:adi:13:119|Ādi 13.119]]

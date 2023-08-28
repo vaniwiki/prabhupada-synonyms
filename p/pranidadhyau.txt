@@ -1,5 +1,11 @@
-~~Title:praṇidadhyau~~
-{{description>concentrated.}}
+---json
+{
+    "name":"praṇidadhyau",
+    "h1":"praṇidadhyau",
+    "title":"praṇidadhyau",
+    "description":"concentrated."
+}
+---
 
 ==== praṇidadhyau  ====
   * concentrated --- [[books:sb:1:7:3|SB 1.7.3]]

@@ -1,5 +1,11 @@
-~~Title:parimlāna~~
-{{description>dried up; emaciated.}}
+---json
+{
+    "name":"parimlāna",
+    "h1":"parimlāna",
+    "title":"parimlāna",
+    "description":"dried up; emaciated."
+}
+---
 
 ==== parimlāna  ====
   * dried up --- [[books:sb:8:7:7|SB 8.7.7]]

@@ -1,5 +1,11 @@
-~~Title:nayati~~
-{{description>brings; saves.}}
+---json
+{
+    "name":"nayati",
+    "h1":"nayati",
+    "title":"nayati",
+    "description":"brings; saves."
+}
+---
 
 ==== nayati  ====
   * brings --- [[books:cc:antya:1:169|Antya 1.169]]

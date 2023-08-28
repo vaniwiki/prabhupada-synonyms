@@ -1,5 +1,11 @@
-~~Title:harit~~
-{{description>green.}}
+---json
+{
+    "name":"harit",
+    "h1":"harit",
+    "title":"harit",
+    "description":"green."
+}
+---
 
 ==== harit  ====
   * green --- [[books:sb:8:2:4|SB 8.2.4]]

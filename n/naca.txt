@@ -1,5 +1,11 @@
-~~Title:naca~~
-{{description>nor.}}
+---json
+{
+    "name":"naca",
+    "h1":"naca",
+    "title":"naca",
+    "description":"nor."
+}
+---
 
 ==== naca  ====
   * nor --- [[books:cc:adi:6:102|Ādi 6.102]]

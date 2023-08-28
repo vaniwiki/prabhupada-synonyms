@@ -1,5 +1,11 @@
-~~Title:visrambha~~
-{{description>cause of faith (in your words).}}
+---json
+{
+    "name":"visrambha",
+    "h1":"visrambha",
+    "title":"visrambha",
+    "description":"cause of faith (in your words)."
+}
+---
 
 ==== visrambha-kāraṇam  ====
   * cause of faith (in your words) --- [[books:sb:7:6:29-30|SB 7.6.29-30]]

@@ -1,5 +1,11 @@
-~~Title:vivekī~~
-{{description>who is intelligent.}}
+---json
+{
+    "name":"vivekī",
+    "h1":"vivekī",
+    "title":"vivekī",
+    "description":"who is intelligent."
+}
+---
 
 ==== vivekī  ====
   * who is intelligent --- [[books:noi:9|NoI 9]]

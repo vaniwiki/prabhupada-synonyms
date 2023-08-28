@@ -1,5 +1,11 @@
-~~Title:kavi~~
-{{description>a poet; poet.}}
+---json
+{
+    "name":"kavi",
+    "h1":"kavi",
+    "title":"kavi",
+    "description":"a poet; poet."
+}
+---
 
 ==== kavi  ====
   * a poet --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

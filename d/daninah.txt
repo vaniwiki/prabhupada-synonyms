@@ -1,5 +1,11 @@
-~~Title:dāninaḥ~~
-{{description>and those giving charity.}}
+---json
+{
+    "name":"dāninaḥ",
+    "h1":"dāninaḥ",
+    "title":"dāninaḥ",
+    "description":"and those giving charity."
+}
+---
 
 ==== dāninaḥ  ====
   * and those giving charity --- [[books:sb:7:2:10|SB 7.2.10]]

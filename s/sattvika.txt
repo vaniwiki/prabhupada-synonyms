@@ -1,5 +1,11 @@
-~~Title:sāttvika~~
-{{description>natural; natural ecstasy; to one in goodness; transcendental; transcendental symptoms.}}
+---json
+{
+    "name":"sāttvika",
+    "h1":"sāttvika",
+    "title":"sāttvika",
+    "description":"natural; natural ecstasy; to one in goodness; transcendental; transcendental symptoms."
+}
+---
 
 ==== sāttvika  ====
   * natural --- [[books:cc:madhya:23:51|Madhya 23.51]], [[books:cc:antya:5:23|Antya 5.23]]

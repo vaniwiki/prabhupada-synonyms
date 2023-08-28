@@ -1,5 +1,11 @@
-~~Title:bhidyeta~~
-{{description>may not be influenced.}}
+---json
+{
+    "name":"bhidyeta",
+    "h1":"bhidyeta",
+    "title":"bhidyeta",
+    "description":"may not be influenced."
+}
+---
 
 ==== na bhidyeta  ====
   * may not be influenced --- [[books:sb:7:5:7|SB 7.5.7]]

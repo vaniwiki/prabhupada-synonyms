@@ -1,5 +1,11 @@
-~~Title:anuvarṇitam~~
-{{description>described; fully described; the statements about devotional life.}}
+---json
+{
+    "name":"anuvarṇitam",
+    "h1":"anuvarṇitam",
+    "title":"anuvarṇitam",
+    "description":"described; fully described; the statements about devotional life."
+}
+---
 
 ==== anuvarṇitam  ====
   * described --- [[books:sb:5:26:38|SB 5.26.38]]

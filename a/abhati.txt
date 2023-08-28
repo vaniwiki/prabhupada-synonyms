@@ -1,5 +1,11 @@
-~~Title:ābhāti~~
-{{description>appear; appears; appears to be; manifested; shines.}}
+---json
+{
+    "name":"ābhāti",
+    "h1":"ābhāti",
+    "title":"ābhāti",
+    "description":"appear; appears; appears to be; manifested; shines."
+}
+---
 
 ==== ābhāti  ====
   * appear --- [[books:sb:7:1:9|SB 7.1.9]]

@@ -1,5 +1,11 @@
-~~Title:pañcadhā~~
-{{description>for these five different objectives.}}
+---json
+{
+    "name":"pañcadhā",
+    "h1":"pañcadhā",
+    "title":"pañcadhā",
+    "description":"for these five different objectives."
+}
+---
 
 ==== pañcadhā  ====
   * for these five different objectives --- [[books:sb:8:19:37|SB 8.19.37]]

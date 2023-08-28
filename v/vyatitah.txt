@@ -1,5 +1,11 @@
-~~Title:vyatītāḥ~~
-{{description>after passing; already past.}}
+---json
+{
+    "name":"vyatītāḥ",
+    "h1":"vyatītāḥ",
+    "title":"vyatītāḥ",
+    "description":"after passing; already past."
+}
+---
 
 ==== vyatītāḥ  ====
   * after passing --- [[books:sb:1:14:2|SB 1.14.2]]

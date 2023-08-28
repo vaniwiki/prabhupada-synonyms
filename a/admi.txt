@@ -1,5 +1,11 @@
-~~Title:admi~~
-{{description>I eat.}}
+---json
+{
+    "name":"admi",
+    "h1":"admi",
+    "title":"admi",
+    "description":"I eat."
+}
+---
 
 ==== admi  ====
   * I eat --- [[books:sb:3:16:8|SB 3.16.8]]

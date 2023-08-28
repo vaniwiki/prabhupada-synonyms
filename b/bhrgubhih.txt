@@ -1,5 +1,11 @@
-~~Title:bhṛgubhiḥ~~
-{{description>by the descendants of Bhṛgu; by the descendants of Bhṛgu Muni.}}
+---json
+{
+    "name":"bhṛgubhiḥ",
+    "h1":"bhṛgubhiḥ",
+    "title":"bhṛgubhiḥ",
+    "description":"by the descendants of Bhṛgu; by the descendants of Bhṛgu Muni."
+}
+---
 
 ==== bhṛgubhiḥ  ====
   * by the descendants of Bhṛgu --- [[books:sb:8:15:28|SB 8.15.28]]

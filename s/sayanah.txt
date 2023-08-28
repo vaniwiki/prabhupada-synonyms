@@ -1,5 +1,11 @@
-~~Title:sayanah~~
-{{description>lying.}}
+---json
+{
+    "name":"sayanah",
+    "h1":"sayanah",
+    "title":"sayanah",
+    "description":"lying."
+}
+---
 
 ==== śayanaḥ  ====
   * lying --- [[books:sb:3:1:19|SB 3.1.19]]

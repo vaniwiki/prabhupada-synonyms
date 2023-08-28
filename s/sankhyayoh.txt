@@ -1,5 +1,11 @@
-~~Title:sankhyayoh~~
-{{description>hundreds of years.}}
+---json
+{
+    "name":"sankhyayoh",
+    "h1":"sankhyayoh",
+    "title":"sankhyayoh",
+    "description":"hundreds of years."
+}
+---
 
 ==== śata-saṅkhyayoḥ  ====
   * hundreds of years --- [[books:sb:3:11:20|SB 3.11.20]]

@@ -1,5 +1,11 @@
-~~Title:karu~~
-{{description>can.}}
+---json
+{
+    "name":"karu",
+    "h1":"karu",
+    "title":"karu",
+    "description":"can."
+}
+---
 
 ==== karu  ====
   * can --- [[books:cc:adi:8:60|Ādi 8.60]], [[books:cc:adi:11:7|Ādi 11.7]]

@@ -1,5 +1,11 @@
-~~Title:prāṇāyāmena~~
-{{description>by breathing exercises; by practice of the breathing exercise.}}
+---json
+{
+    "name":"prāṇāyāmena",
+    "h1":"prāṇāyāmena",
+    "title":"prāṇāyāmena",
+    "description":"by breathing exercises; by practice of the breathing exercise."
+}
+---
 
 ==== prāṇāyāmena  ====
   * by breathing exercises --- [[books:sb:4:8:44|SB 4.8.44]]

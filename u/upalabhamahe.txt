@@ -1,5 +1,11 @@
-~~Title:upalabhāmahe~~
-{{description>perceptible; we can see.}}
+---json
+{
+    "name":"upalabhāmahe",
+    "h1":"upalabhāmahe",
+    "title":"upalabhāmahe",
+    "description":"perceptible; we can see."
+}
+---
 
 ==== upalabhāmahe  ====
   * perceptible --- [[books:sb:2:10:9|SB 2.10.9]]

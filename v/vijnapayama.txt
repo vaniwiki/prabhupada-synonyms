@@ -1,5 +1,11 @@
-~~Title:vijñāpayāma~~
-{{description>we shall instruct.}}
+---json
+{
+    "name":"vijñāpayāma",
+    "h1":"vijñāpayāma",
+    "title":"vijñāpayāma",
+    "description":"we shall instruct."
+}
+---
 
 ==== vijñāpayāma  ====
   * we shall instruct --- [[books:sb:4:14:14|SB 4.14.14]]

@@ -1,5 +1,11 @@
-~~Title:paryavasita~~
-{{description>settled.}}
+---json
+{
+    "name":"paryavasita",
+    "h1":"paryavasita",
+    "title":"paryavasita",
+    "description":"settled."
+}
+---
 
 ==== paryavasita  ====
   * settled --- [[books:sb:5:9:8|SB 5.9.8]]

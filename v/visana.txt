@@ -1,5 +1,11 @@
-~~Title:viṣāṇa~~
-{{description>horn bugles; of the horns.}}
+---json
+{
+    "name":"viṣāṇa",
+    "h1":"viṣāṇa",
+    "title":"viṣāṇa",
+    "description":"horn bugles; of the horns."
+}
+---
 
 ==== viṣāṇa  ====
   * horn bugles --- [[books:sb:10:12:2|SB 10.12.2]]

@@ -1,5 +1,11 @@
-~~Title:bhārgī~~
-{{description>in the small river of the name Bhārgīnadī.}}
+---json
+{
+    "name":"bhārgī",
+    "h1":"bhārgī",
+    "title":"bhārgī",
+    "description":"in the small river of the name Bhārgīnadī."
+}
+---
 
 ==== bhārgī-nadī  ====
   * in the small river of the name Bhārgīnadī --- [[books:cc:madhya:5:141|Madhya 5.141]]

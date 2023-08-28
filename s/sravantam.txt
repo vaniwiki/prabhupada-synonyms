@@ -1,5 +1,11 @@
-~~Title:sravantam~~
-{{description>oozing out.}}
+---json
+{
+    "name":"sravantam",
+    "h1":"sravantam",
+    "title":"sravantam",
+    "description":"oozing out."
+}
+---
 
 ==== sravantam  ====
   * oozing out --- [[books:sb:5:9:18|SB 5.9.18]]

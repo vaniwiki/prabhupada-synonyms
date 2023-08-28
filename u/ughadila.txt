@@ -1,5 +1,11 @@
-~~Title:ughāḍilā~~
-{{description>uncovered.}}
+---json
+{
+    "name":"ughāḍilā",
+    "h1":"ughāḍilā",
+    "title":"ughāḍilā",
+    "description":"uncovered."
+}
+---
 
 ==== ughāḍilā  ====
   * uncovered --- [[books:cc:madhya:4:203|Madhya 4.203]]

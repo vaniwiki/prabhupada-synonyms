@@ -1,5 +1,11 @@
-~~Title:sahadevaḥ~~
-{{description>Sahadeva.}}
+---json
+{
+    "name":"sahadevaḥ",
+    "h1":"sahadevaḥ",
+    "title":"sahadevaḥ",
+    "description":"Sahadeva."
+}
+---
 
 ==== sahadevaḥ  ====
   * Sahadeva --- [[books:bg:1:16-18|Bg. 1.16-18]], [[books:sb:1:7:50|SB 1.7.50]], [[books:sb:9:12:11|SB 9.12.11]], [[books:sb:9:17:17|SB 9.17.17]], [[books:sb:9:22:1|SB 9.22.1]], [[books:sb:9:22:9|SB 9.22.9]], [[books:sb:9:22:27-28|SB 9.22.27-28]]

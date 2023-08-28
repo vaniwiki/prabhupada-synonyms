@@ -1,5 +1,11 @@
-~~Title:paureṣu~~
-{{description>as well as other members of the house.}}
+---json
+{
+    "name":"paureṣu",
+    "h1":"paureṣu",
+    "title":"paureṣu",
+    "description":"as well as other members of the house."
+}
+---
 
 ==== paureṣu api  ====
   * as well as other members of the house --- [[books:sb:10:3:48-49|SB 10.3.48-49]]

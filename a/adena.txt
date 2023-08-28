@@ -1,5 +1,11 @@
-~~Title:adena~~
-{{description>by the man-eater (Rākṣasa).}}
+---json
+{
+    "name":"adena",
+    "h1":"adena",
+    "title":"adena",
+    "description":"by the man-eater (Rākṣasa)."
+}
+---
 
 ==== puruṣa-adena  ====
   * by the man-eater (Rākṣasa) --- [[books:sb:9:9:34|SB 9.9.34]]

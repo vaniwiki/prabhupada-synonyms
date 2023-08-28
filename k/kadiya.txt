@@ -1,5 +1,11 @@
-~~Title:kādiyā~~
-{{description>snatching.}}
+---json
+{
+    "name":"kādiyā",
+    "h1":"kādiyā",
+    "title":"kādiyā",
+    "description":"snatching."
+}
+---
 
 ==== kādiyā  ====
   * snatching --- [[books:cc:adi:14:51|Ādi 14.51]]

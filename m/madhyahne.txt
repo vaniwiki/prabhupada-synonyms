@@ -1,5 +1,11 @@
-~~Title:madhyāhne~~
-{{description>at noon; in the afternoon.}}
+---json
+{
+    "name":"madhyāhne",
+    "h1":"madhyāhne",
+    "title":"madhyāhne",
+    "description":"at noon; in the afternoon."
+}
+---
 
 ==== madhyāhne  ====
   * at noon --- [[books:cc:madhya:9:327|Madhya 9.327]], [[books:cc:antya:2:109|Antya 2.109]], [[books:cc:antya:9:80|Antya 9.80]]

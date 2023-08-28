@@ -1,5 +1,11 @@
-~~Title:vṛkṣasya~~
-{{description>of a tree.}}
+---json
+{
+    "name":"vṛkṣasya",
+    "h1":"vṛkṣasya",
+    "title":"vṛkṣasya",
+    "description":"of a tree."
+}
+---
 
 ==== vṛkṣasya  ====
   * of a tree --- [[books:sb:7:7:18|SB 7.7.18]]

@@ -1,5 +1,11 @@
-~~Title:draviṇam~~
-{{description>all the wealth; of the name Draviṇa.}}
+---json
+{
+    "name":"draviṇam",
+    "h1":"draviṇam",
+    "title":"draviṇam",
+    "description":"all the wealth; of the name Draviṇa."
+}
+---
 
 ==== draviṇam  ====
   * all the wealth --- [[books:sb:9:4:11|SB 9.4.11]]

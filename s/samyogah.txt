@@ -1,5 +1,11 @@
-~~Title:saṁyogāḥ~~
-{{description>whose movements in coming and going.}}
+---json
+{
+    "name":"saṁyogāḥ",
+    "h1":"saṁyogāḥ",
+    "title":"saṁyogāḥ",
+    "description":"whose movements in coming and going."
+}
+---
 
 ==== apāya-saṁyogāḥ  ====
   * whose movements in coming and going --- [[books:sb:7:10:54-55|SB 7.10.54-55]]

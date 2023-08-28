@@ -1,5 +1,11 @@
-~~Title:vanaspati~~
-{{description>fruit trees without flowers.}}
+---json
+{
+    "name":"vanaspati",
+    "h1":"vanaspati",
+    "title":"vanaspati",
+    "description":"fruit trees without flowers."
+}
+---
 
 ==== vanaspati  ====
   * fruit trees without flowers --- [[books:sb:3:10:19|SB 3.10.19]]

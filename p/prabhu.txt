@@ -1,5 +1,11 @@
-~~Title:prabhu~~
-{{description>Caitanya Mahāprabhu; dear Lord; Lord; Lord Caitanya; Lord Caitanya Mahāprabhu; Lord Jagannātha; Lord Kṛṣṇa; Lord Nityānanda; Lord Nityānanda Prabhu; Lord Śrī Caitanya Mahāprabhu; master; my dear Lord; my Lord; Nityānanda Prabhu; O Lord; O Lord Raghunātha; O My Lord; of Lord Caitanya Mahāprabhu; of Lord Śrī Caitanya Mahāprabhu; of the Lord; of Śrī Caitanya Mahāprabhu; the Lord; the Lord's; the Lord, Śrī Caitanya Mahāprabhu; the predominator; the Supreme Lord; Śrī Caitanya; Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"prabhu",
+    "h1":"prabhu",
+    "title":"prabhu",
+    "description":"Caitanya Mahāprabhu; dear Lord; Lord; Lord Caitanya; Lord Caitanya Mahāprabhu; Lord Jagannātha; Lord Kṛṣṇa; Lord Nityānanda; Lord Nityānanda Prabhu; Lord Śrī Caitanya Mahāprabhu; master; my dear Lord; my Lord; Nityānanda Prabhu; O Lord; O Lord Raghunātha; O My Lord; of Lord Caitanya Mahāprabhu; of Lord Śrī Caitanya Mahāprabhu; of the Lord; of Śrī Caitanya Mahāprabhu; the Lord; the Lord's; the Lord, Śrī Caitanya Mahāprabhu; the predominator; the Supreme Lord; Śrī Caitanya; Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== prabhu  ====
   * Caitanya Mahāprabhu --- [[books:cc:madhya:3:60|Madhya 3.60]]

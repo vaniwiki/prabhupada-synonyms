@@ -1,5 +1,11 @@
-~~Title:viṣayāt~~
-{{description>from the sense objects.}}
+---json
+{
+    "name":"viṣayāt",
+    "h1":"viṣayāt",
+    "title":"viṣayāt",
+    "description":"from the sense objects."
+}
+---
 
 ==== viṣayāt  ====
   * from the sense objects --- [[books:sb:3:28:5|SB 3.28.5]]

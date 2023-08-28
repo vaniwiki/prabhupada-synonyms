@@ -1,5 +1,11 @@
-~~Title:nanarta~~
-{{description>danced.}}
+---json
+{
+    "name":"nanarta",
+    "h1":"nanarta",
+    "title":"nanarta",
+    "description":"danced."
+}
+---
 
 ==== nanarta  ====
   * danced --- [[books:sb:5:9:18|SB 5.9.18]], [[books:cc:madhya:13:1|Madhya 13.1]], [[books:cc:madhya:14:1|Madhya 14.1]], [[books:cc:antya:11:1|Antya 11.1]]

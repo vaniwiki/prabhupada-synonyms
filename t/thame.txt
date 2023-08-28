@@ -1,5 +1,11 @@
-~~Title:ṭhāme~~
-{{description>before Kṛṣṇa.}}
+---json
+{
+    "name":"ṭhāme",
+    "h1":"ṭhāme",
+    "title":"ṭhāme",
+    "description":"before Kṛṣṇa."
+}
+---
 
 ==== kānu-ṭhāme  ====
   * before Kṛṣṇa --- [[books:cc:madhya:8:194|Madhya 8.194]]

@@ -1,5 +1,11 @@
-~~Title:upakalpate~~
-{{description>is meant for; is suitable.}}
+---json
+{
+    "name":"upakalpate",
+    "h1":"upakalpate",
+    "title":"upakalpate",
+    "description":"is meant for; is suitable."
+}
+---
 
 ==== upakalpate  ====
   * is meant for --- [[books:sb:1:2:9|SB 1.2.9]]

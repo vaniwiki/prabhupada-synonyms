@@ -1,5 +1,11 @@
-~~Title:anyeṣu~~
-{{description>in other; unto the others.}}
+---json
+{
+    "name":"anyeṣu",
+    "h1":"anyeṣu",
+    "title":"anyeṣu",
+    "description":"in other; unto the others."
+}
+---
 
 ==== anyeṣu  ====
   * in other --- [[books:sb:3:11:21|SB 3.11.21]]

@@ -1,5 +1,11 @@
-~~Title:pāṭhāiyā~~
-{{description>sending.}}
+---json
+{
+    "name":"pāṭhāiyā",
+    "h1":"pāṭhāiyā",
+    "title":"pāṭhāiyā",
+    "description":"sending."
+}
+---
 
 ==== pāṭhāiyā  ====
   * sending --- [[books:cc:adi:13:82|Ādi 13.82]], [[books:cc:adi:17:143|Ādi 17.143]], [[books:cc:madhya:3:23|Madhya 3.23]], [[books:cc:madhya:8:299|Madhya 8.299]]

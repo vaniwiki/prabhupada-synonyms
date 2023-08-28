@@ -1,5 +1,11 @@
-~~Title:śaṁsataḥ~~
-{{description>indicating; praising.}}
+---json
+{
+    "name":"śaṁsataḥ",
+    "h1":"śaṁsataḥ",
+    "title":"śaṁsataḥ",
+    "description":"indicating; praising."
+}
+---
 
 ==== śaṁsataḥ  ====
   * indicating --- [[books:sb:1:14:10|SB 1.14.10]]

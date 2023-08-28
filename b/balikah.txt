@@ -1,5 +1,11 @@
-~~Title:bālikaḥ~~
-{{description>a son named Bālika.}}
+---json
+{
+    "name":"bālikaḥ",
+    "h1":"bālikaḥ",
+    "title":"bālikaḥ",
+    "description":"a son named Bālika."
+}
+---
 
 ==== bālikaḥ  ====
   * a son named Bālika --- [[books:sb:9:9:40|SB 9.9.40]]

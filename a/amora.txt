@@ -1,5 +1,11 @@
-~~Title:amora~~
-{{description>on my heart.}}
+---json
+{
+    "name":"amora",
+    "h1":"amora",
+    "title":"amora",
+    "description":"on my heart."
+}
+---
 
 ==== amora hṛdaya  ====
   * on my heart --- [[books:cc:adi:17:186|Ādi 17.186]]

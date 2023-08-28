@@ -1,5 +1,11 @@
-~~Title:gupte~~
-{{description>in confidence; in privacy; in private; in secret; privately.}}
+---json
+{
+    "name":"gupte",
+    "h1":"gupte",
+    "title":"gupte",
+    "description":"in confidence; in privacy; in private; in secret; privately."
+}
+---
 
 ==== gupte  ====
   * in confidence --- [[books:cc:madhya:3:16|Madhya 3.16]]

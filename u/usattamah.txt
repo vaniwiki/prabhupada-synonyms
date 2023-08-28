@@ -1,5 +1,11 @@
-~~Title:uśattamaḥ~~
-{{description>beautifully attractive; completely cleansed.}}
+---json
+{
+    "name":"uśattamaḥ",
+    "h1":"uśattamaḥ",
+    "title":"uśattamaḥ",
+    "description":"beautifully attractive; completely cleansed."
+}
+---
 
 ==== uśattamaḥ  ====
   * beautifully attractive --- [[books:sb:1:3:14|SB 1.3.14]]

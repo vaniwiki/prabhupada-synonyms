@@ -1,5 +1,11 @@
-~~Title:gokarṇe~~
-{{description>in the place named Gokarṇa.}}
+---json
+{
+    "name":"gokarṇe",
+    "h1":"gokarṇe",
+    "title":"gokarṇe",
+    "description":"in the place named Gokarṇa."
+}
+---
 
 ==== gokarṇe  ====
   * in the place named Gokarṇa --- [[books:cc:madhya:9:280|Madhya 9.280]]

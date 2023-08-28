@@ -1,5 +1,11 @@
-~~Title:vāgmiṣu~~
-{{description>eloquent.}}
+---json
+{
+    "name":"vāgmiṣu",
+    "h1":"vāgmiṣu",
+    "title":"vāgmiṣu",
+    "description":"eloquent."
+}
+---
 
 ==== vāgmiṣu  ====
   * eloquent --- [[books:sb:4:19:24-25|SB 4.19.24-25]]

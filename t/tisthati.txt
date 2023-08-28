@@ -1,5 +1,11 @@
-~~Title:tiṣṭhati~~
-{{description>exists; he used to stand; it remains; remains; resides; stands.}}
+---json
+{
+    "name":"tiṣṭhati",
+    "h1":"tiṣṭhati",
+    "title":"tiṣṭhati",
+    "description":"exists; he used to stand; it remains; remains; resides; stands."
+}
+---
 
 ==== tiṣṭhati  ====
   * exists --- [[books:bg:13:14|Bg. 13.14]]

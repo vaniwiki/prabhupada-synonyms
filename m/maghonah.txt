@@ -1,5 +1,11 @@
-~~Title:maghonaḥ~~
-{{description>Indra; of King Indra.}}
+---json
+{
+    "name":"maghonaḥ",
+    "h1":"maghonaḥ",
+    "title":"maghonaḥ",
+    "description":"Indra; of King Indra."
+}
+---
 
 ==== maghonaḥ  ====
   * Indra --- [[books:sb:6:7:16|SB 6.7.16]]

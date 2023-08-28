@@ -1,5 +1,11 @@
-~~Title:lampaṭaḥ~~
-{{description>a debauchee, who mixes with other women; being unlawfully addicted to sense gratification; debauchee; like a man attached to women; very much attached to women because of lusty desires.}}
+---json
+{
+    "name":"lampaṭaḥ",
+    "h1":"lampaṭaḥ",
+    "title":"lampaṭaḥ",
+    "description":"a debauchee, who mixes with other women; being unlawfully addicted to sense gratification; debauchee; like a man attached to women; very much attached to women because of lusty desires."
+}
+---
 
 ==== lampaṭaḥ  ====
   * a debauchee, who mixes with other women --- [[books:cc:antya:20:47|Antya 20.47]]

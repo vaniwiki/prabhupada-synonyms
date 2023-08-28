@@ -1,5 +1,11 @@
-~~Title:salila~~
-{{description>filled with tears; in the water; of water; water.}}
+---json
+{
+    "name":"salila",
+    "h1":"salila",
+    "title":"salila",
+    "description":"filled with tears; in the water; of water; water."
+}
+---
 
 ==== salila  ====
   * filled with tears --- [[books:sb:7:4:41|SB 7.4.41]]

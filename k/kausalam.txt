@@ -1,5 +1,11 @@
-~~Title:kauśalam~~
-{{description>art; dexterity; dexterity in all activities.}}
+---json
+{
+    "name":"kauśalam",
+    "h1":"kauśalam",
+    "title":"kauśalam",
+    "description":"art; dexterity; dexterity in all activities."
+}
+---
 
 ==== kauśalam  ====
   * art --- [[books:bg:2:50|Bg. 2.50]]

@@ -1,5 +1,11 @@
-~~Title:samavocata~~
-{{description>submitted.}}
+---json
+{
+    "name":"samavocata",
+    "h1":"samavocata",
+    "title":"samavocata",
+    "description":"submitted."
+}
+---
 
 ==== samavocata  ====
   * submitted --- [[books:sb:10:1:18|SB 10.1.18]]

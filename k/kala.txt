@@ -1,5 +1,11 @@
-~~Title:kala~~
-{{description>melodious.}}
+---json
+{
+    "name":"kala",
+    "h1":"kala",
+    "title":"kala",
+    "description":"melodious."
+}
+---
 
 ==== kala  ====
   * melodious --- [[books:cc:adi:2:2|Ādi 2.2]], [[books:cc:antya:4:64|Antya 4.64]]

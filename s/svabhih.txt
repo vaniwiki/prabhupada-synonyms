@@ -1,5 +1,11 @@
-~~Title:svabhih~~
-{{description>by His personal; personal.}}
+---json
+{
+    "name":"svabhih",
+    "h1":"svabhih",
+    "title":"svabhih",
+    "description":"by His personal; personal."
+}
+---
 
 ==== svābhiḥ  ====
   * by His personal --- [[books:sb:3:6:4|SB 3.6.4]]

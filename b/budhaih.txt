@@ -1,5 +1,11 @@
-~~Title:budhaiḥ~~
-{{description>by learned persons; by learned scholars.}}
+---json
+{
+    "name":"budhaiḥ",
+    "h1":"budhaiḥ",
+    "title":"budhaiḥ",
+    "description":"by learned persons; by learned scholars."
+}
+---
 
 ==== budhaiḥ  ====
   * by learned persons --- [[books:cc:madhya:23:7|Madhya 23.7]]

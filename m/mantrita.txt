@@ -1,5 +1,11 @@
-~~Title:mantrita~~
-{{description>being well advised.}}
+---json
+{
+    "name":"mantrita",
+    "h1":"mantrita",
+    "title":"mantrita",
+    "description":"being well advised."
+}
+---
 
 ==== su-mantrita  ====
   * being well advised --- [[books:sb:8:15:32|SB 8.15.32]]

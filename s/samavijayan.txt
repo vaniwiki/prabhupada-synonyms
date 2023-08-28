@@ -1,5 +1,11 @@
-~~Title:samavījayan~~
-{{description>fanned very pleasingly.}}
+---json
+{
+    "name":"samavījayan",
+    "h1":"samavījayan",
+    "title":"samavījayan",
+    "description":"fanned very pleasingly."
+}
+---
 
 ==== samavījayan  ====
   * fanned very pleasingly --- [[books:cc:adi:6:64|Ādi 6.64]]

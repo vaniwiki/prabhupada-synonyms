@@ -1,5 +1,11 @@
-~~Title:barhiṣadaḥ~~
-{{description>the Barhiṣadas.}}
+---json
+{
+    "name":"barhiṣadaḥ",
+    "h1":"barhiṣadaḥ",
+    "title":"barhiṣadaḥ",
+    "description":"the Barhiṣadas."
+}
+---
 
 ==== barhiṣadaḥ  ====
   * the Barhiṣadas --- [[books:sb:4:1:63|SB 4.1.63]]

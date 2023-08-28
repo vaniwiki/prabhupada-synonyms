@@ -1,5 +1,11 @@
-~~Title:arghya~~
-{{description>water for reception.}}
+---json
+{
+    "name":"arghya",
+    "h1":"arghya",
+    "title":"arghya",
+    "description":"water for reception."
+}
+---
 
 ==== arghya  ====
   * water for reception --- [[books:sb:1:18:28|SB 1.18.28]]

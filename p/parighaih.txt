@@ -1,5 +1,11 @@
-~~Title:parighaiḥ~~
-{{description>with iron-studded bludgeons; with the weapons named parighas.}}
+---json
+{
+    "name":"parighaiḥ",
+    "h1":"parighaiḥ",
+    "title":"parighaiḥ",
+    "description":"with iron-studded bludgeons; with the weapons named parighas."
+}
+---
 
 ==== parighaiḥ  ====
   * with iron-studded bludgeons --- [[books:sb:6:10:19-22|SB 6.10.19-22]]

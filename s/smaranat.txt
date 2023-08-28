@@ -1,5 +1,11 @@
-~~Title:smaraṇāt~~
-{{description>by remembering; from remembering; from simply remembering.}}
+---json
+{
+    "name":"smaraṇāt",
+    "h1":"smaraṇāt",
+    "title":"smaraṇāt",
+    "description":"by remembering; from remembering; from simply remembering."
+}
+---
 
 ==== smaraṇāt  ====
   * by remembering --- [[books:sb:3:33:6|SB 3.33.6]]

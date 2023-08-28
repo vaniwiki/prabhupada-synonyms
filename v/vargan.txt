@@ -1,5 +1,11 @@
-~~Title:vargān~~
-{{description>groups.}}
+---json
+{
+    "name":"vargān",
+    "h1":"vargān",
+    "title":"vargān",
+    "description":"groups."
+}
+---
 
 ==== vargān  ====
   * groups --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

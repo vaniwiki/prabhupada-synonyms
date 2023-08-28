@@ -1,5 +1,11 @@
-~~Title:habe~~
-{{description>it will be; it will be possible; it will become; should become; that will be; there will be; will be; will become; will go to; will have; will take birth; will take place; you will have.}}
+---json
+{
+    "name":"habe",
+    "h1":"habe",
+    "title":"habe",
+    "description":"it will be; it will be possible; it will become; should become; that will be; there will be; will be; will become; will go to; will have; will take birth; will take place; you will have."
+}
+---
 
 ==== habe  ====
   * it will be --- [[books:cc:adi:7:73|Ādi 7.73]]

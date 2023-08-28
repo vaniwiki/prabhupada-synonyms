@@ -1,5 +1,11 @@
-~~Title:varṇena~~
-{{description>according to the division; describes.}}
+---json
+{
+    "name":"varṇena",
+    "h1":"varṇena",
+    "title":"varṇena",
+    "description":"according to the division; describes."
+}
+---
 
 ==== varṇena  ====
   * according to the division --- [[books:sb:5:19:19|SB 5.19.19]]

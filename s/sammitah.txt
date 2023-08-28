@@ -1,5 +1,11 @@
-~~Title:sammitah~~
-{{description>measured.}}
+---json
+{
+    "name":"sammitah",
+    "h1":"sammitah",
+    "title":"sammitah",
+    "description":"measured."
+}
+---
 
 ==== sammitaḥ  ====
   * measured --- [[books:sb:5:21:14|SB 5.21.14]]

@@ -1,5 +1,11 @@
-~~Title:rucirān~~
-{{description>very pleasing and acceptable.}}
+---json
+{
+    "name":"rucirān",
+    "h1":"rucirān",
+    "title":"rucirān",
+    "description":"very pleasing and acceptable."
+}
+---
 
 ==== rucirān  ====
   * very pleasing and acceptable --- [[books:sb:7:6:11-13|SB 7.6.11-13]]

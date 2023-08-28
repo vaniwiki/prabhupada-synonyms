@@ -1,5 +1,11 @@
-~~Title:gaṇāya~~
-{{description>with my company of dogs.}}
+---json
+{
+    "name":"gaṇāya",
+    "h1":"gaṇāya",
+    "title":"gaṇāya",
+    "description":"with my company of dogs."
+}
+---
 
 ==== sa-gaṇāya  ====
   * with my company of dogs --- [[books:sb:9:21:8|SB 9.21.8]]

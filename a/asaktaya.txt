@@ -1,5 +1,11 @@
-~~Title:āsaktayā~~
-{{description>who were too attached to the family members.}}
+---json
+{
+    "name":"āsaktayā",
+    "h1":"āsaktayā",
+    "title":"āsaktayā",
+    "description":"who were too attached to the family members."
+}
+---
 
 ==== kuṭumba-āsaktayā  ====
   * who were too attached to the family members --- [[books:sb:8:16:6|SB 8.16.6]]

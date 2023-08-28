@@ -1,5 +1,11 @@
-~~Title:kurvatīnām~~
-{{description>making.}}
+---json
+{
+    "name":"kurvatīnām",
+    "h1":"kurvatīnām",
+    "title":"kurvatīnām",
+    "description":"making."
+}
+---
 
 ==== kurvatīnām  ====
   * making --- [[books:sb:10:6:39-40|SB 10.6.39-40]]

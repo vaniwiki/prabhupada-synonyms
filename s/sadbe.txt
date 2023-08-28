@@ -1,5 +1,11 @@
-~~Title:śadbe~~
-{{description>by the word stabdha ("impudent").}}
+---json
+{
+    "name":"śadbe",
+    "h1":"śadbe",
+    "title":"śadbe",
+    "description":"by the word stabdha ("impudent")."
+}
+---
 
 ==== stabdha-śadbe  ====
   * by the word //stabdha// ("impudent") --- [[books:cc:antya:5:141|Antya 5.141]]

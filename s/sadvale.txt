@@ -1,5 +1,11 @@
-~~Title:śādvale~~
-{{description>in a place of green, tender grasses.}}
+---json
+{
+    "name":"śādvale",
+    "h1":"śādvale",
+    "title":"śādvale",
+    "description":"in a place of green, tender grasses."
+}
+---
 
 ==== śādvale  ====
   * in a place of green, tender grasses --- [[books:sb:10:13:7|SB 10.13.7]]

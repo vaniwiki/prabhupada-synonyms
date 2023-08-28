@@ -1,5 +1,11 @@
-~~Title:imu~~
-{{description>I shall take.}}
+---json
+{
+    "name":"imu",
+    "h1":"imu",
+    "title":"imu",
+    "description":"I shall take."
+}
+---
 
 ==== la-imu  ====
   * I shall take --- [[books:cc:adi:17:128|Ādi 17.128]], [[books:cc:antya:3:108|Antya 3.108]]

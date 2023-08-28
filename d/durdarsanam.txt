@@ -1,5 +1,11 @@
-~~Title:durdarsanam~~
-{{description>very difficult to see.}}
+---json
+{
+    "name":"durdarsanam",
+    "h1":"durdarsanam",
+    "title":"durdarsanam",
+    "description":"very difficult to see."
+}
+---
 
 ==== durdarśanam  ====
   * very difficult to see --- [[books:sb:3:13:35|SB 3.13.35]]

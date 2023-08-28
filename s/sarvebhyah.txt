@@ -1,5 +1,11 @@
-~~Title:sarvebhyaḥ~~
-{{description>all together; of all.}}
+---json
+{
+    "name":"sarvebhyaḥ",
+    "h1":"sarvebhyaḥ",
+    "title":"sarvebhyaḥ",
+    "description":"all together; of all."
+}
+---
 
 ==== sarvebhyaḥ  ====
   * all together --- [[books:sb:3:12:39|SB 3.12.39]]

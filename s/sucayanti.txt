@@ -1,5 +1,11 @@
-~~Title:sūcayanti~~
-{{description>indicating.}}
+---json
+{
+    "name":"sūcayanti",
+    "h1":"sūcayanti",
+    "title":"sūcayanti",
+    "description":"indicating."
+}
+---
 
 ==== sūcayanti  ====
   * indicating --- [[books:sb:5:8:23|SB 5.8.23]]

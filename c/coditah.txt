@@ -1,5 +1,11 @@
-~~Title:coditah~~
-{{description>being agitated; being asked; being encouraged; being encouraged by; being inspired; being instructed; being ordered; being requested; having done; inspired; ordered; requested.}}
+---json
+{
+    "name":"coditah",
+    "h1":"coditah",
+    "title":"coditah",
+    "description":"being agitated; being asked; being encouraged; being encouraged by; being inspired; being instructed; being ordered; being requested; having done; inspired; ordered; requested."
+}
+---
 
 ==== coditaḥ  ====
   * being agitated --- [[books:sb:3:7:8|SB 3.7.8]]

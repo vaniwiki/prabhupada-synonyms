@@ -1,5 +1,11 @@
-~~Title:pratipadya~~
-{{description>accepting; by obtaining; obtaining; reaping.}}
+---json
+{
+    "name":"pratipadya",
+    "h1":"pratipadya",
+    "title":"pratipadya",
+    "description":"accepting; by obtaining; obtaining; reaping."
+}
+---
 
 ==== pratipadya  ====
   * accepting --- [[books:sb:4:21:35|SB 4.21.35]]

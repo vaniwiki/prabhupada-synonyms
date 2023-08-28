@@ -1,5 +1,11 @@
-~~Title:svaram~~
-{{description>voice.}}
+---json
+{
+    "name":"svaram",
+    "h1":"svaram",
+    "title":"svaram",
+    "description":"voice."
+}
+---
 
 ==== svaram  ====
   * voice --- [[books:sb:6:14:47|SB 6.14.47]]

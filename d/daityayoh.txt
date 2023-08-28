@@ -1,5 +1,11 @@
-~~Title:daityayoḥ~~
-{{description>of the demons (Hiraṇyākṣa and Hiraṇyakaśipu).}}
+---json
+{
+    "name":"daityayoḥ",
+    "h1":"daityayoḥ",
+    "title":"daityayoḥ",
+    "description":"of the demons (Hiraṇyākṣa and Hiraṇyakaśipu)."
+}
+---
 
 ==== daityayoḥ  ====
   * of the demons (Hiraṇyākṣa and Hiraṇyakaśipu) --- [[books:sb:7:10:42|SB 7.10.42]]

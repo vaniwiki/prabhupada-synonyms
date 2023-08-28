@@ -1,5 +1,11 @@
-~~Title:mumukṣu~~
-{{description>desiring liberation; desiring to be liberated; of those who desire liberation.}}
+---json
+{
+    "name":"mumukṣu",
+    "h1":"mumukṣu",
+    "title":"mumukṣu",
+    "description":"desiring liberation; desiring to be liberated; of those who desire liberation."
+}
+---
 
 ==== mumukṣu  ====
   * desiring liberation --- [[books:cc:antya:13:110|Antya 13.110]]

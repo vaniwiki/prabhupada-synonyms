@@ -1,5 +1,11 @@
-~~Title:rākhilena~~
-{{description>kept; they kept.}}
+---json
+{
+    "name":"rākhilena",
+    "h1":"rākhilena",
+    "title":"rākhilena",
+    "description":"kept; they kept."
+}
+---
 
 ==== rākhilena  ====
   * kept --- [[books:cc:madhya:9:204|Madhya 9.204]], [[books:cc:madhya:12:128|Madhya 12.128]], [[books:cc:antya:13:74|Antya 13.74]]

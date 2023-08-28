@@ -1,5 +1,11 @@
-~~Title:upaviṣṭam~~
-{{description>seated.}}
+---json
+{
+    "name":"upaviṣṭam",
+    "h1":"upaviṣṭam",
+    "title":"upaviṣṭam",
+    "description":"seated."
+}
+---
 
 ==== upaviṣṭam  ====
   * seated --- [[books:sb:4:6:37|SB 4.6.37]], [[books:sb:7:8:34|SB 7.8.34]]

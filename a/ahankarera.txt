@@ -1,5 +1,11 @@
-~~Title:ahaṅkārera~~
-{{description>of egotism.}}
+---json
+{
+    "name":"ahaṅkārera",
+    "h1":"ahaṅkārera",
+    "title":"ahaṅkārera",
+    "description":"of egotism."
+}
+---
 
 ==== ahaṅkārera  ====
   * of egotism --- [[books:cc:madhya:20:256|Madhya 20.256]]

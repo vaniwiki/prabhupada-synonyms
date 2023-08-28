@@ -1,5 +1,11 @@
-~~Title:dhūmaḥ~~
-{{description>smoke; the smoke; turned to smoke, or the demigod in charge of smoke.}}
+---json
+{
+    "name":"dhūmaḥ",
+    "h1":"dhūmaḥ",
+    "title":"dhūmaḥ",
+    "description":"smoke; the smoke; turned to smoke, or the demigod in charge of smoke."
+}
+---
 
 ==== dhūmaḥ  ====
   * smoke --- [[books:bg:8:25|Bg. 8.25]], [[books:sb:1:2:24|SB 1.2.24]]

@@ -1,5 +1,11 @@
-~~Title:upaśrutāni~~
-{{description>about the qualities spoken of.}}
+---json
+{
+    "name":"upaśrutāni",
+    "h1":"upaśrutāni",
+    "title":"upaśrutāni",
+    "description":"about the qualities spoken of."
+}
+---
 
 ==== upaśrutāni  ====
   * about the qualities spoken of --- [[books:sb:4:15:23|SB 4.15.23]]

@@ -1,5 +1,11 @@
-~~Title:bhedataḥ~~
-{{description>by division of.}}
+---json
+{
+    "name":"bhedataḥ",
+    "h1":"bhedataḥ",
+    "title":"bhedataḥ",
+    "description":"by division of."
+}
+---
 
 ==== bhedataḥ  ====
   * by division of --- [[books:sb:2:8:16|SB 2.8.16]]

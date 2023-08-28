@@ -1,5 +1,11 @@
-~~Title:mānayan~~
-{{description>admiring; honoring; practicing; respecting; thinking so.}}
+---json
+{
+    "name":"mānayan",
+    "h1":"mānayan",
+    "title":"mānayan",
+    "description":"admiring; honoring; practicing; respecting; thinking so."
+}
+---
 
 ==== mānayan  ====
   * admiring --- [[books:sb:3:20:45|SB 3.20.45]]

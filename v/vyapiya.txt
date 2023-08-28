@@ -1,5 +1,11 @@
-~~Title:vyāpiyā~~
-{{description>spreading all over the world.}}
+---json
+{
+    "name":"vyāpiyā",
+    "h1":"vyāpiyā",
+    "title":"vyāpiyā",
+    "description":"spreading all over the world."
+}
+---
 
 ==== jagat vyāpiyā  ====
   * spreading all over the world --- [[books:cc:adi:9:40|Ādi 9.40]]

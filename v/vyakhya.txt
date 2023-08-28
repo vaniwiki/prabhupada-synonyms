@@ -1,5 +1,11 @@
-~~Title:vyākhyā~~
-{{description>explaining the śāstras; explanation; explanations (countering the attack of the asuras); explanations.}}
+---json
+{
+    "name":"vyākhyā",
+    "h1":"vyākhyā",
+    "title":"vyākhyā",
+    "description":"explaining the śāstras; explanation; explanations (countering the attack of the asuras); explanations."
+}
+---
 
 ==== vyākhyā  ====
   * explaining the //śāstras// --- [[books:sb:7:9:46|SB 7.9.46]]

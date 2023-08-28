@@ -1,5 +1,11 @@
-~~Title:dravyamayīm~~
-{{description>physical.}}
+---json
+{
+    "name":"dravyamayīm",
+    "h1":"dravyamayīm",
+    "title":"dravyamayīm",
+    "description":"physical."
+}
+---
 
 ==== dravyamayīm  ====
   * physical --- [[books:sb:4:8:54|SB 4.8.54]]

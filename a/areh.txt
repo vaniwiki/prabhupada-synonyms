@@ -1,5 +1,11 @@
-~~Title:areḥ~~
-{{description>of the enemy; the enemy; the opposite element.}}
+---json
+{
+    "name":"areḥ",
+    "h1":"areḥ",
+    "title":"areḥ",
+    "description":"of the enemy; the enemy; the opposite element."
+}
+---
 
 ==== areḥ  ====
   * of the enemy --- [[books:sb:6:8:25|SB 6.8.25]], [[books:sb:8:10:57|SB 8.10.57]]

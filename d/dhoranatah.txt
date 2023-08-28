@@ -1,5 +1,11 @@
-~~Title:dhoraṇataḥ~~
-{{description>from his swan carrier.}}
+---json
+{
+    "name":"dhoraṇataḥ",
+    "h1":"dhoraṇataḥ",
+    "title":"dhoraṇataḥ",
+    "description":"from his swan carrier."
+}
+---
 
 ==== nija-dhoraṇataḥ  ====
   * from his swan carrier --- [[books:sb:10:13:62|SB 10.13.62]]

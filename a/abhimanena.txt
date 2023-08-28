@@ -1,5 +1,11 @@
-~~Title:abhimānena~~
-{{description>by misconception; by the false conception.}}
+---json
+{
+    "name":"abhimānena",
+    "h1":"abhimānena",
+    "title":"abhimānena",
+    "description":"by misconception; by the false conception."
+}
+---
 
 ==== abhimānena  ====
   * by misconception --- [[books:sb:3:32:12-15|SB 3.32.12-15]]

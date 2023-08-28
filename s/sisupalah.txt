@@ -1,5 +1,11 @@
-~~Title:śiśupālaḥ~~
-{{description>Śiśupāla.}}
+---json
+{
+    "name":"śiśupālaḥ",
+    "h1":"śiśupālaḥ",
+    "title":"śiśupālaḥ",
+    "description":"Śiśupāla."
+}
+---
 
 ==== śiśupālaḥ  ====
   * Śiśupāla --- [[books:sb:9:24:40|SB 9.24.40]]

@@ -1,5 +1,11 @@
-~~Title:ulkābhām~~
-{{description>like shooting stars.}}
+---json
+{
+    "name":"ulkābhām",
+    "h1":"ulkābhām",
+    "title":"ulkābhām",
+    "description":"like shooting stars."
+}
+---
 
 ==== ulkābhām  ====
   * like shooting stars --- [[books:sb:1:12:9|SB 1.12.9]]

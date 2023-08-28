@@ -1,5 +1,11 @@
-~~Title:aviśuddha~~
-{{description>unpurified.}}
+---json
+{
+    "name":"aviśuddha",
+    "h1":"aviśuddha",
+    "title":"aviśuddha",
+    "description":"unpurified."
+}
+---
 
 ==== aviśuddha  ====
   * unpurified --- [[books:sb:5:11:12|SB 5.11.12]]

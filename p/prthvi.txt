@@ -1,5 +1,11 @@
-~~Title:pṛthvī~~
-{{description>earth; the earth; the earth's.}}
+---json
+{
+    "name":"pṛthvī",
+    "h1":"pṛthvī",
+    "title":"pṛthvī",
+    "description":"earth; the earth; the earth's."
+}
+---
 
 ==== pṛthvī  ====
   * earth --- [[books:sb:3:26:44|SB 3.26.44]]

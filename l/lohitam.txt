@@ -1,5 +1,11 @@
-~~Title:lohitam~~
-{{description>blood; red.}}
+---json
+{
+    "name":"lohitam",
+    "h1":"lohitam",
+    "title":"lohitam",
+    "description":"blood; red."
+}
+---
 
 ==== lohitam  ====
   * blood --- [[books:sb:3:26:59|SB 3.26.59]]

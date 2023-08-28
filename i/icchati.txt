@@ -1,5 +1,11 @@
-~~Title:icchati~~
-{{description>desire; desires; wishes.}}
+---json
+{
+    "name":"icchati",
+    "h1":"icchati",
+    "title":"icchati",
+    "description":"desire; desires; wishes."
+}
+---
 
 ==== icchati  ====
   * desire --- [[books:sb:7:9:23|SB 7.9.23]]

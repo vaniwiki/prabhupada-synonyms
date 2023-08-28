@@ -1,5 +1,11 @@
-~~Title:āuṭi'~~
-{{description>boiling milk.}}
+---json
+{
+    "name":"āuṭi'",
+    "h1":"āuṭi'",
+    "title":"āuṭi'",
+    "description":"boiling milk."
+}
+---
 
 ==== dugdha āuṭi'  ====
   * boiling milk --- [[books:cc:madhya:14:214|Madhya 14.214]]

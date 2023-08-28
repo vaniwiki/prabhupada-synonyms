@@ -1,5 +1,11 @@
-~~Title:abhikāmān~~
-{{description>desires.}}
+---json
+{
+    "name":"abhikāmān",
+    "h1":"abhikāmān",
+    "title":"abhikāmān",
+    "description":"desires."
+}
+---
 
 ==== abhikāmān  ====
   * desires --- [[books:cc:madhya:22:96|Madhya 22.96]]

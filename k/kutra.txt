@@ -1,5 +1,11 @@
-~~Title:kutra~~
-{{description>somewhere; where; wherein.}}
+---json
+{
+    "name":"kutra",
+    "h1":"kutra",
+    "title":"kutra",
+    "description":"somewhere; where; wherein."
+}
+---
 
 ==== kutra  ====
   * somewhere --- [[books:sb:8:8:22|SB 8.8.22]]

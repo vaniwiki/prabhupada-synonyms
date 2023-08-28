@@ -1,5 +1,11 @@
-~~Title:sādhuḥ~~
-{{description>a person who is advanced in devotional service; any person who is innocent and free from sinful life; devotee; saint; well behaved (no one could find any fault in his character); who is a great saintly person.}}
+---json
+{
+    "name":"sādhuḥ",
+    "h1":"sādhuḥ",
+    "title":"sādhuḥ",
+    "description":"a person who is advanced in devotional service; any person who is innocent and free from sinful life; devotee; saint; well behaved (no one could find any fault in his character); who is a great saintly person."
+}
+---
 
 ==== sādhuḥ  ====
   * a person who is advanced in devotional service --- [[books:sb:5:11:2|SB 5.11.2]]

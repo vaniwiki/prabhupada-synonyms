@@ -1,5 +1,11 @@
-~~Title:noyāiyā~~
-{{description>bowed down.}}
+---json
+{
+    "name":"noyāiyā",
+    "h1":"noyāiyā",
+    "title":"noyāiyā",
+    "description":"bowed down."
+}
+---
 
 ==== noyāiyā  ====
   * bowed down --- [[books:cc:adi:17:144|Ādi 17.144]]

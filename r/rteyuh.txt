@@ -1,5 +1,11 @@
-~~Title:ṛteyuḥ~~
-{{description>Ṛteyu.}}
+---json
+{
+    "name":"ṛteyuḥ",
+    "h1":"ṛteyuḥ",
+    "title":"ṛteyuḥ",
+    "description":"Ṛteyu."
+}
+---
 
 ==== ṛteyuḥ  ====
   * Ṛteyu --- [[books:sb:9:20:4-5|SB 9.20.4-5]]

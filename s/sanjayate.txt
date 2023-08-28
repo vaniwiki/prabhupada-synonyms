@@ -1,5 +1,11 @@
-~~Title:sañjāyate~~
-{{description>develops; is transformed into.}}
+---json
+{
+    "name":"sañjāyate",
+    "h1":"sañjāyate",
+    "title":"sañjāyate",
+    "description":"develops; is transformed into."
+}
+---
 
 ==== sañjāyate  ====
   * develops --- [[books:bg:2:62|Bg. 2.62]], [[books:bg:14:17|Bg. 14.17]]

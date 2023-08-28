@@ -1,5 +1,11 @@
-~~Title:samrājam~~
-{{description>an emperor.}}
+---json
+{
+    "name":"samrājam",
+    "h1":"samrājam",
+    "title":"samrājam",
+    "description":"an emperor."
+}
+---
 
 ==== samrājam  ====
   * an emperor --- [[books:sb:8:5:37|SB 8.5.37]]

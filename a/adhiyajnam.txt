@@ -1,5 +1,11 @@
-~~Title:adhiyajñam~~
-{{description>the enjoyer of all ritualistic ceremonies; the Supreme Supersoul; to satisfy the master of all yajñas.}}
+---json
+{
+    "name":"adhiyajñam",
+    "h1":"adhiyajñam",
+    "title":"adhiyajñam",
+    "description":"the enjoyer of all ritualistic ceremonies; the Supreme Supersoul; to satisfy the master of all yajñas."
+}
+---
 
 ==== adhiyajñam  ====
   * the enjoyer of all ritualistic ceremonies --- [[books:sb:7:10:12|SB 7.10.12]]

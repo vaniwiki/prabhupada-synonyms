@@ -1,5 +1,11 @@
-~~Title:śibim~~
-{{description>Śibi.}}
+---json
+{
+    "name":"śibim",
+    "h1":"śibim",
+    "title":"śibim",
+    "description":"Śibi."
+}
+---
 
 ==== śibim  ====
   * Śibi --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

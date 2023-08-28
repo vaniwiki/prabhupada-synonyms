@@ -1,5 +1,11 @@
-~~Title:abhiprāyaḥ~~
-{{description>by whom the ultimate purpose.}}
+---json
+{
+    "name":"abhiprāyaḥ",
+    "h1":"abhiprāyaḥ",
+    "title":"abhiprāyaḥ",
+    "description":"by whom the ultimate purpose."
+}
+---
 
 ==== abhiprāyaḥ  ====
   * by whom the ultimate purpose --- [[books:sb:5:1:7|SB 5.1.7]]

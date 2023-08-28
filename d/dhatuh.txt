@@ -1,5 +1,11 @@
-~~Title:dhātuḥ~~
-{{description>creator; from Lord Brahmā; of Brahmā; of Dhātā; of Lord Brahmā; of providence; of the creator; the ingredients of his body.}}
+---json
+{
+    "name":"dhātuḥ",
+    "h1":"dhātuḥ",
+    "title":"dhātuḥ",
+    "description":"creator; from Lord Brahmā; of Brahmā; of Dhātā; of Lord Brahmā; of providence; of the creator; the ingredients of his body."
+}
+---
 
 ==== dhātuḥ  ====
   * creator --- [[books:sb:4:12:24|SB 4.12.24]]

@@ -1,5 +1,11 @@
-~~Title:kāchi~~
-{{description>the rope.}}
+---json
+{
+    "name":"kāchi",
+    "h1":"kāchi",
+    "title":"kāchi",
+    "description":"the rope."
+}
+---
 
 ==== kāchi  ====
   * the rope --- [[books:cc:madhya:14:56|Madhya 14.56]]

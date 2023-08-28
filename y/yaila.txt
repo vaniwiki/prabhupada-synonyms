@@ -1,5 +1,11 @@
-~~Title:yāilā~~
-{{description>went.}}
+---json
+{
+    "name":"yāilā",
+    "h1":"yāilā",
+    "title":"yāilā",
+    "description":"went."
+}
+---
 
 ==== yāilā  ====
   * went --- [[books:cc:madhya:25:202|Madhya 25.202]]

@@ -1,5 +1,11 @@
-~~Title:śvāsasya~~
-{{description>whose breathing is controlled.}}
+---json
+{
+    "name":"śvāsasya",
+    "h1":"śvāsasya",
+    "title":"śvāsasya",
+    "description":"whose breathing is controlled."
+}
+---
 
 ==== jita-śvāsasya  ====
   * whose breathing is controlled --- [[books:sb:3:28:10|SB 3.28.10]]

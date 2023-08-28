@@ -1,5 +1,11 @@
-~~Title:dāge~~
-{{description>spot.}}
+---json
+{
+    "name":"dāge",
+    "h1":"dāge",
+    "title":"dāge",
+    "description":"spot."
+}
+---
 
 ==== dāge  ====
   * spot --- [[books:cc:madhya:2:48|Madhya 2.48]]

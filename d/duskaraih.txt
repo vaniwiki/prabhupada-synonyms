@@ -1,5 +1,11 @@
-~~Title:duṣkaraiḥ~~
-{{description>very difficult to perform.}}
+---json
+{
+    "name":"duṣkaraiḥ",
+    "h1":"duṣkaraiḥ",
+    "title":"duṣkaraiḥ",
+    "description":"very difficult to perform."
+}
+---
 
 ==== duṣkaraiḥ  ====
   * very difficult to perform --- [[books:sb:5:19:22|SB 5.19.22]]

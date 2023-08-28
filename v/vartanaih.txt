@@ -1,5 +1,11 @@
-~~Title:vartanaiḥ~~
-{{description>remaining at home and engaged in such duties.}}
+---json
+{
+    "name":"vartanaiḥ",
+    "h1":"vartanaiḥ",
+    "title":"vartanaiḥ",
+    "description":"remaining at home and engaged in such duties."
+}
+---
 
 ==== vartanaiḥ  ====
   * remaining at home and engaged in such duties --- [[books:sb:7:11:26-27|SB 7.11.26-27]]

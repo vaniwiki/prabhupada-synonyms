@@ -1,5 +1,11 @@
-~~Title:anavabudhyamānaḥ~~
-{{description>a less intelligent person.}}
+---json
+{
+    "name":"anavabudhyamānaḥ",
+    "h1":"anavabudhyamānaḥ",
+    "title":"anavabudhyamānaḥ",
+    "description":"a less intelligent person."
+}
+---
 
 ==== anavabudhyamānaḥ  ====
   * a less intelligent person --- [[books:sb:5:1:29|SB 5.1.29]]

@@ -1,5 +1,11 @@
-~~Title:ākhyeyam~~
-{{description>is to be disclosed.}}
+---json
+{
+    "name":"ākhyeyam",
+    "h1":"ākhyeyam",
+    "title":"ākhyeyam",
+    "description":"is to be disclosed."
+}
+---
 
 ==== ākhyeyam  ====
   * is to be disclosed --- [[books:sb:8:17:20|SB 8.17.20]]

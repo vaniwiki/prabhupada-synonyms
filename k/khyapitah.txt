@@ -1,5 +1,11 @@
-~~Title:khyāpitaḥ~~
-{{description>being glorified.}}
+---json
+{
+    "name":"khyāpitaḥ",
+    "h1":"khyāpitaḥ",
+    "title":"khyāpitaḥ",
+    "description":"being glorified."
+}
+---
 
 ==== khyāpitaḥ  ====
   * being glorified --- [[books:sb:4:17:1|SB 4.17.1]]

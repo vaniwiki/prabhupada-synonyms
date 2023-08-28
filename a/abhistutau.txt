@@ -1,5 +1,11 @@
-~~Title:abhiṣṭutau~~
-{{description>having been praised.}}
+---json
+{
+    "name":"abhiṣṭutau",
+    "h1":"abhiṣṭutau",
+    "title":"abhiṣṭutau",
+    "description":"having been praised."
+}
+---
 
 ==== abhiṣṭutau  ====
   * having been praised --- [[books:sb:4:1:58|SB 4.1.58]]

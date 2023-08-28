@@ -1,5 +1,11 @@
-~~Title:akhaṇḍa~~
-{{description>unbroken; without being separated.}}
+---json
+{
+    "name":"akhaṇḍa",
+    "h1":"akhaṇḍa",
+    "title":"akhaṇḍa",
+    "description":"unbroken; without being separated."
+}
+---
 
 ==== akhaṇḍa  ====
   * unbroken --- [[books:sb:3:16:9|SB 3.16.9]]

@@ -1,5 +1,11 @@
-~~Title:jñātibhiḥ~~
-{{description>by your family members; His relatives.}}
+---json
+{
+    "name":"jñātibhiḥ",
+    "h1":"jñātibhiḥ",
+    "title":"jñātibhiḥ",
+    "description":"by your family members; His relatives."
+}
+---
 
 ==== jñātibhiḥ  ====
   * by your family members --- [[books:sb:8:22:33|SB 8.22.33]]

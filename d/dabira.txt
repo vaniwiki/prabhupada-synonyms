@@ -1,5 +1,11 @@
-~~Title:dabira~~
-{{description>Śrīla Rūpa Gosvāmī.}}
+---json
+{
+    "name":"dabira",
+    "h1":"dabira",
+    "title":"dabira",
+    "description":"Śrīla Rūpa Gosvāmī."
+}
+---
 
 ==== dabira khāsa  ====
   * Śrīla Rūpa Gosvāmī --- [[books:cc:madhya:1:181|Madhya 1.181]]

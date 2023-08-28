@@ -1,5 +1,11 @@
-~~Title:puloman~~
-{{description>O Pulomā; Puloma.}}
+---json
+{
+    "name":"puloman",
+    "h1":"puloman",
+    "title":"puloman",
+    "description":"O Pulomā; Puloma."
+}
+---
 
 ==== puloman  ====
   * O Pulomā --- [[books:sb:6:10:31|SB 6.10.31]]

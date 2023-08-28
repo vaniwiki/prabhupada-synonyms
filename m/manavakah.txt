@@ -1,5 +1,11 @@
-~~Title:māṇavakaḥ~~
-{{description>a brahmacārī son of a living being.}}
+---json
+{
+    "name":"māṇavakaḥ",
+    "h1":"māṇavakaḥ",
+    "title":"māṇavakaḥ",
+    "description":"a brahmacārī son of a living being."
+}
+---
 
 ==== māṇavakaḥ  ====
   * a //brahmacārī// son of a living being --- [[books:sb:8:19:32|SB 8.19.32]]

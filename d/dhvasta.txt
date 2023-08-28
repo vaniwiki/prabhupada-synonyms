@@ -1,5 +1,11 @@
-~~Title:dhvasta~~
-{{description>aloof; being destroyed; conquered; destroyed; dissipated; having been vanquished; smashed; vanished; vanquished.}}
+---json
+{
+    "name":"dhvasta",
+    "h1":"dhvasta",
+    "title":"dhvasta",
+    "description":"aloof; being destroyed; conquered; destroyed; dissipated; having been vanquished; smashed; vanished; vanquished."
+}
+---
 
 ==== dhvasta  ====
   * aloof --- [[books:sb:4:31:18|SB 4.31.18]]

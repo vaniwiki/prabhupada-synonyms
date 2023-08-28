@@ -1,5 +1,11 @@
-~~Title:bhrātṛvya~~
-{{description>enemy.}}
+---json
+{
+    "name":"bhrātṛvya",
+    "h1":"bhrātṛvya",
+    "title":"bhrātṛvya",
+    "description":"enemy."
+}
+---
 
 ==== bhrātṛvya  ====
   * enemy --- [[books:sb:4:9:33|SB 4.9.33]]

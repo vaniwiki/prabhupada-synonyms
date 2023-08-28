@@ -1,5 +1,11 @@
-~~Title:samjnaya~~
-{{description>by different names; by such names.}}
+---json
+{
+    "name":"samjnaya",
+    "h1":"samjnaya",
+    "title":"samjnaya",
+    "description":"by different names; by such names."
+}
+---
 
 ==== saṁjñayā  ====
   * by different names --- [[books:sb:9:10:2|SB 9.10.2]]

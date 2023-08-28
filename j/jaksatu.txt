@@ -1,5 +1,11 @@
-~~Title:jakṣatu~~
-{{description>chew.}}
+---json
+{
+    "name":"jakṣatu",
+    "h1":"jakṣatu",
+    "title":"jakṣatu",
+    "description":"chew."
+}
+---
 
 ==== jakṣatu  ====
   * chew --- [[books:sb:4:7:4|SB 4.7.4]]

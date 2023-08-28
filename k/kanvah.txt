@@ -1,5 +1,11 @@
-~~Title:kaṇvaḥ~~
-{{description>Kaṇva; Kaṇva Muni.}}
+---json
+{
+    "name":"kaṇvaḥ",
+    "h1":"kaṇvaḥ",
+    "title":"kaṇvaḥ",
+    "description":"Kaṇva; Kaṇva Muni."
+}
+---
 
 ==== kaṇvaḥ  ====
   * Kaṇva --- [[books:sb:9:20:6|SB 9.20.6]]

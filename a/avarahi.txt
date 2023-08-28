@@ -1,5 +1,11 @@
-~~Title:avarahi~~
-{{description>without any cheating propensity, without any motive concerning the four principles of material existence (namely, religiosity, economic development, sense gratification and liberation).}}
+---json
+{
+    "name":"avarahi",
+    "h1":"avarahi",
+    "title":"avarahi",
+    "description":"without any cheating propensity, without any motive concerning the four principles of material existence (namely, religiosity, economic development, sense gratification and liberation)."
+}
+---
 
 ==== ka-i-avarahi-am  ====
   * without any cheating propensity, without any motive concerning the four principles of material existence (namely, religiosity, economic development, sense gratification and liberation) --- [[books:cc:madhya:2:42|Madhya 2.42]]

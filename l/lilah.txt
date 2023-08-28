@@ -1,5 +1,11 @@
-~~Title:lilah~~
-{{description>pastimes.}}
+---json
+{
+    "name":"lilah",
+    "h1":"lilah",
+    "title":"lilah",
+    "description":"pastimes."
+}
+---
 
 ==== līlāḥ  ====
   * pastimes --- [[books:sb:3:5:22|SB 3.5.22]]

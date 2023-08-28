@@ -1,5 +1,11 @@
-~~Title:vivṛddham~~
-{{description>increased.}}
+---json
+{
+    "name":"vivṛddham",
+    "h1":"vivṛddham",
+    "title":"vivṛddham",
+    "description":"increased."
+}
+---
 
 ==== vivṛddham  ====
   * increased --- [[books:bg:14:11|Bg. 14.11]]

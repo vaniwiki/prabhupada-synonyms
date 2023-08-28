@@ -1,5 +1,11 @@
-~~Title:vidarbhān~~
-{{description>the countries occupied by the Vidarbhas.}}
+---json
+{
+    "name":"vidarbhān",
+    "h1":"vidarbhān",
+    "title":"vidarbhān",
+    "description":"the countries occupied by the Vidarbhas."
+}
+---
 
 ==== vidarbhān  ====
   * the countries occupied by the Vidarbhas --- [[books:sb:10:2:3|SB 10.2.3]]

@@ -1,5 +1,11 @@
-~~Title:jambūdvīpasya~~
-{{description>of the island known as Jambūdvīpa.}}
+---json
+{
+    "name":"jambūdvīpasya",
+    "h1":"jambūdvīpasya",
+    "title":"jambūdvīpasya",
+    "description":"of the island known as Jambūdvīpa."
+}
+---
 
 ==== jambūdvīpasya  ====
   * of the island known as Jambūdvīpa --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

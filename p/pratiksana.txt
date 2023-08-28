@@ -1,5 +1,11 @@
-~~Title:pratikṣaṇa~~
-{{description>every moment.}}
+---json
+{
+    "name":"pratikṣaṇa",
+    "h1":"pratikṣaṇa",
+    "title":"pratikṣaṇa",
+    "description":"every moment."
+}
+---
 
 ==== pratikṣaṇa  ====
   * every moment --- [[books:sb:3:4:14|SB 3.4.14]]

@@ -1,5 +1,11 @@
-~~Title:rddha~~
-{{description>increased.}}
+---json
+{
+    "name":"rddha",
+    "h1":"rddha",
+    "title":"rddha",
+    "description":"increased."
+}
+---
 
 ==== ṛddha  ====
   * increased --- [[books:cc:adi:1:48|Ādi 1.48]], [[books:cc:madhya:22:48|Madhya 22.48]]

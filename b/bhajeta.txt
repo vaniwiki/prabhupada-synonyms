@@ -1,5 +1,11 @@
-~~Title:bhajeta~~
-{{description>may revive; must one worship; must worship; one must worship; renders service; should execute; should worship; would embrace.}}
+---json
+{
+    "name":"bhajeta",
+    "h1":"bhajeta",
+    "title":"bhajeta",
+    "description":"may revive; must one worship; must worship; one must worship; renders service; should execute; should worship; would embrace."
+}
+---
 
 ==== bhajeta  ====
   * may revive --- [[books:sb:8:24:48|SB 8.24.48]]

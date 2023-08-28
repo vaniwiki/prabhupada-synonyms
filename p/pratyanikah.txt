@@ -1,5 +1,11 @@
-~~Title:pratyanīkāḥ~~
-{{description>enemies of the demigods.}}
+---json
+{
+    "name":"pratyanīkāḥ",
+    "h1":"pratyanīkāḥ",
+    "title":"pratyanīkāḥ",
+    "description":"enemies of the demigods."
+}
+---
 
 ==== vibudha-pratyanīkāḥ  ====
   * enemies of the demigods --- [[books:sb:5:24:30|SB 5.24.30]]

@@ -1,5 +1,11 @@
-~~Title:purañjana~~
-{{description>of King Purañjana.}}
+---json
+{
+    "name":"purañjana",
+    "h1":"purañjana",
+    "title":"purañjana",
+    "description":"of King Purañjana."
+}
+---
 
 ==== purañjana  ====
   * of King Purañjana --- [[books:sb:4:27:15|SB 4.27.15]], [[books:sb:4:27:16|SB 4.27.16]]

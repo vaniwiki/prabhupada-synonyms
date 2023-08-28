@@ -1,5 +1,11 @@
-~~Title:viralam~~
-{{description>in solitude.}}
+---json
+{
+    "name":"viralam",
+    "h1":"viralam",
+    "title":"viralam",
+    "description":"in solitude."
+}
+---
 
 ==== viralam  ====
   * in solitude --- [[books:cc:madhya:2:61|Madhya 2.61]], [[books:cc:madhya:23:31|Madhya 23.31]]

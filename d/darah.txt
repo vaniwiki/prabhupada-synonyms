@@ -1,5 +1,11 @@
-~~Title:darah~~
-{{description>conchshell.}}
+---json
+{
+    "name":"darah",
+    "h1":"darah",
+    "title":"darah",
+    "description":"conchshell."
+}
+---
 
 ==== daraḥ  ====
   * conchshell --- [[books:sb:1:11:2|SB 1.11.2]]

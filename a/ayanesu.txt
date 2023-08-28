@@ -1,5 +1,11 @@
-~~Title:ayaneṣu~~
-{{description>in the strategic points.}}
+---json
+{
+    "name":"ayaneṣu",
+    "h1":"ayaneṣu",
+    "title":"ayaneṣu",
+    "description":"in the strategic points."
+}
+---
 
 ==== ayaneṣu  ====
   * in the strategic points --- [[books:bg:1:11|Bg. 1.11]]

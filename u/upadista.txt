@@ -1,5 +1,11 @@
-~~Title:upadiṣṭa~~
-{{description>instructed by the great sage Aurva.}}
+---json
+{
+    "name":"upadiṣṭa",
+    "h1":"upadiṣṭa",
+    "title":"upadiṣṭa",
+    "description":"instructed by the great sage Aurva."
+}
+---
 
 ==== aurva-upadiṣṭa  ====
   * instructed by the great sage Aurva --- [[books:sb:9:8:30|SB 9.8.30]]

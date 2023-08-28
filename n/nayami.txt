@@ -1,5 +1,11 @@
-~~Title:nayāmi~~
-{{description>shall I pass.}}
+---json
+{
+    "name":"nayāmi",
+    "h1":"nayāmi",
+    "title":"nayāmi",
+    "description":"shall I pass."
+}
+---
 
 ==== nayāmi  ====
   * shall I pass --- [[books:cc:madhya:2:58|Madhya 2.58]]

@@ -1,5 +1,11 @@
-~~Title:tuṣyatu~~
-{{description>may He be pleased.}}
+---json
+{
+    "name":"tuṣyatu",
+    "h1":"tuṣyatu",
+    "title":"tuṣyatu",
+    "description":"may He be pleased."
+}
+---
 
 ==== tuṣyatu  ====
   * may He be pleased --- [[books:sb:3:31:18|SB 3.31.18]]

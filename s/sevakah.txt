@@ -1,5 +1,11 @@
-~~Title:sevakaḥ~~
-{{description>a professional servant.}}
+---json
+{
+    "name":"sevakaḥ",
+    "h1":"sevakaḥ",
+    "title":"sevakaḥ",
+    "description":"a professional servant."
+}
+---
 
 ==== sevakaḥ  ====
   * a professional servant --- [[books:sb:7:6:10|SB 7.6.10]]

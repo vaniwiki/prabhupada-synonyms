@@ -1,5 +1,11 @@
-~~Title:prayateta~~
-{{description>should endeavor.}}
+---json
+{
+    "name":"prayateta",
+    "h1":"prayateta",
+    "title":"prayateta",
+    "description":"should endeavor."
+}
+---
 
 ==== prayateta  ====
   * should endeavor --- [[books:sb:1:5:18|SB 1.5.18]], [[books:cc:madhya:24:169|Madhya 24.169]]

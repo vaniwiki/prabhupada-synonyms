@@ -1,5 +1,11 @@
-~~Title:vacah~~
-{{description>by the name; commands; expression; his words; information; instruction; instructions; my words; narrations; of speech; of the instructions; request; speaking; speech; speeches; statement; statements; the following words; the words; vocabulary; words; words of.}}
+---json
+{
+    "name":"vacah",
+    "h1":"vacah",
+    "title":"vacah",
+    "description":"by the name; commands; expression; his words; information; instruction; instructions; my words; narrations; of speech; of the instructions; request; speaking; speech; speeches; statement; statements; the following words; the words; vocabulary; words; words of."
+}
+---
 
 ==== vacaḥ  ====
   * by the name --- [[books:sb:5:17:1|SB 5.17.1]]

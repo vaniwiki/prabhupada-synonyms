@@ -1,5 +1,11 @@
-~~Title:dvārera~~
-{{description>above the door.}}
+---json
+{
+    "name":"dvārera",
+    "h1":"dvārera",
+    "title":"dvārera",
+    "description":"above the door."
+}
+---
 
 ==== dvārera upara  ====
   * above the door --- [[books:cc:madhya:15:81|Madhya 15.81]]

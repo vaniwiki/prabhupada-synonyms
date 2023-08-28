@@ -1,5 +1,11 @@
-~~Title:śaśāṅkaḥ~~
-{{description>moon; the moon.}}
+---json
+{
+    "name":"śaśāṅkaḥ",
+    "h1":"śaśāṅkaḥ",
+    "title":"śaśāṅkaḥ",
+    "description":"moon; the moon."
+}
+---
 
 ==== śaśāṅkaḥ  ====
   * moon --- [[books:bg:11:39|Bg. 11.39]]

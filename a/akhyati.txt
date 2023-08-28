@@ -1,5 +1,11 @@
-~~Title:ākhyāti~~
-{{description>explains.}}
+---json
+{
+    "name":"ākhyāti",
+    "h1":"ākhyāti",
+    "title":"ākhyāti",
+    "description":"explains."
+}
+---
 
 ==== ākhyāti  ====
   * explains --- [[books:noi:4|NoI 4]]

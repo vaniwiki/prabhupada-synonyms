@@ -1,5 +1,11 @@
-~~Title:pravāheṇa~~
-{{description>by the interaction of the modes; by the interaction of the modes of nature.}}
+---json
+{
+    "name":"pravāheṇa",
+    "h1":"pravāheṇa",
+    "title":"pravāheṇa",
+    "description":"by the interaction of the modes; by the interaction of the modes of nature."
+}
+---
 
 ==== guṇa-pravāheṇa  ====
   * by the interaction of the modes --- [[books:sb:3:33:3|SB 3.33.3]]

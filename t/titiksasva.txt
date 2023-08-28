@@ -1,5 +1,11 @@
-~~Title:titikṣasva~~
-{{description>just try to tolerate.}}
+---json
+{
+    "name":"titikṣasva",
+    "h1":"titikṣasva",
+    "title":"titikṣasva",
+    "description":"just try to tolerate."
+}
+---
 
 ==== titikṣasva  ====
   * just try to tolerate --- [[books:bg:2:14|Bg. 2.14]]

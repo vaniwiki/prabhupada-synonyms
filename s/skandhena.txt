@@ -1,5 +1,11 @@
-~~Title:skandhena~~
-{{description>by the shoulder; on the shoulder.}}
+---json
+{
+    "name":"skandhena",
+    "h1":"skandhena",
+    "title":"skandhena",
+    "description":"by the shoulder; on the shoulder."
+}
+---
 
 ==== skandhena  ====
   * by the shoulder --- [[books:sb:5:8:13|SB 5.8.13]]

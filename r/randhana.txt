@@ -1,5 +1,11 @@
-~~Title:randhana~~
-{{description>cooking; of cutting.}}
+---json
+{
+    "name":"randhana",
+    "h1":"randhana",
+    "title":"randhana",
+    "description":"cooking; of cutting."
+}
+---
 
 ==== randhana  ====
   * cooking --- [[books:cc:madhya:3:160|Madhya 3.160]], [[books:cc:madhya:3:202|Madhya 3.202]], [[books:cc:madhya:4:68|Madhya 4.68]], [[books:cc:madhya:4:94|Madhya 4.94]]

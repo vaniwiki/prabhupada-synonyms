@@ -1,5 +1,11 @@
-~~Title:unnataḥ~~
-{{description>six raised.}}
+---json
+{
+    "name":"unnataḥ",
+    "h1":"unnataḥ",
+    "title":"unnataḥ",
+    "description":"six raised."
+}
+---
 
 ==== ṣaṭ-unnataḥ  ====
   * six raised --- [[books:cc:adi:14:15|Ādi 14.15]]

@@ -1,5 +1,11 @@
-~~Title:vihina~~
-{{description>without.}}
+---json
+{
+    "name":"vihina",
+    "h1":"vihina",
+    "title":"vihina",
+    "description":"without."
+}
+---
 
 ==== vihīna  ====
   * without --- [[books:cc:madhya:24:16|Madhya 24.16]]

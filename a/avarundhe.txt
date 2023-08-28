@@ -1,5 +1,11 @@
-~~Title:avarundhe~~
-{{description>gain; obtains; one attains.}}
+---json
+{
+    "name":"avarundhe",
+    "h1":"avarundhe",
+    "title":"avarundhe",
+    "description":"gain; obtains; one attains."
+}
+---
 
 ==== avarundhe  ====
   * gain --- [[books:sb:5:14:1|SB 5.14.1]]

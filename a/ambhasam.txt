@@ -1,5 +1,11 @@
-~~Title:ambhasām~~
-{{description>of water.}}
+---json
+{
+    "name":"ambhasām",
+    "h1":"ambhasām",
+    "title":"ambhasām",
+    "description":"of water."
+}
+---
 
 ==== ambhasām  ====
   * of water --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

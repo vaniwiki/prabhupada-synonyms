@@ -1,5 +1,11 @@
-~~Title:kaṅkam~~
-{{description>Kaṅkā.}}
+---json
+{
+    "name":"kaṅkam",
+    "h1":"kaṅkam",
+    "title":"kaṅkam",
+    "description":"Kaṅkā."
+}
+---
 
 ==== kaṅkam  ====
   * Kaṅkā --- [[books:sb:9:24:28-31|SB 9.24.28-31]]

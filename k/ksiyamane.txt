@@ -1,5 +1,11 @@
-~~Title:kṣīyamāṇe~~
-{{description>when he became weak.}}
+---json
+{
+    "name":"kṣīyamāṇe",
+    "h1":"kṣīyamāṇe",
+    "title":"kṣīyamāṇe",
+    "description":"when he became weak."
+}
+---
 
 ==== kṣīyamāṇe  ====
   * when he became weak --- [[books:sb:4:27:17|SB 4.27.17]]

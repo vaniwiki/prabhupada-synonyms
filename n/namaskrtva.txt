@@ -1,5 +1,11 @@
-~~Title:namaskṛtvā~~
-{{description>offering obeisances.}}
+---json
+{
+    "name":"namaskṛtvā",
+    "h1":"namaskṛtvā",
+    "title":"namaskṛtvā",
+    "description":"offering obeisances."
+}
+---
 
 ==== namaskṛtvā  ====
   * offering obeisances --- [[books:bg:11:35|Bg. 11.35]]

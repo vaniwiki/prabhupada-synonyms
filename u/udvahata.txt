@@ -1,5 +1,11 @@
-~~Title:udvahata~~
-{{description>marry.}}
+---json
+{
+    "name":"udvahata",
+    "h1":"udvahata",
+    "title":"udvahata",
+    "description":"marry."
+}
+---
 
 ==== udvahata  ====
   * marry --- [[books:sb:4:30:15|SB 4.30.15]]

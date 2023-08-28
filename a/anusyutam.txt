@@ -1,5 +1,11 @@
-~~Title:anusyūtam~~
-{{description>entered into everything.}}
+---json
+{
+    "name":"anusyūtam",
+    "h1":"anusyūtam",
+    "title":"anusyūtam",
+    "description":"entered into everything."
+}
+---
 
 ==== sarva-anusyūtam  ====
   * entered into everything --- [[books:sb:3:27:11|SB 3.27.11]]

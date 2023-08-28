@@ -1,5 +1,11 @@
-~~Title:vahneḥ~~
-{{description>of fire; of Vahni.}}
+---json
+{
+    "name":"vahneḥ",
+    "h1":"vahneḥ",
+    "title":"vahneḥ",
+    "description":"of fire; of Vahni."
+}
+---
 
 ==== vahneḥ  ====
   * of fire --- [[books:sb:2:6:1|SB 2.6.1]]

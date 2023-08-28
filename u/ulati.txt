@@ -1,5 +1,11 @@
-~~Title:ulaṭi'~~
-{{description>turning back.}}
+---json
+{
+    "name":"ulaṭi'",
+    "h1":"ulaṭi'",
+    "title":"ulaṭi'",
+    "description":"turning back."
+}
+---
 
 ==== ulaṭi'  ====
   * turning back --- [[books:cc:antya:19:51|Antya 19.51]]

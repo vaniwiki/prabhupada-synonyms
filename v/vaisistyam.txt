@@ -1,5 +1,11 @@
-~~Title:vaiśiṣṭyam~~
-{{description>various symptoms.}}
+---json
+{
+    "name":"vaiśiṣṭyam",
+    "h1":"vaiśiṣṭyam",
+    "title":"vaiśiṣṭyam",
+    "description":"various symptoms."
+}
+---
 
 ==== vaiśiṣṭyam  ====
   * various symptoms --- [[books:cc:madhya:14:187|Madhya 14.187]]

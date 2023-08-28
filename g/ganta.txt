@@ -1,5 +1,11 @@
-~~Title:gantā~~
-{{description>going to; he will go; He will go about; will go away.}}
+---json
+{
+    "name":"gantā",
+    "h1":"gantā",
+    "title":"gantā",
+    "description":"going to; he will go; He will go about; will go away."
+}
+---
 
 ==== gantā  ====
   * going to --- [[books:sb:1:6:23|SB 1.6.23]]

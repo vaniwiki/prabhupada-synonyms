@@ -1,5 +1,11 @@
-~~Title:uraga~~
-{{description>snakes.}}
+---json
+{
+    "name":"uraga",
+    "h1":"uraga",
+    "title":"uraga",
+    "description":"snakes."
+}
+---
 
 ==== uraga  ====
   * snakes --- [[books:sb:2:6:43-45|SB 2.6.43-45]], [[books:sb:2:7:24|SB 2.7.24]], [[books:sb:5:25:7|SB 5.25.7]]

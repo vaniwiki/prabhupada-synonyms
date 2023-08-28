@@ -1,5 +1,11 @@
-~~Title:uddhāraha~~
-{{description>deliver.}}
+---json
+{
+    "name":"uddhāraha",
+    "h1":"uddhāraha",
+    "title":"uddhāraha",
+    "description":"deliver."
+}
+---
 
 ==== uddhāraha  ====
   * deliver --- [[books:cc:madhya:1:217|Madhya 1.217]]

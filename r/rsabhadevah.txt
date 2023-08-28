@@ -1,5 +1,11 @@
-~~Title:ṛṣabhadevaḥ~~
-{{description>Ṛṣabhadeva.}}
+---json
+{
+    "name":"ṛṣabhadevaḥ",
+    "h1":"ṛṣabhadevaḥ",
+    "title":"ṛṣabhadevaḥ",
+    "description":"Ṛṣabhadeva."
+}
+---
 
 ==== ṛṣabhadevaḥ  ====
   * Ṛṣabhadeva --- [[books:sb:5:4:3|SB 5.4.3]]

@@ -1,5 +1,11 @@
-~~Title:vyasuḥ~~
-{{description>lost her life.}}
+---json
+{
+    "name":"vyasuḥ",
+    "h1":"vyasuḥ",
+    "title":"vyasuḥ",
+    "description":"lost her life."
+}
+---
 
 ==== vyasuḥ  ====
   * lost her life --- [[books:sb:10:6:13|SB 10.6.13]]

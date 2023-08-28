@@ -1,5 +1,11 @@
-~~Title:samarpayanti~~
-{{description>dedicate.}}
+---json
+{
+    "name":"samarpayanti",
+    "h1":"samarpayanti",
+    "title":"samarpayanti",
+    "description":"dedicate."
+}
+---
 
 ==== samarpayanti  ====
   * dedicate --- [[books:cc:madhya:23:23|Madhya 23.23]]

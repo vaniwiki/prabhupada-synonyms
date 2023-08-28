@@ -1,5 +1,11 @@
-~~Title:deśa~~
-{{description>according to country; countries; country; in place; in the matter of country; of country; of the country; place; residential country; space; the country; the particular place, a holy place or a temple; the whole country; to your country.}}
+---json
+{
+    "name":"deśa",
+    "h1":"deśa",
+    "title":"deśa",
+    "description":"according to country; countries; country; in place; in the matter of country; of country; of the country; place; residential country; space; the country; the particular place, a holy place or a temple; the whole country; to your country."
+}
+---
 
 ==== deśa  ====
   * according to country --- [[books:sb:4:8:54|SB 4.8.54]]

@@ -1,5 +1,11 @@
-~~Title:abhyasūyakāḥ~~
-{{description>envious.}}
+---json
+{
+    "name":"abhyasūyakāḥ",
+    "h1":"abhyasūyakāḥ",
+    "title":"abhyasūyakāḥ",
+    "description":"envious."
+}
+---
 
 ==== abhyasūyakāḥ  ====
   * envious --- [[books:bg:16:18|Bg. 16.18]]

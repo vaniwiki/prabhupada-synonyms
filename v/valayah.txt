@@ -1,5 +1,11 @@
-~~Title:valayāḥ~~
-{{description>with bangles on their hands.}}
+---json
+{
+    "name":"valayāḥ",
+    "h1":"valayāḥ",
+    "title":"valayāḥ",
+    "description":"with bangles on their hands."
+}
+---
 
 ==== sa-valayāḥ  ====
   * with bangles on their hands --- [[books:sb:10:5:11|SB 10.5.11]]

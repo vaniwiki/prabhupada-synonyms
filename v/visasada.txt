@@ -1,5 +1,11 @@
-~~Title:viṣasāda~~
-{{description>lamented.}}
+---json
+{
+    "name":"viṣasāda",
+    "h1":"viṣasāda",
+    "title":"viṣasāda",
+    "description":"lamented."
+}
+---
 
 ==== viṣasāda  ====
   * lamented --- [[books:cc:madhya:8:107|Madhya 8.107]]

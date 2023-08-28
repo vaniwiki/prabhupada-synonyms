@@ -1,5 +1,11 @@
-~~Title:ilāvṛte~~
-{{description>in the tract of land known as Ilāvṛta-varṣa.}}
+---json
+{
+    "name":"ilāvṛte",
+    "h1":"ilāvṛte",
+    "title":"ilāvṛte",
+    "description":"in the tract of land known as Ilāvṛta-varṣa."
+}
+---
 
 ==== ilāvṛte  ====
   * in the tract of land known as Ilāvṛta-varṣa --- [[books:sb:5:17:15|SB 5.17.15]]

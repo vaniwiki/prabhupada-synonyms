@@ -1,5 +1,11 @@
-~~Title:īdṛśīm~~
-{{description>like this; such.}}
+---json
+{
+    "name":"īdṛśīm",
+    "h1":"īdṛśīm",
+    "title":"īdṛśīm",
+    "description":"like this; such."
+}
+---
 
 ==== īdṛśīm  ====
   * like this --- [[books:sb:4:28:59|SB 4.28.59]]

@@ -1,5 +1,11 @@
-~~Title:bhūmne~~
-{{description>supreme and all-pervading; the all-pervading Godhead; the Supreme; the supreme great; to the great one who can go everywhere.}}
+---json
+{
+    "name":"bhūmne",
+    "h1":"bhūmne",
+    "title":"bhūmne",
+    "description":"supreme and all-pervading; the all-pervading Godhead; the Supreme; the supreme great; to the great one who can go everywhere."
+}
+---
 
 ==== bhūmne  ====
   * supreme and all-pervading --- [[books:sb:6:3:30|SB 6.3.30]]

@@ -1,5 +1,11 @@
-~~Title:samaikṣata~~
-{{description>glanced over.}}
+---json
+{
+    "name":"samaikṣata",
+    "h1":"samaikṣata",
+    "title":"samaikṣata",
+    "description":"glanced over."
+}
+---
 
 ==== samaikṣata  ====
   * glanced over --- [[books:sb:4:21:19|SB 4.21.19]]

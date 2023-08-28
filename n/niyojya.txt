@@ -1,5 +1,11 @@
-~~Title:niyojya~~
-{{description>associates; engaging.}}
+---json
+{
+    "name":"niyojya",
+    "h1":"niyojya",
+    "title":"niyojya",
+    "description":"associates; engaging."
+}
+---
 
 ==== niyojya  ====
   * associates --- [[books:sb:4:12:28|SB 4.12.28]]

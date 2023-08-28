@@ -1,5 +1,11 @@
-~~Title:rāśīn~~
-{{description>the signs.}}
+---json
+{
+    "name":"rāśīn",
+    "h1":"rāśīn",
+    "title":"rāśīn",
+    "description":"the signs."
+}
+---
 
 ==== rāśīn  ====
   * the signs --- [[books:sb:5:22:14|SB 5.22.14]]

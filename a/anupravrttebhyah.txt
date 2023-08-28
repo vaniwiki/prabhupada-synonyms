@@ -1,5 +1,11 @@
-~~Title:anupravṛttebhyaḥ~~
-{{description>who exactly follow his path.}}
+---json
+{
+    "name":"anupravṛttebhyaḥ",
+    "h1":"anupravṛttebhyaḥ",
+    "title":"anupravṛttebhyaḥ",
+    "description":"who exactly follow his path."
+}
+---
 
 ==== anupravṛttebhyaḥ  ====
   * who exactly follow his path --- [[books:sb:5:1:38|SB 5.1.38]]

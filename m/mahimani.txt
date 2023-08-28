@@ -1,5 +1,11 @@
-~~Title:mahimani~~
-{{description>very powerful.}}
+---json
+{
+    "name":"mahimani",
+    "h1":"mahimani",
+    "title":"mahimani",
+    "description":"very powerful."
+}
+---
 
 ==== mahimāni  ====
   * very powerful --- [[books:sb:1:15:16|SB 1.15.16]]

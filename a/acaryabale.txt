@@ -1,5 +1,11 @@
-~~Title:ācāryabale~~
-{{description>Advaita Ācārya replies; Advaita Ācārya says.}}
+---json
+{
+    "name":"ācāryabale",
+    "h1":"ācāryabale",
+    "title":"ācāryabale",
+    "description":"Advaita Ācārya replies; Advaita Ācārya says."
+}
+---
 
 ==== ācāryabale  ====
   * Advaita Ācārya replies --- [[books:cc:madhya:3:75|Madhya 3.75]]

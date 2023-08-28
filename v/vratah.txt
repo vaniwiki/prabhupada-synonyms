@@ -1,5 +1,11 @@
-~~Title:vratah~~
-{{description>his vow; the vow; vow.}}
+---json
+{
+    "name":"vratah",
+    "h1":"vratah",
+    "title":"vratah",
+    "description":"his vow; the vow; vow."
+}
+---
 
 ==== vrataḥ  ====
   * his vow --- [[books:sb:3:32:3|SB 3.32.3]]

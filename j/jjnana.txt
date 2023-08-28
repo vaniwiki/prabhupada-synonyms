@@ -1,5 +1,11 @@
-~~Title:jjñāna~~
-{{description>acquired knowledge.}}
+---json
+{
+    "name":"jjñāna",
+    "h1":"jjñāna",
+    "title":"jjñāna",
+    "description":"acquired knowledge."
+}
+---
 
 ==== jjñāna  ====
   * acquired knowledge --- [[books:bg:6:8|Bg. 6.8]]

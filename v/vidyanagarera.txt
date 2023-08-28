@@ -1,5 +1,11 @@
-~~Title:vidyānagarera~~
-{{description>of the town known as Vidyānagara.}}
+---json
+{
+    "name":"vidyānagarera",
+    "h1":"vidyānagarera",
+    "title":"vidyānagarera",
+    "description":"of the town known as Vidyānagara."
+}
+---
 
 ==== vidyānagarera  ====
   * of the town known as Vidyānagara --- [[books:cc:madhya:5:10|Madhya 5.10]]

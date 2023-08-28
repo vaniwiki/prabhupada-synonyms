@@ -1,5 +1,11 @@
-~~Title:prāviśat~~
-{{description>entered; he entered.}}
+---json
+{
+    "name":"prāviśat",
+    "h1":"prāviśat",
+    "title":"prāviśat",
+    "description":"entered; he entered."
+}
+---
 
 ==== prāviśat  ====
   * entered --- [[books:sb:1:11:10|SB 1.11.10]], [[books:sb:3:7:21|SB 3.7.21]], [[books:sb:3:26:70|SB 3.26.70]], [[books:sb:9:2:4|SB 9.2.4]], [[books:sb:9:10:45-46|SB 9.10.45-46]], [[books:sb:10:6:4|SB 10.6.4]], [[books:sb:10:13:20|SB 10.13.20]]

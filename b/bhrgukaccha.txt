@@ -1,5 +1,11 @@
-~~Title:bhṛgukaccha~~
-{{description>in the field named Bhṛgukaccha.}}
+---json
+{
+    "name":"bhṛgukaccha",
+    "h1":"bhṛgukaccha",
+    "title":"bhṛgukaccha",
+    "description":"in the field named Bhṛgukaccha."
+}
+---
 
 ==== bhṛgukaccha-saṁjñake  ====
   * in the field named Bhṛgukaccha --- [[books:sb:8:18:21|SB 8.18.21]]

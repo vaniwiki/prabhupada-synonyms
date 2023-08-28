@@ -1,5 +1,11 @@
-~~Title:priye~~
-{{description>very dear.}}
+---json
+{
+    "name":"priye",
+    "h1":"priye",
+    "title":"priye",
+    "description":"very dear."
+}
+---
 
 ==== priye  ====
   * very dear --- [[books:cc:antya:15:33|Antya 15.33]]

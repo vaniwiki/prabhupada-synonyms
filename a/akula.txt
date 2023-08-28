@@ -1,5 +1,11 @@
-~~Title:akula~~
-{{description>aggrieved; depressed; overwhelmed.}}
+---json
+{
+    "name":"akula",
+    "h1":"akula",
+    "title":"akula",
+    "description":"aggrieved; depressed; overwhelmed."
+}
+---
 
 ==== ākula  ====
   * aggrieved --- [[books:sb:5:8:26|SB 5.8.26]]

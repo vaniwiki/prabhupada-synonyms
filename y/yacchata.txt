@@ -1,5 +1,11 @@
-~~Title:yacchata~~
-{{description>subdue.}}
+---json
+{
+    "name":"yacchata",
+    "h1":"yacchata",
+    "title":"yacchata",
+    "description":"subdue."
+}
+---
 
 ==== yacchata  ====
   * subdue --- [[books:sb:6:4:11|SB 6.4.11]]

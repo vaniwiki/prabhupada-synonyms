@@ -1,5 +1,11 @@
-~~Title:duravasita~~
-{{description>impossible to understand.}}
+---json
+{
+    "name":"duravasita",
+    "h1":"duravasita",
+    "title":"duravasita",
+    "description":"impossible to understand."
+}
+---
 
 ==== duravasita  ====
   * impossible to understand --- [[books:sb:6:16:47|SB 6.16.47]]

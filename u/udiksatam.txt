@@ -1,5 +1,11 @@
-~~Title:udīkṣatām~~
-{{description>looking at.}}
+---json
+{
+    "name":"udīkṣatām",
+    "h1":"udīkṣatām",
+    "title":"udīkṣatām",
+    "description":"looking at."
+}
+---
 
 ==== udīkṣatām  ====
   * looking at --- [[books:cc:adi:4:152|Ādi 4.152]], [[books:cc:madhya:21:124|Madhya 21.124]]

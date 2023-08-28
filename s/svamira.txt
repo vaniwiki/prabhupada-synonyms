@@ -1,5 +1,11 @@
-~~Title:svāmīra~~
-{{description>of Śrīdhara Svāmī.}}
+---json
+{
+    "name":"svāmīra",
+    "h1":"svāmīra",
+    "title":"svāmīra",
+    "description":"of Śrīdhara Svāmī."
+}
+---
 
 ==== svāmīra  ====
   * of Śrīdhara Svāmī --- [[books:cc:antya:7:113|Antya 7.113]]

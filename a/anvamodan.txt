@@ -1,5 +1,11 @@
-~~Title:anvamodan~~
-{{description>tolerated.}}
+---json
+{
+    "name":"anvamodan",
+    "h1":"anvamodan",
+    "title":"anvamodan",
+    "description":"tolerated."
+}
+---
 
 ==== anvamodan  ====
   * tolerated --- [[books:sb:4:2:20|SB 4.2.20]]

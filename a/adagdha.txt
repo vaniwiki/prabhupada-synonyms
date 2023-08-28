@@ -1,5 +1,11 @@
-~~Title:adagdha~~
-{{description>in which the seeds are not burned.}}
+---json
+{
+    "name":"adagdha",
+    "h1":"adagdha",
+    "title":"adagdha",
+    "description":"in which the seeds are not burned."
+}
+---
 
 ==== adagdha-bījam  ====
   * in which the seeds are not burned --- [[books:sb:5:14:4|SB 5.14.4]]

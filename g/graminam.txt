@@ -1,5 +1,11 @@
-~~Title:grāmiṇām~~
-{{description>of common men.}}
+---json
+{
+    "name":"grāmiṇām",
+    "h1":"grāmiṇām",
+    "title":"grāmiṇām",
+    "description":"of common men."
+}
+---
 
 ==== grāmiṇām  ====
   * of common men --- [[books:sb:4:29:14|SB 4.29.14]]

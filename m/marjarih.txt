@@ -1,5 +1,11 @@
-~~Title:mārjāriḥ~~
-{{description>Mārjāri.}}
+---json
+{
+    "name":"mārjāriḥ",
+    "h1":"mārjāriḥ",
+    "title":"mārjāriḥ",
+    "description":"Mārjāri."
+}
+---
 
 ==== mārjāriḥ  ====
   * Mārjāri --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

@@ -1,5 +1,11 @@
-~~Title:sañjahṛṣuḥ~~
-{{description>all became happy.}}
+---json
+{
+    "name":"sañjahṛṣuḥ",
+    "h1":"sañjahṛṣuḥ",
+    "title":"sañjahṛṣuḥ",
+    "description":"all became happy."
+}
+---
 
 ==== sañjahṛṣuḥ  ====
   * all became happy --- [[books:sb:8:18:4|SB 8.18.4]]

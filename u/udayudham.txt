@@ -1,5 +1,11 @@
-~~Title:udāyudham~~
-{{description>different weapons; having taken his bow and arrow.}}
+---json
+{
+    "name":"udāyudham",
+    "h1":"udāyudham",
+    "title":"udāyudham",
+    "description":"different weapons; having taken his bow and arrow."
+}
+---
 
 ==== udāyudham  ====
   * different weapons --- [[books:sb:10:3:9-10|SB 10.3.9-10]]

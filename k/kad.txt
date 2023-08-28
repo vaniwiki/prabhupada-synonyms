@@ -1,5 +1,11 @@
-~~Title:kad~~
-{{description>by a bad son.}}
+---json
+{
+    "name":"kad",
+    "h1":"kad",
+    "title":"kad",
+    "description":"by a bad son."
+}
+---
 
 ==== kad-apatya  ====
   * by a bad son --- [[books:sb:4:13:43|SB 4.13.43]]

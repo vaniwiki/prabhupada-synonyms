@@ -1,5 +1,11 @@
-~~Title:vigrahau~~
-{{description>incarnations of the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"vigrahau",
+    "h1":"vigrahau",
+    "title":"vigrahau",
+    "description":"incarnations of the Supreme Personality of Godhead."
+}
+---
 
 ==== uttama-śloka-vigrahau  ====
   * incarnations of the Supreme Personality of Godhead --- [[books:sb:4:19:33|SB 4.19.33]]

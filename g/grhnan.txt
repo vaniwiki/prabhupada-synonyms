@@ -1,5 +1,11 @@
-~~Title:gṛhṇan~~
-{{description>accepting; by accepting; chanting; exacting; in the matter of acceptance; withdrawing.}}
+---json
+{
+    "name":"gṛhṇan",
+    "h1":"gṛhṇan",
+    "title":"gṛhṇan",
+    "description":"accepting; by accepting; chanting; exacting; in the matter of acceptance; withdrawing."
+}
+---
 
 ==== gṛhṇan  ====
   * accepting --- [[books:sb:4:14:17|SB 4.14.17]], [[books:sb:4:27:18|SB 4.27.18]], [[books:sb:4:28:28|SB 4.28.28]]

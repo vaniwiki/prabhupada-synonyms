@@ -1,5 +1,11 @@
-~~Title:vṛka~~
-{{description>by tigers and other ferocious animals.}}
+---json
+{
+    "name":"vṛka",
+    "h1":"vṛka",
+    "title":"vṛka",
+    "description":"by tigers and other ferocious animals."
+}
+---
 
 ==== vṛka-ādibhiḥ  ====
   * by tigers and other ferocious animals --- [[books:sb:7:2:38|SB 7.2.38]]

@@ -1,5 +1,11 @@
-~~Title:avatīrṇam~~
-{{description>descended; incarnated.}}
+---json
+{
+    "name":"avatīrṇam",
+    "h1":"avatīrṇam",
+    "title":"avatīrṇam",
+    "description":"descended; incarnated."
+}
+---
 
 ==== avatīrṇam  ====
   * descended --- [[books:sb:3:24:26|SB 3.24.26]]

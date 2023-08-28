@@ -1,5 +1,11 @@
-~~Title:jananyām~~
-{{description>in the mother of the universe (Lakṣmī).}}
+---json
+{
+    "name":"jananyām",
+    "h1":"jananyām",
+    "title":"jananyām",
+    "description":"in the mother of the universe (Lakṣmī)."
+}
+---
 
 ==== jagat-jananyām  ====
   * in the mother of the universe (Lakṣmī) --- [[books:sb:4:20:28|SB 4.20.28]]

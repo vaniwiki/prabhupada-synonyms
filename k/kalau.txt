@@ -1,5 +1,11 @@
-~~Title:kalau~~
-{{description>at the end of Kali-yuga; in the age of Kali; in the Kali-yuga; in this age of Kali (quarrel); in this age of Kali; in this Kali-yuga; the age of Kali.}}
+---json
+{
+    "name":"kalau",
+    "h1":"kalau",
+    "title":"kalau",
+    "description":"at the end of Kali-yuga; in the age of Kali; in the Kali-yuga; in this age of Kali (quarrel); in this age of Kali; in this Kali-yuga; the age of Kali."
+}
+---
 
 ==== kalau  ====
   * at the end of Kali-yuga --- [[books:sb:9:12:16|SB 9.12.16]]

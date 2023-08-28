@@ -1,5 +1,11 @@
-~~Title:ādikān~~
-{{description>begot sons headed by Vṛṣa and Durmarṣaṇa.}}
+---json
+{
+    "name":"ādikān",
+    "h1":"ādikān",
+    "title":"ādikān",
+    "description":"begot sons headed by Vṛṣa and Durmarṣaṇa."
+}
+---
 
 ==== vṛṣa-durmarṣaṇa-ādikān  ====
   * begot sons headed by Vṛṣa and Durmarṣaṇa --- [[books:sb:9:24:42|SB 9.24.42]]

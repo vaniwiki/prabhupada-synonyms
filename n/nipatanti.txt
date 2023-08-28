@@ -1,5 +1,11 @@
-~~Title:nipatanti~~
-{{description>fall; fall down.}}
+---json
+{
+    "name":"nipatanti",
+    "h1":"nipatanti",
+    "title":"nipatanti",
+    "description":"fall; fall down."
+}
+---
 
 ==== nipatanti  ====
   * fall --- [[books:sb:5:26:23|SB 5.26.23]]

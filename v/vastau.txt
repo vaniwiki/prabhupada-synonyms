@@ -1,5 +1,11 @@
-~~Title:vāstau~~
-{{description>in our houses.}}
+---json
+{
+    "name":"vāstau",
+    "h1":"vāstau",
+    "title":"vāstau",
+    "description":"in our houses."
+}
+---
 
 ==== vāstau  ====
   * in our houses --- [[books:sb:10:8:31|SB 10.8.31]]

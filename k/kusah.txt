@@ -1,5 +1,11 @@
-~~Title:kusah~~
-{{description>Kuśa.}}
+---json
+{
+    "name":"kusah",
+    "h1":"kusah",
+    "title":"kusah",
+    "description":"Kuśa."
+}
+---
 
 ==== kuśaḥ  ====
   * Kuśa --- [[books:sb:9:11:11|SB 9.11.11]], [[books:sb:9:15:4|SB 9.15.4]], [[books:sb:9:17:1-3|SB 9.17.1-3]]

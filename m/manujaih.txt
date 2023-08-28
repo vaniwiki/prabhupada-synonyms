@@ -1,5 +1,11 @@
-~~Title:manujaiḥ~~
-{{description>by human beings; by the citizens.}}
+---json
+{
+    "name":"manujaiḥ",
+    "h1":"manujaiḥ",
+    "title":"manujaiḥ",
+    "description":"by human beings; by the citizens."
+}
+---
 
 ==== manujaiḥ  ====
   * by human beings --- [[books:sb:6:16:63|SB 6.16.63]]

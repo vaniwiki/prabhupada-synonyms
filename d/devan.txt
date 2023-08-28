@@ -1,5 +1,11 @@
-~~Title:devān~~
-{{description>about the demigods; all the demigods; demigods; demigods' planets; like Indra, Candra and Varuṇa; the demigods; to all the demigods; to all the great demigods; to demigods; to the demigods; unto the demigods.}}
+---json
+{
+    "name":"devān",
+    "h1":"devān",
+    "title":"devān",
+    "description":"about the demigods; all the demigods; demigods; demigods' planets; like Indra, Candra and Varuṇa; the demigods; to all the demigods; to all the great demigods; to demigods; to the demigods; unto the demigods."
+}
+---
 
 ==== devān  ====
   * about the demigods --- [[books:sb:1:16:31|SB 1.16.31]]

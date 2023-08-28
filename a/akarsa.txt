@@ -1,5 +1,11 @@
-~~Title:ākarṣa~~
-{{description>of a magnet.}}
+---json
+{
+    "name":"ākarṣa",
+    "h1":"ākarṣa",
+    "title":"ākarṣa",
+    "description":"of a magnet."
+}
+---
 
 ==== ākarṣa  ====
   * of a magnet --- [[books:sb:7:5:14|SB 7.5.14]]

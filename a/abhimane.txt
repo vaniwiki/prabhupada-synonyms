@@ -1,5 +1,11 @@
-~~Title:abhimāne~~
-{{description>false pride; pride.}}
+---json
+{
+    "name":"abhimāne",
+    "h1":"abhimāne",
+    "title":"abhimāne",
+    "description":"false pride; pride."
+}
+---
 
 ==== abhimāne  ====
   * false pride --- [[books:cc:madhya:6:236|Madhya 6.236]]

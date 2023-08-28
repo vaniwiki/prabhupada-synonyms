@@ -1,5 +1,11 @@
-~~Title:prajātyai~~
-{{description>for the sake of children.}}
+---json
+{
+    "name":"prajātyai",
+    "h1":"prajātyai",
+    "title":"prajātyai",
+    "description":"for the sake of children."
+}
+---
 
 ==== prajātyai  ====
   * for the sake of children --- [[books:sb:3:14:22|SB 3.14.22]]

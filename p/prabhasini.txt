@@ -1,5 +1,11 @@
-~~Title:prabhāṣiṇī~~
-{{description>crying.}}
+---json
+{
+    "name":"prabhāṣiṇī",
+    "h1":"prabhāṣiṇī",
+    "title":"prabhāṣiṇī",
+    "description":"crying."
+}
+---
 
 ==== prabhāṣiṇī  ====
   * crying --- [[books:sb:10:6:11|SB 10.6.11]]

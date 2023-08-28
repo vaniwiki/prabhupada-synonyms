@@ -1,5 +1,11 @@
-~~Title:sudurjayam~~
-{{description>insurmountable; very difficult to achieve; which is very, very difficult to overcome.}}
+---json
+{
+    "name":"sudurjayam",
+    "h1":"sudurjayam",
+    "title":"sudurjayam",
+    "description":"insurmountable; very difficult to achieve; which is very, very difficult to overcome."
+}
+---
 
 ==== sudurjayam  ====
   * insurmountable --- [[books:sb:3:24:38|SB 3.24.38]]

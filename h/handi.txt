@@ -1,5 +1,11 @@
-~~Title:hāṇḍi~~
-{{description>the cooking pot.}}
+---json
+{
+    "name":"hāṇḍi",
+    "h1":"hāṇḍi",
+    "title":"hāṇḍi",
+    "description":"the cooking pot."
+}
+---
 
 ==== hāṇḍi  ====
   * the cooking pot --- [[books:cc:antya:13:55|Antya 13.55]]

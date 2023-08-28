@@ -1,5 +1,11 @@
-~~Title:paugaṇḍa~~
-{{description>boyhood; early boyhood; in boyhood; of the age from five years to ten years; the boyhood age before youth.}}
+---json
+{
+    "name":"paugaṇḍa",
+    "h1":"paugaṇḍa",
+    "title":"paugaṇḍa",
+    "description":"boyhood; early boyhood; in boyhood; of the age from five years to ten years; the boyhood age before youth."
+}
+---
 
 ==== paugaṇḍa  ====
   * boyhood --- [[books:cc:adi:2:98|Ādi 2.98]], [[books:cc:adi:4:112|Ādi 4.112]], [[books:cc:adi:4:113|Ādi 4.113]], [[books:cc:madhya:20:247|Madhya 20.247]], [[books:cc:madhya:20:384|Madhya 20.384]], [[books:cc:madhya:20:394|Madhya 20.394]]

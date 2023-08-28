@@ -1,5 +1,11 @@
-~~Title:ḍamaru~~
-{{description>a kind of musical instrument.}}
+---json
+{
+    "name":"ḍamaru",
+    "h1":"ḍamaru",
+    "title":"ḍamaru",
+    "description":"a kind of musical instrument."
+}
+---
 
 ==== ḍamaru  ====
   * a kind of musical instrument --- [[books:cc:adi:17:99|Ādi 17.99]]

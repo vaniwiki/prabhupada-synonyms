@@ -1,5 +1,11 @@
-~~Title:patakinam~~
-{{description>the sinful Ajāmila.}}
+---json
+{
+    "name":"patakinam",
+    "h1":"patakinam",
+    "title":"patakinam",
+    "description":"the sinful Ajāmila."
+}
+---
 
 ==== pātakinam  ====
   * the sinful Ajāmila --- [[books:sb:6:3:9|SB 6.3.9]]

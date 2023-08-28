@@ -1,5 +1,11 @@
-~~Title:paramparaḥ~~
-{{description>the continual succession, one after another.}}
+---json
+{
+    "name":"paramparaḥ",
+    "h1":"paramparaḥ",
+    "title":"paramparaḥ",
+    "description":"the continual succession, one after another."
+}
+---
 
 ==== paramparaḥ  ====
   * the continual succession, one after another --- [[books:sb:5:4:14|SB 5.4.14]]

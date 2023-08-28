@@ -1,5 +1,11 @@
-~~Title:vilokayan~~
-{{description>observing; seeing.}}
+---json
+{
+    "name":"vilokayan",
+    "h1":"vilokayan",
+    "title":"vilokayan",
+    "description":"observing; seeing."
+}
+---
 
 ==== vilokayan  ====
   * observing --- [[books:sb:4:20:22|SB 4.20.22]]

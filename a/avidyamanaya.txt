@@ -1,5 +1,11 @@
-~~Title:avidyamānayā~~
-{{description>not existing.}}
+---json
+{
+    "name":"avidyamānayā",
+    "h1":"avidyamānayā",
+    "title":"avidyamānayā",
+    "description":"not existing."
+}
+---
 
 ==== avidyamānayā  ====
   * not existing --- [[books:sb:5:24:18|SB 5.24.18]]

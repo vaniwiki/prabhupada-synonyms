@@ -1,5 +1,11 @@
-~~Title:mohane~~
-{{description>the stage of mohana.}}
+---json
+{
+    "name":"mohane",
+    "h1":"mohane",
+    "title":"mohane",
+    "description":"the stage of mohana."
+}
+---
 
 ==== mohane  ====
   * the stage of //mohana// --- [[books:cc:madhya:23:59|Madhya 23.59]]

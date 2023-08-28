@@ -1,5 +1,11 @@
-~~Title:udvahatām~~
-{{description>for those who are carrying.}}
+---json
+{
+    "name":"udvahatām",
+    "h1":"udvahatām",
+    "title":"udvahatām",
+    "description":"for those who are carrying."
+}
+---
 
 ==== udvahatām  ====
   * for those who are carrying --- [[books:sb:6:17:31|SB 6.17.31]]

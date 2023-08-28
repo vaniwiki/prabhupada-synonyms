@@ -1,5 +1,11 @@
-~~Title:udayena~~
-{{description>with the manifestation.}}
+---json
+{
+    "name":"udayena",
+    "h1":"udayena",
+    "title":"udayena",
+    "description":"with the manifestation."
+}
+---
 
 ==== udayena  ====
   * with the manifestation --- [[books:sb:3:9:2|SB 3.9.2]]

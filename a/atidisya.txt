@@ -1,5 +1,11 @@
-~~Title:atidiśya~~
-{{description>after offering.}}
+---json
+{
+    "name":"atidiśya",
+    "h1":"atidiśya",
+    "title":"atidiśya",
+    "description":"after offering."
+}
+---
 
 ==== atidiśya  ====
   * after offering --- [[books:sb:4:9:26|SB 4.9.26]]

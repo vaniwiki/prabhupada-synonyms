@@ -1,5 +1,11 @@
-~~Title:dekhāile~~
-{{description>you have shown.}}
+---json
+{
+    "name":"dekhāile",
+    "h1":"dekhāile",
+    "title":"dekhāile",
+    "description":"you have shown."
+}
+---
 
 ==== dekhāile  ====
   * you have shown --- [[books:cc:madhya:7:9|Madhya 7.9]]

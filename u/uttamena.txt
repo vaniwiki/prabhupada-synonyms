@@ -1,5 +1,11 @@
-~~Title:uttamena~~
-{{description>the King's other son, Uttama.}}
+---json
+{
+    "name":"uttamena",
+    "h1":"uttamena",
+    "title":"uttamena",
+    "description":"the King's other son, Uttama."
+}
+---
 
 ==== uttamena  ====
   * the King's other son, Uttama --- [[books:sb:4:9:41|SB 4.9.41]]

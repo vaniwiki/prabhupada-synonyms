@@ -1,5 +1,11 @@
-~~Title:madbhiḥ~~
-{{description>assuming some form; possessing form.}}
+---json
+{
+    "name":"madbhiḥ",
+    "h1":"madbhiḥ",
+    "title":"madbhiḥ",
+    "description":"assuming some form; possessing form."
+}
+---
 
 ==== mūrti-madbhiḥ  ====
   * assuming some form --- [[books:sb:10:13:51|SB 10.13.51]]

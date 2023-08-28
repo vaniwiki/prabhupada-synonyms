@@ -1,5 +1,11 @@
-~~Title:vajrakaṇṭaka~~
-{{description>a silk-cotton tree with thorns like thunderbolts.}}
+---json
+{
+    "name":"vajrakaṇṭaka",
+    "h1":"vajrakaṇṭaka",
+    "title":"vajrakaṇṭaka",
+    "description":"a silk-cotton tree with thorns like thunderbolts."
+}
+---
 
 ==== vajrakaṇṭaka-śālmalīm  ====
   * a silk-cotton tree with thorns like thunderbolts --- [[books:sb:5:26:21|SB 5.26.21]]

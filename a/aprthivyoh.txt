@@ -1,5 +1,11 @@
-~~Title:āpṛthivyoḥ~~
-{{description>of the earth; of the lower world.}}
+---json
+{
+    "name":"āpṛthivyoḥ",
+    "h1":"āpṛthivyoḥ",
+    "title":"āpṛthivyoḥ",
+    "description":"of the earth; of the lower world."
+}
+---
 
 ==== āpṛthivyoḥ  ====
   * of the earth --- [[books:bg:11:20|Bg. 11.20]]

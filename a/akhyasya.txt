@@ -1,5 +1,11 @@
-~~Title:ākhyasya~~
-{{description>mood known as mohana, or enchanting.}}
+---json
+{
+    "name":"ākhyasya",
+    "h1":"ākhyasya",
+    "title":"ākhyasya",
+    "description":"mood known as mohana, or enchanting."
+}
+---
 
 ==== mohana-ākhyasya  ====
   * mood known as //mohana,// or enchanting --- [[books:cc:antya:14:16|Antya 14.16]]

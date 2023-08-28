@@ -1,5 +1,11 @@
-~~Title:adharera~~
-{{description>of the lips.}}
+---json
+{
+    "name":"adharera",
+    "h1":"adharera",
+    "title":"adharera",
+    "description":"of the lips."
+}
+---
 
 ==== adharera  ====
   * of the lips --- [[books:cc:antya:16:112|Antya 16.112]], [[books:cc:antya:16:130|Antya 16.130]]

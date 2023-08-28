@@ -1,5 +1,11 @@
-~~Title:upabṛṁhitaiḥ~~
-{{description>increased in power.}}
+---json
+{
+    "name":"upabṛṁhitaiḥ",
+    "h1":"upabṛṁhitaiḥ",
+    "title":"upabṛṁhitaiḥ",
+    "description":"increased in power."
+}
+---
 
 ==== upabṛṁhitaiḥ  ====
   * increased in power --- [[books:sb:7:10:53|SB 7.10.53]]

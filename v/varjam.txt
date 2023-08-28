@@ -1,5 +1,11 @@
-~~Title:varjam~~
-{{description>rejecting.}}
+---json
+{
+    "name":"varjam",
+    "h1":"varjam",
+    "title":"varjam",
+    "description":"rejecting."
+}
+---
 
 ==== varjam  ====
   * rejecting --- [[books:cc:madhya:11:47|Madhya 11.47]]

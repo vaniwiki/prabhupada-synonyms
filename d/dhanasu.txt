@@ -1,5 +1,11 @@
-~~Title:dhānāsu~~
-{{description>through seeds of paddy.}}
+---json
+{
+    "name":"dhānāsu",
+    "h1":"dhānāsu",
+    "title":"dhānāsu",
+    "description":"through seeds of paddy."
+}
+---
 
 ==== dhānāsu  ====
   * through seeds of paddy --- [[books:sb:6:15:4|SB 6.15.4]]

@@ -1,5 +1,11 @@
-~~Title:śrutim~~
-{{description>hearing; his ear; the ears; Vedic literature; whose ear.}}
+---json
+{
+    "name":"śrutim",
+    "h1":"śrutim",
+    "title":"śrutim",
+    "description":"hearing; his ear; the ears; Vedic literature; whose ear."
+}
+---
 
 ==== śrutim  ====
   * hearing --- [[books:cc:madhya:24:120|Madhya 24.120]]

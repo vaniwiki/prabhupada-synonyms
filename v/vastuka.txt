@@ -1,5 +1,11 @@
-~~Title:vāstuka~~
-{{description>spinach.}}
+---json
+{
+    "name":"vāstuka",
+    "h1":"vāstuka",
+    "title":"vāstuka",
+    "description":"spinach."
+}
+---
 
 ==== vāstuka-śāka  ====
   * spinach --- [[books:cc:madhya:3:45|Madhya 3.45]]

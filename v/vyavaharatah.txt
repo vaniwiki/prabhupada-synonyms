@@ -1,5 +1,11 @@
-~~Title:vyavahārataḥ~~
-{{description>than the temporary usage or convention.}}
+---json
+{
+    "name":"vyavahārataḥ",
+    "h1":"vyavahārataḥ",
+    "title":"vyavahārataḥ",
+    "description":"than the temporary usage or convention."
+}
+---
 
 ==== vyavahārataḥ  ====
   * than the temporary usage or convention --- [[books:sb:5:10:12|SB 5.10.12]]

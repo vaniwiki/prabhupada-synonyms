@@ -1,5 +1,11 @@
-~~Title:apratirūpam~~
-{{description>just the opposite.}}
+---json
+{
+    "name":"apratirūpam",
+    "h1":"apratirūpam",
+    "title":"apratirūpam",
+    "description":"just the opposite."
+}
+---
 
 ==== apratirūpam  ====
   * just the opposite --- [[books:sb:6:14:54|SB 6.14.54]]

@@ -1,5 +1,11 @@
-~~Title:durge~~
-{{description>in the formidable fort.}}
+---json
+{
+    "name":"durge",
+    "h1":"durge",
+    "title":"durge",
+    "description":"in the formidable fort."
+}
+---
 
 ==== durge  ====
   * in the formidable fort --- [[books:sb:4:7:28|SB 4.7.28]]

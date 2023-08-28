@@ -1,5 +1,11 @@
-~~Title:chindan~~
-{{description>cutting.}}
+---json
+{
+    "name":"chindan",
+    "h1":"chindan",
+    "title":"chindan",
+    "description":"cutting."
+}
+---
 
 ==== chindan  ====
   * cutting --- [[books:sb:4:5:22|SB 4.5.22]]

@@ -1,5 +1,11 @@
-~~Title:gahana~~
-{{description>crowds.}}
+---json
+{
+    "name":"gahana",
+    "h1":"gahana",
+    "title":"gahana",
+    "description":"crowds."
+}
+---
 
 ==== gahana  ====
   * crowds --- [[books:cc:madhya:1:79|Madhya 1.79]]

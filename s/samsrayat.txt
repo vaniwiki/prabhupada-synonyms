@@ -1,5 +1,11 @@
-~~Title:saṁśrayāt~~
-{{description>by strength.}}
+---json
+{
+    "name":"saṁśrayāt",
+    "h1":"saṁśrayāt",
+    "title":"saṁśrayāt",
+    "description":"by strength."
+}
+---
 
 ==== saṁśrayāt  ====
   * by strength --- [[books:sb:1:15:7|SB 1.15.7]]

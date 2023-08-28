@@ -1,5 +1,11 @@
-~~Title:adhiṣṭhāna~~
-{{description>abode.}}
+---json
+{
+    "name":"adhiṣṭhāna",
+    "h1":"adhiṣṭhāna",
+    "title":"adhiṣṭhāna",
+    "description":"abode."
+}
+---
 
 ==== adhiṣṭhāna  ====
   * abode --- [[books:cc:adi:1:61|Ādi 1.61]], [[books:cc:adi:4:90|Ādi 4.90]]

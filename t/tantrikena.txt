@@ -1,5 +1,11 @@
-~~Title:tāntrikeṇa~~
-{{description>realized by followers of Tantras, like Nārada-pañcarātra.}}
+---json
+{
+    "name":"tāntrikeṇa",
+    "h1":"tāntrikeṇa",
+    "title":"tāntrikeṇa",
+    "description":"realized by followers of Tantras, like Nārada-pañcarātra."
+}
+---
 
 ==== tāntrikeṇa  ====
   * realized by followers of //Tantras,// like //Nārada-pañcarātra// --- [[books:sb:8:6:9|SB 8.6.9]]

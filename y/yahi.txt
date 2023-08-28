@@ -1,5 +1,11 @@
-~~Title:yāhi~~
-{{description>because; become; better go; go; immediately go; please return.}}
+---json
+{
+    "name":"yāhi",
+    "h1":"yāhi",
+    "title":"yāhi",
+    "description":"because; become; better go; go; immediately go; please return."
+}
+---
 
 ==== yāhi  ====
   * because --- [[books:cc:antya:5:143|Antya 5.143]]

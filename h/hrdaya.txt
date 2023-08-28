@@ -1,5 +1,11 @@
-~~Title:hrdaya~~
-{{description>consciousness; heart; hearts; her heart; his heart; in mind or heart; in the heart; in their hearts; intention; mind; my heart; of my heart; of the heart; our hearts; the core of the heart; the heart.}}
+---json
+{
+    "name":"hrdaya",
+    "h1":"hrdaya",
+    "title":"hrdaya",
+    "description":"consciousness; heart; hearts; her heart; his heart; in mind or heart; in the heart; in their hearts; intention; mind; my heart; of my heart; of the heart; our hearts; the core of the heart; the heart."
+}
+---
 
 ==== hṛdaya  ====
   * consciousness --- [[books:cc:madhya:13:137|Madhya 13.137]]

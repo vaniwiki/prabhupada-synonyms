@@ -1,5 +1,11 @@
-~~Title:pākhāliyā~~
-{{description>washing.}}
+---json
+{
+    "name":"pākhāliyā",
+    "h1":"pākhāliyā",
+    "title":"pākhāliyā",
+    "description":"washing."
+}
+---
 
 ==== pākhāliyā  ====
   * washing --- [[books:cc:antya:6:317|Antya 6.317]]

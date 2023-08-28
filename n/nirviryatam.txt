@@ -1,5 +1,11 @@
-~~Title:nirvīryatām~~
-{{description>barrenness.}}
+---json
+{
+    "name":"nirvīryatām",
+    "h1":"nirvīryatām",
+    "title":"nirvīryatām",
+    "description":"barrenness."
+}
+---
 
 ==== nirvīryatām  ====
   * barrenness --- [[books:sb:7:11:33-34|SB 7.11.33-34]]

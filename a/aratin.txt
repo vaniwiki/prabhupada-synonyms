@@ -1,5 +1,11 @@
-~~Title:arātīn~~
-{{description>enemies.}}
+---json
+{
+    "name":"arātīn",
+    "h1":"arātīn",
+    "title":"arātīn",
+    "description":"enemies."
+}
+---
 
 ==== arātīn  ====
   * enemies --- [[books:sb:3:14:20|SB 3.14.20]]

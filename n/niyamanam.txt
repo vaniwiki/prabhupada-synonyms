@@ -1,5 +1,11 @@
-~~Title:niyamanam~~
-{{description>being brought; me, who was being carried away.}}
+---json
+{
+    "name":"niyamanam",
+    "h1":"niyamanam",
+    "title":"niyamanam",
+    "description":"being brought; me, who was being carried away."
+}
+---
 
 ==== nīyamānam  ====
   * being brought --- [[books:sb:6:3:9|SB 6.3.9]]

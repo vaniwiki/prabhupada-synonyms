@@ -1,5 +1,11 @@
-~~Title:padayoh~~
-{{description>at Your lotus feet; of the lotus feet; on the feet.}}
+---json
+{
+    "name":"padayoh",
+    "h1":"padayoh",
+    "title":"padayoh",
+    "description":"at Your lotus feet; of the lotus feet; on the feet."
+}
+---
 
 ==== padayoḥ  ====
   * at Your lotus feet --- [[books:sb:3:15:49|SB 3.15.49]]

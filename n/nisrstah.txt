@@ -1,5 +1,11 @@
-~~Title:nisṛṣṭaḥ~~
-{{description>set.}}
+---json
+{
+    "name":"nisṛṣṭaḥ",
+    "h1":"nisṛṣṭaḥ",
+    "title":"nisṛṣṭaḥ",
+    "description":"set."
+}
+---
 
 ==== nisṛṣṭaḥ  ====
   * set --- [[books:sb:1:13:24|SB 1.13.24]]

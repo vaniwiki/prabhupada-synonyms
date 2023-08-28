@@ -1,5 +1,11 @@
-~~Title:huḍāhuḍi~~
-{{description>hurrying; jostling; struggling together; tumultuous activities.}}
+---json
+{
+    "name":"huḍāhuḍi",
+    "h1":"huḍāhuḍi",
+    "title":"huḍāhuḍi",
+    "description":"hurrying; jostling; struggling together; tumultuous activities."
+}
+---
 
 ==== huḍāhuḍi  ====
   * hurrying --- [[books:cc:madhya:18:148|Madhya 18.148]]

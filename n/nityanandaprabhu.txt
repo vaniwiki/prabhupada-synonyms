@@ -1,5 +1,11 @@
-~~Title:nityānandaprabhu~~
-{{description>Lord Śrī Nityānanda Prabhu.}}
+---json
+{
+    "name":"nityānandaprabhu",
+    "h1":"nityānandaprabhu",
+    "title":"nityānandaprabhu",
+    "description":"Lord Śrī Nityānanda Prabhu."
+}
+---
 
 ==== nityānandaprabhu  ====
   * Lord Śrī Nityānanda Prabhu --- [[books:cc:madhya:7:74|Madhya 7.74]]

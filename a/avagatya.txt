@@ -1,5 +1,11 @@
-~~Title:avagatyā~~
-{{description>by realizing.}}
+---json
+{
+    "name":"avagatyā",
+    "h1":"avagatyā",
+    "title":"avagatyā",
+    "description":"by realizing."
+}
+---
 
 ==== avagatyā  ====
   * by realizing --- [[books:sb:5:5:10-13|SB 5.5.10-13]]

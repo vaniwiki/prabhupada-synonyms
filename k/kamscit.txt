@@ -1,5 +1,11 @@
-~~Title:kāṁścit~~
-{{description>some of them.}}
+---json
+{
+    "name":"kāṁścit",
+    "h1":"kāṁścit",
+    "title":"kāṁścit",
+    "description":"some of them."
+}
+---
 
 ==== kāṁścit  ====
   * some of them --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

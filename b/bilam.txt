@@ -1,5 +1,11 @@
-~~Title:bilam~~
-{{description>the hole.}}
+---json
+{
+    "name":"bilam",
+    "h1":"bilam",
+    "title":"bilam",
+    "description":"the hole."
+}
+---
 
 ==== bilam  ====
   * the hole --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

@@ -1,5 +1,11 @@
-~~Title:anucakāra~~
-{{description>imitated.}}
+---json
+{
+    "name":"anucakāra",
+    "h1":"anucakāra",
+    "title":"anucakāra",
+    "description":"imitated."
+}
+---
 
 ==== anucakāra  ====
   * imitated --- [[books:sb:7:4:40|SB 7.4.40]]

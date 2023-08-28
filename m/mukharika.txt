@@ -1,5 +1,11 @@
-~~Title:mukharika~~
-{{description>of speech.}}
+---json
+{
+    "name":"mukharika",
+    "h1":"mukharika",
+    "title":"mukharika",
+    "description":"of speech."
+}
+---
 
 ==== mukharika  ====
   * of speech --- [[books:sb:5:25:7|SB 5.25.7]]

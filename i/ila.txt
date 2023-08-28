@@ -1,5 +1,11 @@
-~~Title:ila~~
-{{description>Ilā; the girl, Ilā.}}
+---json
+{
+    "name":"ila",
+    "h1":"ila",
+    "title":"ila",
+    "description":"Ilā; the girl, Ilā."
+}
+---
 
 ==== ilā  ====
   * Ilā --- [[books:sb:6:6:24-26|SB 6.6.24-26]], [[books:sb:9:1:16|SB 9.1.16]], [[books:sb:9:24:45|SB 9.24.45]]

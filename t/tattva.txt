@@ -1,5 +1,11 @@
-~~Title:tattva~~
-{{description>Absolute Truth; basic principles; conclusions; in truth; knowledge; of the Absolute Truth; of the truth; of the ultimate principles; real nature; that truth; the Absolute Truth; the fundamental principles; the principle; the truth; to the truth; truth; truths.}}
+---json
+{
+    "name":"tattva",
+    "h1":"tattva",
+    "title":"tattva",
+    "description":"Absolute Truth; basic principles; conclusions; in truth; knowledge; of the Absolute Truth; of the truth; of the ultimate principles; real nature; that truth; the Absolute Truth; the fundamental principles; the principle; the truth; to the truth; truth; truths."
+}
+---
 
 ==== tattva  ====
   * Absolute Truth --- [[books:sb:4:31:7|SB 4.31.7]]

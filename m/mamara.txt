@@ -1,5 +1,11 @@
-~~Title:mamara~~
-{{description>died.}}
+---json
+{
+    "name":"mamara",
+    "h1":"mamara",
+    "title":"mamara",
+    "description":"died."
+}
+---
 
 ==== mamāra  ====
   * died --- [[books:sb:5:8:6|SB 5.8.6]], [[books:sb:6:12:31|SB 6.12.31]], [[books:sb:6:18:65|SB 6.18.65]], [[books:sb:9:6:32|SB 9.6.32]]

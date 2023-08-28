@@ -1,5 +1,11 @@
-~~Title:anudhāvataḥ~~
-{{description>following; who was following.}}
+---json
+{
+    "name":"anudhāvataḥ",
+    "h1":"anudhāvataḥ",
+    "title":"anudhāvataḥ",
+    "description":"following; who was following."
+}
+---
 
 ==== anudhāvataḥ  ====
   * following --- [[books:sb:8:12:32|SB 8.12.32]]

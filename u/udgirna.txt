@@ -1,5 +1,11 @@
-~~Title:udgīrṇa~~
-{{description>manifesting; overflowing.}}
+---json
+{
+    "name":"udgīrṇa",
+    "h1":"udgīrṇa",
+    "title":"udgīrṇa",
+    "description":"manifesting; overflowing."
+}
+---
 
 ==== udgīrṇa  ====
   * manifesting --- [[books:cc:adi:4:260|Ādi 4.260]]

@@ -1,5 +1,11 @@
-~~Title:jīvitei~~
-{{description>while living.}}
+---json
+{
+    "name":"jīvitei",
+    "h1":"jīvitei",
+    "title":"jīvitei",
+    "description":"while living."
+}
+---
 
 ==== jīvitei  ====
   * while living --- [[books:cc:adi:12:70|Ādi 12.70]]

@@ -1,5 +1,11 @@
-~~Title:sraddhaya~~
-{{description>because of the attitudes; by eagerness; by faith; by great faith; faith; faith and confidence; full faith; in earnestness; respectfully; with devotion; with faith; with faith and conviction; with faith and devotion; with faith and love; with faith and reverence; with faith and veneration; with great faith; with great faith and allegiance; with great faith and care; with great faith and devotion; with great respect; with love and affection; with reverence.}}
+---json
+{
+    "name":"sraddhaya",
+    "h1":"sraddhaya",
+    "title":"sraddhaya",
+    "description":"because of the attitudes; by eagerness; by faith; by great faith; faith; faith and confidence; full faith; in earnestness; respectfully; with devotion; with faith; with faith and conviction; with faith and devotion; with faith and love; with faith and reverence; with faith and veneration; with great faith; with great faith and allegiance; with great faith and care; with great faith and devotion; with great respect; with love and affection; with reverence."
+}
+---
 
 ==== śraddhayā  ====
   * because of the attitudes --- [[books:sb:5:26:2|SB 5.26.2]]

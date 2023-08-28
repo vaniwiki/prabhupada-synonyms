@@ -1,5 +1,11 @@
-~~Title:śulka~~
-{{description>fines.}}
+---json
+{
+    "name":"śulka",
+    "h1":"śulka",
+    "title":"śulka",
+    "description":"fines."
+}
+---
 
 ==== śulka  ====
   * fines --- [[books:sb:4:24:6|SB 4.24.6]]

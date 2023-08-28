@@ -1,5 +1,11 @@
-~~Title:namaskaromi~~
-{{description>I offer my obeisances.}}
+---json
+{
+    "name":"namaskaromi",
+    "h1":"namaskaromi",
+    "title":"namaskaromi",
+    "description":"I offer my obeisances."
+}
+---
 
 ==== namaskaromi  ====
   * I offer my obeisances --- [[books:sb:6:4:24|SB 6.4.24]]

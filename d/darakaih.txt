@@ -1,5 +1,11 @@
-~~Title:dārakaiḥ~~
-{{description>with other boys of the same profession (cowherd boys).}}
+---json
+{
+    "name":"dārakaiḥ",
+    "h1":"dārakaiḥ",
+    "title":"dārakaiḥ",
+    "description":"with other boys of the same profession (cowherd boys)."
+}
+---
 
 ==== saha gopāla-dārakaiḥ  ====
   * with other boys of the same profession (cowherd boys) --- [[books:sb:10:11:38|SB 10.11.38]]

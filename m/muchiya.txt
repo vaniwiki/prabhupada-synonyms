@@ -1,5 +1,11 @@
-~~Title:muchiyā~~
-{{description>wiping.}}
+---json
+{
+    "name":"muchiyā",
+    "h1":"muchiyā",
+    "title":"muchiyā",
+    "description":"wiping."
+}
+---
 
 ==== muchiyā  ====
   * wiping --- [[books:cc:antya:3:35|Antya 3.35]]

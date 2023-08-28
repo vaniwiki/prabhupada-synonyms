@@ -1,5 +1,11 @@
-~~Title:sahiṣṇutā~~
-{{description>forbearance; tolerance.}}
+---json
+{
+    "name":"sahiṣṇutā",
+    "h1":"sahiṣṇutā",
+    "title":"sahiṣṇutā",
+    "description":"forbearance; tolerance."
+}
+---
 
 ==== sahiṣṇutā  ====
   * forbearance --- [[books:cc:adi:17:27|Ādi 17.27]]

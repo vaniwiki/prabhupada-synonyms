@@ -1,5 +1,11 @@
-~~Title:romāṇi~~
-{{description>hairs on the body; the hairs; the hairs of the body.}}
+---json
+{
+    "name":"romāṇi",
+    "h1":"romāṇi",
+    "title":"romāṇi",
+    "description":"hairs on the body; the hairs; the hairs of the body."
+}
+---
 
 ==== romāṇi  ====
   * hairs on the body --- [[books:sb:2:6:5|SB 2.6.5]]

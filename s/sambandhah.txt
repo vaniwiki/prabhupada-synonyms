@@ -1,5 +1,11 @@
-~~Title:sambandhaḥ~~
-{{description>connection; relation with the material body; relationship.}}
+---json
+{
+    "name":"sambandhaḥ",
+    "h1":"sambandhaḥ",
+    "title":"sambandhaḥ",
+    "description":"connection; relation with the material body; relationship."
+}
+---
 
 ==== sambandhaḥ  ====
   * connection --- [[books:cc:madhya:22:133|Madhya 22.133]], [[books:cc:madhya:24:195|Madhya 24.195]]

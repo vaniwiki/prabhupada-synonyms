@@ -1,5 +1,11 @@
-~~Title:tamasya~~
-{{description>of the most respectable demigod (Lord Śiva).}}
+---json
+{
+    "name":"tamasya",
+    "h1":"tamasya",
+    "title":"tamasya",
+    "description":"of the most respectable demigod (Lord Śiva)."
+}
+---
 
 ==== daiva-tamasya  ====
   * of the most respectable demigod (Lord Śiva) --- [[books:sb:4:4:28|SB 4.4.28]]

@@ -1,5 +1,11 @@
-~~Title:vestita~~
-{{description>covered; surrounded.}}
+---json
+{
+    "name":"vestita",
+    "h1":"vestita",
+    "title":"vestita",
+    "description":"covered; surrounded."
+}
+---
 
 ==== veṣṭita  ====
   * covered --- [[books:cc:madhya:20:114|Madhya 20.114]]

@@ -1,5 +1,11 @@
-~~Title:bhajiba~~
-{{description>I shall worship.}}
+---json
+{
+    "name":"bhajiba",
+    "h1":"bhajiba",
+    "title":"bhajiba",
+    "description":"I shall worship."
+}
+---
 
 ==== bhajiba  ====
   * I shall worship --- [[books:cc:madhya:10:107|Madhya 10.107]]

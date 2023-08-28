@@ -1,5 +1,11 @@
-~~Title:varte~~
-{{description>engaged.}}
+---json
+{
+    "name":"varte",
+    "h1":"varte",
+    "title":"varte",
+    "description":"engaged."
+}
+---
 
 ==== varte  ====
   * engaged --- [[books:bg:3:22|Bg. 3.22]]

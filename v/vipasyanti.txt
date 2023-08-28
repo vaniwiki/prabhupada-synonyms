@@ -1,5 +1,11 @@
-~~Title:vipaśyanti~~
-{{description>can see only.}}
+---json
+{
+    "name":"vipaśyanti",
+    "h1":"vipaśyanti",
+    "title":"vipaśyanti",
+    "description":"can see only."
+}
+---
 
 ==== vipaśyanti  ====
   * can see only --- [[books:sb:9:8:22|SB 9.8.22]]

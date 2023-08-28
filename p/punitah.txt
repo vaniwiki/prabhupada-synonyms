@@ -1,5 +1,11 @@
-~~Title:punītaḥ~~
-{{description>purified.}}
+---json
+{
+    "name":"punītaḥ",
+    "h1":"punītaḥ",
+    "title":"punītaḥ",
+    "description":"purified."
+}
+---
 
 ==== punītaḥ  ====
   * purified --- [[books:sb:3:16:21|SB 3.16.21]]

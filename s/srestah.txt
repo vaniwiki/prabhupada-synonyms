@@ -1,5 +1,11 @@
-~~Title:śreṣṭaḥ~~
-{{description>the best man.}}
+---json
+{
+    "name":"śreṣṭaḥ",
+    "h1":"śreṣṭaḥ",
+    "title":"śreṣṭaḥ",
+    "description":"the best man."
+}
+---
 
 ==== śreṣṭaḥ  ====
   * the best man --- [[books:cc:madhya:17:178|Madhya 17.178]]

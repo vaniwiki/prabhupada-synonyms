@@ -1,5 +1,11 @@
-~~Title:aṇḍam~~
-{{description>an egg; egg; globe; Hiraṇyagarbha; the brahmāṇḍa; the universal globe; the universal globes; the universes.}}
+---json
+{
+    "name":"aṇḍam",
+    "h1":"aṇḍam",
+    "title":"aṇḍam",
+    "description":"an egg; egg; globe; Hiraṇyagarbha; the brahmāṇḍa; the universal globe; the universal globes; the universes."
+}
+---
 
 ==== aṇḍam  ====
   * an egg --- [[books:sb:3:26:51|SB 3.26.51]], [[books:sb:3:31:2|SB 3.31.2]]

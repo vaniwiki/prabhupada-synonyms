@@ -1,5 +1,11 @@
-~~Title:avāpsyasi~~
-{{description>achieve; do gain; you will achieve; you will gain.}}
+---json
+{
+    "name":"avāpsyasi",
+    "h1":"avāpsyasi",
+    "title":"avāpsyasi",
+    "description":"achieve; do gain; you will achieve; you will gain."
+}
+---
 
 ==== avāpsyasi  ====
   * achieve --- [[books:bg:12:10|Bg. 12.10]]

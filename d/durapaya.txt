@@ -1,5 +1,11 @@
-~~Title:durāpayā~~
-{{description>very difficult to attain.}}
+---json
+{
+    "name":"durāpayā",
+    "h1":"durāpayā",
+    "title":"durāpayā",
+    "description":"very difficult to attain."
+}
+---
 
 ==== durāpayā  ====
   * very difficult to attain --- [[books:sb:4:24:55|SB 4.24.55]]

@@ -1,5 +1,11 @@
-~~Title:jalāśayān~~
-{{description>health-giving.}}
+---json
+{
+    "name":"jalāśayān",
+    "h1":"jalāśayān",
+    "title":"jalāśayān",
+    "description":"health-giving."
+}
+---
 
 ==== jalāśayān śiva  ====
   * health-giving --- [[books:sb:1:6:12|SB 1.6.12]]

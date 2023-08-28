@@ -1,5 +1,11 @@
-~~Title:vandyam~~
-{{description>respectable; worshipable; worthy to be worshiped.}}
+---json
+{
+    "name":"vandyam",
+    "h1":"vandyam",
+    "title":"vandyam",
+    "description":"respectable; worshipable; worthy to be worshiped."
+}
+---
 
 ==== vandyam  ====
   * respectable --- [[books:sb:1:7:46|SB 1.7.46]]

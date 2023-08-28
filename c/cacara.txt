@@ -1,5 +1,11 @@
-~~Title:cacāra~~
-{{description>executed; he went; performed; practiced; traveled; wandered.}}
+---json
+{
+    "name":"cacāra",
+    "h1":"cacāra",
+    "title":"cacāra",
+    "description":"executed; he went; performed; practiced; traveled; wandered."
+}
+---
 
 ==== cacāra  ====
   * executed --- [[books:sb:3:1:18|SB 3.1.18]], [[books:sb:4:26:4|SB 4.26.4]], [[books:sb:5:6:14|SB 5.6.14]], [[books:sb:8:17:2-3|SB 8.17.2-3]]

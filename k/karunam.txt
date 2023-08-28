@@ -1,5 +1,11 @@
-~~Title:karunam~~
-{{description>piteously; pitiable condition.}}
+---json
+{
+    "name":"karunam",
+    "h1":"karunam",
+    "title":"karunam",
+    "description":"piteously; pitiable condition."
+}
+---
 
 ==== karuṇam  ====
   * piteously --- [[books:sb:10:1:18|SB 10.1.18]], [[books:sb:10:4:4|SB 10.4.4]]

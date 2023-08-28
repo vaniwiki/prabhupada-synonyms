@@ -1,5 +1,11 @@
-~~Title:śrotāra~~
-{{description>of the audience.}}
+---json
+{
+    "name":"śrotāra",
+    "h1":"śrotāra",
+    "title":"śrotāra",
+    "description":"of the audience."
+}
+---
 
 ==== śrotāra  ====
   * of the audience --- [[books:cc:antya:20:152|Antya 20.152]]

@@ -1,5 +1,11 @@
-~~Title:chandayām~~
-{{description>pacified; requested to take charge of the kingdom.}}
+---json
+{
+    "name":"chandayām",
+    "h1":"chandayām",
+    "title":"chandayām",
+    "description":"pacified; requested to take charge of the kingdom."
+}
+---
 
 ==== chandayām āsa  ====
   * pacified --- [[books:sb:4:17:1|SB 4.17.1]]

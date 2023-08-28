@@ -1,5 +1,11 @@
-~~Title:nirbhāta~~
-{{description>dazzling; placing clearly before the mind.}}
+---json
+{
+    "name":"nirbhāta",
+    "h1":"nirbhāta",
+    "title":"nirbhāta",
+    "description":"dazzling; placing clearly before the mind."
+}
+---
 
 ==== nirbhāta  ====
   * dazzling --- [[books:sb:1:11:19|SB 1.11.19]]

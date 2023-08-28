@@ -1,5 +1,11 @@
-~~Title:palāyana~~
-{{description>intent on escaping; intent upon fleeing.}}
+---json
+{
+    "name":"palāyana",
+    "h1":"palāyana",
+    "title":"palāyana",
+    "description":"intent on escaping; intent upon fleeing."
+}
+---
 
 ==== palāyana-parāḥ  ====
   * intent on escaping --- [[books:sb:10:4:33|SB 10.4.33]]

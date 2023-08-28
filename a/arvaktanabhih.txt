@@ -1,5 +1,11 @@
-~~Title:arvāktanābhiḥ~~
-{{description>which do not reach up to, or which are of this material world.}}
+---json
+{
+    "name":"arvāktanābhiḥ",
+    "h1":"arvāktanābhiḥ",
+    "title":"arvāktanābhiḥ",
+    "description":"which do not reach up to, or which are of this material world."
+}
+---
 
 ==== arvāktanābhiḥ  ====
   * which do not reach up to, or which are of this material world --- [[books:sb:5:3:4-5|SB 5.3.4-5]]

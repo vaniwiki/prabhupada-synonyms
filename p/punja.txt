@@ -1,5 +1,11 @@
-~~Title:punja~~
-{{description>four palmfuls.}}
+---json
+{
+    "name":"punja",
+    "h1":"punja",
+    "title":"punja",
+    "description":"four palmfuls."
+}
+---
 
 ==== eka eka puñjā  ====
   * four palmfuls --- [[books:cc:antya:11:78|Antya 11.78]]

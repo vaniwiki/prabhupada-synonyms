@@ -1,5 +1,11 @@
-~~Title:bhaṅgima~~
-{{description>curved in three places.}}
+---json
+{
+    "name":"bhaṅgima",
+    "h1":"bhaṅgima",
+    "title":"bhaṅgima",
+    "description":"curved in three places."
+}
+---
 
 ==== tri-bhaṅgima  ====
   * curved in three places --- [[books:cc:adi:17:279|Ādi 17.279]]

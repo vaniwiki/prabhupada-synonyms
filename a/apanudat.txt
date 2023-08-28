@@ -1,5 +1,11 @@
-~~Title:apānudat~~
-{{description>extirpated.}}
+---json
+{
+    "name":"apānudat",
+    "h1":"apānudat",
+    "title":"apānudat",
+    "description":"extirpated."
+}
+---
 
 ==== apānudat  ====
   * extirpated --- [[books:sb:1:16:34|SB 1.16.34]]

@@ -1,5 +1,11 @@
-~~Title:bakam~~
-{{description>Bakāsura.}}
+---json
+{
+    "name":"bakam",
+    "h1":"bakam",
+    "title":"bakam",
+    "description":"Bakāsura."
+}
+---
 
 ==== bakam  ====
   * Bakāsura --- [[books:sb:10:11:51|SB 10.11.51]]

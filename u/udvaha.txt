@@ -1,5 +1,11 @@
-~~Title:udvaha~~
-{{description>at the time of the marriage ceremony.}}
+---json
+{
+    "name":"udvaha",
+    "h1":"udvaha",
+    "title":"udvaha",
+    "description":"at the time of the marriage ceremony."
+}
+---
 
 ==== udvāha-parvaṇi  ====
   * at the time of the marriage ceremony --- [[books:sb:10:1:37|SB 10.1.37]]

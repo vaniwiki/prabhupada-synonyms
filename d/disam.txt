@@ -1,5 +1,11 @@
-~~Title:disam~~
-{{description>all directions; around; direction; directions; side; the direction.}}
+---json
+{
+    "name":"disam",
+    "h1":"disam",
+    "title":"disam",
+    "description":"all directions; around; direction; directions; side; the direction."
+}
+---
 
 ==== diśam  ====
   * all directions --- [[books:sb:8:21:27|SB 8.21.27]]

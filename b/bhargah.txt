@@ -1,5 +1,11 @@
-~~Title:bhargaḥ~~
-{{description>Bharga; the self-effulgence; the son named Bharga.}}
+---json
+{
+    "name":"bhargaḥ",
+    "h1":"bhargaḥ",
+    "title":"bhargaḥ",
+    "description":"Bharga; the self-effulgence; the son named Bharga."
+}
+---
 
 ==== bhargaḥ  ====
   * Bharga --- [[books:sb:9:17:9|SB 9.17.9]]

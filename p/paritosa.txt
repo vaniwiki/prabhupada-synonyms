@@ -1,5 +1,11 @@
-~~Title:paritoṣa~~
-{{description>happiness.}}
+---json
+{
+    "name":"paritoṣa",
+    "h1":"paritoṣa",
+    "title":"paritoṣa",
+    "description":"happiness."
+}
+---
 
 ==== paritoṣa  ====
   * happiness --- [[books:cc:antya:10:8|Antya 10.8]]

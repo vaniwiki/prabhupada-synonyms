@@ -1,5 +1,11 @@
-~~Title:bharatarṣabha~~
-{{description>O best amongst the Bhāratas; O best of the Bhāratas; O chief amongst the descendants of Bharata; O chief of the Bhāratas; O chief of the descendants of Bharata; O great one amongst the descendants of Bharata; O lord of the Bhāratas.}}
+---json
+{
+    "name":"bharatarṣabha",
+    "h1":"bharatarṣabha",
+    "title":"bharatarṣabha",
+    "description":"O best amongst the Bhāratas; O best of the Bhāratas; O chief amongst the descendants of Bharata; O chief of the Bhāratas; O chief of the descendants of Bharata; O great one amongst the descendants of Bharata; O lord of the Bhāratas."
+}
+---
 
 ==== bharatarṣabha  ====
   * O best amongst the Bhāratas --- [[books:bg:18:36-37|Bg. 18.36-37]]

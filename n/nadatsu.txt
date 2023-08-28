@@ -1,5 +1,11 @@
-~~Title:nadatsu~~
-{{description>vibrating; while exclaiming.}}
+---json
+{
+    "name":"nadatsu",
+    "h1":"nadatsu",
+    "title":"nadatsu",
+    "description":"vibrating; while exclaiming."
+}
+---
 
 ==== nadatsu  ====
   * vibrating --- [[books:sb:4:23:24|SB 4.23.24]]

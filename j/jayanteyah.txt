@@ -1,5 +1,11 @@
-~~Title:jāyanteyāḥ~~
-{{description>the sons of Jayantī, the wife of Ṛṣabhadeva.}}
+---json
+{
+    "name":"jāyanteyāḥ",
+    "h1":"jāyanteyāḥ",
+    "title":"jāyanteyāḥ",
+    "description":"the sons of Jayantī, the wife of Ṛṣabhadeva."
+}
+---
 
 ==== jāyanteyāḥ  ====
   * the sons of Jayantī, the wife of Ṛṣabhadeva --- [[books:sb:5:4:13|SB 5.4.13]]

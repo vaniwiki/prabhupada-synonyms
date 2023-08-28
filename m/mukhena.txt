@@ -1,5 +1,11 @@
-~~Title:mukhena~~
-{{description>by a gesture of the face; by his face; by the face; by the mouth; with your face.}}
+---json
+{
+    "name":"mukhena",
+    "h1":"mukhena",
+    "title":"mukhena",
+    "description":"by a gesture of the face; by his face; by the face; by the mouth; with your face."
+}
+---
 
 ==== mukhena  ====
   * by a gesture of the face --- [[books:sb:3:8:27|SB 3.8.27]]

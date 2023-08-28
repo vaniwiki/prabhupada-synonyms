@@ -1,5 +1,11 @@
-~~Title:śāyitaḥ~~
-{{description>laid down.}}
+---json
+{
+    "name":"śāyitaḥ",
+    "h1":"śāyitaḥ",
+    "title":"śāyitaḥ",
+    "description":"laid down."
+}
+---
 
 ==== śāyitaḥ  ====
   * laid down --- [[books:sb:3:31:26|SB 3.31.26]]

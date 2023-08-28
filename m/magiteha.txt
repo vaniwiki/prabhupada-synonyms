@@ -1,5 +1,11 @@
-~~Title:māgiteha~~
-{{description>although not asking.}}
+---json
+{
+    "name":"māgiteha",
+    "h1":"māgiteha",
+    "title":"māgiteha",
+    "description":"although not asking."
+}
+---
 
 ==== nā māgiteha  ====
   * although not asking --- [[books:cc:madhya:22:37|Madhya 22.37]]

@@ -1,5 +1,11 @@
-~~Title:cacāla~~
-{{description>moved; shook; trembled; went on.}}
+---json
+{
+    "name":"cacāla",
+    "h1":"cacāla",
+    "title":"cacāla",
+    "description":"moved; shook; trembled; went on."
+}
+---
 
 ==== cacāla  ====
   * moved --- [[books:sb:9:4:47|SB 9.4.47]]

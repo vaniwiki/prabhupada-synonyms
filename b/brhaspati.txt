@@ -1,5 +1,11 @@
-~~Title:bṛhaspati~~
-{{description>Bṛhaspati, the priest of the heavenly planets; exactly like Bṛhaspati, the priest in the heavenly kingdom; like Bṛhaspati, the priest of the heavenly demigods; the learned priest of the demigods named Bṛhaspati.}}
+---json
+{
+    "name":"bṛhaspati",
+    "h1":"bṛhaspati",
+    "title":"bṛhaspati",
+    "description":"Bṛhaspati, the priest of the heavenly planets; exactly like Bṛhaspati, the priest in the heavenly kingdom; like Bṛhaspati, the priest of the heavenly demigods; the learned priest of the demigods named Bṛhaspati."
+}
+---
 
 ==== bṛhaspati  ====
   * Bṛhaspati, the priest of the heavenly planets --- [[books:cc:madhya:6:206|Madhya 6.206]]

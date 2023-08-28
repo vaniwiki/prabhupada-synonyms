@@ -1,5 +1,11 @@
-~~Title:akṣabhiḥ~~
-{{description>by the senses.}}
+---json
+{
+    "name":"akṣabhiḥ",
+    "h1":"akṣabhiḥ",
+    "title":"akṣabhiḥ",
+    "description":"by the senses."
+}
+---
 
 ==== akṣabhiḥ  ====
   * by the senses --- [[books:sb:4:29:5|SB 4.29.5]], [[books:sb:6:4:29|SB 6.4.29]]

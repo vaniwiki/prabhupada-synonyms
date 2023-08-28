@@ -1,5 +1,11 @@
-~~Title:saṁsthāpya~~
-{{description>after killing; by establishing; having killed; placing.}}
+---json
+{
+    "name":"saṁsthāpya",
+    "h1":"saṁsthāpya",
+    "title":"saṁsthāpya",
+    "description":"after killing; by establishing; having killed; placing."
+}
+---
 
 ==== saṁsthāpya  ====
   * after killing --- [[books:sb:3:18:4|SB 3.18.4]]

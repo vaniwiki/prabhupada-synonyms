@@ -1,5 +1,11 @@
-~~Title:bhogavantaḥ~~
-{{description>addicted to all kinds of material enjoyment.}}
+---json
+{
+    "name":"bhogavantaḥ",
+    "h1":"bhogavantaḥ",
+    "title":"bhogavantaḥ",
+    "description":"addicted to all kinds of material enjoyment."
+}
+---
 
 ==== mahā-bhogavantaḥ  ====
   * addicted to all kinds of material enjoyment --- [[books:sb:5:24:29|SB 5.24.29]]

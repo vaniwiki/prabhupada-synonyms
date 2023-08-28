@@ -1,5 +1,11 @@
-~~Title:hatānām~~
-{{description>of my dead mother and brothers; who are killed.}}
+---json
+{
+    "name":"hatānām",
+    "h1":"hatānām",
+    "title":"hatānām",
+    "description":"of my dead mother and brothers; who are killed."
+}
+---
 
 ==== hatānām  ====
   * of my dead mother and brothers --- [[books:sb:9:16:7|SB 9.16.7]]

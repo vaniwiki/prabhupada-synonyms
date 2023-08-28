@@ -1,5 +1,11 @@
-~~Title:nikaraiḥ~~
-{{description>by the assembly of.}}
+---json
+{
+    "name":"nikaraiḥ",
+    "h1":"nikaraiḥ",
+    "title":"nikaraiḥ",
+    "description":"by the assembly of."
+}
+---
 
 ==== nikaraiḥ  ====
   * by the assembly of --- [[books:sb:1:19:30|SB 1.19.30]]

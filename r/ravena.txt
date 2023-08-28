@@ -1,5 +1,11 @@
-~~Title:raveṇa~~
-{{description>by sounding the bugle made of horn.}}
+---json
+{
+    "name":"raveṇa",
+    "h1":"raveṇa",
+    "title":"raveṇa",
+    "description":"by sounding the bugle made of horn."
+}
+---
 
 ==== śṛṅga-raveṇa  ====
   * by sounding the bugle made of horn --- [[books:sb:10:12:1|SB 10.12.1]]

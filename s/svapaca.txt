@@ -1,5 +1,11 @@
-~~Title:śvapaca~~
-{{description>dog-eaters, the lowest of men.}}
+---json
+{
+    "name":"śvapaca",
+    "h1":"śvapaca",
+    "title":"śvapaca",
+    "description":"dog-eaters, the lowest of men."
+}
+---
 
 ==== śvapaca  ====
   * dog-eaters, the lowest of men --- [[books:cc:madhya:18:124|Madhya 18.124]]

@@ -1,5 +1,11 @@
-~~Title:cañcala~~
-{{description>agitated; flickering; perturbed; restless.}}
+---json
+{
+    "name":"cañcala",
+    "h1":"cañcala",
+    "title":"cañcala",
+    "description":"agitated; flickering; perturbed; restless."
+}
+---
 
 ==== cañcala  ====
   * agitated --- [[books:cc:madhya:2:60|Madhya 2.60]]

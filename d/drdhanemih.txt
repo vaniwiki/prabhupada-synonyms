@@ -1,5 +1,11 @@
-~~Title:dṛḍhanemiḥ~~
-{{description>Dṛḍhanemi.}}
+---json
+{
+    "name":"dṛḍhanemiḥ",
+    "h1":"dṛḍhanemiḥ",
+    "title":"dṛḍhanemiḥ",
+    "description":"Dṛḍhanemi."
+}
+---
 
 ==== dṛḍhanemiḥ  ====
   * Dṛḍhanemi --- [[books:sb:9:21:27|SB 9.21.27]]

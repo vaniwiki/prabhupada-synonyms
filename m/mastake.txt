@@ -1,5 +1,11 @@
-~~Title:mastake~~
-{{description>on my head; on the head; on the heads.}}
+---json
+{
+    "name":"mastake",
+    "h1":"mastake",
+    "title":"mastake",
+    "description":"on my head; on the head; on the heads."
+}
+---
 
 ==== mastake  ====
   * on my head --- [[books:cc:madhya:2:94|Madhya 2.94]]

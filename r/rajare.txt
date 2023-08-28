@@ -1,5 +1,11 @@
-~~Title:rājāre~~
-{{description>the King; to the government; unto the King.}}
+---json
+{
+    "name":"rājāre",
+    "h1":"rājāre",
+    "title":"rājāre",
+    "description":"the King; to the government; unto the King."
+}
+---
 
 ==== rājāre  ====
   * the King --- [[books:cc:madhya:11:61|Madhya 11.61]], [[books:cc:madhya:12:25|Madhya 12.25]], [[books:cc:madhya:14:21|Madhya 14.21]], [[books:cc:madhya:19:19|Madhya 19.19]], [[books:cc:antya:9:150|Antya 9.150]]

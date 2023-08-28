@@ -1,5 +1,11 @@
-~~Title:āṅgaṭiyā~~
-{{description>undivided; without being divided.}}
+---json
+{
+    "name":"āṅgaṭiyā",
+    "h1":"āṅgaṭiyā",
+    "title":"āṅgaṭiyā",
+    "description":"undivided; without being divided."
+}
+---
 
 ==== āṅgaṭiyā  ====
   * undivided --- [[books:cc:madhya:3:43|Madhya 3.43]]

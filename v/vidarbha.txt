@@ -1,5 +1,11 @@
-~~Title:vidarbha~~
-{{description>daughter of Vidarbha.}}
+---json
+{
+    "name":"vidarbha",
+    "h1":"vidarbha",
+    "title":"vidarbha",
+    "description":"daughter of Vidarbha."
+}
+---
 
 ==== vidarbha-duhitā  ====
   * daughter of Vidarbha --- [[books:sb:4:28:60|SB 4.28.60]]

@@ -1,5 +1,11 @@
-~~Title:varahah~~
-{{description>Lord Boar.}}
+---json
+{
+    "name":"varahah",
+    "h1":"varahah",
+    "title":"varahah",
+    "description":"Lord Boar."
+}
+---
 
 ==== varāhaḥ  ====
   * Lord Boar --- [[books:sb:6:8:15|SB 6.8.15]]

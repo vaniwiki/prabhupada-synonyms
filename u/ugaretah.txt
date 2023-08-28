@@ -1,5 +1,11 @@
-~~Title:ugaretāḥ~~
-{{description>all names of Rudra.}}
+---json
+{
+    "name":"ugaretāḥ",
+    "h1":"ugaretāḥ",
+    "title":"ugaretāḥ",
+    "description":"all names of Rudra."
+}
+---
 
 ==== manyuḥ, manuḥ, mahinasaḥ, mahān, śivaḥ, ṛtadhvajaḥ, ugaretāḥ, bhavaḥ, kālaḥ, vāmadevaḥ, dhṛtavrataḥ  ====
   * all names of Rudra --- [[books:sb:3:12:12|SB 3.12.12]]

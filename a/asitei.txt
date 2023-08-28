@@ -1,5 +1,11 @@
-~~Title:āsitei~~
-{{description>as soon as he arrived.}}
+---json
+{
+    "name":"āsitei",
+    "h1":"āsitei",
+    "title":"āsitei",
+    "description":"as soon as he arrived."
+}
+---
 
 ==== āsitei  ====
   * as soon as he arrived --- [[books:cc:madhya:9:193|Madhya 9.193]]

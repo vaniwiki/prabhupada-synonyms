@@ -1,5 +1,11 @@
-~~Title:aphalam~~
-{{description>without results.}}
+---json
+{
+    "name":"aphalam",
+    "h1":"aphalam",
+    "title":"aphalam",
+    "description":"without results."
+}
+---
 
 ==== aphalam  ====
   * without results --- [[books:sb:7:3:21|SB 7.3.21]]

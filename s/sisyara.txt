@@ -1,5 +1,11 @@
-~~Title:śiṣyāra~~
-{{description>of the disciples.}}
+---json
+{
+    "name":"śiṣyāra",
+    "h1":"śiṣyāra",
+    "title":"śiṣyāra",
+    "description":"of the disciples."
+}
+---
 
 ==== śiṣyāra  ====
   * of the disciples --- [[books:cc:antya:20:148|Antya 20.148]]

@@ -1,5 +1,11 @@
-~~Title:jine~~
-{{description>conquers; surpasses.}}
+---json
+{
+    "name":"jine",
+    "h1":"jine",
+    "title":"jine",
+    "description":"conquers; surpasses."
+}
+---
 
 ==== jine  ====
   * conquers --- [[books:cc:adi:15:6|Ādi 15.6]]

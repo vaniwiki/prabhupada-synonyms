@@ -1,5 +1,11 @@
-~~Title:vidyādharān~~
-{{description>Vidyādharas.}}
+---json
+{
+    "name":"vidyādharān",
+    "h1":"vidyādharān",
+    "title":"vidyādharān",
+    "description":"Vidyādharas."
+}
+---
 
 ==== vidyādharān  ====
   * Vidyādharas --- [[books:sb:3:20:44|SB 3.20.44]]

@@ -1,5 +1,11 @@
-~~Title:abhivyajyamāna~~
-{{description>being manifested; distinctly manifested.}}
+---json
+{
+    "name":"abhivyajyamāna",
+    "h1":"abhivyajyamāna",
+    "title":"abhivyajyamāna",
+    "description":"being manifested; distinctly manifested."
+}
+---
 
 ==== abhivyajyamāna  ====
   * being manifested --- [[books:sb:5:17:2|SB 5.17.2]]

@@ -1,5 +1,11 @@
-~~Title:kāminīḥ~~
-{{description>desiring to get the he-goat as their husband.}}
+---json
+{
+    "name":"kāminīḥ",
+    "h1":"kāminīḥ",
+    "title":"kāminīḥ",
+    "description":"desiring to get the he-goat as their husband."
+}
+---
 
 ==== kānta-kāminīḥ  ====
   * desiring to get the he-goat as their husband --- [[books:sb:9:19:5-6|SB 9.19.5-6]]

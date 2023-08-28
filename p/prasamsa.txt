@@ -1,5 +1,11 @@
-~~Title:praśaṁsā~~
-{{description>praise; praising.}}
+---json
+{
+    "name":"praśaṁsā",
+    "h1":"praśaṁsā",
+    "title":"praśaṁsā",
+    "description":"praise; praising."
+}
+---
 
 ==== praśaṁsā  ====
   * praise --- [[books:cc:adi:7:154|Ādi 7.154]]

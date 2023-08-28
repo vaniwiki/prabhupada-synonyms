@@ -1,5 +1,11 @@
-~~Title:stuvatīṣu~~
-{{description>while glorifying.}}
+---json
+{
+    "name":"stuvatīṣu",
+    "h1":"stuvatīṣu",
+    "title":"stuvatīṣu",
+    "description":"while glorifying."
+}
+---
 
 ==== stuvatīṣu  ====
   * while glorifying --- [[books:sb:4:23:29|SB 4.23.29]]

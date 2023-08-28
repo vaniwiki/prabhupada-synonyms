@@ -1,5 +1,11 @@
-~~Title:śirāṁsi~~
-{{description>heads; the heads.}}
+---json
+{
+    "name":"śirāṁsi",
+    "h1":"śirāṁsi",
+    "title":"śirāṁsi",
+    "description":"heads; the heads."
+}
+---
 
 ==== śirāṁsi  ====
   * heads --- [[books:sb:1:7:13-14|SB 1.7.13-14]], [[books:sb:6:9:1|SB 6.9.1]], [[books:sb:8:10:36|SB 8.10.36]]

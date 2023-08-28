@@ -1,5 +1,11 @@
-~~Title:plutam~~
-{{description>mixed.}}
+---json
+{
+    "name":"plutam",
+    "h1":"plutam",
+    "title":"plutam",
+    "description":"mixed."
+}
+---
 
 ==== plutam  ====
   * mixed --- [[books:sb:3:16:8|SB 3.16.8]]

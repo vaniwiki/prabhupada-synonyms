@@ -1,5 +1,11 @@
-~~Title:anuvarṇane~~
-{{description>in describing; in the matter of description.}}
+---json
+{
+    "name":"anuvarṇane",
+    "h1":"anuvarṇane",
+    "title":"anuvarṇane",
+    "description":"in describing; in the matter of description."
+}
+---
 
 ==== anuvarṇane  ====
   * in describing --- [[books:sb:4:16:2|SB 4.16.2]]

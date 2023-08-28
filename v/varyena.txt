@@ -1,5 +1,11 @@
-~~Title:varyeṇa~~
-{{description>the best.}}
+---json
+{
+    "name":"varyeṇa",
+    "h1":"varyeṇa",
+    "title":"varyeṇa",
+    "description":"the best."
+}
+---
 
 ==== varyeṇa  ====
   * the best --- [[books:sb:3:1:40|SB 3.1.40]]

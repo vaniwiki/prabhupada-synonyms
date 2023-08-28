@@ -1,5 +1,11 @@
-~~Title:grasa~~
-{{description>kindly drive away.}}
+---json
+{
+    "name":"grasa",
+    "h1":"grasa",
+    "title":"grasa",
+    "description":"kindly drive away."
+}
+---
 
 ==== grasa  ====
   * kindly drive away --- [[books:sb:5:18:8|SB 5.18.8]]

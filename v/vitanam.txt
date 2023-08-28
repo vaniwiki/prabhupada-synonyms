@@ -1,5 +1,11 @@
-~~Title:vitanam~~
-{{description>of debauchees, who are attached to women.}}
+---json
+{
+    "name":"vitanam",
+    "h1":"vitanam",
+    "title":"vitanam",
+    "description":"of debauchees, who are attached to women."
+}
+---
 
 ==== viṭānām  ====
   * of debauchees, who are attached to women --- [[books:sb:10:13:2|SB 10.13.2]]

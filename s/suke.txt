@@ -1,5 +1,11 @@
-~~Title:śuke~~
-{{description>unto the male parrot.}}
+---json
+{
+    "name":"śuke",
+    "h1":"śuke",
+    "title":"śuke",
+    "description":"unto the male parrot."
+}
+---
 
 ==== śuke  ====
   * unto the male parrot --- [[books:cc:madhya:17:215|Madhya 17.215]]

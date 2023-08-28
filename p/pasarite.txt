@@ -1,5 +1,11 @@
-~~Title:pāsarite~~
-{{description>to forget.}}
+---json
+{
+    "name":"pāsarite",
+    "h1":"pāsarite",
+    "title":"pāsarite",
+    "description":"to forget."
+}
+---
 
 ==== pāsarite  ====
   * to forget --- [[books:cc:antya:17:57|Antya 17.57]]

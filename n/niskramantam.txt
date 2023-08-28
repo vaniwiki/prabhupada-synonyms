@@ -1,5 +1,11 @@
-~~Title:niṣkrāmantam~~
-{{description>coming out.}}
+---json
+{
+    "name":"niṣkrāmantam",
+    "h1":"niṣkrāmantam",
+    "title":"niṣkrāmantam",
+    "description":"coming out."
+}
+---
 
 ==== niṣkrāmantam  ====
   * coming out --- [[books:sb:4:24:24-25|SB 4.24.24-25]]

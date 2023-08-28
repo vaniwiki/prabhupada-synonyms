@@ -1,5 +1,11 @@
-~~Title:hartā~~
-{{description>collector; will be taken away; you cut off.}}
+---json
+{
+    "name":"hartā",
+    "h1":"hartā",
+    "title":"hartā",
+    "description":"collector; will be taken away; you cut off."
+}
+---
 
 ==== hartā  ====
   * collector --- [[books:sb:4:20:14|SB 4.20.14]]

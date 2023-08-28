@@ -1,5 +1,11 @@
-~~Title:kathañcana~~
-{{description>by all means; by any means; by anyone; for any reason; in any way at all; somehow or other.}}
+---json
+{
+    "name":"kathañcana",
+    "h1":"kathañcana",
+    "title":"kathañcana",
+    "description":"by all means; by any means; by anyone; for any reason; in any way at all; somehow or other."
+}
+---
 
 ==== kathañcana  ====
   * by all means --- [[books:sb:1:17:31|SB 1.17.31]]

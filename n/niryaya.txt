@@ -1,5 +1,11 @@
-~~Title:niryāya~~
-{{description>after coming out.}}
+---json
+{
+    "name":"niryāya",
+    "h1":"niryāya",
+    "title":"niryāya",
+    "description":"after coming out."
+}
+---
 
 ==== niryāya  ====
   * after coming out --- [[books:sb:4:30:44|SB 4.30.44]]

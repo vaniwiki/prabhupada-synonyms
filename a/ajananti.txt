@@ -1,5 +1,11 @@
-~~Title:ajānantī~~
-{{description>being unaware of.}}
+---json
+{
+    "name":"ajānantī",
+    "h1":"ajānantī",
+    "title":"ajānantī",
+    "description":"being unaware of."
+}
+---
 
 ==== ajānantī  ====
   * being unaware of --- [[books:sb:6:14:44|SB 6.14.44]]

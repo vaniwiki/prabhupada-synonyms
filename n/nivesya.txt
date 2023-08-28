@@ -1,5 +1,11 @@
-~~Title:niveśya~~
-{{description>appointing; entering; entering into; having entered; having placed; keeping always.}}
+---json
+{
+    "name":"niveśya",
+    "h1":"niveśya",
+    "title":"niveśya",
+    "description":"appointing; entering; entering into; having entered; having placed; keeping always."
+}
+---
 
 ==== niveśya  ====
   * appointing --- [[books:sb:5:20:20|SB 5.20.20]]

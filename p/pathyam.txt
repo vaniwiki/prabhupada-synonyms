@@ -1,5 +1,11 @@
-~~Title:pathyam~~
-{{description>suitable.}}
+---json
+{
+    "name":"pathyam",
+    "h1":"pathyam",
+    "title":"pathyam",
+    "description":"suitable."
+}
+---
 
 ==== pathyam  ====
   * suitable --- [[books:sb:6:1:12|SB 6.1.12]]

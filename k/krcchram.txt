@@ -1,5 +1,11 @@
-~~Title:kṛcchram~~
-{{description>hardship; the severe austerity; with great difficulties; with great difficulty.}}
+---json
+{
+    "name":"kṛcchram",
+    "h1":"kṛcchram",
+    "title":"kṛcchram",
+    "description":"hardship; the severe austerity; with great difficulties; with great difficulty."
+}
+---
 
 ==== kṛcchram  ====
   * hardship --- [[books:sb:8:2:26|SB 8.2.26]]

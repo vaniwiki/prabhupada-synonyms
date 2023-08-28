@@ -1,5 +1,11 @@
-~~Title:sannyāsinaḥ~~
-{{description>saintly persons in the renounced order of life; who are in the renounced order of life.}}
+---json
+{
+    "name":"sannyāsinaḥ",
+    "h1":"sannyāsinaḥ",
+    "title":"sannyāsinaḥ",
+    "description":"saintly persons in the renounced order of life; who are in the renounced order of life."
+}
+---
 
 ==== sannyāsinaḥ  ====
   * saintly persons in the renounced order of life --- [[books:sb:7:4:22-23|SB 7.4.22-23]]

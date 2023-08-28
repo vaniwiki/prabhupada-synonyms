@@ -1,5 +1,11 @@
-~~Title:mahima~~
-{{description>glories; of glories.}}
+---json
+{
+    "name":"mahima",
+    "h1":"mahima",
+    "title":"mahima",
+    "description":"glories; of glories."
+}
+---
 
 ==== mahima  ====
   * glories --- [[books:sb:4:16:2|SB 4.16.2]]

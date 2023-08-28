@@ -1,5 +1,11 @@
-~~Title:putrāya~~
-{{description>a son; to his son; unto his son; unto the son.}}
+---json
+{
+    "name":"putrāya",
+    "h1":"putrāya",
+    "title":"putrāya",
+    "description":"a son; to his son; unto his son; unto the son."
+}
+---
 
 ==== putrāya  ====
   * a son --- [[books:sb:9:22:21-24|SB 9.22.21-24]]

@@ -1,5 +1,11 @@
-~~Title:vikatthanam~~
-{{description>loose talk.}}
+---json
+{
+    "name":"vikatthanam",
+    "h1":"vikatthanam",
+    "title":"vikatthanam",
+    "description":"loose talk."
+}
+---
 
 ==== vikatthanam  ====
   * loose talk --- [[books:sb:3:18:10|SB 3.18.10]]

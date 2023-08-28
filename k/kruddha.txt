@@ -1,5 +1,11 @@
-~~Title:kruddha~~
-{{description>angry.}}
+---json
+{
+    "name":"kruddha",
+    "h1":"kruddha",
+    "title":"kruddha",
+    "description":"angry."
+}
+---
 
 ==== kruddha  ====
   * angry --- [[books:sb:9:4:48|SB 9.4.48]], [[books:cc:adi:12:40|Ādi 12.40]], [[books:cc:adi:12:68|Ādi 12.68]], [[books:cc:adi:14:43|Ādi 14.43]], [[books:cc:adi:17:50|Ādi 17.50]], [[books:cc:adi:17:124|Ādi 17.124]], [[books:cc:adi:17:146|Ādi 17.146]], [[books:cc:madhya:1:98|Madhya 1.98]], [[books:cc:madhya:13:95|Madhya 13.95]]

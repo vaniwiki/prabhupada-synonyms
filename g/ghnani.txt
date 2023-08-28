@@ -1,5 +1,11 @@
-~~Title:ghnāni~~
-{{description>the sound vibration to kill all danger and bad elements.}}
+---json
+{
+    "name":"ghnāni",
+    "h1":"ghnāni",
+    "title":"ghnāni",
+    "description":"the sound vibration to kill all danger and bad elements."
+}
+---
 
 ==== rakṣaḥ-ghnāni  ====
   * the sound vibration to kill all danger and bad elements --- [[books:sb:10:6:3|SB 10.6.3]]

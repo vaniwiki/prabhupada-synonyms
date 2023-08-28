@@ -1,5 +1,11 @@
-~~Title:janādhipāḥ~~
-{{description>kings.}}
+---json
+{
+    "name":"janādhipāḥ",
+    "h1":"janādhipāḥ",
+    "title":"janādhipāḥ",
+    "description":"kings."
+}
+---
 
 ==== janādhipāḥ  ====
   * kings --- [[books:bg:2:12|Bg. 2.12]]

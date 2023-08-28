@@ -1,5 +1,11 @@
-~~Title:rtvijam~~
-{{description>the chief priest of the sacrifice.}}
+---json
+{
+    "name":"rtvijam",
+    "h1":"rtvijam",
+    "title":"rtvijam",
+    "description":"the chief priest of the sacrifice."
+}
+---
 
 ==== ṛtvijam  ====
   * the chief priest of the sacrifice --- [[books:sb:9:13:1|SB 9.13.1]]

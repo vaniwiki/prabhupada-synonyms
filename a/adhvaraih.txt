@@ -1,5 +1,11 @@
-~~Title:adhvaraiḥ~~
-{{description>by performing aśvamedha-yajñas.}}
+---json
+{
+    "name":"adhvaraiḥ",
+    "h1":"adhvaraiḥ",
+    "title":"adhvaraiḥ",
+    "description":"by performing aśvamedha-yajñas."
+}
+---
 
 ==== adhvaraiḥ  ====
   * by performing //aśvamedha-yajñas// --- [[books:sb:9:22:37|SB 9.22.37]]

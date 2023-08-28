@@ -1,5 +1,11 @@
-~~Title:vimṛśāmi~~
-{{description>I shall consider and try to understand.}}
+---json
+{
+    "name":"vimṛśāmi",
+    "h1":"vimṛśāmi",
+    "title":"vimṛśāmi",
+    "description":"I shall consider and try to understand."
+}
+---
 
 ==== vimṛśāmi  ====
   * I shall consider and try to understand --- [[books:sb:7:9:39|SB 7.9.39]]

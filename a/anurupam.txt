@@ -1,5 +1,11 @@
-~~Title:anurupam~~
-{{description>according to; according to different living entities; suitable for you; to his liking; which of them is right.}}
+---json
+{
+    "name":"anurupam",
+    "h1":"anurupam",
+    "title":"anurupam",
+    "description":"according to; according to different living entities; suitable for you; to his liking; which of them is right."
+}
+---
 
 ==== anurūpam  ====
   * according to --- [[books:mm:5|MM 5]]

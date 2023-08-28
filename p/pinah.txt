@@ -1,5 +1,11 @@
-~~Title:pīnaḥ~~
-{{description>very strong.}}
+---json
+{
+    "name":"pīnaḥ",
+    "h1":"pīnaḥ",
+    "title":"pīnaḥ",
+    "description":"very strong."
+}
+---
 
 ==== pīnaḥ  ====
   * very strong --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

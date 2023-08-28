@@ -1,5 +1,11 @@
-~~Title:gopendra~~
-{{description>the son of Nanda Mahārāja.}}
+---json
+{
+    "name":"gopendra",
+    "h1":"gopendra",
+    "title":"gopendra",
+    "description":"the son of Nanda Mahārāja."
+}
+---
 
 ==== gopendra-suta  ====
   * the son of Nanda Mahārāja --- [[books:cc:madhya:8:287|Madhya 8.287]]

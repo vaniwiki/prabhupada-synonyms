@@ -1,5 +1,11 @@
-~~Title:vinyāsena~~
-{{description>by stylish stepping.}}
+---json
+{
+    "name":"vinyāsena",
+    "h1":"vinyāsena",
+    "title":"vinyāsena",
+    "description":"by stylish stepping."
+}
+---
 
 ==== vinyāsena  ====
   * by stylish stepping --- [[books:sb:5:2:6|SB 5.2.6]]

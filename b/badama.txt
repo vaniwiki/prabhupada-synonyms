@@ -1,5 +1,11 @@
-~~Title:bādāma~~
-{{description>almonds.}}
+---json
+{
+    "name":"bādāma",
+    "h1":"bādāma",
+    "title":"bādāma",
+    "description":"almonds."
+}
+---
 
 ==== bādāma  ====
   * almonds --- [[books:cc:madhya:14:27|Madhya 14.27]], [[books:cc:antya:18:104|Antya 18.104]]

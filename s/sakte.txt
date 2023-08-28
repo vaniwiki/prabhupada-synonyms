@@ -1,5 +1,11 @@
-~~Title:śakte~~
-{{description>in spiritual potency.}}
+---json
+{
+    "name":"śakte",
+    "h1":"śakte",
+    "title":"śakte",
+    "description":"in spiritual potency."
+}
+---
 
 ==== cit-śakte  ====
   * in spiritual potency --- [[books:cc:madhya:21:96|Madhya 21.96]]

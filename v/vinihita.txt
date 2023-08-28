@@ -1,5 +1,11 @@
-~~Title:vinihita~~
-{{description>fixed upon.}}
+---json
+{
+    "name":"vinihita",
+    "h1":"vinihita",
+    "title":"vinihita",
+    "description":"fixed upon."
+}
+---
 
 ==== vinihita  ====
   * fixed upon --- [[books:cc:antya:1:146|Antya 1.146]]

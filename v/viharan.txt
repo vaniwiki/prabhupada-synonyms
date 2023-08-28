@@ -1,5 +1,11 @@
-~~Title:viharan~~
-{{description>enjoying like monkeys; taking it as a pleasure; wandering; while moving; while playing.}}
+---json
+{
+    "name":"viharan",
+    "h1":"viharan",
+    "title":"viharan",
+    "description":"enjoying like monkeys; taking it as a pleasure; wandering; while moving; while playing."
+}
+---
 
 ==== viharan  ====
   * enjoying like monkeys --- [[books:sb:5:14:31|SB 5.14.31]]

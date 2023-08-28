@@ -1,5 +1,11 @@
-~~Title:viśvāvasum~~
-{{description>of the name Viśvāvasu.}}
+---json
+{
+    "name":"viśvāvasum",
+    "h1":"viśvāvasum",
+    "title":"viśvāvasum",
+    "description":"of the name Viśvāvasu."
+}
+---
 
 ==== viśvāvasum  ====
   * of the name Viśvāvasu --- [[books:sb:4:18:17|SB 4.18.17]]

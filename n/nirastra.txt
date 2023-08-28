@@ -1,5 +1,11 @@
-~~Title:nirastra~~
-{{description>being without weapons.}}
+---json
+{
+    "name":"nirastra",
+    "h1":"nirastra",
+    "title":"nirastra",
+    "description":"being without weapons."
+}
+---
 
 ==== nirastra hañā  ====
   * being without weapons --- [[books:cc:madhya:16:177|Madhya 16.177]]

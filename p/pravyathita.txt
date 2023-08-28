@@ -1,5 +1,11 @@
-~~Title:pravyathitā~~
-{{description>perturbed.}}
+---json
+{
+    "name":"pravyathitā",
+    "h1":"pravyathitā",
+    "title":"pravyathitā",
+    "description":"perturbed."
+}
+---
 
 ==== pravyathitā  ====
   * perturbed --- [[books:bg:11:24|Bg. 11.24]]

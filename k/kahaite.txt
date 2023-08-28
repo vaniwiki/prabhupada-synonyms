@@ -1,5 +1,11 @@
-~~Title:kahāite~~
-{{description>cause to speak.}}
+---json
+{
+    "name":"kahāite",
+    "h1":"kahāite",
+    "title":"kahāite",
+    "description":"cause to speak."
+}
+---
 
 ==== kahāite  ====
   * cause to speak --- [[books:cc:antya:16:70|Antya 16.70]]

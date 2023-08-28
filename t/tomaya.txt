@@ -1,5 +1,11 @@
-~~Title:tomāya~~
-{{description>and You; for you; from you; of both of you; of You; to all of you; to you; toward You; unto You; You; Your.}}
+---json
+{
+    "name":"tomāya",
+    "h1":"tomāya",
+    "title":"tomāya",
+    "description":"and You; for you; from you; of both of you; of You; to all of you; to you; toward You; unto You; You; Your."
+}
+---
 
 ==== tomāya  ====
   * and You --- [[books:cc:antya:2:64|Antya 2.64]]

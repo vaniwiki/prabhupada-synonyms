@@ -1,5 +1,11 @@
-~~Title:satyah~~
-{{description>chaste; Satya; successful; the ultimate truth.}}
+---json
+{
+    "name":"satyah",
+    "h1":"satyah",
+    "title":"satyah",
+    "description":"chaste; Satya; successful; the ultimate truth."
+}
+---
 
 ==== satyaḥ  ====
   * chaste --- [[books:sb:3:24:14|SB 3.24.14]]

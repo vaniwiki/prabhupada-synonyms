@@ -1,5 +1,11 @@
-~~Title:samāveśya~~
-{{description>fixing.}}
+---json
+{
+    "name":"samāveśya",
+    "h1":"samāveśya",
+    "title":"samāveśya",
+    "description":"fixing."
+}
+---
 
 ==== samāveśya  ====
   * fixing --- [[books:sb:9:19:27-28|SB 9.19.27-28]]

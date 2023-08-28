@@ -1,5 +1,11 @@
-~~Title:uṣṇatā~~
-{{description>heat.}}
+---json
+{
+    "name":"uṣṇatā",
+    "h1":"uṣṇatā",
+    "title":"uṣṇatā",
+    "description":"heat."
+}
+---
 
 ==== uṣṇatā  ====
   * heat --- [[books:cc:madhya:20:113|Madhya 20.113]]

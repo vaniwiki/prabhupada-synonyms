@@ -1,5 +1,11 @@
-~~Title:kenacit~~
-{{description>by whatever comes.}}
+---json
+{
+    "name":"kenacit",
+    "h1":"kenacit",
+    "title":"kenacit",
+    "description":"by whatever comes."
+}
+---
 
 ==== yena kenacit  ====
   * by whatever comes --- [[books:cc:madhya:23:111-112|Madhya 23.111-112]]

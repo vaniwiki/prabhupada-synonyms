@@ -1,5 +1,11 @@
-~~Title:mṛjan~~
-{{description>washing.}}
+---json
+{
+    "name":"mṛjan",
+    "h1":"mṛjan",
+    "title":"mṛjan",
+    "description":"washing."
+}
+---
 
 ==== mṛjan  ====
   * washing --- [[books:sb:4:28:35-36|SB 4.28.35-36]]

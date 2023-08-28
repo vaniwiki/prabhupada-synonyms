@@ -1,5 +1,11 @@
-~~Title:nardantau~~
-{{description>making roaring sounds; roaring loudly.}}
+---json
+{
+    "name":"nardantau",
+    "h1":"nardantau",
+    "title":"nardantau",
+    "description":"making roaring sounds; roaring loudly."
+}
+---
 
 ==== nardantau  ====
   * making roaring sounds --- [[books:cc:adi:5:138|Ādi 5.138]]

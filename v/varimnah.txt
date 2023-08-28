@@ -1,5 +1,11 @@
-~~Title:varimṇaḥ~~
-{{description>the foremost.}}
+---json
+{
+    "name":"varimṇaḥ",
+    "h1":"varimṇaḥ",
+    "title":"varimṇaḥ",
+    "description":"the foremost."
+}
+---
 
 ==== varimṇaḥ  ====
   * the foremost --- [[books:sb:3:25:2|SB 3.25.2]]

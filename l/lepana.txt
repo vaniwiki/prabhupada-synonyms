@@ -1,5 +1,11 @@
-~~Title:lepana~~
-{{description>by smearing the body with oil and sandalwood pulp; smearing.}}
+---json
+{
+    "name":"lepana",
+    "h1":"lepana",
+    "title":"lepana",
+    "description":"by smearing the body with oil and sandalwood pulp; smearing."
+}
+---
 
 ==== lepana  ====
   * by smearing the body with oil and sandalwood pulp --- [[books:sb:10:13:23|SB 10.13.23]]

@@ -1,5 +1,11 @@
-~~Title:kutsam~~
-{{description>Kutsa.}}
+---json
+{
+    "name":"kutsam",
+    "h1":"kutsam",
+    "title":"kutsam",
+    "description":"Kutsa."
+}
+---
 
 ==== kutsam  ====
   * Kutsa --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

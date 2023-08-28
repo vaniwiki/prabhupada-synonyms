@@ -1,5 +1,11 @@
-~~Title:narmabhiḥ~~
-{{description>with joking words.}}
+---json
+{
+    "name":"narmabhiḥ",
+    "h1":"narmabhiḥ",
+    "title":"narmabhiḥ",
+    "description":"with joking words."
+}
+---
 
 ==== narmabhiḥ  ====
   * with joking words --- [[books:sb:10:13:11|SB 10.13.11]]

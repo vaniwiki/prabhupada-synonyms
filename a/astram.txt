@@ -1,5 +1,11 @@
-~~Title:astram~~
-{{description>a weapon; an arrow; weapon; weapons.}}
+---json
+{
+    "name":"astram",
+    "h1":"astram",
+    "title":"astram",
+    "description":"a weapon; an arrow; weapon; weapons."
+}
+---
 
 ==== astram  ====
   * a weapon --- [[books:sb:6:8:8-10|SB 6.8.8-10]]

@@ -1,5 +1,11 @@
-~~Title:sameṣu~~
-{{description>same.}}
+---json
+{
+    "name":"sameṣu",
+    "h1":"sameṣu",
+    "title":"sameṣu",
+    "description":"same."
+}
+---
 
 ==== sameṣu  ====
   * same --- [[books:sb:3:32:24|SB 3.32.24]]

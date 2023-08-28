@@ -1,5 +1,11 @@
-~~Title:kṣurapraiḥ~~
-{{description>compared to a sharp weapon; with arrows.}}
+---json
+{
+    "name":"kṣurapraiḥ",
+    "h1":"kṣurapraiḥ",
+    "title":"kṣurapraiḥ",
+    "description":"compared to a sharp weapon; with arrows."
+}
+---
 
 ==== kṣurapraiḥ  ====
   * compared to a sharp weapon --- [[books:sb:3:13:30|SB 3.13.30]]

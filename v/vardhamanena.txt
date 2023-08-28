@@ -1,5 +1,11 @@
-~~Title:vardhamānena~~
-{{description>by dint of increasing; increasing.}}
+---json
+{
+    "name":"vardhamānena",
+    "h1":"vardhamānena",
+    "title":"vardhamānena",
+    "description":"by dint of increasing; increasing."
+}
+---
 
 ==== vardhamānena  ====
   * by dint of increasing --- [[books:sb:7:3:9-10|SB 7.3.9-10]]

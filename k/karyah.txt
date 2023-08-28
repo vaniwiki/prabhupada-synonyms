@@ -1,5 +1,11 @@
-~~Title:kāryaḥ~~
-{{description>execution; his activities; should be done; to be done.}}
+---json
+{
+    "name":"kāryaḥ",
+    "h1":"kāryaḥ",
+    "title":"kāryaḥ",
+    "description":"execution; his activities; should be done; to be done."
+}
+---
 
 ==== kāryaḥ  ====
   * execution --- [[books:sb:8:6:25|SB 8.6.25]]

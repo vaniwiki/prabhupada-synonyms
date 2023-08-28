@@ -1,5 +1,11 @@
-~~Title:udghāṭita~~
-{{description>pushed open.}}
+---json
+{
+    "name":"udghāṭita",
+    "h1":"udghāṭita",
+    "title":"udghāṭita",
+    "description":"pushed open."
+}
+---
 
 ==== udghāṭita  ====
   * pushed open --- [[books:sb:6:9:33|SB 6.9.33]]

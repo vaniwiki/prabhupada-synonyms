@@ -1,5 +1,11 @@
-~~Title:balaya~~
-{{description>bracelets.}}
+---json
+{
+    "name":"balaya",
+    "h1":"balaya",
+    "title":"balaya",
+    "description":"bracelets."
+}
+---
 
 ==== balaya  ====
   * bracelets --- [[books:sb:8:18:2|SB 8.18.2]]

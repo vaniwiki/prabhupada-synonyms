@@ -1,5 +1,11 @@
-~~Title:manohārī~~
-{{description>attractive.}}
+---json
+{
+    "name":"manohārī",
+    "h1":"manohārī",
+    "title":"manohārī",
+    "description":"attractive."
+}
+---
 
 ==== manohārī  ====
   * attractive --- [[books:cc:madhya:23:75|Madhya 23.75]]

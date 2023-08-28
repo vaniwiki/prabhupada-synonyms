@@ -1,5 +1,11 @@
-~~Title:pataga~~
-{{description>the king of all birds.}}
+---json
+{
+    "name":"pataga",
+    "h1":"pataga",
+    "title":"pataga",
+    "description":"the king of all birds."
+}
+---
 
 ==== pataga-īśvaram  ====
   * the king of all birds --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

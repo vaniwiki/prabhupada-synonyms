@@ -1,5 +1,11 @@
-~~Title:uragah~~
-{{description>the serpent.}}
+---json
+{
+    "name":"uragah",
+    "h1":"uragah",
+    "title":"uragah",
+    "description":"the serpent."
+}
+---
 
 ==== uragaḥ  ====
   * the serpent --- [[books:sb:4:29:6|SB 4.29.6]]

@@ -1,5 +1,11 @@
-~~Title:bhisanah~~
-{{description>fearful; ferocious.}}
+---json
+{
+    "name":"bhisanah",
+    "h1":"bhisanah",
+    "title":"bhisanah",
+    "description":"fearful; ferocious."
+}
+---
 
 ==== bhīṣaṇaḥ  ====
   * fearful --- [[books:sb:4:10:27|SB 4.10.27]]

@@ -1,5 +1,11 @@
-~~Title:rāṣṭraḥ~~
-{{description>Rāṣṭra.}}
+---json
+{
+    "name":"rāṣṭraḥ",
+    "h1":"rāṣṭraḥ",
+    "title":"rāṣṭraḥ",
+    "description":"Rāṣṭra."
+}
+---
 
 ==== rāṣṭraḥ  ====
   * Rāṣṭra --- [[books:sb:9:17:4|SB 9.17.4]]

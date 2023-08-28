@@ -1,5 +1,11 @@
-~~Title:rasayah~~
-{{description>fallen to the bottom of the universe; from the bottom of the universe; from the water; from within the water; of the lower planetary systems.}}
+---json
+{
+    "name":"rasayah",
+    "h1":"rasayah",
+    "title":"rasayah",
+    "description":"fallen to the bottom of the universe; from the bottom of the universe; from the water; from within the water; of the lower planetary systems."
+}
+---
 
 ==== rasāyāḥ  ====
   * fallen to the bottom of the universe --- [[books:sb:5:18:39|SB 5.18.39]]

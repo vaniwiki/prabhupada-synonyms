@@ -1,5 +1,11 @@
-~~Title:prastāvanā~~
-{{description>introductions.}}
+---json
+{
+    "name":"prastāvanā",
+    "h1":"prastāvanā",
+    "title":"prastāvanā",
+    "description":"introductions."
+}
+---
 
 ==== prastāvanā  ====
   * introductions --- [[books:cc:antya:1:71|Antya 1.71]]

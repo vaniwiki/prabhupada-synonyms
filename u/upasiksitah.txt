@@ -1,5 +1,11 @@
-~~Title:upaśikṣitaḥ~~
-{{description>thus advised.}}
+---json
+{
+    "name":"upaśikṣitaḥ",
+    "h1":"upaśikṣitaḥ",
+    "title":"upaśikṣitaḥ",
+    "description":"thus advised."
+}
+---
 
 ==== upaśikṣitaḥ  ====
   * thus advised --- [[books:sb:9:16:1|SB 9.16.1]]

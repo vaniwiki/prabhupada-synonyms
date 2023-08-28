@@ -1,5 +1,11 @@
-~~Title:pakṣīyam~~
-{{description>during the fortnight of the dark moon.}}
+---json
+{
+    "name":"pakṣīyam",
+    "h1":"pakṣīyam",
+    "title":"pakṣīyam",
+    "description":"during the fortnight of the dark moon."
+}
+---
 
 ==== apara-pakṣīyam  ====
   * during the fortnight of the dark moon --- [[books:sb:7:14:19|SB 7.14.19]]

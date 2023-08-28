@@ -1,5 +1,11 @@
-~~Title:vyākhyāsye~~
-{{description>shall be explained.}}
+---json
+{
+    "name":"vyākhyāsye",
+    "h1":"vyākhyāsye",
+    "title":"vyākhyāsye",
+    "description":"shall be explained."
+}
+---
 
 ==== vyākhyāsye  ====
   * shall be explained --- [[books:sb:2:10:47|SB 2.10.47]]

@@ -1,5 +1,11 @@
-~~Title:yotsye~~
-{{description>I shall not fight.}}
+---json
+{
+    "name":"yotsye",
+    "h1":"yotsye",
+    "title":"yotsye",
+    "description":"I shall not fight."
+}
+---
 
 ==== na yotsye  ====
   * I shall not fight --- [[books:bg:2:9|Bg. 2.9]]

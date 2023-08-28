@@ -1,5 +1,11 @@
-~~Title:vinasaya~~
-{{description>destroy.}}
+---json
+{
+    "name":"vinasaya",
+    "h1":"vinasaya",
+    "title":"vinasaya",
+    "description":"destroy."
+}
+---
 
 ==== vināśaya  ====
   * destroy --- [[books:cc:antya:16:121-122|Antya 16.121-122]]

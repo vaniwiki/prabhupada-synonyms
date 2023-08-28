@@ -1,5 +1,11 @@
-~~Title:ghāghara~~
-{{description>gongs.}}
+---json
+{
+    "name":"ghāghara",
+    "h1":"ghāghara",
+    "title":"ghāghara",
+    "description":"gongs."
+}
+---
 
 ==== ghāghara  ====
   * gongs --- [[books:cc:madhya:13:21|Madhya 13.21]]

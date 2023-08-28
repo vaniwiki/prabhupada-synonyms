@@ -1,5 +1,11 @@
-~~Title:uka~~
-{{description>let there be offenses.}}
+---json
+{
+    "name":"uka",
+    "h1":"uka",
+    "title":"uka",
+    "description":"let there be offenses."
+}
+---
 
 ==== aparādha ha-uka  ====
   * let there be offenses --- [[books:cc:antya:10:95|Antya 10.95]]

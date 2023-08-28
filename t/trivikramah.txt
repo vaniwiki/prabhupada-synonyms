@@ -1,5 +1,11 @@
-~~Title:trivikramaḥ~~
-{{description>Trivikrama, whose three gigantic steps took the three worlds from Bali.}}
+---json
+{
+    "name":"trivikramaḥ",
+    "h1":"trivikramaḥ",
+    "title":"trivikramaḥ",
+    "description":"Trivikrama, whose three gigantic steps took the three worlds from Bali."
+}
+---
 
 ==== trivikramaḥ  ====
   * Trivikrama, whose three gigantic steps took the three worlds from Bali --- [[books:sb:6:8:13|SB 6.8.13]]

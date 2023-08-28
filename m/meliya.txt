@@ -1,5 +1,11 @@
-~~Title:meliyā~~
-{{description>meeting.}}
+---json
+{
+    "name":"meliyā",
+    "h1":"meliyā",
+    "title":"meliyā",
+    "description":"meeting."
+}
+---
 
 ==== meliyā  ====
   * meeting --- [[books:cc:madhya:1:121|Madhya 1.121]]

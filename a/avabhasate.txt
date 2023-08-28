@@ -1,5 +1,11 @@
-~~Title:avabhāsate~~
-{{description>appears; becomes manifest; manifests; shines.}}
+---json
+{
+    "name":"avabhāsate",
+    "h1":"avabhāsate",
+    "title":"avabhāsate",
+    "description":"appears; becomes manifest; manifests; shines."
+}
+---
 
 ==== avabhāsate  ====
   * appears --- [[books:sb:5:26:28|SB 5.26.28]]

@@ -1,5 +1,11 @@
-~~Title:palāemhi~~
-{{description>I try to escape.}}
+---json
+{
+    "name":"palāemhi",
+    "h1":"palāemhi",
+    "title":"palāemhi",
+    "description":"I try to escape."
+}
+---
 
 ==== palāemhi  ====
   * I try to escape --- [[books:cc:antya:1:144|Antya 1.144]]

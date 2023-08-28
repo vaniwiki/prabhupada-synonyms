@@ -1,5 +1,11 @@
-~~Title:abhidrugdhāḥ~~
-{{description>persecuted.}}
+---json
+{
+    "name":"abhidrugdhāḥ",
+    "h1":"abhidrugdhāḥ",
+    "title":"abhidrugdhāḥ",
+    "description":"persecuted."
+}
+---
 
 ==== abhidrugdhāḥ  ====
   * persecuted --- [[books:sb:5:26:17|SB 5.26.17]]

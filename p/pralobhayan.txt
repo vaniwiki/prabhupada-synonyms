@@ -1,5 +1,11 @@
-~~Title:pralobhayan~~
-{{description>luring with food.}}
+---json
+{
+    "name":"pralobhayan",
+    "h1":"pralobhayan",
+    "title":"pralobhayan",
+    "description":"luring with food."
+}
+---
 
 ==== pralobhayan  ====
   * luring with food --- [[books:sb:7:2:50|SB 7.2.50]]

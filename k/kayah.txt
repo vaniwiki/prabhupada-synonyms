@@ -1,5 +1,11 @@
-~~Title:kayah~~
-{{description>body; my body; the body.}}
+---json
+{
+    "name":"kayah",
+    "h1":"kayah",
+    "title":"kayah",
+    "description":"body; my body; the body."
+}
+---
 
 ==== kāyaḥ  ====
   * body --- [[books:cc:adi:5:72|Ādi 5.72]]

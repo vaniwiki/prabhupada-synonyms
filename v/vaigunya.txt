@@ -1,5 +1,11 @@
-~~Title:vaiguṇya~~
-{{description>of material activities.}}
+---json
+{
+    "name":"vaiguṇya",
+    "h1":"vaiguṇya",
+    "title":"vaiguṇya",
+    "description":"of material activities."
+}
+---
 
 ==== vaiguṇya  ====
   * of material activities --- [[books:cc:antya:5:1|Antya 5.1]]

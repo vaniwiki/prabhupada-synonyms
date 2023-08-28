@@ -1,5 +1,11 @@
-~~Title:aṅkaiḥ~~
-{{description>by bodily markings.}}
+---json
+{
+    "name":"aṅkaiḥ",
+    "h1":"aṅkaiḥ",
+    "title":"aṅkaiḥ",
+    "description":"by bodily markings."
+}
+---
 
 ==== aṅkaiḥ  ====
   * by bodily markings --- [[books:cc:adi:3:39|Ādi 3.39]], [[books:cc:madhya:20:337|Madhya 20.337]]

@@ -1,5 +1,11 @@
-~~Title:apahūtaḥ~~
-{{description>called.}}
+---json
+{
+    "name":"apahūtaḥ",
+    "h1":"apahūtaḥ",
+    "title":"apahūtaḥ",
+    "description":"called."
+}
+---
 
 ==== apahūtaḥ  ====
   * called --- [[books:sb:7:5:54|SB 7.5.54]]

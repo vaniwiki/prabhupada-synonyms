@@ -1,5 +1,11 @@
-~~Title:sañcayī~~
-{{description>capitalist (one who gathers wealth).}}
+---json
+{
+    "name":"sañcayī",
+    "h1":"sañcayī",
+    "title":"sañcayī",
+    "description":"capitalist (one who gathers wealth)."
+}
+---
 
 ==== dhana-sañcayī  ====
   * capitalist (one who gathers wealth) --- [[books:cc:madhya:24:17|Madhya 24.17]]

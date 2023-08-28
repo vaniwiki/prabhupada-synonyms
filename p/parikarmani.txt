@@ -1,5 +1,11 @@
-~~Title:parikarmaṇi~~
-{{description>in the matter of service.}}
+---json
+{
+    "name":"parikarmaṇi",
+    "h1":"parikarmaṇi",
+    "title":"parikarmaṇi",
+    "description":"in the matter of service."
+}
+---
 
 ==== parikarmaṇi  ====
   * in the matter of service --- [[books:sb:2:9:30|SB 2.9.30]]

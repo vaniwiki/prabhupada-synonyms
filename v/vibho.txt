@@ -1,5 +1,11 @@
-~~Title:vibho~~
-{{description>Lord Viṣṇu; my dear Supreme Lord; O almighty one; O great King; O great one; O great person; O Lord; O master of the state; O my lord; O my Lord, O Supreme; O powerful one; O Supreme; O supreme great.}}
+---json
+{
+    "name":"vibho",
+    "h1":"vibho",
+    "title":"vibho",
+    "description":"Lord Viṣṇu; my dear Supreme Lord; O almighty one; O great King; O great one; O great person; O Lord; O master of the state; O my lord; O my Lord, O Supreme; O powerful one; O Supreme; O supreme great."
+}
+---
 
 ==== vibho  ====
   * Lord Viṣṇu --- [[books:sb:8:24:28|SB 8.24.28]]

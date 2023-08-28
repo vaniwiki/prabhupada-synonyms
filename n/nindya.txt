@@ -1,5 +1,11 @@
-~~Title:nindya~~
-{{description>abominable.}}
+---json
+{
+    "name":"nindya",
+    "h1":"nindya",
+    "title":"nindya",
+    "description":"abominable."
+}
+---
 
 ==== nindya  ====
   * abominable --- [[books:cc:antya:11:27|Antya 11.27]]

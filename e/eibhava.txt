@@ -1,5 +1,11 @@
-~~Title:eibhāva~~
-{{description>with these ecstatic symptoms.}}
+---json
+{
+    "name":"eibhāva",
+    "h1":"eibhāva",
+    "title":"eibhāva",
+    "description":"with these ecstatic symptoms."
+}
+---
 
 ==== eibhāva  ====
   * with these ecstatic symptoms --- [[books:cc:madhya:14:179|Madhya 14.179]]

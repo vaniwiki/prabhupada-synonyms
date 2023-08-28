@@ -1,5 +1,11 @@
-~~Title:sphuratā~~
-{{description>enlightening.}}
+---json
+{
+    "name":"sphuratā",
+    "h1":"sphuratā",
+    "title":"sphuratā",
+    "description":"enlightening."
+}
+---
 
 ==== sphuratā  ====
   * enlightening --- [[books:sb:4:28:41|SB 4.28.41]]

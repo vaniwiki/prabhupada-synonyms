@@ -1,5 +1,11 @@
-~~Title:mādala~~
-{{description>drums.}}
+---json
+{
+    "name":"mādala",
+    "h1":"mādala",
+    "title":"mādala",
+    "description":"drums."
+}
+---
 
 ==== mādala  ====
   * drums --- [[books:cc:madhya:13:48|Madhya 13.48]]

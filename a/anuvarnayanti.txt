@@ -1,5 +1,11 @@
-~~Title:anuvarṇayanti~~
-{{description>describe.}}
+---json
+{
+    "name":"anuvarṇayanti",
+    "h1":"anuvarṇayanti",
+    "title":"anuvarṇayanti",
+    "description":"describe."
+}
+---
 
 ==== anuvarṇayanti  ====
   * describe --- [[books:sb:5:23:4|SB 5.23.4]]

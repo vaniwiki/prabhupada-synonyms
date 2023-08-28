@@ -1,5 +1,11 @@
-~~Title:ādātum~~
-{{description>to conquer; to take.}}
+---json
+{
+    "name":"ādātum",
+    "h1":"ādātum",
+    "title":"ādātum",
+    "description":"to conquer; to take."
+}
+---
 
 ==== ādātum  ====
   * to conquer --- [[books:sb:5:25:10|SB 5.25.10]]

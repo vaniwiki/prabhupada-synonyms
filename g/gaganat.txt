@@ -1,5 +1,11 @@
-~~Title:gaganāt~~
-{{description>from the sky.}}
+---json
+{
+    "name":"gaganāt",
+    "h1":"gaganāt",
+    "title":"gaganāt",
+    "description":"from the sky."
+}
+---
 
 ==== gaganāt  ====
   * from the sky --- [[books:sb:4:10:24|SB 4.10.24]], [[books:sb:6:8:40|SB 6.8.40]]

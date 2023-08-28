@@ -1,5 +1,11 @@
-~~Title:upanayana~~
-{{description>beginning with offering the sacred thread or training the conditioned soul to qualify as a bona fide brāhmaṇa.}}
+---json
+{
+    "name":"upanayana",
+    "h1":"upanayana",
+    "title":"upanayana",
+    "description":"beginning with offering the sacred thread or training the conditioned soul to qualify as a bona fide brāhmaṇa."
+}
+---
 
 ==== upanayana-ādi  ====
   * beginning with offering the sacred thread or training the conditioned soul to qualify as a bona fide //brāhmaṇa// --- [[books:sb:5:14:30|SB 5.14.30]]

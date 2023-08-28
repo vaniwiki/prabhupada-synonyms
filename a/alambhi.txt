@@ -1,5 +1,11 @@
-~~Title:alambhi~~
-{{description>attained.}}
+---json
+{
+    "name":"alambhi",
+    "h1":"alambhi",
+    "title":"alambhi",
+    "description":"attained."
+}
+---
 
 ==== alambhi  ====
   * attained --- [[books:cc:antya:1:191|Antya 1.191]]

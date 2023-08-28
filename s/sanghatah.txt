@@ -1,5 +1,11 @@
-~~Title:sanghatah~~
-{{description>the aggregate.}}
+---json
+{
+    "name":"sanghatah",
+    "h1":"sanghatah",
+    "title":"sanghatah",
+    "description":"the aggregate."
+}
+---
 
 ==== saṅghataḥ  ====
   * the aggregate --- [[books:bg:13:6-7|Bg. 13.6-7]]

@@ -1,5 +1,11 @@
-~~Title:nipāna~~
-{{description>well.}}
+---json
+{
+    "name":"nipāna",
+    "h1":"nipāna",
+    "title":"nipāna",
+    "description":"well."
+}
+---
 
 ==== nipāna  ====
   * well --- [[books:sb:2:7:48|SB 2.7.48]]

@@ -1,5 +1,11 @@
-~~Title:rodara~~
-{{description>like crying, laughing and shivering.}}
+---json
+{
+    "name":"rodara",
+    "h1":"rodara",
+    "title":"rodara",
+    "description":"like crying, laughing and shivering."
+}
+---
 
 ==== rodara  ====
   * like crying, laughing and shivering --- [[books:sb:5:5:35|SB 5.5.35]]

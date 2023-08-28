@@ -1,5 +1,11 @@
-~~Title:nandim~~
-{{description>joy.}}
+---json
+{
+    "name":"nandim",
+    "h1":"nandim",
+    "title":"nandim",
+    "description":"joy."
+}
+---
 
 ==== nandim  ====
   * joy --- [[books:sb:3:24:25|SB 3.24.25]]

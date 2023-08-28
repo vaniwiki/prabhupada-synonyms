@@ -1,5 +1,11 @@
-~~Title:aprameyaḥ~~
-{{description>the unlimitedly powerful Lord; unlimited.}}
+---json
+{
+    "name":"aprameyaḥ",
+    "h1":"aprameyaḥ",
+    "title":"aprameyaḥ",
+    "description":"the unlimitedly powerful Lord; unlimited."
+}
+---
 
 ==== aprameyaḥ  ====
   * the unlimitedly powerful Lord --- [[books:sb:2:7:16|SB 2.7.16]]

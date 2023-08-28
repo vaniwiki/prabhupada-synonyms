@@ -1,5 +1,11 @@
-~~Title:āpūritam~~
-{{description>is fulfilled; spread all over.}}
+---json
+{
+    "name":"āpūritam",
+    "h1":"āpūritam",
+    "title":"āpūritam",
+    "description":"is fulfilled; spread all over."
+}
+---
 
 ==== āpūritam  ====
   * is fulfilled --- [[books:sb:3:12:57|SB 3.12.57]]

@@ -1,5 +1,11 @@
-~~Title:indriyam~~
-{{description>senses; soundness of the senses; the senses; which makes the senses sharp; whose senses or mind.}}
+---json
+{
+    "name":"indriyam",
+    "h1":"indriyam",
+    "title":"indriyam",
+    "description":"senses; soundness of the senses; the senses; which makes the senses sharp; whose senses or mind."
+}
+---
 
 ==== indriyam  ====
   * senses --- [[books:sb:1:11:36|SB 1.11.36]]

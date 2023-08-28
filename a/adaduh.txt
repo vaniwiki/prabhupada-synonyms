@@ -1,5 +1,11 @@
-~~Title:ādaduḥ~~
-{{description>took possession.}}
+---json
+{
+    "name":"ādaduḥ",
+    "h1":"ādaduḥ",
+    "title":"ādaduḥ",
+    "description":"took possession."
+}
+---
 
 ==== ādaduḥ  ====
   * took possession --- [[books:sb:3:20:39|SB 3.20.39]]

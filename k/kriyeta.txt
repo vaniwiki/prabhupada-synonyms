@@ -1,5 +1,11 @@
-~~Title:kriyeta~~
-{{description>one should execute; one should perform; what do they do.}}
+---json
+{
+    "name":"kriyeta",
+    "h1":"kriyeta",
+    "title":"kriyeta",
+    "description":"one should execute; one should perform; what do they do."
+}
+---
 
 ==== kriyeta  ====
   * one should execute --- [[books:cc:madhya:9:259-260|Madhya 9.259-260]]

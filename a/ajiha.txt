@@ -1,5 +1,11 @@
-~~Title:ājiha~~
-{{description>even until now.}}
+---json
+{
+    "name":"ājiha",
+    "h1":"ājiha",
+    "title":"ājiha",
+    "description":"even until now."
+}
+---
 
 ==== ājiha  ====
   * even until now --- [[books:cc:antya:4:164|Antya 4.164]]

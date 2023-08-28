@@ -1,5 +1,11 @@
-~~Title:stuta~~
-{{description>the Personality of Godhead, whose activities and prowess are always praised by Lord Brahmā.}}
+---json
+{
+    "name":"stuta",
+    "h1":"stuta",
+    "title":"stuta",
+    "description":"the Personality of Godhead, whose activities and prowess are always praised by Lord Brahmā."
+}
+---
 
 ==== viriñca-stuta-karma-vīryaḥ  ====
   * the Personality of Godhead, whose activities and prowess are always praised by Lord Brahmā --- [[books:sb:8:18:1|SB 8.18.1]]

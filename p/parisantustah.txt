@@ -1,5 +1,11 @@
-~~Title:parisantuṣṭāḥ~~
-{{description>being very much satisfied.}}
+---json
+{
+    "name":"parisantuṣṭāḥ",
+    "h1":"parisantuṣṭāḥ",
+    "title":"parisantuṣṭāḥ",
+    "description":"being very much satisfied."
+}
+---
 
 ==== parisantuṣṭāḥ  ====
   * being very much satisfied --- [[books:sb:10:11:44|SB 10.11.44]]

@@ -1,5 +1,11 @@
-~~Title:mukhyam~~
-{{description>chief; unto the chief.}}
+---json
+{
+    "name":"mukhyam",
+    "h1":"mukhyam",
+    "title":"mukhyam",
+    "description":"chief; unto the chief."
+}
+---
 
 ==== mukhyam  ====
   * chief --- [[books:bg:10:24|Bg. 10.24]]

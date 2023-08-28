@@ -1,5 +1,11 @@
-~~Title:aticarasi~~
-{{description>you are overstepping.}}
+---json
+{
+    "name":"aticarasi",
+    "h1":"aticarasi",
+    "title":"aticarasi",
+    "description":"you are overstepping."
+}
+---
 
 ==== aticarasi  ====
   * you are overstepping --- [[books:sb:5:10:7|SB 5.10.7]]

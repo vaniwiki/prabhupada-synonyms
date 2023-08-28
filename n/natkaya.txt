@@ -1,5 +1,11 @@
-~~Title:naṭkāya~~
-{{description>hanging.}}
+---json
+{
+    "name":"naṭkāya",
+    "h1":"naṭkāya",
+    "title":"naṭkāya",
+    "description":"hanging."
+}
+---
 
 ==== naṭkāya  ====
   * hanging --- [[books:cc:antya:18:72|Antya 18.72]]

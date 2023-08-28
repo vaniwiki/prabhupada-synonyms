@@ -1,5 +1,11 @@
-~~Title:bhrvā~~
-{{description>and pleasing eyebrows.}}
+---json
+{
+    "name":"bhrvā",
+    "h1":"bhrvā",
+    "title":"bhrvā",
+    "description":"and pleasing eyebrows."
+}
+---
 
 ==== su-bhrvā  ====
   * and pleasing eyebrows --- [[books:sb:3:8:27|SB 3.8.27]]

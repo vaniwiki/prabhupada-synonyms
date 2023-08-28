@@ -1,5 +1,11 @@
-~~Title:anāsaṅgaiḥ~~
-{{description>without attachment.}}
+---json
+{
+    "name":"anāsaṅgaiḥ",
+    "h1":"anāsaṅgaiḥ",
+    "title":"anāsaṅgaiḥ",
+    "description":"without attachment."
+}
+---
 
 ==== anāsaṅgaiḥ  ====
   * without attachment --- [[books:cc:madhya:24:172|Madhya 24.172]]

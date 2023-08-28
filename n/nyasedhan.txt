@@ -1,5 +1,11 @@
-~~Title:nyaṣedhan~~
-{{description>forbade them.}}
+---json
+{
+    "name":"nyaṣedhan",
+    "h1":"nyaṣedhan",
+    "title":"nyaṣedhan",
+    "description":"forbade them."
+}
+---
 
 ==== nyaṣedhan  ====
   * forbade them --- [[books:sb:7:10:63|SB 7.10.63]]

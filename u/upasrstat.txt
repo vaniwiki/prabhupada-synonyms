@@ -1,5 +1,11 @@
-~~Title:upasṛṣṭāt~~
-{{description>being overwhelmed.}}
+---json
+{
+    "name":"upasṛṣṭāt",
+    "h1":"upasṛṣṭāt",
+    "title":"upasṛṣṭāt",
+    "description":"being overwhelmed."
+}
+---
 
 ==== upasṛṣṭāt  ====
   * being overwhelmed --- [[books:sb:4:11:32|SB 4.11.32]]

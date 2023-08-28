@@ -1,5 +1,11 @@
-~~Title:ekatā~~
-{{description>oneness.}}
+---json
+{
+    "name":"ekatā",
+    "h1":"ekatā",
+    "title":"ekatā",
+    "description":"oneness."
+}
+---
 
 ==== ekatā  ====
   * oneness --- [[books:cc:antya:5:150|Antya 5.150]]

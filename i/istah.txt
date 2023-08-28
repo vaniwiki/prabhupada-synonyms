@@ -1,5 +1,11 @@
-~~Title:istah~~
-{{description>accepted (as a remedy); being worshiped; beloved; capable; respected; ultimate goal of life; worshiped.}}
+---json
+{
+    "name":"istah",
+    "h1":"istah",
+    "title":"istah",
+    "description":"accepted (as a remedy); being worshiped; beloved; capable; respected; ultimate goal of life; worshiped."
+}
+---
 
 ==== iṣṭaḥ  ====
   * accepted (as a remedy) --- [[books:sb:7:9:19|SB 7.9.19]]

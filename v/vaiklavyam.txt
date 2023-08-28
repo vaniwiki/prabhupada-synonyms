@@ -1,5 +1,11 @@
-~~Title:vaiklavyam~~
-{{description>bewilderment; mental disparity.}}
+---json
+{
+    "name":"vaiklavyam",
+    "h1":"vaiklavyam",
+    "title":"vaiklavyam",
+    "description":"bewilderment; mental disparity."
+}
+---
 
 ==== vaiklavyam  ====
   * bewilderment --- [[books:sb:4:26:18|SB 4.26.18]]

@@ -1,5 +1,11 @@
-~~Title:ucchista~~
-{{description>food remnants; of the remnants of food; remnants; remnants of food.}}
+---json
+{
+    "name":"ucchista",
+    "h1":"ucchista",
+    "title":"ucchista",
+    "description":"food remnants; of the remnants of food; remnants; remnants of food."
+}
+---
 
 ==== ucchiṣṭa  ====
   * food remnants --- [[books:cc:adi:17:230|Ādi 17.230]]

@@ -1,5 +1,11 @@
-~~Title:ātapatreṇa~~
-{{description>with an umbrella over the head.}}
+---json
+{
+    "name":"ātapatreṇa",
+    "h1":"ātapatreṇa",
+    "title":"ātapatreṇa",
+    "description":"with an umbrella over the head."
+}
+---
 
 ==== ātapatreṇa  ====
   * with an umbrella over the head --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

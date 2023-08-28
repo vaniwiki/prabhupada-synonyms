@@ -1,5 +1,11 @@
-~~Title:dvādaśam~~
-{{description>twelfth.}}
+---json
+{
+    "name":"dvādaśam",
+    "h1":"dvādaśam",
+    "title":"dvādaśam",
+    "description":"twelfth."
+}
+---
 
 ==== dvādaśam  ====
   * twelfth --- [[books:sb:5:11:10|SB 5.11.10]]

@@ -1,5 +1,11 @@
-~~Title:mantriṇaḥ~~
-{{description>all the ministers; ministers; the ministers of state, or expert politicians.}}
+---json
+{
+    "name":"mantriṇaḥ",
+    "h1":"mantriṇaḥ",
+    "title":"mantriṇaḥ",
+    "description":"all the ministers; ministers; the ministers of state, or expert politicians."
+}
+---
 
 ==== mantriṇaḥ  ====
   * all the ministers --- [[books:sb:10:4:29|SB 10.4.29]]

@@ -1,5 +1,11 @@
-~~Title:vikhedaḥ~~
-{{description>without any mistake.}}
+---json
+{
+    "name":"vikhedaḥ",
+    "h1":"vikhedaḥ",
+    "title":"vikhedaḥ",
+    "description":"without any mistake."
+}
+---
 
 ==== vikhedaḥ  ====
   * without any mistake --- [[books:sb:1:17:21|SB 1.17.21]]

@@ -1,5 +1,11 @@
-~~Title:śikyāni~~
-{{description>their bags of eatables and other paraphernalia.}}
+---json
+{
+    "name":"śikyāni",
+    "h1":"śikyāni",
+    "title":"śikyāni",
+    "description":"their bags of eatables and other paraphernalia."
+}
+---
 
 ==== śikyāni  ====
   * their bags of eatables and other paraphernalia --- [[books:sb:10:13:7|SB 10.13.7]]

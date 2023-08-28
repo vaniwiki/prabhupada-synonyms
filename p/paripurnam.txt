@@ -1,5 +1,11 @@
-~~Title:paripūrṇam~~
-{{description>completely full.}}
+---json
+{
+    "name":"paripūrṇam",
+    "h1":"paripūrṇam",
+    "title":"paripūrṇam",
+    "description":"completely full."
+}
+---
 
 ==== paripūrṇam  ====
   * completely full --- [[books:sb:8:3:20-21|SB 8.3.20-21]]

@@ -1,5 +1,11 @@
-~~Title:enaḥ~~
-{{description>all vices; distress; sins; this (sin); this sinful activity (of blaspheming the Supreme Lord).}}
+---json
+{
+    "name":"enaḥ",
+    "h1":"enaḥ",
+    "title":"enaḥ",
+    "description":"all vices; distress; sins; this (sin); this sinful activity (of blaspheming the Supreme Lord)."
+}
+---
 
 ==== enaḥ  ====
   * all vices --- [[books:iso:18|Īśo 18]]

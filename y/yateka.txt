@@ -1,5 +1,11 @@
-~~Title:yateka~~
-{{description>all; all of them; all that; as many; how much; whatever.}}
+---json
+{
+    "name":"yateka",
+    "h1":"yateka",
+    "title":"yateka",
+    "description":"all; all of them; all that; as many; how much; whatever."
+}
+---
 
 ==== yateka  ====
   * all --- [[books:cc:adi:7:35|Ādi 7.35]], [[books:cc:adi:10:42|Ādi 10.42]], [[books:cc:adi:14:28|Ādi 14.28]], [[books:cc:madhya:4:67|Madhya 4.67]], [[books:cc:madhya:21:101|Madhya 21.101]], [[books:cc:antya:18:16-17|Antya 18.16-17]]

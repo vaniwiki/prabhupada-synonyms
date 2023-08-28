@@ -1,5 +1,11 @@
-~~Title:kṛśāśvāt~~
-{{description>from Kṛśāśva.}}
+---json
+{
+    "name":"kṛśāśvāt",
+    "h1":"kṛśāśvāt",
+    "title":"kṛśāśvāt",
+    "description":"from Kṛśāśva."
+}
+---
 
 ==== kṛśāśvāt  ====
   * from Kṛśāśva --- [[books:sb:9:2:35-36|SB 9.2.35-36]]

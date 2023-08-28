@@ -1,5 +1,11 @@
-~~Title:darśayan~~
-{{description>began to show; by indicating; by showing; demonstrated; exhibiting; fully exhibiting; giving audience; indicating; showing; while showing.}}
+---json
+{
+    "name":"darśayan",
+    "h1":"darśayan",
+    "title":"darśayan",
+    "description":"began to show; by indicating; by showing; demonstrated; exhibiting; fully exhibiting; giving audience; indicating; showing; while showing."
+}
+---
 
 ==== darśayan  ====
   * began to show --- [[books:sb:1:15:43|SB 1.15.43]]

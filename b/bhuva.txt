@@ -1,5 +1,11 @@
-~~Title:bhuva~~
-{{description>by Brahmā.}}
+---json
+{
+    "name":"bhuva",
+    "h1":"bhuva",
+    "title":"bhuva",
+    "description":"by Brahmā."
+}
+---
 
 ==== ātma-bhuvā  ====
   * by Brahmā --- [[books:sb:1:8:34|SB 1.8.34]], [[books:sb:3:12:20|SB 3.12.20]], [[books:sb:3:17:1|SB 3.17.1]]

@@ -1,5 +1,11 @@
-~~Title:vanitāyāḥ~~
-{{description>wife.}}
+---json
+{
+    "name":"vanitāyāḥ",
+    "h1":"vanitāyāḥ",
+    "title":"vanitāyāḥ",
+    "description":"wife."
+}
+---
 
 ==== vanitāyāḥ  ====
   * wife --- [[books:sb:5:1:37|SB 5.1.37]]

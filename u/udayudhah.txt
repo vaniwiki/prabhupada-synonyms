@@ -1,5 +1,11 @@
-~~Title:udayudhah~~
-{{description>prepared with weapons; with raised weapons.}}
+---json
+{
+    "name":"udayudhah",
+    "h1":"udayudhah",
+    "title":"udayudhah",
+    "description":"prepared with weapons; with raised weapons."
+}
+---
 
 ==== udāyudhaḥ  ====
   * prepared with weapons --- [[books:sb:4:17:30|SB 4.17.30]]

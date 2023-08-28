@@ -1,5 +1,11 @@
-~~Title:mahiṣa~~
-{{description>buffalos.}}
+---json
+{
+    "name":"mahiṣa",
+    "h1":"mahiṣa",
+    "title":"mahiṣa",
+    "description":"buffalos."
+}
+---
 
 ==== mahiṣa  ====
   * buffalos --- [[books:sb:8:2:22|SB 8.2.22]]

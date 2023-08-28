@@ -1,5 +1,11 @@
-~~Title:gokulasya~~
-{{description>of this place, Gokula.}}
+---json
+{
+    "name":"gokulasya",
+    "h1":"gokulasya",
+    "title":"gokulasya",
+    "description":"of this place, Gokula."
+}
+---
 
 ==== gokulasya  ====
   * of this place, Gokula --- [[books:sb:10:11:23|SB 10.11.23]]

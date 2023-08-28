@@ -1,5 +1,11 @@
-~~Title:samīḍitaḥ~~
-{{description>being praised; properly worshiped.}}
+---json
+{
+    "name":"samīḍitaḥ",
+    "h1":"samīḍitaḥ",
+    "title":"samīḍitaḥ",
+    "description":"being praised; properly worshiped."
+}
+---
 
 ==== samīḍitaḥ  ====
   * being praised --- [[books:sb:3:19:31|SB 3.19.31]]

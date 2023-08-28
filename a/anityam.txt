@@ -1,5 +1,11 @@
-~~Title:anityam~~
-{{description>temporary; the temporary material body.}}
+---json
+{
+    "name":"anityam",
+    "h1":"anityam",
+    "title":"anityam",
+    "description":"temporary; the temporary material body."
+}
+---
 
 ==== anityam  ====
   * temporary --- [[books:bg:9:33|Bg. 9.33]], [[books:sb:7:2:58|SB 7.2.58]]

@@ -1,5 +1,11 @@
-~~Title:utpattiḥ~~
-{{description>birth; the reservoir.}}
+---json
+{
+    "name":"utpattiḥ",
+    "h1":"utpattiḥ",
+    "title":"utpattiḥ",
+    "description":"birth; the reservoir."
+}
+---
 
 ==== utpattiḥ  ====
   * birth --- [[books:sb:3:31:45-46|SB 3.31.45-46]]

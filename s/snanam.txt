@@ -1,5 +1,11 @@
-~~Title:snanam~~
-{{description>bathing; bathing in the Ganges, Yamunā or any other sacred places.}}
+---json
+{
+    "name":"snanam",
+    "h1":"snanam",
+    "title":"snanam",
+    "description":"bathing; bathing in the Ganges, Yamunā or any other sacred places."
+}
+---
 
 ==== snānam  ====
   * bathing --- [[books:sb:3:23:31|SB 3.23.31]], [[books:sb:8:16:48|SB 8.16.48]]

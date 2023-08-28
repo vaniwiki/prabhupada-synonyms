@@ -1,5 +1,11 @@
-~~Title:koṅkaḍa~~
-{{description>became crumpled.}}
+---json
+{
+    "name":"koṅkaḍa",
+    "h1":"koṅkaḍa",
+    "title":"koṅkaḍa",
+    "description":"became crumpled."
+}
+---
 
 ==== koṅkaḍa ha-ila  ====
   * became crumpled --- [[books:cc:antya:3:210|Antya 3.210]]

@@ -1,5 +1,11 @@
-~~Title:nārāyaṇīra~~
-{{description>of Nārāyaṇī.}}
+---json
+{
+    "name":"nārāyaṇīra",
+    "h1":"nārāyaṇīra",
+    "title":"nārāyaṇīra",
+    "description":"of Nārāyaṇī."
+}
+---
 
 ==== nārāyaṇīra  ====
   * of Nārāyaṇī --- [[books:cc:adi:17:230|Ādi 17.230]]

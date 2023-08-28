@@ -1,5 +1,11 @@
-~~Title:nudaḥ~~
-{{description>the supreme light.}}
+---json
+{
+    "name":"nudaḥ",
+    "h1":"nudaḥ",
+    "title":"nudaḥ",
+    "description":"the supreme light."
+}
+---
 
 ==== tamaḥ-nudaḥ  ====
   * the supreme light --- [[books:sb:3:5:27|SB 3.5.27]]

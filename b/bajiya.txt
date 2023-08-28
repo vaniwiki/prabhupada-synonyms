@@ -1,5 +1,11 @@
-~~Title:bājiyā~~
-{{description>making a great sound.}}
+---json
+{
+    "name":"bājiyā",
+    "h1":"bājiyā",
+    "title":"bājiyā",
+    "description":"making a great sound."
+}
+---
 
 ==== bājiyā  ====
   * making a great sound --- [[books:cc:madhya:9:55|Madhya 9.55]]

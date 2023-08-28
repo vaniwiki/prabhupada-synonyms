@@ -1,5 +1,11 @@
-~~Title:varatanu~~
-{{description>of the family women.}}
+---json
+{
+    "name":"varatanu",
+    "h1":"varatanu",
+    "title":"varatanu",
+    "description":"of the family women."
+}
+---
 
 ==== kula-varatanu  ====
   * of the family women --- [[books:cc:antya:1:167|Antya 1.167]]

@@ -1,5 +1,11 @@
-~~Title:dravamāṇam~~
-{{description>melted.}}
+---json
+{
+    "name":"dravamāṇam",
+    "h1":"dravamāṇam",
+    "title":"dravamāṇam",
+    "description":"melted."
+}
+---
 
 ==== dravamāṇam  ====
   * melted --- [[books:sb:5:26:29|SB 5.26.29]]

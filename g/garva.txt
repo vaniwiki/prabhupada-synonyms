@@ -1,5 +1,11 @@
-~~Title:garva~~
-{{description>pride.}}
+---json
+{
+    "name":"garva",
+    "h1":"garva",
+    "title":"garva",
+    "description":"pride."
+}
+---
 
 ==== garva  ====
   * pride --- [[books:cc:adi:7:89-90|Ādi 7.89-90]], [[books:cc:madhya:2:33|Madhya 2.33]], [[books:cc:madhya:2:66|Madhya 2.66]], [[books:cc:madhya:3:127|Madhya 3.127]], [[books:cc:madhya:4:202|Madhya 4.202]], [[books:cc:madhya:8:178|Madhya 8.178]], [[books:cc:madhya:9:48|Madhya 9.48]], [[books:cc:madhya:9:140|Madhya 9.140]], [[books:cc:madhya:9:151|Madhya 9.151]], [[books:cc:madhya:9:252|Madhya 9.252]], [[books:cc:madhya:9:253|Madhya 9.253]], [[books:cc:madhya:9:278|Madhya 9.278]], [[books:cc:madhya:13:84|Madhya 13.84]], [[books:cc:madhya:14:174|Madhya 14.174]], [[books:cc:madhya:14:176|Madhya 14.176]], [[books:cc:antya:5:84|Antya 5.84]], [[books:cc:antya:7:55|Antya 7.55]], [[books:cc:antya:7:122|Antya 7.122]], [[books:cc:antya:7:127|Antya 7.127]], [[books:cc:antya:7:132|Antya 7.132]], [[books:cc:antya:20:114|Antya 20.114]]

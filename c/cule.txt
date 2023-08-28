@@ -1,5 +1,11 @@
-~~Title:cule~~
-{{description>by the hair.}}
+---json
+{
+    "name":"cule",
+    "h1":"cule",
+    "title":"cule",
+    "description":"by the hair."
+}
+---
 
 ==== cule  ====
   * by the hair --- [[books:cc:antya:4:47|Antya 4.47]]

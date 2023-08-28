@@ -1,5 +1,11 @@
-~~Title:abhidhyānena~~
-{{description>by identification.}}
+---json
+{
+    "name":"abhidhyānena",
+    "h1":"abhidhyānena",
+    "title":"abhidhyānena",
+    "description":"by identification."
+}
+---
 
 ==== abhidhyānena  ====
   * by identification --- [[books:sb:3:26:6|SB 3.26.6]]

@@ -1,5 +1,11 @@
-~~Title:ślāghitāni~~
-{{description>most glorious.}}
+---json
+{
+    "name":"ślāghitāni",
+    "h1":"ślāghitāni",
+    "title":"ślāghitāni",
+    "description":"most glorious."
+}
+---
 
 ==== ślāghitāni  ====
   * most glorious --- [[books:sb:3:4:33|SB 3.4.33]]

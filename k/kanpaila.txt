@@ -1,5 +1,11 @@
-~~Title:kāṅpāila~~
-{{description>caused to tremble.}}
+---json
+{
+    "name":"kāṅpāila",
+    "h1":"kāṅpāila",
+    "title":"kāṅpāila",
+    "description":"caused to tremble."
+}
+---
 
 ==== kāṅpāila  ====
   * caused to tremble --- [[books:cc:madhya:24:20|Madhya 24.20]]

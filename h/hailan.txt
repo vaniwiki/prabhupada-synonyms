@@ -1,5 +1,11 @@
-~~Title:hailāṅ~~
-{{description>became; become.}}
+---json
+{
+    "name":"hailāṅ",
+    "h1":"hailāṅ",
+    "title":"hailāṅ",
+    "description":"became; become."
+}
+---
 
 ==== hailāṅ  ====
   * became --- [[books:cc:adi:17:111|Ādi 17.111]]

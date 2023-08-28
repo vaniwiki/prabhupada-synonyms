@@ -1,5 +1,11 @@
-~~Title:nikarān~~
-{{description>heaps of jewels.}}
+---json
+{
+    "name":"nikarān",
+    "h1":"nikarān",
+    "title":"nikarān",
+    "description":"heaps of jewels."
+}
+---
 
 ==== ratna-nikarān  ====
   * heaps of jewels --- [[books:sb:4:19:9|SB 4.19.9]]

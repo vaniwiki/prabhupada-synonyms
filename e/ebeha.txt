@@ -1,5 +1,11 @@
-~~Title:ebeha~~
-{{description>now also.}}
+---json
+{
+    "name":"ebeha",
+    "h1":"ebeha",
+    "title":"ebeha",
+    "description":"now also."
+}
+---
 
 ==== ebeha  ====
   * now also --- [[books:cc:adi:17:109|Ādi 17.109]]

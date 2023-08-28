@@ -1,5 +1,11 @@
-~~Title:upakrame~~
-{{description>in the beginning.}}
+---json
+{
+    "name":"upakrame",
+    "h1":"upakrame",
+    "title":"upakrame",
+    "description":"in the beginning."
+}
+---
 
 ==== upakrame  ====
   * in the beginning --- [[books:sb:7:12:3|SB 7.12.3]]

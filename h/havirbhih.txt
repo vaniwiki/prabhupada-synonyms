@@ -1,5 +1,11 @@
-~~Title:havirbhiḥ~~
-{{description>by offerings of clarified butter.}}
+---json
+{
+    "name":"havirbhiḥ",
+    "h1":"havirbhiḥ",
+    "title":"havirbhiḥ",
+    "description":"by offerings of clarified butter."
+}
+---
 
 ==== havirbhiḥ  ====
   * by offerings of clarified butter --- [[books:sb:8:15:5|SB 8.15.5]]

@@ -1,5 +1,11 @@
-~~Title:śaṅkarāraṇyera~~
-{{description>of Śaṅkarāraṇya.}}
+---json
+{
+    "name":"śaṅkarāraṇyera",
+    "h1":"śaṅkarāraṇyera",
+    "title":"śaṅkarāraṇyera",
+    "description":"of Śaṅkarāraṇya."
+}
+---
 
 ==== śaṅkarāraṇyera  ====
   * of Śaṅkarāraṇya --- [[books:cc:madhya:9:300|Madhya 9.300]]

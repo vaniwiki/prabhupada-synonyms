@@ -1,5 +1,11 @@
-~~Title:kāmāya~~
-{{description>for hankerings; for increasing sense gratification; who supplies all necessities for the devotees.}}
+---json
+{
+    "name":"kāmāya",
+    "h1":"kāmāya",
+    "title":"kāmāya",
+    "description":"for hankerings; for increasing sense gratification; who supplies all necessities for the devotees."
+}
+---
 
 ==== kāmāya  ====
   * for hankerings --- [[books:sb:1:6:22|SB 1.6.22]]

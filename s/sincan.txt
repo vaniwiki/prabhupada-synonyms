@@ -1,5 +1,11 @@
-~~Title:siñcan~~
-{{description>pouring water.}}
+---json
+{
+    "name":"siñcan",
+    "h1":"siñcan",
+    "title":"siñcan",
+    "description":"pouring water."
+}
+---
 
 ==== siñcan  ====
   * pouring water --- [[books:cc:madhya:16:1|Madhya 16.1]]

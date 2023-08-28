@@ -1,5 +1,11 @@
-~~Title:mīḍhuṣam~~
-{{description>Mīḍhuṣa.}}
+---json
+{
+    "name":"mīḍhuṣam",
+    "h1":"mīḍhuṣam",
+    "title":"mīḍhuṣam",
+    "description":"Mīḍhuṣa."
+}
+---
 
 ==== mīḍhuṣam  ====
   * Mīḍhuṣa --- [[books:sb:6:18:7|SB 6.18.7]]

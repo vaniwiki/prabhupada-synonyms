@@ -1,5 +1,11 @@
-~~Title:bhaktye~~
-{{description>actually by devotional service; because of the devotional service; by devotion; by devotional service; in devotional service; with great devotion.}}
+---json
+{
+    "name":"bhaktye",
+    "h1":"bhaktye",
+    "title":"bhaktye",
+    "description":"actually by devotional service; because of the devotional service; by devotion; by devotional service; in devotional service; with great devotion."
+}
+---
 
 ==== bhaktye  ====
   * actually by devotional service --- [[books:cc:madhya:24:139|Madhya 24.139]]

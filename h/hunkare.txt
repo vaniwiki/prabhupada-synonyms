@@ -1,5 +1,11 @@
-~~Title:huṅkāre~~
-{{description>and by such loud cries; by the loud voice; by the tumultuous call; by the vibration; by the war cry; the roar.}}
+---json
+{
+    "name":"huṅkāre",
+    "h1":"huṅkāre",
+    "title":"huṅkāre",
+    "description":"and by such loud cries; by the loud voice; by the tumultuous call; by the vibration; by the war cry; the roar."
+}
+---
 
 ==== huṅkāre  ====
   * and by such loud cries --- [[books:cc:adi:13:71|Ādi 13.71]]

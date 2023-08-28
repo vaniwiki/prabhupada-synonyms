@@ -1,5 +1,11 @@
-~~Title:śvādaḥ~~
-{{description>a dog-eater.}}
+---json
+{
+    "name":"śvādaḥ",
+    "h1":"śvādaḥ",
+    "title":"śvādaḥ",
+    "description":"a dog-eater."
+}
+---
 
 ==== śvādaḥ  ====
   * a dog-eater --- [[books:cc:madhya:16:186|Madhya 16.186]]

@@ -1,5 +1,11 @@
-~~Title:nirīkṣamāṇaḥ~~
-{{description>observing; seeing.}}
+---json
+{
+    "name":"nirīkṣamāṇaḥ",
+    "h1":"nirīkṣamāṇaḥ",
+    "title":"nirīkṣamāṇaḥ",
+    "description":"observing; seeing."
+}
+---
 
 ==== nirīkṣamāṇaḥ  ====
   * observing --- [[books:sb:5:23:8|SB 5.23.8]]

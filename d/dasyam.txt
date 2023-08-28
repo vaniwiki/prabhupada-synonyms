@@ -1,5 +1,11 @@
-~~Title:dasyam~~
-{{description>accepting the service; always thinking oneself an eternal servant of the Supreme Personality of Godhead; becoming the servant; servitorship; the mode of servitude.}}
+---json
+{
+    "name":"dasyam",
+    "h1":"dasyam",
+    "title":"dasyam",
+    "description":"accepting the service; always thinking oneself an eternal servant of the Supreme Personality of Godhead; becoming the servant; servitorship; the mode of servitude."
+}
+---
 
 ==== dāsyam  ====
   * accepting the service --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

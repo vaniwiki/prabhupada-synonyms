@@ -1,5 +1,11 @@
-~~Title:nirūpaṇa~~
-{{description>ascertainment; decision; description; discerning; settling; there is an indication.}}
+---json
+{
+    "name":"nirūpaṇa",
+    "h1":"nirūpaṇa",
+    "title":"nirūpaṇa",
+    "description":"ascertainment; decision; description; discerning; settling; there is an indication."
+}
+---
 
 ==== nirūpaṇa  ====
   * ascertainment --- [[books:cc:madhya:24:23|Madhya 24.23]]

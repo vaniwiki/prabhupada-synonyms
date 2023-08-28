@@ -1,5 +1,11 @@
-~~Title:vyāmiśreṇa~~
-{{description>by equivocal.}}
+---json
+{
+    "name":"vyāmiśreṇa",
+    "h1":"vyāmiśreṇa",
+    "title":"vyāmiśreṇa",
+    "description":"by equivocal."
+}
+---
 
 ==== vyāmiśreṇa  ====
   * by equivocal --- [[books:bg:3:2|Bg. 3.2]]

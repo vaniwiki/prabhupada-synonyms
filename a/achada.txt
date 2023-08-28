@@ -1,5 +1,11 @@
-~~Title:āchāḍa~~
-{{description>crashing; tumbling down.}}
+---json
+{
+    "name":"āchāḍa",
+    "h1":"āchāḍa",
+    "title":"āchāḍa",
+    "description":"crashing; tumbling down."
+}
+---
 
 ==== āchāḍa khāñā  ====
   * crashing --- [[books:cc:madhya:13:85|Madhya 13.85]]

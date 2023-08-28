@@ -1,5 +1,11 @@
-~~Title:śrutābhiḥ~~
-{{description>or understood by information from authorities.}}
+---json
+{
+    "name":"śrutābhiḥ",
+    "h1":"śrutābhiḥ",
+    "title":"śrutābhiḥ",
+    "description":"or understood by information from authorities."
+}
+---
 
 ==== śrutābhiḥ  ====
   * or understood by information from authorities --- [[books:sb:6:16:61-62|SB 6.16.61-62]]

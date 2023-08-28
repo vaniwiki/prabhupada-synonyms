@@ -1,5 +1,11 @@
-~~Title:praśrayam~~
-{{description>Praśraya.}}
+---json
+{
+    "name":"praśrayam",
+    "h1":"praśrayam",
+    "title":"praśrayam",
+    "description":"Praśraya."
+}
+---
 
 ==== praśrayam  ====
   * Praśraya --- [[books:sb:4:1:49-52|SB 4.1.49-52]]

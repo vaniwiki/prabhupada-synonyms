@@ -1,5 +1,11 @@
-~~Title:abhyavajahruḥ~~
-{{description>enjoyed lunch.}}
+---json
+{
+    "name":"abhyavajahruḥ",
+    "h1":"abhyavajahruḥ",
+    "title":"abhyavajahruḥ",
+    "description":"enjoyed lunch."
+}
+---
 
 ==== abhyavajahruḥ  ====
   * enjoyed lunch --- [[books:sb:10:13:10|SB 10.13.10]]

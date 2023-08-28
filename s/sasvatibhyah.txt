@@ -1,5 +1,11 @@
-~~Title:śāśvatībhyaḥ~~
-{{description>immemorial.}}
+---json
+{
+    "name":"śāśvatībhyaḥ",
+    "h1":"śāśvatībhyaḥ",
+    "title":"śāśvatībhyaḥ",
+    "description":"immemorial."
+}
+---
 
 ==== śāśvatībhyaḥ  ====
   * immemorial --- [[books:iso:8|Īśo 8]]

@@ -1,5 +1,11 @@
-~~Title:sindhuḥ~~
-{{description>Sindhu; the ocean; the ocean or ocean-god.}}
+---json
+{
+    "name":"sindhuḥ",
+    "h1":"sindhuḥ",
+    "title":"sindhuḥ",
+    "description":"Sindhu; the ocean; the ocean or ocean-god."
+}
+---
 
 ==== sindhuḥ  ====
   * Sindhu --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

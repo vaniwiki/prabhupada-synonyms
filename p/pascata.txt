@@ -1,5 +1,11 @@
-~~Title:paścāta~~
-{{description>afterwards.}}
+---json
+{
+    "name":"paścāta",
+    "h1":"paścāta",
+    "title":"paścāta",
+    "description":"afterwards."
+}
+---
 
 ==== paścāta  ====
   * afterwards --- [[books:cc:adi:2:78|Ādi 2.78]]

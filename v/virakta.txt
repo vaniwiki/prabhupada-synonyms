@@ -1,5 +1,11 @@
-~~Title:virakta~~
-{{description>detached; one who has given up all connections with everyone; renounced; unattached; very much detached.}}
+---json
+{
+    "name":"virakta",
+    "h1":"virakta",
+    "title":"virakta",
+    "description":"detached; one who has given up all connections with everyone; renounced; unattached; very much detached."
+}
+---
 
 ==== virakta  ====
   * detached --- [[books:cc:madhya:10:8|Madhya 10.8]]

@@ -1,5 +1,11 @@
-~~Title:prāṁśum~~
-{{description>a very beautiful body; tall.}}
+---json
+{
+    "name":"prāṁśum",
+    "h1":"prāṁśum",
+    "title":"prāṁśum",
+    "description":"a very beautiful body; tall."
+}
+---
 
 ==== prāṁśum  ====
   * a very beautiful body --- [[books:sb:8:22:13|SB 8.22.13]]

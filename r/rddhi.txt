@@ -1,5 +1,11 @@
-~~Title:ṛddhi~~
-{{description>of wealth; opulence; supernatural power.}}
+---json
+{
+    "name":"ṛddhi",
+    "h1":"ṛddhi",
+    "title":"ṛddhi",
+    "description":"of wealth; opulence; supernatural power."
+}
+---
 
 ==== ṛddhi  ====
   * of wealth --- [[books:sb:3:23:13|SB 3.23.13]]

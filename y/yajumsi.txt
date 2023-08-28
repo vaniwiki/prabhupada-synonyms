@@ -1,5 +1,11 @@
-~~Title:yajūṁṣi~~
-{{description>the Yajur Veda.}}
+---json
+{
+    "name":"yajūṁṣi",
+    "h1":"yajūṁṣi",
+    "title":"yajūṁṣi",
+    "description":"the Yajur Veda."
+}
+---
 
 ==== yajūṁṣi  ====
   * the //Yajur Veda// --- [[books:sb:2:6:25|SB 2.6.25]]

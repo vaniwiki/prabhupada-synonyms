@@ -1,5 +1,11 @@
-~~Title:sūryeṇa~~
-{{description>by the sun-god within the sun planet.}}
+---json
+{
+    "name":"sūryeṇa",
+    "h1":"sūryeṇa",
+    "title":"sūryeṇa",
+    "description":"by the sun-god within the sun planet."
+}
+---
 
 ==== sūryeṇa  ====
   * by the sun-god within the sun planet --- [[books:sb:5:20:45|SB 5.20.45]]

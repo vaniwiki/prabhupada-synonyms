@@ -1,5 +1,11 @@
-~~Title:aprauḍhām~~
-{{description>not very old (youthful); not very old.}}
+---json
+{
+    "name":"aprauḍhām",
+    "h1":"aprauḍhām",
+    "title":"aprauḍhām",
+    "description":"not very old (youthful); not very old."
+}
+---
 
 ==== aprauḍhām  ====
   * not very old (youthful) --- [[books:sb:6:1:65|SB 6.1.65]]

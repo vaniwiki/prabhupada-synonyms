@@ -1,5 +1,11 @@
-~~Title:āśramāt~~
-{{description>from one's own order of life; from the hermitage.}}
+---json
+{
+    "name":"āśramāt",
+    "h1":"āśramāt",
+    "title":"āśramāt",
+    "description":"from one's own order of life; from the hermitage."
+}
+---
 
 ==== āśramāt  ====
   * from one's own order of life --- [[books:sb:7:15:14|SB 7.15.14]]

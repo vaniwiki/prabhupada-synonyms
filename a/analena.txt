@@ -1,5 +1,11 @@
-~~Title:analena~~
-{{description>by the fire.}}
+---json
+{
+    "name":"analena",
+    "h1":"analena",
+    "title":"analena",
+    "description":"by the fire."
+}
+---
 
 ==== analena  ====
   * by the fire --- [[books:bg:3:39|Bg. 3.39]]

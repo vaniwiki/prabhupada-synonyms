@@ -1,5 +1,11 @@
-~~Title:plavaga~~
-{{description>with the help of the soldiers of the monkeys.}}
+---json
+{
+    "name":"plavaga",
+    "h1":"plavaga",
+    "title":"plavaga",
+    "description":"with the help of the soldiers of the monkeys."
+}
+---
 
 ==== plavaga-indra-sainyaiḥ  ====
   * with the help of the soldiers of the monkeys --- [[books:sb:9:10:12|SB 9.10.12]]

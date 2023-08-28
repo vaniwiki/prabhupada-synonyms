@@ -1,5 +1,11 @@
-~~Title:rudati~~
-{{description>cries; he also cried.}}
+---json
+{
+    "name":"rudati",
+    "h1":"rudati",
+    "title":"rudati",
+    "description":"cries; he also cried."
+}
+---
 
 ==== rudati  ====
   * cries --- [[books:sb:7:4:39|SB 7.4.39]]

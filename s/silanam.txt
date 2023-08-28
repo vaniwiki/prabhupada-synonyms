@@ -1,5 +1,11 @@
-~~Title:śīlānām~~
-{{description>whose character.}}
+---json
+{
+    "name":"śīlānām",
+    "h1":"śīlānām",
+    "title":"śīlānām",
+    "description":"whose character."
+}
+---
 
 ==== śīlānām  ====
   * whose character --- [[books:sb:4:30:16|SB 4.30.16]]

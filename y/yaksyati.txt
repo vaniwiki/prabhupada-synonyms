@@ -1,5 +1,11 @@
-~~Title:yakṣyati~~
-{{description>will execute sacrifices.}}
+---json
+{
+    "name":"yakṣyati",
+    "h1":"yakṣyati",
+    "title":"yakṣyati",
+    "description":"will execute sacrifices."
+}
+---
 
 ==== yakṣyati  ====
   * will execute sacrifices --- [[books:sb:9:22:37|SB 9.22.37]]

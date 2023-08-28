@@ -1,5 +1,11 @@
-~~Title:akaram~~
-{{description>the mine.}}
+---json
+{
+    "name":"akaram",
+    "h1":"akaram",
+    "title":"akaram",
+    "description":"the mine."
+}
+---
 
 ==== ākaram  ====
   * the mine --- [[books:sb:4:24:21|SB 4.24.21]]

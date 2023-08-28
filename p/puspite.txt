@@ -1,5 +1,11 @@
-~~Title:puṣpite~~
-{{description>in a nice flower garden.}}
+---json
+{
+    "name":"puṣpite",
+    "h1":"puṣpite",
+    "title":"puṣpite",
+    "description":"in a nice flower garden."
+}
+---
 
 ==== puṣpite vane  ====
   * in a nice flower garden --- [[books:sb:10:10:2-3|SB 10.10.2-3]]

@@ -1,5 +1,11 @@
-~~Title:bile~~
-{{description>snake holes.}}
+---json
+{
+    "name":"bile",
+    "h1":"bile",
+    "title":"bile",
+    "description":"snake holes."
+}
+---
 
 ==== bile  ====
   * snake holes --- [[books:sb:2:3:20|SB 2.3.20]]

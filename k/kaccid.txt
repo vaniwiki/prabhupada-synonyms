@@ -1,5 +1,11 @@
-~~Title:kaccid~~
-{{description>whether.}}
+---json
+{
+    "name":"kaccid",
+    "h1":"kaccid",
+    "title":"kaccid",
+    "description":"whether."
+}
+---
 
 ==== kaccid  ====
   * whether --- [[books:cc:madhya:23:65|Madhya 23.65]]

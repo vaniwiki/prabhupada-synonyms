@@ -1,5 +1,11 @@
-~~Title:muṣṇantaḥ~~
-{{description>stealing.}}
+---json
+{
+    "name":"muṣṇantaḥ",
+    "h1":"muṣṇantaḥ",
+    "title":"muṣṇantaḥ",
+    "description":"stealing."
+}
+---
 
 ==== muṣṇantaḥ  ====
   * stealing --- [[books:sb:10:12:5|SB 10.12.5]]

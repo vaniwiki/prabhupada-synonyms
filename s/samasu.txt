@@ -1,5 +1,11 @@
-~~Title:sāmasu~~
-{{description>to the singing.}}
+---json
+{
+    "name":"sāmasu",
+    "h1":"sāmasu",
+    "title":"sāmasu",
+    "description":"to the singing."
+}
+---
 
 ==== sāmasu  ====
   * to the singing --- [[books:sb:4:29:53|SB 4.29.53]]

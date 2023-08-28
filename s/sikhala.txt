@@ -1,5 +1,11 @@
-~~Title:śikhāla~~
-{{description>taught.}}
+---json
+{
+    "name":"śikhāla",
+    "h1":"śikhāla",
+    "title":"śikhāla",
+    "description":"taught."
+}
+---
 
 ==== śikhāla  ====
   * taught --- [[books:cc:adi:14:30|Ādi 14.30]], [[books:cc:madhya:1:279|Madhya 1.279]]

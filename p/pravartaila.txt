@@ -1,5 +1,11 @@
-~~Title:pravartaila~~
-{{description>has introduced; He initiated.}}
+---json
+{
+    "name":"pravartaila",
+    "h1":"pravartaila",
+    "title":"pravartaila",
+    "description":"has introduced; He initiated."
+}
+---
 
 ==== pravartāila  ====
   * has introduced --- [[books:cc:adi:17:204|Ādi 17.204]]

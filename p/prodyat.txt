@@ -1,5 +1,11 @@
-~~Title:prodyat~~
-{{description>manifesting.}}
+---json
+{
+    "name":"prodyat",
+    "h1":"prodyat",
+    "title":"prodyat",
+    "description":"manifesting."
+}
+---
 
 ==== prodyat  ====
   * manifesting --- [[books:cc:adi:4:260|Ādi 4.260]]

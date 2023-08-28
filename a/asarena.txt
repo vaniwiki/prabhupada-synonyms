@@ -1,5 +1,11 @@
-~~Title:āsāreṇa~~
-{{description>by constant rainfall.}}
+---json
+{
+    "name":"āsāreṇa",
+    "h1":"āsāreṇa",
+    "title":"āsāreṇa",
+    "description":"by constant rainfall."
+}
+---
 
 ==== āsāreṇa  ====
   * by constant rainfall --- [[books:sb:4:10:13|SB 4.10.13]]

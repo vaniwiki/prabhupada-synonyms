@@ -1,5 +1,11 @@
-~~Title:bhṛtān~~
-{{description>the servitors.}}
+---json
+{
+    "name":"bhṛtān",
+    "h1":"bhṛtān",
+    "title":"bhṛtān",
+    "description":"the servitors."
+}
+---
 
 ==== bhṛtān  ====
   * the servitors --- [[books:sb:3:2:22|SB 3.2.22]]

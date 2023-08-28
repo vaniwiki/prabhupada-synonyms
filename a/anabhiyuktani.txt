@@ -1,5 +1,11 @@
-~~Title:anabhiyuktāni~~
-{{description>although not liked by his son.}}
+---json
+{
+    "name":"anabhiyuktāni",
+    "h1":"anabhiyuktāni",
+    "title":"anabhiyuktāni",
+    "description":"although not liked by his son."
+}
+---
 
 ==== anabhiyuktāni api  ====
   * although not liked by his son --- [[books:sb:5:9:6|SB 5.9.6]]

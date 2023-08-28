@@ -1,5 +1,11 @@
-~~Title:śikhite~~
-{{description>to be initiated.}}
+---json
+{
+    "name":"śikhite",
+    "h1":"śikhite",
+    "title":"śikhite",
+    "description":"to be initiated."
+}
+---
 
 ==== mantra-ādi śikhite  ====
   * to be initiated --- [[books:cc:antya:7:150|Antya 7.150]]

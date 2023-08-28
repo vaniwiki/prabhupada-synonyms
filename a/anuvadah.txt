@@ -1,5 +1,11 @@
-~~Title:anuvādaḥ~~
-{{description>constant chanting of the glories.}}
+---json
+{
+    "name":"anuvādaḥ",
+    "h1":"anuvādaḥ",
+    "title":"anuvādaḥ",
+    "description":"constant chanting of the glories."
+}
+---
 
 ==== guṇa-anuvādaḥ  ====
   * constant chanting of the glories --- [[books:sb:6:2:12|SB 6.2.12]]

@@ -1,5 +1,11 @@
-~~Title:vākyataḥ~~
-{{description>under whose instruction.}}
+---json
+{
+    "name":"vākyataḥ",
+    "h1":"vākyataḥ",
+    "title":"vākyataḥ",
+    "description":"under whose instruction."
+}
+---
 
 ==== yat-vākyataḥ  ====
   * under whose instruction --- [[books:sb:1:5:15|SB 1.5.15]]

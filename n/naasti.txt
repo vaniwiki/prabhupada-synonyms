@@ -1,5 +1,11 @@
-~~Title:naasti~~
-{{description>there is none; there is not.}}
+---json
+{
+    "name":"naasti",
+    "h1":"naasti",
+    "title":"naasti",
+    "description":"there is none; there is not."
+}
+---
 
 ==== naasti  ====
   * there is none --- [[books:cc:adi:7:76|Ādi 7.76]]

@@ -1,5 +1,11 @@
-~~Title:nṛsiṁhere~~
-{{description>to Ahovala-nṛsiṁha.}}
+---json
+{
+    "name":"nṛsiṁhere",
+    "h1":"nṛsiṁhere",
+    "title":"nṛsiṁhere",
+    "description":"to Ahovala-nṛsiṁha."
+}
+---
 
 ==== ahovala-nṛsiṁhere  ====
   * to Ahovala-nṛsiṁha --- [[books:cc:madhya:9:16|Madhya 9.16]]

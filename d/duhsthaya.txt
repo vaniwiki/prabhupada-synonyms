@@ -1,5 +1,11 @@
-~~Title:duḥsthayā~~
-{{description>giving trouble to oneself.}}
+---json
+{
+    "name":"duḥsthayā",
+    "h1":"duḥsthayā",
+    "title":"duḥsthayā",
+    "description":"giving trouble to oneself."
+}
+---
 
 ==== ātma-duḥsthayā  ====
   * giving trouble to oneself --- [[books:sb:4:24:61|SB 4.24.61]]

@@ -1,5 +1,11 @@
-~~Title:avakarśanam~~
-{{description>reactionary.}}
+---json
+{
+    "name":"avakarśanam",
+    "h1":"avakarśanam",
+    "title":"avakarśanam",
+    "description":"reactionary."
+}
+---
 
 ==== avakarśanam  ====
   * reactionary --- [[books:sb:1:7:28|SB 1.7.28]]

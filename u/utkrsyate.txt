@@ -1,5 +1,11 @@
-~~Title:utkṛṣyate~~
-{{description>is superior.}}
+---json
+{
+    "name":"utkṛṣyate",
+    "h1":"utkṛṣyate",
+    "title":"utkṛṣyate",
+    "description":"is superior."
+}
+---
 
 ==== utkṛṣyate  ====
   * is superior --- [[books:cc:madhya:9:117|Madhya 9.117]], [[books:cc:madhya:9:146|Madhya 9.146]]

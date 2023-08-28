@@ -1,5 +1,11 @@
-~~Title:nandau~~
-{{description>and Nanda.}}
+---json
+{
+    "name":"nandau",
+    "h1":"nandau",
+    "title":"nandau",
+    "description":"and Nanda."
+}
+---
 
 ==== nandau  ====
   * and Nanda --- [[books:sb:4:12:22|SB 4.12.22]]

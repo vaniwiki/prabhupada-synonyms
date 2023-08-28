@@ -1,5 +1,11 @@
-~~Title:upakrośya~~
-{{description>irritating and pinching.}}
+---json
+{
+    "name":"upakrośya",
+    "h1":"upakrośya",
+    "title":"upakrośya",
+    "description":"irritating and pinching."
+}
+---
 
 ==== upakrośya  ====
   * irritating and pinching --- [[books:sb:10:8:29|SB 10.8.29]]

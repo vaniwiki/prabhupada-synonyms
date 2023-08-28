@@ -1,5 +1,11 @@
-~~Title:manim~~
-{{description>the jewel; the pearl necklace.}}
+---json
+{
+    "name":"manim",
+    "h1":"manim",
+    "title":"manim",
+    "description":"the jewel; the pearl necklace."
+}
+---
 
 ==== maṇim  ====
   * the jewel --- [[books:sb:1:7:55|SB 1.7.55]]

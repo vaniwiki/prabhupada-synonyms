@@ -1,5 +1,11 @@
-~~Title:parityāga~~
-{{description>give up; giving up.}}
+---json
+{
+    "name":"parityāga",
+    "h1":"parityāga",
+    "title":"parityāga",
+    "description":"give up; giving up."
+}
+---
 
 ==== parityāga  ====
   * give up --- [[books:cc:adi:4:175|Ādi 4.175]]

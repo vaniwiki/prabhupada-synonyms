@@ -1,5 +1,11 @@
-~~Title:pranayitam~~
-{{description>love.}}
+---json
+{
+    "name":"pranayitam",
+    "h1":"pranayitam",
+    "title":"pranayitam",
+    "description":"love."
+}
+---
 
 ==== pranayitām  ====
   * love --- [[books:cc:adi:3:66|Ādi 3.66]]

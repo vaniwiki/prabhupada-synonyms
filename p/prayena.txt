@@ -1,5 +1,11 @@
-~~Title:prayena~~
-{{description>almost.}}
+---json
+{
+    "name":"prayena",
+    "h1":"prayena",
+    "title":"prayena",
+    "description":"almost."
+}
+---
 
 ==== prāyena  ====
   * almost --- [[books:cc:adi:1:77|Ādi 1.77]]

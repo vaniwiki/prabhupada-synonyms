@@ -1,5 +1,11 @@
-~~Title:atyartham~~
-{{description>highly.}}
+---json
+{
+    "name":"atyartham",
+    "h1":"atyartham",
+    "title":"atyartham",
+    "description":"highly."
+}
+---
 
 ==== atyartham  ====
   * highly --- [[books:bg:7:17|Bg. 7.17]]

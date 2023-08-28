@@ -1,5 +1,11 @@
-~~Title:upalālitaḥ~~
-{{description>properly being raised.}}
+---json
+{
+    "name":"upalālitaḥ",
+    "h1":"upalālitaḥ",
+    "title":"upalālitaḥ",
+    "description":"properly being raised."
+}
+---
 
 ==== upalālitaḥ  ====
   * properly being raised --- [[books:sb:10:5:27|SB 10.5.27]]

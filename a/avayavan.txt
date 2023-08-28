@@ -1,5 +1,11 @@
-~~Title:avayavān~~
-{{description>personal bodily limbs.}}
+---json
+{
+    "name":"avayavān",
+    "h1":"avayavān",
+    "title":"avayavān",
+    "description":"personal bodily limbs."
+}
+---
 
 ==== avayavān  ====
   * personal bodily limbs --- [[books:sb:2:6:23|SB 2.6.23]]

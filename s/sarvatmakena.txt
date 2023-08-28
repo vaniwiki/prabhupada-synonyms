@@ -1,5 +1,11 @@
-~~Title:sarvātmakena~~
-{{description>by all means.}}
+---json
+{
+    "name":"sarvātmakena",
+    "h1":"sarvātmakena",
+    "title":"sarvātmakena",
+    "description":"by all means."
+}
+---
 
 ==== sarvātmakena api  ====
   * by all means --- [[books:sb:1:4:26|SB 1.4.26]]

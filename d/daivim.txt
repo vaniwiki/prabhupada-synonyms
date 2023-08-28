@@ -1,5 +1,11 @@
-~~Title:daivīm~~
-{{description>divine; of the Personality of Godhead; ominous; related to Viṣṇu; transcendental.}}
+---json
+{
+    "name":"daivīm",
+    "h1":"daivīm",
+    "title":"daivīm",
+    "description":"divine; of the Personality of Godhead; ominous; related to Viṣṇu; transcendental."
+}
+---
 
 ==== daivīm  ====
   * divine --- [[books:bg:9:13|Bg. 9.13]], [[books:sb:3:28:44|SB 3.28.44]]

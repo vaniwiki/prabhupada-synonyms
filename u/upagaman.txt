@@ -1,5 +1,11 @@
-~~Title:upāgaman~~
-{{description>approached; they came near the residence of Jamadagni; went.}}
+---json
+{
+    "name":"upāgaman",
+    "h1":"upāgaman",
+    "title":"upāgaman",
+    "description":"approached; they came near the residence of Jamadagni; went."
+}
+---
 
 ==== upāgaman  ====
   * approached --- [[books:sb:8:6:29|SB 8.6.29]]

@@ -1,5 +1,11 @@
-~~Title:prayāṇa~~
-{{description>departure; going; movement; of death; outgoing; starting.}}
+---json
+{
+    "name":"prayāṇa",
+    "h1":"prayāṇa",
+    "title":"prayāṇa",
+    "description":"departure; going; movement; of death; outgoing; starting."
+}
+---
 
 ==== prayāṇa  ====
   * departure --- [[books:cc:madhya:8:300|Madhya 8.300]], [[books:cc:madhya:10:94|Madhya 10.94]]

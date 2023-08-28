@@ -1,5 +1,11 @@
-~~Title:deśāt~~
-{{description>from the country.}}
+---json
+{
+    "name":"deśāt",
+    "h1":"deśāt",
+    "title":"deśāt",
+    "description":"from the country."
+}
+---
 
 ==== deśāt  ====
   * from the country --- [[books:sb:9:6:9|SB 9.6.9]]

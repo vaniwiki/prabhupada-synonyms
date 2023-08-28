@@ -1,5 +1,11 @@
-~~Title:ceta~~
-{{description>the mind became fully taken over.}}
+---json
+{
+    "name":"ceta",
+    "h1":"ceta",
+    "title":"ceta",
+    "description":"the mind became fully taken over."
+}
+---
 
 ==== gṛhīta-ceta  ====
   * the mind became fully taken over --- [[books:cc:madhya:24:47|Madhya 24.47]]

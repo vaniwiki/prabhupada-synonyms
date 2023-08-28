@@ -1,5 +1,11 @@
-~~Title:rākhāla~~
-{{description>protector.}}
+---json
+{
+    "name":"rākhāla",
+    "h1":"rākhāla",
+    "title":"rākhāla",
+    "description":"protector."
+}
+---
 
 ==== rākhāla  ====
   * protector --- [[books:cc:adi:17:111|Ādi 17.111]]

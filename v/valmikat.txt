@@ -1,5 +1,11 @@
-~~Title:valmīkāt~~
-{{description>from an anthill.}}
+---json
+{
+    "name":"valmīkāt",
+    "h1":"valmīkāt",
+    "title":"valmīkāt",
+    "description":"from an anthill."
+}
+---
 
 ==== valmīkāt  ====
   * from an anthill --- [[books:sb:6:18:5|SB 6.18.5]]

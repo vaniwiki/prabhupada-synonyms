@@ -1,5 +1,11 @@
-~~Title:lakṣmaṇam~~
-{{description>His younger brother Lakṣmaṇa.}}
+---json
+{
+    "name":"lakṣmaṇam",
+    "h1":"lakṣmaṇam",
+    "title":"lakṣmaṇam",
+    "description":"His younger brother Lakṣmaṇa."
+}
+---
 
 ==== lakṣmaṇam  ====
   * His younger brother Lakṣmaṇa --- [[books:sb:5:19:6|SB 5.19.6]]

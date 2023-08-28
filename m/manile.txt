@@ -1,5 +1,11 @@
-~~Title:mānile~~
-{{description>accepting; if one accepts; if one considers.}}
+---json
+{
+    "name":"mānile",
+    "h1":"mānile",
+    "title":"mānile",
+    "description":"accepting; if one accepts; if one considers."
+}
+---
 
 ==== mānile  ====
   * accepting --- [[books:cc:adi:7:140|Ādi 7.140]], [[books:cc:adi:8:9|Ādi 8.9]], [[books:cc:adi:8:10|Ādi 8.10]]

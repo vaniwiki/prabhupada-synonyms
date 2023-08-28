@@ -1,5 +1,11 @@
-~~Title:vasukāla~~
-{{description>like the quality of being the earth and, beyond that, the subtle element of the earth (smell).}}
+---json
+{
+    "name":"vasukāla",
+    "h1":"vasukāla",
+    "title":"vasukāla",
+    "description":"like the quality of being the earth and, beyond that, the subtle element of the earth (smell)."
+}
+---
 
 ==== vasukāla-vat  ====
   * like the quality of being the earth and, beyond that, the subtle element of the earth (smell) --- [[books:sb:7:9:31|SB 7.9.31]]

@@ -1,5 +1,11 @@
-~~Title:dvāraiḥ~~
-{{description>with entrances.}}
+---json
+{
+    "name":"dvāraiḥ",
+    "h1":"dvāraiḥ",
+    "title":"dvāraiḥ",
+    "description":"with entrances."
+}
+---
 
 ==== dvāraiḥ  ====
   * with entrances --- [[books:sb:8:15:15|SB 8.15.15]]

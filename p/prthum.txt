@@ -1,5 +1,11 @@
-~~Title:pṛthum~~
-{{description>of King Pṛthu; unto King Pṛthu; unto Mahārāja Pṛthu.}}
+---json
+{
+    "name":"pṛthum",
+    "h1":"pṛthum",
+    "title":"pṛthum",
+    "description":"of King Pṛthu; unto King Pṛthu; unto Mahārāja Pṛthu."
+}
+---
 
 ==== pṛthum  ====
   * of King Pṛthu --- [[books:sb:4:23:23|SB 4.23.23]]

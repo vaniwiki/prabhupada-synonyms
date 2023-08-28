@@ -1,5 +1,11 @@
-~~Title:tilaka~~
-{{description>by decorating the body with tilaka marks in twelve places.}}
+---json
+{
+    "name":"tilaka",
+    "h1":"tilaka",
+    "title":"tilaka",
+    "description":"by decorating the body with tilaka marks in twelve places."
+}
+---
 
 ==== tilaka  ====
   * by decorating the body with //tilaka// marks in twelve places --- [[books:sb:10:13:23|SB 10.13.23]]

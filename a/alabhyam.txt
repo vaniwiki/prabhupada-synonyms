@@ -1,5 +1,11 @@
-~~Title:alabhyam~~
-{{description>not obtainable; unobtainable.}}
+---json
+{
+    "name":"alabhyam",
+    "h1":"alabhyam",
+    "title":"alabhyam",
+    "description":"not obtainable; unobtainable."
+}
+---
 
 ==== alabhyam  ====
   * not obtainable --- [[books:cc:madhya:25:283|Madhya 25.283]]

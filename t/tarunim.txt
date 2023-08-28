@@ -1,5 +1,11 @@
-~~Title:taruṇīm~~
-{{description>youthful.}}
+---json
+{
+    "name":"taruṇīm",
+    "h1":"taruṇīm",
+    "title":"taruṇīm",
+    "description":"youthful."
+}
+---
 
 ==== taruṇīm  ====
   * youthful --- [[books:cc:madhya:24:348|Madhya 24.348]]

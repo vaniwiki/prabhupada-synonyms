@@ -1,5 +1,11 @@
-~~Title:chuṭilāṅa~~
-{{description>I am relieved.}}
+---json
+{
+    "name":"chuṭilāṅa",
+    "h1":"chuṭilāṅa",
+    "title":"chuṭilāṅa",
+    "description":"I am relieved."
+}
+---
 
 ==== chuṭilāṅa  ====
   * I am relieved --- [[books:cc:madhya:20:30|Madhya 20.30]]

@@ -1,5 +1,11 @@
-~~Title:surayā~~
-{{description>by wine.}}
+---json
+{
+    "name":"surayā",
+    "h1":"surayā",
+    "title":"surayā",
+    "description":"by wine."
+}
+---
 
 ==== surayā  ====
   * by wine --- [[books:sb:1:8:52|SB 1.8.52]]

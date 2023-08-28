@@ -1,5 +1,11 @@
-~~Title:avināśi~~
-{{description>imperishable.}}
+---json
+{
+    "name":"avināśi",
+    "h1":"avināśi",
+    "title":"avināśi",
+    "description":"imperishable."
+}
+---
 
 ==== avināśi  ====
   * imperishable --- [[books:bg:2:17|Bg. 2.17]]

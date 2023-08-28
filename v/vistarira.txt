@@ -1,5 +1,11 @@
-~~Title:vistārirā~~
-{{description>elaborate explanation.}}
+---json
+{
+    "name":"vistārirā",
+    "h1":"vistārirā",
+    "title":"vistārirā",
+    "description":"elaborate explanation."
+}
+---
 
 ==== vistārirā  ====
   * elaborate explanation --- [[books:cc:adi:14:96|Ādi 14.96]]

@@ -1,5 +1,11 @@
-~~Title:sainyeṣu~~
-{{description>fighting soldiers.}}
+---json
+{
+    "name":"sainyeṣu",
+    "h1":"sainyeṣu",
+    "title":"sainyeṣu",
+    "description":"fighting soldiers."
+}
+---
 
 ==== sainyeṣu  ====
   * fighting soldiers --- [[books:sb:2:1:4|SB 2.1.4]]

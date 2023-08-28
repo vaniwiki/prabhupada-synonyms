@@ -1,5 +1,11 @@
-~~Title:devavrataḥ~~
-{{description>Bhīṣma.}}
+---json
+{
+    "name":"devavrataḥ",
+    "h1":"devavrataḥ",
+    "title":"devavrataḥ",
+    "description":"Bhīṣma."
+}
+---
 
 ==== devavrataḥ  ====
   * Bhīṣma --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

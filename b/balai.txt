@@ -1,5 +1,11 @@
-~~Title:balai~~
-{{description>Lord Balarāma.}}
+---json
+{
+    "name":"balai",
+    "h1":"balai",
+    "title":"balai",
+    "description":"Lord Balarāma."
+}
+---
 
 ==== balāi  ====
   * Lord Balarāma --- [[books:cc:madhya:16:80|Madhya 16.80]]

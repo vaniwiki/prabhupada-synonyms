@@ -1,5 +1,11 @@
-~~Title:vāruṇīm~~
-{{description>a kind of liquor named Vāruṇī; fermented rice; liquor; of Varuṇa; to the quarters where Varuṇa lives.}}
+---json
+{
+    "name":"vāruṇīm",
+    "h1":"vāruṇīm",
+    "title":"vāruṇīm",
+    "description":"a kind of liquor named Vāruṇī; fermented rice; liquor; of Varuṇa; to the quarters where Varuṇa lives."
+}
+---
 
 ==== vāruṇīm  ====
   * a kind of liquor named Vāruṇī --- [[books:sb:10:10:2-3|SB 10.10.2-3]]

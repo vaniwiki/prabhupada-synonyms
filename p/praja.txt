@@ -1,5 +1,11 @@
-~~Title:praja~~
-{{description>a son; citizens; living beings; living entities; of the living entities; one who is born; progeny; son; sons and daughters; the living entities; the living entities born in the material world; the people in general; those who are born.}}
+---json
+{
+    "name":"praja",
+    "h1":"praja",
+    "title":"praja",
+    "description":"a son; citizens; living beings; living entities; of the living entities; one who is born; progeny; son; sons and daughters; the living entities; the living entities born in the material world; the people in general; those who are born."
+}
+---
 
 ==== prajā  ====
   * a son --- [[books:sb:10:5:23|SB 10.5.23]]

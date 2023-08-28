@@ -1,5 +1,11 @@
-~~Title:suteṣu~~
-{{description>children; in children.}}
+---json
+{
+    "name":"suteṣu",
+    "h1":"suteṣu",
+    "title":"suteṣu",
+    "description":"children; in children."
+}
+---
 
 ==== suteṣu  ====
   * children --- [[books:sb:5:19:14|SB 5.19.14]]

@@ -1,5 +1,11 @@
-~~Title:aśanāyām~~
-{{description>through Aśanā.}}
+---json
+{
+    "name":"aśanāyām",
+    "h1":"aśanāyām",
+    "title":"aśanāyām",
+    "description":"through Aśanā."
+}
+---
 
 ==== aśanāyām  ====
   * through Aśanā --- [[books:sb:6:18:17|SB 6.18.17]]

@@ -1,5 +1,11 @@
-~~Title:doṣāṇām~~
-{{description>whose material contaminations are washed off.}}
+---json
+{
+    "name":"doṣāṇām",
+    "h1":"doṣāṇām",
+    "title":"doṣāṇām",
+    "description":"whose material contaminations are washed off."
+}
+---
 
 ==== nirdhūta-doṣāṇām  ====
   * whose material contaminations are washed off --- [[books:cc:madhya:23:95-98|Madhya 23.95-98]]

@@ -1,5 +1,11 @@
-~~Title:sandehe~~
-{{description>doubting.}}
+---json
+{
+    "name":"sandehe",
+    "h1":"sandehe",
+    "title":"sandehe",
+    "description":"doubting."
+}
+---
 
 ==== kariyā sandehe  ====
   * doubting --- [[books:cc:antya:2:22|Antya 2.22]]

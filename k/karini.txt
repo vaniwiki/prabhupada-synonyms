@@ -1,5 +1,11 @@
-~~Title:karini~~
-{{description>a she-elephant.}}
+---json
+{
+    "name":"karini",
+    "h1":"karini",
+    "title":"karini",
+    "description":"a she-elephant."
+}
+---
 
 ==== kariṇī  ====
   * a she-elephant --- [[books:sb:8:12:29-30|SB 8.12.29-30]]

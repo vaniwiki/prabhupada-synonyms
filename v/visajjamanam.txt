@@ -1,5 +1,11 @@
-~~Title:viṣajjamānam~~
-{{description>playing.}}
+---json
+{
+    "name":"viṣajjamānam",
+    "h1":"viṣajjamānam",
+    "title":"viṣajjamānam",
+    "description":"playing."
+}
+---
 
 ==== viṣajjamānam  ====
   * playing --- [[books:sb:3:19:6|SB 3.19.6]]

@@ -1,5 +1,11 @@
-~~Title:avaśiṣṭam~~
-{{description>remaining; the food that remained after the brāhmaṇa and śūdra were fed.}}
+---json
+{
+    "name":"avaśiṣṭam",
+    "h1":"avaśiṣṭam",
+    "title":"avaśiṣṭam",
+    "description":"remaining; the food that remained after the brāhmaṇa and śūdra were fed."
+}
+---
 
 ==== avaśiṣṭam  ====
   * remaining --- [[books:sb:4:28:16|SB 4.28.16]]

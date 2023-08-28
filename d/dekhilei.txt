@@ -1,5 +1,11 @@
-~~Title:dekhilei~~
-{{description>when I see.}}
+---json
+{
+    "name":"dekhilei",
+    "h1":"dekhilei",
+    "title":"dekhilei",
+    "description":"when I see."
+}
+---
 
 ==== dekhilei  ====
   * when I see --- [[books:cc:madhya:12:90|Madhya 12.90]]

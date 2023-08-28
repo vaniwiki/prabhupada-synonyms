@@ -1,5 +1,11 @@
-~~Title:arūpakasya~~
-{{description>of You, who possess no material form.}}
+---json
+{
+    "name":"arūpakasya",
+    "h1":"arūpakasya",
+    "title":"arūpakasya",
+    "description":"of You, who possess no material form."
+}
+---
 
 ==== arūpakasya  ====
   * of You, who possess no material form --- [[books:sb:7:9:47|SB 7.9.47]]

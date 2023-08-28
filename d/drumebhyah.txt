@@ -1,5 +1,11 @@
-~~Title:drumebhyaḥ~~
-{{description>the trees; unto the trees.}}
+---json
+{
+    "name":"drumebhyaḥ",
+    "h1":"drumebhyaḥ",
+    "title":"drumebhyaḥ",
+    "description":"the trees; unto the trees."
+}
+---
 
 ==== drumebhyaḥ  ====
   * the trees --- [[books:sb:6:4:7|SB 6.4.7]]

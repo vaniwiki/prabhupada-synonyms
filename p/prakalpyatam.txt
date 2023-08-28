@@ -1,5 +1,11 @@
-~~Title:prakalpyatām~~
-{{description>accept as such.}}
+---json
+{
+    "name":"prakalpyatām",
+    "h1":"prakalpyatām",
+    "title":"prakalpyatām",
+    "description":"accept as such."
+}
+---
 
 ==== prakalpyatām  ====
   * accept as such --- [[books:sb:9:16:30|SB 9.16.30]]

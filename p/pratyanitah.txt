@@ -1,5 +1,11 @@
-~~Title:pratyānītāḥ~~
-{{description>recovered.}}
+---json
+{
+    "name":"pratyānītāḥ",
+    "h1":"pratyānītāḥ",
+    "title":"pratyānītāḥ",
+    "description":"recovered."
+}
+---
 
 ==== pratyānītāḥ  ====
   * recovered --- [[books:sb:7:8:42|SB 7.8.42]]

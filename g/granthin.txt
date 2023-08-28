@@ -1,5 +1,11 @@
-~~Title:granthīn~~
-{{description>knots.}}
+---json
+{
+    "name":"granthīn",
+    "h1":"granthīn",
+    "title":"granthīn",
+    "description":"knots."
+}
+---
 
 ==== granthīn  ====
   * knots --- [[books:sb:8:24:53|SB 8.24.53]]

@@ -1,5 +1,11 @@
-~~Title:ihani~~
-{{description>here.}}
+---json
+{
+    "name":"ihani",
+    "h1":"ihani",
+    "title":"ihani",
+    "description":"here."
+}
+---
 
 ==== ihāṅi  ====
   * here --- [[books:cc:antya:7:59|Antya 7.59]]

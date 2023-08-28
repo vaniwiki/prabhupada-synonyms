@@ -1,5 +1,11 @@
-~~Title:pratyākhyātaḥ~~
-{{description>being refused.}}
+---json
+{
+    "name":"pratyākhyātaḥ",
+    "h1":"pratyākhyātaḥ",
+    "title":"pratyākhyātaḥ",
+    "description":"being refused."
+}
+---
 
 ==== pratyākhyātaḥ  ====
   * being refused --- [[books:sb:9:4:55|SB 9.4.55]]

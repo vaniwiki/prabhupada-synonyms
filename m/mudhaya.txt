@@ -1,5 +1,11 @@
-~~Title:mūḍhāya~~
-{{description>the form of the Lord as an animal, such as the boar.}}
+---json
+{
+    "name":"mūḍhāya",
+    "h1":"mūḍhāya",
+    "title":"mūḍhāya",
+    "description":"the form of the Lord as an animal, such as the boar."
+}
+---
 
 ==== mūḍhāya  ====
   * the form of the Lord as an animal, such as the boar --- [[books:sb:8:3:12|SB 8.3.12]]

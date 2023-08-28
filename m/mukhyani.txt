@@ -1,5 +1,11 @@
-~~Title:mukhyāni~~
-{{description>the principal holy places.}}
+---json
+{
+    "name":"mukhyāni",
+    "h1":"mukhyāni",
+    "title":"mukhyāni",
+    "description":"the principal holy places."
+}
+---
 
 ==== kṣetra-mukhyāni  ====
   * the principal holy places --- [[books:sb:1:13:9|SB 1.13.9]]

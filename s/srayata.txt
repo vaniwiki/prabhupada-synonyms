@@ -1,5 +1,11 @@
-~~Title:śrayatā~~
-{{description>taking shelter of.}}
+---json
+{
+    "name":"śrayatā",
+    "h1":"śrayatā",
+    "title":"śrayatā",
+    "description":"taking shelter of."
+}
+---
 
 ==== śrayatā  ====
   * taking shelter of --- [[books:sb:7:5:26|SB 7.5.26]]

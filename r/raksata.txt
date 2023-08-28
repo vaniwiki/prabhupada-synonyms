@@ -1,5 +1,11 @@
-~~Title:rakṣata~~
-{{description>protect; spare.}}
+---json
+{
+    "name":"rakṣata",
+    "h1":"rakṣata",
+    "title":"rakṣata",
+    "description":"protect; spare."
+}
+---
 
 ==== rakṣata  ====
   * protect --- [[books:sb:3:20:21|SB 3.20.21]]

@@ -1,5 +1,11 @@
-~~Title:śuṣkayoḥ~~
-{{description>or by a dry medium.}}
+---json
+{
+    "name":"śuṣkayoḥ",
+    "h1":"śuṣkayoḥ",
+    "title":"śuṣkayoḥ",
+    "description":"or by a dry medium."
+}
+---
 
 ==== śuṣkayoḥ  ====
   * or by a dry medium --- [[books:sb:8:11:38|SB 8.11.38]]

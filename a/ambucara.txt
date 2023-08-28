@@ -1,5 +1,11 @@
-~~Title:ambucara~~
-{{description>in the form of a tortoise.}}
+---json
+{
+    "name":"ambucara",
+    "h1":"ambucara",
+    "title":"ambucara",
+    "description":"in the form of a tortoise."
+}
+---
 
 ==== ambucara-ātmanā  ====
   * in the form of a tortoise --- [[books:sb:8:5:11-12|SB 8.5.11-12]]

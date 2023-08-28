@@ -1,5 +1,11 @@
-~~Title:parāvasū~~
-{{description>named Parāvasu.}}
+---json
+{
+    "name":"parāvasū",
+    "h1":"parāvasū",
+    "title":"parāvasū",
+    "description":"named Parāvasu."
+}
+---
 
 ==== parāvasū  ====
   * named Parāvasu --- [[books:sb:8:11:41|SB 8.11.41]]

@@ -1,5 +1,11 @@
-~~Title:paryatapyan~~
-{{description>lamented.}}
+---json
+{
+    "name":"paryatapyan",
+    "h1":"paryatapyan",
+    "title":"paryatapyan",
+    "description":"lamented."
+}
+---
 
 ==== paryatapyan  ====
   * lamented --- [[books:sb:6:14:39|SB 6.14.39]]

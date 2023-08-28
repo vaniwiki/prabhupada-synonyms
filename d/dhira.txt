@@ -1,5 +1,11 @@
-~~Title:dhīra~~
-{{description>a very learned and gentle scholar; fixed; pacified; patient; self-controlled; sober; the sober.}}
+---json
+{
+    "name":"dhīra",
+    "h1":"dhīra",
+    "title":"dhīra",
+    "description":"a very learned and gentle scholar; fixed; pacified; patient; self-controlled; sober; the sober."
+}
+---
 
 ==== dhīra  ====
   * a very learned and gentle scholar --- [[books:cc:antya:14:5|Antya 14.5]]

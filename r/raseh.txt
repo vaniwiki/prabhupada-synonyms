@@ -1,5 +1,11 @@
-~~Title:rāśeḥ~~
-{{description>who are the reservoir.}}
+---json
+{
+    "name":"rāśeḥ",
+    "h1":"rāśeḥ",
+    "title":"rāśeḥ",
+    "description":"who are the reservoir."
+}
+---
 
 ==== rāśeḥ  ====
   * who are the reservoir --- [[books:sb:3:21:13|SB 3.21.13]]

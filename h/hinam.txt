@@ -1,5 +1,11 @@
-~~Title:hīnam~~
-{{description>being deprived of; without.}}
+---json
+{
+    "name":"hīnam",
+    "h1":"hīnam",
+    "title":"hīnam",
+    "description":"being deprived of; without."
+}
+---
 
 ==== hīnam  ====
   * being deprived of --- [[books:sb:1:7:56|SB 1.7.56]]

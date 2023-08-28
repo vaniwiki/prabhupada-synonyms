@@ -1,5 +1,11 @@
-~~Title:parisarpaṇam~~
-{{description>expansion.}}
+---json
+{
+    "name":"parisarpaṇam",
+    "h1":"parisarpaṇam",
+    "title":"parisarpaṇam",
+    "description":"expansion."
+}
+---
 
 ==== parisarpaṇam  ====
   * expansion --- [[books:sb:1:15:37|SB 1.15.37]]

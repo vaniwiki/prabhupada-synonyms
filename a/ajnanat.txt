@@ -1,5 +1,11 @@
-~~Title:ajñānāt~~
-{{description>due to ignorance; from ignorance; out of ignorance.}}
+---json
+{
+    "name":"ajñānāt",
+    "h1":"ajñānāt",
+    "title":"ajñānāt",
+    "description":"due to ignorance; from ignorance; out of ignorance."
+}
+---
 
 ==== ajñānāt  ====
   * due to ignorance --- [[books:sb:3:31:28|SB 3.31.28]]

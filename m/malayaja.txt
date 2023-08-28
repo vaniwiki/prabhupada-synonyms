@@ -1,5 +1,11 @@
-~~Title:malayaja~~
-{{description>sandalwood produced in the Malaya Hills.}}
+---json
+{
+    "name":"malayaja",
+    "h1":"malayaja",
+    "title":"malayaja",
+    "description":"sandalwood produced in the Malaya Hills."
+}
+---
 
 ==== malayaja-candana  ====
   * sandalwood produced in the Malaya Hills --- [[books:cc:madhya:4:106|Madhya 4.106]]

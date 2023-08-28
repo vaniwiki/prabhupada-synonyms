@@ -1,5 +1,11 @@
-~~Title:ahaṅkaraṇe~~
-{{description>because of the disappearance of the ego.}}
+---json
+{
+    "name":"ahaṅkaraṇe",
+    "h1":"ahaṅkaraṇe",
+    "title":"ahaṅkaraṇe",
+    "description":"because of the disappearance of the ego."
+}
+---
 
 ==== naṣṭe ahaṅkaraṇe  ====
   * because of the disappearance of the ego --- [[books:sb:3:27:15|SB 3.27.15]]

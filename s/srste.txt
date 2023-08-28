@@ -1,5 +1,11 @@
-~~Title:sṛṣṭe~~
-{{description>being so manifested.}}
+---json
+{
+    "name":"sṛṣṭe",
+    "h1":"sṛṣṭe",
+    "title":"sṛṣṭe",
+    "description":"being so manifested."
+}
+---
 
 ==== sṛṣṭe  ====
   * being so manifested --- [[books:sb:2:10:35|SB 2.10.35]]

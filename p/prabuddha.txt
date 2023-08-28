@@ -1,5 +1,11 @@
-~~Title:prabuddha~~
-{{description>awakened.}}
+---json
+{
+    "name":"prabuddha",
+    "h1":"prabuddha",
+    "title":"prabuddha",
+    "description":"awakened."
+}
+---
 
 ==== prabuddha  ====
   * awakened --- [[books:sb:3:6:4|SB 3.6.4]]

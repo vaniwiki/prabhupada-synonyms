@@ -1,5 +1,11 @@
-~~Title:pāpīyasīm~~
-{{description>full of sinful activities; most sinful; sinful.}}
+---json
+{
+    "name":"pāpīyasīm",
+    "h1":"pāpīyasīm",
+    "title":"pāpīyasīm",
+    "description":"full of sinful activities; most sinful; sinful."
+}
+---
 
 ==== pāpīyasīm  ====
   * full of sinful activities --- [[books:sb:4:28:59|SB 4.28.59]]

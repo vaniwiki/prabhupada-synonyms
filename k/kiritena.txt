@@ -1,5 +1,11 @@
-~~Title:kirīṭena~~
-{{description>with a helmet bedecked with valuable jewels.}}
+---json
+{
+    "name":"kirīṭena",
+    "h1":"kirīṭena",
+    "title":"kirīṭena",
+    "description":"with a helmet bedecked with valuable jewels."
+}
+---
 
 ==== mahā-maṇi-kirīṭena  ====
   * with a helmet bedecked with valuable jewels --- [[books:sb:8:6:3-7|SB 8.6.3-7]]

@@ -1,5 +1,11 @@
-~~Title:naktāt~~
-{{description>from King Nakta.}}
+---json
+{
+    "name":"naktāt",
+    "h1":"naktāt",
+    "title":"naktāt",
+    "description":"from King Nakta."
+}
+---
 
 ==== naktāt  ====
   * from King Nakta --- [[books:sb:5:15:6|SB 5.15.6]]

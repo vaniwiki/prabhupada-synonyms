@@ -1,5 +1,11 @@
-~~Title:citrasenaḥ~~
-{{description>one named Citrasena.}}
+---json
+{
+    "name":"citrasenaḥ",
+    "h1":"citrasenaḥ",
+    "title":"citrasenaḥ",
+    "description":"one named Citrasena."
+}
+---
 
 ==== citrasenaḥ  ====
   * one named Citrasena --- [[books:sb:9:2:19|SB 9.2.19]]

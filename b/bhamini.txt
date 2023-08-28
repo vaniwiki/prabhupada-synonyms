@@ -1,5 +1,11 @@
-~~Title:bhamini~~
-{{description>My dear mother; O most angry one; O noble lady; O passionate lady.}}
+---json
+{
+    "name":"bhamini",
+    "h1":"bhamini",
+    "title":"bhamini",
+    "description":"My dear mother; O most angry one; O noble lady; O passionate lady."
+}
+---
 
 ==== bhāmini  ====
   * My dear mother --- [[books:sb:3:32:11|SB 3.32.11]]

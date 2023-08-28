@@ -1,5 +1,11 @@
-~~Title:śāpāt~~
-{{description>as the result of a curse; because of a curse; because of being cursed; because of the curse; by being cursed; by his curse; by the curse; due to being cursed; from the curse.}}
+---json
+{
+    "name":"śāpāt",
+    "h1":"śāpāt",
+    "title":"śāpāt",
+    "description":"as the result of a curse; because of a curse; because of being cursed; because of the curse; by being cursed; by his curse; by the curse; due to being cursed; from the curse."
+}
+---
 
 ==== śāpāt  ====
   * as the result of a curse --- [[books:sb:1:13:15|SB 1.13.15]]

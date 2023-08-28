@@ -1,5 +1,11 @@
-~~Title:sannidhānam~~
-{{description>the conservation of all such energy when everything is annihilated.}}
+---json
+{
+    "name":"sannidhānam",
+    "h1":"sannidhānam",
+    "title":"sannidhānam",
+    "description":"the conservation of all such energy when everything is annihilated."
+}
+---
 
 ==== sannidhānam  ====
   * the conservation of all such energy when everything is annihilated --- [[books:sb:10:2:28|SB 10.2.28]]

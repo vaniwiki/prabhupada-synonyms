@@ -1,5 +1,11 @@
-~~Title:anyonyam~~
-{{description>among each other; among one another; each other; one another; to one another; with one another.}}
+---json
+{
+    "name":"anyonyam",
+    "h1":"anyonyam",
+    "title":"anyonyam",
+    "description":"among each other; among one another; each other; one another; to one another; with one another."
+}
+---
 
 ==== anyonyam  ====
   * among each other --- [[books:sb:1:10:20|SB 1.10.20]]

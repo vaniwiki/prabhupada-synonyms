@@ -1,5 +1,11 @@
-~~Title:hema~~
-{{description>gold; golden; very cold; with gold.}}
+---json
+{
+    "name":"hema",
+    "h1":"hema",
+    "title":"hema",
+    "description":"gold; golden; very cold; with gold."
+}
+---
 
 ==== hema  ====
   * gold --- [[books:sb:3:14:46|SB 3.14.46]], [[books:sb:3:15:20|SB 3.15.20]], [[books:cc:adi:4:164|Ādi 4.164]], [[books:cc:madhya:6:279|Madhya 6.279]], [[books:cc:madhya:14:165|Madhya 14.165]], [[books:cc:madhya:15:119|Madhya 15.119]]

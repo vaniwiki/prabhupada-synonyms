@@ -1,5 +1,11 @@
-~~Title:triśikhaḥ~~
-{{description>Triśikha.}}
+---json
+{
+    "name":"triśikhaḥ",
+    "h1":"triśikhaḥ",
+    "title":"triśikhaḥ",
+    "description":"Triśikha."
+}
+---
 
 ==== triśikhaḥ  ====
   * Triśikha --- [[books:sb:8:1:28|SB 8.1.28]]

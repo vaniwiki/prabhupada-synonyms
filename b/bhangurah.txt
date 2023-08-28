@@ -1,5 +1,11 @@
-~~Title:bhaṅguraḥ~~
-{{description>perishable.}}
+---json
+{
+    "name":"bhaṅguraḥ",
+    "h1":"bhaṅguraḥ",
+    "title":"bhaṅguraḥ",
+    "description":"perishable."
+}
+---
 
 ==== bhaṅguraḥ  ====
   * perishable --- [[books:sb:7:7:43|SB 7.7.43]]

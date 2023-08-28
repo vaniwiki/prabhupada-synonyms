@@ -1,5 +1,11 @@
-~~Title:narah~~
-{{description>a human being; a man; a person; any person; every person; human being; human beings; humans; man; named Nara; Nara; such a person.}}
+---json
+{
+    "name":"narah",
+    "h1":"narah",
+    "title":"narah",
+    "description":"a human being; a man; a person; any person; every person; human being; human beings; humans; man; named Nara; Nara; such a person."
+}
+---
 
 ==== naraḥ  ====
   * a human being --- [[books:sb:5:19:8|SB 5.19.8]]

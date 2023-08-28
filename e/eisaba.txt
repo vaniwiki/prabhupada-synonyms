@@ -1,5 +1,11 @@
-~~Title:eisaba~~
-{{description>all of them.}}
+---json
+{
+    "name":"eisaba",
+    "h1":"eisaba",
+    "title":"eisaba",
+    "description":"all of them."
+}
+---
 
 ==== eisaba  ====
   * all of them --- [[books:cc:adi:6:96|Ādi 6.96]], [[books:cc:adi:10:78-79|Ādi 10.78-79]], [[books:cc:madhya:1:254|Madhya 1.254]]

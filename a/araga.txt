@@ -1,5 +1,11 @@
-~~Title:arāga~~
-{{description>without love or hatred.}}
+---json
+{
+    "name":"arāga",
+    "h1":"arāga",
+    "title":"arāga",
+    "description":"without love or hatred."
+}
+---
 
 ==== arāga-dveṣataḥ  ====
   * without love or hatred --- [[books:bg:18:23|Bg. 18.23]]

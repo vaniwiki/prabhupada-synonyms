@@ -1,5 +1,11 @@
-~~Title:kailuṅ~~
-{{description>described; did; have done; I did; I do; I have done; I have made; I have undergone; I made; made; paid; we have done.}}
+---json
+{
+    "name":"kailuṅ",
+    "h1":"kailuṅ",
+    "title":"kailuṅ",
+    "description":"described; did; have done; I did; I do; I have done; I have made; I have undergone; I made; made; paid; we have done."
+}
+---
 
 ==== kailuṅ  ====
   * described --- [[books:cc:adi:12:91|Ādi 12.91]]

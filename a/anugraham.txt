@@ -1,5 +1,11 @@
-~~Title:anugraham~~
-{{description>benediction; doing good to; favor; kindness; mercy; special benediction.}}
+---json
+{
+    "name":"anugraham",
+    "h1":"anugraham",
+    "title":"anugraham",
+    "description":"benediction; doing good to; favor; kindness; mercy; special benediction."
+}
+---
 
 ==== anugraham  ====
   * benediction --- [[books:sb:2:2:12|SB 2.2.12]]

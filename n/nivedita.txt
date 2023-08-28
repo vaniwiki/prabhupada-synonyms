@@ -1,5 +1,11 @@
-~~Title:nivedita~~
-{{description>a fully surrendered soul.}}
+---json
+{
+    "name":"nivedita",
+    "h1":"nivedita",
+    "title":"nivedita",
+    "description":"a fully surrendered soul."
+}
+---
 
 ==== nivedita-ātmā  ====
   * a fully surrendered soul --- [[books:cc:madhya:22:103|Madhya 22.103]], [[books:cc:antya:4:194|Antya 4.194]]

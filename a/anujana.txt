@@ -1,5 +1,11 @@
-~~Title:anujana~~
-{{description>to the devotee.}}
+---json
+{
+    "name":"anujana",
+    "h1":"anujana",
+    "title":"anujana",
+    "description":"to the devotee."
+}
+---
 
 ==== anujana  ====
   * to the devotee --- [[books:sb:5:1:41|SB 5.1.41]]

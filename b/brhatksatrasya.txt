@@ -1,5 +1,11 @@
-~~Title:bṛhatkṣatrasya~~
-{{description>of the grandson of Bharadvāja named Bṛhatkṣatra.}}
+---json
+{
+    "name":"bṛhatkṣatrasya",
+    "h1":"bṛhatkṣatrasya",
+    "title":"bṛhatkṣatrasya",
+    "description":"of the grandson of Bharadvāja named Bṛhatkṣatra."
+}
+---
 
 ==== bṛhatkṣatrasya  ====
   * of the grandson of Bharadvāja named Bṛhatkṣatra --- [[books:sb:9:21:19-20|SB 9.21.19-20]]

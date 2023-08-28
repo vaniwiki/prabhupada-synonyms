@@ -1,5 +1,11 @@
-~~Title:nihitam~~
-{{description>entered; placed.}}
+---json
+{
+    "name":"nihitam",
+    "h1":"nihitam",
+    "title":"nihitam",
+    "description":"entered; placed."
+}
+---
 
 ==== nihitam  ====
   * entered --- [[books:sb:10:2:26|SB 10.2.26]]

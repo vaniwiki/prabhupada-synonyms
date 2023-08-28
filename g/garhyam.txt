@@ -1,5 +1,11 @@
-~~Title:garhyam~~
-{{description>abominable; condemnable; which was abominable.}}
+---json
+{
+    "name":"garhyam",
+    "h1":"garhyam",
+    "title":"garhyam",
+    "description":"abominable; condemnable; which was abominable."
+}
+---
 
 ==== garhyam  ====
   * abominable --- [[books:sb:1:19:1|SB 1.19.1]]

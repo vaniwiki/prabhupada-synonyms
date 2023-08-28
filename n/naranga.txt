@@ -1,5 +1,11 @@
-~~Title:nāraṅga~~
-{{description>oranges.}}
+---json
+{
+    "name":"nāraṅga",
+    "h1":"nāraṅga",
+    "title":"nāraṅga",
+    "description":"oranges."
+}
+---
 
 ==== nāraṅga  ====
   * oranges --- [[books:cc:madhya:14:27|Madhya 14.27]], [[books:cc:madhya:15:86|Madhya 15.86]], [[books:cc:antya:18:104|Antya 18.104]]

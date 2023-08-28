@@ -1,5 +1,11 @@
-~~Title:kupitena~~
-{{description>angry.}}
+---json
+{
+    "name":"kupitena",
+    "h1":"kupitena",
+    "title":"kupitena",
+    "description":"angry."
+}
+---
 
 ==== kupitena  ====
   * angry --- [[books:sb:4:5:5|SB 4.5.5]]

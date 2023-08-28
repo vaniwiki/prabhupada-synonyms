@@ -1,5 +1,11 @@
-~~Title:vikarṣatā~~
-{{description>by Kṛṣṇa, who was dragging.}}
+---json
+{
+    "name":"vikarṣatā",
+    "h1":"vikarṣatā",
+    "title":"vikarṣatā",
+    "description":"by Kṛṣṇa, who was dragging."
+}
+---
 
 ==== vikarṣatā  ====
   * by Kṛṣṇa, who was dragging --- [[books:sb:10:11:4|SB 10.11.4]]

@@ -1,5 +1,11 @@
-~~Title:sthaviṣṭhe~~
-{{description>in the gross.}}
+---json
+{
+    "name":"sthaviṣṭhe",
+    "h1":"sthaviṣṭhe",
+    "title":"sthaviṣṭhe",
+    "description":"in the gross."
+}
+---
 
 ==== sthaviṣṭhe  ====
   * in the gross --- [[books:sb:2:1:38|SB 2.1.38]]

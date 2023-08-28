@@ -1,5 +1,11 @@
-~~Title:śīkaraiḥ~~
-{{description>with particles of perfumed liquor.}}
+---json
+{
+    "name":"śīkaraiḥ",
+    "h1":"śīkaraiḥ",
+    "title":"śīkaraiḥ",
+    "description":"with particles of perfumed liquor."
+}
+---
 
 ==== mada-śīkaraiḥ  ====
   * with particles of perfumed liquor --- [[books:sb:9:11:26|SB 9.11.26]]

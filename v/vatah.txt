@@ -1,5 +1,11 @@
-~~Title:vatah~~
-{{description>a banyan tree.}}
+---json
+{
+    "name":"vatah",
+    "h1":"vatah",
+    "title":"vatah",
+    "description":"a banyan tree."
+}
+---
 
 ==== vaṭaḥ  ====
   * a banyan tree --- [[books:sb:5:16:24|SB 5.16.24]]

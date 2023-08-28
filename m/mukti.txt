@@ -1,5 +1,11 @@
-~~Title:mukti~~
-{{description>liberation.}}
+---json
+{
+    "name":"mukti",
+    "h1":"mukti",
+    "title":"mukti",
+    "description":"liberation."
+}
+---
 
 ==== 'mukti  ====
   * liberation --- [[books:cc:antya:3:186|Antya 3.186]]

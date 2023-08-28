@@ -1,5 +1,11 @@
-~~Title:madana~~
-{{description>Cupid; of Cupid; transcendental Cupid.}}
+---json
+{
+    "name":"madana",
+    "h1":"madana",
+    "title":"madana",
+    "description":"Cupid; of Cupid; transcendental Cupid."
+}
+---
 
 ==== madana  ====
   * Cupid --- [[books:cc:madhya:2:37|Madhya 2.37]], [[books:cc:madhya:8:138|Madhya 8.138]]

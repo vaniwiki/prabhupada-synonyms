@@ -1,5 +1,11 @@
-~~Title:āulāya~~
-{{description>agitated; become disturbed; becomes overwhelmed.}}
+---json
+{
+    "name":"āulāya",
+    "h1":"āulāya",
+    "title":"āulāya",
+    "description":"agitated; become disturbed; becomes overwhelmed."
+}
+---
 
 ==== āulāya  ====
   * agitated --- [[books:cc:adi:8:23|Ādi 8.23]]

@@ -1,5 +1,11 @@
-~~Title:jāteḥ~~
-{{description>whose birth was in a species of asuras.}}
+---json
+{
+    "name":"jāteḥ",
+    "h1":"jāteḥ",
+    "title":"jāteḥ",
+    "description":"whose birth was in a species of asuras."
+}
+---
 
 ==== asura-jāteḥ  ====
   * whose birth was in a species of //asuras// --- [[books:sb:6:17:39|SB 6.17.39]]

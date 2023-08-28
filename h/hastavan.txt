@@ -1,5 +1,11 @@
-~~Title:hastavān~~
-{{description>with quick handling.}}
+---json
+{
+    "name":"hastavān",
+    "h1":"hastavān",
+    "title":"hastavān",
+    "description":"with quick handling."
+}
+---
 
 ==== laghu-hastavān  ====
   * with quick handling --- [[books:sb:8:11:21|SB 8.11.21]]

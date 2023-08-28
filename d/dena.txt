@@ -1,5 +1,11 @@
-~~Title:dena~~
-{{description>confers; delivers; gave; give; gives; He delivers; he gives; offers; puts; speaks; they give.}}
+---json
+{
+    "name":"dena",
+    "h1":"dena",
+    "title":"dena",
+    "description":"confers; delivers; gave; give; gives; He delivers; he gives; offers; puts; speaks; they give."
+}
+---
 
 ==== dena  ====
   * confers --- [[books:cc:antya:5:77|Antya 5.77]]

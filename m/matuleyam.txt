@@ -1,5 +1,11 @@
-~~Title:mātuleyam~~
-{{description>maternal cousin.}}
+---json
+{
+    "name":"mātuleyam",
+    "h1":"mātuleyam",
+    "title":"mātuleyam",
+    "description":"maternal cousin."
+}
+---
 
 ==== mātuleyam  ====
   * maternal cousin --- [[books:sb:1:9:20|SB 1.9.20]]

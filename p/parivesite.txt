@@ -1,5 +1,11 @@
-~~Title:pariveśite~~
-{{description>to serve.}}
+---json
+{
+    "name":"pariveśite",
+    "h1":"pariveśite",
+    "title":"pariveśite",
+    "description":"to serve."
+}
+---
 
 ==== pariveśite  ====
   * to serve --- [[books:cc:madhya:15:206|Madhya 15.206]]

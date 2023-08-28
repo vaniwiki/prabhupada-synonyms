@@ -1,5 +1,11 @@
-~~Title:vṛddhi~~
-{{description>in terms of progressive increase.}}
+---json
+{
+    "name":"vṛddhi",
+    "h1":"vṛddhi",
+    "title":"vṛddhi",
+    "description":"in terms of progressive increase."
+}
+---
 
 ==== vṛddhi-krame  ====
   * in terms of progressive increase --- [[books:cc:madhya:19:178|Madhya 19.178]]

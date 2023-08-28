@@ -1,5 +1,11 @@
-~~Title:vyavasthitau~~
-{{description>in determining; put under regulations.}}
+---json
+{
+    "name":"vyavasthitau",
+    "h1":"vyavasthitau",
+    "title":"vyavasthitau",
+    "description":"in determining; put under regulations."
+}
+---
 
 ==== vyavasthitau  ====
   * in determining --- [[books:bg:16:24|Bg. 16.24]]

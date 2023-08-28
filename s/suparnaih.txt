@@ -1,5 +1,11 @@
-~~Title:suparṇaiḥ~~
-{{description>by the wings.}}
+---json
+{
+    "name":"suparṇaiḥ",
+    "h1":"suparṇaiḥ",
+    "title":"suparṇaiḥ",
+    "description":"by the wings."
+}
+---
 
 ==== suparṇaiḥ  ====
   * by the wings --- [[books:sb:3:5:41|SB 3.5.41]]

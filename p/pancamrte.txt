@@ -1,5 +1,11 @@
-~~Title:pañcāmṛte~~
-{{description>in pañcāmṛta.}}
+---json
+{
+    "name":"pañcāmṛte",
+    "h1":"pañcāmṛte",
+    "title":"pañcāmṛte",
+    "description":"in pañcāmṛta."
+}
+---
 
 ==== pañcāmṛte  ====
   * in //pañcāmṛta// --- [[books:cc:antya:10:17|Antya 10.17]]

@@ -1,5 +1,11 @@
-~~Title:upayah~~
-{{description>means; some means.}}
+---json
+{
+    "name":"upayah",
+    "h1":"upayah",
+    "title":"upayah",
+    "description":"means; some means."
+}
+---
 
 ==== upāyaḥ  ====
   * means --- [[books:sb:8:11:38|SB 8.11.38]]

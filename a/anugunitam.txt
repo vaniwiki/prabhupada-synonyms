@@ -1,5 +1,11 @@
-~~Title:anuguṇitam~~
-{{description>accompanied by.}}
+---json
+{
+    "name":"anuguṇitam",
+    "h1":"anuguṇitam",
+    "title":"anuguṇitam",
+    "description":"accompanied by."
+}
+---
 
 ==== anuguṇitam  ====
   * accompanied by --- [[books:sb:3:28:31|SB 3.28.31]]

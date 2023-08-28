@@ -1,5 +1,11 @@
-~~Title:nimantraya~~
-{{description>invite.}}
+---json
+{
+    "name":"nimantraya",
+    "h1":"nimantraya",
+    "title":"nimantraya",
+    "description":"invite."
+}
+---
 
 ==== nimantraya  ====
   * invite --- [[books:cc:madhya:17:102|Madhya 17.102]]

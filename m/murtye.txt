@@ -1,5 +1,11 @@
-~~Title:mūrtye~~
-{{description>by expansions; in a form.}}
+---json
+{
+    "name":"mūrtye",
+    "h1":"mūrtye",
+    "title":"mūrtye",
+    "description":"by expansions; in a form."
+}
+---
 
 ==== mūrtye  ====
   * by expansions --- [[books:cc:adi:6:21|Ādi 6.21]]

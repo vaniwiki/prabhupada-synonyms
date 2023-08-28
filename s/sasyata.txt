@@ -1,5 +1,11 @@
-~~Title:śāsyatā~~
-{{description>controllable.}}
+---json
+{
+    "name":"śāsyatā",
+    "h1":"śāsyatā",
+    "title":"śāsyatā",
+    "description":"controllable."
+}
+---
 
 ==== śāsyatā  ====
   * controllable --- [[books:cc:madhya:19:143|Madhya 19.143]]

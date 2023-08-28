@@ -1,5 +1,11 @@
-~~Title:vāmanāya~~
-{{description>unto Lord Vāmana; unto Lord Vāmanadeva.}}
+---json
+{
+    "name":"vāmanāya",
+    "h1":"vāmanāya",
+    "title":"vāmanāya",
+    "description":"unto Lord Vāmana; unto Lord Vāmanadeva."
+}
+---
 
 ==== vāmanāya  ====
   * unto Lord Vāmana --- [[books:sb:8:19:28|SB 8.19.28]]

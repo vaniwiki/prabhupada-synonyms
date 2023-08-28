@@ -1,5 +1,11 @@
-~~Title:pratyanīkeṣu~~
-{{description>on the opposite side.}}
+---json
+{
+    "name":"pratyanīkeṣu",
+    "h1":"pratyanīkeṣu",
+    "title":"pratyanīkeṣu",
+    "description":"on the opposite side."
+}
+---
 
 ==== pratyanīkeṣu  ====
   * on the opposite side --- [[books:bg:11:32|Bg. 11.32]]

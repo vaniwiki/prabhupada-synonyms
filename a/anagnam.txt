@@ -1,5 +1,11 @@
-~~Title:anagnam~~
-{{description>not naked.}}
+---json
+{
+    "name":"anagnam",
+    "h1":"anagnam",
+    "title":"anagnam",
+    "description":"not naked."
+}
+---
 
 ==== anagnam  ====
   * not naked --- [[books:sb:1:4:5|SB 1.4.5]]

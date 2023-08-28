@@ -1,5 +1,11 @@
-~~Title:avinītasya~~
-{{description>not very submissive.}}
+---json
+{
+    "name":"avinītasya",
+    "h1":"avinītasya",
+    "title":"avinītasya",
+    "description":"not very submissive."
+}
+---
 
 ==== avinītasya  ====
   * not very submissive --- [[books:sb:4:8:36|SB 4.8.36]]

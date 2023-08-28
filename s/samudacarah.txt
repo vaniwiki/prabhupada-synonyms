@@ -1,5 +1,11 @@
-~~Title:samudācārāḥ~~
-{{description>equally magnanimous.}}
+---json
+{
+    "name":"samudācārāḥ",
+    "h1":"samudācārāḥ",
+    "title":"samudācārāḥ",
+    "description":"equally magnanimous."
+}
+---
 
 ==== samudācārāḥ  ====
   * equally magnanimous --- [[books:sb:7:10:19|SB 7.10.19]]

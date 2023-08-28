@@ -1,5 +1,11 @@
-~~Title:mudha~~
-{{description>surpassed; uselessly.}}
+---json
+{
+    "name":"mudha",
+    "h1":"mudha",
+    "title":"mudha",
+    "description":"surpassed; uselessly."
+}
+---
 
 ==== mudhā  ====
   * surpassed --- [[books:cc:antya:16:144|Antya 16.144]]

@@ -1,5 +1,11 @@
-~~Title:dūra~~
-{{description>away; distance; distant; far; far apart; for a great distance.}}
+---json
+{
+    "name":"dūra",
+    "h1":"dūra",
+    "title":"dūra",
+    "description":"away; distance; distant; far; far apart; for a great distance."
+}
+---
 
 ==== dūra  ====
   * away --- [[books:cc:adi:10:82|Ādi 10.82]], [[books:cc:madhya:12:93|Madhya 12.93]]

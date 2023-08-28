@@ -1,5 +1,11 @@
-~~Title:keyūra~~
-{{description>armlets; bracelets; jeweled necklace; ornaments.}}
+---json
+{
+    "name":"keyūra",
+    "h1":"keyūra",
+    "title":"keyūra",
+    "description":"armlets; bracelets; jeweled necklace; ornaments."
+}
+---
 
 ==== keyūra  ====
   * armlets --- [[books:sb:4:10:18-19|SB 4.10.18-19]], [[books:sb:5:3:3|SB 5.3.3]], [[books:sb:6:16:30|SB 6.16.30]]

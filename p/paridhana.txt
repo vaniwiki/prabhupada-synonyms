@@ -1,5 +1,11 @@
-~~Title:paridhāna~~
-{{description>cloth; dressing; garment; putting on; wearing.}}
+---json
+{
+    "name":"paridhāna",
+    "h1":"paridhāna",
+    "title":"paridhāna",
+    "description":"cloth; dressing; garment; putting on; wearing."
+}
+---
 
 ==== paridhāna  ====
   * cloth --- [[books:cc:madhya:20:77|Madhya 20.77]]

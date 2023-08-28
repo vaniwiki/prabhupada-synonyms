@@ -1,5 +1,11 @@
-~~Title:praviṣṭena~~
-{{description>entering; having entered.}}
+---json
+{
+    "name":"praviṣṭena",
+    "h1":"praviṣṭena",
+    "title":"praviṣṭena",
+    "description":"entering; having entered."
+}
+---
 
 ==== praviṣṭena  ====
   * entering --- [[books:sb:3:1:1|SB 3.1.1]]

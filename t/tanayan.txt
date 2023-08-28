@@ -1,5 +1,11 @@
-~~Title:tanayān~~
-{{description>the sons.}}
+---json
+{
+    "name":"tanayān",
+    "h1":"tanayān",
+    "title":"tanayān",
+    "description":"the sons."
+}
+---
 
 ==== tanayān  ====
   * the sons --- [[books:sb:9:17:15|SB 9.17.15]]

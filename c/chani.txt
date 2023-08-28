@@ -1,5 +1,11 @@
-~~Title:chāni'~~
-{{description>filtering.}}
+---json
+{
+    "name":"chāni'",
+    "h1":"chāni'",
+    "title":"chāni'",
+    "description":"filtering."
+}
+---
 
 ==== chāni'  ====
   * filtering --- [[books:cc:antya:19:41|Antya 19.41]]

@@ -1,5 +1,11 @@
-~~Title:asaṁyutaḥ~~
-{{description>unmixed.}}
+---json
+{
+    "name":"asaṁyutaḥ",
+    "h1":"asaṁyutaḥ",
+    "title":"asaṁyutaḥ",
+    "description":"unmixed."
+}
+---
 
 ==== asaṁyutaḥ  ====
   * unmixed --- [[books:sb:3:11:1|SB 3.11.1]]

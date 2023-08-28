@@ -1,5 +1,11 @@
-~~Title:vākhāni~~
-{{description>can explain; describe; description; explaining.}}
+---json
+{
+    "name":"vākhāni",
+    "h1":"vākhāni",
+    "title":"vākhāni",
+    "description":"can explain; describe; description; explaining."
+}
+---
 
 ==== vākhāni  ====
   * can explain --- [[books:cc:antya:7:54|Antya 7.54]]

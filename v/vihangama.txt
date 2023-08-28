@@ -1,5 +1,11 @@
-~~Title:vihaṅgama~~
-{{description>frequented by birds.}}
+---json
+{
+    "name":"vihaṅgama",
+    "h1":"vihaṅgama",
+    "title":"vihaṅgama",
+    "description":"frequented by birds."
+}
+---
 
 ==== vihaṅgama  ====
   * frequented by birds --- [[books:sb:5:24:10|SB 5.24.10]]

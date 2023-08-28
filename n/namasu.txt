@@ -1,5 +1,11 @@
-~~Title:nāmasu~~
-{{description>in names only.}}
+---json
+{
+    "name":"nāmasu",
+    "h1":"nāmasu",
+    "title":"nāmasu",
+    "description":"in names only."
+}
+---
 
 ==== nāmasu  ====
   * in names only --- [[books:sb:2:2:3|SB 2.2.3]]

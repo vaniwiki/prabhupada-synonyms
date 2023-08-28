@@ -1,5 +1,11 @@
-~~Title:vidhātuḥ~~
-{{description>in order to do it; of Brahmā; of providence; of the creator (Brahmā).}}
+---json
+{
+    "name":"vidhātuḥ",
+    "h1":"vidhātuḥ",
+    "title":"vidhātuḥ",
+    "description":"in order to do it; of Brahmā; of providence; of the creator (Brahmā)."
+}
+---
 
 ==== vidhātuḥ  ====
   * in order to do it --- [[books:sb:3:1:42|SB 3.1.42]]

@@ -1,5 +1,11 @@
-~~Title:pipāsābhyām~~
-{{description>by hunger and thirst.}}
+---json
+{
+    "name":"pipāsābhyām",
+    "h1":"pipāsābhyām",
+    "title":"pipāsābhyām",
+    "description":"by hunger and thirst."
+}
+---
 
 ==== kṣut-pipāsābhyām  ====
   * by hunger and thirst --- [[books:sb:5:26:14|SB 5.26.14]]

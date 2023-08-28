@@ -1,5 +1,11 @@
-~~Title:sam~~
-{{description>completely.}}
+---json
+{
+    "name":"sam",
+    "h1":"sam",
+    "title":"sam",
+    "description":"completely."
+}
+---
 
 ==== sam  ====
   * completely --- [[books:sb:2:10:43|SB 2.10.43]]

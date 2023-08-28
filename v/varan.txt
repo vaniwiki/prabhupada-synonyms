@@ -1,5 +1,11 @@
-~~Title:varān~~
-{{description>as Your benediction; benedictions; everything desirable; rewards; the benedictions.}}
+---json
+{
+    "name":"varān",
+    "h1":"varān",
+    "title":"varān",
+    "description":"as Your benediction; benedictions; everything desirable; rewards; the benedictions."
+}
+---
 
 ==== varān  ====
   * as Your benediction --- [[books:sb:7:10:7|SB 7.10.7]]

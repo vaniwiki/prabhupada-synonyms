@@ -1,5 +1,11 @@
-~~Title:karhicit~~
-{{description>anything like complacence; anywhere; at any time; at any time or with anyone; ever; hardly; or by anyone; some time ago; sometimes; whatsoever.}}
+---json
+{
+    "name":"karhicit",
+    "h1":"karhicit",
+    "title":"karhicit",
+    "description":"anything like complacence; anywhere; at any time; at any time or with anyone; ever; hardly; or by anyone; some time ago; sometimes; whatsoever."
+}
+---
 
 ==== karhicit  ====
   * anything like complacence --- [[books:sb:2:9:37|SB 2.9.37]]

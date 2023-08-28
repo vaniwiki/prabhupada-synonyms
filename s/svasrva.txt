@@ -1,5 +1,11 @@
-~~Title:śvaśrvā~~
-{{description>by his mother-in-law.}}
+---json
+{
+    "name":"śvaśrvā",
+    "h1":"śvaśrvā",
+    "title":"śvaśrvā",
+    "description":"by his mother-in-law."
+}
+---
 
 ==== śvaśrvā  ====
   * by his mother-in-law --- [[books:sb:9:15:8|SB 9.15.8]]

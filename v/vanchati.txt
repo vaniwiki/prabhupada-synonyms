@@ -1,5 +1,11 @@
-~~Title:vāñchati~~
-{{description>desires; hankers for.}}
+---json
+{
+    "name":"vāñchati",
+    "h1":"vāñchati",
+    "title":"vāñchati",
+    "description":"desires; hankers for."
+}
+---
 
 ==== vāñchati  ====
   * desires --- [[books:sb:5:4:18|SB 5.4.18]], [[books:sb:6:9:48|SB 6.9.48]]

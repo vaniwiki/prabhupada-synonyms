@@ -1,5 +1,11 @@
-~~Title:abhimanyeta~~
-{{description>may accept.}}
+---json
+{
+    "name":"abhimanyeta",
+    "h1":"abhimanyeta",
+    "title":"abhimanyeta",
+    "description":"may accept."
+}
+---
 
 ==== abhimanyeta  ====
   * may accept --- [[books:sb:7:14:8|SB 7.14.8]]

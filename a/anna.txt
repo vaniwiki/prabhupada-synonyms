@@ -1,5 +1,11 @@
-~~Title:anna~~
-{{description>by eating; cooked rice and vegetables; different kinds of food; eatables; food; food grain; food grains; grains; of rice; of rice and other eatables; remnants of food; rice; the eatables; the food.}}
+---json
+{
+    "name":"anna",
+    "h1":"anna",
+    "title":"anna",
+    "description":"by eating; cooked rice and vegetables; different kinds of food; eatables; food; food grain; food grains; grains; of rice; of rice and other eatables; remnants of food; rice; the eatables; the food."
+}
+---
 
 ==== anna  ====
   * by eating --- [[books:sb:5:24:13|SB 5.24.13]]

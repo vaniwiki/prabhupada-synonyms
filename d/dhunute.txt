@@ -1,5 +1,11 @@
-~~Title:dhunute~~
-{{description>destroys; gives up.}}
+---json
+{
+    "name":"dhunute",
+    "h1":"dhunute",
+    "title":"dhunute",
+    "description":"destroys; gives up."
+}
+---
 
 ==== dhunute  ====
   * destroys --- [[books:sb:9:24:62|SB 9.24.62]]

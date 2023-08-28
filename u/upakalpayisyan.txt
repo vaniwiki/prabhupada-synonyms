@@ -1,5 +1,11 @@
-~~Title:upakalpayiṣyan~~
-{{description>desiring to give.}}
+---json
+{
+    "name":"upakalpayiṣyan",
+    "h1":"upakalpayiṣyan",
+    "title":"upakalpayiṣyan",
+    "description":"desiring to give."
+}
+---
 
 ==== upakalpayiṣyan  ====
   * desiring to give --- [[books:sb:5:3:9|SB 5.3.9]]

@@ -1,5 +1,11 @@
-~~Title:irāvatī~~
-{{description>the eleven Rudrāṇīs.}}
+---json
+{
+    "name":"irāvatī",
+    "h1":"irāvatī",
+    "title":"irāvatī",
+    "description":"the eleven Rudrāṇīs."
+}
+---
 
 ==== dhīḥ, dhṛti, rasalā, umā, niyut, sarpiḥ, ilā, ambikā, irāvatī, svadhā, dīkṣā rudrāṇyaḥ  ====
   * the eleven Rudrāṇīs --- [[books:sb:3:12:13|SB 3.12.13]]

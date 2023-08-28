@@ -1,5 +1,11 @@
-~~Title:maje~~
-{{description>becomes immersed.}}
+---json
+{
+    "name":"maje",
+    "h1":"maje",
+    "title":"maje",
+    "description":"becomes immersed."
+}
+---
 
 ==== maje  ====
   * becomes immersed --- [[books:cc:madhya:22:26|Madhya 22.26]]

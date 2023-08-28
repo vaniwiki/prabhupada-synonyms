@@ -1,5 +1,11 @@
-~~Title:upakūlāḥ~~
-{{description>on the bank of the Yamunā.}}
+---json
+{
+    "name":"upakūlāḥ",
+    "h1":"upakūlāḥ",
+    "title":"upakūlāḥ",
+    "description":"on the bank of the Yamunā."
+}
+---
 
 ==== yamunā-upakūlāḥ  ====
   * on the bank of the Yamunā --- [[books:cc:antya:15:32|Antya 15.32]]

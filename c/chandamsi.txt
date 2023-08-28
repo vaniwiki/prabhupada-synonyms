@@ -1,5 +1,11 @@
-~~Title:chandāṁsi~~
-{{description>mantras in the Vedas, like the Hare Kṛṣṇa mahā-mantra and the Gāyatrī mantra; all the different parts of the Vedas; the mantras; the Gāyatrī mantra and others; the Vedic hymns; Vedic mantras; Vedic hymns.}}
+---json
+{
+    "name":"chandāṁsi",
+    "h1":"chandāṁsi",
+    "title":"chandāṁsi",
+    "description":"mantras in the Vedas, like the Hare Kṛṣṇa mahā-mantra and the Gāyatrī mantra; all the different parts of the Vedas; the mantras; the Gāyatrī mantra and others; the Vedic hymns; Vedic mantras; Vedic hymns."
+}
+---
 
 ==== chandāṁsi  ====
   * //mantras// in the //Vedas,// like the Hare Kṛṣṇa //mahā-mantra// and the Gāyatrī //mantra// --- [[books:sb:7:12:3|SB 7.12.3]]

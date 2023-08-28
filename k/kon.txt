@@ -1,5 +1,11 @@
-~~Title:kon~~
-{{description>what; some; what; what kind of; what of; which; who; who are they.}}
+---json
+{
+    "name":"kon",
+    "h1":"kon",
+    "title":"kon",
+    "description":"what; some; what; what kind of; what of; which; who; who are they."
+}
+---
 
 ==== kon  ====
   * //what// --- [[books:cc:madhya:8:245|Madhya 8.245]]

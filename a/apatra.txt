@@ -1,5 +1,11 @@
-~~Title:apātra~~
-{{description>not a candidate; not a recipient.}}
+---json
+{
+    "name":"apātra",
+    "h1":"apātra",
+    "title":"apātra",
+    "description":"not a candidate; not a recipient."
+}
+---
 
 ==== apātra  ====
   * not a candidate --- [[books:cc:adi:9:29|Ādi 9.29]]

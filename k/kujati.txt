@@ -1,5 +1,11 @@
-~~Title:kūjatī~~
-{{description>tinkling.}}
+---json
+{
+    "name":"kūjatī",
+    "h1":"kūjatī",
+    "title":"kūjatī",
+    "description":"tinkling."
+}
+---
 
 ==== kūjatī  ====
   * tinkling --- [[books:sb:8:9:16-17|SB 8.9.16-17]]

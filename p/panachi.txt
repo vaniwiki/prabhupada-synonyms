@@ -1,5 +1,11 @@
-~~Title:pāñāchi~~
-{{description>got; I have; I have gotten.}}
+---json
+{
+    "name":"pāñāchi",
+    "h1":"pāñāchi",
+    "title":"pāñāchi",
+    "description":"got; I have; I have gotten."
+}
+---
 
 ==== pāñāchi  ====
   * got --- [[books:cc:antya:3:256|Antya 3.256]]

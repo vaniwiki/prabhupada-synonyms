@@ -1,5 +1,11 @@
-~~Title:bhavya~~
-{{description>all that will be created or born; auspicious; future; O gentle one.}}
+---json
+{
+    "name":"bhavya",
+    "h1":"bhavya",
+    "title":"bhavya",
+    "description":"all that will be created or born; auspicious; future; O gentle one."
+}
+---
 
 ==== bhavya  ====
   * all that will be created or born --- [[books:sb:2:5:3|SB 2.5.3]]

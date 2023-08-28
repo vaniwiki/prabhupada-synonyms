@@ -1,5 +1,11 @@
-~~Title:abhilāṣe~~
-{{description>aspiration; in desires.}}
+---json
+{
+    "name":"abhilāṣe",
+    "h1":"abhilāṣe",
+    "title":"abhilāṣe",
+    "description":"aspiration; in desires."
+}
+---
 
 ==== abhilāṣe  ====
   * aspiration --- [[books:cc:madhya:22:41|Madhya 22.41]]

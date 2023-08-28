@@ -1,5 +1,11 @@
-~~Title:āratirakāle~~
-{{description>during the time of ārati.}}
+---json
+{
+    "name":"āratirakāle",
+    "h1":"āratirakāle",
+    "title":"āratirakāle",
+    "description":"during the time of ārati."
+}
+---
 
 ==== āratirakāle  ====
   * during the time of //ārati// --- [[books:cc:madhya:3:58|Madhya 3.58]]

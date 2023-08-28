@@ -1,5 +1,11 @@
-~~Title:prabho~~
-{{description>dear Lord; My dear friend; my dear King; my dear Lord Kapila; my dear Lord Vidura; my dear sir; my Lord; my lord, Śukadeva Gosvāmī; O King; O King Parīkṣit; O Lord; O master; O mighty one; O my father; O my husband; O my King; O my Lord; O my worshipable Lord; O Supreme.}}
+---json
+{
+    "name":"prabho",
+    "h1":"prabho",
+    "title":"prabho",
+    "description":"dear Lord; My dear friend; my dear King; my dear Lord Kapila; my dear Lord Vidura; my dear sir; my Lord; my lord, Śukadeva Gosvāmī; O King; O King Parīkṣit; O Lord; O master; O mighty one; O my father; O my husband; O my King; O my Lord; O my worshipable Lord; O Supreme."
+}
+---
 
 ==== prabho  ====
   * dear Lord --- [[books:sb:4:7:38|SB 4.7.38]]

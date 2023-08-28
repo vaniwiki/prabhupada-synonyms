@@ -1,5 +1,11 @@
-~~Title:vṛthā~~
-{{description>fruitless; in vain; unnecessarily; useless; uselessly; with no purpose; without any good result; without purpose.}}
+---json
+{
+    "name":"vṛthā",
+    "h1":"vṛthā",
+    "title":"vṛthā",
+    "description":"fruitless; in vain; unnecessarily; useless; uselessly; with no purpose; without any good result; without purpose."
+}
+---
 
 ==== vṛthā  ====
   * fruitless --- [[books:cc:madhya:2:40|Madhya 2.40]]

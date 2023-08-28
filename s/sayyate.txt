@@ -1,5 +1,11 @@
-~~Title:śayyāte~~
-{{description>on a bed; to the bed.}}
+---json
+{
+    "name":"śayyāte",
+    "h1":"śayyāte",
+    "title":"śayyāte",
+    "description":"on a bed; to the bed."
+}
+---
 
 ==== śayyāte  ====
   * on a bed --- [[books:cc:madhya:3:102|Madhya 3.102]]

@@ -1,5 +1,11 @@
-~~Title:kaliḥ~~
-{{description>disagreement and quarrel; dissension; Kali; quarrel; quarrel personified; quarrels between two persons; the age of Kali; the personality of Kali; the personality of quarrel.}}
+---json
+{
+    "name":"kaliḥ",
+    "h1":"kaliḥ",
+    "title":"kaliḥ",
+    "description":"disagreement and quarrel; dissension; Kali; quarrel; quarrel personified; quarrels between two persons; the age of Kali; the personality of Kali; the personality of quarrel."
+}
+---
 
 ==== kaliḥ  ====
   * disagreement and quarrel --- [[books:sb:8:8:38|SB 8.8.38]], [[books:sb:9:6:44|SB 9.6.44]]

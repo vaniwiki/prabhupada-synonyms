@@ -1,5 +1,11 @@
-~~Title:durmarṣa~~
-{{description>hardhearted.}}
+---json
+{
+    "name":"durmarṣa",
+    "h1":"durmarṣa",
+    "title":"durmarṣa",
+    "description":"hardhearted."
+}
+---
 
 ==== durmarṣa-hṛdayaḥ  ====
   * hardhearted --- [[books:sb:4:4:30|SB 4.4.30]]

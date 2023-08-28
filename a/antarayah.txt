@@ -1,5 +1,11 @@
-~~Title:antarāyaḥ~~
-{{description>hindrances; obstacle.}}
+---json
+{
+    "name":"antarāyaḥ",
+    "h1":"antarāyaḥ",
+    "title":"antarāyaḥ",
+    "description":"hindrances; obstacle."
+}
+---
 
 ==== antarāyaḥ  ====
   * hindrances --- [[books:sb:1:13:56|SB 1.13.56]]

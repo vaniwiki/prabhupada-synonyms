@@ -1,5 +1,11 @@
-~~Title:pālāñāchila~~
-{{description>fled.}}
+---json
+{
+    "name":"pālāñāchila",
+    "h1":"pālāñāchila",
+    "title":"pālāñāchila",
+    "description":"fled."
+}
+---
 
 ==== pālāñāchila  ====
   * fled --- [[books:cc:adi:7:35|Ādi 7.35]]

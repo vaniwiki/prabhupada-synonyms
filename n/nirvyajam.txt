@@ -1,5 +1,11 @@
-~~Title:nirvyājam~~
-{{description>without duplicity.}}
+---json
+{
+    "name":"nirvyājam",
+    "h1":"nirvyājam",
+    "title":"nirvyājam",
+    "description":"without duplicity."
+}
+---
 
 ==== nirvyājam  ====
   * without duplicity --- [[books:cc:antya:3:62|Antya 3.62]]

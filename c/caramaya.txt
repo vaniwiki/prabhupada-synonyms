@@ -1,5 +1,11 @@
-~~Title:caramayā~~
-{{description>ultimate.}}
+---json
+{
+    "name":"caramayā",
+    "h1":"caramayā",
+    "title":"caramayā",
+    "description":"ultimate."
+}
+---
 
 ==== caramayā  ====
   * ultimate --- [[books:sb:3:28:36|SB 3.28.36]]

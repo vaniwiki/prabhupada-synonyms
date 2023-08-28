@@ -1,5 +1,11 @@
-~~Title:prativyomaḥ~~
-{{description>Prativyoma.}}
+---json
+{
+    "name":"prativyomaḥ",
+    "h1":"prativyomaḥ",
+    "title":"prativyomaḥ",
+    "description":"Prativyoma."
+}
+---
 
 ==== prativyomaḥ  ====
   * Prativyoma --- [[books:sb:9:12:10|SB 9.12.10]]

@@ -1,5 +1,11 @@
-~~Title:kuhakam~~
-{{description>illusion.}}
+---json
+{
+    "name":"kuhakam",
+    "h1":"kuhakam",
+    "title":"kuhakam",
+    "description":"illusion."
+}
+---
 
 ==== kuhakam  ====
   * illusion --- [[books:sb:1:1:1|SB 1.1.1]]

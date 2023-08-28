@@ -1,5 +1,11 @@
-~~Title:satsu~~
-{{description>are existing; the great devotees; unto the devotees; unto the noble men; with the devotees.}}
+---json
+{
+    "name":"satsu",
+    "h1":"satsu",
+    "title":"satsu",
+    "description":"are existing; the great devotees; unto the devotees; unto the noble men; with the devotees."
+}
+---
 
 ==== satsu  ====
   * are existing --- [[books:sb:3:27:19|SB 3.27.19]]

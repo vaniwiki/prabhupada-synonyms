@@ -1,5 +1,11 @@
-~~Title:kālikāra~~
-{{description>new; recent.}}
+---json
+{
+    "name":"kālikāra",
+    "h1":"kālikāra",
+    "title":"kālikāra",
+    "description":"new; recent."
+}
+---
 
 ==== kālikāra  ====
   * new --- [[books:cc:antya:4:158|Antya 4.158]]

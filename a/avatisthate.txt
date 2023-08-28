@@ -1,5 +1,11 @@
-~~Title:avatiṣṭhate~~
-{{description>becomes situated; can be fixed; established; he remains; presently exists; stands.}}
+---json
+{
+    "name":"avatiṣṭhate",
+    "h1":"avatiṣṭhate",
+    "title":"avatiṣṭhate",
+    "description":"becomes situated; can be fixed; established; he remains; presently exists; stands."
+}
+---
 
 ==== avatiṣṭhate  ====
   * becomes situated --- [[books:bg:6:18|Bg. 6.18]]

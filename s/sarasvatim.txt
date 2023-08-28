@@ -1,5 +1,11 @@
-~~Title:sarasvatīm~~
-{{description>on the bank of the Sarasvatī; River Sarasvatī; speech; the mistress of learning; the River Sarasvatī.}}
+---json
+{
+    "name":"sarasvatīm",
+    "h1":"sarasvatīm",
+    "title":"sarasvatīm",
+    "description":"on the bank of the Sarasvatī; River Sarasvatī; speech; the mistress of learning; the River Sarasvatī."
+}
+---
 
 ==== sarasvatīm  ====
   * on the bank of the Sarasvatī --- [[books:sb:9:4:22|SB 9.4.22]]

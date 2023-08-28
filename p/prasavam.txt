@@ -1,5 +1,11 @@
-~~Title:prasavam~~
-{{description>the delivery of the child.}}
+---json
+{
+    "name":"prasavam",
+    "h1":"prasavam",
+    "title":"prasavam",
+    "description":"the delivery of the child."
+}
+---
 
 ==== prasavam  ====
   * the delivery of the child --- [[books:sb:7:7:9|SB 7.7.9]]

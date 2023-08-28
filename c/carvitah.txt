@@ -1,5 +1,11 @@
-~~Title:carvitaḥ~~
-{{description>chewing.}}
+---json
+{
+    "name":"carvitaḥ",
+    "h1":"carvitaḥ",
+    "title":"carvitaḥ",
+    "description":"chewing."
+}
+---
 
 ==== carvitaḥ  ====
   * chewing --- [[books:cc:antya:16:119|Antya 16.119]]

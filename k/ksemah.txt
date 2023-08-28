@@ -1,5 +1,11 @@
-~~Title:kṣemaḥ~~
-{{description>a son named Kṣema; auspicious; benefit; good fortune; ultimate reality.}}
+---json
+{
+    "name":"kṣemaḥ",
+    "h1":"kṣemaḥ",
+    "title":"kṣemaḥ",
+    "description":"a son named Kṣema; auspicious; benefit; good fortune; ultimate reality."
+}
+---
 
 ==== kṣemaḥ  ====
   * a son named Kṣema --- [[books:sb:9:22:46-48|SB 9.22.46-48]]

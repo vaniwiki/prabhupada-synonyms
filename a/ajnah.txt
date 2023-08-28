@@ -1,5 +1,11 @@
-~~Title:ajnah~~
-{{description>a fool; a foolish animal; a foolish person; a person not aware of the real fact; an ignorant living being; at the same time foolish; being foolish; foolish; fools who have no knowledge in standard scriptures; less intelligent persons; one who is not properly conversant; the foolish; the foolish King; this fool; without perfect knowledge.}}
+---json
+{
+    "name":"ajnah",
+    "h1":"ajnah",
+    "title":"ajnah",
+    "description":"a fool; a foolish animal; a foolish person; a person not aware of the real fact; an ignorant living being; at the same time foolish; being foolish; foolish; fools who have no knowledge in standard scriptures; less intelligent persons; one who is not properly conversant; the foolish; the foolish King; this fool; without perfect knowledge."
+}
+---
 
 ==== ajñaḥ  ====
   * a fool --- [[books:cc:adi:3:1|Ādi 3.1]]

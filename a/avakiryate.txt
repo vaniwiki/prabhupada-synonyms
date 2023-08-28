@@ -1,5 +1,11 @@
-~~Title:avakīryate~~
-{{description>gradually vanishes.}}
+---json
+{
+    "name":"avakīryate",
+    "h1":"avakīryate",
+    "title":"avakīryate",
+    "description":"gradually vanishes."
+}
+---
 
 ==== avakīryate  ====
   * gradually vanishes --- [[books:sb:7:15:19|SB 7.15.19]]

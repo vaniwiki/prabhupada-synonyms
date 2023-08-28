@@ -1,5 +1,11 @@
-~~Title:sparaśa~~
-{{description>by the touch; for touching.}}
+---json
+{
+    "name":"sparaśa",
+    "h1":"sparaśa",
+    "title":"sparaśa",
+    "description":"by the touch; for touching."
+}
+---
 
 ==== sparaśa  ====
   * by the touch --- [[books:cc:madhya:18:34|Madhya 18.34]], [[books:cc:antya:14:86|Antya 14.86]]

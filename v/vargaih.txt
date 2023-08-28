@@ -1,5 +1,11 @@
-~~Title:vargaiḥ~~
-{{description>by the six symptoms of the senses (lusty desires, anger, greed, illusion, madness and jealousy).}}
+---json
+{
+    "name":"vargaiḥ",
+    "h1":"vargaiḥ",
+    "title":"vargaiḥ",
+    "description":"by the six symptoms of the senses (lusty desires, anger, greed, illusion, madness and jealousy)."
+}
+---
 
 ==== ṣaṭ-vargaiḥ  ====
   * by the six symptoms of the senses (lusty desires, anger, greed, illusion, madness and jealousy) --- [[books:sb:7:7:33|SB 7.7.33]]

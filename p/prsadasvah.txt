@@ -1,5 +1,11 @@
-~~Title:pṛṣadaśvaḥ~~
-{{description>of the name Pṛṣadaśva.}}
+---json
+{
+    "name":"pṛṣadaśvaḥ",
+    "h1":"pṛṣadaśvaḥ",
+    "title":"pṛṣadaśvaḥ",
+    "description":"of the name Pṛṣadaśva."
+}
+---
 
 ==== pṛṣadaśvaḥ  ====
   * of the name Pṛṣadaśva --- [[books:sb:9:6:1|SB 9.6.1]]

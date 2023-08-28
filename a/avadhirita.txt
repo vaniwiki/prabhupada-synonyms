@@ -1,5 +1,11 @@
-~~Title:avadhīrita~~
-{{description>which have defied.}}
+---json
+{
+    "name":"avadhīrita",
+    "h1":"avadhīrita",
+    "title":"avadhīrita",
+    "description":"which have defied."
+}
+---
 
 ==== avadhīrita  ====
   * which have defied --- [[books:mm:6|MM 6]]

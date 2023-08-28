@@ -1,5 +1,11 @@
-~~Title:askhalitam~~
-{{description>without failure.}}
+---json
+{
+    "name":"askhalitam",
+    "h1":"askhalitam",
+    "title":"askhalitam",
+    "description":"without failure."
+}
+---
 
 ==== askhalitam  ====
   * without failure --- [[books:sb:9:20:33|SB 9.20.33]]

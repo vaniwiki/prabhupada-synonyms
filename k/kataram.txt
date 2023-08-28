@@ -1,5 +1,11 @@
-~~Title:kātaram~~
-{{description>eager; very much aggrieved.}}
+---json
+{
+    "name":"kātaram",
+    "h1":"kātaram",
+    "title":"kātaram",
+    "description":"eager; very much aggrieved."
+}
+---
 
 ==== kātaram  ====
   * eager --- [[books:sb:3:28:17|SB 3.28.17]]

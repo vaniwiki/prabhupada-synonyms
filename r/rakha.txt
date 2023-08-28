@@ -1,5 +1,11 @@
-~~Title:rākha~~
-{{description>are keeping; keep; keep Me; please protect; please save; protect.}}
+---json
+{
+    "name":"rākha",
+    "h1":"rākha",
+    "title":"rākha",
+    "description":"are keeping; keep; keep Me; please protect; please save; protect."
+}
+---
 
 ==== rākha  ====
   * are keeping --- [[books:cc:madhya:9:229|Madhya 9.229]]

@@ -1,5 +1,11 @@
-~~Title:vyūha~~
-{{description>kindly remove; of expansions.}}
+---json
+{
+    "name":"vyūha",
+    "h1":"vyūha",
+    "title":"vyūha",
+    "description":"kindly remove; of expansions."
+}
+---
 
 ==== vyūha  ====
   * kindly remove --- [[books:iso:16|Īśo 16]]

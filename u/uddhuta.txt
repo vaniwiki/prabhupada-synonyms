@@ -1,5 +1,11 @@
-~~Title:uddhūta~~
-{{description>agitated; blazing high; separated, scattered from.}}
+---json
+{
+    "name":"uddhūta",
+    "h1":"uddhūta",
+    "title":"uddhūta",
+    "description":"agitated; blazing high; separated, scattered from."
+}
+---
 
 ==== uddhūta  ====
   * agitated --- [[books:sb:8:10:51|SB 8.10.51]]

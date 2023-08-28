@@ -1,5 +1,11 @@
-~~Title:atiyātaḥ~~
-{{description>difficult to go through.}}
+---json
+{
+    "name":"atiyātaḥ",
+    "h1":"atiyātaḥ",
+    "title":"atiyātaḥ",
+    "description":"difficult to go through."
+}
+---
 
 ==== atiyātaḥ  ====
   * difficult to go through --- [[books:sb:1:6:13|SB 1.6.13]]

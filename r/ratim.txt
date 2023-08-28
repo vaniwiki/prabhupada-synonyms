@@ -1,5 +1,11 @@
-~~Title:ratim~~
-{{description>affection; attachment; attention; attraction; love of God; taste; the inspiration.}}
+---json
+{
+    "name":"ratim",
+    "h1":"ratim",
+    "title":"ratim",
+    "description":"affection; attachment; attention; attraction; love of God; taste; the inspiration."
+}
+---
 
 ==== ratim  ====
   * affection --- [[books:cc:madhya:23:27|Madhya 23.27]]

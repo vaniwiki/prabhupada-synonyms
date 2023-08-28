@@ -1,5 +1,11 @@
-~~Title:bibhitsavaḥ~~
-{{description>desiring to dismantle.}}
+---json
+{
+    "name":"bibhitsavaḥ",
+    "h1":"bibhitsavaḥ",
+    "title":"bibhitsavaḥ",
+    "description":"desiring to dismantle."
+}
+---
 
 ==== bibhitsavaḥ  ====
   * desiring to dismantle --- [[books:sb:3:14:27|SB 3.14.27]]

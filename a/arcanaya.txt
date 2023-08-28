@@ -1,5 +1,11 @@
-~~Title:arcanaya~~
-{{description>by serving.}}
+---json
+{
+    "name":"arcanaya",
+    "h1":"arcanaya",
+    "title":"arcanaya",
+    "description":"by serving."
+}
+---
 
 ==== arcanayā  ====
   * by serving --- [[books:sb:7:15:45|SB 7.15.45]]

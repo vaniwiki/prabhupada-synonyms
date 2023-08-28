@@ -1,5 +1,11 @@
-~~Title:ketāva~~
-{{description>the holy book.}}
+---json
+{
+    "name":"ketāva",
+    "h1":"ketāva",
+    "title":"ketāva",
+    "description":"the holy book."
+}
+---
 
 ==== ketāva  ====
   * the holy book --- [[books:cc:adi:17:155|Ādi 17.155]]

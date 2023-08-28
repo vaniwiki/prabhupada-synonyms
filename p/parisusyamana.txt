@@ -1,5 +1,11 @@
-~~Title:pariśuṣyamāṇa~~
-{{description>dried up.}}
+---json
+{
+    "name":"pariśuṣyamāṇa",
+    "h1":"pariśuṣyamāṇa",
+    "title":"pariśuṣyamāṇa",
+    "description":"dried up."
+}
+---
 
 ==== pariśuṣyamāṇa  ====
   * dried up --- [[books:sb:5:26:36|SB 5.26.36]]

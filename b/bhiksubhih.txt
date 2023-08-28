@@ -1,5 +1,11 @@
-~~Title:bhikṣubhiḥ~~
-{{description>by the great mendicants; by the great sages.}}
+---json
+{
+    "name":"bhikṣubhiḥ",
+    "h1":"bhikṣubhiḥ",
+    "title":"bhikṣubhiḥ",
+    "description":"by the great mendicants; by the great sages."
+}
+---
 
 ==== bhikṣubhiḥ  ====
   * by the great mendicants --- [[books:sb:1:6:2|SB 1.6.2]]

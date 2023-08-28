@@ -1,5 +1,11 @@
-~~Title:nandivardhanaḥ~~
-{{description>Nandivardhana.}}
+---json
+{
+    "name":"nandivardhanaḥ",
+    "h1":"nandivardhanaḥ",
+    "title":"nandivardhanaḥ",
+    "description":"Nandivardhana."
+}
+---
 
 ==== nandivardhanaḥ  ====
   * Nandivardhana --- [[books:sb:9:13:14|SB 9.13.14]]

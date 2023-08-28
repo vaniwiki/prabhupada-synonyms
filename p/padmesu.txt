@@ -1,5 +1,11 @@
-~~Title:padmeṣu~~
-{{description>in the lotus hearts.}}
+---json
+{
+    "name":"padmeṣu",
+    "h1":"padmeṣu",
+    "title":"padmeṣu",
+    "description":"in the lotus hearts."
+}
+---
 
 ==== hṛt-padmeṣu  ====
   * in the lotus hearts --- [[books:sb:3:32:11|SB 3.32.11]]

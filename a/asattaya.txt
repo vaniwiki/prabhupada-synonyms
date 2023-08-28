@@ -1,5 +1,11 @@
-~~Title:asattayā~~
-{{description>by the quality of being insubstantial.}}
+---json
+{
+    "name":"asattayā",
+    "h1":"asattayā",
+    "title":"asattayā",
+    "description":"by the quality of being insubstantial."
+}
+---
 
 ==== asattayā  ====
   * by the quality of being insubstantial --- [[books:sb:5:6:15|SB 5.6.15]]

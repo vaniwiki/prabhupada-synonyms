@@ -1,5 +1,11 @@
-~~Title:vetsyasi~~
-{{description>you shall understand.}}
+---json
+{
+    "name":"vetsyasi",
+    "h1":"vetsyasi",
+    "title":"vetsyasi",
+    "description":"you shall understand."
+}
+---
 
 ==== vetsyasi  ====
   * you shall understand --- [[books:sb:8:24:38|SB 8.24.38]]

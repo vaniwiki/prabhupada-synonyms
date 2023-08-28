@@ -1,5 +1,11 @@
-~~Title:pheli'~~
-{{description>throwing water.}}
+---json
+{
+    "name":"pheli'",
+    "h1":"pheli'",
+    "title":"pheli'",
+    "description":"throwing water."
+}
+---
 
 ==== jala pheli'  ====
   * throwing water --- [[books:cc:madhya:17:31|Madhya 17.31]]

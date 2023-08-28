@@ -1,5 +1,11 @@
-~~Title:avalīḍhayā~~
-{{description>tasted.}}
+---json
+{
+    "name":"avalīḍhayā",
+    "h1":"avalīḍhayā",
+    "title":"avalīḍhayā",
+    "description":"tasted."
+}
+---
 
 ==== avalīḍhayā  ====
   * tasted --- [[books:sb:6:9:39|SB 6.9.39]]

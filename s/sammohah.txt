@@ -1,5 +1,11 @@
-~~Title:sammohah~~
-{{description>illusion; perfect illusion.}}
+---json
+{
+    "name":"sammohah",
+    "h1":"sammohah",
+    "title":"sammohah",
+    "description":"illusion; perfect illusion."
+}
+---
 
 ==== saṁmohaḥ  ====
   * illusion --- [[books:bg:18:72|Bg. 18.72]]

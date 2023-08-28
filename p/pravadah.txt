@@ -1,5 +1,11 @@
-~~Title:pravādaḥ~~
-{{description>subject matter for discussion.}}
+---json
+{
+    "name":"pravādaḥ",
+    "h1":"pravādaḥ",
+    "title":"pravādaḥ",
+    "description":"subject matter for discussion."
+}
+---
 
 ==== pravādaḥ  ====
   * subject matter for discussion --- [[books:sb:5:10:9|SB 5.10.9]]

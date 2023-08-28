@@ -1,5 +1,11 @@
-~~Title:nirīhayā~~
-{{description>living simply, plain living.}}
+---json
+{
+    "name":"nirīhayā",
+    "h1":"nirīhayā",
+    "title":"nirīhayā",
+    "description":"living simply, plain living."
+}
+---
 
 ==== nirīhayā  ====
   * living simply, plain living --- [[books:sb:4:22:24|SB 4.22.24]]

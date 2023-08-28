@@ -1,5 +1,11 @@
-~~Title:virajasya~~
-{{description>of King Viraja.}}
+---json
+{
+    "name":"virajasya",
+    "h1":"virajasya",
+    "title":"virajasya",
+    "description":"of King Viraja."
+}
+---
 
 ==== virajasya  ====
   * of King Viraja --- [[books:sb:5:15:14-15|SB 5.15.14-15]]

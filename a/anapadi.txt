@@ -1,5 +1,11 @@
-~~Title:anāpadi~~
-{{description>even without an emergency; in ordinary undisturbed times; in the absence of danger; not in a calamity; when there is no social upheaval; without danger.}}
+---json
+{
+    "name":"anāpadi",
+    "h1":"anāpadi",
+    "title":"anāpadi",
+    "description":"even without an emergency; in ordinary undisturbed times; in the absence of danger; not in a calamity; when there is no social upheaval; without danger."
+}
+---
 
 ==== anāpadi  ====
   * even without an emergency --- [[books:sb:5:26:15|SB 5.26.15]]

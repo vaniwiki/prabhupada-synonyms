@@ -1,5 +1,11 @@
-~~Title:śarabhaiḥ~~
-{{description>on the backs of śarabhas; with forest asses.}}
+---json
+{
+    "name":"śarabhaiḥ",
+    "h1":"śarabhaiḥ",
+    "title":"śarabhaiḥ",
+    "description":"on the backs of śarabhas; with forest asses."
+}
+---
 
 ==== śarabhaiḥ  ====
   * on the backs of //śarabhas// --- [[books:sb:8:10:10-12|SB 8.10.10-12]]

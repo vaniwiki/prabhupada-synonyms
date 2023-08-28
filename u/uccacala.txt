@@ -1,5 +1,11 @@
-~~Title:uccacāla~~
-{{description>did get up.}}
+---json
+{
+    "name":"uccacāla",
+    "h1":"uccacāla",
+    "title":"uccacāla",
+    "description":"did get up."
+}
+---
 
 ==== uccacāla  ====
   * did get up --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

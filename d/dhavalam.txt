@@ -1,5 +1,11 @@
-~~Title:dhavalam~~
-{{description>as white as a white lotus.}}
+---json
+{
+    "name":"dhavalam",
+    "h1":"dhavalam",
+    "title":"dhavalam",
+    "description":"as white as a white lotus."
+}
+---
 
 ==== mṛṇāla-dhavalam  ====
   * as white as a white lotus --- [[books:sb:1:17:2|SB 1.17.2]]

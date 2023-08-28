@@ -1,5 +1,11 @@
-~~Title:bhaumaḥ~~
-{{description>although he was the king of the entire world; an emperor of the entire surface of the globe.}}
+---json
+{
+    "name":"bhaumaḥ",
+    "h1":"bhaumaḥ",
+    "title":"bhaumaḥ",
+    "description":"although he was the king of the entire world; an emperor of the entire surface of the globe."
+}
+---
 
 ==== sārva-bhaumaḥ  ====
   * although he was the king of the entire world --- [[books:sb:9:18:51|SB 9.18.51]]

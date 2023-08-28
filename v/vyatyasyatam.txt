@@ -1,5 +1,11 @@
-~~Title:vyatyasyatām~~
-{{description>just exchange.}}
+---json
+{
+    "name":"vyatyasyatām",
+    "h1":"vyatyasyatām",
+    "title":"vyatyasyatām",
+    "description":"just exchange."
+}
+---
 
 ==== vyatyasyatām  ====
   * just exchange --- [[books:sb:9:18:37|SB 9.18.37]]

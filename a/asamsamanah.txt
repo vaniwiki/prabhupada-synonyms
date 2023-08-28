@@ -1,5 +1,11 @@
-~~Title:āśaṁsamānaḥ~~
-{{description>doubting; in doubtful mind.}}
+---json
+{
+    "name":"āśaṁsamānaḥ",
+    "h1":"āśaṁsamānaḥ",
+    "title":"āśaṁsamānaḥ",
+    "description":"doubting; in doubtful mind."
+}
+---
 
 ==== āśaṁsamānaḥ  ====
   * doubting --- [[books:sb:5:8:12|SB 5.8.12]]

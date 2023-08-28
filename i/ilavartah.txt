@@ -1,5 +1,11 @@
-~~Title:ilāvartaḥ~~
-{{description>Ilāvarta.}}
+---json
+{
+    "name":"ilāvartaḥ",
+    "h1":"ilāvartaḥ",
+    "title":"ilāvartaḥ",
+    "description":"Ilāvarta."
+}
+---
 
 ==== ilāvartaḥ  ====
   * Ilāvarta --- [[books:sb:5:4:10|SB 5.4.10]]

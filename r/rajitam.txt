@@ -1,5 +1,11 @@
-~~Title:rājitam~~
-{{description>decorated.}}
+---json
+{
+    "name":"rājitam",
+    "h1":"rājitam",
+    "title":"rājitam",
+    "description":"decorated."
+}
+---
 
 ==== rājitam  ====
   * decorated --- [[books:sb:4:6:18|SB 4.6.18]]

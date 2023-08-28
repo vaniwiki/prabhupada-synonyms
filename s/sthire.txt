@@ -1,5 +1,11 @@
-~~Title:sthire~~
-{{description>pacified; still.}}
+---json
+{
+    "name":"sthire",
+    "h1":"sthire",
+    "title":"sthire",
+    "description":"pacified; still."
+}
+---
 
 ==== sthire  ====
   * pacified --- [[books:cc:antya:18:67|Antya 18.67]]

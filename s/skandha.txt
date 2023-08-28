@@ -1,5 +1,11 @@
-~~Title:skandha~~
-{{description>big branch; branch; branches; main branch; of the shoulders; of the trunk; shoulders; the trunk; trunk; trunks.}}
+---json
+{
+    "name":"skandha",
+    "h1":"skandha",
+    "title":"skandha",
+    "description":"big branch; branch; branches; main branch; of the shoulders; of the trunk; shoulders; the trunk; trunk; trunks."
+}
+---
 
 ==== skandha  ====
   * big branch --- [[books:cc:adi:12:3|Ādi 12.3]]

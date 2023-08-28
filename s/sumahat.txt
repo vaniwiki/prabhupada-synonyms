@@ -1,5 +1,11 @@
-~~Title:sumahat~~
-{{description>highly praiseworthy.}}
+---json
+{
+    "name":"sumahat",
+    "h1":"sumahat",
+    "title":"sumahat",
+    "description":"highly praiseworthy."
+}
+---
 
 ==== sumahat  ====
   * highly praiseworthy --- [[books:sb:8:23:26-27|SB 8.23.26-27]]

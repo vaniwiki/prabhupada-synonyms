@@ -1,5 +1,11 @@
-~~Title:vaśyaiḥ~~
-{{description>one who has control over.}}
+---json
+{
+    "name":"vaśyaiḥ",
+    "h1":"vaśyaiḥ",
+    "title":"vaśyaiḥ",
+    "description":"one who has control over."
+}
+---
 
 ==== ātma-vaśyaiḥ  ====
   * one who has control over --- [[books:bg:2:64|Bg. 2.64]]

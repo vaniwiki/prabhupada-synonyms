@@ -1,5 +1,11 @@
-~~Title:bhijaila~~
-{{description>were soaked.}}
+---json
+{
+    "name":"bhijaila",
+    "h1":"bhijaila",
+    "title":"bhijaila",
+    "description":"were soaked."
+}
+---
 
 ==== bhijāila  ====
   * were soaked --- [[books:cc:antya:6:67|Antya 6.67]]

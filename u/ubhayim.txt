@@ -1,5 +1,11 @@
-~~Title:ubhayīm~~
-{{description>for both the worlds.}}
+---json
+{
+    "name":"ubhayīm",
+    "h1":"ubhayīm",
+    "title":"ubhayīm",
+    "description":"for both the worlds."
+}
+---
 
 ==== ubhayīm  ====
   * for both the worlds --- [[books:sb:2:7:4|SB 2.7.4]]

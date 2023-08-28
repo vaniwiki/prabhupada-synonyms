@@ -1,5 +1,11 @@
-~~Title:avartayat~~
-{{description>circulated; she shed.}}
+---json
+{
+    "name":"avartayat",
+    "h1":"avartayat",
+    "title":"avartayat",
+    "description":"circulated; she shed."
+}
+---
 
 ==== avartayat  ====
   * circulated --- [[books:sb:9:20:32|SB 9.20.32]]

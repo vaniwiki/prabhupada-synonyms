@@ -1,5 +1,11 @@
-~~Title:nirvyalīkam~~
-{{description>without duplicity; without duplicity in dharma; without pretension.}}
+---json
+{
+    "name":"nirvyalīkam",
+    "h1":"nirvyalīkam",
+    "title":"nirvyalīkam",
+    "description":"without duplicity; without duplicity in dharma; without pretension."
+}
+---
 
 ==== nirvyalīkam  ====
   * without duplicity --- [[books:sb:3:16:25|SB 3.16.25]], [[books:cc:madhya:6:235|Madhya 6.235]]

@@ -1,5 +1,11 @@
-~~Title:amala~~
-{{description>and pure; clean; clear; crystal clear; pure; spotless; stainless; transparent; uncontaminated.}}
+---json
+{
+    "name":"amala",
+    "h1":"amala",
+    "title":"amala",
+    "description":"and pure; clean; clear; crystal clear; pure; spotless; stainless; transparent; uncontaminated."
+}
+---
 
 ==== amala  ====
   * and pure --- [[books:sb:6:16:31|SB 6.16.31]]

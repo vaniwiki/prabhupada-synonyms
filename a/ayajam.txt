@@ -1,5 +1,11 @@
-~~Title:ayajam~~
-{{description>worshiped.}}
+---json
+{
+    "name":"ayajam",
+    "h1":"ayajam",
+    "title":"ayajam",
+    "description":"worshiped."
+}
+---
 
 ==== ayajam  ====
   * worshiped --- [[books:sb:2:6:28|SB 2.6.28]]

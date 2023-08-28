@@ -1,5 +1,11 @@
-~~Title:viddhah~~
-{{description>agitated; being pierced by; pierced; pinched by.}}
+---json
+{
+    "name":"viddhah",
+    "h1":"viddhah",
+    "title":"viddhah",
+    "description":"agitated; being pierced by; pierced; pinched by."
+}
+---
 
 ==== viddhaḥ  ====
   * agitated --- [[books:sb:3:8:13|SB 3.8.13]]

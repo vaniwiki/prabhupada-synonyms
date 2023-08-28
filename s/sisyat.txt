@@ -1,5 +1,11 @@
-~~Title:śiṣyāt~~
-{{description>can make disciples; from the disciple.}}
+---json
+{
+    "name":"śiṣyāt",
+    "h1":"śiṣyāt",
+    "title":"śiṣyāt",
+    "description":"can make disciples; from the disciple."
+}
+---
 
 ==== śiṣyāt  ====
   * can make disciples --- [[books:noi:1|NoI 1]]

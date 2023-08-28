@@ -1,5 +1,11 @@
-~~Title:āsuraye~~
-{{description>unto the brāhmaṇa named Āsuri.}}
+---json
+{
+    "name":"āsuraye",
+    "h1":"āsuraye",
+    "title":"āsuraye",
+    "description":"unto the brāhmaṇa named Āsuri."
+}
+---
 
 ==== āsuraye  ====
   * unto the //brāhmaṇa// named Āsuri --- [[books:sb:1:3:10|SB 1.3.10]]

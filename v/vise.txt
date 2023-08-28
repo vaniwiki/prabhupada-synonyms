@@ -1,5 +1,11 @@
-~~Title:viṣe~~
-{{description>by the poison.}}
+---json
+{
+    "name":"viṣe",
+    "h1":"viṣe",
+    "title":"viṣe",
+    "description":"by the poison."
+}
+---
 
 ==== viṣe  ====
   * by the poison --- [[books:cc:adi:16:21|Ādi 16.21]]

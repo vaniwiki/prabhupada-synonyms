@@ -1,5 +1,11 @@
-~~Title:śobhitena~~
-{{description>beautified by his smile.}}
+---json
+{
+    "name":"śobhitena",
+    "h1":"śobhitena",
+    "title":"śobhitena",
+    "description":"beautified by his smile."
+}
+---
 
 ==== smita-śobhitena  ====
   * beautified by his smile --- [[books:sb:3:22:21|SB 3.22.21]]

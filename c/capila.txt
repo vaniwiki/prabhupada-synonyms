@@ -1,5 +1,11 @@
-~~Title:cāpila~~
-{{description>pressed.}}
+---json
+{
+    "name":"cāpila",
+    "h1":"cāpila",
+    "title":"cāpila",
+    "description":"pressed."
+}
+---
 
 ==== cāpila  ====
   * pressed --- [[books:cc:antya:10:90|Antya 10.90]]

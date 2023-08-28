@@ -1,5 +1,11 @@
-~~Title:agādhadhīḥ~~
-{{description>whose intelligence is unfathomed.}}
+---json
+{
+    "name":"agādhadhīḥ",
+    "h1":"agādhadhīḥ",
+    "title":"agādhadhīḥ",
+    "description":"whose intelligence is unfathomed."
+}
+---
 
 ==== agādhadhīḥ  ====
   * whose intelligence is unfathomed --- [[books:sb:6:17:9|SB 6.17.9]]

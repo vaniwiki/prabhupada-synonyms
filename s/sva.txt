@@ -1,5 +1,11 @@
-~~Title:sva~~
-{{description>by himself; by your own; his; his own; in his own; of one's own; of their own; one's own; own; personal, internal; personal, own; with his wealth.}}
+---json
+{
+    "name":"sva",
+    "h1":"sva",
+    "title":"sva",
+    "description":"by himself; by your own; his; his own; in his own; of one's own; of their own; one's own; own; personal, internal; personal, own; with his wealth."
+}
+---
 
 ==== sva  ====
   * by himself --- [[books:sb:5:19:19|SB 5.19.19]]

@@ -1,5 +1,11 @@
-~~Title:aṅgārān~~
-{{description>embers.}}
+---json
+{
+    "name":"aṅgārān",
+    "h1":"aṅgārān",
+    "title":"aṅgārān",
+    "description":"embers."
+}
+---
 
 ==== aṅgārān  ====
   * embers --- [[books:sb:8:10:49|SB 8.10.49]]

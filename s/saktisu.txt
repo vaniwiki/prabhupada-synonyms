@@ -1,5 +1,11 @@
-~~Title:śaktiṣu~~
-{{description>of the energies.}}
+---json
+{
+    "name":"śaktiṣu",
+    "h1":"śaktiṣu",
+    "title":"śaktiṣu",
+    "description":"of the energies."
+}
+---
 
 ==== śaktiṣu  ====
   * of the energies --- [[books:sb:1:10:21|SB 1.10.21]]

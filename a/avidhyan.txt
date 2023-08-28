@@ -1,5 +1,11 @@
-~~Title:avidhyan~~
-{{description>struck.}}
+---json
+{
+    "name":"avidhyan",
+    "h1":"avidhyan",
+    "title":"avidhyan",
+    "description":"struck."
+}
+---
 
 ==== avidhyan  ====
   * struck --- [[books:sb:4:10:10|SB 4.10.10]]

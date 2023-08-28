@@ -1,5 +1,11 @@
-~~Title:avasāditaḥ~~
-{{description>destroyed.}}
+---json
+{
+    "name":"avasāditaḥ",
+    "h1":"avasāditaḥ",
+    "title":"avasāditaḥ",
+    "description":"destroyed."
+}
+---
 
 ==== avasāditaḥ  ====
   * destroyed --- [[books:sb:7:8:55|SB 7.8.55]]

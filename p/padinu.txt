@@ -1,5 +1,11 @@
-~~Title:paḍinu~~
-{{description>fell; fell down; I fell down.}}
+---json
+{
+    "name":"paḍinu",
+    "h1":"paḍinu",
+    "title":"paḍinu",
+    "description":"fell; fell down; I fell down."
+}
+---
 
 ==== paḍinu  ====
   * fell --- [[books:cc:adi:5:197|Ādi 5.197]]

@@ -1,5 +1,11 @@
-~~Title:udbhidam~~
-{{description>one born of the earth.}}
+---json
+{
+    "name":"udbhidam",
+    "h1":"udbhidam",
+    "title":"udbhidam",
+    "description":"one born of the earth."
+}
+---
 
 ==== udbhidam  ====
   * one born of the earth --- [[books:sb:5:18:32|SB 5.18.32]]

@@ -1,5 +1,11 @@
-~~Title:bhavatsu~~
-{{description>unto all of you; unto you.}}
+---json
+{
+    "name":"bhavatsu",
+    "h1":"bhavatsu",
+    "title":"bhavatsu",
+    "description":"unto all of you; unto you."
+}
+---
 
 ==== bhavatsu  ====
   * unto all of you --- [[books:sb:1:19:20|SB 1.19.20]]

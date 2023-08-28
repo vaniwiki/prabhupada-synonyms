@@ -1,5 +1,11 @@
-~~Title:bhusanah~~
-{{description>garments.}}
+---json
+{
+    "name":"bhusanah",
+    "h1":"bhusanah",
+    "title":"bhusanah",
+    "description":"garments."
+}
+---
 
 ==== bhūṣaṇaḥ  ====
   * garments --- [[books:sb:4:21:18|SB 4.21.18]]

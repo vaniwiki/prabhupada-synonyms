@@ -1,5 +1,11 @@
-~~Title:isah~~
-{{description>competent; controller; controller, the Supreme Lord; Lord Śiva; the controller; the lord; the supreme controller (with full power); the supreme controller; the supreme controller, Lord Īśa; the Supreme Lord; the supreme master; the Supreme Personality of Godhead; Śrī Caitanya Mahāprabhu, the Supreme Lord.}}
+---json
+{
+    "name":"isah",
+    "h1":"isah",
+    "title":"isah",
+    "description":"competent; controller; controller, the Supreme Lord; Lord Śiva; the controller; the lord; the supreme controller (with full power); the supreme controller; the supreme controller, Lord Īśa; the Supreme Lord; the supreme master; the Supreme Personality of Godhead; Śrī Caitanya Mahāprabhu, the Supreme Lord."
+}
+---
 
 ==== īśaḥ  ====
   * competent --- [[books:sb:4:15:24|SB 4.15.24]]

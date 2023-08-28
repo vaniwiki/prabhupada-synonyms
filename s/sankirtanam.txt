@@ -1,5 +1,11 @@
-~~Title:saṅkīrtanam~~
-{{description>the congregational chanting; the congregational chanting of the holy name.}}
+---json
+{
+    "name":"saṅkīrtanam",
+    "h1":"saṅkīrtanam",
+    "title":"saṅkīrtanam",
+    "description":"the congregational chanting; the congregational chanting of the holy name."
+}
+---
 
 ==== saṅkīrtanam  ====
   * the congregational chanting --- [[books:sb:6:3:24|SB 6.3.24]]

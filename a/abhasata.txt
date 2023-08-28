@@ -1,5 +1,11 @@
-~~Title:abhasata~~
-{{description>addressed; began to address Kṛṣṇa; began to say; began to speak (as follows); he addressed; replied; said; said as follows; spoke intelligently; you have spoken.}}
+---json
+{
+    "name":"abhasata",
+    "h1":"abhasata",
+    "title":"abhasata",
+    "description":"addressed; began to address Kṛṣṇa; began to say; began to speak (as follows); he addressed; replied; said; said as follows; spoke intelligently; you have spoken."
+}
+---
 
 ==== abhāṣata  ====
   * addressed --- [[books:sb:3:13:6|SB 3.13.6]], [[books:sb:4:27:27|SB 4.27.27]]

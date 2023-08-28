@@ -1,5 +1,11 @@
-~~Title:randhi~~
-{{description>I cook.}}
+---json
+{
+    "name":"randhi",
+    "h1":"randhi",
+    "title":"randhi",
+    "description":"I cook."
+}
+---
 
 ==== rāndhi  ====
   * I cook --- [[books:cc:antya:12:93|Antya 12.93]]

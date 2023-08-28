@@ -1,5 +1,11 @@
-~~Title:śarīrāya~~
-{{description>whose body is full of opulences and mystic power.}}
+---json
+{
+    "name":"śarīrāya",
+    "h1":"śarīrāya",
+    "title":"śarīrāya",
+    "description":"whose body is full of opulences and mystic power."
+}
+---
 
 ==== yoga-aiśvarya-śarīrāya  ====
   * whose body is full of opulences and mystic power --- [[books:sb:8:16:33|SB 8.16.33]]

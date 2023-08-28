@@ -1,5 +1,11 @@
-~~Title:nadīte~~
-{{description>in the river.}}
+---json
+{
+    "name":"nadīte",
+    "h1":"nadīte",
+    "title":"nadīte",
+    "description":"in the river."
+}
+---
 
 ==== nadīte  ====
   * in the river --- [[books:cc:madhya:20:118|Madhya 20.118]]

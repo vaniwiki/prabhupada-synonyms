@@ -1,5 +1,11 @@
-~~Title:samartha~~
-{{description>able; capable; competent; complete; full of all abilities; proper.}}
+---json
+{
+    "name":"samartha",
+    "h1":"samartha",
+    "title":"samartha",
+    "description":"able; capable; competent; complete; full of all abilities; proper."
+}
+---
 
 ==== samartha  ====
   * able --- [[books:cc:madhya:24:316|Madhya 24.316]], [[books:cc:antya:9:44|Antya 9.44]]

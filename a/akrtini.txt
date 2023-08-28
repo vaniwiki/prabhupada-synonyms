@@ -1,5 +1,11 @@
-~~Title:akṛtīni~~
-{{description>forms.}}
+---json
+{
+    "name":"akṛtīni",
+    "h1":"akṛtīni",
+    "title":"akṛtīni",
+    "description":"forms."
+}
+---
 
 ==== akṛtīni  ====
   * forms --- [[books:bg:11:5|Bg. 11.5]]

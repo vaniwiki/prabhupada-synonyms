@@ -1,5 +1,11 @@
-~~Title:alakṣayantaḥ~~
-{{description>being unable to see; not finding.}}
+---json
+{
+    "name":"alakṣayantaḥ",
+    "h1":"alakṣayantaḥ",
+    "title":"alakṣayantaḥ",
+    "description":"being unable to see; not finding."
+}
+---
 
 ==== alakṣayantaḥ  ====
   * being unable to see --- [[books:sb:8:11:25|SB 8.11.25]]

@@ -1,5 +1,11 @@
-~~Title:karera~~
-{{description>of the additions of the word ca; of the word ca.}}
+---json
+{
+    "name":"karera",
+    "h1":"karera",
+    "title":"karera",
+    "description":"of the additions of the word ca; of the word ca."
+}
+---
 
 ==== ca-kārera  ====
   * of the additions of the word //ca// --- [[books:cc:madhya:24:298|Madhya 24.298]]

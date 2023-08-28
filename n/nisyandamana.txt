@@ -1,5 +1,11 @@
-~~Title:niṣyandamāna~~
-{{description>flowing.}}
+---json
+{
+    "name":"niṣyandamāna",
+    "h1":"niṣyandamāna",
+    "title":"niṣyandamāna",
+    "description":"flowing."
+}
+---
 
 ==== niṣyandamāna  ====
   * flowing --- [[books:sb:6:9:39|SB 6.9.39]]

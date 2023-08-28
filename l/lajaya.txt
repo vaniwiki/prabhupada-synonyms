@@ -1,5 +1,11 @@
-~~Title:lājāya~~
-{{description>put to shame; puts to shame.}}
+---json
+{
+    "name":"lājāya",
+    "h1":"lājāya",
+    "title":"lājāya",
+    "description":"put to shame; puts to shame."
+}
+---
 
 ==== lājāya  ====
   * put to shame --- [[books:cc:antya:17:41|Antya 17.41]]

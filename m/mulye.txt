@@ -1,5 +1,11 @@
-~~Title:mūlye~~
-{{description>by the price of Your mercy.}}
+---json
+{
+    "name":"mūlye",
+    "h1":"mūlye",
+    "title":"mūlye",
+    "description":"by the price of Your mercy."
+}
+---
 
 ==== kṛpā-mūlye  ====
   * by the price of Your mercy --- [[books:cc:madhya:11:145|Madhya 11.145]]

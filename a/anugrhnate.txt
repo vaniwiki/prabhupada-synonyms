@@ -1,5 +1,11 @@
-~~Title:anugṛhṇate~~
-{{description>give blessings.}}
+---json
+{
+    "name":"anugṛhṇate",
+    "h1":"anugṛhṇate",
+    "title":"anugṛhṇate",
+    "description":"give blessings."
+}
+---
 
 ==== anugṛhṇate  ====
   * give blessings --- [[books:sb:4:12:51|SB 4.12.51]]

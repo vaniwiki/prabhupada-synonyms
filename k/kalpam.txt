@@ -1,5 +1,11 @@
-~~Title:kalpam~~
-{{description>the duration of a day; the most expert.}}
+---json
+{
+    "name":"kalpam",
+    "h1":"kalpam",
+    "title":"kalpam",
+    "description":"the duration of a day; the most expert."
+}
+---
 
 ==== kalpam  ====
   * the duration of a day --- [[books:sb:2:10:47|SB 2.10.47]]

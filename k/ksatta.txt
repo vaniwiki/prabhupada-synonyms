@@ -1,5 +1,11 @@
-~~Title:kṣattā~~
-{{description>a name of Vidura; Vidura.}}
+---json
+{
+    "name":"kṣattā",
+    "h1":"kṣattā",
+    "title":"kṣattā",
+    "description":"a name of Vidura; Vidura."
+}
+---
 
 ==== kṣattā  ====
   * a name of Vidura --- [[books:sb:1:13:2|SB 1.13.2]]

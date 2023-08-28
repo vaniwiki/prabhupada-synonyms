@@ -1,5 +1,11 @@
-~~Title:keśidhvajaḥ~~
-{{description>a son named Keśidhvaja.}}
+---json
+{
+    "name":"keśidhvajaḥ",
+    "h1":"keśidhvajaḥ",
+    "title":"keśidhvajaḥ",
+    "description":"a son named Keśidhvaja."
+}
+---
 
 ==== keśidhvajaḥ  ====
   * a son named Keśidhvaja --- [[books:sb:9:13:20-21|SB 9.13.20-21]]

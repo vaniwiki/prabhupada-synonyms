@@ -1,5 +1,11 @@
-~~Title:pracetasam~~
-{{description>the treasurer of heaven, known as Varuṇa; Varuṇa.}}
+---json
+{
+    "name":"pracetasam",
+    "h1":"pracetasam",
+    "title":"pracetasam",
+    "description":"the treasurer of heaven, known as Varuṇa; Varuṇa."
+}
+---
 
 ==== pracetasam  ====
   * the treasurer of heaven, known as Varuṇa --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

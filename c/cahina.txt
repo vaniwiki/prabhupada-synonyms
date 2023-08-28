@@ -1,5 +1,11 @@
-~~Title:cāhiñā~~
-{{description>calling.}}
+---json
+{
+    "name":"cāhiñā",
+    "h1":"cāhiñā",
+    "title":"cāhiñā",
+    "description":"calling."
+}
+---
 
 ==== cāhiñā  ====
   * calling --- [[books:cc:madhya:4:132|Madhya 4.132]]

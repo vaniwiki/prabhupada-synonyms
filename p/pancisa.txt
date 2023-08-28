@@ -1,5 +1,11 @@
-~~Title:pañciśa~~
-{{description>twenty-five.}}
+---json
+{
+    "name":"pañciśa",
+    "h1":"pañciśa",
+    "title":"pañciśa",
+    "description":"twenty-five."
+}
+---
 
 ==== pañciśa  ====
   * twenty-five --- [[books:cc:madhya:23:86|Madhya 23.86]]

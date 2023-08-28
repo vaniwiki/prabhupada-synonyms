@@ -1,5 +1,11 @@
-~~Title:alasaḥ~~
-{{description>lazy.}}
+---json
+{
+    "name":"alasaḥ",
+    "h1":"alasaḥ",
+    "title":"alasaḥ",
+    "description":"lazy."
+}
+---
 
 ==== alasaḥ  ====
   * lazy --- [[books:bg:18:28|Bg. 18.28]]

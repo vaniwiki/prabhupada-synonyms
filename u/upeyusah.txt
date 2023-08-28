@@ -1,5 +1,11 @@
-~~Title:upeyuṣaḥ~~
-{{description>achieved; having obtained.}}
+---json
+{
+    "name":"upeyuṣaḥ",
+    "h1":"upeyuṣaḥ",
+    "title":"upeyuṣaḥ",
+    "description":"achieved; having obtained."
+}
+---
 
 ==== upeyuṣaḥ  ====
   * achieved --- [[books:sb:4:8:36|SB 4.8.36]]

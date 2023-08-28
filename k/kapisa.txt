@@ -1,5 +1,11 @@
-~~Title:kapiśa~~
-{{description>brown; tawny.}}
+---json
+{
+    "name":"kapiśa",
+    "h1":"kapiśa",
+    "title":"kapiśa",
+    "description":"brown; tawny."
+}
+---
 
 ==== kapiśa  ====
   * brown --- [[books:sb:5:5:31|SB 5.5.31]]

@@ -1,5 +1,11 @@
-~~Title:aviṣahyaḥ~~
-{{description>unbearable.}}
+---json
+{
+    "name":"aviṣahyaḥ",
+    "h1":"aviṣahyaḥ",
+    "title":"aviṣahyaḥ",
+    "description":"unbearable."
+}
+---
 
 ==== aviṣahyaḥ  ====
   * unbearable --- [[books:sb:4:24:65|SB 4.24.65]]

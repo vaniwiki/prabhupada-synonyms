@@ -1,5 +1,11 @@
-~~Title:adhyāstām~~
-{{description>go live there and occupy the place.}}
+---json
+{
+    "name":"adhyāstām",
+    "h1":"adhyāstām",
+    "title":"adhyāstām",
+    "description":"go live there and occupy the place."
+}
+---
 
 ==== adhyāstām  ====
   * go live there and occupy the place --- [[books:sb:8:22:32|SB 8.22.32]]

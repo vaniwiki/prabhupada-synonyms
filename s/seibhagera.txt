@@ -1,5 +1,11 @@
-~~Title:seibhāgera~~
-{{description>of that portion.}}
+---json
+{
+    "name":"seibhāgera",
+    "h1":"seibhāgera",
+    "title":"seibhāgera",
+    "description":"of that portion."
+}
+---
 
 ==== seibhāgera  ====
   * of that portion --- [[books:cc:madhya:1:11-12|Madhya 1.11-12]]

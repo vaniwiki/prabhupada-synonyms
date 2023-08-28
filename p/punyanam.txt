@@ -1,5 +1,11 @@
-~~Title:puṇyānām~~
-{{description>holy.}}
+---json
+{
+    "name":"puṇyānām",
+    "h1":"puṇyānām",
+    "title":"puṇyānām",
+    "description":"holy."
+}
+---
 
 ==== puṇyānām  ====
   * holy --- [[books:cc:madhya:9:33|Madhya 9.33]]

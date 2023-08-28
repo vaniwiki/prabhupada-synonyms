@@ -1,5 +1,11 @@
-~~Title:saṁjñake~~
-{{description>called.}}
+---json
+{
+    "name":"saṁjñake",
+    "h1":"saṁjñake",
+    "title":"saṁjñake",
+    "description":"called."
+}
+---
 
 ==== saṁjñake  ====
   * called --- [[books:bg:8:18|Bg. 8.18]]

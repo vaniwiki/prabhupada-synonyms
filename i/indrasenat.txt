@@ -1,5 +1,11 @@
-~~Title:indrasenāt~~
-{{description>from Indrasena.}}
+---json
+{
+    "name":"indrasenāt",
+    "h1":"indrasenāt",
+    "title":"indrasenāt",
+    "description":"from Indrasena."
+}
+---
 
 ==== indrasenāt  ====
   * from Indrasena --- [[books:sb:9:2:20|SB 9.2.20]]

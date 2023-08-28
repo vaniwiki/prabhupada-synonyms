@@ -1,5 +1,11 @@
-~~Title:dinah~~
-{{description>having a poor fund of knowledge; poor; stricken; the poor man; very poor; who am most fallen and poor.}}
+---json
+{
+    "name":"dinah",
+    "h1":"dinah",
+    "title":"dinah",
+    "description":"having a poor fund of knowledge; poor; stricken; the poor man; very poor; who am most fallen and poor."
+}
+---
 
 ==== dīnaḥ  ====
   * having a poor fund of knowledge --- [[books:sb:7:6:17-18|SB 7.6.17-18]]

@@ -1,5 +1,11 @@
-~~Title:nyapatat~~
-{{description>fell; fell down; quit.}}
+---json
+{
+    "name":"nyapatat",
+    "h1":"nyapatat",
+    "title":"nyapatat",
+    "description":"fell; fell down; quit."
+}
+---
 
 ==== nyapatat  ====
   * fell --- [[books:sb:6:8:40|SB 6.8.40]], [[books:sb:6:12:4|SB 6.12.4]]

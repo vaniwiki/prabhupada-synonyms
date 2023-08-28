@@ -1,5 +1,11 @@
-~~Title:aguṇaḥ~~
-{{description>although transcendental to such material qualities; transcendental; without affinity for the material modes.}}
+---json
+{
+    "name":"aguṇaḥ",
+    "h1":"aguṇaḥ",
+    "title":"aguṇaḥ",
+    "description":"although transcendental to such material qualities; transcendental; without affinity for the material modes."
+}
+---
 
 ==== aguṇaḥ  ====
   * although transcendental to such material qualities --- [[books:sb:6:9:34|SB 6.9.34]]

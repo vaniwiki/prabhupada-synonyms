@@ -1,5 +1,11 @@
-~~Title:sthaviṣṭham~~
-{{description>gross universal; the gross.}}
+---json
+{
+    "name":"sthaviṣṭham",
+    "h1":"sthaviṣṭham",
+    "title":"sthaviṣṭham",
+    "description":"gross universal; the gross."
+}
+---
 
 ==== sthaviṣṭham  ====
   * gross universal --- [[books:sb:4:9:13|SB 4.9.13]]

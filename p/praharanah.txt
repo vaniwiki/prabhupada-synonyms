@@ -1,5 +1,11 @@
-~~Title:praharaṇāḥ~~
-{{description>equipped with.}}
+---json
+{
+    "name":"praharaṇāḥ",
+    "h1":"praharaṇāḥ",
+    "title":"praharaṇāḥ",
+    "description":"equipped with."
+}
+---
 
 ==== praharaṇāḥ  ====
   * equipped with --- [[books:bg:1:9|Bg. 1.9]]

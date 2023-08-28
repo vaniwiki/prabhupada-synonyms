@@ -1,5 +1,11 @@
-~~Title:viramita~~
-{{description>defeated.}}
+---json
+{
+    "name":"viramita",
+    "h1":"viramita",
+    "title":"viramita",
+    "description":"defeated."
+}
+---
 
 ==== viramita  ====
   * defeated --- [[books:sb:5:1:29|SB 5.1.29]]

@@ -1,5 +1,11 @@
-~~Title:uñchanam~~
-{{description>and the collecting of grains left in the wholesale marketplace; picking up the grains that have fallen from bags in shops.}}
+---json
+{
+    "name":"uñchanam",
+    "h1":"uñchanam",
+    "title":"uñchanam",
+    "description":"and the collecting of grains left in the wholesale marketplace; picking up the grains that have fallen from bags in shops."
+}
+---
 
 ==== uñchanam  ====
   * and the collecting of grains left in the wholesale marketplace --- [[books:sb:6:7:36|SB 6.7.36]]

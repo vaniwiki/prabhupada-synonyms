@@ -1,5 +1,11 @@
-~~Title:saṅgīyamāna~~
-{{description>being praised.}}
+---json
+{
+    "name":"saṅgīyamāna",
+    "h1":"saṅgīyamāna",
+    "title":"saṅgīyamāna",
+    "description":"being praised."
+}
+---
 
 ==== saṅgīyamāna  ====
   * being praised --- [[books:sb:3:22:33|SB 3.22.33]]

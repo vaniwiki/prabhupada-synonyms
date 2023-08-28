@@ -1,5 +1,11 @@
-~~Title:utsarpaṇa~~
-{{description>from jumping across the river.}}
+---json
+{
+    "name":"utsarpaṇa",
+    "h1":"utsarpaṇa",
+    "title":"utsarpaṇa",
+    "description":"from jumping across the river."
+}
+---
 
 ==== utsarpaṇa  ====
   * from jumping across the river --- [[books:sb:5:8:6|SB 5.8.6]]

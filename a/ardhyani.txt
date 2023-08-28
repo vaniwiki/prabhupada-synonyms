@@ -1,5 +1,11 @@
-~~Title:ardhyāni~~
-{{description>most valuable.}}
+---json
+{
+    "name":"ardhyāni",
+    "h1":"ardhyāni",
+    "title":"ardhyāni",
+    "description":"most valuable."
+}
+---
 
 ==== para-ardhyāni  ====
   * most valuable --- [[books:sb:3:23:29|SB 3.23.29]]

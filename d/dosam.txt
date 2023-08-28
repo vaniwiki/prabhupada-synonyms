@@ -1,5 +1,11 @@
-~~Title:doṣam~~
-{{description>crime; fault; the fault; unhappiness.}}
+---json
+{
+    "name":"doṣam",
+    "h1":"doṣam",
+    "title":"doṣam",
+    "description":"crime; fault; the fault; unhappiness."
+}
+---
 
 ==== doṣam  ====
   * crime --- [[books:bg:1:37-38|Bg. 1.37-38]]

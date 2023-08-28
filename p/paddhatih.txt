@@ -1,5 +1,11 @@
-~~Title:paddhatiḥ~~
-{{description>the course of activities.}}
+---json
+{
+    "name":"paddhatiḥ",
+    "h1":"paddhatiḥ",
+    "title":"paddhatiḥ",
+    "description":"the course of activities."
+}
+---
 
 ==== paddhatiḥ  ====
   * the course of activities --- [[books:cc:antya:1:188|Antya 1.188]]

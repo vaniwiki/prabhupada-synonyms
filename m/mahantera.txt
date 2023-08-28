@@ -1,5 +1,11 @@
-~~Title:mahāntera~~
-{{description>of a great person; of all the devotees; of persons who are highly advanced in spiritual life; of the great personalities.}}
+---json
+{
+    "name":"mahāntera",
+    "h1":"mahāntera",
+    "title":"mahāntera",
+    "description":"of a great person; of all the devotees; of persons who are highly advanced in spiritual life; of the great personalities."
+}
+---
 
 ==== mahāntera  ====
   * of a great person --- [[books:cc:madhya:10:10|Madhya 10.10]]

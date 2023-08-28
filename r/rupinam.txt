@@ -1,5 +1,11 @@
-~~Title:rūpiṇam~~
-{{description>having beauty.}}
+---json
+{
+    "name":"rūpiṇam",
+    "h1":"rūpiṇam",
+    "title":"rūpiṇam",
+    "description":"having beauty."
+}
+---
 
 ==== rūpiṇam  ====
   * having beauty --- [[books:sb:9:14:17-18|SB 9.14.17-18]]

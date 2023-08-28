@@ -1,5 +1,11 @@
-~~Title:anātanvatī~~
-{{description>not increasing.}}
+---json
+{
+    "name":"anātanvatī",
+    "h1":"anātanvatī",
+    "title":"anātanvatī",
+    "description":"not increasing."
+}
+---
 
 ==== anātanvatī  ====
   * not increasing --- [[books:cc:antya:1:150|Antya 1.150]]

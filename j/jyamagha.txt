@@ -1,5 +1,11 @@
-~~Title:jyāmagha~~
-{{description>Jyāmagha.}}
+---json
+{
+    "name":"jyāmagha",
+    "h1":"jyāmagha",
+    "title":"jyāmagha",
+    "description":"Jyāmagha."
+}
+---
 
 ==== jyāmagha  ====
   * Jyāmagha --- [[books:sb:9:23:34|SB 9.23.34]]

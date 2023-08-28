@@ -1,5 +1,11 @@
-~~Title:dyubhiḥ~~
-{{description>by the effulgence; by the rays; glittering.}}
+---json
+{
+    "name":"dyubhiḥ",
+    "h1":"dyubhiḥ",
+    "title":"dyubhiḥ",
+    "description":"by the effulgence; by the rays; glittering."
+}
+---
 
 ==== dyubhiḥ  ====
   * by the effulgence --- [[books:sb:4:24:52|SB 4.24.52]]

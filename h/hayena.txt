@@ -1,5 +1,11 @@
-~~Title:hayena~~
-{{description>are; become; becomes; is; sometimes becomes; was.}}
+---json
+{
+    "name":"hayena",
+    "h1":"hayena",
+    "title":"hayena",
+    "description":"are; become; becomes; is; sometimes becomes; was."
+}
+---
 
 ==== hayena  ====
   * are --- [[books:cc:adi:4:210|Ādi 4.210]]

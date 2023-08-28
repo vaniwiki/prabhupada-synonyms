@@ -1,5 +1,11 @@
-~~Title:asyah~~
-{{description>from Devakī; her; of her (Devakī); of her (Śarmiṣṭhā); of her; of the earth; of the external energy; of the Vedic literature; of this (world); of this; of this Devayānī; of this girl (Devakī); of Śrīmatī Rādhārāṇī; this; toward Her.}}
+---json
+{
+    "name":"asyah",
+    "h1":"asyah",
+    "title":"asyah",
+    "description":"from Devakī; her; of her (Devakī); of her (Śarmiṣṭhā); of her; of the earth; of the external energy; of the Vedic literature; of this (world); of this; of this Devayānī; of this girl (Devakī); of Śrīmatī Rādhārāṇī; this; toward Her."
+}
+---
 
 ==== asyāḥ  ====
   * from Devakī --- [[books:sb:10:1:54|SB 10.1.54]]

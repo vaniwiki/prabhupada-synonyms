@@ -1,5 +1,11 @@
-~~Title:abhivyāhṛtam~~
-{{description>all that was spoken; the words that were spoken; what was said.}}
+---json
+{
+    "name":"abhivyāhṛtam",
+    "h1":"abhivyāhṛtam",
+    "title":"abhivyāhṛtam",
+    "description":"all that was spoken; the words that were spoken; what was said."
+}
+---
 
 ==== abhivyāhṛtam  ====
   * all that was spoken --- [[books:sb:2:3:13|SB 2.3.13]]

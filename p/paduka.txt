@@ -1,5 +1,11 @@
-~~Title:paduka~~
-{{description>let it fall down; let there be; let there fall.}}
+---json
+{
+    "name":"paduka",
+    "h1":"paduka",
+    "title":"paduka",
+    "description":"let it fall down; let there be; let there fall."
+}
+---
 
 ==== paḍuka  ====
   * let it fall down --- [[books:cc:antya:11:36|Antya 11.36]]

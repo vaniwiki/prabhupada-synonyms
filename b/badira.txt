@@ -1,5 +1,11 @@
-~~Title:baḍīra~~
-{{description>of small pieces of fried dhal mixed with ripe pumpkin.}}
+---json
+{
+    "name":"baḍīra",
+    "h1":"baḍīra",
+    "title":"baḍīra",
+    "description":"of small pieces of fried dhal mixed with ripe pumpkin."
+}
+---
 
 ==== vṛddha-kuṣmāṇḍa-baḍīra  ====
   * of small pieces of fried dhal mixed with ripe pumpkin --- [[books:cc:madhya:15:212|Madhya 15.212]]

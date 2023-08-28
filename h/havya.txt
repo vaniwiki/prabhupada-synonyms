@@ -1,5 +1,11 @@
-~~Title:havya~~
-{{description>offerings for the demigods and the forefathers.}}
+---json
+{
+    "name":"havya",
+    "h1":"havya",
+    "title":"havya",
+    "description":"offerings for the demigods and the forefathers."
+}
+---
 
 ==== havya-kavya  ====
   * offerings for the demigods and the forefathers --- [[books:sb:2:6:1|SB 2.6.1]]

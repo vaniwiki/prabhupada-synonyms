@@ -1,5 +1,11 @@
-~~Title:pragāyatām~~
-{{description>describing.}}
+---json
+{
+    "name":"pragāyatām",
+    "h1":"pragāyatām",
+    "title":"pragāyatām",
+    "description":"describing."
+}
+---
 
 ==== pragāyatām  ====
   * describing --- [[books:sb:1:5:26|SB 1.5.26]]

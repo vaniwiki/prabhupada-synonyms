@@ -1,5 +1,11 @@
-~~Title:snigdhe~~
-{{description>advanced in devotional affection.}}
+---json
+{
+    "name":"snigdhe",
+    "h1":"snigdhe",
+    "title":"snigdhe",
+    "description":"advanced in devotional affection."
+}
+---
 
 ==== snigdhe  ====
   * advanced in devotional affection --- [[books:cc:madhya:22:131|Madhya 22.131]]

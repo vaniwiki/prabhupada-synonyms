@@ -1,5 +1,11 @@
-~~Title:brahmaka~~
-{{description>by the crest jewels of the Vedas.}}
+---json
+{
+    "name":"brahmaka",
+    "h1":"brahmaka",
+    "title":"brahmaka",
+    "description":"by the crest jewels of the Vedas."
+}
+---
 
 ==== brahmaka  ====
   * by the crest jewels of the //Vedas// --- [[books:sb:10:13:57|SB 10.13.57]]

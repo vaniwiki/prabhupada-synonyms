@@ -1,5 +1,11 @@
-~~Title:rirakṣuḥ~~
-{{description>desired to protect them.}}
+---json
+{
+    "name":"rirakṣuḥ",
+    "h1":"rirakṣuḥ",
+    "title":"rirakṣuḥ",
+    "description":"desired to protect them."
+}
+---
 
 ==== rirakṣuḥ  ====
   * desired to protect them --- [[books:sb:2:7:32|SB 2.7.32]]

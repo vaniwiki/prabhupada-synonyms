@@ -1,5 +1,11 @@
-~~Title:sthayi~~
-{{description>continuously existing.}}
+---json
+{
+    "name":"sthayi",
+    "h1":"sthayi",
+    "title":"sthayi",
+    "description":"continuously existing."
+}
+---
 
 ==== sthāyi  ====
   * continuously existing --- [[books:cc:antya:5:23|Antya 5.23]]

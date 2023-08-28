@@ -1,5 +1,11 @@
-~~Title:apṛthaktvāt~~
-{{description>because of nonseparation.}}
+---json
+{
+    "name":"apṛthaktvāt",
+    "h1":"apṛthaktvāt",
+    "title":"apṛthaktvāt",
+    "description":"because of nonseparation."
+}
+---
 
 ==== apṛthaktvāt  ====
   * because of nonseparation --- [[books:sb:8:9:29|SB 8.9.29]]

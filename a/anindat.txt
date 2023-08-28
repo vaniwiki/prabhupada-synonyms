@@ -1,5 +1,11 @@
-~~Title:anindat~~
-{{description>condemned; vilified.}}
+---json
+{
+    "name":"anindat",
+    "h1":"anindat",
+    "title":"anindat",
+    "description":"condemned; vilified."
+}
+---
 
 ==== anindat  ====
   * condemned --- [[books:cc:adi:4:203|Ādi 4.203]]

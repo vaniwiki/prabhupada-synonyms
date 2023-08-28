@@ -1,5 +1,11 @@
-~~Title:pratiṣṭhitam~~
-{{description>situated; standing.}}
+---json
+{
+    "name":"pratiṣṭhitam",
+    "h1":"pratiṣṭhitam",
+    "title":"pratiṣṭhitam",
+    "description":"situated; standing."
+}
+---
 
 ==== pratiṣṭhitam  ====
   * situated --- [[books:bg:3:15|Bg. 3.15]]

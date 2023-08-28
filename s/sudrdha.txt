@@ -1,5 +1,11 @@
-~~Title:sudṛḍha~~
-{{description>firm.}}
+---json
+{
+    "name":"sudṛḍha",
+    "h1":"sudṛḍha",
+    "title":"sudṛḍha",
+    "description":"firm."
+}
+---
 
 ==== sudṛḍha  ====
   * firm --- [[books:cc:adi:17:278|Ādi 17.278]], [[books:cc:madhya:22:62|Madhya 22.62]], [[books:cc:antya:7:162|Antya 7.162]]

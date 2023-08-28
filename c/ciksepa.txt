@@ -1,5 +1,11 @@
-~~Title:cikṣepa~~
-{{description>threw.}}
+---json
+{
+    "name":"cikṣepa",
+    "h1":"cikṣepa",
+    "title":"cikṣepa",
+    "description":"threw."
+}
+---
 
 ==== cikṣepa  ====
   * threw --- [[books:sb:6:11:9|SB 6.11.9]]

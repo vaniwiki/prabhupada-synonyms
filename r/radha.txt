@@ -1,5 +1,11 @@
-~~Title:radha~~
-{{description>of Śrīmatī Rādhārāṇī; Rādhārāṇī; Śrīmatī Rādhārāṇī.}}
+---json
+{
+    "name":"radha",
+    "h1":"radha",
+    "title":"radha",
+    "description":"of Śrīmatī Rādhārāṇī; Rādhārāṇī; Śrīmatī Rādhārāṇī."
+}
+---
 
 ==== rādhā  ====
   * of Śrīmatī Rādhārāṇī --- [[books:cc:adi:1:5|Ādi 1.5]], [[books:cc:adi:4:55|Ādi 4.55]], [[books:cc:adi:4:126|Ādi 4.126]], [[books:cc:adi:4:245|Ādi 4.245]], [[books:cc:madhya:8:150|Madhya 8.150]], [[books:cc:madhya:8:186|Madhya 8.186]], [[books:cc:madhya:21:105|Madhya 21.105]], [[books:cc:antya:1:143|Antya 1.143]], [[books:cc:antya:15:46|Antya 15.46]]

@@ -1,5 +1,11 @@
-~~Title:aghaḥ~~
-{{description>whose sin.}}
+---json
+{
+    "name":"aghaḥ",
+    "h1":"aghaḥ",
+    "title":"aghaḥ",
+    "description":"whose sin."
+}
+---
 
 ==== aghaḥ  ====
   * whose sin --- [[books:sb:6:13:17|SB 6.13.17]]

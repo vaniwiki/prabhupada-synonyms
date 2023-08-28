@@ -1,5 +1,11 @@
-~~Title:avagraha~~
-{{description>being too much attached; scarcity of rain.}}
+---json
+{
+    "name":"avagraha",
+    "h1":"avagraha",
+    "title":"avagraha",
+    "description":"being too much attached; scarcity of rain."
+}
+---
 
 ==== avagraha  ====
   * being too much attached --- [[books:sb:4:7:27|SB 4.7.27]]

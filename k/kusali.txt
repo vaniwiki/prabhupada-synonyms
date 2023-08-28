@@ -1,5 +1,11 @@
-~~Title:kuśalī~~
-{{description>all well.}}
+---json
+{
+    "name":"kuśalī",
+    "h1":"kuśalī",
+    "title":"kuśalī",
+    "description":"all well."
+}
+---
 
 ==== kuśalī  ====
   * all well --- [[books:sb:1:14:26|SB 1.14.26]]

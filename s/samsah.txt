@@ -1,5 +1,11 @@
-~~Title:śaṁsaḥ~~
-{{description>creating trouble.}}
+---json
+{
+    "name":"śaṁsaḥ",
+    "h1":"śaṁsaḥ",
+    "title":"śaṁsaḥ",
+    "description":"creating trouble."
+}
+---
 
 ==== agha-śaṁsaḥ  ====
   * creating trouble --- [[books:sb:5:22:14|SB 5.22.14]]

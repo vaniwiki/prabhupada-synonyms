@@ -1,5 +1,11 @@
-~~Title:pañcayāmaḥ~~
-{{description>Pañcayāma.}}
+---json
+{
+    "name":"pañcayāmaḥ",
+    "h1":"pañcayāmaḥ",
+    "title":"pañcayāmaḥ",
+    "description":"Pañcayāma."
+}
+---
 
 ==== pañcayāmaḥ  ====
   * Pañcayāma --- [[books:sb:6:6:16|SB 6.6.16]]

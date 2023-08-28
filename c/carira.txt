@@ -1,5 +1,11 @@
-~~Title:cārira~~
-{{description>of these four.}}
+---json
+{
+    "name":"cārira",
+    "h1":"cārira",
+    "title":"cārira",
+    "description":"of these four."
+}
+---
 
 ==== ei cārira  ====
   * of these four --- [[books:cc:madhya:22:125|Madhya 22.125]]

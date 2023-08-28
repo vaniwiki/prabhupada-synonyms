@@ -1,5 +1,11 @@
-~~Title:puṣkariṇyām~~
-{{description>in Puṣkariṇī; in Puṣkariṇī, his wife.}}
+---json
+{
+    "name":"puṣkariṇyām",
+    "h1":"puṣkariṇyām",
+    "title":"puṣkariṇyām",
+    "description":"in Puṣkariṇī; in Puṣkariṇī, his wife."
+}
+---
 
 ==== puṣkariṇyām  ====
   * in Puṣkariṇī --- [[books:sb:4:13:14|SB 4.13.14]]

@@ -1,5 +1,11 @@
-~~Title:āsurīṇām~~
-{{description>displayed by the demon.}}
+---json
+{
+    "name":"āsurīṇām",
+    "h1":"āsurīṇām",
+    "title":"āsurīṇām",
+    "description":"displayed by the demon."
+}
+---
 
 ==== āsurīṇām  ====
   * displayed by the demon --- [[books:sb:3:19:22|SB 3.19.22]]

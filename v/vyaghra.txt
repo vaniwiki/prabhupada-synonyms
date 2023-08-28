@@ -1,5 +1,11 @@
-~~Title:vyāghra~~
-{{description>a tiger; the tiger; tiger; tigers.}}
+---json
+{
+    "name":"vyāghra",
+    "h1":"vyāghra",
+    "title":"vyāghra",
+    "description":"a tiger; the tiger; tiger; tigers."
+}
+---
 
 ==== vyāghra  ====
   * a tiger --- [[books:cc:madhya:17:28|Madhya 17.28]]

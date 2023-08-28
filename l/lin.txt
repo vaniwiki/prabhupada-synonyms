@@ -1,5 +1,11 @@
-~~Title:liṅ~~
-{{description>an injunction of the imperative mood.}}
+---json
+{
+    "name":"liṅ",
+    "h1":"liṅ",
+    "title":"liṅ",
+    "description":"an injunction of the imperative mood."
+}
+---
 
 ==== vidhi-liṅ  ====
   * an injunction of the imperative mood --- [[books:cc:adi:4:35|Ādi 4.35]]

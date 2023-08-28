@@ -1,5 +1,11 @@
-~~Title:abhīṣṭa~~
-{{description>desire; desired.}}
+---json
+{
+    "name":"abhīṣṭa",
+    "h1":"abhīṣṭa",
+    "title":"abhīṣṭa",
+    "description":"desire; desired."
+}
+---
 
 ==== abhīṣṭa  ====
   * desire --- [[books:cc:antya:10:148|Antya 10.148]]

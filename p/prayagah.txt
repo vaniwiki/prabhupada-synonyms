@@ -1,5 +1,11 @@
-~~Title:prayāgaḥ~~
-{{description>Allahabad, at the confluence of the two sacred rivers Ganges and Yamunā.}}
+---json
+{
+    "name":"prayāgaḥ",
+    "h1":"prayāgaḥ",
+    "title":"prayāgaḥ",
+    "description":"Allahabad, at the confluence of the two sacred rivers Ganges and Yamunā."
+}
+---
 
 ==== prayāgaḥ  ====
   * Allahabad, at the confluence of the two sacred rivers Ganges and Yamunā --- [[books:sb:7:14:30-33|SB 7.14.30-33]]

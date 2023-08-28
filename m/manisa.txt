@@ -1,5 +1,11 @@
-~~Title:manīṣā~~
-{{description>thoughts.}}
+---json
+{
+    "name":"manīṣā",
+    "h1":"manīṣā",
+    "title":"manīṣā",
+    "description":"thoughts."
+}
+---
 
 ==== manīṣā  ====
   * thoughts --- [[books:sb:2:1:36|SB 2.1.36]]

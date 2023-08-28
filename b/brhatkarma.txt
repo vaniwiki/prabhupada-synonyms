@@ -1,5 +1,11 @@
-~~Title:bṛhatkarmā~~
-{{description>Bṛhatkarmā.}}
+---json
+{
+    "name":"bṛhatkarmā",
+    "h1":"bṛhatkarmā",
+    "title":"bṛhatkarmā",
+    "description":"Bṛhatkarmā."
+}
+---
 
 ==== bṛhatkarmā  ====
   * Bṛhatkarmā --- [[books:sb:9:23:11|SB 9.23.11]]

@@ -1,5 +1,11 @@
-~~Title:atho~~
-{{description>also; as such; as well; as well as; how; now; or in other words; otherwise; that; then; thereafter; therefore; therefore she decided to surrender unto the Supreme Lord; thereof; thereupon; thus.}}
+---json
+{
+    "name":"atho",
+    "h1":"atho",
+    "title":"atho",
+    "description":"also; as such; as well; as well as; how; now; or in other words; otherwise; that; then; thereafter; therefore; therefore she decided to surrender unto the Supreme Lord; thereof; thereupon; thus."
+}
+---
 
 ==== atho  ====
   * also --- [[books:sb:8:11:37|SB 8.11.37]], [[books:cc:adi:7:94|Ādi 7.94]], [[books:cc:madhya:9:262|Madhya 9.262]], [[books:cc:madhya:23:41|Madhya 23.41]], [[books:cc:madhya:25:141|Madhya 25.141]], [[books:cc:antya:3:179|Antya 3.179]]

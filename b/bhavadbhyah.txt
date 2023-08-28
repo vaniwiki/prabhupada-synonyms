@@ -1,5 +1,11 @@
-~~Title:bhavadbhyaḥ~~
-{{description>from you.}}
+---json
+{
+    "name":"bhavadbhyaḥ",
+    "h1":"bhavadbhyaḥ",
+    "title":"bhavadbhyaḥ",
+    "description":"from you."
+}
+---
 
 ==== bhavadbhyaḥ  ====
   * from you --- [[books:sb:3:16:6|SB 3.16.6]]

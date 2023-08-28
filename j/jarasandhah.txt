@@ -1,5 +1,11 @@
-~~Title:jarāsandhaḥ~~
-{{description>Jarāsandha.}}
+---json
+{
+    "name":"jarāsandhaḥ",
+    "h1":"jarāsandhaḥ",
+    "title":"jarāsandhaḥ",
+    "description":"Jarāsandha."
+}
+---
 
 ==== jarāsandhaḥ  ====
   * Jarāsandha --- [[books:sb:9:22:8|SB 9.22.8]]

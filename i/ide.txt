@@ -1,5 +1,11 @@
-~~Title:īḍe~~
-{{description>I offer my obeisances; I offer my respectful obeisances.}}
+---json
+{
+    "name":"īḍe",
+    "h1":"īḍe",
+    "title":"īḍe",
+    "description":"I offer my obeisances; I offer my respectful obeisances."
+}
+---
 
 ==== īḍe  ====
   * I offer my obeisances --- [[books:sb:8:3:20-21|SB 8.3.20-21]]

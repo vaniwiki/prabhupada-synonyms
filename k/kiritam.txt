@@ -1,5 +1,11 @@
-~~Title:kirīṭam~~
-{{description>crown; helmet.}}
+---json
+{
+    "name":"kirīṭam",
+    "h1":"kirīṭam",
+    "title":"kirīṭam",
+    "description":"crown; helmet."
+}
+---
 
 ==== kirīṭam  ====
   * crown --- [[books:sb:3:15:41|SB 3.15.41]]

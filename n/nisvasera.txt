@@ -1,5 +1,11 @@
-~~Title:niśvāsera~~
-{{description>of the exhalations.}}
+---json
+{
+    "name":"niśvāsera",
+    "h1":"niśvāsera",
+    "title":"niśvāsera",
+    "description":"of the exhalations."
+}
+---
 
 ==== niśvāsera  ====
   * of the exhalations --- [[books:cc:madhya:20:324|Madhya 20.324]]

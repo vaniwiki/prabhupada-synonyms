@@ -1,5 +1,11 @@
-~~Title:nityadā~~
-{{description>always; constantly; eternally; regularly.}}
+---json
+{
+    "name":"nityadā",
+    "h1":"nityadā",
+    "title":"nityadā",
+    "description":"always; constantly; eternally; regularly."
+}
+---
 
 ==== nityadā  ====
   * always --- [[books:sb:3:12:51|SB 3.12.51]], [[books:sb:4:7:61|SB 4.7.61]], [[books:sb:4:8:42|SB 4.8.42]], [[books:sb:4:21:43|SB 4.21.43]], [[books:sb:4:29:38|SB 4.29.38]]

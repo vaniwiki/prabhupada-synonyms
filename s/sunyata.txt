@@ -1,5 +1,11 @@
-~~Title:śūnyatā~~
-{{description>vacancy.}}
+---json
+{
+    "name":"śūnyatā",
+    "h1":"śūnyatā",
+    "title":"śūnyatā",
+    "description":"vacancy."
+}
+---
 
 ==== śūnyatā  ====
   * vacancy --- [[books:cc:madhya:2:14|Madhya 2.14]]

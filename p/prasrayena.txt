@@ -1,5 +1,11 @@
-~~Title:praśrayeṇa~~
-{{description>by meekness; with humility; with modesty.}}
+---json
+{
+    "name":"praśrayeṇa",
+    "h1":"praśrayeṇa",
+    "title":"praśrayeṇa",
+    "description":"by meekness; with humility; with modesty."
+}
+---
 
 ==== praśrayeṇa  ====
   * by meekness --- [[books:sb:2:9:41|SB 2.9.41]]

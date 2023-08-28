@@ -1,5 +1,11 @@
-~~Title:avasthitam~~
-{{description>being situated; existing; individually staying; remaining; situated; situated there; standing.}}
+---json
+{
+    "name":"avasthitam",
+    "h1":"avasthitam",
+    "title":"avasthitam",
+    "description":"being situated; existing; individually staying; remaining; situated; situated there; standing."
+}
+---
 
 ==== avasthitam  ====
   * being situated --- [[books:sb:7:9:3|SB 7.9.3]]

@@ -1,5 +1,11 @@
-~~Title:ajānantaḥ~~
-{{description>not knowing; without knowing; without spiritual knowledge.}}
+---json
+{
+    "name":"ajānantaḥ",
+    "h1":"ajānantaḥ",
+    "title":"ajānantaḥ",
+    "description":"not knowing; without knowing; without spiritual knowledge."
+}
+---
 
 ==== ajānantaḥ  ====
   * not knowing --- [[books:bg:9:11|Bg. 9.11]]

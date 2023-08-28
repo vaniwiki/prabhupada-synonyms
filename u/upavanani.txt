@@ -1,5 +1,11 @@
-~~Title:upavanāni~~
-{{description>nursery gardens.}}
+---json
+{
+    "name":"upavanāni",
+    "h1":"upavanāni",
+    "title":"upavanāni",
+    "description":"nursery gardens."
+}
+---
 
 ==== upavanāni  ====
   * nursery gardens --- [[books:sb:1:6:11|SB 1.6.11]]

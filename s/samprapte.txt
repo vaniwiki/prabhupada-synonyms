@@ -1,5 +1,11 @@
-~~Title:samprāpte~~
-{{description>when available.}}
+---json
+{
+    "name":"samprāpte",
+    "h1":"samprāpte",
+    "title":"samprāpte",
+    "description":"when available."
+}
+---
 
 ==== samprāpte  ====
   * when available --- [[books:sb:7:15:5|SB 7.15.5]]

@@ -1,5 +1,11 @@
-~~Title:citra~~
-{{description>beautiful; painted; pictures; variegated; various; with varieties of; wonderful.}}
+---json
+{
+    "name":"citra",
+    "h1":"citra",
+    "title":"citra",
+    "description":"beautiful; painted; pictures; variegated; various; with varieties of; wonderful."
+}
+---
 
 ==== citra  ====
   * beautiful --- [[books:sb:3:18:9|SB 3.18.9]]

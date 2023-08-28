@@ -1,5 +1,11 @@
-~~Title:svakiya~~
-{{description>personal.}}
+---json
+{
+    "name":"svakiya",
+    "h1":"svakiya",
+    "title":"svakiya",
+    "description":"personal."
+}
+---
 
 ==== svakīya  ====
   * personal --- [[books:cc:madhya:6:203|Madhya 6.203]]

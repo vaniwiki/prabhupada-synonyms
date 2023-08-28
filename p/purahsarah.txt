@@ -1,5 +1,11 @@
-~~Title:purahsarah~~
-{{description>keeping the respective groups of calves in front.}}
+---json
+{
+    "name":"purahsarah",
+    "h1":"purahsarah",
+    "title":"purahsarah",
+    "description":"keeping the respective groups of calves in front."
+}
+---
 
 ==== vatsa-puraḥsaraḥ  ====
   * keeping the respective groups of calves in front --- [[books:sb:10:12:1|SB 10.12.1]]

@@ -1,5 +1,11 @@
-~~Title:praśākhā~~
-{{description>subbranches.}}
+---json
+{
+    "name":"praśākhā",
+    "h1":"praśākhā",
+    "title":"praśākhā",
+    "description":"subbranches."
+}
+---
 
 ==== praśākhā  ====
   * subbranches --- [[books:cc:adi:11:5|Ādi 11.5]]

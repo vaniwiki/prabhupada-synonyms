@@ -1,5 +1,11 @@
-~~Title:nīlācaleyāba~~
-{{description>I shall go to Nīlācala (Jagannātha Purī).}}
+---json
+{
+    "name":"nīlācaleyāba",
+    "h1":"nīlācaleyāba",
+    "title":"nīlācaleyāba",
+    "description":"I shall go to Nīlācala (Jagannātha Purī)."
+}
+---
 
 ==== nīlācaleyāba  ====
   * I shall go to Nīlācala (Jagannātha Purī) --- [[books:cc:madhya:1:231|Madhya 1.231]]

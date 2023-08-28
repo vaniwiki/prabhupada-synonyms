@@ -1,5 +1,11 @@
-~~Title:sūkaraiḥ~~
-{{description>on the backs of boars.}}
+---json
+{
+    "name":"sūkaraiḥ",
+    "h1":"sūkaraiḥ",
+    "title":"sūkaraiḥ",
+    "description":"on the backs of boars."
+}
+---
 
 ==== sūkaraiḥ  ====
   * on the backs of boars --- [[books:sb:8:10:10-12|SB 8.10.10-12]]

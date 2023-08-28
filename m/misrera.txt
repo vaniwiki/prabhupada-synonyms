@@ -1,5 +1,11 @@
-~~Title:miśrera~~
-{{description>and of Jagannātha Miśra; Jagannātha Miśra; of Jagannātha Miśra; of Kāśī Miśra; of Pradyumna Miśra.}}
+---json
+{
+    "name":"miśrera",
+    "h1":"miśrera",
+    "title":"miśrera",
+    "description":"and of Jagannātha Miśra; Jagannātha Miśra; of Jagannātha Miśra; of Kāśī Miśra; of Pradyumna Miśra."
+}
+---
 
 ==== miśrera  ====
   * and of Jagannātha Miśra --- [[books:cc:adi:14:20|Ādi 14.20]], [[books:cc:adi:15:13|Ādi 15.13]]

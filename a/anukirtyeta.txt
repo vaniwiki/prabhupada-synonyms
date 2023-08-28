@@ -1,5 +1,11 @@
-~~Title:anukīrtyeta~~
-{{description>is described.}}
+---json
+{
+    "name":"anukīrtyeta",
+    "h1":"anukīrtyeta",
+    "title":"anukīrtyeta",
+    "description":"is described."
+}
+---
 
 ==== anukīrtyeta  ====
   * is described --- [[books:sb:8:23:31|SB 8.23.31]]

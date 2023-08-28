@@ -1,5 +1,11 @@
-~~Title:chanda~~
-{{description>who are followers of the whims of death.}}
+---json
+{
+    "name":"chanda",
+    "h1":"chanda",
+    "title":"chanda",
+    "description":"who are followers of the whims of death."
+}
+---
 
 ==== chanda-anuvartinaḥ  ====
   * who are followers of the whims of death --- [[books:sb:8:16:4|SB 8.16.4]]

@@ -1,5 +1,11 @@
-~~Title:jhāmaṭapura~~
-{{description>Jhāmaṭapura.}}
+---json
+{
+    "name":"jhāmaṭapura",
+    "h1":"jhāmaṭapura",
+    "title":"jhāmaṭapura",
+    "description":"Jhāmaṭapura."
+}
+---
 
 ==== jhāmaṭapura  ====
   * Jhāmaṭapura --- [[books:cc:adi:5:181|Ādi 5.181]]

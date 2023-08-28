@@ -1,5 +1,11 @@
-~~Title:anugatān~~
-{{description>the followers of worldly affairs.}}
+---json
+{
+    "name":"anugatān",
+    "h1":"anugatān",
+    "title":"anugatān",
+    "description":"the followers of worldly affairs."
+}
+---
 
 ==== loka-anugatān  ====
   * the followers of worldly affairs --- [[books:sb:3:21:17|SB 3.21.17]]

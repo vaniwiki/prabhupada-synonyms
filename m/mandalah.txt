@@ -1,5 +1,11 @@
-~~Title:maṇḍalaḥ~~
-{{description>with a circle of favorite personalities.}}
+---json
+{
+    "name":"maṇḍalaḥ",
+    "h1":"maṇḍalaḥ",
+    "title":"maṇḍalaḥ",
+    "description":"with a circle of favorite personalities."
+}
+---
 
 ==== priya-maṇḍalaḥ  ====
   * with a circle of favorite personalities --- [[books:cc:madhya:23:82-83|Madhya 23.82-83]]

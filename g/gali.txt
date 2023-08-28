@@ -1,5 +1,11 @@
-~~Title:gali~~
-{{description>abusive language; amusement; calling by ill names.}}
+---json
+{
+    "name":"gali",
+    "h1":"gali",
+    "title":"gali",
+    "description":"abusive language; amusement; calling by ill names."
+}
+---
 
 ==== gāli  ====
   * abusive language --- [[books:cc:madhya:24:237|Madhya 24.237]]

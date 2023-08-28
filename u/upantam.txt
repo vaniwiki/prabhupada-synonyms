@@ -1,5 +1,11 @@
-~~Title:upāntām~~
-{{description>including the seas.}}
+---json
+{
+    "name":"upāntām",
+    "h1":"upāntām",
+    "title":"upāntām",
+    "description":"including the seas."
+}
+---
 
 ==== paridhi-upāntām  ====
   * including the seas --- [[books:sb:1:10:3|SB 1.10.3]]

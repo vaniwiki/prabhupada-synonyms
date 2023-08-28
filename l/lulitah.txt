@@ -1,5 +1,11 @@
-~~Title:lulitah~~
-{{description>uprooted.}}
+---json
+{
+    "name":"lulitah",
+    "h1":"lulitah",
+    "title":"lulitah",
+    "description":"uprooted."
+}
+---
 
 ==== lulitaḥ  ====
   * uprooted --- [[books:sb:3:19:26|SB 3.19.26]]

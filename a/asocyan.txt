@@ -1,5 +1,11 @@
-~~Title:aśocyān~~
-{{description>innocent; that which is not worthy of lamentation.}}
+---json
+{
+    "name":"aśocyān",
+    "h1":"aśocyān",
+    "title":"aśocyān",
+    "description":"innocent; that which is not worthy of lamentation."
+}
+---
 
 ==== aśocyān  ====
   * innocent --- [[books:sb:1:17:6|SB 1.17.6]]

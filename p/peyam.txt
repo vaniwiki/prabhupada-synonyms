@@ -1,5 +1,11 @@
-~~Title:peyam~~
-{{description>drink.}}
+---json
+{
+    "name":"peyam",
+    "h1":"peyam",
+    "title":"peyam",
+    "description":"drink."
+}
+---
 
 ==== peyam  ====
   * drink --- [[books:sb:8:18:32|SB 8.18.32]]

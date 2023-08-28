@@ -1,5 +1,11 @@
-~~Title:abhisandhitam~~
-{{description>thus preparing himself.}}
+---json
+{
+    "name":"abhisandhitam",
+    "h1":"abhisandhitam",
+    "title":"abhisandhitam",
+    "description":"thus preparing himself."
+}
+---
 
 ==== abhisandhitam  ====
   * thus preparing himself --- [[books:sb:4:19:27|SB 4.19.27]]

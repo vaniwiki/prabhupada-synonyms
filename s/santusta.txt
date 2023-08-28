@@ -1,5 +1,11 @@
-~~Title:santusta~~
-{{description>pleased; satisfied.}}
+---json
+{
+    "name":"santusta",
+    "h1":"santusta",
+    "title":"santusta",
+    "description":"pleased; satisfied."
+}
+---
 
 ==== santuṣṭa  ====
   * pleased --- [[books:cc:adi:15:15|Ādi 15.15]]

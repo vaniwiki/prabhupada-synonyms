@@ -1,5 +1,11 @@
-~~Title:kampita~~
-{{description>trembling.}}
+---json
+{
+    "name":"kampita",
+    "h1":"kampita",
+    "title":"kampita",
+    "description":"trembling."
+}
+---
 
 ==== kampita  ====
   * trembling --- [[books:sb:8:12:19|SB 8.12.19]]

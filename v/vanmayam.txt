@@ -1,5 +1,11 @@
-~~Title:vāṅmayaṁ~~
-{{description>of the voice.}}
+---json
+{
+    "name":"vāṅmayaṁ",
+    "h1":"vāṅmayaṁ",
+    "title":"vāṅmayaṁ",
+    "description":"of the voice."
+}
+---
 
 ==== vāṅmayaṁ  ====
   * of the voice --- [[books:bg:17:15|Bg. 17.15]]

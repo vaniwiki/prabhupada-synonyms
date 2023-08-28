@@ -1,5 +1,11 @@
-~~Title:upasṛtya~~
-{{description>approaching; having approached nearer; obtaining shelter at; reaching up.}}
+---json
+{
+    "name":"upasṛtya",
+    "h1":"upasṛtya",
+    "title":"upasṛtya",
+    "description":"approaching; having approached nearer; obtaining shelter at; reaching up."
+}
+---
 
 ==== upasṛtya  ====
   * approaching --- [[books:sb:4:12:22|SB 4.12.22]]

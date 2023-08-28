@@ -1,5 +1,11 @@
-~~Title:aramah~~
-{{description>relaxation; the gardens; the satisfaction.}}
+---json
+{
+    "name":"aramah",
+    "h1":"aramah",
+    "title":"aramah",
+    "description":"relaxation; the gardens; the satisfaction."
+}
+---
 
 ==== ārāmāḥ  ====
   * relaxation --- [[books:sb:3:2:9|SB 3.2.9]]

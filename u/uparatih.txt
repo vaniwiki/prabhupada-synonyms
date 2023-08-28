@@ -1,5 +1,11 @@
-~~Title:uparatiḥ~~
-{{description>completely stopping; detachment; indifference to loss and gain.}}
+---json
+{
+    "name":"uparatiḥ",
+    "h1":"uparatiḥ",
+    "title":"uparatiḥ",
+    "description":"completely stopping; detachment; indifference to loss and gain."
+}
+---
 
 ==== uparatiḥ  ====
   * completely stopping --- [[books:sb:7:13:27|SB 7.13.27]]

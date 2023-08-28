@@ -1,5 +1,11 @@
-~~Title:śapiba~~
-{{description>I shall curse.}}
+---json
+{
+    "name":"śapiba",
+    "h1":"śapiba",
+    "title":"śapiba",
+    "description":"I shall curse."
+}
+---
 
 ==== śapiba  ====
   * I shall curse --- [[books:cc:adi:17:62|Ādi 17.62]]

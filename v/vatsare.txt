@@ -1,5 +1,11 @@
-~~Title:vatsare~~
-{{description>in the year.}}
+---json
+{
+    "name":"vatsare",
+    "h1":"vatsare",
+    "title":"vatsare",
+    "description":"in the year."
+}
+---
 
 ==== vatsare  ====
   * in the year --- [[books:cc:madhya:1:46|Madhya 1.46]]

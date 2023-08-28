@@ -1,5 +1,11 @@
-~~Title:bhajati~~
-{{description>accepts; achieves; cares for; enjoys; renders devotional service; serves in devotional service.}}
+---json
+{
+    "name":"bhajati",
+    "h1":"bhajati",
+    "title":"bhajati",
+    "description":"accepts; achieves; cares for; enjoys; renders devotional service; serves in devotional service."
+}
+---
 
 ==== bhajati  ====
   * accepts --- [[books:sb:4:31:21|SB 4.31.21]]

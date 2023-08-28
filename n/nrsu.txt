@@ -1,5 +1,11 @@
-~~Title:nṛṣu~~
-{{description>among all human beings; among men; and men; in human society; in man.}}
+---json
+{
+    "name":"nṛṣu",
+    "h1":"nṛṣu",
+    "title":"nṛṣu",
+    "description":"among all human beings; among men; and men; in human society; in man."
+}
+---
 
 ==== nṛṣu  ====
   * among all human beings --- [[books:sb:7:11:8-12|SB 7.11.8-12]]

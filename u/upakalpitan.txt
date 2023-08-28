@@ -1,5 +1,11 @@
-~~Title:upakalpitān~~
-{{description>created.}}
+---json
+{
+    "name":"upakalpitān",
+    "h1":"upakalpitān",
+    "title":"upakalpitān",
+    "description":"created."
+}
+---
 
 ==== upakalpitān  ====
   * created --- [[books:sb:5:19:29-30|SB 5.19.29-30]]

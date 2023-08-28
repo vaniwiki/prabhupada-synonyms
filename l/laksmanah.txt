@@ -1,5 +1,11 @@
-~~Title:lakṣmaṇaḥ~~
-{{description>Lakṣmaṇa.}}
+---json
+{
+    "name":"lakṣmaṇaḥ",
+    "h1":"lakṣmaṇaḥ",
+    "title":"lakṣmaṇaḥ",
+    "description":"Lakṣmaṇa."
+}
+---
 
 ==== lakṣmaṇaḥ  ====
   * Lakṣmaṇa --- [[books:sb:9:10:45-46|SB 9.10.45-46]]

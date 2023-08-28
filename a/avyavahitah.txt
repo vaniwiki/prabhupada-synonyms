@@ -1,5 +1,11 @@
-~~Title:avyavahitaḥ~~
-{{description>without stopping.}}
+---json
+{
+    "name":"avyavahitaḥ",
+    "h1":"avyavahitaḥ",
+    "title":"avyavahitaḥ",
+    "description":"without stopping."
+}
+---
 
 ==== avyavahitaḥ  ====
   * without stopping --- [[books:sb:4:12:17|SB 4.12.17]]

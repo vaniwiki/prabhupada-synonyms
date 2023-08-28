@@ -1,5 +1,11 @@
-~~Title:rahu~~
-{{description>let alone; let be; let him remain; let remain; let them remain; let there be; may stay.}}
+---json
+{
+    "name":"rahu",
+    "h1":"rahu",
+    "title":"rahu",
+    "description":"let alone; let be; let him remain; let remain; let them remain; let there be; may stay."
+}
+---
 
 ==== rahu  ====
   * let alone --- [[books:cc:adi:6:69-70|Ādi 6.69-70]], [[books:cc:madhya:12:48|Madhya 12.48]]

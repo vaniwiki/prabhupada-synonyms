@@ -1,5 +1,11 @@
-~~Title:prayāsaiḥ~~
-{{description>endeavoring for.}}
+---json
+{
+    "name":"prayāsaiḥ",
+    "h1":"prayāsaiḥ",
+    "title":"prayāsaiḥ",
+    "description":"endeavoring for."
+}
+---
 
 ==== prayāsaiḥ  ====
   * endeavoring for --- [[books:sb:2:2:4|SB 2.2.4]]

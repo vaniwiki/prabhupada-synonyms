@@ -1,5 +1,11 @@
-~~Title:aditya~~
-{{description>by Aditi.}}
+---json
+{
+    "name":"aditya",
+    "h1":"aditya",
+    "title":"aditya",
+    "description":"by Aditi."
+}
+---
 
 ==== adityā  ====
   * by Aditi --- [[books:sb:8:16:18|SB 8.16.18]], [[books:sb:8:17:11|SB 8.17.11]]

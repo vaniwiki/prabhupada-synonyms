@@ -1,5 +1,11 @@
-~~Title:tathāpiha~~
-{{description>still; still, certainly.}}
+---json
+{
+    "name":"tathāpiha",
+    "h1":"tathāpiha",
+    "title":"tathāpiha",
+    "description":"still; still, certainly."
+}
+---
 
 ==== tathāpiha  ====
   * still --- [[books:cc:adi:6:52|Ādi 6.52]]

@@ -1,5 +1,11 @@
-~~Title:anekadhā~~
-{{description>in many ways; many; many kinds.}}
+---json
+{
+    "name":"anekadhā",
+    "h1":"anekadhā",
+    "title":"anekadhā",
+    "description":"in many ways; many; many kinds."
+}
+---
 
 ==== anekadhā  ====
   * in many ways --- [[books:sb:8:18:23|SB 8.18.23]]

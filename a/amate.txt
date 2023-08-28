@@ -1,5 +1,11 @@
-~~Title:āmāte~~
-{{description>in Me; to me; unto Me; upon Me; within me.}}
+---json
+{
+    "name":"āmāte",
+    "h1":"āmāte",
+    "title":"āmāte",
+    "description":"in Me; to me; unto Me; upon Me; within me."
+}
+---
 
 ==== āmāte  ====
   * in Me --- [[books:cc:adi:5:89|Ādi 5.89]], [[books:cc:madhya:11:25|Madhya 11.25]], [[books:cc:madhya:11:189|Madhya 11.189]]

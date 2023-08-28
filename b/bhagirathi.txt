@@ -1,5 +1,11 @@
-~~Title:bhāgīrathī~~
-{{description>the River Ganges.}}
+---json
+{
+    "name":"bhāgīrathī",
+    "h1":"bhāgīrathī",
+    "title":"bhāgīrathī",
+    "description":"the River Ganges."
+}
+---
 
 ==== bhāgīrathī  ====
   * the River Ganges --- [[books:cc:madhya:15:135|Madhya 15.135]]

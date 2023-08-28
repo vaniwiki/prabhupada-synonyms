@@ -1,5 +1,11 @@
-~~Title:avaśaḥ~~
-{{description>automatically; helpless; helplessly; imperceptibly; spontaneously; spontaneously, automatically; under the control of providence.}}
+---json
+{
+    "name":"avaśaḥ",
+    "h1":"avaśaḥ",
+    "title":"avaśaḥ",
+    "description":"automatically; helpless; helplessly; imperceptibly; spontaneously; spontaneously, automatically; under the control of providence."
+}
+---
 
 ==== avaśaḥ  ====
   * automatically --- [[books:bg:8:19|Bg. 8.19]], [[books:sb:6:1:53|SB 6.1.53]]

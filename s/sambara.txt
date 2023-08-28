@@ -1,5 +1,11 @@
-~~Title:śambara~~
-{{description>King Śambara; O Śambara; Śambara.}}
+---json
+{
+    "name":"śambara",
+    "h1":"śambara",
+    "title":"śambara",
+    "description":"King Śambara; O Śambara; Śambara."
+}
+---
 
 ==== śambara  ====
   * King Śambara --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

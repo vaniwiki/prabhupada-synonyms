@@ -1,5 +1,11 @@
-~~Title:caidya~~
-{{description>Caidya (Damaghoṣa); King Śiśupāla.}}
+---json
+{
+    "name":"caidya",
+    "h1":"caidya",
+    "title":"caidya",
+    "description":"Caidya (Damaghoṣa); King Śiśupāla."
+}
+---
 
 ==== caidya  ====
   * Caidya (Damaghoṣa) --- [[books:sb:9:24:2|SB 9.24.2]]

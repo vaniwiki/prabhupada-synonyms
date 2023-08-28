@@ -1,5 +1,11 @@
-~~Title:sannyasi~~
-{{description>of the mendicant, Mādhavendra Purī.}}
+---json
+{
+    "name":"sannyasi",
+    "h1":"sannyasi",
+    "title":"sannyasi",
+    "description":"of the mendicant, Mādhavendra Purī."
+}
+---
 
 ==== sannyāsi  ====
   * of the mendicant, Mādhavendra Purī --- [[books:cc:madhya:4:127|Madhya 4.127]]

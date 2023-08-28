@@ -1,5 +1,11 @@
-~~Title:kuṭumbam~~
-{{description>family; his dependent wife and children; the family; the family members or extended family members (like one's community, society, nation or union of nations).}}
+---json
+{
+    "name":"kuṭumbam",
+    "h1":"kuṭumbam",
+    "title":"kuṭumbam",
+    "description":"family; his dependent wife and children; the family; the family members or extended family members (like one's community, society, nation or union of nations)."
+}
+---
 
 ==== kuṭumbam  ====
   * family --- [[books:sb:3:30:30|SB 3.30.30]]

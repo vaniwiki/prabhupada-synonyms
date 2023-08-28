@@ -1,5 +1,11 @@
-~~Title:avanau~~
-{{description>on the ground; on the surface of the world.}}
+---json
+{
+    "name":"avanau",
+    "h1":"avanau",
+    "title":"avanau",
+    "description":"on the ground; on the surface of the world."
+}
+---
 
 ==== avanau  ====
   * on the ground --- [[books:sb:6:9:29-30|SB 6.9.29-30]]

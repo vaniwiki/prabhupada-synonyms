@@ -1,5 +1,11 @@
-~~Title:jātayoḥ~~
-{{description>after we two have taken birth.}}
+---json
+{
+    "name":"jātayoḥ",
+    "h1":"jātayoḥ",
+    "title":"jātayoḥ",
+    "description":"after we two have taken birth."
+}
+---
 
 ==== jātayoḥ  ====
   * after we two have taken birth --- [[books:sb:10:8:49|SB 10.8.49]]

@@ -1,5 +1,11 @@
-~~Title:dadau~~
-{{description>delivered; gave; gave as a gift; gave away; gave him; gave him permission; gave in charity; gave, offered; Kṛṣṇa gave; offered; pushed.}}
+---json
+{
+    "name":"dadau",
+    "h1":"dadau",
+    "title":"dadau",
+    "description":"delivered; gave; gave as a gift; gave away; gave him; gave him permission; gave in charity; gave, offered; Kṛṣṇa gave; offered; pushed."
+}
+---
 
 ==== dadau  ====
   * delivered --- [[books:sb:8:23:19|SB 8.23.19]], [[books:sb:9:7:23|SB 9.7.23]], [[books:cc:antya:6:327|Antya 6.327]]

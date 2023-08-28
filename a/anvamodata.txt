@@ -1,5 +1,11 @@
-~~Title:anvamodata~~
-{{description>gave her permission.}}
+---json
+{
+    "name":"anvamodata",
+    "h1":"anvamodata",
+    "title":"anvamodata",
+    "description":"gave her permission."
+}
+---
 
 ==== anvamodata  ====
   * gave her permission --- [[books:sb:8:7:41|SB 8.7.41]]

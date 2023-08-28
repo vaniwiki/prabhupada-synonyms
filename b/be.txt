@@ -1,5 +1,11 @@
-~~Title:'be~~
-{{description>will spoil.}}
+---json
+{
+    "name":"'be",
+    "h1":"'be",
+    "title":"'be",
+    "description":"will spoil."
+}
+---
 
 ==== nāśā 'be  ====
   * will spoil --- [[books:cc:madhya:1:271|Madhya 1.271]]

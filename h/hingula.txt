@@ -1,5 +1,11 @@
-~~Title:hiṅgula~~
-{{description>by the vermilion.}}
+---json
+{
+    "name":"hiṅgula",
+    "h1":"hiṅgula",
+    "title":"hiṅgula",
+    "description":"by the vermilion."
+}
+---
 
 ==== hiṅgula-bharaiḥ  ====
   * by the vermilion --- [[books:cc:madhya:8:195|Madhya 8.195]]

@@ -1,5 +1,11 @@
-~~Title:vadhvaḥ~~
-{{description>the cowherd damsels.}}
+---json
+{
+    "name":"vadhvaḥ",
+    "h1":"vadhvaḥ",
+    "title":"vadhvaḥ",
+    "description":"the cowherd damsels."
+}
+---
 
 ==== gopa-vadhvaḥ  ====
   * the cowherd damsels --- [[books:sb:1:9:40|SB 1.9.40]]

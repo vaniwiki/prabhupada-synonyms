@@ -1,5 +1,11 @@
-~~Title:upāyaiḥ~~
-{{description>by the means; means.}}
+---json
+{
+    "name":"upāyaiḥ",
+    "h1":"upāyaiḥ",
+    "title":"upāyaiḥ",
+    "description":"by the means; means."
+}
+---
 
 ==== upāyaiḥ  ====
   * by the means --- [[books:sb:5:4:16|SB 5.4.16]]

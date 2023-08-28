@@ -1,5 +1,11 @@
-~~Title:jigyuḥ~~
-{{description>conquered.}}
+---json
+{
+    "name":"jigyuḥ",
+    "h1":"jigyuḥ",
+    "title":"jigyuḥ",
+    "description":"conquered."
+}
+---
 
 ==== jigyuḥ  ====
   * conquered --- [[books:sb:4:9:52|SB 4.9.52]], [[books:sb:10:8:17|SB 10.8.17]]

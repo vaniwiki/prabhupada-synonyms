@@ -1,5 +1,11 @@
-~~Title:pāṁsuṣu~~
-{{description>in the dust.}}
+---json
+{
+    "name":"pāṁsuṣu",
+    "h1":"pāṁsuṣu",
+    "title":"pāṁsuṣu",
+    "description":"in the dust."
+}
+---
 
 ==== pāṁsuṣu  ====
   * in the dust --- [[books:sb:3:1:32|SB 3.1.32]]

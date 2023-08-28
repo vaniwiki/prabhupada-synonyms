@@ -1,5 +1,11 @@
-~~Title:haila~~
-{{description>appeared; became; became fulfilled; began; happened; has become; has been; he has become; immediately becomes; it became; it has become; it so became; it so happened; it was; passed; performed; taking place; there arrived; there happened; there have been; there is; there was; there were; they became; took place; wanted; was; was there; were.}}
+---json
+{
+    "name":"haila",
+    "h1":"haila",
+    "title":"haila",
+    "description":"appeared; became; became fulfilled; began; happened; has become; has been; he has become; immediately becomes; it became; it has become; it so became; it so happened; it was; passed; performed; taking place; there arrived; there happened; there have been; there is; there was; there were; they became; took place; wanted; was; was there; were."
+}
+---
 
 ==== haila  ====
   * appeared --- [[books:cc:adi:13:72|Ādi 13.72]], [[books:cc:adi:17:240|Ādi 17.240]], [[books:cc:madhya:4:204|Madhya 4.204]], [[books:cc:madhya:8:54|Madhya 8.54]], [[books:cc:antya:3:209|Antya 3.209]], [[books:cc:antya:3:244|Antya 3.244]]

@@ -1,5 +1,11 @@
-~~Title:anunītena~~
-{{description>pacified.}}
+---json
+{
+    "name":"anunītena",
+    "h1":"anunītena",
+    "title":"anunītena",
+    "description":"pacified."
+}
+---
 
 ==== anunītena  ====
   * pacified --- [[books:sb:4:7:1|SB 4.7.1]]

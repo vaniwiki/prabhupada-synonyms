@@ -1,5 +1,11 @@
-~~Title:sāṅkhyāyanāya~~
-{{description>unto the great sage Sāṅkhyāyana.}}
+---json
+{
+    "name":"sāṅkhyāyanāya",
+    "h1":"sāṅkhyāyanāya",
+    "title":"sāṅkhyāyanāya",
+    "description":"unto the great sage Sāṅkhyāyana."
+}
+---
 
 ==== sāṅkhyāyanāya  ====
   * unto the great sage Sāṅkhyāyana --- [[books:sb:3:8:7|SB 3.8.7]]

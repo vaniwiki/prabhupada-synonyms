@@ -1,5 +1,11 @@
-~~Title:anavaraḥ~~
-{{description>in no way inferior.}}
+---json
+{
+    "name":"anavaraḥ",
+    "h1":"anavaraḥ",
+    "title":"anavaraḥ",
+    "description":"in no way inferior."
+}
+---
 
 ==== anavaraḥ  ====
   * in no way inferior --- [[books:sb:3:20:3|SB 3.20.3]]

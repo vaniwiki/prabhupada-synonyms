@@ -1,5 +1,11 @@
-~~Title:mamatā~~
-{{description>affection; everything belonging to the material body is mine; intimacy; the sense of ownership.}}
+---json
+{
+    "name":"mamatā",
+    "h1":"mamatā",
+    "title":"mamatā",
+    "description":"affection; everything belonging to the material body is mine; intimacy; the sense of ownership."
+}
+---
 
 ==== mamatā  ====
   * affection --- [[books:cc:antya:4:171|Antya 4.171]]

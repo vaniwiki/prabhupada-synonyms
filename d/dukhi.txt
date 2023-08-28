@@ -1,5 +1,11 @@
-~~Title:dukhī~~
-{{description>unhappy.}}
+---json
+{
+    "name":"dukhī",
+    "h1":"dukhī",
+    "title":"dukhī",
+    "description":"unhappy."
+}
+---
 
 ==== dukhī  ====
   * unhappy --- [[books:cc:adi:17:49|Ādi 17.49]]

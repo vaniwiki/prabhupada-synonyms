@@ -1,5 +1,11 @@
-~~Title:samīhitam~~
-{{description>activities, plan; desire; his purpose; which has been created (by You).}}
+---json
+{
+    "name":"samīhitam",
+    "h1":"samīhitam",
+    "title":"samīhitam",
+    "description":"activities, plan; desire; his purpose; which has been created (by You)."
+}
+---
 
 ==== samīhitam  ====
   * activities, plan --- [[books:sb:4:17:32|SB 4.17.32]]

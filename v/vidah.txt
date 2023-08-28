@@ -1,5 +1,11 @@
-~~Title:vidaḥ~~
-{{description>greatly learned; those who perceive; understand.}}
+---json
+{
+    "name":"vidaḥ",
+    "h1":"vidaḥ",
+    "title":"vidaḥ",
+    "description":"greatly learned; those who perceive; understand."
+}
+---
 
 ==== vidaḥ  ====
   * greatly learned --- [[books:sb:3:11:16|SB 3.11.16]]

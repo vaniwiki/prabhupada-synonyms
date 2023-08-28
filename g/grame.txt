@@ -1,5 +1,11 @@
-~~Title:grāme~~
-{{description>in the locality; in the town; in the village; in Vārāṇasī; to a village; to the village; to the villages.}}
+---json
+{
+    "name":"grāme",
+    "h1":"grāme",
+    "title":"grāme",
+    "description":"in the locality; in the town; in the village; in Vārāṇasī; to a village; to the village; to the villages."
+}
+---
 
 ==== grāme  ====
   * in the locality --- [[books:sb:2:3:18|SB 2.3.18]], [[books:cc:madhya:25:18|Madhya 25.18]]

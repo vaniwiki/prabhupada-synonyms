@@ -1,5 +1,11 @@
-~~Title:vyathah~~
-{{description>becoming peaceful myself; freed from all distress; liberated from all material distress; relieved of his responsibility; without being sorry.}}
+---json
+{
+    "name":"vyathah",
+    "h1":"vyathah",
+    "title":"vyathah",
+    "description":"becoming peaceful myself; freed from all distress; liberated from all material distress; relieved of his responsibility; without being sorry."
+}
+---
 
 ==== gata-vyathaḥ  ====
   * becoming peaceful myself --- [[books:sb:7:2:7-8|SB 7.2.7-8]]

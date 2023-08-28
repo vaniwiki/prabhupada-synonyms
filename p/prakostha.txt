@@ -1,5 +1,11 @@
-~~Title:prakoṣṭha~~
-{{description>wrists.}}
+---json
+{
+    "name":"prakoṣṭha",
+    "h1":"prakoṣṭha",
+    "title":"prakoṣṭha",
+    "description":"wrists."
+}
+---
 
 ==== prakoṣṭha  ====
   * wrists --- [[books:sb:3:15:40|SB 3.15.40]]

@@ -1,5 +1,11 @@
-~~Title:nāśayāmi~~
-{{description>dispel.}}
+---json
+{
+    "name":"nāśayāmi",
+    "h1":"nāśayāmi",
+    "title":"nāśayāmi",
+    "description":"dispel."
+}
+---
 
 ==== nāśayāmi  ====
   * dispel --- [[books:bg:10:11|Bg. 10.11]]

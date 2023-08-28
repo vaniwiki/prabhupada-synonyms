@@ -1,5 +1,11 @@
-~~Title:ete~~
-{{description>all; all of them; all of these; all that is described; all the above-mentioned kings; all these (descriptions of astronomical calculations); all these; all these soldiers of the demigods; of all these physical elements; on this path (as recommended above); Ourselves; the demons; the sons begotten by Aṅgirā; these; these boys; these boys with their calves; these calves; they; this Kṛṣṇa and His associates, the cowherd boys; those.}}
+---json
+{
+    "name":"ete",
+    "h1":"ete",
+    "title":"ete",
+    "description":"all; all of them; all of these; all that is described; all the above-mentioned kings; all these (descriptions of astronomical calculations); all these; all these soldiers of the demigods; of all these physical elements; on this path (as recommended above); Ourselves; the demons; the sons begotten by Aṅgirā; these; these boys; these boys with their calves; these calves; they; this Kṛṣṇa and His associates, the cowherd boys; those."
+}
+---
 
 ==== ete  ====
   * all --- [[books:sb:4:1:46-47|SB 4.1.46-47]]

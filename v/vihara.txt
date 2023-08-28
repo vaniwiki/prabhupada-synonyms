@@ -1,5 +1,11 @@
-~~Title:vihāra~~
-{{description>blissful enjoyment; by pastimes; enjoyment; in relaxation; in the sexual enjoyment; manifestations; of enjoyment with a family; of pleasure; pastime; pastimes; pleasure houses; the activities; the pastimes; the pleasure grounds; while enjoying.}}
+---json
+{
+    "name":"vihāra",
+    "h1":"vihāra",
+    "title":"vihāra",
+    "description":"blissful enjoyment; by pastimes; enjoyment; in relaxation; in the sexual enjoyment; manifestations; of enjoyment with a family; of pleasure; pastime; pastimes; pleasure houses; the activities; the pastimes; the pleasure grounds; while enjoying."
+}
+---
 
 ==== vihāra  ====
   * blissful enjoyment --- [[books:cc:madhya:21:108|Madhya 21.108]]

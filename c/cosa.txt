@@ -1,5 +1,11 @@
-~~Title:coṣā~~
-{{description>sucked; that had been sucked.}}
+---json
+{
+    "name":"coṣā",
+    "h1":"coṣā",
+    "title":"coṣā",
+    "description":"sucked; that had been sucked."
+}
+---
 
 ==== coṣā  ====
   * sucked --- [[books:cc:antya:16:35|Antya 16.35]]

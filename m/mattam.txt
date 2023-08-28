@@ -1,5 +1,11 @@
-~~Title:mattam~~
-{{description>careless; intoxicated.}}
+---json
+{
+    "name":"mattam",
+    "h1":"mattam",
+    "title":"mattam",
+    "description":"careless; intoxicated."
+}
+---
 
 ==== mattam  ====
   * careless --- [[books:sb:1:7:36|SB 1.7.36]]

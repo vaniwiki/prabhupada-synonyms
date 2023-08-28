@@ -1,5 +1,11 @@
-~~Title:bṛhaspatim~~
-{{description>Bṛhaspati; the sage Bṛhaspati.}}
+---json
+{
+    "name":"bṛhaspatim",
+    "h1":"bṛhaspatim",
+    "title":"bṛhaspatim",
+    "description":"Bṛhaspati; the sage Bṛhaspati."
+}
+---
 
 ==== bṛhaspatim  ====
   * Bṛhaspati --- [[books:bg:10:24|Bg. 10.24]]

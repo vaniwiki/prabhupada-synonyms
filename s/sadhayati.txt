@@ -1,5 +1,11 @@
-~~Title:sādhayati~~
-{{description>causes to remain satisfied.}}
+---json
+{
+    "name":"sādhayati",
+    "h1":"sādhayati",
+    "title":"sādhayati",
+    "description":"causes to remain satisfied."
+}
+---
 
 ==== sādhayati  ====
   * causes to remain satisfied --- [[books:cc:adi:17:76|Ādi 17.76]], [[books:cc:madhya:20:137|Madhya 20.137]], [[books:cc:madhya:25:137|Madhya 25.137]], [[books:cc:antya:4:59|Antya 4.59]]

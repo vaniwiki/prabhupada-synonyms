@@ -1,5 +1,11 @@
-~~Title:bhrāmayitvā~~
-{{description>twirling around very severely.}}
+---json
+{
+    "name":"bhrāmayitvā",
+    "h1":"bhrāmayitvā",
+    "title":"bhrāmayitvā",
+    "description":"twirling around very severely."
+}
+---
 
 ==== bhrāmayitvā  ====
   * twirling around very severely --- [[books:sb:10:11:43|SB 10.11.43]]

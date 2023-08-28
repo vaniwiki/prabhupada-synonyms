@@ -1,5 +1,11 @@
-~~Title:kvaṇat~~
-{{description>tinkling with ankle bells.}}
+---json
+{
+    "name":"kvaṇat",
+    "h1":"kvaṇat",
+    "title":"kvaṇat",
+    "description":"tinkling with ankle bells."
+}
+---
 
 ==== kvaṇat  ====
   * tinkling with ankle bells --- [[books:sb:3:20:29|SB 3.20.29]]

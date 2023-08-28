@@ -1,5 +1,11 @@
-~~Title:prajāpatim~~
-{{description>Brahmā (the lord of created beings); Kaśyapa Muni, the Prajāpati; Prajāpati Dakṣa; unto the prajāpati (Dakṣa); who is a Prajāpati.}}
+---json
+{
+    "name":"prajāpatim",
+    "h1":"prajāpatim",
+    "title":"prajāpatim",
+    "description":"Brahmā (the lord of created beings); Kaśyapa Muni, the Prajāpati; Prajāpati Dakṣa; unto the prajāpati (Dakṣa); who is a Prajāpati."
+}
+---
 
 ==== prajāpatim  ====
   * Brahmā (the lord of created beings) --- [[books:sb:3:20:50|SB 3.20.50]]

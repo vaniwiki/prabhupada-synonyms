@@ -1,5 +1,11 @@
-~~Title:anvitam~~
-{{description>adorned; endowed with; interacted.}}
+---json
+{
+    "name":"anvitam",
+    "h1":"anvitam",
+    "title":"anvitam",
+    "description":"adorned; endowed with; interacted."
+}
+---
 
 ==== anvitam  ====
   * adorned --- [[books:sb:3:21:40|SB 3.21.40]]

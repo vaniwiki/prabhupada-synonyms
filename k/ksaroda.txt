@@ -1,5 +1,11 @@
-~~Title:kṣāroda~~
-{{description>the ocean of salt water.}}
+---json
+{
+    "name":"kṣāroda",
+    "h1":"kṣāroda",
+    "title":"kṣāroda",
+    "description":"the ocean of salt water."
+}
+---
 
 ==== kṣāroda  ====
   * the ocean of salt water --- [[books:sb:5:16:8|SB 5.16.8]]

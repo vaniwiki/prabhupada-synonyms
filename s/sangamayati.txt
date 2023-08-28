@@ -1,5 +1,11 @@
-~~Title:saṅgamayati~~
-{{description>causes to meet.}}
+---json
+{
+    "name":"saṅgamayati",
+    "h1":"saṅgamayati",
+    "title":"saṅgamayati",
+    "description":"causes to meet."
+}
+---
 
 ==== saṅgamayati  ====
   * causes to meet --- [[books:cc:antya:1:188|Antya 1.188]]

@@ -1,5 +1,11 @@
-~~Title:vibhīṣaṇāya~~
-{{description>unto Vibhīṣaṇa, the brother of Rāvaṇa.}}
+---json
+{
+    "name":"vibhīṣaṇāya",
+    "h1":"vibhīṣaṇāya",
+    "title":"vibhīṣaṇāya",
+    "description":"unto Vibhīṣaṇa, the brother of Rāvaṇa."
+}
+---
 
 ==== vibhīṣaṇāya  ====
   * unto Vibhīṣaṇa, the brother of Rāvaṇa --- [[books:sb:9:10:32|SB 9.10.32]]

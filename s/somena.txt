@@ -1,5 +1,11 @@
-~~Title:somena~~
-{{description>by drinking the intoxicant soma-rasa; with the soma.}}
+---json
+{
+    "name":"somena",
+    "h1":"somena",
+    "title":"somena",
+    "description":"by drinking the intoxicant soma-rasa; with the soma."
+}
+---
 
 ==== somena  ====
   * by drinking the intoxicant //soma-rasa// --- [[books:sb:9:2:28|SB 9.2.28]]

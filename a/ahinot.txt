@@ -1,5 +1,11 @@
-~~Title:ahinot~~
-{{description>discharged at him.}}
+---json
+{
+    "name":"ahinot",
+    "h1":"ahinot",
+    "title":"ahinot",
+    "description":"discharged at him."
+}
+---
 
 ==== ahinot  ====
   * discharged at him --- [[books:sb:8:10:56|SB 8.10.56]]

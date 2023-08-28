@@ -1,5 +1,11 @@
-~~Title:vadha~~
-{{description>by the death; from the killing; killing.}}
+---json
+{
+    "name":"vadha",
+    "h1":"vadha",
+    "title":"vadha",
+    "description":"by the death; from the killing; killing."
+}
+---
 
 ==== vadha  ====
   * by the death --- [[books:sb:4:11:9|SB 4.11.9]]

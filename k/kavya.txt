@@ -1,5 +1,11 @@
-~~Title:kavya~~
-{{description>poetic; poetry.}}
+---json
+{
+    "name":"kavya",
+    "h1":"kavya",
+    "title":"kavya",
+    "description":"poetic; poetry."
+}
+---
 
 ==== kāvya  ====
   * poetic --- [[books:cc:madhya:14:158|Madhya 14.158]]

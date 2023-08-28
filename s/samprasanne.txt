@@ -1,5 +1,11 @@
-~~Title:samprasanne~~
-{{description>upon satisfaction.}}
+---json
+{
+    "name":"samprasanne",
+    "h1":"samprasanne",
+    "title":"samprasanne",
+    "description":"upon satisfaction."
+}
+---
 
 ==== samprasanne  ====
   * upon satisfaction --- [[books:sb:4:11:14|SB 4.11.14]]

@@ -1,5 +1,11 @@
-~~Title:gīti~~
-{{description>by the song; songs.}}
+---json
+{
+    "name":"gīti",
+    "h1":"gīti",
+    "title":"gīti",
+    "description":"by the song; songs."
+}
+---
 
 ==== gīti  ====
   * by the song --- [[books:cc:adi:4:110|Ādi 4.110]]

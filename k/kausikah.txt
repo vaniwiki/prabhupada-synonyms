@@ -1,5 +1,11 @@
-~~Title:kauśikaḥ~~
-{{description>Indra; Kauśika.}}
+---json
+{
+    "name":"kauśikaḥ",
+    "h1":"kauśikaḥ",
+    "title":"kauśikaḥ",
+    "description":"Indra; Kauśika."
+}
+---
 
 ==== kauśikaḥ  ====
   * Indra --- [[books:sb:6:18:64|SB 6.18.64]]

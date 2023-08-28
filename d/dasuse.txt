@@ -1,5 +1,11 @@
-~~Title:dāśuṣe~~
-{{description>one who delivers.}}
+---json
+{
+    "name":"dāśuṣe",
+    "h1":"dāśuṣe",
+    "title":"dāśuṣe",
+    "description":"one who delivers."
+}
+---
 
 ==== dāśuṣe  ====
   * one who delivers --- [[books:sb:2:4:13|SB 2.4.13]]

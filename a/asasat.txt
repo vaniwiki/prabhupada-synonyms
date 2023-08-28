@@ -1,5 +1,11 @@
-~~Title:aśāsat~~
-{{description>ruled (taking the post of Indra); ruled.}}
+---json
+{
+    "name":"aśāsat",
+    "h1":"aśāsat",
+    "title":"aśāsat",
+    "description":"ruled (taking the post of Indra); ruled."
+}
+---
 
 ==== aśāsat  ====
   * ruled (taking the post of Indra) --- [[books:sb:8:1:18|SB 8.1.18]]

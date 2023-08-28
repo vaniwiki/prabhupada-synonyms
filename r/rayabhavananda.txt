@@ -1,5 +1,11 @@
-~~Title:rāyabhavānanda~~
-{{description>of the name Bhavānanda Rāya.}}
+---json
+{
+    "name":"rāyabhavānanda",
+    "h1":"rāyabhavānanda",
+    "title":"rāyabhavānanda",
+    "description":"of the name Bhavānanda Rāya."
+}
+---
 
 ==== rāyabhavānanda  ====
   * of the name Bhavānanda Rāya --- [[books:cc:adi:10:131|Ādi 10.131]]

@@ -1,5 +1,11 @@
-~~Title:pariśruta~~
-{{description>widely known.}}
+---json
+{
+    "name":"pariśruta",
+    "h1":"pariśruta",
+    "title":"pariśruta",
+    "description":"widely known."
+}
+---
 
 ==== pariśruta  ====
   * widely known --- [[books:sb:4:9:5|SB 4.9.5]]

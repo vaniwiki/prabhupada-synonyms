@@ -1,5 +1,11 @@
-~~Title:sunana~~
-{{description>explains.}}
+---json
+{
+    "name":"sunana",
+    "h1":"sunana",
+    "title":"sunana",
+    "description":"explains."
+}
+---
 
 ==== śunāna  ====
   * explains --- [[books:cc:madhya:17:96|Madhya 17.96]]

@@ -1,5 +1,11 @@
-~~Title:manoharam~~
-{{description>attractive.}}
+---json
+{
+    "name":"manoharam",
+    "h1":"manoharam",
+    "title":"manoharam",
+    "description":"attractive."
+}
+---
 
 ==== manoharam  ====
   * attractive --- [[books:sb:1:11:10|SB 1.11.10]]

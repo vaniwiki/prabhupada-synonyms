@@ -1,5 +1,11 @@
-~~Title:saṁskārān~~
-{{description>ceremonies performed for reformation (because by these reformatory activities one takes one's second birth: saṁskārād bhaved dvijaḥ); the purificatory processes.}}
+---json
+{
+    "name":"saṁskārān",
+    "h1":"saṁskārān",
+    "title":"saṁskārān",
+    "description":"ceremonies performed for reformation (because by these reformatory activities one takes one's second birth: saṁskārād bhaved dvijaḥ); the purificatory processes."
+}
+---
 
 ==== saṁskārān  ====
   * ceremonies performed for reformation (because by these reformatory activities one takes one's second birth: //saṁskārād bhaved dvijaḥ//) --- [[books:sb:10:8:6|SB 10.8.6]]

@@ -1,5 +1,11 @@
-~~Title:priyamanah~~
-{{description>being satisfied.}}
+---json
+{
+    "name":"priyamanah",
+    "h1":"priyamanah",
+    "title":"priyamanah",
+    "description":"being satisfied."
+}
+---
 
 ==== prīyamāṇaḥ  ====
   * being satisfied --- [[books:sb:4:7:49|SB 4.7.49]]

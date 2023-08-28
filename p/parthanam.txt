@@ -1,5 +1,11 @@
-~~Title:pārthānām~~
-{{description>of the sons of Pṛthā.}}
+---json
+{
+    "name":"pārthānām",
+    "h1":"pārthānām",
+    "title":"pārthānām",
+    "description":"of the sons of Pṛthā."
+}
+---
 
 ==== pārthānām  ====
   * of the sons of Pṛthā --- [[books:sb:1:17:13|SB 1.17.13]]

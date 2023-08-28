@@ -1,5 +1,11 @@
-~~Title:vibhubhiḥ~~
-{{description>by expansions.}}
+---json
+{
+    "name":"vibhubhiḥ",
+    "h1":"vibhubhiḥ",
+    "title":"vibhubhiḥ",
+    "description":"by expansions."
+}
+---
 
 ==== vibhubhiḥ  ====
   * by expansions --- [[books:sb:4:30:28|SB 4.30.28]]

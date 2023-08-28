@@ -1,5 +1,11 @@
-~~Title:bhṛṅgī~~
-{{description>the moving to and fro of bees.}}
+---json
+{
+    "name":"bhṛṅgī",
+    "h1":"bhṛṅgī",
+    "title":"bhṛṅgī",
+    "description":"the moving to and fro of bees."
+}
+---
 
 ==== bhṛṅgī-bhrānti  ====
   * the moving to and fro of bees --- [[books:cc:antya:1:171|Antya 1.171]]

@@ -1,5 +1,11 @@
-~~Title:pulahāya~~
-{{description>unto Pulaha.}}
+---json
+{
+    "name":"pulahāya",
+    "h1":"pulahāya",
+    "title":"pulahāya",
+    "description":"unto Pulaha."
+}
+---
 
 ==== pulahāya  ====
   * unto Pulaha --- [[books:sb:3:24:22-23|SB 3.24.22-23]]

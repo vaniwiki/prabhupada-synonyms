@@ -1,5 +1,11 @@
-~~Title:yatne~~
-{{description>by effort; even with great endeavor; with great care; with great endeavor.}}
+---json
+{
+    "name":"yatne",
+    "h1":"yatne",
+    "title":"yatne",
+    "description":"by effort; even with great endeavor; with great care; with great endeavor."
+}
+---
 
 ==== yatne  ====
   * by effort --- [[books:cc:adi:4:134|Ādi 4.134]]

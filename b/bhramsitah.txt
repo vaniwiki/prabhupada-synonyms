@@ -1,5 +1,11 @@
-~~Title:bhraṁśitaḥ~~
-{{description>being devoid of.}}
+---json
+{
+    "name":"bhraṁśitaḥ",
+    "h1":"bhraṁśitaḥ",
+    "title":"bhraṁśitaḥ",
+    "description":"being devoid of."
+}
+---
 
 ==== bhraṁśitaḥ  ====
   * being devoid of --- [[books:sb:4:22:33|SB 4.22.33]]

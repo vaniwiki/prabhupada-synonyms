@@ -1,5 +1,11 @@
-~~Title:jananīra~~
-{{description>of the mother.}}
+---json
+{
+    "name":"jananīra",
+    "h1":"jananīra",
+    "title":"jananīra",
+    "description":"of the mother."
+}
+---
 
 ==== jananīra  ====
   * of the mother --- [[books:cc:adi:14:35|Ādi 14.35]]

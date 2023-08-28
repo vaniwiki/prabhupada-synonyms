@@ -1,5 +1,11 @@
-~~Title:tamau~~
-{{description>the two great physicians, the Aśvinī-kumāras.}}
+---json
+{
+    "name":"tamau",
+    "h1":"tamau",
+    "title":"tamau",
+    "description":"the two great physicians, the Aśvinī-kumāras."
+}
+---
 
 ==== bhiṣak-tamau  ====
   * the two great physicians, the Aśvinī-kumāras --- [[books:sb:9:3:13|SB 9.3.13]]

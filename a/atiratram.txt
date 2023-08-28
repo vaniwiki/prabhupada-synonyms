@@ -1,5 +1,11 @@
-~~Title:atīrātram~~
-{{description>Atīrātra.}}
+---json
+{
+    "name":"atīrātram",
+    "h1":"atīrātram",
+    "title":"atīrātram",
+    "description":"Atīrātra."
+}
+---
 
 ==== atīrātram  ====
   * Atīrātra --- [[books:sb:4:13:15-16|SB 4.13.15-16]]

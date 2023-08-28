@@ -1,5 +1,11 @@
-~~Title:devavān~~
-{{description>Devavān.}}
+---json
+{
+    "name":"devavān",
+    "h1":"devavān",
+    "title":"devavān",
+    "description":"Devavān."
+}
+---
 
 ==== devavān  ====
   * Devavān --- [[books:sb:8:13:27|SB 8.13.27]], [[books:sb:9:24:16-18|SB 9.24.16-18]], [[books:sb:9:24:21-23|SB 9.24.21-23]]

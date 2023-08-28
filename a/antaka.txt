@@ -1,5 +1,11 @@
-~~Title:antaka~~
-{{description>termination.}}
+---json
+{
+    "name":"antaka",
+    "h1":"antaka",
+    "title":"antaka",
+    "description":"termination."
+}
+---
 
 ==== antaka  ====
   * termination --- [[books:sb:4:7:28|SB 4.7.28]]

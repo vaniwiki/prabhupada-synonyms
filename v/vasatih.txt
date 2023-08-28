@@ -1,5 +1,11 @@
-~~Title:vasatiḥ~~
-{{description>the abode.}}
+---json
+{
+    "name":"vasatiḥ",
+    "h1":"vasatiḥ",
+    "title":"vasatiḥ",
+    "description":"the abode."
+}
+---
 
 ==== vasatiḥ  ====
   * the abode --- [[books:cc:madhya:23:87-91|Madhya 23.87-91]]

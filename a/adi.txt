@@ -1,5 +1,11 @@
-~~Title:ādi~~
-{{description>a beginning; all such places; all these; all together; and other arrangements; and other things; and others; and similar other persons; and so on; and the other; beginning; beginning with; by artificially practicing detachment, by the mechanical practice of yoga, by studying the Sāṅkhya philosophy, and so on; etc; everything; first; headed by; heading; heading the list; in the beginning; in the beginning of the millennium; original; originally; other subject matters; primarily; the beginning; the first; the original.}}
+---json
+{
+    "name":"ādi",
+    "h1":"ādi",
+    "title":"ādi",
+    "description":"a beginning; all such places; all these; all together; and other arrangements; and other things; and others; and similar other persons; and so on; and the other; beginning; beginning with; by artificially practicing detachment, by the mechanical practice of yoga, by studying the Sāṅkhya philosophy, and so on; etc; everything; first; headed by; heading; heading the list; in the beginning; in the beginning of the millennium; original; originally; other subject matters; primarily; the beginning; the first; the original."
+}
+---
 
 ==== ādi  ====
   * a beginning --- [[books:sb:8:1:12|SB 8.1.12]]

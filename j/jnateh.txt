@@ -1,5 +1,11 @@
-~~Title:jñāteḥ~~
-{{description>of the son.}}
+---json
+{
+    "name":"jñāteḥ",
+    "h1":"jñāteḥ",
+    "title":"jñāteḥ",
+    "description":"of the son."
+}
+---
 
 ==== jñāteḥ  ====
   * of the son --- [[books:sb:6:16:13|SB 6.16.13]]

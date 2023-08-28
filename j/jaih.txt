@@ -1,5 +1,11 @@
-~~Title:jaiḥ~~
-{{description>along with her sons; by the sons.}}
+---json
+{
+    "name":"jaiḥ",
+    "h1":"jaiḥ",
+    "title":"jaiḥ",
+    "description":"along with her sons; by the sons."
+}
+---
 
 ==== ātma-jaiḥ  ====
   * along with her sons --- [[books:sb:1:8:17|SB 1.8.17]]

@@ -1,5 +1,11 @@
-~~Title:bodhayantau~~
-{{description>giving instruction.}}
+---json
+{
+    "name":"bodhayantau",
+    "h1":"bodhayantau",
+    "title":"bodhayantau",
+    "description":"giving instruction."
+}
+---
 
 ==== bodhayantau  ====
   * giving instruction --- [[books:sb:6:15:1|SB 6.15.1]]

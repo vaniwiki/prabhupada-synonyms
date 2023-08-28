@@ -1,5 +1,11 @@
-~~Title:jugopa~~
-{{description>gave protection; ruled; the Lord protected them.}}
+---json
+{
+    "name":"jugopa",
+    "h1":"jugopa",
+    "title":"jugopa",
+    "description":"gave protection; ruled; the Lord protected them."
+}
+---
 
 ==== jugopa  ====
   * gave protection --- [[books:sb:1:15:11|SB 1.15.11]], [[books:sb:10:1:5-7|SB 10.1.5-7]]

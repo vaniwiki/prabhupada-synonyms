@@ -1,5 +1,11 @@
-~~Title:tāvatā~~
-{{description>in that way; so much.}}
+---json
+{
+    "name":"tāvatā",
+    "h1":"tāvatā",
+    "title":"tāvatā",
+    "description":"in that way; so much."
+}
+---
 
 ==== tāvatā  ====
   * in that way --- [[books:sb:8:2:2-3|SB 8.2.2-3]]

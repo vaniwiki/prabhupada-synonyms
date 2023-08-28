@@ -1,5 +1,11 @@
-~~Title:kramam~~
-{{description>prowess.}}
+---json
+{
+    "name":"kramam",
+    "h1":"kramam",
+    "title":"kramam",
+    "description":"prowess."
+}
+---
 
 ==== kramam  ====
   * prowess --- [[books:sb:4:6:48|SB 4.6.48]]

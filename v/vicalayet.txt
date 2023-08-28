@@ -1,5 +1,11 @@
-~~Title:vicālayet~~
-{{description>try to agitate.}}
+---json
+{
+    "name":"vicālayet",
+    "h1":"vicālayet",
+    "title":"vicālayet",
+    "description":"try to agitate."
+}
+---
 
 ==== vicālayet  ====
   * try to agitate --- [[books:bg:3:29|Bg. 3.29]]

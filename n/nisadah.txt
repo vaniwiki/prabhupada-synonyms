@@ -1,5 +1,11 @@
-~~Title:niṣādaḥ~~
-{{description>of the name Niṣāda.}}
+---json
+{
+    "name":"niṣādaḥ",
+    "h1":"niṣādaḥ",
+    "title":"niṣādaḥ",
+    "description":"of the name Niṣāda."
+}
+---
 
 ==== niṣādaḥ  ====
   * of the name Niṣāda --- [[books:sb:4:14:45|SB 4.14.45]]

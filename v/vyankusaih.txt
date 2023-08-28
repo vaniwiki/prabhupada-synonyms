@@ -1,5 +1,11 @@
-~~Title:vyaṅkuśaiḥ~~
-{{description>uncontrolled.}}
+---json
+{
+    "name":"vyaṅkuśaiḥ",
+    "h1":"vyaṅkuśaiḥ",
+    "title":"vyaṅkuśaiḥ",
+    "description":"uncontrolled."
+}
+---
 
 ==== vyaṅkuśaiḥ  ====
   * uncontrolled --- [[books:sb:3:21:55|SB 3.21.55]]

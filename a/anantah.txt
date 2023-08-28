@@ -1,5 +1,11 @@
-~~Title:anantah~~
-{{description>(You are called) unlimited; Ananta; Anantadeva; endless; immeasurable; infinite; Lord Ananta; the eternal unlimited; the Supreme Personality of Godhead; the Unlimited; the unlimited potential; the unlimited Supreme Personality of Godhead; unlimited; unlimited, all-pervading and eternally existing; Śeṣa Nāga.}}
+---json
+{
+    "name":"anantah",
+    "h1":"anantah",
+    "title":"anantah",
+    "description":"(You are called) unlimited; Ananta; Anantadeva; endless; immeasurable; infinite; Lord Ananta; the eternal unlimited; the Supreme Personality of Godhead; the Unlimited; the unlimited potential; the unlimited Supreme Personality of Godhead; unlimited; unlimited, all-pervading and eternally existing; Śeṣa Nāga."
+}
+---
 
 ==== anantaḥ  ====
   * (You are called) unlimited --- [[books:sb:6:16:37|SB 6.16.37]]

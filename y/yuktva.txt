@@ -1,5 +1,11 @@
-~~Title:yuktvā~~
-{{description>being dovetailed.}}
+---json
+{
+    "name":"yuktvā",
+    "h1":"yuktvā",
+    "title":"yuktvā",
+    "description":"being dovetailed."
+}
+---
 
 ==== yuktvā  ====
   * being dovetailed --- [[books:sb:2:1:19|SB 2.1.19]]

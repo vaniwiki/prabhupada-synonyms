@@ -1,5 +1,11 @@
-~~Title:devakī~~
-{{description>Devakī (the mother of Śrī Kṛṣṇa); Devakī; Devakī, the wife of Vasudeva, Kṛṣṇa's father; Kṛṣṇa's mother; Kṛṣṇa's mother, Devakī.}}
+---json
+{
+    "name":"devakī",
+    "h1":"devakī",
+    "title":"devakī",
+    "description":"Devakī (the mother of Śrī Kṛṣṇa); Devakī; Devakī, the wife of Vasudeva, Kṛṣṇa's father; Kṛṣṇa's mother; Kṛṣṇa's mother, Devakī."
+}
+---
 
 ==== devakī  ====
   * Devakī (the mother of Śrī Kṛṣṇa) --- [[books:sb:1:8:23|SB 1.8.23]]

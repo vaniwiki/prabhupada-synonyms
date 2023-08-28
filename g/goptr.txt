@@ -1,5 +1,11 @@
-~~Title:goptṛ~~
-{{description>the protector.}}
+---json
+{
+    "name":"goptṛ",
+    "h1":"goptṛ",
+    "title":"goptṛ",
+    "description":"the protector."
+}
+---
 
 ==== goptṛ  ====
   * the protector --- [[books:sb:7:10:29|SB 7.10.29]]

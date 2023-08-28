@@ -1,5 +1,11 @@
-~~Title:udakam~~
-{{description>in the water; water.}}
+---json
+{
+    "name":"udakam",
+    "h1":"udakam",
+    "title":"udakam",
+    "description":"in the water; water."
+}
+---
 
 ==== udakam  ====
   * in the water --- [[books:sb:5:17:2|SB 5.17.2]]

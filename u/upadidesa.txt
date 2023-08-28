@@ -1,5 +1,11 @@
-~~Title:upadideśa~~
-{{description>instructed.}}
+---json
+{
+    "name":"upadideśa",
+    "h1":"upadideśa",
+    "title":"upadideśa",
+    "description":"instructed."
+}
+---
 
 ==== upadideśa  ====
   * instructed --- [[books:cc:madhya:20:97|Madhya 20.97]]

@@ -1,5 +1,11 @@
-~~Title:iḍaspatiḥ~~
-{{description>Iḍaspati.}}
+---json
+{
+    "name":"iḍaspatiḥ",
+    "h1":"iḍaspatiḥ",
+    "title":"iḍaspatiḥ",
+    "description":"Iḍaspati."
+}
+---
 
 ==== iḍaspatiḥ  ====
   * Iḍaspati --- [[books:sb:4:1:7|SB 4.1.7]]

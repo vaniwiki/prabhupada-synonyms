@@ -1,5 +1,11 @@
-~~Title:kālera~~
-{{description>all older.}}
+---json
+{
+    "name":"kālera",
+    "h1":"kālera",
+    "title":"kālera",
+    "description":"all older."
+}
+---
 
 ==== cira-kālera  ====
   * all older --- [[books:cc:adi:15:6|Ādi 15.6]]

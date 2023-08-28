@@ -1,5 +1,11 @@
-~~Title:tritve~~
-{{description>into the three qualities.}}
+---json
+{
+    "name":"tritve",
+    "h1":"tritve",
+    "title":"tritve",
+    "description":"into the three qualities."
+}
+---
 
 ==== tritve  ====
   * into the three qualities --- [[books:sb:1:15:42|SB 1.15.42]]

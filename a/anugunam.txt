@@ -1,5 +1,11 @@
-~~Title:anuguṇam~~
-{{description>as far as possible.}}
+---json
+{
+    "name":"anuguṇam",
+    "h1":"anuguṇam",
+    "title":"anuguṇam",
+    "description":"as far as possible."
+}
+---
 
 ==== anuguṇam  ====
   * as far as possible --- [[books:sb:8:17:18|SB 8.17.18]]

@@ -1,5 +1,11 @@
-~~Title:mayūkha~~
-{{description>from the light; rays.}}
+---json
+{
+    "name":"mayūkha",
+    "h1":"mayūkha",
+    "title":"mayūkha",
+    "description":"from the light; rays."
+}
+---
 
 ==== mayūkha  ====
   * from the light --- [[books:sb:3:28:25|SB 3.28.25]]

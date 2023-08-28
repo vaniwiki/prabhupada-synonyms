@@ -1,5 +1,11 @@
-~~Title:dinam~~
-{{description>day; is a day; the daytime.}}
+---json
+{
+    "name":"dinam",
+    "h1":"dinam",
+    "title":"dinam",
+    "description":"day; is a day; the daytime."
+}
+---
 
 ==== dinam  ====
   * day --- [[books:sb:5:1:30|SB 5.1.30]]

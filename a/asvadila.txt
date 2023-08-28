@@ -1,5 +1,11 @@
-~~Title:asvadila~~
-{{description>He tasted; tasted.}}
+---json
+{
+    "name":"asvadila",
+    "h1":"asvadila",
+    "title":"asvadila",
+    "description":"He tasted; tasted."
+}
+---
 
 ==== āsvādila  ====
   * He tasted --- [[books:cc:adi:4:114|Ādi 4.114]]

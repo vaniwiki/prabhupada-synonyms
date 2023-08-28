@@ -1,5 +1,11 @@
-~~Title:ārūḍhasya~~
-{{description>one who has attained.}}
+---json
+{
+    "name":"ārūḍhasya",
+    "h1":"ārūḍhasya",
+    "title":"ārūḍhasya",
+    "description":"one who has attained."
+}
+---
 
 ==== ārūḍhasya  ====
   * one who has attained --- [[books:bg:6:3|Bg. 6.3]]

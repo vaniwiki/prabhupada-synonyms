@@ -1,5 +1,11 @@
-~~Title:vijṛmbhaṇa~~
-{{description>by the expanding.}}
+---json
+{
+    "name":"vijṛmbhaṇa",
+    "h1":"vijṛmbhaṇa",
+    "title":"vijṛmbhaṇa",
+    "description":"by the expanding."
+}
+---
 
 ==== vijṛmbhaṇa  ====
   * by the expanding --- [[books:sb:7:5:49|SB 7.5.49]]

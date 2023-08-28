@@ -1,5 +1,11 @@
-~~Title:sadāśivera~~
-{{description>part and parcel of Sadāśiva.}}
+---json
+{
+    "name":"sadāśivera",
+    "h1":"sadāśivera",
+    "title":"sadāśivera",
+    "description":"part and parcel of Sadāśiva."
+}
+---
 
 ==== sadāśivera aṁśa  ====
   * part and parcel of Sadāśiva --- [[books:cc:adi:6:79|Ādi 6.79]]

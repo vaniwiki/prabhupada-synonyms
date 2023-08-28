@@ -1,5 +1,11 @@
-~~Title:sannyāse~~
-{{description>in the renounced order; simply by accepting the renounced order of life.}}
+---json
+{
+    "name":"sannyāse",
+    "h1":"sannyāse",
+    "title":"sannyāse",
+    "description":"in the renounced order; simply by accepting the renounced order of life."
+}
+---
 
 ==== sannyāse  ====
   * in the renounced order --- [[books:cc:madhya:15:51|Madhya 15.51]]

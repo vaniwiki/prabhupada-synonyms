@@ -1,5 +1,11 @@
-~~Title:ubarila~~
-{{description>there was so much excess.}}
+---json
+{
+    "name":"ubarila",
+    "h1":"ubarila",
+    "title":"ubarila",
+    "description":"there was so much excess."
+}
+---
 
 ==== ubarila  ====
   * there was so much excess --- [[books:cc:madhya:14:43|Madhya 14.43]]

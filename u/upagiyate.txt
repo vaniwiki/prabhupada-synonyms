@@ -1,5 +1,11 @@
-~~Title:upagīyate~~
-{{description>is described; is glorified; is worshiped and glorified.}}
+---json
+{
+    "name":"upagīyate",
+    "h1":"upagīyate",
+    "title":"upagīyate",
+    "description":"is described; is glorified; is worshiped and glorified."
+}
+---
 
 ==== upagīyate  ====
   * is described --- [[books:sb:5:26:38|SB 5.26.38]]

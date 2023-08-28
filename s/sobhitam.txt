@@ -1,5 +1,11 @@
-~~Title:sobhitam~~
-{{description>adorned; decorated; increased.}}
+---json
+{
+    "name":"sobhitam",
+    "h1":"sobhitam",
+    "title":"sobhitam",
+    "description":"adorned; decorated; increased."
+}
+---
 
 ==== śobhitam  ====
   * adorned --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

@@ -1,5 +1,11 @@
-~~Title:avaruddha~~
-{{description>manifested.}}
+---json
+{
+    "name":"avaruddha",
+    "h1":"avaruddha",
+    "title":"avaruddha",
+    "description":"manifested."
+}
+---
 
 ==== avaruddha  ====
   * manifested --- [[books:sb:3:9:19|SB 3.9.19]]

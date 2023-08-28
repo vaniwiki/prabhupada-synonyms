@@ -1,5 +1,11 @@
-~~Title:vyavāye~~
-{{description>in the transformation.}}
+---json
+{
+    "name":"vyavāye",
+    "h1":"vyavāye",
+    "title":"vyavāye",
+    "description":"in the transformation."
+}
+---
 
 ==== vyavāye  ====
   * in the transformation --- [[books:sb:8:6:11|SB 8.6.11]]

@@ -1,5 +1,11 @@
-~~Title:prayantam~~
-{{description>including.}}
+---json
+{
+    "name":"prayantam",
+    "h1":"prayantam",
+    "title":"prayantam",
+    "description":"including."
+}
+---
 
 ==== prayantam  ====
   * including --- [[books:bg:8:17|Bg. 8.17]]

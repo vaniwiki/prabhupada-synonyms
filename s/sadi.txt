@@ -1,5 +1,11 @@
-~~Title:sadi~~
-{{description>of the name Sādipuriyā Gopāla.}}
+---json
+{
+    "name":"sadi",
+    "h1":"sadi",
+    "title":"sadi",
+    "description":"of the name Sādipuriyā Gopāla."
+}
+---
 
 ==== sādi-puriyā gopāla  ====
   * of the name Sādipuriyā Gopāla --- [[books:cc:adi:12:85|Ādi 12.85]]

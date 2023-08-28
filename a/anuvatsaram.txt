@@ -1,5 +1,11 @@
-~~Title:anuvatsaram~~
-{{description>Anuvatsara; every year; year after year.}}
+---json
+{
+    "name":"anuvatsaram",
+    "h1":"anuvatsaram",
+    "title":"anuvatsaram",
+    "description":"Anuvatsara; every year; year after year."
+}
+---
 
 ==== anuvatsaram  ====
   * Anuvatsara --- [[books:sb:5:22:7|SB 5.22.7]]

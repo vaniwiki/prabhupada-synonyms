@@ -1,5 +1,11 @@
-~~Title:prāñjaliḥ~~
-{{description>with folded hands.}}
+---json
+{
+    "name":"prāñjaliḥ",
+    "h1":"prāñjaliḥ",
+    "title":"prāñjaliḥ",
+    "description":"with folded hands."
+}
+---
 
 ==== prāñjaliḥ  ====
   * with folded hands --- [[books:sb:3:4:14|SB 3.4.14]], [[books:sb:3:13:6|SB 3.13.6]], [[books:sb:4:17:28|SB 4.17.28]], [[books:sb:4:24:78|SB 4.24.78]], [[books:sb:7:3:25|SB 7.3.25]], [[books:sb:8:22:19|SB 8.22.19]], [[books:sb:9:8:20|SB 9.8.20]], [[books:sb:9:10:39-40|SB 9.10.39-40]]

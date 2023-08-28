@@ -1,5 +1,11 @@
-~~Title:sambhāra~~
-{{description>all kinds of articles.}}
+---json
+{
+    "name":"sambhāra",
+    "h1":"sambhāra",
+    "title":"sambhāra",
+    "description":"all kinds of articles."
+}
+---
 
 ==== sambhāra  ====
   * all kinds of articles --- [[books:cc:antya:18:101|Antya 18.101]]

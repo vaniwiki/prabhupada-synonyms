@@ -1,5 +1,11 @@
-~~Title:ahaḥ~~
-{{description>alas; day; days; daytime; during daytime.}}
+---json
+{
+    "name":"ahaḥ",
+    "h1":"ahaḥ",
+    "title":"ahaḥ",
+    "description":"alas; day; days; daytime; during daytime."
+}
+---
 
 ==== ahaḥ  ====
   * alas --- [[books:bg:1:44|Bg. 1.44]]

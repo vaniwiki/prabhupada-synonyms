@@ -1,5 +1,11 @@
-~~Title:parataram~~
-{{description>of greater value; superior.}}
+---json
+{
+    "name":"parataram",
+    "h1":"parataram",
+    "title":"parataram",
+    "description":"of greater value; superior."
+}
+---
 
 ==== parataram  ====
   * of greater value --- [[books:cc:madhya:11:31|Madhya 11.31]]

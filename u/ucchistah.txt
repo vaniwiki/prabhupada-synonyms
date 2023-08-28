@@ -1,5 +1,11 @@
-~~Title:ucchiṣṭaḥ~~
-{{description>is the remainder.}}
+---json
+{
+    "name":"ucchiṣṭaḥ",
+    "h1":"ucchiṣṭaḥ",
+    "title":"ucchiṣṭaḥ",
+    "description":"is the remainder."
+}
+---
 
 ==== ucchiṣṭaḥ  ====
   * is the remainder --- [[books:sb:4:6:53|SB 4.6.53]]

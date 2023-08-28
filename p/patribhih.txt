@@ -1,5 +1,11 @@
-~~Title:patribhiḥ~~
-{{description>by sharp words.}}
+---json
+{
+    "name":"patribhiḥ",
+    "h1":"patribhiḥ",
+    "title":"patribhiḥ",
+    "description":"by sharp words."
+}
+---
 
 ==== patribhiḥ  ====
   * by sharp words --- [[books:sb:2:7:8|SB 2.7.8]]

@@ -1,5 +1,11 @@
-~~Title:vyavasāyena~~
-{{description>by determination.}}
+---json
+{
+    "name":"vyavasāyena",
+    "h1":"vyavasāyena",
+    "title":"vyavasāyena",
+    "description":"by determination."
+}
+---
 
 ==== vyavasāyena  ====
   * by determination --- [[books:sb:7:3:20|SB 7.3.20]]

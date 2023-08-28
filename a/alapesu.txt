@@ -1,5 +1,11 @@
-~~Title:ālāpeṣu~~
-{{description>to the talks.}}
+---json
+{
+    "name":"ālāpeṣu",
+    "h1":"ālāpeṣu",
+    "title":"ālāpeṣu",
+    "description":"to the talks."
+}
+---
 
 ==== ālāpeṣu  ====
   * to the talks --- [[books:sb:4:29:54|SB 4.29.54]]

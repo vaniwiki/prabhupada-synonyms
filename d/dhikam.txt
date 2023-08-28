@@ -1,5 +1,11 @@
-~~Title:'dhikam~~
-{{description>beginning with the words jayati te 'dhikam.}}
+---json
+{
+    "name":"'dhikam",
+    "h1":"'dhikam",
+    "title":"'dhikam",
+    "description":"beginning with the words jayati te 'dhikam."
+}
+---
 
 ==== jayati te 'dhikam  ====
   * beginning with the words //jayati te 'dhikam// --- [[books:cc:madhya:14:8|Madhya 14.8]]

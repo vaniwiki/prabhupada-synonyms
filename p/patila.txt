@@ -1,5 +1,11 @@
-~~Title:pātila~~
-{{description>laid down; spread.}}
+---json
+{
+    "name":"pātila",
+    "h1":"pātila",
+    "title":"pātila",
+    "description":"laid down; spread."
+}
+---
 
 ==== pātila  ====
   * laid down --- [[books:cc:madhya:1:156|Madhya 1.156]]

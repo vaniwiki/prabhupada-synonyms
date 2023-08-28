@@ -1,5 +1,11 @@
-~~Title:vahibe~~
-{{description>will carry.}}
+---json
+{
+    "name":"vahibe",
+    "h1":"vahibe",
+    "title":"vahibe",
+    "description":"will carry."
+}
+---
 
 ==== vahibe  ====
   * will carry --- [[books:cc:madhya:7:37|Madhya 7.37]]

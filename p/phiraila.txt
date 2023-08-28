@@ -1,5 +1,11 @@
-~~Title:phiraila~~
-{{description>changed.}}
+---json
+{
+    "name":"phiraila",
+    "h1":"phiraila",
+    "title":"phiraila",
+    "description":"changed."
+}
+---
 
 ==== phirāila  ====
   * changed --- [[books:cc:madhya:16:175|Madhya 16.175]]

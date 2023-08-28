@@ -1,5 +1,11 @@
-~~Title:vinamayya~~
-{{description>prostrating.}}
+---json
+{
+    "name":"vinamayya",
+    "h1":"vinamayya",
+    "title":"vinamayya",
+    "description":"prostrating."
+}
+---
 
 ==== vinamayya  ====
   * prostrating --- [[books:sb:4:9:3|SB 4.9.3]]

@@ -1,5 +1,11 @@
-~~Title:vihvala~~
-{{description>agitated; as if bewildered; bewildered; ecstatic; overwhelmed; rolling.}}
+---json
+{
+    "name":"vihvala",
+    "h1":"vihvala",
+    "title":"vihvala",
+    "description":"agitated; as if bewildered; bewildered; ecstatic; overwhelmed; rolling."
+}
+---
 
 ==== vihvala  ====
   * agitated --- [[books:sb:5:8:15|SB 5.8.15]]

@@ -1,5 +1,11 @@
-~~Title:pratipat~~
-{{description>on the day of pratipat.}}
+---json
+{
+    "name":"pratipat",
+    "h1":"pratipat",
+    "title":"pratipat",
+    "description":"on the day of pratipat."
+}
+---
 
 ==== pratipat-dinam  ====
   * on the day of //pratipat// --- [[books:sb:8:16:48|SB 8.16.48]]

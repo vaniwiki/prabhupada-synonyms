@@ -1,5 +1,11 @@
-~~Title:adhipam~~
-{{description>the king.}}
+---json
+{
+    "name":"adhipam",
+    "h1":"adhipam",
+    "title":"adhipam",
+    "description":"the king."
+}
+---
 
 ==== adhipam  ====
   * the king --- [[books:sb:10:1:69|SB 10.1.69]]

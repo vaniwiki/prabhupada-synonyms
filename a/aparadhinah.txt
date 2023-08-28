@@ -1,5 +1,11 @@
-~~Title:aparādhinaḥ~~
-{{description>offenders.}}
+---json
+{
+    "name":"aparādhinaḥ",
+    "h1":"aparādhinaḥ",
+    "title":"aparādhinaḥ",
+    "description":"offenders."
+}
+---
 
 ==== aparādhinaḥ  ====
   * offenders --- [[books:cc:madhya:25:76|Madhya 25.76]]

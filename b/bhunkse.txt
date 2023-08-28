@@ -1,5 +1,11 @@
-~~Title:bhuṅkṣe~~
-{{description>enjoy.}}
+---json
+{
+    "name":"bhuṅkṣe",
+    "h1":"bhuṅkṣe",
+    "title":"bhuṅkṣe",
+    "description":"enjoy."
+}
+---
 
 ==== bhuṅkṣe  ====
   * enjoy --- [[books:sb:7:3:33|SB 7.3.33]]

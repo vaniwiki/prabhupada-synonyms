@@ -1,5 +1,11 @@
-~~Title:tanaya~~
-{{description>by her son; son.}}
+---json
+{
+    "name":"tanaya",
+    "h1":"tanaya",
+    "title":"tanaya",
+    "description":"by her son; son."
+}
+---
 
 ==== tanaya  ====
   * by her son --- [[books:sb:3:33:13|SB 3.33.13]]

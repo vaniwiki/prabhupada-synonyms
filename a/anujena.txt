@@ -1,5 +1,11 @@
-~~Title:anujena~~
-{{description>by the younger brother of lust (anger).}}
+---json
+{
+    "name":"anujena",
+    "h1":"anujena",
+    "title":"anujena",
+    "description":"by the younger brother of lust (anger)."
+}
+---
 
 ==== kāma-anujena  ====
   * by the younger brother of lust (anger) --- [[books:sb:3:15:31|SB 3.15.31]]

@@ -1,5 +1,11 @@
-~~Title:ākran~~
-{{description>will cause lamentation.}}
+---json
+{
+    "name":"ākran",
+    "h1":"ākran",
+    "title":"ākran",
+    "description":"will cause lamentation."
+}
+---
 
 ==== ākran-dayiṣyataḥ  ====
   * will cause lamentation --- [[books:sb:3:14:39|SB 3.14.39]]

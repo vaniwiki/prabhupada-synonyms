@@ -1,5 +1,11 @@
-~~Title:lāgāñā~~
-{{description>giving.}}
+---json
+{
+    "name":"lāgāñā",
+    "h1":"lāgāñā",
+    "title":"lāgāñā",
+    "description":"giving."
+}
+---
 
 ==== lāgāñā  ====
   * giving --- [[books:cc:antya:3:33|Antya 3.33]]

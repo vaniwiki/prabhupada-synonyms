@@ -1,5 +1,11 @@
-~~Title:śoṣān~~
-{{description>that which evaporates.}}
+---json
+{
+    "name":"śoṣān",
+    "h1":"śoṣān",
+    "title":"śoṣān",
+    "description":"that which evaporates."
+}
+---
 
 ==== śoṣān  ====
   * that which evaporates --- [[books:sb:2:6:46|SB 2.6.46]]

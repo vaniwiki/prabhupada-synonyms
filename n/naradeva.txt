@@ -1,5 +1,11 @@
-~~Title:naradeva~~
-{{description>the Prince.}}
+---json
+{
+    "name":"naradeva",
+    "h1":"naradeva",
+    "title":"naradeva",
+    "description":"the Prince."
+}
+---
 
 ==== naradeva-kumāraḥ  ====
   * the Prince --- [[books:sb:5:2:5|SB 5.2.5]]

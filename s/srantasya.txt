@@ -1,5 +1,11 @@
-~~Title:śrāntasya~~
-{{description>fatigued.}}
+---json
+{
+    "name":"śrāntasya",
+    "h1":"śrāntasya",
+    "title":"śrāntasya",
+    "description":"fatigued."
+}
+---
 
 ==== śrāntasya  ====
   * fatigued --- [[books:sb:3:29:5|SB 3.29.5]]

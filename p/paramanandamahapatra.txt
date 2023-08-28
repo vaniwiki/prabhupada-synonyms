@@ -1,5 +1,11 @@
-~~Title:paramānandamahāpātra~~
-{{description>of the name Paramānanda Mahāpātra.}}
+---json
+{
+    "name":"paramānandamahāpātra",
+    "h1":"paramānandamahāpātra",
+    "title":"paramānandamahāpātra",
+    "description":"of the name Paramānanda Mahāpātra."
+}
+---
 
 ==== paramānandamahāpātra  ====
   * of the name Paramānanda Mahāpātra --- [[books:cc:adi:10:135-136|Ādi 10.135-136]]

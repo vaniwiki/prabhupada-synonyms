@@ -1,5 +1,11 @@
-~~Title:samanukramya~~
-{{description>having gone through.}}
+---json
+{
+    "name":"samanukramya",
+    "h1":"samanukramya",
+    "title":"samanukramya",
+    "description":"having gone through."
+}
+---
 
 ==== samanukramya  ====
   * having gone through --- [[books:sb:3:30:34|SB 3.30.34]]

@@ -1,5 +1,11 @@
-~~Title:avastham~~
-{{description>position of mental speculation.}}
+---json
+{
+    "name":"avastham",
+    "h1":"avastham",
+    "title":"avastham",
+    "description":"position of mental speculation."
+}
+---
 
 ==== buddhi-avastham  ====
   * position of mental speculation --- [[books:sb:4:7:26|SB 4.7.26]]

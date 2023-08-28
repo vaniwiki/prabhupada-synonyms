@@ -1,5 +1,11 @@
-~~Title:bāḍibe~~
-{{description>will increase.}}
+---json
+{
+    "name":"bāḍibe",
+    "h1":"bāḍibe",
+    "title":"bāḍibe",
+    "description":"will increase."
+}
+---
 
 ==== bāḍibe  ====
   * will increase --- [[books:cc:antya:2:140|Antya 2.140]]

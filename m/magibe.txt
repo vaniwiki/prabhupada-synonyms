@@ -1,5 +1,11 @@
-~~Title:māgibe~~
-{{description>request; should ask me.}}
+---json
+{
+    "name":"māgibe",
+    "h1":"māgibe",
+    "title":"māgibe",
+    "description":"request; should ask me."
+}
+---
 
 ==== māgibe  ====
   * request --- [[books:cc:antya:11:37|Antya 11.37]]

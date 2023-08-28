@@ -1,5 +1,11 @@
-~~Title:vidhāne~~
-{{description>in three ways.}}
+---json
+{
+    "name":"vidhāne",
+    "h1":"vidhāne",
+    "title":"vidhāne",
+    "description":"in three ways."
+}
+---
 
 ==== tri-vidhāne  ====
   * in three ways --- [[books:cc:madhya:1:88|Madhya 1.88]]

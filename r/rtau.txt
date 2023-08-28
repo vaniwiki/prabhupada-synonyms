@@ -1,5 +1,11 @@
-~~Title:ṛtau~~
-{{description>at the appropriate time.}}
+---json
+{
+    "name":"ṛtau",
+    "h1":"ṛtau",
+    "title":"ṛtau",
+    "description":"at the appropriate time."
+}
+---
 
 ==== ṛtau  ====
   * at the appropriate time --- [[books:sb:9:18:31|SB 9.18.31]]

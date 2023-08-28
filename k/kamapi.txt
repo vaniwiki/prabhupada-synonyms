@@ -1,5 +1,11 @@
-~~Title:kāmapi~~
-{{description>inexplicable.}}
+---json
+{
+    "name":"kāmapi",
+    "h1":"kāmapi",
+    "title":"kāmapi",
+    "description":"inexplicable."
+}
+---
 
 ==== kāmapi  ====
   * inexplicable --- [[books:cc:antya:14:16|Antya 14.16]]

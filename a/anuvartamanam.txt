@@ -1,5 +1,11 @@
-~~Title:anuvartamanam~~
-{{description>following.}}
+---json
+{
+    "name":"anuvartamanam",
+    "h1":"anuvartamanam",
+    "title":"anuvartamanam",
+    "description":"following."
+}
+---
 
 ==== anuvartamānam  ====
   * following --- [[books:sb:5:15:1|SB 5.15.1]]

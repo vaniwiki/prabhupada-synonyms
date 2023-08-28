@@ -1,5 +1,11 @@
-~~Title:vṛkṣe~~
-{{description>trees.}}
+---json
+{
+    "name":"vṛkṣe",
+    "h1":"vṛkṣe",
+    "title":"vṛkṣe",
+    "description":"trees."
+}
+---
 
 ==== vṛkṣe  ====
   * trees --- [[books:cc:madhya:15:71|Madhya 15.71]]

@@ -1,5 +1,11 @@
-~~Title:toyaḥ~~
-{{description>bearing water.}}
+---json
+{
+    "name":"toyaḥ",
+    "h1":"toyaḥ",
+    "title":"toyaḥ",
+    "description":"bearing water."
+}
+---
 
 ==== sa-toyaḥ  ====
   * bearing water --- [[books:sb:8:11:23|SB 8.11.23]]

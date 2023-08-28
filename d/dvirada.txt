@@ -1,5 +1,11 @@
-~~Title:dvirada~~
-{{description>the best of elephants.}}
+---json
+{
+    "name":"dvirada",
+    "h1":"dvirada",
+    "title":"dvirada",
+    "description":"the best of elephants."
+}
+---
 
 ==== dvirada-patayaḥ  ====
   * the best of elephants --- [[books:sb:5:20:39|SB 5.20.39]]

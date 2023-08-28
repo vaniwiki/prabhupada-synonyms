@@ -1,5 +1,11 @@
-~~Title:ākṣiptam~~
-{{description>agitated; being absorbed in.}}
+---json
+{
+    "name":"ākṣiptam",
+    "h1":"ākṣiptam",
+    "title":"ākṣiptam",
+    "description":"agitated; being absorbed in."
+}
+---
 
 ==== ākṣiptam  ====
   * agitated --- [[books:sb:2:1:20|SB 2.1.20]], [[books:sb:3:16:36|SB 3.16.36]], [[books:sb:4:22:30|SB 4.22.30]]

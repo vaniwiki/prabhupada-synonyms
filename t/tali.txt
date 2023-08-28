@@ -1,5 +1,11 @@
-~~Title:tāli~~
-{{description>blocking.}}
+---json
+{
+    "name":"tāli",
+    "h1":"tāli",
+    "title":"tāli",
+    "description":"blocking."
+}
+---
 
 ==== tāli  ====
   * blocking --- [[books:cc:adi:17:207|Ādi 17.207]]

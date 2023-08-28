@@ -1,5 +1,11 @@
-~~Title:vismṛtam~~
-{{description>forgotten.}}
+---json
+{
+    "name":"vismṛtam",
+    "h1":"vismṛtam",
+    "title":"vismṛtam",
+    "description":"forgotten."
+}
+---
 
 ==== vismṛtam  ====
   * forgotten --- [[books:sb:6:16:57|SB 6.16.57]]

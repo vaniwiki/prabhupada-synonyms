@@ -1,5 +1,11 @@
-~~Title:bandhe~~
-{{description>binds; one becomes bound; they arrest; ties; wraps.}}
+---json
+{
+    "name":"bandhe",
+    "h1":"bandhe",
+    "title":"bandhe",
+    "description":"binds; one becomes bound; they arrest; ties; wraps."
+}
+---
 
 ==== bāndhe  ====
   * binds --- [[books:cc:antya:5:145|Antya 5.145]]

@@ -1,5 +1,11 @@
-~~Title:om~~
-{{description>oṁkāra; beginning with om; indication of the Supreme; O Lord; O my Lord; O Supreme Lord; the combination of letters, omkāra.}}
+---json
+{
+    "name":"om",
+    "h1":"om",
+    "title":"om",
+    "description":"oṁkāra; beginning with om; indication of the Supreme; O Lord; O my Lord; O Supreme Lord; the combination of letters, omkāra."
+}
+---
 
 ==== om  ====
   * //oṁkāra// --- [[books:sb:8:19:41|SB 8.19.41]]

@@ -1,5 +1,11 @@
-~~Title:cala~~
-{{description>both of them are moving; go; kindly come; let us go; please come; please depart; unsteady; You always go.}}
+---json
+{
+    "name":"cala",
+    "h1":"cala",
+    "title":"cala",
+    "description":"both of them are moving; go; kindly come; let us go; please come; please depart; unsteady; You always go."
+}
+---
 
 ==== cala  ====
   * both of them are moving --- [[books:cc:madhya:10:166|Madhya 10.166]]

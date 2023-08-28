@@ -1,5 +1,11 @@
-~~Title:ranga~~
-{{description>pastimes; performance; playful activities; trick.}}
+---json
+{
+    "name":"ranga",
+    "h1":"ranga",
+    "title":"ranga",
+    "description":"pastimes; performance; playful activities; trick."
+}
+---
 
 ==== raṅga  ====
   * pastimes --- [[books:cc:madhya:2:83|Madhya 2.83]]

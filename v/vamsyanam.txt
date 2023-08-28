@@ -1,5 +1,11 @@
-~~Title:vaṁśyānām~~
-{{description>of the members of the dynasties.}}
+---json
+{
+    "name":"vaṁśyānām",
+    "h1":"vaṁśyānām",
+    "title":"vaṁśyānām",
+    "description":"of the members of the dynasties."
+}
+---
 
 ==== vaṁśyānām  ====
   * of the members of the dynasties --- [[books:sb:10:1:1|SB 10.1.1]]

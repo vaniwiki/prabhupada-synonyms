@@ -1,5 +1,11 @@
-~~Title:kāḍite~~
-{{description>to take away.}}
+---json
+{
+    "name":"kāḍite",
+    "h1":"kāḍite",
+    "title":"kāḍite",
+    "description":"to take away."
+}
+---
 
 ==== kāḍite  ====
   * to take away --- [[books:cc:antya:4:40|Antya 4.40]]

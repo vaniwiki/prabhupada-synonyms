@@ -1,5 +1,11 @@
-~~Title:guṇān~~
-{{description>all qualities; all the modes of material nature; different qualities (fruits and flowers); modes of nature; qualities; spiritual qualities; the attributes; the manifestation of the three modes of material nature; the material modes; the material qualities; the modes; the modes of; the modes of material nature; the qualities; the qualities of the material nature; the three modes of material nature; the three modes of nature; the transcendental qualities; three modes of nature; transcendental qualities; various material qualities; virtues.}}
+---json
+{
+    "name":"guṇān",
+    "h1":"guṇān",
+    "title":"guṇān",
+    "description":"all qualities; all the modes of material nature; different qualities (fruits and flowers); modes of nature; qualities; spiritual qualities; the attributes; the manifestation of the three modes of material nature; the material modes; the material qualities; the modes; the modes of; the modes of material nature; the qualities; the qualities of the material nature; the three modes of material nature; the three modes of nature; the transcendental qualities; three modes of nature; transcendental qualities; various material qualities; virtues."
+}
+---
 
 ==== guṇān  ====
   * all qualities --- [[books:sb:4:22:54|SB 4.22.54]]

@@ -1,5 +1,11 @@
-~~Title:bhāiye~~
-{{description>brothers.}}
+---json
+{
+    "name":"bhāiye",
+    "h1":"bhāiye",
+    "title":"bhāiye",
+    "description":"brothers."
+}
+---
 
 ==== bhāiye  ====
   * brothers --- [[books:cc:antya:1:202|Antya 1.202]]

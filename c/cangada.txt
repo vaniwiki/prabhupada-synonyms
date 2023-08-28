@@ -1,5 +1,11 @@
-~~Title:cāṅgaḍā~~
-{{description>taking the baskets.}}
+---json
+{
+    "name":"cāṅgaḍā",
+    "h1":"cāṅgaḍā",
+    "title":"cāṅgaḍā",
+    "description":"taking the baskets."
+}
+---
 
 ==== cāṅgaḍā lañā  ====
   * taking the baskets --- [[books:cc:antya:11:76|Antya 11.76]]

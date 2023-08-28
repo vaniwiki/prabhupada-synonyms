@@ -1,5 +1,11 @@
-~~Title:krida~~
-{{description>enjoyment; of activities; pastimes; playing; sporting; the pastimes.}}
+---json
+{
+    "name":"krida",
+    "h1":"krida",
+    "title":"krida",
+    "description":"enjoyment; of activities; pastimes; playing; sporting; the pastimes."
+}
+---
 
 ==== krīḍā  ====
   * enjoyment --- [[books:cc:madhya:13:23|Madhya 13.23]]

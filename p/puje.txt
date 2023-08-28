@@ -1,5 +1,11 @@
-~~Title:pūje~~
-{{description>offer respect; worship.}}
+---json
+{
+    "name":"pūje",
+    "h1":"pūje",
+    "title":"pūje",
+    "description":"offer respect; worship."
+}
+---
 
 ==== pūje  ====
   * offer respect --- [[books:cc:antya:3:103|Antya 3.103]]

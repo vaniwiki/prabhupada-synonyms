@@ -1,5 +1,11 @@
-~~Title:paṭṭa~~
-{{description>and silk garments; silk.}}
+---json
+{
+    "name":"paṭṭa",
+    "h1":"paṭṭa",
+    "title":"paṭṭa",
+    "description":"and silk garments; silk."
+}
+---
 
 ==== paṭṭa  ====
   * and silk garments --- [[books:sb:8:15:5|SB 8.15.5]]

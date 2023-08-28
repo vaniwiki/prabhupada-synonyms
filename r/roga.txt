@@ -1,5 +1,11 @@
-~~Title:roga~~
-{{description>disease.}}
+---json
+{
+    "name":"roga",
+    "h1":"roga",
+    "title":"roga",
+    "description":"disease."
+}
+---
 
 ==== roga  ====
   * disease --- [[books:cc:adi:14:31|Ādi 14.31]], [[books:cc:madhya:20:90-91|Madhya 20.90-91]]

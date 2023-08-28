@@ -1,5 +1,11 @@
-~~Title:vartamanah~~
-{{description>abiding; although I was existing; at the present moment; being present; being situated; existing; living; present; situated; subsisting; the present.}}
+---json
+{
+    "name":"vartamanah",
+    "h1":"vartamanah",
+    "title":"vartamanah",
+    "description":"abiding; although I was existing; at the present moment; being present; being situated; existing; living; present; situated; subsisting; the present."
+}
+---
 
 ==== vartamānaḥ  ====
   * abiding --- [[books:sb:7:15:67|SB 7.15.67]]

@@ -1,5 +1,11 @@
-~~Title:bhrātṝn~~
-{{description>all his brothers; brothers; four brothers; His younger brothers; the brothers; unto brothers; unto the brothers (Lakṣmaṇa, Bharata and Śatrughna).}}
+---json
+{
+    "name":"bhrātṝn",
+    "h1":"bhrātṝn",
+    "title":"bhrātṝn",
+    "description":"all his brothers; brothers; four brothers; His younger brothers; the brothers; unto brothers; unto the brothers (Lakṣmaṇa, Bharata and Śatrughna)."
+}
+---
 
 ==== bhrātṝn  ====
   * all his brothers --- [[books:sb:9:16:6|SB 9.16.6]]

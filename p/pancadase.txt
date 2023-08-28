@@ -1,5 +1,11 @@
-~~Title:pañcadaśe~~
-{{description>in the Fifteenth Chapter.}}
+---json
+{
+    "name":"pañcadaśe",
+    "h1":"pañcadaśe",
+    "title":"pañcadaśe",
+    "description":"in the Fifteenth Chapter."
+}
+---
 
 ==== pañcadaśe  ====
   * in the Fifteenth Chapter --- [[books:cc:adi:17:326|Ādi 17.326]], [[books:cc:madhya:25:254|Madhya 25.254]]

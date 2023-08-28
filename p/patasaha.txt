@@ -1,5 +1,11 @@
-~~Title:pātasāha~~
-{{description>the king.}}
+---json
+{
+    "name":"pātasāha",
+    "h1":"pātasāha",
+    "title":"pātasāha",
+    "description":"the king."
+}
+---
 
 ==== pātasāha  ====
   * the king --- [[books:cc:adi:17:195|Ādi 17.195]]

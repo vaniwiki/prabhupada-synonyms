@@ -1,5 +1,11 @@
-~~Title:cāpaḍa~~
-{{description>getting the slap.}}
+---json
+{
+    "name":"cāpaḍa",
+    "h1":"cāpaḍa",
+    "title":"cāpaḍa",
+    "description":"getting the slap."
+}
+---
 
 ==== cāpaḍa khāñā  ====
   * getting the slap --- [[books:cc:madhya:13:95|Madhya 13.95]]

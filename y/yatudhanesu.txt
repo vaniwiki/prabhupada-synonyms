@@ -1,5 +1,11 @@
-~~Title:yātudhāneṣu~~
-{{description>the ghostly Yakṣas.}}
+---json
+{
+    "name":"yātudhāneṣu",
+    "h1":"yātudhāneṣu",
+    "title":"yātudhāneṣu",
+    "description":"the ghostly Yakṣas."
+}
+---
 
 ==== yātudhāneṣu  ====
   * the ghostly Yakṣas --- [[books:sb:4:10:15|SB 4.10.15]]

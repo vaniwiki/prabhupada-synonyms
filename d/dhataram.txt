@@ -1,5 +1,11 @@
-~~Title:dhātāram~~
-{{description>Dhātā; maintainer.}}
+---json
+{
+    "name":"dhātāram",
+    "h1":"dhātāram",
+    "title":"dhātāram",
+    "description":"Dhātā; maintainer."
+}
+---
 
 ==== dhātāram  ====
   * Dhātā --- [[books:sb:4:1:43|SB 4.1.43]]

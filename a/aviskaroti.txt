@@ -1,5 +1,11 @@
-~~Title:āviṣkaroti~~
-{{description>arouses; manifests.}}
+---json
+{
+    "name":"āviṣkaroti",
+    "h1":"āviṣkaroti",
+    "title":"āviṣkaroti",
+    "description":"arouses; manifests."
+}
+---
 
 ==== āviṣkaroti  ====
   * arouses --- [[books:noi:11|NoI 11]]

@@ -1,5 +1,11 @@
-~~Title:guhyakān~~
-{{description>the inhabitants of the Yakṣa planet; the Yakṣas.}}
+---json
+{
+    "name":"guhyakān",
+    "h1":"guhyakān",
+    "title":"guhyakān",
+    "description":"the inhabitants of the Yakṣa planet; the Yakṣas."
+}
+---
 
 ==== guhyakān  ====
   * the inhabitants of the Yakṣa planet --- [[books:sb:2:10:37-40|SB 2.10.37-40]]

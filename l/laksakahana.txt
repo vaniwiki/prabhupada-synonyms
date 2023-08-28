@@ -1,5 +1,11 @@
-~~Title:lakṣakāhana~~
-{{description>200,000 kāhanas of kauḍis.}}
+---json
+{
+    "name":"lakṣakāhana",
+    "h1":"lakṣakāhana",
+    "title":"lakṣakāhana",
+    "description":"200,000 kāhanas of kauḍis."
+}
+---
 
 ==== dui-lakṣakāhana kauḍi  ====
   * 200,000 //kāhanas// of //kauḍis// --- [[books:cc:antya:9:119|Antya 9.119]]

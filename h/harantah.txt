@@ -1,5 +1,11 @@
-~~Title:harantaḥ~~
-{{description>snatching from one another; while offering.}}
+---json
+{
+    "name":"harantaḥ",
+    "h1":"harantaḥ",
+    "title":"harantaḥ",
+    "description":"snatching from one another; while offering."
+}
+---
 
 ==== harantaḥ  ====
   * snatching from one another --- [[books:sb:8:9:1|SB 8.9.1]]

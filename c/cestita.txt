@@ -1,5 +1,11 @@
-~~Title:ceṣṭita~~
-{{description>activities.}}
+---json
+{
+    "name":"ceṣṭita",
+    "h1":"ceṣṭita",
+    "title":"ceṣṭita",
+    "description":"activities."
+}
+---
 
 ==== ceṣṭita  ====
   * activities --- [[books:cc:adi:13:43|Ādi 13.43]], [[books:cc:antya:17:63|Antya 17.63]]

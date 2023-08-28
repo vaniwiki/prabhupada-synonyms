@@ -1,5 +1,11 @@
-~~Title:ādeśakarāḥ~~
-{{description>following the order.}}
+---json
+{
+    "name":"ādeśakarāḥ",
+    "h1":"ādeśakarāḥ",
+    "title":"ādeśakarāḥ",
+    "description":"following the order."
+}
+---
 
 ==== ādeśakarāḥ  ====
   * following the order --- [[books:sb:5:4:13|SB 5.4.13]]

@@ -1,5 +1,11 @@
-~~Title:dehah~~
-{{description>another body; body; her body; his body; material body and mind; the body; the material body; the same body; this body; this material body; transcendental body.}}
+---json
+{
+    "name":"dehah",
+    "h1":"dehah",
+    "title":"dehah",
+    "description":"another body; body; her body; his body; material body and mind; the body; the material body; the same body; this body; this material body; transcendental body."
+}
+---
 
 ==== dehaḥ  ====
   * another body --- [[books:sb:6:15:7|SB 6.15.7]], [[books:sb:6:16:57|SB 6.16.57]]

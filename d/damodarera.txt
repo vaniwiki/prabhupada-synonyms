@@ -1,5 +1,11 @@
-~~Title:dāmodarera~~
-{{description>of Dāmodara Paṇḍita.}}
+---json
+{
+    "name":"dāmodarera",
+    "h1":"dāmodarera",
+    "title":"dāmodarera",
+    "description":"of Dāmodara Paṇḍita."
+}
+---
 
 ==== dāmodarera  ====
   * of Dāmodara Paṇḍita --- [[books:cc:antya:3:46|Antya 3.46]]

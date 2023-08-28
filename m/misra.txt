@@ -1,5 +1,11 @@
-~~Title:misra~~
-{{description>Jagannātha Miśra; Kāśī Miśra; mixed; my dear Jagannātha Miśra; of Tapana Miśra; Pradyumna Miśra; Tapana Miśra.}}
+---json
+{
+    "name":"misra",
+    "h1":"misra",
+    "title":"misra",
+    "description":"Jagannātha Miśra; Kāśī Miśra; mixed; my dear Jagannātha Miśra; of Tapana Miśra; Pradyumna Miśra; Tapana Miśra."
+}
+---
 
 ==== miśra  ====
   * Jagannātha Miśra --- [[books:cc:adi:13:107|Ādi 13.107]], [[books:cc:adi:13:108|Ādi 13.108]], [[books:cc:adi:13:120|Ādi 13.120]], [[books:cc:adi:14:83|Ādi 14.83]], [[books:cc:adi:14:91|Ādi 14.91]], [[books:cc:adi:14:94|Ādi 14.94]], [[books:cc:adi:15:11|Ādi 15.11]], [[books:cc:adi:15:23|Ādi 15.23]]

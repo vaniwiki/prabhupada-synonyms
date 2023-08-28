@@ -1,5 +1,11 @@
-~~Title:rakṣitam~~
-{{description>protected by destiny.}}
+---json
+{
+    "name":"rakṣitam",
+    "h1":"rakṣitam",
+    "title":"rakṣitam",
+    "description":"protected by destiny."
+}
+---
 
 ==== diṣṭa-rakṣitam  ====
   * protected by destiny --- [[books:sb:7:2:40|SB 7.2.40]]

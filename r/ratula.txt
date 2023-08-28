@@ -1,5 +1,11 @@
-~~Title:rātula~~
-{{description>red.}}
+---json
+{
+    "name":"rātula",
+    "h1":"rātula",
+    "title":"rātula",
+    "description":"red."
+}
+---
 
 ==== rātula  ====
   * red --- [[books:cc:antya:13:52|Antya 13.52]]

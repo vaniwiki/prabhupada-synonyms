@@ -1,5 +1,11 @@
-~~Title:vaikrtah~~
-{{description>by the modes of material nature.}}
+---json
+{
+    "name":"vaikrtah",
+    "h1":"vaikrtah",
+    "title":"vaikrtah",
+    "description":"by the modes of material nature."
+}
+---
 
 ==== vaikṛtaḥ  ====
   * by the modes of material nature --- [[books:sb:3:10:14|SB 3.10.14]]

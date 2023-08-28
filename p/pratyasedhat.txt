@@ -1,5 +1,11 @@
-~~Title:pratyaṣedhat~~
-{{description>defended.}}
+---json
+{
+    "name":"pratyaṣedhat",
+    "h1":"pratyaṣedhat",
+    "title":"pratyaṣedhat",
+    "description":"defended."
+}
+---
 
 ==== pratyaṣedhat  ====
   * defended --- [[books:sb:4:27:15|SB 4.27.15]]

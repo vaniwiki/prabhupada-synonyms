@@ -1,5 +1,11 @@
-~~Title:amaraiḥ~~
-{{description>by such demigods; by the demigods.}}
+---json
+{
+    "name":"amaraiḥ",
+    "h1":"amaraiḥ",
+    "title":"amaraiḥ",
+    "description":"by such demigods; by the demigods."
+}
+---
 
 ==== amaraiḥ  ====
   * by such demigods --- [[books:sb:10:12:13|SB 10.12.13]]

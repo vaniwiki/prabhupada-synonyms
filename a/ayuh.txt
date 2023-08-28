@@ -1,5 +1,11 @@
-~~Title:ayuh~~
-{{description>Ayu.}}
+---json
+{
+    "name":"ayuh",
+    "h1":"ayuh",
+    "title":"ayuh",
+    "description":"Ayu."
+}
+---
 
 ==== ayuḥ  ====
   * Ayu --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

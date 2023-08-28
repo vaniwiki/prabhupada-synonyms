@@ -1,5 +1,11 @@
-~~Title:sampūjayet~~
-{{description>should worship.}}
+---json
+{
+    "name":"sampūjayet",
+    "h1":"sampūjayet",
+    "title":"sampūjayet",
+    "description":"should worship."
+}
+---
 
 ==== sampūjayet  ====
   * should worship --- [[books:sb:6:19:9|SB 6.19.9]]

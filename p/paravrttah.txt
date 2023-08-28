@@ -1,5 +1,11 @@
-~~Title:parāvṛttaḥ~~
-{{description>became engaged.}}
+---json
+{
+    "name":"parāvṛttaḥ",
+    "h1":"parāvṛttaḥ",
+    "title":"parāvṛttaḥ",
+    "description":"became engaged."
+}
+---
 
 ==== parāvṛttaḥ  ====
   * became engaged --- [[books:sb:7:5:54|SB 7.5.54]]

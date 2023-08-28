@@ -1,5 +1,11 @@
-~~Title:iṣandhara~~
-{{description>Iṣandhara.}}
+---json
+{
+    "name":"iṣandhara",
+    "h1":"iṣandhara",
+    "title":"iṣandhara",
+    "description":"Iṣandhara."
+}
+---
 
 ==== iṣandhara  ====
   * Iṣandhara --- [[books:sb:5:20:11|SB 5.20.11]]

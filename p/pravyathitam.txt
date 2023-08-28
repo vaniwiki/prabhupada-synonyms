@@ -1,5 +1,11 @@
-~~Title:pravyathitam~~
-{{description>perturbed.}}
+---json
+{
+    "name":"pravyathitam",
+    "h1":"pravyathitam",
+    "title":"pravyathitam",
+    "description":"perturbed."
+}
+---
 
 ==== pravyathitam  ====
   * perturbed --- [[books:bg:11:20|Bg. 11.20]], [[books:bg:11:45|Bg. 11.45]]

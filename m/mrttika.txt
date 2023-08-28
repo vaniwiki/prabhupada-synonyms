@@ -1,5 +1,11 @@
-~~Title:mṛttikā~~
-{{description>dirt; earth; the mud.}}
+---json
+{
+    "name":"mṛttikā",
+    "h1":"mṛttikā",
+    "title":"mṛttikā",
+    "description":"dirt; earth; the mud."
+}
+---
 
 ==== mṛttikā  ====
   * dirt --- [[books:cc:adi:14:25|Ādi 14.25]], [[books:cc:madhya:1:165|Madhya 1.165]]

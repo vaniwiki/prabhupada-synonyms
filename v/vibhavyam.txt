@@ -1,5 +1,11 @@
-~~Title:vibhāvyam~~
-{{description>worshipable.}}
+---json
+{
+    "name":"vibhāvyam",
+    "h1":"vibhāvyam",
+    "title":"vibhāvyam",
+    "description":"worshipable."
+}
+---
 
 ==== vibhāvyam  ====
   * worshipable --- [[books:sb:9:8:23|SB 9.8.23]]

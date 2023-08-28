@@ -1,5 +1,11 @@
-~~Title:vādyakaiḥ~~
-{{description>by playing respectively.}}
+---json
+{
+    "name":"vādyakaiḥ",
+    "h1":"vādyakaiḥ",
+    "title":"vādyakaiḥ",
+    "description":"by playing respectively."
+}
+---
 
 ==== vādyakaiḥ  ====
   * by playing respectively --- [[books:sb:10:12:34|SB 10.12.34]]

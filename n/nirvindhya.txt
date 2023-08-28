@@ -1,5 +1,11 @@
-~~Title:nirvindhyā~~
-{{description>Nirvindhyā.}}
+---json
+{
+    "name":"nirvindhyā",
+    "h1":"nirvindhyā",
+    "title":"nirvindhyā",
+    "description":"Nirvindhyā."
+}
+---
 
 ==== nirvindhyā  ====
   * Nirvindhyā --- [[books:sb:5:19:17-18|SB 5.19.17-18]]

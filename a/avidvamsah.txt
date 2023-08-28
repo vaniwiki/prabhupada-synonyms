@@ -1,5 +1,11 @@
-~~Title:avidvāṁsaḥ~~
-{{description>ignorant; the ignorant.}}
+---json
+{
+    "name":"avidvāṁsaḥ",
+    "h1":"avidvāṁsaḥ",
+    "title":"avidvāṁsaḥ",
+    "description":"ignorant; the ignorant."
+}
+---
 
 ==== avidvāṁsaḥ  ====
   * ignorant --- [[books:sb:6:5:9|SB 6.5.9]]

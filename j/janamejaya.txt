@@ -1,5 +1,11 @@
-~~Title:janamejaya~~
-{{description>Janamejaya.}}
+---json
+{
+    "name":"janamejaya",
+    "h1":"janamejaya",
+    "title":"janamejaya",
+    "description":"Janamejaya."
+}
+---
 
 ==== janamejaya  ====
   * Janamejaya --- [[books:sb:9:22:35|SB 9.22.35]]

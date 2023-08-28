@@ -1,5 +1,11 @@
-~~Title:utpatitam~~
-{{description>arisen; occurred.}}
+---json
+{
+    "name":"utpatitam",
+    "h1":"utpatitam",
+    "title":"utpatitam",
+    "description":"arisen; occurred."
+}
+---
 
 ==== utpatitam  ====
   * arisen --- [[books:sb:3:4:23|SB 3.4.23]]

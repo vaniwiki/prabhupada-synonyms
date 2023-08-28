@@ -1,5 +1,11 @@
-~~Title:durantaya~~
-{{description>insurmountable; of great potency.}}
+---json
+{
+    "name":"durantaya",
+    "h1":"durantaya",
+    "title":"durantaya",
+    "description":"insurmountable; of great potency."
+}
+---
 
 ==== durantayā  ====
   * insurmountable --- [[books:sb:4:6:48|SB 4.6.48]]

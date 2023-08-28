@@ -1,5 +1,11 @@
-~~Title:lājaiḥ~~
-{{description>wetted grains.}}
+---json
+{
+    "name":"lājaiḥ",
+    "h1":"lājaiḥ",
+    "title":"lājaiḥ",
+    "description":"wetted grains."
+}
+---
 
 ==== lājaiḥ  ====
   * wetted grains --- [[books:sb:4:21:2|SB 4.21.2]]

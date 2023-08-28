@@ -1,5 +1,11 @@
-~~Title:saṁyamane~~
-{{description>by self-control.}}
+---json
+{
+    "name":"saṁyamane",
+    "h1":"saṁyamane",
+    "title":"saṁyamane",
+    "description":"by self-control."
+}
+---
 
 ==== ātma-saṁyamane  ====
   * by self-control --- [[books:sb:7:15:9|SB 7.15.9]]

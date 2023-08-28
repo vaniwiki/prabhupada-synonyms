@@ -1,5 +1,11 @@
-~~Title:kūjat~~
-{{description>chirping; singing; tinkling; uttering cries; vibrated by the voice; whispering.}}
+---json
+{
+    "name":"kūjat",
+    "h1":"kūjat",
+    "title":"kūjat",
+    "description":"chirping; singing; tinkling; uttering cries; vibrated by the voice; whispering."
+}
+---
 
 ==== kūjat  ====
   * chirping --- [[books:sb:8:15:12|SB 8.15.12]]

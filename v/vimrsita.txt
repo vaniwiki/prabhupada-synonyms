@@ -1,5 +1,11 @@
-~~Title:vimṛśita~~
-{{description>meditated on.}}
+---json
+{
+    "name":"vimṛśita",
+    "h1":"vimṛśita",
+    "title":"vimṛśita",
+    "description":"meditated on."
+}
+---
 
 ==== vimṛśita  ====
   * meditated on --- [[books:sb:4:7:42|SB 4.7.42]]

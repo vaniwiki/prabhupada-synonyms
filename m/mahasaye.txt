@@ -1,5 +1,11 @@
-~~Title:mahāśaye~~
-{{description>very great personality.}}
+---json
+{
+    "name":"mahāśaye",
+    "h1":"mahāśaye",
+    "title":"mahāśaye",
+    "description":"very great personality."
+}
+---
 
 ==== mahāśaye  ====
   * very great personality --- [[books:cc:adi:13:85|Ādi 13.85]]

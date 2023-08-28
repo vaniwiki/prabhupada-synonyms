@@ -1,5 +1,11 @@
-~~Title:nirvāpaṇam~~
-{{description>extinguishing.}}
+---json
+{
+    "name":"nirvāpaṇam",
+    "h1":"nirvāpaṇam",
+    "title":"nirvāpaṇam",
+    "description":"extinguishing."
+}
+---
 
 ==== nirvāpaṇam  ====
   * extinguishing --- [[books:cc:antya:20:12|Antya 20.12]]

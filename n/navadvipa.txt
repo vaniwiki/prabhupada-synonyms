@@ -1,5 +1,11 @@
-~~Title:navadvīpa~~
-{{description>Navadvīpa; of the name Navadvīpa; the place of the name Navadvīpa; the whole city of Navadvīpa.}}
+---json
+{
+    "name":"navadvīpa",
+    "h1":"navadvīpa",
+    "title":"navadvīpa",
+    "description":"Navadvīpa; of the name Navadvīpa; the place of the name Navadvīpa; the whole city of Navadvīpa."
+}
+---
 
 ==== navadvīpa  ====
   * Navadvīpa --- [[books:cc:madhya:9:294|Madhya 9.294]]

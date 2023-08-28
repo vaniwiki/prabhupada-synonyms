@@ -1,5 +1,11 @@
-~~Title:ṭhele~~
-{{description>pushes; when he pushes.}}
+---json
+{
+    "name":"ṭhele",
+    "h1":"ṭhele",
+    "title":"ṭhele",
+    "description":"pushes; when he pushes."
+}
+---
 
 ==== ṭhele  ====
   * pushes --- [[books:cc:madhya:13:189|Madhya 13.189]], [[books:cc:madhya:14:55|Madhya 14.55]]

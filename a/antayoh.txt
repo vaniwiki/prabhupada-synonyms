@@ -1,5 +1,11 @@
-~~Title:antayoḥ~~
-{{description>at the end.}}
+---json
+{
+    "name":"antayoḥ",
+    "h1":"antayoḥ",
+    "title":"antayoḥ",
+    "description":"at the end."
+}
+---
 
 ==== antayoḥ  ====
   * at the end --- [[books:sb:7:9:30|SB 7.9.30]]

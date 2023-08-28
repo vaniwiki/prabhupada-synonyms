@@ -1,5 +1,11 @@
-~~Title:jyeṣṭhasya~~
-{{description>of the elder.}}
+---json
+{
+    "name":"jyeṣṭhasya",
+    "h1":"jyeṣṭhasya",
+    "title":"jyeṣṭhasya",
+    "description":"of the elder."
+}
+---
 
 ==== jyeṣṭhasya  ====
   * of the elder --- [[books:sb:1:13:14|SB 1.13.14]]

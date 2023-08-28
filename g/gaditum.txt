@@ -1,5 +1,11 @@
-~~Title:gaditum~~
-{{description>to narrate.}}
+---json
+{
+    "name":"gaditum",
+    "h1":"gaditum",
+    "title":"gaditum",
+    "description":"to narrate."
+}
+---
 
 ==== gaditum  ====
   * to narrate --- [[books:sb:1:12:3|SB 1.12.3]]

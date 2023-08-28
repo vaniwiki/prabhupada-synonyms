@@ -1,5 +1,11 @@
-~~Title:preṅkham~~
-{{description>movement of enjoyment.}}
+---json
+{
+    "name":"preṅkham",
+    "h1":"preṅkham",
+    "title":"preṅkham",
+    "description":"movement of enjoyment."
+}
+---
 
 ==== preṅkham  ====
   * movement of enjoyment --- [[books:sb:2:9:14|SB 2.9.14]]

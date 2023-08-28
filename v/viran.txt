@@ -1,5 +1,11 @@
-~~Title:vīrān~~
-{{description>great warriors.}}
+---json
+{
+    "name":"vīrān",
+    "h1":"vīrān",
+    "title":"vīrān",
+    "description":"great warriors."
+}
+---
 
 ==== yodha-vīrān  ====
   * great warriors --- [[books:bg:11:34|Bg. 11.34]]

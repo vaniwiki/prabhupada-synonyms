@@ -1,5 +1,11 @@
-~~Title:pravartayan~~
-{{description>departing.}}
+---json
+{
+    "name":"pravartayan",
+    "h1":"pravartayan",
+    "title":"pravartayan",
+    "description":"departing."
+}
+---
 
 ==== pravartayan  ====
   * departing --- [[books:sb:5:1:21|SB 5.1.21]]

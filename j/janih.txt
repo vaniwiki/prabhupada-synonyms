@@ -1,5 +1,11 @@
-~~Title:janiḥ~~
-{{description>birth.}}
+---json
+{
+    "name":"janiḥ",
+    "h1":"janiḥ",
+    "title":"janiḥ",
+    "description":"birth."
+}
+---
 
 ==== janiḥ  ====
   * birth --- [[books:cc:antya:1:162|Antya 1.162]]

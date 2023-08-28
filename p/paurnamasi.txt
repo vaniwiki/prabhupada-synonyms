@@ -1,5 +1,11 @@
-~~Title:paurṇamāsī~~
-{{description>the full-moon night.}}
+---json
+{
+    "name":"paurṇamāsī",
+    "h1":"paurṇamāsī",
+    "title":"paurṇamāsī",
+    "description":"the full-moon night."
+}
+---
 
 ==== paurṇamāsī  ====
   * the full-moon night --- [[books:cc:antya:1:136|Antya 1.136]]

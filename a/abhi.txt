@@ -1,5 +1,11 @@
-~~Title:abhi~~
-{{description>towards.}}
+---json
+{
+    "name":"abhi",
+    "h1":"abhi",
+    "title":"abhi",
+    "description":"towards."
+}
+---
 
 ==== abhi  ====
   * towards --- [[books:sb:1:14:12|SB 1.14.12]]

@@ -1,5 +1,11 @@
-~~Title:aśnan~~
-{{description>accepting; burning; by eating; while eating.}}
+---json
+{
+    "name":"aśnan",
+    "h1":"aśnan",
+    "title":"aśnan",
+    "description":"accepting; burning; by eating; while eating."
+}
+---
 
 ==== aśnan  ====
   * accepting --- [[books:sb:5:1:16|SB 5.1.16]]

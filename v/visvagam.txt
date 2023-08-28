@@ -1,5 +1,11 @@
-~~Title:viśvagam~~
-{{description>and named Viśvaga.}}
+---json
+{
+    "name":"viśvagam",
+    "h1":"viśvagam",
+    "title":"viśvagam",
+    "description":"and named Viśvaga."
+}
+---
 
 ==== viśvagam ca  ====
   * and named Viśvaga --- [[books:sb:4:1:14|SB 4.1.14]]

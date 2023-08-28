@@ -1,5 +1,11 @@
-~~Title:paṭṭiśa~~
-{{description>a sharp-edged spear; lances.}}
+---json
+{
+    "name":"paṭṭiśa",
+    "h1":"paṭṭiśa",
+    "title":"paṭṭiśa",
+    "description":"a sharp-edged spear; lances."
+}
+---
 
 ==== paṭṭiśa  ====
   * a sharp-edged spear --- [[books:sb:4:6:1-2|SB 4.6.1-2]]

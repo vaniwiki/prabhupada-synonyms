@@ -1,5 +1,11 @@
-~~Title:siksaya~~
-{{description>by the will of; by their instructions.}}
+---json
+{
+    "name":"siksaya",
+    "h1":"siksaya",
+    "title":"siksaya",
+    "description":"by the will of; by their instructions."
+}
+---
 
 ==== śikṣayā  ====
   * by the will of --- [[books:sb:1:5:36|SB 1.5.36]]

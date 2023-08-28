@@ -1,5 +1,11 @@
-~~Title:alpake~~
-{{description>less important.}}
+---json
+{
+    "name":"alpake",
+    "h1":"alpake",
+    "title":"alpake",
+    "description":"less important."
+}
+---
 
 ==== alpake  ====
   * less important --- [[books:sb:8:11:36|SB 8.11.36]]

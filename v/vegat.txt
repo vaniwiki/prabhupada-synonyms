@@ -1,5 +1,11 @@
-~~Title:vegāt~~
-{{description>with great force.}}
+---json
+{
+    "name":"vegāt",
+    "h1":"vegāt",
+    "title":"vegāt",
+    "description":"with great force."
+}
+---
 
 ==== vegāt  ====
   * with great force --- [[books:sb:9:15:34|SB 9.15.34]]

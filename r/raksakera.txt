@@ -1,5 +1,11 @@
-~~Title:rakṣakera~~
-{{description>from the clutches of the watchmen.}}
+---json
+{
+    "name":"rakṣakera",
+    "h1":"rakṣakera",
+    "title":"rakṣakera",
+    "description":"from the clutches of the watchmen."
+}
+---
 
 ==== rakṣakera hāte  ====
   * from the clutches of the watchmen --- [[books:cc:madhya:16:235|Madhya 16.235]]

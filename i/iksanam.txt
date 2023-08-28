@@ -1,5 +1,11 @@
-~~Title:iksanam~~
-{{description>and glancing; audience; eyes; having eyes; manifestation; vision; whose eyes; with eyes.}}
+---json
+{
+    "name":"iksanam",
+    "h1":"iksanam",
+    "title":"iksanam",
+    "description":"and glancing; audience; eyes; having eyes; manifestation; vision; whose eyes; with eyes."
+}
+---
 
 ==== īkṣaṇam  ====
   * and glancing --- [[books:sb:3:21:10|SB 3.21.10]]

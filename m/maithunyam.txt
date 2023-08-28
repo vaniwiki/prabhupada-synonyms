@@ -1,5 +1,11 @@
-~~Title:maithunyam~~
-{{description>based on sexual intercourse.}}
+---json
+{
+    "name":"maithunyam",
+    "h1":"maithunyam",
+    "title":"maithunyam",
+    "description":"based on sexual intercourse."
+}
+---
 
 ==== maithunyam  ====
   * based on sexual intercourse --- [[books:sb:5:5:7|SB 5.5.7]]

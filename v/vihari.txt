@@ -1,5 +1,11 @@
-~~Title:vihari~~
-{{description>enjoying.}}
+---json
+{
+    "name":"vihari",
+    "h1":"vihari",
+    "title":"vihari",
+    "description":"enjoying."
+}
+---
 
 ==== vihari  ====
   * enjoying --- [[books:cc:adi:13:8|Ādi 13.8]]

@@ -1,5 +1,11 @@
-~~Title:durvitarkya~~
-{{description>uncommon.}}
+---json
+{
+    "name":"durvitarkya",
+    "h1":"durvitarkya",
+    "title":"durvitarkya",
+    "description":"uncommon."
+}
+---
 
 ==== durvitarkya  ====
   * uncommon --- [[books:sb:7:10:54-55|SB 7.10.54-55]]

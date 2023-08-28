@@ -1,5 +1,11 @@
-~~Title:aṅghrau~~
-{{description>in the feet.}}
+---json
+{
+    "name":"aṅghrau",
+    "h1":"aṅghrau",
+    "title":"aṅghrau",
+    "description":"in the feet."
+}
+---
 
 ==== aṅghrau  ====
   * in the feet --- [[books:sb:4:28:46|SB 4.28.46]]

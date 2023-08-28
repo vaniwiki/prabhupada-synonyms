@@ -1,5 +1,11 @@
-~~Title:akhaṇḍam~~
-{{description>unbroken.}}
+---json
+{
+    "name":"akhaṇḍam",
+    "h1":"akhaṇḍam",
+    "title":"akhaṇḍam",
+    "description":"unbroken."
+}
+---
 
 ==== akhaṇḍam  ====
   * unbroken --- [[books:sb:6:5:22|SB 6.5.22]]

@@ -1,5 +1,11 @@
-~~Title:cheda~~
-{{description>although being cut.}}
+---json
+{
+    "name":"cheda",
+    "h1":"cheda",
+    "title":"cheda",
+    "description":"although being cut."
+}
+---
 
 ==== cheda  ====
   * although being cut --- [[books:sb:6:9:8|SB 6.9.8]]

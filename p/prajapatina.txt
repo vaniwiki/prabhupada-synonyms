@@ -1,5 +1,11 @@
-~~Title:prajāpatinā~~
-{{description>by the Prajāpati.}}
+---json
+{
+    "name":"prajāpatinā",
+    "h1":"prajāpatinā",
+    "title":"prajāpatinā",
+    "description":"by the Prajāpati."
+}
+---
 
 ==== prajāpatinā  ====
   * by the Prajāpati --- [[books:sb:5:23:1|SB 5.23.1]]

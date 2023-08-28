@@ -1,5 +1,11 @@
-~~Title:hiraṇyena~~
-{{description>with gold ornaments.}}
+---json
+{
+    "name":"hiraṇyena",
+    "h1":"hiraṇyena",
+    "title":"hiraṇyena",
+    "description":"with gold ornaments."
+}
+---
 
 ==== hiraṇyena  ====
   * with gold ornaments --- [[books:sb:9:20:28|SB 9.20.28]]

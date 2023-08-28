@@ -1,5 +1,11 @@
-~~Title:prasādayām~~
-{{description>completely pleased; tried to appease.}}
+---json
+{
+    "name":"prasādayām",
+    "h1":"prasādayām",
+    "title":"prasādayām",
+    "description":"completely pleased; tried to appease."
+}
+---
 
 ==== prasādayām āsa  ====
   * completely pleased --- [[books:sb:6:17:16|SB 6.17.16]]

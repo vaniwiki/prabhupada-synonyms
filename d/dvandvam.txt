@@ -1,5 +1,11 @@
-~~Title:dvandvam~~
-{{description>fighting; to the pair.}}
+---json
+{
+    "name":"dvandvam",
+    "h1":"dvandvam",
+    "title":"dvandvam",
+    "description":"fighting; to the pair."
+}
+---
 
 ==== dvandvam  ====
   * fighting --- [[books:sb:9:10:20|SB 9.10.20]]

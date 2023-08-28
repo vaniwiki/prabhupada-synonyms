@@ -1,5 +1,11 @@
-~~Title:rirakṣiṣuḥ~~
-{{description>desiring protection (from the disturbance of the asuras); desiring to protect.}}
+---json
+{
+    "name":"rirakṣiṣuḥ",
+    "h1":"rirakṣiṣuḥ",
+    "title":"rirakṣiṣuḥ",
+    "description":"desiring protection (from the disturbance of the asuras); desiring to protect."
+}
+---
 
 ==== rirakṣiṣuḥ  ====
   * desiring protection (from the disturbance of the //asuras//) --- [[books:sb:10:3:21|SB 10.3.21]]

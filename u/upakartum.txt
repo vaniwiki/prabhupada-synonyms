@@ -1,5 +1,11 @@
-~~Title:upākartum~~
-{{description>measure in totality.}}
+---json
+{
+    "name":"upākartum",
+    "h1":"upākartum",
+    "title":"upākartum",
+    "description":"measure in totality."
+}
+---
 
 ==== upākartum  ====
   * measure in totality --- [[books:sb:3:6:35|SB 3.6.35]]

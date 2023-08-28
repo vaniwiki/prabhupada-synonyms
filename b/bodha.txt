@@ -1,5 +1,11 @@
-~~Title:bodha~~
-{{description>knowledge; self-knowledge.}}
+---json
+{
+    "name":"bodha",
+    "h1":"bodha",
+    "title":"bodha",
+    "description":"knowledge; self-knowledge."
+}
+---
 
 ==== bodha  ====
   * knowledge --- [[books:sb:8:17:9|SB 8.17.9]]

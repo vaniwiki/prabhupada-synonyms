@@ -1,5 +1,11 @@
-~~Title:markaiḥ~~
-{{description>by monkeys.}}
+---json
+{
+    "name":"markaiḥ",
+    "h1":"markaiḥ",
+    "title":"markaiḥ",
+    "description":"by monkeys."
+}
+---
 
 ==== markaiḥ  ====
   * by monkeys --- [[books:sb:3:21:44|SB 3.21.44]]

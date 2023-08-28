@@ -1,5 +1,11 @@
-~~Title:sarṣapa~~
-{{description>like a mustard seed.}}
+---json
+{
+    "name":"sarṣapa",
+    "h1":"sarṣapa",
+    "title":"sarṣapa",
+    "description":"like a mustard seed."
+}
+---
 
 ==== sarṣapa-ākāra  ====
   * like a mustard seed --- [[books:cc:adi:5:119|Ādi 5.119]]

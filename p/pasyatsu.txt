@@ -1,5 +1,11 @@
-~~Title:paśyatsu~~
-{{description>while observing.}}
+---json
+{
+    "name":"paśyatsu",
+    "h1":"paśyatsu",
+    "title":"paśyatsu",
+    "description":"while observing."
+}
+---
 
 ==== paśyatsu  ====
   * while observing --- [[books:sb:10:11:51|SB 10.11.51]]

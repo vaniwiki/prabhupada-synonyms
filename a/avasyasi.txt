@@ -1,5 +1,11 @@
-~~Title:avasyasi~~
-{{description>exist (as the cause).}}
+---json
+{
+    "name":"avasyasi",
+    "h1":"avasyasi",
+    "title":"avasyasi",
+    "description":"exist (as the cause)."
+}
+---
 
 ==== avasyasi  ====
   * exist (as the cause) --- [[books:sb:7:9:30|SB 7.9.30]]

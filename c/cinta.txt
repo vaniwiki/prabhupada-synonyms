@@ -1,5 +1,11 @@
-~~Title:cintā~~
-{{description>an anxiety or thought; anxiety; consideration; of anxiety.}}
+---json
+{
+    "name":"cintā",
+    "h1":"cintā",
+    "title":"cintā",
+    "description":"an anxiety or thought; anxiety; consideration; of anxiety."
+}
+---
 
 ==== cintā  ====
   * an anxiety or thought --- [[books:cc:antya:19:66|Antya 19.66]]

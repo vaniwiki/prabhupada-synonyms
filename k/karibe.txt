@@ -1,5 +1,11 @@
-~~Title:karibe~~
-{{description>can count; do; he will do; may do; one can do; should do; should practice; they will; will; will bestow; will do; will execute; will make; will observe; you must make; you should do; you will do.}}
+---json
+{
+    "name":"karibe",
+    "h1":"karibe",
+    "title":"karibe",
+    "description":"can count; do; he will do; may do; one can do; should do; should practice; they will; will; will bestow; will do; will execute; will make; will observe; you must make; you should do; you will do."
+}
+---
 
 ==== karibe  ====
   * can count --- [[books:cc:adi:9:23|Ādi 9.23]]

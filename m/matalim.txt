@@ -1,5 +1,11 @@
-~~Title:mātalim~~
-{{description>unto the chariot driver Mātali.}}
+---json
+{
+    "name":"mātalim",
+    "h1":"mātalim",
+    "title":"mātalim",
+    "description":"unto the chariot driver Mātali."
+}
+---
 
 ==== mātalim  ====
   * unto the chariot driver Mātali --- [[books:sb:8:11:22|SB 8.11.22]]

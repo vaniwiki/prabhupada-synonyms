@@ -1,5 +1,11 @@
-~~Title:calet~~
-{{description>would wander.}}
+---json
+{
+    "name":"calet",
+    "h1":"calet",
+    "title":"calet",
+    "description":"would wander."
+}
+---
 
 ==== calet  ====
   * would wander --- [[books:cc:madhya:24:56|Madhya 24.56]], [[books:cc:antya:17:31|Antya 17.31]]

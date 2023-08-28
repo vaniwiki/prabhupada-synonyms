@@ -1,5 +1,11 @@
-~~Title:gaurāṅgera~~
-{{description>of Lord Caitanya.}}
+---json
+{
+    "name":"gaurāṅgera",
+    "h1":"gaurāṅgera",
+    "title":"gaurāṅgera",
+    "description":"of Lord Caitanya."
+}
+---
 
 ==== gaurāṅgera  ====
   * of Lord Caitanya --- [[books:cc:adi:8:65|Ādi 8.65]]

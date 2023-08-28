@@ -1,5 +1,11 @@
-~~Title:ghoṣerao~~
-{{description>of the surname Ghoṣa.}}
+---json
+{
+    "name":"ghoṣerao",
+    "h1":"ghoṣerao",
+    "title":"ghoṣerao",
+    "description":"of the surname Ghoṣa."
+}
+---
 
 ==== ghoṣerao  ====
   * of the surname Ghoṣa --- [[books:cc:adi:11:14-15|Ādi 11.14-15]]

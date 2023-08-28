@@ -1,5 +1,11 @@
-~~Title:keśura~~
-{{description>keśura fruit.}}
+---json
+{
+    "name":"keśura",
+    "h1":"keśura",
+    "title":"keśura",
+    "description":"keśura fruit."
+}
+---
 
 ==== keśura  ====
   * //keśura// fruit --- [[books:cc:antya:18:105|Antya 18.105]]

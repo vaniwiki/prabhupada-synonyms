@@ -1,5 +1,11 @@
-~~Title:janamilā~~
-{{description>took birth.}}
+---json
+{
+    "name":"janamilā",
+    "h1":"janamilā",
+    "title":"janamilā",
+    "description":"took birth."
+}
+---
 
 ==== janamilā  ====
   * took birth --- [[books:cc:adi:13:74|Ādi 13.74]]

@@ -1,5 +1,11 @@
-~~Title:calilāṅ~~
-{{description>went.}}
+---json
+{
+    "name":"calilāṅ",
+    "h1":"calilāṅ",
+    "title":"calilāṅ",
+    "description":"went."
+}
+---
 
 ==== calilāṅ  ====
   * went --- [[books:cc:madhya:7:19|Madhya 7.19]]

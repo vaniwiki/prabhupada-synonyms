@@ -1,5 +1,11 @@
-~~Title:gavaya~~
-{{description>a wild animal closely resembling the cow.}}
+---json
+{
+    "name":"gavaya",
+    "h1":"gavaya",
+    "title":"gavaya",
+    "description":"a wild animal closely resembling the cow."
+}
+---
 
 ==== gavaya  ====
   * a wild animal closely resembling the cow --- [[books:sb:3:21:44|SB 3.21.44]]

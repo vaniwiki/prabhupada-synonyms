@@ -1,5 +1,11 @@
-~~Title:cāka~~
-{{description>the potter's wheel.}}
+---json
+{
+    "name":"cāka",
+    "h1":"cāka",
+    "title":"cāka",
+    "description":"the potter's wheel."
+}
+---
 
 ==== kumārera cāka  ====
   * the potter's wheel --- [[books:cc:antya:15:6|Antya 15.6]]

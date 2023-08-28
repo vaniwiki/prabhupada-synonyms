@@ -1,5 +1,11 @@
-~~Title:agāram~~
-{{description>a home.}}
+---json
+{
+    "name":"agāram",
+    "h1":"agāram",
+    "title":"agāram",
+    "description":"a home."
+}
+---
 
 ==== agāram  ====
   * a home --- [[books:sb:5:5:7|SB 5.5.7]]

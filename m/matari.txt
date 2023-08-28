@@ -1,5 +1,11 @@
-~~Title:mātari~~
-{{description>unto the mother; when His mother.}}
+---json
+{
+    "name":"mātari",
+    "h1":"mātari",
+    "title":"mātari",
+    "description":"unto the mother; when His mother."
+}
+---
 
 ==== mātari  ====
   * unto the mother --- [[books:cc:madhya:10:145|Madhya 10.145]]

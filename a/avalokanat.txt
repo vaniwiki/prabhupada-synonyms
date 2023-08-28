@@ -1,5 +1,11 @@
-~~Title:avalokanāt~~
-{{description>from the glance.}}
+---json
+{
+    "name":"avalokanāt",
+    "h1":"avalokanāt",
+    "title":"avalokanāt",
+    "description":"from the glance."
+}
+---
 
 ==== avalokanāt  ====
   * from the glance --- [[books:sb:3:21:45-47|SB 3.21.45-47]]

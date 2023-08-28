@@ -1,5 +1,11 @@
-~~Title:kuṭumba~~
-{{description>family; family members; his family; of family members; relatives; to kith and kin; to relatives.}}
+---json
+{
+    "name":"kuṭumba",
+    "h1":"kuṭumba",
+    "title":"kuṭumba",
+    "description":"family; family members; his family; of family members; relatives; to kith and kin; to relatives."
+}
+---
 
 ==== kuṭumba  ====
   * family --- [[books:sb:3:30:33|SB 3.30.33]], [[books:cc:adi:10:50|Ādi 10.50]], [[books:cc:madhya:11:39|Madhya 11.39]]

@@ -1,5 +1,11 @@
-~~Title:vidambana~~
-{{description>cheating.}}
+---json
+{
+    "name":"vidambana",
+    "h1":"vidambana",
+    "title":"vidambana",
+    "description":"cheating."
+}
+---
 
 ==== viḍambana  ====
   * cheating --- [[books:cc:adi:12:47|Ādi 12.47]]

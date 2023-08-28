@@ -1,5 +1,11 @@
-~~Title:catvarām~~
-{{description>public meeting places.}}
+---json
+{
+    "name":"catvarām",
+    "h1":"catvarām",
+    "title":"catvarām",
+    "description":"public meeting places."
+}
+---
 
 ==== catvarām  ====
   * public meeting places --- [[books:sb:1:11:14|SB 1.11.14]]

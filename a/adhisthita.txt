@@ -1,5 +1,11 @@
-~~Title:adhiṣṭhita~~
-{{description>established; situated.}}
+---json
+{
+    "name":"adhiṣṭhita",
+    "h1":"adhiṣṭhita",
+    "title":"adhiṣṭhita",
+    "description":"established; situated."
+}
+---
 
 ==== adhiṣṭhita  ====
   * established --- [[books:cc:adi:10:69|Ādi 10.69]]

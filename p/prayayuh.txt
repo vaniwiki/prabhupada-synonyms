@@ -1,5 +1,11 @@
-~~Title:prayayuḥ~~
-{{description>immediately departed; left; returned; they returned; they went to; went away.}}
+---json
+{
+    "name":"prayayuḥ",
+    "h1":"prayayuḥ",
+    "title":"prayayuḥ",
+    "description":"immediately departed; left; returned; they returned; they went to; went away."
+}
+---
 
 ==== prayayuḥ  ====
   * immediately departed --- [[books:sb:9:1:31|SB 9.1.31]]

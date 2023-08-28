@@ -1,5 +1,11 @@
-~~Title:doṅhāre~~
-{{description>both Nārada Muni and Parvata; both of them; the two of them.}}
+---json
+{
+    "name":"doṅhāre",
+    "h1":"doṅhāre",
+    "title":"doṅhāre",
+    "description":"both Nārada Muni and Parvata; both of them; the two of them."
+}
+---
 
 ==== doṅhāre  ====
   * both Nārada Muni and Parvata --- [[books:cc:madhya:24:274|Madhya 24.274]]

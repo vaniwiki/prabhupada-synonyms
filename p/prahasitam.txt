@@ -1,5 +1,11 @@
-~~Title:prahasitam~~
-{{description>the laughter.}}
+---json
+{
+    "name":"prahasitam",
+    "h1":"prahasitam",
+    "title":"prahasitam",
+    "description":"the laughter."
+}
+---
 
 ==== prahasitam  ====
   * the laughter --- [[books:sb:3:28:33|SB 3.28.33]]

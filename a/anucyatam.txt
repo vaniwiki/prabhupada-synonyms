@@ -1,5 +1,11 @@
-~~Title:anūcyatām~~
-{{description>let it be told.}}
+---json
+{
+    "name":"anūcyatām",
+    "h1":"anūcyatām",
+    "title":"anūcyatām",
+    "description":"let it be told."
+}
+---
 
 ==== anūcyatām  ====
   * let it be told --- [[books:sb:7:5:22|SB 7.5.22]]

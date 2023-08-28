@@ -1,5 +1,11 @@
-~~Title:ḍubite~~
-{{description>to sink.}}
+---json
+{
+    "name":"ḍubite",
+    "h1":"ḍubite",
+    "title":"ḍubite",
+    "description":"to sink."
+}
+---
 
 ==== ḍubite  ====
   * to sink --- [[books:cc:madhya:19:81|Madhya 19.81]]

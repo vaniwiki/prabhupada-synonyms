@@ -1,5 +1,11 @@
-~~Title:jihvam~~
-{{description>one who has such a tongue; possessing points; tongue; whose tongue.}}
+---json
+{
+    "name":"jihvam",
+    "h1":"jihvam",
+    "title":"jihvam",
+    "description":"one who has such a tongue; possessing points; tongue; whose tongue."
+}
+---
 
 ==== jihvam  ====
   * one who has such a tongue --- [[books:sb:2:7:28|SB 2.7.28]]

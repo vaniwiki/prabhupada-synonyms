@@ -1,5 +1,11 @@
-~~Title:śukāiyā~~
-{{description>dried up; drying up.}}
+---json
+{
+    "name":"śukāiyā",
+    "h1":"śukāiyā",
+    "title":"śukāiyā",
+    "description":"dried up; drying up."
+}
+---
 
 ==== śukāiyā  ====
   * dried up --- [[books:cc:adi:12:69|Ādi 12.69]]

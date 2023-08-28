@@ -1,5 +1,11 @@
-~~Title:visam~~
-{{description>of the citizens or the subjects of the world; of the mercantile community; the vaiśyas.}}
+---json
+{
+    "name":"visam",
+    "h1":"visam",
+    "title":"visam",
+    "description":"of the citizens or the subjects of the world; of the mercantile community; the vaiśyas."
+}
+---
 
 ==== viśām  ====
   * of the citizens or the subjects of the world --- [[books:sb:9:19:23|SB 9.19.23]]

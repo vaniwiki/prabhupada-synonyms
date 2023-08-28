@@ -1,5 +1,11 @@
-~~Title:samyati~~
-{{description>goes away; verily accepts.}}
+---json
+{
+    "name":"samyati",
+    "h1":"samyati",
+    "title":"samyati",
+    "description":"goes away; verily accepts."
+}
+---
 
 ==== saṁyāti  ====
   * goes away --- [[books:bg:15:8|Bg. 15.8]]

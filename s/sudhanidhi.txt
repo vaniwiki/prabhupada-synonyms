@@ -1,5 +1,11 @@
-~~Title:sudhānidhi~~
-{{description>of the name Sudhānidhi.}}
+---json
+{
+    "name":"sudhānidhi",
+    "h1":"sudhānidhi",
+    "title":"sudhānidhi",
+    "description":"of the name Sudhānidhi."
+}
+---
 
 ==== sudhānidhi  ====
   * of the name Sudhānidhi --- [[books:cc:adi:10:133|Ādi 10.133]]

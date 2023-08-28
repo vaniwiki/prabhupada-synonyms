@@ -1,5 +1,11 @@
-~~Title:āpte~~
-{{description>gained after great difficulty.}}
+---json
+{
+    "name":"āpte",
+    "h1":"āpte",
+    "title":"āpte",
+    "description":"gained after great difficulty."
+}
+---
 
 ==== kṛcchra-āpte  ====
   * gained after great difficulty --- [[books:sb:6:14:36|SB 6.14.36]]

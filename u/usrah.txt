@@ -1,5 +1,11 @@
-~~Title:usrāḥ~~
-{{description>the demigods.}}
+---json
+{
+    "name":"usrāḥ",
+    "h1":"usrāḥ",
+    "title":"usrāḥ",
+    "description":"the demigods."
+}
+---
 
 ==== usrāḥ  ====
   * the demigods --- [[books:sb:2:1:29|SB 2.1.29]]

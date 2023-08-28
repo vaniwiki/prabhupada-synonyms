@@ -1,5 +1,11 @@
-~~Title:ācāryanidhira~~
-{{description>of Ācāryanidhi.}}
+---json
+{
+    "name":"ācāryanidhira",
+    "h1":"ācāryanidhira",
+    "title":"ācāryanidhira",
+    "description":"of Ācāryanidhi."
+}
+---
 
 ==== ācāryanidhira  ====
   * of Ācāryanidhi --- [[books:cc:antya:10:120|Antya 10.120]]

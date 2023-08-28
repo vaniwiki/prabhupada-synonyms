@@ -1,5 +1,11 @@
-~~Title:dvijāti~~
-{{description>the purificatory process of second birth (saṁskārād bhaved dvijaḥ).}}
+---json
+{
+    "name":"dvijāti",
+    "h1":"dvijāti",
+    "title":"dvijāti",
+    "description":"the purificatory process of second birth (saṁskārād bhaved dvijaḥ)."
+}
+---
 
 ==== dvijāti-saṁskāram  ====
   * the purificatory process of second birth (//saṁskārād bhaved dvijaḥ//) --- [[books:sb:10:8:10|SB 10.8.10]]

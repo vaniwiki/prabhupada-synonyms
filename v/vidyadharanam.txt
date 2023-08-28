@@ -1,5 +1,11 @@
-~~Title:vidyādharāṇām~~
-{{description>and the planets of the Vidyādharas.}}
+---json
+{
+    "name":"vidyādharāṇām",
+    "h1":"vidyādharāṇām",
+    "title":"vidyādharāṇām",
+    "description":"and the planets of the Vidyādharas."
+}
+---
 
 ==== vidyādharāṇām  ====
   * and the planets of the Vidyādharas --- [[books:sb:5:24:4|SB 5.24.4]]

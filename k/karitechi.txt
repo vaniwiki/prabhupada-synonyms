@@ -1,5 +1,11 @@
-~~Title:karitechi~~
-{{description>am doing.}}
+---json
+{
+    "name":"karitechi",
+    "h1":"karitechi",
+    "title":"karitechi",
+    "description":"am doing."
+}
+---
 
 ==== karitechi  ====
   * am doing --- [[books:cc:madhya:11:205|Madhya 11.205]]

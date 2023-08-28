@@ -1,5 +1,11 @@
-~~Title:kramate~~
-{{description>You roamed.}}
+---json
+{
+    "name":"kramate",
+    "h1":"kramate",
+    "title":"kramate",
+    "description":"You roamed."
+}
+---
 
 ==== kramate  ====
   * You roamed --- [[books:sb:5:18:28|SB 5.18.28]]

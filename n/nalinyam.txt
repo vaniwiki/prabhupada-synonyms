@@ -1,5 +1,11 @@
-~~Title:nalinyām~~
-{{description>through Nalinī.}}
+---json
+{
+    "name":"nalinyām",
+    "h1":"nalinyām",
+    "title":"nalinyām",
+    "description":"through Nalinī."
+}
+---
 
 ==== nalinyām  ====
   * through Nalinī --- [[books:sb:9:21:30|SB 9.21.30]]

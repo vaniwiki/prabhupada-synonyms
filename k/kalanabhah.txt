@@ -1,5 +1,11 @@
-~~Title:kālanābhaḥ~~
-{{description>Kālanābha.}}
+---json
+{
+    "name":"kālanābhaḥ",
+    "h1":"kālanābhaḥ",
+    "title":"kālanābhaḥ",
+    "description":"Kālanābha."
+}
+---
 
 ==== kālanābhaḥ  ====
   * Kālanābha --- [[books:sb:8:10:19-24|SB 8.10.19-24]]

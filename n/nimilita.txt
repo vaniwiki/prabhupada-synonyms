@@ -1,5 +1,11 @@
-~~Title:nimīlita~~
-{{description>closed; merged into.}}
+---json
+{
+    "name":"nimīlita",
+    "h1":"nimīlita",
+    "title":"nimīlita",
+    "description":"closed; merged into."
+}
+---
 
 ==== nimīlita  ====
   * closed --- [[books:sb:7:8:28|SB 7.8.28]]

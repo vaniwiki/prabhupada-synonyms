@@ -1,5 +1,11 @@
-~~Title:poṣasya~~
-{{description>of maintaining a family.}}
+---json
+{
+    "name":"poṣasya",
+    "h1":"poṣasya",
+    "title":"poṣasya",
+    "description":"of maintaining a family."
+}
+---
 
 ==== kuṭumba-poṣasya  ====
   * of maintaining a family --- [[books:sb:3:30:32|SB 3.30.32]]

@@ -1,5 +1,11 @@
-~~Title:paksah~~
-{{description>fortnight; part.}}
+---json
+{
+    "name":"paksah",
+    "h1":"paksah",
+    "title":"paksah",
+    "description":"fortnight; part."
+}
+---
 
 ==== pakṣaḥ  ====
   * fortnight --- [[books:sb:3:11:10|SB 3.11.10]]

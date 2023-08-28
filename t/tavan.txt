@@ -1,5 +1,11 @@
-~~Title:tāvān~~
-{{description>similarly; so; so much also; until that time.}}
+---json
+{
+    "name":"tāvān",
+    "h1":"tāvān",
+    "title":"tāvān",
+    "description":"similarly; so; so much also; until that time."
+}
+---
 
 ==== tāvān  ====
   * similarly --- [[books:bg:2:46|Bg. 2.46]]

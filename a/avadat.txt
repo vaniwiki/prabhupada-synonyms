@@ -1,5 +1,11 @@
-~~Title:avadat~~
-{{description>explained.}}
+---json
+{
+    "name":"avadat",
+    "h1":"avadat",
+    "title":"avadat",
+    "description":"explained."
+}
+---
 
 ==== avadat  ====
   * explained --- [[books:sb:9:4:10|SB 9.4.10]]

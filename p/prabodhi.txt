@@ -1,5 +1,11 @@
-~~Title:prabodhi'~~
-{{description>pacifying the mother.}}
+---json
+{
+    "name":"prabodhi'",
+    "h1":"prabodhi'",
+    "title":"prabodhi'",
+    "description":"pacifying the mother."
+}
+---
 
 ==== jananī prabodhi'  ====
   * pacifying the mother --- [[books:cc:madhya:3:214|Madhya 3.214]]

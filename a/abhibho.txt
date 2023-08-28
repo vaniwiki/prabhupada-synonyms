@@ -1,5 +1,11 @@
-~~Title:abhibho~~
-{{description>O King.}}
+---json
+{
+    "name":"abhibho",
+    "h1":"abhibho",
+    "title":"abhibho",
+    "description":"O King."
+}
+---
 
 ==== abhibho  ====
   * O King --- [[books:sb:4:18:2|SB 4.18.2]]

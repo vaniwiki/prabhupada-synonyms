@@ -1,5 +1,11 @@
-~~Title:anujaiḥ~~
-{{description>assisted by his younger brothers.}}
+---json
+{
+    "name":"anujaiḥ",
+    "h1":"anujaiḥ",
+    "title":"anujaiḥ",
+    "description":"assisted by his younger brothers."
+}
+---
 
 ==== anujaiḥ  ====
   * assisted by his younger brothers --- [[books:sb:3:3:18|SB 3.3.18]]

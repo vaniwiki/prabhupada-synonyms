@@ -1,5 +1,11 @@
-~~Title:anapāyinyā~~
-{{description>never decreasing; without any deviation.}}
+---json
+{
+    "name":"anapāyinyā",
+    "h1":"anapāyinyā",
+    "title":"anapāyinyā",
+    "description":"never decreasing; without any deviation."
+}
+---
 
 ==== anapāyinyā  ====
   * never decreasing --- [[books:sb:4:24:49|SB 4.24.49]]

@@ -1,5 +1,11 @@
-~~Title:arhaṇena~~
-{{description>with ingredients for worship; with paraphernalia for worship.}}
+---json
+{
+    "name":"arhaṇena",
+    "h1":"arhaṇena",
+    "title":"arhaṇena",
+    "description":"with ingredients for worship; with paraphernalia for worship."
+}
+---
 
 ==== arhaṇena  ====
   * with ingredients for worship --- [[books:sb:5:3:3|SB 5.3.3]]

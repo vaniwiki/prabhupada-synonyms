@@ -1,5 +1,11 @@
-~~Title:rupah~~
-{{description>form; form of; or material form; Rūpa Gosvāmī.}}
+---json
+{
+    "name":"rupah",
+    "h1":"rupah",
+    "title":"rupah",
+    "description":"form; form of; or material form; Rūpa Gosvāmī."
+}
+---
 
 ==== rūpaḥ  ====
   * form --- [[books:bg:11:48|Bg. 11.48]]

@@ -1,5 +1,11 @@
-~~Title:pralabdhaḥ~~
-{{description>defeated; mocked; ridiculed.}}
+---json
+{
+    "name":"pralabdhaḥ",
+    "h1":"pralabdhaḥ",
+    "title":"pralabdhaḥ",
+    "description":"defeated; mocked; ridiculed."
+}
+---
 
 ==== pralabdhaḥ  ====
   * defeated --- [[books:sb:4:7:13|SB 4.7.13]]

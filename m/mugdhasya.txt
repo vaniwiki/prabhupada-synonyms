@@ -1,5 +1,11 @@
-~~Title:mugdhasya~~
-{{description>of a person bewildered or not in perfect knowledge.}}
+---json
+{
+    "name":"mugdhasya",
+    "h1":"mugdhasya",
+    "title":"mugdhasya",
+    "description":"of a person bewildered or not in perfect knowledge."
+}
+---
 
 ==== mugdhasya  ====
   * of a person bewildered or not in perfect knowledge --- [[books:sb:7:6:7|SB 7.6.7]]

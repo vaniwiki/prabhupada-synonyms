@@ -1,5 +1,11 @@
-~~Title:tisraḥ~~
-{{description>the three (nakṣatras); the three; three; three in number.}}
+---json
+{
+    "name":"tisraḥ",
+    "h1":"tisraḥ",
+    "title":"tisraḥ",
+    "description":"the three (nakṣatras); the three; three; three in number."
+}
+---
 
 ==== tisraḥ  ====
   * the three (//nakṣatras//) --- [[books:sb:7:14:20-23|SB 7.14.20-23]]

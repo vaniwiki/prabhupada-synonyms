@@ -1,5 +1,11 @@
-~~Title:nirantaram~~
-{{description>constantly; continuously; incessantly; nondifferent; with no material qualities.}}
+---json
+{
+    "name":"nirantaram",
+    "h1":"nirantaram",
+    "title":"nirantaram",
+    "description":"constantly; continuously; incessantly; nondifferent; with no material qualities."
+}
+---
 
 ==== nirantaram  ====
   * constantly --- [[books:sb:8:8:18|SB 8.8.18]]

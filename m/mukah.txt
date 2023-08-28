@@ -1,5 +1,11 @@
-~~Title:mūkaḥ~~
-{{description>Ṛṣyamūka.}}
+---json
+{
+    "name":"mūkaḥ",
+    "h1":"mūkaḥ",
+    "title":"mūkaḥ",
+    "description":"Ṛṣyamūka."
+}
+---
 
 ==== ṛṣya-mūkaḥ  ====
   * Ṛṣyamūka --- [[books:sb:5:19:16|SB 5.19.16]]

@@ -1,5 +1,11 @@
-~~Title:upasthīyamānaḥ~~
-{{description>being praised by.}}
+---json
+{
+    "name":"upasthīyamānaḥ",
+    "h1":"upasthīyamānaḥ",
+    "title":"upasthīyamānaḥ",
+    "description":"being praised by."
+}
+---
 
 ==== upasthīyamānaḥ  ====
   * being praised by --- [[books:sb:3:13:46|SB 3.13.46]]

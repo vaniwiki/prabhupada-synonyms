@@ -1,5 +1,11 @@
-~~Title:dvijah~~
-{{description>brāhmaṇa; a brāhmaṇa; a bird; a person of a higher caste (such as a brāhmaṇa, kṣatriya or vaiśya); a twice-born brāhmaṇa; the brāhmaṇa (Ajāmila); the brāhmaṇa; the best of the brāhmaṇas; the great sage (Aṅgirā); this brāhmaṇa; twice-born.}}
+---json
+{
+    "name":"dvijah",
+    "h1":"dvijah",
+    "title":"dvijah",
+    "description":"brāhmaṇa; a brāhmaṇa; a bird; a person of a higher caste (such as a brāhmaṇa, kṣatriya or vaiśya); a twice-born brāhmaṇa; the brāhmaṇa (Ajāmila); the brāhmaṇa; the best of the brāhmaṇas; the great sage (Aṅgirā); this brāhmaṇa; twice-born."
+}
+---
 
 ==== dvijaḥ  ====
   * //brāhmaṇa// --- [[books:sb:6:1:21|SB 6.1.21]], [[books:sb:9:19:10|SB 9.19.10]]

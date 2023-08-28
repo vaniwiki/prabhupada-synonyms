@@ -1,5 +1,11 @@
-~~Title:avatārīra~~
-{{description>of the source.}}
+---json
+{
+    "name":"avatārīra",
+    "h1":"avatārīra",
+    "title":"avatārīra",
+    "description":"of the source."
+}
+---
 
 ==== avatārīra  ====
   * of the source --- [[books:cc:adi:2:112|Ādi 2.112]]

@@ -1,5 +1,11 @@
-~~Title:cumbe~~
-{{description>kisses.}}
+---json
+{
+    "name":"cumbe",
+    "h1":"cumbe",
+    "title":"cumbe",
+    "description":"kisses."
+}
+---
 
 ==== cumbe  ====
   * kisses --- [[books:cc:madhya:3:142|Madhya 3.142]]

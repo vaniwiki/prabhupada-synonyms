@@ -1,5 +1,11 @@
-~~Title:pīṭhaka~~
-{{description>by wooden planks piled together.}}
+---json
+{
+    "name":"pīṭhaka",
+    "h1":"pīṭhaka",
+    "title":"pīṭhaka",
+    "description":"by wooden planks piled together."
+}
+---
 
 ==== pīṭhaka  ====
   * by wooden planks piled together --- [[books:sb:10:8:30|SB 10.8.30]]

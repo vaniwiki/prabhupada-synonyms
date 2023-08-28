@@ -1,5 +1,11 @@
-~~Title:aśucaye~~
-{{description>impure.}}
+---json
+{
+    "name":"aśucaye",
+    "h1":"aśucaye",
+    "title":"aśucaye",
+    "description":"impure."
+}
+---
 
 ==== aśucaye  ====
   * impure --- [[books:sb:4:2:13|SB 4.2.13]]

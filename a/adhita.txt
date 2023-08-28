@@ -1,5 +1,11 @@
-~~Title:adhīta~~
-{{description>studied.}}
+---json
+{
+    "name":"adhīta",
+    "h1":"adhīta",
+    "title":"adhīta",
+    "description":"studied."
+}
+---
 
 ==== adhīta  ====
   * studied --- [[books:sb:3:4:20|SB 3.4.20]]

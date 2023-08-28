@@ -1,5 +1,11 @@
-~~Title:mukundadāsere~~
-{{description>unto Mukunda dāsa.}}
+---json
+{
+    "name":"mukundadāsere",
+    "h1":"mukundadāsere",
+    "title":"mukundadāsere",
+    "description":"unto Mukunda dāsa."
+}
+---
 
 ==== mukundadāsere  ====
   * unto Mukunda dāsa --- [[books:cc:madhya:15:113|Madhya 15.113]]

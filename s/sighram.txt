@@ -1,5 +1,11 @@
-~~Title:śīghram~~
-{{description>quickly; very soon; very swiftly; without the least delay.}}
+---json
+{
+    "name":"śīghram",
+    "h1":"śīghram",
+    "title":"śīghram",
+    "description":"quickly; very soon; very swiftly; without the least delay."
+}
+---
 
 ==== śīghram  ====
   * quickly --- [[books:cc:antya:3:60|Antya 3.60]]

@@ -1,5 +1,11 @@
-~~Title:abhidrohaḥ~~
-{{description>severe pain.}}
+---json
+{
+    "name":"abhidrohaḥ",
+    "h1":"abhidrohaḥ",
+    "title":"abhidrohaḥ",
+    "description":"severe pain."
+}
+---
 
 ==== abhidrohaḥ  ====
   * severe pain --- [[books:sb:6:10:3|SB 6.10.3]]

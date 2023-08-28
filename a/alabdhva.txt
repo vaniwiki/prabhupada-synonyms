@@ -1,5 +1,11 @@
-~~Title:alabdhvā~~
-{{description>without attaining.}}
+---json
+{
+    "name":"alabdhvā",
+    "h1":"alabdhvā",
+    "title":"alabdhvā",
+    "description":"without attaining."
+}
+---
 
 ==== alabdhvā  ====
   * without attaining --- [[books:sb:8:24:17|SB 8.24.17]]

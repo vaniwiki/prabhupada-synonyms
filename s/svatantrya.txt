@@ -1,5 +1,11 @@
-~~Title:svātantrya~~
-{{description>independent behavior.}}
+---json
+{
+    "name":"svātantrya",
+    "h1":"svātantrya",
+    "title":"svātantrya",
+    "description":"independent behavior."
+}
+---
 
 ==== svātantrya  ====
   * independent behavior --- [[books:cc:antya:3:44|Antya 3.44]]

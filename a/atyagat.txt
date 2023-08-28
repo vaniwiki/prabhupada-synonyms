@@ -1,5 +1,11 @@
-~~Title:atyagāt~~
-{{description>has transcended; he passed; passed; passed away; surpassed; was delivered.}}
+---json
+{
+    "name":"atyagāt",
+    "h1":"atyagāt",
+    "title":"atyagāt",
+    "description":"has transcended; he passed; passed; passed away; surpassed; was delivered."
+}
+---
 
 ==== atyagāt  ====
   * has transcended --- [[books:sb:2:6:18|SB 2.6.18]]

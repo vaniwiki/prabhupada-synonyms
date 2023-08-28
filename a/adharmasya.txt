@@ -1,5 +1,11 @@
-~~Title:adharmasya~~
-{{description>of immorality; of impious activities; of irreligion.}}
+---json
+{
+    "name":"adharmasya",
+    "h1":"adharmasya",
+    "title":"adharmasya",
+    "description":"of immorality; of impious activities; of irreligion."
+}
+---
 
 ==== adharmasya  ====
   * of immorality --- [[books:sb:2:6:10|SB 2.6.10]]

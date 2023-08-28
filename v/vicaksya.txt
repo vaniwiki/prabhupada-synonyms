@@ -1,5 +1,11 @@
-~~Title:vicakṣya~~
-{{description>after observing; considering; having observed; observing; seeing.}}
+---json
+{
+    "name":"vicakṣya",
+    "h1":"vicakṣya",
+    "title":"vicakṣya",
+    "description":"after observing; considering; having observed; observing; seeing."
+}
+---
 
 ==== vicakṣya  ====
   * after observing --- [[books:sb:4:19:18|SB 4.19.18]]

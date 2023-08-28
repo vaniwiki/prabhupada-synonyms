@@ -1,5 +1,11 @@
-~~Title:taskaraḥ~~
-{{description>a thief.}}
+---json
+{
+    "name":"taskaraḥ",
+    "h1":"taskaraḥ",
+    "title":"taskaraḥ",
+    "description":"a thief."
+}
+---
 
 ==== taskaraḥ  ====
   * a thief --- [[books:sb:7:6:10|SB 7.6.10]]

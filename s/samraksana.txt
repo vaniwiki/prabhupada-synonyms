@@ -1,5 +1,11 @@
-~~Title:saṁrakṣaṇa~~
-{{description>protecting.}}
+---json
+{
+    "name":"saṁrakṣaṇa",
+    "h1":"saṁrakṣaṇa",
+    "title":"saṁrakṣaṇa",
+    "description":"protecting."
+}
+---
 
 ==== saṁrakṣaṇa  ====
   * protecting --- [[books:sb:5:26:36|SB 5.26.36]]

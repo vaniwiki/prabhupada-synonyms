@@ -1,5 +1,11 @@
-~~Title:dṛḍhaḥ~~
-{{description>very strong.}}
+---json
+{
+    "name":"dṛḍhaḥ",
+    "h1":"dṛḍhaḥ",
+    "title":"dṛḍhaḥ",
+    "description":"very strong."
+}
+---
 
 ==== dṛḍhaḥ  ====
   * very strong --- [[books:sb:5:5:9|SB 5.5.9]], [[books:sb:9:8:26|SB 9.8.26]]

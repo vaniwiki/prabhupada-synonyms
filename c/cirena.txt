@@ -1,5 +1,11 @@
-~~Title:cireṇa~~
-{{description>delay; very long time.}}
+---json
+{
+    "name":"cireṇa",
+    "h1":"cireṇa",
+    "title":"cireṇa",
+    "description":"delay; very long time."
+}
+---
 
 ==== cireṇa  ====
   * delay --- [[books:bg:5:6|Bg. 5.6]]

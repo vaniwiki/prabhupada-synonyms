@@ -1,5 +1,11 @@
-~~Title:bhrājiṣṇunā~~
-{{description>splendid.}}
+---json
+{
+    "name":"bhrājiṣṇunā",
+    "h1":"bhrājiṣṇunā",
+    "title":"bhrājiṣṇunā",
+    "description":"splendid."
+}
+---
 
 ==== bhrājiṣṇunā  ====
   * splendid --- [[books:sb:3:23:41|SB 3.23.41]]

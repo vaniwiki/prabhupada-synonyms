@@ -1,5 +1,11 @@
-~~Title:kṛtyān~~
-{{description>duties toward Lord Viṣṇu.}}
+---json
+{
+    "name":"kṛtyān",
+    "h1":"kṛtyān",
+    "title":"kṛtyān",
+    "description":"duties toward Lord Viṣṇu."
+}
+---
 
 ==== viṣṇu-kṛtyān  ====
   * duties toward Lord Viṣṇu --- [[books:sb:6:3:29|SB 6.3.29]]

@@ -1,5 +1,11 @@
-~~Title:pāribarhān~~
-{{description>dowry.}}
+---json
+{
+    "name":"pāribarhān",
+    "h1":"pāribarhān",
+    "title":"pāribarhān",
+    "description":"dowry."
+}
+---
 
 ==== pāribarhān  ====
   * dowry --- [[books:sb:3:22:23|SB 3.22.23]]

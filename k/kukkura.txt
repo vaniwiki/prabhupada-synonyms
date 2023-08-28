@@ -1,5 +1,11 @@
-~~Title:kukkura~~
-{{description>a dog; dog; even a dog; the dog.}}
+---json
+{
+    "name":"kukkura",
+    "h1":"kukkura",
+    "title":"kukkura",
+    "description":"a dog; dog; even a dog; the dog."
+}
+---
 
 ==== kukkura  ====
   * a dog --- [[books:cc:madhya:1:140|Madhya 1.140]], [[books:cc:madhya:15:101|Madhya 15.101]]

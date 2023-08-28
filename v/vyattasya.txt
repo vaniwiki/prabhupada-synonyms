@@ -1,5 +1,11 @@
-~~Title:vyāttāsya~~
-{{description>with a widely opened mouth.}}
+---json
+{
+    "name":"vyāttāsya",
+    "h1":"vyāttāsya",
+    "title":"vyāttāsya",
+    "description":"with a widely opened mouth."
+}
+---
 
 ==== vyāttāsya  ====
   * with a widely opened mouth --- [[books:sb:7:8:19-22|SB 7.8.19-22]]

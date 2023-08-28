@@ -1,5 +1,11 @@
-~~Title:ramayām~~
-{{description>pleased.}}
+---json
+{
+    "name":"ramayām",
+    "h1":"ramayām",
+    "title":"ramayām",
+    "description":"pleased."
+}
+---
 
 ==== ramayām āsa  ====
   * pleased --- [[books:sb:9:24:63-64|SB 9.24.63-64]]

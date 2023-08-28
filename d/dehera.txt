@@ -1,5 +1,11 @@
-~~Title:dehera~~
-{{description>of the body.}}
+---json
+{
+    "name":"dehera",
+    "h1":"dehera",
+    "title":"dehera",
+    "description":"of the body."
+}
+---
 
 ==== dehera  ====
   * of the body --- [[books:cc:adi:4:183|Ādi 4.183]], [[books:cc:antya:14:39|Antya 14.39]]

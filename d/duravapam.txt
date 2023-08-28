@@ -1,5 +1,11 @@
-~~Title:duravapam~~
-{{description>difficult to achieve; very difficult to achieve; very difficult to understand (without the mercy of a devotee).}}
+---json
+{
+    "name":"duravapam",
+    "h1":"duravapam",
+    "title":"duravapam",
+    "description":"difficult to achieve; very difficult to achieve; very difficult to understand (without the mercy of a devotee)."
+}
+---
 
 ==== duravāpam  ====
   * difficult to achieve --- [[books:sb:4:8:21|SB 4.8.21]]

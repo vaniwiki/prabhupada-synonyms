@@ -1,5 +1,11 @@
-~~Title:paḍicchanda~~
-{{description>the quality of an artistic picture.}}
+---json
+{
+    "name":"paḍicchanda",
+    "h1":"paḍicchanda",
+    "title":"paḍicchanda",
+    "description":"the quality of an artistic picture."
+}
+---
 
 ==== paḍicchanda-guṇam  ====
   * the quality of an artistic picture --- [[books:cc:antya:1:144|Antya 1.144]]

@@ -1,5 +1,11 @@
-~~Title:ucchoṣaṇam~~
-{{description>drying up.}}
+---json
+{
+    "name":"ucchoṣaṇam",
+    "h1":"ucchoṣaṇam",
+    "title":"ucchoṣaṇam",
+    "description":"drying up."
+}
+---
 
 ==== ucchoṣaṇam  ====
   * drying up --- [[books:bg:2:8|Bg. 2.8]]

@@ -1,5 +1,11 @@
-~~Title:gopīnāthe~~
-{{description>Gopīnātha; Gopīnātha Paṭṭanāyaka; to Lord Gopīnātha; unto Gopīnātha Paṭṭanāyaka; unto Gopīnātha Ācārya.}}
+---json
+{
+    "name":"gopīnāthe",
+    "h1":"gopīnāthe",
+    "title":"gopīnāthe",
+    "description":"Gopīnātha; Gopīnātha Paṭṭanāyaka; to Lord Gopīnātha; unto Gopīnātha Paṭṭanāyaka; unto Gopīnātha Ācārya."
+}
+---
 
 ==== gopīnāthe  ====
   * Gopīnātha --- [[books:cc:antya:9:41|Antya 9.41]], [[books:cc:antya:9:51|Antya 9.51]], [[books:cc:antya:9:63|Antya 9.63]]

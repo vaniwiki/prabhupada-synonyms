@@ -1,5 +1,11 @@
-~~Title:nirhāram~~
-{{description>freeing himself from; the carrying out of the body for the funeral ceremony.}}
+---json
+{
+    "name":"nirhāram",
+    "h1":"nirhāram",
+    "title":"nirhāram",
+    "description":"freeing himself from; the carrying out of the body for the funeral ceremony."
+}
+---
 
 ==== nirhāram  ====
   * freeing himself from --- [[books:sb:3:29:10|SB 3.29.10]]

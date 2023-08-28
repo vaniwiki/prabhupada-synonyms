@@ -1,5 +1,11 @@
-~~Title:ceṣṭitaḥ~~
-{{description>his activity; performing various works; whose activities.}}
+---json
+{
+    "name":"ceṣṭitaḥ",
+    "h1":"ceṣṭitaḥ",
+    "title":"ceṣṭitaḥ",
+    "description":"his activity; performing various works; whose activities."
+}
+---
 
 ==== ceṣṭitaḥ  ====
   * his activity --- [[books:sb:3:30:15|SB 3.30.15]]

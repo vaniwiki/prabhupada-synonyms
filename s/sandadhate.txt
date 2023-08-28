@@ -1,5 +1,11 @@
-~~Title:sandadhate~~
-{{description>performs.}}
+---json
+{
+    "name":"sandadhate",
+    "h1":"sandadhate",
+    "title":"sandadhate",
+    "description":"performs."
+}
+---
 
 ==== sandadhate  ====
   * performs --- [[books:sb:7:8:40|SB 7.8.40]]

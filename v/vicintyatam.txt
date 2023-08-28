@@ -1,5 +1,11 @@
-~~Title:vicintyatām~~
-{{description>please consider carefully and decide.}}
+---json
+{
+    "name":"vicintyatām",
+    "h1":"vicintyatām",
+    "title":"vicintyatām",
+    "description":"please consider carefully and decide."
+}
+---
 
 ==== vicintyatām  ====
   * please consider carefully and decide --- [[books:sb:9:9:5|SB 9.9.5]]

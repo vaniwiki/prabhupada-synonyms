@@ -1,5 +1,11 @@
-~~Title:hāsam~~
-{{description>smiling; the smile.}}
+---json
+{
+    "name":"hāsam",
+    "h1":"hāsam",
+    "title":"hāsam",
+    "description":"smiling; the smile."
+}
+---
 
 ==== hāsam  ====
   * smiling --- [[books:sb:3:15:44|SB 3.15.44]], [[books:cc:antya:1:154|Antya 1.154]]

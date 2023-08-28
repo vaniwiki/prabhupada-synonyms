@@ -1,5 +1,11 @@
-~~Title:sustha~~
-{{description>will be cured.}}
+---json
+{
+    "name":"sustha",
+    "h1":"sustha",
+    "title":"sustha",
+    "description":"will be cured."
+}
+---
 
 ==== sustha ha-ibena  ====
   * will be cured --- [[books:cc:adi:14:46|Ādi 14.46]]

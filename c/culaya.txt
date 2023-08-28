@@ -1,5 +1,11 @@
-~~Title:culāya~~
-{{description>in one hundred ovens.}}
+---json
+{
+    "name":"culāya",
+    "h1":"culāya",
+    "title":"culāya",
+    "description":"in one hundred ovens."
+}
+---
 
 ==== śata culāya  ====
   * in one hundred ovens --- [[books:cc:madhya:15:226|Madhya 15.226]]

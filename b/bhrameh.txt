@@ -1,5 +1,11 @@
-~~Title:bhrameḥ~~
-{{description>of Bhrami.}}
+---json
+{
+    "name":"bhrameḥ",
+    "h1":"bhrameḥ",
+    "title":"bhrameḥ",
+    "description":"of Bhrami."
+}
+---
 
 ==== bhrameḥ  ====
   * of Bhrami --- [[books:sb:4:13:11|SB 4.13.11]]

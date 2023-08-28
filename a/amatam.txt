@@ -1,5 +1,11 @@
-~~Title:amatam~~
-{{description>not conclusive.}}
+---json
+{
+    "name":"amatam",
+    "h1":"amatam",
+    "title":"amatam",
+    "description":"not conclusive."
+}
+---
 
 ==== amatam  ====
   * not conclusive --- [[books:cc:madhya:19:143|Madhya 19.143]]

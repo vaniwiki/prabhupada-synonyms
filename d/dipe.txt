@@ -1,5 +1,11 @@
-~~Title:dīpe~~
-{{description>by lamps; on the torch.}}
+---json
+{
+    "name":"dīpe",
+    "h1":"dīpe",
+    "title":"dīpe",
+    "description":"by lamps; on the torch."
+}
+---
 
 ==== dīpe  ====
   * by lamps --- [[books:cc:madhya:19:87|Madhya 19.87]]

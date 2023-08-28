@@ -1,5 +1,11 @@
-~~Title:asaram~~
-{{description>nonsense.}}
+---json
+{
+    "name":"asaram",
+    "h1":"asaram",
+    "title":"asaram",
+    "description":"nonsense."
+}
+---
 
 ==== asāram  ====
   * nonsense --- [[books:sb:7:5:26|SB 7.5.26]]

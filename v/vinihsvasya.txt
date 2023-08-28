@@ -1,5 +1,11 @@
-~~Title:viniḥśvasya~~
-{{description>breathing very heavily.}}
+---json
+{
+    "name":"viniḥśvasya",
+    "h1":"viniḥśvasya",
+    "title":"viniḥśvasya",
+    "description":"breathing very heavily."
+}
+---
 
 ==== viniḥśvasya  ====
   * breathing very heavily --- [[books:sb:4:4:3|SB 4.4.3]]

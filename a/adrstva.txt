@@ -1,5 +1,11 @@
-~~Title:adṛṣṭvā~~
-{{description>having not seen; not finding; not seeing; not seeing at all; not seeing there within the forest; without seeing.}}
+---json
+{
+    "name":"adṛṣṭvā",
+    "h1":"adṛṣṭvā",
+    "title":"adṛṣṭvā",
+    "description":"having not seen; not finding; not seeing; not seeing at all; not seeing there within the forest; without seeing."
+}
+---
 
 ==== adṛṣṭvā  ====
   * having not seen --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

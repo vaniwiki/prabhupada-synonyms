@@ -1,5 +1,11 @@
-~~Title:pratimā~~
-{{description>a statue; form; of the Deity; the Deity.}}
+---json
+{
+    "name":"pratimā",
+    "h1":"pratimā",
+    "title":"pratimā",
+    "description":"a statue; form; of the Deity; the Deity."
+}
+---
 
 ==== pratimā  ====
   * a statue --- [[books:cc:madhya:5:96|Madhya 5.96]]

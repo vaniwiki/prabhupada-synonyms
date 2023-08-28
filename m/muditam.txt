@@ -1,5 +1,11 @@
-~~Title:muditām~~
-{{description>when she was satisfied.}}
+---json
+{
+    "name":"muditām",
+    "h1":"muditām",
+    "title":"muditām",
+    "description":"when she was satisfied."
+}
+---
 
 ==== muditām  ====
   * when she was satisfied --- [[books:sb:4:25:57-61|SB 4.25.57-61]]

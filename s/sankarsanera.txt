@@ -1,5 +1,11 @@
-~~Title:saṅkarṣaṇera~~
-{{description>of Lord Saṅkarṣaṇa.}}
+---json
+{
+    "name":"saṅkarṣaṇera",
+    "h1":"saṅkarṣaṇera",
+    "title":"saṅkarṣaṇera",
+    "description":"of Lord Saṅkarṣaṇa."
+}
+---
 
 ==== saṅkarṣaṇera  ====
   * of Lord Saṅkarṣaṇa --- [[books:cc:adi:5:44|Ādi 5.44]]

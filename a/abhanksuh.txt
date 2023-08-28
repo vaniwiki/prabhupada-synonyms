@@ -1,5 +1,11 @@
-~~Title:abhāṅkṣuḥ~~
-{{description>have given the share.}}
+---json
+{
+    "name":"abhāṅkṣuḥ",
+    "h1":"abhāṅkṣuḥ",
+    "title":"abhāṅkṣuḥ",
+    "description":"have given the share."
+}
+---
 
 ==== abhāṅkṣuḥ  ====
   * have given the share --- [[books:sb:9:4:2|SB 9.4.2]]

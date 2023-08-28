@@ -1,5 +1,11 @@
-~~Title:anvarudhyata~~
-{{description>was surrounded.}}
+---json
+{
+    "name":"anvarudhyata",
+    "h1":"anvarudhyata",
+    "title":"anvarudhyata",
+    "description":"was surrounded."
+}
+---
 
 ==== anvarudhyata  ====
   * was surrounded --- [[books:sb:4:5:13|SB 4.5.13]]

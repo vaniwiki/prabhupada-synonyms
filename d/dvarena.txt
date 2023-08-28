@@ -1,5 +1,11 @@
-~~Title:dvāreṇa~~
-{{description>by means.}}
+---json
+{
+    "name":"dvāreṇa",
+    "h1":"dvāreṇa",
+    "title":"dvāreṇa",
+    "description":"by means."
+}
+---
 
 ==== dvāreṇa  ====
   * by means --- [[books:sb:5:19:20|SB 5.19.20]]

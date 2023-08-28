@@ -1,5 +1,11 @@
-~~Title:hiraṇyaretā~~
-{{description>Hiraṇyaretā.}}
+---json
+{
+    "name":"hiraṇyaretā",
+    "h1":"hiraṇyaretā",
+    "title":"hiraṇyaretā",
+    "description":"Hiraṇyaretā."
+}
+---
 
 ==== hiraṇyaretā  ====
   * Hiraṇyaretā --- [[books:sb:5:20:14|SB 5.20.14]]

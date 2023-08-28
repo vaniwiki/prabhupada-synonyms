@@ -1,5 +1,11 @@
-~~Title:śikṣām~~
-{{description>dancing practice.}}
+---json
+{
+    "name":"śikṣām",
+    "h1":"śikṣām",
+    "title":"śikṣām",
+    "description":"dancing practice."
+}
+---
 
 ==== nṛtya-śikṣām  ====
   * dancing practice --- [[books:cc:adi:4:125|Ādi 4.125]]

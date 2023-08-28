@@ -1,5 +1,11 @@
-~~Title:rabhasa~~
-{{description>by perseverance; strong.}}
+---json
+{
+    "name":"rabhasa",
+    "h1":"rabhasa",
+    "title":"rabhasa",
+    "description":"by perseverance; strong."
+}
+---
 
 ==== rabhasa  ====
   * by perseverance --- [[books:sb:5:14:11|SB 5.14.11]]

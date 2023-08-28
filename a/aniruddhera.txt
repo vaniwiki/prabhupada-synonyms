@@ -1,5 +1,11 @@
-~~Title:aniruddhera~~
-{{description>expansions of Aniruddha.}}
+---json
+{
+    "name":"aniruddhera",
+    "h1":"aniruddhera",
+    "title":"aniruddhera",
+    "description":"expansions of Aniruddha."
+}
+---
 
 ==== aniruddhera mūrti  ====
   * expansions of Aniruddha --- [[books:cc:madhya:20:197|Madhya 20.197]]

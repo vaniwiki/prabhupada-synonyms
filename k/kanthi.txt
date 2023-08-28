@@ -1,5 +1,11 @@
-~~Title:kaṇṭhī~~
-{{description>who has a very sweet voice.}}
+---json
+{
+    "name":"kaṇṭhī",
+    "h1":"kaṇṭhī",
+    "title":"kaṇṭhī",
+    "description":"who has a very sweet voice."
+}
+---
 
 ==== madhura-svara-kaṇṭhī  ====
   * who has a very sweet voice --- [[books:cc:madhya:23:33|Madhya 23.33]]

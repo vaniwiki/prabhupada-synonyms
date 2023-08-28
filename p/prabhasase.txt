@@ -1,5 +1,11 @@
-~~Title:prabhāṣase~~
-{{description>are speaking; you do speak; You say.}}
+---json
+{
+    "name":"prabhāṣase",
+    "h1":"prabhāṣase",
+    "title":"prabhāṣase",
+    "description":"are speaking; you do speak; You say."
+}
+---
 
 ==== prabhāṣase  ====
   * are speaking --- [[books:sb:9:4:10|SB 9.4.10]]

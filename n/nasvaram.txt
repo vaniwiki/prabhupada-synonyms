@@ -1,5 +1,11 @@
-~~Title:naśvaram~~
-{{description>although the body is destined to be annihilated; perishable.}}
+---json
+{
+    "name":"naśvaram",
+    "h1":"naśvaram",
+    "title":"naśvaram",
+    "description":"although the body is destined to be annihilated; perishable."
+}
+---
 
 ==== naśvaram  ====
   * although the body is destined to be annihilated --- [[books:sb:10:10:9|SB 10.10.9]]

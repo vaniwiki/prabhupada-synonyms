@@ -1,5 +1,11 @@
-~~Title:antaḥgatam~~
-{{description>packed in a basket.}}
+---json
+{
+    "name":"antaḥgatam",
+    "h1":"antaḥgatam",
+    "title":"antaḥgatam",
+    "description":"packed in a basket."
+}
+---
 
 ==== mañjūṣa-antaḥgatam  ====
   * packed in a basket --- [[books:sb:9:23:13|SB 9.23.13]]

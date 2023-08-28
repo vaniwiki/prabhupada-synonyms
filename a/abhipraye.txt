@@ -1,5 +1,11 @@
-~~Title:abhiprāye~~
-{{description>is meant for the agent.}}
+---json
+{
+    "name":"abhiprāye",
+    "h1":"abhiprāye",
+    "title":"abhiprāye",
+    "description":"is meant for the agent."
+}
+---
 
 ==== kartṛ-abhiprāye  ====
   * is meant for the agent --- [[books:cc:madhya:24:26|Madhya 24.26]]

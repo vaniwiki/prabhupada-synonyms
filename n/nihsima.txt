@@ -1,5 +1,11 @@
-~~Title:niḥsīma~~
-{{description>without limit.}}
+---json
+{
+    "name":"niḥsīma",
+    "h1":"niḥsīma",
+    "title":"niḥsīma",
+    "description":"without limit."
+}
+---
 
 ==== niḥsīma  ====
   * without limit --- [[books:sb:10:13:26|SB 10.13.26]]

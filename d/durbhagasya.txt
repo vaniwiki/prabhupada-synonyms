@@ -1,5 +1,11 @@
-~~Title:durbhagasya~~
-{{description>so unfortunate.}}
+---json
+{
+    "name":"durbhagasya",
+    "h1":"durbhagasya",
+    "title":"durbhagasya",
+    "description":"so unfortunate."
+}
+---
 
 ==== durbhagasya  ====
   * so unfortunate --- [[books:sb:6:2:32|SB 6.2.32]]

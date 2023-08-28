@@ -1,5 +1,11 @@
-~~Title:bibhyati~~
-{{description>are afraid; become afraid; they are afraid.}}
+---json
+{
+    "name":"bibhyati",
+    "h1":"bibhyati",
+    "title":"bibhyati",
+    "description":"are afraid; become afraid; they are afraid."
+}
+---
 
 ==== bibhyati  ====
   * are afraid --- [[books:sb:5:24:30|SB 5.24.30]], [[books:sb:6:17:28|SB 6.17.28]], [[books:cc:madhya:9:270|Madhya 9.270]], [[books:cc:madhya:19:216|Madhya 19.216]]

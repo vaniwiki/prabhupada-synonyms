@@ -1,5 +1,11 @@
-~~Title:upasasṛpuḥ~~
-{{description>approached.}}
+---json
+{
+    "name":"upasasṛpuḥ",
+    "h1":"upasasṛpuḥ",
+    "title":"upasasṛpuḥ",
+    "description":"approached."
+}
+---
 
 ==== upasasṛpuḥ  ====
   * approached --- [[books:sb:8:3:30|SB 8.3.30]]

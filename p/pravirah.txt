@@ -1,5 +1,11 @@
-~~Title:pravirah~~
-{{description>Pravīra.}}
+---json
+{
+    "name":"pravirah",
+    "h1":"pravirah",
+    "title":"pravirah",
+    "description":"Pravīra."
+}
+---
 
 ==== pravīraḥ  ====
   * Pravīra --- [[books:sb:9:20:2|SB 9.20.2]]

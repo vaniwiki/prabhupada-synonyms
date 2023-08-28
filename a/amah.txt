@@ -1,5 +1,11 @@
-~~Title:āmaḥ~~
-{{description>Āma.}}
+---json
+{
+    "name":"āmaḥ",
+    "h1":"āmaḥ",
+    "title":"āmaḥ",
+    "description":"Āma."
+}
+---
 
 ==== āmaḥ  ====
   * Āma --- [[books:sb:5:20:21|SB 5.20.21]]

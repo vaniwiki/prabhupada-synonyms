@@ -1,5 +1,11 @@
-~~Title:satyahitaḥ~~
-{{description>Satyahita.}}
+---json
+{
+    "name":"satyahitaḥ",
+    "h1":"satyahitaḥ",
+    "title":"satyahitaḥ",
+    "description":"Satyahita."
+}
+---
 
 ==== satyahitaḥ  ====
   * Satyahita --- [[books:sb:9:22:7|SB 9.22.7]]

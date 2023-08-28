@@ -1,5 +1,11 @@
-~~Title:ughāḍiyā~~
-{{description>exposing; opening; revealing.}}
+---json
+{
+    "name":"ughāḍiyā",
+    "h1":"ughāḍiyā",
+    "title":"ughāḍiyā",
+    "description":"exposing; opening; revealing."
+}
+---
 
 ==== ughāḍiyā  ====
   * exposing --- [[books:cc:antya:15:77|Antya 15.77]]

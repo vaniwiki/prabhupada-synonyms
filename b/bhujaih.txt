@@ -1,5 +1,11 @@
-~~Title:bhujaiḥ~~
-{{description>by the arms; with arms; with hands; with his arms.}}
+---json
+{
+    "name":"bhujaiḥ",
+    "h1":"bhujaiḥ",
+    "title":"bhujaiḥ",
+    "description":"by the arms; with arms; with hands; with his arms."
+}
+---
 
 ==== bhujaiḥ  ====
   * by the arms --- [[books:sb:3:13:29|SB 3.13.29]]

@@ -1,5 +1,11 @@
-~~Title:udbheda~~
-{{description>subdivisions.}}
+---json
+{
+    "name":"udbheda",
+    "h1":"udbheda",
+    "title":"udbheda",
+    "description":"subdivisions."
+}
+---
 
 ==== udbheda  ====
   * subdivisions --- [[books:cc:madhya:14:141|Madhya 14.141]]

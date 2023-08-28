@@ -1,5 +1,11 @@
-~~Title:isam~~
-{{description>food; Iṣa.}}
+---json
+{
+    "name":"isam",
+    "h1":"isam",
+    "title":"isam",
+    "description":"food; Iṣa."
+}
+---
 
 ==== iṣam  ====
   * food --- [[books:sb:6:4:8|SB 6.4.8]]

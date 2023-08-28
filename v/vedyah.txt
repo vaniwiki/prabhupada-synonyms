@@ -1,5 +1,11 @@
-~~Title:vedyaḥ~~
-{{description>knowable.}}
+---json
+{
+    "name":"vedyaḥ",
+    "h1":"vedyaḥ",
+    "title":"vedyaḥ",
+    "description":"knowable."
+}
+---
 
 ==== vedyaḥ  ====
   * knowable --- [[books:bg:15:15|Bg. 15.15]]

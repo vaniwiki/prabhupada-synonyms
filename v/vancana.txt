@@ -1,5 +1,11 @@
-~~Title:vancana~~
-{{description>cheating; duplicity; passing.}}
+---json
+{
+    "name":"vancana",
+    "h1":"vancana",
+    "title":"vancana",
+    "description":"cheating; duplicity; passing."
+}
+---
 
 ==== vañcana  ====
   * cheating --- [[books:cc:madhya:8:129|Madhya 8.129]]

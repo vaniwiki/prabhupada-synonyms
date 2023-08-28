@@ -1,5 +1,11 @@
-~~Title:vidhātā~~
-{{description>controller of the universe; maker of the destination; Vidhātā.}}
+---json
+{
+    "name":"vidhātā",
+    "h1":"vidhātā",
+    "title":"vidhātā",
+    "description":"controller of the universe; maker of the destination; Vidhātā."
+}
+---
 
 ==== vidhātā  ====
   * controller of the universe --- [[books:sb:3:8:15|SB 3.8.15]]

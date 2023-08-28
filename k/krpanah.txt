@@ -1,5 +1,11 @@
-~~Title:krpanah~~
-{{description>a miser with no sense of the importance of life; a miserly living entity; a miserly man; aggrieved; being without spiritual knowledge; helpless; miser; the poor bird; very poor; wretched.}}
+---json
+{
+    "name":"krpanah",
+    "h1":"krpanah",
+    "title":"krpanah",
+    "description":"a miser with no sense of the importance of life; a miserly living entity; a miserly man; aggrieved; being without spiritual knowledge; helpless; miser; the poor bird; very poor; wretched."
+}
+---
 
 ==== kṛpaṇaḥ  ====
   * a miser with no sense of the importance of life --- [[books:sb:9:19:12|SB 9.19.12]]

@@ -1,5 +1,11 @@
-~~Title:sādhaka~~
-{{description>practicers; the beginner; the devotee.}}
+---json
+{
+    "name":"sādhaka",
+    "h1":"sādhaka",
+    "title":"sādhaka",
+    "description":"practicers; the beginner; the devotee."
+}
+---
 
 ==== sādhaka  ====
   * practicers --- [[books:cc:madhya:24:118|Madhya 24.118]]

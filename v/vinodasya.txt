@@ -1,5 +1,11 @@
-~~Title:vinodasya~~
-{{description>of You, who amuse Yourself.}}
+---json
+{
+    "name":"vinodasya",
+    "h1":"vinodasya",
+    "title":"vinodasya",
+    "description":"of You, who amuse Yourself."
+}
+---
 
 ==== vinodasya  ====
   * of You, who amuse Yourself --- [[books:sb:6:9:42|SB 6.9.42]]

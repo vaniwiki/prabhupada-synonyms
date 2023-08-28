@@ -1,5 +1,11 @@
-~~Title:adhipatīn~~
-{{description>the rulers.}}
+---json
+{
+    "name":"adhipatīn",
+    "h1":"adhipatīn",
+    "title":"adhipatīn",
+    "description":"the rulers."
+}
+---
 
 ==== adhipatīn  ====
   * the rulers --- [[books:sb:5:20:25|SB 5.20.25]]

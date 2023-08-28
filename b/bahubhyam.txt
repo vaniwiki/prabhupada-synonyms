@@ -1,5 +1,11 @@
-~~Title:bāhubhyām~~
-{{description>by the arms; by the strength of his arms; from the arms; with his arms; with his two arms; with two arms.}}
+---json
+{
+    "name":"bāhubhyām",
+    "h1":"bāhubhyām",
+    "title":"bāhubhyām",
+    "description":"by the arms; by the strength of his arms; from the arms; with his arms; with his two arms; with two arms."
+}
+---
 
 ==== bāhubhyām  ====
   * by the arms --- [[books:cc:adi:17:78|Ādi 17.78]], [[books:cc:madhya:7:143|Madhya 7.143]]

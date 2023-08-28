@@ -1,5 +1,11 @@
-~~Title:apeta~~
-{{description>devoid of; not having undergone; not undergoing ceremonies; subsided.}}
+---json
+{
+    "name":"apeta",
+    "h1":"apeta",
+    "title":"apeta",
+    "description":"devoid of; not having undergone; not undergoing ceremonies; subsided."
+}
+---
 
 ==== apeta  ====
   * devoid of --- [[books:sb:3:18:21|SB 3.18.21]]

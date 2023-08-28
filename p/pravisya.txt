@@ -1,5 +1,11 @@
-~~Title:praviśya~~
-{{description>after entering; entered the churning spot; entering; having entered.}}
+---json
+{
+    "name":"praviśya",
+    "h1":"praviśya",
+    "title":"praviśya",
+    "description":"after entering; entered the churning spot; entering; having entered."
+}
+---
 
 ==== praviśya  ====
   * after entering --- [[books:sb:9:10:45-46|SB 9.10.45-46]]

@@ -1,5 +1,11 @@
-~~Title:nindakera~~
-{{description>of the blasphemer.}}
+---json
+{
+    "name":"nindakera",
+    "h1":"nindakera",
+    "title":"nindakera",
+    "description":"of the blasphemer."
+}
+---
 
 ==== nindakera  ====
   * of the blasphemer --- [[books:cc:madhya:15:263|Madhya 15.263]]

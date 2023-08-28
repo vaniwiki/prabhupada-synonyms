@@ -1,5 +1,11 @@
-~~Title:jalpera~~
-{{description>of the mad talks.}}
+---json
+{
+    "name":"jalpera",
+    "h1":"jalpera",
+    "title":"jalpera",
+    "description":"of the mad talks."
+}
+---
 
 ==== citra-jalpera  ====
   * of the mad talks --- [[books:cc:madhya:23:60|Madhya 23.60]]

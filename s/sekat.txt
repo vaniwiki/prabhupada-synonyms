@@ -1,5 +1,11 @@
-~~Title:sekāt~~
-{{description>than her own sprinkling.}}
+---json
+{
+    "name":"sekāt",
+    "h1":"sekāt",
+    "title":"sekāt",
+    "description":"than her own sprinkling."
+}
+---
 
 ==== sva-sekāt  ====
   * than her own sprinkling --- [[books:cc:madhya:8:211|Madhya 8.211]]

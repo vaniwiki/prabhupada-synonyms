@@ -1,5 +1,11 @@
-~~Title:anuśikṣitam~~
-{{description>practiced.}}
+---json
+{
+    "name":"anuśikṣitam",
+    "h1":"anuśikṣitam",
+    "title":"anuśikṣitam",
+    "description":"practiced."
+}
+---
 
 ==== anuśikṣitam  ====
   * practiced --- [[books:sb:8:3:1|SB 8.3.1]]

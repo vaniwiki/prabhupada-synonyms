@@ -1,5 +1,11 @@
-~~Title:vijñera~~
-{{description>of the person who knows.}}
+---json
+{
+    "name":"vijñera",
+    "h1":"vijñera",
+    "title":"vijñera",
+    "description":"of the person who knows."
+}
+---
 
 ==== vijñera  ====
   * of the person who knows --- [[books:cc:madhya:6:79|Madhya 6.79]]

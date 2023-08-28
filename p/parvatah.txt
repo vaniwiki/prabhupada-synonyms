@@ -1,5 +1,11 @@
-~~Title:parvatah~~
-{{description>Parvata Muni.}}
+---json
+{
+    "name":"parvatah",
+    "h1":"parvatah",
+    "title":"parvatah",
+    "description":"Parvata Muni."
+}
+---
 
 ==== parvataḥ  ====
   * Parvata Muni --- [[books:sb:1:9:6-7|SB 1.9.6-7]]

@@ -1,5 +1,11 @@
-~~Title:carmani~~
-{{description>and skin; skin.}}
+---json
+{
+    "name":"carmani",
+    "h1":"carmani",
+    "title":"carmani",
+    "description":"and skin; skin."
+}
+---
 
 ==== carmāṇi  ====
   * and skin --- [[books:sb:3:31:3|SB 3.31.3]]

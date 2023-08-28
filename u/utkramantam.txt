@@ -1,5 +1,11 @@
-~~Title:utkrāmantam~~
-{{description>quitting the body.}}
+---json
+{
+    "name":"utkrāmantam",
+    "h1":"utkrāmantam",
+    "title":"utkrāmantam",
+    "description":"quitting the body."
+}
+---
 
 ==== utkrāmantam  ====
   * quitting the body --- [[books:bg:15:10|Bg. 15.10]]

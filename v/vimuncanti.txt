@@ -1,5 +1,11 @@
-~~Title:vimuñcantī~~
-{{description>releasing.}}
+---json
+{
+    "name":"vimuñcantī",
+    "h1":"vimuñcantī",
+    "title":"vimuñcantī",
+    "description":"releasing."
+}
+---
 
 ==== vimuñcantī  ====
   * releasing --- [[books:sb:5:9:18|SB 5.9.18]]

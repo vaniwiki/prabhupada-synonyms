@@ -1,5 +1,11 @@
-~~Title:titikṣavaḥ~~
-{{description>tolerant; very forebearing.}}
+---json
+{
+    "name":"titikṣavaḥ",
+    "h1":"titikṣavaḥ",
+    "title":"titikṣavaḥ",
+    "description":"tolerant; very forebearing."
+}
+---
 
 ==== titikṣavaḥ  ====
   * tolerant --- [[books:sb:3:25:21|SB 3.25.21]]

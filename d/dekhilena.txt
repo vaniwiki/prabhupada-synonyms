@@ -1,5 +1,11 @@
-~~Title:dekhilena~~
-{{description>He saw; saw.}}
+---json
+{
+    "name":"dekhilena",
+    "h1":"dekhilena",
+    "title":"dekhilena",
+    "description":"He saw; saw."
+}
+---
 
 ==== dekhilena  ====
   * He saw --- [[books:cc:adi:7:58|Ādi 7.58]]

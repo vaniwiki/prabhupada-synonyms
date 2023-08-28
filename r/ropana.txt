@@ -1,5 +1,11 @@
-~~Title:ropaṇa~~
-{{description>sowing.}}
+---json
+{
+    "name":"ropaṇa",
+    "h1":"ropaṇa",
+    "title":"ropaṇa",
+    "description":"sowing."
+}
+---
 
 ==== ropaṇa  ====
   * sowing --- [[books:cc:madhya:6:105|Madhya 6.105]]

@@ -1,5 +1,11 @@
-~~Title:tanuṣe~~
-{{description>expand; You manifest.}}
+---json
+{
+    "name":"tanuṣe",
+    "h1":"tanuṣe",
+    "title":"tanuṣe",
+    "description":"expand; You manifest."
+}
+---
 
 ==== tanuṣe  ====
   * expand --- [[books:sb:4:6:45|SB 4.6.45]]

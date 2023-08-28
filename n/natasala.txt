@@ -1,5 +1,11 @@
-~~Title:nāṭaśālā~~
-{{description>the place known as Kānāi Nāṭaśālā.}}
+---json
+{
+    "name":"nāṭaśālā",
+    "h1":"nāṭaśālā",
+    "title":"nāṭaśālā",
+    "description":"the place known as Kānāi Nāṭaśālā."
+}
+---
 
 ==== nāṭaśālā  ====
   * the place known as Kānāi Nāṭaśālā --- [[books:cc:madhya:16:211|Madhya 16.211]]

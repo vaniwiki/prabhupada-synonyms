@@ -1,5 +1,11 @@
-~~Title:nivartanti~~
-{{description>comes back.}}
+---json
+{
+    "name":"nivartanti",
+    "h1":"nivartanti",
+    "title":"nivartanti",
+    "description":"comes back."
+}
+---
 
 ==== nivartanti  ====
   * comes back --- [[books:bg:15:3-4|Bg. 15.3-4]]

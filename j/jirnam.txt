@@ -1,5 +1,11 @@
-~~Title:jīrṇam~~
-{{description>although very old.}}
+---json
+{
+    "name":"jīrṇam",
+    "h1":"jīrṇam",
+    "title":"jīrṇam",
+    "description":"although very old."
+}
+---
 
 ==== jīrṇam  ====
   * although very old --- [[books:sb:9:22:12-13|SB 9.22.12-13]]

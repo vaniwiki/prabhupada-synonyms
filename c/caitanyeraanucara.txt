@@ -1,5 +1,11 @@
-~~Title:caitanyeraanucara~~
-{{description>a follower of Lord Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"caitanyeraanucara",
+    "h1":"caitanyeraanucara",
+    "title":"caitanyeraanucara",
+    "description":"a follower of Lord Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== caitanyeraanucara  ====
   * a follower of Lord Śrī Caitanya Mahāprabhu --- [[books:cc:adi:6:93|Ādi 6.93]]

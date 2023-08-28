@@ -1,5 +1,11 @@
-~~Title:upaśāntyai~~
-{{description>for the deliverance.}}
+---json
+{
+    "name":"upaśāntyai",
+    "h1":"upaśāntyai",
+    "title":"upaśāntyai",
+    "description":"for the deliverance."
+}
+---
 
 ==== upaśāntyai  ====
   * for the deliverance --- [[books:sb:3:33:35|SB 3.33.35]]

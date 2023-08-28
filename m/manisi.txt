@@ -1,5 +1,11 @@
-~~Title:manīṣī~~
-{{description>philosopher; such a great saintly person.}}
+---json
+{
+    "name":"manīṣī",
+    "h1":"manīṣī",
+    "title":"manīṣī",
+    "description":"philosopher; such a great saintly person."
+}
+---
 
 ==== manīṣī  ====
   * philosopher --- [[books:iso:8|Īśo 8]]

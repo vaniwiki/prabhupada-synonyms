@@ -1,5 +1,11 @@
-~~Title:vikārān~~
-{{description>transformation.}}
+---json
+{
+    "name":"vikārān",
+    "h1":"vikārān",
+    "title":"vikārān",
+    "description":"transformation."
+}
+---
 
 ==== vikārān  ====
   * transformation --- [[books:bg:13:20|Bg. 13.20]]

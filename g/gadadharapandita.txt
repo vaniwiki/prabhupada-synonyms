@@ -1,5 +1,11 @@
-~~Title:gadādharapaṇḍita~~
-{{description>the descendants or disciplic succession of Gadādhara Paṇḍita.}}
+---json
+{
+    "name":"gadādharapaṇḍita",
+    "h1":"gadādharapaṇḍita",
+    "title":"gadādharapaṇḍita",
+    "description":"the descendants or disciplic succession of Gadādhara Paṇḍita."
+}
+---
 
 ==== gadādharapaṇḍita-gosāñi  ====
   * the descendants or disciplic succession of Gadādhara Paṇḍita --- [[books:cc:adi:10:15|Ādi 10.15]]

@@ -1,5 +1,11 @@
-~~Title:aṇimne~~
-{{description>smaller than the atom.}}
+---json
+{
+    "name":"aṇimne",
+    "h1":"aṇimne",
+    "title":"aṇimne",
+    "description":"smaller than the atom."
+}
+---
 
 ==== aṇoḥ aṇimne  ====
   * smaller than the atom --- [[books:sb:8:6:8|SB 8.6.8]]

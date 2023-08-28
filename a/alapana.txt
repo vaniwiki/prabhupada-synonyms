@@ -1,5 +1,11 @@
-~~Title:ālāpana~~
-{{description>discussion; talking with one another.}}
+---json
+{
+    "name":"ālāpana",
+    "h1":"ālāpana",
+    "title":"ālāpana",
+    "description":"discussion; talking with one another."
+}
+---
 
 ==== ālāpana  ====
   * discussion --- [[books:cc:adi:10:105|Ādi 10.105]]

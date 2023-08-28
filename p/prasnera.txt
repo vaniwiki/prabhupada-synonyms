@@ -1,5 +1,11 @@
-~~Title:praśnera~~
-{{description>of this question.}}
+---json
+{
+    "name":"praśnera",
+    "h1":"praśnera",
+    "title":"praśnera",
+    "description":"of this question."
+}
+---
 
 ==== ei praśnera  ====
   * of this question --- [[books:cc:adi:17:176|Ādi 17.176]]

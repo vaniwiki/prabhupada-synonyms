@@ -1,5 +1,11 @@
-~~Title:āyudhānām~~
-{{description>of all weapons.}}
+---json
+{
+    "name":"āyudhānām",
+    "h1":"āyudhānām",
+    "title":"āyudhānām",
+    "description":"of all weapons."
+}
+---
 
 ==== āyudhānām  ====
   * of all weapons --- [[books:bg:10:28|Bg. 10.28]]

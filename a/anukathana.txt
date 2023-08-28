@@ -1,5 +1,11 @@
-~~Title:anukathana~~
-{{description>to regularly recite.}}
+---json
+{
+    "name":"anukathana",
+    "h1":"anukathana",
+    "title":"anukathana",
+    "description":"to regularly recite."
+}
+---
 
 ==== anukathana  ====
   * to regularly recite --- [[books:sb:4:29:39-40|SB 4.29.39-40]]

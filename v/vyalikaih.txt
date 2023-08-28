@@ -1,5 +1,11 @@
-~~Title:vyalīkaiḥ~~
-{{description>by those who are above all pretensions.}}
+---json
+{
+    "name":"vyalīkaiḥ",
+    "h1":"vyalīkaiḥ",
+    "title":"vyalīkaiḥ",
+    "description":"by those who are above all pretensions."
+}
+---
 
 ==== gata-vyalīkaiḥ  ====
   * by those who are above all pretensions --- [[books:sb:2:4:19|SB 2.4.19]]

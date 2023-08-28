@@ -1,5 +1,11 @@
-~~Title:hetavaḥ~~
-{{description>causes; due to the cause of; the causes; the original causes.}}
+---json
+{
+    "name":"hetavaḥ",
+    "h1":"hetavaḥ",
+    "title":"hetavaḥ",
+    "description":"causes; due to the cause of; the causes; the original causes."
+}
+---
 
 ==== hetavaḥ  ====
   * causes --- [[books:bg:18:15|Bg. 18.15]], [[books:sb:1:5:34|SB 1.5.34]], [[books:sb:4:1:16|SB 4.1.16]], [[books:sb:4:8:28|SB 4.8.28]], [[books:sb:4:22:9|SB 4.22.9]], [[books:sb:6:3:4|SB 6.3.4]], [[books:sb:6:4:45|SB 6.4.45]]

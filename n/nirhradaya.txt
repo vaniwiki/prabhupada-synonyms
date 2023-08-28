@@ -1,5 +1,11 @@
-~~Title:nirhrādayā~~
-{{description>as grave as the thundering of clouds; resounding like a rumbling cloud.}}
+---json
+{
+    "name":"nirhrādayā",
+    "h1":"nirhrādayā",
+    "title":"nirhrādayā",
+    "description":"as grave as the thundering of clouds; resounding like a rumbling cloud."
+}
+---
 
 ==== megha-nirhrādayā  ====
   * as grave as the thundering of clouds --- [[books:sb:4:15:21|SB 4.15.21]]

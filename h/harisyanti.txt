@@ -1,5 +1,11 @@
-~~Title:hariṣyanti~~
-{{description>they will offer; will offer.}}
+---json
+{
+    "name":"hariṣyanti",
+    "h1":"hariṣyanti",
+    "title":"hariṣyanti",
+    "description":"they will offer; will offer."
+}
+---
 
 ==== hariṣyanti  ====
   * they will offer --- [[books:sb:6:4:53|SB 6.4.53]]

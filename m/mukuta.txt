@@ -1,5 +1,11 @@
-~~Title:mukuta~~
-{{description>all the helmets; crowns; helmet; helmets; the helmets.}}
+---json
+{
+    "name":"mukuta",
+    "h1":"mukuta",
+    "title":"mukuta",
+    "description":"all the helmets; crowns; helmet; helmets; the helmets."
+}
+---
 
 ==== mukuṭa  ====
   * all the helmets --- [[books:cc:madhya:21:95|Madhya 21.95]]

@@ -1,5 +1,11 @@
-~~Title:sargah~~
-{{description>birth and death; creation; creation, involving the birth of many sons and grandsons from the daughters of Manu; manifestation; statement of the creation of the universe; the creation; the creation of the ingredients of the universe; the material creation.}}
+---json
+{
+    "name":"sargah",
+    "h1":"sargah",
+    "title":"sargah",
+    "description":"birth and death; creation; creation, involving the birth of many sons and grandsons from the daughters of Manu; manifestation; statement of the creation of the universe; the creation; the creation of the ingredients of the universe; the material creation."
+}
+---
 
 ==== sargaḥ  ====
   * birth and death --- [[books:bg:5:19|Bg. 5.19]]

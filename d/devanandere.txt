@@ -1,5 +1,11 @@
-~~Title:devānandere~~
-{{description>mercy to Devānanda Paṇḍita.}}
+---json
+{
+    "name":"devānandere",
+    "h1":"devānandere",
+    "title":"devānandere",
+    "description":"mercy to Devānanda Paṇḍita."
+}
+---
 
 ==== devānandere prasāda  ====
   * mercy to Devānanda Paṇḍita --- [[books:cc:madhya:1:153|Madhya 1.153]]

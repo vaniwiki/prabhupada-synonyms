@@ -1,5 +1,11 @@
-~~Title:puṣpāṇi~~
-{{description>flowers; the flowers.}}
+---json
+{
+    "name":"puṣpāṇi",
+    "h1":"puṣpāṇi",
+    "title":"puṣpāṇi",
+    "description":"flowers; the flowers."
+}
+---
 
 ==== puṣpāṇi  ====
   * flowers --- [[books:sb:3:29:41|SB 3.29.41]]

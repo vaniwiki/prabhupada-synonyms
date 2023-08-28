@@ -1,5 +1,11 @@
-~~Title:siṣeva~~
-{{description>performed.}}
+---json
+{
+    "name":"siṣeva",
+    "h1":"siṣeva",
+    "title":"siṣeva",
+    "description":"performed."
+}
+---
 
 ==== siṣeva  ====
   * performed --- [[books:cc:madhya:14:158|Madhya 14.158]]

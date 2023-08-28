@@ -1,5 +1,11 @@
-~~Title:prāpte~~
-{{description>having attained; when it happened.}}
+---json
+{
+    "name":"prāpte",
+    "h1":"prāpte",
+    "title":"prāpte",
+    "description":"having attained; when it happened."
+}
+---
 
 ==== prāpte  ====
   * having attained --- [[books:sb:1:6:3|SB 1.6.3]]

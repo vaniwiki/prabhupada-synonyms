@@ -1,5 +1,11 @@
-~~Title:smayan~~
-{{description>being bewildered; smiling; wondering.}}
+---json
+{
+    "name":"smayan",
+    "h1":"smayan",
+    "title":"smayan",
+    "description":"being bewildered; smiling; wondering."
+}
+---
 
 ==== smayan  ====
   * being bewildered --- [[books:sb:7:10:63|SB 7.10.63]]

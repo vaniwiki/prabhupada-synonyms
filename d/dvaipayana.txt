@@ -1,5 +1,11 @@
-~~Title:dvaipāyana~~
-{{description>of Kṛṣṇa-dvaipāyana Vyāsa; of Vyāsadeva.}}
+---json
+{
+    "name":"dvaipāyana",
+    "h1":"dvaipāyana",
+    "title":"dvaipāyana",
+    "description":"of Kṛṣṇa-dvaipāyana Vyāsa; of Vyāsadeva."
+}
+---
 
 ==== dvaipāyana  ====
   * of Kṛṣṇa-dvaipāyana Vyāsa --- [[books:sb:3:4:9|SB 3.4.9]]

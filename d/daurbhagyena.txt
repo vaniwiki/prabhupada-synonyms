@@ -1,5 +1,11 @@
-~~Title:daurbhāgyena~~
-{{description>on account of misfortune.}}
+---json
+{
+    "name":"daurbhāgyena",
+    "h1":"daurbhāgyena",
+    "title":"daurbhāgyena",
+    "description":"on account of misfortune."
+}
+---
 
 ==== daurbhāgyena  ====
   * on account of misfortune --- [[books:sb:4:27:20|SB 4.27.20]]

@@ -1,5 +1,11 @@
-~~Title:drauṇi~~
-{{description>of Aśvatthāmā; the son of Droṇācārya.}}
+---json
+{
+    "name":"drauṇi",
+    "h1":"drauṇi",
+    "title":"drauṇi",
+    "description":"of Aśvatthāmā; the son of Droṇācārya."
+}
+---
 
 ==== drauṇi  ====
   * of Aśvatthāmā --- [[books:sb:6:18:65|SB 6.18.65]], [[books:sb:10:1:5-7|SB 10.1.5-7]]

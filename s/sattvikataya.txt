@@ -1,5 +1,11 @@
-~~Title:sāttvikatayā~~
-{{description>with the quality of predominant goodness.}}
+---json
+{
+    "name":"sāttvikatayā",
+    "h1":"sāttvikatayā",
+    "title":"sāttvikatayā",
+    "description":"with the quality of predominant goodness."
+}
+---
 
 ==== sāttvikatayā  ====
   * with the quality of predominant goodness --- [[books:cc:adi:3:87|Ādi 3.87]]

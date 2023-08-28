@@ -1,5 +1,11 @@
-~~Title:bhūteṣu~~
-{{description>among all living entities; among living entities; among the living beings; among the living entities; among the living entities and elements; among things generated (with and without symptoms of life); in all beings; in all living beings; in all living entities; in all manifestations; in every living being; in every living entity; in other living entities; in the five gross elements of material nature; in the living beings; in the living entities; into the material elements; living beings; living entities; living entity; manifestation; to all living entities; to living entities; to other living entities; to the living entities; towards all living entities; towards living entities; unto all living beings; unto living entities; unto the living beings; unto the living entities; unto the ordinary living beings; with all living beings.}}
+---json
+{
+    "name":"bhūteṣu",
+    "h1":"bhūteṣu",
+    "title":"bhūteṣu",
+    "description":"among all living entities; among living entities; among the living beings; among the living entities; among the living entities and elements; among things generated (with and without symptoms of life); in all beings; in all living beings; in all living entities; in all manifestations; in every living being; in every living entity; in other living entities; in the five gross elements of material nature; in the living beings; in the living entities; into the material elements; living beings; living entities; living entity; manifestation; to all living entities; to living entities; to other living entities; to the living entities; towards all living entities; towards living entities; unto all living beings; unto living entities; unto the living beings; unto the living entities; unto the ordinary living beings; with all living beings."
+}
+---
 
 ==== bhūteṣu  ====
   * among all living entities --- [[books:sb:6:1:46|SB 6.1.46]]

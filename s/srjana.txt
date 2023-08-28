@@ -1,5 +1,11 @@
-~~Title:sṛjana~~
-{{description>creating; creation.}}
+---json
+{
+    "name":"sṛjana",
+    "h1":"sṛjana",
+    "title":"sṛjana",
+    "description":"creating; creation."
+}
+---
 
 ==== sṛjana  ====
   * creating --- [[books:cc:adi:4:150|Ādi 4.150]], [[books:cc:madhya:21:133|Madhya 21.133]], [[books:cc:madhya:24:23|Madhya 24.23]]

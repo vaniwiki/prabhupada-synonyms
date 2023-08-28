@@ -1,5 +1,11 @@
-~~Title:abhakṣi~~
-{{description>has now been eaten.}}
+---json
+{
+    "name":"abhakṣi",
+    "h1":"abhakṣi",
+    "title":"abhakṣi",
+    "description":"has now been eaten."
+}
+---
 
 ==== abhakṣi  ====
   * has now been eaten --- [[books:sb:7:7:3|SB 7.7.3]]

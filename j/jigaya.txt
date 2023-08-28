@@ -1,5 +1,11 @@
-~~Title:jigāya~~
-{{description>he defeated.}}
+---json
+{
+    "name":"jigāya",
+    "h1":"jigāya",
+    "title":"jigāya",
+    "description":"he defeated."
+}
+---
 
 ==== jigāya  ====
   * he defeated --- [[books:sb:4:12:42|SB 4.12.42]]

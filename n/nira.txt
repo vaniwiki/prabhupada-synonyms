@@ -1,5 +1,11 @@
-~~Title:nīra~~
-{{description>in the water; water.}}
+---json
+{
+    "name":"nīra",
+    "h1":"nīra",
+    "title":"nīra",
+    "description":"in the water; water."
+}
+---
 
 ==== nīra  ====
   * in the water --- [[books:sb:5:24:10|SB 5.24.10]]

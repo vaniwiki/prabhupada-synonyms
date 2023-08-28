@@ -1,5 +1,11 @@
-~~Title:samayena~~
-{{description>in due course; on the conditions.}}
+---json
+{
+    "name":"samayena",
+    "h1":"samayena",
+    "title":"samayena",
+    "description":"in due course; on the conditions."
+}
+---
 
 ==== samayena  ====
   * in due course --- [[books:sb:3:1:8|SB 3.1.8]]

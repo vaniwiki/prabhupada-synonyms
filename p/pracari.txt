@@ -1,5 +1,11 @@
-~~Title:pracāri'~~
-{{description>preaching.}}
+---json
+{
+    "name":"pracāri'",
+    "h1":"pracāri'",
+    "title":"pracāri'",
+    "description":"preaching."
+}
+---
 
 ==== pracāri'  ====
   * preaching --- [[books:cc:antya:3:226|Antya 3.226]]

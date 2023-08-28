@@ -1,5 +1,11 @@
-~~Title:deula~~
-{{description>the temple.}}
+---json
+{
+    "name":"deula",
+    "h1":"deula",
+    "title":"deula",
+    "description":"the temple."
+}
+---
 
 ==== deula  ====
   * the temple --- [[books:cc:madhya:5:144|Madhya 5.144]]

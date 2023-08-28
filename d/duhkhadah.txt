@@ -1,5 +1,11 @@
-~~Title:duḥkhadaḥ~~
-{{description>who is apt to inflict pains upon others.}}
+---json
+{
+    "name":"duḥkhadaḥ",
+    "h1":"duḥkhadaḥ",
+    "title":"duḥkhadaḥ",
+    "description":"who is apt to inflict pains upon others."
+}
+---
 
 ==== para-duḥkhadaḥ  ====
   * who is apt to inflict pains upon others --- [[books:sb:4:8:17|SB 4.8.17]]

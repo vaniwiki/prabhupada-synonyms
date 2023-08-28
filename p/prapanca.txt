@@ -1,5 +1,11 @@
-~~Title:prapañca~~
-{{description>material; the cosmic manifestation; the total material energy.}}
+---json
+{
+    "name":"prapañca",
+    "h1":"prapañca",
+    "title":"prapañca",
+    "description":"material; the cosmic manifestation; the total material energy."
+}
+---
 
 ==== prapañca  ====
   * material --- [[books:sb:2:9:5|SB 2.9.5]]

@@ -1,5 +1,11 @@
-~~Title:vālmīkiḥ~~
-{{description>Vālmīki.}}
+---json
+{
+    "name":"vālmīkiḥ",
+    "h1":"vālmīkiḥ",
+    "title":"vālmīkiḥ",
+    "description":"Vālmīki."
+}
+---
 
 ==== vālmīkiḥ  ====
   * Vālmīki --- [[books:sb:6:18:5|SB 6.18.5]]

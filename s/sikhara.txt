@@ -1,5 +1,11 @@
-~~Title:śikhara~~
-{{description>domes; the roof.}}
+---json
+{
+    "name":"śikhara",
+    "h1":"śikhara",
+    "title":"śikhara",
+    "description":"domes; the roof."
+}
+---
 
 ==== śikhara  ====
   * domes --- [[books:sb:4:9:56|SB 4.9.56]]

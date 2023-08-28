@@ -1,5 +1,11 @@
-~~Title:vāritaḥ~~
-{{description>being forbidden; when forbidden to do so.}}
+---json
+{
+    "name":"vāritaḥ",
+    "h1":"vāritaḥ",
+    "title":"vāritaḥ",
+    "description":"being forbidden; when forbidden to do so."
+}
+---
 
 ==== vāritaḥ  ====
   * being forbidden --- [[books:sb:9:9:23-24|SB 9.9.23-24]]

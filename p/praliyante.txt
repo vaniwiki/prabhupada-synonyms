@@ -1,5 +1,11 @@
-~~Title:pralīyante~~
-{{description>are annihilated.}}
+---json
+{
+    "name":"pralīyante",
+    "h1":"pralīyante",
+    "title":"pralīyante",
+    "description":"are annihilated."
+}
+---
 
 ==== pralīyante  ====
   * are annihilated --- [[books:bg:8:18|Bg. 8.18]]

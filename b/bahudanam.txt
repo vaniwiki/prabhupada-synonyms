@@ -1,5 +1,11 @@
-~~Title:bahūdanam~~
-{{description>named Bahūdana.}}
+---json
+{
+    "name":"bahūdanam",
+    "h1":"bahūdanam",
+    "title":"bahūdanam",
+    "description":"named Bahūdana."
+}
+---
 
 ==== bahūdanam  ====
   * named Bahūdana --- [[books:sb:4:29:12|SB 4.29.12]]

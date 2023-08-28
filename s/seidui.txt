@@ -1,5 +1,11 @@
-~~Title:seidui~~
-{{description>these two persons.}}
+---json
+{
+    "name":"seidui",
+    "h1":"seidui",
+    "title":"seidui",
+    "description":"these two persons."
+}
+---
 
 ==== seidui  ====
   * these two persons --- [[books:cc:madhya:4:104|Madhya 4.104]]

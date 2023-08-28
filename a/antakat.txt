@@ -1,5 +1,11 @@
-~~Title:antakāt~~
-{{description>from death.}}
+---json
+{
+    "name":"antakāt",
+    "h1":"antakāt",
+    "title":"antakāt",
+    "description":"from death."
+}
+---
 
 ==== antakāt  ====
   * from death --- [[books:sb:9:22:34|SB 9.22.34]]

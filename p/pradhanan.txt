@@ -1,5 +1,11 @@
-~~Title:pradhānān~~
-{{description>headed by King Indra.}}
+---json
+{
+    "name":"pradhānān",
+    "h1":"pradhānān",
+    "title":"pradhānān",
+    "description":"headed by King Indra."
+}
+---
 
 ==== indra-pradhānān  ====
   * headed by King Indra --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

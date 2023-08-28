@@ -1,5 +1,11 @@
-~~Title:nistārile~~
-{{description>have delivered.}}
+---json
+{
+    "name":"nistārile",
+    "h1":"nistārile",
+    "title":"nistārile",
+    "description":"have delivered."
+}
+---
 
 ==== nistārile  ====
   * have delivered --- [[books:cc:madhya:6:213|Madhya 6.213]]

@@ -1,5 +1,11 @@
-~~Title:abhivarṣitaḥ~~
-{{description>thus being covered.}}
+---json
+{
+    "name":"abhivarṣitaḥ",
+    "h1":"abhivarṣitaḥ",
+    "title":"abhivarṣitaḥ",
+    "description":"thus being covered."
+}
+---
 
 ==== abhivarṣitaḥ  ====
   * thus being covered --- [[books:sb:1:11:27|SB 1.11.27]]

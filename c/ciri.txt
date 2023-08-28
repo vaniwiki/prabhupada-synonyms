@@ -1,5 +1,11 @@
-~~Title:ciri'~~
-{{description>tearing and tearing.}}
+---json
+{
+    "name":"ciri'",
+    "h1":"ciri'",
+    "title":"ciri'",
+    "description":"tearing and tearing."
+}
+---
 
 ==== ciri' ciri'  ====
   * tearing and tearing --- [[books:cc:antya:13:18|Antya 13.18]]

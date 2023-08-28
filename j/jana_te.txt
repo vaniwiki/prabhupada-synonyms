@@ -1,5 +1,11 @@
-~~Title:jānā'te~~
-{{description>to advertise among the people.}}
+---json
+{
+    "name":"jānā'te",
+    "h1":"jānā'te",
+    "title":"jānā'te",
+    "description":"to advertise among the people."
+}
+---
 
 ==== jānā'te loke  ====
   * to advertise among the people --- [[books:cc:antya:20:62|Antya 20.62]]

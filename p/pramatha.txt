@@ -1,5 +1,11 @@
-~~Title:pramatha~~
-{{description>Pramathas.}}
+---json
+{
+    "name":"pramatha",
+    "h1":"pramatha",
+    "title":"pramatha",
+    "description":"Pramathas."
+}
+---
 
 ==== pramatha  ====
   * Pramathas --- [[books:sb:6:8:25|SB 6.8.25]]

@@ -1,5 +1,11 @@
-~~Title:gopāyeta~~
-{{description>let Him protect.}}
+---json
+{
+    "name":"gopāyeta",
+    "h1":"gopāyeta",
+    "title":"gopāyeta",
+    "description":"let Him protect."
+}
+---
 
 ==== gopāyeta  ====
   * let Him protect --- [[books:sb:7:8:13|SB 7.8.13]]

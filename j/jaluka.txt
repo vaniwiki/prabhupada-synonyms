@@ -1,5 +1,11 @@
-~~Title:jalūkā~~
-{{description>caterpillar.}}
+---json
+{
+    "name":"jalūkā",
+    "h1":"jalūkā",
+    "title":"jalūkā",
+    "description":"caterpillar."
+}
+---
 
 ==== tṛṇa-jalūkā  ====
   * caterpillar --- [[books:sb:4:29:76-77|SB 4.29.76-77]]

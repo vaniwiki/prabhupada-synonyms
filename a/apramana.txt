@@ -1,5 +1,11 @@
-~~Title:apramāṇa~~
-{{description>because they were all foolish; unaware of the extent of glories.}}
+---json
+{
+    "name":"apramāṇa",
+    "h1":"apramāṇa",
+    "title":"apramāṇa",
+    "description":"because they were all foolish; unaware of the extent of glories."
+}
+---
 
 ==== apramāṇa-vidaḥ  ====
   * because they were all foolish --- [[books:sb:8:9:13|SB 8.9.13]]

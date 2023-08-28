@@ -1,5 +1,11 @@
-~~Title:prayojane~~
-{{description>what is the necessity.}}
+---json
+{
+    "name":"prayojane",
+    "h1":"prayojane",
+    "title":"prayojane",
+    "description":"what is the necessity."
+}
+---
 
 ==== kon prayojane  ====
   * what is the necessity --- [[books:cc:antya:3:218|Antya 3.218]]

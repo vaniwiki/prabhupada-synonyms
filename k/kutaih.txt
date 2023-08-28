@@ -1,5 +1,11 @@
-~~Title:kūṭaiḥ~~
-{{description>by the horns.}}
+---json
+{
+    "name":"kūṭaiḥ",
+    "h1":"kūṭaiḥ",
+    "title":"kūṭaiḥ",
+    "description":"by the horns."
+}
+---
 
 ==== kūṭaiḥ  ====
   * by the horns --- [[books:sb:4:25:8|SB 4.25.8]]

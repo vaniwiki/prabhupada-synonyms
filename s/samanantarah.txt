@@ -1,5 +1,11 @@
-~~Title:samanantaraḥ~~
-{{description>the next son, Vidhātā.}}
+---json
+{
+    "name":"samanantaraḥ",
+    "h1":"samanantaraḥ",
+    "title":"samanantaraḥ",
+    "description":"the next son, Vidhātā."
+}
+---
 
 ==== samanantaraḥ  ====
   * the next son, Vidhātā --- [[books:sb:6:18:3-4|SB 6.18.3-4]]

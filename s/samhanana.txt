@@ -1,5 +1,11 @@
-~~Title:saṁhanana~~
-{{description>well-built body.}}
+---json
+{
+    "name":"saṁhanana",
+    "h1":"saṁhanana",
+    "title":"saṁhanana",
+    "description":"well-built body."
+}
+---
 
 ==== saṁhanana  ====
   * well-built body --- [[books:sb:5:2:21|SB 5.2.21]]

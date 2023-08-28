@@ -1,5 +1,11 @@
-~~Title:krīḍāra~~
-{{description>and of sports; of pastimes.}}
+---json
+{
+    "name":"krīḍāra",
+    "h1":"krīḍāra",
+    "title":"krīḍāra",
+    "description":"and of sports; of pastimes."
+}
+---
 
 ==== krīḍāra  ====
   * and of sports --- [[books:cc:adi:4:84|Ādi 4.84]]

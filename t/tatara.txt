@@ -1,5 +1,11 @@
-~~Title:tatāra~~
-{{description>crossed; escaped.}}
+---json
+{
+    "name":"tatāra",
+    "h1":"tatāra",
+    "title":"tatāra",
+    "description":"crossed; escaped."
+}
+---
 
 ==== tatāra  ====
   * crossed --- [[books:sb:6:9:23|SB 6.9.23]]

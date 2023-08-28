@@ -1,5 +1,11 @@
-~~Title:pratata~~
-{{description>broad.}}
+---json
+{
+    "name":"pratata",
+    "h1":"pratata",
+    "title":"pratata",
+    "description":"broad."
+}
+---
 
 ==== pratata  ====
   * broad --- [[books:cc:antya:15:78|Antya 15.78]]

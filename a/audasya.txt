@@ -1,5 +1,11 @@
-~~Title:audāsya~~
-{{description>of negligence.}}
+---json
+{
+    "name":"audāsya",
+    "h1":"audāsya",
+    "title":"audāsya",
+    "description":"of negligence."
+}
+---
 
 ==== audāsya  ====
   * of negligence --- [[books:cc:madhya:14:127|Madhya 14.127]]

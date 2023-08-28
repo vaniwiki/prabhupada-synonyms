@@ -1,5 +1,11 @@
-~~Title:bijam~~
-{{description>another seed; seed; the cause of the lotus; the seed; the seed that has already fructified; the source.}}
+---json
+{
+    "name":"bijam",
+    "h1":"bijam",
+    "title":"bijam",
+    "description":"another seed; seed; the cause of the lotus; the seed; the seed that has already fructified; the source."
+}
+---
 
 ==== bījam  ====
   * another seed --- [[books:sb:6:15:7|SB 6.15.7]]

@@ -1,5 +1,11 @@
-~~Title:agnihotrīm~~
-{{description>the kāmadhenu.}}
+---json
+{
+    "name":"agnihotrīm",
+    "h1":"agnihotrīm",
+    "title":"agnihotrīm",
+    "description":"the kāmadhenu."
+}
+---
 
 ==== agnihotrīm  ====
   * the //kāmadhenu// --- [[books:sb:9:15:35-36|SB 9.15.35-36]]

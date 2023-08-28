@@ -1,5 +1,11 @@
-~~Title:bhusana~~
-{{description>decorating; decoration; decorations; of ornaments; ornament; ornaments; the ornament; the ornaments; with ornaments.}}
+---json
+{
+    "name":"bhusana",
+    "h1":"bhusana",
+    "title":"bhusana",
+    "description":"decorating; decoration; decorations; of ornaments; ornament; ornaments; the ornament; the ornaments; with ornaments."
+}
+---
 
 ==== bhūṣaṇa  ====
   * decorating --- [[books:cc:adi:4:183|Ādi 4.183]]

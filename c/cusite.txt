@@ -1,5 +1,11 @@
-~~Title:cusite~~
-{{description>while licking up.}}
+---json
+{
+    "name":"cusite",
+    "h1":"cusite",
+    "title":"cusite",
+    "description":"while licking up."
+}
+---
 
 ==== cūṣite cūṣite  ====
   * while licking up --- [[books:cc:antya:16:37|Antya 16.37]]

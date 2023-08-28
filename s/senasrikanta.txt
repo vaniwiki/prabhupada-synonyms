@@ -1,5 +1,11 @@
-~~Title:senaśrīkānta~~
-{{description>of the name Śrīkānta Sena.}}
+---json
+{
+    "name":"senaśrīkānta",
+    "h1":"senaśrīkānta",
+    "title":"senaśrīkānta",
+    "description":"of the name Śrīkānta Sena."
+}
+---
 
 ==== senaśrīkānta  ====
   * of the name Śrīkānta Sena --- [[books:cc:adi:10:63|Ādi 10.63]]

@@ -1,5 +1,11 @@
-~~Title:manuse~~
-{{description>for the pleasure of human society, as in marriages; in human society.}}
+---json
+{
+    "name":"manuse",
+    "h1":"manuse",
+    "title":"manuse",
+    "description":"for the pleasure of human society, as in marriages; in human society."
+}
+---
 
 ==== mānuṣe  ====
   * for the pleasure of human society, as in marriages --- [[books:sb:8:23:31|SB 8.23.31]]

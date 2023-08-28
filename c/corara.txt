@@ -1,5 +1,11 @@
-~~Title:corāra~~
-{{description>of a thief.}}
+---json
+{
+    "name":"corāra",
+    "h1":"corāra",
+    "title":"corāra",
+    "description":"of a thief."
+}
+---
 
 ==== corāra  ====
   * of a thief --- [[books:cc:antya:16:129|Antya 16.129]]

@@ -1,5 +1,11 @@
-~~Title:pratikurvanti~~
-{{description>counteract.}}
+---json
+{
+    "name":"pratikurvanti",
+    "h1":"pratikurvanti",
+    "title":"pratikurvanti",
+    "description":"counteract."
+}
+---
 
 ==== pratikurvanti  ====
   * counteract --- [[books:sb:1:18:48|SB 1.18.48]]

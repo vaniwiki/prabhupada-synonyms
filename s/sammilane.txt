@@ -1,5 +1,11 @@
-~~Title:sammilane~~
-{{description>by the combining.}}
+---json
+{
+    "name":"sammilane",
+    "h1":"sammilane",
+    "title":"sammilane",
+    "description":"by the combining."
+}
+---
 
 ==== sammilane  ====
   * by the combining --- [[books:cc:madhya:14:175|Madhya 14.175]]

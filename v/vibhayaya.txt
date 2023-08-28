@@ -1,5 +1,11 @@
-~~Title:vibhayāya~~
-{{description>for mitigating their fear.}}
+---json
+{
+    "name":"vibhayāya",
+    "h1":"vibhayāya",
+    "title":"vibhayāya",
+    "description":"for mitigating their fear."
+}
+---
 
 ==== vibhayāya  ====
   * for mitigating their fear --- [[books:sb:7:9:14|SB 7.9.14]]

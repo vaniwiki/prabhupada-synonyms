@@ -1,5 +1,11 @@
-~~Title:prāduścakāra~~
-{{description>appeared.}}
+---json
+{
+    "name":"prāduścakāra",
+    "h1":"prāduścakāra",
+    "title":"prāduścakāra",
+    "description":"appeared."
+}
+---
 
 ==== prāduścakāra  ====
   * appeared --- [[books:sb:4:1:56|SB 4.1.56]]

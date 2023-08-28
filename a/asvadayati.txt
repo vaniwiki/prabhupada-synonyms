@@ -1,5 +1,11 @@
-~~Title:āsvādayati~~
-{{description>tastes.}}
+---json
+{
+    "name":"āsvādayati",
+    "h1":"āsvādayati",
+    "title":"āsvādayati",
+    "description":"tastes."
+}
+---
 
 ==== āsvādayati  ====
   * tastes --- [[books:cc:madhya:1:211|Madhya 1.211]]

@@ -1,5 +1,11 @@
-~~Title:vyapohya~~
-{{description>becoming free from; leaving aside; removing.}}
+---json
+{
+    "name":"vyapohya",
+    "h1":"vyapohya",
+    "title":"vyapohya",
+    "description":"becoming free from; leaving aside; removing."
+}
+---
 
 ==== vyapohya  ====
   * becoming free from --- [[books:sb:5:5:14|SB 5.5.14]]

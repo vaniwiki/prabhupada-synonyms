@@ -1,5 +1,11 @@
-~~Title:vāraṇaḥ~~
-{{description>the elephant.}}
+---json
+{
+    "name":"vāraṇaḥ",
+    "h1":"vāraṇaḥ",
+    "title":"vāraṇaḥ",
+    "description":"the elephant."
+}
+---
 
 ==== vāraṇaḥ  ====
   * the elephant --- [[books:sb:4:7:35|SB 4.7.35]]

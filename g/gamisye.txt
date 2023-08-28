@@ -1,5 +1,11 @@
-~~Title:gamiṣye~~
-{{description>shall go.}}
+---json
+{
+    "name":"gamiṣye",
+    "h1":"gamiṣye",
+    "title":"gamiṣye",
+    "description":"shall go."
+}
+---
 
 ==== gamiṣye  ====
   * shall go --- [[books:sb:3:4:21|SB 3.4.21]]

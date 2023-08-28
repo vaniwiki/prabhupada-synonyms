@@ -1,5 +1,11 @@
-~~Title:madhyam~~
-{{description>between the beginning and the end, the sustenance; maintenance of the present manifestation; middle; to the middle; waist.}}
+---json
+{
+    "name":"madhyam",
+    "h1":"madhyam",
+    "title":"madhyam",
+    "description":"between the beginning and the end, the sustenance; maintenance of the present manifestation; middle; to the middle; waist."
+}
+---
 
 ==== madhyam  ====
   * between the beginning and the end, the sustenance --- [[books:sb:8:12:5|SB 8.12.5]]

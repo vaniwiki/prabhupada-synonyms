@@ -1,5 +1,11 @@
-~~Title:ramante~~
-{{description>do enjoy; take pleasure; take pleasure in.}}
+---json
+{
+    "name":"ramante",
+    "h1":"ramante",
+    "title":"ramante",
+    "description":"do enjoy; take pleasure; take pleasure in."
+}
+---
 
 ==== ramante  ====
   * do enjoy --- [[books:sb:2:2:25|SB 2.2.25]]

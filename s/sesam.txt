@@ -1,5 +1,11 @@
-~~Title:sesam~~
-{{description>that which was taken from; the balance; the remaining (namely skin, bones and the other hard things in the body); the remaining years of life; the remnant; the remnants; the resting place Śeṣa Nāga.}}
+---json
+{
+    "name":"sesam",
+    "h1":"sesam",
+    "title":"sesam",
+    "description":"that which was taken from; the balance; the remaining (namely skin, bones and the other hard things in the body); the remaining years of life; the remnant; the remnants; the resting place Śeṣa Nāga."
+}
+---
 
 ==== śeṣam  ====
   * that which was taken from --- [[books:sb:3:3:6|SB 3.3.6]]

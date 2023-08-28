@@ -1,5 +1,11 @@
-~~Title:praticakṣīta~~
-{{description>you shall see.}}
+---json
+{
+    "name":"praticakṣīta",
+    "h1":"praticakṣīta",
+    "title":"praticakṣīta",
+    "description":"you shall see."
+}
+---
 
 ==== praticakṣīta  ====
   * you shall see --- [[books:sb:3:9:32|SB 3.9.32]]

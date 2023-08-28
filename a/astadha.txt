@@ -1,5 +1,11 @@
-~~Title:aṣṭadhā~~
-{{description>eightfold; total eight.}}
+---json
+{
+    "name":"aṣṭadhā",
+    "h1":"aṣṭadhā",
+    "title":"aṣṭadhā",
+    "description":"eightfold; total eight."
+}
+---
 
 ==== aṣṭadhā  ====
   * eightfold --- [[books:cc:madhya:6:164|Madhya 6.164]]

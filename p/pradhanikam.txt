@@ -1,5 +1,11 @@
-~~Title:prādhānikam~~
-{{description>comprising the pradhāna; ingredients.}}
+---json
+{
+    "name":"prādhānikam",
+    "h1":"prādhānikam",
+    "title":"prādhānikam",
+    "description":"comprising the pradhāna; ingredients."
+}
+---
 
 ==== prādhānikam  ====
   * comprising the //pradhāna// --- [[books:sb:3:26:11|SB 3.26.11]]

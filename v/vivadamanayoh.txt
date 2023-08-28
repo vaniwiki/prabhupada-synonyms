@@ -1,5 +1,11 @@
-~~Title:vivadamānayoḥ~~
-{{description>when the two parties were fighting.}}
+---json
+{
+    "name":"vivadamānayoḥ",
+    "h1":"vivadamānayoḥ",
+    "title":"vivadamānayoḥ",
+    "description":"when the two parties were fighting."
+}
+---
 
 ==== vivadamānayoḥ  ====
   * when the two parties were fighting --- [[books:sb:9:14:11|SB 9.14.11]]

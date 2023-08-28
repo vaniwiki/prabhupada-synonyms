@@ -1,5 +1,11 @@
-~~Title:ardra~~
-{{description>wet.}}
+---json
+{
+    "name":"ardra",
+    "h1":"ardra",
+    "title":"ardra",
+    "description":"wet."
+}
+---
 
 ==== ardra  ====
   * wet --- [[books:sb:5:7:13|SB 5.7.13]]

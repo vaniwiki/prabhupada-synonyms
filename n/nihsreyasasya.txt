@@ -1,5 +1,11 @@
-~~Title:niḥśreyasasya~~
-{{description>the ultimate goal of life.}}
+---json
+{
+    "name":"niḥśreyasasya",
+    "h1":"niḥśreyasasya",
+    "title":"niḥśreyasasya",
+    "description":"the ultimate goal of life."
+}
+---
 
 ==== niḥśreyasasya  ====
   * the ultimate goal of life --- [[books:sb:4:8:40|SB 4.8.40]]

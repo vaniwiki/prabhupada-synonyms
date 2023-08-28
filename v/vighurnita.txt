@@ -1,5 +1,11 @@
-~~Title:vighurnita~~
-{{description>rolling.}}
+---json
+{
+    "name":"vighurnita",
+    "h1":"vighurnita",
+    "title":"vighurnita",
+    "description":"rolling."
+}
+---
 
 ==== vighūrṇita  ====
   * rolling --- [[books:sb:5:25:5|SB 5.25.5]]

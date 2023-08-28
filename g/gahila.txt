@@ -1,5 +1,11 @@
-~~Title:gahila~~
-{{description>sang.}}
+---json
+{
+    "name":"gahila",
+    "h1":"gahila",
+    "title":"gahila",
+    "description":"sang."
+}
+---
 
 ==== gāhila  ====
   * sang --- [[books:cc:madhya:8:193|Madhya 8.193]]

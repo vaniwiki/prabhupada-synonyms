@@ -1,5 +1,11 @@
-~~Title:bharayā~~
-{{description>encumbered by much paraphernalia.}}
+---json
+{
+    "name":"bharayā",
+    "h1":"bharayā",
+    "title":"bharayā",
+    "description":"encumbered by much paraphernalia."
+}
+---
 
 ==== urubhāra-bharayā  ====
   * encumbered by much paraphernalia --- [[books:sb:5:3:7|SB 5.3.7]]

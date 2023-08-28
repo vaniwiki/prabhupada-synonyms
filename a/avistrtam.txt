@@ -1,5 +1,11 @@
-~~Title:avistṛtam~~
-{{description>not extended.}}
+---json
+{
+    "name":"avistṛtam",
+    "h1":"avistṛtam",
+    "title":"avistṛtam",
+    "description":"not extended."
+}
+---
 
 ==== avistṛtam  ====
   * not extended --- [[books:sb:3:12:50|SB 3.12.50]]

@@ -1,5 +1,11 @@
-~~Title:hariścandra~~
-{{description>in the sacrifice performed by King Hariścandra.}}
+---json
+{
+    "name":"hariścandra",
+    "h1":"hariścandra",
+    "title":"hariścandra",
+    "description":"in the sacrifice performed by King Hariścandra."
+}
+---
 
 ==== hariścandra-makhe  ====
   * in the sacrifice performed by King Hariścandra --- [[books:sb:9:16:31|SB 9.16.31]]

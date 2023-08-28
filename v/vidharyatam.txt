@@ -1,5 +1,11 @@
-~~Title:vidhāryatām~~
-{{description>let him be protected.}}
+---json
+{
+    "name":"vidhāryatām",
+    "h1":"vidhāryatām",
+    "title":"vidhāryatām",
+    "description":"let him be protected."
+}
+---
 
 ==== vidhāryatām  ====
   * let him be protected --- [[books:sb:7:5:7|SB 7.5.7]]

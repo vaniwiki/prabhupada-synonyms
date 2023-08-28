@@ -1,5 +1,11 @@
-~~Title:kasyah~~
-{{description>of which woman; whose.}}
+---json
+{
+    "name":"kasyah",
+    "h1":"kasyah",
+    "title":"kasyah",
+    "description":"of which woman; whose."
+}
+---
 
 ==== kasyāḥ  ====
   * of which woman --- [[books:sb:9:14:20|SB 9.14.20]]

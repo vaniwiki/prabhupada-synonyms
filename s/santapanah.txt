@@ -1,5 +1,11 @@
-~~Title:santāpanaḥ~~
-{{description>giving trouble to the entire universe.}}
+---json
+{
+    "name":"santāpanaḥ",
+    "h1":"santāpanaḥ",
+    "title":"santāpanaḥ",
+    "description":"giving trouble to the entire universe."
+}
+---
 
 ==== loka-santāpanaḥ  ====
   * giving trouble to the entire universe --- [[books:sb:7:10:26|SB 7.10.26]]

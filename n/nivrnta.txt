@@ -1,5 +1,11 @@
-~~Title:nivṛnta~~
-{{description>stemless.}}
+---json
+{
+    "name":"nivṛnta",
+    "h1":"nivṛnta",
+    "title":"nivṛnta",
+    "description":"stemless."
+}
+---
 
 ==== nivṛnta  ====
   * stemless --- [[books:cc:madhya:1:156|Madhya 1.156]]

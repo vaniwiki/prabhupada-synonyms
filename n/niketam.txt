@@ -1,5 +1,11 @@
-~~Title:niketam~~
-{{description>reservoir; under.}}
+---json
+{
+    "name":"niketam",
+    "h1":"niketam",
+    "title":"niketam",
+    "description":"reservoir; under."
+}
+---
 
 ==== niketam  ====
   * reservoir --- [[books:sb:3:2:29|SB 3.2.29]]

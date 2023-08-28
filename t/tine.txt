@@ -1,5 +1,11 @@
-~~Title:tine~~
-{{description>all three; all three of them; between the three; by these three things; in the three places; these three; three.}}
+---json
+{
+    "name":"tine",
+    "h1":"tine",
+    "title":"tine",
+    "description":"all three; all three of them; between the three; by these three things; in the three places; these three; three."
+}
+---
 
 ==== tine  ====
   * all three --- [[books:cc:madhya:17:148|Madhya 17.148]], [[books:cc:antya:18:18|Antya 18.18]]

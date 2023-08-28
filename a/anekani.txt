@@ -1,5 +1,11 @@
-~~Title:anekāni~~
-{{description>many varieties of.}}
+---json
+{
+    "name":"anekāni",
+    "h1":"anekāni",
+    "title":"anekāni",
+    "description":"many varieties of."
+}
+---
 
 ==== anekāni  ====
   * many varieties of --- [[books:sb:4:10:28|SB 4.10.28]]

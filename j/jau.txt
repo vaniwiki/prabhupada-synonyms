@@ -1,5 +1,11 @@
-~~Title:jau~~
-{{description>unto the two sons.}}
+---json
+{
+    "name":"jau",
+    "h1":"jau",
+    "title":"jau",
+    "description":"unto the two sons."
+}
+---
 
 ==== ātma-jau  ====
   * unto the two sons --- [[books:sb:5:20:31|SB 5.20.31]]

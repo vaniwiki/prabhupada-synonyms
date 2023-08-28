@@ -1,5 +1,11 @@
-~~Title:udgrāhe~~
-{{description>to establish the conclusion.}}
+---json
+{
+    "name":"udgrāhe",
+    "h1":"udgrāhe",
+    "title":"udgrāhe",
+    "description":"to establish the conclusion."
+}
+---
 
 ==== udgrāhe  ====
   * to establish the conclusion --- [[books:cc:madhya:9:43|Madhya 9.43]]

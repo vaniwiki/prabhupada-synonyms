@@ -1,5 +1,11 @@
-~~Title:nirastaḥ~~
-{{description>completely vanquished; nullified.}}
+---json
+{
+    "name":"nirastaḥ",
+    "h1":"nirastaḥ",
+    "title":"nirastaḥ",
+    "description":"completely vanquished; nullified."
+}
+---
 
 ==== nirastaḥ  ====
   * completely vanquished --- [[books:sb:7:9:23|SB 7.9.23]]

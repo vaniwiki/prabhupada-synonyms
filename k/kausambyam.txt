@@ -1,5 +1,11 @@
-~~Title:kauśāmbyām~~
-{{description>in the place known as Kauśāmbī.}}
+---json
+{
+    "name":"kauśāmbyām",
+    "h1":"kauśāmbyām",
+    "title":"kauśāmbyām",
+    "description":"in the place known as Kauśāmbī."
+}
+---
 
 ==== kauśāmbyām  ====
   * in the place known as Kauśāmbī --- [[books:sb:9:22:40|SB 9.22.40]]

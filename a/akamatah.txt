@@ -1,5 +1,11 @@
-~~Title:akāmataḥ~~
-{{description>although he did not want to do it.}}
+---json
+{
+    "name":"akāmataḥ",
+    "h1":"akāmataḥ",
+    "title":"akāmataḥ",
+    "description":"although he did not want to do it."
+}
+---
 
 ==== akāmataḥ  ====
   * although he did not want to do it --- [[books:sb:9:2:9|SB 9.2.9]]

@@ -1,5 +1,11 @@
-~~Title:udagāyatau~~
-{{description>stretching from north to south.}}
+---json
+{
+    "name":"udagāyatau",
+    "h1":"udagāyatau",
+    "title":"udagāyatau",
+    "description":"stretching from north to south."
+}
+---
 
 ==== udagāyatau  ====
   * stretching from north to south --- [[books:sb:5:16:27|SB 5.16.27]]

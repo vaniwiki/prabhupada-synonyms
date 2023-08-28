@@ -1,5 +1,11 @@
-~~Title:ekākī~~
-{{description>alone.}}
+---json
+{
+    "name":"ekākī",
+    "h1":"ekākī",
+    "title":"ekākī",
+    "description":"alone."
+}
+---
 
 ==== ekākī  ====
   * alone --- [[books:bg:6:10|Bg. 6.10]], [[books:cc:madhya:1:230|Madhya 1.230]], [[books:cc:madhya:7:11|Madhya 7.11]], [[books:cc:madhya:7:15|Madhya 7.15]], [[books:cc:madhya:7:32|Madhya 7.32]], [[books:cc:madhya:16:270|Madhya 16.270]]

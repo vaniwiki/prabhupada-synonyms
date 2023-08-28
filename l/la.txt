@@ -1,5 +1,11 @@
-~~Title:la~~
-{{description>chant; I take.}}
+---json
+{
+    "name":"la",
+    "h1":"la",
+    "title":"la",
+    "description":"chant; I take."
+}
+---
 
 ==== la-i  ====
   * chant --- [[books:cc:adi:7:77|Ādi 7.77]]

@@ -1,5 +1,11 @@
-~~Title:ramanam~~
-{{description>giving pleasure.}}
+---json
+{
+    "name":"ramanam",
+    "h1":"ramanam",
+    "title":"ramanam",
+    "description":"giving pleasure."
+}
+---
 
 ==== ramaṇam  ====
   * giving pleasure --- [[books:sb:4:6:11|SB 4.6.11]]

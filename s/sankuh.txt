@@ -1,5 +1,11 @@
-~~Title:śaṅkuḥ~~
-{{description>Śaṅku.}}
+---json
+{
+    "name":"śaṅkuḥ",
+    "h1":"śaṅkuḥ",
+    "title":"śaṅkuḥ",
+    "description":"Śaṅku."
+}
+---
 
 ==== śaṅkuḥ  ====
   * Śaṅku --- [[books:sb:9:24:24|SB 9.24.24]]

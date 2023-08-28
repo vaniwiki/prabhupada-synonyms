@@ -1,5 +1,11 @@
-~~Title:parirakṣyamāṇānām~~
-{{description>of persons who are protected.}}
+---json
+{
+    "name":"parirakṣyamāṇānām",
+    "h1":"parirakṣyamāṇānām",
+    "title":"parirakṣyamāṇānām",
+    "description":"of persons who are protected."
+}
+---
 
 ==== parirakṣyamāṇānām  ====
   * of persons who are protected --- [[books:sb:5:9:20|SB 5.9.20]]

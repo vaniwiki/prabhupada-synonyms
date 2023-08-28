@@ -1,5 +1,11 @@
-~~Title:apluta~~
-{{description>bathed.}}
+---json
+{
+    "name":"apluta",
+    "h1":"apluta",
+    "title":"apluta",
+    "description":"bathed."
+}
+---
 
 ==== āpluta  ====
   * bathed --- [[books:sb:7:6:27|SB 7.6.27]]

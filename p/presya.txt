@@ -1,5 +1,11 @@
-~~Title:preṣyā~~
-{{description>surrounded by maidservants.}}
+---json
+{
+    "name":"preṣyā",
+    "h1":"preṣyā",
+    "title":"preṣyā",
+    "description":"surrounded by maidservants."
+}
+---
 
 ==== preṣyā-anvitā  ====
   * surrounded by maidservants --- [[books:sb:3:15:22|SB 3.15.22]]

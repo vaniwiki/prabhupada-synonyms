@@ -1,5 +1,11 @@
-~~Title:jam~~
-{{description>born.}}
+---json
+{
+    "name":"jam",
+    "h1":"jam",
+    "title":"jam",
+    "description":"born."
+}
+---
 
 ==== jam  ====
   * born --- [[books:sb:5:1:41|SB 5.1.41]]

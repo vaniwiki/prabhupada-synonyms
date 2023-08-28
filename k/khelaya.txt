@@ -1,5 +1,11 @@
-~~Title:khelāya~~
-{{description>plays with dice.}}
+---json
+{
+    "name":"khelāya",
+    "h1":"khelāya",
+    "title":"khelāya",
+    "description":"plays with dice."
+}
+---
 
 ==== pāśaka khelāya  ====
   * plays with dice --- [[books:cc:antya:16:7|Antya 16.7]]

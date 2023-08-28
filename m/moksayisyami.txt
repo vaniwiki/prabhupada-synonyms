@@ -1,5 +1,11 @@
-~~Title:mokṣayiṣyāmi~~
-{{description>deliver; will give liberation.}}
+---json
+{
+    "name":"mokṣayiṣyāmi",
+    "h1":"mokṣayiṣyāmi",
+    "title":"mokṣayiṣyāmi",
+    "description":"deliver; will give liberation."
+}
+---
 
 ==== mokṣayiṣyāmi  ====
   * deliver --- [[books:bg:18:66|Bg. 18.66]]

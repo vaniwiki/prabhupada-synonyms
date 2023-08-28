@@ -1,5 +1,11 @@
-~~Title:kāñcī~~
-{{description>belt; girdle; with a belt.}}
+---json
+{
+    "name":"kāñcī",
+    "h1":"kāñcī",
+    "title":"kāñcī",
+    "description":"belt; girdle; with a belt."
+}
+---
 
 ==== kāñcī  ====
   * belt --- [[books:sb:8:18:2|SB 8.18.2]]

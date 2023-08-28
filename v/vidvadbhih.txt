@@ -1,5 +1,11 @@
-~~Title:vidvadbhiḥ~~
-{{description>aware of; by the learned.}}
+---json
+{
+    "name":"vidvadbhiḥ",
+    "h1":"vidvadbhiḥ",
+    "title":"vidvadbhiḥ",
+    "description":"aware of; by the learned."
+}
+---
 
 ==== vidvadbhiḥ  ====
   * aware of --- [[books:sb:4:14:12|SB 4.14.12]]

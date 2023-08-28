@@ -1,5 +1,11 @@
-~~Title:sañjīvayati~~
-{{description>rejuvenates.}}
+---json
+{
+    "name":"sañjīvayati",
+    "h1":"sañjīvayati",
+    "title":"sañjīvayati",
+    "description":"rejuvenates."
+}
+---
 
 ==== sañjīvayati  ====
   * rejuvenates --- [[books:sb:4:9:6|SB 4.9.6]]

@@ -1,5 +1,11 @@
-~~Title:locanam~~
-{{description>eyes; Her eyes; light to see.}}
+---json
+{
+    "name":"locanam",
+    "h1":"locanam",
+    "title":"locanam",
+    "description":"eyes; Her eyes; light to see."
+}
+---
 
 ==== locanam  ====
   * eyes --- [[books:sb:1:18:24-25|SB 1.18.24-25]], [[books:sb:3:4:7|SB 3.4.7]], [[books:sb:3:19:7|SB 3.19.7]], [[books:sb:4:25:31|SB 4.25.31]]

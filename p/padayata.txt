@@ -1,5 +1,11 @@
-~~Title:padāyata~~
-{{description>accompanied by sweet songs.}}
+---json
+{
+    "name":"padāyata",
+    "h1":"padāyata",
+    "title":"padāyata",
+    "description":"accompanied by sweet songs."
+}
+---
 
 ==== kala-padāyata  ====
   * accompanied by sweet songs --- [[books:sb:2:7:33|SB 2.7.33]]

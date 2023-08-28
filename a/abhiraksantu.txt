@@ -1,5 +1,11 @@
-~~Title:abhirakṣantu~~
-{{description>support may be given.}}
+---json
+{
+    "name":"abhirakṣantu",
+    "h1":"abhirakṣantu",
+    "title":"abhirakṣantu",
+    "description":"support may be given."
+}
+---
 
 ==== abhirakṣantu  ====
   * support may be given --- [[books:bg:1:11|Bg. 1.11]]

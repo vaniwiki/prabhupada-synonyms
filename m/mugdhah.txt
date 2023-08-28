@@ -1,5 +1,11 @@
-~~Title:mugdhaḥ~~
-{{description>being amazed; bewildered; perplexed.}}
+---json
+{
+    "name":"mugdhaḥ",
+    "h1":"mugdhaḥ",
+    "title":"mugdhaḥ",
+    "description":"being amazed; bewildered; perplexed."
+}
+---
 
 ==== mugdhaḥ  ====
   * being amazed --- [[books:sb:10:11:7|SB 10.11.7]]

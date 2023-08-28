@@ -1,5 +1,11 @@
-~~Title:saṁsiddhaḥ~~
-{{description>completely perfected; matured; perfected; so achieved perfection.}}
+---json
+{
+    "name":"saṁsiddhaḥ",
+    "h1":"saṁsiddhaḥ",
+    "title":"saṁsiddhaḥ",
+    "description":"completely perfected; matured; perfected; so achieved perfection."
+}
+---
 
 ==== saṁsiddhaḥ  ====
   * completely perfected --- [[books:sb:6:16:50|SB 6.16.50]]

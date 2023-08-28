@@ -1,5 +1,11 @@
-~~Title:nahile~~
-{{description>without being.}}
+---json
+{
+    "name":"nahile",
+    "h1":"nahile",
+    "title":"nahile",
+    "description":"without being."
+}
+---
 
 ==== nahile  ====
   * without being --- [[books:cc:antya:3:23|Antya 3.23]]

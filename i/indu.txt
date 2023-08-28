@@ -1,5 +1,11 @@
-~~Title:indu~~
-{{description>like the full moon; moon; moonlike; of the moon; the moon.}}
+---json
+{
+    "name":"indu",
+    "h1":"indu",
+    "title":"indu",
+    "description":"like the full moon; moon; moonlike; of the moon; the moon."
+}
+---
 
 ==== indu  ====
   * like the full moon --- [[books:cc:madhya:21:135|Madhya 21.135]]

@@ -1,5 +1,11 @@
-~~Title:nikāmam~~
-{{description>until fully satisfied.}}
+---json
+{
+    "name":"nikāmam",
+    "h1":"nikāmam",
+    "title":"nikāmam",
+    "description":"until fully satisfied."
+}
+---
 
 ==== nikāmam  ====
   * until fully satisfied --- [[books:sb:8:2:25|SB 8.2.25]]

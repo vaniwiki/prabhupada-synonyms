@@ -1,5 +1,11 @@
-~~Title:vipināya~~
-{{description>the trees.}}
+---json
+{
+    "name":"vipināya",
+    "h1":"vipināya",
+    "title":"vipināya",
+    "description":"the trees."
+}
+---
 
 ==== vipināya  ====
   * the trees --- [[books:cc:madhya:1:76|Madhya 1.76]], [[books:cc:antya:1:79|Antya 1.79]], [[books:cc:antya:1:114|Antya 1.114]]

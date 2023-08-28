@@ -1,5 +1,11 @@
-~~Title:vidyayā~~
-{{description>mantra; by a prayer; by culture of knowledge; by education; by His spiritual potency; by such a process; by the necessary knowledge; by the prayers; by the spiritual mantra; by the talents; by the Vedic knowledge; by transcendental knowledge; by worship; education; with the mantra.}}
+---json
+{
+    "name":"vidyayā",
+    "h1":"vidyayā",
+    "title":"vidyayā",
+    "description":"mantra; by a prayer; by culture of knowledge; by education; by His spiritual potency; by such a process; by the necessary knowledge; by the prayers; by the spiritual mantra; by the talents; by the Vedic knowledge; by transcendental knowledge; by worship; education; with the mantra."
+}
+---
 
 ==== vidyayā  ====
   * //mantra// --- [[books:sb:6:16:50|SB 6.16.50]]

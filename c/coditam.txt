@@ -1,5 +1,11 @@
-~~Title:coditam~~
-{{description>induced or inspired.}}
+---json
+{
+    "name":"coditam",
+    "h1":"coditam",
+    "title":"coditam",
+    "description":"induced or inspired."
+}
+---
 
 ==== coditam  ====
   * induced or inspired --- [[books:sb:8:1:16|SB 8.1.16]]

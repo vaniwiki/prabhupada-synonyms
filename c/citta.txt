@@ -1,5 +1,11 @@
-~~Title:citta~~
-{{description>consciousness; desire; heart; hearts; in the heart; mind; of consciousness; of hearts; of the heart; the consciousness; the heart; the hearts; the mind; thought; whose minds.}}
+---json
+{
+    "name":"citta",
+    "h1":"citta",
+    "title":"citta",
+    "description":"consciousness; desire; heart; hearts; in the heart; mind; of consciousness; of hearts; of the heart; the consciousness; the heart; the hearts; the mind; thought; whose minds."
+}
+---
 
 ==== citta  ====
   * consciousness --- [[books:cc:adi:7:99|Ādi 7.99]], [[books:cc:madhya:2:30|Madhya 2.30]], [[books:cc:madhya:21:18|Madhya 21.18]], [[books:cc:antya:3:252-253|Antya 3.252-253]]

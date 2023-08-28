@@ -1,5 +1,11 @@
-~~Title:caitanye~~
-{{description>unto Lord Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"caitanye",
+    "h1":"caitanye",
+    "title":"caitanye",
+    "description":"unto Lord Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== caitanye  ====
   * unto Lord Śrī Caitanya Mahāprabhu --- [[books:cc:madhya:1:29|Madhya 1.29]]

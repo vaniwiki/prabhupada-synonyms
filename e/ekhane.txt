@@ -1,5 +1,11 @@
-~~Title:ekhane~~
-{{description>at the present; here.}}
+---json
+{
+    "name":"ekhane",
+    "h1":"ekhane",
+    "title":"ekhane",
+    "description":"at the present; here."
+}
+---
 
 ==== ekhane  ====
   * at the present --- [[books:cc:adi:17:163|Ādi 17.163]]

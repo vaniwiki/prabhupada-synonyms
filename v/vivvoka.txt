@@ -1,5 +1,11 @@
-~~Title:vivvoka~~
-{{description>neglecting the presentation given by the hero.}}
+---json
+{
+    "name":"vivvoka",
+    "h1":"vivvoka",
+    "title":"vivvoka",
+    "description":"neglecting the presentation given by the hero."
+}
+---
 
 ==== vivvoka  ====
   * neglecting the presentation given by the hero --- [[books:cc:madhya:14:168|Madhya 14.168]]

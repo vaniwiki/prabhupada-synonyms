@@ -1,5 +1,11 @@
-~~Title:ruddha~~
-{{description>stopped; stopped, encircled; who has subjugated.}}
+---json
+{
+    "name":"ruddha",
+    "h1":"ruddha",
+    "title":"ruddha",
+    "description":"stopped; stopped, encircled; who has subjugated."
+}
+---
 
 ==== ruddha  ====
   * stopped --- [[books:sb:4:22:39|SB 4.22.39]]

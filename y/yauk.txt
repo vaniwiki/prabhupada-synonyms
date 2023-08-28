@@ -1,5 +1,11 @@
-~~Title:yāuk~~
-{{description>let him go.}}
+---json
+{
+    "name":"yāuk",
+    "h1":"yāuk",
+    "title":"yāuk",
+    "description":"let him go."
+}
+---
 
 ==== yāuk  ====
   * let him go --- [[books:cc:madhya:2:34|Madhya 2.34]]

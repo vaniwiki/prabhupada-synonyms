@@ -1,5 +1,11 @@
-~~Title:vikala~~
-{{description>agitated; disturbed; transformed.}}
+---json
+{
+    "name":"vikala",
+    "h1":"vikala",
+    "title":"vikala",
+    "description":"agitated; disturbed; transformed."
+}
+---
 
 ==== vikala  ====
   * agitated --- [[books:cc:madhya:3:141|Madhya 3.141]]

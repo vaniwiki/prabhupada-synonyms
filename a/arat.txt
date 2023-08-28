@@ -1,5 +1,11 @@
-~~Title:ārāt~~
-{{description>due to fear; far away; from a distance; from a great distance; in front; nearby; not far away; quickly; to a distant place; very soon.}}
+---json
+{
+    "name":"ārāt",
+    "h1":"ārāt",
+    "title":"ārāt",
+    "description":"due to fear; far away; from a distance; from a great distance; in front; nearby; not far away; quickly; to a distant place; very soon."
+}
+---
 
 ==== ārāt  ====
   * due to fear --- [[books:sb:1:14:11|SB 1.14.11]]

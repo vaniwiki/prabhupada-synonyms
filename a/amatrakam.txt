@@ -1,5 +1,11 @@
-~~Title:amatrakam~~
-{{description>the container of yogurt.}}
+---json
+{
+    "name":"amatrakam",
+    "h1":"amatrakam",
+    "title":"amatrakam",
+    "description":"the container of yogurt."
+}
+---
 
 ==== dadhi-amatrakam  ====
   * the container of yogurt --- [[books:sb:10:9:7|SB 10.9.7]]

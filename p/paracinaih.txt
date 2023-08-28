@@ -1,5 +1,11 @@
-~~Title:parācīnaiḥ~~
-{{description>averse.}}
+---json
+{
+    "name":"parācīnaiḥ",
+    "h1":"parācīnaiḥ",
+    "title":"parācīnaiḥ",
+    "description":"averse."
+}
+---
 
 ==== parācīnaiḥ  ====
   * averse --- [[books:sb:3:32:28|SB 3.32.28]]

@@ -1,5 +1,11 @@
-~~Title:niśāmayantyāḥ~~
-{{description>who was listening.}}
+---json
+{
+    "name":"niśāmayantyāḥ",
+    "h1":"niśāmayantyāḥ",
+    "title":"niśāmayantyāḥ",
+    "description":"who was listening."
+}
+---
 
 ==== niśāmayantyāḥ  ====
   * who was listening --- [[books:sb:5:3:19|SB 5.3.19]]

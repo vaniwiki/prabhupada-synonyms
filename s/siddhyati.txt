@@ -1,5 +1,11 @@
-~~Title:siddhyati~~
-{{description>becomes successful.}}
+---json
+{
+    "name":"siddhyati",
+    "h1":"siddhyati",
+    "title":"siddhyati",
+    "description":"becomes successful."
+}
+---
 
 ==== siddhyati  ====
   * becomes successful --- [[books:sb:5:18:10|SB 5.18.10]]

@@ -1,5 +1,11 @@
-~~Title:namati~~
-{{description>bows.}}
+---json
+{
+    "name":"namati",
+    "h1":"namati",
+    "title":"namati",
+    "description":"bows."
+}
+---
 
 ==== namati  ====
   * bows --- [[books:sb:6:3:29|SB 6.3.29]]

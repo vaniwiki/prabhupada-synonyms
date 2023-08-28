@@ -1,5 +1,11 @@
-~~Title:śṛṇvantaḥ~~
-{{description>hearing.}}
+---json
+{
+    "name":"śṛṇvantaḥ",
+    "h1":"śṛṇvantaḥ",
+    "title":"śṛṇvantaḥ",
+    "description":"hearing."
+}
+---
 
 ==== śṛṇvantaḥ  ====
   * hearing --- [[books:sb:3:16:14|SB 3.16.14]]

@@ -1,5 +1,11 @@
-~~Title:svabāndhavān~~
-{{description>along with friends.}}
+---json
+{
+    "name":"svabāndhavān",
+    "h1":"svabāndhavān",
+    "title":"svabāndhavān",
+    "description":"along with friends."
+}
+---
 
 ==== svabāndhavān  ====
   * along with friends --- [[books:bg:1:36|Bg. 1.36]]

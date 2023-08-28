@@ -1,5 +1,11 @@
-~~Title:sastrena~~
-{{description>by the weapon of.}}
+---json
+{
+    "name":"sastrena",
+    "h1":"sastrena",
+    "title":"sastrena",
+    "description":"by the weapon of."
+}
+---
 
 ==== śastreṇa  ====
   * by the weapon of --- [[books:sb:2:1:15|SB 2.1.15]]

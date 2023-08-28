@@ -1,5 +1,11 @@
-~~Title:ānamyamāna~~
-{{description>being bent down.}}
+---json
+{
+    "name":"ānamyamāna",
+    "h1":"ānamyamāna",
+    "title":"ānamyamāna",
+    "description":"being bent down."
+}
+---
 
 ==== ānamyamāna  ====
   * being bent down --- [[books:sb:5:17:13|SB 5.17.13]]

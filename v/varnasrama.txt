@@ -1,5 +1,11 @@
-~~Title:varṇāśrama~~
-{{description>according to the system of varṇa and āśrama.}}
+---json
+{
+    "name":"varṇāśrama",
+    "h1":"varṇāśrama",
+    "title":"varṇāśrama",
+    "description":"according to the system of varṇa and āśrama."
+}
+---
 
 ==== varṇāśrama  ====
   * according to the system of //varṇa// and //āśrama// --- [[books:sb:9:10:50|SB 9.10.50]]

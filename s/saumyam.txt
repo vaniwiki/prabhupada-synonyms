@@ -1,5 +1,11 @@
-~~Title:saumyam~~
-{{description>very beautiful.}}
+---json
+{
+    "name":"saumyam",
+    "h1":"saumyam",
+    "title":"saumyam",
+    "description":"very beautiful."
+}
+---
 
 ==== saumyam  ====
   * very beautiful --- [[books:bg:11:51|Bg. 11.51]]

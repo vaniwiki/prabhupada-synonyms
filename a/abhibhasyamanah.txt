@@ -1,5 +1,11 @@
-~~Title:abhibhāṣyamāṇaḥ~~
-{{description>being addressed; being thus addressed (as deaf, dumb and blind).}}
+---json
+{
+    "name":"abhibhāṣyamāṇaḥ",
+    "h1":"abhibhāṣyamāṇaḥ",
+    "title":"abhibhāṣyamāṇaḥ",
+    "description":"being addressed; being thus addressed (as deaf, dumb and blind)."
+}
+---
 
 ==== abhibhāṣyamāṇaḥ  ====
   * being addressed --- [[books:sb:5:9:9-10|SB 5.9.9-10]]

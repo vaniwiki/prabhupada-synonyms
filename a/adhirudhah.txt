@@ -1,5 +1,11 @@
-~~Title:adhirūḍhaḥ~~
-{{description>being seated on the wings of.}}
+---json
+{
+    "name":"adhirūḍhaḥ",
+    "h1":"adhirūḍhaḥ",
+    "title":"adhirūḍhaḥ",
+    "description":"being seated on the wings of."
+}
+---
 
 ==== bhuja-adhirūḍhaḥ  ====
   * being seated on the wings of --- [[books:sb:2:7:16|SB 2.7.16]]

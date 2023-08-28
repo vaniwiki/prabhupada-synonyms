@@ -1,5 +1,11 @@
-~~Title:mṛtiḥ~~
-{{description>another death; death.}}
+---json
+{
+    "name":"mṛtiḥ",
+    "h1":"mṛtiḥ",
+    "title":"mṛtiḥ",
+    "description":"another death; death."
+}
+---
 
 ==== mṛtiḥ  ====
   * another death --- [[books:sb:6:16:57|SB 6.16.57]]

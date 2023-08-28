@@ -1,5 +1,11 @@
-~~Title:lavam~~
-{{description>a fragment.}}
+---json
+{
+    "name":"lavam",
+    "h1":"lavam",
+    "title":"lavam",
+    "description":"a fragment."
+}
+---
 
 ==== lavam  ====
   * a fragment --- [[books:sb:4:29:54|SB 4.29.54]]

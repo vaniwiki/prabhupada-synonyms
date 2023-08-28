@@ -1,5 +1,11 @@
-~~Title:devarṣeḥ~~
-{{description>of Nārada Muni; of the great sage among the gods; of the great sage Nārada.}}
+---json
+{
+    "name":"devarṣeḥ",
+    "h1":"devarṣeḥ",
+    "title":"devarṣeḥ",
+    "description":"of Nārada Muni; of the great sage among the gods; of the great sage Nārada."
+}
+---
 
 ==== devarṣeḥ  ====
   * of Nārada Muni --- [[books:sb:6:5:10|SB 6.5.10]]

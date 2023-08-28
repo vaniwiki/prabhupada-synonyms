@@ -1,5 +1,11 @@
-~~Title:ruruduḥ~~
-{{description>all the wives cried piteously; cried; cried loudly; they were crying.}}
+---json
+{
+    "name":"ruruduḥ",
+    "h1":"ruruduḥ",
+    "title":"ruruduḥ",
+    "description":"all the wives cried piteously; cried; cried loudly; they were crying."
+}
+---
 
 ==== ruruduḥ  ====
   * all the wives cried piteously --- [[books:sb:9:10:25|SB 9.10.25]]

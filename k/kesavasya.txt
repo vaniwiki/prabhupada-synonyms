@@ -1,5 +1,11 @@
-~~Title:keśavasya~~
-{{description>of Kṛṣṇa.}}
+---json
+{
+    "name":"keśavasya",
+    "h1":"keśavasya",
+    "title":"keśavasya",
+    "description":"of Kṛṣṇa."
+}
+---
 
 ==== keśavasya  ====
   * of Kṛṣṇa --- [[books:bg:11:35|Bg. 11.35]]

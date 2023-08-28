@@ -1,5 +1,11 @@
-~~Title:sāhvaye~~
-{{description>Hastināpura.}}
+---json
+{
+    "name":"sāhvaye",
+    "h1":"sāhvaye",
+    "title":"sāhvaye",
+    "description":"Hastināpura."
+}
+---
 
 ==== gaja-sāhvaye  ====
   * Hastināpura --- [[books:sb:1:4:6|SB 1.4.6]]

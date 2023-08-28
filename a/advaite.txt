@@ -1,5 +1,11 @@
-~~Title:advaite~~
-{{description>Advaita ācārya; Advaita Ācārya.}}
+---json
+{
+    "name":"advaite",
+    "h1":"advaite",
+    "title":"advaite",
+    "description":"Advaita ācārya; Advaita Ācārya."
+}
+---
 
 ==== advaite  ====
   * Advaita //ācārya// --- [[books:cc:madhya:14:71|Madhya 14.71]]

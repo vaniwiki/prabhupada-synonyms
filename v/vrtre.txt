@@ -1,5 +1,11 @@
-~~Title:vṛtre~~
-{{description>when Vṛtrāsura was killed.}}
+---json
+{
+    "name":"vṛtre",
+    "h1":"vṛtre",
+    "title":"vṛtre",
+    "description":"when Vṛtrāsura was killed."
+}
+---
 
 ==== vṛtre hate  ====
   * when Vṛtrāsura was killed --- [[books:sb:6:13:1|SB 6.13.1]]

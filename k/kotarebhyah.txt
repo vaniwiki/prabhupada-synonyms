@@ -1,5 +1,11 @@
-~~Title:koṭarebhyaḥ~~
-{{description>from the hollows.}}
+---json
+{
+    "name":"koṭarebhyaḥ",
+    "h1":"koṭarebhyaḥ",
+    "title":"koṭarebhyaḥ",
+    "description":"from the hollows."
+}
+---
 
 ==== koṭarebhyaḥ  ====
   * from the hollows --- [[books:sb:5:16:22|SB 5.16.22]]

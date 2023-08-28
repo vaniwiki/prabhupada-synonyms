@@ -1,5 +1,11 @@
-~~Title:śroṇyaḥ~~
-{{description>bearing full hips, fulfilling womanly beauty.}}
+---json
+{
+    "name":"śroṇyaḥ",
+    "h1":"śroṇyaḥ",
+    "title":"śroṇyaḥ",
+    "description":"bearing full hips, fulfilling womanly beauty."
+}
+---
 
 ==== pṛthu-śroṇyaḥ  ====
   * bearing full hips, fulfilling womanly beauty --- [[books:sb:10:5:10|SB 10.5.10]]

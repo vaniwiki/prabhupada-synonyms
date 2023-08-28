@@ -1,5 +1,11 @@
-~~Title:nikṣiptam~~
-{{description>directed.}}
+---json
+{
+    "name":"nikṣiptam",
+    "h1":"nikṣiptam",
+    "title":"nikṣiptam",
+    "description":"directed."
+}
+---
 
 ==== nikṣiptam  ====
   * directed --- [[books:cc:antya:3:60|Antya 3.60]]

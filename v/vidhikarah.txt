@@ -1,5 +1,11 @@
-~~Title:vidhikaraḥ~~
-{{description>order carrier (servant).}}
+---json
+{
+    "name":"vidhikaraḥ",
+    "h1":"vidhikaraḥ",
+    "title":"vidhikaraḥ",
+    "description":"order carrier (servant)."
+}
+---
 
 ==== vidhikaraḥ  ====
   * order carrier (servant) --- [[books:sb:7:8:56|SB 7.8.56]]

@@ -1,5 +1,11 @@
-~~Title:yudha~~
-{{description>from the arrows.}}
+---json
+{
+    "name":"yudha",
+    "h1":"yudha",
+    "title":"yudha",
+    "description":"from the arrows."
+}
+---
 
 ==== yudha  ====
   * from the arrows --- [[books:sb:1:9:31|SB 1.9.31]]

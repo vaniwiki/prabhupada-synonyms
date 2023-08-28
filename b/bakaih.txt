@@ -1,5 +1,11 @@
-~~Title:bakaiḥ~~
-{{description>on the backs of ducks; with the ducks sitting in one place.}}
+---json
+{
+    "name":"bakaiḥ",
+    "h1":"bakaiḥ",
+    "title":"bakaiḥ",
+    "description":"on the backs of ducks; with the ducks sitting in one place."
+}
+---
 
 ==== bakaiḥ  ====
   * on the backs of ducks --- [[books:sb:8:10:10-12|SB 8.10.10-12]]

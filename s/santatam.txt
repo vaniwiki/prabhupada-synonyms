@@ -1,5 +1,11 @@
-~~Title:santatam~~
-{{description>spread.}}
+---json
+{
+    "name":"santatam",
+    "h1":"santatam",
+    "title":"santatam",
+    "description":"spread."
+}
+---
 
 ==== santatam  ====
   * spread --- [[books:sb:6:16:52|SB 6.16.52]]

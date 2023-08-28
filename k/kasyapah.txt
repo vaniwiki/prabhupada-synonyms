@@ -1,5 +1,11 @@
-~~Title:kaśyapaḥ~~
-{{description>Kaśyapa (took birth); Kaśyapa; Kaśyapa Muni; the great sage Kaśyapa Muni.}}
+---json
+{
+    "name":"kaśyapaḥ",
+    "h1":"kaśyapaḥ",
+    "title":"kaśyapaḥ",
+    "description":"Kaśyapa (took birth); Kaśyapa; Kaśyapa Muni; the great sage Kaśyapa Muni."
+}
+---
 
 ==== kaśyapaḥ  ====
   * Kaśyapa (took birth) --- [[books:sb:9:1:10|SB 9.1.10]]

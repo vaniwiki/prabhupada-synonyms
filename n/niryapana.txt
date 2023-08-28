@@ -1,5 +1,11 @@
-~~Title:niryāpaṇa~~
-{{description>passed.}}
+---json
+{
+    "name":"niryāpaṇa",
+    "h1":"niryāpaṇa",
+    "title":"niryāpaṇa",
+    "description":"passed."
+}
+---
 
 ==== kailā niryāpaṇa  ====
   * passed --- [[books:cc:antya:14:57|Antya 14.57]]

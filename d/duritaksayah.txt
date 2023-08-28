@@ -1,5 +1,11 @@
-~~Title:duritakṣayaḥ~~
-{{description>a son named Duritakṣaya.}}
+---json
+{
+    "name":"duritakṣayaḥ",
+    "h1":"duritakṣayaḥ",
+    "title":"duritakṣayaḥ",
+    "description":"a son named Duritakṣaya."
+}
+---
 
 ==== duritakṣayaḥ  ====
   * a son named Duritakṣaya --- [[books:sb:9:21:19-20|SB 9.21.19-20]]

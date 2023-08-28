@@ -1,5 +1,11 @@
-~~Title:vindate~~
-{{description>achieves; attains; can enjoy very peacefully; can he achieve; can know; enjoys; one enjoys; suffers or enjoys.}}
+---json
+{
+    "name":"vindate",
+    "h1":"vindate",
+    "title":"vindate",
+    "description":"achieves; attains; can enjoy very peacefully; can he achieve; can know; enjoys; one enjoys; suffers or enjoys."
+}
+---
 
 ==== vindate  ====
   * achieves --- [[books:sb:4:24:77|SB 4.24.77]], [[books:sb:4:25:6|SB 4.25.6]], [[books:sb:7:7:41|SB 7.7.41]]

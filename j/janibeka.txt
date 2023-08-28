@@ -1,5 +1,11 @@
-~~Title:jānibeka~~
-{{description>can know.}}
+---json
+{
+    "name":"jānibeka",
+    "h1":"jānibeka",
+    "title":"jānibeka",
+    "description":"can know."
+}
+---
 
 ==== jānibeka  ====
   * can know --- [[books:cc:madhya:15:120|Madhya 15.120]]

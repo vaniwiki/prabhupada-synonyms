@@ -1,5 +1,11 @@
-~~Title:satyabhāmāra~~
-{{description>of Queen Satyabhāmā; of Satyabhāmā.}}
+---json
+{
+    "name":"satyabhāmāra",
+    "h1":"satyabhāmāra",
+    "title":"satyabhāmāra",
+    "description":"of Queen Satyabhāmā; of Satyabhāmā."
+}
+---
 
 ==== satyabhāmāra  ====
   * of Queen Satyabhāmā --- [[books:cc:madhya:14:138|Madhya 14.138]]

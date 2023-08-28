@@ -1,5 +1,11 @@
-~~Title:pūjāḥ~~
-{{description>worshiping Your Lordship by offering prayers and other devotional activities.}}
+---json
+{
+    "name":"pūjāḥ",
+    "h1":"pūjāḥ",
+    "title":"pūjāḥ",
+    "description":"worshiping Your Lordship by offering prayers and other devotional activities."
+}
+---
 
 ==== stuti-karma-pūjāḥ  ====
   * worshiping Your Lordship by offering prayers and other devotional activities --- [[books:sb:7:9:50|SB 7.9.50]]

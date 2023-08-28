@@ -1,5 +1,11 @@
-~~Title:paryadhāt~~
-{{description>covered with cloth; dressed himself accordingly.}}
+---json
+{
+    "name":"paryadhāt",
+    "h1":"paryadhāt",
+    "title":"paryadhāt",
+    "description":"covered with cloth; dressed himself accordingly."
+}
+---
 
 ==== paryadhāt  ====
   * covered with cloth --- [[books:sb:9:1:30|SB 9.1.30]]

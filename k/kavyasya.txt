@@ -1,5 +1,11 @@
-~~Title:kāvyasya~~
-{{description>the daughter of Śukrācārya.}}
+---json
+{
+    "name":"kāvyasya",
+    "h1":"kāvyasya",
+    "title":"kāvyasya",
+    "description":"the daughter of Śukrācārya."
+}
+---
 
 ==== kāvyasya  ====
   * the daughter of Śukrācārya --- [[books:sb:9:18:4|SB 9.18.4]]

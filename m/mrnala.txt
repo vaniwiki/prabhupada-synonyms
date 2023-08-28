@@ -1,5 +1,11 @@
-~~Title:mṛṇāla~~
-{{description>a fruit from lotus flowers; celestial lotus; lotus flower.}}
+---json
+{
+    "name":"mṛṇāla",
+    "h1":"mṛṇāla",
+    "title":"mṛṇāla",
+    "description":"a fruit from lotus flowers; celestial lotus; lotus flower."
+}
+---
 
 ==== mṛṇāla  ====
   * a fruit from lotus flowers --- [[books:cc:antya:18:105|Antya 18.105]]

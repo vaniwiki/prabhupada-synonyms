@@ -1,5 +1,11 @@
-~~Title:phālgunāt~~
-{{description>from Arjuna.}}
+---json
+{
+    "name":"phālgunāt",
+    "h1":"phālgunāt",
+    "title":"phālgunāt",
+    "description":"from Arjuna."
+}
+---
 
 ==== phālgunāt  ====
   * from Arjuna --- [[books:sb:3:1:31|SB 3.1.31]]

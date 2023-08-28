@@ -1,5 +1,11 @@
-~~Title:tumulam~~
-{{description>very fierce.}}
+---json
+{
+    "name":"tumulam",
+    "h1":"tumulam",
+    "title":"tumulam",
+    "description":"very fierce."
+}
+---
 
 ==== tumulam  ====
   * very fierce --- [[books:sb:9:6:17|SB 9.6.17]]

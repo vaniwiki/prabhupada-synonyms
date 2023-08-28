@@ -1,5 +1,11 @@
-~~Title:kallolera~~
-{{description>one drop of one wave.}}
+---json
+{
+    "name":"kallolera",
+    "h1":"kallolera",
+    "title":"kallolera",
+    "description":"one drop of one wave."
+}
+---
 
 ==== kallolera eka bindu  ====
   * one drop of one wave --- [[books:cc:madhya:2:95|Madhya 2.95]]

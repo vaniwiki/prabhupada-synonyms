@@ -1,5 +1,11 @@
-~~Title:kusumaiḥ~~
-{{description>by flowers; flowers all around; with flowers.}}
+---json
+{
+    "name":"kusumaiḥ",
+    "h1":"kusumaiḥ",
+    "title":"kusumaiḥ",
+    "description":"by flowers; flowers all around; with flowers."
+}
+---
 
 ==== kusumaiḥ  ====
   * by flowers --- [[books:sb:1:10:16|SB 1.10.16]], [[books:sb:4:12:34|SB 4.12.34]], [[books:sb:8:18:9-10|SB 8.18.9-10]], [[books:sb:9:11:30|SB 9.11.30]]

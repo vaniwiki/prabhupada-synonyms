@@ -1,5 +1,11 @@
-~~Title:māyāyāḥ~~
-{{description>energies; of māyā.}}
+---json
+{
+    "name":"māyāyāḥ",
+    "h1":"māyāyāḥ",
+    "title":"māyāyāḥ",
+    "description":"energies; of māyā."
+}
+---
 
 ==== māyāyāḥ  ====
   * energies --- [[books:sb:1:17:23|SB 1.17.23]]

@@ -1,5 +1,11 @@
-~~Title:daṇḍapāṭe~~
-{{description>in the place known as Mālajāṭhyā Daṇḍapāta.}}
+---json
+{
+    "name":"daṇḍapāṭe",
+    "h1":"daṇḍapāṭe",
+    "title":"daṇḍapāṭe",
+    "description":"in the place known as Mālajāṭhyā Daṇḍapāta."
+}
+---
 
 ==== mālajāṭhyā-daṇḍapāṭe  ====
   * in the place known as Mālajāṭhyā Daṇḍapāta --- [[books:cc:antya:9:18|Antya 9.18]]

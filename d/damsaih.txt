@@ -1,5 +1,11 @@
-~~Title:daṁśaiḥ~~
-{{description>by bites.}}
+---json
+{
+    "name":"daṁśaiḥ",
+    "h1":"daṁśaiḥ",
+    "title":"daṁśaiḥ",
+    "description":"by bites."
+}
+---
 
 ==== daṁśaiḥ  ====
   * by bites --- [[books:sb:5:13:3|SB 5.13.3]]

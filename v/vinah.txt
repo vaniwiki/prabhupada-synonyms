@@ -1,5 +1,11 @@
-~~Title:vinah~~
-{{description>stringed instruments.}}
+---json
+{
+    "name":"vinah",
+    "h1":"vinah",
+    "title":"vinah",
+    "description":"stringed instruments."
+}
+---
 
 ==== vīṇāḥ  ====
   * stringed instruments --- [[books:sb:8:8:13|SB 8.8.13]]

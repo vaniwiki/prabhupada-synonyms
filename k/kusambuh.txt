@@ -1,5 +1,11 @@
-~~Title:kuśāmbuḥ~~
-{{description>Kuśāmbu.}}
+---json
+{
+    "name":"kuśāmbuḥ",
+    "h1":"kuśāmbuḥ",
+    "title":"kuśāmbuḥ",
+    "description":"Kuśāmbu."
+}
+---
 
 ==== kuśāmbuḥ  ====
   * Kuśāmbu --- [[books:sb:9:15:4|SB 9.15.4]]

@@ -1,5 +1,11 @@
-~~Title:yātrika~~
-{{description>pilgrim visitors; visiting.}}
+---json
+{
+    "name":"yātrika",
+    "h1":"yātrika",
+    "title":"yātrika",
+    "description":"pilgrim visitors; visiting."
+}
+---
 
 ==== yātrika  ====
   * pilgrim visitors --- [[books:cc:madhya:13:175|Madhya 13.175]]

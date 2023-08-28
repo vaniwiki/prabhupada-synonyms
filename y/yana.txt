@@ -1,5 +1,11 @@
-~~Title:yana~~
-{{description>goes; he goes; the carriers.}}
+---json
+{
+    "name":"yana",
+    "h1":"yana",
+    "title":"yana",
+    "description":"goes; he goes; the carriers."
+}
+---
 
 ==== yāna  ====
   * goes --- [[books:cc:madhya:8:39|Madhya 8.39]], [[books:cc:madhya:16:19|Madhya 16.19]], [[books:cc:antya:1:66|Antya 1.66]], [[books:cc:antya:2:142|Antya 2.142]], [[books:cc:antya:12:15|Antya 12.15]]

@@ -1,5 +1,11 @@
-~~Title:anīhāyāḥ~~
-{{description>and from not desiring economic development.}}
+---json
+{
+    "name":"anīhāyāḥ",
+    "h1":"anīhāyāḥ",
+    "title":"anīhāyāḥ",
+    "description":"and from not desiring economic development."
+}
+---
 
 ==== anīhāyāḥ  ====
   * and from not desiring economic development --- [[books:sb:7:7:42|SB 7.7.42]]

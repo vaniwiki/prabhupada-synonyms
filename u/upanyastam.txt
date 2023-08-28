@@ -1,5 +1,11 @@
-~~Title:upanyastam~~
-{{description>being handed over; what is placed.}}
+---json
+{
+    "name":"upanyastam",
+    "h1":"upanyastam",
+    "title":"upanyastam",
+    "description":"being handed over; what is placed."
+}
+---
 
 ==== upanyastam  ====
   * being handed over --- [[books:sb:1:17:43-44|SB 1.17.43-44]]

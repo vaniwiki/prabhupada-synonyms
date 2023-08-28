@@ -1,5 +1,11 @@
-~~Title:santapyamānaḥ~~
-{{description>being scorched.}}
+---json
+{
+    "name":"santapyamānaḥ",
+    "h1":"santapyamānaḥ",
+    "title":"santapyamānaḥ",
+    "description":"being scorched."
+}
+---
 
 ==== santapyamānaḥ  ====
   * being scorched --- [[books:sb:3:30:22|SB 3.30.22]]

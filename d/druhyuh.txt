@@ -1,5 +1,11 @@
-~~Title:druhyuḥ~~
-{{description>Druhyu, another son.}}
+---json
+{
+    "name":"druhyuḥ",
+    "h1":"druhyuḥ",
+    "title":"druhyuḥ",
+    "description":"Druhyu, another son."
+}
+---
 
 ==== druhyuḥ  ====
   * Druhyu, another son --- [[books:sb:9:18:41|SB 9.18.41]]

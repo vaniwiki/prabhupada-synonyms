@@ -1,5 +1,11 @@
-~~Title:vasudevam~~
-{{description>unto Vasudeva; Vasudeva.}}
+---json
+{
+    "name":"vasudevam",
+    "h1":"vasudevam",
+    "title":"vasudevam",
+    "description":"unto Vasudeva; Vasudeva."
+}
+---
 
 ==== vasudevam  ====
   * unto Vasudeva --- [[books:sb:9:24:28-31|SB 9.24.28-31]]

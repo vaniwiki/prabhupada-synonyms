@@ -1,5 +1,11 @@
-~~Title:upākrāmanti~~
-{{description>are approaching.}}
+---json
+{
+    "name":"upākrāmanti",
+    "h1":"upākrāmanti",
+    "title":"upākrāmanti",
+    "description":"are approaching."
+}
+---
 
 ==== upākrāmanti  ====
   * are approaching --- [[books:sb:3:20:26|SB 3.20.26]]

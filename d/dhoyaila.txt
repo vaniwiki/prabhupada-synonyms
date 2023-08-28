@@ -1,5 +1,11 @@
-~~Title:dhoyāila~~
-{{description>washed.}}
+---json
+{
+    "name":"dhoyāila",
+    "h1":"dhoyāila",
+    "title":"dhoyāila",
+    "description":"washed."
+}
+---
 
 ==== dhoyāila  ====
   * washed --- [[books:cc:madhya:12:121|Madhya 12.121]], [[books:cc:madhya:12:126|Madhya 12.126]]

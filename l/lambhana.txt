@@ -1,5 +1,11 @@
-~~Title:lambhana~~
-{{description>there will be discrepancies in devotional service.}}
+---json
+{
+    "name":"lambhana",
+    "h1":"lambhana",
+    "title":"lambhana",
+    "description":"there will be discrepancies in devotional service."
+}
+---
 
 ==== bhaktira lambhana  ====
   * there will be discrepancies in devotional service --- [[books:cc:madhya:24:342|Madhya 24.342]]

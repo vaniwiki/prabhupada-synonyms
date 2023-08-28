@@ -1,5 +1,11 @@
-~~Title:prāṇinām~~
-{{description>for every living entity; of all living entities; of the living being; of the living beings; when the living entities.}}
+---json
+{
+    "name":"prāṇinām",
+    "h1":"prāṇinām",
+    "title":"prāṇinām",
+    "description":"for every living entity; of all living entities; of the living being; of the living beings; when the living entities."
+}
+---
 
 ==== prāṇinām  ====
   * for every living entity --- [[books:sb:10:1:38|SB 10.1.38]]

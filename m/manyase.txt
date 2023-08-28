@@ -1,5 +1,11 @@
-~~Title:manyase~~
-{{description>if You think; so think; think; understand; you consider; you think; you think it fit; you think it right.}}
+---json
+{
+    "name":"manyase",
+    "h1":"manyase",
+    "title":"manyase",
+    "description":"if You think; so think; think; understand; you consider; you think; you think it fit; you think it right."
+}
+---
 
 ==== manyase  ====
   * if You think --- [[books:bg:11:4|Bg. 11.4]]

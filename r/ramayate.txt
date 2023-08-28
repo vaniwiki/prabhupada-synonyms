@@ -1,5 +1,11 @@
-~~Title:ramayate~~
-{{description>He pleases.}}
+---json
+{
+    "name":"ramayate",
+    "h1":"ramayate",
+    "title":"ramayate",
+    "description":"He pleases."
+}
+---
 
 ==== ramayate  ====
   * He pleases --- [[books:sb:5:18:16|SB 5.18.16]]

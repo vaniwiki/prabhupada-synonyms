@@ -1,5 +1,11 @@
-~~Title:agamam~~
-{{description>unapproachable.}}
+---json
+{
+    "name":"agamam",
+    "h1":"agamam",
+    "title":"agamam",
+    "description":"unapproachable."
+}
+---
 
 ==== agamam  ====
   * unapproachable --- [[books:sb:3:8:31|SB 3.8.31]]

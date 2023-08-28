@@ -1,5 +1,11 @@
-~~Title:jyestha~~
-{{description>as superior; elder; senior.}}
+---json
+{
+    "name":"jyestha",
+    "h1":"jyestha",
+    "title":"jyestha",
+    "description":"as superior; elder; senior."
+}
+---
 
 ==== jyeṣṭha  ====
   * as superior --- [[books:cc:adi:6:98|Ādi 6.98]]

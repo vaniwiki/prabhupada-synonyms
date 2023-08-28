@@ -1,5 +1,11 @@
-~~Title:dīrgha~~
-{{description>elongated; for a long time; high; long; prolonged.}}
+---json
+{
+    "name":"dīrgha",
+    "h1":"dīrgha",
+    "title":"dīrgha",
+    "description":"elongated; for a long time; high; long; prolonged."
+}
+---
 
 ==== dīrgha  ====
   * elongated --- [[books:cc:antya:18:71|Antya 18.71]]

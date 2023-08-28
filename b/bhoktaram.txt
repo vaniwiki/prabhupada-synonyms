@@ -1,5 +1,11 @@
-~~Title:bhoktāram~~
-{{description>beneficiary.}}
+---json
+{
+    "name":"bhoktāram",
+    "h1":"bhoktāram",
+    "title":"bhoktāram",
+    "description":"beneficiary."
+}
+---
 
 ==== bhoktāram  ====
   * beneficiary --- [[books:bg:5:29|Bg. 5.29]]

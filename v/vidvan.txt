@@ -1,5 +1,11 @@
-~~Title:vidvan~~
-{{description>O learned; O learned one; O learned speaker (Śukadeva Gosvāmī); O wise man.}}
+---json
+{
+    "name":"vidvan",
+    "h1":"vidvan",
+    "title":"vidvan",
+    "description":"O learned; O learned one; O learned speaker (Śukadeva Gosvāmī); O wise man."
+}
+---
 
 ==== vidvan  ====
   * O learned --- [[books:sb:2:3:14|SB 2.3.14]]

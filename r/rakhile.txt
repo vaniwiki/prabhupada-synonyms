@@ -1,5 +1,11 @@
-~~Title:rākhile~~
-{{description>kept.}}
+---json
+{
+    "name":"rākhile",
+    "h1":"rākhile",
+    "title":"rākhile",
+    "description":"kept."
+}
+---
 
 ==== rākhile  ====
   * kept --- [[books:cc:madhya:10:14|Madhya 10.14]]

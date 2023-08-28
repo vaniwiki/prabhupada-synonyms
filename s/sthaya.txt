@@ -1,5 +1,11 @@
-~~Title:sthāya~~
-{{description>without being changed.}}
+---json
+{
+    "name":"sthāya",
+    "h1":"sthāya",
+    "title":"sthāya",
+    "description":"without being changed."
+}
+---
 
 ==== kūṭa-sthāya  ====
   * without being changed --- [[books:sb:4:24:34|SB 4.24.34]]

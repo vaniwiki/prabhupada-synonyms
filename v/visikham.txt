@@ -1,5 +1,11 @@
-~~Title:viśikham~~
-{{description>an arrow; his arrow.}}
+---json
+{
+    "name":"viśikham",
+    "h1":"viśikham",
+    "title":"viśikham",
+    "description":"an arrow; his arrow."
+}
+---
 
 ==== viśikham  ====
   * an arrow --- [[books:sb:4:17:13|SB 4.17.13]]

@@ -1,5 +1,11 @@
-~~Title:apūrva~~
-{{description>something astonishing; this wonder; unprecedented; wonderful.}}
+---json
+{
+    "name":"apūrva",
+    "h1":"apūrva",
+    "title":"apūrva",
+    "description":"something astonishing; this wonder; unprecedented; wonderful."
+}
+---
 
 ==== apūrva  ====
   * something astonishing --- [[books:cc:adi:15:17|Ādi 15.17]]

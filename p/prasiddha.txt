@@ -1,5 +1,11 @@
-~~Title:prasiddha~~
-{{description>celebrated; famous; very famous; well-known.}}
+---json
+{
+    "name":"prasiddha",
+    "h1":"prasiddha",
+    "title":"prasiddha",
+    "description":"celebrated; famous; very famous; well-known."
+}
+---
 
 ==== prasiddha  ====
   * celebrated --- [[books:cc:madhya:4:118|Madhya 4.118]], [[books:cc:madhya:23:64|Madhya 23.64]]

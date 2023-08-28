@@ -1,5 +1,11 @@
-~~Title:susamṛddhayā~~
-{{description>much enriched by such exalted opulence.}}
+---json
+{
+    "name":"susamṛddhayā",
+    "h1":"susamṛddhayā",
+    "title":"susamṛddhayā",
+    "description":"much enriched by such exalted opulence."
+}
+---
 
 ==== susamṛddhayā  ====
   * much enriched by such exalted opulence --- [[books:sb:5:24:18|SB 5.24.18]]

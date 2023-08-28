@@ -1,5 +1,11 @@
-~~Title:nimagnaḥ~~
-{{description>absorbed in; dove; merged.}}
+---json
+{
+    "name":"nimagnaḥ",
+    "h1":"nimagnaḥ",
+    "title":"nimagnaḥ",
+    "description":"absorbed in; dove; merged."
+}
+---
 
 ==== nimagnaḥ  ====
   * absorbed in --- [[books:sb:3:2:4|SB 3.2.4]]

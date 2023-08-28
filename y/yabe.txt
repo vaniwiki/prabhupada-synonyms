@@ -1,5 +1,11 @@
-~~Title:yabe~~
-{{description>if; when; whenever; while.}}
+---json
+{
+    "name":"yabe",
+    "h1":"yabe",
+    "title":"yabe",
+    "description":"if; when; whenever; while."
+}
+---
 
 ==== yabe  ====
   * if --- [[books:cc:madhya:17:14|Madhya 17.14]]

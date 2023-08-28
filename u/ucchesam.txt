@@ -1,5 +1,11 @@
-~~Title:uccheṣam~~
-{{description>what remained of the food.}}
+---json
+{
+    "name":"uccheṣam",
+    "h1":"uccheṣam",
+    "title":"uccheṣam",
+    "description":"what remained of the food."
+}
+---
 
 ==== uccheṣam  ====
   * what remained of the food --- [[books:sb:9:21:10|SB 9.21.10]]

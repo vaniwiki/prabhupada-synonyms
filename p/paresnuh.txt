@@ -1,5 +1,11 @@
-~~Title:pareṣṇuḥ~~
-{{description>Pareṣṇu.}}
+---json
+{
+    "name":"pareṣṇuḥ",
+    "h1":"pareṣṇuḥ",
+    "title":"pareṣṇuḥ",
+    "description":"Pareṣṇu."
+}
+---
 
 ==== pareṣṇuḥ  ====
   * Pareṣṇu --- [[books:sb:9:23:1|SB 9.23.1]]

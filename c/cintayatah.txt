@@ -1,5 +1,11 @@
-~~Title:cintayataḥ~~
-{{description>while thinking of the instructions; while thinking to himself; while thinking very seriously.}}
+---json
+{
+    "name":"cintayataḥ",
+    "h1":"cintayataḥ",
+    "title":"cintayataḥ",
+    "description":"while thinking of the instructions; while thinking to himself; while thinking very seriously."
+}
+---
 
 ==== cintayataḥ  ====
   * while thinking of the instructions --- [[books:sb:1:15:28|SB 1.15.28]]

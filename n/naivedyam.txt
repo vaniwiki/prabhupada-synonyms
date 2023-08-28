@@ -1,5 +1,11 @@
-~~Title:naivedyam~~
-{{description>food offered to the Deity; offering to the Deity.}}
+---json
+{
+    "name":"naivedyam",
+    "h1":"naivedyam",
+    "title":"naivedyam",
+    "description":"food offered to the Deity; offering to the Deity."
+}
+---
 
 ==== naivedyam  ====
   * food offered to the Deity --- [[books:sb:8:16:51-52|SB 8.16.51-52]]

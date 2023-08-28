@@ -1,5 +1,11 @@
-~~Title:śocan~~
-{{description>deeply lamenting; lamenting.}}
+---json
+{
+    "name":"śocan",
+    "h1":"śocan",
+    "title":"śocan",
+    "description":"deeply lamenting; lamenting."
+}
+---
 
 ==== śocan  ====
   * deeply lamenting --- [[books:sb:5:13:7|SB 5.13.7]]

@@ -1,5 +1,11 @@
-~~Title:kañjam~~
-{{description>lotus flower.}}
+---json
+{
+    "name":"kañjam",
+    "h1":"kañjam",
+    "title":"kañjam",
+    "description":"lotus flower."
+}
+---
 
 ==== kañjam  ====
   * lotus flower --- [[books:sb:3:8:17|SB 3.8.17]]

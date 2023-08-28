@@ -1,5 +1,11 @@
-~~Title:jaṅgamānām~~
-{{description>and of the moving living entities.}}
+---json
+{
+    "name":"jaṅgamānām",
+    "h1":"jaṅgamānām",
+    "title":"jaṅgamānām",
+    "description":"and of the moving living entities."
+}
+---
 
 ==== jaṅgamānām  ====
   * and of the moving living entities --- [[books:sb:5:11:13-14|SB 5.11.13-14]]

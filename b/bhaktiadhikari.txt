@@ -1,5 +1,11 @@
-~~Title:bhaktiadhikārī~~
-{{description>bona fide devotee.}}
+---json
+{
+    "name":"bhaktiadhikārī",
+    "h1":"bhaktiadhikārī",
+    "title":"bhaktiadhikārī",
+    "description":"bona fide devotee."
+}
+---
 
 ==== bhaktiadhikārī  ====
   * bona fide devotee --- [[books:cc:adi:10:146|Ādi 10.146]]

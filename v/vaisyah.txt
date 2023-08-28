@@ -1,5 +1,11 @@
-~~Title:vaisyah~~
-{{description>a vaiśya; are the mercantile men; belonging to the mercantile class; the mercantile class of men; the mercantile community.}}
+---json
+{
+    "name":"vaisyah",
+    "h1":"vaisyah",
+    "title":"vaisyah",
+    "description":"a vaiśya; are the mercantile men; belonging to the mercantile class; the mercantile class of men; the mercantile community."
+}
+---
 
 ==== vaiśyaḥ  ====
   * a //vaiśya// --- [[books:sb:5:26:29|SB 5.26.29]]

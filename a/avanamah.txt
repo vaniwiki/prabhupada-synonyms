@@ -1,5 +1,11 @@
-~~Title:avanāmāḥ~~
-{{description>they offered their obeisances.}}
+---json
+{
+    "name":"avanāmāḥ",
+    "h1":"avanāmāḥ",
+    "title":"avanāmāḥ",
+    "description":"they offered their obeisances."
+}
+---
 
 ==== kṛta-avanāmāḥ  ====
   * they offered their obeisances --- [[books:sb:4:9:1|SB 4.9.1]]

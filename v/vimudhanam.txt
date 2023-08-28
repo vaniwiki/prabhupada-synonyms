@@ -1,5 +1,11 @@
-~~Title:vimūḍhānām~~
-{{description>of the befooled.}}
+---json
+{
+    "name":"vimūḍhānām",
+    "h1":"vimūḍhānām",
+    "title":"vimūḍhānām",
+    "description":"of the befooled."
+}
+---
 
 ==== vimūḍhānām  ====
   * of the befooled --- [[books:sb:1:15:22-23|SB 1.15.22-23]]

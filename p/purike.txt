@@ -1,5 +1,11 @@
-~~Title:purīke~~
-{{description>to Mādhavendra Purī.}}
+---json
+{
+    "name":"purīke",
+    "h1":"purīke",
+    "title":"purīke",
+    "description":"to Mādhavendra Purī."
+}
+---
 
 ==== mādhava-purīke  ====
   * to Mādhavendra Purī --- [[books:cc:madhya:4:132|Madhya 4.132]]

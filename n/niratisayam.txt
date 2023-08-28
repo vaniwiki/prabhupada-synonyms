@@ -1,5 +1,11 @@
-~~Title:niratiśayam~~
-{{description>unlimited.}}
+---json
+{
+    "name":"niratiśayam",
+    "h1":"niratiśayam",
+    "title":"niratiśayam",
+    "description":"unlimited."
+}
+---
 
 ==== niratiśayam  ====
   * unlimited --- [[books:sb:5:16:25|SB 5.16.25]]

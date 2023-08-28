@@ -1,5 +1,11 @@
-~~Title:virūpatām~~
-{{description>faded away.}}
+---json
+{
+    "name":"virūpatām",
+    "h1":"virūpatām",
+    "title":"virūpatām",
+    "description":"faded away."
+}
+---
 
 ==== virūpatām  ====
   * faded away --- [[books:cc:antya:1:170|Antya 1.170]]

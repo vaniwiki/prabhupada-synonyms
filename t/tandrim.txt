@@ -1,5 +1,11 @@
-~~Title:tandrīm~~
-{{description>become dejected.}}
+---json
+{
+    "name":"tandrīm",
+    "h1":"tandrīm",
+    "title":"tandrīm",
+    "description":"become dejected."
+}
+---
 
 ==== gāḥ tandrīm  ====
   * become dejected --- [[books:sb:3:9:29|SB 3.9.29]]

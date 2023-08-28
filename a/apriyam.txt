@@ -1,5 +1,11 @@
-~~Title:apriyam~~
-{{description>detestable; not agreeable; not liked; not pleasing; that which is not very much appreciated; unpalatable; unpleasant.}}
+---json
+{
+    "name":"apriyam",
+    "h1":"apriyam",
+    "title":"apriyam",
+    "description":"detestable; not agreeable; not liked; not pleasing; that which is not very much appreciated; unpalatable; unpleasant."
+}
+---
 
 ==== apriyam  ====
   * detestable --- [[books:sb:1:9:14|SB 1.9.14]]

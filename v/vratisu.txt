@@ -1,5 +1,11 @@
-~~Title:vratiṣu~~
-{{description>with persons of the same category (desiring liberation from material bondage).}}
+---json
+{
+    "name":"vratiṣu",
+    "h1":"vratiṣu",
+    "title":"vratiṣu",
+    "description":"with persons of the same category (desiring liberation from material bondage)."
+}
+---
 
 ==== tat-vratiṣu  ====
   * with persons of the same category (desiring liberation from material bondage) --- [[books:sb:9:6:51|SB 9.6.51]]

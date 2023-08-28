@@ -1,5 +1,11 @@
-~~Title:vaibhava~~
-{{description>manifestations; opulence; opulences; the opulence; the opulences; vaibhava.}}
+---json
+{
+    "name":"vaibhava",
+    "h1":"vaibhava",
+    "title":"vaibhava",
+    "description":"manifestations; opulence; opulences; the opulence; the opulences; vaibhava."
+}
+---
 
 ==== vaibhava  ====
   * manifestations --- [[books:cc:adi:2:101|Ādi 2.101]], [[books:cc:adi:2:102|Ādi 2.102]]

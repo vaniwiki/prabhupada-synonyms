@@ -1,5 +1,11 @@
-~~Title:ambhojau~~
-{{description>whose lotus feet.}}
+---json
+{
+    "name":"ambhojau",
+    "h1":"ambhojau",
+    "title":"ambhojau",
+    "description":"whose lotus feet."
+}
+---
 
 ==== pada-ambhojau  ====
   * whose lotus feet --- [[books:cc:adi:1:15|Ādi 1.15]], [[books:cc:madhya:1:3|Madhya 1.3]], [[books:cc:antya:1:5|Antya 1.5]]

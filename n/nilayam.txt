@@ -1,5 +1,11 @@
-~~Title:nilayam~~
-{{description>not visible; rest or living place; the abode; to the residence.}}
+---json
+{
+    "name":"nilayam",
+    "h1":"nilayam",
+    "title":"nilayam",
+    "description":"not visible; rest or living place; the abode; to the residence."
+}
+---
 
 ==== nilayam  ====
   * not visible --- [[books:sb:8:15:30|SB 8.15.30]]

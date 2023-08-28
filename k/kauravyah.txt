@@ -1,5 +1,11 @@
-~~Title:kauravyaḥ~~
-{{description>the best amongst the Kurus (Vidura).}}
+---json
+{
+    "name":"kauravyaḥ",
+    "h1":"kauravyaḥ",
+    "title":"kauravyaḥ",
+    "description":"the best amongst the Kurus (Vidura)."
+}
+---
 
 ==== kauravyaḥ  ====
   * the best amongst the Kurus (Vidura) --- [[books:sb:3:13:1|SB 3.13.1]]

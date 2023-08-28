@@ -1,5 +1,11 @@
-~~Title:bhaviṣyatām~~
-{{description>of the future.}}
+---json
+{
+    "name":"bhaviṣyatām",
+    "h1":"bhaviṣyatām",
+    "title":"bhaviṣyatām",
+    "description":"of the future."
+}
+---
 
 ==== bhaviṣyatām  ====
   * of the future --- [[books:bg:10:34|Bg. 10.34]]

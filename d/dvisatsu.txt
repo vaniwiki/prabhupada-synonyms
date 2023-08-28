@@ -1,5 +1,11 @@
-~~Title:dviṣatsu~~
-{{description>to persons envious of Kṛṣṇa and the devotees of Kṛṣṇa.}}
+---json
+{
+    "name":"dviṣatsu",
+    "h1":"dviṣatsu",
+    "title":"dviṣatsu",
+    "description":"to persons envious of Kṛṣṇa and the devotees of Kṛṣṇa."
+}
+---
 
 ==== dviṣatsu  ====
   * to persons envious of Kṛṣṇa and the devotees of Kṛṣṇa --- [[books:cc:madhya:22:73|Madhya 22.73]]

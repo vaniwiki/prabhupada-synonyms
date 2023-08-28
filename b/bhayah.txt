@@ -1,5 +1,11 @@
-~~Title:bhayah~~
-{{description>who is not fearful of anyone; without fear.}}
+---json
+{
+    "name":"bhayah",
+    "h1":"bhayah",
+    "title":"bhayah",
+    "description":"who is not fearful of anyone; without fear."
+}
+---
 
 ==== akutaḥ-bhayaḥ  ====
   * who is not fearful of anyone --- [[books:sb:5:18:20|SB 5.18.20]]

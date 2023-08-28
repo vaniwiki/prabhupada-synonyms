@@ -1,5 +1,11 @@
-~~Title:gṛhī~~
-{{description>a householder; householder; or in the gṛhastha-āśrama; the householder.}}
+---json
+{
+    "name":"gṛhī",
+    "h1":"gṛhī",
+    "title":"gṛhī",
+    "description":"a householder; householder; or in the gṛhastha-āśrama; the householder."
+}
+---
 
 ==== gṛhī  ====
   * a householder --- [[books:sb:8:2:26|SB 8.2.26]]

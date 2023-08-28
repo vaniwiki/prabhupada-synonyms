@@ -1,5 +1,11 @@
-~~Title:dauṣkulyam~~
-{{description>disqualification of birth.}}
+---json
+{
+    "name":"dauṣkulyam",
+    "h1":"dauṣkulyam",
+    "title":"dauṣkulyam",
+    "description":"disqualification of birth."
+}
+---
 
 ==== dauṣkulyam  ====
   * disqualification of birth --- [[books:sb:1:18:18|SB 1.18.18]]

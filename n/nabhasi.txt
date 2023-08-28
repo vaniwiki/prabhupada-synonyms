@@ -1,5 +1,11 @@
-~~Title:nabhasi~~
-{{description>in outer space; in the sky; within the whole air.}}
+---json
+{
+    "name":"nabhasi",
+    "h1":"nabhasi",
+    "title":"nabhasi",
+    "description":"in outer space; in the sky; within the whole air."
+}
+---
 
 ==== nabhasi  ====
   * in outer space --- [[books:sb:8:21:4|SB 8.21.4]]

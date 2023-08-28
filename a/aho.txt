@@ -1,5 +1,11 @@
-~~Title:aho~~
-{{description>ah; alas (in great lamentation); alas; all glory to; exclamation; hello; how; how surprising it is; how wonderful; how wonderful it is; just look at; O; O all of you; O Lord; O my lord; oh; oh, goodness; oh, how much; oh, it is our good luck; oh, just see; what great; wonderful.}}
+---json
+{
+    "name":"aho",
+    "h1":"aho",
+    "title":"aho",
+    "description":"ah; alas (in great lamentation); alas; all glory to; exclamation; hello; how; how surprising it is; how wonderful; how wonderful it is; just look at; O; O all of you; O Lord; O my lord; oh; oh, goodness; oh, how much; oh, it is our good luck; oh, just see; what great; wonderful."
+}
+---
 
 ==== aho  ====
   * ah --- [[books:sb:1:19:13|SB 1.19.13]], [[books:sb:1:19:32|SB 1.19.32]]

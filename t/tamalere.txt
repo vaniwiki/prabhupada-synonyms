@@ -1,5 +1,11 @@
-~~Title:tamālere~~
-{{description>a black tree known as tamāla.}}
+---json
+{
+    "name":"tamālere",
+    "h1":"tamālere",
+    "title":"tamālere",
+    "description":"a black tree known as tamāla."
+}
+---
 
 ==== tamālere  ====
   * a black tree known as //tamāla// --- [[books:cc:adi:4:251|Ādi 4.251]]

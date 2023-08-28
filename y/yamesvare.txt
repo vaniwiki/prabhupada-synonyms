@@ -1,5 +1,11 @@
-~~Title:yameśvare~~
-{{description>at Yameśvara.}}
+---json
+{
+    "name":"yameśvare",
+    "h1":"yameśvare",
+    "title":"yameśvare",
+    "description":"at Yameśvara."
+}
+---
 
 ==== yameśvare  ====
   * at Yameśvara --- [[books:cc:madhya:15:183|Madhya 15.183]]

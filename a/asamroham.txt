@@ -1,5 +1,11 @@
-~~Title:asaṁroham~~
-{{description>no growth.}}
+---json
+{
+    "name":"asaṁroham",
+    "h1":"asaṁroham",
+    "title":"asaṁroham",
+    "description":"no growth."
+}
+---
 
 ==== asaṁroham  ====
   * no growth --- [[books:sb:7:10:7|SB 7.10.7]]

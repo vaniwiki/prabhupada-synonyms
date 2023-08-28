@@ -1,5 +1,11 @@
-~~Title:kuñjaḥ~~
-{{description>whose trees and vegetables along the slopes.}}
+---json
+{
+    "name":"kuñjaḥ",
+    "h1":"kuñjaḥ",
+    "title":"kuñjaḥ",
+    "description":"whose trees and vegetables along the slopes."
+}
+---
 
 ==== nitamba-kuñjaḥ  ====
   * whose trees and vegetables along the slopes --- [[books:sb:5:20:19|SB 5.20.19]]

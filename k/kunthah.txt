@@ -1,5 +1,11 @@
-~~Title:kuṇṭhaḥ~~
-{{description>anxiety.}}
+---json
+{
+    "name":"kuṇṭhaḥ",
+    "h1":"kuṇṭhaḥ",
+    "title":"kuṇṭhaḥ",
+    "description":"anxiety."
+}
+---
 
 ==== kuṇṭhaḥ  ====
   * anxiety --- [[books:sb:8:22:36|SB 8.22.36]]

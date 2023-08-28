@@ -1,5 +1,11 @@
-~~Title:vandoṅ~~
-{{description>I pray; I worship.}}
+---json
+{
+    "name":"vandoṅ",
+    "h1":"vandoṅ",
+    "title":"vandoṅ",
+    "description":"I pray; I worship."
+}
+---
 
 ==== vandoṅ  ====
   * I pray --- [[books:cc:adi:8:4|Ādi 8.4]]

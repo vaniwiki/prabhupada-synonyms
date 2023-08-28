@@ -1,5 +1,11 @@
-~~Title:śikhaṇḍinyām~~
-{{description>in Śikhaṇḍinī, his wife.}}
+---json
+{
+    "name":"śikhaṇḍinyām",
+    "h1":"śikhaṇḍinyām",
+    "title":"śikhaṇḍinyām",
+    "description":"in Śikhaṇḍinī, his wife."
+}
+---
 
 ==== śikhaṇḍinyām  ====
   * in Śikhaṇḍinī, his wife --- [[books:sb:4:24:3|SB 4.24.3]]

@@ -1,5 +1,11 @@
-~~Title:gṛhāḥ~~
-{{description>all houses; big buildings and residences; home; household life; houses; residence; the houses; their household affairs; your home.}}
+---json
+{
+    "name":"gṛhāḥ",
+    "h1":"gṛhāḥ",
+    "title":"gṛhāḥ",
+    "description":"all houses; big buildings and residences; home; household life; houses; residence; the houses; their household affairs; your home."
+}
+---
 
 ==== gṛhāḥ  ====
   * all houses --- [[books:sb:1:19:33|SB 1.19.33]]

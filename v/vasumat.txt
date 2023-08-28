@@ -1,5 +1,11 @@
-~~Title:vasumat~~
-{{description>many, headed by Vasumān.}}
+---json
+{
+    "name":"vasumat",
+    "h1":"vasumat",
+    "title":"vasumat",
+    "description":"many, headed by Vasumān."
+}
+---
 
 ==== vasumat-ādayaḥ  ====
   * many, headed by Vasumān --- [[books:sb:9:15:12-13|SB 9.15.12-13]]

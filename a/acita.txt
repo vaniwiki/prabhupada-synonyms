@@ -1,5 +1,11 @@
-~~Title:ācita~~
-{{description>covered.}}
+---json
+{
+    "name":"ācita",
+    "h1":"ācita",
+    "title":"ācita",
+    "description":"covered."
+}
+---
 
 ==== ācita  ====
   * covered --- [[books:sb:4:12:18|SB 4.12.18]]

@@ -1,5 +1,11 @@
-~~Title:asādhāraṇa~~
-{{description>uncommon qualities.}}
+---json
+{
+    "name":"asādhāraṇa",
+    "h1":"asādhāraṇa",
+    "title":"asādhāraṇa",
+    "description":"uncommon qualities."
+}
+---
 
 ==== asādhāraṇa guṇa  ====
   * uncommon qualities --- [[books:cc:madhya:9:144|Madhya 9.144]]

@@ -1,5 +1,11 @@
-~~Title:tau~~
-{{description>both; both of them; Kṛṣṇa and Balarāma; months; Nalakūvara and Maṇigrīva; of them; the couple; the two; the two boys of the demigods; the two doorkeepers (Jaya and Vijaya); them; these two; they; those; those two (Jaya and Vijaya); those two (Ṣaṇḍa and Amarka); those two; those two doorkeepers; those two gatekeepers; those two porters; unto those two.}}
+---json
+{
+    "name":"tau",
+    "h1":"tau",
+    "title":"tau",
+    "description":"both; both of them; Kṛṣṇa and Balarāma; months; Nalakūvara and Maṇigrīva; of them; the couple; the two; the two boys of the demigods; the two doorkeepers (Jaya and Vijaya); them; these two; they; those; those two (Jaya and Vijaya); those two (Ṣaṇḍa and Amarka); those two; those two doorkeepers; those two gatekeepers; those two porters; unto those two."
+}
+---
 
 ==== tau  ====
   * both --- [[books:sb:3:19:29|SB 3.19.29]], [[books:sb:4:1:59|SB 4.1.59]]

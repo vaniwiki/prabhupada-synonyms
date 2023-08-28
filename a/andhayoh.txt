@@ -1,5 +1,11 @@
-~~Title:andhayoḥ~~
-{{description>who are blinded by celestial opulence; who had become mad after material opulence and had thus become blind.}}
+---json
+{
+    "name":"andhayoḥ",
+    "h1":"andhayoḥ",
+    "title":"andhayoḥ",
+    "description":"who are blinded by celestial opulence; who had become mad after material opulence and had thus become blind."
+}
+---
 
 ==== śrī-mada-andhayoḥ  ====
   * who are blinded by celestial opulence --- [[books:sb:10:10:19|SB 10.10.19]]

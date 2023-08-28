@@ -1,5 +1,11 @@
-~~Title:khan~~
-{{description>of the name Buddhimanta Khān.}}
+---json
+{
+    "name":"khan",
+    "h1":"khan",
+    "title":"khan",
+    "description":"of the name Buddhimanta Khān."
+}
+---
 
 ==== buddhimanta khān  ====
   * of the name Buddhimanta Khān --- [[books:cc:adi:10:74|Ādi 10.74]]

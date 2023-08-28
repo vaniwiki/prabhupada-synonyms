@@ -1,5 +1,11 @@
-~~Title:sannihitaḥ~~
-{{description>intimately connected, living eternally; was present.}}
+---json
+{
+    "name":"sannihitaḥ",
+    "h1":"sannihitaḥ",
+    "title":"sannihitaḥ",
+    "description":"intimately connected, living eternally; was present."
+}
+---
 
 ==== sannihitaḥ  ====
   * intimately connected, living eternally --- [[books:sb:10:1:28|SB 10.1.28]]

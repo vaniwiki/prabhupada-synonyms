@@ -1,5 +1,11 @@
-~~Title:āsakti~~
-{{description>attachment; attraction.}}
+---json
+{
+    "name":"āsakti",
+    "h1":"āsakti",
+    "title":"āsakti",
+    "description":"attachment; attraction."
+}
+---
 
 ==== āsakti  ====
   * attachment --- [[books:cc:madhya:23:12|Madhya 23.12]], [[books:cc:madhya:23:34|Madhya 23.34]]

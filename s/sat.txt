@@ -1,5 +1,11 @@
-~~Title:sat~~
-{{description>again the father or grandfather has come; always existing; auspicious; being; by authorities on religion; by exalted personalities; cause; effect; eternal; eternal existence; existing; good; legitimate; manifest; manifestation; manifested; manifested or phenomenal; of reality; of the devotees or the pious; respectable; result; resultant; right; Supreme; the cause; the effect; the Supreme; to the great sages; to the virtuous; to Your devotees; transcendental; which is existing, as the effect.}}
+---json
+{
+    "name":"sat",
+    "h1":"sat",
+    "title":"sat",
+    "description":"again the father or grandfather has come; always existing; auspicious; being; by authorities on religion; by exalted personalities; cause; effect; eternal; eternal existence; existing; good; legitimate; manifest; manifestation; manifested; manifested or phenomenal; of reality; of the devotees or the pious; respectable; result; resultant; right; Supreme; the cause; the effect; the Supreme; to the great sages; to the virtuous; to Your devotees; transcendental; which is existing, as the effect."
+}
+---
 
 ==== sat  ====
   * again the father or grandfather has come --- [[books:sb:5:14:17|SB 5.14.17]]

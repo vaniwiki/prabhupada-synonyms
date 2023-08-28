@@ -1,5 +1,11 @@
-~~Title:satyadharma~~
-{{description>Satyadharma and others.}}
+---json
+{
+    "name":"satyadharma",
+    "h1":"satyadharma",
+    "title":"satyadharma",
+    "description":"Satyadharma and others."
+}
+---
 
 ==== satyadharma-ādayaḥ  ====
   * Satyadharma and others --- [[books:sb:8:13:24|SB 8.13.24]]

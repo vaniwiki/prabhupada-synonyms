@@ -1,5 +1,11 @@
-~~Title:varṇane~~
-{{description>describing; in description; in the description; in the matter of description; to describe.}}
+---json
+{
+    "name":"varṇane",
+    "h1":"varṇane",
+    "title":"varṇane",
+    "description":"describing; in description; in the description; in the matter of description; to describe."
+}
+---
 
 ==== varṇane  ====
   * describing --- [[books:cc:antya:20:86|Antya 20.86]]

@@ -1,5 +1,11 @@
-~~Title:vipraiḥ~~
-{{description>all brāhmaṇas; by calling all the brāhmaṇas; by learned brāhmaṇas; by the brāhmaṇas; by the great sages and brāhmaṇas; by the learned brāhmaṇas.}}
+---json
+{
+    "name":"vipraiḥ",
+    "h1":"vipraiḥ",
+    "title":"vipraiḥ",
+    "description":"all brāhmaṇas; by calling all the brāhmaṇas; by learned brāhmaṇas; by the brāhmaṇas; by the great sages and brāhmaṇas; by the learned brāhmaṇas."
+}
+---
 
 ==== vipraiḥ  ====
   * all //brāhmaṇas// --- [[books:sb:3:13:20|SB 3.13.20]]

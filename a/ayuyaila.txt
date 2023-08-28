@@ -1,5 +1,11 @@
-~~Title:āyuyāilā~~
-{{description>became slackened.}}
+---json
+{
+    "name":"āyuyāilā",
+    "h1":"āyuyāilā",
+    "title":"āyuyāilā",
+    "description":"became slackened."
+}
+---
 
 ==== āyuyāilā  ====
   * became slackened --- [[books:cc:madhya:19:99|Madhya 19.99]]

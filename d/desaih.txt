@@ -1,5 +1,11 @@
-~~Title:deśaiḥ~~
-{{description>with all the parts of the body.}}
+---json
+{
+    "name":"deśaiḥ",
+    "h1":"deśaiḥ",
+    "title":"deśaiḥ",
+    "description":"with all the parts of the body."
+}
+---
 
 ==== tanū-deśaiḥ  ====
   * with all the parts of the body --- [[books:sb:7:13:12-13|SB 7.13.12-13]]

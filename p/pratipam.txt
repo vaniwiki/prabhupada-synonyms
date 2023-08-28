@@ -1,5 +1,11 @@
-~~Title:pratīpam~~
-{{description>antagonistic; enemy.}}
+---json
+{
+    "name":"pratīpam",
+    "h1":"pratīpam",
+    "title":"pratīpam",
+    "description":"antagonistic; enemy."
+}
+---
 
 ==== pratīpam  ====
   * antagonistic --- [[books:sb:5:5:32|SB 5.5.32]]

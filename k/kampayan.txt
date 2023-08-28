@@ -1,5 +1,11 @@
-~~Title:kampayan~~
-{{description>causing to tremble; trembling.}}
+---json
+{
+    "name":"kampayan",
+    "h1":"kampayan",
+    "title":"kampayan",
+    "description":"causing to tremble; trembling."
+}
+---
 
 ==== kampayan  ====
   * causing to tremble --- [[books:sb:4:14:5|SB 4.14.5]], [[books:sb:6:8:25|SB 6.8.25]], [[books:sb:6:11:8|SB 6.11.8]], [[books:sb:8:15:10-11|SB 8.15.10-11]]

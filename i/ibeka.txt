@@ -1,5 +1,11 @@
-~~Title:ibeka~~
-{{description>it will be; must be; there will be; will be; will become.}}
+---json
+{
+    "name":"ibeka",
+    "h1":"ibeka",
+    "title":"ibeka",
+    "description":"it will be; must be; there will be; will be; will become."
+}
+---
 
 ==== ha-ibeka  ====
   * it will be --- [[books:cc:adi:17:262|Ādi 17.262]]

@@ -1,5 +1,11 @@
-~~Title:labhasva~~
-{{description>gain.}}
+---json
+{
+    "name":"labhasva",
+    "h1":"labhasva",
+    "title":"labhasva",
+    "description":"gain."
+}
+---
 
 ==== labhasva  ====
   * gain --- [[books:bg:11:33|Bg. 11.33]]

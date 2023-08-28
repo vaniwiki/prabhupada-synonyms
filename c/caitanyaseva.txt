@@ -1,5 +1,11 @@
-~~Title:caitanyaseva~~
-{{description>serve Śrī Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"caitanyaseva",
+    "h1":"caitanyaseva",
+    "title":"caitanyaseva",
+    "description":"serve Śrī Caitanya Mahāprabhu."
+}
+---
 
 ==== caitanyaseva  ====
   * serve Śrī Caitanya Mahāprabhu --- [[books:cc:madhya:1:29|Madhya 1.29]]

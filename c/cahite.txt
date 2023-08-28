@@ -1,5 +1,11 @@
-~~Title:cāhite~~
-{{description>to look for the dog.}}
+---json
+{
+    "name":"cāhite",
+    "h1":"cāhite",
+    "title":"cāhite",
+    "description":"to look for the dog."
+}
+---
 
 ==== kukkura cāhite  ====
   * to look for the dog --- [[books:cc:antya:1:22|Antya 1.22]]

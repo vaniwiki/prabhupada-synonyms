@@ -1,5 +1,11 @@
-~~Title:tanra~~
-{{description>His.}}
+---json
+{
+    "name":"tanra",
+    "h1":"tanra",
+    "title":"tanra",
+    "description":"His."
+}
+---
 
 ==== tāñra  ====
   * His --- [[books:cc:adi:6:93|Ādi 6.93]]

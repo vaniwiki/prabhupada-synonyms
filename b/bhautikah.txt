@@ -1,5 +1,11 @@
-~~Title:bhautikah~~
-{{description>made of five elements.}}
+---json
+{
+    "name":"bhautikah",
+    "h1":"bhautikah",
+    "title":"bhautikah",
+    "description":"made of five elements."
+}
+---
 
 ==== bhautikaḥ  ====
   * made of five elements --- [[books:sb:8:16:19|SB 8.16.19]]

@@ -1,5 +1,11 @@
-~~Title:bhāgyam~~
-{{description>fortune.}}
+---json
+{
+    "name":"bhāgyam",
+    "h1":"bhāgyam",
+    "title":"bhāgyam",
+    "description":"fortune."
+}
+---
 
 ==== bhāgyam  ====
   * fortune --- [[books:cc:madhya:6:149|Madhya 6.149]]

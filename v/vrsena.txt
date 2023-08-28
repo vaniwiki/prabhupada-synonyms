@@ -1,5 +1,11 @@
-~~Title:vṛṣeṇa~~
-{{description>on the back of the bull carrier.}}
+---json
+{
+    "name":"vṛṣeṇa",
+    "h1":"vṛṣeṇa",
+    "title":"vṛṣeṇa",
+    "description":"on the back of the bull carrier."
+}
+---
 
 ==== vṛṣeṇa  ====
   * on the back of the bull carrier --- [[books:sb:3:14:24|SB 3.14.24]]

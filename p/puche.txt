@@ -1,5 +1,11 @@
-~~Title:puche~~
-{{description>he inquires; inquire; inquire from; inquired; inquires.}}
+---json
+{
+    "name":"puche",
+    "h1":"puche",
+    "title":"puche",
+    "description":"he inquires; inquire; inquire from; inquired; inquires."
+}
+---
 
 ==== puche  ====
   * he inquires --- [[books:cc:madhya:20:105|Madhya 20.105]]

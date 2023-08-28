@@ -1,5 +1,11 @@
-~~Title:cakruḥ~~
-{{description>began to do; committed; did; did bestow; did perform; did so; executed; made; performed; they accepted; they created; they did; they made.}}
+---json
+{
+    "name":"cakruḥ",
+    "h1":"cakruḥ",
+    "title":"cakruḥ",
+    "description":"began to do; committed; did; did bestow; did perform; did so; executed; made; performed; they accepted; they created; they did; they made."
+}
+---
 
 ==== cakruḥ  ====
   * began to do --- [[books:sb:4:14:36|SB 4.14.36]]

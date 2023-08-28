@@ -1,5 +1,11 @@
-~~Title:tulaye~~
-{{description>compare; I count as equal.}}
+---json
+{
+    "name":"tulaye",
+    "h1":"tulaye",
+    "title":"tulaye",
+    "description":"compare; I count as equal."
+}
+---
 
 ==== tulaye  ====
   * compare --- [[books:sb:4:24:57|SB 4.24.57]]

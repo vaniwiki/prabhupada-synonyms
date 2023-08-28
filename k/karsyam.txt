@@ -1,5 +1,11 @@
-~~Title:kārśyam~~
-{{description>being skinny and weak.}}
+---json
+{
+    "name":"kārśyam",
+    "h1":"kārśyam",
+    "title":"kārśyam",
+    "description":"being skinny and weak."
+}
+---
 
 ==== kārśyam  ====
   * being skinny and weak --- [[books:sb:5:10:10|SB 5.10.10]]

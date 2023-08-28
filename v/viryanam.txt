@@ -1,5 +1,11 @@
-~~Title:vīryāṇām~~
-{{description>possessing the powerful strength.}}
+---json
+{
+    "name":"vīryāṇām",
+    "h1":"vīryāṇām",
+    "title":"vīryāṇām",
+    "description":"possessing the powerful strength."
+}
+---
 
 ==== vīryāṇām  ====
   * possessing the powerful strength --- [[books:sb:6:17:31|SB 6.17.31]]

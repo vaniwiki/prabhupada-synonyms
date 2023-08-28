@@ -1,5 +1,11 @@
-~~Title:prakaṭī~~
-{{description>manifestation.}}
+---json
+{
+    "name":"prakaṭī",
+    "h1":"prakaṭī",
+    "title":"prakaṭī",
+    "description":"manifestation."
+}
+---
 
 ==== prakaṭī  ====
   * manifestation --- [[books:cc:antya:2:168|Antya 2.168]]

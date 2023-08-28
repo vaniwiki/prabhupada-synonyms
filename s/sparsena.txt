@@ -1,5 +1,11 @@
-~~Title:sparśena~~
-{{description>by the touch; with touch.}}
+---json
+{
+    "name":"sparśena",
+    "h1":"sparśena",
+    "title":"sparśena",
+    "description":"by the touch; with touch."
+}
+---
 
 ==== sparśena  ====
   * by the touch --- [[books:sb:8:5:42|SB 8.5.42]]

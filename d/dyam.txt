@@ -1,5 +1,11 @@
-~~Title:dyām~~
-{{description>in outer space.}}
+---json
+{
+    "name":"dyām",
+    "h1":"dyām",
+    "title":"dyām",
+    "description":"in outer space."
+}
+---
 
 ==== dyām  ====
   * in outer space --- [[books:sb:8:19:11|SB 8.19.11]]

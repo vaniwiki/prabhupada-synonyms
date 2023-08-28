@@ -1,5 +1,11 @@
-~~Title:rātrāṇi~~
-{{description>the days and nights.}}
+---json
+{
+    "name":"rātrāṇi",
+    "h1":"rātrāṇi",
+    "title":"rātrāṇi",
+    "description":"the days and nights."
+}
+---
 
 ==== ahaḥ-rātrāṇi  ====
   * the days and nights --- [[books:sb:5:21:3|SB 5.21.3]], [[books:sb:5:21:4|SB 5.21.4]], [[books:sb:5:21:5|SB 5.21.5]], [[books:sb:5:22:9|SB 5.22.9]]

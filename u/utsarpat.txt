@@ -1,5 +1,11 @@
-~~Title:utsarpat~~
-{{description>going upward.}}
+---json
+{
+    "name":"utsarpat",
+    "h1":"utsarpat",
+    "title":"utsarpat",
+    "description":"going upward."
+}
+---
 
 ==== utsarpat  ====
   * going upward --- [[books:sb:8:7:19|SB 8.7.19]]

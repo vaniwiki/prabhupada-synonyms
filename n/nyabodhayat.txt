@@ -1,5 +1,11 @@
-~~Title:nyabodhayat~~
-{{description>submitted.}}
+---json
+{
+    "name":"nyabodhayat",
+    "h1":"nyabodhayat",
+    "title":"nyabodhayat",
+    "description":"submitted."
+}
+---
 
 ==== nyabodhayat  ====
   * submitted --- [[books:sb:3:2:22|SB 3.2.22]]

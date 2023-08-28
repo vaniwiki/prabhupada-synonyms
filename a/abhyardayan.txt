@@ -1,5 +1,11 @@
-~~Title:abhyardayan~~
-{{description>harassed.}}
+---json
+{
+    "name":"abhyardayan",
+    "h1":"abhyardayan",
+    "title":"abhyardayan",
+    "description":"harassed."
+}
+---
 
 ==== abhyardayan  ====
   * harassed --- [[books:sb:6:10:19-22|SB 6.10.19-22]]

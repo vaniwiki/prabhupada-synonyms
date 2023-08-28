@@ -1,5 +1,11 @@
-~~Title:pina~~
-{{description>let me drink.}}
+---json
+{
+    "name":"pina",
+    "h1":"pina",
+    "title":"pina",
+    "description":"let me drink."
+}
+---
 
 ==== piṅa  ====
   * let me drink --- [[books:cc:antya:19:97|Antya 19.97]]

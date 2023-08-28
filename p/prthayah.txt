@@ -1,5 +1,11 @@
-~~Title:pṛthāyāḥ~~
-{{description>of Pṛthā.}}
+---json
+{
+    "name":"pṛthāyāḥ",
+    "h1":"pṛthāyāḥ",
+    "title":"pṛthāyāḥ",
+    "description":"of Pṛthā."
+}
+---
 
 ==== pṛthāyāḥ  ====
   * of Pṛthā --- [[books:sb:3:1:39|SB 3.1.39]]

@@ -1,5 +1,11 @@
-~~Title:pramadānām~~
-{{description>of women as a class.}}
+---json
+{
+    "name":"pramadānām",
+    "h1":"pramadānām",
+    "title":"pramadānām",
+    "description":"of women as a class."
+}
+---
 
 ==== pramadānām  ====
   * of women as a class --- [[books:sb:9:3:12|SB 9.3.12]]

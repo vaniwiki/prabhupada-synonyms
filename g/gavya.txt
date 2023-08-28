@@ -1,5 +1,11 @@
-~~Title:gavya~~
-{{description>butter; milk preparation.}}
+---json
+{
+    "name":"gavya",
+    "h1":"gavya",
+    "title":"gavya",
+    "description":"butter; milk preparation."
+}
+---
 
 ==== gavya  ====
   * butter --- [[books:cc:antya:16:108-109|Antya 16.108-109]]

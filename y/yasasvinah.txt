@@ -1,5 +1,11 @@
-~~Title:yaśasvinaḥ~~
-{{description>the great worker of distinction; those famous in society.}}
+---json
+{
+    "name":"yaśasvinaḥ",
+    "h1":"yaśasvinaḥ",
+    "title":"yaśasvinaḥ",
+    "description":"the great worker of distinction; those famous in society."
+}
+---
 
 ==== yaśasvinaḥ  ====
   * the great worker of distinction --- [[books:sb:2:4:17|SB 2.4.17]]

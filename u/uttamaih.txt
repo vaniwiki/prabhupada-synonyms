@@ -1,5 +1,11 @@
-~~Title:uttamaiḥ~~
-{{description>by superior power.}}
+---json
+{
+    "name":"uttamaiḥ",
+    "h1":"uttamaiḥ",
+    "title":"uttamaiḥ",
+    "description":"by superior power."
+}
+---
 
 ==== uttamaiḥ  ====
   * by superior power --- [[books:sb:1:14:42|SB 1.14.42]]

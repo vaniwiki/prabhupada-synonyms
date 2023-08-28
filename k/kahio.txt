@@ -1,5 +1,11 @@
-~~Title:kahio~~
-{{description>inform; instruct; you say.}}
+---json
+{
+    "name":"kahio",
+    "h1":"kahio",
+    "title":"kahio",
+    "description":"inform; instruct; you say."
+}
+---
 
 ==== kahio  ====
   * inform --- [[books:cc:antya:1:89|Antya 1.89]]

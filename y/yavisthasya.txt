@@ -1,5 +1,11 @@
-~~Title:yaviṣṭhasya~~
-{{description>younger.}}
+---json
+{
+    "name":"yaviṣṭhasya",
+    "h1":"yaviṣṭhasya",
+    "title":"yaviṣṭhasya",
+    "description":"younger."
+}
+---
 
 ==== yaviṣṭhasya  ====
   * younger --- [[books:sb:3:1:6|SB 3.1.6]]

@@ -1,5 +1,11 @@
-~~Title:sima~~
-{{description>the limitations.}}
+---json
+{
+    "name":"sima",
+    "h1":"sima",
+    "title":"sima",
+    "description":"the limitations."
+}
+---
 
 ==== sīma  ====
   * the limitations --- [[books:cc:adi:3:89|Ādi 3.89]], [[books:cc:antya:3:92|Antya 3.92]]

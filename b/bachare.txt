@@ -1,5 +1,11 @@
-~~Title:bāchāre~~
-{{description>my darling.}}
+---json
+{
+    "name":"bāchāre",
+    "h1":"bāchāre",
+    "title":"bāchāre",
+    "description":"my darling."
+}
+---
 
 ==== bāchāre  ====
   * my darling --- [[books:cc:madhya:3:143|Madhya 3.143]]

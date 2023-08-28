@@ -1,5 +1,11 @@
-~~Title:kārtasvara~~
-{{description>gold; of gold.}}
+---json
+{
+    "name":"kārtasvara",
+    "h1":"kārtasvara",
+    "title":"kārtasvara",
+    "description":"gold; of gold."
+}
+---
 
 ==== kārtasvara  ====
   * gold --- [[books:sb:1:17:4|SB 1.17.4]]

@@ -1,5 +1,11 @@
-~~Title:parituṣyatā~~
-{{description>fully satisfied.}}
+---json
+{
+    "name":"parituṣyatā",
+    "h1":"parituṣyatā",
+    "title":"parituṣyatā",
+    "description":"fully satisfied."
+}
+---
 
 ==== parituṣyatā  ====
   * fully satisfied --- [[books:sb:4:7:1|SB 4.7.1]]

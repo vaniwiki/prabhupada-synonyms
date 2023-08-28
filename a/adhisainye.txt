@@ -1,5 +1,11 @@
-~~Title:adhisainye~~
-{{description>in the midst of the fighting soldiers of both sides.}}
+---json
+{
+    "name":"adhisainye",
+    "h1":"adhisainye",
+    "title":"adhisainye",
+    "description":"in the midst of the fighting soldiers of both sides."
+}
+---
 
 ==== adhisainye  ====
   * in the midst of the fighting soldiers of both sides --- [[books:sb:2:7:25|SB 2.7.25]]

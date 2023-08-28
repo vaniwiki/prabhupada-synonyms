@@ -1,5 +1,11 @@
-~~Title:brahmāya~~
-{{description>in Lord Brahmā.}}
+---json
+{
+    "name":"brahmāya",
+    "h1":"brahmāya",
+    "title":"brahmāya",
+    "description":"in Lord Brahmā."
+}
+---
 
 ==== brahmāya  ====
   * in Lord Brahmā --- [[books:cc:madhya:20:371|Madhya 20.371]]

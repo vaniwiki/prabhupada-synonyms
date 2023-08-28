@@ -1,5 +1,11 @@
-~~Title:prakopayan~~
-{{description>making angry.}}
+---json
+{
+    "name":"prakopayan",
+    "h1":"prakopayan",
+    "title":"prakopayan",
+    "description":"making angry."
+}
+---
 
 ==== prakopayan  ====
   * making angry --- [[books:sb:3:19:4|SB 3.19.4]]

@@ -1,5 +1,11 @@
-~~Title:ihamanah~~
-{{description>although acting.}}
+---json
+{
+    "name":"ihamanah",
+    "h1":"ihamanah",
+    "title":"ihamanah",
+    "description":"although acting."
+}
+---
 
 ==== ihamānaḥ  ====
   * although acting --- [[books:sb:2:9:29|SB 2.9.29]]

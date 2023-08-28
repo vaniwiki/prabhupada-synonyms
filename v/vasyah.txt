@@ -1,5 +1,11 @@
-~~Title:vaśyaḥ~~
-{{description>full controller.}}
+---json
+{
+    "name":"vaśyaḥ",
+    "h1":"vaśyaḥ",
+    "title":"vaśyaḥ",
+    "description":"full controller."
+}
+---
 
 ==== vaśyaḥ  ====
   * full controller --- [[books:cc:madhya:15:110|Madhya 15.110]]

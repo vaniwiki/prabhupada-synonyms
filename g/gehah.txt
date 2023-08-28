@@ -1,5 +1,11 @@
-~~Title:gehaḥ~~
-{{description>body and home.}}
+---json
+{
+    "name":"gehaḥ",
+    "h1":"gehaḥ",
+    "title":"gehaḥ",
+    "description":"body and home."
+}
+---
 
 ==== deha-gehaḥ  ====
   * body and home --- [[books:cc:antya:14:41|Antya 14.41]]

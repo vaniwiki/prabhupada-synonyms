@@ -1,5 +1,11 @@
-~~Title:prarujan~~
-{{description>breaking.}}
+---json
+{
+    "name":"prarujan",
+    "h1":"prarujan",
+    "title":"prarujan",
+    "description":"breaking."
+}
+---
 
 ==== prarujan  ====
   * breaking --- [[books:sb:8:2:20|SB 8.2.20]]

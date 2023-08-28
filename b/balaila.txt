@@ -1,5 +1,11 @@
-~~Title:balāila~~
-{{description>caused to speak.}}
+---json
+{
+    "name":"balāila",
+    "h1":"balāila",
+    "title":"balāila",
+    "description":"caused to speak."
+}
+---
 
 ==== balāila  ====
   * caused to speak --- [[books:cc:adi:14:22|Ādi 14.22]]

@@ -1,5 +1,11 @@
-~~Title:kārikara~~
-{{description>craftsman.}}
+---json
+{
+    "name":"kārikara",
+    "h1":"kārikara",
+    "title":"kārikara",
+    "description":"craftsman."
+}
+---
 
 ==== kārikara  ====
   * craftsman --- [[books:cc:antya:14:44|Antya 14.44]]

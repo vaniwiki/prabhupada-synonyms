@@ -1,5 +1,11 @@
-~~Title:pūrveṇa~~
-{{description>on the eastern side.}}
+---json
+{
+    "name":"pūrveṇa",
+    "h1":"pūrveṇa",
+    "title":"pūrveṇa",
+    "description":"on the eastern side."
+}
+---
 
 ==== pūrveṇa  ====
   * on the eastern side --- [[books:sb:5:16:17|SB 5.16.17]], [[books:sb:5:16:27|SB 5.16.27]]

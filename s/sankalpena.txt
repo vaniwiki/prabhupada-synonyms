@@ -1,5 +1,11 @@
-~~Title:saṅkalpena~~
-{{description>by Dhruva Mahārāja, who had only good desires in his heart.}}
+---json
+{
+    "name":"saṅkalpena",
+    "h1":"saṅkalpena",
+    "title":"saṅkalpena",
+    "description":"by Dhruva Mahārāja, who had only good desires in his heart."
+}
+---
 
 ==== sat-saṅkalpena  ====
   * by Dhruva Mahārāja, who had only good desires in his heart --- [[books:sb:4:9:18|SB 4.9.18]]

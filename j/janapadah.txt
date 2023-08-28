@@ -1,5 +1,11 @@
-~~Title:jānapadāḥ~~
-{{description>the provincial governors.}}
+---json
+{
+    "name":"jānapadāḥ",
+    "h1":"jānapadāḥ",
+    "title":"jānapadāḥ",
+    "description":"the provincial governors."
+}
+---
 
 ==== jānapadāḥ  ====
   * the provincial governors --- [[books:sb:6:14:19|SB 6.14.19]]

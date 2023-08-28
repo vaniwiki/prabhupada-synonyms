@@ -1,5 +1,11 @@
-~~Title:svayambhu~~
-{{description>Svayambhu.}}
+---json
+{
+    "name":"svayambhu",
+    "h1":"svayambhu",
+    "title":"svayambhu",
+    "description":"Svayambhu."
+}
+---
 
 ==== svayambhu  ====
   * Svayambhu --- [[books:cc:madhya:17:191|Madhya 17.191]]

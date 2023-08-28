@@ -1,5 +1,11 @@
-~~Title:vibhutā~~
-{{description>opulences.}}
+---json
+{
+    "name":"vibhutā",
+    "h1":"vibhutā",
+    "title":"vibhutā",
+    "description":"opulences."
+}
+---
 
 ==== vibhutā  ====
   * opulences --- [[books:cc:madhya:21:28|Madhya 21.28]]

@@ -1,5 +1,11 @@
-~~Title:dhanuka~~
-{{description>break your bow.}}
+---json
+{
+    "name":"dhanuka",
+    "h1":"dhanuka",
+    "title":"dhanuka",
+    "description":"break your bow."
+}
+---
 
 ==== dhanuka bhāṅga  ====
   * break your bow --- [[books:cc:madhya:24:256|Madhya 24.256]]

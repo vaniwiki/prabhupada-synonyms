@@ -1,5 +1,11 @@
-~~Title:amṛtaḥ~~
-{{description>immortal.}}
+---json
+{
+    "name":"amṛtaḥ",
+    "h1":"amṛtaḥ",
+    "title":"amṛtaḥ",
+    "description":"immortal."
+}
+---
 
 ==== amṛtaḥ  ====
   * immortal --- [[books:nbs:4|NBS 4]]

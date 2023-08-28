@@ -1,5 +1,11 @@
-~~Title:tarja~~
-{{description>reads some poetic passages.}}
+---json
+{
+    "name":"tarja",
+    "h1":"tarja",
+    "title":"tarja",
+    "description":"reads some poetic passages."
+}
+---
 
 ==== tarjā paḍe  ====
   * reads some poetic passages --- [[books:cc:madhya:16:60|Madhya 16.60]]

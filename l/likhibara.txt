@@ -1,5 +1,11 @@
-~~Title:likhibāra~~
-{{description>write.}}
+---json
+{
+    "name":"likhibāra",
+    "h1":"likhibāra",
+    "title":"likhibāra",
+    "description":"write."
+}
+---
 
 ==== likhibāra  ====
   * write --- [[books:cc:adi:12:55|Ādi 12.55]]

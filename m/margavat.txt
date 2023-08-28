@@ -1,5 +1,11 @@
-~~Title:mārgavat~~
-{{description>lanes.}}
+---json
+{
+    "name":"mārgavat",
+    "h1":"mārgavat",
+    "title":"mārgavat",
+    "description":"lanes."
+}
+---
 
 ==== mārgavat  ====
   * lanes --- [[books:sb:4:21:2|SB 4.21.2]]

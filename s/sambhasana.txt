@@ -1,5 +1,11 @@
-~~Title:sambhāṣaṇa~~
-{{description>address; discussion.}}
+---json
+{
+    "name":"sambhāṣaṇa",
+    "h1":"sambhāṣaṇa",
+    "title":"sambhāṣaṇa",
+    "description":"address; discussion."
+}
+---
 
 ==== sambhāṣaṇa  ====
   * address --- [[books:cc:madhya:11:130|Madhya 11.130]]

@@ -1,5 +1,11 @@
-~~Title:śuniye~~
-{{description>I hear.}}
+---json
+{
+    "name":"śuniye",
+    "h1":"śuniye",
+    "title":"śuniye",
+    "description":"I hear."
+}
+---
 
 ==== śuniye  ====
   * I hear --- [[books:cc:madhya:21:18|Madhya 21.18]]

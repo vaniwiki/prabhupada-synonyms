@@ -1,5 +1,11 @@
-~~Title:vaktavyam~~
-{{description>speeches.}}
+---json
+{
+    "name":"vaktavyam",
+    "h1":"vaktavyam",
+    "title":"vaktavyam",
+    "description":"speeches."
+}
+---
 
 ==== vaktavyam  ====
   * speeches --- [[books:sb:3:6:12|SB 3.6.12]]

@@ -1,5 +1,11 @@
-~~Title:amaṅgalaḥ~~
-{{description>a little inauspicious in some other detail; inauspicious.}}
+---json
+{
+    "name":"amaṅgalaḥ",
+    "h1":"amaṅgalaḥ",
+    "title":"amaṅgalaḥ",
+    "description":"a little inauspicious in some other detail; inauspicious."
+}
+---
 
 ==== amaṅgalaḥ  ====
   * a little inauspicious in some other detail --- [[books:sb:8:8:22|SB 8.8.22]]

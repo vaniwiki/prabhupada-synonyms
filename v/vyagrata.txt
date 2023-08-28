@@ -1,5 +1,11 @@
-~~Title:vyagratā~~
-{{description>eagerness.}}
+---json
+{
+    "name":"vyagratā",
+    "h1":"vyagratā",
+    "title":"vyagratā",
+    "description":"eagerness."
+}
+---
 
 ==== vyagratā  ====
   * eagerness --- [[books:cc:madhya:3:173|Madhya 3.173]]

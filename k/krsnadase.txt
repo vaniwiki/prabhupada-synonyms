@@ -1,5 +1,11 @@
-~~Title:kṛṣṇadāse~~
-{{description>and the Rājaputa Kṛṣṇadāsa; Kālā Kṛṣṇadāsa; Kṛṣṇadāsa; Kṛṣṇadāsa, His assistant.}}
+---json
+{
+    "name":"kṛṣṇadāse",
+    "h1":"kṛṣṇadāse",
+    "title":"kṛṣṇadāse",
+    "description":"and the Rājaputa Kṛṣṇadāsa; Kālā Kṛṣṇadāsa; Kṛṣṇadāsa; Kṛṣṇadāsa, His assistant."
+}
+---
 
 ==== kṛṣṇadāse  ====
   * and the Rājaputa Kṛṣṇadāsa --- [[books:cc:madhya:18:215|Madhya 18.215]]

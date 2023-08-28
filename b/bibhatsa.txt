@@ -1,5 +1,11 @@
-~~Title:bībhatsa~~
-{{description>disaster; horrible.}}
+---json
+{
+    "name":"bībhatsa",
+    "h1":"bībhatsa",
+    "title":"bībhatsa",
+    "description":"disaster; horrible."
+}
+---
 
 ==== bībhatsa  ====
   * disaster --- [[books:cc:madhya:19:187|Madhya 19.187]]

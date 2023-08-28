@@ -1,5 +1,11 @@
-~~Title:aspṛṣṭa~~
-{{description>not touched; unaffected; untouched; who have not been contaminated; without touching.}}
+---json
+{
+    "name":"aspṛṣṭa",
+    "h1":"aspṛṣṭa",
+    "title":"aspṛṣṭa",
+    "description":"not touched; unaffected; untouched; who have not been contaminated; without touching."
+}
+---
 
 ==== aspṛṣṭa  ====
   * not touched --- [[books:sb:6:18:60|SB 6.18.60]]

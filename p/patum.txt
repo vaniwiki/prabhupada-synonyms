@@ -1,5 +1,11 @@
-~~Title:pātum~~
-{{description>for protection; to protect.}}
+---json
+{
+    "name":"pātum",
+    "h1":"pātum",
+    "title":"pātum",
+    "description":"for protection; to protect."
+}
+---
 
 ==== pātum  ====
   * for protection --- [[books:sb:3:12:32|SB 3.12.32]]

@@ -1,5 +1,11 @@
-~~Title:pracetasa~~
-{{description>with the demigod known as Varuṇa.}}
+---json
+{
+    "name":"pracetasa",
+    "h1":"pracetasa",
+    "title":"pracetasa",
+    "description":"with the demigod known as Varuṇa."
+}
+---
 
 ==== pracetasā  ====
   * with the demigod known as Varuṇa --- [[books:sb:7:12:26-28|SB 7.12.26-28]]

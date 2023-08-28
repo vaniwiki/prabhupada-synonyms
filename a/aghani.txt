@@ -1,5 +1,11 @@
-~~Title:aghāni~~
-{{description>sinful activities and their results.}}
+---json
+{
+    "name":"aghāni",
+    "h1":"aghāni",
+    "title":"aghāni",
+    "description":"sinful activities and their results."
+}
+---
 
 ==== aghāni  ====
   * sinful activities and their results --- [[books:sb:6:2:17|SB 6.2.17]]

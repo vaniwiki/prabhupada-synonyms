@@ -1,5 +1,11 @@
-~~Title:sraṣṭṛ~~
-{{description>were creators and protectors.}}
+---json
+{
+    "name":"sraṣṭṛ",
+    "h1":"sraṣṭṛ",
+    "title":"sraṣṭṛ",
+    "description":"were creators and protectors."
+}
+---
 
 ==== sraṣṭṛ-pālakāḥ  ====
   * were creators and protectors --- [[books:sb:10:13:50|SB 10.13.50]]

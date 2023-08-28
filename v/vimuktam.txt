@@ -1,5 +1,11 @@
-~~Title:vimuktam~~
-{{description>uncontaminated.}}
+---json
+{
+    "name":"vimuktam",
+    "h1":"vimuktam",
+    "title":"vimuktam",
+    "description":"uncontaminated."
+}
+---
 
 ==== vimuktam  ====
   * uncontaminated --- [[books:sb:4:11:29|SB 4.11.29]]

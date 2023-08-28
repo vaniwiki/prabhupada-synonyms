@@ -1,5 +1,11 @@
-~~Title:snehāt~~
-{{description>because of affection; by affection; due to affection; from affection; or by affection; out of affection.}}
+---json
+{
+    "name":"snehāt",
+    "h1":"snehāt",
+    "title":"snehāt",
+    "description":"because of affection; by affection; due to affection; from affection; or by affection; out of affection."
+}
+---
 
 ==== snehāt  ====
   * because of affection --- [[books:sb:9:14:6|SB 9.14.6]]

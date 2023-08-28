@@ -1,5 +1,11 @@
-~~Title:āścaryāṇi~~
-{{description>all the wonderful.}}
+---json
+{
+    "name":"āścaryāṇi",
+    "h1":"āścaryāṇi",
+    "title":"āścaryāṇi",
+    "description":"all the wonderful."
+}
+---
 
 ==== āścaryāṇi  ====
   * all the wonderful --- [[books:bg:11:6|Bg. 11.6]]

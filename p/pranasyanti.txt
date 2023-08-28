@@ -1,5 +1,11 @@
-~~Title:praṇaśyanti~~
-{{description>becomes vanquished.}}
+---json
+{
+    "name":"praṇaśyanti",
+    "h1":"praṇaśyanti",
+    "title":"praṇaśyanti",
+    "description":"becomes vanquished."
+}
+---
 
 ==== praṇaśyanti  ====
   * becomes vanquished --- [[books:bg:1:39|Bg. 1.39]]

@@ -1,5 +1,11 @@
-~~Title:pataṅgī~~
-{{description>Pataṅgī.}}
+---json
+{
+    "name":"pataṅgī",
+    "h1":"pataṅgī",
+    "title":"pataṅgī",
+    "description":"Pataṅgī."
+}
+---
 
 ==== pataṅgī  ====
   * Pataṅgī --- [[books:sb:6:6:21-22|SB 6.6.21-22]]

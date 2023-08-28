@@ -1,5 +1,11 @@
-~~Title:spardhamānaḥ~~
-{{description>being envious.}}
+---json
+{
+    "name":"spardhamānaḥ",
+    "h1":"spardhamānaḥ",
+    "title":"spardhamānaḥ",
+    "description":"being envious."
+}
+---
 
 ==== spardhamānaḥ  ====
   * being envious --- [[books:sb:5:4:3|SB 5.4.3]]

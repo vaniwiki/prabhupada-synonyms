@@ -1,5 +1,11 @@
-~~Title:sanadvājaḥ~~
-{{description>Sanadvāja.}}
+---json
+{
+    "name":"sanadvājaḥ",
+    "h1":"sanadvājaḥ",
+    "title":"sanadvājaḥ",
+    "description":"Sanadvāja."
+}
+---
 
 ==== sanadvājaḥ  ====
   * Sanadvāja --- [[books:sb:9:13:22|SB 9.13.22]]

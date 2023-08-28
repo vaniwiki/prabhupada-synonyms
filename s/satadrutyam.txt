@@ -1,5 +1,11 @@
-~~Title:śatadrutyām~~
-{{description>in the womb of Śatadruti.}}
+---json
+{
+    "name":"śatadrutyām",
+    "h1":"śatadrutyām",
+    "title":"śatadrutyām",
+    "description":"in the womb of Śatadruti."
+}
+---
 
 ==== śatadrutyām  ====
   * in the womb of Śatadruti --- [[books:sb:4:24:13|SB 4.24.13]]

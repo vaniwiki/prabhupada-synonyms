@@ -1,5 +1,11 @@
-~~Title:kevalayā~~
-{{description>alone; with spiritual.}}
+---json
+{
+    "name":"kevalayā",
+    "h1":"kevalayā",
+    "title":"kevalayā",
+    "description":"alone; with spiritual."
+}
+---
 
 ==== kevalayā  ====
   * alone --- [[books:sb:7:13:22|SB 7.13.22]]

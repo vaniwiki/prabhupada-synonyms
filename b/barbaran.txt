@@ -1,5 +1,11 @@
-~~Title:barbarān~~
-{{description>and the Barbaras.}}
+---json
+{
+    "name":"barbarān",
+    "h1":"barbarān",
+    "title":"barbarān",
+    "description":"and the Barbaras."
+}
+---
 
 ==== barbarān  ====
   * and the Barbaras --- [[books:sb:9:8:5-6|SB 9.8.5-6]]

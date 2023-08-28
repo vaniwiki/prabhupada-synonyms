@@ -1,5 +1,11 @@
-~~Title:mithitvā~~
-{{description>being united with a woman.}}
+---json
+{
+    "name":"mithitvā",
+    "h1":"mithitvā",
+    "title":"mithitvā",
+    "description":"being united with a woman."
+}
+---
 
 ==== mithitvā  ====
   * being united with a woman --- [[books:sb:4:29:53|SB 4.29.53]]

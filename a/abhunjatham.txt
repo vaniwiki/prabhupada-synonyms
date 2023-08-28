@@ -1,5 +1,11 @@
-~~Title:abhuñjāthām~~
-{{description>enjoyed.}}
+---json
+{
+    "name":"abhuñjāthām",
+    "h1":"abhuñjāthām",
+    "title":"abhuñjāthām",
+    "description":"enjoyed."
+}
+---
 
 ==== abhuñjāthām  ====
   * enjoyed --- [[books:sb:10:3:40|SB 10.3.40]]

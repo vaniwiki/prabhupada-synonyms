@@ -1,5 +1,11 @@
-~~Title:dattagovinda~~
-{{description>Govinda Datta.}}
+---json
+{
+    "name":"dattagovinda",
+    "h1":"dattagovinda",
+    "title":"dattagovinda",
+    "description":"Govinda Datta."
+}
+---
 
 ==== dattagovinda  ====
   * Govinda Datta --- [[books:cc:madhya:13:37|Madhya 13.37]]

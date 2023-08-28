@@ -1,5 +1,11 @@
-~~Title:ṛtavaḥ~~
-{{description>the seasons.}}
+---json
+{
+    "name":"ṛtavaḥ",
+    "h1":"ṛtavaḥ",
+    "title":"ṛtavaḥ",
+    "description":"the seasons."
+}
+---
 
 ==== ṛtavaḥ  ====
   * the seasons --- [[books:sb:8:18:4|SB 8.18.4]]

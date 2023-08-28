@@ -1,5 +1,11 @@
-~~Title:sparśasya~~
-{{description>of the subtle element touch; of touch.}}
+---json
+{
+    "name":"sparśasya",
+    "h1":"sparśasya",
+    "title":"sparśasya",
+    "description":"of the subtle element touch; of touch."
+}
+---
 
 ==== sparśasya  ====
   * of the subtle element touch --- [[books:sb:3:26:36|SB 3.26.36]]

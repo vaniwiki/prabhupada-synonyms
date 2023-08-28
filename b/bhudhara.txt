@@ -1,5 +1,11 @@
-~~Title:bhūdharā~~
-{{description>with mountains.}}
+---json
+{
+    "name":"bhūdharā",
+    "h1":"bhūdharā",
+    "title":"bhūdharā",
+    "description":"with mountains."
+}
+---
 
 ==== sa-bhūdharā  ====
   * with mountains --- [[books:sb:3:13:40|SB 3.13.40]]

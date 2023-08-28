@@ -1,5 +1,11 @@
-~~Title:utthāya~~
-{{description>after getting up; after getting up from bed; after getting up from sleep; after standing up; arising; at once got up; for flourishing; getting up; having expired; having stood up; rising; standing up.}}
+---json
+{
+    "name":"utthāya",
+    "h1":"utthāya",
+    "title":"utthāya",
+    "description":"after getting up; after getting up from bed; after getting up from sleep; after standing up; arising; at once got up; for flourishing; getting up; having expired; having stood up; rising; standing up."
+}
+---
 
 ==== utthāya  ====
   * after getting up --- [[books:sb:4:31:4|SB 4.31.4]]

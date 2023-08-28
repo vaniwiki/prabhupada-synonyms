@@ -1,5 +1,11 @@
-~~Title:sad~~
-{{description>good behavior.}}
+---json
+{
+    "name":"sad",
+    "h1":"sad",
+    "title":"sad",
+    "description":"good behavior."
+}
+---
 
 ==== sad-ācāra  ====
   * good behavior --- [[books:cc:adi:10:89|Ādi 10.89]]

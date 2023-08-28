@@ -1,5 +1,11 @@
-~~Title:ūrdhve~~
-{{description>on the ceiling; upward.}}
+---json
+{
+    "name":"ūrdhve",
+    "h1":"ūrdhve",
+    "title":"ūrdhve",
+    "description":"on the ceiling; upward."
+}
+---
 
 ==== ūrdhve  ====
   * on the ceiling --- [[books:cc:madhya:12:98|Madhya 12.98]]

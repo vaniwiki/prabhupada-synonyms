@@ -1,5 +1,11 @@
-~~Title:khaṇḍe~~
-{{description>are destroyed; disappears; pass over; removes; vanquishes.}}
+---json
+{
+    "name":"khaṇḍe",
+    "h1":"khaṇḍe",
+    "title":"khaṇḍe",
+    "description":"are destroyed; disappears; pass over; removes; vanquishes."
+}
+---
 
 ==== khaṇḍe  ====
   * are destroyed --- [[books:cc:antya:4:44|Antya 4.44]]

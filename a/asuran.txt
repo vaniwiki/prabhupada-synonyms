@@ -1,5 +1,11 @@
-~~Title:asurān~~
-{{description>all the demons; the demons; unto the demons.}}
+---json
+{
+    "name":"asurān",
+    "h1":"asurān",
+    "title":"asurān",
+    "description":"all the demons; the demons; unto the demons."
+}
+---
 
 ==== asurān  ====
   * all the demons --- [[books:sb:6:8:42|SB 6.8.42]], [[books:sb:6:10:30|SB 6.10.30]], [[books:sb:8:5:19-20|SB 8.5.19-20]], [[books:sb:8:11:42|SB 8.11.42]]

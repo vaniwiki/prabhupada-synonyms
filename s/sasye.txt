@@ -1,5 +1,11 @@
-~~Title:śasye~~
-{{description>with the pulp.}}
+---json
+{
+    "name":"śasye",
+    "h1":"śasye",
+    "title":"śasye",
+    "description":"with the pulp."
+}
+---
 
 ==== śasye  ====
   * with the pulp --- [[books:cc:madhya:15:76|Madhya 15.76]]

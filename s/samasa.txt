@@ -1,5 +1,11 @@
-~~Title:samāsa~~
-{{description>generally; has become.}}
+---json
+{
+    "name":"samāsa",
+    "h1":"samāsa",
+    "title":"samāsa",
+    "description":"generally; has become."
+}
+---
 
 ==== samāsa  ====
   * generally --- [[books:sb:1:9:27|SB 1.9.27]]

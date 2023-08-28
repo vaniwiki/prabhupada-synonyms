@@ -1,5 +1,11 @@
-~~Title:sṛjiyā~~
-{{description>after creating; creating.}}
+---json
+{
+    "name":"sṛjiyā",
+    "h1":"sṛjiyā",
+    "title":"sṛjiyā",
+    "description":"after creating; creating."
+}
+---
 
 ==== sṛjiyā  ====
   * after creating --- [[books:cc:madhya:20:284|Madhya 20.284]]

@@ -1,5 +1,11 @@
-~~Title:asanat~~
-{{description>from the throne.}}
+---json
+{
+    "name":"asanat",
+    "h1":"asanat",
+    "title":"asanat",
+    "description":"from the throne."
+}
+---
 
 ==== āsanāt  ====
   * from the throne --- [[books:sb:6:7:2-8|SB 6.7.2-8]]

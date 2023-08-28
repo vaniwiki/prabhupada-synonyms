@@ -1,5 +1,11 @@
-~~Title:māyābhiḥ~~
-{{description>by conjuring tricks; by exhibiting illusions; by so-called mystic power or material advancement of science.}}
+---json
+{
+    "name":"māyābhiḥ",
+    "h1":"māyābhiḥ",
+    "title":"māyābhiḥ",
+    "description":"by conjuring tricks; by exhibiting illusions; by so-called mystic power or material advancement of science."
+}
+---
 
 ==== māyābhiḥ  ====
   * by conjuring tricks --- [[books:sb:7:5:43-44|SB 7.5.43-44]]

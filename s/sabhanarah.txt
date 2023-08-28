@@ -1,5 +1,11 @@
-~~Title:sabhānaraḥ~~
-{{description>Sabhānara.}}
+---json
+{
+    "name":"sabhānaraḥ",
+    "h1":"sabhānaraḥ",
+    "title":"sabhānaraḥ",
+    "description":"Sabhānara."
+}
+---
 
 ==== sabhānaraḥ  ====
   * Sabhānara --- [[books:sb:9:23:1|SB 9.23.1]]

@@ -1,5 +1,11 @@
-~~Title:kroḍa~~
-{{description>in the hole; of a boar.}}
+---json
+{
+    "name":"kroḍa",
+    "h1":"kroḍa",
+    "title":"kroḍa",
+    "description":"in the hole; of a boar."
+}
+---
 
 ==== kroḍa  ====
   * in the hole --- [[books:cc:antya:1:99|Antya 1.99]], [[books:cc:antya:1:120|Antya 1.120]]

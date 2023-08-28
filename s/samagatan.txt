@@ -1,5 +1,11 @@
-~~Title:samāgatān~~
-{{description>to the assembled guests; who were assembled there.}}
+---json
+{
+    "name":"samāgatān",
+    "h1":"samāgatān",
+    "title":"samāgatān",
+    "description":"to the assembled guests; who were assembled there."
+}
+---
 
 ==== samāgatān  ====
   * to the assembled guests --- [[books:sb:10:7:6|SB 10.7.6]]

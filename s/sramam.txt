@@ -1,5 +1,11 @@
-~~Title:sramam~~
-{{description>fatigue.}}
+---json
+{
+    "name":"sramam",
+    "h1":"sramam",
+    "title":"sramam",
+    "description":"fatigue."
+}
+---
 
 ==== śramam  ====
   * fatigue --- [[books:cc:antya:18:25|Antya 18.25]]

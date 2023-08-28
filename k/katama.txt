@@ -1,5 +1,11 @@
-~~Title:katamā~~
-{{description>which of them.}}
+---json
+{
+    "name":"katamā",
+    "h1":"katamā",
+    "title":"katamā",
+    "description":"which of them."
+}
+---
 
 ==== katamā  ====
   * which of them --- [[books:sb:7:15:59|SB 7.15.59]]

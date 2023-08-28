@@ -1,5 +1,11 @@
-~~Title:kahibāra~~
-{{description>to be spoken; to speak; to speak this.}}
+---json
+{
+    "name":"kahibāra",
+    "h1":"kahibāra",
+    "title":"kahibāra",
+    "description":"to be spoken; to speak; to speak this."
+}
+---
 
 ==== kahibāra  ====
   * to be spoken --- [[books:cc:antya:5:37|Antya 5.37]]

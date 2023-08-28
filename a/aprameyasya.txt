@@ -1,5 +1,11 @@
-~~Title:aprameyasya~~
-{{description>immeasurable; of the Transcendence.}}
+---json
+{
+    "name":"aprameyasya",
+    "h1":"aprameyasya",
+    "title":"aprameyasya",
+    "description":"immeasurable; of the Transcendence."
+}
+---
 
 ==== aprameyasya  ====
   * immeasurable --- [[books:bg:2:18|Bg. 2.18]]

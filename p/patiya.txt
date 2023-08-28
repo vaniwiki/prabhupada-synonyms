@@ -1,5 +1,11 @@
-~~Title:patiya~~
-{{description>spreading.}}
+---json
+{
+    "name":"patiya",
+    "h1":"patiya",
+    "title":"patiya",
+    "description":"spreading."
+}
+---
 
 ==== pātiyā  ====
   * spreading --- [[books:cc:madhya:4:81|Madhya 4.81]]

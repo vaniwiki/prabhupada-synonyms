@@ -1,5 +1,11 @@
-~~Title:khidyati~~
-{{description>is disturbed.}}
+---json
+{
+    "name":"khidyati",
+    "h1":"khidyati",
+    "title":"khidyati",
+    "description":"is disturbed."
+}
+---
 
 ==== khidyati  ====
   * is disturbed --- [[books:sb:3:4:16|SB 3.4.16]]

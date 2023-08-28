@@ -1,5 +1,11 @@
-~~Title:yājapura~~
-{{description>when coming to Yājapura.}}
+---json
+{
+    "name":"yājapura",
+    "h1":"yājapura",
+    "title":"yājapura",
+    "description":"when coming to Yājapura."
+}
+---
 
 ==== yājapura āsi'  ====
   * when coming to Yājapura --- [[books:cc:madhya:16:150|Madhya 16.150]]

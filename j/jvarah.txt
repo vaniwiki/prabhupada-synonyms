@@ -1,5 +1,11 @@
-~~Title:jvarah~~
-{{description>a fever; fever.}}
+---json
+{
+    "name":"jvarah",
+    "h1":"jvarah",
+    "title":"jvarah",
+    "description":"a fever; fever."
+}
+---
 
 ==== jvaraḥ  ====
   * a fever --- [[books:sb:6:14:37|SB 6.14.37]]

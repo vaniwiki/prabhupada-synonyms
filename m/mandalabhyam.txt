@@ -1,5 +1,11 @@
-~~Title:maṇḍalābhyām~~
-{{description>the spheres.}}
+---json
+{
+    "name":"maṇḍalābhyām",
+    "h1":"maṇḍalābhyām",
+    "title":"maṇḍalābhyām",
+    "description":"the spheres."
+}
+---
 
 ==== maṇḍalābhyām  ====
   * the spheres --- [[books:sb:5:22:7|SB 5.22.7]]

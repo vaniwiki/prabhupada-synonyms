@@ -1,5 +1,11 @@
-~~Title:jayaḥ~~
-{{description>a son named Jaya; conquering; conqueror; controlling; Jaya; named Jaya; victory.}}
+---json
+{
+    "name":"jayaḥ",
+    "h1":"jayaḥ",
+    "title":"jayaḥ",
+    "description":"a son named Jaya; conquering; conqueror; controlling; Jaya; named Jaya; victory."
+}
+---
 
 ==== jayaḥ  ====
   * a son named Jaya --- [[books:sb:9:17:17|SB 9.17.17]]

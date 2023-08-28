@@ -1,5 +1,11 @@
-~~Title:rāmadāsaabhirāma~~
-{{description>of the name Rāmadāsa Abhirāma.}}
+---json
+{
+    "name":"rāmadāsaabhirāma",
+    "h1":"rāmadāsaabhirāma",
+    "title":"rāmadāsaabhirāma",
+    "description":"of the name Rāmadāsa Abhirāma."
+}
+---
 
 ==== rāmadāsaabhirāma  ====
   * of the name Rāmadāsa Abhirāma --- [[books:cc:adi:10:116|Ādi 10.116]]

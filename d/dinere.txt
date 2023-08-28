@@ -1,5 +1,11 @@
-~~Title:dīnere~~
-{{description>to the humble.}}
+---json
+{
+    "name":"dīnere",
+    "h1":"dīnere",
+    "title":"dīnere",
+    "description":"to the humble."
+}
+---
 
 ==== dīnere  ====
   * to the humble --- [[books:cc:antya:4:68|Antya 4.68]]

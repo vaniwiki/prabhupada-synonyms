@@ -1,5 +1,11 @@
-~~Title:pṛṣatkaiḥ~~
-{{description>by his arrows.}}
+---json
+{
+    "name":"pṛṣatkaiḥ",
+    "h1":"pṛṣatkaiḥ",
+    "title":"pṛṣatkaiḥ",
+    "description":"by his arrows."
+}
+---
 
 ==== pṛṣatkaiḥ  ====
   * by his arrows --- [[books:sb:4:11:5|SB 4.11.5]]

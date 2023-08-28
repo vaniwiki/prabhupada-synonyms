@@ -1,5 +1,11 @@
-~~Title:ālayatām~~
-{{description>the quality of being an ocean containing valuable jewels.}}
+---json
+{
+    "name":"ālayatām",
+    "h1":"ālayatām",
+    "title":"ālayatām",
+    "description":"the quality of being an ocean containing valuable jewels."
+}
+---
 
 ==== ratna-ālayatām  ====
   * the quality of being an ocean containing valuable jewels --- [[books:cc:madhya:8:1|Madhya 8.1]]

@@ -1,5 +1,11 @@
-~~Title:naiṣkarmyam~~
-{{description>freedom from reaction; nonfruitive; self-realization, being freed from the reactions of fruitive work; the path of liberation; which does not produce enjoyment of the resultant action.}}
+---json
+{
+    "name":"naiṣkarmyam",
+    "h1":"naiṣkarmyam",
+    "title":"naiṣkarmyam",
+    "description":"freedom from reaction; nonfruitive; self-realization, being freed from the reactions of fruitive work; the path of liberation; which does not produce enjoyment of the resultant action."
+}
+---
 
 ==== naiṣkarmyam  ====
   * freedom from reaction --- [[books:bg:3:4|Bg. 3.4]]

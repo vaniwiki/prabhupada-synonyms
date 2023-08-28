@@ -1,5 +1,11 @@
-~~Title:dhvajaḥ~~
-{{description>ensigns; flags.}}
+---json
+{
+    "name":"dhvajaḥ",
+    "h1":"dhvajaḥ",
+    "title":"dhvajaḥ",
+    "description":"ensigns; flags."
+}
+---
 
 ==== dhvajaḥ  ====
   * ensigns --- [[books:sb:3:17:5|SB 3.17.5]]

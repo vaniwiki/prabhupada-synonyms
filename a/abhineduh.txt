@@ -1,5 +1,11 @@
-~~Title:abhineduḥ~~
-{{description>responded.}}
+---json
+{
+    "name":"abhineduḥ",
+    "h1":"abhineduḥ",
+    "title":"abhineduḥ",
+    "description":"responded."
+}
+---
 
 ==== abhineduḥ  ====
   * responded --- [[books:sb:1:2:2|SB 1.2.2]]

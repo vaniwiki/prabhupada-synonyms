@@ -1,5 +1,11 @@
-~~Title:jana~~
-{{description>a person; by persons; followers; in the devotee; inhabitants; of people; of persons; of the associates; people; people in general; person; personalities; persons; souls; the person.}}
+---json
+{
+    "name":"jana",
+    "h1":"jana",
+    "title":"jana",
+    "description":"a person; by persons; followers; in the devotee; inhabitants; of people; of persons; of the associates; people; people in general; person; personalities; persons; souls; the person."
+}
+---
 
 ==== jana  ====
   * a person --- [[books:cc:madhya:8:221|Madhya 8.221]]

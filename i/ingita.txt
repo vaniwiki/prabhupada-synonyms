@@ -1,5 +1,11 @@
-~~Title:iṅgita~~
-{{description>acceptance; indication; indications.}}
+---json
+{
+    "name":"iṅgita",
+    "h1":"iṅgita",
+    "title":"iṅgita",
+    "description":"acceptance; indication; indications."
+}
+---
 
 ==== iṅgita  ====
   * acceptance --- [[books:cc:madhya:15:199|Madhya 15.199]]

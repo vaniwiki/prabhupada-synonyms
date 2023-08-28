@@ -1,5 +1,11 @@
-~~Title:liṅgāni~~
-{{description>forms.}}
+---json
+{
+    "name":"liṅgāni",
+    "h1":"liṅgāni",
+    "title":"liṅgāni",
+    "description":"forms."
+}
+---
 
 ==== liṅgāni  ====
   * forms --- [[books:sb:2:3:22|SB 2.3.22]]

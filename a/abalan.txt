@@ -1,5 +1,11 @@
-~~Title:abalān~~
-{{description>those who are helpless.}}
+---json
+{
+    "name":"abalān",
+    "h1":"abalān",
+    "title":"abalān",
+    "description":"those who are helpless."
+}
+---
 
 ==== abalān  ====
   * those who are helpless --- [[books:sb:1:17:5|SB 1.17.5]]

@@ -1,5 +1,11 @@
-~~Title:vicukṣubhuḥ~~
-{{description>became turbulent.}}
+---json
+{
+    "name":"vicukṣubhuḥ",
+    "h1":"vicukṣubhuḥ",
+    "title":"vicukṣubhuḥ",
+    "description":"became turbulent."
+}
+---
 
 ==== vicukṣubhuḥ  ====
   * became turbulent --- [[books:sb:7:8:32|SB 7.8.32]]

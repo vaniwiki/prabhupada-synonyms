@@ -1,5 +1,11 @@
-~~Title:śvaphalka~~
-{{description>the son of Śvaphalka, Akrūra.}}
+---json
+{
+    "name":"śvaphalka",
+    "h1":"śvaphalka",
+    "title":"śvaphalka",
+    "description":"the son of Śvaphalka, Akrūra."
+}
+---
 
 ==== śvaphalka-putraḥ  ====
   * the son of Śvaphalka, Akrūra --- [[books:sb:3:1:32|SB 3.1.32]]

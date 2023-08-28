@@ -1,5 +1,11 @@
-~~Title:rahasyam~~
-{{description>mysteries; mystery; solitary.}}
+---json
+{
+    "name":"rahasyam",
+    "h1":"rahasyam",
+    "title":"rahasyam",
+    "description":"mysteries; mystery; solitary."
+}
+---
 
 ==== rahasyam  ====
   * mysteries --- [[books:sb:1:6:36|SB 1.6.36]]

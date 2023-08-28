@@ -1,5 +1,11 @@
-~~Title:sukhaiḥ~~
-{{description>happiness.}}
+---json
+{
+    "name":"sukhaiḥ",
+    "h1":"sukhaiḥ",
+    "title":"sukhaiḥ",
+    "description":"happiness."
+}
+---
 
 ==== sukhaiḥ  ====
   * happiness --- [[books:sb:9:6:48|SB 9.6.48]]

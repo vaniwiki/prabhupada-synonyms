@@ -1,5 +1,11 @@
-~~Title:prakāśam~~
-{{description>enlightening.}}
+---json
+{
+    "name":"prakāśam",
+    "h1":"prakāśam",
+    "title":"prakāśam",
+    "description":"enlightening."
+}
+---
 
 ==== prakāśam  ====
   * enlightening --- [[books:sb:3:4:18|SB 3.4.18]], [[books:sb:3:4:25|SB 3.4.25]]

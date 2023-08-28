@@ -1,5 +1,11 @@
-~~Title:nirhāraḥ~~
-{{description>counteraction of fruitive activities.}}
+---json
+{
+    "name":"nirhāraḥ",
+    "h1":"nirhāraḥ",
+    "title":"nirhāraḥ",
+    "description":"counteraction of fruitive activities."
+}
+---
 
 ==== karma-nirhāraḥ  ====
   * counteraction of fruitive activities --- [[books:sb:6:1:11|SB 6.1.11]]

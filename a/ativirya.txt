@@ -1,5 +1,11 @@
-~~Title:ativīrya~~
-{{description>so powerful that it could pierce the body of the very powerful Vṛtrāsura.}}
+---json
+{
+    "name":"ativīrya",
+    "h1":"ativīrya",
+    "title":"ativīrya",
+    "description":"so powerful that it could pierce the body of the very powerful Vṛtrāsura."
+}
+---
 
 ==== ativīrya-vṛtra-bhit  ====
   * so powerful that it could pierce the body of the very powerful Vṛtrāsura --- [[books:sb:8:11:32|SB 8.11.32]]

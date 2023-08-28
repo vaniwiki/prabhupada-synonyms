@@ -1,5 +1,11 @@
-~~Title:pāilegosāñi~~
-{{description>you have gotten the shelter of the lotus feet of Lord Caitanya Mahāprabhu.}}
+---json
+{
+    "name":"pāilegosāñi",
+    "h1":"pāilegosāñi",
+    "title":"pāilegosāñi",
+    "description":"you have gotten the shelter of the lotus feet of Lord Caitanya Mahāprabhu."
+}
+---
 
 ==== pāilegosāñi  ====
   * you have gotten the shelter of the lotus feet of Lord Caitanya Mahāprabhu --- [[books:cc:madhya:1:220|Madhya 1.220]]

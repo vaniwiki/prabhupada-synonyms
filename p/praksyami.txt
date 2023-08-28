@@ -1,5 +1,11 @@
-~~Title:prakṣyāmi~~
-{{description>I shall submit.}}
+---json
+{
+    "name":"prakṣyāmi",
+    "h1":"prakṣyāmi",
+    "title":"prakṣyāmi",
+    "description":"I shall submit."
+}
+---
 
 ==== prakṣyāmi  ====
   * I shall submit --- [[books:sb:5:12:3|SB 5.12.3]]

@@ -1,5 +1,11 @@
-~~Title:vraje~~
-{{description>at Vṛndāvana; in Goloka Vṛndāvana; in the land surrounding the cowshed; in the pasturing ground; in Vraja (Vṛndāvana); in Vraja; in Vrajabhūmi; in Vrajabhūmi, Vṛndāvana; in Vṛndāvana; to Vṛndāvana-dhāma; Vṛndāvana.}}
+---json
+{
+    "name":"vraje",
+    "h1":"vraje",
+    "title":"vraje",
+    "description":"at Vṛndāvana; in Goloka Vṛndāvana; in the land surrounding the cowshed; in the pasturing ground; in Vraja (Vṛndāvana); in Vraja; in Vrajabhūmi; in Vrajabhūmi, Vṛndāvana; in Vṛndāvana; to Vṛndāvana-dhāma; Vṛndāvana."
+}
+---
 
 ==== vraje  ====
   * at Vṛndāvana --- [[books:sb:2:7:28|SB 2.7.28]], [[books:sb:10:1:10|SB 10.1.10]], [[books:cc:madhya:13:130|Madhya 13.130]], [[books:cc:madhya:15:241|Madhya 15.241]]

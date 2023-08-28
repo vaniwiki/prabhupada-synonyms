@@ -1,5 +1,11 @@
-~~Title:caramaḥ~~
-{{description>last; the ultimate; ultimate.}}
+---json
+{
+    "name":"caramaḥ",
+    "h1":"caramaḥ",
+    "title":"caramaḥ",
+    "description":"last; the ultimate; ultimate."
+}
+---
 
 ==== caramaḥ  ====
   * last --- [[books:sb:3:28:37|SB 3.28.37]]

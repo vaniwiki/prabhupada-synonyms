@@ -1,5 +1,11 @@
-~~Title:adhanya~~
-{{description>inauspicious; most inglorious.}}
+---json
+{
+    "name":"adhanya",
+    "h1":"adhanya",
+    "title":"adhanya",
+    "description":"inauspicious; most inglorious."
+}
+---
 
 ==== adhanya  ====
   * inauspicious --- [[books:cc:madhya:2:59|Madhya 2.59]]

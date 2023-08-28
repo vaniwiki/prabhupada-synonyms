@@ -1,5 +1,11 @@
-~~Title:puṣpaka~~
-{{description>seated on the airplane made of flowers.}}
+---json
+{
+    "name":"puṣpaka",
+    "h1":"puṣpaka",
+    "title":"puṣpaka",
+    "description":"seated on the airplane made of flowers."
+}
+---
 
 ==== puṣpaka-sthaḥ  ====
   * seated on the airplane made of flowers --- [[books:sb:9:10:44|SB 9.10.44]]

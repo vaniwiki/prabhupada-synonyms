@@ -1,5 +1,11 @@
-~~Title:phalila~~
-{{description>fructified.}}
+---json
+{
+    "name":"phalila",
+    "h1":"phalila",
+    "title":"phalila",
+    "description":"fructified."
+}
+---
 
 ==== phalila  ====
   * fructified --- [[books:cc:antya:3:144|Antya 3.144]]

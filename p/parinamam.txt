@@ -1,5 +1,11 @@
-~~Title:pariṇāmam~~
-{{description>resultant.}}
+---json
+{
+    "name":"pariṇāmam",
+    "h1":"pariṇāmam",
+    "title":"pariṇāmam",
+    "description":"resultant."
+}
+---
 
 ==== pariṇāmam  ====
   * resultant --- [[books:sb:2:8:14|SB 2.8.14]]

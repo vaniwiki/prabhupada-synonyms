@@ -1,5 +1,11 @@
-~~Title:gurubhiḥ~~
-{{description>by elderly relatives; by persons on the level of my spiritual master; by the spiritual masters; by the teachers.}}
+---json
+{
+    "name":"gurubhiḥ",
+    "h1":"gurubhiḥ",
+    "title":"gurubhiḥ",
+    "description":"by elderly relatives; by persons on the level of my spiritual master; by the spiritual masters; by the teachers."
+}
+---
 
 ==== gurubhiḥ  ====
   * by elderly relatives --- [[books:sb:1:11:23|SB 1.11.23]]

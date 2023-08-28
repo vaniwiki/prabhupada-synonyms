@@ -1,5 +1,11 @@
-~~Title:mriyamāṇānām~~
-{{description>of those who are about to die; on the threshold of death.}}
+---json
+{
+    "name":"mriyamāṇānām",
+    "h1":"mriyamāṇānām",
+    "title":"mriyamāṇānām",
+    "description":"of those who are about to die; on the threshold of death."
+}
+---
 
 ==== mriyamāṇānām  ====
   * of those who are about to die --- [[books:sb:1:19:36|SB 1.19.36]]

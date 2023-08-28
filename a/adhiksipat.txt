@@ -1,5 +1,11 @@
-~~Title:adhikṣipat~~
-{{description>putting to shame.}}
+---json
+{
+    "name":"adhikṣipat",
+    "h1":"adhikṣipat",
+    "title":"adhikṣipat",
+    "description":"putting to shame."
+}
+---
 
 ==== adhikṣipat  ====
   * putting to shame --- [[books:sb:3:28:30|SB 3.28.30]]

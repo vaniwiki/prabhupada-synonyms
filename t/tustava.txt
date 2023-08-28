@@ -1,5 +1,11 @@
-~~Title:tuṣṭāva~~
-{{description>he prayed; he satisfied; pleased; recited prayers; satisfied.}}
+---json
+{
+    "name":"tuṣṭāva",
+    "h1":"tuṣṭāva",
+    "title":"tuṣṭāva",
+    "description":"he prayed; he satisfied; pleased; recited prayers; satisfied."
+}
+---
 
 ==== tuṣṭāva  ====
   * he prayed --- [[books:sb:1:9:31|SB 1.9.31]]

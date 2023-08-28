@@ -1,5 +1,11 @@
-~~Title:spṛdhoḥ~~
-{{description>competing; the two combatants.}}
+---json
+{
+    "name":"spṛdhoḥ",
+    "h1":"spṛdhoḥ",
+    "title":"spṛdhoḥ",
+    "description":"competing; the two combatants."
+}
+---
 
 ==== spṛdhoḥ  ====
   * competing --- [[books:sb:4:20:27|SB 4.20.27]]

@@ -1,5 +1,11 @@
-~~Title:hinah~~
-{{description>a son named Hīna; being bereft.}}
+---json
+{
+    "name":"hinah",
+    "h1":"hinah",
+    "title":"hinah",
+    "description":"a son named Hīna; being bereft."
+}
+---
 
 ==== hīnaḥ  ====
   * a son named Hīna --- [[books:sb:9:17:17|SB 9.17.17]]

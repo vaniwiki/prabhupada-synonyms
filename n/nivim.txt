@@ -1,5 +1,11 @@
-~~Title:nīvīm~~
-{{description>breast; garment; lower garment.}}
+---json
+{
+    "name":"nīvīm",
+    "h1":"nīvīm",
+    "title":"nīvīm",
+    "description":"breast; garment; lower garment."
+}
+---
 
 ==== nīvīm  ====
   * breast --- [[books:sb:9:1:30|SB 9.1.30]]

@@ -1,5 +1,11 @@
-~~Title:kapha~~
-{{description>with mucus.}}
+---json
+{
+    "name":"kapha",
+    "h1":"kapha",
+    "title":"kapha",
+    "description":"with mucus."
+}
+---
 
 ==== kapha  ====
   * with mucus --- [[books:sb:3:30:16|SB 3.30.16]]

@@ -1,5 +1,11 @@
-~~Title:satyānṛtam~~
-{{description>the occupation of satyānṛta.}}
+---json
+{
+    "name":"satyānṛtam",
+    "h1":"satyānṛtam",
+    "title":"satyānṛtam",
+    "description":"the occupation of satyānṛta."
+}
+---
 
 ==== satyānṛtam  ====
   * the occupation of //satyānṛta// --- [[books:sb:7:11:18-20|SB 7.11.18-20]]

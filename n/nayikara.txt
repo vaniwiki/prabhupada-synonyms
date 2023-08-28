@@ -1,5 +1,11 @@
-~~Title:nāyikāra~~
-{{description>of heroines; of the heroine.}}
+---json
+{
+    "name":"nāyikāra",
+    "h1":"nāyikāra",
+    "title":"nāyikāra",
+    "description":"of heroines; of the heroine."
+}
+---
 
 ==== nāyikāra  ====
   * of heroines --- [[books:cc:madhya:14:149|Madhya 14.149]]

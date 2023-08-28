@@ -1,5 +1,11 @@
-~~Title:parimārṣṭum~~
-{{description>for purifying the mind completely.}}
+---json
+{
+    "name":"parimārṣṭum",
+    "h1":"parimārṣṭum",
+    "title":"parimārṣṭum",
+    "description":"for purifying the mind completely."
+}
+---
 
 ==== parimārṣṭum  ====
   * for purifying the mind completely --- [[books:sb:1:10:23|SB 1.10.23]]

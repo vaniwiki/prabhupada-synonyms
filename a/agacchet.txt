@@ -1,5 +1,11 @@
-~~Title:āgacchet~~
-{{description>one should come.}}
+---json
+{
+    "name":"āgacchet",
+    "h1":"āgacchet",
+    "title":"āgacchet",
+    "description":"one should come."
+}
+---
 
 ==== āgacchet  ====
   * one should come --- [[books:bg:3:34|Bg. 3.34]]

@@ -1,5 +1,11 @@
-~~Title:sadṛkṣaḥ~~
-{{description>similar.}}
+---json
+{
+    "name":"sadṛkṣaḥ",
+    "h1":"sadṛkṣaḥ",
+    "title":"sadṛkṣaḥ",
+    "description":"similar."
+}
+---
 
 ==== sadṛkṣaḥ  ====
   * similar --- [[books:sb:3:1:30|SB 3.1.30]]

@@ -1,5 +1,11 @@
-~~Title:trivṛdbhiḥ~~
-{{description>by the three material modes of nature.}}
+---json
+{
+    "name":"trivṛdbhiḥ",
+    "h1":"trivṛdbhiḥ",
+    "title":"trivṛdbhiḥ",
+    "description":"by the three material modes of nature."
+}
+---
 
 ==== trivṛdbhiḥ  ====
   * by the three material modes of nature --- [[books:sb:6:4:27-28|SB 6.4.27-28]]

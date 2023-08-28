@@ -1,5 +1,11 @@
-~~Title:bhāratīra~~
-{{description>and of Brahmānanda Bhāratī.}}
+---json
+{
+    "name":"bhāratīra",
+    "h1":"bhāratīra",
+    "title":"bhāratīra",
+    "description":"and of Brahmānanda Bhāratī."
+}
+---
 
 ==== bhāratīra  ====
   * and of Brahmānanda Bhāratī --- [[books:cc:madhya:25:227|Madhya 25.227]]

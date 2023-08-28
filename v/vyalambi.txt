@@ -1,5 +1,11 @@
-~~Title:vyālambi~~
-{{description>extending down; scattered.}}
+---json
+{
+    "name":"vyālambi",
+    "h1":"vyālambi",
+    "title":"vyālambi",
+    "description":"extending down; scattered."
+}
+---
 
 ==== vyālambi  ====
   * extending down --- [[books:sb:3:28:24|SB 3.28.24]]

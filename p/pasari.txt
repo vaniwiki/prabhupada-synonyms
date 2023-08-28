@@ -1,5 +1,11 @@
-~~Title:pasari~~
-{{description>a dealer; shopkeepers; the shopkeepers.}}
+---json
+{
+    "name":"pasari",
+    "h1":"pasari",
+    "title":"pasari",
+    "description":"a dealer; shopkeepers; the shopkeepers."
+}
+---
 
 ==== pasāri  ====
   * a dealer --- [[books:cc:antya:19:98|Antya 19.98]]

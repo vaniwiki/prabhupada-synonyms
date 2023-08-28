@@ -1,5 +1,11 @@
-~~Title:rociṣe~~
-{{description>unto the supreme illumination.}}
+---json
+{
+    "name":"rociṣe",
+    "h1":"rociṣe",
+    "title":"rociṣe",
+    "description":"unto the supreme illumination."
+}
+---
 
 ==== sva-rociṣe  ====
   * unto the supreme illumination --- [[books:sb:4:24:34|SB 4.24.34]]

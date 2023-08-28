@@ -1,5 +1,11 @@
-~~Title:jiyaya~~
-{{description>he makes life continue.}}
+---json
+{
+    "name":"jiyaya",
+    "h1":"jiyaya",
+    "title":"jiyaya",
+    "description":"he makes life continue."
+}
+---
 
 ==== jīyāya  ====
   * he makes life continue --- [[books:cc:antya:19:44|Antya 19.44]]

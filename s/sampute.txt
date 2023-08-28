@@ -1,5 +1,11 @@
-~~Title:sampuṭe~~
-{{description>being caught by the grip of the lotus hand.}}
+---json
+{
+    "name":"sampuṭe",
+    "h1":"sampuṭe",
+    "title":"sampuṭe",
+    "description":"being caught by the grip of the lotus hand."
+}
+---
 
 ==== kara-kañja-sampuṭe  ====
   * being caught by the grip of the lotus hand --- [[books:sb:1:11:2|SB 1.11.2]]

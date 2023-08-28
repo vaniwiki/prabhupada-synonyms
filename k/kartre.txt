@@ -1,5 +1,11 @@
-~~Title:kartre~~
-{{description>the supreme creator.}}
+---json
+{
+    "name":"kartre",
+    "h1":"kartre",
+    "title":"kartre",
+    "description":"the supreme creator."
+}
+---
 
 ==== ādi-kartre  ====
   * the supreme creator --- [[books:bg:11:37|Bg. 11.37]]

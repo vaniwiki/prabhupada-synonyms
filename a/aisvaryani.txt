@@ -1,5 +1,11 @@
-~~Title:aiśvaryāṇi~~
-{{description>the mystic powers.}}
+---json
+{
+    "name":"aiśvaryāṇi",
+    "h1":"aiśvaryāṇi",
+    "title":"aiśvaryāṇi",
+    "description":"the mystic powers."
+}
+---
 
 ==== aiśvaryāṇi  ====
   * the mystic powers --- [[books:sb:5:6:1|SB 5.6.1]]

@@ -1,5 +1,11 @@
-~~Title:saiṁhikeyaḥ~~
-{{description>being the son of Siṁhikā.}}
+---json
+{
+    "name":"saiṁhikeyaḥ",
+    "h1":"saiṁhikeyaḥ",
+    "title":"saiṁhikeyaḥ",
+    "description":"being the son of Siṁhikā."
+}
+---
 
 ==== saiṁhikeyaḥ  ====
   * being the son of Siṁhikā --- [[books:sb:5:24:1|SB 5.24.1]]

@@ -1,5 +1,11 @@
-~~Title:koṭiśaḥ~~
-{{description>by the tens of millions; clustered; ten million.}}
+---json
+{
+    "name":"koṭiśaḥ",
+    "h1":"koṭiśaḥ",
+    "title":"koṭiśaḥ",
+    "description":"by the tens of millions; clustered; ten million."
+}
+---
 
 ==== koṭiśaḥ  ====
   * by the tens of millions --- [[books:sb:9:11:13-14|SB 9.11.13-14]]

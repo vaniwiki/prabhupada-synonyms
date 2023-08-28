@@ -1,5 +1,11 @@
-~~Title:padme~~
-{{description>on the lotus.}}
+---json
+{
+    "name":"padme",
+    "h1":"padme",
+    "title":"padme",
+    "description":"on the lotus."
+}
+---
 
 ==== padme  ====
   * on the lotus --- [[books:sb:3:4:13|SB 3.4.13]]

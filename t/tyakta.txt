@@ -1,5 +1,11 @@
-~~Title:tyakta~~
-{{description>given up; giving up; having given up; having left; left out; rejected; renounced.}}
+---json
+{
+    "name":"tyakta",
+    "h1":"tyakta",
+    "title":"tyakta",
+    "description":"given up; giving up; having given up; having left; left out; rejected; renounced."
+}
+---
 
 ==== tyakta  ====
   * given up --- [[books:cc:madhya:22:103|Madhya 22.103]], [[books:cc:madhya:22:144|Madhya 22.144]]

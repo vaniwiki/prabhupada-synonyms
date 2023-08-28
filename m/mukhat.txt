@@ -1,5 +1,11 @@
-~~Title:mukhāt~~
-{{description>from His mouth; from the lips of; from the mouth.}}
+---json
+{
+    "name":"mukhāt",
+    "h1":"mukhāt",
+    "title":"mukhāt",
+    "description":"from His mouth; from the lips of; from the mouth."
+}
+---
 
 ==== mukhāt  ====
   * from His mouth --- [[books:sb:8:5:41|SB 8.5.41]]

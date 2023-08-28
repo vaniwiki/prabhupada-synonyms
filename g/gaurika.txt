@@ -1,5 +1,11 @@
-~~Title:gaurika~~
-{{description>red oxide.}}
+---json
+{
+    "name":"gaurika",
+    "h1":"gaurika",
+    "title":"gaurika",
+    "description":"red oxide."
+}
+---
 
 ==== gaurika  ====
   * red oxide --- [[books:cc:antya:13:7|Antya 13.7]]

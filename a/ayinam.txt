@@ -1,5 +1,11 @@
-~~Title:ayinam~~
-{{description>traveling.}}
+---json
+{
+    "name":"ayinam",
+    "h1":"ayinam",
+    "title":"ayinam",
+    "description":"traveling."
+}
+---
 
 ==== ayinam  ====
   * traveling --- [[books:sb:3:25:39-40|SB 3.25.39-40]]

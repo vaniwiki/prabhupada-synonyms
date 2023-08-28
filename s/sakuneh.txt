@@ -1,5 +1,11 @@
-~~Title:śakuneḥ~~
-{{description>from Śakuni.}}
+---json
+{
+    "name":"śakuneḥ",
+    "h1":"śakuneḥ",
+    "title":"śakuneḥ",
+    "description":"from Śakuni."
+}
+---
 
 ==== śakuneḥ  ====
   * from Śakuni --- [[books:sb:9:24:5|SB 9.24.5]]

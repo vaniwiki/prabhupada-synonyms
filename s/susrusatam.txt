@@ -1,5 +1,11 @@
-~~Title:śuśrūṣatām~~
-{{description>for those who are always engaged in the service; of those eager to hear; those who are receptive; who are engaged in your service.}}
+---json
+{
+    "name":"śuśrūṣatām",
+    "h1":"śuśrūṣatām",
+    "title":"śuśrūṣatām",
+    "description":"for those who are always engaged in the service; of those eager to hear; those who are receptive; who are engaged in your service."
+}
+---
 
 ==== śuśrūṣatām  ====
   * for those who are always engaged in the service --- [[books:sb:7:8:42|SB 7.8.42]]

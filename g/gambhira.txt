@@ -1,5 +1,11 @@
-~~Title:gambhira~~
-{{description>as deep; deep; deeply; Gambhīra; grave; grave, secret; very deep; very deep and grave; very deep and mysterious; very grave.}}
+---json
+{
+    "name":"gambhira",
+    "h1":"gambhira",
+    "title":"gambhira",
+    "description":"as deep; deep; deeply; Gambhīra; grave; grave, secret; very deep; very deep and grave; very deep and mysterious; very grave."
+}
+---
 
 ==== gambhīra  ====
   * as deep --- [[books:cc:madhya:9:125|Madhya 9.125]]

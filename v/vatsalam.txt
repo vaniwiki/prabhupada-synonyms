@@ -1,5 +1,11 @@
-~~Title:vatsalam~~
-{{description>kind.}}
+---json
+{
+    "name":"vatsalam",
+    "h1":"vatsalam",
+    "title":"vatsalam",
+    "description":"kind."
+}
+---
 
 ==== vatsalam  ====
   * kind --- [[books:sb:4:12:12|SB 4.12.12]]

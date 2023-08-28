@@ -1,5 +1,11 @@
-~~Title:śrutāyoḥ~~
-{{description>of Śrutāyu.}}
+---json
+{
+    "name":"śrutāyoḥ",
+    "h1":"śrutāyoḥ",
+    "title":"śrutāyoḥ",
+    "description":"of Śrutāyu."
+}
+---
 
 ==== śrutāyoḥ  ====
   * of Śrutāyu --- [[books:sb:9:15:2-3|SB 9.15.2-3]]

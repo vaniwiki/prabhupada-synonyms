@@ -1,5 +1,11 @@
-~~Title:cirāyu~~
-{{description>born with a long life.}}
+---json
+{
+    "name":"cirāyu",
+    "h1":"cirāyu",
+    "title":"cirāyu",
+    "description":"born with a long life."
+}
+---
 
 ==== cirāyu  ====
   * born with a long life --- [[books:cc:adi:14:55|Ādi 14.55]]

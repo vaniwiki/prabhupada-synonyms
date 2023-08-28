@@ -1,5 +1,11 @@
-~~Title:narāntaka~~
-{{description>Narāntaka.}}
+---json
+{
+    "name":"narāntaka",
+    "h1":"narāntaka",
+    "title":"narāntaka",
+    "description":"Narāntaka."
+}
+---
 
 ==== narāntaka  ====
   * Narāntaka --- [[books:sb:9:10:18|SB 9.10.18]]

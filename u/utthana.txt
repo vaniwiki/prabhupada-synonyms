@@ -1,5 +1,11 @@
-~~Title:utthāna~~
-{{description>rising; standing.}}
+---json
+{
+    "name":"utthāna",
+    "h1":"utthāna",
+    "title":"utthāna",
+    "description":"rising; standing."
+}
+---
 
 ==== utthāna  ====
   * rising --- [[books:cc:madhya:4:88|Madhya 4.88]]

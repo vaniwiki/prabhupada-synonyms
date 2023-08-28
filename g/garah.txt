@@ -1,5 +1,11 @@
-~~Title:garaḥ~~
-{{description>poison.}}
+---json
+{
+    "name":"garaḥ",
+    "h1":"garaḥ",
+    "title":"garaḥ",
+    "description":"poison."
+}
+---
 
 ==== garaḥ  ====
   * poison --- [[books:sb:1:13:24|SB 1.13.24]], [[books:sb:9:8:4|SB 9.8.4]]

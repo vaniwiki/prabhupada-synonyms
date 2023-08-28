@@ -1,5 +1,11 @@
-~~Title:viṭapibhiḥ~~
-{{description>by many trees.}}
+---json
+{
+    "name":"viṭapibhiḥ",
+    "h1":"viṭapibhiḥ",
+    "title":"viṭapibhiḥ",
+    "description":"by many trees."
+}
+---
 
 ==== viṭapibhiḥ  ====
   * by many trees --- [[books:sb:5:17:13|SB 5.17.13]]

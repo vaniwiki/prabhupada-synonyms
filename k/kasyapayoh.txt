@@ -1,5 +1,11 @@
-~~Title:kaśyapayoḥ~~
-{{description>and of the great ṛṣi Kaśyapa.}}
+---json
+{
+    "name":"kaśyapayoḥ",
+    "h1":"kaśyapayoḥ",
+    "title":"kaśyapayoḥ",
+    "description":"and of the great ṛṣi Kaśyapa."
+}
+---
 
 ==== kaśyapayoḥ  ====
   * and of the great //ṛṣi// Kaśyapa --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

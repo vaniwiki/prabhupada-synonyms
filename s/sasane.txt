@@ -1,5 +1,11 @@
-~~Title:śāsane~~
-{{description>in his own governing situation.}}
+---json
+{
+    "name":"śāsane",
+    "h1":"śāsane",
+    "title":"śāsane",
+    "description":"in his own governing situation."
+}
+---
 
 ==== nija-śāsane  ====
   * in his own governing situation --- [[books:sb:4:14:19|SB 4.14.19]]

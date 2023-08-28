@@ -1,5 +1,11 @@
-~~Title:samupaśṛṇoti~~
-{{description>he hears with great attention.}}
+---json
+{
+    "name":"samupaśṛṇoti",
+    "h1":"samupaśṛṇoti",
+    "title":"samupaśṛṇoti",
+    "description":"he hears with great attention."
+}
+---
 
 ==== samupaśṛṇoti  ====
   * he hears with great attention --- [[books:sb:5:19:2|SB 5.19.2]]

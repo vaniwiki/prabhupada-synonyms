@@ -1,5 +1,11 @@
-~~Title:upeksaya~~
-{{description>being dependent on; by disregarding; by neglecting.}}
+---json
+{
+    "name":"upeksaya",
+    "h1":"upeksaya",
+    "title":"upeksaya",
+    "description":"being dependent on; by disregarding; by neglecting."
+}
+---
 
 ==== upekṣayā  ====
   * being dependent on --- [[books:sb:1:6:8|SB 1.6.8]]

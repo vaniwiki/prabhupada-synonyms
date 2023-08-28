@@ -1,5 +1,11 @@
-~~Title:praṇipāta~~
-{{description>Nanda Mahārāja fell down before him and offered obeisances.}}
+---json
+{
+    "name":"praṇipāta",
+    "h1":"praṇipāta",
+    "title":"praṇipāta",
+    "description":"Nanda Mahārāja fell down before him and offered obeisances."
+}
+---
 
 ==== praṇipāta-puraḥsaram  ====
   * Nanda Mahārāja fell down before him and offered obeisances --- [[books:sb:10:8:2|SB 10.8.2]]

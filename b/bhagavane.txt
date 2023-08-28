@@ -1,5 +1,11 @@
-~~Title:bhagavāne~~
-{{description>the Supreme Personality of Godhead; unto the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"bhagavāne",
+    "h1":"bhagavāne",
+    "title":"bhagavāne",
+    "description":"the Supreme Personality of Godhead; unto the Supreme Personality of Godhead."
+}
+---
 
 ==== bhagavāne  ====
   * the Supreme Personality of Godhead --- [[books:cc:madhya:24:85|Madhya 24.85]]

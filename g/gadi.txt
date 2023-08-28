@@ -1,5 +1,11 @@
-~~Title:gadi~~
-{{description>roll in the dust.}}
+---json
+{
+    "name":"gadi",
+    "h1":"gadi",
+    "title":"gadi",
+    "description":"roll in the dust."
+}
+---
 
 ==== gaḍi yāya dhūli  ====
   * roll in the dust --- [[books:cc:adi:17:194|Ādi 17.194]]

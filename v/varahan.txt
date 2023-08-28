@@ -1,5 +1,11 @@
-~~Title:varāhān~~
-{{description>boars.}}
+---json
+{
+    "name":"varāhān",
+    "h1":"varāhān",
+    "title":"varāhān",
+    "description":"boars."
+}
+---
 
 ==== varāhān  ====
   * boars --- [[books:sb:4:26:10|SB 4.26.10]]

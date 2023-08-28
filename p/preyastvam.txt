@@ -1,5 +1,11 @@
-~~Title:preyastvam~~
-{{description>to be more interesting.}}
+---json
+{
+    "name":"preyastvam",
+    "h1":"preyastvam",
+    "title":"preyastvam",
+    "description":"to be more interesting."
+}
+---
 
 ==== preyastvam  ====
   * to be more interesting --- [[books:sb:4:22:32|SB 4.22.32]]

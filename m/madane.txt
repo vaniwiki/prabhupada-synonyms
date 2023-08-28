@@ -1,5 +1,11 @@
-~~Title:mādane~~
-{{description>in the stage of mādana.}}
+---json
+{
+    "name":"mādane",
+    "h1":"mādane",
+    "title":"mādane",
+    "description":"in the stage of mādana."
+}
+---
 
 ==== mādane  ====
   * in the stage of //mādana// --- [[books:cc:madhya:23:59|Madhya 23.59]]

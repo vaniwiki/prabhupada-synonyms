@@ -1,5 +1,11 @@
-~~Title:rūpiṇe~~
-{{description>whose real form.}}
+---json
+{
+    "name":"rūpiṇe",
+    "h1":"rūpiṇe",
+    "title":"rūpiṇe",
+    "description":"whose real form."
+}
+---
 
 ==== rūpiṇe  ====
   * whose real form --- [[books:sb:5:18:31|SB 5.18.31]]

@@ -1,5 +1,11 @@
-~~Title:vṛṇīṣe~~
-{{description>you ask.}}
+---json
+{
+    "name":"vṛṇīṣe",
+    "h1":"vṛṇīṣe",
+    "title":"vṛṇīṣe",
+    "description":"you ask."
+}
+---
 
 ==== vṛṇīṣe  ====
   * you ask --- [[books:sb:7:4:2|SB 7.4.2]]

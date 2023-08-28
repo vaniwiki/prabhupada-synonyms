@@ -1,5 +1,11 @@
-~~Title:virājantīm~~
-{{description>shining intensely.}}
+---json
+{
+    "name":"virājantīm",
+    "h1":"virājantīm",
+    "title":"virājantīm",
+    "description":"shining intensely."
+}
+---
 
 ==== virājantīm  ====
   * shining intensely --- [[books:cc:madhya:22:154|Madhya 22.154]]

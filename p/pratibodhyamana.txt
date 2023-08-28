@@ -1,5 +1,11 @@
-~~Title:pratibodhyamāna~~
-{{description>responding.}}
+---json
+{
+    "name":"pratibodhyamāna",
+    "h1":"pratibodhyamāna",
+    "title":"pratibodhyamāna",
+    "description":"responding."
+}
+---
 
 ==== pratibodhyamāna  ====
   * responding --- [[books:sb:5:2:4|SB 5.2.4]]

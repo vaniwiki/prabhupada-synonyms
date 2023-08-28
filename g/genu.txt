@@ -1,5 +1,11 @@
-~~Title:genu~~
-{{description>I have become; I went; went.}}
+---json
+{
+    "name":"genu",
+    "h1":"genu",
+    "title":"genu",
+    "description":"I have become; I went; went."
+}
+---
 
 ==== genu  ====
   * I have become --- [[books:cc:madhya:1:55|Madhya 1.55]]

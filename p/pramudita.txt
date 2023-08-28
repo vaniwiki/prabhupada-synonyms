@@ -1,5 +1,11 @@
-~~Title:pramudita~~
-{{description>being excited; overjoyed.}}
+---json
+{
+    "name":"pramudita",
+    "h1":"pramudita",
+    "title":"pramudita",
+    "description":"being excited; overjoyed."
+}
+---
 
 ==== pramudita  ====
   * being excited --- [[books:sb:5:17:12|SB 5.17.12]]

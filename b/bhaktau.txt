@@ -1,5 +1,11 @@
-~~Title:bhaktau~~
-{{description>in devotional service.}}
+---json
+{
+    "name":"bhaktau",
+    "h1":"bhaktau",
+    "title":"bhaktau",
+    "description":"in devotional service."
+}
+---
 
 ==== bhaktau  ====
   * in devotional service --- [[books:cc:madhya:22:66|Madhya 22.66]]

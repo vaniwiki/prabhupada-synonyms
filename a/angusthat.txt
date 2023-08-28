@@ -1,5 +1,11 @@
-~~Title:aṅguṣṭhāt~~
-{{description>from the thumb.}}
+---json
+{
+    "name":"aṅguṣṭhāt",
+    "h1":"aṅguṣṭhāt",
+    "title":"aṅguṣṭhāt",
+    "description":"from the thumb."
+}
+---
 
 ==== aṅguṣṭhāt  ====
   * from the thumb --- [[books:sb:3:12:23|SB 3.12.23]]

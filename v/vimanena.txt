@@ -1,5 +1,11 @@
-~~Title:vimānena~~
-{{description>by airplane; taking their own airplane; with his airplane; with the airplane.}}
+---json
+{
+    "name":"vimānena",
+    "h1":"vimānena",
+    "title":"vimānena",
+    "description":"by airplane; taking their own airplane; with his airplane; with the airplane."
+}
+---
 
 ==== vimānena  ====
   * by airplane --- [[books:sb:6:8:39|SB 6.8.39]]

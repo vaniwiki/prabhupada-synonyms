@@ -1,5 +1,11 @@
-~~Title:asamprāptān~~
-{{description>the enemy's arrows not being received.}}
+---json
+{
+    "name":"asamprāptān",
+    "h1":"asamprāptān",
+    "title":"asamprāptān",
+    "description":"the enemy's arrows not being received."
+}
+---
 
 ==== asamprāptān  ====
   * the enemy's arrows not being received --- [[books:sb:8:10:42|SB 8.10.42]]

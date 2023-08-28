@@ -1,5 +1,11 @@
-~~Title:vimanaskam~~
-{{description>extremely unhappy.}}
+---json
+{
+    "name":"vimanaskam",
+    "h1":"vimanaskam",
+    "title":"vimanaskam",
+    "description":"extremely unhappy."
+}
+---
 
 ==== vimanaskam  ====
   * extremely unhappy --- [[books:sb:7:10:61|SB 7.10.61]]

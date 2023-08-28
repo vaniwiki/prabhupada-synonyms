@@ -1,5 +1,11 @@
-~~Title:paṭṭasūtra~~
-{{description>silken thread for the waist.}}
+---json
+{
+    "name":"paṭṭasūtra",
+    "h1":"paṭṭasūtra",
+    "title":"paṭṭasūtra",
+    "description":"silken thread for the waist."
+}
+---
 
 ==== kaṭi-paṭṭasūtra-ḍorī  ====
   * silken thread for the waist --- [[books:cc:adi:13:113|Ādi 13.113]]

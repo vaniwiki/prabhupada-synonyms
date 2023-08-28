@@ -1,5 +1,11 @@
-~~Title:dravila~~
-{{description>melted.}}
+---json
+{
+    "name":"dravila",
+    "h1":"dravila",
+    "title":"dravila",
+    "description":"melted."
+}
+---
 
 ==== dravila  ====
   * melted --- [[books:cc:adi:13:116|Ādi 13.116]]

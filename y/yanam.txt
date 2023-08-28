@@ -1,5 +1,11 @@
-~~Title:yānam~~
-{{description>airplane; His departure; horses; on the airplane; the palanquin.}}
+---json
+{
+    "name":"yānam",
+    "h1":"yānam",
+    "title":"yānam",
+    "description":"airplane; His departure; horses; on the airplane; the palanquin."
+}
+---
 
 ==== yānam  ====
   * airplane --- [[books:sb:8:10:16-18|SB 8.10.16-18]]

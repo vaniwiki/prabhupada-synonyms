@@ -1,5 +1,11 @@
-~~Title:uduttamāḥ~~
-{{description>far superior.}}
+---json
+{
+    "name":"uduttamāḥ",
+    "h1":"uduttamāḥ",
+    "title":"uduttamāḥ",
+    "description":"far superior."
+}
+---
 
 ==== uduttamāḥ  ====
   * far superior --- [[books:sb:5:5:21-22|SB 5.5.21-22]]

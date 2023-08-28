@@ -1,5 +1,11 @@
-~~Title:rājasya~~
-{{description>of the first emperor; of the original king.}}
+---json
+{
+    "name":"rājasya",
+    "h1":"rājasya",
+    "title":"rājasya",
+    "description":"of the first emperor; of the original king."
+}
+---
 
 ==== ādi-rājasya  ====
   * of the first emperor --- [[books:sb:3:22:39|SB 3.22.39]]

@@ -1,5 +1,11 @@
-~~Title:abhivādanam~~
-{{description>obeisances; offering obeisances.}}
+---json
+{
+    "name":"abhivādanam",
+    "h1":"abhivādanam",
+    "title":"abhivādanam",
+    "description":"obeisances; offering obeisances."
+}
+---
 
 ==== abhivādanam  ====
   * obeisances --- [[books:sb:4:3:22|SB 4.3.22]]

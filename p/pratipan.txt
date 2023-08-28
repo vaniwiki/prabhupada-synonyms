@@ -1,5 +1,11 @@
-~~Title:pratīpān~~
-{{description>persons who have simply created trouble in this world.}}
+---json
+{
+    "name":"pratīpān",
+    "h1":"pratīpān",
+    "title":"pratīpān",
+    "description":"persons who have simply created trouble in this world."
+}
+---
 
 ==== jagat pratīpān  ====
   * persons who have simply created trouble in this world --- [[books:sb:7:9:38|SB 7.9.38]]

@@ -1,5 +1,11 @@
-~~Title:icchāmahe~~
-{{description>desire to hear.}}
+---json
+{
+    "name":"icchāmahe",
+    "h1":"icchāmahe",
+    "title":"icchāmahe",
+    "description":"desire to hear."
+}
+---
 
 ==== śrotum icchāmahe  ====
   * desire to hear --- [[books:sb:8:1:31|SB 8.1.31]]

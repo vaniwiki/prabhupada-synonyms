@@ -1,5 +1,11 @@
-~~Title:vinirgate~~
-{{description>arose.}}
+---json
+{
+    "name":"vinirgate",
+    "h1":"vinirgate",
+    "title":"vinirgate",
+    "description":"arose."
+}
+---
 
 ==== vinirgate  ====
   * arose --- [[books:sb:3:19:5|SB 3.19.5]]

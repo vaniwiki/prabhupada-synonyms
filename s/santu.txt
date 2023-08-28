@@ -1,5 +1,11 @@
-~~Title:santu~~
-{{description>let that become; let there be; may become.}}
+---json
+{
+    "name":"santu",
+    "h1":"santu",
+    "title":"santu",
+    "description":"let that become; let there be; may become."
+}
+---
 
 ==== santu  ====
   * let that become --- [[books:cc:antya:1:2|Antya 1.2]]

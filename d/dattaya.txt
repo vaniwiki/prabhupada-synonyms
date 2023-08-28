@@ -1,5 +1,11 @@
-~~Title:dattayā~~
-{{description>given by You.}}
+---json
+{
+    "name":"dattayā",
+    "h1":"dattayā",
+    "title":"dattayā",
+    "description":"given by You."
+}
+---
 
 ==== tvat-dattayā  ====
   * given by You --- [[books:sb:4:9:8|SB 4.9.8]]

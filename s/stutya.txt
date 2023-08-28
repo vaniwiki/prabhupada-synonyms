@@ -1,5 +1,11 @@
-~~Title:stutya~~
-{{description>Stutyavrata.}}
+---json
+{
+    "name":"stutya",
+    "h1":"stutya",
+    "title":"stutya",
+    "description":"Stutyavrata."
+}
+---
 
 ==== stutya-vrata  ====
   * Stutyavrata --- [[books:sb:5:20:14|SB 5.20.14]]

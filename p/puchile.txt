@@ -1,5 +1,11 @@
-~~Title:puchile~~
-{{description>he inquired.}}
+---json
+{
+    "name":"puchile",
+    "h1":"puchile",
+    "title":"puchile",
+    "description":"he inquired."
+}
+---
 
 ==== puchile  ====
   * he inquired --- [[books:cc:antya:1:21|Antya 1.21]]

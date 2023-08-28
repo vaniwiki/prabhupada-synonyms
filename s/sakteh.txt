@@ -1,5 +1,11 @@
-~~Title:śakteḥ~~
-{{description>of potency; of the potency; of the powerful.}}
+---json
+{
+    "name":"śakteḥ",
+    "h1":"śakteḥ",
+    "title":"śakteḥ",
+    "description":"of potency; of the potency; of the powerful."
+}
+---
 
 ==== śakteḥ  ====
   * of potency --- [[books:sb:4:6:42|SB 4.6.42]]

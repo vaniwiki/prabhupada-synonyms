@@ -1,5 +1,11 @@
-~~Title:atapam~~
-{{description>Ātapa.}}
+---json
+{
+    "name":"atapam",
+    "h1":"atapam",
+    "title":"atapam",
+    "description":"Ātapa."
+}
+---
 
 ==== ātapam  ====
   * Ātapa --- [[books:sb:6:6:16|SB 6.6.16]]

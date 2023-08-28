@@ -1,5 +1,11 @@
-~~Title:anvṛtu~~
-{{description>seasonal.}}
+---json
+{
+    "name":"anvṛtu",
+    "h1":"anvṛtu",
+    "title":"anvṛtu",
+    "description":"seasonal."
+}
+---
 
 ==== anvṛtu  ====
   * seasonal --- [[books:sb:1:10:5|SB 1.10.5]]

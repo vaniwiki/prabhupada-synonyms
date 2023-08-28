@@ -1,5 +1,11 @@
-~~Title:aprahūta~~
-{{description>unshared and unoffered food.}}
+---json
+{
+    "name":"aprahūta",
+    "h1":"aprahūta",
+    "title":"aprahūta",
+    "description":"unshared and unoffered food."
+}
+---
 
 ==== apratta-aprahūta  ====
   * unshared and unoffered food --- [[books:sb:5:26:18|SB 5.26.18]]

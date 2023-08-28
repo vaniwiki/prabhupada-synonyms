@@ -1,5 +1,11 @@
-~~Title:yugāya~~
-{{description>unto the Supreme Personality of Godhead, who is full with six opulences and who appears in three yugas (remaining concealed in the fourth yuga).}}
+---json
+{
+    "name":"yugāya",
+    "h1":"yugāya",
+    "title":"yugāya",
+    "description":"unto the Supreme Personality of Godhead, who is full with six opulences and who appears in three yugas (remaining concealed in the fourth yuga)."
+}
+---
 
 ==== tri-yugāya  ====
   * unto the Supreme Personality of Godhead, who is full with six opulences and who appears in three //yugas// (remaining concealed in the fourth //yuga//) --- [[books:sb:5:18:35|SB 5.18.35]]

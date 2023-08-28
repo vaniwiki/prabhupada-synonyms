@@ -1,5 +1,11 @@
-~~Title:bhaktera~~
-{{description>of a devotee; of all the devotees; of devotees; of the devotee; of the devotees; of the pure devotee.}}
+---json
+{
+    "name":"bhaktera",
+    "h1":"bhaktera",
+    "title":"bhaktera",
+    "description":"of a devotee; of all the devotees; of devotees; of the devotee; of the devotees; of the pure devotee."
+}
+---
 
 ==== bhaktera  ====
   * of a devotee --- [[books:cc:adi:2:111|Ādi 2.111]], [[books:cc:adi:10:28|Ādi 10.28]], [[books:cc:antya:4:191|Antya 4.191]], [[books:cc:antya:18:15|Antya 18.15]]

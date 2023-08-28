@@ -1,5 +1,11 @@
-~~Title:prayāhi~~
-{{description>please go; should go; You may go over my water.}}
+---json
+{
+    "name":"prayāhi",
+    "h1":"prayāhi",
+    "title":"prayāhi",
+    "description":"please go; should go; You may go over my water."
+}
+---
 
 ==== prayāhi  ====
   * please go --- [[books:sb:8:23:9|SB 8.23.9]]

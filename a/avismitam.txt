@@ -1,5 +1,11 @@
-~~Title:avismitam~~
-{{description>who is never struck with wonder.}}
+---json
+{
+    "name":"avismitam",
+    "h1":"avismitam",
+    "title":"avismitam",
+    "description":"who is never struck with wonder."
+}
+---
 
 ==== avismitam  ====
   * who is never struck with wonder --- [[books:sb:6:9:22|SB 6.9.22]]

@@ -1,5 +1,11 @@
-~~Title:advaitam~~
-{{description>known as Advaita; nondual; without a second.}}
+---json
+{
+    "name":"advaitam",
+    "h1":"advaitam",
+    "title":"advaitam",
+    "description":"known as Advaita; nondual; without a second."
+}
+---
 
 ==== advaitam  ====
   * known as Advaita --- [[books:cc:adi:1:13|Ādi 1.13]], [[books:cc:adi:6:5|Ādi 6.5]]

@@ -1,5 +1,11 @@
-~~Title:labha~~
-{{description>gain; of all gains; profit; profit according to material calculations.}}
+---json
+{
+    "name":"labha",
+    "h1":"labha",
+    "title":"labha",
+    "description":"gain; of all gains; profit; profit according to material calculations."
+}
+---
 
 ==== lābha  ====
   * gain --- [[books:bg:4:22|Bg. 4.22]]

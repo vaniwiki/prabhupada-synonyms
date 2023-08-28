@@ -1,5 +1,11 @@
-~~Title:mādhavayoḥ~~
-{{description>of Kṛṣṇa and Balarāma.}}
+---json
+{
+    "name":"mādhavayoḥ",
+    "h1":"mādhavayoḥ",
+    "title":"mādhavayoḥ",
+    "description":"of Kṛṣṇa and Balarāma."
+}
+---
 
 ==== rāma-mādhavayoḥ  ====
   * of Kṛṣṇa and Balarāma --- [[books:sb:10:11:36|SB 10.11.36]]

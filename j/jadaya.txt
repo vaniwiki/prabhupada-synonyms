@@ -1,5 +1,11 @@
-~~Title:jaḍāya~~
-{{description>wraps him with.}}
+---json
+{
+    "name":"jaḍāya",
+    "h1":"jaḍāya",
+    "title":"jaḍāya",
+    "description":"wraps him with."
+}
+---
 
 ==== tāhāre jaḍāya  ====
   * wraps him with --- [[books:cc:antya:19:72|Antya 19.72]]

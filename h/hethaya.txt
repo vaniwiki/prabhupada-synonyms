@@ -1,5 +1,11 @@
-~~Title:hethāya~~
-{{description>here.}}
+---json
+{
+    "name":"hethāya",
+    "h1":"hethāya",
+    "title":"hethāya",
+    "description":"here."
+}
+---
 
 ==== hethāya  ====
   * here --- [[books:cc:antya:9:71|Antya 9.71]]

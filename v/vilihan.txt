@@ -1,5 +1,11 @@
-~~Title:vilihan~~
-{{description>licking.}}
+---json
+{
+    "name":"vilihan",
+    "h1":"vilihan",
+    "title":"vilihan",
+    "description":"licking."
+}
+---
 
 ==== vilihan  ====
   * licking --- [[books:sb:7:8:30|SB 7.8.30]]

@@ -1,5 +1,11 @@
-~~Title:samatītya~~
-{{description>transcending.}}
+---json
+{
+    "name":"samatītya",
+    "h1":"samatītya",
+    "title":"samatītya",
+    "description":"transcending."
+}
+---
 
 ==== samatītya  ====
   * transcending --- [[books:bg:14:26|Bg. 14.26]]

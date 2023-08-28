@@ -1,5 +1,11 @@
-~~Title:anubhāvitam~~
-{{description>made it possible to be powerful.}}
+---json
+{
+    "name":"anubhāvitam",
+    "h1":"anubhāvitam",
+    "title":"anubhāvitam",
+    "description":"made it possible to be powerful."
+}
+---
 
 ==== anubhāvitam  ====
   * made it possible to be powerful --- [[books:sb:1:15:13|SB 1.15.13]]

@@ -1,5 +1,11 @@
-~~Title:athāpi~~
-{{description>nevertheless; still.}}
+---json
+{
+    "name":"athāpi",
+    "h1":"athāpi",
+    "title":"athāpi",
+    "description":"nevertheless; still."
+}
+---
 
 ==== athāpi  ====
   * nevertheless --- [[books:sb:5:3:17|SB 5.3.17]]

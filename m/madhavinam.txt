@@ -1,5 +1,11 @@
-~~Title:mādhavīnām~~
-{{description>of the mādhavī flowers.}}
+---json
+{
+    "name":"mādhavīnām",
+    "h1":"mādhavīnām",
+    "title":"mādhavīnām",
+    "description":"of the mādhavī flowers."
+}
+---
 
 ==== mādhavīnām  ====
   * of the //mādhavī// flowers --- [[books:sb:3:15:17|SB 3.15.17]]

@@ -1,5 +1,11 @@
-~~Title:nodhā~~
-{{description>into nine.}}
+---json
+{
+    "name":"nodhā",
+    "h1":"nodhā",
+    "title":"nodhā",
+    "description":"into nine."
+}
+---
 
 ==== nodhā  ====
   * into nine --- [[books:sb:3:23:47|SB 3.23.47]]

@@ -1,5 +1,11 @@
-~~Title:savanaḥ~~
-{{description>Savana.}}
+---json
+{
+    "name":"savanaḥ",
+    "h1":"savanaḥ",
+    "title":"savanaḥ",
+    "description":"Savana."
+}
+---
 
 ==== savanaḥ  ====
   * Savana --- [[books:sb:5:1:26|SB 5.1.26]]

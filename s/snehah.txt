@@ -1,5 +1,11 @@
-~~Title:snehah~~
-{{description>affection; attachment to; the affection.}}
+---json
+{
+    "name":"snehah",
+    "h1":"snehah",
+    "title":"snehah",
+    "description":"affection; attachment to; the affection."
+}
+---
 
 ==== snehaḥ  ====
   * affection --- [[books:sb:6:14:36|SB 6.14.36]], [[books:sb:6:14:37|SB 6.14.37]]

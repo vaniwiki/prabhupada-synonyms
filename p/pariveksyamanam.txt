@@ -1,5 +1,11 @@
-~~Title:parivekṣyamāṇam~~
-{{description>while examining the eatables.}}
+---json
+{
+    "name":"parivekṣyamāṇam",
+    "h1":"parivekṣyamāṇam",
+    "title":"parivekṣyamāṇam",
+    "description":"while examining the eatables."
+}
+---
 
 ==== parivekṣyamāṇam  ====
   * while examining the eatables --- [[books:sb:9:9:22|SB 9.9.22]]

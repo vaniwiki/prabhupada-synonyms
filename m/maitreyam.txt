@@ -1,5 +1,11 @@
-~~Title:maitreyam~~
-{{description>from the sage Maitreya; unto Maitreya; unto the sage. Maitreya.}}
+---json
+{
+    "name":"maitreyam",
+    "h1":"maitreyam",
+    "title":"maitreyam",
+    "description":"from the sage Maitreya; unto Maitreya; unto the sage. Maitreya."
+}
+---
 
 ==== maitreyam  ====
   * from the sage Maitreya --- [[books:sb:3:20:4|SB 3.20.4]]

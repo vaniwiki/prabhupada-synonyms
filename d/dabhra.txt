@@ -1,5 +1,11 @@
-~~Title:dabhra~~
-{{description>being of less intelligence.}}
+---json
+{
+    "name":"dabhra",
+    "h1":"dabhra",
+    "title":"dabhra",
+    "description":"being of less intelligence."
+}
+---
 
 ==== dabhra-buddhinā  ====
   * being of less intelligence --- [[books:sb:6:7:11|SB 6.7.11]]

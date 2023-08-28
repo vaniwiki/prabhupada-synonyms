@@ -1,5 +1,11 @@
-~~Title:arjunam~~
-{{description>unto Arjuna.}}
+---json
+{
+    "name":"arjunam",
+    "h1":"arjunam",
+    "title":"arjunam",
+    "description":"unto Arjuna."
+}
+---
 
 ==== arjunam  ====
   * unto Arjuna --- [[books:bg:11:50|Bg. 11.50]], [[books:sb:1:7:34|SB 1.7.34]]

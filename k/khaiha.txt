@@ -1,5 +1,11 @@
-~~Title:khāiha~~
-{{description>come and eat.}}
+---json
+{
+    "name":"khāiha",
+    "h1":"khāiha",
+    "title":"khāiha",
+    "description":"come and eat."
+}
+---
 
 ==== khāiha āsiyā  ====
   * come and eat --- [[books:cc:antya:12:147|Antya 12.147]]

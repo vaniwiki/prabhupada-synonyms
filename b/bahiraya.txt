@@ -1,5 +1,11 @@
-~~Title:bāhirāya~~
-{{description>come out; come outside; emanates; expels; is manifested.}}
+---json
+{
+    "name":"bāhirāya",
+    "h1":"bāhirāya",
+    "title":"bāhirāya",
+    "description":"come out; come outside; emanates; expels; is manifested."
+}
+---
 
 ==== bāhirāya  ====
   * come out --- [[books:cc:antya:19:40|Antya 19.40]]

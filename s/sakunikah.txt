@@ -1,5 +1,11 @@
-~~Title:śākunikaḥ~~
-{{description>who could kill even a vulture.}}
+---json
+{
+    "name":"śākunikaḥ",
+    "h1":"śākunikaḥ",
+    "title":"śākunikaḥ",
+    "description":"who could kill even a vulture."
+}
+---
 
 ==== śākunikaḥ  ====
   * who could kill even a vulture --- [[books:sb:7:2:56|SB 7.2.56]]

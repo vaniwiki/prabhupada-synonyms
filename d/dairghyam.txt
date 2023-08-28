@@ -1,5 +1,11 @@
-~~Title:dairghyam~~
-{{description>extraordinary longness.}}
+---json
+{
+    "name":"dairghyam",
+    "h1":"dairghyam",
+    "title":"dairghyam",
+    "description":"extraordinary longness."
+}
+---
 
 ==== adhika-dairghyam  ====
   * extraordinary longness --- [[books:cc:antya:14:73|Antya 14.73]]

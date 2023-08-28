@@ -1,5 +1,11 @@
-~~Title:maskarī~~
-{{description>a sannyāsī does not become affected by faulty acceptance of food.}}
+---json
+{
+    "name":"maskarī",
+    "h1":"maskarī",
+    "title":"maskarī",
+    "description":"a sannyāsī does not become affected by faulty acceptance of food."
+}
+---
 
 ==== na anna-doṣeṇa maskarī  ====
   * a //sannyāsī// does not become affected by faulty acceptance of food --- [[books:cc:madhya:12:191|Madhya 12.191]]

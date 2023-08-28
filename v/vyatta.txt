@@ -1,5 +1,11 @@
-~~Title:vyatta~~
-{{description>expanded; spread.}}
+---json
+{
+    "name":"vyatta",
+    "h1":"vyatta",
+    "title":"vyatta",
+    "description":"expanded; spread."
+}
+---
 
 ==== vyātta  ====
   * expanded --- [[books:sb:7:8:30|SB 7.8.30]]

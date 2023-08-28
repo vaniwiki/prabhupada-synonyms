@@ -1,5 +1,11 @@
-~~Title:mahīdhrān~~
-{{description>the mountains.}}
+---json
+{
+    "name":"mahīdhrān",
+    "h1":"mahīdhrān",
+    "title":"mahīdhrān",
+    "description":"the mountains."
+}
+---
 
 ==== mahīdhrān  ====
   * the mountains --- [[books:sb:8:20:23|SB 8.20.23]]

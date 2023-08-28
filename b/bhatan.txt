@@ -1,5 +1,11 @@
-~~Title:bhaṭān~~
-{{description>order carriers; the soldiers.}}
+---json
+{
+    "name":"bhaṭān",
+    "h1":"bhaṭān",
+    "title":"bhaṭān",
+    "description":"order carriers; the soldiers."
+}
+---
 
 ==== bhaṭān  ====
   * order carriers --- [[books:sb:6:1:19|SB 6.1.19]]

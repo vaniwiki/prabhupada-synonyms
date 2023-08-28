@@ -1,5 +1,11 @@
-~~Title:vyakarṣan~~
-{{description>were dragging.}}
+---json
+{
+    "name":"vyakarṣan",
+    "h1":"vyakarṣan",
+    "title":"vyakarṣan",
+    "description":"were dragging."
+}
+---
 
 ==== vyakarṣan  ====
   * were dragging --- [[books:sb:6:2:30|SB 6.2.30]]

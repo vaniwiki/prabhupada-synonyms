@@ -1,5 +1,11 @@
-~~Title:vasudevah~~
-{{description>Vasudeva (the father of Kṛṣṇa); Vasudeva; Vasudeva, the father of Kṛṣṇa; who appeared as Vasudeva; Śrī Vasudeva, the father of Kṛṣṇa; Śrīla Vasudeva; Śrīla Vasudeva, the father of Kṛṣṇa.}}
+---json
+{
+    "name":"vasudevah",
+    "h1":"vasudevah",
+    "title":"vasudevah",
+    "description":"Vasudeva (the father of Kṛṣṇa); Vasudeva; Vasudeva, the father of Kṛṣṇa; who appeared as Vasudeva; Śrī Vasudeva, the father of Kṛṣṇa; Śrīla Vasudeva; Śrīla Vasudeva, the father of Kṛṣṇa."
+}
+---
 
 ==== vasudevaḥ  ====
   * Vasudeva (the father of Kṛṣṇa) --- [[books:sb:1:11:16-17|SB 1.11.16-17]], [[books:sb:9:24:46|SB 9.24.46]]

@@ -1,5 +1,11 @@
-~~Title:parābhūyamāna~~
-{{description>being defeated.}}
+---json
+{
+    "name":"parābhūyamāna",
+    "h1":"parābhūyamāna",
+    "title":"parābhūyamāna",
+    "description":"being defeated."
+}
+---
 
 ==== parābhūyamāna  ====
   * being defeated --- [[books:sb:5:1:29|SB 5.1.29]]

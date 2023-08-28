@@ -1,5 +1,11 @@
-~~Title:anurodhena~~
-{{description>with consideration of the activities performed.}}
+---json
+{
+    "name":"anurodhena",
+    "h1":"anurodhena",
+    "title":"anurodhena",
+    "description":"with consideration of the activities performed."
+}
+---
 
 ==== karma-anurodhena  ====
   * with consideration of the activities performed --- [[books:sb:6:1:43|SB 6.1.43]]

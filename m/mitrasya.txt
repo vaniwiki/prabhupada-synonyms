@@ -1,5 +1,11 @@
-~~Title:mitrasya~~
-{{description>of Mitra.}}
+---json
+{
+    "name":"mitrasya",
+    "h1":"mitrasya",
+    "title":"mitrasya",
+    "description":"of Mitra."
+}
+---
 
 ==== mitrasya  ====
   * of Mitra --- [[books:sb:2:6:9|SB 2.6.9]], [[books:sb:4:7:3|SB 4.7.3]]

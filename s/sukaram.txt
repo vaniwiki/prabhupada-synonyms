@@ -1,5 +1,11 @@
-~~Title:sukaram~~
-{{description>easy.}}
+---json
+{
+    "name":"sukaram",
+    "h1":"sukaram",
+    "title":"sukaram",
+    "description":"easy."
+}
+---
 
 ==== sukaram  ====
   * easy --- [[books:cc:adi:14:1|Ādi 14.1]]

@@ -1,5 +1,11 @@
-~~Title:gaṇaiḥ~~
-{{description>by flocks; by groups; by the devotees; their associates; with hordes.}}
+---json
+{
+    "name":"gaṇaiḥ",
+    "h1":"gaṇaiḥ",
+    "title":"gaṇaiḥ",
+    "description":"by flocks; by groups; by the devotees; their associates; with hordes."
+}
+---
 
 ==== gaṇaiḥ  ====
   * by flocks --- [[books:sb:3:21:41|SB 3.21.41]]

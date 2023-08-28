@@ -1,5 +1,11 @@
-~~Title:mumucuḥ~~
-{{description>emanated; gave up; released; shed; showered.}}
+---json
+{
+    "name":"mumucuḥ",
+    "h1":"mumucuḥ",
+    "title":"mumucuḥ",
+    "description":"emanated; gave up; released; shed; showered."
+}
+---
 
 ==== mumucuḥ  ====
   * emanated --- [[books:sb:1:13:6|SB 1.13.6]]

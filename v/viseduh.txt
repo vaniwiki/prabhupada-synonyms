@@ -1,5 +1,11 @@
-~~Title:viṣeduḥ~~
-{{description>became morose.}}
+---json
+{
+    "name":"viṣeduḥ",
+    "h1":"viṣeduḥ",
+    "title":"viṣeduḥ",
+    "description":"became morose."
+}
+---
 
 ==== viṣeduḥ  ====
   * became morose --- [[books:sb:8:10:52|SB 8.10.52]]

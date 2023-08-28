@@ -1,5 +1,11 @@
-~~Title:kharjura~~
-{{description>dates.}}
+---json
+{
+    "name":"kharjura",
+    "h1":"kharjura",
+    "title":"kharjura",
+    "description":"dates."
+}
+---
 
 ==== kharjura  ====
   * dates --- [[books:cc:antya:18:104|Antya 18.104]]

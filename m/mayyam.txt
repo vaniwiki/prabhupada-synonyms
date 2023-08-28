@@ -1,5 +1,11 @@
-~~Title:mayyām~~
-{{description>drowned in.}}
+---json
+{
+    "name":"mayyām",
+    "h1":"mayyām",
+    "title":"mayyām",
+    "description":"drowned in."
+}
+---
 
 ==== mayyām  ====
   * drowned in --- [[books:sb:1:3:15|SB 1.3.15]]

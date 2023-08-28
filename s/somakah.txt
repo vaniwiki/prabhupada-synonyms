@@ -1,5 +1,11 @@
-~~Title:somakaḥ~~
-{{description>Somaka.}}
+---json
+{
+    "name":"somakaḥ",
+    "h1":"somakaḥ",
+    "title":"somakaḥ",
+    "description":"Somaka."
+}
+---
 
 ==== somakaḥ  ====
   * Somaka --- [[books:sb:9:22:1|SB 9.22.1]]

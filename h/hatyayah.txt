@@ -1,5 +1,11 @@
-~~Title:hatyāyāḥ~~
-{{description>of the reaction for killing a brāhmaṇa.}}
+---json
+{
+    "name":"hatyāyāḥ",
+    "h1":"hatyāyāḥ",
+    "title":"hatyāyāḥ",
+    "description":"of the reaction for killing a brāhmaṇa."
+}
+---
 
 ==== brahma-hatyāyāḥ  ====
   * of the reaction for killing a //brāhmaṇa// --- [[books:sb:6:9:7|SB 6.9.7]]

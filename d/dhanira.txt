@@ -1,5 +1,11 @@
-~~Title:dhanīra~~
-{{description>of rich man.}}
+---json
+{
+    "name":"dhanīra",
+    "h1":"dhanīra",
+    "title":"dhanīra",
+    "description":"of rich man."
+}
+---
 
 ==== dhanīra  ====
   * of rich man --- [[books:cc:antya:4:68|Antya 4.68]]

@@ -1,5 +1,11 @@
-~~Title:tvadīyam~~
-{{description>your.}}
+---json
+{
+    "name":"tvadīyam",
+    "h1":"tvadīyam",
+    "title":"tvadīyam",
+    "description":"your."
+}
+---
 
 ==== tvadīyam  ====
   * your --- [[books:sb:4:4:23|SB 4.4.23]]

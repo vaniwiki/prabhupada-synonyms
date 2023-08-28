@@ -1,5 +1,11 @@
-~~Title:veciyāchoṅ~~
-{{description>sold.}}
+---json
+{
+    "name":"veciyāchoṅ",
+    "h1":"veciyāchoṅ",
+    "title":"veciyāchoṅ",
+    "description":"sold."
+}
+---
 
 ==== veciyāchoṅ  ====
   * sold --- [[books:cc:madhya:15:149|Madhya 15.149]]

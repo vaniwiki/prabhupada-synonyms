@@ -1,5 +1,11 @@
-~~Title:anuprapannāḥ~~
-{{description>following.}}
+---json
+{
+    "name":"anuprapannāḥ",
+    "h1":"anuprapannāḥ",
+    "title":"anuprapannāḥ",
+    "description":"following."
+}
+---
 
 ==== anuprapannāḥ  ====
   * following --- [[books:bg:9:21|Bg. 9.21]]

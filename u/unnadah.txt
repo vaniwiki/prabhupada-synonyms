@@ -1,5 +1,11 @@
-~~Title:unnādaḥ~~
-{{description>the tumultuous sound.}}
+---json
+{
+    "name":"unnādaḥ",
+    "h1":"unnādaḥ",
+    "title":"unnādaḥ",
+    "description":"the tumultuous sound."
+}
+---
 
 ==== unnādaḥ  ====
   * the tumultuous sound --- [[books:sb:5:8:3|SB 5.8.3]]

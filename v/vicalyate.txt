@@ -1,5 +1,11 @@
-~~Title:vicālyate~~
-{{description>becomes shaken; is agitated.}}
+---json
+{
+    "name":"vicālyate",
+    "h1":"vicālyate",
+    "title":"vicālyate",
+    "description":"becomes shaken; is agitated."
+}
+---
 
 ==== vicālyate  ====
   * becomes shaken --- [[books:bg:6:20-23|Bg. 6.20-23]]

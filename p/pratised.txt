@@ -1,5 +1,11 @@
-~~Title:pratiṣed~~
-{{description>who are opposing.}}
+---json
+{
+    "name":"pratiṣed",
+    "h1":"pratiṣed",
+    "title":"pratiṣed",
+    "description":"who are opposing."
+}
+---
 
 ==== pratiṣed-dhāraḥ  ====
   * who are opposing --- [[books:sb:6:1:32|SB 6.1.32]]

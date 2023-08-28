@@ -1,5 +1,11 @@
-~~Title:sādhvyaḥ~~
-{{description>O all of you chaste ladies.}}
+---json
+{
+    "name":"sādhvyaḥ",
+    "h1":"sādhvyaḥ",
+    "title":"sādhvyaḥ",
+    "description":"O all of you chaste ladies."
+}
+---
 
 ==== sādhvyaḥ  ====
   * O all of you chaste ladies --- [[books:cc:adi:14:69|Ādi 14.69]]

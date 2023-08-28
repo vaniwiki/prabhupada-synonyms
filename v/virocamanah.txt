@@ -1,5 +1,11 @@
-~~Title:virocamānaḥ~~
-{{description>being very beautifully decorated.}}
+---json
+{
+    "name":"virocamānaḥ",
+    "h1":"virocamānaḥ",
+    "title":"virocamānaḥ",
+    "description":"being very beautifully decorated."
+}
+---
 
 ==== virocamānaḥ  ====
   * being very beautifully decorated --- [[books:sb:5:7:13|SB 5.7.13]]

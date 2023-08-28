@@ -1,5 +1,11 @@
-~~Title:itareṇa~~
-{{description>by a different body; with another hand; with any other.}}
+---json
+{
+    "name":"itareṇa",
+    "h1":"itareṇa",
+    "title":"itareṇa",
+    "description":"by a different body; with another hand; with any other."
+}
+---
 
 ==== itareṇa  ====
   * by a different body --- [[books:sb:4:29:61|SB 4.29.61]]

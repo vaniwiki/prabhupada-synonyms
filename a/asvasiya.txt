@@ -1,5 +1,11 @@
-~~Title:āśvāsiyā~~
-{{description>giving assurance.}}
+---json
+{
+    "name":"āśvāsiyā",
+    "h1":"āśvāsiyā",
+    "title":"āśvāsiyā",
+    "description":"giving assurance."
+}
+---
 
 ==== āśvāsiyā  ====
   * giving assurance --- [[books:cc:madhya:10:70|Madhya 10.70]], [[books:cc:madhya:16:187|Madhya 16.187]]

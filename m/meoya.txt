@@ -1,5 +1,11 @@
-~~Title:meoyā~~
-{{description>dried fruits.}}
+---json
+{
+    "name":"meoyā",
+    "h1":"meoyā",
+    "title":"meoyā",
+    "description":"dried fruits."
+}
+---
 
 ==== meoyā  ====
   * dried fruits --- [[books:cc:antya:18:104|Antya 18.104]]

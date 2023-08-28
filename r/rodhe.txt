@@ -1,5 +1,11 @@
-~~Title:rodhe~~
-{{description>choked up.}}
+---json
+{
+    "name":"rodhe",
+    "h1":"rodhe",
+    "title":"rodhe",
+    "description":"choked up."
+}
+---
 
 ==== rodhe  ====
   * choked up --- [[books:cc:antya:13:127|Antya 13.127]]

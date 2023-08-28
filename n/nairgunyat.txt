@@ -1,5 +1,11 @@
-~~Title:nairguṇyāt~~
-{{description>due to being in transcendence.}}
+---json
+{
+    "name":"nairguṇyāt",
+    "h1":"nairguṇyāt",
+    "title":"nairguṇyāt",
+    "description":"due to being in transcendence."
+}
+---
 
 ==== nairguṇyāt  ====
   * due to being in transcendence --- [[books:sb:1:15:31|SB 1.15.31]]

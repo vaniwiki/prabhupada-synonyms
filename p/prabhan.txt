@@ -1,5 +1,11 @@
-~~Title:prabhān~~
-{{description>their bodily luster.}}
+---json
+{
+    "name":"prabhān",
+    "h1":"prabhān",
+    "title":"prabhān",
+    "description":"their bodily luster."
+}
+---
 
 ==== prabhān  ====
   * their bodily luster --- [[books:sb:8:7:15|SB 8.7.15]]

@@ -1,5 +1,11 @@
-~~Title:ājagmuḥ~~
-{{description>arrived; came; went.}}
+---json
+{
+    "name":"ājagmuḥ",
+    "h1":"ājagmuḥ",
+    "title":"ājagmuḥ",
+    "description":"arrived; came; went."
+}
+---
 
 ==== ājagmuḥ  ====
   * arrived --- [[books:sb:1:9:8|SB 1.9.8]]

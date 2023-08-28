@@ -1,5 +1,11 @@
-~~Title:sṛñjayaḥ~~
-{{description>Sṛñjaya.}}
+---json
+{
+    "name":"sṛñjayaḥ",
+    "h1":"sṛñjayaḥ",
+    "title":"sṛñjayaḥ",
+    "description":"Sṛñjaya."
+}
+---
 
 ==== sṛñjayaḥ  ====
   * Sṛñjaya --- [[books:sb:8:1:23|SB 8.1.23]], [[books:sb:9:23:1|SB 9.23.1]], [[books:sb:9:24:42|SB 9.24.42]]

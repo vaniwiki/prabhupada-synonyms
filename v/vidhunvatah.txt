@@ -1,5 +1,11 @@
-~~Title:vidhunvataḥ~~
-{{description>shaking.}}
+---json
+{
+    "name":"vidhunvataḥ",
+    "h1":"vidhunvataḥ",
+    "title":"vidhunvataḥ",
+    "description":"shaking."
+}
+---
 
 ==== vidhunvataḥ  ====
   * shaking --- [[books:sb:3:22:29-30|SB 3.22.29-30]]

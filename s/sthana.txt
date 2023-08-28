@@ -1,5 +1,11 @@
-~~Title:sthāna~~
-{{description>abode; exist; favorable place; its maintenance; maintenance; of a residential house; of the maintenance; place; places; situation; standing; that place; the pace; the place; the place for offering; the proper place.}}
+---json
+{
+    "name":"sthāna",
+    "h1":"sthāna",
+    "title":"sthāna",
+    "description":"abode; exist; favorable place; its maintenance; maintenance; of a residential house; of the maintenance; place; places; situation; standing; that place; the pace; the place; the place for offering; the proper place."
+}
+---
 
 ==== sthāna  ====
   * abode --- [[books:cc:adi:7:113|Ādi 7.113]], [[books:cc:madhya:21:8|Madhya 21.8]]

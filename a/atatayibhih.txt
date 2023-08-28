@@ -1,5 +1,11 @@
-~~Title:ātatāyibhiḥ~~
-{{description>ruffians.}}
+---json
+{
+    "name":"ātatāyibhiḥ",
+    "h1":"ātatāyibhiḥ",
+    "title":"ātatāyibhiḥ",
+    "description":"ruffians."
+}
+---
 
 ==== ātatāyibhiḥ  ====
   * ruffians --- [[books:sb:3:19:21|SB 3.19.21]]

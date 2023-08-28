@@ -1,5 +1,11 @@
-~~Title:kalilam~~
-{{description>contaminated; dense forest.}}
+---json
+{
+    "name":"kalilam",
+    "h1":"kalilam",
+    "title":"kalilam",
+    "description":"contaminated; dense forest."
+}
+---
 
 ==== kalilam  ====
   * contaminated --- [[books:sb:6:2:46|SB 6.2.46]]

@@ -1,5 +1,11 @@
-~~Title:pṛtanyayā~~
-{{description>by soldiers.}}
+---json
+{
+    "name":"pṛtanyayā",
+    "h1":"pṛtanyayā",
+    "title":"pṛtanyayā",
+    "description":"by soldiers."
+}
+---
 
 ==== pṛtanyayā  ====
   * by soldiers --- [[books:sb:8:15:23|SB 8.15.23]]

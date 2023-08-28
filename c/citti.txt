@@ -1,5 +1,11 @@
-~~Title:cittī~~
-{{description>fixed in mind.}}
+---json
+{
+    "name":"cittī",
+    "h1":"cittī",
+    "title":"cittī",
+    "description":"fixed in mind."
+}
+---
 
 ==== cittī-kṛtaḥ  ====
   * fixed in mind --- [[books:sb:4:1:28|SB 4.1.28]]

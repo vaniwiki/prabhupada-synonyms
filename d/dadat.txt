@@ -1,11 +1,5 @@
----json
-{
-    "name":"dadat",
-    "h1":"dadat",
-    "title":"dadat -- synonyms, prabhupada.io",
-    "description":"giving."
-}
----
+~~Title:dadat~~
+{{description>giving.}}
 
 ==== dadat  ====
   * giving --- [[books:sb:3:31:31|SB 3.31.31]]

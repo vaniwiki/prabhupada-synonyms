@@ -1,11 +1,5 @@
----json
-{
-    "name":"paryante",
-    "h1":"paryante",
-    "title":"paryante -- synonyms, prabhupada.io",
-    "description":"at the end of the duration."
-}
----
+~~Title:paryante~~
+{{description>at the end of the duration.}}
 
 ==== paryante  ====
   * at the end of the duration --- [[books:sb:1:6:30|SB 1.6.30]]

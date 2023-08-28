@@ -1,11 +1,5 @@
----json
-{
-    "name":"vandanti",
-    "h1":"vandanti",
-    "title":"vandanti -- synonyms, prabhupada.io",
-    "description":"offer prayers."
-}
----
+~~Title:vandanti~~
+{{description>offer prayers.}}
 
 ==== vandanti  ====
   * offer prayers --- [[books:sb:9:18:12-14|SB 9.18.12-14]]

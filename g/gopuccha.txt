@@ -1,11 +1,5 @@
----json
-{
-    "name":"gopuccha",
-    "h1":"gopuccha",
-    "title":"gopuccha -- synonyms, prabhupada.io",
-    "description":"a type of deer."
-}
----
+~~Title:gopuccha~~
+{{description>a type of deer.}}
 
 ==== gopuccha  ====
   * a type of deer --- [[books:sb:8:2:22|SB 8.2.22]]

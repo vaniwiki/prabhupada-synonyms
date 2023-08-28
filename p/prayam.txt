@@ -1,11 +1,5 @@
----json
-{
-    "name":"prāyam",
-    "h1":"prāyam",
-    "title":"prāyam -- synonyms, prabhupada.io",
-    "description":"for fasting."
-}
----
+~~Title:prāyam~~
+{{description>for fasting.}}
 
 ==== prāyam  ====
   * for fasting --- [[books:sb:1:19:5|SB 1.19.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasat",
-    "h1":"vasat",
-    "title":"vasat -- synonyms, prabhupada.io",
-    "description":"under obligation."
-}
----
+~~Title:vasat~~
+{{description>under obligation.}}
 
 ==== vaśāt  ====
   * under obligation --- [[books:bg:9:8|Bg. 9.8]]

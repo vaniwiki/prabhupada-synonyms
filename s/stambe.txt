@@ -1,11 +1,5 @@
----json
-{
-    "name":"stambe",
-    "h1":"stambe",
-    "title":"stambe -- synonyms, prabhupada.io",
-    "description":"on a clump of śara grass."
-}
----
+~~Title:stambe~~
+{{description>on a clump of śara grass.}}
 
 ==== śara-stambe  ====
   * on a clump of //śara// grass --- [[books:sb:9:21:35|SB 9.21.35]]

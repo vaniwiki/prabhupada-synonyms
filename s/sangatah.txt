@@ -1,11 +1,5 @@
----json
-{
-    "name":"sangatah",
-    "h1":"sangatah",
-    "title":"sangatah -- synonyms, prabhupada.io",
-    "description":"association; from the fellowship."
-}
----
+~~Title:sangatah~~
+{{description>association; from the fellowship.}}
 
 ==== saṅgataḥ  ====
   * association --- [[books:sb:2:3:11|SB 2.3.11]]

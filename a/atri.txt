@@ -1,11 +1,5 @@
----json
-{
-    "name":"atri",
-    "h1":"atri",
-    "title":"atri -- synonyms, prabhupada.io",
-    "description":"Atri and Aṅgirā."
-}
----
+~~Title:atri~~
+{{description>Atri and Aṅgirā.}}
 
 ==== atri-aṅgirasau  ====
   * Atri and Aṅgirā --- [[books:sb:4:29:42-44|SB 4.29.42-44]]

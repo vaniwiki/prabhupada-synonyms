@@ -1,11 +1,5 @@
----json
-{
-    "name":"pradhanam",
-    "h1":"pradhanam",
-    "title":"pradhanam -- synonyms, prabhupada.io",
-    "description":"a fight."
-}
----
+~~Title:pradhanam~~
+{{description>a fight.}}
 
 ==== pradhanam  ====
   * a fight --- [[books:sb:9:6:17|SB 9.6.17]]

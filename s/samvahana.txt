@@ -1,11 +1,5 @@
----json
-{
-    "name":"samvahana",
-    "h1":"samvahana",
-    "title":"samvahana -- synonyms, prabhupada.io",
-    "description":"massaging."
-}
----
+~~Title:samvahana~~
+{{description>massaging.}}
 
 ==== saṁvāhana  ====
   * massaging --- [[books:cc:antya:9:82|Antya 9.82]]

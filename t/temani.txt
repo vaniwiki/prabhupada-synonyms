@@ -1,11 +1,5 @@
----json
-{
-    "name":"temani",
-    "h1":"temani",
-    "title":"temani -- synonyms, prabhupada.io",
-    "description":"exactly as before."
-}
----
+~~Title:temani~~
+{{description>exactly as before.}}
 
 ==== temani  ====
   * exactly as before --- [[books:cc:madhya:4:77|Madhya 4.77]]

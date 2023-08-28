@@ -1,11 +1,5 @@
----json
-{
-    "name":"dig",
-    "h1":"dig",
-    "title":"dig -- synonyms, prabhupada.io",
-    "description":"a general survey; a glimpse of the direction."
-}
----
+~~Title:dig~~
+{{description>a general survey; a glimpse of the direction.}}
 
 ==== dig-daraśana  ====
   * a general survey --- [[books:cc:madhya:1:90|Madhya 1.90]]

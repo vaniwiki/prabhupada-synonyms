@@ -1,11 +1,5 @@
----json
-{
-    "name":"darsita",
-    "h1":"darsita",
-    "title":"darsita -- synonyms, prabhupada.io",
-    "description":"being shown; displayed."
-}
----
+~~Title:darsita~~
+{{description>being shown; displayed.}}
 
 ==== darśita  ====
   * being shown --- [[books:sb:4:22:41|SB 4.22.41]]

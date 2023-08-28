@@ -1,11 +1,5 @@
----json
-{
-    "name":"alpake",
-    "h1":"alpake",
-    "title":"alpake -- synonyms, prabhupada.io",
-    "description":"less important."
-}
----
+~~Title:alpake~~
+{{description>less important.}}
 
 ==== alpake  ====
   * less important --- [[books:sb:8:11:36|SB 8.11.36]]

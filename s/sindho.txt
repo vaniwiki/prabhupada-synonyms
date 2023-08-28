@@ -1,11 +1,5 @@
----json
-{
-    "name":"sindho",
-    "h1":"sindho",
-    "title":"sindho -- synonyms, prabhupada.io",
-    "description":"O ocean of mercy."
-}
----
+~~Title:sindho~~
+{{description>O ocean of mercy.}}
 
 ==== he karuṇa-eka-sindho  ====
   * O ocean of mercy --- [[books:cc:madhya:2:65|Madhya 2.65]]

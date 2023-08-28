@@ -1,11 +1,5 @@
----json
-{
-    "name":"pranayitam",
-    "h1":"pranayitam",
-    "title":"pranayitam -- synonyms, prabhupada.io",
-    "description":"love."
-}
----
+~~Title:pranayitam~~
+{{description>love.}}
 
 ==== pranayitām  ====
   * love --- [[books:cc:adi:3:66|Ādi 3.66]]

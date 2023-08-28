@@ -1,11 +1,5 @@
----json
-{
-    "name":"kohi",
-    "h1":"kohi",
-    "title":"kohi -- synonyms, prabhupada.io",
-    "description":"anywhere and everywhere."
-}
----
+~~Title:kohi~~
+{{description>anywhere and everywhere.}}
 
 ==== yohi kohi  ====
   * anywhere and everywhere --- [[books:cc:madhya:24:60|Madhya 24.60]]

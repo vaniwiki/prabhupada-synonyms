@@ -1,11 +1,5 @@
----json
-{
-    "name":"anidram",
-    "h1":"anidram",
-    "title":"anidram -- synonyms, prabhupada.io",
-    "description":"always awake and free from ignorance."
-}
----
+~~Title:anidram~~
+{{description>always awake and free from ignorance.}}
 
 ==== anidram  ====
   * always awake and free from ignorance --- [[books:sb:8:5:27|SB 8.5.27]]

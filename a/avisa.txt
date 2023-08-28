@@ -1,11 +1,5 @@
----json
-{
-    "name":"avisa",
-    "h1":"avisa",
-    "title":"avisa -- synonyms, prabhupada.io",
-    "description":"take to."
-}
----
+~~Title:avisa~~
+{{description>take to.}}
 
 ==== āviśa  ====
   * take to --- [[books:sb:6:15:26|SB 6.15.26]]

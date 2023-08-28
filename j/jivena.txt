@@ -1,11 +1,5 @@
----json
-{
-    "name":"jīvena",
-    "h1":"jīvena",
-    "title":"jīvena -- synonyms, prabhupada.io",
-    "description":"with the living entities."
-}
----
+~~Title:jīvena~~
+{{description>with the living entities.}}
 
 ==== jīvena  ====
   * with the living entities --- [[books:sb:7:14:37|SB 7.14.37]]

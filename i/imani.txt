@@ -1,11 +1,5 @@
----json
-{
-    "name":"imāni",
-    "h1":"imāni",
-    "title":"imāni -- synonyms, prabhupada.io",
-    "description":"these."
-}
----
+~~Title:imāni~~
+{{description>these.}}
 
 ==== imāni  ====
   * these --- [[books:sb:8:4:17-24|SB 8.4.17-24]]

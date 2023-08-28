@@ -1,11 +1,5 @@
----json
-{
-    "name":"lavena",
-    "h1":"lavena",
-    "title":"lavena -- synonyms, prabhupada.io",
-    "description":"by a moment; with a moment; with one instant."
-}
----
+~~Title:lavena~~
+{{description>by a moment; with a moment; with one instant.}}
 
 ==== lavena  ====
   * by a moment --- [[books:sb:1:18:13|SB 1.18.13]]

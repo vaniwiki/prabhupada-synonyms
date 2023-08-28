@@ -1,11 +1,5 @@
----json
-{
-    "name":"balakah",
-    "h1":"balakah",
-    "title":"balakah -- synonyms, prabhupada.io",
-    "description":"a son named Balāka."
-}
----
+~~Title:balakah~~
+{{description>a son named Balāka.}}
 
 ==== balākaḥ  ====
   * a son named Balāka --- [[books:sb:9:15:4|SB 9.15.4]]

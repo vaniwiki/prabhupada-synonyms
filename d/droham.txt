@@ -1,11 +1,5 @@
----json
-{
-    "name":"droham",
-    "h1":"droham",
-    "title":"droham -- synonyms, prabhupada.io",
-    "description":"envy."
-}
----
+~~Title:droham~~
+{{description>envy.}}
 
 ==== droham  ====
   * envy --- [[books:sb:10:1:44|SB 10.1.44]]

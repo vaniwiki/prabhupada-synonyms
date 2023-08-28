@@ -1,11 +1,5 @@
----json
-{
-    "name":"lambate",
-    "h1":"lambate",
-    "title":"lambate -- synonyms, prabhupada.io",
-    "description":"is increasing."
-}
----
+~~Title:lambate~~
+{{description>is increasing.}}
 
 ==== lambate  ====
   * is increasing --- [[books:cc:antya:17:51|Antya 17.51]]

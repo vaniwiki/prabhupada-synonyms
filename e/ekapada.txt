@@ -1,11 +1,5 @@
----json
-{
-    "name":"ekapada",
-    "h1":"ekapada",
-    "title":"ekapada -- synonyms, prabhupada.io",
-    "description":"the ekapada."
-}
----
+~~Title:ekapada~~
+{{description>the ekapada.}}
 
 ==== ekapada  ====
   * the //ekapada// --- [[books:sb:4:6:21|SB 4.6.21]]

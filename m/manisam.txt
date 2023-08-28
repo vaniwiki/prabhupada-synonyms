@@ -1,11 +1,5 @@
----json
-{
-    "name":"manisam",
-    "h1":"manisam",
-    "title":"manisam -- synonyms, prabhupada.io",
-    "description":"philosophically."
-}
----
+~~Title:manisam~~
+{{description>philosophically.}}
 
 ==== manīṣām  ====
   * philosophically --- [[books:sb:2:9:28|SB 2.9.28]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"dina",
-    "h1":"dina",
-    "title":"dina -- synonyms, prabhupada.io",
-    "description":"day; days; the day."
-}
----
+~~Title:dina~~
+{{description>day; days; the day.}}
 
 ==== dina  ====
   * day --- [[books:cc:adi:14:18|Ādi 14.18]], [[books:cc:adi:17:101|Ādi 17.101]], [[books:cc:adi:17:201-202|Ādi 17.201-202]]

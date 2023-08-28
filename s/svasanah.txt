@@ -1,11 +1,5 @@
----json
-{
-    "name":"svasanah",
-    "h1":"svasanah",
-    "title":"svasanah -- synonyms, prabhupada.io",
-    "description":"interaction of the wind and the pipe plants."
-}
----
+~~Title:svasanah~~
+{{description>interaction of the wind and the pipe plants.}}
 
 ==== śvasanaḥ  ====
   * interaction of the wind and the pipe plants --- [[books:sb:1:11:34|SB 1.11.34]]

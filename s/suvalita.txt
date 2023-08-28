@@ -1,11 +1,5 @@
----json
-{
-    "name":"suvalita",
-    "h1":"suvalita",
-    "title":"suvalita -- synonyms, prabhupada.io",
-    "description":"well-formed."
-}
----
+~~Title:suvalita~~
+{{description>well-formed.}}
 
 ==== suvalita  ====
   * well-formed --- [[books:cc:adi:5:185|Ādi 5.185]]

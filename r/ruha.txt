@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruha",
-    "h1":"ruha",
-    "title":"ruha -- synonyms, prabhupada.io",
-    "description":"sprouted."
-}
----
+~~Title:ruha~~
+{{description>sprouted.}}
 
 ==== ruha  ====
   * sprouted --- [[books:sb:4:9:14|SB 4.9.14]]

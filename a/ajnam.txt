@@ -1,11 +1,5 @@
----json
-{
-    "name":"ajnam",
-    "h1":"ajnam",
-    "title":"ajnam -- synonyms, prabhupada.io",
-    "description":"foolish."
-}
----
+~~Title:ajnam~~
+{{description>foolish.}}
 
 ==== ajñam  ====
   * foolish --- [[books:cc:antya:5:137|Antya 5.137]]

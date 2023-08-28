@@ -1,11 +1,5 @@
----json
-{
-    "name":"gadau",
-    "h1":"gadau",
-    "title":"gadau -- synonyms, prabhupada.io",
-    "description":"maces."
-}
----
+~~Title:gadau~~
+{{description>maces.}}
 
 ==== gadau  ====
   * maces --- [[books:sb:3:15:27|SB 3.15.27]]

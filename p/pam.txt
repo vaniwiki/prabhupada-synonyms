@@ -1,11 +1,5 @@
----json
-{
-    "name":"pam",
-    "h1":"pam",
-    "title":"pam -- synonyms, prabhupada.io",
-    "description":"the King of the elephants, Gajendra."
-}
----
+~~Title:pam~~
+{{description>the King of the elephants, Gajendra.}}
 
 ==== gaja-yūtha-pam  ====
   * the King of the elephants, Gajendra --- [[books:sb:8:4:13|SB 8.4.13]]

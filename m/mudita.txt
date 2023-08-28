@@ -1,11 +1,5 @@
----json
-{
-    "name":"mudita",
-    "h1":"mudita",
-    "title":"mudita -- synonyms, prabhupada.io",
-    "description":"delighted; enthused."
-}
----
+~~Title:mudita~~
+{{description>delighted; enthused.}}
 
 ==== mudita  ====
   * delighted --- [[books:sb:5:25:5|SB 5.25.5]]

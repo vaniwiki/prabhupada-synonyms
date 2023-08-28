@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahana",
-    "h1":"kahana",
-    "title":"kahana -- synonyms, prabhupada.io",
-    "description":"describing; to describe; to say; to speak."
-}
----
+~~Title:kahana~~
+{{description>describing; to describe; to say; to speak.}}
 
 ==== kahana  ====
   * describing --- [[books:cc:madhya:7:125|Madhya 7.125]], [[books:cc:madhya:23:125|Madhya 23.125]], [[books:cc:antya:15:15|Antya 15.15]]

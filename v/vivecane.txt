@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivecane",
-    "h1":"vivecane",
-    "title":"vivecane -- synonyms, prabhupada.io",
-    "description":"in analyzing."
-}
----
+~~Title:vivecane~~
+{{description>in analyzing.}}
 
 ==== vivecane  ====
   * in analyzing --- [[books:cc:madhya:1:74|Madhya 1.74]]

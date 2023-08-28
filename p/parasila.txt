@@ -1,11 +1,5 @@
----json
-{
-    "name":"parasila",
-    "h1":"parasila",
-    "title":"parasila -- synonyms, prabhupada.io",
-    "description":"entered."
-}
----
+~~Title:parasila~~
+{{description>entered.}}
 
 ==== paraśila  ====
   * entered --- [[books:cc:antya:18:75|Antya 18.75]]

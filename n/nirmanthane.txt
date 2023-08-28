@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirmanthane",
-    "h1":"nirmanthane",
-    "title":"nirmanthane -- synonyms, prabhupada.io",
-    "description":"while churning the yogurt."
-}
----
+~~Title:nirmanthane~~
+{{description>while churning the yogurt.}}
 
 ==== dadhi-nirmanthane  ====
   * while churning the yogurt --- [[books:sb:10:9:1-2|SB 10.9.1-2]]

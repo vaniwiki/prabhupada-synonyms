@@ -1,11 +1,5 @@
----json
-{
-    "name":"amartya",
-    "h1":"amartya",
-    "title":"amartya -- synonyms, prabhupada.io",
-    "description":"O immortal lord."
-}
----
+~~Title:amartya~~
+{{description>O immortal lord.}}
 
 ==== amartya  ====
   * O immortal lord --- [[books:sb:4:3:14|SB 4.3.14]]

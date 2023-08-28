@@ -1,11 +1,5 @@
----json
-{
-    "name":"upama",
-    "h1":"upama",
-    "title":"upama -- synonyms, prabhupada.io",
-    "description":"analogy; comparison; example; principles that appear religious but are not; simile; the comparison."
-}
----
+~~Title:upama~~
+{{description>analogy; comparison; example; principles that appear religious but are not; simile; the comparison.}}
 
 ==== upamā  ====
   * analogy --- [[books:cc:adi:16:78|Ādi 16.78]]

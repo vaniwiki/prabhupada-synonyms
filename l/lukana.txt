@@ -1,11 +1,5 @@
----json
-{
-    "name":"lukana",
-    "h1":"lukana",
-    "title":"lukana -- synonyms, prabhupada.io",
-    "description":"secret."
-}
----
+~~Title:lukana~~
+{{description>secret.}}
 
 ==== lukāna  ====
   * secret --- [[books:cc:madhya:4:78|Madhya 4.78]]

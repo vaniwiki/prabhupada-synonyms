@@ -1,11 +1,5 @@
----json
-{
-    "name":"abha",
-    "h1":"abha",
-    "title":"abha -- synonyms, prabhupada.io",
-    "description":"like."
-}
----
+~~Title:abha~~
+{{description>like.}}
 
 ==== ābha  ====
   * like --- [[books:sb:4:7:33|SB 4.7.33]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrta",
-    "h1":"vrta",
-    "title":"vrta -- synonyms, prabhupada.io",
-    "description":"surrounded by."
-}
----
+~~Title:vrta~~
+{{description>surrounded by.}}
 
 ==== vṛta  ====
   * surrounded by --- [[books:sb:1:11:12|SB 1.11.12]]

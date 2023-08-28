@@ -1,11 +1,5 @@
----json
-{
-    "name":"drave",
-    "h1":"drave",
-    "title":"drave -- synonyms, prabhupada.io",
-    "description":"melt; melts."
-}
----
+~~Title:drave~~
+{{description>melt; melts.}}
 
 ==== drave  ====
   * melt --- [[books:cc:adi:11:19|Ādi 11.19]]

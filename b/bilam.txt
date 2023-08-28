@@ -1,11 +1,5 @@
----json
-{
-    "name":"bilam",
-    "h1":"bilam",
-    "title":"bilam -- synonyms, prabhupada.io",
-    "description":"the hole."
-}
----
+~~Title:bilam~~
+{{description>the hole.}}
 
 ==== bilam  ====
   * the hole --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

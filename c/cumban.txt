@@ -1,11 +1,5 @@
----json
-{
-    "name":"cumban",
-    "h1":"cumban",
-    "title":"cumban -- synonyms, prabhupada.io",
-    "description":"kissing."
-}
----
+~~Title:cumban~~
+{{description>kissing.}}
 
 ==== cumban  ====
   * kissing --- [[books:sb:4:9:3|SB 4.9.3]]

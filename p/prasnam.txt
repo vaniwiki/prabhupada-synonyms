@@ -1,11 +1,5 @@
----json
-{
-    "name":"praśnam",
-    "h1":"praśnam",
-    "title":"praśnam -- synonyms, prabhupada.io",
-    "description":"question."
-}
----
+~~Title:praśnam~~
+{{description>question.}}
 
 ==== praśnam  ====
   * question --- [[books:sb:9:1:28|SB 9.1.28]]

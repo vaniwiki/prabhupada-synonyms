@@ -1,11 +1,5 @@
----json
-{
-    "name":"sikharinam",
-    "h1":"sikharinam",
-    "title":"sikharinam -- synonyms, prabhupada.io",
-    "description":"of all mountains."
-}
----
+~~Title:sikharinam~~
+{{description>of all mountains.}}
 
 ==== śikhariṇām  ====
   * of all mountains --- [[books:bg:10:23|Bg. 10.23]]

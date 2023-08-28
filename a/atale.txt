@@ -1,11 +1,5 @@
----json
-{
-    "name":"atale",
-    "h1":"atale",
-    "title":"atale -- synonyms, prabhupada.io",
-    "description":"on the planet named Atala."
-}
----
+~~Title:atale~~
+{{description>on the planet named Atala.}}
 
 ==== atale  ====
   * on the planet named Atala --- [[books:sb:5:24:16|SB 5.24.16]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kono",
-    "h1":"kono",
-    "title":"kono -- synonyms, prabhupada.io",
-    "description":"some."
-}
----
+~~Title:kono~~
+{{description>some.}}
 
 ==== kono kono  ====
   * some --- [[books:cc:antya:1:11|Antya 1.11]]

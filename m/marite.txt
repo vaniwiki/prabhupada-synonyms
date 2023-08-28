@@ -1,11 +1,5 @@
----json
-{
-    "name":"marite",
-    "h1":"marite",
-    "title":"marite -- synonyms, prabhupada.io",
-    "description":"to die."
-}
----
+~~Title:marite~~
+{{description>to die.}}
 
 ==== marite  ====
   * to die --- [[books:cc:adi:10:96|Ādi 10.96]]

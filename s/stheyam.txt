@@ -1,11 +1,5 @@
----json
-{
-    "name":"stheyam",
-    "h1":"stheyam",
-    "title":"stheyam -- synonyms, prabhupada.io",
-    "description":"should be staying; We must stay."
-}
----
+~~Title:stheyam~~
+{{description>should be staying; We must stay.}}
 
 ==== stheyam  ====
   * should be staying --- [[books:sb:10:5:31|SB 10.5.31]]

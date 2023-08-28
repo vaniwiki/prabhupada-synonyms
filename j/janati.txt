@@ -1,11 +1,5 @@
----json
-{
-    "name":"janati",
-    "h1":"janati",
-    "title":"janati -- synonyms, prabhupada.io",
-    "description":"knowing."
-}
----
+~~Title:janati~~
+{{description>knowing.}}
 
 ==== jānatī  ====
   * knowing --- [[books:sb:4:27:21|SB 4.27.21]]

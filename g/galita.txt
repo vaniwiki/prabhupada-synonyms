@@ -1,11 +1,5 @@
----json
-{
-    "name":"galita",
-    "h1":"galita",
-    "title":"galita -- synonyms, prabhupada.io",
-    "description":"acute."
-}
----
+~~Title:galita~~
+{{description>acute.}}
 
 ==== galita  ====
   * acute --- [[books:cc:madhya:7:136|Madhya 7.136]]

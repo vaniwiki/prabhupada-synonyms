@@ -1,11 +1,5 @@
----json
-{
-    "name":"majja",
-    "h1":"majja",
-    "title":"majja -- synonyms, prabhupada.io",
-    "description":"by bathing."
-}
----
+~~Title:majja~~
+{{description>by bathing.}}
 
 ==== majja  ====
   * by bathing --- [[books:sb:10:13:23|SB 10.13.23]]

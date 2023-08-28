@@ -1,11 +1,5 @@
----json
-{
-    "name":"valayam",
-    "h1":"valayam",
-    "title":"valayam -- synonyms, prabhupada.io",
-    "description":"bracelets."
-}
----
+~~Title:valayam~~
+{{description>bracelets.}}
 
 ==== valayam  ====
   * bracelets --- [[books:sb:3:15:40|SB 3.15.40]]

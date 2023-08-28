@@ -1,11 +1,5 @@
----json
-{
-    "name":"avitari",
-    "h1":"avitari",
-    "title":"avitari -- synonyms, prabhupada.io",
-    "description":"the controller of religion."
-}
----
+~~Title:avitari~~
+{{description>the controller of religion.}}
 
 ==== dharma-avitari  ====
   * the controller of religion --- [[books:sb:4:4:17|SB 4.4.17]]

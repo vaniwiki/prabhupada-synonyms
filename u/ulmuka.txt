@@ -1,11 +1,5 @@
----json
-{
-    "name":"ulmuka",
-    "h1":"ulmuka",
-    "title":"ulmuka -- synonyms, prabhupada.io",
-    "description":"like a meteor."
-}
----
+~~Title:ulmuka~~
+{{description>like a meteor.}}
 
 ==== ulmuka  ====
   * like a meteor --- [[books:sb:5:13:3|SB 5.13.3]]

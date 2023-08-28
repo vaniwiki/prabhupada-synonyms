@@ -1,11 +1,5 @@
----json
-{
-    "name":"atavi",
-    "h1":"atavi",
-    "title":"atavi -- synonyms, prabhupada.io",
-    "description":"in the dense forest."
-}
----
+~~Title:atavi~~
+{{description>in the dense forest.}}
 
 ==== aṭavi  ====
   * in the dense forest --- [[books:sb:6:8:14|SB 6.8.14]]

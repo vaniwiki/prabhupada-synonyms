@@ -1,11 +1,5 @@
----json
-{
-    "name":"kāni",
-    "h1":"kāni",
-    "title":"kāni -- synonyms, prabhupada.io",
-    "description":"what."
-}
----
+~~Title:kāni~~
+{{description>what.}}
 
 ==== kāni  ====
   * what --- [[books:sb:3:20:1|SB 3.20.1]]

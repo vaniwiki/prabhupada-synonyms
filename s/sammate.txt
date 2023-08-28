@@ -1,11 +1,5 @@
----json
-{
-    "name":"sammate",
-    "h1":"sammate",
-    "title":"sammate -- synonyms, prabhupada.io",
-    "description":"agreed."
-}
----
+~~Title:sammate~~
+{{description>agreed.}}
 
 ==== ha-ilā sammate  ====
   * agreed --- [[books:cc:madhya:5:80|Madhya 5.80]]

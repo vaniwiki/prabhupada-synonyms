@@ -1,11 +1,5 @@
----json
-{
-    "name":"akulam",
-    "h1":"akulam",
-    "title":"akulam -- synonyms, prabhupada.io",
-    "description":"overwhelmed."
-}
----
+~~Title:akulam~~
+{{description>overwhelmed.}}
 
 ==== ākulām  ====
   * overwhelmed --- [[books:cc:adi:4:260|Ādi 4.260]]

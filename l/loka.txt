@@ -1,11 +1,5 @@
----json
-{
-    "name":"loka",
-    "h1":"loka",
-    "title":"loka -- synonyms, prabhupada.io",
-    "description":"the region of the Siddhas."
-}
----
+~~Title:loka~~
+{{description>the region of the Siddhas.}}
 
 ==== 'siddha-loka'  ====
   * the region of the Siddhas --- [[books:cc:adi:5:33|Ādi 5.33]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"tvaci",
-    "h1":"tvaci",
-    "title":"tvaci -- synonyms, prabhupada.io",
-    "description":"from the touch; in the skin; on the skin; touch of the skin."
-}
----
+~~Title:tvaci~~
+{{description>from the touch; in the skin; on the skin; touch of the skin.}}
 
 ==== tvaci  ====
   * from the touch --- [[books:sb:3:12:23|SB 3.12.23]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakhe",
-    "h1":"sakhe",
-    "title":"sakhe -- synonyms, prabhupada.io",
-    "description":"friend; my friend; O dear friend; O friend; O my dear friend; O my friend; unto the friend."
-}
----
+~~Title:sakhe~~
+{{description>friend; my friend; O dear friend; O friend; O my dear friend; O my friend; unto the friend.}}
 
 ==== sakhe  ====
   * friend --- [[books:sb:1:15:18|SB 1.15.18]]

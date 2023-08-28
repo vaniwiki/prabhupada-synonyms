@@ -1,11 +1,5 @@
----json
-{
-    "name":"samudram",
-    "h1":"samudram",
-    "title":"samudram -- synonyms, prabhupada.io",
-    "description":"ocean; the ocean."
-}
----
+~~Title:samudram~~
+{{description>ocean; the ocean.}}
 
 ==== samudram  ====
   * ocean --- [[books:bg:11:28|Bg. 11.28]]

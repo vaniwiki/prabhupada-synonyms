@@ -1,11 +1,5 @@
----json
-{
-    "name":"malena",
-    "h1":"malena",
-    "title":"malena -- synonyms, prabhupada.io",
-    "description":"by dust."
-}
----
+~~Title:malena~~
+{{description>by dust.}}
 
 ==== malena  ====
   * by dust --- [[books:bg:3:38|Bg. 3.38]]

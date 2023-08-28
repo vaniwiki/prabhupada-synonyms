@@ -1,11 +1,5 @@
----json
-{
-    "name":"rasanam",
-    "h1":"rasanam",
-    "title":"rasanam -- synonyms, prabhupada.io",
-    "description":"taste; the sense of taste; tongue."
-}
----
+~~Title:rasanam~~
+{{description>taste; the sense of taste; tongue.}}
 
 ==== rasanam  ====
   * taste --- [[books:sb:8:7:26|SB 8.7.26]]

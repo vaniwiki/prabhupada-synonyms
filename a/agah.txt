@@ -1,11 +1,5 @@
----json
-{
-    "name":"agah",
-    "h1":"agah",
-    "title":"agah -- synonyms, prabhupada.io",
-    "description":"You obtained."
-}
----
+~~Title:agah~~
+{{description>You obtained.}}
 
 ==== agāḥ  ====
   * You obtained --- [[books:sb:3:16:21|SB 3.16.21]]

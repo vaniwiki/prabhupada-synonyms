@@ -1,11 +1,5 @@
----json
-{
-    "name":"jvalati",
-    "h1":"jvalati",
-    "title":"jvalati -- synonyms, prabhupada.io",
-    "description":"ignite."
-}
----
+~~Title:jvalati~~
+{{description>ignite.}}
 
 ==== jvalati  ====
   * ignite --- [[books:sb:1:14:18|SB 1.14.18]]

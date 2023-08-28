@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahatena",
-    "h1":"ahatena",
-    "title":"ahatena -- synonyms, prabhupada.io",
-    "description":"with new."
-}
----
+~~Title:ahatena~~
+{{description>with new.}}
 
 ==== ahatena  ====
   * with new --- [[books:sb:5:9:15|SB 5.9.15]]

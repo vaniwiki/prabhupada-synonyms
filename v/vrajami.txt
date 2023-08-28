@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrajāmi",
-    "h1":"vrajāmi",
-    "title":"vrajāmi -- synonyms, prabhupada.io",
-    "description":"go; I can find."
-}
----
+~~Title:vrajāmi~~
+{{description>go; I can find.}}
 
 ==== vrajāmi  ====
   * go --- [[books:sb:3:31:12|SB 3.31.12]]

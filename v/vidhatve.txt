@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidhatve",
-    "h1":"vidhatve",
-    "title":"vidhatve -- synonyms, prabhupada.io",
-    "description":"in three departments."
-}
----
+~~Title:vidhatve~~
+{{description>in three departments.}}
 
 ==== tri-vidhatve  ====
   * in three departments --- [[books:cc:adi:5:16|Ādi 5.16]]

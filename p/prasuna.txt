@@ -1,11 +1,5 @@
----json
-{
-    "name":"prasūna",
-    "h1":"prasūna",
-    "title":"prasūna -- synonyms, prabhupada.io",
-    "description":"flowers."
-}
----
+~~Title:prasūna~~
+{{description>flowers.}}
 
 ==== prasūna  ====
   * flowers --- [[books:sb:1:11:27|SB 1.11.27]]

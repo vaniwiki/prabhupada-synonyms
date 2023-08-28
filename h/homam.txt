@@ -1,11 +1,5 @@
----json
-{
-    "name":"homam",
-    "h1":"homam",
-    "title":"homam -- synonyms, prabhupada.io",
-    "description":"by executing a fire sacrifice."
-}
----
+~~Title:homam~~
+{{description>by executing a fire sacrifice.}}
 
 ==== homam  ====
   * by executing a fire sacrifice --- [[books:sb:8:16:47|SB 8.16.47]]

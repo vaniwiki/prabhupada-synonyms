@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhvanite",
-    "h1":"dhvanite",
-    "title":"dhvanite -- synonyms, prabhupada.io",
-    "description":"by the sound."
-}
----
+~~Title:dhvanite~~
+{{description>by the sound.}}
 
 ==== dhvanite  ====
   * by the sound --- [[books:cc:adi:17:141|Ādi 17.141]]

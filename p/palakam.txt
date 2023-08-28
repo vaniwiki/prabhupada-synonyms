@@ -1,11 +1,5 @@
----json
-{
-    "name":"pālakam",
-    "h1":"pālakam",
-    "title":"pālakam -- synonyms, prabhupada.io",
-    "description":"the guardian."
-}
----
+~~Title:pālakam~~
+{{description>the guardian.}}
 
 ==== pālakam  ====
   * the guardian --- [[books:sb:3:17:27|SB 3.17.27]]

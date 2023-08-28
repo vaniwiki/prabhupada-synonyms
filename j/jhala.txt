@@ -1,11 +1,5 @@
----json
-{
-    "name":"jhala",
-    "h1":"jhala",
-    "title":"jhala -- synonyms, prabhupada.io",
-    "description":"the taste of chili."
-}
----
+~~Title:jhala~~
+{{description>the taste of chili.}}
 
 ==== jhāla  ====
   * the taste of chili --- [[books:cc:antya:13:76|Antya 13.76]]

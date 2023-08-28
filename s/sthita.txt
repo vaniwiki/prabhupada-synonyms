@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthita",
-    "h1":"sthita",
-    "title":"sthita -- synonyms, prabhupada.io",
-    "description":"situated; situated at."
-}
----
+~~Title:sthita~~
+{{description>situated; situated at.}}
 
 ==== sthita  ====
   * situated --- [[books:cc:adi:10:39|Ādi 10.39]]

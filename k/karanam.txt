@@ -1,11 +1,5 @@
----json
-{
-    "name":"karanam",
-    "h1":"karanam",
-    "title":"karanam -- synonyms, prabhupada.io",
-    "description":"the senses."
-}
----
+~~Title:karanam~~
+{{description>the senses.}}
 
 ==== karaṇam  ====
   * the senses --- [[books:bg:18:18|Bg. 18.18]]

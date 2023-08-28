@@ -1,11 +1,5 @@
----json
-{
-    "name":"tathi",
-    "h1":"tathi",
-    "title":"tathi -- synonyms, prabhupada.io",
-    "description":"there; this."
-}
----
+~~Title:tathi~~
+{{description>there; this.}}
 
 ==== tathi  ====
   * there --- [[books:cc:adi:5:53|Ādi 5.53]]

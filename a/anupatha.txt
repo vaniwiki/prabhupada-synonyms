@@ -1,11 +1,5 @@
----json
-{
-    "name":"anupatha",
-    "h1":"anupatha",
-    "title":"anupatha -- synonyms, prabhupada.io",
-    "description":"on the path."
-}
----
+~~Title:anupatha~~
+{{description>on the path.}}
 
 ==== anupatha  ====
   * on the path --- [[books:sb:3:16:21|SB 3.16.21]]

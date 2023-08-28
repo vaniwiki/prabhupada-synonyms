@@ -1,11 +1,5 @@
----json
-{
-    "name":"iksa",
-    "h1":"iksa",
-    "title":"iksa -- synonyms, prabhupada.io",
-    "description":"observing."
-}
----
+~~Title:iksa~~
+{{description>observing.}}
 
 ==== īkṣa  ====
   * observing --- [[books:sb:7:7:30-31|SB 7.7.30-31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kalpete",
-    "h1":"kalpete",
-    "title":"kalpete -- synonyms, prabhupada.io",
-    "description":"become."
-}
----
+~~Title:kalpete~~
+{{description>become.}}
 
 ==== kalpete  ====
   * become --- [[books:sb:9:4:70|SB 9.4.70]]

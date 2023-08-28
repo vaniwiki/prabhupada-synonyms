@@ -1,11 +1,5 @@
----json
-{
-    "name":"dinena",
-    "h1":"dinena",
-    "title":"dinena -- synonyms, prabhupada.io",
-    "description":"by a day."
-}
----
+~~Title:dinena~~
+{{description>by a day.}}
 
 ==== dinena  ====
   * by a day --- [[books:sb:5:22:8|SB 5.22.8]]

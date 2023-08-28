@@ -1,11 +1,5 @@
----json
-{
-    "name":"othā",
-    "h1":"othā",
-    "title":"othā -- synonyms, prabhupada.io",
-    "description":"there."
-}
----
+~~Title:othā~~
+{{description>there.}}
 
 ==== othā  ====
   * there --- [[books:cc:antya:18:59|Antya 18.59]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kandite",
-    "h1":"kandite",
-    "title":"kandite -- synonyms, prabhupada.io",
-    "description":"to cry."
-}
----
+~~Title:kandite~~
+{{description>to cry.}}
 
 ==== kāndite  ====
   * to cry --- [[books:cc:madhya:3:140|Madhya 3.140]], [[books:cc:antya:16:129|Antya 16.129]]

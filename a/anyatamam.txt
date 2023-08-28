@@ -1,11 +1,5 @@
----json
-{
-    "name":"anyatamam",
-    "h1":"anyatamam",
-    "title":"anyatamam -- synonyms, prabhupada.io",
-    "description":"anyone else; other."
-}
----
+~~Title:anyatamam~~
+{{description>anyone else; other.}}
 
 ==== anyatamam  ====
   * anyone else --- [[books:sb:10:3:41|SB 10.3.41]]

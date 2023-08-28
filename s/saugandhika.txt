@@ -1,11 +1,5 @@
----json
-{
-    "name":"saugandhika",
-    "h1":"saugandhika",
-    "title":"saugandhika -- synonyms, prabhupada.io",
-    "description":"very fragrant."
-}
----
+~~Title:saugandhika~~
+{{description>very fragrant.}}
 
 ==== saugandhika  ====
   * very fragrant --- [[books:sb:9:6:45-46|SB 9.6.45-46]]

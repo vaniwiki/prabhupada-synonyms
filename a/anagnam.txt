@@ -1,11 +1,5 @@
----json
-{
-    "name":"anagnam",
-    "h1":"anagnam",
-    "title":"anagnam -- synonyms, prabhupada.io",
-    "description":"not naked."
-}
----
+~~Title:anagnam~~
+{{description>not naked.}}
 
 ==== anagnam  ====
   * not naked --- [[books:sb:1:4:5|SB 1.4.5]]

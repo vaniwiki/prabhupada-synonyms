@@ -1,11 +1,5 @@
----json
-{
-    "name":"malāt",
-    "h1":"malāt",
-    "title":"malāt -- synonyms, prabhupada.io",
-    "description":"because of impurity."
-}
----
+~~Title:malāt~~
+{{description>because of impurity.}}
 
 ==== malāt  ====
   * because of impurity --- [[books:sb:6:1:67|SB 6.1.67]]

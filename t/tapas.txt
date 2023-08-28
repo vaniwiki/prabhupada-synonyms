@@ -1,11 +1,5 @@
----json
-{
-    "name":"tapas",
-    "h1":"tapas",
-    "title":"tapas -- synonyms, prabhupada.io",
-    "description":"austerities."
-}
----
+~~Title:tapas~~
+{{description>austerities.}}
 
 ==== tapas  ====
   * austerities --- [[books:cc:adi:13:65|Ādi 13.65]]

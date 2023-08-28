@@ -1,11 +1,5 @@
----json
-{
-    "name":"khasa",
-    "h1":"khasa",
-    "title":"khasa -- synonyms, prabhupada.io",
-    "description":"the Mongolian province."
-}
----
+~~Title:khasa~~
+{{description>the Mongolian province.}}
 
 ==== khasa-ādayaḥ  ====
   * the Mongolian province --- [[books:sb:2:4:18|SB 2.4.18]]

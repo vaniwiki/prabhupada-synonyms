@@ -1,11 +1,5 @@
----json
-{
-    "name":"go",
-    "h1":"go",
-    "title":"go -- synonyms, prabhupada.io",
-    "description":"cow; cow protection; cows; of bulls; of cows; of the cows; on the backs of cows; the cows."
-}
----
+~~Title:go~~
+{{description>cow; cow protection; cows; of bulls; of cows; of the cows; on the backs of cows; the cows.}}
 
 ==== go  ====
   * cow --- [[books:sb:4:22:62|SB 4.22.62]]

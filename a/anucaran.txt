@@ -1,11 +1,5 @@
----json
-{
-    "name":"anucaran",
-    "h1":"anucaran",
-    "title":"anucaran -- synonyms, prabhupada.io",
-    "description":"serving; traveling; traveling around."
-}
----
+~~Title:anucaran~~
+{{description>serving; traveling; traveling around.}}
 
 ==== anucaran  ====
   * serving --- [[books:cc:madhya:1:206|Madhya 1.206]], [[books:cc:madhya:8:73|Madhya 8.73]]

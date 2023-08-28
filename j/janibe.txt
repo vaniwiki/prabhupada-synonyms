@@ -1,11 +1,5 @@
----json
-{
-    "name":"janibe",
-    "h1":"janibe",
-    "title":"janibe -- synonyms, prabhupada.io",
-    "description":"He will know."
-}
----
+~~Title:janibe~~
+{{description>He will know.}}
 
 ==== janibe  ====
   * He will know --- [[books:cc:adi:14:87|Ādi 14.87]]

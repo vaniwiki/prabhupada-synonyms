@@ -1,11 +1,5 @@
----json
-{
-    "name":"nade",
-    "h1":"nade",
-    "title":"nade -- synonyms, prabhupada.io",
-    "description":"shake; shakes."
-}
----
+~~Title:nade~~
+{{description>shake; shakes.}}
 
 ==== naḍe  ====
   * shake --- [[books:cc:antya:10:74|Antya 10.74]]

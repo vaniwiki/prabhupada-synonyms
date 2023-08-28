@@ -1,11 +1,5 @@
----json
-{
-    "name":"smera",
-    "h1":"smera",
-    "title":"smera -- synonyms, prabhupada.io",
-    "description":"mildly smiling; smiling."
-}
----
+~~Title:smera~~
+{{description>mildly smiling; smiling.}}
 
 ==== smera  ====
   * mildly smiling --- [[books:cc:antya:1:171|Antya 1.171]]

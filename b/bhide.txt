@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhide",
-    "h1":"bhide",
-    "title":"bhide -- synonyms, prabhupada.io",
-    "description":"in the crowd."
-}
----
+~~Title:bhide~~
+{{description>in the crowd.}}
 
 ==== bhīḍe  ====
   * in the crowd --- [[books:cc:antya:14:24|Antya 14.24]]

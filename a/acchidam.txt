@@ -1,11 +1,5 @@
----json
-{
-    "name":"acchidam",
-    "h1":"acchidam",
-    "title":"acchidam -- synonyms, prabhupada.io",
-    "description":"I cut."
-}
----
+~~Title:acchidam~~
+{{description>I cut.}}
 
 ==== acchidam  ====
   * I cut --- [[books:sb:6:18:71|SB 6.18.71]]

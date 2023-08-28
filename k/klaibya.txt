@@ -1,11 +1,5 @@
----json
-{
-    "name":"klaibya",
-    "h1":"klaibya",
-    "title":"klaibya -- synonyms, prabhupada.io",
-    "description":"poverty."
-}
----
+~~Title:klaibya~~
+{{description>poverty.}}
 
 ==== klaibya  ====
   * poverty --- [[books:sb:7:13:34|SB 7.13.34]]

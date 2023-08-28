@@ -1,11 +1,5 @@
----json
-{
-    "name":"hayam",
-    "h1":"hayam",
-    "title":"hayam -- synonyms, prabhupada.io",
-    "description":"horse; the horse (stolen by Indra); the horse."
-}
----
+~~Title:hayam~~
+{{description>horse; the horse (stolen by Indra); the horse.}}
 
 ==== hayam  ====
   * horse --- [[books:sb:4:16:24|SB 4.16.24]], [[books:sb:4:17:4|SB 4.17.4]]

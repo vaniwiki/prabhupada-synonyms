@@ -1,11 +1,5 @@
----json
-{
-    "name":"arbuda",
-    "h1":"arbuda",
-    "title":"arbuda -- synonyms, prabhupada.io",
-    "description":"a hundred million."
-}
----
+~~Title:arbuda~~
+{{description>a hundred million.}}
 
 ==== arbuda  ====
   * a hundred million --- [[books:cc:madhya:21:20|Madhya 21.20]], [[books:cc:madhya:21:67|Madhya 21.67]]

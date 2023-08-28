@@ -1,11 +1,5 @@
----json
-{
-    "name":"kamalam",
-    "h1":"kamalam",
-    "title":"kamalam -- synonyms, prabhupada.io",
-    "description":"resembling a lotus flower."
-}
----
+~~Title:kamalam~~
+{{description>resembling a lotus flower.}}
 
 ==== kamalam  ====
   * resembling a lotus flower --- [[books:cc:madhya:20:258|Madhya 20.258]]

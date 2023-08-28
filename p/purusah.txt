@@ -1,11 +1,5 @@
----json
-{
-    "name":"purusah",
-    "h1":"purusah",
-    "title":"purusah -- synonyms, prabhupada.io",
-    "description":"man."
-}
----
+~~Title:purusah~~
+{{description>man.}}
 
 ==== puruṣah  ====
   * man --- [[books:bg:3:4|Bg. 3.4]]

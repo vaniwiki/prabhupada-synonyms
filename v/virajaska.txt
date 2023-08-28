@@ -1,11 +1,5 @@
----json
-{
-    "name":"virajaska",
-    "h1":"virajaska",
-    "title":"virajaska -- synonyms, prabhupada.io",
-    "description":"Virajaska and others."
-}
----
+~~Title:virajaska~~
+{{description>Virajaska and others.}}
 
 ==== virajaska-ādyāḥ  ====
   * Virajaska and others --- [[books:sb:8:13:11|SB 8.13.11]]

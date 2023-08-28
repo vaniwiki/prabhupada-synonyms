@@ -1,11 +1,5 @@
----json
-{
-    "name":"patti",
-    "h1":"patti",
-    "title":"patti -- synonyms, prabhupada.io",
-    "description":"by infantry; marching on foot."
-}
----
+~~Title:patti~~
+{{description>by infantry; marching on foot.}}
 
 ==== patti  ====
   * by infantry --- [[books:sb:9:10:20|SB 9.10.20]]

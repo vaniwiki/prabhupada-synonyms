@@ -1,11 +1,5 @@
----json
-{
-    "name":"lobhasya",
-    "h1":"lobhasya",
-    "title":"lobhasya -- synonyms, prabhupada.io",
-    "description":"greed."
-}
----
+~~Title:lobhasya~~
+{{description>greed.}}
 
 ==== lobhasya  ====
   * greed --- [[books:sb:7:15:20|SB 7.15.20]]

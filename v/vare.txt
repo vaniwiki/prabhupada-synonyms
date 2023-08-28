@@ -1,11 +1,5 @@
----json
-{
-    "name":"vare",
-    "h1":"vare",
-    "title":"vare -- synonyms, prabhupada.io",
-    "description":"better; by benediction; by the benediction."
-}
----
+~~Title:vare~~
+{{description>better; by benediction; by the benediction.}}
 
 ==== vare  ====
   * better --- [[books:cc:madhya:22:131|Madhya 22.131]]

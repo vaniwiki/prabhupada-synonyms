@@ -1,11 +1,5 @@
----json
-{
-    "name":"sundaram",
-    "h1":"sundaram",
-    "title":"sundaram -- synonyms, prabhupada.io",
-    "description":"beautiful; good looking; very beautiful."
-}
----
+~~Title:sundaram~~
+{{description>beautiful; good looking; very beautiful.}}
 
 ==== sundaram  ====
   * beautiful --- [[books:cc:adi:16:71|Ādi 16.71]]

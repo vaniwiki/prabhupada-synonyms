@@ -1,11 +1,5 @@
----json
-{
-    "name":"marmani",
-    "h1":"marmani",
-    "title":"marmani -- synonyms, prabhupada.io",
-    "description":"the core of the heart."
-}
----
+~~Title:marmani~~
+{{description>the core of the heart.}}
 
 ==== marmāṇi  ====
   * the core of the heart --- [[books:sb:3:18:9|SB 3.18.9]]

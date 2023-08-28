@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahni",
-    "h1":"ahni",
-    "title":"ahni -- synonyms, prabhupada.io",
-    "description":"during the daytime; in the day."
-}
----
+~~Title:ahni~~
+{{description>during the daytime; in the day.}}
 
 ==== ahni  ====
   * during the daytime --- [[books:sb:3:9:10|SB 3.9.10]]

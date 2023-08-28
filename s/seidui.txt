@@ -1,11 +1,5 @@
----json
-{
-    "name":"seidui",
-    "h1":"seidui",
-    "title":"seidui -- synonyms, prabhupada.io",
-    "description":"these two persons."
-}
----
+~~Title:seidui~~
+{{description>these two persons.}}
 
 ==== seidui  ====
   * these two persons --- [[books:cc:madhya:4:104|Madhya 4.104]]

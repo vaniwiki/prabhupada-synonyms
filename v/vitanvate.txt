@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitanvate",
-    "h1":"vitanvate",
-    "title":"vitanvate -- synonyms, prabhupada.io",
-    "description":"offer oblations."
-}
----
+~~Title:vitanvate~~
+{{description>offer oblations.}}
 
 ==== vitanvate  ====
   * offer oblations --- [[books:sb:3:20:43|SB 3.20.43]]

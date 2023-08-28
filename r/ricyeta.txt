@@ -1,11 +1,5 @@
----json
-{
-    "name":"ricyeta",
-    "h1":"ricyeta",
-    "title":"ricyeta -- synonyms, prabhupada.io",
-    "description":"one becomes free."
-}
----
+~~Title:ricyeta~~
+{{description>one becomes free.}}
 
 ==== ricyeta  ====
   * one becomes free --- [[books:sb:8:19:41|SB 8.19.41]]

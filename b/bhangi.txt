@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhangi",
-    "h1":"bhangi",
-    "title":"bhangi -- synonyms, prabhupada.io",
-    "description":"gesture; indications."
-}
----
+~~Title:bhangi~~
+{{description>gesture; indications.}}
 
 ==== bhaṅgi  ====
   * gesture --- [[books:cc:madhya:15:224|Madhya 15.224]]

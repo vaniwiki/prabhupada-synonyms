@@ -1,11 +1,5 @@
----json
-{
-    "name":"maninam",
-    "h1":"maninam",
-    "title":"maninam -- synonyms, prabhupada.io",
-    "description":"of valuable jewels."
-}
----
+~~Title:maninam~~
+{{description>of valuable jewels.}}
 
 ==== maṇīnām  ====
   * of valuable jewels --- [[books:cc:madhya:8:95|Madhya 8.95]]

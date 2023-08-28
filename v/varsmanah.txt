@@ -1,11 +1,5 @@
----json
-{
-    "name":"varsmanah",
-    "h1":"varsmanah",
-    "title":"varsmanah -- synonyms, prabhupada.io",
-    "description":"the greatest."
-}
----
+~~Title:varsmanah~~
+{{description>the greatest.}}
 
 ==== varṣmaṇaḥ  ====
   * the greatest --- [[books:sb:3:25:2|SB 3.25.2]]

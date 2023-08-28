@@ -1,11 +1,5 @@
----json
-{
-    "name":"samagram",
-    "h1":"samagram",
-    "title":"samagram -- synonyms, prabhupada.io",
-    "description":"all; completely; in sum total; in total; the whole."
-}
----
+~~Title:samagram~~
+{{description>all; completely; in sum total; in total; the whole.}}
 
 ==== samagram  ====
   * all --- [[books:bg:11:30|Bg. 11.30]]

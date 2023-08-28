@@ -1,11 +1,5 @@
----json
-{
-    "name":"antar",
-    "h1":"antar",
-    "title":"antar -- synonyms, prabhupada.io",
-    "description":"within the universe."
-}
----
+~~Title:antar~~
+{{description>within the universe.}}
 
 ==== antar  ====
   * within the universe --- [[books:sb:2:7:1|SB 2.7.1]]

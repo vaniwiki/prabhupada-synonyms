@@ -1,11 +1,5 @@
----json
-{
-    "name":"patham",
-    "h1":"patham",
-    "title":"patham -- synonyms, prabhupada.io",
-    "description":"the path of chastity."
-}
----
+~~Title:patham~~
+{{description>the path of chastity.}}
 
 ==== ārya-patham  ====
   * the path of chastity --- [[books:cc:antya:7:47|Antya 7.47]]

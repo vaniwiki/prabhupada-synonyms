@@ -1,11 +1,5 @@
----json
-{
-    "name":"sam",
-    "h1":"sam",
-    "title":"sam -- synonyms, prabhupada.io",
-    "description":"completely."
-}
----
+~~Title:sam~~
+{{description>completely.}}
 
 ==== sam  ====
   * completely --- [[books:sb:2:10:43|SB 2.10.43]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"khedayati",
-    "h1":"khedayati",
-    "title":"khedayati -- synonyms, prabhupada.io",
-    "description":"gives me distress."
-}
----
+~~Title:khedayati~~
+{{description>gives me distress.}}
 
 ==== khedayati  ====
   * gives me distress --- [[books:sb:3:2:16|SB 3.2.16]]

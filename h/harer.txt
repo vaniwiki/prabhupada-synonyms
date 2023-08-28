@@ -1,11 +1,5 @@
----json
-{
-    "name":"harer",
-    "h1":"harer",
-    "title":"harer -- synonyms, prabhupada.io",
-    "description":"of the holy name of Lord Hari."
-}
----
+~~Title:harer~~
+{{description>of the holy name of Lord Hari.}}
 
 ==== harer nāma  ====
   * of the holy name of Lord Hari --- [[books:cc:adi:17:23|Ādi 17.23]]

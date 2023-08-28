@@ -1,11 +1,5 @@
----json
-{
-    "name":"kramanti",
-    "h1":"kramanti",
-    "title":"kramanti -- synonyms, prabhupada.io",
-    "description":"revolve all around."
-}
----
+~~Title:kramanti~~
+{{description>revolve all around.}}
 
 ==== paricaṅ kramanti  ====
   * revolve all around --- [[books:sb:5:23:3|SB 5.23.3]]

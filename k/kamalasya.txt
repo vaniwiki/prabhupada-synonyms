@@ -1,11 +1,5 @@
----json
-{
-    "name":"kamalasya",
-    "h1":"kamalasya",
-    "title":"kamalasya -- synonyms, prabhupada.io",
-    "description":"like a lotus flower."
-}
----
+~~Title:kamalasya~~
+{{description>like a lotus flower.}}
 
 ==== kamalasya  ====
   * like a lotus flower --- [[books:sb:5:16:7|SB 5.16.7]]

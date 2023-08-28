@@ -1,11 +1,5 @@
----json
-{
-    "name":"varga",
-    "h1":"varga",
-    "title":"varga -- synonyms, prabhupada.io",
-    "description":"religion, economic development, sense gratification and liberation."
-}
----
+~~Title:varga~~
+{{description>religion, economic development, sense gratification and liberation.}}
 
 ==== varga  ====
   * religion, economic development, sense gratification and liberation --- [[books:sb:4:21:30|SB 4.21.30]]

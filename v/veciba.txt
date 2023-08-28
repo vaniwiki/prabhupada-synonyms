@@ -1,11 +1,5 @@
----json
-{
-    "name":"veciba",
-    "h1":"veciba",
-    "title":"veciba -- synonyms, prabhupada.io",
-    "description":"I shall sell."
-}
----
+~~Title:veciba~~
+{{description>I shall sell.}}
 
 ==== veciba  ====
   * I shall sell --- [[books:cc:madhya:17:145|Madhya 17.145]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"apihitam",
-    "h1":"apihitam",
-    "title":"apihitam -- synonyms, prabhupada.io",
-    "description":"covered."
-}
----
+~~Title:apihitam~~
+{{description>covered.}}
 
 ==== apihitam  ====
   * covered --- [[books:sb:7:3:15-16|SB 7.3.15-16]], [[books:iso:15|Īśo 15]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"manorama",
-    "h1":"manorama",
-    "title":"manorama -- synonyms, prabhupada.io",
-    "description":"very attractive."
-}
----
+~~Title:manorama~~
+{{description>very attractive.}}
 
 ==== ati manorama  ====
   * very attractive --- [[books:cc:madhya:15:229|Madhya 15.229]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampada",
-    "h1":"sampada",
-    "title":"sampada -- synonyms, prabhupada.io",
-    "description":"opulence."
-}
----
+~~Title:sampada~~
+{{description>opulence.}}
 
 ==== sampada  ====
   * opulence --- [[books:cc:madhya:3:203|Madhya 3.203]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"khudile",
-    "h1":"khudile",
-    "title":"khudile -- synonyms, prabhupada.io",
-    "description":"if you dig."
-}
----
+~~Title:khudile~~
+{{description>if you dig.}}
 
 ==== khudile  ====
   * if you dig --- [[books:cc:madhya:20:134|Madhya 20.134]]

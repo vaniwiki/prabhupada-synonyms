@@ -1,11 +1,5 @@
----json
-{
-    "name":"manv",
-    "h1":"manv",
-    "title":"manv -- synonyms, prabhupada.io",
-    "description":"the yuga and manv-antara incarnations."
-}
----
+~~Title:manv~~
+{{description>the yuga and manv-antara incarnations.}}
 
 ==== yuga-manv-antara-avatāra  ====
   * the //yuga// and //manv-antara// incarnations --- [[books:cc:adi:4:11-12|Ādi 4.11-12]]

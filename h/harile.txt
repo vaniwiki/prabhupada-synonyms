@@ -1,11 +1,5 @@
----json
-{
-    "name":"harile",
-    "h1":"harile",
-    "title":"harile -- synonyms, prabhupada.io",
-    "description":"having attracted."
-}
----
+~~Title:harile~~
+{{description>having attracted.}}
 
 ==== harile  ====
   * having attracted --- [[books:cc:antya:17:42|Antya 17.42]]

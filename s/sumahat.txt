@@ -1,11 +1,5 @@
----json
-{
-    "name":"sumahat",
-    "h1":"sumahat",
-    "title":"sumahat -- synonyms, prabhupada.io",
-    "description":"highly praiseworthy."
-}
----
+~~Title:sumahat~~
+{{description>highly praiseworthy.}}
 
 ==== sumahat  ====
   * highly praiseworthy --- [[books:sb:8:23:26-27|SB 8.23.26-27]]

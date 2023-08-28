@@ -1,11 +1,5 @@
----json
-{
-    "name":"parisranta",
-    "h1":"parisranta",
-    "title":"parisranta -- synonyms, prabhupada.io",
-    "description":"being tired."
-}
----
+~~Title:parisranta~~
+{{description>being tired.}}
 
 ==== pariśrānta  ====
   * being tired --- [[books:sb:1:6:14|SB 1.6.14]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gulphau",
-    "h1":"gulphau",
-    "title":"gulphau -- synonyms, prabhupada.io",
-    "description":"the ankles."
-}
----
+~~Title:gulphau~~
+{{description>the ankles.}}
 
 ==== gulphau  ====
   * the ankles --- [[books:sb:2:1:26|SB 2.1.26]]

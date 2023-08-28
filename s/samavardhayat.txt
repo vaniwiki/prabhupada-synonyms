@@ -1,11 +1,5 @@
----json
-{
-    "name":"samavardhayat",
-    "h1":"samavardhayat",
-    "title":"samavardhayat -- synonyms, prabhupada.io",
-    "description":"perfectly improved."
-}
----
+~~Title:samavardhayat~~
+{{description>perfectly improved.}}
 
 ==== samavardhayat  ====
   * perfectly improved --- [[books:sb:1:17:42|SB 1.17.42]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sade",
-    "h1":"sade",
-    "title":"sade -- synonyms, prabhupada.io",
-    "description":"7.5 praharas (one prahara equals three hours)."
-}
----
+~~Title:sade~~
+{{description>7.5 praharas (one prahara equals three hours).}}
 
 ==== sāḍe sāta prahara  ====
   * 7.5 //praharas// (one //prahara// equals three hours) --- [[books:cc:antya:6:310|Antya 6.310]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anupadam",
-    "h1":"anupadam",
-    "title":"anupadam -- synonyms, prabhupada.io",
-    "description":"every step; with every step."
-}
----
+~~Title:anupadam~~
+{{description>every step; with every step.}}
 
 ==== anupadam  ====
   * every step --- [[books:sb:1:5:26|SB 1.5.26]]

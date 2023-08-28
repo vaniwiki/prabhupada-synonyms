@@ -1,11 +1,5 @@
----json
-{
-    "name":"arcati",
-    "h1":"arcati",
-    "title":"arcati -- synonyms, prabhupada.io",
-    "description":"serves; worships."
-}
----
+~~Title:arcati~~
+{{description>serves; worships.}}
 
 ==== arcati  ====
   * serves --- [[books:sb:7:5:35|SB 7.5.35]]

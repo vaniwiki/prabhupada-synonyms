@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuñjera",
-    "h1":"kuñjera",
-    "title":"kuñjera -- synonyms, prabhupada.io",
-    "description":"the bush."
-}
----
+~~Title:kuñjera~~
+{{description>the bush.}}
 
 ==== kuñjera  ====
   * the bush --- [[books:cc:adi:17:284|Ādi 17.284]]

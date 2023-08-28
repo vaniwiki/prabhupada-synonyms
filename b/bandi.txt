@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandi",
-    "h1":"bandi",
-    "title":"bandi -- synonyms, prabhupada.io",
-    "description":"arrested."
-}
----
+~~Title:bandi~~
+{{description>arrested.}}
 
 ==== bandī  ====
   * arrested --- [[books:cc:madhya:19:56|Madhya 19.56]]

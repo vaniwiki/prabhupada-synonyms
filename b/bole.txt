@@ -1,11 +1,5 @@
----json
-{
-    "name":"bole",
-    "h1":"bole",
-    "title":"bole -- synonyms, prabhupada.io",
-    "description":"by the order; on the request."
-}
----
+~~Title:bole~~
+{{description>by the order; on the request.}}
 
 ==== bole  ====
   * by the order --- [[books:cc:adi:8:72|Ādi 8.72]]

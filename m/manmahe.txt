@@ -1,11 +1,5 @@
----json
-{
-    "name":"manmahe",
-    "h1":"manmahe",
-    "title":"manmahe -- synonyms, prabhupada.io",
-    "description":"this is our opinion."
-}
----
+~~Title:manmahe~~
+{{description>this is our opinion.}}
 
 ==== iti manmahe  ====
   * this is our opinion --- [[books:sb:10:4:37|SB 10.4.37]]

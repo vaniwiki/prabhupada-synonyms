@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasara",
-    "h1":"avasara",
-    "title":"avasara -- synonyms, prabhupada.io",
-    "description":"opportunity."
-}
----
+~~Title:avasara~~
+{{description>opportunity.}}
 
 ==== avasara  ====
   * opportunity --- [[books:cc:madhya:14:68|Madhya 14.68]]

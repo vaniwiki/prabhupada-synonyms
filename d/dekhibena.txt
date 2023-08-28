@@ -1,11 +1,5 @@
----json
-{
-    "name":"dekhibena",
-    "h1":"dekhibena",
-    "title":"dekhibena -- synonyms, prabhupada.io",
-    "description":"they will see."
-}
----
+~~Title:dekhibena~~
+{{description>they will see.}}
 
 ==== dekhibena  ====
   * they will see --- [[books:cc:madhya:11:107|Madhya 11.107]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gopatiḥ",
-    "h1":"gopatiḥ",
-    "title":"gopatiḥ -- synonyms, prabhupada.io",
-    "description":"the sun."
-}
----
+~~Title:gopatiḥ~~
+{{description>the sun.}}
 
 ==== gopatiḥ  ====
   * the sun --- [[books:sb:1:12:10|SB 1.12.10]]

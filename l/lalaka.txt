@@ -1,11 +1,5 @@
----json
-{
-    "name":"lālaka",
-    "h1":"lālaka",
-    "title":"lālaka -- synonyms, prabhupada.io",
-    "description":"the maintainer."
-}
----
+~~Title:lālaka~~
+{{description>the maintainer.}}
 
 ==== lālaka  ====
   * the maintainer --- [[books:cc:antya:4:184|Antya 4.184]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pithe",
-    "h1":"pithe",
-    "title":"pithe -- synonyms, prabhupada.io",
-    "description":"on the throne."
-}
----
+~~Title:pithe~~
+{{description>on the throne.}}
 
 ==== pīṭhe  ====
   * on the throne --- [[books:cc:madhya:21:93-94|Madhya 21.93-94]]

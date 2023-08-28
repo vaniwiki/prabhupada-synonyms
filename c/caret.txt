@@ -1,11 +1,5 @@
----json
-{
-    "name":"caret",
-    "h1":"caret",
-    "title":"caret -- synonyms, prabhupada.io",
-    "description":"can move; one should execute; one should move about; should go; should go out; should move; should move from one place to another; should remain; would engage in."
-}
----
+~~Title:caret~~
+{{description>can move; one should execute; one should move about; should go; should go out; should move; should move from one place to another; should remain; would engage in.}}
 
 ==== caret  ====
   * can move --- [[books:sb:7:13:3|SB 7.13.3]]

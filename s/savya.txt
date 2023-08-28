@@ -1,11 +1,5 @@
----json
-{
-    "name":"savya",
-    "h1":"savya",
-    "title":"savya -- synonyms, prabhupada.io",
-    "description":"left and right."
-}
----
+~~Title:savya~~
+{{description>left and right.}}
 
 ==== savya-asavye  ====
   * left and right --- [[books:sb:10:12:21|SB 10.12.21]]

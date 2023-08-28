@@ -1,11 +1,5 @@
----json
-{
-    "name":"prahastam",
-    "h1":"prahastam",
-    "title":"prahastam -- synonyms, prabhupada.io",
-    "description":"Prahasta."
-}
----
+~~Title:prahastam~~
+{{description>Prahasta.}}
 
 ==== prahastam  ====
   * Prahasta --- [[books:sb:9:10:18|SB 9.10.18]]

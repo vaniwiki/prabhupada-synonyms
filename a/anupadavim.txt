@@ -1,11 +1,5 @@
----json
-{
-    "name":"anupadavīm",
-    "h1":"anupadavīm",
-    "title":"anupadavīm -- synonyms, prabhupada.io",
-    "description":"the path."
-}
----
+~~Title:anupadavīm~~
+{{description>the path.}}
 
 ==== anupadavīm  ====
   * the path --- [[books:sb:6:5:30|SB 6.5.30]]

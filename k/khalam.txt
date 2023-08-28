@@ -1,11 +1,5 @@
----json
-{
-    "name":"khalam",
-    "h1":"khalam",
-    "title":"khalam -- synonyms, prabhupada.io",
-    "description":"cruel."
-}
----
+~~Title:khalam~~
+{{description>cruel.}}
 
 ==== khalam  ====
   * cruel --- [[books:sb:4:13:42|SB 4.13.42]]

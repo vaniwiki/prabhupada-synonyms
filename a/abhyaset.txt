@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhyaset",
-    "h1":"abhyaset",
-    "title":"abhyaset -- synonyms, prabhupada.io",
-    "description":"one should practice; should try to understand or cultivate."
-}
----
+~~Title:abhyaset~~
+{{description>one should practice; should try to understand or cultivate.}}
 
 ==== abhyaset  ====
   * one should practice --- [[books:sb:2:1:17|SB 2.1.17]]

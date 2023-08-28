@@ -1,11 +1,5 @@
----json
-{
-    "name":"pracarati",
-    "h1":"pracarati",
-    "title":"pracarati -- synonyms, prabhupada.io",
-    "description":"the sun moves."
-}
----
+~~Title:pracarati~~
+{{description>the sun moves.}}
 
 ==== pracarati  ====
   * the sun moves --- [[books:sb:5:22:6|SB 5.22.6]]

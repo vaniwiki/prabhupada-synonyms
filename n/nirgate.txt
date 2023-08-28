@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirgate",
-    "h1":"nirgate",
-    "title":"nirgate -- synonyms, prabhupada.io",
-    "description":"having gone."
-}
----
+~~Title:nirgate~~
+{{description>having gone.}}
 
 ==== nirgate  ====
   * having gone --- [[books:sb:1:7:1|SB 1.7.1]]

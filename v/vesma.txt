@@ -1,11 +1,5 @@
----json
-{
-    "name":"veśma",
-    "h1":"veśma",
-    "title":"veśma -- synonyms, prabhupada.io",
-    "description":"situated in a house."
-}
----
+~~Title:veśma~~
+{{description>situated in a house.}}
 
 ==== veśma-sthāḥ  ====
   * situated in a house --- [[books:sb:3:23:26|SB 3.23.26]]

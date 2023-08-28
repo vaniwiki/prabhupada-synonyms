@@ -1,11 +1,5 @@
----json
-{
-    "name":"sastram",
-    "h1":"sastram",
-    "title":"sastram -- synonyms, prabhupada.io",
-    "description":"weapon (the disc); weapon."
-}
----
+~~Title:sastram~~
+{{description>weapon (the disc); weapon.}}
 
 ==== śastram  ====
   * weapon (the disc) --- [[books:sb:9:4:57-59|SB 9.4.57-59]]

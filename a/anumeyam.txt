@@ -1,11 +1,5 @@
----json
-{
-    "name":"anumeyam",
-    "h1":"anumeyam",
-    "title":"anumeyam -- synonyms, prabhupada.io",
-    "description":"to be inferred."
-}
----
+~~Title:anumeyam~~
+{{description>to be inferred.}}
 
 ==== anumeyam  ====
   * to be inferred --- [[books:sb:5:12:8|SB 5.12.8]]

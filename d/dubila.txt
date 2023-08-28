@@ -1,11 +1,5 @@
----json
-{
-    "name":"dubila",
-    "h1":"dubila",
-    "title":"dubila -- synonyms, prabhupada.io",
-    "description":"drowned; merged into."
-}
----
+~~Title:dubila~~
+{{description>drowned; merged into.}}
 
 ==== ḍubila  ====
   * drowned --- [[books:cc:adi:7:27|Ādi 7.27]]

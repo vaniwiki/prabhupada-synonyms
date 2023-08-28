@@ -1,11 +1,5 @@
----json
-{
-    "name":"saumyam",
-    "h1":"saumyam",
-    "title":"saumyam -- synonyms, prabhupada.io",
-    "description":"very beautiful."
-}
----
+~~Title:saumyam~~
+{{description>very beautiful.}}
 
 ==== saumyam  ====
   * very beautiful --- [[books:bg:11:51|Bg. 11.51]]

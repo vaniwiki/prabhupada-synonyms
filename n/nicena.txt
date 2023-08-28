@@ -1,11 +1,5 @@
----json
-{
-    "name":"nīcena",
-    "h1":"nīcena",
-    "title":"nīcena -- synonyms, prabhupada.io",
-    "description":"being lower."
-}
----
+~~Title:nīcena~~
+{{description>being lower.}}
 
 ==== su-nīcena  ====
   * being lower --- [[books:cc:adi:17:31|Ādi 17.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hriyam",
-    "h1":"hriyam",
-    "title":"hriyam -- synonyms, prabhupada.io",
-    "description":"bashfulness."
-}
----
+~~Title:hriyam~~
+{{description>bashfulness.}}
 
 ==== hriyam  ====
   * bashfulness --- [[books:cc:antya:1:189|Antya 1.189]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"dante",
-    "h1":"dante",
-    "title":"dante -- synonyms, prabhupada.io",
-    "description":"in the mouth; in the teeth."
-}
----
+~~Title:dante~~
+{{description>in the mouth; in the teeth.}}
 
 ==== dante  ====
   * in the mouth --- [[books:cc:antya:5:156|Antya 5.156]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prodyan",
-    "h1":"prodyan",
-    "title":"prodyan -- synonyms, prabhupada.io",
-    "description":"brilliant; manifesting."
-}
----
+~~Title:prodyan~~
+{{description>brilliant; manifesting.}}
 
 ==== prodyan  ====
   * brilliant --- [[books:cc:madhya:13:80|Madhya 13.80]]

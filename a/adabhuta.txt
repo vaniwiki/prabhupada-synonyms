@@ -1,11 +1,5 @@
----json
-{
-    "name":"adabhuta",
-    "h1":"adabhuta",
-    "title":"adabhuta -- synonyms, prabhupada.io",
-    "description":"wonderful."
-}
----
+~~Title:adabhuta~~
+{{description>wonderful.}}
 
 ==== adabhuta  ====
   * wonderful --- [[books:cc:antya:1:126|Antya 1.126]]

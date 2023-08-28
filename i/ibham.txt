@@ -1,11 +1,5 @@
----json
-{
-    "name":"ibham",
-    "h1":"ibham",
-    "title":"ibham -- synonyms, prabhupada.io",
-    "description":"an elephant; elephant; the elephant."
-}
----
+~~Title:ibham~~
+{{description>an elephant; elephant; the elephant.}}
 
 ==== ibham  ====
   * an elephant --- [[books:cc:madhya:16:145|Madhya 16.145]]

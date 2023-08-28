@@ -1,11 +1,5 @@
----json
-{
-    "name":"amitra",
-    "h1":"amitra",
-    "title":"amitra -- synonyms, prabhupada.io",
-    "description":"O destroyer of the enemy."
-}
----
+~~Title:amitra~~
+{{description>O destroyer of the enemy.}}
 
 ==== amitra-han  ====
   * O destroyer of the enemy --- [[books:sb:3:23:36-37|SB 3.23.36-37]]

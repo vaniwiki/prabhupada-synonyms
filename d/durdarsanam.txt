@@ -1,11 +1,5 @@
----json
-{
-    "name":"durdarsanam",
-    "h1":"durdarsanam",
-    "title":"durdarsanam -- synonyms, prabhupada.io",
-    "description":"very difficult to see."
-}
----
+~~Title:durdarsanam~~
+{{description>very difficult to see.}}
 
 ==== durdarśanam  ====
   * very difficult to see --- [[books:sb:3:13:35|SB 3.13.35]]

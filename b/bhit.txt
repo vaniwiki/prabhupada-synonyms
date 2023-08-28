@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhit",
-    "h1":"bhit",
-    "title":"bhit -- synonyms, prabhupada.io",
-    "description":"difference."
-}
----
+~~Title:bhit~~
+{{description>difference.}}
 
 ==== bhit  ====
   * difference --- [[books:sb:6:17:30|SB 6.17.30]]

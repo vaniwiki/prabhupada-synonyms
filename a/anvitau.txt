@@ -1,11 +1,5 @@
----json
-{
-    "name":"anvitau",
-    "h1":"anvitau",
-    "title":"anvitau -- synonyms, prabhupada.io",
-    "description":"very opulent."
-}
----
+~~Title:anvitau~~
+{{description>very opulent.}}
 
 ==== śriyā anvitau  ====
   * very opulent --- [[books:sb:10:9:23|SB 10.9.23]]

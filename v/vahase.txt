@@ -1,11 +1,5 @@
----json
-{
-    "name":"vahase",
-    "h1":"vahase",
-    "title":"vahase -- synonyms, prabhupada.io",
-    "description":"you are carrying."
-}
----
+~~Title:vahase~~
+{{description>you are carrying.}}
 
 ==== vahase  ====
   * you are carrying --- [[books:sb:10:1:34|SB 10.1.34]]

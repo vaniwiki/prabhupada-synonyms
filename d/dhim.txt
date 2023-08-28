@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhim",
-    "h1":"dhim",
-    "title":"dhim -- synonyms, prabhupada.io",
-    "description":"the ocean."
-}
----
+~~Title:dhim~~
+{{description>the ocean.}}
 
 ==== jala-dhim  ====
   * the ocean --- [[books:cc:antya:3:181|Antya 3.181]]

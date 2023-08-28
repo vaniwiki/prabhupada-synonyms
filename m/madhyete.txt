@@ -1,11 +1,5 @@
----json
-{
-    "name":"madhyete",
-    "h1":"madhyete",
-    "title":"madhyete -- synonyms, prabhupada.io",
-    "description":"within."
-}
----
+~~Title:madhyete~~
+{{description>within.}}
 
 ==== madhyete  ====
   * within --- [[books:cc:adi:5:110|Ādi 5.110]]

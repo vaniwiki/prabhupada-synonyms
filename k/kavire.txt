@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavire",
-    "h1":"kavire",
-    "title":"kavire -- synonyms, prabhupada.io",
-    "description":"unto the poet."
-}
----
+~~Title:kavire~~
+{{description>unto the poet.}}
 
 ==== kavire  ====
   * unto the poet --- [[books:cc:adi:16:98|Ādi 16.98]]

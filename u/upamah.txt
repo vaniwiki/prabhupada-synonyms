@@ -1,11 +1,5 @@
----json
-{
-    "name":"upamah",
-    "h1":"upamah",
-    "title":"upamah -- synonyms, prabhupada.io",
-    "description":"comparison of equilibrium."
-}
----
+~~Title:upamah~~
+{{description>comparison of equilibrium.}}
 
 ==== upamaḥ  ====
   * comparison of equilibrium --- [[books:sb:1:12:23|SB 1.12.23]]

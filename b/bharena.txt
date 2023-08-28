@@ -1,11 +1,5 @@
----json
-{
-    "name":"bharena",
-    "h1":"bharena",
-    "title":"bharena -- synonyms, prabhupada.io",
-    "description":"fills."
-}
----
+~~Title:bharena~~
+{{description>fills.}}
 
 ==== bharena  ====
   * fills --- [[books:cc:adi:10:144|Ādi 10.144]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ejati",
-    "h1":"ejati",
-    "title":"ejati -- synonyms, prabhupada.io",
-    "description":"walks."
-}
----
+~~Title:ejati~~
+{{description>walks.}}
 
 ==== ejati  ====
   * walks --- [[books:iso:5|Īśo 5]]

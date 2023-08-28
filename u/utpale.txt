@@ -1,11 +1,5 @@
----json
-{
-    "name":"utpale",
-    "h1":"utpale",
-    "title":"utpale -- synonyms, prabhupada.io",
-    "description":"pulls the ear."
-}
----
+~~Title:utpale~~
+{{description>pulls the ear.}}
 
 ==== karṇa-utpale tāḍe  ====
   * pulls the ear --- [[books:cc:madhya:14:147|Madhya 14.147]]

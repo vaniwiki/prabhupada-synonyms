@@ -1,11 +1,5 @@
----json
-{
-    "name":"aparahne",
-    "h1":"aparahne",
-    "title":"aparahne -- synonyms, prabhupada.io",
-    "description":"in the afternoon."
-}
----
+~~Title:aparahne~~
+{{description>in the afternoon.}}
 
 ==== aparāhne  ====
   * in the afternoon --- [[books:cc:madhya:14:94|Madhya 14.94]]

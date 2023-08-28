@@ -1,11 +1,5 @@
----json
-{
-    "name":"gulma",
-    "h1":"gulma",
-    "title":"gulma -- synonyms, prabhupada.io",
-    "description":"by bushes; of thickets."
-}
----
+~~Title:gulma~~
+{{description>by bushes; of thickets.}}
 
 ==== gulma  ====
   * by bushes --- [[books:sb:5:14:4|SB 5.14.4]]

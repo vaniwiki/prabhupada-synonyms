@@ -1,11 +1,5 @@
----json
-{
-    "name":"tyajate",
-    "h1":"tyajate",
-    "title":"tyajate -- synonyms, prabhupada.io",
-    "description":"gives up."
-}
----
+~~Title:tyajate~~
+{{description>gives up.}}
 
 ==== tyajate  ====
   * gives up --- [[books:sb:10:1:39|SB 10.1.39]]

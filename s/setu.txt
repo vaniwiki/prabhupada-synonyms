@@ -1,11 +1,5 @@
----json
-{
-    "name":"setu",
-    "h1":"setu",
-    "title":"setu -- synonyms, prabhupada.io",
-    "description":"bridges; obligations; religious rites."
-}
----
+~~Title:setu~~
+{{description>bridges; obligations; religious rites.}}
 
 ==== setu  ====
   * bridges --- [[books:sb:7:2:15|SB 7.2.15]]

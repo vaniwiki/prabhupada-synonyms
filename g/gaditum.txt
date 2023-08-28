@@ -1,11 +1,5 @@
----json
-{
-    "name":"gaditum",
-    "h1":"gaditum",
-    "title":"gaditum -- synonyms, prabhupada.io",
-    "description":"to narrate."
-}
----
+~~Title:gaditum~~
+{{description>to narrate.}}
 
 ==== gaditum  ====
   * to narrate --- [[books:sb:1:12:3|SB 1.12.3]]

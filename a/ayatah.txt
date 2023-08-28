@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayatah",
-    "h1":"ayatah",
-    "title":"ayatah -- synonyms, prabhupada.io",
-    "description":"spread out."
-}
----
+~~Title:ayatah~~
+{{description>spread out.}}
 
 ==== āyataḥ  ====
   * spread out --- [[books:sb:4:6:32|SB 4.6.32]]

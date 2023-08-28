@@ -1,11 +1,5 @@
----json
-{
-    "name":"manojava",
-    "h1":"manojava",
-    "title":"manojava -- synonyms, prabhupada.io",
-    "description":"Manojava."
-}
----
+~~Title:manojava~~
+{{description>Manojava.}}
 
 ==== manojava  ====
   * Manojava --- [[books:sb:5:20:25|SB 5.20.25]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"baka",
-    "h1":"baka",
-    "title":"baka -- synonyms, prabhupada.io",
-    "description":"a duck; by the asura named Baka; crane; herons."
-}
----
+~~Title:baka~~
+{{description>a duck; by the asura named Baka; crane; herons.}}
 
 ==== baka  ====
   * a duck --- [[books:cc:antya:5:129|Antya 5.129]]

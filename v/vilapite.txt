@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilapite",
-    "h1":"vilapite",
-    "title":"vilapite -- synonyms, prabhupada.io",
-    "description":"speaking in lamentation."
-}
----
+~~Title:vilapite~~
+{{description>speaking in lamentation.}}
 
 ==== vilapite  ====
   * speaking in lamentation --- [[books:cc:antya:19:55|Antya 19.55]]

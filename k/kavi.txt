@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavi",
-    "h1":"kavi",
-    "title":"kavi -- synonyms, prabhupada.io",
-    "description":"a poet; poet."
-}
----
+~~Title:kavi~~
+{{description>a poet; poet.}}
 
 ==== kavi  ====
   * a poet --- [[books:cc:madhya:22:78-80|Madhya 22.78-80]]

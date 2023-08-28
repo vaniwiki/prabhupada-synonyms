@@ -1,11 +1,5 @@
----json
-{
-    "name":"udyan",
-    "h1":"udyan",
-    "title":"udyan -- synonyms, prabhupada.io",
-    "description":"rising."
-}
----
+~~Title:udyan~~
+{{description>rising.}}
 
 ==== udyan  ====
   * rising --- [[books:sb:2:3:17|SB 2.3.17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuliṅgam",
-    "h1":"kuliṅgam",
-    "title":"kuliṅgam -- synonyms, prabhupada.io",
-    "description":"the bird."
-}
----
+~~Title:kuliṅgam~~
+{{description>the bird.}}
 
 ==== kuliṅgam  ====
   * the bird --- [[books:sb:7:2:56|SB 7.2.56]]

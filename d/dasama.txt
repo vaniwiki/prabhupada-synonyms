@@ -1,11 +1,5 @@
----json
-{
-    "name":"daśama",
-    "h1":"daśama",
-    "title":"daśama -- synonyms, prabhupada.io",
-    "description":"tenth."
-}
----
+~~Title:daśama~~
+{{description>tenth.}}
 
 ==== daśama  ====
   * tenth --- [[books:cc:adi:5:108|Ādi 5.108]]

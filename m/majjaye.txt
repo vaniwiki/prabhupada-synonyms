@@ -1,11 +1,5 @@
----json
-{
-    "name":"majjaye",
-    "h1":"majjaye",
-    "title":"majjaye -- synonyms, prabhupada.io",
-    "description":"I drown."
-}
----
+~~Title:majjaye~~
+{{description>I drown.}}
 
 ==== majjaye  ====
   * I drown --- [[books:sb:6:2:35|SB 6.2.35]]

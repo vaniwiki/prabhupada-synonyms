@@ -1,11 +1,5 @@
----json
-{
-    "name":"modaka",
-    "h1":"modaka",
-    "title":"modaka -- synonyms, prabhupada.io",
-    "description":"one confectioner."
-}
----
+~~Title:modaka~~
+{{description>one confectioner.}}
 
 ==== modaka  ====
   * one confectioner --- [[books:cc:antya:12:54|Antya 12.54]]

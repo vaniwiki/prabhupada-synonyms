@@ -1,11 +1,5 @@
----json
-{
-    "name":"citim",
-    "h1":"citim",
-    "title":"citim -- synonyms, prabhupada.io",
-    "description":"funeral pyre."
-}
----
+~~Title:citim~~
+{{description>funeral pyre.}}
 
 ==== citim  ====
   * funeral pyre --- [[books:sb:4:28:50|SB 4.28.50]]

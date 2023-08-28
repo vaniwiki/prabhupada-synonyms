@@ -1,11 +1,5 @@
----json
-{
-    "name":"sikhandi",
-    "h1":"sikhandi",
-    "title":"sikhandi -- synonyms, prabhupada.io",
-    "description":"of birds like peacocks."
-}
----
+~~Title:sikhandi~~
+{{description>of birds like peacocks.}}
 
 ==== śikhaṇḍi  ====
   * of birds like peacocks --- [[books:sb:8:15:20|SB 8.15.20]]

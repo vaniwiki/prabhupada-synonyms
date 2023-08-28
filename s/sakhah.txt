@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakhah",
-    "h1":"sakhah",
-    "title":"sakhah -- synonyms, prabhupada.io",
-    "description":"accompanied by; with his friend."
-}
----
+~~Title:sakhah~~
+{{description>accompanied by; with his friend.}}
 
 ==== sakhaḥ  ====
   * accompanied by --- [[books:sb:4:9:14|SB 4.9.14]]

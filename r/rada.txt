@@ -1,11 +1,5 @@
----json
-{
-    "name":"rada",
-    "h1":"rada",
-    "title":"rada -- synonyms, prabhupada.io",
-    "description":"the elephant."
-}
----
+~~Title:rada~~
+{{description>the elephant.}}
 
 ==== dvi-rada  ====
   * the elephant --- [[books:cc:adi:3:31|Ādi 3.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anekadina",
-    "h1":"anekadina",
-    "title":"anekadina -- synonyms, prabhupada.io",
-    "description":"many days."
-}
----
+~~Title:anekadina~~
+{{description>many days.}}
 
 ==== anekadina  ====
   * many days --- [[books:cc:madhya:3:117|Madhya 3.117]]

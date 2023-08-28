@@ -1,11 +1,5 @@
----json
-{
-    "name":"stavaka",
-    "h1":"stavaka",
-    "title":"stavaka -- synonyms, prabhupada.io",
-    "description":"bunches."
-}
----
+~~Title:stavaka~~
+{{description>bunches.}}
 
 ==== stavaka  ====
   * bunches --- [[books:sb:10:12:4|SB 10.12.4]]

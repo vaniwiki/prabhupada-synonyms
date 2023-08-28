@@ -1,11 +1,5 @@
----json
-{
-    "name":"vavau",
-    "h1":"vavau",
-    "title":"vavau -- synonyms, prabhupada.io",
-    "description":"blew."
-}
----
+~~Title:vavau~~
+{{description>blew.}}
 
 ==== vavau  ====
   * blew --- [[books:sb:3:17:5|SB 3.17.5]], [[books:sb:10:3:1-5|SB 10.3.1-5]]

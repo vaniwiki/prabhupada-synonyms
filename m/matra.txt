@@ -1,11 +1,5 @@
----json
-{
-    "name":"matra",
-    "h1":"matra",
-    "title":"matra -- synonyms, prabhupada.io",
-    "description":"any; only; simply; the objects of the senses; up to."
-}
----
+~~Title:matra~~
+{{description>any; only; simply; the objects of the senses; up to.}}
 
 ==== mātra  ====
   * any --- [[books:cc:adi:17:159|Ādi 17.159]]

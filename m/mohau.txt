@@ -1,11 +1,5 @@
----json
-{
-    "name":"mohau",
-    "h1":"mohau",
-    "title":"mohau -- synonyms, prabhupada.io",
-    "description":"and illusion; illusion."
-}
----
+~~Title:mohau~~
+{{description>and illusion; illusion.}}
 
 ==== mohau  ====
   * and illusion --- [[books:sb:7:15:23|SB 7.15.23]]

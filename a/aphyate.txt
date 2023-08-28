@@ -1,11 +1,5 @@
----json
-{
-    "name":"aphyate",
-    "h1":"aphyate",
-    "title":"aphyate -- synonyms, prabhupada.io",
-    "description":"am fixed."
-}
----
+~~Title:aphyate~~
+{{description>am fixed.}}
 
 ==== aphyate  ====
   * am fixed --- [[books:cc:madhya:20:147-148|Madhya 20.147-148]]

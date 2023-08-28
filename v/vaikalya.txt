@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaikalya",
-    "h1":"vaikalya",
-    "title":"vaikalya -- synonyms, prabhupada.io",
-    "description":"transformations."
-}
----
+~~Title:vaikalya~~
+{{description>transformations.}}
 
 ==== vaikalya  ====
   * transformations --- [[books:cc:antya:6:5|Antya 6.5]]

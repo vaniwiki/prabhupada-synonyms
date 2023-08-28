@@ -1,11 +1,5 @@
----json
-{
-    "name":"agadena",
-    "h1":"agadena",
-    "title":"agadena -- synonyms, prabhupada.io",
-    "description":"by medicinal treatment."
-}
----
+~~Title:agadena~~
+{{description>by medicinal treatment.}}
 
 ==== agadena  ====
   * by medicinal treatment --- [[books:sb:4:11:31|SB 4.11.31]]

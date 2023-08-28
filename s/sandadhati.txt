@@ -1,11 +1,5 @@
----json
-{
-    "name":"sandadhati",
-    "h1":"sandadhati",
-    "title":"sandadhati -- synonyms, prabhupada.io",
-    "description":"although she was joining one after another."
-}
----
+~~Title:sandadhati~~
+{{description>although she was joining one after another.}}
 
 ==== sandadhati api  ====
   * although she was joining one after another --- [[books:sb:10:9:17|SB 10.9.17]]

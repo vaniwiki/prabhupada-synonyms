@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharmanam",
-    "h1":"dharmanam",
-    "title":"dharmanam -- synonyms, prabhupada.io",
-    "description":"of the religiosities."
-}
----
+~~Title:dharmanam~~
+{{description>of the religiosities.}}
 
 ==== dharmāṇām  ====
   * of the religiosities --- [[books:sb:2:8:20|SB 2.8.20]]

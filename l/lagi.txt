@@ -1,11 +1,5 @@
----json
-{
-    "name":"lagi",
-    "h1":"lagi",
-    "title":"lagi -- synonyms, prabhupada.io",
-    "description":"for."
-}
----
+~~Title:lagi~~
+{{description>for.}}
 
 ==== lāgi  ====
   * for --- [[books:cc:adi:4:172|Ādi 4.172]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"manthara",
-    "h1":"manthara",
-    "title":"manthara -- synonyms, prabhupada.io",
-    "description":"slowly."
-}
----
+~~Title:manthara~~
+{{description>slowly.}}
 
 ==== manthara  ====
   * slowly --- [[books:cc:madhya:13:178|Madhya 13.178]]

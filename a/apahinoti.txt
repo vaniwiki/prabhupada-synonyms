@@ -1,11 +1,5 @@
----json
-{
-    "name":"apahinoti",
-    "h1":"apahinoti",
-    "title":"apahinoti -- synonyms, prabhupada.io",
-    "description":"gives up."
-}
----
+~~Title:apahinoti~~
+{{description>gives up.}}
 
 ==== apahinoti  ====
   * gives up --- [[books:cc:antya:5:48|Antya 5.48]]

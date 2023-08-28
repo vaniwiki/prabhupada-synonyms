@@ -1,11 +1,5 @@
----json
-{
-    "name":"samsritah",
-    "h1":"samsritah",
-    "title":"samsritah -- synonyms, prabhupada.io",
-    "description":"full of."
-}
----
+~~Title:samsritah~~
+{{description>full of.}}
 
 ==== saṁśritaḥ  ====
   * full of --- [[books:sb:2:10:49-50|SB 2.10.49-50]]

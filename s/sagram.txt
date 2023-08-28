@@ -1,11 +1,5 @@
----json
-{
-    "name":"sāgram",
-    "h1":"sāgram",
-    "title":"sāgram -- synonyms, prabhupada.io",
-    "description":"a little more than."
-}
----
+~~Title:sāgram~~
+{{description>a little more than.}}
 
 ==== sāgram  ====
   * a little more than --- [[books:sb:3:20:15|SB 3.20.15]]

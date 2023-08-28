@@ -1,11 +1,5 @@
----json
-{
-    "name":"nitye",
-    "h1":"nitye",
-    "title":"nitye -- synonyms, prabhupada.io",
-    "description":"temporary youth."
-}
----
+~~Title:nitye~~
+{{description>temporary youth.}}
 
 ==== a-nitye  ====
   * temporary youth --- [[books:sb:9:18:41|SB 9.18.41]]

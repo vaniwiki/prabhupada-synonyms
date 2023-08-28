@@ -1,11 +1,5 @@
----json
-{
-    "name":"bāpera",
-    "h1":"bāpera",
-    "title":"bāpera -- synonyms, prabhupada.io",
-    "description":"the father has some treasure."
-}
----
+~~Title:bāpera~~
+{{description>the father has some treasure.}}
 
 ==== bāpera dhana āche  ====
   * the father has some treasure --- [[books:cc:madhya:20:131|Madhya 20.131]]

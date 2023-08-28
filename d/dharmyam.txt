@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharmyam",
-    "h1":"dharmyam",
-    "title":"dharmyam -- synonyms, prabhupada.io",
-    "description":"in accordance with the principles of religion; religious duty; the principle of religion."
-}
----
+~~Title:dharmyam~~
+{{description>in accordance with the principles of religion; religious duty; the principle of religion.}}
 
 ==== dharmyam  ====
   * in accordance with the principles of religion --- [[books:sb:1:7:49|SB 1.7.49]]

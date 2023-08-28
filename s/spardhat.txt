@@ -1,11 +1,5 @@
----json
-{
-    "name":"spardhat",
-    "h1":"spardhat",
-    "title":"spardhat -- synonyms, prabhupada.io",
-    "description":"contending."
-}
----
+~~Title:spardhat~~
+{{description>contending.}}
 
 ==== spardhat  ====
   * contending --- [[books:sb:4:30:7|SB 4.30.7]]

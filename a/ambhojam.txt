@@ -1,11 +1,5 @@
----json
-{
-    "name":"ambhojam",
-    "h1":"ambhojam",
-    "title":"ambhojam -- synonyms, prabhupada.io",
-    "description":"lotuslike."
-}
----
+~~Title:ambhojam~~
+{{description>lotuslike.}}
 
 ==== ambhojam  ====
   * lotuslike --- [[books:sb:3:28:13|SB 3.28.13]]

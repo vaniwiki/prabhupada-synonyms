@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhila",
-    "h1":"likhila",
-    "title":"likhila -- synonyms, prabhupada.io",
-    "description":"has noted; I have written; wrote."
-}
----
+~~Title:likhila~~
+{{description>has noted; I have written; wrote.}}
 
 ==== likhila  ====
   * has noted --- [[books:cc:antya:3:269|Antya 3.269]]

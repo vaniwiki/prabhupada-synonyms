@@ -1,11 +1,5 @@
----json
-{
-    "name":"drohe",
-    "h1":"drohe",
-    "title":"drohe -- synonyms, prabhupada.io",
-    "description":"offense."
-}
----
+~~Title:drohe~~
+{{description>offense.}}
 
 ==== drohe  ====
   * offense --- [[books:sb:1:18:41|SB 1.18.41]]

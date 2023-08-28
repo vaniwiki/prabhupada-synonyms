@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhūmram",
-    "h1":"dhūmram",
-    "title":"dhūmram -- synonyms, prabhupada.io",
-    "description":"smoky."
-}
----
+~~Title:dhūmram~~
+{{description>smoky.}}
 
 ==== dhūmram  ====
   * smoky --- [[books:sb:7:2:2|SB 7.2.2]]

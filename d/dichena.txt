@@ -1,11 +1,5 @@
----json
-{
-    "name":"dichena",
-    "h1":"dichena",
-    "title":"dichena -- synonyms, prabhupada.io",
-    "description":"awarded."
-}
----
+~~Title:dichena~~
+{{description>awarded.}}
 
 ==== dichena  ====
   * awarded --- [[books:cc:antya:12:22|Antya 12.22]]

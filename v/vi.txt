@@ -1,11 +1,5 @@
----json
-{
-    "name":"vi",
-    "h1":"vi",
-    "title":"vi -- synonyms, prabhupada.io",
-    "description":"the syllable vi of viṣṇave."
-}
----
+~~Title:vi~~
+{{description>the syllable vi of viṣṇave.}}
 
 ==== vi-kāram  ====
   * the syllable //vi// of //viṣṇave// --- [[books:sb:6:8:8-10|SB 6.8.8-10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"audhasam",
-    "h1":"audhasam",
-    "title":"audhasam -- synonyms, prabhupada.io",
-    "description":"in the milk bag."
-}
----
+~~Title:audhasam~~
+{{description>in the milk bag.}}
 
 ==== audhasam  ====
   * in the milk bag --- [[books:sb:4:17:23|SB 4.17.23]]

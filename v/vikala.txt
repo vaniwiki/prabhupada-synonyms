@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikala",
-    "h1":"vikala",
-    "title":"vikala -- synonyms, prabhupada.io",
-    "description":"agitated; disturbed; transformed."
-}
----
+~~Title:vikala~~
+{{description>agitated; disturbed; transformed.}}
 
 ==== vikala  ====
   * agitated --- [[books:cc:madhya:3:141|Madhya 3.141]]

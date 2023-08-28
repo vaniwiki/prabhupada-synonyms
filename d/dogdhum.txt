@@ -1,11 +1,5 @@
----json
-{
-    "name":"dogdhum",
-    "h1":"dogdhum",
-    "title":"dogdhum -- synonyms, prabhupada.io",
-    "description":"to give pain."
-}
----
+~~Title:dogdhum~~
+{{description>to give pain.}}
 
 ==== dogdhum  ====
   * to give pain --- [[books:sb:6:2:5-6|SB 6.2.5-6]]

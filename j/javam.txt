@@ -1,11 +1,5 @@
----json
-{
-    "name":"javam",
-    "h1":"javam",
-    "title":"javam -- synonyms, prabhupada.io",
-    "description":"temper."
-}
----
+~~Title:javam~~
+{{description>temper.}}
 
 ==== javam  ====
   * temper --- [[books:sb:3:17:21|SB 3.17.21]]

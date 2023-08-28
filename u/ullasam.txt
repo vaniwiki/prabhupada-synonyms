@@ -1,11 +1,5 @@
----json
-{
-    "name":"ullāsam",
-    "h1":"ullāsam",
-    "title":"ullāsam -- synonyms, prabhupada.io",
-    "description":"the superexcellence of the mellows."
-}
----
+~~Title:ullāsam~~
+{{description>the superexcellence of the mellows.}}
 
 ==== rasa-ullāsam  ====
   * the superexcellence of the mellows --- [[books:cc:madhya:14:1|Madhya 14.1]]

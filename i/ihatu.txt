@@ -1,11 +1,5 @@
----json
-{
-    "name":"īhatu",
-    "h1":"īhatu",
-    "title":"īhatu -- synonyms, prabhupada.io",
-    "description":"please try."
-}
----
+~~Title:īhatu~~
+{{description>please try.}}
 
 ==== īhatu  ====
   * please try --- [[books:sb:4:17:10-11|SB 4.17.10-11]]

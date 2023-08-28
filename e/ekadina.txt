@@ -1,11 +1,5 @@
----json
-{
-    "name":"ekadina",
-    "h1":"ekadina",
-    "title":"ekadina -- synonyms, prabhupada.io",
-    "description":"one day."
-}
----
+~~Title:ekadina~~
+{{description>one day.}}
 
 ==== ekadina  ====
   * one day --- [[books:cc:madhya:15:121|Madhya 15.121]]

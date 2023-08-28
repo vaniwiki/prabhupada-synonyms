@@ -1,11 +1,5 @@
----json
-{
-    "name":"jīvitei",
-    "h1":"jīvitei",
-    "title":"jīvitei -- synonyms, prabhupada.io",
-    "description":"while living."
-}
----
+~~Title:jīvitei~~
+{{description>while living.}}
 
 ==== jīvitei  ====
   * while living --- [[books:cc:adi:12:70|Ādi 12.70]]

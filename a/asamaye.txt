@@ -1,11 +1,5 @@
----json
-{
-    "name":"asamaye",
-    "h1":"asamaye",
-    "title":"asamaye -- synonyms, prabhupada.io",
-    "description":"at odd times."
-}
----
+~~Title:asamaye~~
+{{description>at odd times.}}
 
 ==== asamaye  ====
   * at odd times --- [[books:sb:10:8:29|SB 10.8.29]]

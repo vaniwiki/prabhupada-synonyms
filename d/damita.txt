@@ -1,11 +1,5 @@
----json
-{
-    "name":"damita",
-    "h1":"damita",
-    "title":"damita -- synonyms, prabhupada.io",
-    "description":"subdued."
-}
----
+~~Title:damita~~
+{{description>subdued.}}
 
 ==== damita  ====
   * subdued --- [[books:cc:antya:1:165|Antya 1.165]]

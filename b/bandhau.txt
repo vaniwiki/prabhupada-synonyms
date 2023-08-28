@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandhau",
-    "h1":"bandhau",
-    "title":"bandhau -- synonyms, prabhupada.io",
-    "description":"the roots of the two trees."
-}
----
+~~Title:bandhau~~
+{{description>the roots of the two trees.}}
 
 ==== aṅghri-bandhau  ====
   * the roots of the two trees --- [[books:sb:10:10:27|SB 10.10.27]]

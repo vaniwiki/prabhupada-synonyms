@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhajiba",
-    "h1":"bhajiba",
-    "title":"bhajiba -- synonyms, prabhupada.io",
-    "description":"I shall worship."
-}
----
+~~Title:bhajiba~~
+{{description>I shall worship.}}
 
 ==== bhajiba  ====
   * I shall worship --- [[books:cc:madhya:10:107|Madhya 10.107]]

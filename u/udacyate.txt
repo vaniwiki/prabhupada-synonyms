@@ -1,11 +1,5 @@
----json
-{
-    "name":"udacyate",
-    "h1":"udacyate",
-    "title":"udacyate -- synonyms, prabhupada.io",
-    "description":"is produced."
-}
----
+~~Title:udacyate~~
+{{description>is produced.}}
 
 ==== udacyate  ====
   * is produced --- [[books:iso:0b|Īśo Invocation]]

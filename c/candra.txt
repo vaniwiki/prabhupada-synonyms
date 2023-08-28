@@ -1,11 +1,5 @@
----json
-{
-    "name":"candra",
-    "h1":"candra",
-    "title":"candra -- synonyms, prabhupada.io",
-    "description":"like the moon; moon; moons; the moon."
-}
----
+~~Title:candra~~
+{{description>like the moon; moon; moons; the moon.}}
 
 ==== candra  ====
   * like the moon --- [[books:cc:antya:15:63|Antya 15.63]]

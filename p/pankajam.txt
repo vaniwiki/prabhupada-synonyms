@@ -1,11 +1,5 @@
----json
-{
-    "name":"pankajam",
-    "h1":"pankajam",
-    "title":"pankajam -- synonyms, prabhupada.io",
-    "description":"species of lotus flowers."
-}
----
+~~Title:pankajam~~
+{{description>species of lotus flowers.}}
 
 ==== paṅkajam  ====
   * species of lotus flowers --- [[books:sb:4:6:23|SB 4.6.23]]

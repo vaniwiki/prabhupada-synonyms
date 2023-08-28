@@ -1,11 +1,5 @@
----json
-{
-    "name":"ānaka",
-    "h1":"ānaka",
-    "title":"ānaka -- synonyms, prabhupada.io",
-    "description":"another type of drum; kettle."
-}
----
+~~Title:ānaka~~
+{{description>another type of drum; kettle.}}
 
 ==== ānaka  ====
   * another type of drum --- [[books:sb:8:8:13|SB 8.8.13]]

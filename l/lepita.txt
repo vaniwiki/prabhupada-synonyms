@@ -1,11 +1,5 @@
----json
-{
-    "name":"lepita",
-    "h1":"lepita",
-    "title":"lepita -- synonyms, prabhupada.io",
-    "description":"smeared."
-}
----
+~~Title:lepita~~
+{{description>smeared.}}
 
 ==== lepita  ====
   * smeared --- [[books:cc:adi:5:187|Ādi 5.187]]

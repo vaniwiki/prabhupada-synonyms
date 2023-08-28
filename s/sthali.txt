@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthali",
-    "h1":"sthali",
-    "title":"sthali -- synonyms, prabhupada.io",
-    "description":"on the cooking pot."
-}
----
+~~Title:sthali~~
+{{description>on the cooking pot.}}
 
 ==== sthāli  ====
   * on the cooking pot --- [[books:sb:5:10:22|SB 5.10.22]]

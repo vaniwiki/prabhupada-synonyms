@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampatti",
-    "h1":"sampatti",
-    "title":"sampatti -- synonyms, prabhupada.io",
-    "description":"the wealth."
-}
----
+~~Title:sampatti~~
+{{description>the wealth.}}
 
 ==== sampatti  ====
   * the wealth --- [[books:cc:madhya:8:247|Madhya 8.247]]

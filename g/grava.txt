@@ -1,11 +1,5 @@
----json
-{
-    "name":"grāva",
-    "h1":"grāva",
-    "title":"grāva -- synonyms, prabhupada.io",
-    "description":"stones and stool."
-}
----
+~~Title:grāva~~
+{{description>stones and stool.}}
 
 ==== grāva-śakṛt  ====
   * stones and stool --- [[books:sb:5:5:30|SB 5.5.30]]

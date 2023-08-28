@@ -1,11 +1,5 @@
----json
-{
-    "name":"ekera",
-    "h1":"ekera",
-    "title":"ekera -- synonyms, prabhupada.io",
-    "description":"of one of them."
-}
----
+~~Title:ekera~~
+{{description>of one of them.}}
 
 ==== ekera  ====
   * of one of them --- [[books:cc:madhya:18:131|Madhya 18.131]]

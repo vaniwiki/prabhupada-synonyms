@@ -1,11 +1,5 @@
----json
-{
-    "name":"sudur",
-    "h1":"sudur",
-    "title":"sudur -- synonyms, prabhupada.io",
-    "description":"very difficult to be seen."
-}
----
+~~Title:sudur~~
+{{description>very difficult to be seen.}}
 
 ==== sudur-darśana  ====
   * very difficult to be seen --- [[books:bg:11:52|Bg. 11.52]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samaya",
-    "h1":"samaya",
-    "title":"samaya -- synonyms, prabhupada.io",
-    "description":"at the time; the time."
-}
----
+~~Title:samaya~~
+{{description>at the time; the time.}}
 
 ==== samaya  ====
   * at the time --- [[books:cc:madhya:1:48|Madhya 1.48]]

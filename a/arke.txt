@@ -1,11 +1,5 @@
----json
-{
-    "name":"arke",
-    "h1":"arke",
-    "title":"arke -- synonyms, prabhupada.io",
-    "description":"the sun."
-}
----
+~~Title:arke~~
+{{description>the sun.}}
 
 ==== arke  ====
   * the sun --- [[books:sb:3:14:9|SB 3.14.9]]

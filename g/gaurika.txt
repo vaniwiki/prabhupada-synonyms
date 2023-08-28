@@ -1,11 +1,5 @@
----json
-{
-    "name":"gaurika",
-    "h1":"gaurika",
-    "title":"gaurika -- synonyms, prabhupada.io",
-    "description":"red oxide."
-}
----
+~~Title:gaurika~~
+{{description>red oxide.}}
 
 ==== gaurika  ====
   * red oxide --- [[books:cc:antya:13:7|Antya 13.7]]

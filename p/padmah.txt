@@ -1,11 +1,5 @@
----json
-{
-    "name":"padmah",
-    "h1":"padmah",
-    "title":"padmah -- synonyms, prabhupada.io",
-    "description":"a lotus flower."
-}
----
+~~Title:padmah~~
+{{description>a lotus flower.}}
 
 ==== padmaḥ  ====
   * a lotus flower --- [[books:cc:antya:15:51|Antya 15.51]]

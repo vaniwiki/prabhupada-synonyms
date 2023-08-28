@@ -1,11 +1,5 @@
----json
-{
-    "name":"lokanam",
-    "h1":"lokanam",
-    "title":"lokanam -- synonyms, prabhupada.io",
-    "description":"looking."
-}
----
+~~Title:lokanam~~
+{{description>looking.}}
 
 ==== lokanam  ====
   * looking --- [[books:cc:madhya:2:45|Madhya 2.45]]

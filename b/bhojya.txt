@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhojya",
-    "h1":"bhojya",
-    "title":"bhojya -- synonyms, prabhupada.io",
-    "description":"foods; fried foods."
-}
----
+~~Title:bhojya~~
+{{description>foods; fried foods.}}
 
 ==== bhojya  ====
   * foods --- [[books:cc:antya:16:130|Antya 16.130]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"alpakam",
-    "h1":"alpakam",
-    "title":"alpakam -- synonyms, prabhupada.io",
-    "description":"the smallest."
-}
----
+~~Title:alpakam~~
+{{description>the smallest.}}
 
 ==== alpakam  ====
   * the smallest --- [[books:cc:madhya:25:37|Madhya 25.37]]

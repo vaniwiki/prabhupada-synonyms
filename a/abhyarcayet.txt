@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhyarcayet",
-    "h1":"abhyarcayet",
-    "title":"abhyarcayet -- synonyms, prabhupada.io",
-    "description":"one should worship."
-}
----
+~~Title:abhyarcayet~~
+{{description>one should worship.}}
 
 ==== abhyarcayet  ====
   * one should worship --- [[books:sb:6:19:16|SB 6.19.16]]

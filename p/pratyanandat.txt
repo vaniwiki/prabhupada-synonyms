@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratyanandat",
-    "h1":"pratyanandat",
-    "title":"pratyanandat -- synonyms, prabhupada.io",
-    "description":"supported."
-}
----
+~~Title:pratyanandat~~
+{{description>supported.}}
 
 ==== pratyanandat  ====
   * supported --- [[books:sb:1:7:49|SB 1.7.49]]

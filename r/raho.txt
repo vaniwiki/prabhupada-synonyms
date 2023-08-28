@@ -1,11 +1,5 @@
----json
-{
-    "name":"raho",
-    "h1":"raho",
-    "title":"raho -- synonyms, prabhupada.io",
-    "description":"O Rāhu."
-}
----
+~~Title:raho~~
+{{description>O Rāhu.}}
 
 ==== he rāho  ====
   * O Rāhu --- [[books:sb:8:21:19|SB 8.21.19]]

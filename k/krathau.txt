@@ -1,11 +1,5 @@
----json
-{
-    "name":"krathau",
-    "h1":"krathau",
-    "title":"krathau -- synonyms, prabhupada.io",
-    "description":"Kuśa and Kratha."
-}
----
+~~Title:krathau~~
+{{description>Kuśa and Kratha.}}
 
 ==== kuśa-krathau  ====
   * Kuśa and Kratha --- [[books:sb:9:24:1|SB 9.24.1]]

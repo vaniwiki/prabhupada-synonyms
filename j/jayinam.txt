@@ -1,11 +1,5 @@
----json
-{
-    "name":"jayinam",
-    "h1":"jayinam",
-    "title":"jayinam -- synonyms, prabhupada.io",
-    "description":"victorious."
-}
----
+~~Title:jayinam~~
+{{description>victorious.}}
 
 ==== jayinam  ====
   * victorious --- [[books:sb:8:19:6|SB 8.19.6]]

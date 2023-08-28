@@ -1,11 +1,5 @@
----json
-{
-    "name":"samjnaya",
-    "h1":"samjnaya",
-    "title":"samjnaya -- synonyms, prabhupada.io",
-    "description":"by different names; by such names."
-}
----
+~~Title:samjnaya~~
+{{description>by different names; by such names.}}
 
 ==== saṁjñayā  ====
   * by different names --- [[books:sb:9:10:2|SB 9.10.2]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"atipriya",
-    "h1":"atipriya",
-    "title":"atipriya -- synonyms, prabhupada.io",
-    "description":"very dear."
-}
----
+~~Title:atipriya~~
+{{description>very dear.}}
 
 ==== atipriya  ====
   * very dear --- [[books:cc:adi:10:69|Ādi 10.69]]

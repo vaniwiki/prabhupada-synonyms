@@ -1,11 +1,5 @@
----json
-{
-    "name":"yojita",
-    "h1":"yojita",
-    "title":"yojita -- synonyms, prabhupada.io",
-    "description":"engaged; engaged in."
-}
----
+~~Title:yojita~~
+{{description>engaged; engaged in.}}
 
 ==== yojita  ====
   * engaged --- [[books:sb:4:31:3|SB 4.31.3]]

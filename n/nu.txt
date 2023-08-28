@@ -1,11 +1,5 @@
----json
-{
-    "name":"nu",
-    "h1":"nu",
-    "title":"nu -- synonyms, prabhupada.io",
-    "description":"after that; as a matter of fact; but; certainly; else; however; indeed; may be; of course; oh, how wonderful it is; only; or not; then; whether."
-}
----
+~~Title:nu~~
+{{description>after that; as a matter of fact; but; certainly; else; however; indeed; may be; of course; oh, how wonderful it is; only; or not; then; whether.}}
 
 ==== nu  ====
   * after that --- [[books:sb:10:10:32|SB 10.10.32]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"manobala",
-    "h1":"manobala",
-    "title":"manobala -- synonyms, prabhupada.io",
-    "description":"desire."
-}
----
+~~Title:manobala~~
+{{description>desire.}}
 
 ==== manobala  ====
   * desire --- [[books:cc:antya:9:114|Antya 9.114]]

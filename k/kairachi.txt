@@ -1,11 +1,5 @@
----json
-{
-    "name":"kairāchi",
-    "h1":"kairāchi",
-    "title":"kairāchi -- synonyms, prabhupada.io",
-    "description":"I have made."
-}
----
+~~Title:kairāchi~~
+{{description>I have made.}}
 
 ==== kairāchi  ====
   * I have made --- [[books:cc:antya:7:84|Antya 7.84]]

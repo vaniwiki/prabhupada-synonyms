@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuvartita",
-    "h1":"anuvartita",
-    "title":"anuvartita -- synonyms, prabhupada.io",
-    "description":"dwelling."
-}
----
+~~Title:anuvartita~~
+{{description>dwelling.}}
 
 ==== anuvartita  ====
   * dwelling --- [[books:sb:3:31:16|SB 3.31.16]]

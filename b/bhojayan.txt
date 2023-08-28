@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhojayan",
-    "h1":"bhojayan",
-    "title":"bhojayan -- synonyms, prabhupada.io",
-    "description":"feeding."
-}
----
+~~Title:bhojayan~~
+{{description>feeding.}}
 
 ==== bhojayan  ====
   * feeding --- [[books:sb:6:1:26|SB 6.1.26]]

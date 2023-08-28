@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhikramanti",
-    "h1":"adhikramanti",
-    "title":"adhikramanti -- synonyms, prabhupada.io",
-    "description":"traversing."
-}
----
+~~Title:adhikramanti~~
+{{description>traversing.}}
 
 ==== adhikramanti  ====
   * traversing --- [[books:sb:1:14:38|SB 1.14.38]]

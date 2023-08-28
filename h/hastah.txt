@@ -1,11 +1,5 @@
----json
-{
-    "name":"hastah",
-    "h1":"hastah",
-    "title":"hastah -- synonyms, prabhupada.io",
-    "description":"with a lotus flower in the hand."
-}
----
+~~Title:hastah~~
+{{description>with a lotus flower in the hand.}}
 
 ==== ambuja-hastaḥ  ====
   * with a lotus flower in the hand --- [[books:sb:2:7:15|SB 2.7.15]]

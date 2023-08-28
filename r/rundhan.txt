@@ -1,11 +1,5 @@
----json
-{
-    "name":"rundhan",
-    "h1":"rundhan",
-    "title":"rundhan -- synonyms, prabhupada.io",
-    "description":"blocking; trying to reject."
-}
----
+~~Title:rundhan~~
+{{description>blocking; trying to reject.}}
 
 ==== rundhan  ====
   * blocking --- [[books:cc:antya:1:164|Antya 1.164]]

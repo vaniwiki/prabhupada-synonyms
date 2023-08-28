@@ -1,11 +1,5 @@
----json
-{
-    "name":"upabhoga",
-    "h1":"upabhoga",
-    "title":"upabhoga -- synonyms, prabhupada.io",
-    "description":"of material enjoyment."
-}
----
+~~Title:upabhoga~~
+{{description>of material enjoyment.}}
 
 ==== upabhoga  ====
   * of material enjoyment --- [[books:sb:5:14:36|SB 5.14.36]]

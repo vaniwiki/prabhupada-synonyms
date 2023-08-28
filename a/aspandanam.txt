@@ -1,11 +1,5 @@
----json
-{
-    "name":"aspandanam",
-    "h1":"aspandanam",
-    "title":"aspandanam -- synonyms, prabhupada.io",
-    "description":"the lack of movement."
-}
----
+~~Title:aspandanam~~
+{{description>the lack of movement.}}
 
 ==== aspandanam  ====
   * the lack of movement --- [[books:cc:madhya:24:207|Madhya 24.207]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhātera",
-    "h1":"bhātera",
-    "title":"bhātera -- synonyms, prabhupada.io",
-    "description":"the cooking pot."
-}
----
+~~Title:bhātera~~
+{{description>the cooking pot.}}
 
 ==== bhātera hāṇḍi  ====
   * the cooking pot --- [[books:cc:antya:13:54|Antya 13.54]]

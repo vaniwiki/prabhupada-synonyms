@@ -1,11 +1,5 @@
----json
-{
-    "name":"atanot",
-    "h1":"atanot",
-    "title":"atanot -- synonyms, prabhupada.io",
-    "description":"spread."
-}
----
+~~Title:atanot~~
+{{description>spread.}}
 
 ==== atanot  ====
   * spread --- [[books:sb:1:8:6|SB 1.8.6]]

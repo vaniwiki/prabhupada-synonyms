@@ -1,11 +1,5 @@
----json
-{
-    "name":"sandhye",
-    "h1":"sandhye",
-    "title":"sandhye -- synonyms, prabhupada.io",
-    "description":"morning and evening."
-}
----
+~~Title:sandhye~~
+{{description>morning and evening.}}
 
 ==== sandhye  ====
   * morning and evening --- [[books:sb:7:12:2|SB 7.12.2]]

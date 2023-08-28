@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhagyah",
-    "h1":"bhagyah",
-    "title":"bhagyah -- synonyms, prabhupada.io",
-    "description":"the unfortunate man."
-}
----
+~~Title:bhagyah~~
+{{description>the unfortunate man.}}
 
 ==== manda-bhāgyaḥ  ====
   * the unfortunate man --- [[books:sb:3:30:12|SB 3.30.12]]

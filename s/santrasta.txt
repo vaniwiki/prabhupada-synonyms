@@ -1,11 +1,5 @@
----json
-{
-    "name":"santrasta",
-    "h1":"santrasta",
-    "title":"santrasta -- synonyms, prabhupada.io",
-    "description":"with a fearful heart."
-}
----
+~~Title:santrasta~~
+{{description>with a fearful heart.}}
 
 ==== santrasta-cittaḥ  ====
   * with a fearful heart --- [[books:sb:9:4:52|SB 9.4.52]]

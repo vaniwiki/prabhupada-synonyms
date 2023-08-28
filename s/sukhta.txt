@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukhta",
-    "h1":"sukhta",
-    "title":"sukhta -- synonyms, prabhupada.io",
-    "description":"vegetables made bitter."
-}
----
+~~Title:sukhta~~
+{{description>vegetables made bitter.}}
 
 ==== sukhta  ====
   * vegetables made bitter --- [[books:cc:madhya:3:46|Madhya 3.46]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samit",
-    "h1":"samit",
-    "title":"samit -- synonyms, prabhupada.io",
-    "description":"firewood; wood for the sacrificial fire."
-}
----
+~~Title:samit~~
+{{description>firewood; wood for the sacrificial fire.}}
 
 ==== samit  ====
   * firewood --- [[books:sb:5:8:12|SB 5.8.12]]

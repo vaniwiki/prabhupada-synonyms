@@ -1,11 +1,5 @@
----json
-{
-    "name":"sailah",
-    "h1":"sailah",
-    "title":"sailah -- synonyms, prabhupada.io",
-    "description":"a big mountain."
-}
----
+~~Title:sailah~~
+{{description>a big mountain.}}
 
 ==== śailaḥ  ====
   * a big mountain --- [[books:sb:8:10:45|SB 8.10.45]]

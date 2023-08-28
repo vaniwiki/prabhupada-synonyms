@@ -1,11 +1,5 @@
----json
-{
-    "name":"puchile",
-    "h1":"puchile",
-    "title":"puchile -- synonyms, prabhupada.io",
-    "description":"he inquired."
-}
----
+~~Title:puchile~~
+{{description>he inquired.}}
 
 ==== puchile  ====
   * he inquired --- [[books:cc:antya:1:21|Antya 1.21]]

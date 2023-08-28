@@ -1,11 +1,5 @@
----json
-{
-    "name":"mitam",
-    "h1":"mitam",
-    "title":"mitam -- synonyms, prabhupada.io",
-    "description":"concise; minimized."
-}
----
+~~Title:mitam~~
+{{description>concise; minimized.}}
 
 ==== mitam  ====
   * concise --- [[books:cc:adi:1:106|Ādi 1.106]]

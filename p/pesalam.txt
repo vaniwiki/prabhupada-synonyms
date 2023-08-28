@@ -1,11 +1,5 @@
----json
-{
-    "name":"peśalam",
-    "h1":"peśalam",
-    "title":"peśalam -- synonyms, prabhupada.io",
-    "description":"beautiful."
-}
----
+~~Title:peśalam~~
+{{description>beautiful.}}
 
 ==== peśalam  ====
   * beautiful --- [[books:sb:2:2:11|SB 2.2.11]]

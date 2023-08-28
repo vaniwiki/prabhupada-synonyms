@@ -1,11 +1,5 @@
----json
-{
-    "name":"nidhim",
-    "h1":"nidhim",
-    "title":"nidhim -- synonyms, prabhupada.io",
-    "description":"the storehouse."
-}
----
+~~Title:nidhim~~
+{{description>the storehouse.}}
 
 ==== nidhim  ====
   * the storehouse --- [[books:sb:5:18:28|SB 5.18.28]]

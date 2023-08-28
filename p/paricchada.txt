@@ -1,11 +1,5 @@
----json
-{
-    "name":"paricchada",
-    "h1":"paricchada",
-    "title":"paricchada -- synonyms, prabhupada.io",
-    "description":"garments and household utensils."
-}
----
+~~Title:paricchada~~
+{{description>garments and household utensils.}}
 
 ==== paricchadā  ====
   * garments and household utensils --- [[books:sb:7:11:26-27|SB 7.11.26-27]]

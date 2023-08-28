@@ -1,11 +1,5 @@
----json
-{
-    "name":"tad",
-    "h1":"tad",
-    "title":"tad -- synonyms, prabhupada.io",
-    "description":"in the vicinity."
-}
----
+~~Title:tad~~
+{{description>in the vicinity.}}
 
 ==== tad-antike  ====
   * in the vicinity --- [[books:sb:6:17:4-5|SB 6.17.4-5]]

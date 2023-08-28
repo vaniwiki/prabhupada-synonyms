@@ -1,11 +1,5 @@
----json
-{
-    "name":"prasuptam",
-    "h1":"prasuptam",
-    "title":"prasuptam -- synonyms, prabhupada.io",
-    "description":"sleeping."
-}
----
+~~Title:prasuptam~~
+{{description>sleeping.}}
 
 ==== prasuptam  ====
   * sleeping --- [[books:sb:3:26:71|SB 3.26.71]], [[books:sb:6:4:47|SB 6.4.47]]

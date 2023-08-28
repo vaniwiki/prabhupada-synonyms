@@ -1,11 +1,5 @@
----json
-{
-    "name":"etha",
-    "h1":"etha",
-    "title":"etha -- synonyms, prabhupada.io",
-    "description":"here."
-}
----
+~~Title:etha~~
+{{description>here.}}
 
 ==== etha  ====
   * here --- [[books:cc:adi:15:18|Ādi 15.18]]

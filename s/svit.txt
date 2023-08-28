@@ -1,11 +1,5 @@
----json
-{
-    "name":"svit",
-    "h1":"svit",
-    "title":"svit -- synonyms, prabhupada.io",
-    "description":"does it come; if it is so; may; or; possibly; whether; will it be."
-}
----
+~~Title:svit~~
+{{description>does it come; if it is so; may; or; possibly; whether; will it be.}}
 
 ==== svit  ====
   * does it come --- [[books:sb:1:7:26|SB 1.7.26]]

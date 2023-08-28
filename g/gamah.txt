@@ -1,11 +1,5 @@
----json
-{
-    "name":"gamah",
-    "h1":"gamah",
-    "title":"gamah -- synonyms, prabhupada.io",
-    "description":"go in."
-}
----
+~~Title:gamah~~
+{{description>go in.}}
 
 ==== gamaḥ  ====
   * go in --- [[books:bg:2:3|Bg. 2.3]]

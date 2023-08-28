@@ -1,11 +1,5 @@
----json
-{
-    "name":"atireka",
-    "h1":"atireka",
-    "title":"atireka -- synonyms, prabhupada.io",
-    "description":"excess."
-}
----
+~~Title:atireka~~
+{{description>excess.}}
 
 ==== atireka  ====
   * excess --- [[books:cc:antya:6:263|Antya 6.263]]

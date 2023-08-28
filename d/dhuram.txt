@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhuram",
-    "h1":"dhuram",
-    "title":"dhuram -- synonyms, prabhupada.io",
-    "description":"a load."
-}
----
+~~Title:dhuram~~
+{{description>a load.}}
 
 ==== dhuram  ====
   * a load --- [[books:sb:5:10:1|SB 5.10.1]]

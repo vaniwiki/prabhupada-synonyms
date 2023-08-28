@@ -1,11 +1,5 @@
----json
-{
-    "name":"badara",
-    "h1":"badara",
-    "title":"badara -- synonyms, prabhupada.io",
-    "description":"fruits and berries."
-}
----
+~~Title:badara~~
+{{description>fruits and berries.}}
 
 ==== kapittha-badara  ====
   * fruits and berries --- [[books:sb:4:8:72|SB 4.8.72]]

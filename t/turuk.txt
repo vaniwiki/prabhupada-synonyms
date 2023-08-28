@@ -1,11 +1,5 @@
----json
-{
-    "name":"turuk",
-    "h1":"turuk",
-    "title":"turuk -- synonyms, prabhupada.io",
-    "description":"that Turk."
-}
----
+~~Title:turuk~~
+{{description>that Turk.}}
 
 ==== se turuk  ====
   * that Turk --- [[books:cc:antya:6:19|Antya 6.19]]

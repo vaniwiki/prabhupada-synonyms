@@ -1,11 +1,5 @@
----json
-{
-    "name":"khedam",
-    "h1":"khedam",
-    "title":"khedam -- synonyms, prabhupada.io",
-    "description":"lamentation."
-}
----
+~~Title:khedam~~
+{{description>lamentation.}}
 
 ==== khedam  ====
   * lamentation --- [[books:sb:4:10:16|SB 4.10.16]]

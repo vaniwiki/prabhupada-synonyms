@@ -1,11 +1,5 @@
----json
-{
-    "name":"strīke",
-    "h1":"strīke",
-    "title":"strīke -- synonyms, prabhupada.io",
-    "description":"the woman."
-}
----
+~~Title:strīke~~
+{{description>the woman.}}
 
 ==== strīke  ====
   * the woman --- [[books:cc:antya:14:25|Antya 14.25]]

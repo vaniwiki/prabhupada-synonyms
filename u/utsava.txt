@@ -1,11 +1,5 @@
----json
-{
-    "name":"utsava",
-    "h1":"utsava",
-    "title":"utsava -- synonyms, prabhupada.io",
-    "description":"festival."
-}
----
+~~Title:utsava~~
+{{description>festival.}}
 
 ==== utsava  ====
   * festival --- [[books:cc:madhya:14:107|Madhya 14.107]]

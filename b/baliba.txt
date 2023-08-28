@@ -1,11 +1,5 @@
----json
-{
-    "name":"baliba",
-    "h1":"baliba",
-    "title":"baliba -- synonyms, prabhupada.io",
-    "description":"what will I say."
-}
----
+~~Title:baliba~~
+{{description>what will I say.}}
 
 ==== ki baliba  ====
   * what will I say --- [[books:cc:adi:5:226|Ādi 5.226]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"svastye",
-    "h1":"svastye",
-    "title":"svastye -- synonyms, prabhupada.io",
-    "description":"in peace."
-}
----
+~~Title:svastye~~
+{{description>in peace.}}
 
 ==== svastye  ====
   * in peace --- [[books:cc:antya:12:151|Antya 12.151]]

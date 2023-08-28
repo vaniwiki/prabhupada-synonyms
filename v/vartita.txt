@@ -1,11 +1,5 @@
----json
-{
-    "name":"vartita",
-    "h1":"vartita",
-    "title":"vartita -- synonyms, prabhupada.io",
-    "description":"brought about."
-}
----
+~~Title:vartita~~
+{{description>brought about.}}
 
 ==== vartita  ====
   * brought about --- [[books:sb:3:21:21|SB 3.21.21]]

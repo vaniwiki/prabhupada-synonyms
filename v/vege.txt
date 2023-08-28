@@ -1,11 +1,5 @@
----json
-{
-    "name":"vege",
-    "h1":"vege",
-    "title":"vege -- synonyms, prabhupada.io",
-    "description":"at the speed of mind."
-}
----
+~~Title:vege~~
+{{description>at the speed of mind.}}
 
 ==== manaḥ-vege  ====
   * at the speed of mind --- [[books:cc:antya:18:34|Antya 18.34]]

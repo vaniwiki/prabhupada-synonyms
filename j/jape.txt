@@ -1,11 +1,5 @@
----json
-{
-    "name":"jape",
-    "h1":"jape",
-    "title":"jape -- synonyms, prabhupada.io",
-    "description":"chants."
-}
----
+~~Title:jape~~
+{{description>chants.}}
 
 ==== jape  ====
   * chants --- [[books:cc:adi:7:83|Ādi 7.83]], [[books:cc:antya:16:72|Antya 16.72]]

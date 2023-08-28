@@ -1,11 +1,5 @@
----json
-{
-    "name":"paśyet",
-    "h1":"paśyet",
-    "title":"paśyet -- synonyms, prabhupada.io",
-    "description":"observes; one should see; sees."
-}
----
+~~Title:paśyet~~
+{{description>observes; one should see; sees.}}
 
 ==== paśyet  ====
   * observes --- [[books:bg:4:18|Bg. 4.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"doha",
-    "h1":"doha",
-    "title":"doha -- synonyms, prabhupada.io",
-    "description":"for milking."
-}
----
+~~Title:doha~~
+{{description>for milking.}}
 
 ==== doha  ====
   * for milking --- [[books:sb:4:18:27|SB 4.18.27]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bahiranga",
-    "h1":"bahiranga",
-    "title":"bahiranga -- synonyms, prabhupada.io",
-    "description":"external."
-}
----
+~~Title:bahiranga~~
+{{description>external.}}
 
 ==== bahiraṅga  ====
   * external --- [[books:cc:adi:4:6|Ādi 4.6]]

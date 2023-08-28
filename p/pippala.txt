@@ -1,11 +1,5 @@
----json
-{
-    "name":"pippala",
-    "h1":"pippala",
-    "title":"pippala -- synonyms, prabhupada.io",
-    "description":"banyan tree."
-}
----
+~~Title:pippala~~
+{{description>banyan tree.}}
 
 ==== pippala  ====
   * banyan tree --- [[books:sb:1:6:15|SB 1.6.15]]

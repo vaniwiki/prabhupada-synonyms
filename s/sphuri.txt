@@ -1,11 +1,5 @@
----json
-{
-    "name":"sphuri",
-    "h1":"sphuri",
-    "title":"sphuri -- synonyms, prabhupada.io",
-    "description":"becoming manifest."
-}
----
+~~Title:sphuri~~
+{{description>becoming manifest.}}
 
 ==== sphuri  ====
   * becoming manifest --- [[books:cc:madhya:25:125|Madhya 25.125]]

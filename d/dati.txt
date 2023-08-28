@@ -1,11 +1,5 @@
----json
-{
-    "name":"dati",
-    "h1":"dati",
-    "title":"dati -- synonyms, prabhupada.io",
-    "description":"with beautiful teeth."
-}
----
+~~Title:dati~~
+{{description>with beautiful teeth.}}
 
 ==== su-dati  ====
   * with beautiful teeth --- [[books:sb:4:26:23|SB 4.26.23]]

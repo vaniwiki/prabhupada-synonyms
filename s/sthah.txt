@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthah",
-    "h1":"sthah",
-    "title":"sthah -- synonyms, prabhupada.io",
-    "description":"situated."
-}
----
+~~Title:sthah~~
+{{description>situated.}}
 
 ==== sthaḥ  ====
   * situated --- [[books:sb:3:30:5|SB 3.30.5]], [[books:sb:4:20:8|SB 4.20.8]], [[books:cc:adi:4:116|Ādi 4.116]]

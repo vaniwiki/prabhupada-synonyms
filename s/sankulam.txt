@@ -1,11 +1,5 @@
----json
-{
-    "name":"sankulam",
-    "h1":"sankulam",
-    "title":"sankulam -- synonyms, prabhupada.io",
-    "description":"crowded; is pervaded."
-}
----
+~~Title:sankulam~~
+{{description>crowded; is pervaded.}}
 
 ==== saṅkulam  ====
   * crowded --- [[books:sb:7:8:36|SB 7.8.36]], [[books:cc:adi:1:73-74|Ādi 1.73-74]]

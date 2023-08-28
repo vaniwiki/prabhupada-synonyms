@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimatena",
-    "h1":"vimatena",
-    "title":"vimatena -- synonyms, prabhupada.io",
-    "description":"being disrespected."
-}
----
+~~Title:vimatena~~
+{{description>being disrespected.}}
 
 ==== vimatena  ====
   * being disrespected --- [[books:sb:6:6:45|SB 6.6.45]]

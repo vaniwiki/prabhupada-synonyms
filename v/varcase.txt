@@ -1,11 +1,5 @@
----json
-{
-    "name":"varcase",
-    "h1":"varcase",
-    "title":"varcase -- synonyms, prabhupada.io",
-    "description":"whose effulgence."
-}
----
+~~Title:varcase~~
+{{description>whose effulgence.}}
 
 ==== varcase  ====
   * whose effulgence --- [[books:sb:9:5:6|SB 9.5.6]]

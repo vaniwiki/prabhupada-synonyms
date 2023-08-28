@@ -1,11 +1,5 @@
----json
-{
-    "name":"harita",
-    "h1":"harita",
-    "title":"harita -- synonyms, prabhupada.io",
-    "description":"green."
-}
----
+~~Title:harita~~
+{{description>green.}}
 
 ==== harita  ====
   * green --- [[books:sb:3:8:24|SB 3.8.24]]

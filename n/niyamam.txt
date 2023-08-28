@@ -1,11 +1,5 @@
----json
-{
-    "name":"niyamam",
-    "h1":"niyamam",
-    "title":"niyamam -- synonyms, prabhupada.io",
-    "description":"rules; the regulative principles."
-}
----
+~~Title:niyamam~~
+{{description>rules; the regulative principles.}}
 
 ==== niyamam  ====
   * rules --- [[books:bg:7:20|Bg. 7.20]]

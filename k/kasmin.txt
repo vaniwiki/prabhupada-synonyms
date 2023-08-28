@@ -1,11 +1,5 @@
----json
-{
-    "name":"kasmin",
-    "h1":"kasmin",
-    "title":"kasmin -- synonyms, prabhupada.io",
-    "description":"for what reason; in which."
-}
----
+~~Title:kasmin~~
+{{description>for what reason; in which.}}
 
 ==== kasmin  ====
   * for what reason --- [[books:sb:7:10:52|SB 7.10.52]]

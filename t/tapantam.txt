@@ -1,11 +1,5 @@
----json
-{
-    "name":"tapantam",
-    "h1":"tapantam",
-    "title":"tapantam -- synonyms, prabhupada.io",
-    "description":"heating."
-}
----
+~~Title:tapantam~~
+{{description>heating.}}
 
 ==== tapantam  ====
   * heating --- [[books:bg:11:19|Bg. 11.19]], [[books:sb:7:3:15-16|SB 7.3.15-16]]

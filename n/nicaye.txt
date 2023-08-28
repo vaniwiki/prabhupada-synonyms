@@ -1,11 +1,5 @@
----json
-{
-    "name":"nicaye",
-    "h1":"nicaye",
-    "title":"nicaye -- synonyms, prabhupada.io",
-    "description":"for the accumulation."
-}
----
+~~Title:nicaye~~
+{{description>for the accumulation.}}
 
 ==== nicaye  ====
   * for the accumulation --- [[books:mm:5|MM 5]]

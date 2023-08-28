@@ -1,11 +1,5 @@
----json
-{
-    "name":"kulika",
-    "h1":"kulika",
-    "title":"kulika -- synonyms, prabhupada.io",
-    "description":"Kulika."
-}
----
+~~Title:kulika~~
+{{description>Kulika.}}
 
 ==== kulika  ====
   * Kulika --- [[books:sb:5:24:31|SB 5.24.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"savanaspati",
-    "h1":"savanaspati",
-    "title":"savanaspati -- synonyms, prabhupada.io",
-    "description":"vegetables."
-}
----
+~~Title:savanaspati~~
+{{description>vegetables.}}
 
 ==== savanaspati  ====
   * vegetables --- [[books:sb:1:10:5|SB 1.10.5]]

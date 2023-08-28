@@ -1,11 +1,5 @@
----json
-{
-    "name":"agne",
-    "h1":"agne",
-    "title":"agne -- synonyms, prabhupada.io",
-    "description":"O my Lord, as powerful as fire."
-}
----
+~~Title:agne~~
+{{description>O my Lord, as powerful as fire.}}
 
 ==== agne  ====
   * O my Lord, as powerful as fire --- [[books:iso:18|Īśo 18]]

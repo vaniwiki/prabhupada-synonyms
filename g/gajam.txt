@@ -1,11 +1,5 @@
----json
-{
-    "name":"gajam",
-    "h1":"gajam",
-    "title":"gajam -- synonyms, prabhupada.io",
-    "description":"as well as his elephant."
-}
----
+~~Title:gajam~~
+{{description>as well as his elephant.}}
 
 ==== gajam ca  ====
   * as well as his elephant --- [[books:sb:8:11:14|SB 8.11.14]]

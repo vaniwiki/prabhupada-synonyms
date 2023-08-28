@@ -1,11 +1,5 @@
----json
-{
-    "name":"karabha",
-    "h1":"karabha",
-    "title":"karabha -- synonyms, prabhupada.io",
-    "description":"as strong as the trunk of an elephant."
-}
----
+~~Title:karabha~~
+{{description>as strong as the trunk of an elephant.}}
 
 ==== karabha-upamam  ====
   * as strong as the trunk of an elephant --- [[books:sb:6:12:25|SB 6.12.25]]

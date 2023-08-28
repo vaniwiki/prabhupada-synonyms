@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahitve",
-    "h1":"mahitve",
-    "title":"mahitve -- synonyms, prabhupada.io",
-    "description":"in greatness."
-}
----
+~~Title:mahitve~~
+{{description>in greatness.}}
 
 ==== mahitve  ====
   * in greatness --- [[books:sb:3:20:3|SB 3.20.3]]

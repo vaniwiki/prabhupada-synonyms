@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedya",
-    "h1":"vedya",
-    "title":"vedya -- synonyms, prabhupada.io",
-    "description":"understandable."
-}
----
+~~Title:vedya~~
+{{description>understandable.}}
 
 ==== vedya  ====
   * understandable --- [[books:cc:madhya:3:66|Madhya 3.66]]

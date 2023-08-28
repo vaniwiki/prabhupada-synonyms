@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhojayate",
-    "h1":"bhojayate",
-    "title":"bhojayate -- synonyms, prabhupada.io",
-    "description":"feeds."
-}
----
+~~Title:bhojayate~~
+{{description>feeds.}}
 
 ==== bhojayate  ====
   * feeds --- [[books:noi:4|NoI 4]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandhavah",
-    "h1":"bandhavah",
-    "title":"bandhavah -- synonyms, prabhupada.io",
-    "description":"friends."
-}
----
+~~Title:bandhavah~~
+{{description>friends.}}
 
 ==== bandhavaḥ  ====
   * friends --- [[books:sb:1:19:32|SB 1.19.32]]

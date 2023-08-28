@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhūvan",
-    "h1":"bhūvan",
-    "title":"bhūvan -- synonyms, prabhupada.io",
-    "description":"it so happened."
-}
----
+~~Title:bhūvan~~
+{{description>it so happened.}}
 
 ==== bhūvan  ====
   * it so happened --- [[books:sb:1:17:12|SB 1.17.12]]

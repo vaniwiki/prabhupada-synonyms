@@ -1,11 +1,5 @@
----json
-{
-    "name":"calena",
-    "h1":"calena",
-    "title":"calena -- synonyms, prabhupada.io",
-    "description":"goes; goes forward; He went."
-}
----
+~~Title:calena~~
+{{description>goes; goes forward; He went.}}
 
 ==== calena  ====
   * goes --- [[books:cc:adi:10:55|Ādi 10.55]], [[books:cc:adi:10:141|Ādi 10.141]], [[books:cc:antya:11:63|Antya 11.63]], [[books:cc:antya:14:87|Antya 14.87]]

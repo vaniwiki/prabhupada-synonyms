@@ -1,11 +1,5 @@
----json
-{
-    "name":"labhya",
-    "h1":"labhya",
-    "title":"labhya -- synonyms, prabhupada.io",
-    "description":"available; obtainable."
-}
----
+~~Title:labhya~~
+{{description>available; obtainable.}}
 
 ==== labhya  ====
   * available --- [[books:cc:adi:5:195|Ādi 5.195]]

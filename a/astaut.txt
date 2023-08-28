@@ -1,11 +1,5 @@
----json
-{
-    "name":"astaut",
-    "h1":"astaut",
-    "title":"astaut -- synonyms, prabhupada.io",
-    "description":"offered prayers; prayed for."
-}
----
+~~Title:astaut~~
+{{description>offered prayers; prayed for.}}
 
 ==== astaut  ====
   * offered prayers --- [[books:sb:9:8:20|SB 9.8.20]], [[books:sb:10:3:12|SB 10.3.12]]

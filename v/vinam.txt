@@ -1,11 +1,5 @@
----json
-{
-    "name":"vinam",
-    "h1":"vinam",
-    "title":"vinam -- synonyms, prabhupada.io",
-    "description":"a musical instrument; a musical stringed instrument; instrument."
-}
----
+~~Title:vinam~~
+{{description>a musical instrument; a musical stringed instrument; instrument.}}
 
 ==== vīṇām  ====
   * a musical instrument --- [[books:sb:4:8:38|SB 4.8.38]]

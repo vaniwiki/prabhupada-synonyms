@@ -1,11 +1,5 @@
----json
-{
-    "name":"santatyai",
-    "h1":"santatyai",
-    "title":"santatyai -- synonyms, prabhupada.io",
-    "description":"for performances; to expand."
-}
----
+~~Title:santatyai~~
+{{description>for performances; to expand.}}
 
 ==== santatyai  ====
   * for performances --- [[books:sb:4:7:17|SB 4.7.17]]

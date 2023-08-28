@@ -1,11 +1,5 @@
----json
-{
-    "name":"vat",
-    "h1":"vat",
-    "title":"vat -- synonyms, prabhupada.io",
-    "description":"as if; exactly like; like."
-}
----
+~~Title:vat~~
+{{description>as if; exactly like; like.}}
 
 ==== vat  ====
   * as if --- [[books:cc:madhya:14:197|Madhya 14.197]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prayena",
-    "h1":"prayena",
-    "title":"prayena -- synonyms, prabhupada.io",
-    "description":"almost."
-}
----
+~~Title:prayena~~
+{{description>almost.}}
 
 ==== prāyena  ====
   * almost --- [[books:cc:adi:1:77|Ādi 1.77]]

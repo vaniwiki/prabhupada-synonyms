@@ -1,11 +1,5 @@
----json
-{
-    "name":"dunoti",
-    "h1":"dunoti",
-    "title":"dunoti -- synonyms, prabhupada.io",
-    "description":"distresses; it gives me pain."
-}
----
+~~Title:dunoti~~
+{{description>distresses; it gives me pain.}}
 
 ==== dunoti  ====
   * distresses --- [[books:sb:3:14:10|SB 3.14.10]]

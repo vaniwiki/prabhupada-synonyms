@@ -1,11 +1,5 @@
----json
-{
-    "name":"santatam",
-    "h1":"santatam",
-    "title":"santatam -- synonyms, prabhupada.io",
-    "description":"spread."
-}
----
+~~Title:santatam~~
+{{description>spread.}}
 
 ==== santatam  ====
   * spread --- [[books:sb:6:16:52|SB 6.16.52]]

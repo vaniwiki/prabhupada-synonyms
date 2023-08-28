@@ -1,11 +1,5 @@
----json
-{
-    "name":"sparsi",
-    "h1":"sparsi",
-    "title":"sparsi -- synonyms, prabhupada.io",
-    "description":"I touch; we touch."
-}
----
+~~Title:sparsi~~
+{{description>I touch; we touch.}}
 
 ==== sparśi  ====
   * I touch --- [[books:cc:adi:5:157|Ādi 5.157]], [[books:cc:madhya:9:363|Madhya 9.363]], [[books:cc:antya:20:71|Antya 20.71]]

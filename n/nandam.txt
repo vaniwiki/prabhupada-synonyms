@@ -1,11 +1,5 @@
----json
-{
-    "name":"nandam",
-    "h1":"nandam",
-    "title":"nandam -- synonyms, prabhupada.io",
-    "description":"Mahārāja Nanda; Nanda Mahārāja; unto Nanda (the father of Kṛṣṇa)."
-}
----
+~~Title:nandam~~
+{{description>Mahārāja Nanda; Nanda Mahārāja; unto Nanda (the father of Kṛṣṇa).}}
 
 ==== nandam  ====
   * Mahārāja Nanda --- [[books:cc:madhya:19:96|Madhya 19.96]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhyasam",
-    "h1":"abhyasam",
-    "title":"abhyasam -- synonyms, prabhupada.io",
-    "description":"near the water tank."
-}
----
+~~Title:abhyasam~~
+{{description>near the water tank.}}
 
 ==== jala-āśaya-abhyāśam  ====
   * near the water tank --- [[books:sb:10:11:46|SB 10.11.46]]

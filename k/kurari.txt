@@ -1,11 +1,5 @@
----json
-{
-    "name":"kurari",
-    "h1":"kurari",
-    "title":"kurari -- synonyms, prabhupada.io",
-    "description":"O female osprey."
-}
----
+~~Title:kurari~~
+{{description>O female osprey.}}
 
 ==== kurari  ====
   * O female osprey --- [[books:cc:madhya:23:65|Madhya 23.65]]

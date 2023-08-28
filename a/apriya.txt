@@ -1,11 +1,5 @@
----json
-{
-    "name":"apriya",
-    "h1":"apriya",
-    "title":"apriya -- synonyms, prabhupada.io",
-    "description":"not pleasing."
-}
----
+~~Title:apriya~~
+{{description>not pleasing.}}
 
 ==== apriya  ====
   * not pleasing --- [[books:sb:7:9:17|SB 7.9.17]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"parite",
-    "h1":"parite",
-    "title":"parite -- synonyms, prabhupada.io",
-    "description":"is not fit to put on."
-}
----
+~~Title:parite~~
+{{description>is not fit to put on.}}
 
 ==== parite nā yuyāya  ====
   * is not fit to put on --- [[books:cc:antya:13:61|Antya 13.61]]

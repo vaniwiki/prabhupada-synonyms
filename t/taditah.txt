@@ -1,11 +1,5 @@
----json
-{
-    "name":"taditah",
-    "h1":"taditah",
-    "title":"taditah -- synonyms, prabhupada.io",
-    "description":"the lightning."
-}
----
+~~Title:taditah~~
+{{description>the lightning.}}
 
 ==== taḍitaḥ  ====
   * the lightning --- [[books:sb:2:6:13-16|SB 2.6.13-16]]

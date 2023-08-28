@@ -1,11 +1,5 @@
----json
-{
-    "name":"majjati",
-    "h1":"majjati",
-    "title":"majjati -- synonyms, prabhupada.io",
-    "description":"sinks."
-}
----
+~~Title:majjati~~
+{{description>sinks.}}
 
 ==== majjati  ====
   * sinks --- [[books:sb:3:29:42|SB 3.29.42]]

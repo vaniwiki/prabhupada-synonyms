@@ -1,11 +1,5 @@
----json
-{
-    "name":"rudram",
-    "h1":"rudram",
-    "title":"rudram -- synonyms, prabhupada.io",
-    "description":"Lord Śiva."
-}
----
+~~Title:rudram~~
+{{description>Lord Śiva.}}
 
 ==== rudram  ====
   * Lord Śiva --- [[books:sb:4:7:56|SB 4.7.56]]

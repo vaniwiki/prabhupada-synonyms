@@ -1,11 +1,5 @@
----json
-{
-    "name":"gacchati",
-    "h1":"gacchati",
-    "title":"gacchati -- synonyms, prabhupada.io",
-    "description":"achieves; goes; going."
-}
----
+~~Title:gacchati~~
+{{description>achieves; goes; going.}}
 
 ==== gacchati  ====
   * achieves --- [[books:bg:6:37|Bg. 6.37]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasthitim",
-    "h1":"avasthitim",
-    "title":"avasthitim -- synonyms, prabhupada.io",
-    "description":"all stages."
-}
----
+~~Title:avasthitim~~
+{{description>all stages.}}
 
 ==== avasthitim  ====
   * all stages --- [[books:sb:4:9:15|SB 4.9.15]]

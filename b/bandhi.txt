@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandhi",
-    "h1":"bandhi",
-    "title":"bandhi -- synonyms, prabhupada.io",
-    "description":"binding together."
-}
----
+~~Title:bandhi~~
+{{description>binding together.}}
 
 ==== bāndhi  ====
   * binding together --- [[books:cc:antya:13:134|Antya 13.134]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"khana",
-    "h1":"khana",
-    "title":"khana -- synonyms, prabhupada.io",
-    "description":"eat."
-}
----
+~~Title:khana~~
+{{description>eat.}}
 
 ==== khāna  ====
   * eat --- [[books:cc:antya:8:40|Antya 8.40]]

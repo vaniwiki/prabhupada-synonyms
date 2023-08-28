@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyasta",
-    "h1":"vyasta",
-    "title":"vyasta -- synonyms, prabhupada.io",
-    "description":"on the parts."
-}
----
+~~Title:vyasta~~
+{{description>on the parts.}}
 
 ==== vyasta  ====
   * on the parts --- [[books:sb:3:33:23|SB 3.33.23]]

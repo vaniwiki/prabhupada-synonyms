@@ -1,11 +1,5 @@
----json
-{
-    "name":"ganam",
-    "h1":"ganam",
-    "title":"ganam -- synonyms, prabhupada.io",
-    "description":"aggregate; all of them; all the living entities, including the demigods."
-}
----
+~~Title:ganam~~
+{{description>aggregate; all of them; all the living entities, including the demigods.}}
 
 ==== gaṇam  ====
   * aggregate --- [[books:sb:3:26:11|SB 3.26.11]]

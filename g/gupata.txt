@@ -1,11 +1,5 @@
----json
-{
-    "name":"gupata",
-    "h1":"gupata",
-    "title":"gupata -- synonyms, prabhupada.io",
-    "description":"very confidentially."
-}
----
+~~Title:gupata~~
+{{description>very confidentially.}}
 
 ==== gupata kariyā  ====
   * very confidentially --- [[books:cc:adi:10:26|Ādi 10.26]]

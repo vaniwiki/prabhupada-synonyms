@@ -1,11 +1,5 @@
----json
-{
-    "name":"nigadena",
-    "h1":"nigadena",
-    "title":"nigadena -- synonyms, prabhupada.io",
-    "description":"by prayers in prose."
-}
----
+~~Title:nigadena~~
+{{description>by prayers in prose.}}
 
 ==== nigadena  ====
   * by prayers in prose --- [[books:sb:5:3:16|SB 5.3.16]]

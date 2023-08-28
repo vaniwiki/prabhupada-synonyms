@@ -1,11 +1,5 @@
----json
-{
-    "name":"rolambam",
-    "h1":"rolambam",
-    "title":"rolambam -- synonyms, prabhupada.io",
-    "description":"like bumblebees."
-}
----
+~~Title:rolambam~~
+{{description>like bumblebees.}}
 
 ==== rolambam  ====
   * like bumblebees --- [[books:cc:antya:20:156|Antya 20.156]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samabhyetya",
-    "h1":"samabhyetya",
-    "title":"samabhyetya -- synonyms, prabhupada.io",
-    "description":"coming near."
-}
----
+~~Title:samabhyetya~~
+{{description>coming near.}}
 
 ==== samabhyetya  ====
   * coming near --- [[books:sb:10:6:18|SB 10.6.18]]

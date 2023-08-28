@@ -1,11 +1,5 @@
----json
-{
-    "name":"pulinam",
-    "h1":"pulinam",
-    "title":"pulinam -- synonyms, prabhupada.io",
-    "description":"the bank of the river."
-}
----
+~~Title:pulinam~~
+{{description>the bank of the river.}}
 
 ==== pulinam  ====
   * the bank of the river --- [[books:sb:10:13:5|SB 10.13.5]]

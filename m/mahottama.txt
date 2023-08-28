@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahottama",
-    "h1":"mahottama",
-    "title":"mahottama -- synonyms, prabhupada.io",
-    "description":"very great."
-}
----
+~~Title:mahottama~~
+{{description>very great.}}
 
 ==== mahottama  ====
   * very great --- [[books:cc:adi:12:79|Ādi 12.79]]

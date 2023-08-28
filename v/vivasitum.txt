@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivasitum",
-    "h1":"vivasitum",
-    "title":"vivasitum -- synonyms, prabhupada.io",
-    "description":"to get out."
-}
----
+~~Title:vivasitum~~
+{{description>to get out.}}
 
 ==== vivasitum  ====
   * to get out --- [[books:sb:3:31:17|SB 3.31.17]]

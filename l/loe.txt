@@ -1,11 +1,5 @@
----json
-{
-    "name":"loe",
-    "h1":"loe",
-    "title":"loe -- synonyms, prabhupada.io",
-    "description":"in this world."
-}
----
+~~Title:loe~~
+{{description>in this world.}}
 
 ==== loe  ====
   * in this world --- [[books:cc:madhya:2:42|Madhya 2.42]]

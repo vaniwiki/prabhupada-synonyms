@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidhanam",
-    "h1":"vidhanam",
-    "title":"vidhanam -- synonyms, prabhupada.io",
-    "description":"of persons like us."
-}
----
+~~Title:vidhanam~~
+{{description>of persons like us.}}
 
 ==== asmat-vidhānām  ====
   * of persons like us --- [[books:sb:6:17:11|SB 6.17.11]]

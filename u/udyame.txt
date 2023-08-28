@@ -1,11 +1,5 @@
----json
-{
-    "name":"udyame",
-    "h1":"udyame",
-    "title":"udyame -- synonyms, prabhupada.io",
-    "description":"in the matter of philanthropic work."
-}
----
+~~Title:udyame~~
+{{description>in the matter of philanthropic work.}}
 
 ==== para-udyame  ====
   * in the matter of philanthropic work --- [[books:sb:4:22:62|SB 4.22.62]]

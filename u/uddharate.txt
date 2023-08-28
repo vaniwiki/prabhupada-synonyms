@@ -1,11 +1,5 @@
----json
-{
-    "name":"uddharate",
-    "h1":"uddharate",
-    "title":"uddharate -- synonyms, prabhupada.io",
-    "description":"delivers."
-}
----
+~~Title:uddharate~~
+{{description>delivers.}}
 
 ==== uddharate  ====
   * delivers --- [[books:sb:4:26:16|SB 4.26.16]]

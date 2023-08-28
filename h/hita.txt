@@ -1,11 +1,5 @@
----json
-{
-    "name":"hita",
-    "h1":"hita",
-    "title":"hita -- synonyms, prabhupada.io",
-    "description":"beneficial; benefit; my welfare; the benefit; welfare."
-}
----
+~~Title:hita~~
+{{description>beneficial; benefit; my welfare; the benefit; welfare.}}
 
 ==== hita  ====
   * beneficial --- [[books:cc:adi:17:55-56|Ādi 17.55-56]]

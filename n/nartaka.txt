@@ -1,11 +1,5 @@
----json
-{
-    "name":"nartaka",
-    "h1":"nartaka",
-    "title":"nartaka -- synonyms, prabhupada.io",
-    "description":"a dancer; dancers."
-}
----
+~~Title:nartaka~~
+{{description>a dancer; dancers.}}
 
 ==== nartaka  ====
   * a dancer --- [[books:cc:madhya:7:18|Madhya 7.18]]

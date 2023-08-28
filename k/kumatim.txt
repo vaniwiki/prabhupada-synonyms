@@ -1,11 +1,5 @@
----json
-{
-    "name":"kumatim",
-    "h1":"kumatim",
-    "title":"kumatim -- synonyms, prabhupada.io",
-    "description":"poor fund of knowledge."
-}
----
+~~Title:kumatim~~
+{{description>poor fund of knowledge.}}
 
 ==== kumatim  ====
   * poor fund of knowledge --- [[books:sb:1:9:36|SB 1.9.36]]

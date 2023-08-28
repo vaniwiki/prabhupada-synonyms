@@ -1,11 +1,5 @@
----json
-{
-    "name":"vesara",
-    "h1":"vesara",
-    "title":"vesara -- synonyms, prabhupada.io",
-    "description":"a preparation made from chick-pea flour."
-}
----
+~~Title:vesara~~
+{{description>a preparation made from chick-pea flour.}}
 
 ==== vesara  ====
   * a preparation made from chick-pea flour --- [[books:cc:madhya:15:211|Madhya 15.211]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"khābe",
-    "h1":"khābe",
-    "title":"khābe -- synonyms, prabhupada.io",
-    "description":"You will eat the food."
-}
----
+~~Title:khābe~~
+{{description>You will eat the food.}}
 
 ==== anna khābe  ====
   * You will eat the food --- [[books:cc:madhya:15:235|Madhya 15.235]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vāditram",
-    "h1":"vāditram",
-    "title":"vāditram -- synonyms, prabhupada.io",
-    "description":"the art of playing musical instruments."
-}
----
+~~Title:vāditram~~
+{{description>the art of playing musical instruments.}}
 
 ==== vāditram  ====
   * the art of playing musical instruments --- [[books:sb:4:15:19|SB 4.15.19]]

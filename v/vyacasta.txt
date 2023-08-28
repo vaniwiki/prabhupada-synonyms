@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyacasta",
-    "h1":"vyacasta",
-    "title":"vyacasta -- synonyms, prabhupada.io",
-    "description":"saw; try."
-}
----
+~~Title:vyacasta~~
+{{description>saw; try.}}
 
 ==== vyacaṣṭa  ====
   * saw --- [[books:sb:5:2:5|SB 5.2.5]]

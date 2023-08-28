@@ -1,11 +1,5 @@
----json
-{
-    "name":"vartana",
-    "h1":"vartana",
-    "title":"vartana -- synonyms, prabhupada.io",
-    "description":"pension; remuneration."
-}
----
+~~Title:vartana~~
+{{description>pension; remuneration.}}
 
 ==== vartana  ====
   * pension --- [[books:cc:madhya:11:22|Madhya 11.22]]

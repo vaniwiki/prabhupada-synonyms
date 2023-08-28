@@ -1,11 +1,5 @@
----json
-{
-    "name":"jalada",
-    "h1":"jalada",
-    "title":"jalada -- synonyms, prabhupada.io",
-    "description":"the cloud."
-}
----
+~~Title:jalada~~
+{{description>the cloud.}}
 
 ==== jalada  ====
   * the cloud --- [[books:cc:antya:17:40|Antya 17.40]]

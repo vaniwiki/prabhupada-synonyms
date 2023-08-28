@@ -1,11 +1,5 @@
----json
-{
-    "name":"ketum",
-    "h1":"ketum",
-    "title":"ketum -- synonyms, prabhupada.io",
-    "description":"Dhūmraketu."
-}
----
+~~Title:ketum~~
+{{description>Dhūmraketu.}}
 
 ==== dhūmra-ketum  ====
   * Dhūmraketu --- [[books:sb:5:7:2|SB 5.7.2]]

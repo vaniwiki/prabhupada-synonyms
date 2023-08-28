@@ -1,11 +1,5 @@
----json
-{
-    "name":"manusah",
-    "h1":"manusah",
-    "title":"manusah -- synonyms, prabhupada.io",
-    "description":"human; human being."
-}
----
+~~Title:manusah~~
+{{description>human; human being.}}
 
 ==== mānuṣaḥ  ====
   * human --- [[books:sb:9:9:28|SB 9.9.28]]

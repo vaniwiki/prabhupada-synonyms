@@ -1,11 +1,5 @@
----json
-{
-    "name":"anguli",
-    "h1":"anguli",
-    "title":"anguli -- synonyms, prabhupada.io",
-    "description":"figures; on the fingers, beginning with the index finger."
-}
----
+~~Title:anguli~~
+{{description>figures; on the fingers, beginning with the index finger.}}
 
 ==== aṅguli  ====
   * figures --- [[books:sb:3:8:26|SB 3.8.26]]

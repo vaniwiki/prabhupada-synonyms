@@ -1,11 +1,5 @@
----json
-{
-    "name":"visesanam",
-    "h1":"visesanam",
-    "title":"visesanam -- synonyms, prabhupada.io",
-    "description":"distinctions."
-}
----
+~~Title:visesanam~~
+{{description>distinctions.}}
 
 ==== viśeṣaṇam  ====
   * distinctions --- [[books:sb:3:33:24-25|SB 3.33.24-25]]

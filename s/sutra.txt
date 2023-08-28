@@ -1,11 +1,5 @@
----json
-{
-    "name":"sūtra",
-    "h1":"sūtra",
-    "title":"sūtra -- synonyms, prabhupada.io",
-    "description":"aphorisms; codes; in summary; notes; of a synopsis; sacred thread; synopsis; the Vedānta-sūtra; the codes."
-}
----
+~~Title:sūtra~~
+{{description>aphorisms; codes; in summary; notes; of a synopsis; sacred thread; synopsis; the Vedānta-sūtra; the codes.}}
 
 ==== sūtra  ====
   * aphorisms --- [[books:cc:adi:13:29|Ādi 13.29]], [[books:cc:adi:13:45|Ādi 13.45]]

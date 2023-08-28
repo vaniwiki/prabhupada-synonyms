@@ -1,11 +1,5 @@
----json
-{
-    "name":"vindhya",
-    "h1":"vindhya",
-    "title":"vindhya -- synonyms, prabhupada.io",
-    "description":"Vindhya."
-}
----
+~~Title:vindhya~~
+{{description>Vindhya.}}
 
 ==== vindhya  ====
   * Vindhya --- [[books:sb:8:5:2|SB 8.5.2]]

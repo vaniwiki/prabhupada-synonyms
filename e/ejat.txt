@@ -1,11 +1,5 @@
----json
-{
-    "name":"ejat",
-    "h1":"ejat",
-    "title":"ejat -- synonyms, prabhupada.io",
-    "description":"moving."
-}
----
+~~Title:ejat~~
+{{description>moving.}}
 
 ==== ejat  ====
   * moving --- [[books:sb:7:3:32|SB 7.3.32]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samvita",
-    "h1":"samvita",
-    "title":"samvita -- synonyms, prabhupada.io",
-    "description":"knowledge (consciousness)."
-}
----
+~~Title:samvita~~
+{{description>knowledge (consciousness).}}
 
 ==== saṁvita  ====
   * knowledge (consciousness) --- [[books:cc:adi:12:22|Ādi 12.22]]

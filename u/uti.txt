@@ -1,11 +1,5 @@
----json
-{
-    "name":"uti",
-    "h1":"uti",
-    "title":"uti -- synonyms, prabhupada.io",
-    "description":"there."
-}
----
+~~Title:uti~~
+{{description>there.}}
 
 ==== uti  ====
   * there --- [[books:cc:adi:7:88|Ādi 7.88]]

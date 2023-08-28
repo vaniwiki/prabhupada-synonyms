@@ -1,11 +1,5 @@
----json
-{
-    "name":"niravadya",
-    "h1":"niravadya",
-    "title":"niravadya -- synonyms, prabhupada.io",
-    "description":"without duplicity."
-}
----
+~~Title:niravadya~~
+{{description>without duplicity.}}
 
 ==== niravadya  ====
   * without duplicity --- [[books:cc:madhya:8:93|Madhya 8.93]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"lingah",
-    "h1":"lingah",
-    "title":"lingah -- synonyms, prabhupada.io",
-    "description":"symptoms."
-}
----
+~~Title:lingah~~
+{{description>symptoms.}}
 
 ==== liṅgaḥ  ====
   * symptoms --- [[books:sb:1:19:25|SB 1.19.25]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhāskara",
-    "h1":"bhāskara",
-    "title":"bhāskara -- synonyms, prabhupada.io",
-    "description":"sun."
-}
----
+~~Title:bhāskara~~
+{{description>sun.}}
 
 ==== bhāskara  ====
   * sun --- [[books:cc:adi:4:171|Ādi 4.171]]

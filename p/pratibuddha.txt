@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratibuddha",
-    "h1":"pratibuddha",
-    "title":"pratibuddha -- synonyms, prabhupada.io",
-    "description":"awake."
-}
----
+~~Title:pratibuddha~~
+{{description>awake.}}
 
 ==== pratibuddha  ====
   * awake --- [[books:sb:3:28:38|SB 3.28.38]]

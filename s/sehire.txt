@@ -1,11 +1,5 @@
----json
-{
-    "name":"sehire",
-    "h1":"sehire",
-    "title":"sehire -- synonyms, prabhupada.io",
-    "description":"tolerate."
-}
----
+~~Title:sehire~~
+{{description>tolerate.}}
 
 ==== sehire  ====
   * tolerate --- [[books:sb:1:10:9-10|SB 1.10.9-10]]

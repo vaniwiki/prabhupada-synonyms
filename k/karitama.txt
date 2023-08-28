@@ -1,11 +1,5 @@
----json
-{
-    "name":"karitāma",
-    "h1":"karitāma",
-    "title":"karitāma -- synonyms, prabhupada.io",
-    "description":"I would not do."
-}
----
+~~Title:karitāma~~
+{{description>I would not do.}}
 
 ==== nā karitāma  ====
   * I would not do --- [[books:cc:antya:4:196|Antya 4.196]]

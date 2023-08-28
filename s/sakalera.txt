@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakalera",
-    "h1":"sakalera",
-    "title":"sakalera -- synonyms, prabhupada.io",
-    "description":"of all the yavanas."
-}
----
+~~Title:sakalera~~
+{{description>of all the yavanas.}}
 
 ==== yavana-sakalera  ====
   * of all the //yavanas// --- [[books:cc:antya:3:53|Antya 3.53]]

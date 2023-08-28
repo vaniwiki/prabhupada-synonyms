@@ -1,11 +1,5 @@
----json
-{
-    "name":"arbudam",
-    "h1":"arbudam",
-    "title":"arbudam -- synonyms, prabhupada.io",
-    "description":"ten million."
-}
----
+~~Title:arbudam~~
+{{description>ten million.}}
 
 ==== arbudam  ====
   * ten million --- [[books:sb:4:28:31|SB 4.28.31]]

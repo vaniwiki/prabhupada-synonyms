@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhimulam",
-    "h1":"adhimulam",
-    "title":"adhimulam -- synonyms, prabhupada.io",
-    "description":"the root cause."
-}
----
+~~Title:adhimulam~~
+{{description>the root cause.}}
 
 ==== adhimūlam  ====
   * the root cause --- [[books:sb:5:18:14|SB 5.18.14]]

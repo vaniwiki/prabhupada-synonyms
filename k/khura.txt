@@ -1,11 +1,5 @@
----json
-{
-    "name":"khura",
-    "h1":"khura",
-    "title":"khura -- synonyms, prabhupada.io",
-    "description":"of the hooves."
-}
----
+~~Title:khura~~
+{{description>of the hooves.}}
 
 ==== khura  ====
   * of the hooves --- [[books:sb:5:8:23|SB 5.8.23]]

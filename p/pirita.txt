@@ -1,11 +1,5 @@
----json
-{
-    "name":"pirīta",
-    "h1":"pirīta",
-    "title":"pirīta -- synonyms, prabhupada.io",
-    "description":"pleasing words."
-}
----
+~~Title:pirīta~~
+{{description>pleasing words.}}
 
 ==== pirīta  ====
   * pleasing words --- [[books:cc:madhya:3:84|Madhya 3.84]]

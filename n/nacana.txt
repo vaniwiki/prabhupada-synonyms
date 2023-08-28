@@ -1,11 +1,5 @@
----json
-{
-    "name":"nacana",
-    "h1":"nacana",
-    "title":"nacana -- synonyms, prabhupada.io",
-    "description":"dancing."
-}
----
+~~Title:nacana~~
+{{description>dancing.}}
 
 ==== nācana  ====
   * dancing --- [[books:cc:adi:7:41|Ādi 7.41]], [[books:cc:antya:19:81|Antya 19.81]]

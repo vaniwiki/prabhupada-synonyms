@@ -1,11 +1,5 @@
----json
-{
-    "name":"siñca",
-    "h1":"siñca",
-    "title":"siñca -- synonyms, prabhupada.io",
-    "description":"just sprinkle water."
-}
----
+~~Title:siñca~~
+{{description>just sprinkle water.}}
 
 ==== siñca  ====
   * just sprinkle water --- [[books:cc:antya:4:64|Antya 4.64]]

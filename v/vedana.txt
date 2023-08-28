@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedana",
-    "h1":"vedana",
-    "title":"vedana -- synonyms, prabhupada.io",
-    "description":"pain."
-}
----
+~~Title:vedana~~
+{{description>pain.}}
 
 ==== vedanā  ====
   * pain --- [[books:cc:adi:17:46|Ādi 17.46]]

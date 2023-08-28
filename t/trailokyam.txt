@@ -1,11 +1,5 @@
----json
-{
-    "name":"trailokyam",
-    "h1":"trailokyam",
-    "title":"trailokyam -- synonyms, prabhupada.io",
-    "description":"the three lokas."
-}
----
+~~Title:trailokyam~~
+{{description>the three lokas.}}
 
 ==== trailokyam  ====
   * the three //lokas// --- [[books:sb:8:24:32|SB 8.24.32]]

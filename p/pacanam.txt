@@ -1,11 +1,5 @@
----json
-{
-    "name":"pacanam",
-    "h1":"pacanam",
-    "title":"pacanam -- synonyms, prabhupada.io",
-    "description":"cooking, digesting."
-}
----
+~~Title:pacanam~~
+{{description>cooking, digesting.}}
 
 ==== pacanam  ====
   * cooking, digesting --- [[books:sb:3:26:40|SB 3.26.40]]

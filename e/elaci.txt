@@ -1,11 +1,5 @@
----json
-{
-    "name":"elaci",
-    "h1":"elaci",
-    "title":"elaci -- synonyms, prabhupada.io",
-    "description":"cardamom."
-}
----
+~~Title:elaci~~
+{{description>cardamom.}}
 
 ==== elāci  ====
   * cardamom --- [[books:cc:madhya:14:178|Madhya 14.178]], [[books:cc:madhya:15:254|Madhya 15.254]], [[books:cc:antya:10:29-30|Antya 10.29-30]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"asvargyam",
-    "h1":"asvargyam",
-    "title":"asvargyam -- synonyms, prabhupada.io",
-    "description":"that which does not lead to higher planets."
-}
----
+~~Title:asvargyam~~
+{{description>that which does not lead to higher planets.}}
 
 ==== asvargyam  ====
   * that which does not lead to higher planets --- [[books:bg:2:2|Bg. 2.2]]

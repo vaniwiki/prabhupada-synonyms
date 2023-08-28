@@ -1,11 +1,5 @@
----json
-{
-    "name":"aramata",
-    "h1":"aramata",
-    "title":"aramata -- synonyms, prabhupada.io",
-    "description":"enjoyed."
-}
----
+~~Title:aramata~~
+{{description>enjoyed.}}
 
 ==== aramata  ====
   * enjoyed --- [[books:sb:5:1:1|SB 5.1.1]]

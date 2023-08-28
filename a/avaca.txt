@@ -1,11 +1,5 @@
----json
-{
-    "name":"avaca",
-    "h1":"avaca",
-    "title":"avaca -- synonyms, prabhupada.io",
-    "description":"low."
-}
----
+~~Title:avaca~~
+{{description>low.}}
 
 ==== avaca  ====
   * low --- [[books:sb:4:29:30-31|SB 4.29.30-31]]

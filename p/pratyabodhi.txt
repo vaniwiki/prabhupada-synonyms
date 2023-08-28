@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratyabodhi",
-    "h1":"pratyabodhi",
-    "title":"pratyabodhi -- synonyms, prabhupada.io",
-    "description":"it has been illuminated."
-}
----
+~~Title:pratyabodhi~~
+{{description>it has been illuminated.}}
 
 ==== pratyabodhi  ====
   * it has been illuminated --- [[books:sb:7:8:42|SB 7.8.42]]

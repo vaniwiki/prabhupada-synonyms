@@ -1,11 +1,5 @@
----json
-{
-    "name":"tuni",
-    "h1":"tuni",
-    "title":"tuni -- synonyms, prabhupada.io",
-    "description":"you."
-}
----
+~~Title:tuni~~
+{{description>you.}}
 
 ==== tuñi  ====
   * you --- [[books:cc:antya:1:84|Antya 1.84]], [[books:cc:antya:3:201|Antya 3.201]], [[books:cc:antya:3:202|Antya 3.202]]

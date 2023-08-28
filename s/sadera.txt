@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadera",
-    "h1":"sadera",
-    "title":"sadera -- synonyms, prabhupada.io",
-    "description":"of all the members of the assembly."
-}
----
+~~Title:sadera~~
+{{description>of all the members of the assembly.}}
 
 ==== sabhā-sadera  ====
   * of all the members of the assembly --- [[books:cc:antya:5:128|Antya 5.128]]

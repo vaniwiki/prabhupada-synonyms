@@ -1,11 +1,5 @@
----json
-{
-    "name":"bodhyamānaḥ",
-    "h1":"bodhyamānaḥ",
-    "title":"bodhyamānaḥ -- synonyms, prabhupada.io",
-    "description":"even being pacified."
-}
----
+~~Title:bodhyamānaḥ~~
+{{description>even being pacified.}}
 
 ==== bodhyamānaḥ api  ====
   * even being pacified --- [[books:sb:10:1:46|SB 10.1.46]]

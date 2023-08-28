@@ -1,11 +1,5 @@
----json
-{
-    "name":"rathya",
-    "h1":"rathya",
-    "title":"rathya -- synonyms, prabhupada.io",
-    "description":"and public roads; lanes and subways."
-}
----
+~~Title:rathya~~
+{{description>and public roads; lanes and subways.}}
 
 ==== rathya  ====
   * and public roads --- [[books:sb:8:15:16|SB 8.15.16]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"seiphena",
-    "h1":"seiphena",
-    "title":"seiphena -- synonyms, prabhupada.io",
-    "description":"that foam."
-}
----
+~~Title:seiphena~~
+{{description>that foam.}}
 
 ==== seiphena  ====
   * that foam --- [[books:cc:madhya:13:110|Madhya 13.110]]

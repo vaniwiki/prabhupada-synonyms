@@ -1,11 +1,5 @@
----json
-{
-    "name":"yojane",
-    "h1":"yojane",
-    "title":"yojane -- synonyms, prabhupada.io",
-    "description":"measuring 100,000 yojanas (800,000 miles)."
-}
----
+~~Title:yojane~~
+{{description>measuring 100,000 yojanas (800,000 miles).}}
 
 ==== śata-sahasra-yojane  ====
   * measuring 100,000 //yojanas// (800,000 miles) --- [[books:sb:5:26:18|SB 5.26.18]]

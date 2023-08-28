@@ -1,11 +1,5 @@
----json
-{
-    "name":"gaṇita",
-    "h1":"gaṇita",
-    "title":"gaṇita -- synonyms, prabhupada.io",
-    "description":"an expert in palmistry."
-}
----
+~~Title:gaṇita~~
+{{description>an expert in palmistry.}}
 
 ==== hāta-gaṇita  ====
   * an expert in palmistry --- [[books:cc:madhya:20:18|Madhya 20.18]]

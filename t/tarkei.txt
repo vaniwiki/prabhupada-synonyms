@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarkei",
-    "h1":"tarkei",
-    "title":"tarkei -- synonyms, prabhupada.io",
-    "description":"by argument."
-}
----
+~~Title:tarkei~~
+{{description>by argument.}}
 
 ==== tarkei  ====
   * by argument --- [[books:cc:madhya:9:49|Madhya 9.49]]

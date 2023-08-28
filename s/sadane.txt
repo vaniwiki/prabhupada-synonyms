@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadane",
-    "h1":"sadane",
-    "title":"sadane -- synonyms, prabhupada.io",
-    "description":"in the house of."
-}
----
+~~Title:sadane~~
+{{description>in the house of.}}
 
 ==== sadane  ====
   * in the house of --- [[books:cc:adi:14:39|Ādi 14.39]]

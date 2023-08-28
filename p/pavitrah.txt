@@ -1,11 +1,5 @@
----json
-{
-    "name":"pavitrah",
-    "h1":"pavitrah",
-    "title":"pavitrah -- synonyms, prabhupada.io",
-    "description":"the Pavitras."
-}
----
+~~Title:pavitrah~~
+{{description>the Pavitras.}}
 
 ==== pavitrāḥ  ====
   * the Pavitras --- [[books:sb:8:13:34|SB 8.13.34]]

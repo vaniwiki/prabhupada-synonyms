@@ -1,11 +1,5 @@
----json
-{
-    "name":"chadi",
-    "h1":"chadi",
-    "title":"chadi -- synonyms, prabhupada.io",
-    "description":"leaves."
-}
----
+~~Title:chadi~~
+{{description>leaves.}}
 
 ==== chadi  ====
   * leaves --- [[books:sb:3:21:18|SB 3.21.18]]

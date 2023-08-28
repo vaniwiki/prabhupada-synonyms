@@ -1,11 +1,5 @@
----json
-{
-    "name":"mattau",
-    "h1":"mattau",
-    "title":"mattau -- synonyms, prabhupada.io",
-    "description":"very intoxicated because of drinking liquor."
-}
----
+~~Title:mattau~~
+{{description>very intoxicated because of drinking liquor.}}
 
 ==== madirā-mattau  ====
   * very intoxicated because of drinking liquor --- [[books:sb:10:10:7|SB 10.10.7]]

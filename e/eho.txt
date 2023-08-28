@@ -1,11 +1,5 @@
----json
-{
-    "name":"eho",
-    "h1":"eho",
-    "title":"eho -- synonyms, prabhupada.io",
-    "description":"such yogīs; this; this is also."
-}
----
+~~Title:eho~~
+{{description>such yogīs; this; this is also.}}
 
 ==== eho  ====
   * such //yogīs// --- [[books:cc:madhya:24:167|Madhya 24.167]]

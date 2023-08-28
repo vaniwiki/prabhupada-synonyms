@@ -1,11 +1,5 @@
----json
-{
-    "name":"rata",
-    "h1":"rata",
-    "title":"rata -- synonyms, prabhupada.io",
-    "description":"engaged."
-}
----
+~~Title:rata~~
+{{description>engaged.}}
 
 ==== rata  ====
   * engaged --- [[books:cc:adi:11:9|Ādi 11.9]]

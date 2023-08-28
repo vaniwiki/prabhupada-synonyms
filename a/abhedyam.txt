@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhedyam",
-    "h1":"abhedyam",
-    "title":"abhedyam -- synonyms, prabhupada.io",
-    "description":"invincible."
-}
----
+~~Title:abhedyam~~
+{{description>invincible.}}
 
 ==== abhedyam  ====
   * invincible --- [[books:sb:6:9:53|SB 6.9.53]]

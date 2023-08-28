@@ -1,11 +1,5 @@
----json
-{
-    "name":"grahanam",
-    "h1":"grahanam",
-    "title":"grahanam -- synonyms, prabhupada.io",
-    "description":"the acceptance."
-}
----
+~~Title:grahanam~~
+{{description>the acceptance.}}
 
 ==== grahaṇam  ====
   * the acceptance --- [[books:cc:antya:1:184|Antya 1.184]]

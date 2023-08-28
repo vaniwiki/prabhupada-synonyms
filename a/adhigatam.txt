@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhigatam",
-    "h1":"adhigatam",
-    "title":"adhigatam -- synonyms, prabhupada.io",
-    "description":"achieved; heard."
-}
----
+~~Title:adhigatam~~
+{{description>achieved; heard.}}
 
 ==== adhigatam  ====
   * achieved --- [[books:sb:8:20:8|SB 8.20.8]]

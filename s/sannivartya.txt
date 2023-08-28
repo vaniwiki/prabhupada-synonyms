@@ -1,11 +1,5 @@
----json
-{
-    "name":"sannivartya",
-    "h1":"sannivartya",
-    "title":"sannivartya -- synonyms, prabhupada.io",
-    "description":"politely persuaded."
-}
----
+~~Title:sannivartya~~
+{{description>politely persuaded.}}
 
 ==== sannivartya  ====
   * politely persuaded --- [[books:sb:1:10:33|SB 1.10.33]]

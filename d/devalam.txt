@@ -1,11 +1,5 @@
----json
-{
-    "name":"devalam",
-    "h1":"devalam",
-    "title":"devalam -- synonyms, prabhupada.io",
-    "description":"Devala."
-}
----
+~~Title:devalam~~
+{{description>Devala.}}
 
 ==== devalam  ====
   * Devala --- [[books:sb:6:6:20|SB 6.6.20]]

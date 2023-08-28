@@ -1,11 +1,5 @@
----json
-{
-    "name":"mādala",
-    "h1":"mādala",
-    "title":"mādala -- synonyms, prabhupada.io",
-    "description":"drums."
-}
----
+~~Title:mādala~~
+{{description>drums.}}
 
 ==== mādala  ====
   * drums --- [[books:cc:madhya:13:48|Madhya 13.48]]

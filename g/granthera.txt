@@ -1,11 +1,5 @@
----json
-{
-    "name":"granthera",
-    "h1":"granthera",
-    "title":"granthera -- synonyms, prabhupada.io",
-    "description":"a book; of Śrī Caitanya-caritāmṛta; of the book; of the scripture; of this book."
-}
----
+~~Title:granthera~~
+{{description>a book; of Śrī Caitanya-caritāmṛta; of the book; of the scripture; of this book.}}
 
 ==== granthera  ====
   * a book --- [[books:cc:adi:13:16|Ādi 13.16]]

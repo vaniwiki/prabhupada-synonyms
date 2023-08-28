@@ -1,11 +1,5 @@
----json
-{
-    "name":"jnanat",
-    "h1":"jnanat",
-    "title":"jnanat -- synonyms, prabhupada.io",
-    "description":"better than knowledge."
-}
----
+~~Title:jnanat~~
+{{description>better than knowledge.}}
 
 ==== jnānāt  ====
   * better than knowledge --- [[books:bg:12:12|Bg. 12.12]]

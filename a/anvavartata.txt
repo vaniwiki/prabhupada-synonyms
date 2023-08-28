@@ -1,11 +1,5 @@
----json
-{
-    "name":"anvavartata",
-    "h1":"anvavartata",
-    "title":"anvavartata -- synonyms, prabhupada.io",
-    "description":"he followed."
-}
----
+~~Title:anvavartata~~
+{{description>he followed.}}
 
 ==== anvavartata  ====
   * he followed --- [[books:sb:4:25:56|SB 4.25.56]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"avocam",
-    "h1":"avocam",
-    "title":"avocam -- synonyms, prabhupada.io",
-    "description":"I explained; I said."
-}
----
+~~Title:avocam~~
+{{description>I explained; I said.}}
 
 ==== avocam  ====
   * I explained --- [[books:sb:3:25:14|SB 3.25.14]]

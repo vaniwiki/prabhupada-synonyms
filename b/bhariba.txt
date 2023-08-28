@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhariba",
-    "h1":"bhariba",
-    "title":"bhariba -- synonyms, prabhupada.io",
-    "description":"I shall fill."
-}
----
+~~Title:bhariba~~
+{{description>I shall fill.}}
 
 ==== bhariba  ====
   * I shall fill --- [[books:cc:antya:9:20|Antya 9.20]]

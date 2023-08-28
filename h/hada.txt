@@ -1,11 +1,5 @@
----json
-{
-    "name":"hada",
-    "h1":"hada",
-    "title":"hada -- synonyms, prabhupada.io",
-    "description":"making a rattling noise."
-}
----
+~~Title:hada~~
+{{description>making a rattling noise.}}
 
 ==== haḍa haḍa kari'  ====
   * making a rattling noise --- [[books:cc:madhya:13:190|Madhya 13.190]]

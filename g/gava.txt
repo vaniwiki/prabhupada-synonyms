@@ -1,11 +1,5 @@
----json
-{
-    "name":"gava",
-    "h1":"gava",
-    "title":"gava -- synonyms, prabhupada.io",
-    "description":"a sacrifice of cows."
-}
----
+~~Title:gava~~
+{{description>a sacrifice of cows.}}
 
 ==== gava-ālambham  ====
   * a sacrifice of cows --- [[books:cc:adi:17:164|Ādi 17.164]]

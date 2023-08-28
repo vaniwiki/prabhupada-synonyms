@@ -1,11 +1,5 @@
----json
-{
-    "name":"yami",
-    "h1":"yami",
-    "title":"yami -- synonyms, prabhupada.io",
-    "description":"Yamī, a daughter."
-}
----
+~~Title:yami~~
+{{description>Yamī, a daughter.}}
 
 ==== yamī  ====
   * Yamī, a daughter --- [[books:sb:8:13:9|SB 8.13.9]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"stotra",
-    "h1":"stotra",
-    "title":"stotra -- synonyms, prabhupada.io",
-    "description":"prayers."
-}
----
+~~Title:stotra~~
+{{description>prayers.}}
 
 ==== stotra  ====
   * prayers --- [[books:sb:10:12:35|SB 10.12.35]]

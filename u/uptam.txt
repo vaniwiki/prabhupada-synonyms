@@ -1,11 +1,5 @@
----json
-{
-    "name":"uptam",
-    "h1":"uptam",
-    "title":"uptam -- synonyms, prabhupada.io",
-    "description":"sown."
-}
----
+~~Title:uptam~~
+{{description>sown.}}
 
 ==== uptam  ====
   * sown --- [[books:sb:1:15:21|SB 1.15.21]], [[books:sb:7:11:33-34|SB 7.11.33-34]]

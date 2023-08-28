@@ -1,11 +1,5 @@
----json
-{
-    "name":"sannata",
-    "h1":"sannata",
-    "title":"sannata -- synonyms, prabhupada.io",
-    "description":"always obedient."
-}
----
+~~Title:sannata~~
+{{description>always obedient.}}
 
 ==== sannata  ====
   * always obedient --- [[books:sb:7:4:31-32|SB 7.4.31-32]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sapatnam",
-    "h1":"sapatnam",
-    "title":"sapatnam -- synonyms, prabhupada.io",
-    "description":"enemy."
-}
----
+~~Title:sapatnam~~
+{{description>enemy.}}
 
 ==== sapatnam  ====
   * enemy --- [[books:sb:3:19:2|SB 3.19.2]]

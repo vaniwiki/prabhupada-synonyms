@@ -1,11 +1,5 @@
----json
-{
-    "name":"mate",
-    "h1":"mate",
-    "title":"mate -- synonyms, prabhupada.io",
-    "description":"decision; in the opinion; philosophical conclusions."
-}
----
+~~Title:mate~~
+{{description>decision; in the opinion; philosophical conclusions.}}
 
 ==== mate  ====
   * decision --- [[books:cc:madhya:16:257|Madhya 16.257]]

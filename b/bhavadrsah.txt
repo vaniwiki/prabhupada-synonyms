@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhavadrsah",
-    "h1":"bhavadrsah",
-    "title":"bhavadrsah -- synonyms, prabhupada.io",
-    "description":"like you."
-}
----
+~~Title:bhavadrsah~~
+{{description>like you.}}
 
 ==== bhavādṛśaḥ  ====
   * like you --- [[books:sb:4:4:12|SB 4.4.12]]

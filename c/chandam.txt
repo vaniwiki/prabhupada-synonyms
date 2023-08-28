@@ -1,11 +1,5 @@
----json
-{
-    "name":"chandam",
-    "h1":"chandam",
-    "title":"chandam -- synonyms, prabhupada.io",
-    "description":"the desire of another."
-}
----
+~~Title:chandam~~
+{{description>the desire of another.}}
 
 ==== para-chandam  ====
   * the desire of another --- [[books:sb:3:31:25|SB 3.31.25]]

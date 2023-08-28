@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravadanti",
-    "h1":"pravadanti",
-    "title":"pravadanti -- synonyms, prabhupada.io",
-    "description":"do talk; say; they call."
-}
----
+~~Title:pravadanti~~
+{{description>do talk; say; they call.}}
 
 ==== pravadanti  ====
   * do talk --- [[books:bg:5:4|Bg. 5.4]]

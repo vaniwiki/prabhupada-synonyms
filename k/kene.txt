@@ -1,11 +1,5 @@
----json
-{
-    "name":"kene",
-    "h1":"kene",
-    "title":"kene -- synonyms, prabhupada.io",
-    "description":"why is the child eating dirt?."
-}
----
+~~Title:kene~~
+{{description>why is the child eating dirt?.}}
 
 ==== 'māṭi kene khāya'  ====
   * why is the child eating dirt? --- [[books:cc:adi:14:26|Ādi 14.26]]

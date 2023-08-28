@@ -1,11 +1,5 @@
----json
-{
-    "name":"akarah",
-    "h1":"akarah",
-    "title":"akarah -- synonyms, prabhupada.io",
-    "description":"the first."
-}
----
+~~Title:akarah~~
+{{description>the first.}}
 
 ==== akāraḥ  ====
   * the first --- [[books:bg:10:33|Bg. 10.33]]

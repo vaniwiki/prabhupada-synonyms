@@ -1,11 +1,5 @@
----json
-{
-    "name":"unmakarau",
-    "h1":"unmakarau",
-    "title":"unmakarau -- synonyms, prabhupada.io",
-    "description":"two brilliant sharks."
-}
----
+~~Title:unmakarau~~
+{{description>two brilliant sharks.}}
 
 ==== unmakarau  ====
   * two brilliant sharks --- [[books:sb:5:2:13|SB 5.2.13]]

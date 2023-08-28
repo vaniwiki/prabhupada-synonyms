@@ -1,11 +1,5 @@
----json
-{
-    "name":"girau",
-    "h1":"girau",
-    "title":"girau -- synonyms, prabhupada.io",
-    "description":"Mandara Mountain."
-}
----
+~~Title:girau~~
+{{description>Mandara Mountain.}}
 
 ==== girau  ====
   * Mandara Mountain --- [[books:sb:8:7:1|SB 8.7.1]]

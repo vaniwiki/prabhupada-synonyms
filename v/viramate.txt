@@ -1,11 +1,5 @@
----json
-{
-    "name":"viramate",
-    "h1":"viramate",
-    "title":"viramate -- synonyms, prabhupada.io",
-    "description":"stops."
-}
----
+~~Title:viramate~~
+{{description>stops.}}
 
 ==== viramate  ====
   * stops --- [[books:sb:3:15:18|SB 3.15.18]]

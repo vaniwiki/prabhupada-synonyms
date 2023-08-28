@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayinam",
-    "h1":"ayinam",
-    "title":"ayinam -- synonyms, prabhupada.io",
-    "description":"traveling."
-}
----
+~~Title:ayinam~~
+{{description>traveling.}}
 
 ==== ayinam  ====
   * traveling --- [[books:sb:3:25:39-40|SB 3.25.39-40]]

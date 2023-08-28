@@ -1,11 +1,5 @@
----json
-{
-    "name":"dugham",
-    "h1":"dugham",
-    "title":"dugham -- synonyms, prabhupada.io",
-    "description":"yielding."
-}
----
+~~Title:dugham~~
+{{description>yielding.}}
 
 ==== dugham  ====
   * yielding --- [[books:sb:3:23:13|SB 3.23.13]]

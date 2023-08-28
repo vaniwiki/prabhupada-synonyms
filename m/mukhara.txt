@@ -1,11 +1,5 @@
----json
-{
-    "name":"mukhara",
-    "h1":"mukhara",
-    "title":"mukhara -- synonyms, prabhupada.io",
-    "description":"talkative."
-}
----
+~~Title:mukhara~~
+{{description>talkative.}}
 
 ==== mukhara  ====
   * talkative --- [[books:cc:antya:3:14|Antya 3.14]]

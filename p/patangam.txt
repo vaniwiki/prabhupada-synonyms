@@ -1,11 +1,5 @@
----json
-{
-    "name":"pataṅgam",
-    "h1":"pataṅgam",
-    "title":"pataṅgam -- synonyms, prabhupada.io",
-    "description":"the ball."
-}
----
+~~Title:pataṅgam~~
+{{description>the ball.}}
 
 ==== pataṅgam  ====
   * the ball --- [[books:sb:3:20:36|SB 3.20.36]]

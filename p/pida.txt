@@ -1,11 +1,5 @@
----json
-{
-    "name":"pida",
-    "h1":"pida",
-    "title":"pida -- synonyms, prabhupada.io",
-    "description":"agony."
-}
----
+~~Title:pida~~
+{{description>agony.}}
 
 ==== pīḍā  ====
   * agony --- [[books:cc:antya:18:115|Antya 18.115]]

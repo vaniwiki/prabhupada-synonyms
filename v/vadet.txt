@@ -1,11 +1,5 @@
----json
-{
-    "name":"vadet",
-    "h1":"vadet",
-    "title":"vadet -- synonyms, prabhupada.io",
-    "description":"may kindly enlighten; must speak."
-}
----
+~~Title:vadet~~
+{{description>may kindly enlighten; must speak.}}
 
 ==== vadet  ====
   * may kindly enlighten --- [[books:sb:3:5:2|SB 3.5.2]]

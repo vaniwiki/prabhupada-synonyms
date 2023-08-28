@@ -1,11 +1,5 @@
----json
-{
-    "name":"samamnatam",
-    "h1":"samamnatam",
-    "title":"samamnatam -- synonyms, prabhupada.io",
-    "description":"described; is perfectly described."
-}
----
+~~Title:samamnatam~~
+{{description>described; is perfectly described.}}
 
 ==== samāmnātam  ====
   * described --- [[books:sb:7:12:11|SB 7.12.11]]

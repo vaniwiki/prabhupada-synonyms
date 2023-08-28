@@ -1,11 +1,5 @@
----json
-{
-    "name":"upapattim",
-    "h1":"upapattim",
-    "title":"upapattim -- synonyms, prabhupada.io",
-    "description":"agitation."
-}
----
+~~Title:upapattim~~
+{{description>agitation.}}
 
 ==== upapattim  ====
   * agitation --- [[books:sb:4:24:67|SB 4.24.67]]

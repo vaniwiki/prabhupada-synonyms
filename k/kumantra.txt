@@ -1,11 +1,5 @@
----json
-{
-    "name":"kumantra",
-    "h1":"kumantra",
-    "title":"kumantra -- synonyms, prabhupada.io",
-    "description":"by the intricacy of ill advice."
-}
----
+~~Title:kumantra~~
+{{description>by the intricacy of ill advice.}}
 
 ==== kumantra-pākena  ====
   * by the intricacy of ill advice --- [[books:sb:3:3:13|SB 3.3.13]]

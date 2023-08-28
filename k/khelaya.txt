@@ -1,11 +1,5 @@
----json
-{
-    "name":"khelāya",
-    "h1":"khelāya",
-    "title":"khelāya -- synonyms, prabhupada.io",
-    "description":"plays with dice."
-}
----
+~~Title:khelāya~~
+{{description>plays with dice.}}
 
 ==== pāśaka khelāya  ====
   * plays with dice --- [[books:cc:antya:16:7|Antya 16.7]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nivedite",
-    "h1":"nivedite",
-    "title":"nivedite -- synonyms, prabhupada.io",
-    "description":"to submit."
-}
----
+~~Title:nivedite~~
+{{description>to submit.}}
 
 ==== nivedite  ====
   * to submit --- [[books:cc:madhya:12:18|Madhya 12.18]], [[books:cc:madhya:12:19|Madhya 12.19]]

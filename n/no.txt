@@ -1,11 +1,5 @@
----json
-{
-    "name":"no",
-    "h1":"no",
-    "title":"no -- synonyms, prabhupada.io",
-    "description":"do not; nor; not; otherwise."
-}
----
+~~Title:no~~
+{{description>do not; nor; not; otherwise.}}
 
 ==== no  ====
   * do not --- [[books:sb:2:3:21|SB 2.3.21]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pasyami",
-    "h1":"pasyami",
-    "title":"pasyami -- synonyms, prabhupada.io",
-    "description":"I see."
-}
----
+~~Title:pasyami~~
+{{description>I see.}}
 
 ==== pasyāmi  ====
   * I see --- [[books:bg:11:17|Bg. 11.17]]

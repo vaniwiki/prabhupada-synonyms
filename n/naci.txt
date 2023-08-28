@@ -1,11 +1,5 @@
----json
-{
-    "name":"naci",
-    "h1":"naci",
-    "title":"naci -- synonyms, prabhupada.io",
-    "description":"dance; dancing; I dance."
-}
----
+~~Title:naci~~
+{{description>dance; dancing; I dance.}}
 
 ==== nāci  ====
   * dance --- [[books:cc:adi:7:78|Ādi 7.78]]

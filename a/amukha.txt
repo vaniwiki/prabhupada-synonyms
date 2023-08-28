@@ -1,11 +1,5 @@
----json
-{
-    "name":"āmukha",
-    "h1":"āmukha",
-    "title":"āmukha -- synonyms, prabhupada.io",
-    "description":"this is the introduction."
-}
----
+~~Title:āmukha~~
+{{description>this is the introduction.}}
 
 ==== ei āmukha  ====
   * this is the introduction --- [[books:cc:antya:1:185|Antya 1.185]]

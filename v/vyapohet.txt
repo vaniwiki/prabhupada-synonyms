@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyapohet",
-    "h1":"vyapohet",
-    "title":"vyapohet -- synonyms, prabhupada.io",
-    "description":"one can give up."
-}
----
+~~Title:vyapohet~~
+{{description>one can give up.}}
 
 ==== vyapohet  ====
   * one can give up --- [[books:sb:5:5:10-13|SB 5.5.10-13]]

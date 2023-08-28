@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaci",
-    "h1":"vaci",
-    "title":"vaci -- synonyms, prabhupada.io",
-    "description":"in the form of Vedic instruction; in the mouth; in the words; to the Vedic language."
-}
----
+~~Title:vaci~~
+{{description>in the form of Vedic instruction; in the mouth; in the words; to the Vedic language.}}
 
 ==== vāci  ====
   * in the form of Vedic instruction --- [[books:sb:5:1:14|SB 5.1.14]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kukura",
-    "h1":"kukura",
-    "title":"kukura -- synonyms, prabhupada.io",
-    "description":"Kukura."
-}
----
+~~Title:kukura~~
+{{description>Kukura.}}
 
 ==== kukura  ====
   * Kukura --- [[books:sb:1:11:11|SB 1.11.11]]

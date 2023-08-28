@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahilu",
-    "h1":"kahilu",
-    "title":"kahilu -- synonyms, prabhupada.io",
-    "description":"I have described; I have spoken; I say."
-}
----
+~~Title:kahilu~~
+{{description>I have described; I have spoken; I say.}}
 
 ==== kahilu  ====
   * I have described --- [[books:cc:madhya:24:346|Madhya 24.346]], [[books:cc:antya:2:83|Antya 2.83]]

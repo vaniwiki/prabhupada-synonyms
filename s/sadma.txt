@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadma",
-    "h1":"sadma",
-    "title":"sadma -- synonyms, prabhupada.io",
-    "description":"the place of birth; the place of generation."
-}
----
+~~Title:sadma~~
+{{description>the place of birth; the place of generation.}}
 
 ==== janma-sadma  ====
   * the place of birth --- [[books:cc:adi:5:102|Ādi 5.102]]

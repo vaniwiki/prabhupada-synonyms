@@ -1,11 +1,5 @@
----json
-{
-    "name":"vairake",
-    "h1":"vairake",
-    "title":"vairake -- synonyms, prabhupada.io",
-    "description":"who is free from all enmity."
-}
----
+~~Title:vairake~~
+{{description>who is free from all enmity.}}
 
 ==== mukta-vairake  ====
   * who is free from all enmity --- [[books:sb:4:4:11|SB 4.4.11]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pareta",
-    "h1":"pareta",
-    "title":"pareta -- synonyms, prabhupada.io",
-    "description":"just like a dead man."
-}
----
+~~Title:pareta~~
+{{description>just like a dead man.}}
 
 ==== pareta-vat  ====
   * just like a dead man --- [[books:sb:10:13:58|SB 10.13.58]]

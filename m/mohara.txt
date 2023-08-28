@@ -1,11 +1,5 @@
----json
-{
-    "name":"mohara",
-    "h1":"mohara",
-    "title":"mohara -- synonyms, prabhupada.io",
-    "description":"coins; gold coin; golden coins; the golden coins."
-}
----
+~~Title:mohara~~
+{{description>coins; gold coin; golden coins; the golden coins.}}
 
 ==== mohara  ====
   * coins --- [[books:cc:madhya:20:19|Madhya 20.19]]

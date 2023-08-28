@@ -1,11 +1,5 @@
----json
-{
-    "name":"nananda",
-    "h1":"nananda",
-    "title":"nananda -- synonyms, prabhupada.io",
-    "description":"take pleasure."
-}
----
+~~Title:nananda~~
+{{description>take pleasure.}}
 
 ==== nananda  ====
   * take pleasure --- [[books:sb:3:3:13|SB 3.3.13]]

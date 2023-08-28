@@ -1,11 +1,5 @@
----json
-{
-    "name":"asvadila",
-    "h1":"asvadila",
-    "title":"asvadila -- synonyms, prabhupada.io",
-    "description":"He tasted; tasted."
-}
----
+~~Title:asvadila~~
+{{description>He tasted; tasted.}}
 
 ==== āsvādila  ====
   * He tasted --- [[books:cc:adi:4:114|Ādi 4.114]]

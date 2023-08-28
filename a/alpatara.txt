@@ -1,11 +1,5 @@
----json
-{
-    "name":"alpatara",
-    "h1":"alpatara",
-    "title":"alpatara -- synonyms, prabhupada.io",
-    "description":"small in quantity."
-}
----
+~~Title:alpatara~~
+{{description>small in quantity.}}
 
 ==== alpatara  ====
   * small in quantity --- [[books:cc:madhya:19:145|Madhya 19.145]]

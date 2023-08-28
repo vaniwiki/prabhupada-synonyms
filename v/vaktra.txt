@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaktra",
-    "h1":"vaktra",
-    "title":"vaktra -- synonyms, prabhupada.io",
-    "description":"curled; face; faces; mouths."
-}
----
+~~Title:vaktra~~
+{{description>curled; face; faces; mouths.}}
 
 ==== vaktra  ====
   * curled --- [[books:sb:1:19:27|SB 1.19.27]]

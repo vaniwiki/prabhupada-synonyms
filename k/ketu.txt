@@ -1,11 +1,5 @@
----json
-{
-    "name":"ketu",
-    "h1":"ketu",
-    "title":"ketu -- synonyms, prabhupada.io",
-    "description":"flag."
-}
----
+~~Title:ketu~~
+{{description>flag.}}
 
 ==== ketu  ====
   * flag --- [[books:sb:1:16:32-33|SB 1.16.32-33]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"cyavanam",
-    "h1":"cyavanam",
-    "title":"cyavanam -- synonyms, prabhupada.io",
-    "description":"the great sage Cyavana Muni."
-}
----
+~~Title:cyavanam~~
+{{description>the great sage Cyavana Muni.}}
 
 ==== cyavanam  ====
   * the great sage Cyavana Muni --- [[books:sb:9:3:10|SB 9.3.10]]

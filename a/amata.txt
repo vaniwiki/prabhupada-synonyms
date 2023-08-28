@@ -1,11 +1,5 @@
----json
-{
-    "name":"amata",
-    "h1":"amata",
-    "title":"amata -- synonyms, prabhupada.io",
-    "description":"thought."
-}
----
+~~Title:amata~~
+{{description>thought.}}
 
 ==== amata  ====
   * thought --- [[books:sb:3:15:22|SB 3.15.22]]

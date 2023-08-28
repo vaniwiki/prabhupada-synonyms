@@ -1,11 +1,5 @@
----json
-{
-    "name":"sucira",
-    "h1":"sucira",
-    "title":"sucira -- synonyms, prabhupada.io",
-    "description":"for a long time."
-}
----
+~~Title:sucira~~
+{{description>for a long time.}}
 
 ==== sucira  ====
   * for a long time --- [[books:sb:3:13:4|SB 3.13.4]]

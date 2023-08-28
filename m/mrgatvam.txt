@@ -1,11 +1,5 @@
----json
-{
-    "name":"mṛgatvam",
-    "h1":"mṛgatvam",
-    "title":"mṛgatvam -- synonyms, prabhupada.io",
-    "description":"although in the body of a deer."
-}
----
+~~Title:mṛgatvam~~
+{{description>although in the body of a deer.}}
 
 ==== mṛgatvam api  ====
   * although in the body of a deer --- [[books:sb:5:14:45|SB 5.14.45]]

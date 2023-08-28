@@ -1,11 +1,5 @@
----json
-{
-    "name":"rabhasam",
-    "h1":"rabhasam",
-    "title":"rabhasam -- synonyms, prabhupada.io",
-    "description":"agitated."
-}
----
+~~Title:rabhasam~~
+{{description>agitated.}}
 
 ==== rabhasam  ====
   * agitated --- [[books:sb:3:15:28|SB 3.15.28]]

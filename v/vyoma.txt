@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyoma",
-    "h1":"vyoma",
-    "title":"vyoma -- synonyms, prabhupada.io",
-    "description":"sky; the sky."
-}
----
+~~Title:vyoma~~
+{{description>sky; the sky.}}
 
 ==== vyoma  ====
   * sky --- [[books:sb:2:7:49|SB 2.7.49]], [[books:sb:2:10:31|SB 2.10.31]], [[books:sb:9:5:3|SB 9.5.3]]

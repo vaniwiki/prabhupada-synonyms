@@ -1,11 +1,5 @@
----json
-{
-    "name":"patala",
-    "h1":"patala",
-    "title":"patala -- synonyms, prabhupada.io",
-    "description":"thin."
-}
----
+~~Title:patala~~
+{{description>thin.}}
 
 ==== pātala  ====
   * thin --- [[books:cc:antya:10:36|Antya 10.36]]

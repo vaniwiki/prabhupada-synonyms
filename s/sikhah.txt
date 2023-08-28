@@ -1,11 +1,5 @@
----json
-{
-    "name":"sikhah",
-    "h1":"sikhah",
-    "title":"sikhah -- synonyms, prabhupada.io",
-    "description":"having flames."
-}
----
+~~Title:sikhah~~
+{{description>having flames.}}
 
 ==== śikhaḥ  ====
   * having flames --- [[books:sb:9:4:50|SB 9.4.50]]

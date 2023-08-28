@@ -1,11 +1,5 @@
----json
-{
-    "name":"jaghanam",
-    "h1":"jaghanam",
-    "title":"jaghanam -- synonyms, prabhupada.io",
-    "description":"the hips."
-}
----
+~~Title:jaghanam~~
+{{description>the hips.}}
 
 ==== jaghanam  ====
   * the hips --- [[books:sb:2:1:27|SB 2.1.27]]

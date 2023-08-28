@@ -1,11 +1,5 @@
----json
-{
-    "name":"haritah",
-    "h1":"haritah",
-    "title":"haritah -- synonyms, prabhupada.io",
-    "description":"the king named Harita."
-}
----
+~~Title:haritah~~
+{{description>the king named Harita.}}
 
 ==== haritaḥ  ====
   * the king named Harita --- [[books:sb:9:8:1|SB 9.8.1]]

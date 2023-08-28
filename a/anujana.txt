@@ -1,11 +1,5 @@
----json
-{
-    "name":"anujana",
-    "h1":"anujana",
-    "title":"anujana -- synonyms, prabhupada.io",
-    "description":"to the devotee."
-}
----
+~~Title:anujana~~
+{{description>to the devotee.}}
 
 ==== anujana  ====
   * to the devotee --- [[books:sb:5:1:41|SB 5.1.41]]

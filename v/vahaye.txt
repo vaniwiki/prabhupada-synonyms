@@ -1,11 +1,5 @@
----json
-{
-    "name":"vahaye",
-    "h1":"vahaye",
-    "title":"vahaye -- synonyms, prabhupada.io",
-    "description":"flow."
-}
----
+~~Title:vahaye~~
+{{description>flow.}}
 
 ==== vahaye  ====
   * flow --- [[books:cc:antya:14:94|Antya 14.94]]

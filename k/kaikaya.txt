@@ -1,11 +1,5 @@
----json
-{
-    "name":"kaikaya",
-    "h1":"kaikaya",
-    "title":"kaikaya -- synonyms, prabhupada.io",
-    "description":"the King of Kekaya and others."
-}
----
+~~Title:kaikaya~~
+{{description>the King of Kekaya and others.}}
 
 ==== kaikaya-ādyāḥ  ====
   * the King of Kekaya and others --- [[books:sb:2:7:34-35|SB 2.7.34-35]]

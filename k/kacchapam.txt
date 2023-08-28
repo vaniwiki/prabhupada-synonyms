@@ -1,11 +1,5 @@
----json
-{
-    "name":"kacchapam",
-    "h1":"kacchapam",
-    "title":"kacchapam -- synonyms, prabhupada.io",
-    "description":"tortoise."
-}
----
+~~Title:kacchapam~~
+{{description>tortoise.}}
 
 ==== kacchapam  ====
   * tortoise --- [[books:sb:8:7:8|SB 8.7.8]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sukhah",
-    "h1":"sukhah",
-    "title":"sukhah -- synonyms, prabhupada.io",
-    "description":"happiness; in happiness."
-}
----
+~~Title:sukhah~~
+{{description>happiness; in happiness.}}
 
 ==== sukhaḥ  ====
   * happiness --- [[books:bg:12:13-14|Bg. 12.13-14]]

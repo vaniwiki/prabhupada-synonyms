@@ -1,11 +1,5 @@
----json
-{
-    "name":"aprajam",
-    "h1":"aprajam",
-    "title":"aprajam -- synonyms, prabhupada.io",
-    "description":"because of having no son."
-}
----
+~~Title:aprajam~~
+{{description>because of having no son.}}
 
 ==== aprajam  ====
   * because of having no son --- [[books:sb:6:14:25|SB 6.14.25]]

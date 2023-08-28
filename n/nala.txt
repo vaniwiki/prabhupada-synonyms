@@ -1,11 +1,5 @@
----json
-{
-    "name":"nala",
-    "h1":"nala",
-    "title":"nala -- synonyms, prabhupada.io",
-    "description":"nalas; pipes."
-}
----
+~~Title:nala~~
+{{description>nalas; pipes.}}
 
 ==== nala  ====
   * //nalas// --- [[books:sb:8:2:14-19|SB 8.2.14-19]]

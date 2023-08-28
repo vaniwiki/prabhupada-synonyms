@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilāsam",
-    "h1":"vilāsam",
-    "title":"vilāsam -- synonyms, prabhupada.io",
-    "description":"performing pastimes."
-}
----
+~~Title:vilāsam~~
+{{description>performing pastimes.}}
 
 ==== vihita-vilāsam  ====
   * performing pastimes --- [[books:cc:antya:15:84|Antya 15.84]]

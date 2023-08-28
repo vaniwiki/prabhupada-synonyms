@@ -1,11 +1,5 @@
----json
-{
-    "name":"prayujya",
-    "h1":"prayujya",
-    "title":"prayujya -- synonyms, prabhupada.io",
-    "description":"having offered."
-}
----
+~~Title:prayujya~~
+{{description>having offered.}}
 
 ==== prayujya  ====
   * having offered --- [[books:sb:7:10:34|SB 7.10.34]]

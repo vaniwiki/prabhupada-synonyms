@@ -1,11 +1,5 @@
----json
-{
-    "name":"kandaram",
-    "h1":"kandaram",
-    "title":"kandaram -- synonyms, prabhupada.io",
-    "description":"a cave in a mountain."
-}
----
+~~Title:kandaram~~
+{{description>a cave in a mountain.}}
 
 ==== adri-kandaram  ====
   * a cave in a mountain --- [[books:sb:7:12:20|SB 7.12.20]]

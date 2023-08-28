@@ -1,11 +1,5 @@
----json
-{
-    "name":"anantare",
-    "h1":"anantare",
-    "title":"anantare -- synonyms, prabhupada.io",
-    "description":"immediately after."
-}
----
+~~Title:anantare~~
+{{description>immediately after.}}
 
 ==== anantare  ====
   * immediately after --- [[books:cc:adi:17:9|Ādi 17.9]]

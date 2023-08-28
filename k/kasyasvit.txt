@@ -1,11 +1,5 @@
----json
-{
-    "name":"kasyasvit",
-    "h1":"kasyasvit",
-    "title":"kasyasvit -- synonyms, prabhupada.io",
-    "description":"someone else's."
-}
----
+~~Title:kasyasvit~~
+{{description>someone else's.}}
 
 ==== kasyasvit  ====
   * someone else's --- [[books:cc:madhya:25:101|Madhya 25.101]]

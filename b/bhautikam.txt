@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhautikam",
-    "h1":"bhautikam",
-    "title":"bhautikam -- synonyms, prabhupada.io",
-    "description":"material; the material universe."
-}
----
+~~Title:bhautikam~~
+{{description>material; the material universe.}}
 
 ==== bhautikam  ====
   * material --- [[books:sb:7:2:42|SB 7.2.42]]

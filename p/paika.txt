@@ -1,11 +1,5 @@
----json
-{
-    "name":"pāika",
-    "h1":"pāika",
-    "title":"pāika -- synonyms, prabhupada.io",
-    "description":"constable; watchmen."
-}
----
+~~Title:pāika~~
+{{description>constable; watchmen.}}
 
 ==== pāika  ====
   * constable --- [[books:cc:antya:3:108|Antya 3.108]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ativismayam",
-    "h1":"ativismayam",
-    "title":"ativismayam -- synonyms, prabhupada.io",
-    "description":"surpassing all wonders."
-}
----
+~~Title:ativismayam~~
+{{description>surpassing all wonders.}}
 
 ==== ativismayam  ====
   * surpassing all wonders --- [[books:sb:3:13:43|SB 3.13.43]]

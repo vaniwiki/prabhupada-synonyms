@@ -1,11 +1,5 @@
----json
-{
-    "name":"udagayanam",
-    "h1":"udagayanam",
-    "title":"udagayanam -- synonyms, prabhupada.io",
-    "description":"the sun passes to the northern side."
-}
----
+~~Title:udagayanam~~
+{{description>the sun passes to the northern side.}}
 
 ==== udagayanam  ====
   * the sun passes to the northern side --- [[books:sb:5:21:6|SB 5.21.6]]

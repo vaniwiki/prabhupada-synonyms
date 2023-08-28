@@ -1,11 +1,5 @@
----json
-{
-    "name":"calilāma",
-    "h1":"calilāma",
-    "title":"calilāma -- synonyms, prabhupada.io",
-    "description":"I started."
-}
----
+~~Title:calilāma~~
+{{description>I started.}}
 
 ==== calilāma  ====
   * I started --- [[books:cc:madhya:3:174|Madhya 3.174]]

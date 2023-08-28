@@ -1,11 +1,5 @@
----json
-{
-    "name":"hinvanti",
-    "h1":"hinvanti",
-    "title":"hinvanti -- synonyms, prabhupada.io",
-    "description":"give up."
-}
----
+~~Title:hinvanti~~
+{{description>give up.}}
 
 ==== hinvanti  ====
   * give up --- [[books:sb:5:1:5|SB 5.1.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"utkaca",
-    "h1":"utkaca",
-    "title":"utkaca -- synonyms, prabhupada.io",
-    "description":"open."
-}
----
+~~Title:utkaca~~
+{{description>open.}}
 
 ==== utkaca  ====
   * open --- [[books:sb:3:23:38|SB 3.23.38]]

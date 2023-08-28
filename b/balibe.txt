@@ -1,11 +1,5 @@
----json
-{
-    "name":"balibe",
-    "h1":"balibe",
-    "title":"balibe -- synonyms, prabhupada.io",
-    "description":"will utter."
-}
----
+~~Title:balibe~~
+{{description>will utter.}}
 
 ==== balibe  ====
   * will utter --- [[books:cc:adi:17:27|Ādi 17.27]]

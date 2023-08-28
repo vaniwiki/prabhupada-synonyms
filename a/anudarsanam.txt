@@ -1,11 +1,5 @@
----json
-{
-    "name":"anudarśanam",
-    "h1":"anudarśanam",
-    "title":"anudarśanam -- synonyms, prabhupada.io",
-    "description":"informing about the ways; observing."
-}
----
+~~Title:anudarśanam~~
+{{description>informing about the ways; observing.}}
 
 ==== anudarśanam  ====
   * informing about the ways --- [[books:sb:6:5:18|SB 6.5.18]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anumanye",
-    "h1":"anumanye",
-    "title":"anumanye -- synonyms, prabhupada.io",
-    "description":"I guess like that."
-}
----
+~~Title:anumanye~~
+{{description>I guess like that.}}
 
 ==== anumanye  ====
   * I guess like that --- [[books:sb:5:10:21|SB 5.10.21]]

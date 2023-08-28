@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirmoka",
-    "h1":"nirmoka",
-    "title":"nirmoka -- synonyms, prabhupada.io",
-    "description":"Nirmoka."
-}
----
+~~Title:nirmoka~~
+{{description>Nirmoka.}}
 
 ==== nirmoka  ====
   * Nirmoka --- [[books:sb:8:13:11|SB 8.13.11]], [[books:sb:8:13:31|SB 8.13.31]]

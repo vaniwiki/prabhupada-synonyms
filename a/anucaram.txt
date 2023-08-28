@@ -1,11 +1,5 @@
----json
-{
-    "name":"anucaram",
-    "h1":"anucaram",
-    "title":"anucaram -- synonyms, prabhupada.io",
-    "description":"constant companion."
-}
----
+~~Title:anucaram~~
+{{description>constant companion.}}
 
 ==== anucaram  ====
   * constant companion --- [[books:sb:3:1:25|SB 3.1.25]]

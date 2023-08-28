@@ -1,11 +1,5 @@
----json
-{
-    "name":"ara",
-    "h1":"ara",
-    "title":"ara -- synonyms, prabhupada.io",
-    "description":"and."
-}
----
+~~Title:ara~~
+{{description>and.}}
 
 ==== ara  ====
   * and --- [[books:cc:adi:9:24|Ādi 9.24]]

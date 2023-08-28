@@ -1,11 +1,5 @@
----json
-{
-    "name":"sava",
-    "h1":"sava",
-    "title":"sava -- synonyms, prabhupada.io",
-    "description":"dead bodies."
-}
----
+~~Title:sava~~
+{{description>dead bodies.}}
 
 ==== śava-śayana  ====
   * dead bodies --- [[books:sb:4:7:33|SB 4.7.33]]

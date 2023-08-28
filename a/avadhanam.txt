@@ -1,11 +1,5 @@
----json
-{
-    "name":"avadhānam",
-    "h1":"avadhānam",
-    "title":"avadhānam -- synonyms, prabhupada.io",
-    "description":"approximately."
-}
----
+~~Title:avadhānam~~
+{{description>approximately.}}
 
 ==== sa-avadhānam  ====
   * approximately --- [[books:sb:3:11:18|SB 3.11.18]]

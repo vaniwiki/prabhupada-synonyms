@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidvisam",
-    "h1":"vidvisam",
-    "title":"vidvisam -- synonyms, prabhupada.io",
-    "description":"your enemy."
-}
----
+~~Title:vidvisam~~
+{{description>your enemy.}}
 
 ==== vidviṣam  ====
   * your enemy --- [[books:sb:6:9:11|SB 6.9.11]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"balavāne",
-    "h1":"balavāne",
-    "title":"balavāne -- synonyms, prabhupada.io",
-    "description":"very strong."
-}
----
+~~Title:balavāne~~
+{{description>very strong.}}
 
 ==== balavāne  ====
   * very strong --- [[books:cc:adi:10:142|Ādi 10.142]]

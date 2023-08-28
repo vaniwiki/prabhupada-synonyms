@@ -1,11 +1,5 @@
----json
-{
-    "name":"pracalita",
-    "h1":"pracalita",
-    "title":"pracalita -- synonyms, prabhupada.io",
-    "description":"agitated."
-}
----
+~~Title:pracalita~~
+{{description>agitated.}}
 
 ==== pracalita  ====
   * agitated --- [[books:sb:3:18:14|SB 3.18.14]]

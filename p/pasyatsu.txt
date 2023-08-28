@@ -1,11 +1,5 @@
----json
-{
-    "name":"paśyatsu",
-    "h1":"paśyatsu",
-    "title":"paśyatsu -- synonyms, prabhupada.io",
-    "description":"while observing."
-}
----
+~~Title:paśyatsu~~
+{{description>while observing.}}
 
 ==== paśyatsu  ====
   * while observing --- [[books:sb:10:11:51|SB 10.11.51]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"varni",
-    "h1":"varni",
-    "title":"varni -- synonyms, prabhupada.io",
-    "description":"I describe; I shall describe."
-}
----
+~~Title:varni~~
+{{description>I describe; I shall describe.}}
 
 ==== varṇi  ====
   * I describe --- [[books:cc:adi:1:105|Ādi 1.105]], [[books:cc:madhya:4:6|Madhya 4.6]]

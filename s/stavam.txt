@@ -1,11 +1,5 @@
----json
-{
-    "name":"stavam",
-    "h1":"stavam",
-    "title":"stavam -- synonyms, prabhupada.io",
-    "description":"prayer."
-}
----
+~~Title:stavam~~
+{{description>prayer.}}
 
 ==== stavam  ====
   * prayer --- [[books:sb:4:24:79|SB 4.24.79]]

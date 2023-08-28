@@ -1,11 +1,5 @@
----json
-{
-    "name":"prasabe",
-    "h1":"prasabe",
-    "title":"prasabe -- synonyms, prabhupada.io",
-    "description":"produces."
-}
----
+~~Title:prasabe~~
+{{description>produces.}}
 
 ==== prasabe  ====
   * produces --- [[books:cc:madhya:6:171|Madhya 6.171]]

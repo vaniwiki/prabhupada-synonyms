@@ -1,11 +1,5 @@
----json
-{
-    "name":"parasada",
-    "h1":"parasada",
-    "title":"parasada -- synonyms, prabhupada.io",
-    "description":"benediction."
-}
----
+~~Title:parasada~~
+{{description>benediction.}}
 
 ==== parasāda  ====
   * benediction --- [[books:cc:adi:17:65|Ādi 17.65]]

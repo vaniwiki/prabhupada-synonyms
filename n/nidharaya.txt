@@ -1,11 +1,5 @@
----json
-{
-    "name":"nidhāraya",
-    "h1":"nidhāraya",
-    "title":"nidhāraya -- synonyms, prabhupada.io",
-    "description":"please know it."
-}
----
+~~Title:nidhāraya~~
+{{description>please know it.}}
 
 ==== nidhāraya  ====
   * please know it --- [[books:sb:3:2:22|SB 3.2.22]]

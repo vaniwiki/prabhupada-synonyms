@@ -1,11 +1,5 @@
----json
-{
-    "name":"sampravakṣyāmi",
-    "h1":"sampravakṣyāmi",
-    "title":"sampravakṣyāmi -- synonyms, prabhupada.io",
-    "description":"I shall describe."
-}
----
+~~Title:sampravakṣyāmi~~
+{{description>I shall describe.}}
 
 ==== sampravakṣyāmi  ====
   * I shall describe --- [[books:sb:3:26:1|SB 3.26.1]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kayah",
-    "h1":"kayah",
-    "title":"kayah -- synonyms, prabhupada.io",
-    "description":"body; my body; the body."
-}
----
+~~Title:kayah~~
+{{description>body; my body; the body.}}
 
 ==== kāyaḥ  ====
   * body --- [[books:cc:adi:5:72|Ādi 5.72]]

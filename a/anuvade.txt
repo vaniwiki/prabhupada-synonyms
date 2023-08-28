@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuvāde",
-    "h1":"anuvāde",
-    "title":"anuvāde -- synonyms, prabhupada.io",
-    "description":"discussion."
-}
----
+~~Title:anuvāde~~
+{{description>discussion.}}
 
 ==== anuvāde  ====
   * discussion --- [[books:sb:4:15:23|SB 4.15.23]]

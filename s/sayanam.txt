@@ -1,11 +1,5 @@
----json
-{
-    "name":"sayanam",
-    "h1":"sayanam",
-    "title":"sayanam -- synonyms, prabhupada.io",
-    "description":"lying down."
-}
----
+~~Title:sayanam~~
+{{description>lying down.}}
 
 ==== śayanam  ====
   * lying down --- [[books:cc:madhya:24:135|Madhya 24.135]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"chedana",
-    "h1":"chedana",
-    "title":"chedana -- synonyms, prabhupada.io",
-    "description":"the cutting away."
-}
----
+~~Title:chedana~~
+{{description>the cutting away.}}
 
 ==== chedana  ====
   * the cutting away --- [[books:cc:madhya:19:161|Madhya 19.161]]

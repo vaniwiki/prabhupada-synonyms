@@ -1,11 +1,5 @@
----json
-{
-    "name":"avocata",
-    "h1":"avocata",
-    "title":"avocata -- synonyms, prabhupada.io",
-    "description":"he requested."
-}
----
+~~Title:avocata~~
+{{description>he requested.}}
 
 ==== avocata  ====
   * he requested --- [[books:sb:9:18:38|SB 9.18.38]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prajnam",
-    "h1":"prajnam",
-    "title":"prajnam -- synonyms, prabhupada.io",
-    "description":"good intelligence; intelligence."
-}
----
+~~Title:prajnam~~
+{{description>good intelligence; intelligence.}}
 
 ==== prajñām  ====
   * good intelligence --- [[books:sb:4:26:16|SB 4.26.16]]

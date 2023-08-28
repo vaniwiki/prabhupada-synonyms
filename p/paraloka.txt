@@ -1,11 +1,5 @@
----json
-{
-    "name":"paraloka",
-    "h1":"paraloka",
-    "title":"paraloka -- synonyms, prabhupada.io",
-    "description":"death."
-}
----
+~~Title:paraloka~~
+{{description>death.}}
 
 ==== paraloka  ====
   * death --- [[books:cc:adi:17:228|Ādi 17.228]]

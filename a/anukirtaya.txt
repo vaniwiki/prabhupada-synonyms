@@ -1,11 +1,5 @@
----json
-{
-    "name":"anukīrtaya",
-    "h1":"anukīrtaya",
-    "title":"anukīrtaya -- synonyms, prabhupada.io",
-    "description":"please describe."
-}
----
+~~Title:anukīrtaya~~
+{{description>please describe.}}
 
 ==== anukīrtaya  ====
   * please describe --- [[books:sb:3:25:3|SB 3.25.3]]

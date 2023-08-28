@@ -1,11 +1,5 @@
----json
-{
-    "name":"pota",
-    "h1":"pota",
-    "title":"pota -- synonyms, prabhupada.io",
-    "description":"the boat."
-}
----
+~~Title:pota~~
+{{description>the boat.}}
 
 ==== pota  ====
   * the boat --- [[books:sb:4:23:39|SB 4.23.39]]

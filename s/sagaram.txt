@@ -1,11 +1,5 @@
----json
-{
-    "name":"sāgaram",
-    "h1":"sāgaram",
-    "title":"sāgaram -- synonyms, prabhupada.io",
-    "description":"the ocean."
-}
----
+~~Title:sāgaram~~
+{{description>the ocean.}}
 
 ==== sāgaram  ====
   * the ocean --- [[books:cc:adi:2:1|Ādi 2.1]]

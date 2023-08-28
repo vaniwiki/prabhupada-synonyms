@@ -1,11 +1,5 @@
----json
-{
-    "name":"pari",
-    "h1":"pari",
-    "title":"pari -- synonyms, prabhupada.io",
-    "description":"I put on; in; successively; sufficiently."
-}
----
+~~Title:pari~~
+{{description>I put on; in; successively; sufficiently.}}
 
 ==== pari  ====
   * I put on --- [[books:cc:madhya:10:159|Madhya 10.159]]

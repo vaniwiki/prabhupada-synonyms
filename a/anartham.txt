@@ -1,11 +1,5 @@
----json
-{
-    "name":"anartham",
-    "h1":"anartham",
-    "title":"anartham -- synonyms, prabhupada.io",
-    "description":"things not wanted."
-}
----
+~~Title:anartham~~
+{{description>things not wanted.}}
 
 ==== anartham  ====
   * things not wanted --- [[books:sb:1:7:5|SB 1.7.5]]

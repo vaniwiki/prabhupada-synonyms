@@ -1,11 +1,5 @@
----json
-{
-    "name":"pasah",
-    "h1":"pasah",
-    "title":"pasah -- synonyms, prabhupada.io",
-    "description":"the rope."
-}
----
+~~Title:pasah~~
+{{description>the rope.}}
 
 ==== pāśaḥ  ====
   * the rope --- [[books:sb:6:11:21|SB 6.11.21]]

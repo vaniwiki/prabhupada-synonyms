@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaktā",
-    "h1":"vaktā",
-    "title":"vaktā -- synonyms, prabhupada.io",
-    "description":"speaker; the speaker."
-}
----
+~~Title:vaktā~~
+{{description>speaker; the speaker.}}
 
 ==== vaktā  ====
   * speaker --- [[books:cc:adi:8:39|Ādi 8.39]], [[books:cc:madhya:8:200|Madhya 8.200]]

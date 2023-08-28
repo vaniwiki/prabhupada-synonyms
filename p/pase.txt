@@ -1,11 +1,5 @@
----json
-{
-    "name":"pase",
-    "h1":"pase",
-    "title":"pase -- synonyms, prabhupada.io",
-    "description":"enters."
-}
----
+~~Title:pase~~
+{{description>enters.}}
 
 ==== paśe  ====
   * enters --- [[books:cc:antya:19:89|Antya 19.89]], [[books:cc:antya:19:93|Antya 19.93]]

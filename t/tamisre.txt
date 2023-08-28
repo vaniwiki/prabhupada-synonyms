@@ -1,11 +1,5 @@
----json
-{
-    "name":"tamisre",
-    "h1":"tamisre",
-    "title":"tamisre -- synonyms, prabhupada.io",
-    "description":"in a hellish condition of life."
-}
----
+~~Title:tamisre~~
+{{description>in a hellish condition of life.}}
 
 ==== tamisre  ====
   * in a hellish condition of life --- [[books:sb:5:13:9|SB 5.13.9]]

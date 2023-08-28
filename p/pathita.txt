@@ -1,11 +1,5 @@
----json
-{
-    "name":"paṭhita",
-    "h1":"paṭhita",
-    "title":"paṭhita -- synonyms, prabhupada.io",
-    "description":"well-studied."
-}
----
+~~Title:paṭhita~~
+{{description>well-studied.}}
 
 ==== su-paṭhita  ====
   * well-studied --- [[books:cc:adi:17:257|Ādi 17.257]]

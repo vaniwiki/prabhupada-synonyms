@@ -1,11 +1,5 @@
----json
-{
-    "name":"himavat",
-    "h1":"himavat",
-    "title":"himavat -- synonyms, prabhupada.io",
-    "description":"Himalayan."
-}
----
+~~Title:himavat~~
+{{description>Himalayan.}}
 
 ==== himavat  ====
   * Himalayan --- [[books:sb:4:10:5|SB 4.10.5]]

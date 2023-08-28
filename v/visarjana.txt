@@ -1,11 +1,5 @@
----json
-{
-    "name":"visarjana",
-    "h1":"visarjana",
-    "title":"visarjana -- synonyms, prabhupada.io",
-    "description":"giving up."
-}
----
+~~Title:visarjana~~
+{{description>giving up.}}
 
 ==== visarjana  ====
   * giving up --- [[books:cc:madhya:22:117|Madhya 22.117]]

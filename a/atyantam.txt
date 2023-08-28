@@ -1,11 +1,5 @@
----json
-{
-    "name":"atyantam",
-    "h1":"atyantam",
-    "title":"atyantam -- synonyms, prabhupada.io",
-    "description":"highest."
-}
----
+~~Title:atyantam~~
+{{description>highest.}}
 
 ==== atyantam  ====
   * highest --- [[books:bg:6:28|Bg. 6.28]]

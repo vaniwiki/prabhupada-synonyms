@@ -1,11 +1,5 @@
----json
-{
-    "name":"atarkye",
-    "h1":"atarkye",
-    "title":"atarkye -- synonyms, prabhupada.io",
-    "description":"beyond."
-}
----
+~~Title:atarkye~~
+{{description>beyond.}}
 
 ==== atarkye  ====
   * beyond --- [[books:sb:10:13:57|SB 10.13.57]]

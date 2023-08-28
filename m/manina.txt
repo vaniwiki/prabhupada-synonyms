@@ -1,11 +1,5 @@
----json
-{
-    "name":"manina",
-    "h1":"manina",
-    "title":"manina -- synonyms, prabhupada.io",
-    "description":"by the jewel."
-}
----
+~~Title:manina~~
+{{description>by the jewel.}}
 
 ==== maṇinā  ====
   * by the jewel --- [[books:sb:1:7:56|SB 1.7.56]]

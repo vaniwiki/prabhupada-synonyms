@@ -1,11 +1,5 @@
----json
-{
-    "name":"habeka",
-    "h1":"habeka",
-    "title":"habeka -- synonyms, prabhupada.io",
-    "description":"would take place."
-}
----
+~~Title:habeka~~
+{{description>would take place.}}
 
 ==== habeka  ====
   * would take place --- [[books:cc:madhya:12:220|Madhya 12.220]]

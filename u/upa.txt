@@ -1,11 +1,5 @@
----json
-{
-    "name":"upa",
-    "h1":"upa",
-    "title":"upa -- synonyms, prabhupada.io",
-    "description":"more or less; near."
-}
----
+~~Title:upa~~
+{{description>more or less; near.}}
 
 ==== upa  ====
   * more or less --- [[books:sb:4:24:20|SB 4.24.20]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nagaram",
-    "h1":"nagaram",
-    "title":"nagaram -- synonyms, prabhupada.io",
-    "description":"a will-o'-the-wisp city."
-}
----
+~~Title:nagaram~~
+{{description>a will-o'-the-wisp city.}}
 
 ==== gandharva-nagaram  ====
   * a will-o'-the-wisp city --- [[books:sb:5:14:5|SB 5.14.5]]

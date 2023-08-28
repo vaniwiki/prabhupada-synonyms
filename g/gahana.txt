@@ -1,11 +1,5 @@
----json
-{
-    "name":"gahana",
-    "h1":"gahana",
-    "title":"gahana -- synonyms, prabhupada.io",
-    "description":"crowds."
-}
----
+~~Title:gahana~~
+{{description>crowds.}}
 
 ==== gahana  ====
   * crowds --- [[books:cc:madhya:1:79|Madhya 1.79]]

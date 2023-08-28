@@ -1,11 +1,5 @@
----json
-{
-    "name":"khuli",
-    "h1":"khuli",
-    "title":"khuli -- synonyms, prabhupada.io",
-    "description":"opening."
-}
----
+~~Title:khuli~~
+{{description>opening.}}
 
 ==== khuli  ====
   * opening --- [[books:cc:madhya:4:130|Madhya 4.130]]

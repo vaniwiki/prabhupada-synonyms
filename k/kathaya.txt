@@ -1,11 +1,5 @@
----json
-{
-    "name":"kathaya",
-    "h1":"kathaya",
-    "title":"kathaya -- synonyms, prabhupada.io",
-    "description":"describe; speak."
-}
----
+~~Title:kathaya~~
+{{description>describe; speak.}}
 
 ==== kathaya  ====
   * describe --- [[books:bg:10:18|Bg. 10.18]]

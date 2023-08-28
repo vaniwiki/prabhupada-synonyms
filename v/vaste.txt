@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaste",
-    "h1":"vaste",
-    "title":"vaste -- synonyms, prabhupada.io",
-    "description":"clothing."
-}
----
+~~Title:vaste~~
+{{description>clothing.}}
 
 ==== vaste  ====
   * clothing --- [[books:sb:4:22:46|SB 4.22.46]]

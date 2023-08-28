@@ -1,11 +1,5 @@
----json
-{
-    "name":"tolā",
-    "h1":"tolā",
-    "title":"tolā -- synonyms, prabhupada.io",
-    "description":"a measurement of weight."
-}
----
+~~Title:tolā~~
+{{description>a measurement of weight.}}
 
 ==== tolā  ====
   * a measurement of weight --- [[books:cc:madhya:4:182|Madhya 4.182]]

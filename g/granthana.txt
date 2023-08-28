@@ -1,11 +1,5 @@
----json
-{
-    "name":"granthana",
-    "h1":"granthana",
-    "title":"granthana -- synonyms, prabhupada.io",
-    "description":"writing in the book."
-}
----
+~~Title:granthana~~
+{{description>writing in the book.}}
 
 ==== granthana  ====
   * writing in the book --- [[books:cc:adi:8:45|Ādi 8.45]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"aje",
-    "h1":"aje",
-    "title":"aje -- synonyms, prabhupada.io",
-    "description":"the unborn."
-}
----
+~~Title:aje~~
+{{description>the unborn.}}
 
 ==== aje  ====
   * the unborn --- [[books:cc:antya:3:84|Antya 3.84]]

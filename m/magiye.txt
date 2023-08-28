@@ -1,11 +1,5 @@
----json
-{
-    "name":"māgiye",
-    "h1":"māgiye",
-    "title":"māgiye -- synonyms, prabhupada.io",
-    "description":"I am begging; I beg."
-}
----
+~~Title:māgiye~~
+{{description>I am begging; I beg.}}
 
 ==== māgiye  ====
   * I am begging --- [[books:cc:adi:1:25|Ādi 1.25]]

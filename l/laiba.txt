@@ -1,11 +1,5 @@
----json
-{
-    "name":"laibā",
-    "h1":"laibā",
-    "title":"laibā -- synonyms, prabhupada.io",
-    "description":"you should chant."
-}
----
+~~Title:laibā~~
+{{description>you should chant.}}
 
 ==== laibā  ====
   * you should chant --- [[books:cc:madhya:7:127|Madhya 7.127]]

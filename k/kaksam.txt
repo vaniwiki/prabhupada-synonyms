@@ -1,11 +1,5 @@
----json
-{
-    "name":"kaksam",
-    "h1":"kaksam",
-    "title":"kaksam -- synonyms, prabhupada.io",
-    "description":"dry grass."
-}
----
+~~Title:kaksam~~
+{{description>dry grass.}}
 
 ==== kakṣam  ====
   * dry grass --- [[books:sb:6:8:23|SB 6.8.23]]

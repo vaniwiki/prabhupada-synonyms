@@ -1,11 +1,5 @@
----json
-{
-    "name":"plutau",
-    "h1":"plutau",
-    "title":"plutau -- synonyms, prabhupada.io",
-    "description":"so absorbed in the mode of darkness."
-}
----
+~~Title:plutau~~
+{{description>so absorbed in the mode of darkness.}}
 
 ==== tamaḥ-plutau  ====
   * so absorbed in the mode of darkness --- [[books:sb:10:10:20-22|SB 10.10.20-22]]

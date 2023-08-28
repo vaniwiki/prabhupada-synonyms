@@ -1,11 +1,5 @@
----json
-{
-    "name":"candravat",
-    "h1":"candravat",
-    "title":"candravat -- synonyms, prabhupada.io",
-    "description":"making a semicircle like a half moon."
-}
----
+~~Title:candravat~~
+{{description>making a semicircle like a half moon.}}
 
 ==== ardha-candravat  ====
   * making a semicircle like a half moon --- [[books:sb:10:11:35|SB 10.11.35]]

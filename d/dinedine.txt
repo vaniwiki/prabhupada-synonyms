@@ -1,11 +1,5 @@
----json
-{
-    "name":"dinedine",
-    "h1":"dinedine",
-    "title":"dinedine -- synonyms, prabhupada.io",
-    "description":"day after day."
-}
----
+~~Title:dinedine~~
+{{description>day after day.}}
 
 ==== dinedine  ====
   * day after day --- [[books:cc:adi:12:5|Ādi 12.5]], [[books:cc:adi:13:119|Ādi 13.119]]

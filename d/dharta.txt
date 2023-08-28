@@ -1,11 +1,5 @@
----json
-{
-    "name":"dharta",
-    "h1":"dharta",
-    "title":"dharta -- synonyms, prabhupada.io",
-    "description":"held up."
-}
----
+~~Title:dharta~~
+{{description>held up.}}
 
 ==== dharta  ====
   * held up --- [[books:sb:2:7:32|SB 2.7.32]]

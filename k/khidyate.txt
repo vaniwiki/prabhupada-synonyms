@@ -1,11 +1,5 @@
----json
-{
-    "name":"khidyate",
-    "h1":"khidyate",
-    "title":"khidyate -- synonyms, prabhupada.io",
-    "description":"is troubling."
-}
----
+~~Title:khidyate~~
+{{description>is troubling.}}
 
 ==== khidyate  ====
   * is troubling --- [[books:sb:3:7:7|SB 3.7.7]]

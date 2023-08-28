@@ -1,11 +1,5 @@
----json
-{
-    "name":"arcane",
-    "h1":"arcane",
-    "title":"arcane -- synonyms, prabhupada.io",
-    "description":"in worship."
-}
----
+~~Title:arcane~~
+{{description>in worship.}}
 
 ==== arcane  ====
   * in worship --- [[books:sb:3:9:17|SB 3.9.17]]

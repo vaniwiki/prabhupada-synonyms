@@ -1,11 +1,5 @@
----json
-{
-    "name":"santu",
-    "h1":"santu",
-    "title":"santu -- synonyms, prabhupada.io",
-    "description":"let that become; let there be; may become."
-}
----
+~~Title:santu~~
+{{description>let that become; let there be; may become.}}
 
 ==== santu  ====
   * let that become --- [[books:cc:antya:1:2|Antya 1.2]]

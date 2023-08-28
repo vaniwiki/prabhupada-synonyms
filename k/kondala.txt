@@ -1,11 +1,5 @@
----json
-{
-    "name":"kondala",
-    "h1":"kondala",
-    "title":"kondala -- synonyms, prabhupada.io",
-    "description":"quarrel."
-}
----
+~~Title:kondala~~
+{{description>quarrel.}}
 
 ==== kondala  ====
   * quarrel --- [[books:cc:adi:10:23|Ādi 10.23]]

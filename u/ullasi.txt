@@ -1,11 +1,5 @@
----json
-{
-    "name":"ullasi",
-    "h1":"ullasi",
-    "title":"ullasi -- synonyms, prabhupada.io",
-    "description":"playing."
-}
----
+~~Title:ullasi~~
+{{description>playing.}}
 
 ==== ullāsi  ====
   * playing --- [[books:cc:madhya:1:84|Madhya 1.84]]

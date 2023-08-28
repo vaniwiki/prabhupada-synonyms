@@ -1,11 +1,5 @@
----json
-{
-    "name":"kahiba",
-    "h1":"kahiba",
-    "title":"kahiba -- synonyms, prabhupada.io",
-    "description":"I shall narrate; I shall say; I shall speak; I shall tell; shall describe; shall I describe; shall I say; we shall simply describe."
-}
----
+~~Title:kahiba~~
+{{description>I shall narrate; I shall say; I shall speak; I shall tell; shall describe; shall I describe; shall I say; we shall simply describe.}}
 
 ==== kahiba  ====
   * I shall narrate --- [[books:cc:madhya:1:75|Madhya 1.75]]

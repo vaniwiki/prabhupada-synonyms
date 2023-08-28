@@ -1,11 +1,5 @@
----json
-{
-    "name":"aniham",
-    "h1":"aniham",
-    "title":"aniham -- synonyms, prabhupada.io",
-    "description":"indifferent."
-}
----
+~~Title:aniham~~
+{{description>indifferent.}}
 
 ==== anīham  ====
   * indifferent --- [[books:sb:7:7:48|SB 7.7.48]]

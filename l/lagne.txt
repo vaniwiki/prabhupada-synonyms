@@ -1,11 +1,5 @@
----json
-{
-    "name":"lagne",
-    "h1":"lagne",
-    "title":"lagne -- synonyms, prabhupada.io",
-    "description":"in the birth moment."
-}
----
+~~Title:lagne~~
+{{description>in the birth moment.}}
 
 ==== lagne  ====
   * in the birth moment --- [[books:cc:adi:13:121|Ādi 13.121]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hatyām",
-    "h1":"hatyām",
-    "title":"hatyām -- synonyms, prabhupada.io",
-    "description":"killing of animals."
-}
----
+~~Title:hatyām~~
+{{description>killing of animals.}}
 
 ==== bhūta-hatyām  ====
   * killing of animals --- [[books:sb:1:8:52|SB 1.8.52]]

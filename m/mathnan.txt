@@ -1,11 +1,5 @@
----json
-{
-    "name":"mathnan",
-    "h1":"mathnan",
-    "title":"mathnan -- synonyms, prabhupada.io",
-    "description":"churning."
-}
----
+~~Title:mathnan~~
+{{description>churning.}}
 
 ==== mathnan  ====
   * churning --- [[books:sb:8:7:17|SB 8.7.17]]

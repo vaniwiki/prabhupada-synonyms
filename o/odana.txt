@@ -1,11 +1,5 @@
----json
-{
-    "name":"odana",
-    "h1":"odana",
-    "title":"odana -- synonyms, prabhupada.io",
-    "description":"one for bedding, one for the pillow."
-}
----
+~~Title:odana~~
+{{description>one for bedding, one for the pillow.}}
 
 ==== oḍana-pāḍane  ====
   * one for bedding, one for the pillow --- [[books:cc:antya:13:19|Antya 13.19]]

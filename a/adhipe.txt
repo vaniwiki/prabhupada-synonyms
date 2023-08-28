@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhipe",
-    "h1":"adhipe",
-    "title":"adhipe -- synonyms, prabhupada.io",
-    "description":"the master."
-}
----
+~~Title:adhipe~~
+{{description>the master.}}
 
 ==== adhipe  ====
   * the master --- [[books:sb:3:23:10|SB 3.23.10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"arkau",
-    "h1":"arkau",
-    "title":"arkau -- synonyms, prabhupada.io",
-    "description":"both the moon and the sun."
-}
----
+~~Title:arkau~~
+{{description>both the moon and the sun.}}
 
 ==== candra-arkau  ====
   * both the moon and the sun --- [[books:sb:8:9:26|SB 8.9.26]]

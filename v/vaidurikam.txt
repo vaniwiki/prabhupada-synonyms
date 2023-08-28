@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaidurikam",
-    "h1":"vaidurikam",
-    "title":"vaidurikam -- synonyms, prabhupada.io",
-    "description":"instructions by Vidura."
-}
----
+~~Title:vaidurikam~~
+{{description>instructions by Vidura.}}
 
 ==== vaidurikam  ====
   * instructions by Vidura --- [[books:sb:3:1:10|SB 3.1.10]]

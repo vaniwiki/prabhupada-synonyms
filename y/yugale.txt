@@ -1,11 +1,5 @@
----json
-{
-    "name":"yugale",
-    "h1":"yugale",
-    "title":"yugale -- synonyms, prabhupada.io",
-    "description":"on the two eyes."
-}
----
+~~Title:yugale~~
+{{description>on the two eyes.}}
 
 ==== netra-yugale  ====
   * on the two eyes --- [[books:cc:madhya:8:173|Madhya 8.173]]

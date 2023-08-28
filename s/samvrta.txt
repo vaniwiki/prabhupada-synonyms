@@ -1,11 +1,5 @@
----json
-{
-    "name":"samvrta",
-    "h1":"samvrta",
-    "title":"samvrta -- synonyms, prabhupada.io",
-    "description":"covered; restrained."
-}
----
+~~Title:samvrta~~
+{{description>covered; restrained.}}
 
 ==== saṁvṛta  ====
   * covered --- [[books:sb:4:16:10|SB 4.16.10]]

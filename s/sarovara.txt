@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarovara",
-    "h1":"sarovara",
-    "title":"sarovara -- synonyms, prabhupada.io",
-    "description":"the lake."
-}
----
+~~Title:sarovara~~
+{{description>the lake.}}
 
 ==== sarovara  ====
   * the lake --- [[books:cc:madhya:9:78|Madhya 9.78]]

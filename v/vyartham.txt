@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyartham",
-    "h1":"vyartham",
-    "title":"vyartham -- synonyms, prabhupada.io",
-    "description":"uselessly."
-}
----
+~~Title:vyartham~~
+{{description>uselessly.}}
 
 ==== vyartham  ====
   * uselessly --- [[books:sb:4:9:34|SB 4.9.34]]

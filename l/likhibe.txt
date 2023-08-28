@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhibe",
-    "h1":"likhibe",
-    "title":"likhibe -- synonyms, prabhupada.io",
-    "description":"whatever you write."
-}
----
+~~Title:likhibe~~
+{{description>whatever you write.}}
 
 ==== ye kichu likhibe  ====
   * whatever you write --- [[books:cc:antya:7:134|Antya 7.134]]

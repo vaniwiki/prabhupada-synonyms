@@ -1,11 +1,5 @@
----json
-{
-    "name":"tanutra",
-    "h1":"tanutra",
-    "title":"tanutra -- synonyms, prabhupada.io",
-    "description":"armor."
-}
----
+~~Title:tanutra~~
+{{description>armor.}}
 
 ==== tanutra  ====
   * armor --- [[books:sb:8:10:37|SB 8.10.37]]

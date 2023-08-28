@@ -1,11 +1,5 @@
----json
-{
-    "name":"kapha",
-    "h1":"kapha",
-    "title":"kapha -- synonyms, prabhupada.io",
-    "description":"with mucus."
-}
----
+~~Title:kapha~~
+{{description>with mucus.}}
 
 ==== kapha  ====
   * with mucus --- [[books:sb:3:30:16|SB 3.30.16]]

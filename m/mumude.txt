@@ -1,11 +1,5 @@
----json
-{
-    "name":"mumude",
-    "h1":"mumude",
-    "title":"mumude -- synonyms, prabhupada.io",
-    "description":"enjoyed; enjoyed life."
-}
----
+~~Title:mumude~~
+{{description>enjoyed; enjoyed life.}}
 
 ==== mumude  ====
   * enjoyed --- [[books:sb:6:1:25|SB 6.1.25]], [[books:sb:8:23:25|SB 8.23.25]]

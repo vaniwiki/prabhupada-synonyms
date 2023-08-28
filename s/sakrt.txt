@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakrt",
-    "h1":"sakrt",
-    "title":"sakrt -- synonyms, prabhupada.io",
-    "description":"at one time; even once; once; once only; once only, immediately; once upon a time; once, at one time; only once; sometimes."
-}
----
+~~Title:sakrt~~
+{{description>at one time; even once; once; once only; once only, immediately; once upon a time; once, at one time; only once; sometimes.}}
 
 ==== sakṛt  ====
   * at one time --- [[books:sb:10:13:55|SB 10.13.55]]

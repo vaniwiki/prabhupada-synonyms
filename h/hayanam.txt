@@ -1,11 +1,5 @@
----json
-{
-    "name":"hayanam",
-    "h1":"hayanam",
-    "title":"hayanam -- synonyms, prabhupada.io",
-    "description":"horses; of the horses."
-}
----
+~~Title:hayanam~~
+{{description>horses; of the horses.}}
 
 ==== hayānām  ====
   * horses --- [[books:sb:9:15:5-6|SB 9.15.5-6]]

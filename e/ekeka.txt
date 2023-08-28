@@ -1,11 +1,5 @@
----json
-{
-    "name":"ekeka",
-    "h1":"ekeka",
-    "title":"ekeka -- synonyms, prabhupada.io",
-    "description":"each and every."
-}
----
+~~Title:ekeka~~
+{{description>each and every.}}
 
 ==== ekeka  ====
   * each and every --- [[books:cc:antya:18:52|Antya 18.52]]

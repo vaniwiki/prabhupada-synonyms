@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthena",
-    "h1":"sthena",
-    "title":"sthena -- synonyms, prabhupada.io",
-    "description":"situated on the water."
-}
----
+~~Title:sthena~~
+{{description>situated on the water.}}
 
 ==== jala-sthena  ====
   * situated on the water --- [[books:sb:3:27:12|SB 3.27.12]]

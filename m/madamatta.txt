@@ -1,11 +1,5 @@
----json
-{
-    "name":"madamatta",
-    "h1":"madamatta",
-    "title":"madamatta -- synonyms, prabhupada.io",
-    "description":"madman."
-}
----
+~~Title:madamatta~~
+{{description>madman.}}
 
 ==== madamatta  ====
   * madman --- [[books:cc:adi:7:78|Ādi 7.78]]

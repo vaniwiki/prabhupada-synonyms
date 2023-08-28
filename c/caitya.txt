@@ -1,11 +1,5 @@
----json
-{
-    "name":"caitya",
-    "h1":"caitya",
-    "title":"caitya -- synonyms, prabhupada.io",
-    "description":"raised platforms; resting places; temples."
-}
----
+~~Title:caitya~~
+{{description>raised platforms; resting places; temples.}}
 
 ==== caitya  ====
   * raised platforms --- [[books:sb:9:11:27|SB 9.11.27]]

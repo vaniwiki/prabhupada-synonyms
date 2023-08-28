@@ -1,11 +1,5 @@
----json
-{
-    "name":"aditim",
-    "h1":"aditim",
-    "title":"aditim -- synonyms, prabhupada.io",
-    "description":"Aditi, mother of the demigods."
-}
----
+~~Title:aditim~~
+{{description>Aditi, mother of the demigods.}}
 
 ==== aditim  ====
   * Aditi, mother of the demigods --- [[books:sb:2:3:2-7|SB 2.3.2-7]]

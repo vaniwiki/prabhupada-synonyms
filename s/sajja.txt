@@ -1,11 +1,5 @@
----json
-{
-    "name":"sajja",
-    "h1":"sajja",
-    "title":"sajja -- synonyms, prabhupada.io",
-    "description":"worshipable paraphernalia."
-}
----
+~~Title:sajja~~
+{{description>worshipable paraphernalia.}}
 
 ==== sajja  ====
   * worshipable paraphernalia --- [[books:cc:adi:14:53|Ādi 14.53]]

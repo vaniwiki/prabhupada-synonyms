@@ -1,11 +1,5 @@
----json
-{
-    "name":"navasu",
-    "h1":"navasu",
-    "title":"navasu -- synonyms, prabhupada.io",
-    "description":"in the nine."
-}
----
+~~Title:navasu~~
+{{description>in the nine.}}
 
 ==== navasu  ====
   * in the nine --- [[books:sb:5:17:14|SB 5.17.14]]

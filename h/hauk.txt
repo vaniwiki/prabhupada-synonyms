@@ -1,11 +1,5 @@
----json
-{
-    "name":"hauk",
-    "h1":"hauk",
-    "title":"hauk -- synonyms, prabhupada.io",
-    "description":"let there be."
-}
----
+~~Title:hauk~~
+{{description>let there be.}}
 
 ==== hauk  ====
   * let there be --- [[books:cc:adi:4:237|Ādi 4.237]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirveda",
-    "h1":"nirveda",
-    "title":"nirveda -- synonyms, prabhupada.io",
-    "description":"despondency; disappointment."
-}
----
+~~Title:nirveda~~
+{{description>despondency; disappointment.}}
 
 ==== nirveda  ====
   * despondency --- [[books:cc:madhya:2:76|Madhya 2.76]]

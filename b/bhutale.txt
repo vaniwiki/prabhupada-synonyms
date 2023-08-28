@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhūtale",
-    "h1":"bhūtale",
-    "title":"bhūtale -- synonyms, prabhupada.io",
-    "description":"on this planet."
-}
----
+~~Title:bhūtale~~
+{{description>on this planet.}}
 
 ==== bhūtale  ====
   * on this planet --- [[books:sb:1:13:9|SB 1.13.9]]

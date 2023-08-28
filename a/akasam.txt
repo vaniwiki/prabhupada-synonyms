@@ -1,11 +1,5 @@
----json
-{
-    "name":"ākāśam",
-    "h1":"ākāśam",
-    "title":"ākāśam -- synonyms, prabhupada.io",
-    "description":"sky; the sky."
-}
----
+~~Title:ākāśam~~
+{{description>sky; the sky.}}
 
 ==== ākāśam  ====
   * sky --- [[books:sb:4:24:60|SB 4.24.60]]

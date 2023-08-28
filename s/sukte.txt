@@ -1,11 +1,5 @@
----json
-{
-    "name":"sūkte",
-    "h1":"sūkte",
-    "title":"sūkte -- synonyms, prabhupada.io",
-    "description":"Vedic hymns."
-}
----
+~~Title:sūkte~~
+{{description>Vedic hymns.}}
 
 ==== sūkte  ====
   * Vedic hymns --- [[books:sb:9:4:4-5|SB 9.4.4-5]]

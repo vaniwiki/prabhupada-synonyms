@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedāt",
-    "h1":"vedāt",
-    "title":"vedāt -- synonyms, prabhupada.io",
-    "description":"from the principles of the Vedas."
-}
----
+~~Title:vedāt~~
+{{description>from the principles of the Vedas.}}
 
 ==== vedāt  ====
   * from the principles of the //Vedas// --- [[books:sb:9:22:16-17|SB 9.22.16-17]]

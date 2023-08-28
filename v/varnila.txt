@@ -1,11 +1,5 @@
----json
-{
-    "name":"varnila",
-    "h1":"varnila",
-    "title":"varnila -- synonyms, prabhupada.io",
-    "description":"described."
-}
----
+~~Title:varnila~~
+{{description>described.}}
 
 ==== varṇila  ====
   * described --- [[books:cc:adi:8:44|Ādi 8.44]], [[books:cc:adi:17:235|Ādi 17.235]], [[books:cc:antya:20:73|Antya 20.73]]

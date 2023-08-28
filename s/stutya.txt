@@ -1,11 +1,5 @@
----json
-{
-    "name":"stutya",
-    "h1":"stutya",
-    "title":"stutya -- synonyms, prabhupada.io",
-    "description":"Stutyavrata."
-}
----
+~~Title:stutya~~
+{{description>Stutyavrata.}}
 
 ==== stutya-vrata  ====
   * Stutyavrata --- [[books:sb:5:20:14|SB 5.20.14]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhasyat",
-    "h1":"adhasyat",
-    "title":"adhasyat -- synonyms, prabhupada.io",
-    "description":"will keep."
-}
----
+~~Title:adhasyat~~
+{{description>will keep.}}
 
 ==== adhāsyat  ====
   * will keep --- [[books:cc:adi:6:68|Ādi 6.68]]

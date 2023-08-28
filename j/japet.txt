@@ -1,11 +1,5 @@
----json
-{
-    "name":"japet",
-    "h1":"japet",
-    "title":"japet -- synonyms, prabhupada.io",
-    "description":"should silently murmur; should utter."
-}
----
+~~Title:japet~~
+{{description>should silently murmur; should utter.}}
 
 ==== japet  ====
   * should silently murmur --- [[books:sb:8:16:42|SB 8.16.42]]

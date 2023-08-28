@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikari",
-    "h1":"vikari",
-    "title":"vikari -- synonyms, prabhupada.io",
-    "description":"changes."
-}
----
+~~Title:vikari~~
+{{description>changes.}}
 
 ==== vikāri  ====
   * changes --- [[books:bg:13:4|Bg. 13.4]]

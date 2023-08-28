@@ -1,11 +1,5 @@
----json
-{
-    "name":"varnitah",
-    "h1":"varnitah",
-    "title":"varnitah -- synonyms, prabhupada.io",
-    "description":"described; explained (by me)."
-}
----
+~~Title:varnitah~~
+{{description>described; explained (by me).}}
 
 ==== varṇitaḥ  ====
   * described --- [[books:sb:3:12:1|SB 3.12.1]], [[books:sb:3:14:7|SB 3.14.7]]

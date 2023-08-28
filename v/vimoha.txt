@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimoha",
-    "h1":"vimoha",
-    "title":"vimoha -- synonyms, prabhupada.io",
-    "description":"without illusion."
-}
----
+~~Title:vimoha~~
+{{description>without illusion.}}
 
 ==== vimoha  ====
   * without illusion --- [[books:sb:2:9:9|SB 2.9.9]]

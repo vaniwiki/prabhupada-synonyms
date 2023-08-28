@@ -1,11 +1,5 @@
----json
-{
-    "name":"cartum",
-    "h1":"cartum",
-    "title":"cartum -- synonyms, prabhupada.io",
-    "description":"to execute."
-}
----
+~~Title:cartum~~
+{{description>to execute.}}
 
 ==== cartum  ====
   * to execute --- [[books:sb:5:2:15|SB 5.2.15]]

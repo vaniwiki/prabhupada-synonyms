@@ -1,11 +1,5 @@
----json
-{
-    "name":"janata",
-    "h1":"janata",
-    "title":"janata -- synonyms, prabhupada.io",
-    "description":"public support; the living entities; the people in general."
-}
----
+~~Title:janata~~
+{{description>public support; the living entities; the people in general.}}
 
 ==== janatā  ====
   * public support --- [[books:cc:antya:3:60|Antya 3.60]]

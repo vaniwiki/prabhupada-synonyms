@@ -1,11 +1,5 @@
----json
-{
-    "name":"trastah",
-    "h1":"trastah",
-    "title":"trastah -- synonyms, prabhupada.io",
-    "description":"frightened."
-}
----
+~~Title:trastah~~
+{{description>frightened.}}
 
 ==== trastaḥ  ====
   * frightened --- [[books:sb:7:9:16|SB 7.9.16]]

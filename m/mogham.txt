@@ -1,11 +1,5 @@
----json
-{
-    "name":"mogham",
-    "h1":"mogham",
-    "title":"mogham -- synonyms, prabhupada.io",
-    "description":"useless."
-}
----
+~~Title:mogham~~
+{{description>useless.}}
 
 ==== mogham  ====
   * useless --- [[books:bg:3:16|Bg. 3.16]]

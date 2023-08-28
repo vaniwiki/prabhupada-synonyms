@@ -1,11 +1,5 @@
----json
-{
-    "name":"virājitena",
-    "h1":"virājitena",
-    "title":"virājitena -- synonyms, prabhupada.io",
-    "description":"illumined."
-}
----
+~~Title:virājitena~~
+{{description>illumined.}}
 
 ==== virājitena  ====
   * illumined --- [[books:sb:5:5:10-13|SB 5.5.10-13]]

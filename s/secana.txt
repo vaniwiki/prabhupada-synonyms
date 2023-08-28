@@ -1,11 +1,5 @@
----json
-{
-    "name":"secana",
-    "h1":"secana",
-    "title":"secana -- synonyms, prabhupada.io",
-    "description":"sprinkling."
-}
----
+~~Title:secana~~
+{{description>sprinkling.}}
 
 ==== secana  ====
   * sprinkling --- [[books:cc:madhya:19:152|Madhya 19.152]]

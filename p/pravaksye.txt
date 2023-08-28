@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravakṣye",
-    "h1":"pravakṣye",
-    "title":"pravakṣye -- synonyms, prabhupada.io",
-    "description":"I shall explain."
-}
----
+~~Title:pravakṣye~~
+{{description>I shall explain.}}
 
 ==== pravakṣye  ====
   * I shall explain --- [[books:bg:8:11|Bg. 8.11]]

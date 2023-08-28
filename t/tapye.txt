@@ -1,11 +1,5 @@
----json
-{
-    "name":"tapye",
-    "h1":"tapye",
-    "title":"tapye -- synonyms, prabhupada.io",
-    "description":"I lamented."
-}
----
+~~Title:tapye~~
+{{description>I lamented.}}
 
 ==== tapye  ====
   * I lamented --- [[books:sb:4:9:33|SB 4.9.33]]

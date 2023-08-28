@@ -1,11 +1,5 @@
----json
-{
-    "name":"vyavaharet",
-    "h1":"vyavaharet",
-    "title":"vyavaharet -- synonyms, prabhupada.io",
-    "description":"should behave externally."
-}
----
+~~Title:vyavaharet~~
+{{description>should behave externally.}}
 
 ==== vyavaharet  ====
   * should behave externally --- [[books:sb:7:12:6|SB 7.12.6]]

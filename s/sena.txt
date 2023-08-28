@@ -1,11 +1,5 @@
----json
-{
-    "name":"sena",
-    "h1":"sena",
-    "title":"sena -- synonyms, prabhupada.io",
-    "description":"Śivānanda Sena."
-}
----
+~~Title:sena~~
+{{description>Śivānanda Sena.}}
 
 ==== sena  ====
   * Śivānanda Sena --- [[books:cc:antya:12:45|Antya 12.45]]

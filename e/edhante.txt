@@ -1,11 +1,5 @@
----json
-{
-    "name":"edhante",
-    "h1":"edhante",
-    "title":"edhante -- synonyms, prabhupada.io",
-    "description":"generate; increasing."
-}
----
+~~Title:edhante~~
+{{description>generate; increasing.}}
 
 ==== edhante  ====
   * generate --- [[books:sb:3:12:51|SB 3.12.51]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"prota",
-    "h1":"prota",
-    "title":"prota -- synonyms, prabhupada.io",
-    "description":"linked."
-}
----
+~~Title:prota~~
+{{description>linked.}}
 
 ==== prota  ====
   * linked --- [[books:sb:3:15:6|SB 3.15.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hasite",
-    "h1":"hasite",
-    "title":"hasite -- synonyms, prabhupada.io",
-    "description":"in His smiling."
-}
----
+~~Title:hasite~~
+{{description>in His smiling.}}
 
 ==== hasite  ====
   * in His smiling --- [[books:sb:8:20:25-29|SB 8.20.25-29]]

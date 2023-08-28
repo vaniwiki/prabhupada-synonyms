@@ -1,11 +1,5 @@
----json
-{
-    "name":"piñcha",
-    "h1":"piñcha",
-    "title":"piñcha -- synonyms, prabhupada.io",
-    "description":"a peacock feather."
-}
----
+~~Title:piñcha~~
+{{description>a peacock feather.}}
 
 ==== piñcha  ====
   * a peacock feather --- [[books:cc:madhya:21:109|Madhya 21.109]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anudāsyam",
-    "h1":"anudāsyam",
-    "title":"anudāsyam -- synonyms, prabhupada.io",
-    "description":"the service."
-}
----
+~~Title:anudāsyam~~
+{{description>the service.}}
 
 ==== anudāsyam  ====
   * the service --- [[books:sb:5:24:25|SB 5.24.25]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"jīvan",
-    "h1":"jīvan",
-    "title":"jīvan -- synonyms, prabhupada.io",
-    "description":"living; while living."
-}
----
+~~Title:jīvan~~
+{{description>living; while living.}}
 
 ==== jīvan  ====
   * living --- [[books:sb:3:23:56|SB 3.23.56]]

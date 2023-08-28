@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimukti",
-    "h1":"vimukti",
-    "title":"vimukti -- synonyms, prabhupada.io",
-    "description":"the process of liberation."
-}
----
+~~Title:vimukti~~
+{{description>the process of liberation.}}
 
 ==== vimukti-daḥ  ====
   * the process of liberation --- [[books:sb:8:24:46|SB 8.24.46]]

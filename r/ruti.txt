@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruti",
-    "h1":"ruti",
-    "title":"ruti -- synonyms, prabhupada.io",
-    "description":"chapatis; of chapatis."
-}
----
+~~Title:ruti~~
+{{description>chapatis; of chapatis.}}
 
 ==== ruṭi  ====
   * chapatis --- [[books:cc:madhya:4:71|Madhya 4.71]]

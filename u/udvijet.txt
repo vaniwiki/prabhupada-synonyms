@@ -1,11 +1,5 @@
----json
-{
-    "name":"udvijet",
-    "h1":"udvijet",
-    "title":"udvijet -- synonyms, prabhupada.io",
-    "description":"agitated."
-}
----
+~~Title:udvijet~~
+{{description>agitated.}}
 
 ==== udvijet  ====
   * agitated --- [[books:bg:5:20|Bg. 5.20]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samabhyasat",
-    "h1":"samabhyasat",
-    "title":"samabhyasat -- synonyms, prabhupada.io",
-    "description":"undergo the studies."
-}
----
+~~Title:samabhyasat~~
+{{description>undergo the studies.}}
 
 ==== samabhyasat  ====
   * undergo the studies --- [[books:sb:1:7:9|SB 1.7.9]]

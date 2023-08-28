@@ -1,11 +1,5 @@
----json
-{
-    "name":"iyantam",
-    "h1":"iyantam",
-    "title":"iyantam -- synonyms, prabhupada.io",
-    "description":"this much."
-}
----
+~~Title:iyantam~~
+{{description>this much.}}
 
 ==== iyantam  ====
   * this much --- [[books:mm:3|MM 3]]

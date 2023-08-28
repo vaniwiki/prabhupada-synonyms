@@ -1,11 +1,5 @@
----json
-{
-    "name":"lokyam",
-    "h1":"lokyam",
-    "title":"lokyam -- synonyms, prabhupada.io",
-    "description":"in the world."
-}
----
+~~Title:lokyam~~
+{{description>in the world.}}
 
 ==== lokyām  ====
   * in the world --- [[books:sb:3:14:37|SB 3.14.37]]

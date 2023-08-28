@@ -1,11 +1,5 @@
----json
-{
-    "name":"āmikahi",
-    "h1":"āmikahi",
-    "title":"āmikahi -- synonyms, prabhupada.io",
-    "description":"I said."
-}
----
+~~Title:āmikahi~~
+{{description>I said.}}
 
 ==== āmikahi  ====
   * I said --- [[books:cc:adi:15:19|Ādi 15.19]]

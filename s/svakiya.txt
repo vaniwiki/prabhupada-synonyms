@@ -1,11 +1,5 @@
----json
-{
-    "name":"svakiya",
-    "h1":"svakiya",
-    "title":"svakiya -- synonyms, prabhupada.io",
-    "description":"personal."
-}
----
+~~Title:svakiya~~
+{{description>personal.}}
 
 ==== svakīya  ====
   * personal --- [[books:cc:madhya:6:203|Madhya 6.203]]

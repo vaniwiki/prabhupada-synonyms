@@ -1,11 +1,5 @@
----json
-{
-    "name":"srngi",
-    "h1":"srngi",
-    "title":"srngi -- synonyms, prabhupada.io",
-    "description":"with the cows."
-}
----
+~~Title:srngi~~
+{{description>with the cows.}}
 
 ==== śṛṅgī  ====
   * with the cows --- [[books:sb:10:8:25|SB 10.8.25]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"senah",
-    "h1":"senah",
-    "title":"senah -- synonyms, prabhupada.io",
-    "description":"Bhadrasena."
-}
----
+~~Title:senah~~
+{{description>Bhadrasena.}}
 
 ==== bhadra-senaḥ  ====
   * Bhadrasena --- [[books:sb:5:4:10|SB 5.4.10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"samānau",
-    "h1":"samānau",
-    "title":"samānau -- synonyms, prabhupada.io",
-    "description":"in equilibrium."
-}
----
+~~Title:samānau~~
+{{description>in equilibrium.}}
 
 ==== samānau  ====
   * in equilibrium --- [[books:sb:4:4:25|SB 4.4.25]]

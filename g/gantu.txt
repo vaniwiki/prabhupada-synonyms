@@ -1,11 +1,5 @@
----json
-{
-    "name":"gantu",
-    "h1":"gantu",
-    "title":"gantu -- synonyms, prabhupada.io",
-    "description":"thinking of going."
-}
----
+~~Title:gantu~~
+{{description>thinking of going.}}
 
 ==== gantu-manāḥ  ====
   * thinking of going --- [[books:cc:madhya:3:1|Madhya 3.1]]

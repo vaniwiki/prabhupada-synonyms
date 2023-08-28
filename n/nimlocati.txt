@@ -1,11 +1,5 @@
----json
-{
-    "name":"nimlocati",
-    "h1":"nimlocati",
-    "title":"nimlocati -- synonyms, prabhupada.io",
-    "description":"sets; the sun sets; while setting."
-}
----
+~~Title:nimlocati~~
+{{description>sets; the sun sets; while setting.}}
 
 ==== nimlocati  ====
   * sets --- [[books:sb:3:4:2|SB 3.4.2]], [[books:sb:5:8:19|SB 5.8.19]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nava",
-    "h1":"nava",
-    "title":"nava -- synonyms, prabhupada.io",
-    "description":"ever fresh; fresh; new; newly grown; nine."
-}
----
+~~Title:nava~~
+{{description>ever fresh; fresh; new; newly grown; nine.}}
 
 ==== nava  ====
   * ever fresh --- [[books:sb:5:25:7|SB 5.25.7]]

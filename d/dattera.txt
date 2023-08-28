@@ -1,11 +1,5 @@
----json
-{
-    "name":"dattera",
-    "h1":"dattera",
-    "title":"dattera -- synonyms, prabhupada.io",
-    "description":"of Vāsudeva Datta."
-}
----
+~~Title:dattera~~
+{{description>of Vāsudeva Datta.}}
 
 ==== vāsudeva dattera  ====
   * of Vāsudeva Datta --- [[books:cc:adi:12:57|Ādi 12.57]]

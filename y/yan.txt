@@ -1,11 +1,5 @@
----json
-{
-    "name":"yan",
-    "h1":"yan",
-    "title":"yan -- synonyms, prabhupada.io",
-    "description":"moving."
-}
----
+~~Title:yan~~
+{{description>moving.}}
 
 ==== yan  ====
   * moving --- [[books:sb:2:3:17|SB 2.3.17]]

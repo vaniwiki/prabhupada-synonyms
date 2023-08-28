@@ -1,11 +1,5 @@
----json
-{
-    "name":"ksami",
-    "h1":"ksami",
-    "title":"ksami -- synonyms, prabhupada.io",
-    "description":"forgiving; tolerant to offenses created by others."
-}
----
+~~Title:ksami~~
+{{description>forgiving; tolerant to offenses created by others.}}
 
 ==== kṣamī  ====
   * forgiving --- [[books:bg:12:13-14|Bg. 12.13-14]]

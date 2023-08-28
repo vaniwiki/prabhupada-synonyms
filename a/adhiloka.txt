@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhiloka",
-    "h1":"adhiloka",
-    "title":"adhiloka -- synonyms, prabhupada.io",
-    "description":"the King of the kings."
-}
----
+~~Title:adhiloka~~
+{{description>the King of the kings.}}
 
 ==== adhiloka-nāthaḥ  ====
   * the King of the kings --- [[books:sb:3:5:8|SB 3.5.8]]

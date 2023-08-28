@@ -1,11 +1,5 @@
----json
-{
-    "name":"hārāinu",
-    "h1":"hārāinu",
-    "title":"hārāinu -- synonyms, prabhupada.io",
-    "description":"I have lost."
-}
----
+~~Title:hārāinu~~
+{{description>I have lost.}}
 
 ==== hārāinu  ====
   * I have lost --- [[books:cc:antya:15:79|Antya 15.79]]

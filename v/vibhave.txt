@@ -1,11 +1,5 @@
----json
-{
-    "name":"vibhave",
-    "h1":"vibhave",
-    "title":"vibhave -- synonyms, prabhupada.io",
-    "description":"if available."
-}
----
+~~Title:vibhave~~
+{{description>if available.}}
 
 ==== vibhave  ====
   * if available --- [[books:sb:8:16:40|SB 8.16.40]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"stava",
-    "h1":"stava",
-    "title":"stava -- synonyms, prabhupada.io",
-    "description":"praise; prayers."
-}
----
+~~Title:stava~~
+{{description>praise; prayers.}}
 
 ==== stava  ====
   * praise --- [[books:sb:7:1:23|SB 7.1.23]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"phire",
-    "h1":"phire",
-    "title":"phire -- synonyms, prabhupada.io",
-    "description":"changes; graze; moved; moves; return; rotates; turns; wander; wanders."
-}
----
+~~Title:phire~~
+{{description>changes; graze; moved; moves; return; rotates; turns; wander; wanders.}}
 
 ==== phire  ====
   * changes --- [[books:cc:antya:2:96|Antya 2.96]]

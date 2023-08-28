@@ -1,11 +1,5 @@
----json
-{
-    "name":"prestha",
-    "h1":"prestha",
-    "title":"prestha -- synonyms, prabhupada.io",
-    "description":"O My most dear one."
-}
----
+~~Title:prestha~~
+{{description>O My most dear one.}}
 
 ==== preṣṭha  ====
   * O My most dear one --- [[books:cc:adi:6:71|Ādi 6.71]]

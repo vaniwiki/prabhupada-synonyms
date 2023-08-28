@@ -1,11 +1,5 @@
----json
-{
-    "name":"jatam",
-    "h1":"jatam",
-    "title":"jatam -- synonyms, prabhupada.io",
-    "description":"a bunch of hair; one hair."
-}
----
+~~Title:jatam~~
+{{description>a bunch of hair; one hair.}}
 
 ==== jaṭām  ====
   * a bunch of hair --- [[books:sb:9:4:46|SB 9.4.46]]

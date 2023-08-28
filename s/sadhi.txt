@@ -1,11 +1,5 @@
----json
-{
-    "name":"sadhi",
-    "h1":"sadhi",
-    "title":"sadhi -- synonyms, prabhupada.io",
-    "description":"derive."
-}
----
+~~Title:sadhi~~
+{{description>derive.}}
 
 ==== sādhi  ====
   * derive --- [[books:cc:madhya:6:81|Madhya 6.81]]

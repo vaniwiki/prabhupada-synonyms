@@ -1,11 +1,5 @@
----json
-{
-    "name":"kubje",
-    "h1":"kubje",
-    "title":"kubje -- synonyms, prabhupada.io",
-    "description":"in the city of Kānyakubja (Kanauj, a town near Kanpur)."
-}
----
+~~Title:kubje~~
+{{description>in the city of Kānyakubja (Kanauj, a town near Kanpur).}}
 
 ==== kānya-kubje  ====
   * in the city of Kānyakubja (Kanauj, a town near Kanpur) --- [[books:sb:6:1:21|SB 6.1.21]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ganga",
-    "h1":"ganga",
-    "title":"ganga -- synonyms, prabhupada.io",
-    "description":"Ganges; mother Ganges; of the Ganges; the Ganges; the River Ganges; the River Gaṅgā; the sacred Ganges."
-}
----
+~~Title:ganga~~
+{{description>Ganges; mother Ganges; of the Ganges; the Ganges; the River Ganges; the River Gaṅgā; the sacred Ganges.}}
 
 ==== gaṅgā  ====
   * Ganges --- [[books:cc:adi:7:158|Ādi 7.158]]

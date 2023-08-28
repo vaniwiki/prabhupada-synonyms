@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhartsinu",
-    "h1":"bhartsinu",
-    "title":"bhartsinu -- synonyms, prabhupada.io",
-    "description":"chastised."
-}
----
+~~Title:bhartsinu~~
+{{description>chastised.}}
 
 ==== bhartsinu  ====
   * chastised --- [[books:cc:adi:5:180|Ādi 5.180]]

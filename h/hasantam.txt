@@ -1,11 +1,5 @@
----json
-{
-    "name":"hasantam",
-    "h1":"hasantam",
-    "title":"hasantam -- synonyms, prabhupada.io",
-    "description":"smiling."
-}
----
+~~Title:hasantam~~
+{{description>smiling.}}
 
 ==== hasantam  ====
   * smiling --- [[books:sb:6:1:58-60|SB 6.1.58-60]]

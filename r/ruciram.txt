@@ -1,11 +1,5 @@
----json
-{
-    "name":"ruciram",
-    "h1":"ruciram",
-    "title":"ruciram -- synonyms, prabhupada.io",
-    "description":"beautiful; very attractive."
-}
----
+~~Title:ruciram~~
+{{description>beautiful; very attractive.}}
 
 ==== ruciram  ====
   * beautiful --- [[books:sb:9:1:23-24|SB 9.1.23-24]]

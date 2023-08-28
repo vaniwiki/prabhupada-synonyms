@@ -1,11 +1,5 @@
----json
-{
-    "name":"tanka",
-    "h1":"tanka",
-    "title":"tanka -- synonyms, prabhupada.io",
-    "description":"rupees."
-}
----
+~~Title:tanka~~
+{{description>rupees.}}
 
 ==== taṅkā  ====
   * rupees --- [[books:cc:adi:12:32|Ādi 12.32]]

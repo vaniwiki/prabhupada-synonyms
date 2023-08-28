@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandhave",
-    "h1":"bandhave",
-    "title":"bandhave -- synonyms, prabhupada.io",
-    "description":"unto the controller."
-}
----
+~~Title:bandhave~~
+{{description>unto the controller.}}
 
 ==== bandhave  ====
   * unto the controller --- [[books:sb:6:4:23|SB 6.4.23]]

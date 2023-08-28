@@ -1,11 +1,5 @@
----json
-{
-    "name":"tantra",
-    "h1":"tantra",
-    "title":"tantra -- synonyms, prabhupada.io",
-    "description":"of scriptures; of the supplementary Vedic literature."
-}
----
+~~Title:tantra~~
+{{description>of scriptures; of the supplementary Vedic literature.}}
 
 ==== tantra  ====
   * of scriptures --- [[books:cc:adi:3:51|Ādi 3.51]]

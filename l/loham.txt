@@ -1,11 +1,5 @@
----json
-{
-    "name":"loham",
-    "h1":"loham",
-    "title":"loham -- synonyms, prabhupada.io",
-    "description":"gold."
-}
----
+~~Title:loham~~
+{{description>gold.}}
 
 ==== loham  ====
   * gold --- [[books:sb:3:28:10|SB 3.28.10]]

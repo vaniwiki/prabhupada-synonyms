@@ -1,11 +1,5 @@
----json
-{
-    "name":"paratantra",
-    "h1":"paratantra",
-    "title":"paratantra -- synonyms, prabhupada.io",
-    "description":"dependent."
-}
----
+~~Title:paratantra~~
+{{description>dependent.}}
 
 ==== paratantra  ====
   * dependent --- [[books:cc:antya:7:151|Antya 7.151]]

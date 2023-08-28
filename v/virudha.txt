@@ -1,11 +1,5 @@
----json
-{
-    "name":"virudha",
-    "h1":"virudha",
-    "title":"virudha -- synonyms, prabhupada.io",
-    "description":"developed."
-}
----
+~~Title:virudha~~
+{{description>developed.}}
 
 ==== virūḍha  ====
   * developed --- [[books:sb:3:8:22|SB 3.8.22]]

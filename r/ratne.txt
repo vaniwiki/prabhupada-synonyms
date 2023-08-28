@@ -1,11 +1,5 @@
----json
-{
-    "name":"ratne",
-    "h1":"ratne",
-    "title":"ratne -- synonyms, prabhupada.io",
-    "description":"with jewels."
-}
----
+~~Title:ratne~~
+{{description>with jewels.}}
 
 ==== ratne  ====
   * with jewels --- [[books:cc:madhya:1:156|Madhya 1.156]]

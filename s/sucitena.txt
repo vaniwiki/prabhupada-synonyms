@@ -1,11 +1,5 @@
----json
-{
-    "name":"sūcitena",
-    "h1":"sūcitena",
-    "title":"sūcitena -- synonyms, prabhupada.io",
-    "description":"by description."
-}
----
+~~Title:sūcitena~~
+{{description>by description.}}
 
 ==== sūcitena  ====
   * by description --- [[books:sb:1:18:20|SB 1.18.20]]

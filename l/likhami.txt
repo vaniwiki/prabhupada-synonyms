@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhāmi",
-    "h1":"likhāmi",
-    "title":"likhāmi -- synonyms, prabhupada.io",
-    "description":"I am writing."
-}
----
+~~Title:likhāmi~~
+{{description>I am writing.}}
 
 ==== likhāmi  ====
   * I am writing --- [[books:cc:madhya:21:1|Madhya 21.1]]

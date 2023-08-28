@@ -1,11 +1,5 @@
----json
-{
-    "name":"bodham",
-    "h1":"bodham",
-    "title":"bodham -- synonyms, prabhupada.io",
-    "description":"intelligence."
-}
----
+~~Title:bodham~~
+{{description>intelligence.}}
 
 ==== bodham  ====
   * intelligence --- [[books:sb:3:5:46|SB 3.5.46]]

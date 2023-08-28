@@ -1,11 +1,5 @@
----json
-{
-    "name":"ajagare",
-    "h1":"ajagare",
-    "title":"ajagare -- synonyms, prabhupada.io",
-    "description":"snake."
-}
----
+~~Title:ajagare~~
+{{description>snake.}}
 
 ==== ajagare  ====
   * snake --- [[books:cc:madhya:20:134|Madhya 20.134]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"guptam",
-    "h1":"guptam",
-    "title":"guptam -- synonyms, prabhupada.io",
-    "description":"protected; well protected."
-}
----
+~~Title:guptam~~
+{{description>protected; well protected.}}
 
 ==== guptam  ====
   * protected --- [[books:sb:3:33:29|SB 3.33.29]]

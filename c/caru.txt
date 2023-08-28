@@ -1,11 +1,5 @@
----json
-{
-    "name":"caru",
-    "h1":"caru",
-    "title":"caru -- synonyms, prabhupada.io",
-    "description":"grains to be offered in a fire sacrifice."
-}
----
+~~Title:caru~~
+{{description>grains to be offered in a fire sacrifice.}}
 
 ==== caru  ====
   * grains to be offered in a fire sacrifice --- [[books:sb:7:12:19|SB 7.12.19]]

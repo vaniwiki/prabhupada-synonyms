@@ -1,11 +1,5 @@
----json
-{
-    "name":"stotram",
-    "h1":"stotram",
-    "title":"stotram -- synonyms, prabhupada.io",
-    "description":"praise; praising; prayer; prayers; the prayer."
-}
----
+~~Title:stotram~~
+{{description>praise; praising; prayer; prayers; the prayer.}}
 
 ==== stotram  ====
   * praise --- [[books:sb:4:15:25|SB 4.15.25]]

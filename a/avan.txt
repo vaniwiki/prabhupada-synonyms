@@ -1,11 +1,5 @@
----json
-{
-    "name":"avan",
-    "h1":"avan",
-    "title":"avan -- synonyms, prabhupada.io",
-    "description":"protecting."
-}
----
+~~Title:avan~~
+{{description>protecting.}}
 
 ==== avan  ====
   * protecting --- [[books:cc:antya:4:1|Antya 4.1]]

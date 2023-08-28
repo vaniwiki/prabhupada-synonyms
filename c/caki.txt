@@ -1,11 +1,5 @@
----json
-{
-    "name":"caki",
-    "h1":"caki",
-    "title":"caki -- synonyms, prabhupada.io",
-    "description":"I taste."
-}
----
+~~Title:caki~~
+{{description>I taste.}}
 
 ==== cāki  ====
   * I taste --- [[books:cc:adi:12:95|Ādi 12.95]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ujora",
-    "h1":"ujora",
-    "title":"ujora -- synonyms, prabhupada.io",
-    "description":"illuminated."
-}
----
+~~Title:ujora~~
+{{description>illuminated.}}
 
 ==== ujora  ====
   * illuminated --- [[books:cc:antya:19:36|Antya 19.36]]

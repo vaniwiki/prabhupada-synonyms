@@ -1,11 +1,5 @@
----json
-{
-    "name":"gadata",
-    "h1":"gadata",
-    "title":"gadata -- synonyms, prabhupada.io",
-    "description":"just let us know."
-}
----
+~~Title:gadata~~
+{{description>just let us know.}}
 
 ==== gadata  ====
   * just let us know --- [[books:sb:10:12:19|SB 10.12.19]]

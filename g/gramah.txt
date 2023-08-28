@@ -1,11 +1,5 @@
----json
-{
-    "name":"gramah",
-    "h1":"gramah",
-    "title":"gramah -- synonyms, prabhupada.io",
-    "description":"all kinds of."
-}
----
+~~Title:gramah~~
+{{description>all kinds of.}}
 
 ==== grāmaḥ  ====
   * all kinds of --- [[books:sb:1:7:44|SB 1.7.44]]

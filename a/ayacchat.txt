@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayacchat",
-    "h1":"ayacchat",
-    "title":"ayacchat -- synonyms, prabhupada.io",
-    "description":"delivered; he gave away."
-}
----
+~~Title:ayacchat~~
+{{description>delivered; he gave away.}}
 
 ==== ayacchat  ====
   * delivered --- [[books:sb:9:15:9|SB 9.15.9]]

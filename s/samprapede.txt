@@ -1,11 +1,5 @@
----json
-{
-    "name":"samprapede",
-    "h1":"samprapede",
-    "title":"samprapede -- synonyms, prabhupada.io",
-    "description":"served."
-}
----
+~~Title:samprapede~~
+{{description>served.}}
 
 ==== samprapede  ====
   * served --- [[books:sb:3:21:7|SB 3.21.7]]

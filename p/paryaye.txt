@@ -1,11 +1,5 @@
----json
-{
-    "name":"paryaye",
-    "h1":"paryaye",
-    "title":"paryaye -- synonyms, prabhupada.io",
-    "description":"in the place of."
-}
----
+~~Title:paryaye~~
+{{description>in the place of.}}
 
 ==== paryaye  ====
   * in the place of --- [[books:sb:1:4:14|SB 1.4.14]]

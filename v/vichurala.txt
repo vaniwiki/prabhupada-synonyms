@@ -1,11 +1,5 @@
----json
-{
-    "name":"vichurala",
-    "h1":"vichurala",
-    "title":"vichurala -- synonyms, prabhupada.io",
-    "description":"He has forgotten."
-}
----
+~~Title:vichurala~~
+{{description>He has forgotten.}}
 
 ==== vichurala  ====
   * He has forgotten --- [[books:cc:madhya:8:194|Madhya 8.194]]

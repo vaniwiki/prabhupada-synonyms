@@ -1,11 +1,5 @@
----json
-{
-    "name":"likhiyāchi",
-    "h1":"likhiyāchi",
-    "title":"likhiyāchi -- synonyms, prabhupada.io",
-    "description":"I wrote."
-}
----
+~~Title:likhiyāchi~~
+{{description>I wrote.}}
 
 ==== likhiyāchi  ====
   * I wrote --- [[books:cc:adi:1:108-109|Ādi 1.108-109]]

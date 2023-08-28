@@ -1,11 +1,5 @@
----json
-{
-    "name":"makha",
-    "h1":"makha",
-    "title":"makha -- synonyms, prabhupada.io",
-    "description":"Lord Viṣṇu."
-}
----
+~~Title:makha~~
+{{description>Lord Viṣṇu.}}
 
 ==== makha  ====
   * Lord Viṣṇu --- [[books:sb:2:7:39|SB 2.7.39]]

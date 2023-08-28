@@ -1,11 +1,5 @@
----json
-{
-    "name":"vandiye",
-    "h1":"vandiye",
-    "title":"vandiye -- synonyms, prabhupada.io",
-    "description":"I offer prayers."
-}
----
+~~Title:vandiye~~
+{{description>I offer prayers.}}
 
 ==== vandiye  ====
   * I offer prayers --- [[books:cc:adi:12:93|Ādi 12.93]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sobhaya",
-    "h1":"sobhaya",
-    "title":"sobhaya -- synonyms, prabhupada.io",
-    "description":"is beautiful."
-}
----
+~~Title:sobhaya~~
+{{description>is beautiful.}}
 
 ==== śobhaya  ====
   * is beautiful --- [[books:cc:madhya:16:273|Madhya 16.273]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitate",
-    "h1":"vitate",
-    "title":"vitate -- synonyms, prabhupada.io",
-    "description":"being administered."
-}
----
+~~Title:vitate~~
+{{description>being administered.}}
 
 ==== vitate  ====
   * being administered --- [[books:sb:6:13:19-20|SB 6.13.19-20]]

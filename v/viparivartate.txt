@@ -1,11 +1,5 @@
----json
-{
-    "name":"viparivartate",
-    "h1":"viparivartate",
-    "title":"viparivartate -- synonyms, prabhupada.io",
-    "description":"is working."
-}
----
+~~Title:viparivartate~~
+{{description>is working.}}
 
 ==== viparivartate  ====
   * is working --- [[books:bg:9:10|Bg. 9.10]]

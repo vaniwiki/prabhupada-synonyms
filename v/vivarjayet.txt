@@ -1,11 +1,5 @@
----json
-{
-    "name":"vivarjayet",
-    "h1":"vivarjayet",
-    "title":"vivarjayet -- synonyms, prabhupada.io",
-    "description":"one must give up."
-}
----
+~~Title:vivarjayet~~
+{{description>one must give up.}}
 
 ==== vivarjayet  ====
   * one must give up --- [[books:cc:adi:17:164|Ādi 17.164]]

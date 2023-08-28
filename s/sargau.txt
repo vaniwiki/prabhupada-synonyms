@@ -1,11 +1,5 @@
----json
-{
-    "name":"sargau",
-    "h1":"sargau",
-    "title":"sargau -- synonyms, prabhupada.io",
-    "description":"dispositions."
-}
----
+~~Title:sargau~~
+{{description>dispositions.}}
 
 ==== sargau  ====
   * dispositions --- [[books:cc:adi:3:91|Ādi 3.91]]

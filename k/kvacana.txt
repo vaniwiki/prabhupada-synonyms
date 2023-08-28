@@ -1,11 +1,5 @@
----json
-{
-    "name":"kvacana",
-    "h1":"kvacana",
-    "title":"kvacana -- synonyms, prabhupada.io",
-    "description":"somewhere."
-}
----
+~~Title:kvacana~~
+{{description>somewhere.}}
 
 ==== kvacana  ====
   * somewhere --- [[books:sb:5:21:8-9|SB 5.21.8-9]]

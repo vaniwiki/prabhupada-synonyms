@@ -1,11 +1,5 @@
----json
-{
-    "name":"cita",
-    "h1":"cita",
-    "title":"cita -- synonyms, prabhupada.io",
-    "description":"heart; mind; patience or consciousness."
-}
----
+~~Title:cita~~
+{{description>heart; mind; patience or consciousness.}}
 
 ==== cita  ====
   * heart --- [[books:cc:adi:8:56|Ādi 8.56]]

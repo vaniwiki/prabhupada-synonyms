@@ -1,11 +1,5 @@
----json
-{
-    "name":"gatena",
-    "h1":"gatena",
-    "title":"gatena -- synonyms, prabhupada.io",
-    "description":"being overtaken."
-}
----
+~~Title:gatena~~
+{{description>being overtaken.}}
 
 ==== antara-gatena  ====
   * being overtaken --- [[books:sb:2:7:27|SB 2.7.27]]

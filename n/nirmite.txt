@@ -1,11 +1,5 @@
----json
-{
-    "name":"nirmite",
-    "h1":"nirmite",
-    "title":"nirmite -- synonyms, prabhupada.io",
-    "description":"constructed; created; were constructed."
-}
----
+~~Title:nirmite~~
+{{description>constructed; created; were constructed.}}
 
 ==== nirmite  ====
   * constructed --- [[books:sb:4:25:48|SB 4.25.48]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"parvatam",
-    "h1":"parvatam",
-    "title":"parvatam -- synonyms, prabhupada.io",
-    "description":"a mountain."
-}
----
+~~Title:parvatam~~
+{{description>a mountain.}}
 
 ==== parvatam  ====
   * a mountain --- [[books:sb:8:11:20|SB 8.11.20]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"narila",
-    "h1":"narila",
-    "title":"narila -- synonyms, prabhupada.io",
-    "description":"could not; I was not able; was unable; were not able."
-}
----
+~~Title:narila~~
+{{description>could not; I was not able; was unable; were not able.}}
 
 ==== nārila  ====
   * could not --- [[books:cc:adi:7:29-30|Ādi 7.29-30]]

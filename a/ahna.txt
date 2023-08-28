@@ -1,11 +1,5 @@
----json
-{
-    "name":"ahna",
-    "h1":"ahna",
-    "title":"ahna -- synonyms, prabhupada.io",
-    "description":"in one day."
-}
----
+~~Title:ahna~~
+{{description>in one day.}}
 
 ==== ahnā  ====
   * in one day --- [[books:sb:8:24:26|SB 8.24.26]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"tatpara",
-    "h1":"tatpara",
-    "title":"tatpara -- synonyms, prabhupada.io",
-    "description":"with great attention."
-}
----
+~~Title:tatpara~~
+{{description>with great attention.}}
 
 ==== hañā tatpara  ====
   * with great attention --- [[books:cc:antya:10:40|Antya 10.40]]

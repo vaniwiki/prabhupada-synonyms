@@ -1,11 +1,5 @@
----json
-{
-    "name":"garam",
-    "h1":"garam",
-    "title":"garam -- synonyms, prabhupada.io",
-    "description":"poison."
-}
----
+~~Title:garam~~
+{{description>poison.}}
 
 ==== garam  ====
   * poison --- [[books:sb:6:14:43|SB 6.14.43]], [[books:sb:8:7:40|SB 8.7.40]]

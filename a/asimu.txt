@@ -1,11 +1,5 @@
----json
-{
-    "name":"āsimu",
-    "h1":"āsimu",
-    "title":"āsimu -- synonyms, prabhupada.io",
-    "description":"I shall go."
-}
----
+~~Title:āsimu~~
+{{description>I shall go.}}
 
 ==== āsimu  ====
   * I shall go --- [[books:cc:madhya:15:52|Madhya 15.52]]

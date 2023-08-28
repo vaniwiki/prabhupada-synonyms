@@ -1,11 +1,5 @@
----json
-{
-    "name":"svinnam",
-    "h1":"svinnam",
-    "title":"svinnam -- synonyms, prabhupada.io",
-    "description":"her hair was black like a cloud, so perspiration was dropping like rain."
-}
----
+~~Title:svinnam~~
+{{description>her hair was black like a cloud, so perspiration was dropping like rain.}}
 
 ==== svinnam  ====
   * her hair was black like a cloud, so perspiration was dropping like rain --- [[books:sb:10:9:3|SB 10.9.3]]

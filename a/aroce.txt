@@ -1,11 +1,5 @@
----json
-{
-    "name":"aroce",
-    "h1":"aroce",
-    "title":"aroce -- synonyms, prabhupada.io",
-    "description":"beautifully decorated."
-}
----
+~~Title:aroce~~
+{{description>beautifully decorated.}}
 
 ==== aroce  ====
   * beautifully decorated --- [[books:sb:1:16:32-33|SB 1.16.32-33]]

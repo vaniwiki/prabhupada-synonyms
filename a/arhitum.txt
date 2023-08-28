@@ -1,11 +1,5 @@
----json
-{
-    "name":"arhitum",
-    "h1":"arhitum",
-    "title":"arhitum -- synonyms, prabhupada.io",
-    "description":"to accept."
-}
----
+~~Title:arhitum~~
+{{description>to accept.}}
 
 ==== arhitum  ====
   * to accept --- [[books:sb:4:3:9|SB 4.3.9]]

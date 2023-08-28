@@ -1,11 +1,5 @@
----json
-{
-    "name":"asana",
-    "h1":"asana",
-    "title":"asana -- synonyms, prabhupada.io",
-    "description":"asana trees."
-}
----
+~~Title:asana~~
+{{description>asana trees.}}
 
 ==== asana  ====
   * //asana// trees --- [[books:sb:8:2:9-13|SB 8.2.9-13]]

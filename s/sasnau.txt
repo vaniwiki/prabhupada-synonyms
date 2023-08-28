@@ -1,11 +1,5 @@
----json
-{
-    "name":"sasnau",
-    "h1":"sasnau",
-    "title":"sasnau -- synonyms, prabhupada.io",
-    "description":"bathed."
-}
----
+~~Title:sasnau~~
+{{description>bathed.}}
 
 ==== sasnau  ====
   * bathed --- [[books:sb:4:7:56|SB 4.7.56]]

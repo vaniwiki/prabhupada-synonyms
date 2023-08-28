@@ -1,11 +1,5 @@
----json
-{
-    "name":"kopitam",
-    "h1":"kopitam",
-    "title":"kopitam -- synonyms, prabhupada.io",
-    "description":"enraged."
-}
----
+~~Title:kopitam~~
+{{description>enraged.}}
 
 ==== kopitam  ====
   * enraged --- [[books:sb:1:7:48|SB 1.7.48]]

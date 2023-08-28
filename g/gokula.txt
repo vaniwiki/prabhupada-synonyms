@@ -1,11 +1,5 @@
----json
-{
-    "name":"gokula",
-    "h1":"gokula",
-    "title":"gokula -- synonyms, prabhupada.io",
-    "description":"Gokula."
-}
----
+~~Title:gokula~~
+{{description>Gokula.}}
 
 ==== gokula  ====
   * Gokula --- [[books:cc:madhya:21:91|Madhya 21.91]]

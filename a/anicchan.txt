@@ -1,11 +1,5 @@
----json
-{
-    "name":"anicchan",
-    "h1":"anicchan",
-    "title":"anicchan -- synonyms, prabhupada.io",
-    "description":"not desiring; without desiring."
-}
----
+~~Title:anicchan~~
+{{description>not desiring; without desiring.}}
 
 ==== anicchan  ====
   * not desiring --- [[books:sb:4:2:13|SB 4.2.13]]

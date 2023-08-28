@@ -1,11 +1,5 @@
----json
-{
-    "name":"aguru",
-    "h1":"aguru",
-    "title":"aguru -- synonyms, prabhupada.io",
-    "description":"a kind of fragrant herb; of aloe; the aguru flavor."
-}
----
+~~Title:aguru~~
+{{description>a kind of fragrant herb; of aloe; the aguru flavor.}}
 
 ==== aguru  ====
   * a kind of fragrant herb --- [[books:sb:4:21:2|SB 4.21.2]]

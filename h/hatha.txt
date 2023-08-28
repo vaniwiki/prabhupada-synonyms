@@ -1,11 +1,5 @@
----json
-{
-    "name":"hatha",
-    "h1":"hatha",
-    "title":"hatha -- synonyms, prabhupada.io",
-    "description":"persistence; tricks."
-}
----
+~~Title:hatha~~
+{{description>persistence; tricks.}}
 
 ==== haṭha  ====
   * persistence --- [[books:cc:antya:2:140|Antya 2.140]]

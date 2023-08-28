@@ -1,11 +1,5 @@
----json
-{
-    "name":"asakta",
-    "h1":"asakta",
-    "title":"asakta -- synonyms, prabhupada.io",
-    "description":"unto the Supreme person, who is unattached."
-}
----
+~~Title:asakta~~
+{{description>unto the Supreme person, who is unattached.}}
 
 ==== asakta  ====
   * unto the Supreme person, who is unattached --- [[books:sb:5:19:12|SB 5.19.12]]

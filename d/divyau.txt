@@ -1,11 +1,5 @@
----json
-{
-    "name":"divyau",
-    "h1":"divyau",
-    "title":"divyau -- synonyms, prabhupada.io",
-    "description":"transcendental."
-}
----
+~~Title:divyau~~
+{{description>transcendental.}}
 
 ==== divyau  ====
   * transcendental --- [[books:bg:1:14|Bg. 1.14]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"dravam",
-    "h1":"dravam",
-    "title":"dravam -- synonyms, prabhupada.io",
-    "description":"the liquid substance."
-}
----
+~~Title:dravam~~
+{{description>the liquid substance.}}
 
 ==== dravam  ====
   * the liquid substance --- [[books:sb:4:23:16|SB 4.23.16]]

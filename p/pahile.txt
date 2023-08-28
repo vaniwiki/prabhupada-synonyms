@@ -1,11 +1,5 @@
----json
-{
-    "name":"pahile",
-    "h1":"pahile",
-    "title":"pahile -- synonyms, prabhupada.io",
-    "description":"before this; in the beginning."
-}
----
+~~Title:pahile~~
+{{description>before this; in the beginning.}}
 
 ==== pahile  ====
   * before this --- [[books:cc:madhya:20:29|Madhya 20.29]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"anile",
-    "h1":"anile",
-    "title":"anile -- synonyms, prabhupada.io",
-    "description":"in the air."
-}
----
+~~Title:anile~~
+{{description>in the air.}}
 
 ==== anile  ====
   * in the air --- [[books:sb:1:3:31|SB 1.3.31]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"satyatve",
-    "h1":"satyatve",
-    "title":"satyatve -- synonyms, prabhupada.io",
-    "description":"in the truthfulness."
-}
----
+~~Title:satyatve~~
+{{description>in the truthfulness.}}
 
 ==== satyatve  ====
   * in the truthfulness --- [[books:cc:antya:19:107|Antya 19.107]]

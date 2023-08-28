@@ -1,11 +1,5 @@
----json
-{
-    "name":"vigalat",
-    "h1":"vigalat",
-    "title":"vigalat -- synonyms, prabhupada.io",
-    "description":"was falling down."
-}
----
+~~Title:vigalat~~
+{{description>was falling down.}}
 
 ==== vigalat  ====
   * was falling down --- [[books:sb:6:14:53|SB 6.14.53]]

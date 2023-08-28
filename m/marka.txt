@@ -1,11 +1,5 @@
----json
-{
-    "name":"marka",
-    "h1":"marka",
-    "title":"marka -- synonyms, prabhupada.io",
-    "description":"monkeys."
-}
----
+~~Title:marka~~
+{{description>monkeys.}}
 
 ==== marka  ====
   * monkeys --- [[books:sb:7:14:9|SB 7.14.9]]

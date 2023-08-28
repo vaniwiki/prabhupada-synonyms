@@ -1,11 +1,5 @@
----json
-{
-    "name":"dvandvena",
-    "h1":"dvandvena",
-    "title":"dvandvena -- synonyms, prabhupada.io",
-    "description":"two by two."
-}
----
+~~Title:dvandvena~~
+{{description>two by two.}}
 
 ==== dvandvena  ====
   * two by two --- [[books:sb:8:10:35|SB 8.10.35]]

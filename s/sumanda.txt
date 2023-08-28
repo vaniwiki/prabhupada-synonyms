@@ -1,11 +1,5 @@
----json
-{
-    "name":"sumanda",
-    "h1":"sumanda",
-    "title":"sumanda -- synonyms, prabhupada.io",
-    "description":"misguided."
-}
----
+~~Title:sumanda~~
+{{description>misguided.}}
 
 ==== sumanda-matayaḥ  ====
   * misguided --- [[books:sb:1:1:10|SB 1.1.10]]

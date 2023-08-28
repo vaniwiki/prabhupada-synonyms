@@ -1,11 +1,5 @@
----json
-{
-    "name":"masah",
-    "h1":"masah",
-    "title":"masah -- synonyms, prabhupada.io",
-    "description":"month; one month."
-}
----
+~~Title:masah~~
+{{description>month; one month.}}
 
 ==== māsaḥ  ====
   * month --- [[books:sb:3:11:11|SB 3.11.11]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"dogdhi",
-    "h1":"dogdhi",
-    "title":"dogdhi -- synonyms, prabhupada.io",
-    "description":"enjoys; you yield."
-}
----
+~~Title:dogdhi~~
+{{description>enjoys; you yield.}}
 
 ==== dogdhi  ====
   * enjoys --- [[books:sb:3:32:1|SB 3.32.1]]

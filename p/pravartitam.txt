@@ -1,11 +1,5 @@
----json
-{
-    "name":"pravartitam",
-    "h1":"pravartitam",
-    "title":"pravartitam -- synonyms, prabhupada.io",
-    "description":"established by the Vedas."
-}
----
+~~Title:pravartitam~~
+{{description>established by the Vedas.}}
 
 ==== pravartitam  ====
   * established by the //Vedas// --- [[books:bg:3:16|Bg. 3.16]]

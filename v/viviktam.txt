@@ -1,11 +1,5 @@
----json
-{
-    "name":"viviktam",
-    "h1":"viviktam",
-    "title":"viviktam -- synonyms, prabhupada.io",
-    "description":"very, particular."
-}
----
+~~Title:viviktam~~
+{{description>very, particular.}}
 
 ==== viviktam  ====
   * very, particular --- [[books:sb:4:24:31|SB 4.24.31]]

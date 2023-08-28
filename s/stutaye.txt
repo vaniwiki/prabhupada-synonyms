@@ -1,11 +1,5 @@
----json
-{
-    "name":"stutaye",
-    "h1":"stutaye",
-    "title":"stutaye -- synonyms, prabhupada.io",
-    "description":"your prayer."
-}
----
+~~Title:stutaye~~
+{{description>your prayer.}}
 
 ==== stutaye  ====
   * your prayer --- [[books:sb:8:7:32|SB 8.7.32]]

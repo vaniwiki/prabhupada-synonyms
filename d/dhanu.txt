@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhanu",
-    "h1":"dhanu",
-    "title":"dhanu -- synonyms, prabhupada.io",
-    "description":"just like bows."
-}
----
+~~Title:dhanu~~
+{{description>just like bows.}}
 
 ==== dhanu  ====
   * just like bows --- [[books:cc:madhya:21:129|Madhya 21.129]]

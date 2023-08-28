@@ -1,11 +1,5 @@
----json
-{
-    "name":"cinti",
-    "h1":"cinti",
-    "title":"cinti -- synonyms, prabhupada.io",
-    "description":"think of."
-}
----
+~~Title:cinti~~
+{{description>think of.}}
 
 ==== cinti  ====
   * think of --- [[books:cc:madhya:17:97|Madhya 17.97]]

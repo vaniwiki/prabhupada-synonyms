@@ -1,11 +1,5 @@
----json
-{
-    "name":"agare",
-    "h1":"agare",
-    "title":"agare -- synonyms, prabhupada.io",
-    "description":"in the sacrificial hall."
-}
----
+~~Title:agare~~
+{{description>in the sacrificial hall.}}
 
 ==== agni-agāre  ====
   * in the sacrificial hall --- [[books:sb:3:14:9|SB 3.14.9]]

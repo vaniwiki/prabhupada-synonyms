@@ -1,11 +1,5 @@
----json
-{
-    "name":"vidyut",
-    "h1":"vidyut",
-    "title":"vidyut -- synonyms, prabhupada.io",
-    "description":"lightning; like electricity."
-}
----
+~~Title:vidyut~~
+{{description>lightning; like electricity.}}
 
 ==== vidyut  ====
   * lightning --- [[books:sb:3:15:41|SB 3.15.41]], [[books:sb:3:19:19|SB 3.19.19]], [[books:sb:8:8:8|SB 8.8.8]]

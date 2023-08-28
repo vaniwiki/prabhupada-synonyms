@@ -1,11 +1,5 @@
----json
-{
-    "name":"samprasthite",
-    "h1":"samprasthite",
-    "title":"samprasthite -- synonyms, prabhupada.io",
-    "description":"having gone to."
-}
----
+~~Title:samprasthite~~
+{{description>having gone to.}}
 
 ==== samprasthite  ====
   * having gone to --- [[books:sb:1:14:1|SB 1.14.1]]

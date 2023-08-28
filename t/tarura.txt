@@ -1,11 +1,5 @@
----json
-{
-    "name":"tarura",
-    "h1":"tarura",
-    "title":"tarura -- synonyms, prabhupada.io",
-    "description":"of the desire tree of devotional service."
-}
----
+~~Title:tarura~~
+{{description>of the desire tree of devotional service.}}
 
 ==== bhakti-kalpa-tarura  ====
   * of the desire tree of devotional service --- [[books:cc:adi:9:10|Ādi 9.10]]

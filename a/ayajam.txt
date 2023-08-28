@@ -1,11 +1,5 @@
----json
-{
-    "name":"ayajam",
-    "h1":"ayajam",
-    "title":"ayajam -- synonyms, prabhupada.io",
-    "description":"worshiped."
-}
----
+~~Title:ayajam~~
+{{description>worshiped.}}
 
 ==== ayajam  ====
   * worshiped --- [[books:sb:2:6:28|SB 2.6.28]]

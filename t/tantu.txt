@@ -1,11 +1,5 @@
----json
-{
-    "name":"tantu",
-    "h1":"tantu",
-    "title":"tantu -- synonyms, prabhupada.io",
-    "description":"the thread."
-}
----
+~~Title:tantu~~
+{{description>the thread.}}
 
 ==== tantu  ====
   * the thread --- [[books:sb:7:15:63|SB 7.15.63]]

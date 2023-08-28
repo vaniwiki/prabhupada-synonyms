@@ -1,11 +1,5 @@
----json
-{
-    "name":"akathayat",
-    "h1":"akathayat",
-    "title":"akathayat -- synonyms, prabhupada.io",
-    "description":"explained."
-}
----
+~~Title:akathayat~~
+{{description>explained.}}
 
 ==== akathayat  ====
   * explained --- [[books:sb:8:24:61|SB 8.24.61]]

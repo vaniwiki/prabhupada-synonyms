@@ -1,11 +1,5 @@
----json
-{
-    "name":"madya",
-    "h1":"madya",
-    "title":"madya -- synonyms, prabhupada.io",
-    "description":"a pot of wine."
-}
----
+~~Title:madya~~
+{{description>a pot of wine.}}
 
 ==== madya-bhāṇḍa  ====
   * a pot of wine --- [[books:cc:adi:17:40|Ādi 17.40]]

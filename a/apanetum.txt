@@ -1,11 +1,5 @@
----json
-{
-    "name":"apanetum",
-    "h1":"apanetum",
-    "title":"apanetum -- synonyms, prabhupada.io",
-    "description":"to avoid."
-}
----
+~~Title:apanetum~~
+{{description>to avoid.}}
 
 ==== apanetum  ====
   * to avoid --- [[books:mm:4|MM 4]]

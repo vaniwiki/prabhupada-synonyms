@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatira",
-    "h1":"vatira",
-    "title":"vatira -- synonyms, prabhupada.io",
-    "description":"near the house."
-}
----
+~~Title:vatira~~
+{{description>near the house.}}
 
 ==== vāṭīra nikaṭa  ====
   * near the house --- [[books:cc:antya:12:54|Antya 12.54]]

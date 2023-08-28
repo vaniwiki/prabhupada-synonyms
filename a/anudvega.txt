@@ -1,11 +1,5 @@
----json
-{
-    "name":"anudvega",
-    "h1":"anudvega",
-    "title":"anudvega -- synonyms, prabhupada.io",
-    "description":"not agitating."
-}
----
+~~Title:anudvega~~
+{{description>not agitating.}}
 
 ==== anudvega  ====
   * not agitating --- [[books:bg:17:15|Bg. 17.15]]

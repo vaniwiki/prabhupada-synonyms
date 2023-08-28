@@ -1,11 +1,5 @@
----json
-{
-    "name":"kad",
-    "h1":"kad",
-    "title":"kad -- synonyms, prabhupada.io",
-    "description":"by a bad son."
-}
----
+~~Title:kad~~
+{{description>by a bad son.}}
 
 ==== kad-apatya  ====
   * by a bad son --- [[books:sb:4:13:43|SB 4.13.43]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"hayah",
-    "h1":"hayah",
-    "title":"hayah -- synonyms, prabhupada.io",
-    "description":"a horse."
-}
----
+~~Title:hayah~~
+{{description>a horse.}}
 
 ==== hayaḥ  ====
   * a horse --- [[books:sb:8:8:3|SB 8.8.3]]

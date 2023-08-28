@@ -1,11 +1,5 @@
----json
-{
-    "name":"prajānāmi",
-    "h1":"prajānāmi",
-    "title":"prajānāmi -- synonyms, prabhupada.io",
-    "description":"do I know."
-}
----
+~~Title:prajānāmi~~
+{{description>do I know.}}
 
 ==== prajānāmi  ====
   * do I know --- [[books:bg:11:31|Bg. 11.31]]

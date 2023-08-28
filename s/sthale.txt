@@ -1,11 +1,5 @@
----json
-{
-    "name":"sthale",
-    "h1":"sthale",
-    "title":"sthale -- synonyms, prabhupada.io",
-    "description":"the place where Haridāsa Ṭhākura was residing."
-}
----
+~~Title:sthale~~
+{{description>the place where Haridāsa Ṭhākura was residing.}}
 
 ==== haridāsa-vāsā-sthale  ====
   * the place where Haridāsa Ṭhākura was residing --- [[books:cc:antya:1:45|Antya 1.45]]

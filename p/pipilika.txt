@@ -1,11 +1,5 @@
----json
-{
-    "name":"pipilika",
-    "h1":"pipilika",
-    "title":"pipilika -- synonyms, prabhupada.io",
-    "description":"ant; ants."
-}
----
+~~Title:pipilika~~
+{{description>ant; ants.}}
 
 ==== pipīlikā  ====
   * ant --- [[books:cc:antya:11:41|Antya 11.41]]

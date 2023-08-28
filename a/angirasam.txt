@@ -1,11 +1,5 @@
----json
-{
-    "name":"angirasam",
-    "h1":"angirasam",
-    "title":"angirasam -- synonyms, prabhupada.io",
-    "description":"Aṅgirā."
-}
----
+~~Title:angirasam~~
+{{description>Aṅgirā.}}
 
 ==== aṅgirasam  ====
   * Aṅgirā --- [[books:sb:4:13:17|SB 4.13.17]]

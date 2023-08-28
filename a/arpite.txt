@@ -1,11 +1,5 @@
----json
-{
-    "name":"arpite",
-    "h1":"arpite",
-    "title":"arpite -- synonyms, prabhupada.io",
-    "description":"to offer."
-}
----
+~~Title:arpite~~
+{{description>to offer.}}
 
 ==== arpite  ====
   * to offer --- [[books:cc:madhya:5:28|Madhya 5.28]]

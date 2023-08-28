@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhāgera",
-    "h1":"bhāgera",
-    "title":"bhāgera -- synonyms, prabhupada.io",
-    "description":"of some portion of the book."
-}
----
+~~Title:bhāgera~~
+{{description>of some portion of the book.}}
 
 ==== kona bhāgera  ====
   * of some portion of the book --- [[books:cc:madhya:25:243|Madhya 25.243]]

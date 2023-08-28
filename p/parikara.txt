@@ -1,11 +1,5 @@
----json
-{
-    "name":"parikara",
-    "h1":"parikara",
-    "title":"parikara -- synonyms, prabhupada.io",
-    "description":"associates."
-}
----
+~~Title:parikara~~
+{{description>associates.}}
 
 ==== parikara  ====
   * associates --- [[books:cc:adi:7:8|Ādi 7.8]], [[books:cc:adi:10:12|Ādi 10.12]], [[books:cc:adi:10:61|Ādi 10.61]]

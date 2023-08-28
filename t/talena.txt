@@ -1,11 +1,5 @@
----json
-{
-    "name":"talena",
-    "h1":"talena",
-    "title":"talena -- synonyms, prabhupada.io",
-    "description":"by the palm of the hand."
-}
----
+~~Title:talena~~
+{{description>by the palm of the hand.}}
 
 ==== kara-talena  ====
   * by the palm of the hand --- [[books:sb:3:20:36|SB 3.20.36]]

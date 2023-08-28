@@ -1,11 +1,5 @@
----json
-{
-    "name":"kulaka",
-    "h1":"kulaka",
-    "title":"kulaka -- synonyms, prabhupada.io",
-    "description":"Kulaka."
-}
----
+~~Title:kulaka~~
+{{description>Kulaka.}}
 
 ==== kulaka  ====
   * Kulaka --- [[books:sb:5:20:16|SB 5.20.16]]

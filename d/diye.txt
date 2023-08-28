@@ -1,11 +1,5 @@
----json
-{
-    "name":"diye",
-    "h1":"diye",
-    "title":"diye -- synonyms, prabhupada.io",
-    "description":"I am giving; I sacrifice; supply."
-}
----
+~~Title:diye~~
+{{description>I am giving; I sacrifice; supply.}}
 
 ==== diye  ====
   * I am giving --- [[books:cc:madhya:3:91|Madhya 3.91]]

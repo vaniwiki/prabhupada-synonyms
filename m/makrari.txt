@@ -1,11 +1,5 @@
----json
-{
-    "name":"makrari",
-    "h1":"makrari",
-    "title":"makrari -- synonyms, prabhupada.io",
-    "description":"by some agreement."
-}
----
+~~Title:makrari~~
+{{description>by some agreement.}}
 
 ==== makrari kariyā  ====
   * by some agreement --- [[books:cc:antya:6:18|Antya 6.18]]

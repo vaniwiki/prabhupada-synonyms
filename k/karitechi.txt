@@ -1,11 +1,5 @@
----json
-{
-    "name":"karitechi",
-    "h1":"karitechi",
-    "title":"karitechi -- synonyms, prabhupada.io",
-    "description":"am doing."
-}
----
+~~Title:karitechi~~
+{{description>am doing.}}
 
 ==== karitechi  ====
   * am doing --- [[books:cc:madhya:11:205|Madhya 11.205]]

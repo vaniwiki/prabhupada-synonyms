@@ -1,11 +1,5 @@
----json
-{
-    "name":"jaladhim",
-    "h1":"jaladhim",
-    "title":"jaladhim -- synonyms, prabhupada.io",
-    "description":"the ocean of salt water."
-}
----
+~~Title:jaladhim~~
+{{description>the ocean of salt water.}}
 
 ==== jaladhim  ====
   * the ocean of salt water --- [[books:sb:5:17:8|SB 5.17.8]], [[books:sb:5:17:9|SB 5.17.9]]

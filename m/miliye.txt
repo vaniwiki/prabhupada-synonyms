@@ -1,11 +1,5 @@
----json
-{
-    "name":"miliye",
-    "h1":"miliye",
-    "title":"miliye -- synonyms, prabhupada.io",
-    "description":"meet."
-}
----
+~~Title:miliye~~
+{{description>meet.}}
 
 ==== miliye  ====
   * meet --- [[books:cc:madhya:16:149|Madhya 16.149]]

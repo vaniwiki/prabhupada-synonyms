@@ -1,11 +1,5 @@
----json
-{
-    "name":"smarati",
-    "h1":"smarati",
-    "title":"smarati -- synonyms, prabhupada.io",
-    "description":"remembers."
-}
----
+~~Title:smarati~~
+{{description>remembers.}}
 
 ==== smarati  ====
   * remembers --- [[books:bg:8:14|Bg. 8.14]], [[books:sb:6:3:29|SB 6.3.29]], [[books:cc:adi:6:68|Ādi 6.68]], [[books:cc:antya:15:84|Antya 15.84]]

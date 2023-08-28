@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhikāt",
-    "h1":"adhikāt",
-    "title":"adhikāt -- synonyms, prabhupada.io",
-    "description":"one who is more qualified."
-}
----
+~~Title:adhikāt~~
+{{description>one who is more qualified.}}
 
 ==== guṇa-adhikāt  ====
   * one who is more qualified --- [[books:sb:4:8:34|SB 4.8.34]]

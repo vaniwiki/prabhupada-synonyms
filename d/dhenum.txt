@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhenum",
-    "h1":"dhenum",
-    "title":"dhenum -- synonyms, prabhupada.io",
-    "description":"a cow of plenty."
-}
----
+~~Title:dhenum~~
+{{description>a cow of plenty.}}
 
 ==== dhenum  ====
   * a cow of plenty --- [[books:sb:3:21:15|SB 3.21.15]]

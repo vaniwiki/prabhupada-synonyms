@@ -1,11 +1,5 @@
----json
-{
-    "name":"dvaita",
-    "h1":"dvaita",
-    "title":"dvaita -- synonyms, prabhupada.io",
-    "description":"from the doubts of relativity."
-}
----
+~~Title:dvaita~~
+{{description>from the doubts of relativity.}}
 
 ==== dvaita-saṁśayaḥ  ====
   * from the doubts of relativity --- [[books:sb:1:15:31|SB 1.15.31]]

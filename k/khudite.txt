@@ -1,11 +1,5 @@
----json
-{
-    "name":"khudite",
-    "h1":"khudite",
-    "title":"khudite -- synonyms, prabhupada.io",
-    "description":"digging."
-}
----
+~~Title:khudite~~
+{{description>digging.}}
 
 ==== khudite  ====
   * digging --- [[books:cc:madhya:20:134|Madhya 20.134]], [[books:cc:madhya:20:135|Madhya 20.135]]

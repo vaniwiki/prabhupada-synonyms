@@ -1,11 +1,5 @@
----json
-{
-    "name":"maulinam",
-    "h1":"maulinam",
-    "title":"maulinam -- synonyms, prabhupada.io",
-    "description":"helmet."
-}
----
+~~Title:maulinam~~
+{{description>helmet.}}
 
 ==== maulinam  ====
   * helmet --- [[books:sb:1:12:8|SB 1.12.8]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"gahane",
-    "h1":"gahane",
-    "title":"gahane -- synonyms, prabhupada.io",
-    "description":"in the crowd."
-}
----
+~~Title:gahane~~
+{{description>in the crowd.}}
 
 ==== manuṣya-gahane  ====
   * in the crowd --- [[books:cc:adi:10:142|Ādi 10.142]]

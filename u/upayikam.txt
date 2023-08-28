@@ -1,11 +1,5 @@
----json
-{
-    "name":"upayikam",
-    "h1":"upayikam",
-    "title":"upayikam -- synonyms, prabhupada.io",
-    "description":"just suitable for the pastimes."
-}
----
+~~Title:upayikam~~
+{{description>just suitable for the pastimes.}}
 
 ==== līlā-upayikam  ====
   * just suitable for the pastimes --- [[books:sb:3:2:12|SB 3.2.12]]

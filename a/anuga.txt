@@ -1,11 +1,5 @@
----json
-{
-    "name":"anuga",
-    "h1":"anuga",
-    "title":"anuga -- synonyms, prabhupada.io",
-    "description":"servants."
-}
----
+~~Title:anuga~~
+{{description>servants.}}
 
 ==== anuga  ====
   * servants --- [[books:sb:4:28:7|SB 4.28.7]]

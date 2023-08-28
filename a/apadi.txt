@@ -1,11 +1,5 @@
----json
-{
-    "name":"āpadi",
-    "h1":"āpadi",
-    "title":"āpadi -- synonyms, prabhupada.io",
-    "description":"in danger."
-}
----
+~~Title:āpadi~~
+{{description>in danger.}}
 
 ==== āpadi  ====
   * in danger --- [[books:sb:3:7:34|SB 3.7.34]]

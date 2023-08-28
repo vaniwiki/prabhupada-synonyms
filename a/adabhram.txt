@@ -1,11 +1,5 @@
----json
-{
-    "name":"adabhram",
-    "h1":"adabhram",
-    "title":"adabhram -- synonyms, prabhupada.io",
-    "description":"for a long duration."
-}
----
+~~Title:adabhram~~
+{{description>for a long duration.}}
 
 ==== adabhram  ====
   * for a long duration --- [[books:sb:4:30:39-40|SB 4.30.39-40]]

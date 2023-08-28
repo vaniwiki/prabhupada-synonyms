@@ -1,11 +1,5 @@
----json
-{
-    "name":"pavyam",
-    "h1":"pavyam",
-    "title":"pavyam -- synonyms, prabhupada.io",
-    "description":"made of sharp razors and thunderbolts."
-}
----
+~~Title:pavyam~~
+{{description>made of sharp razors and thunderbolts.}}
 
 ==== kṣaura-pavyam  ====
   * made of sharp razors and thunderbolts --- [[books:sb:6:5:6-8|SB 6.5.6-8]]

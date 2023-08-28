@@ -1,11 +1,5 @@
----json
-{
-    "name":"vipaṇam",
-    "h1":"vipaṇam",
-    "title":"vipaṇam -- synonyms, prabhupada.io",
-    "description":"stores."
-}
----
+~~Title:vipaṇam~~
+{{description>stores.}}
 
 ==== vipaṇam  ====
   * stores --- [[books:sb:4:28:56|SB 4.28.56]]

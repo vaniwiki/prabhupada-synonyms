@@ -1,11 +1,5 @@
----json
-{
-    "name":"gatya",
-    "h1":"gatya",
-    "title":"gatya -- synonyms, prabhupada.io",
-    "description":"force."
-}
----
+~~Title:gatya~~
+{{description>force.}}
 
 ==== gatya  ====
   * force --- [[books:sb:2:2:20|SB 2.2.20]]

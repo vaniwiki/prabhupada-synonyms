@@ -1,11 +1,5 @@
----json
-{
-    "name":"agocara",
-    "h1":"agocara",
-    "title":"agocara -- synonyms, prabhupada.io",
-    "description":"beyond the reach."
-}
----
+~~Title:agocara~~
+{{description>beyond the reach.}}
 
 ==== agocara  ====
   * beyond the reach --- [[books:cc:madhya:23:120|Madhya 23.120]]

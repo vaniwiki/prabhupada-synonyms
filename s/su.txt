@@ -1,11 +1,5 @@
----json
-{
-    "name":"su",
-    "h1":"su",
-    "title":"su -- synonyms, prabhupada.io",
-    "description":"beautiful."
-}
----
+~~Title:su~~
+{{description>beautiful.}}
 
 ==== su  ====
   * beautiful --- [[books:sb:3:20:36|SB 3.20.36]], [[books:sb:4:21:15|SB 4.21.15]], [[books:sb:10:12:2|SB 10.12.2]]

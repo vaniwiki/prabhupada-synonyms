@@ -1,11 +1,5 @@
----json
-{
-    "name":"nisam",
-    "h1":"nisam",
-    "title":"nisam -- synonyms, prabhupada.io",
-    "description":"that night; the night."
-}
----
+~~Title:nisam~~
+{{description>that night; the night.}}
 
 ==== niśām  ====
   * that night --- [[books:sb:9:14:41|SB 9.14.41]]

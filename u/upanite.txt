@@ -1,11 +1,5 @@
----json
-{
-    "name":"upanite",
-    "h1":"upanite",
-    "title":"upanite -- synonyms, prabhupada.io",
-    "description":"having been brought."
-}
----
+~~Title:upanite~~
+{{description>having been brought.}}
 
 ==== upanīte  ====
   * having been brought --- [[books:sb:9:10:21|SB 9.10.21]]

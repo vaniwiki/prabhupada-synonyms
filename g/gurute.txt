@@ -1,11 +1,5 @@
----json
-{
-    "name":"gurute",
-    "h1":"gurute",
-    "title":"gurute -- synonyms, prabhupada.io",
-    "description":"on the spiritual master of the universe."
-}
----
+~~Title:gurute~~
+{{description>on the spiritual master of the universe.}}
 
 ==== jagat-gurute  ====
   * on the spiritual master of the universe --- [[books:cc:adi:12:15|Ādi 12.15]]

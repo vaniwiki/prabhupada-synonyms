@@ -1,11 +1,5 @@
----json
-{
-    "name":"bharasva",
-    "h1":"bharasva",
-    "title":"bharasva -- synonyms, prabhupada.io",
-    "description":"just maintain."
-}
----
+~~Title:bharasva~~
+{{description>just maintain.}}
 
 ==== bharasva  ====
   * just maintain --- [[books:sb:9:20:21|SB 9.20.21]]

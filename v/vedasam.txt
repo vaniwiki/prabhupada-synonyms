@@ -1,11 +1,5 @@
----json
-{
-    "name":"vedasam",
-    "h1":"vedasam",
-    "title":"vedasam -- synonyms, prabhupada.io",
-    "description":"fire."
-}
----
+~~Title:vedasam~~
+{{description>fire.}}
 
 ==== vedasam  ====
   * fire --- [[books:sb:5:18:36|SB 5.18.36]]

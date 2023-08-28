@@ -1,11 +1,5 @@
----json
-{
-    "name":"seve",
-    "h1":"seve",
-    "title":"seve -- synonyms, prabhupada.io",
-    "description":"serve; used to worship; worships."
-}
----
+~~Title:seve~~
+{{description>serve; used to worship; worships.}}
 
 ==== seve  ====
   * serve --- [[books:cc:adi:7:14|Ādi 7.14]]

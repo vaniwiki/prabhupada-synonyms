@@ -1,11 +1,5 @@
----json
-{
-    "name":"apyeti",
-    "h1":"apyeti",
-    "title":"apyeti -- synonyms, prabhupada.io",
-    "description":"dissolves."
-}
----
+~~Title:apyeti~~
+{{description>dissolves.}}
 
 ==== apyeti  ====
   * dissolves --- [[books:sb:6:16:22|SB 6.16.22]]

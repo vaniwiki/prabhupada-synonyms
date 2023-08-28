@@ -1,11 +1,5 @@
----json
-{
-    "name":"avalim",
-    "h1":"avalim",
-    "title":"avalim -- synonyms, prabhupada.io",
-    "description":"presentation."
-}
----
+~~Title:avalim~~
+{{description>presentation.}}
 
 ==== āvalim  ====
   * presentation --- [[books:sb:4:15:18|SB 4.15.18]]

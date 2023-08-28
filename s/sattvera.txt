@@ -1,11 +1,5 @@
----json
-{
-    "name":"sattvera",
-    "h1":"sattvera",
-    "title":"sattvera -- synonyms, prabhupada.io",
-    "description":"goodness."
-}
----
+~~Title:sattvera~~
+{{description>goodness.}}
 
 ==== sattvera  ====
   * goodness --- [[books:cc:adi:7:113|Ādi 7.113]]

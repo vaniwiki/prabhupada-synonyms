@@ -1,11 +1,5 @@
----json
-{
-    "name":"kholāte",
-    "h1":"kholāte",
-    "title":"kholāte -- synonyms, prabhupada.io",
-    "description":"banana leaf and bark."
-}
----
+~~Title:kholāte~~
+{{description>banana leaf and bark.}}
 
 ==== pāṭuyā-kholāte  ====
   * banana leaf and bark --- [[books:cc:antya:16:36|Antya 16.36]]

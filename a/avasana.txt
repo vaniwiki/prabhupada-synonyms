@@ -1,11 +1,5 @@
----json
-{
-    "name":"avasāna",
-    "h1":"avasāna",
-    "title":"avasāna -- synonyms, prabhupada.io",
-    "description":"the end."
-}
----
+~~Title:avasāna~~
+{{description>the end.}}
 
 ==== avasāna  ====
   * the end --- [[books:cc:madhya:3:111|Madhya 3.111]]

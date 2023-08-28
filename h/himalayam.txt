@@ -1,11 +1,5 @@
----json
-{
-    "name":"himālayam",
-    "h1":"himālayam",
-    "title":"himālayam -- synonyms, prabhupada.io",
-    "description":"towards the Himalaya Mountains."
-}
----
+~~Title:himālayam~~
+{{description>towards the Himalaya Mountains.}}
 
 ==== himālayam  ====
   * towards the Himalaya Mountains --- [[books:sb:1:13:30|SB 1.13.30]]

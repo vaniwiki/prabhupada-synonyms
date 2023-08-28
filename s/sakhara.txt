@@ -1,11 +1,5 @@
----json
-{
-    "name":"sakhara",
-    "h1":"sakhara",
-    "title":"sakhara -- synonyms, prabhupada.io",
-    "description":"of the friends."
-}
----
+~~Title:sakhara~~
+{{description>of the friends.}}
 
 ==== sakhāra  ====
   * of the friends --- [[books:cc:adi:6:62|Ādi 6.62]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"yojitam",
-    "h1":"yojitam",
-    "title":"yojitam -- synonyms, prabhupada.io",
-    "description":"tackled."
-}
----
+~~Title:yojitam~~
+{{description>tackled.}}
 
 ==== yojitam  ====
   * tackled --- [[books:sb:1:16:11|SB 1.16.11]]

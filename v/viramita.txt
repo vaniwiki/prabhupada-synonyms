@@ -1,11 +1,5 @@
----json
-{
-    "name":"viramita",
-    "h1":"viramita",
-    "title":"viramita -- synonyms, prabhupada.io",
-    "description":"defeated."
-}
----
+~~Title:viramita~~
+{{description>defeated.}}
 
 ==== viramita  ====
   * defeated --- [[books:sb:5:1:29|SB 5.1.29]]

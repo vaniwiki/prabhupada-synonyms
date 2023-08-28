@@ -1,11 +1,5 @@
----json
-{
-    "name":"camarī",
-    "h1":"camarī",
-    "title":"camarī -- synonyms, prabhupada.io",
-    "description":"wild cow."
-}
----
+~~Title:camarī~~
+{{description>wild cow.}}
 
 ==== camarī  ====
   * wild cow --- [[books:sb:3:10:23|SB 3.10.23]]

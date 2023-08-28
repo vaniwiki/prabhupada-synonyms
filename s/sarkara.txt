@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarkara",
-    "h1":"sarkara",
-    "title":"sarkara -- synonyms, prabhupada.io",
-    "description":"from pebbles; fruit sugar; sugar."
-}
----
+~~Title:sarkara~~
+{{description>from pebbles; fruit sugar; sugar.}}
 
 ==== śarkarā  ====
   * from pebbles --- [[books:sb:7:15:17|SB 7.15.17]]

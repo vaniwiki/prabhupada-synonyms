@@ -1,11 +1,5 @@
----json
-{
-    "name":"anusarasi",
-    "h1":"anusarasi",
-    "title":"anusarasi -- synonyms, prabhupada.io",
-    "description":"You follow."
-}
----
+~~Title:anusarasi~~
+{{description>You follow.}}
 
 ==== anusarasi  ====
   * You follow --- [[books:sb:6:9:37|SB 6.9.37]]

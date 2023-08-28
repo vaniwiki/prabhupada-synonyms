@@ -1,11 +1,5 @@
----json
-{
-    "name":"sari",
-    "h1":"sari",
-    "title":"sari -- synonyms, prabhupada.io",
-    "description":"the śārī birds."
-}
----
+~~Title:sari~~
+{{description>the śārī birds.}}
 
 ==== śārī  ====
   * the //śārī// birds --- [[books:cc:antya:19:80|Antya 19.80]]

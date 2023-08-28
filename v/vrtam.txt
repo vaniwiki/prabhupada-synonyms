@@ -1,11 +1,5 @@
----json
-{
-    "name":"vrtam",
-    "h1":"vrtam",
-    "title":"vrtam -- synonyms, prabhupada.io",
-    "description":"accepted; covered; full of; surrounded; surrounded by."
-}
----
+~~Title:vrtam~~
+{{description>accepted; covered; full of; surrounded; surrounded by.}}
 
 ==== vṛtam  ====
   * accepted --- [[books:sb:9:19:5-6|SB 9.19.5-6]]

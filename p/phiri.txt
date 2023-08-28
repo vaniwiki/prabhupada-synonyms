@@ -1,11 +1,5 @@
----json
-{
-    "name":"phiri",
-    "h1":"phiri",
-    "title":"phiri -- synonyms, prabhupada.io",
-    "description":"changing; turn."
-}
----
+~~Title:phiri~~
+{{description>changing; turn.}}
 
 ==== phiri  ====
   * changing --- [[books:cc:madhya:6:273|Madhya 6.273]]

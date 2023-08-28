@@ -1,11 +1,5 @@
----json
-{
-    "name":"vinah",
-    "h1":"vinah",
-    "title":"vinah -- synonyms, prabhupada.io",
-    "description":"stringed instruments."
-}
----
+~~Title:vinah~~
+{{description>stringed instruments.}}
 
 ==== vīṇāḥ  ====
   * stringed instruments --- [[books:sb:8:8:13|SB 8.8.13]]

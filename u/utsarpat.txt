@@ -1,11 +1,5 @@
----json
-{
-    "name":"utsarpat",
-    "h1":"utsarpat",
-    "title":"utsarpat -- synonyms, prabhupada.io",
-    "description":"going upward."
-}
----
+~~Title:utsarpat~~
+{{description>going upward.}}
 
 ==== utsarpat  ====
   * going upward --- [[books:sb:8:7:19|SB 8.7.19]]

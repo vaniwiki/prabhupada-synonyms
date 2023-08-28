@@ -1,11 +1,5 @@
----json
-{
-    "name":"arupa",
-    "h1":"arupa",
-    "title":"arupa -- synonyms, prabhupada.io",
-    "description":"without form."
-}
----
+~~Title:arupa~~
+{{description>without form.}}
 
 ==== arūpa  ====
   * without form --- [[books:sb:5:2:10|SB 5.2.10]]

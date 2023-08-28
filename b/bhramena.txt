@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhramena",
-    "h1":"bhramena",
-    "title":"bhramena -- synonyms, prabhupada.io",
-    "description":"He walks; wanders."
-}
----
+~~Title:bhramena~~
+{{description>He walks; wanders.}}
 
 ==== bhramena  ====
   * He walks --- [[books:cc:antya:18:5|Antya 18.5]]

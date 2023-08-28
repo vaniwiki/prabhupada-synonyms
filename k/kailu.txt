@@ -1,11 +1,5 @@
----json
-{
-    "name":"kailu",
-    "h1":"kailu",
-    "title":"kailu -- synonyms, prabhupada.io",
-    "description":"I have done."
-}
----
+~~Title:kailu~~
+{{description>I have done.}}
 
 ==== kailu  ====
   * I have done --- [[books:cc:adi:17:183|Ādi 17.183]]

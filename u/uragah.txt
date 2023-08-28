@@ -1,11 +1,5 @@
----json
-{
-    "name":"uragah",
-    "h1":"uragah",
-    "title":"uragah -- synonyms, prabhupada.io",
-    "description":"the serpent."
-}
----
+~~Title:uragah~~
+{{description>the serpent.}}
 
 ==== uragaḥ  ====
   * the serpent --- [[books:sb:4:29:6|SB 4.29.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"antavat",
-    "h1":"antavat",
-    "title":"antavat -- synonyms, prabhupada.io",
-    "description":"limited and temporary."
-}
----
+~~Title:antavat~~
+{{description>limited and temporary.}}
 
 ==== antavat tu  ====
   * limited and temporary --- [[books:bg:7:23|Bg. 7.23]]

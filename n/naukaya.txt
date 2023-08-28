@@ -1,11 +1,5 @@
----json
-{
-    "name":"naukāya",
-    "h1":"naukāya",
-    "title":"naukāya -- synonyms, prabhupada.io",
-    "description":"on a boat."
-}
----
+~~Title:naukāya~~
+{{description>on a boat.}}
 
 ==== naukāya  ====
   * on a boat --- [[books:cc:madhya:18:157|Madhya 18.157]]

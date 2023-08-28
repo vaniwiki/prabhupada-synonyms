@@ -1,11 +1,5 @@
----json
-{
-    "name":"kandarāte",
-    "h1":"kandarāte",
-    "title":"kandarāte -- synonyms, prabhupada.io",
-    "description":"a cave."
-}
----
+~~Title:kandarāte~~
+{{description>a cave.}}
 
 ==== kandarāte  ====
   * a cave --- [[books:cc:antya:14:109|Antya 14.109]]

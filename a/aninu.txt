@@ -1,11 +1,5 @@
----json
-{
-    "name":"āninu",
-    "h1":"āninu",
-    "title":"āninu -- synonyms, prabhupada.io",
-    "description":"I brought."
-}
----
+~~Title:āninu~~
+{{description>I brought.}}
 
 ==== āninu  ====
   * I brought --- [[books:cc:madhya:15:256|Madhya 15.256]]

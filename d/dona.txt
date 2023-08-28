@@ -1,11 +1,5 @@
----json
-{
-    "name":"donā",
-    "h1":"donā",
-    "title":"donā -- synonyms, prabhupada.io",
-    "description":"the pot."
-}
----
+~~Title:donā~~
+{{description>the pot.}}
 
 ==== donā  ====
   * the pot --- [[books:cc:madhya:3:90|Madhya 3.90]]

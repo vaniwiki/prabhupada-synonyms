@@ -1,11 +1,5 @@
----json
-{
-    "name":"navya",
-    "h1":"navya",
-    "title":"navya -- synonyms, prabhupada.io",
-    "description":"new."
-}
----
+~~Title:navya~~
+{{description>new.}}
 
 ==== navya  ====
   * new --- [[books:cc:madhya:16:114-115|Madhya 16.114-115]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhramaye",
-    "h1":"bhramaye",
-    "title":"bhramaye -- synonyms, prabhupada.io",
-    "description":"travels."
-}
----
+~~Title:bhramaye~~
+{{description>travels.}}
 
 ==== bhramaye  ====
   * travels --- [[books:cc:madhya:17:228-229|Madhya 17.228-229]]

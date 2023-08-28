@@ -1,11 +1,5 @@
----json
-{
-    "name":"ise",
-    "h1":"ise",
-    "title":"ise -- synonyms, prabhupada.io",
-    "description":"the provider of all the demigods."
-}
----
+~~Title:ise~~
+{{description>the provider of all the demigods.}}
 
 ==== iṣe  ====
   * the provider of all the demigods --- [[books:sb:4:24:38|SB 4.24.38]]

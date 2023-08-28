@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitata",
-    "h1":"vitata",
-    "title":"vitata -- synonyms, prabhupada.io",
-    "description":"whose tongue was like a broad way."
-}
----
+~~Title:vitata~~
+{{description>whose tongue was like a broad way.}}
 
 ==== vitata-adhva-jihvaḥ  ====
   * whose tongue was like a broad way --- [[books:sb:10:12:17|SB 10.12.17]]

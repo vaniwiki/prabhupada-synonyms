@@ -1,11 +1,5 @@
----json
-{
-    "name":"acariba",
-    "h1":"acariba",
-    "title":"acariba -- synonyms, prabhupada.io",
-    "description":"You will do."
-}
----
+~~Title:acariba~~
+{{description>You will do.}}
 
 ==== ācaribā  ====
   * You will do --- [[books:cc:madhya:16:283|Madhya 16.283]]

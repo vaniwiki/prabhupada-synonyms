@@ -1,11 +1,5 @@
----json
-{
-    "name":"mānada",
-    "h1":"mānada",
-    "title":"mānada -- synonyms, prabhupada.io",
-    "description":"measured."
-}
----
+~~Title:mānada~~
+{{description>measured.}}
 
 ==== mānada  ====
   * measured --- [[books:sb:3:11:10|SB 3.11.10]]

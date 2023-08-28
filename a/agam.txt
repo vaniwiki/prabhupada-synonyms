@@ -1,11 +1,5 @@
----json
-{
-    "name":"agam",
-    "h1":"agam",
-    "title":"agam -- synonyms, prabhupada.io",
-    "description":"difficult to attain."
-}
----
+~~Title:agam~~
+{{description>difficult to attain.}}
 
 ==== agam  ====
   * difficult to attain --- [[books:sb:4:12:32|SB 4.12.32]]

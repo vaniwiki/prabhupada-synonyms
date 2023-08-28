@@ -1,11 +1,5 @@
----json
-{
-    "name":"ulūke",
-    "h1":"ulūke",
-    "title":"ulūke -- synonyms, prabhupada.io",
-    "description":"the owl."
-}
----
+~~Title:ulūke~~
+{{description>the owl.}}
 
 ==== ulūke  ====
   * the owl --- [[books:cc:adi:3:86|Ādi 3.86]]

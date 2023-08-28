@@ -1,11 +1,5 @@
----json
-{
-    "name":"visvak",
-    "h1":"visvak",
-    "title":"visvak -- synonyms, prabhupada.io",
-    "description":"everywhere."
-}
----
+~~Title:visvak~~
+{{description>everywhere.}}
 
 ==== viśvak  ====
   * everywhere --- [[books:sb:4:22:37|SB 4.22.37]]

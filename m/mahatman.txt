@@ -1,11 +1,5 @@
----json
-{
-    "name":"mahātman",
-    "h1":"mahātman",
-    "title":"mahātman -- synonyms, prabhupada.io",
-    "description":"O great one."
-}
----
+~~Title:mahātman~~
+{{description>O great one.}}
 
 ==== mahātman  ====
   * O great one --- [[books:bg:11:20|Bg. 11.20]], [[books:bg:11:37|Bg. 11.37]]

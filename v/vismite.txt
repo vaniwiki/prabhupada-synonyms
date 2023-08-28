@@ -1,11 +1,5 @@
----json
-{
-    "name":"vismite",
-    "h1":"vismite",
-    "title":"vismite -- synonyms, prabhupada.io",
-    "description":"astonished; struck with wonder."
-}
----
+~~Title:vismite~~
+{{description>astonished; struck with wonder.}}
 
 ==== vismite  ====
   * astonished --- [[books:cc:madhya:1:160|Madhya 1.160]]

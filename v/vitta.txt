@@ -1,11 +1,5 @@
----json
-{
-    "name":"vitta",
-    "h1":"vitta",
-    "title":"vitta -- synonyms, prabhupada.io",
-    "description":"bank balance; material opulences; money; wealth."
-}
----
+~~Title:vitta~~
+{{description>bank balance; material opulences; money; wealth.}}
 
 ==== vitta  ====
   * bank balance --- [[books:sb:5:18:10|SB 5.18.10]]

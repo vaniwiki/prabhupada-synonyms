@@ -1,11 +1,5 @@
----json
-{
-    "name":"tumulam",
-    "h1":"tumulam",
-    "title":"tumulam -- synonyms, prabhupada.io",
-    "description":"very fierce."
-}
----
+~~Title:tumulam~~
+{{description>very fierce.}}
 
 ==== tumulam  ====
   * very fierce --- [[books:sb:9:6:17|SB 9.6.17]]

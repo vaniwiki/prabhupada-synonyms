@@ -1,11 +1,5 @@
----json
-{
-    "name":"janaka",
-    "h1":"janaka",
-    "title":"janaka -- synonyms, prabhupada.io",
-    "description":"kings like Janaka and others."
-}
----
+~~Title:janaka~~
+{{description>kings like Janaka and others.}}
 
 ==== janaka-ādayaḥ  ====
   * kings like Janaka and others --- [[books:bg:3:20|Bg. 3.20]]

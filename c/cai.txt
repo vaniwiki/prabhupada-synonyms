@@ -1,11 +1,5 @@
----json
-{
-    "name":"cāi",
-    "h1":"cāi",
-    "title":"cāi -- synonyms, prabhupada.io",
-    "description":"I want; we want."
-}
----
+~~Title:cāi~~
+{{description>I want; we want.}}
 
 ==== cāi  ====
   * I want --- [[books:cc:adi:14:82|Ādi 14.82]]

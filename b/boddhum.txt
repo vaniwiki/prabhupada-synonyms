@@ -1,11 +1,5 @@
----json
-{
-    "name":"boddhum",
-    "h1":"boddhum",
-    "title":"boddhum -- synonyms, prabhupada.io",
-    "description":"to know."
-}
----
+~~Title:boddhum~~
+{{description>to know.}}
 
 ==== boddhum  ====
   * to know --- [[books:cc:adi:3:87|Ādi 3.87]]

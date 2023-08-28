@@ -1,11 +1,5 @@
----json
-{
-    "name":"catur",
-    "h1":"catur",
-    "title":"catur -- synonyms, prabhupada.io",
-    "description":"four hands; four-armed; fourhanded."
-}
----
+~~Title:catur~~
+{{description>four hands; four-armed; fourhanded.}}
 
 ==== catur-bhuja  ====
   * four hands --- [[books:cc:adi:6:32|Ādi 6.32]]

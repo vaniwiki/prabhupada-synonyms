@@ -1,11 +1,5 @@
----json
-{
-    "name":"tanba",
-    "h1":"tanba",
-    "title":"tanba -- synonyms, prabhupada.io",
-    "description":"full of."
-}
----
+~~Title:tanba~~
+{{description>full of.}}
 
 ==== tanba  ====
   * full of --- [[books:sb:1:6:13|SB 1.6.13]]

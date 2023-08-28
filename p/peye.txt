@@ -1,11 +1,5 @@
----json
-{
-    "name":"peye",
-    "h1":"peye",
-    "title":"peye -- synonyms, prabhupada.io",
-    "description":"and drinkables."
-}
----
+~~Title:peye~~
+{{description>and drinkables.}}
 
 ==== peye  ====
   * and drinkables --- [[books:cc:madhya:8:69|Madhya 8.69]]

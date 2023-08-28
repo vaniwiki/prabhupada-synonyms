@@ -1,11 +1,5 @@
----json
-{
-    "name":"divase",
-    "h1":"divase",
-    "title":"divase -- synonyms, prabhupada.io",
-    "description":"day."
-}
----
+~~Title:divase~~
+{{description>day.}}
 
 ==== divase  ====
   * day --- [[books:cc:adi:7:161|Ādi 7.161]]

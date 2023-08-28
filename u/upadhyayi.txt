@@ -1,11 +1,5 @@
----json
-{
-    "name":"upādhyāyī",
-    "h1":"upādhyāyī",
-    "title":"upādhyāyī -- synonyms, prabhupada.io",
-    "description":"my teacher of Vedic instruction."
-}
----
+~~Title:upādhyāyī~~
+{{description>my teacher of Vedic instruction.}}
 
 ==== guru upādhyāyī  ====
   * my teacher of Vedic instruction --- [[books:cc:antya:20:147|Antya 20.147]]

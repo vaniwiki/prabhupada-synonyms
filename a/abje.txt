@@ -1,11 +1,5 @@
----json
-{
-    "name":"abje",
-    "h1":"abje",
-    "title":"abje -- synonyms, prabhupada.io",
-    "description":"with the white lotus flowers."
-}
----
+~~Title:abje~~
+{{description>with the white lotus flowers.}}
 
 ==== hema-abje  ====
   * with the white lotus flowers --- [[books:cc:antya:18:94|Antya 18.94]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"akartum",
-    "h1":"akartum",
-    "title":"akartum -- synonyms, prabhupada.io",
-    "description":"not to do."
-}
----
+~~Title:akartum~~
+{{description>not to do.}}
 
 ==== akartum  ====
   * not to do --- [[books:cc:antya:9:44|Antya 9.44]]

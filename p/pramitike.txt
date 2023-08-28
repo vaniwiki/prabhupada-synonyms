@@ -1,11 +1,5 @@
----json
-{
-    "name":"pramitike",
-    "h1":"pramitike",
-    "title":"pramitike -- synonyms, prabhupada.io",
-    "description":"self-manifest and blissful."
-}
----
+~~Title:pramitike~~
+{{description>self-manifest and blissful.}}
 
 ==== sva-pramitike  ====
   * self-manifest and blissful --- [[books:sb:10:13:57|SB 10.13.57]]

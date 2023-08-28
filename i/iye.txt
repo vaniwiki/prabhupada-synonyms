@@ -1,11 +1,5 @@
----json
-{
-    "name":"iye",
-    "h1":"iye",
-    "title":"iye -- synonyms, prabhupada.io",
-    "description":"I am."
-}
----
+~~Title:iye~~
+{{description>I am.}}
 
 ==== āmi ha-iye  ====
   * I am --- [[books:cc:madhya:25:111|Madhya 25.111]]

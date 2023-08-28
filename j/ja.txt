@@ -1,11 +1,5 @@
----json
-{
-    "name":"ja",
-    "h1":"ja",
-    "title":"ja -- synonyms, prabhupada.io",
-    "description":"produced; produced by."
-}
----
+~~Title:ja~~
+{{description>produced; produced by.}}
 
 ==== ja  ====
   * produced --- [[books:cc:antya:4:64|Antya 4.64]]

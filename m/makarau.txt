@@ -1,11 +1,5 @@
----json
-{
-    "name":"makarau",
-    "h1":"makarau",
-    "title":"makarau -- synonyms, prabhupada.io",
-    "description":"two mountains named Triśṛṅga and Makara."
-}
----
+~~Title:makarau~~
+{{description>two mountains named Triśṛṅga and Makara.}}
 
 ==== triśṛṅga-makarau  ====
   * two mountains named Triśṛṅga and Makara --- [[books:sb:5:16:27|SB 5.16.27]]

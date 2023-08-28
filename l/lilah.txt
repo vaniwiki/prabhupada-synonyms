@@ -1,11 +1,5 @@
----json
-{
-    "name":"lilah",
-    "h1":"lilah",
-    "title":"lilah -- synonyms, prabhupada.io",
-    "description":"pastimes."
-}
----
+~~Title:lilah~~
+{{description>pastimes.}}
 
 ==== līlāḥ  ====
   * pastimes --- [[books:sb:3:5:22|SB 3.5.22]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"katipaya",
-    "h1":"katipaya",
-    "title":"katipaya -- synonyms, prabhupada.io",
-    "description":"a few."
-}
----
+~~Title:katipaya~~
+{{description>a few.}}
 
 ==== katipaya  ====
   * a few --- [[books:sb:9:1:23-24|SB 9.1.23-24]]

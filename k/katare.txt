@@ -1,11 +1,5 @@
----json
-{
-    "name":"katare",
-    "h1":"katare",
-    "title":"katare -- synonyms, prabhupada.io",
-    "description":"who."
-}
----
+~~Title:katare~~
+{{description>who.}}
 
 ==== katare  ====
   * who --- [[books:sb:10:13:43|SB 10.13.43]]

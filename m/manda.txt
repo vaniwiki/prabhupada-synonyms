@@ -1,11 +1,5 @@
----json
-{
-    "name":"manda",
-    "h1":"manda",
-    "title":"manda -- synonyms, prabhupada.io",
-    "description":"bad; O you fool; paltry; short; slow; very low; very slow; wrong; you fool."
-}
----
+~~Title:manda~~
+{{description>bad; O you fool; paltry; short; slow; very low; very slow; wrong; you fool.}}
 
 ==== manda  ====
   * bad --- [[books:cc:antya:5:62|Antya 5.62]]

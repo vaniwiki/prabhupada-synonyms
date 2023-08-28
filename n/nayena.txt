@@ -1,11 +1,5 @@
----json
-{
-    "name":"nayena",
-    "h1":"nayena",
-    "title":"nayena -- synonyms, prabhupada.io",
-    "description":"by logic."
-}
----
+~~Title:nayena~~
+{{description>by logic.}}
 
 ==== nayena  ====
   * by logic --- [[books:sb:3:7:9|SB 3.7.9]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"ap",
-    "h1":"ap",
-    "title":"ap -- synonyms, prabhupada.io",
-    "description":"water."
-}
----
+~~Title:ap~~
+{{description>water.}}
 
 ==== ap  ====
   * water --- [[books:sb:2:10:31|SB 2.10.31]], [[books:sb:6:9:21|SB 6.9.21]]

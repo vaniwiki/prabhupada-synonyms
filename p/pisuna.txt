@@ -1,11 +1,5 @@
----json
-{
-    "name":"piśuna",
-    "h1":"piśuna",
-    "title":"piśuna -- synonyms, prabhupada.io",
-    "description":"exciting."
-}
----
+~~Title:piśuna~~
+{{description>exciting.}}
 
 ==== piśuna  ====
   * exciting --- [[books:sb:1:11:36|SB 1.11.36]]

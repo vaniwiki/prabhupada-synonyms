@@ -1,11 +1,5 @@
----json
-{
-    "name":"caruna",
-    "h1":"caruna",
-    "title":"caruna -- synonyms, prabhupada.io",
-    "description":"with an offering of sweet rice."
-}
----
+~~Title:caruna~~
+{{description>with an offering of sweet rice.}}
 
 ==== caruṇā  ====
   * with an offering of sweet rice --- [[books:sb:6:19:22|SB 6.19.22]]

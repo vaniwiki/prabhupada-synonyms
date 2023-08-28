@@ -1,11 +1,5 @@
----json
-{
-    "name":"aila",
-    "h1":"aila",
-    "title":"aila -- synonyms, prabhupada.io",
-    "description":"Aila."
-}
----
+~~Title:aila~~
+{{description>Aila.}}
 
 ==== aila  ====
   * Aila --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

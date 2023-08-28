@@ -1,11 +1,5 @@
----json
-{
-    "name":"pasyata",
-    "h1":"pasyata",
-    "title":"pasyata -- synonyms, prabhupada.io",
-    "description":"everyone just see; just see."
-}
----
+~~Title:pasyata~~
+{{description>everyone just see; just see.}}
 
 ==== paśyata  ====
   * everyone just see --- [[books:sb:9:4:44|SB 9.4.44]]

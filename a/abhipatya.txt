@@ -1,11 +1,5 @@
----json
-{
-    "name":"abhipatya",
-    "h1":"abhipatya",
-    "title":"abhipatya -- synonyms, prabhupada.io",
-    "description":"chasing the enemy."
-}
----
+~~Title:abhipatya~~
+{{description>chasing the enemy.}}
 
 ==== abhipatya  ====
   * chasing the enemy --- [[books:sb:9:10:20|SB 9.10.20]]

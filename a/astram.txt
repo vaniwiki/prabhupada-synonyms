@@ -1,11 +1,5 @@
----json
-{
-    "name":"astram",
-    "h1":"astram",
-    "title":"astram -- synonyms, prabhupada.io",
-    "description":"a weapon; an arrow; weapon; weapons."
-}
----
+~~Title:astram~~
+{{description>a weapon; an arrow; weapon; weapons.}}
 
 ==== astram  ====
   * a weapon --- [[books:sb:6:8:8-10|SB 6.8.8-10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"indhana",
-    "h1":"indhana",
-    "title":"indhana -- synonyms, prabhupada.io",
-    "description":"wood."
-}
----
+~~Title:indhana~~
+{{description>wood.}}
 
 ==== indhana  ====
   * wood --- [[books:cc:madhya:2:28|Madhya 2.28]]

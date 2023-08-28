@@ -1,11 +1,5 @@
----json
-{
-    "name":"anugam",
-    "h1":"anugam",
-    "title":"anugam -- synonyms, prabhupada.io",
-    "description":"with your associates."
-}
----
+~~Title:anugam~~
+{{description>with your associates.}}
 
 ==== sa-anugam  ====
   * with your associates --- [[books:sb:8:22:35|SB 8.22.35]]

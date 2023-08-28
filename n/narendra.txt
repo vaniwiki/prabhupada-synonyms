@@ -1,11 +1,5 @@
----json
-{
-    "name":"narendra",
-    "h1":"narendra",
-    "title":"narendra -- synonyms, prabhupada.io",
-    "description":"O King; to the lake named Narendra."
-}
----
+~~Title:narendra~~
+{{description>O King; to the lake named Narendra.}}
 
 ==== narendra  ====
   * O King --- [[books:sb:5:11:15|SB 5.11.15]]

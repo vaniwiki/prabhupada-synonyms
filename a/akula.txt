@@ -1,11 +1,5 @@
----json
-{
-    "name":"akula",
-    "h1":"akula",
-    "title":"akula -- synonyms, prabhupada.io",
-    "description":"aggrieved; depressed; overwhelmed."
-}
----
+~~Title:akula~~
+{{description>aggrieved; depressed; overwhelmed.}}
 
 ==== ākula  ====
   * aggrieved --- [[books:sb:5:8:26|SB 5.8.26]]

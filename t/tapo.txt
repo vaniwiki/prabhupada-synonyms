@@ -1,11 +1,5 @@
----json
-{
-    "name":"tapo",
-    "h1":"tapo",
-    "title":"tapo -- synonyms, prabhupada.io",
-    "description":"sacrifice in austerities."
-}
----
+~~Title:tapo~~
+{{description>sacrifice in austerities.}}
 
 ==== tapo-yajñāḥ  ====
   * sacrifice in austerities --- [[books:bg:4:28|Bg. 4.28]]

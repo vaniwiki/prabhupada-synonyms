@@ -1,11 +1,5 @@
----json
-{
-    "name":"gopam",
-    "h1":"gopam",
-    "title":"gopam -- synonyms, prabhupada.io",
-    "description":"worthy to be protected by You."
-}
----
+~~Title:gopam~~
+{{description>worthy to be protected by You.}}
 
 ==== ātma-gopam  ====
   * worthy to be protected by You --- [[books:sb:3:16:23|SB 3.16.23]]

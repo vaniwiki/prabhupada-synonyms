@@ -1,11 +1,5 @@
----json
-{
-    "name":"payodhim",
-    "h1":"payodhim",
-    "title":"payodhim -- synonyms, prabhupada.io",
-    "description":"the ocean of milk."
-}
----
+~~Title:payodhim~~
+{{description>the ocean of milk.}}
 
 ==== payodhim  ====
   * the ocean of milk --- [[books:sb:8:5:10|SB 8.5.10]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"rahibe",
-    "h1":"rahibe",
-    "title":"rahibe -- synonyms, prabhupada.io",
-    "description":"should stay; will remain."
-}
----
+~~Title:rahibe~~
+{{description>should stay; will remain.}}
 
 ==== rahibe  ====
   * should stay --- [[books:cc:madhya:7:12|Madhya 7.12]]

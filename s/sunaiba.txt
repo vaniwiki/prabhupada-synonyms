@@ -1,11 +1,5 @@
----json
-{
-    "name":"sunaiba",
-    "h1":"sunaiba",
-    "title":"sunaiba -- synonyms, prabhupada.io",
-    "description":"I shall recite."
-}
----
+~~Title:sunaiba~~
+{{description>I shall recite.}}
 
 ==== śunāiba  ====
   * I shall recite --- [[books:cc:madhya:6:75|Madhya 6.75]]

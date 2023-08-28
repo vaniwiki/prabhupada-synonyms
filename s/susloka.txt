@@ -1,11 +1,5 @@
----json
-{
-    "name":"suśloka",
-    "h1":"suśloka",
-    "title":"suśloka -- synonyms, prabhupada.io",
-    "description":"pious."
-}
----
+~~Title:suśloka~~
+{{description>pious.}}
 
 ==== suśloka  ====
   * pious --- [[books:sb:3:6:37|SB 3.6.37]]

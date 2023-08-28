@@ -1,11 +1,5 @@
----json
-{
-    "name":"damana",
-    "h1":"damana",
-    "title":"damana -- synonyms, prabhupada.io",
-    "description":"controlling the senses."
-}
----
+~~Title:damana~~
+{{description>controlling the senses.}}
 
 ==== indriya-damana  ====
   * controlling the senses --- [[books:cc:antya:3:141|Antya 3.141]]

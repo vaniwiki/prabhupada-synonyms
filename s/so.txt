@@ -1,11 +1,5 @@
----json
-{
-    "name":"so",
-    "h1":"so",
-    "title":"so -- synonyms, prabhupada.io",
-    "description":"He."
-}
----
+~~Title:so~~
+{{description>He.}}
 
 ==== so  ====
   * He --- [[books:cc:madhya:8:194|Madhya 8.194]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratyeka",
-    "h1":"pratyeka",
-    "title":"pratyeka -- synonyms, prabhupada.io",
-    "description":"each and every."
-}
----
+~~Title:pratyeka~~
+{{description>each and every.}}
 
 ==== pratyeka  ====
   * each and every --- [[books:cc:madhya:11:143|Madhya 11.143]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"nagarīm",
-    "h1":"nagarīm",
-    "title":"nagarīm -- synonyms, prabhupada.io",
-    "description":"a town."
-}
----
+~~Title:nagarīm~~
+{{description>a town.}}
 
 ==== nagarīm  ====
   * a town --- [[books:sb:9:3:28|SB 9.3.28]]

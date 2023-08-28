@@ -1,11 +1,5 @@
----json
-{
-    "name":"paricita",
-    "h1":"paricita",
-    "title":"paricita -- synonyms, prabhupada.io",
-    "description":"i n creased."
-}
----
+~~Title:paricita~~
+{{description>i n creased.}}
 
 ==== paricita  ====
   * i n creased --- [[books:sb:5:7:12|SB 5.7.12]]

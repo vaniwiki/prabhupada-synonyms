@@ -1,11 +1,5 @@
----json
-{
-    "name":"trimalla",
-    "h1":"trimalla",
-    "title":"trimalla -- synonyms, prabhupada.io",
-    "description":"a place named Trimalla."
-}
----
+~~Title:trimalla~~
+{{description>a place named Trimalla.}}
 
 ==== trimalla  ====
   * a place named Trimalla --- [[books:cc:madhya:1:105|Madhya 1.105]]

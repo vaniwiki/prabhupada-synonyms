@@ -1,11 +1,5 @@
----json
-{
-    "name":"sangata",
-    "h1":"sangata",
-    "title":"sangata -- synonyms, prabhupada.io",
-    "description":"in company."
-}
----
+~~Title:sangata~~
+{{description>in company.}}
 
 ==== saṅgatā  ====
   * in company --- [[books:sb:3:23:45|SB 3.23.45]]

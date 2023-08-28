@@ -1,11 +1,5 @@
----json
-{
-    "name":"visadam",
-    "h1":"visadam",
-    "title":"visadam -- synonyms, prabhupada.io",
-    "description":"particularly."
-}
----
+~~Title:visadam~~
+{{description>particularly.}}
 
 ==== viśadam  ====
   * particularly --- [[books:sb:1:18:11|SB 1.18.11]]

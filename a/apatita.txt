@@ -1,11 +1,5 @@
----json
-{
-    "name":"apatita",
-    "h1":"apatita",
-    "title":"apatita -- synonyms, prabhupada.io",
-    "description":"without fail; without failure."
-}
----
+~~Title:apatita~~
+{{description>without fail; without failure.}}
 
 ==== apatita  ====
   * without fail --- [[books:cc:adi:10:43|Ādi 10.43]]

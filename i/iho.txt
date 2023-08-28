@@ -1,11 +1,5 @@
----json
-{
-    "name":"iho",
-    "h1":"iho",
-    "title":"iho -- synonyms, prabhupada.io",
-    "description":"this."
-}
----
+~~Title:iho~~
+{{description>this.}}
 
 ==== iho  ====
   * this --- [[books:cc:antya:7:124|Antya 7.124]]

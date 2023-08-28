@@ -1,11 +1,5 @@
----json
-{
-    "name":"sasana",
-    "h1":"sasana",
-    "title":"sasana -- synonyms, prabhupada.io",
-    "description":"activities of lording it over."
-}
----
+~~Title:sasana~~
+{{description>activities of lording it over.}}
 
 ==== sāśana  ====
   * activities of lording it over --- [[books:sb:2:6:21|SB 2.6.21]]

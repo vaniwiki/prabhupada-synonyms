@@ -1,11 +1,5 @@
----json
-{
-    "name":"anviccha",
-    "h1":"anviccha",
-    "title":"anviccha -- synonyms, prabhupada.io",
-    "description":"desire; try to find out."
-}
----
+~~Title:anviccha~~
+{{description>desire; try to find out.}}
 
 ==== anviccha  ====
   * desire --- [[books:bg:2:49|Bg. 2.49]]

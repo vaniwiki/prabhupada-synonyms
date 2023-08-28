@@ -1,11 +1,5 @@
----json
-{
-    "name":"smare",
-    "h1":"smare",
-    "title":"smare -- synonyms, prabhupada.io",
-    "description":"one remembers; remember; remembers."
-}
----
+~~Title:smare~~
+{{description>one remembers; remember; remembers.}}
 
 ==== smare  ====
   * one remembers --- [[books:cc:antya:20:140|Antya 20.140]]

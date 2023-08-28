@@ -1,11 +1,5 @@
----json
-{
-    "name":"prabhavau",
-    "h1":"prabhavau",
-    "title":"prabhavau -- synonyms, prabhupada.io",
-    "description":"the sources."
-}
----
+~~Title:prabhavau~~
+{{description>the sources.}}
 
 ==== prabhavau  ====
   * the sources --- [[books:sb:6:19:9|SB 6.19.9]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sammumoha",
-    "h1":"sammumoha",
-    "title":"sammumoha -- synonyms, prabhupada.io",
-    "description":"was overwhelmed."
-}
----
+~~Title:sammumoha~~
+{{description>was overwhelmed.}}
 
 ==== sammumoha  ====
   * was overwhelmed --- [[books:sb:1:18:2|SB 1.18.2]]

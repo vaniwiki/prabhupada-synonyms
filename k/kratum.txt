@@ -1,11 +1,5 @@
----json
-{
-    "name":"kratum",
-    "h1":"kratum",
-    "title":"kratum -- synonyms, prabhupada.io",
-    "description":"Kratu."
-}
----
+~~Title:kratum~~
+{{description>Kratu.}}
 
 ==== kratum  ====
   * Kratu --- [[books:sb:4:13:17|SB 4.13.17]]

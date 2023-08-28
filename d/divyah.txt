@@ -1,11 +1,5 @@
----json
-{
-    "name":"divyah",
-    "h1":"divyah",
-    "title":"divyah -- synonyms, prabhupada.io",
-    "description":"Divya."
-}
----
+~~Title:divyah~~
+{{description>Divya.}}
 
 ==== divyaḥ  ====
   * Divya --- [[books:sb:9:24:6-8|SB 9.24.6-8]]

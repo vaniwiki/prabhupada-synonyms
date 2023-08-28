@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicarasi",
-    "h1":"vicarasi",
-    "title":"vicarasi -- synonyms, prabhupada.io",
-    "description":"you are moving; You wander."
-}
----
+~~Title:vicarasi~~
+{{description>you are moving; You wander.}}
 
 ==== vicarasi  ====
   * you are moving --- [[books:sb:5:10:18|SB 5.10.18]]

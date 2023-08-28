@@ -1,11 +1,5 @@
----json
-{
-    "name":"sunirmala",
-    "h1":"sunirmala",
-    "title":"sunirmala -- synonyms, prabhupada.io",
-    "description":"very pure."
-}
----
+~~Title:sunirmala~~
+{{description>very pure.}}
 
 ==== sunirmala  ====
   * very pure --- [[books:cc:adi:16:86|Ādi 16.86]]

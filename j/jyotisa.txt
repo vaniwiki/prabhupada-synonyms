@@ -1,11 +1,5 @@
----json
-{
-    "name":"jyotisa",
-    "h1":"jyotisa",
-    "title":"jyotisa -- synonyms, prabhupada.io",
-    "description":"an astrologer."
-}
----
+~~Title:jyotisa~~
+{{description>an astrologer.}}
 
 ==== jyotiṣa  ====
   * an astrologer --- [[books:cc:adi:17:103|Ādi 17.103]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kuvāk",
-    "h1":"kuvāk",
-    "title":"kuvāk -- synonyms, prabhupada.io",
-    "description":"malicious words."
-}
----
+~~Title:kuvāk~~
+{{description>malicious words.}}
 
 ==== kuvāk-iṣūn  ====
   * malicious words --- [[books:sb:4:3:15|SB 4.3.15]]

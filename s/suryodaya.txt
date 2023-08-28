@@ -1,11 +1,5 @@
----json
-{
-    "name":"sūryodaya",
-    "h1":"sūryodaya",
-    "title":"sūryodaya -- synonyms, prabhupada.io",
-    "description":"the sun rises."
-}
----
+~~Title:sūryodaya~~
+{{description>the sun rises.}}
 
 ==== sūryodaya  ====
   * the sun rises --- [[books:cc:madhya:20:390|Madhya 20.390]]

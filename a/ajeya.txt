@@ -1,11 +1,5 @@
----json
-{
-    "name":"ajeya",
-    "h1":"ajeya",
-    "title":"ajeya -- synonyms, prabhupada.io",
-    "description":"unconquerable."
-}
----
+~~Title:ajeya~~
+{{description>unconquerable.}}
 
 ==== ajeya  ====
   * unconquerable --- [[books:cc:adi:6:73|Ādi 6.73]]

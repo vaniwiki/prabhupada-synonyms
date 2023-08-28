@@ -1,11 +1,5 @@
----json
-{
-    "name":"kutratyah",
-    "h1":"kutratyah",
-    "title":"kutratyah -- synonyms, prabhupada.io",
-    "description":"from where."
-}
----
+~~Title:kutratyah~~
+{{description>from where.}}
 
 ==== kutratyaḥ  ====
   * from where --- [[books:sb:5:10:16|SB 5.10.16]]

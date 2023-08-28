@@ -1,11 +1,5 @@
----json
-{
-    "name":"kichui",
-    "h1":"kichui",
-    "title":"kichui -- synonyms, prabhupada.io",
-    "description":"any; anything; something."
-}
----
+~~Title:kichui~~
+{{description>any; anything; something.}}
 
 ==== kichui  ====
   * any --- [[books:cc:antya:3:48|Antya 3.48]]

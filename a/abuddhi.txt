@@ -1,11 +1,5 @@
----json
-{
-    "name":"abuddhi",
-    "h1":"abuddhi",
-    "title":"abuddhi -- synonyms, prabhupada.io",
-    "description":"a person who has no intelligence."
-}
----
+~~Title:abuddhi~~
+{{description>a person who has no intelligence.}}
 
 ==== abuddhi  ====
   * a person who has no intelligence --- [[books:sb:10:6:8|SB 10.6.8]]

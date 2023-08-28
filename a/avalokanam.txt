@@ -1,11 +1,5 @@
----json
-{
-    "name":"avalokanam",
-    "h1":"avalokanam",
-    "title":"avalokanam -- synonyms, prabhupada.io",
-    "description":"seeing by actual experience."
-}
----
+~~Title:avalokanam~~
+{{description>seeing by actual experience.}}
 
 ==== avalokanam  ====
   * seeing by actual experience --- [[books:sb:2:9:22|SB 2.9.22]]

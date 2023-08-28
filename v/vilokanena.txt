@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilokanena",
-    "h1":"vilokanena",
-    "title":"vilokanena -- synonyms, prabhupada.io",
-    "description":"glance."
-}
----
+~~Title:vilokanena~~
+{{description>glance.}}
 
 ==== vilokanena  ====
   * glance --- [[books:sb:4:1:57|SB 4.1.57]]

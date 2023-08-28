@@ -1,11 +1,5 @@
----json
-{
-    "name":"stotum",
-    "h1":"stotum",
-    "title":"stotum -- synonyms, prabhupada.io",
-    "description":"to praise."
-}
----
+~~Title:stotum~~
+{{description>to praise.}}
 
 ==== stotum  ====
   * to praise --- [[books:sb:4:15:20|SB 4.15.20]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kambu",
-    "h1":"kambu",
-    "title":"kambu -- synonyms, prabhupada.io",
-    "description":"conchshell; like a conch; like a conchshell."
-}
----
+~~Title:kambu~~
+{{description>conchshell; like a conch; like a conchshell.}}
 
 ==== kambu  ====
   * conchshell --- [[books:sb:1:19:26|SB 1.19.26]]

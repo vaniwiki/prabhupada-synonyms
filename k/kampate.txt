@@ -1,11 +1,5 @@
----json
-{
-    "name":"kampate",
-    "h1":"kampate",
-    "title":"kampate -- synonyms, prabhupada.io",
-    "description":"throbbing."
-}
----
+~~Title:kampate~~
+{{description>throbbing.}}
 
 ==== kampate  ====
   * throbbing --- [[books:sb:1:14:15|SB 1.14.15]]

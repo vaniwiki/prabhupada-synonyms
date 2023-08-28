@@ -1,11 +1,5 @@
----json
-{
-    "name":"saksinam",
-    "h1":"saksinam",
-    "title":"saksinam -- synonyms, prabhupada.io",
-    "description":"an observer; the witness."
-}
----
+~~Title:saksinam~~
+{{description>an observer; the witness.}}
 
 ==== sākṣiṇam  ====
   * an observer --- [[books:sb:6:12:15|SB 6.12.15]]

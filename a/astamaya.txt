@@ -1,11 +1,5 @@
----json
-{
-    "name":"astamaya",
-    "h1":"astamaya",
-    "title":"astamaya -- synonyms, prabhupada.io",
-    "description":"sunset."
-}
----
+~~Title:astamaya~~
+{{description>sunset.}}
 
 ==== astamaya  ====
   * sunset --- [[books:sb:5:21:7|SB 5.21.7]]

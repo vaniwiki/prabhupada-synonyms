@@ -1,11 +1,5 @@
----json
-{
-    "name":"saya",
-    "h1":"saya",
-    "title":"saya -- synonyms, prabhupada.io",
-    "description":"resting."
-}
----
+~~Title:saya~~
+{{description>resting.}}
 
 ==== śaya  ====
   * resting --- [[books:cc:antya:4:64|Antya 4.64]]

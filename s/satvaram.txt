@@ -1,11 +1,5 @@
----json
-{
-    "name":"satvaram",
-    "h1":"satvaram",
-    "title":"satvaram -- synonyms, prabhupada.io",
-    "description":"very soon."
-}
----
+~~Title:satvaram~~
+{{description>very soon.}}
 
 ==== satvaram  ====
   * very soon --- [[books:sb:10:11:10|SB 10.11.10]], [[books:sb:10:13:24|SB 10.13.24]]

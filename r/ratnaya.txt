@@ -1,11 +1,5 @@
----json
-{
-    "name":"ratnaya",
-    "h1":"ratnaya",
-    "title":"ratnaya -- synonyms, prabhupada.io",
-    "description":"decorated with numerous jewels."
-}
----
+~~Title:ratnaya~~
+{{description>decorated with numerous jewels.}}
 
 ==== bahu-ratnayā  ====
   * decorated with numerous jewels --- [[books:sb:3:23:32|SB 3.23.32]]

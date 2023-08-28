@@ -1,11 +1,5 @@
----json
-{
-    "name":"cedi",
-    "h1":"cedi",
-    "title":"cedi -- synonyms, prabhupada.io",
-    "description":"female attendants."
-}
----
+~~Title:cedi~~
+{{description>female attendants.}}
 
 ==== ceḍī  ====
   * female attendants --- [[books:cc:adi:13:114|Ādi 13.114]]

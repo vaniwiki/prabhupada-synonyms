@@ -1,11 +1,5 @@
----json
-{
-    "name":"ari",
-    "h1":"ari",
-    "title":"ari -- synonyms, prabhupada.io",
-    "description":"disc; enemies; enemy; of the enemy."
-}
----
+~~Title:ari~~
+{{description>disc; enemies; enemy; of the enemy.}}
 
 ==== ari  ====
   * disc --- [[books:sb:6:8:12|SB 6.8.12]]

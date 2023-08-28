@@ -1,11 +1,5 @@
----json
-{
-    "name":"narma",
-    "h1":"narma",
-    "title":"narma -- synonyms, prabhupada.io",
-    "description":"joking."
-}
----
+~~Title:narma~~
+{{description>joking.}}
 
 ==== narma  ====
   * joking --- [[books:cc:antya:18:88|Antya 18.88]]

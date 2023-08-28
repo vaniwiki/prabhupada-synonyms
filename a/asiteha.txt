@@ -1,11 +1,5 @@
----json
-{
-    "name":"āsiteha",
-    "h1":"āsiteha",
-    "title":"āsiteha -- synonyms, prabhupada.io",
-    "description":"He is able to come."
-}
----
+~~Title:āsiteha~~
+{{description>He is able to come.}}
 
 ==== āsiteha pāre  ====
   * He is able to come --- [[books:cc:madhya:5:86|Madhya 5.86]]

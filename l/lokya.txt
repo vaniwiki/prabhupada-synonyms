@@ -1,11 +1,5 @@
----json
-{
-    "name":"lokya",
-    "h1":"lokya",
-    "title":"lokya -- synonyms, prabhupada.io",
-    "description":"in the three worlds; three planetary systems."
-}
----
+~~Title:lokya~~
+{{description>in the three worlds; three planetary systems.}}
 
 ==== trai-lokya  ====
   * in the three worlds --- [[books:sb:3:33:31|SB 3.33.31]]

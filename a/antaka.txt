@@ -1,11 +1,5 @@
----json
-{
-    "name":"antaka",
-    "h1":"antaka",
-    "title":"antaka -- synonyms, prabhupada.io",
-    "description":"termination."
-}
----
+~~Title:antaka~~
+{{description>termination.}}
 
 ==== antaka  ====
   * termination --- [[books:sb:4:7:28|SB 4.7.28]]

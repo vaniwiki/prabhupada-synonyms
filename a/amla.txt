@@ -1,11 +1,5 @@
----json
-{
-    "name":"amla",
-    "h1":"amla",
-    "title":"amla -- synonyms, prabhupada.io",
-    "description":"acid; sour."
-}
----
+~~Title:amla~~
+{{description>acid; sour.}}
 
 ==== amla  ====
   * acid --- [[books:sb:3:26:45|SB 3.26.45]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"varoru",
-    "h1":"varoru",
-    "title":"varoru -- synonyms, prabhupada.io",
-    "description":"O most fortunate one."
-}
----
+~~Title:varoru~~
+{{description>O most fortunate one.}}
 
 ==== varoru  ====
   * O most fortunate one --- [[books:sb:4:25:29|SB 4.25.29]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"apratta",
-    "h1":"apratta",
-    "title":"apratta -- synonyms, prabhupada.io",
-    "description":"not promised to anyone else."
-}
----
+~~Title:apratta~~
+{{description>not promised to anyone else.}}
 
 ==== aprattā  ====
   * not promised to anyone else --- [[books:sb:3:22:15|SB 3.22.15]]

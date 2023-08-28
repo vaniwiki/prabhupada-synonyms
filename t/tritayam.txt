@@ -1,11 +1,5 @@
----json
-{
-    "name":"tritayam",
-    "h1":"tritayam",
-    "title":"tritayam -- synonyms, prabhupada.io",
-    "description":"in three stages."
-}
----
+~~Title:tritayam~~
+{{description>in three stages.}}
 
 ==== tritayam  ====
   * in three stages --- [[books:sb:2:10:9|SB 2.10.9]]

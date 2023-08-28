@@ -1,11 +1,5 @@
----json
-{
-    "name":"karme",
-    "h1":"karme",
-    "title":"karme -- synonyms, prabhupada.io",
-    "description":"in their activities."
-}
----
+~~Title:karme~~
+{{description>in their activities.}}
 
 ==== karme  ====
   * in their activities --- [[books:cc:antya:3:78-79|Antya 3.78-79]]

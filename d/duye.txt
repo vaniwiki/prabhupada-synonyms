@@ -1,11 +1,5 @@
----json
-{
-    "name":"duye",
-    "h1":"duye",
-    "title":"duye -- synonyms, prabhupada.io",
-    "description":"in two (hands)."
-}
----
+~~Title:duye~~
+{{description>in two (hands).}}
 
 ==== duye  ====
   * in two (hands) --- [[books:cc:adi:17:14|Ādi 17.14]]

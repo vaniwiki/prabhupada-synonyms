@@ -1,11 +1,5 @@
----json
-{
-    "name":"parirambhi",
-    "h1":"parirambhi",
-    "title":"parirambhi -- synonyms, prabhupada.io",
-    "description":"encircled."
-}
----
+~~Title:parirambhi~~
+{{description>encircled.}}
 
 ==== parirambhi  ====
   * encircled --- [[books:sb:3:28:24|SB 3.28.24]]

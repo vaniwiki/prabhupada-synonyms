@@ -1,11 +1,5 @@
----json
-{
-    "name":"rodane",
-    "h1":"rodane",
-    "title":"rodane -- synonyms, prabhupada.io",
-    "description":"crying; in crying."
-}
----
+~~Title:rodane~~
+{{description>crying; in crying.}}
 
 ==== rodane  ====
   * crying --- [[books:cc:madhya:17:207|Madhya 17.207]]

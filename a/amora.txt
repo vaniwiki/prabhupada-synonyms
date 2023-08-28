@@ -1,11 +1,5 @@
----json
-{
-    "name":"amora",
-    "h1":"amora",
-    "title":"amora -- synonyms, prabhupada.io",
-    "description":"on my heart."
-}
----
+~~Title:amora~~
+{{description>on my heart.}}
 
 ==== amora hṛdaya  ====
   * on my heart --- [[books:cc:adi:17:186|Ādi 17.186]]

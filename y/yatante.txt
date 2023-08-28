@@ -1,11 +1,5 @@
----json
-{
-    "name":"yatante",
-    "h1":"yatante",
-    "title":"yatante -- synonyms, prabhupada.io",
-    "description":"they endeavor."
-}
----
+~~Title:yatante~~
+{{description>they endeavor.}}
 
 ==== yatante  ====
   * they endeavor --- [[books:sb:3:24:28|SB 3.24.28]]

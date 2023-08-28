@@ -1,11 +1,5 @@
----json
-{
-    "name":"chadam",
-    "h1":"chadam",
-    "title":"chadam -- synonyms, prabhupada.io",
-    "description":"lip."
-}
----
+~~Title:chadam~~
+{{description>lip.}}
 
 ==== dat-chadam  ====
   * lip --- [[books:sb:3:19:27|SB 3.19.27]]

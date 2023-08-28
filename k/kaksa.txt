@@ -1,11 +1,5 @@
----json
-{
-    "name":"kaksa",
-    "h1":"kaksa",
-    "title":"kaksa -- synonyms, prabhupada.io",
-    "description":"department."
-}
----
+~~Title:kaksa~~
+{{description>department.}}
 
 ==== kakṣā  ====
   * department --- [[books:cc:madhya:9:139|Madhya 9.139]]

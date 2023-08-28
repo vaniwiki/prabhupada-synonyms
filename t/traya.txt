@@ -1,11 +1,5 @@
----json
-{
-    "name":"traya",
-    "h1":"traya",
-    "title":"traya -- synonyms, prabhupada.io",
-    "description":"although without beginning, end or middle."
-}
----
+~~Title:traya~~
+{{description>although without beginning, end or middle.}}
 
 ==== traya-vidhuraḥ  ====
   * although without beginning, end or middle --- [[books:sb:6:16:36|SB 6.16.36]]

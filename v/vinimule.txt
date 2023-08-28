@@ -1,11 +1,5 @@
----json
-{
-    "name":"vinimūle",
-    "h1":"vinimūle",
-    "title":"vinimūle -- synonyms, prabhupada.io",
-    "description":"without a price."
-}
----
+~~Title:vinimūle~~
+{{description>without a price.}}
 
 ==== vinimūle  ====
   * without a price --- [[books:cc:madhya:21:130|Madhya 21.130]]

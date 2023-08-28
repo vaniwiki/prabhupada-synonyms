@@ -1,11 +1,5 @@
----json
-{
-    "name":"saptāham",
-    "h1":"saptāham",
-    "title":"saptāham -- synonyms, prabhupada.io",
-    "description":"seven days."
-}
----
+~~Title:saptāham~~
+{{description>seven days.}}
 
 ==== saptāham  ====
   * seven days --- [[books:sb:2:1:14|SB 2.1.14]]

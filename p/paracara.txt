@@ -1,11 +1,5 @@
----json
-{
-    "name":"paracara",
-    "h1":"paracara",
-    "title":"paracara -- synonyms, prabhupada.io",
-    "description":"preaching; proclamation; propagation."
-}
----
+~~Title:paracara~~
+{{description>preaching; proclamation; propagation.}}
 
 ==== paracāra  ====
   * preaching --- [[books:cc:adi:4:220|Ādi 4.220]]

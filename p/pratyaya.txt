@@ -1,11 +1,5 @@
----json
-{
-    "name":"pratyaya",
-    "h1":"pratyaya",
-    "title":"pratyaya -- synonyms, prabhupada.io",
-    "description":"there was confidence."
-}
----
+~~Title:pratyaya~~
+{{description>there was confidence.}}
 
 ==== pratyaya janmila  ====
   * there was confidence --- [[books:cc:antya:2:78|Antya 2.78]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"lathi",
-    "h1":"lathi",
-    "title":"lathi -- synonyms, prabhupada.io",
-    "description":"is kicked."
-}
----
+~~Title:lathi~~
+{{description>is kicked.}}
 
 ==== lāthi khāya  ====
   * is kicked --- [[books:cc:madhya:22:14-15|Madhya 22.14-15]]

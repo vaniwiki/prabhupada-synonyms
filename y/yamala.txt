@@ -1,11 +1,5 @@
----json
-{
-    "name":"yamala",
-    "h1":"yamala",
-    "title":"yamala -- synonyms, prabhupada.io",
-    "description":"the place where the twin arjuna trees were broken."
-}
----
+~~Title:yamala~~
+{{description>the place where the twin arjuna trees were broken.}}
 
 ==== yamala-arjuna-bhaṅga  ====
   * the place where the twin //arjuna// trees were broken --- [[books:cc:madhya:18:68|Madhya 18.68]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kranditam",
-    "h1":"kranditam",
-    "title":"kranditam -- synonyms, prabhupada.io",
-    "description":"the screaming."
-}
----
+~~Title:kranditam~~
+{{description>the screaming.}}
 
 ==== kranditam  ====
   * the screaming --- [[books:sb:9:2:5-6|SB 9.2.5-6]]

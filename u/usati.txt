@@ -1,11 +1,5 @@
----json
-{
-    "name":"usati",
-    "h1":"usati",
-    "title":"usati -- synonyms, prabhupada.io",
-    "description":"in a neat and clean place."
-}
----
+~~Title:usati~~
+{{description>in a neat and clean place.}}
 
 ==== uśati  ====
   * in a neat and clean place --- [[books:sb:10:8:31|SB 10.8.31]]

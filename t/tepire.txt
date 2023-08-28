@@ -1,11 +1,5 @@
----json
-{
-    "name":"tepire",
-    "h1":"tepire",
-    "title":"tepire -- synonyms, prabhupada.io",
-    "description":"they executed."
-}
----
+~~Title:tepire~~
+{{description>they executed.}}
 
 ==== tepire  ====
   * they executed --- [[books:sb:6:5:4-5|SB 6.5.4-5]]

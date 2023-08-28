@@ -1,11 +1,5 @@
----json
-{
-    "name":"ardha",
-    "h1":"ardha",
-    "title":"ardha -- synonyms, prabhupada.io",
-    "description":"half."
-}
----
+~~Title:ardha~~
+{{description>half.}}
 
 ==== ardha  ====
   * half --- [[books:cc:adi:5:98|Ādi 5.98]], [[books:cc:adi:7:140|Ādi 7.140]], [[books:cc:antya:15:5|Antya 15.5]]

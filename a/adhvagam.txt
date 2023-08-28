@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhvagam",
-    "h1":"adhvagam",
-    "title":"adhvagam -- synonyms, prabhupada.io",
-    "description":"comparable to a street beggar."
-}
----
+~~Title:adhvagam~~
+{{description>comparable to a street beggar.}}
 
 ==== adhvagam  ====
   * comparable to a street beggar --- [[books:sb:9:3:20|SB 9.3.20]]

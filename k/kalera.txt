@@ -1,11 +1,5 @@
----json
-{
-    "name":"kālera",
-    "h1":"kālera",
-    "title":"kālera -- synonyms, prabhupada.io",
-    "description":"all older."
-}
----
+~~Title:kālera~~
+{{description>all older.}}
 
 ==== cira-kālera  ====
   * all older --- [[books:cc:adi:15:6|Ādi 15.6]]

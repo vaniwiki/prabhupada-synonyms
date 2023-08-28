@@ -1,11 +1,5 @@
----json
-{
-    "name":"narasya",
-    "h1":"narasya",
-    "title":"narasya -- synonyms, prabhupada.io",
-    "description":"of the man."
-}
----
+~~Title:narasya~~
+{{description>of the man.}}
 
 ==== narasya  ====
   * of the man --- [[books:sb:2:3:20|SB 2.3.20]]

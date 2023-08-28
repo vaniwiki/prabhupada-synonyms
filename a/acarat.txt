@@ -1,11 +1,5 @@
----json
-{
-    "name":"acarat",
-    "h1":"acarat",
-    "title":"acarat -- synonyms, prabhupada.io",
-    "description":"executed; performed; practice; undertook; will travel."
-}
----
+~~Title:acarat~~
+{{description>executed; performed; practice; undertook; will travel.}}
 
 ==== acarat  ====
   * executed --- [[books:sb:6:4:20|SB 6.4.20]]

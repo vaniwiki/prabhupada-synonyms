@@ -1,11 +1,5 @@
----json
-{
-    "name":"stobham",
-    "h1":"stobham",
-    "title":"stobham -- synonyms, prabhupada.io",
-    "description":"as musical entertainment."
-}
----
+~~Title:stobham~~
+{{description>as musical entertainment.}}
 
 ==== stobham  ====
   * as musical entertainment --- [[books:sb:6:2:14|SB 6.2.14]]

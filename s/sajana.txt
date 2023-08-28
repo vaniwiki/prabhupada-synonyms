@@ -1,11 +1,5 @@
----json
-{
-    "name":"sajana",
-    "h1":"sajana",
-    "title":"sajana -- synonyms, prabhupada.io",
-    "description":"performance; so much decoration."
-}
----
+~~Title:sajana~~
+{{description>performance; so much decoration.}}
 
 ==== sājana  ====
   * performance --- [[books:cc:madhya:4:75|Madhya 4.75]]

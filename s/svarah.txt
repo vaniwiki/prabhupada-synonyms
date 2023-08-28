@@ -1,11 +1,5 @@
----json
-{
-    "name":"svarah",
-    "h1":"svarah",
-    "title":"svarah -- synonyms, prabhupada.io",
-    "description":"vowels."
-}
----
+~~Title:svarah~~
+{{description>vowels.}}
 
 ==== svaraḥ  ====
   * vowels --- [[books:sb:3:12:47|SB 3.12.47]]

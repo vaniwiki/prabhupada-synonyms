@@ -1,11 +1,5 @@
----json
-{
-    "name":"gāibe",
-    "h1":"gāibe",
-    "title":"gāibe -- synonyms, prabhupada.io",
-    "description":"will talk about."
-}
----
+~~Title:gāibe~~
+{{description>will talk about.}}
 
 ==== gāibe  ====
   * will talk about --- [[books:cc:antya:3:12|Antya 3.12]]

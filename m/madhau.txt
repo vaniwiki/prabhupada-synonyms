@@ -1,11 +1,5 @@
----json
-{
-    "name":"madhau",
-    "h1":"madhau",
-    "title":"madhau -- synonyms, prabhupada.io",
-    "description":"in the springtime."
-}
----
+~~Title:madhau~~
+{{description>in the springtime.}}
 
 ==== madhau  ====
   * in the springtime --- [[books:cc:adi:4:224|Ādi 4.224]], [[books:cc:madhya:8:144|Madhya 8.144]]

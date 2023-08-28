@@ -1,11 +1,5 @@
----json
-{
-    "name":"dhanvani",
-    "h1":"dhanvani",
-    "title":"dhanvani -- synonyms, prabhupada.io",
-    "description":"in the desert."
-}
----
+~~Title:dhanvani~~
+{{description>in the desert.}}
 
 ==== dhanvani  ====
   * in the desert --- [[books:sb:9:4:22|SB 9.4.22]]

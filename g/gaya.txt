@@ -1,11 +1,5 @@
----json
-{
-    "name":"gaya",
-    "h1":"gaya",
-    "title":"gaya -- synonyms, prabhupada.io",
-    "description":"Gaya."
-}
----
+~~Title:gaya~~
+{{description>Gaya.}}
 
 ==== gaya  ====
   * Gaya --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

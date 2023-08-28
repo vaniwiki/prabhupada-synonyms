@@ -1,11 +1,5 @@
----json
-{
-    "name":"nidrah",
-    "h1":"nidrah",
-    "title":"nidrah -- synonyms, prabhupada.io",
-    "description":"whose sleeping."
-}
----
+~~Title:nidrah~~
+{{description>whose sleeping.}}
 
 ==== nidraḥ  ====
   * whose sleeping --- [[books:sb:7:9:32|SB 7.9.32]]

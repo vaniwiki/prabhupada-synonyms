@@ -1,11 +1,5 @@
----json
-{
-    "name":"darpah",
-    "h1":"darpah",
-    "title":"darpah -- synonyms, prabhupada.io",
-    "description":"arrogance."
-}
----
+~~Title:darpah~~
+{{description>arrogance.}}
 
 ==== darpaḥ  ====
   * arrogance --- [[books:bg:16:4|Bg. 16.4]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vicara",
-    "h1":"vicara",
-    "title":"vicara -- synonyms, prabhupada.io",
-    "description":"considerations."
-}
----
+~~Title:vicara~~
+{{description>considerations.}}
 
 ==== vicara  ====
   * considerations --- [[books:cc:adi:8:31|Ādi 8.31]]

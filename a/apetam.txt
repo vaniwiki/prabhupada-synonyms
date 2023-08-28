@@ -1,11 +1,5 @@
----json
-{
-    "name":"apetam",
-    "h1":"apetam",
-    "title":"apetam -- synonyms, prabhupada.io",
-    "description":"departed."
-}
----
+~~Title:apetam~~
+{{description>departed.}}
 
 ==== apetam  ====
   * departed --- [[books:sb:3:28:37|SB 3.28.37]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"akarta",
-    "h1":"akarta",
-    "title":"akarta -- synonyms, prabhupada.io",
-    "description":"you have made."
-}
----
+~~Title:akarta~~
+{{description>you have made.}}
 
 ==== akarta  ====
   * you have made --- [[books:sb:9:16:35|SB 9.16.35]]

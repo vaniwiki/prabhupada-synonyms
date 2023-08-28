@@ -1,11 +1,5 @@
----json
-{
-    "name":"videha",
-    "h1":"videha",
-    "title":"videha -- synonyms, prabhupada.io",
-    "description":"Mahārāja Janaka."
-}
----
+~~Title:videha~~
+{{description>Mahārāja Janaka.}}
 
 ==== videha  ====
   * Mahārāja Janaka --- [[books:sb:2:7:43-45|SB 2.7.43-45]]

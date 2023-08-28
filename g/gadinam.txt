@@ -1,11 +1,5 @@
----json
-{
-    "name":"gadinam",
-    "h1":"gadinam",
-    "title":"gadinam -- synonyms, prabhupada.io",
-    "description":"with club; with maces."
-}
----
+~~Title:gadinam~~
+{{description>with club; with maces.}}
 
 ==== gadinam  ====
   * with club --- [[books:bg:11:46|Bg. 11.46]]

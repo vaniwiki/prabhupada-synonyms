@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarvasmai",
-    "h1":"sarvasmai",
-    "title":"sarvasmai -- synonyms, prabhupada.io",
-    "description":"the Supreme Soul."
-}
----
+~~Title:sarvasmai~~
+{{description>the Supreme Soul.}}
 
 ==== sarvasmai  ====
   * the Supreme Soul --- [[books:sb:4:24:33|SB 4.24.33]]

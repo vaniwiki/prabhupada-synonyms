@@ -1,11 +1,5 @@
----json
-{
-    "name":"agrajah",
-    "h1":"agrajah",
-    "title":"agrajah -- synonyms, prabhupada.io",
-    "description":"older brother."
-}
----
+~~Title:agrajah~~
+{{description>older brother.}}
 
 ==== agrajaḥ  ====
   * older brother --- [[books:sb:10:8:34|SB 10.8.34]]

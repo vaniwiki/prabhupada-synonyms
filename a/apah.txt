@@ -1,11 +1,5 @@
----json
-{
-    "name":"apah",
-    "h1":"apah",
-    "title":"apah -- synonyms, prabhupada.io",
-    "description":"in the water; rain; the water; water."
-}
----
+~~Title:apah~~
+{{description>in the water; rain; the water; water.}}
 
 ==== apaḥ  ====
   * in the water --- [[books:sb:8:7:6|SB 8.7.6]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"kola",
-    "h1":"kola",
-    "title":"kola -- synonyms, prabhupada.io",
-    "description":"the lap."
-}
----
+~~Title:kola~~
+{{description>the lap.}}
 
 ==== kola  ====
   * the lap --- [[books:cc:madhya:21:142|Madhya 21.142]]

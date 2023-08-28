@@ -1,11 +1,5 @@
----json
-{
-    "name":"la'be",
-    "h1":"la'be",
-    "title":"la'be -- synonyms, prabhupada.io",
-    "description":"you should chant."
-}
----
+~~Title:la'be~~
+{{description>you should chant.}}
 
 ==== la'be  ====
   * you should chant --- [[books:cc:antya:6:237|Antya 6.237]]

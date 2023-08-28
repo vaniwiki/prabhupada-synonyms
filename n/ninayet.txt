@@ -1,11 +1,5 @@
----json
-{
-    "name":"ninayet",
-    "h1":"ninayet",
-    "title":"ninayet -- synonyms, prabhupada.io",
-    "description":"merge."
-}
----
+~~Title:ninayet~~
+{{description>merge.}}
 
 ==== ninayet  ====
   * merge --- [[books:sb:2:2:16|SB 2.2.16]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"rathera",
-    "h1":"rathera",
-    "title":"rathera -- synonyms, prabhupada.io",
-    "description":"a car; of the car."
-}
----
+~~Title:rathera~~
+{{description>a car; of the car.}}
 
 ==== rathera  ====
   * a car --- [[books:cc:madhya:13:22|Madhya 13.22]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"adhivāsam",
-    "h1":"adhivāsam",
-    "title":"adhivāsam -- synonyms, prabhupada.io",
-    "description":"the abode."
-}
----
+~~Title:adhivāsam~~
+{{description>the abode.}}
 
 ==== adhivāsam  ====
   * the abode --- [[books:sb:3:28:26|SB 3.28.26]]

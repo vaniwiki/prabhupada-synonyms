@@ -1,11 +1,5 @@
----json
-{
-    "name":"pute",
-    "h1":"pute",
-    "title":"pute -- synonyms, prabhupada.io",
-    "description":"to the lips."
-}
----
+~~Title:pute~~
+{{description>to the lips.}}
 
 ==== adhara-puṭe  ====
   * to the lips --- [[books:cc:adi:4:260|Ādi 4.260]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"a",
-    "h1":"a",
-    "title":"a -- synonyms, prabhupada.io",
-    "description":"even up to; from all sides; up to the limit of."
-}
----
+~~Title:a~~
+{{description>even up to; from all sides; up to the limit of.}}
 
 ==== ā ====
   * even up to --- [[books:sb:7:14:11|SB 7.14.11]]

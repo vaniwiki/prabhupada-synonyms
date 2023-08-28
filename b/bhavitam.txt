@@ -1,11 +1,5 @@
----json
-{
-    "name":"bhavitam",
-    "h1":"bhavitam",
-    "title":"bhavitam -- synonyms, prabhupada.io",
-    "description":"dedicated."
-}
----
+~~Title:bhavitam~~
+{{description>dedicated.}}
 
 ==== bhāvitam  ====
   * dedicated --- [[books:sb:1:5:32|SB 1.5.32]]

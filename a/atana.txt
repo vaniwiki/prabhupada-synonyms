@@ -1,11 +1,5 @@
----json
-{
-    "name":"atana",
-    "h1":"atana",
-    "title":"atana -- synonyms, prabhupada.io",
-    "description":"walking; walking together."
-}
----
+~~Title:atana~~
+{{description>walking; walking together.}}
 
 ==== aṭana  ====
   * walking --- [[books:sb:5:8:11|SB 5.8.11]]

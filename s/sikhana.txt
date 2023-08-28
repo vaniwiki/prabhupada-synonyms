@@ -1,11 +1,5 @@
----json
-{
-    "name":"śikhāna",
-    "h1":"śikhāna",
-    "title":"śikhāna -- synonyms, prabhupada.io",
-    "description":"the teaching."
-}
----
+~~Title:śikhāna~~
+{{description>the teaching.}}
 
 ==== śikhāna  ====
   * the teaching --- [[books:cc:adi:3:21|Ādi 3.21]]

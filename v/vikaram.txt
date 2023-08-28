@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikāram",
-    "h1":"vikāram",
-    "title":"vikāram -- synonyms, prabhupada.io",
-    "description":"interaction."
-}
----
+~~Title:vikāram~~
+{{description>interaction.}}
 
 ==== sa-vikāram  ====
   * interaction --- [[books:bg:13:6-7|Bg. 13.6-7]]

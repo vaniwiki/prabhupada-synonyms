@@ -1,11 +1,5 @@
----json
-{
-    "name":"anunayan",
-    "h1":"anunayan",
-    "title":"anunayan -- synonyms, prabhupada.io",
-    "description":"pacifying."
-}
----
+~~Title:anunayan~~
+{{description>pacifying.}}
 
 ==== anunayan  ====
   * pacifying --- [[books:sb:3:14:16|SB 3.14.16]]

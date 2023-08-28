@@ -1,11 +1,5 @@
----json
-{
-    "name":"pathena",
-    "h1":"pathena",
-    "title":"pathena -- synonyms, prabhupada.io",
-    "description":"on the way to."
-}
----
+~~Title:pathena~~
+{{description>on the way to.}}
 
 ==== pathena  ====
   * on the way to --- [[books:sb:2:2:24|SB 2.2.24]]

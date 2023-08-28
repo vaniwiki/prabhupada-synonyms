@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasana",
-    "h1":"vasana",
-    "title":"vasana -- synonyms, prabhupada.io",
-    "description":"cloth; cloth garment; clothing; garments; soft cloth."
-}
----
+~~Title:vasana~~
+{{description>cloth; cloth garment; clothing; garments; soft cloth.}}
 
 ==== vasana  ====
   * cloth --- [[books:cc:madhya:15:219|Madhya 15.219]]

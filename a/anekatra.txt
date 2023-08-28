@@ -1,11 +1,5 @@
----json
-{
-    "name":"anekatra",
-    "h1":"anekatra",
-    "title":"anekatra -- synonyms, prabhupada.io",
-    "description":"in many places."
-}
----
+~~Title:anekatra~~
+{{description>in many places.}}
 
 ==== anekatra  ====
   * in many places --- [[books:cc:adi:1:75|Ādi 1.75]]

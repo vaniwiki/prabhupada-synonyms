@@ -1,11 +1,5 @@
----json
-{
-    "name":"ramhasam",
-    "h1":"ramhasam",
-    "title":"ramhasam -- synonyms, prabhupada.io",
-    "description":"whose velocity."
-}
----
+~~Title:ramhasam~~
+{{description>whose velocity.}}
 
 ==== raṁhasam  ====
   * whose velocity --- [[books:sb:4:19:27|SB 4.19.27]]

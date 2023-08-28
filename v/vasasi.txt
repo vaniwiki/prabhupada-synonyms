@@ -1,11 +1,5 @@
----json
-{
-    "name":"vasasi",
-    "h1":"vasasi",
-    "title":"vasasi -- synonyms, prabhupada.io",
-    "description":"reside."
-}
----
+~~Title:vasasi~~
+{{description>reside.}}
 
 ==== vasasi  ====
   * reside --- [[books:cc:antya:1:144|Antya 1.144]]

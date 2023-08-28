@@ -1,11 +1,5 @@
----json
-{
-    "name":"jantu",
-    "h1":"jantu",
-    "title":"jantu -- synonyms, prabhupada.io",
-    "description":"of worms."
-}
----
+~~Title:jantu~~
+{{description>of worms.}}
 
 ==== jantu  ====
   * of worms --- [[books:sb:3:31:5|SB 3.31.5]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"bahvīnām",
-    "h1":"bahvīnām",
-    "title":"bahvīnām -- synonyms, prabhupada.io",
-    "description":"a great number."
-}
----
+~~Title:bahvīnām~~
+{{description>a great number.}}
 
 ==== bahvīnām  ====
   * a great number --- [[books:sb:9:19:5-6|SB 9.19.5-6]]

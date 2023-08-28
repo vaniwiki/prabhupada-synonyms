@@ -1,11 +1,5 @@
----json
-{
-    "name":"vatsapa",
-    "h1":"vatsapa",
-    "title":"vatsapa -- synonyms, prabhupada.io",
-    "description":"exactly like the cowherd boys."
-}
----
+~~Title:vatsapa~~
+{{description>exactly like the cowherd boys.}}
 
 ==== yāvat vatsapa  ====
   * exactly like the cowherd boys --- [[books:sb:10:13:19|SB 10.13.19]]

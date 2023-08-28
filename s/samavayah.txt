@@ -1,11 +1,5 @@
----json
-{
-    "name":"samavayah",
-    "h1":"samavayah",
-    "title":"samavayah -- synonyms, prabhupada.io",
-    "description":"the cooperation."
-}
----
+~~Title:samavayah~~
+{{description>the cooperation.}}
 
 ==== samavāyaḥ  ====
   * the cooperation --- [[books:sb:6:9:34|SB 6.9.34]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"protpanna",
-    "h1":"protpanna",
-    "title":"protpanna -- synonyms, prabhupada.io",
-    "description":"highly inclined."
-}
----
+~~Title:protpanna~~
+{{description>highly inclined.}}
 
 ==== protpanna  ====
   * highly inclined --- [[books:sb:6:5:4-5|SB 6.5.4-5]]

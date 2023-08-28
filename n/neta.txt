@@ -1,11 +1,5 @@
----json
-{
-    "name":"neta",
-    "h1":"neta",
-    "title":"neta -- synonyms, prabhupada.io",
-    "description":"supreme hero."
-}
----
+~~Title:neta~~
+{{description>supreme hero.}}
 
 ==== netā  ====
   * supreme hero --- [[books:cc:madhya:23:70|Madhya 23.70]]

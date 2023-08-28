@@ -1,11 +1,5 @@
----json
-{
-    "name":"gataye",
-    "h1":"gataye",
-    "title":"gataye -- synonyms, prabhupada.io",
-    "description":"to understand the meaning."
-}
----
+~~Title:gataye~~
+{{description>to understand the meaning.}}
 
 ==== artha-gataye  ====
   * to understand the meaning --- [[books:cc:antya:1:186|Antya 1.186]]

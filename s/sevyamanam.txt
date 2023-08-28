@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevyamanam",
-    "h1":"sevyamanam",
-    "title":"sevyamanam -- synonyms, prabhupada.io",
-    "description":"being served."
-}
----
+~~Title:sevyamanam~~
+{{description>being served.}}
 
 ==== sevyamānam  ====
   * being served --- [[books:cc:adi:5:22|Ādi 5.22]]

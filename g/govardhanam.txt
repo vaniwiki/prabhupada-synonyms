@@ -1,11 +1,5 @@
----json
-{
-    "name":"govardhanam",
-    "h1":"govardhanam",
-    "title":"govardhanam -- synonyms, prabhupada.io",
-    "description":"along with Govardhana Hill."
-}
----
+~~Title:govardhanam~~
+{{description>along with Govardhana Hill.}}
 
 ==== govardhanam  ====
   * along with Govardhana Hill --- [[books:sb:10:11:36|SB 10.11.36]]

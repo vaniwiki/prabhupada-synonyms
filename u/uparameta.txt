@@ -1,11 +1,5 @@
----json
-{
-    "name":"uparameta",
-    "h1":"uparameta",
-    "title":"uparameta -- synonyms, prabhupada.io",
-    "description":"one should desist."
-}
----
+~~Title:uparameta~~
+{{description>one should desist.}}
 
 ==== uparameta  ====
   * one should desist --- [[books:sb:5:5:14|SB 5.5.14]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"srjam",
-    "h1":"srjam",
-    "title":"srjam -- synonyms, prabhupada.io",
-    "description":"of those who created; the engineers."
-}
----
+~~Title:srjam~~
+{{description>of those who created; the engineers.}}
 
 ==== sṛjām  ====
   * of those who created --- [[books:sb:3:12:36|SB 3.12.36]]

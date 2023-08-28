@@ -1,11 +1,5 @@
----json
-{
-    "name":"rātula",
-    "h1":"rātula",
-    "title":"rātula -- synonyms, prabhupada.io",
-    "description":"red."
-}
----
+~~Title:rātula~~
+{{description>red.}}
 
 ==== rātula  ====
   * red --- [[books:cc:antya:13:52|Antya 13.52]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"unnidra",
-    "h1":"unnidra",
-    "title":"unnidra -- synonyms, prabhupada.io",
-    "description":"blooming."
-}
----
+~~Title:unnidra~~
+{{description>blooming.}}
 
 ==== unnidra  ====
   * blooming --- [[books:sb:2:2:10|SB 2.2.10]], [[books:sb:6:9:29-30|SB 6.9.29-30]]

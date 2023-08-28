@@ -1,11 +1,5 @@
----json
-{
-    "name":"patram",
-    "h1":"patram",
-    "title":"patram -- synonyms, prabhupada.io",
-    "description":"a leaf."
-}
----
+~~Title:patram~~
+{{description>a leaf.}}
 
 ==== patram  ====
   * a leaf --- [[books:bg:9:26|Bg. 9.26]]

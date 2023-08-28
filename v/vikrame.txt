@@ -1,11 +1,5 @@
----json
-{
-    "name":"vikrame",
-    "h1":"vikrame",
-    "title":"vikrame -- synonyms, prabhupada.io",
-    "description":"adventures."
-}
----
+~~Title:vikrame~~
+{{description>adventures.}}
 
 ==== vikrame  ====
   * adventures --- [[books:sb:1:1:19|SB 1.1.19]]

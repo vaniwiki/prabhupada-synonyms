@@ -1,11 +1,5 @@
----json
-{
-    "name":"bandha",
-    "h1":"bandha",
-    "title":"bandha -- synonyms, prabhupada.io",
-    "description":"binding; bondage; conditioned; of bondage."
-}
----
+~~Title:bandha~~
+{{description>binding; bondage; conditioned; of bondage.}}
 
 ==== bandha  ====
   * binding --- [[books:cc:madhya:2:46|Madhya 2.46]]

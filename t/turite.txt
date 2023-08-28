@@ -1,11 +1,5 @@
----json
-{
-    "name":"turite",
-    "h1":"turite",
-    "title":"turite -- synonyms, prabhupada.io",
-    "description":"very hastily."
-}
----
+~~Title:turite~~
+{{description>very hastily.}}
 
 ==== turite  ====
   * very hastily --- [[books:cc:antya:5:54|Antya 5.54]]

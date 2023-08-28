@@ -1,11 +1,5 @@
----json
-{
-    "name":"cintya",
-    "h1":"cintya",
-    "title":"cintya -- synonyms, prabhupada.io",
-    "description":"appreciable by great yogīs."
-}
----
+~~Title:cintya~~
+{{description>appreciable by great yogīs.}}
 
 ==== yogi-cintya  ====
   * appreciable by great //yogīs// --- [[books:cc:madhya:24:72|Madhya 24.72]]

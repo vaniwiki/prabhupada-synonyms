@@ -1,11 +1,5 @@
----json
-{
-    "name":"jāma",
-    "h1":"jāma",
-    "title":"jāma -- synonyms, prabhupada.io",
-    "description":"blackberries."
-}
----
+~~Title:jāma~~
+{{description>blackberries.}}
 
 ==== jāma  ====
   * blackberries --- [[books:cc:antya:18:104|Antya 18.104]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"vilaya",
-    "h1":"vilaya",
-    "title":"vilaya -- synonyms, prabhupada.io",
-    "description":"distribute; distributes."
-}
----
+~~Title:vilaya~~
+{{description>distribute; distributes.}}
 
 ==== vilāya  ====
   * distribute --- [[books:cc:antya:9:121|Antya 9.121]]

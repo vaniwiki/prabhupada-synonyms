@@ -1,11 +1,5 @@
----json
-{
-    "name":"pramuktam",
-    "h1":"pramuktam",
-    "title":"pramuktam -- synonyms, prabhupada.io",
-    "description":"now liberated."
-}
----
+~~Title:pramuktam~~
+{{description>now liberated.}}
 
 ==== pramuktam  ====
   * now liberated --- [[books:sb:10:7:30|SB 10.7.30]]

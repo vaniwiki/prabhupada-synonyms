@@ -1,11 +1,5 @@
----json
-{
-    "name":"sarati",
-    "h1":"sarati",
-    "title":"sarati -- synonyms, prabhupada.io",
-    "description":"goes away."
-}
----
+~~Title:sarati~~
+{{description>goes away.}}
 
 ==== sarati  ====
   * goes away --- [[books:sb:4:31:20|SB 4.31.20]]

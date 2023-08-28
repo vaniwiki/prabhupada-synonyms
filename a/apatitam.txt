@@ -1,11 +1,5 @@
----json
-{
-    "name":"apatitam",
-    "h1":"apatitam",
-    "title":"apatitam -- synonyms, prabhupada.io",
-    "description":"who is not fallen."
-}
----
+~~Title:apatitam~~
+{{description>who is not fallen.}}
 
 ==== apatitam  ====
   * who is not fallen --- [[books:sb:7:11:28|SB 7.11.28]]

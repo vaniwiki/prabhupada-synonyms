@@ -1,11 +1,5 @@
----json
-{
-    "name":"kavira",
-    "h1":"kavira",
-    "title":"kavira -- synonyms, prabhupada.io",
-    "description":"of the poet."
-}
----
+~~Title:kavira~~
+{{description>of the poet.}}
 
 ==== kavira  ====
   * of the poet --- [[books:cc:antya:5:129|Antya 5.129]], [[books:cc:antya:5:161|Antya 5.161]]

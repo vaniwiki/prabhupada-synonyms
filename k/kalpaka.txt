@@ -1,11 +1,5 @@
----json
-{
-    "name":"kalpaka",
-    "h1":"kalpaka",
-    "title":"kalpaka -- synonyms, prabhupada.io",
-    "description":"who are like the desire tree."
-}
----
+~~Title:kalpaka~~
+{{description>who are like the desire tree.}}
 
 ==== kalpaka-tarum  ====
   * who are like the desire tree --- [[books:sb:4:9:9|SB 4.9.9]]

@@ -1,11 +1,5 @@
----json
-{
-    "name":"sevyam",
-    "h1":"sevyam",
-    "title":"sevyam -- synonyms, prabhupada.io",
-    "description":"a very happy, very suitable place."
-}
----
+~~Title:sevyam~~
+{{description>a very happy, very suitable place.}}
 
 ==== sevyam  ====
   * a very happy, very suitable place --- [[books:sb:10:11:28|SB 10.11.28]]

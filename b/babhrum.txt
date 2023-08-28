@@ -1,11 +1,5 @@
----json
-{
-    "name":"babhrum",
-    "h1":"babhrum",
-    "title":"babhrum -- synonyms, prabhupada.io",
-    "description":"the cow."
-}
----
+~~Title:babhrum~~
+{{description>the cow.}}
 
 ==== babhrum  ====
   * the cow --- [[books:sb:9:2:8|SB 9.2.8]]

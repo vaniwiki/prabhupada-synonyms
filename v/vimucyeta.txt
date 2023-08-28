@@ -1,11 +1,5 @@
----json
-{
-    "name":"vimucyeta",
-    "h1":"vimucyeta",
-    "title":"vimucyeta -- synonyms, prabhupada.io",
-    "description":"gets freedom; one can be released."
-}
----
+~~Title:vimucyeta~~
+{{description>gets freedom; one can be released.}}
 
 ==== vimucyeta  ====
   * gets freedom --- [[books:sb:1:1:14|SB 1.1.14]]

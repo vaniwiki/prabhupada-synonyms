@@ -1,11 +1,5 @@
----json
-{
-    "name":"lauha",
-    "h1":"lauha",
-    "title":"lauha -- synonyms, prabhupada.io",
-    "description":"iron."
-}
----
+~~Title:lauha~~
+{{description>iron.}}
 
 ==== lauha  ====
   * iron --- [[books:cc:adi:4:164|Ādi 4.164]], [[books:cc:adi:5:60|Ādi 5.60]], [[books:cc:madhya:20:261|Madhya 20.261]]

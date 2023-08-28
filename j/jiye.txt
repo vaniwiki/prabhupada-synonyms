@@ -1,11 +1,5 @@
----json
-{
-    "name":"jiye",
-    "h1":"jiye",
-    "title":"jiye -- synonyms, prabhupada.io",
-    "description":"I live; sustains life."
-}
----
+~~Title:jiye~~
+{{description>I live; sustains life.}}
 
 ==== jiye  ====
   * I live --- [[books:cc:madhya:2:92|Madhya 2.92]]

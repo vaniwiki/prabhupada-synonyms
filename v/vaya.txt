@@ -1,11 +1,5 @@
----json
-{
-    "name":"vaya",
-    "h1":"vaya",
-    "title":"vaya -- synonyms, prabhupada.io",
-    "description":"flow down."
-}
----
+~~Title:vaya~~
+{{description>flow down.}}
 
 ==== vaya  ====
   * flow down --- [[books:cc:adi:8:23|Ādi 8.23]]

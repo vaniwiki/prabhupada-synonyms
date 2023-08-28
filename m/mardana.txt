@@ -1,11 +1,5 @@
----json
-{
-    "name":"mardana",
-    "h1":"mardana",
-    "title":"mardana -- synonyms, prabhupada.io",
-    "description":"massaging."
-}
----
+~~Title:mardana~~
+{{description>massaging.}}
 
 ==== mardana  ====
   * massaging --- [[books:cc:antya:18:100|Antya 18.100]]

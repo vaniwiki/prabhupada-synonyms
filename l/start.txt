@@ -1,7 +1,15 @@
-~~bc:J~~
-====== Synonyms J ======
+---json
+{
+    "name":"Synonyms L",
+    "h1":"Synonyms L",
+    "title":"Synonyms L",
+    "description":""
+}
+---
 
-{{pagequery>@synonyms:j *;
+====== Synonyms L ======
+
+{{pagequery>@synonyms:l *;
 display=title;
 sort=name,abc;
 group;proper=header;

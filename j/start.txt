@@ -1,4 +1,12 @@
-~~bc:J~~
+---json
+{
+    "name":"Synonyms J",
+    "h1":"Synonyms J",
+    "title":"Synonyms J",
+    "description":""
+}
+---
+
 ====== Synonyms J ======
 
 {{pagequery>@synonyms:j *;

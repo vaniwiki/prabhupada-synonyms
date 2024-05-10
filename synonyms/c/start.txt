@@ -9,14 +9,17 @@
 
 ====== Synonyms C ======
 
+<box font-size="smaller">
 {{pagequery>@synonyms:c *;
 display=title;
 sort=name,abc;
 group;
-proper=header;
+layout=column;
+cols=6;
 hidejump;
 hidemsg;
 border=inside;
 showcount;
 hidestart;
 }}
+</box>

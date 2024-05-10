@@ -1,6 +1,12 @@
-~~Title:abalāḥ~~
-{{description>all the ladies; delicate; O friends; O poor women; O women; very weak;
-}}
+---json
+{
+    "name":"abalāḥ",
+    "h1":"abalāḥ",
+    "title":"abalāḥ",
+    "description":"all the ladies; delicate; O friends; O poor women; O women; very weak."
+}
+---
+
 ==== abalāḥ  ====
   * all the ladies --- [[books:sb:10:8:24|SB 10.8.24]]
   * delicate --- [[books:sb:1:11:39|SB 1.11.39]]
